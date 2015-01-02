@@ -5,7 +5,7 @@
 <!ENTITY unreadColumn.label "Não lidas"> 
 <!ENTITY totalColumn.label "Total"> 
 <!ENTITY folderSizeColumn.label "Tamanho"> 
-
-
+<!ENTITY folderLocationToolbarItem.title "Localização da pasta">
+<!ENTITY mailViewsToolbarItem.title "Modos de visualização">
 <!ENTITY searchToolbarItem.title "Pesquisar">
-
+<!ENTITY searchSubjectOrAddress.placeholder "Pesquisar por assunto ou endereço">

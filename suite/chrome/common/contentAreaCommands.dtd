@@ -11,16 +11,16 @@
 <!ENTITY openLinkCmdInTab.accesskey   "n">
 <!ENTITY openLinkCmd.label            "Abrir em nova janela">
 <!ENTITY openLinkCmd.accesskey        "A">
-
-
+<!ENTITY openLinkCmdInPrivateWindow.label     "Abrir em nova janela privativa">
+<!ENTITY openLinkCmdInPrivateWindow.accesskey "v">
 <!ENTITY openLinkInWindowCmd.label    "Abrir">
 <!ENTITY openLinkInWindowCmd.accesskey "b">
 <!ENTITY openFrameCmd.label           "Abrir quadro em nova janela">
 <!ENTITY openFrameCmd.accesskey       "A">
 <!ENTITY openFrameCmdInTab.label      "Abrir quadro em nova aba">
 <!ENTITY openFrameCmdInTab.accesskey  "n">
-
-
+<!ENTITY keywordfield.label           "Criar palavra-chave da pesquisa…">
+<!ENTITY keywordfield.accesskey       "h">
 <!ENTITY showOnlyThisFrameCmd.label     "Exibir somente este quadro">
 <!ENTITY showOnlyThisFrameCmd.accesskey "m">
 <!ENTITY goBackCmd.label              "Voltar">
@@ -53,12 +53,12 @@
 <!ENTITY reloadImageCmd.accesskey     "R">
 <!ENTITY viewImageCmd.label           "Exibir imagem">
 <!ENTITY viewImageCmd.accesskey       "x">
-
-
+<!ENTITY viewVideoCmd.label           "Exibir vídeo">
+<!ENTITY viewVideoCmd.accesskey       "i">
 <!ENTITY viewBGImageCmd.label         "Exibir plano de fundo">
 <!ENTITY viewBGImageCmd.accesskey     "x">
-
-
+<!ENTITY setDesktopBackgroundCmd.label     "Definir papel de parede…">
+<!ENTITY setDesktopBackgroundCmd.accesskey "a">
 <!ENTITY bookmarkPageCmd.label        "Criar marcador">
 <!ENTITY bookmarkPageCmd.accesskey    "m">
 <!ENTITY bookmarkLinkCmd.label        "Criar marcador para este link">
@@ -104,16 +104,16 @@
 <!ENTITY mediaMute.accesskey          "E">
 <!ENTITY mediaUnmute.label            "Desemudecer">
 <!ENTITY mediaUnmute.accesskey        "m">
-
-
-
-
-
-
-
-
-
-
+<!ENTITY mediaPlaybackRate.label        "Velocidade de reprodução">
+<!ENTITY mediaPlaybackRate.accesskey    "d">
+<!ENTITY mediaPlaybackRate050.label     "Câmera lenta (½×)">
+<!ENTITY mediaPlaybackRate050.accesskey "C">
+<!ENTITY mediaPlaybackRate100.label     "Velocidade normal">
+<!ENTITY mediaPlaybackRate100.accesskey "n">
+<!ENTITY mediaPlaybackRate150.label     "Velocidade alta (1½×)">
+<!ENTITY mediaPlaybackRate150.accesskey "V">
+<!ENTITY mediaPlaybackRate200.label     "Velocidade dobrada">
+<!ENTITY mediaPlaybackRate200.accesskey "d">
 <!-- LOCALIZATION NOTE: The access keys for "Show Controls" and
 "Hide Controls" are the same because the two context-menu
 items are mutually exclusive. -->
@@ -121,14 +121,14 @@ items are mutually exclusive. -->
 <!ENTITY mediaShowControls.accesskey  "a">
 <!ENTITY mediaHideControls.label      "Ocultar controles de mídia">
 <!ENTITY mediaHideControls.accesskey  "a">
-
-
-
-
-
-
-
-
+<!ENTITY videoFullScreen.label        "Tela cheia">
+<!ENTITY videoFullScreen.accesskey    "c">
+<!ENTITY videoSaveImage.label         "Salvar a captura como…">
+<!ENTITY videoSaveImage.accesskey     "S">
+<!ENTITY videoShowStats.label         "Mostrar estatísticas">
+<!ENTITY videoShowStats.accesskey     "t">
+<!ENTITY videoHideStats.label         "Ocultar estatísticas">
+<!ENTITY videoHideStats.accesskey     "t">
 <!ENTITY search.accesskey             "P">
 <!ENTITY bidiSwitchPageDirectionItem.label        "Alternar a direção da página">
 <!ENTITY bidiSwitchPageDirectionItem.accesskey    "g">
@@ -136,8 +136,8 @@ items are mutually exclusive. -->
 <!ENTITY bidiSwitchTextDirectionItem.accesskey    "t">
 <!ENTITY spellAddToDictionary.label     "Adicionar ao dicionário">
 <!ENTITY spellAddToDictionary.accesskey "d">
-
-
+<!ENTITY spellUndoAddToDictionary.label      "Desfazer memorizar como correta">
+<!ENTITY spellUndoAddToDictionary.accesskey  "i">
 <!ENTITY spellIgnoreWord.label          "Ignorar palavra">
 <!ENTITY spellIgnoreWord.accesskey      "I">
 <!ENTITY spellCheckEnable.label         "Verificar ortografia">

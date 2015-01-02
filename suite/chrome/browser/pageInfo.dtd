@@ -13,14 +13,14 @@
 <!ENTITY  selectall.key          "A">
 <!ENTITY  selectall.label        "Selecionar tudo">
 <!ENTITY  selectall.accesskey    "a">
-
+<!ENTITY  openHelpMac.key        "?">
 <!ENTITY  closeWindow.key        "w">
-
-
-
-
-
-
+<!ENTITY  copyLinks.label           "Copiar link(s)">
+<!ENTITY  copyLinks.accesskey       "l">
+<!ENTITY  openInNewTab.label        "Abrir em nova aba">
+<!ENTITY  openInNewTab.accesskey    "a">
+<!ENTITY  openInNewWindow.label     "Abrir em nova janela">
+<!ENTITY  openInNewWindow.accesskey "j">
 
 <!ENTITY  generalTab            "Geral">
 <!ENTITY  generalTab.accesskey  "G">
@@ -34,8 +34,8 @@
 <!ENTITY  generalEncoding       "Codificação:">
 <!ENTITY  generalMetaName       "Nome">
 <!ENTITY  generalMetaContent    "Valor">
-
-
+<!ENTITY  generalSecurityDetails           "Detalhes">
+<!ENTITY  generalSecurityDetails.accesskey "D">
 
 <!ENTITY  formsTab              "Formulários">
 <!ENTITY  formsTab.accesskey    "F">
@@ -93,9 +93,9 @@
 <!ENTITY  permImage             "Carregar imagens">
 <!ENTITY  permPopup             "Abrir janelas popup">
 <!ENTITY  permCookie            "Definir Cookies">
-
+<!ENTITY  permNotifications     "Mostrar notificações">
 <!ENTITY  permInstall           "Instalar extensões ou temas">
-
+<!ENTITY  permGeo               "Compartilhar localização">
 
 <!ENTITY  securityTab           "Segurança">
 <!ENTITY  securityTab.accesskey "S">

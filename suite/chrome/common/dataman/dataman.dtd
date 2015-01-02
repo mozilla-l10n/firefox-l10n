@@ -2,32 +2,43 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY dataman.windowTitle "Gerenciador de dados">
 
+<!ENTITY selectAll.key "a">
 
+<!ENTITY select.all.label "Todos os tipos de dados">
+<!ENTITY select.cookies.label "Somente os cookies">
+<!ENTITY select.permissions.label "Somente as permissões">
+<!ENTITY select.preferences.label "Somente as preferências">
+<!ENTITY select.passwords.label "Somente as senhas">
+<!ENTITY select.storage.label "Somente o armazenamento">
 
+<!ENTITY domain.search.placeholder "Domínios de pesquisa">
+<!ENTITY domain.search.key "f">
 
+<!ENTITY domain.tree.domain.label "Domínio">
 
+<!ENTITY domain.ctx.forgetdomain.label "Esquecer esse domínio">
+<!ENTITY domain.ctx.forgetdomain.accesskey "E">
+<!ENTITY domain.ctx.forgetglobal.label "Esquecer dados globais">
+<!ENTITY domain.ctx.forgetglobal.accesskey "g">
 
-
-
-
-
-
-
-
-
+<!ENTITY data.search.key "k">
 
 <!ENTITY tab.cookies.label "Cookies">
 <!ENTITY tab.permissions.label "Permissões">
 <!ENTITY tab.preferences.label "Preferências">
 <!ENTITY tab.passwords.label "Senhas">
-
-
-
+<!ENTITY tab.storage.label "Armazenamento">
+<!ENTITY tab.formdata.label "Dados de formulários">
+<!ENTITY tab.forget.label "Esquecer">
 <!-- cookies -->
 
-<!ENTITY cookies.tree.name.label "Cookie">
+<!ENTITY cookies.description "Este domínio armazena os seguintes cookies no seu computador:">
 
+<!ENTITY cookies.tree.host.label "Site da web">
+<!ENTITY cookies.tree.name.label "Cookie">
+<!ENTITY cookies.tree.expires.label "Expira">
 
 <!ENTITY cookies.infobox.label "Detalhes do cookie selecionado">
 
@@ -40,82 +51,93 @@
 <!ENTITY cookies.info.expires.label "Válido até:">
 
 
+<!ENTITY cookies.ctx.selectAll.label "Selecionar tudo">
+<!ENTITY cookies.ctx.selectAll.accesskey "a">
 
 
 
-
-
-
+<!ENTITY cookies.blockOnRemove.label "Ao remover, bloquear os sites listados de definir cookies futuramente">
+<!ENTITY cookies.blockOnRemove.accesskey "A">
 <!-- permissions -->
 
 <!ENTITY perm.UseDefault "Usar padrão">
 <!ENTITY perm.AskAlways "Sempre perguntar">
-
+<!ENTITY perm.NeverSave "Nunca salvar">
 <!ENTITY perm.Allow "Permitir">
-
-
+<!ENTITY perm.AllowSameDomain "Permitir para o mesmo domínio">
+<!ENTITY perm.AllowSession "Excluir ao sair">
 <!ENTITY perm.Block "Bloquear">
 
-
-
+<!ENTITY perm.host.placeholder "Digite um nome de servidor">
+<!ENTITY perm.button.add.label "Adicionar">
+<!ENTITY perm.button.add.accesskey "A">
 <!-- preferences -->
 
+<!ENTITY prefs.description "As preferências de conteúdo são uma forma do &brandShortName; salvar configurações, como níveis de zoom, especificamente para um site.">
+
+<!ENTITY prefs.tree.name.label "Nome da preferência">
+<!ENTITY prefs.tree.value.label "Valor">
 
 
-
-
-
-
+<!ENTITY prefs.ctx.selectAll.label "Selecionar tudo">
+<!ENTITY prefs.ctx.selectAll.accesskey "a">
 
 
 <!-- passwords -->
 
+<!ENTITY pwd.description "Você tem as seguintes senhas armazenadas para este domínio:">
+
+<!ENTITY pwd.tree.username.label "Nome de usuário">
+<!ENTITY pwd.tree.password.label "Senha">
 
 
-
-
-
-
-
-
+<!ENTITY pwd.ctx.copyPasswordCmd.label "Copiar senha">
+<!ENTITY pwd.ctx.copyPasswordCmd.accesskey "C">
+<!ENTITY pwd.ctx.selectAll.label "Selecionar tudo">
+<!ENTITY pwd.ctx.selectAll.accesskey "a">
 
 
 <!-- storage -->
+
+<!ENTITY storage.description "Esse domínio utiliza os seguintes armazenamentos remotos em seu computador:">
 
 <!ENTITY storage.tree.type.label "Tipo">
 <!ENTITY storage.tree.size.label "Tamanho">
 
 
-
-
+<!ENTITY storage.ctx.selectAll.label "Selecionar tudo">
+<!ENTITY storage.ctx.selectAll.accesskey "a">
 
 
 <!-- form data -->
 
+<!ENTITY fdata.search.placeholder "Dados do campo de pesquisa">
+
 <!ENTITY fdata.tree.fieldname.label "Nome">
+<!ENTITY fdata.tree.value.label "Valor digitado">
+<!ENTITY fdata.tree.usecount.label "Contagem de Uso">
+<!ENTITY fdata.tree.firstused.label "Primeira utilização">
+<!ENTITY fdata.tree.lastused.label "Última utilização">
 
 
-
-
-
-
-
-
+<!ENTITY fdata.ctx.selectAll.label "Selecionar tudo">
+<!ENTITY fdata.ctx.selectAll.accesskey "a">
 
 
 <!-- forget -->
 
 <!ENTITY forget.cookies.label "Cookies">
 <!ENTITY forget.cookies.accesskey "C">
+<!ENTITY forget.permissions.label "Permissões">
+<!ENTITY forget.permissions.accesskey "P">
+<!ENTITY forget.preferences.label "Preferências de conteúdo">
+<!ENTITY forget.preferences.accesskey "o">
+<!ENTITY forget.passwords.label "Senhas">
+<!ENTITY forget.passwords.accesskey "a">
+<!ENTITY forget.storage.label "Armazenamento">
+<!ENTITY forget.storage.accesskey "m">
+<!ENTITY forget.formdata.label "Dados de formulário">
+<!ENTITY forget.formdata.accesskey "D">
 
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY forget.button.label "Esquecer esses dados">
+<!ENTITY forget.button.accesskey "E">

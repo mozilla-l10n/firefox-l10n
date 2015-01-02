@@ -13,12 +13,12 @@
 <!ENTITY daily.label                          "Todo dia">
 
 <!ENTITY weekly.label                         "Toda semana">
+<!ENTITY addOnsWeekly.accesskey               "k">
+<!ENTITY addOnsModeAutomatic.label            "Baixar e instalar atualizações automaticamente">
+<!ENTITY addOnsModeAutomatic.accesskey        "m">
 
 
-
-
-
-
+<!ENTITY addonManagerLink.label               "Gerenciar complementos">
 
 <!ENTITY appUpdates.caption                   "&brandShortName;">
 

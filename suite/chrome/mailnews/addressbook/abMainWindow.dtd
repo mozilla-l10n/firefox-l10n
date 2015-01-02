@@ -49,10 +49,10 @@
 <!ENTITY showAbToolbarCmd.accesskey                     "a">  
 <!ENTITY layoutMenu.label                               "Layout">
 <!ENTITY layoutMenu.accesskey                           "L">
-
-
-
-
+<!ENTITY showDirectoryPane.label                        "Painel de diretório">
+<!ENTITY showDirectoryPane.accesskey                    "d">
+<!ENTITY showContactPane2.label                         "Painel de contato">
+<!ENTITY showContactPane2.accesskey                     "c">
 <!ENTITY menu_ShowNameAs.label                          "Exibir nome como"> 
 <!ENTITY menu_ShowNameAs.accesskey                      "n"> 
 <!ENTITY firstLastCmd.label                             "Primeiro, Último">  
@@ -81,7 +81,7 @@
 <!ENTITY deleteItemButton.accesskey                     "x">
 <!ENTITY newimButton.label                              "Mensagem instantânea">  
 <!ENTITY newimButton.accesskey                          "s">  
-
+<!ENTITY searchNameAndEmail.placeholder                 "Pesquisa por nome e e-mail">
 <!ENTITY searchBox.title                                "Pesquisar">
 <!-- Tooltips -->
 
@@ -95,8 +95,12 @@
 <!ENTITY throbber.tooltip                               "Abrir o site do &vendorShortName; ">
 <!ENTITY advancedButton.tooltip                         "Mais opções de pesquisa">
 <!-- Dir Tree header -->
+
+<!ENTITY dirTreeHeader.label                            "Catálogo de endereços">
 <!-- Card Summary Pane -->
 <!-- Box Headings -->
+
+<!ENTITY contact.heading                                "Contato">
 <!ENTITY home.heading                                   "Página Inicial">
 <!ENTITY other.heading                                  "Outros">
 <!ENTITY phone.heading                                  "Telefones">
@@ -105,7 +109,8 @@
 <!ENTITY description.heading                            "Descrição">
 <!ENTITY addresses.heading                              "Endereços">
 <!-- For Map It! -->
-
+<!ENTITY mapItButton.label                              "Obter Mapa">
+<!ENTITY mapIt.tooltip                                  "Mostrar um mapa desse endereço a partir da Web">
 <!-- Status Bar -->  
 
 <!ENTITY statusText.label                               "">

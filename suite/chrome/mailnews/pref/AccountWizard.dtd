@@ -45,22 +45,24 @@
 <!ENTITY defaultPortLabel.label "Padrão:">
 <!ENTITY defaultPortValue.label "">
 <!-- LOCALIZATION NOTE (incomingServerNameDesc.label) : Do not translate "&quot;pop.example.net&quot;" in below line -->
-
-
-
-
+<!ENTITY incomingServer.description "Forneça o nome do servidor utilizado para receber mensagens (por exemplo, &quot;mail.exemplo.com.br&quot;).">
+<!ENTITY incomingServer.label "Receber mensagens através deste servidor:">
+<!ENTITY incomingServer.accesskey "R">
+<!ENTITY leaveMsgsOnSrvr.label "Manter mensagens no servidor">
+<!ENTITY leaveMsgsOnSrvr.accesskey "m">
 <!-- LOCALIZATION NOTE (incomingUsername.description) : do not translate "&quot;jsmith&quot;" in below line -->
-
-
+<!ENTITY incomingUsername.label "Nome de usuário:">
+<!ENTITY incomingUsername.accesskey "u">
 <!-- LOCALIZATION NOTE (newsServerNameDesc.label) : Do not translate "NNTP" or the "&quot;" entities in below line -->
 <!ENTITY newsServerNameDesc.label "Forneça o nome do servidor de news (NNTP) (por exemplo, &quot;news.example.com.br&quot;).">
 <!ENTITY newsServerLabel.label "Servidor de news:">
 <!ENTITY newsServerLabel.accesskey "n">
 <!-- Entities for Outgoing Server page -->
 <!-- LOCALIZATION NOTE (outgoingServer.description) : Do not translate "SMTP" and "&quot;smtp.example.net&quot;" in below line -->
+<!ENTITY outgoingServer.description "Forneça o nome do servidor utilizado para enviar mensagens (por exemplo &quot;smtp.exemplo.com.br&quot;).">
 
 
-
+<!ENTITY outgoingUsername.description "Forneça o nome de usuário do servidor SMTP (usado para enviar mensagens), dado a você pelo seu provedor de email. Normalmente é o mesmo nome de usuário usado para receber mensagens.">
 
 
 <!-- LOCALIZATION NOTE (modifyOutgoing.suffix) : This string will be appended after each of

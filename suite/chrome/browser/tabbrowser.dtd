@@ -17,6 +17,6 @@
 <!ENTITY  bookmarkGroup.accesskey  "g">
 <!ENTITY  closeTabButton.tooltip   "Fechar aba atual">
 <!ENTITY  newTabButton.tooltip   "Abrir uma nova aba">
-
+<!ENTITY  listAllTabs.tooltip    "Listar todas as abas">
 <!ENTITY  undoCloseTab.label    "Desfazer fechar aba">
 <!ENTITY  undoCloseTab.accesskey  "D">

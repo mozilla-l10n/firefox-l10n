@@ -5,7 +5,7 @@
 
 <!ENTITY linkToolbar.label "Navegação do site">
 <!ENTITY linkToolbar.accesskey "N">
-
+<!ENTITY linkToolbar.tooltip "Navegação do site">
 <!-- Link Toolbar visibility options -->
 
 <!ENTITY linkToolbarAlways.label "Exibir">
