@@ -4,7 +4,7 @@
 <!-- Subscription Dialog -->
 
 <!ENTITY feedSubscriptions.label     "订阅收取点">
-<!ENTITY subscriptionDesc.label      "说明：移除或者改变收取点的文件夹不会影响已下载的文章。">
+<!ENTITY learnMore.label             "了解收取点的更多信息">
 
 <!ENTITY feedTitle.label             "标题:">
 <!ENTITY feedTitle.accesskey         "T">
@@ -12,6 +12,8 @@
 <!ENTITY feedLocation.label          "收取点网址：">
 <!ENTITY feedLocation.accesskey      "U">
 <!ENTITY feedLocation.placeholder    "输入要添加的有效的收取点网址">
+<!ENTITY locationValidate.label      "确认有效">
+<!ENTITY validateText.label          "检查验证并获取一个有效的网址。">
 
 <!ENTITY feedFolder.label            "文章存储在：">
 <!ENTITY feedFolder.accesskey        "S">
@@ -24,9 +26,6 @@
 <!ENTITY autotagUsePrefix.label      "标签前缀：">
 <!ENTITY autotagUsePrefix.accesskey  "P">
 <!ENTITY autoTagPrefix.placeholder   "请输入一个标签前缀">
-
-<!ENTITY locationValidate.label      "确认有效">
-<!ENTITY validateText.label          "检查验证并获取一个有效的网址。">
 
 <!ENTITY button.addFeed.label        "添加">
 <!ENTITY button.addFeed.accesskey    "A">

@@ -15,6 +15,7 @@
 
 <!ENTITY  paneGeneral.title       "常规">
 <!ENTITY  paneTabs.title          "标签页">
+<!ENTITY  paneSearch.title        "搜索">
 <!ENTITY  paneContent.title       "内容">
 <!ENTITY  paneApplications.title  "应用程序">
 <!ENTITY  panePrivacy.title       "隐私">

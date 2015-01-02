@@ -8,6 +8,8 @@
 
 <!ENTITY aboutTelemetry.telemetryDisabled "  遥测<span>已禁用</span>。">
 
+<!ENTITY aboutTelemetry.generalDataSection "通用数据">
+
 <!ENTITY aboutTelemetry.slowSqlSection "  慢的SQL语句">
 
 <!ENTITY aboutTelemetry.chromeHangsSection "  浏览器挂起">
@@ -15,6 +17,8 @@
 <!ENTITY aboutTelemetry.threadHangStatsSection "  线程挂起">
 
 <!ENTITY aboutTelemetry.histogramsSection "  直方图">
+
+<!ENTITY aboutTelemetry.keyedHistogramsSection "键控直方图">
 
 <!ENTITY aboutTelemetry.simpleMeasurementsSection "  简单测量">
 

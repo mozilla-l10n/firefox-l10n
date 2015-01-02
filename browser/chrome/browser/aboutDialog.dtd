@@ -38,10 +38,13 @@
 <!ENTITY community.creditsLink      "全球社区">
 <!ENTITY community.end3             "，致力于让互联网保持开放、公开且人人可用。">
 
-<!ENTITY contribute.start           "听起来很有趣吧？ ">
-<!-- LOCALIZATION NOTE (contribute.getInvolvedLink): This is a link title that links to http://www.mozilla.org/contribute/. -->
-<!ENTITY contribute.getInvolvedLink "一起来参与！">
-<!ENTITY contribute.end             "">
+<!ENTITY helpus.start               "想帮忙吗？">
+<!-- LOCALIZATION NOTE (helpus.donateLink): This is a link title that links to https://sendto.mozilla.org/page/contribute/Give-Now?source=mozillaorg_default_footer&ref=firefox_about&utm_campaign=firefox_about&utm_source=firefox&utm_medium=referral&utm_content=20140929_FireFoxAbout. -->
+<!ENTITY helpus.donateLink          "捐赠">
+<!ENTITY helpus.middle              "或者">
+<!-- LOCALIZATION NOTE (helpus.getInvolvedLink): This is a link title that links to http://www.mozilla.org/contribute/. -->
+<!ENTITY helpus.getInvolvedLink     "一起来参与！">
+<!ENTITY helpus.end                 "">
 <!-- LOCALIZATION NOTE (bottomLinks.license): This is a link title that links to about:license. -->
 
 <!ENTITY bottomLinks.license        "授权信息">

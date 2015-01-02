@@ -8,12 +8,12 @@
 <!ENTITY tracking.label                   "用户追踪">
 <!ENTITY trackingIntro.label              "网站可能跟踪您如何使用它们，从而影响您的隐私权。">
 
-<!ENTITY dntTellSites.label               "告诉网站有关我的跟踪偏好">
-<!ENTITY dntTellSites.accesskey           "T">
-<!ENTITY dntTrackingNotOkay.label         "我不想被跟踪">
-<!ENTITY dntTrackingNotOkay.accesskey     "n">
-<!ENTITY dntTrackingOkay.label            "我同意被跟踪">
-<!ENTITY dntTrackingOkay.accesskey        "c">
+<!ENTITY doNotTrack.label                 "告诉网站我不想被追踪">
+<!ENTITY doNotTrack.accesskey             "T">
+<!ENTITY trackProtect.label               "防止已知网站的追踪行为">
+<!ENTITY trackProtect.accesskey           "n">
+<!ENTITY warnTrackContent.label           "检测到追踪行为时警告我">
+<!ENTITY warnTrackContent.accesskey       "W">
 
 <!ENTITY geoLocation.label                "位置感知浏览">
 <!ENTITY geoIntro.label                   "网站可能请求更多有关您的当前位置的信息。">

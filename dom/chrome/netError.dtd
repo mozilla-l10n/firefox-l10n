@@ -76,8 +76,8 @@
 <!ENTITY phishingBlocked.title "可疑的钓鱼网站！">
 <!ENTITY phishingBlocked.longDesc " <p>在本页面输入个人信息可能会导致账号被盗或其他危险。</p><p>这类钓鱼网站常含有被称为“钓鱼攻击”的诈骗行为，这些伪装的网页或邮件地址可能用来假冒成您信任的源地址以实施诈骗。</p> ">
 
-<!ENTITY cspFrameAncestorBlocked.title "由于内容安全策略而被阻止">
-<!ENTITY cspFrameAncestorBlocked.longDesc "<p>此页面的内容安全策略不允许浏览器以该方式加载此页面。</p>">
+<!ENTITY cspBlocked.title "由于内容安全策略而被阻止">
+<!ENTITY cspBlocked.longDesc "<p>浏览器阻止了这个页面的载入，因为该页面含有安全政策不允许的内容。</p>">
 
 <!ENTITY corruptedContentError.title "内容损坏错误">
 <!ENTITY corruptedContentError.longDesc "<p>您尝试查看的页面无法显示，因为检测到一个数据传输错误。</p><ul><li>请联系网站所有者告知此问题。</li></ul>">

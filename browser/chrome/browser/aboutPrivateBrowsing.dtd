@@ -17,7 +17,3 @@
 
 <!ENTITY privatebrowsingpage.openPrivateWindow.label "打开隐私浏览窗口">
 <!ENTITY privatebrowsingpage.openPrivateWindow.accesskey "P">
-<!-- TO BE REMOVED POST-AUSTRALIS --> 
-<!-- LOCALIZATION NOTE (privatebrowsingpage.howToStart3): please leave &basePBMenu.label; intact in the translation -->
-
-<!ENTITY privatebrowsingpage.howToStart3               "要开始隐私浏览，您也可以选择 &basePBMenu.label; &gt; &newPrivateWindow.label;。">

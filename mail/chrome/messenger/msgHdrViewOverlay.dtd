@@ -49,7 +49,8 @@
 <!ENTITY hdrViewToolbarAlwaysReplySender.label "总是回复至发件人">
 <!ENTITY hdrViewToolbarAlwaysReplySender.accesskey "R">
 
-<!ENTITY otherActionsButton1.label "其他动作">
+<!ENTITY otherActionsButton2.label "更多">
+<!ENTITY otherActionsButton.tooltip "更多操作">
 <!ENTITY otherActionsOpenConversation1.label "在会话中打开">
 <!ENTITY otherActionsOpenConversation1.accesskey "C">
 <!ENTITY otherActionsOpenInNewWindow1.label "在新窗口中打开">
