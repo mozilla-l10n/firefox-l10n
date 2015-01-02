@@ -12,7 +12,7 @@
 <!ENTITY newsgroups.label "Grupe Lajmesh">
 <!ENTITY feeds.label "Prurje">
 
-<!ENTITY unsetDefault.tooltip "Nuk është e mundur të hiqet &brandShortName; si klienti parazgjedhje brenda në &brandShortName;. Që të vendosni si parazgjedhje një tjetër zbatim, duhet të përdorni dialogun e tij 'Caktojeni si parazgjedhje'.">
+<!ENTITY unsetDefault.tooltip "Nuk është e mundur të hiqet &brandShortName; si klienti parazgjedhje brenda në &brandShortName;. Që të vendosni si parazgjedhje një tjetër aplikacion, duhet të përdorni dialogun e tij 'Caktojeni si parazgjedhje'.">
 
 <!ENTITY checkOnStartup.label "Kryeje përherë këtë kontroll kur niset &brandShortName;-i">
 <!ENTITY checkOnStartup.accesskey "K">

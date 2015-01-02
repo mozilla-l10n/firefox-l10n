@@ -209,8 +209,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY addons.label                 "Shtesa">
 <!ENTITY addons.accesskey             "S">
 <!ENTITY addons.commandkey            "A">
-<!ENTITY webapps.label                "Zbatime">
-<!ENTITY webapps.accesskey            "b">
+<!ENTITY webapps.label                "Aplikacione">
+<!ENTITY webapps.accesskey            "A">
 
 <!ENTITY webDeveloperMenu.label       "Zhvillues Web">
 <!ENTITY webDeveloperMenu.accesskey   "Z">
@@ -269,7 +269,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY devToolbarCloseButton.tooltiptext "Mbylleni Panelin e Zhvilluesit">
 <!ENTITY devToolbarMenu.label              "Paneli i Zhvilluesit">
 <!ENTITY devToolbarMenu.accesskey          "Z">
-<!ENTITY devAppMgrMenu.label               "Përgjegjës Zbatimesh">
+<!ENTITY devAppMgrMenu.label               "Përgjegjës Aplikacionesh">
 <!ENTITY devAppMgrMenu.accesskey           "P">
 <!ENTITY webide.label                      "WebIDE">
 <!ENTITY webide.accesskey                  "W">

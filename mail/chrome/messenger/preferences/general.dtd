@@ -10,8 +10,8 @@
 <!ENTITY useDefault.label                 "Rimerr Parazgjedhjet">
 <!ENTITY useDefault.accesskey             "R">
 
-<!ENTITY changeDockIconOptions.label      "Ndryshoni parapëlqimet për ikonën e zbatimit">
-<!ENTITY dockOptions.label                "Mundësi Ikone Zbatimi…">
+<!ENTITY changeDockIconOptions.label      "Ndryshoni parapëlqimet për ikonën e aplikacionit">
+<!ENTITY dockOptions.label                "Mundësi Ikone Aplikacioni…">
 <!ENTITY dockOptions.accesskey            "M">
 
 <!ENTITY newMessagesArrive.label          "Kur mbërrijnë mesazhe të rinj:">

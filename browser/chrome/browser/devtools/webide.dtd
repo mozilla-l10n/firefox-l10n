@@ -6,19 +6,19 @@
 
 <!ENTITY projectMenu_label "Projekt">
 <!ENTITY projectMenu_accesskey "P">
-<!ENTITY projectMenu_newApp_label "Zbatim i Ri…">
+<!ENTITY projectMenu_newApp_label "Aplikacion i Ri…">
 <!ENTITY projectMenu_newApp_accesskey "R">
-<!ENTITY projectMenu_importPackagedApp_label "Hapni Zbatim të Paketuar…">
+<!ENTITY projectMenu_importPackagedApp_label "Hapni Aplikacion të Paketuar…">
 <!ENTITY projectMenu_importPackagedApp_accesskey "P">
-<!ENTITY projectMenu_importHostedApp_label "Hapni Zbatim të Strehuar…">
+<!ENTITY projectMenu_importHostedApp_label "Hapni Aplikacion të Strehuar…">
 <!ENTITY projectMenu_importHostedApp_accesskey "S">
-<!ENTITY projectMenu_selectApp_label "Hapni Zbatim…">
+<!ENTITY projectMenu_selectApp_label "Hapni Aplikacion…">
 <!ENTITY projectMenu_selectApp_accesskey "Z">
 <!ENTITY projectMenu_play_label "Instaloje dhe Xhiroje">
 <!ENTITY projectMenu_play_accesskey "I">
-<!ENTITY projectMenu_stop_label "Ndale Zbatimin">
+<!ENTITY projectMenu_stop_label "Ndale Aplikacionin">
 <!ENTITY projectMenu_stop_accesskey "N">
-<!ENTITY projectMenu_debug_label "Diagnostikojeni Zbatimin">
+<!ENTITY projectMenu_debug_label "Diagnostikojeni Aplikacionin">
 <!ENTITY projectMenu_debug_accesskey "D">
 <!ENTITY projectMenu_remove_label "Hiqe Projektin">
 <!ENTITY projectMenu_remove_accesskey "q">
@@ -53,7 +53,7 @@
 <!ENTITY viewMenu_resetzoom_label "Sa origjinali">
 <!ENTITY viewMenu_resetzoom_accesskey "o">
 
-<!ENTITY projectButton_label "Hape Zbatimin">
+<!ENTITY projectButton_label "Hape Aplikacionin">
 <!ENTITY runtimeButton_label "Përzgjidhni Runtime">
 
 <!-- We try to replicate Firefox' bindings: -->
@@ -74,7 +74,7 @@
 <!ENTITY key_resetzoom "0">
 
 <!ENTITY projectPanel_myProjects "Projektet e Mia">
-<!ENTITY projectPanel_runtimeApps "Zbatime Runtime">
+<!ENTITY projectPanel_runtimeApps "Aplikacione Runtime">
 <!ENTITY projectPanel_tabs "Skeda">
 <!ENTITY runtimePanel_usb "Pajisje USB">
 <!ENTITY runtimePanel_wifi "Pajisje Wi-Fi">
@@ -91,11 +91,11 @@
 <!ENTITY details_error_header "gabime">
 <!ENTITY details_description "Përshkrim">
 <!ENTITY details_location "Vendndodhje">
-<!ENTITY details_manifestURL "ID Zbatimi">
+<!ENTITY details_manifestURL "ID Aplikacioni">
 <!ENTITY details_removeProject_button "Hiqe Projektin">
 
 <!-- New App -->
-<!ENTITY newAppWindowTitle "Zbatim i Ri">
+<!ENTITY newAppWindowTitle "Aplikacion i Ri">
 <!ENTITY newAppHeader "Përzgjidhni gjedhe">
 <!ENTITY newAppLoadingTemplate "Po ngarkohen gjedhet…">
 <!ENTITY newAppProjectName "Emër Projekti:">
