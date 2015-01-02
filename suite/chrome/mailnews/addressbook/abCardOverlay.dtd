@@ -31,8 +31,8 @@
 <!ENTITY PhoneticField2.label           "Fonético:">
 <!ENTITY DisplayName.label              "Apresentar como:">
 <!ENTITY DisplayName.accesskey          "m">
-
-
+<!ENTITY preferDisplayName.label        "Usar o nome de &quot;Apresentar como&quot; ao exibir mensagens">
+<!ENTITY preferDisplayName.accesskey    "a">
 <!ENTITY NickName.label                 "Apelido:">
 <!ENTITY NickName.accesskey             "A">
 
@@ -48,7 +48,8 @@
 <!ENTITY ScreenName.label               "Nome de tela:">
 <!ENTITY ScreenName.accesskey           "N">
 
-
+<!ENTITY allowRemoteContent1.label      "Permitir conteúdo remoto.">
+<!ENTITY allowRemoteContent1.accesskey  "r">
 <!ENTITY allowRemoteContent1.tooltip    "Em mensagens HTML é possível incluir 
 imagens de origens remotas. Abrir uma mensagem dessas irá abrir uma 
 ligação a uma fonte externa. Isto pode permitir rastreamento da 
