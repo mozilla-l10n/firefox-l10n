@@ -11,7 +11,6 @@
 <!ENTITY defaultSearchEngine.label        "Usar:">
 <!ENTITY defaultSearchEngine.accesskey    "s">
 
-<!ENTITY engineManager.label              "Gerenciar mecanismos de pesquisa…">
 
 <!ENTITY searchResults.label              "Resultados da pesquisa">
 

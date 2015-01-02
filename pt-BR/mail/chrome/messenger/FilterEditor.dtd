@@ -17,8 +17,8 @@
 <!ENTITY highestPriorityCmd.label "Altíssima">
 
 <!ENTITY contextDesc.label "Aplicar filtro ao:">
-<!ENTITY contextIncomingMail.label "Receber novas mensagens:">
-<!ENTITY contextIncomingMail.accesskey "R">
+<!ENTITY contextIncomingMail.label "Ao receber novas mensagens:">
+<!ENTITY contextIncomingMail.accesskey "g">
 <!ENTITY contextManual.label "Aplicar manualmente">
 <!ENTITY contextManual.accesskey "A">
 <!ENTITY contextBeforeCls.label "Filtrar antes de aplicar o Antispam">
