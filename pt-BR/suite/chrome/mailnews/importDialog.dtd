@@ -7,8 +7,8 @@
 <!ENTITY importAll.accesskey      "t">
 <!ENTITY importMail.label         "Email">
 <!ENTITY importMail.accesskey     "m">
-
-
+<!ENTITY importFeeds.label        "Inscrições RSS">
+<!ENTITY importFeeds.accesskey    "R">
 <!ENTITY importAddressbook.label  "Catálogos de endereços">
 <!ENTITY importAddressbook.accesskey "C">
 <!ENTITY importSettings.label     "Configurações">
@@ -26,7 +26,7 @@
 <!ENTITY importDescription2.label "Uma vez importados, você poderá acessá-los no &brandShortName;.">
 
 <!ENTITY selectDescription.label  "Por favor selecione o programa do qual você deseja importar:">
-
+<!ENTITY selectDescriptionB.label "Por favor, selecione uma conta existente ou crie uma conta nova:">
 <!ENTITY selectDescription.accesskey "P">
 <!ENTITY acctName.label           "Nome:">
 <!ENTITY acctName.accesskey       "N">

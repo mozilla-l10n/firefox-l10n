@@ -7,10 +7,10 @@
 <!ENTITY searchHeading.accesskey     "P">
 <!ENTITY searchSubfolders.label      "Incluir subpastas">
 <!ENTITY searchSubfolders.accesskey  "s">
-
-
-
-
+<!ENTITY searchOnHeading.label       "Fazer pesquisas em:">
+<!ENTITY searchOnHeading.accesskey   "p">
+<!ENTITY searchOnRemote.label        "Servidor remoto">
+<!ENTITY searchOnLocal.label         "Sistema local">
 <!ENTITY resetButton.label           "Limpar">
 <!ENTITY resetButton.accesskey       "L">
 <!ENTITY openButton.label            "Abrir">
@@ -19,10 +19,10 @@
 <!ENTITY deleteButton.accesskey      "x">
 <!ENTITY searchDialogTitle.label     "Pesquisar mensagens">
 <!ENTITY results.label               "Resultados">
-
-
-
-
+<!ENTITY moveHereMenu.label          "Mover aqui">
+<!ENTITY moveHereMenu.accesskey      "v">
+<!ENTITY moveButton.label            "Mover para">
+<!ENTITY moveButton.accesskey        "p">
 <!ENTITY goToFolderButton.label      "Abrir pasta da mensagem">
 <!ENTITY goToFolderButton.accesskey  "b">
 <!ENTITY saveAsVFButton.label        "Salvar como pasta de pesquisa">
