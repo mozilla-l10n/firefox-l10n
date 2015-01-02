@@ -16,7 +16,8 @@
 <!ENTITY  pref.certs.title         "Certificados">
 <!ENTITY  certs.label              "Certificados">
 
+<!ENTITY validation.ocsp.caption                  "OCSP">
 
 
-
+<!ENTITY validation.requireOCSP.description       "Quando a conexão com o servidor OCSP falhar, tratar o certificado como inválido">
 

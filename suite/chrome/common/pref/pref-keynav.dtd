@@ -10,7 +10,7 @@
 <!ENTITY tabNavigationForms.accesskey "B">
 <!ENTITY tabNavigationTextboxes.label "NOTA: Caixas de texto sempre fazem parte da ordem da tecla tab.">
 <!ENTITY tabNavigationDesc.label "Tab e Shift+Tab movem o foco entre:">
-
+<!ENTITY accessibilityBrowseWithCaret.label "Navegação por cursor">
 
 
 
