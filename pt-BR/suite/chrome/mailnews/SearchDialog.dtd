@@ -7,8 +7,8 @@
 <!ENTITY searchHeading.accesskey     "P">
 <!ENTITY searchSubfolders.label      "Incluir subpastas">
 <!ENTITY searchSubfolders.accesskey  "s">
-
-
+<!ENTITY searchOnHeading.label       "Fazer pesquisas em:">
+<!ENTITY searchOnHeading.accesskey   "p">
 <!ENTITY searchOnRemote.label        "Servidor remoto">
 <!ENTITY searchOnLocal.label         "Sistema local">
 <!ENTITY resetButton.label           "Limpar">
@@ -19,8 +19,8 @@
 <!ENTITY deleteButton.accesskey      "x">
 <!ENTITY searchDialogTitle.label     "Pesquisar mensagens">
 <!ENTITY results.label               "Resultados">
-
-
+<!ENTITY moveHereMenu.label          "Mover aqui">
+<!ENTITY moveHereMenu.accesskey      "v">
 
 
 <!ENTITY goToFolderButton.label      "Abrir pasta da mensagem">
