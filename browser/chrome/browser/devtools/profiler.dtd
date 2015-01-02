@@ -37,7 +37,6 @@
 
 <!ENTITY profilerUI.clearButton "Temizle">
 
-<!ENTITY profilerUI.invertTree.tooltiptext "Çağrı ağacını tersine çevirmek, profillenen çağrı yollarını en yeni çerçevelerden eski çerçevelere doğru görüntüler.">
 <!-- LOCALIZATION NOTE (profilerUI.table.*): These strings are displayed
   -  in the call tree headers for a recording. -->
 
