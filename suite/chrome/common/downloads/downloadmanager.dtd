@@ -21,7 +21,7 @@
 <!ENTITY col.name.tooltip                "Nome do arquivo">
 <!ENTITY col.status.label                "Status">
 <!ENTITY col.status.accesskey            "S">
-<!ENTITY col.status.tooltip              "Estado">
+<!ENTITY col.status.tooltip              "Status">
 
 
 

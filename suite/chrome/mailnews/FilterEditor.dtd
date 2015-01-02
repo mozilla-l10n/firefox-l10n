@@ -40,7 +40,7 @@
 <!ENTITY markMessageStarred.label "Marcar como sinalizada">
 <!ENTITY setPriority.label "Definir prioridade como">
 <!ENTITY addTag.label "Rotular mensagem">
-<!ENTITY setJunkScore.label "Definir o estado de spam para:">
+<!ENTITY setJunkScore.label "Definir o status de spam para">
 <!ENTITY deleteMessage.label "Excluir mensagem">
 <!ENTITY deleteFromPOP.label "Excluir do servidor POP">
 <!ENTITY fetchFromPOP.label "Baixar do servidor POP">
