@@ -15,11 +15,13 @@
 <!ENTITY warnTrackContent.label           "Me avise quando atividades comuns de rastreamento forem detectadas">
 <!ENTITY warnTrackContent.accesskey       "M">
 
+<!ENTITY geoLocation.label                "Navegação sensível à localização">
 <!ENTITY geoIntro.label                   "Sites podem solicitar mais informações sobre sua localização atual.">
 
-
-
-
+<!ENTITY geoEnabled.label                 "Solicitar minha permissão se uma requisição for feita">
+<!ENTITY geoEnabled.accesskey             "m">
+<!ENTITY geoDisabled.label                "Desativar esta funcionalidade e negar todas as solicitações">
+<!ENTITY geoDisabled.accesskey            "D">
 <!-- LOCALIZATION NOTE (safeBrowsing.label, blockWebForgeries.label, blockAttackSites.label):
   The methods by which forged (phished) and attack sites will be detected by
   phishing providers will vary from human review to machine-based heuristics
@@ -28,7 +30,7 @@
 -->
 
 <!ENTITY safeBrowsing.label               "Navegação segura">
-
+<!ENTITY safeBrowsingIntro.label          "O &brandShortName; pode bloquear sites avaliados como tendo conteúdo malicioso.">
 
 <!ENTITY blockAttackSites.label           "Bloquear sites avaliados como focos de ataques (malware, vírus)">
 <!ENTITY blockAttackSites.accesskey       "B">

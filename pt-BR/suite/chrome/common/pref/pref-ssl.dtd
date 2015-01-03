@@ -8,7 +8,7 @@
 <!ENTITY  SSLClientAuthMethod.caption       "Seleção do certificado do cliente">
 
 <!ENTITY pref.ssl.title                     "Secure Sockets Layer (SSL)">
-
+<!ENTITY limit.description                  "Você pode restringir quais protocolos de criptografia usar para a segurança das conexões. Escolha uma única versão ou um intervalo de versões.">
 <!ENTITY limit.enable.label                 "Ativar:">
 <!ENTITY limit.ssl30.label                  "SSL 3.0">
 <!ENTITY limit.ssl30.accesskey              "3">
@@ -19,6 +19,7 @@
 <!ENTITY limit.tls12.label                  "TLS 1.2">
 <!ENTITY limit.tls12.accesskey              "2">
 
+<!ENTITY warn.description2                  "O &brandShortName; pode te alertar sobre o status de segurança da página web que você esteja vendo. O &brandShortName; deve exibir um alerta quando:">
 <!ENTITY warn.enteringsecure                "Carregar uma página que usa criptografia">
 <!ENTITY warn.enteringsecure.accesskey      "C">
 <!ENTITY warn.insecurepost                  "Enviar informações de formulário de uma página não criptografada para outra página não criptografada">
@@ -26,14 +27,15 @@
 <!ENTITY warn.leavingsecure                 "Sair de uma página criptografada">
 <!ENTITY warn.leavingsecure.accesskey       "S">
 
-
-
-
-
-
-
-
-
+<!ENTITY mixed.description                  "Páginas criptografadas podem conter conteúdo não criptografado que é vulnerável a espionagem ou fraudes. O &brandShortName; pode detectar e bloquear o seguinte:">
+<!ENTITY warn.mixedactivecontent            "Me alerte quando páginas criptografadas contiverem conteúdo inseguro">
+<!ENTITY warn.mixedactivecontent.accesskey  "a">
+<!ENTITY block.activecontent                "Não carregue conteúdo inseguro em páginas criptografadas">
+<!ENTITY block.activecontent.accesskey      "N">
+<!ENTITY warn.mixeddisplaycontent           "Me alerte quando páginas criptografadas contiverem outros tipos de conteúdos mesclados">
+<!ENTITY warn.mixeddisplaycontent.accesskey "c">
+<!ENTITY block.displaycontent               "Não carregar outros conteúdos mesclados em páginas criptografadas">
+<!ENTITY block.displaycontent.accesskey     "m">
 
 <!ENTITY certselect.description             "Escolha como o &brandShortName; seleciona um certificado de segurança para apresentar a sites que solicitem um:">
 <!ENTITY certselect.auto                    "Selecionar automaticamente">
