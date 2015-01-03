@@ -17,7 +17,8 @@
 <!ENTITY deleteBookmarks.label        "Excluir todos os favoritos, exceto os backups">
 <!ENTITY deleteBookmarks.accesskey    "b">
 
-
+<!ENTITY resetUserPrefs.label         "Restaurar todas preferências de usuário para os padrões do &brandShortName;">
+<!ENTITY resetUserPrefs.accesskey     "p">
 
 <!ENTITY restoreSearch.label          "Restaurar mecanismos de pesquisa padrão">
 <!ENTITY restoreSearch.accesskey      "R">
