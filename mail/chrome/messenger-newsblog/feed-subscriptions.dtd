@@ -4,7 +4,7 @@
 <!-- Subscription Dialog -->
 
 <!ENTITY feedSubscriptions.label     "Subscripcions RSS">
-
+<!ENTITY learnMore.label             "Més informació sobre els canals RSS">
 
 <!ENTITY feedTitle.label             "Títol:">
 <!ENTITY feedTitle.accesskey         "T">
