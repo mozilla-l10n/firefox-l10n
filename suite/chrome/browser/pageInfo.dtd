@@ -51,7 +51,7 @@
 <!ENTITY  formCValue            "Valor atual">
 
 <!ENTITY  linksTab              "Links">
-
+<!ENTITY  linksTab.accesskey    "L">
 <!ENTITY  linkName              "Nome">
 <!ENTITY  linkAddress           "Endereço">
 <!ENTITY  linkType              "Tipo">
