@@ -485,8 +485,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY loaded_tracking_content_message_top "Apsauga nuo stebėjimo išjungta.">
 <!ENTITY loaded_tracking_content_message_bottom "Kai kurios šio tinklalapio dalys gali stebėti jūsų atliekamus veiksmus.">
-
-
+<!ENTITY blocked_tracking_content_message_top2 "Apsauga nuo stebėjimo įjungta.">
+<!ENTITY blocked_tracking_content_message_bottom2 "Buvo užblokuotos tam tikros tinklalapio dalys, kurios stebėtų jūsų atliekamus veiksmus.">
 <!-- Common mixed and tracking content strings in site identity popup -->
 
 <!ENTITY learn_more "Sužinoti daugiau">
