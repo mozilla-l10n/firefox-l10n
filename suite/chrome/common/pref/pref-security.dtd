@@ -8,12 +8,12 @@
 <!ENTITY tracking.label                   "Rastreamento de usuário">
 <!ENTITY trackingIntro.label              "Sites podem rastrear como você os utiliza, afetando assim a sua privacidade.">
 
-<!ENTITY doNotTrack.label                 "Notificar aos sites que não quero ser rastreado">
-<!ENTITY doNotTrack.accesskey             "t">
-<!ENTITY trackProtect.label               "Prevenir atividades de rastreamento por sites conhecidos">
-<!ENTITY trackProtect.accesskey           "n">
-<!ENTITY warnTrackContent.label           "Me avise quando atividades comuns de rastreamento forem detectadas">
-<!ENTITY warnTrackContent.accesskey       "M">
+<!ENTITY dntTellSites.label               "Notificar aos sites sobre minhas preferências de rastreamento">
+<!ENTITY dntTellSites.accesskey           "t">
+<!ENTITY dntTrackingNotOkay.label         "Eu não quero ser rastreado">
+<!ENTITY dntTrackingNotOkay.accesskey     "n">
+<!ENTITY dntTrackingOkay.label            "Eu concordo em ser rastreado">
+<!ENTITY dntTrackingOkay.accesskey        "c">
 
 <!ENTITY geoLocation.label                "Navegação sensível à localização">
 <!ENTITY geoIntro.label                   "Sites podem solicitar mais informações sobre sua localização atual.">
