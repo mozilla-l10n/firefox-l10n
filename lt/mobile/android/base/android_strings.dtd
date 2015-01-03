@@ -172,7 +172,8 @@
 <!ENTITY pref_cookies_not_accept_foreign "Leidžiami, išskyrus trečiųjų šalių">
 <!ENTITY pref_cookies_disabled "Neleidžiami">
 
-
+<!ENTITY pref_donottrack_title "Nestebėti">
+<!ENTITY pref_donottrack_summary "&brandShortName; praneš svetainėms, kad jūs nenorite būti stebimi">
 
 <!ENTITY pref_char_encoding "Simbolių koduotė">
 <!ENTITY pref_char_encoding_on "Rodyti meniu">
@@ -208,7 +209,8 @@ size. -->
 
 <!ENTITY pref_font_size_preview_text "Įlinkdama fechtuotojo špaga sublykčiojusi pragręžė apvalų arbūzą.">
 
-
+<!ENTITY pref_media_autoplay_enabled "Leisti automatinį grojimą">
+<!ENTITY pref_media_autoplay_enabled_summary "Nustatykite, ar svetainės gali automatiškai paleisti vaizdo įrašus bei kitą medijos turinį">
 
 <!ENTITY pref_use_master_password "Naudoti pagrindinį slaptažodį">
 <!ENTITY pref_sync "Sinchronizavimas">
@@ -365,6 +367,8 @@ size. -->
      panel on the home page to give the user an estimate of how many minutes it will take to
      read an article. The word "minute" should be abbreviated if possible. -->
 
+<!ENTITY reading_list_time_minutes2 "&formatD; min.">
+<!ENTITY reading_list_time_over_an_hour "Virš valandos">
 <!-- Localization note : These strings are used as alternate text for accessibility.
      They are not visible in the UI. -->
 
@@ -402,6 +406,7 @@ size. -->
 <!ENTITY home_most_recent_empty "Čia išvardijamos jūsų paskiausiai lankytos svetainės.">
 <!-- Localization note (home_most_recent_emptyhint2): "Psst" is a sound that might be used to attract someone's attention unobtrusively, and intended to hint at Private Browsing to the user.
      The placeholders &formatS1; and &formatS2; are used to mark the location of text underlining. -->
+<!ENTITY home_most_recent_emptyhint2 "Ei! Atvėrus &formatS1;naują privačiąją kortelę&formatS2; niekas nebus įrašoma į naršymo žurnalą.">
 <!ENTITY home_reading_list_empty "Čia rodomi straipsniai, kuriuos įtraukėte į skaitinių sąrašą.">
 <!-- Localization note (home_reading_list_hint): The "TIP" string is synonymous to "hint", "clue", etc. This string is displayed
      as an advisory message on how to add content to the reading list when the reading list empty.
@@ -469,8 +474,8 @@ substitution variables.  If it is difficult to translate the sense of the string
 with that structure, consider a translation which ignores the preceding domain and
 just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_run_by "kurią valdo">
-
-
+<!ENTITY identity_no_info "Ši svetainė nepateikia tapatybės duomenų.">
+<!ENTITY identity_not_encrypted "Jūsų ryšys su šia svetaine nėra šifruotas.">
 <!-- Mixed content notifications in site identity popup -->
 
 <!ENTITY loaded_mixed_content_message "Šiame tinklalapyje esama įkelto neapsaugoto turinio.">
@@ -478,6 +483,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY blocked_mixed_content_message_bottom "Dauguma svetainių veikia korektiškai net kai šis turinys blokuojamas.">
 <!-- Tracking content notifications in site identity popup -->
 
+<!ENTITY loaded_tracking_content_message_top "Apsauga nuo stebėjimo išjungta.">
+<!ENTITY loaded_tracking_content_message_bottom "Kai kurios šio tinklalapio dalys gali stebėti jūsų atliekamus veiksmus.">
 
 
 <!-- Common mixed and tracking content strings in site identity popup -->
