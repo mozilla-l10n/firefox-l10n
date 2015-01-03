@@ -96,7 +96,7 @@
 <!ENTITY selectFlaggedCmd.accesskey "M">
 <!ENTITY folderPropsCmd.label "Propriedades">
 <!ENTITY folderPropsFolderCmd.label "Propriedades da pasta">
-<!ENTITY folderPropsNewsgroupCmd.label "Propriedades do newsgroup">
+<!ENTITY folderPropsNewsgroupCmd.label "Propriedades do grupo de notícias">
 <!ENTITY folderPropsCmd.accesskey "e">
 <!ENTITY accountManagerCmd.label "Configurações de contas...">
 <!ENTITY accountManagerCmd.accesskey "u">
@@ -287,14 +287,14 @@
 <!ENTITY replyMsgCmd.key "r">
 <!ENTITY replyListCmd.label "Responder à lista">
 <!ENTITY replyListCmd.accesskey "l">
-<!ENTITY replyNewsgroupCmd.label "Responder ao newsgroup">
+<!ENTITY replyNewsgroupCmd.label "Responder ao grupo de notícias">
 <!ENTITY replyNewsgroupCmd.accesskey "n">
 <!ENTITY replySenderCmd.label "Responder">
 <!ENTITY replySenderCmd.accesskey "R">
 <!ENTITY replyToAllMsgCmd.label "Responder a todos">
 <!ENTITY replyToAllMsgCmd.accesskey "t">
 <!ENTITY replyToAllMsgCmd.key "r">
-<!ENTITY replyToSenderAndNewsgroupCmd.label "Responder ao remetente e ao newsgroup">
+<!ENTITY replyToSenderAndNewsgroupCmd.label "Responder ao remetente e ao grupo de notícias">
 <!ENTITY replyToSenderAndNewsgroupCmd.accesskey "p">
 <!ENTITY replyToAllRecipientsCmd.label "Responder para todos">
 <!ENTITY replyToAllRecipientsCmd.accesskey "a">
@@ -431,7 +431,7 @@
 <!ENTITY newMsgButton.tooltip "Nova mensagem">
 <!ENTITY replyButton.tooltip "Responder apenas ao remetente">
 <!ENTITY replyAllButton.tooltip "Responder ao remetente com cópia a todos os destinatários">
-<!ENTITY replyAllButtonNews.tooltip "Responder ao remetente e ao newsgroup">
+<!ENTITY replyAllButtonNews.tooltip "Responder ao remetente e ao grupo de notícias">
 <!ENTITY forwardButton.tooltip "Repassar a mensagem selecionada">
 <!ENTITY fileButton.tooltip "Mover para outra pasta">
 <!ENTITY nextButton.tooltip "Próxima mensagem não lida">
@@ -459,11 +459,11 @@
 <!ENTITY contextReplySender.accesskey "R">
 <!ENTITY contextReplyList.label "Responder à lista">
 <!ENTITY contextReplyList.accesskey "l">
-<!ENTITY contextReplyNewsgroup.label "Responder ao newsgroup">
+<!ENTITY contextReplyNewsgroup.label "Responder ao grupo de notícias">
 <!ENTITY contextReplyNewsgroup.accesskey "u">
 <!ENTITY contextReplyAll.label "Responder a todos">
 <!ENTITY contextReplyAll.accesskey "t">
-<!ENTITY contextReplySenderAndNewsgroup.label "Responder ao remetente e ao Newsgroup">
+<!ENTITY contextReplySenderAndNewsgroup.label "Responder ao remetente e ao grupo de notícias">
 <!ENTITY contextReplySenderAndNewsgroup.accesskey "R">
 <!ENTITY contextForward.label "Encaminhar">
 <!ENTITY contextForward.accesskey "E">
@@ -505,7 +505,7 @@
 <!ENTITY folderContextSendUnsentMessages.accesskey "e">
 <!ENTITY folderContextUnsubscribe.label "Cancelar inscrição">
 <!ENTITY folderContextUnsubscribe.accesskey "C">
-<!ENTITY folderContextMarkNewsgroupRead.label "Marcar newsgroup como lido">
+<!ENTITY folderContextMarkNewsgroupRead.label "Marcar grupo de notícias como lido">
 <!ENTITY folderContextMarkNewsgroupRead.accesskey "l">
 <!ENTITY folderContextMarkMailFolderRead.label "Marcar a pasta como lida">
 <!ENTITY folderContextMarkMailFolderRead.accesskey "l">

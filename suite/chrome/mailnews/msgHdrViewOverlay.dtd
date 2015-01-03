@@ -12,7 +12,7 @@
 <!--# LOCALIZATION NOTE (ccField.label): DONT_TRANSLATE -->
 <!ENTITY ccField.label "Cc: ">
 <!ENTITY bccField.label "BCC:">
-<!ENTITY newsgroupsField.label "Newsgroup:">
+<!ENTITY newsgroupsField.label "Grupos de notícias: ">
 <!ENTITY followupToField.label "Encaminhar-Para:">
 
 <!ENTITY tagsHdr.label "Rótulos: ">
