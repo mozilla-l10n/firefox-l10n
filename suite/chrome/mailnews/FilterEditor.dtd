@@ -3,10 +3,11 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY window.title "Propriedades do filtro">
-
+<!ENTITY filterEditorDialog.dimensions "width: 105ch;">
 <!ENTITY filterName.label "Nome do filtro:">
 <!ENTITY filterName.accesskey "f">
 
+<!ENTITY recentFolders.label "Recentes">
 
 <!ENTITY junk.label "Spam">
 <!ENTITY notJunk.label "Não spam">
@@ -22,13 +23,14 @@
 <!ENTITY contextIncomingMail.accesskey "g">
 <!ENTITY contextManual.label "Aplicar manualmente">
 <!ENTITY contextManual.accesskey "m">
-
-
+<!ENTITY contextBeforeCls.label "Filtrar antes de aplicar o Antispam">
+<!ENTITY contextAfterCls.label "Filtrar depois de aplicar o Antispam">
 
 <!ENTITY filterActionDesc.label "Executar estas ações:">
 <!ENTITY filterActionDesc.accesskey "x">
 
-
+<!ENTITY filterActionOrderWarning.label "Observação: os filtros serão aplicados em uma ordem diferente.">
+<!ENTITY filterActionOrder.label "Ver ordem de execução">
 <!-- New Style Filter Rule Actions -->
 
 <!ENTITY moveMessage.label "Mover mensagem para">
@@ -36,7 +38,7 @@
 <!ENTITY forwardTo.label "Encaminhar mensagem para">
 <!ENTITY replyWithTemplate.label "Responder com modelo">
 <!ENTITY markMessageRead.label "Marcar como lida">
-
+<!ENTITY markMessageUnread.label "Marcar como não lida">
 <!ENTITY markMessageStarred.label "Marcar como sinalizada">
 <!ENTITY setPriority.label "Definir prioridade como">
 <!ENTITY addTag.label "Rotular mensagem">
@@ -49,10 +51,12 @@
 <!ENTITY watchThread.label "Monitorar tópico">
 <!ENTITY stopExecution.label "Interromper execução do filtro">
 
-
+<!ENTITY addAction.tooltip "Adicionar uma nova ação">
+<!ENTITY removeAction.tooltip "Remover esta ação">
 <!-- LOCALIZATION NOTE
   The values below are used to control the widths of the filter action widgets.
   Change the values only when the localized strings in the popup menus
   are truncated in the widgets.
  -->
-
+<!ENTITY filterActionTypeFlexValue "1">
+<!ENTITY filterActionTargetFlexValue "4">
