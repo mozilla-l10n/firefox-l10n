@@ -26,12 +26,12 @@
 <!ENTITY autoCompleteMatchWordsFirst           "Em qualquer lugar, mas preferivelmente em bordas de palavras">
 <!ENTITY autoCompleteMatchWords                "Somente em bordas de palavras">
 <!ENTITY autoCompleteMatchStart                "Somente no início do endereço ou título">
-
-
+<!ENTITY showInternetSearch.label              "Mostrar mecanismo padrão de pesquisa na Internet">
+<!ENTITY showInternetSearch.accesskey          "p">
 
 <!ENTITY formatting.label                      "Formatação">
-
-
+<!ENTITY domainFormatting.label                "Realçar o dominio efetivo dos sites e servidores FTP">
+<!ENTITY domainFormatting.accesskey            "d">
 <!ENTITY highlightSecure.label                 "Destacar páginas web com um alto nível de segurança de conexão">
 <!ENTITY highlightSecure.accesskey             "c">
 

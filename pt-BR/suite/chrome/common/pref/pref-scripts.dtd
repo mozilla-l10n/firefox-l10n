@@ -25,7 +25,8 @@
 <!ENTITY enablePluginForSuite.label      "Suite">
 <!ENTITY enablePluginForSuite.accesskey  "u">
 
+<!ENTITY whenPageRequiresPlugins.label   "Quando a página necessitar usar plugins">
 <!ENTITY activateAllPlugins.label        "Ativar todos plugins por padrão">
 <!ENTITY activateAllPlugins.accesskey    "d">
-
-
+<!ENTITY warnPluginsRequired.label       "Alertar se plugins adicionais precisam ser instalados">
+<!ENTITY warnPluginsRequired.accesskey   "A">
