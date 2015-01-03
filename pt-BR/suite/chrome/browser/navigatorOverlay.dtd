@@ -13,7 +13,8 @@
 <!ENTITY openFileCmd.accesskey "o">
 <!ENTITY openFileCmd.commandkey "o">
 
-
+<!ENTITY closeOtherTabs.label "Fechar as outras abas">
+<!ENTITY closeOtherTabs.accesskey "o">
 
 <!ENTITY uploadFile.label "Enviar arquivo">
 <!ENTITY uploadFile.accesskey "E">
