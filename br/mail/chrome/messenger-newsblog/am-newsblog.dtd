@@ -15,10 +15,10 @@
 <!ENTITY manageSubscriptions.label "Ardeiñ ar c'houmanantoù…"> 
 <!ENTITY manageSubscriptions.accesskey "m">
 
-<!ENTITY feedWindowTitle.label "Skoazeller ar c'hontoù lanvioù">
+<!ENTITY feedWindowTitle.label "Skoazeller ar c'hontoù lanvoù">
 <!-- entities from rss.rdf -->
 
-<!ENTITY feeds.accountName "Blogoù ha Lanvioù keleier">
-<!ENTITY feeds.wizardShortName "Lanvioù">
-<!ENTITY feeds.wizardLongName "Blogoù ha Lanvioù keleier">
+<!ENTITY feeds.accountName "Blogoù ha Lanvoù keleier">
+<!ENTITY feeds.wizardShortName "Lanvoù">
+<!ENTITY feeds.wizardLongName "Blogoù ha Lanvoù keleier">
 <!ENTITY feeds.wizardLongName.accesskey "B">

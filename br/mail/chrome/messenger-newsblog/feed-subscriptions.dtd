@@ -3,8 +3,8 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!-- Subscription Dialog -->
 
-<!ENTITY feedSubscriptions.label     "Koumanantoù da lanvioù">
-<!ENTITY learnMore.label             "Gouzout hiroc'h a-zivout al lanvioù">
+<!ENTITY feedSubscriptions.label     "Koumanantoù da lanvoù">
+<!ENTITY learnMore.label             "Gouzout hiroc'h a-zivout al lanvoù">
 
 <!ENTITY feedTitle.label             "Titl :">
 <!ENTITY feedTitle.accesskey         "T">
@@ -37,7 +37,7 @@
 <!ENTITY button.importOPML.accesskey "i">
 <!ENTITY button.exportOPML.label     "Ezporzhiañ">
 <!ENTITY button.exportOPML.accesskey "z">
-<!ENTITY button.exportOPML.tooltip   "Ezporzhiañ al lanvioù gant ar framm teuliadoù; Reol + Klik pe Reol + Enankañ evit ezporzhiañ al lanvioù evel ur roll">
+<!ENTITY button.exportOPML.tooltip   "Ezporzhiañ al lanvoù gant ar framm teuliadoù; Reol + Klik pe Reol + Enankañ evit ezporzhiañ al lanvoù evel ur roll">
 
 <!ENTITY cmd.close.commandKey        "w">
 <!ENTITY button.close.label          "Serriñ">
