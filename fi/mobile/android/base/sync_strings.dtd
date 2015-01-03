@@ -167,6 +167,7 @@
 <!-- Localization note: &formatS; is the Firefox Account's email address. -->
 <!ENTITY fxaccount_confirm_account_verification_link 'Vahvistussähköposti lähetettiin osoitteeseen &formatS;'>
 <!ENTITY fxaccount_confirm_account_resend_email 'Lähetä uudestaan'>
+<!ENTITY fxaccount_confirm_account_change_email 'Unohdetaanko tämä sähköpostiosoite?'>
 <!ENTITY fxaccount_confirm_account_verification_link_sent2 'Vahvistussähköposti lähetetty'>
 <!ENTITY fxaccount_confirm_account_verification_link_not_sent2 'Vahvistussähköpostin lähettäminen ei onnistunut'>
 
@@ -186,6 +187,8 @@
 <!ENTITY fxaccount_status_header2 'Firefox-tili'>
 <!ENTITY fxaccount_status_signed_in_as 'Kirjauduttu tunnuksella'>
 <!ENTITY fxaccount_status_auth_server 'Tilin palvelin'>
+<!ENTITY fxaccount_status_sync_now 'Synkronoi heti'>
+<!ENTITY fxaccount_status_syncing2 'Synkronoidaan…'>
 <!ENTITY fxaccount_status_device_name 'Laitteen nimi'>
 <!ENTITY fxaccount_status_sync_server 'Synkronointipalvelin'>
 <!ENTITY fxaccount_status_sync '&syncBrand.shortName.label;'>

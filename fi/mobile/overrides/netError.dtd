@@ -175,8 +175,8 @@
 </ul>
 ">
 
-<!ENTITY cspFrameAncestorBlocked.title "Sisällön turvallisuuskäytännön estämä">
-<!ENTITY cspFrameAncestorBlocked.longDesc "<p>&brandShortName; esti sivua latautumasta tällä tavalla, koska sivulle asetettu sisällön turvallisuuskäytäntö estää sen.</p>">
+<!ENTITY cspBlocked.title "Sisällön turvallisuuskäytännön estämä">
+<!ENTITY cspBlocked.longDesc "<p>&brandShortName; esti sivua latautumasta tällä tavalla, koska sivulle asetettu sisällön turvallisuuskäytäntö estää sen.</p>">
 
 <!ENTITY corruptedContentError.title "Sisältö vioittunut virhe">
 <!ENTITY corruptedContentError.longDesc "<p>Avattavaa sivua ei voida näyttää, koska tiedonsiirrossa tapahtui virhe.</p><ul><li>Ilmoitathan ongelmasta sivuston omistajalle.</li></ul>">
