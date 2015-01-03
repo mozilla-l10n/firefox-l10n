@@ -211,7 +211,7 @@
 <!ENTITY priority.level.normal              "Normal">
 <!ENTITY priority.level.normal.accesskey    "N">
 <!ENTITY priority.level.high                "Alta">
-
+<!ENTITY priority.level.high.accesskey      "A">
 
 <!ENTITY calendar.context.postpone.1hour.label      "1 hora">
 <!ENTITY calendar.context.postpone.1hour.accesskey  "h">
@@ -245,10 +245,14 @@
 <!ENTITY calendar.context.properties.accesskey         "P">
 <!-- LOCALIZATION NOTE (calendar.context.togglevisible.accesskey)
      This is the access key used for the showCalendar string -->
+
+<!ENTITY calendar.context.togglevisible.accesskey      "M">
 <!-- LOCALIZATION NOTE (calendar.context.showonly.accesskey)
      This is the access key used for the showOnlyCalendar string -->
 
-
+<!ENTITY calendar.context.showonly.accesskey           "o">
+<!ENTITY calendar.context.showall.label                "Mostra tots els calendaris">
+<!ENTITY calendar.context.showall.accesskey            "t">
 
 <!ENTITY calendar.context.convertmenu.label              "Converteix en">
 <!ENTITY calendar.context.convertmenu.accesskey.mail     "n">

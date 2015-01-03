@@ -13,7 +13,10 @@
 <!ENTITY gdata.migration.upgrade.accesskey "A">
 <!ENTITY gdata.migration.showagain.label "Comprova-ho sempre ">
 
+<!ENTITY gdata.reminder.default "Recordatori per defecte">
 <!ENTITY gdata.reminder.action.sms.label "Envia un missatge de text">
 
+<!ENTITY gdata.wizard.session.description "Trieu una sessió existent o escriviu la vostra adreça electrònica per crear una sessió nova. Només cal una sessió per compte.">
+<!ENTITY gdata.wizard.calendars.description "Seleccioneu els calendaris i les llistes de tasques als quals us voleu subscriure.">
 
-
+<!ENTITY gdata.wizard.nextstep.description "Avanceu fins al pas següent per configurar els calendaris.">
