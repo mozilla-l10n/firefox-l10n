@@ -486,7 +486,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY loaded_tracking_content_message_top "La protecció contra el seguiment està desactivada.">
 <!ENTITY loaded_tracking_content_message_bottom "Hi ha parts d\u0027aquesta pàgina que poden fer el seguiment de la vostra activitat a Internet.">
 <!ENTITY blocked_tracking_content_message_top2 "La protecció contra el seguiment està activada.">
-
+<!ENTITY blocked_tracking_content_message_bottom2 "S\u0027han blocat les parts de la pàgina que fan el seguiment de la vostra activitat a Internet.">
 <!-- Common mixed and tracking content strings in site identity popup -->
 
 <!ENTITY learn_more "Més informació">
