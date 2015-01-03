@@ -167,7 +167,7 @@
 <!-- Localization note: &formatS; is the Firefox Account's email address. -->
 <!ENTITY fxaccount_confirm_account_verification_link "S\u0027ha enviat un enllaç de verificació a &formatS;">
 <!ENTITY fxaccount_confirm_account_resend_email "Reenvia el missatge">
-
+<!ENTITY fxaccount_confirm_account_change_email "Voleu oblidar aquesta adreça electrònica?">
 <!ENTITY fxaccount_confirm_account_verification_link_sent2 "S\u0027ha enviat el missatge de verificació">
 <!ENTITY fxaccount_confirm_account_verification_link_not_sent2 "No s\u0027ha pogut enviar el missatge de verificació">
 
@@ -187,8 +187,8 @@
 <!ENTITY fxaccount_status_header2 "Compte del Firefox">
 <!ENTITY fxaccount_status_signed_in_as "Sessió iniciada com a">
 <!ENTITY fxaccount_status_auth_server "Servidor de comptes">
-
-
+<!ENTITY fxaccount_status_sync_now "Sincronitza ara">
+<!ENTITY fxaccount_status_syncing2 "S\u0027està sincronitzant…">
 <!ENTITY fxaccount_status_device_name "Nom del dispositiu">
 <!ENTITY fxaccount_status_sync_server "Servidor del Sync">
 <!ENTITY fxaccount_status_sync "&syncBrand.shortName.label;">

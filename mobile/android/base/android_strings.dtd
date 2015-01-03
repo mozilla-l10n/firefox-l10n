@@ -172,7 +172,8 @@
 <!ENTITY pref_cookies_not_accept_foreign "Habilitades, excepte de tercers">
 <!ENTITY pref_cookies_disabled "Inhabilitades">
 
-
+<!ENTITY pref_donottrack_title "No vull ser seguit">
+<!ENTITY pref_donottrack_summary "El &brandShortName; farà saber als llocs web que no voleu que us segueixin">
 
 <!ENTITY pref_char_encoding "Codificació de caràcters">
 <!ENTITY pref_char_encoding_on "Mostra el menú">
@@ -208,7 +209,8 @@ size. -->
 
 <!ENTITY pref_font_size_preview_text "La ràpida guineu taronja salta per sobre de les vostres expectatives, amb més velocitat, més flexibilitat i més seguretat. Com a organització sense ànim de lucre, som lliures d\u0027innovar en el vostre nom sense cap tipus de pressió a l\u0027hora de comprometre\u0027ns. Això vol dir que us podem oferir una millor experiència i un futur més brillant per al web.">
 
-
+<!ENTITY pref_media_autoplay_enabled "Permet reproduir automàticament">
+<!ENTITY pref_media_autoplay_enabled_summary "Controla si els llocs web poden reproduir automàticament vídeos i altres continguts multimèdia">
 
 <!ENTITY pref_use_master_password "Contrasenya mestra">
 <!ENTITY pref_sync "Sync">
@@ -365,6 +367,8 @@ size. -->
      panel on the home page to give the user an estimate of how many minutes it will take to
      read an article. The word "minute" should be abbreviated if possible. -->
 
+<!ENTITY reading_list_time_minutes2 "&formatD; min">
+<!ENTITY reading_list_time_over_an_hour "Més d\u0027una hora">
 <!-- Localization note : These strings are used as alternate text for accessibility.
      They are not visible in the UI. -->
 
@@ -402,6 +406,7 @@ size. -->
 <!ENTITY home_most_recent_empty "Aquí es mostren els llocs web que heu visitat recentment.">
 <!-- Localization note (home_most_recent_emptyhint2): "Psst" is a sound that might be used to attract someone's attention unobtrusively, and intended to hint at Private Browsing to the user.
      The placeholders &formatS1; and &formatS2; are used to mark the location of text underlining. -->
+<!ENTITY home_most_recent_emptyhint2 "Psst: si utilitzeu una &formatS1;Pestanya privada nova&formatS2;, no es desarà l\u0027historial.">
 <!ENTITY home_reading_list_empty "Aquí es mostren els articles que deseu per llegir-los més tard.">
 <!-- Localization note (home_reading_list_hint): The "TIP" string is synonymous to "hint", "clue", etc. This string is displayed
      as an advisory message on how to add content to the reading list when the reading list empty.
@@ -469,8 +474,8 @@ substitution variables.  If it is difficult to translate the sense of the string
 with that structure, consider a translation which ignores the preceding domain and
 just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_run_by "que pertany a">
-
-
+<!ENTITY identity_no_info "El lloc web no proporciona cap informació d\u0027identitat.">
+<!ENTITY identity_not_encrypted "La vostra connexió a aquest lloc web no està xifrada.">
 <!-- Mixed content notifications in site identity popup -->
 
 <!ENTITY loaded_mixed_content_message "Aquesta pàgina mostra contingut no segur.">
@@ -478,7 +483,9 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY blocked_mixed_content_message_bottom "La majoria de pàgines web continuen funcionant correctament encara que s\u0027hagi blocat contingut.">
 <!-- Tracking content notifications in site identity popup -->
 
-
+<!ENTITY loaded_tracking_content_message_top "La protecció contra el seguiment està desactivada.">
+<!ENTITY loaded_tracking_content_message_bottom "Hi ha parts d\u0027aquesta pàgina que poden fer el seguiment de la vostra activitat a Internet.">
+<!ENTITY blocked_tracking_content_message_top2 "La protecció contra el seguiment està activada.">
 
 <!-- Common mixed and tracking content strings in site identity popup -->
 
