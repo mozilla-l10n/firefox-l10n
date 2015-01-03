@@ -11,15 +11,17 @@
 <!ENTITY trackingProtectionLearnMore.label "Més informació">
 <!ENTITY doNotTrackInfo.label           "Més informació">
 
+<!ENTITY  history.label                 "Historial">
 
 <!ENTITY  locationBar.label             "Barra d'ubicació">
 
-
-
-
-
-
-
+<!ENTITY  locbar.suggest.label          "Quan s'utilitzi la barra d'ubicació, suggereix:">
+<!ENTITY  locbar.history.label          "Historial">
+<!ENTITY  locbar.history.accesskey      "H">
+<!ENTITY  locbar.bookmarks.label        "Adreces d'interès">
+<!ENTITY  locbar.bookmarks.accesskey    "d">
+<!ENTITY  locbar.openpage.label         "Pestanyes obertes">
+<!ENTITY  locbar.openpage.accesskey     "P">
 
 <!ENTITY  acceptCookies.label           "Accepta galetes dels llocs web">
 <!ENTITY  acceptCookies.accesskey       "A">
@@ -30,7 +32,8 @@
 <!ENTITY  acceptThirdParty.never.label    "Mai">
 <!ENTITY  acceptThirdParty.visited.label  "De llocs visitats">
 
-
+<!ENTITY  keepUntil.label               "Conserva-les fins:">
+<!ENTITY  keepUntil.accesskey           "v">
 
 <!ENTITY  expire.label                  "que vencin">
 <!ENTITY  close.label                   "que tanqui el &brandShortName;">

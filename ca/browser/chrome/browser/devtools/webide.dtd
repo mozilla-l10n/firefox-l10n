@@ -15,7 +15,7 @@
 <!ENTITY projectMenu_selectApp_label "Obre una aplicació…">
 <!ENTITY projectMenu_selectApp_accesskey "O">
 <!ENTITY projectMenu_play_label "Instal·la i executa">
-
+<!ENTITY projectMenu_play_accesskey "I">
 <!ENTITY projectMenu_stop_label "Atura l'aplicació">
 <!ENTITY projectMenu_stop_accesskey "t">
 <!ENTITY projectMenu_debug_label "Depura l'aplicació">
@@ -24,8 +24,8 @@
 <!ENTITY projectMenu_remove_accesskey "l">
 <!ENTITY projectMenu_showPrefs_label "Preferències">
 <!ENTITY projectMenu_showPrefs_accesskey "f">
-
-
+<!ENTITY projectMenu_manageComponents_label "Gestiona els components addicionals">
+<!ENTITY projectMenu_manageComponents_accesskey "G">
 
 <!ENTITY runtimeMenu_label "Entorn d'execució">
 <!ENTITY runtimeMenu_accesskey "T">
@@ -39,19 +39,19 @@
 <!ENTITY runtimeMenu_showDetails_accesskey "n">
 <!ENTITY runtimeMenu_showMonitor_label "Supervisa">
 <!ENTITY runtimeMenu_showMonitor_accesskey "S">
-
-
+<!ENTITY runtimeMenu_showDevicePrefs_label "Preferències del dispositiu">
+<!ENTITY runtimeMenu_showDevicePrefs_accesskey "P">
 
 <!ENTITY viewMenu_label "Visualitza">
 <!ENTITY viewMenu_accesskey "V">
 <!ENTITY viewMenu_toggleEditor_label "Mostra/amaga l'editor">
 <!ENTITY viewMenu_toggleEditor_accesskey "M">
 <!ENTITY viewMenu_zoomin_label "Apropa">
-
+<!ENTITY viewMenu_zoomin_accesskey "A">
 <!ENTITY viewMenu_zoomout_label "Allunya">
-
-
-
+<!ENTITY viewMenu_zoomout_accesskey "l">
+<!ENTITY viewMenu_resetzoom_label "Reinicia el zoom">
+<!ENTITY viewMenu_resetzoom_accesskey "R">
 
 <!ENTITY projectButton_label "Obre una aplicació">
 <!ENTITY runtimeButton_label "Selecciona un entorn d'execució">
@@ -68,9 +68,10 @@
 <!-- toggle sidebar -->
 <!ENTITY key_toggleEditor "B">
 <!-- zoom -->
-
-
-
+<!ENTITY key_zoomin "+">
+<!ENTITY key_zoomin2 "=">
+<!ENTITY key_zoomout "-">
+<!ENTITY key_resetzoom "0">
 
 <!ENTITY projectPanel_myProjects "Els meus projectes">
 <!ENTITY projectPanel_runtimeApps "Aplicacions de l'entorn d'execució">
@@ -78,7 +79,7 @@
 <!ENTITY runtimePanel_usb "Dispositius USB">
 <!ENTITY runtimePanel_wifi "Dispositius Wi-Fi">
 <!ENTITY runtimePanel_simulator "Simuladors">
-
+<!ENTITY runtimePanel_other "Altres">
 <!ENTITY runtimePanel_installsimulator "Instal·la el simulador">
 <!ENTITY runtimePanel_noadbhelper "Instal·la l'ADB Helper">
 <!ENTITY runtimePanel_nousbdevice "No veieu el vostre dispositiu?">
@@ -112,7 +113,7 @@
 <!ENTITY prefs_editor_title "Editor">
 <!ENTITY prefs_general_title "General">
 <!ENTITY prefs_restore "Restaura els valors per defecte">
-
+<!ENTITY prefs_manage_components "Gestiona els components addicionals">
 <!ENTITY prefs_options_rememberlastproject "Recorda l'últim projecte">
 <!ENTITY prefs_options_rememberlastproject_tooltip "Restaura el projecte anterior en iniciar el WebIDE">
 <!ENTITY prefs_options_templatesurl "URL de plantilles">
@@ -145,13 +146,15 @@
 <!ENTITY runtimedetails_privilegesWarning "(Es reiniciarà el dispositiu. Cal accés de root.)">
 <!-- Device Preferences -->
 
-
-
-
-
-
-
-
+<!ENTITY devicepreferences_title "Preferències del dispositiu">
+<!ENTITY devicepreferences_search "Preferències de cerca">
+<!ENTITY devicepreferences_newname "Nom de la preferència nova">
+<!ENTITY devicepreferences_newtext "Valor de la preferència">
+<!ENTITY devicepreferences_addnew "Afegeix una preferència nova">
+<!ENTITY devicepreferences_typeboolean "Booleà">
+<!ENTITY devicepreferences_typenumber "Enter">
+<!ENTITY devicepreferences_typestring "Cadena">
+<!ENTITY devicepreferences_typenone "Seleccioneu el tipus">
 <!-- Monitor -->
 
 <!ENTITY monitor_title "Supervisa">
