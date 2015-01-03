@@ -39,7 +39,7 @@
 <!ENTITY runtimeMenu_showDetails_accesskey "d">
 <!ENTITY runtimeMenu_showMonitor_label "Stebyklė">
 <!ENTITY runtimeMenu_showMonitor_accesskey "S">
-
+<!ENTITY runtimeMenu_showDevicePrefs_label "Įrenginio nuostatos">
 
 
 <!ENTITY viewMenu_label "Rodymas">
@@ -50,7 +50,7 @@
 
 <!ENTITY viewMenu_zoomout_label "Sumažinti">
 
-
+<!ENTITY viewMenu_resetzoom_label "Atstatyti mastelį">
 
 
 <!ENTITY projectButton_label "Atverti programą">
@@ -68,6 +68,7 @@
 <!-- toggle sidebar -->
 <!ENTITY key_toggleEditor "B">
 <!-- zoom -->
+<!ENTITY key_zoomin "+">
 <!ENTITY key_zoomin2 "=">
 <!ENTITY key_zoomout "-">
 <!ENTITY key_resetzoom "0">
@@ -149,11 +150,11 @@
 <!ENTITY devicepreferences_search "Paieškos nuostatos">
 <!ENTITY devicepreferences_newname "Naujo nuostatų parametro pavadinimas">
 <!ENTITY devicepreferences_newtext "Parametro reikšmė">
-
-
-
-
-
+<!ENTITY devicepreferences_addnew "Pridėti naują nuostatų parametrą">
+<!ENTITY devicepreferences_typeboolean "Loginis">
+<!ENTITY devicepreferences_typenumber "Sveikasis skaičius">
+<!ENTITY devicepreferences_typestring "Simbolių eilutė">
+<!ENTITY devicepreferences_typenone "Parinkite tipą">
 <!-- Monitor -->
 
 <!ENTITY monitor_title "Stebyklė">

@@ -7,8 +7,10 @@
 <!-- LOCALIZATION NOTE: The SearchHighlight strings are used in the
    - UITour popups that shows on first use of the new search panel. -->
 
+<!ENTITY SearchHighlight1.title "Vieno spustelėjimo paieškos">
+<!ENTITY SearchHighlight1.text "Ieškokite bet kurioje iš šių svetainių, nekeisdami savo numatytosios.">
 
-
+<!ENTITY SearchHighlight2.text "Pasiūlymai iš jūsų numatytosios paieškos sistemos rodomi renkant tekstą.">
 
 <!ENTITY SearchHighlightNext "Toliau">
 <!ENTITY SearchHighlightClose "Ačiū!">

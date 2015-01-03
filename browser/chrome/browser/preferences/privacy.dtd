@@ -11,11 +11,13 @@
 <!ENTITY trackingProtectionLearnMore.label "Sužinoti daugiau">
 <!ENTITY doNotTrackInfo.label           "Sužinoti daugiau">
 
+<!ENTITY  history.label                 "Žurnalas">
 
 <!ENTITY  locationBar.label             "Adreso laukas">
 
-
-
+<!ENTITY  locbar.suggest.label          "Rašant adreso lauke, siūlyti tinklalapius iš:">
+<!ENTITY  locbar.history.label          "Žurnalas">
+<!ENTITY  locbar.history.accesskey      "Ž">
 <!ENTITY  locbar.bookmarks.label        "Adresynas">
 <!ENTITY  locbar.bookmarks.accesskey    "y">
 <!ENTITY  locbar.openpage.label         "Atverti korteles">
