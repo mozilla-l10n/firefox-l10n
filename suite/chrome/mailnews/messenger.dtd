@@ -309,7 +309,7 @@
 <!ENTITY forwardAsAttachmentCmd.accesskey "x">
 <!ENTITY editMsgAsNewCmd.label "Editar como nova">
 <!ENTITY editMsgAsNewCmd.accesskey "d">
-
+<!ENTITY editMsgAsNewCmd.key "E">
 <!ENTITY createFilter.label "Criar filtro para o remetente...">
 <!ENTITY createFilter.accesskey "f">
 <!ENTITY archiveMsgCmd.label "Arquivar">

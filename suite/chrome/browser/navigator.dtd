@@ -61,6 +61,7 @@
 <!ENTITY locationBar.title            "Endereço">
 <!ENTITY proxyIcon.tooltip            "Para salvar arraste para dentro do menu &quot;Marcadores&quot;">
 
+<!ENTITY searchItem.title             "Pesquisar">
 
 <!ENTITY bookmarksButton.label        "Marcadores">
 <!ENTITY bookmarksButton.tooltip      "Lista de marcadores">
