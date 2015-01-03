@@ -15,6 +15,8 @@
 <!ENTITY manageSubscriptions.label "Gerenciar inscrições…"> 
 <!ENTITY manageSubscriptions.accesskey "G">
 <!-- entities from rss.rdf -->
+
+<!ENTITY feeds.accountName "RSS de blogs e notícias">
 <!ENTITY feeds.wizardShortName "RSS">
-
-
+<!ENTITY feeds.wizardLongName "RSS de blogs e notícias">
+<!ENTITY feeds.wizardLongName.accesskey "B">

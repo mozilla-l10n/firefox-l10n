@@ -20,5 +20,5 @@
 <!ENTITY connectionSecurityType-3.label "SSL/TLS">
 <!ENTITY smtpEditTitle.label "Servidor SMTP">
 <!ENTITY serverPortDefault.label "Padrão:">
-
-
+<!ENTITY authMethod.label "Modo de autenticação:">
+<!ENTITY authMethod.accesskey "i">

@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY pref.viewing.messages.title      "Aparência">
+<!ENTITY pref.viewing.messages.title      "Aparência das mensagens">
 <!ENTITY style.label                      "Estilo:">
 <!ENTITY style.accesskey                  "E">
 <!ENTITY regular.label                    "Normal">
@@ -30,7 +30,8 @@
 <!-- LOCALIZATION NOTE (markAsReadAfter.label): This will concatenate to
      "Only after displaying for [___] seconds",
      using (markAsReadAfter.label) and a number (secondsLabel.label). -->
-
+<!ENTITY markAsReadAfter.label            "Somente após exibir por">
+<!ENTITY markAsReadAfter.accesskey        "t">
 <!ENTITY secondsLabel.label               "segundos">
 
 <!ENTITY openingMessages.label            "Ao abrir mensagens, exibi-las em:">
@@ -42,5 +43,5 @@
 <!ENTITY disableContent.accesskey         "m">
 <!ENTITY showCondensedAddresses.label     "Exibir apenas o nome de tela para as pessoas no meu catálogo de endereços">
 <!ENTITY showCondensedAddresses.accesskey "c">
-
-
+<!ENTITY closeMsgWindowOnDelete.label     "Fechar a janela de mensagem ao excluí-la">
+<!ENTITY closeMsgWindowOnDelete.accesskey "l">

@@ -83,8 +83,8 @@
 
 <!ENTITY returnReceiptMenu.label "Solicitar confirmação de leitura">
 <!ENTITY returnReceiptMenu.accesskey "o">
-
-
+<!ENTITY dsnMenu.label "Notificação de status da entrega">
+<!ENTITY dsnMenu.accesskey "N">
 
 <!ENTITY outputFormatMenu.label "Formato">
 <!ENTITY outputFormatMenu.accesskey  "F">
@@ -126,8 +126,8 @@
 <!ENTITY openAttachment.accesskey "A">
 <!ENTITY renameAttachment.label "Renomear…">
 <!ENTITY renameAttachment.accesskey "R">
-
-
+<!ENTITY deleteAttachment.accesskey "E">
+<!ENTITY selectAllAttachments.accesskey "T">
 <!ENTITY attachFile.label "Anexar arquivos...">
 <!ENTITY attachFile.accesskey "n">
 <!ENTITY attachPage.label "Anexar página da web...">

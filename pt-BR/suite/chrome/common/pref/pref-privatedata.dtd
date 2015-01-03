@@ -5,16 +5,22 @@
     These entities go on top of the sanitize.dtd definitions
 -->
 
+<!ENTITY pref.privatedata.title           "Dados pessoais">
+
 
 <!ENTITY clearPrivateData.label           "Limpar dados pessoais">
 
+<!ENTITY alwaysClear.label                "Sempre limpar dados privativos ao sair do &brandShortName;">
+<!ENTITY alwaysClear.accesskey            "a">
 
-
-
+<!ENTITY askBeforeClear.label             "Perguntar antes de limpar os dados privados">
+<!ENTITY askBeforeClear.accesskey         "g">
 
 <!--LOCALIZATION NOTE (clearDataDialog.label, clearDataSilent.label, clearDataDialog.accesskey):
   The only difference bettween the two labels is that one calls a dialog, the other doesn't.
   The same accesskey is used for both labels.
 -->
 
-
+<!ENTITY clearDataDialog.label            "Limpar agora…">
+<!ENTITY clearDataSilent.label            "Limpar agora">
+<!ENTITY clearDataDialog.accesskey        "L">

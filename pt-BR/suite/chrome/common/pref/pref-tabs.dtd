@@ -8,10 +8,10 @@
 <!ENTITY autoHide.accesskey "d">
 <!ENTITY background.label "Carregar links em primeiro plano">
 <!ENTITY background.accesskey "s">
-
-
-
-
+<!ENTITY warnOnClose.label "Alertar ao fechar uma janela com várias abas">
+<!ENTITY warnOnClose.accesskey "A">
+<!ENTITY relatedAfterCurrent.label "Abrir abas relacionadas após a aba atual">
+<!ENTITY relatedAfterCurrent.accesskey "o">
 <!ENTITY loadGroup.label "Ao abrir um grupo de marcadores">
 <!ENTITY loadGroupAppend.label "Adicionar abas">
 <!ENTITY loadGroupAppend.accesskey "A">

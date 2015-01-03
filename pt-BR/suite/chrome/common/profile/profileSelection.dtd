@@ -18,5 +18,6 @@
 <!ENTITY            introSwitch.label        "Para mudar para outro perfil, que contém mensagens armazenadas, configurações e outras informações personalizadas, escolha um perfil da lista e clique &select.label; para começar a usá-lo.">
 <!ENTITY            profileManagerText.label "&brandShortName; armazena informação acerca de tuas configurações, preferências, marcadores, mensagens armazena e outros items de usuário no teu perfil.">
 
-
+<!ENTITY            autoSelect.label         "Padrão para este perfil">
+<!ENTITY            autoSelect.accesskey     "s">
 

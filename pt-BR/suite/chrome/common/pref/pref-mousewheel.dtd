@@ -10,16 +10,16 @@
 <!ENTITY usingWheelAndAlt.label          "&altKey.label;">
 <!ENTITY usingWheelAndCtrl.label         "&ctrlKey.label;">
 <!ENTITY usingWheelAndShft.label         "&shiftKey.label;">
-
-
-
-
-
-
-
-
-
-
+<!ENTITY mouseWheelGroup.label           "Navegação vertical">
+<!ENTITY mouseWheelHorizGroup.label      "Navegação horizontal">
+<!ENTITY sameAsVertical.label            "O mesmo que navegação vertical">
+<!ENTITY sameAsVertical.accesskey        "v">
+<!ENTITY doNothing.label                 "Não fazer nada">
+<!ENTITY doNothing.accesskey             "N">
+<!ENTITY doNothingHoriz.accesskey        "N">
+<!ENTITY scrollDocument.label            "Rolar o documento">
+<!ENTITY scrollDocument.accesskey        "R">
+<!ENTITY scrollDocumentHoriz.accesskey   "c">
 <!ENTITY history.label                   "Voltar ou avançar no histórico de navegação">
 <!ENTITY history.accesskey               "v">
 <!ENTITY historyHoriz.accesskey          "h">
@@ -29,6 +29,6 @@
 
 
 
-
-
-
+<!ENTITY reverseDirection.label          "Direção inversa">
+<!ENTITY reverseDirection.accesskey      "i">
+<!ENTITY reverseDirectionHoriz.accesskey "e">
