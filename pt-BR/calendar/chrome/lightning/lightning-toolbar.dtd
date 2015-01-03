@@ -3,9 +3,9 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY lightning.toolbar.calendar.name "Barra de ferramentas do calendário">
-
+<!ENTITY lightning.toolbar.calendar.name.accesskey "C">
 <!ENTITY lightning.toolbar.task.name "Barra de ferramentas de tarefas">
-
+<!ENTITY lightning.toolbar.task.name.accesskey "T">
 
 <!ENTITY lightning.toolbar.sync.label "Sincronizar">
 <!ENTITY lightning.toolbar.delete.label "Excluir">
@@ -28,10 +28,10 @@
 
 <!ENTITY lightning.toolbar.day.label                 "Dia">
 <!ENTITY lightning.toolbar.day.accesskey             "D">
-
-
-
-
+<!ENTITY lightning.toolbar.week.label                "Semana">
+<!ENTITY lightning.toolbar.week.accesskey            "S">
+<!ENTITY lightning.toolbar.multiweek.label           "Multissemana">
+<!ENTITY lightning.toolbar.multiweek.accesskey       "u">
 <!ENTITY lightning.toolbar.month.label               "Mês">
 <!ENTITY lightning.toolbar.month.accesskey           "M">
 <!-- LOCALIZATION NOTE: the same as appmenuButton.label and appmenuButton1.tooltip
