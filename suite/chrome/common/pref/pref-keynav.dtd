@@ -12,8 +12,8 @@
 <!ENTITY tabNavigationDesc.label "Tab e Shift+Tab movem o foco entre:">
 <!ENTITY accessibilityBrowseWithCaret.label "Navegação por cursor">
 
-
-
+<!ENTITY browseWithCaretUse.label "Usar cursor de teclado">
+<!ENTITY browseWithCaretUse.accesskey "U">
 
 
 

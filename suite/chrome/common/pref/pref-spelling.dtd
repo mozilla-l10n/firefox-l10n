@@ -4,17 +4,17 @@
    
 <!ENTITY prefSpelling.title                   "Ortografia">
 <!ENTITY generalSpelling.label                "Geral">
-
-
-
+<!ENTITY checkSpellingWhenTyping.label        "Ao digitar, verificar minha ortografia:">
+<!ENTITY checkSpellingWhenTyping.accesskey    "v">
+<!ENTITY dontCheckSpelling.label              "Nunca">
 
 
 <!ENTITY spellForMailAndNews.label            "Email &amp; grupos de notícias">
-
-
-
-
-
-
+<!ENTITY checkSpellingBeforeSend.label        "Verificar ortografia antes de enviar">
+<!ENTITY checkSpellingBeforeSend.accesskey    "c">
+<!ENTITY spellCheckInline.label               "Verificação ortográfica automática">
+<!ENTITY spellCheckInline.accesskey           "e">
+<!ENTITY languagePopup.label                  "Idioma:">
+<!ENTITY languagePopup.accessKey              "m">
 
 

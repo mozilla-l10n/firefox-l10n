@@ -19,7 +19,7 @@
 <!ENTITY allowHWAccel.accesskey                 "e">
 <!ENTITY textZoomOnly.label                     "Realizar zoom apenas para o texto em vez da página toda">
 <!ENTITY textZoomOnly.accesskey                 "z">
-
-
+<!ENTITY blockAutoRefresh.label                 "Alertar se sites tentarem redirecionar ou recarregar a página">
+<!ENTITY blockAutoRefresh.accesskey             "A">
 
 

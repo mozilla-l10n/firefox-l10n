@@ -50,11 +50,13 @@
 <!ENTITY cookies.info.sendtype.label "Enviar:">
 <!ENTITY cookies.info.expires.label "Válido até:">
 
-
+<!ENTITY cookies.ctx.remove.label "Excluir">
+<!ENTITY cookies.ctx.remove.accesskey "r">
 <!ENTITY cookies.ctx.selectAll.label "Selecionar tudo">
 <!ENTITY cookies.ctx.selectAll.accesskey "a">
 
-
+<!ENTITY cookies.button.remove.label "Excluir">
+<!ENTITY cookies.button.remove.accesskey "r">
 
 <!ENTITY cookies.blockOnRemove.label "Ao remover, bloquear os sites listados de definir cookies futuramente">
 <!ENTITY cookies.blockOnRemove.accesskey "A">
@@ -75,40 +77,49 @@
 
 <!ENTITY prefs.description "As preferências de conteúdo são uma forma do &brandShortName; salvar configurações, como níveis de zoom, especificamente para um site.">
 
+<!ENTITY prefs.tree.host.label "Site">
 <!ENTITY prefs.tree.name.label "Nome da preferência">
 <!ENTITY prefs.tree.value.label "Valor">
 
-
+<!ENTITY prefs.ctx.remove.label "Excluir">
+<!ENTITY prefs.ctx.remove.accesskey "r">
 <!ENTITY prefs.ctx.selectAll.label "Selecionar tudo">
 <!ENTITY prefs.ctx.selectAll.accesskey "a">
 
-
+<!ENTITY prefs.button.remove.label "Excluir">
+<!ENTITY prefs.button.remove.accesskey "r">
 <!-- passwords -->
 
 <!ENTITY pwd.description "Você tem as seguintes senhas armazenadas para este domínio:">
 
+<!ENTITY pwd.tree.host.label "Site">
 <!ENTITY pwd.tree.username.label "Nome de usuário">
 <!ENTITY pwd.tree.password.label "Senha">
 
-
+<!ENTITY pwd.ctx.remove.label "Excluir">
+<!ENTITY pwd.ctx.remove.accesskey "r">
 <!ENTITY pwd.ctx.copyPasswordCmd.label "Copiar senha">
 <!ENTITY pwd.ctx.copyPasswordCmd.accesskey "C">
 <!ENTITY pwd.ctx.selectAll.label "Selecionar tudo">
 <!ENTITY pwd.ctx.selectAll.accesskey "a">
 
-
+<!ENTITY pwd.button.remove.label "Excluir">
+<!ENTITY pwd.button.remove.accesskey "r">
 <!-- storage -->
 
 <!ENTITY storage.description "Esse domínio utiliza os seguintes armazenamentos remotos em seu computador:">
 
+<!ENTITY storage.tree.host.label "Site">
 <!ENTITY storage.tree.type.label "Tipo">
 <!ENTITY storage.tree.size.label "Tamanho">
 
-
+<!ENTITY storage.ctx.remove.label "Excluir">
+<!ENTITY storage.ctx.remove.accesskey "r">
 <!ENTITY storage.ctx.selectAll.label "Selecionar tudo">
 <!ENTITY storage.ctx.selectAll.accesskey "a">
 
-
+<!ENTITY storage.button.remove.label "Excluir">
+<!ENTITY storage.button.remove.accesskey "r">
 <!-- form data -->
 
 <!ENTITY fdata.search.placeholder "Dados do campo de pesquisa">
@@ -119,11 +130,13 @@
 <!ENTITY fdata.tree.firstused.label "Primeira utilização">
 <!ENTITY fdata.tree.lastused.label "Última utilização">
 
-
+<!ENTITY fdata.ctx.remove.label "Excluir">
+<!ENTITY fdata.ctx.remove.accesskey "r">
 <!ENTITY fdata.ctx.selectAll.label "Selecionar tudo">
 <!ENTITY fdata.ctx.selectAll.accesskey "a">
 
-
+<!ENTITY fdata.button.remove.label "Excluir">
+<!ENTITY fdata.button.remove.accesskey "r">
 <!-- forget -->
 
 <!ENTITY forget.cookies.label "Cookies">
