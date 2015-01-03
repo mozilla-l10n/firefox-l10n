@@ -8,8 +8,8 @@
 <!ENTITY confirmMove.accesskey            "l">
 <!ENTITY preserveThreading.label          "Manter tópicos agrupados ao ordenar mensagens">
 <!ENTITY preserveThreading.accesskey      "p">
-
-
+<!ENTITY mailBiffOnNewWindow.label        "Somente obter novos e-mails após abrir email &amp; grupos de notícias">
+<!ENTITY mailBiffOnNewWindow.accesskey    "o">
 
 <!ENTITY defaultMailSettings.description  "Definir o &brandShortName; como aplicativo padrão para:">
 <!ENTITY setDefaultMail.label             "Email">
@@ -19,10 +19,11 @@
 <!ENTITY setDefaultFeed.label             "RSS">
 <!ENTITY setDefaultFeed.accesskey         "R">
 
-
-
-
-
+<!ENTITY useInternalSettings.description  "Usar o &brandShortName; Email &amp; grupos de notícias quando abrir links no navegador para:">
+<!ENTITY useInternalMail.label            "E-mail (mailto:)">
+<!ENTITY useInternalMail.accesskey        "a">
+<!ENTITY useInternalNews.label            "Servidor de notícias (news:, snews:, nntp:)">
+<!ENTITY useInternalNews.accesskey        "s">
 
 <!ENTITY messengerStartPage.caption       "Página inicial do Mail">
 <!ENTITY enableStartPage.label            "Ao iniciar o Email &amp; grupos de notícias, abrir a página inicial na área da mensagem">

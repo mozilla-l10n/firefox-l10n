@@ -9,7 +9,8 @@
 <!ENTITY popupBlock.label               "Bloquear janelas popup">
 <!ENTITY popupBlock.accesskey           "B">
 
-
+<!ENTITY viewPermissions.label          "Gerenciar permissões">
+<!ENTITY viewPermissions.accesskey      "G">
 
 <!ENTITY whenBlock.description          "Quando um popup for bloqueado:">
 <!ENTITY playSound.label                "Tocar este som:">

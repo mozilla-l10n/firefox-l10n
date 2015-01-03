@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY pref.junk.title "Spam">
+<!ENTITY pref.junk.title "Spam &amp; emails suspeitos">
 <!ENTITY junkSettings.caption "Configurações globais">
 <!ENTITY junkMail.intro "Configurações globais de spam.">
 <!-- Junk Mail Controls -->
@@ -27,9 +27,14 @@
 <!ENTITY resetTrainingData.label        "Excluir o treinamento">
 <!ENTITY resetTrainingData.accesskey    "t">
 
+<!ENTITY pref.suspectMail.caption       "Emails suspeitos">
 <!-- Phishing Detector -->
 
-
+<!ENTITY pref.phishing.caption            "Antifraude">
+<!ENTITY enablePhishingDetector.label     "Alertar se a mensagem exibida for um possível golpe">
+<!ENTITY enablePhishingDetector.accesskey "t">
 <!-- Anti Virus -->
 
-
+<!ENTITY pref.antivirus.caption           "Antivírus">
+<!ENTITY antiVirus.label                  "Permitir que aplicativos antivírus verifiquem mensagens recebidas mais facilmente">
+<!ENTITY antiVirus.accesskey              "a">

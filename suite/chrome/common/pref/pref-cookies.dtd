@@ -11,11 +11,14 @@
 <!ENTITY disableCookies.label           "Não permitir nenhum cookie">
 <!ENTITY disableCookies.accesskey       "N">
 
+<!ENTITY accNo3rdPartyCookies.label     "Permitir cookies somente para o site atual (sem cookies de terceiros):">
+<!ENTITY accNo3rdPartyCookies.accesskey "o">
 
+<!ENTITY acc3rdPartyVisited.label       "Aceitar cookies de terceiros apenas para os sites já visitados">
+<!ENTITY acc3rdPartyVisited.accesskey   "v">
 
-
-
-
+<!ENTITY accAllCookies.label            "Permitir todos os cookies">
+<!ENTITY accAllCookies.accesskey        "c">
 
 <!ENTITY cookieRetentionPolicy.label    "Política de retenção">
 

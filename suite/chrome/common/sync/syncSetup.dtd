@@ -26,9 +26,9 @@
 <!-- LOCALIZATION NOTE: tosAgree1, tosLink, tosAgree2, ppLink, tosAgree3 are
      joined with implicit white space, so spaces in the strings aren't necessary -->
 
+<!ENTITY setup.tosLink.label        "Termos de serviço">
 
-
-
+<!ENTITY setup.ppLink.label         "Política de privacidade">
 <!ENTITY setup.tosAgree3.label      "">
 <!ENTITY setup.tosAgree2.accesskey  "">
 <!-- New Account Page 2: Recovery Key -->
@@ -63,8 +63,8 @@
 
 
 
-
-
+<!ENTITY engine.addons.label        "Complementos">
+<!ENTITY engine.addons.accesskey    "C">
 <!ENTITY engine.bookmarks.label     "Favoritos">
 <!ENTITY engine.bookmarks.accesskey "F">
 
@@ -85,7 +85,9 @@
 
 
 
-
+<!ENTITY confirm.server2.label         "Alerta: estes dispositivos terão seus dados substituídos pelos dados locais:">
 <!-- New & Existing Account: Setup Complete -->
 
+<!ENTITY setup.successPage.title "A configuração foi concluída.">
+<!ENTITY changeOptions.label "Esta preferência pode ser modificada pelo botão Opções do Sync, logo abaixo.">
 

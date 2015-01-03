@@ -14,15 +14,16 @@
 <!ENTITY prefCheckDefaultClient.label     "Verificar configurações de aplicativos padrão ao iniciar">
 <!ENTITY prefCheckDefaultClient.accesskey "s">
 
-
-
+<!ENTITY crashReports.caption             "Relator de travamentos">
+<!ENTITY submitCrashes.label              "Enviar relatórios de travamento">
+<!ENTITY submitCrashes.accesskey          "s">
 
 <!ENTITY devTools.caption                 "Ferramentas do desenvolvedor">
+<!ENTITY allowDebugger.label              "Permitir que um depurador se conecte ao &brandShortName;">
+<!ENTITY allowDebugger.accesskey          "P">
+<!ENTITY allowRemoteConnections.label     "Permitir conexões a partir de outros computadores">
+<!ENTITY allowRemoteConnections.accesskey "o">
 
 
-
-
-
-
-
-
+<!ENTITY remoteDebuggerPort.label         "Numero da porta para conexão:">
+<!ENTITY remoteDebuggerPort.accesskey     "N">

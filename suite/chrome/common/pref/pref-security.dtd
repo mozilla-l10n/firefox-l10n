@@ -25,7 +25,11 @@
   meaning "reported" (and not something like "known").
 -->
 
+<!ENTITY safeBrowsing.label               "Navegação segura">
 
 
+<!ENTITY blockAttackSites.label           "Bloquear sites avaliados como focos de ataques (malware, vírus)">
+<!ENTITY blockAttackSites.accesskey       "B">
 
-
+<!ENTITY blockWebForgeries.label          "Bloquear sites avaliados como fraudulentos (roubo de dados)">
+<!ENTITY blockWebForgeries.accesskey      "r">

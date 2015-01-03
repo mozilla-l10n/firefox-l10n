@@ -2,22 +2,27 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY linksHeader.label "Comportamento do link">
+
+
+<!ENTITY newWindowRestriction.label "Quando os scripts tentam abrir uma nova janela:">
+<!ENTITY external.label "Links de outras aplicações">
+
+
+<!ENTITY openCurrent.label "A atual aba/janela">
+
+
+
+<!ENTITY openTab.label "Uma nova aba na janela atual">
+
+
+
+<!ENTITY openWindow.label "Em uma nova janela">
 
 
 
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY dontDivert.label "Sempre abrir novas janelas">
+<!ENTITY dontDivert.accesskey "r">

@@ -18,6 +18,6 @@
 <!ENTITY prefEnablePipeliningProxy.accesskey "n">
 <!ENTITY prefPara                            "Estas opções permitem aumentar o desempenho e a compatibilidade das conexões HTTP . Alguns servidores, por exemplo, são conhecidos por exigirem HTTP 1.0 (veja os detalhes em release notes)">
 <!ENTITY prefPipeWarning                     "NOTA: Pipelining ainda é experimental e pode diminuir o tempo de carregamento das páginas. Não é totalmente suportado por alguns servidores web e proxies.">
-
+<!ENTITY prefUseragent.label                 "Agente do usuário">
 
 
