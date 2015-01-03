@@ -7,7 +7,7 @@
 <!ENTITY generalInfo.label                       "Splošni podatki">
 <!ENTITY folderCharsetFallback.label             "Pomožno kodiranje znakov:">
 <!ENTITY folderCharsetFallback.accesskey         "ž">
-<!ENTITY folderCharsetEnforce.label              "Uveljavi kodiranje za vsa sporočila v mapi (nastavitve kodiranja znakov posameznih sporočil in samodejno zaznavanje ne bo upoštevano)">
+<!ENTITY folderCharsetEnforce.label              "Uporabi kodiranje za vsa sporočila v mapi (nastavitve kodiranja znakov posameznih sporočil in samodejno zaznavanje ne bo upoštevano)">
 <!ENTITY folderCharsetEnforce.accesskey          "U">
 <!ENTITY folderRebuildSummaryFileTip2.label      "Obnovi kazalo za datoteko povzetkov">
 <!ENTITY folderRebuildSummaryFile2.label         "Popravi mapo">
