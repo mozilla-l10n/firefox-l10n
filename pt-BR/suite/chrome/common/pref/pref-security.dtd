@@ -5,15 +5,17 @@
 
 <!ENTITY pref.security.title              "Privacidade &amp; segurança">
 
+<!ENTITY tracking.label                   "Rastreamento de usuário">
+<!ENTITY trackingIntro.label              "Sites podem rastrear como você os utiliza, afetando assim a sua privacidade.">
 
+<!ENTITY doNotTrack.label                 "Notificar aos sites que não quero ser rastreado">
+<!ENTITY doNotTrack.accesskey             "t">
+<!ENTITY trackProtect.label               "Prevenir atividades de rastreamento por sites conhecidos">
+<!ENTITY trackProtect.accesskey           "n">
+<!ENTITY warnTrackContent.label           "Me avise quando atividades comuns de rastreamento forem detectadas">
+<!ENTITY warnTrackContent.accesskey       "M">
 
-
-
-
-
-
-
-
+<!ENTITY geoIntro.label                   "Sites podem solicitar mais informações sobre sua localização atual.">
 
 
 
