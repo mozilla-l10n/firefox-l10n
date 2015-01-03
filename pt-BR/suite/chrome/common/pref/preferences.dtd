@@ -15,10 +15,10 @@
 <!ENTITY applications.label "Programas">
 <!ENTITY locationBar.label "Barra de endereços">
 <!ENTITY tabWindows.label "Abas">
-
+<!ENTITY links.label "Comportamento do link">
 <!ENTITY offline.label "Modo desconectado">
 <!ENTITY security.label "Privacidade &amp; Segurança">
-
+<!ENTITY privatedata.label "Dados pessoais">
 <!ENTITY cookies.label "Cookies">
 <!ENTITY images.label "Imagens">
 <!ENTITY popups.label "Janelas popup">
@@ -26,11 +26,11 @@
 <!ENTITY masterpass.label "Senhas mestra">
 <!ENTITY ssl.label "SSL">
 <!ENTITY certs.label "Certificados">
-<!ENTITY sync.label "Sincronizar">
+<!ENTITY sync.label "Sync">
 <!ENTITY advance.label "Avançado">
 <!ENTITY down.label "Download">
 <!ENTITY cache.label "Cache">
-
+<!ENTITY offlineApps.label "Aplicativos em modo desconectado">
 <!ENTITY proxies.label "Proxies">
 <!ENTITY httpnetworking.label "HTTP">
 <!ENTITY smart.label "Instalação de programas">

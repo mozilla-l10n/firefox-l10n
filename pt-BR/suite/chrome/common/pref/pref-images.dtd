@@ -17,8 +17,8 @@
 
 
 
-
-
+<!ENTITY viewPermissions.label          "Gerenciar permissão de imagens">
+<!ENTITY viewPermissions.accesskey      "P">
 <!ENTITY animLoopingTitle.label         "Limitar a repetição de imagens animadas">
 <!ENTITY animLoopAsSpecified.label      "Determinado pela imagem">
 <!ENTITY animLoopAsSpecified.accesskey  "d">

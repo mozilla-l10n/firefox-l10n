@@ -5,12 +5,12 @@
 <!ENTITY pref.findAsYouType.title "Localizar texto ao digitar">
 <!ENTITY findAsYouTypeBehavior.label "Localizar texto ao digitar">
 
+<!ENTITY findAsYouTypeTimeout.label "Limpar a pesquisa atual depois de alguns segundos de inatividade">
+<!ENTITY findAsYouTypeTimeout.accesskey "L">
 
 
-
-
-
-
+<!ENTITY findAsYouTypeEnableAuto.label "Localizar automaticamente ao digitar dentro de uma página web:">
+<!ENTITY findAsYouTypeEnableAuto.accesskey "L">
 
 
 

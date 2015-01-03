@@ -98,7 +98,8 @@
 
 <!ENTITY cmd.find.key  "f">
 
-
+<!ENTITY backButton.tooltip  "Voltar">
+<!ENTITY forwardButton.tooltip  "Avançar">
 
 <!ENTITY detailsPane.more.label "Mais">
 <!ENTITY detailsPane.more.accesskey "M">
