@@ -31,11 +31,8 @@
 <!ENTITY alwaysAsk.label              "ファイルごとに保存先を指定する">
 <!ENTITY alwaysAsk.accesskey          "A">
 
-<!ENTITY alwaysCheckDefault.label         "起動時に &brandShortName; がデフォルト Web ブラウザであるか確認する">
 <!ENTITY alwaysCheckDefault2.label        "&brandShortName; がデフォルト Web ブラウザか確認する">
 <!ENTITY alwaysCheckDefault2.accesskey    "w">
-<!ENTITY setAsMyDefaultBrowser.label      "&brandShortName; をデフォルト Web ブラウザに設定する">
-<!ENTITY setAsMyDefaultBrowser.accesskey  "D">
 <!ENTITY setAsMyDefaultBrowser2.label     "デフォルト Web ブラウザにする">
 <!ENTITY setAsMyDefaultBrowser2.accesskey "D">
 <!ENTITY isDefault.label                  "&brandShortName; はデフォルト Web ブラウザに設定されています">
