@@ -167,7 +167,7 @@
 <!-- Localization note: &formatS; is the Firefox Account's email address. -->
 <!ENTITY fxaccount_confirm_account_verification_link "Patvirtinimo saitas išsiųstas adresu &formatS;">
 <!ENTITY fxaccount_confirm_account_resend_email "Siųsti laišką dar kartą">
-
+<!ENTITY fxaccount_confirm_account_change_email "Pamiršti šį el. pašto adresą?">
 <!ENTITY fxaccount_confirm_account_verification_link_sent2 "Patvirtinimo laiškas išsiųstas">
 <!ENTITY fxaccount_confirm_account_verification_link_not_sent2 "Patvirtinimo laiško išsiųsti nepavyko">
 
@@ -187,7 +187,7 @@
 <!ENTITY fxaccount_status_header2 "„Firefox“ paskyra">
 <!ENTITY fxaccount_status_signed_in_as "Prisijungėte kaip">
 <!ENTITY fxaccount_status_auth_server "Paskyros serveris">
-
+<!ENTITY fxaccount_status_sync_now "Sinchronizuoti dabar">
 
 <!ENTITY fxaccount_status_device_name "Įrenginio vardas">
 <!ENTITY fxaccount_status_sync_server "„Sync“ serveris">
