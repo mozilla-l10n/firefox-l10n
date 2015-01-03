@@ -45,13 +45,13 @@
 <!ENTITY connection.disconnectTooltip "Disconnect from the current device or simulator">
 <!ENTITY connection.notConnected2 "Not Connected.">
 <!ENTITY connection.connectTo "Connect to:">
-
+<!ENTITY connection.noDeviceFound "Trevnad ebet bet kavet. Lugit un trevnad">
 <!ENTITY connection.changeHostAndPort "Kemmañ">
-
-
-
+<!ENTITY connection.changeHostAndPortTooltip "Kemmañ an ostiz hag ar porzh arveret da gennaskañ ouzh an trevnad (gwerzh dre ziouer : localhost:6000)">
+<!ENTITY connection.startSimulator "Loc'hañ an darvanerez">
+<!ENTITY connection.startSimulatorTooltip "Loc'hañ un eriol eus an darvanerez ha kennaskañ outi">
 <!ENTITY connection.saveConnectionInfo "Enrollañ">
-
+<!ENTITY connection.saveConnectionInfoTooltip "Enrollañ an ostiz hag ar porzh">
 <!ENTITY connection.connecting "O kennaskañ...">
 <!ENTITY connection.disconnecting "O tigennaskañ...">
 <!ENTITY connection.cancel "Cancel">
@@ -60,11 +60,12 @@
 <!ENTITY connection.or "pe">
 <!ENTITY connection.noSimulatorInstalled "Darvanerez staliet ebet.">
 <!ENTITY connection.installOneSimulator "Staliañ un darvanerez">
-
+<!ENTITY connection.installOneSimulatorTooltip "Staliañ un handelv eus an darvanerez en ur bellgargañ un askouezh dereat">
 <!ENTITY connection.installAnotherSimulator "Ouzhpennañ">
-
+<!ENTITY connection.installAnotherSimulatorTooltip "Staliañ un handelv ouzhpenn eus an darvanerez en ur bellgargañ un askouezh dereat ">
 <!ENTITY connection.startRegisteredSimulator "Loc'hañ :">
 
+<!ENTITY projects.localApps "Arloadoù lec'hel">
 <!ENTITY projects.addApp "Ouzhpennañ">
 <!ENTITY projects.addPackaged "Add Packaged App">
 <!ENTITY projects.addPackagedTooltip "Add a new packaged app (a directory) from your computer">
@@ -78,24 +79,24 @@
 <!ENTITY projects.debugApp "Diveugañ">
 <!ENTITY projects.debugAppTooltip "Digeriñ ostilhoù an diorroerien kennasket ouzh an arload-mañ">
 <!ENTITY projects.saveManifest "Enrollañ">
-
+<!ENTITY projects.saveManifestTooltip "Enrollañ endalc'had embanner an ezrevelladoù amañ dindan">
 <!ENTITY projects.hostedManifestPlaceHolder2 "http://example.com/app/manifest.webapp">
-
-
-
-
-
+<!ENTITY projects.noProjects "Raktres ebet. Ouzhpennañ amañ dindan un arload paket (kavlec'hiad lec'hel) pe un arload herberc'hiet (ere ouzh ur restr ezrevellad).">
+<!ENTITY projects.manifestEditor "Embanner ezrevellad">
+<!ENTITY projects.manifestEditorTooltip "Embann ezrevellad hoc'h arload er penel amañ dindan. An afell Hizivaat a enrollo ho kemmoù hag a hizivay an arload.">
+<!ENTITY projects.manifestViewer "Gwelerez ezrevellad">
+<!ENTITY projects.manifestViewerTooltip "Sellout ouzh ezrevellad hoc'h arload er penel amañ dindan">
 <!ENTITY projects.valid "Talvoudek">
 <!ENTITY projects.error "Fazi">
 <!ENTITY projects.warning "Taolit evezh">
-
+<!ENTITY projects.hosted "Herberc'hiet">
 <!ENTITY projects.packaged "Paket">
 
 <!ENTITY help.title "Ardoer an arloadoù">
 <!ENTITY help.close "Serriñ">
-
+<!ENTITY help.intro "An ostilh-mañ a skoazello ac'hanoc'h de sevel ha staliañ arloadoù war trevnadoù keverlec'h (d.sk. Firefox OS). An ivinell <strong>Arloadoù</strong> a roy skoazell deoc'h evit talvoudekaat hag argerzh staliañ hoc'h arload. An ivinell  <strong>Trevnad</strong> a roy titouroù deoc'h a-zivout an trevnad kennasket.Grit gant ar varrenn ostilhoù en traoñ da gennaskañ ouzh un trevnad pe loc'hañ an darvanerez.">
 <!ENTITY help.usefullLinks "Ereoù talvoudus :">
-
+<!ENTITY help.appMgrDoc "Teuliadur : arverañ ardoer an arloadoù">
 
 
 
