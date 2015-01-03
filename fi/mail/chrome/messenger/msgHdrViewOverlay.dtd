@@ -49,7 +49,8 @@
 <!ENTITY hdrViewToolbarAlwaysReplySender.label "Näytä aina vastaa lähettäjälle">
 <!ENTITY hdrViewToolbarAlwaysReplySender.accesskey "N">
 
-<!ENTITY otherActionsButton1.label "Muut toiminnot">
+<!ENTITY otherActionsButton2.label "Lisää">
+<!ENTITY otherActionsButton.tooltip "Lisää toimintoja">
 <!ENTITY otherActionsOpenConversation1.label "Avaa keskusteluna">
 <!ENTITY otherActionsOpenConversation1.accesskey "k">
 <!ENTITY otherActionsOpenInNewWindow1.label "Avaa uuteen ikkunaan">
