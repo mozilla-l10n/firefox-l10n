@@ -15,7 +15,7 @@ LOCALIZATION NOTE : Do not translate any of the occurrences of the word
 <!ENTITY importAll.accesskey      "E">
 <!ENTITY importMail.label         "Lizher">
 <!ENTITY importMail.accesskey     "L">
-<!ENTITY importFeeds.label        "Koumanantoù da lanvoù">
+<!ENTITY importFeeds.label        "Koumanantoù da lanvioù">
 <!ENTITY importFeeds.accesskey    "o">
 <!ENTITY importAddressbook.label  "Karnedoù chomlec'hioù">
 <!ENTITY importAddressbook.accesskey "K">
