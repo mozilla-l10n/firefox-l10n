@@ -7,7 +7,7 @@
 <!ENTITY event.new.event.accesskey              "N">
 
 <!ENTITY event.new.task                         "Nova tarefa…">
-
+<!ENTITY event.new.task.accesskey               "r">
 
 <!ENTITY calendar.import.label                  "Importar…">
 <!ENTITY calendar.import.accesskey              "m">

@@ -17,7 +17,8 @@
 <!ENTITY pref.events.label "Eventos">
 <!ENTITY pref.tasks.label "Tarefas">
 
-
+<!ENTITY pref.default_event_length.label "Duração padrão:" >
+<!ENTITY pref.default_event_length.accesskey "u">
 
 <!ENTITY pref.default_task_none.label "Nenhum">
 <!ENTITY pref.default_task_start_of_day.label "Início do dia">
@@ -26,8 +27,8 @@
 <!ENTITY pref.default_task_next_week.label "Próxima semana">
 <!ENTITY pref.default_task_offset_current.label "Relativo à hora atual">
 <!ENTITY pref.default_task_offset_start.label "Relativo ao início">
-
+<!ENTITY pref.default_task_offset_next_hour.label "Relativo à próxima hora">
 
 <!ENTITY pref.accessibility.label "Acessibilidade" >
-
-
+<!ENTITY pref.systemcolors.label "Otimizar as cores para acessibilidade" >
+<!ENTITY pref.systemcolors.accesskey "c">
