@@ -27,4 +27,4 @@
 <!ENTITY folderPickerPrefix.label "Aplicar os filtros selecionados na pasta:">
 <!ENTITY folderPickerPrefix.accesskey "t">
 <!ENTITY choosethis.label "Selecionar esta pasta">
-<!ENTITY choosethisnewsserver.label "Selecionar este servidor de news">
+<!ENTITY choosethisnewsserver.label "selecionar este servidor de notícias">
