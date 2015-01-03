@@ -85,7 +85,9 @@
 
 
 
-
+<!ENTITY confirm.server2.label         "Alerta: estes dispositivos terão seus dados substituídos pelos dados locais:">
 <!-- New & Existing Account: Setup Complete -->
 
+<!ENTITY setup.successPage.title "A configuração foi concluída.">
+<!ENTITY changeOptions.label "Esta preferência pode ser modificada pelo botão Opções do Sync, logo abaixo.">
 
