@@ -25,4 +25,5 @@
 <!ENTITY  enableSuggest.label       "Mostrar sugestões de pesquisa">
 <!ENTITY  enableSuggest.accesskey   "M">
 
-
+<!ENTITY  restoreDefaults.label     "Restaurar padrões">
+<!ENTITY  restoreDefaults.accesskey "e">

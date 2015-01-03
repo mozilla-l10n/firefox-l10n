@@ -4,7 +4,7 @@
 
 <!ENTITY applyTheme.label            "Aplicar tema">
 <!ENTITY applyTheme.accesskey        "A">
-
-
-
-
+<!ENTITY getMoreThemesCmd.label      "Obter mais temas">
+<!ENTITY getMoreThemesCmd.accesskey  "O">
+<!ENTITY getBackgroundsCmd.label     "Obter planos de fundo">
+<!ENTITY getBackgroundsCmd.accesskey "d">

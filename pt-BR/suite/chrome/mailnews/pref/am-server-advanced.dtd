@@ -2,10 +2,10 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY serverAdvanced.label "Opções avançadas">
+<!ENTITY serverAdvanced.label "Configurações avançadas">
 <!-- LOCALIZATION NOTE (serverDirectory.label): DONT_TRANSLATE "IMAP" -->
 <!ENTITY serverDirectory.label "IMAP server directory:">
-
+<!ENTITY serverDirectory.accesskey "d">
 <!ENTITY usingSubscription.label "Exibir apenas as pastas inscritas">
 <!ENTITY usingSubscription.accesskey "x">
 <!ENTITY dualUseFolders.label "O servidor suporta pastas que contêm subpastas e mensagens">

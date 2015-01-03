@@ -7,8 +7,11 @@
 <!ENTITY windowTitle.label "Assistente de Contas">
 <!ENTITY accountWizard.size "width: 60em; height: 38em;">
 <!-- Entities for Account Type page -->
-<!ENTITY accountTypeTitle.label "Configurações de conta">
 
+
+<!ENTITY accountSetupInfo2.label "Para receber mensagens, antes você precisa configurar uma conta.">
+<!ENTITY accountTypeTitle.label "Configurações de conta">
+<!ENTITY accountTypeDesc2.label "Este assistente vai recolher as informações necessárias para configurar a conta. Se você não souber as informações solicitadas, contate o administrador do sistema ou o provedor de internet.">
 <!ENTITY accountTypeDirections.label "Selecione o tipo de conta que você deseja configurar:">
 <!ENTITY accountTypeMail.label "Conta de email">
 <!ENTITY accountTypeMail.accesskey "e">
@@ -33,6 +36,9 @@
 <!ENTITY emailLabel.label "Endereço de email:">
 <!ENTITY emailLabel.accesskey "E">
 <!-- Entities for Incoming Server page -->
+
+
+<!ENTITY incomingTitle.label "Informações do servidor de recebimento">
 <!ENTITY incomingServerTypeDesc.label "Tipo de servidor utilizado para receber mensagens:">
 <!-- LOCALIZATION NOTE (imapType.label) : Do not translate "IMAP" in below line -->
 <!ENTITY imapType.label "IMAP">
@@ -40,8 +46,8 @@
 <!-- LOCALIZATION NOTE (popType.label) : Do not translate "POP" in below line -->
 <!ENTITY popType.label "POP">
 <!ENTITY popType.accesskey "P">
-
-
+<!ENTITY portNum.label "Porta:">
+<!ENTITY portNum.accesskey "o">
 <!ENTITY defaultPortLabel.label "Padrão:">
 <!ENTITY defaultPortValue.label "">
 <!-- LOCALIZATION NOTE (incomingServerNameDesc.label) : Do not translate "&quot;pop.example.net&quot;" in below line -->
@@ -51,6 +57,7 @@
 <!ENTITY leaveMsgsOnSrvr.label "Manter mensagens no servidor">
 <!ENTITY leaveMsgsOnSrvr.accesskey "m">
 <!-- LOCALIZATION NOTE (incomingUsername.description) : do not translate "&quot;jsmith&quot;" in below line -->
+<!ENTITY incomingUsername.description "Forneça o nome de usuário fornecido pelo servidor de recebimento (exemplo, “jsilva”).">
 <!ENTITY incomingUsername.label "Nome de usuário:">
 <!ENTITY incomingUsername.accesskey "u">
 <!-- LOCALIZATION NOTE (newsServerNameDesc.label) : Do not translate "NNTP" or the "&quot;" entities in below line -->
@@ -58,34 +65,39 @@
 <!ENTITY newsServerLabel.label "Servidor de news:">
 <!ENTITY newsServerLabel.accesskey "n">
 <!-- Entities for Outgoing Server page -->
+
+
+<!ENTITY outgoingTitle.label "Informações do servidor de envio">
 <!-- LOCALIZATION NOTE (outgoingServer.description) : Do not translate "SMTP" and "&quot;smtp.example.net&quot;" in below line -->
 <!ENTITY outgoingServer.description "Forneça o nome do servidor utilizado para enviar mensagens (por exemplo &quot;smtp.exemplo.com.br&quot;).">
-
-
+<!ENTITY outgoingServer.label "Servidor de envio:">
+<!ENTITY outgoingServer.accesskey "S">
 <!ENTITY outgoingUsername.description "Forneça o nome de usuário do servidor SMTP (usado para enviar mensagens), dado a você pelo seu provedor de email. Normalmente é o mesmo nome de usuário usado para receber mensagens.">
-
-
+<!ENTITY outgoingUsername.label "Nome de usuário do servidor de envio:">
+<!ENTITY outgoingUsername.accesskey "N">
 <!-- LOCALIZATION NOTE (modifyOutgoing.suffix) : This string will be appended after each of
      haveSmtp1.suffix3, haveSmtp2.suffix3, haveSmtp3.suffix3 .
 -->
+
+<!ENTITY modifyOutgoing.suffix "Você pode modificar configurações do servidor a partir de Config&amp;urações de contas...">
 <!-- LOCALIZATION NOTE (haveSmtp1.prefix and haveSmtp1.suffix3) : Do not translate "SMTP" and "&quot;" in
      these variables. Also, translate haveSmtp1.prefix and haveSmtp1.suffix3 as a single sentence, inserting
      text after the "&quot;" entity in haveSmtp1.suffix3, if required grammatically.
 -->
 <!ENTITY haveSmtp1.prefix "O seu servidor SMTP atual (de enviar mensagens), &quot;">
-
+<!ENTITY haveSmtp1.suffix3 "”, será usado.">
 <!-- LOCALIZATION NOTE (haveSmtp2.prefix and haveSmtp2.suffix3) : Do not translate "SMTP" and "&quot;" in
      these variables. Also, translate haveSmtp2.prefix and haveSmtp2.suffix3 as a single sentence, inserting
      text after the "&quot;" entity in haveSmtp2.suffix3, if required grammatically.
 -->
 <!ENTITY haveSmtp2.prefix "Seu nome de usuário do servidor SMTP (de enviar mensagens) existente, &quot;">
-
+<!ENTITY haveSmtp2.suffix3 "”, será usado.">
 <!-- LOCALIZATION NOTE (haveSmtp3.prefix and haveSmtp3.suffix3) : Do not translate "SMTP" and "&quot;" in
      these variables. Also, translate haveSmtp3.prefix and haveSmtp3.suffix3 as a single sentence, inserting
      text after the "&quot;" entity in haveSmtp3.suffix3, if required grammatically.
 -->
 <!ENTITY haveSmtp3.prefix "O seu servidor SMTP (de enviar mensagens), &quot;">
-
+<!ENTITY haveSmtp3.suffix3 "”, é o mesmo servidor usado para receber mensagens. Será usado o mesmo nome de usuário.">
 <!-- Entities for Account name page -->
 
 

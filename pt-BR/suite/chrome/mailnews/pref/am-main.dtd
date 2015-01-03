@@ -15,15 +15,15 @@
 <!ENTITY email.accesskey "E">
 <!ENTITY replyTo.label "Reply-To (email p/ resposta):">
 <!ENTITY replyTo.accesskey "r">
-
+<!ENTITY replyTo.placeholder "Destinatários responderão para este endereço">
 <!ENTITY organization.label "Empresa:">
 <!ENTITY organization.accesskey "m">
-
-
-
-
-
-
+<!ENTITY signatureText.label "Texto da assinatura:">
+<!ENTITY signatureText.accesskey "T">
+<!ENTITY signatureHtml.label "Usar HTML">
+<!ENTITY signatureHtml.accesskey "U">
+<!ENTITY signatureFile.label "Anexar a assinatura de um arquivo:">
+<!ENTITY signatureFile.accesskey "x">
 <!ENTITY choose.label "Arquivo...">
 <!ENTITY choose.accesskey "A">
 <!ENTITY editVCard.label "Editar vCard...">

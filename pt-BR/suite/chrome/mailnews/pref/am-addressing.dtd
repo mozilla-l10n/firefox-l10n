@@ -37,11 +37,13 @@
 <!ENTITY place.accesskey                      "i">
 <!ENTITY belowText.label                      "Fim da mensagem (recomendado)">
 <!ENTITY aboveText.label                      "Início da mensagem">
+<!ENTITY includeSigOnReply.label              "Ao responder, incluir assinatura">
+<!ENTITY includeSigOnReply.accesskey          "o">
+<!ENTITY includeSigOnForward.label            "Ao encaminhar, incluir assinatura">
+<!ENTITY includeSigOnForward.accesskey        "n">
 
+<!ENTITY globalComposingPrefs.label           "Preferências globais de edição…">
+<!ENTITY globalComposingPrefs.accesskey       "g">
 
-
-
-
-
-
-
+<!ENTITY globalAddressingPrefs.label          "Preferências globais de endereçamento…">
+<!ENTITY globalAddressingPrefs.accesskey      "P">

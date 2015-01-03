@@ -4,9 +4,9 @@
 
 <!ENTITY pref.character.encoding.title   "Codificação">
 <!ENTITY messageDisplay.caption          "Aparência">
-
-
-
+<!ENTITY viewFallbackCharset.label       "Codificação de caracteres alternativa:">
+<!ENTITY viewFallbackCharset.accesskey   "e">
+<!ENTITY viewFallbackCharset.desc        "(Usada para conteúdo antigo que não declare sua codificação.)">
 
 <!ENTITY composingMessages.caption       "Edição">
 <!ENTITY useMIME.label                   "Usar a codificação MIME 'quoted printable' em mensagens contendo acentuação ou símbolos (deixe desmarcado para enviar os caracteres sem nenhuma codificação.">
