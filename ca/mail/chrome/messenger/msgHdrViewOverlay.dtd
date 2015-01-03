@@ -50,7 +50,7 @@
 <!ENTITY hdrViewToolbarAlwaysReplySender.accesskey "r">
 
 <!ENTITY otherActionsButton2.label "Més">
-
+<!ENTITY otherActionsButton.tooltip "Més accions">
 <!ENTITY otherActionsOpenConversation1.label "Obre la conversa">
 <!ENTITY otherActionsOpenConversation1.accesskey "c">
 <!ENTITY otherActionsOpenInNewWindow1.label "Obre en una finestra nova">
