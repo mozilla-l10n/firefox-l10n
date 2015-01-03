@@ -12,11 +12,12 @@
 
 <!ENTITY imageDetails                   "Determine como o &brandShortName; manipula imagens.">
 
-
-
-
-
-
+<!ENTITY loadAllImagesRadio.label       "Carregar todas as imagens">
+<!ENTITY loadAllImagesRadio.accesskey   "C">
+<!ENTITY loadOrgImagesRadio.label       "Apenas carregar imagens quando vierem do mesmo servidor que a página">
+<!ENTITY loadOrgImagesRadio.accesskey   "n">
+<!ENTITY loadNoImagesRadio.label        "Não carregar nenhuma imagem">
+<!ENTITY loadNoImagesRadio.accesskey    "h">
 <!ENTITY viewPermissions.label          "Gerenciar permissão de imagens">
 <!ENTITY viewPermissions.accesskey      "P">
 <!ENTITY animLoopingTitle.label         "Limitar a repetição de imagens animadas">

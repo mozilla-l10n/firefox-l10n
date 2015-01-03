@@ -23,7 +23,7 @@
 <!ENTITY allowDebugger.accesskey          "P">
 <!ENTITY allowRemoteConnections.label     "Permitir conexões a partir de outros computadores">
 <!ENTITY allowRemoteConnections.accesskey "o">
-
-
+<!ENTITY connectionPrompt.label           "Pedir confirmação para conexões recebidas">
+<!ENTITY connectionPrompt.accesskey       "p">
 <!ENTITY remoteDebuggerPort.label         "Numero da porta para conexão:">
 <!ENTITY remoteDebuggerPort.accesskey     "N">

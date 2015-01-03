@@ -14,8 +14,8 @@
 <!ENTITY offlineAlwaysAllow.accesskey       "P">
 <!ENTITY offlineExplicit.label              "Permitir apenas sites com permissões explícitas">
 <!ENTITY offlineExplicit.accesskey          "P">
-
-
+<!ENTITY offlineNotifyAsk.label             "Notificar quando sites desejam armazenar dados para utilização em modo desconectado">
+<!ENTITY offlineNotifyAsk.accesskey         "N">
 <!ENTITY offlineNotifyPermissions.label     "Gerenciar permissões">
 <!ENTITY offlineNotifyPermissions.accesskey "P">
 
