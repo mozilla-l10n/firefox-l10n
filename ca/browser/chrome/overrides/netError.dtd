@@ -156,19 +156,23 @@ functionality specific to firefox. -->
 <button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button> 
 <button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>">
 
-
-
+<!ENTITY errorReporting.title "Informa d'aquest error">
+<!ENTITY errorReporting.longDesc "Si notifiqueu l'adreça i la informació del certificat de <span id='hostname'></span>, ens ajudareu a identificar i blocar llocs maliciosos. Gràcies per ajudar-nos a crear un web més segur!">
+<!ENTITY errorReporting.automatic "Informa automàticament dels errors en el futur">
 <!ENTITY errorReporting.learnMore "Més informació…">
-
-
-
-
+<!ENTITY errorReporting.sending "S'està enviant l'informe">
+<!ENTITY errorReporting.sent "S'ha enviat l'informe">
+<!ENTITY errorReporting.report "Informe">
+<!ENTITY errorReporting.tryAgain "Torna-ho a provar">
 
 <!ENTITY remoteXUL.title "XUL remot">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Poseu-vos en contacte amb els propietaris del lloc web per informar-los del problema.</li></ul></p>">
 
+<!ENTITY oldSecurityProtocol.title "No s'ha pogut connectar de forma segura">
 <!-- LOCALIZATION NOTE (oldSecurityProtocol.longDesc) - Do not translate the
      <span id='hostname'></span>. -->
+<!ENTITY oldSecurityProtocol.longDesc2 "El &brandShortName; no pot garantir la seguretat de les vostres dades a <span id='hostname'></span> perquè aquest lloc utilitza SSLv3, un protocol de seguretat insegur.">
 <!-- LOCALIZATION NOTE (oldSecurityProtocol.advancedInfo) - Do not translate
      the <span id='errorcode'></span>. -->
-
+<!ENTITY oldSecurityProtocol.advancedInfo "Informació avançada: <span id='errorcode'></span>">
+<!ENTITY oldSecurityProtocol.learnMore "Més informació…">
