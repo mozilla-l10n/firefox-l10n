@@ -27,5 +27,4 @@
 <!ENTITY            offlineState.label    "Bekerja luring">
 <!ENTITY            offlineState.accesskey "l">
 
-<!ENTITY            useSelected.label       "Gunakan profil terpilih tanpa ditanya saat memulai">
-<!ENTITY            useSelected.accesskey   "s">
+

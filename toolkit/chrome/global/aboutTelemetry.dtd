@@ -8,26 +8,23 @@
 
 <!ENTITY aboutTelemetry.telemetryDisabled "  Telemetri <span>dinonaktifkan</span>.">
 
+
 <!ENTITY aboutTelemetry.slowSqlSection "  Pernyataan SQL Lambat">
 
 <!ENTITY aboutTelemetry.chromeHangsSection "  Peramban Macet">
 
-<!ENTITY aboutTelemetry.threadHangStatsSection " Utas Macet">
-
-<!ENTITY aboutTelemetry.lateWritesSection "  Penulisan Di Akhir">
 
 <!ENTITY aboutTelemetry.histogramsSection "  Histogram">
 
+
 <!ENTITY aboutTelemetry.simpleMeasurementsSection "  Pengukuran Sederhana">
 
-<!ENTITY aboutTelemetry.addonDetailsSection "
-  Detail Pengaya
-">
+
+
 <!ENTITY aboutTelemetry.systemInfoSection "  Informasi Sistem">
 
 <!ENTITY aboutTelemetry.addonHistogramsSection "  Histogram yang Dikumpulkan berdasar Pengaya">
 
-<!ENTITY aboutTelemetry.toggle "  Klik untuk membentangkan/menciutkan bagian">
 
 <!ENTITY aboutTelemetry.emptySection "  (Tidak ada data yang dikumpulkan)">
 
@@ -37,4 +34,3 @@
 
 <!ENTITY aboutTelemetry.hideSymbols "  Tampilkan data mentah dari proses yang macet">
 
-<!ENTITY aboutTelemetry.filterText "Filter (string atau /ekspresi reguler/)">
