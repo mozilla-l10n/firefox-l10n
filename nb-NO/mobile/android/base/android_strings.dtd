@@ -392,6 +392,9 @@ size. -->
      text underneath empty thumbnails in the Top Sites page on about:home. -->
 <!ENTITY home_top_sites_add "Legg til nettsted">
 
+<!-- Localization note (home_title): This string should be kept in sync
+     with the page title defined in aboutHome.dtd -->
+<!ENTITY home_title "&brandShortName; Hjem">
 <!ENTITY home_history_title "Historikk">
 <!ENTITY home_clear_history_button "Slett nettleserhistorikk">
 <!ENTITY home_clear_history_confirm "Er du sikker på at du vil slette historikken?">
@@ -401,6 +404,9 @@ size. -->
 <!ENTITY home_last_tabs_empty "Nylig brukte faner vises her.">
 <!ENTITY home_open_all "Åpne alle">
 <!ENTITY home_most_recent_empty "Nettsted som du sist besøkte visese her.">
+<!-- Localization note (home_most_recent_emptyhint2): "Psst" is a sound that might be used to attract someone's attention unobtrusively, and intended to hint at Private Browsing to the user.
+     The placeholders &formatS1; and &formatS2; are used to mark the location of text underlining. -->
+<!ENTITY home_most_recent_emptyhint2 "Psst: hvis du bruker &formatS1;Ny privat fane&formatS2; vil historikk ikke lagres.">
 <!ENTITY home_reading_list_empty "Artikler du lagrer for senere vises her.">
 <!-- Localization note (home_reading_list_hint): The "TIP" string is synonymous to "hint", "clue", etc. This string is displayed
      as an advisory message on how to add content to the reading list when the reading list empty.
@@ -468,11 +474,21 @@ substitution variables.  If it is difficult to translate the sense of the string
 with that structure, consider a translation which ignores the preceding domain and
 just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_run_by "som drives av">
+<!ENTITY identity_no_info "Dette nettstedet tilbyr ikke identitetsinformasjon.">
+<!ENTITY identity_not_encrypted "Tilkoblingen til dette nettstedet er ikke kryptert.">
 
 <!-- Mixed content notifications in site identity popup -->
 <!ENTITY loaded_mixed_content_message "Denne siden viser innhold som ikke er sikret.">
 <!ENTITY blocked_mixed_content_message_top "&brandShortName; har blokkert innhold som ikke er sikret.">
 <!ENTITY blocked_mixed_content_message_bottom "De fleste nettsted vil fortsatt virke selv om dette innholdet blokkeres.">
+
+<!-- Tracking content notifications in site identity popup -->
+<!ENTITY loaded_tracking_content_message_top "Sporingsbeskyttelse er avslått.">
+<!ENTITY loaded_tracking_content_message_bottom "Deler av denne siden kan spore aktiviteten din på nettet.">
+<!ENTITY blocked_tracking_content_message_top2 "Sporingsbeskyttelse påslått.">
+<!ENTITY blocked_tracking_content_message_bottom2 "Deler av denne nettsiden som sporer nettaktiviteten din ble blokkert.">
+
+<!-- Common mixed and tracking content strings in site identity popup -->
 <!ENTITY learn_more "Les mer">
 <!ENTITY enable_protection "Slå på beskyttelse">
 <!ENTITY disable_protection "Slå av beskyttelse">
