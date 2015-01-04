@@ -48,9 +48,9 @@
   -  in the call tree headers for a recording. -->
 
 <!ENTITY profilerUI.table.totalDuration   "Bendras laikas (ms)">
-
+<!ENTITY profilerUI.table.selfDuration    "Vidinis laikas (ms)">
 <!ENTITY profilerUI.table.totalPercentage "Bendri kaštai">
-
+<!ENTITY profilerUI.table.selfPercentage  "Vidiniai kaštai">
 <!ENTITY profilerUI.table.samples         "Pavyzdžiai">
 <!ENTITY profilerUI.table.function        "Funkcija">
 <!-- LOCALIZATION NOTE (profilerUI.newtab.tooltiptext): The tooltiptext shown
