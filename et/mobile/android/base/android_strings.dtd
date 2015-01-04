@@ -172,10 +172,8 @@
 <!ENTITY pref_cookies_not_accept_foreign "lubatud, välja arvatud kolmandad osapooled">
 <!ENTITY pref_cookies_disabled           "keelatud">
 
-<!ENTITY pref_donottrack_menu            "Jälitamine">
-<!ENTITY pref_donottrack_disallow_tracking "saitidele antakse teada, et jälitamist ei soovita">
-<!ENTITY pref_donottrack_allow_tracking  "saite teavitatakse soovist olla jälitatud">
-<!ENTITY pref_donottrack_no_pref         "saitidele ei anta mingit teavet jälitamise eelistuste kohta">
+<!ENTITY pref_donottrack_title           "Jälitamine">
+<!ENTITY pref_donottrack_summary         "&brandShortName; annab saitidele teada, et jälitamist ei soovita">
 
 <!ENTITY pref_char_encoding              "Kodeeringu valik">
 <!ENTITY pref_char_encoding_on           "kuvatakse menüüs">
@@ -210,6 +208,9 @@ size. -->
 <!-- Localization note (pref_font_size_preview_text): This paragraph is used as an example to
     demonstrate the font size setting.  It is meant to be whimsical and fun. -->
 <!ENTITY pref_font_size_preview_text     "Kiire oranž rebane hüppab üle sinu ootuste suurema kiirusega, parema paindlikkusega ning tõhusama turvalisusega. Mittetulunduslikena oleme innovatiivsed just sinu jaoks ja me ei pea tegema survestatud kompromisse. See tähendab paremat kasutuskogemust sinule ja helgemat tulevikku tervele veebile.">
+
+<!ENTITY pref_media_autoplay_enabled     "Automaatne esitamine">
+<!ENTITY pref_media_autoplay_enabled_summary "kas veebilehed saavad videoid ja muud meediat automaatselt esitada?">
 
 <!ENTITY pref_use_master_password        "Kasutatakse ülemparooli">
 <!ENTITY pref_sync                       "Sync">
@@ -361,8 +362,13 @@ size. -->
 <!ENTITY site_settings_no_settings       "Puuduvad sätted, mida kustutada.">
 
 <!ENTITY reading_list_added              "Leht lisati lugemisnimekirja">
-<!ENTITY reading_list_failed             "Lehe lisamine lugemisnimekirja ebaõnnestus">
 <!ENTITY reading_list_duplicate          "Leht on juba lugemisnimekirjas">
+
+<!-- Localization note (reading_list_time_minutes2) : This string is used in the "Reading List"
+     panel on the home page to give the user an estimate of how many minutes it will take to
+     read an article. The word "minute" should be abbreviated if possible. -->
+<!ENTITY reading_list_time_minutes2      "&formatD; min">
+<!ENTITY reading_list_time_over_an_hour  "Üle tunni">
 
 <!-- Localization note : These strings are used as alternate text for accessibility.
      They are not visible in the UI. -->
@@ -386,6 +392,9 @@ size. -->
      text underneath empty thumbnails in the Top Sites page on about:home. -->
 <!ENTITY home_top_sites_add              "Lisa sait">
 
+<!-- Localization note (home_title): This string should be kept in sync
+     with the page title defined in aboutHome.dtd -->
+<!ENTITY home_title                      "&brandShortName;i avaleht">
 <!ENTITY home_history_title              "Ajalugu">
 <!ENTITY home_clear_history_button       "Kustuta lehitsemise ajalugu">
 <!ENTITY home_clear_history_confirm      "Kas oled kindel, et soovid ajaloo kustutada?">
@@ -395,6 +404,9 @@ size. -->
 <!ENTITY home_last_tabs_empty            "Viimati külastatud kaardid ilmuvad siia.">
 <!ENTITY home_open_all                   "Viimatine ajalugu">
 <!ENTITY home_most_recent_empty          "Viimati külastatud veebisaidid ilmuvad siia.">
+<!-- Localization note (home_most_recent_emptyhint2): "Psst" is a sound that might be used to attract someone's attention unobtrusively, and intended to hint at Private Browsing to the user.
+     The placeholders &formatS1; and &formatS2; are used to mark the location of text underlining. -->
+<!ENTITY home_most_recent_emptyhint2     "Psst: &formatS1;privaatset kaarti&formatS2; kasutades ei salvestata ajalugu.">
 <!ENTITY home_reading_list_empty         "Hilisemaks lugemiseks salvestatud artiklid ilmuvad siia.">
 <!-- Localization note (home_reading_list_hint): The "TIP" string is synonymous to "hint", "clue", etc. This string is displayed
      as an advisory message on how to add content to the reading list when the reading list empty.
@@ -462,11 +474,21 @@ substitution variables.  If it is difficult to translate the sense of the string
 with that structure, consider a translation which ignores the preceding domain and
 just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_run_by                 "ja seda hooldab">
+<!ENTITY identity_no_info                "Sellel saidil puudub tuvastav teave.">
+<!ENTITY identity_not_encrypted          "Ühendus selle saidiga pole krüptitud.">
 
 <!-- Mixed content notifications in site identity popup -->
 <!ENTITY loaded_mixed_content_message    "See leht kuvab ebaturvalist sisu.">
 <!ENTITY blocked_mixed_content_message_top "&brandShortName; blokkis ebaturvalise sisu.">
 <!ENTITY blocked_mixed_content_message_bottom "Enamus veebilehti töötab korrektselt ka selle sisu blokkimisel.">
+
+<!-- Tracking content notifications in site identity popup -->
+<!ENTITY loaded_tracking_content_message_top "Jälitamise vastane kaitse on keelatud.">
+<!ENTITY loaded_tracking_content_message_bottom "Mõned osad sellest lehest võivad jälitada sinu tegevust internetis.">
+<!ENTITY blocked_tracking_content_message_top2 "Jälitamise vastane kaitse on lubatud.">
+<!ENTITY blocked_tracking_content_message_bottom2 "Sellest lehest blokiti mõned osad, mis jälitavad sinu tegevust internetis.">
+
+<!-- Common mixed and tracking content strings in site identity popup -->
 <!ENTITY learn_more                      "Rohkem teavet">
 <!ENTITY enable_protection               "Luba kaitse">
 <!ENTITY disable_protection              "Keela kaitse">
@@ -494,8 +516,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY webapp_generic_name             "Veebirakendus">
 
 <!ENTITY searchable_description          "Järjehoidjad ja ajalugu">
-
-<!ENTITY devtools_remote_debugging_forward "Don\'t forget to set up port forwarding!">
 
 <!-- Updater notifications -->
 <!ENTITY updater_start_title2            "&brandShortName;ile on saadaval uuendus">
@@ -548,3 +568,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      "Last synced" is one of the user's other Sync clients, typically Firefox on
      their desktop or laptop.-->
 <!ENTITY remote_tabs_last_synced         "Viimati sünkroniseeritud: &formatS;">
+
+<!-- Find-In-Page strings -->
+<!-- LOCALIZATION NOTE (find_matchcase): This is meant to appear as an icon that changes color
+     if match-case is activated. i.e. No more than two letters, one uppercase, one lowercase. -->
+<!ENTITY find_matchcase                  "Aa">

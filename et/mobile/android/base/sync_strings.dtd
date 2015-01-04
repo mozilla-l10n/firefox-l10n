@@ -167,6 +167,7 @@
 <!-- Localization note: &formatS; is the Firefox Account's email address. -->
 <!ENTITY fxaccount_confirm_account_verification_link 'Kinnitamise link on saadetud aadressile &formatS;'>
 <!ENTITY fxaccount_confirm_account_resend_email   'Saada kinnitusnõue uuesti'>
+<!ENTITY fxaccount_confirm_account_change_email   'Kas unustada see e-posti aadress?'>
 <!ENTITY fxaccount_confirm_account_verification_link_sent2 'Kinnitusnõue on saadetud'>
 <!ENTITY fxaccount_confirm_account_verification_link_not_sent2 'Kinnitusnõude saatmine polnud võimalik'>
 
@@ -186,6 +187,8 @@
 <!ENTITY fxaccount_status_header2                 'Firefoxi konto'>
 <!ENTITY fxaccount_status_signed_in_as            'Sisse logitud kasutajana'>
 <!ENTITY fxaccount_status_auth_server             'Konto server'>
+<!ENTITY fxaccount_status_sync_now                'Sünkroniseeri kohe'>
+<!ENTITY fxaccount_status_syncing2                'Sünkroniseerimine…'>
 <!ENTITY fxaccount_status_device_name             'Seadme nimi'>
 <!ENTITY fxaccount_status_sync_server             'Synci server'>
 <!ENTITY fxaccount_status_sync                    '&syncBrand.shortName.label;'>
