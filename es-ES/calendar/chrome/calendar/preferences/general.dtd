@@ -7,6 +7,9 @@
 <!ENTITY pref.dateformat.accesskey "F">
 <!ENTITY pref.dateformat.long "Largo">
 <!ENTITY pref.dateformat.short "Corto">
+<!ENTITY pref.timezones.caption "Zona horaria">
+<!ENTITY pref.timezones.label "Seleccione la ciudad más cercana en su zona horaria:">
+<!ENTITY pref.timezones.accesskey "S">
 <!ENTITY pref.defaults.label "Valores predeterminados para nuevos elementos">
 <!ENTITY pref.events.label "Eventos">
 <!ENTITY pref.tasks.label "Tareas">
