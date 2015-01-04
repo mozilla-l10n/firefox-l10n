@@ -5,7 +5,7 @@
 <!ENTITY startpage.title "Bem-vindo ao &brandShortName; Email &amp; grupos de notícias">
 <!--# LOCALIZATION NOTE (headline.label): the URL for <a id="vendorURL"> is fetched from brand.properties -->
 <!ENTITY headline.label 'Bem-vindo ao <a id="vendorURL" href="">&brandShortName;</a> Email &amp; grupos de notícias!'>
-<!ENTITY description.label "O &brandShortName; Email &amp; grupos de notícias é um poderoso cliente de e-mail e news de código aberto.">
+<!ENTITY description.label "O &brandShortName; Email &amp; grupos de notícias é um poderoso cliente de e-mail e notícias de código aberto.">
 <!ENTITY features.title "Principais recursos">
 <!ENTITY feat_multiacc.label "Suporte a várias contas">
 <!ENTITY feat_junk.label "Detecção de spam">
@@ -21,4 +21,4 @@
 <!ENTITY dict_info.label 'Muitos idiomas adicionais podem ser instalados a partir da seção <a id="dictURL" href="">dicionários</a> em <a href="https://addons.mozilla.org/seamonkey/">Complementos Mozilla</a>.'>
 <!ENTITY info.title "Links">
 <!--# LOCALIZATION NOTE (info_bugs.label): the URL for <a id="releaseNotesURL"> is fetched from brand.properties -->
-<!ENTITY info_bugs.label '<ul><li><a href="http://www.mozilla.org/mailnews/">Mozilla Mail/News</a></li><li><a id="releaseNotesURL" href="">Notas de lançamento</a></li><li><a href="https://bugzilla.mozilla.org/query.cgi">Bugzilla</a></li></ul>'>
+<!ENTITY info_bugs.label '<ul><li><a href="http://www.mozilla.org/mailnews/">Mozilla E-mail/grupos de notícias</a></li><li><a id="releaseNotesURL" href="">Notas de lançamento</a></li><li><a href="https://bugzilla.mozilla.org/query.cgi">Bugzilla: sugestões e informações sobre falhas encontradas</a></li></ul>'>

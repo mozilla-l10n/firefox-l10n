@@ -15,7 +15,7 @@
 <!ENTITY accountTypeDirections.label "Selecione o tipo de conta que você deseja configurar:">
 <!ENTITY accountTypeMail.label "Conta de email">
 <!ENTITY accountTypeMail.accesskey "e">
-<!ENTITY accountTypeNews.label "Conta de news">
+<!ENTITY accountTypeNews.label "Conta de grupos de notícias">
 <!ENTITY accountTypeNews.accesskey "n">
 <!-- Entities for Identity page -->
 
@@ -61,9 +61,9 @@
 <!ENTITY incomingUsername.label "Nome de usuário:">
 <!ENTITY incomingUsername.accesskey "u">
 <!-- LOCALIZATION NOTE (newsServerNameDesc.label) : Do not translate "NNTP" or the "&quot;" entities in below line -->
-<!ENTITY newsServerNameDesc.label "Forneça o nome do servidor de news (NNTP) (por exemplo, &quot;news.example.com.br&quot;).">
-<!ENTITY newsServerLabel.label "Servidor de news:">
-<!ENTITY newsServerLabel.accesskey "n">
+<!ENTITY newsServerNameDesc.label "Forneça o nome do servidor de notícias (NNTP) (por exemplo, &quot;news.exemplo.com.br&quot;).">
+<!ENTITY newsServerLabel.label "Servidor de grupos de notícias:">
+<!ENTITY newsServerLabel.accesskey "g">
 <!-- Entities for Outgoing Server page -->
 
 
@@ -103,7 +103,7 @@
 
 <!ENTITY accnameTitle.label "Nome da conta">
 <!-- LOCALIZATION NOTE (accnameDesc.label) : do not translate any "&quot;" in below line -->
-<!ENTITY accnameDesc.label "Forneça o nome pelo qual você quer se referir a esta conta (por exemplo, &quot;Conta do trabalho&quot;, &quot;Casa&quot; ou &quot;Conta de news&quot;).">
+<!ENTITY accnameDesc.label "Forneça o nome pelo qual você quer se referir a esta conta (por exemplo, &quot;Conta do trabalho&quot;, &quot;Casa&quot; ou &quot;Conta de notícias&quot;).">
 <!ENTITY accnameLabel.label "Nome da conta:">
 <!ENTITY accnameLabel.accesskey "t">
 <!-- Entities for Done (Congratulations) page -->
@@ -114,7 +114,7 @@
 <!ENTITY serverTypePrefix.label "O servidor para receber mensagens é do tipo:">
 <!ENTITY serverNamePrefix.label "Receber mensagens através deste servidor:">
 <!ENTITY smtpServerNamePrefix.label "Enviar mensagens através deste servidor SMTP:">
-<!ENTITY newsServerNamePrefix.label "Nome do servidor de news (NNTP):">
+<!ENTITY newsServerNamePrefix.label "Nome do servidor de notícias (NNTP):">
 <!ENTITY downloadOnLogin.label "Receber as mensagens agora">
 <!ENTITY downloadOnLogin.accesskey "R">
 <!ENTITY deferStorageDesc.label "Desmarque a opção abaixo se quiser receber as mensagens desta conta em um espaço separado, sem misturar com as Pastas Locais.">
