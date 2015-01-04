@@ -49,7 +49,8 @@
 <!ENTITY hdrViewToolbarAlwaysReplySender.label     "Alati kuvatakse saatjale vastamise nuppu">
 <!ENTITY hdrViewToolbarAlwaysReplySender.accesskey "A">
 
-<!ENTITY otherActionsButton1.label                 "Muud tegevused">
+<!ENTITY otherActionsButton2.label                 "Muud tegevused">
+<!ENTITY otherActionsButton.tooltip                "Kuva rohkem tegevusi">
 <!ENTITY otherActionsOpenConversation1.label       "Ava vestlusena">
 <!ENTITY otherActionsOpenConversation1.accesskey   "s">
 <!ENTITY otherActionsOpenInNewWindow1.label        "Ava uues aknas">

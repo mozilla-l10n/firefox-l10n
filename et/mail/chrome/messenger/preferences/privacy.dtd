@@ -33,11 +33,6 @@
 <!ENTITY showCookies.label                 "Näita küpsiseid…">
 <!ENTITY showCookies.accesskey             "S">
 
-<!ENTITY dntTrackingNopref.label2          "Veebilehtedele ei anta mingit teavet jälitamise eelistuste kohta">
-<!ENTITY dntTrackingNopref.accesskey       "V">
 <!ENTITY dntTrackingNotOkay.label2         "Veebilehtedele antakse teada, et jälitamist ei soovita">
 <!ENTITY dntTrackingNotOkay.accesskey      "n">
-<!ENTITY dntTrackingOkay.label2            "Veebilehti teavitatakse soovist olla jälitatud">
-<!ENTITY dntTrackingOkay.accesskey         "t">
 <!ENTITY doNotTrackInfo.label              "Rohkem teavet jälitamisest keeldumise kohta">
-

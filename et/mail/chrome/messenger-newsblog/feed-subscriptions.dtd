@@ -1,10 +1,10 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-   
+
 <!-- Subscription Dialog -->
 <!ENTITY feedSubscriptions.label     "Uudistevoogude tellimused">
-<!ENTITY subscriptionDesc.label      "Märkus: uudistevoo kausta eemaldamisel või muutmisel ei rakendu need muudatused varem tõmmatud uudistele.">
+<!ENTITY learnMore.label             "Rohkem teavet uudistevoogude kohta">
 
 <!ENTITY feedTitle.label             "Pealkiri:">
 <!ENTITY feedTitle.accesskey         "P">
@@ -12,6 +12,8 @@
 <!ENTITY feedLocation.label          "Uudistevoo URL:">
 <!ENTITY feedLocation.accesskey      "U">
 <!ENTITY feedLocation.placeholder    "Lisamiseks sisesta korrektne uudistevoo URL">
+<!ENTITY locationValidate.label      "Valideeri">
+<!ENTITY validateText.label          "Valideeri uudistevoog ja hangi õige URL.">
 
 <!ENTITY feedFolder.label            "Artiklid salvestatakse:">
 <!ENTITY feedFolder.accesskey        "A">
@@ -24,9 +26,6 @@
 <!ENTITY autotagUsePrefix.label      "Siltidele lisatakse prefiks:">
 <!ENTITY autotagUsePrefix.accesskey  "S">
 <!ENTITY autoTagPrefix.placeholder   "Sisesta prefiks">
-
-<!ENTITY locationValidate.label      "Valideeri">
-<!ENTITY validateText.label          "Valideeri uudistevoog ja hangi õige URL.">
 
 <!ENTITY button.addFeed.label        "Lisa">
 <!ENTITY button.addFeed.accesskey    "L">
