@@ -175,8 +175,8 @@ midlertidig, og du kan prøve igjen senere.</li>
 </ul>
 ">
 
-<!ENTITY cspFrameAncestorBlocked.title "Blokkert av sikkerhetspolicy på innholdet">
-<!ENTITY cspFrameAncestorBlocked.longDesc "<p>&brandShortName; forhindret nettsiden fra å vises på denne måten fordi nettsiden har en sikkerhetspolicy som forhindrer det.</p>">
+<!ENTITY cspBlocked.title "Blokkert av sikkerhetspolicy">
+<!ENTITY cspBlocked.longDesc "<p>&brandShortName; forhindret nettsiden fra å lastes inn på denne måten fordi nettsiden har en sikkerhetspolicy som forbyr det.</p>">
 
 <!ENTITY corruptedContentError.title "Ødelagt innhold">
 <!ENTITY corruptedContentError.longDesc "<p>Siden du forsøker å vise kan ikke åpnes på grunn av en feil i dataoverføringen.</p><ul><li>Kontakt nettstedseierne og informer dem om dette problemet.</li></ul>">
