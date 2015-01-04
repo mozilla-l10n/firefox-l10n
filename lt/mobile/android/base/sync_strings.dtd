@@ -188,7 +188,7 @@
 <!ENTITY fxaccount_status_signed_in_as "Prisijungėte kaip">
 <!ENTITY fxaccount_status_auth_server "Paskyros serveris">
 <!ENTITY fxaccount_status_sync_now "Sinchronizuoti dabar">
-
+<!ENTITY fxaccount_status_syncing2 "Sinchronizuojama…">
 <!ENTITY fxaccount_status_device_name "Įrenginio vardas">
 <!ENTITY fxaccount_status_sync_server "„Sync“ serveris">
 <!ENTITY fxaccount_status_sync "&syncBrand.shortName.label;">
