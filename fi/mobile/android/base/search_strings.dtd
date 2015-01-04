@@ -8,7 +8,7 @@
       the currently selected search engine. -->
 <!ENTITY search_bar_hint 'Etsi palvelulla &formatS;'>
 
-<!ENTITY search_empty_title '&brandShortName; -haku'>
+<!ENTITY search_empty_title2 'Aloita haku'>
 <!ENTITY search_empty_message 'Hae nopeasti, mitä haluat'>
 
 <!--  Localization note (search_plus_content_description): This is the content description

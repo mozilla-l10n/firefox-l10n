@@ -154,7 +154,7 @@
 <!ENTITY pref_category_home_content_settings "Sisältöasetukset">
 <!ENTITY pref_home_updates "Automaattiset päivitykset">
 <!ENTITY pref_home_updates_enabled "Ota käyttöön">
-<!ENTITY pref_home_updates_wifi "Vain WIFI yhteydellä">
+<!ENTITY pref_home_updates_wifi "Vain WIFI-yhteydellä">
 <!ENTITY pref_home_suggested_sites "Näytä sivustoehdotukset">
 <!ENTITY pref_home_suggested_sites_summary "Näytä aloitussivulla oikotiet sivustoille, joiden uskomme kiinnostavan sinua">
 
@@ -172,10 +172,8 @@
 <!ENTITY pref_cookies_not_accept_foreign "Sallittu pois lukien kolmannen osapuolen evästeet">
 <!ENTITY pref_cookies_disabled "Estetty">
 
-<!ENTITY pref_donottrack_menu "Seuranta">
-<!ENTITY pref_donottrack_disallow_tracking "Ilmoita sivustoille, etten halua niiden seuraavan minua">
-<!ENTITY pref_donottrack_allow_tracking "Ilmoita sivustoille, että haluan niiden seuraavan minua">
-<!ENTITY pref_donottrack_no_pref "Älä kerro sivustoille mitään seuranta-asetuksistani">
+<!ENTITY pref_donottrack_title "Älä seuraa">
+<!ENTITY pref_donottrack_summary "&brandShortName; ilmoittaa sivustoille, ettet halua niiden seuraavan sinua">
 
 <!ENTITY pref_char_encoding "Merkistökoodaus">
 <!ENTITY pref_char_encoding_on "Näytä valikko">
@@ -210,6 +208,9 @@ size. -->
 <!-- Localization note (pref_font_size_preview_text): This paragraph is used as an example to
     demonstrate the font size setting.  It is meant to be whimsical and fun. -->
 <!ENTITY pref_font_size_preview_text "The quick orange fox jumps over your expectations with more speed, more flexibility and more security. As a non-profit, we\'re free to innovate on your behalf without any pressure to compromise. That means a better experience for you and a brighter future for the Web.">
+
+<!ENTITY pref_media_autoplay_enabled "Salli automaattinen toisto">
+<!ENTITY pref_media_autoplay_enabled_summary "Voivatko verkkosivustot toistaa automaattisesti videoita ja muuta sisältöä">
 
 <!ENTITY pref_use_master_password "Käytä pääsalasanaa">
 <!ENTITY pref_sync "Sync">
@@ -362,7 +363,12 @@ size. -->
 
 <!ENTITY reading_list_added "Sivu lisättiin lukulistalle">
 <!ENTITY reading_list_failed "Sivun lisääminen lukulistalle epäonnistui">
-<!ENTITY reading_list_duplicate "Sivu on jo lukulistalla">
+
+<!-- Localization note (reading_list_time_minutes2) : This string is used in the "Reading List"
+     panel on the home page to give the user an estimate of how many minutes it will take to
+     read an article. The word "minute" should be abbreviated if possible. -->
+<!ENTITY reading_list_time_minutes2 "&formatD; min">
+<!ENTITY reading_list_time_over_an_hour "Yli tunnin">
 
 <!-- Localization note : These strings are used as alternate text for accessibility.
      They are not visible in the UI. -->
@@ -386,6 +392,9 @@ size. -->
      text underneath empty thumbnails in the Top Sites page on about:home. -->
 <!ENTITY home_top_sites_add "Lisää sivusto">
 
+<!-- Localization note (home_title): This string should be kept in sync
+     with the page title defined in aboutHome.dtd -->
+<!ENTITY home_title "&brandShortName;in kotisivu">
 <!ENTITY home_history_title "Sivuhistoria">
 <!ENTITY home_clear_history_button "Tyhjennä selaushistoria">
 <!ENTITY home_clear_history_confirm "Tyhjennetäänkö selaushistoria?">
@@ -395,6 +404,9 @@ size. -->
 <!ENTITY home_last_tabs_empty "Äskettäin avoimet välilehdet näkyvät tässä.">
 <!ENTITY home_open_all "Avaa kaikki">
 <!ENTITY home_most_recent_empty "Viimeisimmät vieraillut sivustot näkyvät tässä.">
+<!-- Localization note (home_most_recent_emptyhint2): "Psst" is a sound that might be used to attract someone's attention unobtrusively, and intended to hint at Private Browsing to the user.
+     The placeholders &formatS1; and &formatS2; are used to mark the location of text underlining. -->
+<!ENTITY home_most_recent_emptyhint2 "Huom.: Sivuhistoriaa ei tallenneta kun käytät &formatS1;yksityisen selauksen välilehteä&formatS2;.">
 <!ENTITY home_reading_list_empty "Artikkelit myöhemmin luettavaksi näkyvät tässä.">
 <!-- Localization note (home_reading_list_hint): The "TIP" string is synonymous to "hint", "clue", etc. This string is displayed
      as an advisory message on how to add content to the reading list when the reading list empty.
@@ -462,11 +474,21 @@ substitution variables.  If it is difficult to translate the sense of the string
 with that structure, consider a translation which ignores the preceding domain and
 just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_run_by "Sivustoa hallinnoi">
+<!ENTITY identity_no_info "Tähän verkkosivuston ei liity identiteettitietoja.">
+<!ENTITY identity_not_encrypted "Yhteys verkkosivustoon ei ole salattu.">
 
 <!-- Mixed content notifications in site identity popup -->
 <!ENTITY loaded_mixed_content_message "Tällä sivulla on suojaamatonta sisältöä.">
 <!ENTITY blocked_mixed_content_message_top "&brandShortName; on estänyt suojaamattoman sisällön näyttämisen.">
 <!ENTITY blocked_mixed_content_message_bottom "Useimmat verkkosivut toimivat edelleen moitteettomasti vaikka tällainen sisältö on estetty.">
+
+<!-- Tracking content notifications in site identity popup -->
+<!ENTITY loaded_tracking_content_message_top "Seurannan esto pois päältä.">
+<!ENTITY loaded_tracking_content_message_bottom "Jotkin tämän sivun osat saattavat seurata sinua verkossa.">
+<!ENTITY blocked_tracking_content_message_top2 "Seurannan esto käytössä.">
+<!ENTITY blocked_tracking_content_message_bottom2 "Sivun sinua seuraavat osat on estetty.">
+
+<!-- Common mixed and tracking content strings in site identity popup -->
 <!ENTITY learn_more "Lue lisää">
 <!ENTITY enable_protection "Ota suojaus käyttöön">
 <!ENTITY disable_protection "Poista suojaus käytöstä">
@@ -494,8 +516,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY webapp_generic_name "Sovellus">
 
 <!ENTITY searchable_description "Kirjanmerkit ja sivuhistoria">
-
-<!ENTITY devtools_remote_debugging_forward "Don\'t forget to set up port forwarding!">
 
  <!-- Updater notifications -->
 <!ENTITY updater_start_title2 "&brandShortName;in päivitys saatavilla">
@@ -548,3 +568,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      "Last synced" is one of the user's other Sync clients, typically Firefox on
      their desktop or laptop.-->
 <!ENTITY remote_tabs_last_synced "Viimeksi synkronoitu: &formatS;">
+
+<!-- Find-In-Page strings -->
+<!-- LOCALIZATION NOTE (find_matchcase): This is meant to appear as an icon that changes color
+     if match-case is activated. i.e. No more than two letters, one uppercase, one lowercase. -->
+<!ENTITY find_matchcase "Aa">
