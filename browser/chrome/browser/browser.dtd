@@ -95,6 +95,8 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY pageInfoCmd.label "Informações da página">
 <!ENTITY pageInfoCmd.accesskey "p">
 <!ENTITY pageInfoCmd.commandkey "i">
+<!ENTITY mirrorTabCmd.label "Separador espelho">
+<!ENTITY mirrorTabCmd.accesskey "h">
 <!-- LOCALIZATION NOTE (enterFullScreenCmd.label, exitFullScreenCmd.label):
 These should match what Safari and other Apple applications use on OS X Lion. -->
 <!ENTITY enterFullScreenCmd.label "Ativar ecrã completo">
@@ -414,6 +416,13 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY searchFocus.commandkey 	"k">
 <!ENTITY searchFocus.commandkey2 	"e">
 <!ENTITY searchFocusUnix.commandkey "j">
+
+<!-- LOCALIZATION NOTE (searchFor.label, searchWith.label):
+     These two strings are used to build the header above the list of one-click
+     search providers:  "Search for <used typed keywords> with:" -->
+<!ENTITY searchFor.label              "Pesquisar por ">
+<!ENTITY searchWith.label             " com:">
+<!ENTITY changeSearchSettings.button  "Alterar definições de pesquisa">
 
 <!ENTITY tabView.commandkey 		"e">
 
