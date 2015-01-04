@@ -1,21 +1,28 @@
-<!ENTITY emailSectionHdr.label "Poso ya E">
-<!ENTITY readMsgsLink.label "Melaetsa e e buisitsweng">
-<!ENTITY composeMsgLink.label "Kwala molaetsa o montšhwa">
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY newsSectionHdr.label "Ditlhopha tsa dikgang">
-<!ENTITY subscribeNewsLink.label "Tsamaisa ikwadiso ya ditlhopha tsa dikgang">
+<!ENTITY emailSectionHdr.label        "Poso ya E">
+<!ENTITY readMsgsLink.label           "Melaetsa e e buisitsweng">
+<!ENTITY composeMsgLink.label         "Kwala molaetsa o montšhwa">
 
-<!ENTITY accountsSectionHdr.label "Accounts">
-<!ENTITY subscribeImapFolders.label "Manage folder subscriptions">
-<!ENTITY settingsLink.label "Leba boalo jwa akhaonto eno">
-<!ENTITY newAcctLink.label "Tlhama akhaonto e ntšhwa">
+<!ENTITY newsSectionHdr.label         "Ditlhopha tsa dikgang">
+<!ENTITY subscribeNewsLink.label      "Tsamaisa ikwadiso ya ditlhopha tsa dikgang">
 
-<!ENTITY advFeaturesSectionHdr.label "Diponagalo tse di Tsweletseng">
-<!ENTITY searchMsgsLink.label "Phuruphutsa melaetsa">
-<!ENTITY filtersLink.label "Tsamaisa ditlhotlhi tsa melaetsa">
-<!ENTITY junkSettings.label "Boalo jwa poso ya matlakala">
-<!ENTITY offlineLink.label "Boalo jwa kgago ya nakwana">
+<!ENTITY feedsSectionHdr.label        "Feeds">
+<!ENTITY subscribeFeeds.label         "Manage subscriptions">
 
+<!ENTITY chat.label                   "Chat">
+<!ENTITY movemail.label               "Movemail">
 
-<!ENTITY rssSectionHdr.label "Dikgang tsa RSS &amp; Blogs">
-<!ENTITY subscibeRSS.label "Tsamaisa ikwadiso">
+<!ENTITY accountsSectionHdr.label     "Diakhaonto&quot;&quot;Tsamaisa ikwadiso ya ditsholadifaele">
+<!ENTITY subscribeImapFolders.label   "Manage folder subscriptions">
+<!ENTITY settingsLink.label           "Leba boalo jwa akhaonto eno">
+<!ENTITY newAcctLink.label            "Tlhama akhaonto e ntšhwa">
+<!ENTITY newAcct.label                "Create a new account:">
+
+<!ENTITY advFeaturesSectionHdr.label  "Diponagalo tse di Tsweletseng">
+<!ENTITY searchMsgsLink.label         "Phuruphutsa melaetsa">
+<!ENTITY filtersLink.label            "Tsamaisa ditlhotlhi tsa melaetsa">
+<!ENTITY junkSettings.label           "Boalo jwa poso ya matlakala">
+<!ENTITY offlineLink.label            "Boalo jwa kgago ya nakwana">

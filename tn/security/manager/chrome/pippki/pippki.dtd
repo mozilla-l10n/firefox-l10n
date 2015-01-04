@@ -80,11 +80,6 @@
 <!ENTITY createCertInfo.title "E dira Senotlolo sa Poraefete">
 <!ENTITY createCertInfo.msg1 "Go dira senotlolo go tsweletse pele… Seno se ka tsaya metsotso e se kae….">
 <!ENTITY createCertInfo.msg2 "Tsweetswee leta…">
-<!-- Form Signing confirmation prompt -->
-
-<!ENTITY formSigning.title "Kopo ya Tshaeno ya Mafoko">
-<!ENTITY formSigning.cert "Setifikeiti sa go Saena">
-<!ENTITY formSigning.confirmPassword "Go tlhomamisa gore o dumela go saena molaetsa ono wa mafoko ka go dirisa setifikeiti sa gago se se tlhophilweng, tsweetswee tlhomamisa ka go tsenya khunololamoraba e kgolo:">
 <!-- Strings for protectedAuth dialog -->
 
 

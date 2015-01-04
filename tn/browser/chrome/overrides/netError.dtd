@@ -63,3 +63,17 @@ button is included here (instead of netError.xhtml) because it exposes
 functionality specific to firefox. -->
 
 
+
+
+
+
+
+
+
+
+
+<!-- LOCALIZATION NOTE (oldSecurityProtocol.longDesc) - Do not translate the
+     <span id='hostname'></span>. -->
+<!-- LOCALIZATION NOTE (oldSecurityProtocol.advancedInfo) - Do not translate
+     the <span id='errorcode'></span>. -->
+

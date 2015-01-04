@@ -1,11 +1,12 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY virtualFolderProperties.title "Setsholadifaele se Sentšhwa se se Bolokilweng sa go Phuruphutsa">
-<!ENTITY name.label "Leina:">
-<!ENTITY name.accesskey "l">
-<!ENTITY description.label "Tlhama jaaka setsholadifaelepotlana sa:">
-<!ENTITY description.accesskey "T">
-<!ENTITY searchCriteriaText.label "Fetola dielot sa go fenena tse di diriseditsweng go fenena gono go go bolokilweng:">
-<!ENTITY searchCriteriaButton.label "Dielo tsa go Phuruphutsa...">
-<!ENTITY searchCriteriaButton.accesskey "D">
+<!ENTITY name.label                 "Leina:">
+<!ENTITY name.accesskey             "L">
+<!ENTITY description.label          "Tlhama jaaka setsholadifaelepotlana sa:">
+<!ENTITY description.accesskey      "T">
 
 <!ENTITY searchTermCaption.label "Rulaganyetsa ruri dielo tsa go phuruphutsa tse di boloketsweng setsholadifaele seno sa go phuruphutsa: ">
 
@@ -15,3 +16,7 @@
 
 <!ENTITY searchOnline.label "Phuruphutsa Mo Kgolaganong ya Khomphiutara (Naya dipholo tse di mo dinakong tsa IMAP le ditsholadifaele tsa Dikgang fela e oketsa nako ya go bula setsholadifaele)">
 <!ENTITY searchOnline.accesskey "K">
+<!ENTITY newFolderButton.label       "Create">
+<!ENTITY newFolderButton.accesskey   "r">
+<!ENTITY editFolderButton.label      "Update">
+<!ENTITY editFolderButton.accesskey  "U">

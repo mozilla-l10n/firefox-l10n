@@ -2,25 +2,16 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY privatebrowsingpage.title                 "Patlo e poraefete  ">
-<!ENTITY privatebrowsingpage.title.normal          "A o tla batla go simolola go dira patlo e poraefete?">
+<!ENTITY aboutPrivateBrowsing.title            "O batla mo go sephiri">
 
-<!ENTITY privatebrowsingpage.perwindow.issueDesc        "&brandShortName; ga e na go gakologelwa tsotlhe tse di fetileng mo fensetereng.">
-<!ENTITY privatebrowsingpage.perwindow.issueDesc.normal "Ga o mo fensetereng ya poraefete ya ga jaana.">
 
-<!ENTITY privatebrowsingpage.perwindow.description     "Mo go tsa Fensetere ya Patlo ya Poraefete , &brandShortName; ga e na go baa tse di fetileng tsa dibatli dingwe le dingwe, patlo ya tse di fetileng, kopololo ya tse di fetileng, foromo ya webo ya tsedi fetileng, khukhi, kgotsa difaele tsa Inthanete tsa nakwana. Mme, difaele tse o di kopololang le matshwaotsebe a o a dirang a tla bolokiwa.">
+<!ENTITY aboutPrivateBrowsing.subtitle         "&brandShortName; ga e na go gakologelwa tsotlhe tse di fetileng mo fensetereng.">
+
+
+<!ENTITY aboutPrivateBrowsing.description      "Se se akaretsa patlo ya tse di fitileng, pheneno ya tse di fitileng, kopololo ya tse di fitileng foromo ya webo ya tse di fitileng, khukhi le difale tsa nakwana tsa inthanete. Le fa go ntse jalo, difaele tse o dikopololang le matshwaotsebe a o a dirang a tla beiwa.">
+
+
+
 
 <!ENTITY privatebrowsingpage.openPrivateWindow.label "Bula Fensetere ya Poraefete">
 <!ENTITY privatebrowsingpage.openPrivateWindow.accesskey "F">
-<!-- LOCALIZATION NOTE (privatebrowsingpage.howToStart4): please leave &newPrivateWindow.label; intact in the translation -->
-
-<!ENTITY privatebrowsingpage.howToStart4               "Go simolola go batla mo go poraefete, o ka tlhopha gape &newPrivateWindo.label; go tsweng mo menu.">
-<!ENTITY privatebrowsingpage.howToStop3                "Go emisa go batla mo go Poraefete, o ka tswala fensetere e.">
-
-<!ENTITY privatebrowsingpage.moreInfo                  "Fa Khomphiutha e se na rekota ya patlo ya tse di fetileng, motlamedi wa tirelo ya Inthanete kgotsa mohiri o ka latedisa ditsebe tse o di etelang.  ">
-<!ENTITY privatebrowsingpage.learnMore                 "Ithute mo go tseneletseng">
-<!-- TO BE REMOVED POST-AUSTRALIS --> 
-<!-- LOCALIZATION NOTE (privatebrowsingpage.howToStart3): please leave &basePBMenu.label; intact in the translation -->
-
-
-<!ENTITY privatebrowsingpage.howToStart3               "Go simolola go Batla mo go Poraefete, o ka tlhopha &basePBMenu.label; &gt; &newPrivateWindow.label;.">

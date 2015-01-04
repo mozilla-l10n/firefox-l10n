@@ -1,13 +1,17 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!-- extracted from am-advanced.xul -->
 <!-- LOCALIZATION NOTE (smtpServer.label): do not translate "SMTP" in below line -->
 
+
 <!ENTITY smtpServer.label "Boalo jwa Dikgatlhong tsa Boyo (SMTP)">
-<!-- LOCALIZATION NOTE (smtpDesc.label): do not translate "SMTP" in below line -->
+<!-- LOCALIZATION NOTE (smtpDescription.label): do not translate "SMTP" in below line -->
 
-<!ENTITY smtpDesc.label "Le fa gona o ka kgona go totobatsa dikgatlhong tsa boyo (SMTP) di feta bongwe, seno se atlenegisiwa fela mo badirising ba ba tsweletseng. Go tlhoma dikgatlhong tse dintsi tsa SMTP go ka baka diphoso fa go romelwa melaetsa.">
+<!ENTITY smtpDescription.label "When managing your identities you can use a server from this list by selecting it as the Outgoing Server (SMTP), or you can use the default server from this list by selecting &quot;Use Default Server&quot;.">
 
-<!ENTITY smtpListAdd.label "Tsenya...">
-<!ENTITY smtpListAdd.accesskey "s">
+<!ENTITY smtpListAdd.label  "Tsenya...">
+<!ENTITY smtpListAdd.accesskey  "s">
 <!ENTITY smtpListEdit.label "Tseleganya...">
 <!ENTITY smtpListEdit.accesskey "T">
 <!ENTITY smtpListDelete.label "Tlosa">
@@ -18,5 +22,6 @@
 <!ENTITY serverDescription.label "Tlhaloso: ">
 <!ENTITY serverName.label "Leina la Dikgatlhong: ">
 <!ENTITY serverPort.label "Setshwaraganyi: ">
-<!ENTITY userName.label "Leina la Modirisi: ">
-<!ENTITY useSecureConnection.label "Kgolagano e e Babalesegileng: ">
+<!ENTITY userName.label   "Leina la Modirisi: ">
+<!ENTITY connectionSecurity.label "Connection Security: ">
+<!ENTITY authMethod.label   "Authentication method: ">

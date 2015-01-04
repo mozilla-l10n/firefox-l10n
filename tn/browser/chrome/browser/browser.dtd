@@ -138,17 +138,20 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY editThisBookmarkCmd.label "Tseleganya letshwaotsebe le">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
 <!ENTITY markPageCmd.commandkey "l">
+<!-- LOCALIZATION NOTE (findShareServices.label):
+  -  Use the unicode ellipsis char, \u2026,
+  -  or use "..." if \u2026 doesn't suit traditions in your locale. -->
 <!ENTITY sharePageCmd.label "Abelana Tsebe e  ">
 <!ENTITY sharePageCmd.commandkey "S">
 <!ENTITY sharePageCmd.accesskey "s">
-<!ENTITY shareLinkCmd.label "Abelana Kgokagano e">
-<!ENTITY shareLinkCmd.accesskey "s">
-<!ENTITY shareImageCmd.label "Abelana Setshwantsho se">
-<!ENTITY shareImageCmd.accesskey "s">
-<!ENTITY shareSelectCmd.label "Abelana Tlhopho">
-<!ENTITY shareSelectCmd.accesskey "S">
-<!ENTITY shareVideoCmd.label "Abelana Bidio e">
-<!ENTITY shareVideoCmd.accesskey "s">
+<!-- LOCALIZATION NOTE (shareLink.accesskey): must be different than the following share access keys -->
+
+
+
+
+
+
+
 <!ENTITY feedsMenu.label "Ikwadise">
 <!ENTITY subscribeToPageMenupopup.label "Ikwadise mo Tsebeng e">
 
@@ -210,6 +213,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY addons.accesskey             "D">
 <!ENTITY addons.commandkey            "A">
 
+
+
 <!ENTITY webDeveloperMenu.label       "Mmopi wa Webo">
 <!ENTITY webDeveloperMenu.accesskey   "M">
 
@@ -233,7 +238,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY responsiveDesignTool.label   "Tsibogo ya Tebego ya thadiso">
 <!ENTITY responsiveDesignTool.accesskey "T">
-<!ENTITY responsiveDesignTool.commandkey "M">
+
 
 <!ENTITY eyedropper.label   "Setsholetsammala">
 <!ENTITY eyedropper.accesskey "S">
@@ -257,6 +262,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY browserToolboxMenu.label     "Bokoso ya Didirisiwa ya Sebatli">
 <!ENTITY browserToolboxMenu.accesskey "e">
+<!-- LOCALIZATION NOTE (browserContentToolboxMenu.label): This is the label for the
+  -  application menu item that opens the browser content toolbox UI in the Tools menu.
+  -  This toolbox allows to debug the chrome of the content process in multiprocess builds.  -->
 
 <!ENTITY devToolbarCloseButton.tooltiptext "Tswala Bara ya didiriswa ya Mmopi">
 <!ENTITY devToolbarMenu.label              "Bara ya Didirisiwa ya Mmopi">
@@ -265,6 +273,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY devAppMgrMenu.accesskey           "M">
 
 
+
+<!ENTITY webide.keytext                    "F8">
 <!ENTITY devToolbar.keycode                "VK_F2">
 <!ENTITY devToolbar.keytext                "F2">
 <!ENTITY devToolboxMenuItem.label          "Thefosano ya Didirisiwa">
@@ -397,6 +407,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY searchFocus.commandkey       "k">
 <!ENTITY searchFocus.commandkey2      "e">
 <!ENTITY searchFocusUnix.commandkey   "j">
+<!-- LOCALIZATION NOTE (searchFor.label, searchWith.label):
+     These two strings are used to build the header above the list of one-click
+     search providers:  "Search for <used typed keywords> with:" -->
+
+
 
 <!ENTITY tabView.commandkey           "e">
 
@@ -472,6 +487,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY emailImageCmd.accesskey      "n">
 <!ENTITY emailVideoCmd.label          "Imeile Bidio...">
 <!ENTITY emailVideoCmd.accesskey      "e">
+
+
 <!ENTITY emailAudioCmd.label          "Imeile Modumo...">
 <!ENTITY emailAudioCmd.accesskey      "e">
 <!ENTITY playPluginCmd.label          "Dirisa seoketswa se">
@@ -688,6 +705,9 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 
 
+
+
+
 <!ENTITY customizeMode.tabTitle "tshwanedisa &brandShortName;">
 <!ENTITY customizeMode.menuAndToolbars.header2 "Tlaleletso Didiriswa le Dikokoanyo tsa dirweboleta">
 <!ENTITY customizeMode.menuAndToolbars.empty "O batla didirisiwa tse dintsi?">
@@ -695,6 +715,14 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY customizeMode.restoreDefaults "Busetsa Thulaganyetsoruri">
 <!ENTITY customizeMode.toolbars "Supa/ Fitlha Bara ya didiriswa">
 <!ENTITY customizeMode.titlebar "Bara ya Setlhogo">
+
+
+
+<!ENTITY customizeMode.lwthemes.menuManage "Laola">
+
+<!ENTITY customizeMode.lwthemes.menuGetMore "Bona Mamorago a Mangwe">
+
+
 
 <!ENTITY social.chatBar.commandkey "c">
 <!ENTITY social.chatBar.label "Itebaganyo le puisano">
@@ -707,17 +735,28 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY getUserMedia.selectCamera.label "Se tsaya Ditshwantsho se se ka abelanwang:">
 <!ENTITY getUserMedia.selectCamera.accesskey "S">
-
-
 <!ENTITY getUserMedia.selectMicrophone.label "Segoagoe se se ka abelanwang:">
 <!ENTITY getUserMedia.selectMicrophone.accesskey "S">
 
-
-<!ENTITY webrtcIndicatorButton.label "Se tsaya Ditshwantsho / Tetlelesego ya Segoagoe">
-<!ENTITY webrtcIndicatorButton.tooltip "Bontsha disaete tse o abelanang se tsaya Ditshwantsho kgotsa Segoagoe le">
+<!-- Bad Content Blocker Doorhanger Notification -->
 
 
-<!ENTITY mixedContentBlocked.moreinfo "Bontsi jwa diwebosaete di santse di bereka sentle le fa diteng di kganetswe.">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 <!ENTITY pointerLock.notification.message "Tobetsa ESC ka nako ngwe le ngwe go e supa gape.">
 
@@ -746,4 +785,23 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY appMenuSidebars.label         "Dibarathoko">
 
 <!ENTITY switchToMetroCmd2.label       "Simolodisa mo &brandShortName; kamo ya Windows 8">
+<!-- LOCALIZATION NOTE: (panicButton.view.mainTimeframeDesc, panicButton.view.5min, panicButton.view.2hr, panicButton.view.day):
+     The .mainTimeframeDesc string combined with any of the 3 others is meant to form a complete sentence, e.g. "Forget the last: Five minutes".
+     Please ensure that this remains the case in the translation. -->
+
+
+
+<!-- LOCALIZATION NOTE: (panicButton.view.mainLabel, panicButton.view.deleteCookies, panicButton.view.deleteHistory, panicButton.view.deleteTabsAndWindows, panicButton.view.openNewWindow):
+     The .mainActionDesc string combined with any of the 4 others is meant to form a complete sentence, e.g. "Proceeding will: Delete Recent Cookies".
+     Note also that the deleteCookies, deleteHistory and deleteTabsAndWindows strings include <html:strong> tags for emphasis on the words "Cookies", "History", "Tabs" and "Windows".
+     The translation should do the same. -->
+
+
+
+
+
+
+
+
+
 

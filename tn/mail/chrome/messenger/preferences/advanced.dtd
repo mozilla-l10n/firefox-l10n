@@ -1,77 +1,120 @@
-<!ENTITY itemGeneral.label "Ka kakaretso">
-<!ENTITY itemUpdate.label "Ntšhwafatsa">
-<!ENTITY itemOffline.label "Sebaka sa Disiki &amp; Mo kgaogong ya nakwana">
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY itemGeneral.label       "Ka kakaretso">
+<!ENTITY itemDisplay.label       "Reading &amp; Display">
+<!ENTITY itemUpdate.label        "Ntšhwafatsa">
+<!ENTITY itemNetworking.label    "Network &amp; Disk Space">
+<!ENTITY itemCertificates.label  "Certificates">
 <!-- General Settings -->
 
 
-<!ENTITY showCondensedAddresses.label "Bontsha fela leina la pontsho la batho ba ba mo bukeng ya me ya diaterese">
-<!ENTITY showCondensedAddresses.accesskey "t">
-<!-- LOCALIZATION NOTE (markAsRead.label): This will concatenate with
-     "xxx seconds before marking a message as read", using a number and
-     (markAsReadEnd.label). -->
+<!ENTITY submitTelemetry.label         "Submit Performance Data">
+<!ENTITY submitTelemetry.accesskey     "P">
+<!ENTITY telemetryInfoLink.label       "More information about Telemetry">
+<!ENTITY enableGlodaSearch.label       "Enable Global Search and Indexer">
+<!ENTITY enableGlodaSearch.accesskey   "E">
 
-<!ENTITY markAsRead.label "Leta">
-<!ENTITY markAsRead.accesskey "L">
-<!ENTITY markAsReadEnd.label "metsotswana pele ga go tshwaya molaetsa jaaka o o buisitsweng">
-<!ENTITY markAsReadEnd.accesskey "n">
-<!ENTITY showFolderColumns.label "Bontsha dikholomo tse di atolositsweng mo seokomedising sa setsholadifaele">
-<!ENTITY showFolderColumns.accesskey "s">
-<!ENTITY rememberLastMsg.label "Gakologelwa molaetsa o o tlhophilweng la bofelo">
-<!ENTITY rememberLastMsg.accesskey "l">
-<!ENTITY reuseExp.label "Bula melaetsa e mentšhwa mo:">
-<!ENTITY reuseExpRadio0.label "Fensetere ya molaetsa o montšhwa">
-<!ENTITY reuseExpRadio0.accesskey "e">
-<!ENTITY reuseExpRadio1.label "Fensetere ya molaetsa o o ntseng o le gona">
-<!ENTITY reuseExpRadio1.accesskey "t">
-<!ENTITY connectionTimeout.label "Kgolagano e feletswe ke nako: ">
-<!ENTITY connectionTimeout.accesskey "K">
-<!ENTITY connectionSeconds.label "metsotswana">
-<!ENTITY configEditDesc.label "Thulaganyetso ruri e e Tsweletseng">
-<!ENTITY configEdit.label "Motseleganyi wa Thulaganyetso ruri...">
-<!ENTITY configEdit.accesskey "o">
+<!ENTITY scrolling.label               "Scrolling">
+<!ENTITY useAutoScroll.label           "Use autoscrolling">
+<!ENTITY useAutoScroll.accesskey       "U">
+<!ENTITY useSmoothScrolling.label      "Use smooth scrolling">
+<!ENTITY useSmoothScrolling.accesskey  "m">
+
+<!ENTITY systemIntegration.label       "System Integration">
+<!ENTITY alwaysCheckDefault.label      "Always check to see if &brandShortName; is the default mail client on startup">
+<!ENTITY alwaysCheckDefault.accesskey  "A">
+<!ENTITY searchIntegration.label       "Allow &searchIntegration.engineName; to search messages">
+<!ENTITY searchIntegration.accesskey   "S">
+<!ENTITY checkDefaultsNow.label        "Check Now…">
+<!ENTITY checkDefaultsNow.accesskey    "N">
+<!ENTITY configEditDesc.label          "Thulaganyetso ruri e e Tsweletseng">
+<!ENTITY configEdit.label              "Motseleganyi wa Thulaganyetso ruri...">
+<!ENTITY configEdit.accesskey          "o">
+<!ENTITY returnReceiptsInfo.label      "Determine how &brandShortName; handles return receipts">
+<!ENTITY showReturnReceipts.label      "Return Receipts…">
+<!ENTITY showReturnReceipts.accesskey  "R">
+<!-- Display and Reading Settings -->
+
+<!ENTITY reading.caption               "Reading">
+<!ENTITY display.caption               "Display">
+<!ENTITY showCondensedAddresses.label  "Bontsha fela leina la pontsho la batho ba ba mo bukeng ya me ya diaterese">
+<!ENTITY showCondensedAddresses.accesskey "t">
+
+<!ENTITY autoMarkAsRead.label          "Automatically mark messages as read">
+<!ENTITY autoMarkAsRead.accesskey      "A">
+<!ENTITY markAsReadNoDelay.label       "Immediately on display">
+<!ENTITY markAsReadNoDelay.accesskey   "o">
+<!-- LOCALIZATION NOTE (markAsReadDelay.label): This will concatenate to
+     "After displaying for [___] seconds",
+     using (markAsReadDelay.label) and a number (secondsLabel.label). -->
+<!ENTITY markAsReadDelay.label         "After displaying for">
+<!ENTITY markAsReadDelay.accesskey     "d">
+<!ENTITY secondsLabel.label            "seconds">
+<!ENTITY openMsgIn.label               "Open messages in:">
+<!ENTITY openMsgInNewTab.label         "A new tab">
+<!ENTITY openMsgInNewTab.accesskey     "t">
+<!ENTITY reuseExpRadio0.label          "Fensetere ya molaetsa o montšhwa">
+<!ENTITY reuseExpRadio0.accesskey      "e">
+<!ENTITY reuseExpRadio1.label          "Fensetere ya molaetsa o o ntseng o le gona">
+<!ENTITY reuseExpRadio1.accesskey      "t">
+<!ENTITY closeMsgOnMoveOrDelete.label  "Close message window/tab on move or delete">
+<!ENTITY closeMsgOnMoveOrDelete.accesskey "C">
 <!-- Update -->
 
-<!ENTITY autoCheck.label "Automatically check for updates to:">
-<!ENTITY enableAppUpdate.label "&brandShortName;">
-<!ENTITY enableAppUpdate.accesskey "h">
-<!ENTITY enableAddonsUpdate.label "Installed Add-ons">
-<!ENTITY enableAddonsUpdate.accesskey "t">
-<!ENTITY checkNow.label "Tlhola Jaanong...">
-<!ENTITY whenUpdatesFound.label "When updates to &brandShortName; are found,">
-<!ENTITY modeAskMe.label "Ask me what I want to do">
-<!ENTITY modeAskMe.accesskey "k">
-<!ENTITY modeAutomatic.label "Automatically download and install the update">
-<!ENTITY modeAutomatic.accesskey "m">
-<!ENTITY modeAutoAddonWarn.label "Warn me if this will disable any of my add-ons">
-<!ENTITY modeAutoAddonWarn.accesskey "W">
-<!ENTITY showUpdates.label "Bontsha Hisetori ya Ntšhwafatso">
-<!ENTITY showUpdates.accesskey "H">
-<!-- Offline and Disk Space -->
+<!ENTITY updateApp.label                 "&brandShortName; updates:">
+<!ENTITY updateAuto.label                "Automatically install updates (recommended: improved security)">
+<!ENTITY updateAuto.accesskey            "A">
+<!ENTITY updateCheck.label               "Check for updates, but let me choose whether to install them">
+<!ENTITY updateCheck.accesskey           "C">
+<!ENTITY updateManual.label              "Never check for updates (not recommended: security risk)">
+<!ENTITY updateManual.accesskey          "N">
+<!ENTITY updateAutoAddonWarn.label       "Warn me if this will disable any of my add-ons">
+<!ENTITY updateAutoAddonWarn.accesskey   "W">
+<!ENTITY updateHistory.label             "Show Update History">
+<!ENTITY updateHistory.accesskey         "p">
 
-<!ENTITY offline.label "Mo kgaogong ya nakwana">
-<!ENTITY textStartUp "Fa o simolola:">
-<!ENTITY radioRememberPrevState "Gakologelwa seemo se se fetileng sa mo kgolaganong ya Inthanete">
-<!ENTITY radioRememberPrevState.accesskey "R">
-<!ENTITY radioAskMe "Mpotse ka seemo sa kgolagano ya Inthanete kwa tshimologong">
-<!ENTITY radioAskMe.accesskey "u">
-<!ENTITY radioAlwaysOnline "Ka gale simolola mo kgolaganong">
-<!ENTITY radioAlwaysOnline.accesskey "l">
+<!ENTITY useService.label                "Use a background service to install updates">
+<!ENTITY useService.accesskey            "b">
+<!-- Networking and Disk Space -->
 
-<!ENTITY textGoingOnline "Romela melaetsa e e sa romelwang fa o tsena mo kgolaganong?">
-<!ENTITY radioAutoSend "Ee">
-<!ENTITY radioAutoSend.accesskey "E">
-<!ENTITY radioNotSend "Nnyaa">
-<!ENTITY radioNotSend.accesskey "N">
-<!ENTITY radioAskUnsent "Mpotse">
-<!ENTITY radioAskUnsent.accesskey "p">
-<!ENTITY textGoingOffline "Kopolola melaetsa ya mo kgaogong ya nakwana fa o tswa mo kgolaganong ya inthanete?">
-<!ENTITY radioAutoDownload "Ee">
-<!ENTITY radioAutoDownload.accesskey "e">
-<!ENTITY radioNotDownload "Nnyaa">
-<!ENTITY radioNotDownload.accesskey "a">
-<!ENTITY radioAskDownload "Mpotse">
-<!ENTITY radioAskDownload.accesskey "o">
-<!ENTITY Diskspace "Sebaka sa Disiki">
-<!ENTITY offlineCompact.label "Kitlanya ditsholadifaele fa e le gore di tla boloka go feta">
-<!ENTITY offlineCompact.accesskey "l">
-<!ENTITY kb.label "KB">
+<!ENTITY showSettings.label            "Settings…">
+<!ENTITY showSettings.accesskey        "S">
+<!ENTITY proxiesConfigure.label        "Configure how &brandShortName; connects to the Internet">
+<!ENTITY connectionsInfo.caption       "Connection">
+<!ENTITY offlineInfo.caption           "Offline">
+<!ENTITY offlineInfo.label             "Configure offline settings">
+<!ENTITY showOffline.label             "Offline…">
+<!ENTITY showOffline.accesskey         "O">
+
+<!ENTITY Diskspace                       "Sebaka sa Disiki">
+<!ENTITY offlineCompactFolders.label     "Compact all folders when it will save over">
+<!ENTITY offlineCompactFolders.accesskey "a">
+<!ENTITY offlineCompactFoldersMB.label   "MB in total">
+<!-- LOCALIZATION NOTE:
+  The entities useCacheBefore.label and useCacheAfter.label appear on a single
+  line in preferences as follows:
+
+  &useCacheBefore.label  [ textbox for cache size in MB ]   &useCacheAfter.label;
+-->
+
+<!ENTITY useCacheBefore.label            "Use up to">
+<!ENTITY useCacheBefore.accesskey        "U">
+<!ENTITY useCacheAfter.label             "MB of space for the cache">
+<!ENTITY clearCacheNow.label             "Clear Now">
+<!ENTITY clearCacheNow.accesskey         "C">
+<!-- Certificates -->
+
+<!ENTITY certSelection.description       "When a server requests my personal certificate:">
+<!ENTITY certs.auto                      "Select one automatically">
+<!ENTITY certs.auto.accesskey            "S">
+<!ENTITY certs.ask                       "Ask me every time">
+<!ENTITY certs.ask.accesskey             "A">
+<!ENTITY enableOCSP.label                "Query OCSP responder servers to confirm the current validity of certificates">
+<!ENTITY enableOCSP.accesskey            "Q">
+
+<!ENTITY viewCertificates.label         "View Certificates">
+<!ENTITY viewCertificates.accesskey     "C">
+<!ENTITY viewSecurityDevices.label      "Security Devices">
+<!ENTITY viewSecurityDevices.accesskey  "D">

@@ -1,19 +1,43 @@
-<!ENTITY messengerWindow.title "Poso &amp; Ditlhopha tsa dikgang">
-<!ENTITY titledefault.label "&brandFullName;">
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY titledefault.label    "&brandFullName;">
 <!ENTITY titleSeparator.label " - ">
 <!-- File Menu -->
 
 <!ENTITY newFolderCmd.label "Setsholadifaele...">
 <!ENTITY newFolderCmd.accesskey "S">
+<!ENTITY closeTabCmd2.label "Close Tab">
+<!ENTITY closeTabCmd2.accesskey "C">
+<!ENTITY closeOtherTabsCmd2.label "Close Other Tabs">
+<!ENTITY closeOtherTabsCmd2.accesskey "o">
+<!ENTITY recentlyClosedTabsCmd.label "Recently Closed Tabs">
+<!ENTITY recentlyClosedTabsCmd.accesskey "R">
+
+<!ENTITY undoCloseTabCmd.commandkey "T">
+<!-- LOCALIZATION NOTE (moveToNewWindow.label):
+     Menu option to cause the current tab to be migrated to a new Thunderbird
+     window.
+     -->
+<!ENTITY moveToNewWindow.label "Move to New Window">
+<!ENTITY moveToNewWindow.accesskey "W">
 <!ENTITY newVirtualFolderCmd.label "Bolokile Phuruphutsa...">
 <!ENTITY newVirtualFolderCmd.accesskey "B">
-<!ENTITY newAccountCmd.label "Akhaonte...">
-<!ENTITY newAccountCmd.accesskey "A">
-<!ENTITY openMessageMenu.label "Bula">
+<!ENTITY newOtherAccountsCmd.label "Other Accounts…">
+<!ENTITY newOtherAccountsCmd.accesskey "O">
+<!ENTITY newCreateEmailAccountCmd.label "Get a New Mail Account…">
+<!ENTITY newCreateEmailAccountCmd.accesskey "G">
+<!ENTITY newExistingEmailAccountCmd.label "Existing Mail Account…">
+<!ENTITY newExistingEmailAccountCmd.accesskey "E">
+<!ENTITY newIMAccountCmd.label "Chat Account…">
+<!ENTITY newIMAccountCmd.accesskey "C">
+<!ENTITY newFeedAccountCmd.label "Feed Account…">
+<!ENTITY newFeedAccountCmd.accesskey "d">
+<!ENTITY newIMContactCmd.label "Chat Contact…">
+<!ENTITY newIMContactCmd.accesskey "h">
 <!ENTITY openMessageFileCmd.label "Bula Molaetsa o o Bolokilweng...">
 <!ENTITY openMessageFileCmd.accesskey "B">
-<!ENTITY openAttachmentCmd.label "Dimametlelelo">
-<!ENTITY openAttachmentCmd.accesskey "D">
 <!ENTITY saveAsMenu.label "Boloka Jaaka">
 <!ENTITY saveAsMenu.accesskey "B">
 <!ENTITY saveAsFileCmd.label "Faele">
@@ -21,34 +45,44 @@
 <!ENTITY saveAsFileCmd.key "s">
 <!ENTITY saveAsTemplateCmd.label "Foromo">
 <!ENTITY saveAsTemplateCmd.accesskey "F">
-<!ENTITY getNewMsgCmd.label "Bona Melaetsa e Mentšhwa">
-<!ENTITY getNewMsgCmd.accesskey "B">
-<!ENTITY getNewMsgCmd.key "t">
 <!ENTITY getNewMsgForCmd.label "Bona Melaetsa e Mentšhwa ya">
 <!ENTITY getNewMsgForCmd.accesskey "n">
-<!ENTITY getAllNewMsgCmd.label "Bona Melaetsa Yotlhe e Mentšhwa">
-<!ENTITY getAllNewMsgCmd.key "t">
+<!ENTITY getAllNewMsgCmdPopupMenu.label "All Accounts">
+<!ENTITY getAllNewMsgCmdPopupMenu.accesskey "A">
+<!ENTITY getNewMsgCurrentAccountCmdPopupMenu.label "Current Account">
+<!ENTITY getNewMsgCurrentAccountCmdPopupMenu.accesskey "C">
 <!ENTITY getNextNMsgCmd.label "Bona Melaetsa ya Dikgang e e Latelang e le 500">
 <!ENTITY getNextNMsgCmd.accesskey "n">
 <!ENTITY sendUnsentCmd.label "Romela Melaetsa e e sa Romelwang">
 <!ENTITY sendUnsentCmd.accesskey "e">
 <!ENTITY subscribeCmd.label "Kwadisa...">
 <!ENTITY subscribeCmd.accesskey "a">
+<!ENTITY deleteFolder.label "Delete Folder">
+<!ENTITY deleteFolder.accesskey "e">
 <!ENTITY renameFolder.label "Taya Setsholadifafele Leina sešwa...">
 <!ENTITY renameFolder.accesskey "T">
 <!ENTITY renameFolder.key "VK_F2">
 <!ENTITY compactFolders.label "Ditsholadifaele tse di Kitlantsweng">
-<!ENTITY compactFolder.accesskey "F">
+<!ENTITY compactFolders.accesskey    "F">
 <!ENTITY emptyTrashCmd.label "Tlhotlhora Seolelamatlakala">
-<!ENTITY emptyTrashCmd.accesskey "a">
-<!ENTITY importCmd.label "Tlisateng...">
-<!ENTITY importCmd.accesskey "T">
+<!ENTITY emptyTrashCmd.accesskey    "a">
+<!ENTITY offlineMenu.label "Offline">
+<!ENTITY offlineMenu.accesskey "l">
+<!ENTITY offlineGoOfflineCmd.label "Work Offline">
+<!ENTITY offlineGoOfflineCmd.accesskey "w">
+<!ENTITY synchronizeOfflineCmd.label "Download/Sync Now…">
+<!ENTITY synchronizeOfflineCmd.accesskey "S">
+<!ENTITY settingsOfflineCmd2.label "Offline Settings">
+<!ENTITY settingsOfflineCmd2.accesskey "e">
+<!ENTITY downloadSelectedCmd.label "Get Selected Messages">
+<!ENTITY downloadSelectedCmd.accesskey "l">
+<!ENTITY downloadStarredCmd.label "Get Starred Messages">
+<!ENTITY downloadStarredCmd.accesskey "a">
 <!ENTITY printCmd.label "Gatisa...">
 <!ENTITY printCmd.accesskey "G">
 <!ENTITY printCmd.key "p">
 <!ENTITY printPreviewCmd.label "Tebopele ya Kgatiso">
 <!ENTITY printPreviewCmd.accesskey "t">
-<!ENTITY printPreviewCmd.key "v">
 <!ENTITY printSetupCmd.label "Boalo jwa Tsebe...">
 <!ENTITY printSetupCmd.accesskey "b">
 <!-- Edit Menu -->
@@ -57,14 +91,10 @@
 <!ENTITY deleteMsgCmd.accesskey "P">
 <!ENTITY undeleteMsgCmd.label "Molaetsa o o sa Phimolwang">
 <!ENTITY undeleteMsgCmd.accesskey "l">
-<!ENTITY cancelNewsMsgCmd.label "Khansela Molaetsa">
-<!ENTITY cancelNewsMsgCmd.accesskey "M">
 <!ENTITY deleteMsgsCmd.label "Phimola Melaetsa e e Tlhophilweng">
 <!ENTITY deleteMsgsCmd.accesskey "P">
 <!ENTITY undeleteMsgsCmd.label "Phimolola Melaetsa e e Tlhophilweng">
-<!ENTITY undeleteMsgsCmd.accesskey "p">
-<!ENTITY cancelNewsMsgsCmd.label "Khansela Melaetsa e e Tlhophilweng">
-<!ENTITY cancelNewsMsgsCmd.accesskey "a">
+<!ENTITY undeleteMsgsCmd.accesskey "P">
 <!ENTITY deleteFolderCmd.label "Phimola Setsholadifaele">
 <!ENTITY deleteFolderCmd.accesskey "P">
 <!ENTITY unsubscribeNewsgroupCmd.label "Kwadisolola">
@@ -76,27 +106,30 @@
 <!ENTITY selectThreadCmd.label "Tlhale">
 <!ENTITY selectThreadCmd.accesskey "T">
 <!ENTITY selectThreadCmd.key "a">
+<!ENTITY selectFlaggedCmd.label "Starred Messages">
+<!ENTITY selectFlaggedCmd.accesskey "S">
 <!ENTITY menuFavoriteFolder.label "Favorite Folder">
-<!ENTITY menuFavoriteFolder.accesskey "a">
-<!ENTITY folderPropsCmd.label "Ditlhagotshedimosetso...">
-<!ENTITY folderPropsFolderCmd.label "Ditlhagotshedimosetso tsa Setsholadifaele...">
-<!ENTITY folderPropsNewsgroupCmd.label "Ditlhagotshedimosetso tsa Setlhopha sa dikgang...">
+<!ENTITY menuFavoriteFolder.accesskey "v">
+<!ENTITY folderPropsCmd2.label "Properties">
+<!ENTITY folderPropsFolderCmd2.label "Folder Properties">
+<!ENTITY folderPropsNewsgroupCmd2.label "Newsgroup Properties">
 <!ENTITY folderPropsCmd.accesskey "t">
-<!ENTITY accountManagerCmd.label "Boalo jwa Diakhaonte...">
-<!ENTITY accountManagerCmd.accesskey "o">
-<!ENTITY accountManagerCmdUnix.accesskey "A">
 <!ENTITY undoDeleteMsgCmd.label "Dirolola Phimola Molaetsa">
 <!ENTITY redoDeleteMsgCmd.label "Dira sešwa Phimola Molaetsa">
 <!ENTITY undoMoveMsgCmd.label "Dirolola Sutisa Molaetsa">
 <!ENTITY redoMoveMsgCmd.label "Dira sešwa Sutisa Molaetsa">
 <!ENTITY undoCopyMsgCmd.label "Dirolola Kopolola Molaetsa">
 <!ENTITY redoCopyMsgCmd.label "Dira sešwa Kopolola Molaetsa">
+<!ENTITY undoMarkAllCmd.label "Undo Mark All Read">
+<!ENTITY redoMarkAllCmd.label "Redo Mark All Read">
 <!ENTITY undoDefaultCmd.label "Dirolola">
 <!ENTITY undoDefaultCmd.accesskey "D">
 <!ENTITY redoDefaultCmd.label "Dira sešwa">
 <!ENTITY redoDefaultCmd.accesskey "D">
 <!-- View Menu -->
 
+<!ENTITY menubarCmd.label "Menu Bar">
+<!ENTITY menubarCmd.accesskey "M">
 <!ENTITY showMessengerToolbarCmd.label "Bara ya Didiriswa ya Poso">
 <!ENTITY showMessengerToolbarCmd.accesskey "o">
 <!ENTITY customizeToolbar.label "Isa ka magoro...">
@@ -110,27 +143,33 @@
 <!ENTITY messagePaneWide.accesskey "P">
 <!ENTITY messagePaneVertical.label "Tebo ya Tsepamo">
 <!ENTITY messagePaneVertical.accesskey "T">
-<!ENTITY threadPaneWide.label "Wide List View">
-<!ENTITY threadPaneWide.accesskey "i">
+<!ENTITY showFolderPaneCmd.label "Folder Pane">
+<!ENTITY showFolderPaneCmd.accesskey "F">
 <!ENTITY showMessageCmd.label "Seokomedisi sa Molaetsa">
 <!ENTITY showMessageCmd.accesskey "S">
 
 <!ENTITY folderView.label "Folders">
 <!ENTITY folderView.accesskey "F">
-<!ENTITY allFolders.label "Tsotlhe">
-<!ENTITY allFolders.accesskey "T">
-<!ENTITY unreadFolders.label "Sa buisiwang">
-<!ENTITY unreadFolders.accesskey "S">
+<!ENTITY unifiedFolders.label "Unified">
+<!ENTITY unifiedFolders.accesskey "n">
+<!ENTITY allFolders.label "All">
+<!ENTITY allFolders.accesskey "A">
+<!ENTITY unreadFolders.label "Unread">
+<!ENTITY unreadFolders.accesskey "U">
 <!ENTITY favoriteFolders.label "Favorite">
 <!ENTITY favoriteFolders.accesskey "F">
 <!ENTITY recentFolders.label "Recent">
 <!ENTITY recentFolders.accesskey "R">
+<!ENTITY compactVersion.label "Compact View">
+<!ENTITY compactVersion.accesskey "C">
 <!-- Sort Menu -->
 
 <!ENTITY sortMenu.label "Tlhomaganya ka">
 <!ENTITY sortMenu.accesskey "T">
 <!ENTITY sortByDateCmd.label "Letlha">
 <!ENTITY sortByDateCmd.accesskey "a">
+<!ENTITY sortByReceivedCmd.label "Received">
+<!ENTITY sortByReceivedCmd.accesskey "v">
 <!ENTITY sortByStarCmd.label "Star">
 <!ENTITY sortByStarCmd.accesskey "S">
 <!ENTITY sortByAttachmentsCmd.label "Dimametlelelo">
@@ -145,10 +184,10 @@
 <!ENTITY sortByTagsCmd.accesskey "g">
 <!ENTITY sortByJunkStatusCmd.label "Maemo a Matlakala">
 <!ENTITY sortByJunkStatusCmd.accesskey "M">
-<!ENTITY sortBySubjectCmd.label "Subject">
-<!ENTITY sortBySubjectCmd.accesskey "b">
-<!ENTITY sortBySenderCmd.label "Moromedi">
-<!ENTITY sortBySenderCmd.accesskey "r">
+<!ENTITY sortBySubjectCmd.label "Temakgang">
+<!ENTITY sortBySubjectCmd.accesskey "T">
+<!ENTITY sortByFromCmd.label "From">
+<!ENTITY sortByFromCmd.accesskey "F">
 <!ENTITY sortByRecipientCmd.label "Moamogedi">
 <!ENTITY sortByRecipientCmd.accesskey "a">
 <!ENTITY sortByUnreadCmd.label "Buisa">
@@ -165,21 +204,12 @@
 <!ENTITY sortUnthreaded.accesskey "l">
 <!ENTITY groupBySort.label "Beilwe ka ditlhopha Tsa Tlhomaganyo">
 <!ENTITY groupBySort.accesskey "B">
-<!ENTITY groupBySortCmd.key "G">
 <!ENTITY msgsMenu.label "Melaetsa">
 <!ENTITY msgsMenu.accesskey "M">
-<!ENTITY viewAll.label "Yotlhe">
-<!ENTITY viewUnread.label "Sa buisiwang">
-<!ENTITY viewAll.accesskey "Y">
-<!ENTITY viewUnread.accesskey "S">
-<!ENTITY viewCustomView.label "Isa ka magoro...">
-<!ENTITY viewCustomView.accesskey "I">
 <!ENTITY threads.label "Ditlhale">
 <!ENTITY threads.accesskey "l">
 <!ENTITY allMsgsCmd.label "Tsotlhe">
 <!ENTITY allMsgsCmd.accesskey "T">
-<!ENTITY expandOrCollapseMenu.label "Atolosa/Gosomanya">
-<!ENTITY expandOrCollapseMenu.accesskey "t">
 <!ENTITY expandAllThreadsCmd.label "Atolosa Ditlhale Tsotlhe">
 <!ENTITY expandAllThreadsCmd.accesskey "A">
 <!ENTITY expandAllThreadsCmd.key "*">
@@ -193,7 +223,8 @@
 <!ENTITY watchedThreadsWithUnreadCmd.label "Ditlhale tse di Tlhokometsweng tse di nang le tse di sa Buisiwang">
 <!ENTITY watchedThreadsWithUnreadCmd.accesskey "D">
 <!ENTITY ignoredThreadsCmd.label "Ditlhale tse di Ikgatholositsweng">
-<!ENTITY ignoredThreadsCmd.accesskey "d">
+<!ENTITY ignoredThreadsCmd.accesskey "D">
+
 <!ENTITY headersMenu.label "Ditlhogwana">
 <!ENTITY headersMenu.accesskey "D">
 <!ENTITY headersAllCmd.label "Tsotlhe">
@@ -208,36 +239,30 @@
 <!ENTITY bodySanitized.accesskey "H">
 <!ENTITY bodyAsPlaintext.label "Ditlhaka tsa gale Fela">
 <!ENTITY bodyAsPlaintext.accesskey "D">
+<!ENTITY bodyAllParts.label "All Body Parts">
+<!ENTITY bodyAllParts.accesskey "A">
+
+<!ENTITY bodyMenuFeed.label "Feed Message Body As">
+<!ENTITY bodyMenuFeed.accesskey "B">
+<!ENTITY viewFeedWebPage.label "Web Page">
+<!ENTITY viewFeedWebPage.accesskey "W">
+<!ENTITY viewFeedSummary.label "Summary">
+<!ENTITY viewFeedSummary.accesskey "m">
+<!ENTITY viewFeedSummaryFeedPropsPref.label "Default Format">
+<!ENTITY viewFeedSummaryFeedPropsPref.accesskey "D">
+
 <!ENTITY viewAttachmentsInlineCmd.label "Bontsha Dimametlelelo mo Moleng">
 <!ENTITY viewAttachmentsInlineCmd.accesskey "D">
-<!ENTITY reloadCmd.label "Laisa sešwa">
-<!ENTITY reloadCmd.accesskey "L">
-<!ENTITY stopCmd.label "Emisa">
-<!ENTITY stopCmd.accesskey "E">
-<!ENTITY textZoomEnlargeCmd.label "Oketsa">
-<!ENTITY textZoomEnlargeCmd.accesskey "O">
-<!ENTITY textZoomEnlargeCmd.commandkey "+">
-<!-- + is above this key on many keyboards -->
-<!ENTITY textZoomEnlargeCmd.commandkey2 "=">
-<!ENTITY textZoomReduceCmd.label "Fokotsa">
-<!ENTITY textZoomReduceCmd.accesskey "F">
-<!ENTITY textZoomReduceCmd.commandkey "-">
-<!ENTITY textZoomResetCmd.commandkey "0">
-<!ENTITY textZoomResetCmd.label "Tlwaelegileng">
-<!ENTITY textZoomResetCmd.accesskey "T">
-<!ENTITY textSize.label "Bogolo jwa Ditlhaka">
-<!ENTITY textSize.accesskey "t">
 
 <!ENTITY pageSourceCmd.label "Motswedi wa Molaetsa">
 <!ENTITY pageSourceCmd.accesskey "t">
 <!ENTITY pageSourceCmd.key "u">
+<!ENTITY getNewMessagesCmd.key "y">
+<!ENTITY getAllNewMessagesCmd.key "Y">
 <!-- Search Menu -->
 
-<!ENTITY searchMenu.label "Phuruphutsa">
-<!ENTITY searchMenu.accesskey "P">
-
-<!ENTITY findMenu.label "Batla">
-<!ENTITY findMenu.accesskey "B">
+<!ENTITY findMenu.label "Find">
+<!ENTITY findMenu.accesskey "F">
 <!ENTITY findCmd.label "Batla mo Molaetseng Ono...">
 <!ENTITY findCmd.accesskey "B">
 <!ENTITY findCmd.key "f">
@@ -267,77 +292,93 @@
 <!ENTITY nextStarredMsgCmd.label "Starred Message">
 <!ENTITY nextStarredMsgCmd.accesskey "S">
 <!ENTITY nextUnreadThread.label "Tlhale e e sa Buisiwang">
-<!ENTITY nextUnreadThreadCmd.accesskey "T">
-<!ENTITY nextUnreadThreadCmd.key "t">
+<!ENTITY nextUnreadThread.accesskey "T">
+<!ENTITY nextUnreadThread.key "t">
 <!ENTITY prevMenu.label "Fetileng">
 <!ENTITY prevMenu.accesskey "F">
 <!ENTITY prevMsgCmd.label "Molaetsa">
 <!ENTITY prevMsgCmd.accesskey "M">
-<!ENTITY previousMsgCmd.key "b">
-<!ENTITY previousMsgCmd.accesskey "M">
+<!ENTITY prevMsgCmd.key "b">
 <!ENTITY prevUnreadMsgCmd.label "Molaetsa o o sa Buisiwang">
 <!ENTITY prevUnreadMsgCmd.accesskey "B">
-<!ENTITY previousUnreadMsgCmd.key "p">
-<!ENTITY previousUnreadMsgCmd.accesskey "U">
-<!ENTITY goForwardCmd.label "Fetisa">
+<!ENTITY prevUnreadMsgCmd.key "p">
+<!ENTITY goForwardCmd.label "Forward">
+<!ENTITY goForwardCmd.accesskey "F">
 <!ENTITY goForwardCmd.commandKey "]">
 <!ENTITY goBackCmd.label "Back">
+<!ENTITY goBackCmd.accesskey "B">
 <!ENTITY goBackCmd.commandKey "[">
+<!ENTITY goChatCmd.label "Chat">
+<!ENTITY goChatCmd.accesskey "c">
+<!ENTITY goChatCmd.key "I">
 <!ENTITY prevStarredMsgCmd.label "Starred Message">
 <!ENTITY prevStarredMsgCmd.accesskey "S">
+<!ENTITY folderMenu.label "Folder">
+<!ENTITY folderMenu.accesskey "O">
+<!ENTITY goRecentlyClosedTabs.label "Recently Closed Tabs">
+<!ENTITY goRecentlyClosedTabs.accesskey "R">
 <!ENTITY startPageCmd.label "Tsebe ya Tshimologo ya Poso">
 <!ENTITY startPageCmd.accesskey "T">
+<!-- Message Menu -->
+
 <!ENTITY msgMenu.label "Molaetsa">
 <!ENTITY msgMenu.accesskey "M">
 <!ENTITY newMsgCmd.label "Molaetsa o Montšhwa">
 <!ENTITY newMsgCmd.accesskey "M">
 <!ENTITY newNewMsgCmd.label "Molaetsa">
 <!ENTITY newNewMsgCmd.accesskey "M">
+<!ENTITY archiveMsgCmd.label "Archive">
+<!ENTITY archiveMsgCmd.accesskey "A">
+<!ENTITY archiveMsgCmd.key  "a">
+<!ENTITY cancelNewsMsgCmd.label "Khansela Molaetsa">
+<!ENTITY cancelNewsMsgCmd.accesskey "M">
 <!ENTITY replyMsgCmd.label "Araba">
 <!ENTITY replyMsgCmd.accesskey "A">
-<!ENTITY replyMsgCmd.key "r">
+<!ENTITY replyMsgCmd.key  "r">
 <!ENTITY replySenderCmd.label "Araba Moromedi Fela">
 <!ENTITY replySenderCmd.accesskey "A">
-<!ENTITY replyNewsgroupCmd.label "Araba Setlhopha sa dikgang">
-<!ENTITY replyNewsgroupCmd.accesskey "a">
+<!ENTITY replyNewsgroupCmd2.label "Followup to Newsgroup">
+<!ENTITY replyNewsgroupCmd2.accesskey  "u">
 <!ENTITY replyToAllMsgCmd.label "Araba Botlhe">
-<!ENTITY replyToAllMsgCmd.accesskey "a">
-<!ENTITY replyToAllMsgCmd.key "r">
+<!ENTITY replyToAllMsgCmd.accesskey  "a">
+<!ENTITY replyToAllMsgCmd.key  "r">
+<!ENTITY replyToListMsgCmd.label "Reply to List">
+<!ENTITY replyToListMsgCmd.accesskey  "L">
+<!ENTITY replyToListMsgCmd.key  "l">
 <!ENTITY forwardMsgCmd.label "Fetisa">
 <!ENTITY forwardMsgCmd.accesskey "F">
-<!ENTITY forwardMsgCmd.key "l">
-<!ENTITY forwardAsMenu.label "Forward As">
-<!ENTITY forwardAsMenu.accesskey "w">
+<!ENTITY forwardMsgCmd.key  "l">
+<!ENTITY forwardAsMenu.label "Fetisa Jaaka">
+<!ENTITY forwardAsMenu.accesskey "e">
 <!ENTITY forwardAsInline.label "Mo moleng">
 <!ENTITY forwardAsInline.accesskey "M">
 <!ENTITY forwardAsAttachmentCmd.label "Mametlelelo">
 <!ENTITY forwardAsAttachmentCmd.accesskey "M">
-<!ENTITY editMsgAsNewCmd.label "Tseleganya Molaetsa Jaaka o Montšhwa">
-<!ENTITY editMsgAsNewCmd.accesskey "T">
-<!ENTITY editMsgAsNewCmd.key "e">
+<!ENTITY editAsNewMsgCmd.label "Edit As New Message">
+<!ENTITY editAsNewMsgCmd.accesskey "E">
+<!ENTITY editAsNewMsgCmd.key "e">
 <!ENTITY createFilter.label "Tlhama Setlhotlhi Go tswa mo Molaetseng...">
 <!ENTITY createFilter.accesskey "a">
-<!ENTITY moveMsgMenu.label "Sutisa">
-<!ENTITY moveMsgMenu.accesskey "S">
+<!ENTITY moveMsgToMenu.label "Move To">
+<!ENTITY moveMsgToMenu.accesskey "M">
 <!ENTITY moveCopyMsgRecentMenu.label "Recent">
 <!ENTITY moveCopyMsgRecentMenu.accesskey "R">
 <!ENTITY copyMessageLocation.label "Kopolola Lefelo la Molaetsa">
 <!ENTITY copyMessageLocation.accesskey "L">
-<!ENTITY copyMsgMenu.label "Kopolola">
-<!ENTITY copyMsgMenu.accesskey "K">
+<!ENTITY copyMsgToMenu.label "Copy To">
+<!ENTITY copyMsgToMenu.accesskey "C">
 <!ENTITY moveToFolderAgain.label "Move Again">
 <!ENTITY moveToFolderAgain.accesskey "i">
 <!ENTITY moveToFolderAgainCmd.key "m">
 <!ENTITY killThreadMenu.label "Ikgatholose Tlhale">
 <!ENTITY killThreadMenu.accesskey "I">
 <!ENTITY killThreadMenu.key "k">
+<!ENTITY killSubthreadMenu.label "Ignore Subthread">
+<!ENTITY killSubthreadMenu.accesskey "S">
+<!ENTITY killSubthreadMenu.key "k">
 <!ENTITY watchThreadMenu.label "Disa Tlhale">
 <!ENTITY watchThreadMenu.accesskey "D">
 <!ENTITY watchThreadMenu.key "w">
-<!ENTITY fileHereMenu.label "Faela Fano">
-<!ENTITY fileHereMenu.accesskey "F">
-<!ENTITY copyHereMenu.label "Kopolola Fano">
-<!ENTITY copyHereMenu.accesskey "K">
 <!ENTITY tagMenu.label "Tag">
 <!ENTITY tagMenu.accesskey "g">
 <!ENTITY tagCmd0.key "0">
@@ -352,9 +393,9 @@
 <!ENTITY tagCmd9.key "9">
 <!ENTITY markMenu.label "Tshwaya">
 <!ENTITY markMenu.accesskey "w">
+<!ENTITY toggleReadCmd.key "m">
 <!ENTITY markAsReadCmd.label "Jaaka e e Buisitsweng">
 <!ENTITY markAsReadCmd.accesskey "B">
-<!ENTITY markAsReadCmd.key "m">
 <!ENTITY markAsUnreadCmd.label "Jaaka e e Sa buisiwang">
 <!ENTITY markAsUnreadCmd.accesskey "S">
 <!ENTITY markThreadAsReadCmd.label "Tlhale Jaaka e e Buisitsweng">
@@ -380,121 +421,201 @@
 <!ENTITY openMessageWindowCmd.label "Bula Molaetsa">
 <!ENTITY openMessageWindowCmd.accesskey "B">
 <!ENTITY openMessageWindowCmd.key "o">
+<!ENTITY openConversationCmd.label "Open in Conversation">
+<!ENTITY openConversationCmd.accesskey "s">
+<!ENTITY openConversationCmd.key "o">
+<!ENTITY openAttachmentListCmd.label "Attachments">
+<!ENTITY openAttachmentListCmd.accesskey "h">
+<!ENTITY openFeedMessage1.label "When Opening Feed Messages">
+<!ENTITY openFeedMessage1.accesskey "O">
+<!ENTITY openFeedWebPage.label "Open as Web Page">
+<!ENTITY openFeedWebPage.accesskey "W">
+<!ENTITY openFeedSummary.label "Open as Summary">
+<!ENTITY openFeedSummary.accesskey "S">
+<!ENTITY openFeedWebPageInMP.label "Toggle Web Page and Summary in Message Pane">
+<!ENTITY openFeedWebPageInMP.accesskey "T">
 <!-- Windows Menu -->
 
 <!ENTITY windowMenu.label "Fensetere">
-<!ENTITY windowMenu.accesskey "F">
 <!-- Tools Menu -->
 
 <!ENTITY tasksMenu.label "Didiriswa">
 <!ENTITY tasksMenu.accesskey "D">
-<!ENTITY addons.label "Add-ons">
-<!ENTITY addons.accesskey "d">
 <!ENTITY messengerCmd.label "Poso &amp; Ditlhopha tsa Dikgang">
-<!ENTITY messengerCmd.accesskey "p">
-<!ENTITY messengerCmd.commandkey "1">
+<!ENTITY messengerCmd.accesskey "P">
 <!ENTITY addressBookCmd.label "Buka ya Diaterese">
-<!ENTITY addressBookCmd.accesskey "b">
-<!ENTITY addressBookCmd.commandkey "2">
-<!ENTITY junkMailCmd.label "Dilaodi tsa Poso ya Matlakala...">
-<!ENTITY junkMailCmd.accesskey "D">
+<!ENTITY addressBookCmd.accesskey "B">
+<!ENTITY addressBookCmd.key "B">
+<!ENTITY addons.label "Add-ons">
+<!ENTITY addons.accesskey "A">
+<!ENTITY activitymanager.label "Activity Manager">
+<!ENTITY activitymanager.accesskey "v">
+<!ENTITY imAccountsStatus.label "Chat status">
+<!ENTITY imAccountsStatus.accesskey "C">
+<!ENTITY imStatus.available          "Available">
+<!ENTITY imStatus.unavailable        "Unavailable">
+<!ENTITY imStatus.offline            "Offline">
+<!ENTITY imStatus.showAccounts       "Show Accounts…">
+<!ENTITY joinChatCmd.label "Join Chat…">
+<!ENTITY joinChatCmd.accesskey "t">
+<!ENTITY savedFiles.label "Saved Files">
+<!ENTITY savedFiles.accesskey "l">
+<!ENTITY savedFiles.key "j">
+<!ENTITY filtersCmd2.label "Message Filters">
+<!ENTITY filtersCmd2.accesskey "F">
+<!ENTITY filtersApply.label "Tsamaisa Ditlhotlhi mo Setsholadifaeleng">
+<!ENTITY filtersApply.accesskey "T">
+<!ENTITY filtersApplyToSelection.label "Run Filters on Selected Messages">
+<!ENTITY filtersApplyToSelection.accesskey "u">
+<!ENTITY filtersApplyToMessage.label "Run Filters on Message">
+<!ENTITY filtersApplyToMessage.accesskey "u">
 <!ENTITY runJunkControls.label "Tsamaisa Dilaodi tsa Poso ya Matlakala mo Setsholadifaeleng">
 <!ENTITY runJunkControls.accesskey "s">
 <!ENTITY deleteJunk.label "Phimola Poso e e Tshwailweng jaaka Matlakala mo Setsholadifaeleng">
 <!ENTITY deleteJunk.accesskey "i">
+<!ENTITY importCmd.label "Tlisateng...">
+<!ENTITY importCmd.accesskey "T">
 <!ENTITY errorConsoleCmd.label "Error Console">
-<!ENTITY errorConsoleCmd.accesskey "n">
-<!ENTITY filtersCmd.label "Ditlhotlhi tsa Melaetsa...">
-<!ENTITY filtersCmd.accesskey "M">
-<!ENTITY filtersApply.label "Tsamaisa Ditlhotlhi mo Setsholadifaeleng">
-<!ENTITY filtersApply.accesskey "T">
-<!-- Help Menu -->
-
-<!ENTITY helpMenu.label "Thusa">
-<!ENTITY helpMenu.accesskey "T">
-<!-- LOCALIZATION NOTE some localizations of Windows use "?"
-                       for the help button in the menubar but Gnome does not.   -->
-<!ENTITY helpMenuWin.label "Thusa">
-<!ENTITY helpMenuWin.accesskey "T">
-<!ENTITY releaseCmd.label "Golola Dintlhana">
-<!ENTITY releaseCmd.accesskey "G">
-<!ENTITY hintsAndTips.label "&brandFullName; Thusa">
-<!ENTITY hintsAndTipsMac.commandkey "?">
-<!ENTITY hintsAndTips.accesskey "t">
-<!ENTITY updateCmd.accesskey "i">
-<!ENTITY updateCmd.label "Tlhola Dintšhwafatso...">
-<!ENTITY aboutCmd.label "Ka ga &brandFullName;">
-<!ENTITY aboutCmd.accesskey "K">
+<!ENTITY errorConsoleCmd.accesskey "E">
+<!ENTITY errorConsoleCmd.commandkey "j">
+<!ENTITY clearRecentHistory.label "Clear Recent History…">
+<!ENTITY clearRecentHistory.accesskey "H">
+<!ENTITY accountManagerCmd2.label "Account Settings">
+<!ENTITY accountManagerCmd2.accesskey "S">
+<!-- LOCALIZATION NOTE (accountManagerCmdUnix2.accesskey): belongs to accountManagerCmd2.label,
+        which is placed under the Edit menu on Unix systems -->
+<!ENTITY accountManagerCmdUnix2.accesskey "A">
+<!ENTITY allowRemoteDebugging.label "Allow Remote Debugging">
+<!ENTITY allowRemoteDebugging.accesskey "g">
 <!-- Mail Toolbar -->
 
-<!ENTITY getMsgButton.label "Bona Poso">
+<!ENTITY getMsgButton1.label "Get Messages">
 <!ENTITY newMsgButton.label "Kwala">
 <!ENTITY replyButton.label "Araba">
 <!ENTITY replyAllButton.label "Araba Gotlhe">
+<!ENTITY replyListButton.label "Reply to List">
 <!ENTITY forwardButton.label "Fetisa">
 <!ENTITY fileButton.label "Faele">
+<!ENTITY archiveButton.label "Archive">
 <!ENTITY nextButton.label "Latelang">
+<!ENTITY nextButtonToolbarItem.label "Next Unread">
+<!ENTITY nextMsgButton.label "Next">
 <!ENTITY previousButton.label "Fetileng">
-<!ENTITY backButton.label "Go Back">
-<!ENTITY goForwardButton.label "Go Forward">
+<!ENTITY previousButtonToolbarItem.label "Previous Unread">
+<!ENTITY previousMsgButton.label "Previous">
+<!ENTITY backButton1.label "Back">
+<!ENTITY goForwardButton1.label "Forward">
+<!ENTITY deleteItem.title "Delete">
 <!ENTITY deleteButton.label "Phimola">
+<!ENTITY undeleteButton.label "Undelete">
 <!ENTITY markButton.label "Tshwaya">
 <!ENTITY printButton.label "Gatisa">
 <!ENTITY stopButton.label "Emisa">
 <!ENTITY throbberItem.title "Sesupi sa Tiragalo">
-<!ENTITY updatesItem.title "Dintšhwafatso">
+<!ENTITY junkItem.title "Junk">
 <!ENTITY junkButton.label "Matlakala">
 <!ENTITY notJunkButton.label "E seng Matlakala">
 <!ENTITY addressBookButton.label "Buka ya Diaterese">
+<!ENTITY chatButton.label "Chat">
+<!ENTITY glodaSearch.title "Global Search">
 <!ENTITY searchItem.title "Quick Search">
 <!ENTITY mailViewsToolbarItem.title "Mail Views">
 <!ENTITY folderLocationToolbarItem.title "Folder Location">
 <!ENTITY tagButton.label "Tag">
+<!ENTITY compactButton.label "Compact">
+<!ENTITY appmenuButton.label "AppMenu">
 <!-- Mail Toolbar Tooltips-->
 
 <!ENTITY advancedButton.tooltip "Go Phuruphutsa molaetsa go go tsweletseng">
-<!ENTITY clearButton.tooltip "Tlosa dielo tsa go Phuruphutsa mme o bontshe melaetsa yotlhe">
 <!ENTITY getMsgButton.tooltip "Bona melaetsa e mentšhwa">
+<!ENTITY getAllNewMsgCmd.label "Bona Melaetsa Yotlhe e Mentšhwa">
+<!ENTITY getAllNewMsgCmd.accesskey "G">
 <!ENTITY newMsgButton.tooltip "Tlhama molaetsa o montšhwa">
 <!ENTITY replyButton.tooltip "Araba molaetsa">
 <!ENTITY replyAllButton.tooltip "Araba moromedi le baamogedi botlhe">
+<!ENTITY replyListButton.tooltip "Reply to mailing list">
 <!ENTITY forwardButton.tooltip "Fetisa molaetsa o o tlhophilweng">
+<!ENTITY forwardAsInline.tooltip "Forward selected message as inline text">
+<!ENTITY forwardAsAttachment.tooltip "Forward selected message as an attachment">
 <!ENTITY fileButton.tooltip "Faela molaetsa o o tlhophilweng">
+<!ENTITY archiveButton.tooltip "Archive selected messages">
 <!ENTITY nextButton.tooltip "Sutela kwa molaetseng o o latelang o o sa buisiwang">
+<!ENTITY nextMsgButton.tooltip "Move to the next message">
 <!ENTITY previousButton.tooltip "Sutela kwa molaetseng o o fetileng o o sa buisiwang">
+<!ENTITY previousMsgButton.tooltip "Move to the previous message">
 <!ENTITY goForwardButton.tooltip "Go forward one message">
 <!ENTITY goBackButton.tooltip "Go back one message">
 <!ENTITY deleteButton.tooltip "Phimola molaetsa gongwe setsholadifaele se se tlhophilweng">
+<!ENTITY undeleteButton.tooltip "Undelete selected message">
 <!ENTITY markButton.tooltip "Tshwaya melaetsa">
 <!ENTITY printButton.tooltip "Gatisa molaetsa ono">
 <!ENTITY stopButton.tooltip "Emisa phetiso ya ga jaana">
 <!ENTITY junkButton.tooltip "Tshwaya melaetsa e e tlhophilweng jaaka matlakala">
 <!ENTITY notJunkButton.tooltip "Tshwaya melaetsa e e tlhophilweng jaaka e e seng matlakala">
 <!ENTITY addressBookButton.tooltip "Tsamaela kwa bukeng ya diaterese">
+<!ENTITY chatButton.tooltip "Show the Chat tab">
 <!ENTITY tagButton.tooltip "Tag messages">
+<!ENTITY compactButton.tooltip "Remove deleted messages from selected folder">
+<!ENTITY appmenuButton1.tooltip "Display the &brandShortName; Menu">
+<!-- Toolbar Button Popup -->
+
+<!ENTITY buttonMenuForwardAsInline.label "Forward Inline">
+<!ENTITY buttonMenuForwardAsAttachment.label "Forward As Attachment">
+<!-- Remote Content Button Popup -->
+
+<!ENTITY remoteContentOptionsAllowForMsg.label "Show remote content in this message">
+<!ENTITY remoteContentOptionsAllowForMsg.accesskey "S">
+<!ENTITY editRemoteContentSettings.label "Edit remote content options…">
+<!ENTITY editRemoteContentSettings.accesskey "E">
+<!ENTITY editRemoteContentSettingsUnix.label "Edit remote content preferences…">
+<!ENTITY editRemoteContentSettingsUnix.accesskey "E">
+<!-- Phishing Button Popup -->
+
+<!ENTITY phishingOptionIgnore.label "Ignore warning for this message">
+<!ENTITY phishingOptionIgnore.accesskey "n">
+<!ENTITY phishingOptionSettings.label "Edit scam detection options…">
+<!ENTITY phishingOptionSettings.accesskey "d">
+<!ENTITY phishingOptionSettingsUnix.label "Edit scam detection preferences…">
+<!ENTITY phishingOptionSettingsUnix.accesskey "d">
+<!-- AppMenu Popup -->
+
+<!ENTITY appmenuNewMsgCmd.label "New Message">
+<!ENTITY appmenuNewContactCmd.label "Address Book Contact…">
+<!ENTITY appmenuEditMenu.label "Edit">
+<!ENTITY appmenuToolbarLayout.label "Toolbar Layout…">
+<!ENTITY appmenuSelectThread.label "Select Thread">
+<!ENTITY appmenuSelectFlagged.label "Select Starred Messages">
 <!-- Tags Menu Popup -->
 
-<!ENTITY addNewTag.label "New Tag...">
+<!ENTITY addNewTag.label "New Tag…">
 <!ENTITY addNewTag.accesskey "N">
+<!ENTITY manageTags.label "Manage Tags…">
+<!ENTITY manageTags.accesskey "M">
 <!-- Folder Pane -->
 
 <!ENTITY folderColumn.label "Leina">
 <!ENTITY folderSizeColumn.label "Bogolo">
 <!-- Folder Pane Context Menu -->
 
-<!ENTITY folderContextOpenNewWindow.label "Open">
-<!ENTITY folderContextOpenNewWindow.accesskey "O">
+<!ENTITY folderContextGetMessages.label "Bona Melaetsa e Mentšhwa ya Akhaonto">
+<!ENTITY folderContextGetMessages.accesskey "B">
+<!ENTITY folderContextOpenInNewWindow.label "Open in New Window">
+<!ENTITY folderContextOpenInNewWindow.accesskey "O">
+<!ENTITY folderContextOpenNewTab.label "Open in New Tab">
+<!ENTITY folderContextOpenNewTab.accesskey "T">
 <!ENTITY folderContextNew.label "Setsholadifaelepotlana se se Ntšhwa...">
 <!ENTITY folderContextNew.accesskey "S">
 <!ENTITY folderContextRename.label "Taya leina sešwa">
 <!ENTITY folderContextRename.accesskey "T">
 <!ENTITY folderContextRemove.label "Phimola">
 <!ENTITY folderContextRemove.accesskey "P">
-<!ENTITY folderContextCompact.label "Compact">
-<!ENTITY folderContextCompact.accesskey "C">
+<!ENTITY folderContextCompact.label "Kitlanya Setsholadifaele Seno">
+<!ENTITY folderContextCompact.accesskey "S">
 <!ENTITY folderContextEmptyTrash.label "Tlhotlhora Thothobolo">
 <!ENTITY folderContextEmptyTrash.accesskey "a">
-<!ENTITY folderContextSendUnsentMessages.label "Romela Melaetsa e e sa Romelwang">
+<!ENTITY folderContextEmptyJunk.label "Empty Junk">
+<!ENTITY folderContextEmptyJunk.accesskey "J">
+<!ENTITY folderContextSendUnsentMessages.label "Romela Melaetsa e e sa Romelwang...">
 <!ENTITY folderContextSendUnsentMessages.accesskey "e">
 <!ENTITY folderContextUnsubscribe.label "Kwadisolola">
 <!ENTITY folderContextUnsubscribe.accesskey "K">
@@ -504,38 +625,34 @@
 <!ENTITY folderContextMarkMailFolderRead.accesskey "w">
 <!ENTITY folderContextSubscribe.label "Ikwadise...">
 <!ENTITY folderContextSubscribe.accesskey "w">
-<!ENTITY folderContextSearchMessages.label "Search...">
-<!ENTITY folderContextSearchMessages.accesskey "S">
-<!ENTITY folderContextProperties.label "Ditlhagotshedimosetso...">
-<!ENTITY folderContextProperties.accesskey "D">
-<!ENTITY folderContextCopyLocation.label "Copy Folder Location">
-<!ENTITY folderContextCopyLocation.accesskey "L">
+<!ENTITY folderContextSearchForMessages.label "Search Messages…">
+<!ENTITY folderContextSearchForMessages.accesskey "S">
+<!ENTITY folderContextProperties2.label "Properties">
+<!ENTITY folderContextProperties2.accesskey "P">
 <!ENTITY folderContextFavoriteFolder.label "Favorite Folder">
 <!ENTITY folderContextFavoriteFolder.accesskey "a">
+<!ENTITY folderContextSettings2.label "Settings">
+<!ENTITY folderContextSettings2.accesskey "e">
 <!-- Search Bar -->
 
-<!ENTITY viewPicker.label "Leba:">
-<!ENTITY viewPicker.accesskey "e">
-<!ENTITY viewPickerAll.label "Tsotlhe">
-<!ENTITY viewPickerUnread.label "Sa Buisiwang">
-<!ENTITY viewPickerCustomView.label "Isa ka magoro...">
-<!ENTITY viewPickerSaveAsVirtualFolder.label "Save View as a Folder...">
 <!ENTITY SearchNameOrEmail.label "Leina gongwe Poso ya Eleketoroniki e na le:">
 <!ENTITY SearchNameOrEmail.accesskey "L">
-<!ENTITY clearButton.label "Tlosa">
-<!ENTITY clearButton.accesskey "T">
+<!-- Gloda Search Bar -->
+
+<!ENTITY glodaSearchBar.placeholder "Search messages…">
 <!-- Quick Search Menu Bar -->
 
 <!ENTITY searchSubjectMenu.label "Temakgang">
-<!ENTITY searchSenderMenu.label "Moromedi">
-<!ENTITY searchSubjectOrSenderMenu.label "Temakgang gongwe Moromedi">
+<!ENTITY searchFromMenu.label "From">
+<!ENTITY searchSubjectOrFromMenu.label "Subject or From">
 <!ENTITY searchRecipient.label "Go gongwe Le">
+<!ENTITY searchSubjectOrRecipientMenu.label "Subject, To or Cc">
 <!ENTITY searchMessageBody.label "Molaetsa Otlhe">
 <!ENTITY saveAsVirtualFolderMenu.label "Boloka Phuruphutsa jaaka Setsholadifaele...">
 <!-- Thread Pane -->
 
 <!ENTITY threadColumn.label "Tlhale">
-<!ENTITY senderColumn.label "Moromedi">
+<!ENTITY fromColumn.label "From">
 <!ENTITY recipientColumn.label "Moamogedi">
 <!ENTITY subjectColumn.label "Temakgang">
 <!ENTITY dateColumn.label "Letlha">
@@ -545,102 +662,244 @@
 <!ENTITY statusColumn.label "Maemo">
 <!ENTITY sizeColumn.label "Bogolo">
 <!ENTITY junkStatusColumn.label "Maemo a Matlakala">
-<!ENTITY linesColumn.label "Mela">
 <!ENTITY unreadColumn.label "Sa Buisiwang">
 <!ENTITY totalColumn.label "Palogotlhe">
 <!ENTITY readColumn.label "Buisitswe">
+<!ENTITY receivedColumn.label "Received">
 <!ENTITY starredColumn.label "Starred">
 <!ENTITY locationColumn.label "Lefelo">
 <!ENTITY idColumn.label "Tatelano ya Go Amogelwa">
 <!ENTITY attachmentColumn.label "Dimametlelelo">
 <!-- Thread Pane Tooltips -->
 
-<!ENTITY columnChooser.tooltip "Tobetsa go tlhopha dikholomo go di bontsha">
-<!ENTITY threadColumn.tooltip "Tobetsa go bontsha ditlhale tsa melaetsa">
-<!ENTITY senderColumn.tooltip "Tobetsa go tlhomaganya ka moromedi">
-<!ENTITY recipientColumn.tooltip "Tobetsa go tlhomaganya ka moamogedi">
-<!ENTITY subjectColumn.tooltip "Tobetsa go tlhomaganya ka temakgang">
-<!ENTITY dateColumn.tooltip "Tobetsa go tlhomaganya ka letlha">
-<!ENTITY priorityColumn.tooltip "Tobetsa go tlhomaganya ka setlapele">
-<!ENTITY tagsColumn.tooltip "Click to sort by tags">
-<!ENTITY accountColumn.tooltip "Tobetsa go tlhomaganya ka akhaonto">
-<!ENTITY statusColumn.tooltip "Tobetsa go tlhomaganya ka maemo">
-<!ENTITY sizeColumn.tooltip "Tobetsa go tlhomaganya ka bogolo">
-<!ENTITY junkStatusColumn.tooltip "Tobetsa go tlhomaganya ka maemo a botlakala">
-<!ENTITY unreadColumn.tooltip "Palo ya melaetsa e e sa buisiwang mo tlhaleng">
-<!ENTITY totalColumn.tooltip "Palogotlhe ya melaetsa mo tlhaleng">
-<!ENTITY readColumn.tooltip "Tobetsa go tlhomaganya ka e e buisitsweng">
-<!ENTITY starredColumn.tooltip "Click to sort by star">
-<!ENTITY locationColumn.tooltip "Tobetsa go tlhomaganya ka lefelo">
-<!ENTITY idColumn.tooltip "Tobetsa go tlhomaganya ka tatelano ya kamogelo">
-<!ENTITY attachmentColumn.tooltip "Tobetsa go tlhomaganya ka dimametlelelo">
+<!ENTITY columnChooser2.tooltip "Select columns to display">
+<!ENTITY threadColumn2.tooltip "Display message threads">
+<!ENTITY fromColumn2.tooltip "Sort by from">
+<!ENTITY recipientColumn2.tooltip "Sort by recipient">
+<!ENTITY subjectColumn2.tooltip "Sort by subject">
+<!ENTITY dateColumn2.tooltip "Sort by date">
+<!ENTITY priorityColumn2.tooltip "Sort by priority">
+<!ENTITY tagsColumn2.tooltip "Sort by tags">
+<!ENTITY accountColumn2.tooltip "Sort by account">
+<!ENTITY statusColumn2.tooltip "Sort by status">
+<!ENTITY sizeColumn2.tooltip "Sort by size">
+<!ENTITY junkStatusColumn2.tooltip "Sort by junk status">
+<!ENTITY unreadColumn2.tooltip "Number of unread messages in thread">
+<!ENTITY totalColumn2.tooltip "Total number of messages in thread">
+<!ENTITY readColumn2.tooltip "Sort by read">
+<!ENTITY receivedColumn2.tooltip "Sort by date received">
+<!ENTITY starredColumn2.tooltip "Sort by star">
+<!ENTITY locationColumn2.tooltip "Sort by location">
+<!ENTITY idColumn2.tooltip "Sort by order received">
+<!ENTITY attachmentColumn2.tooltip "Sort by attachments">
 <!-- Thread Pane Context Menu -->
 
 <!ENTITY contextOpenNewWindow.label "Bula Molaetsa mo Fensetereng e Ntšhwa">
 <!ENTITY contextOpenNewWindow.accesskey "F">
-<!ENTITY contextEditAsNew.label "Tseleganya Jaaka e Ntšhwa...">
-<!ENTITY contextEditAsNew.accesskey "T">
+<!-- The key potentially conflicts with cutCmd.accessKey which is defined in
+     textcontext.dtd from toolkit. Right now, both menu items can't be visible
+     at the same time, but should someone enable copy/paste of message, this key
+     would probably need to be changed. -->
+<!ENTITY contextOpenNewTab.label "Open Message in New Tab">
+<!ENTITY contextOpenNewTab.accesskey "T">
+<!ENTITY contextOpenConversation.label "Open Message in Conversation">
+<!ENTITY contextOpenConversation.accesskey "n">
+<!ENTITY contextOpenContainingFolder.label "Open Message in Containing Folder">
+<!ENTITY contextOpenContainingFolder.accesskey "n">
+<!ENTITY contextEditMsgAsNew.label "Edit As New Message">
+<!ENTITY contextEditMsgAsNew.accesskey "E">
+<!ENTITY contextArchive.label "Archive">
+<!ENTITY contextArchive.accesskey "h">
 <!ENTITY contextReplySender.label "Araba Moromedi Fela">
 <!ENTITY contextReplySender.accesskey "A">
-<!ENTITY contextReplyNewsgroup.label "Araba Setlhopha sa dikgang">
-<!ENTITY contextReplyNewsgroup.accesskey "a">
+<!ENTITY contextReplyNewsgroup2.label "Followup to Newsgroup">
+<!ENTITY contextReplyNewsgroup2.accesskey "u">
 <!ENTITY contextReplyAll.label "Araba Botlhe">
 <!ENTITY contextReplyAll.accesskey "B">
+<!ENTITY contextReplyList.label "Reply to List">
+<!ENTITY contextReplyList.accesskey "L">
 <!ENTITY contextForward.label "Fetisa">
 <!ENTITY contextForward.accesskey "F">
-<!ENTITY contextForwardAsAttachment.label "Fetisa jaaka Dimametlelelo">
-<!ENTITY contextForwardAsAttachment.accesskey "e">
+<!ENTITY contextForwardAsMenu.label "Forward As">
+<!ENTITY contextForwardAsMenu.accesskey "o">
+<!ENTITY contextForwardAsInline.label "Inline">
+<!ENTITY contextForwardAsInline.accesskey "I">
+<!ENTITY contextForwardAsAttachmentItem.label "Attachment">
+<!ENTITY contextForwardAsAttachmentItem.accesskey "A">
+<!ENTITY contextMultiForwardAsAttachment.label "Forward as Attachments">
+<!ENTITY contextMultiForwardAsAttachment.accesskey "o">
 <!ENTITY contextMoveMsgMenu.label "Sutisetsa go">
 <!ENTITY contextMoveMsgMenu.accesskey "S">
 <!ENTITY contextMoveCopyMsgRecentMenu.label "Recent">
 <!ENTITY contextMoveCopyMsgRecentMenu.accesskey "R">
 <!ENTITY contextCopyMsgMenu.label "Kopololela Go">
 <!ENTITY contextCopyMsgMenu.accesskey "K">
+<!ENTITY contextKillThreadMenu.label "Ignore Thread">
+<!ENTITY contextKillThreadMenu.accesskey "I">
+<!ENTITY contextKillSubthreadMenu.label "Ignore Subthread">
+<!ENTITY contextWatchThreadMenu.label "Watch Thread">
 <!ENTITY contextSaveAs.label "Boloka Jaaka...">
 <!ENTITY contextSaveAs.accesskey "B">
 <!ENTITY contextPrint.label "Gatisa...">
 <!ENTITY contextPrint.accesskey "G">
 <!ENTITY contextPrintPreview.label "Tebopele ya Kgatiso">
-<!ENTITY contextDelete.label "Phimola">
-<!ENTITY contextDelete.accesskey "P">
-<!ENTITY contextAddSenderToAddressBook.label "Tsenya Moromedi mo Bukeng ya Diaterese">
-<!ENTITY contextAddSenderToAddressBook.accesskey "D">
-<!ENTITY contextAddAllToAddressBook.label "Tsenya Botlhe Mo Bukeng ya Diaterese">
-<!ENTITY contextAddAllToAddressBook.accesskey "T">
-<!-- Junk Bar -->
+<!ENTITY contextPrintPreview.accesskey "v">
+<!-- Thread Pane Column Picker -->
+<!-- LOCALIZATION NOTE (columnPicker.resetToInbox.label):
+   This option in the thread pane column picker causes us to reset the
+   customizations for the thread pane columns in this folder to their default.
+  -->
 
-<!ENTITY junkBarMessage.label "&brandShortName; e akanya gore molaetsa ono ke matlakala.">
-<!ENTITY junkBarButton.label "Seno Ga se Matlakala">
-<!ENTITY junkInfoButton.label "?">
-<!-- Remote Content Bar -->
+<!ENTITY columnPicker.resetToInbox.label "Reset columns to default">
+<!-- LOCALIZATION NOTE (columnPicker.applyTo.label):
+   This option in the thread pane column picker pops up a sub-menu containing
+   the "columnPicker.applyToFolder.label" and
+   "columnPicker.applyToFolderAndChildren.label" options.  This item indicates
+   a desire to apply the currently displayed set of columns to some other
+   folder(s).  The sub-menu items indicate whether we want to apply it to just
+   a folder or also its children.
+  -->
+<!ENTITY columnPicker.applyTo.label "Apply columns to…">
+<!-- LOCALIZATION NOTE (columnPicker.applyToFolder.label):
+   This option in the thread pane column picker is found on a sub-menu beneath
+   the "columnPicker.applyTo.label" alongside
+   "columnPicker.applyToFolderAndChildren.label".  It indicates a desire to
+   apply the currently display thread pane column settings to a single folder
+   that the user selects using the same widget as the move to/copy to
+   mechanism (via a series of popups).
+  -->
+<!ENTITY columnPicker.applyToFolder.label "Folder…">
+<!-- LOCALIZATION NOTE (columnPicker.applyToFolderAndChildren.label):
+   This option in the thread pane column picker is found on a sub-menu beneath
+   the "columnPicker.applyTo.label" alongside
+   "columnPicker.applyToFolder.label".  It indicates a desire to
+   apply the currently display thread pane column settings to a folder and all
+   of its descendents.  The user selects the folder using the same widget as the
+   move to/copy to mechanism (via a series of popups).
+  -->
+<!ENTITY columnPicker.applyToFolderAndChildren.label "Folder and its children…">
+<!-- LOCALIZATION NOTE (columnPicker.thisFolder.label):
+   This is used in the folder selection widget for the
+   "columnPicker.applyToFolder.label" and
+   "columnPicker.applyToFolderAndChildren.label" menu options.  Whenever
+   a folder has children, it results in a menu popup; the first menu item
+   in that popup is given this label to indicate that that folder should be
+   selected.  For example, if folder "A" has two children, "B" and "C", then
+   when the user hovers over "A", a new popup menu will be displayed whose
+   items are "This folder", "B", and "C".  This is the equivalent of the
+   "File here" option for the move to/copy to widge.t
+  -->
+<!ENTITY columnPicker.thisFolder.label "This folder">
+<!-- Media (video/audio) controls -->
 
-<!ENTITY remoteContentMessage.label "Go boloka sephiri sa gago, &brandShortName; e kgoreleditse ditshwantsho tse di kgakala mo molaetseng ono.">
-<!ENTITY loadRemoteContentButton.label "Bontsha Ditshwantsho">
-<!-- Phshing bar Bar -->
 
-<!ENTITY phishingBarMessage.label "&brandShortName; e akanya gore molaetsa ono e kane e le sekeme sa poso ya eleketoroniki.">
-<!ENTITY removePhishingBarButton.label "Ga se Sekeme">
-<!-- Search Bar -->
+<!ENTITY contextPlay.label "Play">
+<!ENTITY contextPlay.accesskey "P">
+<!ENTITY contextPause.label "Pause">
+<!ENTITY contextPause.accesskey "P">
+<!ENTITY contextMute.label "Mute">
+<!ENTITY contextMute.accesskey "M">
+<!ENTITY contextUnmute.label "Unmute">
+<!ENTITY contextUnmute.accesskey "m">
+<!-- Quick Search Bar -->
+<!-- LOCALIZATION NOTE (quickSearchCmd.key):
+     This is actually the key used for the global message search box; we have
+     not changed 
+     -->
 
 <!ENTITY quickSearchCmd.key "k">
+<!-- LOCALIZATION NOTE (search.label.base):
+     This is the base of the empty text for the global search box.  We replace
+     #1 with the contents of the appropriate search.keyLabel.* value for the
+     platform.
+     The goal is to convey to the user that typing in the box will allow them
+     to search for messages globally and that there is a hotkey they can press
+     to get to the box faster.  If the global indexer is disabled, the search
+     box will be collapsed and the user will never see this message.
+     -->
+<!ENTITY search.label.base "Search… #1">
+<!-- LOCALIZATION NOTE (search.keyLabel.nonmac):
+     The description of the key-binding to get into the global search box on
+     windows and linux (which use the control key).  We use the key defined in
+     the quickSearchCmd.key entity defined above, the letter should match it.
+     -->
+<!ENTITY search.keyLabel.nonmac "&lt;Ctrl+K&gt;">
+<!-- LOCALIZATION NOTE (search.keyLabel.mac):
+     The description of the key-binding to get into the global search box on mac
+     systems.  We use the key defined in the quickSearchCmd.key entity defined
+     above, the letter should match it.
+     -->
+<!ENTITY search.keyLabel.mac "&lt;&#x2318;K&gt;">
 <!-- Message Header Context Menu -->
 
 <!ENTITY AddToAddressBook.label "Tsenya mo Bukeng ya Diaterese...">
 <!ENTITY AddToAddressBook.accesskey "D">
-<!ENTITY SendMailTo.label "Tlhama Poso Go">
-<!ENTITY SendMailTo.accesskey "m">
+<!ENTITY AddDirectlyToAddressBook.label "Add to Address Book">
+<!ENTITY AddDirectlyToAddressBook.accesskey "B">
+<!ENTITY EditContact1.label "Edit Contact">
+<!ENTITY EditContact1.accesskey "E">
+<!ENTITY ViewContact.label "View Contact">
+<!ENTITY ViewContact.accesskey "V">
+<!ENTITY SubscribeToNewsgroup.label "Subscribe to Newsgroup">
+<!ENTITY SubscribeToNewsgroup.accesskey "N">
+<!ENTITY SendMessageTo.label "Compose Message To">
+<!ENTITY SendMessageTo.accesskey "s">
 <!ENTITY CopyEmailAddress.label "Kopolola Aterese ya Poso ya Eleketoroniki">
 <!ENTITY CopyEmailAddress.accesskey "K">
-<!ENTITY CreateFilter.label "Tlhama Setlhotlhi go tswa mo Molaetseng...">
-<!ENTITY CreateFilter.accesskey "S">
-<!ENTITY BlockAddress.label "Kgoreletsa Aterese">
-<!ENTITY BlockAddress.accesskey "A">
+<!ENTITY CopyNewsgroupName.label "Copy Newsgroup Name">
+<!ENTITY CopyNewsgroupName.accesskey "C">
+<!ENTITY CopyNewsgroupURL.label "Copy Newsgroup URL">
+<!ENTITY CopyNewsgroupURL.accesskey "U">
+<!ENTITY CreateFilterFrom.label "Create Filter From…">
+<!ENTITY CreateFilterFrom.accesskey "F">
+<!ENTITY reportPhishingURL.label "Report Email Scam">
+<!ENTITY reportPhishingURL.accesskey "o">
+<!-- Spell checker context menu items -->
+
+<!ENTITY spellAddDictionaries.label "Add Dictionaries…">
+<!ENTITY spellAddDictionaries.accesskey "A">
+<!-- Content Pane Context Menu -->
+
+<!ENTITY saveLinkAsCmd.label "Save Link As…">
+<!ENTITY saveLinkAsCmd.accesskey "k">
+<!ENTITY saveImageAsCmd.label "Save Image As…">
+<!ENTITY saveImageAsCmd.accesskey "v">
+<!ENTITY copyLinkCmd.label "Copy Link Location">
+<!ENTITY copyLinkCmd.accesskey "L">
+<!ENTITY copyImageAllCmd.label "Copy Image">
+<!ENTITY copyImageAllCmd.accesskey "I">
+<!ENTITY copyEmailCmd.label "Copy Email Address">
+<!ENTITY copyEmailCmd.accesskey "E">
+<!ENTITY stopCmd.label "Emisa">
+<!ENTITY stopCmd.accesskey "E">
+<!ENTITY reloadCmd.label "Laisa sešwa">
+<!ENTITY reloadCmd.accesskey "L">
+<!ENTITY openInBrowser.label "Open In Browser">
+<!ENTITY openInBrowser.accesskey "O">
+<!ENTITY openLinkInBrowser.label "Open Link In Browser">
+<!ENTITY openLinkInBrowser.accesskey "O">
 <!-- Statusbar -->
 
 <!ENTITY statusText.label "Feditse">
 <!--  Mac OS X Window Menu -->
 
-<!ENTITY minimizeWindow.key "m">
 <!ENTITY minimizeWindow.label "Ngotla">
+<!ENTITY minimizeWindow.key "m">
 <!ENTITY bringAllToFront.label "Tlisa Tsotlhe Fa Pele">
 <!ENTITY zoomWindow.label "Gogela">
+<!-- Mac OS X Application Menu (Cocoa widgets) -->
+
+<!ENTITY preferencesCmdMac2.label       "Preferences">
+<!ENTITY preferencesCmdMac.commandkey   ",">
+<!ENTITY preferencesCmdMac.modifiers    "accel">
+<!ENTITY servicesMenuMac.label          "Services">
+<!ENTITY hideThisAppCmdMac.label        "Hide &brandShortName;">
+<!ENTITY hideThisAppCmdMac.commandkey   "H">
+<!ENTITY hideThisAppCmdMac.modifiers    "accel">
+<!ENTITY hideOtherAppsCmdMac.label      "Hide Others">
+<!ENTITY hideOtherAppsCmdMac.commandkey "H">
+<!ENTITY hideOtherAppsCmdMac.modifiers  "accel,alt">
+<!ENTITY showAllAppsCmdMac.label        "Show All">
+<!-- Mac OS X Dock Icon pop-up menu -->
+
+<!ENTITY dockOptions.label              "App Icon Options…">

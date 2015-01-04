@@ -1,9 +1,12 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!-- extracted from am-main.xul -->
+
 
 <!ENTITY accountTitle.label "Boalo jwa Diakhaonto">
 <!ENTITY accountName.label "Leina la Akhaonto:">
 <!ENTITY accountName.accesskey "L">
-<!ENTITY accountNameDesc.label "Leina la akhaonto le dirisediwa go supa akhaonto nngwe le nngwe">
 <!ENTITY identityTitle.label "Boitshupo jo bo Rulaganyeditsweng Ruri">
 <!ENTITY identityDesc.label "Akhaonto nngwe le nngwe e na le boitshupo, e leng tshedimosetso e batho ba bangwe ba e bonang fa ba buisa melaesa ya gago.">
 <!ENTITY name.label "Leina la Gago:">
@@ -12,10 +15,15 @@
 <!ENTITY email.accesskey "A">
 <!ENTITY replyTo.label "Aterese ya Arabela-go:">
 <!ENTITY replyTo.accesskey "s">
+<!ENTITY replyTo.placeholder "Recipients will reply to this other address">
 <!ENTITY organization.label "Setlamo:">
 <!ENTITY organization.accesskey "S">
-<!ENTITY signature.label "Mametlelela mosaeno ono:">
-<!ENTITY signature.accesskey "a">
+<!ENTITY signatureText.label "Signature text:">
+<!ENTITY signatureText.accesskey "x">
+<!ENTITY signatureHtml.label "Use HTML (e.g., &lt;b&gt;bold&lt;/b&gt;)">
+<!ENTITY signatureHtml.accesskey "L">
+<!ENTITY signatureFile.label "Attach the signature from a file instead (text, HTML, or image):">
+<!ENTITY signatureFile.accesskey "t">
 <!ENTITY edit.label "Tseleganya...">
 <!ENTITY choose.label "Tlhopha...">
 <!ENTITY choose.accesskey "T">

@@ -1,4 +1,8 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!-- extracted from MsgSynchronize.xul and msgSelectOffline.xul-->
+
 
 <!ENTITY MsgSynchronize.label "Kopolola le go Sync Melaetsa">
 <!ENTITY MsgSelect.label "Dilwana tse di tla dirisiwang fa go Kgaogilwe Nakwana">
@@ -13,7 +17,7 @@
 <!ENTITY workOffline.label "Dira fa go kgaogilwe nakwana fela fa kopololo le/gongwe sync e feditswe">
 <!ENTITY workOffline.accesskey "D">
 <!ENTITY selectButton.label "Thopha...">
-<!ENTITY selectButton.accesskey "H">
+<!ENTITY selectButton.accesskey "h">
 <!ENTITY MsgSelectDesc.label "Tlhopha ditsholadifaele tsa poso le ditlhopha tsa dikgang go dirisiwa fa go kgaogilwe nakwana.">
 <!ENTITY MsgSelectInd.label "Kopolola">
 <!ENTITY MsgSelectItems.label "Ditsholadifaele le Ditlhopha tsa dikgang">
