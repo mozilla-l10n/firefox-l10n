@@ -3,9 +3,5 @@
    - You can obtain one at http://mozilla.org/MPL/2.0/.  -->
 <!ENTITY fileExceedsQuota.title   "Hightail">
 <!ENTITY fileExceedsQuota.storageLimitReached   "Lagringsbegrensing er nådd">
-<!ENTITY fileExceedsQuota.accept "Oppgrader">
-<!ENTITY fileExceedsQuota.cancel "Avbryt">
 <!ENTITY fileExceedsQuota.description "Du har nådd kontobegrensingen på 2 GB.">
 <!ENTITY fileExceedsQuota.description1 "Nåværende lagringsforbruk er #XXX GB.">
-<!ENTITY fileExceedsQuota.description2 "Oppgrader til Pro Plus-konto og få mer lagringsplass.">
-<!ENTITY fileExceedsQuota.description3 "Du kan også velge å slette filer fra kontoen din for å få mer plass.">

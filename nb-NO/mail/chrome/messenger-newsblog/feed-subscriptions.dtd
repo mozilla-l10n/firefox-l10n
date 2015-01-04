@@ -4,7 +4,7 @@
 
 <!-- Subscription Dialog -->
 <!ENTITY feedSubscriptions.label     "Abonnement på nyhetskilder">
-<!ENTITY subscriptionDesc.label      "Merk: Sletting eller endring av en mappe for en nyhetskilde vil ikke påvirke tidligere nedlastede artikler.">
+<!ENTITY learnMore.label             "Les mer om nyhetskilder">
 
 <!ENTITY feedTitle.label             "Tittel:">
 <!ENTITY feedTitle.accesskey         "T">
@@ -12,6 +12,8 @@
 <!ENTITY feedLocation.label          "Kilde-URL:">
 <!ENTITY feedLocation.accesskey      "K">
 <!ENTITY feedLocation.placeholder    "Skriv inn en gyldig nyhetskilde-url å legge til">
+<!ENTITY locationValidate.label      "Valider">
+<!ENTITY validateText.label          "Kontroller validering og hent gyldig url.">
 
 <!ENTITY feedFolder.label            "Lagre artikler i:">
 <!ENTITY feedFolder.accesskey        "L">
@@ -24,9 +26,6 @@
 <!ENTITY autotagUsePrefix.label      "Prefiks på tagger:">
 <!ENTITY autotagUsePrefix.accesskey  "P">
 <!ENTITY autoTagPrefix.placeholder   "Skriv inn taggprefiks">
-
-<!ENTITY locationValidate.label      "Valider">
-<!ENTITY validateText.label          "Kontroller validering og hent gyldig url.">
 
 <!ENTITY button.addFeed.label        "Legg til">
 <!ENTITY button.addFeed.accesskey    "L">
