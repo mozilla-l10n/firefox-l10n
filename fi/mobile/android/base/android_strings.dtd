@@ -362,7 +362,7 @@ size. -->
 <!ENTITY site_settings_no_settings  "Ei löytynyt tallennettuja asetuksia.">
 
 <!ENTITY reading_list_added "Sivu lisättiin lukulistalle">
-<!ENTITY reading_list_failed "Sivun lisääminen lukulistalle epäonnistui">
+<!ENTITY reading_list_duplicate "Sivu on jo lukulistalla">
 
 <!-- Localization note (reading_list_time_minutes2) : This string is used in the "Reading List"
      panel on the home page to give the user an estimate of how many minutes it will take to
