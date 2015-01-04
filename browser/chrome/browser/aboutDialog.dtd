@@ -10,8 +10,8 @@
 
 <!ENTITY update.checkForUpdatesButton.label       "Tlhola Ditlhabololo">
 <!ENTITY update.checkForUpdatesButton.accesskey   "T">
-<!ENTITY update.updateButton.label                "Simolodisa go Tlhabolola">
-<!ENTITY update.updateButton.accesskey            "S">
+<!ENTITY update.updateButton.label2                "Simolola sešwa &brandShortName; go Tlhabolola">
+
 <!ENTITY update.applyButtonBillboard.label        "Dirisa Ditlhabololo...">
 <!ENTITY update.applyButtonBillboard.accesskey    "D">
 <!-- LOCALIZATION NOTE (warningDesc.version): This is a warning about the experimental nature of Nightly and Aurora builds. It is only shown in those versions. -->
@@ -38,10 +38,12 @@
 <!ENTITY community.creditsLink      "sechaba se se feletseng">
 <!ENTITY community.end3             "Pereko mmogo go tlhokomela gore webo e bulegela botlhe le gore e letlelesega go dirisiwa ke botlhe.">
 
-<!ENTITY contribute.start           "A e utlwala e kgatlhisa?">
-<!-- LOCALIZATION NOTE (contribute.getInvolvedLink): This is a link title that links to http://www.mozilla.org/contribute/. -->
-<!ENTITY contribute.getInvolvedLink "Tsaya karolo!!">
-<!ENTITY contribute.end             "">
+<!ENTITY helpus.start               "O batla go thusa?">
+<!-- LOCALIZATION NOTE (helpus.donateLink): This is a link title that links to https://sendto.mozilla.org/page/contribute/Give-Now?source=mozillaorg_default_footer&ref=firefox_about&utm_campaign=firefox_about&utm_source=firefox&utm_medium=referral&utm_content=20140929_FireFoxAbout. -->
+<!ENTITY helpus.donateLink          "Dira kabelano">
+<!ENTITY helpus.middle              "kgotsa">
+<!-- LOCALIZATION NOTE (helpus.getInvolvedLink): This is a link title that links to http://www.mozilla.org/contribute/. -->
+<!ENTITY helpus.end                 "">
 <!-- LOCALIZATION NOTE (bottomLinks.license): This is a link title that links to about:license. -->
 
 <!ENTITY bottomLinks.license        "Tshedimosetso ya Laesense">

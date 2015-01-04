@@ -1,40 +1,37 @@
-<!ENTITY generalSettings.caption "Boalo jo bo Rulaganyeditsweng Ruri">
-<!ENTITY generalSettings.label "Dira &brandShortName; serweboleta se se rulaganyeditsweng ruri sa:">
-<!ENTITY setDefaultMailClient.label "Poso">
-<!ENTITY setDefaultMailClient.accesskey "P">
-<!ENTITY setDefaultNewsClient.label "Dikgang">
-<!ENTITY setDefaultNewsClient.accesskey "D">
-<!ENTITY setDefaultFeedClient.label "Phepo ya RSS">
-<!ENTITY setDefaultFeedClient.accesskey "P">
-<!ENTITY checkDefaultMailClient.label "&brandShortName; should check to see if it is the default mail client when starting">
-<!ENTITY checkDefaultMailClient.accesskey "n">
-<!ENTITY defaultClientAdvanced.label "Advanced...">
-<!ENTITY defaultClientAdvanced.accesskey "d">
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY windowSettings.label "Thulaganyo ya Fensetere">
-<!ENTITY selectWindowLayout.label "Tlhopha kalo ya fensetere e o e ratang ya Poso.">
-<!ENTITY selectWindowLayout.accesskey "T">
+<!ENTITY messengerStartPage.label         "Tsebe ya Tshimololo ya &brandShortName;">
+<!ENTITY enableStartPage.label            "Fa &brandShortName; e tlhoma, bontsha Tsebe ya Tshimololo mo lefelong la molaetsa">
+<!ENTITY enableStartPage.accesskey        "F">
+<!ENTITY location.label                   "Lefelo:">
+<!ENTITY location1.accesskey               "o">
+<!ENTITY useDefault.label                 "Busetsa Thulaganyetso ruri">
+<!ENTITY useDefault.accesskey             "B">
 
-<!ENTITY messengerStartPage.label "Tsebe ya Tshimololo ya &brandShortName;">
-<!ENTITY enableStartPage.label "Fa &brandShortName; e tlhoma, bontsha Tsebe ya Tshimololo mo lefelong la molaetsa">
-<!ENTITY enableStartPage.accesskey "F">
-<!ENTITY location.label "Lefelo:">
-<!ENTITY location.accesskey "L">
-<!ENTITY useDefault.label "Busetsa Thulaganyetso ruri">
-<!ENTITY useDefault.accesskey "B">
+<!ENTITY changeDockIconOptions.label      "Change preferences for the app icon">
+<!ENTITY dockOptions.label                "App Icon Options…">
+<!ENTITY dockOptions.accesskey            "n">
 
-<!ENTITY bounceSystemDockIcon.label "Dira aekhone ya tokumente go nna setshwantsho">
-<!ENTITY bounceSystemDockIcon.accesskey "t">
+<!ENTITY newMessagesArrive.label          "Fa molaetsa o montšhwa o goroga:">
+<!ENTITY playSound.label                  "Tshameka modumo">
+<!ENTITY playSound1.accesskey              "d">
+<!ENTITY showAnimatedAlert.label          "Bontsha modumo">
+<!ENTITY showAnimatedAlert.accesskey      "B">
+<!ENTITY customizeMailAlert.label         "Customize…">
+<!ENTITY customizeMailAlert.accesskey     "C">
 
-<!ENTITY newMessagesArrive.label "Fa molaetsa o montšhwa o goroga:">
-<!ENTITY playSound.label "Tshameka modumo">
-<!ENTITY playSound.accesskey "T">
-<!ENTITY showAnimatedAlert.label "Bontsha modumo">
-<!ENTITY showAnimatedAlert.accesskey "B">
-<!ENTITY soundbutton.label "Advanced...">
-<!ENTITY soundbutton.accesskey "A">
+<!ENTITY showTrayIcon.label               "Show a tray icon">
+<!ENTITY showTrayIcon.accesskey           "t">
 
-<!ENTITY showConnections.label "Boalo jwa Kgolagano...">
-<!ENTITY showConnections.accesskey "o">
-<!ENTITY proxiesInfo.label "Swetsa gore &brandShortName; e golagana jang mo Inthaneteng.">
-<!ENTITY connectionsInfo.caption "Kgolagano">
+<!ENTITY play.label                       "Play">
+<!ENTITY play.accesskey                   "P">
+<!ENTITY systemsound.label                "Default system sound for new mail">
+<!ENTITY systemsoundMac.label             "System Alert Sound">
+<!ENTITY systemsoundMac.accesskey         "y">
+<!ENTITY systemsound.accesskey            "y">
+<!ENTITY customsound.label                "Use the following sound file">
+<!ENTITY customsound.accesskey            "U">
+<!ENTITY browse.label                     "Browse…">
+<!ENTITY browse.accesskey                 "B">

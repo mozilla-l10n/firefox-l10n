@@ -25,6 +25,10 @@ kwa le felong le le siameng. Le fa go ntse jalo, boitshupo jwa saete e ga bo ka 
 <!ENTITY certerror.whatShouldIDo.content "Fa o tlwaetse go golagana le 
 saete e go sena mathata, phoso e, e ka ra gore mongwe o 
 leka go tsietsa saete, ka jalo ga wa tshwanela go tshwelela.">
+<!ENTITY certerror.whatShouldIDo.badStsCertExplanation "saete e dirisa HTTP 
+Mokgwa o nonofileng wa thomelo e sireletsegileng (HSTS) go nankola gore &brandShortName; go golagana fela 
+ mo go yone ka tshireletsego. Ka ntlha e, ga go kgonagale go tsenya kemisetso ya 
+setifikeiti.">
 <!ENTITY certerror.getMeOutOfHere.label "Nkentshe fa!">
 
 <!ENTITY certerror.expert.heading "Ke Tlhaloganya Ditlamorago">

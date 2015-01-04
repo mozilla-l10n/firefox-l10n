@@ -4,9 +4,6 @@
 
 <!ENTITY  fontsDialog.title                       "Difonto">
 
-<!ENTITY  window.macWidth                         "43em">
-
-
 
 
 <!ENTITY  size.label                              "Bogolo:">
@@ -22,9 +19,10 @@
 <!ENTITY  sans-serif.accesskey                    "n">
 <!ENTITY  monospace.label                         "Monosepeisi:">
 <!ENTITY  monospace.accesskey                     "M">
+<!-- LOCALIZATION NOTE (font.langGroup.latin) :
+     Translate "Latin" as the name of Latin (Roman) script, not as the name of the Latin language. -->
 
-<!ENTITY  font.langGroup.latin1                   "Bophirima">
-<!ENTITY  font.langGroup.latin2                   "Yuropa Bogare">
+<!ENTITY  font.langGroup.latin                    "SeLatin">
 
 <!ENTITY  font.langGroup.trad-chinese             "SeTšhaena sa Setso (Taiwan)">
 <!ENTITY  font.langGroup.simpl-chinese            "SeTšhaena se se Nolofaditsweng">
@@ -33,8 +31,6 @@
 
 
 
-
-<!ENTITY  font.langGroup.unicode                  "Dipuo Tse Dingwe">
 
 
 

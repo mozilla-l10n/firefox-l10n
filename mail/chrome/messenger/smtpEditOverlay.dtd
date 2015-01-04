@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY settings.caption "Boalo">
 <!ENTITY security.caption "Pabalesego le go Rurifadiwa">
 <!ENTITY serverName.label "Leina la Dikgatlho:">
@@ -6,18 +10,15 @@
 <!ENTITY serverDescription.accesskey "T">
 <!ENTITY serverPort.label "Setshwaraganyi:">
 <!ENTITY serverPort.accesskey "S">
-<!ENTITY alwaysUseUsername.label "Leina la modirisi le khunololamoraba">
-<!ENTITY alwaysUseUsername.accesskey "L">
 <!ENTITY userName.label "Leina la Modirisi:">
 <!ENTITY userName.accesskey "d">
-<!ENTITY isSecure.label "Dirisa kgolagano e e babalesegileng:">
-<!ENTITY neverSecure.label "Nnyaa">
-<!ENTITY neverSecure.accesskey "N">
-<!ENTITY sometimesSecure.label "TLS, fa e le gona">
-<!ENTITY sometimesSecure.accesskey "g">
-<!ENTITY alwaysSecure.label "TLS">
-<!ENTITY alwaysSecure.accesskey "T">
-<!ENTITY alwaysSmtpS.label "SSL">
-<!ENTITY alwaysSmtpS.accesskey "L">
+<!ENTITY connectionSecurity.label "Connection security:">
+<!ENTITY connectionSecurity.accesskey "n">
+<!ENTITY connectionSecurityType-0.label "None">
+<!ENTITY connectionSecurityType-1.label "STARTTLS, if available">
+<!ENTITY connectionSecurityType-2.label "STARTTLS">
+<!ENTITY connectionSecurityType-3.label "SSL/TLS">
 <!ENTITY smtpEditTitle.label "Dikgatlhong tsa SMTP">
 <!ENTITY serverPortDefault.label "Thulaganyetso ruri:">
+<!ENTITY authMethod.label "Authentication method:">
+<!ENTITY authMethod.accesskey "i">
