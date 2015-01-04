@@ -15,7 +15,7 @@
 <!ENTITY projectMenu_selectApp_label "Atverti programą…">
 <!ENTITY projectMenu_selectApp_accesskey "A">
 <!ENTITY projectMenu_play_label "Įdiegti ir paleisti">
-
+<!ENTITY projectMenu_play_accesskey "l">
 <!ENTITY projectMenu_stop_label "Stabdyti programą">
 <!ENTITY projectMenu_stop_accesskey "S">
 <!ENTITY projectMenu_debug_label "Derinti programą">
@@ -23,9 +23,9 @@
 <!ENTITY projectMenu_remove_label "Pašalinti projektą">
 <!ENTITY projectMenu_remove_accesskey "š">
 <!ENTITY projectMenu_showPrefs_label "Nuostatos">
-<!ENTITY projectMenu_showPrefs_accesskey "s">
+<!ENTITY projectMenu_showPrefs_accesskey "o">
 <!ENTITY projectMenu_manageComponents_label "Tvarkyti papildomus komponentus">
-
+<!ENTITY projectMenu_manageComponents_accesskey "k">
 
 <!ENTITY runtimeMenu_label "Įrenginys">
 <!ENTITY runtimeMenu_accesskey "n">
@@ -40,18 +40,18 @@
 <!ENTITY runtimeMenu_showMonitor_label "Stebyklė">
 <!ENTITY runtimeMenu_showMonitor_accesskey "S">
 <!ENTITY runtimeMenu_showDevicePrefs_label "Įrenginio nuostatos">
-
+<!ENTITY runtimeMenu_showDevicePrefs_accesskey "n">
 
 <!ENTITY viewMenu_label "Rodymas">
 <!ENTITY viewMenu_accesskey "R">
 <!ENTITY viewMenu_toggleEditor_label "Rodyti / nerodyti rengyklės">
 <!ENTITY viewMenu_toggleEditor_accesskey "R">
 <!ENTITY viewMenu_zoomin_label "Padidinti">
-
+<!ENTITY viewMenu_zoomin_accesskey "d">
 <!ENTITY viewMenu_zoomout_label "Sumažinti">
-
-<!ENTITY viewMenu_resetzoom_label "Atstatyti mastelį">
-
+<!ENTITY viewMenu_zoomout_accesskey "m">
+<!ENTITY viewMenu_resetzoom_label "Originalus mastelis">
+<!ENTITY viewMenu_resetzoom_accesskey "O">
 
 <!ENTITY projectButton_label "Atverti programą">
 <!ENTITY runtimeButton_label "Pasirinkite įrenginį">
