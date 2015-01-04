@@ -24,6 +24,8 @@
 <!ENTITY projectMenu_remove_accesskey "R">
 <!ENTITY projectMenu_showPrefs_label "Preferências">
 <!ENTITY projectMenu_showPrefs_accesskey "e">
+<!ENTITY projectMenu_manageComponents_label "Gerir componentes extra">
+<!ENTITY projectMenu_manageComponents_accesskey "m">
 
 <!ENTITY runtimeMenu_label "Runtime">
 <!ENTITY runtimeMenu_accesskey "x">
@@ -37,13 +39,19 @@
 <!ENTITY runtimeMenu_showDetails_accesskey "u">
 <!ENTITY runtimeMenu_showMonitor_label "Monitor">
 <!ENTITY runtimeMenu_showMonitor_accesskey "M">
+<!ENTITY runtimeMenu_showDevicePrefs_label "Preferências do dispositivo">
+<!ENTITY runtimeMenu_showDevicePrefs_accesskey "D">
 
 <!ENTITY viewMenu_label "Ver">
 <!ENTITY viewMenu_accesskey "V">
 <!ENTITY viewMenu_toggleEditor_label "Trocar editor">
 <!ENTITY viewMenu_toggleEditor_accesskey "e">
-<!ENTITY viewMenu_showAddons_label "Gerir simuladores">
-<!ENTITY viewMenu_showAddons_accesskey "m">
+<!ENTITY viewMenu_zoomin_label "Aumentar">
+<!ENTITY viewMenu_zoomin_accesskey "u">
+<!ENTITY viewMenu_zoomout_label "Diminuir">
+<!ENTITY viewMenu_zoomout_accesskey "i">
+<!ENTITY viewMenu_resetzoom_label "Reiniciar">
+<!ENTITY viewMenu_resetzoom_accesskey "R">
 
 <!ENTITY projectButton_label "Abrir aplicação">
 <!ENTITY runtimeButton_label "Selecionar Runtime">
@@ -59,14 +67,19 @@
 <!ENTITY key_toggleToolbox "VK_F12">
 <!-- toggle sidebar -->
 <!ENTITY key_toggleEditor "B">
+<!-- zoom -->
+<!ENTITY key_zoomin "+">
+<!ENTITY key_zoomin2 "=">
+<!ENTITY key_zoomout "-">
+<!ENTITY key_resetzoom "0">
 
 <!ENTITY projectPanel_myProjects "Meus projetos">
 <!ENTITY projectPanel_runtimeApps "Aplicações Runtime">
 <!ENTITY projectPanel_tabs "Separadores">
-<!ENTITY runtimePanel_USBDevices "Dispositivos USB">
-<!ENTITY runtimePanel_WiFiDevices "Dispositivos Wi-Fi">
-<!ENTITY runtimePanel_simulators "Simuladores">
-<!ENTITY runtimePanel_custom "Personalizado">
+<!ENTITY runtimePanel_usb "Dispositivos USB">
+<!ENTITY runtimePanel_wifi "Dispositivos Wi-Fi">
+<!ENTITY runtimePanel_simulator "Simuladores">
+<!ENTITY runtimePanel_other "Personalizado">
 <!ENTITY runtimePanel_installsimulator "Instalar simulador">
 <!ENTITY runtimePanel_noadbhelper "Instalar ADB Helper">
 <!ENTITY runtimePanel_nousbdevice "Não vê o seu dispositivo?">
@@ -100,11 +113,11 @@
 <!ENTITY prefs_editor_title "Editor">
 <!ENTITY prefs_general_title "Geral">
 <!ENTITY prefs_restore "Restaurar pré-definições">
-<!ENTITY prefs_simulators "Gerir simuladores">
-<!ENTITY prefs_options_enablelocalruntime "Ativar runtime local">
-<!ENTITY prefs_options_enablelocalruntime_tooltip "Permite ao WebIDE ligar-se ao seu próprio runtime (instância do navegador em execução)">
+<!ENTITY prefs_manage_components "gerir componentes extra">
+<!ENTITY prefs_options_autoconnectruntime "Religar ao runtime anterior">
+<!ENTITY prefs_options_autoconnectruntime_tooltip "Religar ao runtime anterior quando o WebIDE inicia">
 <!ENTITY prefs_options_rememberlastproject "Lembrar último projeto">
-<!ENTITY prefs_options_rememberlastproject_tooltip "Restaura o projeto anterior quando o WebIDE inicia">
+<!ENTITY prefs_options_rememberlastproject_tooltip "Restaurar o projeto anterior quando o WebIDE inicia">
 <!ENTITY prefs_options_templatesurl "Modelos URL">
 <!ENTITY prefs_options_templatesurl_tooltip "Indíce dos modelos disponíveis">
 <!ENTITY prefs_options_showeditor "Mostrar editor">
@@ -133,6 +146,17 @@
 <!ENTITY runtimedetails_restrictedPrivileges "DevTools previlégios restritos: ">
 <!ENTITY runtimedetails_requestPrivileges "pedir elevação de previlégios">
 <!ENTITY runtimedetails_privilegesWarning "(Irá reiniciar o dispositivo. necessita de acesso root.)">
+
+<!-- Device Preferences -->
+<!ENTITY devicepreferences_title "Preferências do dispositivo">
+<!ENTITY devicepreferences_search "Preferências da pesquisa">
+<!ENTITY devicepreferences_newname "Novo nome da preferência">
+<!ENTITY devicepreferences_newtext "Valor da preferência">
+<!ENTITY devicepreferences_addnew "Adicionar nova preferência">
+<!ENTITY devicepreferences_typeboolean "Boleano">
+<!ENTITY devicepreferences_typenumber "Inteiro">
+<!ENTITY devicepreferences_typestring "String">
+<!ENTITY devicepreferences_typenone "Selecione um tipo">
 
 <!-- Monitor -->
 <!ENTITY monitor_title "Monitor">
