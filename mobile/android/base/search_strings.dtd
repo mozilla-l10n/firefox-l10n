@@ -8,7 +8,7 @@
       the currently selected search engine. -->
 <!ENTITY search_bar_hint                        'Otsi otsingumootoriga &formatS;'>
 
-<!ENTITY search_empty_title                     '&brandShortName;i otsing'>
+<!ENTITY search_empty_title2                    'Alusta otsimist'>
 <!ENTITY search_empty_message                   'Otsi kiiresti kõike vajalikku'>
 
 <!--  Localization note (search_plus_content_description): This is the content description
