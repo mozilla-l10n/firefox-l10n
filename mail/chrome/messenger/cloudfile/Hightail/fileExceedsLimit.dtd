@@ -3,5 +3,5 @@
    - You can obtain one at http://mozilla.org/MPL/2.0/.  -->
 
 <!ENTITY fileExceedsLimit.title "Hightail">
-<!ENTITY fileExceedsLimit.thatsBigFile3 "L'invio di file di dimensioni superiori a 50 Mb non è consentito per account non premium.">
+<!ENTITY fileExceedsLimit.thatsBigFile3 "L'invio di file di dimensioni superiori a 50 MB non è consentito per account non premium.">
 <!ENTITY fileExceedsLimit.style "width: 40em; min-height: 20em;">
