@@ -69,7 +69,7 @@
 <!ENTITY alwaysAuthenticate.accesskey "c">
 <!ENTITY newsrcFilePath.label "Arquivo newsrc:">
 <!ENTITY newsrcPicker.label "Selecionar arquivo newsrc">
-<!ENTITY abbreviate.label "Exibir nomes de newsgroups na área de pastas como:">
+<!ENTITY abbreviate.label "Exibir nomes de grupos de notícias na área de pastas como:">
 <!ENTITY abbreviateOn.label "Nome completo (por exemplo, &quot;netscape.public.mozilla.mail-news&quot;)">
 <!ENTITY abbreviateOff.label "Nomes abreviados (por exemplo, &quot;n.p.m.mail-news&quot;)">
 <!ENTITY advancedButton.label "Avançado...">
