@@ -5,7 +5,7 @@
 <!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd">
 %brandDTD;
 
-<!ENTITY loadError.label "Ocorreu um problema ao carregar a página">
+<!ENTITY loadError.label "Ocorreu um erro ao carregar a página">
 <!ENTITY retry.label "Tentar novamente">
 
 <!-- Specific error messages -->
@@ -19,13 +19,13 @@
 <!ENTITY dnsNotFound.title "Servidor não encontrado">
 <!ENTITY dnsNotFound.longDesc "
 <ul>
- <li>Verifique erros de escrita no endereço tais como
+ <li>Procure erros de escrita no endereço tais como
    <strong>ww</strong>.exemplo.com em vez de
    <strong>www</strong>.exemplo.com</li>
  <li>Se não conseguir carregar qualquer página, verifique a ligação do seu computador
    à rede.</li>
- <li>Se o seu computador ou rede estão protegidos por uma firewall ou um proxy, verifique
-   se o &brandShortName; tem permissão de acesso à Internet.</li>
+ <li>Se o seu computador ou rede estão protegidos por uma firewall ou proxy, verifique
+   se o &brandShortName; tem permissão para aceder à web.</li>
 </ul>
 ">
 
