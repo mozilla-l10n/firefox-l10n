@@ -164,9 +164,10 @@
 <!ENTITY fxaccount_account_create_not_allowed_learn_more 'Les mer'>
 
 <!ENTITY fxaccount_confirm_account_header 'Bekreft kontoen'>
-<!-- Localization note: &formatS; is the Firefox account's email address. -->
+<!-- Localization note: &formatS; is the Firefox Account's email address. -->
 <!ENTITY fxaccount_confirm_account_verification_link 'En bekreftelseslenke er sendt til &formatS;'>
 <!ENTITY fxaccount_confirm_account_resend_email 'Send e-post på nytt'>
+<!ENTITY fxaccount_confirm_account_change_email 'Glem denne e-postadressen?'>
 <!ENTITY fxaccount_confirm_account_verification_link_sent2 'E-postbekreftelse sendt'>
 <!ENTITY fxaccount_confirm_account_verification_link_not_sent2 'Klarte ikke sende e-postbekreftelse'>
 
@@ -186,6 +187,8 @@
 <!ENTITY fxaccount_status_header2 'Firefox-konto'>
 <!ENTITY fxaccount_status_signed_in_as 'Logget inn som'>
 <!ENTITY fxaccount_status_auth_server 'Kontoserver'>
+<!ENTITY fxaccount_status_sync_now 'Synk nå'>
+<!ENTITY fxaccount_status_syncing2 'Synkroniserer …'>
 <!ENTITY fxaccount_status_device_name 'Enhetsnavn'>
 <!ENTITY fxaccount_status_sync_server 'Sync-server'>
 <!ENTITY fxaccount_status_sync '&syncBrand.shortName.label;'>
@@ -244,6 +247,6 @@
 <!ENTITY fxaccount_remote_error_COULD_NOT_CONNECT 'Klarte ikke koble til nettverket'>
 
 <!ENTITY fxaccount_sync_sign_in_error_notification_title2 '&syncBrand.shortName.label; er ikke tilkoblet'>
-<!-- Note to translators: the format string below will be replaced
+<!-- Localization note: the format string below will be replaced
      with the Firefox Account's email address. -->
 <!ENTITY fxaccount_sync_sign_in_error_notification_text2 'Trykk for å logge inn som &formatS;'>

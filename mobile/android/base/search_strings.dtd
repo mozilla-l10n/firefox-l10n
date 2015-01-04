@@ -8,7 +8,7 @@
       the currently selected search engine. -->
 <!ENTITY search_bar_hint 'Søk med &formatS;'>
 
-<!ENTITY search_empty_title '&brandShortName; Søk'>
+<!ENTITY search_empty_title2 'Start søk'>
 <!ENTITY search_empty_message 'Søk raskt etter hva du vil'>
 
 <!--  Localization note (search_plus_content_description): This is the content description
