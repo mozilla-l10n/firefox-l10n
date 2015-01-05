@@ -166,6 +166,7 @@
 <!-- Localization note: &formatS; is the Firefox account's email address. -->
 <!ENTITY fxaccount_confirm_account_verification_link '인증 메일이 &formatS;로 전송되었습니다.'>
 <!ENTITY fxaccount_confirm_account_resend_email '메일 재전송'>
+<!ENTITY fxaccount_confirm_account_change_email '메일 주소를 잊어버렸나요?'>
 <!ENTITY fxaccount_confirm_account_verification_link_sent2 '인증 메일 전송 됨'>
 <!ENTITY fxaccount_confirm_account_verification_link_not_sent2 '인증 메일을 전송할 수 없음'>
 
@@ -185,6 +186,8 @@
 <!ENTITY fxaccount_status_header2 'Firefox 계정'>
 <!ENTITY fxaccount_status_signed_in_as '로그인 됨'>
 <!ENTITY fxaccount_status_auth_server '계정 서버'>
+<!ENTITY fxaccount_status_sync_now '지금 동기화'>
+<!ENTITY fxaccount_status_syncing2 '동기화 중…'>
 <!ENTITY fxaccount_status_device_name '기기명'>
 <!ENTITY fxaccount_status_sync_server '동기화 서버'>
 <!ENTITY fxaccount_status_sync '&syncBrand.shortName.label;'>
