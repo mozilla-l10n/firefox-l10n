@@ -20,7 +20,8 @@
 <!ENTITY productHelp.accesskey    "B">
 <!ENTITY helpMac.commandkey       "?">
 
-
+<!ENTITY helpKeyboardShortcuts.label     "Pintasan Keyboard">
+<!ENTITY helpKeyboardShortcuts.accesskey "K">
 
 <!ENTITY helpSafeMode.label       "Mulai Ulang dengan Pengaya Dinonaktifkan…">
 <!ENTITY helpSafeMode.accesskey   "n">
@@ -34,7 +35,8 @@
 <!ENTITY helpFeedbackPage.label      "Kirim Saran…">
 <!ENTITY helpFeedbackPage.accesskey  "S">
 
-
+<!ENTITY helpShowTour.label             "Tur &brandShortName;">
+<!ENTITY helpShowTour.accesskey         "u">
 
 <!ENTITY preferencesCmdMac.label        "Pengaturan…">
 <!ENTITY preferencesCmdMac.commandkey   ",">

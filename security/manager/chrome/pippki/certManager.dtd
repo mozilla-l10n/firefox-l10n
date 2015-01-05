@@ -27,14 +27,14 @@
 <!ENTITY certmgr.pending.label                "Sedang memverifikasi sertifikat…">
 <!ENTITY certmgr.subjectinfo.label            "Diterbitkan untuk">
 <!ENTITY certmgr.issuerinfo.label             "Diterbitkan Oleh">
-
+<!ENTITY certmgr.periodofvalidity.label       "Periode Kevalidan" >
 <!ENTITY certmgr.fingerprints.label           "Sidik Jari">
 <!ENTITY certmgr.certdetail.title             "Detail Sertifikat">
 <!ENTITY certmgr.certdetail.cn                "Common Name (CN)">
 <!ENTITY certmgr.certdetail.o                 "Organisasi (O)">
 <!ENTITY certmgr.certdetail.ou                "Unit Organisasi (OU)">
 <!ENTITY certmgr.certdetail.serialnumber      "Nomor Seri">
-
+<!ENTITY certmgr.certdetail.sha256fingerprint "Sidik jari SHA-256">
 <!ENTITY certmgr.certdetail.sha1fingerprint   "Sidik jari SHA1">
 
 <!ENTITY certmgr.editcert.title               "Ubah Pengaturan Sertifikat Keamanan">
@@ -44,9 +44,9 @@
 <!ENTITY certmgr.editcert.trustemail          "Sertifikat ini dapat mengidentifikasi pengguna email.">
 <!ENTITY certmgr.editcert.trustobjsign        "Sertifikat ini dapat mengidentifikasi pembuat perangkat lunak.">
 <!ENTITY certmgr.editemailcert.title          "Ubah pengaturan kepercayaan sertifikat email">
-
-
-
+<!ENTITY certmgr.editemailcert.edittrust      "Ubah pengaturan kepercayaan sertifikat:">
+<!ENTITY certmgr.editemailcert.dotrust        "Percaya keaslian sertifikat ini.">
+<!ENTITY certmgr.editemailcert.donttrust      "Jangan percaya keaslian sertifikat ini.">
 
 <!ENTITY certmgr.deletecert.title             "Hapus Sertifikat">
 <!ENTITY certmgr.deletecert.beforename        "Anda meminta penghapusan sertifikat ini:">
@@ -59,7 +59,7 @@
 <!ENTITY certmgr.certserver                   "Server">
 <!ENTITY certmgr.override_lifetime            "Umur">
 <!ENTITY certmgr.tokenname                    "Perangkat Keamanan">
-
+<!ENTITY certmgr.begins                       "Mulai Sejak">
 <!ENTITY certmgr.expires                      "Kedaluwarsa Pada">
 <!ENTITY certmgr.email                        "Alamat Email">
 <!ENTITY certmgr.serial                       "Nomor Seri">
