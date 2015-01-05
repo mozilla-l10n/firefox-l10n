@@ -141,7 +141,7 @@
 <!ENTITY calendar.task-details.status.label          "status">
 <!ENTITY calendar.task-details.category.label        "kategorija">
 <!ENTITY calendar.task-details.repeat.label          "ponovno">
-<!ENTITY calendar.task-details.attachments.label     "priloge">
+<!ENTITY calendar.task-details.attachments.label     "priponke">
 <!ENTITY calendar.task-details.start.label           "začetni datum">
 <!ENTITY calendar.task-details.due.label             "rok">
 

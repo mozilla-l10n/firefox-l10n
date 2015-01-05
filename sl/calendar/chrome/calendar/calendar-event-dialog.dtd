@@ -67,9 +67,9 @@
 <!ENTITY  event.menu.item.save.label                      "Shrani">
 <!ENTITY  event.menu.item.save.accesskey                  "S">
 <!ENTITY  event.menu.item.saveandclose.label              "Shrani in zapri">
-<!ENTITY  event.menu.item.saveandclose.accesskey          "r">
+<!ENTITY  event.menu.item.saveandclose.accesskey          "a">
 <!ENTITY  event.menu.item.delete.label                    "Izbriši …">
-<!ENTITY  event.menu.item.delete.accesskey                "z">
+<!ENTITY  event.menu.item.delete.accesskey                "b">
 <!ENTITY  event.menu.item.page.setup.label                "Priprava strani">
 <!ENTITY  event.menu.item.page.setup.accesskey            "r">
 <!ENTITY  event.menu.item.print.label                     "Natisni">
@@ -95,7 +95,7 @@
 <!ENTITY  event.menu.view.toolbars.label                  "Orodne vrstice">
 <!ENTITY  event.menu.view.toolbars.accesskey              "O">
 <!ENTITY  event.menu.view.toolbars.event.label            "Orodna vrstica dogodka">
-<!ENTITY  event.menu.view.toolbars.event.accesskey        "d">
+<!ENTITY  event.menu.view.toolbars.event.accesskey        "O">
 <!ENTITY  event.menu.view.toolbars.customize.label        "Prilagodi…">
 <!ENTITY  event.menu.view.toolbars.customize.accesskey    "g">
 <!ENTITY  event.menu.view.showlink.label                  "Prikaži sorodno povezavo">
@@ -148,7 +148,7 @@
 <!ENTITY  event.toolbar.save.tooltip                      "Shrani in zapri">
 <!ENTITY  event.toolbar.delete.tooltip                    "Izbriši">
 <!ENTITY  event.toolbar.attendees.tooltip                 "Povabi udeležence">
-<!ENTITY  event.toolbar.attachments.tooltip               "Dodaj priloge">
+<!ENTITY  event.toolbar.attachments.tooltip               "Dodaj priponke">
 <!ENTITY  event.toolbar.privacy.tooltip                   "Spremeni zasebnost">
 <!ENTITY  event.toolbar.priority.tooltip                  "Spremeni prednost">
 <!ENTITY  event.toolbar.status.tooltip                    "Spremeni stanje">
