@@ -337,10 +337,6 @@ size. -->
 <!ENTITY contextmenu_top_sites_unpin "Website losmaken">
 <!ENTITY contextmenu_add_search_engine "Zoekmachine toevoegen">
 
-<!ENTITY pref_titlebar_mode "Titelbalk">
-<!ENTITY pref_titlebar_mode_title "Paginatitel tonen">
-<!ENTITY pref_titlebar_mode_url "Pagina-adres tonen">
-
 <!-- Localization note (pref_scroll_title_bar2): Label for setting that controls
      whether or not the dynamic toolbar is enabled. -->
 <!ENTITY pref_scroll_title_bar2 "Volledigschermnavigatie">
