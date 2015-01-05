@@ -172,6 +172,8 @@
 <!ENTITY pref_cookies_not_accept_foreign "Ingeschakeld, behalve van derden">
 <!ENTITY pref_cookies_disabled "Uitgeschakeld">
 
+<!ENTITY pref_tracking_protection_title "Volgbescherming">
+<!ENTITY pref_tracking_protection_summary "&brandShortName; zal voorkomen dat websites u volgen">
 <!ENTITY pref_donottrack_title "Niet volgen">
 <!ENTITY pref_donottrack_summary "&brandShortName; zal websites laten weten dat u niet gevolgd wilt worden">
 
