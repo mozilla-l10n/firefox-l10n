@@ -180,9 +180,15 @@
 <!ENTITY fxaccount_account_verified_sub_header 'Account geverifieerd'>
 <!ENTITY fxaccount_account_verified_description2 'Het synchroniseren van uw gegevens zal over enkele ogenblikken beginnen.'>
 
+<!ENTITY fxaccount_migration_finished_header 'Upgrade voltooid'>
+
 <!ENTITY fxaccount_update_credentials_header 'Aanmelden'>
 <!ENTITY fxaccount_update_credentials_button_label 'Aanmelden'>
 <!ENTITY fxaccount_update_credentials_unknown_error 'Kan niet aanmelden'>
+
+<!ENTITY fxaccount_finish_migrating_header 'Meld u aan om het upgraden te voltooien'>
+<!ENTITY fxaccount_finish_migrating_button_label 'Upgraden voltooien'>
+<!ENTITY fxaccount_finish_migrating_description 'Upgraden kan heel veel gegevens verzenden. U kunt het beste met een wifi-netwerk verbonden zijn.'>
 
 <!ENTITY fxaccount_status_header2 'Firefox-account'>
 <!ENTITY fxaccount_status_signed_in_as 'Aangemeld als'>
@@ -198,6 +204,7 @@
 <!ENTITY fxaccount_status_needs_upgrade 'U dient &brandShortName; te upgraden om u aan te melden.'>
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled '&syncBrand.shortName.label; is ingesteld, maar synchroniseert niet automatisch. Schakel “Automatisch synchroniseren” om in Android-instellingen &gt; Gegevensgebruik.'>
 <!ENTITY fxaccount_status_needs_account_enabled '&syncBrand.shortName.label; is ingesteld, maar synchroniseert niet automatisch. Tik om het synchroniseren te starten.'>
+<!ENTITY fxaccount_status_needs_finish_migrating 'Tik om u aan te melden bij uw nieuwe Firefox-account.'>
 <!ENTITY fxaccount_status_bookmarks 'Bladwijzers'>
 <!ENTITY fxaccount_status_history 'Geschiedenis'>
 <!ENTITY fxaccount_status_passwords 'Wachtwoorden'>
@@ -250,3 +257,8 @@
 <!-- Note to translators: the format string below will be replaced
      with the Firefox Account's email address. -->
 <!ENTITY fxaccount_sync_sign_in_error_notification_text2 'Tik om u aan te melden als &formatS;'>
+
+<!ENTITY fxaccount_sync_finish_migrating_notification_title '&syncBrand.shortName.label; upgraden voltooien?'>
+<!-- Localization note: the format string below will be replaced
+     with the Firefox Account's email address. -->
+<!ENTITY fxaccount_sync_finish_migrating_notification_text 'Tik om u aan te melden als &formatS;'>
