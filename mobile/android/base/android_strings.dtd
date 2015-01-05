@@ -429,6 +429,8 @@ size. -->
 <!ENTITY home_remote_tabs_empty "Hier verschijnen uw tabbladen van andere apparaten.">
 <!ENTITY home_remote_tabs_unable_to_connect "Kan geen verbinding maken">
 <!ENTITY home_remote_tabs_need_to_sign_in "Meld u aan om uw Firefox-account opnieuw te verbinden en door te gaan met synchroniseren.">
+<!ENTITY home_remote_tabs_need_to_finish_migrating "Uw Firefox Firefox-account is klaar!">
+
 <!ENTITY home_remote_tabs_trouble_verifying "Probleem bij het verifiëren van uw account?">
 <!ENTITY home_remote_tabs_need_to_verify "Verifieer uw Firefox-account om het synchroniseren te starten.">
 
