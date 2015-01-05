@@ -17,6 +17,7 @@
 <!ENTITY paneApplications.title "Programmas">
 <!ENTITY panePrivacy.title "Privātums">
 <!ENTITY paneSecurity.title "Drošība">
+<!ENTITY  paneSearch.title        "Meklēšana">
 <!ENTITY paneAdvanced.title "Papildu">
 
 <!-- LOCALIZATION NOTE (paneSync.title): This should match syncBrand.shortName.label in ../syncBrand.dtd -->
