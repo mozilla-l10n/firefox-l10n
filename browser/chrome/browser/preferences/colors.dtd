@@ -6,8 +6,12 @@
 <!ENTITY  window.width                    "38em">
 <!ENTITY  window.macWidth                 "41em">
 
-<!ENTITY  allowPagesToUse.label           "Permesi al paĝoj elekti siajn proprajn kolorojn, anstataŭ la elektitaj de mi">
-<!ENTITY  allowPagesToUse.accesskey       "P">
+<!ENTITY  allowPagesToUseColors.label           "Permesi al paĝoj elekti siajn proprajn kolorojn, anstataŭ la elektitaj de mi supre:">
+<!ENTITY  allowPagesToUseColors.accesskey       "A">
+
+<!ENTITY  allowPagesToUseColors.automatic.label "Aŭtomate">
+<!ENTITY  allowPagesToUseColors.always.label    "Ĉiam">
+<!ENTITY  allowPagesToUseColors.never.label     "Neniam">
 
 <!ENTITY  color                           "Teksto kaj fono">
 <!ENTITY  textColor.label                 "Teksto:">
