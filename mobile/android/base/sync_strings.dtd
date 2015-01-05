@@ -170,6 +170,9 @@
 <!ENTITY fxaccount_confirm_account_change_email 'Dit e-mailadres vergeten?'>
 <!ENTITY fxaccount_confirm_account_verification_link_sent2 'Verificatie-e-mail verzonden'>
 <!ENTITY fxaccount_confirm_account_verification_link_not_sent2 'Kan geen verificatie-e-mail verzenden'>
+<!ENTITY fxaccount_resend_unlock_code_button_label 'ontgrendel-e-mail opnieuw verzenden'>
+<!ENTITY fxaccount_unlock_code_sent 'Account ontgrendel-e-mail verzonden'>
+<!ENTITY fxaccount_unlock_code_not_sent 'Kan geen account ontgrendel-e-mail verzenden'>
 
 <!ENTITY fxaccount_sign_in_sub_header 'Aanmelden'>
 <!ENTITY fxaccount_sign_in_button_label 'Aanmelden'>
@@ -252,6 +255,7 @@
 <!ENTITY fxaccount_remote_error_SERVICE_TEMPORARILY_UNAVAILABLE_TO_DUE_HIGH_LOAD 'Server is bezet, probeer het later opnieuw'>
 <!ENTITY fxaccount_remote_error_UNKNOWN_ERROR 'Er was een probleem'>
 <!ENTITY fxaccount_remote_error_COULD_NOT_CONNECT 'Kan niet verbinden met het netwerk'>
+<!ENTITY fxaccount_remote_error_ACCOUNT_LOCKED 'Account is vergrendeld. &formatS1;'>
 
 <!ENTITY fxaccount_sync_sign_in_error_notification_title2 '&syncBrand.shortName.label; is niet verbonden'>
 <!-- Note to translators: the format string below will be replaced
