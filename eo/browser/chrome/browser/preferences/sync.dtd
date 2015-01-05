@@ -78,3 +78,6 @@ both, to better adapt this sentence to their language.
 <!ENTITY welcome.createAccount.label "Krei konton">
 
 <!ENTITY welcome.useOldSync.label "Ĉu vi uzas malnovan version de Speguli?">
+
+<!-- Sync Migration -->
+<!ENTITY migrate.upgradeNeeded      "La sistemo de kontoj de Speguli estas finata. Nova konto de Firefox estas postulata por speguli.">
