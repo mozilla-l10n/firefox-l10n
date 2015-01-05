@@ -421,6 +421,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY searchFor.label              "Search for ">
 <!ENTITY searchWith.label             " with:">
 <!ENTITY changeSearchSettings.button  "Change Search Settings">
+
 <!ENTITY tabView.commandkey           "e">
 
 <!ENTITY openLinkCmdInTab.label       "Відкрити посилання в новій вкладці">
@@ -697,7 +698,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY social.toggleSidebar.label "Показати бічну панель">
 <!ENTITY social.toggleSidebar.accesskey "б">
-
 
 <!ENTITY social.addons.label "Керування службами…">
 
