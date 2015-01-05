@@ -172,10 +172,8 @@
 <!ENTITY pref_cookies_not_accept_foreign "Aktivaj, krom la nerektaj">
 <!ENTITY pref_cookies_disabled "Malaktiva">
 
-<!ENTITY pref_donottrack_menu "Spurado">
-<!ENTITY pref_donottrack_disallow_tracking "Informi al retejoj ke mi ne volas esti spurita">
-<!ENTITY pref_donottrack_allow_tracking "Informi al retejoj ke mi volas esti spurita">
-<!ENTITY pref_donottrack_no_pref "Ne informi al retejoj ion ajn pri miaj preferoj pri spurado">
+<!ENTITY pref_donottrack_title "Ne spuri">
+<!ENTITY pref_donottrack_summary "&brandShortName; informos al la retejoj ke vi ne volas esti spurita">
 
 <!ENTITY pref_char_encoding "Signa enkodigo">
 <!ENTITY pref_char_encoding_on "Montri menuon">
@@ -210,6 +208,9 @@ size. -->
 <!-- Localization note (pref_font_size_preview_text): This paragraph is used as an example to
     demonstrate the font size setting.  It is meant to be whimsical and fun. -->
 <!ENTITY pref_font_size_preview_text "The quick orange fox jumps over your expectations with more speed, more flexibility and more security. As a non-profit, we\'re free to innovate on your behalf without any pressure to compromise. That means a better experience for you and a brighter future for the Web.">
+
+<!ENTITY pref_media_autoplay_enabled "Permesi aŭtomatan ludadon">
+<!ENTITY pref_media_autoplay_enabled_summary "Decidi ĉu retejoj povas aŭtomate ludi filmetojn aŭ aliajn aŭdvidajn enhavojn">
 
 <!ENTITY pref_use_master_password "Uzi ĉefan pasvorton">
 <!ENTITY pref_sync "Spegulado">
@@ -361,8 +362,13 @@ size. -->
 <!ENTITY site_settings_no_settings  "Estas neniu viŝebla agordo.">
 
 <!ENTITY reading_list_added "Paĝo aldonita al via legolisto">
-<!ENTITY reading_list_failed "Ne eblis aldoni la paĝon al via legolisto">
 <!ENTITY reading_list_duplicate "Paĝo jam en via legolisto">
+
+<!-- Localization note (reading_list_time_minutes2) : This string is used in the "Reading List"
+     panel on the home page to give the user an estimate of how many minutes it will take to
+     read an article. The word "minute" should be abbreviated if possible. -->
+<!ENTITY reading_list_time_minutes2 "&formatD; min">
+<!ENTITY reading_list_time_over_an_hour "Pli ol horo">
 
 <!-- Localization note : These strings are used as alternate text for accessibility.
      They are not visible in the UI. -->
@@ -386,6 +392,9 @@ size. -->
      text underneath empty thumbnails in the Top Sites page on about:home. -->
 <!ENTITY home_top_sites_add "Aldoni retejon">
 
+<!-- Localization note (home_title): This string should be kept in sync
+     with the page title defined in aboutHome.dtd -->
+<!ENTITY home_title "Eka paĝo de &brandShortName;">
 <!ENTITY home_history_title "Historio">
 <!ENTITY home_clear_history_button "Viŝi retesploran historion">
 <!ENTITY home_clear_history_confirm "Ĉu vi certe volas viŝi vian historion?">
@@ -395,6 +404,9 @@ size. -->
 <!ENTITY home_last_tabs_empty "Tie ĉi videblos viaj langetoj el antaŭ nelonge.">
 <!ENTITY home_open_all "Malfermi ĉiujn">
 <!ENTITY home_most_recent_empty "La laste vizititaj retejoj aperas ĉi tie.">
+<!-- Localization note (home_most_recent_emptyhint2): "Psst" is a sound that might be used to attract someone's attention unobtrusively, and intended to hint at Private Browsing to the user.
+     The placeholders &formatS1; and &formatS2; are used to mark the location of text underlining. -->
+<!ENTITY home_most_recent_emptyhint2 "He, sciu ke en &formatS1;nova privata langeto&formatS2; la historio ne estos konservita.">
 <!ENTITY home_reading_list_empty "Artikoloj, kiujn vi konservis por poste, aperas ĉi tie.">
 <!-- Localization note (home_reading_list_hint): The "TIP" string is synonymous to "hint", "clue", etc. This string is displayed
      as an advisory message on how to add content to the reading list when the reading list empty.
@@ -462,11 +474,21 @@ substitution variables.  If it is difficult to translate the sense of the string
 with that structure, consider a translation which ignores the preceding domain and
 just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_run_by "kiu estas funkciigata de">
+<!ENTITY identity_no_info "Tiu ĉi retejo ne provizas identigan informon.">
+<!ENTITY identity_not_encrypted "Via konekto al tiu ĉi retejo ne estas ĉifrita.">
 
 <!-- Mixed content notifications in site identity popup -->
-<!ENTITY loaded_mixed_content_message "This page is displaying content that isn\'t secure.">
-<!ENTITY blocked_mixed_content_message_top "&brandShortName; has blocked content that isn\'t secure.">
-<!ENTITY blocked_mixed_content_message_bottom "Most websites will still work properly even when this content is blocked.">
+<!ENTITY loaded_mixed_content_message "Tiu ĉi paĝo montras enhavon, kiu ne estas sekura.">
+<!ENTITY blocked_mixed_content_message_top "&brandShortName; blokis nesekuran enhavon.">
+<!ENTITY blocked_mixed_content_message_bottom "La plimulto de retejoj plufunkcios bone, eĉ kiam tia ĉi enhavo estas blokita.">
+
+<!-- Tracking content notifications in site identity popup -->
+<!ENTITY loaded_tracking_content_message_top "Kontraŭspura protekto malaktiva.">
+<!ENTITY loaded_tracking_content_message_bottom "Partoj de tiu ĉi paĝo povas spuri vin en la reto.">
+<!ENTITY blocked_tracking_content_message_top2 "Kontraŭspura protekto aktiva.">
+<!ENTITY blocked_tracking_content_message_bottom2 "Partoj de tiu ĉi paĝo, kiuj spuras vin en la reto, estis blokitaj.">
+
+<!-- Common mixed and tracking content strings in site identity popup -->
 <!ENTITY learn_more "Pli da informo">
 <!ENTITY enable_protection "Aktivigi protekton">
 <!ENTITY disable_protection "Malaktivigi protekton">
@@ -491,8 +513,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY webapp_generic_name "Programo">
 
 <!ENTITY searchable_description "Legosignoj kaj historion">
-
-<!ENTITY devtools_remote_debugging_forward "Ne forgesu agordi pordan plusendon!">
 
  <!-- Updater notifications -->
 <!ENTITY updater_start_title2 "Ĝisdatigo havebla por &brandShortName;">
@@ -533,7 +553,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY colon ":">
 
-<!-- These are only used for accessiblity for the done and overflow-menu buttons in the actionbar.
+<!-- These are only used for accessibility for the done and overflow-menu buttons in the actionbar.
      They are never shown to users -->
 <!ENTITY actionbar_menu "Menuo">
 <!ENTITY actionbar_done "Farita">
@@ -545,3 +565,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      "Last synced" is one of the user's other Sync clients, typically Firefox on
      their desktop or laptop.-->
 <!ENTITY remote_tabs_last_synced "Laste spegulita: &formatS;">
+
+<!-- Find-In-Page strings -->
+<!-- LOCALIZATION NOTE (find_matchcase): This is meant to appear as an icon that changes color
+     if match-case is activated. i.e. No more than two letters, one uppercase, one lowercase. -->
+<!ENTITY find_matchcase "Aa">
