@@ -8,7 +8,7 @@
       the currently selected search engine. -->
 <!ENTITY search_bar_hint 'Serĉi per &formatS;'>
 
-<!ENTITY search_empty_title 'Serĉo de &brandShortName;'>
+<!ENTITY search_empty_title2 'Komenci serĉi'>
 <!ENTITY search_empty_message 'Rapide serĉi kion ajn vi volas'>
 
 <!--  Localization note (search_plus_content_description): This is the content description
@@ -19,7 +19,7 @@
 <!ENTITY search_pref_button_content_description 'Agordoj'>
 
 <!ENTITY pref_clearHistory_confirmation 'Historio viŝita'>
-<!ENTITY pref_clearHistory_dialogMessage 'Ĉu forigi la tutan serĉan historion el tiu ĉi aparato?'>
+<!ENTITY pref_clearHistory_dialogMessage 'Ĉu viŝi la tutan serĉan historion de tiu ĉi aparato?'>
 <!ENTITY pref_clearHistory_title 'Viŝi serĉan historion'>
 
 <!ENTITY pref_searchProvider_title 'Serĉilo'>
