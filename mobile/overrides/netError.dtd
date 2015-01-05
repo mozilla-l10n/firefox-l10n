@@ -108,8 +108,8 @@
 </ul>
 ">
 
-<!ENTITY cspFrameAncestorBlocked.title	"콘텐츠 보안 정책에 의해 차단되었습니다">
-<!ENTITY cspFrameAncestorBlocked.longDesc	"<p>콘텐츠 보안 정책에 의해 읽기가 금지된 콘텐츠가 포함되어 있기 때문에 이 페이지의 읽기를 중지했습니다.</p>">
+<!ENTITY cspBlocked.title "콘텐츠 보안 정책에 의해 차단됨">
+<!ENTITY cspBlocked.longDesc "<p>콘텐츠 보안 정책에 의해 읽기가 금지된 콘텐츠가 포함되어 있기 때문에 이 페이지의 읽기를 중지했습니다.</p>">
 
 <!ENTITY corruptedContentError.title "콘텐츠 전송 오류">
 

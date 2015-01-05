@@ -172,10 +172,8 @@
 <!ENTITY pref_cookies_not_accept_foreign "사용하기 (제3자 쿠키 제외)">
 <!ENTITY pref_cookies_disabled "사용 안 함">
 
-<!ENTITY pref_donottrack_menu "추적">
-<!ENTITY pref_donottrack_disallow_tracking "웹 사이트에 방문자 추적 중지 요청 전송">
-<!ENTITY pref_donottrack_allow_tracking "웹 사이트에 방문자 추적 요청 전송">
-<!ENTITY pref_donottrack_no_pref "웹 사이트에 방문자 추적 여부 전송 안 함">
+<!ENTITY pref_donottrack_title "추적 중지">
+<!ENTITY pref_donottrack_summary "&brandShortName;가 사이트들에 방문자 추적 중지 요청을 합니다.">
 
 <!ENTITY pref_char_encoding "문자 인코딩 표시">
 <!ENTITY pref_char_encoding_on "메뉴 보기">
@@ -209,7 +207,10 @@ size. -->
 
 <!-- Localization note (pref_font_size_preview_text): This paragraph is used as an example to
 demonstrate the font size setting.  It is meant to be whimsical and fun. -->
-<!ENTITY pref_font_size_preview_text "불여우는 여러분이 생각하는 속도, 유연성, 안전성을 뛰어넘습니다. 비영리 단체이기 때문에 타협하는 압박 없이 여러분을 위한 혁신을 마음껏 할 수 있습니다. 이것은 여러분에게 더 나은 인터넷 경험과 웹 미래를  밝게 해줄 것입니다.">
+<!ENTITY pref_font_size_preview_text "불여우는 여러분이 생각하는 속도, 유연성, 안전성을 뛰어넘습니다. 비영리 단체이기 때문에 타협하는 압박 없이 여러분을 위한 혁신을 마음껏 할 수 있습니다. 이것은 여러분에게 더 나은 인터넷 경험과 웹 미래를 밝게 해줄 것입니다.">
+
+<!ENTITY pref_media_autoplay_enabled "자동 재생 허가">
+<!ENTITY pref_media_autoplay_enabled_summary "웹 사이트의 영상이나 다른 미디어 콘텐츠에 대한 자동 재생 권한 설정">
 
 <!ENTITY pref_use_master_password "기본 암호 사용">
 <!ENTITY pref_sync "동기화">
@@ -361,8 +362,13 @@ demonstrate the font size setting.  It is meant to be whimsical and fun. -->
 <!ENTITY site_settings_no_settings  "변경할 웹 페이지 설정이 없습니다.">
 
 <!ENTITY reading_list_added "페이지를 읽기 목록에 추가 완료">
-<!ENTITY reading_list_failed "페이지를 읽기 목록에 추가 실패">
 <!ENTITY reading_list_duplicate "이미 읽기 목록에 있음">
+
+<!-- Localization note (reading_list_time_minutes2) : This string is used in the "Reading List"
+     panel on the home page to give the user an estimate of how many minutes it will take to
+     read an article. The word "minute" should be abbreviated if possible. -->
+<!ENTITY reading_list_time_minutes2 "&formatD; 분">
+<!ENTITY reading_list_time_over_an_hour "한 시간 이상">
 
 <!-- Localization note : These strings are used as alternate text for accessibility.
      They are not visible in the UI. -->
@@ -386,6 +392,9 @@ demonstrate the font size setting.  It is meant to be whimsical and fun. -->
      text underneath empty thumbnails in the Top Sites page on about:home. -->
 <!ENTITY home_top_sites_add "사이트 추가">
 
+<!-- Localization note (home_title): This string should be kept in sync
+     with the page title defined in aboutHome.dtd -->
+<!ENTITY home_title "&brandShortName; 홈">
 <!ENTITY home_history_title "방문 기록">
 <!ENTITY home_clear_history_button "방문 기록 삭제">
 <!ENTITY home_clear_history_confirm "방문 기록을 삭제하시겠습니까?">
@@ -395,6 +404,7 @@ demonstrate the font size setting.  It is meant to be whimsical and fun. -->
 <!ENTITY home_last_tabs_empty "이전 종료 시 방문한 탭이 여기에 표시됩니다.">
 <!ENTITY home_open_all "모두 열기">
 <!ENTITY home_most_recent_empty "가장 최근에 방문한 웹사이트가 여기에 표시됩니다.">
+<!ENTITY home_most_recent_emptyhint2 "잠깐! &formatS1;새 사생활 보호 탭&formatS2;을 사용하면 방문 내역이 저장되지 않습니다.">
 <!ENTITY home_reading_list_empty "저장한 글이 여기에 표시됩니다.">
 <!-- Localization note (home_reading_list_hint): The "TIP" string is synonymous to "hint", "clue", etc. This string is displayed
      as an advisory message on how to add content to the reading list when the reading list empty.
@@ -461,11 +471,21 @@ substitution variables.  If it is difficult to translate the sense of the string
 with that structure, consider a translation which ignores the preceding domain and
 just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_run_by "운영 업체 정보:">
+<!ENTITY identity_no_info "이 웹 사이트는 신원 정보를 제공하지 않습니다.">
+<!ENTITY identity_not_encrypted "현재 웹 사이트와는 암호화 통신을 하고 있지 않습니다.">
 
 <!-- Mixed content notifications in site identity popup -->
 <!ENTITY loaded_mixed_content_message "이 페이지는 안전하지 않은 콘텐츠를 보여주고 있습니다.">
 <!ENTITY blocked_mixed_content_message_top "&brandShortName;가 안전하지 않은 콘텐츠를 차단했습니다.">
 <!ENTITY blocked_mixed_content_message_bottom "이 콘텐츠가 차단되어도 대부분의 웹사이트들은 잘 작동할 것입니다.">
+
+<!-- Tracking content notifications in site identity popup -->
+<!ENTITY loaded_tracking_content_message_top "추적 보호 기능이 비활성화됨.">
+<!ENTITY loaded_tracking_content_message_bottom "이 페이지의 일부는 온라인 활동을 추적할 수도 있습니다.">
+<!ENTITY blocked_tracking_content_message_top2 "추적 보호 기능이 활성화됨.">
+<!ENTITY blocked_tracking_content_message_bottom2 "이 페이지에서 온라인 활동을 추적하는 부분은 차단되었습니다.">
+
+<!-- Common mixed and tracking content strings in site identity popup -->
 <!ENTITY learn_more "더 알아보기">
 <!ENTITY enable_protection "보호하기">
 <!ENTITY disable_protection "보호하지 않기">
@@ -490,8 +510,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY webapp_generic_name "앱">
 
 <!ENTITY searchable_description "북마크 및 방문 기록">
-
-<!ENTITY devtools_remote_debugging_forward "포트 포워딩을 잊지 말고 설정하세요!">
 
 <!-- Updater notifications -->
 <!ENTITY updater_start_title2 "&brandShortName; 업데이트 가능">
@@ -546,5 +564,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      their desktop or laptop.-->
 <!ENTITY remote_tabs_last_synced "마지막 동기화: &formatS;">
 
-
+<!-- Find-In-Page strings -->
+<!-- LOCALIZATION NOTE (find_matchcase): This is meant to appear as an icon that changes color
+     if match-case is activated. i.e. No more than two letters, one uppercase, one lowercase. -->
+<!ENTITY find_matchcase "Aa">
 

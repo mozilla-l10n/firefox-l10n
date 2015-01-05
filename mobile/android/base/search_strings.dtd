@@ -8,7 +8,7 @@
       the currently selected search engine. -->
 <!ENTITY search_bar_hint '&formatS; 검색'>
 
-<!ENTITY search_empty_title '&brandShortName; 검색'>
+<!ENTITY search_empty_title2 '검색 시작'>
 <!ENTITY search_empty_message '원하는 것을 빠르게 검색'>
 
 <!--  Localization note (search_plus_content_description): This is the content description
