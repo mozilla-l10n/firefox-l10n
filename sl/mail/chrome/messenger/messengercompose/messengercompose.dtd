@@ -50,10 +50,10 @@
 <!ENTITY sendLaterCmd.label "Pošlji kasneje">
 <!ENTITY sendLaterCmd.keycode "VK_RETURN">
 <!ENTITY sendLaterCmd.accesskey "e">
-<!ENTITY printSetupCmd.label "Nastavitve strani …">
-<!ENTITY printSetupCmd.accesskey "a">
+<!ENTITY printSetupCmd.label "Priprava strani …">
+<!ENTITY printSetupCmd.accesskey "r">
 <!ENTITY printPreviewCmd.label "Predogled tiskanja">
-<!ENTITY printPreviewCmd.accesskey "r">
+<!ENTITY printPreviewCmd.accesskey "d">
 <!ENTITY printCmd.label "Natisni …">
 <!ENTITY printCmd.key "P">
 <!ENTITY printCmd.accesskey "N">

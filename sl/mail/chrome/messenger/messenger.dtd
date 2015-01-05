@@ -60,7 +60,7 @@
 <!ENTITY deleteFolder.label "Izbriši mapo">
 <!ENTITY deleteFolder.accesskey "b">
 <!ENTITY renameFolder.label "Preimenuj mapo …">
-<!ENTITY renameFolder.accesskey "r">
+<!ENTITY renameFolder.accesskey "m">
 <!ENTITY renameFolder.key "VK_F2">
 <!ENTITY compactFolders.label "Strni mape">
 <!ENTITY compactFolders.accesskey    "n">
@@ -82,9 +82,9 @@
 <!ENTITY printCmd.accesskey "N">
 <!ENTITY printCmd.key "P">
 <!ENTITY printPreviewCmd.label "Predogled tiskanja">
-<!ENTITY printPreviewCmd.accesskey "e">
-<!ENTITY printSetupCmd.label "Nastavitve strani …">
-<!ENTITY printSetupCmd.accesskey "a">
+<!ENTITY printPreviewCmd.accesskey "d">
+<!ENTITY printSetupCmd.label "Priprava strani …">
+<!ENTITY printSetupCmd.accesskey "r">
 <!-- Edit Menu -->
 
 <!ENTITY deleteMsgCmd.label "Izbriši sporočilo">
@@ -560,7 +560,7 @@
 <!-- Toolbar Button Popup -->
 
 <!ENTITY buttonMenuForwardAsInline.label "Posreduj v besedilu">
-<!ENTITY buttonMenuForwardAsAttachment.label "Posreduj kot prilogo">
+<!ENTITY buttonMenuForwardAsAttachment.label "Posreduj kot priponko">
 <!-- Remote Content Button Popup -->
 
 <!ENTITY remoteContentOptionsAllowForMsg.label "Prikaži oddaljeno vsebino tega sporočila">
@@ -691,7 +691,7 @@
 <!ENTITY starredColumn2.tooltip "Razvrsti po zvezdici">
 <!ENTITY locationColumn2.tooltip "Razvrsti po mestu shranjevanja">
 <!ENTITY idColumn2.tooltip "Razvrsti po vrstnem redu prejema">
-<!ENTITY attachmentColumn2.tooltip "Razvrsti po prilogah">
+<!ENTITY attachmentColumn2.tooltip "Razvrsti po priponkah">
 <!-- Thread Pane Context Menu -->
 
 <!ENTITY contextOpenNewWindow.label "Odpri sporočilo v novem oknu">
