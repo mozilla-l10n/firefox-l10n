@@ -167,6 +167,7 @@
 <!-- Localization note: &formatS; is the Firefox account's email address. -->
 <!ENTITY fxaccount_confirm_account_verification_link 'Potrditvena povezava je bila poslana na &formatS;'>
 <!ENTITY fxaccount_confirm_account_resend_email 'Pošlji ponovno'>
+<!ENTITY fxaccount_confirm_account_change_email 'Pozabim ta e-poštni naslov?'>
 <!ENTITY fxaccount_confirm_account_verification_link_sent2 'Potrditvena e-pošta poslana'>
 <!ENTITY fxaccount_confirm_account_verification_link_not_sent2 'Ni bilo mogoče poslati potrditvene pošte'>
 
@@ -186,6 +187,8 @@
 <!ENTITY fxaccount_status_header2 'Firefox Račun'>
 <!ENTITY fxaccount_status_signed_in_as 'Prijavljen kot'>
 <!ENTITY fxaccount_status_auth_server 'Strežnik za račun'>
+<!ENTITY fxaccount_status_sync_now 'Sinhroniziraj zdaj'>
+<!ENTITY fxaccount_status_syncing2 'Sinhronizacija …'>
 <!ENTITY fxaccount_status_device_name 'Ime naprave'>
 <!ENTITY fxaccount_status_sync_server 'Strežnik za Sync'>
 <!ENTITY fxaccount_status_sync '&syncBrand.shortName.label;'>

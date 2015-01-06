@@ -164,8 +164,8 @@
 </ul>
 ">
 
-<!ENTITY cspFrameAncestorBlocked.title "Zavrnjeno zaradi varnostne politike vsebine">
-<!ENTITY cspFrameAncestorBlocked.longDesc "<p>&brandShortName; je preprečil nalaganje te strani, ker tako določa varnostna politika vsebine strani.</p>">
+<!ENTITY cspBlocked.title "Zavrnjeno zaradi varnostne politike vsebine">
+<!ENTITY cspBlocked.longDesc "<p>Brskalnik je preprečil nalaganje strani v taki obliki, ker tako določa varnostna politika vsebine strani.</p>">
 
 <!ENTITY corruptedContentError.title "Napaka zaradi pokvarjene vsebine">
 <!ENTITY corruptedContentError.longDesc "<p>Stran, ki si jo želite ogledati, ni mogoče prikazati, ker je pri prenosu prišlo do napake</p><ul><li>Obrnite se na lastnike spletne strani in jih obvestite o težavi.</li></ul>">
