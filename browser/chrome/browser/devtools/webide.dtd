@@ -147,14 +147,14 @@
 
 <!-- Device Preferences -->
 <!ENTITY devicepreferences_title "Nastavitve naprave">
-<!ENTITY devicepreferences_search "Nastavitve iskanja">
+<!ENTITY devicepreferences_search "Iskanje nastavitev">
 <!ENTITY devicepreferences_newname "Ime nove nastavitve">
 <!ENTITY devicepreferences_newtext "Vrednost nastavitve">
 <!ENTITY devicepreferences_addnew "Dodaj novo nastavitev">
 <!ENTITY devicepreferences_typeboolean "Logična vrednost">
 <!ENTITY devicepreferences_typenumber "Celo število">
 <!ENTITY devicepreferences_typestring "Niz">
-<!ENTITY devicepreferences_typenone "Izberite vrsto">
+<!ENTITY devicepreferences_typenone "Izberi vrsto">
 
 <!-- Monitor -->
 <!ENTITY monitor_title "Spremljanje">
