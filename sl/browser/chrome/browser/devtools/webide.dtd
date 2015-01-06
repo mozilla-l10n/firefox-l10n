@@ -78,7 +78,7 @@
 <!ENTITY projectPanel_tabs "Zavihki">
 <!ENTITY runtimePanel_usb "Naprave USB">
 <!ENTITY runtimePanel_wifi "Naprave Wi-Fi">
-<!ENTITY runtimePanel_simulators "Simulatorji">
+<!ENTITY runtimePanel_simulator "Simulatorji">
 <!ENTITY runtimePanel_other "Drugo">
 <!ENTITY runtimePanel_installsimulator "Namesti simulator">
 <!ENTITY runtimePanel_noadbhelper "Namesti ADB Helper">
