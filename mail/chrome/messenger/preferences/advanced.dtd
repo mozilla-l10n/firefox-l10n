@@ -12,6 +12,8 @@
 <!ENTITY telemetryInfoLink.label "Подробнее о телеметрии">
 <!ENTITY enableGlodaSearch.label "Включить глобальный поиск и индексацию сообщений">
 <!ENTITY enableGlodaSearch.accesskey "и">
+<!ENTITY allowHWAccel.label "По возможности использовать аппаратное ускорение">
+<!ENTITY allowHWAccel.accesskey "м">
 <!ENTITY scrolling.label "Прокрутка">
 <!ENTITY useAutoScroll.label "Использовать автоматическую прокрутку">
 <!ENTITY useAutoScroll.accesskey "в">
