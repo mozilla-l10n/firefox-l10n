@@ -764,7 +764,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY trackingContentBlocked.unblock2.accesskey "N">
 <!ENTITY trackingContentBlocked.block.label "Omogoči zaščito">
 <!ENTITY trackingContentBlocked.block.accesskey "O">
-<!ENTITY trackingContentBlocked.disabled.message "Zaščita pred seledenjem je onemogočena">
+<!ENTITY trackingContentBlocked.disabled.message "Zaščita pred sledenjem je onemogočena">
 
 <!ENTITY pointerLock.notification.message "Pritisnite ESC za ponovni prikaz.">
 
