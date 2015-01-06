@@ -226,7 +226,7 @@
 <!ENTITY contextmenu_open_new_tab "Abrir en una pestaña nueva">
 <!ENTITY contextmenu_open_private_tab "Abrir en una pestaña privada">
 <!ENTITY contextmenu_remove "Eliminar">
-<!ENTITY contextmenu_add_to_launcher "Añadir a pantalla de inicio">
+<!ENTITY contextmenu_add_to_launcher "Añadir a pantalla inicio">
 <!ENTITY contextmenu_share "Compartir">
 <!ENTITY contextmenu_pasteandgo "Pegar e ir">
 <!ENTITY contextmenu_paste "Pegar">
