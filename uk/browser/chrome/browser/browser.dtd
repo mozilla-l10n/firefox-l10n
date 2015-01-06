@@ -143,7 +143,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (findShareServices.label):
   -  Use the unicode ellipsis char, \u2026,
   -  or use "..." if \u2026 doesn't suit traditions in your locale. -->
-<!ENTITY findShareServices.label "Find more Share services…">
+<!ENTITY findShareServices.label "Знайти інші засоби поширення…">
 <!ENTITY sharePageCmd.label "Поділитись сторінкою">
 <!ENTITY sharePageCmd.commandkey "l">
 <!ENTITY sharePageCmd.accesskey "д">
@@ -217,8 +217,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY addons.label                 "Додатки">
 <!ENTITY addons.accesskey             "Д">
 <!ENTITY addons.commandkey            "A">
-<!ENTITY webapps.label                "Apps">
-<!ENTITY webapps.accesskey            "p">
+<!ENTITY webapps.label                "Програми">
+<!ENTITY webapps.accesskey            "П">
 
 <!ENTITY webDeveloperMenu.label       "Веб-розробка">
 <!ENTITY webDeveloperMenu.accesskey   "р">
@@ -271,7 +271,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (browserContentToolboxMenu.label): This is the label for the
   -  application menu item that opens the browser content toolbox UI in the Tools menu.
   -  This toolbox allows to debug the chrome of the content process in multiprocess builds.  -->
-<!ENTITY browserContentToolboxMenu.label     "Browser Content Toolbox">
+<!ENTITY browserContentToolboxMenu.label     "Інструменти вмісту браузера">
 
 <!ENTITY devToolbarCloseButton.tooltiptext "Закрити панель розробника">
 <!ENTITY devToolbarMenu.label              "Панель розробника">
@@ -418,9 +418,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (searchFor.label, searchWith.label):
      These two strings are used to build the header above the list of one-click
      search providers:  "Search for <used typed keywords> with:" -->
-<!ENTITY searchFor.label              "Search for ">
-<!ENTITY searchWith.label             " with:">
-<!ENTITY changeSearchSettings.button  "Change Search Settings">
+<!ENTITY searchFor.label              "Шукати ">
+<!ENTITY searchWith.label             " за допомогою:">
+<!ENTITY changeSearchSettings.button  "Змінити налаштування пошуку">
 
 <!ENTITY tabView.commandkey           "e">
 
@@ -496,8 +496,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY emailImageCmd.accesskey      "ж">
 <!ENTITY emailVideoCmd.label          "Переслати відео…">
 <!ENTITY emailVideoCmd.accesskey      "с">
-<!ENTITY castVideoCmd.label           "Send Video To Device">
-<!ENTITY castVideoCmd.accesskey       "e">
+<!ENTITY castVideoCmd.label           "Відправити відео на пристрій">
+<!ENTITY castVideoCmd.accesskey       "д">
 <!ENTITY emailAudioCmd.label          "Переслати аудіо…">
 <!ENTITY emailAudioCmd.accesskey      "с">
 <!ENTITY playPluginCmd.label          "Активувати цей плагін">
@@ -711,11 +711,11 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY social.learnMore.accesskey "П">
 <!ENTITY social.closeNotificationItem.label "Не зараз">
 
-<!ENTITY social.directory.label "Activations Directory">
-<!ENTITY social.directory.text "You can activate Share services from the directory.">
-<!ENTITY social.directory.button "Take me there!">
-<!ENTITY social.directory.introText "Click on a service to add it to &brandShortName;.">
-<!ENTITY social.directory.viewmore.text "View More">
+<!ENTITY social.directory.label "Каталог активації">
+<!ENTITY social.directory.text "Ви можете активувати засоби поширення з каталогу.">
+<!ENTITY social.directory.button "Перейти туди!">
+<!ENTITY social.directory.introText "Натисніть на засіб, щоб додати його до &brandShortName;.">
+<!ENTITY social.directory.viewmore.text "Дивитися більше">
 
 <!ENTITY customizeMode.tabTitle "Пристосувати &brandShortName;">
 <!ENTITY customizeMode.menuAndToolbars.header2 "Додаткові інструменти та можливості">

@@ -15,13 +15,13 @@
 
 <!ENTITY  locationBar.label             "Панель адреси">
 
-<!ENTITY  locbar.suggest.label          "When using the location bar, suggest:">
-<!ENTITY  locbar.history.label          "History">
-<!ENTITY  locbar.history.accesskey      "H">
-<!ENTITY  locbar.bookmarks.label        "Bookmarks">
-<!ENTITY  locbar.bookmarks.accesskey    "k">
-<!ENTITY  locbar.openpage.label         "Open tabs">
-<!ENTITY  locbar.openpage.accesskey     "O">
+<!ENTITY  locbar.suggest.label          "При використанні панелі адреси, пропонувати:">
+<!ENTITY  locbar.history.label          "Історію">
+<!ENTITY  locbar.history.accesskey      "т">
+<!ENTITY  locbar.bookmarks.label        "Закладки">
+<!ENTITY  locbar.bookmarks.accesskey    "а">
+<!ENTITY  locbar.openpage.label         "Відкриті вкладки">
+<!ENTITY  locbar.openpage.accesskey     "В">
 
 <!ENTITY  acceptCookies.label           "Приймати куки від сайтів">
 <!ENTITY  acceptCookies.accesskey       "к">
