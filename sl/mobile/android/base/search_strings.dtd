@@ -8,7 +8,7 @@
       the currently selected search engine. -->
 <!ENTITY search_bar_hint 'Išči z iskalnikom &formatS;'>
 
-<!ENTITY search_empty_title 'Iskanje &brandShortName;'>
+<!ENTITY search_empty_title2 'Začnite iskati'>
 <!ENTITY search_empty_message 'Hitro poiščite vse, kar želite'>
 
 <!--  Localization note (search_plus_content_description): This is the content description
