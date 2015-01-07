@@ -77,7 +77,7 @@
 <!ENTITY pref_category_search3 "Ricerca">
 <!ENTITY pref_category_search_summary "Personalizza i motori di ricerca">
 <!ENTITY pref_category_display "Visualizzazione">
-<!ENTITY pref_category_display_summary "Testo, barra del titolo, navigazione a schermo intero">
+<!ENTITY pref_category_display_summary2 "Testo, navigazione a schermo intero">
 <!ENTITY pref_category_privacy_summary "Gestisci password, cookie, tracciamento, dati">
 <!ENTITY pref_category_privacy_short "Privacy">
 <!ENTITY pref_category_vendor "&vendorShortName;">
