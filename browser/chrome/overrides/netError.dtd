@@ -184,7 +184,7 @@ netError.xhtml) because it exposes functionality specific to firefox. -->
 ">
 
 <!ENTITY errorReporting.title "ਇਹ ਗਲਤੀ ਦੀ ਰਿਪੋਰਟ ਕਰੋ">
-<!ENTITY errorReporting.longDesc "Reporting the address and certificate information for <span id='hostname'></span> will help us identify and block malicious sites. Thanks for helping create a safer web!">
+<!ENTITY errorReporting.longDesc "<span id='hostname'></span> ਲਈ ਸਿਰਨਾਵੇਂ ਤੇ ਸਰਟੀਫਿਕੇਟ ਜਾਣਕਾਰੀ ਲਈ ਜਾਣਕਾਰੀ ਦੇਣ ਨਾਲ ਸਾਨੂੰ ਖ਼ਰਾਬ ਸਾਈਟਾਂ ਦੀ ਪਛਾਣ ਕਰਨ ਅਤੇ ਉਹਨਾਂ ਉੱਤੇ ਪਾਬੰਦੀ ਲਗਾਉਣ ਲਈ ਮਦਦ ਮਿਲੇਗੀ। ਵੈਬ ਨੂੰ ਸੁਰੱਖਿਅਤ ਬਣਾਉਣ ਲਈ ਧੰਨਵਾਦ!">
 <!ENTITY errorReporting.automatic "ਭਵਿੱਖ ਵਿੱਚ ਗਲਤੀਆਂ ਲਈ ਆਟੋਮੈਟਿਕ ਹੀ ਰਿਪੋਰਟ ਕਰੋ">
 <!ENTITY errorReporting.learnMore "…ਹੋਰ ਜਾਣੋ">
 <!ENTITY errorReporting.sending "ਰਿਪੋਰਟ ਭੇਜੀ ਜਾ ਰਹੀ ਹੈ">
