@@ -48,4 +48,3 @@
 <!ENTITY welcome.signIn.label "Accedi">
 <!ENTITY welcome.createAccount.label "Crea un account">
 <!ENTITY welcome.useOldSync.label "Informazioni per gli utenti che utilizzano una vecchia versione di Sync">
-<!ENTITY migrate.upgradeNeeded "Il sistema di account sync è in fase di dismissione. Per continuare a utilizzare la sincronizzazione è necessario passare a Firefox Account.">
