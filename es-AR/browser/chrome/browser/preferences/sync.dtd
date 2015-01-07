@@ -79,5 +79,3 @@ both, to better adapt this sentence to their language.
 
 <!ENTITY welcome.useOldSync.label "¿Usando una versión vieja de Sync?">
 
-<!-- Sync Migration -->
-<!ENTITY migrate.upgradeNeeded      "El sistema de cuenta de sync está por ser descontinuado. Una cuenta de Firefox Account es requerida para sincronizar.">
