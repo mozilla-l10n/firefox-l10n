@@ -4,7 +4,7 @@
 
 <!ENTITY defaultSearchEngine.label             "ਮੂਲ ਖੋਜ ਇੰਜਣ">
 
-<!ENTITY chooseYourDefaultSearchEngine.label   "Choose your default search engine. &brandShortName; uses it in the location bar, search bar, and start page.">
+<!ENTITY chooseYourDefaultSearchEngine.label   "ਆਪਣਾ ਮੂਲ ਖੋਜ ਇੰਜਣ ਚੁਣੋ। &brandShortName; ਨੂੰ ਟਿਕਾਣਾ ਪੱਟੀ, ਖੋਜ ਪੱਟੀ ਅਤੇ ਸ਼ੁਰੂਆਤ ਸਫ਼ੇ ਵਿੱਚ ਵਰਤਦਾ ਹੈ।">
 
 <!ENTITY provideSearchSuggestions.label        "ਖੋਜ ਸੁਝਾਅ ਦਿੰਦਾ ਹੈ">
 <!ENTITY provideSearchSuggestions.accesskey    "s">
