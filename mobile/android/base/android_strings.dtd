@@ -210,7 +210,7 @@ size. -->
 <!ENTITY pref_font_size_preview_text     "Kiire oranž rebane hüppab üle sinu ootuste suurema kiirusega, parema paindlikkusega ning tõhusama turvalisusega. Mittetulunduslikena oleme innovatiivsed just sinu jaoks ja me ei pea tegema survestatud kompromisse. See tähendab paremat kasutuskogemust sinule ja helgemat tulevikku tervele veebile.">
 
 <!ENTITY pref_media_autoplay_enabled     "Automaatne esitamine">
-<!ENTITY pref_media_autoplay_enabled_summary "kas veebilehed saavad videoid ja muud meediat automaatselt esitada?">
+<!ENTITY pref_media_autoplay_enabled_summary "kas veebilehed tohivad videoid ja muud meediat automaatselt esitada?">
 
 <!ENTITY pref_use_master_password        "Kasutatakse ülemparooli">
 <!ENTITY pref_sync                       "Sync">
