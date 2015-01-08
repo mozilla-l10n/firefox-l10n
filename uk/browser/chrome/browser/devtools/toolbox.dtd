@@ -114,11 +114,6 @@
   -  for the target of the toolbox. -->
 <!ENTITY options.toolNotSupported.label  "* Не підтримується для поточної цілі інструмента">
 
-<!-- LOCALIZATION NOTE (options.selectDevToolsTheme.label): This is the label for
-  -  the heading of the radiobox corresponding to the theme of the developer
-  -  tools. -->
-<!ENTITY options.selectDevToolsTheme.label   "Вибрати тему інструментів розробника:">
-
 <!-- LOCALIZATION NOTE (options.webconsole.label): This is the label for the
   -  heading of the group of Web Console preferences in the options panel. -->
 <!ENTITY options.webconsole.label            "Інтернетна консоль">
