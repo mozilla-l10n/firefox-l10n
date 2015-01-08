@@ -147,15 +147,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY sharePageCmd.label "Поділитись сторінкою">
 <!ENTITY sharePageCmd.commandkey "l">
 <!ENTITY sharePageCmd.accesskey "д">
-<!-- LOCALIZATION NOTE (shareLink.accesskey): must be different than the following share access keys -->
-<!ENTITY shareLinkCmd.label "Поділитись посиланням">
-<!ENTITY shareLinkCmd.accesskey "д">
-<!ENTITY shareImageCmd.label "Поділитись малюнком">
-<!ENTITY shareImageCmd.accesskey "д">
-<!ENTITY shareSelectCmd.label "Поділитись вибраним">
-<!ENTITY shareSelectCmd.accesskey "д">
-<!ENTITY shareVideoCmd.label "Поділитись цим відео">
-<!ENTITY shareVideoCmd.accesskey "д">
 <!ENTITY feedsMenu.label "Підписатись">
 <!ENTITY subscribeToPageMenupopup.label "Підписатися на цю сторінку">
 <!ENTITY subscribeToPageMenuitem.label "Підписатися на цю сторінку…">
@@ -765,7 +756,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY trackingContentBlocked.moreinfo "Частини сторінки, які стежать за вашою активністю в Інтернеті заблоковано.">
 <!ENTITY trackingContentBlocked.learnMore "Дізнатися більше">
 <!ENTITY trackingContentBlocked.options "Налаштування">
-<!ENTITY trackingContentBlocked.unblock.label2 "Вимкнути захист для цього сайту">
 <!ENTITY trackingContentBlocked.unblock2.accesskey "D">
 <!ENTITY trackingContentBlocked.block.label "Увімкнути захист">
 <!ENTITY trackingContentBlocked.block.accesskey "E">

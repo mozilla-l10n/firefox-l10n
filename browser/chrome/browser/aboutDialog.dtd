@@ -38,11 +38,6 @@
 <!ENTITY community.creditsLink      "глобальній спільноті">
 <!ENTITY community.end3             ", яка працює над тим, щоб інтернет залишався відкритим, громадським та доступним для всіх.">
 
-<!ENTITY contribute.start           "Цікаво? ">
-<!-- LOCALIZATION NOTE (contribute.getInvolvedLink): This is a link title that links to http://www.mozilla.org/contribute/. -->
-<!ENTITY contribute.getInvolvedLink "Долучайтесь!">
-<!ENTITY contribute.end             "">
-
 <!-- LOCALIZATION NOTE (bottomLinks.license): This is a link title that links to about:license. -->
 <!ENTITY bottomLinks.license        "Ліцензійна інформація">
 

@@ -17,7 +17,3 @@
 
 <!ENTITY privatebrowsingpage.openPrivateWindow.label "Відкрити потайливе вікно">
 <!ENTITY privatebrowsingpage.openPrivateWindow.accesskey "П">
-
-<!-- TO BE REMOVED POST-AUSTRALIS --> 
-<!-- LOCALIZATION NOTE (privatebrowsingpage.howToStart3): please leave &basePBMenu.label; intact in the translation -->
-<!ENTITY privatebrowsingpage.howToStart3               "Щоб почати потайливий перегляд, ви також можете вибрати &basePBMenu.label; &gt; &newPrivateWindow.label;.">
