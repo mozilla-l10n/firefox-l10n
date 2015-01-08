@@ -70,7 +70,7 @@
 <!ENTITY projects.addPackaged "Ավելացնել փաթեթով">
 <!ENTITY projects.addPackagedTooltip "Ավելացնել նոր փաթեթով (թղթապանակից) համակարգչից">
 <!ENTITY projects.addHosted "Ավելացնել հոսթից">
-
+<!ENTITY projects.addHostedTooltip "Ավելացնել նոր հավելված (հղումը manifest.webapp ֆայլին) հեռակա կայքից">
 <!ENTITY projects.title "Ծրագրերը">
 <!ENTITY projects.appDetails "Ծրագրի մանրամասները">
 

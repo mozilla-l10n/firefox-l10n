@@ -8,6 +8,7 @@
 
 <!ENTITY aboutTelemetry.telemetryDisabled "  Telemetry-ին <span>անջատված է</span>։">
 
+<!ENTITY aboutTelemetry.generalDataSection "  Գլխավոր տվյալներ">
 
 <!ENTITY aboutTelemetry.slowSqlSection "  Ցուցադրել SQL-ի առաջարկությունը">
 
