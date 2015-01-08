@@ -6,17 +6,17 @@
 <!ENTITY wizard.label             "Yeni bir takvim oluştur" >
 <!ENTITY wizard.description       "Takvim konumunu seçin" >
 
-<!ENTITY initialpage.description    "Takviminizi bilgisayarınızda yerel olarak kaydedebilirsiniz veya erişim hakkınız olan bir sunucuya gönderebilir ve arkadaşlarınız ile paylaşabilirsiniz" >
-<!ENTITY initialpage.computer.label  "Kendi bilgisayarımda">
+<!ENTITY initialpage.description    "Takviminiz bilgisayarınızda yerel olarak depolanabilir veya bir sunucuya kaydedilebilir. Böylece ona uzaktan erişebilir ve onu arkadaşlarınızla paylaşabilirsiniz." >
+<!ENTITY initialpage.computer.label  "Bilgisayarımda">
 <!ENTITY initialpage.network.label  "Ağ üzerinde">
 
 <!ENTITY locationpage.description         "Uzaktaki takviminize ulaşmak için gerekli bilgileri sağlayın" >
-<!ENTITY locationpage.login.description   "Seçmeli: Bir kullanıcı ve parola giriniz" >
-<!ENTITY locationpage.username.label      "Kullanıcı:" >
+<!ENTITY locationpage.login.description   "Tercihe bağlı: Kullanıcı ve parola girin" >
+<!ENTITY locationpage.username.label      "Kullanıcı adı:" >
 <!ENTITY locationpage.password.label      "Parola:" >
 
-<!ENTITY custompage.shortdescription  "Takviminizi özelleştirir" >
-<!ENTITY custompage.longdescription   "Takviminize bir takma isim verebilir ve görevlerinizi takvim içinde reklendirebilirsiniz" >
+<!ENTITY custompage.shortdescription  "Takviminizi özelleştiririn" >
+<!ENTITY custompage.longdescription   "Takviminize bir takma ad verebilir ve bu takvimdeki etkinlikleri reklendirebilirsiniz." >
 
 <!ENTITY finishpage.shortdescription  "Takvim oluşturuldu" >
-<!ENTITY finishpage.longdescription   "Takviminiz oluşturuldu" >
+<!ENTITY finishpage.longdescription   "Takviminiz oluşturuldu." >

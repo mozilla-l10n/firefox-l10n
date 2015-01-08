@@ -58,11 +58,11 @@
 <!ENTITY lightning.imipbar.btnMore.tooltiptext                              "Diğer seçenekleri görmek için tıklayın">
 <!ENTITY lightning.imipbar.btnReconfirm2.label                              "Yeniden onayla">
 
-
+<!ENTITY lightning.imipbar.btnSaveCopy.label                                "Kopyasını kaydet">
 
 <!ENTITY lightning.imipbar.btnTentative.label                               "Kesin değil">
-
-
+<!ENTITY lightning.imipbar.btnTentative2.tooltiptext                        "Etkinlik davetini kesin olmadan kabul et">
+<!ENTITY lightning.imipbar.btnTentativeRecurrences.label                    "Hepsi kesin değil">
 
 <!ENTITY lightning.imipbar.btnUpdate.label                                  "Güncelle">
 <!ENTITY lightning.imipbar.btnUpdate.tooltiptext                            "Takvimdeki etkinliği güncelle">
@@ -80,10 +80,10 @@
 
 <!ENTITY todaypane.showMinimonth.label "Küçük ay takvimi göster">
 <!ENTITY todaypane.showMinimonth.accesskey "K">
-<!ENTITY todaypane.showMiniday.label "Günü Kısaca Göster">
-<!ENTITY todaypane.showMiniday.accesskey  "G">
-<!ENTITY todaypane.showNone.label "Hiçbirini Gösterme">
+<!ENTITY todaypane.showMiniday.label "Küçük günü göster">
+<!ENTITY todaypane.showMiniday.accesskey  "ü">
+<!ENTITY todaypane.showNone.label "Hiçbirini gösterme">
 <!ENTITY todaypane.showNone.accesskey "H">
-<!ENTITY todaypane.showTodayPane.label "Bugünün Panelini Göster">
+<!ENTITY todaypane.showTodayPane.label "Bugünün bölmesini göster">
 <!ENTITY todaypane.showTodayPane.accesskey "ö">
-<!ENTITY todaypane.statusButton.label "Bugün penceresi">
+<!ENTITY todaypane.statusButton.label "Bugün bölmesi">

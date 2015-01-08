@@ -8,7 +8,7 @@
 
 
 <!ENTITY pref.categories.add.title "Kategori ekle">
-<!ENTITY pref.categories.addButton.label "Ekle">
+<!ENTITY pref.categories.addButton.label "Ekle…">
 <!ENTITY pref.categories.addButton.accesskey "E">
 <!ENTITY pref.categories.edit.title "Kategori düzenle">
 <!ENTITY pref.categories.editButton.label "Düzenle">

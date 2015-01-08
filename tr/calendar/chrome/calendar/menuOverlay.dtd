@@ -4,7 +4,7 @@
 <!-- Event Menu -->
 
 <!ENTITY event.new.event                        "Yeni etkinlik…">
-
+<!ENTITY event.new.event.accesskey              "Y">
 
 <!ENTITY event.new.task                         "Yeni görev…">
 <!ENTITY event.new.task.accesskey               "k">
@@ -15,7 +15,7 @@
 <!ENTITY calendar.export.label                  "Seçimi dışa aktar…">
 <!ENTITY calendar.export.accesskey              "e">
 
-<!ENTITY calendar.publish.label                 "Yayınla…">
+<!ENTITY calendar.publish.label                 "Yayımla…">
 <!ENTITY calendar.publish.accesskey             "Y">
 
 <!ENTITY calendar.deletecalendar.label          "Seçili takvimi sil">
@@ -31,7 +31,7 @@
 <!ENTITY calendar.displaytodos.checkbox.accesskey   "t">
 
 <!ENTITY goTodayCmd.label                       "Bugün">
-<!ENTITY goTodayCmd.accesskey                   "g">
+<!ENTITY goTodayCmd.accesskey                   "B">
 
 <!ENTITY showCurrentView.label                  "Güncel görünüm">
 <!ENTITY showCurrentView.accesskey              "G">
