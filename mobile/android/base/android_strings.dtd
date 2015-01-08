@@ -302,7 +302,7 @@ size. -->
 <!ENTITY tabs_private "Приватні">
 <!ENTITY tabs_synced "Синхронізовані">
 <!ENTITY set_image_fail "Неможливо встановити зображення">
-<!ENTITY set_image_path_fail "Unable to save image">
+<!ENTITY set_image_path_fail "Неможливо зберегти зображення">
 <!ENTITY set_image_chooser_title "Встановити зображення як">
 
 <!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
