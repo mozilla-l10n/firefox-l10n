@@ -95,6 +95,8 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY pageInfoCmd.label "Informações da página">
 <!ENTITY pageInfoCmd.accesskey "p">
 <!ENTITY pageInfoCmd.commandkey "i">
+<!ENTITY mirrorTabCmd.label "Separador espelho">
+<!ENTITY mirrorTabCmd.accesskey "h">
 <!-- LOCALIZATION NOTE (enterFullScreenCmd.label, exitFullScreenCmd.label):
 These should match what Safari and other Apple applications use on OS X Lion. -->
 <!ENTITY enterFullScreenCmd.label "Ativar ecrã completo">
@@ -140,17 +142,22 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY editThisBookmarkCmd.label "Editar este marcador">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
 <!ENTITY markPageCmd.commandkey "l">
+<!-- LOCALIZATION NOTE (findShareServices.label):
+  -  Use the unicode ellipsis char, \u2026,
+  -  or use "..." if \u2026 doesn't suit traditions in your locale. -->
+<!ENTITY findShareServices.label "Procurar mais serviços de partilha…">
 <!ENTITY sharePageCmd.label "Partilhar esta página">
 <!ENTITY sharePageCmd.commandkey "s">
 <!ENTITY sharePageCmd.accesskey "s">
-<!ENTITY shareLinkCmd.label "Partilhar esta ligação">
-<!ENTITY shareLinkCmd.accesskey "s">
-<!ENTITY shareImageCmd.label "Partilhar esta imagem">
-<!ENTITY shareImageCmd.accesskey "s">
-<!ENTITY shareSelectCmd.label "Partilhar seleção">
-<!ENTITY shareSelectCmd.accesskey "s">
-<!ENTITY shareVideoCmd.label "Partilhar este vídeo">
-<!ENTITY shareVideoCmd.accesskey "s">
+<!-- LOCALIZATION NOTE (shareLink.accesskey): must be different than the following share access keys -->
+<!ENTITY shareLink.label "Partilhar esta ligação">
+<!ENTITY shareLink.accesskey "s">
+<!ENTITY shareImage.label "Partilhar esta imagem">
+<!ENTITY shareImage.accesskey "s">
+<!ENTITY shareSelect.label "Partilhar seleção">
+<!ENTITY shareSelect.accesskey "s">
+<!ENTITY shareVideo.label "Partilhar este vídeo">
+<!ENTITY shareVideo.accesskey "s">
 <!ENTITY feedsMenu.label "Subscrever">
 <!ENTITY subscribeToPageMenupopup.label "Subscrever esta página">
 <!ENTITY subscribeToPageMenuitem.label "Subscrever esta página...">
@@ -212,6 +219,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY addons.label 					"Extras">
 <!ENTITY addons.accesskey 				"E">
 <!ENTITY addons.commandkey 				"A">
+<!ENTITY webapps.label                "Apps">
+<!ENTITY webapps.accesskey            "p">
 
 <!ENTITY webDeveloperMenu.label 		"Programador web">
 <!ENTITY webDeveloperMenu.accesskey 	"g">
@@ -260,6 +269,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
   -  application menu item that opens the browser toolbox UI in the Tools menu. -->
 <!ENTITY browserToolboxMenu.label			"Caixa de ferramentas do navegador">
 <!ENTITY browserToolboxMenu.accesskey		"e">
+
+<!-- LOCALIZATION NOTE (browserContentToolboxMenu.label): This is the label for the
+  -  application menu item that opens the browser content toolbox UI in the Tools menu.
+  -  This toolbox allows to debug the chrome of the content process in multiprocess builds.  -->
+<!ENTITY browserContentToolboxMenu.label     "Caixa de ferramentas de conteúdo do navegador">
 
 <!ENTITY devToolbarCloseButton.tooltiptext	"Fechar barra de ferramentas do programador">
 <!ENTITY devToolbarMenu.label 				"Barra de ferramentas do programador">
@@ -403,6 +417,13 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY searchFocus.commandkey2 	"e">
 <!ENTITY searchFocusUnix.commandkey "j">
 
+<!-- LOCALIZATION NOTE (searchFor.label, searchWith.label):
+     These two strings are used to build the header above the list of one-click
+     search providers:  "Search for <used typed keywords> with:" -->
+<!ENTITY searchFor.label              "Pesquisar por ">
+<!ENTITY searchWith.label             " com:">
+<!ENTITY changeSearchSettings.button  "Alterar definições de pesquisa">
+
 <!ENTITY tabView.commandkey 		"e">
 
 <!ENTITY openLinkCmdInTab.label 	"Abrir ligação em novo separador">
@@ -477,6 +498,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY emailImageCmd.accesskey 		"n">
 <!ENTITY emailVideoCmd.label 			"Enviar vídeo...">
 <!ENTITY emailVideoCmd.accesskey 		"a">
+<!ENTITY castVideoCmd.label           "Enviar vídeo para o dispositivo">
+<!ENTITY castVideoCmd.accesskey       "e">
 <!ENTITY emailAudioCmd.label 			"Enviar áudio...">
 <!ENTITY emailAudioCmd.accesskey 		"a">
 <!ENTITY playPluginCmd.label 			"Ativar este plugin">
@@ -690,7 +713,11 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY social.learnMore.accesskey "b">
 <!ENTITY social.closeNotificationItem.label "Agora não">
 
-
+<!ENTITY social.directory.label "Pasta de ativações">
+<!ENTITY social.directory.text "Pode ativar serviços de partilha a partir da pasta.">
+<!ENTITY social.directory.button "Levem-me lá!">
+<!ENTITY social.directory.introText "Clique no serviço para o adicionar ao &brandShortName;.">
+<!ENTITY social.directory.viewmore.text "Ver mais">
 
 <!ENTITY customizeMode.tabTitle "Personalizar o &brandShortName;">
 <!ENTITY customizeMode.menuAndToolbars.header2 "Mais ferramentas para adicionar ao menu e às barras de ferramentas">
@@ -706,6 +733,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY customizeMode.lwthemes.menuManage.accessKey "G">
 <!ENTITY customizeMode.lwthemes.menuGetMore "Obter mais temas">
 <!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "O">
+<!ENTITY customizeMode.deveditionTheme.label2 "Usar edição do tema do desenvolvedor">
 
 <!ENTITY social.chatBar.commandkey "c">
 <!ENTITY social.chatBar.label "Focar salas de conversação">
@@ -739,8 +767,10 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY trackingContentBlocked.moreinfo "Partes da página que seguem a sua atividade na rede foram bloqueadas.">
 <!ENTITY trackingContentBlocked.learnMore "Saber mais">
 <!ENTITY trackingContentBlocked.options "Opções">
-<!ENTITY trackingContentBlocked.unblock.label2 "Desativar proteção para este sítio">
+<!ENTITY trackingContentBlocked.unblock2.label "Desativar proteção para este sítio">
+<!ENTITY trackingContentBlocked.unblock2.accesskey "D">
 <!ENTITY trackingContentBlocked.block.label "Ativar proteção">
+<!ENTITY trackingContentBlocked.block.accesskey "e">
 <!ENTITY trackingContentBlocked.disabled.message "Proteção do seguimento desativado">
 
 <!ENTITY pointerLock.notification.message "Pressione ESC a qualquer momento para mostrar de novo.">
@@ -770,4 +800,29 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY appMenuSidebars.label 			"Barras laterais">
 
 <!ENTITY switchToMetroCmd2.label		"Reiniciar o &brandShortName; para o Windows 8 Touch">
+
+<!-- LOCALIZATION NOTE: (panicButton.view.mainTimeframeDesc, panicButton.view.5min, panicButton.view.2hr, panicButton.view.day):
+     The .mainTimeframeDesc string combined with any of the 3 others is meant to form a complete sentence, e.g. "Forget the last: Five minutes".
+     Please ensure that this remains the case in the translation. -->
+<!ENTITY panicButton.view.mainTimeframeDesc       "Esquecer os últimos:">
+<!ENTITY panicButton.view.5min                    "Cinco minutos">
+<!ENTITY panicButton.view.2hr                     "Duas horas">
+<!ENTITY panicButton.view.day                     "24 horas">
+
+<!-- LOCALIZATION NOTE: (panicButton.view.mainLabel, panicButton.view.deleteCookies, panicButton.view.deleteHistory, panicButton.view.deleteTabsAndWindows, panicButton.view.openNewWindow):
+     The .mainActionDesc string combined with any of the 4 others is meant to form a complete sentence, e.g. "Proceeding will: Delete Recent Cookies".
+     Note also that the deleteCookies, deleteHistory and deleteTabsAndWindows strings include <html:strong> tags for emphasis on the words "Cookies", "History", "Tabs" and "Windows".
+     The translation should do the same. -->
+<!ENTITY panicButton.view.mainActionDesc          "Ao continuar vai:">
+<!ENTITY panicButton.view.deleteCookies           "Eliminar os <html:strong>Cookies</html:strong> recentes">
+<!ENTITY panicButton.view.deleteHistory           "Eliminar o <html:strong>Histórico</html:strong> recente">
+<!ENTITY panicButton.view.deleteTabsAndWindows    "Fechar todos os <html:strong>Separadores</html:strong> e <html:strong>Janelas</html:strong>">
+<!ENTITY panicButton.view.openNewWindow           "Abrir uma nova janela">
+
+<!ENTITY panicButton.view.undoWarning             "Esta ação não pode ser anulada.">
+<!ENTITY panicButton.view.forgetButton            "Esquecer!">
+
+<!ENTITY panicButton.thankyou.msg1                "O seu histórico recente foi limpo.">
+<!ENTITY panicButton.thankyou.msg2                "Navegação segura!">
+<!ENTITY panicButton.thankyou.buttonlabel         "Obrigado!">
 
