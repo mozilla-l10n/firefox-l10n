@@ -30,3 +30,12 @@
 <!ENTITY chooseFolderMac.accesskey    "e">
 <!ENTITY alwaysAsk.label "Aဖိုင်များ သိမ်းဆည်းမဲ့နေရာကို အမြဲ မေးမြန်းပါ">
 <!ENTITY alwaysAsk.accesskey "A">
+
+
+
+
+<!ENTITY isDefault.label                  "&brandShortName; က လက်ရှိ သင့်ရဲ့ အမြဲသုံးဘရောက်ဇာ ဖြစ်ပါတယ်">
+
+
+
+

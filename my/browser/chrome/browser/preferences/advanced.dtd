@@ -26,14 +26,6 @@
 <!ENTITY checkSpelling.label             "t ရိုက်ထည့်နေတုန်း ကျွန်ပ် စာလုံးပေါင်းကို စစ်ဆေးပါ">
 <!ENTITY checkSpelling.accesskey         "t">
 
-<!ENTITY systemDefaults.label            "နည်းစနစ် စံထားချက်များ">
-<!--XXX-->
-<!ENTITY alwaysCheckDefault.label        "စတင်ချိန်တိုင်းမှာ &brandShortName; ဟာ စံထား ကွန်ရက်ကြည့် ယန္တရား ဟုတ်မဟုတ် အမြဲ စစ်ဆေးပါ">
-<!ENTITY alwaysCheckDefault.accesskey    "စ">
-<!ENTITY setDefault.label                "&brandShortName; ကိုအမြဲသုံးdဘရောက်ဇာအဖြစ်သုံး">
-<!ENTITY setDefault.accesskey            "d">
-<!ENTITY isDefault.label                 "&brandShortName; က လက်ရှိ သင့်ရဲ့ အမြဲသုံးဘရောက်ဇာ ဖြစ်ပါတယ်">
-
 <!ENTITY dataChoicesTab.label            "Data Choices">
 
 <!ENTITY healthReportSection.label       "&brandShortName; ကျန်းမာရေးအစီရင်ခံစာ">

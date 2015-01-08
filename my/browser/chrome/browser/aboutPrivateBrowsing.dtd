@@ -2,25 +2,13 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY privatebrowsingpage.title                 "လုံခြုံစွာဝတ်ဆိုက်ကြည့်ရှူခြင်း">
-<!ENTITY privatebrowsingpage.title.normal          "သီးသန့် လှော်လှန်ကြည့်ခြင်းကို စတင်လိုသလား။">
 
-<!ENTITY privatebrowsingpage.perwindow.issueDesc        "&brandShortName; သည် မည်သည့်မှတ်တမ်းကိုမျှ မှတ်ထားမှာ မဟုတ်ဘူး။">
-<!ENTITY privatebrowsingpage.perwindow.issueDesc.normal "သင်သည် ယခုအခါ လုံခြုံမှူအထူးစနစ်ဖြင့် မဟုတ်ပါ။">
+<!ENTITY aboutPrivateBrowsing.subtitle         "&brandShortName; သည် မည်သည့်မှတ်တမ်းကိုမျှ မှတ်ထားမှာ မဟုတ်ဘူး။">
 
-<!ENTITY privatebrowsingpage.perwindow.description     "သီးသန့် လှော်လှန်ခြင်း အခန်းကဏ္ဍ တခုမှာ၊ &brandShortName; က ဘယ် လှော်လှန်ခြင်း မှတ်တမ်း၊ ရှာဖွေရေး မှတ်တမ်း၊ ဆွဲချ မှတ်တမ်း၊ ကွန်ရက် ဖြည့်စွတ်ပုံစံ မှတ်တမ်း၊   ကုပ်ကီးများ (သို့) ခေတ္တ အင်တာနက် ဖိုင်များကိုမျှ သိမ်းထားမှာ မဟုတ်ဘူး။ ဒါပေမဲ့၊ သင် ဆွဲချ​တဲ့ ဖိုင်းများနဲ့ မှတ်သားချက်များကို သိမ်းထားလိမ့်မယ်။">
+
+
+
+
 
 <!ENTITY privatebrowsingpage.openPrivateWindow.label "Pလုံခြုံရေးအထူးစနစ် အားဖွင့်ပါ။ ">
 <!ENTITY privatebrowsingpage.openPrivateWindow.accesskey "P">
-<!-- LOCALIZATION NOTE (privatebrowsingpage.howToStart4): please leave &newPrivateWindow.label; intact in the translation -->
-
-<!ENTITY privatebrowsingpage.howToStart4               "သီးသန့်သုံးဆွဲရန်အတွက် မီနူး  မှ &newPrivateWindow.label; ကိုရွေးချယ်သုံးဆွဲနိုင်ပါသှ်">
-<!ENTITY privatebrowsingpage.howToStop3                "လုံခြုံရေးအထူးစနစ်အား ရပ်တန့်ရန် ယခုဝင်းဒိုးအားပိတ်ပစ်နိုင်သည်။">
-
-<!ENTITY privatebrowsingpage.moreInfo                  "ဒီကွန်ပြူတာမှာ သင့်ရဲ့ လှော်​လှန်ကြည့်ခြင်း မှတ်တမ်းကို မှတ်သား မထားပေမဲ့၊ သင့်ရဲ့ အင်တာနက် ၀န်ဆောင်မှု ပေးသူ (သို့) လုပ်ငန်းရှင်က သင်ကြည့်ရှုတဲ့ စာမျက်နှာများကို ခြေရာခံနိုင်သေးတယ်။">
-<!ENTITY privatebrowsingpage.learnMore                 "ဆက်လက်ဖတ်ရှူရန်">
-<!-- TO BE REMOVED POST-AUSTRALIS --> 
-<!-- LOCALIZATION NOTE (privatebrowsingpage.howToStart3): please leave &basePBMenu.label; intact in the translation -->
-
-
-<!ENTITY privatebrowsingpage.howToStart3               "To start Private Browsing, you can also select &basePBMenu.label; &gt; &newPrivateWindow.label;.">

@@ -10,8 +10,8 @@
 
 <!ENTITY update.checkForUpdatesButton.label       "အဆင့်မြှင့်တင်ရန် လိုအပ်နေလား စစ်ကြည့်မည်။">
 <!ENTITY update.checkForUpdatesButton.accesskey   "အ">
-<!ENTITY update.updateButton.label                "R အပ်ဒိပ်လုပ်ဖို့ ပြန်စတင်ပါ">
-<!ENTITY update.updateButton.accesskey            "R">
+
+
 <!ENTITY update.applyButtonBillboard.label        "Aအသစ်များအားအသုံးချ ...">
 <!ENTITY update.applyButtonBillboard.accesskey    "A">
 <!-- LOCALIZATION NOTE (warningDesc.version): This is a warning about the experimental nature of Nightly and Aurora builds. It is only shown in those versions. -->
@@ -38,10 +38,10 @@
 <!ENTITY community.creditsLink      "ကမ္ဘာလုံးဆိုင်ရာ ကွန်မြူနတီ">
 <!ENTITY community.end3             "အင်တာနက် အား အများပိုင်ဖြစ်ရန်၊ ပွင့်လင်းမြင်သာမှူရှိရန် သုံးဆွဲနိုင်ရန်လုပ်ဆောင်လျက်">
 
-<!ENTITY contribute.start           "စိတ်ဝင်စားဖို့ကောင်းပါသလား?">
-<!-- LOCALIZATION NOTE (contribute.getInvolvedLink): This is a link title that links to http://www.mozilla.org/contribute/. -->
-<!ENTITY contribute.getInvolvedLink "ပါဝင်မည်။">
-<!ENTITY contribute.end             "ပြီး">
+<!-- LOCALIZATION NOTE (helpus.donateLink): This is a link title that links to https://sendto.mozilla.org/page/contribute/Give-Now?source=mozillaorg_default_footer&ref=firefox_about&utm_campaign=firefox_about&utm_source=firefox&utm_medium=referral&utm_content=20140929_FireFoxAbout. -->
+
+<!-- LOCALIZATION NOTE (helpus.getInvolvedLink): This is a link title that links to http://www.mozilla.org/contribute/. -->
+<!ENTITY helpus.end                 "">
 <!-- LOCALIZATION NOTE (bottomLinks.license): This is a link title that links to about:license. -->
 
 <!ENTITY bottomLinks.license        "လိုင်စင်အကြောင်းသိကောင်းစရာ">

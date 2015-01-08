@@ -133,8 +133,8 @@ installed.</li>
 <!ENTITY phishingBlocked.longDesc "<p>Entering any personal information on this page may result in identity theft or other fraud.</p> 
 <p>These types of web forgeries are used in scams known as phishing attacks, in which fraudulent web pages and emails are used to imitate sources you may trust.</p>">
 
-<!ENTITY cspFrameAncestorBlocked.title "Content Security Policy အရပိတ်ပင်ထားသည်။">
-<!ENTITY cspFrameAncestorBlocked.longDesc "<p>&brandShortName; သည်ယခု၀တ်ဆိုက်အားပါ၀င်နေသောအရာတစ်ခု၏လုံခြုံရေး ကြောင့်ရယူခြင်းကိုခွင့်မပြုပါ.</p>">
+<!ENTITY cspBlocked.title "Content Security Policy အရပိတ်ပင်ထားသည်။">
+<!ENTITY cspBlocked.longDesc "<p>&brandShortName; သည်ယခု၀တ်ဆိုက်အားပါ၀င်နေသောအရာတစ်ခု၏လုံခြုံရေး ကြောင့်ရယူခြင်းကိုခွင့်မပြုပါ.</p>">
 
 <!ENTITY corruptedContentError.title "နှောက်ယှက်ခံရသောပြသာနာ">
 <!ENTITY corruptedContentError.longDesc "<p>အချက်အလက်ကူးယူပြောင်းခြင်းပြသာနာကြောင့်၀တ်ဆိုက်အားမပြသနိုင်ပါ။</p><ul><li>၀တ်ဆိုက်ပိုင်ရှင်များဤပြသာနာအားအသိပေးရန်ကျေးဇူးပြုပြီးဆက်သွယ်ပေးပါ။</li></ul>">
@@ -154,5 +154,19 @@ functionality specific to firefox. -->
 <button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button> 
 <button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>">
 
+
+
+
+
+
+
+
+
 <!ENTITY remoteXUL.title "အားဖယ်ပါ XUL">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>၀တ်ဆိုက်ပိုင်ရှင်အားဤပြသာနားအားတင်ပြရန်ဆက်သွယ်ပါ</li></ul></p>">
+
+<!-- LOCALIZATION NOTE (oldSecurityProtocol.longDesc) - Do not translate the
+     <span id='hostname'></span>. -->
+<!-- LOCALIZATION NOTE (oldSecurityProtocol.advancedInfo) - Do not translate
+     the <span id='errorcode'></span>. -->
+

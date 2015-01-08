@@ -4,25 +4,22 @@
 
 <!ENTITY tracking.label                 "ခြေရာခံခြင်း">
 
-<!ENTITY dntTrackingNopref.label2       "သင်ခြေရာမခံလိုသော၀တ်ဆိုက်များအားသင့်ရဲ့လိုလားမှုများကိုမပြောပြပါ">
-<!ENTITY dntTrackingNopref.accesskey    "o">
 <!ENTITY dntTrackingNotOkay.label2      "သင်ခြေရာမခံလိုသော၀တ်ဆိုက်များအားပြောပါ">
 <!ENTITY dntTrackingNotOkay.accesskey   "n">
-<!ENTITY dntTrackingOkay.label2         "၀တ်ဆိုက်များအားသင်ခြေရာခံလိုကြောင်းပြောပါ">
+
+
 
 <!ENTITY doNotTrackInfo.label           "ဆက်လက်ဖတ်ရှူရန်">
 
-<!ENTITY  history.label                 "မှတ်တမ်း">
 
 <!ENTITY  locationBar.label             "တည်နေရာ အတန်း">
 
-<!ENTITY  locbar.pre.label              "uတည်နေရာ အတန်းကို သုံးစွဲတဲ့အခါ၊ အ​ကြံပြုတာက၊">
-<!ENTITY  locbar.pre.accessKey          "u">
-<!ENTITY  locbar.post.label             "English">
-<!ENTITY  locbar.both.label             "သက်၀င် မှတ်သားချက်များ">
-<!ENTITY  locbar.history.label          "မှတ်တမ်း">
-<!ENTITY  locbar.bookmarks.label        "မှတ်သားချက်များ">
-<!ENTITY  locbar.nothing.label          "ဘာမှ မရှိ">
+
+
+
+
+
+
 
 <!ENTITY  acceptCookies.label           "Aကွန်ရက်များမှ ကွတ်ကီးများကို လက်ခံပါ။">
 <!ENTITY  acceptCookies.accesskey       "A">
@@ -33,8 +30,7 @@
 <!ENTITY  acceptThirdParty.never.label    "ဘယ်တော့မှ">
 <!ENTITY  acceptThirdParty.visited.label  "လည်ပတ်ကြည့်ရှုပီးသည်မှ">
 
-<!ENTITY  keepUntil.label               "Kသိမ်းဆည်းထားမဲ့ အချိန်၊">
-<!ENTITY  keepUntil.accesskey           "K">
+
 
 <!ENTITY  expire.label                  "သူတို့ သက်တမ်းပြီ">
 <!ENTITY  close.label                   "&brandShortName; ကို ပိတ်လိုက်တယ်">

@@ -15,6 +15,7 @@
 
 <!ENTITY  paneGeneral.title       "အထွေထွေ">
 <!ENTITY  paneTabs.title          "ခလုပ်ပြားများ">
+<!ENTITY  paneSearch.title        "ရှာဖွေပါ">
 <!ENTITY  paneContent.title       "ပါဝင်ပစ္စည်း">
 <!ENTITY  paneApplications.title  "လုပ်ငန်းသုံး ကိရိယာများ">
 <!ENTITY  panePrivacy.title       "ကိုယ်ပိုင်လွတ်လပ်ခွင့်">

@@ -2,7 +2,9 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY aboutApps.title2                          "အက်ပ်များ">
+<!ENTITY aboutApps.header                          "သင်၏ အက်ပ်များ">
 
+<!ENTITY aboutApps.browseMarketplace "မီးမြေခွေး Marketplace ကို ဖွင့်ကြည့်ပါ">
 <!ENTITY aboutApps.uninstall "ဖြုတ်ပစ်">
-
 <!ENTITY aboutApps.checkForUpdates "အဆင့်မြှင့်တင်ရန်လိုအပ်နေလားစစ်ကြည့်မည်။">

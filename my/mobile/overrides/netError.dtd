@@ -11,13 +11,14 @@
 
 
 <!ENTITY connectionFailure.title "ချိတ်ဆက်ဖို့ မအောင်မြင်ဘူး">
-<!ENTITY connectionFailure.longDesc "&sharedLongDesc2;">
+
 
 <!ENTITY deniedPortAccess.title "လုံခြုံရေး ကိစ္စများကြောင့် အခံကို တားမြစ်ထားတယ်။">
 <!ENTITY deniedPortAccess.longDesc "">
 
 <!ENTITY dnsNotFound.title "လိပ်စာ မတွေ့ရဘူး">
-
+<!-- LOCALIZATION NOTE (dnsNotFound.longDesc4) This string contains markup including widgets for searching
+     or enabling wifi connections. The text inside tags should be localized.  Do not change the ids. -->
 
 <!ENTITY fileNotFound.title "ဖိုင် မတွေ့ရဘူး">
 <!ENTITY fileNotFound.longDesc "<ul> 
@@ -30,21 +31,18 @@
 <!ENTITY generic.longDesc "<p>&brandShortName; can't load this page for some reason.</p>">
 
 <!ENTITY malformedURI.title "မမှန်တဲ့ လိပ်စာ">
-<!ENTITY malformedURI.longDesc "<ul> 
-<li>Web addresses are usually written like 
-<strong>http://www.example.com/</strong></li> 
-<li>Make sure that you're using forward slashes (i.e. 
-<strong>/</strong>).</li> 
-</ul>">
+<!-- LOCALIZATION NOTE (malformedURI.longDesc2) This string contains markup including widgets for searching
+     or enabling wifi connections. The text inside the tags should be localized. Do not touch the ids. -->
 
 <!ENTITY netInterrupt.title "အချက်အလက်ကြမ်း လွှဲပြောင်းမှု တုံ့ဆိုင်းသွားတယ်">
-<!ENTITY netInterrupt.longDesc "&sharedLongDesc2;">
+
 
 <!ENTITY notCached.title "ဒေါ့ကုမန့်အကျိုးသက်ရောက်ရက်ကျော်လွန်ပြီး">
 <!ENTITY notCached.longDesc "<p>တောင်းဆိုထားသောဒေါ့ကုမန့်သည် &brandShortName;၏ခေတ္တသိမ်းမှတ်ဉာဏ်ထဲတွင်မရှိတော့ပါ</p><ul><li>လုံခြုံရေးကာကွယ်မှူအရ &brandShortName; သည် အချို့သောဒေါ့ကုမန့်များအားသိမ်းထားလေ့မရှိပါ.</li><li>ဝတ်ဆိုဒ်မှပြန်လည်တောင်းဆိုရန်အတွက် နောက်ထပ် ကိုနှိပ်ပါ။</li></ul>">
 
 <!ENTITY netOffline.title "ချိတ်ဆက်မဲ့ စနစ်">
-
+<!-- LOCALIZATION NOTE (netOffline.longDesc3) This string contains markup including widgets enabling wifi connections.
+     The text inside the tags should be localized. Do not touch the ids. -->
 
 <!ENTITY contentEncodingError.title "အကြောင်းအရာ စာဝှက်ရေးသားမှု အမှား">
 <!ENTITY contentEncodingError.longDesc "<ul> 
@@ -57,10 +55,10 @@
 </ul>">
 
 <!ENTITY netReset.title "ချိတ်ဆက်မှု တုံ့ဆိုင်းသွားတယ်။">
-<!ENTITY netReset.longDesc "&sharedLongDesc2;">
+
 
 <!ENTITY netTimeout.title "ချိတ်ဆက်မှု အချိန်ကုန်သွားတယ်။">
-<!ENTITY netTimeout.longDesc "&sharedLongDesc2;">
+
 
 <!ENTITY unknownProtocolFound.title "အမည်မသိ နည်းလမ်း">
 <!ENTITY unknownProtocolFound.longDesc "<ul> 
@@ -75,7 +73,8 @@
 </ul>">
 
 <!ENTITY proxyResolveFailure.title "ကြားခံ ဆာဗာ မတွေ့ရဘူး။">
-
+<!-- LOCALIZATION NOTE (proxyResolveFailure.longDesc3) This string contains markup including widgets for enabling wifi connections.
+     The text inside the tags should be localized. Do not touch the ids. -->
 
 <!ENTITY redirectLoop.title "ပတ်လမ်း လမ်းလွှဲပေးပါ">
 <!ENTITY redirectLoop.longDesc "<ul> 
@@ -100,10 +99,11 @@
 <li>အရင်တုန်းက ဒီဆာဗာကို အောင်အောင် မြင်မြင် သင်ချိတ်ဆက်ခဲ့ရင်၊ အမှားဟာ ခေတ္တ ဖြစ်နိုင်တယ်၊ 
 ဒါကြောင့် သင်နောက်တခါ ထပ်ကြိုးစားနိုင်ပါ။</li> 
 </ul>">
+<!-- LOCALIZATION NOTE (sharedLongDesc3) This string contains markup including widgets for enabling wifi connections.
+     The text inside the tags should be localized. Do not touch the ids. -->
 
-
-<!ENTITY cspFrameAncestorBlocked.title "Content Security Policy အရပိတ်ပင်ထားသည်။">
-<!ENTITY cspFrameAncestorBlocked.longDesc "<p>&brandShortName; သည်ယခု၀တ်ဆိုက်အားပါ၀င်နေသောအရာတစ်ခု၏လုံခြုံရေး ကြောင့်ရယူခြင်းကိုခွင့်မပြုပါ.</p>">
+<!ENTITY cspBlocked.title "Content Security Policy အရပိတ်ပင်ထားသည်။">
+<!ENTITY cspBlocked.longDesc "<p>&brandShortName; သည်ယခု၀တ်ဆိုက်အားပါ၀င်နေသောအရာတစ်ခု၏လုံခြုံရေး ကြောင့်ရယူခြင်းကိုခွင့်မပြုပါ.</p>">
 
 <!ENTITY corruptedContentError.title "နှောက်ယှက်ခံရသောပြသာနာ">
 <!ENTITY corruptedContentError.longDesc "<p>အချက်အလက်ကူးယူပြောင်းခြင်းပြသာနာကြောင့်၀တ်ဆိုက်အားမပြသနိုင်ပါ။</p><ul><li>၀တ်ဆိုက်ပိုင်ရှင်များဤပြသာနာအားအသိပေးရန်ကျေးဇူးပြုပြီးဆက်သွယ်ပေးပါ။</li></ul>">

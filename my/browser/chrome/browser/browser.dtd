@@ -140,17 +140,20 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY editThisBookmarkCmd.label "ဤစာမျက်နှာအမှတ်အားပြင်မည်။">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
 <!ENTITY markPageCmd.commandkey "I">
+<!-- LOCALIZATION NOTE (findShareServices.label):
+  -  Use the unicode ellipsis char, \u2026,
+  -  or use "..." if \u2026 doesn't suit traditions in your locale. -->
 <!ENTITY sharePageCmd.label "sယခုစာမျက်နှာအားမျှပါ">
 <!ENTITY sharePageCmd.commandkey "S">
 <!ENTITY sharePageCmd.accesskey "s">
-<!ENTITY shareLinkCmd.label "s ယခုလင်ခ့်မျှဝေပါ">
-<!ENTITY shareLinkCmd.accesskey "s">
-<!ENTITY shareImageCmd.label "s ပုံအားမျှဝေပါ">
-<!ENTITY shareImageCmd.accesskey "s">
-<!ENTITY shareSelectCmd.label "S  ရွေးထားသောစာအားမျှဝေပါ">
-<!ENTITY shareSelectCmd.accesskey "S">
-<!ENTITY shareVideoCmd.label "s ဤဗီဒီယိုအားမျှဝေမည်">
-<!ENTITY shareVideoCmd.accesskey "s">
+<!-- LOCALIZATION NOTE (shareLink.accesskey): must be different than the following share access keys -->
+
+
+
+
+
+
+
 <!ENTITY feedsMenu.label "စာရင်းသွင်း">
 <!ENTITY subscribeToPageMenupopup.label "ဒီစာမျက်နှာမှာ စာရင်းသွင်းပါ">
 <!ENTITY subscribeToPageMenuitem.label "ဒီစာမျက်နှာမှာ စာရင်းသွင်းပါ...">
@@ -213,6 +216,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY addons.accesskey             "A">
 <!ENTITY addons.commandkey            "A">
 
+
+
 <!ENTITY webDeveloperMenu.label       "ဝတ်ဆိုက်များဖန်တီးသူ">
 <!ENTITY webDeveloperMenu.accesskey   "ဝ">
 
@@ -236,7 +241,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY responsiveDesignTool.label   "Responsive Design View">
 <!ENTITY responsiveDesignTool.accesskey "R">
-<!ENTITY responsiveDesignTool.commandkey "M">
+
 
 <!ENTITY eyedropper.label   "(y)မျက်ကြည့်">
 <!ENTITY eyedropper.accesskey "y">
@@ -260,6 +265,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY browserToolboxMenu.label     "(e)ဘယောက်ဆာ တူးလ်ဘား">
 <!ENTITY browserToolboxMenu.accesskey "e">
+<!-- LOCALIZATION NOTE (browserContentToolboxMenu.label): This is the label for the
+  -  application menu item that opens the browser content toolbox UI in the Tools menu.
+  -  This toolbox allows to debug the chrome of the content process in multiprocess builds.  -->
 
 <!ENTITY devToolbarCloseButton.tooltiptext "Close Developer Toolbar">
 <!ENTITY devToolbarMenu.label              "(v)ကျွမ်းကျင်သူသုံး ကိရိယာ">
@@ -268,6 +276,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY devAppMgrMenu.accesskey           "A">
 <!ENTITY webide.label                      "WebIDE">
 <!ENTITY webide.accesskey                  "W">
+
+<!ENTITY webide.keytext                    "F8">
 <!ENTITY devToolbar.keycode                "VK_F2">
 <!ENTITY devToolbar.keytext                "F2">
 <!ENTITY devToolboxMenuItem.label          "Toggle Tools">
@@ -400,6 +410,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY searchFocus.commandkey       "k">
 <!ENTITY searchFocus.commandkey2      "e">
 <!ENTITY searchFocusUnix.commandkey   "j">
+<!-- LOCALIZATION NOTE (searchFor.label, searchWith.label):
+     These two strings are used to build the header above the list of one-click
+     search providers:  "Search for <used typed keywords> with:" -->
+
+
 
 <!ENTITY tabView.commandkey           "e">
 
@@ -475,6 +490,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY emailImageCmd.accesskey      "g">
 <!ENTITY emailVideoCmd.label          "အီးမေးလ် ဗီဒီယို...">
 <!ENTITY emailVideoCmd.accesskey      "a">
+
+
 <!ENTITY emailAudioCmd.label          "aအသံဖိုင်အားမေလ်းပို့မည်...">
 <!ENTITY emailAudioCmd.accesskey      "a">
 <!ENTITY playPluginCmd.label          "c ယခု ဖြည့်စွက် ပရိုဂရမ် ကို အသက်သွင်းစေ">
@@ -691,6 +708,9 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 
 
+
+
+
 <!ENTITY customizeMode.tabTitle "&brandShortName; အားပြုပြင်မည်">
 <!ENTITY customizeMode.menuAndToolbars.header2 "ထပ်ပေါင်းထည့်ထားသော တူးလ်များနှင့် လုပ်ဆောင်ချက်များ">
 <!ENTITY customizeMode.menuAndToolbars.empty "နောက်ထပ် တူးလ်များလိုသေးလား ?">
@@ -698,6 +718,14 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY customizeMode.restoreDefaults "စံ​ ပြန်ထားမည်">
 <!ENTITY customizeMode.toolbars "တူးလ်ဘားအား ပြ / ဖျောက် ">
 <!ENTITY customizeMode.titlebar "ခေါင်းစီး ဘား">
+
+
+
+<!ENTITY customizeMode.lwthemes.menuManage "စီမံ">
+
+
+
+
 
 <!ENTITY social.chatBar.commandkey "c">
 <!ENTITY social.chatBar.label "cချက်အားရွေးပါ">
@@ -710,18 +738,29 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY getUserMedia.selectCamera.label "Cကင်မရာအားရှယ်">
 <!ENTITY getUserMedia.selectCamera.accesskey "C">
-<!ENTITY getUserMedia.selectWindowOrScreen.label "(W) ဝင်းဒို့ သို့ စကရင် အားမျှဝေ ၊">
-<!ENTITY getUserMedia.selectWindowOrScreen.accesskey "W">
 <!ENTITY getUserMedia.selectMicrophone.label "Mမိုက်ကရိုဖုန်းအားရှယ်:">
 <!ENTITY getUserMedia.selectMicrophone.accesskey "M">
 <!ENTITY getUserMedia.allWindowsShared.message "သင့်စကရင်ပေါ်ရှိ မြင်ရသော ဝင်းဒိုးအားလုံး မျှဝေပေးမည်။">
+<!-- Bad Content Blocker Doorhanger Notification -->
 
-<!ENTITY webrtcIndicatorButton.label "ကင်မရာ/မိုက်ကရိုဖုန်းသုံးခွင့်">
-<!ENTITY webrtcIndicatorButton.tooltip "သင်လောလောဆယ် ရုပ်မြင်ကင်မရာနှင့် မိုက်ကရိုဖုန်းမျှပေးထားသော ဆိုဒ်များအား ပြမည် ">
 
-<!ENTITY loopCallButton.tooltip "တစ်စုံတစ်ယောက်အား စကားပြောရန် ဖိတ်ခေါ်ပါ">
 
-<!ENTITY mixedContentBlocked.moreinfo "ယခု အကြောင်းအရာ ကို ပိတ်ဆို့ထားနေစဉ်ပင်တွင် ဝက်ဘ်ဆိုက်များ အများစု ကောင်းမွန်စွာ အလုပ်လုပ်နိုင်">
+
+
+
+
+
+
+
+<!ENTITY trackingContentBlocked.message "ခြေရာခံခြင်း">
+
+
+
+
+
+
+
+
 
 <!ENTITY pointerLock.notification.message "နောက်တခါပြန်ကြည့်ချင်ရင် ESC  နှိပ်ပါ">
 
@@ -750,4 +789,24 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY appMenuSidebars.label         "ကပ်လျှက်ဘေးဘားများ">
 
 <!ENTITY switchToMetroCmd2.label       "Relaunch in &brandShortName; for Windows 8 Touch">
+<!-- LOCALIZATION NOTE: (panicButton.view.mainTimeframeDesc, panicButton.view.5min, panicButton.view.2hr, panicButton.view.day):
+     The .mainTimeframeDesc string combined with any of the 3 others is meant to form a complete sentence, e.g. "Forget the last: Five minutes".
+     Please ensure that this remains the case in the translation. -->
+
+
+
+<!-- LOCALIZATION NOTE: (panicButton.view.mainLabel, panicButton.view.deleteCookies, panicButton.view.deleteHistory, panicButton.view.deleteTabsAndWindows, panicButton.view.openNewWindow):
+     The .mainActionDesc string combined with any of the 4 others is meant to form a complete sentence, e.g. "Proceeding will: Delete Recent Cookies".
+     Note also that the deleteCookies, deleteHistory and deleteTabsAndWindows strings include <html:strong> tags for emphasis on the words "Cookies", "History", "Tabs" and "Windows".
+     The translation should do the same. -->
+
+
+
+
+
+<!ENTITY panicButton.view.undoWarning             "ဒီလုပ်ဆောင်ချက်ကို ပြန်ဖြေလို့ မရနိုင်ဘူး။">
+
+
+
+
 

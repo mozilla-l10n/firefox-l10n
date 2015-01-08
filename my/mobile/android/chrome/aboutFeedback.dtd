@@ -5,10 +5,11 @@
      fun and playful. Please feel free to adjust the tone as works best in
      your language and/or locale. More detailed notes below. -->
 
+<!ENTITY intro.header              "တစ်မိနစ် အချိန်ပေးပါ?">
 
+<!ENTITY intro.happyLink           "သဘောကျတယ်">
 
-
-
+<!ENTITY intro.maybeLater          "နောက်တော့မှ">
 <!-- LOCALIZATION NOTE (support.pre): Include a trailing space as needed. -->
 <!-- LOCALIZATION NOTE (support.link): Avoid leading/trailing spaces, this text is a link. -->
 <!-- LOCALIZATION NOTE (support.post): Include a starting space as needed. -->
@@ -20,6 +21,8 @@
 <!-- LOCALIZATION NOTE (happy.finePrint): "feels great" — Another exaggeration where we're trying to
      get people to rate us by playfully telling them there's a benefit in it for them as well. -->
 
+<!ENTITY happy.ratingLink          "ဟုတ်ကဲ့၊ Google Play ကို သွားပါ">
+<!ENTITY happy.maybeLater2         "နောက်တော့မှ">
 
 
 

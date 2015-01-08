@@ -3,9 +3,8 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY aboutAddons.title2                     "ပေါင်းထည့်ဆော့ဝဲများ">
-
+<!ENTITY aboutAddons.header2                    "သင်၏ ပေါင်းထည့်ဆော့ဝဲများ">
 <!ENTITY aboutAddons.options                    "ရွေးစရာများ">
-
 
 <!ENTITY addonAction.enable                     "လုပ်ဆောင်နိုင်စေမည်။">
 <!ENTITY addonAction.disable                    "ပိတ်ထားသည်">

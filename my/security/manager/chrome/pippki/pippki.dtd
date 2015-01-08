@@ -80,11 +80,6 @@
 <!ENTITY createCertInfo.title "သီးသန့် သော့ချက်တခုကို ဖန်တီးပါ">
 <!ENTITY createCertInfo.msg1 "သော့ချက် ဖန်တီးခြင်း တိုးတက်မှု... ဒီအရာက မိနစ်အနီးငယ် ကြာနိုင်တယ်...">
 <!ENTITY createCertInfo.msg2 "စောင့်နေပါ...">
-<!-- Form Signing confirmation prompt -->
-
-<!ENTITY formSigning.title "စာသား သတ်မှတ်ခြင်း တောင်းဆိုမှု">
-<!ENTITY formSigning.cert "လက်မှတ် ရေးထိုးခြင်း">
-<!ENTITY formSigning.confirmPassword "သင့်ရဲ့ ရွေးချယ်ထားတဲ့ လက်မှတ်ကို အသုံးပြုပြီး ဒီစာသား သတင်းစကား လက်မှတ်ထိုးမှုအတွက် သင့်ရဲ့ သဘောတူမှု အတည်ပြုဖို့၊ သင့်ရဲ့ ပင်မ စကားဝှက်ကို ရေးထည့်ခြင်းဖြင့် အတည်ပြုပါ -">
 <!-- Strings for protectedAuth dialog -->
 
 <!ENTITY protectedAuth.title "ကာကွယ်ထားတဲ့ အမှတ်အသား အတည်ပြုမှု">
