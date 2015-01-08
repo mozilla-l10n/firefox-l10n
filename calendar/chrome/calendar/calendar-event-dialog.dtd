@@ -106,7 +106,7 @@
 <!ENTITY  event.menu.options.attendees.label                  "Katılımcıları davet et…">
 <!ENTITY  event.menu.options.attendees.accesskey              "K">
 <!ENTITY  event.menu.options.timezone2.label                  "Saat dilimlerini göster">
-<!ENTITY  event.menu.options.timezone2.accesskey              "g">
+<!ENTITY  event.menu.options.timezone2.accesskey              "S">
 <!ENTITY  event.menu.options.priority2.label                  "Öncelik">
 <!ENTITY  event.menu.options.priority2.accesskey              "c">
 <!ENTITY  event.menu.options.priority.notspecified.label      "Belirtilmemiş">
@@ -126,7 +126,7 @@
 <!ENTITY  event.menu.options.privacy.private.label            "Özel etkinlik">
 <!ENTITY  event.menu.options.privacy.private.accesskey        "z">
 <!ENTITY  event.menu.options.show.time.label                  "Saati farklı göster">
-<!ENTITY  event.menu.options.show.time.accesskey              "ö">
+<!ENTITY  event.menu.options.show.time.accesskey              "f">
 <!ENTITY  event.menu.options.show.time.busy.label             "Meşgul">
 <!ENTITY  event.menu.options.show.time.busy.accesskey         "M">
 <!ENTITY  event.menu.options.show.time.free.label             "Serbest">
@@ -186,7 +186,7 @@
 <!ENTITY event.attachments.label                          "Ekler:" >
 <!ENTITY event.attachments.accesskey                      "E" >
 <!ENTITY event.attachments.menubutton.label               "Ekle">
-<!ENTITY event.attachments.menubutton.accesskey           "A">
+<!ENTITY event.attachments.menubutton.accesskey           "E">
 <!ENTITY event.attachments.url.label                      "Web sayfası…">
 <!ENTITY event.attachments.url.accesskey                  "W">
 <!ENTITY event.attachments.popup.remove.label             "Kaldır" >

@@ -4,9 +4,9 @@
 
 <!ENTITY providerUninstall.title                           "Sağlayıcı kaldır">
 <!ENTITY providerUninstall.accept.label                    "Seçilenlerin aboneliğinden ayrıl">
-<!ENTITY providerUninstall.accept.accesskey                "b">
+<!ENTITY providerUninstall.accept.accesskey                "S">
 <!ENTITY providerUninstall.cancel.label                    "Eklentiyi tut">
-<!ENTITY providerUninstall.cancel.accesskey                "t">
+<!ENTITY providerUninstall.cancel.accesskey                "E">
 <!ENTITY providerUninstall.preName.label                   "Şunları kaldırmayı veya devre dışı bırakmayı talep ettiniz:">
 <!ENTITY providerUninstall.postName.label                  "Bu işlem, aşağıda takvimleri devre dışı bıracaktır.">
 <!ENTITY providerUninstall.reinstallNote.label             "Bu sağlayıcıyı yeniden yüklemeyi planlamıyorsanız, sağlayıcının takvimlerinden ayrılmayı tercih edebilirsiniz.">
