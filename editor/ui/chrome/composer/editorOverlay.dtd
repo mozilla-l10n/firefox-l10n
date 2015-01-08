@@ -334,7 +334,7 @@
 <!ENTITY structRemoveTag.label "Fjern tag">
 <!ENTITY structRemoveTag.accesskey "r">
 <!ENTITY structChangeTag.label "Skift tag">
-<!ENTITY structChangeTag.accesskey "Æ">
+<!ENTITY structChangeTag.accesskey "S">
 
 <!-- TOC manipulation -->
 <!ENTITY insertTOC.label "Indsæt">
