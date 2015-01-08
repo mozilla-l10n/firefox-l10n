@@ -111,8 +111,8 @@ dumneavoastră.</li>
 <!ENTITY phishingBlocked.longDesc "<p>Introducerea de informații personale pe această pagină ar putea rezulta în furt de identitate sau altă fraudă.</p> 
 <p>Aceste tipuri de falsuri web sunt folosite în păcăleli numite și „phishing”, în care pagini și adrese de email sunt folosite pentru a imita unele în care aveți încredere.</p>">
 
-<!ENTITY cspFrameAncestorBlocked.title "Blocat de politica de securitate asupra conținutului">
-<!ENTITY cspFrameAncestorBlocked.longDesc "<p>&brandShortName; a împiedicat această pagină să se încarce în acest mod deoarece pagina are o politică de securitate asupra conținutului ce nu permite asta.</p>">
+<!ENTITY cspBlocked.title "Blocat de politica de securitate asupra conținutului">
+<!ENTITY cspBlocked.longDesc "<p>&brandShortName; a împiedicat această pagină să se încarce în acest mod deoarece pagina are o politică de securitate asupra conținutului ce nu permite asta.</p>">
 
 <!ENTITY corruptedContentError.title "Eroare cauzată de conținut corupt">
 <!ENTITY corruptedContentError.longDesc "<p>Conținutul pe care încercați să-l vizualizați nu poate fi afișat, deoarece a fost detectată o eroare în transmisia de date.</p><ul><li>Vă rugăm contactați proprietarii, pentru a-i informa despre această problemă.</li></ul>">

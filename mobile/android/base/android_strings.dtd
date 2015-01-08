@@ -8,8 +8,8 @@
 
 <!ENTITY  onboard_start_message "Bun venit la &brandShortName;!">
 <!ENTITY  onboard_start_subtext "Creat pentru tine, pentru confidențialitatea ta și pentru un web deschis">
-
-
+<!ENTITY  onboard_start_button_account "Conectați-vă la &brandShortName;">
+<!ENTITY  onboard_start_button_browser "Începeți navigarea">
 <!-- Localization note: These are used as the titles of different pages on the home screen.
      They are automatically converted to all caps by the Android platform. -->
 
@@ -18,6 +18,7 @@
 <!ENTITY  reading_list_title "Listă de citit">
 <!ENTITY  recent_tabs_title "File recente">
 
+<!ENTITY  switch_to_tab "Du-te la fila">
 
 <!ENTITY  crash_reporter_title "Raportor de defecte în &brandShortName;">
 <!ENTITY  crash_message2 "&brandShortName; a avut o problemă și s-a închis neașteptat. Filele dumneavoastră ar trebui să fie listate pe pagina de start &brandShortName; când reporniți navigatorul.">
@@ -38,6 +39,7 @@
 
 <!ENTITY choose_file "Alegere fișier">
 
+<!ENTITY url_bar_default_text2 "Caută sau indică o adresă">
 
 <!ENTITY bookmark_added "S-a adăugat semnul de carte">
 <!ENTITY bookmark_removed "Semn de carte șters">
@@ -65,24 +67,29 @@
      We can't use android plural forms, sadly. See bug #753859. -->
 <!ENTITY num_tabs2 "file &formatD;">
 <!ENTITY new_tab_opened "Filă nouă deschisă">
-
+<!ENTITY new_private_tab_opened "O nouă pagină privată deschisă">
 <!-- Localization note (switch_button_message): This string should be as short
      as possible because it's shown as a label in a toast.  Ideally, this string
      is upper-case, to match Google and Android's convention. -->
+<!ENTITY switch_button_message "SCHIMBA">
 
 <!ENTITY settings "Setări">
 <!ENTITY settings_title "Setări">
 <!ENTITY pref_category_advanced "Avansat">
 <!ENTITY pref_category_customize "Personalizare">
-
+<!ENTITY pref_category_customize_summary "Acasă, căutare, file, import">
 <!-- Localization note (pref_category_language) : This is the preferences
      section in which the user picks the locale in which to display Firefox
      UI. The locale includes both language and region concepts. -->
 
-
+<!ENTITY pref_category_language "Limbă">
+<!ENTITY pref_category_language_summary "Schimbă limba browserului">
+<!ENTITY pref_browser_locale "Limbă utilizator">
 <!-- Localization note (locale_system_default) : This string indicates that
      Firefox will use the locale currently selected in Android's settings
      to display browser chrome. -->
+
+<!ENTITY locale_system_default "Setarea de bază a sistemului">
 <!-- Localization note (overlay_share_label) : This is the label that appears
      in Android's intent chooser when sending a link to Firefox to bookmark,
      send to another device, or add to Reading List. -->
@@ -90,18 +97,20 @@
      used in the share overlay menu to select an action. It is the verb
      "to bookmark", not the noun "a bookmark". -->
 <!ENTITY overlay_share_reading_list_btn_label "Adăugați în lista de citit">
-
-
-
+<!ENTITY overlay_share_bookmark_btn_label_already "Deja marcat">
+<!ENTITY overlay_share_reading_list_btn_label_already "Deja în lista de citit">
+<!ENTITY overlay_share_send_other "Trimiteți către alte dispozitive">
 <!-- Localization note (overlay_share_send_tab_btn_label) : Used on the
      share overlay menu to represent the "Send Tab" action when the user
      either has not set up Sync, or has no other devices to send a tab
      to. -->
 
+<!ENTITY overlay_share_send_tab_btn_label "Trimiteți către un alt dispozitiv">
+<!ENTITY overlay_share_no_url "Niciun link nu a fost găsit">
 <!ENTITY overlay_share_retry "Încearcă din nou">
+<!ENTITY overlay_share_select_device "Selectați un dispozitiv">
 
-
-
+<!ENTITY pref_category_search_summary "Personalizează furnizorii de motoare de căutare">
 <!ENTITY pref_category_display "Ecran">
 
 <!ENTITY pref_category_privacy_short "Confidențialitate">
@@ -126,9 +135,9 @@
 <!ENTITY pref_developer_remotedebugging "Depanare de la distanță">
 <!ENTITY pref_remember_signons "Memorează parolele">
 
-
-
-
+<!ENTITY pref_category_home_summary "Personalizează pagina de start">
+<!ENTITY pref_category_home_panels "Panouri">
+<!ENTITY home_add_panel_title "Adăugați un nou panou">
 
 <!-- Localization note (home_add_panel_installed):
      The &formatS; will be replaced with the name of the new panel the user just
@@ -154,10 +163,7 @@
 <!ENTITY pref_cookies_not_accept_foreign "Activat, excluzând terții">
 <!ENTITY pref_cookies_disabled "Dezactivată">
 
-<!ENTITY pref_donottrack_menu "Urmărire">
-<!ENTITY pref_donottrack_disallow_tracking "Anunță saiturile că nu doresc să fiu urmărit">
-<!ENTITY pref_donottrack_allow_tracking "Anunță saiturile că doresc să fiu urmărit">
-<!ENTITY pref_donottrack_no_pref "Nu anunța nimic saiturilor despre preferințele mele de urmărire">
+
 
 <!ENTITY pref_char_encoding "Arată codarea caracterelor">
 <!ENTITY pref_char_encoding_on "Arată meniul">
@@ -192,6 +198,8 @@ size. -->
     demonstrate the font size setting.  It is meant to be whimsical and fun. -->
 
 <!ENTITY pref_font_size_preview_text "Vulpea portocalie ageră face un salt peste așteptările dumneavoastră cu mai multă viteză, mai multă flexibilitate și mai multă securitate. Fiind organizație nonprofit, suntem liberi să inovăm în folosul dumneavoastră fără nicio presiune ca să facem compromisuri. Asta înseamnă o experiență mai bună pentru dumneavoastră și un viitor mai frumos pentru internet.">
+
+
 
 <!ENTITY pref_use_master_password "Folosește parola generală">
 <!ENTITY pref_sync "Sincronizare">
@@ -333,8 +341,11 @@ size. -->
 <!ENTITY site_settings_no_settings  "Nu sunt setări de curățat.">
 
 <!ENTITY reading_list_added "Pagină adăugată la lista ta de citit">
-<!ENTITY reading_list_failed "Eșec la adăugarea paginii la lista ta de citit">
 <!ENTITY reading_list_duplicate "Pagina deja existentă în lista de citire">
+<!-- Localization note (reading_list_time_minutes2) : This string is used in the "Reading List"
+     panel on the home page to give the user an estimate of how many minutes it will take to
+     read an article. The word "minute" should be abbreviated if possible. -->
+
 <!-- Localization note : These strings are used as alternate text for accessibility.
      They are not visible in the UI. -->
 
@@ -355,6 +366,8 @@ size. -->
 
 <!-- Localization note (home_top_sites_add): This string is used as placeholder
      text underneath empty thumbnails in the Top Sites page on about:home. -->
+<!-- Localization note (home_title): This string should be kept in sync
+     with the page title defined in aboutHome.dtd -->
 
 
 
@@ -364,6 +377,8 @@ size. -->
 
 
 
+<!-- Localization note (home_most_recent_emptyhint2): "Psst" is a sound that might be used to attract someone's attention unobtrusively, and intended to hint at Private Browsing to the user.
+     The placeholders &formatS1; and &formatS2; are used to mark the location of text underlining. -->
 
 <!-- Localization note (home_reading_list_hint): The "TIP" string is synonymous to "hint", "clue", etc. This string is displayed
      as an advisory message on how to add content to the reading list when the reading list empty.
@@ -418,11 +433,19 @@ substitution variables.  If it is difficult to translate the sense of the string
 with that structure, consider a translation which ignores the preceding domain and
 just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_run_by "care este menținut de">
+
+
 <!-- Mixed content notifications in site identity popup -->
 
 <!ENTITY loaded_mixed_content_message "Această pagină afișează conținut care nu este sigur.">
 <!ENTITY blocked_mixed_content_message_top "&brandShortName; a blocat conținutul care nu este sigur.">
 <!ENTITY blocked_mixed_content_message_bottom "Majoritatea saiturilor web vor funcționa corect în continuare chiar dacă acest tip de conținut e blocat.">
+<!-- Tracking content notifications in site identity popup -->
+
+
+
+<!-- Common mixed and tracking content strings in site identity popup -->
+
 <!ENTITY learn_more "Află mai multe">
 <!ENTITY enable_protection "Activare protecție">
 <!ENTITY disable_protection "Dezactivare protecție">
@@ -447,8 +470,6 @@ din Android">
 <!ENTITY webapp_generic_name "Aplicație">
 
 <!ENTITY searchable_description "Semne de carte și istoric">
-
-<!ENTITY devtools_remote_debugging_forward "Nu uitați să configurați portul de expediere!">
 <!-- Updater notifications --> 
 
 <!ENTITY updater_start_title2 "Actualizare disponibilă pentru &brandShortName;">
@@ -482,7 +503,7 @@ din Android">
      designated space. Use the unicode ellipsis char, \u2026, or use "..." if \u2026 doesn't suit
      traditions in your locale. -->
 
-<!-- These are only used for accessiblity for the done and overflow-menu buttons in the actionbar.
+<!-- These are only used for accessibility for the done and overflow-menu buttons in the actionbar.
      They are never shown to users -->
 <!ENTITY actionbar_done "Gata">
 <!-- Localization note (remote_tabs_last_synced): the variable is replaced by a
@@ -491,3 +512,8 @@ din Android">
      include "42 minutes ago", "4 days ago", "last week", etc. The subject of
      "Last synced" is one of the user's other Sync clients, typically Firefox on
      their desktop or laptop.-->
+<!-- Find-In-Page strings -->
+<!-- LOCALIZATION NOTE (find_matchcase): This is meant to appear as an icon that changes color
+     if match-case is activated. i.e. No more than two letters, one uppercase, one lowercase. -->
+
+<!ENTITY find_matchcase "Aa">

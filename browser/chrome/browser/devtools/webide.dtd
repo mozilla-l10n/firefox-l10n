@@ -23,6 +23,8 @@
 
 
 
+
+
 <!ENTITY runtimeMenu_disconnect_label "Deconectare">
 
 
@@ -34,9 +36,15 @@
 
 
 
+
+
 <!ENTITY viewMenu_label "Vizualizează">
 
 
+
+<!ENTITY viewMenu_zoomin_label "Apropie">
+
+<!ENTITY viewMenu_zoomout_label "Depărtează">
 
 
 
@@ -49,6 +57,10 @@
 <!-- show toolbox -->
 <!ENTITY key_toggleToolbox "VK_F12">
 <!-- toggle sidebar -->
+<!-- zoom -->
+
+
+
 
 
 <!ENTITY projectPanel_tabs "File">
@@ -99,11 +111,18 @@
 
 
 
-
-
 <!-- Permissions Table -->
 <!ENTITY permissionstable_name_header "Nume">
 <!-- Runtime Details -->
+
+
+
+
+
+
+<!-- Device Preferences -->
+
+
 
 
 

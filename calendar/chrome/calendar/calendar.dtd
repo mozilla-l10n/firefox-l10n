@@ -211,7 +211,7 @@
 <!ENTITY priority.level.normal              "Normală">
 <!ENTITY priority.level.normal.accesskey    "N">
 <!ENTITY priority.level.high                "Mare">
-<!ENTITY priority.level.high.accesskey      "M">
+
 
 <!ENTITY calendar.context.postpone.1hour.label      "1 oră">
 <!ENTITY calendar.context.postpone.1hour.accesskey  "o">
@@ -243,6 +243,12 @@
 <!ENTITY calendar.context.export.accesskey             "E">
 <!ENTITY calendar.context.properties.label             "Proprietăți">
 <!ENTITY calendar.context.properties.accesskey         "P">
+<!-- LOCALIZATION NOTE (calendar.context.togglevisible.accesskey)
+     This is the access key used for the showCalendar string -->
+<!-- LOCALIZATION NOTE (calendar.context.showonly.accesskey)
+     This is the access key used for the showOnlyCalendar string -->
+
+
 
 <!ENTITY calendar.context.convertmenu.label              "Convertește la">
 <!ENTITY calendar.context.convertmenu.accesskey.mail     "n">

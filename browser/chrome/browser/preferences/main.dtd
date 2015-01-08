@@ -31,10 +31,11 @@
 <!ENTITY alwaysAsk.label "Întreabă-mă întotdeauna unde să fie salvate fișierele">
 <!ENTITY alwaysAsk.accesskey "a">
 
-<!ENTITY alwaysCheckDefault.label         "Verifică întotdeauna la pornire pentru a vedea dacă &brandShortName; este navigatorul implicit">
 
 
 
 <!ENTITY isDefault.label                  "&brandShortName; e acum navigatorul principal">
+
+
 
 

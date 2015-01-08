@@ -29,10 +29,6 @@
 <!ENTITY showCookies.label "Arată cookie-urile...">
 <!ENTITY showCookies.accesskey "A">
 
-<!ENTITY dntTrackingNopref.accesskey "o">
 <!ENTITY dntTrackingNotOkay.label2 "Informează saiturile web că nu vreau să fiu urmărit">
 <!ENTITY dntTrackingNotOkay.accesskey "n">
-<!ENTITY dntTrackingOkay.label2 "Informează saiturile web că vreau să fiu urmărit">
-<!ENTITY dntTrackingOkay.accesskey "t">
-
 
