@@ -203,7 +203,7 @@ functionality specific to firefox. -->
 <!ENTITY remoteXUL.title                       "Remote XUL">
 <!ENTITY remoteXUL.longDesc                    "<p><ul><li>Palun võta ühendust veebilehe omanikega, et teavitada neid sellest probleemist.</li></ul></p>">
 
-<!ENTITY oldSecurityProtocol.title             "Turvaliselt ühendumine pole võimalik">
+<!ENTITY oldSecurityProtocol.title             "Turvaline ühendumine pole võimalik">
 <!-- LOCALIZATION NOTE (oldSecurityProtocol.longDesc) - Do not translate the
      <span id='hostname'></span>. -->
 <!ENTITY oldSecurityProtocol.longDesc2         "&brandShortName; ei saa garanteerida sinu andmete turvalisust saidis <span id='hostname'></span>, sest see kasutab katkist turvaprotokolli SSLv3.">
