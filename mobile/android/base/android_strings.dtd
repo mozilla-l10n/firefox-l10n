@@ -78,11 +78,13 @@
 <!ENTITY settings_title "Налаштування">
 <!ENTITY pref_category_advanced "Додатково">
 <!ENTITY pref_category_customize "Вподобання">
+<!ENTITY pref_category_customize_summary "Домівка, пошук, вкладки, імпорт">
 
 <!-- Localization note (pref_category_language) : This is the preferences
      section in which the user picks the locale in which to display Firefox
      UI. The locale includes both language and region concepts. -->
 <!ENTITY pref_category_language "Мова">
+<!ENTITY pref_category_language_summary "Зміна мови браузера">
 <!ENTITY pref_browser_locale "Мова браузера">
 
 <!-- Localization note (locale_system_default) : This string indicates that
@@ -100,6 +102,8 @@
      "to bookmark", not the noun "a bookmark". -->
 <!ENTITY overlay_share_bookmark_btn_label "Закладка">
 <!ENTITY overlay_share_reading_list_btn_label "Додати до списку читання">
+<!ENTITY overlay_share_bookmark_btn_label_already "Вже закладено">
+<!ENTITY overlay_share_reading_list_btn_label_already "Вже у списку читання">
 <!ENTITY overlay_share_send_other "Відправити на інші пристрої">
 
 <!-- Localization note (overlay_share_send_tab_btn_label) : Used on the
@@ -112,15 +116,18 @@
 <!ENTITY overlay_share_select_device "Виберіть пристрій">
 
 <!ENTITY pref_category_search3 "Пошук">
-<!ENTITY pref_category_search_summary "Налаштувати пошуковики">
+<!ENTITY pref_category_search_summary "Налаштувати засоби пошуку">
 <!ENTITY pref_category_display "Відображення">
+<!ENTITY pref_category_display_summary "Текст, панель заголовку, повноекранний перегляд">
 <!ENTITY pref_category_privacy_short "Приватність">
+<!ENTITY pref_category_privacy_summary "Керування паролями, куками, стеженням та даними">
 <!ENTITY pref_category_vendor "&vendorShortName;">
+<!ENTITY pref_category_vendor_summary "Про &brandShortName;, ЧаП, вибір даних">
 <!ENTITY pref_category_datareporting "Вибір даних">
 <!ENTITY pref_learn_more "Докладніше">
-<!ENTITY pref_category_installed_search_engines "Встановлені пошукові системи">
+<!ENTITY pref_category_installed_search_engines "Встановлені засоби пошуку">
 <!ENTITY pref_category_add_search_providers "Додати інші джерела">
-<!ENTITY pref_category_search_restore_defaults "Відновити пошукові системи">
+<!ENTITY pref_category_search_restore_defaults "Відновити засоби пошуку">
 <!ENTITY pref_search_restore_defaults "Відновити типові">
 <!ENTITY pref_search_restore_defaults_summary "Відновити типові">
 <!-- Localization note (pref_search_hint) : "TIP" as in "hint", "clue" etc. Displayed as an
@@ -128,9 +135,10 @@
      search providers.
      The &formatI; in the string will be replaced by a small image of the icon described, and can be moved to wherever
      it is applicable. -->
-<!ENTITY pref_search_hint "Підказка: Додавайте будь-який сайт до списку пошуковиків довгим натисканням по його пошуковому полю, а потім тицьнувни по іконці &formatI;.">
+<!ENTITY pref_search_hint "Підказка: Додавайте будь-який сайт до списку засобів пошуку довгим натисканням по його пошуковому полю, а потім торкнувшись до іконки &formatI;.">
 <!ENTITY pref_category_devtools "Інструменти розробника">
-<!ENTITY pref_developer_paint_flashing "Paint flashing">
+<!ENTITY pref_category_devtools_summary "Віддалене зневадження, підсвічування кольором">
+<!ENTITY pref_developer_paint_flashing "Підсвічування кольором">
 <!ENTITY pref_developer_remotedebugging "Віддалене зневадження">
 <!ENTITY pref_remember_signons "Пам’ятати паролі">
 
@@ -205,8 +213,10 @@ size. -->
 
 <!ENTITY pref_use_master_password "Використовувати головний пароль">
 <!ENTITY pref_sync "Синхронізація">
+<!ENTITY pref_sync_summary "Синхронізація вкладок, закладок, паролів та історії">
 <!ENTITY pref_search_suggestions "Показувати пошукові припущення">
 <!ENTITY pref_import_android "Імпорт з Android">
+<!ENTITY pref_import_android_summary "Імпорт закладок та історії з вбудованого браузера">
 <!ENTITY pref_private_data_history2 "Історія перегляду">
 <!ENTITY pref_private_data_formdata "Історія форм та пошуків">
 <!ENTITY pref_private_data_cookies2 "Куки та активні сеанси">
@@ -225,7 +235,7 @@ size. -->
 <!ENTITY pref_dialog_default "Типовий">
 <!ENTITY pref_dialog_remove "Вилучити">
 
-<!ENTITY pref_search_last_toast "Ви не можете вилучити чи вимкнути ваш останній пошуковик.">
+<!ENTITY pref_search_last_toast "Ви не можете вилучити чи вимкнути ваш останній засіб пошуку.">
 
 <!ENTITY pref_panels_show "Показати">
 <!ENTITY pref_panels_hide "Приховати">
@@ -257,7 +267,6 @@ size. -->
 <!ENTITY datareporting_crashreporter_title_short "Звіти про падіння">
 <!ENTITY datareporting_wifi_title2 "Послуга розташування &vendorShortName;">
 <!ENTITY datareporting_wifi_geolocation_summary "Отримує у фоновому режимі дані про розташування Wi-Fi та мобільної мережі та передає їх у &vendorShortName;, щоб покращити послугу визначення розташування">
-
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
      actual notification that an update is available. -->
@@ -292,6 +301,7 @@ size. -->
 <!ENTITY tabs_private "Приватні">
 <!ENTITY tabs_synced "Синхронізовані">
 <!ENTITY set_image_fail "Неможливо встановити зображення">
+<!ENTITY set_image_path_fail "Неможливо зберегти зображення">
 <!ENTITY set_image_chooser_title "Встановити зображення як">
 
 <!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
@@ -322,7 +332,7 @@ size. -->
 <!ENTITY contextmenu_top_sites_edit "Редагувати">
 <!ENTITY contextmenu_top_sites_pin "Прикріпити сайт">
 <!ENTITY contextmenu_top_sites_unpin "Відкріпити сайт">
-<!ENTITY contextmenu_add_search_engine "Додати пошукову систему">
+<!ENTITY contextmenu_add_search_engine "Додати засіб пошуку">
 
 <!ENTITY pref_titlebar_mode "Панель заголовка">
 <!ENTITY pref_titlebar_mode_title "Показувати заголовок сторінки">
@@ -401,11 +411,35 @@ size. -->
 
 <!-- Localization note (home_move_up_to_filter): The variable is replaced by the name of the
      previous location in the navigation, such as the previous folder -->
-<!ENTITY home_move_up_to_filter "Up to &formatS;">
+<!ENTITY home_move_up_to_filter "Повернутися до &formatS;">
+
+<!ENTITY home_remote_tabs_title "Синхронізовані вкладки">
+<!ENTITY home_remote_tabs_empty "Ваші вкладки з інших пристроїв з'являються тут.">
+<!ENTITY home_remote_tabs_unable_to_connect "Неможливо з'єднатися">
+<!ENTITY home_remote_tabs_need_to_sign_in "Увійдіть, щоб знову підключитися до свого облікового запису Firefox та продовжити синхронізацію.">
+<!ENTITY home_remote_tabs_trouble_verifying "Проблеми з підтвердженням облікового запису?">
+<!ENTITY home_remote_tabs_need_to_verify "Підтвердіть свій обліковий запис Firefox для початку синхронізації.">
+
+<!ENTITY home_remote_tabs_one_hidden_device "1 пристрій приховано">
+<!-- Localization note (home_remote_tabs_many_hidden_devices) : The
+     formatD is replaced with the number of hidden devices.  The
+     number of hidden devices is always more than one.  We can't use
+     Android plural forms, sadly. See Bug #753859. -->
+<!ENTITY home_remote_tabs_many_hidden_devices "&formatD; пристроїв приховано">
+<!-- Localization note (home_remote_tabs_hidden_devices_title) : This is the
+     title of a dialog; we expect more than one device. -->
+<!ENTITY home_remote_tabs_hidden_devices_title "Приховані пристрої">
+<!-- Localization note (home_remote_tabs_unhide_selected_devices) : This is
+     the text of a button; we expect more than one device. -->
+<!ENTITY home_remote_tabs_unhide_selected_devices "Показати вибрані пристрої">
 
 <!ENTITY private_browsing_title "Приватний перегляд">
-<!ENTITY private_tabs_panel_empty_desc "Ваші приватні вкладки будуть з'являтися тут. Хоча ваша історія перегляду чи куки не будуть збережені, закладки та завантажені файли залишаться збереженими на вашому пристрої.">
+<!ENTITY private_tabs_panel_empty_desc "Ваші приватні вкладки будуть з'являтися тут. Хоча ваша історія перегляду та куки не будуть збережені, закладки та завантажені файли залишаться на вашому пристрої.">
 <!ENTITY private_tabs_panel_learn_more "Хочете дізнатись більше?">
+
+<!ENTITY remote_tabs_panel_moved_title "Куди поділись мої вкладки?">
+<!ENTITY remote_tabs_panel_moved_desc "Ми перемістили ваші вкладки з інших пристроїв у панель домашньої сторінки, до якої ви можете легко отримати доступ щоразу при відкритті нової вкладки.">
+<!ENTITY remote_tabs_panel_moved_link "Покажіть мені нову панель.">
 
 <!ENTITY pin_site_dialog_hint "Введіть пошукове скорочення">
 
@@ -442,9 +476,12 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY private_data_fail "Деякі приватні дані не можна вичистити">
 
 <!ENTITY bookmarkhistory_button_import "Імпорт">
-<!ENTITY bookmarkhistory_import_both "Імпорт закладок та історії з Android">
-<!ENTITY bookmarkhistory_import_bookmarks "Імпорт закладок з Android">
-<!ENTITY bookmarkhistory_import_history "Імпорт історії з Android">
+<!ENTITY bookmarkhistory_import_both "Імпорт закладок та історії
+                                      з Android">
+<!ENTITY bookmarkhistory_import_bookmarks "Імпорт закладок
+                                           з Android">
+<!ENTITY bookmarkhistory_import_history "Імпорт історії
+                                         з Android">
 <!ENTITY bookmarkhistory_import_wait "Зачекайте…">
 
 <!ENTITY suggestions_prompt3 "Хочете увімкнути пошукові підказки?">
@@ -472,6 +509,12 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY updater_apply_title2 "Доступне оновлення для &brandShortName;">
 <!ENTITY updater_apply_select2 "Торкніться, щоб оновити">
 
+<!-- New tablet UI -->
+
+<!-- LOCALIZATION NOTE (new_tablet_restart): Notification displayed after the user toggles the new tablet UI in the settings screen.-->
+<!ENTITY new_tablet_restart "Перезапустіть браузер, щоб застосувати зміни">
+<!ENTITY new_tablet_pref "Активувати новий інтерфейс планшета">
+
 <!-- Guest mode -->
 <!ENTITY new_guest_session "Новий гостьовий сеанс">
 <!ENTITY exit_guest_session "Завершити гостьовий сеанс">
@@ -479,6 +522,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY guest_session_dialog_cancel "Скасувати">
 <!ENTITY new_guest_session_title "&brandShortName; буде перезапущено">
 <!ENTITY new_guest_session_text "Особа, яка користується гостьовим сеансом не побачить жодних ваших особистих даних (паролі, історія, закладки тощо). .\n\nКоли гість завершить роботу, його дані перегляду будуть стерті, а ваш сеанс буде відновлено.">
+<!ENTITY guest_browsing_notification_title "Активовано гостьовий перегляд">
+<!ENTITY guest_browsing_notification_text "Торкніться для виходу">
 
 <!ENTITY exit_guest_session_title "&brandShortName; буде перезапущено">
 <!ENTITY exit_guest_session_text "Дані цього сеансу перегляду будуть видалені.">
