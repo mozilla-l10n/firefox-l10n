@@ -483,10 +483,10 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY blocked_mixed_content_message_bottom "Enamus veebilehti töötab korrektselt ka selle sisu blokkimisel.">
 
 <!-- Tracking content notifications in site identity popup -->
-<!ENTITY loaded_tracking_content_message_top "Jälitamise vastane kaitse on keelatud.">
-<!ENTITY loaded_tracking_content_message_bottom "Mõned osad sellest lehest võivad jälitada sinu tegevust internetis.">
-<!ENTITY blocked_tracking_content_message_top2 "Jälitamise vastane kaitse on lubatud.">
-<!ENTITY blocked_tracking_content_message_bottom2 "Sellest lehest blokiti mõned osad, mis jälitavad sinu tegevust internetis.">
+<!ENTITY loaded_tracking_content_message_top "Jälitamisvastane kaitse on keelatud.">
+<!ENTITY loaded_tracking_content_message_bottom "Mõned selle lehe osad võivad jälitada sinu tegevust internetis.">
+<!ENTITY blocked_tracking_content_message_top2 "Jälitamisvastane kaitse on lubatud.">
+<!ENTITY blocked_tracking_content_message_bottom2 "Blokiti mõned selle lehe osad, mis jälitavad sinu tegevust internetis.">
 
 <!-- Common mixed and tracking content strings in site identity popup -->
 <!ENTITY learn_more                      "Rohkem teavet">

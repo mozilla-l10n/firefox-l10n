@@ -731,7 +731,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY customizeMode.lwthemes.menuManage.accessKey "H">
 <!ENTITY customizeMode.lwthemes.menuGetMore      "Hangi rohkem teemasid">
 <!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "a">
-<!ENTITY customizeMode.deveditionTheme.label2    "Kasuta teemat Developer Edition">
+<!ENTITY customizeMode.deveditionTheme.label2    "Kasuta arendusversiooni teemat">
 
 <!ENTITY social.chatBar.commandkey               "c">
 <!ENTITY social.chatBar.label                    "Too vestlused fookusse">

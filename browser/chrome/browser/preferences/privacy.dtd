@@ -15,7 +15,7 @@
 
 <!ENTITY  locationBar.label                      "Asukohariba">
 
-<!ENTITY  locbar.suggest.label                   "Kasutades asukohariba, otsitakse soovitusi:">
+<!ENTITY  locbar.suggest.label                   "Asukohariba abil otsitakse soovitusi:">
 <!ENTITY  locbar.history.label                   "ajaloost">
 <!ENTITY  locbar.history.accesskey               "a">
 <!ENTITY  locbar.bookmarks.label                 "järjehoidjatest">
