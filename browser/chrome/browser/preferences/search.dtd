@@ -14,4 +14,13 @@
 
 <!ENTITY chooseWhichOneToDisplay.label         "Du kan søge direkte i andre søgetjenester. Vælg hvilke, der skal vises.">
 
+<!ENTITY engineNameColumn.label                "Søgetjeneste">
+<!ENTITY engineKeywordColumn.label             "Stikord">
+
+<!ENTITY restoreDefaultSearchEngines.label     "Gendan standard-søgetjenester">
+<!ENTITY restoreDefaultSearchEngines.accesskey "g">
+
+<!ENTITY removeEngine.label                    "Fjern">
+<!ENTITY removeEngine.accesskey                "f">
+
 <!ENTITY addMoreSearchEngines.label            "Tilføj flere søgetjenester…">
