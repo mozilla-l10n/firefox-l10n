@@ -77,7 +77,7 @@
 <!ENTITY pref_category_search3 "Ricerca">
 <!ENTITY pref_category_search_summary "Personalizza i motori di ricerca">
 <!ENTITY pref_category_display "Visualizzazione">
-<!ENTITY pref_category_display_summary2 "Testo, navigazione a schermo intero">
+<!ENTITY pref_category_display_summary "Testo, barra del titolo, navigazione a schermo intero">
 <!ENTITY pref_category_privacy_summary "Gestisci password, cookie, tracciamento, dati">
 <!ENTITY pref_category_privacy_short "Privacy">
 <!ENTITY pref_category_vendor "&vendorShortName;">
@@ -241,6 +241,9 @@
 <!ENTITY contextmenu_top_sites_pin "Blocca sito">
 <!ENTITY contextmenu_top_sites_unpin "Sblocca sito">
 <!ENTITY contextmenu_add_search_engine "Aggiungi motore di ricerca">
+<!ENTITY pref_titlebar_mode "Barra del titolo">
+<!ENTITY pref_titlebar_mode_title "Visualizza titolo pagina">
+<!ENTITY pref_titlebar_mode_url "Visualizza indirizzo pagina">
 <!ENTITY pref_scroll_title_bar2 "Navigazione a schermo intero">
 <!ENTITY pref_scroll_title_bar_summary "Nascondi la barra del titolo di &brandShortName; quando si scorre una pagina verso il basso">
 <!ENTITY page_removed "Pagina rimossa">
