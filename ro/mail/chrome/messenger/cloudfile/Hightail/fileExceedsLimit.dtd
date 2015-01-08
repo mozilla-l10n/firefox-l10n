@@ -2,12 +2,5 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this file,
    - You can obtain one at http://mozilla.org/MPL/2.0/.  -->
 <!ENTITY fileExceedsLimit.title   "Hightail">
-<!ENTITY fileExceedsLimit.thatsBigFile   "Trimiterea de fișiere mai mari de 50 MB">
-<!ENTITY fileExceedsLimit.thatsBigFile2   "este o funcție premium.">
-<!ENTITY fileExceedsLimit.accept "Actualizare">
-<!ENTITY fileExceedsLimit.cancel "Revocare">
+
 <!ENTITY fileExceedsLimit.style "width: 40em; min-height: 20em;">
-<!ENTITY fileExceedsLimit.proIncludes "Upgrade now to send this file plus:">
-<!ENTITY fileExceedsLimit.pros1 "Trimite fișiere și dosare de până la 2GB">
-<!ENTITY fileExceedsLimit.pros2 "Stocați fișiere nelimitate online">
-<!ENTITY fileExceedsLimit.pros3 "Accesați și distribuiți fișiere de oriunde">

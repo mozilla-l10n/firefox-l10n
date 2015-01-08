@@ -49,7 +49,8 @@
 <!ENTITY hdrViewToolbarAlwaysReplySender.label "Arată întotdeauna răspunsul către expeditor">
 <!ENTITY hdrViewToolbarAlwaysReplySender.accesskey "r">
 
-<!ENTITY otherActionsButton1.label "Alte acțiuni">
+<!ENTITY otherActionsButton2.label "Mai mult">
+
 <!ENTITY otherActionsOpenConversation1.label "Deschide în conversație">
 <!ENTITY otherActionsOpenConversation1.accesskey "c">
 <!ENTITY otherActionsOpenInNewWindow1.label "Deschide în fereastră nouă">

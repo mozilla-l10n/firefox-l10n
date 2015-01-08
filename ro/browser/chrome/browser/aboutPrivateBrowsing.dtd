@@ -16,7 +16,3 @@
 
 <!ENTITY privatebrowsingpage.openPrivateWindow.label "Deschide o fereastră fără urme">
 <!ENTITY privatebrowsingpage.openPrivateWindow.accesskey "m">
-<!-- TO BE REMOVED POST-AUSTRALIS --> 
-<!-- LOCALIZATION NOTE (privatebrowsingpage.howToStart3): please leave &basePBMenu.label; intact in the translation -->
-
-<!ENTITY privatebrowsingpage.howToStart3               "Pentru a începe navigarea fără urme, puteți să selectați și &basePBMenu.label; &gt; &newPrivateWindow.label;.">

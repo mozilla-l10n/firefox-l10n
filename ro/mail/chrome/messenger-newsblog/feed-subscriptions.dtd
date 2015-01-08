@@ -4,7 +4,7 @@
 <!-- Subscription Dialog -->
 
 <!ENTITY feedSubscriptions.label     "Abonamente la fluxuri">
-<!ENTITY subscriptionDesc.label      "Notă: eliminarea sau schimbarea directorului pentru stocare nu va afecta articolele preluate anterior.">
+
 
 <!ENTITY feedTitle.label             "Titlu:">
 <!ENTITY feedTitle.accesskey         "T">
@@ -12,6 +12,8 @@
 <!ENTITY feedLocation.label          "URL flux:">
 <!ENTITY feedLocation.accesskey      "U">
 <!ENTITY feedLocation.placeholder    "Introduceți un url de flux valid pentru a fi adăugat">
+<!ENTITY locationValidate.label      "Validează">
+<!ENTITY validateText.label          "Verifică validarea și obține o adresă web corectă.">
 
 <!ENTITY feedFolder.label            "Stochează articolele în:">
 <!ENTITY feedFolder.accesskey        "S">
@@ -23,9 +25,6 @@
 
 
 
-
-<!ENTITY locationValidate.label      "Validează">
-<!ENTITY validateText.label          "Verifică validarea și obține o adresă web corectă.">
 
 <!ENTITY button.addFeed.label        "Adaugă">
 <!ENTITY button.addFeed.accesskey    "A">

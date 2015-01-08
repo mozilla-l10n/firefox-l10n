@@ -8,6 +8,7 @@
 
 <!ENTITY aboutTelemetry.telemetryDisabled "  Telemetria este <span>dezactivată</span>.">
 
+
 <!ENTITY aboutTelemetry.slowSqlSection "  Declarații SQL lente">
 
 <!ENTITY aboutTelemetry.chromeHangsSection " Blocări navigator">
@@ -15,6 +16,7 @@
 <!ENTITY aboutTelemetry.threadHangStatsSection "  Fire de execuție blocate">
 
 <!ENTITY aboutTelemetry.histogramsSection "  Histograme">
+
 
 <!ENTITY aboutTelemetry.simpleMeasurementsSection "  Măsurători simple">
 
