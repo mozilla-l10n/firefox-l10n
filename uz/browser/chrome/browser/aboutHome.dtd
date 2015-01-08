@@ -22,7 +22,7 @@
 -->
 <!ENTITY abouthome.defaultSnippet2.v1 "&quot;Firefox&quot;ni xohlaganingizdek o‘zingizga moslash juda oson. Buning uchun <a>minglab qo‘shimcha dasturlardan birini tanlang</a>.">
 <!-- LOCALIZATION NOTE (abouthome.rightsSnippet): text in <a/> will be linked to about:rights -->
-<!ENTITY abouthome.rightsSnippet "&brandFullName; notijorat Mozilla uyushmasi tomonidan chiqarilgan erkin va ochiq kodli dasturiy ta’minotdir . <a>Huquqlaringizni biling…</a>">
+<!ENTITY abouthome.rightsSnippet "&brandFullName; notijorat Mozilla tashkiloti tomonidan chiqarilgan erkin va ochiq kodli dasturiy ta’minotdir . <a>Huquqlaringizni biling…</a>">
 
 <!ENTITY abouthome.bookmarksButton.label "Xatchoʻplar">
 <!ENTITY abouthome.historyButton.label   "Tarix">

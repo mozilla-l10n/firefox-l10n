@@ -14,10 +14,13 @@
 
 <!ENTITY chooseWhichOneToDisplay.label         "Qidiruv paneli sizga qidiruv muqobil tizimlarini taklif qiladi. Qaysi birini ko‘rsatish kerakligini tanlang.">
 
+<!ENTITY engineNameColumn.label                "Qidiruv tizimlari">
+<!ENTITY engineKeywordColumn.label             "Kalit so‘z">
 
+<!ENTITY restoreDefaultSearchEngines.label     "Standart qidiruv tizimlarini tiklash">
+<!ENTITY restoreDefaultSearchEngines.accesskey "S">
 
-
-
-
+<!ENTITY removeEngine.label                    "Olib tashlash">
+<!ENTITY removeEngine.accesskey                "O">
 
 <!ENTITY addMoreSearchEngines.label            "Ko‘proq qidiruv tizimlarini qo‘shish">

@@ -10,7 +10,7 @@
 <!ENTITY select.heading              "Qoʻchimcha dasturlaringizni tanlang">
 <!-- LOCALIZATION NOTE (select.description): The term used for "third parties"
      here should match the string source.other in selectAddons.properties. -->
-<!ENTITY select.description          "Uzoq vatdan buyon foydalanmayotgan qoʻshimcha dasturlaringizni oʻchirib, &brandShortName;ni tez ishlaydigan qiling. Uchinchi taraf tomonidan oʻrnatilgan qoʻshimcha dasturlar siz tanlamaguningizcha avtomatik tarzda oʻchirib qoʻyiladi.">
+<!ENTITY select.description          "Uzoq vaqtdan buyon foydalanmayotgan qo‘shimcha dasturlaringizni o‘chirib, &brandShortName;ni tez ishlaydigan qiling. Uchinchi taraf tomonidan o‘rnatilgan qo‘shimcha dasturlar siz tanlamaguningizcha avtomatik tarzda o‘chirib qo‘yiladi.">
 <!ENTITY select.keep                 "Saqlash">
 <!-- LOCALIZATION NOTE (select.keep.style): Should be a width wide enough for
      the string in select.keep above. -->
@@ -29,7 +29,7 @@
 <!ENTITY confirm.heading             "Qoʻshimcha dasturingizni tanlang">
 <!-- LOCALIZATION NOTE (confirm.description): The term used for "third parties"
      here should match the string source.other in selectAddons.properties. -->
-<!ENTITY confirm.description         "Uzoq vatdan buyon foydalanmayotgan qoʻshimcha dasturlaringizni oʻchirib, &brandShortName;ni tez ishlaydigan qiling. Uchinchi taraf tomonidan oʻrnatilgan qoʻshimcha dasturlar siz uni pastdan tanlamaguningizcha avtomatik tarzda oʻchirib qoʻyiladi.">
+<!ENTITY confirm.description         "Uzoq vaqtdan buyon foydalanmayotgan qo‘shimcha dasturlaringizni o‘chirib, &brandShortName;ni tez ishlaydigan qiling. Uchinchi taraf tomonidan o‘rnatilgan qo‘shimcha dasturlar siz uni pastdan tanlamaguningizcha avtomatik tarzda o‘chirib qo‘yiladi.">
 
 <!ENTITY action.disable.heading      "Quyidagi qoʻshimcha dasturlar oʻchirib qoʻyiladi:">
 <!ENTITY action.incompatible.heading "Quyidagi qoʻshimcha dasturlar oʻchirib qoʻyiladi, ammo ular mos kelishlari bilan tezda yoqib qoʻyiladi:">
