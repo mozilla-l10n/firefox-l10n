@@ -73,7 +73,7 @@
 <!ENTITY bookmarks.folder.unfiled.label "Sıralanmamış əlfəçinlər">
 
 <!ENTITY bookmarks.folder.mobile.label "Mobil Əlfəçinlər">
-
+<!ENTITY bookmarks.folder.readinglist.label "Oxuma siyahısı">
 <!-- Pinned sites on about:home. This folder should never be shown to the user, but we have to give it a string name -->
 <!-- Notification strings -->
 

@@ -3,20 +3,22 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 
-<!ENTITY  no_space_to_start_error "&brandShortName; səyyahının başlatılması üçün yetərli boş yaddaş yoxdur.">
+<!ENTITY  no_space_to_start_error "&brandShortName; səyyahının başladılması üçün yetərli boş yaddaş yoxdur.">
+<!ENTITY  error_loading_file "&brandShortName; başladılması üçün zəruri olan faylların yüklənilməsi zamanı xəra baş verdi.">
 
-
-
-
-
+<!ENTITY  onboard_start_message "&brandShortName;-a xoş gəlmisiniz!">
+<!ENTITY  onboard_start_subtext "Sizin, gizliliyiniz və Açıq Web üçün varıq">
+<!ENTITY  onboard_start_button_account "&brandShortName;-a daxil olun">
+<!ENTITY  onboard_start_button_browser "Səyahətə başla">
 <!-- Localization note: These are used as the titles of different pages on the home screen.
      They are automatically converted to all caps by the Android platform. -->
 
-<!ENTITY  bookmarks_title "Əlfəçinlər">
+<!ENTITY  bookmarks_title "Əlfəcinlər">
+<!ENTITY  history_title "Tarixçə">
+<!ENTITY  reading_list_title "Oxuma siyahısı">
+<!ENTITY  recent_tabs_title "Son vərəqlər">
 
-
-
-
+<!ENTITY  switch_to_tab "Vərəqə keç">
 
 
 
