@@ -116,5 +116,5 @@
 
 <!ENTITY viewCertificates.label         "Նայել հավաստագրերը">
 <!ENTITY viewCertificates.accesskey     "հ">
-
-
+<!ENTITY viewSecurityDevices.label      "Անվտանգության սարքեր">
+<!ENTITY viewSecurityDevices.accesskey  "ս">
