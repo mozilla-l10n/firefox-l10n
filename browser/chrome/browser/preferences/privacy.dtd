@@ -11,15 +11,17 @@
 <!ENTITY trackingProtectionLearnMore.label "Մանրամասն">
 <!ENTITY doNotTrackInfo.label           "Մանրամասն">
 
+<!ENTITY  history.label                 "Պատմություն">
 
 <!ENTITY  locationBar.label             "Հասցեի վահանակ">
 
-
-
-
-
-
-
+<!ENTITY  locbar.suggest.label          "Հասցեի վահանակը օգտագործելիս առաջարկել՝">
+<!ENTITY  locbar.history.label          "Պատմություն">
+<!ENTITY  locbar.history.accesskey      "Պ">
+<!ENTITY  locbar.bookmarks.label        "Էջանիշեր">
+<!ENTITY  locbar.bookmarks.accesskey    "ի">
+<!ENTITY  locbar.openpage.label         "Բացել ներդիրները">
+<!ENTITY  locbar.openpage.accesskey     "Բ">
 
 <!ENTITY  acceptCookies.label           "Ընդունել cookie-ներ կայքերից">
 <!ENTITY  acceptCookies.accesskey       "Ը">
@@ -30,7 +32,8 @@
 <!ENTITY  acceptThirdParty.never.label    "Երբեք">
 <!ENTITY  acceptThirdParty.visited.label  "Այցելածներից">
 
-
+<!ENTITY  keepUntil.label               "Պահել մինչև`">
+<!ENTITY  keepUntil.accesskey           "մ">
 
 <!ENTITY  expire.label                  "ավարտման ժամկերը">
 <!ENTITY  close.label                   "&brandShortName;-ը փակելը">
