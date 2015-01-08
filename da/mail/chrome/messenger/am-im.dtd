@@ -12,5 +12,5 @@
 <!ENTITY account.newMailNotification   "Giv besked ved nye mails">
 <!ENTITY account.autojoin              "Tilslut automatisk til disse kanaler:">
 <!ENTITY account.proxySettings.caption "Proxy-indstillinger:">
-<!ENTITY account.proxySettings.change.label     "Ændr…">
-<!ENTITY account.proxySettings.change.accessKey "Æ">
+<!ENTITY account.proxySettings.change.label     "Skift…">
+<!ENTITY account.proxySettings.change.accessKey "S">

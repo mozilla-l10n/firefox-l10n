@@ -333,7 +333,7 @@
 <!ENTITY structSelect.accesskey "M">
 <!ENTITY structRemoveTag.label "Fjern tag">
 <!ENTITY structRemoveTag.accesskey "r">
-<!ENTITY structChangeTag.label "Ændr tag">
+<!ENTITY structChangeTag.label "Skift tag">
 <!ENTITY structChangeTag.accesskey "Æ">
 
 <!-- TOC manipulation -->
