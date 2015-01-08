@@ -31,7 +31,7 @@
 <!ENTITY  font.langGroup.korean                   "Koreaans">
 <!ENTITY  font.langGroup.cyrillic                 "Cyrillies">
 <!ENTITY  font.langGroup.el                       "Grieks">
-
+<!ENTITY  font.langGroup.other                    "Ander skryfstelsels">
 <!ENTITY  font.langGroup.thai                     "Thai">
 <!ENTITY  font.langGroup.hebrew                   "Hebreeus">
 <!ENTITY  font.langGroup.arabic                   "Arabies">
@@ -72,7 +72,7 @@
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.arabic):
      Translate "Arabic" as an adjective for an encoding, not as the name of the language. -->
 <!ENTITY languages.customize.Fallback.arabic      "Arabies">
-
+<!ENTITY languages.customize.Fallback.baltic      "Balties">
 <!ENTITY languages.customize.Fallback.ceiso       "Sentraal-Europees, ISO">
 <!ENTITY languages.customize.Fallback.cewindows   "Sentraal-Europees, Microsoft">
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.simplified):
@@ -99,6 +99,7 @@
 <!ENTITY languages.customize.Fallback.thai        "Thai">
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.turkish):
      Translate "Turkish" as an adjective for an encoding, not as the name of the language. -->
+<!ENTITY languages.customize.Fallback.turkish     "Turks">
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.vietnamese):
      Translate "Vietnamese" as an adjective for an encoding, not as the name of the language. -->
 <!ENTITY languages.customize.Fallback.vietnamese  "Viëtnamees">

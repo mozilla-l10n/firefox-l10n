@@ -6,20 +6,22 @@
 
 <!ENTITY dntTrackingNotOkay.label2      "Vertel webwerwe dat ek nie gemonitor wil word nie">
 <!ENTITY dntTrackingNotOkay.accesskey   "n">
-
-
+<!ENTITY trackingProtection.label       "Keer dat werwe my volg">
+<!ENTITY trackingProtection.accesskey   "w">
 <!ENTITY trackingProtectionLearnMore.label "Meer inligting">
 <!ENTITY doNotTrackInfo.label           "Meer inligting">
 
+<!ENTITY  history.label                 "Geskiedenis">
 
 <!ENTITY  locationBar.label             "Adresbalk">
 
-
-
-
-
-
-
+<!ENTITY  locbar.suggest.label          "Wanneer ek die adresbalk gebruik, stel voor:">
+<!ENTITY  locbar.history.label          "Geskiedenis">
+<!ENTITY  locbar.history.accesskey      "G">
+<!ENTITY  locbar.bookmarks.label        "Boekmerke">
+<!ENTITY  locbar.bookmarks.accesskey    "k">
+<!ENTITY  locbar.openpage.label         "Oop oortjies">
+<!ENTITY  locbar.openpage.accesskey     "O">
 
 <!ENTITY  acceptCookies.label           "Aanvaar koekies van werwe">
 <!ENTITY  acceptCookies.accesskey       "A">
@@ -30,7 +32,8 @@
 <!ENTITY  acceptThirdParty.never.label    "Nooit">
 <!ENTITY  acceptThirdParty.visited.label  "Sedert besoek">
 
-
+<!ENTITY  keepUntil.label               "Hou tot:">
+<!ENTITY  keepUntil.accesskey           "H">
 
 <!ENTITY  expire.label                  "hulle verval">
 <!ENTITY  close.label                   "ek &brandShortName; afsluit">
