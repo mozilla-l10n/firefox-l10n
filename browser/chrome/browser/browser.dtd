@@ -147,13 +147,22 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY sharePageCmd.label "Поділитись сторінкою">
 <!ENTITY sharePageCmd.commandkey "l">
 <!ENTITY sharePageCmd.accesskey "д">
-<!ENTITY feedsMenu.label "Підписатись">
-<!ENTITY subscribeToPageMenupopup.label "Підписатися на цю сторінку">
-<!ENTITY subscribeToPageMenuitem.label "Підписатися на цю сторінку…">
-<!ENTITY addCurPagesCmd.label "Закласти всі вкладки…">
-<!ENTITY showAllBookmarks2.label "Показати всі закладки">
-<!ENTITY unsortedBookmarksCmd.label "Несортовані закладки">
-<!ENTITY bookmarksToolbarChevron.tooltip "Показати решту закладок">
+<!-- LOCALIZATION NOTE (shareLink.accesskey): must be different than the following share access keys -->
+<!ENTITY shareLink.label "Share This Link">
+<!ENTITY shareLink.accesskey "h">
+<!ENTITY shareImage.label "Share This Image">
+<!ENTITY shareImage.accesskey "r">
+<!ENTITY shareSelect.label "Share Selection">
+<!ENTITY shareSelect.accesskey "r">
+<!ENTITY shareVideo.label "Share This Video">
+<!ENTITY shareVideo.accesskey "r">
+<!ENTITY feedsMenu.label "Subscribe">
+<!ENTITY subscribeToPageMenupopup.label "Subscribe to This Page">
+<!ENTITY subscribeToPageMenuitem.label "Subscribe to This Page…">
+<!ENTITY addCurPagesCmd.label "Bookmark All Tabs…">
+<!ENTITY showAllBookmarks2.label "Show All Bookmarks">
+<!ENTITY unsortedBookmarksCmd.label "Unsorted Bookmarks">
+<!ENTITY bookmarksToolbarChevron.tooltip "Show more bookmarks">
 
 <!ENTITY backCmd.label                "Назад">
 <!ENTITY backButton.tooltip           "Назад на одну сторінку">
@@ -756,6 +765,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY trackingContentBlocked.moreinfo "Частини сторінки, які стежать за вашою активністю в Інтернеті заблоковано.">
 <!ENTITY trackingContentBlocked.learnMore "Дізнатися більше">
 <!ENTITY trackingContentBlocked.options "Налаштування">
+<!ENTITY trackingContentBlocked.unblock2.label "Disable protection for this site">
 <!ENTITY trackingContentBlocked.unblock2.accesskey "D">
 <!ENTITY trackingContentBlocked.block.label "Увімкнути захист">
 <!ENTITY trackingContentBlocked.block.accesskey "E">
