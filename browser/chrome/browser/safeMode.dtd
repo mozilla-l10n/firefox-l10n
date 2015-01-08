@@ -6,9 +6,10 @@
 <!ENTITY window.maxWidth              "400">
 
 <!ENTITY startSafeMode.label          "Begin in veilige modus">
-
+<!ENTITY refreshProfile.label         "Verfris &brandShortName;">
 
 <!ENTITY safeModeDescription3.label   "Veilige modus is 'n spesiale modus vir &brandShortName; wat gebruik kan word om foute op te spoor.">
 <!ENTITY safeModeDescription4.label   "Die byvoegings en pasgemaakte instellings sal tydelik gedeaktiveer word.">
 
+<!ENTITY refreshProfileInstead.label  "Dis ook moontlik om op te hou fout soek en eerder &brandShortName; te verfris.">
 <!-- LOCALIZATION NOTE (autoSafeModeDescription3.label): Shown on the safe mode dialog after multiple startup crashes. See also chrome/global/resetProfile.dtd -->
