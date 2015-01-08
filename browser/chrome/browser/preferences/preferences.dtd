@@ -15,6 +15,7 @@
 
 <!ENTITY  paneGeneral.title       "Загальне">
 <!ENTITY  paneTabs.title          "Вкладки">
+<!ENTITY  paneSearch.title        "Search">
 <!ENTITY  paneContent.title       "Вміст">
 <!ENTITY  paneApplications.title  "Програми">
 <!ENTITY  panePrivacy.title       "Приватність">
