@@ -122,8 +122,8 @@
 <!ENTITY phishingBlocked.longDesc "<p>මෙම පිටුවේදී ඕනෑම තොරතුරක් ඇතුළත් කිරීම අනන්‍යතා සොරා ගැනීමකට හෝ වෙනත් වංචාවකට හේතු විය හැක.</p> 
 <p>මෙවැනි ව්‍යාජ වෙබ් phishing ආක්‍රමණ ලෙස හදුන්වන වංචාවන් තුළ ඇත, එම ව්‍යාජ වෙබ් පිටු විද්‍යුත් තැපැල් තුළ ඔබ විශ්වාස කරන මූලයක් අනුකරණය කිරීම මඟින්  තොරතුරු අනාවරණය කරගනී.</p>">
 
-<!ENTITY cspFrameAncestorBlocked.title "ආරක්ෂක ප්‍රතිපත්තියට අනුව අවහිර කර ඇත">
-<!ENTITY cspFrameAncestorBlocked.longDesc "<p>මේ සඳහා ඉඩ නොදෙන අන්තර්ගත ආරක්ෂක ප්‍රතිපත්තියක් පිටුවේ ඇති නිසා  &brandShortName; මේ ආකාරයෙන් පූරණය කිරීමෙන් වැලකී සිටී.</p>">
+<!ENTITY cspBlocked.title "ආරක්ෂක ප්‍රතිපත්තියට අනුව අවහිර කර ඇත">
+<!ENTITY cspBlocked.longDesc "<p>මේ සඳහා ඉඩ නොදෙන අන්තර්ගත ආරක්ෂක ප්‍රතිපත්තියක් පිටුවේ ඇති නිසා  &brandShortName; මේ ආකාරයෙන් පූරණය කිරීමෙන් වැලකී සිටී.</p>">
 
 <!ENTITY corruptedContentError.title "Corrupted Content Error">
 <!ENTITY corruptedContentError.longDesc "<p>The page you are trying to view cannot be shown because an error in the data transmission was detected.</p><ul><li>Please contact the website owners to inform them of this problem.</li></ul>">
@@ -143,5 +143,19 @@ functionality specific to firefox. -->
 <button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button> 
 <button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>">
 
+
+
+<!ENTITY errorReporting.learnMore "තවත් දැනගන්න...">
+
+
+
+
+
 <!ENTITY remoteXUL.title "Remote XUL">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>කරුණාකර මෙම ගැටලුව පිළිබද අඩවියේ හිමිකරුට දන්වන්න.</li></ul></p>">
+
+<!-- LOCALIZATION NOTE (oldSecurityProtocol.longDesc) - Do not translate the
+     <span id='hostname'></span>. -->
+<!-- LOCALIZATION NOTE (oldSecurityProtocol.advancedInfo) - Do not translate
+     the <span id='errorcode'></span>. -->
+

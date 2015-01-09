@@ -57,7 +57,7 @@
 
 
 
-# link title for https://support.mozilla.org/mobile
+# link title for https://support.mozilla.org/
 
 
 
@@ -65,15 +65,15 @@
 
 
 
-# LOCALIZATION NOTE (bookmarks_aboutHome):
+# LOCALIZATION NOTE (bookmarks_marketplace):
 
 
 
-# link title for about:home
+# link title for https://marketplace.firefox.com
 
 
 
-#define bookmarks_aboutHome Firefox Start
+#define bookmarks_marketplace Firefox Marketplace
 
 
 

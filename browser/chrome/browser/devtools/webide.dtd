@@ -23,6 +23,8 @@
 
 
 
+
+
 <!ENTITY runtimeMenu_disconnect_label "විසන්ධි කරන්න">
 <!ENTITY runtimeMenu_disconnect_accesskey "D">
 <!ENTITY runtimeMenu_showPermissionTable_label "අවසර වගුව">
@@ -34,12 +36,18 @@
 <!ENTITY runtimeMenu_showMonitor_label "දර්ශකය">
 <!ENTITY runtimeMenu_showMonitor_accesskey "M">
 
+
+
 <!ENTITY viewMenu_label "දක්වන්න">
 <!ENTITY viewMenu_accesskey "V">
 
 
+<!ENTITY viewMenu_zoomin_label "විශාල කරන්න">
 
-<!ENTITY viewMenu_showAddons_accesskey "M">
+<!ENTITY viewMenu_zoomout_label "කුඩා කරන්න">
+
+
+
 
 <!ENTITY runtimeButton_label "දහාවන කාලය තෝරන්න">
 <!-- We try to repicate Firefox' bindings: -->
@@ -54,13 +62,18 @@
 <!ENTITY key_toggleToolbox "VK_F12">
 <!-- toggle sidebar -->
 <!ENTITY key_toggleEditor "B">
+<!-- zoom -->
+
+
+
 
 <!ENTITY projectPanel_myProjects "මගේ ව්‍යාපෘති">
 
+<!ENTITY projectPanel_tabs "ටැබ්">
 
 
 
-
+<!ENTITY runtimePanel_other "වෙනත්">
 
 
 
@@ -103,12 +116,19 @@
 
 
 
-
-
 <!ENTITY prefs_options_keybindings_default "පෙරනිමි">
 <!-- Permissions Table -->
 <!ENTITY permissionstable_name_header "නම">
 <!-- Runtime Details -->
+
+
+
+
+
+
+<!-- Device Preferences -->
+
+
 
 
 

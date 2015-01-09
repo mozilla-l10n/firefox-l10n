@@ -21,14 +21,19 @@
 <!ENTITY restorepage.listHeader     "කවුළු සහ ටැබ්">
 <!-- LOCALIZATION NOTE: &#37;S will be replaced with a number. -->
 <!ENTITY restorepage.windowLabel    "&#037;S වන කවුළුව">
-<!-- LOCALIZATION NOTE: The following 'welcomeback' strings are for about:welcomeback,
+<!-- LOCALIZATION NOTE: The following 'welcomeback2' strings are for about:welcomeback,
      not for about:sessionstore -->
 
 
-<!ENTITY welcomeback.tabtitle       "යළි පිළිගනිමු!">
-<!-- LOCALIZATION NOTE: The title is intended to be welcoming and congratulatory,
-     expressing joy that the user has successfully migrated their stuff and hope
-     that now they have a better experience.  -->
 
-<!ENTITY welcomeback.pageTitle      "යළි පිළිගනිමු!">
-<!ENTITY welcomeback.pageInfo       "&brandShortName; සාර්ථකව ඔබේ පැතිකඩ යළි සකසා ඇත. පහත ඇත්තේ ඔබ විසින් විවෘත කළ කවුළු හා ටැබ වේ; ඔබට ඒවා නැවත පිහිටුවීමට හෝ පිරිසිදුව ඇරඹීමට හැක.">
+
+
+
+<!-- LOCALIZATION NOTE (welcomeback2.beforelink.pageInfo2,
+welcomeback2.afterlink.pageInfo2): these two string are used respectively
+before and after the the "learn more" link (welcomeback2.link.pageInfo2).
+Localizers can use one of them, or both, to better adapt this sentence to
+their language.
+-->
+<!ENTITY welcomeback2.afterlink.pageInfo2   "">
+

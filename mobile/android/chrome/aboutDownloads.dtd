@@ -5,3 +5,10 @@
 <!ENTITY aboutDownloads.title                      "බාගත කිරීම්">
 <!ENTITY aboutDownloads.header                     "Your Downloads">
 <!ENTITY aboutDownloads.empty                      "No Downloads">
+
+<!ENTITY aboutDownloads.remove                     "Delete">
+
+<!ENTITY aboutDownloads.pause                      "Pause">
+<!ENTITY aboutDownloads.resume                     "යළි අරඹන්න">
+<!ENTITY aboutDownloads.cancel                     "එපා">
+<!ENTITY aboutDownloads.retry                      "නැවත උත්සාහ කරන්න">
