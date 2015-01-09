@@ -17,7 +17,9 @@
 <!-- LOCALIZATION NOTE (support.link): Avoid leading/trailing spaces, this text is a link. -->
 <!-- LOCALIZATION NOTE (support.post): Include a starting space as needed. -->
 
-
+<!ENTITY support.pre3              "সাধাৰণ সমস্যাবোৰৰ সমাধানৰ বাবে আমাৰ ">
+<!ENTITY support.link2             "সমৰ্থন ছাইটলৈ">
+<!ENTITY support.post3             " যাওক।">
 
 <!ENTITY happy.header              "শুনি সুখী হ'লো!">
 <!-- LOCALIZATION NOTE (happy.message): "share the love" — This feels purposely exaggerated in English,
@@ -33,13 +35,14 @@
 <!ENTITY happy.maybeLater2         "সম্ভৱতঃ পাছত">
 <!ENTITY happy.noThanks            "নহয় ধন্যবাদ">
 
+<!ENTITY sad.header                "হে প্ৰভু!">
 <!ENTITY sad.message               "আমি দুঃখিত যে আপুনি &brandShortName; ৰ সৈতে কিছু সমস্যাৰ মুখামুখি হৈছিল। অনুগ্ৰহ কৰি কি সমস্যা হৈছিল আমাক জনাওক যাতে আমি তাক সমাধান কৰিব পাৰো।">
 <!ENTITY sad.placeholder           "ইয়াত আপোনাৰ সহাঁৰি দিয়ক">
-
+<!ENTITY sad.lastSite2             "সৰ্বশেষ ভ্ৰমণ কৰা ছাইট অন্তৰ্ভুক্ত কৰক">
 <!-- LOCALIZATION NOTE (sad.urlPlaceholder): Placeholder text that appears in "Last visited site" input box when there is no text. -->
 
 <!ENTITY sad.urlPlaceholder        "http://">
-
+<!ENTITY sad.thanksHeader2         "আপোনাক ধন্যবাদ।">
 <!-- LOCALIZATION NOTE (sad.thanksMessageTop): "real people" — We're stating that an actual human will look at the feedback
      and that it doesn't just go to some automated system that looks for keywords, or something like that. -->
 
@@ -50,4 +53,5 @@
 
 <!ENTITY sad.thanksMessageBottom   "অথবা।">
 
+<!ENTITY feedback.privacy2         "আপোনাৰ গোপনতাৰ স্বাৰ্থত, অনুগ্ৰহ কৰি কোনো ব্যক্তিগত তথ্য আপোনাৰ সহাঁৰিত নিদিব।">
 <!ENTITY feedback.send             "সহাঁৰি প্ৰেৰণ কৰক">
