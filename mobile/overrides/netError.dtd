@@ -17,14 +17,8 @@
 <!ENTITY deniedPortAccess.longDesc "">
 
 <!ENTITY dnsNotFound.title "চাৰ্ভাৰ পোৱা নগল">
-<!ENTITY dnsNotFound.longDesc3 "<ul> 
-<li>ঠিকনাক টাইপিং ত্ৰুটিৰ বাবে নিৰীক্ষণ কৰক যেনে 
-<strong>www</strong>.example.com ৰ পৰিৱৰ্তে 
-<strong>ww</strong>.example.com</li> 
-<li>যদি আপুনি পৃষ্ঠাসমূহ ল'ড কৰিব পৰা নাই, আপোনাৰ ডিভাইচৰ তথ্য অথবা Wi-Fi সংযোগ পৰিক্ষা কৰক। 
-<button id='wifi'>Wi-Fi সামৰ্থবান কৰক</button> 
-</li> 
-</ul>">
+<!-- LOCALIZATION NOTE (dnsNotFound.longDesc4) This string contains markup including widgets for searching
+     or enabling wifi connections. The text inside tags should be localized.  Do not change the ids. -->
 
 <!ENTITY fileNotFound.title "ফাইল পোৱা ন'গ'ল">
 <!ENTITY fileNotFound.longDesc "<ul> 
@@ -37,12 +31,8 @@
 <!ENTITY generic.longDesc "<p>&brandShortName; কিবা কাৰণৰ বাবে এই পৃষ্ঠা ল'ড কৰিব নোৱাৰি।</p>">
 
 <!ENTITY malformedURI.title "অবৈধ ঠিকনা">
-<!ENTITY malformedURI.longDesc "<ul> 
-<li>ৱেব ঠিকনা সাধাৰণতে এই ধৰণে লিখা হয় 
-<strong>http://www.example.com/</strong></li> 
-<li>ফৰ্ৱাৰ্ড স্লেছ ব্যৱহাৰ কৰাটো সুনিশ্চিত কৰক (i.e. 
-<strong>/</strong>).</li> 
-</ul>">
+<!-- LOCALIZATION NOTE (malformedURI.longDesc2) This string contains markup including widgets for searching
+     or enabling wifi connections. The text inside the tags should be localized. Do not touch the ids. -->
 
 <!ENTITY netInterrupt.title "সংযোগ বিচ্ছিন্ন হৈছে">
 <!ENTITY netInterrupt.longDesc2 "&sharedLongDesc3;">
@@ -51,6 +41,8 @@
 <!ENTITY notCached.longDesc "<p>অনুৰোধ কৰা দস্তাবেজ &brandShortName; -ৰ ক্যাশত উপলব্ধ নহয়।</p><ul><li>সুৰক্ষা কাৰণ হিচাপে, &brandShortName; -এ স্বচালিতভাৱে সংবেদ্য দস্তাবেজসমূহ পুনৰ অনুৰোধ নকৰে।</li><li>ৱেবছাইটৰ পৰা দস্তাবেজ পুনৰ অনুৰোধ কৰিবলে পুনৰ চেষ্টা কৰক ক্লিক কৰক।</li></ul>">
 
 <!ENTITY netOffline.title "অফলাইন ধৰণ">
+<!-- LOCALIZATION NOTE (netOffline.longDesc3) This string contains markup including widgets enabling wifi connections.
+     The text inside the tags should be localized. Do not touch the ids. -->
 <!ENTITY netOffline.longDesc3 "<ul> 
 <li>পুনৰ চেষ্টা কৰক। &brandShortName; এ এটা সংযোগ খোলাৰ চেষ্টা কৰি পৃষ্ঠা পুনৰ ল'ড কৰাৰচেষ্টা কৰিব। 
 <button id='wifi'>Wi-Fi সামৰ্থবান কৰক</button> 
@@ -85,6 +77,8 @@
 </ul>">
 
 <!ENTITY proxyResolveFailure.title "প্ৰক্সি চাৰ্ভাৰ পোৱা ন'গ'ল">
+<!-- LOCALIZATION NOTE (proxyResolveFailure.longDesc3) This string contains markup including widgets for enabling wifi connections.
+     The text inside the tags should be localized. Do not touch the ids. -->
 <!ENTITY proxyResolveFailure.longDesc3 "<ul> 
 <li>প্ৰক্সি সংহতিসমূহ সঠিক আছে নে সুনিশ্চিত কৰক।</li> 
 <li>আপোনাৰ ডিভাইচৰ এটা কাৰ্য্যকৰী তথ্য আৰু Wi-Fi সংযোগ থকাটো সুনিশ্চিত কৰক। 
@@ -114,6 +108,8 @@
 <li>এই সমস্যা চাৰ্ভাৰৰ সংৰূপৰ বাবেও হ'ব পাৰে, বা কোনোবা বেলেগে চাৰ্ভাৰ হোৱাৰ ভাও ধৰিছে।</li> 
 <li>যদি অতিতত এই চাৰ্ভাৰৰ লগত সফলভাবে সংযোগ কৰিছে, ভুল অস্থায়ী হ'ব পাৰে, আৰু আপুনি পিছত পুনৰ চেষ্টা কৰিব পাৰে।</li> 
 </ul>">
+<!-- LOCALIZATION NOTE (sharedLongDesc3) This string contains markup including widgets for enabling wifi connections.
+     The text inside the tags should be localized. Do not touch the ids. -->
 
 <!ENTITY sharedLongDesc3 "<ul> 
 <li>এই ছাইট অস্থায়ীভাৱে উপলব্ধ নহয় অথবা অতি ব্যস্ত। কিছু সময় পিছত পুনৰ চেষ্টা কৰি চাওক।</li> 
@@ -122,8 +118,8 @@
 </li> 
 </ul>">
 
-<!ENTITY cspFrameAncestorBlocked.title "সমল সুৰক্ষা নীতিৰ দ্বাৰা প্ৰতিৰোধিত">
-<!ENTITY cspFrameAncestorBlocked.longDesc "<p>&brandShortName; পৃষ্ঠাটোক এই ধৰনে লোড হোৱাৰ পৰা প্ৰতিৰোধ কৰিলে কাৰণ পৃষ্ঠাটোৰ এটা সমল সুৰক্ষা নীতি আছে যিটোৱে ইয়াৰ অনুমতি নিদিয়ে</p>">
+<!ENTITY cspBlocked.title "সমল সুৰক্ষা নীতিৰ দ্বাৰা প্ৰতিৰোধিত">
+<!ENTITY cspBlocked.longDesc "<p>&brandShortName; পৃষ্ঠাটোক এই ধৰনে লোড হোৱাৰ পৰা প্ৰতিৰোধ কৰিলে কাৰণ পৃষ্ঠাটোৰ এটা সমল সুৰক্ষা নীতি আছে যিটোৱে ইয়াৰ অনুমতি নিদিয়ে</p>">
 
 <!ENTITY corruptedContentError.title "ক্ষতিগ্ৰস্থ সমল ত্ৰুটি">
 <!ENTITY corruptedContentError.longDesc "<p>তথ্য পৰিবহনত এটা ত্ৰুটিৰ বাবে আপুনি দৰ্শন কৰিব বিচৰা পৃষ্ঠা দেখাব নোৱাৰি।</p><ul><li>অনুগ্ৰহ কৰি ৱেবছাইটৰ গৰাকীসকলক এই সমস্যা জনাওক।</li></ul>">
