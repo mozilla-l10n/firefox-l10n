@@ -161,12 +161,12 @@
 <!ENTITY downloads.commandkey "j">
 <!ENTITY downloadsUnix.commandkey "y">
 <!ENTITY addons.label "Componenti aggiuntivi">
-<!ENTITY addons.accesskey "a">
+<!ENTITY addons.accesskey "C">
 <!ENTITY addons.commandkey "A">
 <!ENTITY webapps.label "App">
-<!ENTITY webapps.accesskey "p">
+<!ENTITY webapps.accesskey "A">
 <!ENTITY webDeveloperMenu.label "Sviluppo web">
-<!ENTITY webDeveloperMenu.accesskey "u">
+<!ENTITY webDeveloperMenu.accesskey "v">
 <!ENTITY devToolsCmd.keycode "VK_F12">
 <!ENTITY devToolsCmd.keytext "F12">
 <!ENTITY devtoolsConnect.label "Connetti…">
