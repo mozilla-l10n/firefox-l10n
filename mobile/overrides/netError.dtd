@@ -19,6 +19,18 @@
 <!ENTITY dnsNotFound.title "চাৰ্ভাৰ পোৱা নগল">
 <!-- LOCALIZATION NOTE (dnsNotFound.longDesc4) This string contains markup including widgets for searching
      or enabling wifi connections. The text inside tags should be localized.  Do not change the ids. -->
+<!ENTITY dnsNotFound.longDesc4 "<ul> 
+<li>ঠিকনাক বানান ভুলৰ বাবে পৰীক্ষা কৰক যেনে 
+<strong>www</strong>.example.com ৰ পৰিৱৰ্তে 
+<strong>ww</strong>.example.com</li> 
+<div id='searchbox'> 
+<input id='searchtext' type='search'></input> 
+<button id='searchbutton'>Search</button> 
+</div> 
+<li>যদি আপুনি কোনো পৃষ্ঠা ল'ড কৰিব পৰা নাই, আপোনাৰ ডিভাইচৰ তথ্য অথবা Wi-Fiসংযোগ নিৰীক্ষণ কৰক। 
+<button id='wifi'>Enable Wi-Fi</button> 
+</li> 
+</ul>">
 
 <!ENTITY fileNotFound.title "ফাইল পোৱা ন'গ'ল">
 <!ENTITY fileNotFound.longDesc "<ul> 
@@ -33,6 +45,16 @@
 <!ENTITY malformedURI.title "অবৈধ ঠিকনা">
 <!-- LOCALIZATION NOTE (malformedURI.longDesc2) This string contains markup including widgets for searching
      or enabling wifi connections. The text inside the tags should be localized. Do not touch the ids. -->
+<!ENTITY malformedURI.longDesc2 "<ul> 
+<li>ৱেব ঠিকনাসমূহ সাধাৰণত নিম্নলিখিত ধৰণে লিখা হয় 
+<strong>http://www.example.com/</strong></li> 
+<div id='searchbox'> 
+<input id='searchtext' type='search'></input> 
+<button id='searchbutton'>Search</button> 
+</div> 
+<li>ফৰৱাৰ্ড স্লেশ্বৰ প্ৰয়োগ সুনিশ্চিত কৰক (i.e. 
+<strong>/</strong>).</li> 
+</ul>">
 
 <!ENTITY netInterrupt.title "সংযোগ বিচ্ছিন্ন হৈছে">
 <!ENTITY netInterrupt.longDesc2 "&sharedLongDesc3;">
