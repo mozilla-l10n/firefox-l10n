@@ -2,8 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY aboutTelemetry.pageTitle "Данні телеметрії
-">
+<!ENTITY aboutTelemetry.pageTitle "Данні телеметрії">
 
 <!ENTITY aboutTelemetry.telemetryEnabled "
   Телеметрія <span>увімкнена</span>.
@@ -11,6 +10,10 @@
 
 <!ENTITY aboutTelemetry.telemetryDisabled "
   Телеметрія <span>вимкнена</span>.
+">
+
+<!ENTITY aboutTelemetry.generalDataSection "
+  General Data
 ">
 
 <!ENTITY aboutTelemetry.slowSqlSection "
@@ -27,6 +30,10 @@
 
 <!ENTITY aboutTelemetry.histogramsSection "
   Гістограми
+">
+
+<!ENTITY aboutTelemetry.keyedHistogramsSection "
+  Keyed Histograms
 ">
 
 <!ENTITY aboutTelemetry.simpleMeasurementsSection "
