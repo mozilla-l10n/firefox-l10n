@@ -26,8 +26,15 @@
 
 
 
+<!ENTITY welcomeback2.restoreButton  "දැන් අරඹමු!">
+<!ENTITY welcomeback2.restoreButton.access "L">
 
+<!ENTITY welcomeback2.tabtitle      "සාර්ථකයි!">
 
+<!ENTITY welcomeback2.pageTitle     "සාර්ථකයි!">
+<!ENTITY welcomeback2.pageInfo1     "&brandShortName; ඇරඹීමට සූදානම්.">
+
+<!ENTITY welcomeback2.label.restoreAll  "සියලු කවුළු සහ ටැබ් යළි පිහිටු වීම">
 
 <!-- LOCALIZATION NOTE (welcomeback2.beforelink.pageInfo2,
 welcomeback2.afterlink.pageInfo2): these two string are used respectively
