@@ -30,13 +30,17 @@
   -  on a button that remvoes all the recordings. -->
 
 <!ENTITY profilerUI.clearButton "හිස් කරන්න">
+<!-- LOCALIZATION NOTE (profilerUI.invertTree): This is the label shown next to
+  -  a checkbox that inverts and un-inverts the profiler's call tree. -->
+<!-- LOCALIZATION NOTE (profilerUI.invertTree.tooltiptext): This is the tooltip
+  -  for the tree-inverting checkbox's label.  -->
 <!-- LOCALIZATION NOTE (profilerUI.table.*): These strings are displayed
   -  in the call tree headers for a recording. -->
 
-<!ENTITY profilerUI.table.duration    "කාලය (මිලි තත්පර)">
-<!ENTITY profilerUI.table.percentage  "පිරිවැය">
-<!ENTITY profilerUI.table.invocations "ඇමතුම්">
-<!ENTITY profilerUI.table.function    "කරියාව">
+
+
+
+<!ENTITY profilerUI.table.function        "කරියාව">
 <!-- LOCALIZATION NOTE (profilerUI.newtab.tooltiptext): The tooltiptext shown
   -  on the "+" (new tab) button for a profile when a selection is available. -->
 
