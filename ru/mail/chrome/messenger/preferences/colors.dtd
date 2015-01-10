@@ -5,11 +5,11 @@
 <!ENTITY colorsDialog.title "Цвета">
 <!ENTITY window.width "42em">
 <!ENTITY window.macWidth "57em">
-<!ENTITY allowPagesToUseColors.label "Разрешить содержимому использовать свои цвета вместо установленных:">
-<!ENTITY allowPagesToUseColors.accesskey "з">
-<!ENTITY allowPagesToUseColors.automatic.label "Автоматически">
-<!ENTITY allowPagesToUseColors.always.label "Всегда">
-<!ENTITY allowPagesToUseColors.never.label "Никогда">
+<!ENTITY overridePageColors.label "Заменять цвета, указанные содержимым, на выбранные мной выше цвета:">
+<!ENTITY overridePageColors.accesskey "а">
+<!ENTITY overridePageColors.always.label "Всегда">
+<!ENTITY overridePageColors.auto.label "Только с высококонтрастными темами">
+<!ENTITY overridePageColors.never.label "Никогда">
 <!ENTITY color "Текст и фон">
 <!ENTITY textColor.label "Текст:">
 <!ENTITY textColor.accesskey "к">

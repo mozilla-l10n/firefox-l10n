@@ -5,22 +5,24 @@
 <!ENTITY pref.colors.title "Цвета">
 <!ENTITY color "Текст и фон">
 <!ENTITY textColor.label "Текст:">
-<!ENTITY textColor.accesskey "Т">
+<!ENTITY textColor.accesskey "к">
 <!ENTITY backgroundColor.label "Фон:">
-<!ENTITY backgroundColor.accesskey "Ф">
+<!ENTITY backgroundColor.accesskey "н">
 <!ENTITY useSystemColors.label "Использовать системные цвета">
-<!ENTITY useSystemColors.accesskey "И">
+<!ENTITY useSystemColors.accesskey "л">
 <!ENTITY underlineLinks.label "Подчёркивать ссылки">
-<!ENTITY underlineLinks.accesskey "П">
+<!ENTITY underlineLinks.accesskey "о">
 <!ENTITY links "Цвет ссылок">
 <!ENTITY linkColor.label "Непросмотренные ссылки:">
-<!ENTITY linkColor.accesskey "Н">
+<!ENTITY linkColor.accesskey "п">
 <!ENTITY activeLinkColor.label "Активные ссылки:">
-<!ENTITY activeLinkColor.accesskey "А">
+<!ENTITY activeLinkColor.accesskey "и">
 <!ENTITY visitedLinkColor.label "Просмотренные ссылки:">
 <!ENTITY visitedLinkColor.accesskey "с">
 <!ENTITY someProvColors "Если веб-страница предоставляет свои цвета и фон">
 <!ENTITY alwaysUseDocumentColors.label "Всегда использовать цвета и фон, указанные веб-страницей">
-<!ENTITY alwaysUseDocumentColors.accesskey "В">
+<!ENTITY alwaysUseDocumentColors.accesskey "е">
 <!ENTITY useMyColors.label "Использовать выбранные мною цвета, игнорируя указанные цвета и фон">
-<!ENTITY useMyColors.accesskey "ц">
+<!ENTITY useMyColors.accesskey "з">
+<!ENTITY automaticColors.label "Игнорировать цвета страниц только при использовании высококонтрастной темы">
+<!ENTITY automaticColors.accesskey "в">
