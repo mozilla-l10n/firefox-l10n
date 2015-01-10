@@ -33,11 +33,6 @@
 <!ENTITY showCookies.label "Cookies anzeigen…">
 <!ENTITY showCookies.accesskey "o">
 
-<!ENTITY dntTrackingNopref.label2 "Websites keine Präferenz über die Verfolgung meiner Aktivitäten mitteilen">
-<!ENTITY dntTrackingNopref.accesskey "m">
 <!ENTITY dntTrackingNotOkay.label2 "Websites mitteilen, meine Aktivitäten nicht zu verfolgen">
 <!ENTITY dntTrackingNotOkay.accesskey "n">
-<!ENTITY dntTrackingOkay.label2 "Websites mitteilen, meine Aktivitäten zu verfolgen">
-<!ENTITY dntTrackingOkay.accesskey "v">
 <!ENTITY doNotTrackInfo.label "Weitere Informationen über Do Not Track">
-
