@@ -3,9 +3,6 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY fontsAndEncodingsDialog.title "Шрифты и кодировки">
-<!ENTITY window.width "54em">
-<!ENTITY window.macWidth "58em">
-<!ENTITY window.unixWidth "56em">
 <!ENTITY language.label "Шрифты для набора символов:">
 <!ENTITY language.accesskey "ф">
 <!ENTITY size.label "Размер:">
