@@ -6,12 +6,12 @@
 <!ENTITY  window.width                    "39em">
 <!ENTITY  window.macWidth                 "41em">
 
-<!ENTITY  allowPagesToUseColors.label     "Povoliť obsahu používať vlastné farby namiesto mnou vyššie vybraných:">
-<!ENTITY  allowPagesToUseColors.accesskey "o">
+<!ENTITY  overridePageColors.label        "Použiť mnou definované farby namiesto tých, ktoré sú definované v obsahu:">
+<!ENTITY  overridePageColors.accesskey    "o">
 
-<!ENTITY  allowPagesToUseColors.automatic.label "Automaticky">
-<!ENTITY  allowPagesToUseColors.always.label    "Vždy">
-<!ENTITY  allowPagesToUseColors.never.label     "Nikdy">
+<!ENTITY  overridePageColors.always.label "Vždy">
+<!ENTITY  overridePageColors.auto.label   "Len pre témy s vysokým kontrastom">
+<!ENTITY  overridePageColors.never.label  "Nikdy">
 
 <!ENTITY  color                           "Text a pozadie">
 <!ENTITY  textColor.label                 "Text:">
