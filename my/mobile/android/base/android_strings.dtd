@@ -14,7 +14,7 @@
      They are automatically converted to all caps by the Android platform. -->
 
 <!ENTITY  bookmarks_title "မှတ်သားချက်များ">
-
+<!ENTITY  history_title "မှတ်တမ်း">
 <!ENTITY  reading_list_title "ဖတ်နေဆဲစာမျက်နှာများ">
 <!ENTITY  recent_tabs_title "လတ်တလော ဖွင့်ထားသည်များ">
 
@@ -30,13 +30,14 @@
 <!ENTITY  crash_email "သင့် အီးမေးလ်">
 <!ENTITY  crash_closing_alert "ပျက်စီးမှုအကြောင်း သတင်းမပို့တော့ဘဲ ထွက်မည်လား?">
 <!ENTITY  sending_crash_report "ပျက်စီးမှုအား သတင်းပို့နေသည်\u2026">
-
+<!ENTITY  crash_close_label "ပိတ်ပါ">
 <!ENTITY  crash_restart_label "&brandShortName; ကို ပြန်ဖွင့်ပါ">
 <!ENTITY  exit_label "ထွက်ခွါပါ">
 
 <!ENTITY  launcher_shortcuts_title "&brandShortName; ဝတ်စ်အပ်များ">
 <!ENTITY  launcher_shortcuts_empty "web apps များရှာမတွေ့">
 
+<!ENTITY choose_file "ဖိုင် ရွေးပါ...">
 
 <!ENTITY url_bar_default_text2 "ရှာဖွေ (သို့) လိပ်စာ ထည့်သွင်းပါ">
 
@@ -52,19 +53,21 @@
 <!ENTITY history_older_section2 "လွန်ခဲ့သော် လ">
 
 <!ENTITY go "သွားပါ">
-
-
-
-
+<!ENTITY search "ရှာဖွေပါ">
+<!ENTITY reload "ပြန်ဖွင့်ပါ">
+<!ENTITY forward "ရှေ့သို့">
+<!ENTITY menu "စာရင်း">
 <!ENTITY back "နောက်သို့">
-
+<!ENTITY stop "ရပ်ပါ">
 <!ENTITY site_security "ဆိုက် လုံခြုံရေး">
+<!ENTITY edit_mode_cancel "ပယ်​ဖျက်ပါ">
 
-
+<!ENTITY close_tab "စာအမှတ်ကို ပိတ်ပါ">
 <!ENTITY one_tab "စာအမှတ် ၁ခု">
 <!-- Localization note (num_tabs2) : Number of tabs is always more than one.
      We can't use android plural forms, sadly. See bug #753859. -->
-
+<!ENTITY num_tabs2 "&formatD; တပ်ဗ်များ">
+<!ENTITY new_tab_opened "စာအမှတ်အသစ် ဖွင့်ပြီး">
 
 <!-- Localization note (switch_button_message): This string should be as short
      as possible because it's shown as a label in a toast.  Ideally, this string
