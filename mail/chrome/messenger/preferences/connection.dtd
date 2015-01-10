@@ -3,7 +3,6 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY connectionsDialog.title        "Nastavenie pripojenia">
-<!ENTITY window.width                   "43em">
 
 <!ENTITY proxyTitle.label               "Nastavenie serverov proxy pre prístup k sieti Internet">
 <!ENTITY noProxyTypeRadio.label         "Nepoužívať server proxy">
