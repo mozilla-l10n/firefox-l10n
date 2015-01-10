@@ -25,14 +25,15 @@
 
 
 
+#define bookmarks_title မိုဘိုင်း
+
+
 
 # LOCALIZATION NOTE (bookmarks_aboutBrowser):
 
 
 
-
 # link title for about:fennec
-
 
 
 
@@ -42,9 +43,7 @@
 
 
 
-
 # link title for https://addons.mozilla.org/en-US/mobile
-
 
 
 
@@ -56,9 +55,7 @@
 
 
 
-
 # link title for https://support.mozilla.org/
-
 
 
 
@@ -72,9 +69,7 @@
 
 
 
-
 # link title for https://marketplace.firefox.com
-
 
 
 

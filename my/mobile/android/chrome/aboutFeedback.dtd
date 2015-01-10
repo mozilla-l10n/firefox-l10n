@@ -25,8 +25,9 @@
 <!ENTITY happy.maybeLater2         "နောက်တော့မှ">
 
 
-
-
+<!ENTITY sad.header                "အိုး နိုး!">
+<!ENTITY sad.message               "&brandShortName; မှာ ချို့ယွင်းချက် အချို့ရှိခဲ့ရင် ကျွနု်ပ်တို့ တောင်းပန်ပါတယ်။ ကျေးဇူးပြုပြီး ဘာဖြစ်လဲဆိုတာ ပြောပေးပါ။ ဒါမှ ပြင်နိုင်မှာပါ။">
+<!ENTITY sad.placeholder           "သင်၏ ထင်မြင်ချက် ဤနေရာတွင် ရိုက်ထည့်ပါ">
 
 <!-- LOCALIZATION NOTE (sad.urlPlaceholder): Placeholder text that appears in "Last visited site" input box when there is no text. -->
 
