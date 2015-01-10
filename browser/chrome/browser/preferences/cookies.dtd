@@ -7,6 +7,10 @@
 <!ENTITY cookiesonsystem.label "Tieto cookies sú uložené v počítači:">
 <!ENTITY cookiename.label "Názov cookie">
 <!ENTITY cookiedomain.label "Server">
+<!-- LOCALIZATION NOTE (button.removeSelectedCookies.accesskey):
+  The label associated with this accesskey can be found in
+  preferences.properties as removeSelectedCookies.
+-->
 <!ENTITY     button.removeSelectedCookies.accesskey "O">
 <!ENTITY     button.removeAllCookies.label "Odstrániť všetky">
 <!ENTITY     button.removeAllCookies.accesskey "e">
