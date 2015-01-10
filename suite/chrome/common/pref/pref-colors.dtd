@@ -31,3 +31,5 @@
 <!-- LOCALIZATION NOTE (ignoreDocColors.label): This is option two, and it appends to 'someProvColors' above.  -->
 <!ENTITY useMyColors.label                 "Použiť mnou definované farby, ignorovať farby a pozadie definované stránkou">
 <!ENTITY useMyColors.accesskey             "m">
+<!ENTITY automaticColors.label             "Ignorovať farby definované stránkou, ak sa používa téma s vysokým kontrastom">
+<!ENTITY automaticColors.accesskey         "I">
