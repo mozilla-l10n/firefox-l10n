@@ -38,11 +38,13 @@
 <!ENTITY profilerUI.clearButton "Clear">
 <!-- LOCALIZATION NOTE (profilerUI.table.*): These strings are displayed
   -  in the call tree headers for a recording. -->
-
-
-
-
+<!ENTITY profilerUI.table.totalDuration   "Total Time (ms)">
+<!ENTITY profilerUI.table.selfDuration    "Self Time (ms)">
+<!ENTITY profilerUI.table.totalPercentage "Total Cost">
+<!ENTITY profilerUI.table.selfPercentage  "Self Cost">
+<!ENTITY profilerUI.table.samples         "Samples">
 <!ENTITY profilerUI.table.function        "Function">
+
 <!-- LOCALIZATION NOTE (profilerUI.newtab.tooltiptext): The tooltiptext shown
   -  on the "+" (new tab) button for a profile when a selection is available. -->
 
