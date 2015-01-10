@@ -24,3 +24,5 @@
 <!ENTITY alwaysUseDocumentColors.accesskey "A">
 <!ENTITY useMyColors.label "Usar mis colores, ignorando los colores y la imagen de fondo especificados por la página">
 <!ENTITY useMyColors.accesskey "m">
+<!ENTITY automaticColors.label "Ignorar los colores de la página solo al usar un tema de alto contraste">
+<!ENTITY automaticColors.accesskey "I">
