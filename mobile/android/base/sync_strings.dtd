@@ -204,7 +204,8 @@
 <!ENTITY fxaccount_status_needs_verification2 'Váš účet musí byť overený. Ťuknutím znova odošlete overovací e-mail.'>
 <!ENTITY fxaccount_status_needs_credentials 'Nie je možné sa pripojiť. Ťuknutím sa prihlásite.'>
 <!ENTITY fxaccount_status_needs_upgrade 'Ak sa chcete prihlásiť, musíte aktualizovať svoj &brandShortName;.'>
-<!ENTITY fxaccount_status_needs_master_sync_automatically_enabled 'Služba &syncBrand.shortName.label; je nastavená, ale synchronizácia neprebieha automaticky. Prepnite voľbu “Automatická synchronizácia” v nastaveniach synchronizácie systému Android.'>
+<!ENTITY fxaccount_status_needs_master_sync_automatically_enabled 'Služba &syncBrand.shortName.label; je nastavená, ale synchronizácia neprebieha automaticky. Prepnite voľbu “Automatická synchronizácia” v nastaveniach systému Android.'>
+<!ENTITY fxaccount_status_needs_master_sync_automatically_enabled_v21 'Služba &syncBrand.shortName.label; je nastavená, ale synchronizácia neprebieha automaticky. Prepnite voľbu “Automatická synchronizácia” v ponuke Nastavenia systému Android &gt; Kontá.'>
 <!ENTITY fxaccount_status_needs_account_enabled 'Služba &syncBrand.shortName.label; je nastavená, ale synchronizácia neprebieha automaticky. Ťuknutím ju spustíte.'>
 <!ENTITY fxaccount_status_needs_finish_migrating 'Ťuknutím sa prihlásite k svojmu novému účtu Firefox Account.'>
 <!ENTITY fxaccount_status_bookmarks 'Záložky'>
