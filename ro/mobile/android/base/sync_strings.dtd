@@ -114,7 +114,7 @@
      user for an email address and password. Hide and show are button
      labels. -->
 
-
+<!ENTITY fxaccount_password_hide "Ascunde">
 <!ENTITY fxaccount_password_show "Afișează">
 <!-- Localization note: these are shown in screens after the user has
      created or signed in to an account, and take the user back to
