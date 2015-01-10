@@ -133,30 +133,32 @@
 <!ENTITY pref_search_hint "Sfat: Pentru a adăuga un site la lista de motoare de căutare, apăsați lung pe bara de căutare de pe site și apoi dați clic pe &formatI; ">
 <!ENTITY pref_category_devtools "Unelte de dezvoltare">
 
-
+<!ENTITY pref_developer_paint_flashing "Marcarea elementelor care depind the acțiunile utilizatorului">
 <!ENTITY pref_developer_remotedebugging "Depanare de la distanță">
 <!ENTITY pref_remember_signons "Memorează parolele">
 
+<!ENTITY pref_category_home "Acasă">
 <!ENTITY pref_category_home_summary "Personalizează pagina de start">
 <!ENTITY pref_category_home_panels "Panouri">
 <!ENTITY home_add_panel_title "Adăugați un nou panou">
-
+<!ENTITY home_add_panel_empty "Din păcate nu am găsit niciun panou pe care să-l puteți adăuga">
 <!-- Localization note (home_add_panel_installed):
      The &formatS; will be replaced with the name of the new panel the user just
      selected to be added to the home page. -->
+<!ENTITY home_add_panel_installed "&formatS; a fost adăugat la pagina de pornire">
+<!ENTITY pref_category_home_content_settings "Setări conținut">
+<!ENTITY pref_home_updates "Actualizări automate">
 
 
 
-
-
-
+<!ENTITY pref_home_suggested_sites_summary "Afișează linkuri pe pagina de pornire către alte pagini pe care noi credem că te-ar interesa">
 <!-- Localization note: These are shown in the left sidebar on tablets -->
 
 <!ENTITY pref_header_customize "Personalizare">
 <!ENTITY pref_header_display "Ecran">
 <!ENTITY pref_header_privacy_short "Confidențialitate">
 
-
+<!ENTITY pref_header_language "Limbă">
 <!ENTITY pref_header_vendor "&vendorShortName;">
 <!ENTITY pref_header_devtools "Unelte de dezvoltare">
 
@@ -165,7 +167,8 @@
 <!ENTITY pref_cookies_not_accept_foreign "Activat, excluzând terții">
 <!ENTITY pref_cookies_disabled "Dezactivată">
 
-
+<!ENTITY pref_donottrack_title "Nu înregistra acțiunile utilizatorilor">
+<!ENTITY pref_donottrack_summary "&brandShortName; va spune siteurilor că nu dorești ca ei să înregistreze acțiunile tale pe paginile lor">
 
 <!ENTITY pref_char_encoding "Arată codarea caracterelor">
 <!ENTITY pref_char_encoding_on "Arată meniul">
@@ -223,15 +226,17 @@ size. -->
 <!ENTITY pref_vendor_faqs "Întrebări frecvente">
 <!ENTITY pref_vendor_feedback "Trimite opiniile">
 
+<!ENTITY pref_dialog_set_default "Alege ca setare de bază ">
+<!ENTITY pref_dialog_default "Standard">
+<!ENTITY pref_dialog_remove "Elimină">
 
-
-
+<!ENTITY pref_search_last_toast "Nu poți elimina sau dezactiva ultimul tău motor de căutare">
 
 <!ENTITY pref_panels_show "Afișează">
-
-
-
-
+<!ENTITY pref_panels_hide "Ascunde">
+<!ENTITY pref_panels_reorder "Schimbă ordinea">
+<!ENTITY pref_panels_move_up "Mută sus">
+<!ENTITY pref_panels_move_down "Mută jos">
 
 <!ENTITY datareporting_notification_action_long "Alegeți ce informații să împărtășiți">
 <!ENTITY datareporting_notification_action "Alegeți ce partajați">
@@ -323,7 +328,7 @@ size. -->
 <!ENTITY pref_titlebar_mode_url "Arată adresa paginii">
 <!-- Localization note (pref_scroll_title_bar2): Label for setting that controls
      whether or not the dynamic toolbar is enabled. -->
-
+<!ENTITY pref_scroll_title_bar_summary "Ascunde bara de titlu a &brandShortName; când mergi mai jos pe pagină">
 <!-- Localization note (page_removed): This string appears in a toast message when
      any page is removed frome about:home. This includes pages that are in history,
      bookmarks, or reading list. -->
@@ -348,6 +353,8 @@ size. -->
      panel on the home page to give the user an estimate of how many minutes it will take to
      read an article. The word "minute" should be abbreviated if possible. -->
 
+<!ENTITY reading_list_time_minutes2 "&formatD; min">
+<!ENTITY reading_list_time_over_an_hour "Mai mult de o oră">
 <!-- Localization note : These strings are used as alternate text for accessibility.
      They are not visible in the UI. -->
 
