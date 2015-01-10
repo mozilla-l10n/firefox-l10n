@@ -278,8 +278,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY devToolbarMenu.accesskey          "ط">
 <!ENTITY devAppMgrMenu.label               "مدير التطبيقات">
 <!ENTITY devAppMgrMenu.accesskey           "م">
-
-
+<!ENTITY webide.label                      "بيئة تطوير الوب">
+<!ENTITY webide.accesskey                  "ط">
 <!ENTITY webide.keycode                    "VK_F8">
 <!ENTITY webide.keytext                    "F8">
 <!ENTITY devToolbar.keycode                "VK_F2">
