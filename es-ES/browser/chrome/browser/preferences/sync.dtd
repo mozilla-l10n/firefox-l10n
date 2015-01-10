@@ -48,4 +48,3 @@
 <!ENTITY welcome.signIn.label "Conectarse">
 <!ENTITY welcome.createAccount.label "Crear cuenta">
 <!ENTITY welcome.useOldSync.label "¿Usa una versión antigua de Sync?">
-<!ENTITY migrate.upgradeNeeded "El sistema de cuentas de sincronización deja de estar operativo. Se requiere una nueva cuenta Firefox para sincronizar.">
