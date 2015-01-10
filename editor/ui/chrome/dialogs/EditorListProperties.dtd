@@ -12,6 +12,6 @@
 <!ENTITY numberList.value "Ordnet liste">
 <!ENTITY definitionList.value "Definitionsliste">
 <!ENTITY changeEntireListRadio.label "Skift hele listen:">
-<!ENTITY changeEntireListRadio.accessKey "C">
+<!ENTITY changeEntireListRadio.accessKey "k">
 <!ENTITY changeSelectedRadio.label "Skift kun markerede elementer">
 <!ENTITY changeSelectedRadio.accessKey "I">
