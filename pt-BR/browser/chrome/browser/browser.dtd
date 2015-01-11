@@ -70,7 +70,7 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY printPreviewCmd.accesskey "z">
 <!ENTITY printCmd.label "Imprimir…">
 <!ENTITY printCmd.accesskey "I">
-
+<!ENTITY printCmd.commandkey "p">
 
 <!ENTITY goOfflineCmd.label "Modo offline">
 <!ENTITY goOfflineCmd.accesskey "M">
@@ -202,7 +202,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksWinCmd.commandkey "I">
 
 <!ENTITY historyButton.label            "Histórico">
-
+<!ENTITY historySidebarCmd.commandKey   "h">
 
 <!ENTITY toolsMenu.label              "Ferramentas">
 <!ENTITY toolsMenu.accesskey          "F"> 
@@ -320,7 +320,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY pasteCmd.key           "v">  
 <!ENTITY pasteCmd.accesskey         "o"> 
 <!ENTITY deleteCmd.label          "Excluir">  
-
+<!ENTITY deleteCmd.key            "D">  
 <!ENTITY deleteCmd.accesskey        "x"> 
 <!ENTITY selectAllCmd.label         "Selecionar tudo">  
 <!ENTITY selectAllCmd.key         "a">  
@@ -438,7 +438,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openFrameCmd.accesskey       "A">
 <!ENTITY showOnlyThisFrameCmd.label     "Exibir somente este frame">
 <!ENTITY showOnlyThisFrameCmd.accesskey "x">
-
+<!ENTITY reloadCmd.commandkey         "r">
 <!ENTITY reloadFrameCmd.label         "Recarregar">
 <!ENTITY reloadFrameCmd.accesskey     "R">
 <!ENTITY viewPartialSourceForSelectionCmd.label "Código-fonte da seleção">
