@@ -17,13 +17,7 @@
 <!ENTITY deniedPortAccess.longDesc "">
 
 <!ENTITY dnsNotFound.title "Servidor não encontrado">
-<!ENTITY dnsNotFound.longDesc "<ul> 
-<li>Verifique se há erro de digitação no endereço. Como 
-<strong>ww</strong>.example.com em vez de 
-<strong>www</strong>.example.com</li> 
-<li>Se você não consegue abrir nenhuma página, verifique a conexão de rede do seu computador.</li> 
-<li>Se o seu computador ou rede forem protegidos por um firewall ou proxy, certifique-se de que o &brandShortName; esteja autorizado a acessar a web.</li> 
-</ul>">
+<!ENTITY dnsNotFound.longDesc "<ul> <li>Verifique se há erro de digitação no endereço. Como <strong>ww</strong>.example.com em vez de <strong>www</strong>.example.com</li> <li>Se você não consegue abrir nenhuma página, verifique a conexão de rede do seu computador.</li> <li>Se o seu computador ou rede forem protegidos por um firewall ou proxy, certifique-se de que o &brandShortName; esteja autorizado a acessar a web.</li> </ul>">
 
 <!ENTITY fileNotFound.title "Arquivo não encontrado">
 <!ENTITY fileNotFound.longDesc "<ul> 
@@ -152,10 +146,10 @@ functionality specific to firefox. -->
 <!ENTITY errorReporting.longDesc "Relatando o endereço e o certificado de informação de <span id='hostname'></span> nos ajudará a identificar e bloquear sites maliciosos. Obrigado por ajudar a criar uma web mais segura!">
 <!ENTITY errorReporting.automatic "Relatar erros no futuro automaticamente">
 <!ENTITY errorReporting.learnMore "Saiba mais…">
-
+<!ENTITY errorReporting.sending "Enviando relatório">
 <!ENTITY errorReporting.sent "Relatório enviado">
 <!ENTITY errorReporting.report "Relatório">
-
+<!ENTITY errorReporting.tryAgain "Tentar novamente">
 
 <!ENTITY remoteXUL.title "XUL remoto">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Por favor, contate os responsáveis pelo site para informá-los deste problema.</li></ul></p>">
@@ -167,4 +161,4 @@ functionality specific to firefox. -->
 <!-- LOCALIZATION NOTE (oldSecurityProtocol.advancedInfo) - Do not translate
      the <span id='errorcode'></span>. -->
 <!ENTITY oldSecurityProtocol.advancedInfo "Informação avançada: <span id='errorcode'></span>">
-
+<!ENTITY oldSecurityProtocol.learnMore "Saiba mais…">

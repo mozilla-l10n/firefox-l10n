@@ -3,7 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 #filter emptyLines
 
-#define MOZ_LANGPACK_CREATOR http://br.mozdev.org
+#define MOZ_LANGPACK_CREATOR br.mozdev.org
 
 # If non-English locales wish to credit multiple contributors, uncomment this
 

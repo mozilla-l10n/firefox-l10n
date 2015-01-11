@@ -5,7 +5,7 @@
 <!ENTITY windowTitle "Firefox WebIDE">
 
 <!ENTITY projectMenu_label "Projeto">
-
+<!ENTITY projectMenu_accesskey "P">
 <!ENTITY projectMenu_newApp_label "Novo aplicativo…">
 <!ENTITY projectMenu_newApp_accesskey "N">
 <!ENTITY projectMenu_importPackagedApp_label "Abrir aplicativo empacotado…">
@@ -15,17 +15,17 @@
 <!ENTITY projectMenu_selectApp_label "Abrir aplicativo…">
 <!ENTITY projectMenu_selectApp_accesskey "A">
 <!ENTITY projectMenu_play_label "Instalar e executar">
-
+<!ENTITY projectMenu_play_accesskey "I">
 <!ENTITY projectMenu_stop_label "Parar aplicativo">
 <!ENTITY projectMenu_stop_accesskey "P">
 <!ENTITY projectMenu_debug_label "Depurar aplicativo">
 <!ENTITY projectMenu_debug_accesskey "D">
 <!ENTITY projectMenu_remove_label "Excluir projeto">
-
+<!ENTITY projectMenu_remove_accesskey "x">
 <!ENTITY projectMenu_showPrefs_label "Preferências">
 <!ENTITY projectMenu_showPrefs_accesskey "e">
 <!ENTITY projectMenu_manageComponents_label "Gerenciar componentes extras">
-
+<!ENTITY projectMenu_manageComponents_accesskey "M">
 
 <!ENTITY runtimeMenu_label "Ambiente de execução">
 <!ENTITY runtimeMenu_accesskey "m">
@@ -40,18 +40,18 @@
 <!ENTITY runtimeMenu_showMonitor_label "Monitorar">
 <!ENTITY runtimeMenu_showMonitor_accesskey "M">
 <!ENTITY runtimeMenu_showDevicePrefs_label "Preferência do dispositivo">
-
+<!ENTITY runtimeMenu_showDevicePrefs_accesskey "D">
 
 <!ENTITY viewMenu_label "Exibir">
 <!ENTITY viewMenu_accesskey "x">
 <!ENTITY viewMenu_toggleEditor_label "Alternar editor">
 <!ENTITY viewMenu_toggleEditor_accesskey "A">
 <!ENTITY viewMenu_zoomin_label "Aumentar zoom">
-
+<!ENTITY viewMenu_zoomin_accesskey "I">
 <!ENTITY viewMenu_zoomout_label "Diminuir zoom">
-
+<!ENTITY viewMenu_zoomout_accesskey "O">
 <!ENTITY viewMenu_resetzoom_label "Redefinir zoom">
-
+<!ENTITY viewMenu_resetzoom_accesskey "R">
 
 <!ENTITY projectButton_label "Abrir aplicativo">
 <!ENTITY runtimeButton_label "Selecionar ambiente de execução">

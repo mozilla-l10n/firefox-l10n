@@ -758,8 +758,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY mixedContentBlocked2.options "Opções">
 <!ENTITY mixedContentBlocked2.unblock.label "Desativar proteção por enquanto">
 <!ENTITY mixedContentBlocked2.unblock.accesskey "D">
-
-
+<!ENTITY mixedContentBlocked2.block.label "Ativar proteção">
+<!ENTITY mixedContentBlocked2.block.accesskey "A">
 <!ENTITY mixedContentBlocked2.disabled.message "A proteção está desativada">
 
 <!ENTITY trackingContentBlocked.message "Rastreamento">
@@ -768,8 +768,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY trackingContentBlocked.options "Opções">
 <!ENTITY trackingContentBlocked.unblock2.label "Desativar proteção para este site">
 <!ENTITY trackingContentBlocked.unblock2.accesskey "D">
-
-
+<!ENTITY trackingContentBlocked.block.label "Ativar proteção">
+<!ENTITY trackingContentBlocked.block.accesskey "A">
 <!ENTITY trackingContentBlocked.disabled.message "A proteção antirrastreamento está desativada">
 
 <!ENTITY pointerLock.notification.message "Tecle ESC quando quiser exibi-lo.">

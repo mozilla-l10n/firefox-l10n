@@ -44,7 +44,7 @@
   -  checkbox that toggles auto pretty print. -->
 
 <!ENTITY debuggerUI.autoPrettyPrint     "Autoformatar código-fonte minimizado">
-
+<!ENTITY debuggerUI.autoPrettyPrint.accesskey "A">
 <!-- LOCALIZATION NOTE (debuggerUI.sources.toggleBreakpoints): This is the tooltip for the
   -  button that toggles all breakpoints for all sources. -->
 
@@ -65,7 +65,7 @@
   -  checkbox that toggles pausing on exceptions. -->
 
 <!ENTITY debuggerUI.pauseExceptions           "Pausa em exceções">
-
+<!ENTITY debuggerUI.pauseExceptions.accesskey "P">
 <!-- LOCALIZATION NOTE (debuggerUI.ignoreCaughtExceptions): This is the label for the
   -  checkbox that toggles ignoring caught exceptions. -->
 
@@ -80,7 +80,7 @@
   -  checkbox that toggles visibility of a designated variables filter box. -->
 
 <!ENTITY debuggerUI.showVarsFilter           "Exibir campo de filtro de variáveis">
-
+<!ENTITY debuggerUI.showVarsFilter.accesskey "v">
 <!-- LOCALIZATION NOTE (debuggerUI.showOnlyEnum): This is the label for the
   -  checkbox that toggles visibility of hidden (non-enumerable) variables and
   -  properties in stack views. The "enumerable" flag is a state of a property
@@ -99,7 +99,7 @@
   -  automatically black boxed or not. -->
 
 <!ENTITY debuggerUI.autoBlackBox           "Ativar automaticamente modo caixa-preta em códigos-fonte minificados">
-
+<!ENTITY debuggerUI.autoBlackBox.accesskey "A">
 <!-- LOCALIZATION NOTE (debuggerUI.searchPanelOperators): This is the text that
   -  appears in the filter panel popup as a header for the operators part. -->
 
@@ -115,7 +115,7 @@
   -  in the source editor's context menu for the global search operation. -->
 
 <!ENTITY debuggerUI.searchGlobal           "Pesquisar em todos os arquivos">
-
+<!ENTITY debuggerUI.searchGlobal.key       "f">
 <!ENTITY debuggerUI.searchGlobal.accesskey "P">
 <!-- LOCALIZATION NOTE (debuggerUI.searchFunction): This is the text that appears
   -  in the source editor's context menu for the function search operation. -->
