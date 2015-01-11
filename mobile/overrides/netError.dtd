@@ -175,8 +175,8 @@
 </ul>
 ">
 
-<!ENTITY cspFrameAncestorBlocked.title "Блоковано політикою безпеки вмісту">
-<!ENTITY cspFrameAncestorBlocked.longDesc "<p>&brandShortName; не дозволив цій сторінці завантажитись цим чином, бо вона має політику безпеки вмісту котра це забороняє.</p>">
+<!ENTITY cspBlocked.title "Блоковано політикою безпеки вмісту">
+<!ENTITY cspBlocked.longDesc "<p>&brandShortName; не дозволив цій сторінці завантажитись цим чином, бо вона має політику безпеки вмісту котра це забороняє.</p>">
 
 <!ENTITY corruptedContentError.title "Пошкоджений вміст">
 <!ENTITY corruptedContentError.longDesc "<p>Сторінку, яку ви намагаєтесь переглянути, неможливо відобразити тому, що у передачі даних виявлена помилка.</p><ul><li>Будь ласка, повідомте власника сайта про цю проблему.</li></ul>">
