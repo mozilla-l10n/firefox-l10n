@@ -42,13 +42,15 @@
 <!ENTITY profilerUI.invertTree "Inverter árvore de chamada">
 <!-- LOCALIZATION NOTE (profilerUI.invertTree.tooltiptext): This is the tooltip
   -  for the tree-inverting checkbox's label.  -->
+
+<!ENTITY profilerUI.invertTree.tooltiptext "Inverter a árvore de chamada irá mostrar as chamadas começando do frame mais recente e expandindo para frames antigos.">
 <!-- LOCALIZATION NOTE (profilerUI.table.*): These strings are displayed
   -  in the call tree headers for a recording. -->
 
 <!ENTITY profilerUI.table.totalDuration   "Tempo total (ms)">
-
+<!ENTITY profilerUI.table.selfDuration    "Tempo interno (ms)">
 <!ENTITY profilerUI.table.totalPercentage "Custo total">
-
+<!ENTITY profilerUI.table.selfPercentage  "Custo interno">
 <!ENTITY profilerUI.table.samples         "Amostras">
 <!ENTITY profilerUI.table.function        "Função">
 <!-- LOCALIZATION NOTE (profilerUI.newtab.tooltiptext): The tooltiptext shown
