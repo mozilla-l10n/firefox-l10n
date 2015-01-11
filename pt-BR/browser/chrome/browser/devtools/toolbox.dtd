@@ -123,7 +123,7 @@
   -  toolbox for enabling and disabling the Developer Edition browser theme. -->
 
 <!ENTITY options.usedeveditiontheme.label   "Usar o tema do navegador Developer Edition">
-
+<!ENTITY options.usedeveditiontheme.tooltip "Usar o tema do Developer Edition.">
 <!-- LOCALIZATION NOTE (options.webconsole.label): This is the label for the
   -  heading of the group of Web Console preferences in the options panel. -->
 
@@ -171,7 +171,7 @@
   -  in about:config, in the options panel. -->
 
 <!ENTITY options.showPlatformData.label    "Exibir dados da plataforma Gecko">
-<!ENTITY options.showPlatformData.tooltip  "Esta opção fará a análise de desempenho de JavaScript incluir símbolos da plataforma Gecko">
+<!ENTITY options.showPlatformData.tooltip  "Esta opção fará com que os relatórios do JavaScript Profiler incluam símbolos da plataforma Gecko">
 <!-- LOCALIZATION NOTE (options.sourceeditor.*): Options under the editor
   -  section. -->
 

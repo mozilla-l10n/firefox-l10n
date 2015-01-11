@@ -49,7 +49,7 @@
 
 <!ENTITY profilerUI.table.totalPercentage "Custo total">
 
-
+<!ENTITY profilerUI.table.samples         "Amostras">
 <!ENTITY profilerUI.table.function        "Função">
 <!-- LOCALIZATION NOTE (profilerUI.newtab.tooltiptext): The tooltiptext shown
   -  on the "+" (new tab) button for a profile when a selection is available. -->

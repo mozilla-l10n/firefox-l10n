@@ -20,8 +20,8 @@
 <!ENTITY  locbar.history.accesskey      "H">
 <!ENTITY  locbar.bookmarks.label        "Favoritos">
 <!ENTITY  locbar.bookmarks.accesskey    "F">
-
-
+<!ENTITY  locbar.openpage.label         "Abrir abas">
+<!ENTITY  locbar.openpage.accesskey     "A">
 
 <!ENTITY  acceptCookies.label           "Sites podem definir cookies">
 <!ENTITY  acceptCookies.accesskey       "S">
@@ -32,7 +32,8 @@
 <!ENTITY  acceptThirdParty.never.label    "Nunca">
 <!ENTITY  acceptThirdParty.visited.label  "De sites visitados">
 
-
+<!ENTITY  keepUntil.label               "Preservar cookies até:">
+<!ENTITY  keepUntil.accesskey           "P">
 
 <!ENTITY  expire.label                  "Perderem a validade">
 <!ENTITY  close.label                   "Sair do &brandShortName;">

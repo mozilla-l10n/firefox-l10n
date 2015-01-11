@@ -14,10 +14,13 @@
 
 <!ENTITY chooseWhichOneToDisplay.label         "A barra de pesquisa permite pesquisar em mecanismos alternativos. Escolha um.">
 
+<!ENTITY engineNameColumn.label                "Mecanismos de busca">
 <!ENTITY engineKeywordColumn.label             "Palavra-chave">
 
-
+<!ENTITY restoreDefaultSearchEngines.label     "Restaurar mecanismos de pesquisa padrão">
+<!ENTITY restoreDefaultSearchEngines.accesskey "m">
 
 <!ENTITY removeEngine.label                    "Excluir">
 <!ENTITY removeEngine.accesskey                "x">
 
+<!ENTITY addMoreSearchEngines.label            "&amp;Adicionar mecanismos de pesquisa…">
