@@ -118,7 +118,7 @@
 <!ENTITY pref_category_search3 "Buscar">
 <!ENTITY pref_category_search_summary "Personalizar buscadores">
 <!ENTITY pref_category_display "Pantalla">
-<!ENTITY pref_category_display_summary2 "Texto, navegación a pantalla completa">
+<!ENTITY pref_category_display_summary "Texto, barra de títulos, navegación a pantalla completa">
 <!ENTITY pref_category_privacy_short "Privacidad">
 <!ENTITY pref_category_privacy_summary "Control de contraseñas, cookies, rastreo, datos">
 <!ENTITY pref_category_vendor "&vendorShortName;">
@@ -336,6 +336,10 @@ size. -->
 <!ENTITY contextmenu_top_sites_pin "Pegar sitio">
 <!ENTITY contextmenu_top_sites_unpin "Despegar sitio">
 <!ENTITY contextmenu_add_search_engine "Agregar un buscador">
+
+<!ENTITY pref_titlebar_mode "Barra de título">
+<!ENTITY pref_titlebar_mode_title "Mostrar título de la página">
+<!ENTITY pref_titlebar_mode_url "Mostrar dirección de la página">
 
 <!-- Localization note (pref_scroll_title_bar2): Label for setting that controls
      whether or not the dynamic toolbar is enabled. -->
