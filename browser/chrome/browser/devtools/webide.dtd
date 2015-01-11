@@ -84,7 +84,6 @@
 <!ENTITY runtimePanel_noadbhelper "Instaloni ADB Helper">
 <!ENTITY runtimePanel_nousbdevice "Nuk e shihni pajisjen tuaj?">
 
-
 <!-- Lense -->
 <!ENTITY details_valid_header "e vlefshme">
 <!ENTITY details_warning_header "sinjalizime">
