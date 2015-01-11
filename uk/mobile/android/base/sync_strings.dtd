@@ -167,6 +167,7 @@
 <!-- Localization note: &formatS; is the Firefox Account's email address. -->
 <!ENTITY fxaccount_confirm_account_verification_link 'Посилання на підтвердження було надіслано на  &formatS;'>
 <!ENTITY fxaccount_confirm_account_resend_email 'Пепослати листа'>
+<!ENTITY fxaccount_confirm_account_change_email 'Forget this email address?'>
 <!ENTITY fxaccount_confirm_account_verification_link_sent2 'Підтверджуючий лист послано'>
 <!ENTITY fxaccount_confirm_account_verification_link_not_sent2 'Неможливо послати підтверджуючий лист'>
 
@@ -186,6 +187,8 @@
 <!ENTITY fxaccount_status_header2 'Обліковий запис Firefox'>
 <!ENTITY fxaccount_status_signed_in_as 'Увійшов як'>
 <!ENTITY fxaccount_status_auth_server 'Account server'>
+<!ENTITY fxaccount_status_sync_now 'Sync now'>
+<!ENTITY fxaccount_status_syncing2 'Syncing…'>
 <!ENTITY fxaccount_status_device_name 'Device name'>
 <!ENTITY fxaccount_status_sync_server 'Sync server'>
 <!ENTITY fxaccount_status_sync '&syncBrand.shortName.label;'>

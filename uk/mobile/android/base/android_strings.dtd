@@ -180,7 +180,7 @@
 <!ENTITY pref_char_encoding_off "Не показувати меню">
 <!ENTITY pref_clear_private_data2 "Очистити зараз">
 <!ENTITY pref_clear_private_data_category "Очистити приватні дані">
-<!ENTITY pref_clear_on_exit_title "Завжди очищати при виході">
+<!ENTITY pref_clear_on_exit_title2 "Очищати при виході">
 <!ENTITY pref_clear_on_exit_summary2 "&brandShortName; буде завжди автоматично очищати ваші дані, коли ви виберете \u0022Quit\u0022 в головному меню">
 <!ENTITY pref_clear_on_exit_dialog_title "Вибрати, які дані очищати">
 <!ENTITY pref_plugins "Плагіни">
@@ -267,7 +267,7 @@ size. -->
      (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
 <!ENTITY datareporting_crashreporter_title_short "Звіти про падіння">
 <!ENTITY datareporting_wifi_title2 "Послуга розташування &vendorShortName;">
-<!ENTITY datareporting_wifi_geolocation_summary "Отримує у фоновому режимі дані про розташування Wi-Fi та мобільної мережі та передає їх у &vendorShortName;, щоб покращити послугу визначення розташування">
+<!ENTITY datareporting_wifi_geolocation_summary2 "Отримує у фоновому режимі дані про розташування Wi-Fi та мобільної мережі та передає їх у &vendorShortName;, щоб покращити послугу визначення розташування">
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
      actual notification that an update is available. -->
@@ -426,8 +426,8 @@ size. -->
 <!ENTITY home_move_up_to_filter "Повернутися до &formatS;">
 
 <!ENTITY home_remote_tabs_title "Синхронізовані вкладки">
-<!ENTITY home_remote_tabs_empty "Ваші вкладки з інших пристроїв з'являються тут.">
-<!ENTITY home_remote_tabs_unable_to_connect "Неможливо з'єднатися">
+<!ENTITY home_remote_tabs_empty "Ваші вкладки з інших пристроїв з’являються тут.">
+<!ENTITY home_remote_tabs_unable_to_connect "Неможливо з’єднатися">
 <!ENTITY home_remote_tabs_need_to_sign_in "Увійдіть, щоб знову підключитися до свого облікового запису Firefox та продовжити синхронізацію.">
 <!ENTITY home_remote_tabs_trouble_verifying "Проблеми з підтвердженням облікового запису?">
 <!ENTITY home_remote_tabs_need_to_verify "Підтвердіть свій обліковий запис Firefox для початку синхронізації.">
@@ -446,7 +446,7 @@ size. -->
 <!ENTITY home_remote_tabs_unhide_selected_devices "Показати вибрані пристрої">
 
 <!ENTITY private_browsing_title "Приватний перегляд">
-<!ENTITY private_tabs_panel_empty_desc "Ваші приватні вкладки будуть з'являтися тут. Хоча ваша історія перегляду та куки не будуть збережені, закладки та завантажені файли залишаться на вашому пристрої.">
+<!ENTITY private_tabs_panel_empty_desc "Ваші приватні вкладки будуть з’являтися тут. Хоча ваша історія перегляду та куки не будуть збережені, закладки та завантажені файли залишаться на вашому пристрої.">
 <!ENTITY private_tabs_panel_learn_more "Хочете дізнатись більше?">
 
 <!ENTITY remote_tabs_panel_moved_title "Куди поділись мої вкладки?">
@@ -475,7 +475,7 @@ with that structure, consider a translation which ignores the preceding domain a
 just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_run_by "який запущено">
 <!ENTITY identity_no_info "Цей веб-сайт не надає ідентифікуючої інформації.">
-<!ENTITY identity_not_encrypted "Ваше з'єднання з цим веб-сайтом не зашифроване.">
+<!ENTITY identity_not_encrypted "Ваше з’єднання з цим веб-сайтом не зашифроване.">
 
 <!-- Mixed content notifications in site identity popup -->
 <!ENTITY loaded_mixed_content_message "Ця сторінка відображає вміст, який не є безпечним.">
