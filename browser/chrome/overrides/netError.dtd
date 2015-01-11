@@ -157,19 +157,23 @@ functionality specific to firefox. -->
 <button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button> 
 <button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>">
 
-
-
+<!ENTITY errorReporting.title "এই ত্ৰুটি সংবাদন কৰক">
+<!ENTITY errorReporting.longDesc "<span id='hostname'></span> ৰ বাবে ঠিকনা আৰু প্ৰমাণপত্ৰ তথ্য সংবাদন কৰায় আমাক দ্বেষপূৰ্ণ ছাইটসমূহ চিনাক্ত কৰি প্ৰতিৰোধ কৰাত সহায় কৰিব। এটা সুৰক্ষিত ৱেব সৃষ্টি কৰাত সহায় কৰাৰ বাবে ধন্যবাদ!">
+<!ENTITY errorReporting.automatic "ভৱিষ্যতত ত্ৰুটিসমূহ স্বচালিতভাৱে সংবাদন কৰিব">
 <!ENTITY errorReporting.learnMore "অধিক জানক…">
-
-
-
-
+<!ENTITY errorReporting.sending "সংবাদ পঠোৱা হৈছে">
+<!ENTITY errorReporting.sent "সংবাদ পঠোৱা হল">
+<!ENTITY errorReporting.report "সংবাদ">
+<!ENTITY errorReporting.tryAgain "পুনৰ চেষ্টা কৰক">
 
 <!ENTITY remoteXUL.title "দূৰৱৰ্তী XUL">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>এই সমস্যাৰ বিষয়ে জনাবলে অনুগ্ৰহ কৰি ৱেবছাইটৰ গৰাকীক যোগাযোগ কৰক।</li></ul></p>">
 
+<!ENTITY oldSecurityProtocol.title "সুৰক্ষিতভাৱে সংযোগ কৰাত অক্ষম">
 <!-- LOCALIZATION NOTE (oldSecurityProtocol.longDesc) - Do not translate the
      <span id='hostname'></span>. -->
+<!ENTITY oldSecurityProtocol.longDesc2 "&brandShortName; এ <span id='hostname'></span> ত আপোনাৰ তথ্যৰ সুৰক্ষাৰ প্ৰত্যাভূতি দিব নোৱাৰিব কাৰণ ই SSLv3 ব্যৱহাৰ কৰে, এটা ভগ্ন সুৰক্ষা প্ৰটোকল।">
 <!-- LOCALIZATION NOTE (oldSecurityProtocol.advancedInfo) - Do not translate
      the <span id='errorcode'></span>. -->
-
+<!ENTITY oldSecurityProtocol.advancedInfo "উন্নত তথ্য: <span id='errorcode'></span>">
+<!ENTITY oldSecurityProtocol.learnMore "অধিক জানক…">

@@ -143,17 +143,19 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (findShareServices.label):
   -  Use the unicode ellipsis char, \u2026,
   -  or use "..." if \u2026 doesn't suit traditions in your locale. -->
+<!ENTITY findShareServices.label "অধিক অংশীদাৰী সেৱাসমূহ সন্ধান কৰক…">
 <!ENTITY sharePageCmd.label "এই পৃষ্ঠা অংশীদাৰী কৰক">
 <!ENTITY sharePageCmd.commandkey "S">
 <!ENTITY sharePageCmd.accesskey "s">
 <!-- LOCALIZATION NOTE (shareLink.accesskey): must be different than the following share access keys -->
-
-
-
-
-
-
-
+<!ENTITY shareLink.label "এই সংযোগ অংশীদাৰী কৰক">
+<!ENTITY shareLink.accesskey "h">
+<!ENTITY shareImage.label "এই ছবি অংশীদাৰী কৰক">
+<!ENTITY shareImage.accesskey "r">
+<!ENTITY shareSelect.label "নিৰ্বাচন অংশীদাৰী কৰক">
+<!ENTITY shareSelect.accesskey "r">
+<!ENTITY shareVideo.label "এই ভিডিঅ' অংশীদাৰী কৰক">
+<!ENTITY shareVideo.accesskey "r">
 <!ENTITY feedsMenu.label "স্বাক্ষৰ কৰক">
 <!ENTITY subscribeToPageMenupopup.label "এই পৃষ্ঠা লৈ স্বাক্ষৰ কৰক">
 <!ENTITY subscribeToPageMenuitem.label "এই পৃষ্ঠা লৈ স্বাক্ষৰ কৰক…">
@@ -215,8 +217,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY addons.label                 "এড-অন সমূহ">
 <!ENTITY addons.accesskey             "A">
 <!ENTITY addons.commandkey            "A">
-
-
+<!ENTITY webapps.label                "এপসমূহ">
+<!ENTITY webapps.accesskey            "p">
 
 <!ENTITY webDeveloperMenu.label       "ৱেব উন্নয়নকাৰী">
 <!ENTITY webDeveloperMenu.accesskey   "W">
@@ -268,6 +270,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (browserContentToolboxMenu.label): This is the label for the
   -  application menu item that opens the browser content toolbox UI in the Tools menu.
   -  This toolbox allows to debug the chrome of the content process in multiprocess builds.  -->
+
+<!ENTITY browserContentToolboxMenu.label     "ব্ৰাউছাৰ সমল সঁজুলিবাকচ">
 
 <!ENTITY devToolbarCloseButton.tooltiptext "উন্নয়নকাৰী টুলবাৰ বন্ধ কৰক">
 <!ENTITY devToolbarMenu.label              "উন্নয়নকাৰী টুলবাৰ">
@@ -414,7 +418,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      These two strings are used to build the header above the list of one-click
      search providers:  "Search for <used typed keywords> with:" -->
 
-
+<!ENTITY searchFor.label              "চিহ্নিত বস্তুৰ বাবে সন্ধান কৰক ">
+<!ENTITY searchWith.label             " সৈতে:">
+<!ENTITY changeSearchSettings.button  "সন্ধানৰ সংহতিসমূহ পৰিবৰ্তন কৰক">
 
 <!ENTITY tabView.commandkey           "e">
 
@@ -490,8 +496,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY emailImageCmd.accesskey      "g">
 <!ENTITY emailVideoCmd.label          "ভিডিঅ' ই-মেইল কৰক…">
 <!ENTITY emailVideoCmd.accesskey      "a">
-
-
+<!ENTITY castVideoCmd.label           "ভিডিঅ'ক ডিভাইচলৈ পঠাওক">
+<!ENTITY castVideoCmd.accesskey       "e">
 <!ENTITY emailAudioCmd.label          "অডিঅ' ই-মেইল কৰক…">
 <!ENTITY emailAudioCmd.accesskey      "a">
 <!ENTITY playPluginCmd.label          "এই প্লাগিন সক্ৰিয় কৰক">
@@ -706,10 +712,11 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY social.learnMore.accesskey "L">
 <!ENTITY social.closeNotificationItem.label "এতিয়া নহয়">
 
-
-
-
-
+<!ENTITY social.directory.label "সক্ৰিয়কৰণ ডাইৰেকটৰি">
+<!ENTITY social.directory.text "আপুনি ডাইৰেকটৰিৰ পৰা অংশীদাৰী সেৱাসমূহ সক্ৰিয় কৰিব পাৰিব।">
+<!ENTITY social.directory.button "মোক তালৈ নিয়ক!">
+<!ENTITY social.directory.introText "এটা সেৱাক &brandShortName; লৈ যোগ কৰিবলে তাত ক্লিক কৰক।">
+<!ENTITY social.directory.viewmore.text "অধিক দৰ্শন কৰক">
 
 <!ENTITY customizeMode.tabTitle "&brandShortName; স্বনিৰ্বাচন কৰক">
 <!ENTITY customizeMode.menuAndToolbars.header2 "অতিৰিক্ত সঁজুলি আৰু বৈশিষ্ট্যসমূহ">
@@ -725,7 +732,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY customizeMode.lwthemes.menuManage.accessKey "M">
 <!ENTITY customizeMode.lwthemes.menuGetMore "অধিক থীমসমূহ প্ৰাপ্ত কৰক">
 <!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "G">
-
+<!ENTITY customizeMode.deveditionTheme.label2 "উন্নয়নকাৰী প্ৰকাশন থীম ব্যৱহাৰ কৰক">
 
 <!ENTITY social.chatBar.commandkey "c">
 <!ENTITY social.chatBar.label "চেটসমূহত ফকাচ কৰক">
@@ -751,18 +758,18 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY mixedContentBlocked2.options "বিকল্পসমূহ">
 <!ENTITY mixedContentBlocked2.unblock.label "এতিয়াৰ বাবে সুৰক্ষা অসামৰ্থবান কৰক">
 <!ENTITY mixedContentBlocked2.unblock.accesskey "D">
-
-
+<!ENTITY mixedContentBlocked2.block.label "সুৰক্ষা সামৰ্থবান কৰক">
+<!ENTITY mixedContentBlocked2.block.accesskey "E">
 <!ENTITY mixedContentBlocked2.disabled.message "সুৰক্ষা অসামৰ্থবান কৰা আছে">
 
 <!ENTITY trackingContentBlocked.message "অনুসৰণ কৰা">
 <!ENTITY trackingContentBlocked.moreinfo "আপোনাৰ অনলাইন কাৰ্য্য অনুকৰণ কৰা পৃষ্ঠাৰ কিছুমান অংশ প্ৰতিৰোধ কৰা হৈছে।">
 <!ENTITY trackingContentBlocked.learnMore "অধিক জানক">
 <!ENTITY trackingContentBlocked.options "বিকল্পসমূহ">
-
-
-
-
+<!ENTITY trackingContentBlocked.unblock2.label "এই ছাইটৰ বাবে সুৰক্ষা অসামৰ্থবান কৰক">
+<!ENTITY trackingContentBlocked.unblock2.accesskey "D">
+<!ENTITY trackingContentBlocked.block.label "সুৰক্ষা সামৰ্থবান কৰক">
+<!ENTITY trackingContentBlocked.block.accesskey "E">
 <!ENTITY trackingContentBlocked.disabled.message "অনুকৰণ সুৰক্ষা অসামৰ্থবান কৰা আছে">
 
 <!ENTITY pointerLock.notification.message "ইয়াক আকৌ দেখুৱাবলে যিকোনো সময়ত ESC টিপক।">
