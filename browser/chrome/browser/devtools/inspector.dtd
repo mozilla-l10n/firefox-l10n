@@ -32,7 +32,7 @@
      HTML in the current node -->
 
 <!ENTITY inspectorHTMLPasteInner.label      "Cole o HTML">
-<!ENTITY inspectorHTMLPasteInner.accesskey  "n">
+<!ENTITY inspectorHTMLPasteInner.accesskey  "o">
 <!-- LOCALIZATION NOTE (inspectorHTMLPasteExtraSubmenu.label): This is the label
      shown in the inspector contextual-menu for the sub-menu of the other Paste
      items, which allow to paste HTML:
