@@ -201,6 +201,7 @@
 <!ENTITY fxaccount_status_needs_credentials 'No se puede conectar. Tocá para ingresar.'>
 <!ENTITY fxaccount_status_needs_upgrade 'Necesitás actualizar &brandShortName; para ingresar.'>
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled '&syncBrand.shortName.label; Está configurado, pero no se está sincronizando automáticamente. Habilitá “Auto-sync data” en Ajustes de Android &gt; Uso de datos.'>
+<!ENTITY fxaccount_status_needs_master_sync_automatically_enabled_v21 '&syncBrand.shortName.label; está configurado, pero no está sincronizando automáticamente. Cambie “Sincronización automática” en el menú de Cuentas y sincronización de Android.'>
 <!ENTITY fxaccount_status_needs_account_enabled '&syncBrand.shortName.label; está configurado, pero no se está sincronizando automáticamente. Golpeá para comenzar a sincronizar.'>
 <!ENTITY fxaccount_status_needs_finish_migrating 'Tocá para ingresar a tu nueva cuenta en Firefox Account.'>
 <!ENTITY fxaccount_status_bookmarks 'Marcadores'>
