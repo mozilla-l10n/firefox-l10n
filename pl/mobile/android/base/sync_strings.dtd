@@ -172,6 +172,9 @@ etc).  The account remains a "Firefox" account. -->
 <!ENTITY fxaccount_confirm_account_change_email "Usunąć konfigurację konta przypisanego do tego adresu?">
 <!ENTITY fxaccount_confirm_account_verification_link_sent2 'Wysłano odnośnik weryfikujący'>
 <!ENTITY fxaccount_confirm_account_verification_link_not_sent2 'Nie udało się wysłać odnośnika weryfikującego'>
+<!ENTITY fxaccount_resend_unlock_code_button_label "Wyślij ponownie odnośnik weryfikacyjny">
+<!ENTITY fxaccount_unlock_code_sent "Wiadomość z odnośnikiem weryfikacyjnym została wysłana">
+<!ENTITY fxaccount_unlock_code_not_sent "Nie można było wysłać wiadomości z odnośnikiem weryfikacyjnym">
 
 <!ENTITY fxaccount_sign_in_sub_header 'Zaloguj się'>
 <!ENTITY fxaccount_sign_in_button_label 'Zaloguj się'>
@@ -243,6 +246,7 @@ been returned. -->
 <!ENTITY fxaccount_remote_error_SERVICE_TEMPORARILY_UNAVAILABLE_TO_DUE_HIGH_LOAD 'Serwer jest zajęty, spróbuj ponownie później'>
 <!ENTITY fxaccount_remote_error_UNKNOWN_ERROR 'Wystąpił problem'>
 <!ENTITY fxaccount_remote_error_COULD_NOT_CONNECT 'Brak połączenia z siecią'>
+<!ENTITY fxaccount_remote_error_ACCOUNT_LOCKED "Niezweryfikowane konto. &formatS1;">
 
 <!ENTITY fxaccount_sync_sign_in_error_notification_title2 '&syncBrand.shortName.label; nie może nawiązać połączenia'>
 <!-- Note to translators: the format string below will be replaced
