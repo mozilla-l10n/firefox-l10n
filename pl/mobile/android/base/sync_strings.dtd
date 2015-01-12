@@ -169,6 +169,7 @@ etc).  The account remains a "Firefox" account. -->
 <!-- Localization note: &formatS; is the Firefox account's email address. -->
 <!ENTITY fxaccount_confirm_account_verification_link 'Odnośnik weryfikujący wysłano na &formatS;'>
 <!ENTITY fxaccount_confirm_account_resend_email 'Wyślij ponownie'>
+<!ENTITY fxaccount_confirm_account_change_email "Usunąć konfigurację konta przypisanego do tego adresu?">
 <!ENTITY fxaccount_confirm_account_verification_link_sent2 'Wysłano odnośnik weryfikujący'>
 <!ENTITY fxaccount_confirm_account_verification_link_not_sent2 'Nie udało się wysłać odnośnika weryfikującego'>
 
