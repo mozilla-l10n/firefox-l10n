@@ -182,9 +182,15 @@ etc).  The account remains a "Firefox" account. -->
 <!ENTITY fxaccount_account_verified_sub_header 'Konto zweryfikowano'>
 <!ENTITY fxaccount_account_verified_description2 'Za chwilę rozpocznie się synchronizacja twoich danych'>
 
+<!ENTITY fxaccount_migration_finished_header "Aktualizacja zakończona">
+
 <!ENTITY fxaccount_update_credentials_header 'Zaloguj się'>
 <!ENTITY fxaccount_update_credentials_button_label 'Zaloguj się'>
 <!ENTITY fxaccount_update_credentials_unknown_error 'Logowanie nie powiodło się'>
+
+<!ENTITY fxaccount_finish_migrating_header "Zaloguj się, aby dokończyć aktualizację">
+<!ENTITY fxaccount_finish_migrating_button_label "Dokończ aktualizację">
+<!ENTITY fxaccount_finish_migrating_description "Akutalizacja może spowodować przesłanie dużej ilości danych. Najlepiej zrobić to poprzez sieć Wi-FI.">
 
 <!ENTITY fxaccount_status_header2 'Konto Firefox'>
 <!ENTITY fxaccount_status_signed_in_as 'Zalogowano jako'>
@@ -242,3 +248,6 @@ been returned. -->
 <!-- Note to translators: the format string below will be replaced
 with the Firefox account's email address. -->
 <!ENTITY fxaccount_sync_sign_in_error_notification_text2 'Stuknij, aby zalogować się jako &formatS;'>
+
+<!ENTITY fxaccount_sync_finish_migrating_notification_title "Dokończ aktualizację &syncBrand.shortName.label;?">
+<!ENTITY fxaccount_sync_finish_migrating_notification_text "Stuknij, aby zalogować się jako &formatS;'>
