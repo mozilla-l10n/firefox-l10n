@@ -13,6 +13,7 @@
 <!ENTITY update.applyButtonBillboard.label        "Aplikatu eguneraketa…">
 <!ENTITY update.applyButtonBillboard.accesskey    "A">
 
+<!ENTITY community.start2           "\U200B">
 <!-- LOCALIZATION NOTE (community.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
 <!ENTITY community.mozillaLink      "&vendorShortName;">
 <!ENTITY community.middle2          "k diseinatzen du &brandShortName;, Internet toki hobea izan dadin lanean dabilen ">
