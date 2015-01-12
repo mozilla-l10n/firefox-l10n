@@ -16,7 +16,7 @@
 
 <!ENTITY aboutPrivateBrowsing.notPrivate       "אינך כעת בחלון גלישה פרטית.">
 
-<!ENTITY aboutPrivateBrowsing.moreInfo         "למרות שמחשב זה יכיל רישומים של היסטורית הגלישה שלך, המעסיק או ספק שירותי הגישה לרשת יכולים עדיין לנהל מעקב אחר הדפים שניצפו.">
+<!ENTITY aboutPrivateBrowsing.moreInfo         "למרות שמחשב זה לא יכיל רישומים של היסטורית הגלישה שלך, המעסיק או ספק שירותי הגישה לרשת יכולים עדיין לנהל מעקב אחר הדפים שניצפו.">
 <!ENTITY aboutPrivateBrowsing.learnMore        "מידע נוסף.">
 
 <!ENTITY privatebrowsingpage.openPrivateWindow.label "פתיחת חלון פרטי">
