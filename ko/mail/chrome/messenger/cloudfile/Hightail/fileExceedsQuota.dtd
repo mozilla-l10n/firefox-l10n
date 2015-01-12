@@ -3,9 +3,5 @@
    - You can obtain one at http://mozilla.org/MPL/2.0/.  -->
 <!ENTITY fileExceedsQuota.title   "Hightail">
 <!ENTITY fileExceedsQuota.storageLimitReached   "저장공간이 부족합니다">
-<!ENTITY fileExceedsQuota.accept "업그레이드">
-<!ENTITY fileExceedsQuota.cancel "취소">
 <!ENTITY fileExceedsQuota.description "2GB 제한에 도달했습니다.">
 <!ENTITY fileExceedsQuota.description1 "현재 #XXX GB 을 사용하고 계십니다.">
-<!ENTITY fileExceedsQuota.description2 "Pro Plus로 업그레이드 하시고 더 많은 저장공간을 사용하세요.">
-<!ENTITY fileExceedsQuota.description3 "아니면 파일을 삭제해서 공간을 확보하셔도 됩니다.">
