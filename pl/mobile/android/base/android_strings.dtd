@@ -162,7 +162,9 @@ selected to be added to the home page. -->
 <!ENTITY pref_cookies_not_accept_foreign "Akceptuj, z wyjątkiem ciasteczek zewnętrznych dostawców">
 <!ENTITY pref_cookies_disabled "Nie akceptuj">
 
-<!ENTITY pref_donottrack_title "Śledzenie">
+<!ENTITY pref_tracking_protection_title "Ochrona przed śledzeniem">
+<!ENTITY pref_tracking_protection_summary "Blokowanie przez program &brandShortName; prób śledzenia aktywności użytkownika przez strony">
+<!ENTITY pref_donottrack_title "Ograniczanie śledzenia">
 <!ENTITY pref_donottrack_summary "Informuj witryny, że użytkownik nie chce być śledzony">
 
 <!ENTITY pref_char_encoding "Kodowanie znaków">
