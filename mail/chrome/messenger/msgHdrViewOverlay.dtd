@@ -49,7 +49,8 @@
 <!ENTITY hdrViewToolbarAlwaysReplySender.label "보낸이에게 답장 항상 보기">
 <!ENTITY hdrViewToolbarAlwaysReplySender.accesskey "R">
 
-<!ENTITY otherActionsButton1.label "기타 기능">
+<!ENTITY otherActionsButton2.label "기타">
+<!ENTITY otherActionsButton.tooltip "기타 기능">
 <!ENTITY otherActionsOpenConversation1.label "대화 모드를 탭으로 열기">
 <!ENTITY otherActionsOpenConversation1.accesskey "C">
 <!ENTITY otherActionsOpenInNewWindow1.label "새 창으로 열기">

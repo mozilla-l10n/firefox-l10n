@@ -4,7 +4,7 @@
 
 <!-- Subscription Dialog -->
 <!ENTITY feedSubscriptions.label "피드 구독">
-<!ENTITY subscriptionDesc.label "알림: 폴더 변경 및 삭제가 이전에 받은 기사에는 영향을 주지 않습니다.">
+<!ENTITY learnMore.label             "피드에 대해 더 알아보기">
 
 <!ENTITY feedTitle.label "제목:">
 <!ENTITY feedTitle.accesskey		"T">
@@ -12,6 +12,8 @@
 <!ENTITY feedLocation.label		"피드 URL:">
 <!ENTITY feedLocation.accesskey		"U">
 <!ENTITY feedLocation.placeholder	"추가하는 피드의 올바른 URL을 입력해 주세요.">
+<!ENTITY locationValidate.label   "피드 검사">
+<!ENTITY validateText.label   "피드가 유효한지 확인해 올바른 URL을 취득합니다.">
 
 <!ENTITY feedFolder.label		"보관 폴더:">
 <!ENTITY feedFolder.accesskey		"S">
@@ -24,9 +26,6 @@
 <!ENTITY autotagUsePrefix.label      "태그에 접두사 붙이기:">
 <!ENTITY autotagUsePrefix.accesskey  "P">
 <!ENTITY autoTagPrefix.placeholder   "접두사를 입력하세요">
-
-<!ENTITY locationValidate.label		"피드 검사">
-<!ENTITY validateText.label		"피드가 유효한지 확인해 올바른 URL을 취득합니다.">
 
 <!ENTITY button.addFeed.label       "추가">
 <!ENTITY button.addFeed.accesskey   "A">

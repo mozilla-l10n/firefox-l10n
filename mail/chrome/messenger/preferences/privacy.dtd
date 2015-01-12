@@ -33,11 +33,6 @@
 <!ENTITY showCookies.label "쿠키 보기…">
 <!ENTITY showCookies.accesskey "S">
 
-<!ENTITY dntTrackingNopref.label2 "웹 사이트에 내 방문자 추적 설정을 아무것도 알려주지 않음">
-<!ENTITY dntTrackingNopref.accesskey "o">
 <!ENTITY dntTrackingNotOkay.label2 "웹 사이트에 방문자 추적 중지를 요청">
 <!ENTITY dntTrackingNotOkay.accesskey "n">
-<!ENTITY dntTrackingOkay.label2 "웹 사이트에 방문자 추적을 요청">
-<!ENTITY dntTrackingOkay.accesskey "t">
 <!ENTITY doNotTrackInfo.label "방문자 추적 중지에 대해 더 알아보기">
-
