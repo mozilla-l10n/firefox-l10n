@@ -6,7 +6,7 @@
 
 <!ENTITY search_bar_hint 'Użyj wyszukiwarki &formatS;'>
 
-<!ENTITY search_empty_title '&brandShortName;: wyszukiwanie'>
+<!ENTITY search_empty_title2 "Rozpocznij wyszukiwanie">
 <!ENTITY search_empty_message 'Szybko znajdź to, czego szukasz'>
 
 <!ENTITY search_plus_content_description 'Dodaj do paska wyszukiwania'>
