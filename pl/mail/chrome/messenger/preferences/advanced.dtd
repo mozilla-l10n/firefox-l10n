@@ -14,6 +14,8 @@
 <!ENTITY telemetryInfoLink.label      "Więcej informacji o prywatności przesyłanych raportów.">
 <!ENTITY enableGlodaSearch.label      "Indeksowanie wiadomości i wyszukiwanie">
 <!ENTITY enableGlodaSearch.accesskey  "n">
+<!ENTITY allowHWAccel.label "Korzystaj z akceleracji sprzętowej, jeśli jest dostępna">
+<!ENTITY allowHWAccel.accesskey "K">
 <!ENTITY scrolling.label "Przewijanie">
 <!ENTITY useAutoScroll.label "Używaj automatycznego przewijania">
 <!ENTITY useAutoScroll.accesskey "U">
