@@ -22,6 +22,8 @@
 <!ENTITY contextIncomingMail.accesskey "a">
 <!ENTITY contextBeforeCls.label "(przed filtrowaniem niechcianych)">
 <!ENTITY contextAfterCls.label "(po filtrowaniu niechcianych)">
+<!ENTITY contextOutgoing.label "Po wysłaniu">
+<!ENTITY contextOutgoing.accesskey "w">
 <!ENTITY contextManual.label         "ręcznego uruchamiania">
 <!ENTITY contextManual.accesskey "r">
 
