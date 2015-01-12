@@ -6,8 +6,11 @@
 <!ENTITY window.width "43em">
 <!ENTITY window.macWidth "46em">
 
-<!ENTITY allowPagesToUse.label "Pozwalaj na inne kolory niż ustawione tutaj">
-<!ENTITY allowPagesToUse.accesskey "P">
+<!ENTITY allowPagesToUseColors.label "Pozwalaj na inne kolory niż ustawione tutaj">
+<!ENTITY allowPagesToUseColors.accesskey "P">
+<!ENTITY allowPagesToUseColors.automatic.label "Automatycznie">
+<!ENTITY allowPagesToUseColors.always.label "Zawsze">
+<!ENTITY allowPagesToUseColors.never.label "Nigdy">
 
 <!ENTITY color "Tekst i tło">
 <!ENTITY textColor.label "Tekst:">
