@@ -500,3 +500,5 @@ it is applicable. -->
 <!ENTITY actionbar_done "Gotowe">
 
 <!ENTITY remote_tabs_last_synced "Ostatnia synchronizacja: &formatS;">
+
+<!ENTITY find_matchcase "Aa">
