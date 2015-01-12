@@ -313,10 +313,6 @@ size. -->
 <!ENTITY contextmenu_top_sites_unpin "Odepnij stronę">
 <!ENTITY contextmenu_add_search_engine "Dodaj wyszukiwarkę">
 
-<!ENTITY pref_titlebar_mode "Pasek tytułu">
-<!ENTITY pref_titlebar_mode_title "Pokazuj tytuły stron">
-<!ENTITY pref_titlebar_mode_url "Pokazuj adresy stron">
-
 <!ENTITY pref_scroll_title_bar2 "Przeglądanie pełnoekranowe">
 <!ENTITY pref_scroll_title_bar_summary "Ukryj pasek tytułu przeglądarki &brandShortName; przy przewijaniu stron">
 
