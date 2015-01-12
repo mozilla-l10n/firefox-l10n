@@ -162,10 +162,8 @@ selected to be added to the home page. -->
 <!ENTITY pref_cookies_not_accept_foreign "Akceptuj, z wyjątkiem ciasteczek zewnętrznych dostawców">
 <!ENTITY pref_cookies_disabled "Nie akceptuj">
 
-<!ENTITY pref_donottrack_menu "Śledzenie">
-<!ENTITY pref_donottrack_disallow_tracking "Informuj witryny, że nie chcę, by mnie śledziły">
-<!ENTITY pref_donottrack_allow_tracking "Informuj witryny, że chcę, by mnie śledziły">
-<!ENTITY pref_donottrack_no_pref "Nie informuj witryn o tym, czy chcę, by mnie śledziły">
+<!ENTITY pref_donottrack_title "Śledzenie">
+<!ENTITY pref_donottrack_summary "Informuj witryny, że użytkownik nie chce być śledzony">
 
 <!ENTITY pref_char_encoding "Kodowanie znaków">
 <!ENTITY pref_char_encoding_on "Pokazuj">
