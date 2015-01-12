@@ -206,6 +206,7 @@
 <!ENTITY fxaccount_status_needs_credentials 'Kan niet verbinden. Tik om u aan te melden.'>
 <!ENTITY fxaccount_status_needs_upgrade 'U dient &brandShortName; te upgraden om u aan te melden.'>
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled '&syncBrand.shortName.label; is ingesteld, maar synchroniseert niet automatisch. Schakel “Automatisch synchroniseren” om in Android-instellingen &gt; Gegevensgebruik.'>
+<!ENTITY fxaccount_status_needs_master_sync_automatically_enabled_v21 '&syncBrand.shortName.label; is ingesteld, maar synchroniseert niet automatisch. Schakel “Automatisch synchroniseren” om in het menu van Android-instellingen &gt; Accounts.'>
 <!ENTITY fxaccount_status_needs_account_enabled '&syncBrand.shortName.label; is ingesteld, maar synchroniseert niet automatisch. Tik om het synchroniseren te starten.'>
 <!ENTITY fxaccount_status_needs_finish_migrating 'Tik om u aan te melden bij uw nieuwe Firefox-account.'>
 <!ENTITY fxaccount_status_bookmarks 'Bladwijzers'>
