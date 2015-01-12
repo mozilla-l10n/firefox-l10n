@@ -434,9 +434,10 @@ it is applicable. -->
 <!ENTITY loaded_mixed_content_message "Na tej stronie znajdują się niebezpieczne treści">
 <!ENTITY blocked_mixed_content_message_top "Przeglądarka &brandShortName; zablokowała niebezpieczne treści.">
 <!ENTITY blocked_mixed_content_message_bottom "Większość witryn działa poprawnie nawet po zablokowaniu tych treści.">
-<!ENTITY loaded_tracking_content_message "Ta strona śledzi Twoją aktywność online.">
-<!ENTITY blocked_tracking_content_message_top "&brandShortName; zablokował próbę śledzenia aktywności online na tej stronie.">
-<!ENTITY blocked_tracking_content_message_bottom "Większość stron będzie działać poprawnie, nawet podczas blokowania prób śledzenia.">
+<!ENTITY loaded_tracking_content_message_top "Ochrona przed śledzeniem jest wyłączona">
+<!ENTITY loaded_tracking_content_message_bottom "Części tej strony mogą śledzić aktywność użytkownika.">
+<!ENTITY blocked_tracking_content_message_top2 "Ochrona przed śledzeniem jest włączona">
+<!ENTITY blocked_tracking_content_message_bottom2 "Części tej strony mogące śledzić aktywność użytkownika zostały zablokowane.">
 <!ENTITY learn_more "Dowiedz się więcej">
 <!ENTITY enable_protection "Włącz ochronę">
 <!ENTITY disable_protection "Wyłącz ochronę">
