@@ -461,8 +461,6 @@ it is applicable. -->
 
 <!ENTITY searchable_description "Zakładki i historia">
 
-<!ENTITY devtools_remote_debugging_forward "Nie zapomnij skonfigurować przekierowania portów!">
-
 <!-- Updater notifications -->
 <!ENTITY updater_start_title2 "&brandShortName;: dostępne są nowe aktualizacje">
 <!ENTITY updater_start_select2 "Dotknij, aby zaktualizować">
