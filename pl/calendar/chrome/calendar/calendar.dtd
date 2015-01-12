@@ -241,6 +241,11 @@
 <!ENTITY calendar.context.properties.label             "Właściwości">
 <!ENTITY calendar.context.properties.accesskey         "W">
 
+<!ENTITY calendar.context.togglevisible.accesskey "k">
+<!ENTITY calendar.context.showonly.accesskey "a">
+<!ENTITY calendar.context.showall.label "Pokaż wszystkie kalendarze">
+<!ENTITY calendar.context.showall.accesskey "w">
+
 <!ENTITY calendar.context.convertmenu.label                "Zamień na">
 <!ENTITY calendar.context.convertmenu.accesskey.mail       "m">
 <!ENTITY calendar.context.convertmenu.accesskey.calendar   "m">
