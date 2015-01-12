@@ -426,10 +426,12 @@ it is applicable. -->
 <!ENTITY identity_connected_to "Połączono z">
 <!ENTITY identity_run_by "Witrynę prowadzi:">
 
-<!-- Mixed content notifications in site identity popup -->
 <!ENTITY loaded_mixed_content_message "Na tej stronie znajdują się niebezpieczne treści">
 <!ENTITY blocked_mixed_content_message_top "Przeglądarka &brandShortName; zablokowała niebezpieczne treści.">
 <!ENTITY blocked_mixed_content_message_bottom "Większość witryn działa poprawnie nawet po zablokowaniu tych treści.">
+<!ENTITY loaded_tracking_content_message "Ta strona śledzi Twoją aktywność online.">
+<!ENTITY blocked_tracking_content_message_top "&brandShortName; zablokował próbę śledzenia aktywności online na tej stronie.">
+<!ENTITY blocked_tracking_content_message_bottom "Większość stron będzie działać poprawnie, nawet podczas blokowania prób śledzenia.">
 <!ENTITY learn_more "Dowiedz się więcej">
 <!ENTITY enable_protection "Włącz ochronę">
 <!ENTITY disable_protection "Wyłącz ochronę">
