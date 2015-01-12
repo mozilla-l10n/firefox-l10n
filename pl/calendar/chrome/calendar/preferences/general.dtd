@@ -7,6 +7,9 @@
 <!ENTITY pref.dateformat.accesskey "F">
 <!ENTITY pref.dateformat.long "długi" >
 <!ENTITY pref.dateformat.short "krótki" >
+<!ENTITY pref.timezones.caption "Strefa czasowa">
+<!ENTITY pref.timezones.label "Wybierz najbliższe miasto w swojej strefie czasowej:">
+<!ENTITY pref.timezones.accesskey "W">
 <!ENTITY pref.defaults.label "Domyślne wartości">
 <!ENTITY pref.events.label "Wydarzenia">
 <!ENTITY pref.tasks.label "Zadania">
