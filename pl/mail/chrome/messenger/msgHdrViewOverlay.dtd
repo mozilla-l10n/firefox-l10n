@@ -39,7 +39,8 @@
 <!ENTITY hdrJunkButton1.tooltip       "Oznacz wiadomość jako niechcianą">
 <!ENTITY hdrTrashButton1.label        "Usuń">
 <!ENTITY hdrTrashButton1.tooltip      "Usuń tę wiadomość">
-<!ENTITY otherActionsButton1.label    "Inne">
+<!ENTITY otherActionsButton2.label "Więcej">
+<!ENTITY otherActionsButton.tooltip "Inne dostępne czynności">
 
 <!ENTITY hdrViewToolbarShowFull.label      "Wyświetlaj ikony i tekst">
 <!ENTITY hdrViewToolbarShowFull.accesskey  "t">
