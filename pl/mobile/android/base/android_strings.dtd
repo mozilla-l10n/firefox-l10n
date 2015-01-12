@@ -354,6 +354,7 @@ size. -->
      text underneath empty thumbnails in the Top Sites page on about:home. -->
 <!ENTITY home_top_sites_add "Dodaj stronę">
 
+<!ENTITY home_title "&brandShortName;: Strona domowa">
 <!ENTITY home_history_title "Historia">
 <!ENTITY home_clear_history_button "Wyczyść historię przeglądania">
 <!ENTITY home_clear_history_confirm "Czy na pewno chcesz wyczyścić historię przeglądania?">
