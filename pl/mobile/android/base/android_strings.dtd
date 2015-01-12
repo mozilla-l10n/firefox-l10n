@@ -329,8 +329,6 @@ size. -->
 
 <!ENTITY reading_list_title "Do przeczytania">
 <!ENTITY reading_list_added "Strona dodana do listy „Do przeczytania”">
-<!ENTITY reading_list_failed "Nie udało się zapisać strony na liście „Do przeczytania”">
-<!ENTITY reading_list_duplicate "Strona już jest na liście „Do przeczytania”">
 <!ENTITY reading_list_time_minutes "&formatD; min">
 <!ENTITY reading_list_time_over_an_hour "Ponad godzinę">
 
