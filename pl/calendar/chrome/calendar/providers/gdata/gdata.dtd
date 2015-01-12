@@ -13,4 +13,10 @@
 <!ENTITY gdata.migration.upgrade.accesskey "U">
 <!ENTITY gdata.migration.showagain.label "Zawsze sprawdzaj ">
 
+<!ENTITY gdata.reminder.default "Domyślne przypomnienie">
 <!ENTITY gdata.reminder.action.sms.label "Wyślij SMS">
+
+<!ENTITY gdata.wizard.session.description "Wybierz istniejącą sesję lub wprowadź adres e-mail, by utworzyć nową. Potrzebna jest tylko jedna sesja dla każdego konta.">
+<!ENTITY gdata.wizard.calendars.description "Wybierz kalendarze i listy zadań do subskrypcji.">
+
+<!ENTITY gdata.wizard.nextstep.description "Przejdź do następnego kroku, aby skonfigurować kalendarze.">
