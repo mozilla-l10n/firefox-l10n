@@ -208,6 +208,7 @@ etc).  The account remains a "Firefox" account. -->
 <!ENTITY fxaccount_status_needs_credentials 'Nie udało się nawiązać połączenia. Stuknij, aby się zalogować'>
 <!ENTITY fxaccount_status_needs_upgrade '&brandShortName; wymaga aktualizacji, aby umożliwić logowanie.'>
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled 'Program &syncBrand.shortName.label; jest skonfigurowany, ale nie synchronizuje się automatycznie. Włącz automatyczną synchronizację danych w ustawieniach systemu Android.'>
+<!ENTITY fxaccount_status_needs_master_sync_automatically_enabled_v21 "&syncBrand.shortName.label; jest skonfigurowany ale nie został ustawiony na automatyczną synchronizację. Włącz automatyczną synchronizację danych w menu ustawień i kont Androida.">
 <!ENTITY fxaccount_status_needs_account_enabled 'Program &syncBrand.shortName.label; jest skonfigurowany, ale nie synchronizuje się automatycznie. Stuknij, aby rozpocząć synchronizację.'>
 <!ENTITY fxaccount_status_bookmarks 'Zakładki'>
 <!ENTITY fxaccount_status_history 'Historia'>
