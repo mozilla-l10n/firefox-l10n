@@ -3,9 +3,6 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY fontsAndEncodingsDialog.title "Czcionki i zestawy znaków">
-<!ENTITY window.width     "40em">
-<!ENTITY window.macWidth  "47em">
-<!ENTITY window.unixWidth "46em">
 
 <!ENTITY language.label     "Czcionki:">
 <!ENTITY language.accesskey "C">
