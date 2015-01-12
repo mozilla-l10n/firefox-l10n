@@ -210,6 +210,7 @@ etc).  The account remains a "Firefox" account. -->
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled 'Program &syncBrand.shortName.label; jest skonfigurowany, ale nie synchronizuje się automatycznie. Włącz automatyczną synchronizację danych w ustawieniach systemu Android.'>
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled_v21 "&syncBrand.shortName.label; jest skonfigurowany ale nie został ustawiony na automatyczną synchronizację. Włącz automatyczną synchronizację danych w menu ustawień i kont Androida.">
 <!ENTITY fxaccount_status_needs_account_enabled 'Program &syncBrand.shortName.label; jest skonfigurowany, ale nie synchronizuje się automatycznie. Stuknij, aby rozpocząć synchronizację.'>
+<!ENTITY fxaccount_status_needs_finish_migrating "Stuknij, aby zalogować do Twojego nowego konta Firefoksa.">
 <!ENTITY fxaccount_status_bookmarks 'Zakładki'>
 <!ENTITY fxaccount_status_history 'Historia'>
 <!ENTITY fxaccount_status_passwords 'Hasła'>
@@ -255,4 +256,4 @@ with the Firefox account's email address. -->
 <!ENTITY fxaccount_sync_sign_in_error_notification_text2 'Stuknij, aby zalogować się jako &formatS;'>
 
 <!ENTITY fxaccount_sync_finish_migrating_notification_title "Dokończ aktualizację &syncBrand.shortName.label;?">
-<!ENTITY fxaccount_sync_finish_migrating_notification_text "Stuknij, aby zalogować się jako &formatS;'>
+<!ENTITY fxaccount_sync_finish_migrating_notification_text "Stuknij, aby zalogować się jako &formatS;">
