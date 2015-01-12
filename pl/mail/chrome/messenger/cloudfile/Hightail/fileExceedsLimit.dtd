@@ -3,12 +3,5 @@
    - You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY fileExceedsLimit.title "Hightail">
-<!ENTITY fileExceedsLimit.thatsBigFile "Wgrywanie plików o wielkości powyżej 50 MB">
-<!ENTITY fileExceedsLimit.thatsBigFile2 "jest dodatkową funkcjonalnością.">
-<!ENTITY fileExceedsLimit.accept "Uaktualnij">
-<!ENTITY fileExceedsLimit.cancel "Anuluj">
+<!ENTITY fileExceedsLimit.thatsBigFile3 "Wgrywanie plików większych niż 50 MB nie jest obsługiwane dla darmowych kont.">
 <!ENTITY fileExceedsLimit.style "width: 40em; min-height: 20em;">
-<!ENTITY fileExceedsLimit.proIncludes "Uaktualnij konto, aby wgrać ten plik oraz:">
-<!ENTITY fileExceedsLimit.pros1 "Uzyskać możliwość wgrywania plików o rozmiarze do 2GB">
-<!ENTITY fileExceedsLimit.pros2 "Uzyskać możliwość przechowywania nieograniczonej liczby plików">
-<!ENTITY fileExceedsLimit.pros3 "Uzyskać dostęp do plików i możliwość dzielenia się nimi z dowolnego miejsca">

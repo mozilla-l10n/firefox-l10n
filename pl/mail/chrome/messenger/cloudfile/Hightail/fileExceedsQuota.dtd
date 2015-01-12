@@ -4,9 +4,5 @@
 
 <!ENTITY fileExceedsQuota.title "Hightail">
 <!ENTITY fileExceedsQuota.storageLimitReached "Osiągnięto limit rozmiaru przechowywanych plików">
-<!ENTITY fileExceedsQuota.accept "Uaktualnij">
-<!ENTITY fileExceedsQuota.cancel "Anuluj">
 <!ENTITY fileExceedsQuota.description "Limit 2GB rozmiaru przechowywanych plików dla tego konta został osiągnięty.">
 <!ENTITY fileExceedsQuota.description1 "Rozmiar obecnie przechowywanych plików to #XXX GB.">
-<!ENTITY fileExceedsQuota.description2 "Uaktualnij konto do konta Pro Plus, aby zwiększyć dostępną przestrzeń dla przechowywanych plików.">
-<!ENTITY fileExceedsQuota.description3 "Można również usunąć przechowywane pliki, aby zwiększyć dostępną przestrzeń.">
