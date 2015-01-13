@@ -306,6 +306,7 @@
 <!ENTITY event.recurrence.pattern.yearly.week.5.label        "星期四" >
 <!ENTITY event.recurrence.pattern.yearly.week.6.label        "星期五" >
 <!ENTITY event.recurrence.pattern.yearly.week.7.label        "星期六" >
+<!ENTITY event.recurrence.pattern.yearly.day.label           "日" >
 <!ENTITY event.recurrence.of.label                           "於" >
 <!ENTITY event.recurrence.pattern.yearly.month2.1.label      "一月" >
 <!ENTITY event.recurrence.pattern.yearly.month2.2.label      "二月" >

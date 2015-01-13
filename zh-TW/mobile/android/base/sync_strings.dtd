@@ -170,6 +170,9 @@
 <!ENTITY fxaccount_confirm_account_change_email '要忘記此電子郵件地址？'>
 <!ENTITY fxaccount_confirm_account_verification_link_sent2 '已寄出驗證郵件'>
 <!ENTITY fxaccount_confirm_account_verification_link_not_sent2 '無法傳送驗證郵件'>
+<!ENTITY fxaccount_resend_unlock_code_button_label '重寄解鎖信'>
+<!ENTITY fxaccount_unlock_code_sent '已寄出帳號解鎖信'>
+<!ENTITY fxaccount_unlock_code_not_sent '無法傳送帳號解鎖信'>
 
 <!ENTITY fxaccount_sign_in_sub_header '登入'>
 <!ENTITY fxaccount_sign_in_button_label '登入'>
@@ -180,9 +183,15 @@
 <!ENTITY fxaccount_account_verified_sub_header '帳號已驗證'>
 <!ENTITY fxaccount_account_verified_description2 '您的資料將在稍後開始同步。'>
 
+<!ENTITY fxaccount_migration_finished_header '升級完成'>
+
 <!ENTITY fxaccount_update_credentials_header '登入'>
 <!ENTITY fxaccount_update_credentials_button_label '登入'>
 <!ENTITY fxaccount_update_credentials_unknown_error '無法登入'>
+
+<!ENTITY fxaccount_finish_migrating_header '登入以完成升級'>
+<!ENTITY fxaccount_finish_migrating_button_label '完成升級'>
+<!ENTITY fxaccount_finish_migrating_description '帳號升級時可能需要轉移不少資料，建議您最好先連線到 Wi-Fi 網路。'>
 
 <!ENTITY fxaccount_status_header2 'Firefox 帳號'>
 <!ENTITY fxaccount_status_signed_in_as '已登入為'>
@@ -197,7 +206,9 @@
 <!ENTITY fxaccount_status_needs_credentials '無法連線，點擊以登入。'>
 <!ENTITY fxaccount_status_needs_upgrade '您需要升級 &brandShortName; 才能登入。'>
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled '&syncBrand.shortName.label; 已設定完成，但不會自動進行同步。請到 Android 設定 &gt; 帳號與同步處理開啟「自動同步」。'>
+<!ENTITY fxaccount_status_needs_master_sync_automatically_enabled_v21 '&syncBrand.shortName.label; 已設定完成，但不會自動進行同步。請到 Android 設定的「帳號與同步設定」選單中打開「自動同步資料」才會自動同步。'>
 <!ENTITY fxaccount_status_needs_account_enabled '&syncBrand.shortName.label; 已設定完成，但不會自動進行同步。點擊此處開始同步。'>
+<!ENTITY fxaccount_status_needs_finish_migrating '點擊此處以登入至您全新的 Firefox 帳號。'>
 <!ENTITY fxaccount_status_bookmarks '書籤'>
 <!ENTITY fxaccount_status_history '歷史記錄'>
 <!ENTITY fxaccount_status_passwords '密碼'>
@@ -245,9 +256,15 @@
 <!ENTITY fxaccount_remote_error_SERVICE_TEMPORARILY_UNAVAILABLE_TO_DUE_HIGH_LOAD '伺服器忙碌中，請稍後重試'>
 <!ENTITY fxaccount_remote_error_UNKNOWN_ERROR '發生了問題'>
 <!ENTITY fxaccount_remote_error_COULD_NOT_CONNECT '無法連線至網路'>
+<!ENTITY fxaccount_remote_error_ACCOUNT_LOCKED '帳號已鎖定。&formatS1;'>
 
 <!ENTITY fxaccount_sync_sign_in_error_notification_title2 '&syncBrand.shortName.label; 未連線'>
 <!-- Localization note: the format string below will be replaced
      with the Firefox Account's email address. -->
 <!ENTITY fxaccount_sync_sign_in_error_notification_text2 '點擊以登入為 &formatS;'>
+
+<!ENTITY fxaccount_sync_finish_migrating_notification_title '&syncBrand.shortName.label; 升級完成了嗎？'>
+<!-- Localization note: the format string below will be replaced
+     with the Firefox Account's email address. -->
+<!ENTITY fxaccount_sync_finish_migrating_notification_text '點擊以登入為 &formatS;'>
 

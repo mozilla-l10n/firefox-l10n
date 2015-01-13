@@ -23,6 +23,8 @@
 <!ENTITY contextManual.accesskey "R">
 <!ENTITY contextBeforeCls.label "在進行垃圾信偵測前進行篩選">
 <!ENTITY contextAfterCls.label "在進行垃圾信偵測後進行篩選">
+<!ENTITY contextOutgoing.label "傳送後">
+<!ENTITY contextOutgoing.accesskey "S">
 
 <!ENTITY filterActionDesc.label "執行下列動作:">
 <!ENTITY filterActionDesc.accesskey "P">

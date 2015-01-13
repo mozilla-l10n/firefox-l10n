@@ -15,6 +15,8 @@
 <!ENTITY telemetryInfoLink.label       "更多關於 Telemetry 的資訊">
 <!ENTITY enableGlodaSearch.label       "啟動全域搜尋以及索引">
 <!ENTITY enableGlodaSearch.accesskey   "E">
+<!ENTITY allowHWAccel.label            "可用時開啟硬體加速">
+<!ENTITY allowHWAccel.accesskey        "h">
 
 <!ENTITY scrolling.label               "捲動">
 <!ENTITY useAutoScroll.label           "使用自動捲動">

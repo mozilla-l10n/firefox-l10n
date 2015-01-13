@@ -267,7 +267,7 @@
 <!ENTITY goBackCmd.label "上一步">
 <!ENTITY goBackCmd.accesskey "B">
 <!ENTITY goBackCmd.commandKey "[">
-<!ENTITY goForwardCmd.label "下一步">
+<!ENTITY goForwardCmd.label "下一頁">
 <!ENTITY goForwardCmd.accesskey "F">
 <!ENTITY goForwardCmd.commandKey "]">
 <!ENTITY prevFlaggedMsgCmd.label "已標示訊息">

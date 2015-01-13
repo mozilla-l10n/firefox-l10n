@@ -172,6 +172,8 @@
 <!ENTITY pref_cookies_not_accept_foreign "啟用，第三方 Cookie 除外">
 <!ENTITY pref_cookies_disabled "停用">
 
+<!ENTITY pref_tracking_protection_title "追蹤保護">
+<!ENTITY pref_tracking_protection_summary "&brandShortName; 將會防止網站追蹤您">
 <!ENTITY pref_donottrack_title "Do not track">
 <!ENTITY pref_donottrack_summary "&brandShortName; 將會告訴網站您不想被追蹤">
 
@@ -429,6 +431,8 @@ size. -->
 <!ENTITY home_remote_tabs_empty "您在其他裝置開啟的書籤將在此顯示。">
 <!ENTITY home_remote_tabs_unable_to_connect "連線失敗">
 <!ENTITY home_remote_tabs_need_to_sign_in "請登入以重新連結至您的 Firefox 帳號並繼續同步。">
+<!ENTITY home_remote_tabs_need_to_finish_migrating "您的全新 Firefox 帳號已經準備好了！">
+
 <!ENTITY home_remote_tabs_trouble_verifying "驗證您的帳號時發生問題？">
 <!ENTITY home_remote_tabs_need_to_verify "請驗證您的 Firefox 帳號以進行同步。">
 
@@ -483,9 +487,9 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY blocked_mixed_content_message_bottom "大部分的網站在此內容被封鎖時還是能正常使用。">
 
 <!-- Tracking content notifications in site identity popup -->
-<!ENTITY loaded_tracking_content_message_top "追蹤保護已停用。">
+<!ENTITY loaded_tracking_content_message_top "已停用追蹤保護。">
 <!ENTITY loaded_tracking_content_message_bottom "本頁面中的部分內容可能會追蹤您的線上行為。">
-<!ENTITY blocked_tracking_content_message_top2 "追蹤保護已啟用。">
+<!ENTITY blocked_tracking_content_message_top2 "已啟用追蹤保護。">
 <!ENTITY blocked_tracking_content_message_bottom2 "已封鎖本頁面中部分追蹤您線上行為的內容。">
 
 <!-- Common mixed and tracking content strings in site identity popup -->
@@ -525,12 +529,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY updater_apply_title2 "有可用的 &brandShortName; 更新">
 <!ENTITY updater_apply_select2 "選擇此處套用">
-
-<!-- New tablet UI -->
-
-<!-- LOCALIZATION NOTE (new_tablet_restart): Notification displayed after the user toggles the new tablet UI in the settings screen.-->
-<!ENTITY new_tablet_restart "重開瀏覽器讓變更生效">
-<!ENTITY new_tablet_pref "啟用全新的平板介面">
 
 <!-- Guest mode -->
 <!ENTITY new_guest_session "進入訪客瀏覽階段">
