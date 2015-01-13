@@ -172,6 +172,7 @@
 <!ENTITY pref_cookies_not_accept_foreign "Zmóžnjeny, z wuwzaćom třećich">
 <!ENTITY pref_cookies_disabled "Znjemóžnjeny">
 
+
 <!ENTITY pref_donottrack_title "Njeslědować">
 <!ENTITY pref_donottrack_summary "&brandShortName; zdźěli sydłam, zo nochceće, zo wam slěduja.">
 
@@ -429,6 +430,8 @@ size. -->
 <!ENTITY home_remote_tabs_empty "Waše rajtarki z druhich gratow so tu pokazuja.">
 <!ENTITY home_remote_tabs_unable_to_connect "Zwisk móžno njeje">
 <!ENTITY home_remote_tabs_need_to_sign_in "Prošu přizjewće so, zo byšće so znowa ze swojim kontom Firefox zwjazał a ze synchronizaciju pokročował.">
+
+
 <!ENTITY home_remote_tabs_trouble_verifying "Maće problemy při přepruwowanju swojeho konta?">
 <!ENTITY home_remote_tabs_need_to_verify "Prošu přepruwujće swoje konto Firefox, zo byšće synchronizaciju započał.">
 
@@ -528,12 +531,6 @@ z Androida">
 
 <!ENTITY updater_apply_title2 "Aktualizacija za &brandShortName; k dispoziciji">
 <!ENTITY updater_apply_select2 "Dótkńće so, zo byšće aktualizował">
-<!-- New tablet UI -->
-<!-- LOCALIZATION NOTE (new_tablet_restart): Notification displayed after the user toggles the new tablet UI in the settings screen.-->
-
-
-<!ENTITY new_tablet_restart "Startujće wobhladowak znowa, zo bychu so změny wuskutkowali.">
-<!ENTITY new_tablet_pref "Nowy tabletowy wužiwarski powjerch zmóžnić">
 <!-- Guest mode -->
 
 <!ENTITY new_guest_session "Nowe hóstne posedźenje">

@@ -171,6 +171,9 @@
 <!ENTITY fxaccount_confirm_account_verification_link_sent2 "Přepruwowanska e-mejl je so pósłała">
 <!ENTITY fxaccount_confirm_account_verification_link_not_sent2 "Přepruwowanska e-mejl njeda so pósłać">
 
+
+
+
 <!ENTITY fxaccount_sign_in_sub_header "Přizjewić">
 <!ENTITY fxaccount_sign_in_button_label "Přizjewić">
 <!ENTITY fxaccount_sign_in_forgot_password "Sće hesło zabył?">
@@ -180,9 +183,13 @@
 <!ENTITY fxaccount_account_verified_sub_header "Konto je přepruwowane">
 <!ENTITY fxaccount_account_verified_description2 "Waše daty budu so za mało wokomikow synchronizować.">
 
+
 <!ENTITY fxaccount_update_credentials_header "Přizjewić">
 <!ENTITY fxaccount_update_credentials_button_label "Přizjewić">
 <!ENTITY fxaccount_update_credentials_unknown_error "Přizjewjenje móžno njeje">
+
+
+
 
 <!ENTITY fxaccount_status_header2 "Konto Firefox">
 <!ENTITY fxaccount_status_signed_in_as "Přizjewjeny jako">
@@ -197,7 +204,9 @@
 <!ENTITY fxaccount_status_needs_credentials "Zwisk njemóžno. Podótkńće so, zo byšće so přizjewił.">
 <!ENTITY fxaccount_status_needs_upgrade "Dyrbiće &brandShortName; aktualizować, zo byšće so přizjewił.">
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled "&syncBrand.shortName.label; je připrawjeny, ale njesynchronizuje awtomatisce. Zmóžńće “Daty awtomatisce synchronizować” w Androidowych nastajenjach &gt; Wužiwanje datow.">
+
 <!ENTITY fxaccount_status_needs_account_enabled "&syncBrand.shortName.label; je připrawjeny, ale njesynchronizuje awtomatisce. Pódótkńće so, zo byšće synchronizowanje započał.">
+
 <!ENTITY fxaccount_status_bookmarks "Zapołožki">
 <!ENTITY fxaccount_status_history "Historija">
 <!ENTITY fxaccount_status_passwords "Hesła">
@@ -246,7 +255,10 @@
 <!ENTITY fxaccount_remote_error_UNKNOWN_ERROR "Problem je wustupił">
 <!ENTITY fxaccount_remote_error_COULD_NOT_CONNECT "Zwisk ze syću móžno njeje">
 
+
 <!ENTITY fxaccount_sync_sign_in_error_notification_title2 "&syncBrand.shortName.label; njeje zwjazany">
 <!-- Localization note: the format string below will be replaced
      with the Firefox Account's email address. -->
-<!ENTITY fxaccount_sync_sign_in_error_notification_text2 "Podótkńće so, zo byšće so jako &formatS; přizjewił">
+
+<!-- Localization note: the format string below will be replaced
+     with the Firefox Account's email address. -->

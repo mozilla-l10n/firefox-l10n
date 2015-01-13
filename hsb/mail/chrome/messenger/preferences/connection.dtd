@@ -3,7 +3,6 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY  connectionsDialog.title       "Zwiskowe nastajenja">
-<!ENTITY  window.width                   "37em">
 
 <!ENTITY  proxyTitle.label              "Proksy za přistup k internetej konfigurować">
 <!ENTITY  noProxyTypeRadio.label        "Žadyn proksy">

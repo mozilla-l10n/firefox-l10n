@@ -24,6 +24,8 @@
 <!ENTITY contextBeforeCls.label "Filter před čaporowej klasifikaciju">
 <!ENTITY contextAfterCls.label "Filter po čaporowej klasifikaciji">
 
+
+
 <!ENTITY filterActionDesc.label "Tute akcije wuwjesć:">
 <!ENTITY filterActionDesc.accesskey "T">
 

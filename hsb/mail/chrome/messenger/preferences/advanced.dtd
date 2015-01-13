@@ -16,6 +16,8 @@
 <!ENTITY enableGlodaSearch.label       "Globalne pytanje a indeksowanje zmóžnić">
 <!ENTITY enableGlodaSearch.accesskey   "G">
 
+
+
 <!ENTITY scrolling.label               "Přesuwanje">
 <!ENTITY useAutoScroll.label           "Awtomatiske přesuwanje wužiwać">
 <!ENTITY useAutoScroll.accesskey       "A">
