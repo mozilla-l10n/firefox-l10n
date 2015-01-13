@@ -17,9 +17,5 @@
 <!ENTITY optionRTL.label "Cyfeiriad de i'r chwith">
 <!ENTITY optionRTL.accesskey "d">
 
-<!ENTITY example.label "Enghraifft: ">
-<!-- LOCALIZATION NOTE (exampleText.label): DONT_TRANSLATE. This is a LaTeX example. -->
-<!ENTITY exampleText.label "\sqrt{x_1} + \frac{π^3}{2}">
-
 <!ENTITY insertButton.label "Mewnosod">
 <!ENTITY insertButton.accesskey "M">

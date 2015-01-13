@@ -171,6 +171,9 @@
 <!ENTITY fxaccount_confirm_account_verification_link_sent2 "Anfonwyd yr e-bost dilysu">
 <!ENTITY fxaccount_confirm_account_verification_link_not_sent2 "Methu anfon yr e-bost dilysu">
 
+
+
+
 <!ENTITY fxaccount_sign_in_sub_header "Mewngofnodi">
 <!ENTITY fxaccount_sign_in_button_label "Mewngofnodi">
 <!ENTITY fxaccount_sign_in_forgot_password "Anghofio\u0027r cyfrinair?">
@@ -180,9 +183,13 @@
 <!ENTITY fxaccount_account_verified_sub_header "Gwiriwyd y cyfrif">
 <!ENTITY fxaccount_account_verified_description2 "Bydd eich data\u0027n cael ei gydweddu ymhen eiliad.">
 
+
 <!ENTITY fxaccount_update_credentials_header "Mewngofnodi">
 <!ENTITY fxaccount_update_credentials_button_label "Mewngofnodi">
 <!ENTITY fxaccount_update_credentials_unknown_error "Methu mewngofnodi">
+
+
+
 
 <!ENTITY fxaccount_status_header2 "Cyfrif Firefox">
 <!ENTITY fxaccount_status_signed_in_as "Mewngofnodwyd fel">
@@ -197,7 +204,9 @@
 <!ENTITY fxaccount_status_needs_credentials "Methu cysylltu. Tapiwch i fewngofnodi.">
 <!ENTITY fxaccount_status_needs_upgrade "Rhaid diweddaru &brandShortName; i fewngofnodi.">
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled "Mae &syncBrand.shortName.label; wedi ei osod ond nid yw\u0027n cydweddu\u0027n awtomatig. Gosodiadau Android “Awto-gydweddu data” &gt; Defnydd Data.">
+
 <!ENTITY fxaccount_status_needs_account_enabled "Mae &syncBrand.shortName.label; wedi ei osod ond nid yw\u0027n cydweddu\u0027n awtomatig. Tapiwch i gychwyn cydweddu.">
+
 <!ENTITY fxaccount_status_bookmarks "Nodau Tudalen">
 <!ENTITY fxaccount_status_history "Hanes">
 <!ENTITY fxaccount_status_passwords "Cyfrineiriau">
@@ -246,7 +255,10 @@
 <!ENTITY fxaccount_remote_error_UNKNOWN_ERROR "Bu anhawster">
 <!ENTITY fxaccount_remote_error_COULD_NOT_CONNECT "Methu cysylltu â\u0027r rhwydwaith">
 
+
 <!ENTITY fxaccount_sync_sign_in_error_notification_title2 "Nid yw &syncBrand.shortName.label; wedi ei gysylltu">
 <!-- Localization note: the format string below will be replaced
      with the Firefox Account's email address. -->
-<!ENTITY fxaccount_sync_sign_in_error_notification_text2 "Tapiwch i fewngofnodi fel &formatS;">
+
+<!-- Localization note: the format string below will be replaced
+     with the Firefox Account's email address. -->

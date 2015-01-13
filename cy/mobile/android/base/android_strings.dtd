@@ -172,6 +172,7 @@
 <!ENTITY pref_cookies_not_accept_foreign "Galluogwyd, eithrio 3ydd parti">
 <!ENTITY pref_cookies_disabled "Analluogwyd">
 
+
 <!ENTITY pref_donottrack_title "Dim tracio">
 <!ENTITY pref_donottrack_summary "Bydd &brandShortName; yn dweud wrth wefannau nad ydych am gael eich tracio">
 
@@ -429,6 +430,8 @@ size. -->
 <!ENTITY home_remote_tabs_empty "Mae eich tabiau o ddyfeisiau eraill yn ymddangos yma.">
 <!ENTITY home_remote_tabs_unable_to_connect "Methu cysylltu">
 <!ENTITY home_remote_tabs_need_to_sign_in "Mewngofnodwch i ailgysylltu â\u0027ch Cyfrif Firefox a pharhau i gydweddu.">
+
+
 <!ENTITY home_remote_tabs_trouble_verifying "Anhawster gwirio eich cyfrif?">
 <!ENTITY home_remote_tabs_need_to_verify "Gwiriwch eich Cyfrif Firefox i gychwyn cydweddu.">
 
@@ -528,12 +531,6 @@ o Android">
 
 <!ENTITY updater_apply_title2 "Diweddariad ar gael ar gyfer &brandShortName;">
 <!ENTITY updater_apply_select2 "Cyffwrdd i ddiweddaru">
-<!-- New tablet UI -->
-<!-- LOCALIZATION NOTE (new_tablet_restart): Notification displayed after the user toggles the new tablet UI in the settings screen.-->
-
-
-<!ENTITY new_tablet_restart "Ailgychwyn y porwr i\u0027r newidiadau ddigwydd">
-<!ENTITY new_tablet_pref "Galluogi rhyngwyneb newydd tabledi">
 <!-- Guest mode -->
 
 <!ENTITY new_guest_session "Sesiwn Gwestai Newydd">

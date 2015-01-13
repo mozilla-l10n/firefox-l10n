@@ -4,13 +4,16 @@
 
 <!ENTITY offlineDialog.title "Gosodiadau All-lein">
 
-<!ENTITY textStartUp "Wrth gychwyn:">
+
+
 <!ENTITY radioRememberPrevState.label "Cofio'r cyflwr ar-lein diwethaf">
 <!ENTITY radioRememberPrevState.accesskey "o">
-<!ENTITY radioAskMe.label "Gofyn am gyflwr ar-lein wrth gychwyn">
-<!ENTITY radioAskMe.accesskey "G">
-<!ENTITY radioAlwaysOnline.label "Cychwyn ar-lein bob tro">
-<!ENTITY radioAlwaysOnline.accesskey "y">
+
+
+
+
+
+
 
 <!ENTITY textGoingOnline "Anfon negeseuon sydd heb eu hanfon wrth fynd ar-lein?">
 <!ENTITY radioAutoSend.label "Iawn">
