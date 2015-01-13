@@ -29,6 +29,8 @@
 <!ENTITY timelineUI.memoryCheckbox.tooltip "Omogući mjerenja memorije">
 <!-- LOCALIZATION NOTE (timelineUI.filterButton.tooltip): This string
   -  is displayed next to the filter button-->
+
+<!ENTITY timelineUI.filterButton.tooltip "Odabire podatke koji će biti prikazani">
 <!-- LOCALIZATION NOTE (timelineUI.emptyNotice1/2): This is the label shown
   -  in the timeline view when empty. -->
 
