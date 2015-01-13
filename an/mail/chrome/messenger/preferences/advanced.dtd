@@ -16,6 +16,8 @@
 <!ENTITY enableGlodaSearch.label       "Activar indexador y busca global">
 <!ENTITY enableGlodaSearch.accesskey   "A">
 
+
+
 <!ENTITY scrolling.label               "Desplazamiento">
 <!ENTITY useAutoScroll.label           "Use autoscrolling">
 <!ENTITY useAutoScroll.accesskey       "U">

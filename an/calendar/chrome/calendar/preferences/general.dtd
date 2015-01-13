@@ -13,6 +13,10 @@
 <!ENTITY pref.dateformat.long "Largo" >
 <!ENTITY pref.dateformat.short "Corto"  >
 
+<!ENTITY pref.timezones.caption "Zona horaria">
+
+
+
 <!ENTITY pref.defaults.label "Default Values for New Items">
 <!ENTITY pref.events.label "Events">
 <!ENTITY pref.tasks.label "Tasks">
