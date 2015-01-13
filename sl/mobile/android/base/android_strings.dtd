@@ -165,7 +165,7 @@
 <!ENTITY pref_header_help "Pomoč">
 <!ENTITY pref_header_language "Jezik">
 <!ENTITY pref_header_vendor "&vendorShortName;">
-<!ENTITY pref_header_devtools "Ravzojna orodja">
+<!ENTITY pref_header_devtools "Razvojna orodja">
 
 <!ENTITY pref_cookies_menu "Piškotki">
 <!ENTITY pref_cookies_accept_all "Omogočeno">
