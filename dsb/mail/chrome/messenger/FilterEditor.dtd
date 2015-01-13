@@ -23,8 +23,8 @@
 <!ENTITY contextManual.accesskey "G">
 <!ENTITY contextBeforeCls.label "Filter pśed cajkoweju klasifikaciju">
 <!ENTITY contextAfterCls.label "Filter pó cajkowej klasifikaciji">
-
-
+<!ENTITY contextOutgoing.label "Pó słanju">
+<!ENTITY contextOutgoing.accesskey "s">
 
 <!ENTITY filterActionDesc.label "Toś te akcije wuwjasć:">
 <!ENTITY filterActionDesc.accesskey "T">

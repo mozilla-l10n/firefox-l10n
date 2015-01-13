@@ -6,10 +6,11 @@
 <!ENTITY  window.width                    "38em">
 <!ENTITY  window.macWidth                 "41em">
 
-
+<!ENTITY  overridePageColors.label        "Barwy pódane pśez wopśimjeśe z mójim wuběrom górjejce pśepisaś:">
+<!ENTITY  overridePageColors.accesskey    "B">
 
 <!ENTITY  overridePageColors.always.label "Pśecej">
-
+<!ENTITY  overridePageColors.auto.label   "Jano z drastwami z wusokim kontrastom">
 <!ENTITY  overridePageColors.never.label  "Nigda">
 
 <!ENTITY  color                           "Tekst a slězyna">
