@@ -1,6 +1,8 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY search_app_name "&brandShortName; ಹುಡುಕು">
 <!--  Localization note (search_bar_hint): The &formatS; will be replaced with the name of
       the currently selected search engine. -->
 
@@ -15,8 +17,9 @@
 
 <!ENTITY pref_clearHistory_confirmation "ಇತಿಹಾಸ ತೆರವುಗೊಳಿಸು">
 
+<!ENTITY pref_clearHistory_title "ಹುಡುಕು ಇತಿಹಾಸ ತೆರವುಗೊಳಿಸು">
 
-
+<!ENTITY pref_searchProvider_title "ಹುಡುಕು ಸಾಧನ">
 
 <!ENTITY search_widget_button_label "ಹುಡುಕು">
 
