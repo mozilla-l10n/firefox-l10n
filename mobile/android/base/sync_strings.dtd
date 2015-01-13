@@ -171,6 +171,9 @@
 <!ENTITY fxaccount_confirm_account_verification_link_sent2 "Skickat ett bekräftelsemejl">
 <!ENTITY fxaccount_confirm_account_verification_link_not_sent2 "Kunde inte skicka något bekräftelsemejl">
 
+
+
+
 <!ENTITY fxaccount_sign_in_sub_header "Logga in">
 <!ENTITY fxaccount_sign_in_button_label "Logga in">
 <!ENTITY fxaccount_sign_in_forgot_password "Glömt lösenordet?">
@@ -180,9 +183,13 @@
 <!ENTITY fxaccount_account_verified_sub_header "Kontot bekräftat">
 <!ENTITY fxaccount_account_verified_description2 "Din data kommer strax att börja synkas.">
 
+
 <!ENTITY fxaccount_update_credentials_header "Logga in">
 <!ENTITY fxaccount_update_credentials_button_label "Logga in">
 <!ENTITY fxaccount_update_credentials_unknown_error "Kunde inte logga in">
+
+
+
 
 <!ENTITY fxaccount_status_header2 "Firefox-konto">
 <!ENTITY fxaccount_status_signed_in_as "Inloggad som">
@@ -197,7 +204,9 @@
 <!ENTITY fxaccount_status_needs_credentials "Kan inte ansluta. Tryck för att logga in.">
 <!ENTITY fxaccount_status_needs_upgrade "Du måste uppgradera &brandShortName; för att logga in.">
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled "&syncBrand.shortName.label; är uppsatt men synkar inte automatiskt. Sätt igång “Automatisk synkronisering av data” i Android-inställningarna &gt; Dataanvändning.">
+
 <!ENTITY fxaccount_status_needs_account_enabled "&syncBrand.shortName.label; är uppsatt men synkar inte automatiskt, Tryck för att starta synkningen.">
+
 <!ENTITY fxaccount_status_bookmarks "Bokmärken">
 <!ENTITY fxaccount_status_history "Historik">
 <!ENTITY fxaccount_status_passwords "Lösenord">
@@ -246,7 +255,10 @@
 <!ENTITY fxaccount_remote_error_UNKNOWN_ERROR "Det uppstod ett problem">
 <!ENTITY fxaccount_remote_error_COULD_NOT_CONNECT "Kan inte ansluta till nätverket">
 
+
 <!ENTITY fxaccount_sync_sign_in_error_notification_title2 "&syncBrand.shortName.label; är inte ansluten">
 <!-- Localization note: the format string below will be replaced
      with the Firefox Account's email address. -->
-<!ENTITY fxaccount_sync_sign_in_error_notification_text2 "Tryck för att logga in som &formatS;">
+
+<!-- Localization note: the format string below will be replaced
+     with the Firefox Account's email address. -->
