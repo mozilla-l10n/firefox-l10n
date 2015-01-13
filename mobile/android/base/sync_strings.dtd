@@ -170,7 +170,7 @@
 <!ENTITY fxaccount_confirm_account_change_email "Anghofio\u0027r cyfeiriad e-bost?">
 <!ENTITY fxaccount_confirm_account_verification_link_sent2 "Anfonwyd yr e-bost dilysu">
 <!ENTITY fxaccount_confirm_account_verification_link_not_sent2 "Methu anfon yr e-bost dilysu">
-
+<!ENTITY fxaccount_resend_unlock_code_button_label "Ail-anfon e-bost datgloi">
 
 
 

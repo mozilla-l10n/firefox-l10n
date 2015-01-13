@@ -172,7 +172,8 @@
 <!ENTITY pref_cookies_not_accept_foreign "Galluogwyd, eithrio 3ydd parti">
 <!ENTITY pref_cookies_disabled "Analluogwyd">
 
-
+<!ENTITY pref_tracking_protection_title "Diogelwch rhag tracio">
+<!ENTITY pref_tracking_protection_summary "Bydd &brandShortName; yn rhwystro gwefannau rhag eich tracio">
 <!ENTITY pref_donottrack_title "Dim tracio">
 <!ENTITY pref_donottrack_summary "Bydd &brandShortName; yn dweud wrth wefannau nad ydych am gael eich tracio">
 
@@ -430,7 +431,7 @@ size. -->
 <!ENTITY home_remote_tabs_empty "Mae eich tabiau o ddyfeisiau eraill yn ymddangos yma.">
 <!ENTITY home_remote_tabs_unable_to_connect "Methu cysylltu">
 <!ENTITY home_remote_tabs_need_to_sign_in "Mewngofnodwch i ailgysylltu â\u0027ch Cyfrif Firefox a pharhau i gydweddu.">
-
+<!ENTITY home_remote_tabs_need_to_finish_migrating "Mae eich Cyfrif Firefox newydd yn barod!">
 
 <!ENTITY home_remote_tabs_trouble_verifying "Anhawster gwirio eich cyfrif?">
 <!ENTITY home_remote_tabs_need_to_verify "Gwiriwch eich Cyfrif Firefox i gychwyn cydweddu.">
