@@ -31,4 +31,6 @@
 <!-- LOCALIZATION NOTE (ignoreDocColors.label): This is option two, and it appends to 'someProvColors' above.  -->
 <!ENTITY useMyColors.label                 "永遠使用我的色彩設定，忽略文件指定的色彩與圖片">
 <!ENTITY useMyColors.accesskey             "m">
+<!ENTITY automaticColors.label             "僅在使用高對比佈景主題時忽略頁面上的色彩">
+<!ENTITY automaticColors.accesskey         "O">
 

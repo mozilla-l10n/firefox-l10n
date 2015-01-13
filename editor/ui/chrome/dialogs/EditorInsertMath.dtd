@@ -17,10 +17,6 @@
 <!ENTITY optionRTL.label "從右至左">
 <!ENTITY optionRTL.accesskey "R">
 
-<!ENTITY example.label "範例:">
-<!-- LOCALIZATION NOTE (exampleText.label): DONT_TRANSLATE. This is a LaTeX example. -->
-<!ENTITY exampleText.label "\sqrt{x_1} + \frac{π^3}{2}">
-
 <!ENTITY insertButton.label "插入">
 <!ENTITY insertButton.accesskey "I">
 

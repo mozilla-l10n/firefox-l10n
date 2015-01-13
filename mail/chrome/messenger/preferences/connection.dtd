@@ -3,7 +3,6 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY  connectionsDialog.title       "連線設定">
-<!ENTITY  window.width                   "37em">
 
 <!ENTITY  proxyTitle.label              "設定存取網際網路的代理伺服器 (Proxy)">
 <!ENTITY  noProxyTypeRadio.label        "不使用 Proxy">
