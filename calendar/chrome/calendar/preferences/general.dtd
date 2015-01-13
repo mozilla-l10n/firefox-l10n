@@ -13,6 +13,10 @@
 <!ENTITY pref.dateformat.long "Lång" >
 <!ENTITY pref.dateformat.short "Kort"  >
 
+<!ENTITY pref.timezones.caption "Tidszon">
+<!ENTITY pref.timezones.label "Välj den närmaste staden i din tidszon:">
+<!ENTITY pref.timezones.accesskey "V">
+
 <!ENTITY pref.defaults.label "Standardvärden för nya poster">
 <!ENTITY pref.events.label "Händelser">
 <!ENTITY pref.tasks.label "Uppgifter">
