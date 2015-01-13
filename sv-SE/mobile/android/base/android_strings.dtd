@@ -430,7 +430,7 @@ size. -->
 <!ENTITY home_remote_tabs_empty "Dina flikar från andra enheter visas här. ">
 <!ENTITY home_remote_tabs_unable_to_connect "Anslutningen misslyckades">
 <!ENTITY home_remote_tabs_need_to_sign_in "Snälla logga in för att återansluta ditt Firefox Konto och fortsätta synka. ">
-
+<!ENTITY home_remote_tabs_need_to_finish_migrating "Ditt nya Firefox Konto är redo!">
 
 <!ENTITY home_remote_tabs_trouble_verifying "Problem med att verifiera ditt konto?">
 <!ENTITY home_remote_tabs_need_to_verify "Var vänlig verifera ditt Firefox Konto för att börja synka.">
