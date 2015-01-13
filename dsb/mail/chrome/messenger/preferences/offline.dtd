@@ -4,13 +4,16 @@
 
 <!ENTITY offlineDialog.title "Nastajenja offline">
 
-<!ENTITY textStartUp "Pśi startowanju:">
+
+
 <!ENTITY radioRememberPrevState.label "Se pjerwjejšny status online spomnjeś">
 <!ENTITY radioRememberPrevState.accesskey "t">
-<!ENTITY radioAskMe.label "Pśi startowanju se za statusom online pšašaś">
-<!ENTITY radioAskMe.accesskey "s">
-<!ENTITY radioAlwaysOnline.label "Pśecej online startowaś">
-<!ENTITY radioAlwaysOnline.accesskey "l">
+
+
+
+
+
+
 
 <!ENTITY textGoingOnline "Njepósłane powěsći wótesłaś, gaž źośo online?">
 <!ENTITY radioAutoSend.label "Jo">

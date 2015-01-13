@@ -172,6 +172,8 @@
 <!ENTITY pref_cookies_not_accept_foreign "Zmóžnjony, z wuwześim tśeśich">
 <!ENTITY pref_cookies_disabled "Znjemóžnjony">
 
+<!ENTITY pref_tracking_protection_title "Slědowański šćit">
+<!ENTITY pref_tracking_protection_summary "&brandShortName; buźo slědowanjeju pśez sedła zajźowaś">
 <!ENTITY pref_donottrack_title "Njeslědowaś">
 <!ENTITY pref_donottrack_summary "&brandShortName; dajo sydłam k wěsći, až njocośo, až wam slěduju.">
 
@@ -429,6 +431,8 @@ size. -->
 <!ENTITY home_remote_tabs_empty "Waše rejtarki z drugich rědow se how pokazuju.">
 <!ENTITY home_remote_tabs_unable_to_connect "Zwisk njejo móžno">
 <!ENTITY home_remote_tabs_need_to_sign_in "Pšosym pśizjawśo se, aby se znoweg ze swójim kontom Firefox zwězał a ze synchronizaciju pókšacował.">
+<!ENTITY home_remote_tabs_need_to_finish_migrating "Wašo nowe konto Firefox jo gótowe!">
+
 <!ENTITY home_remote_tabs_trouble_verifying "Maśo problemy pśi pśeglědowanju swójogo konta?">
 <!ENTITY home_remote_tabs_need_to_verify "Pšosym pśeglědujśo swójo konto Firefox, aby synchronizaciju zachopił.">
 
@@ -528,12 +532,6 @@ z Androida">
 
 <!ENTITY updater_apply_title2 "Aktualizacija za &brandShortName; k dispoziciji">
 <!ENTITY updater_apply_select2 "Pótusniśo, aby aktualizěrował">
-<!-- New tablet UI -->
-<!-- LOCALIZATION NOTE (new_tablet_restart): Notification displayed after the user toggles the new tablet UI in the settings screen.-->
-
-
-<!ENTITY new_tablet_restart "Startujśo wobglědowak znowego, aby se změny wustatkowali.">
-<!ENTITY new_tablet_pref "Nowy tabletowy wužywarski pówjerch zmóžniś">
 <!-- Guest mode -->
 
 <!ENTITY new_guest_session "Nowe góstne pósejźenje">

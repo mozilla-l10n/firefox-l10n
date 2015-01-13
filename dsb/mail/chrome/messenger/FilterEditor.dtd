@@ -24,6 +24,8 @@
 <!ENTITY contextBeforeCls.label "Filter pśed cajkoweju klasifikaciju">
 <!ENTITY contextAfterCls.label "Filter pó cajkowej klasifikaciji">
 
+
+
 <!ENTITY filterActionDesc.label "Toś te akcije wuwjasć:">
 <!ENTITY filterActionDesc.accesskey "T">
 

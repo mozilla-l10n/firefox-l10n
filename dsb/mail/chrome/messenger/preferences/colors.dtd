@@ -6,8 +6,11 @@
 <!ENTITY  window.width                    "38em">
 <!ENTITY  window.macWidth                 "41em">
 
-<!ENTITY  allowPagesToUse.label           "Wopśimjeśoju dowóliś, swójske barwy město górjejce wubranych wubraś">
-<!ENTITY  allowPagesToUse.accesskey       "d">
+
+
+<!ENTITY  overridePageColors.always.label "Pśecej">
+
+<!ENTITY  overridePageColors.never.label  "Nigda">
 
 <!ENTITY  color                           "Tekst a slězyna">
 <!ENTITY  textColor.label                 "Tekst:">

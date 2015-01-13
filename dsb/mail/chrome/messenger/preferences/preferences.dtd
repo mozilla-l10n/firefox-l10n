@@ -4,6 +4,7 @@
 
 <!ENTITY  prefWindow.titleWin     "Nastajenja">
 <!ENTITY  prefWindow.titleGNOME   "Nastajenja &brandShortName;">
+<!ENTITY  prefWindow.titleMAC     "Nastajenja">
 <!ENTITY  prefWindow.styleWindows "width: 55em; min-height: 38.5em;">
 <!ENTITY  prefWindow.styleMac     "width: 54em;">
 <!ENTITY  prefWindow.styleGNOME   "width: 54em; min-height: 38em;">

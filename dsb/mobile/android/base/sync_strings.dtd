@@ -170,6 +170,9 @@
 <!ENTITY fxaccount_confirm_account_change_email "Toś tu e-mailowu adresu zabyś?">
 <!ENTITY fxaccount_confirm_account_verification_link_sent2 "Wobkšuśeńska mailka jo se pósłała">
 <!ENTITY fxaccount_confirm_account_verification_link_not_sent2 "Wobkšuśeńska mailka njedajo se pósłaś">
+<!ENTITY fxaccount_resend_unlock_code_button_label "Mailku za wótblokěrowanje hyšći raz pósłaś">
+<!ENTITY fxaccount_unlock_code_sent "Mejlka za wótblokěrowanje konta jo se pósłała">
+<!ENTITY fxaccount_unlock_code_not_sent "Mejlka za wótblokěrowanje konta njedajo se pósłaś">
 
 <!ENTITY fxaccount_sign_in_sub_header "Pśizjawiś">
 <!ENTITY fxaccount_sign_in_button_label "Pśizjawiś">
@@ -180,9 +183,15 @@
 <!ENTITY fxaccount_account_verified_sub_header "Konto jo pśeglědane">
 <!ENTITY fxaccount_account_verified_description2 "Waše daty budu se za mało wokognuśow synchronizěrowaś.">
 
+<!ENTITY fxaccount_migration_finished_header "Aktualizacija skóńcona.">
+
 <!ENTITY fxaccount_update_credentials_header "Pśizjawiś">
 <!ENTITY fxaccount_update_credentials_button_label "Pśizjawiś">
 <!ENTITY fxaccount_update_credentials_unknown_error "Pśizjawjenje njejo móžno">
+
+<!ENTITY fxaccount_finish_migrating_header "Pśizjawśo se, aby aktualizěrowanje dokóńcył.">
+<!ENTITY fxaccount_finish_migrating_button_label "Aktualizěrowanje skóńcyś">
+<!ENTITY fxaccount_finish_migrating_description "Aktualizěrowanje móžo wjele datow pśenosowaś. Cynśo to nejlěpjej we WLAN-seśi.">
 
 <!ENTITY fxaccount_status_header2 "Konto Firefox">
 <!ENTITY fxaccount_status_signed_in_as "Pśizjawjony ako">
@@ -197,7 +206,9 @@
 <!ENTITY fxaccount_status_needs_credentials "Zwisk njemóžno. Potusniśo, aby se pśizjawił.">
 <!ENTITY fxaccount_status_needs_upgrade "Musyśo &brandShortName; aktualizěrowaś, aby se pśizjawił.">
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled "&syncBrand.shortName.label; jo konfigurěrowany, ale njesynchronizěrujo awtomatiski. Zmóžniśo “Daty awtomatiski synchronizěrowaś” w Androidowych nastajenjach &gt; Wužywanje datow.">
+<!ENTITY fxaccount_status_needs_master_sync_automatically_enabled_v21 "&syncBrand.shortName.label; jo konfigurěrowany, ale njesynchronizěrujo awtomatiski. Zmóžniśo “Daty awtomatiski synchronizěrowaś” w meniju Androidowe nastajenja a konta.">
 <!ENTITY fxaccount_status_needs_account_enabled "&syncBrand.shortName.label; jo konfigurěrowany, ale njesynchronizěrujo awtomatiski. Potusniśo, aby synchronizěrowanje zachopił.">
+<!ENTITY fxaccount_status_needs_finish_migrating "Pótusniśo, aby se pla swójogo nowego konta Firefox pśizjawił.">
 <!ENTITY fxaccount_status_bookmarks "Cytańske znamjenja">
 <!ENTITY fxaccount_status_history "Historija">
 <!ENTITY fxaccount_status_passwords "Gronidła">
@@ -245,8 +256,14 @@
 <!ENTITY fxaccount_remote_error_SERVICE_TEMPORARILY_UNAVAILABLE_TO_DUE_HIGH_LOAD "Serwer jo pśeśěžony, wopytajśo pózdźej hyšći raz">
 <!ENTITY fxaccount_remote_error_UNKNOWN_ERROR "Problem jo nastał">
 <!ENTITY fxaccount_remote_error_COULD_NOT_CONNECT "Zwisk ze seśu njejo móžno">
+<!ENTITY fxaccount_remote_error_ACCOUNT_LOCKED "Konto jo zastajone. &formatS1;">
 
 <!ENTITY fxaccount_sync_sign_in_error_notification_title2 "&syncBrand.shortName.label; njejo zwězany">
 <!-- Localization note: the format string below will be replaced
      with the Firefox Account's email address. -->
 <!ENTITY fxaccount_sync_sign_in_error_notification_text2 "Potusniśo, aby se ako &formatS; pśizjawił">
+
+<!ENTITY fxaccount_sync_finish_migrating_notification_title "Aktualizěrowanje &syncBrand.shortName.label; skóńcyś?">
+<!-- Localization note: the format string below will be replaced
+     with the Firefox Account's email address. -->
+<!ENTITY fxaccount_sync_finish_migrating_notification_text "Potusniśo, aby se ako &formatS; pśizjawił">
