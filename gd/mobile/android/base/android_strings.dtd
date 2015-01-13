@@ -172,7 +172,8 @@
 <!ENTITY pref_cookies_not_accept_foreign "An comas, as aonais feadhainn o threas-phàrtaidh">
 <!ENTITY pref_cookies_disabled "À comas">
 
-
+<!ENTITY pref_tracking_protection_title "Dìon o thracadh">
+<!ENTITY pref_tracking_protection_summary "Dìonaidh &brandShortName; thu o làraichean a tha airson do thracadh">
 <!ENTITY pref_donottrack_title "Na tracaich">
 <!ENTITY pref_donottrack_summary "Innsidh &brandShortName; do làraichean nach eil thu ag iarraidh gun tracaich iad thu">
 
@@ -430,7 +431,7 @@ size. -->
 <!ENTITY home_remote_tabs_empty "Nochdaidh na tabaichean a tha agad air uidheaman eile an-seo.">
 <!ENTITY home_remote_tabs_unable_to_connect "Cha ghabh ceangal a dhèanamh ris">
 <!ENTITY home_remote_tabs_need_to_sign_in "Clàraich a-steach airson an cunntas Firefox agad ath-cheangal is leantainn air adhart leis an t-sioncronachadh.">
-
+<!ENTITY home_remote_tabs_need_to_finish_migrating "Tha an cunntas Firefox ùr agad deiseil!">
 
 <!ENTITY home_remote_tabs_trouble_verifying "Duilgheadas le dearbhadh a\u0027 chunntais agad?">
 <!ENTITY home_remote_tabs_need_to_verify "Dearbh an cunntas Firefox agad gus tòiseachadh air sioncronachadh.">
