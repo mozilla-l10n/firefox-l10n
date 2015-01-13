@@ -6,10 +6,11 @@
 <!ENTITY  window.width                    "38em">
 <!ENTITY  window.macWidth                 "41em">
 
-
+<!ENTITY  overridePageColors.label        "Anwybyddu'r lliwiau sy'n cael eu pennu gan y dudalen gan ddefnyddio fy newis i uchod:">
+<!ENTITY  overridePageColors.accesskey    "A">
 
 <!ENTITY  overridePageColors.always.label "Bob tro">
-
+<!ENTITY  overridePageColors.auto.label   "Dim ond y themâu Cyferbyniad Uchel">
 <!ENTITY  overridePageColors.never.label  "Byth">
 
 <!ENTITY  color                           "Testun a Chefndir">
