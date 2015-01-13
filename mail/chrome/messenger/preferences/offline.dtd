@@ -4,13 +4,16 @@
 
 <!ENTITY offlineDialog.title "Configuración sin connexión">
 
-<!ENTITY textStartUp "Al encetar:">
+
+
 <!ENTITY radioRememberPrevState.label "Recordar o estau de connexión anterior">
 <!ENTITY radioRememberPrevState.accesskey "R">
-<!ENTITY radioAskMe.label "Preguntar-me/untar'me o modo de connexión en encetar">
-<!ENTITY radioAskMe.accesskey "u">
-<!ENTITY radioAlwaysOnline.label "Encetar siempre connectau">
-<!ENTITY radioAlwaysOnline.accesskey "E">
+
+
+
+
+
+
 
 <!ENTITY textGoingOnline "Ninviar mensaches pendients en pasar a modo con connexión?">
 <!ENTITY radioAutoSend.label "Sí">

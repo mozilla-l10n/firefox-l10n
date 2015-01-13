@@ -172,6 +172,7 @@
 <!ENTITY pref_cookies_not_accept_foreign "Autorizadas, fueras d\u0027as de tercers">
 <!ENTITY pref_cookies_disabled "No autorizadas">
 
+
 <!ENTITY pref_donottrack_title "No me sigas">
 <!ENTITY pref_donottrack_summary "&brandShortName; indicará a os puestos web que no quiere que le sigan">
 
@@ -429,6 +430,8 @@ size. -->
 <!ENTITY home_remote_tabs_empty "As tuyas pestanyas en atros dispositivos s\u0027amuestran aquí.">
 <!ENTITY home_remote_tabs_unable_to_connect "No s\u0027ha puesto connectar">
 <!ENTITY home_remote_tabs_need_to_sign_in "Torna a dentar ta reconnectar-te con Firefox Account y continuar sincronizando.">
+
+
 <!ENTITY home_remote_tabs_trouble_verifying "Problemas verificando a tuya cuenta?">
 <!ENTITY home_remote_tabs_need_to_verify "Por favor verifica a tuya Cuenta Firefox ta empecipiar a sincronizar.">
 
@@ -528,12 +531,6 @@ dende Android">
 
 <!ENTITY updater_apply_title2 "Esvielle disponible ta &brandShortName;">
 <!ENTITY updater_apply_select2 "Toque-ie ta esviellar">
-<!-- New tablet UI -->
-<!-- LOCALIZATION NOTE (new_tablet_restart): Notification displayed after the user toggles the new tablet UI in the settings screen.-->
-
-
-<!ENTITY new_tablet_restart "Reiniciar o navegador pa que tiengan efectos os cambios">
-<!ENTITY new_tablet_pref "Activar o nuevo interfaz d\u0027usuario de tablet">
 <!-- Guest mode -->
 
 <!ENTITY new_guest_session "Nueva sesión de convidau">

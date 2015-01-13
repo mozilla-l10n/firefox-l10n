@@ -171,6 +171,9 @@
 <!ENTITY fxaccount_confirm_account_verification_link_sent2 "Mensache de verificación ninviau">
 <!ENTITY fxaccount_confirm_account_verification_link_not_sent2 "No s\u0027ha puesto ninviar o mensache de verificación">
 
+
+
+
 <!ENTITY fxaccount_sign_in_sub_header "Connectar-se">
 <!ENTITY fxaccount_sign_in_button_label "Connectar-se">
 <!ENTITY fxaccount_sign_in_forgot_password "Ha oblidau a contrasenya?">
@@ -180,9 +183,13 @@
 <!ENTITY fxaccount_account_verified_sub_header "Cuenta verificada">
 <!ENTITY fxaccount_account_verified_description2 "A sincronización d\u0027os suyos datos empecipiará de camín.">
 
+
 <!ENTITY fxaccount_update_credentials_header "Connectar-se">
 <!ENTITY fxaccount_update_credentials_button_label "Connectar-se">
 <!ENTITY fxaccount_update_credentials_unknown_error "No s\u0027ha puesto encetar a sesión">
+
+
+
 
 <!ENTITY fxaccount_status_header2 "Cuenta de Firefox">
 <!ENTITY fxaccount_status_signed_in_as "Connectau como">
@@ -197,7 +204,9 @@
 <!ENTITY fxaccount_status_needs_credentials "No s\u0027ha puesto connectar. Toque ta encetar a sesión.">
 <!ENTITY fxaccount_status_needs_upgrade "Ha d\u0027esviellar o &brandShortName; ta encetar a sesión.">
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled "El &syncBrand.shortName.label; ye configurau, pero a sincronización automatica ye desactivada. Vaiga ta Configuraciób &gt; Uso de datos y sinyale «Sincronización automatica de datos».">
+
 <!ENTITY fxaccount_status_needs_account_enabled "O &syncBrand.shortName.label; ye configurau pero a sincronización automatica ye desactivdada. Toque ta iniciar a sincronización.">
+
 <!ENTITY fxaccount_status_bookmarks "Marcapachinas">
 <!ENTITY fxaccount_status_history "Historial">
 <!ENTITY fxaccount_status_passwords "Claus">
@@ -246,7 +255,10 @@
 <!ENTITY fxaccount_remote_error_UNKNOWN_ERROR "I ha habiu un problema">
 <!ENTITY fxaccount_remote_error_COULD_NOT_CONNECT "No se puede connectar a o ret">
 
+
 <!ENTITY fxaccount_sync_sign_in_error_notification_title2 "&syncBrand.shortName.label; no ye connectau">
 <!-- Localization note: the format string below will be replaced
      with the Firefox Account's email address. -->
-<!ENTITY fxaccount_sync_sign_in_error_notification_text2 "Toque ta encetar sesión como &formatS;">
+
+<!-- Localization note: the format string below will be replaced
+     with the Firefox Account's email address. -->
