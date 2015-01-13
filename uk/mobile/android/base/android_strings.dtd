@@ -172,6 +172,8 @@
 <!ENTITY pref_cookies_not_accept_foreign "Увімкнено, включно з третьосторонніми">
 <!ENTITY pref_cookies_disabled "Вимкнено">
 
+<!ENTITY pref_tracking_protection_title "Tracking protection">
+<!ENTITY pref_tracking_protection_summary "&brandShortName; will prevent sites from tracking you">
 <!ENTITY pref_donottrack_title "Do not track">
 <!ENTITY pref_donottrack_summary "&brandShortName; will tell sites that you do not want to be tracked">
 
@@ -429,6 +431,8 @@ size. -->
 <!ENTITY home_remote_tabs_empty "Ваші вкладки з інших пристроїв з’являються тут.">
 <!ENTITY home_remote_tabs_unable_to_connect "Неможливо з’єднатися">
 <!ENTITY home_remote_tabs_need_to_sign_in "Увійдіть, щоб знову підключитися до свого облікового запису Firefox та продовжити синхронізацію.">
+<!ENTITY home_remote_tabs_need_to_finish_migrating "Your new Firefox Account is ready!">
+
 <!ENTITY home_remote_tabs_trouble_verifying "Проблеми з підтвердженням облікового запису?">
 <!ENTITY home_remote_tabs_need_to_verify "Підтвердіть свій обліковий запис Firefox для початку синхронізації.">
 
@@ -528,12 +532,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY updater_apply_title2 "Доступне оновлення для &brandShortName;">
 <!ENTITY updater_apply_select2 "Торкніться, щоб оновити">
-
-<!-- New tablet UI -->
-
-<!-- LOCALIZATION NOTE (new_tablet_restart): Notification displayed after the user toggles the new tablet UI in the settings screen.-->
-<!ENTITY new_tablet_restart "Перезапустіть браузер, щоб застосувати зміни">
-<!ENTITY new_tablet_pref "Активувати новий інтерфейс планшета">
 
 <!-- Guest mode -->
 <!ENTITY new_guest_session "Новий гостьовий сеанс">
