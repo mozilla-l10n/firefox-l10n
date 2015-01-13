@@ -152,6 +152,8 @@
 
 
 
+
+
 <!ENTITY pref_char_encoding "Kit ma Kicoyo Kwede">
 <!ENTITY pref_char_encoding_on "Nyut acaki">
 
@@ -374,6 +376,7 @@ size. -->
 
 
 
+
 <!-- Localization note (home_remote_tabs_many_hidden_devices) : The
      formatD is replaced with the number of hidden devices.  The
      number of hidden devices is always more than one.  We can't use
@@ -454,9 +457,6 @@ ki Android">
 <!ENTITY updater_downloading_retry2 "Gudi wek tem doki">
 
 <!ENTITY updater_apply_select2 "Gudi wek imi ngec">
-<!-- New tablet UI -->
-<!-- LOCALIZATION NOTE (new_tablet_restart): Notification displayed after the user toggles the new tablet UI in the settings screen.-->
-
 <!-- Guest mode -->
 
 <!ENTITY guest_session_dialog_continue "Mede anyim">
