@@ -2,30 +2,30 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY sync.title                 "Sinkronkan">
-<!ENTITY sync.notconnected          "Tidak tersambung">
+<!ENTITY sync.title                 "Sync">
+<!ENTITY sync.notconnected          "Tak tersambung">
 <!ENTITY sync.connect               "Sambungkan">
 <!ENTITY sync.connected             "Tersambung">
 <!ENTITY sync.details               "Detail">
 <!ENTITY sync.deviceName            "Perangkat ini">
 <!ENTITY sync.disconnect            "Putuskan">
-<!ENTITY sync.syncNow               "Sinkronkan Sekarang">
+<!ENTITY sync.syncNow               "Sinkronkan Skrg">
 
 <!ENTITY sync.setup.title           "Sambungkan ke Sync">
-<!ENTITY sync.setup.pair            "Untuk mengaktifkan, pilih &#x0022;Pasangkan Perangkat&#x0022; pada perangkat Anda lainnya.">
-<!ENTITY sync.fallback              "Saya tidak sedang di dekat komputer Saya…">
+
+<!ENTITY sync.fallback              "Komputer saya tidak sedang di dekat saya…">
 <!ENTITY sync.setup.manual          "Masukkan informasi akun Sync Anda">
 <!ENTITY sync.account               "Nama Akun">
 <!ENTITY sync.password              "Sandi">
-<!ENTITY sync.recoveryKey           "Kunci Pemulihan">
-<!ENTITY sync.customServer          "Gunakan server ubahsuai">
+
+<!ENTITY sync.customServer          "Gunakan server khusus">
 <!ENTITY sync.serverURL             "URL Server">
 <!ENTITY sync.setup.connect         "Sambungkan">
-<!ENTITY sync.setup.cancel          "Batalkan">
-<!ENTITY sync.setup.tutorial        "Tunjukkan caranya">
-<!ENTITY sync.setup.waiting2        "Menunggu perangkat lainnya…">
+<!ENTITY sync.setup.cancel          "Batal">
+<!ENTITY sync.setup.tutorial        "Lihat caranya">
+
 
 <!ENTITY sync.pair.title            "Pasangkan Perangkat">
-<!ENTITY sync.pair.description      "Untuk mengaktifkan perangkat Anda, pilih &#x0022;Siapkan Sync&#x0022; pada perangkat.">
+
 <!ENTITY sync.setup.close           "Tutup">
-<!ENTITY sync.setup.waitingdownload "Data Anda sedang diunduh di latar belakang. Anda dapat menutup jendela ini kapan saja.">
+

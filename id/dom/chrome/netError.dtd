@@ -32,7 +32,7 @@
 <!ENTITY notCached.longDesc "<p>Dokumen yang diminta tidak tersedia pada tembolok peramban.</p><ul><li>Sebagai tindakan pencegahan, peramban tidak meminta ulang dokumen sensitif secara otomatis.</li><li>Klik Coba Lagi untuk meminta ulang dokumen dari situs web.</li></ul>">
 
 <!ENTITY netOffline.title "Mode Luring">
-<!ENTITY netOffline.longDesc2 "<p>Program peramban sedang berjalan dalam mode luring dan tidak dapat tersambung pada objek yang diminta.</p><ul><li>Apakah komputer tersambung pada jaringan yang berfungsi?</li><li>Tekan &quot;Coba Lagi&quot; untuk kembali ke mode daring dan memuat ulang lamannya.</li></ul>">
+
 
 <!ENTITY contentEncodingError.title "Kesalahan Pengodean Isi">
 <!ENTITY contentEncodingError.longDesc "<p>Laman yang ingin dibuka tidak bisa ditampilkan karena menggunakan format kompresi yang tidak didukung atau tidak dikenali.</p><ul><li>Mohon hubungi pemilik situs web mengenai masalah ini.</li></ul>">
@@ -48,8 +48,8 @@
 <!ENTITY netTimeout.title "Sambungan Jaringan Time-out">
 <!ENTITY netTimeout.longDesc "<p>Situs yang diminta tidak menjawab permintaan sambungan dan program peramban menghentikan proses menunggu jawaban.</p><ul><li>Mungkinkah server sedang dalam keadaan sibuk atau mati sementara? Coba lagi nanti.</li><li>Apakah Anda bisa menjelajah situs web lain? Periksa sambungan jaringan komputer Anda.</li><li>Apakah komputer atau jaringan Anda dilindungi firewall atau proxy? Pengaturan yang salah dapat mengganggu saat menjelajah Web.</li><li>Masih bermasalah? Tanyakan pada administrator jaringan Anda atau Penyedia Jasa Layanan Internet (Internet Service Provider).</li></ul>">
 
-<!ENTITY unknownProtocolFound.title "Protokol Tidak Dikenal">
-<!ENTITY unknownProtocolFound.longDesc "<p>Alamat menyebutkan protokol (mis. <q>wxyz://</q>) yang tidak dikenali peramban sehingga peramban tidak dapat tersambung ke situs dengan benar.</p><ul><li>Yakin Anda sedang mencoba mengakses layanan multimedia atau layanan lain yang tidak berbasis teks? Periksa situs tersebut untuk persyaratan lainnya.</li><li>Beberapa protokol mungkin membutuhkan perangkat lunak pihak ketiga atau plugin agar peramban dapat mengenali protokol tersebut.</li></ul>">
+<!ENTITY unknownProtocolFound.title "Protokol Tidak Dikenali">
+<!ENTITY unknownProtocolFound.longDesc "<p>Tulisan alamat mengandung tulisan protokol (misal <q>wxyz://</q>) yang tidak dikenali program peramban sehingga program peramban tidak dapat tersambung ke situs dengan baik.</p><ul><li>Apakah Anda sedang mencoba mengakses data multimedia atau layanan lain yang tidak berbasis teks? Periksa situs tersebut untuk persyaratan lainnya.</li><li>Beberapa protokol membutuhkan perangkat lunak dari pihak lain atau plugin supaya program peramban dapat mengenali protokol tersebut.</li></ul>">
 
 <!ENTITY proxyConnectFailure.title "Server Proxy Menolak Sambungan">
 <!ENTITY proxyConnectFailure.longDesc "<p>Program peramban diatur untuk menggunakan server proxy, tetapi server proxy menolak sambungan.</p><ul><li>Apakah pengaturan proxy program peramban sudah benar? Periksa lagi pengaturan tersebut dan coba lagi.</li><li>Apakah layanan proxy mengizinkan sambungan dari jaringan komputer kita?</li><li>Masih bermasalah? Tanyakan pada administrator jaringan Anda atau Penyedia Jasa Layanan Internet (Internet Service Provider).</li></ul>">
@@ -65,10 +65,9 @@
 
 <!ENTITY nssFailure2.title "Sambungan Aman Gagal">
 <!ENTITY nssFailure2.longDesc2 "<ul> 
-<li>Laman yang ingin dibuka tidak dapat ditampilkan karena keaslian data yang diterima tidak bisa diverifikasi.</li> 
-<li>Mohon hubungi pemilik situs web mengenai masalah ini.</li> 
+<li>Laman yang ingin dibuka tidak dapat ditampilkan karena keaslian data yang dikirimkan tidak bisa diverifikasi.</li> 
+<li>Mohon hubungi pemilik situs web mengenai masalah ini. Anda juga bisa menggunakan menu Bantuan untuk melaporkan situs web yang bermasalah ini.</li> 
 </ul>">
-
 
 <!ENTITY nssBadCert.title "Sambungan Aman Gagal">
 <!ENTITY nssBadCert.longDesc2 "<ul> 
@@ -81,11 +80,11 @@
 <p>Pemilik situs web yang merasa situs yang bersangkutan bukan merupakan situs web penyerang dapat meminta <a href='http://www.stopbadware.org/home/reviewinfo' >peninjauan kembali</a>.</p>">
 
 <!ENTITY phishingBlocked.title "Tersangka Pemalsuan Web!">
-<!ENTITY phishingBlocked.longDesc '<p>Dengan memasukkan informasi pribadi pada laman ini, dapat menyebabkan pencurian identitas atau kejahatan lainnya.</p> 
-<p>Jenis pemalsuan web yang dikenal sebagai "phishing attacks", memalsukan laman web dan email yang Anda percaya.</p>'>
+<!ENTITY phishingBlocked.longDesc "<p>Dengan memasukkan informasi pribadi pada laman ini, dapat menyebabkan pencurian identitas atau kejahatan lainnya.</p> 
+<p>Jenis pemalsuan web yang dikenal sebagai &quot;phishing attacks&quot;, memalsukan laman web dan email yang Anda percaya.</p>">
 
-<!ENTITY cspFrameAncestorBlocked.title "Diblokir oleh Kebijakan Keamanan Konten">
-<!ENTITY cspFrameAncestorBlocked.longDesc "<p>Peramban mencegah pemuatan laman dengan cara ini karena laman mengandung kebijakan keamanan konten yang tidak mengizinkan hal ini.</p>">
+<!ENTITY cspBlocked.title "Diblokir oleh Kebijakan Keamanan Konten">
+<!ENTITY cspBlocked.longDesc "<p>Peramban mencegah pemuatan laman dengan cara ini karena laman mengandung kebijakan keamanan konten yang tidak mengizinkan hal ini.</p>">
 
 <!ENTITY corruptedContentError.title "Galat Konten Rusak">
 <!ENTITY corruptedContentError.longDesc "<p>Laman yang akan dibuka tidak dapat ditampilkan karena ada terdeteksi galat pada pengiriman data.</p><ul><li>Mohon hubungi pemilik situs web mengenai masalah ini.</li></ul>">
