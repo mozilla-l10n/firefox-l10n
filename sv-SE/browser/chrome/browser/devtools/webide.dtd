@@ -114,6 +114,8 @@
 <!ENTITY prefs_general_title "Allmänt">
 <!ENTITY prefs_restore "Återställ standard">
 <!ENTITY prefs_manage_components "Hantera extra komponenter">
+
+
 <!ENTITY prefs_options_rememberlastproject "Kom ihåg senaste projekt">
 <!ENTITY prefs_options_rememberlastproject_tooltip "Återställ föregående projekt när WebIDE startar">
 <!ENTITY prefs_options_templatesurl "Mall URL ">

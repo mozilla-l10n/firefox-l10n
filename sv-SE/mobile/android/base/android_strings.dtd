@@ -172,6 +172,7 @@
 <!ENTITY pref_cookies_not_accept_foreign "Aktiverade, utom för tredje part">
 <!ENTITY pref_cookies_disabled "Inaktiverade">
 
+
 <!ENTITY pref_donottrack_title "Spåra inte">
 <!ENTITY pref_donottrack_summary "&brandShortName; kommer att informera hemsidor att du inte vill bli spårad">
 
@@ -429,6 +430,8 @@ size. -->
 <!ENTITY home_remote_tabs_empty "Dina flikar från andra enheter visas här. ">
 <!ENTITY home_remote_tabs_unable_to_connect "Anslutningen misslyckades">
 <!ENTITY home_remote_tabs_need_to_sign_in "Snälla logga in för att återansluta ditt Firefox Konto och fortsätta synka. ">
+
+
 <!ENTITY home_remote_tabs_trouble_verifying "Problem med att verifiera ditt konto?">
 <!ENTITY home_remote_tabs_need_to_verify "Var vänlig verifera ditt Firefox Konto för att börja synka.">
 
@@ -528,12 +531,6 @@ från Android">
 
 <!ENTITY updater_apply_title2 "Uppdatering finns för &brandShortName;">
 <!ENTITY updater_apply_select2 "Tryck för att uppdatera">
-<!-- New tablet UI -->
-<!-- LOCALIZATION NOTE (new_tablet_restart): Notification displayed after the user toggles the new tablet UI in the settings screen.-->
-
-
-<!ENTITY new_tablet_restart "Starta om webläsaren för att ändringarna ska börja gälla">
-<!ENTITY new_tablet_pref "Aktivera nya surfplatte gränssnittet">
 <!-- Guest mode -->
 
 <!ENTITY new_guest_session "Ny gästsession">
