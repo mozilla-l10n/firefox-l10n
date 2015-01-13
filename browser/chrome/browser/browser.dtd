@@ -95,6 +95,8 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY pageInfoCmd.label "Gwybodaeth am y Dudalen">
 <!ENTITY pageInfoCmd.accesskey "w">
 <!ENTITY pageInfoCmd.commandkey "i">
+<!ENTITY mirrorTabCmd.label "Tab Drych">
+<!ENTITY mirrorTabCmd.accesskey "D">
 <!-- LOCALIZATION NOTE (enterFullScreenCmd.label, exitFullScreenCmd.label):
 These should match what Safari and other Apple applications use on OS X Lion. -->
 <!ENTITY enterFullScreenCmd.label "Mynd i Sgrin Lawn">
@@ -420,6 +422,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY searchFor.label              "Chwilio am ">
 <!ENTITY searchWith.label             " gyda:">
+<!-- LOCALIZATION NOTE (searchWithHeader.label):
+     The wording of this string should be as close as possible to
+     searchFor.label and searchWith.label. This string will be used instead of
+     them when the user has not typed any keyword. -->
+<!ENTITY searchWithHeader.label       "Chwilio gyda:">
 <!ENTITY changeSearchSettings.button  "Newid y Gosodiadau Chwilio">
 
 <!ENTITY tabView.commandkey           "e">

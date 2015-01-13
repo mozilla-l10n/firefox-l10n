@@ -6,8 +6,11 @@
 <!ENTITY  window.width                    "38em">
 <!ENTITY  window.macWidth                 "41em">
 
-<!ENTITY  allowPagesToUse.label           "Caniatáu i gynnwys ddewis ei liwiau ei hun, yn lle fy newisiadau i uchod">
-<!ENTITY  allowPagesToUse.accesskey       "a">
+
+
+<!ENTITY  overridePageColors.always.label "Bob tro">
+
+<!ENTITY  overridePageColors.never.label  "Byth">
 
 <!ENTITY  color                           "Testun a Chefndir">
 <!ENTITY  textColor.label                 "Testun:">
