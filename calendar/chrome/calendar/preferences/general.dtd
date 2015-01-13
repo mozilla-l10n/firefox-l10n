@@ -13,6 +13,10 @@
 <!ENTITY pref.dateformat.long "Fada" >
 <!ENTITY pref.dateformat.short "Goirid"  >
 
+<!ENTITY pref.timezones.caption "An roinn-tìde">
+
+
+
 <!ENTITY pref.defaults.label "Luachan bunaiteach airson nithean ùra">
 <!ENTITY pref.events.label "Tachartasan">
 <!ENTITY pref.tasks.label "Saothraichean">

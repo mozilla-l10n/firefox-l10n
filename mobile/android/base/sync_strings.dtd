@@ -171,6 +171,9 @@
 <!ENTITY fxaccount_confirm_account_verification_link_sent2 "Chaidh am post-d dearbhaidh a chur">
 <!ENTITY fxaccount_confirm_account_verification_link_not_sent2 "Cha b\u0027 urrainn dhuinn am post-d dearbhaidh a chur">
 
+
+
+
 <!ENTITY fxaccount_sign_in_sub_header "Clàraich a-steach">
 <!ENTITY fxaccount_sign_in_button_label "Clàraich a-steach">
 <!ENTITY fxaccount_sign_in_forgot_password "Na dhìochuimhnich thu am facal-faire?">
@@ -180,9 +183,13 @@
 <!ENTITY fxaccount_account_verified_sub_header "Chaidh an cunntas a dhearbhadh">
 <!ENTITY fxaccount_account_verified_description2 "Thèid an dàta agad a shioncronachadh a dh\u0027aithghearr.">
 
+
 <!ENTITY fxaccount_update_credentials_header "Clàraich a-steach">
 <!ENTITY fxaccount_update_credentials_button_label "Clàraich a-steach">
 <!ENTITY fxaccount_update_credentials_unknown_error "Cha b\u0027 urrainn dhuinn do chlàradh a-steach">
+
+
+
 
 <!ENTITY fxaccount_status_header2 "Cunntas Firefox">
 <!ENTITY fxaccount_status_signed_in_as "Chlàraich thu a-steach mar">
@@ -197,7 +204,9 @@
 <!ENTITY fxaccount_status_needs_credentials "Cha ghabh ceangal a dhèanamh. Thoir gnogag gus clàradh a-steach.">
 <!ENTITY fxaccount_status_needs_upgrade "Feumaidh tu &brandShortName; àrdachadh mus urrainn dhut clàradh a-steach.">
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled "Chaidh &syncBrand.shortName.label; a shuidheachadh ach cha dèan e sioncronachadh gu fèin-obrachail. Toglaich “Auto-sync data” ann an Android Settings &gt; Data Usage.">
+
 <!ENTITY fxaccount_status_needs_account_enabled "Chaidh &syncBrand.shortName.label; a shuidheachadh ach cha dèan e sioncronachadh gu fèin-obrachail. Thoir gnogag gus tòiseachadh air an t-sioncronachadh.">
+
 <!ENTITY fxaccount_status_bookmarks "Comharran-lìn">
 <!ENTITY fxaccount_status_history "Eachdraidh">
 <!ENTITY fxaccount_status_passwords "Faclan-faire">
@@ -246,7 +255,10 @@
 <!ENTITY fxaccount_remote_error_UNKNOWN_ERROR "Bha duilgheadas ann">
 <!ENTITY fxaccount_remote_error_COULD_NOT_CONNECT "Cha ghabh ceangal a dhèanamh ris an lìonra">
 
+
 <!ENTITY fxaccount_sync_sign_in_error_notification_title2 "Chan eil &syncBrand.shortName.label; ceangailte">
 <!-- Localization note: the format string below will be replaced
      with the Firefox Account's email address. -->
-<!ENTITY fxaccount_sync_sign_in_error_notification_text2 "Thoirt gnogag gus clàradh a-steach mar &formatS;">
+
+<!-- Localization note: the format string below will be replaced
+     with the Firefox Account's email address. -->
