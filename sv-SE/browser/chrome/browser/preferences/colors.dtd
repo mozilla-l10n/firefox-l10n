@@ -9,7 +9,7 @@
 
 
 <!ENTITY  overridePageColors.always.label "alltid">
-
+<!ENTITY  overridePageColors.auto.label   "Endast med Högkontrast teman">
 <!ENTITY  overridePageColors.never.label  "aldrig">
 
 <!ENTITY  color                           "Text och bakgrund">
