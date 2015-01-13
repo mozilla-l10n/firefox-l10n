@@ -95,8 +95,8 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY pageInfoCmd.label "Info wó boku">
 <!ENTITY pageInfoCmd.accesskey "I">
 <!ENTITY pageInfoCmd.commandkey "i">
-
-
+<!ENTITY mirrorTabCmd.label "Glědałkowy rejtark">
+<!ENTITY mirrorTabCmd.accesskey "G">
 <!-- LOCALIZATION NOTE (enterFullScreenCmd.label, exitFullScreenCmd.label):
 These should match what Safari and other Apple applications use on OS X Lion. -->
 <!ENTITY enterFullScreenCmd.label "Połnu wobrazowku pokazaś">
@@ -426,6 +426,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      The wording of this string should be as close as possible to
      searchFor.label and searchWith.label. This string will be used instead of
      them when the user has not typed any keyword. -->
+<!ENTITY searchWithHeader.label       "Pytaś z:">
 <!ENTITY changeSearchSettings.button  "Pytańske nastajenja změniś">
 
 <!ENTITY tabView.commandkey           "e">
