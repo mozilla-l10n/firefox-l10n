@@ -183,12 +183,14 @@
 <!ENTITY fxaccount_account_verified_sub_header "Kontot bekräftat">
 <!ENTITY fxaccount_account_verified_description2 "Din data kommer strax att börja synkas.">
 
+<!ENTITY fxaccount_migration_finished_header "Uppgradering klar.">
 
 <!ENTITY fxaccount_update_credentials_header "Logga in">
 <!ENTITY fxaccount_update_credentials_button_label "Logga in">
 <!ENTITY fxaccount_update_credentials_unknown_error "Kunde inte logga in">
 
-
+<!ENTITY fxaccount_finish_migrating_header "Logga in för att slutföra uppgradering">
+<!ENTITY fxaccount_finish_migrating_button_label "slutför uppgradering">
 
 
 <!ENTITY fxaccount_status_header2 "Firefox-konto">
@@ -254,11 +256,12 @@
 <!ENTITY fxaccount_remote_error_SERVICE_TEMPORARILY_UNAVAILABLE_TO_DUE_HIGH_LOAD "Servern är upptagen, försök igen senare">
 <!ENTITY fxaccount_remote_error_UNKNOWN_ERROR "Det uppstod ett problem">
 <!ENTITY fxaccount_remote_error_COULD_NOT_CONNECT "Kan inte ansluta till nätverket">
-
+<!ENTITY fxaccount_remote_error_ACCOUNT_LOCKED "Kontot är låst. &formatS1;">
 
 <!ENTITY fxaccount_sync_sign_in_error_notification_title2 "&syncBrand.shortName.label; är inte ansluten">
 <!-- Localization note: the format string below will be replaced
      with the Firefox Account's email address. -->
 
+<!ENTITY fxaccount_sync_finish_migrating_notification_title "Slutför uppgradering &syncBrand.shortName.label;?">
 <!-- Localization note: the format string below will be replaced
      with the Firefox Account's email address. -->
