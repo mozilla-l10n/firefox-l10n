@@ -6,10 +6,11 @@
 <!ENTITY  window.width                    "38em">
 <!ENTITY  window.macWidth                 "41em">
 
-
+<!ENTITY  overridePageColors.label        "Barby podate přez wobsah z mojim wuběrom horjeka přepisać:">
+<!ENTITY  overridePageColors.accesskey    "B">
 
 <!ENTITY  overridePageColors.always.label "Přeco">
-
+<!ENTITY  overridePageColors.auto.label   "Jenož z drastami z wysokim kontrastom">
 <!ENTITY  overridePageColors.never.label  "Ženje">
 
 <!ENTITY  color                           "Tekst a pozadk">

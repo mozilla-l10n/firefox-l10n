@@ -4,16 +4,17 @@
 
 <!ENTITY offlineDialog.title "Nastajenja offline">
 
-
-
+<!ENTITY checkAutoDetect.label "Wotkrytemu online-statusej awtomatisce slědować">
+<!ENTITY checkAutoDetect.accesskey "o">
+<!ENTITY titleStartUp "Manuelny status při startowanju:">
 <!ENTITY radioRememberPrevState.label "Sej předchadny status online spomjatkować">
 <!ENTITY radioRememberPrevState.accesskey "k">
-
-
-
-
-
-
+<!ENTITY radioAskState.label "Za online-statusom so prašeć">
+<!ENTITY radioAskState.accesskey "r">
+<!ENTITY radioAlwaysOnline.label "Online">
+<!ENTITY radioAlwaysOnline.accesskey "l">
+<!ENTITY radioAlwaysOffline.label "Offline">
+<!ENTITY radioAlwaysOffline.accesskey "f">
 
 <!ENTITY textGoingOnline "Njepósłane powěsće wotesłać, hdyž online dźeće?">
 <!ENTITY radioAutoSend.label "Haj">

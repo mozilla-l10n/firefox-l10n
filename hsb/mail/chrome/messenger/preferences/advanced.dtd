@@ -15,8 +15,8 @@
 <!ENTITY telemetryInfoLink.label       "Dalše informacije wo telemetriji">
 <!ENTITY enableGlodaSearch.label       "Globalne pytanje a indeksowanje zmóžnić">
 <!ENTITY enableGlodaSearch.accesskey   "G">
-
-
+<!ENTITY allowHWAccel.label            "Hardwarowe pospěšenje wužiwać, jeli je k dispoziciji">
+<!ENTITY allowHWAccel.accesskey        "h">
 
 <!ENTITY scrolling.label               "Přesuwanje">
 <!ENTITY useAutoScroll.label           "Awtomatiske přesuwanje wužiwać">
