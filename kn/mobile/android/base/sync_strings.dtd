@@ -78,6 +78,8 @@
      will be replaced by the name of the Firefox release channel and &formatS2
      by the model name of the Android device. Examples look like "Aurora on
      GT-I1950" and "Fennec on MI 2S". -->
+
+<!ENTITY sync.default.client.name "&formatS2; ನ ಮೇಲೆ &formatS1;">
 <!-- Bookmark folder strings -->
 
 <!ENTITY bookmarks.folder.menu.label "ಬುಕ್‌ಮಾರ್ಕುಗಳ ಪರಿವಿಡಿ">
@@ -165,9 +167,12 @@
 <!-- Localization note: &formatS; is the Firefox Account's email address. -->
 <!ENTITY fxaccount_confirm_account_verification_link "ಒಂದು ಪರಿಶೀಲನಾ ಕೊಂಡಿಯನ್ನು &formatS; ಗೆ ಕಳುಹಿಸಲಾಗಿದೆ">
 <!ENTITY fxaccount_confirm_account_resend_email "ಮಿಂಚೆಯನ್ನು ಮರು-ಕಳುಹಿಸಿ">
-
+<!ENTITY fxaccount_confirm_account_change_email "ಈ ವಿ-ಅಂಚೆ ವಿಳಾಸ ಮರೆಯಬೇಕೆ?">
 <!ENTITY fxaccount_confirm_account_verification_link_sent2 "ಪರಿಶೀಲನಾ ಮಿಂಚೆಯನ್ನು ಕಳುಹಿಸಿದೆ">
 <!ENTITY fxaccount_confirm_account_verification_link_not_sent2 "ಪರಿಶೀಲನಾ ಮಿಂಚೆಯನ್ನು ಕಳುಹಿಸಲಾಗಲಿಲ್ಲ">
+
+
+
 
 <!ENTITY fxaccount_sign_in_sub_header "ಪ್ರವೇಶಿಸಿ">
 <!ENTITY fxaccount_sign_in_button_label "ಪ್ರವೇಶಿಸಿ">
@@ -178,9 +183,14 @@
 <!ENTITY fxaccount_account_verified_sub_header "ಖಾತೆ ದೃಢಪಡಿಸಲಾಗಿದೆ">
 <!ENTITY fxaccount_account_verified_description2 "ನಿಮ್ಮ ಮಾಹಿತಿ ಈಗಲೇ ಮೇಳೈಸಲು ಆರಂಭವಾಗುವುದು.">
 
+<!ENTITY fxaccount_migration_finished_header "ಸುಧಾರಣೆ ಪೂರ್ಣಗೊಂಡಿದೆ">
+
 <!ENTITY fxaccount_update_credentials_header "ಸೈನ್ ಇನ್">
 <!ENTITY fxaccount_update_credentials_button_label "ಸೈನ್ ಇನ್">
 <!ENTITY fxaccount_update_credentials_unknown_error "ಸೈನ್ ಇನ್ ಸಾಧ್ಯವಾಗಿಲ್ಲ">
+
+
+
 
 <!ENTITY fxaccount_status_header2 "ಫೈರ್ಫಾಕ್ಸ್ ಖಾತೆ">
 <!ENTITY fxaccount_status_signed_in_as "ಆಗಿ ಪ್ರವೇಶಿಸಲಾಗಿದೆ">
@@ -195,7 +205,9 @@
 <!ENTITY fxaccount_status_needs_credentials "ಸಂಪರ್ಕ ಸಾಧಿಸಲು ಸಾಧ್ಯವಾಗಿಲ್ಲ. ಸೈನ್ ಇನ್ ಆಗಲು ಮೆಲ್ಲಗೆ ತಡವಿ.">
 <!ENTITY fxaccount_status_needs_upgrade "ಸೈನಿನ್ ಮಾಡಲು, &brandShortName;ನ ಅಪ್-ಗ್ರೇಡ್ ಅನ್ನು ನೀವು ಪಡೆಯಬೇಕು.">
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled "&syncBrand.shortName.label; ಸಿದ್ಧವಾಗಿದೆ, ಆದರೆ ಸ್ವಯಂಚಾಲಿತವಾಗಿ ಸಿಂಕ್ ಆಗುತ್ತಿಲ್ಲ. ಆಂಡ್ರಾಯ್ಡ್ ಸಿದ್ದತೆಗಳಲ್ಲಿ &gt; ದತ್ತಾಂಶ ಬಳಕೆ ಯಲ್ಲಿ “ಸ್ವ-ಸಿಂಕ್ ದತ್ತಾಂಶ” ಅಂತರಣ ಮಾಡಿ.">
+
 <!ENTITY fxaccount_status_needs_account_enabled "&syncBrand.shortName.label; ಸಿದ್ಧವಾಗಿದೆ, ಆದರೆ ಸ್ವಯಂಚಾಲಿತವಾಗಿ ಸಿಂಕ್ ಆಗುತ್ತಿಲ್ಲ. ಸಿಂಕ್ ಅನ್ನು ಪ್ರಾರಂಭಿಸಲು ತಟ್ಟಿ.">
+
 <!ENTITY fxaccount_status_bookmarks "ಪುಟಗುರುತುಗಳು">
 <!ENTITY fxaccount_status_history "ಇತಿಹಾಸ">
 <!ENTITY fxaccount_status_passwords "ಗುಪ್ತಪದಗಳು">
@@ -244,7 +256,10 @@
 <!ENTITY fxaccount_remote_error_UNKNOWN_ERROR "ಏನೋ ತೊಂದರೆ ಕಂಡುಬಂದಿದೆ">
 <!ENTITY fxaccount_remote_error_COULD_NOT_CONNECT "ಜಾಲಬಂಧದೊಂದಿಗೆ ಸಂಪರ್ಕ ಸಾಧ್ಯವಾಗಿಲ್ಲ">
 
+
 <!ENTITY fxaccount_sync_sign_in_error_notification_title2 "&syncBrand.shortName.label; ಸಂಪರ್ಕಿತಗೊಂಡಿಲ್ಲ">
 <!-- Localization note: the format string below will be replaced
      with the Firefox Account's email address. -->
-<!ENTITY fxaccount_sync_sign_in_error_notification_text2 "&formatS; ಆಗಿ ಸೈನ್‌ ಇನ್ ಆಗಲು ಮೆಲ್ಲಗೆ ತಟ್ಟಿ">
+
+<!-- Localization note: the format string below will be replaced
+     with the Firefox Account's email address. -->

@@ -103,7 +103,7 @@
 <!ENTITY overlay_share_bookmark_btn_label "ಪುಟ ಗುರುತು">
 <!ENTITY overlay_share_reading_list_btn_label "ಒದು ಪಟ್ಟಿಗೆ ಸೇರಿಸಿ">
 <!ENTITY overlay_share_bookmark_btn_label_already "ಈಗಾಗಲೇ ಪುಟ ಗುರುತು ಹಾಕಲಾಗಿದೆ">
-
+<!ENTITY overlay_share_reading_list_btn_label_already "ಈಗಾಗಲೇ ಓದುತ್ತಿರುವ ಪಟ್ಟಿಯಲ್ಲಿದೆ">
 <!ENTITY overlay_share_send_other "ಇತರೆ ಸಾಧನಗಳಿಗೆ ಕಳುಹಿಸು">
 <!-- Localization note (overlay_share_send_tab_btn_label) : Used on the
      share overlay menu to represent the "Send Tab" action when the user
@@ -120,9 +120,9 @@
 <!ENTITY pref_category_display "ಪ್ರದರ್ಶಿಸು">
 
 <!ENTITY pref_category_privacy_short "ಗೌಪ್ಯತೆ">
-
+<!ENTITY pref_category_privacy_summary "ನಿಯಂತ್ರಣ ಪಾಸ್‌ವರ್ಡ್‌ಗಳು, ಕುಕೀಗಳು, ಜಾಡು ಇರಿಸುವಿಕೆ, ದತ್ತಾಂಶ">
 <!ENTITY pref_category_vendor "&vendorShortName;">
-
+<!ENTITY pref_category_vendor_summary "&brandShortName;,FAQs, ಡೇಟಾ ಆಯ್ಕೆಗಳು ಬಗ್ಗೆ">
 <!ENTITY pref_category_datareporting "ದತ್ತಾಂಶ ಆಯ್ಕೆಗಳು">
 <!ENTITY pref_learn_more "ಇನ್ನಷ್ಟು ತಿಳಿಯಿರಿ">
 <!ENTITY pref_category_installed_search_engines "ಅನುಸ್ಥಾಪಿಸಿರುವ ಸರ್ಚ್ ಎಂಜಿನ್‌ಗಳು">
@@ -137,8 +137,8 @@
      it is applicable. -->
 <!ENTITY pref_search_hint "TIP: ಯಾವುದೇ ಜಾಲತಾಣವನ್ನು ನಿಮ್ಮ ಹುಡುಕು ಪೂರೈಕೆದಾರರ ಪಟ್ಟಿಗೆ ಸೇರಿಸಲು ಅದರ ಹುಡುಕು ವಲಯದಲ್ಲಿ ದೀರ್ಘವಾಗಿ ಒತ್ತಿ ಮತ್ತು &formatI; ಲಾಂಛನದ ಮೇಲೆ ತಟ್ಟಿ.">
 <!ENTITY pref_category_devtools "ವಿಕಸನಾ ಉಪಕರಣಗಳು">
-
-
+<!ENTITY pref_category_devtools_summary "ದೂರ ದೋಷನಿದಾನ, ಪೇಂಟ್ ಪ್ಲಾಷಿಂಗ್">
+<!ENTITY pref_developer_paint_flashing "ಪೇಂಟ್ ಪ್ಲಾಷಿಂಗ್">
 <!ENTITY pref_developer_remotedebugging "ರಿಮೋಟ್ ಡೀಬಗ್ಗಿಂಗ್">
 <!ENTITY pref_remember_signons "ಗುಪ್ತಪದವನ್ನು ನೆನಪಿಟ್ಟುಕೊ">
 
@@ -172,6 +172,9 @@
 <!ENTITY pref_cookies_not_accept_foreign "ಸಕ್ರಿಯಗೊಳಿಸಲಾಗಿದೆ, 3ನೆಯವರನ್ನು ಹೊರತುಪಡಿಸಿ">
 <!ENTITY pref_cookies_disabled "ನಿಷ್ಕ್ರಿಯಗೊಳಿಸಲಾಗಿದೆ">
 
+<!ENTITY pref_tracking_protection_title "ಜಾಡು ಇರಿಸುವಿಕೆಗೆ ರಕ್ಷಣೆ">
+<!ENTITY pref_tracking_protection_summary "&brandShortName; ಜಾಲತಾಣಗಳನ್ನು ನಿಮ್ಮನ್ನು ಜಾಡು ಇರಿಸುವುದರಿಂದ ತಡೆಯುತ್ತದೆ">
+<!ENTITY pref_donottrack_title "ಜಾಡು ಇರಿಸಬೇಡ">
 
 
 <!ENTITY pref_char_encoding "ಅಕ್ಷರದ ಎನ್ಕೋಡಿಂಗ್">
@@ -179,8 +182,8 @@
 <!ENTITY pref_char_encoding_off "ಪರಿವಿಡಿ ತೋರಿಸಬೇಡ">
 <!ENTITY pref_clear_private_data2 "ಈಗಲೆ ಅಳಿಸು">
 <!ENTITY pref_clear_private_data_category "ಖಾಸಗಿ ದತ್ತಾಂಶವನ್ನು ಖಾಲಿಮಾಡು">
-
-
+<!ENTITY pref_clear_on_exit_title2 "ನಿರ್ಗಮಿಸುವಾಗ ತೆರವುಗೊಳಿಸು">
+<!ENTITY pref_clear_on_exit_summary2 "ನೀವು ಮುಖ್ಯ ಪರಿವಿಡಿಯಿಂದ \u0022\u0027ಆಚೆ ಬಾ\u0027\u0022ವನ್ನು ಆಯ್ಕೆ ಮಾಡಿದಾಗ &brandShortName; ಸ್ವಯಂಚಾಲಿತವಾಗಿ ನಿಮ್ಮ ಡೇಟಾವನ್ನು ತೆರವುಗೊಳಿಸುವುದು">
 <!ENTITY pref_clear_on_exit_dialog_title "ಯಾವ ಡೇಟಾ ತೆರವುಗೊಳಿಸಬೇಕು ಆಯ್ಕೆಮಾಡು">
 <!ENTITY pref_plugins "ಪ್ಲಗ್‌ಇನ್‌ಗಳು">
 <!ENTITY pref_plugins_enabled "ಸಕ್ರಿಯಗೊಳಿಸಲಾಗಿದೆ">
@@ -208,6 +211,7 @@ size. -->
 
 <!ENTITY pref_font_size_preview_text "ಕಿತ್ತಳೆ ಬಣ್ಣದ ನರಿಯೊಂದು, ನಿಮ್ಮ ಊಹೆಗೆ ಮೀರಿದ ವೇಗ, ಫ್ಲೆಕ್ಸಿಬಿಲಿಟಿ ಮತ್ತು ಸುರಕ್ಷೆಯಿಂದ ನೆಗೆಯುವುದು. ನಾವು ಲಾಭದ ಹಿಂದೆ ಇಲ್ಲದ ಕಾರಣ, ಬಾಹ್ಯ ಒತ್ತಡಗಳಿಗೆ ಮಣಿಯದೆ, ನಿಮ್ಮ ಪರವಾಗಿ ಕೇವಲ ಹೊಸ ಕಲ್ಪನೆಗಳಿಗೆ ಇಂಬು ನೀಡಲು ಸಾಧ್ಯವಾಗಿದೆ. ಇದರರ್ಥ, ನೀವು ವೆಬ್-ಭವಿಷ್ಯದಲ್ಲಿ, ಮತ್ತಷ್ಟು ಮೇರೆ ಮೀರಿದ ಅನುಭವವನ್ನು ಪಡೆಯುವಿರಿ.">
 
+<!ENTITY pref_media_autoplay_enabled "ಆಟೋ ಪ್ಲೇ ಅನುಮತಿಸು">
 
 
 <!ENTITY pref_use_master_password "ಮುಖ್ಯ ಗುಪ್ತಪದವನ್ನು ಬಳಸು">
@@ -300,7 +304,7 @@ size. -->
 <!ENTITY tabs_private "ಖಾಸಗಿ">
 <!ENTITY tabs_synced "ಮೇಳೈಸಿದೆ">
 <!ENTITY set_image_fail "ಚಿತ್ರವನ್ನು ಲೋಡ್ ಮಾಡಲು ಸಾಧ್ಯವಾಗಿಲ್ಲ">
-
+<!ENTITY set_image_path_fail "ಚಿತ್ರವನ್ನು ಉಳಿಸಲು ಸಾಧ್ಯವಾಗಿಲ್ಲ">
 <!ENTITY set_image_chooser_title "ಚಿತ್ರವನ್ನು ಹೀಗೆ ಉಳಿಸು">
 <!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
@@ -311,6 +315,8 @@ size. -->
 <!ENTITY find_close "ಮುಚ್ಚು">
 <!-- Localization note (media_sending_to, media_play, media_pause, media_stop) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
+
+<!ENTITY media_sending_to "ಸಾಧನಕ್ಕೆ ಪ್ರಸರಣೊಗಳಿಸಲಾಗುತ್ತಿದೆ">
 <!ENTITY media_play "ಪ್ಲೇ ಮಾಡು">
 <!ENTITY media_pause "ವಿರಾಮ">
 <!ENTITY media_stop "ನಿಲ್ಲಿಸು">
@@ -337,6 +343,8 @@ size. -->
 <!-- Localization note (pref_scroll_title_bar2): Label for setting that controls
      whether or not the dynamic toolbar is enabled. -->
 
+<!ENTITY pref_scroll_title_bar2 "ಪೂರ್ಣ-ತೆರೆಯಲ್ಲಿ ಜಾಲಾಡುವಿಕೆ">
+<!ENTITY pref_scroll_title_bar_summary "&brandShortName; ನ ಟೈಟಲ್ ಬಾರನ್ನು ಪುಟವೊಂದರಲ್ಲಿ ಸ್ಕ್ರಾಲ್ ಮಾಡುವಾಗ ಅಡಗಿಸು">
 <!-- Localization note (page_removed): This string appears in a toast message when
      any page is removed frome about:home. This includes pages that are in history,
      bookmarks, or reading list. -->
@@ -361,6 +369,8 @@ size. -->
      panel on the home page to give the user an estimate of how many minutes it will take to
      read an article. The word "minute" should be abbreviated if possible. -->
 
+<!ENTITY reading_list_time_minutes2 "&formatD; ನಿಮಿಷ">
+<!ENTITY reading_list_time_over_an_hour "ಒಂದು ಗಂಟೆಗೂ ಹೆಚ್ಚು">
 <!-- Localization note : These strings are used as alternate text for accessibility.
      They are not visible in the UI. -->
 
@@ -416,8 +426,10 @@ size. -->
 
 <!ENTITY home_move_up_to_filter "&formatS; ವರೆಗೆ">
 
+<!ENTITY home_remote_tabs_title "ಸಿಂಕ್ ಮಾಡಿದ ಹಾಳೆಗಳು">
 
 <!ENTITY home_remote_tabs_unable_to_connect "ಸಂಪರ್ಕ ಹೊಂದಲು ಸಾಧ್ಯವಾಗಿಲ್ಲ">
+
 
 
 
@@ -428,13 +440,16 @@ size. -->
      Android plural forms, sadly. See Bug #753859. -->
 <!-- Localization note (home_remote_tabs_hidden_devices_title) : This is the
      title of a dialog; we expect more than one device. -->
+<!ENTITY home_remote_tabs_hidden_devices_title "ಅಡಗಿಸಿದ ಸಾಧನಗಳು">
 <!-- Localization note (home_remote_tabs_unhide_selected_devices) : This is
      the text of a button; we expect more than one device. -->
+<!ENTITY home_remote_tabs_unhide_selected_devices "ಆಯ್ಕೆಮಾಡಿದ ಸಾಧನಗಳನ್ನು ತೋರಿಸು">
 
 <!ENTITY private_browsing_title "ಖಾಸಗಿ ವೀಕ್ಷಣೆ">
-
+<!ENTITY private_tabs_panel_empty_desc "ನಿಮ್ಮ ಖಾಸಗಿ ಹಾಳೆಗಳು ಇಲ್ಲಿ ಕಾಣಿಸಿಕೊಳ್ಳುತ್ತವೆ. ನಾವು ನಿಮ್ಮ ಅಂತರ್ಜಾಲ ಪರಿವೀಕ್ಷಣೆಯ ಚರಿತ್ರೆ ಅಥವಾ ಕುಕೀಗಳನ್ನು ಉಳಿಸದಿದ್ದರೂ, ನೀವು ಇಳಿಸುವ ಕಡತಗಳು ಹಾಗು ಪುಟಗುರುತುಗಳು ನಿಮ್ಮ ಸಾಧನದಲ್ಲಿ ಉಳಿದು ಕೊಳ್ಳುತ್ತವೆ.">
 <!ENTITY private_tabs_panel_learn_more "ಹೆಚ್ಚಿನದನ್ನು ಕಲಿಯಬೇಕೆ?">
 
+<!ENTITY remote_tabs_panel_moved_title "ನನ್ನ ಹಾಳೆಗಳು ಎಲ್ಲಿ ಹೋದವು?">
 
 
 
@@ -511,9 +526,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY updater_apply_title2 "&brandShortName; ಕ್ಕೆ ಪರಿಷ್ಕರಣೆ ಲಭ್ಯವಿದೆ">
 <!ENTITY updater_apply_select2 "ಪರಿಷ್ಕರಿಸಲು ಸ್ಪರ್ಶಿಸಿ">
-<!-- New tablet UI -->
-<!-- LOCALIZATION NOTE (new_tablet_restart): Notification displayed after the user toggles the new tablet UI in the settings screen.-->
-
 <!-- Guest mode -->
 
 <!ENTITY new_guest_session "ಹೊಸ ಅತಿಥಿ ಅಧಿವೇಶನ">
