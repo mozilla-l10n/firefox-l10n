@@ -170,9 +170,9 @@
 <!ENTITY fxaccount_confirm_account_change_email "A bheil airson ’s gun leig sinn am post-d seo air dìochuimhne?">
 <!ENTITY fxaccount_confirm_account_verification_link_sent2 "Chaidh am post-d dearbhaidh a chur">
 <!ENTITY fxaccount_confirm_account_verification_link_not_sent2 "Cha b\u0027 urrainn dhuinn am post-d dearbhaidh a chur">
-
-
-
+<!ENTITY fxaccount_resend_unlock_code_button_label "Ath-sheòl am post-d airson a’ ghlas a thoirt dheth">
+<!ENTITY fxaccount_unlock_code_sent "Chaidh post-d airson a’ ghlas a thoirt dheth a chur">
+<!ENTITY fxaccount_unlock_code_not_sent "Cha b’ urrainn dhuinn post-d airson a’ ghlas a thoirt dheth a chur ">
 
 <!ENTITY fxaccount_sign_in_sub_header "Clàraich a-steach">
 <!ENTITY fxaccount_sign_in_button_label "Clàraich a-steach">
@@ -183,13 +183,15 @@
 <!ENTITY fxaccount_account_verified_sub_header "Chaidh an cunntas a dhearbhadh">
 <!ENTITY fxaccount_account_verified_description2 "Thèid an dàta agad a shioncronachadh a dh\u0027aithghearr.">
 
+<!ENTITY fxaccount_migration_finished_header "Deiseil leis an àrdachadh">
 
 <!ENTITY fxaccount_update_credentials_header "Clàraich a-steach">
 <!ENTITY fxaccount_update_credentials_button_label "Clàraich a-steach">
 <!ENTITY fxaccount_update_credentials_unknown_error "Cha b\u0027 urrainn dhuinn do chlàradh a-steach">
 
-
-
+<!ENTITY fxaccount_finish_migrating_header "Clàraich a-steach a choileanadh an àrdachaidh">
+<!ENTITY fxaccount_finish_migrating_button_label "Deiseil leis an àrdachadh">
+<!ENTITY fxaccount_finish_migrating_description "Feumaidh àrdachadh mòran dàta uaireannan. B’ fheairrde dhut lìonra WiFi a chleachdadh.">
 
 <!ENTITY fxaccount_status_header2 "Cunntas Firefox">
 <!ENTITY fxaccount_status_signed_in_as "Chlàraich thu a-steach mar">
@@ -204,9 +206,9 @@
 <!ENTITY fxaccount_status_needs_credentials "Cha ghabh ceangal a dhèanamh. Thoir gnogag gus clàradh a-steach.">
 <!ENTITY fxaccount_status_needs_upgrade "Feumaidh tu &brandShortName; àrdachadh mus urrainn dhut clàradh a-steach.">
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled "Chaidh &syncBrand.shortName.label; a shuidheachadh ach cha dèan e sioncronachadh gu fèin-obrachail. Toglaich “Auto-sync data” ann an Android Settings &gt; Data Usage.">
-
+<!ENTITY fxaccount_status_needs_master_sync_automatically_enabled_v21 "Chaidh &syncBrand.shortName.label; a shuidheachadh ach cha dèan e sioncronachadh gu fèin-obrachail. Toglaich “Auto-sync data” ann an Android Settings &gt; Accounts.">
 <!ENTITY fxaccount_status_needs_account_enabled "Chaidh &syncBrand.shortName.label; a shuidheachadh ach cha dèan e sioncronachadh gu fèin-obrachail. Thoir gnogag gus tòiseachadh air an t-sioncronachadh.">
-
+<!ENTITY fxaccount_status_needs_finish_migrating "Thoir gnogag airson clàradh a-steach dhan chunntas Firefox ùr agad.">
 <!ENTITY fxaccount_status_bookmarks "Comharran-lìn">
 <!ENTITY fxaccount_status_history "Eachdraidh">
 <!ENTITY fxaccount_status_passwords "Faclan-faire">
@@ -254,11 +256,14 @@
 <!ENTITY fxaccount_remote_error_SERVICE_TEMPORARILY_UNAVAILABLE_TO_DUE_HIGH_LOAD "Tha am frithealaiche trang, feuch ris a-rithist a dh\u0027aithghearr">
 <!ENTITY fxaccount_remote_error_UNKNOWN_ERROR "Bha duilgheadas ann">
 <!ENTITY fxaccount_remote_error_COULD_NOT_CONNECT "Cha ghabh ceangal a dhèanamh ris an lìonra">
-
+<!ENTITY fxaccount_remote_error_ACCOUNT_LOCKED "Tha an cunntas glaiste. &formatS1;">
 
 <!ENTITY fxaccount_sync_sign_in_error_notification_title2 "Chan eil &syncBrand.shortName.label; ceangailte">
 <!-- Localization note: the format string below will be replaced
      with the Firefox Account's email address. -->
+<!ENTITY fxaccount_sync_sign_in_error_notification_text2 "Thoirt gnogag gus clàradh a-steach mar &formatS;">
 
+<!ENTITY fxaccount_sync_finish_migrating_notification_title "A bheil thu airson àrdachadh &syncBrand.shortName.label; a choileanadh?">
 <!-- Localization note: the format string below will be replaced
      with the Firefox Account's email address. -->
+<!ENTITY fxaccount_sync_finish_migrating_notification_text "Thoirt gnogag gus clàradh a-steach mar &formatS;">
