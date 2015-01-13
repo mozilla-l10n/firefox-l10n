@@ -35,7 +35,7 @@
 <!ENTITY welcomeback2.pageInfo1     "&brandShortName; ඇරඹීමට සූදානම්.">
 
 <!ENTITY welcomeback2.label.restoreAll  "සියලු කවුළු සහ ටැබ් යළි පිහිටු වීම">
-
+<!ENTITY welcomeback2.label.restoreSome "ඔබට අවශ්‍ය දෑ පමණක් යලි පිහිටුවන්න">
 <!-- LOCALIZATION NOTE (welcomeback2.beforelink.pageInfo2,
 welcomeback2.afterlink.pageInfo2): these two string are used respectively
 before and after the the "learn more" link (welcomeback2.link.pageInfo2).
