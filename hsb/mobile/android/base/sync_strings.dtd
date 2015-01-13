@@ -170,9 +170,9 @@
 <!ENTITY fxaccount_confirm_account_change_email "Tutu e-mejlowu adresu zabyć?">
 <!ENTITY fxaccount_confirm_account_verification_link_sent2 "Přepruwowanska e-mejl je so pósłała">
 <!ENTITY fxaccount_confirm_account_verification_link_not_sent2 "Přepruwowanska e-mejl njeda so pósłać">
-
-
-
+<!ENTITY fxaccount_resend_unlock_code_button_label "E-mejlku za wotblokowanje hišće raz pósłać">
+<!ENTITY fxaccount_unlock_code_sent "E-mejlka za wotblokowanje konta je so pósłała">
+<!ENTITY fxaccount_unlock_code_not_sent "E-mejlka za wotblokowanje konta njeda so pósłać">
 
 <!ENTITY fxaccount_sign_in_sub_header "Přizjewić">
 <!ENTITY fxaccount_sign_in_button_label "Přizjewić">
@@ -183,13 +183,15 @@
 <!ENTITY fxaccount_account_verified_sub_header "Konto je přepruwowane">
 <!ENTITY fxaccount_account_verified_description2 "Waše daty budu so za mało wokomikow synchronizować.">
 
+<!ENTITY fxaccount_migration_finished_header "Aktualizacija skónčena.">
 
 <!ENTITY fxaccount_update_credentials_header "Přizjewić">
 <!ENTITY fxaccount_update_credentials_button_label "Přizjewić">
 <!ENTITY fxaccount_update_credentials_unknown_error "Přizjewjenje móžno njeje">
 
-
-
+<!ENTITY fxaccount_finish_migrating_header "Přizjewće so, zo byšće aktualizowanje dokónčił.">
+<!ENTITY fxaccount_finish_migrating_button_label "Aktualizowanje skónčić">
+<!ENTITY fxaccount_finish_migrating_description "Aktualizowanje móže wjele datow přenošować. Činiće to najlěpje we WLAN-syći.">
 
 <!ENTITY fxaccount_status_header2 "Konto Firefox">
 <!ENTITY fxaccount_status_signed_in_as "Přizjewjeny jako">
@@ -204,9 +206,9 @@
 <!ENTITY fxaccount_status_needs_credentials "Zwisk njemóžno. Podótkńće so, zo byšće so přizjewił.">
 <!ENTITY fxaccount_status_needs_upgrade "Dyrbiće &brandShortName; aktualizować, zo byšće so přizjewił.">
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled "&syncBrand.shortName.label; je připrawjeny, ale njesynchronizuje awtomatisce. Zmóžńće “Daty awtomatisce synchronizować” w Androidowych nastajenjach &gt; Wužiwanje datow.">
-
+<!ENTITY fxaccount_status_needs_master_sync_automatically_enabled_v21 "&syncBrand.shortName.label; je připrawjeny, ale njesynchronizuje awtomatisce. Zmóžńće “Daty awtomatisce synchronizować” w meniju Androidowe nastajenja a konta.">
 <!ENTITY fxaccount_status_needs_account_enabled "&syncBrand.shortName.label; je připrawjeny, ale njesynchronizuje awtomatisce. Pódótkńće so, zo byšće synchronizowanje započał.">
-
+<!ENTITY fxaccount_status_needs_finish_migrating "Podótkńće so, zo byšće so pola swojeho noweho konta Firefox přizjewił.">
 <!ENTITY fxaccount_status_bookmarks "Zapołožki">
 <!ENTITY fxaccount_status_history "Historija">
 <!ENTITY fxaccount_status_passwords "Hesła">
@@ -254,11 +256,14 @@
 <!ENTITY fxaccount_remote_error_SERVICE_TEMPORARILY_UNAVAILABLE_TO_DUE_HIGH_LOAD "Serwer je přećeženy, spytajće pozdźišo hišće raz">
 <!ENTITY fxaccount_remote_error_UNKNOWN_ERROR "Problem je wustupił">
 <!ENTITY fxaccount_remote_error_COULD_NOT_CONNECT "Zwisk ze syću móžno njeje">
-
+<!ENTITY fxaccount_remote_error_ACCOUNT_LOCKED "Konto je zawrjene. &formatS1;">
 
 <!ENTITY fxaccount_sync_sign_in_error_notification_title2 "&syncBrand.shortName.label; njeje zwjazany">
 <!-- Localization note: the format string below will be replaced
      with the Firefox Account's email address. -->
+<!ENTITY fxaccount_sync_sign_in_error_notification_text2 "Podótkńće so, zo byšće so jako &formatS; přizjewił">
 
+<!ENTITY fxaccount_sync_finish_migrating_notification_title "Aktualizowanje &syncBrand.shortName.label; skónčić?">
 <!-- Localization note: the format string below will be replaced
      with the Firefox Account's email address. -->
+<!ENTITY fxaccount_sync_finish_migrating_notification_text "Podótkńće so, zo byšće so jako &formatS; přizjewił">

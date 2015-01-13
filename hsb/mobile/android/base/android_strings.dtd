@@ -172,7 +172,8 @@
 <!ENTITY pref_cookies_not_accept_foreign "Zmóžnjeny, z wuwzaćom třećich">
 <!ENTITY pref_cookies_disabled "Znjemóžnjeny">
 
-
+<!ENTITY pref_tracking_protection_title "Slědowanski škit">
+<!ENTITY pref_tracking_protection_summary "&brandShortName; budźe slědowanju přez sydła zadźěwać">
 <!ENTITY pref_donottrack_title "Njeslědować">
 <!ENTITY pref_donottrack_summary "&brandShortName; zdźěli sydłam, zo nochceće, zo wam slěduja.">
 
@@ -430,7 +431,7 @@ size. -->
 <!ENTITY home_remote_tabs_empty "Waše rajtarki z druhich gratow so tu pokazuja.">
 <!ENTITY home_remote_tabs_unable_to_connect "Zwisk móžno njeje">
 <!ENTITY home_remote_tabs_need_to_sign_in "Prošu přizjewće so, zo byšće so znowa ze swojim kontom Firefox zwjazał a ze synchronizaciju pokročował.">
-
+<!ENTITY home_remote_tabs_need_to_finish_migrating "Waše nowe konto Firefox je hotowe!">
 
 <!ENTITY home_remote_tabs_trouble_verifying "Maće problemy při přepruwowanju swojeho konta?">
 <!ENTITY home_remote_tabs_need_to_verify "Prošu přepruwujće swoje konto Firefox, zo byšće synchronizaciju započał.">
