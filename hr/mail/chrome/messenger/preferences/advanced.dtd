@@ -16,6 +16,8 @@
 <!ENTITY enableGlodaSearch.label       "Omogući globalno pretraživanje i indeksiranje">
 <!ENTITY enableGlodaSearch.accesskey   "e">
 
+
+
 <!ENTITY scrolling.label               "Klizanje">
 <!ENTITY useAutoScroll.label           "Koristi automatsko klizanje">
 <!ENTITY useAutoScroll.accesskey       "t">

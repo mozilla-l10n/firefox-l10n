@@ -24,6 +24,8 @@
 <!ENTITY contextBeforeCls.label "Filtriraj prije označavanja neželjene pošte">
 <!ENTITY contextAfterCls.label "Filtriraj nakon označavanja neželjene pošte">
 
+
+
 <!ENTITY filterActionDesc.label "Provedi ove radnje:">
 <!ENTITY filterActionDesc.accesskey "P">
 

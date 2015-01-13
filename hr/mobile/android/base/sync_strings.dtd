@@ -167,8 +167,17 @@
 
 
 
+
+
+
+
+
+
+
 <!ENTITY fxaccount_status_sync "&syncBrand.shortName.label;">
 <!ENTITY fxaccount_status_sync_enabled "&syncBrand.shortName.label;: omogućeno">
+
+
 
 
 
@@ -211,6 +220,10 @@
 
 
 
+
+
+<!-- Localization note: the format string below will be replaced
+     with the Firefox Account's email address. -->
 
 <!-- Localization note: the format string below will be replaced
      with the Firefox Account's email address. -->

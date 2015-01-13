@@ -114,6 +114,8 @@
 <!ENTITY prefs_general_title "Općenito">
 <!ENTITY prefs_restore "Vrati zadano">
 <!ENTITY prefs_manage_components "Upravljanje dodatnim komponentama">
+
+
 <!ENTITY prefs_options_rememberlastproject "Zapamti zadnji projekt">
 <!ENTITY prefs_options_rememberlastproject_tooltip "Vrati prijašnji projekt kad se WebIDE pokrene">
 <!ENTITY prefs_options_templatesurl "URL predložaka">

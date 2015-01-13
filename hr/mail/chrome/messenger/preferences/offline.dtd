@@ -4,13 +4,16 @@
 
 <!ENTITY offlineDialog.title "Izvanmrežne postavke">
 
-<!ENTITY textStartUp "Prilikom pokretanja:">
+
+
 <!ENTITY radioRememberPrevState.label "Sjeti se zadnjeg on-line stanja">
 <!ENTITY radioRememberPrevState.accesskey "S">
-<!ENTITY radioAskMe.label "Upitaj za on-line stanje prilikom pokretanja">
-<!ENTITY radioAskMe.accesskey "U">
-<!ENTITY radioAlwaysOnline.label "Uvijek pokreni u on-line stanju">
-<!ENTITY radioAlwaysOnline.accesskey "l">
+
+
+
+
+
+
 
 <!ENTITY textGoingOnline "Poslati neposlane poruke prilikom spajanja on-line?">
 <!ENTITY radioAutoSend.label "Da">
