@@ -117,7 +117,7 @@
 
 <!ENTITY pref_category_search3 "Iskanje">
 <!ENTITY pref_category_search_summary "Prilagodite svoje iskalnike">
-<!ENTITY pref_category_display "Prikaži">
+<!ENTITY pref_category_display "Prikaz">
 <!ENTITY pref_category_display_summary "Besedilo, naslovna vrstica, celozaslonsko brskanje">
 <!ENTITY pref_category_privacy_short "Zasebnost">
 <!ENTITY pref_category_privacy_summary "Nadzor gesel, piškotkov, sledenja, podatkov">
@@ -160,7 +160,7 @@
 
 <!-- Localization note: These are shown in the left sidebar on tablets -->
 <!ENTITY pref_header_customize "Po meri">
-<!ENTITY pref_header_display "Prikaži">
+<!ENTITY pref_header_display "Prikaz">
 <!ENTITY pref_header_privacy_short "Zasebnost">
 <!ENTITY pref_header_help "Pomoč">
 <!ENTITY pref_header_language "Jezik">
