@@ -171,8 +171,8 @@
 <!ENTITY fxaccount_confirm_account_verification_link_sent2 "Anfonwyd yr e-bost dilysu">
 <!ENTITY fxaccount_confirm_account_verification_link_not_sent2 "Methu anfon yr e-bost dilysu">
 <!ENTITY fxaccount_resend_unlock_code_button_label "Ail-anfon e-bost datgloi">
-
-
+<!ENTITY fxaccount_unlock_code_sent "Anfonwyd e-bost datgloi\u0027r cyfrif">
+<!ENTITY fxaccount_unlock_code_not_sent "Methwyd anfon e-bost datgloi\u0027r cyfrif">
 
 <!ENTITY fxaccount_sign_in_sub_header "Mewngofnodi">
 <!ENTITY fxaccount_sign_in_button_label "Mewngofnodi">
@@ -183,13 +183,15 @@
 <!ENTITY fxaccount_account_verified_sub_header "Gwiriwyd y cyfrif">
 <!ENTITY fxaccount_account_verified_description2 "Bydd eich data\u0027n cael ei gydweddu ymhen eiliad.">
 
+<!ENTITY fxaccount_migration_finished_header "Gorffennwyd y diweddariad">
 
 <!ENTITY fxaccount_update_credentials_header "Mewngofnodi">
 <!ENTITY fxaccount_update_credentials_button_label "Mewngofnodi">
 <!ENTITY fxaccount_update_credentials_unknown_error "Methu mewngofnodi">
 
-
-
+<!ENTITY fxaccount_finish_migrating_header "Mewngofnodwch i orffen diweddaru">
+<!ENTITY fxaccount_finish_migrating_button_label "Wedi gorffen diweddaru">
+<!ENTITY fxaccount_finish_migrating_description "Gall diweddaru drosglwyddo lot o ddata. Mae\u0027n well gwneud ar rwydwaith diwyfr.">
 
 <!ENTITY fxaccount_status_header2 "Cyfrif Firefox">
 <!ENTITY fxaccount_status_signed_in_as "Mewngofnodwyd fel">
@@ -204,9 +206,9 @@
 <!ENTITY fxaccount_status_needs_credentials "Methu cysylltu. Tapiwch i fewngofnodi.">
 <!ENTITY fxaccount_status_needs_upgrade "Rhaid diweddaru &brandShortName; i fewngofnodi.">
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled "Mae &syncBrand.shortName.label; wedi ei osod ond nid yw\u0027n cydweddu\u0027n awtomatig. Gosodiadau Android “Awto-gydweddu data” &gt; Defnydd Data.">
-
+<!ENTITY fxaccount_status_needs_master_sync_automatically_enabled_v21 "Mae &syncBrand.shortName.label; wedi ei osod ond nid yw\u0027n cydweddu\u0027n awtomatig. Toglwch “Awto-gydweddu data” yn newislen Android Settings &gt; Accounts.">
 <!ENTITY fxaccount_status_needs_account_enabled "Mae &syncBrand.shortName.label; wedi ei osod ond nid yw\u0027n cydweddu\u0027n awtomatig. Tapiwch i gychwyn cydweddu.">
-
+<!ENTITY fxaccount_status_needs_finish_migrating "Tapiwch i fewngofnodi i\u0027ch Cyfrif Firefox newydd.">
 <!ENTITY fxaccount_status_bookmarks "Nodau Tudalen">
 <!ENTITY fxaccount_status_history "Hanes">
 <!ENTITY fxaccount_status_passwords "Cyfrineiriau">
@@ -254,11 +256,14 @@
 <!ENTITY fxaccount_remote_error_SERVICE_TEMPORARILY_UNAVAILABLE_TO_DUE_HIGH_LOAD "Gweinydd yn brysur, ceisiwch eto">
 <!ENTITY fxaccount_remote_error_UNKNOWN_ERROR "Bu anhawster">
 <!ENTITY fxaccount_remote_error_COULD_NOT_CONNECT "Methu cysylltu â\u0027r rhwydwaith">
-
+<!ENTITY fxaccount_remote_error_ACCOUNT_LOCKED "Mae\u0027r cyfrif wedi ei gloi. &formatS1;">
 
 <!ENTITY fxaccount_sync_sign_in_error_notification_title2 "Nid yw &syncBrand.shortName.label; wedi ei gysylltu">
 <!-- Localization note: the format string below will be replaced
      with the Firefox Account's email address. -->
+<!ENTITY fxaccount_sync_sign_in_error_notification_text2 "Tapiwch i fewngofnodi fel &formatS;">
 
+<!ENTITY fxaccount_sync_finish_migrating_notification_title "Gorffen diweddaru &syncBrand.shortName.label;?">
 <!-- Localization note: the format string below will be replaced
      with the Firefox Account's email address. -->
+<!ENTITY fxaccount_sync_finish_migrating_notification_text "Tapiwch i fewngofnodi fel &formatS;">
