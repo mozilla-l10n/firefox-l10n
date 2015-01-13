@@ -14,8 +14,8 @@
 <!ENTITY pref.dateformat.short "Byr"  >
 
 <!ENTITY pref.timezones.caption "Cylch Amser">
-
-
+<!ENTITY pref.timezones.label "Dewiswch y ddinas agosaf yn eich cylch amser:">
+<!ENTITY pref.timezones.accesskey "D">
 
 <!ENTITY pref.defaults.label "Gwerthoedd Rhagosodedig ar gyfer Eitemau Newydd">
 <!ENTITY pref.events.label "Digwyddiadau">
