@@ -172,6 +172,7 @@
 <!ENTITY pref_cookies_not_accept_foreign "An comas, as aonais feadhainn o threas-phàrtaidh">
 <!ENTITY pref_cookies_disabled "À comas">
 
+
 <!ENTITY pref_donottrack_title "Na tracaich">
 <!ENTITY pref_donottrack_summary "Innsidh &brandShortName; do làraichean nach eil thu ag iarraidh gun tracaich iad thu">
 
@@ -429,6 +430,8 @@ size. -->
 <!ENTITY home_remote_tabs_empty "Nochdaidh na tabaichean a tha agad air uidheaman eile an-seo.">
 <!ENTITY home_remote_tabs_unable_to_connect "Cha ghabh ceangal a dhèanamh ris">
 <!ENTITY home_remote_tabs_need_to_sign_in "Clàraich a-steach airson an cunntas Firefox agad ath-cheangal is leantainn air adhart leis an t-sioncronachadh.">
+
+
 <!ENTITY home_remote_tabs_trouble_verifying "Duilgheadas le dearbhadh a\u0027 chunntais agad?">
 <!ENTITY home_remote_tabs_need_to_verify "Dearbh an cunntas Firefox agad gus tòiseachadh air sioncronachadh.">
 
@@ -528,12 +531,6 @@ o Android">
 
 <!ENTITY updater_apply_title2 "Tha ùrachadh ri fhaighinn airson &brandShortName;">
 <!ENTITY updater_apply_select2 "Suath ris gus ùrachadh">
-<!-- New tablet UI -->
-<!-- LOCALIZATION NOTE (new_tablet_restart): Notification displayed after the user toggles the new tablet UI in the settings screen.-->
-
-
-<!ENTITY new_tablet_restart "Ath-thòisich am brabhsair gus na dh\u0027atharraich thu a chur an gnìomh">
-<!ENTITY new_tablet_pref "Cuir an comas UI ùr na tablaide">
 <!-- Guest mode -->
 
 <!ENTITY new_guest_session "Seisean aoigheachd ùr">

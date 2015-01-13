@@ -16,6 +16,8 @@
 <!ENTITY enableGlodaSearch.label       "Cuir an lorg is an clàr-innsiche uile-choitcheann an comas">
 <!ENTITY enableGlodaSearch.accesskey   "e">
 
+
+
 <!ENTITY scrolling.label               "Sgroladh">
 <!ENTITY useAutoScroll.label           "Cleachd fèin-sgroladh">
 <!ENTITY useAutoScroll.accesskey       "o">

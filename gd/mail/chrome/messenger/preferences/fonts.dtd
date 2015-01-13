@@ -3,9 +3,6 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY  fontsAndEncodingsDialog.title           "Cruthan-clò ⁊ còdachaidhean">
-<!ENTITY  window.width                            "45em">
-<!ENTITY  window.macWidth                         "48em">
-<!ENTITY  window.unixWidth                        "49em">
 
 <!ENTITY  language.label                          "Cruthan-clò airson:">
 <!ENTITY  language.accesskey                      "t">

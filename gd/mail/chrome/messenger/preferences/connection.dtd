@@ -3,7 +3,6 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY  connectionsDialog.title       "Roghainnean ceangail">
-<!ENTITY  window.width                   "45em">
 
 <!ENTITY  proxyTitle.label              "Rèitich progsaidhean a chum inntrigeadh dhan lìon">
 <!ENTITY  noProxyTypeRadio.label        "Gun phrogsaidh">

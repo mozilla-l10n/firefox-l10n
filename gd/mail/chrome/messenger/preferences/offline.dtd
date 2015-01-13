@@ -4,13 +4,16 @@
 
 <!ENTITY offlineDialog.title "Na roghainnean airson obrachadh far loidhne">
 
-<!ENTITY textStartUp "Nuair a thòisicheas e:">
+
+
 <!ENTITY radioRememberPrevState.label "Cuimhnich mo roghainn air loidhne/far loidhne roimhe">
 <!ENTITY radioRememberPrevState.accesskey "r">
-<!ENTITY radioAskMe.label "Faighnich dhìom dè mo roghainn air loidhne/far loidhne aig an toiseach">
-<!ENTITY radioAskMe.accesskey "F">
-<!ENTITY radioAlwaysOnline.label "Tòisich air loidhne an-còmhnaidh">
-<!ENTITY radioAlwaysOnline.accesskey "l">
+
+
+
+
+
+
 
 <!ENTITY textGoingOnline "An cuirear na teachdaireachdan nach deach an cur roimhe nuair a thèid thu air loidhne?">
 <!ENTITY radioAutoSend.label "Cuiridh">

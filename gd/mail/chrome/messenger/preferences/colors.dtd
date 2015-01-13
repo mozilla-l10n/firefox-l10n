@@ -6,8 +6,11 @@
 <!ENTITY  window.width                    "45em">
 <!ENTITY  window.macWidth                 "50em">
 
-<!ENTITY  allowPagesToUse.label           "Leig le susbaint na dathan aice fhèin a thaghadh seach na thagh mi gu h-àrd">
-<!ENTITY  allowPagesToUse.accesskey       "L">
+
+
+<!ENTITY  overridePageColors.always.label "An-còmhnaidh">
+
+<!ENTITY  overridePageColors.never.label  "Chan ann idir">
 
 <!ENTITY  color                           "Teacsa is cùlaibh">
 <!ENTITY  textColor.label                 "Teacsa:">

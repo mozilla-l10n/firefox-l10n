@@ -306,6 +306,7 @@
 <!ENTITY event.recurrence.pattern.yearly.week.5.label        "DiarDaoin" >
 <!ENTITY event.recurrence.pattern.yearly.week.6.label        "DihAoine" >
 <!ENTITY event.recurrence.pattern.yearly.week.7.label        "DiSathairne" >
+<!ENTITY event.recurrence.pattern.yearly.day.label           "latha" >
 <!ENTITY event.recurrence.of.label                           "a-mach à" >
 <!ENTITY event.recurrence.pattern.yearly.month2.1.label      "Faoilleach" >
 <!ENTITY event.recurrence.pattern.yearly.month2.2.label      "Gearran" >
