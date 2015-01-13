@@ -23,8 +23,8 @@
 <!ENTITY contextManual.accesskey "L">
 <!ENTITY contextBeforeCls.label "Hidlo cyn Dynodi fel Sbam">
 <!ENTITY contextAfterCls.label "Hidlo wedi Dynodi fel Sbam">
-
-
+<!ENTITY contextOutgoing.label "Ar ôl Anfon">
+<!ENTITY contextOutgoing.accesskey "A">
 
 <!ENTITY filterActionDesc.label "Cyflawni'r gweithredoedd:">
 <!ENTITY filterActionDesc.accesskey "C">
