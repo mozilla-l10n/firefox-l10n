@@ -15,8 +15,8 @@
 <!ENTITY telemetryInfoLink.label       "Rhagor o wybodaeth am Delemetreg">
 <!ENTITY enableGlodaSearch.label       "Galluogi Chwilio a Mynegeio Eang">
 <!ENTITY enableGlodaSearch.accesskey   "G">
-
-
+<!ENTITY allowHWAccel.label            "Defnyddio cyflymu caledwedd pan fydd ar gael">
+<!ENTITY allowHWAccel.accesskey        "y">
 
 <!ENTITY scrolling.label               "Sgrolio">
 <!ENTITY useAutoScroll.label           "Defnyddio awto sgrolio">

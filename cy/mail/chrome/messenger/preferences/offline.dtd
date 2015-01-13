@@ -4,16 +4,17 @@
 
 <!ENTITY offlineDialog.title "Gosodiadau All-lein">
 
-
-
+<!ENTITY checkAutoDetect.label "Dilyn y cyflwr ar-lein canfuwyd, yn awtomatig">
+<!ENTITY checkAutoDetect.accesskey "c">
+<!ENTITY titleStartUp "Cyflwr â llaw wrth gychwyn:">
 <!ENTITY radioRememberPrevState.label "Cofio'r cyflwr ar-lein diwethaf">
 <!ENTITY radioRememberPrevState.accesskey "o">
-
-
-
-
-
-
+<!ENTITY radioAskState.label "Gofyn i mi am y cyflwr ar-lein">
+<!ENTITY radioAskState.accesskey "G">
+<!ENTITY radioAlwaysOnline.label "Ar-lein">
+<!ENTITY radioAlwaysOnline.accesskey "r">
+<!ENTITY radioAlwaysOffline.label "All-lein">
+<!ENTITY radioAlwaysOffline.accesskey "l">
 
 <!ENTITY textGoingOnline "Anfon negeseuon sydd heb eu hanfon wrth fynd ar-lein?">
 <!ENTITY radioAutoSend.label "Iawn">
