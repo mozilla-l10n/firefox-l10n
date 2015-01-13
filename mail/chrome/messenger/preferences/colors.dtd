@@ -6,8 +6,11 @@
 <!ENTITY  window.width                    "38em">
 <!ENTITY  window.macWidth                 "41em">
 
-<!ENTITY  allowPagesToUse.label           "Dozvoli sadržaju da bira svoje boje umjesto mojih odabira iznad">
-<!ENTITY  allowPagesToUse.accesskey       "a">
+
+
+<!ENTITY  overridePageColors.always.label "Uvijek">
+
+<!ENTITY  overridePageColors.never.label  "Nikada">
 
 <!ENTITY  color                           "Tekst i pozadina">
 <!ENTITY  textColor.label                 "Tekst:">

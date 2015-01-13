@@ -165,6 +165,8 @@
 
 
 
+
+
 <!ENTITY pref_char_encoding "Kodna stranica">
 <!ENTITY pref_char_encoding_on "Prikaži izbornik">
 <!ENTITY pref_char_encoding_off "Ne prikazuj izbornik">
@@ -401,6 +403,7 @@ size. -->
 
 
 
+
 <!-- Localization note (home_remote_tabs_many_hidden_devices) : The
      formatD is replaced with the number of hidden devices.  The
      number of hidden devices is always more than one.  We can't use
@@ -468,9 +471,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 
 
-
-<!-- New tablet UI -->
-<!-- LOCALIZATION NOTE (new_tablet_restart): Notification displayed after the user toggles the new tablet UI in the settings screen.-->
 
 <!-- Guest mode -->
 

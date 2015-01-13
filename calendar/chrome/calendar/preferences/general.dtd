@@ -13,6 +13,10 @@
 <!ENTITY pref.dateformat.long "Dugi" >
 <!ENTITY pref.dateformat.short "Kratki"  >
 
+<!ENTITY pref.timezones.caption "Vremenska zona">
+
+
+
 <!ENTITY pref.defaults.label "Zadane vrijednosti za nove stavke">
 <!ENTITY pref.events.label "Događaji">
 <!ENTITY pref.tasks.label "Zadaci">
