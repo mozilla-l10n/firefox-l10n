@@ -171,6 +171,9 @@
 <!ENTITY fxaccount_confirm_account_verification_link_sent2 "Correo de verificación enviado">
 <!ENTITY fxaccount_confirm_account_verification_link_not_sent2 "No se pudo enviar el correo de verificación">
 
+
+
+
 <!ENTITY fxaccount_sign_in_sub_header "Iniciar sesión">
 <!ENTITY fxaccount_sign_in_button_label "Iniciar sesión">
 <!ENTITY fxaccount_sign_in_forgot_password "¿Olvidaste tu contraseña?">
@@ -180,9 +183,13 @@
 <!ENTITY fxaccount_account_verified_sub_header "Cuenta verificada">
 <!ENTITY fxaccount_account_verified_description2 "Tus datos comenzarán a sincronizarse en unos momentos.">
 
+
 <!ENTITY fxaccount_update_credentials_header "Iniciar sesión">
 <!ENTITY fxaccount_update_credentials_button_label "Iniciar sesión">
 <!ENTITY fxaccount_update_credentials_unknown_error "No se pudo iniciar sesión">
+
+
+
 
 <!ENTITY fxaccount_status_header2 "Cuenta de Firefox">
 <!ENTITY fxaccount_status_signed_in_as "Conectado como">
@@ -197,7 +204,9 @@
 <!ENTITY fxaccount_status_needs_credentials "No se puede conectar. Toca para iniciar sesión.">
 <!ENTITY fxaccount_status_needs_upgrade "Necesitas actualizar &brandShortName; para iniciar sesión.">
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled "&syncBrand.shortName.label; está configurado, pero no está sincronizado automáticamente. Marca \&quot;sincronizar datos automáticamente\&quot; en la configuración de Android &gt; Uso de datos.">
+
 <!ENTITY fxaccount_status_needs_account_enabled "&syncBrand.shortName.label; está configurado, pero no está sincronizado automáticamente. Presiona para iniciar la sincronización.">
+
 <!ENTITY fxaccount_status_bookmarks "Marcadores">
 <!ENTITY fxaccount_status_history "Historial">
 <!ENTITY fxaccount_status_passwords "Contraseñas">
@@ -246,7 +255,10 @@
 <!ENTITY fxaccount_remote_error_UNKNOWN_ERROR "Ha sucedido un problema">
 <!ENTITY fxaccount_remote_error_COULD_NOT_CONNECT "No se puede conectar a la red">
 
+
 <!ENTITY fxaccount_sync_sign_in_error_notification_title2 "&syncBrand.shortName.label; no está conectado">
 <!-- Localization note: the format string below will be replaced
      with the Firefox Account's email address. -->
-<!ENTITY fxaccount_sync_sign_in_error_notification_text2 "Toca para iniciar sesión como &formatS;">
+
+<!-- Localization note: the format string below will be replaced
+     with the Firefox Account's email address. -->
