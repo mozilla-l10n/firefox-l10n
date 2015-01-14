@@ -13,6 +13,10 @@
 <!ENTITY pref.dateformat.long "Langt">
 <!ENTITY pref.dateformat.short "Kort">
 
+<!ENTITY pref.timezones.caption "Tidszone">
+<!ENTITY pref.timezones.label "Vælg den nærmeste by i din tidszone:">
+<!ENTITY pref.timezones.accesskey "V">
+
 <!ENTITY pref.defaults.label "Forvalgte værdier for nye elementer">
 <!ENTITY pref.events.label "Begivenheder">
 <!ENTITY pref.tasks.label "Opgaver">
