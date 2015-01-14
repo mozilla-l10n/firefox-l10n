@@ -24,6 +24,8 @@
 <!ENTITY contextManual.accesskey "M">
 <!ENTITY contextBeforeCls.label "Filtrovať pred klasifikáciou nevyžiadanej pošty">
 <!ENTITY contextAfterCls.label "Filtrovať po klasifikácii nevyžiadanej pošty">
+<!ENTITY contextOutgoing.label "Po odoslaní">
+<!ENTITY contextOutgoing.accesskey "d">
 
 <!ENTITY filterActionDesc.label "Vykonať tieto akcie:">
 <!ENTITY filterActionDesc.accesskey "V">

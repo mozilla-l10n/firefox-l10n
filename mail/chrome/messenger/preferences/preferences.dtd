@@ -4,8 +4,9 @@
 
 <!ENTITY prefWindow.titleWin      "Možnosti">
 <!ENTITY prefWindow.titleGNOME    "Možnosti &brandShortName;u">
+<!ENTITY  prefWindow.titleMAC     "Možnosti">
 <!ENTITY prefWindow.styleWindows  "width: 48em; min-height: 38.5em;">
-<!ENTITY prefWindow.styleMac      "width: 50em;">
+<!ENTITY prefWindow.styleMac      "width: 52em;">
 <!ENTITY prefWindow.styleGNOME    "width: 48em; min-height: 39em;">
 
 <!ENTITY paneGeneral.title        "Všeobecné">
