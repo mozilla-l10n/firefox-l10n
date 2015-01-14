@@ -162,8 +162,8 @@
 </ul>
 ">
 
-<!ENTITY cspFrameAncestorBlocked.title "Satura drošības politikas ierobežojums">
-<!ENTITY cspFrameAncestorBlocked.longDesc "<p>&brandShortName; liedza šīs lapas ielādi, jo tā neatbilst satura drošības politikai.</p>">
+<!ENTITY cspBlocked.title "Satura drošības politikas ierobežojums">
+<!ENTITY cspBlocked.longDesc "<p>&brandShortName; liedza šīs lapas ielādi, jo tā neatbilst satura drošības politikai.</p>">
 
 <!ENTITY corruptedContentError.title "Bojāta satura kļūda">
 <!ENTITY corruptedContentError.longDesc "<p>Lapu, ko mēģināt aplūkot, nevar attēlot, jo notikusi kļūda datu ielādes laikā.</p><ul><li>Lūdzu, pastāstiet par šo problēmu vietnes īpašniekiem.</li></ul>">
