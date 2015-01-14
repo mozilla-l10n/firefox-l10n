@@ -4,13 +4,17 @@
 
 <!ENTITY offlineDialog.title "Offline-indstillinger">
 
-<!ENTITY textStartUp "Ved opstart:">
+<!ENTITY checkAutoDetect.label "Brug automatisk den konstaterede online-tilstand">
+<!ENTITY checkAutoDetect.accesskey "B">
+<!ENTITY titleStartUp "Tilstand ved opstart:">
 <!ENTITY radioRememberPrevState.label "Husk sidste online-status">
 <!ENTITY radioRememberPrevState.accesskey "H">
-<!ENTITY radioAskMe.label "Spørg mig efter online-status ved opstart">
-<!ENTITY radioAskMe.accesskey "m">
+<!ENTITY radioAskState.label "Spørg mig efter online-status">
+<!ENTITY radioAskState.accesskey "m">
 <!ENTITY radioAlwaysOnline.label "Start altid online">
 <!ENTITY radioAlwaysOnline.accesskey "o">
+<!ENTITY radioAlwaysOffline.label "Start altid offline">
+<!ENTITY radioAlwaysOffline.accesskey "f">
 
 <!ENTITY textGoingOnline "Send meddelelser i Udbakke, når jeg går online?">
 <!ENTITY radioAutoSend.label "Ja">

@@ -3,9 +3,6 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY fontsAndEncodingsDialog.title            "Skrifttyper &amp; tegnkodning">
-<!ENTITY window.width                             "39em">
-<!ENTITY window.macWidth                          "43em">
-<!ENTITY window.unixWidth                         "41em">
 
 <!ENTITY language.label                           "Skrifttyper for:">
 <!ENTITY language.accesskey                       "f">

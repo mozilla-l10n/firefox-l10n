@@ -4,6 +4,7 @@
 
 <!ENTITY prefWindow.titleWin "Indstillinger">
 <!ENTITY prefWindow.titleGNOME "&brandShortName;-Indstillinger">
+<!ENTITY  prefWindow.titleMAC     "Indstillinger">
 <!ENTITY  prefWindow.styleWindows "width: 48em; min-height: 38.5em;">
 <!ENTITY prefWindow.styleMac "width: 55em;">
 <!ENTITY prefWindow.styleGNOME   "width: 55em; min-height: 38em;">
@@ -16,4 +17,3 @@
 <!ENTITY panePrivacy.title        "Privatliv">
 <!ENTITY paneSecurity.title "Sikkerhed">
 <!ENTITY paneAdvanced.title "Avanceret">
-
