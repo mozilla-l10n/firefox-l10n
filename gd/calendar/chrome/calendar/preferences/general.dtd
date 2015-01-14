@@ -14,8 +14,8 @@
 <!ENTITY pref.dateformat.short "Goirid"  >
 
 <!ENTITY pref.timezones.caption "An roinn-tìde">
-
-
+<!ENTITY pref.timezones.label "Tagh am baile as fhaisge ort 'nad roinn-tìde:">
+<!ENTITY pref.timezones.accesskey "s">
 
 <!ENTITY pref.defaults.label "Luachan bunaiteach airson nithean ùra">
 <!ENTITY pref.events.label "Tachartasan">
