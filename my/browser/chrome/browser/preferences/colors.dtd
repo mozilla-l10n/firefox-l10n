@@ -6,8 +6,11 @@
 <!ENTITY  window.width                    "38em">
 <!ENTITY  window.macWidth                 "41em">
 
-<!ENTITY  allowPagesToUse.label           "Aကျွန်ုပ် ရွေးချယ်မှုများအစား‌ သူတို့ ကိုယ်ပိုင် အရောင်များ ရွေးဖို့ စာမျက်နှာများကို ခွင့်ပြုပါ">
-<!ENTITY  allowPagesToUse.accesskey       "A">
+
+
+<!ENTITY  overridePageColors.always.label "အစဉ်အမြဲ">
+
+<!ENTITY  overridePageColors.never.label  "ဘယ်တော့မှ">
 
 <!ENTITY  color                           "စာသားနဲ့ နောက်ခံ">
 <!ENTITY  textColor.label                 "Tစာသား|">

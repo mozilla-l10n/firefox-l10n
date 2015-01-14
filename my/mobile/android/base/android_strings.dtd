@@ -68,15 +68,17 @@
      We can't use android plural forms, sadly. See bug #753859. -->
 <!ENTITY num_tabs2 "&formatD; တပ်ဗ်များ">
 <!ENTITY new_tab_opened "စာအမှတ်အသစ် ဖွင့်ပြီး">
-
+<!ENTITY new_private_tab_opened "တစ်ကိုယ်ရေသုံး တပ်ဗ်တစ်ခုဖွင့်ထားပြီး">
 <!-- Localization note (switch_button_message): This string should be as short
      as possible because it's shown as a label in a toast.  Ideally, this string
      is upper-case, to match Google and Android's convention. -->
+<!ENTITY switch_button_message "ပြောင်း">
 
-
-
-
-
+<!ENTITY settings "အပြင်အဆင်">
+<!ENTITY settings_title "အပြင်အဆင်">
+<!ENTITY pref_category_advanced "အဆင့်မြင့်">
+<!ENTITY pref_category_customize "ပြုပြင်မည်">
+<!ENTITY pref_category_customize_summary "ပင်မ, ရှာဖွေရေး, တပ်ဗ်များ, သွင်းယူ">
 <!-- Localization note (pref_category_language) : This is the preferences
      section in which the user picks the locale in which to display Firefox
      UI. The locale includes both language and region concepts. -->
@@ -150,6 +152,8 @@
 
 
 <!ENTITY pref_cookies_menu "ကွတ်ကီးများ">
+
+
 
 
 
@@ -363,6 +367,7 @@ size. -->
 
 
 
+
 <!-- Localization note (home_remote_tabs_many_hidden_devices) : The
      formatD is replaced with the number of hidden devices.  The
      number of hidden devices is always more than one.  We can't use
@@ -434,9 +439,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 
 
-
-<!-- New tablet UI -->
-<!-- LOCALIZATION NOTE (new_tablet_restart): Notification displayed after the user toggles the new tablet UI in the settings screen.-->
 
 <!-- Guest mode -->
 

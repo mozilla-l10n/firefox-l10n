@@ -24,7 +24,5 @@
 <!-- LOCALIZATION NOTE (paneSync.title): This should match syncBrand.shortName.label in ../syncBrand.dtd -->
 
 <!ENTITY  paneSync.title          "ထပ်တူပြုပြိုင်တူအသုံးပြုခြင်း">
-<!ENTITY  buttonForward.tooltip   "ရှေ့ တမျက်နှာ သွားပါ">
-<!ENTITY  buttonBack.tooltip      "နောက် တမျက်နှာ သွားပါ">
 
 <!ENTITY  helpButton.label        "အကူအညီ">

@@ -7,11 +7,12 @@
 <!ENTITY     cookiesonsystem.label          "သင့်ကွန်ပျူတာထဲမှာ အောက်ပါ ကွတ်ကီးများကို သိုထားတယ်၊">
 <!ENTITY     cookiename.label               "ကွတ်ကီး အမည်">
 <!ENTITY     cookiedomain.label             "ကွန်ရက်"> 
-<!ENTITY     button.removecookies.label     "ကွတ်ကီးများကို ဖယ်ထုတ်ပါ">
-<!ENTITY     button.removecookie.label      "Rကွတ်ကီးဖျက်ပါ">
-<!ENTITY     button.removecookie.accesskey  "R">
-<!ENTITY     button.removeallcookies.label  "Aကွတ်ကီးများ အားလုံးကို ဖယ်ရှားပါ">
-<!ENTITY     button.removeallcookies.accesskey "A">
+<!-- LOCALIZATION NOTE (button.removeSelectedCookies.accesskey):
+  The label associated with this accesskey can be found in 
+  preferences.properties as removeSelectedCookies.
+-->
+<!ENTITY     button.removeAllCookies.label "Aအားလုံးဖယ်">
+<!ENTITY     button.removeAllCookies.accesskey "A">
 
 <!ENTITY     props.name.label               "အမည်၊">
 <!ENTITY     props.value.label              "အကြောင်းအရာ၊">
