@@ -427,7 +427,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
   -  shortcut keys on Linux. -->
 <!ENTITY bookmarksGtkCmd.commandkey "o">
 <!ENTITY bookmarksWinCmd.commandkey "i">
-<!ENTITY bookmarksCmd.commandkey "g">
+<!ENTITY bookmarksCmd.commandkey "b">
 <!ENTITY tabView.commandkey           "e">
 <!ENTITY devAppMgrMenu.label               "Aplikāciju pārvaldnieks">
 <!ENTITY devAppMgrMenu.accesskey           "a">
