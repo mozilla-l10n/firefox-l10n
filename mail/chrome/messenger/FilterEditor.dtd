@@ -23,6 +23,8 @@
 <!ENTITY contextManual.accesskey "M">
 <!ENTITY contextBeforeCls.label "Filtrera innan skräppostklassificering">
 <!ENTITY contextAfterCls.label "Filtrera efter skräppostklassificering">
+<!ENTITY contextOutgoing.label "Efter att ha skickat">
+<!ENTITY contextOutgoing.accesskey "s">
 
 <!ENTITY filterActionDesc.label "Utför dessa åtgärder:">
 <!ENTITY filterActionDesc.accesskey "t">

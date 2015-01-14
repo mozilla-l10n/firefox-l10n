@@ -3,9 +3,6 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY  fontsAndEncodingsDialog.title           "Teckensnitt &amp; teckenuppsättningar">
-<!ENTITY  window.width                            "39em">
-<!ENTITY  window.macWidth                         "43em">
-<!ENTITY  window.unixWidth                        "41em">
 
 <!ENTITY  language.label                          "Teckensnitt för:">
 <!ENTITY  language.accesskey                      "c">

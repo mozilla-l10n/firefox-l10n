@@ -15,6 +15,8 @@
 <!ENTITY telemetryInfoLink.label       "Mer information om Telemetry">
 <!ENTITY enableGlodaSearch.label       "Aktivera global sökning och indexering">
 <!ENTITY enableGlodaSearch.accesskey   "A">
+<!ENTITY allowHWAccel.label            "Använd hårdvaruacceleration när det finns">
+<!ENTITY allowHWAccel.accesskey        "h">
 
 <!ENTITY scrolling.label               "Scrollning">
 <!ENTITY useAutoScroll.label           "Använd automatisk scrollning">

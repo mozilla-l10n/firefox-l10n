@@ -6,6 +6,13 @@
 <!ENTITY  window.width                    "38em">
 <!ENTITY  window.macWidth                 "41em">
 
+<!ENTITY  overridePageColors.label        "Överskrid färgerna som specificeras av innehållet med inställningarna ovan:">
+<!ENTITY  overridePageColors.accesskey    "v">
+
+<!ENTITY  overridePageColors.always.label "Alltid">
+<!ENTITY  overridePageColors.auto.label   "Endast med teman med hög kontrast">
+<!ENTITY  overridePageColors.never.label  "Aldrig">
+
 <!ENTITY  allowPagesToUse.label           "Låt innehåll välja sina egna färger, istället för ovanstående val">
 <!ENTITY  allowPagesToUse.accesskey       "l">
 
