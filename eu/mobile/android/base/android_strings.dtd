@@ -172,6 +172,7 @@
 <!ENTITY pref_cookies_not_accept_foreign "Gaituta, hirugarrenenak salbu">
 <!ENTITY pref_cookies_disabled "Desgaituta">
 
+
 <!ENTITY pref_donottrack_title "Do Not Track">
 <!ENTITY pref_donottrack_summary "Zure jarraipenik ez egiteko esango die guneei &brandShortName;(e)k">
 
@@ -429,6 +430,8 @@ size. -->
 <!ENTITY home_remote_tabs_empty "Zure beste gailuetako fitxak hemen erakusten dira.">
 <!ENTITY home_remote_tabs_unable_to_connect "Ezin da konektatu">
 <!ENTITY home_remote_tabs_need_to_sign_in "Hasi saioa zure Firefoxeko kontua birkonektatu eta sinkronizatzen jarraitzeko.">
+
+
 <!ENTITY home_remote_tabs_trouble_verifying "Arazoak kontua egiaztatzerakoan?">
 <!ENTITY home_remote_tabs_need_to_verify "Sinkronizatzen hasteko, egiaztatu zure Firefoxeko kontua.">
 
@@ -528,12 +531,6 @@ Android-etik">
 
 <!ENTITY updater_apply_title2 "Eguneraketa erabilgarri &brandShortName;(r)entzat">
 <!ENTITY updater_apply_select2 "Ukitu eguneratzeko">
-<!-- New tablet UI -->
-<!-- LOCALIZATION NOTE (new_tablet_restart): Notification displayed after the user toggles the new tablet UI in the settings screen.-->
-
-
-<!ENTITY new_tablet_restart "Berrabiarazi nabigatzailea aldaketek eragina izan dezaten">
-<!ENTITY new_tablet_pref "Gaitu tableten interfaze berria">
 <!-- Guest mode -->
 
 <!ENTITY new_guest_session "Gonbidatu saio berria">

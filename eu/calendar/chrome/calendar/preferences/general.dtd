@@ -13,6 +13,10 @@
 <!ENTITY pref.dateformat.long "Luzea" >
 <!ENTITY pref.dateformat.short "Laburra"  >
 
+<!ENTITY pref.timezones.caption "Ordu zonaldeak">
+
+
+
 <!ENTITY pref.defaults.label "Elementu berrien balio lehenetsiak">
 <!ENTITY pref.events.label "Gertaerak">
 <!ENTITY pref.tasks.label "Zereginak">

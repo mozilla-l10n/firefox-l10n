@@ -6,8 +6,11 @@
 <!ENTITY  window.width                    "38em">
 <!ENTITY  window.macWidth                 "47em">
 
-<!ENTITY  allowPagesToUse.label           "Baimendu nire goiko hautapenen ordez edukiak bere koloreak aukeratzea">
-<!ENTITY  allowPagesToUse.accesskey       "B">
+
+
+<!ENTITY  overridePageColors.always.label "Beti">
+
+<!ENTITY  overridePageColors.never.label  "Inoiz ez">
 
 <!ENTITY  color                           "Testua eta atzeko planoa">
 <!ENTITY  textColor.label                 "Testua:">
