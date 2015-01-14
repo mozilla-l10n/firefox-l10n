@@ -16,6 +16,8 @@
 <!ENTITY enableGlodaSearch.label       "Gweredekaat ar c'hlask hag an ibiliañ hollek">
 <!ENTITY enableGlodaSearch.accesskey   "h">
 
+
+
 <!ENTITY scrolling.label               "Dibunañ">
 <!ENTITY useAutoScroll.label           "Arverañ an dibunañ emgefreek">
 <!ENTITY useAutoScroll.accesskey       "e">

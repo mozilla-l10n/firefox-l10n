@@ -4,13 +4,16 @@
 
 <!ENTITY offlineDialog.title "Arventennoù ezlinenn">
 
-<!ENTITY textStartUp "Pa vez o loc'hañ :">
+
+
 <!ENTITY radioRememberPrevState.label "Derc'hel soñj eus ar stad enlinenn">
 <!ENTITY radioRememberPrevState.accesskey "r">
-<!ENTITY radioAskMe.label "Goulenn ganin ar stad enlinenn gant al loc'hañ">
-<!ENTITY radioAskMe.accesskey "u">
-<!ENTITY radioAlwaysOnline.label "Loc'hañ enlinenn bepred">
-<!ENTITY radioAlwaysOnline.accesskey "L">
+
+
+
+
+
+
 
 <!ENTITY textGoingOnline "Kas ar posteloù o c'hortoz pa 'z a da enlinenn ?">
 <!ENTITY radioAutoSend.label "Ya">

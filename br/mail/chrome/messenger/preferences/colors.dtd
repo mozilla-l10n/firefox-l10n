@@ -6,8 +6,11 @@
 <!ENTITY  window.width                    "38em">
 <!ENTITY  window.macWidth                 "41em">
 
-<!ENTITY  allowPagesToUse.label           "Aotren an endalc'hadoù da zibab o livioù dezho, e-lec'h ma diuzadoù din a-us">
-<!ENTITY  allowPagesToUse.accesskey       "A">
+
+
+<!ENTITY  overridePageColors.always.label "Atav">
+
+<!ENTITY  overridePageColors.never.label  "Morse">
 
 <!ENTITY  color                           "Testenn ha drekleur">
 <!ENTITY  textColor.label                 "Testenn :">

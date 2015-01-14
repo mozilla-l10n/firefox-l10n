@@ -171,6 +171,9 @@
 <!ENTITY fxaccount_confirm_account_verification_link_sent2 "Kaset eo bet ar postel gwiriañ">
 <!ENTITY fxaccount_confirm_account_verification_link_not_sent2 "N\u0027halled ket kas ar postel gwiriañ">
 
+
+
+
 <!ENTITY fxaccount_sign_in_sub_header "Kennaskañ">
 <!ENTITY fxaccount_sign_in_button_label "Kennaskañ">
 <!ENTITY fxaccount_sign_in_forgot_password "Disoñjet hoc\u0027h eus ho ker-tremen ?">
@@ -180,9 +183,13 @@
 <!ENTITY fxaccount_account_verified_sub_header "Kont gwiriet">
 <!ENTITY fxaccount_account_verified_description2 "A-benn nebeut e krogo ho roadennoù o goubredañ. ">
 
+
 <!ENTITY fxaccount_update_credentials_header "Kennaskañ">
 <!ENTITY fxaccount_update_credentials_button_label "Kennaskañ">
 <!ENTITY fxaccount_update_credentials_unknown_error "N\u0027halled ket kennaskañ">
+
+
+
 
 <!ENTITY fxaccount_status_header2 "Kont Firefox">
 <!ENTITY fxaccount_status_signed_in_as "Kennasket evel">
@@ -197,7 +204,9 @@
 <!ENTITY fxaccount_status_needs_credentials "N\u0027haller ket kennaskañ. Stokit d\u0027en em varilhañ.">
 <!ENTITY fxaccount_status_needs_upgrade "Ret eo deoc\u0027h hizivaat &brandShortName; d\u0027en em varilhañ.">
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled "Kefluniet eo &syncBrand.shortName.label;, ne c\u0027houbred ket ent emgefreek avat. Trec\u0027haolit an arventenn ”Goubredañ ar roadennoù emgefreek” e Arventennoù Android &gt; Arver ar roadennoù.">
+
 <!ENTITY fxaccount_status_needs_account_enabled "Kefluniet eo &syncBrand.shortName.label;, ne c\u0027houbred ket ent emgefreek avat. Stokit da gregiñ gant ar goubredañ.">
+
 <!ENTITY fxaccount_status_bookmarks "Sinedoù">
 <!ENTITY fxaccount_status_history "Roll istor">
 <!ENTITY fxaccount_status_passwords "Gerioù-tremen">
@@ -246,7 +255,10 @@
 <!ENTITY fxaccount_remote_error_UNKNOWN_ERROR "Ur gudenn dic\u0027hortoz zo degouezhet">
 <!ENTITY fxaccount_remote_error_COULD_NOT_CONNECT "N\u0027haller ket kennaskañ ouzh ar rouedad">
 
+
 <!ENTITY fxaccount_sync_sign_in_error_notification_title2 "N\u0027eo ket kennasket &syncBrand.shortName.label;">
 <!-- Localization note: the format string below will be replaced
      with the Firefox Account's email address. -->
-<!ENTITY fxaccount_sync_sign_in_error_notification_text2 "Stokit d\u0027en em gennaskañ evel &formatS;">
+
+<!-- Localization note: the format string below will be replaced
+     with the Firefox Account's email address. -->
