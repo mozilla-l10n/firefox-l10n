@@ -165,6 +165,9 @@
 <!ENTITY fxaccount_confirm_account_change_email 'Glem denne mailadresse?'>
 <!ENTITY fxaccount_confirm_account_verification_link_sent2 'Bekræftelsesmail er sendt'>
 <!ENTITY fxaccount_confirm_account_verification_link_not_sent2 'Kunne ikke sende Bekræftelsesmail'>
+<!ENTITY fxaccount_resend_unlock_code_button_label 'Gensend mail til oplåsning'>
+<!ENTITY fxaccount_unlock_code_sent 'Mail til oplåsning af konto er sendt'>
+<!ENTITY fxaccount_unlock_code_not_sent 'Kunne ikke sende mail til oplåsning af konto'>
 
 <!ENTITY fxaccount_sign_in_sub_header 'Log ind'>
 <!ENTITY fxaccount_sign_in_button_label 'Log ind'>
@@ -175,9 +178,15 @@
 <!ENTITY fxaccount_account_verified_sub_header 'Konto bekræftet'>
 <!ENTITY fxaccount_account_verified_description2 'Dine data vil nu blive synkroniseret.'>
 
+<!ENTITY fxaccount_migration_finished_header 'Opdatering afsluttt'>
+
 <!ENTITY fxaccount_update_credentials_header 'Log ind'>
 <!ENTITY fxaccount_update_credentials_button_label 'Log ind'>
 <!ENTITY fxaccount_update_credentials_unknown_error 'Kunne ikke logge ind'>
+
+<!ENTITY fxaccount_finish_migrating_header 'Log ind for at afslutte opdateringen'>
+<!ENTITY fxaccount_finish_migrating_button_label 'Afslut opdatering'>
+<!ENTITY fxaccount_finish_migrating_description 'Opdatering kan medføre overførsel af en stor mængde data. Det er bedst at opdatere på en wi-fi-forbindelse.'>
 
 <!ENTITY fxaccount_status_header2 'Firefox-konto'>
 <!ENTITY fxaccount_status_signed_in_as 'Logget ind som'>
@@ -191,10 +200,10 @@
 <!ENTITY fxaccount_status_needs_verification2 'Din konto skal bekræftes. Tryk for at få sendt en bekræftelsesmail.'>
 <!ENTITY fxaccount_status_needs_credentials 'Kan ikke få forbindelse. Tryk for at logge ind.'>
 <!ENTITY fxaccount_status_needs_upgrade 'Du skal opgradere &brandShortName; for at kunne logge ind.'>
-
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled '&syncBrand.shortName.label; er konfigureret, men synkroniserer ikke automatisk. Du kan skifte indstilling for synkronisering i Androids indstillinger.'>
+<!ENTITY fxaccount_status_needs_master_sync_automatically_enabled_v21 '&syncBrand.shortName.label; er sat op, men synkroniserer ikke automatisk. Du kan skifte indstillinger for synkronisering i Androids indstillinger under Konti.'>
 <!ENTITY fxaccount_status_needs_account_enabled '&syncBrand.shortName.label; er konfigureret, men synkroniserer ikke automatisk. Tryk for at starte synkronisering.'>
-
+<!ENTITY fxaccount_status_needs_finish_migrating 'Tryk for at logge ind på din nye Firefox-konto.'>
 <!ENTITY fxaccount_status_bookmarks 'Bogmærker'>
 <!ENTITY fxaccount_status_history 'Historik'>
 <!ENTITY fxaccount_status_passwords 'Adgangskoder'>
@@ -242,9 +251,14 @@
 <!ENTITY fxaccount_remote_error_SERVICE_TEMPORARILY_UNAVAILABLE_TO_DUE_HIGH_LOAD 'Serveren er optaget, prøv igen om lidt'>
 <!ENTITY fxaccount_remote_error_UNKNOWN_ERROR 'Der opstod et problem'>
 <!ENTITY fxaccount_remote_error_COULD_NOT_CONNECT 'Kan ikke få forbindelse til netværket'>
+<!ENTITY fxaccount_remote_error_ACCOUNT_LOCKED 'Kontoen er låst. &formatS1;'>
 
 <!ENTITY fxaccount_sync_sign_in_error_notification_title2 '&syncBrand.shortName.label; har ikke forbindelse'>
 <!-- Note to translators: the format string below will be replaced
      with the Firefox account's email address. -->
 <!ENTITY fxaccount_sync_sign_in_error_notification_text2 'Tryk for at logge ind på kontoen for &formatS;'>
 
+<!ENTITY fxaccount_sync_finish_migrating_notification_title 'Afslut opdatering af &syncBrand.shortName.label;?'>
+<!-- Localization note: the format string below will be replaced
+     with the Firefox Account's email address. -->
+<!ENTITY fxaccount_sync_finish_migrating_notification_text 'Tryk for at logge ind med &formatS;'>
