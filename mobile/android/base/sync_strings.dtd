@@ -22,13 +22,14 @@
 <!ENTITY sync.pin.oneline.label '...'>
 <!ENTITY sync.link.show.label 'Atvērt pamācību.'>
 <!ENTITY sync.link.advancedsetup.label 'Papildu iestatījumi…'>
-<!ENTITY sync.link.nodevice.label 'Ierīce man šobrīd nav līdzi…'>
+<!ENTITY sync.link.nodevice.label 'Ierīce man šobrīd nav līdz…'>
 
 <!ENTITY fxaccount_custom_server_account_title 'Izmantojot servera kontu'>
 <!ENTITY fxaccount_custom_server_sync_title 'Saglabā sinhronizācijas datus uz servera'>
 <!ENTITY fxaccount_status_auth_server 'Kona serveris'>
 <!ENTITY fxaccount_status_sync_server 'Sinhronizācijas serveris'>
 <!ENTITY fxaccount_status_more 'Vairāk&ellipsis;'>
+<!ENTITY fxaccount_confirm_account_change_email 'Aizmirsāt epasta adresi?'>
 
 
 <!ENTITY fxaccount_remove_account_dialog_title 'Noņemt Firefox kontu?'>
@@ -38,6 +39,8 @@
 <!ENTITY fxaccount_remove_account_toast 'Firefox konts &formatS; ir noņemts.'>
 
 <!ENTITY fxaccount_remove_account_menu_item 'Noņemt kontu'>
+<!ENTITY fxaccount_status_sync_now 'Sinhronizēt'>
+<!ENTITY fxaccount_status_syncing2 'Sinhronizē…'>
 
 
 <!ENTITY sync.default.client.name '&formatS1; no &formatS2;'>
