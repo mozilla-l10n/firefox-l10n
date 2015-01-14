@@ -4,13 +4,16 @@
 
 <!ENTITY offlineDialog.title "Lineaz kanpoko ezarpenak">
 
-<!ENTITY textStartUp "Abiaraztean:">
+
+
 <!ENTITY radioRememberPrevState.label "Gogoratu aurreko lineako egoera">
 <!ENTITY radioRememberPrevState.accesskey "r">
-<!ENTITY radioAskMe.label "Galdetu niri abiaraztean lineako egoeragatik">
-<!ENTITY radioAskMe.accesskey "u">
-<!ENTITY radioAlwaysOnline.label "Abiarazi linean beti">
-<!ENTITY radioAlwaysOnline.accesskey "l">
+
+
+
+
+
+
 
 <!ENTITY textGoingOnline "Bidali bidali gabeko mezuak linean jartzean?">
 <!ENTITY radioAutoSend.label "Bai">

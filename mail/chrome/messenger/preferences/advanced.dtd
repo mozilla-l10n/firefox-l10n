@@ -16,6 +16,8 @@
 <!ENTITY enableGlodaSearch.label       "Gaitu bilaketa orokorra eta indexatzailea">
 <!ENTITY enableGlodaSearch.accesskey   "i">
 
+
+
 <!ENTITY scrolling.label               "Korritzea">
 <!ENTITY useAutoScroll.label           "Erabili korritze automatikoa">
 <!ENTITY useAutoScroll.accesskey       "a">

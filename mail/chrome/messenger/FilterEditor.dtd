@@ -24,6 +24,8 @@
 <!ENTITY contextBeforeCls.label "Iragazi zaborra sailkatu aurretik">
 <!ENTITY contextAfterCls.label "Iragazi zaborra sailkatu ondoren">
 
+
+
 <!ENTITY filterActionDesc.label "Burutu ekintza hauek:">
 <!ENTITY filterActionDesc.accesskey "B">
 

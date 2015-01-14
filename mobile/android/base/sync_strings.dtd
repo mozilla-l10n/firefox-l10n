@@ -171,6 +171,9 @@
 <!ENTITY fxaccount_confirm_account_verification_link_sent2 "Egiaztapen-mezua bidali da">
 <!ENTITY fxaccount_confirm_account_verification_link_not_sent2 "Ezin izan da egiaztapen-mezua bidali">
 
+
+
+
 <!ENTITY fxaccount_sign_in_sub_header "Hasi saioa">
 <!ENTITY fxaccount_sign_in_button_label "Hasi saioa">
 <!ENTITY fxaccount_sign_in_forgot_password "Pasahitza ahaztu duzu?">
@@ -180,9 +183,13 @@
 <!ENTITY fxaccount_account_verified_sub_header "Kontua egiaztatuta">
 <!ENTITY fxaccount_account_verified_description2 "Zure datuak une batetik bestera hasiko dira sinkronizatzen.">
 
+
 <!ENTITY fxaccount_update_credentials_header "Hasi saioa">
 <!ENTITY fxaccount_update_credentials_button_label "Hasi saioa">
 <!ENTITY fxaccount_update_credentials_unknown_error "Ezin da saioa hasi">
+
+
+
 
 <!ENTITY fxaccount_status_header2 "Firefox kontua">
 <!ENTITY fxaccount_status_signed_in_as "Saioa hasita:">
@@ -197,7 +204,9 @@
 <!ENTITY fxaccount_status_needs_credentials "Ezin da konektatu. Sakatu saioa hasteko.">
 <!ENTITY fxaccount_status_needs_upgrade "&brandShortName; bertsio-berritu behar duzu saioa hasteko.">
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled "&syncBrand.shortName.label; konfiguratuta dago baina ez da ari automatikoki sinkronizatzen. Txandakatu \u0027Auto-sinkronizatu datuak\u0027 aukera Androideko Ezarpenak &gt; Datuen erabilpena atalean.">
+
 <!ENTITY fxaccount_status_needs_account_enabled "&syncBrand.shortName.label; konfiguratuta dago baina ez da ari automatikoki sinkronizatzen. Sakatu sinkronizatzen hasteko.">
+
 <!ENTITY fxaccount_status_bookmarks "Laster-markak">
 <!ENTITY fxaccount_status_history "Historia">
 <!ENTITY fxaccount_status_passwords "Pasahitzak">
@@ -246,7 +255,10 @@
 <!ENTITY fxaccount_remote_error_UNKNOWN_ERROR "Arazo bat egon da">
 <!ENTITY fxaccount_remote_error_COULD_NOT_CONNECT "Ezin da sarera konektatu">
 
+
 <!ENTITY fxaccount_sync_sign_in_error_notification_title2 "&syncBrand.shortName.label; konektatu gabe dago">
 <!-- Localization note: the format string below will be replaced
      with the Firefox Account's email address. -->
-<!ENTITY fxaccount_sync_sign_in_error_notification_text2 "Sakatu &formatS; gisa saioa hasteko">
+
+<!-- Localization note: the format string below will be replaced
+     with the Firefox Account's email address. -->
