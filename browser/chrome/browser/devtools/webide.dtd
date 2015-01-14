@@ -114,6 +114,8 @@
 <!ENTITY prefs_general_title "Загальні">
 <!ENTITY prefs_restore "Відновити типові">
 <!ENTITY prefs_manage_components "Керувати додатковими компонентами">
+<!ENTITY prefs_options_autoconnectruntime "Reconnect to previous runtime">
+<!ENTITY prefs_options_autoconnectruntime_tooltip "Reconnect to previous runtime when WebIDE starts">
 <!ENTITY prefs_options_rememberlastproject "Пам’ятати останній проект">
 <!ENTITY prefs_options_rememberlastproject_tooltip "Відновити попередній проект при запуску WebIDE">
 <!ENTITY prefs_options_templatesurl "URL шаблонів">
