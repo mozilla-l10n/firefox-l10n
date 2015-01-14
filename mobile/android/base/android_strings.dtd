@@ -172,6 +172,7 @@
 <!ENTITY pref_cookies_not_accept_foreign "Habilitado, excluyendo terceros">
 <!ENTITY pref_cookies_disabled "Deshabilitado">
 
+
 <!ENTITY pref_donottrack_title "No rastrear">
 <!ENTITY pref_donottrack_summary "&brandShortName; le dirá a los sitios que no quiero ser rastreado">
 
@@ -429,6 +430,8 @@ size. -->
 <!ENTITY home_remote_tabs_empty "Tus pestañas de otros dispositivos aparecen aquí.">
 <!ENTITY home_remote_tabs_unable_to_connect "No se puede conectar">
 <!ENTITY home_remote_tabs_need_to_sign_in "Ingresa para reconectar tu cuenta Firefox Account y continuar la sincronización.">
+
+
 <!ENTITY home_remote_tabs_trouble_verifying "¿No puedes verificar tu cuenta?">
 <!ENTITY home_remote_tabs_need_to_verify "Verifica tu Firefox Account para comenzar sincronización.">
 
@@ -528,12 +531,6 @@ desde Android">
 
 <!ENTITY updater_apply_title2 "Actualización disponible para &brandShortName;">
 <!ENTITY updater_apply_select2 "Toca para actualizar">
-<!-- New tablet UI -->
-<!-- LOCALIZATION NOTE (new_tablet_restart): Notification displayed after the user toggles the new tablet UI in the settings screen.-->
-
-
-<!ENTITY new_tablet_restart "Reinicia el navegador para que los cambios surtan efecto">
-<!ENTITY new_tablet_pref "Activar nueva IU de tableta">
 <!-- Guest mode -->
 
 <!ENTITY new_guest_session "Nueva sesión de invitado">
