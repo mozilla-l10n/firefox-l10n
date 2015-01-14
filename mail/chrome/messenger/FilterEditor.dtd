@@ -45,6 +45,8 @@
 <!ENTITY contextManual.accesskey "s">
 <!ENTITY contextBeforeCls.label "Filtrer før spam-klassificering">
 <!ENTITY contextAfterCls.label "Filtrer efter spam-klassificering">
+<!ENTITY contextOutgoing.label "Efter afsendelse">
+<!ENTITY contextOutgoing.accesskey "f">
 
 <!ENTITY addAction.tooltip "Tilføj en ny handling">
 <!ENTITY removeAction.tooltip "Fjern denne handling">
