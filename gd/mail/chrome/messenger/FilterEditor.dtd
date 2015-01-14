@@ -23,8 +23,8 @@
 <!ENTITY contextManual.accesskey "r">
 <!ENTITY contextBeforeCls.label "Criathraich mus comharraichear truilleis">
 <!ENTITY contextAfterCls.label "Criathraich an dèidh comharrachadh na truilleis">
-
-
+<!ENTITY contextOutgoing.label "An dèidh a chuir">
+<!ENTITY contextOutgoing.accesskey "d">
 
 <!ENTITY filterActionDesc.label "Dèan na leanas:">
 <!ENTITY filterActionDesc.accesskey "D">

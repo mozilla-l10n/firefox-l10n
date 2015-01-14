@@ -6,10 +6,11 @@
 <!ENTITY  window.width                    "45em">
 <!ENTITY  window.macWidth                 "50em">
 
-
+<!ENTITY  overridePageColors.label        "Cleachd na dathan a shònraich mi gu h-àrd an àite na feadhainn a shònraich an t-susbaint:">
+<!ENTITY  overridePageColors.accesskey    "u">
 
 <!ENTITY  overridePageColors.always.label "An-còmhnaidh">
-
+<!ENTITY  overridePageColors.auto.label   "Le ùrlaran àrd-iomsgaraidh a-mhàin">
 <!ENTITY  overridePageColors.never.label  "Chan ann idir">
 
 <!ENTITY  color                           "Teacsa is cùlaibh">

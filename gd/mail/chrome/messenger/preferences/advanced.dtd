@@ -15,8 +15,8 @@
 <!ENTITY telemetryInfoLink.label       "Barrachd fiosrachaidh mu theileimeatrachd">
 <!ENTITY enableGlodaSearch.label       "Cuir an lorg is an clàr-innsiche uile-choitcheann an comas">
 <!ENTITY enableGlodaSearch.accesskey   "e">
-
-
+<!ENTITY allowHWAccel.label            "Cleachd luathachadh a' bhathar-bhog ma bhios e ri làimh">
+<!ENTITY allowHWAccel.accesskey        "m">
 
 <!ENTITY scrolling.label               "Sgroladh">
 <!ENTITY useAutoScroll.label           "Cleachd fèin-sgroladh">
