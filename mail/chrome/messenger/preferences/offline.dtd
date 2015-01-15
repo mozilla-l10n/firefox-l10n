@@ -4,13 +4,17 @@
 
 <!ENTITY offlineDialog.title "Offline-instellingen">
 
-<!ENTITY textStartUp "Bij het opstarten:">
+<!ENTITY checkAutoDetect.label "Automatisch gedetecteerde onlinetoestand volgen">
+<!ENTITY checkAutoDetect.accesskey "A">
+<!ENTITY titleStartUp "Handmatige toestand bij het opstarten:">
 <!ENTITY radioRememberPrevState.label "Vorige onlinetoestand hanteren">
 <!ENTITY radioRememberPrevState.accesskey "h">
 <!ENTITY radioAskMe.label "Mij de onlinetoestand vragen">
 <!ENTITY radioAskMe.accesskey "s">
 <!ENTITY radioAlwaysOnline.label "Altijd online opstarten">
 <!ENTITY radioAlwaysOnline.accesskey "o">
+<!ENTITY radioAlwaysOffline.label "Altijd offline opstarten">
+<!ENTITY radioAlwaysOffline.accesskey "f">
 
 <!ENTITY textGoingOnline "Wilt u niet-verzonden berichten verzenden als u online gaat?">
 <!ENTITY radioAutoSend.label "Ja">
