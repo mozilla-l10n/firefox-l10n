@@ -175,7 +175,7 @@
 <!ENTITY pref_tracking_protection_title "ಜಾಡು ಇರಿಸುವಿಕೆಗೆ ರಕ್ಷಣೆ">
 <!ENTITY pref_tracking_protection_summary "&brandShortName; ಜಾಲತಾಣಗಳನ್ನು ನಿಮ್ಮನ್ನು ಜಾಡು ಇರಿಸುವುದರಿಂದ ತಡೆಯುತ್ತದೆ">
 <!ENTITY pref_donottrack_title "ಜಾಡು ಇರಿಸಬೇಡ">
-
+<!ENTITY pref_donottrack_summary "&brandShortName; ನಿಮ್ಮ ಜಾಡನ್ನು ಇರಿಸದಂತೆ ಜಾಲಗಳಿಗೆ ತಿಳಿಸುತ್ತದೆ">
 
 <!ENTITY pref_char_encoding "ಅಕ್ಷರದ ಎನ್ಕೋಡಿಂಗ್">
 <!ENTITY pref_char_encoding_on "ಪರಿವಿಡಿ ತೋರಿಸು">
@@ -216,10 +216,10 @@ size. -->
 
 <!ENTITY pref_use_master_password "ಮುಖ್ಯ ಗುಪ್ತಪದವನ್ನು ಬಳಸು">
 <!ENTITY pref_sync "ಸಿಂಕ್">
-
+<!ENTITY pref_sync_summary "ನಿಮ್ಮ ಹಾಳೆಗಳು, ಪುಟಗುರುತುಗಳು, ಪ್ರವೇಶ ಪದಗಳು, ಇತಿಹಾಸ ಸಿಂಕ್ ಮಾಡಿ">
 <!ENTITY pref_search_suggestions "ಹುಡುಕಲು ಸಲಹೆಗಳನ್ನು ತೋರಿಸು">
 <!ENTITY pref_import_android "ಆಂಡ್ರಾಯ್ಡ್‌ನಿಂದ ಆಮದುಮಾಡು">
-
+<!ENTITY pref_import_android_summary "ಸ್ಥಳೀಯ ಬ್ರೌಸರ್‌ನಿಂದ ಪುಟಗುರುತುಗಳು ಮತ್ತು ಇತಿಹಾಸವನ್ನು ಆಮದುಮಾಡು">
 <!ENTITY pref_private_data_history2 "ವೀಕ್ಷಣೆಯ ಇತಿಹಾಸ">
 <!ENTITY pref_private_data_formdata "ನಮೂನೆ ದಾಖಲೆ ಹಾಗು ಹುಡುಕು ಇತಿಹಾಸ">
 <!ENTITY pref_private_data_cookies2 "ಕುಕೀಗಳು &amp; ಸಕ್ರಿಯ ಖಾತೆಗೆಳು">
@@ -427,17 +427,20 @@ size. -->
 <!ENTITY home_move_up_to_filter "&formatS; ವರೆಗೆ">
 
 <!ENTITY home_remote_tabs_title "ಸಿಂಕ್ ಮಾಡಿದ ಹಾಳೆಗಳು">
-
+<!ENTITY home_remote_tabs_empty "ನಿಮ್ಮ ಬೇರೆ ಸಾಧನಗಳ ಹಾಳೆಗಳು ಇಲ್ಲಿ ಕಾಣಿಸಿಕೊಳ್ಳುತ್ತವೆ.">
 <!ENTITY home_remote_tabs_unable_to_connect "ಸಂಪರ್ಕ ಹೊಂದಲು ಸಾಧ್ಯವಾಗಿಲ್ಲ">
 
+<!ENTITY home_remote_tabs_need_to_finish_migrating "ನಿಮ್ಮ ಹೊಸ Firefox ಖಾತೆ ತಯಾರಾಗಿದೆ!">
+
+<!ENTITY home_remote_tabs_trouble_verifying "ನಿಮ್ಮ ಖಾತೆ ದೃಢಪಡಿಸುವಲ್ಲಿ ತೊಂದರೆಯಾಗುತ್ತಿದೆಯೇ?">
 
 
-
-
+<!ENTITY home_remote_tabs_one_hidden_device "1 ಸಾಧನ ಅಡಗಿದೆ">
 <!-- Localization note (home_remote_tabs_many_hidden_devices) : The
      formatD is replaced with the number of hidden devices.  The
      number of hidden devices is always more than one.  We can't use
      Android plural forms, sadly. See Bug #753859. -->
+<!ENTITY home_remote_tabs_many_hidden_devices "&formatD; ಸಾಧನಗಳು ಅಡಗಿವೆ">
 <!-- Localization note (home_remote_tabs_hidden_devices_title) : This is the
      title of a dialog; we expect more than one device. -->
 <!ENTITY home_remote_tabs_hidden_devices_title "ಅಡಗಿಸಿದ ಸಾಧನಗಳು">
@@ -482,6 +485,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY blocked_mixed_content_message_top "&brandShortName; ವು ಸುರಕ್ಷಿತವಲ್ಲದ ವಿಷಯವನ್ನು ನಿರ್ಬಂಧಿಸಿದೆ.">
 <!ENTITY blocked_mixed_content_message_bottom "ಈ ವಿಷಯವನ್ನು ನಿರ್ಬಂಧಿಸಿದ್ದರೂ ಸಹ ಹೆಚ್ಚಿನ ಜಾಲತಾಣಗಳು ಸರಿಯಾಗಿ ಕೆಲಸ ಮಾಡುತ್ತವೆ.">
 <!-- Tracking content notifications in site identity popup -->
+
+<!ENTITY loaded_tracking_content_message_top "ಜಾಡು ಹಿಡಿಯುವಿಕೆ ಸುರಕ್ಷೆ ನಿಷ್ಕ್ರಿಯವಾಗಿದೆ.">
 
 
 
