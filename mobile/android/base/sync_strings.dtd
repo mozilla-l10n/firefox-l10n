@@ -178,7 +178,7 @@
 <!ENTITY fxaccount_account_verified_sub_header 'Konto bekræftet'>
 <!ENTITY fxaccount_account_verified_description2 'Dine data vil nu blive synkroniseret.'>
 
-<!ENTITY fxaccount_migration_finished_header 'Opdatering afsluttt'>
+<!ENTITY fxaccount_migration_finished_header 'Opdatering afsluttet'>
 
 <!ENTITY fxaccount_update_credentials_header 'Log ind'>
 <!ENTITY fxaccount_update_credentials_button_label 'Log ind'>

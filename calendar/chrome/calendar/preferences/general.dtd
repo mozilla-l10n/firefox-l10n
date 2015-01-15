@@ -15,7 +15,7 @@
 
 <!ENTITY pref.timezones.caption "Tidszone">
 <!ENTITY pref.timezones.label "Vælg den nærmeste by i din tidszone:">
-<!ENTITY pref.timezones.accesskey "V">
+<!ENTITY pref.timezones.accesskey "æ">
 
 <!ENTITY pref.defaults.label "Forvalgte værdier for nye elementer">
 <!ENTITY pref.events.label "Begivenheder">
