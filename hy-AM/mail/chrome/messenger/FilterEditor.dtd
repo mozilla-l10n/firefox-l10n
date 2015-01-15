@@ -24,6 +24,8 @@
 <!ENTITY contextBeforeCls.label "Filter before Junk Classification">
 <!ENTITY contextAfterCls.label "Filter after Junk Classification">
 
+
+
 <!ENTITY filterActionDesc.label "Կատարել այս գործողությունը.">
 <!ENTITY filterActionDesc.accesskey "P">
 

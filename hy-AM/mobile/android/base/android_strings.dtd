@@ -172,6 +172,7 @@
 <!ENTITY pref_cookies_not_accept_foreign "Միացնել՝ բացառելով կողմնակի կայքերը">
 <!ENTITY pref_cookies_disabled "Անջատել">
 
+
 <!ENTITY pref_donottrack_title "Չհետևել">
 <!ENTITY pref_donottrack_summary "&brandShortName;-ը կհաղորդի կայքերին, որ դուք չեք ցանկանում, որ ձեզ հետևեն">
 
@@ -429,6 +430,8 @@ size. -->
 <!ENTITY home_remote_tabs_empty "Ձեր ներդիրները այլ սարքերից:">
 <!ENTITY home_remote_tabs_unable_to_connect "Չհաջողվեց կապ հաստատել">
 <!ENTITY home_remote_tabs_need_to_sign_in "Մուտք գործեք՝ վերակապակցվելու Firefox-ի Հաշվի հետ և շարունակելու Սինքը:">
+
+
 <!ENTITY home_remote_tabs_trouble_verifying "Խնդիրնե՞ր հաշիվը հաստատելիս:">
 <!ENTITY home_remote_tabs_need_to_verify "Հաստատեք Firefox-ի Ձեր Հաշիվը՝ Սինքը սկսելու համար:">
 
@@ -528,12 +531,6 @@ Android-ից">
 
 <!ENTITY updater_apply_title2 "Հասանելի է &brandShortName;-ի թարմացում">
 <!ENTITY updater_apply_select2 "Դիպչեք՝ թարմացնելու համար">
-<!-- New tablet UI -->
-<!-- LOCALIZATION NOTE (new_tablet_restart): Notification displayed after the user toggles the new tablet UI in the settings screen.-->
-
-
-<!ENTITY new_tablet_restart "Կիրառելու համար վերամեկնարկեք դիտարկիչը:">
-<!ENTITY new_tablet_pref "Միացնել թաբլեթ UI-ին">
 <!-- Guest mode -->
 
 <!ENTITY new_guest_session "Հյուրի աշխատաշրջան">
