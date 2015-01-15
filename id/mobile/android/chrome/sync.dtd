@@ -12,7 +12,7 @@
 <!ENTITY sync.syncNow               "Sinkronkan Sekarang">
 
 <!ENTITY sync.setup.title           "Sambungkan ke Sync">
-<!ENTITY sync.setup.pair            "Untuk mengaktifkan, pilih &#x0022;Pasangkan Perangkat&#x0022; pada perangkat Anda lainnya.">
+<!ENTITY sync.setup.pair            "Untuk mengaktifkan, pilih &quot;Pasangkan Perangkat&quot; pada perangkat Anda lainnya.">
 <!ENTITY sync.fallback              "Saya tidak sedang di dekat komputer Saya…">
 <!ENTITY sync.setup.manual          "Masukkan informasi akun Sync Anda">
 <!ENTITY sync.account               "Nama Akun">
@@ -26,6 +26,6 @@
 <!ENTITY sync.setup.waiting2        "Menunggu perangkat lainnya…">
 
 <!ENTITY sync.pair.title            "Pasangkan Perangkat">
-<!ENTITY sync.pair.description      "Untuk mengaktifkan perangkat Anda, pilih &#x0022;Siapkan Sync&#x0022; pada perangkat.">
+<!ENTITY sync.pair.description      "Untuk mengaktifkan perangkat Anda, pilih &quot;Siapkan Sync&quot; pada perangkat.">
 <!ENTITY sync.setup.close           "Tutup">
 <!ENTITY sync.setup.waitingdownload "Data Anda sedang diunduh di latar belakang. Anda dapat menutup jendela ini kapan saja.">

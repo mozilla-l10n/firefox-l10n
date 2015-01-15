@@ -73,11 +73,9 @@ bahwa &brandShortName; diizinkan untuk mengakses Web.</li>
 <!ENTITY netTimeout.longDesc "&sharedLongDesc;">
 
 <!ENTITY unknownProtocolFound.title "Alamat tidak dipahami">
-<!ENTITY unknownProtocolFound.longDesc "
-<ul>
-  <li>Anda mungkin perlu untuk menginstal perangkat lunak lain untuk membuka alamat ini.</li>
-</ul>
-">
+<!ENTITY unknownProtocolFound.longDesc "<ul> 
+<li>Anda mungkin perlu untuk menginstal perangkat lunak lain untuk membuka alamat ini.</li> 
+</ul>">
 
 <!ENTITY proxyConnectFailure.title "Server proxy menolak sambungan">
 <!ENTITY proxyConnectFailure.longDesc "<ul> 
@@ -126,11 +124,10 @@ bahwa &brandShortName; diizinkan untuk mengakses Web.</li>
 <p>Pemilik situs web yang merasa situs yang bersangkutan bukan merupakan situs web penyerang dapat meminta <a href='http://www.stopbadware.org/home/reviewinfo' >peninjauan kembali</a>.</p>">
 
 <!ENTITY phishingBlocked.title "Tersangka Pemalsuan Web!">
-<!ENTITY phishingBlocked.longDesc '<p>Dengan memasukkan informasi pribadi pada laman ini, pencurian identitas atau kejahatan lainnya dapat terjadi.</p> 
-<p>Jenis pemalsuan web yang digunakan untuk penipuan (scam) dikenal sebagai "phishing attack" yaitu penipuan dengan cara meniru laman web dan email yang mungkin Anda percayai.</p>'>
+<!ENTITY phishingBlocked.longDesc "<p>Dengan memasukkan informasi pribadi pada laman ini, pencurian identitas atau kejahatan lainnya dapat terjadi.</p> 
+<p>Jenis pemalsuan web yang digunakan untuk penipuan (scam) dikenal sebagai &quot;phishing attack&quot; yaitu penipuan dengan cara meniru laman web dan email yang mungkin Anda percayai.</p>">
 
-<!ENTITY cspFrameAncestorBlocked.title "Diblokir oleh Kebijakan Keamanan Konten">
-<!ENTITY cspFrameAncestorBlocked.longDesc "<p>&brandShortName; mencegah pemuatan laman dengan cara ini karena laman mengandung kebijakan keamanan konten yang tidak mengizinkan hal ini.</p>">
+
 
 <!ENTITY corruptedContentError.title "Galat Konten Rusak">
 <!ENTITY corruptedContentError.longDesc "<p>Laman yang akan dibuka tidak dapat ditampilkan karena ada terdeteksi galat pada pengiriman data.</p><ul><li>Mohon hubungi pemilik situs web mengenai masalah ini.</li></ul>">
@@ -150,5 +147,19 @@ functionality specific to firefox. -->
 <button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button> 
 <button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>">
 
+
+
+<!ENTITY errorReporting.learnMore "Pelajari lebih lanjut…">
+
+
+
+
+
 <!ENTITY remoteXUL.title "XUL Daring">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Hubungi pemilik situs web untuk memberitahukan masalah ini.</li></ul></p>">
+
+<!-- LOCALIZATION NOTE (oldSecurityProtocol.longDesc) - Do not translate the
+     <span id='hostname'></span>. -->
+<!-- LOCALIZATION NOTE (oldSecurityProtocol.advancedInfo) - Do not translate
+     the <span id='errorcode'></span>. -->
+<!ENTITY oldSecurityProtocol.learnMore "Pelajari Selengkapnya…">

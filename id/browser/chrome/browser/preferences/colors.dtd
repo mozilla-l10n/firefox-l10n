@@ -6,8 +6,11 @@
 <!ENTITY  window.width                    "38em">
 <!ENTITY  window.macWidth                 "41em">
 
-<!ENTITY  allowPagesToUse.label           "Izinkan laman memilih warna sendiri">
-<!ENTITY  allowPagesToUse.accesskey       "w">
+
+
+<!ENTITY  overridePageColors.always.label "Selalu">
+
+<!ENTITY  overridePageColors.never.label  "Tidak Pernah">
 
 <!ENTITY  color                           "Teks dan Latar Belakang">
 <!ENTITY  textColor.label                 "Teks:">
