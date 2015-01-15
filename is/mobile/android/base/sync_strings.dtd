@@ -171,6 +171,9 @@
 <!ENTITY fxaccount_confirm_account_verification_link_sent2 "Staðfestingar tölvupóstur sendur">
 <!ENTITY fxaccount_confirm_account_verification_link_not_sent2 "Gat ekki sent staðfestinga tölvupóst">
 
+
+
+
 <!ENTITY fxaccount_sign_in_sub_header "Innskráning">
 <!ENTITY fxaccount_sign_in_button_label "Innskráning">
 <!ENTITY fxaccount_sign_in_forgot_password "Gleymt lykilorð?">
@@ -180,9 +183,13 @@
 <!ENTITY fxaccount_account_verified_sub_header "Reikningur staðfestur">
 <!ENTITY fxaccount_account_verified_description2 "Sync á gögnum þínum hefst eftir andartak.">
 
+
 <!ENTITY fxaccount_update_credentials_header "Innskráning">
 <!ENTITY fxaccount_update_credentials_button_label "Innskráning">
 <!ENTITY fxaccount_update_credentials_unknown_error "Innskráning mistókst">
+
+
+
 
 <!ENTITY fxaccount_status_header2 "Firefox reikningur">
 <!ENTITY fxaccount_status_signed_in_as "Innskrá sem ">
@@ -197,7 +204,9 @@
 <!ENTITY fxaccount_status_needs_credentials "Tenging tókst ekki. Snertu til að innskrá.">
 <!ENTITY fxaccount_status_needs_upgrade "Þú þarft að uppfæra &brandShortName; til að skrá þig inn.">
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled "&syncBrand.shortName.label; er uppsett en nær ekki að synca sjálfvirkt. Víxlaðu á \&quot;Sjálfvirkt Sync-a gögn\&quot; stillingunni í Android stillingar &gt; Gagna notkun.">
+
 <!ENTITY fxaccount_status_needs_account_enabled "&syncBrand.shortName.label; er ekki stillt til að Sync-a sjálfvirkt. Snertu til að hefja Sync.">
+
 <!ENTITY fxaccount_status_bookmarks "Bókarmerki">
 <!ENTITY fxaccount_status_history "Ferill">
 <!ENTITY fxaccount_status_passwords "Lykilorð">
@@ -246,7 +255,10 @@
 <!ENTITY fxaccount_remote_error_UNKNOWN_ERROR "Upp kom vandamál">
 <!ENTITY fxaccount_remote_error_COULD_NOT_CONNECT "Get ekki tengst neti">
 
+
 <!ENTITY fxaccount_sync_sign_in_error_notification_title2 "&syncBrand.shortName.label; er ekki tengt">
 <!-- Localization note: the format string below will be replaced
      with the Firefox Account's email address. -->
-<!ENTITY fxaccount_sync_sign_in_error_notification_text2 "Snertu til að innskrá sem &formatS;">
+
+<!-- Localization note: the format string below will be replaced
+     with the Firefox Account's email address. -->

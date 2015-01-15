@@ -172,6 +172,7 @@
 <!ENTITY pref_cookies_not_accept_foreign "Virkar fyrir utan þriðja aðila">
 <!ENTITY pref_cookies_disabled "Óvirkar">
 
+
 <!ENTITY pref_donottrack_title "Ekki leyfa að fylgjast með">
 <!ENTITY pref_donottrack_summary "&brandShortName; mun láta vefsvæði vita að þú vilt ekki láta fylgjast með þér">
 
@@ -429,6 +430,8 @@ size. -->
 <!ENTITY home_remote_tabs_empty "Fliparnir þínir sem eru opnir á öðrum tækjum sjást hér.">
 <!ENTITY home_remote_tabs_unable_to_connect "Gat ekki tengst">
 <!ENTITY home_remote_tabs_need_to_sign_in "Vinsamlega skráðu þig inn til að endurtengjast við Firefox reikninginn þinn og halda áfram synci.">
+
+
 <!ENTITY home_remote_tabs_trouble_verifying "Áttu í erfiðleikum með að staðfesta reikninginn þinn?">
 <!ENTITY home_remote_tabs_need_to_verify "Vinsamlega staðfesta Firefox reikninginn þinn til að hefja sync.">
 
@@ -528,12 +531,6 @@ frá Android">
 
 <!ENTITY updater_apply_title2 "Uppfærsla fáanleg fyrir &brandShortName;">
 <!ENTITY updater_apply_select2 "Snertu til að uppfæra">
-<!-- New tablet UI -->
-<!-- LOCALIZATION NOTE (new_tablet_restart): Notification displayed after the user toggles the new tablet UI in the settings screen.-->
-
-
-<!ENTITY new_tablet_restart "Endurræsa þarf vafrann til að breytingarnar taki gildi">
-<!ENTITY new_tablet_pref "Virkja nýja töflu UI">
 <!-- Guest mode -->
 
 <!ENTITY new_guest_session "Ný gesta lota">
