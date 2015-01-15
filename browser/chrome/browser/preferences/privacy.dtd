@@ -4,28 +4,22 @@
 
 <!ENTITY tracking.label                 "Pelacakan">
 
-<!ENTITY dntTrackingNopref.label2        "Jangan beri tahu situs tentang pengaturan pelacakan saya">
-<!ENTITY dntTrackingNopref.accesskey    "j">
-<!ENTITY dntTrackingNotOkay.label2       "Beritahukan situs bahwa saya tidak ingin dilacak">
+<!ENTITY dntTrackingNotOkay.label2      "Beritahukan situs bahwa saya tidak ingin dilacak">
 <!ENTITY dntTrackingNotOkay.accesskey   "s">
-<!ENTITY dntTrackingOkay.label2          "Beritahukan situs bahwa saya ingin dilacak">
-<!ENTITY dntTrackingOkay.accesskey      "t">
 <!ENTITY trackingProtection.label       "Cegah situs untuk melacak saya">
 <!ENTITY trackingProtection.accesskey   "m">
 <!ENTITY trackingProtectionLearnMore.label "Pelajari selengkapnya">
 <!ENTITY doNotTrackInfo.label           "Pelajari Selengkapnya">
 
-<!ENTITY  history.label                 "Riwayat">
 
 <!ENTITY  locationBar.label             "Bilah Lokasi">
 
-<!ENTITY  locbar.pre.label              "Saat menggunakan bilah lokasi sarankan:">
-<!ENTITY  locbar.pre.accessKey          "l">
-<!ENTITY  locbar.post.label             "">
-<!ENTITY  locbar.both.label             "Riwayat dan Markah">
-<!ENTITY  locbar.history.label          "Riwayat">
-<!ENTITY  locbar.bookmarks.label        "Markah">
-<!ENTITY  locbar.nothing.label          "Tidak ada">
+
+
+
+
+
+
 
 <!ENTITY  acceptCookies.label           "Terima kuki dari situs web">
 <!ENTITY  acceptCookies.accesskey       "w">
@@ -35,7 +29,6 @@
 <!ENTITY  acceptThirdParty.always.label   "Selalu">
 <!ENTITY  acceptThirdParty.never.label    "Tidak Pernah">
 <!ENTITY  acceptThirdParty.visited.label  "Dari yang Pernah Dikunjungi">
-
 
 <!ENTITY  keepUntil.label               "Simpan hingga:">
 <!ENTITY  keepUntil.accesskey           "a">
@@ -51,7 +44,7 @@
 <!ENTITY  showCookies.accesskey         "K">
 
 <!ENTITY  historyHeader.pre.label          "&brandShortName;:">
-<!ENTITY  historyHeader.pre.accesskey      "F">
+<!ENTITY  historyHeader.pre.accesskey      "w">
 <!ENTITY  historyHeader.remember.label     "akan mengingat data riwayat">
 <!ENTITY  historyHeader.dontremember.label "tidak akan mengingat data riwayat">
 <!ENTITY  historyHeader.custom.label       "menggunakan pengaturan khusus untuk data riwayat">
