@@ -3,7 +3,6 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY  connectionsDialog.title       "Байланыс баптаулары">
-<!ENTITY  window.width                   "37em">
 
 <!ENTITY  proxyTitle.label              "Интернетпен байланысу үшін прокси-серверді баптау">
 <!ENTITY  noProxyTypeRadio.label        "Прокси сервері жоқ">

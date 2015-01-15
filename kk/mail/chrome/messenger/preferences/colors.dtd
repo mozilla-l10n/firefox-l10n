@@ -6,8 +6,10 @@
 <!ENTITY  window.width                    "38em">
 <!ENTITY  window.macWidth                 "41em">
 
-<!ENTITY  allowPagesToUse.label           "Құрамаға оның өздік түстерін қолдануға рұқсат ету, жоғарыдағы менің таңдауымның орнына">
-<!ENTITY  allowPagesToUse.accesskey       "а">
+
+
+
+
 
 <!ENTITY  color                           "Мәтін мен аясы">
 <!ENTITY  textColor.label                 "Мәтін:">
