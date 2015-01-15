@@ -4,16 +4,17 @@
 
 <!ENTITY offlineDialog.title "Izvanmrežne postavke">
 
-
-
+<!ENTITY checkAutoDetect.label "Automatski prati otkriveno mrežno stanje">
+<!ENTITY checkAutoDetect.accesskey "p">
+<!ENTITY titleStartUp "Ručno stanje prilikom pokretanja:">
 <!ENTITY radioRememberPrevState.label "Sjeti se zadnjeg on-line stanja">
 <!ENTITY radioRememberPrevState.accesskey "S">
-
-
-
-
-
-
+<!ENTITY radioAskState.label "Pitaj me za mrežno stanje">
+<!ENTITY radioAskState.accesskey "z">
+<!ENTITY radioAlwaysOnline.label "Na mreži">
+<!ENTITY radioAlwaysOnline.accesskey "N">
+<!ENTITY radioAlwaysOffline.label "Izvan mreže">
+<!ENTITY radioAlwaysOffline.accesskey "I">
 
 <!ENTITY textGoingOnline "Poslati neposlane poruke prilikom spajanja on-line?">
 <!ENTITY radioAutoSend.label "Da">

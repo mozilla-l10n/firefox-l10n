@@ -6,10 +6,11 @@
 <!ENTITY  window.width                    "38em">
 <!ENTITY  window.macWidth                 "41em">
 
-
+<!ENTITY  overridePageColors.label        "Nadjačaj boje određene sadržajem sa mojim odabirima:">
+<!ENTITY  overridePageColors.accesskey    "o">
 
 <!ENTITY  overridePageColors.always.label "Uvijek">
-
+<!ENTITY  overridePageColors.auto.label   "Samo sa temama sa visokim kontrastom">
 <!ENTITY  overridePageColors.never.label  "Nikada">
 
 <!ENTITY  color                           "Tekst i pozadina">

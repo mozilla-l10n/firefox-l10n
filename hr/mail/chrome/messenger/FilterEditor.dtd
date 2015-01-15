@@ -23,8 +23,8 @@
 <!ENTITY contextManual.accesskey "u">
 <!ENTITY contextBeforeCls.label "Filtriraj prije označavanja neželjene pošte">
 <!ENTITY contextAfterCls.label "Filtriraj nakon označavanja neželjene pošte">
-
-
+<!ENTITY contextOutgoing.label "Nakon slanja">
+<!ENTITY contextOutgoing.accesskey "s">
 
 <!ENTITY filterActionDesc.label "Provedi ove radnje:">
 <!ENTITY filterActionDesc.accesskey "P">
