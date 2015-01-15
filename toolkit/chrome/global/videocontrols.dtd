@@ -8,7 +8,7 @@
 <!ENTITY muteButton.unmuteLabel "Keraskan">
 <!ENTITY fullscreenButton.enterfullscreenlabel "Layar Penuh">
 <!ENTITY fullscreenButton.exitfullscreenlabel "Keluar dari Layar Penuh">
-
+<!ENTITY castingButton.castingLabel "Proyeksikan ke Layar">
 
 <!ENTITY stats.media "Media">
 <!ENTITY stats.size "Ukuran">
@@ -18,8 +18,8 @@
 <!ENTITY stats.activityEnded "Selesai">
 <!ENTITY stats.activitySeeking "(mencari)">
 <!ENTITY stats.volume "Volume">
-<!ENTITY stats.framesParsed "Bingkai diparse">
-<!ENTITY stats.framesDecoded "Bingkai didekode">
+<!ENTITY stats.framesParsed "Bingkai diuraikan">
+<!ENTITY stats.framesDecoded "Bingkai didekodekan">
 <!ENTITY stats.framesPresented "Bingkai ditampilkan">
 <!ENTITY stats.framesPainted "Bingkai digambar">
 
