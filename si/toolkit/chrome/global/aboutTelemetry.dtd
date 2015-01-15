@@ -8,6 +8,7 @@
 
 <!ENTITY aboutTelemetry.telemetryDisabled "    දූරමිතිය <span>අක්‍රීයයි</span>.">
 
+<!ENTITY aboutTelemetry.generalDataSection "    සාමාන්‍ය දත්ත">
 
 <!ENTITY aboutTelemetry.slowSqlSection "    SQL ප්‍රකාශ පෙන්වන්න">
 
@@ -17,6 +18,7 @@
 
 <!ENTITY aboutTelemetry.histogramsSection "    හිස්ටොග්‍රෑම්">
 
+<!ENTITY aboutTelemetry.keyedHistogramsSection "    යතුරුකළ ජාලරේඛය">
 
 <!ENTITY aboutTelemetry.simpleMeasurementsSection "  සරල මිනුම්">
 

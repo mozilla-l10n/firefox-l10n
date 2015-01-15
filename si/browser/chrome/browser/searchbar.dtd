@@ -7,8 +7,11 @@
 <!-- LOCALIZATION NOTE: The SearchHighlight strings are used in the
    - UITour popups that shows on first use of the new search panel. -->
 
+<!ENTITY SearchHighlight1.title "ඒක-ක්ලික් සෙවුම්">
+<!ENTITY SearchHighlight1.text "මෙම අඩවි අතර ඉක්මනින් සොයන්න, ඔබේ පෙරනිමිය වෙනස් නොකරයි.">
 
-
+<!ENTITY SearchHighlight2.title "ස්මාට් පෙන්වන්න">
+<!ENTITY SearchHighlight2.text "ඔබ ලියන අතරම ඔබේ පෙරනිමි සෙවුම් යන්ත්‍රයේ යෝජනා දිස්වේ.">
 
 <!ENTITY SearchHighlightNext "ඊළඟ">
 <!ENTITY SearchHighlightClose "ස්තූතියි!">

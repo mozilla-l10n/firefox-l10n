@@ -95,8 +95,8 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY pageInfoCmd.label "පිටුවේ තොරතුරු">
 <!ENTITY pageInfoCmd.accesskey "I">
 <!ENTITY pageInfoCmd.commandkey "i">
-
-
+<!ENTITY mirrorTabCmd.label "කැඩපත් ටැබය (M)">
+<!ENTITY mirrorTabCmd.accesskey "M">
 <!-- LOCALIZATION NOTE (enterFullScreenCmd.label, exitFullScreenCmd.label):
 These should match what Safari and other Apple applications use on OS X Lion. -->
 <!ENTITY enterFullScreenCmd.label "Enter Full Screen">
@@ -145,17 +145,19 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (findShareServices.label):
   -  Use the unicode ellipsis char, \u2026,
   -  or use "..." if \u2026 doesn't suit traditions in your locale. -->
+<!ENTITY findShareServices.label "තවත් බෙදාගැනීමේ සේවා සොයන්න...">
 <!ENTITY sharePageCmd.label "මෙම පිටුව බෙදාගන්න (s)">
 <!ENTITY sharePageCmd.commandkey "S">
 <!ENTITY sharePageCmd.accesskey "s">
 <!-- LOCALIZATION NOTE (shareLink.accesskey): must be different than the following share access keys -->
-
-
-
-
-
-
-
+<!ENTITY shareLink.label "මෙම සබැඳිය බෙදාගන්න (h)">
+<!ENTITY shareLink.accesskey "h">
+<!ENTITY shareImage.label "මෙම රූපය බෙදාගන්න (r)">
+<!ENTITY shareImage.accesskey "r">
+<!ENTITY shareSelect.label "තෝරාගැනීම බෙදාගන්න (r)">
+<!ENTITY shareSelect.accesskey "r">
+<!ENTITY shareVideo.label "මෙම වීඩියෝව බෙදාගන්න (r)">
+<!ENTITY shareVideo.accesskey "r">
 <!ENTITY feedsMenu.label "දායකත්වය">
 <!ENTITY subscribeToPageMenupopup.label "මෙම පිටුවට දායකත්වය දක්වන්න">
 <!ENTITY subscribeToPageMenuitem.label "මෙම පිටුවට දායකත්වය දක්වන්න...">
@@ -217,10 +219,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY addons.label                 "ඇඩෝන">
 <!ENTITY addons.accesskey             "A">
 <!ENTITY addons.commandkey            "A">
+<!ENTITY webapps.label                "යෙදුම් (p)">
+<!ENTITY webapps.accesskey            "p">
 
-
-
-<!ENTITY webDeveloperMenu.label       "වෙබ් සංවර්ධකයා">
+<!ENTITY webDeveloperMenu.label       "වෙබ් සංවර්ධකයා (W)">
 <!ENTITY webDeveloperMenu.accesskey   "W">
 
 <!ENTITY devToolsCmd.keycode          "VK_F12">
@@ -270,6 +272,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (browserContentToolboxMenu.label): This is the label for the
   -  application menu item that opens the browser content toolbox UI in the Tools menu.
   -  This toolbox allows to debug the chrome of the content process in multiprocess builds.  -->
+
+<!ENTITY browserContentToolboxMenu.label     "ගවේශක අන්තර්ගත මෙවලම් තීරුව">
 
 <!ENTITY devToolbarCloseButton.tooltiptext "Close Developer Toolbar">
 <!ENTITY devToolbarMenu.label              "Developer Toolbar">
@@ -416,11 +420,14 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      These two strings are used to build the header above the list of one-click
      search providers:  "Search for <used typed keywords> with:" -->
 
+<!ENTITY searchFor.label              "මේ සඳහා සොයන්න:">
+<!ENTITY searchWith.label             "   සමඟ:">
 <!-- LOCALIZATION NOTE (searchWithHeader.label):
      The wording of this string should be as close as possible to
      searchFor.label and searchWith.label. This string will be used instead of
      them when the user has not typed any keyword. -->
-
+<!ENTITY searchWithHeader.label       "සමඟ සොයන්න:">
+<!ENTITY changeSearchSettings.button  "සෙවුම් සැකසුම් වෙනස් කරන්න">
 
 <!ENTITY tabView.commandkey           "e">
 
@@ -496,8 +503,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY emailImageCmd.accesskey      "g">
 <!ENTITY emailVideoCmd.label          "වීඩියෝ තැපැල්... (a)">
 <!ENTITY emailVideoCmd.accesskey      "a">
-
-
+<!ENTITY castVideoCmd.label           "උපාංගයට වීඩියෝ යවන්න (e)">
+<!ENTITY castVideoCmd.accesskey       "e">
 <!ENTITY emailAudioCmd.label          "ශ්‍රව්‍ය තැපැල්... (a)">
 <!ENTITY emailAudioCmd.accesskey      "a">
 <!ENTITY playPluginCmd.label          "මෙම ප්ලගිනය සකරිය කරන්න (c)">
@@ -712,10 +719,11 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY social.learnMore.accesskey "L">
 <!ENTITY social.closeNotificationItem.label "දැන් නොවේ">
 
-
-
-
-
+<!ENTITY social.directory.label "සක්‍රීයකිරීම් නාමාවලිය">
+<!ENTITY social.directory.text "ඔබට නාමාවලිය වෙතින් බෙදාගැනීමේ සේවා සක්‍රීය කළ හැක.">
+<!ENTITY social.directory.button "මා එතැනට රැගෙන යන්න!">
+<!ENTITY social.directory.introText "&brandShortName; වෙත සේවාවක් එක් කිරීමට ඒ මත ක්ලික් කරන්න.">
+<!ENTITY social.directory.viewmore.text "තවදුරත් කියවන්න">
 
 <!ENTITY customizeMode.tabTitle "&brandShortName; රුචිකරණය">
 <!ENTITY customizeMode.menuAndToolbars.header2 "අමතර මෙවලම් හා විශේෂාංග">
@@ -731,7 +739,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY customizeMode.lwthemes.menuManage.accessKey "M">
 <!ENTITY customizeMode.lwthemes.menuGetMore "තවත් තේමා ලබාගන්න">
 <!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "G">
-
+<!ENTITY customizeMode.deveditionTheme.label2 "සංවර්ධක සංස්කරණ තේමාව භාවිත කරන්න">
 
 <!ENTITY social.chatBar.commandkey "c">
 <!ENTITY social.chatBar.label "සංවාද නාඹිගත (c)">
@@ -757,18 +765,18 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY mixedContentBlocked2.options "විකල්ප">
 <!ENTITY mixedContentBlocked2.unblock.label "දැනට ආරක්සහාව අකරිය කරන්න (D)">
 <!ENTITY mixedContentBlocked2.unblock.accesskey "D">
-
-
+<!ENTITY mixedContentBlocked2.block.label "ආරක්ෂණය සක්‍රීය කරන්න (E)">
+<!ENTITY mixedContentBlocked2.block.accesskey "E">
 <!ENTITY mixedContentBlocked2.disabled.message "ආරක්සහාව අකරිය කර ඇත">
 
 <!ENTITY trackingContentBlocked.message "Tracking">
 <!ENTITY trackingContentBlocked.moreinfo "ඔබේ අන්තර්ජාල ක්‍රියාකාරීත්වය විමසන පිටුවේ සමහර කොටස් අවහිර කර ඇති.">
 <!ENTITY trackingContentBlocked.learnMore "තවත් ඉගෙනගන්න">
 <!ENTITY trackingContentBlocked.options "විකල්ප">
-
-
-
-
+<!ENTITY trackingContentBlocked.unblock2.label "මෙම අඩවිය සඳහා ආරක්ශාව අක්‍රීය කරන්න">
+<!ENTITY trackingContentBlocked.unblock2.accesskey "ම">
+<!ENTITY trackingContentBlocked.block.label "ආරක්ෂණය සක්‍රීය කරන්න">
+<!ENTITY trackingContentBlocked.block.accesskey "ආ">
 <!ENTITY trackingContentBlocked.disabled.message "හඹායෑම් ආරක්ශාව අක්‍රීය කරන ලදී">
 
 <!ENTITY pointerLock.notification.message "නැවත ඕනෑම මොහොතක පෙන්වීමට ESC ඔබන්න">
@@ -802,20 +810,25 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      The .mainTimeframeDesc string combined with any of the 3 others is meant to form a complete sentence, e.g. "Forget the last: Five minutes".
      Please ensure that this remains the case in the translation. -->
 
-
-
+<!ENTITY panicButton.view.mainTimeframeDesc       "අමතක කරන්න පසුගිය:">
+<!ENTITY panicButton.view.5min                    "විනාඩි පහ">
+<!ENTITY panicButton.view.2hr                     "පැය දෙක">
+<!ENTITY panicButton.view.day                     "පැය 24">
 <!-- LOCALIZATION NOTE: (panicButton.view.mainLabel, panicButton.view.deleteCookies, panicButton.view.deleteHistory, panicButton.view.deleteTabsAndWindows, panicButton.view.openNewWindow):
      The .mainActionDesc string combined with any of the 4 others is meant to form a complete sentence, e.g. "Proceeding will: Delete Recent Cookies".
      Note also that the deleteCookies, deleteHistory and deleteTabsAndWindows strings include <html:strong> tags for emphasis on the words "Cookies", "History", "Tabs" and "Windows".
      The translation should do the same. -->
 
-
-
-
+<!ENTITY panicButton.view.mainActionDesc          "ඉදිරියට යෑම:">
+<!ENTITY panicButton.view.deleteCookies           "මෑත <html:strong>කුකී </html:strong> මකාදමයි">
+<!ENTITY panicButton.view.deleteHistory           "ආසන්න <html:strong>වෙබ් ඉතිහාසය</html:strong> මකා දමන්න">
+<!ENTITY panicButton.view.deleteTabsAndWindows    "සියලුම <html:strong>ටැබ්</html:strong> සහ <html:strong>කවුළු</html:strong> වසා දමන්න">
+<!ENTITY panicButton.view.openNewWindow           "අලුත් කවුලුවක් විවෘත කරන්න">
 
 <!ENTITY panicButton.view.undoWarning             "මෙම ක්‍රියාව අහෝසි කළ නොහැක.">
+<!ENTITY panicButton.view.forgetButton            "අමතක කරන්න">
 
-
-
+<!ENTITY panicButton.thankyou.msg1                "ඔබගේ ආසන්න වෙබ් ඉතිහාසය මකා දමන ලදී.">
+<!ENTITY panicButton.thankyou.msg2                "සුරක්ෂිත වෙබ් අත්දැකීම!">
 <!ENTITY panicButton.thankyou.buttonlabel         "ස්තූතියි!">
 
