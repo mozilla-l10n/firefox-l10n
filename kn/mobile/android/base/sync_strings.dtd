@@ -170,9 +170,9 @@
 <!ENTITY fxaccount_confirm_account_change_email "ಈ ವಿ-ಅಂಚೆ ವಿಳಾಸ ಮರೆಯಬೇಕೆ?">
 <!ENTITY fxaccount_confirm_account_verification_link_sent2 "ಪರಿಶೀಲನಾ ಮಿಂಚೆಯನ್ನು ಕಳುಹಿಸಿದೆ">
 <!ENTITY fxaccount_confirm_account_verification_link_not_sent2 "ಪರಿಶೀಲನಾ ಮಿಂಚೆಯನ್ನು ಕಳುಹಿಸಲಾಗಲಿಲ್ಲ">
-
-
-
+<!ENTITY fxaccount_resend_unlock_code_button_label "ನಿಬಂಧ ಸಡಿಲಿಸುವ ವಿ-ಅಂಚೆ ಮತ್ತೆ ಕಳಿಸಿ">
+<!ENTITY fxaccount_unlock_code_sent "ಖಾತೆ ನಿರ್ಬಂಧ ಸಡಿಲಿಸುವ ವಿ-ಅಂಚೆ ಕಳಿಸಲಾಗಿದೆ">
+<!ENTITY fxaccount_unlock_code_not_sent "ಖಾತೆ ನಿರ್ಬಂಧ ಸಡಿಲಿಸುವ ವಿ-ಅಂಚೆ ಕಳಿಸಲಾಗಿಲ್ಲ">
 
 <!ENTITY fxaccount_sign_in_sub_header "ಪ್ರವೇಶಿಸಿ">
 <!ENTITY fxaccount_sign_in_button_label "ಪ್ರವೇಶಿಸಿ">
@@ -189,6 +189,7 @@
 <!ENTITY fxaccount_update_credentials_button_label "ಸೈನ್ ಇನ್">
 <!ENTITY fxaccount_update_credentials_unknown_error "ಸೈನ್ ಇನ್ ಸಾಧ್ಯವಾಗಿಲ್ಲ">
 
+<!ENTITY fxaccount_finish_migrating_header "ಅಪ್ಗ್ರೇಡ್ ಮುಗಿಸಲು ಸೈನ್‌ಇನ್ ಮಾಡಿ">
 
 
 
@@ -262,6 +263,7 @@
      with the Firefox Account's email address. -->
 <!ENTITY fxaccount_sync_sign_in_error_notification_text2 "&formatS; ಆಗಿ ಸೈನ್‌ ಇನ್ ಆಗಲು ಮೆಲ್ಲಗೆ ತಟ್ಟಿ">
 
+<!ENTITY fxaccount_sync_finish_migrating_notification_title "&syncBrand.shortName.label; ಅಪ್ಗ್ರೇಡ್ ಮುಗಿಸಬೇಕೆ?">
 <!-- Localization note: the format string below will be replaced
      with the Firefox Account's email address. -->
 <!ENTITY fxaccount_sync_finish_migrating_notification_text "&formatS; ಆಗಿ ಸೈನ್‌ ಇನ್ ಆಗಲು ಮೆಲ್ಲಗೆ ತಟ್ಟಿ">
