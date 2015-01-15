@@ -6,8 +6,11 @@
 <!ENTITY  window.width                    "38em">
 <!ENTITY  window.macWidth                 "41em">
 
-<!ENTITY  allowPagesToUse.label           "উপরোক্ত পছন্দসই মানের পরিবর্তে পৃষ্ঠার দ্বারা নিজস্ব রং নির্বাচন করা হবে(A)">
-<!ENTITY  allowPagesToUse.accesskey       "A">
+
+
+<!ENTITY  overridePageColors.always.label "সর্বদা">
+
+<!ENTITY  overridePageColors.never.label  "কখনই নয়">
 
 <!ENTITY  color                           "হরফ ও পটভূমি">
 <!ENTITY  textColor.label                 "টেক্সট: (T)">
