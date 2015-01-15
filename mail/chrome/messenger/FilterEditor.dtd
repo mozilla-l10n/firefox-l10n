@@ -24,6 +24,8 @@
 <!ENTITY contextBeforeCls.label "Gereksiz sınıflandırmasından önce süz">
 <!ENTITY contextAfterCls.label "Gereksiz sınıflandırmasından sonra süz">
 
+
+
 <!ENTITY filterActionDesc.label "Bu eylemleri uygula:">
 <!ENTITY filterActionDesc.accesskey "u">
 

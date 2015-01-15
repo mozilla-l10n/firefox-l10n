@@ -13,6 +13,10 @@
 <!ENTITY pref.dateformat.long "Uzun" >
 <!ENTITY pref.dateformat.short "Short"  >
 
+<!ENTITY pref.timezones.caption "Saat Dilimi">
+
+
+
 <!ENTITY pref.events.label "Etkinlikler">
 <!ENTITY pref.tasks.label "Görevler">
 

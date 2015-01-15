@@ -172,6 +172,7 @@
 <!ENTITY pref_cookies_not_accept_foreign "Etkin, 3. parti hariç">
 <!ENTITY pref_cookies_disabled "Devre dışı">
 
+
 <!ENTITY pref_donottrack_title "Beni izleme">
 <!ENTITY pref_donottrack_summary "&brandShortName;sitelere izlenmek istemediğinizi söyleyecek">
 
@@ -429,6 +430,8 @@ size. -->
 <!ENTITY home_remote_tabs_empty "Diğer cihazlardaki sekmeleriniz burada görünür.">
 <!ENTITY home_remote_tabs_unable_to_connect "Bağlanılamadı">
 <!ENTITY home_remote_tabs_need_to_sign_in "Firefox Hesabı\u0027nızı yeniden bağlayarak eşitlemeyi sürdürmek için lütfen giriş yapın.">
+
+
 <!ENTITY home_remote_tabs_trouble_verifying "Hesabınızı doğrulayamadınız mı?">
 <!ENTITY home_remote_tabs_need_to_verify "Eşitlemeyi başlatmak için lütfen Firefox Hesabınızı doğrulayın.">
 
@@ -525,12 +528,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY updater_apply_title2 "&brandShortName; için güncelleme mevcut">
 <!ENTITY updater_apply_select2 "Güncellemek için dokunun">
-<!-- New tablet UI -->
-<!-- LOCALIZATION NOTE (new_tablet_restart): Notification displayed after the user toggles the new tablet UI in the settings screen.-->
-
-
-<!ENTITY new_tablet_restart "Değişiklikleri uygulamak için tarayıcıyı yeniden başlatın">
-<!ENTITY new_tablet_pref "Yeni tablet arabirimini etkinleştir">
 <!-- Guest mode -->
 
 <!ENTITY new_guest_session "Yeni konuk oturumu">
