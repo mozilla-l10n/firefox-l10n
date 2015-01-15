@@ -52,7 +52,9 @@ bahwa &brandShortName; diizinkan untuk mengakses Web.</li>
 <!ENTITY notCached.longDesc "<p>Dokumen yang diminta tidak tersedia pada tembolok &brandShortName;.</p><ul><li>Sebagai tindakan pencegahan, &brandShortName; tidak meminta ulang dokumen sensitif secara otomatis.</li><li>Klik Coba Lagi untuk meminta ulang dokumen dari situs web.</li></ul>">
 
 <!ENTITY netOffline.title "Mode luring">
-
+<!ENTITY netOffline.longDesc2 "<ul> 
+<li>Tekan &quot;Coba Lagi&quot; untuk kembali ke mode daring dan memuat ulang lamannya.</li> 
+</ul>">
 
 <!ENTITY contentEncodingError.title "Kesalahan Pengodean Isi (Content Encoding)">
 <!ENTITY contentEncodingError.longDesc "<ul> 
@@ -70,10 +72,12 @@ bahwa &brandShortName; diizinkan untuk mengakses Web.</li>
 <!ENTITY netTimeout.title "Tenggang waktu tersambung habis">
 <!ENTITY netTimeout.longDesc "&sharedLongDesc;">
 
-<!ENTITY unknownProtocolFound.title "Alamat tidak dapat dipahami oleh program">
-<!ENTITY unknownProtocolFound.longDesc "<ul> 
-<li>Anda mungkin perlu memasang perangkat lunak lain untuk membuka alamat ini.</li> 
-</ul>">
+<!ENTITY unknownProtocolFound.title "Alamat tidak dipahami">
+<!ENTITY unknownProtocolFound.longDesc "
+<ul>
+  <li>Anda mungkin perlu untuk menginstal perangkat lunak lain untuk membuka alamat ini.</li>
+</ul>
+">
 
 <!ENTITY proxyConnectFailure.title "Server proxy menolak sambungan">
 <!ENTITY proxyConnectFailure.longDesc "<ul> 
@@ -100,7 +104,10 @@ bahwa &brandShortName; diizinkan untuk mengakses Web.</li>
 </ul>">
 
 <!ENTITY nssFailure2.title "Sambungan Aman Gagal">
-
+<!ENTITY nssFailure2.longDesc2 "<ul> 
+<li>Laman yang ingin dibuka tidak dapat ditampilkan karena keaslian data yang diterima tidak bisa diverifikasi.</li> 
+<li>Mohon hubungi pemilik situs web mengenai masalah ini.</li> 
+</ul>">
 
 <!ENTITY nssBadCert.title "Sambungan Aman Gagal">
 <!ENTITY nssBadCert.longDesc2 "<ul> 
@@ -119,11 +126,11 @@ bahwa &brandShortName; diizinkan untuk mengakses Web.</li>
 <p>Pemilik situs web yang merasa situs yang bersangkutan bukan merupakan situs web penyerang dapat meminta <a href='http://www.stopbadware.org/home/reviewinfo' >peninjauan kembali</a>.</p>">
 
 <!ENTITY phishingBlocked.title "Tersangka Pemalsuan Web!">
-<!ENTITY phishingBlocked.longDesc "<p>Dengan memasukkan informasi pribadi pada laman ini, pencurian identitas atau kejahatan lainnya dapat terjadi.</p> 
-<p>Jenis pemalsuan web yang digunakan untuk penipuan (scam) dikenal sebagai &quot;phishing attack&quot; yaitu penipuan dengan cara meniru laman web dan email yang mungkin Anda percayai.</p>">
+<!ENTITY phishingBlocked.longDesc '<p>Dengan memasukkan informasi pribadi pada laman ini, pencurian identitas atau kejahatan lainnya dapat terjadi.</p> 
+<p>Jenis pemalsuan web yang digunakan untuk penipuan (scam) dikenal sebagai "phishing attack" yaitu penipuan dengan cara meniru laman web dan email yang mungkin Anda percayai.</p>'>
 
-<!ENTITY cspBlocked.title "Diblokir oleh Kebijakan Keamanan Konten">
-<!ENTITY cspBlocked.longDesc "<p>&brandShortName; mencegah pemuatan laman dengan cara ini karena laman mengandung kebijakan keamanan konten yang tidak mengizinkan hal ini.</p>">
+<!ENTITY cspFrameAncestorBlocked.title "Diblokir oleh Kebijakan Keamanan Konten">
+<!ENTITY cspFrameAncestorBlocked.longDesc "<p>&brandShortName; mencegah pemuatan laman dengan cara ini karena laman mengandung kebijakan keamanan konten yang tidak mengizinkan hal ini.</p>">
 
 <!ENTITY corruptedContentError.title "Galat Konten Rusak">
 <!ENTITY corruptedContentError.longDesc "<p>Laman yang akan dibuka tidak dapat ditampilkan karena ada terdeteksi galat pada pengiriman data.</p><ul><li>Mohon hubungi pemilik situs web mengenai masalah ini.</li></ul>">
@@ -143,19 +150,5 @@ functionality specific to firefox. -->
 <button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button> 
 <button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>">
 
-
-
-
-
-
-
-
-
 <!ENTITY remoteXUL.title "XUL Daring">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Hubungi pemilik situs web untuk memberitahukan masalah ini.</li></ul></p>">
-
-<!-- LOCALIZATION NOTE (oldSecurityProtocol.longDesc) - Do not translate the
-     <span id='hostname'></span>. -->
-<!-- LOCALIZATION NOTE (oldSecurityProtocol.advancedInfo) - Do not translate
-     the <span id='errorcode'></span>. -->
-
