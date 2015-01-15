@@ -170,9 +170,9 @@
 <!ENTITY fxaccount_confirm_account_change_email "Бұл эл. пошта адресін ұмыту керек пе?">
 <!ENTITY fxaccount_confirm_account_verification_link_sent2 "Растау хаты жіберілді">
 <!ENTITY fxaccount_confirm_account_verification_link_not_sent2 "Растау хатын жіберу мүмкін емес">
-
-
-
+<!ENTITY fxaccount_resend_unlock_code_button_label "Блоктаудан босату эл. пошта хатын қайта жіберу">
+<!ENTITY fxaccount_unlock_code_sent "Тіркелгіні блоктаудан босату эл. пошта хаты жіберілді">
+<!ENTITY fxaccount_unlock_code_not_sent "Тіркелгіні блоктаудан босату эл. пошта хатын жіберу мүмкін емес">
 
 <!ENTITY fxaccount_sign_in_sub_header "Кіру">
 <!ENTITY fxaccount_sign_in_button_label "Кіру">
@@ -183,13 +183,15 @@
 <!ENTITY fxaccount_account_verified_sub_header "Тіркелгі расталды">
 <!ENTITY fxaccount_account_verified_description2 "Мәліметтеріңіз қазір синхрондала бастайды.">
 
+<!ENTITY fxaccount_migration_finished_header "Жаңарту аяқталды">
 
 <!ENTITY fxaccount_update_credentials_header "Кіру">
 <!ENTITY fxaccount_update_credentials_button_label "Кіру">
 <!ENTITY fxaccount_update_credentials_unknown_error "Кіру мүмкін емес">
 
-
-
+<!ENTITY fxaccount_finish_migrating_header "Жаңартуды аяқтау үшін кіріңіз">
+<!ENTITY fxaccount_finish_migrating_button_label "Жаңартуды аяқтау">
+<!ENTITY fxaccount_finish_migrating_description "Жаңарту біраз деректерді тасымалдауға әкеп соғуы мүмкін. WiFi желісіне қосылғаныңыз дұрыс болады.">
 
 <!ENTITY fxaccount_status_header2 "Firefox тіркелгісі">
 <!ENTITY fxaccount_status_signed_in_as "Кім ретінде кірген:">
@@ -204,9 +206,9 @@
 <!ENTITY fxaccount_status_needs_credentials "Байланысу мүмкін емес. Кіру үшін шертіңіз.">
 <!ENTITY fxaccount_status_needs_upgrade "Кіру үшін сізге &brandShortName; жаңарту керек.">
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled "&syncBrand.shortName.label; бапталған, бірақ, автоматты түрде синхрондалмайды. Android баптаулары &gt; Деректерді қолдану ішінде \&quot;Деректерді автосинхрондауды\&quot; іске қосыңыз.">
-
+<!ENTITY fxaccount_status_needs_master_sync_automatically_enabled_v21 "&syncBrand.shortName.label; бапталған, бірақ, автоматты түрде синхрондалмайды. Android баптаулары &gt; Тіркелгілер ішінде \&quot;Деректерді автосинхрондауды\&quot; іске қосыңыз.">
 <!ENTITY fxaccount_status_needs_account_enabled "&syncBrand.shortName.label; бапталған, бірақ, автоматты түрде синхрондалмайды. Бастау үшін шертіңіз.">
-
+<!ENTITY fxaccount_status_needs_finish_migrating "Сіздің жаңа Firefox тіркелгісіне кіру үшін шертіңіз.">
 <!ENTITY fxaccount_status_bookmarks "Бетбелгілер">
 <!ENTITY fxaccount_status_history "Тарихы">
 <!ENTITY fxaccount_status_passwords "Парольдер">
@@ -254,11 +256,14 @@
 <!ENTITY fxaccount_remote_error_SERVICE_TEMPORARILY_UNAVAILABLE_TO_DUE_HIGH_LOAD "Сервер тым жүктелген, кейінірек қайталап көріңіз">
 <!ENTITY fxaccount_remote_error_UNKNOWN_ERROR "Мәселе орын алды">
 <!ENTITY fxaccount_remote_error_COULD_NOT_CONNECT "Желіге байланысу мүмкін емес">
-
+<!ENTITY fxaccount_remote_error_ACCOUNT_LOCKED "Тіркелгі блокталған. &formatS1;">
 
 <!ENTITY fxaccount_sync_sign_in_error_notification_title2 "&syncBrand.shortName.label; желіге байланыспаған">
 <!-- Localization note: the format string below will be replaced
      with the Firefox Account's email address. -->
+<!ENTITY fxaccount_sync_sign_in_error_notification_text2 "&formatS; ретінде кіру үшін шертіңіз">
 
+<!ENTITY fxaccount_sync_finish_migrating_notification_title "&syncBrand.shortName.label; жаңартуды аяқтау керек пе?">
 <!-- Localization note: the format string below will be replaced
      with the Firefox Account's email address. -->
+<!ENTITY fxaccount_sync_finish_migrating_notification_text "&formatS; ретінде кіру үшін шертіңіз">
