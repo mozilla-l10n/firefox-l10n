@@ -6,8 +6,11 @@
 <!ENTITY  window.width                    "38em">
 <!ENTITY  window.macWidth                 "41em">
 
-<!ENTITY  allowPagesToUse.label           "Орнатылғаннан бөлек, веб-сайттарға өздерінің түстерін қолдануға рұқсат беру">
-<!ENTITY  allowPagesToUse.accesskey       "в">
+
+
+<!ENTITY  overridePageColors.always.label "Әрқашан">
+
+<!ENTITY  overridePageColors.never.label  "Ешқашан">
 
 <!ENTITY  color                           "Мәтін мен аясы">
 <!ENTITY  textColor.label                 "Мәтін:">

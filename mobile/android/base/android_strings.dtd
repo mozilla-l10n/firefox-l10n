@@ -172,6 +172,7 @@
 <!ENTITY pref_cookies_not_accept_foreign "Іске қосылған, 3 жақты сайттардан басқа">
 <!ENTITY pref_cookies_disabled "Сөндірілген">
 
+
 <!ENTITY pref_donottrack_title "Бақыламау">
 <!ENTITY pref_donottrack_summary "&brandShortName; сайттарға сіз өзіңізді бақыламауды қалайтыныңыз туралы айтады">
 
@@ -429,6 +430,8 @@ size. -->
 <!ENTITY home_remote_tabs_empty "Басқа құрылғыларыңыздан беттер осында көрсетіледі.">
 <!ENTITY home_remote_tabs_unable_to_connect "Қосылу нәтижесіз аяқталды">
 <!ENTITY home_remote_tabs_need_to_sign_in "Firefox тіркелгісін қайта байланыстыру және синхрондауды жалғастыру үшін кіріңіз.">
+
+
 <!ENTITY home_remote_tabs_trouble_verifying "Тіркелгіңізді растау мәселелері бар ма?">
 <!ENTITY home_remote_tabs_need_to_verify "Синхрондауды бастау үшін өз Firefox тіркелгісін растаңыз.">
 
@@ -526,12 +529,6 @@ Android-тан импорттау">
 
 <!ENTITY updater_apply_title2 "&brandShortName; жаңартуы қолжетерлік">
 <!ENTITY updater_apply_select2 "Жаңарту үшін шертіңіз">
-<!-- New tablet UI -->
-<!-- LOCALIZATION NOTE (new_tablet_restart): Notification displayed after the user toggles the new tablet UI in the settings screen.-->
-
-
-<!ENTITY new_tablet_restart "Өзгерістерді іске асыру үшін браузерді қайта іске қосыңыз">
-<!ENTITY new_tablet_pref "Жаңа планшеттік интерфейсті іске қосу">
 <!-- Guest mode -->
 
 <!ENTITY new_guest_session "Жаңа қоңақ сессиясы">
