@@ -12,7 +12,7 @@
 <!ENTITY deleteButton.label "Verwijderen">
 <!ENTITY deleteButton.accesskey "V">
 <!ENTITY reorderTopButton "Bovenaan plaatsen">
-<!ENTITY reorderTopButton.accessKey "B">
+<!ENTITY reorderTopButton.accessKey "p">
 <!ENTITY reorderTopButton.toolTip "Filter verplaatsen, zodat het als eerste wordt uitgevoerd">
 <!ENTITY reorderUpButton.label "Omhoog verplaatsen">
 <!ENTITY reorderUpButton.accesskey "m">
