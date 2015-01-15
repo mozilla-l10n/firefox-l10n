@@ -172,7 +172,7 @@
 <!ENTITY fxaccount_confirm_account_verification_link_not_sent2 "Cha b\u0027 urrainn dhuinn am post-d dearbhaidh a chur">
 <!ENTITY fxaccount_resend_unlock_code_button_label "Ath-sheòl am post-d airson a’ ghlas a thoirt dheth">
 <!ENTITY fxaccount_unlock_code_sent "Chaidh post-d airson a’ ghlas a thoirt dheth a chur">
-<!ENTITY fxaccount_unlock_code_not_sent "Cha b’ urrainn dhuinn post-d airson a’ ghlas a thoirt dheth a chur ">
+<!ENTITY fxaccount_unlock_code_not_sent "Cha b’ urrainn dhuinn post-d airson a’ ghlas a thoirt dheth a chur">
 
 <!ENTITY fxaccount_sign_in_sub_header "Clàraich a-steach">
 <!ENTITY fxaccount_sign_in_button_label "Clàraich a-steach">
