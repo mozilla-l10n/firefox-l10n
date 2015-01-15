@@ -172,7 +172,8 @@
 <!ENTITY pref_cookies_not_accept_foreign "সক্রিয় অাছে , 3rd পার্টি ছাড়া">
 <!ENTITY pref_cookies_disabled "নিষ্ক্রিয়">
 
-
+<!ENTITY pref_tracking_protection_title "সুরক্ষা ট্র্যাক করা হচ্ছে">
+<!ENTITY pref_tracking_protection_summary "&brandShortName; সাইটগুলোকে আপনাকে ট্র্যাক করা থেকে দূরে রাখবে">
 <!ENTITY pref_donottrack_title "ট্র্যাক করবেন না">
 <!ENTITY pref_donottrack_summary "&brandShortName; সাইট দের বলে যে আপনি ট্র্যাক হতে চান না">
 
@@ -430,7 +431,7 @@ size. -->
 <!ENTITY home_remote_tabs_empty "আপনার অন্যান্য ডিভাইসের ট্যাবসমূহ এখানে প্রদর্শিত করা হবে।">
 <!ENTITY home_remote_tabs_unable_to_connect "সংযোগ করতে ব্যর্থ">
 <!ENTITY home_remote_tabs_need_to_sign_in "আপনার ফায়ারফক্স অ্যাকাউন্ট এর সাথে আবার সংযোগ স্থাপন করে সিঙ্কিং চালিয়ে যেতে হলে দয়া করে সাইন ইন করুন।">
-
+<!ENTITY home_remote_tabs_need_to_finish_migrating "আপনার নতুন Firefox অ্যাকাউন্ট তৈরি!">
 
 <!ENTITY home_remote_tabs_trouble_verifying "আপনার অ্যাকাউন্ট যাঁচাই করতে সমস্যার সম্মুখীন হচ্ছেন?">
 <!ENTITY home_remote_tabs_need_to_verify "সিঙ্ক শুরু করতে হলে আপনার ফায়ারফক্স অ্যাকাউন্ট যাঁচাই করে নিন।">
