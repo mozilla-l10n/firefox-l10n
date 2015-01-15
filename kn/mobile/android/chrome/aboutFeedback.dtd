@@ -33,13 +33,14 @@
 <!ENTITY happy.maybeLater2         "ಬಹುಷಃ ಆನಂತರ">
 <!ENTITY happy.noThanks            "ಪರವಾಗಿಲ್ಲ">
 
+<!ENTITY sad.header                "ಒಹ್ ಇಲ್ಲ!">
 <!ENTITY sad.message               "&brandShortName; ನಲ್ಲಿ ನಿಮಗೆ ತೊಂದರೆಯಾಗಿದ್ದಕ್ಕೆ ವಿಷಾದಿಸುತ್ತೇವೆ. ಇದನ್ನು ನಿವಾರಿಸಲು, ದಯವಿಟ್ಟು ಏನಾಯ್ತು ಎಂಬ ವಿವರಗಳನ್ನು ನಮಗೆ ತಿಳಿಸಿ.">
 <!ENTITY sad.placeholder           "ನಿಮ್ಮ ಫೀಡ್ ಬ್ಯಾಕ್ ಅನ್ನು ಇಲ್ಲಿ ನಮೂದಿಸಿ">
-
+<!ENTITY sad.lastSite2             "ಕಡೆಗೆ ಭೇಟಿಕೊಟ್ಟ ತಾಣ ಸೇರಿಸಿ">
 <!-- LOCALIZATION NOTE (sad.urlPlaceholder): Placeholder text that appears in "Last visited site" input box when there is no text. -->
 
 <!ENTITY sad.urlPlaceholder        "http://">
-
+<!ENTITY sad.thanksHeader2         "ಧನ್ಯವಾದ.">
 <!-- LOCALIZATION NOTE (sad.thanksMessageTop): "real people" — We're stating that an actual human will look at the feedback
      and that it doesn't just go to some automated system that looks for keywords, or something like that. -->
 
@@ -50,4 +51,5 @@
 
 <!ENTITY sad.thanksMessageBottom   "ಅಥವಾ.">
 
+<!ENTITY feedback.privacy2         "ನಿಮ್ಮ ಗೋಪ್ಯತೆಗಾಗಿ, ದಯವಿಟ್ಟು ಯಾವುದೇ ರೀತಿಯ ವೈಯಕ್ತಿಕವಾಗಿ ಗುರುತಿಸುವಂತ ವಿವರಗಳನ್ನು ನಿಮ್ಮಪ್ರತಿಕ್ರಿಯೆಯಲ್ಲಿ ಸೇರಿಸಬೇಡಿ.">
 <!ENTITY feedback.send             "ಅಭಿಪ್ರಾಯವನ್ನು ಕಳುಹಿಸಿ">
