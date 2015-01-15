@@ -16,6 +16,8 @@
 <!ENTITY enableGlodaSearch.label       "Global aramayı ve dizin oluşturmayı etkinleştir">
 <!ENTITY enableGlodaSearch.accesskey   "e">
 
+
+
 <!ENTITY scrolling.label               "Kaydırma">
 <!ENTITY useAutoScroll.label           "Otomatik kaydırmayı kullan">
 <!ENTITY useAutoScroll.accesskey       "O">

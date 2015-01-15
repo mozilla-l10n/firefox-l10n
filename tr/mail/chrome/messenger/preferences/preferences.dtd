@@ -4,6 +4,7 @@
 
 <!ENTITY  prefWindow.titleWin     "Seçenekler">
 <!ENTITY  prefWindow.titleGNOME   "&brandShortName; tercihleri">
+<!ENTITY  prefWindow.titleMAC     "Tercihler">
 <!ENTITY  prefWindow.styleWindows "width: 48em; min-height: 38.5em;">
 <!ENTITY  prefWindow.styleMac     "width: 52em;">
 <!ENTITY  prefWindow.styleGNOME   "width: 47em; min-height: 38em;">

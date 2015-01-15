@@ -6,8 +6,11 @@
 <!ENTITY  window.width                    "38em">
 <!ENTITY  window.macWidth                 "41em">
 
-<!ENTITY  allowPagesToUse.label           "Yukarıdaki seçimlerimin yerine, içeriğin kendi renklerini seçmesine izin ver">
-<!ENTITY  allowPagesToUse.accesskey       "i">
+
+
+<!ENTITY  overridePageColors.always.label "Her zaman">
+
+<!ENTITY  overridePageColors.never.label  "Asla">
 
 <!ENTITY  color                           "Metin ve arka plan">
 <!ENTITY  textColor.label                 "Metin:">
