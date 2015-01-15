@@ -6,7 +6,6 @@
 
 <!ENTITY printSetup.title    "Tata Laman">
 
-<!ENTITY basic.tab           "Format &amp; Pengaturan">
 
 <!ENTITY formatGroup.label   "Format">
 
@@ -18,17 +17,15 @@
 
 <!ENTITY scale.label         "Skala:">
 <!ENTITY scale.accesskey     "S">
-<!ENTITY scalePercent        "&#037;">
+
 
 <!ENTITY shrinkToFit.label   "Kecilkan Supaya Muat dengan Lebar Kertas">
 <!ENTITY shrinkToFit.accesskey "M">
 
 <!ENTITY optionsGroup.label  "Pengaturan">
 
-<!ENTITY printBG.label       "Cetak Latar Belakang (warna &amp; gambar)">
-<!ENTITY printBG.accesskey   "L">
 
-<!ENTITY advanced.tab        "Margin &amp; Header/Footer">
+
 
 <!ENTITY marginGroup.label   "Margin (#1)">
 <!ENTITY marginUnits.inches  "inci">
@@ -42,7 +39,6 @@
 <!ENTITY marginRight.label   "Kanan:">
 <!ENTITY marginRight.accesskey "a">
 
-<!ENTITY headerFooter.label  "Header &amp; Footer">
 
 <!ENTITY hfLeft.label        "Kiri:">
 <!ENTITY hfCenter.label      "Tengah:">

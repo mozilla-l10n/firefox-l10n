@@ -16,8 +16,8 @@
 
 
 
-<!ENTITY title                  "Model Kotak">
-<!ENTITY margin.tooltip         "margin">
-<!ENTITY border.tooltip         "border">
+<!ENTITY title                  "Box Model">
+
+
 <!ENTITY padding.tooltip        "padding">
 <!ENTITY content.tooltip        "isi">
