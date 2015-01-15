@@ -4,13 +4,16 @@
 
 <!ENTITY offlineDialog.title "Անցանց կարգավորումներ">
 
-<!ENTITY textStartUp "Ծրագիրը բացելիս՝">
+
+
 <!ENTITY radioRememberPrevState.label "Հիշել նախորդ առցանց վիճակը">
 <!ENTITY radioRememberPrevState.accesskey "R">
-<!ENTITY radioAskMe.label "Բացելիս հարցնել առցանց վիճակի մասին">
-<!ENTITY radioAskMe.accesskey "u">
-<!ENTITY radioAlwaysOnline.label "Միշտ սկսել առցանց">
-<!ENTITY radioAlwaysOnline.accesskey "l">
+
+
+
+
+
+
 
 <!ENTITY textGoingOnline "Ուղարկե՞լ չուղարկված նամակները առցանց անցնելիս։">
 <!ENTITY radioAutoSend.label "Այո">

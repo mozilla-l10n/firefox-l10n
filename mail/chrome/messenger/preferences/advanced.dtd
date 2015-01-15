@@ -16,6 +16,8 @@
 <!ENTITY enableGlodaSearch.label       "Միացնել Ընդհանուր Որոնումը և Ինդեքսավորումը">
 <!ENTITY enableGlodaSearch.accesskey   "Մ">
 
+
+
 <!ENTITY scrolling.label               "Թերթումը">
 <!ENTITY useAutoScroll.label           "Օգտագործել ինքնավար թերթում">
 <!ENTITY useAutoScroll.accesskey       "U">

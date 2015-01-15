@@ -13,5 +13,5 @@
 
 <!ENTITY getUserMediaDialog.video.label             "Ընտրեք խցիկը">
 <!ENTITY getUserMediaDialog.video.noVideo           "Չկա տեսանյութ">
-<!ENTITY getUserMediaDialog.audio.label             "Ընտրեք բարձրախոսը">
+<!ENTITY getUserMediaDialog.audio.label             "Ընտրեք խոսափող">
 <!ENTITY getUserMediaDialog.audio.noAudio           "Չկա ձայն">
