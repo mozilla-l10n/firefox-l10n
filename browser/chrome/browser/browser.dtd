@@ -21,7 +21,7 @@
 
 <!ENTITY  reloadTab.label                    "ටැබ් ප්‍රතිපූරණය කරන්න">
 <!ENTITY  reloadTab.accesskey                "R">
-<!ENTITY  reloadAllTabs.label                "සියලු ටැබ යළිපූරණය (A)">
+<!ENTITY  reloadAllTabs.label                "සියළු ටැබ් ප්‍රතිපූරණය කරන්න">
 <!ENTITY  reloadAllTabs.accesskey            "A">
 <!-- LOCALIZATION NOTE (closeTabsToTheEnd.label): This should indicate the
 direction in which tabs are closed, i.e. locales that use RTL mode should say
@@ -38,7 +38,7 @@ can reach it easily. -->
 
 <!ENTITY  pinTab.label                       "ටැබ අමුණන්න (P)">
 <!ENTITY  pinTab.accesskey                   "P">
-<!ENTITY  unpinTab.label                     "Unpin Tab">
+<!ENTITY  unpinTab.label                     "ටැබ ගලවන්න">
 <!ENTITY  unpinTab.accesskey                 "b">
 <!ENTITY  moveToGroup.label                  "සමූහයට යන්න">
 <!ENTITY  moveToGroup.accesskey              "M">
@@ -56,21 +56,21 @@ can reach it easily. -->
 
 <!ENTITY tabCmd.label "නව ටැබයක් විවෘත කරන්න">
 <!ENTITY tabCmd.accesskey "T">
-<!ENTITY tabCmd.commandkey "t">
+<!ENTITY tabCmd.commandkey "ටී">
 <!-- LOCALIZATION NOTE (openLocationCmd.label): "Open Location" is only
 displayed on OS X, and only on windows that aren't main browser windows, or
 when there are no windows but Firefox is still running. -->
 <!ENTITY openLocationCmd.label "ස්ථානයක් විවෘත කරන්න...">
 <!ENTITY openFileCmd.label "ගොනුවක් විවෘත කරන්න...">
 <!ENTITY openFileCmd.accesskey "O">
-<!ENTITY openFileCmd.commandkey "o">
-<!ENTITY printSetupCmd.label "පිටු සකසන්න...">
+<!ENTITY openFileCmd.commandkey "ඕ">
+<!ENTITY printSetupCmd.label "පිටු සැකසුම්:">
 <!ENTITY printSetupCmd.accesskey "u">
 <!ENTITY printPreviewCmd.label "මුද්‍රණ පෙරදැක්ම">
 <!ENTITY printPreviewCmd.accesskey "v">
 <!ENTITY printCmd.label "මුද්‍රණය...">
 <!ENTITY printCmd.accesskey "P">
-<!ENTITY printCmd.commandkey "p">
+<!ENTITY printCmd.commandkey "පී">
 
 <!ENTITY goOfflineCmd.label "නොබැඳිව ක්‍රියා කරන්න (k)">
 <!ENTITY goOfflineCmd.accesskey "k">
@@ -84,14 +84,14 @@ when there are no windows but Firefox is still running. -->
 
 <!ENTITY toolbarContextMenu.reloadAllTabs.label "සියළු ටැබ් යළිපූරණය (A)">
 <!ENTITY toolbarContextMenu.reloadAllTabs.accesskey "A">
-<!ENTITY toolbarContextMenu.bookmarkAllTabs.label "සියළු ටැබ් පිටුලකුණු කරන්න… (T)">
+<!ENTITY toolbarContextMenu.bookmarkAllTabs.label "සියළු ටැබ් පිටුසලකුණු කරන්න… (T)">
 <!ENTITY toolbarContextMenu.bookmarkAllTabs.accesskey "T">
 <!ENTITY toolbarContextMenu.undoCloseTab.label "ටැබ් වැසීම අහෝසි කරන්න (U)">
 <!ENTITY toolbarContextMenu.undoCloseTab.accesskey "U">
 
 <!ENTITY pageSourceCmd.label "පිටුවේ මූලය">
 <!ENTITY pageSourceCmd.accesskey "o">
-<!ENTITY pageSourceCmd.commandkey "u">
+<!ENTITY pageSourceCmd.commandkey "යූ">
 <!ENTITY pageInfoCmd.label "පිටුවේ තොරතුරු">
 <!ENTITY pageInfoCmd.accesskey "I">
 <!ENTITY pageInfoCmd.commandkey "i">
