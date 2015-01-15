@@ -172,6 +172,7 @@
 <!ENTITY pref_cookies_not_accept_foreign "সক্রিয় অাছে , 3rd পার্টি ছাড়া">
 <!ENTITY pref_cookies_disabled "নিষ্ক্রিয়">
 
+
 <!ENTITY pref_donottrack_title "ট্র্যাক করবেন না">
 <!ENTITY pref_donottrack_summary "&brandShortName; সাইট দের বলে যে আপনি ট্র্যাক হতে চান না">
 
@@ -429,6 +430,8 @@ size. -->
 <!ENTITY home_remote_tabs_empty "আপনার অন্যান্য ডিভাইসের ট্যাবসমূহ এখানে প্রদর্শিত করা হবে।">
 <!ENTITY home_remote_tabs_unable_to_connect "সংযোগ করতে ব্যর্থ">
 <!ENTITY home_remote_tabs_need_to_sign_in "আপনার ফায়ারফক্স অ্যাকাউন্ট এর সাথে আবার সংযোগ স্থাপন করে সিঙ্কিং চালিয়ে যেতে হলে দয়া করে সাইন ইন করুন।">
+
+
 <!ENTITY home_remote_tabs_trouble_verifying "আপনার অ্যাকাউন্ট যাঁচাই করতে সমস্যার সম্মুখীন হচ্ছেন?">
 <!ENTITY home_remote_tabs_need_to_verify "সিঙ্ক শুরু করতে হলে আপনার ফায়ারফক্স অ্যাকাউন্ট যাঁচাই করে নিন।">
 
@@ -528,12 +531,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY updater_apply_title2 "আপডেট উপলব্ধ &brandShortName; জন্য ">
 <!ENTITY updater_apply_select2 "আপডেট করার জন্যে স্পর্শ করুন">
-<!-- New tablet UI -->
-<!-- LOCALIZATION NOTE (new_tablet_restart): Notification displayed after the user toggles the new tablet UI in the settings screen.-->
-
-
-<!ENTITY new_tablet_restart "পরিবর্তন গুলি পেতে হলে ব্রাউজার রিস্টার্ট করুন">
-<!ENTITY new_tablet_pref "নতুন ট্যাবলেট UI সক্রিয় করুন">
 <!-- Guest mode -->
 
 <!ENTITY new_guest_session "নতুন গেস্ট সেশন">
