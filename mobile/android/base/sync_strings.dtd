@@ -166,13 +166,13 @@
 <!ENTITY fxaccount_confirm_account_header "Bekräfta ditt konto">
 <!-- Localization note: &formatS; is the Firefox Account's email address. -->
 <!ENTITY fxaccount_confirm_account_verification_link "En bekräftelselänk har skickats till &formatS;">
-<!ENTITY fxaccount_confirm_account_resend_email "Skicka email igen">
-<!ENTITY fxaccount_confirm_account_change_email "Glöm denna emailadress? ">
+<!ENTITY fxaccount_confirm_account_resend_email "Skicka e-post igen">
+<!ENTITY fxaccount_confirm_account_change_email "Glöm denna e-postadressen? ">
 <!ENTITY fxaccount_confirm_account_verification_link_sent2 "Skickat ett bekräftelsemejl">
 <!ENTITY fxaccount_confirm_account_verification_link_not_sent2 "Kunde inte skicka något bekräftelsemejl">
-
-
-
+<!ENTITY fxaccount_resend_unlock_code_button_label "Skicka upplåsnings-e-post igen">
+<!ENTITY fxaccount_unlock_code_sent "E-posten för att låsa upp kontot har skickats">
+<!ENTITY fxaccount_unlock_code_not_sent "Kunde inte skicka e-posten för att låsa upp kontot">
 
 <!ENTITY fxaccount_sign_in_sub_header "Logga in">
 <!ENTITY fxaccount_sign_in_button_label "Logga in">
@@ -191,7 +191,7 @@
 
 <!ENTITY fxaccount_finish_migrating_header "Logga in för att slutföra uppgradering">
 <!ENTITY fxaccount_finish_migrating_button_label "slutför uppgradering">
-
+<!ENTITY fxaccount_finish_migrating_description "Uppgraderingen kan överföra mycket data. Det är bäst om man är uppkopplad till ett WiFi nätverk.">
 
 <!ENTITY fxaccount_status_header2 "Firefox-konto">
 <!ENTITY fxaccount_status_signed_in_as "Inloggad som">
@@ -206,9 +206,9 @@
 <!ENTITY fxaccount_status_needs_credentials "Kan inte ansluta. Tryck för att logga in.">
 <!ENTITY fxaccount_status_needs_upgrade "Du måste uppgradera &brandShortName; för att logga in.">
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled "&syncBrand.shortName.label; är uppsatt men synkar inte automatiskt. Sätt igång “Automatisk synkronisering av data” i Android-inställningarna &gt; Dataanvändning.">
-
+<!ENTITY fxaccount_status_needs_master_sync_automatically_enabled_v21 "&syncBrand.shortName.label; är uppsatt men synkar inte automatiskt. Sätt igång “Automatisk synkronisering av data” i Android-inställningarna &gt; Dataanvändning.">
 <!ENTITY fxaccount_status_needs_account_enabled "&syncBrand.shortName.label; är uppsatt men synkar inte automatiskt, Tryck för att starta synkningen.">
-
+<!ENTITY fxaccount_status_needs_finish_migrating "Tryck för att logga in till ditt nya Firefox Konto.">
 <!ENTITY fxaccount_status_bookmarks "Bokmärken">
 <!ENTITY fxaccount_status_history "Historik">
 <!ENTITY fxaccount_status_passwords "Lösenord">
@@ -261,7 +261,9 @@
 <!ENTITY fxaccount_sync_sign_in_error_notification_title2 "&syncBrand.shortName.label; är inte ansluten">
 <!-- Localization note: the format string below will be replaced
      with the Firefox Account's email address. -->
+<!ENTITY fxaccount_sync_sign_in_error_notification_text2 "Tryck för att logga in som &formatS;">
 
 <!ENTITY fxaccount_sync_finish_migrating_notification_title "Slutför uppgradering &syncBrand.shortName.label;?">
 <!-- Localization note: the format string below will be replaced
      with the Firefox Account's email address. -->
+<!ENTITY fxaccount_sync_finish_migrating_notification_text "Tryck för att logga in som &formatS;">
