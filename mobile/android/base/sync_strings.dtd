@@ -170,9 +170,9 @@
 <!ENTITY fxaccount_confirm_account_change_email "এই ইমেইল অ্যাড্রেসটি ভুলে গেছেন?">
 <!ENTITY fxaccount_confirm_account_verification_link_sent2 "যাঁচাইকারী ইমেল পাঠানো হয়েছে">
 <!ENTITY fxaccount_confirm_account_verification_link_not_sent2 "যাঁচাইকারী ইমেল পাঠানো যাচ্ছেনা">
-
-
-
+<!ENTITY fxaccount_resend_unlock_code_button_label "আনলক ইমেইল পুনরায় পাঠান">
+<!ENTITY fxaccount_unlock_code_sent "অ্যাকাউন্ট আনলক করার ইমেইল পাঠানো হয়েছে">
+<!ENTITY fxaccount_unlock_code_not_sent "অ্যাকাউন্ট আনলকের ইমেইল পাঠানো যাচ্ছে না">
 
 <!ENTITY fxaccount_sign_in_sub_header "সাইন ইন">
 <!ENTITY fxaccount_sign_in_button_label "সাইন ইন">
@@ -183,13 +183,15 @@
 <!ENTITY fxaccount_account_verified_sub_header "অ্যাকাউন্ট যাঁচাই করা হয়েছে">
 <!ENTITY fxaccount_account_verified_description2 "আপনার তথ্য মুহূর্তের মধ্যেই সিঙ্ক হওয়া শুরু হবে">
 
+<!ENTITY fxaccount_migration_finished_header "আপগ্রেড করা শেষ হয়ে গেছে">
 
 <!ENTITY fxaccount_update_credentials_header "সাইন ইন">
 <!ENTITY fxaccount_update_credentials_button_label "সাইন ইন">
 <!ENTITY fxaccount_update_credentials_unknown_error "সাইন ইন করা গেল না">
 
-
-
+<!ENTITY fxaccount_finish_migrating_header "আপগ্রেড করা শেষ করতে সাইন ইন করুন">
+<!ENTITY fxaccount_finish_migrating_button_label "আপগ্রেড করা শেষ করুন">
+<!ENTITY fxaccount_finish_migrating_description "আপগ্রেড করা অনেক ডাটা ট্রান্সফার করতে পারে। সবথেকে ভালো হবে একটি WiFi নেটওয়ার্কে থাকা।">
 
 <!ENTITY fxaccount_status_header2 "Firefox অ্যাকাউন্ট">
 <!ENTITY fxaccount_status_signed_in_as "উল্লিখিত পরিচয়ে লগ-ইন করা হয়েছে">
@@ -204,9 +206,9 @@
 <!ENTITY fxaccount_status_needs_credentials "কানেক্ট করা গেল না । সাইন ইন করতে এখানে যান।">
 <!ENTITY fxaccount_status_needs_upgrade "সাইন ইন করতে হলে আপনাকে &brandShortName; আপগ্রেড করতেই হবে।">
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled "&syncBrand.shortName.label; সেট আপ করা হয়েছে, কিন্তু স্বয়ংক্রিয়ভাবে সিঙ্ক হয় না। অ্যান্ড্রয়েড সেটিংসে “Auto-sync data” টগল করুন &gt; ডেটা ব্যবহার প্রণালী।">
-
+<!ENTITY fxaccount_status_needs_master_sync_automatically_enabled_v21 "&syncBrand.shortName.label; সেট আপ করা হয়েছে, কিন্তু স্বয়ংক্রিয়ভাবে সিঙ্ক হয় না। অ্যান্ড্রয়েড সেটিংসে “Auto-sync data” টগল করুন &gt; ডেটা ব্যবহার প্রণালী।">
 <!ENTITY fxaccount_status_needs_account_enabled "&syncBrand.shortName.label; সেট আপ করা হয়েছে, কিন্তু স্বয়ংক্রিয়ভাবে সিঙ্ক হয় না। সিঙ্ক শুরু করতে টোকা মারুন।">
-
+<!ENTITY fxaccount_status_needs_finish_migrating "আপনার নতুন Firefox অ্যাকাউন্টে সাইন ইন করবার জন্য ট্যাপ করুন।">
 <!ENTITY fxaccount_status_bookmarks "বুকমার্কসমূহ">
 <!ENTITY fxaccount_status_history "পূর্ববর্তী তথ্য">
 <!ENTITY fxaccount_status_passwords "পাসওয়ার্ডসমূহ">
@@ -254,11 +256,14 @@
 <!ENTITY fxaccount_remote_error_SERVICE_TEMPORARILY_UNAVAILABLE_TO_DUE_HIGH_LOAD "সার্ভার ব্যস্ত, তাড়াতাড়ি পুনঃপ্রয়াস করুন">
 <!ENTITY fxaccount_remote_error_UNKNOWN_ERROR "একটা সমস্যা ছিল সেখানে">
 <!ENTITY fxaccount_remote_error_COULD_NOT_CONNECT "নেটওয়ার্ক এর সাথে কানেক্ট করা যাচ্ছে না">
-
+<!ENTITY fxaccount_remote_error_ACCOUNT_LOCKED "অ্যাকাউন্ট লক হয়ে গেছে। &formatS1;">
 
 <!ENTITY fxaccount_sync_sign_in_error_notification_title2 "&syncBrand.shortName.label; টি যুক্ত নয়">
 <!-- Localization note: the format string below will be replaced
      with the Firefox Account's email address. -->
+<!ENTITY fxaccount_sync_sign_in_error_notification_text2 "&formatS; রূপে সাইন ইন করতে আবার ট্যাপ করুন">
 
+<!ENTITY fxaccount_sync_finish_migrating_notification_title "&syncBrand.shortName.label; আপগ্রেড করা শেষ?">
 <!-- Localization note: the format string below will be replaced
      with the Firefox Account's email address. -->
+<!ENTITY fxaccount_sync_finish_migrating_notification_text "&formatS; রূপে সাইন ইন করতে ট্যাপ করুন">
