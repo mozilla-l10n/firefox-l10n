@@ -172,6 +172,8 @@
 <!ENTITY pref_cookies_not_accept_foreign "Tunante, bila nda aleewa waani">
 <!ENTITY pref_cookies_disabled "Kayante">
 
+<!ENTITY pref_tracking_protection_title "Ganayan jejebuyan">
+<!ENTITY pref_tracking_protection_summary "&brandShortName; ga ganji interneti nungey ma war gana">
 <!ENTITY pref_donottrack_title "May ši ay gana">
 <!ENTITY pref_donottrack_summary "&brandShortName; ga har nungey se kaŋ war ši baa boro ma war gana">
 
@@ -429,6 +431,8 @@ size. -->
 <!ENTITY home_remote_tabs_empty "Wa cebe ne war nor lokey kaŋ hun jinay taney ga.">
 <!ENTITY home_remote_tabs_unable_to_connect "Ši hin ka ciya">
 <!ENTITY home_remote_tabs_need_to_sign_in "Huru taare ka war Firefox kontoo cee nda ka gaabandi ka hangandi.">
+<!ENTITY home_remote_tabs_need_to_finish_migrating "War Firefox kontu taagaa soolu!">
+
 <!ENTITY home_remote_tabs_trouble_verifying "Šenday war kontu tabatandiyan ra?">
 <!ENTITY home_remote_tabs_need_to_verify "Taare war Firefox kontoo koroši ka šintin ka hangandi.">
 
@@ -528,12 +532,6 @@ Android ra">
 
 <!ENTITY updater_apply_title2 "Taagandiri ga bara &brandShortName; še">
 <!ENTITY updater_apply_select2 "Daaru ka taagandi">
-<!-- New tablet UI -->
-<!-- LOCALIZATION NOTE (new_tablet_restart): Notification displayed after the user toggles the new tablet UI in the settings screen.-->
-
-
-<!ENTITY new_tablet_restart "Ceecikaa tunandi taaga hala barmawey ma hin ka goro">
-<!ENTITY new_tablet_pref "Walha diji taagaa tunandi">
 <!-- Guest mode -->
 
 <!ENTITY new_guest_session "Yaw goywaati taaga">

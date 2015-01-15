@@ -170,6 +170,9 @@
 <!ENTITY fxaccount_confirm_account_change_email "Dirŋa bataga aderesoo wa?">
 <!ENTITY fxaccount_confirm_account_verification_link_sent2 "Tabatandiyan bataga sanbandi">
 <!ENTITY fxaccount_confirm_account_verification_link_not_sent2 "Mana hin ka tabatandiyan bataga sanba">
+<!ENTITY fxaccount_resend_unlock_code_button_label "Bataga feeriyan sanba taaga">
+<!ENTITY fxaccount_unlock_code_sent "Kontu feeriyan bataga sanbandi">
+<!ENTITY fxaccount_unlock_code_not_sent "Mana hin ka kontu feeriyan bataga sanba">
 
 <!ENTITY fxaccount_sign_in_sub_header "Huru">
 <!ENTITY fxaccount_sign_in_button_label "Huru">
@@ -180,9 +183,15 @@
 <!ENTITY fxaccount_account_verified_sub_header "Kontu tabatante">
 <!ENTITY fxaccount_account_verified_description2 "War bayhayey ga šintin ka hangandi sohõ.">
 
+<!ENTITY fxaccount_migration_finished_header "Taagandiyan timme">
+
 <!ENTITY fxaccount_update_credentials_header "Huru">
 <!ENTITY fxaccount_update_credentials_button_label "Huru">
 <!ENTITY fxaccount_update_credentials_unknown_error "Mana hin ka huru">
+
+<!ENTITY fxaccount_finish_migrating_header "Huru ka taagandiyan benandi">
+<!ENTITY fxaccount_finish_migrating_button_label "Taagandiyan benandi">
+<!ENTITY fxaccount_finish_migrating_description "Taagandiyan ga hin ka bayhaya boobo berandi. Fondo bešere ti WiFi sankay bande.">
 
 <!ENTITY fxaccount_status_header2 "Firefox kontu">
 <!ENTITY fxaccount_status_signed_in_as "Huru sanda">
@@ -197,7 +206,9 @@
 <!ENTITY fxaccount_status_needs_credentials "Mana hin ka ciya. Karkar ka huru.">
 <!ENTITY fxaccount_status_needs_upgrade "War ga hima ka &brandShortName; taagandi ka huru.">
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled "&syncBrand.shortName.label; kayandi, amm\u0027a ši hangandi nga boŋše. “Auto-sync data” kanji Android kayandiyaney ra &gt; Bayhaya goy fondo.">
+<!ENTITY fxaccount_status_needs_master_sync_automatically_enabled_v21 "&syncBrand.shortName.label; kayandi, amm\u0027a ši hangandi nga boŋ se. “Auto-sync data” kanji Android kayandiyaney ra &gt; Kontey.">
 <!ENTITY fxaccount_status_needs_account_enabled "&syncBrand.shortName.label; kayandi, amm\u0027a ši hangandi nga boŋše. Karkar ka šintin ka hangandi.">
+<!ENTITY fxaccount_status_needs_finish_migrating "Karkar ka huru war Firefox kontu taagaa ra.">
 <!ENTITY fxaccount_status_bookmarks "Doo-šilbawey">
 <!ENTITY fxaccount_status_history "Taariki">
 <!ENTITY fxaccount_status_passwords "Šennikufaley">
@@ -245,8 +256,14 @@
 <!ENTITY fxaccount_remote_error_SERVICE_TEMPORARILY_UNAVAILABLE_TO_DUE_HIGH_LOAD "Feršikaa goo goy ra, ceeci koyne kayna">
 <!ENTITY fxaccount_remote_error_UNKNOWN_ERROR "Šenday foo bangay">
 <!ENTITY fxaccount_remote_error_COULD_NOT_CONNECT "Ši hin ka sankaa cee">
+<!ENTITY fxaccount_remote_error_ACCOUNT_LOCKED "Kontoo n\u0027 ka kufal. &formatS1;">
 
 <!ENTITY fxaccount_sync_sign_in_error_notification_title2 "&syncBrand.shortName.label; mana dobandi">
 <!-- Localization note: the format string below will be replaced
      with the Firefox Account's email address. -->
 <!ENTITY fxaccount_sync_sign_in_error_notification_text2 "Karkar ka huru sanda &formatS;">
+
+<!ENTITY fxaccount_sync_finish_migrating_notification_title "&syncBrand.shortName.label; taagandiyan benandi?">
+<!-- Localization note: the format string below will be replaced
+     with the Firefox Account's email address. -->
+<!ENTITY fxaccount_sync_finish_migrating_notification_text "Karkar ka huru sanda &formatS;">

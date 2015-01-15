@@ -6,8 +6,11 @@
 <!ENTITY  window.width                    "38em">
 <!ENTITY  window.macWidth                 "41em">
 
-<!ENTITY  allowPagesToUse.label           "Moɲey noo fondo ka ngey boŋ noonawey suuba, manti ay beene suubarey">
-<!ENTITY  allowPagesToUse.accesskey       "M">
+
+
+<!ENTITY  overridePageColors.always.label "Waati kul">
+
+<!ENTITY  overridePageColors.never.label  "Abada">
 
 <!ENTITY  color                           "Kalimaɲaa kuru nda bandafaari">
 <!ENTITY  textColor.label                 "Kalimaɲaa kuru:">
