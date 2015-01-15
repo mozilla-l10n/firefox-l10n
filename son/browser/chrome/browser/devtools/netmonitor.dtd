@@ -205,13 +205,21 @@
 <!ENTITY netmonitorUI.security.protocolVersion "Sanbari fondo dumi:">
 <!-- LOCALIZATION NOTE (netmonitorUI.security.cipherSuite): This is the label displayed
   -  in the security tab describing the cipher suite used to secure this connection. -->
+
+<!ENTITY netmonitorUI.security.cipherSuite "Hinna kuru:">
 <!-- LOCALIZATION NOTE (netmonitorUI.security.hsts): This is the label displayed
   -  in the security tab describing the usage of HTTP Strict Transport Security. -->
+
+<!ENTITY netmonitorUI.security.hsts "HTTP bisandiyan waažibi saajaw:">
 <!-- LOCALIZATION NOTE (netmonitorUI.security.hpkp): This is the label displayed
   -  in the security tab describing the usage of Public Key Pinning. -->
+
+<!ENTITY netmonitorUI.security.hpkp "Baytal  kufal kanjiyan:">
 <!-- LOCALIZATION NOTE (netmonitorUI.security.connection): This is the label displayed
   -  in the security tab describing the section containing information related to
   -  the secure connection. -->
+
+<!ENTITY netmonitorUI.security.connection "Ciyari:">
 <!-- LOCALIZATION NOTE (netmonitorUI.security.certificate): This is the label displayed
   -  in the security tab describing the server certificate section. -->
 
