@@ -4,6 +4,7 @@
 
 <!ENTITY prefWindow.titleWin "Možnosti">
 <!ENTITY prefWindow.titleGNOME "Předvolby aplikace &brandShortName; ">
+<!ENTITY  prefWindow.titleMAC     "Předvolby">
 <!ENTITY prefWindow.styleWindows "width: 44em; min-height: 39em;">
 <!ENTITY prefWindow.styleMac "width: 47em;">
 <!ENTITY prefWindow.styleGNOME "width: 48em; min-height: 40em;">
