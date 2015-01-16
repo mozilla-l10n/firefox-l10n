@@ -12,6 +12,10 @@
 <!ENTITY pref.dateformat.long "Dlouhý" >
 <!ENTITY pref.dateformat.short "Krátký"  >
 
+<!ENTITY pref.timezones.caption "Časová zóna">
+<!ENTITY pref.timezones.label "Zvolte nejbližší město ve vaší časové zóně:">
+<!ENTITY pref.timezones.accesskey "Z">
+
 <!ENTITY pref.defaults.label "Výchozí hodnota pro nové položky">
 <!ENTITY pref.events.label "Události">
 <!ENTITY pref.tasks.label "Úkoly">
