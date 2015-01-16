@@ -11,6 +11,7 @@
   The label associated with this accesskey can be found in 
   preferences.properties as removeSelectedCookies.
 -->
+<!ENTITY     button.removeSelectedCookies.accesskey "ш">
 <!ENTITY     button.removeAllCookies.label "Барлығын өшіру">
 <!ENTITY     button.removeAllCookies.accesskey "Б">
 

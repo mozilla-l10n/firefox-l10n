@@ -6,10 +6,11 @@
 <!ENTITY  window.width                    "38em">
 <!ENTITY  window.macWidth                 "41em">
 
-
+<!ENTITY  overridePageColors.label        "Парақ көрсеткен түстерді менің төмендегі таңдауымен алмастыру:">
+<!ENTITY  overridePageColors.accesskey    "л">
 
 <!ENTITY  overridePageColors.always.label "Әрқашан">
-
+<!ENTITY  overridePageColors.auto.label   "Тек жоғары контрастты темалармен">
 <!ENTITY  overridePageColors.never.label  "Ешқашан">
 
 <!ENTITY  color                           "Мәтін мен аясы">
