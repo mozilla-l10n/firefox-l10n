@@ -263,7 +263,8 @@
      with the Firefox Account's email address. -->
 <!ENTITY fxaccount_sync_sign_in_error_notification_text2 'Притисните да се пријавите као &formatS;'>
 
-<!ENTITY fxaccount_sync_sign_in_error_notification_title2 '&syncBrand.shortName.label; није конектован'>
-<!-- Note to translators: the format string below will be replaced
+<!ENTITY fxaccount_sync_finish_migrating_notification_title 'Завршити &syncBrand.shortName.label; надоградњу?'>
+<!-- Localization note: the format string below will be replaced
      with the Firefox Account's email address. -->
-<!ENTITY fxaccount_sync_sign_in_error_notification_text2 'Притисните да се пријавите као &formatS;'>
+<!ENTITY fxaccount_sync_finish_migrating_notification_text 'Притисните да се пријавите као &formatS;'>
+
