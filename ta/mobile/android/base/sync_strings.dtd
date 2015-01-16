@@ -170,6 +170,9 @@
 <!ENTITY fxaccount_confirm_account_change_email "இந்த மின்னஞ்சல் முகவரியை மறக்கவா?">
 <!ENTITY fxaccount_confirm_account_verification_link_sent2 "சரிபார்ப்பு மின்னஞ்சல் அனுப்பப்பட்டது">
 <!ENTITY fxaccount_confirm_account_verification_link_not_sent2 "சோதனை மடல் அனுப்ப முடியவில்லை">
+<!ENTITY fxaccount_resend_unlock_code_button_label "பூட்டைத் திறக்கும் மின்னஞ்சலை மீண்டும் அனுப்பு">
+<!ENTITY fxaccount_unlock_code_sent "பூட்டிய கணக்கைத் திறக்க மின்னஞ்சல் அனுப்பப்பட்டது">
+<!ENTITY fxaccount_unlock_code_not_sent "பூட்டிய கணக்கைத் திறக்க மின்னஞ்சல் அனுப்ப முடியவில்லை">
 
 <!ENTITY fxaccount_sign_in_sub_header "உள்நுழை">
 <!ENTITY fxaccount_sign_in_button_label "உள்நுழை">
@@ -180,9 +183,15 @@
 <!ENTITY fxaccount_account_verified_sub_header "கணக்கு சரிபார்க்கப்பட்டது">
 <!ENTITY fxaccount_account_verified_description2 "உங்களுடைய தரவானது உடனே ஒத்திசைவை தொடங்கும்.">
 
+<!ENTITY fxaccount_migration_finished_header "புதுப்பித்தல் முடிந்தது">
+
 <!ENTITY fxaccount_update_credentials_header "உள்நுழை">
 <!ENTITY fxaccount_update_credentials_button_label "உள்நுழை">
 <!ENTITY fxaccount_update_credentials_unknown_error "உள்நுழைய முடியாது">
+
+<!ENTITY fxaccount_finish_migrating_header "புதுப்பித்தலை முடிக்க உள்நுழையும்">
+<!ENTITY fxaccount_finish_migrating_button_label "புதுப்பித்தலை முடி">
+<!ENTITY fxaccount_finish_migrating_description "புதுப்பித்தல் நிறைய தரவுகளைப் பரிமாற்றம் செய்யும். எனவே வை-பை பிணையத்தில் இருப்பது நன்று.">
 
 <!ENTITY fxaccount_status_header2 "பயர்பாக்ஸ் கணக்கு">
 <!ENTITY fxaccount_status_signed_in_as "ஆக உள்நுழைந்துள்ளீர்கள்">
@@ -197,7 +206,9 @@
 <!ENTITY fxaccount_status_needs_credentials "இணைக்க முடியாது. உள்நுழைய தடவவும்.">
 <!ENTITY fxaccount_status_needs_upgrade "உள்நுழைய நீங்கள் &brandShortName; ஐ மேம்படுத்த வேண்டும்.">
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled "&syncBrand.shortName.label; அமைக்கப்பட்டது, ஆனால் தானியக்க ஒத்திசைவு இல்லை. ஆண்ட்ராய்டு அமைவுகளில் “தானியக்க-ஒத்திசைவு தரவு” &gt; தரவு பயன்பாடுகளுக்கிடையே இடமாறவும்.">
+<!ENTITY fxaccount_status_needs_master_sync_automatically_enabled_v21 "&syncBrand.shortName.label; அமைக்கப்பட்டது, ஆனால் தானியக்க ஒத்திசைவு இல்லை. ஆண்ட்ராய்டு அமைவுகள் &gt; கணக்கு என்பதில் “தானியக்க-ஒத்திசைவு தரவு” மாற்றவும்.">
 <!ENTITY fxaccount_status_needs_account_enabled "&syncBrand.shortName.label; அமைக்கப்பட்டது, ஆனால் தானியக்க ஒத்திசைவு இல்லை. ஓத்திசைவு தொடங்க தொடவும்.">
+<!ENTITY fxaccount_status_needs_finish_migrating "உங்கள் புதிய பயர்பாக்ஸ் கணக்கில் உள்நுழைய தட்டவும்.">
 <!ENTITY fxaccount_status_bookmarks "புத்தகக்குறிகள்">
 <!ENTITY fxaccount_status_history "வரலாறு">
 <!ENTITY fxaccount_status_passwords "கடவுச்சொற்கள்">
@@ -245,8 +256,14 @@
 <!ENTITY fxaccount_remote_error_SERVICE_TEMPORARILY_UNAVAILABLE_TO_DUE_HIGH_LOAD "சேவகன் வேலை நிமித்தமாக உள்ளது, மீண்டும் முயற்சிக்கவும்">
 <!ENTITY fxaccount_remote_error_UNKNOWN_ERROR "அங்க ஏதோ ஒரு பிரச்சனை">
 <!ENTITY fxaccount_remote_error_COULD_NOT_CONNECT "பிணையத்துடன் இணைக்க இயலவில்லை">
+<!ENTITY fxaccount_remote_error_ACCOUNT_LOCKED "கணக்கு பூட்டப்பட்டுள்ளது. &formatS1;">
 
 <!ENTITY fxaccount_sync_sign_in_error_notification_title2 "&syncBrand.shortName.label; ஆனது இணைக்கப்படவில்லை">
 <!-- Localization note: the format string below will be replaced
      with the Firefox Account's email address. -->
-<!ENTITY fxaccount_sync_sign_in_error_notification_text2 "&formatS; ஆக உள்நுழைய தட்டு">
+<!ENTITY fxaccount_sync_sign_in_error_notification_text2 "&formatS; ஆக நுழைய தட்டவும்">
+
+<!ENTITY fxaccount_sync_finish_migrating_notification_title "&syncBrand.shortName.label; புதுப்பித்தலை முடித்ததா?">
+<!-- Localization note: the format string below will be replaced
+     with the Firefox Account's email address. -->
+<!ENTITY fxaccount_sync_finish_migrating_notification_text "&formatS; ஆக நுழைய தட்டவும்">
