@@ -172,6 +172,8 @@
 <!ENTITY pref_cookies_not_accept_foreign "செயலிலுள்ள, 3ஆவது கட்சி நீங்கலாக">
 <!ENTITY pref_cookies_disabled "முடக்கப்பட்டது">
 
+<!ENTITY pref_tracking_protection_title "தடமறியல் பாதுகாப்பு">
+<!ENTITY pref_tracking_protection_summary "உங்களை தடமறியும் தளங்களை &brandShortName; இது தடுக்கிறது">
 <!ENTITY pref_donottrack_title "தடமறிய வேண்டாம்">
 <!ENTITY pref_donottrack_summary "&brandShortName; தளங்களிடம் உங்களை தடமறிய வேண்டாம் என சொல்லவும்">
 
@@ -429,6 +431,8 @@ size. -->
 <!ENTITY home_remote_tabs_empty "மற்ற சாதனங்களின் கீற்றுகள் இங்கே தோன்றும்.">
 <!ENTITY home_remote_tabs_unable_to_connect "இணைக்க முடியவில்லை">
 <!ENTITY home_remote_tabs_need_to_sign_in "ஒத்திசைவைத் தொடர பயர்பாக்ஸ் கணக்குடன் புகுபதிகைச் செய்யவும்.">
+<!ENTITY home_remote_tabs_need_to_finish_migrating "உங்களின் புதிய பயர்பாக்ஸ் கணக்கு தயார்!">
+
 <!ENTITY home_remote_tabs_trouble_verifying "உங்கள் கணக்கைச் சரிபார்ப்பதில் பிழை?">
 <!ENTITY home_remote_tabs_need_to_verify "பயர்பாக்ஸ் கணக்குடன் புகுபதிகைச் செய்து ஒத்திசைவைத் தொடங்கவும்.">
 
@@ -528,12 +532,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY updater_apply_title2 "&brandShortName; க்கு புதுபித்தல் இருக்கிறது">
 <!ENTITY updater_apply_select2 "புதுப்பிக்க தொடவும்">
-<!-- New tablet UI -->
-<!-- LOCALIZATION NOTE (new_tablet_restart): Notification displayed after the user toggles the new tablet UI in the settings screen.-->
-
-
-<!ENTITY new_tablet_restart "மாற்றங்களைக் காண உலாவியை மீள்துவக்கம் செய்யவும்">
-<!ENTITY new_tablet_pref "புதிய கைக்கணினின் இடைமுகப்பை செயல்படுத்து">
 <!-- Guest mode -->
 
 <!ENTITY new_guest_session "புதிய விருந்தினர் அமர்வு">
