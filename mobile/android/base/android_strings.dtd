@@ -172,6 +172,8 @@
 <!ENTITY pref_cookies_not_accept_foreign "Ingeschakeld, behalve van derden">
 <!ENTITY pref_cookies_disabled "Uitgeschakeld">
 
+<!ENTITY pref_tracking_protection_title "Volgbescherming">
+<!ENTITY pref_tracking_protection_summary "&brandShortName; zal voorkomen dat websites u volgen">
 <!ENTITY pref_donottrack_title "Niet volgen">
 <!ENTITY pref_donottrack_summary "&brandShortName; zal websites laten weten dat u niet gevolgd wilt worden">
 
@@ -429,6 +431,8 @@ size. -->
 <!ENTITY home_remote_tabs_empty "Hier verschijnen uw tabbladen van andere apparaten.">
 <!ENTITY home_remote_tabs_unable_to_connect "Kan geen verbinding maken">
 <!ENTITY home_remote_tabs_need_to_sign_in "Meld u aan om uw Firefox-account opnieuw te verbinden en door te gaan met synchroniseren.">
+<!ENTITY home_remote_tabs_need_to_finish_migrating "Uw Firefox Firefox-account is klaar!">
+
 <!ENTITY home_remote_tabs_trouble_verifying "Probleem bij het verifiëren van uw account?">
 <!ENTITY home_remote_tabs_need_to_verify "Verifieer uw Firefox-account om het synchroniseren te starten.">
 
@@ -528,12 +532,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY updater_apply_title2 "Update voor &brandShortName; beschikbaar">
 <!ENTITY updater_apply_select2 "Raak aan om bij te werken">
-
-<!-- New tablet UI -->
-
-<!-- LOCALIZATION NOTE (new_tablet_restart): Notification displayed after the user toggles the new tablet UI in the settings screen.-->
-<!ENTITY new_tablet_restart "Herstart de browser om de wijzigingen van kracht te laten worden">
-<!ENTITY new_tablet_pref "Nieuwe tablet-UI inschakelen">
 
 <!-- Guest mode -->
 <!ENTITY new_guest_session "Nieuwe gastsessie">
