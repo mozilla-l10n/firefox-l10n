@@ -6,8 +6,12 @@
 <!ENTITY window.width "38em">
 <!ENTITY window.macWidth "41em">
 
-<!ENTITY allowPagesToUse.label "Povolit stránkám používat vlastní barvy namísto výše zvolených">
-<!ENTITY allowPagesToUse.accesskey "b">
+<!ENTITY  overridePageColors.label        "Namísto vlastních barev stránek používat výše zvolené:">
+<!ENTITY  overridePageColors.accesskey    "b">
+
+<!ENTITY  overridePageColors.always.label "Vždy">
+<!ENTITY  overridePageColors.auto.label   "Pouze s kontrastními vzhledy">
+<!ENTITY  overridePageColors.never.label  "Nikdy">
 
 <!ENTITY color "Text a pozadí">
 <!ENTITY textColor.label "Text:">
