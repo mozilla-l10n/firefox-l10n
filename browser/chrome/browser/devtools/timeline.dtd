@@ -29,6 +29,8 @@
 <!ENTITY timelineUI.memoryCheckbox.tooltip "মেমোরির পরিমাপ সক্রিয় করুন">
 <!-- LOCALIZATION NOTE (timelineUI.filterButton.tooltip): This string
   -  is displayed next to the filter button-->
+
+<!ENTITY timelineUI.filterButton.tooltip "নির্বাচন করুন কোন ডাটা দেখাতে হবে">
 <!-- LOCALIZATION NOTE (timelineUI.emptyNotice1/2): This is the label shown
   -  in the timeline view when empty. -->
 
