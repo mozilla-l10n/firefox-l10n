@@ -4,13 +4,17 @@
 
 <!ENTITY offlineDialog.title "Nastavení režimu offline">
 
-<!ENTITY textStartUp "Při startu:">
+<!ENTITY checkAutoDetect.label "Automaticky sledovat změnu stavu online">
+<!ENTITY checkAutoDetect.accesskey "s">
+<!ENTITY titleStartUp "Při startu:">
 <!ENTITY radioRememberPrevState.label "Pamatovat si předchozí stav">
 <!ENTITY radioRememberPrevState.accesskey "P">
-<!ENTITY radioAskMe.label "Při startu se dotázat na stav online">
-<!ENTITY radioAskMe.accesskey "s">
+<!ENTITY radioAskState.label "Dotázat se na stav online">
+<!ENTITY radioAskState.accesskey "D">
 <!ENTITY radioAlwaysOnline.label "Vždy začít v režimu online">
 <!ENTITY radioAlwaysOnline.accesskey "V">
+<!ENTITY radioAlwaysOffline.label "Vždy začít v režimu offline">
+<!ENTITY radioAlwaysOffline.accesskey "f">
 
 <!ENTITY textGoingOnline "Odeslat neodeslané zprávy při přechodu do online režimu?">
 <!ENTITY radioAutoSend.label "Ano">
@@ -18,7 +22,7 @@
 <!ENTITY radioNotSend.label "Ne">
 <!ENTITY radioNotSend.accesskey "e">
 <!ENTITY radioAskUnsent.label "Zeptat se">
-<!ENTITY radioAskUnsent.accesskey "A">
+<!ENTITY radioAskUnsent.accesskey "t">
 <!ENTITY textGoingOffline "Stáhnout zprávy pro offline použití při přechodu do offline režimu?">
 <!ENTITY radioAutoDownload.label "Ano">
 <!ENTITY radioAutoDownload.accesskey "o">
