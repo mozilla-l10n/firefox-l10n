@@ -170,6 +170,9 @@
 <!ENTITY fxaccount_confirm_account_change_email 'Заборавити ову адресу е-поште?'>
 <!ENTITY fxaccount_confirm_account_verification_link_sent2 'Верификациона е-пошта је послата'>
 <!ENTITY fxaccount_confirm_account_verification_link_not_sent2 'Нисам могао послат верификациону е-пошту'>
+<!ENTITY fxaccount_resend_unlock_code_button_label 'Поново пошаљу е-пошту за откључавање'>
+<!ENTITY fxaccount_unlock_code_sent 'Е-пошта за откључавање налога је послата'>
+<!ENTITY fxaccount_unlock_code_not_sent 'Нисам успео послати е-потшу за откључавање'>
 
 <!ENTITY fxaccount_sign_in_sub_header 'Пријави се'>
 <!ENTITY fxaccount_sign_in_button_label 'Пријави се'>
@@ -180,9 +183,15 @@
 <!ENTITY fxaccount_account_verified_sub_header 'Налог је верификован'>
 <!ENTITY fxaccount_account_verified_description2 'Ваши подаци ће започети да се синхронизују.'>
 
+<!ENTITY fxaccount_migration_finished_header 'Надоградња је завршена'>
+
 <!ENTITY fxaccount_update_credentials_header 'Пријави се'>
 <!ENTITY fxaccount_update_credentials_button_label 'Пријави се'>
 <!ENTITY fxaccount_update_credentials_unknown_error 'Не могу да се пријавим'>
+
+<!ENTITY fxaccount_finish_migrating_header 'Пријавите се да бисте завршили са надоградњом'>
+<!ENTITY fxaccount_finish_migrating_button_label 'Заврши са надоградњом'>
+<!ENTITY fxaccount_finish_migrating_description 'Надограђивање може да користи много података мобилне мреже. Најбоље је да користите WiFi мрежу.'>
 
 <!ENTITY fxaccount_status_header2 'Firefox налог'>
 <!ENTITY fxaccount_status_signed_in_as 'Пријављен као'>
@@ -197,7 +206,9 @@
 <!ENTITY fxaccount_status_needs_credentials 'Не могу се повезати. Притисните да се пријавите.'>
 <!ENTITY fxaccount_status_needs_upgrade 'Морате да надоградите &brandShortName; да би се пријавили.'>
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled '&syncBrand.shortName.label; је подешен, али не синхронизује аутоматски. Активирајте “Auto-sync data” у Android поставкама &gt; Data Usage.'>
+<!ENTITY fxaccount_status_needs_master_sync_automatically_enabled_v21 '&syncBrand.shortName.label; је подешен, али не синхронизује аутоматски. Активирајте “Auto-sync data” у Android поставкама &gt; Accounts.'>
 <!ENTITY fxaccount_status_needs_account_enabled '&syncBrand.shortName.label; је подешен, али не синхронизује аутоматски. Притисните да бисте започели синхронизацију.'>
+<!ENTITY fxaccount_status_needs_finish_migrating 'Притисните да се пријавите на Ваш нови Firefox налог.'>
 <!ENTITY fxaccount_status_bookmarks 'Забелешке'>
 <!ENTITY fxaccount_status_history 'Историја'>
 <!ENTITY fxaccount_status_passwords 'Лозинке'>
@@ -245,8 +256,14 @@
 <!ENTITY fxaccount_remote_error_SERVICE_TEMPORARILY_UNAVAILABLE_TO_DUE_HIGH_LOAD 'Сервер је заузет, покушајте поново касније'>
 <!ENTITY fxaccount_remote_error_UNKNOWN_ERROR 'Дошло је до проблема'>
 <!ENTITY fxaccount_remote_error_COULD_NOT_CONNECT 'Не могу да се повежем на мрежу'>
+<!ENTITY fxaccount_remote_error_ACCOUNT_LOCKED 'Налог је закључан. &formatS1;'>
 
-<!ENTITY fxaccount_sync_sign_in_error_notification_title2 '&syncBrand.shortName.label; is not connected'>
+<!ENTITY fxaccount_sync_sign_in_error_notification_title2 '&syncBrand.shortName.label; није конектован'>
+<!-- Localization note: the format string below will be replaced
+     with the Firefox Account's email address. -->
+<!ENTITY fxaccount_sync_sign_in_error_notification_text2 'Притисните да се пријавите као &formatS;'>
+
+<!ENTITY fxaccount_sync_sign_in_error_notification_title2 '&syncBrand.shortName.label; није конектован'>
 <!-- Note to translators: the format string below will be replaced
      with the Firefox Account's email address. -->
 <!ENTITY fxaccount_sync_sign_in_error_notification_text2 'Притисните да се пријавите као &formatS;'>

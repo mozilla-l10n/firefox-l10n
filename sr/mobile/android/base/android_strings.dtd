@@ -172,6 +172,8 @@
 <!ENTITY pref_cookies_not_accept_foreign "Омогућено, укључујући трећа лица">
 <!ENTITY pref_cookies_disabled "Онемогућени">
 
+<!ENTITY pref_tracking_protection_title "Заштита од праћења">
+<!ENTITY pref_tracking_protection_summary "&brandShortName; ће спречити сајтове да Вас прате">
 <!ENTITY pref_donottrack_title "Не желим да ме прате">
 <!ENTITY pref_donottrack_summary "&brandShortName; ће рећи сајтовима да не желите да будете праћени">
 
@@ -429,6 +431,8 @@ size. -->
 <!ENTITY home_remote_tabs_empty "Ваши језичци са других уређаја су приказани овде.">
 <!ENTITY home_remote_tabs_unable_to_connect "Не могу да се конектујем">
 <!ENTITY home_remote_tabs_need_to_sign_in "Пријавите се да бисте се поново повезали на Ваш Firefox налог и наставили са синхронизацијом.">
+<!ENTITY home_remote_tabs_need_to_finish_migrating "Ваш нови Firefox налог је спреман!">
+
 <!ENTITY home_remote_tabs_trouble_verifying "Проблеми при верификацији налога?">
 <!ENTITY home_remote_tabs_need_to_verify "Молимо верификујте Ваш Firefox налог да бисте започели синхронизацију.">
 
@@ -528,12 +532,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY updater_apply_title2 "Надоградња је доступна за &brandShortName;">
 <!ENTITY updater_apply_select2 "Притисните да надоградите">
-
-<!-- New tablet UI -->
-
-<!-- LOCALIZATION NOTE (new_tablet_restart): Notification displayed after the user toggles the new tablet UI in the settings screen.-->
-<!ENTITY new_tablet_restart "Рестартујте Ваш прегледач да би промене имале ефеката">
-<!ENTITY new_tablet_pref "Омогући нови UI таблета">
 
 <!-- Guest mode -->
 <!ENTITY new_guest_session "Нова сесија за госте">
