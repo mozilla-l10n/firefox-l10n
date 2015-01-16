@@ -172,7 +172,8 @@
 <!ENTITY pref_cookies_not_accept_foreign "Etkin, 3. parti hariç">
 <!ENTITY pref_cookies_disabled "Devre dışı">
 
-
+<!ENTITY pref_tracking_protection_title "İzleme koruması">
+<!ENTITY pref_tracking_protection_summary "&brandShortName; sizi sitelerin izlemesinden koruyacak">
 <!ENTITY pref_donottrack_title "Beni izleme">
 <!ENTITY pref_donottrack_summary "&brandShortName;sitelere izlenmek istemediğinizi söyleyecek">
 
@@ -430,7 +431,7 @@ size. -->
 <!ENTITY home_remote_tabs_empty "Diğer cihazlardaki sekmeleriniz burada görünür.">
 <!ENTITY home_remote_tabs_unable_to_connect "Bağlanılamadı">
 <!ENTITY home_remote_tabs_need_to_sign_in "Firefox Hesabı\u0027nızı yeniden bağlayarak eşitlemeyi sürdürmek için lütfen giriş yapın.">
-
+<!ENTITY home_remote_tabs_need_to_finish_migrating "Yeni Firefox Hesabınız hazır!">
 
 <!ENTITY home_remote_tabs_trouble_verifying "Hesabınızı doğrulayamadınız mı?">
 <!ENTITY home_remote_tabs_need_to_verify "Eşitlemeyi başlatmak için lütfen Firefox Hesabınızı doğrulayın.">
