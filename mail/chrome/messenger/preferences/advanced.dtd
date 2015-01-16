@@ -16,6 +16,8 @@
 <!ENTITY enableGlodaSearch.label       "فعّل البحث العمومي والفهرسة">
 <!ENTITY enableGlodaSearch.accesskey   "ف">
 
+
+
 <!ENTITY scrolling.label               "اللف">
 <!ENTITY useAutoScroll.label           "استخدم اللّف الآلي">
 <!ENTITY useAutoScroll.accesskey       "ف">

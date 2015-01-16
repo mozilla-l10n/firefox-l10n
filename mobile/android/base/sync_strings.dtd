@@ -169,6 +169,9 @@
 <!ENTITY fxaccount_confirm_account_verification_link_sent2 "أُرسل بريد التأكيد">
 <!ENTITY fxaccount_confirm_account_verification_link_not_sent2 "تعذّر إرسال بريد التأكيد">
 
+
+
+
 <!ENTITY fxaccount_sign_in_sub_header "لِج">
 <!ENTITY fxaccount_sign_in_button_label "لِج">
 <!ENTITY fxaccount_sign_in_forgot_password "أنسيت كلمة السر؟">
@@ -178,9 +181,13 @@
 <!ENTITY fxaccount_account_verified_sub_header "اُكّد الحساب">
 <!ENTITY fxaccount_account_verified_description2 "ستبدأ بياناتك في المزامنة آنيًا.">
 
+
 <!ENTITY fxaccount_update_credentials_header "لِج">
 <!ENTITY fxaccount_update_credentials_button_label "لِج">
 <!ENTITY fxaccount_update_credentials_unknown_error "تعذّر الولوج">
+
+
+
 
 <!ENTITY fxaccount_status_header2 "حساب فَيَرفُكس">
 <!ENTITY fxaccount_status_signed_in_as "ولِجت باسم">
@@ -195,7 +202,9 @@
 <!ENTITY fxaccount_status_needs_credentials "تعذر الاتصال. انقر لتسجيل الدخول.">
 <!ENTITY fxaccount_status_needs_upgrade "تحتاج لترقية &brandShortName; لتتمكن من تسجيل الدخول.">
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled "‏&syncBrand.shortName.label; مُعدّ، لكن لا يُزامن تلقائيًا. انقر على ”مزامنة البيانات تلقائيًا“ في إعدادات أندرويد ← استخدام البيانات.">
+
 <!ENTITY fxaccount_status_needs_account_enabled "‏&syncBrand.shortName.label; مُعدّ، لكن لا يُزامن تلقائيًا. انقر لبدء المزامنة.">
+
 <!ENTITY fxaccount_status_bookmarks "العلامات">
 <!ENTITY fxaccount_status_history "التأريخ">
 <!ENTITY fxaccount_status_passwords "كلمات السر">
@@ -241,7 +250,10 @@
 <!ENTITY fxaccount_remote_error_UNKNOWN_ERROR "حدثت مشكلة">
 <!ENTITY fxaccount_remote_error_COULD_NOT_CONNECT "تعذّر الاتصال بالشبكة">
 
+
 <!ENTITY fxaccount_sync_sign_in_error_notification_title2 "‏&syncBrand.shortName.label; غير متّصل">
 <!-- Localization note: the format string below will be replaced
      with the Firefox Account's email address. -->
-<!ENTITY fxaccount_sync_sign_in_error_notification_text2 "انقر لتسجيل الدخول باسم &formatS;">
+
+<!-- Localization note: the format string below will be replaced
+     with the Firefox Account's email address. -->

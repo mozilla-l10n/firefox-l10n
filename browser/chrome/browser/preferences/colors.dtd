@@ -6,8 +6,11 @@
 <!ENTITY  window.width                    "38em">
 <!ENTITY  window.macWidth                 "41em">
 
-<!ENTITY  allowPagesToUse.label           "اسمح للصفحات باختيار ألوانها الخاصة، عوض اختياراتي في الأعلى">
-<!ENTITY  allowPagesToUse.accesskey       "س">
+
+
+<!ENTITY  overridePageColors.always.label "دائمًا">
+
+<!ENTITY  overridePageColors.never.label  "أبدًا">
 
 <!ENTITY  color                           "النّصّ و الخلفيّة">
 <!ENTITY  textColor.label                 "النّص:">

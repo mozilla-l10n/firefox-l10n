@@ -24,6 +24,8 @@
 <!ENTITY contextBeforeCls.label "رشّح قبل فرز السخام">
 <!ENTITY contextAfterCls.label "رشّح بعد فرز السخام">
 
+
+
 <!ENTITY filterActionDesc.label "نفذ الإجراءات التالية:">
 <!ENTITY filterActionDesc.accesskey "ن">
 
