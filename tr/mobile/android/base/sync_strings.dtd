@@ -183,13 +183,15 @@
 <!ENTITY fxaccount_account_verified_sub_header "Hesap onaylandı">
 <!ENTITY fxaccount_account_verified_description2 "Verileriniz az sonra eşitlenmeye başlayacak.">
 
+<!ENTITY fxaccount_migration_finished_header "Yükseltme tamamlandı">
 
 <!ENTITY fxaccount_update_credentials_header "Oturum aç">
 <!ENTITY fxaccount_update_credentials_button_label "Oturum aç">
 <!ENTITY fxaccount_update_credentials_unknown_error "Oturum açılamadı">
 
-
-
+<!ENTITY fxaccount_finish_migrating_header "Yükseltmeyi tamamlamak için oturum açın">
+<!ENTITY fxaccount_finish_migrating_button_label "Yükseltmeyi tamamla">
+<!ENTITY fxaccount_finish_migrating_description "Yükseltme sırasında epey veri aktarımı yapılabilir. WiFi ağına bağlanmanızı öneririz.">
 
 <!ENTITY fxaccount_status_header2 "Firefox Hesabı">
 <!ENTITY fxaccount_status_signed_in_as "Oturum açan">
@@ -204,9 +206,9 @@
 <!ENTITY fxaccount_status_needs_credentials "Bağlanılamadı. Oturum açmak için dokunun.">
 <!ENTITY fxaccount_status_needs_upgrade "Oturum açmak için &brandShortName; tarayıcınızı yükseltmelisiniz.">
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled "&syncBrand.shortName.label; kuruldu ama otomatik olarak eşitleme yapmıyor. Android Ayarları &gt; Veri Kullanımı menüsünden “Verileri otomatik eşitle”yi açın.">
-
+<!ENTITY fxaccount_status_needs_master_sync_automatically_enabled_v21 "&syncBrand.shortName.label; kuruldu ama otomatik olarak eşitleme yapmıyor. Android Ayarları &gt; Hesaplar menüsünden “Verileri otomatik eşitle”yi açın.">
 <!ENTITY fxaccount_status_needs_account_enabled "&syncBrand.shortName.label; kuruldu ama otomatik olarak eşitleme yapmıyor. Eşitlemeyi başlatmak için dokunun.">
-
+<!ENTITY fxaccount_status_needs_finish_migrating "Yeni Firefox Hesabınıza giriş yapmak için dokunun.">
 <!ENTITY fxaccount_status_bookmarks "Yer imleri">
 <!ENTITY fxaccount_status_history "Geçmiş">
 <!ENTITY fxaccount_status_passwords "Parolalar">
@@ -254,11 +256,14 @@
 <!ENTITY fxaccount_remote_error_SERVICE_TEMPORARILY_UNAVAILABLE_TO_DUE_HIGH_LOAD "Sunucu meşgul, daha sonra tekrar deneyin">
 <!ENTITY fxaccount_remote_error_UNKNOWN_ERROR "Bir sorun oluştu">
 <!ENTITY fxaccount_remote_error_COULD_NOT_CONNECT "Ağa bağlanılamıyor">
-
+<!ENTITY fxaccount_remote_error_ACCOUNT_LOCKED "Hesap kilitli. &formatS1;">
 
 <!ENTITY fxaccount_sync_sign_in_error_notification_title2 "&syncBrand.shortName.label; bağlı değil">
 <!-- Localization note: the format string below will be replaced
      with the Firefox Account's email address. -->
+<!ENTITY fxaccount_sync_sign_in_error_notification_text2 "&formatS; olarak oturum açmak için dokunun">
 
+<!ENTITY fxaccount_sync_finish_migrating_notification_title "&syncBrand.shortName.label; yükseltme tamamlansın mı?">
 <!-- Localization note: the format string below will be replaced
      with the Firefox Account's email address. -->
+<!ENTITY fxaccount_sync_finish_migrating_notification_text "&formatS; olarak oturum açmak için dokunun">
