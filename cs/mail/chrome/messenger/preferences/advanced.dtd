@@ -15,6 +15,8 @@
 <!ENTITY telemetryInfoLink.label "Více informací o sběru dat">
 <!ENTITY enableGlodaSearch.label "Povolit globální hledání a indexaci">
 <!ENTITY enableGlodaSearch.accesskey "g">
+<!ENTITY allowHWAccel.label            "Použít hardwarovou akceleraci, je-li dostupná">
+<!ENTITY allowHWAccel.accesskey        "h">
 
 <!ENTITY scrolling.label "Posunování">
 <!ENTITY useAutoScroll.label "Použít automatické posunování">
