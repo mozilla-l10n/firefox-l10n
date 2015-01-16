@@ -6,10 +6,11 @@
 <!ENTITY  window.width                    "38em">
 <!ENTITY  window.macWidth                 "41em">
 
-
+<!ENTITY  overridePageColors.label        "ওপরে আমার নির্বাচনের সাহায্যে এই পেজের দ্বারা উল্লেখ্য রঙগুলো ওভাররাইড(O) করে:">
+<!ENTITY  overridePageColors.accesskey    "O">
 
 <!ENTITY  overridePageColors.always.label "সর্বদা">
-
+<!ENTITY  overridePageColors.auto.label   "শুধুমাত্র উচ্চ বৈসাদৃশ্য থিমের সাথে">
 <!ENTITY  overridePageColors.never.label  "কখনই নয়">
 
 <!ENTITY  color                           "হরফ ও পটভূমি">
