@@ -31,3 +31,5 @@
 <!-- LOCALIZATION NOTE (ignoreDocColors.label): This is option two, and it appends to 'someProvColors' above.  -->
 <!ENTITY useMyColors.label "Vždy použít mnou vybrané barvy, potlačit barvy nastavené na stránce.">
 <!ENTITY useMyColors.accesskey "m">
+<!ENTITY automaticColors.label             "Potlačit barvy nastavené na stránce pouze s kontrastními vzhledy">
+<!ENTITY automaticColors.accesskey         "P">
