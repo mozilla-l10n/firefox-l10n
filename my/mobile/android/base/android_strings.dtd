@@ -120,8 +120,8 @@
 <!ENTITY pref_category_display "မြင်ကွင်း">
 <!ENTITY pref_category_display_summary "စာ၊ ခေါင်းစီးဘား ၊ မြင်ကွင်းပြည့် သုံးဆွဲခြင်း">
 <!ENTITY pref_category_privacy_short "လုံခြုံရေး">
-
-
+<!ENTITY pref_category_privacy_summary "ပတ်စ်ဝတ်များ၊ ကွတ်ကီး၊ ခြေရာခံကိရိယာ အချက်အလက်များအား ထိန်းချုပ်ပါ">
+<!ENTITY pref_category_vendor "&vendorShortName;">
 
 <!ENTITY pref_category_datareporting "ဒေတာ အမျိုးအစား">
 <!ENTITY pref_learn_more "ဆက်လေ့လာပါ">
