@@ -35,7 +35,7 @@
 <!ENTITY sync.checkbox.server.label "Huutoro sarworde feŋtorde">
 <!ENTITY sync.input.server.label "URL Sarworde">
 <!-- Setup Fail -->
-  
+
 <!ENTITY sync.title.fail.label "Horiima teeltaade set-up &syncBrand.shortName.label;">
 <!ENTITY sync.subtitle.fail.label "&syncBrand.fullName.label; horiima seŋaade e sarworde ndee. Aɗa yiɗi etaade goɗngol?">
 <!ENTITY sync.button.tryagain.label "Eto goɗngol">
@@ -44,7 +44,7 @@
 <!ENTITY sync.subtitle.failaccount.label "Cosgol konte e kaɓirgol maa woorii.">
 <!ENTITY sync.subtitle.failmultiple.label "Aɗa jogii ko ɓuri aafannde wootere Firefox? Oo sahaa, &syncBrand.fullName.label; jaɓata tan ko aafannde Firefox wootere laawol gootol. Tiiɗno aaftu cili goɗɗi ɗii ngam huutoraade &syncBrand.shortName.label;.">
 <!-- Setup Success -->
-  
+
 <!ENTITY sync.title.success.label "Teeltagol Gasii">
 <!ENTITY sync.subtitle.success.label1 "Keɓe maa ngoni jooni ko e aawteede e cakkitol. Aɗa waawi yahde to Teelte ngam toppitaade konte maa, walla fuɗɗo wanngoraade &brandShortName;.">
 <!ENTITY sync.settings.label "Teelte">
@@ -73,6 +73,11 @@
 <!-- Account strings -->
 
 <!ENTITY sync.account.label "&syncBrand.fullName.label; (woppaama)">
+<!-- Localization note (sync.default.client.name): Default string of the "Device
+     name" menu item upon setting up Firefox Sync.  The placeholder &formatS1
+     will be replaced by the name of the Firefox release channel and &formatS2
+     by the model name of the Android device. Examples look like "Aurora on
+     GT-I1950" and "Fennec on MI 2S". -->
 <!-- Bookmark folder strings -->
 
 <!ENTITY bookmarks.folder.menu.label "Dosol Maantore">
@@ -108,6 +113,8 @@
 
 
 <!ENTITY fxaccount_full_label "Konte Firefox">
+
+
 <!-- Localization note: these are shown in all screens that query the
      user for an email address and password. Hide and show are button
      labels. -->
@@ -157,8 +164,12 @@
 <!-- Localization note: &formatS; is the Firefox Account's email address. -->
 <!ENTITY fxaccount_confirm_account_verification_link "Jokkol ƴeewtagol neldaama to &formatS;">
 <!ENTITY fxaccount_confirm_account_resend_email "Neltir iimeel">
+
 <!ENTITY fxaccount_confirm_account_verification_link_sent2 "Iimeel ƴeewtindol neldaama">
 <!ENTITY fxaccount_confirm_account_verification_link_not_sent2 "Horiima neldude iimeel ƴeewtindol">
+
+
+
 
 <!ENTITY fxaccount_sign_in_sub_header "Seŋo">
 <!ENTITY fxaccount_sign_in_button_label "Seŋo">
@@ -169,20 +180,30 @@
 <!ENTITY fxaccount_account_verified_sub_header "Konte ƴeewtaama">
 <!ENTITY fxaccount_account_verified_description2 "Maa keɓe maa puɗɗo syncude ko leelaani.">
 
+
 <!ENTITY fxaccount_update_credentials_header "Seŋo">
 <!ENTITY fxaccount_update_credentials_button_label "Seŋo">
 <!ENTITY fxaccount_update_credentials_unknown_error "Horiima seŋaade">
 
+
+
+
 <!ENTITY fxaccount_status_header2 "Konte Firefox">
 <!ENTITY fxaccount_status_signed_in_as "A naatii e innde">
+
+
+
 <!ENTITY fxaccount_status_device_name "Innde kaɓirgol">
+
 <!ENTITY fxaccount_status_sync "&syncBrand.shortName.label;">
 <!ENTITY fxaccount_status_sync_enabled "&syncBrand.shortName.label;: hurminaama">
 <!ENTITY fxaccount_status_needs_verification2 "Konte maa ena cokli ƴeewteede. Tappu ngam neltirde iimeel ƴeewtindol.">
 <!ENTITY fxaccount_status_needs_credentials "Horiima seŋaade. Tappu ngam seŋaade.">
 <!ENTITY fxaccount_status_needs_upgrade "Aɗa sokli hasɗitinde &brandShortName; ngam seŋaade.">
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled "&syncBrand.shortName.label; teeltaama, kono wonaa e syncude e jaajol. Toggilo “Auto-sync data” e Teelte Android &gt; Data Usage.">
+
 <!ENTITY fxaccount_status_needs_account_enabled "&syncBrand.shortName.label; teeltaama, kono wonaa e syncude e jaajol. Tappu ngam fuɗɗaade syncude.">
+
 <!ENTITY fxaccount_status_bookmarks "Maantore">
 <!ENTITY fxaccount_status_history "Aslol">
 <!ENTITY fxaccount_status_passwords "Finndeeji">
@@ -194,13 +215,19 @@
      the two uses differently. -->
 <!ENTITY fxaccount_status_linktos "Laabi Carwe">
 <!ENTITY fxaccount_status_linkprivacy "Tintinol Suturo">
+
+
+
+<!-- Localization note: format string below will be replaced
+     with the Firefox Account's email address. -->
+
 <!-- Localization note: this is the name shown by the Android system
      itself for a Firefox Account. Don't localize this. -->
 
 <!ENTITY fxaccount_account_type_label "Firefox">
 <!-- Localization note: these are shown by the Android system itself,
-     when the user navigates to the Android > Accounts > [Firefox
-     Account] Screen. The link takes the user to the Firefox Account
+     when the user navigates to the Android > Accounts > {Firefox
+     Account} Screen. The link takes the user to the Firefox Account
      status activity, which lets them manage their Firefox
      Account. -->
 
@@ -222,7 +249,10 @@
 <!ENTITY fxaccount_remote_error_UNKNOWN_ERROR "Waɗii caɗeele">
 <!ENTITY fxaccount_remote_error_COULD_NOT_CONNECT "Horiima seŋaade e laylaytol">
 
+
 <!ENTITY fxaccount_sync_sign_in_error_notification_title2 "&syncBrand.shortName.label; seŋaaki">
-<!-- Note to translators: the format string below will be replaced
+<!-- Localization note: the format string below will be replaced
      with the Firefox Account's email address. -->
-<!ENTITY fxaccount_sync_sign_in_error_notification_text2 "Tappu ngam seŋaade &formatS;">
+
+<!-- Localization note: the format string below will be replaced
+     with the Firefox Account's email address. -->

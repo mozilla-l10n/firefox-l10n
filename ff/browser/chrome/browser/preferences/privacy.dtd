@@ -4,25 +4,22 @@
 
 <!ENTITY tracking.label                 "Rewindagol">
 
-<!ENTITY dntTrackingNopref.label2       "Hoto haala lowe hay huunde baɗte cuɓoraaɗe am dewindagol">
-<!ENTITY dntTrackingNopref.accesskey    "o">
 <!ENTITY dntTrackingNotOkay.label2      "Haalan lowe wonde mi yiɗaa rewindeede">
 <!ENTITY dntTrackingNotOkay.accesskey   "n">
-<!ENTITY dntTrackingOkay.label2         "Haalan lowe wonde miɗo yiɗi rewindeede">
-<!ENTITY dntTrackingOkay.accesskey      "h">
+
+
+
 <!ENTITY doNotTrackInfo.label           "Ɓeydu Humpito">
 
-<!ENTITY  history.label                 "Aslol">
 
 <!ENTITY  locationBar.label             "Palal Nokkuure">
 
-<!ENTITY  locbar.pre.label              "So aɗa huutoroo palal nokkuure, wasiyo:">
-<!ENTITY  locbar.pre.accessKey          "k">
-<!ENTITY  locbar.post.label             "">
-<!ENTITY  locbar.both.label             "Aslol e Maantore">
-<!ENTITY  locbar.history.label          "Aslol">
-<!ENTITY  locbar.bookmarks.label        "Maantore">
-<!ENTITY  locbar.nothing.label          "Hay huunde">
+
+
+
+
+
+
 
 <!ENTITY  acceptCookies.label           "Jaɓ kukiiji iwɗi e lowe">
 <!ENTITY  acceptCookies.accesskey       "J">
@@ -33,8 +30,7 @@
 <!ENTITY  acceptThirdParty.never.label    "Hay sahaa">
 <!ENTITY  acceptThirdParty.visited.label  "Iwɗi e jillaaɗe">
 
-<!ENTITY  keepUntil.label               "Mooftu haa:">
-<!ENTITY  keepUntil.accesskey           "h">
+
 
 <!ENTITY  expire.label                  "ɗi kiiɗta">
 <!ENTITY  close.label                   "Miɗo udda &brandShortName;">

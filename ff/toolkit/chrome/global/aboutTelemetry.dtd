@@ -8,6 +8,7 @@
 
 <!ENTITY aboutTelemetry.telemetryDisabled "  Telemeetiri koko <span>daaƴaa</span>.">
 
+
 <!ENTITY aboutTelemetry.slowSqlSection "  Gowlaali SQL Leelɗi">
 
 <!ENTITY aboutTelemetry.chromeHangsSection "  Kooke Wanngorde">
@@ -15,6 +16,7 @@
 <!ENTITY aboutTelemetry.threadHangStatsSection "       Kooke gallol">
 
 <!ENTITY aboutTelemetry.histogramsSection "  Asdiiwe">
+
 
 <!ENTITY aboutTelemetry.simpleMeasurementsSection "  Ɓete Beeɓtinaaɗe">
 

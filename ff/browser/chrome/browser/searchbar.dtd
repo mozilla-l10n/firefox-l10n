@@ -4,3 +4,11 @@
 
 <!ENTITY cmd_engineManager.label        "Toppito Jiylorɗe…">
 <!ENTITY searchEndCap.label             "Yiylo">
+<!-- LOCALIZATION NOTE: The SearchHighlight strings are used in the
+   - UITour popups that shows on first use of the new search panel. -->
+
+
+
+
+<!ENTITY SearchHighlightNext "Payɗo">
+
