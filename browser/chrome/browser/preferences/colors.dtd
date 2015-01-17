@@ -6,10 +6,11 @@
 <!ENTITY  window.width                    "48em">
 <!ENTITY  window.macWidth                 "49em">
 
-
+<!ENTITY  overridePageColors.label        "Reemplazar los colores especificados por la página con mis selecciones anteriores:">
+<!ENTITY  overridePageColors.accesskey    "O">
 
 <!ENTITY  overridePageColors.always.label "Siempre">
-
+<!ENTITY  overridePageColors.auto.label   "Solo temas con contraste alto">
 <!ENTITY  overridePageColors.never.label  "Nunca">
 
 <!ENTITY  color                           "Texto y fondo">
