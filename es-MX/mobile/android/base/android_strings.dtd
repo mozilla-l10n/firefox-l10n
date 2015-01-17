@@ -172,7 +172,8 @@
 <!ENTITY pref_cookies_not_accept_foreign "Habilitado, excluyendo terceros">
 <!ENTITY pref_cookies_disabled "Deshabilitado">
 
-
+<!ENTITY pref_tracking_protection_title "Protección contra rastreo">
+<!ENTITY pref_tracking_protection_summary "&brandShortName; evitará que los sitios te rastreen">
 <!ENTITY pref_donottrack_title "No rastrear">
 <!ENTITY pref_donottrack_summary "&brandShortName; le dirá a los sitios que no quiero ser rastreado">
 
@@ -430,7 +431,7 @@ size. -->
 <!ENTITY home_remote_tabs_empty "Tus pestañas de otros dispositivos aparecen aquí.">
 <!ENTITY home_remote_tabs_unable_to_connect "No se puede conectar">
 <!ENTITY home_remote_tabs_need_to_sign_in "Ingresa para reconectar tu cuenta Firefox Account y continuar la sincronización.">
-
+<!ENTITY home_remote_tabs_need_to_finish_migrating "¡Tu nueva cuenta de Firefox está lista!">
 
 <!ENTITY home_remote_tabs_trouble_verifying "¿No puedes verificar tu cuenta?">
 <!ENTITY home_remote_tabs_need_to_verify "Verifica tu Firefox Account para comenzar sincronización.">
