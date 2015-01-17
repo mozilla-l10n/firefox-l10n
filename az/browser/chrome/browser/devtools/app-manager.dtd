@@ -1,7 +1,9 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-<!ENTITY index.projects2 "Tətbiqetmələr">
+
+<!ENTITY index.title "Tətbiq İdarəçisi">
+<!ENTITY index.projects2 "Tətbiqlər">
 <!ENTITY index.device2 "Avadanlıq">
 <!ENTITY index.help "Kömək">
 
@@ -12,8 +14,8 @@
 <!ENTITY device.title "Avadanlıq İdarə Mərkəzi">
 <!ENTITY device.notConnected "Qoşulmayıb. Xahiş edirik avadanlığınızı qoşun.">
 <!ENTITY device.startApp "Başla">
-
-<!ENTITY device.stopApp "Dayan">
+<!ENTITY device.startAppTooltip "Bu tətbiqetməni avadanlıqda başlat">
+<!ENTITY device.stopApp "Dayandır">
 <!ENTITY device.stopAppTooltip "Bu tətbiqetməni avadanlıqda dayandır">
 
 <!ENTITY device.debugAppTooltip "Cihazdakı bu tətbiqetməyə bağlı Tərtibatçı Alətlərini aç">
@@ -61,8 +63,9 @@
 
 
 
+<!ENTITY connection.startRegisteredSimulator "Başlat:">
 
-
+<!ENTITY projects.localApps "Lokal Tətbiqlər">
 
 
 
@@ -73,7 +76,7 @@
 
 <!ENTITY projects.updateApp "Yeniləmə">
 
-
+<!ENTITY projects.debugApp "Sazlama">
 
 
 
@@ -91,9 +94,9 @@
 
 <!ENTITY help.close "Qapat">
 
+<!ENTITY help.usefullLinks "Faydalı istinadlar:">
 
 
-
-
+<!ENTITY help.troubleShooting "Problem həlli">
 
 

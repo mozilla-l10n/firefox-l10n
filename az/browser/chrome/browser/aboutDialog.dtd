@@ -10,7 +10,7 @@
 
 <!ENTITY update.checkForUpdatesButton.label       "Yeniləmələri yoxla">
 <!ENTITY update.checkForUpdatesButton.accesskey   "y">
-<!ENTITY update.updateButton.label2                "Yeniləmək üçün &brandShortName; səyyahını Yenidən başladın">
+<!ENTITY update.updateButton.label2                "Yeniləmək üçün &brandShortName; səyyahını yenidən başladın">
 <!ENTITY update.updateButton.accesskey            "R">
 <!ENTITY update.applyButtonBillboard.label        "Yeniləməni Tətbiq et…">
 <!ENTITY update.applyButtonBillboard.accesskey    "T">
@@ -43,7 +43,7 @@
 <!ENTITY helpus.donateLink          "İanə verin">
 <!ENTITY helpus.middle              " və ya ">
 <!-- LOCALIZATION NOTE (helpus.getInvolvedLink): This is a link title that links to http://www.mozilla.org/contribute/. -->
-<!ENTITY helpus.getInvolvedLink     "bizə qatılın!">
+<!ENTITY helpus.getInvolvedLink     "bizə qoşulun!">
 <!ENTITY helpus.end                 "">
 <!-- LOCALIZATION NOTE (bottomLinks.license): This is a link title that links to about:license. -->
 

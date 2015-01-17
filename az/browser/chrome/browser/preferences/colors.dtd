@@ -6,8 +6,11 @@
 <!ENTITY  window.width                    "38em">
 <!ENTITY  window.macWidth                 "43em">
 
-<!ENTITY  allowPagesToUse.label           "Yuxarıdakı seçimlərin yerinə, səhifənin öz rənglərini seçməklərinə icazə ver">
-<!ENTITY  allowPagesToUse.accesskey       "s">
+
+
+<!ENTITY  overridePageColors.always.label "Hər zaman">
+
+<!ENTITY  overridePageColors.never.label  "Heç zaman">
 
 <!ENTITY  color                           "Mətn və arxa fon">
 <!ENTITY  textColor.label                 "Mətn:">

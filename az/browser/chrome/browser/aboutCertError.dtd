@@ -23,8 +23,8 @@ kimlik məlumatı təqdim etməlidir. Ancaq bu saytın kimliyi təsdiqlənə bil
 
 <!ENTITY certerror.whatShouldIDo.heading "Nə Etməliyəm?">
 <!ENTITY certerror.whatShouldIDo.content "Adətən bu sayta heç bir problem 
-olmadan bağlana bilirdinizsə, bu dəfə başqa bir nəfər bu saytın adından 
-istifadə etmiş ola bilər, və siz davam etməməlisiniz.">
+olmadan bağlana bilirdinizsə, bu dəfə başqa bir şəxs bu saytın adından 
+istifadə etmiş ola bilər, bu səbəbdən siz davam etməməlisiniz.">
 <!ENTITY certerror.whatShouldIDo.badStsCertExplanation "Sayt &brandShortName; səyyahının 
 təhlükəsiz bağlana biləcəyini göstərmək üçün HTTP Sıx Məlumat Yönləndirməsi 
 (HSTS) işlədir. Bunun nəticəsi olaraq, bu sertifikat üçün istisna hal etmək 
