@@ -111,10 +111,11 @@
      to. -->
 
 <!ENTITY overlay_share_send_tab_btn_label "အခြားဖုန်းသို့ ပို့ပါ">
-
+<!ENTITY overlay_share_no_url "မျှဝေရာတွင် မည်သင့်လင့်ခ်မျှမပါ">
 <!ENTITY overlay_share_retry "ထပ်ကြိုးစားကြည့်ပါ">
+<!ENTITY overlay_share_select_device "စက် ရွေးပါ">
 
-
+<!ENTITY pref_category_search3 "​ရှာဖွေပါ">
 
 
 
