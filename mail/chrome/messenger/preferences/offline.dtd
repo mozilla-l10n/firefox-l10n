@@ -4,16 +4,16 @@
 
 <!ENTITY offlineDialog.title       "Inställningar för nedkopplat läge">
 
-<!ENTITY checkAutoDetect.label "Automatiskt följ detekterat uppkopplat tillstånd">
+<!ENTITY checkAutoDetect.label "Följ automatiskt detekterat uppkopplat tillstånd">
 <!ENTITY checkAutoDetect.accesskey "d">
 <!ENTITY titleStartUp "Manuellt tillstånd vid uppstart:">
 <!ENTITY radioRememberPrevState.label "Kom ihåg tidigare uppkopplat tillstånd">
 <!ENTITY radioRememberPrevState.accesskey "K">
 <!ENTITY radioAskState.label "Fråga mig om uppkopplat tillstånd">
 <!ENTITY radioAskState.accesskey "F">
-<!ENTITY radioAlwaysOnline.label "Uppkopplat läge">
+<!ENTITY radioAlwaysOnline.label "Alltid uppkopplat">
 <!ENTITY radioAlwaysOnline.accesskey "U">
-<!ENTITY radioAlwaysOffline.label "Nedkopplat läge">
+<!ENTITY radioAlwaysOffline.label "Alltid nedkopplat">
 <!ENTITY radioAlwaysOffline.accesskey "N">
 
 <!ENTITY textGoingOnline             "Skicka osända meddelanden vid uppkoppling?">
