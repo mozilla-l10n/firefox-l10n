@@ -170,11 +170,11 @@
 <p>Ошуканство за допомогою підробленого сайту чи електронної пошти також називають фішингом. Шахраї намагаються видурити у вас інформацію імітуючи джерела, яким ви, можливо, довіряєте.</p>
 ">
 
-<!ENTITY cspBlocked.title "Blocked by Content Security Policy">
-<!ENTITY cspBlocked.longDesc "<p>&brandShortName; prevented this page from loading in this way because the page has a content security policy that disallows it.</p>">
+<!ENTITY cspBlocked.title "Заблоковано політикою безпеки вмісту">
+<!ENTITY cspBlocked.longDesc "<p>&brandShortName; не дозволив цій сторінці бути завантаженою таким чином, через те що її політика безпеки вмісту не дозволяє зробити це.</p>">
 
-<!ENTITY corruptedContentError.title "Corrupted Content Error">
-<!ENTITY corruptedContentError.longDesc "<p>The page you are trying to view cannot be shown because an error in the data transmission was detected.</p><ul><li>Please contact the website owners to inform them of this problem.</li></ul>">
+<!ENTITY corruptedContentError.title "Помилка пошкодженого вмісту">
+<!ENTITY corruptedContentError.longDesc "<p>Сторінку, яку ви намагаєтесь переглянути неможливо відобразити через те, що в передачі даних було виявлено помилку.</p><ul><li>Зв’яжіться з власниками сайта, щоб повідомити їх про цю проблему.</li></ul>">
 
 
 <!ENTITY securityOverride.linkText "Або ви можете зробити виняток…">
@@ -193,23 +193,23 @@ functionality specific to firefox. -->
 <button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>
 ">
 
-<!ENTITY errorReporting.title "Report this error">
-<!ENTITY errorReporting.longDesc "Reporting the address and certificate information for <span id='hostname'></span> will help us identify and block malicious sites. Thanks for helping create a safer web!">
-<!ENTITY errorReporting.automatic "Automatically report errors in the future">
-<!ENTITY errorReporting.learnMore "Learn more…">
-<!ENTITY errorReporting.sending "Sending report">
-<!ENTITY errorReporting.sent "Report sent">
-<!ENTITY errorReporting.report "Report">
-<!ENTITY errorReporting.tryAgain "Try again">
+<!ENTITY errorReporting.title "Повідомити про цю помилку">
+<!ENTITY errorReporting.longDesc "Повідомлення адреси та інформації сертифікату для <span id='hostname'></span> допоможе нам визначити та заблокувати небезпечні сайти. Дякуємо за допомогу в створенні безпечної мережі!">
+<!ENTITY errorReporting.automatic "Надалі повідомляти про помилки автоматично">
+<!ENTITY errorReporting.learnMore "Докладніше…">
+<!ENTITY errorReporting.sending "Відправлення звіту">
+<!ENTITY errorReporting.sent "Звіт відправлено">
+<!ENTITY errorReporting.report "Звіт">
+<!ENTITY errorReporting.tryAgain "Спробувати знову">
 
 <!ENTITY remoteXUL.title "Віддалений XUL">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Будь ласка, зв’яжіться з власниками сайта та поінформуйте їх про цю проблему.</li></ul></p>">
 
-<!ENTITY oldSecurityProtocol.title "Unable to Connect Securely">
+<!ENTITY oldSecurityProtocol.title "Неможливо безпечно з’єднатися">
 <!-- LOCALIZATION NOTE (oldSecurityProtocol.longDesc) - Do not translate the
      <span id='hostname'></span>. -->
-<!ENTITY oldSecurityProtocol.longDesc2 "&brandShortName; cannot guarantee the safety of your data on <span id='hostname'></span> because it uses SSLv3, a broken security protocol.">
+<!ENTITY oldSecurityProtocol.longDesc2 "&brandShortName; не може гарантувати безпеку ваших даних на <span id='hostname'></span>, через використання пошкодженого протоколу безпеки SSLv3.">
 <!-- LOCALIZATION NOTE (oldSecurityProtocol.advancedInfo) - Do not translate
      the <span id='errorcode'></span>. -->
-<!ENTITY oldSecurityProtocol.advancedInfo "Advanced info: <span id='errorcode'></span>">
-<!ENTITY oldSecurityProtocol.learnMore "Learn More…">
+<!ENTITY oldSecurityProtocol.advancedInfo "Розширена інформація: <span id='errorcode'></span>">
+<!ENTITY oldSecurityProtocol.learnMore "Докладніше…">
