@@ -26,14 +26,6 @@
 <!ENTITY checkSpelling.label             "Ƴeewto mbinndiin am so miɗo tappa">
 <!ENTITY checkSpelling.accesskey         "b">
 
-<!ENTITY systemDefaults.label            "Goowaaɗi Yuɓɓo">
-<!--XXX-->
-<!ENTITY alwaysCheckDefault.label        "Ƴeewto sahaa kala ngam yiyde so &brandShortName; ko wanngorde maa woowaande tuma nde hurmiti">
-<!ENTITY alwaysCheckDefault.accesskey    "w">
-<!ENTITY setDefault.label                "Waɗ &brandShortName; wanngorde woowaande">
-<!ENTITY setDefault.accesskey            "d">
-<!ENTITY isDefault.label                 "&brandShortName; ko wanngoraade maa woowaande oo sahaa">
-
 <!ENTITY dataChoicesTab.label            "Cuɓe Keɓe">
 
 <!ENTITY healthReportSection.label       "&brandShortName; Health Report">

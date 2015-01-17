@@ -80,11 +80,6 @@
 <!ENTITY createCertInfo.title "Nana yaltina Kelal Suturo">
 <!ENTITY createCertInfo.msg1 "Woni ko e yaltinde kelal… Ena waawi juutde seeɗa noon….">
 <!ENTITY createCertInfo.msg2 "Tiiɗno sabbo…">
-<!-- Form Signing confirmation prompt -->
-
-<!ENTITY formSigning.title "Ɗaɓɓitannde Ciifgol Binndi">
-<!ENTITY formSigning.cert "Nana Siifa Seedamfaagu">
-<!ENTITY formSigning.confirmPassword "Ngam teeŋtude a jaɓii siifde ndee ɓatakuure binndol huutoraade seedamfaagu labaangu nguu, tiiɗno teeŋtinir naatnugol finnde baabaare ndee:">
 <!-- Strings for protectedAuth dialog -->
 
 <!ENTITY protectedAuth.title "Goongɗitingol Token Cuuraaɗo">

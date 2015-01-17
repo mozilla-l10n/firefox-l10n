@@ -1,0 +1,135 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!ENTITY runtimeMenu_takeScreenshot_label "Leƴƴannde kuurgal">
+
+
+
+
+
+
+
+
+<!ENTITY viewMenu_label "Hollir">
+
+
+
+<!ENTITY viewMenu_zoomin_label "Lonngo Ara">
+
+<!ENTITY viewMenu_zoomout_label "Lonngo Woɗɗa">
+
+
+
+
+
+<!-- We try to repicate Firefox' bindings: -->
+<!-- quit app -->
+<!-- open menu -->
+<!-- reload app -->
+<!-- show toolbox -->
+<!ENTITY key_toggleToolbox "VK_F12">
+<!-- toggle sidebar -->
+<!-- zoom -->
+
+
+
+
+
+<!ENTITY projectPanel_tabs "Tabbe">
+
+
+
+<!ENTITY runtimePanel_other "Goɗɗe">
+<!ENTITY runtimePanel_installsimulator "Loowde Ñebbitorde">
+
+
+<!-- Lense -->
+
+
+<!ENTITY details_description "Cifagol">
+<!ENTITY details_location "Nokkuure">
+
+
+<!-- New App -->
+
+
+
+<!-- Decks -->
+
+
+
+<!ENTITY deck_close "Uddu">
+<!-- Addons -->
+<!ENTITY addons_aboutaddons "Uddit Topitorde Ɓeyditte">
+<!-- Prefs -->
+
+<!ENTITY prefs_general_title "Kuuɓal">
+<!ENTITY prefs_restore "Artir Goowaaɗe">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!ENTITY prefs_options_keybindings_default "Goowaaɗo">
+<!-- Permissions Table -->
+<!ENTITY permissionstable_name_header "Innde">
+<!-- Runtime Details -->
+
+
+
+
+
+
+<!-- Device Preferences -->
+
+
+
+
+
+
+
+
+<!-- Monitor -->
+<!ENTITY monitor_help "Ballal">

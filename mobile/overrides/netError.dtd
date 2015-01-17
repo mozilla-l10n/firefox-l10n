@@ -11,18 +11,14 @@
 
 
 <!ENTITY connectionFailure.title "Horiima seŋaade">
-<!ENTITY connectionFailure.longDesc "&sharedLongDesc2;">
+
 
 <!ENTITY deniedPortAccess.title "Ndee ñiiɓirde ko suraande">
 <!ENTITY deniedPortAccess.longDesc "">
 
 <!ENTITY dnsNotFound.title "Sarworde yiytaaka">
-<!ENTITY dnsNotFound.longDesc2 "<ul> 
-<li>Ƴeewto so ñiiɓirde ndee alaa pergitte tappugol wano 
-<strong>ww</strong>.yeru.com nde foti wonde 
-<strong>www</strong>.yeru.com</li> 
-<li>So a horiima loowde kelle fof, ƴeewto keɓe kaɓirgol maa walla seŋorde maa Wi-Fi.</li> 
-</ul>">
+<!-- LOCALIZATION NOTE (dnsNotFound.longDesc4) This string contains markup including widgets for searching
+     or enabling wifi connections. The text inside tags should be localized.  Do not change the ids. -->
 
 <!ENTITY fileNotFound.title "Fiilde yiytaaka">
 <!ENTITY fileNotFound.longDesc "<ul> 
@@ -35,23 +31,18 @@
 <!ENTITY generic.longDesc "<p>&brandShortName; horiima loowde ngoo hello.</p>">
 
 <!ENTITY malformedURI.title "Ñiiɓirde ndee moƴƴaani">
-<!ENTITY malformedURI.longDesc "<ul> 
-<li>Ñiiɓirɗe geese keewi winndireede ko 
-<strong>http://www.yeru.com/</strong></li> 
-<li>Ƴeewto no feewi so a huutoriima laase yeeso (k.n. 
-<strong>/</strong>).</li> 
-</ul>">
+<!-- LOCALIZATION NOTE (malformedURI.longDesc2) This string contains markup including widgets for searching
+     or enabling wifi connections. The text inside the tags should be localized. Do not touch the ids. -->
 
 <!ENTITY netInterrupt.title "Ceŋagol ngol taƴii">
-<!ENTITY netInterrupt.longDesc "&sharedLongDesc2;">
+
 
 <!ENTITY notCached.title "Fiilannde Hiiɗtii">
 <!ENTITY notCached.longDesc "<p>Fiilannde ɗaɓɓitaande ndee woodaani e kaasol &brandShortName;.</p><ul><li>Ngam reentino kisal, &brandShortName; naamnittaako piilanɗe doondiiɗe caɗeele e jaajol.</li><li>Dobo ngam fuɗɗitaade naamnito-ɗaa fiilannde ndee e lowre ndee</li></ul>">
 
 <!ENTITY netOffline.title "Mbaydi ceŋtol">
-<!ENTITY netOffline.longDesc2 "<ul> 
-<li>Eto goɗngol. &brandShortName; xaa eto udditde seŋol t=ngam loowtude hello ngoo.</li> 
-</ul>">
+<!-- LOCALIZATION NOTE (netOffline.longDesc3) This string contains markup including widgets enabling wifi connections.
+     The text inside the tags should be localized. Do not touch the ids. -->
 
 <!ENTITY contentEncodingError.title "Juumre Dokkitannde Loowdi">
 <!ENTITY contentEncodingError.longDesc "<ul> 
@@ -64,10 +55,10 @@
 </ul>">
 
 <!ENTITY netReset.title "Ceŋagol ngol fuɗɗitaama">
-<!ENTITY netReset.longDesc "&sharedLongDesc2;">
+
 
 <!ENTITY netTimeout.title "Ceŋagol ngol honaama waktu">
-<!ENTITY netTimeout.longDesc "&sharedLongDesc2;">
+
 
 <!ENTITY unknownProtocolFound.title "Ñiiɓirde ndee faamaaka">
 <!ENTITY unknownProtocolFound.longDesc "<ul> 
@@ -82,10 +73,8 @@ moƴƴi.</li>
 </ul>">
 
 <!ENTITY proxyResolveFailure.title "Horiima yiytude sarworde proxy ndee">
-<!ENTITY proxyResolveFailure.longDesc2 "<ul> 
-<li>Ƴeewto ngam yenaneede so teelte proxy ɗee ena moƴƴi.</li> 
-<li>Ƴeewto ngam yenaneede ena seŋorde keɓe walla Wi-Fi moƴƴere.</li> 
-</ul>">
+<!-- LOCALIZATION NOTE (proxyResolveFailure.longDesc3) This string contains markup including widgets for enabling wifi connections.
+     The text inside the tags should be localized. Do not touch the ids. -->
 
 <!ENTITY redirectLoop.title "Ngoo hello wonaani e yiiltude no feewiri">
 <!ENTITY redirectLoop.longDesc "<ul> 
@@ -113,14 +102,11 @@ won etotooɗo ñemmbitaade sarworde ndee.</li>
 <li>So tawii a meeɗii seŋaade e ndee sarworde e ko ɓenni, maa taw juumre ndee 
 juutataa, ngati aɗa waawi etaade so ɓooyii.</li> 
 </ul>">
+<!-- LOCALIZATION NOTE (sharedLongDesc3) This string contains markup including widgets for enabling wifi connections.
+     The text inside the tags should be localized. Do not touch the ids. -->
 
-<!ENTITY sharedLongDesc2 "<ul> 
-<li>Ndee lowre heɓotaako oo sahaa walla ena halji. Eto naatde e mayre ɗoo e yeeso seeɗa.</li> 
-<li>So a horiima loowde kelle fof, ƴeewto keɓe kaɓirgol maa walla seŋorde maa Wi-Fi..</li> 
-</ul>">
-
-<!ENTITY cspFrameAncestorBlocked.title "Dawirgol Kisnal Loowdi daaƴii ɗum">
-<!ENTITY cspFrameAncestorBlocked.longDesc "<p>&brandShortName; haɗii ngo hello loowaade e ndii mbaydi sabu hello ngoo ena jogii dawirdol kisnal loowdi caliindi ɗum.</p>">
+<!ENTITY cspBlocked.title "Dawirgol Kisnal Loowdi daaƴii ɗum">
+<!ENTITY cspBlocked.longDesc "<p>&brandShortName; haɗii ngo hello loowaade e ndii mbaydi sabu hello ngoo ena jogii dawirdol kisnal loowdi caliindi ɗum.</p>">
 
 <!ENTITY corruptedContentError.title "Juumre Loowdi Jiibndi">
 <!ENTITY corruptedContentError.longDesc "<p>Hello ngo etot-ɗaa naatnde ngoo waawaa hollireede sabu juumre waɗii e baanjitagol keɓe ɗee.</p><ul><li>Tiiɗno jokkondir e jeyɓe lowre geese ndee ngam humpitde-ɓe caɗeele ɗee.</li></ul>">
