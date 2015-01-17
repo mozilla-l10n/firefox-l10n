@@ -6,7 +6,7 @@
 <!ENTITY window.maxWidth              "400">
 
 <!ENTITY startSafeMode.label          "Təhlükəsiz rejimdə başlat">
-<!ENTITY refreshProfile.label         "&brandShortName; səyyahını yenilə">
+<!ENTITY refreshProfile.label         "&brandShortName; Səyyahını Yenilə">
 
 <!ENTITY safeModeDescription3.label   "Təhlükəsiz rejim, problem həll etmək üçün istifadə edilə biləcək xüsusi bir &brandShortName; rejimidir.">
 <!ENTITY safeModeDescription4.label   "Əlavələriniz və şəxsi nizamlamalarınız müvəqqəti olaraq söndürüləcək.">

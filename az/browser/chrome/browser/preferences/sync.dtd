@@ -44,7 +44,7 @@
 <!-- Footer stuff -->
 
 <!ENTITY prefs.tosLink.label        "İstifadə Şərtləri">
-<!ENTITY prefs.ppLink.label         "Gizlilik Siyasəti">
+<!ENTITY prefs.ppLink.label         "Məxfilik Siyasəti">
 <!-- Firefox Accounts stuff -->
 
 <!ENTITY fxaPrivacyNotice.link.label "Məxfilik Bildirişi">

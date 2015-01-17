@@ -28,7 +28,7 @@
 <!-- point 3 text for official branded builds -->
 
 <!ENTITY rights2.intro-point3a "Şəxsi məlumatlarınızı və &brandShortName; ilə &vendorShortName;-ya göndərdiyiniz məlumatları necə istifadə etdiyimiz ">
-<!ENTITY rights2.intro-point3b "&brandShortName; Məxfilik qanunlarında">
+<!ENTITY rights2.intro-point3b "&brandShortName; Məxfilik Siyasəti">
 <!ENTITY rights.intro-point3c "açıqlanmışdır.">
 <!-- point 3 text for unbranded builds -->
 
