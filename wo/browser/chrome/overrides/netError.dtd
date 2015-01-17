@@ -69,8 +69,8 @@ connection.</li>
 <!ENTITY netTimeout.title "Diiru jokkoo bi jeex na">
 <!ENTITY netTimeout.longDesc "&sharedLongDesc;">
 
-<!ENTITY protocolNotFound.title "Makkaan bi kenn xamuko">
-<!ENTITY protocolNotFound.longDesc "<ul> 
+<!ENTITY unknownProtocolFound.title "Makkaan bi kenn xamuko">
+<!ENTITY unknownProtocolFound.longDesc "<ul> 
 <li>Da nga war samp beneen jëfekaay ngir mëna ubbi giiru makkaan bile.</li> 
 </ul>">
 
@@ -102,10 +102,7 @@ sampu na ci sa doxalin.</li>
 </ul>">
 
 <!ENTITY nssFailure2.title "Lajju jokkoo bi ànd ak kaarange">
-<!ENTITY nssFailure2.longDesc "<ul> 
-<li>Xët wi nga bëgg seet kenn mënukoo wone ndax rootaan yi kenn mëneesula xam ndax dëggu nañu walla déet.</li> 
-<li>Jokkool ak boroomi dalub web ngir yëgle jafe jafe bi. Mën nga itam jëfandikoo santaane bi nekk ci njëlu ndimbal ngir wone dal bu doxul</li> 
-</ul>">
+
 
 <!ENTITY nssBadCert.title "Lajjum jokkoo bi and ak kaarange">
 <!ENTITY nssBadCert.longDesc2 "<ul> 
@@ -125,8 +122,8 @@ mën nga jéemaat ci kanam.</li>
 <!ENTITY phishingBlocked.longDesc "<p>Dugal say xibaari bopp ci xët bile mën na tax ñu sacc sa dantite walla beneen foród.</p> 
 <p>Giiri dali royaal yu ni mel dañu leen di jëfandikoo ci ay e mail foród ngir di song songu dolinka, da ñuy toppandoo ay cosaan yoo wóolu .</p>">
 
-<!ENTITY cspFrameAncestorBlocked.title "Boloke ak benn taxawayu kaaraange këmb">
-<!ENTITY cspFrameAncestorBlocked.longDesc "<p>&brandShortName; dafa tere yebum xët wi ci noonu ndax xët wi dafa am taxawaayu kaaraange këmb bu ko nanguwul.</p>">
+<!ENTITY cspBlocked.title "Boloke ak benn taxawayu kaaraange këmb">
+<!ENTITY cspBlocked.longDesc "<p>&brandShortName; dafa tere yebum xët wi ci noonu ndax xët wi dafa am taxawaayu kaaraange këmb bu ko nanguwul.</p>">
 
 <!ENTITY corruptedContentError.title "Njumte ci këmb bu sankar">
 <!ENTITY corruptedContentError.longDesc "<p>Xët wi nga bëgg xool mënul wone wu ndax dafay jëfandikoo xeetu naj bu jagul walla kenn tëggaalewuko.</p><ul><li> Jokkool ak webmaster bu dal bi ngir yëgal ko jafe jafe bi.</li></ul>">
@@ -146,5 +143,19 @@ functionality specific to firefox. -->
 <button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button> 
 <button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>">
 
+
+
+
+
+
+
+
+
 <!ENTITY remoteXUL.title "XUL bu sori">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Jokkool ak boroomi dalul web bi ngir wax leen jafe jafe bi.</li></ul></p>">
+
+<!-- LOCALIZATION NOTE (oldSecurityProtocol.longDesc) - Do not translate the
+     <span id='hostname'></span>. -->
+<!-- LOCALIZATION NOTE (oldSecurityProtocol.advancedInfo) - Do not translate
+     the <span id='errorcode'></span>. -->
+

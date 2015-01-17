@@ -48,6 +48,24 @@
 <!ENTITY closeCmd.key                 "W">
 <!ENTITY closeCmd.accesskey           "T">
 
+<!ENTITY viewMenu.label               "Wone bi">
+<!ENTITY viewMenu.accesskey           "W">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <!ENTITY editMenu.label               "Jagal">
 <!ENTITY editMenu.accesskey           "J">
 
@@ -62,6 +80,7 @@
 <!ENTITY display.label                "Wone">
 <!ENTITY display.accesskey            "W">
 <!ENTITY display.key                  "l">
+
 
 
 <!-- LOCALIZATION NOTE (environmentMenu.label, accesskey): This menu item was

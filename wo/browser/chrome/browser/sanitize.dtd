@@ -32,10 +32,9 @@ that require it.  -->
 <!ENTITY historySection.label         "Jaar jaar">
 <!ENTITY dataSection.label            "Rootaan yi">
 
-<!ENTITY itemHistoryAndDownloads.label     "Jaar jaaru joow ak yeb yi">
-<!ENTITY itemHistoryAndDownloads.accesskey "y">
-<!ENTITY itemFormSearchHistory.label       "Jaar jaaru formileer yi ak wut yi">
-<!ENTITY itemFormSearchHistory.accesskey   "f">
+
+
+
 <!ENTITY itemPasswords.label               "Baatu jàll yi ñu aar">
 <!ENTITY itemPasswords.accesskey           "B">
 <!ENTITY itemCookies.label                 "Kuki yi">

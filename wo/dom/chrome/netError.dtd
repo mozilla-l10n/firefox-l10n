@@ -72,8 +72,8 @@ Jéemaatal.</p>">
 <!ENTITY netTimeout.title "Diiru xaar bi jeex na">
 <!ENTITY netTimeout.longDesc "<p>Joowkat bi dafa xaar lu yagg ci jokkoo ak dal bi looloo tax mu bañ xaar tontu.</p><ul><li>Serwëër dafa fees mba mu paan ? Jeemaatal ci kanam.</li><li>Ndax ken mënula jot yeneen dal ? Seetal sa jokkoo ordinatëër.</li><li>Ndax sa ordi walla lëkkale dañu leen aar ak paarfë walla proxy ? Ay paraameetar yu jubul  ñoo duggante xëyna ak njooow mi ci Web.</li><li>Da nga am ba leegi ay jafe jafe ? Seetal sa saytukatu lëkkale walla sa njaatige jot ci internet ngir am ndimal.</li></ul>">
 
-<!ENTITY protocolNotFound.title "Màkkaan xammee wu ñu ko">
-<!ENTITY protocolNotFound.longDesc "<p>Màkkaan bi dafay wone porotokol (niki. « wxyz:// ») bu joowkat bi xamul mënul jokkoo ak dal bi ci ni mu ware.</p><ul><li>Ndax da nga bëgg jot ay këmb bari melo walla yeneen sarwiis yudul mbind ? Seetal xeltéef yi dal bi laaj.</li><li>Am na ay porotokol yuy laaj xeltéef mba ay mottali ngir joowkat bi xammee leen.</li></ul>">
+<!ENTITY unknownProtocolFound.title "Màkkaan xammee wu ñu ko">
+<!ENTITY unknownProtocolFound.longDesc "<p>Màkkaan bi dafay wone porotokol (niki. « wxyz:// ») bu joowkat bi xamul mënul jokkoo ak dal bi ci ni mu ware.</p><ul><li>Ndax da nga bëgg jot ay këmb bari melo walla yeneen sarwiis yudul mbind ? Seetal xeltéef yi dal bi laaj.</li><li>Am na ay porotokol yuy laaj xeltéef mba ay mottali ngir joowkat bi xammee leen.</li></ul>">
 
 <!ENTITY proxyConnectFailure.title "Serwëër proxy bi bañ na jokkkoo bi">
 <!ENTITY proxyConnectFailure.longDesc "<p>Joowkat bit dañu ko tabb ngir muy jëfandikoo servëër proxy wante proxy bi bañ na jokkoo bi.</p><ul><li>Ndax tabbinu proxy bu joowkat bi baax na ? Seetal paraameetar yi te nga jeemaat.</li><li>Ndax sarwiis proxy bi nangu na ay jokkoo dale ko ci lëkkale bii?</li><li>Da nga am ba leegi ay jafe jafe ? Seetal sa saytukatu lëkkale walla sa njaatige jot ci internet ngir am ndimbal.</li></ul>">
@@ -88,7 +88,7 @@ Jéemaatal.</p>">
 <!ENTITY unknownSocketType.longDesc "<p>Dal bi tontu na ci laaju lëkkale gi ci anam bu kenn xalaataulwoon, joowkat bi mënul kontine.</p>">
 
 <!ENTITY nssFailure2.title "Jokkoo bu and ak kaarange lajj na">
-<!ENTITY nssFailure2.longDesc "<p>Xët bi nga bëgg xool kenn mënuko wone ndax kenn mënula ni rootaan yi baax nañu.</p><ul><li>Jokkool ak boroomi dal bi ngir yëgal leen.</li></ul>">
+<!ENTITY nssFailure2.longDesc2 "<p>Xët bi nga bëgg xool kenn mënuko wone ndax kenn mënula ni rootaan yi baax nañu.</p><ul><li>Jokkool ak boroomi dal bi ngir yëgal leen.</li></ul>">
 
 <!ENTITY nssBadCert.title "Jokkoo bu and ak kaarange lajj na">
 <!ENTITY nssBadCert.longDesc2 "<ul> 
@@ -104,8 +104,8 @@ Jéemaatal.</p>">
 <p>Dali royaal yii dañuleen di faral di jëfandikoo ci ay e mail foród 
 ngir di song songu doolinka ngir toppandoo cosaan yi nga wóolu.</p>">
 
-<!ENTITY cspFrameAncestorBlocked.title "Boloke ak benn taxawayu kaaraange këmb">
-<!ENTITY cspFrameAncestorBlocked.longDesc "<p>Joowkat bi dafa tere yebum xët wi ci noonu ndax xët wi dafa am taxawaayu kaaraange këmb bu ko naguwul.</p>">
+<!ENTITY cspBlocked.title "Boloke ak benn taxawayu kaaraange këmb">
+<!ENTITY cspBlocked.longDesc "<p>Joowkat bi dafa tere yebum xët wi ci noonu ndax xët wi dafa am taxawaayu kaaraange këmb bu ko naguwul.</p>">
 
 <!ENTITY corruptedContentError.title "Njumte ci këmb bu sankar">
 <!ENTITY corruptedContentError.longDesc "<p>Xët wi nga bëgg mënul wonewu ndax dafay jëfandikoo xeetu naj bu jagul walla kenn tëggaalewuko.</p><ul><li> Jokkool ak webmaster bu dal bi ngir yëgal ko jafe jafe bi.</li></ul>">

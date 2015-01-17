@@ -5,3 +5,10 @@
 <!ENTITY aboutDownloads.title                      "Yeb yi">
 <!ENTITY aboutDownloads.header                     "Say yeb">
 <!ENTITY aboutDownloads.empty                      "Yeb yi">
+
+<!ENTITY aboutDownloads.remove                     "Màbb">
+<!ENTITY aboutDownloads.removeAll                  "Màbb lepp">
+<!ENTITY aboutDownloads.pause                      "Taxaw">
+
+<!ENTITY aboutDownloads.cancel                     "Neenal">
+<!ENTITY aboutDownloads.retry                      "Jéemaat">

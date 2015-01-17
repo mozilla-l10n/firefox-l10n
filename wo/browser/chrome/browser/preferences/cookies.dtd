@@ -7,11 +7,12 @@
 <!ENTITY     cookiesonsystem.label          "Kuki yii ñi ngi sa biir ordinatëër:">
 <!ENTITY     cookiename.label               "Turu kuki bi">
 <!ENTITY     cookiedomain.label             "Dal"> 
-<!ENTITY     button.removecookies.label     "Màbbal kuki yi">
-<!ENTITY     button.removecookie.label      "Màbbal kuki">
-<!ENTITY     button.removecookie.accesskey  "M">
-<!ENTITY     button.removeallcookies.label  "Màbbal kuki yépp">
-<!ENTITY     button.removeallcookies.accesskey "y">
+<!-- LOCALIZATION NOTE (button.removeSelectedCookies.accesskey):
+  The label associated with this accesskey can be found in 
+  preferences.properties as removeSelectedCookies.
+-->
+<!ENTITY     button.removeAllCookies.label "Màbbal lépp">
+<!ENTITY     button.removeAllCookies.accesskey "p">
 
 <!ENTITY     props.name.label               "Tur :">
 <!ENTITY     props.value.label              "Ëmb gi :">

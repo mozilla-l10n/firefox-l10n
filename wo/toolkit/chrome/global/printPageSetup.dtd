@@ -6,7 +6,6 @@
 
 <!ENTITY printSetup.title    "Lalinu xët">
 
-<!ENTITY basic.tab           "Daytal ak tànneef">
 
 <!ENTITY formatGroup.label   "Daytal">
 
@@ -25,10 +24,8 @@
 
 <!ENTITY optionsGroup.label  "Tànneef yi">
 
-<!ENTITY printBG.label       "Móol laltu xët wi (melo yi ak nataal yi)">
-<!ENTITY printBG.accesskey   "M">
 
-<!ENTITY advanced.tab        "Ñag yi, kow ak suuf xët">
+
 
 <!ENTITY marginGroup.label   "Ñag yi (#1)">
 <!ENTITY marginUnits.inches  "pouces">
@@ -42,7 +39,6 @@
 <!ENTITY marginRight.label   "Ndeyjoor:">
 <!ENTITY marginRight.accesskey "N">
 
-<!ENTITY headerFooter.label  "Kow xët ak suuf xët yi">
 
 <!ENTITY hfLeft.label        "Cammooñ:">
 <!ENTITY hfCenter.label      "Digg :">

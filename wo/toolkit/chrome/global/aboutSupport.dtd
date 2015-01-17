@@ -19,7 +19,15 @@ This is likely the same like id.heading in crashes.dtd. -->
 <!ENTITY aboutSupport.extensionName "Tur">
 <!ENTITY aboutSupport.extensionEnabled "Suqaliku">
 <!ENTITY aboutSupport.extensionVersion "Sumb">
-<!ENTITY aboutSupport.extensionId "ID">
+
+
+
+
+
+
+
+<!ENTITY aboutSupport.experimentHomepage "Xëtu dalal">
+
 
 <!ENTITY aboutSupport.appBasicsTitle "Paraameetar yi jëkk yu tërëlin bi">
 <!ENTITY aboutSupport.appBasicsName "Tur">
@@ -39,6 +47,7 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 <!ENTITY aboutSupport.appBasicsUserAgent "Jëfandikookat">
 <!ENTITY aboutSupport.appBasicsMemoryUse "Jëfandikoo damb">
 
+
 <!ENTITY aboutSupport.showDir.label "Ubbi wayndare bi mu andal">
 <!-- LOCALIZATION NOTE (aboutSupport.showMac.label): This is the Mac-specific
 variant of aboutSupport.showDir.label.  This allows us to use the preferred
@@ -50,11 +59,14 @@ variant of aboutSupport.showDir.label. -->
 
 <!ENTITY aboutSupport.modifiedKeyPrefsTitle "Taamu yu am solo yu ñu soppi">
 <!ENTITY aboutSupport.modifiedPrefsName "Tur">
-<!ENTITY aboutSupport.modifiedPrefsValue "Solo">
+
 <!-- LOCALIZATION NOTE (aboutSupport.userJSTitle, aboutSupport.userJSDescription): user.js is the name of the preference override file being checked. -->
 
 <!ENTITY aboutSupport.userJSTitle "Taamu jëfandikookat.js">
 <!ENTITY aboutSupport.userJSDescription "Sa wayndare jëmm dafa ëmb <a id='prefs-user-js-link'>dencukaay jëfandikookat.js</a>, te am ay taamu yu &brandShortName; sosul.">
+
+
+
 
 <!ENTITY aboutSupport.graphicsTitle "Làbbali">
 
@@ -72,3 +84,4 @@ variant of aboutSupport.showDir.label. -->
 
 <!ENTITY aboutSupport.copyTextToClipboard.label "Duppi ci dencandikaayu kayit yi">
 <!ENTITY aboutSupport.copyRawDataToClipboard.label "Duppi xibaar ci dencandikkaayu kayit yi">
+

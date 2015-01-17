@@ -10,6 +10,8 @@
 
 
 
+
+
 <!ENTITY device.stopApp "Taxaw">
 
 
@@ -27,6 +29,10 @@
 
 
 <!ENTITY device.permissions "Ndigal yi">
+
+
+
+
 
 
 
@@ -77,6 +83,8 @@
 
 
 <!ENTITY projects.error "Njumte">
+
+
 
 
 

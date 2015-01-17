@@ -16,7 +16,7 @@
 <!-- Values for getpassword.xul -->
 
 <!ENTITY getPassword.title  "Dugal baatu jàll bi gëna am solo">
-<!ENTITY getPassword.tokenName2.label "Wër ndombo kaarange">
+<!ENTITY getPassword.tokenName2.label "Wër ndombo k&amp;aarange">
 <!ENTITY getPassword.password.label "Baatu jàll:">
 <!-- These should be common -->
 
@@ -68,12 +68,6 @@
 <!-- Strings for the CreateCertInfo dialog  -->
 
 <!ENTITY createCertInfo.msg2 "Xaaral...">
-<!-- Form Signing confirmation prompt -->
-
-
 <!-- Strings for protectedAuth dialog -->
-
-
-
 
 

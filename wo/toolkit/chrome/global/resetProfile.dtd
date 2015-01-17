@@ -2,14 +2,10 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this file,
    - You can obtain one at http://mozilla.org/MPL/2.0/.  -->
 
-<!ENTITY resetProfile.dialog.title        "Tambaliwaat &brandShortName;">
-<!ENTITY resetProfile.dialog.description  "Ndax da nga bëgg dellu ci dayo ñakk ndigal Firefox?">
-<!ENTITY resetProfile.dialog.items2.label "&brandShortName; dina jéema tëye mbir yile:">
-<!ENTITY resetProfile.dialog.footer.label "&brandShortName; dina tambaliwaat te li ci des yépp dina neen.">
-<!ENTITY resetProfile.dialog.button.label "Yeesalaat &brandShortName;">
-
-<!ENTITY resetProfile.title               "Dellowaat &brandShortName; ci namu meloon ci ndorte">
-<!ENTITY resetProfile.description         "Su fekkee di nga am ay tolof tolof yoo mënula saafara, tambaliwaatal ak jëmm ju bees yu am rekk say xibaari bopp.">
 
 
-<!ENTITY resetProfile.cleaning.description "Negal tuuti &brandShortName; raxas say rootaan yu maggat yi…">
+
+
+
+
+

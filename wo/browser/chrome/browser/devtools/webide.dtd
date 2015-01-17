@@ -1,0 +1,130 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!ENTITY viewMenu_label "Wone bi">
+
+
+
+<!ENTITY viewMenu_zoomin_label "Yaatal">
+
+<!ENTITY viewMenu_zoomout_label "Wàññi">
+
+
+
+
+
+<!-- We try to repicate Firefox' bindings: -->
+<!-- quit app -->
+<!-- open menu -->
+<!-- reload app -->
+<!-- show toolbox -->
+<!-- toggle sidebar -->
+<!-- zoom -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- Lense -->
+
+
+
+<!ENTITY details_location "Màkkaan">
+
+
+<!-- New App -->
+
+
+
+<!-- Decks -->
+<!-- Addons -->
+<!ENTITY addons_aboutaddons "Saytukatu modili mottali yi">
+<!-- Prefs -->
+
+<!ENTITY prefs_general_title "Ëmb lépp">
+<!ENTITY prefs_restore "Restore Natural Order">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!ENTITY prefs_options_keybindings_default "Ñakk ndigal">
+<!-- Permissions Table -->
+<!ENTITY permissionstable_name_header "Tur">
+<!-- Runtime Details -->
+
+
+
+
+
+
+<!-- Device Preferences -->
+
+
+
+
+
+
+
+
+<!-- Monitor -->
+<!ENTITY monitor_help "Ndimbal">

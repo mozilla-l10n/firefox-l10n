@@ -25,8 +25,6 @@
 <!ENTITY  generalEncoding       "Suulaalee :">
 <!ENTITY  generalMetaName       "Tur">
 <!ENTITY  generalMetaContent    "Ëmb li">
-<!ENTITY  generalSecurityDetails   "Benn bennal yi">
-<!ENTITY  generalSecurityDetails.accesskey "D">
 
 <!ENTITY  mediaTab              "Yéenekaay yi">
 <!ENTITY  mediaTab.accesskey    "M">
@@ -65,7 +63,6 @@
 
 <!ENTITY  securityTab           "Kaarange">
 <!ENTITY  securityTab.accesskey "S">
-<!ENTITY  securityHeader        "Xibaari kaarange ci xët bi">
 <!ENTITY  securityView.certView "Wone sarsifika">
 <!ENTITY  securityView.accesskey "A">
 <!ENTITY  securityView.unknown   "Xameesuko">
@@ -76,7 +73,6 @@
 <!ENTITY  securityView.identity.domain   "Dalub web: ">
 <!ENTITY  securityView.identity.verifier "Ki ko settantal">
 
-<!ENTITY  securityView.privacy.header                   "Dundu biir ak jaar jaar">
 <!ENTITY  securityView.privacy.history                  "Ndax mës na gane dalub web bile?">
 <!ENTITY  securityView.privacy.cookies                  "Ndax dalub web bile dafay dajale ay xibaar (kuki) ci sama ordinatëër?">
 <!ENTITY  securityView.privacy.viewCookies              "Xool kuki yi">

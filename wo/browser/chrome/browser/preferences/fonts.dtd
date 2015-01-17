@@ -3,9 +3,6 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY  fontsDialog.title                       "Njabootu araf">
-<!ENTITY  window.width                            "39em">
-<!ENTITY  window.macWidth                         "49em">
-<!ENTITY  window.unixWidth                        "51em">
 
 <!ENTITY  language.label                          "Njabootu araf ngir :">
 <!ENTITY  language.accesskey                      "o">
@@ -23,9 +20,10 @@
 <!ENTITY  sans-serif.accesskey                    "n">
 <!ENTITY  monospace.label                         "Yaatuwaay bu ne temm :">
 <!ENTITY  monospace.accesskey                     "Y">
+<!-- LOCALIZATION NOTE (font.langGroup.latin) :
+     Translate "Latin" as the name of Latin (Roman) script, not as the name of the Latin language. -->
 
-<!ENTITY  font.langGroup.latin1                   "Sowu jant">
-<!ENTITY  font.langGroup.latin2                   "Ëropu digg">
+<!ENTITY  font.langGroup.latin                    "Latin">
 
 <!ENTITY  font.langGroup.trad-chinese             "Chinois traditionnel (Taiwan)">
 <!ENTITY  font.langGroup.simpl-chinese            "Chinois simplifié">
@@ -34,8 +32,6 @@
 
 
 
-
-<!ENTITY  font.langGroup.unicode                  "Yeneen lammiñ">
 
 
 

@@ -6,8 +6,11 @@
 <!ENTITY  window.width                    "54em">
 <!ENTITY  window.macWidth                 "54em">
 
-<!ENTITY  allowPagesToUse.label           "May xët yi ñu tànn seen melo bopp yu wuute ak yi ñu tànn fii ci kaw">
-<!ENTITY  allowPagesToUse.accesskey       "M">
+
+
+<!ENTITY  overridePageColors.always.label "Saa su ne">
+
+<!ENTITY  overridePageColors.never.label  "Mukk">
 
 <!ENTITY  color                           "Mbind ak laltu">
 <!ENTITY  textColor.label                 "Mbind :">

@@ -4,3 +4,11 @@
 
 <!ENTITY cmd_engineManager.label        "Saytu motëëru wut yi…">
 <!ENTITY searchEndCap.label             "Wut">
+<!-- LOCALIZATION NOTE: The SearchHighlight strings are used in the
+   - UITour popups that shows on first use of the new search panel. -->
+
+
+
+
+<!ENTITY SearchHighlightNext "Bi ci topp">
+

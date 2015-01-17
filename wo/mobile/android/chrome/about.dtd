@@ -9,7 +9,9 @@
 <!ENTITY aboutPage.checkForUpdates.link         "Wut ay yeesal">
 <!ENTITY aboutPage.checkForUpdates.checking     "Wut ay yeesal...">
 <!ENTITY aboutPage.checkForUpdates.none         "Benn yeesal féexul">
-<!ENTITY aboutPage.checkForUpdates.found        "Yeesal bu féex">
+<!ENTITY aboutPage.checkForUpdates.available2   "Download update">
+<!ENTITY aboutPage.checkForUpdates.downloading  "Downloading update…">
+<!ENTITY aboutPage.checkForUpdates.downloaded2  "Install update">
 <!ENTITY aboutPage.faq.label                    "FAQ">
 <!ENTITY aboutPage.support.label                "Ndimmal">
 <!ENTITY aboutPage.privacyPolicy.label          "Politigu dundu biir">
@@ -17,3 +19,6 @@
 <!ENTITY aboutPage.relNotes.label               "karmati sumb">
 <!ENTITY aboutPage.credits.label                "Ñi wall si">
 <!ENTITY aboutPage.license.label                "Xibaar yi ci yaatal sañ sañ yi">
+<!-- LOCALIZATION NOTE (aboutPage.logoTrademark): The message is explicitly about the word "Firefox" being trademarked, that's why we use it, instead of brandShortName. -->
+
+<!ENTITY aboutPage.logoTrademark                "Firefox and the Firefox logos are trademarks of the Mozilla Foundation.">

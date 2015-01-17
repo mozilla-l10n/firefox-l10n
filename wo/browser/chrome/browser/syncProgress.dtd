@@ -9,6 +9,6 @@
 <!ENTITY syncProgress.pageTitle    "Sa jappante bu jëkk">
 <!ENTITY syncProgress.textBlurb    "Say rootaan xaatim nañuleen te yonneeleen ci ginnaaw. Mën nga tëj koñ bi te kontine jëfandikoo &brandShortName;.">
 <!ENTITY syncProgress.closeButton  "Tëj">
-<!ENTITY syncProgress.logoAltText  "Ndimbalu &brandShortName;">
+<!ENTITY syncProgress.logoAltText  "&amp;Ndimbalu &brandShortName;">
 <!ENTITY syncProgress.diffText     "&brandShortName; dina jappante ci saa si ci ginnaaw. Mën nga tëj koñ bi te konine jëfandikoo &brandShortName;.">
 
