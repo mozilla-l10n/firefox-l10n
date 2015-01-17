@@ -78,7 +78,7 @@
 <!ENTITY settings_title "Налаштування">
 <!ENTITY pref_category_advanced "Додатково">
 <!ENTITY pref_category_customize "Вподобання">
-<!ENTITY pref_category_customize_summary "Домівка, пошук, вкладки, імпорт">
+<!ENTITY pref_category_customize_summary "Початкова сторінка, пошук, вкладки, імпорт">
 
 <!-- Localization note (pref_category_language) : This is the preferences
      section in which the user picks the locale in which to display Firefox
@@ -142,8 +142,8 @@
 <!ENTITY pref_developer_remotedebugging "Віддалене зневадження">
 <!ENTITY pref_remember_signons "Пам’ятати паролі">
 
-<!ENTITY pref_category_home "Домівка">
-<!ENTITY pref_category_home_summary "Налаштуйте початкову сторінку">
+<!ENTITY pref_category_home "Початкова сторінка">
+<!ENTITY pref_category_home_summary "Налаштувати початкову сторінку">
 <!ENTITY pref_category_home_panels "Панелі">
 <!ENTITY home_add_panel_title "Додати нову панель">
 <!ENTITY home_add_panel_empty "Нажаль ми не знайшли жодних панелей, які можна було б додати.">
@@ -214,7 +214,7 @@ size. -->
 <!ENTITY pref_media_autoplay_enabled "Дозволити автовідтворення">
 <!ENTITY pref_media_autoplay_enabled_summary "Контроль можливості автоматичного відтворення відео сайтами та іншим медійним вмістом">
 
-<!ENTITY pref_use_master_password "Використовувати головний пароль">
+<!ENTITY pref_use_master_password "Головний пароль">
 <!ENTITY pref_sync "Синхронізація">
 <!ENTITY pref_sync_summary "Синхронізація вкладок, закладок, паролів та історії">
 <!ENTITY pref_search_suggestions "Показувати пошукові припущення">
