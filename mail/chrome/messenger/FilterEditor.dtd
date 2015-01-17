@@ -22,6 +22,8 @@
 <!ENTITY contextAfterCls.label "Фильтровать после анализа на спам">
 <!ENTITY contextOutgoing.label "После отправки">
 <!ENTITY contextOutgoing.accesskey "е">
+<!ENTITY contextArchive.label "Архивации">
+<!ENTITY contextArchive.accesskey "х">
 <!ENTITY filterActionDesc.label "Производить следующие действия:">
 <!ENTITY filterActionDesc.accesskey "и">
 <!ENTITY filterActionOrderWarning.label "Примечание: Действия фильтра будут запускаться в другом порядке.">
