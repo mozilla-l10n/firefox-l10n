@@ -116,10 +116,10 @@
 <!ENTITY overlay_share_select_device "စက် ရွေးပါ">
 
 <!ENTITY pref_category_search3 "​ရှာဖွေပါ">
-
-
-
-
+<!ENTITY pref_category_search_summary "သင်၏ ရှာဖွေမှု ဝန်ဆောင်သူများအား ပြုပြင်မည်">
+<!ENTITY pref_category_display "မြင်ကွင်း">
+<!ENTITY pref_category_display_summary "စာ၊ ခေါင်းစီးဘား ၊ မြင်ကွင်းပြည့် သုံးဆွဲခြင်း">
+<!ENTITY pref_category_privacy_short "လုံခြုံရေး">
 
 
 
