@@ -25,8 +25,12 @@
      the menu item to toggle showing original sources in the editor. -->
 <!-- LOCALIZATION NOTE  (showMediaSidebar.label): This is the label on the context
      menu item to toggle showing @media rule shortcuts in a sidebar. -->
+
+<!ENTITY showMediaSidebar.label     "@media yan panelini göstər">
 <!-- LOCALIZATION NOTE  (showMediaSidebar.accesskey): This is the access key for
      the menu item to toggle showing the @media sidebar. -->
+
+<!ENTITY showMediaSidebar.accesskey     "m">
 <!-- LOCALICATION NOTE  (mediaRules.label): This is shown above the list of @media rules
      in each stylesheet editor sidebar. -->
 
