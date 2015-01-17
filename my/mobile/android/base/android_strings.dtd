@@ -122,12 +122,12 @@
 <!ENTITY pref_category_privacy_short "လုံခြုံရေး">
 <!ENTITY pref_category_privacy_summary "ပတ်စ်ဝတ်များ၊ ကွတ်ကီး၊ ခြေရာခံကိရိယာ အချက်အလက်များအား ထိန်းချုပ်ပါ">
 <!ENTITY pref_category_vendor "&vendorShortName;">
-
+<!ENTITY pref_category_vendor_summary "&brandShortName; အကြောင်း၊ FAQs ၊ အချက်အလက်အကြောင်း သိကောင်းစရာများ">
 <!ENTITY pref_category_datareporting "ဒေတာ အမျိုးအစား">
 <!ENTITY pref_learn_more "ဆက်လေ့လာပါ">
 <!ENTITY pref_category_installed_search_engines "တပ်ဆင်ထားသော ရှာဖွေရေးဝန်ဆောင်မှုများ">
-
-
+<!ENTITY pref_category_add_search_providers "ရှာဖွေရေးဝန်ဆောင်မှု ထပ်ထည့်ပါ">
+<!ENTITY pref_category_search_restore_defaults "ရှာဖွေရေး အင်ဂျင် ပြန်တပ်ပြီး">
 
 
 <!-- Localization note (pref_search_hint) : "TIP" as in "hint", "clue" etc. Displayed as an
