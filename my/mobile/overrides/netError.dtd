@@ -33,8 +33,18 @@
 <!ENTITY malformedURI.title "မမှန်တဲ့ လိပ်စာ">
 <!-- LOCALIZATION NOTE (malformedURI.longDesc2) This string contains markup including widgets for searching
      or enabling wifi connections. The text inside the tags should be localized. Do not touch the ids. -->
+<!ENTITY malformedURI.longDesc2 "<ul> 
+<li>လိပ်စာများကို ထံုးစံအားဖြင့် ယခုလိုရေးကြသည် 
+<strong>http://www.example.com/</strong></li> 
+<div id='searchbox'> 
+<input id='searchtext' type='search'></input> 
+<button id='searchbutton'>ရှာရန်</button> 
+</div> 
+<li>ရှေ့ယိမ်းမျဉ်းစောင်းကို အသုံးပြုထားခြင်းရှိ၊မရှိ စစ်ဆေးပါ (i.e. 
+<strong>/</strong>).</li> 
+</ul>">
 
-<!ENTITY netInterrupt.title "အချက်အလက်ကြမ်း လွှဲပြောင်းမှု တုံ့ဆိုင်းသွားတယ်">
+<!ENTITY netInterrupt.title "ချိတ်ဆက်မှု ပြတ်တောက်သွားသည်">
 
 
 <!ENTITY notCached.title "ဒေါ့ကုမန့်အကျိုးသက်ရောက်ရက်ကျော်လွန်ပြီး">
