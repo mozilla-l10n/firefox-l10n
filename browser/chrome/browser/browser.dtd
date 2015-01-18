@@ -817,6 +817,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY panicButton.view.forgetButton            "Lëre fare!">
 
 <!ENTITY panicButton.thankyou.msg1                "Historiku juaj së fundi u pastrua.">
-<!ENTITY panicButton.thankyou.msg2                "Shfletim i sigurt!">
+<!ENTITY panicButton.thankyou.msg2                "Shfletim i parrezik!">
 <!ENTITY panicButton.thankyou.buttonlabel         "Faleminderit!">
 
