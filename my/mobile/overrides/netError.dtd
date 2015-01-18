@@ -45,9 +45,9 @@
 </ul>">
 
 <!ENTITY netInterrupt.title "ချိတ်ဆက်မှု ပြတ်တောက်သွားသည်">
+<!ENTITY netInterrupt.longDesc2 "&sharedLongDesc3;">
 
-
-<!ENTITY notCached.title "ဒေါ့ကုမန့်အကျိုးသက်ရောက်ရက်ကျော်လွန်ပြီး">
+<!ENTITY notCached.title "ဆွဲယူရန် ရက်လွန်စာရွက်စာတမ်း">
 <!ENTITY notCached.longDesc "<p>တောင်းဆိုထားသောဒေါ့ကုမန့်သည် &brandShortName;၏ခေတ္တသိမ်းမှတ်ဉာဏ်ထဲတွင်မရှိတော့ပါ</p><ul><li>လုံခြုံရေးကာကွယ်မှူအရ &brandShortName; သည် အချို့သောဒေါ့ကုမန့်များအားသိမ်းထားလေ့မရှိပါ.</li><li>ဝတ်ဆိုဒ်မှပြန်လည်တောင်းဆိုရန်အတွက် နောက်ထပ် ကိုနှိပ်ပါ။</li></ul>">
 
 <!ENTITY netOffline.title "ချိတ်ဆက်မဲ့ စနစ်">
