@@ -306,6 +306,7 @@
 <!ENTITY event.recurrence.pattern.yearly.week.5.label        "donderdag" >
 <!ENTITY event.recurrence.pattern.yearly.week.6.label        "vrijdag" >
 <!ENTITY event.recurrence.pattern.yearly.week.7.label        "zaterdag" >
+<!ENTITY event.recurrence.pattern.yearly.day.label           "dag" >
 <!ENTITY event.recurrence.of.label                           "van" >
 <!ENTITY event.recurrence.pattern.yearly.month2.1.label      "januari" >
 <!ENTITY event.recurrence.pattern.yearly.month2.2.label      "februari" >
