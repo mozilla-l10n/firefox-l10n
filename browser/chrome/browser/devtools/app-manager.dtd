@@ -35,7 +35,7 @@
 
 <!ENTITY device.permissionsHelpLink "https://developer.mozilla.org/docs/Web/Apps/App_permissions">
 <!ENTITY device.browserTabs "ගවේෂක ටැබ්">
-
+<!ENTITY device.browserTabsTooltip "සබඳකළ උපාංගයේ ගවේශකයේ ටැබ ලැයිස්තුවක් පෙන්වන්න">
 <!ENTITY device.debugBrowserTab "දෝෂහරණය">
 
 <!ENTITY device.help "උදව්">
@@ -76,7 +76,7 @@
 <!ENTITY projects.updateApp "යාවත් කාළීන:">
 
 <!ENTITY projects.debugApp "දෝෂහරණය">
-
+<!ENTITY projects.debugAppTooltip "මෙම යෙදුමට සබැඳි සංවර්ධක මෙවලම් විවෘත කරන්න">
 <!ENTITY projects.saveManifest "සුරකින්න">
 
 <!ENTITY projects.hostedManifestPlaceHolder2 "http://example.com/app/manifest.webapp">
