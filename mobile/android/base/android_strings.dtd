@@ -172,7 +172,8 @@
 <!ENTITY pref_cookies_not_accept_foreign "Zivunyelwe, ngaphandle kweqela lesi-3">
 <!ENTITY pref_cookies_disabled "Ivaliwe">
 
-
+<!ENTITY pref_tracking_protection_title "Ukhuseleko lokukhangela">
+<!ENTITY pref_tracking_protection_summary "&brandShortName; iyakuthintela iisayithi ekukhangeleni wena">
 <!ENTITY pref_donottrack_title "Musa ukulanda umkhondo">
 <!ENTITY pref_donottrack_summary "&brandShortName; izakuxelela isayithi ukub akufundi ukulandwa">
 
@@ -430,7 +431,7 @@ size. -->
 <!ENTITY home_remote_tabs_empty "Iithebhu zakho ezivela kwezinye izixhobo zivela apha.">
 <!ENTITY home_remote_tabs_unable_to_connect "Ayikwazi kudibanisa">
 <!ENTITY home_remote_tabs_need_to_sign_in "Nceda ungene unxibelelane kwakhona iAkhawunti yakho yeFirefox ze uqhubeke ne-syncing.">
-
+<!ENTITY home_remote_tabs_need_to_finish_migrating "I-akhawunti yakho ka-Firefox ilungile">
 
 <!ENTITY home_remote_tabs_trouble_verifying "Ingxaki ekuqinisekiseni iakhawunti yakho?">
 <!ENTITY home_remote_tabs_need_to_verify "Nceda uqinisekise iAkhawunti yakho yeFirefox ukuqalisa i-syncing.">
