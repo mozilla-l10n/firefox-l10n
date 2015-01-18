@@ -17,9 +17,5 @@
 <!ENTITY optionRTL.label "Dirección derecha a izquierda">
 <!ENTITY optionRTL.accesskey "r">
 
-<!ENTITY example.label "Ejamplo: ">
-<!-- LOCALIZATION NOTE (exampleText.label): DONT_TRANSLATE. This is a LaTeX example. -->
-<!ENTITY exampleText.label "\sqrt{x_1} + \frac{π^3}{2}">
-
 <!ENTITY insertButton.label "Insertar">
 <!ENTITY insertButton.accesskey "I">

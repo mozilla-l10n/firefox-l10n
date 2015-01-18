@@ -4,13 +4,17 @@
 
 <!ENTITY offlineDialog.title       "Opciones sin conexión">
 
-<!ENTITY textStartUp   "Al iniciar:">
+<!ENTITY checkAutoDetect.label "Seguir automáticamente el estado de conexión detectado">
+<!ENTITY checkAutoDetect.accesskey "d">
+<!ENTITY titleStartUp "Estado manual al iniciar:">
 <!ENTITY radioRememberPrevState.label "Recordar el estado anterior de la conexión">
 <!ENTITY radioRememberPrevState.accesskey "R">
-<!ENTITY radioAskMe.label "Preguntarme el estado al iniciar">
-<!ENTITY radioAskMe.accesskey "u">
+<!ENTITY radioAskState.label "Perguntarme el estado de conexión">
+<!ENTITY radioAskState.accesskey "x">
 <!ENTITY radioAlwaysOnline.label "Siempre iniciar conectado">
 <!ENTITY radioAlwaysOnline.accesskey "c">
+<!ENTITY radioAlwaysOffline.label "Fuera de línea">
+<!ENTITY radioAlwaysOffline.accesskey "F">
 
 <!ENTITY textGoingOnline "¿Enviar mensajes pendientes al conectarse?">
 <!ENTITY radioAutoSend.label "Si">
