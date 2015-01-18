@@ -172,7 +172,8 @@
 <!ENTITY pref_cookies_not_accept_foreign "Autorizadas, fueras d\u0027as de tercers">
 <!ENTITY pref_cookies_disabled "No autorizadas">
 
-
+<!ENTITY pref_tracking_protection_title "Protección debant d\u0027o seguimiento">
+<!ENTITY pref_tracking_protection_summary "&brandShortName; priva que os puestos web te puedan fer seguimiento">
 <!ENTITY pref_donottrack_title "No me sigas">
 <!ENTITY pref_donottrack_summary "&brandShortName; indicará a os puestos web que no quiere que le sigan">
 
@@ -430,7 +431,7 @@ size. -->
 <!ENTITY home_remote_tabs_empty "As tuyas pestanyas en atros dispositivos s\u0027amuestran aquí.">
 <!ENTITY home_remote_tabs_unable_to_connect "No s\u0027ha puesto connectar">
 <!ENTITY home_remote_tabs_need_to_sign_in "Torna a dentar ta reconnectar-te con Firefox Account y continuar sincronizando.">
-
+<!ENTITY home_remote_tabs_need_to_finish_migrating "A tuya nueva cuenta de Firefox ye presta!">
 
 <!ENTITY home_remote_tabs_trouble_verifying "Problemas verificando a tuya cuenta?">
 <!ENTITY home_remote_tabs_need_to_verify "Por favor verifica a tuya Cuenta Firefox ta empecipiar a sincronizar.">
