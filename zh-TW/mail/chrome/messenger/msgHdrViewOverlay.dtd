@@ -57,9 +57,9 @@
 <!ENTITY otherActionsOpenInNewWindow1.accesskey "w">
 <!ENTITY otherActionsOpenInNewTab1.label "用新分頁開啟">
 <!ENTITY otherActionsOpenInNewTab1.accesskey "T">
-<!ENTITY markAsReadMenuItem1.label "標示為已閱讀">
+<!ENTITY markAsReadMenuItem1.label "標示為已讀">
 <!ENTITY markAsReadMenuItem1.accesskey "r">
-<!ENTITY markAsUnreadMenuItem1.label "標示為未閱讀">
+<!ENTITY markAsUnreadMenuItem1.label "標示為未讀">
 <!ENTITY markAsUnreadMenuItem1.accesskey "r">
 <!ENTITY saveAsMenuItem1.label "另存為…">
 <!ENTITY saveAsMenuItem1.accesskey "S">

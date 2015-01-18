@@ -44,7 +44,7 @@
 <!ENTITY showCondensedAddresses.label  "顯示通訊錄裡設定的名字">
 <!ENTITY showCondensedAddresses.accesskey "S">
 
-<!ENTITY autoMarkAsRead.label          "自動標為已讀">
+<!ENTITY autoMarkAsRead.label          "自動將郵件標示為已讀">
 <!ENTITY autoMarkAsRead.accesskey      "A">
 <!ENTITY markAsReadNoDelay.label       "顯示時立刻標示">
 <!ENTITY markAsReadNoDelay.accesskey   "o">
