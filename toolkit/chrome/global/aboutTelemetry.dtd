@@ -8,6 +8,7 @@
 
 <!ENTITY aboutTelemetry.telemetryDisabled "  Telemetri <span>dinonaktifkan</span>.">
 
+<!ENTITY aboutTelemetry.generalDataSection "  Data Umum">
 
 <!ENTITY aboutTelemetry.slowSqlSection "  Pernyataan SQL Lambat">
 
@@ -17,6 +18,7 @@
 
 <!ENTITY aboutTelemetry.histogramsSection "  Histogram">
 
+<!ENTITY aboutTelemetry.keyedHistogramsSection "  Histrogram Berdasar Kunci">
 
 <!ENTITY aboutTelemetry.simpleMeasurementsSection "  Pengukuran Sederhana">
 
@@ -38,4 +40,4 @@
 
 <!ENTITY aboutTelemetry.hideSymbols "  Tampilkan data mentah dari proses yang macet">
 
-<!ENTITY aboutTelemetry.filterText "Filter (string atau /ekspresi reguler/)">
+<!ENTITY aboutTelemetry.filterText " Filter (string atau /ekspresi reguler/)">
