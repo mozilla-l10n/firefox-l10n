@@ -11,15 +11,17 @@
 <!ENTITY trackingProtectionLearnMore.label "තවත් දැනගන්න">
 <!ENTITY doNotTrackInfo.label           "වැඩිදුරටත් දැනුවත්වන්න">
 
+<!ENTITY  history.label                 "ඉතිහාසය">
 
 <!ENTITY  locationBar.label             "ස්ථාන තීරුව">
 
-
-
-
-
-
-
+<!ENTITY  locbar.suggest.label          "ස්ථානීය තීරුව භාවිත කරන විට, යෝජනා කරන්න:">
+<!ENTITY  locbar.history.label          "ඉතිහාසය (H)">
+<!ENTITY  locbar.history.accesskey      "H">
+<!ENTITY  locbar.bookmarks.label        "පිටු සලකුණු (k)">
+<!ENTITY  locbar.bookmarks.accesskey    "k">
+<!ENTITY  locbar.openpage.label         "ටැබ් විවෘත කරන්න (O)">
+<!ENTITY  locbar.openpage.accesskey     "O">
 
 <!ENTITY  acceptCookies.label           "අඩවි වෙතින් කුකී පිළිගන්න">
 <!ENTITY  acceptCookies.accesskey       "A">
@@ -30,7 +32,8 @@
 <!ENTITY  acceptThirdParty.never.label    "Never">
 <!ENTITY  acceptThirdParty.visited.label  "පිවිසි වෙතින්">
 
-
+<!ENTITY  keepUntil.label               "තබාගත යුත්තේ (u):">
+<!ENTITY  keepUntil.accesskey           "u">
 
 <!ENTITY  expire.label                  "කල් ඉකුත්වන තුරු">
 <!ENTITY  close.label                   "මම &brandShortName; වසන තුරු">

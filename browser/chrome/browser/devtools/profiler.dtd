@@ -11,17 +11,23 @@
 <!-- LOCALIZATION NOTE (profilerUI.emptyNotice1/2): This is the label shown
   -  in the call list view when empty. -->
 
+
+
+<!ENTITY profilerUI.emptyNotice1    "මත ක්ලික් කරන්න">
+<!ENTITY profilerUI.emptyNotice2    "JavaScript ක්‍රියාකාරීත්ව පටිගතකිරීම අරඹන බොත්තම.">
 <!-- LOCALIZATION NOTE (profilerUI.stopNotice1/2): This is the label shown
   -  in the call list view while recording a profile. -->
 
 <!ENTITY profilerUI.stopNotice1    "මත ක්ලික් කරන්න">
-
+<!ENTITY profilerUI.stopNotice2    "පැතිකඩකරණය නවතන බොත්තම.">
 <!-- LOCALIZATION NOTE (profilerUI.loadingNotice): This is the label shown
   -  in the call list view while loading a profile. -->
 
 <!ENTITY profilerUI.loadingNotice "පූරණය වේ…">
 <!-- LOCALIZATION NOTE (profilerUI.recordButton): This string is displayed
   -  on a button that starts a new profile. -->
+
+<!ENTITY profilerUI.recordButton.tooltip "JavaScript ක්‍රියාකාරීත්ව ඇමතුම් පටිගත කරන්න.">
 <!-- LOCALIZATION NOTE (profilerUI.importButton): This string is displayed
   -  on a button that opens a dialog to import a saved profile data file. -->
 
@@ -40,10 +46,10 @@
   -  for the tree-inverting checkbox's label.  -->
 <!-- LOCALIZATION NOTE (profilerUI.table.*): These strings are displayed
   -  in the call tree headers for a recording. -->
-
-
-
-
+<!ENTITY profilerUI.table.selfDuration    "මුළු කාලය (ms)">
+<!ENTITY profilerUI.table.totalPercentage "මුළු වියදම">
+<!ENTITY profilerUI.table.selfPercentage  "ස්වයං වියදම">
+<!ENTITY profilerUI.table.samples         "නියඳි">
 <!ENTITY profilerUI.table.function        "කරියාව">
 <!-- LOCALIZATION NOTE (profilerUI.newtab.tooltiptext): The tooltiptext shown
   -  on the "+" (new tab) button for a profile when a selection is available. -->

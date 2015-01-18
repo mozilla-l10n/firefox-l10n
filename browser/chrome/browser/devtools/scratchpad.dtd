@@ -56,7 +56,8 @@
 <!ENTITY lineNumbers.label             "පේළි අංක පෙන්වන්න (L)">
 <!ENTITY lineNumbers.accesskey         "L">
 
-
+<!ENTITY wordWrap.label                "පෙළ ඔතන්න (W)">
+<!ENTITY wordWrap.accesskey            "W">
 
 
 

@@ -1,7 +1,8 @@
 <!-- LOCALIZATION NOTE (inspectorHTMLEdit.label): This is the label shown
      in the inspector contextual-menu for the item that lets users edit the
      (outer) HTML of the current node -->
-
+<!ENTITY inspectorHTMLEdit.label       "HTML ලෙස සකසන්න (E)">
+<!ENTITY inspectorHTMLEdit.accesskey   "E">
 <!-- LOCALIZATION NOTE (inspectorHTMLCopyInner.label): This is the label shown
      in the inspector contextual-menu for the item that lets users copy the
      inner HTML of the current node -->
