@@ -165,6 +165,9 @@
 <!ENTITY fxaccount_confirm_account_change_email '¿Olvidar esta dirección de correo electrónico?'>
 <!ENTITY fxaccount_confirm_account_verification_link_sent2 'Correo de verificación enviado'>
 <!ENTITY fxaccount_confirm_account_verification_link_not_sent2 'No se pudo enviar el correo de verificación'>
+<!ENTITY fxaccount_resend_unlock_code_button_label 'Reenviar correo de desbloqueo'>
+<!ENTITY fxaccount_unlock_code_sent 'Correo de desbloqueo de cuenta enviado'>
+<!ENTITY fxaccount_unlock_code_not_sent 'No se pudo enviar el correo de desbloqueo'>
 
 <!ENTITY fxaccount_sign_in_sub_header 'Sign in'>
 <!ENTITY fxaccount_sign_in_button_label 'Sign in'>
@@ -175,9 +178,15 @@
 <!ENTITY fxaccount_account_verified_sub_header 'Cuenta verificada'>
 <!ENTITY fxaccount_account_verified_description2 'Tus datos comenzarán a sincronizarse momentáneamente.'>
 
+<!ENTITY fxaccount_migration_finished_header 'Actualización finalizada'>
+
 <!ENTITY fxaccount_update_credentials_header 'Ingresar'>
 <!ENTITY fxaccount_update_credentials_button_label 'Ingresar'>
 <!ENTITY fxaccount_update_credentials_unknown_error 'No se puede ingresar'>
+
+<!ENTITY fxaccount_finish_migrating_header 'Ingresá para terminar la actualización'>
+<!ENTITY fxaccount_finish_migrating_button_label 'Finalizar actualización'>
+<!ENTITY fxaccount_finish_migrating_description 'Actualizar puede transferir muchos datos. Es mejor estar conectado a una red WiFi.'>
 
 <!ENTITY fxaccount_status_header2 'Cuenta de Firefox'>
 <!ENTITY fxaccount_status_signed_in_as 'Ingresado como'>
@@ -192,7 +201,9 @@
 <!ENTITY fxaccount_status_needs_credentials 'No se puede conectar. Tocá para ingresar.'>
 <!ENTITY fxaccount_status_needs_upgrade 'Necesitás actualizar &brandShortName; para ingresar.'>
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled '&syncBrand.shortName.label; Está configurado, pero no se está sincronizando automáticamente. Habilitá “Auto-sync data” en Ajustes de Android &gt; Uso de datos.'>
+<!ENTITY fxaccount_status_needs_master_sync_automatically_enabled_v21 '&syncBrand.shortName.label; está configurado, pero no está sincronizando automáticamente. Cambie “Sincronización automática” en el menú de Cuentas y sincronización de Android.'>
 <!ENTITY fxaccount_status_needs_account_enabled '&syncBrand.shortName.label; está configurado, pero no se está sincronizando automáticamente. Golpeá para comenzar a sincronizar.'>
+<!ENTITY fxaccount_status_needs_finish_migrating 'Tocá para ingresar a tu nueva cuenta en Firefox Account.'>
 <!ENTITY fxaccount_status_bookmarks 'Marcadores'>
 <!ENTITY fxaccount_status_history 'Historial'>
 <!ENTITY fxaccount_status_passwords 'Contraseñas'>
@@ -240,8 +251,14 @@
 <!ENTITY fxaccount_remote_error_SERVICE_TEMPORARILY_UNAVAILABLE_TO_DUE_HIGH_LOAD 'Servidor ocupado, intentá nuevamente'>
 <!ENTITY fxaccount_remote_error_UNKNOWN_ERROR 'Hubo un problema'>
 <!ENTITY fxaccount_remote_error_COULD_NOT_CONNECT 'Cannot connect to network'>
+<!ENTITY fxaccount_remote_error_ACCOUNT_LOCKED 'Cuenta bloqueada. &formatS1;'>
 
 <!ENTITY fxaccount_sync_sign_in_error_notification_title2 '&syncBrand.shortName.label; no está conectado'>
 <!-- Note to translators: the format string below will be replaced
      with the Firefox account's email address. -->
 <!ENTITY fxaccount_sync_sign_in_error_notification_text2 'Tocá para ingresar como &formatS;'>
+
+<!ENTITY fxaccount_sync_finish_migrating_notification_title 'Finalizar la actualización de &syncBrand.shortName.label;?'>
+<!-- Localization note: the format string below will be replaced
+     with the Firefox Account's email address. -->
+<!ENTITY fxaccount_sync_finish_migrating_notification_text 'Tocá para ingresar como &formatS;'>

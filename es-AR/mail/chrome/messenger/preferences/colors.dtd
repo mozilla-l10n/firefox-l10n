@@ -6,8 +6,12 @@
 <!ENTITY  window.width                    "38em">
 <!ENTITY  window.macWidth                 "41em">
 
-<!ENTITY  allowPagesToUse.label           "Permitir que el contenido elija sus propios colores en lugar de mis selecciones encima">
-<!ENTITY  allowPagesToUse.accesskey       "a">
+<!ENTITY  overridePageColors.label        "Anular los colores especificados por el contenido con mis selecciones:">
+<!ENTITY  overridePageColors.accesskey    "o">
+
+<!ENTITY  overridePageColors.always.label "Siempre">
+<!ENTITY  overridePageColors.auto.label   "Solamente con temas de alto contraste">
+<!ENTITY  overridePageColors.never.label  "Nunca">
 
 <!ENTITY  color                           "Texto y fondo">
 <!ENTITY  textColor.label                 "Texto:">

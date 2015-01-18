@@ -118,7 +118,7 @@
 <!ENTITY pref_category_search3 "Buscar">
 <!ENTITY pref_category_search_summary "Personalizar buscadores">
 <!ENTITY pref_category_display "Pantalla">
-<!ENTITY pref_category_display_summary "Texto, barra de título, navegación a pantalla completa">
+<!ENTITY pref_category_display_summary "Texto, barra de títulos, navegación a pantalla completa">
 <!ENTITY pref_category_privacy_short "Privacidad">
 <!ENTITY pref_category_privacy_summary "Control de contraseñas, cookies, rastreo, datos">
 <!ENTITY pref_category_vendor "&vendorShortName;">
@@ -172,6 +172,8 @@
 <!ENTITY pref_cookies_not_accept_foreign "Habilitadas, excepto de terceros">
 <!ENTITY pref_cookies_disabled "Deshabilitadas">
 
+<!ENTITY pref_tracking_protection_title "Protección contra rastreo">
+<!ENTITY pref_tracking_protection_summary "&brandShortName; evitará que los sitios te rastreen">
 <!ENTITY pref_donottrack_title "No rastrear">
 <!ENTITY pref_donottrack_summary "&brandShortName; le dirá a los sitios que no querés ser rastreado">
 
@@ -429,6 +431,8 @@ size. -->
 <!ENTITY home_remote_tabs_empty "Las pestañas de tus otros dispositivos aparecen acá.">
 <!ENTITY home_remote_tabs_unable_to_connect "No se puede conectar">
 <!ENTITY home_remote_tabs_need_to_sign_in "Ingresá para reconectar a tu cuenta de Firefox Account y continuar sincronizando.">
+<!ENTITY home_remote_tabs_need_to_finish_migrating "Tu nueva cuenta en Firefox Account está lista">
+
 <!ENTITY home_remote_tabs_trouble_verifying "¿Problemas verificando tu cuenta?">
 <!ENTITY home_remote_tabs_need_to_verify "Verificá tu cuenta de Firefox para comenzar a sincronizar.">
 
@@ -531,9 +535,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!-- New tablet UI -->
 
-<!-- LOCALIZATION NOTE (new_tablet_restart): Notification displayed after the user toggles the new tablet UI in the settings screen.-->
-<!ENTITY new_tablet_restart "Reiniciar el navegador para que los cambios tengan efecto">
-<!ENTITY new_tablet_pref "Habilitar nueva UI de tablet">
 
 <!-- Guest mode -->
 <!ENTITY new_guest_session "Nueva sesión de invitado">
