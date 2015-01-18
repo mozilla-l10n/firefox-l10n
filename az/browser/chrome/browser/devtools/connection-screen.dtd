@@ -5,10 +5,10 @@
   - The Remote Connection window can reached from the "connect…" menuitem
   - in the Web Developer menu.
   - -->
-
+<!ENTITY header     "Uzaq cihaza qoşul">
 <!ENTITY host       "Server:">
 <!ENTITY port       "Port:">
-
+<!ENTITY connect    "Qoşul">
 <!ENTITY connecting "Bağlanır…">
 
 

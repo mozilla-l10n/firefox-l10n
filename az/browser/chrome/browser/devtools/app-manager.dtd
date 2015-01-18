@@ -8,7 +8,7 @@
 <!ENTITY index.help "Kömək">
 
 <!ENTITY device.debugMainProcess "Əsas prosesi sazla">
-
+<!ENTITY device.debugMainProcessTooltip "Cihazdakı əsas prosesə bağlı Tərtibatçı Alətlərini aç">
 <!ENTITY device.screenshot "Ekran görüntüsü">
 
 <!ENTITY device.title "Avadanlıq İdarə Mərkəzi">
@@ -17,7 +17,7 @@
 <!ENTITY device.startAppTooltip "Bu tətbiqetməni avadanlıqda başlat">
 <!ENTITY device.stopApp "Dayandır">
 <!ENTITY device.stopAppTooltip "Bu tətbiqetməni avadanlıqda dayandır">
-
+<!ENTITY device.debugApp "Sazlama">
 <!ENTITY device.debugAppTooltip "Cihazdakı bu tətbiqetməyə bağlı Tərtibatçı Alətlərini aç">
 <!ENTITY device.name "Ad">
 <!ENTITY device.plain "Düz (ilkin vəziyyət)">
@@ -27,18 +27,18 @@
 <!ENTITY device.allowTooltip "Bu icazə bu növdə olan tətbiqetmələrə verilir">
 <!ENTITY device.prompt "Klient">
 <!ENTITY device.promptTooltip "Bu icazə, bu cür tətbiqetmələrin istifadəçiyə soruşmasını tələb edir.">
-
+<!ENTITY device.deny "Rədd et">
 <!ENTITY device.denyTooltip "Bu icazə bu növdə olan tətbiqetmələr üçün qadağandır">
-
+<!ENTITY device.installedApps "Quraşdırılmış Tətbiqlər">
 
 <!ENTITY device.permissions "İcazələr">
 
 
 <!ENTITY device.browserTabs "Səyyah vərəqləri">
 
-
-
-
+<!ENTITY device.debugBrowserTab "Sazlama">
+<!ENTITY device.debugBrowserTabTooltip "Cihazdakı bu səyyah vərəqinə bağlı Tərtibatçı Alətlərini aç">
+<!ENTITY device.help "Kömək">
 
 <!ENTITY connection.connectTooltip "Avadanlığa bağlan">
 <!ENTITY connection.disconnect "Bağlantını kəs">
@@ -50,10 +50,10 @@
 
 <!ENTITY connection.startSimulator "Simulyatoru başlat">
 
-
+<!ENTITY connection.saveConnectionInfo "Yadda saxla">
 
 <!ENTITY connection.connecting "Bağlanır…">
-
+<!ENTITY connection.disconnecting "Bağlantı kəsilir…">
 <!ENTITY connection.cancel "ləğv et">
 
 
@@ -61,7 +61,7 @@
 <!ENTITY connection.noSimulatorInstalled "Quraşdırılmış simulyator yoxdur.">
 
 
-
+<!ENTITY connection.installAnotherSimulator "Əlavə et">
 
 <!ENTITY connection.startRegisteredSimulator "Başlat:">
 
