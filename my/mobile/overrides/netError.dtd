@@ -13,10 +13,10 @@
 <!ENTITY connectionFailure.title "ချိတ်ဆက်ဖို့ မအောင်မြင်ဘူး">
 
 
-<!ENTITY deniedPortAccess.title "လုံခြုံရေး ကိစ္စများကြောင့် အခံကို တားမြစ်ထားတယ်။">
+<!ENTITY deniedPortAccess.title "ဒီလိပ်စာကို တားမြစ်ထားသည်">
 <!ENTITY deniedPortAccess.longDesc "">
 
-<!ENTITY dnsNotFound.title "လိပ်စာ မတွေ့ရဘူး">
+<!ENTITY dnsNotFound.title "ဆာဗာကို မတွေ့ပါ">
 <!-- LOCALIZATION NOTE (dnsNotFound.longDesc4) This string contains markup including widgets for searching
      or enabling wifi connections. The text inside tags should be localized.  Do not change the ids. -->
 
