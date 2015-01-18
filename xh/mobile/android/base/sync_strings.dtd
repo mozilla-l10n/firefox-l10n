@@ -170,7 +170,7 @@
 <!ENTITY fxaccount_confirm_account_change_email "Uyilibele idilesi ye imeyile?">
 <!ENTITY fxaccount_confirm_account_verification_link_sent2 "I-imeyili yokuqinisekisa ithunyelwe">
 <!ENTITY fxaccount_confirm_account_verification_link_not_sent2 "Ayikwazanga ukukuthumelela i-imeyili yokuqinisekisa">
-
+<!ENTITY fxaccount_resend_unlock_code_button_label "Phinda uthumele iimeyile ezitshixiweyo">
 
 
 
