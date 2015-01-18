@@ -588,3 +588,11 @@
 <!ENTITY panicButton.thankyou.msg1 "Ваша недавняя история была удалена.">
 <!ENTITY panicButton.thankyou.msg2 "Безопасного веб-сёрфинга!">
 <!ENTITY panicButton.thankyou.buttonlabel "Спасибо!">
+<!ENTITY processHang.terminateScript.label "Остановить сценарий">
+<!ENTITY processHang.terminateScript.accessKey "н">
+<!ENTITY processHang.debugScript.label "Отладить сценарий">
+<!ENTITY processHang.debugScript.accessKey "а">
+<!ENTITY processHang.terminatePlugin.label "Убить плагин">
+<!ENTITY processHang.terminatePlugin.accessKey "и">
+<!ENTITY processHang.terminateProcess.label "Убить процесс веб-страницы">
+<!ENTITY processHang.terminateProcess.accessKey "п">
