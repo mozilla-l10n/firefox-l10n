@@ -15,6 +15,10 @@
 <!ENTITY title                  "සජීවීකරණ">
 <!-- LOCALIZATION NOTE (invalidElement): This is the label shown in the panel
   - when an invalid node is currently selected in the inspector. -->
+
+<!ENTITY invalidElement         "වත්මන් මූලිකාංගය සඳහා සජීවීකරණයන් හමු නොවිනි.">
 <!-- LOCALIZATION NOTE (selectElement): This is the label shown in the panel
   - when an invalid node is currently selected in the inspector, to invite the
   - user to select a new node by clicking on the element-picker icon. -->
+
+<!ENTITY selectElement         "පිටුවෙන් වෙනත් මූලිකාංගුක් තෝරන්න.">
