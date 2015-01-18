@@ -25,6 +25,8 @@
 <!ENTITY contextAfterCls.label "Filtrar después de la clasificación de basura">
 <!ENTITY contextOutgoing.label "Después de enviar">
 <!ENTITY contextOutgoing.accesskey "s">
+<!ENTITY contextArchive.label "Archivar">
+<!ENTITY contextArchive.accesskey "A">
 
 <!ENTITY filterActionDesc.label "Ejecutar estas acciones:">
 <!ENTITY filterActionDesc.accesskey "E">
