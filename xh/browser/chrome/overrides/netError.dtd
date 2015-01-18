@@ -169,8 +169,11 @@ functionality specific to firefox. -->
 <!ENTITY remoteXUL.title "Susa i-XUL">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Nceda uqhagamshelane nabanini bewebhusayithi ubachazele ngale ngxaki.</li></ul></p>">
 
+<!ENTITY oldSecurityProtocol.title "Akunxibelelani ngokukhuselekileyo">
 <!-- LOCALIZATION NOTE (oldSecurityProtocol.longDesc) - Do not translate the
      <span id='hostname'></span>. -->
+<!ENTITY oldSecurityProtocol.longDesc2 "&brandShortName; ayiniki isiqinisekiso sokhuseleko seenkcukacha zakho ku <span id='hostname'> </span> ngoba isebenzisa SSLv3, iprothokholi yokhuseleko olwaphukileyo.">
 <!-- LOCALIZATION NOTE (oldSecurityProtocol.advancedInfo) - Do not translate
      the <span id='errorcode'></span>. -->
-
+<!ENTITY oldSecurityProtocol.advancedInfo "Iinkcukakha eziphambili: <span id='errorcode'> </span>">
+<!ENTITY oldSecurityProtocol.learnMore "Funda okungakumbi…">
