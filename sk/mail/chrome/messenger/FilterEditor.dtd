@@ -26,6 +26,8 @@
 <!ENTITY contextAfterCls.label "Filtrovať po klasifikácii nevyžiadanej pošty">
 <!ENTITY contextOutgoing.label "Po odoslaní">
 <!ENTITY contextOutgoing.accesskey "d">
+<!ENTITY contextArchive.label "Archivácii">
+<!ENTITY contextArchive.accesskey "A">
 
 <!ENTITY filterActionDesc.label "Vykonať tieto akcie:">
 <!ENTITY filterActionDesc.accesskey "V">
