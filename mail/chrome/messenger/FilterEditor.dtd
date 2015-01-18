@@ -8,7 +8,7 @@
 <!ENTITY filterName.accesskey "i">
 
 <!ENTITY junk.label "垃圾郵件">
-<!ENTITY notJunk.label "非垃圾信">
+<!ENTITY notJunk.label "非垃圾郵件">
 
 <!ENTITY lowestPriorityCmd.label "最低">
 <!ENTITY lowPriorityCmd.label "低">
@@ -16,13 +16,13 @@
 <!ENTITY highPriorityCmd.label "高">
 <!ENTITY highestPriorityCmd.label "最高">
 
-<!ENTITY contextDesc.label "套用篩選條件當:">
-<!ENTITY contextIncomingMail.label "正在取回新郵件:">
+<!ENTITY contextDesc.label "做下列動作時進行篩選:">
+<!ENTITY contextIncomingMail.label "取回新郵件時:">
 <!ENTITY contextIncomingMail.accesskey "G">
-<!ENTITY contextManual.label "手動執行">
+<!ENTITY contextManual.label "手動執行時">
 <!ENTITY contextManual.accesskey "R">
-<!ENTITY contextBeforeCls.label "在進行垃圾信偵測前進行篩選">
-<!ENTITY contextAfterCls.label "在進行垃圾信偵測後進行篩選">
+<!ENTITY contextBeforeCls.label "在偵測垃圾信前篩選">
+<!ENTITY contextAfterCls.label "在偵測垃圾信後篩選">
 <!ENTITY contextOutgoing.label "傳送後">
 <!ENTITY contextOutgoing.accesskey "S">
 
@@ -34,18 +34,18 @@
 
 <!-- New Style Filter Rule Actions -->
 <!ENTITY moveMessage.label "移動郵件到">
-<!ENTITY copyMessage.label "複製到">
-<!ENTITY forwardTo.label "轉寄給">
+<!ENTITY copyMessage.label "複製郵件到">
+<!ENTITY forwardTo.label "轉寄郵件給">
 <!ENTITY replyWithTemplate.label "使用範本回信">
-<!ENTITY markMessageRead.label "標為已讀">
-<!ENTITY markMessageUnread.label "標示為未讀取">
+<!ENTITY markMessageRead.label "標示為已讀">
+<!ENTITY markMessageUnread.label "標示為未讀">
 <!ENTITY markMessageStarred.label "加上星號">
 <!ENTITY setPriority.label "設定優先順序為">
 <!ENTITY addTag.label "加上標籤">
 <!ENTITY setJunkScore.label "設定垃圾信狀態為">
 <!ENTITY deleteMessage.label "刪除郵件">
 <!ENTITY deleteFromPOP.label "由 POP 伺服器刪除">
-<!ENTITY fetchFromPOP.label "由 POP 伺服器取得">
+<!ENTITY fetchFromPOP.label "由 POP 伺服器取回">
 <!ENTITY ignoreThread.label "忽略討論串">
 <!ENTITY ignoreSubthread.label "忽略回覆討論串">
 <!ENTITY watchThread.label "追蹤討論串">
