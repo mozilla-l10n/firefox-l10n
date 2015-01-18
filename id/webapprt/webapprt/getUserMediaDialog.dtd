@@ -13,5 +13,5 @@
 
 <!ENTITY getUserMediaDialog.video.label             "Pilih kamera">
 <!ENTITY getUserMediaDialog.video.noVideo           "Tidak ada video">
-<!ENTITY getUserMediaDialog.audio.label             "Pilih mikropon">
+<!ENTITY getUserMediaDialog.audio.label             "Pilih mikrofon">
 <!ENTITY getUserMediaDialog.audio.noAudio           "Tidak ada audio">
