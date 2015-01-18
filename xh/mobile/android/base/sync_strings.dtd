@@ -171,8 +171,8 @@
 <!ENTITY fxaccount_confirm_account_verification_link_sent2 "I-imeyili yokuqinisekisa ithunyelwe">
 <!ENTITY fxaccount_confirm_account_verification_link_not_sent2 "Ayikwazanga ukukuthumelela i-imeyili yokuqinisekisa">
 <!ENTITY fxaccount_resend_unlock_code_button_label "Phinda uthumele iimeyile ezitshixiweyo">
-
-
+<!ENTITY fxaccount_unlock_code_sent "I-akhawunti etshixiweyo yemeyile ithunyelwe">
+<!ENTITY fxaccount_unlock_code_not_sent "Ayithumelekanga i-akhawunti yemeyile etshixeweyo">
 
 <!ENTITY fxaccount_sign_in_sub_header "Ngena">
 <!ENTITY fxaccount_sign_in_button_label "Ngena">
@@ -183,13 +183,15 @@
 <!ENTITY fxaccount_account_verified_sub_header "I-akhawunti iqinisekisiwe">
 <!ENTITY fxaccount_account_verified_description2 "Iingcombolo zakho ziza kuqalisa ukungqamaniswa ngokukhawuleza.">
 
+<!ENTITY fxaccount_migration_finished_header "Uphuhliso lugqityiwe">
 
 <!ENTITY fxaccount_update_credentials_header "Ngena">
 <!ENTITY fxaccount_update_credentials_button_label "Ngena">
 <!ENTITY fxaccount_update_credentials_unknown_error "Awukwazanga ukungena">
 
-
-
+<!ENTITY fxaccount_finish_migrating_header "Sayina ungene ukugqibezela uphuhliso">
+<!ENTITY fxaccount_finish_migrating_button_label "Ugqibile ukuphuhlisa">
+<!ENTITY fxaccount_finish_migrating_description "Uphuhliso lungathumela iinkcukacha ezininzi. Kungcono ukuba kwinethiwokhi eno-WiFi">
 
 <!ENTITY fxaccount_status_header2 "I-akhawunti yeFirefox">
 <!ENTITY fxaccount_status_signed_in_as "Ungene njenge">
@@ -204,9 +206,9 @@
 <!ENTITY fxaccount_status_needs_credentials "Ayikwazi ukunxibelelana. Cofa ukuze ungene.">
 <!ENTITY fxaccount_status_needs_upgrade "Kufuneka uhlaziyele kwi-&brandShortName; ukuze ungene.">
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled "I-&syncBrand.shortName.label; ifakelwe kodwa ayingqamani ngokuzenzekelayo. Sebenzisa njengeqhosha i-“Auto-sync data” kwi-Android Settings &gt; Usetyenziso lweengcombolo.">
-
+<!ENTITY fxaccount_status_needs_master_sync_automatically_enabled_v21 "I-&syncBrand.shortName.label; ifakelwe kodwa ayingqamani ngokuzenzekelayo. Sebenzisa njengeqhosha i-“Auto-sync data” kwi-Android Settings &gt; Usetyenziso lweengcombolo.">
 <!ENTITY fxaccount_status_needs_account_enabled "I-&syncBrand.shortName.label; ifakelwe kodwa ayingqamani ngokuzenzekelayo. Cinezela ukuqalisa ungqamaniso.">
-
+<!ENTITY fxaccount_status_needs_finish_migrating "Cofa ukusayina ungene kwi-akhawunti yakho entsha ka-Firefox.">
 <!ENTITY fxaccount_status_bookmarks "Iibhukhmakhi">
 <!ENTITY fxaccount_status_history "Imbali">
 <!ENTITY fxaccount_status_passwords "Iipasiwedi">
@@ -254,11 +256,14 @@
 <!ENTITY fxaccount_remote_error_SERVICE_TEMPORARILY_UNAVAILABLE_TO_DUE_HIGH_LOAD "Iseva ixakekile, phinda uzame kwakhona ngokukhawuleza">
 <!ENTITY fxaccount_remote_error_UNKNOWN_ERROR "Bekukho ingxaki">
 <!ENTITY fxaccount_remote_error_COULD_NOT_CONNECT "Ayikwazi ukunxibelelana nenethiweki">
-
+<!ENTITY fxaccount_remote_error_ACCOUNT_LOCKED "I-akhawunti itshixiwe. &formatS1;">
 
 <!ENTITY fxaccount_sync_sign_in_error_notification_title2 "I-&syncBrand.shortName.label; ayinxityelelaniswanga">
 <!-- Localization note: the format string below will be replaced
      with the Firefox Account's email address. -->
+<!ENTITY fxaccount_sync_sign_in_error_notification_text2 "Cofa ukuze ungene njenge-&formatS;">
 
+<!ENTITY fxaccount_sync_finish_migrating_notification_title "Ugqibile ukuphuhlisa &syncBrand.shortName.label;?">
 <!-- Localization note: the format string below will be replaced
      with the Firefox Account's email address. -->
+<!ENTITY fxaccount_sync_finish_migrating_notification_text "Cofa ukuze ungene njenge-&formatS;">
