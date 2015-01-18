@@ -829,3 +829,12 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY panicButton.thankyou.msg1                "Vaša nedávna história je teraz vymazaná.">
 <!ENTITY panicButton.thankyou.msg2                "Prajeme bezpečné prehliadanie!">
 <!ENTITY panicButton.thankyou.buttonlabel         "Ďakujem!">
+
+<!ENTITY processHang.terminateScript.label        "Zastaviť skript">
+<!ENTITY processHang.terminateScript.accessKey    "Z">
+<!ENTITY processHang.debugScript.label            "Ladiť skript">
+<!ENTITY processHang.debugScript.accessKey        "L">
+<!ENTITY processHang.terminatePlugin.label        "Ukončiť zásuvný modul">
+<!ENTITY processHang.terminatePlugin.accessKey    "U">
+<!ENTITY processHang.terminateProcess.label       "Ukončiť proces stránky">
+<!ENTITY processHang.terminateProcess.accessKey   "k">
