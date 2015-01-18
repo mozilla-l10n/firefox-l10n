@@ -2,10 +2,10 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY safeModeDialog.title             "&brandShortName; nën Mënyrë të Sigurt">
+<!ENTITY safeModeDialog.title             "&brandShortName; nën Mënyrën e Parrezik">
 <!ENTITY window.width                     "37em">
 
-<!ENTITY safeModeDescription.label        "&brandShortName;-i tani po xhiron nën Mënyrën e Sigurt, me të cilën çaktivizohen përkohësisht rregullimet tuaja të personalizuara, temat, dhe zgjerimet.">
+<!ENTITY safeModeDescription.label        "&brandShortName;-i tani po xhiron nën Mënyrën e Parrezik, me të cilën çaktivizohen përkohësisht rregullimet tuaja të personalizuara, temat, dhe zgjerimet.">
 <!ENTITY safeModeDescription2.label       "Disa, ose krejt këto ndryshime, mund t&apos;i kaloni si të përhershme:">
 
 <!ENTITY disableAddons.label              "Çaktivizo krejt shtesat">
@@ -17,5 +17,5 @@
 <!ENTITY changeAndRestartButton.label     "Bëj Ndryshimet dhe Rinisu">
 <!ENTITY changeAndRestartButton.accesskey "B">
 
-<!ENTITY continueButton.label             "Vazhdo nën Mënyrën e Sigurt">
+<!ENTITY continueButton.label             "Vazhdo nën Mënyrën e Parrezik">
 <!ENTITY continueButton.accesskey         "V">
