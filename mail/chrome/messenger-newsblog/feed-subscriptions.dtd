@@ -4,7 +4,7 @@
 
 <!-- Subscription Dialog -->
 <!ENTITY feedSubscriptions.label     "Feed-Abonnements">
-<!ENTITY subscriptionDesc.label      "Hinweis: Entfernen oder Ändern des Ordners für einen Feed hat keinen Einfluss auf zuvor abgerufene Artikel.">
+<!ENTITY learnMore.label             "Mehr über Feeds erfahren…">
 
 <!ENTITY feedTitle.label             "Titel:">
 <!ENTITY feedTitle.accesskey         "T">

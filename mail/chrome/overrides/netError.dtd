@@ -169,8 +169,8 @@
 <p>Diese Art von Internet-Betrug ist auch bekannt als Phishing. Dabei versuchen Kriminelle in betrügerischer Absicht, Webseiten oder E-Mails nachzuahmen, denen Sie eventuell vertrauen.</p>
 ">
 
-<!ENTITY cspFrameAncestorBlocked.title "Blockiert durch Inhaltsicherheitsrichtlinie (Content Security Policy)">
-<!ENTITY cspFrameAncestorBlocked.longDesc "<p>Laden dieser Seite in dieser Weise wurde vom Browser verhindert, weil sie eine Sicherheitsrichtlinie hat, die das nicht erlaubt.</p>">
+<!ENTITY cspBlocked.title "Durch Inhaltsicherheitsrichtlinie (CSP) blockiert">
+<!ENTITY cspBlocked.longDesc "<p>&brandShortName; hat das Laden dieser Seite auf diese Art blockiert, weil diese Seite eine Inhaltsicherheitsrichtlinie (Content Security Policy) hat, das nicht erlaubt.</p>">
 
 <!ENTITY corruptedContentError.title "Fehler: Beschädigte Inhalte">
 <!ENTITY corruptedContentError.longDesc "
