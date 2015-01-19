@@ -31,3 +31,5 @@
 <!-- LOCALIZATION NOTE (ignoreDocColors.label): This is option two, and it appends to 'someProvColors' above.  -->
 <!ENTITY useMyColors.label                 "Selbst definierte Farben verwenden, Webseiten-Farben und -Hintergrundbild ignorieren">
 <!ENTITY useMyColors.accesskey             "d">
+<!ENTITY automaticColors.label             "Seitenfarben nur ignorieren, wenn ein Theme mit starken Kontrasten verwendet wird.">
+<!ENTITY automaticColors.accesskey         "e">
