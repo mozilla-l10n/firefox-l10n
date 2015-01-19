@@ -25,6 +25,8 @@
 <!ENTITY contextManual.accesskey "r">
 <!ENTITY contextBeforeCls.label "(przed filtrowaniem niechcianych)">
 <!ENTITY contextAfterCls.label "(po filtrowaniu niechcianych)">
+<!ENTITY contextOutgoing.label "Po wysłaniu">
+<!ENTITY contextOutgoing.accesskey "s">
 
 <!ENTITY filterActionDesc.label "…wykonaj następujące czynności:">
 <!ENTITY filterActionDesc.accesskey "w">
