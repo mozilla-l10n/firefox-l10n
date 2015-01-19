@@ -4,13 +4,16 @@
 
 <!ENTITY offlineDialog.title "Aflynopstelling">
 
-<!ENTITY textStartUp "Wanneer begin:">
+
+
 <!ENTITY radioRememberPrevState.label "Onthou vorige aanlynstaat">
 <!ENTITY radioRememberPrevState.accesskey "O">
-<!ENTITY radioAskMe.label "Vra my vir aanlynstaat aan begin">
-<!ENTITY radioAskMe.accesskey "b">
-<!ENTITY radioAlwaysOnline.label "Begin altyd aanlyn">
-<!ENTITY radioAlwaysOnline.accesskey "B">
+
+
+
+
+
+
 
 <!ENTITY textGoingOnline "Stuur ongestuurde boodskappe wanneer aanlyn gaan?">
 <!ENTITY radioAutoSend.label "Ja">
