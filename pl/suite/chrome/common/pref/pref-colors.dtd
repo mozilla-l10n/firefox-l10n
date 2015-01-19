@@ -11,11 +11,11 @@
 <!ENTITY textColor.accesskey "e">
 <!ENTITY backgroundColor.label "Tło:">
 <!ENTITY backgroundColor.accesskey "T">
-<!ENTITY useSystemColors.label "Użyj kolorów systemowych">
-<!ENTITY useSystemColors.accesskey "s">
+<!ENTITY useSystemColors.label "Używaj kolorów systemowych">
+<!ENTITY useSystemColors.accesskey "m">
 
 <!ENTITY underlineLinks.label "Podkreślaj odnośniki">
-<!ENTITY underlineLinks.accesskey "P">
+<!ENTITY underlineLinks.accesskey "d">
 <!ENTITY links "Kolor odnośników">
 <!ENTITY linkColor.label "Nieodwiedzone odnośniki:">
 <!ENTITY linkColor.accesskey "N">
@@ -24,10 +24,12 @@
 <!ENTITY visitedLinkColor.label "Odwiedzone odnośniki:">
 <!ENTITY visitedLinkColor.accesskey "O">
 <!-- LOCALIZATION NOTE (someProvColors): This is the start of a sentence and will be followed by the following radio buttons. -->
-<!ENTITY someProvColors "W przypadku, gdy kolor tła i tekstu został określony w dokumencie">
+<!ENTITY someProvColors "W przypadku, gdy kolor tła i tekstu został określony przez witrynę">
 <!-- LOCALIZATION NOTE (alwaysUseDocColors.label): This is option one, and it appends to 'someProvColors' above. -->
-<!ENTITY alwaysUseDocumentColors.label "Zawsze używaj kolorów i tła zdefiniowanych przez stronę WWW">
+<!ENTITY alwaysUseDocumentColors.label "Zawsze używaj kolorów i tła określonych przez witrynę">
 <!ENTITY alwaysUseDocumentColors.accesskey "a">
 <!-- LOCALIZATION NOTE (ignoreDocColors.label): This is option two, and it appends to 'someProvColors' above.  -->
-<!ENTITY useMyColors.label "Użyj kolorów użytkownika, ignorując kolory oraz tło zdefiniowane w kodzie strony WWW">
-<!ENTITY useMyColors.accesskey "k">
+<!ENTITY useMyColors.label "Używaj kolorów użytkownika, ignorując kolory oraz tło określone przez witryny WWW">
+<!ENTITY useMyColors.accesskey "U">
+<!ENTITY automaticColors.label "Ignoruj kolory określone przez witrynę wyłącznie w motywach o wysokim kontraście">
+<!ENTITY automaticColors.accesskey "g">
