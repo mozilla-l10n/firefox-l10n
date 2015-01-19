@@ -17,9 +17,9 @@
 <!-- LOCALIZATION NOTE (support.pre): Include a trailing space as needed. -->
 <!-- LOCALIZATION NOTE (support.link): Avoid leading/trailing spaces, this text is a link. -->
 <!-- LOCALIZATION NOTE (support.post): Include a starting space as needed. -->
-<!ENTITY support.pre3              "Vitja">
-<!ENTITY support.link2             "brukarnettstaden vår">
-<!ENTITY support.post3             " for å få svar på vanlege spørsmål.">
+<!ENTITY support.pre2              "Du kan òg vitja">
+<!ENTITY support.link              "&brandShortName; Brukarstøtter">
+<!ENTITY support.post2             " for meir informasjon.">
 
 <!ENTITY happy.header              "Det er bra å høyra!">
 
@@ -35,14 +35,13 @@
 <!ENTITY happy.maybeLater2         "Kanskje seinare">
 <!ENTITY happy.noThanks            "Nei takk">
 
-<!ENTITY sad.header                "Å, nei!">
 <!ENTITY sad.message               "Me er leie oss for at du hadde problem med &brandShortName;. Fortel oss kva som hende so me kan retta det.">
 <!ENTITY sad.placeholder           "Skriv inn tilbakemeldinga di her">
-<!ENTITY sad.lastSite2             "Ta med info om siste vitja nettstad">
+<!ENTITY sad.lastSite              "Siste vitja side valfritt)">
 
 <!-- LOCALIZATION NOTE (sad.urlPlaceholder): Placeholder text that appears in "Last visited site" input box when there is no text. -->
 <!ENTITY sad.urlPlaceholder        "http://">
-<!ENTITY sad.thanksHeader2         "Takk skal du ha.">
+<!ENTITY sad.thanksHeader          "Takk for at me fekk vita det.">
 
 <!-- LOCALIZATION NOTE (sad.thanksMessageTop): "real people" — We're stating that an actual human will look at the feedback
      and that it doesn't just go to some automated system that looks for keywords, or something like that. -->
@@ -53,5 +52,5 @@
      work in your language, you can change it to something like "no matter what" or just remove it entirely. -->
 <!ENTITY sad.thanksMessageBottom   "">
 
-<!ENTITY feedback.privacy2         "Av omsyn til eige personvern, bør du ikkje taka med personleg informasjon i tilbakemeldinga.">
+<!ENTITY feedback.privacy          "For eige personvern, i tilbakemeldinga, ikkje inkluder informasjon om deg sjølv som kan identifiserast.">
 <!ENTITY feedback.send             "Send tilbakemelding">
