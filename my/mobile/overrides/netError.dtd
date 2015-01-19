@@ -48,20 +48,25 @@
 <!ENTITY netInterrupt.longDesc2 "&sharedLongDesc3;">
 
 <!ENTITY notCached.title "ဆွဲယူရန် ရက်လွန်စာရွက်စာတမ်း">
-<!ENTITY notCached.longDesc "<p>တောင်းဆိုထားသောဒေါ့ကုမန့်သည် &brandShortName;၏ခေတ္တသိမ်းမှတ်ဉာဏ်ထဲတွင်မရှိတော့ပါ</p><ul><li>လုံခြုံရေးကာကွယ်မှူအရ &brandShortName; သည် အချို့သောဒေါ့ကုမန့်များအားသိမ်းထားလေ့မရှိပါ.</li><li>ဝတ်ဆိုဒ်မှပြန်လည်တောင်းဆိုရန်အတွက် နောက်ထပ် ကိုနှိပ်ပါ။</li></ul>">
+<!ENTITY notCached.longDesc "<p>&brandShortName; ထဲရှိ ယာယီမှတ်တမ်းထဲတွင် တောင်းဆိုထားသော စာရွက်စာတမ်းကို မရနိုင်တော့ပါ။</p><ul><li>ကြိုတင်ကာကွယ်မှုအနေဖြင့် &brandShortName; သည် အရေးကြီး စာရွက်စာတမ်းများကို အလိုအလျောက် ပြန်လည်မတောင်းဆိုပါ။</li><li>ဝဘ်ဆိုက်မှ စာရွက်စာတမ်းကို ပြန်လည်တောင်းဆိုရန် ထပ်မံကြိုးစားပါကို နှိပ်ပါ။</li></ul>">
 
 <!ENTITY netOffline.title "ချိတ်ဆက်မဲ့ စနစ်">
 <!-- LOCALIZATION NOTE (netOffline.longDesc3) This string contains markup including widgets enabling wifi connections.
      The text inside the tags should be localized. Do not touch the ids. -->
+<!ENTITY netOffline.longDesc3 "<ul> 
+<li>ထပ်မံကြိုးစားပါ။ &brandShortName; သည် ဆက်သွယ်မှုတစ်ခုကို ပြုလုပ်ပါမည်။ ထို့နောက် ဝဘ်စာမျက်နှာကို ပြန်လည်ဖွင့်ပါမည်။
+<button id='wifi'>ဝိုင်ဖိုင်ကို ဖွင့်ရန်</button> 
+</li> 
+</ul>">
 
-<!ENTITY contentEncodingError.title "အကြောင်းအရာ စာဝှက်ရေးသားမှု အမှား">
+<!ENTITY contentEncodingError.title "အကြောင်းအရာ စာစီစနစ် မှားယွင်းမှု">
 <!ENTITY contentEncodingError.longDesc "<ul> 
-<li>ကျေးဇူးပြုပြီး ဝတ်ဆိုဒ်ပိုင်ရှင်အား ပြသာနာအကြောင်းကြားရန်ဆက်သွယ်ပါ။</li>  
+<li>ကျေးဇူးပြုပြီး ဝဘ်ဆိုဒ်ပိုင်ရှင်အား ဒီပြသာနာကို အကြောင်းကြားရန် ဆက်သွယ်ပါ။</li>  
 </ul>">
 
 <!ENTITY unsafeContentType.title "အန္တရာယ်မကင်းတဲ့ ဖိုင်အမျိုးအစား">
 <!ENTITY unsafeContentType.longDesc "<ul> 
-<li>ကျေးဇူးပြုပြီး ဝတ်ဆိုဒ်ပိုင်ရှင်များအား ပြသာနာအကြောင်းကြားရန်ဆက်သွယ်ပါ။</li> 
+<li>ကျေးဇူးပြုပြီး ဝတ်ဆိုဒ်ပိုင်ရှင်များအား ဒီပြသာနာကို အကြောင်းကြားရန် ဆက်သွယ်ပါ။</li> 
 </ul>">
 
 <!ENTITY netReset.title "ချိတ်ဆက်မှု တုံ့ဆိုင်းသွားတယ်။">
