@@ -11,8 +11,9 @@
 
 
 
+<!ENTITY importButton.label         "İdxal et…">
 
-
+<!ENTITY importButton.accesskey     "a">
 
 
 <!ENTITY saveButton.label           "Dəyişiklikləri saxla">
