@@ -49,7 +49,8 @@
 <!ENTITY hdrViewToolbarAlwaysReplySender.label "&quot;Antworten&quot; immer anzeigen">
 <!ENTITY hdrViewToolbarAlwaysReplySender.accesskey "A">
 
-<!ENTITY otherActionsButton1.label "Andere Aktionen">
+<!ENTITY otherActionsButton2.label "Mehr">
+<!ENTITY otherActionsButton.tooltip "Weitere Aktionen">
 <!ENTITY otherActionsOpenConversation1.label "In Themenbaum anzeigen">
 <!ENTITY otherActionsOpenConversation1.accesskey "b">
 <!ENTITY otherActionsOpenInNewWindow1.label "In neuem Fenster öffnen">

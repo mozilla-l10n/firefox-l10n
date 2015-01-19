@@ -3,9 +3,5 @@
    - You can obtain one at http://mozilla.org/MPL/2.0/.  -->
 <!ENTITY fileExceedsQuota.title   "Hightail">
 <!ENTITY fileExceedsQuota.storageLimitReached   "Speicherbegrenzung erreicht">
-<!ENTITY fileExceedsQuota.accept "Upgrade">
-<!ENTITY fileExceedsQuota.cancel "Abbrechen">
 <!ENTITY fileExceedsQuota.description  "Sie haben die Speicherbegrenzung ihres Kontos von 2 GB erreicht.">
 <!ENTITY fileExceedsQuota.description1 "Ihre aktuelle Speichernutzung liegt bei #XXX GB.">
-<!ENTITY fileExceedsQuota.description2 "Führen Sie ein Upgrade auf ein Pro-Plus-Konto durch, um weiteren Speicherplatz zu erhalten.">
-<!ENTITY fileExceedsQuota.description3 "Sie können auch Dateien in Ihrem Konto löschen, um Speicherplatz wieder freizugeben.">
