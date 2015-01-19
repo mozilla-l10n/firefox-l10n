@@ -111,6 +111,8 @@
   -  the button that toggles the panes visible or hidden in the netmonitor UI. -->
 <!-- LOCALIZATION NOTE (debuggerUI.summary.url): This is the label displayed
   -  in the network details headers tab identifying the URL. -->
+
+<!ENTITY netmonitorUI.summary.url         "ඉල්ලුම් URL:">
 <!-- LOCALIZATION NOTE (debuggerUI.summary.method): This is the label displayed
   -  in the network details headers tab identifying the method. -->
 <!-- LOCALIZATION NOTE (debuggerUI.summary.status): This is the label displayed
