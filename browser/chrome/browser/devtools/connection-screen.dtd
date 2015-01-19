@@ -23,6 +23,8 @@
 <!-- LOCALIZATION NOTE (remoteHelp, remoteDocumentation, remoteHelpSuffix):
 these strings will be concatenated in a single label, remoteDocumentation will
 be used as text for a link to MDN. -->
+
+<!ENTITY remoteHelp "Firefox සංවර්ධක මෙවලම් හට දුරස්ථ උපාංගයන් දෝශ හරණය කළ හැක (උදාහරණයක් ලෙස Android සඳහා Firefox හා Firefox OS) දුරස්ථ උපාංගයේ 'දුරස්ථ දෝශ හරණය' සක්‍රීය කර ඇතිදැයි තහවුරු කරගන්න. තවත් විස්තර සඳහා බලන්න  ">
 <!ENTITY remoteDocumentation "ලේඛණ">
 <!ENTITY remoteHelpSuffix ".">
 

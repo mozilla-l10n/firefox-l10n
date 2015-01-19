@@ -42,10 +42,16 @@
 <!ENTITY profilerUI.clearButton "හිස් කරන්න">
 <!-- LOCALIZATION NOTE (profilerUI.invertTree): This is the label shown next to
   -  a checkbox that inverts and un-inverts the profiler's call tree. -->
+
+<!ENTITY profilerUI.invertTree "යටිකුරු ඇමතුම් ගස">
 <!-- LOCALIZATION NOTE (profilerUI.invertTree.tooltiptext): This is the tooltip
   -  for the tree-inverting checkbox's label.  -->
+
+<!ENTITY profilerUI.invertTree.tooltiptext "ඇමතුම් ගස යටිකුරු කිරීමෙන් ඇමතුම් මං ලාබාලම රාමුවල සිට පැරණි රාමු වලට විහිදෙන ලෙස පැතිකඩ වේ.">
 <!-- LOCALIZATION NOTE (profilerUI.table.*): These strings are displayed
   -  in the call tree headers for a recording. -->
+
+<!ENTITY profilerUI.table.totalDuration   "මුළු කාලය (ms)">
 <!ENTITY profilerUI.table.selfDuration    "මුළු කාලය (ms)">
 <!ENTITY profilerUI.table.totalPercentage "මුළු වියදම">
 <!ENTITY profilerUI.table.selfPercentage  "ස්වයං වියදම">

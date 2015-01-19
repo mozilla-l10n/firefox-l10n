@@ -81,11 +81,11 @@
 <!ENTITY projects.saveManifest "සුරකින්න">
 <!ENTITY projects.saveManifestTooltip "පහත දර්ශක සැකසීමේ අන්තර්ගතයන් සුරකින්න">
 <!ENTITY projects.hostedManifestPlaceHolder2 "http://example.com/app/manifest.webapp">
-
+<!ENTITY projects.noProjects "කිසිඳු ව්‍යාපෘතියක් නොමැත. පැකේජකල නව යෙදුමක් (දේශීය නාමාවලිය) හෝ රැඳවූ යෙදුමක් (දර්ශක ගොනුවට සබැඳි) එක් එක්කරන්න ">
 <!ENTITY projects.manifestEditor "දර්ශක සැකසීම">
 <!ENTITY projects.manifestEditorTooltip "පහත පුවරුවේ ඔබේ යෙදුමේ දර්ශකය සකසන්න. යාවත් බොත්තම ඔබේ යෙදුමේ වෙනස්කම් හා යාවත් සුරකියි.">
-
-
+<!ENTITY projects.manifestViewer "දර්ශක දර්ශනය">
+<!ENTITY projects.manifestViewerTooltip "පහත පුවරුවෙන් ඔබේ යෙදුමේ දර්ශක අධ්‍යයනය කරන්න">
 <!ENTITY projects.valid "නිවැරදි">
 <!ENTITY projects.error "දෝෂය">
 <!ENTITY projects.warning "අනතුරු ඇඟවීම">
@@ -94,10 +94,10 @@
 
 <!ENTITY help.title "යෙදුම් කළමණාකරු">
 <!ENTITY help.close "වසන්න">
-
+<!ENTITY help.intro "මෙම මෙවලම ඔබට ගැලපෙන උපාංග සඳහා ජාල යෙදුම් නිර්මාණය කර ස්ථාපනයට ඉඩදෙයි (උදා Firefox OS). <strong>යෙදුම්</strong> ටැබය ඔබට ඔබේ යෙදුමේ සත්‍යාපන හා ස්ථාපන ක්‍රියාවලියන්ට සහය දේ. <strong>උපාංග</strong> ටැබය ඔබට සබඳකළ උපාංගය පිළිබඳ තොරතුරු ලබාදේ. පහත මෙවලම්තීරුව උපාංගයට හෝ සමාකෘතිය අරඹයි.">
 <!ENTITY help.usefullLinks "ප්‍රයෝජනවත් සැබැඳි:">
 <!ENTITY help.appMgrDoc "ලේඛන: යෙදුම් කළමණාකරු භාවිතය">
 <!ENTITY help.configuringDevice "ඔබේ Firefox OS උපාංගය සකසන්නේ කෙසේද?">
 <!ENTITY help.troubleShooting "දෝශ නිරාකරණය">
-
-
+<!ENTITY help.simulatorAddon "සමාකෘතික ඇඩෝනය ස්ථාපනය">
+<!ENTITY help.adbHelperAddon "Adb සහායක ඇඩෝනය ස්ථාපනය">
