@@ -99,6 +99,8 @@
 <!-- Localization note (overlay_share_bookmark_btn_label) : This string is
      used in the share overlay menu to select an action. It is the verb
      "to bookmark", not the noun "a bookmark". -->
+
+<!ENTITY overlay_share_bookmark_btn_label "Əlfəcin">
 <!ENTITY overlay_share_reading_list_btn_label "Oxunacaqlar siyahısına əlavə et">
 <!ENTITY overlay_share_bookmark_btn_label_already "Artıq əlfəcinlərdədir">
 <!ENTITY overlay_share_reading_list_btn_label_already "Artıq oxunacaqlar siyahısındadır">
@@ -113,12 +115,13 @@
 <!ENTITY overlay_share_retry "Yeniden dene">
 <!ENTITY overlay_share_select_device "Cihaz seçin">
 
+<!ENTITY pref_category_search3 "Axtar">
 <!ENTITY pref_category_search_summary "Axtarış provayderinizi xüsusiləşdirin">
 <!ENTITY pref_category_display "Görünüş">
 <!ENTITY pref_category_display_summary "Mətn, başlıq sətri, tam ekranda səyahət">
 <!ENTITY pref_category_privacy_short "Məxfilik">
 <!ENTITY pref_category_privacy_summary "Şifrələri, çərəzləri, izləməni, məlumatları idarə et">
-
+<!ENTITY pref_category_vendor "&vendorShortName;">
 
 
 <!ENTITY pref_learn_more "Ətraflı öyrən">
