@@ -37,9 +37,11 @@
 
 
 
+#define bookmarks_aboutBrowser မီးမြေခွေး။ သင့်ဘရောက်ဇာအကြောင်း
+
+
 
 # LOCALIZATION NOTE (bookmarks_addons):
-
 
 
 
@@ -47,11 +49,11 @@
 
 
 
+#define bookmarks_addons မီးမြေခွေး။ ထပ်ဆောင်းပရိုဂရမ်များကို စိတ်ကြိုက်ပြုလုပ်ပါ
+
 
 
 # LOCALIZATION NOTE (bookmarks_support):
-
-
 
 
 
@@ -59,6 +61,7 @@
 
 
 
+#define bookmarks_support မီးမြေခွေး။ အထောက်အပံ့
 
 
 
@@ -66,14 +69,11 @@
 
 
 
-
-
-
 # link title for https://marketplace.firefox.com
 
 
 
-
+#define bookmarks_marketplace မီးမြေခွေး စျေးကွက်
 
 
 

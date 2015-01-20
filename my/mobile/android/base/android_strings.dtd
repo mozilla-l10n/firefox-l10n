@@ -135,14 +135,16 @@
      search providers.
      The &formatI; in the string will be replaced by a small image of the icon described, and can be moved to wherever
      it is applicable. -->
+<!ENTITY pref_search_hint "TIP: မည်သည့် ဝတ်ဆိုဒ်ကို မဆိုသင်၏ ရှာဖွေမှုဝန်ဆောင်သူအဖြစ် သုံးရန် ရှာဖွေဖောင်အား လက်ဖြင့်ကြာကြာဖိကာ &formatI; အိုင်ကွန်ကို နှိပ်ပါ။">
+<!ENTITY pref_category_devtools "ကျွမ်းကျင်သူသုံး ကိရိယာ">
+<!ENTITY pref_category_devtools_summary "အဝေးထိန်း စစ်ဆေးခြင်း ၊ အရောင်ဖြင့်ပြပေးခြင်း">
+<!ENTITY pref_developer_paint_flashing "အရောင်ဖြင့် ပြပေးခြင်း">
+<!ENTITY pref_developer_remotedebugging "အဝေးထိန်း စစ်ဆေးခြင်း">
+<!ENTITY pref_remember_signons "စကားဝှက်ကိုမှတ်ထားမည်။">
 
-
-
-
-
-
-
-
+<!ENTITY pref_category_home "ပင်မ">
+<!ENTITY pref_category_home_summary "သင်၏ပင်မမျက်နှာစာကို ပြင်ပါ">
+<!ENTITY pref_category_home_panels "အကွက်များ">
 
 
 <!-- Localization note (home_add_panel_installed):

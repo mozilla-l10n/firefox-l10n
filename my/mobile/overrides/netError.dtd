@@ -69,11 +69,11 @@
 <li>ကျေးဇူးပြုပြီး ဝတ်ဆိုဒ်ပိုင်ရှင်များအား ဒီပြသာနာကို အကြောင်းကြားရန် ဆက်သွယ်ပါ။</li> 
 </ul>">
 
-<!ENTITY netReset.title "ချိတ်ဆက်မှု တုံ့ဆိုင်းသွားတယ်။">
+<!ENTITY netReset.title "ဆက်သွယ်မှုကို ပြန်လည်သတ်မှတ်သည်">
+<!ENTITY netReset.longDesc2 "&sharedLongDesc3;">
 
-
-<!ENTITY netTimeout.title "ချိတ်ဆက်မှု အချိန်ကုန်သွားတယ်။">
-
+<!ENTITY netTimeout.title "ဆက်သွယ်မှုကို သတ်မှတ်ချိန်အတွင်း မပြုလုပ်နိုင်ပါ">
+<!ENTITY netTimeout.longDesc2 "&sharedLongDesc3;">
 
 <!ENTITY unknownProtocolFound.title "အမည်မသိ နည်းလမ်း">
 <!ENTITY unknownProtocolFound.longDesc "<ul> 
