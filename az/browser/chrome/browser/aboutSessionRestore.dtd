@@ -14,7 +14,7 @@
 
 <!ENTITY restorepage.tryagainButton "Bərpa et">
 <!ENTITY restorepage.restore.access "B">
-<!ENTITY restorepage.closeButton    "Bağla">
+<!ENTITY restorepage.closeButton    "Qapat">
 <!ENTITY restorepage.close.access   "B">
 
 <!ENTITY restorepage.restoreHeader  "Bərpa et">

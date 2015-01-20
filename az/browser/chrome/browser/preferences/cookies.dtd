@@ -22,7 +22,7 @@
 <!ENTITY     props.expires.label            "Sona çatma tarixi:">
 
 <!ENTITY     window.title                   "Çərəzlər">
-<!ENTITY     windowClose.key                "ü">
+<!ENTITY     windowClose.key                "w">
 <!ENTITY     focusSearch1.key               "f">
 <!ENTITY     focusSearch2.key               "k">
 

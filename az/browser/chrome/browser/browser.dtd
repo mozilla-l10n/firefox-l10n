@@ -26,8 +26,8 @@
 <!-- LOCALIZATION NOTE (closeTabsToTheEnd.label): This should indicate the
 direction in which tabs are closed, i.e. locales that use RTL mode should say
 left instead of right. -->
-<!ENTITY  closeTabsToTheEnd.label            "Vərəqləri Sağa Bağla">
-<!ENTITY  closeTabsToTheEnd.accesskey        "a">
+<!ENTITY  closeTabsToTheEnd.label            "Sağdakı vərəqləri qapat">
+<!ENTITY  closeTabsToTheEnd.accesskey        "i">
 <!ENTITY  closeOtherTabs.label               "Digər Vərəqləri Bağla">
 <!ENTITY  closeOtherTabs.accesskey           "B">
 <!-- LOCALIZATION NOTE (pinTab.label, unpinTab.label): "Pin" is being
@@ -47,7 +47,7 @@ can reach it easily. -->
 <!ENTITY  moveToNewWindow.accesskey          "p">
 <!ENTITY  bookmarkAllTabs.label              "Bütün Vərəqləri Əlfəcinlə…">
 <!ENTITY  bookmarkAllTabs.accesskey          "V">
-<!ENTITY  undoCloseTab.label                 "Bağlanan vərəqləri geri al">
+<!ENTITY  undoCloseTab.label                 "Qapatılan vərəqləri geri al">
 <!ENTITY  undoCloseTab.accesskey             "g">
 <!ENTITY  closeTab.label                     "Vərəqi Qapat">
 <!ENTITY  closeTab.accesskey                 "Q">
@@ -86,7 +86,7 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY toolbarContextMenu.reloadAllTabs.accesskey "B">
 <!ENTITY toolbarContextMenu.bookmarkAllTabs.label "Bütün Vərəqləri Əlfəcinlə…">
 <!ENTITY toolbarContextMenu.bookmarkAllTabs.accesskey "V">
-<!ENTITY toolbarContextMenu.undoCloseTab.label "Bağlanan vərəqləri geri al">
+<!ENTITY toolbarContextMenu.undoCloseTab.label "Qapanmış vərəqləri geri al">
 <!ENTITY toolbarContextMenu.undoCloseTab.accesskey "g">
 
 <!ENTITY pageSourceCmd.label "Səhifə qaynağı">
@@ -275,7 +275,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY browserContentToolboxMenu.label     "Səyyah Məzmun Qutusu">
 
-<!ENTITY devToolbarCloseButton.tooltiptext "İnkişaf etdirici alət sətrini bağla">
+<!ENTITY devToolbarCloseButton.tooltiptext "Tərtibatçı alət panelini qapa">
 <!ENTITY devToolbarMenu.label              "Programçı Paneli">
 <!ENTITY devToolbarMenu.accesskey          "P">
 <!ENTITY devAppMgrMenu.label               "Proqram İdarəçisi">
@@ -349,9 +349,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY historyMenu.label "Tarixçə">
 <!ENTITY historyMenu.accesskey "r">
-<!ENTITY historyUndoMenu.label "Yeni bağlanmış vərəqlər">
+<!ENTITY historyUndoMenu.label "Yeni qapanmış vərəqlər">
 <!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
-<!ENTITY historyUndoWindowMenu.label "Yeni bağlanmış pəncərələr">
+<!ENTITY historyUndoWindowMenu.label "Yeni qapanmış pəncərələr">
 <!ENTITY historyRestoreLastSession.label "Əvvəlki Seansı Bərpa et">
 
 <!ENTITY showAllHistoryCmd2.label "Bütün Tarixçəni Göstər">
@@ -521,7 +521,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY copyVideoURLCmd.accesskey    "V">
 <!ENTITY copyAudioURLCmd.label        "Səsin ünvanını kopyala">
 <!ENTITY copyAudioURLCmd.accesskey    "S">
-<!ENTITY copyEmailCmd.label           "E-posçt ünvanını kopyala">
+<!ENTITY copyEmailCmd.label           "E-poçt ünvanını köçür">
 <!ENTITY copyEmailCmd.accesskey       "E">
 <!ENTITY thisFrameMenu.label              "Bu Çərçivə">
 <!ENTITY thisFrameMenu.accesskey          "u">
@@ -601,7 +601,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fullZoom.label                 "Yaxınlaşdırma">
 <!ENTITY fullZoom.accesskey             "Y">
 
-<!ENTITY sidebarCloseButton.tooltip     "Yan paneli qapat">
+<!ENTITY sidebarCloseButton.tooltip     "Yan paneli qapa">
 
 <!ENTITY quitApplicationCmdWin.label       "Çıxış"> 
 <!ENTITY quitApplicationCmdWin.accesskey   "ı">
@@ -615,7 +615,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY quitApplicationCmdUnix.key     "Q">
 
 <!ENTITY closeCmd.label                 "Qapat">  
-<!ENTITY closeCmd.key                   "Ü">  
+<!ENTITY closeCmd.key                   "W">  
 <!ENTITY closeCmd.accesskey             "Q">
 
 <!ENTITY pageStyleMenu.label "Səhifə Stili">
@@ -822,7 +822,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY panicButton.view.mainActionDesc          "Əməliyyatın edəcəyi:">
 <!ENTITY panicButton.view.deleteCookies           "Son <html:strong>Çərəzləri</html:strong> Silmə">
 <!ENTITY panicButton.view.deleteHistory           "Son <html:strong>Tarixçəni</html:strong> Silmə">
-<!ENTITY panicButton.view.deleteTabsAndWindows    "Bütün <html:strong>Səhifə</html:strong> və <html:strong>Pəncərələri</html:strong> Bağlama">
+<!ENTITY panicButton.view.deleteTabsAndWindows    "Bütün <html:strong>Səhifə</html:strong> və <html:strong>Pəncərələri</html:strong> Qapat">
 <!ENTITY panicButton.view.openNewWindow           "Yeni təmiz Pəncərə aç">
 
 <!ENTITY panicButton.view.undoWarning             "Bu əməliyyat geri qaytrıla bilməz.">
