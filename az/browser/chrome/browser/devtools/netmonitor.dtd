@@ -97,6 +97,8 @@
   -  in the network details headers tab identifying the method. -->
 <!-- LOCALIZATION NOTE (debuggerUI.summary.status): This is the label displayed
   -  in the network details headers tab identifying the status code. -->
+
+<!ENTITY netmonitorUI.summary.status      "Status kodu:">
 <!-- LOCALIZATION NOTE (debuggerUI.summary.version): This is the label displayed
   -  in the network details headers tab identifying the http version. -->
 
@@ -193,6 +195,8 @@
 <!-- LOCALIZATION NOTE (netmonitorUI.context.newTab):  This is the label
   -  for the Open in New Tab menu item displayed in the context menu of the
   -  network container  -->
+
+<!ENTITY netmonitorUI.context.newTab      "Yeni vərəqdə aç">
 <!-- LOCALIZATION NOTE (netmonitorUI.context.newTab.accesskey): This is the access key
   -  for the Open in New Tab menu item displayed in the context menu of the
   -  network container -->
@@ -212,3 +216,5 @@
 <!ENTITY netmonitorUI.custom.cancel       "ləğv et">
 <!-- LOCALIZATION NOTE (debuggerUI.backButton): This is the label displayed
   -  on the button which exists the performance statistics view -->
+
+<!ENTITY netmonitorUI.backButton          "Geri">
