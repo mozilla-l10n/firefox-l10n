@@ -24,8 +24,8 @@
 <!ENTITY aboutNetworking.received              "Diterima">
 <!ENTITY aboutNetworking.family                "Keluarga">
 <!ENTITY aboutNetworking.addresses             "Alamat">
-<!ENTITY aboutNetworking.expires               "Kedaluwarsa (Detik)">
-<!ENTITY aboutNetworking.messagesSent          "Pesan Dikirim">
+<!ENTITY aboutNetworking.expires               "Hangus (Detik)">
+<!ENTITY aboutNetworking.messagesSent          "Pesan Terkirim">
 <!ENTITY aboutNetworking.messagesReceived      "Pesan Diterima">
 <!ENTITY aboutNetworking.bytesSent             "Byte Dikirim">
 <!ENTITY aboutNetworking.bytesReceived         "Byte Diterima">
