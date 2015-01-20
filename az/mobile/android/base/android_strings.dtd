@@ -205,34 +205,37 @@ size. -->
 <!ENTITY pref_search_suggestions "Axtarış təkliflərini göstər">
 <!ENTITY pref_import_android "Android-dən daxil et">
 <!ENTITY pref_import_android_summary "Əlfəcinləri və tarixçəni əsas səyyahdan daxil et">
-
-
+<!ENTITY pref_private_data_history2 "Səyahət tarixçəsi">
+<!ENTITY pref_private_data_formdata "Forma və axtarış tarixçəsi">
 
 
 
 <!ENTITY pref_private_data_offlineApps "Offline sayt məlumatları">
+<!ENTITY pref_private_data_siteSettings2 "Sayt tənzimləmələri">
+<!ENTITY pref_private_data_downloadFiles2 "Endirilənlər">
 
 
+<!ENTITY pref_about_firefox "&brandShortName; haqqında">
+<!ENTITY pref_vendor_faqs "FAQ">
 
 
-<!ENTITY pref_about_firefox "&brandShortName; &amp;haqqında">
+<!ENTITY pref_dialog_set_default "Ön qurğulu olaraq seç">
+<!ENTITY pref_dialog_default "İlkin hal">
 
 
-
-<!ENTITY pref_dialog_default "Standart">
-
-
+<!ENTITY pref_search_last_toast "Sonuncu axtarış mühərrikinizi silə və ya passivləşdirə bilməzsiniz.">
 
 <!ENTITY pref_panels_show "Göstər">
+<!ENTITY pref_panels_hide "Gizlət">
+<!ENTITY pref_panels_reorder "Sıranı dəyiş">
+<!ENTITY pref_panels_move_up "Yuxarı daşı">
+<!ENTITY pref_panels_move_down "Aşağı daşı">
 
-
-
-
-
-
-
-
-
+<!ENTITY datareporting_notification_title "&brandShortName; statistikalar və məlumatlar">
+<!ENTITY datareporting_notification_action_long "Hansı məlumatların paylaşılacağını seçin">
+<!ENTITY datareporting_notification_action "Nəyi paylaşacağınızı seçin">
+<!ENTITY datareporting_notification_summary "Sizin təcrübənizi artırmaq üçün &brandShortName; bəzi məlumatları avtomatik olaraq &vendorShortName;-a göndərir">
+<!ENTITY datareporting_notification_summary_short "Təcrübənizi artırmaq üçün &brandShortName;...">
 
 <!-- Localization note (datareporting_fhr_title, datareporting_fhr_summary2,
      reporting_telemetry_title, datareporting_telemetry_summary,
@@ -241,7 +244,9 @@ size. -->
      healthReportDesc.label, telemetrySection.label, telemetryDesc.label,
      crashReporterDesc.label). -->
 
+<!ENTITY datareporting_fhr_title "&brandShortName; Sağlamlıq Hesabatı">
 
+<!ENTITY datareporting_abouthr_title "Mənim sağlamlıq hesabatımı göstər">
 
 
 
