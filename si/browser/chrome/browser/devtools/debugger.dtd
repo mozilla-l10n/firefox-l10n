@@ -26,6 +26,8 @@
 <!ENTITY debuggerUI.blackBoxMessage.unBlackBoxButton "මෙම මූල කේතය කාලවර්ණ මංජුසාකරණයෙන් වලක්වන්න">
 <!-- LOCALIZATION NOTE (debuggerUI.optsButton.tooltip): This is the tooltip for
   -  the button that opens up an options context menu for the debugger UI. -->
+
+<!ENTITY debuggerUI.optsButton.tooltip  "නිදොස්කරන විකල්ප">
 <!-- LOCALIZATION NOTE (debuggerUI.sources.blackBoxTooltip): This is the tooltip
   -  for the button that black boxes the selected source. -->
 <!-- LOCALIZATION NOTE (debuggerUI.sources.prettyPrint): This is the tooltip for the
@@ -35,14 +37,20 @@
 
 <!-- LOCALIZATION NOTE (debuggerUI.sources.toggleBreakpoints): This is the tooltip for the
   -  button that toggles all breakpoints for all sources. -->
+
+<!ENTITY debuggerUI.sources.toggleBreakpoints "සියලුම බිදුම් ඉමි සක්‍රිය/අක්‍රිය කරන්න.">
 <!-- LOCALIZATION NOTE (debuggerUI.startTracing): This is the text displayed in
   - the button to start execution tracing. -->
+
+<!ENTITY debuggerUI.startTracing "අනුරේඛනය අරඹන්න">
 <!-- LOCALIZATION NOTE (debuggerUI.clearButton): This is the label for
   -  the button that clears the collected tracing data in the tracing tab. -->
 
 <!ENTITY debuggerUI.clearButton "හිස් කරන්න">
 <!-- LOCALIZATION NOTE (debuggerUI.clearButton.tooltip): This is the tooltip for
   -  the button that clears the collected tracing data in the tracing tab. -->
+
+<!ENTITY debuggerUI.clearButton.tooltip "එකතුකරන ලද අනුරේඛන හිස්කරන්න.">
 <!-- LOCALIZATION NOTE (debuggerUI.pauseExceptions): This is the label for the
   -  checkbox that toggles pausing on exceptions. -->
 
@@ -86,6 +94,8 @@
 <!-- LOCALIZATION NOTE (debuggerUI.searchFunction): This is the text that appears
   -  in the source editor's context menu for the function search operation. -->
 
+<!ENTITY debuggerUI.searchFunction           "කාර්ය නිර්වචනය සදහා සොයන්න">
+
 
 <!-- LOCALIZATION NOTE (debuggerUI.searchToken): This is the text that appears
   -  in the source editor's context menu for the token search operation. -->
@@ -101,6 +111,8 @@
 <!ENTITY debuggerUI.searchGoToLine.accesskey "L">
 <!-- LOCALIZATION NOTE (debuggerUI.searchVariable): This is the text that appears
   -  in the source editor's context menu for the variables search operation. -->
+
+<!ENTITY debuggerUI.searchVariable           "විචල්‍ය පෙරහන">
 <!ENTITY debuggerUI.searchVariable.key       "V">
 <!ENTITY debuggerUI.searchVariable.accesskey "V">
 <!-- LOCALIZATION NOTE (debuggerUI.focusVariables): This is the text that appears
@@ -115,23 +127,29 @@
 <!-- LOCALIZATION NOTE (debuggerUI.seMenuCondBreak): This is the text that
   -  appears in the source editor context menu for adding a conditional
   -  breakpoint. -->
+
+<!ENTITY debuggerUI.seMenuCondBreak     "කොන්දේසිගත බිදුම්ඉම එක්කරන්න ">
 <!ENTITY debuggerUI.seMenuCondBreak.key "B">
 <!-- LOCALIZATION NOTE (debuggerUI.tabs.*): This is the text that
   -  appears in the debugger's side pane tabs. -->
 
 <!ENTITY debuggerUI.tabs.sources        "මූල">
+<!ENTITY debuggerUI.tabs.traces         "අනුරේඛන">
 
-
-<!ENTITY debuggerUI.tabs.variables      "විචල්‍ය">
+<!ENTITY debuggerUI.tabs.variables      "විචල්‍යයන්">
 <!ENTITY debuggerUI.tabs.events         "සිදුවීම්">
 <!-- LOCALIZATION NOTE (debuggerUI.seMenuAddWatch): This is the text that
   -  appears in the source editor context menu for adding an expression. -->
 
+<!ENTITY debuggerUI.seMenuAddWatch      "ප්‍රකාශ නැරඹීමට තෝරාගැනීම">
+<!ENTITY debuggerUI.seMenuAddWatch.key  "ප්‍රකාශ නැරඹීමක් එක්කරන්න">
 <!-- LOCALIZATION NOTE (debuggerUI.addWatch): This is the text that
   -  appears in the watch expressions context menu for adding an expression. -->
 
 <!-- LOCALIZATION NOTE (debuggerUI.removeWatch): This is the text that
   -  appears in the watch expressions context menu for removing all expressions. -->
+
+<!ENTITY debuggerUI.removeAllWatch           "සියලුම ප්‍රකාශ නැරඹීම් ඉවත්කරන්න">
 <!ENTITY debuggerUI.removeAllWatch.key       "E">
 <!ENTITY debuggerUI.removeAllWatch.accesskey "E">
 <!-- LOCALIZATION NOTE (debuggerUI.stepping): These are the keycodes that
