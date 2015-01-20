@@ -26,7 +26,7 @@
 <!ENTITY device.allow "İcazə ver">
 <!ENTITY device.allowTooltip "Bu icazə bu növdə olan tətbiqetmələrə verilir">
 <!ENTITY device.prompt "Klient">
-<!ENTITY device.promptTooltip "Bu icazə, bu cür tətbiqetmələrin istifadəçiyə soruşmasını tələb edir.">
+<!ENTITY device.promptTooltip "Bu icazə bu cür tətbiqlərin istifadəçiyə soruşmasını tələb edir">
 <!ENTITY device.deny "Rədd et">
 <!ENTITY device.denyTooltip "Bu icazə bu növdə olan tətbiqetmələr üçün qadağandır">
 <!ENTITY device.installedApps "Quraşdırılmış Tətbiqlər">
@@ -40,7 +40,7 @@
 <!ENTITY device.debugBrowserTabTooltip "Cihazdakı bu səyyah vərəqinə bağlı Tərtibatçı Alətlərini aç">
 <!ENTITY device.help "Kömək">
 
-<!ENTITY connection.connectTooltip "Avadanlığa bağlan">
+<!ENTITY connection.connectTooltip "Cihaza qoşul">
 <!ENTITY connection.disconnect "Bağlantını kəs">
 
 
@@ -51,15 +51,15 @@
 <!ENTITY connection.startSimulator "Simulyatoru başlat">
 
 <!ENTITY connection.saveConnectionInfo "Yadda saxla">
-
+<!ENTITY connection.saveConnectionInfoTooltip "Host və portu yadda saxla">
 <!ENTITY connection.connecting "Bağlanır…">
 <!ENTITY connection.disconnecting "Bağlantı kəsilir…">
 <!ENTITY connection.cancel "ləğv et">
-
+<!ENTITY connection.cancelConnectTooltip "Davam edən bağlantını ləğv et">
 
 
 <!ENTITY connection.noSimulatorInstalled "Quraşdırılmış simulyator yoxdur.">
-
+<!ENTITY connection.installOneSimulator "Simulyator Quraşdır">
 
 <!ENTITY connection.installAnotherSimulator "Əlavə et">
 
