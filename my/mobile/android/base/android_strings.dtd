@@ -151,11 +151,11 @@
      The &formatS; will be replaced with the name of the new panel the user just
      selected to be added to the home page. -->
 <!ENTITY home_add_panel_installed "\u0027&formatS;\u0027 အားပင်မစာမျက်နှာသို့ထည့်ပြီး">
-
-
-
-
-
+<!ENTITY pref_category_home_content_settings "အပြင်အဆင်">
+<!ENTITY pref_home_updates "အလိုအလျောက် အဆင့်မြှင့်တင်မှုမှတ်တမ်း">
+<!ENTITY pref_home_updates_enabled "ဖွင့်ထားတယ်">
+<!ENTITY pref_home_updates_wifi "Wi-Fi ဖြင့်သာ">
+<!ENTITY pref_home_suggested_sites "ရည်ညွှန်းထားသော ဝတ်ဆိုဒ်များအားပြပါ">
 
 <!-- Localization note: These are shown in the left sidebar on tablets -->
 
