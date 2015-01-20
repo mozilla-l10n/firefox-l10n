@@ -35,10 +35,11 @@
 <!ENTITY  exit_label "Çıxış">
 
 <!ENTITY  launcher_shortcuts_title "&brandShortName; Web tətbiqlər">
-
+<!ENTITY  launcher_shortcuts_empty "Heç bir Web tətbiq tapılmadı">
 
 <!ENTITY choose_file "Fayl Seç">
 
+<!ENTITY url_bar_default_text2 "Ünvanı daxil et və ya axtar">
 
 <!ENTITY bookmark "Əlfəcin">
 <!ENTITY bookmark_added "Əlfəcin əlavə olundu">
@@ -59,13 +60,14 @@
 <!ENTITY back "Geri qayıt">
 <!ENTITY stop "Dayandır">
 <!ENTITY site_security "Sayt Təhlükəsizliyi">
-
+<!ENTITY edit_mode_cancel "Ləğv et">
 
 <!ENTITY close_tab "vərəqi bağla">
-
+<!ENTITY one_tab "1 vərəq">
 <!-- Localization note (num_tabs2) : Number of tabs is always more than one.
      We can't use android plural forms, sadly. See bug #753859. -->
-
+<!ENTITY num_tabs2 "&formatD; vərəqlər">
+<!ENTITY new_tab_opened "Yeni vərəq açıldı">
 <!ENTITY new_private_tab_opened "Yeni məxfi vərəq açıldı">
 <!-- Localization note (switch_button_message): This string should be as short
      as possible because it's shown as a label in a toast.  Ideally, this string
@@ -74,44 +76,52 @@
 
 <!ENTITY settings "Seçimlər">
 <!ENTITY settings_title "Seçimlər">
-
-
-
+<!ENTITY pref_category_advanced "Mütərəqqi">
+<!ENTITY pref_category_customize "Fərdiləşdir">
+<!ENTITY pref_category_customize_summary "Ev, axtar, vərəqlər, daxil et">
 <!-- Localization note (pref_category_language) : This is the preferences
      section in which the user picks the locale in which to display Firefox
      UI. The locale includes both language and region concepts. -->
 
-
+<!ENTITY pref_category_language "Dil">
+<!ENTITY pref_category_language_summary "Səyyahınızın dilini dəyişin">
+<!ENTITY pref_browser_locale "Səyyahın dili">
 <!-- Localization note (locale_system_default) : This string indicates that
      Firefox will use the locale currently selected in Android's settings
      to display browser chrome. -->
+
+<!ENTITY locale_system_default "Əvvəlcədən qurulmuş">
 <!-- Localization note (overlay_share_label) : This is the label that appears
      in Android's intent chooser when sending a link to Firefox to bookmark,
      send to another device, or add to Reading List. -->
+
+<!ENTITY overlay_share_label "Əlavə et: &brandShortName;">
 <!-- Localization note (overlay_share_bookmark_btn_label) : This string is
      used in the share overlay menu to select an action. It is the verb
      "to bookmark", not the noun "a bookmark". -->
-
-
-
-
+<!ENTITY overlay_share_reading_list_btn_label "Oxunacaqlar siyahısına əlavə et">
+<!ENTITY overlay_share_bookmark_btn_label_already "Artıq əlfəcinlərdədir">
+<!ENTITY overlay_share_reading_list_btn_label_already "Artıq oxunacaqlar siyahısındadır">
+<!ENTITY overlay_share_send_other "Başqa cihazlara göndər">
 <!-- Localization note (overlay_share_send_tab_btn_label) : Used on the
      share overlay menu to represent the "Send Tab" action when the user
      either has not set up Sync, or has no other devices to send a tab
      to. -->
 
+<!ENTITY overlay_share_send_tab_btn_label "Başqa cihaza göndər">
+<!ENTITY overlay_share_no_url "Bu paylaşımda link tapılmadı">
 <!ENTITY overlay_share_retry "Yeniden dene">
+<!ENTITY overlay_share_select_device "Cihaz seçin">
+
+<!ENTITY pref_category_search_summary "Axtarış provayderinizi xüsusiləşdirin">
+<!ENTITY pref_category_display "Görünüş">
+<!ENTITY pref_category_display_summary "Mətn, başlıq sətri, tam ekranda səyahət">
+<!ENTITY pref_category_privacy_short "Məxfilik">
+<!ENTITY pref_category_privacy_summary "Şifrələri, çərəzləri, izləməni, məlumatları idarə et">
 
 
 
-
-
-
-
-
-
-
-
+<!ENTITY pref_learn_more "Ətraflı öyrən">
 
 
 
@@ -139,7 +149,7 @@
 <!ENTITY pref_home_updates "Avtomatik yeniləmə">
 
 
-
+<!ENTITY pref_home_suggested_sites "Sayt təkliflərini göstər">
 
 <!-- Localization note: These are shown in the left sidebar on tablets -->
 
@@ -161,13 +171,13 @@
 
 
 
-
-
-
-
+<!ENTITY pref_clear_private_data_category "Şəxsi məlumatları təmizlə">
+<!ENTITY pref_clear_on_exit_title2 "Çıxarkən təmizlə">
+<!ENTITY pref_clear_on_exit_summary2 "Əsas menyudan \u0022Çıx\u0022 seçdiyiniz zaman &brandShortName; sizin məlumatlarınız avtomatik təmizləyəcək">
+<!ENTITY pref_clear_on_exit_dialog_title "Hansı məlumatın təmizlənəcəyini seçin">
 <!ENTITY pref_plugins "Əlavə proqramlar">
 
-
+<!ENTITY pref_plugins_tap_to_play "Oxutmaq üçün ekrana toxunun">
 
 
 
