@@ -178,12 +178,12 @@
 <!ENTITY pref_plugins "Əlavə proqramlar">
 
 <!ENTITY pref_plugins_tap_to_play "Oxutmaq üçün ekrana toxunun">
+<!ENTITY pref_plugins_disabled "Söndürülüb">
+<!ENTITY pref_text_size "Mətn ölçüsü">
+<!ENTITY pref_reflow_on_zoom4 "Mətn axını">
 
-
-
-
-
-
+<!ENTITY pref_restore_always "Həmişə bərpa et">
+<!ENTITY pref_restore_quit "&brandShortName; səyyahından çıxdıqdan sonra bərpa etmə">
 
 
 
@@ -200,11 +200,11 @@ size. -->
 
 
 
-<!ENTITY pref_sync "Eşitle">
-
-
-
-
+<!ENTITY pref_sync "Sync">
+<!ENTITY pref_sync_summary "Vərəqlərinizi, əlfəcinlərinizi, şifrələrinizi, tarixçənizi sinxronlaşdırın">
+<!ENTITY pref_search_suggestions "Axtarış təkliflərini göstər">
+<!ENTITY pref_import_android "Android-dən daxil et">
+<!ENTITY pref_import_android_summary "Əlfəcinləri və tarixçəni əsas səyyahdan daxil et">
 
 
 
