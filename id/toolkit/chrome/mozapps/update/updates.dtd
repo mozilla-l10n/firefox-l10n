@@ -49,8 +49,8 @@ di bawah ini untuk melanjutkan pemasangan versi baru ini.">
 <!ENTITY  downloading.intro               "Mengunduh versi baru…">
 <!ENTITY  connecting.label                "Menghubungi server pemutakhiran…">
 <!ENTITY  verificationFailedText.label    "&brandShortName; tidak dapat memverifikasi integritas dari 
-pemutakhiran bertahap yang diunduh, sebab itu &brandShortName; sekarang mengunduh 
-paket pemutakhiran yang lengkap.">
+pemutakhiran bertahap yang diunduh, sebab itu paket pemutakhiran 
+lengkap kini sedang diunduh.">
 
 <!ENTITY  viewDetails.tooltip             "Tampilkan detail pemutakhiran ini">
 
