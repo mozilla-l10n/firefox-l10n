@@ -145,11 +145,12 @@
 <!ENTITY pref_category_home "ပင်မ">
 <!ENTITY pref_category_home_summary "သင်၏ပင်မမျက်နှာစာကို ပြင်ပါ">
 <!ENTITY pref_category_home_panels "အကွက်များ">
-
-
+<!ENTITY home_add_panel_title "အကွက်တစ်ခုထပ်ထည့်ပါ">
+<!ENTITY home_add_panel_empty "တောင်းပန်ပါတယ်။ သင့်အတွက် ထပ်ထည့်ဖို့ အကွက် ရှာမတွေ့ပါ">
 <!-- Localization note (home_add_panel_installed):
      The &formatS; will be replaced with the name of the new panel the user just
      selected to be added to the home page. -->
+<!ENTITY home_add_panel_installed "\u0027&formatS;\u0027 အားပင်မစာမျက်နှာသို့ထည့်ပြီး">
 
 
 
