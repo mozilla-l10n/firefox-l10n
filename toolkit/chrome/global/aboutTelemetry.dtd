@@ -40,4 +40,4 @@
 
 <!ENTITY aboutTelemetry.hideSymbols "  Tampilkan data mentah dari proses yang macet">
 
-<!ENTITY aboutTelemetry.filterText " Filter (string atau /ekspresi reguler/)">
+<!ENTITY aboutTelemetry.filterText "   Filter (string atau /ekspresi reguler/)">
