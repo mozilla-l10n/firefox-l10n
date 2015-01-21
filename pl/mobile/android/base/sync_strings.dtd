@@ -193,7 +193,7 @@ etc).  The account remains a "Firefox" account. -->
 
 <!ENTITY fxaccount_finish_migrating_header "Zaloguj się, aby dokończyć aktualizację">
 <!ENTITY fxaccount_finish_migrating_button_label "Dokończ aktualizację">
-<!ENTITY fxaccount_finish_migrating_description "Akutalizacja może spowodować przesłanie dużej ilości danych. Najlepiej zrobić to poprzez sieć Wi-FI.">
+<!ENTITY fxaccount_finish_migrating_description "Akutalizacja może spowodować przesłanie dużej ilości danych. Najlepiej zrobić to poprzez sieć Wi-Fi.">
 
 <!ENTITY fxaccount_status_header2 'Konto Firefox'>
 <!ENTITY fxaccount_status_signed_in_as 'Zalogowano jako'>
