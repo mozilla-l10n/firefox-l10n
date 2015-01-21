@@ -11,8 +11,6 @@
 <!ENTITY profilerUI.importButton "Importuj…">
 <!ENTITY profilerUI.exportButton "Zapisz">
 <!ENTITY profilerUI.clearButton "Wyczyść">
-<!ENTITY profilerUI.invertTree "Odwrócone drzewo wywołań">
-<!ENTITY profilerUI.invertTree.tooltiptext "Odwrócone drzewo wywołań wyświetla zarejestrowane ścieżki wywołań rozwijające się od najmłodszych ramek ku najstarszym.">
 <!ENTITY profilerUI.table.totalDuration "Całkowity czas (ms)">
 <!ENTITY profilerUI.table.selfDuration "Własny czas (ms)">
 <!ENTITY profilerUI.table.totalPercentage "Całkowity koszt">
@@ -20,3 +18,6 @@
 <!ENTITY profilerUI.table.samples "Próbki">
 <!ENTITY profilerUI.table.function "Funkcja">
 <!ENTITY profilerUI.newtab.tooltiptext "Dodaj nową kartę z zaznaczeniem">
+<!ENTITY profilerUI.options.tooltiptext "Skonfiguruj ustawienia wydajności">
+<!ENTITY profilerUI.invertTree "Odwrócone drzewo wywołań">
+<!ENTITY profilerUI.invertTree.tooltiptext "Odwrócone drzewo wywołań wyświetla zarejestrowane ścieżki wywołań rozwijające się od najmłodszych ramek ku najstarszym.">
