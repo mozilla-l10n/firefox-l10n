@@ -7,6 +7,9 @@
 <!ENTITY webAudioEditorUI.emptyNotice "Oczekiwanie a utworzenie kontekstu audio…">
 
 <!ENTITY webAudioEditorUI.tab.properties "Parametry">
+<!ENTITY webAudioEditorUI.tab.automation "Automatyzacja">
 <!ENTITY webAudioEditorUI.inspectorTitle "Inspektor AudioNode">
 <!ENTITY webAudioEditorUI.inspectorEmpty "Brak zaznaczonych węzłów AudioNode.">
 <!ENTITY webAudioEditorUI.propertiesEmpty "Węzeł nie posiada żadnych właściwości.">
+<!ENTITY webAudioEditorUI.automationEmpty "Węzeł nie posiada żadnych AudioParams.">
+<!ENTITY webAudioEditorUI.automationNoEvents "AudioParam nie posiada żadnych zdarzeń automatyzacji.">
