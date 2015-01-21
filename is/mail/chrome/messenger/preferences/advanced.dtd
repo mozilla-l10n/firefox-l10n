@@ -14,6 +14,8 @@
 <!ENTITY telemetryInfoLink.label "Meiri upplýsingar um fjarmælingu">
 <!ENTITY enableGlodaSearch.label "Virkja víðtæka leit og atriðaskrá">
 <!ENTITY enableGlodaSearch.accesskey "i">
+<!ENTITY allowHWAccel.label "Nota vélbúnaðarhröðun ef mögulegt">
+<!ENTITY allowHWAccel.accesskey "h">
 <!ENTITY scrolling.label "Skrun">
 <!ENTITY useAutoScroll.label "Nota sjálfvirka skrunun">
 <!ENTITY useAutoScroll.accesskey "u">

@@ -12,6 +12,9 @@
 <!ENTITY pref.dateformat.accesskey "D">
 <!ENTITY pref.dateformat.long "Langt">
 <!ENTITY pref.dateformat.short "Stutt">
+<!ENTITY pref.timezones.caption "Tímabelti">
+<!ENTITY pref.timezones.label "Veldu þá borg sem er nálægust þínu tímabelti:">
+<!ENTITY pref.timezones.accesskey "S">
 <!ENTITY pref.defaults.label "Sjálfgefin gildi fyrir nýja hluti">
 <!ENTITY pref.events.label "Atburðir">
 <!ENTITY pref.tasks.label "Verkefni">

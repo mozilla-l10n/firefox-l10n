@@ -3,13 +3,17 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY offlineDialog.title "Stillingar fyrir ónettengdur">
-<!ENTITY textStartUp "Í ræsingu:">
+<!ENTITY checkAutoDetect.label "Fylgja sjálfvirkt eftir netstöðu">
+<!ENTITY checkAutoDetect.accesskey "ð">
+<!ENTITY titleStartUp "Handvirk staða þegar ræst er upp:">
 <!ENTITY radioRememberPrevState.label "Muna síðustu nettengistöðu">
 <!ENTITY radioRememberPrevState.accesskey "M">
-<!ENTITY radioAskMe.label "Spyrja í ræsingu um tengistöðu">
-<!ENTITY radioAskMe.accesskey "u">
+<!ENTITY radioAskState.label "Spyrja mig um stöðu">
+<!ENTITY radioAskState.accesskey "S">
 <!ENTITY radioAlwaysOnline.label "Alltaf ræsa sem tengdur">
 <!ENTITY radioAlwaysOnline.accesskey "l">
+<!ENTITY radioAlwaysOffline.label "Ónettengdur">
+<!ENTITY radioAlwaysOffline.accesskey "n">
 <!ENTITY textGoingOnline "Senda ósendan póst þegar verið er að tengjast?">
 <!ENTITY radioAutoSend.label "Já">
 <!ENTITY radioAutoSend.accesskey "J">

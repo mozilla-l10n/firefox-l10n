@@ -3,7 +3,6 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY connectionsDialog.title "Net stillingar">
-<!ENTITY window.width "43em">
 <!ENTITY proxyTitle.label "Stilla milliþjóna (Proxy) til að tengjast netinu">
 <!ENTITY noProxyTypeRadio.label "Enginn milliþjónn">
 <!ENTITY noProxyTypeRadio.accesskey "E">
@@ -30,7 +29,7 @@
 <!ENTITY HTTPport.label "Gátt:">
 <!ENTITY HTTPport.accesskey "G">
 <!ENTITY SSLport.label "Gátt:">
-<!ENTITY SSLport.accesskey "">
+<!ENTITY SSLport.accesskey "t">
 <!ENTITY SOCKSport.label "Gátt:">
 <!ENTITY SOCKSport.accesskey "t">
 <!ENTITY noproxy.label "Engir milliþjónar fyrir:">
