@@ -10,7 +10,7 @@
 <!ENTITY  overridePageColors.accesskey    "o">
 
 <!ENTITY  overridePageColors.always.label "Alltaf">
-<!ENTITY  overridePageColors.auto.label   "Aðeins með þema sem eru litsterkt">
+<!ENTITY  overridePageColors.auto.label   "Aðeins með þema sem eru litsterk">
 <!ENTITY  overridePageColors.never.label  "Aldrei">
 
 <!ENTITY  color                           "Texti og Bakgrunnur">
