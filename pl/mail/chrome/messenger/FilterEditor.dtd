@@ -26,6 +26,8 @@
 <!ENTITY contextOutgoing.accesskey "w">
 <!ENTITY contextManual.label         "ręcznego uruchamiania">
 <!ENTITY contextManual.accesskey "r">
+<!ENTITY contextArchive.label "Archiwizowania">
+<!ENTITY contextArchive.accesskey "c">
 
 <!ENTITY filterActionDesc.label      "…i wykonuj następujące czynności:">
 <!ENTITY filterActionDesc.accesskey  "k">
