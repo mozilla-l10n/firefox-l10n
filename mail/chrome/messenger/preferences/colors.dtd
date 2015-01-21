@@ -6,11 +6,11 @@
 <!ENTITY  window.width                    "46em">
 <!ENTITY  window.macWidth                 "41em">
 
-<!ENTITY  overridePageColors.label        "De kleuren opgegeven door de inhoud overschrijven met mijn selecties hierboven:">
-<!ENTITY  overridePageColors.accesskey    "k">
+<!ENTITY  overridePageColors.label        "De door de inhoud opgegeven kleuren overschrijven met mijn selecties hierboven:">
+<!ENTITY  overridePageColors.accesskey    "D">
 
 <!ENTITY  overridePageColors.always.label "Altijd">
-<!ENTITY  overridePageColors.auto.label   "Alleen bij thema's met hoog contrast">
+<!ENTITY  overridePageColors.auto.label   "Alleen bij thema’s met hoog contrast">
 <!ENTITY  overridePageColors.never.label  "Nooit">
 
 <!ENTITY  color                           "Tekst en achtergrond">
@@ -22,7 +22,7 @@
 <!ENTITY  useSystemColors.accesskey       "S">
 
 <!ENTITY  underlineLinks.label            "Koppelingen onderstrepen">
-<!ENTITY  underlineLinks.accesskey        "o">
+<!ENTITY  underlineLinks.accesskey        "K">
 <!ENTITY  links                           "Koppelingskleuren">
 <!ENTITY  linkColor.label                 "Niet-bezochte koppelingen:">
 <!ENTITY  linkColor.accesskey             "N">

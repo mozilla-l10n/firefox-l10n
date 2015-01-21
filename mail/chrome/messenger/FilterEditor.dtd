@@ -23,7 +23,7 @@
 <!ENTITY contextManual.accesskey "H">
 <!ENTITY contextBeforeCls.label "Filteren voor ongewensteberichtenclassificatie">
 <!ENTITY contextAfterCls.label "Filteren na ongewensteberichtenclassificatie">
-<!ENTITY contextOutgoing.label "Na versturen">
+<!ENTITY contextOutgoing.label "Na verzenden">
 <!ENTITY contextOutgoing.accesskey "N">
 
 <!ENTITY filterActionDesc.label "Deze acties uitvoeren:">

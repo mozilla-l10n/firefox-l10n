@@ -16,7 +16,7 @@
 <!ENTITY enableGlodaSearch.label       "Globaal zoeken en indexer activeren">
 <!ENTITY enableGlodaSearch.accesskey   "G">
 <!ENTITY allowHWAccel.label            "Hardwareversnelling gebruiken wanneer beschikbaar">
-<!ENTITY allowHWAccel.accesskey        "H">
+<!ENTITY allowHWAccel.accesskey        "v">
 
 <!ENTITY scrolling.label               "Scrollen">
 <!ENTITY useAutoScroll.label           "Automatisch scrollen gebruiken">
