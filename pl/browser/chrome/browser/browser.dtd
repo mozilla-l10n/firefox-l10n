@@ -761,3 +761,12 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY panicButton.thankyou.msg1 "Historia ostatniego przeglądania została wyczyszczona.">
 <!ENTITY panicButton.thankyou.msg2 "Bezpiecznego przeglądania!">
 <!ENTITY panicButton.thankyou.buttonlabel "Dzięki!">
+
+<!ENTITY processHang.terminateScript.label "Zatrzymaj skrypt">
+<!ENTITY processHang.terminateScript.accessKey "Z">
+<!ENTITY processHang.debugScript.label "Debuguj Skrypt">
+<!ENTITY processHang.debugScript.accessKey "D">
+<!ENTITY processHang.terminatePlugin.label "Zabij wtyczkę">
+<!ENTITY processHang.terminatePlugin.accessKey "w">
+<!ENTITY processHang.terminateProcess.label "Zabij proces">
+<!ENTITY processHang.terminateProcess.accessKey "s">
