@@ -11,8 +11,6 @@
 <!ENTITY profilerUI.importButton "Importa…">
 <!ENTITY profilerUI.exportButton "Salva">
 <!ENTITY profilerUI.clearButton "Cancella">
-<!ENTITY profilerUI.invertTree "Inverti albero chiamate">
-<!ENTITY profilerUI.invertTree.tooltiptext "Invertendo la visualizzazione dell’albero verranno mostrate prima le chiamate dai riquadri (frame) più recenti.">
 <!ENTITY profilerUI.table.totalDuration "Tempo totale (ms)">
 <!ENTITY profilerUI.table.selfDuration "Tempo individuale (ms)">
 <!ENTITY profilerUI.table.totalPercentage "Costo totale">
@@ -20,3 +18,6 @@
 <!ENTITY profilerUI.table.samples "Campioni">
 <!ENTITY profilerUI.table.function "Funzione">
 <!ENTITY profilerUI.newtab.tooltiptext "Aggiungi nuova scheda dalla selezione">
+<!ENTITY profilerUI.options.tooltiptext "Configura preferenze prestazioni.">
+<!ENTITY profilerUI.invertTree "Inverti albero chiamate">
+<!ENTITY profilerUI.invertTree.tooltiptext "Invertendo la visualizzazione dell’albero verranno mostrate prima le chiamate dai riquadri (frame) più recenti.">
