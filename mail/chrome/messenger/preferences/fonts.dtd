@@ -3,9 +3,6 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY fontsAndEncodingsDialog.title "Leturgerð og stafatöflur">
-<!ENTITY window.width "45em">
-<!ENTITY window.macWidth "43em">
-<!ENTITY window.unixWidth "41em">
 <!ENTITY language.label "Letur fyrir:">
 <!ENTITY language.accesskey "t">
 <!ENTITY size.label "Stærð:">

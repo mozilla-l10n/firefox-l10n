@@ -5,8 +5,11 @@
 <!ENTITY colorsDialog.title "Litir">
 <!ENTITY window.width "38em">
 <!ENTITY window.macWidth "41em">
-<!ENTITY allowPagesToUse.label "Leyfa innihaldi að velja sína eigin liti, í staðinn fyrir valið hér fyrir neðan">
-<!ENTITY allowPagesToUse.accesskey "a">
+<!ENTITY overridePageColors.label "Hunsa liti sem eru skilgreindir fyrir innihald og nota mína eigin líti hér fyrir ofan:">
+<!ENTITY overridePageColors.accesskey "o">
+<!ENTITY overridePageColors.always.label "Alltaf">
+<!ENTITY overridePageColors.auto.label "Aðeins með þemu sem eru litsterk">
+<!ENTITY overridePageColors.never.label "Aldrei">
 <!ENTITY color "Texti og Bakgrunnur">
 <!ENTITY textColor.label "Texti:">
 <!ENTITY textColor.accesskey "t">
