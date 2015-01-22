@@ -156,17 +156,19 @@
 <!ENTITY pref_home_updates_enabled "ဖွင့်ထားတယ်">
 <!ENTITY pref_home_updates_wifi "Wi-Fi ဖြင့်သာ">
 <!ENTITY pref_home_suggested_sites "ရည်ညွှန်းထားသော ဝတ်ဆိုဒ်များအားပြပါ">
-
+<!ENTITY pref_home_suggested_sites_summary "သင်စိတ်ဝင်စားနိုင်ခြေ ရှိသော ဝတ်ဆိုဒ်များသို့ အမြန်သွားလင်ခ့်များ ပင်မစာမျက်နှာတွင် ပြထားမည်။">
 <!-- Localization note: These are shown in the left sidebar on tablets -->
 
-
-
-
-
-
+<!ENTITY pref_header_customize "ပြုပြင်မည်">
+<!ENTITY pref_header_display "မြင်ကွင်း">
+<!ENTITY pref_header_privacy_short "ကိုယ်ရေးကိုယ်တာ">
+<!ENTITY pref_header_help "အကူအညီ">
+<!ENTITY pref_header_language "ဘာသာစကား">
+<!ENTITY pref_header_vendor "&vendorShortName;">
+<!ENTITY pref_header_devtools "ကျွမ်းကျင်သူသုံး ကိရိယာ">
 
 <!ENTITY pref_cookies_menu "ကွတ်ကီးများ">
-
+<!ENTITY pref_cookies_accept_all "ဖွင့်ထားတယ်">
 
 
 
