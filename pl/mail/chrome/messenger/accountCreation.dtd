@@ -14,7 +14,7 @@
 <!ENTITY password.accesskey         "H">
 <!ENTITY password.placeholder       "Hasło">
 <!ENTITY password.text              "Opcjonalnie, zostanie użyte wyłącznie do sprawdzenia nazwy użytkownika">
-<!ENTITY rememberPassword.label     "Zapamiętaj hasło">
+<!ENTITY rememberPassword.label "Zachowaj hasło">
 <!ENTITY rememberPassword.accesskey "Z">
 
 <!ENTITY imapLong.label     "IMAP (zdalne foldery)">

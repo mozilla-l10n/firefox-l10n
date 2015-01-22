@@ -15,7 +15,7 @@
 <!ENTITY accountPasswordTitle.label "Hasło">
 <!ENTITY accountPasswordInfo.label "Wprowadź hasło w polu tesktowym poniżej.">
 <!ENTITY accountPasswordField.label "Hasło:">
-<!ENTITY accountPasswordManager.label "Podane hasło zostanie zapamiętane w Menedżerze haseł. Pozostaw pole wprowadzania hasła puste, aby podawać hasło przy każdej próbie logowania.">
+<!ENTITY accountPasswordManager.label "Podane hasło zostanie zachowane w Menedżerze haseł. Pozostaw pole wprowadzania hasła puste, aby podawać hasło przy każdej próbie logowania.">
 
 <!ENTITY accountAdvancedTitle.label "Zaawansowane">
 <!ENTITY accountAdvancedInfo.label "Ta część może zostać pominięta.">

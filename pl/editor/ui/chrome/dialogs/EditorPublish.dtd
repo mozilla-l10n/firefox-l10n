@@ -60,6 +60,6 @@
 <!ENTITY password.label         "Hasło:">
 <!ENTITY password.tooltip       "Hasło dostępu do serwera stron WWW bieżącego użytkownika">
 <!ENTITY password.accesskey     "H">
-<!ENTITY savePassword.label     "Zapisz hasło">
-<!ENTITY savePassword.tooltip   "Po zaznaczeniu tej opcji wprowadzone hasło zostanie zapamiętane w Menedżerze haseł">
+<!ENTITY savePassword.label "Zachowaj hasło">
+<!ENTITY savePassword.tooltip "Po zaznaczeniu tej opcji wprowadzone hasło zostanie zachowane w Menedżerze haseł">
 <!ENTITY savePassword.accesskey "s">

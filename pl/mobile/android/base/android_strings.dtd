@@ -213,7 +213,7 @@ size. -->
 <!ENTITY pref_private_data_history2 "Historia przeglądania">
 <!ENTITY pref_private_data_formdata "Historia wyszukiwania i formularzy">
 <!ENTITY pref_private_data_cookies2 "Ciasteczka i aktywne zalogowania">
-<!ENTITY pref_private_data_passwords "Zapamiętane hasła">
+<!ENTITY pref_private_data_passwords "Zachowane hasła">
 <!ENTITY pref_private_data_cache "Pamięć podręczna">
 <!ENTITY pref_private_data_offlineApps "Dane witryny w trybie offline">
 <!ENTITY pref_private_data_siteSettings2 "Ustawienia witryny">
@@ -487,7 +487,7 @@ it is applicable. -->
 <!ENTITY guest_session_dialog_continue "Kontynuuj">
 <!ENTITY guest_session_dialog_cancel "Anuluj">
 <!ENTITY new_guest_session_title "Program &brandShortName; zostanie uruchomiony ponownie">
-<!ENTITY new_guest_session_text "Osoba korzystająca z przeglądarki nie będzie widziała Twoich prywatnych informacji (takich, jak zapisane hasła, historia przeglądania czy zakładki). Kiedy gość skończy korzystać z przeglądarki, dane o sesji zostaną usunięte, a Twoja sesja zostanie przywrócona.">
+<!ENTITY new_guest_session_text "Osoba korzystająca z przeglądarki nie będzie widziała Twoich prywatnych informacji (takich, jak zachowane hasła, historia przeglądania czy zakładki). Kiedy gość skończy korzystać z przeglądarki, dane o sesji zostaną usunięte, a Twoja sesja zostanie przywrócona.">
 <!ENTITY guest_browsing_notification_title "Włączono tryb gościnny">
 <!ENTITY guest_browsing_notification_text "Stuknij, żeby wyjść">
 

@@ -32,13 +32,13 @@
 <!ENTITY useDownloadedList.accesskey       "e">
 
 <!-- Passwords -->
-<!ENTITY savedPasswords.intro           "&brandShortName; może zapamiętać hasła dla wszystkich kont użytkownika.">
+<!ENTITY savedPasswords.intro "&brandShortName; może zachować hasła dla wszystkich kont użytkownika.">
 <!ENTITY useMasterPassword.label        "Używaj hasła głównego">
 <!ENTITY useMasterPassword.accesskey    "U">
 <!ENTITY masterPassword.intro           "Hasło główne chroni wszystkie hasła użytkownika ale musi być ono wprowadzane jednorazowo dla każdej sesji.">
 <!ENTITY changeMasterPassword.label     "Zmień hasło główne…">
 <!ENTITY changeMasterPassword.accesskey "h">
-<!ENTITY savedPasswords.label           "Zapisane hasła…">
+<!ENTITY savedPasswords.label "Zachowane hasła…">
 <!ENTITY savedPasswords.accesskey       "Z">
 
 <!-- Anti Virus -->
