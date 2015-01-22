@@ -7,9 +7,9 @@
 <!ENTITY  error_loading_file "เกิดข้อผิดพลาดระหว่างการโหลดแฟ้มที่จำเป็นในการทำงานของ &brandShortName;">
 
 <!ENTITY  onboard_start_message "ยินดีต้อนรับสู่ &brandShortName;!">
-
+<!ENTITY  onboard_start_subtext "สร้างมาเพื่อคุณ, ความเป็นส่วนตัวของคุณ และระบบเว็บแบบเปิด">
 <!ENTITY  onboard_start_button_account "ลงชื่อเข้าใช้เพื่อใช้งาน &brandShortName;">
-
+<!ENTITY  onboard_start_button_browser "เริ่มต้นเข้าเว็บกันเลย">
 <!-- Localization note: These are used as the titles of different pages on the home screen.
      They are automatically converted to all caps by the Android platform. -->
 
@@ -39,6 +39,7 @@
 
 <!ENTITY choose_file "เลือกแฟ้ม">
 
+<!ENTITY url_bar_default_text2 "ค้นหาหรือป้อนที่อยู่">
 
 <!ENTITY bookmark_added "เพิ่มที่คั่นหน้าแล้ว">
 <!ENTITY bookmark_removed "ลบที่คั่นหน้าแล้ว">
@@ -96,18 +97,20 @@
      "to bookmark", not the noun "a bookmark". -->
 <!ENTITY overlay_share_reading_list_btn_label "เพิ่งเข้ารายการอ่าน">
 <!ENTITY overlay_share_bookmark_btn_label_already "คั่นหน้าอยู่ก่อนแล้ว">
-
-
+<!ENTITY overlay_share_reading_list_btn_label_already "อยู่ใน Reading List แล้ว">
+<!ENTITY overlay_share_send_other "ส่งไปยังอุปกรณ์อื่น">
 <!-- Localization note (overlay_share_send_tab_btn_label) : Used on the
      share overlay menu to represent the "Send Tab" action when the user
      either has not set up Sync, or has no other devices to send a tab
      to. -->
 
-<!ENTITY overlay_share_retry "ลองใหม่">
+<!ENTITY overlay_share_send_tab_btn_label "ส่งไปยังอุปกรณ์อื่น">
 
+<!ENTITY overlay_share_retry "ลองใหม่">
+<!ENTITY overlay_share_select_device "เลือกอุปกรณ์">
 
 <!ENTITY pref_category_search3 "ค้นหา">
-
+<!ENTITY pref_category_search_summary "ปรับแต่งผู้จัดการค้นหาของคุณ">
 <!ENTITY pref_category_display "การแสดงผล">
 
 <!ENTITY pref_category_privacy_short "ความเป็นส่วนตัว">
@@ -140,7 +143,7 @@
 <!-- Localization note (home_add_panel_installed):
      The &formatS; will be replaced with the name of the new panel the user just
      selected to be added to the home page. -->
-
+<!ENTITY pref_category_home_content_settings "ตั้งค่าเนื้อหา">
 <!ENTITY pref_home_updates "การปรับรุ่นอัตโนมัติ">
 
 
@@ -160,6 +163,8 @@
 <!ENTITY pref_cookies_accept_all "เปิดใช้อยู่">
 <!ENTITY pref_cookies_not_accept_foreign "เปิดใช้งาน ยกเว้นจากเว็บที่ไม่ได้กำลังเปิด">
 <!ENTITY pref_cookies_disabled "ปิดใช้งาน">
+
+<!ENTITY pref_tracking_protection_title "ป้องกันการติดตาม">
 
 <!ENTITY pref_donottrack_title "ไม่ต้องติดตามการเชื่อมต่อ">
 <!ENTITY pref_donottrack_summary "&brandShortName; จะบอกไซต์ที่คุณไม่ต้องการถูกติดตาม">
@@ -229,9 +234,9 @@ size. -->
 
 <!ENTITY pref_panels_show "แสดง">
 <!ENTITY pref_panels_hide "ซ่อน">
-
-
-
+<!ENTITY pref_panels_reorder "เปลี่ยนลำดับ">
+<!ENTITY pref_panels_move_up "ย้ายขึ้น">
+<!ENTITY pref_panels_move_down "ย้ายลง">
 
 <!ENTITY datareporting_notification_action_long "เลือกข้อมูลใดบ้างที่จะแบ่งปัน">
 <!ENTITY datareporting_notification_action "เลือกสิ่งที่จะแบ่งปัน">
@@ -376,7 +381,7 @@ size. -->
 
 <!ENTITY home_title "หน้าหลัก &brandShortName;">
 <!ENTITY home_history_title "ประวัติ">
-
+<!ENTITY home_clear_history_button "ล้างประวัติการเข้าเว็บ">
 <!ENTITY home_clear_history_confirm "คุณแน่ใจหรือไม่ว่าคุณต้องการล้างประวัติการเข้าชม?">
 <!ENTITY home_bookmarks_empty "ที่คั่นหน้าที่บันทึกไว้จะแสดงที่นี่">
 <!ENTITY home_closed_tabs_title "แท็บที่เพิ่งปิด">
@@ -405,11 +410,15 @@ size. -->
 <!ENTITY home_remote_tabs_need_to_sign_in "กรุณาลงชื่อเข้าใช้เพื่อเชื่อมต่อบัญชี Firefox อีกครั้งและทำการซิงค์ต่อไป">
 
 
+<!ENTITY home_remote_tabs_trouble_verifying "มีปัญหาเกี่ยวกับการยืนยันบัญชีของคุณ?">
+<!ENTITY home_remote_tabs_need_to_verify "โปรดยืนยันบัญชี Firefox ก่อนเริ่มต้นการซิงค์">
 
+<!ENTITY home_remote_tabs_one_hidden_device "ซ่อน 1 อุปกรณ์">
 <!-- Localization note (home_remote_tabs_many_hidden_devices) : The
      formatD is replaced with the number of hidden devices.  The
      number of hidden devices is always more than one.  We can't use
      Android plural forms, sadly. See Bug #753859. -->
+<!ENTITY home_remote_tabs_many_hidden_devices "ซ่อน &formatD; อุปกรณ์">
 <!-- Localization note (home_remote_tabs_hidden_devices_title) : This is the
      title of a dialog; we expect more than one device. -->
 <!ENTITY home_remote_tabs_hidden_devices_title "อุปกรณ์ที่ถูกซ่อน">
@@ -418,7 +427,7 @@ size. -->
 <!ENTITY home_remote_tabs_unhide_selected_devices "เลิกซ่อนอุปกรณ์ที่เลือก">
 
 <!ENTITY private_browsing_title "การดูเว็บแบบส่วนตัว">
-
+<!ENTITY private_tabs_panel_empty_desc "แท็บแบบส่วนตัวจะแสดงที่นี่ แม้ว่าเราจะไม่เก็บประวัติการเข้าชมหรือคุกกี้ แต่ตัวคั่นหน้าและไฟล์ที่คุณดาวน์โหลดจะยังถูกบันทึกไว้บนอุปกรณ์นี้">
 <!ENTITY private_tabs_panel_learn_more "ต้องการเรียนรู้เพิ่มเติมไหม?">
 
 
@@ -454,7 +463,9 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY blocked_mixed_content_message_bottom "เว็บไซต์ส่วนใหญ่ยังสามารถทำงานได้ถูกต้องแม้เนื้อหานี้จะถูกปิดกั้น">
 <!-- Tracking content notifications in site identity popup -->
 
-
+<!ENTITY loaded_tracking_content_message_top "การป้องกันการติดตามถูกปิดแล้ว">
+<!ENTITY loaded_tracking_content_message_bottom "มีบางส่วนในหน้านี้อาจติดตามกิจกรรมออนไลน์ของคุณ">
+<!ENTITY blocked_tracking_content_message_top2 "เปิดการป้องกันการติดตามแล้ว">
 
 <!-- Common mixed and tracking content strings in site identity popup -->
 
@@ -496,9 +507,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY updater_apply_title2 "มีการปรับปรุงสำหรับ &brandShortName;">
 <!ENTITY updater_apply_select2 "แตะเพื่อปรับปรุง">
-<!-- New tablet UI -->
-<!-- LOCALIZATION NOTE (new_tablet_restart): Notification displayed after the user toggles the new tablet UI in the settings screen.-->
-
 <!-- Guest mode -->
 
 <!ENTITY new_guest_session "วาระใหม่สำหรับผู้มาเยือน">
@@ -507,7 +515,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY guest_session_dialog_cancel "ยกเลิก">
 <!ENTITY new_guest_session_title "&brandShortName; จะเริ่มทำงานใหม่">
 <!ENTITY new_guest_session_text "ผู้ที่ใช้จะไม่เห็นข้อมูลการท่องเว็บส่วนตัวของคุณ (เช่น รหัสผ่านที่บันทึกไว้, ประวัติการท่องเว็บ หรือที่คั่นหน้า)\n\nเมื่อผู้มาเยือนของคุณใช้งานเสร็จแล้ว ข้อมูลการท่องเว็บของเขาจะถูกลบ และวาระของคุณจะถูกเรียกคืนมา">
-
+<!ENTITY guest_browsing_notification_title "เปิดการเข้าเว็บโหมดแขก">
 <!ENTITY guest_browsing_notification_text "แตะเพื่อออก">
 
 <!ENTITY exit_guest_session_title "&brandShortName; จะเริ่มทำงานใหม่">

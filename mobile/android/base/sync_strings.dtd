@@ -160,6 +160,9 @@
 <!ENTITY fxaccount_confirm_account_verification_link_sent2 "ส่งอีเมลยืนยันแล้ว">
 <!ENTITY fxaccount_confirm_account_verification_link_not_sent2 "ไม่สามารถส่งอีเมลยืนยันได้">
 
+
+
+
 <!ENTITY fxaccount_sign_in_sub_header "เข้าสู่ระบบ">
 <!ENTITY fxaccount_sign_in_button_label "เข้าสู่ระบบ">
 <!ENTITY fxaccount_sign_in_forgot_password "ลืมรหัสผ่าน?">
@@ -169,15 +172,21 @@
 <!ENTITY fxaccount_account_verified_sub_header "ยืนยันบัญชีแล้ว">
 <!ENTITY fxaccount_account_verified_description2 "ข้อมูลของคุณจะเริ่มการผสานในอีกสักครู่">
 
+<!ENTITY fxaccount_migration_finished_header "การอัพเกรดเสร็จสิ้น">
+
 <!ENTITY fxaccount_update_credentials_header "เข้าสู่ระบบ">
 <!ENTITY fxaccount_update_credentials_button_label "เข้าสู่ระบบ">
 <!ENTITY fxaccount_update_credentials_unknown_error "ไม่สามารถเข้าสู่ระบบ">
 
+<!ENTITY fxaccount_finish_migrating_header "ลงชื่อเข้าใช้เพื่อทำการอัพเกรดให้เสร็จ">
+
+
+
 <!ENTITY fxaccount_status_signed_in_as "ลงชื่อเข้าใช้เป็น">
 
 
-
-
+<!ENTITY fxaccount_status_syncing2 "กำลังซิงค์...">
+<!ENTITY fxaccount_status_device_name "ชื่ออุปกรณ์">
 
 <!ENTITY fxaccount_status_sync "&syncBrand.shortName.label;">
 <!ENTITY fxaccount_status_sync_enabled "&syncBrand.shortName.label; : เปิดใช้อยู่">
@@ -186,6 +195,8 @@
 <!ENTITY fxaccount_status_needs_upgrade "คุณจำเป็นต้องปรับรุ่นของ &brandShortName; เพื่อเข้าสู่ระบบ">
 
 
+
+<!ENTITY fxaccount_status_needs_finish_migrating "แตะเพื่อลงชื่อเข้าใช้บัญชี Firefox ใหม่ของคุณ">
 <!ENTITY fxaccount_status_bookmarks "ที่คั่นหน้า">
 <!ENTITY fxaccount_status_history "ประวัติการท่องเว็บ">
 <!ENTITY fxaccount_status_passwords "รหัสผ่าน">
@@ -233,7 +244,10 @@
 <!ENTITY fxaccount_remote_error_UNKNOWN_ERROR "พบปัญหา">
 <!ENTITY fxaccount_remote_error_COULD_NOT_CONNECT "ไม่สามารถเชื่อมต่อกับเครือข่าย">
 
+
 <!ENTITY fxaccount_sync_sign_in_error_notification_title2 "ไม่สามารถเชื่อมต่อกับ &syncBrand.shortName.label; ได้">
 <!-- Localization note: the format string below will be replaced
      with the Firefox Account's email address. -->
-<!ENTITY fxaccount_sync_sign_in_error_notification_text2 "แตะเพื่อเข้าระบบเป็น &formatS;">
+
+<!-- Localization note: the format string below will be replaced
+     with the Firefox Account's email address. -->

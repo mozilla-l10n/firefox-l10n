@@ -4,9 +4,12 @@
 <!--  Localization note (search_bar_hint): The &formatS; will be replaced with the name of
       the currently selected search engine. -->
 
-
+<!ENTITY search_empty_title2 "เริ่มค้นหา">
+<!ENTITY search_empty_message "ค้นหาอย่างรวดเร็วสำหรับสิ่งที่คุณต้องการ">
 <!--  Localization note (search_plus_content_description): This is the content description
       for the "+" icon that appears at the end of search suggestions. -->
+
+<!ENTITY search_plus_content_description "เพิ่มไปยังแถบค้นหา">
 
 
 

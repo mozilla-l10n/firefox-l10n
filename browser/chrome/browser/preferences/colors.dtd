@@ -6,8 +6,11 @@
 <!ENTITY  window.width                    "38em">
 <!ENTITY  window.macWidth                 "41em">
 
-<!ENTITY  allowPagesToUse.label           "อนุญาตให้เอกสารใช้สีของตัวเองได้ แทนที่จะใช้ตามที่เลือกไว้ด้านบน">
-<!ENTITY  allowPagesToUse.accesskey       "อ">
+
+
+<!ENTITY  overridePageColors.always.label "เสมอ">
+
+<!ENTITY  overridePageColors.never.label  "ไม่ต้อง">
 
 <!ENTITY  color                           "ข้อความและพื้นหลัง">
 <!ENTITY  textColor.label                 "ข้อความ :">

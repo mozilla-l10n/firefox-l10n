@@ -95,6 +95,8 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY pageInfoCmd.label "ข้อมูลหน้าเว็บ">
 <!ENTITY pageInfoCmd.accesskey "น">
 <!ENTITY pageInfoCmd.commandkey "i">
+
+
 <!-- LOCALIZATION NOTE (enterFullScreenCmd.label, exitFullScreenCmd.label):
 These should match what Safari and other Apple applications use on OS X Lion. -->
 <!ENTITY enterFullScreenCmd.label "เข้าสู่ภาพเต็มหน้าจอ">
@@ -420,6 +422,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY searchFor.label              "ค้นหา ">
 <!ENTITY searchWith.label             " กับ:">
+<!-- LOCALIZATION NOTE (searchWithHeader.label):
+     The wording of this string should be as close as possible to
+     searchFor.label and searchWith.label. This string will be used instead of
+     them when the user has not typed any keyword. -->
 <!ENTITY changeSearchSettings.button  "เปลี่ยนการตั้งค่าการค้นหา">
 
 <!ENTITY tabView.commandkey           "e">
