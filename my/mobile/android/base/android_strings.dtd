@@ -169,8 +169,8 @@
 
 <!ENTITY pref_cookies_menu "ကွတ်ကီးများ">
 <!ENTITY pref_cookies_accept_all "ဖွင့်ထားတယ်">
-
-
+<!ENTITY pref_cookies_not_accept_foreign "3rd ပါတီ ဆော့ဝဲများပါ ဖွင့်ထားပြီး">
+<!ENTITY pref_cookies_disabled "ပိတ်ထားတယ်">
 
 
 
