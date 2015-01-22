@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <SearchPlugin xmlns="http://www.mozilla.org/2006/browser/search/">
 <ShortName>eBay France</ShortName>
 <Description>eBay - Enchères en ligne</Description>
@@ -8,7 +12,7 @@
    <Param name="q" value="{searchTerms}"/>
 </Url>
 <Url type="text/html" method="GET" template="http://rover.ebay.com/rover/1/709-47295-17703-3/4" resultdomain="ebay.com">
-   <Param name="mpre" value="http://annonces.ebay.fr/allitems?_nkw={searchTerms}"/>
+   <Param name="mpre" value="http://www.ebay.fr/sch/i.html?_nkw={searchTerms}"/>
 </Url>
-<SearchForm>http://search.ebay.fr/</SearchForm>
+<SearchForm>http://www.ebay.fr</SearchForm>
 </SearchPlugin>
