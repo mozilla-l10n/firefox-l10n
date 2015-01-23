@@ -2,15 +2,6 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!-- LOCALIZATION NOTE : FILE This file contains the Network Monitor strings -->
-<!-- LOCALIZATION NOTE : FILE Do not translate commandkey -->
-
-<!-- LOCALIZATION NOTE : FILE The correct localization of this file might be to
-  - keep it in English, or another language commonly spoken among web developers.
-  - You want to make that choice consistent across the developer tools.
-  - A good criteria is the language in which you'd find the best
-  - documentation on web development on the web. -->
-
 <!ENTITY netmonitorUI.perfNotice1 "• Kliknij przycisk">
 <!ENTITY netmonitorUI.perfNotice2 ", aby rozpocząć analizowanie wydajności.">
 <!ENTITY netmonitorUI.reloadNotice1 "• Wyślij żądanie lub ">
@@ -33,6 +24,7 @@
 <!-- LOCALIZATION NOTE (netmonitorUI.toolbar.type): This is the label displayed
   -  in the network table toolbar, above the "type" column. -->
 <!ENTITY netmonitorUI.toolbar.type        "Typ">
+<!ENTITY netmonitorUI.toolbar.transferred "Przesłano">
 <!ENTITY netmonitorUI.toolbar.size        "Rozmiar">
 
 <!-- LOCALIZATION NOTE (netmonitorUI.toolbar.waterfall): This is the label displayed
