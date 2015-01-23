@@ -40,7 +40,7 @@
 <!ENTITY event.dialog.new.event.key2              "I">
 <!ENTITY event.dialog.new.task.key2               "D">
 <!ENTITY event.dialog.new.message.key2            "N">
-<!ENTITY event.dialog.close.key                   "W">
+
 <!ENTITY event.dialog.save.key                    "S">
 <!ENTITY event.dialog.saveandclose.key            "L">
 <!ENTITY event.dialog.print.key                   "P">
@@ -49,7 +49,7 @@
 <!ENTITY event.dialog.cut.key                     "X">
 <!ENTITY event.dialog.copy.key                    "C">
 <!ENTITY event.dialog.paste.key                   "V">
-<!ENTITY event.dialog.select.all.key              "A">
+
 <!-- Menubar -->
 
 <!ENTITY  event.menu.item.new.label                       "Novo">
@@ -142,11 +142,11 @@
 
 <!ENTITY  event.toolbar.save.label                        "Salvar e fechar">
 <!ENTITY  event.toolbar.delete.label                      "Excluir">
-<!ENTITY  event.toolbar.attendees.label                   "Convidar participantes">
+
 <!ENTITY  event.toolbar.privacy.label                     "Privacidade">
-<!ENTITY  event.toolbar.save.tooltip                      "Salvar e fechar">
-<!ENTITY  event.toolbar.delete.tooltip                    "Excluir">
-<!ENTITY  event.toolbar.attendees.tooltip                 "Convidar participantes">
+
+
+
 <!ENTITY  event.toolbar.attachments.tooltip               "Adicionar anexos">
 <!ENTITY  event.toolbar.privacy.tooltip                   "Alterar privacidade">
 <!ENTITY  event.toolbar.priority.tooltip                  "Alterar prioridade">
@@ -216,7 +216,7 @@
 <!ENTITY event.reminder.custom.label                      "Personalizado…" >
 
 <!ENTITY event.reminder.multiple.label                    "Lembretes múltiplos…" >
-<!ENTITY event.statusbarpanel.freebusy.label              "Marcar como:">
+
 <!ENTITY event.statusbarpanel.privacy.label               "Privacidade:">
 <!-- Recurrence dialog -->
 
@@ -304,6 +304,7 @@
 <!ENTITY event.recurrence.pattern.yearly.week.5.label        "Quinta" >
 <!ENTITY event.recurrence.pattern.yearly.week.6.label        "Sexta" >
 <!ENTITY event.recurrence.pattern.yearly.week.7.label        "Sábado" >
+
 <!ENTITY event.recurrence.of.label                           "de" >
 <!ENTITY event.recurrence.pattern.yearly.month2.1.label      "janeiro" >
 <!ENTITY event.recurrence.pattern.yearly.month2.2.label      "fevereiro" >

@@ -31,3 +31,5 @@
 <!-- LOCALIZATION NOTE (ignoreDocColors.label): This is option two, and it appends to 'someProvColors' above.  -->
 <!ENTITY useMyColors.label                 "Sempre usar as cores padrão">
 <!ENTITY useMyColors.accesskey             "m">
+
+
