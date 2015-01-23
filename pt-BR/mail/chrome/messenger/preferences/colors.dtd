@@ -6,8 +6,11 @@
 <!ENTITY  window.width                    "38em">
 <!ENTITY  window.macWidth                 "41em">
 
-<!ENTITY  allowPagesToUse.label           "Mensagens e páginas podem usar outras cores">
-<!ENTITY  allowPagesToUse.accesskey       "o">
+
+
+<!ENTITY  overridePageColors.always.label "Sempre">
+
+<!ENTITY  overridePageColors.never.label  "Nunca">
 
 <!ENTITY  color                           "Cores padrão">
 <!ENTITY  textColor.label                 "Texto:">

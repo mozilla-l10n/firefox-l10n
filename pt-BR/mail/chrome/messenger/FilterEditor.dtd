@@ -24,6 +24,8 @@
 <!ENTITY contextBeforeCls.label "Filtrar antes de aplicar o Antispam">
 <!ENTITY contextAfterCls.label "Filtrar após aplicar o Antispam">
 
+
+
 <!ENTITY filterActionDesc.label "Executar estas ações:">
 <!ENTITY filterActionDesc.accesskey "x">
 

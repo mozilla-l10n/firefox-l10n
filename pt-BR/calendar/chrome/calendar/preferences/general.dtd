@@ -13,6 +13,10 @@
 <!ENTITY pref.dateformat.long "Longo" >
 <!ENTITY pref.dateformat.short "Curto"  >
 
+<!ENTITY pref.timezones.caption "Fuso horário">
+
+
+
 <!ENTITY pref.defaults.label "Valores padrão para novos itens">
 <!ENTITY pref.events.label "Eventos">
 <!ENTITY pref.tasks.label "Tarefas">

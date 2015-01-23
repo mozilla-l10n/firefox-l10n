@@ -4,13 +4,16 @@
 
 <!ENTITY offlineDialog.title "Configurar modo off-line">
 
-<!ENTITY textStartUp "Iniciar no modo off-line?">
+
+
 <!ENTITY radioRememberPrevState.label "Somente se já estava no modo off-line">
 <!ENTITY radioRememberPrevState.accesskey "t">
-<!ENTITY radioAskMe.label "Perguntar">
-<!ENTITY radioAskMe.accesskey "e">
-<!ENTITY radioAlwaysOnline.label "Nunca">
-<!ENTITY radioAlwaysOnline.accesskey "u">
+
+
+
+
+
+
 
 <!ENTITY textGoingOnline "Ao sair do modo off-line enviar as mensagens da pasta “Saída”?">
 <!ENTITY radioAutoSend.label "Sim">

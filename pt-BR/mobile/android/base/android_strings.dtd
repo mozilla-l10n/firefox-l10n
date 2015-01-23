@@ -172,6 +172,7 @@
 <!ENTITY pref_cookies_not_accept_foreign "Permitir somente os do site atual">
 <!ENTITY pref_cookies_disabled "Desativar">
 
+
 <!ENTITY pref_donottrack_title "Não rastrear">
 <!ENTITY pref_donottrack_summary "O &brandShortName; informará aos sites que você não quer ser rastreado">
 
@@ -428,6 +429,8 @@ size. -->
 <!ENTITY home_remote_tabs_empty "Suas abas de outros dispositivos aparecem aqui.">
 <!ENTITY home_remote_tabs_unable_to_connect "Não é possível conectar-se">
 <!ENTITY home_remote_tabs_need_to_sign_in "Identifique-se para reconectar sua conta Firefox e continuar a sincronização.">
+
+
 <!ENTITY home_remote_tabs_trouble_verifying "Problemas ao verificar a sua conta?">
 <!ENTITY home_remote_tabs_need_to_verify "Por favor, verifique sua conta Firefox para começar a sincronização.">
 
@@ -524,12 +527,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY updater_apply_title2 "Atualização disponível para o &brandShortName;">
 <!ENTITY updater_apply_select2 "Toque para atualizar">
-<!-- New tablet UI -->
-<!-- LOCALIZATION NOTE (new_tablet_restart): Notification displayed after the user toggles the new tablet UI in the settings screen.-->
-
-
-<!ENTITY new_tablet_restart "Reinicie o navegador para que as alterações entrem em vigor">
-<!ENTITY new_tablet_pref "Ativar a nova interface tablet">
 <!-- Guest mode -->
 
 <!ENTITY new_guest_session "Sessão de convidado">
