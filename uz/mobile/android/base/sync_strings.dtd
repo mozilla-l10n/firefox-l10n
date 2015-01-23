@@ -170,6 +170,9 @@
 <!ENTITY fxaccount_confirm_account_change_email "Ushbu e-pochta manzili unutilsinmi?">
 <!ENTITY fxaccount_confirm_account_verification_link_sent2 "Tasdiqlash kodi e-pochtangizga jo‘natildi">
 <!ENTITY fxaccount_confirm_account_verification_link_not_sent2 "E-pochtangizga tasdiqlash kodini jo‘natib bo‘lmadi">
+<!ENTITY fxaccount_resend_unlock_code_button_label "Qulfdan chiqarilgan e-pochtalarga qayta jo‘natish">
+<!ENTITY fxaccount_unlock_code_sent "Qulfdan chiqarilgan e-pochtaga jo‘natildi">
+<!ENTITY fxaccount_unlock_code_not_sent "Qulfdan chiqarilgan e-pochtaga jo‘natilmadi">
 
 <!ENTITY fxaccount_sign_in_sub_header "Kirish">
 <!ENTITY fxaccount_sign_in_button_label "Kirish">
@@ -180,9 +183,15 @@
 <!ENTITY fxaccount_account_verified_sub_header "Hisob tekshirildi">
 <!ENTITY fxaccount_account_verified_description2 "Ma’lumotlaringizni sinxronlash bir lahzada boshlanadi.">
 
+<!ENTITY fxaccount_migration_finished_header "Yangilash tugadi">
+
 <!ENTITY fxaccount_update_credentials_header "Kirish">
 <!ENTITY fxaccount_update_credentials_button_label "Kirish">
 <!ENTITY fxaccount_update_credentials_unknown_error "Kirib bo‘lmadi">
+
+<!ENTITY fxaccount_finish_migrating_header "Yangilashni tugatish uchun kiring">
+<!ENTITY fxaccount_finish_migrating_button_label "Yangilash tugadi">
+<!ENTITY fxaccount_finish_migrating_description "Yangilash juda ko‘p ma’lumtlarni o‘tkazib olishni talab qiladi. Yaxshisi, WiFi tarmoqni ulaganingiz ma’qul.">
 
 <!ENTITY fxaccount_status_header2 "Firefox hisobi">
 <!ENTITY fxaccount_status_signed_in_as "Kirilgan foydalanuvchi nomi">
@@ -197,7 +206,9 @@
 <!ENTITY fxaccount_status_needs_credentials "Ulana olmadi. Kirish uchun bosing.">
 <!ENTITY fxaccount_status_needs_upgrade "Kirish uchun &brandShortName;ni yangilashingiz kerak.">
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled "&syncBrand.shortName.label; moslandi, ammo avtomatik sinxronlanmadi. Android sozlamalari &gt; Foydalanilgan ma’lumotlardan  “Ma’lumotlarni avtosinxronlash”ni yoqing.">
+<!ENTITY fxaccount_status_needs_master_sync_automatically_enabled_v21 "&syncBrand.shortName.label; moslandi, ammo avtomatik sinxronlanmadi. Android sozlamalari &gt; Foydalanilgan ma’lumotlardan  “Ma’lumotlarni avtosinxronlash”ni yoqing.">
 <!ENTITY fxaccount_status_needs_account_enabled "&syncBrand.shortName.label; moslandi, ammo avtomatik sinxronlanmadi. Sinxronlashni boshlash uchun bosing.">
+<!ENTITY fxaccount_status_needs_finish_migrating "Yangi \&quot;Firefox hisobi\&quot;ga kirish uchun bosing.">
 <!ENTITY fxaccount_status_bookmarks "Xatcho‘plar">
 <!ENTITY fxaccount_status_history "Tarix">
 <!ENTITY fxaccount_status_passwords "Parollar">
@@ -245,8 +256,14 @@
 <!ENTITY fxaccount_remote_error_SERVICE_TEMPORARILY_UNAVAILABLE_TO_DUE_HIGH_LOAD "Server band, birozdan so‘ng urinib ko‘ring">
 <!ENTITY fxaccount_remote_error_UNKNOWN_ERROR "Muammo yuz berdi">
 <!ENTITY fxaccount_remote_error_COULD_NOT_CONNECT "Tarmoqqa ulana olmadi">
+<!ENTITY fxaccount_remote_error_ACCOUNT_LOCKED "Hisob qulflandi. &formatS1;">
 
 <!ENTITY fxaccount_sync_sign_in_error_notification_title2 "&syncBrand.shortName.label; ulanmagan">
 <!-- Localization note: the format string below will be replaced
      with the Firefox Account's email address. -->
 <!ENTITY fxaccount_sync_sign_in_error_notification_text2 "&formatS; sifatida kirish uchun bosing">
+
+<!ENTITY fxaccount_sync_finish_migrating_notification_title "&syncBrand.shortName.label;ni yangilashda xatolik yuz berdimi?">
+<!-- Localization note: the format string below will be replaced
+     with the Firefox Account's email address. -->
+<!ENTITY fxaccount_sync_finish_migrating_notification_text "&formatS; sifatida kirish uchun bosing">

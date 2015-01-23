@@ -6,8 +6,11 @@
 <!ENTITY  window.width                    "38em">
 <!ENTITY  window.macWidth                 "41em">
 
-<!ENTITY  allowPagesToUse.label           "Sahifalarga oʻzlarining ranglarini tanlashga ruxsat berish (tanlaganlarimning tepasida)">
-<!ENTITY  allowPagesToUse.accesskey       "r">
+
+
+<!ENTITY  overridePageColors.always.label "Doimo">
+
+<!ENTITY  overridePageColors.never.label  "Hech qachon">
 
 <!ENTITY  color                           "Matn va orqa fon">
 <!ENTITY  textColor.label                 "Matn:">

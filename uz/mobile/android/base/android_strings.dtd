@@ -172,6 +172,8 @@
 <!ENTITY pref_cookies_not_accept_foreign "Yoqib qo‘yildi (3-tomon aralashuvisiz)">
 <!ENTITY pref_cookies_disabled "O‘chirib qo‘yilgan">
 
+<!ENTITY pref_tracking_protection_title "Kuzatishdan himoyalanish">
+<!ENTITY pref_tracking_protection_summary "&brandShortName; sizni kuzatmoqchi bo‘lgan saytlarni to‘sib qo‘ymoqda">
 <!ENTITY pref_donottrack_title "Kuzatmang">
 <!ENTITY pref_donottrack_summary "&brandShortName; saytlarga sizni kuzatishlarini xohlamsaligingiz aytiladi.">
 
@@ -429,6 +431,8 @@ size. -->
 <!ENTITY home_remote_tabs_empty "Boshqa qurilmalaringizdagi ichki oynalar bu yerda ko‘rsatiladi.">
 <!ENTITY home_remote_tabs_unable_to_connect "Ulana olmadi">
 <!ENTITY home_remote_tabs_need_to_sign_in "Firefox hisobingizga qayta ulanish va sinxornlashni davom ettirish uchun kiring.">
+<!ENTITY home_remote_tabs_need_to_finish_migrating "Sizning yangi \&quot;Firefox hisobi\&quot;ngiz tayyor!">
+
 <!ENTITY home_remote_tabs_trouble_verifying "Hisobingizni tasdiqlashda muammo yuz berdimi?">
 <!ENTITY home_remote_tabs_need_to_verify "Sinxronlashni boshlash uchun Firefox hisobingizni tasdiqlang.">
 
@@ -528,12 +532,6 @@ import qilinmoqda">
 
 <!ENTITY updater_apply_title2 "&brandShortName; uchun yangilanishlar mavjud">
 <!ENTITY updater_apply_select2 "Yangilash uchun bosing">
-<!-- New tablet UI -->
-<!-- LOCALIZATION NOTE (new_tablet_restart): Notification displayed after the user toggles the new tablet UI in the settings screen.-->
-
-
-<!ENTITY new_tablet_restart "O‘zgarishlar kuchga kirishi uchun brauzerni qaytadan ishga tushiring">
-<!ENTITY new_tablet_pref "Yangi planshet grafik muhitini yoqish">
 <!-- Guest mode -->
 
 <!ENTITY new_guest_session "Yangi mehmon seansi">
