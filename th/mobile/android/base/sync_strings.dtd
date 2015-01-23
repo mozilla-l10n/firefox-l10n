@@ -187,15 +187,16 @@
 <!ENTITY fxaccount_update_credentials_unknown_error "ไม่สามารถเข้าสู่ระบบ">
 
 <!ENTITY fxaccount_finish_migrating_header "ลงชื่อเข้าใช้เพื่อทำการอัพเกรดให้เสร็จ">
+<!ENTITY fxaccount_finish_migrating_button_label "เสร็จสิ้นการปรับรุ่น">
 
 
-
+<!ENTITY fxaccount_status_header2 "บัญชี Firefox">
 <!ENTITY fxaccount_status_signed_in_as "ลงชื่อเข้าใช้เป็น">
 <!ENTITY fxaccount_status_auth_server "เซิร์ฟเวอร์บัญชี">
-<!ENTITY fxaccount_status_sync_now "ซิงค์ทันที">
-<!ENTITY fxaccount_status_syncing2 "กำลังซิงค์...">
+<!ENTITY fxaccount_status_sync_now "ผสานข้อมูลทันที">
+<!ENTITY fxaccount_status_syncing2 "กำลังผสานข้อมูล…">
 <!ENTITY fxaccount_status_device_name "ชื่ออุปกรณ์">
-<!ENTITY fxaccount_status_sync_server "เซิร์ฟเวอร์การซิงค์">
+<!ENTITY fxaccount_status_sync_server "เซิร์ฟเวอร์การผสานข้อมูล">
 <!ENTITY fxaccount_status_sync "&syncBrand.shortName.label;">
 <!ENTITY fxaccount_status_sync_enabled "&syncBrand.shortName.label; : เปิดใช้อยู่">
 <!ENTITY fxaccount_status_needs_verification2 "จำเป็นต้องยืนยันบัญชีของคุณ แตะเพื่อส่งอีเมลยืนยันอีกครั้ง">
@@ -214,7 +215,8 @@
      external web pages.  Compare fxaccount_policy_{linktos,linkprivacy}:
      these strings are separated to accommodate languages that decline
      the two uses differently. -->
-
+<!ENTITY fxaccount_status_linktos "เงื่อนไขการให้บริการ">
+<!ENTITY fxaccount_status_linkprivacy "ประกาศความเป็นส่วนตัว">
 
 
 <!ENTITY fxaccount_remove_account_dialog_title "ลบบัญชี Firefox?">
@@ -256,6 +258,7 @@
 <!ENTITY fxaccount_sync_sign_in_error_notification_title2 "ไม่สามารถเชื่อมต่อกับ &syncBrand.shortName.label; ได้">
 <!-- Localization note: the format string below will be replaced
      with the Firefox Account's email address. -->
+<!ENTITY fxaccount_sync_sign_in_error_notification_text2 "แตะเพื่อเข้าสู่ระบบเป็น &formatS;">
 
 <!-- Localization note: the format string below will be replaced
      with the Firefox Account's email address. -->
