@@ -36,7 +36,7 @@
 <!ENTITY printContactCmd.label                          "Imprimir contato…">
 <!ENTITY printContactCmd.accesskey                      "I">
 <!ENTITY printContactCmd.key                            "p">
-<!ENTITY printAddressBook.label                         "Imprimir catálogo…">
+<!ENTITY printAddressBook.label                         "Imprimir catálogo de endereços…">
 <!ENTITY printAddressBook.accesskey                     "a">
 <!-- Edit Menu -->
 
@@ -116,7 +116,7 @@ because displayed names don't have the comma in between. -->
 <!ENTITY messengerCmd.label                             "Mensagens">
 <!ENTITY messengerCmd.accesskey                         "M">
 <!ENTITY messengerCmd.commandkey                        "1">
-<!ENTITY searchAddressesCmd.label                       "Pesquisar catálogo…">
+<!ENTITY searchAddressesCmd.label                       "Pesquisar endereços…">
 <!ENTITY searchAddressesCmd.accesskey                   "e">
 <!ENTITY importCmd.label                                "Importar…">
 <!ENTITY importCmd.accesskey                            "I">
@@ -206,7 +206,7 @@ because displayed names don't have the comma in between. -->
 <!ENTITY addresses.heading                              "Endereços">
 <!-- For Map It! -->
 <!ENTITY mapItButton.label                              "Mapa">
-<!ENTITY mapIt.tooltip                                  "Pesquisar um mapa deste endereço web">
+<!ENTITY mapIt.tooltip                                  "Exibir um mapa deste endereço web">
 <!-- Status Bar -->
 
 <!ENTITY statusText.label "">
@@ -215,5 +215,5 @@ because displayed names don't have the comma in between. -->
 <!ENTITY windowMenu.label "Janela">
 <!ENTITY minimizeWindow.label "Minimizar">
 <!ENTITY minimizeWindow.key "M">
-<!ENTITY bringAllToFront.label "Trazer Todas para Frente">
+<!ENTITY bringAllToFront.label "Trazer todas para frente">
 <!ENTITY zoomWindow.label "Ampliar/Reduzir">
