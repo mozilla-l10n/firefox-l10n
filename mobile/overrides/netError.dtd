@@ -19,28 +19,50 @@
 <!ENTITY dnsNotFound.title "ไม่พบเซิร์ฟเวอร์">
 <!-- LOCALIZATION NOTE (dnsNotFound.longDesc4) This string contains markup including widgets for searching
      or enabling wifi connections. The text inside tags should be localized.  Do not change the ids. -->
+<!ENTITY dnsNotFound.longDesc4 "<ul> 
+<li>ตรวจสอบความผิดพลาดในการพิมพ์ที่อยู่ อย่างเช่น 
+<strong>ww</strong>.example.com แทนที่จะเป็น 
+<strong>www</strong>.example.com</li> 
+<div id='searchbox'> 
+<input id='searchtext' type='search'></input> 
+<button id='searchbutton'>ค้นหา</button> 
+</div> 
+<li>หากคุณไม่สามารถโหลดหน้าใด ๆ ให้ตรวจสอบการเชื่อมต่อ Wi-Fi หรือข้อมูลบนอุปกรณ์ของคุณ 
+<button id='wifi'>เปิดใช้งาน Wi-Fi</button> 
+</li> 
+</ul>">
 
-<!ENTITY fileNotFound.title "ไม่พบแฟ้ม">
+<!ENTITY fileNotFound.title "ไม่พบไฟล์">
 <!ENTITY fileNotFound.longDesc "<ul> 
 <li>ตรวจสอบชื่อแฟ้ม ตัวเล็ก ตัวใหญ่ หรือตัวสะกดให้ถูกต้อง</li> 
 <li>ตรวจสอบว่าแฟ้มถูกย้าย เปลี่ยนชื่อ หรือถูกลบไปแล้วหรือไม่</li> 
 </ul>">
 
 
-<!ENTITY generic.title "Oops.">
+<!ENTITY generic.title "อุปส์">
 <!ENTITY generic.longDesc "<p>&brandShortName; ไม่สามารถโหลดหน้านี้ได้ด้วยเหตุผลบางประการ</p>">
 
-<!ENTITY malformedURI.title "รูปแบบที่ตั้งนี้ไม่ถูกต้อง">
+<!ENTITY malformedURI.title "ที่อยู่ไม่ถูกต้อง">
 <!-- LOCALIZATION NOTE (malformedURI.longDesc2) This string contains markup including widgets for searching
      or enabling wifi connections. The text inside the tags should be localized. Do not touch the ids. -->
+<!ENTITY malformedURI.longDesc2 "<ul> 
+<li>ที่อยู่เว็บมักจะเขียนเป็น 
+<strong>http://www.example.com/</strong></li> 
+<div id='searchbox'> 
+<input id='searchtext' type='search'></input> 
+<button id='searchbutton'>ค้นหา</button> 
+</div> 
+<li>ตรวจสอบให้แน่ใจว่าคุณใช้เครื่องหมายทับไปข้างหน้า (กล่าวคือ 
+<strong>/</strong>)</li> 
+</ul>">
 
-<!ENTITY netInterrupt.title "การเชื่อมต่อถูกขัด">
-
+<!ENTITY netInterrupt.title "การเชื่อมต่อถูกขัดจังหวะ">
+<!ENTITY netInterrupt.longDesc2 "&sharedLongDesc3;">
 
 <!ENTITY notCached.title "เอกสารหมดอายุ">
 <!ENTITY notCached.longDesc "<p>เอกสารที่เรียก ไม่อยู่ในแคชของ &brandShortName;</p><ul><li>ตามมาตรการการรักษาความปลอดภัย &brandShortName; จะไม่เรียกเอกสารที่ละเอียดอ่อนให้ใหม่โดยอัตโนมัติ</li><li>กดลองอีกครั้ง เพื่อเรียกเอกสารจากเว็บไซต์ใหม่</li></ul>">
 
-<!ENTITY netOffline.title "ทำงานออฟไลน์">
+<!ENTITY netOffline.title "โหมดออฟไลน์">
 <!-- LOCALIZATION NOTE (netOffline.longDesc3) This string contains markup including widgets enabling wifi connections.
      The text inside the tags should be localized. Do not touch the ids. -->
 
@@ -55,10 +77,10 @@
 </ul>">
 
 <!ENTITY netReset.title "การเชื่อมต่อถูกล้าง">
+<!ENTITY netReset.longDesc2 "&sharedLongDesc3;">
 
-
-<!ENTITY netTimeout.title "หมดเวลาการเชื่อมต่อ">
-
+<!ENTITY netTimeout.title "การเชื่อมต่อหมดเวลา">
+<!ENTITY netTimeout.longDesc2 "&sharedLongDesc3;">
 
 <!ENTITY unknownProtocolFound.title "ไม่เข้าใจที่ตั้งนี้">
 <!ENTITY unknownProtocolFound.longDesc "<ul> 
@@ -71,7 +93,7 @@
 <li>ติดต่อผู้ดูแลเครือข่ายของคุณเพื่อให้มั่นใจว่าพร็อกซีกำลังทำงานอยู่</li> 
 </ul>">
 
-<!ENTITY proxyResolveFailure.title "ไม่พบเซิร์ฟเวอร์พร็อกซี">
+<!ENTITY proxyResolveFailure.title "ไม่สามารถค้นหาเซิร์ฟเวอร์พร็อกซี">
 <!-- LOCALIZATION NOTE (proxyResolveFailure.longDesc3) This string contains markup including widgets for enabling wifi connections.
      The text inside the tags should be localized. Do not touch the ids. -->
 

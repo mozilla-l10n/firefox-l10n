@@ -1,8 +1,12 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY search_app_name "ค้นหา &brandShortName;">
 <!--  Localization note (search_bar_hint): The &formatS; will be replaced with the name of
       the currently selected search engine. -->
+
+<!ENTITY search_bar_hint "ค้นหาด้วย &formatS;">
 
 <!ENTITY search_empty_title2 "เริ่มค้นหา">
 <!ENTITY search_empty_message "ค้นหาอย่างรวดเร็วสำหรับสิ่งที่คุณต้องการ">
@@ -11,7 +15,8 @@
 
 <!ENTITY search_plus_content_description "เพิ่มไปยังแถบค้นหา">
 
-
+<!ENTITY search_pref_title "การตั้งค่า">
+<!ENTITY search_pref_button_content_description "การตั้งค่า">
 
 <!ENTITY pref_clearHistory_confirmation "ล้างประวัติการเข้าชมแล้ว">
 <!ENTITY pref_clearHistory_dialogMessage "ลบประวัติการค้นหาทั้งหมดจากอุปกรณ์นี้?">
