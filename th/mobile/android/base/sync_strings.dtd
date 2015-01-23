@@ -112,6 +112,10 @@
 <!-- Firefox Account strings. -->
 
 
+<!ENTITY fxaccount_full_label "บัญชี Firefox">
+
+<!ENTITY fxaccount_custom_server_account_title "ใช้บัญชีบนเซิร์ฟเวอร์">
+<!ENTITY fxaccount_custom_server_sync_title "จัดเก็บข้อมูลที่ซิงค์บนเซิร์ฟเวอร์">
 <!-- Localization note: these are shown in all screens that query the
      user for an email address and password. Hide and show are button
      labels. -->
@@ -131,14 +135,18 @@
      these strings are separated to accommodate languages that decline
      the two uses differently. -->
 
+<!ENTITY fxaccount_policy_linktos "เงื่อนไขการให้บริการ">
+<!ENTITY fxaccount_policy_linkprivacy "ประกาศความเป็นส่วนตัว">
 
 <!ENTITY fxaccount_getting_started_welcome_to_sync "ยินดีต้อนรับสู่ &syncBrand.shortName.label;">
-
+<!ENTITY fxaccount_getting_started_description "เข้าสู่ระบบเพื่อซิงค์แท็บ ที่คั่นหน้า รหัสผ่าน และอื่นๆ ของคุณ">
 <!ENTITY fxaccount_getting_started_get_started "เริ่มต้น">
 <!ENTITY fxaccount_getting_started_old_firefox "ใช้งาน &syncBrand.shortName.label; รุ่นเก่าอยู่?">
 <!-- Localization note: the Firefox below should not change with the
      particular version of Firefox installed (Release, Beta, Aurora,
      etc).  The account remains a "Firefox Account". -->
+
+<!ENTITY fxaccount_create_account_header2 "สร้างบัญชี Firefox">
 <!ENTITY fxaccount_create_account_password_length_restriction "ต้องมีความยาวอย่างน้อย 8 ตัวอักษร">
 <!ENTITY fxaccount_create_account_year_of_birth "ปีเกิด">
 <!-- Localization note: &formatS1; is fxaccount_policy_linktos, &formatS2; is fxaccount_policy_linkprivacy, both hyperlinked. -->
@@ -183,11 +191,11 @@
 
 
 <!ENTITY fxaccount_status_signed_in_as "ลงชื่อเข้าใช้เป็น">
-
-
+<!ENTITY fxaccount_status_auth_server "เซิร์ฟเวอร์บัญชี">
+<!ENTITY fxaccount_status_sync_now "ซิงค์ทันที">
 <!ENTITY fxaccount_status_syncing2 "กำลังซิงค์...">
 <!ENTITY fxaccount_status_device_name "ชื่ออุปกรณ์">
-
+<!ENTITY fxaccount_status_sync_server "เซิร์ฟเวอร์การซิงค์">
 <!ENTITY fxaccount_status_sync "&syncBrand.shortName.label;">
 <!ENTITY fxaccount_status_sync_enabled "&syncBrand.shortName.label; : เปิดใช้อยู่">
 <!ENTITY fxaccount_status_needs_verification2 "จำเป็นต้องยืนยันบัญชีของคุณ แตะเพื่อส่งอีเมลยืนยันอีกครั้ง">

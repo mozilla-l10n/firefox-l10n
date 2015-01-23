@@ -41,6 +41,7 @@
 
 <!ENTITY url_bar_default_text2 "ค้นหาหรือป้อนที่อยู่">
 
+<!ENTITY bookmark "ที่คั่นหน้า">
 <!ENTITY bookmark_added "เพิ่มที่คั่นหน้าแล้ว">
 <!ENTITY bookmark_removed "ลบที่คั่นหน้าแล้ว">
 <!ENTITY bookmark_updated "แก้ไขที่คั่นหน้าแล้ว">
@@ -59,7 +60,7 @@
 <!ENTITY back "ย้อนกลับ">
 <!ENTITY stop "หยุด">
 <!ENTITY site_security "ความปลอดภัยของเว็บไซต์">
-
+<!ENTITY edit_mode_cancel "ยกเลิก">
 
 <!ENTITY close_tab "ปิดแท็ป">
 <!ENTITY one_tab "1 แท็บ">
@@ -95,7 +96,9 @@
 <!-- Localization note (overlay_share_bookmark_btn_label) : This string is
      used in the share overlay menu to select an action. It is the verb
      "to bookmark", not the noun "a bookmark". -->
-<!ENTITY overlay_share_reading_list_btn_label "เพิ่งเข้ารายการอ่าน">
+
+<!ENTITY overlay_share_bookmark_btn_label "ที่คั่นหน้า">
+<!ENTITY overlay_share_reading_list_btn_label "เพิ่มเข้ารายการอ่าน">
 <!ENTITY overlay_share_bookmark_btn_label_already "คั่นหน้าอยู่ก่อนแล้ว">
 <!ENTITY overlay_share_reading_list_btn_label_already "อยู่ใน Reading List แล้ว">
 <!ENTITY overlay_share_send_other "ส่งไปยังอุปกรณ์อื่น">
@@ -105,7 +108,7 @@
      to. -->
 
 <!ENTITY overlay_share_send_tab_btn_label "ส่งไปยังอุปกรณ์อื่น">
-
+<!ENTITY overlay_share_no_url "ไม่พบลิงก์ในการแบ่งปันนี้">
 <!ENTITY overlay_share_retry "ลองใหม่">
 <!ENTITY overlay_share_select_device "เลือกอุปกรณ์">
 
@@ -114,7 +117,7 @@
 <!ENTITY pref_category_display "การแสดงผล">
 
 <!ENTITY pref_category_privacy_short "ความเป็นส่วนตัว">
-
+<!ENTITY pref_category_privacy_summary "ควบคุมรหัสผ่าน คุกกี้ การติดตาม ข้อมูล">
 <!ENTITY pref_category_vendor "&vendorShortName;">
 
 <!ENTITY pref_category_datareporting "ตัวเลือกข้อมูล">
@@ -138,23 +141,24 @@
 <!ENTITY pref_category_home "หน้าหลัก">
 <!ENTITY pref_category_home_summary "ปรับแต่งโฮมเพจของคุณ">
 <!ENTITY pref_category_home_panels "แผง">
-
-
+<!ENTITY home_add_panel_title "เพิ่งแผงใหม่">
+<!ENTITY home_add_panel_empty "ขออภัย เราไม่พบแผงใด ๆ สำหรับคุณที่จะเพิ่ม">
 <!-- Localization note (home_add_panel_installed):
      The &formatS; will be replaced with the name of the new panel the user just
      selected to be added to the home page. -->
+<!ENTITY home_add_panel_installed "\u0027&formatS;\u0027 ถูกเพิ่มไปยังหน้าแรก">
 <!ENTITY pref_category_home_content_settings "ตั้งค่าเนื้อหา">
 <!ENTITY pref_home_updates "การปรับรุ่นอัตโนมัติ">
+<!ENTITY pref_home_updates_enabled "ถูกเปิดใช้งาน">
 
-
-
+<!ENTITY pref_home_suggested_sites "แสดงคำแนะนำเว็บไซต์">
 <!ENTITY pref_home_suggested_sites_summary "แสดงทางลัดไปยังไซต์บนโฮมเพจของคุณที่เราคาดว่าคุณน่าจะพบสิ่งที่น่าสนใจ">
 <!-- Localization note: These are shown in the left sidebar on tablets -->
 
 <!ENTITY pref_header_customize "ปรับแต่ง">
 <!ENTITY pref_header_display "การแสดงผล">
 <!ENTITY pref_header_privacy_short "ความเป็นส่วนตัว">
-
+<!ENTITY pref_header_help "ช่วยเหลือ">
 <!ENTITY pref_header_language "ภาษา">
 <!ENTITY pref_header_vendor "&vendorShortName;">
 <!ENTITY pref_header_devtools "เครื่องมือนักพัฒนา">
@@ -211,15 +215,15 @@ size. -->
 
 <!ENTITY pref_search_suggestions "แสดงคำค้นหาแนะนำ">
 <!ENTITY pref_import_android "นำเข้าจากแอนดรอยด์">
-
+<!ENTITY pref_import_android_summary "นำเข้าที่คั่นหน้าและประวัติจากเว็บเบราว์เซอร์ในเครื่อง">
 <!ENTITY pref_private_data_history2 "ประวัติการท่องเน็ต">
-
+<!ENTITY pref_private_data_formdata "ประวัติการกรอกฟอร์มและการค้นหา">
 <!ENTITY pref_private_data_cookies2 "คุกกี้และล็อกอินที่เข้าใช้อยู่">
 <!ENTITY pref_private_data_passwords "รหัสผ่านที่บันทึกไว้">
 <!ENTITY pref_private_data_cache "แคช">
 <!ENTITY pref_private_data_offlineApps "ข้อมูลเว็บไซต์ออฟไลน์">
 <!ENTITY pref_private_data_siteSettings2 "การตั้งค่ารายเว็บ">
-
+<!ENTITY pref_private_data_downloadFiles2 "ดาวน์โหลด">
 
 
 <!ENTITY pref_about_firefox "เกี่ยวกับ &brandShortName;">
@@ -238,6 +242,7 @@ size. -->
 <!ENTITY pref_panels_move_up "ย้ายขึ้น">
 <!ENTITY pref_panels_move_down "ย้ายลง">
 
+<!ENTITY datareporting_notification_title "สถิติและข้อมูลของ &brandShortName;">
 <!ENTITY datareporting_notification_action_long "เลือกข้อมูลใดบ้างที่จะแบ่งปัน">
 <!ENTITY datareporting_notification_action "เลือกสิ่งที่จะแบ่งปัน">
 <!ENTITY datareporting_notification_summary "เพื่อปรับปรุงประสบการณ์การใช้งานให้ดีขึ้น &brandShortName; จะส่งข้อมูลบางส่วนไปยัง &vendorShortName;.">
@@ -259,7 +264,7 @@ size. -->
 <!-- Localization note (datareporting_crashreporter_title_short) : This string matches
      (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
 <!ENTITY datareporting_crashreporter_title_short "ตัวรายงานข้อขัดข้อง">
-
+<!ENTITY datareporting_wifi_title2 "บริการแจ้งตำแหน่ง &vendorShortName;">
 
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
@@ -269,6 +274,8 @@ size. -->
 <!ENTITY pref_update_autodownload_never "ไม่ต้อง">
 <!ENTITY pref_update_autodownload_always "เปิดใช้เสมอ">
 <!-- Localization note (help_menu) : This string is used in the main menu-->
+
+<!ENTITY help_menu "ช่วยเหลือ">
 
 <!ENTITY quit "ออก">
 
@@ -401,14 +408,18 @@ size. -->
 <!ENTITY home_reading_list_hint_accessible "เคล็ดลับ : บันทึกบทความลงรายการอ่านของคุณโดยแตะค้างที่ปุ่มโหมดตัวอ่าน เมื่อปรากฏบนแถบหัวเรื่อง">
 <!-- Localization note (home_default_empty): This string is used as the default text when there
      is no data to show in an about:home panel that was created by an add-on. -->
+
+<!ENTITY home_default_empty "ไม่พบเนื้อหาสำหรับแผงนี้">
 <!-- Localization note (home_move_up_to_filter): The variable is replaced by the name of the
      previous location in the navigation, such as the previous folder -->
+
+<!ENTITY home_move_up_to_filter "ขึ้นไปที่ &formatS;">
 
 <!ENTITY home_remote_tabs_title "แท็บจากการผสานข้อมูล">
 <!ENTITY home_remote_tabs_empty "แท็บของคุณจากอุปกรณ์อื่นๆ จะถูกแสดงขึ้นที่นี่">
 <!ENTITY home_remote_tabs_unable_to_connect "ไม่สามารถเชื่อมต่อได้">
 <!ENTITY home_remote_tabs_need_to_sign_in "กรุณาลงชื่อเข้าใช้เพื่อเชื่อมต่อบัญชี Firefox อีกครั้งและทำการซิงค์ต่อไป">
-
+<!ENTITY home_remote_tabs_need_to_finish_migrating "บัญชี Firefox ใหม่ของคุณพร้อมใช้งานแล้ว!">
 
 <!ENTITY home_remote_tabs_trouble_verifying "มีปัญหาเกี่ยวกับการยืนยันบัญชีของคุณ?">
 <!ENTITY home_remote_tabs_need_to_verify "โปรดยืนยันบัญชี Firefox ก่อนเริ่มต้นการซิงค์">
@@ -430,8 +441,9 @@ size. -->
 <!ENTITY private_tabs_panel_empty_desc "แท็บแบบส่วนตัวจะแสดงที่นี่ แม้ว่าเราจะไม่เก็บประวัติการเข้าชมหรือคุกกี้ แต่ตัวคั่นหน้าและไฟล์ที่คุณดาวน์โหลดจะยังถูกบันทึกไว้บนอุปกรณ์นี้">
 <!ENTITY private_tabs_panel_learn_more "ต้องการเรียนรู้เพิ่มเติมไหม?">
 
-
-
+<!ENTITY remote_tabs_panel_moved_title "แท็บของฉันไปอยู่ที่ไหน?">
+<!ENTITY remote_tabs_panel_moved_desc "เราได้ย้ายแท็บของคุณจากอุปกรณ์อื่นไปไว้ที่แผงบนหน้าแรกของคุณ ซึ่งสามารถเข้าถึงได้อย่างง่ายดายในทุกครั้งที่คุณเปิดแท็บใหม่">
+<!ENTITY remote_tabs_panel_moved_link "นำฉันไปที่แผงใหม่ของฉัน">
 
 <!ENTITY pin_site_dialog_hint "ระบุคำค้น">
 
@@ -466,7 +478,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY loaded_tracking_content_message_top "การป้องกันการติดตามถูกปิดแล้ว">
 <!ENTITY loaded_tracking_content_message_bottom "มีบางส่วนในหน้านี้อาจติดตามกิจกรรมออนไลน์ของคุณ">
 <!ENTITY blocked_tracking_content_message_top2 "เปิดการป้องกันการติดตามแล้ว">
-
+<!ENTITY blocked_tracking_content_message_bottom2 "ส่วนของหน้าที่ติดตามกิจกรรมออนไลน์ของคุณถูกปิดกั้น">
 <!-- Common mixed and tracking content strings in site identity popup -->
 
 <!ENTITY learn_more "เรียนรู้เพิ่ม">
