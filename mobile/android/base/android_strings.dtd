@@ -173,8 +173,10 @@
 <!ENTITY pref_cookies_not_accept_foreign "Povolit mimo 3. stran">
 <!ENTITY pref_cookies_disabled "Zakázat">
 
+<!ENTITY pref_tracking_protection_title "Ochrana proti sledování">
+<!ENTITY pref_tracking_protection_summary "&brandShortName; zamezí stránkám, aby vás sledovaly">
 <!ENTITY pref_donottrack_title "Funkce Do not track">
-<!ENTITY pref_donottrack_summary "&brandShortName; požádá webové stránky, aby nesledovali vaši aktivitu">
+<!ENTITY pref_donottrack_summary "&brandShortName; požádá webové stránky, aby nesledovaly vaši aktivitu">
 
 <!ENTITY pref_char_encoding "Znaková sada">
 <!ENTITY pref_char_encoding_on "Zobrazit nabídku">
@@ -429,9 +431,10 @@ size. -->
 <!ENTITY home_remote_tabs_title "Synchronizované panely">
 <!ENTITY home_remote_tabs_empty "Zde se zobrazují vaše panely z jiných zařízení.">
 <!ENTITY home_remote_tabs_unable_to_connect "Nepodařilo se připojit">
-<!ENTITY home_remote_tabs_need_to_sign_in "Přihlaste se prosím, abyste se znovu připojili ke svému Účtu Firefox a mohli tak pokračovat v synchronizaci.">
+<!ENTITY home_remote_tabs_need_to_sign_in "Přihlaste se prosím, abyste se znovu připojili ke svému účtu Firefox Account a mohli tak pokračovat v synchronizaci.">
+<!ENTITY home_remote_tabs_need_to_finish_migrating "Váš nový účet Firefox Account je připraven!">
 <!ENTITY home_remote_tabs_trouble_verifying "Problém s ověřením svého účtu?">
-<!ENTITY home_remote_tabs_need_to_verify "Pro začátek synchronizace ověřte prosím svůj Účet Firefox.">
+<!ENTITY home_remote_tabs_need_to_verify "Pro začátek synchronizace ověřte prosím svůj účet Firefox Account.">
 
 <!ENTITY home_remote_tabs_one_hidden_device "Skryté zařízení: 1">
 <!-- Localization note (home_remote_tabs_many_hidden_devices) : The
