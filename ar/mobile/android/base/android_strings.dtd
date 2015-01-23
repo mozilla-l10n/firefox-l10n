@@ -6,9 +6,10 @@
 <!ENTITY  no_space_to_start_error "لا يوجد مساحة تكفي لتشغيل &brandShortName;.">
 <!ENTITY  error_loading_file "حصل خطأ عند محاولة تحميل الملفات لتشغيل &brandShortName;">
 
-
-
-
+<!ENTITY  onboard_start_message "مرحبًا بك مع &brandShortName;">
+<!ENTITY  onboard_start_subtext "مُلتزمون اتجاهك، اتجاه خصوصيتك و اتجاه وب مفتوح">
+<!ENTITY  onboard_start_button_account "سجّل دخولك إلى &brandShortName;">
+<!ENTITY  onboard_start_button_browser "ابدأ التصفح">
 <!-- Localization note: These are used as the titles of different pages on the home screen.
      They are automatically converted to all caps by the Android platform. -->
 
@@ -38,7 +39,9 @@
 
 <!ENTITY choose_file "اختر ملفًا">
 
+<!ENTITY url_bar_default_text2 "ابحث أو أدخل عنوانا">
 
+<!ENTITY bookmark "علامة">
 <!ENTITY bookmark_added "أُضيفت العلامة">
 <!ENTITY bookmark_removed "أُزيلت العلامة">
 <!ENTITY bookmark_updated "حُدّثت العلامة">
@@ -75,13 +78,13 @@
 <!ENTITY settings_title "الإعدادات">
 <!ENTITY pref_category_advanced "متقدّم">
 <!ENTITY pref_category_customize "خصّص">
-
+<!ENTITY pref_category_customize_summary "الرئيسية، و البحث، و الألسنة، و الاستيراد">
 <!-- Localization note (pref_category_language) : This is the preferences
      section in which the user picks the locale in which to display Firefox
      UI. The locale includes both language and region concepts. -->
 
 <!ENTITY pref_category_language "اللغة">
-
+<!ENTITY pref_category_language_summary "غيّر لغة المتصفح">
 <!ENTITY pref_browser_locale "لغة المتصفّح">
 <!-- Localization note (locale_system_default) : This string indicates that
      Firefox will use the locale currently selected in Android's settings
@@ -91,29 +94,35 @@
 <!-- Localization note (overlay_share_label) : This is the label that appears
      in Android's intent chooser when sending a link to Firefox to bookmark,
      send to another device, or add to Reading List. -->
+
+<!ENTITY overlay_share_label "أضِف إلى &brandShortName;">
 <!-- Localization note (overlay_share_bookmark_btn_label) : This string is
      used in the share overlay menu to select an action. It is the verb
      "to bookmark", not the noun "a bookmark". -->
+
+<!ENTITY overlay_share_bookmark_btn_label "علّم">
 <!ENTITY overlay_share_reading_list_btn_label "أضِف إلى قائمة القراءة">
-
-
-
+<!ENTITY overlay_share_bookmark_btn_label_already "مُعلّم من قبل">
+<!ENTITY overlay_share_reading_list_btn_label_already "موجود في قائمة القراءة">
+<!ENTITY overlay_share_send_other "أرسله إلى أجهزة أخرى">
 <!-- Localization note (overlay_share_send_tab_btn_label) : Used on the
      share overlay menu to represent the "Send Tab" action when the user
      either has not set up Sync, or has no other devices to send a tab
      to. -->
 
-
-
+<!ENTITY overlay_share_send_tab_btn_label "أرسله إلى جهاز آخر">
+<!ENTITY overlay_share_no_url "لا يُوجد رَابط في هذه المُشاركة">
+<!ENTITY overlay_share_retry "أعِد المحاولة">
+<!ENTITY overlay_share_select_device "حدد الجهاز">
 
 <!ENTITY pref_category_search3 "ابحث">
 <!ENTITY pref_category_search_summary "خصص مزودي البحث">
 <!ENTITY pref_category_display "العرض">
-
+<!ENTITY pref_category_display_summary "النص، و شريط العنوان، و التصفح في ملء الشاشة">
 <!ENTITY pref_category_privacy_short "الخصوصية">
-
+<!ENTITY pref_category_privacy_summary "تحكم في كلمات السر، و الكعكات، و التعقّب، و البيانات">
 <!ENTITY pref_category_vendor "&vendorShortName;">
-
+<!ENTITY pref_category_vendor_summary "عن &brandShortName;، و الأسئلة الشائعة، و اختيارات البيانات">
 <!ENTITY pref_category_datareporting "اختيارات البيانات">
 <!ENTITY pref_learn_more "اطّلع على المزيد">
 <!ENTITY pref_category_installed_search_engines "محركات البحث المُثبّتة">
@@ -163,17 +172,18 @@
 <!ENTITY pref_cookies_not_accept_foreign "مفعّلة، باستثناء الأطراف الخارجية">
 <!ENTITY pref_cookies_disabled "مُعطّلة">
 
-
-
-
+<!ENTITY pref_tracking_protection_title "الحماية من التعقّب">
+<!ENTITY pref_tracking_protection_summary "سيمنع &brandShortName; المواقع من تعقّبك">
+<!ENTITY pref_donottrack_title "لا تتعقبني">
+<!ENTITY pref_donottrack_summary "سيُخبر &brandShortName; المواقع أنك لا تريدها أن تتعقبك">
 
 <!ENTITY pref_char_encoding "ترميز المحارف">
 <!ENTITY pref_char_encoding_on "أظهر القائمة">
 <!ENTITY pref_char_encoding_off "لا تُظهر القائمة">
 <!ENTITY pref_clear_private_data2 "امسح الان">
 <!ENTITY pref_clear_private_data_category "امسح البيانات الخاصة">
-
-
+<!ENTITY pref_clear_on_exit_title2 "امسح عند الخروج">
+<!ENTITY pref_clear_on_exit_summary2 "سيمسح &brandShortName; بياناتك تلقائيًا عند اختيارك \&quot;أغلق\&quot; من القائمة الرئيسية">
 <!ENTITY pref_clear_on_exit_dialog_title "اختر البيانات التي ستُمسح">
 <!ENTITY pref_plugins "الملحقات">
 <!ENTITY pref_plugins_enabled "مفعّلة">
@@ -201,14 +211,15 @@ size. -->
 
 <!ENTITY pref_font_size_preview_text "صِفْ خَلْقَ خَوْدٍ كَمِثْلِ ٱلشَّمْسِ إِذْ بَزَغَتْ يَحْظَىٰ ٱلضَّجِيعُ بِهَا نَجْلَاءَ مِعْطَارِ.">
 
-
+<!ENTITY pref_media_autoplay_enabled "اسمح بالتشغيل التلقائي">
+<!ENTITY pref_media_autoplay_enabled_summary "تحكم في السماح للمواقع بتشغيل الفديو و غيره من الوسائط تلقائيا">
 
 <!ENTITY pref_use_master_password "استخدم كلمة سر رئيسة">
 <!ENTITY pref_sync "تزامُن">
-
+<!ENTITY pref_sync_summary "زامن الألسنة، و العلامات، و كلمات السر، و التأريخ">
 <!ENTITY pref_search_suggestions "اعرض اقتراحات البحث">
 <!ENTITY pref_import_android "استورد من أندرويد">
-
+<!ENTITY pref_import_android_summary "استورد العلامات و تأريخ التصفح من المتصفح الأصلي">
 <!ENTITY pref_private_data_history2 "تأريخ التصفح">
 <!ENTITY pref_private_data_formdata "تأريخ البحث و النماذج">
 <!ENTITY pref_private_data_cookies2 "الكعكات و الولوجات النشطة">
@@ -293,7 +304,7 @@ size. -->
 <!ENTITY tabs_private "خاص">
 <!ENTITY tabs_synced "مُزامَن">
 <!ENTITY set_image_fail "تعذر استخدام الصورة">
-
+<!ENTITY set_image_path_fail "تعذر حفظ الصورة">
 <!ENTITY set_image_chooser_title "استخدم الصورة ك‍">
 <!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
@@ -304,6 +315,8 @@ size. -->
 <!ENTITY find_close "أغلق">
 <!-- Localization note (media_sending_to, media_play, media_pause, media_stop) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
+
+<!ENTITY media_sending_to "يُرسل إلى جهاز">
 <!ENTITY media_play "شغّل">
 <!ENTITY media_pause "ألبِث">
 <!ENTITY media_stop "أوقف">
@@ -330,6 +343,8 @@ size. -->
 <!-- Localization note (pref_scroll_title_bar2): Label for setting that controls
      whether or not the dynamic toolbar is enabled. -->
 
+<!ENTITY pref_scroll_title_bar2 "التصفح في كل الشاشة">
+<!ENTITY pref_scroll_title_bar_summary "أخف شريط عنوان &brandShortName; عند تمرير الصفحة لأسفل">
 <!-- Localization note (page_removed): This string appears in a toast message when
      any page is removed frome about:home. This includes pages that are in history,
      bookmarks, or reading list. -->
@@ -354,6 +369,8 @@ size. -->
      panel on the home page to give the user an estimate of how many minutes it will take to
      read an article. The word "minute" should be abbreviated if possible. -->
 
+<!ENTITY reading_list_time_minutes2 "&formatD; دقيقة">
+<!ENTITY reading_list_time_over_an_hour "أكثر من ساعة">
 <!-- Localization note : These strings are used as alternate text for accessibility.
      They are not visible in the UI. -->
 
@@ -378,6 +395,8 @@ size. -->
 <!ENTITY home_top_sites_add "أضف موقعًا">
 <!-- Localization note (home_title): This string should be kept in sync
      with the page title defined in aboutHome.dtd -->
+
+<!ENTITY home_title "صفحة &brandShortName; الرئيسية">
 <!ENTITY home_history_title "التأريخ">
 <!ENTITY home_clear_history_button "امسح تأريخ التصفح">
 <!ENTITY home_clear_history_confirm "أمتأكد من أنك تريد مسح التأريخ؟">
@@ -389,6 +408,7 @@ size. -->
 <!ENTITY home_most_recent_empty "آخر المواقع التي زُرتها تظهر هنا.">
 <!-- Localization note (home_most_recent_emptyhint2): "Psst" is a sound that might be used to attract someone's attention unobtrusively, and intended to hint at Private Browsing to the user.
      The placeholders &formatS1; and &formatS2; are used to mark the location of text underlining. -->
+<!ENTITY home_most_recent_emptyhint2 "تذكّر: استخدام &formatS1;لسان خاص جديد&formatS2; لن يحفظ تأريخ التصفح.">
 <!ENTITY home_reading_list_empty "المقالات التي تحفظها لقراءتها لاحقًا تظهر هنا.">
 <!-- Localization note (home_reading_list_hint): The "TIP" string is synonymous to "hint", "clue", etc. This string is displayed
      as an advisory message on how to add content to the reading list when the reading list empty.
@@ -408,7 +428,7 @@ size. -->
 <!ENTITY home_move_up_to_filter "انتقل أعلى إلى &formatS;">
 
 <!ENTITY home_remote_tabs_title "الألسنة المُزامنة">
-
+<!ENTITY home_remote_tabs_empty "تظهر ألسنتك من الأجهزة الأخرى هنا.">
 <!ENTITY home_remote_tabs_unable_to_connect "تعذر الاتصال">
 
 
