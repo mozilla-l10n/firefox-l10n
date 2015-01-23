@@ -9,7 +9,7 @@
 
 
 <!ENTITY  overridePageColors.always.label "Her zaman">
-
+<!ENTITY  overridePageColors.auto.label   "Yalnzıca yüksek karşıtlık temalarıyla">
 <!ENTITY  overridePageColors.never.label  "Asla">
 
 <!ENTITY  color                           "Metin ve arka plan">
