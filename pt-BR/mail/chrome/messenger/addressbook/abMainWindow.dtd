@@ -9,12 +9,12 @@
 <!ENTITY fileMenu.accesskey                             "A">
 <!ENTITY newMenu.label                                  "Novo">
 <!ENTITY newMenu.accesskey                              "N">
-<!ENTITY newContact.label                               "Contato de catálogo de endereços…">
+<!ENTITY newContact.label                               "Contato do catálogo de endereços…">
 <!ENTITY newContact.accesskey                           "C">
 <!ENTITY newContact.key                                 "n">
 <!ENTITY newListCmd.label                               "Lista de e-mails…">
 <!ENTITY newListCmd.accesskey                           "L">
-<!ENTITY newAddressBookCmd.label                        "Catálogo…">
+<!ENTITY newAddressBookCmd.label                        "Catálogo de endereços…">
 <!ENTITY newAddressBookCmd.accesskey                    "a">
 <!ENTITY newLDAPDirectoryCmd.label                      "Diretório LDAP…">
 <!ENTITY newLDAPDirectoryCmd.accesskey                  "D">

@@ -102,7 +102,7 @@
 <!ENTITY WorkZipCode.accesskey          "E">
 <!ENTITY WorkCountry.label              "País:">
 <!ENTITY WorkCountry.accesskey          "P">
-<!ENTITY WorkWebPage.label              "Endereço web:">
+<!ENTITY WorkWebPage.label              "Página da web:">
 <!ENTITY WorkWebPage.accesskey          "w">
 
 <!ENTITY Other.tab                      "Outros">
@@ -136,7 +136,7 @@
 <!ENTITY ICQ.accesskey                  "I">
 <!ENTITY XMPP.label                     "Usuário XMPP:">
 <!ENTITY XMPP.accesskey                 "X">
-<!ENTITY IRC.label                      "Apelido IRC:">
+<!ENTITY IRC.label                      "Apelido do IRC:">
 <!ENTITY IRC.accesskey                  "R">
 
 <!ENTITY Photo.tab                      "Foto">
