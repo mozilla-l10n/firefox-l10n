@@ -169,6 +169,9 @@
 <!ENTITY fxaccount_confirm_account_resend_email 'Znovu odeslat e-mail'>
 <!ENTITY fxaccount_confirm_account_verification_link_sent2 'E-mail s ověřením byl odeslán'>
 <!ENTITY fxaccount_confirm_account_verification_link_not_sent2 'Nepodařilo se odeslat e-mail pro ověření'>
+<!ENTITY fxaccount_resend_unlock_code_button_label 'Znovu odeslat e-mail pro odblokování'>
+<!ENTITY fxaccount_unlock_code_sent 'E-mail pro odblokování účtu byl odeslán'>
+<!ENTITY fxaccount_unlock_code_not_sent 'E-mail pro odblokování účtu nemohl být odeslán'>
 
 <!ENTITY fxaccount_sign_in_sub_header 'Přihlášení'>
 <!ENTITY fxaccount_sign_in_button_label 'Přihlásit'>
@@ -179,9 +182,15 @@
 <!ENTITY fxaccount_account_verified_sub_header 'Účet ověřen'>
 <!ENTITY fxaccount_account_verified_description2 'Vaše data se začnou brzy synchronizovat.'>
 
+<!ENTITY fxaccount_migration_finished_header 'Aktualizace dokončena'>
+
 <!ENTITY fxaccount_update_credentials_header 'Přihlášení'>
 <!ENTITY fxaccount_update_credentials_button_label 'Přihlásit'>
 <!ENTITY fxaccount_update_credentials_unknown_error 'Přihlášení se nezdařilo'>
+
+<!ENTITY fxaccount_finish_migrating_header 'Přihlášení pro dokončení aktualizace'>
+<!ENTITY fxaccount_finish_migrating_button_label 'Dokončení aktualizace'>
+<!ENTITY fxaccount_finish_migrating_description 'Aktualizace může přenášet velké množství dat. Je dobré být na Wi-fi připojení.'>
 
 <!ENTITY fxaccount_status_header2 'Firefox Account'>
 <!ENTITY fxaccount_status_signed_in_as 'Přihlášen(a) jako'>
@@ -196,7 +205,9 @@
 <!ENTITY fxaccount_status_needs_credentials 'Nepodařilo se připojit. Klepněte pro přihlášení.'>
 <!ENTITY fxaccount_status_needs_upgrade 'Pro přihlášení potřebujete aktualizovat &brandShortName;.'>
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled '&syncBrand.shortName.label; je nastaven, ale synchronizace není automatická. Zapněte automatickou synchronizaci dat v nastavení Androidu.'>
+<!ENTITY fxaccount_status_needs_master_sync_automatically_enabled_v21 '&syncBrand.shortName.label; je nastaven, ale synchronizace není automatická. Zapněte automatickou synchronizaci dat v nastavení Androidu.'>
 <!ENTITY fxaccount_status_needs_account_enabled '&syncBrand.shortName.label; je nastaven, ale synchronizace není automatická. Pro začátek synchronizace klepněte.'>
+<!ENTITY fxaccount_status_needs_finish_migrating 'Klepněte pro přihlášení do svého nového účtu Firefox Account.'>
 <!ENTITY fxaccount_status_bookmarks 'Záložky'>
 <!ENTITY fxaccount_status_history 'Historie'>
 <!ENTITY fxaccount_status_passwords 'Hesla'>
@@ -244,8 +255,14 @@
 <!ENTITY fxaccount_remote_error_SERVICE_TEMPORARILY_UNAVAILABLE_TO_DUE_HIGH_LOAD 'Server je zaneprázdněn, zkuste to za chvíli znovu'>
 <!ENTITY fxaccount_remote_error_UNKNOWN_ERROR 'Vyskytl se problém'>
 <!ENTITY fxaccount_remote_error_COULD_NOT_CONNECT 'Nepodařilo se připojit k síti'>
+<!ENTITY fxaccount_remote_error_ACCOUNT_LOCKED 'Účet je zablokován. &formatS1;'>
 
 <!ENTITY fxaccount_sync_sign_in_error_notification_title2 '&syncBrand.shortName.label; není připojen'>
 <!-- Localization note: the format string below will be replaced
      with the Firefox Account's email address. -->
 <!ENTITY fxaccount_sync_sign_in_error_notification_text2 'Klepněte pro přihlášení jako &formatS;'>
+
+<!ENTITY fxaccount_sync_finish_migrating_notification_title 'Dokončení aktualizace &syncBrand.shortName.label;?'>
+<!-- Localization note: the format string below will be replaced
+     with the Firefox Account's email address. -->
+<!ENTITY fxaccount_sync_finish_migrating_notification_text 'Klepněte pro přihlášení jako &formatS;'>
