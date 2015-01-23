@@ -62,9 +62,9 @@
 <!ENTITY lightning.imipbar.btnSaveCopy.label                                "Ruaj një kopje">
 <!ENTITY lightning.imipbar.btnSaveCopy.tooltiptext                          "Ruan te kalendari një kopje të veprimtarisë, pavarësisht përgjigjes për organizatorët. Lista e pjesëmarrësve do të fshihet.">
 <!ENTITY lightning.imipbar.btnTentative.label                               "">
-<!ENTITY lightning.imipbar.btnTentative2.tooltiptext                        "Accept event invitation tentatively">
-<!ENTITY lightning.imipbar.btnTentativeRecurrences.label                    "Tentative all">
-<!ENTITY lightning.imipbar.btnTentativeRecurrences2.tooltiptext             "Accept event invitation tentatively for all occurrences of the event">
+<!ENTITY lightning.imipbar.btnTentative2.tooltiptext                        "Prano përkohësisht ftesë veprimtarie">
+<!ENTITY lightning.imipbar.btnTentativeRecurrences.label                    "Të gjitha përkohësisht">
+<!ENTITY lightning.imipbar.btnTentativeRecurrences2.tooltiptext             "Prano përkohësisht ftesë veprimtarie për të gjitha përsëritjet e veprimtarisë">
 <!ENTITY lightning.imipbar.btnUpdate.label                                  "Përditësojeni">
 <!ENTITY lightning.imipbar.btnUpdate.tooltiptext                            "Përditësoni veprimtarinë te kalendari">
 <!ENTITY lightning.imipbar.description "Ky mesazh përmban ftesë për një veprimtari.">
