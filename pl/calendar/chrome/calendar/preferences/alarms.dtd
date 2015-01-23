@@ -2,11 +2,6 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!-- WARNING! This file contains UTF-8 encoded characters!
-   - If this ==> … <== doesn't look like an ellipsis (three dots in a row),
-   - your editor isn't using UTF-8 encoding and may munge up the document!
-  -->
-
 <!ENTITY pref.alarmgoesoff.label "Sygnalizacja przypomnień">
 <!ENTITY pref.playasound "Odtwórz dźwięk:">
 <!ENTITY pref.calendar.alarms.playsound.accessKey "O">
@@ -14,8 +9,8 @@
 <!ENTITY pref.calendar.alarms.sound.useDefault.accessKey "d">
 <!ENTITY pref.calendar.alarms.sound.browse.label "Przeglądaj…">
 <!ENTITY pref.calendar.alarms.sound.browse.accessKey "g">
-<!ENTITY pref.calendar.alarms.sound.preview.label "Odtwórz">
-<!ENTITY pref.calendar.alarms.sound.preview.accessKey "w">
+<!ENTITY pref.calendar.alarms.sound.play.label "Odtwórz">
+<!ENTITY pref.calendar.alarms.sound.play.accessKey "w">
 <!ENTITY pref.showalarmbox "Wyświetl okno przypomnienia">
 <!ENTITY pref.calendar.alarms.showAlarmBox.accessKey "k">
 <!ENTITY pref.missedalarms "Wyświetl opuszczone przypomnienia">
