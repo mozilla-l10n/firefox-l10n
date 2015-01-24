@@ -170,6 +170,9 @@
 <!ENTITY fxaccount_confirm_account_change_email 'Glem denne e-postadressen?'>
 <!ENTITY fxaccount_confirm_account_verification_link_sent2 'E-postbekreftelse sendt'>
 <!ENTITY fxaccount_confirm_account_verification_link_not_sent2 'Klarte ikke sende e-postbekreftelse'>
+<!ENTITY fxaccount_resend_unlock_code_button_label 'Send e-post for opplåsing igjen'>
+<!ENTITY fxaccount_unlock_code_sent 'E-post med kontoopplåsing sendt'>
+<!ENTITY fxaccount_unlock_code_not_sent 'Klarte ikke sende e-post med kontoopplåsing'>
 
 <!ENTITY fxaccount_sign_in_sub_header 'Logg inn'>
 <!ENTITY fxaccount_sign_in_button_label 'Logg inn'>
@@ -180,9 +183,15 @@
 <!ENTITY fxaccount_account_verified_sub_header 'Konto bekreftet'>
 <!ENTITY fxaccount_account_verified_description2 'Dine data vil starte synkronisering straks.'>
 
+<!ENTITY fxaccount_migration_finished_header 'Oppgradering fullført'>
+
 <!ENTITY fxaccount_update_credentials_header 'Logg inn'>
 <!ENTITY fxaccount_update_credentials_button_label 'Logg inn'>
 <!ENTITY fxaccount_update_credentials_unknown_error 'Klarte ikke logge inn'>
+
+<!ENTITY fxaccount_finish_migrating_header 'Logg inn for å fullføre oppgradering'>
+<!ENTITY fxaccount_finish_migrating_button_label 'Fullfør oppgradering'>
+<!ENTITY fxaccount_finish_migrating_description 'Oppgradering kan overføre mye data. Det er best å være på et WiFi-nettverk.'>
 
 <!ENTITY fxaccount_status_header2 'Firefox-konto'>
 <!ENTITY fxaccount_status_signed_in_as 'Logget inn som'>
@@ -197,7 +206,9 @@
 <!ENTITY fxaccount_status_needs_credentials 'Klarte ikke koble til. Trykk for å logge inn.'>
 <!ENTITY fxaccount_status_needs_upgrade 'Du må oppgradere &brandShortName; for å logge inn.'>
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled '&syncBrand.shortName.label; er satt opp, men synkroniserer ikke automatisk. Slå av/på “Auto-synkroniser data” i Android-innstillinger &gt; Databruk.'>
+<!ENTITY fxaccount_status_needs_master_sync_automatically_enabled_v21 '&syncBrand.shortName.label; er konfigurert, men synkroniserer ikke automatisk. Velg “Auto-synk data” i menyen Android-innstillinger &gt; Kontoer.'>
 <!ENTITY fxaccount_status_needs_account_enabled '&syncBrand.shortName.label; er satt opp, men synkroniserer ikke automatisk. Trykk for å starte synkronisering.'>
+<!ENTITY fxaccount_status_needs_finish_migrating 'Trykk for å logge inn med din nye Firefox-konto.'>
 <!ENTITY fxaccount_status_bookmarks 'Bokmerker'>
 <!ENTITY fxaccount_status_history 'Historikk'>
 <!ENTITY fxaccount_status_passwords 'Passord'>
@@ -245,8 +256,14 @@
 <!ENTITY fxaccount_remote_error_SERVICE_TEMPORARILY_UNAVAILABLE_TO_DUE_HIGH_LOAD 'Serveren er opptatt, prøv igjen snart'>
 <!ENTITY fxaccount_remote_error_UNKNOWN_ERROR 'Et problem oppstod'>
 <!ENTITY fxaccount_remote_error_COULD_NOT_CONNECT 'Klarte ikke koble til nettverket'>
+<!ENTITY fxaccount_remote_error_ACCOUNT_LOCKED 'Kontoen er låst. &formatS1;'>
 
 <!ENTITY fxaccount_sync_sign_in_error_notification_title2 '&syncBrand.shortName.label; er ikke tilkoblet'>
 <!-- Localization note: the format string below will be replaced
      with the Firefox Account's email address. -->
 <!ENTITY fxaccount_sync_sign_in_error_notification_text2 'Trykk for å logge inn som &formatS;'>
+
+<!ENTITY fxaccount_sync_finish_migrating_notification_title 'Fullfør oppgradering av &syncBrand.shortName.label;?'>
+<!-- Localization note: the format string below will be replaced
+     with the Firefox Account's email address. -->
+<!ENTITY fxaccount_sync_finish_migrating_notification_text 'Trykk for å logge inn som &formatS;'>
