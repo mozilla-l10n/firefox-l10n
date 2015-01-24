@@ -172,6 +172,8 @@
 <!ENTITY pref_cookies_not_accept_foreign "Påslått, med unntak for tredjeparts">
 <!ENTITY pref_cookies_disabled "Avslått">
 
+<!ENTITY pref_tracking_protection_title "Sporingsbeskyttelse">
+<!ENTITY pref_tracking_protection_summary "&brandShortName; vil forhindre nettsted fra å spore deg">
 <!ENTITY pref_donottrack_title "Ikke spor">
 <!ENTITY pref_donottrack_summary "&brandShortName; vil fortelle nettsted at du ikke ønsker å spores">
 
@@ -429,6 +431,8 @@ size. -->
 <!ENTITY home_remote_tabs_empty "Faner fra andre enheter vises her.">
 <!ENTITY home_remote_tabs_unable_to_connect "Klarte ikke koble til">
 <!ENTITY home_remote_tabs_need_to_sign_in "Logg inn for å koble til Firefox-kontoen din på nytt og fortsette synkronisering.">
+<!ENTITY home_remote_tabs_need_to_finish_migrating "Din nye Firefox-konto er klar!">
+
 <!ENTITY home_remote_tabs_trouble_verifying "Problem med bekreftelse av kontoen?">
 <!ENTITY home_remote_tabs_need_to_verify "Kontroller Firefox-kontoen din for å starte synkroniseringen.">
 
@@ -528,12 +532,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY updater_apply_title2 "Oppdatering tilgjengelig for &brandShortName;">
 <!ENTITY updater_apply_select2 "Trykk for å oppdatere">
-
-<!-- New tablet UI -->
-
-<!-- LOCALIZATION NOTE (new_tablet_restart): Notification displayed after the user toggles the new tablet UI in the settings screen.-->
-<!ENTITY new_tablet_restart "Start nettleseren på nytt for å ta i bruk endringene">
-<!ENTITY new_tablet_pref "Slå på nytt nettbrett-UI">
 
 <!-- Guest mode -->
 <!ENTITY new_guest_session "Ny gjesteøkt">
