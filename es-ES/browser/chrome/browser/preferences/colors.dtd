@@ -5,11 +5,11 @@
 <!ENTITY colorsDialog.title "Colores">
 <!ENTITY window.width "48em">
 <!ENTITY window.macWidth "49em">
-<!ENTITY allowPagesToUseColors.label "Permitir a las páginas elegir sus propios colores, en vez de mi selección anterior:">
-<!ENTITY allowPagesToUseColors.accesskey "S">
-<!ENTITY allowPagesToUseColors.automatic.label "Automático">
-<!ENTITY allowPagesToUseColors.always.label "Siempre">
-<!ENTITY allowPagesToUseColors.never.label "Nunca">
+<!ENTITY overridePageColors.label "Sustituir los colores especificados por la página con mis selecciones de arriba:">
+<!ENTITY overridePageColors.accesskey "a">
+<!ENTITY overridePageColors.always.label "Siempre">
+<!ENTITY overridePageColors.auto.label "Solo con temas de alto contraste">
+<!ENTITY overridePageColors.never.label "Nunca">
 <!ENTITY color "Texto y fondo">
 <!ENTITY textColor.label "Texto:">
 <!ENTITY textColor.accesskey "T">
