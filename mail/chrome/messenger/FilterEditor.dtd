@@ -22,6 +22,8 @@
 <!ENTITY contextAfterCls.label "Filtrar tras identificar el correo basura">
 <!ENTITY contextOutgoing.label "Tras enviar">
 <!ENTITY contextOutgoing.accesskey "T">
+<!ENTITY contextArchive.label "Archivado">
+<!ENTITY contextArchive.accesskey "c">
 <!ENTITY filterActionDesc.label "Realizar estas acciones:">
 <!ENTITY filterActionDesc.accesskey "R">
 <!ENTITY filterActionOrderWarning.label "Nota: las acciones del filtro se ejecutarán en un orden diferente.">
