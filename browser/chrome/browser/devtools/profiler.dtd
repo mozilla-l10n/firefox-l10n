@@ -11,8 +11,6 @@
 <!ENTITY profilerUI.importButton "Импорт…">
 <!ENTITY profilerUI.exportButton "Сохранить">
 <!ENTITY profilerUI.clearButton "Очистить">
-<!ENTITY profilerUI.invertTree "Инверсия дерева вызовов">
-<!ENTITY profilerUI.invertTree.tooltiptext "Инверсия дерева вызовов отображает профилированные пути вызовов, начиная от самых младших фреймов и расширяясь на старшие фреймы.">
 <!ENTITY profilerUI.table.totalDuration "Общее время (мс)">
 <!ENTITY profilerUI.table.selfDuration "Своё время (мс)">
 <!ENTITY profilerUI.table.totalPercentage "Общие затраты">
@@ -20,3 +18,6 @@
 <!ENTITY profilerUI.table.samples "Замеры">
 <!ENTITY profilerUI.table.function "Функция">
 <!ENTITY profilerUI.newtab.tooltiptext "Добавить из выбора новую вкладку">
+<!ENTITY profilerUI.options.tooltiptext "Установить настройки производительности.">
+<!ENTITY profilerUI.invertTree "Инверсия дерева вызовов">
+<!ENTITY profilerUI.invertTree.tooltiptext "Инверсия дерева вызовов отображает профилированные пути вызовов, начиная от самых младших фреймов и расширяясь на старшие фреймы.">
