@@ -39,6 +39,8 @@
 <!ENTITY runtimeMenu_showMonitor_accesskey "M">
 <!ENTITY runtimeMenu_showDevicePrefs_label "Preferencias de dispositivo">
 <!ENTITY runtimeMenu_showDevicePrefs_accesskey "D">
+<!ENTITY runtimeMenu_showSettings_label "Configuración de dispositivo">
+<!ENTITY runtimeMenu_showSettings_accesskey "f">
 <!ENTITY viewMenu_label "Ver">
 <!ENTITY viewMenu_accesskey "V">
 <!ENTITY viewMenu_toggleEditor_label "Alternar editor">
@@ -117,14 +119,20 @@
 <!ENTITY runtimedetails_restrictedPrivileges "Privilegios restringidos de DevTools: ">
 <!ENTITY runtimedetails_requestPrivileges "solicita más privilegios">
 <!ENTITY runtimedetails_privilegesWarning "(se reiniciará el dispositivo. Requiere acceso root).">
-<!ENTITY devicepreferences_title "Preferencias de dispositivo">
-<!ENTITY devicepreferences_search "Preferencias de búsqueda">
-<!ENTITY devicepreferences_newname "Nombre de la nueva preferencia">
-<!ENTITY devicepreferences_newtext "Valor de la preferencia">
-<!ENTITY devicepreferences_addnew "Añadir preferencia nueva">
-<!ENTITY devicepreferences_typeboolean "sí/no">
-<!ENTITY devicepreferences_typenumber "entero">
-<!ENTITY devicepreferences_typestring "cadena">
-<!ENTITY devicepreferences_typenone "Seleccione un tipo">
+<!ENTITY device_typeboolean "sí/no">
+<!ENTITY device_typenumber "Entero">
+<!ENTITY device_typestring "Cadena">
+<!ENTITY device_typeobject "Objeto">
+<!ENTITY device_typenone "Seleccione un tipo">
+<!ENTITY devicepreference_title "Preferencias de dispositivo">
+<!ENTITY devicepreference_search "Buscar preferencias">
+<!ENTITY devicepreference_newname "Nombre de la nueva preferencia">
+<!ENTITY devicepreference_newtext "Valor de la preferencia">
+<!ENTITY devicepreference_addnew "Añadir nueva preferencia">
+<!ENTITY devicesetting_title "Configuración de dispositivo">
+<!ENTITY devicesetting_search "Configuración de búsquedas">
+<!ENTITY devicesetting_newname "Nombre de nueva configuración">
+<!ENTITY devicesetting_newtext "Valor de configuración">
+<!ENTITY devicesetting_addnew "Añadir nueva configuración">
 <!ENTITY monitor_title "Monitor">
 <!ENTITY monitor_help "Ayuda">
