@@ -13,6 +13,10 @@
 <!ENTITY pref.dateformat.long "Longo" >
 <!ENTITY pref.dateformat.short "Curto"  >
 
+<!ENTITY pref.timezones.caption "Fuso horário">
+<!ENTITY pref.timezones.label "Selecione a cidade mais próxima do seu fuso horário:">
+<!ENTITY pref.timezones.accesskey "S">
+
 <!ENTITY pref.defaults.label "Valores pré-definidos para novos itens">
 <!ENTITY pref.events.label "Eventos">
 <!ENTITY pref.tasks.label "Tarefas">
