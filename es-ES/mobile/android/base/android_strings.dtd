@@ -148,6 +148,8 @@
 <!ENTITY pref_font_size_preview_text "El veloz zorro naranja supera sus expectativas con más velocidad, flexibilidad y seguridad. No tener ánimo de lucro nos hace libres de innovar para usted sin presiones ni compromisos. Esto quiere decir una mejor experiencia para usted y un mejor futuro para la web.">
 <!ENTITY pref_media_autoplay_enabled "Permitir autorreproducción">
 <!ENTITY pref_media_autoplay_enabled_summary "Controla si los sitios web pueden autorreproducir vídeos y otro contenido de medios">
+<!ENTITY pref_zoom_force_enabled "Activar siempre tamaño personalizado">
+<!ENTITY pref_zoom_force_enabled_summary "Forzar sobrescritura para que pueda variar el tamaño de cualquier página">
 <!ENTITY pref_use_master_password "Usar contraseña maestra">
 <!ENTITY pref_sync "Sync">
 <!ENTITY pref_sync_summary "Sincronizar sus pestañas, marcadores, contraseñas, historial">
