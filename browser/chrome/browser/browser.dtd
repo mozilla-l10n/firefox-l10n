@@ -293,8 +293,9 @@
 <!ENTITY searchFocus.commandkey "k">
 <!ENTITY searchFocus.commandkey2 "e">
 <!ENTITY searchFocusUnix.commandkey "j">
-<!ENTITY searchFor.label "Buscar:">
+<!ENTITY searchFor.label "Buscar ">
 <!ENTITY searchWith.label " con:">
+<!ENTITY searchWithHeader.label "Buscar con:">
 <!ENTITY changeSearchSettings.button "Cambiar configuración de búsqueda">
 <!ENTITY tabView.commandkey "e">
 <!ENTITY openLinkCmdInTab.label "Abrir enlace en una pestaña nueva">
