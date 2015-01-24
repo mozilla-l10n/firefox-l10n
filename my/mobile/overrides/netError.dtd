@@ -11,7 +11,7 @@
 
 
 <!ENTITY connectionFailure.title "ချိတ်ဆက်ဖို့ မအောင်မြင်ဘူး">
-
+<!ENTITY connectionFailure.longDesc2 "&sharedLongDesc3;">
 
 <!ENTITY deniedPortAccess.title "ဒီလိပ်စာကို တားမြစ်ထားသည်">
 <!ENTITY deniedPortAccess.longDesc "">
@@ -19,6 +19,18 @@
 <!ENTITY dnsNotFound.title "ဆာဗာကို မတွေ့ပါ">
 <!-- LOCALIZATION NOTE (dnsNotFound.longDesc4) This string contains markup including widgets for searching
      or enabling wifi connections. The text inside tags should be localized.  Do not change the ids. -->
+<!ENTITY dnsNotFound.longDesc4 "<ul> 
+<li>စာရိုက်မှားခြင်းအတွက် လိပ်စာကို စစ်ဆေးပါ။ အောက်ပါပုံစံအတိုင်း ဖြစ်နိုင်သည်။ 
+<strong>www</strong>.example.com ကို ရိုက်ရမည့်အစား</li> 
+<strong>ww</strong>.example.com  ကဲ့သို့ ရိုက်ထားခြင်း
+<div id='searchbox'> 
+<input id='searchtext' type='search'></input> 
+<button id='searchbutton'>Search</button> 
+</div> 
+<li>အကယ်၍ မည်သည့်စာမျက်နှာမျှ မဖော်ပြနိုင်လျှင် သင့်ကိရိယာ၏ data သို့မဟုတ် Wi-Fi ချိတ်ဆက်မှုကို စစ်ဆေးပါ။ 
+<button id='wifi'>Wi-Fi ကို ဖွင့်ရန်</button> 
+</li> 
+</ul>">
 
 <!ENTITY fileNotFound.title "ဖိုင် မတွေ့ရဘူး">
 <!ENTITY fileNotFound.longDesc "<ul> 
@@ -90,6 +102,12 @@
 <!ENTITY proxyResolveFailure.title "ကြားခံ ဆာဗာ မတွေ့ရဘူး။">
 <!-- LOCALIZATION NOTE (proxyResolveFailure.longDesc3) This string contains markup including widgets for enabling wifi connections.
      The text inside the tags should be localized. Do not touch the ids. -->
+<!ENTITY proxyResolveFailure.longDesc3 "<ul> 
+<li>ကြားခံဆောင်ရွက်မှု အပြင်အဆင်ကို မှန်/မမှန် စစ်ဆေးပါ။ </li> 
+<li>သင့်ကိရိယာတွင် data သို့မဟုတ် Wi-Fi ချိတ်ဆက်မှု ဆောင်ရွက်နိုင်ခြင်း ရှိ/မရှိ စစ်ဆေးပါ။
+<button id='wifi'>Wi-Fi ကို ဖွင့်ရန်</button> 
+</li> 
+</ul>">
 
 <!ENTITY redirectLoop.title "ပတ်လမ်း လမ်းလွှဲပေးပါ">
 <!ENTITY redirectLoop.longDesc "<ul> 
@@ -105,7 +123,7 @@
 </ul>">
 
 <!ENTITY nssFailure2.title "လုံခြုံတဲ့ ချိတ်ဆက်မှု ပျက်သွားတယ်">
-
+<!ENTITY nssFailure2.longDesc2 "<p>သင်ကြည့်ရန်ကြိုးစားနေသော စာမျက်နှာကို မဖော်ပြနိုင်ပါ။ အဘယ့်ကြောင့်ဆိုသော် လက်ခံရရှိထားသော အချက်အလက်၏ ထောက်ခံချက်ကို အတည်မပြုနိုင်သောကြောင့် ဖြစ်သည်။ </p><ul><li>ဒီပြဿနာကို အသိပေးရန် ကျေးဇူးပြု၍ ဝဘ်ဆိုဒ်ပိုင်ရှင်ထံသို့ ဆက်သွယ်ပါ</li></ul>">
 
 <!ENTITY nssBadCert.title "လုံခြုံတဲ့ ချိတ်ဆက်မှု ပျက်သွားတယ်">
 <!ENTITY nssBadCert.longDesc2 "<ul> 

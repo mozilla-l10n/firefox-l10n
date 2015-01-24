@@ -172,8 +172,9 @@
 <!ENTITY pref_cookies_not_accept_foreign "3rd ပါတီ ဆော့ဝဲများပါ ဖွင့်ထားပြီး">
 <!ENTITY pref_cookies_disabled "ပိတ်ထားတယ်">
 
-
-
+<!ENTITY pref_tracking_protection_title "ခြေရာခံခြင်း မှအကာအကွယ်">
+<!ENTITY pref_tracking_protection_summary "&brandShortName; သှ် ယခုဆိုဒ်မှ သင့်အားခြေရာခံခြင်းအား ကာကွယ်ပေးထားသှ်">
+<!ENTITY pref_donottrack_title "ခြေရာမခံပါနှင့်">
 
 
 
