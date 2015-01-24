@@ -118,7 +118,7 @@
 <!ENTITY pref_category_search3 "ค้นหา">
 <!ENTITY pref_category_search_summary "ปรับแต่งผู้จัดการค้นหาของคุณ">
 <!ENTITY pref_category_display "การแสดงผล">
-
+<!ENTITY pref_category_display_summary "ข้อความ แถบชื่อเรื่อง การท่องเว็บแบบเต็มจอ">
 <!ENTITY pref_category_privacy_short "ความเป็นส่วนตัว">
 <!ENTITY pref_category_privacy_summary "ควบคุมรหัสผ่าน คุกกี้ การติดตาม ข้อมูล">
 <!ENTITY pref_category_vendor "&vendorShortName;">
