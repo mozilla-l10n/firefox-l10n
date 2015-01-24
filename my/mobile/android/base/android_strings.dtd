@@ -175,9 +175,10 @@
 <!ENTITY pref_tracking_protection_title "ခြေရာခံခြင်း မှအကာအကွယ်">
 <!ENTITY pref_tracking_protection_summary "&brandShortName; သှ် ယခုဆိုဒ်မှ သင့်အားခြေရာခံခြင်းအား ကာကွယ်ပေးထားသှ်">
 <!ENTITY pref_donottrack_title "ခြေရာမခံပါနှင့်">
+<!ENTITY pref_donottrack_summary "&brandShortName; သှ် ဝတ်ဆိုဒ်များအား သင့်ကို ခြေရာမခံရန် ပြောပေးထားမည်ဖြစ်သှ်">
 
-
-
+<!ENTITY pref_char_encoding "အက္ခရာ စာဝှက်ရေးသားခြင်း">
+<!ENTITY pref_char_encoding_on "မီနူး စာရင်းပြပါ">
 
 
 
