@@ -3,22 +3,26 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY  fontsAndEncodingsDialog.title           "Tipos de letra e codificação">
-<!ENTITY  window.width                            "55em">
-<!ENTITY  window.macWidth                         "46em">
-<!ENTITY  window.unixWidth                        "46em">
+
 <!ENTITY  language.label                          "Tipo de letra para:">
 <!ENTITY  language.accesskey                      "T">
+
 <!ENTITY  size.label                              "Tamanho">
 <!ENTITY  proportionalSize.accesskey              "h">
 <!ENTITY  sizeMono.accesskey                      "n">
+
 <!ENTITY  proportional.label                      "Proporcional:">
 <!ENTITY  proportional.accesskey                  "P">
+
 <!ENTITY  serif.label                             "Serifa:">
 <!ENTITY  serif.accesskey                         "S">
+
 <!ENTITY  sans-serif.label                        "Sem serifa:">
 <!ENTITY  sans-serif.accesskey                    "m">
-<!ENTITY  monospace.label                         "Monoespaçada:">
+
+<!ENTITY  monospace.label                         "Monoespaço:">
 <!ENTITY  monospace.accesskey                     "M">
+
 <!ENTITY  font.langGroup.latin1                   "Ocidental">
 <!ENTITY  font.langGroup.latin2                   "Centro Europeu">
 <!ENTITY  font.langGroup.japanese                 "Japonês">
@@ -54,7 +58,7 @@
 
 <!-- default font type -->
 <!ENTITY  useDefaultFontSerif.label               "Serifa">
-<!ENTITY  useDefaultFontSansSerif.label           "Não serifa">
+<!ENTITY  useDefaultFontSansSerif.label           "Sem serifa">
 
 <!-- fonts in message -->
 <!ENTITY  fontControl.label                       "Controlo de letras">
@@ -68,6 +72,7 @@
 <!ENTITY sendDefaultCharset.accesskey            "v">
 <!ENTITY languagesTitle1.label            		 "Codificaçãos pré-definida">
 <!ENTITY composingDescription.label       		 "Defina a codificação pré-definida para receção e envio de mensagens.">
+
 <!ENTITY viewDefaultCharsetList.label     		 "Mensagens recebidas:">
 <!ENTITY viewDefaultCharsetList.accesskey  		 "a">
 <!ENTITY replyInDefaultCharset2.label     		 "Se possível, utilizar a codificação pré-definida nas respostas">
