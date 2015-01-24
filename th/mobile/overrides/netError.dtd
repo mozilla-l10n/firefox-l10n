@@ -32,7 +32,7 @@
 </li> 
 </ul>">
 
-<!ENTITY fileNotFound.title "ไม่พบไฟล์">
+<!ENTITY fileNotFound.title "ไม่พบแฟ้ม">
 <!ENTITY fileNotFound.longDesc "<ul> 
 <li>ตรวจสอบชื่อแฟ้ม ตัวเล็ก ตัวใหญ่ หรือตัวสะกดให้ถูกต้อง</li> 
 <li>ตรวจสอบว่าแฟ้มถูกย้าย เปลี่ยนชื่อ หรือถูกลบไปแล้วหรือไม่</li> 
