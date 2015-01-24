@@ -9,8 +9,8 @@
 <!ENTITY pref.calendar.alarms.sound.useDefault.accessKey "d">
 <!ENTITY pref.calendar.alarms.sound.browse.label "Examinar...">
 <!ENTITY pref.calendar.alarms.sound.browse.accessKey "x">
-<!ENTITY pref.calendar.alarms.sound.preview.label "Escuchar">
-<!ENTITY pref.calendar.alarms.sound.preview.accessKey "E">
+<!ENTITY pref.calendar.alarms.sound.play.label "Reproducir">
+<!ENTITY pref.calendar.alarms.sound.play.accessKey "e">
 <!ENTITY pref.showalarmbox "Mostrar la ventana de aviso">
 <!ENTITY pref.calendar.alarms.showAlarmBox.accessKey "M">
 <!ENTITY pref.missedalarms "Mostrar avisos vencidos">
