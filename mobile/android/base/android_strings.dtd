@@ -135,6 +135,7 @@
      search providers.
      The &formatI; in the string will be replaced by a small image of the icon described, and can be moved to wherever
      it is applicable. -->
+<!ENTITY pref_search_hint "เคล็ดลับ: เพิ่มเว็บไซต์ใดๆ เข้าในรายการผู้ให้บริการค้นหาของคุณ โดยการแตะค้างบนช่องค้นหาเว็บไซต์ จากนั้นแตะที่ไอคอน &formatI;">
 <!ENTITY pref_category_devtools "เครื่องมือนักพัฒนา">
 
 
@@ -153,7 +154,7 @@
 <!ENTITY pref_category_home_content_settings "ตั้งค่าเนื้อหา">
 <!ENTITY pref_home_updates "การปรับรุ่นอัตโนมัติ">
 <!ENTITY pref_home_updates_enabled "ถูกเปิดใช้งาน">
-
+<!ENTITY pref_home_updates_wifi "เฉพาะบน Wi-Fi">
 <!ENTITY pref_home_suggested_sites "แสดงคำแนะนำเว็บไซต์">
 <!ENTITY pref_home_suggested_sites_summary "แสดงทางลัดไปยังไซต์บนโฮมเพจของคุณที่เราคาดว่าคุณน่าจะพบสิ่งที่น่าสนใจ">
 <!-- Localization note: These are shown in the left sidebar on tablets -->
@@ -273,7 +274,7 @@ size. -->
      specifically, since the pref only prevents automatic downloads and not the
      actual notification that an update is available. -->
 <!ENTITY pref_update_autodownload2 "ดาวน์โหลดการปรับปรุงโดยอัตโนมัติ">
-
+<!ENTITY pref_update_autodownload_wifi "เฉพาะบน Wi-Fi">
 <!ENTITY pref_update_autodownload_never "ไม่ต้อง">
 <!ENTITY pref_update_autodownload_always "เปิดใช้เสมอ">
 <!-- Localization note (help_menu) : This string is used in the main menu-->
