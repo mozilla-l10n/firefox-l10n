@@ -14,8 +14,8 @@
 <!ENTITY pref.calendar.alarms.sound.useDefault.accessKey "s">
 <!ENTITY pref.calendar.alarms.sound.browse.label "Durchsuchen…">
 <!ENTITY pref.calendar.alarms.sound.browse.accessKey "D">
-<!ENTITY pref.calendar.alarms.sound.preview.label "Vorschau">
-<!ENTITY pref.calendar.alarms.sound.preview.accessKey "V">
+<!ENTITY pref.calendar.alarms.sound.play.label "Abspielen">
+<!ENTITY pref.calendar.alarms.sound.play.accessKey "b">
 <!ENTITY pref.showalarmbox "Den Erinnerungen-Dialog anzeigen">
 <!ENTITY pref.calendar.alarms.showAlarmBox.accessKey "n">
 <!ENTITY pref.missedalarms "Versäumte Erinnerungen anzeigen">
