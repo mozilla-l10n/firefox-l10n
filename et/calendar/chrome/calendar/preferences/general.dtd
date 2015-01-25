@@ -13,6 +13,10 @@
 <!ENTITY pref.dateformat.long "pikk" >
 <!ENTITY pref.dateformat.short "lühike"  >
 
+<!ENTITY pref.timezones.caption "Ajavöönd">
+<!ENTITY pref.timezones.label "Vali oma ajavööndi lähim linn:">
+<!ENTITY pref.timezones.accesskey "a">
+
 <!ENTITY pref.defaults.label "Vaikimisi väärtused">
 <!ENTITY pref.events.label "Sündmused">
 <!ENTITY pref.tasks.label "Ülesanded">
