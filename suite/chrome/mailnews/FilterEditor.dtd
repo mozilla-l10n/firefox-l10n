@@ -24,7 +24,9 @@
 <!ENTITY contextManual.label "Manuell körning">
 <!ENTITY contextManual.accesskey "M">
 <!ENTITY contextBeforeCls.label "Filtrera före skräppostklassificering">
-<!ENTITY contextAfterCls.label "Filterera efter skröppostklassificering">
+<!ENTITY contextAfterCls.label "Filterera efter skräppostklassificering">
+<!ENTITY contextOutgoing.label "Efter att ha skickat">
+<!ENTITY contextOutgoing.accesskey "E">
 
 <!ENTITY filterActionDesc.label "Gör följande:">
 <!ENTITY filterActionDesc.accesskey "G">
