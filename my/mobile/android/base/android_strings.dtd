@@ -179,10 +179,10 @@
 
 <!ENTITY pref_char_encoding "အက္ခရာ စာဝှက်ရေးသားခြင်း">
 <!ENTITY pref_char_encoding_on "မီနူး စာရင်းပြပါ">
-
-
-
-
+<!ENTITY pref_char_encoding_off "မီနူးအား မပြပါနှင့်">
+<!ENTITY pref_clear_private_data2 "အခုရှင်းပါ">
+<!ENTITY pref_clear_private_data_category "တစ်ကိုယ်ရေသုံး အချက်အလက်များ ရှင်းပါ">
+<!ENTITY pref_clear_on_exit_title2 "ထွက်ပါက ရှင်းပါ">
 
 
 <!ENTITY pref_plugins "ပလပ်အင်">
