@@ -41,6 +41,8 @@
 <!ENTITY runtimeMenu_showMonitor_accesskey "M">
 <!ENTITY runtimeMenu_showDevicePrefs_label "Nastavenia zariadenia">
 <!ENTITY runtimeMenu_showDevicePrefs_accesskey "z">
+<!ENTITY runtimeMenu_showSettings_label "Nastavenia zariadenia">
+<!ENTITY runtimeMenu_showSettings_accesskey "z">
 
 <!ENTITY viewMenu_label "Zobraziť">
 <!ENTITY viewMenu_accesskey "Z">
@@ -147,16 +149,26 @@
 <!ENTITY runtimedetails_requestPrivileges "vyžiadať vyššie oprávnenia">
 <!ENTITY runtimedetails_privilegesWarning "(reštartuje zariadenie. Vyžaduje root práva.)">
 
+<!-- Device Preferences and Settings -->
+<!ENTITY device_typeboolean "Logická">
+<!ENTITY device_typenumber "Celé číslo">
+<!ENTITY device_typestring "Reťazec">
+<!ENTITY device_typeobject "Objekt">
+<!ENTITY device_typenone "Zvoľte typ">
+
 <!-- Device Preferences -->
-<!ENTITY devicepreferences_title "Nastavenia zariadenia">
-<!ENTITY devicepreferences_search "Hľadať v nastaveniach">
-<!ENTITY devicepreferences_newname "Názov novej predvoľby">
-<!ENTITY devicepreferences_newtext "Hodnota predvoľby">
-<!ENTITY devicepreferences_addnew "Pridať novú predvoľbu">
-<!ENTITY devicepreferences_typeboolean "Logická">
-<!ENTITY devicepreferences_typenumber "Celé číslo">
-<!ENTITY devicepreferences_typestring "Reťazec">
-<!ENTITY devicepreferences_typenone "Zvoľte typ">
+<!ENTITY devicepreference_title "Nastavenia zariadenia">
+<!ENTITY devicepreference_search "Hľadať v nastaveniach">
+<!ENTITY devicepreference_newname "Názov novej predvoľby">
+<!ENTITY devicepreference_newtext "Hodnota predvoľby">
+<!ENTITY devicepreference_addnew "Pridať novú predvoľbu">
+
+<!-- Device Settings -->
+<!ENTITY devicesetting_title "Nastavenia zariadenia">
+<!ENTITY devicesetting_search "Hľadať v nastaveniach">
+<!ENTITY devicesetting_newname "Názov novej predvoľby">
+<!ENTITY devicesetting_newtext "Hodnota predvoľby">
+<!ENTITY devicesetting_addnew "Pridať novú predvoľbu">
 
 <!-- Monitor -->
 <!ENTITY monitor_title "Monitor">
