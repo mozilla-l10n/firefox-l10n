@@ -7,6 +7,8 @@
 <!ENTITY index.device2 "Enhet">
 <!ENTITY index.help "Hjälp">
 
+<!ENTITY device.debugMainProcess "Felsök huvudprocessen">
+<!ENTITY device.debugMainProcessTooltip "Öppna utvecklarverktygen anslutna till huvudprocessen på enheten">
 <!ENTITY device.screenshot "Skärmdump">
 <!ENTITY device.screenshotTooltip "Öppnar en skärmdump av aktuell enhetsstatus i en ny flik">
 <!ENTITY device.title "Kontrollpanel för enheter">
