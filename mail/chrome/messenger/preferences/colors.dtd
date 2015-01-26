@@ -9,7 +9,7 @@
 
 
 <!ENTITY  overridePageColors.always.label "Sempre">
-
+<!ENTITY  overridePageColors.auto.label   "Somente com temas de alto contraste">
 <!ENTITY  overridePageColors.never.label  "Nunca">
 
 <!ENTITY  color                           "Cores padrão">
