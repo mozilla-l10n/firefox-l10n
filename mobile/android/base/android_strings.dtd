@@ -44,7 +44,7 @@
 <!ENTITY bookmark "ที่คั่นหน้า">
 <!ENTITY bookmark_added "เพิ่มที่คั่นหน้าแล้ว">
 <!ENTITY bookmark_removed "ลบที่คั่นหน้าแล้ว">
-<!ENTITY bookmark_updated "แก้ไขที่คั่นหน้าแล้ว">
+<!ENTITY bookmark_updated "ปรับปรุงที่คั่นหน้าแล้ว">
 <!ENTITY bookmark_options "ตัวเลือก">
 
 <!ENTITY history_today_section "วันนี้">
@@ -122,7 +122,7 @@
 <!ENTITY pref_category_privacy_short "ความเป็นส่วนตัว">
 <!ENTITY pref_category_privacy_summary "ควบคุมรหัสผ่าน คุกกี้ การติดตาม ข้อมูล">
 <!ENTITY pref_category_vendor "&vendorShortName;">
-
+<!ENTITY pref_category_vendor_summary "เกี่ยวกับ &brandShortName; FAQs ตัวเลือกข้อมูล">
 <!ENTITY pref_category_datareporting "ตัวเลือกข้อมูล">
 <!ENTITY pref_learn_more "เรียนรู้เพิ่ม">
 <!ENTITY pref_category_installed_search_engines "เครื่องมือค้นหาที่ติดตั้งไว้">
@@ -173,7 +173,7 @@
 <!ENTITY pref_cookies_disabled "ปิดใช้งาน">
 
 <!ENTITY pref_tracking_protection_title "ป้องกันการติดตาม">
-
+<!ENTITY pref_tracking_protection_summary "&brandShortName; จะป้องกันเว็บไซต์จากการติดตามคุณ">
 <!ENTITY pref_donottrack_title "ไม่ต้องติดตามการเชื่อมต่อ">
 <!ENTITY pref_donottrack_summary "&brandShortName; จะบอกไซต์ที่คุณไม่ต้องการถูกติดตาม">
 
@@ -183,7 +183,7 @@
 <!ENTITY pref_clear_private_data2 "ล้างทันที">
 <!ENTITY pref_clear_private_data_category "ล้างข้อมูลส่วนตัว">
 <!ENTITY pref_clear_on_exit_title2 "ล้างเมื่อออก">
-
+<!ENTITY pref_clear_on_exit_summary2 "&brandShortName; จะล้างข้อมูลของคุณโดยอัตโนมัติเมื่อใดก็ตามที่คุณเลือก \u0022ออก\u0022 จากเมนูหลัก">
 <!ENTITY pref_clear_on_exit_dialog_title "เลือกข้อมูลที่ต้องการล้าง">
 <!ENTITY pref_plugins "โปรแกรมเสริม">
 <!ENTITY pref_plugins_enabled "เปิดใช้งาน">
@@ -269,7 +269,7 @@ size. -->
      (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
 <!ENTITY datareporting_crashreporter_title_short "ตัวรายงานข้อขัดข้อง">
 <!ENTITY datareporting_wifi_title2 "บริการแจ้งตำแหน่ง &vendorShortName;">
-
+<!ENTITY datareporting_wifi_geolocation_summary2 "แบ่งปันตำแหน่ง Wi-Fi และโครงข่ายมือถือโดยใกล้เคียงจากอุปกรณ์ของคุณกับ &vendorShortName; เพื่อปรับปรุงบริการหาตำแหน่งของเรา">
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
      actual notification that an update is available. -->
@@ -343,6 +343,8 @@ size. -->
 <!-- Localization note (pref_scroll_title_bar2): Label for setting that controls
      whether or not the dynamic toolbar is enabled. -->
 
+<!ENTITY pref_scroll_title_bar2 "การท่องเว็บแบบเต็มจอ">
+<!ENTITY pref_scroll_title_bar_summary "ซ่อนแถบชื่อเรื่อง &brandShortName; เมื่อเลื่อนหน้าลงมา">
 <!-- Localization note (page_removed): This string appears in a toast message when
      any page is removed frome about:home. This includes pages that are in history,
      bookmarks, or reading list. -->
@@ -367,6 +369,8 @@ size. -->
      panel on the home page to give the user an estimate of how many minutes it will take to
      read an article. The word "minute" should be abbreviated if possible. -->
 
+<!ENTITY reading_list_time_minutes2 "&formatD; นาที">
+<!ENTITY reading_list_time_over_an_hour "มากกว่าหนึ่งชั่วโมง">
 <!-- Localization note : These strings are used as alternate text for accessibility.
      They are not visible in the UI. -->
 
@@ -404,6 +408,7 @@ size. -->
 <!ENTITY home_most_recent_empty "เว็บไซต์ที่คุณเพิ่งเข้าล่าสุดจะแสดงอยู่ตรงนี้">
 <!-- Localization note (home_most_recent_emptyhint2): "Psst" is a sound that might be used to attract someone's attention unobtrusively, and intended to hint at Private Browsing to the user.
      The placeholders &formatS1; and &formatS2; are used to mark the location of text underlining. -->
+<!ENTITY home_most_recent_emptyhint2 "หมายเหตุ: การใช้&formatS1;แท็บส่วนตัวใหม่&formatS2;จะไม่บันทึกประวัติของคุณ">
 <!ENTITY home_reading_list_empty "บทความที่คุณบันทึกไว้อ่านทีหลังจะแสดงอยู่ตรงนี้">
 <!-- Localization note (home_reading_list_hint): The "TIP" string is synonymous to "hint", "clue", etc. This string is displayed
      as an advisory message on how to add content to the reading list when the reading list empty.
