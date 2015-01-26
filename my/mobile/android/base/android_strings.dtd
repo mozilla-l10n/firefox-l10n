@@ -211,8 +211,10 @@ size. -->
 
 <!ENTITY pref_font_size_preview_text "The quick orange fox jumps over your expectations with more speed, more flexibility and more security. As a non-profit, we\u0027re free to innovate on your behalf without any pressure to compromise. That means a better experience for you and a brighter future for the Web.">
 
+<!ENTITY pref_media_autoplay_enabled "အလိုအလျောက်ပြသခြင်း ခွင့်ပြုပါ">
+<!ENTITY pref_media_autoplay_enabled_summary "ဝတ်ဆိုဒ်များမှ အလိုအလျောက် မီဒီယာ သို့ ရုရှင်များအား အလိုအလျောက်ပြသခွင့်ရှိမရှိ သတ်မှတ်ပါ">
 
-
+<!ENTITY pref_use_master_password "ပင်မ စကားဝှက်တခု သုံးစွဲပါ။">
 <!ENTITY pref_sync "ထပ်တူပြုပြိုင်တူအသုံးပြုခြင်း">
 
 
