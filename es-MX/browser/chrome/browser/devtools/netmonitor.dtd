@@ -213,6 +213,8 @@
 <!ENTITY netmonitorUI.security.hsts "Seguridad de transporte HTTP estricta:">
 <!-- LOCALIZATION NOTE (netmonitorUI.security.hpkp): This is the label displayed
   -  in the security tab describing the usage of Public Key Pinning. -->
+
+<!ENTITY netmonitorUI.security.hpkp "Fijado (Pinning) de clave pública:">
 <!-- LOCALIZATION NOTE (netmonitorUI.security.connection): This is the label displayed
   -  in the security tab describing the section containing information related to
   -  the secure connection. -->
