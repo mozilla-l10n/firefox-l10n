@@ -215,6 +215,7 @@
 <!ENTITY fxaccount_status_needs_credentials 'Connexion impossible. Appuyez pour vous connecter.'>
 <!ENTITY fxaccount_status_needs_upgrade 'Vous devez mettre à jour &brandShortName; pour vous connecter.'>
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled '&syncBrand.shortName.label; est configuré, mais la synchronisation automatique est désactivée. Cochez « Synchronisation automatique » dans Paramètres Android &gt; Consommation des données.'>
+<!ENTITY fxaccount_status_needs_master_sync_automatically_enabled_v21 '&syncBrand.shortName.label; est configuré, mais la synchronisation automatique est désactivée. Cochez « Synchronisation automatique » dans Paramètres Android &gt; Comptes.'>
 <!ENTITY fxaccount_status_needs_account_enabled '&syncBrand.shortName.label; est configuré, mais la synchronisation automatique est désactivée. Appuyez pour lancer la synchronisation.'>
 <!ENTITY fxaccount_status_needs_finish_migrating 'Appuyez pour vous connecter à votre nouveau compte Firefox.'>
 <!ENTITY fxaccount_status_bookmarks 'Marque-pages'>
