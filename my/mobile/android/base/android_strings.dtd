@@ -234,19 +234,22 @@ size. -->
 
 <!ENTITY pref_dialog_set_default "မူလအဖြစ်ထားပါ">
 <!ENTITY pref_dialog_default "မူရင်းအခြေအနေ">
+<!ENTITY pref_dialog_remove "ဖယ်ရှားပါ">
 
+<!ENTITY pref_search_last_toast "သင်၏ နောက်ဆုံးသုံးခဲ့သော ရှာဖွေရေး ဝန်ဆောင်မှုအား ပိတ် သို့ မဖယ်နိုင်ပါ">
 
+<!ENTITY pref_panels_show "ပြသပါ">
+<!ENTITY pref_panels_hide "ဝှက်ပါ">
+<!ENTITY pref_panels_reorder "အစီအစဉ်ပြောင်းပါ">
+<!ENTITY pref_panels_move_up "အပေါ်သို့ ရွေ့ပါ">
+<!ENTITY pref_panels_move_down "အောက်သို့ ရွေ့ပါ">
 
-
-
-
-
-
-
-
-
-
-
+<!ENTITY datareporting_notification_title "&brandShortName; မှတ်တမ်း &amp; အချက်အလက်">
+<!ENTITY datareporting_notification_action_long "မည်သည့် အချက်အလက် အားမျှဝေမည်ကို ရွေးပါ">
+<!ENTITY datareporting_notification_action "သင်မျှဝေမည့်အရာကို ရွေးပါ">
+<!ENTITY datareporting_notification_summary "&brandShortName; သည်သင့် အတွက် ပိုမိုကောင်းမွန်သော ဆော့ဝဲတစ်ခုဖြစ်လာရန် &vendorShortName; သို့ အချို့အချက်အလက်များအား အလိုအလျောက်ပေးပို့သည်။">
+<!ENTITY datareporting_notification_summary_short "&brandShortName; သင့်အတွက် ပိုမိုကောင်းမွန်သော ခံစားချက်ရရှိစေရန် ...">
+<!ENTITY datareporting_notification_ticker_text "&datareporting_notification_title;: &datareporting_notification_action_long;">
 <!-- Localization note (datareporting_fhr_title, datareporting_fhr_summary2,
      reporting_telemetry_title, datareporting_telemetry_summary,
      datareporting_crashreporter_summary) : These match the strings in
@@ -254,7 +257,9 @@ size. -->
      healthReportDesc.label, telemetrySection.label, telemetryDesc.label,
      crashReporterDesc.label). -->
 
-
+<!ENTITY datareporting_fhr_title "&brandShortName; ကျန်းမာရေးအစီရင်ခံစာ">
+<!ENTITY datareporting_fhr_summary2 "&vendorShortName; နှင့် အချက်အလက်မျှဝေခြင်းဖြင့် ဘယောက်ဆာအားပိုကောင်းအောင်ပြုလုပ်ရာတွင် ကူညီပါ">
+<!ENTITY datareporting_abouthr_title "ကျန်းမာရေးအစီရင်ခံစာ အားကြည့်မည်">
 
 
 

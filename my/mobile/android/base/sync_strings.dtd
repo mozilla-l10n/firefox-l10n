@@ -101,8 +101,8 @@
 
 <!ENTITY fxaccount_email_hint "အီးမေးလ်">
 
-
-
+<!ENTITY fxaccount_password_hide "ဝှက်ပါ">
+<!ENTITY fxaccount_password_show "ပြသပါ">
 <!-- Localization note: these are shown in screens after the user has
      created or signed in to an account, and take the user back to
      Firefox. -->
