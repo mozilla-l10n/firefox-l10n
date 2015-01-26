@@ -183,30 +183,33 @@
 <!ENTITY pref_clear_private_data2 "အခုရှင်းပါ">
 <!ENTITY pref_clear_private_data_category "တစ်ကိုယ်ရေသုံး အချက်အလက်များ ရှင်းပါ">
 <!ENTITY pref_clear_on_exit_title2 "ထွက်ပါက ရှင်းပါ">
-
-
+<!ENTITY pref_clear_on_exit_summary2 "&brandShortName; မူလ မီနူး မှ \u0022Quit\u0022 အားရွေးထားပါက အချက်အလက်များအား အလိုအလျောက် ဖျက်သွားလိမ့်မည်">
+<!ENTITY pref_clear_on_exit_dialog_title "ရှင်းမည့် အချက်အလက်အား ရွေးပါ">
 <!ENTITY pref_plugins "ပလပ်အင်">
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY pref_plugins_enabled "ဖွင့်ထားတယ်">
+<!ENTITY pref_plugins_tap_to_play "ထိလိုက်ပြီး ဖွင့်ပါ">
+<!ENTITY pref_plugins_disabled "ပိတ်ထားတယ်">
+<!ENTITY pref_text_size "စာလုံး ဆိုဒ်">
+<!ENTITY pref_reflow_on_zoom4 "စာလုံး စီးဆင်းမှု">
+<!ENTITY pref_restore "စာအမှတ်များ">
+<!ENTITY pref_restore_always "အမြဲ ပြန်ဖွင့်ပါ">
+<!ENTITY pref_restore_quit "&brandShortName; ပိတ်လိုက်ပါက အရင်ဖွင့်ထားသော အရာများ ပြန်မခေါ်ပါ">
+<!ENTITY pref_font_size_tiny "အသေး">
+<!ENTITY pref_font_size_small "ခပ်သေးသေး">
+<!ENTITY pref_font_size_medium "အလယ်အလတ်">
+<!ENTITY pref_font_size_large "ကြီးကြီး">
+<!ENTITY pref_font_size_xlarge "ခပ်ကြီးကြီး">
+<!ENTITY pref_font_size_set "အစု">
 <!-- Localization note (pref_font_size_adjust_char): A button with a small version of this character
 (or combination of characters) is used to decrease the preview font size; a larger version of the
 same character/combination is used to increase the preview font size. It should be a concise
 representation of the language it is used in that will help show the text in the preview will change
 size. -->
+<!ENTITY pref_font_size_adjust_char "က">
 <!-- Localization note (pref_font_size_preview_text): This paragraph is used as an example to
     demonstrate the font size setting.  It is meant to be whimsical and fun. -->
+
+<!ENTITY pref_font_size_preview_text "The quick orange fox jumps over your expectations with more speed, more flexibility and more security. As a non-profit, we\u0027re free to innovate on your behalf without any pressure to compromise. That means a better experience for you and a brighter future for the Web.">
 
 
 
@@ -218,15 +221,18 @@ size. -->
 
 
 
-
+<!ENTITY pref_private_data_passwords "သိမ်းဆည်းထားတဲ့ စကားဝှက်များ">
 <!ENTITY pref_private_data_cache "Cache">
 
+<!ENTITY pref_private_data_siteSettings2 "ဆို်ဒ်ဆိုင်ရာ အပြင်အဆင်များ">
+<!ENTITY pref_private_data_downloadFiles2 "ဆွဲချချက်များ">
 
 
+<!ENTITY pref_about_firefox "&brandShortName; အကြောင်း">
+<!ENTITY pref_vendor_faqs "FAQs">
+<!ENTITY pref_vendor_feedback "အကြံပေးပါ">
 
-
-
-
+<!ENTITY pref_dialog_set_default "မူလအဖြစ်ထားပါ">
 <!ENTITY pref_dialog_default "မူရင်းအခြေအနေ">
 
 
