@@ -220,7 +220,7 @@
      the two uses differently. -->
 <!ENTITY fxaccount_status_linktos "เงื่อนไขการให้บริการ">
 <!ENTITY fxaccount_status_linkprivacy "ประกาศความเป็นส่วนตัว">
-
+<!ENTITY fxaccount_status_more "เพิ่มเติม&ellipsis;">
 
 <!ENTITY fxaccount_remove_account_dialog_title "ลบบัญชี Firefox?">
 <!ENTITY fxaccount_remove_account_dialog_message "&brandShortName; จะหยุดการซิงค์กับบัญชีของคุณ แต่จะไม่ลบข้อมูลการเข้าเว็บบนอุปกรณ์นี้">
