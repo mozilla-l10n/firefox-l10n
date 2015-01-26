@@ -20,26 +20,26 @@
 
 <!ENTITY  switch_to_tab "Vərəqə keç">
 
-<!ENTITY  crash_reporter_title "&brandShortName; Qəza xəbərçisi">
-<!ENTITY  crash_message2 "&brandShortName; bir problemi ilə qarşılaşdı və çökdü. Yenidən başlatdğınız zaman &brandShortName; başlanğıc səhifəsində görünəcəklər.">
-<!ENTITY  crash_send_report_message3 "&vendorShortName; çökmə barədə xəbərdar edilsin ki, problemi həll etsinlər.">
+<!ENTITY  crash_reporter_title "&brandShortName; Qəza Xəbərçisi">
+<!ENTITY  crash_message2 "&brandShortName; bir problemlə qarşılaşdı və çökdü. Sizin açdığınız vərəqlər &brandShortName;-in növbəti başladılması zamanı siyahıda görsənəcək.">
+<!ENTITY  crash_send_report_message3 "&vendorShortName; çökmə barədə xəbərdar edilsin ki, problemi həll edə bilsinlər">
 <!ENTITY  crash_include_url2 "Baxdığım səhifənin ünvanını daxil et">
 <!ENTITY  crash_sorry "Üzr istəyirik">
-<!ENTITY  crash_comment "Şərh əlavə edin (şərhləri hər kəs görə bilər)">
-<!ENTITY  crash_allow_contact2 "&vendorShortName; mənimlə bu bildiriş barədə əlaqə saxlaya bilsin">
+<!ENTITY  crash_comment "Şərh əlavə edin (şərhlər hamı tərəfindən görünür)">
+<!ENTITY  crash_allow_contact2 "&vendorShortName; mənimlə bu bildiriş haqqında əlaqə saxlaya bilsin">
 <!ENTITY  crash_email "Sizin e-poçtunuz">
-<!ENTITY  crash_closing_alert "Çökmə barədə xəbər edilmədən çıxılsın?">
+<!ENTITY  crash_closing_alert "Çökmə haqqında xəbər edilmədən çıxılsın?">
 <!ENTITY  sending_crash_report "Çökmə xəbəri göndərilir\u2026">
 <!ENTITY  crash_close_label "Bağla">
 <!ENTITY  crash_restart_label "&brandShortName; yenidən başlasın">
 <!ENTITY  exit_label "Çıxış">
 
-<!ENTITY  launcher_shortcuts_title "&brandShortName; Web tətbiqlər">
-<!ENTITY  launcher_shortcuts_empty "Heç bir Web tətbiq tapılmadı">
+<!ENTITY  launcher_shortcuts_title "&brandShortName; Web Tətbiqlər">
+<!ENTITY  launcher_shortcuts_empty "Heç bir web tətbiq tapılmadı">
 
 <!ENTITY choose_file "Fayl Seç">
 
-<!ENTITY url_bar_default_text2 "Ünvanı daxil et və ya axtar">
+<!ENTITY url_bar_default_text2 "Axtar və ya ünvan daxil et">
 
 <!ENTITY bookmark "Əlfəcin">
 <!ENTITY bookmark_added "Əlfəcin əlavə olundu">
@@ -122,12 +122,12 @@
 <!ENTITY pref_category_privacy_short "Məxfilik">
 <!ENTITY pref_category_privacy_summary "Şifrələri, çərəzləri, izləməni, məlumatları idarə et">
 <!ENTITY pref_category_vendor "&vendorShortName;">
-
-
+<!ENTITY pref_category_vendor_summary "&brandShortName; haqqında, ÇSS, məlumat seçimləri">
+<!ENTITY pref_category_datareporting "Məlumat seçimi">
 <!ENTITY pref_learn_more "Ətraflı öyrən">
-
-
-
+<!ENTITY pref_category_installed_search_engines "Quraşdırılmış axtarış mühərrikləri">
+<!ENTITY pref_category_add_search_providers "Daha çox axtarış sistemi əlavə edin">
+<!ENTITY pref_category_search_restore_defaults "Axtarış mühərriklərini bərpa edin">
 
 
 <!-- Localization note (pref_search_hint) : "TIP" as in "hint", "clue" etc. Displayed as an
@@ -144,19 +144,22 @@
 
 
 
-
+<!ENTITY home_add_panel_empty "Üzr istəyirik, əlavə edə biləcəyiniz heç bir panel tapa bilmədik.">
 <!-- Localization note (home_add_panel_installed):
      The &formatS; will be replaced with the name of the new panel the user just
      selected to be added to the home page. -->
-
+<!ENTITY home_add_panel_installed "\u0027&formatS;\u0027 anasəhifəyə əlavə edildi">
+<!ENTITY pref_category_home_content_settings "Məzmun tənzimləmələri">
 <!ENTITY pref_home_updates "Avtomatik yeniləmə">
 
-
+<!ENTITY pref_home_updates_wifi "Yalnız Wi-Fi ilə">
 <!ENTITY pref_home_suggested_sites "Sayt təkliflərini göstər">
-
+<!ENTITY pref_home_suggested_sites_summary "Sizin üçün maraqlı ola biləcəyini düşündüyümüz saytların qısa yollarını ana səhifənizdə göstərir">
 <!-- Localization note: These are shown in the left sidebar on tablets -->
 
-
+<!ENTITY pref_header_customize "Şəxsiləşdir">
+<!ENTITY pref_header_display "Görünüş">
+<!ENTITY pref_header_privacy_short "Məxfilik">
 
 
 
