@@ -54,7 +54,7 @@
 <!ENTITY calendar.unifinder.tree.calendarname.label        "Nome do calendário">
 <!ENTITY calendar.unifinder.tree.calendarname.tooltip2     "Ordenar por nome de calendário">
 <!ENTITY calendar.unifinder.tree.duration.label            "Vencimento">
-<!ENTITY calendar.unifinder.tree.duration.tooltip2         "Ordenar por prazo até vencimento">
+
 <!ENTITY calendar.unifinder.close.tooltip                  "Fecha a busca e a lista de eventos">
 
 <!ENTITY calendar.today.button.tooltip          "Vai para hoje" >
@@ -205,13 +205,13 @@
 <!ENTITY progress.level.100.accesskey  "1">
 
 <!ENTITY priority.level.none                "Não especificada">
-<!ENTITY priority.level.none.accesskey      "s">
+
 <!ENTITY priority.level.low                 "Baixa">
 <!ENTITY priority.level.low.accesskey       "B">
 <!ENTITY priority.level.normal              "Normal">
 <!ENTITY priority.level.normal.accesskey    "N">
 <!ENTITY priority.level.high                "Alta">
-<!ENTITY priority.level.high.accesskey      "A">
+
 
 <!ENTITY calendar.context.postpone.1hour.label      "1 Hora">
 <!ENTITY calendar.context.postpone.1hour.accesskey  "H">
@@ -280,18 +280,18 @@
 
 <!ENTITY calendar.alarm.snoozefor.label             "Adiar por" >
 <!ENTITY calendar.alarm.snoozeallfor.label          "Adiar todos por" >
-<!ENTITY calendar.alarm.title.label                 "Alarmes do calendário" >
+<!ENTITY calendar.alarm.title.label                 "Alarme do Calendar" >
 <!ENTITY calendar.alarm.dismiss.label               "Descartar" >
 <!ENTITY calendar.alarm.dismissall.label            "Descartar todos" >
 
-<!ENTITY calendar.alarm.snooze.5minutes.label       "5 minutos" >
-<!ENTITY calendar.alarm.snooze.10minutes.label      "10 minutos" >
-<!ENTITY calendar.alarm.snooze.15minutes.label      "15 minutos" >
-<!ENTITY calendar.alarm.snooze.30minutes.label      "30 minutos" >
-<!ENTITY calendar.alarm.snooze.45minutes.label      "45 minutos" >
-<!ENTITY calendar.alarm.snooze.1hour.label          "1 hora" >
-<!ENTITY calendar.alarm.snooze.2hours.label         "2 horas" >
-<!ENTITY calendar.alarm.snooze.1day.label           "1 dia" >
+<!ENTITY calendar.alarm.snooze.5minutes.label       "5 Minutos" >
+<!ENTITY calendar.alarm.snooze.10minutes.label      "10 Minutos" >
+<!ENTITY calendar.alarm.snooze.15minutes.label      "15 Minutos" >
+<!ENTITY calendar.alarm.snooze.30minutes.label      "30 Minutos" >
+<!ENTITY calendar.alarm.snooze.45minutes.label      "45 Minutos" >
+
+<!ENTITY calendar.alarm.snooze.2hours.label         "2 Horas" >
+
 <!-- LOCALIZATION NOTE (calendar.alarm.snooze.cancel)
      This string is not seen in the UI, it is read by screen readers when the
      user focuses the "Cancel" button in the "Snooze for..." popup of the alarm
