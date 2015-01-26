@@ -128,22 +128,23 @@
 <!ENTITY pref_category_installed_search_engines "Quraşdırılmış axtarış mühərrikləri">
 <!ENTITY pref_category_add_search_providers "Daha çox axtarış sistemi əlavə edin">
 <!ENTITY pref_category_search_restore_defaults "Axtarış mühərriklərini bərpa edin">
-
-
+<!ENTITY pref_search_restore_defaults "İlkin tənzimləmələri bərpa et">
+<!ENTITY pref_search_restore_defaults_summary "İlkin tənzimləmələri bərpa et">
 <!-- Localization note (pref_search_hint) : "TIP" as in "hint", "clue" etc. Displayed as an
      advisory message on the customise search providers settings page explaining how to add new
      search providers.
      The &formatI; in the string will be replaced by a small image of the icon described, and can be moved to wherever
      it is applicable. -->
-
-
-
-
+<!ENTITY pref_category_devtools "Tərtibatçı alətləri">
+<!ENTITY pref_category_devtools_summary "Uzaqdan sazlama, paint flashing">
+<!ENTITY pref_developer_paint_flashing "Paint flashing">
+<!ENTITY pref_developer_remotedebugging "Uzaqdan sazlama">
 <!ENTITY pref_remember_signons "Şifrəni xatırla">
 
-
-
-
+<!ENTITY pref_category_home "Başlanğıc">
+<!ENTITY pref_category_home_summary "Başlanğıc səhifənizi özəlləşdirin">
+<!ENTITY pref_category_home_panels "Panellər">
+<!ENTITY home_add_panel_title "Yeni panel əlavə edin">
 <!ENTITY home_add_panel_empty "Üzr istəyirik, əlavə edə biləcəyiniz heç bir panel tapa bilmədik.">
 <!-- Localization note (home_add_panel_installed):
      The &formatS; will be replaced with the name of the new panel the user just
@@ -151,7 +152,7 @@
 <!ENTITY home_add_panel_installed "\u0027&formatS;\u0027 anasəhifəyə əlavə edildi">
 <!ENTITY pref_category_home_content_settings "Məzmun tənzimləmələri">
 <!ENTITY pref_home_updates "Avtomatik yeniləmə">
-
+<!ENTITY pref_home_updates_enabled "Fəal">
 <!ENTITY pref_home_updates_wifi "Yalnız Wi-Fi ilə">
 <!ENTITY pref_home_suggested_sites "Sayt təkliflərini göstər">
 <!ENTITY pref_home_suggested_sites_summary "Sizin üçün maraqlı ola biləcəyini düşündüyümüz saytların qısa yollarını ana səhifənizdə göstərir">
@@ -160,22 +161,23 @@
 <!ENTITY pref_header_customize "Şəxsiləşdir">
 <!ENTITY pref_header_display "Görünüş">
 <!ENTITY pref_header_privacy_short "Məxfilik">
-
-
-
-
+<!ENTITY pref_header_help "Kömək">
+<!ENTITY pref_header_language "Dil">
+<!ENTITY pref_header_vendor "&vendorShortName;">
+<!ENTITY pref_header_devtools "Tərtibatçı alətləri">
 
 <!ENTITY pref_cookies_menu "Cookielər">
 <!ENTITY pref_cookies_accept_all "Aktivdir">
-
+<!ENTITY pref_cookies_not_accept_foreign "Aktivdir, 3-cü tərəf xaric">
 <!ENTITY pref_cookies_disabled "Söndürülüb">
 
+<!ENTITY pref_tracking_protection_title "İzlənmə qoruması">
 
 
+<!ENTITY pref_donottrack_summary "&brandShortName; saytlara izlənmək istəmədiyinizi xəbər edəcək">
 
-
-
-
+<!ENTITY pref_char_encoding_on "Menyunu göstər">
+<!ENTITY pref_char_encoding_off "Menyunu göstərmə">
 
 <!ENTITY pref_clear_private_data_category "Şəxsi məlumatları təmizlə">
 <!ENTITY pref_clear_on_exit_title2 "Çıxarkən təmizlə">
@@ -193,19 +195,22 @@
 
 
 
-
-
-
+<!ENTITY pref_font_size_large "Böyük">
+<!ENTITY pref_font_size_xlarge "Çox böyük">
+<!ENTITY pref_font_size_set "Təyin et">
 <!-- Localization note (pref_font_size_adjust_char): A button with a small version of this character
 (or combination of characters) is used to decrease the preview font size; a larger version of the
 same character/combination is used to increase the preview font size. It should be a concise
 representation of the language it is used in that will help show the text in the preview will change
 size. -->
+<!ENTITY pref_font_size_adjust_char "A">
 <!-- Localization note (pref_font_size_preview_text): This paragraph is used as an example to
     demonstrate the font size setting.  It is meant to be whimsical and fun. -->
 
+<!ENTITY pref_media_autoplay_enabled "Avtomatik oxutmağa icazə ver">
+<!ENTITY pref_media_autoplay_enabled_summary "Səhifələrin video və digər media məzmunlarını avtomatik oxudub oxutmayacaqlarını idarə et">
 
-
+<!ENTITY pref_use_master_password "Ana şifrədən istifadə et">
 <!ENTITY pref_sync "Sync">
 <!ENTITY pref_sync_summary "Vərəqlərinizi, əlfəcinlərinizi, şifrələrinizi, tarixçənizi sinxronlaşdırın">
 <!ENTITY pref_search_suggestions "Axtarış təkliflərini göstər">
@@ -213,9 +218,9 @@ size. -->
 <!ENTITY pref_import_android_summary "Əlfəcinləri və tarixçəni əsas səyyahdan daxil et">
 <!ENTITY pref_private_data_history2 "Səyahət tarixçəsi">
 <!ENTITY pref_private_data_formdata "Forma və axtarış tarixçəsi">
-
-
-
+<!ENTITY pref_private_data_cookies2 "Çərəzlər və aktiv ziyarətlər">
+<!ENTITY pref_private_data_passwords "Saxlanılmış şifrələr">
+<!ENTITY pref_private_data_cache "Keş">
 <!ENTITY pref_private_data_offlineApps "Offline sayt məlumatları">
 <!ENTITY pref_private_data_siteSettings2 "Sayt tənzimləmələri">
 <!ENTITY pref_private_data_downloadFiles2 "Endirilənlər">
@@ -223,11 +228,11 @@ size. -->
 
 <!ENTITY pref_about_firefox "&brandShortName; haqqında">
 <!ENTITY pref_vendor_faqs "FAQ">
-
+<!ENTITY pref_vendor_feedback "Rəy göndərin">
 
 <!ENTITY pref_dialog_set_default "Ön qurğulu olaraq seç">
 <!ENTITY pref_dialog_default "İlkin hal">
-
+<!ENTITY pref_dialog_remove "Sil">
 
 <!ENTITY pref_search_last_toast "Sonuncu axtarış mühərrikinizi silə və ya passivləşdirə bilməzsiniz.">
 
@@ -240,7 +245,7 @@ size. -->
 <!ENTITY datareporting_notification_title "&brandShortName; statistikalar və məlumatlar">
 <!ENTITY datareporting_notification_action_long "Hansı məlumatların paylaşılacağını seçin">
 <!ENTITY datareporting_notification_action "Nəyi paylaşacağınızı seçin">
-<!ENTITY datareporting_notification_summary "Sizin təcrübənizi artırmaq üçün &brandShortName; bəzi məlumatları avtomatik olaraq &vendorShortName;-a göndərir">
+<!ENTITY datareporting_notification_summary "Sizin təcrübənizi artırmaq üçün &brandShortName; bəzi məlumatları avtomatik olaraq &vendorShortName;-a göndərir.">
 <!ENTITY datareporting_notification_summary_short "Təcrübənizi artırmaq üçün &brandShortName;...">
 
 <!-- Localization note (datareporting_fhr_title, datareporting_fhr_summary2,
@@ -258,53 +263,60 @@ size. -->
 
 <!-- Localization note (datareporting_crashreporter_title_short) : This string matches
      (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
-
-
+<!ENTITY datareporting_wifi_title2 "&vendorShortName; Mövqe Xidməti">
+<!ENTITY datareporting_wifi_geolocation_summary2 "Çoğrafi mövqe xidmətimizi təkmilləşdirmək üçün cihazınızın təxmini Wi-Fi və mobil mövqeyini &vendorShortName; ilə paylaşır">
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
      actual notification that an update is available. -->
-
-
-
+<!ENTITY pref_update_autodownload2 "Yeniləmələri avtomatik endir">
+<!ENTITY pref_update_autodownload_wifi "Yalnız Wi-Fi ilə">
+<!ENTITY pref_update_autodownload_never "Heç vaxt">
+<!ENTITY pref_update_autodownload_always "Həmişə">
 <!-- Localization note (help_menu) : This string is used in the main menu-->
+
+<!ENTITY help_menu "Kömək">
 
 <!ENTITY quit "Çıx">
 
 <!ENTITY addons "Eklentiler">
-
-
+<!ENTITY downloads "Endirmələr">
+<!ENTITY apps "Tətbiqlər">
 <!ENTITY char_encoding "Simvol kodlaşdırması">
 
 
-
-
-
-
-
+<!ENTITY share_image_failed "Bu şəkli paylaşmaq mümkün olmadı">
+<!ENTITY save_as_pdf "PDF kimi yadda saxla">
+<!ENTITY find_in_page "Səhifədə tap">
+<!ENTITY desktop_mode "Masaüstü saytını istə">
+<!ENTITY page "Səhifə">
 <!ENTITY tools "Alətlər">
 <!ENTITY new_tab "Yeni vərəq">
-
-
-
-
-
-
-
-
-
+<!ENTITY new_private_tab "Yeni Məxfi Vərəq">
+<!ENTITY close_all_tabs "Bütün vərəqləri qapat">
+<!ENTITY close_private_tabs "Məxfi vərəqləri qapat">
+<!ENTITY tabs_normal "Vərəqlər">
+<!ENTITY tabs_private "Məxfi">
+<!ENTITY tabs_synced "Sinxronlaşdırılmış">
+<!ENTITY set_image_fail "Şəkil təyin edilə bilmədi">
+<!ENTITY set_image_path_fail "Şəkil yaddaşa saxlanıla bilmədi">
+<!ENTITY set_image_chooser_title "Şəkli təyin et">
 <!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
+
+<!ENTITY find_text "Səhifədə tap">
 <!ENTITY find_prev "Əvvəlkini tap">
 <!ENTITY find_next "Növbətini tap">
 <!ENTITY find_close "Bağla">
 <!-- Localization note (media_sending_to, media_play, media_pause, media_stop) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
+
+<!ENTITY media_sending_to "Cihaza göndərilir">
 <!ENTITY media_play "Göstər">
 <!ENTITY media_pause "Dayandır">
-
+<!ENTITY media_stop "Dayandır">
 
 <!ENTITY contextmenu_open_new_tab "Yeni vərəqdə aç">
-
+<!ENTITY contextmenu_open_private_tab "Məxvi vərəqdə aç">
 
 
 
@@ -316,18 +328,23 @@ size. -->
 
 
 
+<!ENTITY contextmenu_top_sites_unpin "Saytı pindən çıxart">
+<!ENTITY contextmenu_add_search_engine "Axtarış mühərriyi əlavə et">
 
-
-
-
-
+<!ENTITY pref_titlebar_mode_title "Səhifə başlığını göstər">
+<!ENTITY pref_titlebar_mode_url "Səhifə ünvanını göstər">
 <!-- Localization note (pref_scroll_title_bar2): Label for setting that controls
      whether or not the dynamic toolbar is enabled. -->
+
+<!ENTITY pref_scroll_title_bar2 "Tam ekran səyahət">
 
 <!-- Localization note (page_removed): This string appears in a toast message when
      any page is removed frome about:home. This includes pages that are in history,
      bookmarks, or reading list. -->
 
+<!ENTITY page_removed "Səhifə silindi">
+
+<!ENTITY bookmark_edit_title "Əlfəcini düzəlt">
 <!ENTITY bookmark_edit_name "Ad">
 <!ENTITY bookmark_edit_location "Ünvan">
 <!ENTITY bookmark_edit_keyword "Anahtar kelime">
@@ -345,20 +362,25 @@ size. -->
 <!-- Localization note : These strings are used as alternate text for accessibility.
      They are not visible in the UI. -->
 
+<!ENTITY page_action_dropmarker_description "Əlavə tədbirlər">
+
+<!ENTITY masterpassword_create_title "Ana Şifrə Yarat">
 <!ENTITY masterpassword_remove_title "Ana şifrəni sil ">
 <!ENTITY masterpassword_password "Şifrə">
-
+<!ENTITY masterpassword_confirm "Şifrəni təsdiqləyin">
 
 <!ENTITY button_ok "Oldu">
-
+<!ENTITY button_cancel "Ləğv et">
 <!ENTITY button_yes "Hə">
 <!ENTITY button_no "Xeyir">
+<!ENTITY button_clear_data "Məlumatları təmizlə">
+<!ENTITY button_set "Təyin et">
+<!ENTITY button_clear "Təmizlə">
 
-
-
-
+<!ENTITY home_top_sites_title "Qabaqcıl saytlar">
 <!-- Localization note (home_top_sites_add): This string is used as placeholder
      text underneath empty thumbnails in the Top Sites page on about:home. -->
+<!ENTITY home_top_sites_add "Sayt əlavə et">
 <!-- Localization note (home_title): This string should be kept in sync
      with the page title defined in aboutHome.dtd -->
 
@@ -370,8 +392,8 @@ size. -->
 
 
 
-
-
+<!ENTITY home_open_all "Hamısını aç">
+<!ENTITY home_most_recent_empty "Ən son ziyarət etdiyiniz saytlar burada göstərilir.">
 <!-- Localization note (home_most_recent_emptyhint2): "Psst" is a sound that might be used to attract someone's attention unobtrusively, and intended to hint at Private Browsing to the user.
      The placeholders &formatS1; and &formatS2; are used to mark the location of text underlining. -->
 
