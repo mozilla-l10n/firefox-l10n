@@ -827,3 +827,12 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY panicButton.thankyou.msg1                "Votre historique récent a été correctement effacé.">
 <!ENTITY panicButton.thankyou.msg2                "Bonne navigation !">
 <!ENTITY panicButton.thankyou.buttonlabel         "Merci !">
+
+<!ENTITY processHang.terminateScript.label        "Arrêter le script">
+<!ENTITY processHang.terminateScript.accessKey    "A">
+<!ENTITY processHang.debugScript.label            "Déboguer le script">
+<!ENTITY processHang.debugScript.accessKey        "D">
+<!ENTITY processHang.terminatePlugin.label        "Tuer le plugin">
+<!ENTITY processHang.terminatePlugin.accessKey    "p">
+<!ENTITY processHang.terminateProcess.label       "Tuer le processus web">
+<!ENTITY processHang.terminateProcess.accessKey   "T">

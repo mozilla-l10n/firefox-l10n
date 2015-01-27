@@ -215,6 +215,8 @@ size. -->
 
 <!ENTITY pref_media_autoplay_enabled "Lecture automatique">
 <!ENTITY pref_media_autoplay_enabled_summary "Décider si les sites peuvent lancer automatiquement la lecture des vidéos et d\u0027autres contenus multimédia">
+<!ENTITY pref_zoom_force_enabled "Toujours activer le zoom">
+<!ENTITY pref_zoom_force_enabled_summary "Forcer les pages à toujours vous permettre de zoomer">
 
 <!ENTITY pref_use_master_password "Mot de passe principal">
 <!ENTITY pref_sync "Sync">
