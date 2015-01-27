@@ -41,6 +41,8 @@
 <!ENTITY runtimeMenu_showMonitor_accesskey "M">
 <!ENTITY runtimeMenu_showDevicePrefs_label "Préférences de l'appareil">
 <!ENTITY runtimeMenu_showDevicePrefs_accesskey "r">
+<!ENTITY runtimeMenu_showSettings_label "Paramètres de l'appareil">
+<!ENTITY runtimeMenu_showSettings_accesskey "a">
 
 <!ENTITY viewMenu_label "Affichage">
 <!ENTITY viewMenu_accesskey "f">
@@ -147,16 +149,26 @@
 <!ENTITY runtimedetails_requestPrivileges "Demander des privilèges supplémentaires">
 <!ENTITY runtimedetails_privilegesWarning "(Redémarrera l'appareil. Nécessite les privilèges administrateur.)">
 
+<!-- Device Preferences and Settings -->
+<!ENTITY device_typeboolean "Booléen">
+<!ENTITY device_typenumber "Entier">
+<!ENTITY device_typestring "Chaîne">
+<!ENTITY device_typeobject "Objet">
+<!ENTITY device_typenone "Sélectionner un type">
+
 <!-- Device Preferences -->
-<!ENTITY devicepreferences_title "Préférences de l'appareil">
-<!ENTITY devicepreferences_search "Préférences de recherche">
-<!ENTITY devicepreferences_newname "Nouveau nom de la préférence">
-<!ENTITY devicepreferences_newtext "Valeur de la préférence">
-<!ENTITY devicepreferences_addnew "Ajouter une nouvelle préférence">
-<!ENTITY devicepreferences_typeboolean "Booléen">
-<!ENTITY devicepreferences_typenumber "Entier">
-<!ENTITY devicepreferences_typestring "Chaîne de caractères">
-<!ENTITY devicepreferences_typenone "Sélectionner un type">
+<!ENTITY devicepreference_title "Préférences de l'appareil">
+<!ENTITY devicepreference_search "Rechercher dans les préférences">
+<!ENTITY devicepreference_newname "Nouveau nom de préférence">
+<!ENTITY devicepreference_newtext "Valeur de la préférence">
+<!ENTITY devicepreference_addnew "Ajouter une nouvelle préférence">
+
+<!-- Device Settings -->
+<!ENTITY devicesetting_title "Paramètres de l'appareil">
+<!ENTITY devicesetting_search "Rechercher dans les paramètres">
+<!ENTITY devicesetting_newname "Nouveau nom de paramètre">
+<!ENTITY devicesetting_newtext "Valeur du paramètre">
+<!ENTITY devicesetting_addnew "Ajouter un nouveau paramètre">
 
 <!-- Monitor -->
 <!ENTITY monitor_title "Moniteur">
