@@ -216,16 +216,16 @@ size. -->
 
 <!ENTITY pref_use_master_password "ပင်မ စကားဝှက်တခု သုံးစွဲပါ။">
 <!ENTITY pref_sync "ထပ်တူပြုပြိုင်တူအသုံးပြုခြင်း">
-
-
-
-
-
-
-
+<!ENTITY pref_sync_summary "သင်၏ တပ်ဗ်များ၊ စာအမှတ်များ၊ စကားဝှက်များ နှင့် မှတ်တမ်းများအား သိမ်းယူပါ">
+<!ENTITY pref_search_suggestions "ရှာဖွေရေး အကြံပြုချက်များကို ဖေါ်ပြပါ">
+<!ENTITY pref_import_android "အန်းဒရိုက်မှ သွင်းယူပါ">
+<!ENTITY pref_import_android_summary "စာအမှတ်များနှင့် မှတ်တမ်းအား စံဘယောက်ဆာမှ ဆွဲယူပါ">
+<!ENTITY pref_private_data_history2 "ဘယောက်ဆာမှတ်တမ်း">
+<!ENTITY pref_private_data_formdata " ဖောင် နှင့် ရှာဖွေရေး မှတ်တမ်း">
+<!ENTITY pref_private_data_cookies2 "ကွတ်ကီးများ နှင့် လတ်တလော​ သုံးဆွဲမှု">
 <!ENTITY pref_private_data_passwords "သိမ်းဆည်းထားတဲ့ စကားဝှက်များ">
 <!ENTITY pref_private_data_cache "Cache">
-
+<!ENTITY pref_private_data_offlineApps "ချိတ်ဆက်မဲ့သုံး အချက်အလက်">
 <!ENTITY pref_private_data_siteSettings2 "ဆို်ဒ်ဆိုင်ရာ အပြင်အဆင်များ">
 <!ENTITY pref_private_data_downloadFiles2 "ဆွဲချချက်များ">
 
@@ -262,7 +262,7 @@ size. -->
 <!ENTITY datareporting_fhr_title "&brandShortName; ကျန်းမာရေးအစီရင်ခံစာ">
 <!ENTITY datareporting_fhr_summary2 "&vendorShortName; နှင့် အချက်အလက်မျှဝေခြင်းဖြင့် ဘယောက်ဆာအားပိုကောင်းအောင်ပြုလုပ်ရာတွင် ကူညီပါ">
 <!ENTITY datareporting_abouthr_title "ကျန်းမာရေးအစီရင်ခံစာ အားကြည့်မည်">
-
+<!ENTITY datareporting_telemetry_title "တယ်လီမန်ထရီ">
 
 
 <!-- Localization note (datareporting_crashreporter_title_short) : This string matches
