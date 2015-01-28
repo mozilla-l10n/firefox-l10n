@@ -36,7 +36,7 @@
 <!ENTITY happy.noThanks            "Nie, dziękuję">
 
 <!ENTITY sad.header                "O nie!">
-<!ENTITY sad.message               "Przykro nam, że &brandShortName; sprawił ci problem. Opisz go nam, żebśmy mogli go naprawić.">
+<!ENTITY sad.message "Przykro nam, że &brandShortName; sprawił ci problem. Opisz go nam, żebyśmy mogli go naprawić.">
 <!ENTITY sad.placeholder           "Wprowadź tutaj swoją opinię">
 <!ENTITY sad.lastSite2              "Dodaj ostatnio odwiedzoną stronę">
 
