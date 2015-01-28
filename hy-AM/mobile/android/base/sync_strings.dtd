@@ -170,9 +170,9 @@
 <!ENTITY fxaccount_confirm_account_change_email "Մոռանա՞լ էլ. փոստը:">
 <!ENTITY fxaccount_confirm_account_verification_link_sent2 "Հաստատումը ուղարկվել է">
 <!ENTITY fxaccount_confirm_account_verification_link_not_sent2 "Չհաջողվեց ուղարկել">
-
-
-
+<!ENTITY fxaccount_resend_unlock_code_button_label "Կրկին ուղարկել նամակը">
+<!ENTITY fxaccount_unlock_code_sent "Հաշիվը բացելու նամակը ուղարկվել է">
+<!ENTITY fxaccount_unlock_code_not_sent "Հնարավոր չեղավ ուղարկել հաշիվը բացելու նամակը">
 
 <!ENTITY fxaccount_sign_in_sub_header "Մուտք գործել">
 <!ENTITY fxaccount_sign_in_button_label "Մուտք գործել">
@@ -183,13 +183,15 @@
 <!ENTITY fxaccount_account_verified_sub_header "Հաշիվը հաստատված է">
 <!ENTITY fxaccount_account_verified_description2 "Տվյալները միանգամից կհամաժամեցվեն:">
 
+<!ENTITY fxaccount_migration_finished_header "Արդիացվեց">
 
 <!ENTITY fxaccount_update_credentials_header "Մուտք գործել">
 <!ENTITY fxaccount_update_credentials_button_label "Մուտք գործել ">
 <!ENTITY fxaccount_update_credentials_unknown_error "Չհաջողվեց մուտք գործել ">
 
-
-
+<!ENTITY fxaccount_finish_migrating_header "Մուտք գործեք՝ արդիացնելու համար">
+<!ENTITY fxaccount_finish_migrating_button_label "Արդիացում">
+<!ENTITY fxaccount_finish_migrating_description "Արդիացումը կարող է փոխանցել լիքը տվյալներ: Խորհուրդ ենք տալիս օգտագործել WiFi կապ:">
 
 <!ENTITY fxaccount_status_header2 "Firefox-ի հաշիվ">
 <!ENTITY fxaccount_status_signed_in_as "Մուտք գործած որպես">
@@ -204,9 +206,9 @@
 <!ENTITY fxaccount_status_needs_credentials "Չհաջողվեց միանալ: Մուտք գործել:">
 <!ENTITY fxaccount_status_needs_upgrade "Մուտք գործելու համար պետք է արդիացնեք &brandShortName;-ը:">
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled "&syncBrand.shortName.label;ը կարգաբերված է, սակայն չի աշխատում: Փոփոխեք \&quot;Auto-sync data\&quot; ցուցիչը Անդրոիդ սարքի կարգավորումենրի &gt; Data Usage-ում:">
-
+<!ENTITY fxaccount_status_needs_master_sync_automatically_enabled_v21 "&syncBrand.shortName.label;ը կարգաբերված է, սակայն չի աշխատում: Փոփոխեք \&quot;Auto-sync data\&quot; ցուցիչը Անդրոիդ սարքի կարգավորումների &gt; Հաշիվներում:">
 <!ENTITY fxaccount_status_needs_account_enabled "&syncBrand.shortName.label;ը կարգաբերված է, սակայն չի աշխատում: Դիպչեք՝ սինքը սկսելու համար:">
-
+<!ENTITY fxaccount_status_needs_finish_migrating "Հպվեք՝ Firefox-ի ձեր նոր հաշիվ մուտք գործելու համար:">
 <!ENTITY fxaccount_status_bookmarks "Էջանիշեր">
 <!ENTITY fxaccount_status_history "Պատմություն">
 <!ENTITY fxaccount_status_passwords "Գաղտնաբառեր">
@@ -254,11 +256,14 @@
 <!ENTITY fxaccount_remote_error_SERVICE_TEMPORARILY_UNAVAILABLE_TO_DUE_HIGH_LOAD "Սպասարկիչը զբաղված է, կրկին փորձեք">
 <!ENTITY fxaccount_remote_error_UNKNOWN_ERROR "Խնդիր է առկա">
 <!ENTITY fxaccount_remote_error_COULD_NOT_CONNECT "Հնարավոր չէ միանալ ցանցին">
-
+<!ENTITY fxaccount_remote_error_ACCOUNT_LOCKED "Հաշիվը արգելված է: &formatS1;">
 
 <!ENTITY fxaccount_sync_sign_in_error_notification_title2 "&syncBrand.shortName.label;ը կապված չէ">
 <!-- Localization note: the format string below will be replaced
      with the Firefox Account's email address. -->
+<!ENTITY fxaccount_sync_sign_in_error_notification_text2 "Հպվեք՝ որպես &formatS; մուտք գործելու համար">
 
+<!ENTITY fxaccount_sync_finish_migrating_notification_title "Ավարտե՞լ &syncBrand.shortName.label;-ի արդիացումը:">
 <!-- Localization note: the format string below will be replaced
      with the Firefox Account's email address. -->
+<!ENTITY fxaccount_sync_finish_migrating_notification_text "Հպվեք՝ որպես &formatS; մուտք գործելու համար">
