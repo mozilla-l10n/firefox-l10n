@@ -430,9 +430,9 @@ size. -->
 <!ENTITY home_remote_tabs_title "Skeda të Njëkohësuara">
 <!ENTITY home_remote_tabs_empty "Skedat tuaja prej pajisjesh të tjera shfaqen këtu.">
 <!ENTITY home_remote_tabs_unable_to_connect "Nuk arrin të lidhet">
-<!ENTITY home_remote_tabs_need_to_sign_in "Ju lutemi, bëni hyrjen që të rilidhet llogaria juaj Firefox Account dhe të vazhdohet njëkohësimi.">
+<!ENTITY home_remote_tabs_need_to_sign_in "Ju lutemi, bëni hyrjen që të rilidhet Llogaria juaj Firefox dhe të vazhdohet njëkohësimi.">
 <!ENTITY home_remote_tabs_trouble_verifying "Probleme me verifikimin e llogarisë suaj?">
-<!ENTITY home_remote_tabs_need_to_verify "Ju lutemi, verifikoni llogarinë tuaj Firefox Account që të fillohet njëkohësimi.">
+<!ENTITY home_remote_tabs_need_to_verify "Ju lutemi, verifikoni Llogarinë tuaj Firefox që të fillohet njëkohësimi.">
 
 <!ENTITY home_remote_tabs_one_hidden_device "1 pajisje e fshehur">
 <!-- Localization note (home_remote_tabs_many_hidden_devices) : The
