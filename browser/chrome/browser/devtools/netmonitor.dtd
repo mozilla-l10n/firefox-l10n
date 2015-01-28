@@ -74,6 +74,10 @@
   -  in the network details pane identifying the preview tab. -->
 <!ENTITY netmonitorUI.tab.preview         "Vista previa">
 
+<!-- LOCALIZATION NOTE (netmonitorUI.tab.security): This is the label displayed
+  -  in the network details pane identifying the security tab. -->
+<!ENTITY netmonitorUI.tab.security        "Seguridad">
+
 <!-- LOCALIZATION NOTE (debuggerUI.footer.filterAll): This is the label displayed
   -  in the network details footer for the "All" filtering button. -->
 <!ENTITY netmonitorUI.footer.filterAll    "Todo">
