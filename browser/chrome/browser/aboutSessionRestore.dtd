@@ -42,6 +42,9 @@ before and after the the "learn more" link (welcomeback2.link.pageInfo2).
 Localizers can use one of them, or both, to better adapt this sentence to
 their language.
 -->
+
+
+<!ENTITY welcomeback2.beforelink.pageInfo2  "ផ្នែក​បន្ថែម​របស់​អ្នក និង​ការ​កំណត់​ផ្ទាល់ខ្លួន​ត្រូវ​បាន​លុប​ចេញ ហើយ​ការ​កំណត់​កម្មវិធី​អ៊ីនធឺណិត​របស់​អ្នក​ត្រូវ​បាន​ស្ដារ​ទៅ​លំនាំដើម។ បើ​វា​មិន​បាន​កែ​បញ្ហា​របស់​អ្នក​ទេ ">
 <!ENTITY welcomeback2.afterlink.pageInfo2   "">
 
 <!ENTITY welcomeback2.link.pageInfo2        "ស្វែងយល់​បន្ថែម​អំពី​អ្វី​ដែល​អ្នក​ចង់​ធ្វើ">
