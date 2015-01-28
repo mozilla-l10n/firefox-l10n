@@ -6,8 +6,11 @@
 <!ENTITY  window.width                    "38em">
 <!ENTITY  window.macWidth                 "48.38em">
 
-<!ENTITY  allowPagesToUse.label           "​អនុញ្ញាត​ឲ្យ​ទំព័រ​ជ្រើស​ពណ៌​ដោយ​ខ្លួន​ឯង ជំនួស​ឲ្យ​ជម្រើស​ខាង​លើ​របស់​ខ្ញុំ">
-<!ENTITY  allowPagesToUse.accesskey       "A">
+
+
+<!ENTITY  overridePageColors.always.label "ជានិច្ច">
+
+<!ENTITY  overridePageColors.never.label  "កុំ">
 
 <!ENTITY  color                           "អត្ថបទ និង​ផ្ទៃខាងក្រោយ">
 <!ENTITY  textColor.label                 "អត្ថបទ ៖">

@@ -172,6 +172,7 @@
 <!ENTITY pref_cookies_not_accept_foreign "បាន​បើក​រួមបញ្ចូល​ទាំង​ភាគី​ទី ៣">
 <!ENTITY pref_cookies_disabled "បាន​បិទ">
 
+
 <!ENTITY pref_donottrack_title "កុំ​តាមដាន">
 <!ENTITY pref_donottrack_summary "&brandShortName; នឹង​ប្រាប់​តំបន់បណ្ដាញ​ថា​អ្នក​មិន​ចង់​ឲ្យ​តាមដាន​ទេ">
 
@@ -429,6 +430,7 @@ size. -->
 
 
 
+
 <!-- Localization note (home_remote_tabs_many_hidden_devices) : The
      formatD is replaced with the number of hidden devices.  The
      number of hidden devices is always more than one.  We can't use
@@ -518,9 +520,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY updater_apply_title2 "មាន​បច្ចុប្បន្នភាព​សម្រាប់ &brandShortName;">
 <!ENTITY updater_apply_select2 "ប៉ះ​ដើម្បី​ធ្វើ​បច្ចុប្បន្នភាព">
-<!-- New tablet UI -->
-<!-- LOCALIZATION NOTE (new_tablet_restart): Notification displayed after the user toggles the new tablet UI in the settings screen.-->
-
 <!-- Guest mode -->
 
 <!ENTITY new_guest_session "សម័យ​ភ្ញៀវ​ថ្មី">

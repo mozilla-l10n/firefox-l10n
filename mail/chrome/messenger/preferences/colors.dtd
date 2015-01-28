@@ -6,8 +6,11 @@
 <!ENTITY  window.width                    "37em">
 <!ENTITY  window.macWidth                 "41em">
 
-<!ENTITY  allowPagesToUse.label           "​អនុញ្ញាត​ឲ្យ​មាតិកា​ជ្រើស​ពណ៌​ដោយ​ខ្លួនឯង ជំនួស​ឲ្យ​ជម្រើស​ខាងលើ​របស់​ខ្ញុំ">
-<!ENTITY  allowPagesToUse.accesskey       "A">
+
+
+<!ENTITY  overridePageColors.always.label "ជានិច្ច">
+
+<!ENTITY  overridePageColors.never.label  "មិន">
 
 <!ENTITY  color                           "អត្ថបទ និង​ផ្ទៃខាងក្រោយ">
 <!ENTITY  textColor.label                 "Տեքստը.">

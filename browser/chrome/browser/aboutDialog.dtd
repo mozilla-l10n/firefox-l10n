@@ -38,9 +38,12 @@
 <!ENTITY community.creditsLink      "សហគមន៍​សកល">
 <!ENTITY community.end3             "ដែល​ធ្វើការ​ជាមួយ​គ្នា​ដើម្បី​ធ្វើ​ឲ្យ​តំបន់​បណ្ដាញ​បើក​ចំហ សាធារណៈ និង​​អាច​ភ្ជាប់​ទៅ​កាន់​​គ្រប់គ្នា ។">
 
+<!ENTITY helpus.start               "ចង់​ជួយ?">
 <!-- LOCALIZATION NOTE (helpus.donateLink): This is a link title that links to https://sendto.mozilla.org/page/contribute/Give-Now?source=mozillaorg_default_footer&ref=firefox_about&utm_campaign=firefox_about&utm_source=firefox&utm_medium=referral&utm_content=20140929_FireFoxAbout. -->
-
+<!ENTITY helpus.donateLink          "ជួយ​ឧបត្ថម្ភ">
+<!ENTITY helpus.middle              " ឬ ">
 <!-- LOCALIZATION NOTE (helpus.getInvolvedLink): This is a link title that links to http://www.mozilla.org/contribute/. -->
+<!ENTITY helpus.getInvolvedLink     "ចូលរួម​ចំណែក!">
 <!ENTITY helpus.end                 "">
 <!-- LOCALIZATION NOTE (bottomLinks.license): This is a link title that links to about:license. -->
 

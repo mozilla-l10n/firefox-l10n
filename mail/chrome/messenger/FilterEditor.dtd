@@ -24,6 +24,8 @@
 <!ENTITY contextBeforeCls.label "ត្រង​មុន​ពេលចាត់ថ្នាក់​សារ​ឥត​បាន​ការ">
 <!ENTITY contextAfterCls.label "ត្រង​បន្ទាប់ពី​ចាត់ថ្នាក់សារ​ឥតបាន​ការ">
 
+
+
 <!ENTITY filterActionDesc.label "Կատարել այս գործողությունը.">
 <!ENTITY filterActionDesc.accesskey "P">
 
