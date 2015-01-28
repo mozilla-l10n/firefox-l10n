@@ -1,1 +1,1 @@
-#define MOZ_LANG_TITLE Inglizcha (AQSH)
+#define MOZ_LANG_TITLE Uzbek
