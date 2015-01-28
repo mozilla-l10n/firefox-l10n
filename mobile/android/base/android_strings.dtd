@@ -172,7 +172,8 @@
 <!ENTITY pref_cookies_not_accept_foreign "Միացնել՝ բացառելով կողմնակի կայքերը">
 <!ENTITY pref_cookies_disabled "Անջատել">
 
-
+<!ENTITY pref_tracking_protection_title "Պատշտանություն հետևելուց">
+<!ENTITY pref_tracking_protection_summary "&brandShortName;-ը կարգելի կայքերին հետևել ձեզ">
 <!ENTITY pref_donottrack_title "Չհետևել">
 <!ENTITY pref_donottrack_summary "&brandShortName;-ը կհաղորդի կայքերին, որ դուք չեք ցանկանում, որ ձեզ հետևեն">
 
@@ -430,7 +431,7 @@ size. -->
 <!ENTITY home_remote_tabs_empty "Ձեր ներդիրները այլ սարքերից:">
 <!ENTITY home_remote_tabs_unable_to_connect "Չհաջողվեց կապ հաստատել">
 <!ENTITY home_remote_tabs_need_to_sign_in "Մուտք գործեք՝ վերակապակցվելու Firefox-ի Հաշվի հետ և շարունակելու Սինքը:">
-
+<!ENTITY home_remote_tabs_need_to_finish_migrating "Firefox-ի ձեր հաշիվը պատրաստ է:">
 
 <!ENTITY home_remote_tabs_trouble_verifying "Խնդիրնե՞ր հաշիվը հաստատելիս:">
 <!ENTITY home_remote_tabs_need_to_verify "Հաստատեք Firefox-ի Ձեր Հաշիվը՝ Սինքը սկսելու համար:">
