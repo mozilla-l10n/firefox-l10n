@@ -23,12 +23,16 @@
 <!ENTITY restorepage.windowLabel    "បង្អួច &#037;S">
 <!-- LOCALIZATION NOTE: The following 'welcomeback2' strings are for about:welcomeback,
      not for about:sessionstore -->
+
+
+
+<!ENTITY welcomeback2.restoreButton  "តោះ​ចាប់ផ្ដើម!">
 <!ENTITY welcomeback2.restoreButton.access "L">
 
 <!ENTITY welcomeback2.tabtitle      "ជោគជ័យ">
 
 <!ENTITY welcomeback2.pageTitle     "ជោគជ័យ">
-
+<!ENTITY welcomeback2.pageInfo1     "&brandShortName; អាច​ចាប់ផ្ដើម​បាន។">
 
 <!ENTITY welcomeback2.label.restoreAll  "ចាប់ផ្ដើម​វីនដូ និង​ផ្ទាំង​ឡើង​វិញ">
 <!ENTITY welcomeback2.label.restoreSome "ស្ដារ​តែ​មួយ​នូវ​អ្វី​ដែល​ចង់​ប៉ុណ្ណោះ">
