@@ -298,6 +298,7 @@
 <!ENTITY searchFocusUnix.commandkey "j">
 <!ENTITY searchFor.label              "Buscar ">
 <!ENTITY searchWith.label             " con:">
+<!ENTITY searchWithHeader.label       "Buscar con:">
 <!ENTITY changeSearchSettings.button  "Cambiar ajustes de búsqueda">
 
 <!ENTITY tabView.commandkey "e">
