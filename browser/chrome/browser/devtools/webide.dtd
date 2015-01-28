@@ -41,6 +41,8 @@
 <!ENTITY runtimeMenu_showMonitor_accesskey "M">
 <!ENTITY runtimeMenu_showDevicePrefs_label "Preferencias de dispositivo">
 <!ENTITY runtimeMenu_showDevicePrefs_accesskey "d">
+<!ENTITY runtimeMenu_showSettings_label "Opciones de dispositivo">
+<!ENTITY runtimeMenu_showSettings_accesskey "s">
 
 <!ENTITY viewMenu_label "Ver">
 <!ENTITY viewMenu_accesskey "V">
@@ -54,7 +56,7 @@
 <!ENTITY viewMenu_resetzoom_accesskey "r">
 
 <!ENTITY projectButton_label "Abrir aplicaciones">
-<!ENTITY runtimeButton_label "Select Runtime">
+<!ENTITY runtimeButton_label "Seleccionar Runtime">
 
 <!-- We try to repicate Firefox' bindings: -->
 <!-- quit app -->
@@ -112,7 +114,7 @@
 <!ENTITY prefs_title "Preferencias">
 <!ENTITY prefs_editor_title "Editor">
 <!ENTITY prefs_general_title "General">
-<!ENTITY prefs_restore "Restaurar predeterminado">
+<!ENTITY prefs_restore "Restablecer a datos de fábrica">
 <!ENTITY prefs_manage_components "Administrar componentes extra">
 <!ENTITY prefs_options_autoconnectruntime "Reconectar a runtime anterior">
 <!ENTITY prefs_options_autoconnectruntime_tooltip "Reconectar a runtime anterior al iniciar WebIDE">
@@ -147,16 +149,19 @@
 <!ENTITY runtimedetails_requestPrivileges "solicitar privilegios superiores">
 <!ENTITY runtimedetails_privilegesWarning "(Reiniciará el dispositivo. Se requiere acceso root.)">
 
-<!-- Device Preferences -->
-<!ENTITY devicepreferences_title "Preferencias de dispositivo">
-<!ENTITY devicepreferences_search "Buscar preferencias">
-<!ENTITY devicepreferences_newname "Nuevo nombre de preferencia">
-<!ENTITY devicepreferences_newtext "Valor de preferencia">
-<!ENTITY devicepreferences_addnew "Agregar nueva preferencia">
-<!ENTITY devicepreferences_typeboolean "Lógico">
-<!ENTITY devicepreferences_typenumber "Entero">
-<!ENTITY devicepreferences_typestring "Cadena">
-<!ENTITY devicepreferences_typenone "Seleccione un tipo">
+<!-- Device Preferences and Settings -->
+<!ENTITY device_typeboolean "Lógico">
+<!ENTITY device_typenumber "Entero">
+<!ENTITY device_typestring "Cadena">
+<!ENTITY device_typeobject "Objeto">
+<!ENTITY device_typenone "Seleccione un tipo">
+
+<!-- Device Settings -->
+<!ENTITY devicesetting_title "Opciones de dispositivo">
+<!ENTITY devicesetting_search "Opciones de búesqueda">
+<!ENTITY devicesetting_newname "Nombre de nueva opción">
+<!ENTITY devicesetting_newtext "Valor de opción">
+<!ENTITY devicesetting_addnew "Agregar nueva opción">
 
 <!-- Monitor -->
 <!ENTITY monitor_title "Monitor">

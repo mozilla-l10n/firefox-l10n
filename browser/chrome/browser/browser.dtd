@@ -835,3 +835,11 @@ The word "toolbar" is appended automatically and should not be contained below! 
 <!ENTITY panicButton.thankyou.msg2                "¡Navegación segura!">
 <!ENTITY panicButton.thankyou.buttonlabel         "¡Gracias!">
 
+<!ENTITY processHang.terminateScript.label        "Detener script">
+<!ENTITY processHang.terminateScript.accessKey    "s">
+<!ENTITY processHang.debugScript.label            "Depurar script">
+<!ENTITY processHang.debugScript.accessKey        "D">
+<!ENTITY processHang.terminatePlugin.label        "Matar plugin">
+<!ENTITY processHang.terminatePlugin.accessKey    "P">
+<!ENTITY processHang.terminateProcess.label       "Matar proceso web">
+<!ENTITY processHang.terminateProcess.accessKey   "w">
