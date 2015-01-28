@@ -113,6 +113,8 @@
 <!ENTITY prefs_general_title "ទូទៅ">
 <!ENTITY prefs_restore "ស្ដារ​លំនាំ​ដើម">
 
+
+
 <!ENTITY prefs_options_rememberlastproject "ចងចាំ​គម្រោង​ចុងក្រោយ">
 <!ENTITY prefs_options_rememberlastproject_tooltip "ស្ដារ​គម្រោង​មុន​នៅ​ពេល​ចាប់ផ្ដើម WebIDE">
 <!ENTITY prefs_options_templatesurl "URL ពុម្ព">

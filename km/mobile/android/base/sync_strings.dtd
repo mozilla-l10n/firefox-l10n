@@ -171,6 +171,9 @@
 <!ENTITY fxaccount_confirm_account_verification_link_sent2 "ផ្ញើ​អ៊ីមែល​ម្ដងទៀត">
 <!ENTITY fxaccount_confirm_account_verification_link_not_sent2 "មិន​អាច​ផ្ញើ​អ៊ីមែល​ការ​ផ្ទៀងផ្ទាត់">
 
+
+
+
 <!ENTITY fxaccount_sign_in_sub_header "ចូល">
 <!ENTITY fxaccount_sign_in_button_label "ចូល">
 <!ENTITY fxaccount_sign_in_forgot_password "ភ្លេច​ពាក្យ​សម្ងាត់?">
@@ -180,9 +183,13 @@
 <!ENTITY fxaccount_account_verified_sub_header "បាន​ផ្ទៀងផ្ទាត់​គណនី">
 <!ENTITY fxaccount_account_verified_description2 "ទិន្នន័យ​របស់​អ្នក​នឹង​កំពុង​ត្រូវ​បាន​ធ្វើ​សមកាលកម្ម​នៅ​ពេល​នេះ។">
 
+
 <!ENTITY fxaccount_update_credentials_header "ចូល">
 <!ENTITY fxaccount_update_credentials_button_label "ចូល">
 <!ENTITY fxaccount_update_credentials_unknown_error "មិន​អាច​ចូល">
+
+
+
 
 <!ENTITY fxaccount_status_header2 "គណនី Firefox">
 <!ENTITY fxaccount_status_signed_in_as "បាន​ចូល​ជា">
@@ -197,7 +204,9 @@
 <!ENTITY fxaccount_status_needs_credentials "មិន​អាច​តភ្ជាប់។ ប៉ះ​ដើម្បី​ចូល។">
 <!ENTITY fxaccount_status_needs_upgrade "អ្នក​ត្រូវ​ធ្វើ​បច្ចុប្បន្នភាព &brandShortName; ដើម្បី​ចូល។">
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled "បាន​ដំឡើង &syncBrand.shortName.label; ប៉ុន្តែ​មិន​បាន​ធ្វើ​សមកាលកម្ម​​ដោយ​ស្វ័យប្រវត្តិ​ទេ។ បិទ/បើក \&quot;ការ​​ធ្វើ​សមកាលកម្ម​​ទិន្នន័យ​ស្វ័យប្រវត្តិ\&quot; នៅ​ក្នុង​ការ​កំណត់ Android &gt; ការ​ប្រើប្រាស់​ទិន្នន័យ។">
+
 <!ENTITY fxaccount_status_needs_account_enabled "បាន​ដំឡើង &syncBrand.shortName.label; ប៉ុន្តែ​មិន​បាន​ធ្វើ​សមកាលកម្ម​ដោយ​ស្វ័យប្រវត្តិ​នោះ​ទេ។ ចុច​ដើម្បី​ចាប់ផ្ដើម​ធ្វើ​សមកាលកម្ម។">
+
 <!ENTITY fxaccount_status_bookmarks "ចំណាំ">
 <!ENTITY fxaccount_status_history "ប្រវត្តិ">
 <!ENTITY fxaccount_status_passwords "ពាក្យ​សម្ងាត់">
@@ -246,7 +255,10 @@
 <!ENTITY fxaccount_remote_error_UNKNOWN_ERROR "មាន​បញ្ហា">
 <!ENTITY fxaccount_remote_error_COULD_NOT_CONNECT "មិន​អាច​តភ្ជាប់​ទៅ​បណ្ដាញ">
 
+
 <!ENTITY fxaccount_sync_sign_in_error_notification_title2 "&syncBrand.shortName.label; ត្រូវ​បាន​តភ្ជាប់">
 <!-- Localization note: the format string below will be replaced
      with the Firefox Account's email address. -->
-<!ENTITY fxaccount_sync_sign_in_error_notification_text2 "ប៉ះ​ដើម្បី​ចូល​ជា &formatS;">
+
+<!-- Localization note: the format string below will be replaced
+     with the Firefox Account's email address. -->
