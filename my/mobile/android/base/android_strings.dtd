@@ -294,11 +294,11 @@ size. -->
 <!ENTITY save_as_pdf "PDF အနေဖြင့်သိမ်း">
 <!ENTITY find_in_page "စာမျက်နှာတွင်ထဲတွင် ရှာပါ">
 <!ENTITY desktop_mode "ဒတ်စ်တောခ့်ဆိုဒ်အားတောင်းပါ">
-
-
-
-
-
+<!ENTITY page "စာမျက်နှာ">
+<!ENTITY tools "ကိရိယာများ">
+<!ENTITY new_tab "တပ်ဗ် အသစ်">
+<!ENTITY new_private_tab "တစ်ကိုယ်ရေသုံး တပ်ဗ်အသစ်">
+<!ENTITY close_all_tabs "စာအမှတ် အားလုံးကို ပိတ်ရန်">
 
 
 
