@@ -116,7 +116,7 @@
 <!ENTITY runtimedetails_adbIsRoot "ADB è root: ">
 <!ENTITY runtimedetails_summonADBRoot "dispositivo root">
 <!ENTITY runtimedetails_ADBRootWarning "(richiede bootloader sbloccato)">
-<!ENTITY runtimedetails_restrictedPrivileges "Permessi limitati per strumenti di sviluppo: ">
+<!ENTITY runtimedetails_unrestrictedPrivileges "Permessi illimitati per strumenti di sviluppo: ">
 <!ENTITY runtimedetails_requestPrivileges "richiede permessi più elevati">
 <!ENTITY runtimedetails_privilegesWarning "(Il dispositivo verrà riavviato. Richiede accesso root.)">
 <!ENTITY device_typeboolean "booleano">
