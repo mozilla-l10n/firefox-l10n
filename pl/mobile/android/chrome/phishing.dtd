@@ -2,17 +2,15 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-
 <!ENTITY safeb.palm.accept.label "Zabierz mnie stąd!">
 <!ENTITY safeb.palm.decline.label "Zignoruj to ostrzeżenie">
 <!ENTITY safeb.palm.notforgery.label2 "To nie jest oszustwo…">
 <!ENTITY safeb.palm.reportPage.label "Dlaczego ta strona została zablokowana?">
 
 <!ENTITY safeb.blocked.malwarePage.title "Strona zgłoszona jako dokonująca ataków!">
-<!-- Localization note (safeb.blocked.malware.shortDesc) - Please don't translate the contents of the <span id="malware_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
 <!ENTITY safeb.blocked.malwarePage.shortDesc "Strona <span id='malware_sitename'/> została zgłoszona jako strona stanowiąca zagrożenie i została zablokowana zgodnie z ustawieniami bezpieczeństwa.">
 <!ENTITY safeb.blocked.malwarePage.longDesc "<p>Tego rodzaju strony mogą próbować instalować oprogramowanie wykradające poufne dane, używające komputera do pośredniczenia w atakach lub uszkadzające system.</p><p>Niektóre szkodliwe strony celowo rozpowszechniają niebezpieczne oprogramowanie, ale większość z nich działa na serwerach, na które nastąpiło włamanie.</p>">
 
 <!ENTITY safeb.blocked.phishingPage.title2 "Podejrzenie oszustwa!">
 <!ENTITY safeb.blocked.phishingPage.shortDesc2 "Wprowadzanie na tej stronie informacji osobistych może być niebezpieczne. Istnieje ryzyko kradzieży tożsamości lub innych oszustw.">
-<!ENTITY safeb.blocked.phishingPage.longDesc2 "<p>Oszustwa wyłudzenia, zwane atakami phishingowymi, polegają na wykorzystaniu stron i wiadomości email podszywających się pod organizacje, którym ufasz.</p>">
+<!ENTITY safeb.blocked.phishingPage.longDesc2 "<p>Oszustwa wyłudzenia, zwane atakami phishingowymi, polegają na wykorzystaniu stron i wiadomości e-mail podszywających się pod organizacje, którym ufasz.</p>">
