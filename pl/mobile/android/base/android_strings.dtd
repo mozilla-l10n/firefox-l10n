@@ -27,7 +27,7 @@
 <!ENTITY  crash_comment "Dodaj komentarz (komentarze są publicznie dostępne)">
 <!ENTITY  crash_allow_contact2 "Organizacja &vendorShortName; może skontaktować się ze mną w sprawie tego zgłoszenia">
 <!ENTITY  crash_email "Twój adres e-mail">
-<!ENTITY  crash_closing_alert "Chcesz wyjść bez wysłania zgłoszenia?">
+<!ENTITY crash_closing_alert "Czy wyjść bez wysłania zgłoszenia?">
 <!ENTITY  crash_close_label "Zamknij">
 <!ENTITY  crash_restart_label "Uruchom ponownie program &brandShortName;">
 <!ENTITY  sending_crash_report "Przesyłanie zgłoszenia\u2026">
@@ -364,7 +364,7 @@ size. -->
 <!ENTITY home_title "&brandShortName;: Strona domowa">
 <!ENTITY home_history_title "Historia">
 <!ENTITY home_clear_history_button "Wyczyść historię przeglądania">
-<!ENTITY home_clear_history_confirm "Czy na pewno chcesz wyczyścić historię przeglądania?">
+<!ENTITY home_clear_history_confirm "Czy na pewno wyczyścić historię przeglądania?">
 <!ENTITY home_bookmarks_empty "Tutaj pojawiają się zachowane zakładki.">
 <!ENTITY home_closed_tabs_title "Niedawno zamknięte karty">
 <!ENTITY home_last_tabs_title "Karty z ostatniej sesji">
