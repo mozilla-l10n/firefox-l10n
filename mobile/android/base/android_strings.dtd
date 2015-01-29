@@ -487,7 +487,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY blocked_mixed_content_message_bottom "เว็บไซต์ส่วนใหญ่ยังสามารถทำงานได้ถูกต้องแม้เนื้อหานี้จะถูกปิดกั้น">
 <!-- Tracking content notifications in site identity popup -->
 
-<!ENTITY loaded_tracking_content_message_top "การป้องกันการติดตามถูกปิดแล้ว">
+<!ENTITY loaded_tracking_content_message_top "ปิดการป้องกันการติดตามแล้ว">
 <!ENTITY loaded_tracking_content_message_bottom "มีบางส่วนในหน้านี้อาจติดตามกิจกรรมออนไลน์ของคุณ">
 <!ENTITY blocked_tracking_content_message_top2 "เปิดการป้องกันการติดตามแล้ว">
 <!ENTITY blocked_tracking_content_message_bottom2 "ส่วนของหน้าที่ติดตามกิจกรรมออนไลน์ของคุณถูกปิดกั้น">
@@ -495,7 +495,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY learn_more "เรียนรู้เพิ่ม">
 <!ENTITY enable_protection "เปิดการปกป้อง">
-<!ENTITY disable_protection "ปิดการปกป้อง">
+<!ENTITY disable_protection "ปิดการป้องกัน">
 <!ENTITY keep_blocking "ปิดกั้นต่อไป">
 
 <!ENTITY private_data_success "ข้อมูลส่วนตัวถูกล้างแล้ว">

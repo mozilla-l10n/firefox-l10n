@@ -11,9 +11,9 @@
 
 
 <!ENTITY connectionFailure.title "ไม่สามารถเชื่อมต่อได้">
+<!ENTITY connectionFailure.longDesc2 "&sharedLongDesc3;">
 
-
-<!ENTITY deniedPortAccess.title "ที่ตั้งนี้ถูกจำกัด">
+<!ENTITY deniedPortAccess.title "ที่อยู่นี้ถูกจำกัด">
 <!ENTITY deniedPortAccess.longDesc "">
 
 <!ENTITY dnsNotFound.title "ไม่พบเซิร์ฟเวอร์">
@@ -65,6 +65,11 @@
 <!ENTITY netOffline.title "โหมดออฟไลน์">
 <!-- LOCALIZATION NOTE (netOffline.longDesc3) This string contains markup including widgets enabling wifi connections.
      The text inside the tags should be localized. Do not touch the ids. -->
+<!ENTITY netOffline.longDesc3 "<ul> 
+<li>ลองใหม่ &brandShortName; พยายามที่จะเปิดการเชื่อมต่อและโหลดหน้าใหม่ 
+<button id='wifi'>เปิดใช้งาน Wi-Fi</button> 
+</li> 
+</ul>">
 
 <!ENTITY contentEncodingError.title "การเข้ารหัสอักขระในเนื้อหาผิดพลาด">
 <!ENTITY contentEncodingError.longDesc "<ul> 
@@ -97,7 +102,7 @@
 <!-- LOCALIZATION NOTE (proxyResolveFailure.longDesc3) This string contains markup including widgets for enabling wifi connections.
      The text inside the tags should be localized. Do not touch the ids. -->
 
-<!ENTITY redirectLoop.title "หน้าเว็บเปลี่ยนแปลงทิศการเรียกไม่ถูกต้อง">
+<!ENTITY redirectLoop.title "หน้าเว็บไม่ได้เปลี่ยนเส้นทางอย่างถูกต้อง">
 <!ENTITY redirectLoop.longDesc "<ul> 
 <li>ปัญหานี้บางครั้งอาจแก้ได้โดยการปิดการใช้งานหรือปฏิเสธการรับคุกกี้</li> 
 </ul>">
