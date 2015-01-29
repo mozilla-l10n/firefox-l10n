@@ -263,11 +263,12 @@ size. -->
 <!ENTITY datareporting_fhr_summary2 "&vendorShortName; နှင့် အချက်အလက်မျှဝေခြင်းဖြင့် ဘယောက်ဆာအားပိုကောင်းအောင်ပြုလုပ်ရာတွင် ကူညီပါ">
 <!ENTITY datareporting_abouthr_title "ကျန်းမာရေးအစီရင်ခံစာ အားကြည့်မည်">
 <!ENTITY datareporting_telemetry_title "တယ်လီမန်ထရီ">
-
-
+<!ENTITY datareporting_telemetry_summary "လုပ်ဆောင်ချက်များ ၊ ဟတ်ဒ်ဝဲနှင့် ပြင်ဆင်မှူအချက်အလက်များအား &vendorShortName; အားမျှဝေပေးခြင်း အားဖြင့် &brandShortName; အားပိုကောင်းအောင်လုပ်ရန်ကူညီပါ။">
+<!ENTITY datareporting_crashreporter_summary "&brandShortName; သည် ပျက်ဆီးမှု ဆိုင်ရာအချက်အလက်များအား &vendorShortName; သို့ပေးပို့ခြင်းအားဖြင့် သင်၏ သုံးဆွဲမှူအားပိုမိုတည်ငြိမ်လုံခြုံအောင် လုပ်ရန် ကူညီပါ။">
 <!-- Localization note (datareporting_crashreporter_title_short) : This string matches
      (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
-
+<!ENTITY datareporting_crashreporter_title_short "ပျက်ဆီးချက်တင်ပြသူ">
+<!ENTITY datareporting_wifi_title2 "&vendorShortName; တည်နေရာ ဝန်ဆောင်မှု">
 
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
