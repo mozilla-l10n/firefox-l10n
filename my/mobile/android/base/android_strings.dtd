@@ -344,16 +344,21 @@ size. -->
      whether or not the dynamic toolbar is enabled. -->
 
 <!ENTITY pref_scroll_title_bar2 "စကရင်အပြည့် သုံးခြင်း">
-
+<!ENTITY pref_scroll_title_bar_summary "&brandShortName; ခေါင်းစီးဘားအား စာမျက်နှာ ကြည့်နေစဉ် ဖျောက်ထားမည်">
 <!-- Localization note (page_removed): This string appears in a toast message when
      any page is removed frome about:home. This includes pages that are in history,
      bookmarks, or reading list. -->
 
+<!ENTITY page_removed " စာမျက်နှာအားဖယ်ပြီး">
+
+<!ENTITY bookmark_edit_title "စာအမှာအားပြင်">
 <!ENTITY bookmark_edit_name "အမည်">
 <!ENTITY bookmark_edit_location "တည်နေရာ">
 <!ENTITY bookmark_edit_keyword "သော့ချက် စာလုံး">
 <!-- Localization note (site_settings_*) : These strings are used in the "Site Settings"
      dialog that appears after selecting the "Edit Site Settings" context menu item. -->
+
+<!ENTITY site_settings_title3       "ဆိုက်အပြင်အဆင်များ">
 
 
 
@@ -368,23 +373,26 @@ size. -->
 
 <!ENTITY masterpassword_remove_title "ပင်ရင်း စကားဝှက်ကို ဖယ်ရှားပါ">
 <!ENTITY masterpassword_password "စကားဝှက်">
-
+<!ENTITY masterpassword_confirm "ပတ်စ်ဝတ်အားအတည်ပြုပါ">
 
 <!ENTITY button_ok "OK">
-
+<!ENTITY button_cancel "ပယ်​ဖျက်ပါ">
 <!ENTITY button_yes "ကောင်းပြီ">
 <!ENTITY button_no "မလုပ်ဘူး">
-
-
-
+<!ENTITY button_clear_data "အချက်အလက်အားရှင်းပါ">
+<!ENTITY button_set "သတ်မှတ်ပါ">
+<!ENTITY button_clear "ရှင်းလင်းပါ">
 
 <!ENTITY home_top_sites_title "ထိပ်တန်းဝပ်ဆိုက်များ">
 <!-- Localization note (home_top_sites_add): This string is used as placeholder
      text underneath empty thumbnails in the Top Sites page on about:home. -->
+<!ENTITY home_top_sites_add "ဆိုက်တစ်ခု အားထည့်ပါ">
 <!-- Localization note (home_title): This string should be kept in sync
      with the page title defined in aboutHome.dtd -->
 
-
+<!ENTITY home_title "&brandShortName; ပင်မ">
+<!ENTITY home_history_title "မှတ်တမ်း">
+<!ENTITY home_clear_history_button "ဘယောက်ဆာ မှတ်တမ်းအားရှင်းပါ">
 
 
 
@@ -399,18 +407,26 @@ size. -->
      as an advisory message on how to add content to the reading list when the reading list empty.
      The placeholder &formatI; will be replaced by a small image of the icon described, and can be moved to wherever
      it is applicable. -->
+<!ENTITY home_reading_list_hint2 "TIP: ခေါင်းစီးဘားတွင် &formatI; အိုင်ကွန်ပေါ်လာပါက ၎င်းအား ကြာကြာဖိနှိပ်ခြင်းဖြင့် စာစဥ်များအား သင်၏ စာရင်းထဲသို့ ထည့်ပါ။">
 <!-- Localization note (home_reading_list_hint_accessible): This string is used
      as alternate text for accessibility. It is not visible in the UI. -->
+<!ENTITY home_reading_list_hint_accessible "TIP: စာဖတ်ပုံစံ ခလုပ်အား ခေါင်းစီးဘားတွင် ပေါ်လာပါက ခပ်ကြာကြာဖိနှိပ်ခြင်း ဖြင့် စာစဉ်များအား စာရင်းထဲသို့ သိမ်းပါ">
 <!-- Localization note (home_default_empty): This string is used as the default text when there
      is no data to show in an about:home panel that was created by an add-on. -->
+
+<!ENTITY home_default_empty "ယခု ရင်ပြင်တွင် မည်သည့် အရာမျှတွေ့ရမည်မဟုတ်ပါ">
 <!-- Localization note (home_move_up_to_filter): The variable is replaced by the name of the
      previous location in the navigation, such as the previous folder -->
 
+<!ENTITY home_move_up_to_filter "&formatS; ထိ">
 
+<!ENTITY home_remote_tabs_title "ချိတ်ဆက်ထားသော တပ်ဗ်များ">
+<!ENTITY home_remote_tabs_empty "အခြားဖုန်းများမှ သင်ဖွင့်ထားသော တပ်ဗ်များ ဒီတွင်ပေါ်နေမည်">
 <!ENTITY home_remote_tabs_unable_to_connect "ချိတ်ဆက်ဖို့ မအောင်မြင်ဘူး">
+<!ENTITY home_remote_tabs_need_to_sign_in "သင့် မီးမြေခွေးအကောင့်ဖြင့် ချိတ်ဆက်ရန် အကောင့်သို့ ပြန်လည် ဝင်ရောက်ပါ">
+<!ENTITY home_remote_tabs_need_to_finish_migrating "သင်၏ မီးမြေခွေးအကောင့်အသစ် အဆင်သင့်ဖြစ်ပါပြီ!">
 
-
-
+<!ENTITY home_remote_tabs_trouble_verifying "သင့်အကောင့်အား အတည်ပြုရန်ခက်ခဲနေသလား?">
 
 
 <!-- Localization note (home_remote_tabs_many_hidden_devices) : The
@@ -427,9 +443,11 @@ size. -->
 
 
 
+<!ENTITY remote_tabs_panel_moved_link "ရင်ပြင်အသစ်သို့ ပို့ပေးပါ">
 
+<!ENTITY pin_site_dialog_hint "ရှာဖွေရေးကီးစာလုံး ထည့်ပါ">
 
-
+<!ENTITY filepicker_title "ဖိုင် ရွေးချယ်ပါ">
 
 
 
