@@ -122,6 +122,8 @@
 <!-- LOCALIZATION NOTE (options.usedeveditiontheme.*) Options under the
   -  toolbox for enabling and disabling the Developer Edition browser theme. -->
 
+<!ENTITY options.usedeveditiontheme.label   "ប្រើ​រូបរាង​កម្មវិធី​អ៊ីនធឺណិត​ការ​កែសម្រួល​របស់​អ្នក​អភិវឌ្ឍ">
+<!ENTITY options.usedeveditiontheme.tooltip "បិទ/បើក​រូបរាង​កម្មវិធី​អ៊ីនធឺណិត​ការ​កែសម្រួល​របស់​អ្នក​អភិវឌ្ឍ">
 <!-- LOCALIZATION NOTE (options.webconsole.label): This is the label for the
   -  heading of the group of Web Console preferences in the options panel. -->
 
