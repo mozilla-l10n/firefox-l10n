@@ -269,21 +269,31 @@ size. -->
      (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
 <!ENTITY datareporting_crashreporter_title_short "ပျက်ဆီးချက်တင်ပြသူ">
 <!ENTITY datareporting_wifi_title2 "&vendorShortName; တည်နေရာ ဝန်ဆောင်မှု">
-
+<!ENTITY datareporting_wifi_geolocation_summary2 "သင့် ဖုန်း၏ Wi-Fi နှင့် ဆယ်လူလာ တည်နေရာပြစနစ်အားသုံးပြီး &vendorShortName; အား ပထဝီတည်နေရာပြဝန်ဆောင်မှု အားသုံးစေမည်">
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
      actual notification that an update is available. -->
-
-
-
+<!ENTITY pref_update_autodownload2 "အဆင့်မြှင့်တင်ခြင်းများအား အလိုအလျောက်ရယူပါ">
+<!ENTITY pref_update_autodownload_wifi "Wi-Fi ဖြင့်သာ">
+<!ENTITY pref_update_autodownload_never "ဘယ်တော့မှ">
+<!ENTITY pref_update_autodownload_always "အမြဲတမ်း">
 <!-- Localization note (help_menu) : This string is used in the main menu-->
 
+<!ENTITY help_menu "အကူအညီ">
+
+<!ENTITY quit "ထွက်">
 
 <!ENTITY addons "ပေါင်းထည့်ဆော့ဝဲများ">
-
+<!ENTITY downloads "ဆွဲချချက်များ">
 <!ENTITY apps "အက်ပ်များ">
 <!ENTITY char_encoding "အက္ခရာ စာဝှက်ရေးသားခြင်း">
 
+<!ENTITY share "မျှ​ဝေ">
+<!ENTITY share_title "မျှဝေမှ">
+<!ENTITY share_image_failed "ယခု ပုံအား မမျှဝေနိုင်ပါ">
+<!ENTITY save_as_pdf "PDF အနေဖြင့်သိမ်း">
+<!ENTITY find_in_page "စာမျက်နှာတွင်ထဲတွင် ရှာပါ">
+<!ENTITY desktop_mode "ဒတ်စ်တောခ့်ဆိုဒ်အားတောင်းပါ">
 
 
 
@@ -294,23 +304,22 @@ size. -->
 
 
 
-
-
-
-
-
-
-
+<!ENTITY set_image_path_fail "ပုံအား မသိမ်းနိုင်ပါ">
+<!ENTITY set_image_chooser_title "ပုံအား သုံးမည်">
 <!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
+
+<!ENTITY find_text "ဒီစာမျက်နှာတွင် ရှာပါ">
 <!ENTITY find_prev "အရင်နေရာ">
 <!ENTITY find_next "နောက်တနေရာ">
-
+<!ENTITY find_close "ပိတ်ပါ">
 <!-- Localization note (media_sending_to, media_play, media_pause, media_stop) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
+
+<!ENTITY media_sending_to "ဖုန်းသို့ ပို့နေသှ်">
 <!ENTITY media_play "ဖွင့်ပါ။">
 <!ENTITY media_pause "ခေတ္တရပ်တန့်တယ်">
-
+<!ENTITY media_stop "ရပ်ပါ">
 
 
 
