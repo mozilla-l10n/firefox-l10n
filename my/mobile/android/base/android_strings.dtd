@@ -448,9 +448,9 @@ size. -->
 <!ENTITY pin_site_dialog_hint "ရှာဖွေရေးကီးစာလုံး ထည့်ပါ">
 
 <!ENTITY filepicker_title "ဖိုင် ရွေးချယ်ပါ">
-
-
-
+<!ENTITY filepicker_audio_title "အသံသွင်း သို့ အသံတစ်သံအားရွေးပါ">
+<!ENTITY filepicker_image_title "ဓာတ်ပုံ ရိုက်သို့  တစ်ပုံရွေးပါ">
+<!ENTITY filepicker_video_title "ဗီဒီယိုရိုက် သို့ ဗီဒီယိုတစ်ခုရွေးပါ">
 <!-- Site identity popup -->
 
 <!ENTITY identity_connected_to "သင်နဲ့ ဆက်သွယ်နေတဲ့အရာ">
@@ -466,9 +466,11 @@ substitution variables.  If it is difficult to translate the sense of the string
 with that structure, consider a translation which ignores the preceding domain and
 just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_run_by "၄င်းကို မောင်းနှင်နေတဲ့အရာ">
-
-
+<!ENTITY identity_no_info "ဝတ်ဆိုက်သည်ပိုင်ဆိုင်မှူသတင်းအချက်အလက်တစ်စုံတစ်ရာမပြသထားပါ။">
+<!ENTITY identity_not_encrypted "သင်၏ ယခုဝတ်ဆိုဒ်သို့ချိတ်ဆက်မှူအား Encrypt လုပ်မထားပါ။">
 <!-- Mixed content notifications in site identity popup -->
+
+<!ENTITY loaded_mixed_content_message "ယခုစာမျက်နှာသည် လုံခြုံရေးမရှိသော အရာအချို့ကို ပြသနေသှ်">
 
 
 <!-- Tracking content notifications in site identity popup -->
@@ -482,11 +484,14 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 
 
-
+<!ENTITY private_data_success "တစ်ကိုယ်ရေသုံး အချက်အလက်များရှင်းပြီး">
+<!ENTITY private_data_fail "အချို့သော တစ်ကိုယ်ရေသုံးအချက်အလက်များ မရှင်းလိုက်နိုင်ပါ">
 
 <!ENTITY bookmarkhistory_button_import "ပြန်ရယူ">
-
-
+<!ENTITY bookmarkhistory_import_both "စာအမှတ်များနှင့် မှတ်တမ်းများအား   
+ဖုန်းမှ ဆွဲယူနေသှ်">
+<!ENTITY bookmarkhistory_import_bookmarks "စာအမှတ်များအား 
+ဖုန်းမှ ဆွဲယူနေသှ် ">
 
 
 
