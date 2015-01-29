@@ -321,8 +321,9 @@ size. -->
 <!ENTITY media_pause "ခေတ္တရပ်တန့်တယ်">
 <!ENTITY media_stop "ရပ်ပါ">
 
-
-
+<!ENTITY contextmenu_open_new_tab "တပ်ဗ်အသစ်တစ်ခုဖွင့်ပါ">
+<!ENTITY contextmenu_open_private_tab "တစ်ကိုယ်ရေသုံးတပ်ဗ်ဖွင့်">
+<!ENTITY contextmenu_remove "ဖယ်ရှားပါ ">
 
 
 <!ENTITY contextmenu_pasteandgo "ကူးထားပြီးနောက်သွားမည်။">
@@ -334,12 +335,15 @@ size. -->
 
 
 
+<!ENTITY contextmenu_add_search_engine "ရှာဖွေရေး ဝန်ဆောင်မှု ထည့်သွင်းပါ">
 
-
-
-
+<!ENTITY pref_titlebar_mode "ခေါင်းစီးဘား">
+<!ENTITY pref_titlebar_mode_title "စာမျက်နှာခေါင်းစီးပြပါ">
+<!ENTITY pref_titlebar_mode_url "စာမျက်နှာလိပ်စာအား ပြပါ">
 <!-- Localization note (pref_scroll_title_bar2): Label for setting that controls
      whether or not the dynamic toolbar is enabled. -->
+
+<!ENTITY pref_scroll_title_bar2 "စကရင်အပြည့် သုံးခြင်း">
 
 <!-- Localization note (page_removed): This string appears in a toast message when
      any page is removed frome about:home. This includes pages that are in history,
