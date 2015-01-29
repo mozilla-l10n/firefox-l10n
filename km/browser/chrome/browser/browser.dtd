@@ -95,8 +95,8 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY pageInfoCmd.label "ព័ត៌មាន​ទំព័រ">
 <!ENTITY pageInfoCmd.accesskey "I">
 <!ENTITY pageInfoCmd.commandkey "i">
-
-
+<!ENTITY mirrorTabCmd.label "ផ្ទាំង​ឆ្លុះ">
+<!ENTITY mirrorTabCmd.accesskey "ផ">
 <!-- LOCALIZATION NOTE (enterFullScreenCmd.label, exitFullScreenCmd.label):
 These should match what Safari and other Apple applications use on OS X Lion. -->
 <!ENTITY enterFullScreenCmd.label "បញ្ចូល​ពេញ​អេក្រង់">
@@ -273,6 +273,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
   -  application menu item that opens the browser content toolbox UI in the Tools menu.
   -  This toolbox allows to debug the chrome of the content process in multiprocess builds.  -->
 
+<!ENTITY browserContentToolboxMenu.label     "ប្រអប់​ឧបករណ៍​មាតិកា​កម្មវិធី​អ៊ីធឺណិត">
+
 <!ENTITY devToolbarCloseButton.tooltiptext "បិទ​របារ​ឧបករណ៍​​អ្នក​អភិវឌ្ឍន៍">
 <!ENTITY devToolbarMenu.label              "របារ​ឧបករណ៍​អ្នក​អភិវឌ្ឍន៍">
 <!ENTITY devToolbarMenu.accesskey          "v">
@@ -418,6 +420,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      These two strings are used to build the header above the list of one-click
      search providers:  "Search for <used typed keywords> with:" -->
 
+<!ENTITY searchFor.label              "ស្វែងរក៖">
+<!ENTITY searchWith.label             " ជាមួយ៖">
 <!-- LOCALIZATION NOTE (searchWithHeader.label):
      The wording of this string should be as close as possible to
      searchFor.label and searchWith.label. This string will be used instead of
@@ -734,7 +738,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY customizeMode.lwthemes.menuManage.accessKey "M">
 <!ENTITY customizeMode.lwthemes.menuGetMore "ទទួល​បាន​រូបរាង​ច្រើន">
 <!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "G">
-
+<!ENTITY customizeMode.deveditionTheme.label2 "ប្រើ​រូបរាង​ការ​កែសម្រួល​របស់​អ្នក​អភិវឌ្ឍ">
 
 <!ENTITY social.chatBar.commandkey "c">
 <!ENTITY social.chatBar.label "ផ្ដោត​ការ​ជជែក">
@@ -813,6 +817,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      The .mainActionDesc string combined with any of the 4 others is meant to form a complete sentence, e.g. "Proceeding will: Delete Recent Cookies".
      Note also that the deleteCookies, deleteHistory and deleteTabsAndWindows strings include <html:strong> tags for emphasis on the words "Cookies", "History", "Tabs" and "Windows".
      The translation should do the same. -->
+
+<!ENTITY panicButton.view.mainActionDesc          "ការ​ធ្វើ​បន្ត​នឹង៖">
 <!ENTITY panicButton.view.deleteCookies           "លុប​ <html:strong>ខូឃី</html:strong> ថ្មីៗ">
 <!ENTITY panicButton.view.deleteHistory           "លុប <html:strong>ប្រវត្តិ</html:strong> ថ្មី">
 <!ENTITY panicButton.view.deleteTabsAndWindows    "ជ្រើស <html:strong>ផ្ទាំង</html:strong> និង <html:strong>បង្អួច</html:strong> ទាំងអស់">
