@@ -144,8 +144,8 @@ selected to be added to the home page. -->
 <!ENTITY pref_home_updates_enabled "Włączone">
 <!ENTITY pref_home_updates_wifi "Tylko przez Wi-Fi">
 
-<!ENTITY pref_home_suggested_sites "Wyświetlaj sugerowane witryny">
-<!ENTITY pref_home_suggested_sites_summary "Wyświetlaj na stronie domowej skróty do witryn, które mogą cię zainteresować">
+<!ENTITY pref_home_suggested_sites "Sugerowane witryny">
+<!ENTITY pref_home_suggested_sites_summary "Wyświetlanie na stronie domowej skrótów do interesujących witryn">
 
 <!-- Localization note: These are shown in the left sidebar on tablets -->
 <!ENTITY pref_header_customize "Dostosuj">
@@ -196,7 +196,7 @@ representation of the language it is used in that will help show the text in the
 size. -->
 <!ENTITY pref_font_size_adjust_char "Aa">
 
-<!ENTITY pref_font_size_preview_text "Chyży ryży lisek skacze przez wysoko postawioną poprzeczkę dzięki szybkości, łatwości w dostosowywaniu go do potrzeb użytkownika i zwiększonym bezpieczeństwie. Jesteśmy organizacją non-profit, dzięki czemu możemy pracować nad innowacjami służącymi Twojemu dobru bez potrzeby pójścia na żaden kompromis. To oznacza przyjemniejsze użytkowanie dla ciebie i lepszą przyszłość dla Sieci.">
+<!ENTITY pref_font_size_preview_text "Chyży ryży lisek skacze przez wysoko postawioną poprzeczkę dzięki szybkości, łatwości w dostosowywaniu go do potrzeb użytkownika i zwiększonym bezpieczeństwie. Jesteśmy organizacją non-profit, dzięki czemu możemy pracować nad innowacjami służącymi Twojemu dobru bez potrzeby pójścia na żaden kompromis. To oznacza przyjemniejsze użytkowanie aplikacji i lepszą przyszłość dla Sieci.">
 
 <!ENTITY pref_media_autoplay_enabled "Automatyczne odtwarzanie">
 <!ENTITY pref_media_autoplay_enabled_summary "Kontroluje, czy strony mogą automatycznie odtwarzać filmy i inne treści">
@@ -246,7 +246,7 @@ size. -->
      healthReportDesc.label, telemetrySection.label, telemetryDesc.label,
      crashReporterDesc.label). -->
 <!ENTITY datareporting_fhr_title "&brandShortName;: raport o zdrowiu">
-<!ENTITY datareporting_fhr_summary2 "Pozwala ci zrozumieć wydajność przeglądarki i udostępnia dane o jej stanie organizacji &vendorShortName;">
+<!ENTITY datareporting_fhr_summary2 "Pozwala zrozumieć wydajność przeglądarki i udostępnia dane o jej stanie organizacji &vendorShortName;">
 <!ENTITY datareporting_abouthr_title "Wyświetl mój raport o zdrowiu">
 <!ENTITY datareporting_telemetry_title "Telemetria">
 <!ENTITY datareporting_telemetry_summary "Udostępnia organizacji &vendorShortName; dane o wydajności, wykorzystaniu, modyfikacjach przeglądarki oraz o sprzęcie, na którym działa, aby pomóc nam w ulepszeniu programu &brandShortName;">

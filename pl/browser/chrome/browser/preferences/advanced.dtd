@@ -2,8 +2,6 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!-- Note: each tab panel must contain unique accesskeys -->
-
 <!ENTITY generalTab.label                "Ogólne">
 
 <!ENTITY accessibility.label             "Dostępność">
@@ -29,7 +27,7 @@
 <!ENTITY dataChoicesTab.label            "Udostępnianie danych">
 
 <!ENTITY healthReportSection.label       "&brandShortName; Health Report">
-<!ENTITY healthReportDesc.label          "Pozwala ci zrozumieć wydajność przeglądarki i udostępnia dane o jej stanie organizacji &vendorShortName;">
+<!ENTITY healthReportDesc.label "Pozwala zrozumieć wydajność przeglądarki i udostępnia dane o jej stanie organizacji &vendorShortName;">
 <!ENTITY enableHealthReport.label        "Włącz funkcję &brandShortName; Health Report">
 <!ENTITY enableHealthReport.accesskey "H">
 <!ENTITY healthReportLearnMore.label     "Więcej informacji">

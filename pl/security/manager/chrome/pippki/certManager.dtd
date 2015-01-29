@@ -105,7 +105,7 @@
 <!ENTITY exceptionMgr.permanent.label         "Zachowaj ten wyjątek na stałe">
 <!ENTITY exceptionMgr.permanent.accesskey     "Z">
 
-<!ENTITY certmgr.mine 					"Posiadasz certyfikaty z następujących organizacji, które cię identyfikują:">
+<!ENTITY certmgr.mine "Posiadasz identyfikujące certyfikaty z następujących organizacji:">
 <!ENTITY certmgr.others 				"Posiadasz certyfikaty, które identyfikują następujące osoby:">
 <!ENTITY certmgr.websites2 				"Posiadasz certyfikaty, które identyfikują następujące serwery:">
 <!ENTITY certmgr.cas 					"Posiadasz certyfikaty, które identyfikują następujące organy certyfikacji:">
