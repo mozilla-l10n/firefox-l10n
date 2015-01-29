@@ -13,7 +13,7 @@
 <!ENTITY accountUsernameDuplicate.label "To konto jest już skonfigurowane!">
 
 <!ENTITY accountPasswordTitle.label "Hasło">
-<!ENTITY accountPasswordInfo.label "Wprowadź hasło w polu tesktowym poniżej.">
+<!ENTITY accountPasswordInfo.label "Wprowadź hasło w polu tekstowym poniżej.">
 <!ENTITY accountPasswordField.label "Hasło:">
 <!ENTITY accountPasswordManager.label "Podane hasło zostanie zachowane w Menedżerze haseł. Pozostaw pole wprowadzania hasła puste, aby podawać hasło przy każdej próbie logowania.">
 

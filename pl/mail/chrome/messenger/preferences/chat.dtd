@@ -7,7 +7,7 @@
 <!ENTITY startupOffline.label "nie łącz z kontami czatu">
 <!ENTITY startupConnectAuto.label "łącz z kontami czatu automatycznie">
 
-<!ENTITY reportIdleAfter.label "Wyświetlaj informacje o mojej niekatywności po">
+<!ENTITY reportIdleAfter.label "Wyświetlaj informacje o mojej nieaktywności po">
 <!ENTITY reportIdleAfter.accesskey "W">
 <!ENTITY idleTime "minutach">
 

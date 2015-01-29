@@ -4,7 +4,7 @@
 
 <!ENTITY AdvancedEditButton.label       "Zaawansowana edycja…">
 <!ENTITY AdvancedEditButton.accessKey   "e">
-<!ENTITY AdvancedEditButton.tooltip     "Dodaj lub modyfikuj atrybuty HTML, styli i JavaScript">
+<!ENTITY AdvancedEditButton.tooltip "Dodaj lub modyfikuj atrybuty HTML, stylów i JavaScript">
 <!ENTITY chooseFileButton.label         "Wybierz plik…">
 <!ENTITY chooseFileButton.accessKey     "W">
 <!ENTITY chooseFileLinkButton.label     "Wybierz plik…">

@@ -57,7 +57,7 @@
 
 <!-- Thread Pane Tooltips -->
 <!ENTITY columnChooser2.tooltip "Zaznacz, które kolumny zostaną wyświetlone">
-<!ENTITY threadColumn2.tooltip "Sorotwanie według wątków">
+<!ENTITY threadColumn2.tooltip "Sortowanie według wątków">
 <!ENTITY fromColumn2.tooltip "Sortowanie według nadawcy">
 <!ENTITY recipientColumn2.tooltip "Sortowanie według adresata">
 <!ENTITY subjectColumn2.tooltip "Sortowanie według tematu">

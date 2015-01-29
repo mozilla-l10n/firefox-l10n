@@ -29,7 +29,7 @@
 <!ENTITY newExistingEmailAccountCmd.accesskey "K">
 <!ENTITY newIMAccountCmd.label "Konfigurację konta czat…">
 <!ENTITY newIMAccountCmd.accesskey "c">
-<!ENTITY newFeedAccountCmd.label "Konfigurację konta akutalności…">
+<!ENTITY newFeedAccountCmd.label "Konfigurację konta aktualności…">
 <!ENTITY newFeedAccountCmd.accesskey "a">
 <!ENTITY newIMContactCmd.label "Wizytówkę dla kontaktu z czatu…">
 <!ENTITY newIMContactCmd.accesskey "t">
