@@ -31,6 +31,8 @@
      in the inspector contextual-menu for the item that lets users paste inner
      HTML in the current node -->
 
+<!ENTITY inspectorHTMLPasteInner.label      "បិទភ្ជាប់ HTML ខាងក្នុង">
+<!ENTITY inspectorHTMLPasteInner.accesskey  "ខ">
 <!-- LOCALIZATION NOTE (inspectorHTMLPasteExtraSubmenu.label): This is the label
      shown in the inspector contextual-menu for the sub-menu of the other Paste
      items, which allow to paste HTML:
@@ -39,6 +41,8 @@
      - as the first child of the current node
      - as the last child of the current node -->
 
+<!ENTITY inspectorHTMLPasteExtraSubmenu.label      "បិទភ្ចាប់…">
+<!ENTITY inspectorHTMLPasteExtraSubmenu.accesskey  "ភ">
 <!-- LOCALIZATION NOTE (inspectorHTMLPasteBefore.label): This is the label shown
      in the inspector contextual-menu for the item that lets users paste
      the HTML before the current node -->
