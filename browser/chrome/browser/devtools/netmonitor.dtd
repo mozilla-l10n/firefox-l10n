@@ -208,6 +208,8 @@
 <!-- LOCALIZATION NOTE (netmonitorUI.security.connection): This is the label displayed
   -  in the security tab describing the section containing information related to
   -  the secure connection. -->
+
+<!ENTITY netmonitorUI.security.connection "តំណ​ភ្ជាប់៖">
 <!-- LOCALIZATION NOTE (netmonitorUI.security.certificate): This is the label displayed
   -  in the security tab describing the server certificate section. -->
 
@@ -254,6 +256,8 @@
 <!-- LOCALIZATION NOTE (debuggerUI.summary.rawHeaders): This is the label displayed
   -  on the button in the headers tab that toggle view for raw request/response headers
      from the currently displayed request -->
+
+<!ENTITY netmonitorUI.summary.rawHeaders "បឋមកថា​ដើម">
 <!-- LOCALIZATION NOTE (debuggerUI.summary.rawHeaders.requestHeaders): This is the label displayed
   -  in the network details headers tab identifying the raw request headers textarea -->
 

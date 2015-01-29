@@ -47,6 +47,8 @@
      in the inspector contextual-menu for the item that lets users paste
      the HTML before the current node -->
 
+<!ENTITY inspectorHTMLPasteBefore.label      "មុន">
+<!ENTITY inspectorHTMLPasteBefore.accesskey  "ម">
 <!-- LOCALIZATION NOTE (inspectorHTMLPasteAfter.label): This is the label shown
      in the inspector contextual-menu for the item that lets users paste
      the HTML after the current node -->
