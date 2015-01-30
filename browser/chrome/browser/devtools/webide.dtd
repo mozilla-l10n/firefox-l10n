@@ -116,7 +116,7 @@
 <!ENTITY runtimedetails_adbIsRoot "ADB es root: ">
 <!ENTITY runtimedetails_summonADBRoot "dispositivo raíz">
 <!ENTITY runtimedetails_ADBRootWarning "(requiere un cargador desbloqueado)">
-<!ENTITY runtimedetails_restrictedPrivileges "Privilegios restringidos de DevTools: ">
+<!ENTITY runtimedetails_unrestrictedPrivileges "Privilegios no restringidos de DevTools: ">
 <!ENTITY runtimedetails_requestPrivileges "solicita más privilegios">
 <!ENTITY runtimedetails_privilegesWarning "(se reiniciará el dispositivo. Requiere acceso root).">
 <!ENTITY device_typeboolean "sí/no">
