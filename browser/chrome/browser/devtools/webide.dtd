@@ -24,8 +24,8 @@
 
 <!ENTITY projectMenu_showPrefs_label "Preferensi">
 <!ENTITY projectMenu_showPrefs_accesskey "e">
-
-
+<!ENTITY projectMenu_manageComponents_label "Kelola Komponen Ekstra">
+<!ENTITY projectMenu_manageComponents_accesskey "K">
 
 <!ENTITY runtimeMenu_label "Runtime">
 <!ENTITY runtimeMenu_accesskey "R">
@@ -39,19 +39,19 @@
 <!ENTITY runtimeMenu_showDetails_accesskey "E">
 <!ENTITY runtimeMenu_showMonitor_label "Monitor">
 <!ENTITY runtimeMenu_showMonitor_accesskey "M">
-
-
+<!ENTITY runtimeMenu_showDevicePrefs_label "Preferensi Perangkat">
+<!ENTITY runtimeMenu_showDevicePrefs_accesskey "P">
 
 <!ENTITY viewMenu_label "Tampilkan">
 <!ENTITY viewMenu_accesskey "T">
 <!ENTITY viewMenu_toggleEditor_label "Aktifkan/Nonaktifkan Editor">
 <!ENTITY viewMenu_toggleEditor_accesskey "E">
 <!ENTITY viewMenu_zoomin_label "Perbesar">
-
+<!ENTITY viewMenu_zoomin_accesskey "b">
 <!ENTITY viewMenu_zoomout_label "Perkecil">
-
-
-
+<!ENTITY viewMenu_zoomout_accesskey "k">
+<!ENTITY viewMenu_resetzoom_label "Setel Ulang Perbesaran">
+<!ENTITY viewMenu_resetzoom_accesskey "U">
 
 <!ENTITY projectButton_label "Buka Aplikasi">
 <!ENTITY runtimeButton_label "Pilih Runtime">
@@ -112,7 +112,7 @@
 <!ENTITY prefs_editor_title "Editor">
 <!ENTITY prefs_general_title "Umum">
 <!ENTITY prefs_restore "Kembalikan Bawaan">
-
+<!ENTITY prefs_manage_components "Kelola Komponen Ekstra">
 
 
 <!ENTITY prefs_options_rememberlastproject "Ingat proyek terakhir">
@@ -147,13 +147,15 @@
 <!ENTITY runtimedetails_privilegesWarning "(Akan memulai ulang perangkat. Membutuhkan akses root.)">
 <!-- Device Preferences -->
 
-
-
-
-
-
-
-
+<!ENTITY devicepreferences_title "Preferensi Perangkat">
+<!ENTITY devicepreferences_search "Cari preferensi">
+<!ENTITY devicepreferences_newname "Nama preferensi baru">
+<!ENTITY devicepreferences_newtext "Nilai preferensi">
+<!ENTITY devicepreferences_addnew "Tambahkan preferensi baru">
+<!ENTITY devicepreferences_typeboolean "Boolean">
+<!ENTITY devicepreferences_typenumber "Integer">
+<!ENTITY devicepreferences_typestring "String">
+<!ENTITY devicepreferences_typenone "Pilih jenis">
 <!-- Monitor -->
 
 <!ENTITY monitor_title "Monitor">
