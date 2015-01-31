@@ -73,8 +73,5 @@
 
 
 
-#define bookmarks_marketplace Firefox Marketplace
-
-
 
 #unfilter emptyLines
