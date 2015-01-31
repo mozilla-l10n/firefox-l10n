@@ -331,10 +331,10 @@ size. -->
 <!ENTITY contextmenu_copyurl "လိပ်စာအားကူးယူပါ">
 <!ENTITY contextmenu_edit_bookmark "တည်းဖြတ်">
 <!ENTITY contextmenu_subscribe "ဒီစာမျက်နှာမှာ စာရင်းသွင်းပါ">
-
-
-
-
+<!ENTITY contextmenu_site_settings "ဝတ်ဆိုဒ်ပုံစံအထိုင်အားပြုပြင်">
+<!ENTITY contextmenu_top_sites_edit "တည်းဖြတ်">
+<!ENTITY contextmenu_top_sites_pin "ဆိုဒ်အား တွဲပါ">
+<!ENTITY contextmenu_top_sites_unpin "ဆိုဒ်အားတွဲဖြုတ်ပါ">
 <!ENTITY contextmenu_add_search_engine "ရှာဖွေရေး ဝန်ဆောင်မှု ထည့်သွင်းပါ">
 
 <!ENTITY pref_titlebar_mode "ခေါင်းစီးဘား">
@@ -359,8 +359,8 @@ size. -->
      dialog that appears after selecting the "Edit Site Settings" context menu item. -->
 
 <!ENTITY site_settings_title3       "ဆိုက်အပြင်အဆင်များ">
-
-
+<!ENTITY site_settings_cancel       "ပယ်ဖျက်">
+<!ENTITY site_settings_clear        "ရှင်းလင်းပါ">
 
 
 
