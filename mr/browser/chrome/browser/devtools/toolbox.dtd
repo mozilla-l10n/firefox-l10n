@@ -148,7 +148,7 @@
   -  panel. -->
 
 <!ENTITY options.profiler.label            "JavaScript प्रोफाइलर">
-<!-- LOCALICATION NOTE (options.commonprefs): This is the label for the heading
+<!-- LOCALIZATION NOTE (options.commonprefs): This is the label for the heading
       of all preferences that affect both the Web Console and the Network
       Monitor -->
 
