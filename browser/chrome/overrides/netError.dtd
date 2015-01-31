@@ -127,7 +127,8 @@ bahwa &brandShortName; diizinkan untuk mengakses Web.</li>
 <!ENTITY phishingBlocked.longDesc "<p>Dengan memasukkan informasi pribadi pada laman ini, pencurian identitas atau kejahatan lainnya dapat terjadi.</p> 
 <p>Jenis pemalsuan web yang digunakan untuk penipuan (scam) dikenal sebagai &quot;phishing attack&quot; yaitu penipuan dengan cara meniru laman web dan email yang mungkin Anda percayai.</p>">
 
-
+<!ENTITY cspBlocked.title "Diblokir oleh Kebijakan Keamanan Konten">
+<!ENTITY cspBlocked.longDesc "<p>&brandShortName; mencegah pemuatan laman dengan cara ini karena laman mengandung kebijakan keamanan konten yang tidak mengizinkan hal ini.</p>">
 
 <!ENTITY corruptedContentError.title "Galat Konten Rusak">
 <!ENTITY corruptedContentError.longDesc "<p>Laman yang akan dibuka tidak dapat ditampilkan karena ada terdeteksi galat pada pengiriman data.</p><ul><li>Mohon hubungi pemilik situs web mengenai masalah ini.</li></ul>">

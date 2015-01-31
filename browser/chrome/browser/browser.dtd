@@ -273,6 +273,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
   -  application menu item that opens the browser content toolbox UI in the Tools menu.
   -  This toolbox allows to debug the chrome of the content process in multiprocess builds.  -->
 
+<!ENTITY browserContentToolboxMenu.label     "Kotak Alat Konten Peramban">
+
 <!ENTITY devToolbarCloseButton.tooltiptext "Tutup Bilah Alat Pengembang">
 <!ENTITY devToolbarMenu.label              "Bilah Alat Pengembang">
 <!ENTITY devToolbarMenu.accesskey          "P">
@@ -418,11 +420,14 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      These two strings are used to build the header above the list of one-click
      search providers:  "Search for <used typed keywords> with:" -->
 
+<!ENTITY searchFor.label              "Cari ">
+<!ENTITY searchWith.label             " lewat:">
 <!-- LOCALIZATION NOTE (searchWithHeader.label):
      The wording of this string should be as close as possible to
      searchFor.label and searchWith.label. This string will be used instead of
      them when the user has not typed any keyword. -->
-
+<!ENTITY searchWithHeader.label       "Cari lewat:">
+<!ENTITY changeSearchSettings.button  "Ubah Pengaturan Pencarian">
 
 <!ENTITY tabView.commandkey           "e">
 
