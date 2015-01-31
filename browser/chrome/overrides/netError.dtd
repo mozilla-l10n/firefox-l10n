@@ -148,19 +148,23 @@ functionality specific to firefox. -->
 <button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button> 
 <button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>">
 
-
-
+<!ENTITY errorReporting.title "Laporkan kesalahan ini">
+<!ENTITY errorReporting.longDesc "Pelaporan alamat dan informasi sertifikat <span id='hostname'></span> akan membantu kami mengidentifikasi dan memblokir situs yang berbahaya. Terima kasih telah membantu menyelenggarakan web yang lebih aman!">
+<!ENTITY errorReporting.automatic "Laporkan kesalahan secara otomatis sejak saat ini">
 <!ENTITY errorReporting.learnMore "Pelajari lebih lanjut…">
-
-
-
-
+<!ENTITY errorReporting.sending "Mengirim laporan">
+<!ENTITY errorReporting.sent "Laporan dikirim">
+<!ENTITY errorReporting.report "Laporkan">
+<!ENTITY errorReporting.tryAgain "Coba lagi">
 
 <!ENTITY remoteXUL.title "XUL Daring">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Hubungi pemilik situs web untuk memberitahukan masalah ini.</li></ul></p>">
 
+<!ENTITY oldSecurityProtocol.title "Gagal Tersambung dengan Aman">
 <!-- LOCALIZATION NOTE (oldSecurityProtocol.longDesc) - Do not translate the
      <span id='hostname'></span>. -->
+<!ENTITY oldSecurityProtocol.longDesc2 "&brandShortName; tidak dapat menjamin keamanan data Anda pada <span id='hostname'></span> karena situsnya menggunakan SSLv3 yang merupakan protokol keamanan yang rusak.">
 <!-- LOCALIZATION NOTE (oldSecurityProtocol.advancedInfo) - Do not translate
      the <span id='errorcode'></span>. -->
-<!ENTITY oldSecurityProtocol.learnMore "Pelajari Selengkapnya…">
+<!ENTITY oldSecurityProtocol.advancedInfo "Info teknis lebih lanjut: <span id='errorcode'></span>">
+<!ENTITY oldSecurityProtocol.learnMore "Pelajari Lebih Lanjut…">
