@@ -14,12 +14,13 @@
 
 <!ENTITY  locationBar.label             "Bilah Lokasi">
 
-
-
-
-
-
-
+<!ENTITY  locbar.suggest.label          "Saat menggunakan bilah lokasi, sarankan:">
+<!ENTITY  locbar.history.label          "Riwayat">
+<!ENTITY  locbar.history.accesskey      "R">
+<!ENTITY  locbar.bookmarks.label        "Markah">
+<!ENTITY  locbar.bookmarks.accesskey    "M">
+<!ENTITY  locbar.openpage.label         "Tab terbuka">
+<!ENTITY  locbar.openpage.accesskey     "T">
 
 <!ENTITY  acceptCookies.label           "Terima kuki dari situs web">
 <!ENTITY  acceptCookies.accesskey       "w">
