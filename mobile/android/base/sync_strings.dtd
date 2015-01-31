@@ -88,6 +88,8 @@
 <!ENTITY fxaccount_getting_started_old_firefox "Используете старую версию Синхронизации?">
 <!ENTITY fxaccount_create_account_header2 "Создать Учётную запись Firefox">
 <!ENTITY fxaccount_create_account_password_length_restriction "Должен быть не короче 8 символов">
+<!ENTITY fxaccount_create_account_day_of_birth "День">
+<!ENTITY fxaccount_create_account_month_of_birth "Месяц">
 <!ENTITY fxaccount_create_account_year_of_birth "Год рождения">
 <!ENTITY fxaccount_create_account_policy_text2 "Продолжив, я принимаю &formatS1; и &formatS2; облачных служб Firefox.">
 <!ENTITY fxaccount_create_account_button "Далее">

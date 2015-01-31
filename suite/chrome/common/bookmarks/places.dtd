@@ -41,10 +41,12 @@
 <!ENTITY cmd.deleteDomainData.accesskey "ы">
 <!ENTITY cmd.open.label "Открыть">
 <!ENTITY cmd.open.accesskey "к">
-<!ENTITY cmd.open_window.label "Открыть в новом окне">
-<!ENTITY cmd.open_window.accesskey "н">
 <!ENTITY cmd.open_tab.label "Открыть в новой вкладке">
 <!ENTITY cmd.open_tab.accesskey "в">
+<!ENTITY cmd.open_window.label "Открыть в новом окне">
+<!ENTITY cmd.open_window.accesskey "н">
+<!ENTITY cmd.open_private.label "Открыть в приватном окне">
+<!ENTITY cmd.open_private.accesskey "ы">
 <!ENTITY cmd.open_all_in_tabs.label "Открыть всё во вкладках">
 <!ENTITY cmd.open_all_in_tabs.accesskey "к">
 <!ENTITY cmd.properties.label "Свойства">
