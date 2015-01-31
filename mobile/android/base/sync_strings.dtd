@@ -165,6 +165,9 @@
 <!ENTITY fxaccount_confirm_account_verification_link_sent2 "तपासणी इमेल रवाना">
 <!ENTITY fxaccount_confirm_account_verification_link_not_sent2 "तपासणी इमेल पाठवु नाही शकले">
 
+
+
+
 <!ENTITY fxaccount_sign_in_sub_header "साइन इन">
 <!ENTITY fxaccount_sign_in_button_label "साइन इन">
 <!ENTITY fxaccount_sign_in_forgot_password "पासवर्ड विसरलात?">
@@ -174,9 +177,13 @@
 <!ENTITY fxaccount_account_verified_sub_header "खातं प्रमाणित">
 <!ENTITY fxaccount_account_verified_description2 "तुमच्या माहितीचे ताळमेळ काही वेळातच सुरु होइल.">
 
+
 <!ENTITY fxaccount_update_credentials_header "साइन इन">
 <!ENTITY fxaccount_update_credentials_button_label "साइन इन">
 <!ENTITY fxaccount_update_credentials_unknown_error "साइन इन नाही करु शकले">
+
+
+
 
 <!ENTITY fxaccount_status_header2 "Firefox खातं">
 <!ENTITY fxaccount_status_signed_in_as "असे प्रवेश केले">
@@ -191,7 +198,9 @@
 <!ENTITY fxaccount_status_needs_credentials "जोडले नाही गेले. साइन इनसाठी थाप मारा.">
 <!ENTITY fxaccount_status_needs_upgrade "साइन इनसाठी तुम्हाला &brandShortName; अद्ययावत करण्याची गरज आहे.">
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled "&syncBrand.shortName.label; मांडले गेले, पण आपोआप ताळमेळ होत नाही आहे. Android सेटिंगमध्ये “माहितीचे आपोआप ताळमेळ” &gt; माहिती वापर टॉगल करा.">
+
 <!ENTITY fxaccount_status_needs_account_enabled "&syncBrand.shortName.label; मांडले गेले, पण आपोआप ताळमेळ होत नाही आहे. ताळमेळ सुरु करण्यासाठी टिचकी द्या.">
+
 <!ENTITY fxaccount_status_bookmarks "वाचनखूणा">
 <!ENTITY fxaccount_status_history "इतिहास">
 <!ENTITY fxaccount_status_passwords "पासवर्डस्">
@@ -237,7 +246,10 @@
 <!ENTITY fxaccount_remote_error_UNKNOWN_ERROR "एक अडचण होती">
 <!ENTITY fxaccount_remote_error_COULD_NOT_CONNECT "नेटवर्कशी जोडू शकत नाही">
 
+
 <!ENTITY fxaccount_sync_sign_in_error_notification_title2 "&syncBrand.shortName.label; जोडलेले नाही">
 <!-- Localization note: the format string below will be replaced
      with the Firefox Account's email address. -->
-<!ENTITY fxaccount_sync_sign_in_error_notification_text2 "&formatS; म्हणून साइन इनसाठी थाप मारा">
+
+<!-- Localization note: the format string below will be replaced
+     with the Firefox Account's email address. -->

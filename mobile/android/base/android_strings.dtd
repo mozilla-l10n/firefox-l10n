@@ -7,7 +7,7 @@
 <!ENTITY  error_loading_file "&brandShortName; चालवण्यासाठी आवश्यक फाइली चढवताना चूक आढळली">
 
 <!ENTITY  onboard_start_message "&brandShortName; मध्ये आपले स्वागत आहे!">
-
+<!ENTITY  onboard_start_subtext "आम्ही आपल्याशी, आपल्या गोपनीयतेशी, आणि खुल्या वेबशी बांधील आहोत">
 
 
 <!-- Localization note: These are used as the titles of different pages on the home screen.
@@ -159,6 +159,8 @@
 <!ENTITY pref_cookies_accept_all "चालु">
 <!ENTITY pref_cookies_not_accept_foreign "तिसरा पक्ष सोडुन, सक्षम">
 <!ENTITY pref_cookies_disabled "निष्क्रिय">
+
+
 
 
 
@@ -408,6 +410,7 @@ size. -->
 
 
 
+
 <!-- Localization note (home_remote_tabs_many_hidden_devices) : The
      formatD is replaced with the number of hidden devices.  The
      number of hidden devices is always more than one.  We can't use
@@ -497,9 +500,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY updater_apply_title2 "&brandShortName;साठी अद्ययावत उपलब्ध">
 <!ENTITY updater_apply_select2 "अद्ययावतासाठी स्पर्श करा">
-<!-- New tablet UI -->
-<!-- LOCALIZATION NOTE (new_tablet_restart): Notification displayed after the user toggles the new tablet UI in the settings screen.-->
-
 <!-- Guest mode -->
 
 <!ENTITY new_guest_session "नवीन अतिथी सत्र">
