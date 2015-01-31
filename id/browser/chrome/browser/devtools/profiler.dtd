@@ -14,7 +14,7 @@
 
 
 <!ENTITY profilerUI.emptyNotice1    "Klik pada tombol">
-<!ENTITY profilerUI.emptyNotice2    "untuk mulai merekan pemanggilan fungsi JavaScript.">
+<!ENTITY profilerUI.emptyNotice2    "untuk mulai merekam pemanggilan fungsi JavaScript.">
 <!-- LOCALIZATION NOTE (profilerUI.stopNotice1/2): This is the label shown
   -  in the call list view while recording a profile. -->
 
