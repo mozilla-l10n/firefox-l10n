@@ -364,11 +364,13 @@ size. -->
 <!ENTITY site_settings_no_settings  "ရှင်းလင်းရန် အပြင်မအင် မရှိသေးပါ">
 
 <!ENTITY reading_list_added "သင့်စာဖတ်စာရင်းသို့ စာမျက်နှာအားထည့်ပြီး">
-
+<!ENTITY reading_list_duplicate "စာမျက်နှာသည်သင့် စာဖတ်စာရင်းထဲတွင်ရှိပြီးဖြစ်သှ်။">
 <!-- Localization note (reading_list_time_minutes2) : This string is used in the "Reading List"
      panel on the home page to give the user an estimate of how many minutes it will take to
      read an article. The word "minute" should be abbreviated if possible. -->
 
+<!ENTITY reading_list_time_minutes2 "&formatD; မိနစ်">
+<!ENTITY reading_list_time_over_an_hour "တစ်နာရီကျော်ကြာ">
 <!-- Localization note : These strings are used as alternate text for accessibility.
      They are not visible in the UI. -->
 
