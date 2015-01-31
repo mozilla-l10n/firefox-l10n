@@ -25,6 +25,8 @@
 <!ENTITY aboutSupport.appBasicsTitle "Сведения о приложении">
 <!ENTITY aboutSupport.appBasicsName "Имя">
 <!ENTITY aboutSupport.appBasicsVersion "Версия">
+<!ENTITY aboutSupport.appBasicsBuildID "ID сборки">
+<!ENTITY aboutSupport.appBasicsUpdateChannel "Канал обновления">
 <!ENTITY aboutSupport.appBasicsUpdateHistory "Журнал обновлений">
 <!ENTITY aboutSupport.appBasicsShowUpdateHistory "Показать журнал обновлений">
 <!ENTITY aboutSupport.appBasicsProfileDir "Каталог профиля">

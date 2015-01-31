@@ -116,7 +116,7 @@
 <!ENTITY runtimedetails_adbIsRoot "ADB это root: ">
 <!ENTITY runtimedetails_summonADBRoot "устройство root">
 <!ENTITY runtimedetails_ADBRootWarning "(требует незалоченного загрузчика)">
-<!ENTITY runtimedetails_restrictedPrivileges "Ограниченные права DevTools: ">
+<!ENTITY runtimedetails_unrestrictedPrivileges "Неограниченные права DevTools: ">
 <!ENTITY runtimedetails_requestPrivileges "запрашивать повышенные права">
 <!ENTITY runtimedetails_privilegesWarning "(Перезагрузит устройство. Требует root-доступа.)">
 <!ENTITY device_typeboolean "Логическое">

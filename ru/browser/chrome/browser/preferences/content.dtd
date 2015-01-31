@@ -26,3 +26,6 @@
 <!ENTITY translateExceptions.accesskey "л">
 <!ENTITY translation.options.attribution.beforeLogo "Перевод выполняется">
 <!ENTITY translation.options.attribution.afterLogo "">
+<!ENTITY playDRMContent.label "Воспроизводить DRM-контент">
+<!ENTITY playDRMContent.accesskey "п">
+<!ENTITY playDRMContent.learnMore.label "Подробнее">
