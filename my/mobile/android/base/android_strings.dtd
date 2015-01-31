@@ -299,11 +299,11 @@ size. -->
 <!ENTITY new_tab "တပ်ဗ် အသစ်">
 <!ENTITY new_private_tab "တစ်ကိုယ်ရေသုံး တပ်ဗ်အသစ်">
 <!ENTITY close_all_tabs "စာအမှတ် အားလုံးကို ပိတ်ရန်">
-
-
-
-
-
+<!ENTITY close_private_tabs "တစ်ကိုယ်ရေသုံးတပ်ဗ်များအား ပိတ်ပါ">
+<!ENTITY tabs_normal "တပ်ဗ်များ">
+<!ENTITY tabs_private "တစ်ကိုယ်ရေသုံး">
+<!ENTITY tabs_synced "ချိတ်ဆက်ထားသော">
+<!ENTITY set_image_fail "ပုံအား မထားလိုက်နိုင်ပါ">
 <!ENTITY set_image_path_fail "ပုံအား မသိမ်းနိုင်ပါ">
 <!ENTITY set_image_chooser_title "ပုံအား သုံးမည်">
 <!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
@@ -324,13 +324,13 @@ size. -->
 <!ENTITY contextmenu_open_new_tab "တပ်ဗ်အသစ်တစ်ခုဖွင့်ပါ">
 <!ENTITY contextmenu_open_private_tab "တစ်ကိုယ်ရေသုံးတပ်ဗ်ဖွင့်">
 <!ENTITY contextmenu_remove "ဖယ်ရှားပါ ">
-
-
+<!ENTITY contextmenu_add_to_launcher "ပင်မစာမျက်နှာသို့ ထည့်ပါ">
+<!ENTITY contextmenu_share "မျှဝေ">
 <!ENTITY contextmenu_pasteandgo "ကူးထားပြီးနောက်သွားမည်။">
 <!ENTITY contextmenu_paste "ပွားပါ">
-
-
-
+<!ENTITY contextmenu_copyurl "လိပ်စာအားကူးယူပါ">
+<!ENTITY contextmenu_edit_bookmark "တည်းဖြတ်">
+<!ENTITY contextmenu_subscribe "ဒီစာမျက်နှာမှာ စာရင်းသွင်းပါ">
 
 
 
