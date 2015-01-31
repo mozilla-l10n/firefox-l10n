@@ -179,7 +179,7 @@
 <!ENTITY calendar.context.priority.label              "Priorität">
 <!ENTITY calendar.context.priority.accesskey          "P">
 <!ENTITY calendar.context.postpone.label              "Aufgabe aufschieben">
-<!ENTITY calendar.context.postpone.accesskey          "s">
+<!ENTITY calendar.context.postpone.accesskey          "g">
 
 <!ENTITY percnt "&#37;"><!--=percent sign-->
 
