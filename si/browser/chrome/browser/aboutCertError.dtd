@@ -30,7 +30,7 @@ was trying to connect. -->
 එහි ප්‍රතිපලයක් ලෙස, මෙම සහතිකය සඳහා විකල්පයක් එක් කිරීම සිදු කළ නොහැක.">
 <!ENTITY certerror.getMeOutOfHere.label "මා මෙතැනින් ඉවත් කරන්න!">
 
-<!ENTITY certerror.expert.heading "මම අනතුර දනිමි">
+<!ENTITY certerror.expert.heading "මට අනතුර පිළිබදව අවබෝධයක් ඇත">
 <!ENTITY certerror.expert.content "ඔබ සිදුවන්නේ කුමක්දැයි දන්නේ නම් ඔබට 
  &brandShortName; වෙත අඩවියේ අනන්‍යතාවය විශ්වාස කරන ලෙස කිව හැක.  
 <b>ඔබ මෙම අඩවිය විශ්වාස කළත් මෙම දෝෂය මගින් යමෙක් ඔබේ  
