@@ -74,7 +74,7 @@
 <!-- Existing Account Page 2: Manual Login -->
 
 <!ENTITY setup.signInPage.title.label "Masuk">
-<!ENTITY existingRecoveryKey.description "Anda dapat mendapatkan salinan Kunci Pemulihan dengan menampilkan Pengaturan &syncBrand.shortName.label; pada perangkat Anda lainnya, dan memilih &quot;Kunci Pemulihan Saya&quot; di bawah &quot;Kelola Akun&quot;.">
+<!ENTITY existingRecoveryKey.description "Anda dapat mendapatkan salinan Kunci Pemulihan dengan menampilkan Pengaturan &syncBrand.shortName.label; pada perangkat Anda lainnya, dan memilih  &quot;Kunci Pemulihan Saya&quot; di bawah &quot;Kelola Akun&quot;.">
 <!ENTITY verifying.label              "Memverifikasi…">
 <!ENTITY resetPassword.label          "Setel Ulang Sandi">
 <!ENTITY resetSyncKey.label           "Perangkat saya lainnya hilang.">
