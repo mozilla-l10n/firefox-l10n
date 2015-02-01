@@ -9,6 +9,10 @@
   - A good criteria is the language in which you'd find the best
   - documentation on web development on the web. -->
 <!-- LOCALIZATION NOTE (title): This is the label shown in the sidebar tab -->
+
+
+
+<!ENTITY title                  "Animasi">
 <!-- LOCALIZATION NOTE (invalidElement): This is the label shown in the panel
   - when an invalid node is currently selected in the inspector. -->
 
@@ -16,3 +20,5 @@
 <!-- LOCALIZATION NOTE (selectElement): This is the label shown in the panel
   - when an invalid node is currently selected in the inspector, to invite the
   - user to select a new node by clicking on the element-picker icon. -->
+
+<!ENTITY selectElement         "Pilih elemen lainnya dari laman.">
