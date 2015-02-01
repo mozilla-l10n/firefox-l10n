@@ -434,16 +434,20 @@ size. -->
 <!ENTITY home_remote_tabs_need_to_finish_migrating "သင်၏ မီးမြေခွေးအကောင့်အသစ် အဆင်သင့်ဖြစ်ပါပြီ!">
 
 <!ENTITY home_remote_tabs_trouble_verifying "သင့်အကောင့်အား အတည်ပြုရန်ခက်ခဲနေသလား?">
+<!ENTITY home_remote_tabs_need_to_verify "ချိတ်ဆက်ပြီး သုံးရန် သင်၏မီးမြေခွေးအကောင့်အား အတည်ပြုပါ">
 
-
+<!ENTITY home_remote_tabs_one_hidden_device "1 ကွယ်ထားသောပစ္စည်း">
 <!-- Localization note (home_remote_tabs_many_hidden_devices) : The
      formatD is replaced with the number of hidden devices.  The
      number of hidden devices is always more than one.  We can't use
      Android plural forms, sadly. See Bug #753859. -->
+<!ENTITY home_remote_tabs_many_hidden_devices "&formatD; ပစ္စည်းများဖုံးထားသှ်">
 <!-- Localization note (home_remote_tabs_hidden_devices_title) : This is the
      title of a dialog; we expect more than one device. -->
+<!ENTITY home_remote_tabs_hidden_devices_title "ဖုံးကွယ်ထားသော ပစ္စည်းများ">
 <!-- Localization note (home_remote_tabs_unhide_selected_devices) : This is
      the text of a button; we expect more than one device. -->
+<!ENTITY home_remote_tabs_unhide_selected_devices "ရွေးထားသော ပစ္စည်းများအားဖွင့်ထားပါ">
 
 <!ENTITY private_browsing_title "လုံခြုံစွာဝတ်ဆိုက်ကြည့်ရှူခြင်း">
 
