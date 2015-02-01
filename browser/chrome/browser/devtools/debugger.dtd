@@ -80,7 +80,7 @@
   -  checkbox that toggles visibility of a designated variables filter box. -->
 
 <!ENTITY debuggerUI.showVarsFilter           "Tampilkan kotak filter variabel">
-
+<!ENTITY debuggerUI.showVarsFilter.accesskey "v">
 <!-- LOCALIZATION NOTE (debuggerUI.showOnlyEnum): This is the label for the
   -  checkbox that toggles visibility of hidden (non-enumerable) variables and
   -  properties in stack views. The "enumerable" flag is a state of a property
@@ -99,7 +99,7 @@
   -  automatically black boxed or not. -->
 
 <!ENTITY debuggerUI.autoBlackBox           "Otomatis Masukkan ke Kotak Hitam untuk Kode Sumber yang Diminikan">
-
+<!ENTITY debuggerUI.autoBlackBox.accesskey "m">
 <!-- LOCALIZATION NOTE (debuggerUI.searchPanelOperators): This is the text that
   -  appears in the filter panel popup as a header for the operators part. -->
 
@@ -115,7 +115,7 @@
   -  in the source editor's context menu for the global search operation. -->
 
 <!ENTITY debuggerUI.searchGlobal           "Cari di semua berkas">
-
+<!ENTITY debuggerUI.searchGlobal.key       "F">
 <!ENTITY debuggerUI.searchGlobal.accesskey "C">
 <!-- LOCALIZATION NOTE (debuggerUI.searchFunction): This is the text that appears
   -  in the source editor's context menu for the function search operation. -->

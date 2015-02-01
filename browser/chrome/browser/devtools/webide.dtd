@@ -68,16 +68,17 @@
 <!-- toggle sidebar -->
 <!ENTITY key_toggleEditor "B">
 <!-- zoom -->
-
-
-
+<!ENTITY key_zoomin "+">
+<!ENTITY key_zoomin2 "=">
+<!ENTITY key_zoomout "-">
+<!ENTITY key_resetzoom "0">
 
 <!ENTITY projectPanel_myProjects "Proyek Saya">
 <!ENTITY projectPanel_runtimeApps "Runtime Aplikasi">
 <!ENTITY projectPanel_tabs "Tab">
-
-
-
+<!ENTITY runtimePanel_usb "Perangkat USB">
+<!ENTITY runtimePanel_wifi "Perangkat Wi-Fi">
+<!ENTITY runtimePanel_simulator "Simulator">
 <!ENTITY runtimePanel_other "Lainnya">
 <!ENTITY runtimePanel_installsimulator "Instal Simulator">
 <!ENTITY runtimePanel_noadbhelper "Instal Pembantu ADB">
@@ -113,8 +114,8 @@
 <!ENTITY prefs_general_title "Umum">
 <!ENTITY prefs_restore "Kembalikan Bawaan">
 <!ENTITY prefs_manage_components "Kelola Komponen Ekstra">
-
-
+<!ENTITY prefs_options_autoconnectruntime "Sambungkan ulang ke runtime sebelumnya">
+<!ENTITY prefs_options_autoconnectruntime_tooltip "Sambungkan ulang ke runtime sebelumnya saat WebIDE dimulai">
 <!ENTITY prefs_options_rememberlastproject "Ingat proyek terakhir">
 <!ENTITY prefs_options_rememberlastproject_tooltip "Pulihkan proyek sebelumnya saat memulai WebIDE">
 <!ENTITY prefs_options_templatesurl "URL Templat">
