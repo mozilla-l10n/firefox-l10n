@@ -14,11 +14,11 @@
 
 <!ENTITY aboutTelemetry.chromeHangsSection "  Peramban Macet">
 
-<!ENTITY aboutTelemetry.threadHangStatsSection " Utas Macet">
+<!ENTITY aboutTelemetry.threadHangStatsSection "  Utas Macet">
 
 <!ENTITY aboutTelemetry.histogramsSection "  Histogram">
 
-<!ENTITY aboutTelemetry.keyedHistogramsSection "  Histrogram Berdasar Kunci">
+<!ENTITY aboutTelemetry.keyedHistogramsSection "  Histogram Berdasar Kunci">
 
 <!ENTITY aboutTelemetry.simpleMeasurementsSection "  Pengukuran Sederhana">
 
@@ -40,4 +40,4 @@
 
 <!ENTITY aboutTelemetry.hideSymbols "  Tampilkan data mentah dari proses yang macet">
 
-<!ENTITY aboutTelemetry.filterText "   Filter (string atau /ekspresi reguler/)">
+<!ENTITY aboutTelemetry.filterText "  Filter (string atau /ekspresi reguler/)">
