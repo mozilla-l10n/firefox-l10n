@@ -13,15 +13,15 @@
 <!ENTITY projectMenu_importHostedApp_label "Buka Aplikasi Di-Host…">
 <!ENTITY projectMenu_importHostedApp_accesskey "H">
 <!ENTITY projectMenu_selectApp_label "Buka Aplikasi…">
-
+<!ENTITY projectMenu_selectApp_accesskey "B">
 <!ENTITY projectMenu_play_label "Instal dan Jalankan">
 <!ENTITY projectMenu_play_accesskey "I">
 <!ENTITY projectMenu_stop_label "Hentikan Aplikasi">
 <!ENTITY projectMenu_stop_accesskey "H">
 <!ENTITY projectMenu_debug_label "Debug Aplikasi">
-
+<!ENTITY projectMenu_debug_accesskey "D">
 <!ENTITY projectMenu_remove_label "Hapus Proyek">
-
+<!ENTITY projectMenu_remove_accesskey "y">
 <!ENTITY projectMenu_showPrefs_label "Preferensi">
 <!ENTITY projectMenu_showPrefs_accesskey "e">
 <!ENTITY projectMenu_manageComponents_label "Kelola Komponen Ekstra">

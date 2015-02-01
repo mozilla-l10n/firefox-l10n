@@ -26,5 +26,5 @@ be used as text for a link to MDN. -->
 
 <!ENTITY remoteHelp "Alat Pengembang Firefox dapat mendebug perangkat daring (misalnya Firefox untuk Android dan Firefox OS). Pastikan opsi 'Debug daring' telah diaktifkan pada perangkat daringnya. Baca ">
 <!ENTITY remoteDocumentation "dokumentasi">
-<!ENTITY remoteHelpSuffix " dokumentasi.">
+<!ENTITY remoteHelpSuffix ".">
 
