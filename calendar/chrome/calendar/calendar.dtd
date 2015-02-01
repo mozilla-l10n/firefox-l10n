@@ -21,7 +21,7 @@
 <!ENTITY calendar.events.filter.future.label "所有未來的事件">
 <!ENTITY calendar.events.filter.current.label "選取日期的事件">
 <!ENTITY calendar.events.filter.currentview.label "目前顯示模式當中的事件">
-<!ENTITY calendar.events.filter.next7Days.label " 7 天內的事件">
+<!ENTITY calendar.events.filter.next7Days.label "7 天內的事件">
 <!ENTITY calendar.events.filter.next14Days.label "14 天內的事件">
 <!ENTITY calendar.events.filter.next31Days.label "31 天內的事件">
 <!ENTITY calendar.events.filter.thisCalendarMonth.label "本月事件">
