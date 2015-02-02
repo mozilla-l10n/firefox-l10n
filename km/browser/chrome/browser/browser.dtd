@@ -426,7 +426,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      The wording of this string should be as close as possible to
      searchFor.label and searchWith.label. This string will be used instead of
      them when the user has not typed any keyword. -->
-
+<!ENTITY searchWithHeader.label       "ស្វែងរក​ជាមួយ៖">
+<!ENTITY changeSearchSettings.button  "ផ្លាស់ប្ដូរ​ការ​កំណត់​ស្វែងរក">
 
 <!ENTITY tabView.commandkey           "e">
 
