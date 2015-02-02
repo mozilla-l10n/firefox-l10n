@@ -299,7 +299,7 @@ size. -->
 <!ENTITY new_tab "नवीन टॅब">
 <!ENTITY new_private_tab "नवीन खाजगी टॅब">
 <!ENTITY close_all_tabs "सर्व टॅब बंद करा">
-
+<!ENTITY close_private_tabs "खाजगी टॅब बंद करा">
 <!ENTITY tabs_normal "टॅब्स">
 <!ENTITY tabs_private "खाजगी">
 <!ENTITY tabs_synced "ताळमेळीत">
@@ -404,10 +404,11 @@ size. -->
 <!ENTITY home_closed_tabs_title "नुकतेच बंद केलेले टॅब">
 <!ENTITY home_last_tabs_title "मागील वेळच्या टॅब">
 <!ENTITY home_last_tabs_empty "तुमच्या अलिकडच्या टॅब्स येथे दिसतील.">
-
+<!ENTITY home_open_all "सगळे उघडा">
 <!ENTITY home_most_recent_empty "तुम्ही अगदी अलिकडे भेट दिलेली संकेतस्थळे येथे दिसतील.">
 <!-- Localization note (home_most_recent_emptyhint2): "Psst" is a sound that might be used to attract someone's attention unobtrusively, and intended to hint at Private Browsing to the user.
      The placeholders &formatS1; and &formatS2; are used to mark the location of text underlining. -->
+<!ENTITY home_most_recent_emptyhint2 "प्स्स: &formatS1; वापरून, नवीन खाजगी टॅब&formatS2; आपला इतिहास जतन करणार नाही.">
 <!ENTITY home_reading_list_empty "नंतरसाठी साठवलेले लेख येथे दिसतील.">
 <!-- Localization note (home_reading_list_hint): The "TIP" string is synonymous to "hint", "clue", etc. This string is displayed
      as an advisory message on how to add content to the reading list when the reading list empty.
@@ -426,14 +427,16 @@ size. -->
 
 <!ENTITY home_move_up_to_filter "&formatS; पर्यंत">
 
-
+<!ENTITY home_remote_tabs_title "ताळमेळीत टॅब्स">
+<!ENTITY home_remote_tabs_empty "आपल्या इतर उपकरणांवरील टॅब्स येथे दिसतील.">
 <!ENTITY home_remote_tabs_unable_to_connect "जोडणी होऊ शकत नाही">
 
 
 
+<!ENTITY home_remote_tabs_trouble_verifying "आपले खाते पडताळण्यामध्ये काही समस्या आहे का?">
 
 
-<!ENTITY home_remote_tabs_one_hidden_device "१ उपकरण लपविलेले">
+<!ENTITY home_remote_tabs_one_hidden_device "1 उपकरण लपविलेले">
 <!-- Localization note (home_remote_tabs_many_hidden_devices) : The
      formatD is replaced with the number of hidden devices.  The
      number of hidden devices is always more than one.  We can't use
