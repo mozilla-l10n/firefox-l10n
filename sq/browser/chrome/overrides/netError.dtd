@@ -190,7 +190,7 @@ functionality specific to firefox. -->
 <!ENTITY errorReporting.sending "Po dërgohet raporti">
 <!ENTITY errorReporting.sent "Raporti u dërgua">
 <!ENTITY errorReporting.report "Raportoje">
-<!ENTITY errorReporting.tryAgain "Try again">
+<!ENTITY errorReporting.tryAgain "Riprovoni">
 
 <!ENTITY remoteXUL.title "XUL i Largët">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Ju lutemi, lidhuni me të zotët e sajtit që t&apos;i njoftoni për këtë problem.</li></ul></p>">
