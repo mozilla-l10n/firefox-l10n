@@ -269,7 +269,7 @@ size. -->
      (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
 <!ENTITY datareporting_crashreporter_title_short "क्रॅश रिपोर्टर">
 <!ENTITY datareporting_wifi_title2 "&vendorShortName; स्थान सेवा">
-
+<!ENTITY datareporting_wifi_geolocation_summary2 "आमची भौगोलिक स्थान सेवा सुधारण्यासाठी आपली उपकरणाचे Wi-Fi आणि सेल्युलर स्थान &vendorShortName;शी शेअर करते">
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
      actual notification that an update is available. -->
@@ -278,6 +278,8 @@ size. -->
 <!ENTITY pref_update_autodownload_never "कधीच नाही">
 <!ENTITY pref_update_autodownload_always "नेहमी">
 <!-- Localization note (help_menu) : This string is used in the main menu-->
+
+<!ENTITY help_menu "मदत">
 
 <!ENTITY quit "बाहेर पडा">
 
@@ -431,6 +433,7 @@ size. -->
 
 
 
+<!ENTITY home_remote_tabs_one_hidden_device "१ उपकरण लपविलेले">
 <!-- Localization note (home_remote_tabs_many_hidden_devices) : The
      formatD is replaced with the number of hidden devices.  The
      number of hidden devices is always more than one.  We can't use
@@ -473,7 +476,7 @@ with that structure, consider a translation which ignores the preceding domain a
 just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_run_by "यांकडून चालविले जाते">
 <!ENTITY identity_no_info "हे संकेतस्थळ ओळखविषयक माहिती पुरवित नाही.">
-
+<!ENTITY identity_not_encrypted "या संकेतस्थळावरील जुळवणी सुरक्षित नाही.">
 <!-- Mixed content notifications in site identity popup -->
 
 <!ENTITY loaded_mixed_content_message "हे पान आशय दाखवत आहे जे सुरक्षित नाही.">
@@ -481,8 +484,10 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY blocked_mixed_content_message_bottom "हा आशय अडवल्यावरही अनेक संकेतस्थळे योग्यरित्या कार्य करतील.">
 <!-- Tracking content notifications in site identity popup -->
 
-
-
+<!ENTITY loaded_tracking_content_message_top "मागोवा सुरक्षा निष्क्रिय.">
+<!ENTITY loaded_tracking_content_message_bottom "या पानाचे काही भाग आपल्या आॅनलाइन कार्याचा मागोवा घेऊ शकतात.">
+<!ENTITY blocked_tracking_content_message_top2 "मागोवा सुरक्षा सक्रीय.">
+<!ENTITY blocked_tracking_content_message_bottom2 "आपल्या आॅनलाइन कार्याचा मागोवा घेणारे पानाचे काही भाग अडवले गेले आहेत.">
 <!-- Common mixed and tracking content strings in site identity popup -->
 
 <!ENTITY learn_more "आणखी शिका">
@@ -532,7 +537,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY guest_session_dialog_cancel "रद्द करा">
 <!ENTITY new_guest_session_title "&brandShortName; पुनःसुरु होईल">
 <!ENTITY new_guest_session_text "जी व्यक्ती हे वापरत असेल त्याला तुमची वयैक्तिक ब्राउझिंग माहिती नाही दिसणार (जसे साठवलेले पासवर्डस्, वाचनखूणांचा इतिहास).\n\nजेव्हा तुमच्या अतिथीचं काम संपेल, त्यांची ब्राउझिंग माहिती पुसली जाईल व तुमचं सत्र पुनःस्थापित होईल.">
-
+<!ENTITY guest_browsing_notification_title "अतिथी ब्राउझिंग सक्रीय.">
 
 
 <!ENTITY exit_guest_session_title "&brandShortName; आता पुनःसुरु होईल">
