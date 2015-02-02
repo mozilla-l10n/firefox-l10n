@@ -19,10 +19,12 @@
 <!ENTITY search_pref_button_content_description "सेटिंग्स">
 
 <!ENTITY pref_clearHistory_confirmation "इतिहास पुसला">
+<!ENTITY pref_clearHistory_dialogMessage "ह्या उपकरणावरून सर्व इतिहास पुसायचा का?">
+<!ENTITY pref_clearHistory_title "शोध इतिहास पुसा">
 
-
-
+<!ENTITY pref_searchProvider_title "शोध इंजिन">
 
 <!ENTITY search_widget_button_label "शोधा">
 
-
+<!ENTITY network_error_title "इंटरनेट जोडणी नाही">
+<!ENTITY network_error_message "आपल्या नेटवर्क सेटिंग तपासण्यासाठी येथे दाबा">
