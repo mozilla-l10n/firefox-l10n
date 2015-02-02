@@ -10,10 +10,10 @@
 <!ENTITY radioRememberPrevState.accesskey "R">
 
 
-
-
-
-
+<!ENTITY radioAlwaysOnline.label "Առցանց">
+<!ENTITY radioAlwaysOnline.accesskey "ց">
+<!ENTITY radioAlwaysOffline.label "Անցանց">
+<!ENTITY radioAlwaysOffline.accesskey "ց">
 
 <!ENTITY textGoingOnline "Ուղարկե՞լ չուղարկված նամակները առցանց անցնելիս։">
 <!ENTITY radioAutoSend.label "Այո">
