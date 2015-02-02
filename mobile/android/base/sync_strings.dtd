@@ -112,6 +112,10 @@
 <!-- Firefox Account strings. -->
 
 
+<!ENTITY fxaccount_full_label "Firefox खाती">
+
+<!ENTITY fxaccount_custom_server_account_title "सर्वर वर खात्याचा वापर">
+<!ENTITY fxaccount_custom_server_sync_title "सर्वरवर ताळमेळ माहिती संग्रहित करीत आहोत">
 <!-- Localization note: these are shown in all screens that query the
      user for an email address and password. Hide and show are button
      labels. -->
@@ -161,7 +165,7 @@
 <!-- Localization note: &formatS; is the Firefox Account's email address. -->
 <!ENTITY fxaccount_confirm_account_verification_link "माहिती पडताळणीसाठी, &formatS;वर एक दुवा पाठविला गेला आहे">
 <!ENTITY fxaccount_confirm_account_resend_email "इमेल पुन्हा पाठवा">
-
+<!ENTITY fxaccount_confirm_account_change_email "हा ईमेल आपण विसरलात का?">
 <!ENTITY fxaccount_confirm_account_verification_link_sent2 "तपासणी इमेल रवाना">
 <!ENTITY fxaccount_confirm_account_verification_link_not_sent2 "तपासणी इमेल पाठवु नाही शकले">
 
@@ -177,6 +181,7 @@
 <!ENTITY fxaccount_account_verified_sub_header "खातं प्रमाणित">
 <!ENTITY fxaccount_account_verified_description2 "तुमच्या माहितीचे ताळमेळ काही वेळातच सुरु होइल.">
 
+<!ENTITY fxaccount_migration_finished_header "अद्ययावत संपले">
 
 <!ENTITY fxaccount_update_credentials_header "साइन इन">
 <!ENTITY fxaccount_update_credentials_button_label "साइन इन">
@@ -212,12 +217,15 @@
      the two uses differently. -->
 <!ENTITY fxaccount_status_linktos "सेवांच्या अटी">
 <!ENTITY fxaccount_status_linkprivacy "गोपनीयता धोरण">
+<!ENTITY fxaccount_status_more "अधिक&ellipsis;">
 
-
-
+<!ENTITY fxaccount_remove_account_dialog_title "Firefox खाते काढून टाकायचे आहे का?">
+<!ENTITY fxaccount_remove_account_dialog_message "&brandShortName; आपल्या खात्याशी असणारे ताळमेळ थांबवेल, पण या उपकरणावरील आपला कोणताही ब्राउजिंग माहिती पुसून नाही टाकणार.">
 <!-- Localization note: format string below will be replaced
      with the Firefox Account's email address. -->
+<!ENTITY fxaccount_remove_account_toast "&formatS; Firefox खाते काढून टाकण्यात आले.">
 
+<!ENTITY fxaccount_remove_account_menu_item "खाते काढा">
 <!-- Localization note: this is the name shown by the Android system
      itself for a Firefox Account. Don't localize this. -->
 
@@ -250,6 +258,8 @@
 <!ENTITY fxaccount_sync_sign_in_error_notification_title2 "&syncBrand.shortName.label; जोडलेले नाही">
 <!-- Localization note: the format string below will be replaced
      with the Firefox Account's email address. -->
+<!ENTITY fxaccount_sync_sign_in_error_notification_text2 "&formatS; म्हणून साइन इनसाठी टिचकी द्या">
 
 <!-- Localization note: the format string below will be replaced
      with the Firefox Account's email address. -->
+<!ENTITY fxaccount_sync_finish_migrating_notification_text "&formatS; म्हणून साइन इनसाठी टिचकी द्या">
