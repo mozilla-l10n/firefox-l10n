@@ -11,7 +11,7 @@
 
 
 <!ENTITY connectionFailure.title "जोडणी होऊ शकत नाही">
-
+<!ENTITY connectionFailure.longDesc2 "&sharedLongDesc3;">
 
 <!ENTITY deniedPortAccess.title "हा पत्ता प्रतिबंधित आहे">
 <!ENTITY deniedPortAccess.longDesc "हा पत्ता प्रतिबंधित आहे">
@@ -35,7 +35,7 @@
      or enabling wifi connections. The text inside the tags should be localized. Do not touch the ids. -->
 
 <!ENTITY netInterrupt.title "जोडणीमध्ये व्यत्यय आला">
-
+<!ENTITY netInterrupt.longDesc2 "&sharedLongDesc3;">
 
 <!ENTITY notCached.title "दस्तऐवज मुदतबाह्य">
 <!ENTITY notCached.longDesc "<p>&brandShortName;च्या कॅशेत विनंती केलेले दस्तऐवज उपलब्ध नाही.</p><ul><li>सुरक्षा सावधगिरी म्हणून, &brandShortName; स्वयं संवदेनशील दस्तऐवजाची पुनःविनंती करत नाही.</li><li>संकेतस्थळावरून दस्तऐवज परत मागविण्यासाठी पुनःप्रयत्न करा या बटनला क्लिक करा.</li></ul>">
@@ -55,7 +55,7 @@
 </ul>">
 
 <!ENTITY netReset.title "जोडणी पुनःप्रस्थापित करण्यात आली">
-
+<!ENTITY netReset.longDesc2 "&sharedLongDesc3;">
 
 <!ENTITY netTimeout.title "जोडणी प्रयत्नाची वेळ मर्यादा समाप्त झाली">
 

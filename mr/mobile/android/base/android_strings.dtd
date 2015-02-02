@@ -102,7 +102,7 @@
 
 <!ENTITY overlay_share_bookmark_btn_label "वाचनखूण">
 <!ENTITY overlay_share_reading_list_btn_label "वाचन यादीत जोडा">
-
+<!ENTITY overlay_share_bookmark_btn_label_already "अगोदरचे वाचनखूण">
 <!ENTITY overlay_share_reading_list_btn_label_already "वाचानायादीत आधीच समाविष्ट">
 <!ENTITY overlay_share_send_other "इतर उपकरणांना पाठवा">
 <!-- Localization note (overlay_share_send_tab_btn_label) : Used on the
@@ -111,18 +111,18 @@
      to. -->
 
 <!ENTITY overlay_share_send_tab_btn_label "दुसऱ्या उपकरणावर पाठवा">
-
-
-
+<!ENTITY overlay_share_no_url "ह्या शेअरमध्ये दुवा सापडला नाही">
+<!ENTITY overlay_share_retry "पुनःप्रयत्न करा">
+<!ENTITY overlay_share_select_device "उपकरण निवडा">
 
 <!ENTITY pref_category_search3 "शोधा">
 <!ENTITY pref_category_search_summary "शोध पुरविणारे स्वपसंत करा">
 <!ENTITY pref_category_display "दृश्य">
-
+<!ENTITY pref_category_display_summary "मजकूर, शीर्षक पट्टी, पूर्ण स्क्रीन ब्राउजिंग">
 <!ENTITY pref_category_privacy_short "गुप्तता">
-
+<!ENTITY pref_category_privacy_summary "पासवर्ड, कुकीज, मागोवा माहिती नियंत्रित करा">
 <!ENTITY pref_category_vendor "&vendorShortName;">
-
+<!ENTITY pref_category_vendor_summary "&brandShortName;बद्दल, FAQs, माहिती पर्याय">
 <!ENTITY pref_category_datareporting "माहिती पर्याय">
 <!ENTITY pref_learn_more "आणखी शिका">
 <!ENTITY pref_category_installed_search_engines "इंस्टॉल केलेले शोध इंजिन">
@@ -137,8 +137,8 @@
      it is applicable. -->
 <!ENTITY pref_search_hint "टीप: शोध क्षेत्रात दीर्घकाळ-दाबुन आणि &formatI; चिन्हावर थाप मारुन कुठलीपण वेबसाइट तुमच्या शोध पुरविणारे यादीत समाविष्ट करा.">
 <!ENTITY pref_category_devtools "डेवलपर साधने">
-
-
+<!ENTITY pref_category_devtools_summary "दुरस्थ डिबगिंग,पेंट फ्लॅशिंग">
+<!ENTITY pref_developer_paint_flashing "पेंट फ्लॅशिंग">
 <!ENTITY pref_developer_remotedebugging "दूरस्थ डीबग करणे">
 <!ENTITY pref_remember_signons "पासवर्ड लक्षात ठेवा">
 
@@ -155,7 +155,7 @@
 <!ENTITY pref_home_updates "स्वयंचलीत अद्ययावत">
 <!ENTITY pref_home_updates_enabled "चालु">
 <!ENTITY pref_home_updates_wifi "फक्त वाय-फायवर">
-
+<!ENTITY pref_home_suggested_sites "साइट सल्ले दाखवा">
 
 <!-- Localization note: These are shown in the left sidebar on tablets -->
 
@@ -184,7 +184,7 @@
 <!ENTITY pref_clear_private_data_category "खाजगी माहिती पुसुन टाका">
 <!ENTITY pref_clear_on_exit_title2 "बंद केल्यावर पुसा">
 <!ENTITY pref_clear_on_exit_summary2 "जेव्हा तुम्ही मुख्य मेनू मधून \u0022बंद\u0022 निवडाल तेव्हा &brandShortName; आपोआप आपली माहिती पुसेल">
-
+<!ENTITY pref_clear_on_exit_dialog_title "कोणती माहिती पुसायची ते निवडा">
 <!ENTITY pref_plugins "प्लगइन्स">
 <!ENTITY pref_plugins_enabled "कार्यान्वीत">
 <!ENTITY pref_plugins_tap_to_play "चालवण्यासाठी टिचकी मारा">
@@ -211,14 +211,15 @@ size. -->
 
 <!ENTITY pref_font_size_preview_text "The quick orange fox jumps over your expectations with more speed, more flexibility and more security. As a non-profit, we\u0027re free to innovate on your behalf without any pressure to compromise. That means a better experience for you and a brighter future for the Web.">
 
-
+<!ENTITY pref_media_autoplay_enabled "अाॅटोप्ले स्वीकारा">
+<!ENTITY pref_media_autoplay_enabled_summary "वेबसाइट्स स्वत:हून चित्रफिती आणि इतर मीडीया सामग्री चालवणे नियंत्रित करा">
 
 <!ENTITY pref_use_master_password "मास्टर पासवर्ड वापरा">
 <!ENTITY pref_sync "ताळमेळ">
-
+<!ENTITY pref_sync_summary "आपल्या टॅब्स, वाचनखुणा, पासवर्ड, इतिहास यांचे ताळमेळ साधा">
 <!ENTITY pref_search_suggestions "शोध सूचना दाखवा">
 <!ENTITY pref_import_android "Android मधून घ्या">
-
+<!ENTITY pref_import_android_summary "मूळ ब्राउज़रमधून वाचनखुणा आणि इतिहास आयात करा">
 <!ENTITY pref_private_data_history2 "ब्राउझिंग इतिहास">
 <!ENTITY pref_private_data_formdata "फॉर्म आणि शोध इतिहास">
 <!ENTITY pref_private_data_cookies2 "कुकीज आणि कार्यरत लॉगइन्स">
