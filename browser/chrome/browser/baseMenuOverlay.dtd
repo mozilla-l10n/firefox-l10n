@@ -21,13 +21,13 @@
 <!ENTITY helpMac.commandkey       "?">
 
 <!ENTITY helpKeyboardShortcuts.label     "Scursanidas da tastas">
-<!ENTITY helpKeyboardShortcuts.accesskey "c">
+<!ENTITY helpKeyboardShortcuts.accesskey "K">
 
 <!ENTITY helpSafeMode.label       "Reaviar e deactivar ils supplements…">
 <!ENTITY helpSafeMode.accesskey   "R">
 
 <!ENTITY healthReport.label       "Analisa da sanadad da &brandShortName;">
-<!ENTITY healthReport.accesskey   "a">
+<!ENTITY healthReport.accesskey   "e">
 
 <!ENTITY helpTroubleshootingInfo.label      "Infurmaziuns per schliar problems">
 <!ENTITY helpTroubleshootingInfo.accesskey  "p">
