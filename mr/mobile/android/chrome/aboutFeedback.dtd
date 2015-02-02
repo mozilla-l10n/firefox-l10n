@@ -39,7 +39,7 @@
 <!-- LOCALIZATION NOTE (sad.urlPlaceholder): Placeholder text that appears in "Last visited site" input box when there is no text. -->
 
 <!ENTITY sad.urlPlaceholder        "http://">
-
+<!ENTITY sad.thanksHeader2         "धन्यवाद.">
 <!-- LOCALIZATION NOTE (sad.thanksMessageTop): "real people" — We're stating that an actual human will look at the feedback
      and that it doesn't just go to some automated system that looks for keywords, or something like that. -->
 
@@ -50,4 +50,5 @@
 
 <!ENTITY sad.thanksMessageBottom   "किंवा.">
 
+<!ENTITY feedback.privacy2         "आपल्या गोपनियतेसाठी, कृपया प्रतिक्रियेमध्ये कोणतीही वैयक्तिक माहिती समाविष्ट करू नका.">
 <!ENTITY feedback.send             "प्रतिक्रिया पाठवा">

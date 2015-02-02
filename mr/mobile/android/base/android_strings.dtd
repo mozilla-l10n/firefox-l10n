@@ -9,14 +9,14 @@
 <!ENTITY  onboard_start_message "&brandShortName; मध्ये आपले स्वागत आहे!">
 <!ENTITY  onboard_start_subtext "आम्ही आपल्याशी, आपल्या गोपनीयतेशी, आणि खुल्या वेबशी बांधील आहोत">
 <!ENTITY  onboard_start_button_account "&brandShortName; मध्ये साईन इन करा">
-
+<!ENTITY  onboard_start_button_browser "ब्राउझिंगला सुरुवात करा">
 <!-- Localization note: These are used as the titles of different pages on the home screen.
      They are automatically converted to all caps by the Android platform. -->
 
 <!ENTITY  bookmarks_title "वाचनखूणा">
 <!ENTITY  history_title "इतिहास">
 <!ENTITY  reading_list_title "वाचन यादी">
-
+<!ENTITY  recent_tabs_title "अलीकडील टॅब">
 
 <!ENTITY  switch_to_tab "टॅबवर जा">
 
@@ -39,7 +39,9 @@
 
 <!ENTITY choose_file "फाइल निवडा">
 
+<!ENTITY url_bar_default_text2 "पत्ता शोधा किंवा द्या">
 
+<!ENTITY bookmark "वाचनखूण">
 <!ENTITY bookmark_added "वाचनखूण समाविष्ट">
 <!ENTITY bookmark_removed "वाचनखूण काढले">
 <!ENTITY bookmark_updated "वाचनखूण अद्ययावत केले">
@@ -47,8 +49,8 @@
 
 <!ENTITY history_today_section "आज">
 <!ENTITY history_yesterday_section "काल">
-
-
+<!ENTITY history_week_section2 "मागील आठवड्यात">
+<!ENTITY history_older_section2 "मागील महिन्यात">
 
 <!ENTITY go "चला">
 <!ENTITY search "शोधा">
@@ -66,7 +68,7 @@
      We can't use android plural forms, sadly. See bug #753859. -->
 <!ENTITY num_tabs2 "&formatD; टॅब्स">
 <!ENTITY new_tab_opened "नवीन टॅब उघडले">
-
+<!ENTITY new_private_tab_opened "नवीन खाजगी टॅब उघडला">
 <!-- Localization note (switch_button_message): This string should be as short
      as possible because it's shown as a label in a toast.  Ideally, this string
      is upper-case, to match Google and Android's convention. -->
@@ -76,29 +78,39 @@
 <!ENTITY settings_title "सेटिंग">
 <!ENTITY pref_category_advanced "प्रगत">
 <!ENTITY pref_category_customize "स्वपसंती करा">
-
+<!ENTITY pref_category_customize_summary "मुखपृष्ठ, शोध, टॅब, आयात">
 <!-- Localization note (pref_category_language) : This is the preferences
      section in which the user picks the locale in which to display Firefox
      UI. The locale includes both language and region concepts. -->
 
+<!ENTITY pref_category_language "भाषा">
+<!ENTITY pref_category_language_summary "आपली ब्राउझर भाषा बदला">
 <!ENTITY pref_browser_locale "ब्राउझर भाषा">
 <!-- Localization note (locale_system_default) : This string indicates that
      Firefox will use the locale currently selected in Android's settings
      to display browser chrome. -->
+
+<!ENTITY locale_system_default "पूर्वनिर्धारीत प्रणाली">
 <!-- Localization note (overlay_share_label) : This is the label that appears
      in Android's intent chooser when sending a link to Firefox to bookmark,
      send to another device, or add to Reading List. -->
+
+<!ENTITY overlay_share_label "&brandShortName; मध्ये जोडा">
 <!-- Localization note (overlay_share_bookmark_btn_label) : This string is
      used in the share overlay menu to select an action. It is the verb
      "to bookmark", not the noun "a bookmark". -->
+
+<!ENTITY overlay_share_bookmark_btn_label "वाचनखूण">
 <!ENTITY overlay_share_reading_list_btn_label "वाचन यादीत जोडा">
 
-
-
+<!ENTITY overlay_share_reading_list_btn_label_already "वाचानायादीत आधीच समाविष्ट">
+<!ENTITY overlay_share_send_other "इतर उपकरणांना पाठवा">
 <!-- Localization note (overlay_share_send_tab_btn_label) : Used on the
      share overlay menu to represent the "Send Tab" action when the user
      either has not set up Sync, or has no other devices to send a tab
      to. -->
+
+<!ENTITY overlay_share_send_tab_btn_label "दुसऱ्या उपकरणावर पाठवा">
 
 
 
@@ -150,8 +162,8 @@
 <!ENTITY pref_header_customize "स्वपसंती">
 <!ENTITY pref_header_display "दृश्य">
 <!ENTITY pref_header_privacy_short "गुप्तता">
-
-
+<!ENTITY pref_header_help "मदत">
+<!ENTITY pref_header_language "भाषा">
 <!ENTITY pref_header_vendor "&vendorShortName;">
 <!ENTITY pref_header_devtools "डेव्हलपर साधने">
 
@@ -160,17 +172,18 @@
 <!ENTITY pref_cookies_not_accept_foreign "तिसरा पक्ष सोडुन, सक्षम">
 <!ENTITY pref_cookies_disabled "निष्क्रिय">
 
-
-
-
+<!ENTITY pref_tracking_protection_title "मागोवा सुरक्षा">
+<!ENTITY pref_tracking_protection_summary "&brandShortName; साइटस्ला तुमचा मागोवा घेण्यापासून थांबवेल">
+<!ENTITY pref_donottrack_title "मागोवा घेऊ नका">
+<!ENTITY pref_donottrack_summary "&brandShortName; हे साइट्सना कळवेल की आपण मागोवा घेऊ इच्छित नाही">
 
 <!ENTITY pref_char_encoding "कॅरेक्टर एनकोडींग">
 <!ENTITY pref_char_encoding_on "मेनु दाखवा">
 <!ENTITY pref_char_encoding_off "मेनु दाखवु नका">
-
+<!ENTITY pref_clear_private_data2 "आता पुसा">
 <!ENTITY pref_clear_private_data_category "खाजगी माहिती पुसुन टाका">
-
-
+<!ENTITY pref_clear_on_exit_title2 "बंद केल्यावर पुसा">
+<!ENTITY pref_clear_on_exit_summary2 "जेव्हा तुम्ही मुख्य मेनू मधून \u0022बंद\u0022 निवडाल तेव्हा &brandShortName; आपोआप आपली माहिती पुसेल">
 
 <!ENTITY pref_plugins "प्लगइन्स">
 <!ENTITY pref_plugins_enabled "कार्यान्वीत">
@@ -288,7 +301,7 @@ size. -->
 <!ENTITY tabs_private "खाजगी">
 <!ENTITY tabs_synced "ताळमेळीत">
 <!ENTITY set_image_fail "प्रतिमा सेट करण्यात असमर्थ">
-
+<!ENTITY set_image_path_fail "प्रतिमा जतन करण्यात असमर्थ">
 <!ENTITY set_image_chooser_title "या साठी प्रतिमा वापरा">
 <!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
@@ -299,6 +312,8 @@ size. -->
 <!ENTITY find_close "बंद करा">
 <!-- Localization note (media_sending_to, media_play, media_pause, media_stop) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
+
+<!ENTITY media_sending_to "उपकरणात संचरण होत आहे">
 <!ENTITY media_play "चालू करा">
 <!ENTITY media_pause "थोडा वेळ थांबवा">
 <!ENTITY media_stop "थांबवा">
@@ -325,6 +340,8 @@ size. -->
 <!-- Localization note (pref_scroll_title_bar2): Label for setting that controls
      whether or not the dynamic toolbar is enabled. -->
 
+<!ENTITY pref_scroll_title_bar2 "पूर्ण स्क्रीन ब्राउझिंग">
+
 <!-- Localization note (page_removed): This string appears in a toast message when
      any page is removed frome about:home. This includes pages that are in history,
      bookmarks, or reading list. -->
@@ -349,6 +366,8 @@ size. -->
      panel on the home page to give the user an estimate of how many minutes it will take to
      read an article. The word "minute" should be abbreviated if possible. -->
 
+<!ENTITY reading_list_time_minutes2 "&formatD; मि.">
+<!ENTITY reading_list_time_over_an_hour "एक तासापूर्वी">
 <!-- Localization note : These strings are used as alternate text for accessibility.
      They are not visible in the UI. -->
 
@@ -376,10 +395,10 @@ size. -->
 
 <!ENTITY home_title "&brandShortName; मुख्यपृष्ठ">
 <!ENTITY home_history_title "इतिहास">
-
-
+<!ENTITY home_clear_history_button "ब्राऊजिंग इतिहास पुसा">
+<!ENTITY home_clear_history_confirm "आपला इतिहास पुसण्याबद्दल आपली खात्री आहे का?">
 <!ENTITY home_bookmarks_empty "तुम्ही साठवलेले वाचनखूणा येथे दिसतील.">
-
+<!ENTITY home_closed_tabs_title "नुकतेच बंद केलेले टॅब">
 <!ENTITY home_last_tabs_title "मागील वेळच्या टॅब">
 <!ENTITY home_last_tabs_empty "तुमच्या अलिकडच्या टॅब्स येथे दिसतील.">
 
@@ -415,17 +434,21 @@ size. -->
      formatD is replaced with the number of hidden devices.  The
      number of hidden devices is always more than one.  We can't use
      Android plural forms, sadly. See Bug #753859. -->
+<!ENTITY home_remote_tabs_many_hidden_devices "&formatD; लपविलेले साधने">
 <!-- Localization note (home_remote_tabs_hidden_devices_title) : This is the
      title of a dialog; we expect more than one device. -->
+<!ENTITY home_remote_tabs_hidden_devices_title "लपविलेले साधने">
 <!-- Localization note (home_remote_tabs_unhide_selected_devices) : This is
      the text of a button; we expect more than one device. -->
+<!ENTITY home_remote_tabs_unhide_selected_devices "निवडलेले पर्याय दाखवा">
 
 <!ENTITY private_browsing_title "खाजगी रीत्या ब्राउझिंग">
 
+<!ENTITY private_tabs_panel_learn_more "अधिक जाणून घेऊ इच्छिता?">
 
+<!ENTITY remote_tabs_panel_moved_title "माझ्या टॅब्स कुठे गेल्या ?">
 
-
-
+<!ENTITY remote_tabs_panel_moved_link "मला माझ्या नवीन पॅनलमध्ये न्या.">
 
 <!ENTITY pin_site_dialog_hint "शोधशब्द टाका">
 
@@ -448,7 +471,7 @@ substitution variables.  If it is difficult to translate the sense of the string
 with that structure, consider a translation which ignores the preceding domain and
 just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_run_by "यांकडून चालविले जाते">
-
+<!ENTITY identity_no_info "हे संकेतस्थळ ओळखविषयक माहिती पुरवित नाही.">
 
 <!-- Mixed content notifications in site identity popup -->
 
@@ -531,6 +554,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      include "42 minutes ago", "4 days ago", "last week", etc. The subject of
      "Last synced" is one of the user's other Sync clients, typically Firefox on
      their desktop or laptop.-->
+
+<!ENTITY remote_tabs_last_synced "शेवटचा ताळमेळ:&formatS;">
 <!-- Find-In-Page strings -->
 <!-- LOCALIZATION NOTE (find_matchcase): This is meant to appear as an icon that changes color
      if match-case is activated. i.e. No more than two letters, one uppercase, one lowercase. -->

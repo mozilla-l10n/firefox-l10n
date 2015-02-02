@@ -1,15 +1,24 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY search_app_name "&brandShortName; शोध">
 <!--  Localization note (search_bar_hint): The &formatS; will be replaced with the name of
       the currently selected search engine. -->
 
+<!ENTITY search_bar_hint "&formatS; सोबत शोधा">
 
+<!ENTITY search_empty_title2 "शोध सुरु करा">
+<!ENTITY search_empty_message "कोणत्याही गोष्टीबद्दल जलद शोध घ्या">
 <!--  Localization note (search_plus_content_description): This is the content description
       for the "+" icon that appears at the end of search suggestions. -->
 
+<!ENTITY search_plus_content_description "शोध पट्टीवर समाविष्ट करा">
 
+<!ENTITY search_pref_title "सेटिंग्स">
+<!ENTITY search_pref_button_content_description "सेटिंग्स">
 
+<!ENTITY pref_clearHistory_confirmation "इतिहास पुसला">
 
 
 
