@@ -78,6 +78,6 @@
 <!ENTITY receivedColumn2.tooltip "Renditi sipas date marrjesh">
 <!ENTITY starredColumn2.tooltip "Renditi sipas yjesh">
 <!ENTITY locationColumn2.tooltip "Renditi sipas vendesh">
-<!ENTITY idColumn2.tooltip "Sort by order received">
+<!ENTITY idColumn2.tooltip "Renditi sipas radhe marrjesh">
 
 <!ENTITY starredColumn.label "Me yllkë">
