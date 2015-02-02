@@ -53,14 +53,20 @@
      in the inspector contextual-menu for the item that lets users paste
      the HTML after the current node -->
 
+<!ENTITY inspectorHTMLPasteAfter.label       "បន្ទាប់ពី">
+<!ENTITY inspectorHTMLPasteAfter.accesskey   "ប">
 <!-- LOCALIZATION NOTE (inspectorHTMLPasteFirstChild.label): This is the label
      shown in the inspector contextual-menu for the item that lets users paste
      the HTML as the first child the current node -->
 
+<!ENTITY inspectorHTMLPasteFirstChild.label      "ជា កូន​ដំបូង">
+<!ENTITY inspectorHTMLPasteFirstChild.accesskey  "ក">
 <!-- LOCALIZATION NOTE (inspectorHTMLPasteLastChild.label): This is the label
      shown in the inspector contextual-menu for the item that lets users paste
      the HTML as the last child the current node -->
 
+<!ENTITY inspectorHTMLPasteLastChild.label       "ជាកូន​ចុងក្រោយ​">
+<!ENTITY inspectorHTMLPasteLastChild.accesskey   "ក">
 <!-- LOCALIZATION NOTE (inspectorHTMLDelete.label): This is the label shown in
      the inspector contextual-menu for the item that lets users delete the
      current node -->

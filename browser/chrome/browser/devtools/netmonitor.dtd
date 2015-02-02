@@ -197,14 +197,24 @@
 <!ENTITY netmonitorUI.timings.receive     "ទទួល៖">
 <!-- LOCALIZATION NOTE (netmonitorUI.security.error): This is the label displayed
   -  in the security tab if a security error prevented the connection. -->
+
+<!ENTITY netmonitorUI.security.error      "កំហុស​បាន​កើតឡើង៖">
 <!-- LOCALIZATION NOTE (netmonitorUI.security.protocolVersion): This is the label displayed
   -  in the security tab describing TLS/SSL protocol version. -->
+
+<!ENTITY netmonitorUI.security.protocolVersion "កំណែ​ពិធីការ៖">
 <!-- LOCALIZATION NOTE (netmonitorUI.security.cipherSuite): This is the label displayed
   -  in the security tab describing the cipher suite used to secure this connection. -->
+
+<!ENTITY netmonitorUI.security.cipherSuite "Cipher suite:">
 <!-- LOCALIZATION NOTE (netmonitorUI.security.hsts): This is the label displayed
   -  in the security tab describing the usage of HTTP Strict Transport Security. -->
+
+<!ENTITY netmonitorUI.security.hsts "HTTP សុវត្ថិភាព​ការ​ដឹកជញ្ជូន​ដាក់​កម្រិត៖">
 <!-- LOCALIZATION NOTE (netmonitorUI.security.hpkp): This is the label displayed
   -  in the security tab describing the usage of Public Key Pinning. -->
+
+<!ENTITY netmonitorUI.security.hpkp "Public Key Pinning:">
 <!-- LOCALIZATION NOTE (netmonitorUI.security.connection): This is the label displayed
   -  in the security tab describing the section containing information related to
   -  the secure connection. -->

@@ -9,8 +9,14 @@
   - A good criteria is the language in which you'd find the best
   - documentation on web development on the web. -->
 <!-- LOCALIZATION NOTE (title): This is the label shown in the sidebar tab -->
+
+
+
+<!ENTITY title                  "ចលនា">
 <!-- LOCALIZATION NOTE (invalidElement): This is the label shown in the panel
   - when an invalid node is currently selected in the inspector. -->
+
+<!ENTITY invalidElement         "រក​មិន​ឃើញ​ចលនា​សម្រាប់​ធាតុ​បច្ចុប្បន្ន។">
 <!-- LOCALIZATION NOTE (selectElement): This is the label shown in the panel
   - when an invalid node is currently selected in the inspector, to invite the
   - user to select a new node by clicking on the element-picker icon. -->
