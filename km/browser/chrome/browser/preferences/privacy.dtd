@@ -14,12 +14,12 @@
 
 <!ENTITY  locationBar.label             "របារ​ទីតាំង">
 
-
-
-
-
-
-
+<!ENTITY  locbar.history.label          "ប្រវត្តិ">
+<!ENTITY  locbar.history.accesskey      "ប">
+<!ENTITY  locbar.bookmarks.label        "ចំណាំ">
+<!ENTITY  locbar.bookmarks.accesskey    "ច">
+<!ENTITY  locbar.openpage.label         "បើក​ផ្ទាំង">
+<!ENTITY  locbar.openpage.accesskey     "ប">
 
 <!ENTITY  acceptCookies.label           "ទទួលយក​ខូគី​ពី​តំបន់​បណ្ដាញ">
 <!ENTITY  acceptCookies.accesskey       "ញ">
@@ -30,7 +30,8 @@
 <!ENTITY  acceptThirdParty.never.label    "កុំ">
 <!ENTITY  acceptThirdParty.visited.label  "ពី​អ្វី​ដែល​ទស្សនា">
 
-
+<!ENTITY  keepUntil.label               "ទុក​រហូត​ដល់៖">
+<!ENTITY  keepUntil.accesskey           "ដ">
 
 <!ENTITY  expire.label                  "ពួកវា​ផុត​កំណត់">
 <!ENTITY  close.label                   "ខ្ញុំ​បិទ &brandShortName;">
