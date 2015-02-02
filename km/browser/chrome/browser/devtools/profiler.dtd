@@ -46,6 +46,8 @@
 <!ENTITY profilerUI.invertTree "បម្លែង​មែកធាង​ការ​ហៅ">
 <!-- LOCALIZATION NOTE (profilerUI.invertTree.tooltiptext): This is the tooltip
   -  for the tree-inverting checkbox's label.  -->
+
+<!ENTITY profilerUI.invertTree.tooltiptext "ការ​បម្លែង​មែកធាង​ការ​ហៅ​បង្ហាញ​ពី​ផ្លូវ​ប្រវត្តិ​ការ​ហៅ​ដោយ​ចាប់ផ្ដើម​ពី​ស៊ុម​ថ្មី​បំផុត រហូត​ដល់​ស៊ុម​ដែល​ចាស់​បំផុត។">
 <!-- LOCALIZATION NOTE (profilerUI.table.*): These strings are displayed
   -  in the call tree headers for a recording. -->
 
