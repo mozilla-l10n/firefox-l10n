@@ -450,9 +450,10 @@ size. -->
 <!ENTITY home_remote_tabs_unhide_selected_devices "ရွေးထားသော ပစ္စည်းများအားဖွင့်ထားပါ">
 
 <!ENTITY private_browsing_title "လုံခြုံစွာဝတ်ဆိုက်ကြည့်ရှူခြင်း">
+<!ENTITY private_tabs_panel_empty_desc "သင့်ရဲ့ တစ်ကိုယ်ရေသုံးတပ်ဗ်များအားဒီတွင်ပြထားသှ်။ သင်၏ ဘယောက်ဆာကွတ်ကီးများ ၊ မှတ်တမ်းများ ၊ စာအမှတ်များ ဖိုင်များအား သိမ်းထားမည်မဟုတ်ပါ။">
+<!ENTITY private_tabs_panel_learn_more "ဆက်လက်လေ့လာလိုပါသလား?">
 
-
-
+<!ENTITY remote_tabs_panel_moved_title "တပ်ဗ်တွေဘယ်မှာလဲ?">
 
 <!ENTITY remote_tabs_panel_moved_link "ရင်ပြင်အသစ်သို့ ပို့ပေးပါ">
 
