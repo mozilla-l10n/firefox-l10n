@@ -101,6 +101,12 @@
 <!ENTITY proxyResolveFailure.title "प्रॉक्सी सर्वर शोधू शकत नाही">
 <!-- LOCALIZATION NOTE (proxyResolveFailure.longDesc3) This string contains markup including widgets for enabling wifi connections.
      The text inside the tags should be localized. Do not touch the ids. -->
+<!ENTITY proxyResolveFailure.longDesc3 "<ul> 
+<li>प्राॅक्सी सेटिंग बरोबर आहेत की नाही याची खात्री करण्यासाठी तपासा.</li> 
+<li>आपल्या उपकरणावर चालू डेटा कनेक्शन किंवा वाय-फाय कनेक्शन आहे याची खात्री करण्यासाठी तपासा. 
+<button id='wifi'>वाय-फाय चालू करा</button> 
+</li> 
+</ul>">
 
 <!ENTITY redirectLoop.title "पृष्ठ योग्यपणे मार्गदर्शित होत नाही आहे">
 <!ENTITY redirectLoop.longDesc "<ul> 
@@ -130,6 +136,11 @@
 </ul>">
 <!-- LOCALIZATION NOTE (sharedLongDesc3) This string contains markup including widgets for enabling wifi connections.
      The text inside the tags should be localized. Do not touch the ids. -->
+
+<!ENTITY sharedLongDesc3 "<ul> 
+<li>हे संकेतस्थळ तात्पुरते उपलब्ध नाही किंवा खूपच व्यस्त आहे. काही क्षणानंतर पुन्हा प्रयत्न करा.</li> 
+<li>जर आपण कुठलेही पान उघडू शकत नसाल, तर आपल्या मोबाईलची डेटा किंवा वाय-फाय जोडणी तपासा.</li> 
+</ul>">
 
 <!ENTITY cspBlocked.title "मजकूर सुरक्षा धोरणामुळे रोखले गेले">
 <!ENTITY cspBlocked.longDesc "<p>पृष्ठात अंतर्भुत मजकूर सुरक्षा धोरणामुळे &brandShortName;ने या पृष्ठाला, याप्रकारे लोड होण्यापासून रोखले आहे.</p>">
