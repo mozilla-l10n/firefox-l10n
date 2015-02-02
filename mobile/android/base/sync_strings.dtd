@@ -187,13 +187,14 @@
 <!ENTITY fxaccount_update_credentials_button_label "साइन इन">
 <!ENTITY fxaccount_update_credentials_unknown_error "साइन इन नाही करु शकले">
 
-
+<!ENTITY fxaccount_finish_migrating_header "अद्ययावत संपवण्यासाठी साइन इन करा">
+<!ENTITY fxaccount_finish_migrating_button_label "अद्ययावत संपवा">
 
 
 <!ENTITY fxaccount_status_header2 "Firefox खातं">
 <!ENTITY fxaccount_status_signed_in_as "असे प्रवेश केले">
-
-
+<!ENTITY fxaccount_status_auth_server "खाते सर्वर">
+<!ENTITY fxaccount_status_sync_now "लगेच ताळमेळ करा">
 
 
 
@@ -260,6 +261,7 @@
      with the Firefox Account's email address. -->
 <!ENTITY fxaccount_sync_sign_in_error_notification_text2 "&formatS; म्हणून साइन इनसाठी टिचकी द्या">
 
+<!ENTITY fxaccount_sync_finish_migrating_notification_title "&syncBrand.shortName.label; अद्ययावत संपवायचे?">
 <!-- Localization note: the format string below will be replaced
      with the Firefox Account's email address. -->
 <!ENTITY fxaccount_sync_finish_migrating_notification_text "&formatS; म्हणून साइन इनसाठी टिचकी द्या">

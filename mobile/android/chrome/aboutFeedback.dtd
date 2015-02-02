@@ -17,7 +17,9 @@
 <!-- LOCALIZATION NOTE (support.link): Avoid leading/trailing spaces, this text is a link. -->
 <!-- LOCALIZATION NOTE (support.post): Include a starting space as needed. -->
 
-
+<!ENTITY support.pre3              "भेटा आमच्या ">
+<!ENTITY support.link2             "समर्थन साईट">
+<!ENTITY support.post3             "  सामान्य समस्यांचे निराकरण करण्यासाठी.">
 
 <!ENTITY happy.header              "एेकूण आनंद झाला!">
 <!-- LOCALIZATION NOTE (happy.message): "share the love" — This feels purposely exaggerated in English,
@@ -33,9 +35,10 @@
 <!ENTITY happy.maybeLater2         "पुन्हा कधीतरी">
 <!ENTITY happy.noThanks            "नको">
 
+<!ENTITY sad.header                "अरेरे!">
 <!ENTITY sad.message               "आपणास &brandShortName; शी निगडीत काही समस्या आल्या. त्याबद्दल क्षमस्व. काय घडले ते कृपया आम्हाला सांगा जेणेकरून आम्ही ते ठीक करू शकू.">
 <!ENTITY sad.placeholder           "आपली प्रतिक्रिया येथे नोंदवा">
-
+<!ENTITY sad.lastSite2             "शेवटची भेट दिलेली साईट समाविष्ट करा">
 <!-- LOCALIZATION NOTE (sad.urlPlaceholder): Placeholder text that appears in "Last visited site" input box when there is no text. -->
 
 <!ENTITY sad.urlPlaceholder        "http://">

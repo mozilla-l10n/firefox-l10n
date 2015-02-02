@@ -19,6 +19,18 @@
 <!ENTITY dnsNotFound.title "सर्वर सापडला नाही">
 <!-- LOCALIZATION NOTE (dnsNotFound.longDesc4) This string contains markup including widgets for searching
      or enabling wifi connections. The text inside tags should be localized.  Do not change the ids. -->
+<!ENTITY dnsNotFound.longDesc4 "<ul>  
+<li>पत्ता टाईप करताना होणाऱ्या चुका एकदा तपासा उदाहरणार्थ  
+<strong>www</strong>.example.com च्या ऐवजी 
+<strong>ww</strong>.example.com</li> 
+<div id='searchbox'> 
+<input id='searchtext' type='search'></input>  
+<button id='searchbutton'> शोधा</button> 
+</div> 
+<li>आपण कोणत्याही पृष्ठे लोड करण्यात अक्षम असाल तर, कृपया आपल्या उपकरणावर माहिती किंवा वाय-फाय जोडणी तपासा. 
+<button id='wifi'>वाय-फाय सक्रीय करा</button>  
+</li> 
+</ul>">
 
 <!ENTITY fileNotFound.title "फाइल सापडली नाही">
 <!ENTITY fileNotFound.longDesc "<ul> 
@@ -33,6 +45,15 @@
 <!ENTITY malformedURI.title "पत्ता वैध नाही">
 <!-- LOCALIZATION NOTE (malformedURI.longDesc2) This string contains markup including widgets for searching
      or enabling wifi connections. The text inside the tags should be localized. Do not touch the ids. -->
+<!ENTITY malformedURI.longDesc2 "<ul>  
+<li>वेब-पत्ता सहसा असा लिहिला जातो  
+<strong>http://www.example.com/</strong></li>  
+<div id='searchbox'> 
+<input id='searchtext' type='search'></input>  
+<button id='searchbutton'>शोधा</button> 
+</div> 
+<li>आपण अग्रेषित स्लॅशच वापरता आहात ना ( जसे की <strong>/ </strong>)  हे तपासून पहा.</li> 
+</ul>">
 
 <!ENTITY netInterrupt.title "जोडणीमध्ये व्यत्यय आला">
 <!ENTITY netInterrupt.longDesc2 "&sharedLongDesc3;">
@@ -43,6 +64,11 @@
 <!ENTITY netOffline.title "ऑफलाइन प्रावस्था">
 <!-- LOCALIZATION NOTE (netOffline.longDesc3) This string contains markup including widgets enabling wifi connections.
      The text inside the tags should be localized. Do not touch the ids. -->
+<!ENTITY netOffline.longDesc3 "<ul>  
+<li>परत प्रयत्न करा.&brandShortName; जोडणी उघडण्याचा प्रयत्न करेल आणि पृष्ठ रीलोड होईल.  
+<button id='wifi'>वाय-फाय सक्षम करा</button>  
+</li> 
+</ul>">
 
 <!ENTITY contentEncodingError.title "मजकूर एन्कोडींग त्रुटी">
 <!ENTITY contentEncodingError.longDesc "<ul> 
@@ -58,7 +84,7 @@
 <!ENTITY netReset.longDesc2 "&sharedLongDesc3;">
 
 <!ENTITY netTimeout.title "जोडणी प्रयत्नाची वेळ मर्यादा समाप्त झाली">
-
+<!ENTITY netTimeout.longDesc2 "&sharedLongDesc3;">
 
 <!ENTITY unknownProtocolFound.title "पत्ता समझला नाही">
 <!ENTITY unknownProtocolFound.longDesc "<ul> 
