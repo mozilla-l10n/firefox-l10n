@@ -172,7 +172,7 @@
 <!ENTITY pref_cookies_not_accept_foreign "Etkin, 3. parti hariç">
 <!ENTITY pref_cookies_disabled "Devre dışı">
 
-<!ENTITY pref_tracking_protection_title "İzleme koruması">
+<!ENTITY pref_tracking_protection_title "İzlenme koruması">
 <!ENTITY pref_tracking_protection_summary "&brandShortName; sizi sitelerin izlemesinden koruyacak">
 <!ENTITY pref_donottrack_title "Beni izleme">
 <!ENTITY pref_donottrack_summary "&brandShortName;sitelere izlenmek istemediğinizi söyleyecek">
