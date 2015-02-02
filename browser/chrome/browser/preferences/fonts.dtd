@@ -31,7 +31,7 @@
 <!ENTITY  font.langGroup.korean                   "កូរ៉េ">
 <!ENTITY  font.langGroup.cyrillic                 "ស៊ីរីលីក">
 <!ENTITY  font.langGroup.el                       "ក្រិច">
-
+<!ENTITY  font.langGroup.other                    "ប្រព័ន្ធ​សរសេរ​ផ្សេងទៀត">
 <!ENTITY  font.langGroup.thai                     "ថៃ">
 <!ENTITY  font.langGroup.hebrew                   "អ៊ីស្រាអែល">
 <!ENTITY  font.langGroup.arabic                   "អារ៉ាប់">

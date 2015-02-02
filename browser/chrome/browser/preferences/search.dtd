@@ -2,6 +2,9 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY defaultSearchEngine.label             "ម៉ាស៊ីន​ស្វែងរក​លំនាំដើម">
+
+<!ENTITY chooseYourDefaultSearchEngine.label   "ជ្រើស​ម៉ាស៊ីន​ស្វែងរក​លំនាំដើម។ &brandShortName; ប្រើ​វា​នៅ​ក្នុង​របារ​ទីតាំង របារ​ស្វែងរក និង​ទំព័រ​ចាប់ផ្ដើម។">
 
 
 
