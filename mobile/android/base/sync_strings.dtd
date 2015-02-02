@@ -78,6 +78,8 @@
      will be replaced by the name of the Firefox release channel and &formatS2
      by the model name of the Android device. Examples look like "Aurora on
      GT-I1950" and "Fennec on MI 2S". -->
+
+<!ENTITY sync.default.client.name "&formatS2; वर &formatS1;">
 <!-- Bookmark folder strings -->
 
 <!ENTITY bookmarks.folder.menu.label "वाचनखूण मेनु">
@@ -168,8 +170,8 @@
 <!ENTITY fxaccount_confirm_account_change_email "हा ईमेल आपण विसरलात का?">
 <!ENTITY fxaccount_confirm_account_verification_link_sent2 "तपासणी इमेल रवाना">
 <!ENTITY fxaccount_confirm_account_verification_link_not_sent2 "तपासणी इमेल पाठवु नाही शकले">
-
-
+<!ENTITY fxaccount_resend_unlock_code_button_label "अनलॉक इमेल परत पाठवा">
+<!ENTITY fxaccount_unlock_code_sent "खाता अनलॉक इमेल पाठवला">
 
 
 <!ENTITY fxaccount_sign_in_sub_header "साइन इन">
