@@ -170,9 +170,9 @@
 <!ENTITY fxaccount_confirm_account_change_email "Bu e-posta adresini unuttunuz mu?">
 <!ENTITY fxaccount_confirm_account_verification_link_sent2 "Doğrulama e-postası gönderildi">
 <!ENTITY fxaccount_confirm_account_verification_link_not_sent2 "Doğrulama e-postası gönderilemedi">
-
-
-
+<!ENTITY fxaccount_resend_unlock_code_button_label "Kilit açma e-postasını yeniden gönder">
+<!ENTITY fxaccount_unlock_code_sent "Hesap kilidi açma e-postası gönderildi">
+<!ENTITY fxaccount_unlock_code_not_sent "Hesap kilidi açma e-postası gönderilemedi">
 
 <!ENTITY fxaccount_sign_in_sub_header "Oturum aç">
 <!ENTITY fxaccount_sign_in_button_label "Oturum aç">
