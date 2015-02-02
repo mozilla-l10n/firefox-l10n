@@ -212,7 +212,7 @@
 <!ENTITY fxaccount_remove_account_dialog_message "&brandShortName;-i do të reshtë së njëkohësuari me llogarinë tuaj, por s\’do të fshijë ndonjë nga të dhënat e shfletimit tuaj në këtë pajisje.">
 <!-- Localization note: format string below will be replaced
      with the Firefox Account's email address. -->
-<!ENTITY fxaccount_remove_account_toast "Llogari Firefox për &formatS; u hoq.">
+<!ENTITY fxaccount_remove_account_toast "Llogaria Firefox për &formatS; u hoq.">
 
 <!ENTITY fxaccount_remove_account_menu_item "Hiqe Llogarinë">
 
