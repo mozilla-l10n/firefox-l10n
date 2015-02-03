@@ -117,6 +117,8 @@
 <!ENTITY debuggerUI.searchVariable.accesskey "V">
 <!-- LOCALIZATION NOTE (debuggerUI.focusVariables): This is the text that appears
   -  in the source editor's context menu for the variables focus operation. -->
+
+<!ENTITY debuggerUI.focusVariables           "විචල්‍ය නාභි වෘක්ෂය">
 <!ENTITY debuggerUI.focusVariables.key       "V">
 <!ENTITY debuggerUI.focusVariables.accesskey "V">
 <!-- LOCALIZATION NOTE (debuggerUI.condBreakPanelTitle): This is the text that
