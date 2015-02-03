@@ -454,7 +454,7 @@ size. -->
 <!ENTITY private_tabs_panel_learn_more "ဆက်လက်လေ့လာလိုပါသလား?">
 
 <!ENTITY remote_tabs_panel_moved_title "တပ်ဗ်တွေဘယ်မှာလဲ?">
-
+<!ENTITY remote_tabs_panel_moved_desc "သင်၏ အခြားဖုန်းမှ တပ်ဗ်များအား လွယ်လွယ်ကူကူ သုံးစွဲနိုင်ရန် သင့်ပင်မစာမျက်နှာရှိ ရင်ပြင်တစ်ခုပေါ်သို့ ပို့ပေးလိုက်သှ်">
 <!ENTITY remote_tabs_panel_moved_link "ရင်ပြင်အသစ်သို့ ပို့ပေးပါ">
 
 <!ENTITY pin_site_dialog_hint "ရှာဖွေရေးကီးစာလုံး ထည့်ပါ">
@@ -483,18 +483,20 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- Mixed content notifications in site identity popup -->
 
 <!ENTITY loaded_mixed_content_message "ယခုစာမျက်နှာသည် လုံခြုံရေးမရှိသော အရာအချို့ကို ပြသနေသှ်">
-
-
+<!ENTITY blocked_mixed_content_message_top "&brandShortName; မှ မလုံခြုံသော အကြာင်းအရာကို ပိတ်ဆို့လိုက်သှ်">
+<!ENTITY blocked_mixed_content_message_bottom "ယခု အကြောင်းအရာ ကို ပိတ်ဆို့ထားနေစဉ်ပင်တွင် ဝက်ဘ်ဆိုက်များ အများစု ကောင်းမွန်စွာ အလုပ်လုပ်နိုင်">
 <!-- Tracking content notifications in site identity popup -->
 
-
-
+<!ENTITY loaded_tracking_content_message_top "ခြေရာခံကာကွယ်ခြင်း ပိတ်ထားသှ်">
+<!ENTITY loaded_tracking_content_message_bottom "ယခုဝတ်ဆိုဒ်၏ အစိတ်အပိုင်းတစ်ခုမှ သင်၏ အွန်လိုင်း လှုပ်ရှားမှုအား ခြေရာခံနိုင်">
+<!ENTITY blocked_tracking_content_message_top2 "ခြေရာခံကာကွယ်ခြင်း ဖွင့်ထားသှ်">
+<!ENTITY blocked_tracking_content_message_bottom2 "သင့်အားခြေရာခံနေသော အစိတ်အပိုင်းအား ပိတ်ဆို့ထားပေးသှ်">
 <!-- Common mixed and tracking content strings in site identity popup -->
 
 <!ENTITY learn_more "ဆက်လက်ဖတ်ရှူရန်">
-
-
-
+<!ENTITY enable_protection "အကာအကွယ် ဖွင့်ထားပါ">
+<!ENTITY disable_protection "အကာအကွယ်အား ပိတ်ပါ">
+<!ENTITY keep_blocking "ဆက်ပိတ်ဆို့ထားပါ">
 
 <!ENTITY private_data_success "တစ်ကိုယ်ရေသုံး အချက်အလက်များရှင်းပြီး">
 <!ENTITY private_data_fail "အချို့သော တစ်ကိုယ်ရေသုံးအချက်အလက်များ မရှင်းလိုက်နိုင်ပါ">
@@ -517,14 +519,19 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY webapp_generic_name "အက်ပ်">
 
-<!-- Updater notifications -->
+<!ENTITY searchable_description "စာအမှတ်များ နှင့် မှတ်တမ်း">
+<!-- Updater notifications --> 
 
+<!ENTITY updater_start_title2 "&brandShortName; အတွက်မွမ်းမံချက်ရှိ">
+<!ENTITY updater_start_select2 "ဒေါင်းလုဒ်ရယူရန် ထိပါ">
 
+<!ENTITY updater_downloading_title2 "&brandShortName; အားဒေါင်းလုဒ်ချနေသှ်">
+<!ENTITY updater_downloading_title_failed2 "ဒေါင်းလုဒ်ရယူမှု မအောင်မြင်">
+<!ENTITY updater_downloading_select2 "မွမ်းမံချက်အား ဒေါင်းလုဒ်ရယူ​ပြီး ချက်ခြင်း အသုံးချရန် ထိပါ">
+<!ENTITY updater_downloading_retry2 "ပြန်လည်ကြိုးစားရန် ထိပါ">
 
-
-
-
-
+<!ENTITY updater_apply_title2 "&brandShortName; အတွက် မွမ်းမံချက်ရှိနေပြီ">
+<!ENTITY updater_apply_select2 "မွမ်းမံရန် ထိပါ">
 <!-- Guest mode -->
 
 <!ENTITY new_guest_session "ဧည့်သည်သုံးရန် ဖွင့်">
