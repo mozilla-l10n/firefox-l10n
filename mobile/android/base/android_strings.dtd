@@ -172,6 +172,8 @@
 <!ENTITY pref_cookies_not_accept_foreign "Ynskeakele, útsein fan tredden">
 <!ENTITY pref_cookies_disabled "Utskeakele">
 
+<!ENTITY pref_donottrack_title "Folchbeskerming">
+<!ENTITY pref_donottrack_summary "&brandShortName; sil opkeare dat websites jo folgje">
 <!ENTITY pref_donottrack_title "Net folgje">
 <!ENTITY pref_donottrack_summary "&brandShortName; sil websites witte litte dat jo net folge wurde wol">
 
@@ -399,12 +401,12 @@ size. -->
 <!ENTITY home_history_title "Skiednis">
 <!ENTITY home_clear_history_button "Skiednis wiskje">
 <!ENTITY home_clear_history_confirm "Binne jo wis dat jo jo skiednis wiskje wolle?">
-<!ENTITY home_bookmarks_empty "Bewarre blêdwizers ferskine hjir.">
+<!ENTITY home_bookmarks_empty "Bewarre blêdwizers komme hjir.">
 <!ENTITY home_closed_tabs_title "Koartlyn sluten ljepblêden">
 <!ENTITY home_last_tabs_title "Ljepblêden fan de foarige kear">
-<!ENTITY home_last_tabs_empty "Jo resinte ljepblêden ferskine hjir.">
+<!ENTITY home_last_tabs_empty "Jo resinte ljepblêden komme hjir.">
 <!ENTITY home_open_all "Iepenje alle">
-<!ENTITY home_most_recent_empty "Meast resint besochte websites ferskine hjir.">
+<!ENTITY home_most_recent_empty "Meast resint besochte websites komme hjir.">
 <!-- Localization note (home_most_recent_emptyhint2): "Psst" is a sound that might be used to attract someone's attention unobtrusively, and intended to hint at Private Browsing to the user.
        The placeholders &formatS1; and &formatS2; are used to mark the location of text underlining. -->
 <!ENTITY home_most_recent_emptyhint2 "Psst: in &formatS1;Nij priveeljepblêd&formatS2; iepenje sil jo skiednis net bewarje.">
@@ -430,8 +432,10 @@ size. -->
 <!ENTITY home_remote_tabs_empty "Jo ljepblêden fan oare apparaten komme hjir.">
 <!ENTITY home_remote_tabs_unable_to_connect "Ferbining net mooglik">
 <!ENTITY home_remote_tabs_need_to_sign_in "Meld jo oan om te ferbinen mei jo Firefox-account en troch te gean mei syngronisaasje.">
-<!ENTITY home_remote_tabs_trouble_verifying "Probleme om te ferbinen mei jo account?">
-<!ENTITY home_remote_tabs_need_to_verify "Kontrolearje jo Firefox-account om syngronisearjen te starten.">
+<!ENTITY home_remote_tabs_need_to_finish_migrating "Jo Firefox-account is klear!">
+
+<!ENTITY home_remote_tabs_trouble_verifying "Problemen om te ferbinen mei jo account?">
+<!ENTITY home_remote_tabs_need_to_verify "Ferifiearje jo Firefox-account om syngronisearjen te starten.">
 
 <!ENTITY home_remote_tabs_one_hidden_device "1 apparaat ferstoppe">
 <!-- Localization note (home_remote_tabs_many_hidden_devices) : The
@@ -492,7 +496,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- Common mixed and tracking content strings in site identity popup -->
 <!ENTITY learn_more "Mear ynfo">
 <!ENTITY enable_protection "Beskerming ynskeakelje">
-<!ENTITY disable_protection "Beskerming utskeakelje">
+<!ENTITY disable_protection "Beskerming útskeakelje">
 <!ENTITY keep_blocking "Blokkearje bliuwe">
 
 <!ENTITY private_data_success "Priveegegevens wiske">
@@ -529,12 +533,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY updater_apply_title2 "Fernijing foar &brandShortName; beskikber">
 <!ENTITY updater_apply_select2 "Reitsje oan om by te wurkjen">
-
-<!-- New tablet UI -->
-
-<!-- LOCALIZATION NOTE (new_tablet_restart): Notification displayed after the user toggles the new tablet UI in the settings screen.-->
-<!ENTITY new_tablet_restart "Werstart de browser om de wizigingen te aktivearjen">
-<!ENTITY new_tablet_pref "Nij tablet-UI aktivearje">
 
 <!-- Guest mode -->
 <!ENTITY new_guest_session "Nije gastsesje">
