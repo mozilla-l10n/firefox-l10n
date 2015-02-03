@@ -1,10 +1,10 @@
-<!-- This Source Code Form is subject to the terms of the Mozilla Public
+﻿<!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-
 <!ENTITY prefWindow.titleWin      "Opsjes">
 <!ENTITY prefWindow.titleGNOME    "&brandShortName;-foarkarren">
+<!ENTITY  prefWindow.titleMAC     "Foarkarren">
 <!ENTITY prefWindow.styleWindows  "width: 55em; min-height: 41em;">
 <!ENTITY prefWindow.styleMac      "width: 56em;">
 <!ENTITY prefWindow.styleGNOME    "width: 55em; min-height: 38em;">

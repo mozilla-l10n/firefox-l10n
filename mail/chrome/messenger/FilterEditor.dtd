@@ -23,6 +23,8 @@
 <!ENTITY contextManual.accesskey "H">
 <!ENTITY contextBeforeCls.label "Filter foar net-winskeberjochtenklassifikaasje">
 <!ENTITY contextAfterCls.label "Filter nei net-winskeberjochtenklassifikaasje">
+<!ENTITY contextOutgoing.label "Nei ferstjoeren">
+<!ENTITY contextOutgoing.accesskey "N">
 
 <!ENTITY filterActionDesc.label "Dizze aksjes útfiere:">
 <!ENTITY filterActionDesc.accesskey "f">

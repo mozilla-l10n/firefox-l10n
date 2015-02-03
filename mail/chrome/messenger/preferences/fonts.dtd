@@ -1,11 +1,8 @@
-<!-- This Source Code Form is subject to the terms of the Mozilla Public
+﻿<!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY  fontsAndEncodingsDialog.title           "Lettertypen &amp; tekensets">
-<!ENTITY  window.width                            "39em">
-<!ENTITY  window.macWidth                         "43em">
-<!ENTITY  window.unixWidth                        "41em">
 
 <!ENTITY  language.label                          "Lettertypen foar:">
 <!ENTITY  language.accesskey                      "L">
@@ -28,7 +25,7 @@
 <!ENTITY  font.langGroup.latin2                   "Sintraal-Europeesk">
 <!ENTITY  font.langGroup.japanese                 "Japansk">
 <!ENTITY  font.langGroup.trad-chinese             "Tradisjoneel Sineesk (Taiwan)">
-<!ENTITY  font.langGroup.simpl-chinese            "Ferienfâldigd Sineesk">
+<!ENTITY  font.langGroup.simpl-chinese            "Ferienfâldige Sineesk">
 <!ENTITY  font.langGroup.trad-chinese-hk          "Tradisjoneel Sineesk (Hong Kong)">
 <!ENTITY  font.langGroup.korean                   "Koreaansk">
 <!ENTITY  font.langGroup.cyrillic                 "Syrillysk">
