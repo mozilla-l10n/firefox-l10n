@@ -11,11 +11,18 @@
 <!ENTITY profilerUI.importButton "Импорт…">
 <!ENTITY profilerUI.exportButton "Сохранить">
 <!ENTITY profilerUI.clearButton "Очистить">
-<!ENTITY profilerUI.table.totalDuration "Общее время (мс)">
-<!ENTITY profilerUI.table.selfDuration "Своё время (мс)">
+<!ENTITY profilerUI.toolbar.waterfall "Временная шкала">
+<!ENTITY profilerUI.toolbar.js-calltree "JavaScript">
+<!ENTITY profilerUI.toolbar.memory-calltree "Память">
+<!ENTITY profilerUI.toolbar.js-flamegraph "JS Flame Chart">
+<!ENTITY profilerUI.toolbar.memory-flamegraph "Memory Flame Chart">
+<!ENTITY profilerUI.table.totalDuration2 "Общее время">
+<!ENTITY profilerUI.table.selfDuration2 "Своё время">
 <!ENTITY profilerUI.table.totalPercentage "Общие затраты">
 <!ENTITY profilerUI.table.selfPercentage "Свои затраты">
 <!ENTITY profilerUI.table.samples "Замеры">
+<!ENTITY profilerUI.table.totalAlloc "Всего аллокаций">
+<!ENTITY profilerUI.table.selfAlloc "Свои аллокации">
 <!ENTITY profilerUI.table.function "Функция">
 <!ENTITY profilerUI.newtab.tooltiptext "Добавить из выбора новую вкладку">
 <!ENTITY profilerUI.options.tooltiptext "Установить настройки производительности.">

@@ -567,10 +567,6 @@
 <!ENTITY pluginActivateAlways.label "Разрешить и запомнить">
 <!ENTITY pluginBlockNow.label "Заблокировать плагин">
 <!ENTITY pluginNotification.width "30em">
-<!ENTITY tabCrashed.header "Вкладка упала">
-<!ENTITY tabCrashed.message "Ой, вот ведь незадача. Мы пытались показать вам эту веб-страницу, а она не отзывается.">
-<!ENTITY tabCrashed.checkSendReport "Сообщить в &vendorShortName; об этом падении, чтобы они смогли это исправить.">
-<!ENTITY tabCrashed.tryAgain "Попробовать снова">
 <!ENTITY uiTour.infoPanel.close "Закрыть">
 <!ENTITY appMenuSidebars.label "Боковые панели">
 <!ENTITY switchToMetroCmd2.label "Перезапустить &brandShortName; в стиле Windows 8">
