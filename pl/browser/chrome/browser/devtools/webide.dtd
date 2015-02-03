@@ -132,15 +132,22 @@
 <!ENTITY runtimedetails_requestPrivileges "zażądaj wyższych uprawnień">
 <!ENTITY runtimedetails_privilegesWarning "Urządzenie zostanie uruchomione ponownie. Wymagane uprawnienia użytkownika „root”">
 
-<!ENTITY devicepreferences_title "Ustawienia urządzenia">
-<!ENTITY devicepreferences_search "Ustawienia wyszukiwania">
-<!ENTITY devicepreferences_newname "Nazwa ustawienia">
-<!ENTITY devicepreferences_newtext "Wartość ustawienia">
-<!ENTITY devicepreferences_addnew "Dodaj ustawienie">
-<!ENTITY devicepreferences_typeboolean "Wartość logiczna">
-<!ENTITY devicepreferences_typenumber "Liczba całkowita">
-<!ENTITY devicepreferences_typestring "Łańcuch znaków">
-<!ENTITY devicepreferences_typenone "Wybierz typ">
+<!ENTITY device_typeboolean "Wartość logiczna">
+<!ENTITY device_typenumber "Liczba całkowita">
+<!ENTITY device_typestring "Łańcuch">
+<!ENTITY device_typeobject "Obiekt">
+<!ENTITY device_typenone "Wybierz typ">
+
+<!ENTITY devicepreference_title "Ustawienia urządzenia">
+<!ENTITY devicepreference_search "Ustawienia wyszukiwania">
+<!ENTITY devicepreference_newname "Nazwa ustawienia">
+<!ENTITY devicepreference_newtext "Wartość ustawienia">
+<!ENTITY devicepreference_addnew "Dodaj ustawienie">
+<!ENTITY devicesetting_title "Ustawienia urządzenia">
+<!ENTITY devicesetting_search "Ustawienia wyszukiwania">
+<!ENTITY devicesetting_newname "Nazwa ustawienia">
+<!ENTITY devicesetting_newtext "Wartość ustawienia">
+<!ENTITY devicesetting_addnew "Dodaj ustawienie">
 
 <!ENTITY monitor_title "Monitor zasobów">
 <!ENTITY monitor_help "Pomoc">
