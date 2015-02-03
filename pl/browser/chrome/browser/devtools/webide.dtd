@@ -128,7 +128,7 @@
 <!ENTITY runtimedetails_adbIsRoot "ADB root: ">
 <!ENTITY runtimedetails_summonADBRoot "zażądaj wyższych uprawnień">
 <!ENTITY runtimedetails_ADBRootWarning "Wymagany odblokowany bootloader">
-<!ENTITY runtimedetails_restrictedPrivileges "Ograniczone uprawnienia narzędzi: ">
+<!ENTITY runtimedetails_unrestrictedPrivileges "Nieograniczone uprawnienia narzędzi: ">
 <!ENTITY runtimedetails_requestPrivileges "zażądaj wyższych uprawnień">
 <!ENTITY runtimedetails_privilegesWarning "Urządzenie zostanie uruchomione ponownie. Wymagane uprawnienia użytkownika „root”">
 
