@@ -13,12 +13,18 @@
 <!--  Localization note (search_plus_content_description): This is the content description
       for the "+" icon that appears at the end of search suggestions. -->
 
+<!ENTITY search_plus_content_description "ရှာဖွေဘားသို့ ထည့်ပါ">
 
+<!ENTITY search_pref_title "အပြင်အဆင်များ">
+<!ENTITY search_pref_button_content_description "အပြင်အဆင်များ">
 
+<!ENTITY pref_clearHistory_confirmation "မှတ်တမ်းများအား ရှင်းလင်းပြီး">
+<!ENTITY pref_clearHistory_dialogMessage "ရှာဖွေရေးမှတ်တမ်းများအားလုံးကို ဖျက်မည်။">
+<!ENTITY pref_clearHistory_title "ရှာဖွေရေးမှတ်တမ်းများ ရှင်းလင်းပါ">
 
-
-
+<!ENTITY pref_searchProvider_title "ရှာဖွေရေးအင်ဂျင်">
 
 <!ENTITY search_widget_button_label "ရှာဖွေပါ">
 
-
+<!ENTITY network_error_title "အင်တာနက်ချိတ်ဆက်မှု မရှိပါ">
+<!ENTITY network_error_message "သင်၏ နတ်ဝပ်အပြင်အဆင်များအား စစ်ဆေးရန် ထိပါ">

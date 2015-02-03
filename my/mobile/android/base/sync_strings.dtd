@@ -7,11 +7,15 @@
 <!ENTITY syncBrand.fullName.label "မီးမြေခွေးထပ်တူအသုံးချခြင်း">
 <!ENTITY syncBrand.shortName.label "ထပ်တူပြုပြိုင်တူအသုံးပြုခြင်း">
 <!-- Main titles. -->
-<!ENTITY sync.title.connect.label "&syncBrand.shortName.label;…အားတပ်ဆင်တော့မည်။">
 
+<!ENTITY sync.app.name.label "&syncBrand.fullName.label;">
+<!ENTITY sync.title.connect.label "&syncBrand.shortName.label;…အားတပ်ဆင်တော့မည်။">
+<!ENTITY sync.title.adddevice.label "&syncBrand.fullName.label; အကောင့်တစ်ခုထည့်ပါ">
 <!ENTITY sync.title.pair.label "ပစ္စည်းတစ်ခုဖြင့်တွဲမည်။">
 <!-- J-PAKE Key Screen -->
 
+<!ENTITY sync.subtitle.connect.label "သင်၏ ဖုန်းအသစ်အား စသုံးရန် အတွင် \&quot;&syncBrand.shortName.label; အား တပ်ဆင်ပါ \&quot; ကို ဖုန်းတွင်ရွေးပါ">
+<!ENTITY sync.subtitle.header2.label "သင်၏ အခြားဖုန်းတွင် ယခု ကုဒ်အားထည့်ပါ">
 
 <!ENTITY sync.subtitle.pair.label "အသုံးပြုရန်အတွက် “Pair a device” အားရွေးလိုက်ပါ">
 
