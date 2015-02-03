@@ -8,5 +8,5 @@
 
 <!ENTITY addonAction.enable                     "လုပ်ဆောင်နိုင်စေမည်။">
 <!ENTITY addonAction.disable                    "ပိတ်ထားသည်">
-
+<!ENTITY addonAction.uninstall                  "ဖြုတ်ပါ">
 <!ENTITY addonAction.undo                       "ပြန်ဖြည်ပါ">

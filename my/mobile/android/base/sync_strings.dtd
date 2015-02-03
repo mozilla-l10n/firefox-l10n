@@ -189,7 +189,8 @@
 <!ENTITY fxaccount_update_credentials_button_label "ဝင်ပါ">
 <!ENTITY fxaccount_update_credentials_unknown_error "မဝင်ရောက်နိုင်ပါ">
 
-
+<!ENTITY fxaccount_finish_migrating_header "အဆင့်မြှင့်ခြင်း ပြီးမြောက်ရင် ဝင်ရောက်ပါ">
+<!ENTITY fxaccount_finish_migrating_button_label "အဆင့်မြှင့်ခြင်း ပြီးဆုံး">
 <!ENTITY fxaccount_finish_migrating_description "အဆင့်မြှင့်လိုက်ပါက အချက်အလက်များပါလာမည် ဖြစ်သည်။ WiFi ရှိသည့်အချိန်တွင် ပြုလုပ်ပါ။">
 
 <!ENTITY fxaccount_status_header2 "မီးမြေခွေးအကောင့်">
@@ -208,8 +209,8 @@
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled_v21 "&syncBrand.shortName.label; အားတပ်ဆင်ပြီး ပေမယ့် အလိုအလျောက်ချိတ်ဆက်မထားပါ။ Android Settings &gt; Accounts အောက်မှ “Auto-sync data” အား နှိပ်ပြီး ချိတ်ပါ။">
 <!ENTITY fxaccount_status_needs_account_enabled "&syncBrand.shortName.label; အားတပ်ဆင်ပြီး အလိုအလျောက် မချိတ်ဆက်ထားပါ။ ချိတ်ဆက်ရန် ဒီကိုထိပါ။">
 <!ENTITY fxaccount_status_needs_finish_migrating "သင့်မီးမြေခွေး အကောင့်အား ဝင်ရန် ထိပါ">
-
-
+<!ENTITY fxaccount_status_bookmarks "စာအမှတ်များ">
+<!ENTITY fxaccount_status_history "မှတ်တမ်း">
 <!ENTITY fxaccount_status_passwords "စကားဝှက်များ">
 <!ENTITY fxaccount_status_tabs "ဖွင့်ထားသောတပ်ဗ်များ">
 <!ENTITY fxaccount_status_legal "ဥပဒေရေးရာ" >
@@ -222,21 +223,29 @@
 <!ENTITY fxaccount_status_more "နောက်&ellipsis;">
 
 <!ENTITY fxaccount_remove_account_dialog_title "မီးမြေခွေးအကောင့်အားဖယ်ပြီး?">
-
+<!ENTITY fxaccount_remove_account_dialog_message "&brandShortName; သင့်အကောင့်အား ချိတ်ဆက်ခြင်း ရပ်တန့်သွားမည် ဖြစ်သှ်။ သင်၏ ဘယောက်ဆာ အချက်အလက်များအား ဖျက်ပစ်မည်မဟုတ်ပါ">
 <!-- Localization note: format string below will be replaced
      with the Firefox Account's email address. -->
+<!ENTITY fxaccount_remove_account_toast "မီးမြေခွေးအကောင့် &formatS; ဖယ်ရှားပြီး">
 
+<!ENTITY fxaccount_remove_account_menu_item "အကောင့် ပယ်ဖျက်ရန်">
 <!-- Localization note: this is the name shown by the Android system
      itself for a Firefox Account. Don't localize this. -->
+
+<!ENTITY fxaccount_account_type_label "မီးမြေခွေး">
 <!-- Localization note: these are shown by the Android system itself,
      when the user navigates to the Android > Accounts > {Firefox
      Account} Screen. The link takes the user to the Firefox Account
      status activity, which lets them manage their Firefox
      Account. -->
 
+<!ENTITY fxaccount_options_title "&syncBrand.shortName.label; အပြင်အဆင်များ">
+<!ENTITY fxaccount_options_configure_title "&syncBrand.shortName.label; အားစီမံပါ">
 <!-- Localization note: these error messages are shown after a request
      has been made to the remote server, and an error of some type has
      been returned. -->
+
+<!ENTITY fxaccount_remote_error_UPGRADE_REQUIRED "မီးမြေခွေးအား အဆင့်မြှင့်ရန်လိုအပ်သှ်">
 <!-- Localization note: the format string will be fxaccount_sign_in_button_label, linkified. -->
 
 <!ENTITY fxaccount_remote_error_ATTEMPT_TO_CREATE_AN_ACCOUNT_THAT_ALREADY_EXISTS_2 "အကောင့်ရှိပြီး &formatS1;">
@@ -249,8 +258,12 @@
 <!ENTITY fxaccount_remote_error_COULD_NOT_CONNECT "ကွန်ယက်သို့ မချိတ်ဆက်နိုင်ပါ">
 <!ENTITY fxaccount_remote_error_ACCOUNT_LOCKED "အကောင့်အားပိတ်ထားပြီး &formatS1;">
 
+<!ENTITY fxaccount_sync_sign_in_error_notification_title2 "&syncBrand.shortName.label; ချိတ်ဆက်မထားပါ">
 <!-- Localization note: the format string below will be replaced
      with the Firefox Account's email address. -->
+<!ENTITY fxaccount_sync_sign_in_error_notification_text2 "&formatS; အဖြင် ဝင်ရောက်ရန်ထိပါ">
 
+<!ENTITY fxaccount_sync_finish_migrating_notification_title "&syncBrand.shortName.label; အဆင့်မြှင့်ခြင်းပြီးဆုံးစေမည်?">
 <!-- Localization note: the format string below will be replaced
      with the Firefox Account's email address. -->
+<!ENTITY fxaccount_sync_finish_migrating_notification_text "&formatS; အဖြင့်ဝင်ရောက်ရန် ထိပါ">

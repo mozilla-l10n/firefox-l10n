@@ -17,16 +17,23 @@
 <!-- LOCALIZATION NOTE (support.link): Avoid leading/trailing spaces, this text is a link. -->
 <!-- LOCALIZATION NOTE (support.post): Include a starting space as needed. -->
 
+<!ENTITY support.pre3              "ကျွန်ုပ်တို့၏ ">
+<!ENTITY support.link2             "အကူအညီဝတ်ဆိုဒ်">
+<!ENTITY support.post3             "  ဘုံပြသာနာများ အတွက် အဖြေရှာရန်">
 
-
+<!ENTITY happy.header              "ကြားရတာဝမ်းသာပါတယ်!">
 <!-- LOCALIZATION NOTE (happy.message): "share the love" — This feels purposely exaggerated in English,
      but essentially it means that we want you to let others know how much you love Firefox. -->
+
+<!ENTITY happy.message             "Google Play မှာ 5 star ပေးပြီး ကျွန်ုပ်တို့ကို အားပေးမလား?">
 <!-- LOCALIZATION NOTE (happy.finePrint): "feels great" — Another exaggeration where we're trying to
      get people to rate us by playfully telling them there's a benefit in it for them as well. -->
 
+<!ENTITY happy.finePrint           "တစ်မိနစ်တောင်မကြာပါဘူး">
+
 <!ENTITY happy.ratingLink          "ဟုတ်ကဲ့၊ Google Play ကို သွားပါ">
 <!ENTITY happy.maybeLater2         "နောက်တော့မှ">
-
+<!ENTITY happy.noThanks            "နေပါစေ">
 
 <!ENTITY sad.header                "အိုး နိုး!">
 <!ENTITY sad.message               "&brandShortName; မှာ ချို့ယွင်းချက် အချို့ရှိခဲ့ရင် ကျွနု်ပ်တို့ တောင်းပန်ပါတယ်။ ကျေးဇူးပြုပြီး ဘာဖြစ်လဲဆိုတာ ပြောပေးပါ။ ဒါမှ ပြင်နိုင်မှာပါ။">
