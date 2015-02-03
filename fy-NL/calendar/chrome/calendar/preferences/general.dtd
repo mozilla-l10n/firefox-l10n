@@ -13,8 +13,8 @@
 <!ENTITY pref.dateformat.long "Lang" >
 <!ENTITY pref.dateformat.short "Koart"  >
 
-<!ENTITY pref.timezones.caption "Tiidsône">
-<!ENTITY pref.timezones.label "Selektearje de tichtbye stêd yn jo tiidsône:">
+<!ENTITY pref.timezones.caption "TiidsÃ´ne">
+<!ENTITY pref.timezones.label "Selektearje de tichtbye stÃªd yn jo tiidsÃ´ne:">
 <!ENTITY pref.timezones.accesskey "S">
 
 <!ENTITY pref.defaults.label "Standertwearden foar nije items">
