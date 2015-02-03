@@ -11,11 +11,18 @@
 <!ENTITY profilerUI.importButton "Importa…">
 <!ENTITY profilerUI.exportButton "Salva">
 <!ENTITY profilerUI.clearButton "Cancella">
-<!ENTITY profilerUI.table.totalDuration "Tempo totale (ms)">
-<!ENTITY profilerUI.table.selfDuration "Tempo individuale (ms)">
+<!ENTITY profilerUI.toolbar.waterfall "Sequenza temporale">
+<!ENTITY profilerUI.toolbar.js-calltree "JavaScript">
+<!ENTITY profilerUI.toolbar.memory-calltree "Memoria">
+<!ENTITY profilerUI.toolbar.js-flamegraph "Flame chart JS">
+<!ENTITY profilerUI.toolbar.memory-flamegraph "Flame chart memoria">
+<!ENTITY profilerUI.table.totalDuration2 "Tempo totale">
+<!ENTITY profilerUI.table.selfDuration2 "Tempo individuale">
 <!ENTITY profilerUI.table.totalPercentage "Costo totale">
 <!ENTITY profilerUI.table.selfPercentage "Costo individuale">
 <!ENTITY profilerUI.table.samples "Campioni">
+<!ENTITY profilerUI.table.totalAlloc "Allocazioni totali">
+<!ENTITY profilerUI.table.selfAlloc "Allocazioni individuali">
 <!ENTITY profilerUI.table.function "Funzione">
 <!ENTITY profilerUI.newtab.tooltiptext "Aggiungi nuova scheda dalla selezione">
 <!ENTITY profilerUI.options.tooltiptext "Configura preferenze prestazioni.">
