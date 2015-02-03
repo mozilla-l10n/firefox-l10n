@@ -70,7 +70,7 @@
      one line, try to make the localized text short (see bug 596813 for screenshots). -->
 
 <!ENTITY update.failed.start        "යාවත්කාලීන කිරීම අසාර්ථක විය. ">
-<!ENTITY update.failed.linkText     "නවතම වෙළුම බාගත කරන්න">
+<!ENTITY update.failed.linkText     "නවතම අනුවාදය බාගන්න">
 <!ENTITY update.failed.end          "">
 <!-- LOCALIZATION NOTE (update.manual.start,update.manual.end): update.manual.start and update.manual.end
      all go into one line and have an anchor in between with text that is the same as the link to a site

@@ -38,7 +38,7 @@
 <!-- LOCALIZATION NOTE (netmonitorUI.toolbar.size): This is the label displayed
   -  in the network table toolbar, above the "size" column. -->
 
-<!ENTITY netmonitorUI.toolbar.size        "විශාලත්වය">
+<!ENTITY netmonitorUI.toolbar.size        "ප්‍රමාණය">
 <!-- LOCALIZATION NOTE (netmonitorUI.toolbar.waterfall): This is the label displayed
   -  in the network table toolbar, above the "waterfall" column. -->
 
@@ -46,15 +46,15 @@
 <!-- LOCALIZATION NOTE (debuggerUI.tab.headers): This is the label displayed
   -  in the network details pane identifying the headers tab. -->
 
-<!ENTITY netmonitorUI.tab.headers         "ශීර්ෂයන්">
+<!ENTITY netmonitorUI.tab.headers         "ශීර්ෂක">
 <!-- LOCALIZATION NOTE (debuggerUI.tab.cookies): This is the label displayed
   -  in the network details pane identifying the cookies tab. -->
 
-<!ENTITY netmonitorUI.tab.cookies         "කුකී">
+<!ENTITY netmonitorUI.tab.cookies         "කුකීස්">
 <!-- LOCALIZATION NOTE (debuggerUI.tab.params): This is the label displayed
   -  in the network details pane identifying the params tab. -->
 
-<!ENTITY netmonitorUI.tab.params          "පරාම්">
+<!ENTITY netmonitorUI.tab.params          "පරාමිති">
 <!-- LOCALIZATION NOTE (debuggerUI.tab.response): This is the label displayed
   -  in the network details pane identifying the response tab. -->
 <!-- LOCALIZATION NOTE (debuggerUI.tab.timings): This is the label displayed
@@ -90,7 +90,7 @@
 <!-- LOCALIZATION NOTE (debuggerUI.footer.filterImages): This is the label displayed
   -  in the network details footer for the "Images" filtering button. -->
 
-<!ENTITY netmonitorUI.footer.filterImages "රූප">
+<!ENTITY netmonitorUI.footer.filterImages "පින්තූර">
 <!-- LOCALIZATION NOTE (debuggerUI.footer.filterMedia): This is the label displayed
   -  in the network details footer for the "Media" filtering button. -->
 
@@ -118,11 +118,11 @@
 <!-- LOCALIZATION NOTE (debuggerUI.summary.status): This is the label displayed
   -  in the network details headers tab identifying the status code. -->
 
-<!ENTITY netmonitorUI.summary.status      "තත්ව කේතය:">
+<!ENTITY netmonitorUI.summary.status      "තත්ත්ව කේතය:">
 <!-- LOCALIZATION NOTE (debuggerUI.summary.version): This is the label displayed
   -  in the network details headers tab identifying the http version. -->
 
-<!ENTITY netmonitorUI.summary.version     "නිකුතුව:">
+<!ENTITY netmonitorUI.summary.version     "අනුවාදය:">
 <!-- LOCALIZATION NOTE (debuggerUI.summary.size): This is the label displayed
   -  in the network details headers tab identifying the headers size. -->
 
@@ -140,7 +140,7 @@
 <!-- LOCALIZATION NOTE (debuggerUI.response.encoding): This is the label displayed
   -  in the network details response tab identifying an image's encoding. -->
 
-<!ENTITY netmonitorUI.response.encoding   "සංකේතනය:">
+<!ENTITY netmonitorUI.response.encoding   "කේතාංකනය:">
 <!-- LOCALIZATION NOTE (debuggerUI.timings.blocked): This is the label displayed
   -  in the network details timings tab identifying the amount of time spent
   -  in a "blocked" state. -->
@@ -163,12 +163,12 @@
   -  in the network details timings tab identifying the amount of time spent
   -  in a "wait" state. -->
 
-<!ENTITY netmonitorUI.timings.wait        "රැඳී සිටියි:">
+<!ENTITY netmonitorUI.timings.wait        "රැඳෙමින්…">
 <!-- LOCALIZATION NOTE (debuggerUI.timings.receive): This is the label displayed
   -  in the network details timings tab identifying the amount of time spent
   -  in a "receive" state. -->
 
-<!ENTITY netmonitorUI.timings.receive     "ලබමින්:">
+<!ENTITY netmonitorUI.timings.receive     "ලැබෙමින්:">
 <!-- LOCALIZATION NOTE (netmonitorUI.security.error): This is the label displayed
   -  in the security tab if a security error prevented the connection. -->
 <!-- LOCALIZATION NOTE (netmonitorUI.security.protocolVersion): This is the label displayed
@@ -195,7 +195,7 @@
 <!-- LOCALIZATION NOTE (netmonitorUI.context.copyUrl): This is the label displayed
   -  on the context menu that copies the selected request's url -->
 
-<!ENTITY netmonitorUI.context.copyUrl     "URL පිටපත්">
+<!ENTITY netmonitorUI.context.copyUrl     "URL පිටපත් කරන්න">
 <!-- LOCALIZATION NOTE (netmonitorUI.context.copyAsCurl): This is the label displayed
   -  on the context menu that copies the selected request as a cURL command.
   -  The capitalization is part of the official name and should be used throughout all languages.
