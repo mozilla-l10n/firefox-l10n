@@ -712,8 +712,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY social.closeNotificationItem.label "Ikke nu">
 
 <!ENTITY social.directory.label "Aktiverings-mapper">
-<!ENTITY social.directory.text "Du kan aktivere delings-tjenester fra mappen.">
-<!ENTITY social.directory.button "Gå til mappen">
+<!ENTITY social.directory.text "Du har ingen aktive delings-tjenester">
+<!ENTITY social.directory.button "Find tjenester">
 <!ENTITY social.directory.introText "Klik på en tjeneste for at føje den til &brandShortName;.">
 <!ENTITY social.directory.viewmore.text "Se flere">
 
