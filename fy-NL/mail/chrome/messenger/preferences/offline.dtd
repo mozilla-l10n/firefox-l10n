@@ -1,16 +1,20 @@
-<!-- This Source Code Form is subject to the terms of the Mozilla Public
+﻿<!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY offlineDialog.title       "Offline-ynstellingen">
 
-<!ENTITY textStartUp   "By it opstarten:">
+<!ENTITY checkAutoDetect.label "Automatysk detektearre onlinetastân folgje">
+<!ENTITY checkAutoDetect.accesskey "A">
+<!ENTITY titleStartUp "Hânmjittige tastân by it opstarten:">
 <!ENTITY radioRememberPrevState.label "Foarige onlinesteat hantearje">
 <!ENTITY radioRememberPrevState.accesskey "h">
 <!ENTITY radioAskMe.label "My de onlinesteat freegje">
 <!ENTITY radioAskMe.accesskey "s">
 <!ENTITY radioAlwaysOnline.label "Altyd online opstarte">
 <!ENTITY radioAlwaysOnline.accesskey "o">
+<!ENTITY radioAlwaysOffline.label "Altyd offline opstarte">
+<!ENTITY radioAlwaysOffline.accesskey "f">
 
 <!ENTITY textGoingOnline "Wolle jo net-ferstjoerde berjochten ferstjoere as jo online gean?">
 <!ENTITY radioAutoSend.label "Ja">
