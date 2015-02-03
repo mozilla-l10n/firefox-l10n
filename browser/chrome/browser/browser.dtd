@@ -154,13 +154,13 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY shareLink.accesskey "h">
 
 
-
-
+<!ENTITY shareSelect.label "ಆಯ್ಕೆಯನ್ನು Share">
+<!ENTITY shareSelect.accesskey "r">
 <!ENTITY shareVideo.label "ಈ ವೀಡಿಯೊವನ್ನು Share">
 <!ENTITY shareVideo.accesskey "r">
-<!ENTITY feedsMenu.label "ಚಂದಾದಾರನಾಗಿಸು">
-<!ENTITY subscribeToPageMenupopup.label "ಈ ಪುಟಕ್ಕೆ ಚಂದಾದಾರನಾಗಿಸು">
-<!ENTITY subscribeToPageMenuitem.label "ಈ ಪುಟಕ್ಕೆ ಚಂದಾದಾರನಾಗಿಸು...">
+<!ENTITY feedsMenu.label "ಚಂದಾದಾರನಾಗು">
+<!ENTITY subscribeToPageMenupopup.label "ಈ ಪುಟಕ್ಕೆ ಚಂದಾದಾರನಾಗು">
+<!ENTITY subscribeToPageMenuitem.label "ಈ ಪುಟಕ್ಕೆ ಚಂದಾದಾರನಾಗು…">
 <!ENTITY addCurPagesCmd.label "ಎಲ್ಲಾ ಟ್ಯಾಬ್‌ಗಳನ್ನು ಪುಟಗುರುತು ಮಾಡು...">
 <!ENTITY showAllBookmarks2.label "ಎಲ್ಲಾ ಪುಟಗುರುತುಗಳನ್ನು ತೋರಿಸು">
 <!ENTITY unsortedBookmarksCmd.label "ವಿಂಗಡಿಸದೆ ಇರುವ ಪುಟಗುರುತುಗಳು">
@@ -714,7 +714,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY social.learnMore.accesskey "L">
 <!ENTITY social.closeNotificationItem.label "ಈಗ ಬೇಡ">
 
-
+<!ENTITY social.directory.text "ಹಂಚಲು ಬಳಸುವ ಸೇವೆಗಳನ್ನು ನೀವು ನಿರ್ದೆಶಿಕೆಯಿಂದ ಸಕ್ರಿಯಗೊಳಿಸಬಹುದು.">
 <!ENTITY social.directory.button "ನನ್ನನ್ನು ಅಲ್ಲಿಗೆ ಕರೆದೊಯ್ಯಿ!">
 <!ENTITY social.directory.introText "&brandShortName; ಗೆ ಸೇವೆಯನ್ನು ಸೇರಿಸಲು ಅದರ ಮೇಲೆ ಕ್ಲಿಕ್ಕಿಸಿ.">
 <!ENTITY social.directory.viewmore.text "ಇನ್ನಷ್ಟು ವೀಕ್ಷಿಸಿ">

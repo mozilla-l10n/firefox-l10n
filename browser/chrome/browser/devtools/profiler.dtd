@@ -43,6 +43,8 @@
 <!-- LOCALIZATION NOTE (profilerUI.table.*): These strings are displayed
   -  in the call tree headers for a recording. -->
 
+<!ENTITY profilerUI.table.totalDuration   "ಒಟ್ಟು ಸಮಯ (ms) ">
+<!ENTITY profilerUI.table.selfDuration    "ಸ್ವಂತ ಸಮಯ (ms)">
 <!ENTITY profilerUI.table.totalPercentage "ಒಟ್ಟು ವೆಚ್ಚ">
 
 <!ENTITY profilerUI.table.samples         "ನಮೂನೆಗಳು">
