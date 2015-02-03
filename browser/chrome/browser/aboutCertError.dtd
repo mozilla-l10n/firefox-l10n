@@ -21,7 +21,7 @@ was trying to connect. -->
 
 <!ENTITY certerror.whatShouldIDo.heading "Tge duai jau far?">
 <!ENTITY certerror.whatShouldIDo.content "Sche ti has normalmain nagins problems cun questa website, pudess questa errur muntar che insatgi falsifitgescha questa website. En quest cas na duessas ti betg cuntinuar.">
-<!ENTITY certerror.whatShouldIDo.badStsCertExplanation "Questa pagina utilisescha HTTP Strict Transport Security (HSTS) per specifitgar che &brandShortName; duai be connectar a moda segira. Perquai n'èsi betg pussaivel dad agiuntar ina excepiun per quest certificat.">
+<!ENTITY certerror.whatShouldIDo.badStsCertExplanation "Questa pagina utilisescha HTTP Strict Transport Security (HSTS) per specifitgar che &brandShortName; duai be connectar a moda segira. Perquai n'èsi betg pussaivel dad agiuntar ina excepziun per quest certificat.">
 <!ENTITY certerror.getMeOutOfHere.label "Bandunar questa pagina!">
 
 <!ENTITY certerror.expert.heading "Jau chapesch las ristgas">
