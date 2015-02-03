@@ -747,11 +747,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY getUserMedia.selectMicrophone.accesskey "M">
 <!ENTITY getUserMedia.allWindowsShared.message "Tut las fanestras visiblas sin tes visur vegnan cundivididas.">
 
-<!ENTITY webrtcIndicatorButton.label "Access la camera / microfon">
-<!ENTITY webrtcIndicatorButton.tooltip "Mussar las paginas che han actualmain access a tia camera u tes microfon">
-
-<!ENTITY loopCallButton.tooltip "Envidar insatgi per discurrer">
-
 <!-- Bad Content Blocker Doorhanger Notification -->
 <!ENTITY badContentBlocked.moreinfo "La pli gronda part da las paginas d'internet funcziuneschan era sche quest cuntegn vegn bloccà.">
 
