@@ -16,13 +16,13 @@
 
 <!ENTITY sync.subtitle.connect.label "သင်၏ ဖုန်းအသစ်အား စသုံးရန် အတွင် \&quot;&syncBrand.shortName.label; အား တပ်ဆင်ပါ \&quot; ကို ဖုန်းတွင်ရွေးပါ">
 <!ENTITY sync.subtitle.header2.label "သင်၏ အခြားဖုန်းတွင် ယခု ကုဒ်အားထည့်ပါ">
-
+<!ENTITY sync.subtitle.connectlocation2.label "&syncBrand.shortName.label; မှ &sync.title.pair.label; အားရွေးပါ">
 <!ENTITY sync.subtitle.pair.label "အသုံးပြုရန်အတွက် “Pair a device” အားရွေးလိုက်ပါ">
-
-
+<!ENTITY sync.pin.default.label "...\n...\n...\n">
+<!ENTITY sync.pin.oneline.label "...">
 <!ENTITY sync.link.show.label "မည်သို့လုပ်ရမည်ကိုကျွန်ုပ်အားပြပါ။">
-
-
+<!ENTITY sync.link.advancedsetup.label "အဆင့်မြင့် ချိန်ညှိချက်...">
+<!ENTITY sync.link.nodevice.label "ကျွန်တော့်တွင်သင်နှင့်သုံးရန်ကိရိယာမရှိပါ...">
 <!-- J-PAKE Waiting Screen -->
 <!-- Account Login Screen -->
 
@@ -37,25 +37,27 @@
 <!ENTITY sync.button.tryagain.label "ထပ်ကြိုးစားကြည့်ပါ">
 
 
-
-
+<!ENTITY sync.subtitle.failaccount.label "သင့်ဖုန်းတွင် အကောင့်ပြုလုပ်ခြင်း မအောင်မြင်ပါ">
+<!ENTITY sync.subtitle.failmultiple.label "သင့်တွင် မီးမြေခွေး ဘယောက်ဆာ တစ်ခုထက်ပိုပြီး တပ်ဆင်ထားပါသလား? လက်ရှိ &syncBrand.fullName.label; သည် မီးမြေခွေးဘယောက်ဆာ တစ်ခုတည်းကိုသာ တစ်ချိန်ထဲ သုံးနိုင်ပါသှ်။ &syncBrand.shortName.label; အားသုံး ရန် အခြား မီးမြေခွေး ဘယောက်ဆာ တစ်ခုအား ဖြုတ်ပါ ">
 <!-- Setup Success -->
 
 <!ENTITY sync.title.success.label "တပ်ဆင်ခြင်းပြီးဆုံး">
-
+<!ENTITY sync.subtitle.success.label1 "သင့်အချက်အလက်များအား နောက်ကွယ်တွင် ဒေါင်းလုဒ်ရယူနေသှ်။ သင့်အကောင့်ရှိ အပြင်အဆင် သို့ &brandShortName; အား စတင်သုံးဆွဲလိုက်ပါ">
 <!ENTITY sync.settings.label "အပြင်အဆင်များ">
-
+<!ENTITY sync.subtitle.manage.label1 "&syncBrand.fullName.label; သည်တပ်ဆင်သုံးဆွဲရန် အဆင်သင့်ဖြစ်ပါပြီ။ သင့် အပြင်အဆင် ထဲမှ သင့်အကောင့်အား စီမံ သို့ &brandShortName; အား စတင်ပါ">
 <!-- Pair Device -->
 
 <!ENTITY sync.pair.tryagain.label "ကျေးဇူးပြုပြီးထပ်ကြိုးစားပါ">
-
+<!ENTITY sync.pair.connectlocation.label "သင်၏ ဖုန်းအသစ်တွင် တပ်ဆင်ရန် “Set up &syncBrand.shortName.label;” အားရွေးပါ ပြီးနောက် \&quot;အကောင့်ရှိသှ်\&quot; ကိုရွေးပါ">
 <!-- Firefox SyncAdapter Settings Screen -->
 
 <!ENTITY sync.settings.options.label "ရွေးစရာများ">
-
+<!ENTITY sync.summary.pair.label "အခြား​ဖုန်းတစ်လုံးအား သင်၏ &syncBrand.shortName.label; အကောင့်သို့ချိတ်တပ်ပါ">
 <!-- Configure Engines -->
 
-
+<!ENTITY sync.configure.engines.title.label "ဘာတွေကို ချိတ်ဆက်ရယူမလဲ">
+<!ENTITY sync.configure.engines.sync.my.title.label "ချိတ်ဆက်ရယူ...">
+<!ENTITY sync.configure.engines.title.bookmarks "စာအမှတ်များ">
 
 
 <!ENTITY sync.configure.engines.title.tabs "ခလုပ်ပြားများ">
@@ -88,14 +90,16 @@
 <!ENTITY sync.invalidcreds.label "အမည် သို့ လျှို့ဝှက်စကားလုံး မှားနေသည်">
 <!ENTITY sync.invalidserver.label "မှန်ကန်သောဆာဗာလိပ်စာ URL အားဖြည့်ပေးပါရန်။">
 <!ENTITY sync.verifying.label "စစ်ဆေးအတည်ပြုနေသည်။">
-
+<!ENTITY sync.new.recoverykey.status.incorrect "ပြန်လည်ရယူသော ကီးမှားနေသှ်။ ကျေးဇူးပြုပြီး ပြန်ကြိုးစားပါ။">
 <!-- Send tab to device. -->
 
+<!ENTITY sync.title.send.tab.label "တပ်ဗ်အား အခြားဖုန်းများသို့ ပို့">
+<!ENTITY sync.button.send.label "ပေးပို့">
 <!ENTITY sync.button.set.up.sync.label "&syncBrand.shortName.label; အားတပ်ဆင်တော့မည်။">
-
-
-
-
+<!ENTITY sync.title.redirect.to.set.up.sync.label "တပ်ဗ်တွေပို့ပေးရန် &syncBrand.shortName.label; အားတပ်ဆင်ပါ">
+<!ENTITY sync.text.redirect.to.set.up.sync.label "&syncBrand.fullName.label; အားသင်၏ဖုန်းပေါ်တွင် တပ်ဆင်ပြီး အခြား ဖုန်းများသို့တပ်ဗ်များပို့ပါ">
+<!ENTITY sync.text.tab.sent.label "တပ်ဗ်အားပို့ပြီး!">
+<!ENTITY sync.text.tab.not.sent.label "သင်၏ တပ်ဗ်အားပေးပို့ရာတွင် ပြသာနာတစ်ခုရှိ">
 <!-- Firefox Account strings. -->
 
 
