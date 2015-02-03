@@ -7,10 +7,10 @@
 <!ENTITY checkAutoDetect.label "Automatysk detektearre onlinetastân folgje">
 <!ENTITY checkAutoDetect.accesskey "A">
 <!ENTITY titleStartUp "Hânmjittige tastân by it opstarten:">
-<!ENTITY radioRememberPrevState.label "Foarige onlinesteat hantearje">
+<!ENTITY radioRememberPrevState.label "Foarige onlinetastân hantearje">
 <!ENTITY radioRememberPrevState.accesskey "h">
-<!ENTITY radioAskMe.label "My de onlinesteat freegje">
-<!ENTITY radioAskMe.accesskey "s">
+<!ENTITY radioAskState.label "My de onlinetastân freegje">
+<!ENTITY radioAskState.accesskey "M">
 <!ENTITY radioAlwaysOnline.label "Altyd online opstarte">
 <!ENTITY radioAlwaysOnline.accesskey "o">
 <!ENTITY radioAlwaysOffline.label "Altyd offline opstarte">
