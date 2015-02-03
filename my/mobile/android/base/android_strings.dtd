@@ -539,18 +539,24 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY guest_session_dialog_continue "ဆက်လုပ်ပါ">
 <!ENTITY guest_session_dialog_cancel "ပယ်​ဖျက်ပါ">
 <!ENTITY new_guest_session_title "&brandShortName; ပြန်စ တော့မည်ဖြစ်သှ်">
+<!ENTITY new_guest_session_text "၎င်းအားသုံးနေသော သူသည် သင်၏ တစ်ကိုယ်ရေသုံး အချက်အလက်များ ( စကားဝှက်များ၊ မှတ်တမ်း သို့ စာအမှတ်များ) အား မြင်ရမည်မဟုတ်ပါ။\n\nWhen သင့် ဧည့်သည်သုံးပြီးသွားပါက ၎င်းတို့၏ အချက်အလက်များ အလိုအလျောက် ဖျက်ပြီးသားဖြစ်မည်။">
+<!ENTITY guest_browsing_notification_title "ဧည့်သည်သုံး ပုံစံအားဖွင့်ပေးပါ">
+<!ENTITY guest_browsing_notification_text "ထွက်ရန်ထိပါ">
 
-
-
-
-
+<!ENTITY exit_guest_session_title "&brandShortName; ပြန်စတော့မည်ဖြစ်သှ်">
+<!ENTITY exit_guest_session_text "ယခုသုံးထားသော ဘယောက်ဆာအချက်အလက်များဖျက်ပြီး">
 <!-- Miscellaneous -->
 <!-- LOCALIZATION NOTE (ellipsis): This text is appended to a piece of text that does not fit in the
      designated space. Use the unicode ellipsis char, \u2026, or use "..." if \u2026 doesn't suit
      traditions in your locale. -->
 
+<!ENTITY ellipsis "...">
+
+<!ENTITY colon ":">
 <!-- These are only used for accessibility for the done and overflow-menu buttons in the actionbar.
      They are never shown to users -->
+
+<!ENTITY actionbar_menu "စာရင်း">
 <!ENTITY actionbar_done "ပြီးသွားပြီ">
 <!-- Localization note (remote_tabs_last_synced): the variable is replaced by a
      "relative time span string" produced by Android.  This string describes the
@@ -558,6 +564,10 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      include "42 minutes ago", "4 days ago", "last week", etc. The subject of
      "Last synced" is one of the user's other Sync clients, typically Firefox on
      their desktop or laptop.-->
+
+<!ENTITY remote_tabs_last_synced "နောက်ဆုံးချိတ်ခဲ့ချိန်- &formatS;">
 <!-- Find-In-Page strings -->
 <!-- LOCALIZATION NOTE (find_matchcase): This is meant to appear as an icon that changes color
      if match-case is activated. i.e. No more than two letters, one uppercase, one lowercase. -->
+
+<!ENTITY find_matchcase "Aa">
