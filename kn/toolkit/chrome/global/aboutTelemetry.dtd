@@ -8,6 +8,7 @@
 
 <!ENTITY aboutTelemetry.telemetryDisabled "  ಟೆಲಿಮೆಟ್ರಿಯನ್ನು <span>ನಿಷ್ಕ್ರಿಯಗೊಳಿಸಲಾಗಿದೆ</span>.">
 
+<!ENTITY aboutTelemetry.generalDataSection "  ಸಾಮಾನ್ಯ ದತ್ತಾಂಶ">
 
 <!ENTITY aboutTelemetry.slowSqlSection "  ನಿಧಾನವಾದ SQL ಹೇಳಿಕೆಗಳು">
 
@@ -17,6 +18,7 @@
 
 <!ENTITY aboutTelemetry.histogramsSection "  ಹಿಸ್ಟೊಗ್ರಾಮ್‌ಗಳು">
 
+<!ENTITY aboutTelemetry.keyedHistogramsSection "  ಟೈಪಿಸಿದ ಹಿಸ್ಟೋಗ್ರಾಮ್‌ಗಳು">
 
 <!ENTITY aboutTelemetry.simpleMeasurementsSection "  ಸರಳವಾದ ಅಳತೆಗಳು">
 
