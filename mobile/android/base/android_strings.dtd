@@ -173,10 +173,8 @@
 <!ENTITY pref_cookies_not_accept_foreign "Aktif, kecuali pihak ketiga">
 <!ENTITY pref_cookies_disabled "Mati">
 
-<!ENTITY pref_donottrack_menu "Pelacakan">
-<!ENTITY pref_donottrack_disallow_tracking "Beri tahu situs bahwa saya tidak ingin dilacak">
-<!ENTITY pref_donottrack_allow_tracking "Beri tahu situs bahwa saya ingin dilacak">
-<!ENTITY pref_donottrack_no_pref "Jangan beri tahu situs tentang preferensi pelacakan saya">
+<!ENTITY pref_donottrack_title "Jangan lacak">
+<!ENTITY pref_donottrack_summary "&brandShortName; akan memberi tahu situs bahwa Anda tidak ingin dilacak">
 
 <!ENTITY pref_char_encoding "Pengodean karakter">
 <!ENTITY pref_char_encoding_on "Tampilkan menu">
@@ -211,6 +209,9 @@ size. -->
 <!-- Localization note (pref_font_size_preview_text): This paragraph is used as an example to
     demonstrate the font size setting.  It is meant to be whimsical and fun. -->
 <!ENTITY pref_font_size_preview_text "Si rubah jingga nan tangkas berlari secepat kilat, lebih cepat, lebih lentur, dan lebih aman dari yang disangka. Sebagai nirlaba, kami bebas berinovasi untuk Anda tanpa tekanan dari pihak mana saja. Yang artinya, pengalaman lebih baik untuk Anda, serta masa depan yang lebih cerah untuk dunia Web kita semua.">
+
+<!ENTITY pref_media_autoplay_enabled "Izinkan putar otomatis">
+<!ENTITY pref_media_autoplay_enabled_summary "Kendalikan apakah situs web dapat memutar video dan konten media lainnya secara otomatis">
 
 <!ENTITY pref_use_master_password "Gunakan sandi utama">
 <!ENTITY pref_sync "Sinkronkan">
@@ -362,8 +363,12 @@ size. -->
 <!ENTITY site_settings_no_settings  "Tidak ada setelan untuk dihapus.">
 
 <!ENTITY reading_list_added "Halaman ditambahkan ke Daftar Bacaan">
-<!ENTITY reading_list_failed "Gagal menambahkan halaman ke Daftar Bacaan">
 <!ENTITY reading_list_duplicate "Halaman telah ada di Daftar Bacaan">
+<!-- Localization note (reading_list_time_minutes2) : This string is used in the "Reading List"
+     panel on the home page to give the user an estimate of how many minutes it will take to
+     read an article. The word "minute" should be abbreviated if possible. -->
+<!ENTITY reading_list_time_minutes2 "&formatD; mnt">
+<!ENTITY reading_list_time_over_an_hour "Lebih dari sejam">
 
 <!-- Localization note : These strings are used as alternate text for accessibility.
      They are not visible in the UI. -->
@@ -387,6 +392,9 @@ size. -->
      text underneath empty thumbnails in the Top Sites page on about:home. -->
 <!ENTITY home_top_sites_add "Tambahkan situs">
 
+<!-- Localization note (home_title): This string should be kept in sync
+     with the page title defined in aboutHome.dtd -->
+<!ENTITY home_title "Beranda &brandShortName;">
 <!ENTITY home_history_title "Riwayat">
 <!ENTITY home_clear_history_button "Bersihkan riwayat penjelajahan">
 <!ENTITY home_clear_history_confirm "Yakin ingin membersihkan riwayat penjelajahan?">
@@ -396,6 +404,9 @@ size. -->
 <!ENTITY home_last_tabs_empty "Tab terakhir yang dibuka akan tampil di sini.">
 <!ENTITY home_open_all "Buka semua">
 <!ENTITY home_most_recent_empty "Situs web yang dibuka terakhir akan tampil di sini.">
+<!-- Localization note (home_most_recent_emptyhint2): "Psst" is a sound that might be used to attract someone's attention unobtrusively, and intended to hint at Private Browsing to the user.
+     The placeholders &formatS1; and &formatS2; are used to mark the location of text underlining. -->
+<!ENTITY home_most_recent_emptyhint2 "Ssst: coba gunakan &formatS1;Tab Pribadi Baru&formatS2; agar riwayat penjelajahan tidak disimpan.">
 <!ENTITY home_reading_list_empty "Artikel yang disimpan untuk dibaca lain waktu akan tampil di sini.">
 <!-- Localization note (home_reading_list_hint): The "TIP" string is synonymous to "hint", "clue", etc. This string is displayed
      as an advisory message on how to add content to the reading list when the reading list empty.
@@ -462,11 +473,20 @@ substitution variables.  If it is difficult to translate the sense of the string
 with that structure, consider a translation which ignores the preceding domain and
 just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_run_by "yang dijalankan oleh">
+<!ENTITY identity_no_info "Situs web ini tidak menyediakan informasi identitas.">
+<!ENTITY identity_not_encrypted "Sambungan Anda ke situs web ini tidak dienkripsi.">
 
 <!-- Mixed content notifications in site identity popup -->
 <!ENTITY loaded_mixed_content_message "Halaman ini menampilkan konten yang tidak aman.">
 <!ENTITY blocked_mixed_content_message_top "&brandShortName; telah memblokir konten yang tidak aman.">
 <!ENTITY blocked_mixed_content_message_bottom "Banyak situs web yang masih dapat bekerja dengan baik walau konten semacam ini diblokir.">
+
+<!-- Tracking content notifications in site identity popup -->
+<!ENTITY loaded_tracking_content_message_top "Perlindungan pelacakan nonaktif.">
+<!ENTITY loaded_tracking_content_message_bottom "Beberapa bagian laman ini mungkin melacak aktivitas daring Anda.">
+<!ENTITY blocked_tracking_content_message_top2 "Perlindungan pelacakan aktif.">
+<!ENTITY blocked_tracking_content_message_bottom2 "Beberapa bagian laman yang melacak aktivitas daring Anda telah diblokir.">
+
 <!ENTITY learn_more "Pelajari Lebih Lanjut">
 <!ENTITY enable_protection "Aktifkan perlindungan">
 <!ENTITY disable_protection "Nonaktifkan perlindungan">
@@ -493,8 +513,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY webapp_generic_name "Aplikasi">
 
 <!ENTITY searchable_description "Markah dan riwayat">
-
-<!ENTITY devtools_remote_debugging_forward "Jangan lupa untuk menyiapkan penerusan port!">
 
  <!-- Updater notifications -->
 <!ENTITY updater_start_title2 "Versi terbaru tersedia untuk &brandShortName;">
@@ -547,3 +565,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      "Last synced" is one of the user's other Sync clients, typically Firefox on
      their desktop or laptop.-->
 <!ENTITY remote_tabs_last_synced "Terakhir disinkronkan: &formatS;">
+
+<!-- Find-In-Page strings -->
+<!-- LOCALIZATION NOTE (find_matchcase): This is meant to appear as an icon that changes color
+     if match-case is activated. i.e. No more than two letters, one uppercase, one lowercase. -->
+<!ENTITY find_matchcase "Aa">

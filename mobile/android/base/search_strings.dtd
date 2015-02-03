@@ -8,7 +8,7 @@
       the currently selected search engine. -->
 <!ENTITY search_bar_hint 'Cari lewat &formatS;'>
 
-<!ENTITY search_empty_title 'Pencarian &brandShortName;'>
+<!ENTITY search_empty_title2 'Mulai mencari'>
 <!ENTITY search_empty_message 'Cari apa saja dengan cepat'>
 
 <!--  Localization note (search_plus_content_description): This is the content description

@@ -160,6 +160,7 @@
 <!-- Localization note: &formatS; is the Firefox account's email address. -->
 <!ENTITY fxaccount_confirm_account_verification_link 'Tautan verifikasi telah dikirim ke &formatS;'>
 <!ENTITY fxaccount_confirm_account_resend_email 'Kirim ulang emailnya'>
+<!ENTITY fxaccount_confirm_account_change_email 'Lupa alamat email ini?'>
 <!ENTITY fxaccount_confirm_account_verification_link_sent2 'Email verifikasi dikirim'>
 <!ENTITY fxaccount_confirm_account_verification_link_not_sent2 'Tidak dapat mengirim email verifikasi'>
 
@@ -179,6 +180,8 @@
 <!ENTITY fxaccount_status_header2 'Akun Firefox'>
 <!ENTITY fxaccount_status_signed_in_as 'Masuk sebagai'>
 <!ENTITY fxaccount_status_auth_server 'Server akun'>
+<!ENTITY fxaccount_status_sync_now 'Sinkronkan sekarang'>
+<!ENTITY fxaccount_status_syncing2 'Menyinkronkan…'>
 <!ENTITY fxaccount_status_device_name 'Nama perangkat'>
 <!ENTITY fxaccount_status_sync_server 'Server Sync'>
 <!ENTITY fxaccount_status_sync '&syncBrand.shortName.label;'>
