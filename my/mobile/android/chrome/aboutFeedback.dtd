@@ -5,10 +5,13 @@
      fun and playful. Please feel free to adjust the tone as works best in
      your language and/or locale. More detailed notes below. -->
 
+
+<!ENTITY pageTitle                 "&brandShortName; အကြံပေးချက်">
+
 <!ENTITY intro.header              "တစ်မိနစ် အချိန်ပေးပါ?">
-
+<!ENTITY intro.message             "ကျွန်ုပ်တို့အား Android အတွက် &brandShortName; အပေါ်အထင်အမြင်ပြောပြပါ">
 <!ENTITY intro.happyLink           "သဘောကျတယ်">
-
+<!ENTITY intro.sadLink             "အချို့ပြသာနာများတွေ့ရှိရသည်">
 <!ENTITY intro.maybeLater          "နောက်တော့မှ">
 <!-- LOCALIZATION NOTE (support.pre): Include a trailing space as needed. -->
 <!-- LOCALIZATION NOTE (support.link): Avoid leading/trailing spaces, this text is a link. -->
@@ -30,7 +33,7 @@
 <!ENTITY sad.placeholder           "သင်၏ ထင်မြင်ချက် ဤနေရာတွင် ရိုက်ထည့်ပါ">
 
 <!-- LOCALIZATION NOTE (sad.urlPlaceholder): Placeholder text that appears in "Last visited site" input box when there is no text. -->
-
+<!ENTITY sad.thanksHeader2         "ကျေးဇူးတင်ပါတယ်">
 <!-- LOCALIZATION NOTE (sad.thanksMessageTop): "real people" — We're stating that an actual human will look at the feedback
      and that it doesn't just go to some automated system that looks for keywords, or something like that. -->
 <!-- LOCALIZATION NOTE (sad.thanksMessageBottom): We're suggesting that there will be consequences for the people working
