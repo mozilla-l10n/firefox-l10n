@@ -22,7 +22,7 @@
 
 <!ENTITY window.title                 "Scratchpad">
 
-<!ENTITY fileMenu.label               "ගොනුව (F)">
+<!ENTITY fileMenu.label               "ගොනුව">
 <!ENTITY fileMenu.accesskey           "F">
 
 <!ENTITY newWindowCmd.label           "නව කවුළුවක්">

@@ -31,7 +31,7 @@
 <!-- LOCALIZATION NOTE (profilerUI.importButton): This string is displayed
   -  on a button that opens a dialog to import a saved profile data file. -->
 
-<!ENTITY profilerUI.importButton "ආයාත…">
+<!ENTITY profilerUI.importButton "ආයාත කරන්න…">
 <!-- LOCALIZATION NOTE (profilerUI.exportButton): This string is displayed
   -  on a button that opens a dialog to export a saved profile data file. -->
 

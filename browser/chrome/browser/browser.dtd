@@ -49,7 +49,7 @@ can reach it easily. -->
 <!ENTITY  bookmarkAllTabs.accesskey          "T">
 <!ENTITY  undoCloseTab.label                 "ටැබ් වැසීම අහෝසි කරන්න (U)">
 <!ENTITY  undoCloseTab.accesskey             "U">
-<!ENTITY  closeTab.label                     "ටැබය වසන්න (C)">
+<!ENTITY  closeTab.label                     "ටැබය වසන්න">
 <!ENTITY  closeTab.accesskey                 "C">
 
 <!ENTITY  listAllTabs.label      "සියළු ටැබ් ලැයිස්තුගත කරන්න">
@@ -101,7 +101,7 @@ when there are no windows but Firefox is still running. -->
 These should match what Safari and other Apple applications use on OS X Lion. -->
 <!ENTITY enterFullScreenCmd.label "Enter Full Screen">
 <!ENTITY enterFullScreenCmd.accesskey "F">
-<!ENTITY exitFullScreenCmd.label "පූර්ණ තිරයෙන් ඉවත්වන්න (F)">
+<!ENTITY exitFullScreenCmd.label "පූර්ණ තිරයෙන් ඉවත්වන්න">
 <!ENTITY exitFullScreenCmd.accesskey "F">
 <!ENTITY fullScreenCmd.label "පූර්ණ තිරය">
 <!ENTITY fullScreenCmd.accesskey "F">
@@ -811,8 +811,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      Please ensure that this remains the case in the translation. -->
 
 <!ENTITY panicButton.view.mainTimeframeDesc       "අමතක කරන්න පසුගිය:">
-<!ENTITY panicButton.view.5min                    "විනාඩි පහ">
-<!ENTITY panicButton.view.2hr                     "පැය දෙක">
+<!ENTITY panicButton.view.5min                    "විනාඩි පහක්">
+<!ENTITY panicButton.view.2hr                     "පැය දෙකක්">
 <!ENTITY panicButton.view.day                     "පැය 24">
 <!-- LOCALIZATION NOTE: (panicButton.view.mainLabel, panicButton.view.deleteCookies, panicButton.view.deleteHistory, panicButton.view.deleteTabsAndWindows, panicButton.view.openNewWindow):
      The .mainActionDesc string combined with any of the 4 others is meant to form a complete sentence, e.g. "Proceeding will: Delete Recent Cookies".
