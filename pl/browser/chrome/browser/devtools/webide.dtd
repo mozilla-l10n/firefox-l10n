@@ -22,7 +22,7 @@
 <!ENTITY projectMenu_debug_accesskey "D">
 <!ENTITY projectMenu_remove_label "Usuń projekt">
 <!ENTITY projectMenu_remove_accesskey "U">
-<!ENTITY projectMenu_showPrefs_label "Ustawienia">
+<!ENTITY projectMenu_showPrefs_label "Ustawienia urządzenia">
 <!ENTITY projectMenu_showPrefs_accesskey "a">
 <!ENTITY projectMenu_manageComponents_label "Zarządzaj dodatkowymi komponentami">
 <!ENTITY projectMenu_manageComponents_accesskey "k">
@@ -41,6 +41,8 @@
 <!ENTITY runtimeMenu_showMonitor_accesskey "M">
 <!ENTITY runtimeMenu_showDevicePrefs_label "Ustawienia urządzenia">
 <!ENTITY runtimeMenu_showDevicePrefs_accesskey "U">
+<!ENTITY runtimeMenu_showSettings_label "Ustawienia urządzenia">
+<!ENTITY runtimeMenu_showSettings_accesskey "a">
 
 <!ENTITY viewMenu_label "Widok">
 <!ENTITY viewMenu_accesskey "W">
