@@ -172,8 +172,8 @@
 <!ENTITY pref_cookies_not_accept_foreign "Ynskeakele, útsein fan tredden">
 <!ENTITY pref_cookies_disabled "Utskeakele">
 
-<!ENTITY pref_donottrack_title "Folchbeskerming">
-<!ENTITY pref_donottrack_summary "&brandShortName; sil opkeare dat websites jo folgje">
+<!ENTITY pref_tracking_protection_title "Folchbeskerming">
+<!ENTITY pref_tracking_protection_summary "&brandShortName; sil opkeare dat websites jo folgje">
 <!ENTITY pref_donottrack_title "Net folgje">
 <!ENTITY pref_donottrack_summary "&brandShortName; sil websites witte litte dat jo net folge wurde wol">
 
@@ -270,7 +270,6 @@ size. -->
 <!ENTITY datareporting_crashreporter_title_short "Crashreporter">
 <!ENTITY datareporting_wifi_title2 "&vendorShortName;-lokaasjetsjinst">
 <!ENTITY datareporting_wifi_geolocation_summary2 "Dielt globale wifi en gsm-stjoermastlokaasjes fan jo apparaat mei &vendorShortName; om ús geolokaasjtsjinst te ferbetterjen">
-
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
      actual notification that an update is available. -->
