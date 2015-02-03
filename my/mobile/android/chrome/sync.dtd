@@ -14,15 +14,15 @@
 
 
 
+<!ENTITY sync.account               "အကောင့်အမည်">
 
 
 
-
-
+<!ENTITY sync.serverURL             "ဆာဗာ URL">
 
 <!ENTITY sync.setup.cancel          "ပယ်​ဖျက်ပါ">
 
-
+<!ENTITY sync.setup.waiting2        "အခြား ဖုန်းများအား စောင့်နေသှ်...">
 
 <!ENTITY sync.pair.title            "ပစ္စည်းတစ်ခုဖြင့်တွဲမည်။">
 
