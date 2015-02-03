@@ -567,10 +567,6 @@
 <!ENTITY pluginActivateAlways.label "Consenti sempre">
 <!ENTITY pluginBlockNow.label "Blocca plugin">
 <!ENTITY pluginNotification.width "28em">
-<!ENTITY tabCrashed.header "La scheda si è chiusa">
-<!ENTITY tabCrashed.message "Oops, questo è imbarazzante. Non è stato possibile visualizzare la pagina web perché il sito non risponde.">
-<!ENTITY tabCrashed.checkSendReport "Segnala questo blocco a &vendorShortName; in modo che il problema possa essere risolto.">
-<!ENTITY tabCrashed.tryAgain "Riprova">
 <!ENTITY uiTour.infoPanel.close "Chiudi">
 <!ENTITY appMenuSidebars.label "Barre laterali">
 <!ENTITY switchToMetroCmd2.label "Riavvia &brandShortName; in modalità Windows 8 Touch">
