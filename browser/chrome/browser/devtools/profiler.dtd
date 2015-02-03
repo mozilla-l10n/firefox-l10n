@@ -46,8 +46,8 @@
 <!ENTITY profilerUI.table.totalDuration   "ಒಟ್ಟು ಸಮಯ (ms) ">
 <!ENTITY profilerUI.table.selfDuration    "ಸ್ವಂತ ಸಮಯ (ms)">
 <!ENTITY profilerUI.table.totalPercentage "ಒಟ್ಟು ವೆಚ್ಚ">
-
-<!ENTITY profilerUI.table.samples         "ನಮೂನೆಗಳು">
+<!ENTITY profilerUI.table.selfPercentage  "ಸ್ವಂತ ವೆಚ್ಚ">
+<!ENTITY profilerUI.table.samples         "ಮಾದರಿಗಳು">
 <!ENTITY profilerUI.table.function        "ಕಾರ್ಯಭಾರ">
 <!-- LOCALIZATION NOTE (profilerUI.newtab.tooltiptext): The tooltiptext shown
   -  on the "+" (new tab) button for a profile when a selection is available. -->
