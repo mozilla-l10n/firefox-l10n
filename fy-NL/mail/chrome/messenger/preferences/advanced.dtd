@@ -1,4 +1,4 @@
-<!-- This Source Code Form is subject to the terms of the Mozilla Public
+﻿<!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
@@ -15,12 +15,14 @@
 <!ENTITY telemetryInfoLink.label       		"Mear ynformaasje oer Telemetry">
 <!ENTITY enableGlodaSearch.label            "Globaal sykje en yndeksearder ynskeakelje">
 <!ENTITY enableGlodaSearch.accesskey        "y">
+<!ENTITY allowHWAccel.label            		"Hardwarefersnelling brûke wannear beskikber">
+<!ENTITY allowHWAccel.accesskey        		"f">
 
-<!ENTITY scrolling.label               "Skowe">
-<!ENTITY useAutoScroll.label           "Automatysk skowe brûke">
-<!ENTITY useAutoScroll.accesskey       "m">
-<!ENTITY useSmoothScrolling.label      "Floeiend skowe brûke">
-<!ENTITY useSmoothScrolling.accesskey  "e">
+<!ENTITY scrolling.label               		"Skowe">
+<!ENTITY useAutoScroll.label           		"Automatysk skowe brûke">
+<!ENTITY useAutoScroll.accesskey       		"m">
+<!ENTITY useSmoothScrolling.label      		"Floeiend skowe brûke">
+<!ENTITY useSmoothScrolling.accesskey  		"e">
 
 <!ENTITY systemIntegration.label			"Systeemyntegraasje">
 <!ENTITY alwaysCheckDefault.label          	"By it opstarten altyd neigean oft &brandShortName; de standert e-mailclient is">
