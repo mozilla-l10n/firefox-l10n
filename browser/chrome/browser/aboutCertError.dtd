@@ -22,8 +22,8 @@ was trying to connect. -->
 केल्यावर होते. तरी, या स्थळाची ओळख तपासले जाऊ शकत नाही.">
 
 <!ENTITY certerror.whatShouldIDo.heading "मी काय करू शकतो?">
-<!ENTITY certerror.whatShouldIDo.content "सहसा या स्थळाशी 
-अडचणी विना जुळवणी स्थापित केल्यास, या त्रुटीचा असा अर्थ होतो की कुणितरी हे स्थळ सदोषीत 
+<!ENTITY certerror.whatShouldIDo.content "जर सहसा आपण या स्थळाशी 
+अडचणी विना जुळवणी स्थापित करत असाल तर, या त्रुटीचा असा अर्थ होतो की कुणितरी हे स्थळ सदोषीत 
 करण्याचा प्रयत्न करीत आहे, व आपण पुढे जाऊ नये.">
 <!ENTITY certerror.whatShouldIDo.badStsCertExplanation "ही साईट HTTP वापरते 
 कठोर वाहतूक सुरक्षा (HSTS) असे निर्देशित करते की फक्त &brandShortName;
