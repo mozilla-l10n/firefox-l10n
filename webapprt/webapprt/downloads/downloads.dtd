@@ -11,14 +11,16 @@ file names and tall enough to hint that there are more downloads in the list -->
 <!ENTITY starting.label                   "ಆರಂಭಿಸಲಾಗುತ್ತಿದೆ…">
 <!ENTITY scanning.label                   "ವೈರಸ್‌ಗಳಿಗಾಗಿ ಹುಡುಕಲಾಗುತ್ತಿದೆ…">
 
+<!ENTITY downloads.title                  "ಡೌನ್‌ಲೋಡ್‌ಗಳು">
 
-
-
-
+<!ENTITY cmd.pause.label                  "Pause">
+<!ENTITY cmd.pause.accesskey              "P">
+<!ENTITY cmd.resume.label                 "Resume">
+<!ENTITY cmd.resume.accesskey             "R">
 <!ENTITY cmd.cancel.label                 "ರದ್ದುಗೊಳಿಸು">
 <!ENTITY cmd.cancel.accesskey             "C">
-
-
+<!ENTITY cmd.show.label                   "Folder ಹೊಂದಿರುವ ತೆರೆ ">
+<!ENTITY cmd.show.accesskey               "F">
 <!ENTITY cmd.showMac.label                "ಹುಡುಕು ಸಾಧನದಲ್ಲಿ ತೋರಿಸು">
 <!ENTITY cmd.showMac.accesskey            "F">
 <!ENTITY cmd.open.label                   "ತೆರೆ">
@@ -29,8 +31,8 @@ file names and tall enough to hint that there are more downloads in the list -->
 <!ENTITY cmd.retry.accesskey              "R">
 <!ENTITY cmd.goToDownloadPage.label       "ಡೌನ್‌ಲೋಡ್‌ ಪುಟಕ್ಕೆ ತೆರಳು">
 <!ENTITY cmd.goToDownloadPage.accesskey   "G">
-
-
+<!ENTITY cmd.copyDownloadLink.label       "ಡೌನ್‌ಲೋಡ್ Link ನಕಲಿಸು">
+<!ENTITY cmd.copyDownloadLink.accesskey   "L">
 <!ENTITY cmd.removeFromList.label         "ಪಟ್ಟಿಯಿಂದ ತೆಗೆದು ಹಾಕು">
 <!ENTITY cmd.removeFromList.accesskey     "e">
 
