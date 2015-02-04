@@ -4,9 +4,10 @@
 
 <!ENTITY privatebrowsingpage.title                  "လုံခြုံစွာဝတ်ဆိုက်ကြည့်ရှူခြင်း">
 
-
+<!ENTITY privatebrowsingpage.issueDesc.private      "တစ်ကိုယ်ရေသုံး တပ်ဗ်တစ်ခုဖွင့်လိုက်သှ်">
+<!ENTITY privatebrowsingpage.issueDesc.normal       "သင်ယခု တစ်ကိုယ်ရေသုံးပုံစံထဲတွင် ဖြစ်သှ်">
 
 <!ENTITY privatebrowsingpage.description            "သီးသန့် လှော်လှန်ခြင်း အခန်းကဏ္ဍ တခုမှာ၊ &brandShortName; က ဘယ် လှော်လှန်ခြင်း မှတ်တမ်း၊ ရှာဖွေရေး မှတ်တမ်း၊ ဆွဲချ မှတ်တမ်း၊ ကွန်ရက် ဖြည့်စွတ်ပုံစံ မှတ်တမ်း၊ ကွတ်ကီးများ သို့ ခေတ္တ အင်တာနက် ဖိုင်များကိုမျှ သိမ်းထားမှာ မဟုတ်ဘူး။ ဒါပေမဲ့၊ သင် ဆွဲချ​တဲ့ ဖိုင်များနဲ့ မှတ်သားချက်များကို သိမ်းထားလိမ့်မယ်။">
-
+<!ENTITY privatebrowsingpage.description.private    "&privatebrowsingpage.issueDesc.private; &privatebrowsingpage.description;">
 
 <!ENTITY privatebrowsingpage.moreInfo               "ဒီကွန်ပြူတာမှာ သင့်ရဲ့ လှော်​လှန်ကြည့်ခြင်း မှတ်တမ်းကို မှတ်သား မထားပေမဲ့၊ သင့်ရဲ့ အင်တာနက် ဝန်ဆောင်မှု ပေးသူ သို့မဟုတ် လုပ်ငန်းရှင်က သင်ကြည့်ရှုတဲ့ စာမျက်နှာများကို ခြေရာခံနိုင်သေးတယ်။">
