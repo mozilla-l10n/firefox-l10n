@@ -172,6 +172,7 @@
 <!ENTITY pref_cookies_not_accept_foreign "Virkar fyrir utan þriðja aðila">
 <!ENTITY pref_cookies_disabled "Óvirkar">
 
+<!ENTITY pref_tracking_protection_title " Ekki fylgjast með mér vernd">
 <!ENTITY pref_tracking_protection_summary "&brandShortName; mun koma í veg fyrir að svæði geti fylgst með þér">
 <!ENTITY pref_donottrack_title "Ekki leyfa að fylgjast með">
 <!ENTITY pref_donottrack_summary "&brandShortName; mun láta vefsvæði vita að þú vilt ekki láta fylgjast með þér">
