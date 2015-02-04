@@ -24,6 +24,8 @@
 <!ENTITY contextBeforeCls.label "Se filtrează înainte de clasificarea ca mesaj spam">
 <!ENTITY contextAfterCls.label "Se filtrează după clasificarea ca mesaj spam">
 
+
+
 <!ENTITY filterActionDesc.label "Efectuează următoarele acțiuni:">
 <!ENTITY filterActionDesc.accesskey "E">
 

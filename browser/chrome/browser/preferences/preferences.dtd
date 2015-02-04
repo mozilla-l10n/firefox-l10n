@@ -24,7 +24,5 @@
 <!-- LOCALIZATION NOTE (paneSync.title): This should match syncBrand.shortName.label in ../syncBrand.dtd -->
 
 <!ENTITY  paneSync.title          "Sincronizare">
-<!ENTITY  buttonForward.tooltip   "Mergi cu o pagină înainte">
-<!ENTITY  buttonBack.tooltip      "Mergi cu o pagină înapoi">
 
 <!ENTITY  helpButton.label        "Ajutor">
