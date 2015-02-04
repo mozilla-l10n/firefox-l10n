@@ -6,8 +6,11 @@
 <!ENTITY  window.width                    "38em">
 <!ENTITY  window.macWidth                 "41em">
 
-<!ENTITY  allowPagesToUse.label           "Permite conținutului să aleagă propriile sale culori, în loc de selecțiile mele de mai sus">
-<!ENTITY  allowPagesToUse.accesskey       "P">
+
+
+<!ENTITY  overridePageColors.always.label "Întotdeauna">
+
+<!ENTITY  overridePageColors.never.label  "Niciodată">
 
 <!ENTITY  color                           "Text și fundal">
 <!ENTITY  textColor.label                 "Text:">

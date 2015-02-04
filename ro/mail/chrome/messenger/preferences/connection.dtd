@@ -3,7 +3,6 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY  connectionsDialog.title       "Setări pentru conexiune">
-<!ENTITY  window.width                   "40em">
 
 <!ENTITY  proxyTitle.label              "Configurare de servere proxy pentru acces la internet">
 <!ENTITY  noProxyTypeRadio.label        "Fără proxy">

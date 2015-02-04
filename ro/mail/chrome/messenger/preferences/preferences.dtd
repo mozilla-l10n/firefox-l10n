@@ -4,6 +4,7 @@
 
 <!ENTITY  prefWindow.titleWin     "Opțiuni">
 <!ENTITY  prefWindow.titleGNOME   "Preferințe &brandShortName;">
+<!ENTITY  prefWindow.titleMAC     "Preferințe">
 <!ENTITY  prefWindow.styleWindows "width: 53em; min-height: 38.5em;">
 
 <!ENTITY  prefWindow.styleGNOME   "width: 51em; min-height: 38em;">

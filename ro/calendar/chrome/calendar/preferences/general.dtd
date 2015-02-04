@@ -13,6 +13,10 @@
 <!ENTITY pref.dateformat.long "Lung" >
 <!ENTITY pref.dateformat.short "Scurt"  >
 
+<!ENTITY pref.timezones.caption "Fus orar">
+
+
+
 <!ENTITY pref.defaults.label "Valori implicite pentru elementele noi">
 <!ENTITY pref.events.label "Evenimente">
 <!ENTITY pref.tasks.label "Sarcini">

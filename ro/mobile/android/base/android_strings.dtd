@@ -167,6 +167,7 @@
 <!ENTITY pref_cookies_not_accept_foreign "Activat, excluzând terții">
 <!ENTITY pref_cookies_disabled "Dezactivată">
 
+
 <!ENTITY pref_donottrack_title "Nu înregistra acțiunile utilizatorilor">
 <!ENTITY pref_donottrack_summary "&brandShortName; va spune siteurilor că nu dorești ca ei să înregistreze acțiunile tale pe paginile lor">
 
@@ -406,6 +407,7 @@ size. -->
 
 
 
+
 <!-- Localization note (home_remote_tabs_many_hidden_devices) : The
      formatD is replaced with the number of hidden devices.  The
      number of hidden devices is always more than one.  We can't use
@@ -491,9 +493,6 @@ din Android">
 
 <!ENTITY updater_apply_title2 "Actualizare disponibilă pentru &brandShortName;">
 <!ENTITY updater_apply_select2 "Apăsați pentru actualizare">
-<!-- New tablet UI -->
-<!-- LOCALIZATION NOTE (new_tablet_restart): Notification displayed after the user toggles the new tablet UI in the settings screen.-->
-
 <!-- Guest mode -->
 
 <!ENTITY new_guest_session "Sesiune vizitator nouă">

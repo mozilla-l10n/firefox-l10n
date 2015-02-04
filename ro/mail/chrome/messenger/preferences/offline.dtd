@@ -4,13 +4,16 @@
 
 <!ENTITY offlineDialog.title "Setări pentru lucrul offline">
 
-<!ENTITY textStartUp "La pornire:">
+
+
 <!ENTITY radioRememberPrevState.label "Memorează starea online precedentă">
 <!ENTITY radioRememberPrevState.accesskey "r">
-<!ENTITY radioAskMe.label "Întreabă-mă despre starea online la pornire">
-<!ENTITY radioAskMe.accesskey "n">
-<!ENTITY radioAlwaysOnline.label "Pornește întotdeauna online">
-<!ENTITY radioAlwaysOnline.accesskey "l">
+
+
+
+
+
+
 
 <!ENTITY textGoingOnline "Doriți să se expedieze mesajele netrimise când lucrați online?">
 <!ENTITY radioAutoSend.label "Da">
