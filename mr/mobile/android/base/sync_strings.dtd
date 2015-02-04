@@ -172,7 +172,7 @@
 <!ENTITY fxaccount_confirm_account_verification_link_not_sent2 "तपासणी इमेल पाठवु नाही शकले">
 <!ENTITY fxaccount_resend_unlock_code_button_label "अनलॉक इमेल परत पाठवा">
 <!ENTITY fxaccount_unlock_code_sent "खाता अनलॉक इमेल पाठवला">
-
+<!ENTITY fxaccount_unlock_code_not_sent "खाते अनलाॅक ईमेल पाठवू शकले नाही">
 
 <!ENTITY fxaccount_sign_in_sub_header "साइन इन">
 <!ENTITY fxaccount_sign_in_button_label "साइन इन">
@@ -191,24 +191,24 @@
 
 <!ENTITY fxaccount_finish_migrating_header "अद्ययावत संपवण्यासाठी साइन इन करा">
 <!ENTITY fxaccount_finish_migrating_button_label "अद्ययावत संपवा">
-
+<!ENTITY fxaccount_finish_migrating_description "अद्ययावत करताना खूप डेटा वापरला जाऊ शकतो म्हणून WiFi नेटवर्क वर असने उत्कृष्ठ ठरेल.">
 
 <!ENTITY fxaccount_status_header2 "Firefox खातं">
 <!ENTITY fxaccount_status_signed_in_as "असे प्रवेश केले">
 <!ENTITY fxaccount_status_auth_server "खाते सर्वर">
 <!ENTITY fxaccount_status_sync_now "लगेच ताळमेळ करा">
-
-
-
+<!ENTITY fxaccount_status_syncing2 "ताळमेळ करीत आहोत…">
+<!ENTITY fxaccount_status_device_name "उपकरणाचे नाव">
+<!ENTITY fxaccount_status_sync_server "ताळमेळ सर्व्हर">
 <!ENTITY fxaccount_status_sync "&syncBrand.shortName.label;">
 <!ENTITY fxaccount_status_sync_enabled "&syncBrand.shortName.label;: सक्रीय">
 <!ENTITY fxaccount_status_needs_verification2 "तुमचे खाते प्रमाणित करण्याची गरज आहे. तपासणी इमेल परत पाठवण्यासाठी थाप मारा.">
 <!ENTITY fxaccount_status_needs_credentials "जोडले नाही गेले. साइन इनसाठी थाप मारा.">
 <!ENTITY fxaccount_status_needs_upgrade "साइन इनसाठी तुम्हाला &brandShortName; अद्ययावत करण्याची गरज आहे.">
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled "&syncBrand.shortName.label; मांडले गेले, पण आपोआप ताळमेळ होत नाही आहे. Android सेटिंगमध्ये “माहितीचे आपोआप ताळमेळ” &gt; माहिती वापर टॉगल करा.">
-
+<!ENTITY fxaccount_status_needs_master_sync_automatically_enabled_v21 "&syncBrand.shortName.label; सेट अप झाले, पण आपोआप ताळमेळ होत नाहीये. Android Settings &gt; Accounts मध्ये “Auto-sync data” चालू करा.">
 <!ENTITY fxaccount_status_needs_account_enabled "&syncBrand.shortName.label; मांडले गेले, पण आपोआप ताळमेळ होत नाही आहे. ताळमेळ सुरु करण्यासाठी टिचकी द्या.">
-
+<!ENTITY fxaccount_status_needs_finish_migrating "आपल्या नवीन Firefox खात्यात साइन इन करण्यासाठी टॅप करा.">
 <!ENTITY fxaccount_status_bookmarks "वाचनखूणा">
 <!ENTITY fxaccount_status_history "इतिहास">
 <!ENTITY fxaccount_status_passwords "पासवर्डस्">
@@ -256,7 +256,7 @@
 <!ENTITY fxaccount_remote_error_SERVICE_TEMPORARILY_UNAVAILABLE_TO_DUE_HIGH_LOAD "सर्वर व्यस्त, लवकरच पुन:प्रयत्न करा">
 <!ENTITY fxaccount_remote_error_UNKNOWN_ERROR "एक अडचण होती">
 <!ENTITY fxaccount_remote_error_COULD_NOT_CONNECT "नेटवर्कशी जोडू शकत नाही">
-
+<!ENTITY fxaccount_remote_error_ACCOUNT_LOCKED "खाते लाॅक आहे. &formatS1;">
 
 <!ENTITY fxaccount_sync_sign_in_error_notification_title2 "&syncBrand.shortName.label; जोडलेले नाही">
 <!-- Localization note: the format string below will be replaced
