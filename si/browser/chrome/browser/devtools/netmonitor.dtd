@@ -126,7 +126,7 @@
 <!-- LOCALIZATION NOTE (debuggerUI.summary.size): This is the label displayed
   -  in the network details headers tab identifying the headers size. -->
 
-<!ENTITY netmonitorUI.summary.size        "ශීර්ෂයන්ගේ ප්‍රමාණය:">
+<!ENTITY netmonitorUI.summary.size        "ශීර්ෂකයේ ප්‍රමාණය:">
 <!-- LOCALIZATION NOTE (debuggerUI.response.name): This is the label displayed
   -  in the network details response tab identifying an image's file name. -->
 <!-- LOCALIZATION NOTE (debuggerUI.response.dimensions): This is the label displayed
@@ -235,7 +235,7 @@
 <!-- LOCALIZATION NOTE (debuggerUI.custom.newRequest): This is the label displayed
   -  as the title of the new custom request form -->
 
-<!ENTITY netmonitorUI.custom.newRequest   "නව ඉල්ලීමක්">
+<!ENTITY netmonitorUI.custom.newRequest   "නව අයදුම">
 <!-- LOCALIZATION NOTE (debuggerUI.custom.query): This is the label displayed
   -  above the query string entry in the custom request form -->
 <!-- LOCALIZATION NOTE (debuggerUI.custom.headers): This is the label displayed
@@ -249,7 +249,7 @@
 <!-- LOCALIZATION NOTE (debuggerUI.custom.cancel): This is the label displayed
   -  on the button which cancels and closes the custom request form -->
 
-<!ENTITY netmonitorUI.custom.cancel       "අවලංගු">
+<!ENTITY netmonitorUI.custom.cancel       "අවලංගු කරන්න">
 <!-- LOCALIZATION NOTE (debuggerUI.backButton): This is the label displayed
   -  on the button which exists the performance statistics view -->
 

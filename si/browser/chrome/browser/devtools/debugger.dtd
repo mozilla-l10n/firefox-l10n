@@ -91,6 +91,8 @@
 <!-- LOCALIZATION NOTE (debuggerUI.showOriginalSource): This is the label for
   -  the checkbox that toggles the display of original or sourcemap-derived
   -  sources. -->
+
+<!ENTITY debuggerUI.showOriginalSource           "මූලික මූලශ්‍ර පෙන්වන්න">
 <!ENTITY debuggerUI.showOriginalSource.accesskey "O">
 <!-- LOCALIZATION NOTE (debuggerUI.autoBlackBox): This is the label for
   -  the checkbox that toggles whether sources that we suspect are minified are
@@ -104,6 +106,8 @@
 <!ENTITY debuggerUI.searchPanelOperators    "මෙහෙයවන්නන්:">
 <!-- LOCALIZATION NOTE (debuggerUI.searchFile): This is the text that appears
   -  in the source editor's context menu for the scripts search operation. -->
+
+<!ENTITY debuggerUI.searchFile           "ස්ක්‍රිප්ට් පෙරනය කරන්න">
 <!ENTITY debuggerUI.searchFile.key       "P">
 <!ENTITY debuggerUI.searchFile.altkey    "O">
 <!ENTITY debuggerUI.searchFile.accesskey "P">
@@ -149,6 +153,8 @@
 <!ENTITY debuggerUI.condBreakPanelTitle "මෙම &quot; පහත සඳහන් ප්රකාශනය සත්ය නම් පමණක් breakpoint නතර කරනු ඇත">
 <!-- LOCALIZATION NOTE (debuggerUI.seMenuBreak): This is the text that
   -  appears in the source editor context menu for adding a breakpoint. -->
+
+<!ENTITY debuggerUI.seMenuBreak     "බෙදුම් ලක්ෂයක් එක් කරන්න">
 <!ENTITY debuggerUI.seMenuBreak.key "B">
 <!-- LOCALIZATION NOTE (debuggerUI.seMenuCondBreak): This is the text that
   -  appears in the source editor context menu for adding a conditional
@@ -190,5 +196,5 @@
 <!ENTITY debuggerUI.stepping.stepOver2  "VK_QUOTE">
 <!ENTITY debuggerUI.stepping.stepIn1    "VK_F11">
 <!ENTITY debuggerUI.stepping.stepIn2    "VK_SEMICOLON">
-
-
+<!ENTITY debuggerUI.stepping.stepOut1   "VK_F11">
+<!ENTITY debuggerUI.stepping.stepOut2   "VK_SEMICOLON">
