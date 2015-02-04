@@ -25,6 +25,6 @@
 
 <!ENTITY  links                           "Kolory odnośników">
 <!ENTITY  linkColor.label                 "Nieodwiedzone odnośniki:">
-<!ENTITY  linkColor.accesskey             "N">
+<!ENTITY linkColor.accesskey "w">
 <!ENTITY  visitedLinkColor.label          "Odwiedzone odnośniki:">
 <!ENTITY  visitedLinkColor.accesskey      "O">
