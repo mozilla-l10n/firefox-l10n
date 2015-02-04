@@ -20,124 +20,124 @@
 <!-- Tab context menu -->
 
 <!ENTITY  reloadTab.label                    "ផ្ទុក​ផ្ទាំង​ឡើង​វិញ">
-<!ENTITY  reloadTab.accesskey                "R">
-<!ENTITY  reloadAllTabs.label                "ផ្ទុក​ឡើង​វិញ ផ្ទាំង​ទាំងអស់">
+<!ENTITY  reloadTab.accesskey                "ផ">
+<!ENTITY  reloadAllTabs.label                "ផ្ទុក​ឡើងវិញ ផ្ទាំង​ទាំងអស់">
 <!ENTITY  reloadAllTabs.accesskey            "ផ">
 <!-- LOCALIZATION NOTE (closeTabsToTheEnd.label): This should indicate the
 direction in which tabs are closed, i.e. locales that use RTL mode should say
 left instead of right. -->
-<!ENTITY  closeTabsToTheEnd.label            "បិទ​ផ្ទាំង​ទៅ​ខាង​ស្ដាំ">
-<!ENTITY  closeTabsToTheEnd.accesskey        "i">
-<!ENTITY  closeOtherTabs.label               "បិទ​ផ្ទាំង​ផ្សេង​ទៀត">
-<!ENTITY  closeOtherTabs.accesskey           "o">
+<!ENTITY  closeTabsToTheEnd.label            "បិទ​ផ្ទាំង​ទៅខាងស្ដាំ">
+<!ENTITY  closeTabsToTheEnd.accesskey        "ខ">
+<!ENTITY  closeOtherTabs.label               "បិទ​ផ្ទាំង​ផ្សេងទៀត">
+<!ENTITY  closeOtherTabs.accesskey           "ប">
 <!-- LOCALIZATION NOTE (pinTab.label, unpinTab.label): "Pin" is being
 used as a metaphor for expressing the fact that these tabs are "pinned" to the
 left edge of the tabstrip. Really we just want the string to express the idea
 that this is a lightweight and reversible action that keeps your tab where you
 can reach it easily. -->
 
-<!ENTITY  pinTab.label                       "ផ្ទាំង Pin">
-<!ENTITY  pinTab.accesskey                   "P">
+<!ENTITY  pinTab.label                       "ខ្ទាស់​ផ្ទាំង">
+<!ENTITY  pinTab.accesskey                   "ខ">
 <!ENTITY  unpinTab.label                     "ដោះ​​ខ្ទាស់​ផ្ទាំង">
 <!ENTITY  unpinTab.accesskey                 "b">
-<!ENTITY  moveToGroup.label                  "ផ្លាស់ទី​ទៅ​កាន់​ក្រុម">
-<!ENTITY  moveToGroup.accesskey              "M">
+<!ENTITY  moveToGroup.label                  "ផ្លាស់ទី​ទៅកាន់​ក្រុម">
+<!ENTITY  moveToGroup.accesskey              "ផ">
 <!ENTITY  moveToNewGroup.label               "ក្រុម​ថ្មី">
-<!ENTITY  moveToNewWindow.label              "ផ្លាស់ទី​ទៅ​កាន់​បង្អួច​ថ្មី">
-<!ENTITY  moveToNewWindow.accesskey          "W">
-<!ENTITY  bookmarkAllTabs.label              "ចំណាំ​ផ្ទាំង​​ទាំងអស់…">
-<!ENTITY  bookmarkAllTabs.accesskey          "T">
-<!ENTITY  undoCloseTab.label                 "បិទ​ផ្ទាំង​មិន​ធ្វើ​វិញ">
-<!ENTITY  undoCloseTab.accesskey             "U">
+<!ENTITY  moveToNewWindow.label              "ផ្លាស់ទី​ទៅកាន់បង្អួច​ថ្មី">
+<!ENTITY  moveToNewWindow.accesskey          "ប">
+<!ENTITY  bookmarkAllTabs.label              "ចំណាំ​ផ្ទាំង​ទាំងអស់…">
+<!ENTITY  bookmarkAllTabs.accesskey          "​">
+<!ENTITY  undoCloseTab.label                 "មិនធ្វើវិញ​នូវ​ការ​បិទ​ផ្ទាំង">
+<!ENTITY  undoCloseTab.accesskey             "ម">
 <!ENTITY  closeTab.label                     "បិទ​​ផ្ទាំង">
-<!ENTITY  closeTab.accesskey                 "C">
+<!ENTITY  closeTab.accesskey                 "ប">
 
 <!ENTITY  listAllTabs.label      "រាយ​ផ្ទាំង​ទាំងអស់">
 
-<!ENTITY tabCmd.label "ផ្ទាំង​ថ្មី">
-<!ENTITY tabCmd.accesskey "T">
+<!ENTITY tabCmd.label "ផ្ទាំងថ្មី">
+<!ENTITY tabCmd.accesskey "ថ">
 <!ENTITY tabCmd.commandkey "t">
 <!-- LOCALIZATION NOTE (openLocationCmd.label): "Open Location" is only
 displayed on OS X, and only on windows that aren't main browser windows, or
 when there are no windows but Firefox is still running. -->
 <!ENTITY openLocationCmd.label "បើក​ទីតាំង…">
 <!ENTITY openFileCmd.label "បើក​ឯកសារ…">
-<!ENTITY openFileCmd.accesskey "O">
+<!ENTITY openFileCmd.accesskey "ប">
 <!ENTITY openFileCmd.commandkey "o">
-<!ENTITY printSetupCmd.label "ការ​រៀបចំ​ទំព័រ…">
-<!ENTITY printSetupCmd.accesskey "u">
-<!ENTITY printPreviewCmd.label "មើល​មុន​បោះពុម្ព">
-<!ENTITY printPreviewCmd.accesskey "v">
+<!ENTITY printSetupCmd.label "ការ​រៀបចំទំព័រ…">
+<!ENTITY printSetupCmd.accesskey "ទ">
+<!ENTITY printPreviewCmd.label "មើល​មុនបោះពុម្ព">
+<!ENTITY printPreviewCmd.accesskey "ប">
 <!ENTITY printCmd.label "បោះពុម្ព…">
-<!ENTITY printCmd.accesskey "P">
+<!ENTITY printCmd.accesskey "ប">
 <!ENTITY printCmd.commandkey "p">
 
-<!ENTITY goOfflineCmd.label "ធ្វើ​ការ​នៅ​ក្រៅ​បណ្ដាញ">
-<!ENTITY goOfflineCmd.accesskey "k">
+<!ENTITY goOfflineCmd.label "ធ្វើ​ការនៅ​ក្រៅ​បណ្ដាញ">
+<!ENTITY goOfflineCmd.accesskey "ន">
 
 <!ENTITY menubarCmd.label "របារ​ម៉ឺនុយ">
-<!ENTITY menubarCmd.accesskey "M">
+<!ENTITY menubarCmd.accesskey "រ">
 <!ENTITY navbarCmd.label "របារ​ឧបករណ៍​រុករក​">
-<!ENTITY personalbarCmd.label "របារ​ឧបករណ៍​ចំណាំ">
-<!ENTITY personalbarCmd.accesskey "B">
+<!ENTITY personalbarCmd.label "របារ​ឧបករណ៍ចំណាំ">
+<!ENTITY personalbarCmd.accesskey "ច">
 <!ENTITY bookmarksToolbarItem.label "ធាតុ​របារ​ឧបករណ៍​​ចំណាំ">
 
-<!ENTITY toolbarContextMenu.reloadAllTabs.label "ផ្ទុក​ឡើង​វិញ ផ្ទាំង​ទាំងអស់">
+<!ENTITY toolbarContextMenu.reloadAllTabs.label "ផ្ទុក​ឡើងវិញ ផ្ទាំង​ទាំងអស់">
 <!ENTITY toolbarContextMenu.reloadAllTabs.accesskey "ផ">
-<!ENTITY toolbarContextMenu.bookmarkAllTabs.label "ចំណាំ​ផ្ទាំង​ទាំងអស់…">
-<!ENTITY toolbarContextMenu.bookmarkAllTabs.accesskey "T">
-<!ENTITY toolbarContextMenu.undoCloseTab.label "បិទ​ផ្ទាំង​មិន​ធ្វើ​វិញ">
-<!ENTITY toolbarContextMenu.undoCloseTab.accesskey "U">
+<!ENTITY toolbarContextMenu.bookmarkAllTabs.label "ចំណាំផ្ទាំង​ទាំងអស់…">
+<!ENTITY toolbarContextMenu.bookmarkAllTabs.accesskey "ផ">
+<!ENTITY toolbarContextMenu.undoCloseTab.label "មិនធ្វើវិញ​នូវ​ការ​បិទ​ផ្ទាំង">
+<!ENTITY toolbarContextMenu.undoCloseTab.accesskey "ម">
 
 <!ENTITY pageSourceCmd.label "ប្រភព​ទំព័រ">
-<!ENTITY pageSourceCmd.accesskey "o">
+<!ENTITY pageSourceCmd.accesskey "ប">
 <!ENTITY pageSourceCmd.commandkey "u">
-<!ENTITY pageInfoCmd.label "ព័ត៌មាន​ទំព័រ">
-<!ENTITY pageInfoCmd.accesskey "I">
+<!ENTITY pageInfoCmd.label "ព័ត៌មានទំព័រ">
+<!ENTITY pageInfoCmd.accesskey "ទ">
 <!ENTITY pageInfoCmd.commandkey "i">
 <!ENTITY mirrorTabCmd.label "ផ្ទាំង​ឆ្លុះ">
 <!ENTITY mirrorTabCmd.accesskey "ផ">
 <!-- LOCALIZATION NOTE (enterFullScreenCmd.label, exitFullScreenCmd.label):
 These should match what Safari and other Apple applications use on OS X Lion. -->
-<!ENTITY enterFullScreenCmd.label "បញ្ចូល​ពេញ​អេក្រង់">
-<!ENTITY enterFullScreenCmd.accesskey "F">
-<!ENTITY exitFullScreenCmd.label "ចេញ​ពី​ពេញ​​អេក្រង់">
-<!ENTITY exitFullScreenCmd.accesskey "F">
+<!ENTITY enterFullScreenCmd.label "ចូលពេញ​អេក្រង់">
+<!ENTITY enterFullScreenCmd.accesskey "ព">
+<!ENTITY exitFullScreenCmd.label "ចេញពីពេញ​​អេក្រង់">
+<!ENTITY exitFullScreenCmd.accesskey "ព">
 <!ENTITY fullScreenCmd.label "ពេញ​អេក្រង់">
-<!ENTITY fullScreenCmd.accesskey "F">
+<!ENTITY fullScreenCmd.accesskey "ព">
 <!ENTITY fullScreenCmd.macCommandKey "f">
-<!ENTITY showAllTabsCmd.label "បង្ហាញ​ផ្ទាំង​ទាំងអស់">
-<!ENTITY showAllTabsCmd.accesskey "A">
+<!ENTITY showAllTabsCmd.label "បង្ហាញ​ផ្ទាំងទាំងអស់">
+<!ENTITY showAllTabsCmd.accesskey "ទ">
 
-<!ENTITY fxaSignIn.label "ចូល​ទៅ​កាន់ &syncBrand.shortName.label;">
-<!ENTITY fxaSignInError.label "តភ្ជាប់​ឡើង​វិញ​ទៅ​កាន់ &syncBrand.shortName.label;">
+<!ENTITY fxaSignIn.label "ចូល​ទៅកាន់ &syncBrand.shortName.label;">
+<!ENTITY fxaSignInError.label "តភ្ជាប់​ឡើង​វិញ​ទៅកាន់ &syncBrand.shortName.label;">
 <!ENTITY syncStartPanel2.heading "&syncBrand.shortName.label; បាន​បើក">
-<!ENTITY syncStartPanel2.subTitle "&brandShortName; នឹង​កំពុង​ត្រូវ​បាន​ធ្វើ​សមកាលកម្ម​ឥឡូវ​នេះ។">
-<!ENTITY syncErrorPanel.heading "មិន​អាច​តភ្ជាប់​ទៅ​កាន់ &syncBrand.shortName.label;">
+<!ENTITY syncStartPanel2.subTitle "&brandShortName; នឹង​កំពុង​ត្រូវ​បាន​ធ្វើ​សមកាលកម្ម​ឥឡូវនេះ។">
+<!ENTITY syncErrorPanel.heading "មិន​អាច​តភ្ជាប់​ទៅកាន់ &syncBrand.shortName.label;">
 <!ENTITY syncErrorPanel.subTitle "សូម​ចូល​ដើម្បី​បន្ត​ការ​ធ្វើ​សមកាលកម្ម។">
 <!ENTITY syncErrorPanel.signInButton.label "ចូល">
-<!ENTITY syncErrorPanel.signInButton.accesskey "S">
+<!ENTITY syncErrorPanel.signInButton.accesskey "ច">
 
 
 <!ENTITY fullScreenMinimize.tooltip "បង្រួម​អប្បបរមា">
 <!ENTITY fullScreenRestore.tooltip "ស្ដារ">
 <!ENTITY fullScreenClose.tooltip "បិទ">
 <!ENTITY fullScreenAutohide.label "លាក់​របារ​ឧបករណ៍">
-<!ENTITY fullScreenAutohide.accesskey "H">
-<!ENTITY fullScreenExit.label "ចេញ​​​ពី​របៀប​ពេញ​អេក្រង់">
-<!ENTITY fullScreenExit.accesskey "F">
+<!ENTITY fullScreenAutohide.accesskey "ល">
+<!ENTITY fullScreenExit.label "ចេញពីរបៀប​ពេញ​អេក្រង់">
+<!ENTITY fullScreenExit.accesskey "រ">
 <!ENTITY fullscreenAllowButton.label "អនុញ្ញាត">
 <!ENTITY fullscreenExitButton.label "បដិសេធ">
 
-<!ENTITY fullscreenExitHint2.value "ចុច​គ្រាប់​ចុច​​គេច (ESC) នៅ​ពេល​ចេញ។">
-<!ENTITY leaveDOMFullScreen.label "ចេញ​ពី​ពេញ​អេក្រង់">
-<!ENTITY leaveDOMFullScreen.accesskey "u">
+<!ENTITY fullscreenExitHint2.value "ចុច​គ្រាប់ចុច​​គេច (ESC) នៅ​ពេល​ចេញ។">
+<!ENTITY leaveDOMFullScreen.label "ចេញពីពេញ​អេក្រង់">
+<!ENTITY leaveDOMFullScreen.accesskey "ព">
 
-<!ENTITY closeWindow.label "បិទ​បង្អួច">
-<!ENTITY closeWindow.accesskey "d">
+<!ENTITY closeWindow.label "បិទបង្អួច">
+<!ENTITY closeWindow.accesskey "ប">
 
 <!ENTITY bookmarksMenu.label "ចំណាំ">
-<!ENTITY bookmarksMenu.accesskey "B">
+<!ENTITY bookmarksMenu.accesskey "ច">
 <!ENTITY bookmarkThisPageCmd.label "ចំណាំ​ទំព័រ​នេះ">
 <!ENTITY editThisBookmarkCmd.label "កែ​សម្រួល​ចំណាំ​នេះ">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
@@ -145,15 +145,15 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (findShareServices.label):
   -  Use the unicode ellipsis char, \u2026,
   -  or use "..." if \u2026 doesn't suit traditions in your locale. -->
-<!ENTITY findShareServices.label "ស្វែងរក​សេវាកម្ម​ចែករំលែក​ជា​ច្រើន…">
-<!ENTITY sharePageCmd.label "ចែករំលែក​ទំព័រ​នេះ">
+<!ENTITY findShareServices.label "ស្វែងរក​សេវាកម្ម​ចែករំលែក​ច្រើន​ទៀត…">
+<!ENTITY sharePageCmd.label "ចែករំលែកទំព័រ​នេះ">
 <!ENTITY sharePageCmd.commandkey "S">
-<!ENTITY sharePageCmd.accesskey "s">
+<!ENTITY sharePageCmd.accesskey "ទ">
 <!-- LOCALIZATION NOTE (shareLink.accesskey): must be different than the following share access keys -->
 <!ENTITY shareLink.label "ចែករំលែក​​តំណ​​នេះ">
-<!ENTITY shareLink.accesskey "h">
+<!ENTITY shareLink.accesskey "ច">
 <!ENTITY shareImage.label "ចែករំលែក​រូបភាព​នេះ">
-<!ENTITY shareImage.accesskey "r">
+<!ENTITY shareImage.accesskey "ច">
 <!ENTITY shareSelect.label "ចែករំលែក​​ជម្រើស">
 <!ENTITY shareSelect.accesskey "r">
 <!ENTITY shareVideo.label "ចែករំលែក​វីដេអូ​នេះ">
