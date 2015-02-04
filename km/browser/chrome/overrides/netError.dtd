@@ -139,13 +139,14 @@ functionality specific to firefox. -->
 <button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button> 
 <button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>">
 
-
-
-
-
-
-
-
+<!ENTITY errorReporting.title "រាយការណ៍​កំហុស​នេះ">
+<!ENTITY errorReporting.longDesc "ការ​រាយការណ៍​ព័ត៌មាន​អាសយដ្ឋាន និង​វិញ្ញាបនបត្រ​សម្រាប់ <span id='hostname'></span> នឹង​ជួយ​យើង​ឲ្យ​កំណត់ និង​ទប់ស្កាត់​តំបន់បណ្ដាញ​ព្យាបាទ។ អរគុណ​សម្រាប់​ការ​ជួយ​ធ្វើឲ្យ​តំបន់បណ្ដាញ​កាន់តែ​មាន​សុវត្ថិភាព!">
+<!ENTITY errorReporting.automatic "រាយការណ៍​កំហុស​ដោយ​ស្វ័យប្រវត្តិ​នៅ​ពេល​អនាគត">
+<!ENTITY errorReporting.learnMore "ស្វែងយល់​បន្ថែម...">
+<!ENTITY errorReporting.sending "កំពុង​ផ្ញើ​របាយការណ៍">
+<!ENTITY errorReporting.sent "របាយការណ៍​បាន​ផ្ញើ">
+<!ENTITY errorReporting.report "រាយការណ៍">
+<!ENTITY errorReporting.tryAgain "ព្យាយាម​ម្ដងទៀត">
 
 <!ENTITY remoteXUL.title "XUL ពី​ចម្ងាយ">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>សូម​ទាក់ទង​ម្ចាស់​តំបន់បណ្ដាញ​ ដើម្បី​ប្រាប់​ពួក​គេ​ឲ្យ​ដឹង​អំពី​បញ្ហា​នេះ ។</li></ul></p>">
