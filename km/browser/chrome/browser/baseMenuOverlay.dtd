@@ -38,10 +38,10 @@
 <!ENTITY helpShowTour.label             "&brandShortName; ទស្សនា">
 <!ENTITY helpShowTour.accesskey         "ទ">
 
-<!ENTITY preferencesCmdMac.label        "ចំណូល​ចិត្ត...">
+<!ENTITY preferencesCmdMac.label        "ចំណូលចិត្ត...">
 <!ENTITY preferencesCmdMac.commandkey   ",">
 
-<!ENTITY servicesMenuMac.label          "សេវា">
+<!ENTITY servicesMenuMac.label          "សេវាកម្ម">
 
 <!ENTITY hideThisAppCmdMac.label        "លាក់ &brandShortName;">
 <!ENTITY hideThisAppCmdMac.commandkey   "H">
