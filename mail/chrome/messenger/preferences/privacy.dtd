@@ -12,7 +12,7 @@
 <!ENTITY acceptRemoteContentInfo.label "Les meir om personvernutfordringane ved eksternt innhald">
 
 <!-- Web Content -->
-<!ENTITY captionWebContent.label "Vevinnhald">
+<!ENTITY captionWebContent.label "Nettinnhald">
 
 <!ENTITY keepHistory.label "Hugs nettsider og lenker eg har besøkt">
 <!ENTITY keepHistory.accesskey "H">
@@ -33,11 +33,6 @@
 <!ENTITY showCookies.label "Vis infokapslar …">
 <!ENTITY showCookies.accesskey "V">
 
-<!ENTITY dntTrackingNopref.label2 "Ikkje fortel nettsider om sporingsønskja mine">
-<!ENTITY dntTrackingNopref.accesskey "I">
 <!ENTITY dntTrackingNotOkay.label2 "Fortel nettsider at eg ikkje ønskjer å verta spora">
 <!ENTITY dntTrackingNotOkay.accesskey "F">
-<!ENTITY dntTrackingOkay.label2 "Fortel nettsider at eg ønskjer å verta spora">
-<!ENTITY dntTrackingOkay.accesskey "o">
 <!ENTITY doNotTrackInfo.label "Les meir om Sporingsval">
-

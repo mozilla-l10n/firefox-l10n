@@ -137,8 +137,8 @@ mellombels, og du kan prøva på nytt seinare.</li>
 <p>Desse typane av nettsvindel er brukte i såkalte «phishing-åtak», der forfalska nettsider og e-post imiterer kjelder du stolar på.</p>
 ">
 
-<!ENTITY cspFrameAncestorBlocked.title "Blokkert av tryggingsregel">
-<!ENTITY cspFrameAncestorBlocked.longDesc "<p>&brandShortName; hindra denne nettstaden frå å lastast inn på denne måten fordi sida har ei tryggingsavgrensing som hindrar det.</p>">
+<!ENTITY cspBlocked.title "Blokkert av tryggingspraksis for innhald">
+<!ENTITY cspBlocked.longDesc "<p>&brandShortName; hindra nettsiden frå å lastast inn på denne måten fordi nettsida har ein tryggingspraksis for innhald som hindrar det.</p>">
 
 <!ENTITY corruptedContentError.title "Øydelagd innhald">
 <!ENTITY corruptedContentError.longDesc "<p>Sida du freistar å visa kan ikkje opnast fordi ein feil i dataoverføringa vart oppdaga.</p><ul><li>Kontakt eigarane av nettstaden og informer dei om dette problemet.</li></ul>">
@@ -159,4 +159,4 @@ functionality specific to thunderbird. -->
 ">
 
 <!ENTITY remoteXUL.title "Remote XUL">
-<!ENTITY remoteXUL.longDesc "<p><ul><li>Kontakt nettstadseigarane og informer dei om dette problemet.</li></ul></p>">
+<!ENTITY remoteXUL.longDesc "<p><ul><li>Kontakt nettstadseigarane for å informera dei om dette problemet.</li></ul></p>">

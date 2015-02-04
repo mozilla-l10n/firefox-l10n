@@ -243,6 +243,16 @@
 <!ENTITY calendar.context.properties.label             "Eigenskapar">
 <!ENTITY calendar.context.properties.accesskey         "E">
 
+<!-- LOCALIZATION NOTE (calendar.context.togglevisible.accesskey)
+     This is the access key used for the showCalendar string -->
+<!ENTITY calendar.context.togglevisible.accesskey      "H">
+
+<!-- LOCALIZATION NOTE (calendar.context.showonly.accesskey)
+     This is the access key used for the showOnlyCalendar string -->
+<!ENTITY calendar.context.showonly.accesskey           "b">
+<!ENTITY calendar.context.showall.label                "Vis alle kalendrane">
+<!ENTITY calendar.context.showall.accesskey            "a">
+
 <!ENTITY calendar.context.convertmenu.label              "Konverter til">
 <!ENTITY calendar.context.convertmenu.accesskey.mail     "K">
 <!ENTITY calendar.context.convertmenu.accesskey.calendar "n">
@@ -347,5 +357,5 @@
 <!-- Extract buttons in message header -->
 <!ENTITY calendar.extract.event.button         "Legg til som hending">
 <!ENTITY calendar.extract.task.button          "Legg til som oppgåve">
-<!ENTITY calendar.extract.event.button.tooltip "Hent ut kalendarinfo frå meldinga og legg til i kalenderen din som ei hending">
+<!ENTITY calendar.extract.event.button.tooltip "Hent ut kalenderinfo frå meldinga og legg til i kalenderen din som ei hending">
 <!ENTITY calendar.extract.task.button.tooltip  "Hent ut kalenderinfo frå meldinga og legg til i kalenderen din som ei oppgåve">
