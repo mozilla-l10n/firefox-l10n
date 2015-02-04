@@ -53,4 +53,5 @@
 
 <!ENTITY sad.thanksMessageBottom   "သို့ မဟုတ်">
 
-
+<!ENTITY feedback.privacy2         "သင့်လုံခြုံရေးအရ အကြံပေးချက်တွင် ကိုယ်ရေး ကိုယ်တာ အချက်အလက်များအား ထည့်မပေးလိုက်ပါနှင့်။ ">
+<!ENTITY feedback.send             "အကြံပေးချက်ပို့မည်">
