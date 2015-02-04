@@ -12,10 +12,15 @@
 
 <!ENTITY oneClickSearchEngines.label           "ម៉ាស៊ីន​ស្វែងរក​ចុច​តែ​ម្ដង">
 
+<!ENTITY chooseWhichOneToDisplay.label         "របារ​ស្វែងរក​អនុញ្ញាត​ឲ្យ​ស្វែងរក​ម៉ាស៊ីន​ឆ្លាស់គ្នា​ដោយ​ផ្ទាល់។ ជ្រើស​មួយ​ណា​ដែល​ត្រូវ​បង្ហាញ។">
 
+<!ENTITY engineNameColumn.label                "ម៉ាស៊ីន​ស្វែងរក">
 <!ENTITY engineKeywordColumn.label             "ពាក្យ​គន្លឹះ">
 
+<!ENTITY restoreDefaultSearchEngines.label     "ស្ដារ​ម៉ាស៊ីន​ស្វែងរកលំនាំដើម">
+<!ENTITY restoreDefaultSearchEngines.accesskey "ល">
 
+<!ENTITY removeEngine.label                    "យក​ចេញ...">
+<!ENTITY removeEngine.accesskey                "ញ">
 
-
-
+<!ENTITY addMoreSearchEngines.label            "បន្ថែម​ម៉ាស៊ីន​ស្វែងរក​ច្រើន​ទៀត…">
