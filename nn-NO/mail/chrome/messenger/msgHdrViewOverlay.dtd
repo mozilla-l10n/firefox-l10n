@@ -49,7 +49,8 @@
 <!ENTITY hdrViewToolbarAlwaysReplySender.label "Alltid vis Svar til avsendar">
 <!ENTITY hdrViewToolbarAlwaysReplySender.accesskey "A">
 
-<!ENTITY otherActionsButton1.label "Andre handlingar">
+<!ENTITY otherActionsButton2.label "Meir">
+<!ENTITY otherActionsButton.tooltip "Fleire handlingar">
 <!ENTITY otherActionsOpenConversation1.label "Opna i samtale">
 <!ENTITY otherActionsOpenConversation1.accesskey "O">
 <!ENTITY otherActionsOpenInNewWindow1.label "Opna i nytt vindauge">

@@ -13,4 +13,10 @@
 <!ENTITY gdata.migration.upgrade.accesskey "O">
 <!ENTITY gdata.migration.showagain.label "Kontroller alltid">
 
+<!ENTITY gdata.reminder.default "Standardpåminning">
 <!ENTITY gdata.reminder.action.sms.label "Send ei tekstmelding">
+
+<!ENTITY gdata.wizard.session.description "Vel ei eksisterande økt, eller skriv inn e-postadressa di for å laga ei ny økt. Du treng berre ei økt per konto.">
+<!ENTITY gdata.wizard.calendars.description "Vel kalendrane og oppgåvelistene du vil abonnera på.">
+
+<!ENTITY gdata.wizard.nextstep.description "Gå til neste steg for å konfigurera kalendrar.">

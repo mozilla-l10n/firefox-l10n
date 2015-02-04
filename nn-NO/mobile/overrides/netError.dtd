@@ -158,8 +158,8 @@ vera krtvarig, og du kan prøva igjen seinare.</li>
 </ul>
 ">
 
-<!ENTITY cspFrameAncestorBlocked.title "Blokkert av tryggingsregel på innhaldet">
-<!ENTITY cspFrameAncestorBlocked.longDesc "<p>&brandShortName; hindra denne nettstaden frå å lastast inn på denne måten fordi sida har ei tryggingsavgrensing som hindrar det.</p>">
+<!ENTITY cspBlocked.title "Blokkert av tryggingspraksis for innhald">
+<!ENTITY cspBlocked.longDesc "<p>&brandShortName; hindra nettsida frå å lastast inn på denne måten fordi nettsida har ein tryggingspraksis for innhald som forbyr det.</p>">
 
 <!ENTITY corruptedContentError.title "Øydelagt innhald">
 <!ENTITY corruptedContentError.longDesc "<p>Sida du prøvar å visa kan ikkje opnast på grunn av ein feil i dataoverføringa.</p><ul><li>Kontakt eigarane av nettstaden og informer dei om problemet.</li></ul>">

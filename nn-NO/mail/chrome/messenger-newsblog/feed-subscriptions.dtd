@@ -4,7 +4,7 @@
 
 <!-- Subscription Dialog -->
 <!ENTITY feedSubscriptions.label     "Abonnement på nyhendekjelder">
-<!ENTITY subscriptionDesc.label      "Merk: Sletting eller endring av ei mappe for ei nyhendekjelde vil ikkje påverka tidlegare nedlasta artiklar.">
+<!ENTITY learnMore.label             "Les meir om nyhendekjelder">
 
 <!ENTITY feedTitle.label             "Tittel:">
 <!ENTITY feedTitle.accesskey         "T">
@@ -12,6 +12,8 @@
 <!ENTITY feedLocation.label          "Kjelde-URL:">
 <!ENTITY feedLocation.accesskey      "K">
 <!ENTITY feedLocation.placeholder    "Skriv inn ein gyldig nyhendeskjelde-url å leggja til">
+<!ENTITY locationValidate.label      "Valider">
+<!ENTITY validateText.label          "Kontroller validering og hent gyldig url.">
 
 <!ENTITY feedFolder.label            "Lagra artiklar i:">
 <!ENTITY feedFolder.accesskey        "L">
@@ -24,9 +26,6 @@
 <!ENTITY autotagUsePrefix.label      "Prefiks på taggar:">
 <!ENTITY autotagUsePrefix.accesskey  "P">
 <!ENTITY autoTagPrefix.placeholder   "Skriv inn taggprefiks">
-
-<!ENTITY locationValidate.label      "Valider">
-<!ENTITY validateText.label          "Kontroller validering og hent gyldig url.">
 
 <!ENTITY button.addFeed.label        "Legg til">
 <!ENTITY button.addFeed.accesskey    "L">
