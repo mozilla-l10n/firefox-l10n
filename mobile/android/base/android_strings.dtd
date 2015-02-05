@@ -172,6 +172,9 @@
 <!ENTITY pref_cookies_not_accept_foreign "सक्षम, तेसर पक्ष छोड़कर">
 <!ENTITY pref_cookies_disabled "निष्क्रिय">
 
+<!ENTITY pref_tracking_protection_title "ट्रैकिंग सुरक्षा">
+
+
 
 
 <!ENTITY pref_char_encoding "वर्ण ऐन्कोडिंग">
@@ -422,6 +425,8 @@ size. -->
 <!ENTITY home_remote_tabs_empty "आन युक्तिसँ अहाँक टैब एतए देखाइ पड़ैछ.">
 <!ENTITY home_remote_tabs_unable_to_connect "कनेक्ट करबामे असमर्थ">
 <!ENTITY home_remote_tabs_need_to_sign_in "कृपया अपन फायरफाक्स खाता आओर सिंकिंग जारी रखबाक लेल साइन इन करू.">
+
+
 <!ENTITY home_remote_tabs_trouble_verifying "अपन खाताकेँ जाँचबामे समस्या?">
 <!ENTITY home_remote_tabs_need_to_verify "सिंकिंग आरंभ करबाक लेल अपन फायरफाक्स खाताक जाँच करू.">
 
@@ -519,12 +524,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY updater_apply_title2 "&brandShortName; कलेल अद्यतन उपलब्ध">
 <!ENTITY updater_apply_select2 "अद्यतन कलेल छुउ">
-<!-- New tablet UI -->
-<!-- LOCALIZATION NOTE (new_tablet_restart): Notification displayed after the user toggles the new tablet UI in the settings screen.-->
-
-
-<!ENTITY new_tablet_restart "परिवर्तनकेँ प्रभावी होबाक लेल ब्राउजरकेँ फेन चलाउ">
-<!ENTITY new_tablet_pref "नव टैब यूआई सक्रिय करू">
 <!-- Guest mode -->
 
 <!ENTITY new_guest_session "नवअतिथि सत्र">
