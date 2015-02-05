@@ -190,28 +190,28 @@
 <!ENTITY fxaccount_update_credentials_unknown_error "साइन इन नहि कए सकलहुं">
 
 <!ENTITY fxaccount_finish_migrating_header "उन्नयन समाप्त करबाक लेल साइन इन करु">
+<!ENTITY fxaccount_finish_migrating_button_label "उन्नयन समाप्त करु">
+<!ENTITY fxaccount_finish_migrating_description "उन्नयन बहुत रास आँकड़ा के स्थानान्तरित कय सकैत अछि. WiFi नेटवर्क पर रहनाइ सब सँ नीक रहत.">
 
-
-
-<!ENTITY fxaccount_status_header2 "फायरफाक्स खाता">
+<!ENTITY fxaccount_status_header2 "फायरफॉक्स खाता">
 <!ENTITY fxaccount_status_signed_in_as "एहिना साइन इन करू">
 <!ENTITY fxaccount_status_auth_server "खाताक सर्वर">
-
-
-<!ENTITY fxaccount_status_device_name "युक्ति नाम">
+<!ENTITY fxaccount_status_sync_now "तुल्यकालन एखन करु">
+<!ENTITY fxaccount_status_syncing2 "तुल्यकालन भए रहल अछि">
+<!ENTITY fxaccount_status_device_name "युक्तिक नाम">
 <!ENTITY fxaccount_status_sync_server "सिंक सर्वर">
 <!ENTITY fxaccount_status_sync "&syncBrand.shortName.label;">
 <!ENTITY fxaccount_status_sync_enabled "&syncBrand.shortName.label;: सक्रिय">
-<!ENTITY fxaccount_status_needs_verification2 "अहाँक खाता केँ सत्यापित करब क जरूरत अछि. दोबारा सत्यापन इमेल पठाबै कलेल टैप करू.">
-<!ENTITY fxaccount_status_needs_credentials "कनेक्ट नहि कए सकल. साइन-इन करब कलेल टैप करू.">
-<!ENTITY fxaccount_status_needs_upgrade "साइन-इन करब कलेल अहाँकेँ &brandShortName; अद्यतन करब क जरूरत अछि.">
-<!ENTITY fxaccount_status_needs_master_sync_automatically_enabled "&syncBrand.shortName.label; सेटअप कएल गेल अछि, मुदा स्वतः सिंक नहि हाएत अछि. “डाटा स्वतःतुल्यकालन” एंड्रायड सेटिंग मे टागल करू &gt; डाटा प्रयोग.">
-
-<!ENTITY fxaccount_status_needs_account_enabled "&syncBrand.shortName.label; सेटअप अछि मुदा स्वतः तुल्यकालित नहि हाएत अछि. तुल्यकालन कलेल टिपटिपाउ.">
-
-<!ENTITY fxaccount_status_bookmarks "पुस्तकचिह्न">
+<!ENTITY fxaccount_status_needs_verification2 "अहाँक खाता केँ सत्यापित करबाक जरूरत अछि. दोबारा सत्यापन इमेल पठेबाक लेल टाइप करु.">
+<!ENTITY fxaccount_status_needs_credentials "कनेक्ट नहि कए सकल. साइन-इन करबाक लेल टाइप करु.">
+<!ENTITY fxaccount_status_needs_upgrade "साइन-इन करबाक लेल अहाँकेँ &brandShortName; अद्यतन करबाक जरूरत अछि.">
+<!ENTITY fxaccount_status_needs_master_sync_automatically_enabled "&syncBrand.shortName.label; सेटअप कएल गेल अछि, मुदा स्वतः तुल्यकालन नहि होएत अछि. “डाटा स्वतःतुल्यकालन” एंड्रायड सेटिंग में टॉगल करु &gt; डाटा प्रयोग.">
+<!ENTITY fxaccount_status_needs_master_sync_automatically_enabled_v21 "&syncBrand.shortName.label; सेटअप कएल गेल अछि, मुदा स्वतः सिंक नहि हाएत अछि. “डाटा स्वतःतुल्यकालन” एंड्राइड सेटिंग मे टॉगल करु &gt; डाटा प्रयोग.">
+<!ENTITY fxaccount_status_needs_account_enabled "&syncBrand.shortName.label; सेटअप अछि मुदा स्वतः तुल्यकालन नहि हाएत अछि. तुल्यकालन शुरू करबाक लेल टीपू.">
+<!ENTITY fxaccount_status_needs_finish_migrating "अपन नवका फायरफॉक्स खाता में साइन इन करबाक लेल टीपू.">
+<!ENTITY fxaccount_status_bookmarks "पृष्ठस्मृति">
 <!ENTITY fxaccount_status_history "इतिहास">
-<!ENTITY fxaccount_status_passwords "गुड़किल्ली">
+<!ENTITY fxaccount_status_passwords "कूटशब्द">
 <!ENTITY fxaccount_status_tabs "टैब खोलू">
 <!ENTITY fxaccount_status_legal "कानूनी" >
 <!-- Localization note: when tapped, the following two strings link to
@@ -222,17 +222,17 @@
 <!ENTITY fxaccount_status_linkprivacy "गोपनीयता नीति">
 <!ENTITY fxaccount_status_more "आओर&ellipsis;">
 
-<!ENTITY fxaccount_remove_account_dialog_title "फायरफाक्स खाता हटाउ?">
-<!ENTITY fxaccount_remove_account_dialog_message "&brandShortName; अहाँक खाताक संगत सिंक कएनाइ रोकि दैत, मुदा इ युक्ति पर अपन ब्राउजिंग आँकड़ाकेँ नहि मैटात.">
+<!ENTITY fxaccount_remove_account_dialog_title "फायरफॉक्स खाता हटाउ?">
+<!ENTITY fxaccount_remove_account_dialog_message "&brandShortName; अहाँक खाताक संगत तुल्यकालन कएनाइ रोकि दैत, मुदा इ युक्ति पर अपन ब्राउजिंग आँकड़ाकेँ नहि मेटायत.">
 <!-- Localization note: format string below will be replaced
      with the Firefox Account's email address. -->
-<!ENTITY fxaccount_remove_account_toast "फायरफाक्स खाताकेँ &formatS; हटाएल गेले.">
+<!ENTITY fxaccount_remove_account_toast "फायरफॉक्स खाताकेँ &formatS; हटाएल गेल.">
 
 <!ENTITY fxaccount_remove_account_menu_item "खाता हटाउ">
 <!-- Localization note: this is the name shown by the Android system
      itself for a Firefox Account. Don't localize this. -->
 
-<!ENTITY fxaccount_account_type_label "फायरफाक्स">
+<!ENTITY fxaccount_account_type_label "फ़ायरफ़ॉक्स">
 <!-- Localization note: these are shown by the Android system itself,
      when the user navigates to the Android > Accounts > {Firefox
      Account} Screen. The link takes the user to the Firefox Account
@@ -240,23 +240,23 @@
      Account. -->
 
 <!ENTITY fxaccount_options_title "&syncBrand.shortName.label; विकल्प">
-<!ENTITY fxaccount_options_configure_title "&syncBrand.shortName.label; कॉन्फिगर करू;">
+<!ENTITY fxaccount_options_configure_title "&syncBrand.shortName.label; कॉन्फिगर करू">
 <!-- Localization note: these error messages are shown after a request
      has been made to the remote server, and an error of some type has
      been returned. -->
 
-<!ENTITY fxaccount_remote_error_UPGRADE_REQUIRED "अहाँकेँ फायरफ़ाक्स अद्यतन करब क जरूरत अछि">
+<!ENTITY fxaccount_remote_error_UPGRADE_REQUIRED "अहाँकेँ फायरफॉक्स अद्यतन करबाक जरूरत अछि">
 <!-- Localization note: the format string will be fxaccount_sign_in_button_label, linkified. -->
 
-<!ENTITY fxaccount_remote_error_ATTEMPT_TO_CREATE_AN_ACCOUNT_THAT_ALREADY_EXISTS_2 "&formatS1; खाता पहिने सँ मोजुद अछि">
-<!ENTITY fxaccount_remote_error_ATTEMPT_TO_ACCESS_AN_ACCOUNT_THAT_DOES_NOT_EXIST "अवैध इमेल अथवा गुड़किल्ली">
-<!ENTITY fxaccount_remote_error_INCORRECT_PASSWORD "अवैध इमेल अथवा गुड़किल्ली">
+<!ENTITY fxaccount_remote_error_ATTEMPT_TO_CREATE_AN_ACCOUNT_THAT_ALREADY_EXISTS_2 "&formatS1; खाता पहिने सँ मौज़ूद अछि.">
+<!ENTITY fxaccount_remote_error_ATTEMPT_TO_ACCESS_AN_ACCOUNT_THAT_DOES_NOT_EXIST "अवैध इमेल अथवा कूटशब्द">
+<!ENTITY fxaccount_remote_error_INCORRECT_PASSWORD "अवैध इमेल अथवा कूटशब्द">
 <!ENTITY fxaccount_remote_error_ATTEMPT_TO_OPERATE_ON_AN_UNVERIFIED_ACCOUNT "खाता सत्यापित नहि कएल गेल अछि">
-<!ENTITY fxaccount_remote_error_CLIENT_HAS_SENT_TOO_MANY_REQUESTS "सर्वर व्यस्त अछि, जल्दे पुन: प्रयास करू">
-<!ENTITY fxaccount_remote_error_SERVICE_TEMPORARILY_UNAVAILABLE_TO_DUE_HIGH_LOAD "सर्वर व्यस्त अछि, जल्द फेर प्रयास करू">
+<!ENTITY fxaccount_remote_error_CLIENT_HAS_SENT_TOO_MANY_REQUESTS "सर्वर व्यस्त अछि, जल्दिये पुन: प्रयास करु.">
+<!ENTITY fxaccount_remote_error_SERVICE_TEMPORARILY_UNAVAILABLE_TO_DUE_HIGH_LOAD "सर्वर व्यस्त अछि, जल्दिये फेर प्रयास करु">
 <!ENTITY fxaccount_remote_error_UNKNOWN_ERROR "एकटा कठिनाइ छल">
-<!ENTITY fxaccount_remote_error_COULD_NOT_CONNECT "सर्वर सँ जुड़ि नहि सकल">
-
+<!ENTITY fxaccount_remote_error_COULD_NOT_CONNECT "नेटवर्क सँ जुड़ि नहि सकल">
+<!ENTITY fxaccount_remote_error_ACCOUNT_LOCKED "खाता बन्न अछि. &formatS1;">
 
 <!ENTITY fxaccount_sync_sign_in_error_notification_title2 "&syncBrand.shortName.label; कनेक्टेड नहि अछि">
 <!-- Localization note: the format string below will be replaced
