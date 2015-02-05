@@ -173,7 +173,7 @@
 <!ENTITY pref_cookies_disabled "निष्क्रिय">
 
 <!ENTITY pref_tracking_protection_title "ट्रैकिंग सुरक्षा">
-
+<!ENTITY pref_tracking_protection_summary "&brandShortName; ई  साइट्स के अहाँ के ट्रैकिंग करय स\u0027 रोकत ">
 <!ENTITY pref_donottrack_title "ट्रैक नहिं करु">
 <!ENTITY pref_donottrack_summary "साइट्स के सेहो बता\u0027यत कि अहाँ अपन ट्रैकिंग नहिं चाहैत छी">
 
@@ -395,6 +395,8 @@ size. -->
 <!ENTITY home_top_sites_add "साइट जोड़ू">
 <!-- Localization note (home_title): This string should be kept in sync
      with the page title defined in aboutHome.dtd -->
+
+<!ENTITY home_title "&brandShortName; होम">
 <!ENTITY home_history_title "इतिहास">
 <!ENTITY home_clear_history_button "ब्राउजिंग इतिहास साफ करू">
 <!ENTITY home_clear_history_confirm "की अहाँ सुनिश्चित छी जे अहाँ अपन इतिहासकेँ साफ कएनाइ चाहैत अछि?">
@@ -406,6 +408,7 @@ size. -->
 <!ENTITY home_most_recent_empty "अहाँक देखल सबसँ हालिया वेबसाइट एतय देखाओल गेल अछि.">
 <!-- Localization note (home_most_recent_emptyhint2): "Psst" is a sound that might be used to attract someone's attention unobtrusively, and intended to hint at Private Browsing to the user.
      The placeholders &formatS1; and &formatS2; are used to mark the location of text underlining. -->
+<!ENTITY home_most_recent_emptyhint2 "एकर प्रयोग केलाह सँ  &formatS1;नव व्यक्तिगत टैब &formatS2; अहाँक इतिहास के नहि सहेजत.">
 <!ENTITY home_reading_list_empty "बादक लेल सहेजल गेल आलेख एतय देखाइ पड़ैत अछि.">
 <!-- Localization note (home_reading_list_hint): The "TIP" string is synonymous to "hint", "clue", etc. This string is displayed
      as an advisory message on how to add content to the reading list when the reading list empty.
@@ -428,7 +431,7 @@ size. -->
 <!ENTITY home_remote_tabs_empty "आन युक्तिसँ अहाँक टैब एतए देखाइ पड़ैछ.">
 <!ENTITY home_remote_tabs_unable_to_connect "कनेक्ट करबामे असमर्थ">
 <!ENTITY home_remote_tabs_need_to_sign_in "कृपया अपन फायरफाक्स खाता आओर सिंकिंग जारी रखबाक लेल साइन इन करू.">
-
+<!ENTITY home_remote_tabs_need_to_finish_migrating "अहाँक नया फायरफॉक्स खाता तैयार अछि">
 
 <!ENTITY home_remote_tabs_trouble_verifying "अपन खाताकेँ जाँचबामे समस्या?">
 <!ENTITY home_remote_tabs_need_to_verify "सिंकिंग आरंभ करबाक लेल अपन फायरफाक्स खाताक जाँच करू.">
@@ -484,8 +487,10 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY blocked_mixed_content_message_bottom "ई सामग्री क रोक-थाम क बावजूद बेसी वेबसाइट नीक सँ काम करताह.">
 <!-- Tracking content notifications in site identity popup -->
 
-
-
+<!ENTITY loaded_tracking_content_message_top "ट्रैकिंग सुरक्षा निष्क्रिय">
+<!ENTITY loaded_tracking_content_message_bottom "अहि पृष्ठक अंश सब अहाँक ऑनलाइन गतिविधि के ट्रैक करि सकैत अछि.">
+<!ENTITY blocked_tracking_content_message_top2 "ट्रैकिंग सुरक्षा सक्रिय">
+<!ENTITY blocked_tracking_content_message_bottom2 "जाहि पृष्ठक अंश सब अहाँक ऑनलाइन गतिविधि कें ट्रैक करैत अछि तकरा सब कें ब्लॉक क\u0027 देल गेल अछि.">
 <!-- Common mixed and tracking content strings in site identity popup -->
 
 <!ENTITY learn_more "आओर जानू">
