@@ -420,11 +420,14 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      These two strings are used to build the header above the list of one-click
      search providers:  "Search for <used typed keywords> with:" -->
 
+<!ENTITY searchFor.label              "దీని కొరకు అన్వేషించు ">
+<!ENTITY searchWith.label             " దీనితో:">
 <!-- LOCALIZATION NOTE (searchWithHeader.label):
      The wording of this string should be as close as possible to
      searchFor.label and searchWith.label. This string will be used instead of
      them when the user has not typed any keyword. -->
-
+<!ENTITY searchWithHeader.label       "దీనితో అన్వేషించు:">
+<!ENTITY changeSearchSettings.button  "అన్వేషణ అమర్పులను మార్చు">
 
 <!ENTITY tabView.commandkey           "e">
 
@@ -736,7 +739,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY customizeMode.lwthemes.menuManage.accessKey "M">
 <!ENTITY customizeMode.lwthemes.menuGetMore "మరిన్ని థీమ్స్ పొందండి">
 <!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "G">
-
+<!ENTITY customizeMode.deveditionTheme.label2 "అభివృద్దికారి సంచిక థీమ్ ఉపయోగించు">
 
 <!ENTITY social.chatBar.commandkey "c">
 <!ENTITY social.chatBar.label "సంభాషణలపై దృష్టిసారించు">

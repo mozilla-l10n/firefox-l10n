@@ -197,12 +197,20 @@
 <!ENTITY netmonitorUI.timings.receive     "స్వీకరిస్తున్నది:">
 <!-- LOCALIZATION NOTE (netmonitorUI.security.error): This is the label displayed
   -  in the security tab if a security error prevented the connection. -->
+
+<!ENTITY netmonitorUI.security.error      "ఒక దోషం ఎదురైంది:">
 <!-- LOCALIZATION NOTE (netmonitorUI.security.protocolVersion): This is the label displayed
   -  in the security tab describing TLS/SSL protocol version. -->
+
+<!ENTITY netmonitorUI.security.protocolVersion "ప్రొటోకాల్ వర్షన్:">
 <!-- LOCALIZATION NOTE (netmonitorUI.security.cipherSuite): This is the label displayed
   -  in the security tab describing the cipher suite used to secure this connection. -->
+
+<!ENTITY netmonitorUI.security.cipherSuite "సైఫర్ సూట్:">
 <!-- LOCALIZATION NOTE (netmonitorUI.security.hsts): This is the label displayed
   -  in the security tab describing the usage of HTTP Strict Transport Security. -->
+
+<!ENTITY netmonitorUI.security.hsts "HTTP స్క్రిప్ట్ ట్రాన్స్‌పోర్ట్ సెక్యూరిటి:">
 <!-- LOCALIZATION NOTE (netmonitorUI.security.hpkp): This is the label displayed
   -  in the security tab describing the usage of Public Key Pinning. -->
 <!-- LOCALIZATION NOTE (netmonitorUI.security.connection): This is the label displayed
