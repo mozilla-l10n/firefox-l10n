@@ -4,15 +4,15 @@
 
 <!ENTITY defaultSearchEngine.label             "Maschina da tschertgar da standard">
 
-<!ENTITY chooseYourDefaultSearchEngine.label   "Tscherna tia maschina da tschertgar da standard. &brandShortName; utilisescha ella en la trav da navigar, la trav da tschertgar e la pagina da partenza.">
+<!ENTITY chooseYourDefaultSearchEngine.label   "Tscherna tia maschina da tschertgar da standard. &brandShortName; l'utilisescha en la trav d'adressas, la trav da tschertgar e la pagina da partenza.">
 
 <!ENTITY provideSearchSuggestions.label        "Porscher propostas da tschertgar">
 <!ENTITY provideSearchSuggestions.accesskey    "s">
 
 
-<!ENTITY oneClickSearchEngines.label           "Maschinas da tschertgar cun in clic">
+<!ENTITY oneClickSearchEngines.label           "Maschinas da tschertgar cun-in-clic">
 
-<!ENTITY chooseWhichOneToDisplay.label         "La trav da tschertgar ta lascha tschertgar directamain cun maschinas da tschertgar. Tscherna las qualas duain vegnir mussadas.">
+<!ENTITY chooseWhichOneToDisplay.label         "La trav da tschertgar ta pussibilitescha da tschertgar directamain era cun autras maschinas da tschertgar. Tscherna tgeninas che duain vegnir mussadas.">
 
 <!ENTITY engineNameColumn.label                "Maschina da tschertgar">
 <!ENTITY engineKeywordColumn.label             "Chavazzin">

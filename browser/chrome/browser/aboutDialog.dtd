@@ -34,7 +34,7 @@
 <!ENTITY community.creditsLink      "communitad globala">
 <!ENTITY community.end3             " che lavura communablamain per che l'internet resta avert, public ed accessibel a tuts.">
 
-<!ENTITY helpus.start               "Levas gidar? ">
+<!ENTITY helpus.start               "Vuls gidar? ">
 <!-- LOCALIZATION NOTE (helpus.donateLink): This is a link title that links to https://sendto.mozilla.org/page/contribute/Give-Now?source=mozillaorg_default_footer&ref=firefox_about&utm_campaign=firefox_about&utm_source=firefox&utm_medium=referral&utm_content=20140929_FireFoxAbout. -->
 <!ENTITY helpus.donateLink          "Fa ina donaziun">
 <!ENTITY helpus.middle              " u ">
