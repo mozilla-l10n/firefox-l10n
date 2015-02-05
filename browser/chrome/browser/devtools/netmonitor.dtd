@@ -197,8 +197,12 @@
 <!ENTITY netmonitorUI.timings.receive     "ಸ್ವೀಕರಿಸಲಾಗುತ್ತಿದೆ:">
 <!-- LOCALIZATION NOTE (netmonitorUI.security.error): This is the label displayed
   -  in the security tab if a security error prevented the connection. -->
+
+<!ENTITY netmonitorUI.security.error      "ಒಂದು ದೋಷ ಎದುರಾಗಿದೆ.">
 <!-- LOCALIZATION NOTE (netmonitorUI.security.protocolVersion): This is the label displayed
   -  in the security tab describing TLS/SSL protocol version. -->
+
+<!ENTITY netmonitorUI.security.protocolVersion "ಪ್ರೊಟೋಕಾಲ್ ಆವೃತ್ತಿ:">
 <!-- LOCALIZATION NOTE (netmonitorUI.security.cipherSuite): This is the label displayed
   -  in the security tab describing the cipher suite used to secure this connection. -->
 <!-- LOCALIZATION NOTE (netmonitorUI.security.hsts): This is the label displayed

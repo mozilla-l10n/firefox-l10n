@@ -180,7 +180,7 @@
 <!ENTITY options.sourceeditor.autoclosebrackets.label   "ಆವರಣ ಚಿಹ್ನೆಗಳನ್ನು ಸ್ವಯಂಚಾಲಿತವಾಗಿ ಮುಚ್ಚು">
 <!ENTITY options.sourceeditor.autoclosebrackets.tooltip "ಮುಚ್ಚುವ ಆವರಣ ಚಿಹ್ನೆಗಳನ್ನು ಸ್ವಯಂಚಾಲಿತವಾಗಿ ಸೇರಿಸು">
 <!ENTITY options.sourceeditor.expandtab.label           "ಖಾಲಿಜಾಗಗಳನ್ನು ಬಳಸಿಕೊಂಡು ಇಂಡೆಂಟ್ ಮಾಡು">
-
+<!ENTITY options.sourceeditor.expandtab.tooltip         "ಟ್ಯಾಬ್ ಚಿಹ್ನೆಯ ಬದಲಿಗೆ ಖಾಲಿ ಜಾಗಗಳನ್ನು ಬಳಸು">
 <!ENTITY options.sourceeditor.tabsize.label             "ಟ್ಯಾಬ್‌ನ ಗಾತ್ರ">
 <!ENTITY options.sourceeditor.tabsize.accesskey         "T">
 <!ENTITY options.sourceeditor.keybinding.label          "ಕೀಲಿಬೈಂಡಿಂಗ್‌ಗಳು">

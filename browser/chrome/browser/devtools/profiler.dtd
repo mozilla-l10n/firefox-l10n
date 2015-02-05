@@ -10,6 +10,10 @@
   - documentation on web development on the web. -->
 <!-- LOCALIZATION NOTE (profilerUI.emptyNotice1/2): This is the label shown
   -  in the call list view when empty. -->
+
+
+
+<!ENTITY profilerUI.emptyNotice1    "ಮೇಲೆ ಕ್ಲಿಕ್ ಮಾಡಿ">
 <!ENTITY profilerUI.emptyNotice2    "JavaScript ಕಾರ್ಯಭಾರದ ಕರೆಗಳನ್ನು ರೆಕಾರ್ಡ್ ಮಾಡಲು ಆರಂಭಿಸಲು ಒತ್ತಬೇಕಿರುವ ಗುಂಡಿ.">
 <!-- LOCALIZATION NOTE (profilerUI.stopNotice1/2): This is the label shown
   -  in the call list view while recording a profile. -->
