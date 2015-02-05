@@ -12,21 +12,22 @@
 <!ENTITY projectMenu_selectApp_label "ಆಪ್ ಅನ್ನು ತೆರೆ...">
 <!ENTITY projectMenu_selectApp_accesskey "O">
 <!ENTITY projectMenu_play_label "ಅನುಸ್ಥಾಪಿಸು ಮತ್ತು ಚಲಾಯಿಸು">
-
+<!ENTITY projectMenu_play_accesskey "I">
 <!ENTITY projectMenu_stop_label "ಆಪ್ ಅನ್ನು ನಿಲ್ಲಿಸು">
 <!ENTITY projectMenu_stop_accesskey "S">
 <!ENTITY projectMenu_debug_label "ಆಪ್ ಅನ್ನು ಡೀಬಗ್ ಮಾಡು">
 <!ENTITY projectMenu_debug_accesskey "D">
 <!ENTITY projectMenu_remove_label "ಯೋಜನೆಯನ್ನು ತೆಗೆದುಹಾಕು">
+<!ENTITY projectMenu_remove_accesskey "R">
+<!ENTITY projectMenu_showPrefs_label "ಆದ್ಯತೆಗಳು">
+<!ENTITY projectMenu_showPrefs_accesskey "e">
+<!ENTITY projectMenu_manageComponents_label "ಅಧಿಕ ಘಟಕಗಳನ್ನು ನಿರ್ವಹಿಸಿ">
+<!ENTITY projectMenu_manageComponents_accesskey "M">
 
-
-
-
-
-
-
+<!ENTITY runtimeMenu_label "ಚಾಲನಾಸಮಯ">
+<!ENTITY runtimeMenu_accesskey "R">
 <!ENTITY runtimeMenu_disconnect_label "ಸಂಪರ್ಕ ತೆಗೆ">
-
+<!ENTITY runtimeMenu_disconnect_accesskey "D">
 <!ENTITY runtimeMenu_showPermissionTable_label "ಅನುಮತಿಗಳ ಕೋಷ್ಟಕ">
 <!ENTITY runtimeMenu_showPermissionTable_accesskey "P">
 <!ENTITY runtimeMenu_takeScreenshot_label "ತೆರೆಚಿತ್ರ">
@@ -41,18 +42,22 @@
 <!ENTITY viewMenu_label "ನೋಟ">
 <!ENTITY viewMenu_accesskey "V">
 <!ENTITY viewMenu_toggleEditor_label "ಸಂಪಾದಕವನ್ನು ಹೊರಳಿಸು">
-
+<!ENTITY viewMenu_toggleEditor_accesskey "E">
 <!ENTITY viewMenu_zoomin_label "ಹಿರಿದಾಗಿಸು">
-
+<!ENTITY viewMenu_zoomin_accesskey "I">
 <!ENTITY viewMenu_zoomout_label "ಕಿರಿದಾಗಿಸು">
+<!ENTITY viewMenu_zoomout_accesskey "O">
+<!ENTITY viewMenu_resetzoom_label "ಹಿಂದಿನ ಸ್ಥಿತಿ ಜೂಮ್">
 
 
-
-
+<!ENTITY projectButton_label "R">
 
 <!-- We try to repicate Firefox' bindings: -->
 <!-- quit app -->
+
+<!ENTITY key_quit "W">
 <!-- open menu -->
+<!ENTITY key_showProjectPanel "O">
 <!-- reload app -->
 <!-- show toolbox -->
 <!ENTITY key_toggleToolbox "VK_F12">
@@ -76,10 +81,10 @@
 
 <!ENTITY details_valid_header "ಮಾನ್ಯ">
 
-
+<!ENTITY details_error_header "ದೋಷಗಳು">
 <!ENTITY details_description "ವಿವರಣೆ">
-
-
+<!ENTITY details_location "ಸ್ಥಳ">
+<!ENTITY details_manifestURL "ಅನ್ವಯ ID">
 
 <!-- New App -->
 

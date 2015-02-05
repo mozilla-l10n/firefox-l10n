@@ -17,6 +17,8 @@
 <!-- LOCALIZATION NOTE (timelineUI.memoryCheckbox.label): This string
   -  is displayed next to a checkbox determining whether or not memory
   -  measurements are enabled. -->
+
+<!ENTITY timelineUI.memoryCheckbox.label "ಮೆಮೊರಿ">
 <!-- LOCALIZATION NOTE (timelineUI.memoryCheckbox.tooltip): This string
   -  is displayed next to the memory checkbox -->
 <!-- LOCALIZATION NOTE (timelineUI.filterButton.tooltip): This string
