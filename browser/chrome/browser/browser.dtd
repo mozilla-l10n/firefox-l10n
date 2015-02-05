@@ -794,11 +794,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      a CSS length value. -->
 <!ENTITY pluginNotification.width "28em">
 
-<!ENTITY tabCrashed.header "Karta zlyhala">
-<!ENTITY tabCrashed.message "Tak toto je nepríjemné. Pokúsili sme sa zobraziť túto webovú stránku, ale stránka bohužiaľ neodpovedá.">
-<!ENTITY tabCrashed.checkSendReport "Oznámiť spoločnosti &vendorShortName; toto zlyhanie, aby ho bolo možné opraviť.">
-<!ENTITY tabCrashed.tryAgain "Skúsiť znova">
-
 <!ENTITY uiTour.infoPanel.close "Zavrieť">
 
 <!ENTITY appMenuSidebars.label         "Bočné panely">
