@@ -85,7 +85,7 @@
 <!ENTITY details_description "ವಿವರಣೆ">
 <!ENTITY details_location "ಸ್ಥಳ">
 <!ENTITY details_manifestURL "ಅನ್ವಯ ID">
-
+<!ENTITY details_removeProject_button "ಯೋಜನೆ ತೆಗೆದುಹಾಕಿ">
 <!-- New App -->
 
 
