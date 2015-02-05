@@ -171,6 +171,9 @@
 <!ENTITY fxaccount_confirm_account_verification_link_sent2 "నిర్ధారణ కోరుతీ ఈమెయిల్ పంపెను">
 <!ENTITY fxaccount_confirm_account_verification_link_not_sent2 "నిర్ధారణ కోరుతూ ఈమెయిల్ పంపలేక పోయెను">
 
+
+
+
 <!ENTITY fxaccount_sign_in_sub_header "ప్రవేశించు">
 <!ENTITY fxaccount_sign_in_button_label "ప్రవేశించు">
 <!ENTITY fxaccount_sign_in_forgot_password "సంకేతపదం మరచిపోయారా?">
@@ -180,9 +183,13 @@
 <!ENTITY fxaccount_account_verified_sub_header "ఖాతా నిర్ధారణ అయ్యింది">
 <!ENTITY fxaccount_account_verified_description2 "మీ దత్తాంశం సింక్ అగుట ప్రారంబించబడును.">
 
+
 <!ENTITY fxaccount_update_credentials_header "ప్రవేశించు">
 <!ENTITY fxaccount_update_credentials_button_label "ప్రవేశించు">
 <!ENTITY fxaccount_update_credentials_unknown_error "ప్రవేశించ లేకపోయాం">
+
+
+
 
 <!ENTITY fxaccount_status_header2 "ఫైర్‌ఫాక్స్ ఖాతా">
 <!ENTITY fxaccount_status_signed_in_as "ఇలా ప్రవేశించారు">
@@ -197,7 +204,9 @@
 <!ENTITY fxaccount_status_needs_credentials "అనుసంధానం కాలేదు. ప్రవేశించుటకు తట్టండి.">
 <!ENTITY fxaccount_status_needs_upgrade "ప్రవేశించుటకు మీరు &brandShortName; కు నవీకరించాలి.">
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled "&syncBrand.shortName.label; అమర్పు పూర్తయ్యింది; కానీ ఆటోమెటిగ్గా సింక్రనించడంలేదు. ఆండ్రాయిడ్ అమరికలు &gt; డేటా వాడుక వద్ద “ఆటో-సింక్ డేటా”ను ఎంచుకోండి.">
+
 <!ENTITY fxaccount_status_needs_account_enabled "&syncBrand.shortName.label; అమర్పు పూర్తయ్యిందిచ కానీ ఆటోమెటిగ్గా సిక్రనించడం లేదు. సింక్రనించడం మొదలుపెట్టడానికి తాకండి.">
+
 <!ENTITY fxaccount_status_bookmarks "ఇష్టాంశాలు">
 <!ENTITY fxaccount_status_history "చరిత్ర">
 <!ENTITY fxaccount_status_passwords "సంకేతపదాలు">
@@ -246,7 +255,10 @@
 <!ENTITY fxaccount_remote_error_UNKNOWN_ERROR "ఏదో సమస్య ఉంది">
 <!ENTITY fxaccount_remote_error_COULD_NOT_CONNECT "నెట్వర్కునకు అనుసంధానం కాలేదు">
 
+
 <!ENTITY fxaccount_sync_sign_in_error_notification_title2 "&syncBrand.shortName.label; అనుసంధానమై లేదు">
 <!-- Localization note: the format string below will be replaced
      with the Firefox Account's email address. -->
-<!ENTITY fxaccount_sync_sign_in_error_notification_text2 "&formatS; వలె ప్రవేశించడానికి తాకండి">
+
+<!-- Localization note: the format string below will be replaced
+     with the Firefox Account's email address. -->
