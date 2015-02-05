@@ -21,8 +21,8 @@
 
 <!ENTITY  reloadTab.label                    "Hesɗitin Tabbere">
 <!ENTITY  reloadTab.accesskey                "H">
-
-
+<!ENTITY  reloadAllTabs.label                "Loowtu Tabbe Fof">
+<!ENTITY  reloadAllTabs.accesskey            "F">
 <!-- LOCALIZATION NOTE (closeTabsToTheEnd.label): This should indicate the
 direction in which tabs are closed, i.e. locales that use RTL mode should say
 left instead of right. -->
@@ -45,10 +45,10 @@ can reach it easily. -->
 <!ENTITY  moveToNewGroup.label               "Dentol Kesol">
 <!ENTITY  moveToNewWindow.label              "Dirtin to Henorde Hesere">
 <!ENTITY  moveToNewWindow.accesskey          "H">
-
-
-
-
+<!ENTITY  bookmarkAllTabs.label              "Maantoto Tabbe Kala…">
+<!ENTITY  bookmarkAllTabs.accesskey          "K">
+<!ENTITY  undoCloseTab.label                 "Firtu Uddol Tabbere">
+<!ENTITY  undoCloseTab.accesskey             "F">
 <!ENTITY  closeTab.label                     "Uddu Tabbere">
 <!ENTITY  closeTab.accesskey                 "U">
 
@@ -82,11 +82,12 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY personalbarCmd.accesskey "M">
 <!ENTITY bookmarksToolbarItem.label "Maantorto Teme Palal Kuutorɗe">
 
-
-
-
-
-
+<!ENTITY toolbarContextMenu.reloadAllTabs.label "Hesɗitin Tabbe Fof">
+<!ENTITY toolbarContextMenu.reloadAllTabs.accesskey "F">
+<!ENTITY toolbarContextMenu.bookmarkAllTabs.label "Maantoto Tabbe Kala…">
+<!ENTITY toolbarContextMenu.bookmarkAllTabs.accesskey "K">
+<!ENTITY toolbarContextMenu.undoCloseTab.label "Firtu Uddol Tabbere">
+<!ENTITY toolbarContextMenu.undoCloseTab.accesskey "F">
 
 <!ENTITY pageSourceCmd.label "Dokkol Ɗaɗol Hello">
 <!ENTITY pageSourceCmd.accesskey "a">
@@ -94,8 +95,8 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY pageInfoCmd.label "Humpito Hello">
 <!ENTITY pageInfoCmd.accesskey "H">
 <!ENTITY pageInfoCmd.commandkey "i">
-
-
+<!ENTITY mirrorTabCmd.label "Daartin Tabbere">
+<!ENTITY mirrorTabCmd.accesskey "D">
 <!-- LOCALIZATION NOTE (enterFullScreenCmd.label, exitFullScreenCmd.label):
 These should match what Safari and other Apple applications use on OS X Lion. -->
 <!ENTITY enterFullScreenCmd.label "Naat Njaajeendi Yaynirde">
@@ -144,17 +145,19 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (findShareServices.label):
   -  Use the unicode ellipsis char, \u2026,
   -  or use "..." if \u2026 doesn't suit traditions in your locale. -->
+<!ENTITY findShareServices.label "Yiytu carwe Lollinol goɗɗe…">
 <!ENTITY sharePageCmd.label "Lollin Ngoo Hello">
 <!ENTITY sharePageCmd.commandkey "L">
 <!ENTITY sharePageCmd.accesskey "o">
 <!-- LOCALIZATION NOTE (shareLink.accesskey): must be different than the following share access keys -->
-
-
-
-
-
-
-
+<!ENTITY shareLink.label "Lollin Ngol Jokkol">
+<!ENTITY shareLink.accesskey "n">
+<!ENTITY shareImage.label "Lollin Ngal Natal">
+<!ENTITY shareImage.accesskey "a">
+<!ENTITY shareSelect.label "Lollin Labannde">
+<!ENTITY shareSelect.accesskey "b">
+<!ENTITY shareVideo.label "Lollin Oo widewoo">
+<!ENTITY shareVideo.accesskey "w">
 <!ENTITY feedsMenu.label "Lulno">
 <!ENTITY subscribeToPageMenupopup.label "Lulno e ngoo Hello">
 <!ENTITY subscribeToPageMenuitem.label "Lulno e ngoo Hello…">
@@ -216,8 +219,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY addons.label                 "Ɓeyditte">
 <!ENTITY addons.accesskey             "Ɓ">
 <!ENTITY addons.commandkey            "A">
-
-
+<!ENTITY webapps.label                "Jaaɓɗe">
+<!ENTITY webapps.accesskey            "ɗ">
 
 <!ENTITY webDeveloperMenu.label       "Dokkotooɗo Geese">
 <!ENTITY webDeveloperMenu.accesskey   "D">
@@ -242,7 +245,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY responsiveDesignTool.label   "Jiytol Ŋeñto Nootoro">
 <!ENTITY responsiveDesignTool.accesskey "J">
-
+<!ENTITY responsiveDesignTool.commandkey "M">
 
 <!ENTITY eyedropper.label   "Toɓɓitorde">
 <!ENTITY eyedropper.accesskey "o">
@@ -270,6 +273,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
   -  application menu item that opens the browser content toolbox UI in the Tools menu.
   -  This toolbox allows to debug the chrome of the content process in multiprocess builds.  -->
 
+<!ENTITY browserContentToolboxMenu.label     "Kuutorɗe Loowdi Wanngorde">
+
 <!ENTITY devToolbarCloseButton.tooltiptext "Uddu Palal Topayɓe">
 <!ENTITY devToolbarMenu.label              "Palal Topotooɓe">
 <!ENTITY devToolbarMenu.accesskey          "o">
@@ -277,7 +282,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY devAppMgrMenu.accesskey           "a">
 <!ENTITY webide.label                      "WebIDE">
 <!ENTITY webide.accesskey                  "W">
-
+<!ENTITY webide.keycode                    "VK_F8">
 <!ENTITY webide.keytext                    "F8">
 <!ENTITY devToolbar.keycode                "VK_F2">
 <!ENTITY devToolbar.keytext                "F2">
@@ -415,11 +420,14 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      These two strings are used to build the header above the list of one-click
      search providers:  "Search for <used typed keywords> with:" -->
 
+<!ENTITY searchFor.label              "Yiylo ">
+<!ENTITY searchWith.label             " e:">
 <!-- LOCALIZATION NOTE (searchWithHeader.label):
      The wording of this string should be as close as possible to
      searchFor.label and searchWith.label. This string will be used instead of
      them when the user has not typed any keyword. -->
-
+<!ENTITY searchWithHeader.label       "Yiylo e:">
+<!ENTITY changeSearchSettings.button  "Wayly Teelte Njiilaw">
 
 <!ENTITY tabView.commandkey           "e">
 
@@ -495,8 +503,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY emailImageCmd.accesskey      "N">
 <!ENTITY emailVideoCmd.label          "Neldu Widewoo e Iimeel…">
 <!ENTITY emailVideoCmd.accesskey      "W">
-
-
+<!ENTITY castVideoCmd.label           "Neldu Widewoo To Kaɓirgol">
+<!ENTITY castVideoCmd.accesskey       "T">
 <!ENTITY emailAudioCmd.label          "Neldu Ojoo e Iimeel…">
 <!ENTITY emailAudioCmd.accesskey      "o">
 <!ENTITY playPluginCmd.label          "Hurmin ndee seŋre">
@@ -711,10 +719,11 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY social.learnMore.accesskey "Ɓ">
 <!ENTITY social.closeNotificationItem.label "Wonaa Jooni">
 
-
-
-
-
+<!ENTITY social.directory.label "Runggere Caasnugol">
+<!ENTITY social.directory.text "Aɗa waawi Lollinde carwe iwɗe e ndee runngere.">
+<!ENTITY social.directory.button "Naw am toon!">
+<!ENTITY social.directory.introText "Dobo e carwol ngam ɓeydude ɗem to &brandShortName;.">
+<!ENTITY social.directory.viewmore.text "Yiy Goɗɗe">
 
 <!ENTITY customizeMode.tabTitle "Heerto &brandShortName;">
 <!ENTITY customizeMode.menuAndToolbars.header2 "Kaɓirɗe ɓeeyditorɗe e seedtino">
@@ -723,14 +732,14 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY customizeMode.restoreDefaults "Artir Goowaaɗe">
 <!ENTITY customizeMode.toolbars "Hollu / Suuɗ pale kaɓirɗe">
 <!ENTITY customizeMode.titlebar "Tiitoonde palal">
-
-
-
-
-
-
-
-
+<!ENTITY customizeMode.lwthemes "Ciŋkooje">
+<!ENTITY customizeMode.lwthemes.myThemes "Ciŋkooje Am">
+<!ENTITY customizeMode.lwthemes.recommended "Basiyaaɗi">
+<!ENTITY customizeMode.lwthemes.menuManage "Toppito">
+<!ENTITY customizeMode.lwthemes.menuManage.accessKey "M">
+<!ENTITY customizeMode.lwthemes.menuGetMore "Heɓ Ciŋkooje Goɗɗe">
+<!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "G">
+<!ENTITY customizeMode.deveditionTheme.label2 "Huutoro Ciŋkooje Developer Edition">
 
 <!ENTITY social.chatBar.commandkey "c">
 <!ENTITY social.chatBar.label "Toɓɓu jeewte">
@@ -745,27 +754,30 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY getUserMedia.selectCamera.accesskey "K">
 <!ENTITY getUserMedia.selectMicrophone.label "Mikkoroo lollinteeɗo:">
 <!ENTITY getUserMedia.selectMicrophone.accesskey "M">
-
+<!ENTITY getUserMedia.allWindowsShared.message "Kala henorde yiyotonde e yaynirde maaɗa maa lolline.">
 <!-- Bad Content Blocker Doorhanger Notification -->
 
+<!ENTITY badContentBlocked.moreinfo "Lowe ɓurɗe heewde maa mbaaw wanngeede hay so tawii ndii loowdi daaƴaama.">
 
-
-
-
-
-
-
-
+<!ENTITY mixedContentBlocked2.message "Loowdi hisaani">
+<!ENTITY mixedContentBlocked2.moreinfo "Geɗe ɗe nganndaaka gonɗe e ndee lowre ndaaƴaama.">
+<!ENTITY mixedContentBlocked2.learnMore "Ɓeydu Humpito">
+<!ENTITY mixedContentBlocked2.options "Cuɓe">
+<!ENTITY mixedContentBlocked2.unblock.label "Daaƴ kisnugol e soo sahaa">
+<!ENTITY mixedContentBlocked2.unblock.accesskey "D">
+<!ENTITY mixedContentBlocked2.block.label "Hurmin kisnugol">
+<!ENTITY mixedContentBlocked2.block.accesskey "H">
+<!ENTITY mixedContentBlocked2.disabled.message "Kisnugol koko daaƴaa">
 
 <!ENTITY trackingContentBlocked.message "Rewindagol">
-
-
-
-
-
-
-
-
+<!ENTITY trackingContentBlocked.moreinfo "Geɗe ngoo hello ndewindotooɗe golle maa e geese ndaaƴaama.">
+<!ENTITY trackingContentBlocked.learnMore "Ɓeydu Humpito">
+<!ENTITY trackingContentBlocked.options "Cuɓe">
+<!ENTITY trackingContentBlocked.unblock2.label "Daaƴ kisnugol e ndee lowre">
+<!ENTITY trackingContentBlocked.unblock2.accesskey "D">
+<!ENTITY trackingContentBlocked.block.label "Hurmin kisnugol">
+<!ENTITY trackingContentBlocked.block.accesskey "H">
+<!ENTITY trackingContentBlocked.disabled.message "Kisnugol rewindo koko daaƴaa">
 
 <!ENTITY pointerLock.notification.message "Ñoƴƴu ESC tuma fof ngam hollude ɗum goɗngol.">
 
@@ -786,7 +798,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY tabCrashed.header "Tabbere yannde">
 <!ENTITY tabCrashed.message "Eh, ɗuum de ena haawnii. Min etiima hollirde ngoo hello, kono ngo jaɓaani.">
-<!ENTITY tabCrashed.checkSendReport "Wi'i &vendorShortName; ko feewti e nguu njanngu haa feewta.">
+<!ENTITY tabCrashed.checkSendReport "Haalan &vendorShortName; ko feewti e nguu njanngu haa feewta.">
 <!ENTITY tabCrashed.tryAgain "Enndit">
 
 <!ENTITY uiTour.infoPanel.close "Uddu">
@@ -798,20 +810,25 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      The .mainTimeframeDesc string combined with any of the 3 others is meant to form a complete sentence, e.g. "Forget the last: Five minutes".
      Please ensure that this remains the case in the translation. -->
 
-
-
+<!ENTITY panicButton.view.mainTimeframeDesc       "Yejjit ko ɓenni e:">
+<!ENTITY panicButton.view.5min                    "Hojomaaji joy">
+<!ENTITY panicButton.view.2hr                     "Waktuuji ɗiɗi">
+<!ENTITY panicButton.view.day                     "Waktuuji 24">
 <!-- LOCALIZATION NOTE: (panicButton.view.mainLabel, panicButton.view.deleteCookies, panicButton.view.deleteHistory, panicButton.view.deleteTabsAndWindows, panicButton.view.openNewWindow):
      The .mainActionDesc string combined with any of the 4 others is meant to form a complete sentence, e.g. "Proceeding will: Delete Recent Cookies".
      Note also that the deleteCookies, deleteHistory and deleteTabsAndWindows strings include <html:strong> tags for emphasis on the words "Cookies", "History", "Tabs" and "Windows".
      The translation should do the same. -->
 
-
-
-
+<!ENTITY panicButton.view.mainActionDesc          "Nana waɗa yamiroore maa:">
+<!ENTITY panicButton.view.deleteCookies           "Momtu <html:strong>Kukiije</html:strong> Cakkitiiɗe">
+<!ENTITY panicButton.view.deleteHistory           "Momtu <html:strong>Aslol</html:strong> Cakkitiingol">
+<!ENTITY panicButton.view.deleteTabsAndWindows    "Uddu <html:strong>Tabbe</html:strong> e <html:strong>Kenorɗe</html:strong> fof">
+<!ENTITY panicButton.view.openNewWindow           "Uddit Henorɗe hesere laaɓnde">
 
 <!ENTITY panicButton.view.undoWarning             "Ngal baɗal waawaa firteede.">
+<!ENTITY panicButton.view.forgetButton            "Yejjit!">
 
-
-
-
+<!ENTITY panicButton.thankyou.msg1                "Aslol maa cakkitiingol momtaama.">
+<!ENTITY panicButton.thankyou.msg2                "Wanngo e suturo!">
+<!ENTITY panicButton.thankyou.buttonlabel         "Jaaraama!">
 

@@ -121,8 +121,8 @@
 <!ENTITY certs.auto.accesskey            "L">
 <!ENTITY certs.ask                       "Naamno-mi e sahaa kala">
 <!ENTITY certs.ask.accesskey             "N">
-
-
+<!ENTITY enableOCSP.label                "Ɗaɓɓitere OCSP carworɗe jaaborɗe ena teeŋtina moƴƴugol seedamfaaje">
+<!ENTITY enableOCSP.accesskey            "Ɗ">
 <!ENTITY viewCerts.label                 "Hollu Seedamfaaji">
 <!ENTITY viewCerts.accesskey             "d">
 <!ENTITY viewSecurityDevices.label       "Kaɓirɗi Kisal">
