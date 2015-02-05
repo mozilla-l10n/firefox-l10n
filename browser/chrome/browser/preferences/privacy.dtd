@@ -6,7 +6,7 @@
 
 <!ENTITY dntTrackingNotOkay.label2      "Infurmar websites ch'jau na vul betg ch'ellas suondan mes fastizs">
 <!ENTITY dntTrackingNotOkay.accesskey   "n">
-<!ENTITY trackingProtection.label       "Impedir paginas da suandar mes fastiz">
+<!ENTITY trackingProtection.label       "Impedir che paginas suondian mes fastizs">
 <!ENTITY trackingProtection.accesskey   "m">
 <!ENTITY trackingProtectionLearnMore.label "Dapli infurmaziuns">
 <!ENTITY doNotTrackInfo.label           "Dapli infurmaziuns">
