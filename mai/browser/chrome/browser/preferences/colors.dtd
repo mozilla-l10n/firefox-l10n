@@ -6,8 +6,11 @@
 <!ENTITY  window.width                    "38em">
 <!ENTITY  window.macWidth                 "41em">
 
-<!ENTITY  allowPagesToUse.label           "हमर चुनलका कए बदला पृष्ठसभकेँ अपन रँग चुनबाक अनुमति दिअ">
-<!ENTITY  allowPagesToUse.accesskey       "A">
+
+
+<!ENTITY  overridePageColors.always.label "हमेशा">
+
+<!ENTITY  overridePageColors.never.label  "कखनो नहि">
 
 <!ENTITY  color                           "पाठ आ पृष्ठभूमि">
 <!ENTITY  textColor.label                 "पाठ:">
