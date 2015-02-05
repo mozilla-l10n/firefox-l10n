@@ -167,27 +167,29 @@
 <!-- Localization note: &formatS; is the Firefox Account's email address. -->
 <!ENTITY fxaccount_confirm_account_verification_link "&formatS; मे जाँच कड़ी भेजल गेल अछि">
 <!ENTITY fxaccount_confirm_account_resend_email "इमेल फेर पठाबू">
-
+<!ENTITY fxaccount_confirm_account_change_email "अहि इ-मेलक पता बिसरि गेलहुं?">
 <!ENTITY fxaccount_confirm_account_verification_link_sent2 "सत्यापन इमेल भेजल गेल">
 <!ENTITY fxaccount_confirm_account_verification_link_not_sent2 "सत्यापित इमेल भेजल नहि जाए सकल">
+<!ENTITY fxaccount_resend_unlock_code_button_label "ताला खोलबाक इ-मेल फेर पठाबू">
+<!ENTITY fxaccount_unlock_code_sent "खाताक ताला खोलबाक इ-मेल पठाबू">
+<!ENTITY fxaccount_unlock_code_not_sent "खाताक ताला खोलबाक इ-मेल पठाओल नहि जा सकल">
 
-
-
-
-<!ENTITY fxaccount_sign_in_sub_header "साइन इन">
-<!ENTITY fxaccount_sign_in_button_label "साइन इन">
-<!ENTITY fxaccount_sign_in_forgot_password "गुड़किल्ली भूलि गेल?">
+<!ENTITY fxaccount_sign_in_sub_header "साइन इन करु">
+<!ENTITY fxaccount_sign_in_button_label "साइन इन करु">
+<!ENTITY fxaccount_sign_in_forgot_password "पासवर्ड बिसरि गेलहुं?">
 <!ENTITY fxaccount_sign_in_create_account_instead "एकटा खाता बनाउ">
 <!ENTITY fxaccount_sign_in_unknown_error "साइन-इन नहि कए सकल">
 
 <!ENTITY fxaccount_account_verified_sub_header "खाता सत्यापित कएल गेल">
-<!ENTITY fxaccount_account_verified_description2 "अहाँक आकड़े किछु कालक लेल सिंक होए बला अछि.">
+<!ENTITY fxaccount_account_verified_description2 "अहाँक आँकड़ा किछु कालक लेल तुल्यकालिक होए बला अछि.">
 
+<!ENTITY fxaccount_migration_finished_header "उन्नयन समाप्त भेल">
 
-<!ENTITY fxaccount_update_credentials_header "साइन इन">
-<!ENTITY fxaccount_update_credentials_button_label "साइन इन">
-<!ENTITY fxaccount_update_credentials_unknown_error "साइन इन नहि कए सकल">
+<!ENTITY fxaccount_update_credentials_header "साइन इन करु">
+<!ENTITY fxaccount_update_credentials_button_label "साइन इन करु">
+<!ENTITY fxaccount_update_credentials_unknown_error "साइन इन नहि कए सकलहुं">
 
+<!ENTITY fxaccount_finish_migrating_header "उन्नयन समाप्त करबाक लेल साइन इन करु">
 
 
 
