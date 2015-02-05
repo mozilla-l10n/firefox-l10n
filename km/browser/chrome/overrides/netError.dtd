@@ -157,4 +157,5 @@ functionality specific to firefox. -->
 <!ENTITY oldSecurityProtocol.longDesc2 "&brandShortName; មិន​អាច​ធានា​ថា​ទិន្នន័យ​របស់​អ្នក​មាន​សុវត្ថិភាព​នៅ​លើ <span id='hostname'></span> ឡើយ ព្រោះ​វា​ប្រើ SSLv3, ពិធីការ​សុវត្ថិភាព​ដែល​បាន​ខូច។">
 <!-- LOCALIZATION NOTE (oldSecurityProtocol.advancedInfo) - Do not translate
      the <span id='errorcode'></span>. -->
-
+<!ENTITY oldSecurityProtocol.advancedInfo "ព័ត៌មាន​កម្រិត​ខ្ពស់៖ <span id='errorcode'></span>">
+<!ENTITY oldSecurityProtocol.learnMore "ស្វែងយល់​បន្ថែម...">
