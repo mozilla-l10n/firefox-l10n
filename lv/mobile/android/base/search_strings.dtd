@@ -2,29 +2,29 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY search_app_name '&brandShortName; meklēšana'>
-
+<!ENTITY search_app_name "&brandShortName; meklēšana">
 <!--  Localization note (search_bar_hint): The &formatS; will be replaced with the name of
       the currently selected search engine. -->
-<!ENTITY search_bar_hint 'Meklet ar &formatS;'>
 
-<!ENTITY search_empty_title2 'Sākt meklēšanu'>
-<!ENTITY search_empty_message 'Ātri atrodiet ko vien vēlaties'>
+<!ENTITY search_bar_hint "Meklet ar &formatS;">
 
+<!ENTITY search_empty_title2 "Sākt meklēšanu">
+<!ENTITY search_empty_message "Ātri atrodiet ko vien vēlaties">
 <!--  Localization note (search_plus_content_description): This is the content description
       for the "+" icon that appears at the end of search suggestions. -->
-<!ENTITY search_plus_content_description 'Pievienot meklēšanas joslai'>
 
-<!ENTITY search_pref_title 'Iestatījumi'>
-<!ENTITY search_pref_button_content_description 'Iestatījumi'>
+<!ENTITY search_plus_content_description "Pievienot meklēšanas joslai">
 
-<!ENTITY pref_clearHistory_confirmation 'Vēsture ir notīrīta'>
-<!ENTITY pref_clearHistory_dialogMessage 'Nodzēst visu meklēšana vēsturi šajā ierīcē?'>
-<!ENTITY pref_clearHistory_title 'Dzēst meklēšanas vēsturi'>
+<!ENTITY search_pref_title "Iestatījumi">
+<!ENTITY search_pref_button_content_description "Iestatījumi">
 
-<!ENTITY pref_searchProvider_title 'Meklētājs'>
+<!ENTITY pref_clearHistory_confirmation "Vēsture ir notīrīta">
+<!ENTITY pref_clearHistory_dialogMessage "Nodzēst visu meklēšana vēsturi šajā ierīcē?">
+<!ENTITY pref_clearHistory_title "Dzēst meklēšanas vēsturi">
 
-<!ENTITY search_widget_button_label 'Meklēt'>
+<!ENTITY pref_searchProvider_title "Meklētājs">
 
-<!ENTITY network_error_title 'Nav interneta savienojuma'>
-<!ENTITY network_error_message 'Pieskarieties te, lai pārbaudītu interneta iestatījumus'>
+<!ENTITY search_widget_button_label "Meklēt">
+
+<!ENTITY network_error_title "Nav interneta savienojuma">
+<!ENTITY network_error_message "Pieskarieties te, lai pārbaudītu interneta iestatījumus">
