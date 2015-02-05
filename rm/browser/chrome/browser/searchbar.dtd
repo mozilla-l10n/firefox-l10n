@@ -8,7 +8,7 @@
 <!-- LOCALIZATION NOTE: The SearchHighlight strings are used in the
    - UITour popups that shows on first use of the new search panel. -->
 <!ENTITY SearchHighlight1.title "Tschertgar cun in clic">
-<!ENTITY SearchHighlight1.text "Tschertga questas paginas directamain, senza midar il standard.">
+<!ENTITY SearchHighlight1.text "Tschertgar directamain sin questas paginas, senza midar il standard.">
 
 <!ENTITY SearchHighlight2.title "Propostas furbras">
 <!ENTITY SearchHighlight2.text "Propostas da tia maschina da tschertgar da standard cumparan durant tippar.">

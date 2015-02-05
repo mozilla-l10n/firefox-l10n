@@ -710,10 +710,10 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY social.learnMore.accesskey "i">
 <!ENTITY social.closeNotificationItem.label "Betg ussa">
 
-<!ENTITY social.directory.label "Register per activar">
+<!ENTITY social.directory.label "Register da servetschs">
 <!ENTITY social.directory.text "Ti pos activar servetschs da cundivider en il register.">
-<!ENTITY social.directory.button "Visitar il register!">
-<!ENTITY social.directory.introText "Clicca sin in servetsch per al agiuntar a &brandShortName;.">
+<!ENTITY social.directory.button "Mussar il register">
+<!ENTITY social.directory.introText "Clicca sin in servetsch per l'agiuntar a &brandShortName;.">
 <!ENTITY social.directory.viewmore.text "Mussar dapli">
 
 <!ENTITY customizeMode.tabTitle "Persunalisar &brandShortName;">
@@ -748,9 +748,9 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY getUserMedia.allWindowsShared.message "Tut las fanestras visiblas sin tes visur vegnan cundivididas.">
 
 <!-- Bad Content Blocker Doorhanger Notification -->
-<!ENTITY badContentBlocked.moreinfo "La pli gronda part da las paginas d'internet funcziuneschan era sche quest cuntegn vegn bloccà.">
+<!ENTITY badContentBlocked.moreinfo "La pli gronda part da las paginas d'internet funcziunescha era sche quest cuntegn vegn bloccà.">
 
-<!ENTITY mixedContentBlocked2.message "Cuntegn nun-segir">
+<!ENTITY mixedContentBlocked2.message "Cuntegn betg segirà">
 <!ENTITY mixedContentBlocked2.moreinfo "Intgins elements betg criptads sin questa pagina d'internet èn vegnids bloccads.">
 <!ENTITY mixedContentBlocked2.learnMore "Ulteriuras infurmaziuns">
 <!ENTITY mixedContentBlocked2.options "Opziuns">
@@ -760,15 +760,15 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY mixedContentBlocked2.block.accesskey "E">
 <!ENTITY mixedContentBlocked2.disabled.message "La protecziun è deactivada">
 
-<!ENTITY trackingContentBlocked.message "Suandar fastiz">
-<!ENTITY trackingContentBlocked.moreinfo "Parts da questa pagina che suondan tias activitads online èn vegnidas bloccadas.">
+<!ENTITY trackingContentBlocked.message "Fastizar">
+<!ENTITY trackingContentBlocked.moreinfo "Las parts da questa pagina che suondan tias activitads online èn vegnidas bloccadas.">
 <!ENTITY trackingContentBlocked.learnMore "Ulteriuras infurmaziuns">
 <!ENTITY trackingContentBlocked.options "Opziuns">
 <!ENTITY trackingContentBlocked.unblock2.label "Deactivar la protecziun per questa pagina">
 <!ENTITY trackingContentBlocked.unblock2.accesskey "D">
 <!ENTITY trackingContentBlocked.block.label "Activar la protecziun">
 <!ENTITY trackingContentBlocked.block.accesskey "E">
-<!ENTITY trackingContentBlocked.disabled.message "La protecziun da suandar fastiz è deactivada">
+<!ENTITY trackingContentBlocked.disabled.message "La protecziun cunter il fastizar è deactivada">
 
 <!ENTITY pointerLock.notification.message "Smatga ESC per mussar puspè quai messadi.">
 
