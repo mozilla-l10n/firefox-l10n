@@ -304,7 +304,7 @@ size. -->
 <!ENTITY tabs_private "ឯកជន">
 <!ENTITY tabs_synced "បាន​ធ្វើ​សមកាលកម្ម">
 <!ENTITY set_image_fail "មិន​អាច​កំណត់​រូបភាព">
-
+<!ENTITY set_image_path_fail "មិន​អាច​រក្សាទុក​រូបភាព">
 <!ENTITY set_image_chooser_title "កំណត់​រូបភាព​ជា">
 <!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
@@ -369,6 +369,8 @@ size. -->
      panel on the home page to give the user an estimate of how many minutes it will take to
      read an article. The word "minute" should be abbreviated if possible. -->
 
+<!ENTITY reading_list_time_minutes2 "&formatD; អប្ប.">
+<!ENTITY reading_list_time_over_an_hour "ច្រើនជាង​មួយ​ម៉ោង">
 <!-- Localization note : These strings are used as alternate text for accessibility.
      They are not visible in the UI. -->
 
@@ -406,6 +408,7 @@ size. -->
 <!ENTITY home_most_recent_empty "តំបន់បណ្ដាញ​ដែល​អ្នក​បាន​ទស្សនា​ថ្មីៗ​បំផុត បង្ហាញ​នៅ​ទីនេះ។">
 <!-- Localization note (home_most_recent_emptyhint2): "Psst" is a sound that might be used to attract someone's attention unobtrusively, and intended to hint at Private Browsing to the user.
      The placeholders &formatS1; and &formatS2; are used to mark the location of text underlining. -->
+<!ENTITY home_most_recent_emptyhint2 "Psst: ការ​ប្រើ &formatS1;ផ្ទាំង​ឯកជន​ថ្មី&formatS2; នឹង​មិន​រក្សាទុក​ប្រវត្តិ​របស់​អ្នក​ទេ។">
 <!ENTITY home_reading_list_empty "អត្ថបទ​ដែល​អ្នក​បាន​រក្សាទុក​នឹង​បង្ហាញ​នៅ​ទីនេះ។">
 <!-- Localization note (home_reading_list_hint): The "TIP" string is synonymous to "hint", "clue", etc. This string is displayed
      as an advisory message on how to add content to the reading list when the reading list empty.
