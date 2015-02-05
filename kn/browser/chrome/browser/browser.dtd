@@ -95,8 +95,8 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY pageInfoCmd.label "ಪುಟದ ಮಾಹಿತಿ">
 <!ENTITY pageInfoCmd.accesskey "I">
 <!ENTITY pageInfoCmd.commandkey "i">
-
-
+<!ENTITY mirrorTabCmd.label "Mirror ಹಾಳೆ">
+<!ENTITY mirrorTabCmd.accesskey "M">
 <!-- LOCALIZATION NOTE (enterFullScreenCmd.label, exitFullScreenCmd.label):
 These should match what Safari and other Apple applications use on OS X Lion. -->
 <!ENTITY enterFullScreenCmd.label "ಪೂರ್ಣತೆರೆಗೆ ಪ್ರವೇಶಿಸು">
@@ -152,8 +152,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (shareLink.accesskey): must be different than the following share access keys -->
 <!ENTITY shareLink.label "ಈ ಕೊಂಡಿಯನ್ನು Share">
 <!ENTITY shareLink.accesskey "h">
-
-
+<!ENTITY shareImage.label "ಈ ಚಿತ್ರವನ್ನು Share">
+<!ENTITY shareImage.accesskey "r">
 <!ENTITY shareSelect.label "ಆಯ್ಕೆಯನ್ನು Share">
 <!ENTITY shareSelect.accesskey "r">
 <!ENTITY shareVideo.label "ಈ ವೀಡಿಯೊವನ್ನು Share">
@@ -219,8 +219,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY addons.label                 "ಆಡ್-ಆನ್‍ಗಳು">
 <!ENTITY addons.accesskey             "A">
 <!ENTITY addons.commandkey            "A">
-
-
+<!ENTITY webapps.label                "Apps">
+<!ENTITY webapps.accesskey            "p">
 
 <!ENTITY webDeveloperMenu.label       "ಜಾಲ ವಿಕಸನೆಗಾರ">
 <!ENTITY webDeveloperMenu.accesskey   "W">
@@ -272,6 +272,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (browserContentToolboxMenu.label): This is the label for the
   -  application menu item that opens the browser content toolbox UI in the Tools menu.
   -  This toolbox allows to debug the chrome of the content process in multiprocess builds.  -->
+
+<!ENTITY browserContentToolboxMenu.label     "ವೀಕ್ಷಕ ವಿಷಯ ಉಪಕರಣಚೌಕ">
 
 <!ENTITY devToolbarCloseButton.tooltiptext "ವಿಕಸನೆಗಾರ ಉಪಕರಣವನ್ನು ಮುಚ್ಚು">
 <!ENTITY devToolbarMenu.label              "ವಿಕಸನೆಗಾರ ಉಪಕರಣ">
@@ -418,10 +420,13 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      These two strings are used to build the header above the list of one-click
      search providers:  "Search for <used typed keywords> with:" -->
 
+<!ENTITY searchFor.label              "ಇದಕ್ಕಾಗಿ ಹುಡುಕು ">
+<!ENTITY searchWith.label             " ಜೊತೆಗೆ:">
 <!-- LOCALIZATION NOTE (searchWithHeader.label):
      The wording of this string should be as close as possible to
      searchFor.label and searchWith.label. This string will be used instead of
      them when the user has not typed any keyword. -->
+<!ENTITY searchWithHeader.label       "ಇದರೊಂದಿಗೆ ಹುಡುಕು:">
 
 
 <!ENTITY tabView.commandkey           "e">
@@ -767,8 +772,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY trackingContentBlocked.moreinfo "ನಿಮ್ಮ ಆನ್‌ಲೈನ್‌ ಚಟುವಟಿಕೆಯ ಜಾಡನ್ನು ಇರಿಸಿಕೊಳ್ಳುವ ಕೆಲವು ಪುಟದ ಕೆಲವು ಭಾಗವನ್ನು ನಿರ್ಬಂಧಿಸಲಾಗಿದೆ.">
 <!ENTITY trackingContentBlocked.learnMore "ಇನ್ನಷ್ಟು ತಿಳಿಯಿರಿ">
 <!ENTITY trackingContentBlocked.options "ಆಯ್ಕೆಗಳು">
-
-
+<!ENTITY trackingContentBlocked.unblock2.label "ಈ ತಾಣದ ಸಂರಕ್ಷಣೆಯನ್ನು Disable">
+<!ENTITY trackingContentBlocked.unblock2.accesskey "D">
 <!ENTITY trackingContentBlocked.block.label "ಸಂರಕ್ಷಣೆಯನ್ನು Enable">
 <!ENTITY trackingContentBlocked.block.accesskey "E">
 <!ENTITY trackingContentBlocked.disabled.message "ಟ್ರಾಕಿಂಗ್ ಸಂರಕ್ಷಣೆಯನ್ನು ನಿಷ್ಕ್ರಿಯಗೊಳಿಸಲಾಗಿದೆ">
