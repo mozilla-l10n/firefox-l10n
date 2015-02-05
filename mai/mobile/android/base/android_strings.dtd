@@ -174,8 +174,8 @@
 
 <!ENTITY pref_tracking_protection_title "ट्रैकिंग सुरक्षा">
 
-
-
+<!ENTITY pref_donottrack_title "ट्रैक नहिं करु">
+<!ENTITY pref_donottrack_summary "साइट्स के सेहो बता\u0027यत कि अहाँ अपन ट्रैकिंग नहिं चाहैत छी">
 
 <!ENTITY pref_char_encoding "वर्ण ऐन्कोडिंग">
 <!ENTITY pref_char_encoding_on "मेनू देखाउ">
@@ -211,7 +211,8 @@ size. -->
 
 <!ENTITY pref_font_size_preview_text "अहाँक ई फुर्तीला नारंगी लोमड़ी आब बेसी लोच आ सुरक्षा सँ लैस भकए अहाँक उम्मीद सँ भी बेसी तेज दौड़त अछि. लाभ-लोभ सँ अलग हम बिनु समझौता कएने अहाँक सेवा मे नवाचार कलेल आजाद अछि. आउ, विश्ववव्यापी वेब क उज्ज्वल भविष्य मे विचरबाक अद्वितीय आनंद उठाउ.">
 
-
+<!ENTITY pref_media_autoplay_enabled "स्वचालन के लेल अनुमति दिय\u0027">
+<!ENTITY pref_media_autoplay_enabled_summary "नियंत्रित करु यदि वेबसाइट सब वीडियोज आउर दोसर मीडिया सामग्री सब के स्वचालित क\u0027 सकैत अछि">
 
 <!ENTITY pref_use_master_password "मुख्य गुड़किल्ली क\u0027 प्रयोग  करू ">
 <!ENTITY pref_sync "सिंक">
@@ -368,6 +369,8 @@ size. -->
      panel on the home page to give the user an estimate of how many minutes it will take to
      read an article. The word "minute" should be abbreviated if possible. -->
 
+<!ENTITY reading_list_time_minutes2 "मिनट">
+<!ENTITY reading_list_time_over_an_hour "एक घंटा सं बेसी">
 <!-- Localization note : These strings are used as alternate text for accessibility.
      They are not visible in the UI. -->
 
