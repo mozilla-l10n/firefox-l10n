@@ -12,7 +12,7 @@
 <!ENTITY sync.syncNow               "Sinhronizēt">
 
 <!ENTITY sync.setup.title           "Savienošanās ar Sync">
-<!ENTITY sync.setup.pair            "Lai aktivētu, izvēlieties &#x0022;Sapārot ierīci&#x0022; jūsu otrā ierīcē.">
+<!ENTITY sync.setup.pair            "Lai aktivētu, izvēlieties &quot;Sapārot ierīci&quot; jūsu otrā ierīcē.">
 <!ENTITY sync.fallback              "Neesmu pie datora…">
 <!ENTITY sync.setup.manual          "Ievadiet savu Sync konta informāciju">
 <!ENTITY sync.account               "Konta nosaukums">
@@ -26,6 +26,6 @@
 <!ENTITY sync.setup.waiting2        "Gaida otru ierīci…">
 
 <!ENTITY sync.pair.title            "Sapārot ierīci">
-<!ENTITY sync.pair.description      "Lai aktivētu jaunu ierīci, izvēlieties &#x0022;Iestatīt sinhronizāciju&#x0022; otrā ierīcē.">
+<!ENTITY sync.pair.description      "Lai aktivētu jaunu ierīci, izvēlieties &quot;Iestatīt sinhronizāciju&quot; otrā ierīcē.">
 <!ENTITY sync.setup.close           "Aizvērt">
 <!ENTITY sync.setup.waitingdownload "Jūsu dati tiek lejupielādēti. Jūs varat aizvērt šo logu">
