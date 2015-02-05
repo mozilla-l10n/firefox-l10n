@@ -172,7 +172,8 @@
 <!ENTITY pref_cookies_not_accept_foreign "បាន​បើក​រួមបញ្ចូល​ទាំង​ភាគី​ទី ៣">
 <!ENTITY pref_cookies_disabled "បាន​បិទ">
 
-
+<!ENTITY pref_tracking_protection_title "ការពារ​ដាន">
+<!ENTITY pref_tracking_protection_summary "&brandShortName; នឹង​រារាំង​តំបន់បណ្ដាញ​ពី​ការ​តាមដាន​អ្នក">
 <!ENTITY pref_donottrack_title "កុំ​តាមដាន">
 <!ENTITY pref_donottrack_summary "&brandShortName; នឹង​ប្រាប់​តំបន់បណ្ដាញ​ថា​អ្នក​មិន​ចង់​ឲ្យ​តាមដាន​ទេ">
 
