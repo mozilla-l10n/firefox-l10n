@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY aboutAccounts.welcome "&syncBrand.shortName.label;वर आपले स्वागत आहे">
+<!ENTITY aboutAccounts.welcome "&syncBrand.shortName.label; वर आपले स्वागत आहे">
 
 <!ENTITY aboutAccountsConfig.description "टॅब, वाचनखूणा, पासवर्ड आणि इतर काही सिंक करण्यासाठी साईन-इन करा.">
 <!ENTITY aboutAccountsConfig.startButton.label "सुरुवात करा">
