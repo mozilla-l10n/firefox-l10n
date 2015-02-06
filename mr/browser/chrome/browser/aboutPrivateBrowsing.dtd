@@ -9,8 +9,9 @@
 <!ENTITY aboutPrivateBrowsing.subtitle.normal  "&brandShortName; हे खाजगी पटलासाठी कोणताही इतिहास जतन करत नाही.">
 
 
+<!ENTITY aboutPrivateBrowsing.notPrivate       "आपण सध्या वैयक्तिक पटलात नाही.">
 
-
+<!ENTITY aboutPrivateBrowsing.learnMore        "आणखी जाणा.">
 
 <!ENTITY privatebrowsingpage.openPrivateWindow.label "प्राइव्हेट पटल उघडा">
 <!ENTITY privatebrowsingpage.openPrivateWindow.accesskey "P">

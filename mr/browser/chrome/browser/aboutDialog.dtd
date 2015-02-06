@@ -10,7 +10,7 @@
 
 <!ENTITY update.checkForUpdatesButton.label       "अद्यावत तपासा">
 <!ENTITY update.checkForUpdatesButton.accesskey   "C">
-<!ENTITY update.updateButton.label2                "सुधारणा करण्यासाठी &brandShortName; परत सुरु करा">
+<!ENTITY update.updateButton.label2                "अद्यावत करण्यासाठी &brandShortName;परत सुरु करा">
 <!ENTITY update.updateButton.accesskey            "R">
 <!ENTITY update.applyButtonBillboard.label        "सुधारणा लागू करा…">
 <!ENTITY update.applyButtonBillboard.accesskey    "A">
@@ -38,7 +38,7 @@
 <!ENTITY community.creditsLink      "जागतिक समाज">
 <!ENTITY community.end3             " सर्वांकरिता वेब ओपन, पब्लिक व प्रवेशजोगी बनवण्यासाठी एकत्र कार्य करत आहोत.">
 
-<!ENTITY helpus.start               "मदत करू इच्छिता? ">
+<!ENTITY helpus.start               "मदत करू इच्छिता?">
 <!-- LOCALIZATION NOTE (helpus.donateLink): This is a link title that links to https://sendto.mozilla.org/page/contribute/Give-Now?source=mozillaorg_default_footer&ref=firefox_about&utm_campaign=firefox_about&utm_source=firefox&utm_medium=referral&utm_content=20140929_FireFoxAbout. -->
 <!ENTITY helpus.donateLink          "देणगी द्या">
 <!ENTITY helpus.middle              " किंवा ">
@@ -53,12 +53,12 @@
 <!ENTITY bottomLinks.rights         "वापरकर्त्याचे अधिकार">
 <!-- LOCALIZATION NOTE (bottomLinks.privacy): This is a link title that links to https://www.mozilla.org/legal/privacy/. -->
 
-<!ENTITY bottomLinks.privacy        "गोपणीयता धोरण">
+<!ENTITY bottomLinks.privacy        "गोपनीयता धोरण">
 <!-- LOCALIZATION NOTE (update.checkingForUpdates): try to make the localized text short (see bug 596813 for screenshots). -->
 
 <!ENTITY update.checkingForUpdates  "सुधारणांकरीता तपासणी करत आहे…">
 <!-- LOCALIZATION NOTE (update.noUpdatesFound): try to make the localized text short (see bug 596813 for screenshots). -->
-<!ENTITY update.noUpdatesFound      "&brandShortName; अप टू डेट आहे">
+<!ENTITY update.noUpdatesFound      "&brandShortName; अदयावत आहे">
 <!-- LOCALIZATION NOTE (update.adminDisabled): try to make the localized text short (see bug 596813 for screenshots). -->
 <!ENTITY update.adminDisabled       "सुधारणा प्रणाली प्रशासकाद्वारे बंद केले आहे">
 <!-- LOCALIZATION NOTE (update.otherInstanceHandlingUpdates): try to make the localized text short -->
@@ -70,7 +70,7 @@
      one line, try to make the localized text short (see bug 596813 for screenshots). -->
 
 <!ENTITY update.failed.start        "सुधारणा अपयशी. ">
-<!ENTITY update.failed.linkText     "नुकतीच आवृत्ती डाऊनलोड करा">
+<!ENTITY update.failed.linkText     "अद्यावत आवृत्ती डाऊनलोड करा">
 <!ENTITY update.failed.end          "">
 <!-- LOCALIZATION NOTE (update.manual.start,update.manual.end): update.manual.start and update.manual.end
      all go into one line and have an anchor in between with text that is the same as the link to a site
@@ -86,7 +86,7 @@
      why the system is no longer supported. As this is all in one line, try to
      make the localized text short (see bug 843497 for screenshots). -->
 
-<!ENTITY update.unsupported.start    "तुम्ही या सिस्टीमवर आणखी सुधारणा नाही करू शकत. ">
+<!ENTITY update.unsupported.start    "आपण या सिस्टीमवर अधिक सुधारणा करू शकत नाही. ">
 <!ENTITY update.unsupported.linkText "आणखी शिका">
 <!ENTITY update.unsupported.end      "">
 <!-- LOCALIZATION NOTE (update.downloading.start,update.downloading.end): update.downloading.start and 
