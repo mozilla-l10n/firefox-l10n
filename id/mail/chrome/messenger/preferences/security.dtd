@@ -6,9 +6,8 @@
 <!ENTITY itemPhishing.label      "Penipuan Email">
 <!ENTITY itemPasswords.label     "Sandi">
 <!ENTITY itemAntiVirus.label     "Anti-Virus">
-<!ENTITY itemCookies.label       "Konten Web">
-
 <!-- Junk Mail Controls -->
+
 <!ENTITY junkMail.intro "Atur pengaturan email junk default. Pengaturan email junk masing-masing akun dapat diatur pada Pengaturan Akun.">
 <!ENTITY manualMark.label "Saat menandai pesan sebagai pesan junk:">
 <!ENTITY manualMark.accesskey "S">
@@ -24,15 +23,15 @@
 <!ENTITY openJunkLog.accesskey "l">
 <!ENTITY resetTrainingData.label "Setel Ulang Data Training">
 <!ENTITY resetTrainingData.accesskey "D">
-
 <!-- Phishing Detector -->
+
 <!ENTITY phishingDetector1.intro  "&brandShortName; dapat menganalisis pesan yang mungkin berisi penipuan (scam) yang menggunakan teknik-teknik yang umum untuk menipu Anda.">
 <!ENTITY enablePhishingDetector1.label    "Beritahu jika pesan yang sedang dibaca adalah tersangka penipuan lewat email">
 <!ENTITY enablePhishingDetector1.accesskey  "e">
 <!ENTITY useDownloadedList.label "Gunakan daftar tersangka penipuan email yang diunduh dari Internet">
 <!ENTITY useDownloadedList.accesskey "u">
-
 <!-- Passwords -->
+
 <!ENTITY savedPasswords.intro           "&brandShortName; dapat menyimpan informasi sandi untuk semua akun Anda sehingga Anda tidak perlu mengetikkan ulang informasi log-masuk Anda berkali-kali.">
 <!ENTITY useMasterPassword.label        "Gunakan Sandi Utama">
 <!ENTITY useMasterPassword.accesskey    "m">
@@ -41,23 +40,9 @@
 <!ENTITY changeMasterPassword.accesskey "S">
 <!ENTITY savedPasswords.label           "Sandi Tersimpan…">
 <!ENTITY savedPasswords.accesskey       "a">
-
 <!-- Anti Virus -->
+
 <!ENTITY antiVirus.intro      "&brandShortName; dapat memudahkan perangkat lunak anti-virus untuk menganalisis virus pada pesan email masuk sebelum disimpan secara lokal.">
 <!ENTITY antiVirus.label      "Izinkan perangkat lunak anti-virus untuk memasukkan pesan ke dalam karantina anti virus">
 <!ENTITY antiVirus.accesskey  "l">
-
-<!-- Cookies -->
-<!ENTITY cookies.intro                  "&brandShortName; dapat mengatur feed blog dan berita atau situs web lain yang diizinkan untuk mengatur kuki.">
-<!ENTITY acceptCookies.label            "Terima kuki dari situs">
-<!ENTITY acceptCookies.accesskey        "k">
-<!ENTITY keepUntil.label                "Simpan hingga:">
-<!ENTITY keepUntil.accesskey            "S">
-<!ENTITY expire.label                   "kedaluwarsa">
-<!ENTITY close.label                    "&brandShortName; ditutup">
-<!ENTITY askEachTime.label              "tanyakan selalu">
-<!ENTITY cookieExceptions.label         "Pengecualian…">
-<!ENTITY cookieExceptions.accesskey     "P">
-<!ENTITY showCookies.label              "Tampilkan Kuki…">
-<!ENTITY showCookies.accesskey          "T">
 

@@ -10,8 +10,8 @@
 <!ENTITY useDefault.label                 "Kembalikan Nilai Default">
 <!ENTITY useDefault.accesskey             "K">
 
-<!ENTITY bounceSystemDockIcon.label       "Tampilkan animasi ikon dock">
-<!ENTITY bounceSystemDockIcon.accesskey   "i">
+
+
 
 <!ENTITY newMessagesArrive.label          "Saat pesan baru datang:">
 <!ENTITY playSound.label                  "Mainkan suara">
@@ -20,6 +20,8 @@
 <!ENTITY showAnimatedAlert.accesskey      "g">
 <!ENTITY customizeMailAlert.label         "Pengaturan…">
 <!ENTITY customizeMailAlert.accesskey     "P">
+
+
 
 <!ENTITY play.label                       "Mainkan">
 <!ENTITY play.accesskey                   "M">
@@ -31,9 +33,3 @@
 <!ENTITY customsound.accesskey            "u">
 <!ENTITY browse.label                     "Telusuri…">
 <!ENTITY browse.accesskey                 "T">
-
-<!ENTITY addonsMgr.label                  "Pengaya">
-<!ENTITY manageAddonsDescWin.label        "Ubah pengaturan Pengaya">
-<!ENTITY manageAddonsDescUnix2.label      "Ubah pengaturan Pengaya">
-<!ENTITY manageAddons.label               "Kelola Pengaya…">
-<!ENTITY manageAddons.accesskey           "P">

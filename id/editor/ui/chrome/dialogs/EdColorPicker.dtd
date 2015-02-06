@@ -4,7 +4,7 @@
 
 <!ENTITY windowTitle.label "Warna">
 <!ENTITY lastPickedColor.label "Warna terakhir yang diambil">
-<!ENTITY lastPickedColor.accessKey "T">
+<!ENTITY lastPickedColor.accessKey "t">
 <!ENTITY setColor1.label "Klik pada warna atau">
 <!ENTITY setColor2.label "masukkan string warna HTML">
 <!ENTITY setColor2.accessKey "H">

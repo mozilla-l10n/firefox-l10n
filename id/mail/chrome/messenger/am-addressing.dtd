@@ -1,8 +1,8 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-
 <!-- extracted from am-addressing.xul -->
+
 
 <!ENTITY addressing.label          "Susun &amp; Alamat">
 <!ENTITY addressingGroupTitle.label "Alamat">
@@ -16,10 +16,10 @@
 <!ENTITY directories.label         "Gunakan server LDAP lainnya:">
 <!ENTITY directories.accesskey     "a">
 <!ENTITY directoriesNone.label     "Tidak ada">
-
 <!-- am-addressing.xul -->
 
-<!ENTITY compositionGroupTitle.label "Susun">
+
+<!ENTITY compositionGroupTitle.label          "Susun">
 <!-- LOCALIZATION NOTE (useHtml.label) : do not translate "html" in below line -->
 <!ENTITY useHtml.label                        "Buat pesan dalam format HTML">
 <!ENTITY useHtml.accesskey                    "s">
@@ -39,3 +39,7 @@
 <!ENTITY includeSigOnReply.accesskey          "b">
 <!ENTITY includeSigOnForward.label            "Sertakan tanda tangan saya pada pesan yang diteruskan">
 <!ENTITY includeSigOnForward.accesskey        "u">
+
+
+
+

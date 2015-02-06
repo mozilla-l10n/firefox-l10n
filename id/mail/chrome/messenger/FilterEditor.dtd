@@ -4,7 +4,6 @@
 
 <!ENTITY window.title "Aturan Filter">
 <!ENTITY filterEditorDialog.dimensions "width: 100ch;">
-
 <!ENTITY filterName.label "Nama filter:">
 <!ENTITY filterName.accesskey "i">
 
@@ -18,16 +17,21 @@
 <!ENTITY highestPriorityCmd.label "Tertinggi">
 
 <!ENTITY contextDesc.label "Terapkan filter ketika:">
-<!ENTITY contextDesc.accesskey "p">
-<!ENTITY contextIncoming.label "Memeriksa Email">
-<!ENTITY contextManual.label "Dijalankan Manual">
-<!ENTITY contextBoth.label "Memeriksa Email atau Dijalankan Manual">
-<!ENTITY contextPostPlugin.label "Memeriksa Email (setelah klasifikasi)">
-<!ENTITY contextPostPluginBoth.label "Memeriksa Email (setelah klasifikasi) atau Dijalankan Manual">
+
+
+
+
+
+
+
+
+
 <!ENTITY filterActionDesc.label "Lakukan aksi berikut:">
 <!ENTITY filterActionDesc.accesskey "L">
 
+
 <!-- New Style Filter Rule Actions -->
+
 <!ENTITY moveMessage.label "Pindahkan Pesan ke">
 <!ENTITY copyMessage.label "Salin Pesan ke">
 <!ENTITY forwardTo.label "Teruskan Pesan ke">
@@ -45,3 +49,11 @@
 <!ENTITY ignoreSubthread.label "Abaikan Sub Utas">
 <!ENTITY watchThread.label "Monitor Utas">
 <!ENTITY stopExecution.label "Hentikan Proses Pemfilteran">
+
+
+<!-- LOCALIZATION NOTE
+  The values below are used to control the widths of the filter action widgets.
+  Change the values only when the localized strings in the popup menus
+  are truncated in the widgets.
+ -->
+

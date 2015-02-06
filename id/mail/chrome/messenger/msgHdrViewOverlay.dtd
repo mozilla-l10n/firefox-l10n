@@ -1,40 +1,36 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+<!ENTITY fromField4.label "Dari">
 
 
-<!ENTITY toField3.label "Kepada ">
-<!ENTITY fromField3.label "Dari ">
-<!ENTITY senderField3.label "Pengirim ">
-<!ENTITY organizationField3.label "Organisasi ">
-<!ENTITY replyToField3.label "Balas ke ">
 
-<!ENTITY subjectField3.label "Subjek ">
-<!ENTITY ccField3.label "Cc ">
-<!ENTITY bccField3.label "Bcc ">
-<!ENTITY newsgroupsField3.label "Newsgroup ">
-<!ENTITY followupToField3.label "Tindak lanjut ">
-<!ENTITY tagsHdr3.label "Tag ">
-<!ENTITY dateField3.label "Tanggal ">
-<!ENTITY userAgentField3.label "Agen-pengguna ">
-<!ENTITY referencesField3.label "Referensi ">
-<!ENTITY messageIdField3.label "ID pesan ">
-<!ENTITY inReplyToField3.label "Sebagai balasan kepada ">
-<!ENTITY originalWebsite3.label "Situs web ">
 
-<!ENTITY editMessageDescription.label "Pesan ini masih konsep">
-<!ENTITY editMessageButton.label "Edit…">
+<!ENTITY subjectField4.label "Subjek">
+<!ENTITY ccField4.label "Cc">
+<!ENTITY bccField4.label "Bcc">
+
+
+<!ENTITY tagsHdr4.label "Tag">
+
+
+
+
+
+
+
 <!ENTITY hdrArchiveButton1.label "Arsipkan">
 <!ENTITY hdrArchiveButton1.tooltip "Arsipkan pesan ini">
 <!ENTITY hdrSmartReplyButton1.label "Balasan pintar">
 <!ENTITY hdrReplyButton1.label "Balas">
-<!ENTITY hdrReplyButton1.tooltip "Balas pesan ini">
+
 <!ENTITY hdrReplyAllButton1.label "Balas ke semua">
 <!ENTITY hdrReplyAllButton1.tooltip "Balas ke pengirim dan semua penerima">
 <!ENTITY hdrReplyListButton1.label "Balas ke milis">
 <!ENTITY hdrReplyListButton1.tooltip "Balas ke milis">
 <!ENTITY hdrFollowupButton1.label "Balasan">
 <!ENTITY hdrFollowupButton1.tooltip "Kirimkan balasan ke newsgroup ini">
+
 <!ENTITY hdrForwardButton1.label "Teruskan">
 <!ENTITY hdrForwardButton1.tooltip "Teruskan pesan ini">
 <!ENTITY hdrJunkButton1.label "Junk">
@@ -51,11 +47,12 @@
 <!ENTITY hdrViewToolbarAlwaysReplySender.label "Selalu Tampilkan Balas ke Pengirim">
 <!ENTITY hdrViewToolbarAlwaysReplySender.accesskey "p">
 
-<!ENTITY otherActionsButton1.label "Aksi Lainnya">
+<!ENTITY otherActionsButton2.label "Lebih Banyak">
+
 <!ENTITY otherActionsOpenConversation1.label "Tampilkan dalam Mode Percakapan">
-<!ENTITY otherActionsOpenConversation1.accesskey "C">
+<!ENTITY otherActionsOpenConversation1.accesskey "c">
 <!ENTITY otherActionsOpenInNewWindow1.label "Buka di Jendela Baru">
-<!ENTITY otherActionsOpenInNewWindow1.accesskey "j">
+<!ENTITY otherActionsOpenInNewWindow1.accesskey "J">
 <!ENTITY otherActionsOpenInNewTab1.label "Buka di Tab Baru">
 <!ENTITY otherActionsOpenInNewTab1.accesskey "T">
 <!ENTITY markAsReadMenuItem1.label "Tandai Sudah Dibaca">
@@ -65,16 +62,19 @@
 <!ENTITY saveAsMenuItem1.label "Simpan sebagai…">
 <!ENTITY saveAsMenuItem1.accesskey "s">
 <!ENTITY viewSourceMenuItem1.label "Tampilkan Kode Sumber">
-<!ENTITY viewSourceMenuItem1.accesskey "s">
+<!ENTITY viewSourceMenuItem1.accesskey "S">
 <!ENTITY otherActionsPrint1.label "Cetak…">
 <!ENTITY otherActionsPrint1.accesskey "C">
+<!-- Attachment bar context menu items -->
+
+<!-- Attachment context menu items -->
 
 <!ENTITY openAttachmentCmd.label    "Buka">
 <!ENTITY openAttachmentCmd.accesskey    "B">
 <!ENTITY saveAsAttachmentCmd.label    "Simpan dengan Nama…">
 <!ENTITY saveAsAttachmentCmd.accesskey    "a">
 <!ENTITY detachAttachmentCmd.label    "Pisahkan…">
-<!ENTITY detachAttachmentCmd.accesskey    "p…">
+<!ENTITY detachAttachmentCmd.accesskey    "D">
 <!ENTITY deleteAttachmentCmd.label    "Hapus">
 <!ENTITY deleteAttachmentCmd.accesskey    "H">
 <!ENTITY openAllAttachmentsCmd.label    "Buka Semua…">
@@ -87,8 +87,8 @@
 <!ENTITY deleteAllAttachmentsCmd.accesskey    "e">
 
 <!ENTITY openAttachment.tooltip "Buka berkas terlampir">
-
 <!-- Attachment toolbar items -->
+
 <!ENTITY saveAttachmentButton1.label       "Simpan">
 <!ENTITY saveAttachmentButton1.tooltip     "Simpan berkas terlampir">
 <!ENTITY saveAllAttachmentsButton1.label   "Simpan Semua">

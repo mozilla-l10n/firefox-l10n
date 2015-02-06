@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY junkSettings.label "Pengaturan Pesan Junk">
-<!ENTITY trainingWarning.label 'Jika diaktifkan, Anda perlu untuk "melatih" &brandShortName; agar dapat mengidentifikasi email junk dengan menggunakan tombol Junk pada bilah alat untuk menandai apakah pesan merupakan pesan junk. Anda perlu mengidentifikasi mana yang pesan junk dan mana yang bukan.'>
+
 <!ENTITY level.label "Gunakan kontrol email junk adaptif untuk akun ini">
 <!ENTITY level.accesskey "a">
 
@@ -17,8 +17,12 @@
 <!ENTITY purge1.accesskey "l">
 <!ENTITY purge2.label "hari">
 
-<!ENTITY whitelist.label "Jangan tandai pesan sebagai pesan junk jika pengirim ada di: ">
-<!ENTITY whitelist.accesskey "d">
+
 
 <!ENTITY ispHeaders.label "Percayai header email junk yang dikirim oleh: ">
 <!ENTITY ispHeaders.accesskey "P">
+
+<!ENTITY junkClassification.label "Pilihan">
+
+
+

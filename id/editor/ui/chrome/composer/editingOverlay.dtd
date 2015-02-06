@@ -1,8 +1,8 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-
 <!-- File menu items -->
+
 <!ENTITY openFileCmd.label "Buka Berkas…">
 <!ENTITY openFileCmd.accesskey "u">
 <!ENTITY openFileCmd.key "o">
@@ -24,12 +24,12 @@
 <!ENTITY publishAsCmd.accesskey "n">
 <!ENTITY fileRevert.label "Kembalikan">
 <!ENTITY fileRevert.accesskey "K">
-
 <!-- Edit menu items -->
+
 <!ENTITY publishSettings.label "Pengaturan Situs untuk Penerbitan…">
 <!ENTITY publishSettings.accesskey "b">
-
 <!-- Toolbar buttons/items -->
+
 <!ENTITY newToolbarCmd.label "Baru">
 <!ENTITY newToolbarCmd.tooltip "Buat laman Composer baru">
 <!ENTITY openToolbarCmd.label "Buka">

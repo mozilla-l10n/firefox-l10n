@@ -1,21 +1,33 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-
 <!-- WARNING! This file contains UTF-8 encoded characters!
    - If this ==> … <== doesn't look like an ellipsis (three dots in a row),
    - your editor isn't using UTF-8 encoding and may munge up the document!
   -->
+
 
 <!ENTITY pref.mainbox.label "Pengaturan Umum" >
 <!ENTITY pref.dateformat.label "Format Tanggal:" >
 <!ENTITY pref.dateformat.accesskey "t">
 <!ENTITY pref.dateformat.long "Panjang" >
 <!ENTITY pref.dateformat.short "Short"  >
-<!ENTITY pref.defaultlength.label "Lama Acara Default:" >
-<!ENTITY pref.defaultlength.accesskey "a">
-<!ENTITY pref.defaultsnoozelength.label "Lama Alarm Getar Default:" >
-<!ENTITY pref.defaultsnoozelength.accesskey "G">
+
+
+
+
+<!ENTITY pref.events.label "Acara">
+<!ENTITY pref.tasks.label "Tugas">
+
+
+
+
+
+<!ENTITY pref.default_task_tomorrow.label "Besok">
+
+
+
+
 
 <!ENTITY pref.accessibility.label "Aksesibilitas" >
 <!ENTITY pref.systemcolors.label "Optimalkan warna untuk aksesibilitas" >

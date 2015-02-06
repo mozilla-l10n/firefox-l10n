@@ -25,8 +25,6 @@
 <!ENTITY overrideNamespaces.label "Izinkan server untuk mengganti namespace ini">
 <!ENTITY overrideNamespaces.accesskey "I">
 <!ENTITY pop3Desc.label "Ketika mengunduh email pop dari server ini, gunakan folder berikut untuk email baru:" >
-<!ENTITY globalInbox.label "Kotak Masuk Global (Akun Lokal Folder)">
-<!ENTITY globalInbox.accesskey "G">
 <!ENTITY accountDirectory.label "Kotak masuk untuk akun server ini">
 <!ENTITY accountDirectory.accesskey "s">
 <!ENTITY deferToServer.label "Kotak masuk untuk akun yang lain">

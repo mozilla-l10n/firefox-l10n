@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY accountsWindow.title                "Status perpesanan instan">
-<!ENTITY accountsWindow.style                "width: 28em; height: 19em;">
+
 <!ENTITY accountManager.newAccount.label     "Akun Baru">
 <!ENTITY accountManager.newAccount.accesskey "B">
 <!ENTITY accountManager.close.label          "Tutup">
@@ -14,7 +14,7 @@
 <!ENTITY accountManager.noAccount.title      "Belum ada akun disiapkan">
 <!ENTITY accountManager.noAccount.description "Klik pada tombol &accountManager.newAccount.label; untuk mengikuti panduan &brandShortName; untuk menyiapkan akun.">
 <!ENTITY account.autoSignOn.label     "Masuk saat memulai">
-<!ENTITY account.autoSignOn.accesskey "S">
+<!ENTITY account.autoSignOn.accesskey "s">
 <!ENTITY account.connect.label        "Sambungkan">
 <!ENTITY account.connect.accesskey    "b">
 <!ENTITY account.disconnect.label     "Putuskan">
@@ -25,6 +25,8 @@
 <!ENTITY account.movedown.label       "Geser ke bawah">
 <!ENTITY account.cancelReconnection.label         "Batalkan penyambungan kembali">
 <!ENTITY account.cancelReconnection.accesskey     "a">
+
+
 <!ENTITY account.connecting           "Menyambung…">
 <!ENTITY account.disconnecting        "Memutuskan…">
 <!ENTITY account.disconnected         "Tidak Tersambung">

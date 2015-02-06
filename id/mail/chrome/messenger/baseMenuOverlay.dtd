@@ -1,24 +1,22 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-
 <!-- Help Menu -->
+
 <!ENTITY helpMenu.label "Bantuan">
 <!ENTITY helpMenu.accesskey "n">
 <!-- LOCALIZATION NOTE some localizations of Windows use "?"
                        for the help button in the menubar but Gnome does not.   -->
 <!ENTITY helpMenuWin.label "Bantuan">
 <!ENTITY helpMenuWin.accesskey "n">
-<!ENTITY helpTroubleshootingInfo.label      "Informasi Pemecahan Masalah…">
-<!ENTITY helpTroubleshootingInfo.accesskey  "m">
+<!ENTITY helpTroubleshootingInfo.label     "Informasi Pemecahan Masalah…">
+<!ENTITY helpTroubleshootingInfo.accesskey "m">
 <!ENTITY helpSafeMode.label     "Mulai Ulang dengan Pengaya Dinonaktifkan…">
 <!ENTITY helpSafeMode.accesskey "n">
 <!ENTITY releaseCmd2.label "Catatan Rilis">
 <!ENTITY releaseCmd2.accesskey "R">
 <!ENTITY whatsNewCmd.label "Kabar Terbaru">
 <!ENTITY whatsNewCmd.accesskey "K">
-<!ENTITY featureConfiguratorCmd.label "Asisten Migrasi">
-<!ENTITY featureConfiguratorCmd.accesskey "M">
 <!ENTITY openHelp.label "Daftar Isi Bantuan">
 <!ENTITY openHelp.accesskey "D">
 <!ENTITY openHelp.commandkey "VK_F1">

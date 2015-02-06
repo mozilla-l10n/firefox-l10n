@@ -5,6 +5,8 @@
 <!ENTITY pane.title                   "Tanda Konfirmasi Diterima">
 <!ENTITY useGlobalPrefs.label         "Gunakan pengaturan global tanda konfirmasi diterima untuk akun ini">
 <!ENTITY useGlobalPrefs.accesskey     "u">
+
+
 <!ENTITY useCustomPrefs.label         "Atur tanda konfirmasi diterima untuk akun ini">
 <!ENTITY useCustomPrefs.accesskey     "k">
 <!ENTITY requestReceipt.label         "Ketika mengirim, selalu minta tanda konfirmasi diterima">

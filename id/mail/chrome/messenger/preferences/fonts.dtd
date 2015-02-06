@@ -3,9 +3,6 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY  fontsAndEncodingsDialog.title           "Huruf &amp; Pengodean">
-<!ENTITY  window.width                            "39em">
-<!ENTITY  window.macWidth                         "43em">
-<!ENTITY  window.unixWidth                        "41em">
 
 <!ENTITY  language.label                          "Huruf untuk:">
 <!ENTITY  language.accesskey                      "H">
@@ -35,7 +32,7 @@
 <!ENTITY  font.langGroup.baltic                   "Baltik">
 <!ENTITY  font.langGroup.el                       "Yunani">
 <!ENTITY  font.langGroup.turkish                  "Turki">
-<!ENTITY  font.langGroup.unicode                  "Bahasa Lain">
+
 <!ENTITY  font.langGroup.user-def                 "Kesukaan Pengguna">
 <!ENTITY  font.langGroup.thai                     "Thailand">
 <!ENTITY  font.langGroup.hebrew                   "Ibrani">
@@ -51,24 +48,24 @@
 <!ENTITY  font.langGroup.gurmukhi                 "Gurmukhi">
 <!ENTITY  font.langGroup.khmer                    "Khmer">
 <!ENTITY  font.langGroup.malayalam                "Malayalam">
-
 <!-- Minimum font size -->
+
 <!ENTITY minSize.label                            "Ukuran huruf terkecil:">
 <!ENTITY minSize.accesskey                        "k">
 <!ENTITY minSize.none                             "Tidak Ada">
-
 <!-- default font type -->
+
 <!ENTITY  useDefaultFontSerif.label               "Serif">
 <!ENTITY  useDefaultFontSansSerif.label           "Tanpa Serif">
-
 <!-- fonts in message -->
+
 <!ENTITY  fontControl.label                       "Pengaturan Huruf">
 <!ENTITY  useFixedWidthForPlainText.label         "Gunakan huruf dengan lebar tetap untuk pesan dalam teks polos">
 <!ENTITY  fixedWidth.accesskey                    "s">
 <!ENTITY  useDocumentFonts.label                  "Izinkan pesan untuk menggunakan huruf lainnya">
 <!ENTITY  useDocumentFonts.accesskey              "I">
-
 <!-- Language settings -->
+
 <!ENTITY sendDefaultCharset.label         "Email Keluar:">
 <!ENTITY sendDefaultCharset.accesskey     "u">
 <!ENTITY languagesTitle1.label            "Pengodean Karakter">

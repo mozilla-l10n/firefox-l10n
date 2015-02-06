@@ -1,19 +1,19 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-
 <!-- Window title -->
+
 <!ENTITY windowTitle.label "Warna dan Latar Belakang Laman">
 <!ENTITY pageColors.label "Warna Laman">
 <!ENTITY defaultColorsRadio.label "Warna default pemirsa/pembaca (tidak mengatur warna untuk laman)">
-<!ENTITY defaultColorsRadio.accessKey "D">
+<!ENTITY defaultColorsRadio.accessKey "d">
 <!ENTITY defaultColorsRadio.tooltip "Gunakan pengaturan warna hanya dari program peramban pemirsa (pembaca)">
 <!ENTITY customColorsRadio.label "Gunakan warna suka-suka:">
-<!ENTITY customColorsRadio.accessKey "S">
+<!ENTITY customColorsRadio.accessKey "s">
 <!ENTITY customColorsRadio.tooltip "Pengaturan warna ini akan mengganti pengaturan program peramban pemirsa">
 
 <!ENTITY normalText.label "Teks normal">
-<!ENTITY normalText.accessKey "N">
+<!ENTITY normalText.accessKey "n">
 <!ENTITY linkText.label "Teks bertaut">
 <!ENTITY linkText.accessKey "t">
 <!ENTITY activeLinkText.label "Teks bertaut aktif">

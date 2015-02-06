@@ -1,16 +1,19 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-
 <!-- Subscription Dialog -->
-<!ENTITY feedSubscriptions.label "Langganan Feed">
-<!ENTITY subscriptionDesc.label "Catatan: Menghapus atau mengubah folder untuk feed tidak akan berpengaruh pada artikel yang pernah diunduh sebelumnya.">
+
+<!ENTITY feedSubscriptions.label     "Langganan Feed">
+
+
 <!ENTITY feedTitle.label             "Judul:">
 <!ENTITY feedTitle.accesskey         "J">
 
 <!ENTITY feedLocation.label          "URL Feed:">
 <!ENTITY feedLocation.accesskey      "U">
 <!ENTITY feedLocation.placeholder    "Masukkan URL feed yang valid yang ingin ditambahkan">
+<!ENTITY locationValidate.label      "Validasi">
+<!ENTITY validateText.label          "Memeriksa validasi dan mengambil URL yang valid.">
 
 <!ENTITY feedFolder.label            "Simpan Artikel di:">
 <!ENTITY feedFolder.accesskey        "S">
@@ -18,18 +21,22 @@
 <!ENTITY quickMode.label             "Tampilkan ringkasan artikel, jangan memuat laman webnya">
 <!ENTITY quickMode.accesskey         "r">
 
-<!ENTITY locationValidate.label      "Validasi">
-<!ENTITY validateText.label          "Memeriksa validasi dan mengambil URL yang valid.">
 
-<!ENTITY button.addFeed.label       "Tambah">
-<!ENTITY button.addFeed.accesskey   "T">
-<!ENTITY button.editFeed.label      "Ubah">
-<!ENTITY button.editFeed.accesskey  "U">
-<!ENTITY button.removeFeed.label "Hapus">
-<!ENTITY button.removeFeed.accesskey   "H">
-<!ENTITY button.importOPML.label "Impor">
-<!ENTITY button.importOPML.accesskey   "I">
-<!ENTITY button.exportOPML.label "Ekspor">
-<!ENTITY button.exportOPML.accesskey   "E">
 
-<!ENTITY cmd.close.commandKey             "w">
+
+
+
+<!ENTITY button.addFeed.label        "Tambah">
+<!ENTITY button.addFeed.accesskey    "T">
+<!ENTITY button.editFeed.label       "Ubah">
+<!ENTITY button.editFeed.accesskey   "U">
+<!ENTITY button.removeFeed.label     "Hapus">
+<!ENTITY button.removeFeed.accesskey "H">
+<!ENTITY button.importOPML.label     "Impor">
+<!ENTITY button.importOPML.accesskey "I">
+<!ENTITY button.exportOPML.label     "Ekspor">
+<!ENTITY button.exportOPML.accesskey "E">
+
+
+<!ENTITY cmd.close.commandKey        "w">
+<!ENTITY button.close.label          "Tutup">

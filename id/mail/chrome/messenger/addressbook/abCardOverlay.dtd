@@ -5,7 +5,6 @@
 <!ENTITY Contact.tab                     "Kenalan">
 <!ENTITY Contact.accesskey               "K">
 <!ENTITY Name.box                        "Nama">
-
 <!-- LOCALIZATION NOTE:
  NameField1, NameField2, PhoneticField1, PhoneticField2
  those fields are either LN or FN depends on the target country.
@@ -13,8 +12,9 @@
  but they should not be translated (same applied to phonetic id).
  Make sure the translation of label corresponds to the order of id.
 -->
-
 <!-- LOCALIZATION NOTE (NameField1.id) : DONT_TRANSLATE -->
+
+
 <!ENTITY NameField1.id                  "FirstName">
 <!-- LOCALIZATION NOTE (NameField2.id) : DONT_TRANSLATE -->
 <!ENTITY NameField2.id                  "LastName">
@@ -45,12 +45,7 @@
 <!ENTITY PlainText.label                "Teks Polos">
 <!ENTITY HTML.label                     "HTML">
 <!ENTITY Unknown.label                  "Tidak Ditentukan">
-<!ENTITY ScreenName.label               "Nama Layar:">
-<!ENTITY ScreenName.accesskey           "L">
 
-<!ENTITY allowRemoteContent1.label      "Izinkan kandungan daring:">
-<!ENTITY allowRemoteContent1.accesskey  "I">
-<!ENTITY allowRemoteContent1.tooltip    "Pesan dalam format HTML memungkinkan untuk menggabungkan kandungan isi dari sumber daring. Dengan membuka pesan sejenis akan membuka sambungan ke sumber eksternal. Hal ini dapat menyebabkan penjejakan pada saat pembacaan pesan. Menandai kotak ini akan mengizinkan kandungan isi eksternal dalam pesan berformat HTML dari kenalan ini.">
 
 <!ENTITY WorkPhone.label                "Kantor:">
 <!ENTITY WorkPhone.accesskey            "K">
@@ -122,6 +117,27 @@
 <!ENTITY Custom4.accesskey              "4">
 <!ENTITY Notes.label                    "Catatan:">
 <!ENTITY Notes.accesskey                "C">
+
+<!ENTITY Chat.tab                       "Ngobrol">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 <!ENTITY Photo.tab                      "Foto">
 <!ENTITY Photo.accesskey                "o">

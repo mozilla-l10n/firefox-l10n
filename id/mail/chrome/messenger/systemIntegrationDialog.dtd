@@ -3,11 +3,15 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY systemIntegration.title  "Integrasi dengan Sistem">
+
+
+<!ENTITY cancelIntegration2.label  "Batal">
 <!ENTITY defaultClient.intro  "Gunakan &brandShortName; sebagai program klien untuk:">
 
 <!ENTITY email.label "Email">
 <!ENTITY newsgroups.label "Newsgroup">
 <!ENTITY feeds.label "Feed">
+
 
 <!ENTITY checkOnStartup.label "Periksa selalu saat memulai &brandShortName;">
 <!ENTITY checkOnStartup.accesskey "P">

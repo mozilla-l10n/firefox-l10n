@@ -5,13 +5,13 @@
 <!ENTITY folderProps.windowtitle.label           "Keterangan:">
 
 <!ENTITY generalInfo.label                       "Informasi Umum">
-<!ENTITY folderCharsetTab.label                  "Pengodean Karakter Default:">
-<!ENTITY folderCharsetTab.accesskey              "e">
-<!ENTITY folderCharsetOverride.label             "Terapkan nilai default pada semua pesan dalam folder (pengaturan pengodean karakter setiap pesan dan deteksi otomatis akan diabaikan)">
-<!ENTITY folderCharsetOverride.accesskey         "a">
+
+
+
+
+<!ENTITY folderRebuildSummaryFileTip2.label      "Buat Ulang Berkas Indeks Ringkasan">
 <!ENTITY folderRebuildSummaryFile2.label         "Perbaiki Folder">
 <!ENTITY folderRebuildSummaryFile2.accesskey     "P">
-<!ENTITY folderRebuildSummaryFileTip2.label      "Buat Ulang Berkas Indeks Ringkasan">
 <!ENTITY folderRebuildSummaryFile.explanation    "Terkadang berkas indeks folder (.msf) rusak dan pesan mungkin tidak terlihat atau pesan yang dihapus masih tampak; proses perbaikan folder mungkin dapat mengatasi masalah ini.">
 <!ENTITY folderIncludeInGlobalSearch.label       "Sertakan pesan pada folder ini pada hasil Pencarian Global">
 <!ENTITY folderIncludeInGlobalSearch.accesskey   "G">
@@ -36,8 +36,8 @@
 <!ENTITY retentionApplyToFlagged.accesskey "e">
 
 <!ENTITY folderSynchronizationTab.label          "Sinkronisasi">
-<!ENTITY folderCheckForNewMessages2.label        "Periksa pesan baru pada folder ini saat mengambil pesan baru">
-<!ENTITY folderCheckForNewMessages2.accesskey    "P">
+<!ENTITY folderCheckForNewMessages2.label         "Periksa pesan baru pada folder ini saat mengambil pesan baru">
+<!ENTITY folderCheckForNewMessages2.accesskey     "P">
 
 <!ENTITY offlineFolder.check.label               "Pilih folder ini untuk penggunaan luring">
 <!ENTITY offlineFolder.check.accesskey           "o">
@@ -64,3 +64,7 @@
 <!ENTITY folderQuotaRoot.label                   "Kuota Dasar:">
 <!ENTITY folderQuotaUsage.label                  "Penggunaan:">
 <!ENTITY folderQuotaStatus.label                 "Status:">
+
+<!-- LOCALIZATION NOTE: When the number of messages can't be determined, this string is displayed as the number -->
+
+<!-- LOCALIZATION NOTE: When the size can't be determined, this string is displayed as the size -->

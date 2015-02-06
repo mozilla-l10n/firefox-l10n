@@ -2,15 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY  prefWindow.titleWin     "Pengaturan">
-<!ENTITY  prefWindow.titleGNOME   "Pengaturan &brandShortName;">
-<!ENTITY  prefWindow.styleWin     "width: 52em; height: 37em;">
-<!ENTITY  prefWindow.styleMac     "width: 55em;">
-<!ENTITY  prefWindow.styleGNOME   "width: 55em; height: 34.5em;">
-
 <!ENTITY  paneGeneral.title       "Utama">
 <!ENTITY  paneAlarms.title        "Alarm">
 <!ENTITY  paneCategories.title    "Kategori">
 <!ENTITY  paneViews.title         "Tampilan">
-<!ENTITY  paneTimezones.title     "Zona Waktu">
-<!ENTITY  paneAdvanced.title      "Canggih">

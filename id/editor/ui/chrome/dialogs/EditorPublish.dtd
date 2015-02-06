@@ -1,15 +1,15 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-
 <!-- Window title -->
+
 <!ENTITY windowTitle.label            "Penerbitan Laman">
 <!ENTITY windowTitleSettings.label    "Pengaturan Penerbitan">
 <!ENTITY publishTab.label             "Penerbitan">
 <!ENTITY settingsTab.label            "Pengaturan">
 <!ENTITY publishButton.label          "Terbitkan">
-
 <!-- Publish Tab Panel -->
+
 <!ENTITY siteList.label               "Nama Situs:">
 <!ENTITY siteList.accesskey           "N">
 <!ENTITY siteList.tooltip             "Pilih situs untuk tempat penerbitan">
@@ -40,8 +40,8 @@
 <!ENTITY setDefaultButton.accesskey   "D">
 <!ENTITY removeButton.label           "Hapus Situs">
 <!ENTITY removeButton.accesskey       "H">
-
 <!-- Settings Tab Panel -->
+
 <!ENTITY publishSites.label           "Situs Penerbitan">
 <!ENTITY serverInfo.label             "Informasi Server">
 <!ENTITY loginInfo.label              "Informasi Log-masuk">

@@ -1,8 +1,8 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-
 <!-- General -->
+
 <!ENTITY calendar.calendar.label     "Kalender">
 <!ENTITY calendar.calendar.accesskey "K">
 
@@ -25,37 +25,40 @@
 <!ENTITY calendar.events.filter.next14Days.label "Acara dalam 14 Hari ke Depan">
 <!ENTITY calendar.events.filter.next31Days.label "Acara dalam 31 Hari ke Depan">
 <!ENTITY calendar.events.filter.thisCalendarMonth.label "Acara dalam Bulan Kalender ini">
+<!-- LOCALIZATION NOTE(calendar.unifinder.tree.done.tooltip)
+   - This label and tooltip is used for the column with the checkbox in the
+   - task tree view. -->
 
-<!ENTITY calendar.unifinder.tree.done.label          "Selesai">
-<!ENTITY calendar.unifinder.tree.done.tooltip        "Klik untuk mengurutkan berdasarkan kolom Selesai">
-<!ENTITY calendar.unifinder.tree.priority.label      "Prioritas">
-<!ENTITY calendar.unifinder.tree.priority.tooltip        "Klik untuk mengurutkan berdasarkan kolom Prioritas">
-<!ENTITY calendar.unifinder.tree.title.label         "Judul">
-<!ENTITY calendar.unifinder.tree.title.tooltip        "Klik untuk mengurutkan berdasarkan kolom Judul">
-<!ENTITY calendar.unifinder.tree.percentcomplete.label "&#037;">
-<!ENTITY calendar.unifinder.tree.percentcomplete.tooltip        "Klik untuk mengurutkan berdasarkan kolom Persentase Kemajuan">
-<!ENTITY calendar.unifinder.tree.startdate.label     "Mulai">
-<!ENTITY calendar.unifinder.tree.startdate.tooltip        "Klik untuk mengurutkan berdasarkan kolom Mulai">
-<!ENTITY calendar.unifinder.tree.enddate.label       "Selesai">
-<!ENTITY calendar.unifinder.tree.enddate.tooltip        "Klik untuk mengurutkan berdasarkan kolom Selesai">
-<!ENTITY calendar.unifinder.tree.duedate.label       "Jatuh Tempo">
-<!ENTITY calendar.unifinder.tree.duedate.tooltip        "Klik untuk mengurutkan berdasarkan kolom Jatuh Tempo">
-<!ENTITY calendar.unifinder.tree.completeddate.label "Selesai">
-<!ENTITY calendar.unifinder.tree.completeddate.tooltip        "Klik untuk mengurutkan berdasarkan kolom Selesai">
-<!ENTITY calendar.unifinder.tree.categories.label    "Kategori">
-<!ENTITY calendar.unifinder.tree.categories.tooltip        "Klik untuk mengurutkan berdasarkan kolom Kategori">
-<!ENTITY calendar.unifinder.tree.location.label      "Lokasi">
-<!ENTITY calendar.unifinder.tree.location.tooltip        "Klik untuk mengurutkan berdasarkan kolom Lokasi">
-<!ENTITY calendar.unifinder.tree.status.label        "Status">
-<!ENTITY calendar.unifinder.tree.status.tooltip        "Klik untuk mengurutkan berdasarkan kolom Status">
-<!ENTITY calendar.unifinder.tree.calendarname.label  "Nama Kalender">
-<!ENTITY calendar.unifinder.tree.calendarname.tooltip        "Klik untuk mengurutkan berdasarkan kolom Nama Kalender">
-<!ENTITY calendar.unifinder.tree.duration.label      "Jatuh tempo dalam">
-<!ENTITY calendar.unifinder.tree.duration.tooltip        "Klik untuk mengurutkan berdasarkan kolom waktu Jatuh Tempo">
-<!ENTITY calendar.unifinder.close.tooltip            "Tutup pencarian acara dan daftar acara">
+<!ENTITY calendar.unifinder.tree.done.label                "Selesai">
 
-<!ENTITY calendar.today.button.tooltip            "Buka Hari Ini" >
-<!ENTITY calendar.todaypane.button.tooltip        "Tampilkan Panel Hari Ini" >
+<!ENTITY calendar.unifinder.tree.priority.label            "Prioritas">
+
+<!ENTITY calendar.unifinder.tree.title.label               "Judul">
+
+<!ENTITY calendar.unifinder.tree.percentcomplete.label     "&#037;">
+
+<!ENTITY calendar.unifinder.tree.startdate.label           "Mulai">
+
+<!ENTITY calendar.unifinder.tree.enddate.label             "Selesai">
+
+<!ENTITY calendar.unifinder.tree.duedate.label             "Jatuh Tempo">
+
+<!ENTITY calendar.unifinder.tree.completeddate.label       "Selesai">
+
+<!ENTITY calendar.unifinder.tree.categories.label          "Kategori">
+
+<!ENTITY calendar.unifinder.tree.location.label            "Lokasi">
+
+<!ENTITY calendar.unifinder.tree.status.label              "Status">
+
+<!ENTITY calendar.unifinder.tree.calendarname.label        "Nama Kalender">
+
+<!ENTITY calendar.unifinder.tree.duration.label            "Jatuh tempo dalam">
+
+<!ENTITY calendar.unifinder.close.tooltip                  "Tutup pencarian acara dan daftar acara">
+
+<!ENTITY calendar.today.button.tooltip          "Buka Hari Ini" >
+<!ENTITY calendar.todaypane.button.tooltip      "Tampilkan Panel Hari Ini" >
 
 <!ENTITY calendar.day.button.tooltip            "Pindah ke tampilan harian" >
 <!ENTITY calendar.week.button.tooltip           "Pindah ke tampilan mingguan" >
@@ -68,11 +71,11 @@
 <!ENTITY calendar.prevday.accesskey             "m" >
 <!ENTITY calendar.nextweek.label                "Minggu Depan" >
 <!ENTITY calendar.prevweek.label                "Minggu Sebelumnya" >
-<!ENTITY calendar.nextweek.accesskey            "t" >
+<!ENTITY calendar.nextweek.accesskey            "x" >
 <!ENTITY calendar.prevweek.accesskey            "m" >
 <!ENTITY calendar.nextmonth.label               "Bulan Depan" >
 <!ENTITY calendar.prevmonth.label               "Bulan Sebelumnya" >
-<!ENTITY calendar.nextmonth.accesskey           "t" >
+<!ENTITY calendar.nextmonth.accesskey           "x" >
 <!ENTITY calendar.prevmonth.accesskey           "m" >
 
 <!ENTITY calendar.navigation.nextday.tooltip    "Maju Satu Hari" >
@@ -84,9 +87,8 @@
 
 <!ENTITY calendar.newevent.button.label         "Acara Baru" >
 <!ENTITY calendar.newtask.button.label          "Tugas Baru" >
-<!ENTITY calendar.print.button.label            "Cetak" >
 
-<!ENTITY calendar.export.calendar                "Ekspor Kalender…" >
+
 
 <!ENTITY calendar.day.button.label              "Hari" >
 <!ENTITY calendar.week.button.label             "Minggu" >
@@ -121,16 +123,14 @@
 <!ENTITY calendar.task.filter.completed.accesskey   "s">
 <!ENTITY calendar.task.filter.open.label            "Tugas yang Tidak Selesai">
 <!ENTITY calendar.task.filter.open.accesskey        "i">
-
 <!-- LOCALIZATION NOTE(calendar.task.filter.current.label)
      "Current Tasks" will show all tasks, except those with a start date set
      that is after today and after the selected date. If a task repeats, a
      separate entry will be shown for each of the occurrences that happen on or
      before today (or the selected date, whichever is later). -->
+
 <!ENTITY calendar.task.filter.current.label         "Tugas Saat Ini">
 <!ENTITY calendar.task.filter.current.accesskey     "u">
-<!ENTITY calendar.task.filter.repeating.label       "Tugas Berulang">
-<!ENTITY calendar.task.filter.repeating.accesskey   "B">
 
 <!ENTITY calendar.task-details.title.label           "Judul:">
 <!ENTITY calendar.task-details.organizer.label       "Dari:">
@@ -152,11 +152,8 @@
 <!ENTITY calendar.task.text-filter.textbox.emptytext.base            "Filter tugas… #1">
 <!ENTITY calendar.task.text-filter.textbox.emptytext.keylabel.nonmac "&lt;Ctrl+Shift+K&gt;">
 <!ENTITY calendar.task.text-filter.textbox.emptytext.keylabel.mac    "&lt;&#x21E7;&#x2318;K&gt;">
-
-<!-- Statusbar -->
-<!ENTITY statusText.label            "Dokumen: Selesai">
-
 <!-- Context Menu -->
+
 <!ENTITY calendar.context.modifyorviewitem.label      "Buka">
 <!ENTITY calendar.context.modifyorviewitem.accesskey  "B">
 <!ENTITY calendar.context.modifyorviewtask.label      "Buka Tugas…">
@@ -181,16 +178,17 @@
 <!ENTITY calendar.context.attendance.menu.accesskey   "d" >
 <!ENTITY calendar.context.attendance.occurrence.label "Item Ini" >
 <!ENTITY calendar.context.attendance.all.label        "Semua dalam Rangkaian" >
-
 <!-- Task Context Menu -->
+
 <!ENTITY calendar.context.progress.label              "Kemajuan">
 <!ENTITY calendar.context.progress.accesskey          "K">
 <!ENTITY calendar.context.priority.label              "Prioritas">
 <!ENTITY calendar.context.priority.accesskey          "P">
 <!ENTITY calendar.context.postpone.label              "Tunda Tugas">
 <!ENTITY calendar.context.postpone.accesskey          "s">
+<!--=percent sign-->
 
-<!ENTITY percnt "&#37;" ><!--=percent sign-->
+<!ENTITY percnt "&#037;" >
 
 <!ENTITY calendar.context.markcompleted.label     "Tandai Sudah Selesai">
 <!ENTITY calendar.context.markcompleted.accesskey "i">
@@ -224,14 +222,13 @@
 
 <!ENTITY calendar.copylink.label       "Salin Lokasi Tautan">
 <!ENTITY calendar.copylink.accesskey   "S">
-
 <!-- Task View -->
 <!-- Note that the above *.context.* strings are currently used for the other
      task action buttons -->
-<!ENTITY calendar.taskview.delete.label     "Hapus">
-<!ENTITY calendar.taskview.delete.accesskey "H">
 
+<!ENTITY calendar.taskview.delete.label     "Hapus">
 <!-- Server Context Menu -->
+
 <!ENTITY calendar.context.newserver.label              "Kalender Baru…">
 <!ENTITY calendar.context.newserver.accesskey          "K">
 <!ENTITY calendar.context.findcalendar.label           "Cari Kalender…" >
@@ -246,6 +243,12 @@
 <!ENTITY calendar.context.export.accesskey             "E">
 <!ENTITY calendar.context.properties.label             "Properti">
 <!ENTITY calendar.context.properties.accesskey         "P">
+<!-- LOCALIZATION NOTE (calendar.context.togglevisible.accesskey)
+     This is the access key used for the showCalendar string -->
+<!-- LOCALIZATION NOTE (calendar.context.showonly.accesskey)
+     This is the access key used for the showOnlyCalendar string -->
+
+
 
 <!ENTITY calendar.context.convertmenu.label              "Konversikan Ke">
 <!ENTITY calendar.context.convertmenu.accesskey.mail     "n">
@@ -265,8 +268,8 @@
 
 <!ENTITY calendar.tasks.view.filtertasks.label           "Saring Tugas">
 <!ENTITY calendar.tasks.view.filtertasks.accesskey       "S">
-
 <!-- Calendar Alarm Dialog -->
+
 
 <!ENTITY calendar.alarm.location.label              "Lokasi:" >
 <!ENTITY calendar.alarm.details.label               "Detail…" >
@@ -285,18 +288,18 @@
 <!ENTITY calendar.alarm.snooze.1hour.label          "1 Jam" >
 <!ENTITY calendar.alarm.snooze.2hours.label         "2 Jam" >
 <!ENTITY calendar.alarm.snooze.1day.label           "1 Hari" >
-
 <!-- LOCALIZATION NOTE (calendar.alarm.snooze.cancel)
      This string is not seen in the UI, it is read by screen readers when the
      user focuses the "Cancel" button in the "Snooze for..." popup of the alarm
      dialog. -->
-<!ENTITY calendar.alarm.snooze.cancel               "Batalkan Pengingat">
 
+<!ENTITY calendar.alarm.snooze.cancel               "Batalkan Pengingat">
 <!-- Calendar Server Dialog -->
+
 <!ENTITY calendar.server.dialog.title.edit          "Ubah Kalender">
 <!ENTITY calendar.server.dialog.name.label          "Nama Kalender:">
-
 <!-- Calendar Properties -->
+
 <!ENTITY calendarproperties.color.label                    "Warna:">
 <!ENTITY calendarproperties.webdav.label                   "iCalendar (ICS)">
 <!ENTITY calendarproperties.caldav.label                   "CalDAV">
@@ -308,34 +311,32 @@
 <!ENTITY calendarproperties.name.label                     "Nama:">
 <!ENTITY calendarproperties.readonly.label                 "Baca Saja">
 <!ENTITY calendarproperties.firealarms.label               "Tampilkan Alarm">
-<!ENTITY calendarproperties.cache2.label                   "Tembolok">
+
 <!ENTITY calendarproperties.enabled.label                  "Aktifkan kalender ini">
 <!ENTITY calendarproperties.forceDisabled.label            "Provider kalender ini tidak ditemukan. Ini sering terjadi karena Anda telah menonaktifkan atau menghapus pemasangan pengaya tertentu.">
 <!ENTITY calendarproperties.unsubscribe.label              "Berhenti Langganan">
 <!ENTITY calendarproperties.unsubscribe.accesskey          "B">
-
 <!-- Calendar Publish Dialog -->
+
 <!ENTITY calendar.publish.dialog.title              "Terbitkan Kalender">
 <!ENTITY calendar.publish.url.label                 "URL Penerbitan">
 <!ENTITY calendar.publish.publish.button      "Terbitkan">
 <!ENTITY calendar.publish.close.button      "Tutup">
 
 <!ENTITY calendar.publish.example.url.description   "Contohnya http://www.myserver.com/webdav/test.ics">
-
 <!-- Select Calendar Dialog -->
-<!ENTITY calendar.select.dialog.title    "Pilih Kalender">
 
+<!ENTITY calendar.select.dialog.title    "Pilih Kalender">
 <!-- Calendar Printing -->
+
 <!ENTITY calendar.print.window.title "Cetak Kalender">
 <!ENTITY calendar.print.title.label "Judul:">
 <!ENTITY calendar.print.layout.label "Layout:">
 <!ENTITY calendar.print.range.label "Yang akan DicetakWhat to Print">
 <!ENTITY calendar.print.currentView2.label "Tampilan Sekarang">
-<!ENTITY calendar.print.completedtasks.label "Tugas yang selesai">
 <!ENTITY calendar.print.selectedEventsAndTasks.label "Acara/tugas terpilih">
 <!ENTITY calendar.print.tasks.label "Tugas">
 <!ENTITY calendar.print.events.label "Acara">
-<!ENTITY calendar.print.selected.label "Acara terpilih">
 <!ENTITY calendar.print.custom.label "Rentang waktu tertentu:">
 <!ENTITY calendar.print.from.label "Sejak:">
 <!ENTITY calendar.print.to.label "Hingga:">
@@ -343,9 +344,13 @@
 <!ENTITY calendar.print.optionsGroup.label "Pilihan">
 <!ENTITY calendar.print.taskswithnoduedate.label "Tugas tanpa tenggat waktu">
 <!ENTITY calendar.print.completedtasks.label "Tugas yang selesai">
-
 <!-- Error reporting -->
+
 <!ENTITY calendar.error.detail "Detail…">
 <!ENTITY calendar.error.code "Kode kesalahan:">
 <!ENTITY calendar.error.description "Deskripsi:">
 <!ENTITY calendar.error.title "Terjadi kesalahan">
+<!-- Extract buttons in message header -->
+
+
+

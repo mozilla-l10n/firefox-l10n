@@ -16,6 +16,7 @@
 <!ENTITY manageSubscriptions.accesskey "K">
 
 <!-- entities from rss.rdf -->
+
 <!ENTITY feeds.accountName "Feed Blog &amp; Berita">
 <!ENTITY feeds.wizardShortName "Feed">
 <!ENTITY feeds.wizardLongName "Feed Blog &amp; Berita">

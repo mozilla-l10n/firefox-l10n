@@ -11,9 +11,6 @@
 <!ENTITY reminder.reminderDetails.label                    "Reminder Details">
 <!ENTITY reminder.action.label                             "Pilih Aksi Alarm">
 
-<!ENTITY reminder.relation.before.label                    "sebelum" >
-<!ENTITY reminder.relation.after.label                     "setelah" >
-
 <!ENTITY reminder.action.alert.label                       "Tampilkan Peringatan">
 <!ENTITY reminder.action.email.label                       "Kirim Email">
 

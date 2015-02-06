@@ -1,9 +1,11 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!-- rights.locale-direction instead of the usual local.dir entity, so RTL can skip translating page. -->
 <!ENTITY rights.locale-direction "ltr">
 <!ENTITY rights.title            "Tentang Hak Anda">
 <!ENTITY rights.intro-header     "Tentang Hak Anda">
 <!ENTITY rights.intro "&brandFullName; adalah perangkat lunak bebas dan terbuka yang dibangun oleh ribuan anggota komunitas dari berbagai penjuru dunia. Ada beberapa hal yang perlu Anda ketahui:">
-
 <!-- Note on pointa / pointb / pointc form:
      These points each have an embedded link in the HTML, so each point is
      split into chunks for text before the link, the link text, and the text
@@ -12,6 +14,7 @@
 
      Also note the leading/trailing whitespace in strings here, which is
      deliberate for formatting around the embedded links. -->
+
 <!ENTITY rights.intro-point1a "&brandShortName; disediakan berdasarkan persyaratan dalam lisensi ">
 <!ENTITY rights.intro-point1b "Mozilla Public License">
 <!ENTITY rights.intro-point1c ". Ini berarti Anda dapat menggunakan, menyalin, dan mendistribusikan &brandShortName; kepada pihak lain. Anda juga dapat memodifikasi kode sumber program &brandShortName; sesuai dengan kebutuhan Anda. Lisensi Mozilla Public License memberi hak kepada Anda untuk mendistribusikan versi yang telah Anda modifikasi.">
@@ -19,45 +22,45 @@
 <!ENTITY rights.intro-point2a "Mozilla tidak memberi Anda hak atas merek dagang atau logo Mozilla dan Thunderbird. Informasi lebih lanjut mengenai Merek Dagang dapat Anda temukan ">
 <!ENTITY rights.intro-point2b "di sini">
 <!ENTITY rights.intro-point2c ".">
-
 <!-- point 3 text for official branded builds -->
+
 <!ENTITY rights.intro-point3a "Kebijakan privasi pada produk &vendorShortName; dapat Anda temukan ">
 <!ENTITY rights.intro-point3b "di sini">
 <!ENTITY rights.intro-point3c ".">
-
 <!-- point 3 text for unbranded builds -->
-<!ENTITY rights.intro-point3-unbranded "Seluruh kebijakan privasi atas produk ini akan disebutkan di bawah ini.">
 
+<!ENTITY rights.intro-point3-unbranded "Seluruh kebijakan privasi atas produk ini akan disebutkan di bawah ini.">
 <!-- point 4 text for official branded builds -->
-<!ENTITY rights.intro-point4a "&brandShortName; juga menawarkan layanan opsional yang dapat digunakan seperti halnya layanan pemutakhiran pengaya. Akan tetapi kami tidak menjamin keakuratan atau tingkat kesalahan layanan tersebut secara 100&#37;. Untuk keterangan lebih lanjut, termasuk bagaimana cara mematikan fungsi layanan ini dapat ditemukan pada ">
+
+<!ENTITY rights.intro-point4a "&brandShortName; juga menawarkan layanan opsional yang dapat digunakan seperti halnya layanan pemutakhiran pengaya. Akan tetapi kami tidak menjamin keakuratan atau tingkat kesalahan layanan tersebut secara 100&#037;. Untuk keterangan lebih lanjut, termasuk bagaimana cara mematikan fungsi layanan ini dapat ditemukan pada ">
 <!ENTITY rights.intro-point4b "ketentuan layanan">
 <!ENTITY rights.intro-point4c ".">
-
 <!-- point 4 text for unbranded builds -->
+
 <!ENTITY rights.intro-point4a-unbranded "Jika produk ini menyertakan layanan web, seluruh ketentuan layanan tersebut akan ditaut ke bagian ">
 <!ENTITY rights.intro-point4b-unbranded "Layanan Situs Web">
 <!ENTITY rights.intro-point4c-unbranded ".">
 
 <!ENTITY rights.webservices-header "Layanan Situs Web &brandFullName;">
-
 <!-- Note that this paragraph references a couple of entities from
      preferences/security.dtd, so that we can refer to text the user sees in
      the UI, without this page being forgotten every time those strings are
      updated.  -->
 <!-- intro paragraph for branded builds -->
+
 <!ENTITY rights.webservices-a "&brandFullName; menggunakan layanan opsional (&quot;Layanan&quot;), seperti halnya layanan pemutakhiran pengaya, yang tersedia untuk Anda beserta versi biner &brandShortName; yang dijelaskan di bawah ini. Jika Anda tidak menginginkan untuk menggunakan Layanan atau tidak menerima persyaratan di bawah ini, Anda dapat mematikan fungsi layanan pemutakhiran pengaya melalui pengaturan aplikasi, kemudian memilih tab ">
 <!ENTITY rights.webservices-b "Canggih">
 <!ENTITY rights.webservices-c " kemudian pilih tab ">
 <!ENTITY rights.webservices-d "Pemutakhiran">
 <!ENTITY rights.webservices-e " dan matikan pengaturan untuk &quot;Otomatis periksa versi baru untuk&quot;.">
-
 <!-- intro paragraph for unbranded builds -->
+
 <!ENTITY rights.webservices-unbranded "Deskripsi mengenai layanan web yang tersedia bersama produk, beserta petunjuk untuk mematikan layanan tersebut, jika dapat diterapkan, akan tersedia di bawah ini.">
-
 <!-- point 1 text for unbranded builds -->
-<!ENTITY rights.webservices-term1-unbranded "Semua persyaratan layanan yang dapat diterapkan akan tersedia di bawah ini.">
 
+<!ENTITY rights.webservices-term1-unbranded "Semua persyaratan layanan yang dapat diterapkan akan tersedia di bawah ini.">
 <!-- points 1-7 text for branded builds -->
+
 <!ENTITY rights.webservices-term1 "&vendorShortName; dapat memberhentikan atau mengubah Layanan sesuai dengan kebijaksanaan masing-masing.">
 <!ENTITY rights.webservices-term2 "Anda dipersilakan untuk menggunakan Layanan tersebut dengan menggunakan &brandShortName; yang tersedia dan Anda berhak untuk menggunakannya. &vendorShortName; dan para lisensor berhak atas hak lainnya dalam Layanan tersebut. Persyaratan ini tidak dimaksudkan untuk membatasi hak yang diberikan atas dasar lisensi kode sumber terbuka yang dapat diterapkan pada &brandShortName; dan versi kode sumber &brandShortName; yang berkaitan.">
 <!ENTITY rights.webservices-term3 "Layanan disediakan &quot;sebagaimana adanya&quot;. &vendorShortName;, para kontributor, lisensor, dan distributor menyangkal semua jaminan dan garansi, baik yang telah disebutkan mau pun tersirat, termasuk secara tak terbatas, bahwa Layanan dapat digunakan untuk kepentingan dagang (merchantable) dan sesuai dengan penggunaan khusus oleh Anda. Anda menanggung seluruh risiko atas Layanan yang Anda pilih untuk Anda gunakan dan atas performansi Layanan tersebut. Beberapa yurisdiksi tidak mengizinkan pengecualian atau pembatasan pada jaminan yang tersirat sehingga penyangkalan ini tidak dapat diterapkan pada Anda.">

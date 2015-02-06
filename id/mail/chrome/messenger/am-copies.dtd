@@ -1,8 +1,8 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-
 <!-- extracted from am-copies.xul -->
+
 
 <!ENTITY copyAndFolderTitle.label "Salinan &amp; Folder">
 <!ENTITY sendingPrefix.label "Saat mengirim pesan, secara otomatis: ">
@@ -25,26 +25,26 @@
 <!ENTITY sentFolderOn.accesskey "r">
 <!ENTITY sentInOtherFolder.label "Lainnya:">
 <!ENTITY sentInOtherFolder.accesskey "L">
+<!-- LOCALIZATION NOTE (archivesFolderOn.label): OK to translate this, bug #57440 -->
+<!ENTITY archivesTitle.label "Arsip Pesan">
+<!ENTITY keepArchives.label "Letakkan arsip pesan di:">
+<!ENTITY keepArchives.accesskey "a">
+<!ENTITY archiveHierarchyButton.label "Opsi pengarsipan…">
+<!ENTITY archiveHierarchyButton.accesskey "a">
+<!ENTITY archivesFolderOn.label "Folder &quot;Arsip&quot; di:">
+<!ENTITY archivesFolderOn.accesskey "A">
+<!ENTITY archiveInOtherFolder.label "Lainnya:">
+<!ENTITY archiveInOtherFolder.accesskey "L">
+<!ENTITY specialFolders.label "Konsep dan Templat">
+<!ENTITY keepDrafts.label "Letakkan pesan konsep di:">
 <!-- LOCALIZATION NOTE (draftsFolderOn.label): OK to translate this, bug #57440 -->
 <!ENTITY draftsFolderOn.label "Folder &quot;Konsep&quot; di:">
 <!ENTITY draftsFolderOn.accesskey "d">
 <!ENTITY draftInOtherFolder.label "Lainnya:">
 <!ENTITY draftInOtherFolder.accesskey "L">
-<!-- LOCALIZATION NOTE (archivesFolderOn.label): OK to translate this, bug #57440 -->
-<!ENTITY archivesFolderOn.label "Folder &quot;Arsip&quot; di:">
-<!ENTITY archivesFolderOn.accesskey "A">
-<!ENTITY archiveInOtherFolder.label "Lainnya:">
-<!ENTITY archiveInOtherFolder.accesskey "L">
+<!ENTITY keepTemplates.label "Letakkan pesan templat di:">
 <!-- LOCALIZATION NOTE (templatesFolderOn.label): OK to translate this, bug #57440 -->
 <!ENTITY templatesFolderOn.label "Folder &quot;Templat&quot; di:">
 <!ENTITY templatesFolderOn.accesskey "m">
 <!ENTITY templateInOtherFolder.label "Lainnya:">
 <!ENTITY templateInOtherFolder.accesskey "a">
-<!ENTITY specialFolders.label "Konsep dan Templat">
-<!ENTITY keepDrafts.label "Letakkan pesan konsep di:">
-<!ENTITY keepArchives.label "Letakkan arsip pesan di:">
-<!ENTITY keepArchives.accesskey "a">
-<!ENTITY keepTemplates.label "Letakkan pesan templat di:">
-<!ENTITY archiveHierarchyButton.label "Opsi pengarsipan…">
-<!ENTITY archiveHierarchyButton.accesskey "a">
-<!ENTITY archivesTitle.label "Arsip Pesan">
