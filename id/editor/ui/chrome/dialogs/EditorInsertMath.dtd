@@ -3,10 +3,13 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!-- Window title -->
 
+<!ENTITY windowTitle.label "Sisipkan Matematika">
+
+<!ENTITY sourceEditField.label "Masukkan sumber kode LaTeX:">
 
 <!ENTITY options.label "Pengaturan">
-
-
+<!ENTITY optionInline.label "Mode sebaris">
+<!ENTITY optionInline.accesskey "s">
 
 
 

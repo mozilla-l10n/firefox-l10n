@@ -71,7 +71,6 @@
 <!-- Localization note (switch_button_message): This string should be as short
      as possible because it's shown as a label in a toast.  Ideally, this string
      is upper-case, to match Google and Android's convention. -->
-<!ENTITY switch_button_message "PINDAH">
 
 
 
@@ -91,7 +90,7 @@
 <!-- Localization note (overlay_share_bookmark_btn_label) : This string is
      used in the share overlay menu to select an action. It is the verb
      "to bookmark", not the noun "a bookmark". -->
-<!ENTITY overlay_share_reading_list_btn_label "Tambahkan ke Daftar Baca">
+
 
 
 
@@ -214,7 +213,7 @@ size. -->
 
 
 <!ENTITY pref_panels_show "Tampilkan">
-<!ENTITY pref_panels_hide "Sembunyikan">
+
 
 
 
@@ -244,14 +243,14 @@ size. -->
      actual notification that an update is available. -->
 
 <!ENTITY pref_update_autodownload_never "Tidak">
-<!ENTITY pref_update_autodownload_always "Selalu">
+
 <!-- Localization note (help_menu) : This string is used in the main menu-->
 
 <!ENTITY quit "Keluar">
 
 <!ENTITY addons "Pengaya">
 
-<!ENTITY apps "Aplikasi">
+
 <!ENTITY char_encoding "Pengodean Karakter">
 
 
@@ -270,7 +269,7 @@ size. -->
 
 
 
-<!ENTITY set_image_chooser_title "Setel Gambar sebagai">
+
 <!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
 <!ENTITY find_prev "Sebelumnya">
@@ -278,7 +277,7 @@ size. -->
 
 <!-- Localization note (media_sending_to, media_play, media_pause, media_stop) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
-<!ENTITY media_play "Putar">
+
 <!ENTITY media_pause "Tunda">
 
 
@@ -344,8 +343,6 @@ size. -->
      text underneath empty thumbnails in the Top Sites page on about:home. -->
 <!-- Localization note (home_title): This string should be kept in sync
      with the page title defined in aboutHome.dtd -->
-
-<!ENTITY home_title "Beranda &brandShortName;">
 
 
 
@@ -444,7 +441,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      replaced with the name of the search engine. The placeholder &formatS2; will be
      replaced with the search query. -->
 
-<!ENTITY webapp_generic_name "Aplikasi">
 
 <!-- Updater notifications -->
 

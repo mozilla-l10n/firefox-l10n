@@ -16,8 +16,8 @@
 <!ENTITY pasteAsQuotationCmd.label "Tempel sebagai Kutipan">
 <!ENTITY pasteAsQuotationCmd.accesskey "K">
 <!ENTITY pasteAsQuotationCmd.key "o">
-
-
+<!ENTITY findBarCmd.label "Cari…">
+<!ENTITY findReplaceCmd.label "Cari dan Ganti…">
 <!ENTITY enableInlineSpellChecker.label "Periksa Ejaan saat Mengetik">
 <!ENTITY enableInlineSpellChecker.accesskey "e">
 <!ENTITY checkSpellingCmd2.label "Periksa Ejaan">
@@ -25,6 +25,8 @@
 <!ENTITY checkSpellingCmd2.key "k">
 <!-- Insert menu items -->
 
+<!ENTITY insertMenu.label "Sisipkan">
+<!ENTITY insertMenu.accesskey "i">
 <!ENTITY insertLinkCmd.label "Tautan…">
 <!ENTITY insertLinkCmd.accesskey "T">
 <!ENTITY insertLinkCmd.key "l">
@@ -38,8 +40,8 @@
 <!ENTITY insertTableCmd.accesskey "T">
 <!ENTITY insertHTMLCmd.label "HTML…">
 <!ENTITY insertHTMLCmd.accesskey "H">
-
-
+<!ENTITY insertMathCmd.label "Matematika…">
+<!ENTITY insertMathCmd.accesskey "M">
 <!ENTITY insertCharsCmd.label "Karakter dan Simbol…">
 <!ENTITY insertCharsCmd.accesskey "K">
 <!ENTITY insertBreakAllCmd.label "Pindah Baris di Bawah Gambar">
@@ -71,12 +73,14 @@
 <!ENTITY FontSizeSelect.tooltip "Pilih ukuran huruf">
 <!ENTITY decreaseFontSize.label "Lebih Kecil">
 <!ENTITY decreaseFontSize.accesskey "K">
-
+<!ENTITY decrementFontSize.key "&lt;">
 <!-- < is above this key on many keyboards -->
+<!ENTITY decrementFontSize.key2 ","> 
 <!ENTITY increaseFontSize.label "Lebih Besar">
 <!ENTITY increaseFontSize.accesskey "b">
-
+<!ENTITY incrementFontSize.key "&gt;">
 <!-- > is above this key on many keyboards -->
+<!ENTITY incrementFontSize.key2 "."> 
 
 <!ENTITY fontSizeMenu.label "Ukuran">
 <!ENTITY fontSizeMenu.accesskey "U">
