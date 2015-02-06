@@ -35,7 +35,7 @@
 
 
 
-
+<!ENTITY runtimeMenu_showDevicePrefs_label "Preferințele pentru dispozitiv">
 
 
 <!ENTITY viewMenu_label "Vizualizează">
@@ -124,12 +124,14 @@
 
 <!-- Device Preferences -->
 
+<!ENTITY devicepreferences_title "Preferințele pentru dispozitiv">
 
 
 
 
-
-
+<!ENTITY devicepreferences_typeboolean "Adevărat/fals">
+<!ENTITY devicepreferences_typenumber "Număr">
+<!ENTITY devicepreferences_typestring "Text">
 
 <!-- Monitor -->
 <!ENTITY monitor_help "Ajutor">
