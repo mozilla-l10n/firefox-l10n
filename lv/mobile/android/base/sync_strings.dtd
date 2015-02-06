@@ -170,10 +170,11 @@
 <!ENTITY fxaccount_confirm_account_change_email "Aizmirsāt epasta adresi?">
 <!ENTITY fxaccount_confirm_account_verification_link_sent2 "Apstiprinājuma e-pasts ir nosūtīts">
 <!ENTITY fxaccount_confirm_account_verification_link_not_sent2 "Neizdevās nosūtīt apstiprinājuma e-pastu">
+<!ENTITY fxaccount_resend_unlock_code_button_label "Nosūtīt vēlreiz atbloķēšanas epastu">
+<!ENTITY fxaccount_unlock_code_sent "Konta atbloķēšanas epasts ir nosūtīs">
+<!ENTITY fxaccount_unlock_code_not_sent "Neizdevās nosūtīt konta atbloķēšanas epastu">
 
-
-
-
+<!ENTITY fxaccount_sign_in_sub_header "Ierakstīties">
 <!ENTITY fxaccount_sign_in_button_label "Ierakstīties">
 <!ENTITY fxaccount_sign_in_forgot_password "Aizmirsāt paroli?">
 <!ENTITY fxaccount_sign_in_create_account_instead "Izveidot kontu">
@@ -182,13 +183,15 @@
 <!ENTITY fxaccount_account_verified_sub_header "Konts ir apstiprināts">
 <!ENTITY fxaccount_account_verified_description2 "Jūsu dati tūlīt tiks sinhronizēti.">
 
+<!ENTITY fxaccount_migration_finished_header "Atjaunināšana ir pabeigta">
 
 <!ENTITY fxaccount_update_credentials_header "Ierakstieties">
 <!ENTITY fxaccount_update_credentials_button_label "Ierakstīties">
 <!ENTITY fxaccount_update_credentials_unknown_error "Neizdevās ierakstīties">
 
-
-
+<!ENTITY fxaccount_finish_migrating_header "Pieslēdzieties, lai pabeigtu atjaunināšanu">
+<!ENTITY fxaccount_finish_migrating_button_label "Pabeigt atjaunināšanu">
+<!ENTITY fxaccount_finish_migrating_description "Atjauninot var tikt pārsūtīts liels datu daudzums, to vislabāk darī no WiFi tīkla.">
 
 <!ENTITY fxaccount_status_header2 "Firefox konts">
 <!ENTITY fxaccount_status_signed_in_as "Pierakstījies kā">
@@ -203,9 +206,9 @@
 <!ENTITY fxaccount_status_needs_credentials "Nevar savienoties. Pieskarieties te, lai ierakstītos.">
 <!ENTITY fxaccount_status_needs_upgrade "Nepieciešams &brandShortName; atjauninājums, lai ierakstītos.">
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled "&syncBrand.shortName.label; ir gatavs darbam, bet nesāksies automātiski. Ieslēdziet “Automātisko datu sinhronizāciju” Android iestatījumu sadaļā Datu lietojums.">
-
+<!ENTITY fxaccount_status_needs_master_sync_automatically_enabled_v21 "&syncBrand.shortName.label; ir gatava darbam, bet nesāksies automātiski. Ieslēdziet “Automātiskā datu sinhronizācija” Android iestatījumu sadaļā Konti.">
 <!ENTITY fxaccount_status_needs_account_enabled "&syncBrand.shortName.label; ir gatavs darbam, bet nesāksies automātiski. Pieskarieties, lai sāktu sinhronizēt.">
-
+<!ENTITY fxaccount_status_needs_finish_migrating "Pieskarieties, lai pieslēgtos Firefox kontam.">
 <!ENTITY fxaccount_status_bookmarks "Grāmatzīmes">
 <!ENTITY fxaccount_status_history "Vēsture">
 <!ENTITY fxaccount_status_passwords "Paroles">
@@ -220,7 +223,7 @@
 <!ENTITY fxaccount_status_more "Vairāk&ellipsis;">
 
 <!ENTITY fxaccount_remove_account_dialog_title "Noņemt Firefox kontu?">
-<!ENTITY fxaccount_remove_account_dialog_message "&brandShortName; pārtrauks sinhronizāciju ar jūšu kontu, taču dati jūsu ierīcē paliks neskarti.">
+<!ENTITY fxaccount_remove_account_dialog_message "&brandShortName; pārtrauks sinhronizāciju ar jūsu kontu, taču dati jūsu ierīcē paliks neskarti.">
 <!-- Localization note: format string below will be replaced
      with the Firefox Account's email address. -->
 <!ENTITY fxaccount_remove_account_toast "Firefox konts &formatS; ir noņemts.">
@@ -249,16 +252,18 @@
 <!ENTITY fxaccount_remote_error_ATTEMPT_TO_ACCESS_AN_ACCOUNT_THAT_DOES_NOT_EXIST "Nederīgs e-pasts vai parole">
 <!ENTITY fxaccount_remote_error_INCORRECT_PASSWORD "Nederīgs e-pasts vai parole">
 <!ENTITY fxaccount_remote_error_ATTEMPT_TO_OPERATE_ON_AN_UNVERIFIED_ACCOUNT "Konts nav apstiprināts">
-<!ENTITY fxaccount_remote_error_CLIENT_HAS_SENT_TOO_MANY_REQUESTS "Serveris pārslogots, mēģiniet vēlreiz pēc brīža">
-<!ENTITY fxaccount_remote_error_SERVICE_TEMPORARILY_UNAVAILABLE_TO_DUE_HIGH_LOAD "Serveris pārslogots, mēģiniet vēlreiz pēc brīža">
+<!ENTITY fxaccount_remote_error_CLIENT_HAS_SENT_TOO_MANY_REQUESTS "Serveris ir pārslogots, mēģiniet vēlreiz pēc brīža">
+<!ENTITY fxaccount_remote_error_SERVICE_TEMPORARILY_UNAVAILABLE_TO_DUE_HIGH_LOAD "Serveris ir pārslogots, mēģiniet vēlreiz pēc brīža">
 <!ENTITY fxaccount_remote_error_UNKNOWN_ERROR "Radusies problēma">
 <!ENTITY fxaccount_remote_error_COULD_NOT_CONNECT "Nevar savienoties ar tīklu">
-
+<!ENTITY fxaccount_remote_error_ACCOUNT_LOCKED "Konts ir bloķēts. &formatS1;">
 
 <!ENTITY fxaccount_sync_sign_in_error_notification_title2 "&syncBrand.shortName.label; nav savienots">
 <!-- Localization note: the format string below will be replaced
      with the Firefox Account's email address. -->
 <!ENTITY fxaccount_sync_sign_in_error_notification_text2 "Pieskarieties te, lai ierakstītos kā &formatS;">
 
+<!ENTITY fxaccount_sync_finish_migrating_notification_title "Pabeigt atjaunināšanu &syncBrand.shortName.label;?">
 <!-- Localization note: the format string below will be replaced
      with the Firefox Account's email address. -->
+<!ENTITY fxaccount_sync_finish_migrating_notification_text "Pieskarieties te, lai pieslēgtos kā &formatS;">
