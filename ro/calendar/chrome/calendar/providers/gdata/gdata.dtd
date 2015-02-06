@@ -13,6 +13,7 @@
 <!ENTITY gdata.migration.upgrade.accesskey "u">
 <!ENTITY gdata.migration.showagain.label "Verifică întotdeauna ">
 
+<!ENTITY gdata.reminder.default "Reamintire implicită">
 <!ENTITY gdata.reminder.action.sms.label "Trimite un mesaj text">
 
 
