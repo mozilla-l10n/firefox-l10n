@@ -26,6 +26,7 @@
 <!ENTITY translateExceptions.accesskey "z">
 <!ENTITY translation.options.attribution.beforeLogo "Traduzioni a cura di">
 <!ENTITY translation.options.attribution.afterLogo "">
+<!ENTITY drmContent.label "Contenuti con DRM">
 <!ENTITY playDRMContent.label "Riproduci contenuti con DRM">
 <!ENTITY playDRMContent.accesskey "R">
 <!ENTITY playDRMContent.learnMore.label "Ulteriori informazioni">
