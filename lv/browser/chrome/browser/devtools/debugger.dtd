@@ -44,7 +44,7 @@
   -  checkbox that toggles auto pretty print. -->
 
 <!ENTITY debuggerUI.autoPrettyPrint     "Automātiski uzskaistināt minificētu kodu">
-
+<!ENTITY debuggerUI.autoPrettyPrint.accesskey "k">
 <!-- LOCALIZATION NOTE (debuggerUI.sources.toggleBreakpoints): This is the tooltip for the
   -  button that toggles all breakpoints for all sources. -->
 
@@ -80,7 +80,7 @@
   -  checkbox that toggles visibility of a designated variables filter box. -->
 
 <!ENTITY debuggerUI.showVarsFilter           "Rādīt mainīgo filtrēšanas kasti">
-
+<!ENTITY debuggerUI.showVarsFilter.accesskey "f">
 <!-- LOCALIZATION NOTE (debuggerUI.showOnlyEnum): This is the label for the
   -  checkbox that toggles visibility of hidden (non-enumerable) variables and
   -  properties in stack views. The "enumerable" flag is a state of a property
@@ -99,7 +99,7 @@
   -  automatically black boxed or not. -->
 
 <!ENTITY debuggerUI.autoBlackBox           "Automātiski likt minificētu kodu melnajā kastē">
-
+<!ENTITY debuggerUI.autoBlackBox.accesskey "A">
 <!-- LOCALIZATION NOTE (debuggerUI.searchPanelOperators): This is the text that
   -  appears in the filter panel popup as a header for the operators part. -->
 
