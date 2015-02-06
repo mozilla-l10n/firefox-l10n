@@ -89,12 +89,12 @@
 <!ENTITY bookmarks.folder.unfiled.label "Markah Belum Diurut">
 <!ENTITY bookmarks.folder.desktop.label "Markah Desktop">
 <!ENTITY bookmarks.folder.mobile.label "Markah Seluler">
-<!ENTITY bookmarks.folder.readinglist.label "Daftar Baca">
+<!ENTITY bookmarks.folder.readinglist.label "Daftar Bacaan">
 <!-- Pinned sites on about:home. This folder should never be shown to the user, but we have to give it a string name -->
 <!ENTITY bookmarks.folder.pinned.label "Permanen">
 <!-- Notification strings -->
 
-<!ENTITY sync.notification.oneaccount.label "hanya satu akun &syncBrand.fullName.label; yang didukung.">
+<!ENTITY sync.notification.oneaccount.label "Hanya satu akun &syncBrand.fullName.label; yang didukung.">
 <!ENTITY sync.notification.configure.saved "Pilihan Anda telah disimpan.">
 <!-- Incorrect settings and changing credentials. -->
 
@@ -167,12 +167,12 @@
 <!-- Localization note: &formatS; is the Firefox Account's email address. -->
 <!ENTITY fxaccount_confirm_account_verification_link "Tautan verifikasi telah dikirim ke &formatS;">
 <!ENTITY fxaccount_confirm_account_resend_email "Kirim ulang emailnya">
-
+<!ENTITY fxaccount_confirm_account_change_email "Lupa alamat email ini?">
 <!ENTITY fxaccount_confirm_account_verification_link_sent2 "Email verifikasi dikirim">
 <!ENTITY fxaccount_confirm_account_verification_link_not_sent2 "Tidak dapat mengirim email verifikasi">
-
-
-
+<!ENTITY fxaccount_resend_unlock_code_button_label "Kirim ulang email pembuka kunci">
+<!ENTITY fxaccount_unlock_code_sent "Email pembukaan akun dikirim">
+<!ENTITY fxaccount_unlock_code_not_sent "Tidak dapat mengirimkan email pembukaan akun">
 
 <!ENTITY fxaccount_sign_in_sub_header "Masuk">
 <!ENTITY fxaccount_sign_in_button_label "Masuk">
@@ -183,19 +183,21 @@
 <!ENTITY fxaccount_account_verified_sub_header "Akun diverifikasi">
 <!ENTITY fxaccount_account_verified_description2 "Data akan disinkronkan sebentar lagi.">
 
+<!ENTITY fxaccount_migration_finished_header "Peningkatan selesai">
 
 <!ENTITY fxaccount_update_credentials_header "Masuk">
 <!ENTITY fxaccount_update_credentials_button_label "Masuk">
 <!ENTITY fxaccount_update_credentials_unknown_error "Tidak dapat masuk">
 
-
-
+<!ENTITY fxaccount_finish_migrating_header "Masuk untuk menyelesaikan peningkatan">
+<!ENTITY fxaccount_finish_migrating_button_label "Peningkatan selesai">
+<!ENTITY fxaccount_finish_migrating_description "Proses peningkatan mungkin mentransfer banyak data. Lebih baik lakukan lewat jaringan Wi-Fi.">
 
 <!ENTITY fxaccount_status_header2 "Akun Firefox">
 <!ENTITY fxaccount_status_signed_in_as "Masuk sebagai">
 <!ENTITY fxaccount_status_auth_server "Server akun">
-
-
+<!ENTITY fxaccount_status_sync_now "Sinkronkan sekarang">
+<!ENTITY fxaccount_status_syncing2 "Menyinkronkan…">
 <!ENTITY fxaccount_status_device_name "Nama perangkat">
 <!ENTITY fxaccount_status_sync_server "Server Sync">
 <!ENTITY fxaccount_status_sync "&syncBrand.shortName.label;">
@@ -204,9 +206,9 @@
 <!ENTITY fxaccount_status_needs_credentials "Tidak dapat tersambung. Sentuh untuk masuk.">
 <!ENTITY fxaccount_status_needs_upgrade "Anda harus memperbarui &brandShortName; agar dapat masuk.">
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled "&syncBrand.shortName.label; telah siap tetapi belum menyinkronkan secara otomatis. Aktifkan “Sinkronisasi data otomatis” pada Setelan Android &gt; Penggunaan Data.">
-
+<!ENTITY fxaccount_status_needs_master_sync_automatically_enabled_v21 "&syncBrand.shortName.label; telah siap tetapi belum menyinkronkan secara otomatis. Aktifkan “Sinkronisasi data otomatis” pada Setelan Android &gt; Akun.">
 <!ENTITY fxaccount_status_needs_account_enabled "&syncBrand.shortName.label; telah siap tetapi belum menyinkronkan secara otomatis. Ketuk untuk mulai menyinkronkan.">
-
+<!ENTITY fxaccount_status_needs_finish_migrating "Ketuk untuk masuk ke Firefox Account baru Anda.">
 <!ENTITY fxaccount_status_bookmarks "Markah">
 <!ENTITY fxaccount_status_history "Riwayat">
 <!ENTITY fxaccount_status_passwords "Sandi">
@@ -254,12 +256,14 @@
 <!ENTITY fxaccount_remote_error_SERVICE_TEMPORARILY_UNAVAILABLE_TO_DUE_HIGH_LOAD "Server sedang sibuk, coba lagi dalam beberapa saat">
 <!ENTITY fxaccount_remote_error_UNKNOWN_ERROR "Terjadi masalah">
 <!ENTITY fxaccount_remote_error_COULD_NOT_CONNECT "Tidak dapat tersambung ke jaringan">
-
+<!ENTITY fxaccount_remote_error_ACCOUNT_LOCKED "Akun terkunci. &formatS1;">
 
 <!ENTITY fxaccount_sync_sign_in_error_notification_title2 "&syncBrand.shortName.label; tidak tersambung">
 <!-- Localization note: the format string below will be replaced
      with the Firefox Account's email address. -->
 <!ENTITY fxaccount_sync_sign_in_error_notification_text2 "Sentuh untuk masuk sebagai &formatS;">
 
+<!ENTITY fxaccount_sync_finish_migrating_notification_title "Selesaikan peningkatan &syncBrand.shortName.label;?">
 <!-- Localization note: the format string below will be replaced
      with the Firefox Account's email address. -->
+<!ENTITY fxaccount_sync_finish_migrating_notification_text "Ketuk untuk masuk sebagai &formatS;">
