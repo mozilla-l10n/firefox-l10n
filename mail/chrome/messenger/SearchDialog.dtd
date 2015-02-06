@@ -17,10 +17,7 @@
 <!ENTITY deleteButton.accesskey      "ч">
 <!ENTITY searchDialogTitle.label     "Пошук листів…">
 <!ENTITY results.label               "Результати">
-<!ENTITY fileHereMenu.label          "Помістити сюди">
-<!ENTITY fileHereMenu.accesskey      "ю">
-<!ENTITY fileButton.label            "Помістити">
-<!ENTITY fileButton.accesskey        "м">
+
 <!ENTITY closeCmd.key                "W"> 
 <!ENTITY openInFolder.label          "Відкрити у теці">
 <!ENTITY openInFolder.accesskey      "т">
@@ -57,22 +54,4 @@
 <!ENTITY idColumn.label "Порядок отримання">
 
 <!-- Thread Pane Tooltips -->
-<!ENTITY columnChooser.tooltip "Натисніть, щоб вибрати видимі стовпчики">
-<!ENTITY threadColumn.tooltip "Натисніть тут, щоб переглянути гілку"> 
-<!ENTITY fromColumn.tooltip "Натисніть тут, щоб відсортувати листи за відправником">
-<!ENTITY recipientColumn.tooltip "Натисніть тут, щоб відсортувати листи за адресатом">
-<!ENTITY subjectColumn.tooltip "Натисніть тут, щоб відсортувати листи за темою">
-<!ENTITY dateColumn.tooltip "Натисніть тут, щоб відсортувати листи за датою">
-<!ENTITY priorityColumn.tooltip "Натисніть тут, щоб відсортувати листи по важливості">
-<!ENTITY tagsColumn.tooltip "Натисніть тут, щоб відсортувати листи за мітками">
-<!ENTITY accountColumn.tooltip "Натисніть тут, щоб відсортувати листи за обліковим записом">
-<!ENTITY statusColumn.tooltip "Натисніть тут, щоб відсортувати листи за станом">
-<!ENTITY sizeColumn.tooltip "Натисніть тут, щоб відсортувати листи за розміром">
-<!ENTITY junkStatusColumn.tooltip "Натисніть тут, щоб відсортувати листи за міткою спаму">
-<!ENTITY unreadColumn.tooltip "Число непрочитаних листів у гілці">
-<!ENTITY totalColumn.tooltip "Загальне число листів у гілці">
-<!ENTITY readColumn.tooltip "Натисніть тут, щоб відсортувати листи за прочитаностю">
-<!ENTITY receivedColumn.tooltip "Натисніть тут щоб відсортувати листи за датою отримання">
-<!ENTITY starredColumn.tooltip "Натисніть тут, щоб відсортувати листи за зірочкою">
-<!ENTITY locationColumn.tooltip "Натисніть тут, щоб відсортувати листи за їх розташуванням">
-<!ENTITY idColumn.tooltip "Натисніть тут, щоб відсортувати листи за порядком отримання">
+

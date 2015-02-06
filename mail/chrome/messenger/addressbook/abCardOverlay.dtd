@@ -47,10 +47,6 @@
 <!ENTITY Unknown.label                  "Невідомо">
 <!ENTITY chatName.label                 "Ім’я в чаті:">
 
-<!ENTITY allowRemoteContent1.label      "Дозволити віддалений вміст.">
-<!ENTITY allowRemoteContent1.accesskey  "в">
-<!ENTITY allowRemoteContent1.tooltip    "В HTML-лист можливо вбудувати вміст із віддаленого джерела. При відкриванні такого листа, буде встановлено зв’язок з цим віддаленим джерелом. Це дає можливість відстежити факт читання листа. Встановивши цей прапорець, ви дозволите такий зовнішній вбудований вміст в HTML листах від цього контакту.">
-
 <!ENTITY WorkPhone.label                "Робочий:">
 <!ENTITY WorkPhone.accesskey            "б">
 <!ENTITY HomePhone.label                "Домашній:">

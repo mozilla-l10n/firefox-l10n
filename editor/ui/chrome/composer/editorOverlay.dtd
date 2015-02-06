@@ -16,7 +16,6 @@
 <!ENTITY pasteAsQuotationCmd.label "Вставити як цитату">
 <!ENTITY pasteAsQuotationCmd.accesskey "ц">
 <!ENTITY pasteAsQuotationCmd.key "o">
-<!ENTITY findCmd.label "Знайти і замінити…">
 <!ENTITY enableInlineSpellChecker.label "Перевірка орфографії під час набору">
 <!ENTITY enableInlineSpellChecker.accesskey "ч">
 <!ENTITY checkSpellingCmd2.label "Перевірити правопис">
@@ -70,12 +69,12 @@
 <!ENTITY FontSizeSelect.tooltip "Вибір розміру шрифту">
 <!ENTITY decreaseFontSize.label "Менше">
 <!ENTITY decreaseFontSize.accesskey "М">
-<!ENTITY decreaseFontSize.key "-">
-<!ENTITY decreaseFontSize.key2 ","> <!-- < is above this key on many keyboards -->
+<!ENTITY decrementFontSize.key "&lt;">
+<!ENTITY decrementFontSize.key2 ","> <!-- < is above this key on many keyboards -->
 <!ENTITY increaseFontSize.label "Більше">
 <!ENTITY increaseFontSize.accesskey "Б">
-<!ENTITY increaseFontSize.key "+">
-<!ENTITY increaseFontSize.key2 "="> <!-- > is above this key on many keyboards -->
+<!ENTITY incrementFontSize.key "&gt;">
+<!ENTITY incrementFontSize.key2 "."> <!-- > is above this key on many keyboards -->
 
 <!ENTITY fontSizeMenu.label "Розмір">
 <!ENTITY fontSizeMenu.accesskey "Р">
