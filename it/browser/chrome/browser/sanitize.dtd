@@ -38,3 +38,5 @@
 <!ENTITY sanitizeEverythingUndoWarning "Questa azione non può essere annullata.">
 <!ENTITY dialog.width2 "34em">
 <!ENTITY column.width2 "17em">
+<!ENTITY inContentDialog.width "40em">
+<!ENTITY inContentColumn.width "30em">
