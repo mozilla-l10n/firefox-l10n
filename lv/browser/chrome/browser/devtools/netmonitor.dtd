@@ -205,9 +205,13 @@
   -  in the security tab describing the usage of HTTP Strict Transport Security. -->
 <!-- LOCALIZATION NOTE (netmonitorUI.security.hpkp): This is the label displayed
   -  in the security tab describing the usage of Public Key Pinning. -->
+
+<!ENTITY netmonitorUI.security.hpkp "Publisko atslēgu piesaiste:">
 <!-- LOCALIZATION NOTE (netmonitorUI.security.connection): This is the label displayed
   -  in the security tab describing the section containing information related to
   -  the secure connection. -->
+
+<!ENTITY netmonitorUI.security.connection "Savienojums:">
 <!-- LOCALIZATION NOTE (netmonitorUI.security.certificate): This is the label displayed
   -  in the security tab describing the server certificate section. -->
 
