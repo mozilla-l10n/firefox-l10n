@@ -8,6 +8,7 @@
 <!ENTITY aboutPrivateBrowsing.subtitle         "&brandShortName; nu va memora nimic pentru această fereastră.">
 <!ENTITY aboutPrivateBrowsing.subtitle.normal  "&brandShortName; nu va memora nimic pentru această fereastră fără urme.">
 
+<!ENTITY aboutPrivateBrowsing.description      "Aceasta include istoricul navigării, istoricul căutărilor, istoricul descărcărilor, istoricul formularelor web, cookie-urile și fișierelor de internet temporare. Totuși, fișierele pe care le-ați descărcat și semnele de carte pe care le-ați făcut vor fi păstrate.">
 
 <!ENTITY aboutPrivateBrowsing.notPrivate       "Nu sunteți într-o fereastră fără urme.">
 
