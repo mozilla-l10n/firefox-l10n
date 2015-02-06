@@ -5,13 +5,13 @@
 <!ENTITY windowTitle "Firefox WebIDE">
 
 <!ENTITY projectMenu_label "ಯೋಜನೆ">
+<!ENTITY projectMenu_accesskey "P">
 
 
 
-
-
-
-
+<!ENTITY projectMenu_importPackagedApp_accesskey "P">
+<!ENTITY projectMenu_importHostedApp_label "ತೆರೆದ ಆತಿಥೇಯ ಆಫ್…">
+<!ENTITY projectMenu_importHostedApp_accesskey "H">
 <!ENTITY projectMenu_selectApp_label "ಆಪ್ ಅನ್ನು ತೆರೆ...">
 <!ENTITY projectMenu_selectApp_accesskey "O">
 <!ENTITY projectMenu_play_label "ಅನುಸ್ಥಾಪಿಸು ಮತ್ತು ಚಲಾಯಿಸು">
@@ -39,8 +39,8 @@
 <!ENTITY runtimeMenu_showDetails_accesskey "E">
 <!ENTITY runtimeMenu_showMonitor_label "ಮಾನಿಟರ್">
 <!ENTITY runtimeMenu_showMonitor_accesskey "M">
-
-
+<!ENTITY runtimeMenu_showDevicePrefs_label "ಸಾಧನದ ಆದ್ಯತೆಗಳು">
+<!ENTITY runtimeMenu_showDevicePrefs_accesskey "D">
 
 <!ENTITY viewMenu_label "ನೋಟ">
 <!ENTITY viewMenu_accesskey "V">
@@ -51,10 +51,10 @@
 <!ENTITY viewMenu_zoomout_label "ಕಿರಿದಾಗಿಸು">
 <!ENTITY viewMenu_zoomout_accesskey "O">
 <!ENTITY viewMenu_resetzoom_label "ಹಿಂದಿನ ಸ್ಥಿತಿ ಜೂಮ್">
-
+<!ENTITY viewMenu_resetzoom_accesskey "R">
 
 <!ENTITY projectButton_label "R">
-
+<!ENTITY runtimeButton_label "ನಿರ್ವಹಣೆ ಸಮಯ ಆಯ್ಕೆಮಾಡು">
 <!-- We try to repicate Firefox' bindings: -->
 <!-- quit app -->
 
@@ -62,9 +62,11 @@
 <!-- open menu -->
 <!ENTITY key_showProjectPanel "O">
 <!-- reload app -->
+<!ENTITY key_play "R">
 <!-- show toolbox -->
 <!ENTITY key_toggleToolbox "VK_F12">
 <!-- toggle sidebar -->
+<!ENTITY key_toggleEditor "B">
 <!-- zoom -->
 
 
@@ -72,18 +74,18 @@
 
 <!ENTITY projectPanel_myProjects "ನನ್ನ ಯೋಜನೆಗಳು">
 <!ENTITY projectPanel_runtimeApps "ಚಾಲನಾಸಮಯದ ಆಪ್‌ಗಳು">
-
+<!ENTITY projectPanel_tabs "ಹಾಳೆಗಳು">
 <!ENTITY runtimePanel_usb "USB ಸಾಧನಗಳು">
 <!ENTITY runtimePanel_wifi "ವೈ-ಫೈ ಸಾಧನಗಳು">
 <!ENTITY runtimePanel_simulator "ಸಿಮುಲೇಟರ್‌ಗಳು">
-
+<!ENTITY runtimePanel_other "ಇತರೆ">
 <!ENTITY runtimePanel_installsimulator "ಸಿಮ್ಯುಲೇಟರ್ ಅನುಸ್ಥಾಪಿಸು">
 <!ENTITY runtimePanel_noadbhelper "ADB ಹೆಲ್ಪರ್ ಅನ್ನು ಅನುಸ್ಥಾಪಿಸಿ">
 <!ENTITY runtimePanel_nousbdevice "ನಿಮ್ಮ ಸಾಧನವು ಕಾಣಿಸುತ್ತಿಲ್ಲವೆ?">
 <!-- Lense -->
 
 <!ENTITY details_valid_header "ಮಾನ್ಯ">
-
+<!ENTITY details_warning_header "ಎಚ್ಚರಿಕೆಗಳು">
 <!ENTITY details_error_header "ದೋಷಗಳು">
 <!ENTITY details_description "ವಿವರಣೆ">
 <!ENTITY details_location "ಸ್ಥಳ">
