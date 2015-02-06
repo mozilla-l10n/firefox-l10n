@@ -51,5 +51,7 @@
      on Firefox if they don't resolve the user's problem, like "or if they don't fix it, we'll fire them." If this doesn't
      work in your language, you can change it to something like "no matter what" or just remove it entirely. -->
 
+<!ENTITY sad.thanksMessageBottom   "Sebaik mungkin.">
+
 <!ENTITY feedback.privacy2         "Untuk privasi Anda, jangan sertakan informasi yang dapat mengidentifikasi orang pada saran Anda.">
 <!ENTITY feedback.send             "Kirim Saran">
