@@ -21,7 +21,7 @@
 <!ENTITY projectMenu_debug_label "Atkļūdot lietotni">
 <!ENTITY projectMenu_debug_accesskey "D">
 <!ENTITY projectMenu_remove_label "Aizvākt projektu">
-
+<!ENTITY projectMenu_remove_accesskey "A">
 <!ENTITY projectMenu_showPrefs_label "Iestatījumi">
 <!ENTITY projectMenu_showPrefs_accesskey "e">
 <!ENTITY projectMenu_manageComponents_label "Pārvaldīt papildu komponentus">
@@ -114,8 +114,8 @@
 <!ENTITY prefs_general_title "Vispārējie">
 <!ENTITY prefs_restore "Atjaunot sākotnējos">
 <!ENTITY prefs_manage_components "Pārvaldīt papildu komponentus">
-
-
+<!ENTITY prefs_options_autoconnectruntime "Pieslēgties iepriekšējam izpildlaikam">
+<!ENTITY prefs_options_autoconnectruntime_tooltip "Palaižot WebIDE pieslēgties iepriekšējam izpildlaikam">
 <!ENTITY prefs_options_rememberlastproject "Atcerēties pēdējo projektu">
 <!ENTITY prefs_options_rememberlastproject_tooltip "Atjaunot iepriekšējo projektu palaižot WebIDE">
 <!ENTITY prefs_options_templatesurl "Šablona adrese">
