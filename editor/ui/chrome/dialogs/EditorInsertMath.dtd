@@ -10,12 +10,12 @@
 <!ENTITY options.label "Pengaturan">
 <!ENTITY optionInline.label "Mode sebaris">
 <!ENTITY optionInline.accesskey "s">
-
-
-
-
-
-
+<!ENTITY optionDisplay.label "Mode tampilan">
+<!ENTITY optionDisplay.accesskey "M">
+<!ENTITY optionLTR.label "Arah kiri ke kanan">
+<!ENTITY optionLTR.accesskey "i">
+<!ENTITY optionRTL.label "Arah kanan ke kiri">
+<!ENTITY optionRTL.accesskey "a">
 
 <!ENTITY insertButton.label "Sisipkan">
 <!ENTITY insertButton.accesskey "i">
