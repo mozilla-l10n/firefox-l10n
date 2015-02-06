@@ -776,7 +776,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY trackingContentBlocked.unblock2.accesskey "D">
 <!ENTITY trackingContentBlocked.block.label "Schutz aktivieren">
 <!ENTITY trackingContentBlocked.block.accesskey "a">
-<!ENTITY trackingContentBlocked.disabled.message "Schutz vor Verfolgung von Aktivitäten ist aktiv">
+<!ENTITY trackingContentBlocked.disabled.message "Schutz vor Verfolgung von Aktivitäten ist deaktiviert">
 
 <!ENTITY pointerLock.notification.message "Der Mauszeiger kann jederzeit durch Drücken der ESC-Taste wieder angezeigt werden.">
 
