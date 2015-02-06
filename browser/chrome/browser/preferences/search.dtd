@@ -7,9 +7,11 @@
 
 
 
+<!ENTITY engineNameColumn.label                "शोध इंजिन्स">
 <!ENTITY engineKeywordColumn.label             "मुख्यशब्द">
 
-
+<!ENTITY restoreDefaultSearchEngines.label     "मुलभूत शोध इंजिन पुर्वस्थित करा">
+<!ENTITY restoreDefaultSearchEngines.accesskey "D">
 
 
 
