@@ -13,13 +13,13 @@
 <!ENTITY projectMenu_importHostedApp_label "Atvērt tīkla lietotni…">
 <!ENTITY projectMenu_importHostedApp_accesskey "t">
 <!ENTITY projectMenu_selectApp_label "Atvērt lietotni…">
-
+<!ENTITY projectMenu_selectApp_accesskey "a">
 <!ENTITY projectMenu_play_label "Instalēt un palaist">
 <!ENTITY projectMenu_play_accesskey "I">
 <!ENTITY projectMenu_stop_label "Apturēt lietotni">
 <!ENTITY projectMenu_stop_accesskey "a">
 <!ENTITY projectMenu_debug_label "Atkļūdot lietotni">
-
+<!ENTITY projectMenu_debug_accesskey "D">
 <!ENTITY projectMenu_remove_label "Aizvākt projektu">
 
 <!ENTITY projectMenu_showPrefs_label "Iestatījumi">
@@ -51,7 +51,7 @@
 <!ENTITY viewMenu_zoomout_label "Attālināt">
 <!ENTITY viewMenu_zoomout_accesskey "A">
 <!ENTITY viewMenu_resetzoom_label "Atjaunot pietuvinājumu">
-<!ENTITY viewMenu_resetzoom_accesskey "R">
+<!ENTITY viewMenu_resetzoom_accesskey "P">
 
 <!ENTITY projectButton_label "Atvērt lietotni">
 <!ENTITY runtimeButton_label "Izvēlieties izpildlaiku">
