@@ -14,8 +14,8 @@
 <!ENTITY pref.dateformat.short "Scurt"  >
 
 <!ENTITY pref.timezones.caption "Fus orar">
-
-
+<!ENTITY pref.timezones.label "Selectați orașul cel mai apropiat din fusul orar în care vă aflați:">
+<!ENTITY pref.timezones.accesskey "S">
 
 <!ENTITY pref.defaults.label "Valori implicite pentru elementele noi">
 <!ENTITY pref.events.label "Evenimente">
