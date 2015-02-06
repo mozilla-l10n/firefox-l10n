@@ -14,12 +14,13 @@
 
 <!ENTITY  locationBar.label             "Bara adresei">
 
-
-
-
-
-
-
+<!ENTITY  locbar.suggest.label          "Când se folosește bara adresei, sugerează:">
+<!ENTITY  locbar.history.label          "Istoric">
+<!ENTITY  locbar.history.accesskey      "I">
+<!ENTITY  locbar.bookmarks.label        "Semne de carte">
+<!ENTITY  locbar.bookmarks.accesskey    "S">
+<!ENTITY  locbar.openpage.label         "Deschide filele">
+<!ENTITY  locbar.openpage.accesskey     "D">
 
 <!ENTITY  acceptCookies.label           "Acceptă cookie-uri de la saituri">
 <!ENTITY  acceptCookies.accesskey       "A">
