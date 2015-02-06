@@ -46,8 +46,6 @@
 <!ENTITY pkcs12.setpassword.label1 "Password copia di backup del certificato:">
 <!ENTITY pkcs12.setpassword.label2 "Password copia di backup del certificato (conferma):">
 <!ENTITY pkcs12.setpassword.reminder "Importante: se si dovesse scordare la password della copia di backup, non sarà possibile recuperare successivamente il contenuto. Si consiglia di conservare la password in un luogo sicuro.">
-<!ENTITY pkcs12.getpassword.title "Inserimento password">
-<!ENTITY pkcs12.getpassword.message "Inserire la password utilizzata per la copia di backup di questo certificato.">
 <!ENTITY chooseToken.title "Scelta token">
 <!ENTITY chooseToken.message1 "Selezionare un token.">
 <!ENTITY escrowWarn.title "Copia chiave di cifratura">
