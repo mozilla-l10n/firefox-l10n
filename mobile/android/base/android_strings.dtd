@@ -153,7 +153,7 @@
 <!ENTITY home_add_panel_installed "\u0027&formatS;\u0027 pievienot sākumlapai">
 <!ENTITY pref_category_home_content_settings "Satura iestatījumi">
 <!ENTITY pref_home_updates "Automātiskie atjauninājumi">
-
+<!ENTITY pref_home_updates_enabled "Aktivizēts">
 <!ENTITY pref_home_updates_wifi "Tikai pa Wi-Fi">
 <!ENTITY pref_home_suggested_sites "Rādīt lapu ieteikumus">
 <!ENTITY pref_home_suggested_sites_summary "Rādīt sākumlapā saites uz lapām, kas, mūsuprāt, varētu Jums interesēt">
@@ -172,7 +172,8 @@
 <!ENTITY pref_cookies_not_accept_foreign "Aktivētas, izņemot 3. pušu">
 <!ENTITY pref_cookies_disabled "Deaktivētas">
 
-
+<!ENTITY pref_tracking_protection_title "Izsekošanas aizsardzība">
+<!ENTITY pref_tracking_protection_summary "&brandShortName; neļaus lapām izsekot jūs">
 <!ENTITY pref_donottrack_title "Izsekošanas bloķēšana">
 <!ENTITY pref_donottrack_summary "&brandShortName; teiks lapām, ka nevēlaties, lai jūs izseko">
 
@@ -430,7 +431,7 @@ size. -->
 <!ENTITY home_remote_tabs_empty "Šeit parādīsies cilnes no citām ierīcēm.">
 <!ENTITY home_remote_tabs_unable_to_connect "Neizdodas savienoties">
 <!ENTITY home_remote_tabs_need_to_sign_in "Lūdzu pieslēdzieties savam Firefox kontam, lai turpinātu sinhronizēšanu.">
-
+<!ENTITY home_remote_tabs_need_to_finish_migrating "Jūsu Firefox konts ir gatavs!">
 
 <!ENTITY home_remote_tabs_trouble_verifying "Neizdodas apstiprināt kontu?">
 <!ENTITY home_remote_tabs_need_to_verify "Lūdzu apstipriniet savu Firefox kontu, lai sāktu sinhronizēšanu.">
