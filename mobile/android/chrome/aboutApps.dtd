@@ -2,6 +2,9 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY aboutApps.title2                          "Aplikasi">
+<!ENTITY aboutApps.header                          "Aplikasi Anda">
 
-<!ENTITY aboutApps.uninstall "Hapus">
-
+<!ENTITY aboutApps.browseMarketplace "Jelajahi Firefox Marketplace">
+<!ENTITY aboutApps.uninstall "Hapus Instalasi">
+<!ENTITY aboutApps.checkForUpdates "Periksa Versi Baru">

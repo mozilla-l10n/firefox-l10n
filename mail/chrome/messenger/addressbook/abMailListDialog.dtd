@@ -1,8 +1,8 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-
 <!-- Title -->
+
 <!ENTITY mailListWindow.title           "Milis">
 <!-- Labels -->
 <!ENTITY addToAddressBook.label         "Tambahkan ke: ">
@@ -14,8 +14,8 @@
 <!ENTITY AddressTitle.label             "Masukkan alamat email untuk ditambahkan ke milis:">
 <!ENTITY UpButton.label                 "Geser Atas">
 <!ENTITY DownButton.label               "Geser Bawah">
-
 <!-- Access Keys -->
+
 <!ENTITY addToAddressBook.accesskey     "a">
 <!ENTITY ListName.accesskey             "m">
 <!ENTITY ListNickName.accesskey         "a">

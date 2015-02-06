@@ -1,7 +1,6 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-
 <!--
 LOCALIZATION NOTE : 'Communicator 4.x' is the used for previous versions of 
 Netscape Communicator, Please translate using the brandname in respective 
@@ -10,11 +9,14 @@ LOCALIZATION NOTE : Do not translate any of the occurrences of the word
 "&brandShortName;" below.
 -->
 
+
 <!ENTITY importDialog.windowTitle "Impor">
 <!ENTITY importAll.label          "Import Semuanya">
 <!ENTITY importAll.accesskey      "S">
 <!ENTITY importMail.label         "Email">
 <!ENTITY importMail.accesskey     "m">
+
+
 <!ENTITY importAddressbook.label  "Buku Alamat">
 <!ENTITY importAddressbook.accesskey "B">
 <!ENTITY importSettings.label     "Pengaturan">
@@ -32,7 +34,10 @@ LOCALIZATION NOTE : Do not translate any of the occurrences of the word
 <!ENTITY importDescription2.label "Setelah selesai diimpor, Anda akan dapat mengakses informasi tersebut dari &brandShortName;.">
 
 <!ENTITY selectDescription.label  "Pilih jenis berkas yang ingin diimpor:">
+
 <!ENTITY selectDescription.accesskey "P">
+<!ENTITY acctName.label           "Nama:">
+<!ENTITY acctName.accesskey       "N">
 
 <!ENTITY back.label               "&lt; Mundur">
 <!ENTITY forward.label            "Maju &gt;">

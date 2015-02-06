@@ -7,7 +7,7 @@
 <!ENTITY Settings.label "Pengaturan">
 
 <!ENTITY TextAreaName.label "Nama Field:">
-<!ENTITY TextAreaName.accessKey "I">
+<!ENTITY TextAreaName.accessKey "i">
 <!ENTITY TextAreaRows.label "Baris:">
 <!ENTITY TextAreaRows.accessKey "B">
 <!ENTITY TextAreaCols.label "Kolom:">

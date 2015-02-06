@@ -11,10 +11,16 @@
 <!ENTITY editButton.accesskey "U">
 <!ENTITY deleteButton.label "Hapus">
 <!ENTITY deleteButton.accesskey "H">
+
+
+
 <!ENTITY reorderUpButton.label "Naikkan">
 <!ENTITY reorderUpButton.accesskey "N">
 <!ENTITY reorderDownButton.label "Turunkan">
 <!ENTITY reorderDownButton.accesskey "T">
+
+
+
 <!ENTITY filterHeader.label "Filter yang aktif akan dijalankan secara otomatis sesuai urutan di bawah ini.">
 <!ENTITY filtersForPrefix.label "Filter untuk:">
 <!ENTITY filtersForPrefix.accesskey "F">
@@ -26,8 +32,8 @@
 <!ENTITY stopFilters.accesskey "H">
 <!ENTITY folderPickerPrefix.label "Jalankan Filter yang Terpilih pada:">
 <!ENTITY folderPickerPrefix.accesskey "a">
-<!ENTITY choosethis.label "pilih folder ini">
-<!ENTITY choosethisnewsserver.label "pilih server news ini">
 <!ENTITY helpButton.label "Bantuan">
 <!ENTITY helpButton.accesskey "B">
 <!ENTITY closeCmd.key "W"> 
+
+

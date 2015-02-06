@@ -1,8 +1,8 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-
 <!-- for SearchDialog.xul -->
+
 <!ENTITY searchHeading.label         "Cari pesan dari:">
 <!ENTITY searchHeading.accesskey     "p">
 <!ENTITY searchSubfolders.label      "Cari subfolder">
@@ -13,30 +13,30 @@
 <!ENTITY resetButton.accesskey       "B">
 <!ENTITY openButton.label            "Buka">
 <!ENTITY openButton.accesskey        "B">
-<!ENTITY deleteButton.label          "Hapus">
-<!ENTITY deleteButton.accesskey      "H">
+
+
 <!ENTITY searchDialogTitle.label     "Cari Pesan">
 <!ENTITY results.label               "Hasil">
-<!ENTITY fileHereMenu.label          "Berkas di Sini">
-<!ENTITY fileHereMenu.accesskey      "s">
-<!ENTITY fileButton.label            "Berkas">
-<!ENTITY fileButton.accesskey        "B">
+
+
 <!ENTITY closeCmd.key                "W"> 
 <!ENTITY openInFolder.label          "Buka dalam Folder">
 <!ENTITY openInFolder.accesskey      "r">
 <!ENTITY saveAsVFButton.label        "Simpan sebagai Folder Pencarian">
 <!ENTITY saveAsVFButton.accesskey    "F">
-
 <!-- for ABSearchDialog.xul -->
+
 <!ENTITY abSearchHeading.label       "Cari di:">
 <!ENTITY abSearchHeading.accesskey   "C">
 <!ENTITY propertiesButton.label      "Properti">
 <!ENTITY propertiesButton.accesskey  "P">
 <!ENTITY composeButton.label         "Tulis">
 <!ENTITY composeButton.accesskey     "T">
-<!ENTITY abSearchDialogTitle.label   "Pencarian Canggih Daftar Alamat">
 
+
+<!ENTITY abSearchDialogTitle.label   "Pencarian Canggih Daftar Alamat">
 <!-- Thread Pane -->
+
 <!ENTITY threadColumn.label "Utas">
 <!ENTITY fromColumn.label "Dari">
 <!ENTITY recipientColumn.label "Penerima">
@@ -55,24 +55,22 @@
 <!ENTITY starredColumn.label "Berbintang">
 <!ENTITY locationColumn.label "Lokasi">
 <!ENTITY idColumn.label "Urut berdasarkan Diterima">
-
 <!-- Thread Pane Tooltips -->
-<!ENTITY columnChooser.tooltip "Klik untuk memilih kolom yang ingin ditampilkan">
-<!ENTITY threadColumn.tooltip "Klik untuk menampilkan utas pesan"> 
-<!ENTITY fromColumn.tooltip "Klik untuk mengurut berdasarkan nama pengirim">
-<!ENTITY recipientColumn.tooltip "Klik untuk mengurut berdasarkan nama penerima">
-<!ENTITY subjectColumn.tooltip "Klik untuk mengurut berdasarkan subjek">
-<!ENTITY dateColumn.tooltip "Klik untuk mengurut berdasarkan tanggal">
-<!ENTITY priorityColumn.tooltip "Klik untuk mengurut berdasarkan prioritas">
-<!ENTITY tagsColumn.tooltip "Klik untuk mengurut berdasarkan tag">
-<!ENTITY accountColumn.tooltip "Klik untuk mengurut berdasarkan nama akun">
-<!ENTITY statusColumn.tooltip "Klik untuk mengurut berdasarkan status">
-<!ENTITY sizeColumn.tooltip "Klik untuk mengurut berdasarkan besar pesan">
-<!ENTITY junkStatusColumn.tooltip "Klik untuk mengurut berdasarkan status junk">
-<!ENTITY unreadColumn.tooltip "Jumlah pesan yang belum dibaca dalam utas">
-<!ENTITY totalColumn.tooltip "Jumlah pesan dalam utas">
-<!ENTITY readColumn.tooltip "Klik untuk mengurut berdasarkan pembacaan">
-<!ENTITY receivedColumn.tooltip "Klik untuk mengurut berdasarkan tanggal diterima">
-<!ENTITY starredColumn.tooltip "Klik untuk mengurut berdasarkan bintang">
-<!ENTITY locationColumn.tooltip "Klik untuk mengurut berdasarkan lokasi">
-<!ENTITY idColumn.tooltip "Klik untuk mengurut berdasarkan penerimaan">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

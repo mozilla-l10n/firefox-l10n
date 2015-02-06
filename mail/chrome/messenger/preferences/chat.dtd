@@ -3,18 +3,18 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY  startupAction.label         "Saat &brandShortName; dimulai:">
-<!ENTITY  startupAction.accesskey     "s">
+<!ENTITY  startupAction.accesskey     "S">
 <!ENTITY  startupOffline.label        "Biarkan akun ngobrol tetap luring">
 <!ENTITY  startupConnectAuto.label    "Sambungkan akun ngobrol secara otomatis">
-
 <!-- LOCALIZATION NOTE: reportIdleAfter.label is displayed first, then
 there's a field where the user can enter a number, and itemTime is
 displayed at the end of the line. The translations of the
 reportIdleAfter.label and idleTime parts don't have to mean the exact
 same thing as in English; please try instead to translate the whole
 sentence. -->
+
 <!ENTITY  reportIdleAfter.label         "Biarkan kontak saya mengetahui bawah saya sedang diam setelah">
-<!ENTITY  reportIdleAfter.accesskey     "I">
+<!ENTITY  reportIdleAfter.accesskey     "i">
 <!ENTITY  idleTime                      "menit tanpa aktivitas">
 
 <!ENTITY  andSetStatusToAway.label      "dan setel status saya ke Tidak Ada Di Tempat dengan pesan status:">
@@ -22,3 +22,20 @@ sentence. -->
 
 <!ENTITY  sendTyping.label              "Kirimkan pemberitahuan sedang mengetik dalam percakapan">
 <!ENTITY  sendTyping.accesskey          "t">
+
+
+
+
+
+
+
+
+<!ENTITY  play.label                          "Mainkan">
+<!ENTITY  play.accesskey                      "M">
+
+
+<!ENTITY  customsound.label                   "Gunakan berkas suara berikut">
+<!ENTITY  customsound.accesskey               "u">
+
+
+

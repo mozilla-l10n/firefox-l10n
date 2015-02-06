@@ -64,8 +64,8 @@
 <!ENTITY cellAlignJustify.label           "Kiri-Kanan">
 <!ENTITY cellInheritColor.label           "(Warna latar tabel tembus pandang)">
 <!ENTITY cellUseCheckboxHelp.label        "Gunakan kotak centang untuk menentukan properti mana yang akan diterapkan pada sel yang terpilih">
-
 <!-- Used in both Table and Cell panels  -->
+
 <!ENTITY size.label                       "Ukuran">
 <!ENTITY pixels.label                     "piksel">
 <!ENTITY backgroundColor.label            "Warna Latar Belakang:">

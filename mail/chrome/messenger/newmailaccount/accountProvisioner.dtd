@@ -7,18 +7,18 @@
 <!ENTITY other.languages "Kami hanya menampilkan penyedia layanan email yang menawarkan akun email pada wilayah Anda. Klik di sini untuk menampilkan semua penyedia layanan.">
 <!ENTITY error.line1 "Maaf, kami tidak dapat menemukan alamat email yang disarankan.">
 <!ENTITY error.line2 "Anda dapat mencari nama alias atau istilah lainnya untuk menemukan email yang lain">
-
 <!-- LOCALIZATION NOTE(error.suggest.before, error.suggest.middle, error.suggest.after):
      error.suggest.before, error.suggest.middle, and error.suggest.after all go into
      one line with error.suggest.middle that links to a site which provides download
      of free account alternatives. -->
+
 <!ENTITY error.suggest.before "Mungkin Anda juga dapat mencoba ">
 <!ENTITY error.suggest.middle "akun email gratis sebagai alternatif">
 <!ENTITY error.suggest.after ".">
-
 <!-- LOCALIZATION NOTE(success.title.before, success.title.after):
      success.title.before and success.title.after all go into one line, wrapping
      around the name that the user has typed in to the search input. -->
+
 <!ENTITY success.title.before "Halo ">
 <!ENTITY success.title.after ", alamat email berikut tersedia untuk Anda:">
 <!ENTITY success.tip "(Anda juga dapat mencari nama alias atau istilah lainnya untuk menemukan email yang lain)">

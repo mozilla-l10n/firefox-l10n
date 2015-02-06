@@ -28,8 +28,8 @@
 <!ENTITY HomePhone.accesskey                   "R">
 <!ENTITY WorkPhone.label                       "Telepon Kantor">
 <!ENTITY WorkPhone.accesskey                   "K">
-<!ENTITY ScreenName.label                      "Nama Layar">
-<!ENTITY ScreenName.accesskey                  "L">
+
+
 <!ENTITY sortAscending.label                   "Naik">
 <!ENTITY sortAscending.accesskey               "N">
 <!ENTITY sortDescending.label                  "Turun">

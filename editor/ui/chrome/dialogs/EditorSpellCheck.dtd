@@ -1,8 +1,8 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-
 <!-- Window title -->
+
 <!ENTITY windowTitle.label "Periksa Ejaan">
 
 <!ENTITY misspelledWord.label "Kata salah eja:">
@@ -19,7 +19,7 @@
 <!ENTITY replaceButton.label "Ganti">
 <!ENTITY replaceButton.accessKey "G">
 <!ENTITY replaceAllButton.label "Ganti Semua">
-<!ENTITY replaceAllButton.accessKey "A">
+<!ENTITY replaceAllButton.accessKey "a">
 <!ENTITY stopButton.label "Berhenti">
 <!ENTITY stopButton.accessKey "B">
 <!ENTITY userDictionary.label "Kamus Pemeriksa Ejaan Pribadi:">
@@ -27,7 +27,7 @@
 <!ENTITY addToUserDictionaryButton.label "Tambah Kata">
 <!ENTITY addToUserDictionaryButton.accessKey "K">
 <!ENTITY editUserDictionaryButton.label "Sunting…">
-<!ENTITY editUserDictionaryButton.accessKey "U">
+<!ENTITY editUserDictionaryButton.accessKey "u">
 <!ENTITY recheckButton.label "Periksa Ulang Laman">
 <!ENTITY recheckButton.accessKey "P">
 <!ENTITY closeButton.label "Tutup">

@@ -4,10 +4,10 @@
 
 <!ENTITY time.midnight "Tengah malam" >
 <!ENTITY time.noon "Tengah hari" >
-
 <!-- Day Names -->
 <!-- LOCALIZATION NOTE : Accesskeys for day.1.Ddd to day.7.Ddd are currently
      only used in Preferences > Views > Workweek groupbox -->
+
 <!ENTITY day.1.Ddd "Min" >
 <!ENTITY day.1.Ddd.accesskey "M">
 <!ENTITY day.2.Ddd "Sen" >
@@ -30,14 +30,6 @@
 <!ENTITY day.5.name "Kamis" >
 <!ENTITY day.6.name "Jumat" >
 <!ENTITY day.7.name "Sabtu" >
-
-<!-- Units -->
-<!ENTITY calendar.global.units.minute   "menit">
-<!ENTITY calendar.global.units.minutes  "menit">
-<!ENTITY calendar.global.units.hour     "jam">
-<!ENTITY calendar.global.units.hours    "jam">
-<!ENTITY calendar.global.units.day      "hari">
-<!ENTITY calendar.global.units.days     "jam">
 
 <!ENTITY month.1.name "Januari" >
 <!ENTITY month.2.name "Februari" >

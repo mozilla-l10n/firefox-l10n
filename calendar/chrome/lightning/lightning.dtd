@@ -1,58 +1,80 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-
 <!-- WARNING! This file contains UTF-8 encoded characters!
    - If this ==> … <== doesn't look like an ellipsis (three dots in a row),
    - your editor isn't using UTF-8 encoding and may munge up the document!
   -->
-
 <!-- Tools menu -->
-<!ENTITY lightning.taskLabel "Lightning">
-
 <!-- New menu popup in File menu -->
+
 <!ENTITY lightning.menupopup.new.event.label    "Acara…">
 <!ENTITY lightning.menupopup.new.event.accesskey "A">
 <!ENTITY lightning.menupopup.new.task.label     "Tugas…">
 <!ENTITY lightning.menupopup.new.task.accesskey "T">
 <!ENTITY lightning.menupopup.new.calendar.label "Kalender…">
 <!ENTITY lightning.menupopup.new.calendar.accesskey "n">
-
 <!-- Open menu popup in File menu -->
+
 <!ENTITY lightning.menupopup.open.label               "Buka">
 <!ENTITY lightning.menupopup.open.accesskey           "B">
 <!ENTITY lightning.menupopup.open.message.label       "Simpanan Pesan…">
 <!ENTITY lightning.menupopup.open.message.accesskey   "S">
 <!ENTITY lightning.menupopup.open.calendar.label      "Berkas Kalender…">
 <!ENTITY lightning.menupopup.open.calendar.accesskey  "k">
-
 <!-- View Menu -->
+
 <!ENTITY lightning.menu.view.calendar.label            "Kalender">
 <!ENTITY lightning.menu.view.calendar.accesskey        "K">
 <!ENTITY lightning.menu.view.tasks.label               "Tugas">
 <!ENTITY lightning.menu.view.tasks.accesskey           "T">
-
 <!-- Events and Tasks menu -->
+
 <!ENTITY lightning.menu.eventtask.label                "Acara dan Tugas">
 <!ENTITY lightning.menu.eventtask.accesskey            "A">
-
-
 <!-- properties dialog, calendar creation wizard -->
+
 <!ENTITY lightning.calendarproperties.email.label               "Email:">
-
 <!-- iMIP Bar (meeting support) -->
-<!ENTITY lightning.imipbar.description "Pesan in berisi undangan sebuah acara.">
 
+<!ENTITY lightning.imipbar.btnAccept.label                                  "Terima">
+
+
+
+
+
+<!ENTITY lightning.imipbar.btnDecline.label                                 "Tolak">
+
+
+
+<!ENTITY lightning.imipbar.btnDelete.label                                  "Hapus">
+
+<!ENTITY lightning.imipbar.btnDetails.label                                 "Detail…">
+
+
+
+
+
+
+
+<!ENTITY lightning.imipbar.btnTentative.label                               "Tentatif">
+
+
+
+
+
+<!ENTITY lightning.imipbar.description                                      "Pesan in berisi undangan sebuah acara.">
 <!-- Lightning specific keybindings -->
+
 <!ENTITY lightning.keys.event.showCalendar.key "C">
 <!ENTITY lightning.keys.event.showTasks.key "D">
 <!ENTITY lightning.keys.event.new "U">
 <!ENTITY lightning.keys.todo.new "D">
-
 <!-- Account Central page -->
-<!ENTITY lightning.acctCentral.newCalendar.label "Buat kalender baru">
 
+<!ENTITY lightning.acctCentral.newCalendar.label "Buat kalender baru">
 <!-- today-pane-specific -->
+
 <!ENTITY todaypane.showMinimonth.label "Tampilkan Bulan-Mini">
 <!ENTITY todaypane.showMinimonth.accesskey "m">
 <!ENTITY todaypane.showMiniday.label "Tampilkan Hari-Mini">

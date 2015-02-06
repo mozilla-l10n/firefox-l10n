@@ -1,10 +1,8 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-
-<!-- these things need to move into utilityOverlay.xul -->
-
 <!-- LOCALIZATION NOTE : FILE This file contains the global menu items -->
+
 
 <!ENTITY fileMenu.label          "Berkas">
 <!ENTITY fileMenu.accesskey        "B">
@@ -33,8 +31,8 @@
 <!ENTITY selectAllCmd.label          "Pilih Semua">
 <!ENTITY selectAllCmd.key          "A">
 <!ENTITY selectAllCmd.accesskey        "a">
-<!ENTITY preferencesCmd.label        "Pengaturan…">
-<!ENTITY preferencesCmd.accesskey      "P">
+
+
 <!ENTITY preferencesCmdUnix.label       "Pengaturan">
 <!ENTITY preferencesCmdUnix.accesskey     "P">
 
@@ -44,9 +42,6 @@
 <!ENTITY viewToolbarsMenu.accesskey      "t">
 <!ENTITY showTaskbarCmd.label          "Bilah Status">
 <!ENTITY showTaskbarCmd.accesskey        "S">
-
-<!ENTITY proxy.label                                    "Konfigurasi Proxy…">
-<!ENTITY proxy.accesskey                                "K">
 
 <!ENTITY closeCmd.label      "Tutup">
 <!ENTITY closeCmd.key      "W">

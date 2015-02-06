@@ -16,22 +16,16 @@
 <!ENTITY regularSize.label                "Reguler">
 <!ENTITY bigger.label                     "Lebih Besar">
 <!ENTITY smaller.label                    "Lebih kecil">
-<!ENTITY color.label                      "Warna:">
-<!ENTITY color.accesskey                  "W">
+
+
 <!ENTITY displayWidth.label               "Pesan Teks Polos">
 <!ENTITY displayText.label                "Saat menampilkan kutipan dalam pesan dalam format teks polos gunakan:">
-<!ENTITY colors.label                     "Warna">
-<!ENTITY overrideColors.label             "Saat menampilkan pesan gunakan warna berikut:">
-<!ENTITY textColor.label                  "Warna Teks:">
-<!ENTITY textColor.accesskey              "T">
-<!ENTITY backgroundColor.label            "Warna Latar Belakang:">
-<!ENTITY backgroundColor.accesskey        "W">
-
 <!-- LOCALIZATION NOTE : (emoticonsAndStructs.label) 'Emoticons' are also known as 'Smileys', e.g. :-)   -->
+
 <!ENTITY convertEmoticons.label        "Tampilkan emotikon dengan gambar">
 <!ENTITY convertEmoticons.accesskey    "d">
-
 <!-- labels -->
+
 <!ENTITY displayTagsText.label     "Tag dapat digunakan untuk mengelompokkan dan memprioritaskan pesan.">
 <!ENTITY addTagButton.label        "Tambah">
 <!ENTITY addTagButton.accesskey    "a">
@@ -39,12 +33,12 @@
 <!ENTITY editTagButton.accesskey   "U">
 <!ENTITY removeTagButton.label     "Hapus">
 <!ENTITY removeTagButton.accesskey "H">
-
-<!-- Fonts -->
-<!ENTITY fontsAndColors.label    "Huruf">
+<!-- Fonts and Colors -->
 <!ENTITY defaultFont.label       "Huruf default:">
 <!ENTITY defaultFont.accesskey   "d">
 <!ENTITY defaultSize.label       "Ukuran:">
 <!ENTITY defaultSize.accesskey   "U">
 <!ENTITY fontOptions.accesskey   "C">
 <!ENTITY fontOptions.label       "Canggih…">
+
+
