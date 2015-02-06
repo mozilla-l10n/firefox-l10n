@@ -32,6 +32,8 @@
    - These two labels are displayed side by side in the event dialog, make sure
    - they still fit in. -->
 
+<!ENTITY event.attendees.notify.label               "Beri tahu peserta">
+<!ENTITY event.attendees.notifyundisclosed.label    "Undangan ke masing-masing">
 
 <!-- Keyboard Shortcuts -->
 
@@ -140,15 +142,16 @@
 
 <!ENTITY  event.toolbar.save.label                        "Simpan dan Tutup">
 <!ENTITY  event.toolbar.delete.label                      "Hapus">
-
+<!ENTITY  event.toolbar.attendees.label                   "Undang Peserta">
 <!ENTITY  event.toolbar.privacy.label                     "Privasi">
 
-
-
-
-
-
-
+<!ENTITY  event.toolbar.save.tooltip                      "Simpan dan Tutup">
+<!ENTITY  event.toolbar.delete.tooltip                    "Hapus">
+<!ENTITY  event.toolbar.attendees.tooltip                 "Undang Peserta">
+<!ENTITY  event.toolbar.attachments.tooltip               "Tambahkan Lampiran">
+<!ENTITY  event.toolbar.privacy.tooltip                   "Ubah Privasi">
+<!ENTITY  event.toolbar.priority.tooltip                  "Ubah Prioritas">
+<!ENTITY  event.toolbar.status.tooltip                    "Ubah Status">
 
 <!-- Main page -->
 
@@ -302,7 +305,7 @@
 <!ENTITY event.recurrence.pattern.yearly.week.5.label        "Kamis" >
 <!ENTITY event.recurrence.pattern.yearly.week.6.label        "Jumat" >
 <!ENTITY event.recurrence.pattern.yearly.week.7.label        "Sabtu" >
-
+<!ENTITY event.recurrence.pattern.yearly.day.label           "hari" >
 
 <!ENTITY event.recurrence.pattern.yearly.month2.1.label      "Januari" >
 <!ENTITY event.recurrence.pattern.yearly.month2.2.label      "Februari" >
@@ -340,10 +343,10 @@
 <!ENTITY event.attendee.role.optional           "Undangan yang Opsional">
 <!ENTITY event.attendee.role.chair              "Pimpinan">
 <!ENTITY event.attendee.role.nonparticipant     "Bukan Peserta">
-
-
-
-
+<!ENTITY event.attendee.usertype.individual     "Pribadi">
+<!ENTITY event.attendee.usertype.group          "Grup">
+<!ENTITY event.attendee.usertype.resource       "Sumber Daya">
+<!ENTITY event.attendee.usertype.room           "Ruangan">
 <!-- Timezone dialog -->
 
 <!ENTITY timezone.title.label            "Tentukan Zona Waktu">
