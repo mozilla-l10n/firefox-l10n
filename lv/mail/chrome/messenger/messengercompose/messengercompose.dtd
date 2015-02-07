@@ -1,0 +1,274 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+<!--LOCALIZATION NOTE messengercompose.dtd Main UI for message composition -->
+<!-- File Menu -->
+
+<!ENTITY fileMenu.label "Fails">
+<!ENTITY fileMenu.accesskey "F">
+<!ENTITY newMenu.label "Jauns">
+<!ENTITY newMenu.accesskey "n">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!--LOCALIZATION NOTE attachVCardCmd.label Don't translate the term 'vCard' -->
+
+
+
+<!ENTITY closeCmd.label "Aizvērt">
+
+<!ENTITY closeCmd.accesskey "A">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- Edit Menu -->
+
+<!ENTITY editMenu.label "Rediģēt">
+<!ENTITY editMenu.accesskey "e">
+
+
+
+<!ENTITY redoCmd.label "Atcelt atsaukšanu">
+
+<!ENTITY redoCmd.accesskey "t">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- View Menu -->
+
+<!ENTITY viewMenu.label "Skats">
+<!ENTITY viewMenu.accesskey "S">
+<!ENTITY viewToolbarsMenuNew.label "Rīkjoslas">
+<!ENTITY viewToolbarsMenuNew.accesskey "R">
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- Format Menu -->
+
+<!-- Options Menu -->
+
+
+
+
+
+
+
+
+
+<!--LOCALIZATION NOTE attachVCard.label Don't translate the term 'vCard' -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- Tools Menu -->
+
+
+
+
+
+
+
+
+
+
+<!ENTITY preferencesCmd2.label "Iestatījumi">
+<!ENTITY preferencesCmd2.accesskey "I">
+<!ENTITY preferencesCmdUnix.label "Iestatījumi">
+<!ENTITY preferencesCmdUnix.accesskey "u">
+<!--  Mac OS X Window Menu -->
+
+
+
+
+<!-- Mail Toolbar -->
+
+
+
+
+
+
+<!-- Mail Toolbar Tooltips -->
+
+
+
+
+
+
+
+
+
+
+<!-- Headers -->
+<!--LOCALIZATION NOTE headersSpace.style is for aligning  the From:, To: and
+    Subject: rows. It should be larger than the largest Header label  -->
+
+
+
+
+
+
+
+
+
+
+<!-- LOCALIZATION NOTE attachments.accesskey This access key should correspond
+     to the strings in attachmentCount in composeMsgs.properties -->
+<!-- Format Toolbar, imported from editorAppShell.xul -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- Message Pane Context Menu -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- Spell checker context menu items -->
+
+<!-- Title for the address picker panel -->
+
