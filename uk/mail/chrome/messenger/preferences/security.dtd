@@ -6,7 +6,6 @@
 <!ENTITY itemPhishing.label      "Анти-фішинг">
 <!ENTITY itemPasswords.label     "Паролі">
 <!ENTITY itemAntiVirus.label     "Робота з антивірусом">
-<!ENTITY itemCookies.label       "Веб вміст">
 
 <!-- Junk Mail Controls -->
 <!ENTITY junkMail.intro "Налаштуйте загальні параметри спам-фільтрів. Специфічні для облікових записів параметри можуть бути змінені в налаштуваннях облікового запису.">
@@ -47,20 +46,3 @@
 <!ENTITY antiVirus.label      "Дозволити антивірусу поміщати в карантин окремі вхідні листи">
 <!ENTITY antiVirus.accesskey  "Д">
 
-<!-- Cookies -->
-<!ENTITY cookies.intro                  "&brandShortName; дозволяє вам вказати, яким блогам, новинним стрічкам, та іншим сайтам дозволено ставити куки.">
-<!ENTITY acceptCookies.label            "Приймати куки з сайтів">
-<!ENTITY acceptCookies.accesskey        "с">
-<!ENTITY keepUntil.label                "Зберігати їх, доки:">
-<!ENTITY keepUntil.accesskey            "З">
-<!ENTITY expire.label                   "не закінчиться термін їх дії">
-<!ENTITY close.label                    "я закрию &brandShortName;">
-<!ENTITY askEachTime.label              "питати кожного разу">
-<!ENTITY cookieExceptions.label         "Винятки…">
-<!ENTITY cookieExceptions.accesskey     "и">
-<!ENTITY showCookies.label              "Показати куки…">
-<!ENTITY showCookies.accesskey          "о">
-
-<!-- Do Not Track -->
-<!ENTITY doNotTrack.label               "Казати сайтам що я не хочу щоб мене відслідковували">
-<!ENTITY doNotTrack.accesskey           "в">

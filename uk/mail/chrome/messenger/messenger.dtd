@@ -32,12 +32,7 @@
 <!ENTITY newExistingEmailAccountCmd.accesskey "І">
 <!ENTITY newIMAccountCmd.label "Чатовий запис…">
 <!ENTITY newIMAccountCmd.accesskey "Ч">
-<!ENTITY newIMContactCmd.label "Чатовий контакт…">
-<!ENTITY newIMContactCmd.accesskey "к">
-<!ENTITY openMessageFileCmd.label "Відкрити збережений лист…">
-<!ENTITY openMessageFileCmd.accesskey "з">
-<!ENTITY openAttachmentCmd.label "Вкладення">
-<!ENTITY openAttachmentCmd.accesskey "е">
+
 <!ENTITY saveAsMenu.label "Зберегти як">
 <!ENTITY saveAsMenu.accesskey "я">
 <!ENTITY saveAsFileCmd.label "Файл">
@@ -313,8 +308,6 @@
 <!ENTITY prevStarredMsgCmd.accesskey "З">
 <!ENTITY folderMenu.label "Тека">
 <!ENTITY folderMenu.accesskey "Т">
-<!ENTITY thisFolder.label "Ця тека">
-<!ENTITY thisFolder.accesskey "Ц">
 <!ENTITY goRecentlyClosedTabs.label "Недавно закриті вкладки">
 <!ENTITY goRecentlyClosedTabs.accesskey "к">
 <!ENTITY startPageCmd.label "Початкова сторінка">
@@ -354,9 +347,9 @@
 <!ENTITY forwardAsInline.accesskey "Ч">
 <!ENTITY forwardAsAttachmentCmd.label "Вкладення">
 <!ENTITY forwardAsAttachmentCmd.accesskey "В">
-<!ENTITY editMsgAsNewCmd.label "Редагувати лист як новий">
-<!ENTITY editMsgAsNewCmd.accesskey "Р">
-<!ENTITY editMsgAsNewCmd.key "e">
+<!ENTITY editAsNewMsgCmd.label "Редагувати лист як новий">
+<!ENTITY editAsNewMsgCmd.accesskey "Р">
+<!ENTITY editAsNewMsgCmd.key "e">
 <!ENTITY createFilter.label "Створити фільтр…">
 <!ENTITY createFilter.accesskey "ф">
 <!ENTITY moveMsgToMenu.label "Перемістити до">
@@ -379,10 +372,6 @@
 <!ENTITY watchThreadMenu.label "Відстежувати гілку">
 <!ENTITY watchThreadMenu.accesskey "ж">
 <!ENTITY watchThreadMenu.key "w">
-<!ENTITY fileHereMenu.label "Помістити сюди">
-<!ENTITY fileHereMenu.accesskey "П">
-<!ENTITY copyHereMenu.label "Копіювати сюди">
-<!ENTITY copyHereMenu.accesskey "К">
 <!ENTITY tagMenu.label "Помітити">
 <!ENTITY tagMenu.accesskey "м">
 <!ENTITY tagCmd0.key "0">
@@ -430,10 +419,6 @@
 <!ENTITY openConversationCmd.key "o">
 <!ENTITY openFeedMessage.label "Відкрити повідомлення стріки новин">
 <!ENTITY openFeedMessage.accesskey "В">
-<!ENTITY openFeedWebPageInWindow.label "Веб-сторінку у новому вікні">
-<!ENTITY openFeedWebPageInWindow.accesskey "с">
-<!ENTITY openFeedSummaryInWindow.label "Підсумок у новому вікні">
-<!ENTITY openFeedSummaryInWindow.accesskey "П">
 <!ENTITY openFeedWebPageInMP.label "Перемкнути веб сторінку і підсумок у панелі повідомлень">
 <!ENTITY openFeedWebPageInMP.accesskey "м">
 
@@ -560,7 +545,6 @@
 <!ENTITY appmenuNewMsgCmd.label "Новий лист">
 <!ENTITY appmenuNewContactCmd.label "Контакт адресної книги…">
 <!ENTITY appmenuEditMenu.label "Редагувати">
-<!ENTITY appmenuQFBMenu.label "Панель швидкого пошуку">
 <!ENTITY appmenuToolbarLayout.label "Розклад панелей…">
 
 <!-- Tags Menu Popup -->
@@ -765,28 +749,6 @@
 <!ENTITY contextMute.label "Вимкнути звук">
 <!ENTITY contextMute.accesskey "и">
 <!ENTITY contextUnmute.label "Увімкнути звук">
-<!ENTITY contextUnmute.accesskey "і">
-
-<!-- Junk Bar -->
-<!ENTITY junkBarMessage2.label "&brandShortName; thinks this message is junk mail.">
-<!ENTITY junkBarButton1.label "Не спам">
-<!ENTITY junkInfoButton.label "?">
-
-<!-- Remote Content Bar -->
-<!ENTITY remoteContentMessage2.label "Щоб захистити вашу приватність, &brandShortName; заблокував віддалений вміст у цьому повідомленні.">
-<!ENTITY loadRemoteContentButton3.label "Показати віддалений вміст">
-
-<!-- Phishing Bar -->
-<!ENTITY phishingBarMessage2.label "Цей лист може бути шахрайським.">
-<!ENTITY removePhishingBarButton1.label "Зігнорувати лист">
-<!ENTITY disablePhishingWarning1.label "Вимкнути визначення шахрайства для всіх листів">
-<!ENTITY reportPhishingError1.label "Цей лист наче не шахрайський.">
-
-<!-- MDN Bar -->
-<!ENTITY mdnBarIgnoreButton2.label "Ігнорувати">
-<!ENTITY mdnBarIgnoreButton2.accesskey "І">
-<!ENTITY mdnBarSendButton2.label "Послати звістку про отримання">
-<!ENTITY mdnBarSendButton2.accesskey "з">
 
 <!-- Quick Search Bar -->
 <!-- LOCALIZATION NOTE (quickSearchCmd.key):

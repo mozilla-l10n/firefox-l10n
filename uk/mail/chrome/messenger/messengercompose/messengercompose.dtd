@@ -89,12 +89,10 @@
 <!ENTITY findCmd.accesskey "м">
 <!ENTITY findAgainCmd.label "Знайти наступне">
 <!ENTITY findAgainCmd.key "G">
-<!ENTITY findAgainCmd.accesskey "у">
 <!ENTITY findAgainCmd.key2 "VK_F3">
 <!ENTITY findPrevCmd.label "Знайти попереднє">
 <!ENTITY findPrevCmd.key "G">
 <!ENTITY findPrevCmd.key2 "VK_F3">
-<!ENTITY findPrevCmd.accesskey "п">
 
 <!-- View Menu -->
 <!ENTITY viewMenu.label "Вигляд">
@@ -175,11 +173,11 @@
 <!ENTITY addressBookCmd.label "Адресна книга">
 <!ENTITY addressBookCmd.accesskey "А">
 <!ENTITY addressBookCmd.key "B">
-<!ENTITY accountManagerCmd.label "Параметри облікового запису…">
-<!ENTITY accountManagerCmd.accesskey "м">
-<!ENTITY accountManagerCmdUnix.accesskey "м">
-<!ENTITY preferencesCmd.label "Налаштування…">
-<!ENTITY preferencesCmd.accesskey "Н">
+<!ENTITY accountManagerCmd2.label "Параметри облікового запису…">
+<!ENTITY accountManagerCmd2.accesskey "м">
+<!ENTITY accountManagerCmdUnix2.accesskey "м">
+<!ENTITY preferencesCmd2.label "Налаштування…">
+<!ENTITY preferencesCmd2.accesskey "Н">
 <!ENTITY preferencesCmdUnix.label       "Налаштування">
 <!ENTITY preferencesCmdUnix.accesskey   "Н">
 

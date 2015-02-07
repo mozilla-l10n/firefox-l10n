@@ -69,8 +69,8 @@
 <!ENTITY netTimeout.title "Перевищено термін очікування з’єднання">
 <!ENTITY netTimeout.longDesc "&sharedLongDesc;">
 
-<!ENTITY protocolNotFound.title "Невідомий тип адреси">
-<!ENTITY protocolNotFound.longDesc "<ul>
+<!ENTITY unknownProtocolFound.title "Невідомий тип адреси">
+<!ENTITY unknownProtocolFound.longDesc "<ul>
 <li>Для відкриття даної адреси вам, можливо, знадобиться встановити додаткове програмне забезпечення.</li>
 </ul>">
 
@@ -123,8 +123,8 @@
 <!ENTITY phishingBlocked.longDesc "<p>Надання будь-якої особистої інформації цій сторінці може призвести до крадіжки ваших особистих даних чи інших афер.</p>
 <p>Ошуканство за допомогою підробленого сайту чи емейлу також називають фішингом. Шахраї намагаються видурити у вас інформацію імітуючи джерела, яким ви, можливо, довіряєте.</p>">
 
-<!ENTITY cspFrameAncestorBlocked.title "Блоковано політикою безпеки вмісту">
-<!ENTITY cspFrameAncestorBlocked.longDesc "<p>&brandShortName; не дозволив цій сторінці завантажитись цим чином, бо вона має політику безпеки вмісту котра це забороняє.</p>">
+<!ENTITY cspBlocked.title "Блоковано політикою безпеки вмісту">
+<!ENTITY cspBlocked.longDesc "<p>&brandShortName; не дозволив цій сторінці завантажитись цим чином, бо вона має політику безпеки вмісту котра це забороняє.</p>">
 
 <!ENTITY corruptedContentError.title "Пошкоджений вміст">
 <!ENTITY corruptedContentError.longDesc "<p>Вміст, котрий ви намагаєтесь переглянути, не може бути показаний — у передачі даних помічена помилка.</p>

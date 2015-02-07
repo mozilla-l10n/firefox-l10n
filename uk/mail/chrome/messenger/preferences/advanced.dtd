@@ -63,20 +63,17 @@
 <!ENTITY closeMsgOnMoveOrDelete.accesskey "З">
 
 <!-- Update -->
-<!ENTITY autoCheck.label                "Автоматично перевіряти наявність оновлень:">
-<!ENTITY enableAppUpdate.label          "&brandShortName;">
-<!ENTITY enableAppUpdate.accesskey      "">
-<!ENTITY enableAddonsUpdate.label       "встановлених додатків">
-<!ENTITY enableAddonsUpdate.accesskey   "д">
-<!ENTITY whenUpdatesFound.label         "Якщо для &brandShortName; знайдені оновлення:">
-<!ENTITY modeAskMe.label                "Запитати мене, що робити">
-<!ENTITY modeAskMe.accesskey            "щ">
-<!ENTITY modeAutomatic.label            "Автоматично завантажувати і встановлювати оновлення">
-<!ENTITY modeAutomatic.accesskey        "А">
-<!ENTITY modeAutoAddonWarn.label        "Попереджати, якщо це відключить якісь розширення">
-<!ENTITY modeAutoAddonWarn.accesskey    "в">
-<!ENTITY showUpdates.label              "Показати журнал оновлень">
-<!ENTITY showUpdates.accesskey          "о">
+<!ENTITY updateApp.label                 "&brandShortName; updates:">
+<!ENTITY updateAuto.label                "Automatically install updates (recommended: improved security)">
+<!ENTITY updateAuto.accesskey            "A">
+<!ENTITY updateCheck.label               "Check for updates, but let me choose whether to install them">
+<!ENTITY updateCheck.accesskey           "C">
+<!ENTITY updateManual.label              "Never check for updates (not recommended: security risk)">
+<!ENTITY updateManual.accesskey          "N">
+<!ENTITY updateAutoAddonWarn.label       "Warn me if this will disable any of my add-ons">
+<!ENTITY updateAutoAddonWarn.accesskey   "W">
+<!ENTITY updateHistory.label             "Show Update History">
+<!ENTITY updateHistory.accesskey         "p">
 
 <!ENTITY useService.label                "Використовувати фонову службу для встановлення оновлень">
 <!ENTITY useService.accesskey            "ф">
@@ -116,10 +113,5 @@
 <!ENTITY certs.ask.accesskey             "П">
 
 <!ENTITY viewCertificates.label         "Перегляд сертифікатів">
-<!ENTITY viewCertificates.accesskey     "с">
-<!ENTITY viewCRLs.label                 "Списки відкликання">
-<!ENTITY viewCRLs.accesskey             "в">
-<!ENTITY validation.label               "Перевірка">
-<!ENTITY validation.accesskey           "р">
 <!ENTITY viewSecurityDevices.label      "Пристрої захисту">
 <!ENTITY viewSecurityDevices.accesskey  "з">

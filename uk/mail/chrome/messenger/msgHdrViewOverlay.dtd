@@ -2,27 +2,25 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY toField3.label "Кому ">
-<!ENTITY fromField3.label "Від ">
-<!ENTITY senderField3.label "Відправник ">
-<!ENTITY organizationField3.label "Організація ">
-<!ENTITY replyToField3.label "Відповідати-до ">
+<!ENTITY toField4.label "Кому ">
+<!ENTITY fromField4.label "Від ">
+<!ENTITY senderField4.label "Відправник ">
+<!ENTITY organizationField4.label "Організація ">
+<!ENTITY replyToField4.label "Відповідати-до ">
 
-<!ENTITY subjectField3.label "Тема ">
-<!ENTITY ccField3.label "Копія ">
-<!ENTITY bccField3.label "Прихована копія ">
-<!ENTITY newsgroupsField3.label "Групи новин ">
-<!ENTITY followupToField3.label "Продовження до ">
-<!ENTITY tagsHdr3.label "Мітки ">
-<!ENTITY dateField3.label "Дата ">
-<!ENTITY userAgentField3.label "User agent ">
-<!ENTITY referencesField3.label "References ">
-<!ENTITY messageIdField3.label "Message ID ">
-<!ENTITY inReplyToField3.label "У відповідь на ">
-<!ENTITY originalWebsite3.label "Сайт ">
+<!ENTITY subjectField4.label "Тема ">
+<!ENTITY ccField4.label "Копія ">
+<!ENTITY bccField4.label "Прихована копія ">
+<!ENTITY newsgroupsField4.label "Групи новин ">
+<!ENTITY followupToField4.label "Продовження до ">
+<!ENTITY tagsHdr4.label "Мітки ">
+<!ENTITY dateField4.label "Дата ">
+<!ENTITY userAgentField4.label "User agent ">
+<!ENTITY referencesField4.label "References ">
+<!ENTITY messageIdField4.label "Message ID ">
+<!ENTITY inReplyToField4.label "У відповідь на ">
+<!ENTITY originalWebsite4.label "Сайт ">
 
-<!ENTITY editMessageDescription.label "це чернетка">
-<!ENTITY editMessageButton.label "редагувати…">
 <!ENTITY hdrArchiveButton1.label "Архівувати">
 <!ENTITY hdrArchiveButton1.tooltip "Архівувати цей лист">
 <!ENTITY hdrSmartReplyButton1.label "Розумна відповідь">
@@ -50,7 +48,6 @@
 <!ENTITY hdrViewToolbarAlwaysReplySender.label "Завжди показувати Відповісти Відправнику">
 <!ENTITY hdrViewToolbarAlwaysReplySender.accesskey "В">
 
-<!ENTITY otherActionsButton1.label "Інші дії">
 <!ENTITY otherActionsOpenConversation1.label "Відкрити у бесіді">
 <!ENTITY otherActionsOpenConversation1.accesskey "б">
 <!ENTITY otherActionsOpenInNewWindow1.label "Відкрити у новому вікні">
