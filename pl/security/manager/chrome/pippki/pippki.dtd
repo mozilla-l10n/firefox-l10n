@@ -46,8 +46,6 @@
 <!ENTITY pkcs12.setpassword.label1 "Hasło kopii bezpieczeństwa certyfikatu:" >
 <!ENTITY pkcs12.setpassword.label2 "Hasło kopii bezpieczeństwa certyfikatu (ponownie):" >
 <!ENTITY pkcs12.setpassword.reminder "Ważne: Jeżeli hasło zabezpieczające kopię certyfikatu zostanie utracone, późniejsze odtworzenie certyfikatu będzie niemożliwe. Zaleca się zachowanie hasła w bezpiecznym miejscu." >
-<!ENTITY pkcs12.getpassword.title "Proszę podać hasło" >
-<!ENTITY pkcs12.getpassword.message "Wprowadź hasło, które będzie użyte przy szyfrowaniu kopii bezpieczeństwa tego certyfikatu." >
 <!ENTITY chooseToken.title "Wybór tokenu" >
 <!ENTITY chooseToken.message1 "Należy wybrać token." >
 <!ENTITY escrowWarn.title "Kopia klucza szyfrującego" >
