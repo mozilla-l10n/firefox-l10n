@@ -49,7 +49,7 @@
 <!ENTITY netInterrupt.title "Соединение было прервано">
 <!ENTITY netInterrupt.longDesc2 "&sharedLongDesc3;">
 <!ENTITY notCached.title "Документ просрочен">
-<!ENTITY notCached.longDesc "<p>Запрошенный документ не доступен в кэше &brandShortName;.</p><ul><li>В целях безопасности &brandShortName; не производит автоматический повторный запрос важных документов.</li><li>Нажмите «Попробовать снова», чтобы повторно запросить документ с веб-сайта.</li></ul>">
+<!ENTITY notCached.longDesc "<p>Запрошенный документ недоступен в кэше &brandShortName;.</p><ul><li>В целях безопасности &brandShortName; не производит автоматический повторный запрос важных документов.</li><li>Нажмите «Попробовать снова», чтобы повторно запросить документ с веб-сайта.</li></ul>">
 <!ENTITY netOffline.title "Автономный режим">
 <!ENTITY netOffline.longDesc3 "
 <ul>
