@@ -32,6 +32,7 @@
 <!ENTITY translation.options.attribution.beforeLogo "Tłumaczeń dostarcza">
 <!ENTITY translation.options.attribution.afterLogo "">
 
+<!ENTITY drmContent.label "DRM">
 <!ENTITY playDRMContent.label "Odtwarzanie treści chronionych przez DRM">
 <!ENTITY playDRMContent.accesskey "O">
 <!ENTITY playDRMContent.learnMore.label "Więcej informacji">
