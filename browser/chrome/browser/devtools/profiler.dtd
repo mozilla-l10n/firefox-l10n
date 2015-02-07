@@ -27,4 +27,15 @@
 <!ENTITY profilerUI.newtab.tooltiptext "Добавить из выбора новую вкладку">
 <!ENTITY profilerUI.options.tooltiptext "Установить настройки производительности.">
 <!ENTITY profilerUI.invertTree "Инверсия дерева вызовов">
+<!ENTITY profilerUI.flattenTree.tooltiptext "Инверсия дерева вызовов отображает профилированные пути вызовов, начиная от самых младших фреймов и расширяясь на старшие фреймы.">
 <!ENTITY profilerUI.invertTree.tooltiptext "Инверсия дерева вызовов отображает профилированные пути вызовов, начиная от самых младших фреймов и расширяясь на старшие фреймы.">
+<!ENTITY profilerUI.invertFlameGraph "Инверсия Flame Chart">
+<!ENTITY profilerUI.invertFlameGraph.tooltiptext "Инверсия flame chart отображает профилированные пути вызовов, начиная от самых младших фреймов и расширяясь на старшие фреймы.">
+<!ENTITY profilerUI.showPlatformData "Отображать данные платформы Gecko">
+<!ENTITY profilerUI.showPlatformData.tooltiptext "Отображение данных платформы позволяет включать символы платформы Gecko в отчёты профайлера JavaScript.">
+<!ENTITY profilerUI.flattenTreeRecursion "Сгладить рекурсию дерева">
+<!ENTITY profilerUI.flattenTreeRecursion.tooltiptext "Сгладить рекурсию при инспекции функций.">
+<!ENTITY profilerUI.enableMemory "Запись памяти">
+<!ENTITY profilerUI.enableMemory.tooltiptext "Запись потребления памяти при профилировании.">
+<!ENTITY profilerUI.enableFramerate "Запись частоты кадров">
+<!ENTITY profilerUI.enableFramerate.tooltiptext "Запись частоты кадров при профилировании.">

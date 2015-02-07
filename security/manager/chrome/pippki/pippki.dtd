@@ -46,8 +46,6 @@
 <!ENTITY pkcs12.setpassword.label1 "Пароль резервной копии:">
 <!ENTITY pkcs12.setpassword.label2 "Пароль резервной копии (повторно):">
 <!ENTITY pkcs12.setpassword.reminder "Внимание: если вы забудете пароль резервной копии сертификата, то потом не сможете восстановить из неё сертификат. Эту информацию следует хранить в безопасном месте.">
-<!ENTITY pkcs12.getpassword.title "Ввод пароля">
-<!ENTITY pkcs12.getpassword.message "Введите пароль, используемый для шифрования резервной копии сертификата.">
 <!ENTITY chooseToken.title "Выбор токена">
 <!ENTITY chooseToken.message1 "Выберите токен.">
 <!ENTITY escrowWarn.title "Копия ключа шифрования">
