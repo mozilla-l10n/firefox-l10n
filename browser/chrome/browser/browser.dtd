@@ -571,10 +571,6 @@
 <!ENTITY pluginActivateAlways.label "Permitir y recordar">
 <!ENTITY pluginBlockNow.label "Bloquear complemento">
 <!ENTITY pluginNotification.width "28em">
-<!ENTITY tabCrashed.header "Pestaña colgada">
-<!ENTITY tabCrashed.message "Esto es vergonzoso. Hemos intentado mostrar esta página Web, pero no está respondiendo.">
-<!ENTITY tabCrashed.checkSendReport "Contarle a &vendorShortName; sobre este fallo para que lo puedan reparar.">
-<!ENTITY tabCrashed.tryAgain "Intentar nuevamente">
 <!ENTITY uiTour.infoPanel.close "Cerrar">
 <!ENTITY switchToMetroCmd2.label       "Relanzar en &brandShortName; para Windows 8 táctil">
 
@@ -595,3 +591,12 @@
 <!ENTITY panicButton.thankyou.msg1                "Tu historial reciente ha sido limpiado.">
 <!ENTITY panicButton.thankyou.msg2                "¡Navega seguro!">
 <!ENTITY panicButton.thankyou.buttonlabel         "¡Gracias!">
+
+<!ENTITY processHang.terminateScript.label        "Detener Script">
+<!ENTITY processHang.terminateScript.accessKey    "S">
+<!ENTITY processHang.debugScript.label            "Depurar Script">
+<!ENTITY processHang.debugScript.accessKey        "D">
+<!ENTITY processHang.terminatePlugin.label        "Detener complemento">
+<!ENTITY processHang.terminatePlugin.accessKey    "P">
+<!ENTITY processHang.terminateProcess.label       "Detener proceso web">
+<!ENTITY processHang.terminateProcess.accessKey   "K">
