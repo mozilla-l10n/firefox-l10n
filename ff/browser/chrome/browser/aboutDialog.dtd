@@ -43,6 +43,7 @@
 <!ENTITY helpus.donateLink          "Addu dokkal maa">
 <!ENTITY helpus.middle              " walla ">
 <!-- LOCALIZATION NOTE (helpus.getInvolvedLink): This is a link title that links to http://www.mozilla.org/contribute/. -->
+<!ENTITY helpus.getInvolvedLink     "addu ballal maa!">
 <!ENTITY helpus.end                 "">
 <!-- LOCALIZATION NOTE (bottomLinks.license): This is a link title that links to about:license. -->
 
