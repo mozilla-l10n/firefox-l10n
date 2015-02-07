@@ -4,7 +4,6 @@
 
 <!-- Subscription Dialog -->
 <!ENTITY feedSubscriptions.label     "Підписки на стрічки">
-<!ENTITY subscriptionDesc.label      "Примітка: вилучення чи зміна теки RSS-каналу не вплине на раніше завантажені статті.">
 
 <!ENTITY feedTitle.label             "Заголовок:">
 <!ENTITY feedTitle.accesskey         "T">
@@ -18,9 +17,6 @@
 
 <!ENTITY quickMode.label             "Показувати короткий опис статті замість завантаження веб-сторінки">
 <!ENTITY quickMode.accesskey         "к">
-
-<!ENTITY locationValidate.label      "Перевірити">
-<!ENTITY validateText.label          "Перевірити правильність і завантажити дійсний url.">
 
 <!ENTITY button.addFeed.label        "Додати">
 <!ENTITY button.addFeed.accesskey    "Д">

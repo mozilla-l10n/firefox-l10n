@@ -4,11 +4,10 @@
 
 <!ENTITY offlineDialog.title "Налаштування автономного режиму">
 
-<!ENTITY textStartUp "При запуску:">
 <!ENTITY radioRememberPrevState.label "Пам'ятати про автономний режим">
 <!ENTITY radioRememberPrevState.accesskey "р">
-<!ENTITY radioAskMe.label "Питати мене про онлайн-режим при запуску">
-<!ENTITY radioAskMe.accesskey "и">
+<!ENTITY radioAskState.label "Питати мене про онлайн-режим при запуску">
+<!ENTITY radioAskState.accesskey "и">
 <!ENTITY radioAlwaysOnline.label "Завжди запускатися в онлайн-режимі">
 <!ENTITY radioAlwaysOnline.accesskey "З">
 

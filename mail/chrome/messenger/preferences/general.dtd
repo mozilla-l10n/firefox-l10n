@@ -10,9 +10,6 @@
 <!ENTITY useDefault.label                 "Відновити">
 <!ENTITY useDefault.accesskey             "н">
 
-<!ENTITY bounceSystemDockIcon.label       "Анімація іконки в рядку стану">
-<!ENTITY bounceSystemDockIcon.accesskey   "А">
-
 <!ENTITY newMessagesArrive.label          "При появі нових листів:">
 <!ENTITY playSound.label                  "Подати звуковий сигнал">
 <!ENTITY playSound1.accesskey              "з">

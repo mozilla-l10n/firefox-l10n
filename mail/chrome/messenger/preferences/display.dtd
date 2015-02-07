@@ -16,16 +16,10 @@
 <!ENTITY regularSize.label                "Звичайний">
 <!ENTITY bigger.label                     "Більший">
 <!ENTITY smaller.label                    "Менший">
-<!ENTITY color.label                      "Колір:">
-<!ENTITY color.accesskey                  "К">
+<!ENTITY quotedTextColor.label            "Колір:">
+<!ENTITY quotedTextColor.accesskey        "К">
 <!ENTITY displayWidth.label               "Лист у текстовому форматі">
 <!ENTITY displayText.label                "Використовувати наступні параметри відображення цитат в листах текстового формату:">
-<!ENTITY colors.label                     "Кольори">
-<!ENTITY overrideColors.label             "Використовувати наступні кольори при відображенні листів:">
-<!ENTITY textColor.label                  "Колір тексту:">
-<!ENTITY textColor.accesskey              "т">
-<!ENTITY backgroundColor.label            "Колір фону:">
-<!ENTITY backgroundColor.accesskey        "ф">
 
 <!-- LOCALIZATION NOTE : (emoticonsAndStructs.label) 'Emoticons' are also known as 'Smileys', e.g. :-)   -->
 <!ENTITY convertEmoticons.label        "Відображати смайліки як графіку">
@@ -40,8 +34,7 @@
 <!ENTITY removeTagButton.label     "Вилучити">
 <!ENTITY removeTagButton.accesskey "В">
 
-<!-- Fonts -->
-<!ENTITY fontsAndColors.label    "Шрифти">
+<!-- Fonts and Colors -->
 <!ENTITY defaultFont.label       "Типовий шрифт:">
 <!ENTITY defaultFont.accesskey   "Т">
 <!ENTITY defaultSize.label       "Розмір:">
