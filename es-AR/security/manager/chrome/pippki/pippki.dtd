@@ -66,9 +66,6 @@
 <!ENTITY pkcs12.setpassword.label2 "Contraseña de resguardo del certificado (de nuevo):">
 <!ENTITY pkcs12.setpassword.reminder "Importante: Si olvida su contraseña de resguardo del certificado, no podrá restaurar el backup posteriormente.  Guárdela en un lugar seguro.">
 
-<!ENTITY pkcs12.getpassword.title  "Diálogo de ingreso de contraseña">
-<!ENTITY pkcs12.getpassword.message "Ingrese la contraseña que fue usada para cifrar este resguardo del certificado.">
-
 <!ENTITY chooseToken.title  "Diálogo de selección de token">
 <!ENTITY chooseToken.message1 "Seleccione un token.">
 

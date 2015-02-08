@@ -801,11 +801,6 @@ The word "toolbar" is appended automatically and should not be contained below! 
      a CSS length value. -->
 <!ENTITY pluginNotification.width "28em">
 
-<!ENTITY tabCrashed.header "Pestaña colgada">
-<!ENTITY tabCrashed.message "Bueno, esto es vergonzoso. Tratamos de mostrar esta página web, pero no está respondiendo.">
-<!ENTITY tabCrashed.checkSendReport "Decirle a &vendorShortName; sobre este cuelgue así pueden arreglarlo.">
-<!ENTITY tabCrashed.tryAgain "Intentar nuevamente">
-
 <!ENTITY uiTour.infoPanel.close "Cerrar">
 
 <!ENTITY switchToMetroCmd2.label       "Reiniciar en &brandShortName; para Windows 8 Táctil">
