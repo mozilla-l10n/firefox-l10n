@@ -1,0 +1,135 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!ENTITY runtimeMenu_disconnect_label "ချိတ်ဆက်ဖြုတ်">
+
+
+
+<!ENTITY runtimeMenu_takeScreenshot_label "မျက်နှာပြင်ရိုက်ချက်">
+
+
+
+
+
+
+
+
+<!ENTITY viewMenu_label "ရှုမြင်ချက်">
+
+
+
+<!ENTITY viewMenu_zoomin_label "ချဲ့ပါ">
+
+<!ENTITY viewMenu_zoomout_label "ချုံ့ပါ">
+
+
+
+
+
+<!-- We try to repicate Firefox' bindings: -->
+<!-- quit app -->
+<!-- open menu -->
+<!-- reload app -->
+<!-- show toolbox -->
+<!ENTITY key_toggleToolbox "VK_F12">
+<!-- toggle sidebar -->
+<!-- zoom -->
+
+
+
+
+
+<!ENTITY projectPanel_tabs "ခလုပ်ပြားများ">
+
+
+
+
+
+
+
+<!-- Lense -->
+
+
+<!ENTITY details_description "ဖေါ်ပြချက်">
+<!ENTITY details_location "တည်နေရာ">
+
+
+<!-- New App -->
+
+
+
+<!-- Decks -->
+
+
+
+<!ENTITY deck_close "ပိတ်">
+<!-- Addons -->
+
+<!-- Prefs -->
+
+<!ENTITY prefs_general_title "အထွေထွေ">
+<!ENTITY prefs_restore "စံ​ ပြန်ထားမည်">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!ENTITY prefs_options_keybindings_default "မူရင်းအခြေအနေ">
+<!-- Permissions Table -->
+<!ENTITY permissionstable_name_header "အမည်">
+<!-- Runtime Details -->
+
+
+
+
+
+
+<!-- Device Preferences -->
+
+
+
+
+
+
+
+
+<!-- Monitor -->
+<!ENTITY monitor_help "အကူအညီ">
