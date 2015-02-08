@@ -84,9 +84,6 @@
 <!ENTITY selectAllCmd.label "Виділити все">
 <!ENTITY selectAllCmd.key "A">
 <!ENTITY selectAllCmd.accesskey "с">
-<!ENTITY findCmd.label "Знайти і замінити…">
-<!ENTITY findCmd.key "F">
-<!ENTITY findCmd.accesskey "м">
 <!ENTITY findAgainCmd.label "Знайти наступне">
 <!ENTITY findAgainCmd.key "G">
 <!ENTITY findAgainCmd.key2 "VK_F3">
