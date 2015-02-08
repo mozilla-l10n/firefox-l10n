@@ -159,6 +159,8 @@
      etc).  The account remains a "Firefox" account. -->
 <!ENTITY fxaccount_create_account_header2 'Créer un compte Firefox'>
 <!ENTITY fxaccount_create_account_password_length_restriction '8 caractères minimum'>
+<!ENTITY fxaccount_create_account_day_of_birth 'Jour'>
+<!ENTITY fxaccount_create_account_month_of_birth 'Mois'>
 <!ENTITY fxaccount_create_account_year_of_birth 'Année de naissance'>
 <!-- Localization note: &formatS1; is fxaccount_policy_linktos, &formatS2; is fxaccount_policy_linkprivacy, both hyperlinked. -->
 <!ENTITY fxaccount_create_account_policy_text2 'En continuant, j\u0027accepte les &formatS1; et la &formatS2; des services en ligne de Firefox.'>

@@ -145,7 +145,7 @@
 <!ENTITY runtimedetails_adbIsRoot "ADB possède les privilèges administrateur : ">
 <!ENTITY runtimedetails_summonADBRoot "appareils avec les privilèges administrateur">
 <!ENTITY runtimedetails_ADBRootWarning "(nécessite un bootloader débloqué)">
-<!ENTITY runtimedetails_restrictedPrivileges "Privilèges restreints aux outils de développement : ">
+<!ENTITY runtimedetails_unrestrictedPrivileges "Privilèges des outils de développement non restreints : ">
 <!ENTITY runtimedetails_requestPrivileges "Demander des privilèges supplémentaires">
 <!ENTITY runtimedetails_privilegesWarning "(Redémarrera l'appareil. Nécessite les privilèges administrateur.)">
 
@@ -173,3 +173,21 @@
 <!-- Monitor -->
 <!ENTITY monitor_title "Moniteur">
 <!ENTITY monitor_help "Aide">
+
+<!-- WiFi Authentication -->
+<!-- LOCALIZATION NOTE (wifi_auth_header): The header displayed on the dialog
+     that instructs the user to transfer an authentication token to the
+     server. -->
+<!ENTITY wifi_auth_header "Identification client">
+<!-- LOCALIZATION NOTE (wifi_auth_scan_request): Instructions requesting the
+     user to transfer authentication info by scanning a QR code. -->
+<!ENTITY wifi_auth_scan_request "Le point de terminaison auquel vous tentez de vous connecter demande des informations supplémentaires pour authentifier cette connexion. Veuillez scanner le QR code ci-dessous via l'invite affichée sur l'autre appareil.">
+<!-- LOCALIZATION NOTE (wifi_auth_no_scanner): Link text to assist users with
+     devices that can't scan a QR code. -->
+<!ENTITY wifi_auth_no_scanner "Aucune invite pour scanner le code ?">
+<!-- LOCALIZATION NOTE (wifi_auth_yes_scanner): Link text to assist users with
+     devices that can scan a QR code. -->
+<!ENTITY wifi_auth_yes_scanner "Vous visualisez une invite pour scanner un QR code ?">
+<!-- LOCALIZATION NOTE (wifi_auth_token_request): Instructions requesting the
+     user to transfer authentication info by transferring a token. -->
+<!ENTITY wifi_auth_token_request "Si l'autre appareil demande un jeton à la place d'un QR code, veuillez recopier la valeur ci-dessous sur l'autre appareil :">
