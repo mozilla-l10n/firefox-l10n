@@ -145,7 +145,7 @@
 <!ENTITY runtimedetails_adbIsRoot "ADB je root: ">
 <!ENTITY runtimedetails_summonADBRoot "rootnuť zariadenie">
 <!ENTITY runtimedetails_ADBRootWarning "(vyžaduje odomknutý bootloader)">
-<!ENTITY runtimedetails_restrictedPrivileges "Oprávnenia obmedzené na DevTools: ">
+<!ENTITY runtimedetails_unrestrictedPrivileges "Neobmedzené oprávnenia DevTools: ">
 <!ENTITY runtimedetails_requestPrivileges "vyžiadať vyššie oprávnenia">
 <!ENTITY runtimedetails_privilegesWarning "(reštartuje zariadenie. Vyžaduje root práva.)">
 
