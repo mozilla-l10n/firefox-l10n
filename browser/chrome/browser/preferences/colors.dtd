@@ -6,8 +6,19 @@
 <!ENTITY  window.width                    "44em">
 <!ENTITY  window.macWidth                 "44em">
 
-<!ENTITY  allowPagesToUse.label           "Permetter a las paginas d'utilisar lur atgnas colurs empè da las colurs tschernidas survart">
-<!ENTITY  allowPagesToUse.accesskey       "d">
+<!ENTITY  allowPagesToUseColors.label           "Permetter a las paginas d'utilisar lur atgnas colurs empè da las colurs tschernidas survart:">
+<!ENTITY  allowPagesToUseColors.accesskey       "d">
+
+<!ENTITY  allowPagesToUseColors.automatic.label "Automatic">
+<!ENTITY  allowPagesToUseColors.always.label    "Adina">
+<!ENTITY  allowPagesToUseColors.never.label     "Mai">
+
+<!ENTITY  overridePageColors.label        "Remplazzar las colurs specifitgadas da la pagina cun mia selecziun survart:">
+<!ENTITY  overridePageColors.accesskey    "d">
+
+<!ENTITY  overridePageColors.always.label "Adina">
+<!ENTITY  overridePageColors.auto.label   "Be cun en designs cun cuntrast augmentà">
+<!ENTITY  overridePageColors.never.label  "Mai">
 
 <!ENTITY  color                           "Text e fund davos">
 <!ENTITY  textColor.label                 "Text:">
