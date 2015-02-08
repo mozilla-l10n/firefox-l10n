@@ -1,17 +1,17 @@
-<!-- This Source Code Form is subject to the terms of the Mozilla Public
+ï»¿<!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY cmd_engineManager.label "Gerir motores de pesquisa...">
-<!ENTITY searchEndCap.label "Pesquisar">
+<!ENTITY cmd_engineManager.label        "Gerir motores de pesquisa...">
+<!ENTITY searchEndCap.label             "Pesquisar">
 
 <!-- LOCALIZATION NOTE: The SearchHighlight strings are used in the
    - UITour popups that shows on first use of the new search panel. -->
 <!ENTITY SearchHighlight1.title "Pesquisas um clique">
-<!ENTITY SearchHighlight1.text "Pesquisa nesntes sítios intantâneamente, sem alterar a sua pré-definição.">
+<!ENTITY SearchHighlight1.text "Pesquisa nesntes sÃ­tios intantÃ¢neamente, sem alterar a sua prÃ©-definiÃ§Ã£o.">
 
-<!ENTITY SearchHighlight2.title "Sugestões inteligentes">
-<!ENTITY SearchHighlight2.text "Sugestões do seu motor de pesquisa pré-definido são apresentadas enquanto escreve.">
+<!ENTITY SearchHighlight2.title "SugestÃµes inteligentes">
+<!ENTITY SearchHighlight2.text "SugestÃµes do seu motor de pesquisa prÃ©-definido sÃ£o apresentadas enquanto escreve.">
 
 <!ENTITY SearchHighlightNext "Seguinte">
 <!ENTITY SearchHighlightClose "Obrigado!">

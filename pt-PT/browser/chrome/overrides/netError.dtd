@@ -193,5 +193,23 @@ functionality specific to firefox. -->
 <button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>
 ">
 
+<!ENTITY errorReporting.title "Reportar este erro">
+<!ENTITY errorReporting.longDesc "A reportar o endereço e a informação do certificado para <span id='hostname'></span> ajuda-nos a identificar e bloquear sítios maliciosos. Obrigado por ajudar a fazer uma web mais segura!">
+<!ENTITY errorReporting.automatic "No futuro reportar erros automaticamente">
+<!ENTITY errorReporting.learnMore "Saber maisâ€¦">
+<!ENTITY errorReporting.sending "A enviar relatório">
+<!ENTITY errorReporting.sent "Relatório enviado">
+<!ENTITY errorReporting.report "Reportar">
+<!ENTITY errorReporting.tryAgain "Tentar de novo">
+
 <!ENTITY remoteXUL.title "XUL remoto">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Por favor contacte os responsáveis do sítio web para os informar sobre este problema.</li></ul></p>">
+
+<!ENTITY oldSecurityProtocol.title "Não é possível ligar com segurança">
+<!-- LOCALIZATION NOTE (oldSecurityProtocol.longDesc) - Do not translate the
+     <span id='hostname'></span>. -->
+<!ENTITY oldSecurityProtocol.longDesc2 "O &brandShortName; não pode garantir a segurança dos seus dados <span id='hostname'></span> porque usa SSLv3, um protocolo com quebras de segurança.">
+<!-- LOCALIZATION NOTE (oldSecurityProtocol.advancedInfo) - Do not translate
+     the <span id='errorcode'></span>. -->
+<!ENTITY oldSecurityProtocol.advancedInfo "Info avançada: <span id='errorcode'></span>">
+<!ENTITY oldSecurityProtocol.learnMore "Saber maisâ€¦">
