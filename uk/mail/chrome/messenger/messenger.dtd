@@ -67,8 +67,8 @@
 <!ENTITY offlineGoOfflineCmd.accesskey "р">
 <!ENTITY synchronizeOfflineCmd.label "Завантажити/Синхронізувати…">
 <!ENTITY synchronizeOfflineCmd.accesskey "З">
-<!ENTITY settingsOfflineCmd.label "Налаштування автономного режиму…">
-<!ENTITY settingsOfflineCmd.accesskey "л">
+<!ENTITY settingsOfflineCmd2.label "Налаштування автономного режиму…">
+<!ENTITY settingsOfflineCmd2.accesskey "л">
 <!ENTITY downloadSelectedCmd.label "Завантажити виділені листи">
 <!ENTITY downloadSelectedCmd.accesskey "л">
 <!ENTITY downloadStarredCmd.label "Завантажити листи із зірочкою">
@@ -105,8 +105,8 @@
 <!ENTITY selectFlaggedCmd.accesskey "П">
 <!ENTITY menuFavoriteFolder.label "Улюблена тека">
 <!ENTITY menuFavoriteFolder.accesskey "У">
-<!ENTITY folderPropsCmd.label "Властивості…">
-<!ENTITY folderPropsFolderCmd.label "Властивості теки…">
+<!ENTITY folderPropsCmd2.label "Властивості…">
+<!ENTITY folderPropsFolderCmd2.label "Властивості теки…">
 <!ENTITY folderPropsNewsgroupCmd.label "Властивості групи новин…">
 <!ENTITY folderPropsCmd.accesskey "т">
 <!ENTITY undoDeleteMsgCmd.label "Скасувати вилучення листа">
@@ -417,8 +417,6 @@
 <!ENTITY openConversationCmd.label "Відкрити у Бесіді">
 <!ENTITY openConversationCmd.accesskey "Б">
 <!ENTITY openConversationCmd.key "o">
-<!ENTITY openFeedMessage.label "Відкрити повідомлення стріки новин">
-<!ENTITY openFeedMessage.accesskey "В">
 <!ENTITY openFeedWebPageInMP.label "Перемкнути веб сторінку і підсумок у панелі повідомлень">
 <!ENTITY openFeedWebPageInMP.accesskey "м">
 
@@ -448,8 +446,8 @@
 <!ENTITY savedFiles.label "Збережені файли">
 <!ENTITY savedFiles.accesskey "З">
 <!ENTITY savedFiles.key "j">
-<!ENTITY filtersCmd.label "Фільтри листів…">
-<!ENTITY filtersCmd.accesskey "Ф">
+<!ENTITY filtersCmd2.label "Фільтри листів…">
+<!ENTITY filtersCmd2.accesskey "Ф">
 <!ENTITY filtersApply.label "Застосувати фільтри до теки">
 <!ENTITY filtersApply.accesskey "З">
 <!ENTITY filtersApplyToSelection.label "Застосувати фільтри до виділених листів">
@@ -467,14 +465,14 @@
 <!ENTITY errorConsoleCmd.commandkey "j">
 <!ENTITY clearRecentHistory.label "Очистити недавню історію…">
 <!ENTITY clearRecentHistory.accesskey "О">
-<!ENTITY accountManagerCmd.label "Параметри облікового запису…">
-<!ENTITY accountManagerCmd.accesskey "П">
-<!-- LOCALIZATION NOTE (accountManagerCmdUnix.accesskey): belongs to accountManagerCmd.label,
+<!ENTITY accountManagerCmd2.label "Параметри облікового запису…">
+<!ENTITY accountManagerCmd2.accesskey "П">
+<!-- LOCALIZATION NOTE (accountManagerCmdUnix2.accesskey): belongs to accountManagerCmd2.label,
         which is placed under the Edit menu on Unix systems -->
-<!ENTITY accountManagerCmdUnix.accesskey "м">
+<!ENTITY accountManagerCmdUnix2.accesskey "м">
 
 <!-- Mail Toolbar -->
-<!ENTITY getMsgButton.label "Отримати">
+<!ENTITY getMsgButton1.label "Отримати">
 <!ENTITY newMsgButton.label "Створити">
 <!ENTITY replyButton.label "Відповісти">
 <!ENTITY replyAllButton.label "Відповісти всім">
@@ -539,7 +537,7 @@
 <!ENTITY chatButton.tooltip "Показати вкладку чату">
 <!ENTITY tagButton.tooltip "Помітити повідомлення">
 <!ENTITY compactButton.tooltip "Усунути вилучені листи з вибраної теки">
-<!ENTITY appmenuButton.tooltip "Показати меню програми">
+<!ENTITY appmenuButton1.tooltip "Показати меню програми">
 
 <!-- AppMenu Popup -->
 <!ENTITY appmenuNewMsgCmd.label "Новий лист">
@@ -560,8 +558,8 @@
 <!-- Folder Pane Context Menu -->
 <!ENTITY folderContextGetMessages.label "Отримати листи">
 <!ENTITY folderContextGetMessages.accesskey "О">
-<!ENTITY folderContextOpenNewWindow.label "Відкрити в новому вікні">
-<!ENTITY folderContextOpenNewWindow.accesskey "н">
+<!ENTITY folderContextOpenInNewWindow.label "Відкрити в новому вікні">
+<!ENTITY folderContextOpenInNewWindow.accesskey "н">
 <!ENTITY folderContextOpenNewTab.label "Відкрити в новій вкладці">
 <!ENTITY folderContextOpenNewTab.accesskey "т">
 <!ENTITY folderContextNew.label "Створити вкладену теку…">
@@ -588,12 +586,12 @@
 <!ENTITY folderContextSubscribe.accesskey "д">
 <!ENTITY folderContextSearchForMessages.label "Шукати листи…">
 <!ENTITY folderContextSearchForMessages.accesskey "Ш">
-<!ENTITY folderContextProperties.label "Властивості…">
-<!ENTITY folderContextProperties.accesskey "В">
+<!ENTITY folderContextProperties2.label "Властивості…">
+<!ENTITY folderContextProperties2.accesskey "В">
 <!ENTITY folderContextFavoriteFolder.label "Тека обраних">
 <!ENTITY folderContextFavoriteFolder.accesskey "х">
-<!ENTITY folderContextSettings.label "Налаштування…">
-<!ENTITY folderContextSettings.accesskey "л">
+<!ENTITY folderContextSettings2.label "Налаштування…">
+<!ENTITY folderContextSettings2.accesskey "л">
 
 <!-- Search Bar -->
 <!ENTITY SearchNameOrEmail.label "Ім’я або адреса електронної пошти містять:">
@@ -633,27 +631,6 @@
 <!ENTITY attachmentColumn.label "Вкладення">
 
 <!-- Thread Pane Tooltips -->
-<!ENTITY columnChooser.tooltip "Натисніть, щоб обрати колонки для відображення">
-<!ENTITY threadColumn.tooltip "Натисніть тут, щоб переглянути гілку">
-<!ENTITY fromColumn.tooltip "Натисніть, щоб відсортувати за відправником">
-<!ENTITY recipientColumn.tooltip "Натисніть тут, щоб відсортувати листи за адресатом">
-<!ENTITY subjectColumn.tooltip "Натисніть тут, щоб відсортувати листи за темою">
-<!ENTITY dateColumn.tooltip "Натисніть тут, щоб відсортувати листи за датою">
-<!ENTITY priorityColumn.tooltip "Натисніть тут, щоб відсортувати листи за важливістю">
-<!ENTITY tagsColumn.tooltip "Натисніть тут, щоб відсортувати листи за мітками">
-<!ENTITY accountColumn.tooltip "Натисніть тут, щоб відсортувати листи за обліковим записом">
-<!ENTITY statusColumn.tooltip "Натисніть тут, щоб відсортувати листи за станом">
-<!ENTITY sizeColumn.tooltip "Натисніть тут, щоб відсортувати листи за розміром">
-<!ENTITY junkStatusColumn.tooltip "Натисніть тут, щоб відсортувати листи за ознакою спаму">
-<!ENTITY unreadColumn.tooltip "Кількість непрочитаних листів у гілці">
-<!ENTITY totalColumn.tooltip "Загальне число листів у гілці">
-<!ENTITY readColumn.tooltip "Натисніть тут, щоб відсортувати прочитані листи">
-<!ENTITY receivedColumn.tooltip "Клацніть щоб сортувати за датою отримання">
-<!ENTITY starredColumn.tooltip "Натисніть тут, щоб відсортувати листи за зірочкою">
-<!ENTITY locationColumn.tooltip "Натисніть тут, щоб відсортувати листи по їх розташуванню">
-<!ENTITY idColumn.tooltip "Натисніть тут, щоб відсортувати листи по порядку отримання">
-<!ENTITY attachmentColumn.tooltip "Натисніть тут, щоб відсортувати листи по наявності вкладень">
-
 <!-- Thread Pane Context Menu -->
 <!ENTITY contextOpenNewWindow.label "Відкрити лист в новому вікні">
 <!ENTITY contextOpenNewWindow.accesskey "н">
@@ -665,8 +642,6 @@
 <!ENTITY contextOpenNewTab.accesskey "к">
 <!ENTITY contextOpenConversation.label "Відкрити лист в бесіді">
 <!ENTITY contextOpenConversation.accesskey "б">
-<!ENTITY contextEditAsNew.label "Редагувати як новий…">
-<!ENTITY contextEditAsNew.accesskey "Р">
 <!ENTITY contextArchive.label "Архівувати">
 <!ENTITY contextArchive.accesskey "х">
 <!ENTITY contextReplySender.label "Відповісти відправнику">
@@ -784,8 +759,8 @@
 <!ENTITY AddToAddressBook.accesskey "Д">
 <!ENTITY AddDirectlyToAddressBook.label "Додати до адресної книги">
 <!ENTITY AddDirectlyToAddressBook.accesskey "а">
-<!ENTITY EditContact.label "Редагувати контакт…">
-<!ENTITY EditContact.accesskey "Р">
+<!ENTITY EditContact1.label "Редагувати контакт…">
+<!ENTITY EditContact1.accesskey "Р">
 <!ENTITY ViewContact.label "Переглянути контакт">
 <!ENTITY ViewContact.accesskey "П">
 <!ENTITY SubscribeToNewsgroup.label "Підписатись на групу новин">
@@ -837,7 +812,7 @@
 <!ENTITY zoomWindow.label "Розгорнути вікно">
 
 <!-- Mac OS X Application Menu (Cocoa widgets) -->
-<!ENTITY preferencesCmdMac.label        "Налаштування…">
+<!ENTITY preferencesCmdMac2.label        "Налаштування…">
 <!ENTITY preferencesCmdMac.commandkey   ",">
 <!ENTITY preferencesCmdMac.modifiers    "accel">
 <!ENTITY servicesMenuMac.label          "Служби">
