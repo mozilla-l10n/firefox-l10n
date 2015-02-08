@@ -63,9 +63,6 @@
 <!ENTITY pkcs12.setpassword.label2 "Heslo pre zálohu certifikátov (znova)">
 <!ENTITY pkcs12.setpassword.reminder "Dôležité: ak zabudnete heslo pre zálohu certifikátov, nebude možné neskôr obnoviť túto zálohu. Uložte toto heslo na bezpečné miesto.">
 
-<!ENTITY pkcs12.getpassword.title "Okno pre zadanie hesla">
-<!ENTITY pkcs12.getpassword.message "Zadajte heslo, ktorým bola zašifrovaná táto záloha certifikátov.">
-
 <!ENTITY chooseToken.title "Okno výberu tokenu">
 <!ENTITY chooseToken.message1 "Vyberte token">
 
