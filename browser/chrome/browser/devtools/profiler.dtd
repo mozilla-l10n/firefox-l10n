@@ -75,3 +75,8 @@
 <!-- LOCALIZATION NOTE (profilerUI.invertTree.tooltiptext): This is the tooltip
   -  for the tree-inverting checkbox's label.  -->
 <!ENTITY profilerUI.invertTree.tooltiptext "Invertovaním stromu volaní zobrazíte cesty profilovaných volaní od najmladších záznamov k starším záznamom.">
+
+<!-- LOCALIZATION NOTE (profilerUI.invertFlameGraph): This is the label shown next to
+  -  a checkbox that inverts and un-inverts the profiler's flame graph. -->
+<!ENTITY profilerUI.invertFlameGraph             "Invertovať graf">
+<!ENTITY profilerUI.invertFlameGraph.tooltiptext "Invertovaním grafu zobrazíte cesty profilovaných volaní od najmladších záznamov k starším záznamom.">
