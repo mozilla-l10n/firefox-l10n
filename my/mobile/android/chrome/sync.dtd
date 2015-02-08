@@ -12,13 +12,13 @@
 <!ENTITY sync.syncNow               "ယခုပဲချိတ်ဆတ်သုံးမည်။">
 
 <!ENTITY sync.setup.title           "ကူးယူသုံးရန် ချိတ်ဆက်ပါ">
-
-
-
-
-
-
-
+<!ENTITY sync.setup.pair            "စတင်သုံးရန် &quot;ကိရိယာတစ်ခုဖြင့်တွဲပါ&quot; အားသင့်ဖုန်းတွင် ရွေးပါ">
+<!ENTITY sync.fallback              "ကွန်ပျူတာအနားတွင်မရှိပါ...">
+<!ENTITY sync.setup.manual          "သင်၏ ထပ်တူချိတ်သုံး အကောင့်အချက်အလက်များသွင်းပါ">
+<!ENTITY sync.account               "အကောင့် အမည်">
+<!ENTITY sync.password              "စကားဝှက်များ">
+<!ENTITY sync.recoveryKey           "ရီကာဗာကီး">
+<!ENTITY sync.customServer          "ကိုယ်ပိုင်ဆာဗာသုံးမည်">
 <!ENTITY sync.serverURL             "ဆာဗာ URL">
 <!ENTITY sync.setup.connect         "ချိတ်ဆက်ပါ">
 <!ENTITY sync.setup.cancel          "ပယ်​ဖျက်ပါ">
