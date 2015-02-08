@@ -295,9 +295,9 @@ size. -->
 <!ENTITY page "Side">
 <!ENTITY tools "Funktioner">
 <!ENTITY new_tab "Nyt faneblad">
-<!ENTITY new_private_tab "Nyt faneblad med privat browsing">
+<!ENTITY new_private_tab "Nyt privat faneblad">
 <!ENTITY close_all_tabs "Luk alle faneblade">
-<!ENTITY close_private_tabs "Luk faneblade med privat browsing">
+<!ENTITY close_private_tabs "Luk private faneblade">
 <!ENTITY tabs_normal "Faneblade">
 <!ENTITY tabs_private "Privat browsing">
 <!ENTITY tabs_synced "Synkroniseret">
@@ -320,7 +320,7 @@ size. -->
 <!ENTITY media_stop "Stop">
 
 <!ENTITY contextmenu_open_new_tab "Åbn i nyt faneblad">
-<!ENTITY contextmenu_open_private_tab "Åbn i faneblad med privat browsing">
+<!ENTITY contextmenu_open_private_tab "Åbn i privat faneblad">
 <!ENTITY contextmenu_remove "Fjern">
 <!ENTITY contextmenu_add_to_launcher "Føj til startskærmen">
 <!ENTITY contextmenu_share "Del">
@@ -407,7 +407,7 @@ size. -->
 <!ENTITY home_most_recent_empty "Dine senest besøgte websteder vises her.">
 <!-- Localization note (home_most_recent_emptyhint2): "Psst" is a sound that might be used to attract someone's attention unobtrusively, and intended to hint at Private Browsing to the user.
      The placeholders &formatS1; and &formatS2; are used to mark the location of text underlining. -->
-<!ENTITY home_most_recent_emptyhint2 "Psst: Bruger du &formatS1;Nyt faneblad med privat browsing&formatS2; bliver din historik ikke gemt.">
+<!ENTITY home_most_recent_emptyhint2 "Psst: Bruger du &formatS1;Nyt privat faneblad&formatS2; bliver din historik ikke gemt.">
 <!ENTITY home_reading_list_empty "Artikler som du gemmer til senere vises her.">
 <!-- Localization note (home_reading_list_hint): The "TIP" string is synonymous to "hint", "clue", etc. This string is displayed
      as an advisory message on how to add content to the reading list when the reading list empty.
@@ -447,7 +447,7 @@ size. -->
 <!ENTITY home_remote_tabs_unhide_selected_devices "Vis de valgte enheder">
 
 <!ENTITY private_browsing_title "Privat browsing">
-<!ENTITY private_tabs_panel_empty_desc "Dine faneblade med privat browsing vil blive vist her. Selvom din browsinghistorik og cookies slettes, når du afslutter privat browsing, så vil bogmærker og hentede filer ikke blive slettet.">
+<!ENTITY private_tabs_panel_empty_desc "Dine private faneblade vil blive vist her. Selvom din browsinghistorik og cookies slettes, når du afslutter privat browsing, så vil bogmærker og hentede filer ikke blive slettet.">
 <!ENTITY private_tabs_panel_learn_more "Vil du vide mere?">
 
 <!ENTITY remote_tabs_panel_moved_title "Hvor blev mine faneblade af?">
@@ -542,7 +542,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY guest_session_dialog_continue "Fortsæt">
 <!ENTITY guest_session_dialog_cancel "Annuller">
 <!ENTITY new_guest_session_title "&brandShortName; bliver nu genstartet">
-<!ENTITY new_guest_session_text "Brugeren af gæst-sessionen vil ikke kunne se dine personlige browsing-data (som fx gemte adgangskoder, historik og bogmærker).\n\nNår din gæst er færdig, vil vedkommendes browsing-data blive slettet, og din session vil blive åbnet igen.">
+<!ENTITY new_guest_session_text "Brugeren af gæstesessionen vil ikke kunne se dine personlige browsing-data (som fx gemte adgangskoder, historik og bogmærker).\n\nNår din gæst er færdig, vil vedkommendes browsing-data blive slettet, og din session vil blive åbnet igen.">
 <!ENTITY guest_browsing_notification_title "Gæstebrowsing er aktiveret">
 <!ENTITY guest_browsing_notification_text "Tryk for at afslutte">
 
