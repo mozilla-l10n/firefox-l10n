@@ -58,3 +58,6 @@ that require it.  -->
 <!ENTITY sanitizeEverythingUndoWarning     "Esta acción no puede revertirse.">
 <!ENTITY dialog.width2                 "34em">
 <!ENTITY column.width2                 "17em">
+<!ENTITY inContentDialog.width         "34em">
+<!ENTITY inContentColumn.width         "24em">
+
