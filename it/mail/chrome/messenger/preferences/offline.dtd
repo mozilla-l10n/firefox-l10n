@@ -3,13 +3,17 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY offlineDialog.title "Impostazioni non in linea">
-<!ENTITY textStartUp "All'avvio:">
+<!ENTITY checkAutoDetect.label "Seguire automaticamente lo stato in linea quando viene rilevato">
+<!ENTITY checkAutoDetect.accesskey "S">
+<!ENTITY titleStartUp "Stato manuale all'avvio:">
 <!ENTITY radioRememberPrevState.label "Ricordarsi del precedente stato in linea">
 <!ENTITY radioRememberPrevState.accesskey "R">
-<!ENTITY radioAskMe.label "Chiedi all'avvio per la modalità in linea">
-<!ENTITY radioAskMe.accesskey "p">
-<!ENTITY radioAlwaysOnline.label "Iniziare sempre in linea">
+<!ENTITY radioAskState.label "Chiedere per determinere stato in linea">
+<!ENTITY radioAskState.accesskey "C">
+<!ENTITY radioAlwaysOnline.label "In linea">
 <!ENTITY radioAlwaysOnline.accesskey "l">
+<!ENTITY radioAlwaysOffline.label "Non in linea">
+<!ENTITY radioAlwaysOffline.accesskey "N">
 <!ENTITY textGoingOnline "Inviare i messaggi in attesa subito dopo essersi collegati?">
 <!ENTITY radioAutoSend.label "Si">
 <!ENTITY radioAutoSend.accesskey "S">

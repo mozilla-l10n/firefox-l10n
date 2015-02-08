@@ -5,8 +5,11 @@
 <!ENTITY colorsDialog.title "Colori">
 <!ENTITY window.width "44em">
 <!ENTITY window.macWidth "45em">
-<!ENTITY allowPagesToUse.label "Consentire al contenuto di scegliere i colori al posto della selezione corrente.">
-<!ENTITY allowPagesToUse.accesskey "C">
+<!ENTITY overridePageColors.label "Ignora i colori specificati dal contenuto con le mie selezioni:">
+<!ENTITY overridePageColors.accesskey "n">
+<!ENTITY overridePageColors.always.label "Sempre">
+<!ENTITY overridePageColors.auto.label "Solo con temi ad alto contrasto">
+<!ENTITY overridePageColors.never.label "Mai">
 <!ENTITY color "Testo e sfondo">
 <!ENTITY textColor.label "Testo:">
 <!ENTITY textColor.accesskey "T">
