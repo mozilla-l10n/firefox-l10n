@@ -183,7 +183,7 @@
 <!ENTITY pref_clear_private_data2 "Bersihkan sekarang">
 <!ENTITY pref_clear_private_data_category "Hapus data pribadi">
 <!ENTITY pref_clear_on_exit_title2 "Bersihkan saat keluar">
-<!ENTITY pref_clear_on_exit_summary2 "&brandShortName; akan membersihkan data Anda secara otomatis setiap Anda memilih  \u0022Keluar\u00 dari menu utama">
+<!ENTITY pref_clear_on_exit_summary2 "&brandShortName; akan membersihkan data Anda secara otomatis setiap Anda memilih \u0022Keluar\u0022 dari menu utama">
 <!ENTITY pref_clear_on_exit_dialog_title "Pilih data yang akan dibersihkan">
 <!ENTITY pref_plugins "Plugin">
 <!ENTITY pref_plugins_enabled "Aktif">
@@ -273,6 +273,7 @@ size. -->
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
      actual notification that an update is available. -->
+<!ENTITY pref_update_autodownload2 "Unduh versi baru secara otomatis">
 <!ENTITY pref_update_autodownload_wifi "Hanya lewat Wi-Fi">
 <!ENTITY pref_update_autodownload_never "Tidak">
 <!ENTITY pref_update_autodownload_always "Selalu">
@@ -301,8 +302,8 @@ size. -->
 <!ENTITY close_private_tabs "Tutup Tab Pribadi">
 <!ENTITY tabs_normal "Tab">
 <!ENTITY tabs_private "Pribadi">
-
-
+<!ENTITY tabs_synced "Tersinkronisasi">
+<!ENTITY set_image_fail "Gagal menyetel gambar">
 <!ENTITY set_image_path_fail "Gagal menyimpan gambar">
 <!ENTITY set_image_chooser_title "Setel Gambar Sebagai">
 <!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
@@ -322,15 +323,15 @@ size. -->
 
 <!ENTITY contextmenu_open_new_tab "Buka di Tab Baru">
 <!ENTITY contextmenu_open_private_tab "Buka di Tab Pribadi">
-
+<!ENTITY contextmenu_remove "Hapus">
 <!ENTITY contextmenu_add_to_launcher "Tambahkan ke Layar Beranda">
-
-
+<!ENTITY contextmenu_share "Bagikan">
+<!ENTITY contextmenu_pasteandgo "Tempel &amp; Kunjungi">
 <!ENTITY contextmenu_paste "Tempel">
-
-
-
-
+<!ENTITY contextmenu_copyurl "Salin Alamat">
+<!ENTITY contextmenu_edit_bookmark "Edit">
+<!ENTITY contextmenu_subscribe "Berlangganan Laman">
+<!ENTITY contextmenu_site_settings "Edit Pengaturan Situs">
 <!ENTITY contextmenu_top_sites_edit "Edit">
 <!ENTITY contextmenu_top_sites_pin "Jadikan Permanen">
 <!ENTITY contextmenu_top_sites_unpin "Hapus dari Tab Permanen">
@@ -525,8 +526,8 @@ dari Android">
 <!ENTITY updater_start_select2 "Sentuh untuk mengunduh">
 
 <!ENTITY updater_downloading_title2 "Mengunduh &brandShortName;">
-
-
+<!ENTITY updater_downloading_title_failed2 "Unduhan gagal">
+<!ENTITY updater_downloading_select2 "Sentuh untuk menerapkan pembaruan setelah selesai diunduh">
 <!ENTITY updater_downloading_retry2 "Sentuh untuk mencoba lagi">
 
 <!ENTITY updater_apply_title2 "Versi baru &brandShortName; tersedia">
