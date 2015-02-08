@@ -135,6 +135,13 @@
 <!-- LOCALIZATION NOTE (sharedLongDesc3) This string contains markup including widgets for enabling wifi connections.
      The text inside the tags should be localized. Do not touch the ids. -->
 
+<!ENTITY sharedLongDesc3 "<ul> 
+<li>ယခုဝက်ဆိုက်သည် လောလောဆယ် အလုပ်မလုပ် သို့ အရမ်းအလုပ်များနေခြင်း ကြောင့်ဖြစ်လိမ့်မည်။</li> 
+<li>ခဏကြာလျှင် ပြန်ကြိုးစားပါ။ အလုပ်မလုပ်သေးပါက ဒေတာသို့ ဝိုင်ဖိုင် ချိတ်ဆက်မှုကို စစ်ဆေးပါ
+<button id='wifi'>ဝိုင်ဖိုင်ဖွင့်မည်</button> 
+</li> 
+</ul>">
+
 <!ENTITY cspBlocked.title "Content Security Policy အရပိတ်ပင်ထားသည်။">
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; သည်ယခု၀တ်ဆိုက်အားပါ၀င်နေသောအရာတစ်ခု၏လုံခြုံရေး ကြောင့်ရယူခြင်းကိုခွင့်မပြုပါ.</p>">
 
