@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY tabCrashed.header "On ne va pas se mentir, cet onglet a planté">
-<!ENTITY tabCrashed.message "Le bon côté c'est que vous pouvez fermer cet onglet, le restaurer ou encore restaurer tous les onglets ayant planté.">
+<!ENTITY tabCrashed.message "Le bon côté c'est que vous pouvez fermer cet onglet, le restaurer ou restaurer tous les onglets ayant planté.">
 <!ENTITY tabCrashed.sendReport "Envoyer un rapport de plantage pour réduire les chances de rencontrer des problèmes">
 <!ENTITY tabCrashed.reportSent "Rapport de plantage déjà envoyé. Nous vous remercions de contribuer à l'amélioration de &brandShortName;.">
 <!ENTITY tabCrashed.closeTab "Fermer cet onglet">
