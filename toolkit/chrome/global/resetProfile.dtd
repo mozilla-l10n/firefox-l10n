@@ -2,14 +2,14 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this file,
    - You can obtain one at http://mozilla.org/MPL/2.0/.  -->
 
-<!ENTITY resetProfile.dialog.title        "Redefinir &brandShortName;">
-<!ENTITY resetProfile.dialog.description  "Es ti segir che ti vuls redefinir il stadi original da &brandShortName;?">
-<!ENTITY resetProfile.dialog.items2.label "&brandShortName; emprova da mantegnair:">
-<!ENTITY resetProfile.dialog.footer.label "&brandShortName; vegn a reaviar e tut las autras datas vegnan stizzadas.">
-<!ENTITY resetProfile.dialog.button.label "Redefinir &brandShortName;">
+<!ENTITY refreshProfile.dialog.title         "Redefinir &brandShortName;">
+<!ENTITY refreshProfile.dialog.description1  "Cumenza frestg per schliar problems e meglra prestaziun.">
+<!ENTITY refreshProfile.dialog.description2  "Quai vegn:">
+<!ENTITY refreshProfile.dialog.items.label1  "Ad allontanar tes supplements e tia persunalisaziun">
+<!ENTITY refreshProfile.dialog.items.label2  "Redefinir la configuraziun da standard dal navigatur">
+<!ENTITY refreshProfile.dialog.button.label  "Redefinir &brandShortName;">
 
-<!ENTITY resetProfile.title               "Refedinir il stadi original da &brandShortName;">
-<!ENTITY resetProfile.description         "Sch'i dat problems pli gronds che ti na pos betg schliar pos ti redefinir Firefox e mantegnair be las datas essenzialas.">
-<!ENTITY resetProfile.button.label2       "Redefinir &brandShortName;…">
+<!ENTITY refreshProfile.title                "Dà nov schlantsch a &brandShortName;">
+<!ENTITY refreshProfile.button.label         "Redefinir &brandShortName;…">
 
-<!ENTITY resetProfile.cleaning.description "Spetga p. pl. durant che &brandShortName; fa urden cun las datas veglias…">
+<!ENTITY refreshProfile.cleaning.description "Prest a fin…">
