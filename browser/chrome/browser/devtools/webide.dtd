@@ -114,7 +114,7 @@
 <!ENTITY prefs_title "Preferencias">
 <!ENTITY prefs_editor_title "Editor">
 <!ENTITY prefs_general_title "General">
-<!ENTITY prefs_restore "Restablecer a datos de fábrica">
+<!ENTITY prefs_restore "Restaurar a configuración original">
 <!ENTITY prefs_manage_components "Administrar componentes extra">
 <!ENTITY prefs_options_autoconnectruntime "Reconectar a runtime anterior">
 <!ENTITY prefs_options_autoconnectruntime_tooltip "Reconectar a runtime anterior al iniciar WebIDE">
@@ -145,7 +145,7 @@
 <!ENTITY runtimedetails_adbIsRoot "ADB is root: ">
 <!ENTITY runtimedetails_summonADBRoot "root device">
 <!ENTITY runtimedetails_ADBRootWarning "(requiere bootloader desbloqueado)">
-<!ENTITY runtimedetails_restrictedPrivileges "Privilegios restringidos de DevTools: ">
+<!ENTITY runtimedetails_unrestrictedPrivileges "Privilegios de DevTools sin restricciones: ">
 <!ENTITY runtimedetails_requestPrivileges "solicitar privilegios superiores">
 <!ENTITY runtimedetails_privilegesWarning "(Reiniciará el dispositivo. Se requiere acceso root.)">
 
@@ -155,6 +155,13 @@
 <!ENTITY device_typestring "Cadena">
 <!ENTITY device_typeobject "Objeto">
 <!ENTITY device_typenone "Seleccione un tipo">
+
+<!-- Device Preferences -->
+<!ENTITY devicepreference_title "Preferencias de dispositivo">
+<!ENTITY devicepreference_search "Preferencias de búsqueda">
+<!ENTITY devicepreference_newname "Nombre de nueva preferencia">
+<!ENTITY devicepreference_newtext "Valor de preferencia">
+<!ENTITY devicepreference_addnew "Agregar nueva preferencia">
 
 <!-- Device Settings -->
 <!ENTITY devicesetting_title "Opciones de dispositivo">
@@ -166,3 +173,21 @@
 <!-- Monitor -->
 <!ENTITY monitor_title "Monitor">
 <!ENTITY monitor_help "Ayuda">
+
+<!-- WiFi Authentication -->
+<!-- LOCALIZATION NOTE (wifi_auth_header): The header displayed on the dialog
+     that instructs the user to transfer an authentication token to the
+     server. -->
+<!ENTITY wifi_auth_header "Identificación de cliente">
+<!-- LOCALIZATION NOTE (wifi_auth_scan_request): Instructions requesting the
+     user to transfer authentication info by scanning a QR code. -->
+<!ENTITY wifi_auth_scan_request "El punto al que se está conectando necesita más información para autenticar esta conexión.  Escanee el código QR desde el pedido de su otro dispositivo.">
+<!-- LOCALIZATION NOTE (wifi_auth_no_scanner): Link text to assist users with
+     devices that can't scan a QR code. -->
+<!ENTITY wifi_auth_no_scanner "¿No le pide un código QR?">
+<!-- LOCALIZATION NOTE (wifi_auth_yes_scanner): Link text to assist users with
+     devices that can scan a QR code. -->
+<!ENTITY wifi_auth_yes_scanner "¿Tiene un pedido de código QR?">
+<!-- LOCALIZATION NOTE (wifi_auth_token_request): Instructions requesting the
+     user to transfer authentication info by transferring a token. -->
+<!ENTITY wifi_auth_token_request "Si su otro dispositivo pide un token en lugar de escanear un código QR, copie el valor siguiente en el otro dispositivo:">
