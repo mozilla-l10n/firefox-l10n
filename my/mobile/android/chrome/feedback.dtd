@@ -2,10 +2,14 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY feedbackHeader2.label          "အကြံပေးချက်ဆိုင်ရာသုံး ကိရိယာများ">
+
+<!ENTITY feedback.communicate.title     "ကျွန်ုပ်တို့ နှင့်ဆက်သွယ်ပါ!">
 <!ENTITY feedback.feedback.title        "အကြံပေးပါ">
+<!ENTITY feedback.feedback.good         "ကောင်း">
+<!ENTITY feedback.feedback.bad          "ဆိုး">
 
-
-
+<!ENTITY feedback.tools.title           "ကိရိယာများ">
 <!ENTITY feedback.allowTelemetry.title  "လုပ်ဆောက်ချက်မှတ်တမ်းပို့">
-
+<!ENTITY feedback.forceCompat.title     "အတ်အွန် အား တွန်းအားပေးသုံးမည်">
 

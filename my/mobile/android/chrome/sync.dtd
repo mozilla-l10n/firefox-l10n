@@ -3,14 +3,15 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY sync.title                 "ထပ်တူပြုပြိုင်တူအသုံးပြုခြင်း">
-
-
-
+<!ENTITY sync.notconnected          "မချိတ်ဆက်ထားပါ">
+<!ENTITY sync.connect               "ချိတ်ဆက်ပါ">
+<!ENTITY sync.connected             "ချိတ်ဆက်ထားသှ်">
 <!ENTITY sync.details               "အသေးစိတ်များ">
-
-
+<!ENTITY sync.deviceName            "ယခု ဖုန်း">
+<!ENTITY sync.disconnect            "အချိတ်အဆက်ဖြုတ်ပါ">
 <!ENTITY sync.syncNow               "ယခုပဲချိတ်ဆတ်သုံးမည်။">
 
+<!ENTITY sync.setup.title           "ကူးယူသုံးရန် ချိတ်ဆက်ပါ">
 
 
 
@@ -21,10 +22,10 @@
 <!ENTITY sync.serverURL             "ဆာဗာ URL">
 
 <!ENTITY sync.setup.cancel          "ပယ်​ဖျက်ပါ">
-
-<!ENTITY sync.setup.waiting2        "အခြား ဖုန်းများအား စောင့်နေသှ်...">
+<!ENTITY sync.setup.tutorial        "မည်သို့လုပ်ရမည်ကိုကျွန်ုပ်အားပြပါ။">
+<!ENTITY sync.setup.waiting2        "အခြားဖုန်းအား စောင့်နေသှ်...">
 
 <!ENTITY sync.pair.title            "ပစ္စည်းတစ်ခုဖြင့်တွဲမည်။">
-
-
-
+<!ENTITY sync.pair.description      "သင့် ဖုန်းအသစ်များအား သုံးရန် ယခုဖုန်းတွင် &quot;ထပ်တူသုံး တပ်ဆင်&quot; ကိုရွေးပါ">
+<!ENTITY sync.setup.close           "ပိတ်">
+<!ENTITY sync.setup.waitingdownload "သင့်အချက်အလက်များအား နောက်ကွယ်တွင် ဒေါင်းလုဒ်ရယူနေသှ်။ ယခုဝင်းဒိုးအား ပိတ်လိုက ပိတ်နိုင်သှ်။">
