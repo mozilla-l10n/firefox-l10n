@@ -42,3 +42,5 @@
   -->
 <!ENTITY translation.options.attribution.beforeLogo "Preložené pomocou služby">
 <!ENTITY translation.options.attribution.afterLogo "">
+
+<!ENTITY  drmContent.label             "Obsah DRM">
