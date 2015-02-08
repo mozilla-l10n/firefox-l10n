@@ -135,7 +135,7 @@
      search providers.
      The &formatI; in the string will be replaced by a small image of the icon described, and can be moved to wherever
      it is applicable. -->
-
+<!ENTITY pref_category_devtools "Alat pengembang">
 <!ENTITY pref_category_devtools_summary "Pendebugan daring, paint flash">
 <!ENTITY pref_developer_paint_flashing "Paint flash">
 <!ENTITY pref_developer_remotedebugging "Pendebugan daring">
@@ -150,15 +150,17 @@
      The &formatS; will be replaced with the name of the new panel the user just
      selected to be added to the home page. -->
 <!ENTITY home_add_panel_installed "\u0027&formatS;\u0027 ditambahkan ke beranda">
-
-
-
-
-
-
+<!ENTITY pref_category_home_content_settings "Pengaturan isi">
+<!ENTITY pref_home_updates "Pemutakhiran otomatis">
+<!ENTITY pref_home_updates_enabled "Aktif">
+<!ENTITY pref_home_updates_wifi "Hanya lewat Wi-Fi">
+<!ENTITY pref_home_suggested_sites "Tampilkan saran situs">
+<!ENTITY pref_home_suggested_sites_summary "Menampilkan pintasan ke situs di beranda Anda yang menurut kami akan menarik bagi Anda">
 <!-- Localization note: These are shown in the left sidebar on tablets -->
 
-
+<!ENTITY pref_header_customize "Ubahsuai">
+<!ENTITY pref_header_display "Tampilan">
+<!ENTITY pref_header_privacy_short "Privasi">
 <!ENTITY pref_header_help "Bantuan">
 <!ENTITY pref_header_language "Bahasa">
 <!ENTITY pref_header_vendor "&vendorShortName;">
@@ -174,13 +176,14 @@
 <!ENTITY pref_donottrack_title "Jangan lacak">
 <!ENTITY pref_donottrack_summary "&brandShortName; akan memberi tahu situs bahwa Anda tidak ingin dilacak">
 
-
-
-
+<!ENTITY pref_char_encoding "Pengodean karakter">
+<!ENTITY pref_char_encoding_on "Tampilkan menu">
+<!ENTITY pref_char_encoding_off "Jangan tampilkan menu">
+<!ENTITY pref_clear_private_data2 "Bersihkan sekarang">
 <!ENTITY pref_clear_private_data_category "Hapus data pribadi">
-
-
-
+<!ENTITY pref_clear_on_exit_title2 "Bersihkan saat keluar">
+<!ENTITY pref_clear_on_exit_summary2 "&brandShortName; akan membersihkan data Anda secara otomatis setiap Anda memilih  \u0022Keluar\u00 dari menu utama">
+<!ENTITY pref_clear_on_exit_dialog_title "Pilih data yang akan dibersihkan">
 <!ENTITY pref_plugins "Plugin">
 
 
@@ -211,8 +214,8 @@ size. -->
 <!ENTITY pref_sync "Sync">
 
 
-
-
+<!ENTITY pref_import_android "Impor dari Android">
+<!ENTITY pref_import_android_summary "Impor markah dan riwayat dari peramban sistem">
 <!ENTITY pref_private_data_history2 "Riwayat penjelajahan">
 <!ENTITY pref_private_data_formdata "Riwayat pencarian dan isian formulir">
 <!ENTITY pref_private_data_cookies2 "Kuki dan info masuk aktif">
