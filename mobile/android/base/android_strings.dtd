@@ -169,10 +169,10 @@
 
 <!ENTITY pref_cookies_menu "​ខូគី">
 <!ENTITY pref_cookies_accept_all "បាន​បើក">
-<!ENTITY pref_cookies_not_accept_foreign "បាន​បើក​រួមបញ្ចូល​ទាំង​ភាគី​ទី ៣">
+<!ENTITY pref_cookies_not_accept_foreign "បាន​បើក រួមបញ្ចូល​ទាំង​ភាគី​ទី៣">
 <!ENTITY pref_cookies_disabled "បាន​បិទ">
 
-<!ENTITY pref_tracking_protection_title "ការពារ​ដាន">
+<!ENTITY pref_tracking_protection_title "រារាំង​ការ​តាមដាន">
 <!ENTITY pref_tracking_protection_summary "&brandShortName; នឹង​រារាំង​តំបន់បណ្ដាញ​ពី​ការ​តាមដាន​អ្នក">
 <!ENTITY pref_donottrack_title "កុំ​តាមដាន">
 <!ENTITY pref_donottrack_summary "&brandShortName; នឹង​ប្រាប់​តំបន់បណ្ដាញ​ថា​អ្នក​មិន​ចង់​ឲ្យ​តាមដាន​ទេ">
@@ -183,7 +183,7 @@
 <!ENTITY pref_clear_private_data2 "សម្អាត​ឥឡូវ​">
 <!ENTITY pref_clear_private_data_category "សម្អាត​ទិន្នន័យ​ឯកជន">
 <!ENTITY pref_clear_on_exit_title2 "សម្អាត​ពេល​ចេញ">
-<!ENTITY pref_clear_on_exit_summary2 "&brandShortName; នឹង​សម្អាត​ទិន្នន័យ​របស់​អ្នក​ស្វ័យ​ប្រវត្តិ​ពេលណា​​ដែលអ្នក​ជ្រើស \&quot;ចេញ\&quot; ពី​ម៉ឺនុយមេ">
+<!ENTITY pref_clear_on_exit_summary2 "&brandShortName; នឹង​សម្អាត​ទិន្នន័យ​របស់​អ្នក​ដោយ​ស្វ័យ​ប្រវត្តិ នៅ​ពេលណា​​ដែល​អ្នក​ជ្រើស \u0022ចេញ\u0022 ពី​ម៉ឺនុយ​មេ">
 <!ENTITY pref_clear_on_exit_dialog_title "ជ្រើស​ទិន្នន័យ​ណា​មួយ​ដើម្បី​សម្អាត">
 <!ENTITY pref_plugins "កម្មវិធី​ជំនួយ">
 <!ENTITY pref_plugins_enabled "បាន​បើក">
@@ -194,11 +194,11 @@
 <!ENTITY pref_restore "ផ្ទាំង">
 <!ENTITY pref_restore_always "ស្ដារ​ជានិច្ច">
 <!ENTITY pref_restore_quit "កុំ​ស្ដារ​បន្ទាប់ពី​បិទ &brandShortName;">
-<!ENTITY pref_font_size_tiny "តូច">
+<!ENTITY pref_font_size_tiny "ល្អិត">
 <!ENTITY pref_font_size_small "តូច">
 <!ENTITY pref_font_size_medium "មធ្យម">
 <!ENTITY pref_font_size_large "ធំ">
-<!ENTITY pref_font_size_xlarge "ធំ​លើស​ធម្មតា">
+<!ENTITY pref_font_size_xlarge "ធំ​ខ្លាំង">
 <!ENTITY pref_font_size_set "កំណត់">
 <!-- Localization note (pref_font_size_adjust_char): A button with a small version of this character
 (or combination of characters) is used to decrease the preview font size; a larger version of the
@@ -209,10 +209,10 @@ size. -->
 <!-- Localization note (pref_font_size_preview_text): This paragraph is used as an example to
     demonstrate the font size setting.  It is meant to be whimsical and fun. -->
 
-<!ENTITY pref_font_size_preview_text "កញ្ជ្រោង​ពណ៌​ទឹកក្រូច​នឹង​ធ្វើ​​បាន​លើស​ពី​ការ​រំពឹង​ទុក​របស់​អ្នក​ទៅទៀត ដូចជា​ការ​បង្កើន​ល្បឿន ការ​បត់បែន និង​សុវត្ថិភាព ។ ដោយសារតែ​ការ​មិន​រក​ប្រាក់​ចំណេញ\យើង​ផ្ដល់​ឲ្យ​អ្នក​នូវ​ការ​កែប្រែ​ដោយ​សេរី និង​ដោយ​មិន​មាន​ការ​ដាក់​កម្រិត​លើ​ការ​ខូចខាត​ឡើយ ។ មានន័យថា​វា​នឹង​ផ្ដល់​ឲ្យ​អ្នក​នូវ​បទពិសោធន៍​ដ៏​ល្អ និង​អនាគត​ដ៏​ប្រសើរ​សម្រាប់​តំបន់បណ្ដាញ ។">
+<!ENTITY pref_font_size_preview_text "កញ្ជ្រោង​ពណ៌​ទឹកក្រូច​នឹង​ធ្វើ​​បាន​លើស​ពី​ការ​រំពឹង​ទុក​របស់​អ្នក​ទៅទៀត ដូចជា​ការ​បង្កើន​ល្បឿន ការ​បត់បែន និង​សុវត្ថិភាព។ ដោយសារតែ​ការ​មិន​រក​ប្រាក់​ចំណេញ យើង​ផ្ដល់​ឲ្យ​អ្នក​នូវ​ការ​កែប្រែ​ដោយ​សេរី និង​ដោយ​មិន​មាន​ការ​ដាក់​កម្រិត​លើ​ការ​ខូចខាត​ឡើយ។ មានន័យថា​វា​នឹង​ផ្ដល់​ឲ្យ​អ្នក​នូវ​បទពិសោធន៍​ដ៏​ល្អ និង​អនាគត​ដ៏​ប្រសើរ​សម្រាប់​តំបន់បណ្ដាញ។">
 
 <!ENTITY pref_media_autoplay_enabled "អនុញ្ញាត​ការ​ចាក់​ស្វ័យប្រវត្តិ">
-<!ENTITY pref_media_autoplay_enabled_summary "គ្រប់គ្រង​ថា​តើ​តំបន់បណ្ដាញ​អាច​ចាក់​វីដេអូ និង​មាតិកា​មេឌៀ​ផ្សេងទៀត">
+<!ENTITY pref_media_autoplay_enabled_summary "គ្រប់គ្រង​ថា​តើ​តំបន់បណ្ដាញ​អាច​ចាក់​វីដេអូ និង​មាតិកា​មេឌៀ​ផ្សេងទៀត​បាន​ដោយ​ស្វ័យប្រវត្តិ">
 
 <!ENTITY pref_use_master_password "ប្រើ​ពាក្យ​សម្ងាត់​មេ ">
 <!ENTITY pref_sync "ធ្វើ​សមកាលកម្ម">
