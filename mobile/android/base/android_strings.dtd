@@ -264,7 +264,7 @@ size. -->
 <!ENTITY datareporting_abouthr_title "មើល​របាយការណ៍​សុខភាព​របស់​ខ្ញុំ">
 <!ENTITY datareporting_telemetry_title "ទូរមាត្រ​វិធី">
 <!ENTITY datareporting_telemetry_summary "ចែករំលែក​ដំណើរការ, ការ​ប្រើប្រាស់, ផ្នែក​រឹង និង​ការ​ប្ដូរ​ទិន្នន័យ​តាម​តម្រូវ​ការ​អំពី​កម្មវិធី​អ៊ីនធឺណិត​របស់​អ្នក​ជាមួយ &vendorShortName; ដើម្បី​ជួយ​ពួក​យើង​ក្នុង​ការ​ធ្វើឲ្យ &brandShortName; ប្រសើរ​ឡើង">
-<!ENTITY datareporting_crashreporter_summary "&brandShortName; ដាក់​ស្នើ​របាយការណ៍​គាំង​ដើម្បី​ឲ្យ &vendorShortName; អាច​ធ្វើឲ្យ​កម្មវិធី​អ៊ីនធឺណិត​របស់​មាន​ស្ថិរភាព និង​សុវត្ថិភាព​ខ្ពស់">
+<!ENTITY datareporting_crashreporter_summary "&brandShortName; ដាក់​ស្នើ​របាយការណ៍​គាំង​ដើម្បី​ជួយ &vendorShortName; ធ្វើឲ្យ​កម្មវិធី​អ៊ីនធឺណិត​របស់​មាន​ស្ថិរភាព និង​សុវត្ថិភាព​ខ្ពស់">
 <!-- Localization note (datareporting_crashreporter_title_short) : This string matches
      (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
 <!ENTITY datareporting_crashreporter_title_short "កម្មវិធី​របាយការណ៍​គាំង">
@@ -292,7 +292,7 @@ size. -->
 <!ENTITY share_title "ចែករំលែក​តាម">
 <!ENTITY share_image_failed "មិន​អាច​ចែករំលែក​រូបភាព​នេះ">
 <!ENTITY save_as_pdf "រក្សាទុក​ជា PDF">
-<!ENTITY find_in_page "រកមើល​នៅ​ក្នុង​ទំព័រ">
+<!ENTITY find_in_page "រកមើល​ក្នុង​ទំព័រ">
 <!ENTITY desktop_mode "តំបន់បណ្ដាញ​ផ្ទៃតុ​សំណើ">
 <!ENTITY page "ទំព័រ">
 <!ENTITY tools "ឧបករណ៍">
