@@ -55,7 +55,7 @@ that require it.  -->
      mockup at bug 480169 -->
 <!ENTITY sanitizeEverythingUndoWarning     "Tej operacji nie można cofnąć.">
 
-<!ENTITY dialog.width2 "40em">
+<!ENTITY dialog.width2 "44em">
 <!ENTITY column.width2 "24em">
-<!ENTITY inContentDialog.width "40em">
+<!ENTITY inContentDialog.width "44em">
 <!ENTITY inContentColumn.width "32em">
