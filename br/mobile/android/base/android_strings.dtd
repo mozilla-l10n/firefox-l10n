@@ -172,7 +172,8 @@
 <!ENTITY pref_cookies_not_accept_foreign "Gweredekaet, hep an trede">
 <!ENTITY pref_cookies_disabled "Diweredekaet">
 
-
+<!ENTITY pref_tracking_protection_title "Gwarez heuliañ">
+<!ENTITY pref_tracking_protection_summary "&brandShortName; a viro ouzh al lec\u0027hiennoù da heuliañ ac\u0027hanoc\u0027h">
 <!ENTITY pref_donottrack_title "N\u0027am heuilhit ket">
 <!ENTITY pref_donottrack_summary "&brandShortName; a lavaro d\u0027al lec\u0027hiennoù ne fell ket deoc\u0027h bezañ heuliet">
 
@@ -430,7 +431,7 @@ size. -->
 <!ENTITY home_remote_tabs_empty "Skrammet e vez ar sinedoù eus trevnadoù all amañ.">
 <!ENTITY home_remote_tabs_unable_to_connect "N\u0027haller ket kennaskañ">
 <!ENTITY home_remote_tabs_need_to_sign_in "En em gennaskit evit kenderc\u0027hel ar goubredañ mar plij.">
-
+<!ENTITY home_remote_tabs_need_to_finish_migrating "Prest eo ho Kont Firefox nevez !">
 
 <!ENTITY home_remote_tabs_trouble_verifying "Kudennoù gant gwiriañ ho kont ?">
 <!ENTITY home_remote_tabs_need_to_verify "Gwiriit ho kont Firefox evit kregiñ gant ar goubredañ.">
