@@ -3,11 +3,11 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 
-<!ENTITY  no_space_to_start_error "មិន​មាន​ទំហំ​គ្រប់គ្រាន់​សម្រាប់​ឲ្យ &brandShortName; ចាប់ផ្ដើម​ទេ ។">
-<!ENTITY  error_loading_file "មាន​កំហុស​បាន​កើតឡើង​ពេល​ព្យាយាម​ផ្ទុក​ឯកសារ​ដែល​បាន​ទាមទារ​ដើម្បី​ដំណើរការ &brandShortName;">
+<!ENTITY  no_space_to_start_error "មិន​មាន​ទំហំ​គ្រប់គ្រាន់​សម្រាប់​ឲ្យ &brandShortName; ចាប់ផ្ដើម​ទេ។">
+<!ENTITY  error_loading_file "កំហុស​បាន​កើតឡើង​ពេល​ព្យាយាម​ផ្ទុក​ឯកសារ​ដែល​ទាមទារ​ដើម្បី​ដំណើរការ &brandShortName;">
 
 <!ENTITY  onboard_start_message "សូម​ស្វាគមន៍​មក​កាន់ &brandShortName;!">
-<!ENTITY  onboard_start_subtext "ប្ដេជ្ញា​ចំពោះ​អ្នក ភាព​ឯកជន​របស់​អ្នក និង​បណ្ដាញបើកចំហ">
+<!ENTITY  onboard_start_subtext "ប្ដេជ្ញា​ចំពោះ​អ្នក ភាព​ឯកជន​របស់​អ្នក និង​បណ្ដាញ​បើកចំហ">
 <!ENTITY  onboard_start_button_account "ចូល​ &brandShortName;">
 <!ENTITY  onboard_start_button_browser "ចាប់​ផ្ដើម​រុករក">
 <!-- Localization note: These are used as the titles of different pages on the home screen.
@@ -21,17 +21,17 @@
 <!ENTITY  switch_to_tab "ប្ដូរ​ទៅ​ផ្ទាំង">
 
 <!ENTITY  crash_reporter_title "កម្មវិធី​រាយការណ៍​កំហុស​របស់ &brandShortName;">
-<!ENTITY  crash_message2 "&brandShortName; មាន​បញ្ហា និង​​​គាំង ។ ផ្ទាំង​របស់​អ្នក​គួរតែ​បាន​រាយ​នៅ​លើ​ទំព័រ​ចាប់ផ្ដើម​របស់ &brandShortName; ពេល​អ្នក​ចាប់ផ្ដើម​ឡើងវិញ។">
+<!ENTITY  crash_message2 "&brandShortName; មាន​បញ្ហា និង​​​គាំង។ ផ្ទាំង​របស់​អ្នក​គួរតែ​បាន​រាយ​នៅ​លើ​ទំព័រ​ចាប់ផ្ដើម​របស់ &brandShortName; ពេល​អ្នក​ចាប់ផ្ដើម​ឡើងវិញ។">
 <!ENTITY  crash_send_report_message3 "ប្រាប់ &vendorShortName; អំពី​ការ​គាំង​នេះ​ដើម្បី​ឲ្យ​ពួកគេ​អាច​កែ​វា​បាន">
-<!ENTITY  crash_include_url2 "បាន​រួមបញ្ចូល​អាសយដ្ឋាន​ទំព័រ​ដែល​ខ្ញុំ​ទស្សនា">
-<!ENTITY  crash_sorry "យើង​សុំទោស">
-<!ENTITY  crash_comment "បន្ថែម​សេចក្ដី​អធិប្បាយ (សេចក្ដី​អធិប្បាយ​គឺ​មើល​ឃើញ​ជា​សាធារណៈ)">
+<!ENTITY  crash_include_url2 "រួមបញ្ចូល​អាសយដ្ឋាន​ទំព័រ​ដែល​ខ្ញុំ​បាន​ទស្សនា">
+<!ENTITY  crash_sorry "សូម​អភ័យទោស">
+<!ENTITY  crash_comment "បន្ថែម​មតិយោបល់ (មតិយោបល់​ត្រូវ​បាន​មើល​ឃើញ​ជា​សាធារណៈ)">
 <!ENTITY  crash_allow_contact2 "អនុញ្ញាត​ឲ្យ &vendorShortName; ទាក់ទង​ខ្ញុំ​អំពី​របាយការណ៍​នេះ">
 <!ENTITY  crash_email "អ៊ីមែល​របស់​អ្នក">
-<!ENTITY  crash_closing_alert "ចេញ​ដោយ​មិន​ផ្ញើ​របាយការណ៍​គាំង​ឬ?">
+<!ENTITY  crash_closing_alert "ចេញ​ដោយ​មិន​ផ្ញើ​របាយការណ៍​គាំង?">
 <!ENTITY  sending_crash_report "កំពុង​ផ្ញើ​របាយការណ៍​គាំង\u2026">
 <!ENTITY  crash_close_label "បិទ">
-<!ENTITY  crash_restart_label "ចាប់ផ្ដើម &brandShortName; ឡើង​វិញ">
+<!ENTITY  crash_restart_label "ចាប់ផ្ដើម &brandShortName; ឡើងវិញ">
 <!ENTITY  exit_label "ចេញ">
 
 <!ENTITY  launcher_shortcuts_title "&brandShortName; កម្មវិធី​បណ្ដាញ">
@@ -47,7 +47,7 @@
 <!ENTITY bookmark_updated "បាន​ធ្វើ​បច្ចុប្បន្នភាព​ចំណាំ">
 <!ENTITY bookmark_options "ជម្រើស">
 
-<!ENTITY history_today_section "ថ្ងៃ​នេះ">
+<!ENTITY history_today_section "ថ្ងៃនេះ">
 <!ENTITY history_yesterday_section "ម្សិលមិញ">
 <!ENTITY history_week_section2 "សប្ដាហ៍​មុន">
 <!ENTITY history_older_section2 "ខែ​មុន">
@@ -57,7 +57,7 @@
 <!ENTITY reload "ផ្ទុក​ឡើងវិញ">
 <!ENTITY forward "ទៅមុខ">
 <!ENTITY menu "ម៉ឺនុយ">
-<!ENTITY back "ថយ​ក្រោយ">
+<!ENTITY back "ថយក្រោយ">
 <!ENTITY stop "បញ្ឈប់">
 <!ENTITY site_security "សុវត្ថិភាព​តំបន់បណ្ដាញ">
 <!ENTITY edit_mode_cancel "បោះបង់">
@@ -67,7 +67,7 @@
 <!-- Localization note (num_tabs2) : Number of tabs is always more than one.
      We can't use android plural forms, sadly. See bug #753859. -->
 <!ENTITY num_tabs2 "ផ្ទាំង &formatD;">
-<!ENTITY new_tab_opened "ការ​បើក​ផ្ទាំង​ថ្មី">
+<!ENTITY new_tab_opened "បាន​បើក​ផ្ទាំង​ថ្មី">
 <!ENTITY new_private_tab_opened "បាន​បើក​ផ្ទាំង​ឯកជន​ថ្មី">
 <!-- Localization note (switch_button_message): This string should be as short
      as possible because it's shown as a label in a toast.  Ideally, this string
@@ -78,14 +78,14 @@
 <!ENTITY settings_title "ការ​កំណត់">
 <!ENTITY pref_category_advanced "កម្រិត​ខ្ពស់">
 <!ENTITY pref_category_customize "ប្ដូរ​តាម​តម្រូវ​ការ">
-<!ENTITY pref_category_customize_summary "ផ្ទះ ស្វែងរក ផ្ទាំង នាំចូល">
+<!ENTITY pref_category_customize_summary "ដើម ស្វែងរក ផ្ទាំង នាំចូល">
 <!-- Localization note (pref_category_language) : This is the preferences
      section in which the user picks the locale in which to display Firefox
      UI. The locale includes both language and region concepts. -->
 
 <!ENTITY pref_category_language "ភាសា">
 <!ENTITY pref_category_language_summary "ប្ដូរ​ភាសា​កម្មវិធី​អ៊ីនធឺណិត​របស់​អ្នក">
-<!ENTITY pref_browser_locale "ភាសា​កម្មវិធី​រុករក">
+<!ENTITY pref_browser_locale "ភាសា​កម្មវិធី​អ៊ីនធឺណិត">
 <!-- Localization note (locale_system_default) : This string indicates that
      Firefox will use the locale currently selected in Android's settings
      to display browser chrome. -->
@@ -111,12 +111,12 @@
      to. -->
 
 <!ENTITY overlay_share_send_tab_btn_label "ផ្ញើ​ទៅ​ឧបករណ៍​ផ្សេង">
-<!ENTITY overlay_share_no_url "រកមិន​ឃើញ​តំណ​ក្នុង​ការ​ចែករំលែក​នេះ">
+<!ENTITY overlay_share_no_url "រក​មិន​ឃើញ​តំណ​ក្នុង​ការ​ចែករំលែក​នេះ">
 <!ENTITY overlay_share_retry "ព្យាយាម​ម្ដងទៀត">
 <!ENTITY overlay_share_select_device "ជ្រើស​ឧបករណ៍">
 
 <!ENTITY pref_category_search3 "ស្វែងរក">
-<!ENTITY pref_category_search_summary "ស្វែងរក​ក្រុមហ៊ុន​ផ្ដល់​របស់​អ្នក​តាម​តម្រូវ​ការ">
+<!ENTITY pref_category_search_summary "ប្ដូរ​ក្រុមហ៊ុន​ផ្ដល់​របស់​អ្នក​តាម​តម្រូវ​ការ">
 <!ENTITY pref_category_display "បង្ហាញ">
 <!ENTITY pref_category_display_summary "អត្ថបទ របារ​ចំណងជើង ការ​រកមើល​ពេញ​អេក្រង់">
 <!ENTITY pref_category_privacy_short "ភាព​ឯកជន">
@@ -126,16 +126,16 @@
 <!ENTITY pref_category_datareporting "ជម្រើស​ទិន្នន័យ">
 <!ENTITY pref_learn_more "ស្វែងយល់​បន្ថែម">
 <!ENTITY pref_category_installed_search_engines "ម៉ាស៊ីន​ស្វែងរក​ដែល​បាន​ដំឡើង">
-<!ENTITY pref_category_add_search_providers "បន្ថែម​កម្មវិធី​ផ្ដល់​ការ​ស្វែងរក​ច្រើន​ទៀត">
+<!ENTITY pref_category_add_search_providers "បន្ថែម​ក្រុមហ៊ុន​ផ្ដល់​ការ​ស្វែងរក​ច្រើន​ទៀត">
 <!ENTITY pref_category_search_restore_defaults "ស្ដារ​ម៉ាស៊ីន​ស្វែងរក">
-<!ENTITY pref_search_restore_defaults "ស្ដារ​ម៉ាស៊ីន​ស្វែងរក">
+<!ENTITY pref_search_restore_defaults "ស្ដារ​លំនាំដើម">
 <!ENTITY pref_search_restore_defaults_summary "ស្ដារ​លំនាំដើម">
 <!-- Localization note (pref_search_hint) : "TIP" as in "hint", "clue" etc. Displayed as an
      advisory message on the customise search providers settings page explaining how to add new
      search providers.
      The &formatI; in the string will be replaced by a small image of the icon described, and can be moved to wherever
      it is applicable. -->
-<!ENTITY pref_search_hint "ព័ត៌មាន​ជំនួយ៖ បន្ថែម​តំបន់បណ្ដាញ​ណាមួយ​ទៅកាន់​​ក្រុមហ៊ុន​ផ្ដល់​​ការ​ស្វែងរក​ដោយ​ចុច​​លើ​វាល​ស្វែងរក​របស់​វា ហើយ​បន្ទាប់​មក​ប៉ះ​រូបតំណាង &formatI; ។">
+<!ENTITY pref_search_hint "ព័ត៌មាន​ជំនួយ៖ បន្ថែម​តំបន់បណ្ដាញ​ណាមួយ​ទៅកាន់​​ក្រុមហ៊ុន​ផ្ដល់​​ការ​ស្វែងរក ដោយ​ចុច​​លើ​វាល​ស្វែងរក​របស់​វា បន្ទាប់​មក​ប៉ះ​រូបតំណាង &formatI; ។">
 <!ENTITY pref_category_devtools "ឧបករណ៍​អ្នក​អភិវឌ្ឍន៍">
 <!ENTITY pref_category_devtools_summary "ការ​កែ​កំហុស​ពី​ចម្ងាយ ពន្លឺ​គំនូរ">
 <!ENTITY pref_developer_paint_flashing "ពន្លឺ​គំនូរ">
@@ -154,7 +154,7 @@
 <!ENTITY pref_category_home_content_settings "ការ​កំណត់​មាតិកា">
 <!ENTITY pref_home_updates "បច្ចុប្បន្នភាព​ស្វ័យប្រវត្តិ">
 <!ENTITY pref_home_updates_enabled "បាន​បើក">
-<!ENTITY pref_home_updates_wifi "បាន​បើក">
+<!ENTITY pref_home_updates_wifi "តាម​វ៉ាយហ្វាយ​តែប៉ុណ្ណោះ">
 <!ENTITY pref_home_suggested_sites "បង្ហាញ​ការ​ផ្ដល់​យោបល់​​តំបន់បណ្ដាញ">
 <!ENTITY pref_home_suggested_sites_summary "បង្ហាញ​ផ្លូវ​កាត់​ទៅ​គេហទំព័រ​ដែល​អ្នក​គិត​ថា​គួរ​ឲ្យ​ចាប់​អារម្មណ៍ នៅ​លើ​ទំព័រ​ដើម​របស់​អ្នក">
 <!-- Localization note: These are shown in the left sidebar on tablets -->
