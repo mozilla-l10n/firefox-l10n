@@ -6,8 +6,11 @@
 <!ENTITY  window.width                    "46em">
 <!ENTITY  window.macWidth                 "49em">
 
-<!ENTITY  allowPagesToUse.label           "به صفحات اجازه داده شود که رنگ‌هایشان را انتخاب کنند و مجبور به استفاده از انتخاب‌های بالا نباشند">
-<!ENTITY  allowPagesToUse.accesskey       "ج">
+
+
+<!ENTITY  overridePageColors.always.label "همیشه">
+
+<!ENTITY  overridePageColors.never.label  "هرگز">
 
 <!ENTITY  color                           "متن و پس‌زمینه">
 <!ENTITY  textColor.label                 "متن:">
