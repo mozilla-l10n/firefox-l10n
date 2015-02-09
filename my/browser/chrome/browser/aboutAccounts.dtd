@@ -2,9 +2,9 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY aboutAccounts.welcome "&syncBrand.shortName.label; အားတပ်ဆင်ပါ...">
+<!ENTITY aboutAccounts.welcome "&syncBrand.shortName.label; မှ ကြိုဆိုပါသည်">
 
-<!ENTITY aboutAccountsConfig.description "သင်၏ TAB များ ၊ ပတ်စ်ဝတ်များ အား ချိတ်ဆက်ထားရင် Sign in ဝင်ရောက်ပါ">
-<!ENTITY aboutAccountsConfig.startButton.label "စတင်ကြမယ် ">
-<!ENTITY aboutAccountsConfig.useOldSync.label "ချိတ်ဆက်ဝန်ဆောင်မှူ​အဟောင်းသုံးနေသလား?">
-<!ENTITY aboutAccountsConfig.manage.label "စီမံ">
+<!ENTITY aboutAccountsConfig.description "သင့် tab များ၊ မှတ်တမ်းများ၊ စကားဝှက်များ နှင့် အခြားတို့ကို တပြေးညီဖြစ်စေရန် ဝင်ရောက်ပါ">
+<!ENTITY aboutAccountsConfig.startButton.label "စတင်ကြမယ်">
+<!ENTITY aboutAccountsConfig.useOldSync.label "Sync ဝန်ဆောင်မှုအဟောင်းကို အသုံးပြုနေပါသလား။">
+<!ENTITY aboutAccountsConfig.manage.label "စီမံရန်">
