@@ -24,7 +24,5 @@
 <!-- LOCALIZATION NOTE (paneSync.title): This should match syncBrand.shortName.label in ../syncBrand.dtd -->
 
 <!ENTITY  paneSync.title          "هم‌گام‌سازی">
-<!ENTITY  buttonForward.tooltip   "یک صفحه به جلو برو">
-<!ENTITY  buttonBack.tooltip      "یک صفحه به عقب برو">
 
 <!ENTITY  helpButton.label        "راهنما">
