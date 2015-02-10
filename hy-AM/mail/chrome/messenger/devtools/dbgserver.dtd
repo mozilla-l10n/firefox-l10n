@@ -1,4 +1,4 @@
 <!ENTITY options.title "Ծրագրավորման գործիքների ընտրանքներ">
 <!ENTITY options.status.label "Վիճակը.">
 <!ENTITY options.port.label "Պորտը.">
-<!ENTITY options.forcelocal.label "Թույլատրել միացումը այլ համակարգիչներից">
+<!ENTITY options.forcelocal.label "Թույլատրել կապակցումը այլ համակարգիչներից">

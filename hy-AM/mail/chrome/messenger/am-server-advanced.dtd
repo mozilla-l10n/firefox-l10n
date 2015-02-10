@@ -12,7 +12,7 @@
 <!ENTITY dualUseFolders.accesskey "f">
 <!ENTITY useIdle.label "Օգտ. IDLE հրաման, եթե սպասարկիչը աջակցում է այն">
 <!ENTITY useIdle.accesskey "I">
-<!ENTITY maximumConnectionsNumber.label "Սպասարկիչի առավելագույն միացումները պահոցին">
+<!ENTITY maximumConnectionsNumber.label "Սպասարկիչի առավելագույն կապակցումները պահոցին">
 <!ENTITY maximumConnectionsNumber.accesskey "M">
 <!-- LOCALIZATION NOTE (namespaceDesc.label): Do not translate "IMAP" -->
 <!ENTITY namespaceDesc.label "Այս նախապատվությունները որոշում են անվանադաշտերը Ձեր IMAP սպասարկիչում">
