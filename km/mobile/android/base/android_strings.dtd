@@ -490,13 +490,13 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY loaded_tracking_content_message_top "បាន​បិទ​ការ​រារាំង​​ការ​តាមដាន។">
 <!ENTITY loaded_tracking_content_message_bottom "ផ្នែក​នៃ​ទំព័រ​នេះ​អាច​តាមដាន​សកម្មភាព​លើ​បណ្ដាញ​របស់​អ្នក។">
 <!ENTITY blocked_tracking_content_message_top2 "បាន​បើក​ការ​រារាំង​ការ​តាមដាន។">
-
+<!ENTITY blocked_tracking_content_message_bottom2 "ផ្នែក​នៃ​ទំព័រ​ដែល​តាមដាន​សកម្មភាព​លើ​បណ្ដាញ​របស់​អ្នក ត្រូវ​បាន​ទប់ស្កាត់។">
 <!-- Common mixed and tracking content strings in site identity popup -->
 
-<!ENTITY learn_more "សិក្សា​​បន្ថែម">
+<!ENTITY learn_more "ស្វែងយល់​​បន្ថែម">
 <!ENTITY enable_protection "បើក​ការ​ការពារ">
 <!ENTITY disable_protection "បិទ​ការ​ការពារ">
-<!ENTITY keep_blocking "រក្សា​ការ​ទប់ស្កាត់">
+<!ENTITY keep_blocking "បន្ត​ទប់ស្កាត់">
 
 <!ENTITY private_data_success "បាន​សម្អាត​ទិន្នន័យ​ឯកជន">
 <!ENTITY private_data_fail "ទិន្នន័យ​ឯកជន​មួយ​ចំនួន​មិន​អាច​សម្អាត​បាន​ទេ">
