@@ -74,7 +74,7 @@ both, to better adapt this sentence to their language.
 <!ENTITY forget.label                "Bu e-poçtu unut">
 
 <!ENTITY welcome.description "Harda &brandShortName; işlətsəniz vərəqləriniz, əlfəcinləriniz, şifrələriniz və s. sizinlə olsun.">
-<!ENTITY welcome.signIn.label "Hesabını aç">
+<!ENTITY welcome.signIn.label "Daxil ol">
 <!ENTITY welcome.createAccount.label "Hesab Aç">
 
 <!ENTITY welcome.useOldSync.label "Sync-in köhnə versiyasından istifadə edirsiniz?">
