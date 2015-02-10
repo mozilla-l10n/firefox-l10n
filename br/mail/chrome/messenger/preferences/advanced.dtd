@@ -15,8 +15,8 @@
 <!ENTITY telemetryInfoLink.label       "Muioc'h a ditouroù a-zivout Telemetry">
 <!ENTITY enableGlodaSearch.label       "Gweredekaat ar c'hlask hag an ibiliañ hollek">
 <!ENTITY enableGlodaSearch.accesskey   "h">
-
-
+<!ENTITY allowHWAccel.label            "Implijout ar buanadur periant pa vez tu">
+<!ENTITY allowHWAccel.accesskey        "h">
 
 <!ENTITY scrolling.label               "Dibunañ">
 <!ENTITY useAutoScroll.label           "Arverañ an dibunañ emgefreek">

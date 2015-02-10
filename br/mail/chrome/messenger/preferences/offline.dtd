@@ -4,12 +4,13 @@
 
 <!ENTITY offlineDialog.title "Arventennoù ezlinenn">
 
-
-
+<!ENTITY checkAutoDetect.label "Heuliañ ar stadoù enlinenn dinoet ent emgefreek">
+<!ENTITY checkAutoDetect.accesskey "d">
+<!ENTITY titleStartUp "Stad dre zorn e-pad an deraouiñ :">
 <!ENTITY radioRememberPrevState.label "Derc'hel soñj eus ar stad enlinenn">
 <!ENTITY radioRememberPrevState.accesskey "r">
-
-
+<!ENTITY radioAskState.label "Goulenn ganin evit ar stad enlinenn">
+<!ENTITY radioAskState.accesskey "k">
 
 
 

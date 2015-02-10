@@ -23,8 +23,8 @@
 <!ENTITY contextManual.accesskey "r">
 <!ENTITY contextBeforeCls.label "Silañ a-raok dinoadur ar posteloù lastez">
 <!ENTITY contextAfterCls.label "Silañ goude dinoadur ar posteloù lastez">
-
-
+<!ENTITY contextOutgoing.label "Goude bezañ bet kaset">
+<!ENTITY contextOutgoing.accesskey "S">
 
 <!ENTITY filterActionDesc.label "Lañsañ ar gwezhioù da-heul :">
 <!ENTITY filterActionDesc.accesskey "o">

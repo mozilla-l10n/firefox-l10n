@@ -9,7 +9,7 @@
 
 
 <!ENTITY  overridePageColors.always.label "Atav">
-
+<!ENTITY  overridePageColors.auto.label   "Gant neuzioù a Dargemm Uhel nemetken">
 <!ENTITY  overridePageColors.never.label  "Morse">
 
 <!ENTITY  color                           "Testenn ha drekleur">
