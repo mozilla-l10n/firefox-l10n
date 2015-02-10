@@ -525,8 +525,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY updater_start_title2 "មាន​បច្ចុប្បន្នភាព​សម្រាប់ &brandShortName;">
 <!ENTITY updater_start_select2 "ប៉ះ​ដើម្បី​ទាញ​យក">
 
-<!ENTITY updater_downloading_title2 "ទាញ​យក &brandShortName;">
-<!ENTITY updater_downloading_title_failed2 "បាន​បរាជ័យ​ក្នុង​ការ​ទាញ​យក">
+<!ENTITY updater_downloading_title2 "កំពុង​ទាញ​យក &brandShortName;">
+<!ENTITY updater_downloading_title_failed2 "ការ​ទាញ​យក​បាន​បរាជ័យ">
 <!ENTITY updater_downloading_select2 "ប៉ះ​ដើម្បី​អនុវត្ត​ការ​ធ្វើ​បច្ចុប្បន្នភាព​​ពេល​បាន​ទាញ​យក">
 <!ENTITY updater_downloading_retry2 "ប៉ះ​ដើម្បី​ព្យាយាម​ម្ដងទៀត">
 
@@ -540,11 +540,11 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY guest_session_dialog_cancel "បោះបង់">
 <!ENTITY new_guest_session_title "&brandShortName; នឹង​ចាប់ផ្ដើម​ឡើងវិញ​ឥឡូវនេះ">
 <!ENTITY new_guest_session_text "មនុស្ស​ដែល​ប្រើ​វា នឹង​មិន​អាច​មើល​ឃើញ​ការ​រុករក​ទិន្នន័យ​ផ្ទាល់ខ្លួន​របស់​អ្នក (ដូចជា​ពាក្យសម្ងាត់, ប្រវត្តិ ឬ​ចំណាំ​ដែល​បាន​រក្សាទុក) បាន​ទេ។\n\nពេល​អ្នក​បាន​បញ្ចប់​សម័យ​ភ្ញៀវ, ទិន្នន័យ​ការ​រុករក​របស់​ពួកគេ​នឹង​ត្រូវ​បាន​លុប ហើយ​សម័យ​នឹង​ត្រូវ​ស្ដារ។">
-
-
+<!ENTITY guest_browsing_notification_title "បាន​បើក​ការ​រុករក​ភ្ញៀវ">
+<!ENTITY guest_browsing_notification_text "ប៉ះ​ដើម្បី​ចេញ">
 
 <!ENTITY exit_guest_session_title "&brandShortName; នឹង​ចាប់ផ្ដើម​ឡើងវិញ​ឥឡូវនេះ">
-<!ENTITY exit_guest_session_text "ទិន្នន័យ​ការ​រុករក​របស់​សម័យ​នេះ​នឹង​ត្រូ​បាន​លុប។">
+<!ENTITY exit_guest_session_text "ទិន្នន័យ​ការ​រុករក​របស់​សម័យ​នេះ​នឹង​ត្រូវ​បាន​លុប។">
 <!-- Miscellaneous -->
 <!-- LOCALIZATION NOTE (ellipsis): This text is appended to a piece of text that does not fit in the
      designated space. Use the unicode ellipsis char, \u2026, or use "..." if \u2026 doesn't suit
