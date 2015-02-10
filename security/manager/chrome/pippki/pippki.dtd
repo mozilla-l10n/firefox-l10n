@@ -46,8 +46,6 @@
 <!ENTITY pkcs12.setpassword.label1 "Contraseña de respaldo del certificado:">
 <!ENTITY pkcs12.setpassword.label2 "Contraseña de respaldo del certificado (confirmar):">
 <!ENTITY pkcs12.setpassword.reminder "Importante: si olvida la contraseña de respaldo de su certificado, no podrá restaurar esta copia de respaldo más tarde. Guárdela en un lugar seguro.">
-<!ENTITY pkcs12.getpassword.title "Diálogo de introducción de contraseña">
-<!ENTITY pkcs12.getpassword.message "Introduzca la contraseña que se utilizó para cifrar esta copia de respaldo del certificado.">
 <!ENTITY chooseToken.title "Diálogo de selección de objeto">
 <!ENTITY chooseToken.message1 "Elija un objeto.">
 <!ENTITY escrowWarn.title "Copia de la clave de cifrado">
