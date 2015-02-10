@@ -434,21 +434,26 @@ size. -->
 <!ENTITY home_remote_tabs_need_to_finish_migrating "គណនី Firefox ថ្មី​របស់​អ្នក​គឺ​រួចរាល់​ហើយ!">
 
 <!ENTITY home_remote_tabs_trouble_verifying "បញ្ហា​ការ​ផ្ទៀងផ្ទាត់​គណនី​របស់​អ្នក?">
+<!ENTITY home_remote_tabs_need_to_verify "សូម​ផ្ទៀងផ្ទាត់​គណនី Firefox របស់​អ្នក​ដើម្បី​ចាប់ផ្ដើម​សមកាលកម្ម។">
 
-
+<!ENTITY home_remote_tabs_one_hidden_device "ឧបករណ៍ 1 បាន​លាក់">
 <!-- Localization note (home_remote_tabs_many_hidden_devices) : The
      formatD is replaced with the number of hidden devices.  The
      number of hidden devices is always more than one.  We can't use
      Android plural forms, sadly. See Bug #753859. -->
+<!ENTITY home_remote_tabs_many_hidden_devices "ឧបករណ៍ &formatD; បាន​លាក់">
 <!-- Localization note (home_remote_tabs_hidden_devices_title) : This is the
      title of a dialog; we expect more than one device. -->
+<!ENTITY home_remote_tabs_hidden_devices_title "ឧបករណ៍​លាក់">
 <!-- Localization note (home_remote_tabs_unhide_selected_devices) : This is
      the text of a button; we expect more than one device. -->
+<!ENTITY home_remote_tabs_unhide_selected_devices "មិន​លាក់​ឧបករណ៍">
 
 <!ENTITY private_browsing_title "ការ​រក​មើល​ឯកជន">
-<!ENTITY private_tabs_panel_empty_desc "ផ្ទាំង​ឯកជន​របស់អ្នក​នឹង​បង្ហាញ​នៅ​ទីនេះ។ ខណៈ​ដែលយើង​មិន​រក្សាទុកប្រវត្តិ ឬ​ខូឃី​, ចំណាំ និង​ឯកសារ​រុករក​របស់អ្នកណា​មួយ ដែលអ្នកទាញយក​នឹង​នៅ​តែ​បាន​រក្សាទុក​លើ​ឧបករណ៍​របស់​អ្នក។">
-<!ENTITY private_tabs_panel_learn_more "ចង់​ស្វែងយល់បន្ថែម?">
+<!ENTITY private_tabs_panel_empty_desc "ផ្ទាំង​ឯកជន​របស់​អ្នក​នឹង​បង្ហាញ​នៅ​ទីនេះ។ ខណៈ​ដែល​យើង​មិន​រក្សាទុក​ប្រវត្តិ ឬ​ខូគី​, ចំណាំ និង​ឯកសារ​រុករក​របស់​អ្នក​ណា​មួយ ដែល​អ្នក​ទាញយក​នឹង​នៅ​តែ​បាន​រក្សាទុក​លើ​ឧបករណ៍​របស់​អ្នក។">
+<!ENTITY private_tabs_panel_learn_more "ចង់​ស្វែងយល់​បន្ថែម?">
 
+<!ENTITY remote_tabs_panel_moved_title "តើ​ផ្ទាំង​របស់​ខ្ញុំ​ទៅណា?">
 
 
 
