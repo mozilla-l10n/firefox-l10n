@@ -454,8 +454,8 @@ size. -->
 <!ENTITY private_tabs_panel_learn_more "ចង់​ស្វែងយល់​បន្ថែម?">
 
 <!ENTITY remote_tabs_panel_moved_title "តើ​ផ្ទាំង​របស់​ខ្ញុំ​ទៅណា?">
-
-
+<!ENTITY remote_tabs_panel_moved_desc "យើង​បាន​ផ្លាស់ទី​ផ្ទាំង​របស់​អ្នក​ពី​ឧបករណ៍​ផ្សេង ទៅ​ក្នុង​ផ្ទាំង​នៅ​លើ​គេហទំព័រ​របស់​អ្នក​ដែល​អាច​ងាយស្រួល​ចូល​ប្រើ​នៅ​រាល់​ពេល​បើក​ផ្ទាំង​ថ្មី។">
+<!ENTITY remote_tabs_panel_moved_link "នាំ​ខ្ញុំ​ទៅ​ផ្ទាំង​ថ្មី។">
 
 <!ENTITY pin_site_dialog_hint "បញ្ចូល​ពាក្យ​គន្លឹះ​ស្វែងរក">
 
@@ -477,9 +477,9 @@ The layout of the identity dialog prevents combining this into a single string w
 substitution variables.  If it is difficult to translate the sense of the string
 with that structure, consider a translation which ignores the preceding domain and
 just addresses the organization to follow, e.g. "This site is run by " -->
-<!ENTITY identity_run_by "ដែល​រត់​ដោយ">
-<!ENTITY identity_no_info "តំបន់បណ្ដាញ​នេះ​មិន​ផ្ដល់​ព័ត៌មាន​អំពី​អត្តសញ្ញាណ​ទេ ។">
-<!ENTITY identity_not_encrypted "ការ​តភ្ជាប់​របស់​អ្នក​ទៅកាន់​តំបន់បណ្ដាញ​នេះ​មិន​ទាន់​ត្រូវ​បាន​អ៊ិនគ្រីប​ទេ ។">
+<!ENTITY identity_run_by "ដែល​បាន​ដំណើរការ​ដោយ">
+<!ENTITY identity_no_info "តំបន់បណ្ដាញ​នេះ​មិន​ផ្ដល់​ព័ត៌មាន​អំពី​អត្តសញ្ញាណ​ទេ។">
+<!ENTITY identity_not_encrypted "ការ​តភ្ជាប់​របស់​អ្នក​ទៅកាន់​តំបន់បណ្ដាញ​នេះ​មិន​ត្រូវ​បាន​ដាក់​លេខ​កូដ​ទេ។">
 <!-- Mixed content notifications in site identity popup -->
 
 <!ENTITY loaded_mixed_content_message "ទំព័រ​នេះ​កំពុង​បង្ហាញ​មាតិកា​ដែល​គ្មាន​សុវត្ថិភាព។">
@@ -487,7 +487,9 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY blocked_mixed_content_message_bottom "តំបន់​បណ្ដាញ​ភាគច្រើន​នឹង​នៅតែ​ដំណើរការ​ធម្មតា ទោះបី​មាតិកា​នេះ​ត្រូវ​បាន​បិទ​ក៏ដោយ។">
 <!-- Tracking content notifications in site identity popup -->
 
-
+<!ENTITY loaded_tracking_content_message_top "បាន​បិទ​ការ​រារាំង​​ការ​តាមដាន។">
+<!ENTITY loaded_tracking_content_message_bottom "ផ្នែក​នៃ​ទំព័រ​នេះ​អាច​តាមដាន​សកម្មភាព​លើ​បណ្ដាញ​របស់​អ្នក។">
+<!ENTITY blocked_tracking_content_message_top2 "បាន​បើក​ការ​រារាំង​ការ​តាមដាន។">
 
 <!-- Common mixed and tracking content strings in site identity popup -->
 
