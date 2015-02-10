@@ -169,7 +169,7 @@
   -  label for the checkbox that toggles the display of the platform data in the,
   -  Profiler i.e. devtools.profiler.ui.show-platform-data a boolean preference
   -  in about:config, in the options panel. -->
-<!ENTITY options.showPlatformData.label    "Zobraziť údaje o platforme Gecko">
+<!ENTITY options.showPlatformData.label    "Zobrazovať údaje platformy Gecko">
 <!ENTITY options.showPlatformData.tooltip  "Ak povolíte túto možnosť, správy Nástroja na profilovanie JavaScriptu budú obsahovať symboly platformy Gecko">
 
 <!-- LOCALIZATION NOTE (options.sourceeditor.*): Options under the editor
