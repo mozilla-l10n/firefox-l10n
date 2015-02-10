@@ -4,6 +4,6 @@
 
 <!ENTITY messageMarkByDate.label "Označi sporočila kot prebrana po datumu">
 <!ENTITY markByDateLower.label "Označi sporočila kot prebrana od:">
-<!ENTITY markByDateLower.accesskey "d">
-<!ENTITY markByDateUpper.label "Za:">
-<!ENTITY markByDateUpper.accesskey "Z">
+<!ENTITY markByDateLower.accesskey "O">
+<!ENTITY markByDateUpper.label "Do:">
+<!ENTITY markByDateUpper.accesskey "D">

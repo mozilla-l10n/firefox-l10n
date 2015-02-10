@@ -83,7 +83,7 @@
 <!ENTITY deleteCmd.accesskey "b">
 <!ENTITY editRewrapCmd.label "Ponovno prelomi">
 <!ENTITY editRewrapCmd.key "R">
-<!ENTITY renameAttachmentCmd.label "Preimenuj prilogo …">
+<!ENTITY renameAttachmentCmd.label "Preimenuj priponko …">
 <!ENTITY renameAttachmentCmd.accesskey "e">
 <!ENTITY selectAllCmd.label "Izberi vse">
 <!ENTITY selectAllCmd.key "A">
@@ -291,7 +291,7 @@
 <!ENTITY convertCloud.accesskey "v">
 <!ENTITY cancelUpload.label "Prekliči pošiljanje">
 <!ENTITY cancelUpload.accesskey "k">
-<!ENTITY convertRegularAttachment.label "Običajna priloga">
+<!ENTITY convertRegularAttachment.label "Običajna priponka">
 <!ENTITY convertRegularAttachment.accesskey "a">
 <!ENTITY attachPage.label "Pripni spletno stran …">
 <!ENTITY attachPage.accesskey "W">

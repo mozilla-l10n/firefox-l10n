@@ -6,8 +6,12 @@
 <!ENTITY  window.width                    "38em">
 <!ENTITY  window.macWidth                 "41em">
 
-<!ENTITY  allowPagesToUse.label           "Dovoli vsebini, da izbere lastne barve namesto mojih nastavitev">
-<!ENTITY  allowPagesToUse.accesskey       "D">
+<!ENTITY  overridePageColors.label        "Preglasi vsebinsko določene barve z mojimi zgornjimi izbirami:">
+<!ENTITY  overridePageColors.accesskey    "P">
+
+<!ENTITY  overridePageColors.always.label "vedno">
+<!ENTITY  overridePageColors.auto.label   "samo s visokokontrastnimi temami">
+<!ENTITY  overridePageColors.never.label  "nikoli">
 
 <!ENTITY  color                           "Besedilo in ozadje">
 <!ENTITY  textColor.label                 "Besedilo:">

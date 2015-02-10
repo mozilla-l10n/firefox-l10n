@@ -13,7 +13,7 @@ reportIdleAfter.label and idleTime parts don't have to mean the exact
 same thing as in English; please try instead to translate the whole
 sentence. -->
 
-<!ENTITY  reportIdleAfter.label         "Naj moji stiki vedo, da sem nedejaven po">
+<!ENTITY  reportIdleAfter.label         "Naj moji stiki vedo, da sem odsoten po">
 <!ENTITY  reportIdleAfter.accesskey     "N">
 <!ENTITY  idleTime                      "minutah nedejavnosti">
 

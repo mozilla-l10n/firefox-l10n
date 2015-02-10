@@ -4,13 +4,17 @@
 
 <!ENTITY offlineDialog.title "Nastavitve za stanje brez povezave">
 
-<!ENTITY textStartUp "Ob zagonu:">
+<!ENTITY checkAutoDetect.label "Samodejno sledi zaznanemu stanju povezave">
+<!ENTITY checkAutoDetect.accesskey "z">
+<!ENTITY titleStartUp "Ročno stanje ob zagonu:">
 <!ENTITY radioRememberPrevState.label "si zapomni prejšnje stanje povezave">
 <!ENTITY radioRememberPrevState.accesskey "s">
-<!ENTITY radioAskMe.label "me vprašaj za stanje povezave">
-<!ENTITY radioAskMe.accesskey "m">
-<!ENTITY radioAlwaysOnline.label "vedno začni s povezavo">
-<!ENTITY radioAlwaysOnline.accesskey "v">
+<!ENTITY radioAskState.label "Vprašaj me za stanje povezave">
+<!ENTITY radioAskState.accesskey "V">
+<!ENTITY radioAlwaysOnline.label "S povezavo">
+<!ENTITY radioAlwaysOnline.accesskey "S">
+<!ENTITY radioAlwaysOffline.label "Brez povezave">
+<!ENTITY radioAlwaysOffline.accesskey "B">
 
 <!ENTITY textGoingOnline "Ali naj se neposlana sporočila pošljejo ob začetku povezave?">
 <!ENTITY radioAutoSend.label "Da">

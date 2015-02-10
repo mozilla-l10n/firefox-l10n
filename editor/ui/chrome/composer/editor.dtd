@@ -35,7 +35,7 @@
 <!ENTITY formatMenu.accesskey "O">
 <!ENTITY grid.label "Nameščanje mreže">
 <!ENTITY grid.accesskey "m">
-<!ENTITY pageProperties.label "Naslov strani in lastnosti…">
+<!ENTITY pageProperties.label "Naziv strani in lastnosti …">
 <!ENTITY pageProperties.accesskey "N">
 <!-- Tools menu items -->
 
@@ -46,7 +46,7 @@
 <!ENTITY NormalModeTab.label "Običajno">
 <!ENTITY NormalMode.label "Običajni način urejanja">
 <!ENTITY NormalMode.accesskey "O">
-<!ENTITY NormalMode.tooltip "Prikaži robove tabel in sidra z imenom">
+<!ENTITY NormalMode.tooltip "Prikaži obrobe tabel in sidra z imenom">
 <!ENTITY AllTagsModeTab.label "Oznake HTML">
 <!ENTITY AllTagsMode.label "Oznake HTML">
 <!ENTITY AllTagsMode.accesskey "z">

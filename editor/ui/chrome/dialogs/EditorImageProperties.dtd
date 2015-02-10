@@ -60,11 +60,11 @@
 <!ENTITY leftRightEditField.accessKey "L">
 <!ENTITY topBottomEditField.label "Zgoraj in spodaj:">
 <!ENTITY topBottomEditField.accessKey "Z">
-<!ENTITY borderEditField.label "Neprekinjen rob:">
+<!ENTITY borderEditField.label "Neprekinjena obroba:">
 <!ENTITY borderEditField.accessKey "N">
 <!-- These controls are in the Link Box -->
 
-<!ENTITY showImageLinkBorder.label "Prikaži rob okoli povezane slike">
+<!ENTITY showImageLinkBorder.label "Prikaži obrobo okoli povezane slike">
 <!ENTITY showImageLinkBorder.accessKey "P">
 <!ENTITY LinkAdvancedEditButton.label "Napredno urejanje povezave …">
 <!ENTITY LinkAdvancedEditButton.accessKey "u">

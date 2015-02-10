@@ -117,8 +117,8 @@
 <!ENTITY newsServerNamePrefix.label "Ime strežnika za novice (NNTP):">
 <!ENTITY downloadOnLogin.label "Prenesi sporočila zdaj …">
 <!ENTITY downloadOnLogin.accesskey "P">
-<!ENTITY deferStorageDesc.label "Odznačite to polje, če želite pošto za ta račun shranjevati v svoji mapi. Tako bo ta račun prikazan kot račun na najvišji ravni. Drugače bo del računa Splošne mape Prejeto Krajevnih map.">
-<!ENTITY deferStorage.label "Uporabi Splošno mapo Prejeto (pošto shranjuj v Krajevne mape)">
-<!ENTITY deferStorage.accesskey "S">
+<!ENTITY deferStorageDesc.label "Odznačite to polje, če želite pošto za ta račun shranjevati v svoji mapi. Tako bo ta račun prikazan kot račun na najvišji ravni. Drugače bo del splošne mape Prejeto računa 'Krajevne mape'.">
+<!ENTITY deferStorage.label "Uporabi splošno mapo Prejeto (pošto shranjuj v Krajevne mape)">
+<!ENTITY deferStorage.accesskey "s">
 <!ENTITY clickFinish.label "S klikom na Končaj shranite nastavitve in zaprite čarovnika za račun.">
 <!ENTITY clickFinish.labelMac "S klikom na Končano shranite nastavitve in zaprite čarovnika za račun.">

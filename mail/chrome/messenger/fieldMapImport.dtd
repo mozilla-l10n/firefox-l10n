@@ -9,7 +9,7 @@
 <!ENTITY fieldMapImport.next.accesskey "N">
 <!ENTITY fieldMapImport.previous.label "Prejšnje">
 <!ENTITY fieldMapImport.previous.accesskey "P">
-<!ENTITY fieldMapImport.text "Uporabite Premakni gor/dol za ujemanje polj imenika na levi z ustreznimi podatki za uvoz na desni . Odznačite elemente, ki jih ne želite uvoziti.">
+<!ENTITY fieldMapImport.text "Uporabite Premakni gor/dol za ujemanje polj imenika na levi z ustreznimi podatki za uvoz na desni . Odznačite predmete, ki jih ne želite uvoziti.">
 <!ENTITY fieldMapImport.up.label "Premakni gor">
 <!ENTITY fieldMapImport.up.accesskey "g">
 <!ENTITY fieldMapImport.down.label "Premakni dol">

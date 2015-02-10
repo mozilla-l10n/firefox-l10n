@@ -28,9 +28,9 @@
 <!ENTITY useSubdirRadio.accesskey     "p">
 <!ENTITY useSubdirRadio.tooltip       "Objavi datoteke v izbrano oddaljeno podmapo">
 <!ENTITY otherDirList.tooltip         "Izberite ali vnesite ime oddaljene podmape, kjer bodo datoteke objavljene">
-<!ENTITY pageTitle.label              "Naslov strani:">
+<!ENTITY pageTitle.label              "Naziv strani:">
 <!ENTITY pageTitle.accesskey          "r">
-<!ENTITY pageTitle.tooltip            "Vnesite naslov, ki bo prepoznal stran v oknu in zaznamkih">
+<!ENTITY pageTitle.tooltip            "Vnesite naziv, ki bo prepoznal stran v oknu in zaznamkih">
 <!ENTITY pageTitleExample.label       "npr.: &quot;Moja spletna stran&quot;">
 <!ENTITY filename.label               "Ime datoteke:">
 <!ENTITY filename.accesskey           "d">

@@ -26,7 +26,7 @@
 <!ENTITY newVirtualFolderCmd.accesskey "h">
 <!ENTITY newOtherAccountsCmd.label "Drugi računi …">
 <!ENTITY newOtherAccountsCmd.accesskey "r">
-<!ENTITY newCreateEmailAccountCmd.label "Dobi nov poštni račun …">
+<!ENTITY newCreateEmailAccountCmd.label "Odpri nov poštni račun …">
 <!ENTITY newCreateEmailAccountCmd.accesskey "n">
 <!ENTITY newExistingEmailAccountCmd.label "Obstoječi poštni račun …">
 <!ENTITY newExistingEmailAccountCmd.accesskey "b">

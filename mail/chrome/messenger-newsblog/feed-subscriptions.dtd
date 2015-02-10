@@ -6,7 +6,7 @@
 <!ENTITY feedSubscriptions.label     "Naročnine na spletne vire">
 <!ENTITY learnMore.label             "Več o virih">
 
-<!ENTITY feedTitle.label             "Naslov:">
+<!ENTITY feedTitle.label             "Naziv:">
 <!ENTITY feedTitle.accesskey         "N">
 
 <!ENTITY feedLocation.label          "URL za vir:">
