@@ -24,6 +24,8 @@
 <!ENTITY aboutSupport.appBasicsTitle "Configuración básica de la aplicación">
 <!ENTITY aboutSupport.appBasicsName "Nombre">
 <!ENTITY aboutSupport.appBasicsVersion "Versión">
+<!ENTITY aboutSupport.appBasicsBuildID "ID de compilación">
+<!ENTITY aboutSupport.appBasicsUpdateChannel "Canal de actualización">
 <!ENTITY aboutSupport.appBasicsUpdateHistory "Historial de actualizaciones">
 <!ENTITY aboutSupport.appBasicsShowUpdateHistory "Mostrar el historial de actualizaciones">
 <!ENTITY aboutSupport.appBasicsProfileDir "Directorio de perfil ">
