@@ -28,6 +28,8 @@
 <!ENTITY profilerUI.options.tooltiptext "Skonfiguruj ustawienia wydajności">
 <!ENTITY profilerUI.invertTree "Odwrócone drzewo wywołań">
 <!ENTITY profilerUI.invertTree.tooltiptext "Odwrócone drzewo wywołań wyświetla zarejestrowane ścieżki wywołań rozwijające się od najmłodszych ramek ku najstarszym.">
+<!ENTITY profilerUI.invertFlameGraph "Odwrócone diagramy">
+<!ENTITY profilerUI.invertFlameGraph.tooltiptext "Odwrócone diagramy wyświetlają zarejestrowane ścieżki wywołań rozwijające się od najmłodszych ramek ku najstarszym.">
 <!ENTITY profilerUI.showPlatformData "Informacje platformy Gecko">
 <!ENTITY profilerUI.showPlatformData.tooltiptext "Informacje platformy Gecko umożliwiają włączenie symboli platformy Gecko do raportów profilera JavaScript">
 <!ENTITY profilerUI.flattenTreeRecursion "Spłaszczona rekurencja drzewa">
