@@ -12,7 +12,7 @@
 <!ENTITY sync.syncNow               "Սինք այժմ">
 
 <!ENTITY sync.setup.title           "Միանալ Սինքին">
-<!ENTITY sync.setup.pair            "Ակտիվացնելու համար ընտրեք &quot;Սարքի միացում&quot; Ձեր սարքում։">
+<!ENTITY sync.setup.pair            "Ակտիվացնելու համար ընտրեք &quot;Կապակցել սարքի&quot; Ձեր այլ սարքում։">
 <!ENTITY sync.fallback              "Ես իմ համակարգչի կողքին չեմ...">
 <!ENTITY sync.setup.manual          "Նշեք Ձեր Սինքի հաշվի ինֆոն">
 <!ENTITY sync.account               "Փոստարկղի անունը">
