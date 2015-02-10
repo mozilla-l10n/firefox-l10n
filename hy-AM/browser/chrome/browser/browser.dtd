@@ -680,7 +680,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      localized title of this SUMO article
      https://support.mozilla.org/kb/how-do-i-tell-if-my-connection-is-secure -->
 
-<!ENTITY identity.help.tooltip "Ինչպե՞ս հաղորդեմ, եթե իմ միացումը կայքին անվտանգ է:">
+<!ENTITY identity.help.tooltip "Ինչպե՞ս հաղորդեմ, եթե իմ կապակցումը կայքին անվտանգ է:">
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
 

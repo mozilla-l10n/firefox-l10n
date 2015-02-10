@@ -175,7 +175,7 @@
   -  in the network details timings tab identifying the amount of time spent
   -  in a "connect" state. -->
 
-<!ENTITY netmonitorUI.timings.connect     "Միացում...">
+<!ENTITY netmonitorUI.timings.connect     "Կապակցում.">
 <!-- LOCALIZATION NOTE (debuggerUI.timings.send): This is the label displayed
   -  in the network details timings tab identifying the amount of time spent
   -  in a "send" state. -->
@@ -204,6 +204,8 @@
 <!-- LOCALIZATION NOTE (netmonitorUI.security.connection): This is the label displayed
   -  in the security tab describing the section containing information related to
   -  the secure connection. -->
+
+<!ENTITY netmonitorUI.security.connection "Կապակցում.">
 <!-- LOCALIZATION NOTE (netmonitorUI.security.certificate): This is the label displayed
   -  in the security tab describing the server certificate section. -->
 
