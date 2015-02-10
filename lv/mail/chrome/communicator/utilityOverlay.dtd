@@ -48,7 +48,7 @@
 <!ENTITY closeCmd.accesskey    "A">
 
 <!ENTITY quitApplicationCmd.label  "Iziet">
-
+<!ENTITY quitApplicationCmd.key    "Q">
 <!ENTITY quitApplicationCmd.accesskey  "z">
 
 <!ENTITY quitApplicationCmdUnix.label  "Iziet">
