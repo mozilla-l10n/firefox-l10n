@@ -376,9 +376,9 @@ size. -->
 
 <!ENTITY page_action_dropmarker_description "សកម្មភាព​បន្ថែម">
 
-<!ENTITY masterpassword_create_title "បង្កើតពាក្យ​សម្ងាត់​មេ">
+<!ENTITY masterpassword_create_title "បង្កើត​ពាក្យសម្ងាត់​មេ">
 <!ENTITY masterpassword_remove_title "យក​ពាក្យ​សម្ងាត់​មេ​ចេញ">
-<!ENTITY masterpassword_password "ពាក្យ​សម្ងាត់">
+<!ENTITY masterpassword_password "ពាក្យសម្ងាត់">
 <!ENTITY masterpassword_confirm "អះអាង​ពាក្យសម្ងាត់">
 
 <!ENTITY button_ok "យល់ព្រម">
@@ -389,7 +389,7 @@ size. -->
 <!ENTITY button_set "កំណត់">
 <!ENTITY button_clear "សម្អាត">
 
-<!ENTITY home_top_sites_title "តំបន់បណ្ដាញ​ដែល​ពេញនិយម">
+<!ENTITY home_top_sites_title "តំបន់បណ្ដាញ​ពេញនិយម">
 <!-- Localization note (home_top_sites_add): This string is used as placeholder
      text underneath empty thumbnails in the Top Sites page on about:home. -->
 <!ENTITY home_top_sites_add "បន្ថែម​តំបន់បណ្ដាញ">
@@ -399,12 +399,12 @@ size. -->
 <!ENTITY home_title "ទំព័រ​ដើម &brandShortName;">
 <!ENTITY home_history_title "ប្រវត្តិ">
 <!ENTITY home_clear_history_button "សម្អាត​ប្រវត្តិ​រុករក">
-<!ENTITY home_clear_history_confirm "តើ​អ្នក​ពិត​ជា​ចង់​សម្អាត​ប្រវត្តិ​របស់​អ្នក​មែនទេ?">
+<!ENTITY home_clear_history_confirm "តើ​អ្នក​ពិតជា​ចង់​សម្អាត​ប្រវត្តិ​របស់​អ្នក​មែនឬ?">
 <!ENTITY home_bookmarks_empty "ចំណាំ​ដែល​អ្នក​បាន​រក្សាទុក​គឺ​បង្ហាញ​នៅ​ទីនេះ។">
 <!ENTITY home_closed_tabs_title "ផ្ទាំង​បាន​បិទ​ថ្មីៗ">
-<!ENTITY home_last_tabs_title "ផ្ទាំង​ពេល​ចុងក្រោយ">
+<!ENTITY home_last_tabs_title "ផ្ទាំង​ពី​ពេល​ចុងក្រោយ">
 <!ENTITY home_last_tabs_empty "ផ្ទាំង​បច្ចុប្បន្ន​របស់​អ្នក​បង្ហាញ​នៅ​ទីនេះ។">
-<!ENTITY home_open_all "បើកទាំង​អស់">
+<!ENTITY home_open_all "បើក​ទាំងអស់">
 <!ENTITY home_most_recent_empty "តំបន់បណ្ដាញ​ដែល​អ្នក​បាន​ទស្សនា​ថ្មីៗ​បំផុត បង្ហាញ​នៅ​ទីនេះ។">
 <!-- Localization note (home_most_recent_emptyhint2): "Psst" is a sound that might be used to attract someone's attention unobtrusively, and intended to hint at Private Browsing to the user.
      The placeholders &formatS1; and &formatS2; are used to mark the location of text underlining. -->
@@ -428,11 +428,12 @@ size. -->
 <!ENTITY home_move_up_to_filter "ឡើង​ដល់ &formatS;">
 
 <!ENTITY home_remote_tabs_title "ផ្ទាំង​ដែល​បាន​ធ្វើ​សមកាលកម្ម">
-
+<!ENTITY home_remote_tabs_empty "ផ្ទាំង​របស់​អ្នក​ពី​ឧបករណ៍​ផ្សេង​គឺ​បង្ហាញ​នៅ​ទីនេះ។">
 <!ENTITY home_remote_tabs_unable_to_connect "មិន​អាច​តភ្ជាប់">
+<!ENTITY home_remote_tabs_need_to_sign_in "សូម​ចូល​ដើម្បី​តភ្ជាប់​គណនី Firefox ឡើងវិញ រួច​បន្ត​សមកាលកម្ម។">
+<!ENTITY home_remote_tabs_need_to_finish_migrating "គណនី Firefox ថ្មី​របស់​អ្នក​គឺ​រួចរាល់​ហើយ!">
 
-
-
+<!ENTITY home_remote_tabs_trouble_verifying "បញ្ហា​ការ​ផ្ទៀងផ្ទាត់​គណនី​របស់​អ្នក?">
 
 
 <!-- Localization note (home_remote_tabs_many_hidden_devices) : The
