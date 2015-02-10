@@ -151,3 +151,9 @@
 
 <!ENTITY monitor_title "Monitor zasobów">
 <!ENTITY monitor_help "Pomoc">
+
+<!ENTITY wifi_auth_header "Identyfikacja klienta">
+<!ENTITY wifi_auth_scan_request "Urządzenie z którym się łączysz potrzebuje więcej informacji, aby uwierzytelnić to połączenie. Proszę zeskanować poniższy kod QR z poziomu komunikatu wyświetlanego na drugim urządzeniu.">
+<!ENTITY wifi_auth_no_scanner "Brak komunikatu skanera kodów QR?">
+<!ENTITY wifi_auth_yes_scanner "Komunikat skanera kodów QR wyświetlił się?">
+<!ENTITY wifi_auth_token_request "Jeśli inne urządzenie prosi o wprowadzenie tokenu zamiast skanować kod QR, wprawadź na nim poniższy ciąg znaków:">
