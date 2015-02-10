@@ -30,14 +30,14 @@
 
 <!ENTITY sync.subtitle.account.label "បញ្ចូល​ព័ត៌មាន​គណនី &syncBrand.fullName.label; របស់​អ្នក">
 <!ENTITY sync.input.username.label "ឈ្មោះ​គណនី">
-<!ENTITY sync.input.password.label "ពាក្យ​សម្ងាត់">
+<!ENTITY sync.input.password.label "ពាក្យសម្ងាត់">
 <!ENTITY sync.input.key.label "កូនសោ​សង្គ្រោះ">
 <!ENTITY sync.checkbox.server.label "ប្រើ​ម៉ាស៊ីន​មេ​ផ្ទាល់ខ្លួន">
-<!ENTITY sync.input.server.label "​URL​ របស់​ម៉ាស៊ីន​មេ">
+<!ENTITY sync.input.server.label "​URL​ ម៉ាស៊ីន​មេ">
 <!-- Setup Fail -->
 
 <!ENTITY sync.title.fail.label "មិន​អាច​រៀបចំ &syncBrand.shortName.label;">
-<!ENTITY sync.subtitle.fail.label "&syncBrand.fullName.label; មិន​អាច​តភ្ជាប់​ទៅកាន់​ម៉ាស៊ីន​មេ​បាន​ទេ ។ តើ​អ្នក​ចង់​សាកល្បង​ម្ដងទៀត​ដែរ​ឬទេ ?">
+<!ENTITY sync.subtitle.fail.label "&syncBrand.fullName.label; មិន​អាច​តភ្ជាប់​ទៅកាន់​ម៉ាស៊ីន​មេ។ តើ​អ្នក​ចង់​សាកល្បង​ម្ដងទៀត​ដែរ​ឬទេ ?">
 <!ENTITY sync.button.tryagain.label "ព្យាយាម​ម្ដងទៀត">
 <!ENTITY sync.button.manual.label "ការ​រៀបចំ​ដោយ​ដៃ">
 <!ENTITY sync.subtitle.nointernet.label "មិន​មាន​ការ​តភ្ជាប់​អ៊ីនធឺណិត ។">
