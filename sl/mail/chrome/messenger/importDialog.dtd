@@ -46,5 +46,5 @@ LOCALIZATION NOTE : Do not translate any of the occurrences of the word
 
 <!ENTITY select.label             "ali izberite vrsto podatkov, ki jih želite uvoziti:">
 
-<!ENTITY title.label              "Naslov">
+<!ENTITY title.label              "Naziv">
 <!ENTITY processing.label         "Uvoz …">

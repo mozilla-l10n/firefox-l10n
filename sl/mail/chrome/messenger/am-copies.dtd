@@ -13,11 +13,11 @@
 <!-- LOCALIZATION NOTE (ccAddress.label): do not translate "Cc" in below line -->
 <!ENTITY ccAddress.label "Pošlji Kp na te naslove:">
 <!ENTITY ccAddress.accesskey "K">
-<!ENTITY ccAddressList.placeholder "Loči naslove z vejico">
+<!ENTITY ccAddressList.placeholder "Ločite naslove z vejico">
 <!-- LOCALIZATION NOTE (bccAddress.label): do not translate "Bcc" in below line -->
 <!ENTITY bccAddress.label "Pošlji Skp na te naslove:">
 <!ENTITY bccAddress.accesskey "S">
-<!ENTITY bccAddressList.placeholder "Loči naslove z vejico">
+<!ENTITY bccAddressList.placeholder "Ločite naslove z vejico">
 <!ENTITY saveMessageDlg.label "Ob shranjevanju sporočil prikaži potrditveno okno">
 <!ENTITY saveMessageDlg.accesskey "O">
 <!-- LOCALIZATION NOTE (sentFolderOn.label): OK to translate this, bug #57440 -->

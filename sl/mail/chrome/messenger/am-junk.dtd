@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY junkSettings.label "Nastavitve neželene pošte">
-<!ENTITY trainingDescription.label "Če se odločite za to izbiro, morate najprej s pomočjo gumba za neželeno pošto v orodni vrstici sporočila označevati kot neželena ali želena, tako da se &brandShortName; lahko nauči, kako neželeno pošto prepoznati. Označiti morate tako neželena kot tudi želena sporočila.">
+<!ENTITY trainingDescription.label "Če se odločite za to izbiro, morate najprej s pomočjo gumba za neželeno pošto v orodni vrstici sporočila označevati kot neželena ali želena, tako da se &brandShortName; lahko nauči, kako neželeno pošto prepoznati. Označiti morate tako neželena kot tudi želena sporočila. Po tem bo &brandShortName; zmožen neželeno pošto samodejno označiti.">
 <!ENTITY level.label "Za ta račun omogoči prilagodljiv nadzor nad neželeno pošto">
 <!ENTITY level.accesskey "o">
 

@@ -15,6 +15,8 @@
 <!ENTITY telemetryInfoLink.label       "Več podatkov o telemetriji">
 <!ENTITY enableGlodaSearch.label       "Omogoči splošno iskanje in kazalo">
 <!ENTITY enableGlodaSearch.accesskey   "m">
+<!ENTITY allowHWAccel.label            "Uporabi strojno pospeševanje, kadar je na voljo">
+<!ENTITY allowHWAccel.accesskey        "s">
 
 <!ENTITY scrolling.label               "Drsenje">
 <!ENTITY useAutoScroll.label           "Uporabi samodejno drsenje">

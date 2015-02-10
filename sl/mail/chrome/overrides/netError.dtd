@@ -23,7 +23,7 @@
 <strong>www</strong>.primer.si</li> 
 <li>Če ni mogoče naložiti ničesar, preverite povezavo svojega računalnika 
 z omrežjem.</li> 
-<li>Če se vaš računalnik nahaja za požarnim zidom ali pa če uporablja posrednika, se prepričajte, 
+<li>Če se vaš računalnik ali omrežje nahaja za požarnim zidom ali uporablja posrednika, se prepričajte, 
 da ima &brandShortName; pravico dostopati do spleta.</li> 
 </ul>">
 
@@ -38,7 +38,7 @@ da ima &brandShortName; pravico dostopati do spleta.</li>
 
 <!ENTITY malformedURI.title "Neveljaven naslov">
 <!ENTITY malformedURI.longDesc "<ul> 
-<li>Naslove na mreži se običajno piše takole: 
+<li>Spletne naslove se običajno piše takole: 
 <strong>http://www.primer.si/</strong></li> 
 <li>Pazite, da boste uporabljali poševnico (t.j. 
 <strong>/</strong>).</li> 
@@ -87,7 +87,7 @@ deluje.</li>
 <!ENTITY proxyResolveFailure.longDesc "<ul> 
 <li>Preverite nastavitve posrednika, da so brez napak.</li> 
 <li>Preverite, ali je vaš računalnik dejavno povezan z omrežjem.</li> 
-<li>Če se vaš računalnik nahaja za požarnim zidom ali pa če uporablja posrednika, se prepričajte, 
+<li>Če se vaš računalnik ali omrežje nahaja za požarnim zidom ali uporablja posrednika, se prepričajte, 
 da ima &brandShortName; pravico dostopati do omrežja.</li> 
 </ul>">
 
@@ -123,7 +123,7 @@ da začasno napako, tako da lahko ponovno poskusite kasneje.</li>
 kasneje.</li> 
 <li>Če ni mogoče naložiti ničesar, preverite povezavo svojega računalnika 
 z omrežjem.</li> 
-<li>Če se vaš računalnik nahaja za požarnim zidom ali pa če uporablja posrednika, se prepričajte, 
+<li>Če se vaš računalnik ali omrežje nahaja za požarnim zidom ali uporablja posrednika, se prepričajte, 
 da ima &brandShortName; pravico dostopati do omrežja.</li> 
 </ul>">
 

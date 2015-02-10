@@ -17,15 +17,17 @@
 <!ENTITY highestPriorityCmd.label "Najvišje">
 
 <!ENTITY contextDesc.label "Uporabi filter:">
-<!ENTITY contextIncomingMail.label "prejemu nove pošte:">
-<!ENTITY contextIncomingMail.accesskey "r">
+<!ENTITY contextIncomingMail.label "ob prejemu nove pošte:">
+<!ENTITY contextIncomingMail.accesskey "o">
 <!ENTITY contextManual.label "ročni zagon">
 <!ENTITY contextManual.accesskey "r">
 <!ENTITY contextBeforeCls.label "Filtriraj pred razvrščanjem neželene pošte">
 <!ENTITY contextAfterCls.label "Filtriraj po razvrščanju neželene pošte">
+<!ENTITY contextOutgoing.label "Po pošiljanju">
+<!ENTITY contextOutgoing.accesskey "P">
 
 <!ENTITY filterActionDesc.label "Izvedi ta dejanja:">
-<!ENTITY filterActionDesc.accesskey "I">
+<!ENTITY filterActionDesc.accesskey "z">
 
 <!ENTITY filterActionOrderWarning.label "Opomba: dejanja filtra se bodo izvajala v drugačnem vrstnem redu.">
 <!ENTITY filterActionOrder.label "Vrstni red izvajanja">
@@ -42,8 +44,8 @@
 <!ENTITY addTag.label "Označi sporočilo">
 <!ENTITY setJunkScore.label "Nastavi stanje Neželeno na">
 <!ENTITY deleteMessage.label "Izbriši sporočilo">
-<!ENTITY deleteFromPOP.label "Izbriši s strežnika POP3">
-<!ENTITY fetchFromPOP.label "Prenesi s POP strežnika">
+<!ENTITY deleteFromPOP.label "Izbriši s strežnika POP">
+<!ENTITY fetchFromPOP.label "Prenesi s strežnika POP">
 <!ENTITY ignoreThread.label "Prezri nit">
 <!ENTITY ignoreSubthread.label "Prezri podnit">
 <!ENTITY watchThread.label "Spremljaj nit">

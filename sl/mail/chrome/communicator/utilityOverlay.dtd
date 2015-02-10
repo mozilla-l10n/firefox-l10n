@@ -43,9 +43,9 @@
 <!ENTITY showTaskbarCmd.label          "Vrstica stanja">
 <!ENTITY showTaskbarCmd.accesskey        "n">
 
-<!ENTITY closeCmd.label      "Izhod">
+<!ENTITY closeCmd.label      "Zapri">
 <!ENTITY closeCmd.key      "W">
-<!ENTITY closeCmd.accesskey    "h">
+<!ENTITY closeCmd.accesskey    "Z">
 
 <!ENTITY quitApplicationCmd.label  "Izhod">
 <!ENTITY quitApplicationCmd.key    "Q">

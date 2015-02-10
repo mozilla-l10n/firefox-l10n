@@ -104,7 +104,7 @@
 <!ENTITY calendar.orientation.label "Obrni pogled" >
 <!ENTITY calendar.orientation.accesskey "O" >
 
-<!ENTITY calendar.search.options.searchfor " contain">
+<!ENTITY calendar.search.options.searchfor " vsebuje(jo)">
 
 <!ENTITY calendar.list.header.label                 "Koledar">
 
@@ -132,7 +132,7 @@
 <!ENTITY calendar.task.filter.current.label         "Tekoča opravila">
 <!ENTITY calendar.task.filter.current.accesskey     "T">
 
-<!ENTITY calendar.task-details.title.label           "Naslov">
+<!ENTITY calendar.task-details.title.label           "Naziv">
 <!ENTITY calendar.task-details.organizer.label       "iz">
 <!ENTITY calendar.task-details.priority.label        "prednost">
 <!ENTITY calendar.task-details.priority.low.label    "Nizka">
@@ -161,11 +161,11 @@
 <!ENTITY calendar.context.newevent.label              "Nov dogodek …">
 <!ENTITY calendar.context.newevent.accesskey          "d">
 <!ENTITY calendar.context.newtodo.label               "Novo opravilo …">
-<!ENTITY calendar.context.newtodo.accesskey           "N">
+<!ENTITY calendar.context.newtodo.accesskey           "a">
 <!ENTITY calendar.context.deletetask.label            "Izbriši opravilo">
 <!ENTITY calendar.context.deletetask.accesskey        "b">
 <!ENTITY calendar.context.deleteevent.label           "Izbriši dogodek">
-<!ENTITY calendar.context.deleteevent.accesskey       "r">
+<!ENTITY calendar.context.deleteevent.accesskey       "b">
 <!ENTITY calendar.context.cutevent.label              "Izreži">
 <!ENTITY calendar.context.cutevent.accesskey          "z">
 <!ENTITY calendar.context.copyevent.label             "Kopiraj">
@@ -234,13 +234,13 @@
 <!ENTITY calendar.context.findcalendar.label           "Najdi koledar …" >
 <!ENTITY calendar.context.findcalendar.accesskey       "j" >
 <!ENTITY calendar.context.deleteserver.label           "Izbriši koledar">
-<!ENTITY calendar.context.deleteserver.accesskey       "z">
+<!ENTITY calendar.context.deleteserver.accesskey       "b">
 <!ENTITY calendar.context.synccalendars.label          "Uskladi koledarje">
 <!ENTITY calendar.context.synccalendars.accesskey      "U">
 <!ENTITY calendar.context.publish.label                "Objavi koledar">
 <!ENTITY calendar.context.publish.accesskey            "O">
 <!ENTITY calendar.context.export.label                 "Izvozi koledar …">
-<!ENTITY calendar.context.export.accesskey             "I">
+<!ENTITY calendar.context.export.accesskey             "z">
 <!ENTITY calendar.context.properties.label             "Lastnosti">
 <!ENTITY calendar.context.properties.accesskey         "L">
 <!-- LOCALIZATION NOTE (calendar.context.togglevisible.accesskey)
@@ -323,18 +323,18 @@
 <!-- Calendar Publish Dialog -->
 
 <!ENTITY calendar.publish.dialog.title              "Objavi koledar">
-<!ENTITY calendar.publish.url.label                 "Naslov URL za objavo koledarja:">
+<!ENTITY calendar.publish.url.label                 "URL za objavo koledarja:">
 <!ENTITY calendar.publish.publish.button      "Objavi">
 <!ENTITY calendar.publish.close.button      "Zapri">
 
-<!ENTITY calendar.publish.example.url.description   "Kot npr. http://www.mojstreznik.si/webdav/preskus.ics">
+<!ENTITY calendar.publish.example.url.description   "Npr. http://www.mojstreznik.si/webdav/preskus.ics">
 <!-- Select Calendar Dialog -->
 
 <!ENTITY calendar.select.dialog.title    "Izberite koledar">
 <!-- Calendar Printing -->
 
 <!ENTITY calendar.print.window.title "Natisni koledar">
-<!ENTITY calendar.print.title.label "Naslov:">
+<!ENTITY calendar.print.title.label "Naziv:">
 <!ENTITY calendar.print.layout.label "Razporeditev">
 <!ENTITY calendar.print.range.label "Območje tiskanja">
 <!ENTITY calendar.print.currentView2.label "Trenutni pogled">

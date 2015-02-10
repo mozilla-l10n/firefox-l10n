@@ -16,7 +16,7 @@
 <!ENTITY SecondEmail.accesskey                 "D">
 <!ENTITY Department.label                      "Oddelek">
 <!ENTITY Department.accesskey                  "e">
-<!ENTITY JobTitle.label                        "Naslov">
+<!ENTITY JobTitle.label                        "Naziv">
 <!ENTITY JobTitle.accesskey                    "N">
 <!ENTITY CellularNumber.label                  "Mobilnik">
 <!ENTITY CellularNumber.accesskey              "M">

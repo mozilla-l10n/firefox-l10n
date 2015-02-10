@@ -319,8 +319,8 @@
 <!ENTITY boldToolbarCmd.tooltip "Krepko">
 <!ENTITY italicToolbarCmd.tooltip "Ležeče">
 <!ENTITY underlineToolbarCmd.tooltip "Podčrtano">
-<!ENTITY bulletListToolbarCmd.tooltip "Uporabi ali odstrani seznam s seznamskimi točkami">
-<!ENTITY numberListToolbarCmd.tooltip "Uporabi ali odstrani oštevilčen seznam">
+<!ENTITY bulletListToolbarCmd.tooltip "Uveljavi ali odstrani seznam s seznamskimi točkami">
+<!ENTITY numberListToolbarCmd.tooltip "Uveljavi ali odstrani oštevilčen seznam">
 <!ENTITY outdentToolbarCmd.tooltip "Zamakni besedilo levo">
 <!ENTITY indentToolbarCmd.tooltip "Zamakni besedilo desno">
 <!ENTITY AlignPopupButton.tooltip "Izberi zamik besedila">

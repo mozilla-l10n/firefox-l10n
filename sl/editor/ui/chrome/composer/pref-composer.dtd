@@ -12,9 +12,9 @@
 <!ENTITY  documentsInMenu.label         "Največje število strani na seznamu:">
 <!ENTITY  documentsInMenu.accesskey     "s">
 <!ENTITY  savingFiles.title             "Ob shranjevanju ali objavljanju strani">
-<!ENTITY  preserveExisting.label        "Ohrani prvotno oblikovanje izvora">
+<!ENTITY  preserveExisting.label        "Ohrani izvirno oblikovanje izvora">
 <!ENTITY  preserveExisting.accesskey    "O">
-<!ENTITY  preserveExisting.tooltip      "Ohrani prelom vrstic in prvotno oblikovanje strani">
+<!ENTITY  preserveExisting.tooltip      "Ohrani prelom vrstic in izvirno oblikovanje strani">
 <!ENTITY  saveAssociatedFiles.label     "Ob shranjevanju strani shrani slike in druge povezane datoteke">
 <!ENTITY  saveAssociatedFiles.accesskey "O">
 <!ENTITY  showPublishDialog.label       "Med objavljanjem strani vedno prikaži pogovorno okno Objavi">

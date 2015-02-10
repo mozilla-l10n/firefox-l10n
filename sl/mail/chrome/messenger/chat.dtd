@@ -6,7 +6,7 @@
 <!ENTITY offlineContactsHeader.label   "Nepovezani stiki">
 <!ENTITY conversationsHeader.label     "Pogovori">
 <!ENTITY searchResultConversation.label "Rezultat iskanja">
-<!ENTITY chat.noConv.title             "Pogovore se bo prikazovalo tu.">
+<!ENTITY chat.noConv.title             "Pogovori bodo prikazani tukaj.">
 <!ENTITY chat.noConv.description       "Uporabite seznam stikov na levi strani, da začnete pogovor.">
 <!ENTITY chat.noPreviousConv.description       "&brandShortName; trenutno za ta stik nima shranjenih nobenih predhodnih pogovorov.">
 <!ENTITY chat.noAccount.title             "Računa za klepete še niste odprli.">
@@ -20,9 +20,9 @@
 <!ENTITY chat.previousConversations    "Prejšnji klepeti:">
 <!ENTITY chat.ongoingConversation      "Klepet v teku">
 
-<!ENTITY openConversationCmd.label     "Začnite klepet">
+<!ENTITY openConversationCmd.label     "Začni klepet">
 <!ENTITY openConversationCmd.accesskey "k">
-<!ENTITY closeConversationCmd.label    "Končajte klepet">
+<!ENTITY closeConversationCmd.label    "Končaj klepet">
 <!ENTITY closeConversationCmd.accesskey "K">
 <!ENTITY aliasCmd.label                "Preimenuj">
 <!ENTITY aliasCmd.accesskey            "r">
@@ -33,12 +33,12 @@
 <!ENTITY closeConversationButton.tooltip "Zapri pogovor">
 
 <!ENTITY addBuddyButton.label          "Dodaj stik">
-<!ENTITY joinChatButton.label          "Pridružite se klepetu">
+<!ENTITY joinChatButton.label          "Pridruži se klepetu">
 <!ENTITY chatAccountsButton.label      "Prikaži račune">
 
-<!ENTITY status.available          "Na razpolago">
-<!ENTITY status.unavailable        "Ni na razpolago">
-<!ENTITY status.offline            "Ni na spletu">
+<!ENTITY status.available          "Dosegljiv">
+<!ENTITY status.unavailable        "Nedosegljiv">
+<!ENTITY status.offline            "Nepovezan">
 
-<!ENTITY openLinkCmd.label            "Odpri povezavo…">
+<!ENTITY openLinkCmd.label            "Odpri povezavo …">
 <!ENTITY openLinkCmd.accesskey        "O">
