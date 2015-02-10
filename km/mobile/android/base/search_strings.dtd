@@ -1,19 +1,30 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY search_app_name "&brandShortName; ស្វែងរក">
 <!--  Localization note (search_bar_hint): The &formatS; will be replaced with the name of
       the currently selected search engine. -->
 
+<!ENTITY search_bar_hint "ស្វែងរក​ជាមួយ &formatS;">
 
+<!ENTITY search_empty_title2 "ចាប់ផ្តើម​ស្វែងរក">
+<!ENTITY search_empty_message "ស្វែងរក​អ្វី​ដែល​អ្នក​ចង់​បាន​យ៉ាង​រហ័ស">
 <!--  Localization note (search_plus_content_description): This is the content description
       for the "+" icon that appears at the end of search suggestions. -->
 
+<!ENTITY search_plus_content_description "បន្ថែម​ទៅ​របារ​ស្វែងរក">
 
+<!ENTITY search_pref_title "ការ​កំណត់">
+<!ENTITY search_pref_button_content_description "ការ​កំណត់">
 
+<!ENTITY pref_clearHistory_confirmation "សម្អាត​ប្រវត្តិ">
+<!ENTITY pref_clearHistory_dialogMessage "សម្អាត​ប្រវត្តិ​ស្វែងរក​ទាំងអស់​ចេញពី​ឧបករណ៍​នេះ?">
+<!ENTITY pref_clearHistory_title "សម្អាត​ប្រវត្តិ​ស្វែងរក">
 
-
-
+<!ENTITY pref_searchProvider_title "ម៉ាស៊ីន​ស្វែងរក">
 
 <!ENTITY search_widget_button_label "ស្វែងរក">
 
-
+<!ENTITY network_error_title "មិន​មាន​ការ​តភ្ជាប់​អ៊ីនធឺណិត">
+<!ENTITY network_error_message "ប៉ះ​ទីនេះ​ដើម្បី​មើល​ការ​កំណត់​បណ្ដាញ​របស់​អ្នក">

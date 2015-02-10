@@ -9,7 +9,7 @@
 <!-- Main titles. -->
 
 <!ENTITY sync.app.name.label "&syncBrand.fullName.label;">
-<!ENTITY sync.title.connect.label "ភ្ជាប់​ទៅ &syncBrand.shortName.label;">
+<!ENTITY sync.title.connect.label "តភ្ជាប់​ទៅ &syncBrand.shortName.label;">
 <!ENTITY sync.title.adddevice.label "បន្ថែម​គណនី &syncBrand.fullName.label;">
 <!ENTITY sync.title.pair.label "ផ្គូ​ឧបករណ៍">
 <!-- J-PAKE Key Screen -->
@@ -20,12 +20,12 @@
 <!ENTITY sync.subtitle.pair.label "ដើម្បី​ធ្វើ​ឲ្យ​សកម្ម អ្នក​ត្រូវ​ជ្រើស “ផ្គូ​ឧបករណ៍” នៅ​លើ​ឧបករណ៍​ផ្សេងទៀត​របស់​អ្នក ។">
 <!ENTITY sync.pin.default.label "...\n...\n...\n">
 <!ENTITY sync.pin.oneline.label "...">
-<!ENTITY sync.link.show.label "បង្ហាញ​ខ្ញុំ​ពី​របៀប ។">
+<!ENTITY sync.link.show.label "បង្ហាញ​ខ្ញុំ​ពី​របៀប។">
 <!ENTITY sync.link.advancedsetup.label "ការ​រៀបចំ​កម្រិតខ្ពស់...">
-<!ENTITY sync.link.nodevice.label "ខ្ញុំ​មិនមាន​ឧបករណ៍​​ជា​មួយ​ខ្ញុំ​ទេ">
+<!ENTITY sync.link.nodevice.label "ខ្ញុំ​មិន​មាន​ឧបករណ៍​​ជា​មួយ​ខ្ញុំ​ទេ...">
 <!-- J-PAKE Waiting Screen -->
 
-<!ENTITY sync.jpake.subtitle.waiting.label "រង់ចាំ​ឧបករណ៍​ផ្សេងទៀត...">
+<!ENTITY sync.jpake.subtitle.waiting.label "កំពុង​រង់ចាំ​ឧបករណ៍​ផ្សេងទៀត...">
 <!-- Account Login Screen -->
 
 <!ENTITY sync.subtitle.account.label "បញ្ចូល​ព័ត៌មាន​គណនី &syncBrand.fullName.label; របស់​អ្នក">
