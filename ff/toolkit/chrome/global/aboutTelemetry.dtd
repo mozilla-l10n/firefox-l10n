@@ -8,6 +8,7 @@
 
 <!ENTITY aboutTelemetry.telemetryDisabled "  Telemeetiri koko <span>daaƴaa</span>.">
 
+<!ENTITY aboutTelemetry.generalDataSection "  Keɓe Kuuɓal">
 
 <!ENTITY aboutTelemetry.slowSqlSection "  Gowlaali SQL Leelɗi">
 
@@ -17,6 +18,7 @@
 
 <!ENTITY aboutTelemetry.histogramsSection "  Asdiiwe">
 
+<!ENTITY aboutTelemetry.keyedHistogramsSection "  Keyed Histograms">
 
 <!ENTITY aboutTelemetry.simpleMeasurementsSection "  Ɓete Beeɓtinaaɗe">
 
