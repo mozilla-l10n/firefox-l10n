@@ -66,5 +66,5 @@ that require it.  -->
      width adjusts the width of the first column in the dialog. You can set the
      column width to a value that makes the dialog look visually balanced, or at half
      of the dialog width if unsure. -->
-<!ENTITY inContentDialog.width         "53em">
+<!ENTITY inContentDialog.width         "57em">
 <!ENTITY inContentColumn.width         "30em">
