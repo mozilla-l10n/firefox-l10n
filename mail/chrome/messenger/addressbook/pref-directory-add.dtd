@@ -11,8 +11,8 @@
 <!ENTITY directoryBaseDN.accesskey         "B">
 <!ENTITY findButton.label                  "Փնտրել">
 <!ENTITY findButton.accesskey              "F">
-<!ENTITY directorySecure.label             "Օգտ. անվտանգ միացում (SSL)">
-<!ENTITY directorySecure.accesskey         "U">
+<!ENTITY directorySecure.label             "Օգտ. անվտանգ կապակցում (SSL)">
+<!ENTITY directorySecure.accesskey         "Օ">
 <!ENTITY directoryLogin.label              "Bind DN: ">
 <!ENTITY directoryLogin.accesskey          "i">
 <!ENTITY General.tab                       "Գլխավորը">

@@ -84,7 +84,7 @@
 <!ENTITY showSettings.label            "Կարգավորումներ...">
 <!ENTITY showSettings.accesskey        "S">
 <!ENTITY proxiesConfigure.label        "Կարգավորել, թե ինչպես &brandShortName;-ը մուտք գործի համացանց">
-<!ENTITY connectionsInfo.caption       "Միացում">
+<!ENTITY connectionsInfo.caption       "Կապակցում">
 <!ENTITY offlineInfo.caption           "Անցանց">
 <!ENTITY offlineInfo.label             "Կարգավորել անցանցը">
 <!ENTITY showOffline.label             "Անցանց...">
