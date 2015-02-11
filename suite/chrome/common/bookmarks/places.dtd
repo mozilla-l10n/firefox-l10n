@@ -41,10 +41,12 @@
 <!ENTITY cmd.deleteDomainData.accesskey "D">
 <!ENTITY cmd.open.label "Apri">
 <!ENTITY cmd.open.accesskey "A">
-<!ENTITY cmd.open_window.label "Apri in una nuova finestra">
-<!ENTITY cmd.open_window.accesskey "f">
 <!ENTITY cmd.open_tab.label "Apri in una nuova scheda">
 <!ENTITY cmd.open_tab.accesskey "s">
+<!ENTITY cmd.open_window.label "Apri in una nuova finestra">
+<!ENTITY cmd.open_window.accesskey "f">
+<!ENTITY cmd.open_private.label "Apri in una finestra anonima">
+<!ENTITY cmd.open_private.accesskey "f">
 <!ENTITY cmd.open_all_in_tabs.label "Apri tutti in schede">
 <!ENTITY cmd.open_all_in_tabs.accesskey "A">
 <!ENTITY cmd.properties.label "Proprietà">
