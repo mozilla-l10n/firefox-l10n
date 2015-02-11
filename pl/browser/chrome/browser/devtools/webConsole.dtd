@@ -56,17 +56,13 @@
 <!ENTITY btnPageSecurity.tooltip "Zapisuj wyjątki i ostrzeżenia bezpieczeństwa">
 <!ENTITY btnPageSecurity.accesskey "B">
 
-<!-- LOCALIZATION NOTE (btnPageLogging): This is used as the text of the
-  -  the toolbar. It shows or hides messages that the web developer inserted on
-  -  the page for debugging purposes, using calls such console.log() and
-  -  console.error(). -->
-<!ENTITY btnPageLogging.label   "Wpisy dziennika">
+<!ENTITY btnPageLogging.label "Dziennik">
 <!ENTITY btnPageLogging.tooltip "Wpisy dziennika wysłane do obiektu „console”">
 <!ENTITY btnPageLogging.accesskey3 "d">
 <!ENTITY btnConsoleErrors       "Błędy">
-<!ENTITY btnConsoleInfo         "Info">
+<!ENTITY btnConsoleInfo "Informacje">
 <!ENTITY btnConsoleWarnings     "Ostrzeżenia">
-<!ENTITY btnConsoleLog          "Dziennik">
+<!ENTITY btnConsoleLog "Wpisy dziennika">
 <!ENTITY btnConsoleXhr "XHR">
 <!ENTITY btnConsoleReflows "Reflows">
 
