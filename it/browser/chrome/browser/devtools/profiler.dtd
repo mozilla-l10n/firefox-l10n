@@ -27,10 +27,9 @@
 <!ENTITY profilerUI.newtab.tooltiptext "Aggiungi nuova scheda dalla selezione">
 <!ENTITY profilerUI.options.tooltiptext "Configura preferenze prestazioni.">
 <!ENTITY profilerUI.invertTree "Inverti albero chiamate">
-<!ENTITY profilerUI.flattenTree.tooltiptext "Invertendo la visualizzazione dell’albero verranno mostrate prima le chiamate dai riquadri (frame) più recenti.">
+<!ENTITY profilerUI.invertTree.tooltiptext "Invertendo la visualizzazione dell’albero verranno mostrate prima le chiamate dai riquadri (frame) più recenti.">
 <!ENTITY profilerUI.invertFlameGraph "Inverti Flame chart">
 <!ENTITY profilerUI.invertFlameGraph.tooltiptext "Invertendo il grafico verranno mostrate prima le chiamate dai riquadri (frame) più recenti.">
-<!ENTITY profilerUI.invertTree.tooltiptext "Invertendo la visualizzazione dell’albero verranno mostrate prima le chiamate dai riquadri (frame) più recenti.">
 <!ENTITY profilerUI.showPlatformData "Visualizza dati piattaforma Gecko">
 <!ENTITY profilerUI.showPlatformData.tooltiptext "La visualizzazione dei dati della piattaforma Gecko permette di includerne i simboli nei rapporti del Profiler JavaScript.">
 <!ENTITY profilerUI.flattenTreeRecursion "Appiattisci albero ricorsioni">
