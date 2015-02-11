@@ -172,6 +172,7 @@
 <!ENTITY pref_cookies_not_accept_foreign "Engedélyezve, kivéve harmadik féltől származó">
 <!ENTITY pref_cookies_disabled "Tiltva">
 
+
 <!ENTITY pref_donottrack_title "Ne kövessenek">
 <!ENTITY pref_donottrack_summary "A &brandShortName; közli a webhelyekkel, hogy Ön nem szeretné, ha követnék">
 
@@ -429,6 +430,8 @@ size. -->
 <!ENTITY home_remote_tabs_empty "A lapok más készülékekről itt jelennek meg.">
 <!ENTITY home_remote_tabs_unable_to_connect "A kapcsolódás sikertelen">
 <!ENTITY home_remote_tabs_need_to_sign_in "Jelentkezzen be a Firefox fiókja újracsatlakoztatásához és a szinkronizálás folytatásához.">
+
+
 <!ENTITY home_remote_tabs_trouble_verifying "Probléma a fiók ellenőrzésekor?">
 <!ENTITY home_remote_tabs_need_to_verify "Ellenőrizze Firefox fiókját a szinkronizálás megkezdéséhez.">
 
@@ -528,12 +531,6 @@ Androidról">
 
 <!ENTITY updater_apply_title2 "Frissítés érhető el a &brandShortName;hoz">
 <!ENTITY updater_apply_select2 "Koppintson a frissítéshez">
-<!-- New tablet UI -->
-<!-- LOCALIZATION NOTE (new_tablet_restart): Notification displayed after the user toggles the new tablet UI in the settings screen.-->
-
-
-<!ENTITY new_tablet_restart "Indítsa újra a böngészőt a módosítások életbe lépéséhez">
-<!ENTITY new_tablet_pref "Új tablet felület bekapcsolása">
 <!-- Guest mode -->
 
 <!ENTITY new_guest_session "Új vendég munkamenet">

@@ -3,9 +3,6 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY  fontsAndEncodingsDialog.title           "Betűk és kódolások">
-<!ENTITY  window.width                            "39em">
-<!ENTITY  window.macWidth                         "50em">
-<!ENTITY  window.unixWidth                        "55em">
 
 <!ENTITY  language.label                          "Kódolás:">
 <!ENTITY  language.accesskey                      "K">

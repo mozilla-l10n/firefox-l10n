@@ -4,13 +4,16 @@
 
 <!ENTITY offlineDialog.title "Kapcsolat nélküli beállítások">
 
-<!ENTITY textStartUp "Induláskor:">
+
+
 <!ENTITY radioRememberPrevState.label "Előző online állapot megjegyzése">
 <!ENTITY radioRememberPrevState.accesskey "E">
-<!ENTITY radioAskMe.label "Rákérdezés az online állapotra indításkor">
-<!ENTITY radioAskMe.accesskey "R">
-<!ENTITY radioAlwaysOnline.label "Mindig online indulás">
-<!ENTITY radioAlwaysOnline.accesskey "M">
+
+
+
+
+
+
 
 <!ENTITY textGoingOnline "Postázandó üzenetek elküldése a csatlakozáskor">
 <!ENTITY radioAutoSend.label "Igen">

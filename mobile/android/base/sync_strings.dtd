@@ -171,6 +171,9 @@
 <!ENTITY fxaccount_confirm_account_verification_link_sent2 "Ellenőrző e-mail elküldve">
 <!ENTITY fxaccount_confirm_account_verification_link_not_sent2 "Nem küldhető el az ellenőrző e-mail">
 
+
+
+
 <!ENTITY fxaccount_sign_in_sub_header "Bejelentkezés">
 <!ENTITY fxaccount_sign_in_button_label "Bejelentkezés">
 <!ENTITY fxaccount_sign_in_forgot_password "Elfelejtett jelszó?">
@@ -180,9 +183,13 @@
 <!ENTITY fxaccount_account_verified_sub_header "Fiók ellenőrizve">
 <!ENTITY fxaccount_account_verified_description2 "Az adatok szinkronizálása mindjárt elkezdődik.">
 
+
 <!ENTITY fxaccount_update_credentials_header "Bejelentkezés">
 <!ENTITY fxaccount_update_credentials_button_label "Bejelentkezés">
 <!ENTITY fxaccount_update_credentials_unknown_error "Nem sikerült a bejelentkezés">
+
+
+
 
 <!ENTITY fxaccount_status_header2 "Firefox fiók">
 <!ENTITY fxaccount_status_signed_in_as "Bejelentkezve mint">
@@ -197,7 +204,9 @@
 <!ENTITY fxaccount_status_needs_credentials "Nem sikerült kapcsolódni. Koppintson a bejelentkezéshez.">
 <!ENTITY fxaccount_status_needs_upgrade "Frissíteni kell a &brandShortName;ot a bejelentkezéshez.">
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled "A &syncBrand.shortName.label; be van állítva, de nem szinkronizál automatikusan. Állítsa át az „Adatok automatikus szinkronizálása” beállítást az Android beállítások &gt; Adathasználat alatt.">
+
 <!ENTITY fxaccount_status_needs_account_enabled "A &syncBrand.shortName.label; be van állítva, de nem szinkronizál automatikusan. Koppintson a szinkronizálás megkezdéséhez.">
+
 <!ENTITY fxaccount_status_bookmarks "Könyvjelzők">
 <!ENTITY fxaccount_status_history "Előzmények">
 <!ENTITY fxaccount_status_passwords "Jelszavak">
@@ -246,7 +255,10 @@
 <!ENTITY fxaccount_remote_error_UNKNOWN_ERROR "Hiba történt">
 <!ENTITY fxaccount_remote_error_COULD_NOT_CONNECT "Nem lehet a hálózathoz kapcsolódni">
 
+
 <!ENTITY fxaccount_sync_sign_in_error_notification_title2 "&syncBrand.shortName.label; nincs csatlakozva">
 <!-- Localization note: the format string below will be replaced
      with the Firefox Account's email address. -->
-<!ENTITY fxaccount_sync_sign_in_error_notification_text2 "Koppintson a bejelentkezéshez mint &formatS;">
+
+<!-- Localization note: the format string below will be replaced
+     with the Firefox Account's email address. -->

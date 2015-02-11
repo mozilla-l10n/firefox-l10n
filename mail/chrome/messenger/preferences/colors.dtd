@@ -6,8 +6,11 @@
 <!ENTITY  window.width                    "55em">
 <!ENTITY  window.macWidth                 "55em">
 
-<!ENTITY  allowPagesToUse.label           "A tartalom a saját maga által kiválasztott színeket használhatja a fent megadottak helyett">
-<!ENTITY  allowPagesToUse.accesskey       "d">
+
+
+<!ENTITY  overridePageColors.always.label "Mindig">
+
+<!ENTITY  overridePageColors.never.label  "Soha">
 
 <!ENTITY  color                           "Szöveg és háttér">
 <!ENTITY  textColor.label                 "Szöveg:">
