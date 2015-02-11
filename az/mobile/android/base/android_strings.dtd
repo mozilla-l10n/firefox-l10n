@@ -495,7 +495,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- Updater notifications -->
 
 
-<!ENTITY updater_downloading_title2 "&brandShortName; yüklənir">
+<!ENTITY updater_downloading_title2 "&brandShortName; endirilir">
 
 
 
