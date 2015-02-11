@@ -6,11 +6,11 @@
 <!ENTITY aboutPage.telemetryStart               " Secara otomatis data kinerja, perangkat keras, penggunaan, dan pengubahsuaian akan dikirimkan ke ">
 <!ENTITY aboutPage.telemetryMozillaLink         "&vendorShortName;">
 <!ENTITY aboutPage.telemetryEnd                 " dalam rangka membantu menyempurnakan &brandShortName;.">
-<!ENTITY aboutPage.checkForUpdates.link         "Periksa versi baru »">
+<!ENTITY aboutPage.checkForUpdates.link         "Periksa Versi Baru »">
 <!ENTITY aboutPage.checkForUpdates.checking     "Mencari versi baru…">
 <!ENTITY aboutPage.checkForUpdates.none         "Versi baru tidak tersedia">
 <!ENTITY aboutPage.checkForUpdates.available2   "Unduh versi baru">
-<!ENTITY aboutPage.checkForUpdates.downloading  "Mengunduh versi baru">
+<!ENTITY aboutPage.checkForUpdates.downloading  "Mengunduh versi baru…">
 <!ENTITY aboutPage.checkForUpdates.downloaded2  "Instal versi baru">
 <!ENTITY aboutPage.faq.label                    "TanyaJawab">
 <!ENTITY aboutPage.support.label                "Layanan Dukungan">
