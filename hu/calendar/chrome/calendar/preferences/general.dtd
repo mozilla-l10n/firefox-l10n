@@ -13,6 +13,10 @@
 <!ENTITY pref.dateformat.long "Hosszú" >
 <!ENTITY pref.dateformat.short "Rövid"  >
 
+<!ENTITY pref.timezones.caption "Időzóna">
+
+
+
 <!ENTITY pref.defaults.label "Alapértelmezett értékek új elemekhez">
 <!ENTITY pref.events.label "Események">
 <!ENTITY pref.tasks.label "Feladatok">

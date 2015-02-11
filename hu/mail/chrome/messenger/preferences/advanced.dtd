@@ -16,6 +16,8 @@
 <!ENTITY enableGlodaSearch.label       "Globális keresés és indexelő engedélyezése">
 <!ENTITY enableGlodaSearch.accesskey   "G">
 
+
+
 <!ENTITY scrolling.label               "Görgetés">
 <!ENTITY useAutoScroll.label           "Automatikus görgetés">
 <!ENTITY useAutoScroll.accesskey       "u">

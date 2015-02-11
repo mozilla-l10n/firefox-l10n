@@ -24,6 +24,8 @@
 <!ENTITY contextBeforeCls.label "Szűrés a levélszemét keresése előtt">
 <!ENTITY contextAfterCls.label "Szűrés a levélszemét keresése után">
 
+
+
 <!ENTITY filterActionDesc.label "Műveletek végrehajtása:">
 <!ENTITY filterActionDesc.accesskey "v">
 
