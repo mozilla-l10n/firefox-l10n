@@ -1,0 +1,10 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY aboutAccounts.welcome "A jaɓɓaama e &syncBrand.shortName.label;">
+
+<!ENTITY aboutAccountsConfig.description "Winndito ngam syncude tabbe, maantore, finndeeji ekn.">
+<!ENTITY aboutAccountsConfig.startButton.label "Fuɗɗo ɗoo">
+<!ENTITY aboutAccountsConfig.useOldSync.label "Kuutorto-ɗaa ko yamre Sync ɓooynde?">
+<!ENTITY aboutAccountsConfig.manage.label "Toppito">
