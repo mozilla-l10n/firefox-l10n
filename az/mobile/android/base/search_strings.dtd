@@ -12,9 +12,11 @@
 
 <!ENTITY pref_clearHistory_confirmation "Tarixçə təmizləndi">
 
+<!ENTITY pref_clearHistory_title "Axtarış keçmişini təmizlə">
 
-
+<!ENTITY pref_searchProvider_title "Axtarış mühərriki">
 
 <!ENTITY search_widget_button_label "Axtar">
 
-
+<!ENTITY network_error_title "İnternet bağlantısı yoxdur">
+<!ENTITY network_error_message "Şəbəkə tənzimləmələriniz üçün buraya toxunun">
