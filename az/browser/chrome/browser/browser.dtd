@@ -480,8 +480,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisLinkCmd.accesskey  "K">
 <!ENTITY bookmarkThisFrameCmd.label      "Bu Çərçivəni Əlfəcinlə">
 <!ENTITY bookmarkThisFrameCmd.accesskey  "Ə">
-<!ENTITY emailPageCmd.label           "Bağlantını e-poçt ilə göndər…">
-<!ENTITY emailPageCmd.accesskey       "B">
+<!ENTITY emailPageCmd.label           "Keçidi e-poçt ilə göndər…">
+<!ENTITY emailPageCmd.accesskey       "K">
 <!ENTITY savePageCmd.label            "Fərqli saxla…">
 <!ENTITY savePageCmd.accesskey        "s">
 <!-- alternate for content area context menu -->
@@ -511,8 +511,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY playPluginCmd.accesskey      "a">
 <!ENTITY hidePluginCmd.label          "Bu qoşmanı gizlət">
 <!ENTITY hidePluginCmd.accesskey      "g">
-<!ENTITY copyLinkCmd.label            "Bağlantı ünvanını kopyala">
-<!ENTITY copyLinkCmd.accesskey        "B">
+<!ENTITY copyLinkCmd.label            "Keçid ünvanını köçür">
+<!ENTITY copyLinkCmd.accesskey        "K">
 <!ENTITY copyImageCmd.label           "Şəkil ünvanını kopyala">
 <!ENTITY copyImageCmd.accesskey       "k">
 <!ENTITY copyImageContentsCmd.label   "Şəkili kopyala">

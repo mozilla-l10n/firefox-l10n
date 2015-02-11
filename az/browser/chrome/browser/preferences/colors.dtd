@@ -22,8 +22,8 @@
 
 <!ENTITY  underlineLinks.label            "Bağlantıların altını xətlə">
 <!ENTITY  underlineLinks.accesskey        "ı">
-<!ENTITY  links                           "Bağlantı rəngləri">
-<!ENTITY  linkColor.label                 "Baxılmamış bağlantılar:">
-<!ENTITY  linkColor.accesskey             "l">
-<!ENTITY  visitedLinkColor.label          "Baxılmış bağlantılar:">
+<!ENTITY  links                           "Keçid rəngləri">
+<!ENTITY  linkColor.label                 "Baxılmamış keçidlər:">
+<!ENTITY  linkColor.accesskey             "k">
+<!ENTITY  visitedLinkColor.label          "Baxılmış keçidlər:">
 <!ENTITY  visitedLinkColor.accesskey      "B">

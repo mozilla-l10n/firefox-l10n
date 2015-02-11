@@ -31,7 +31,7 @@ file names and tall enough to hint that there are more downloads in the list -->
 <!ENTITY cmd.retry.accesskey              "R">
 <!ENTITY cmd.goToDownloadPage.label       "Yükləmə səhifəsini aç">
 <!ENTITY cmd.goToDownloadPage.accesskey   "G">
-<!ENTITY cmd.copyDownloadLink.label       "Endirmə Keçidini Kopyala">
+<!ENTITY cmd.copyDownloadLink.label       "Endirmə Keçidini Köçür">
 <!ENTITY cmd.copyDownloadLink.accesskey   "K">
 <!ENTITY cmd.removeFromList.label         "Siyahıdan sil">
 <!ENTITY cmd.removeFromList.accesskey     "e">
