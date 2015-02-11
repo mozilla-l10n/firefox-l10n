@@ -1,6 +1,7 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+<!ENTITY aboutPage.title                        "&brandShortName; Haqqında">
 <!ENTITY aboutPage.warningVersion               "&brandShortName; eksperimentaldır və qərarsız ola bilər.">
 
 <!ENTITY aboutPage.telemetryMozillaLink         "&vendorShortName; ">
@@ -15,7 +16,7 @@
 
 <!ENTITY aboutPage.privacyPolicy.label          "Gizlilik Razılaşması">
 <!ENTITY aboutPage.rights.label                 "Haqlarınızı bilin…">
-<!ENTITY aboutPage.relNotes.label               "versiya qeydləri">
+<!ENTITY aboutPage.relNotes.label               "Buraxılış qeydləri">
 
 <!ENTITY aboutPage.license.label                "Lisenziya məlumatlarını">
 <!-- LOCALIZATION NOTE (aboutPage.logoTrademark): The message is explicitly about the word "Firefox" being trademarked, that's why we use it, instead of brandShortName. -->
