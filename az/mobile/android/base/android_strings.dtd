@@ -6,7 +6,7 @@
 <!ENTITY  no_space_to_start_error "&brandShortName; səyyahının başladılması üçün yetərli boş yaddaş yoxdur.">
 <!ENTITY  error_loading_file "&brandShortName; başladılması üçün zəruri olan faylların yüklənilməsi zamanı xəra baş verdi.">
 
-<!ENTITY  onboard_start_message "&brandShortName;-a xoş gəlmisiniz!">
+<!ENTITY  onboard_start_message "&brandShortName; səyyahına xoş gəlmisiniz!">
 <!ENTITY  onboard_start_subtext "Sizin, gizliliyiniz və Açıq Web üçün varıq">
 <!ENTITY  onboard_start_button_account "&brandShortName;-a daxil olun">
 <!ENTITY  onboard_start_button_browser "Səyahətə başla">
@@ -116,7 +116,7 @@
 <!ENTITY overlay_share_select_device "Cihaz seçin">
 
 <!ENTITY pref_category_search3 "Axtar">
-<!ENTITY pref_category_search_summary "Axtarış provayderinizi xüsusiləşdirin">
+<!ENTITY pref_category_search_summary "Axtarış sistemini xüsusiləşdirin">
 <!ENTITY pref_category_display "Görünüş">
 <!ENTITY pref_category_display_summary "Mətn, başlıq sətri, tam ekranda səyahət">
 <!ENTITY pref_category_privacy_short "Məxfilik">
@@ -305,7 +305,7 @@ size. -->
 
 <!ENTITY find_text "Səhifədə tap">
 <!ENTITY find_prev "Əvvəlkini tap">
-<!ENTITY find_next "Növbətini tap">
+<!ENTITY find_next "İrəli">
 <!ENTITY find_close "Bağla">
 <!-- Localization note (media_sending_to, media_play, media_pause, media_stop) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
@@ -385,7 +385,7 @@ size. -->
      with the page title defined in aboutHome.dtd -->
 
 <!ENTITY home_title "&brandShortName; Ana Səhifə">
-
+<!ENTITY home_history_title "Tarixçə">
 
 
 

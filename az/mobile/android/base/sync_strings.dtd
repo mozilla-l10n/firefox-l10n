@@ -5,7 +5,7 @@
      a better place to live. -->
 
 <!ENTITY syncBrand.fullName.label "Firefox Sinxronlaşdırma">
-<!ENTITY syncBrand.shortName.label "Eşitle">
+<!ENTITY syncBrand.shortName.label "Sync">
 <!-- Main titles. -->
 <!ENTITY sync.title.connect.label "&syncBrand.shortName.label; bağlanılıb…">
 
@@ -51,7 +51,7 @@
 
 
 
-
+<!ENTITY sync.configure.engines.title.history "Tarixçə">
 <!ENTITY sync.configure.engines.title.tabs "Vərəqlər">
 <!-- Common text -->
 
@@ -95,9 +95,9 @@
      user for an email address and password. Hide and show are button
      labels. -->
 
-<!ENTITY fxaccount_email_hint "E-posta">
+<!ENTITY fxaccount_email_hint "E-poçt">
 
-
+<!ENTITY fxaccount_password_hide "Gizlət">
 <!ENTITY fxaccount_password_show "Göstər">
 <!-- Localization note: these are shown in screens after the user has
      created or signed in to an account, and take the user back to
@@ -118,7 +118,7 @@
 
 
 <!-- Localization note: &formatS1; is fxaccount_policy_linktos, &formatS2; is fxaccount_policy_linkprivacy, both hyperlinked. -->
-<!ENTITY fxaccount_create_account_button "Növbətini tap">
+<!ENTITY fxaccount_create_account_button "İrəli">
 
 
 
@@ -166,7 +166,7 @@
 
 
 
-
+<!ENTITY fxaccount_status_history "Tarixçə">
 
 
 
