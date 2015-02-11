@@ -11,7 +11,7 @@
 
 <!ENTITY sync.syncNow               "İndi sinxronizasiya et">
 
-
+<!ENTITY sync.setup.pair            "Aktivləşdirmək üçün, digər cihazınızda &quot;Cihaz Qoş&quot; seçin.">
 
 
 
@@ -25,6 +25,6 @@
 
 
 <!ENTITY sync.pair.title            "Cihazları sinxronizasiya et">
-
+<!ENTITY sync.pair.description      "Yeni cihazınızı aktivləşdirmək üçün, digər cihazdan &quot;Sync Quraşdır&quot; seçin.">
 <!ENTITY sync.setup.close           "Kapat">
 

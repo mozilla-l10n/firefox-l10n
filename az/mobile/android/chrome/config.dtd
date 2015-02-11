@@ -15,4 +15,4 @@
 <!ENTITY newPref.cancelButton          "ləğv et">
 
 <!ENTITY contextMenu.copyPrefName      "Adı köçür">
-
+<!ENTITY contextMenu.copyPrefValue     "Dəyəri köçür">
