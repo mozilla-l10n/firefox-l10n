@@ -136,3 +136,8 @@
 <!ENTITY devicesetting_addnew "Añadir nueva configuración">
 <!ENTITY monitor_title "Monitor">
 <!ENTITY monitor_help "Ayuda">
+<!ENTITY wifi_auth_header "Identificación del cliente">
+<!ENTITY wifi_auth_scan_request "El extremo al que se está conectando necesita más información para identificar esta conexión. Analice el código QR de debajo mediante la solicitud que tiene en su otro dispositivo.">
+<!ENTITY wifi_auth_no_scanner "¿No dispone de analizador QR?">
+<!ENTITY wifi_auth_yes_scanner "¿Tiene un analizador QR?">
+<!ENTITY wifi_auth_token_request "Si su otro dispositivo solicita un token en lugar de analizar un código QR, copie el valor de debajo en el otro dispositivo:">
