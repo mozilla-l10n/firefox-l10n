@@ -5,8 +5,7 @@
 <!ENTITY addons.windowTitle                   "Dodatki">
 
 <!ENTITY search.placeholder                   "Szukaj we wszystkich dodatkach">
-<!-- LOCALIZATION NOTE (search.commandKey):
-     The search command key should match findOnCmd.commandkey from browser.dtd -->
+<!ENTITY search.buttonlabel "Szukaj">
 <!ENTITY search.commandkey                    "f">
 
 <!ENTITY loading.label                        "Wczytywanie…">
