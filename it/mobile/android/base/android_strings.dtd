@@ -191,7 +191,7 @@
 <!ENTITY datareporting_crashreporter_summary "Invia a &vendorShortName; segnalazioni relative ad arresti anomali di &brandShortName; per migliorarne la stabilità e la sicurezza">
 <!ENTITY datareporting_crashreporter_title_short "Crash Reporter">
 <!ENTITY datareporting_wifi_title2 "Georilevazione di &vendorShortName;">
-<!ENTITY datareporting_wifi_geolocation_summary2 "Condividi con &vendorShortName; la posizione approssimativa all’interno delle reti Wi-Fi e cellulare per migliorare i servizi di georilevazione.">
+<!ENTITY datareporting_wifi_geolocation_summary3 "Aiuta &vendorShortName; a creare una mappa del mondo. Condividi la posizione approssimativa del tuo dispositivo all’interno delle reti Wi-Fi e cellulare per migliorare i nostri servizi di georilevazione.">
 <!ENTITY pref_update_autodownload2 "Scarica aggiornamenti">
 <!ENTITY pref_update_autodownload_wifi "Solo con Wi-Fi">
 <!ENTITY pref_update_autodownload_never "Mai">
