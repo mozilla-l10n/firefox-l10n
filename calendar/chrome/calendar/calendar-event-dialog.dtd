@@ -264,6 +264,7 @@
 <!ENTITY event.recurrence.pattern.yearly.week.5.label "giovedì">
 <!ENTITY event.recurrence.pattern.yearly.week.6.label "venerdì">
 <!ENTITY event.recurrence.pattern.yearly.week.7.label "sabato">
+<!ENTITY event.recurrence.pattern.yearly.day.label "giorno">
 <!ENTITY event.recurrence.of.label "di">
 <!ENTITY event.recurrence.pattern.yearly.month2.1.label "Gennaio">
 <!ENTITY event.recurrence.pattern.yearly.month2.2.label "Febbraio">
