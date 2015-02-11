@@ -135,6 +135,7 @@
      search providers.
      The &formatI; in the string will be replaced by a small image of the icon described, and can be moved to wherever
      it is applicable. -->
+<!ENTITY pref_search_hint "MƏSLƏHƏT: Hər-hansı bir saytı axtarış mühərrikləriniz siyahısına əlavə etmək üçün onun axtarış yerinə basılı tutun və daha sonra &formatI; ikonuna basın.">
 <!ENTITY pref_category_devtools "Tərtibatçı alətləri">
 <!ENTITY pref_category_devtools_summary "Uzaqdan sazlama, paint flashing">
 <!ENTITY pref_developer_paint_flashing "Paint flashing">
@@ -172,8 +173,8 @@
 <!ENTITY pref_cookies_disabled "Söndürülüb">
 
 <!ENTITY pref_tracking_protection_title "İzlənmə qoruması">
-
-
+<!ENTITY pref_tracking_protection_summary "&brandShortName; saytların sizi izləməsinin qarşısını alacaq">
+<!ENTITY pref_donottrack_title "Məni izləmə">
 <!ENTITY pref_donottrack_summary "&brandShortName; saytlara izlənmək istəmədiyinizi xəbər edəcək">
 
 <!ENTITY pref_char_encoding_on "Menyunu göstər">
@@ -192,7 +193,7 @@
 
 <!ENTITY pref_restore_always "Həmişə bərpa et">
 <!ENTITY pref_restore_quit "&brandShortName; səyyahından çıxdıqdan sonra bərpa etmə">
-
+<!ENTITY pref_font_size_tiny "Bambalaca">
 
 
 <!ENTITY pref_font_size_large "Böyük">
@@ -246,8 +247,8 @@ size. -->
 <!ENTITY datareporting_notification_action_long "Hansı məlumatların paylaşılacağını seçin">
 <!ENTITY datareporting_notification_action "Nəyi paylaşacağınızı seçin">
 <!ENTITY datareporting_notification_summary "Sizin təcrübənizi artırmaq üçün &brandShortName; bəzi məlumatları avtomatik olaraq &vendorShortName;-a göndərir.">
-<!ENTITY datareporting_notification_summary_short "Təcrübənizi artırmaq üçün &brandShortName;...">
-
+<!ENTITY datareporting_notification_summary_short "Təcrübənizi artırmaq üçün &brandShortName;…">
+<!ENTITY datareporting_notification_ticker_text "&datareporting_notification_title;: &datareporting_notification_action_long;">
 <!-- Localization note (datareporting_fhr_title, datareporting_fhr_summary2,
      reporting_telemetry_title, datareporting_telemetry_summary,
      datareporting_crashreporter_summary) : These match the strings in
@@ -256,9 +257,9 @@ size. -->
      crashReporterDesc.label). -->
 
 <!ENTITY datareporting_fhr_title "&brandShortName; Sağlamlıq Hesabatı">
-
+<!ENTITY datareporting_fhr_summary2 "Səyyahınızın sağlamlığı ilə bağlı məlumatları &vendorShortName; ilə paylaşır və səyyahınızın məhsuldarlığını başa düşməyinizə kömək edir">
 <!ENTITY datareporting_abouthr_title "Mənim sağlamlıq hesabatımı göstər">
-
+<!ENTITY datareporting_telemetry_title "Telemetriya">
 
 
 <!-- Localization note (datareporting_crashreporter_title_short) : This string matches
