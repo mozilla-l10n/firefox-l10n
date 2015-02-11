@@ -1,0 +1,19 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY aboutPrivateBrowsing.title            "Ngon-ɗaa ko e banngagol suturo">
+<!ENTITY aboutPrivateBrowsing.title.normal     "Uddit e henorde suuriinde?">
+
+<!ENTITY aboutPrivateBrowsing.subtitle         "&brandShortName; mooftoytaa hay aslol e ndee henorde.">
+<!ENTITY aboutPrivateBrowsing.subtitle.normal  "&brandShortName; mooftoytaa hay aslol e ndee henorde suuriinde.">
+
+<!ENTITY aboutPrivateBrowsing.description      "Ena jeyaa heen alsol banngagol, aslol njiilaw, aslol gaawte, aslol formere geese, kukiije walla pille enternet ɓadiiɗe. Kono piille ɗe ngaawti-ɗaa e maantore ɗe mbaɗ-ɗaa maa moofte.">
+
+<!ENTITY aboutPrivateBrowsing.notPrivate       "A wonaani e henorde suuriinde e oo sahaa.">
+
+<!ENTITY aboutPrivateBrowsing.moreInfo         "Goonga ndee ordinateer mooftaani aslol peeragol maa, jeeyoowo ceŋe enternet maa walla ligginoowo-ma ena waawi rewindaade kelle ɗe njilloto-ɗaa.">
+<!ENTITY aboutPrivateBrowsing.learnMore        "Ɓeydu Humpito.">
+
+<!ENTITY privatebrowsingpage.openPrivateWindow.label "Uddit Henorde Suuriinde">
+<!ENTITY privatebrowsingpage.openPrivateWindow.accesskey "S">
