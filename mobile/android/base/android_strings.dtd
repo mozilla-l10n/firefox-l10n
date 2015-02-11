@@ -190,7 +190,7 @@
 <!ENTITY datareporting_crashreporter_summary "&brandShortName; envía informes de fallo para ayudar a &vendorShortName; a crear un navegador más estable y seguro">
 <!ENTITY datareporting_crashreporter_title_short "Informe de fallos">
 <!ENTITY datareporting_wifi_title2 "Servicio de localización de &vendorShortName;">
-<!ENTITY datareporting_wifi_geolocation_summary2 "Comparte la ubicación aproximada en redes wifi y móviles de su dispositivo con &vendorShortName; para mejorar su servicio de geolocalización">
+<!ENTITY datareporting_wifi_geolocation_summary3 "¡Ayude a &vendorShortName; a mapear el mundo! Comparta la ubicación aproximada wifi o móvil de su dispositivo para ayudar a mejorar nuestro servicio de geolocalización">
 <!ENTITY pref_update_autodownload2 "Descargar actualizaciones automáticamente">
 <!ENTITY pref_update_autodownload_wifi "Sólo bajo Wi-Fi">
 <!ENTITY pref_update_autodownload_never "Nunca">
@@ -363,5 +363,10 @@
 <!ENTITY colon ":">
 <!ENTITY actionbar_menu "Menú">
 <!ENTITY actionbar_done "Terminar">
+<!ENTITY voicesearch_prompt "Hable ahora">
+<!ENTITY voicesearch_failed_title "Búsqueda con voz de &brandShortName;">
+<!ENTITY voicesearch_failed_message "En este momento hay un problema con la búsqueda con voz. Vuelva a intentarlo más tarde.">
+<!ENTITY voicesearch_failed_message_recoverable "¡Lo sentimos! No hemos podido reconocer sus palabras. Vuelva a intentarlo.">
+<!ENTITY voicesearch_failed_retry "Vuelva a intentarlo">
 <!ENTITY remote_tabs_last_synced "Última sincr.: &formatS;">
 <!ENTITY find_matchcase "Aa">

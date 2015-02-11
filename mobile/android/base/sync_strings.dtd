@@ -88,6 +88,8 @@
 <!ENTITY fxaccount_getting_started_old_firefox "¿Usa una versión antigua de &syncBrand.shortName.label;?">
 <!ENTITY fxaccount_create_account_header2 "Crear una cuenta de Firefox">
 <!ENTITY fxaccount_create_account_password_length_restriction "Debe tener al menos 8 caracteres">
+<!ENTITY fxaccount_create_account_day_of_birth "Día">
+<!ENTITY fxaccount_create_account_month_of_birth "Mes">
 <!ENTITY fxaccount_create_account_year_of_birth "Año de nacimiento">
 <!ENTITY fxaccount_create_account_policy_text2 "Al continuar, acepto los &formatS1; y el &formatS2; de los servicios en la nube de Firefox.">
 <!ENTITY fxaccount_create_account_button "Siguiente">
