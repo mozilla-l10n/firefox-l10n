@@ -291,7 +291,7 @@
 <!ENTITY event.recurrence.pattern.yearly.month.9.label       "september" >
 <!ENTITY event.recurrence.pattern.yearly.month.10.label      "oktober" >
 <!ENTITY event.recurrence.pattern.yearly.month.11.label      "november" >
-<!ENTITY event.recurrence.pattern.yearly.month.12.label      "ddecember" >
+<!ENTITY event.recurrence.pattern.yearly.month.12.label      "december" >
 <!ENTITY event.recurrence.yearly.every.label                 "Vsak">
 <!ENTITY event.recurrence.yearly.first.label                 "Prvi">
 <!ENTITY event.recurrence.yearly.second.label                "Drugi">
