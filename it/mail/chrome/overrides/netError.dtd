@@ -46,7 +46,7 @@
 <!ENTITY netOffline.title "Non in linea">
 <!ENTITY netOffline.longDesc2 "
 <ul>
-  <li>Premere &quot;Riprovare&quot; per passare alla modalità online e ricaricare la pagina.</li>
+  <li>Premere &quot;Riprovare&quot; per passare alla modalità in linea e ricaricare la pagina.</li>
 </ul>
 ">
 <!ENTITY contentEncodingError.title "Errore di codifica del contenuto">
