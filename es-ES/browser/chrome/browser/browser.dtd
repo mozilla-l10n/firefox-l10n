@@ -567,10 +567,6 @@
 <!ENTITY pluginActivateAlways.label "Permitir y recordar">
 <!ENTITY pluginBlockNow.label "Bloquear plugin">
 <!ENTITY pluginNotification.width "28em">
-<!ENTITY tabCrashed.header "La pestaña ha tenido un error">
-<!ENTITY tabCrashed.message "Esto es embarazoso. Hemos intentado mostrar esta página web, pero no está respondiendo.">
-<!ENTITY tabCrashed.checkSendReport "Informar a &vendorShortName; sobre este fallo para que puedan arreglarlo.">
-<!ENTITY tabCrashed.tryAgain "Reintentar">
 <!ENTITY uiTour.infoPanel.close "Cerrar">
 <!ENTITY appMenuSidebars.label "Barras laterales">
 <!ENTITY switchToMetroCmd2.label "Relanzar en &brandShortName; para Windows 8 táctil">
