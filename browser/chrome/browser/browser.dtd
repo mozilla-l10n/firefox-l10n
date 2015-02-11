@@ -13,7 +13,7 @@
 <!ENTITY mainWindow.titlemodifiermenuseparator " - ">
 <!-- LOCALIZATION NOTE (mainWindow.titlePrivateBrowsingSuffix): This will be appended to the window's title
                                                                 inside the private browsing mode -->
-<!ENTITY mainWindow.titlePrivateBrowsingSuffix "(Потайливий режим)">
+<!ENTITY mainWindow.titlePrivateBrowsingSuffix "(Приватний перегляд)">
 
 <!ENTITY appmenu.tooltip                     "Відкрити меню">
 <!ENTITY navbarOverflow.label                "Інші інструменти…">
@@ -301,7 +301,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY newNavigatorCmd.label        "Нове вікно">
 <!ENTITY newNavigatorCmd.key        "N">
 <!ENTITY newNavigatorCmd.accesskey      "Н">
-<!ENTITY newPrivateWindow.label     "Нове потайливе вікно">
+<!ENTITY newPrivateWindow.label     "Нове приватне вікно">
 <!ENTITY newPrivateWindow.accesskey "в">
 
 <!ENTITY editMenu.label         "Правка"> 
@@ -435,7 +435,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openLinkCmdInTab.accesskey   "л">
 <!ENTITY openLinkCmd.label            "Відкрити посилання в новому вікні">
 <!ENTITY openLinkCmd.accesskey        "к">
-<!ENTITY openLinkInPrivateWindowCmd.label "Відкрити у новому потайливому вікні">
+<!ENTITY openLinkInPrivateWindowCmd.label "Відкрити у новому приватному вікні">
 <!ENTITY openLinkInPrivateWindowCmd.accesskey "P">
 <!ENTITY openLinkCmdInCurrent.label     "Відкрити посилання">
 <!ENTITY openLinkCmdInCurrent.accesskey "В">
