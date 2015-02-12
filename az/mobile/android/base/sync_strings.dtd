@@ -75,7 +75,7 @@
 <!ENTITY bookmarks.folder.unfiled.label "Sıralanmamış əlfəçinlər">
 
 <!ENTITY bookmarks.folder.mobile.label "Mobil Əlfəçinlər">
-<!ENTITY bookmarks.folder.readinglist.label "Oxuma siyahısı">
+<!ENTITY bookmarks.folder.readinglist.label "Oxuma Siyahısı">
 <!-- Pinned sites on about:home. This folder should never be shown to the user, but we have to give it a string name -->
 <!-- Notification strings -->
 
@@ -104,6 +104,8 @@
 <!-- Localization note: these are shown in screens after the user has
      created or signed in to an account, and take the user back to
      Firefox. -->
+
+<!ENTITY fxaccount_back_to_browsing "Səyahətə qayıt">
 <!-- Localization note: the following two strings are interpolated
      into fxaccount_create_account_policy_text2; see note for that
      string as well.  Compare fxaccount_status_{linktos,linkprivacy}:
@@ -206,8 +208,8 @@
 
 
 
-
-
+<!ENTITY fxaccount_remote_error_UNKNOWN_ERROR "Problem baş verdi">
+<!ENTITY fxaccount_remote_error_COULD_NOT_CONNECT "İnternetə qoşula bilmir">
 
 
 <!-- Localization note: the format string below will be replaced

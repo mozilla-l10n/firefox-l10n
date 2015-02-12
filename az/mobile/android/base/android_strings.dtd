@@ -15,7 +15,7 @@
 
 <!ENTITY  bookmarks_title "Əlfəcinlər">
 <!ENTITY  history_title "Tarixçə">
-<!ENTITY  reading_list_title "Oxuma siyahısı">
+<!ENTITY  reading_list_title "Oxuma Siyahısı">
 <!ENTITY  recent_tabs_title "Son vərəqlər">
 
 <!ENTITY  switch_to_tab "Vərəqə keç">
@@ -57,7 +57,7 @@
 <!ENTITY reload "Yenilə">
 <!ENTITY forward "İrəli">
 <!ENTITY menu "Menyu">
-<!ENTITY back "Geri qayıt">
+<!ENTITY back "Geri">
 <!ENTITY stop "Dayandır">
 <!ENTITY site_security "Sayt Təhlükəsizliyi">
 <!ENTITY edit_mode_cancel "Ləğv et">
@@ -101,9 +101,9 @@
      "to bookmark", not the noun "a bookmark". -->
 
 <!ENTITY overlay_share_bookmark_btn_label "Əlfəcin">
-<!ENTITY overlay_share_reading_list_btn_label "Oxunacaqlar siyahısına əlavə et">
+<!ENTITY overlay_share_reading_list_btn_label "Oxuma Siyahısına əlavə et">
 <!ENTITY overlay_share_bookmark_btn_label_already "Artıq əlfəcinlərdədir">
-<!ENTITY overlay_share_reading_list_btn_label_already "Artıq oxunacaqlar siyahısındadır">
+<!ENTITY overlay_share_reading_list_btn_label_already "Artıq Oxuma Siyahısındadır">
 <!ENTITY overlay_share_send_other "Başqa cihazlara göndər">
 <!-- Localization note (overlay_share_send_tab_btn_label) : Used on the
      share overlay menu to represent the "Send Tab" action when the user
@@ -362,11 +362,14 @@ size. -->
 <!ENTITY site_settings_clear        "Təmizlə">
 <!ENTITY site_settings_no_settings  "Silinəcək tənzimləmə yoxdur.">
 
-
+<!ENTITY reading_list_added "Səhifə Oxuma Siyahınıza əlavə edildi">
+<!ENTITY reading_list_duplicate "Səhifə artıq Oxuma Siyahınızdadır">
 <!-- Localization note (reading_list_time_minutes2) : This string is used in the "Reading List"
      panel on the home page to give the user an estimate of how many minutes it will take to
      read an article. The word "minute" should be abbreviated if possible. -->
 
+<!ENTITY reading_list_time_minutes2 "&formatD; dəq">
+<!ENTITY reading_list_time_over_an_hour "Bir saatdan çox">
 <!-- Localization note : These strings are used as alternate text for accessibility.
      They are not visible in the UI. -->
 
@@ -394,10 +397,10 @@ size. -->
 
 <!ENTITY home_title "&brandShortName; Ana Səhifə">
 <!ENTITY home_history_title "Tarixçə">
-
-
-
-
+<!ENTITY home_clear_history_button "Səyahət keçmişini təmizlə">
+<!ENTITY home_clear_history_confirm "Keçmişi təmizləmək istədiyinizə əminsiniz?">
+<!ENTITY home_bookmarks_empty "Saxladığınız əlfəcinlər burada görünür.">
+<!ENTITY home_closed_tabs_title "Yaxında qapatılmış vərəqlər">
 <!ENTITY home_last_tabs_title "Son ziyarətdəki vərəqlər">
 <!ENTITY home_last_tabs_empty "Son vərəqləriniz burada görünür.">
 <!ENTITY home_open_all "Hamısını aç">
