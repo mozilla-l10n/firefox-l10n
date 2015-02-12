@@ -11,7 +11,7 @@
 
 
 <!ENTITY connectionFailure.title "Əlaqə cəhdi uğursuz oldu">
-
+<!ENTITY connectionFailure.longDesc2 "&sharedLongDesc3;">
 
 <!ENTITY deniedPortAccess.title "Təhlükəsizlik üçün bağlantı nöqtəsi bağlıdır">
 <!ENTITY deniedPortAccess.longDesc "">
@@ -25,14 +25,14 @@
 
 
 <!ENTITY generic.title "İstək yerinə yetirilə bilmir">
-
+<!ENTITY generic.longDesc "<p>&brandShortName; bəzi səbəblərə görə bu səhifəni aça bilmir.</p>">
 
 <!ENTITY malformedURI.title "Yanlış ünvan">
 <!-- LOCALIZATION NOTE (malformedURI.longDesc2) This string contains markup including widgets for searching
      or enabling wifi connections. The text inside the tags should be localized. Do not touch the ids. -->
 
 <!ENTITY netInterrupt.title "Məlumat ötürmə xətası">
-
+<!ENTITY netInterrupt.longDesc2 "&sharedLongDesc3;">
 
 <!ENTITY notCached.title "Sənədin vaxtı çıxıb">
 <!ENTITY notCached.longDesc "<p>İstədiyiniz sənəd brauzerin yaddaşında mövcud deyil.</p><ul><li>Təhlükəsizlik tədbiri olaraq, brauzeriniz həssas sənədləri avtomatik olaraq yenidən istəmir.</li><li>Sənədi web saytdan yenidən istəmək üçün, Təkrar yoxla düyməsinə vurun.</li></ul>">
@@ -52,10 +52,10 @@
 </ul>">
 
 <!ENTITY netReset.title "Bağlantı kəsildi">
-
+<!ENTITY netReset.longDesc2 "&sharedLongDesc3;">
 
 <!ENTITY netTimeout.title "Şəbəkə gözləmə müddəti">
-
+<!ENTITY netTimeout.longDesc2 "&sharedLongDesc3;">
 
 <!ENTITY unknownProtocolFound.title "Baməlum əlaqə protokolu">
 <!ENTITY unknownProtocolFound.longDesc "<ul> 

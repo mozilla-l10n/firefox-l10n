@@ -152,14 +152,14 @@
 
 
 
-
+<!ENTITY fxaccount_status_signed_in_as "Daxil olan">
 
 
 
 <!ENTITY fxaccount_status_device_name "Cihaz adı">
 
-
-
+<!ENTITY fxaccount_status_sync "&syncBrand.shortName.label;">
+<!ENTITY fxaccount_status_sync_enabled "&syncBrand.shortName.label;: aktivdir">
 
 
 
