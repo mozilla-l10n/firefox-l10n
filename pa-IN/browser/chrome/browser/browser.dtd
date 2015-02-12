@@ -433,6 +433,11 @@ can reach it easily. -->
      search providers:  "Search for <used typed keywords> with:" -->
 <!ENTITY searchFor.label              "ਖੋਜ ">
 <!ENTITY searchWith.label             " ਇਸ ਨਾਲ:">
+<!-- LOCALIZATION NOTE (searchWithHeader.label):
+     The wording of this string should be as close as possible to
+     searchFor.label and searchWith.label. This string will be used instead of
+     them when the user has not typed any keyword. -->
+<!ENTITY searchWithHeader.label       "ਇਸ ਨਾਲ ਖੋਜੋ:">
 <!ENTITY changeSearchSettings.button  "ਖੋਜ ਸੈਟਿੰਗ ਬਦਲੋ">
 
 
