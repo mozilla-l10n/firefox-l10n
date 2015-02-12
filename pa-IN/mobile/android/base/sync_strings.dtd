@@ -168,6 +168,9 @@
 <!ENTITY fxaccount_confirm_account_change_email 'ਕੀ ਇਹ ਈਮੇਲ ਸਿਰਨਾਵਾਂ ਭੁੱਲ ਗਏ ਹੋ?'>
 <!ENTITY fxaccount_confirm_account_verification_link_sent2 'ਜਾਂਚ ਈਮੇਲ ਭੇਜੀ ਗਈ '>
 <!ENTITY fxaccount_confirm_account_verification_link_not_sent2 'ਜਾਂਚ ਈਮੇਲ ਭੇਜੀ ਨਹੀਂ ਜਾ ਸਕੀ'>
+<!ENTITY fxaccount_resend_unlock_code_button_label 'Resend unlock email'>
+<!ENTITY fxaccount_unlock_code_sent 'Account unlock email sent'>
+<!ENTITY fxaccount_unlock_code_not_sent 'Couldn\&apos;t send account unlock email'>
 
 <!ENTITY fxaccount_sign_in_sub_header 'ਸਾਇਨ ਇਨ'>
 <!ENTITY fxaccount_sign_in_button_label 'ਸਾਇਨ ਇਨ'>
@@ -178,9 +181,15 @@
 <!ENTITY fxaccount_account_verified_sub_header 'ਜਾਂਚ ਕੀਤਾ ਖਾਤਾ'>
 <!ENTITY fxaccount_account_verified_description2 'ਤੁਹਾਡਾ ਡਾਟਾ ਕੁਝ ਕੁ ਪਲ਼ਾ ਵਿੱਚ ਸਿੰਕ ਹੋਣਾ ਸ਼ੁਰੂ ਹੋਵੇਗਾ।'>
 
+<!ENTITY fxaccount_migration_finished_header 'Upgrade finished'>
+
 <!ENTITY fxaccount_update_credentials_header 'ਸਾਇਨ ਇਨ'>
 <!ENTITY fxaccount_update_credentials_button_label 'ਸਾਇਨ ਇਨ'>
 <!ENTITY fxaccount_update_credentials_unknown_error 'ਸਾਇਨ ਇਨ ਨਹੀਂ ਕੀਤਾ ਜਾ ਸਕਿਆ'>
+
+<!ENTITY fxaccount_finish_migrating_header 'Sign in to finish upgrading'>
+<!ENTITY fxaccount_finish_migrating_button_label 'Finish upgrading'>
+<!ENTITY fxaccount_finish_migrating_description 'Upgrading can transfer a lot of data. It\&apos;s best to be on a WiFi network.'>
 
 <!ENTITY fxaccount_status_header2 'ਫਾਇਰਫਾਕਸ ਖਾਤਾ'>
 <!ENTITY fxaccount_status_signed_in_as 'ਸਾਇਨ ਇਨ ਕੀਤਾ'>
@@ -196,6 +205,8 @@
 <!ENTITY fxaccount_status_needs_upgrade 'ਤੁਹਾਨੂੰ ਸਾਇਨ ਇਨ ਕਰਨ ਲਈ &brandShortName; ਅੱਪਗਰੇਡ ਕਰਨ ਦੀ ਲੋੜ ਹੈ।'>
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled '&syncBrand.shortName.label; ਤਿਆਰ ਹੈ, ਪਰ ਆਪਣੇ-ਆਪ ਸਿੰਕ ਨਹੀਂ ਕਰ ਰਿਹਾ ਹੈ। ਐਂਡਰਾਇਡ ਸੈਟਿੰਗ &gt; ਡਾਟਾ ਵਰਤੋਂ ਵਿੱਚੋਂ “ਆਟੋ-ਸਿੰਕ ਡਾਟਾ” ਨੂੰ ਚਾਲੂ ਕਰੋ।'>
 <!ENTITY fxaccount_status_needs_account_enabled '&syncBrand.shortName.label; ਤਿਆਰ ਹੈ, ਪਰ ਆਪਣੇ-ਆਪ ਸਿੰਕ ਨਹੀਂ ਕਰ ਰਿਹਾ ਹੈ। ਸਿੰਕ ਕਰਨਾ ਸ਼ੁਰੂ ਕਰਨ ਲਈ ਛੂਹੋ।'>
+<!ENTITY fxaccount_status_needs_master_sync_automatically_enabled_v21 '&syncBrand.shortName.label; is set up, but not syncing automatically. Toggle “Auto-sync data” in the menu of Android Settings &gt; Accounts.'>
+<!ENTITY fxaccount_status_needs_finish_migrating 'Tap to sign in to your new Firefox Account.'>
 <!ENTITY fxaccount_status_bookmarks 'ਬੁੱਕਮਾਰਕ'>
 <!ENTITY fxaccount_status_history 'ਅਤੀਤ'>
 <!ENTITY fxaccount_status_passwords 'ਪਾਸਵਰਡ'>
@@ -244,7 +255,14 @@
 <!ENTITY fxaccount_remote_error_UNKNOWN_ERROR 'ਸਮੱਸਿਆ ਹੈ'>
 <!ENTITY fxaccount_remote_error_COULD_NOT_CONNECT 'ਨੈੱਟਵਰਕ ਨਾਲ ਕੁਨੈਕਟ ਨਹੀਂ ਕੀਤਾ ਜਾ ਸਕਿਆ'>
 
+<!ENTITY fxaccount_remote_error_ACCOUNT_LOCKED 'Account is locked. &formatS1;'>
+
 <!ENTITY fxaccount_sync_sign_in_error_notification_title2 '&syncBrand.shortName.label; ਕੁਨੈਕਟ ਨਹੀਂ ਹੈ'>
 <!-- Note to translators: the format string below will be replaced
      with the Firefox account's email address. -->
 <!ENTITY fxaccount_sync_sign_in_error_notification_text2 '&formatS; ਵਜੋਂ ਸਾਇਨ ਇਨ ਕਰਨ ਲਈ ਛੂਹੋ'>
+
+<!ENTITY fxaccount_sync_finish_migrating_notification_title 'Finish upgrading &syncBrand.shortName.label;?'>
+<!-- Localization note: the format string below will be replaced
+     with the Firefox Account's email address. -->
+<!ENTITY fxaccount_sync_finish_migrating_notification_text 'Tap to sign in as &formatS;'>
