@@ -13,7 +13,7 @@
 <!ENTITY connectionFailure.title "Ulana olmadi">
 <!ENTITY connectionFailure.longDesc2 "&sharedLongDesc3;">
 
-<!ENTITY deniedPortAccess.title "Bu manzil cheklangan">
+<!ENTITY deniedPortAccess.title "Ushbu manzilga  murojaat qilish taqiqlangan.">
 <!ENTITY deniedPortAccess.longDesc "">
 
 <!ENTITY dnsNotFound.title "Server topilmadi">
@@ -22,7 +22,7 @@
 <!ENTITY dnsNotFound.longDesc4 "<ul> 
 <li>Quyidagiga o‘xshash xatolarni tekshirib chiqing: 
 <strong>ww</strong>.example.com kabi yozilgan bo‘lishi mumkin, aslida  
-<strong>www</strong>.example.com</li> kabi bo‘lishi kerak
+<strong>www</strong>.example.com kabi yozilishi kerak</li> 
 <div id='searchbox'> 
 <input id='searchtext' type='search'></input> 
 <button id='searchbutton'>Izlash</button> 
@@ -40,7 +40,7 @@
 
 
 <!ENTITY generic.title "Obbo.">
-<!ENTITY generic.longDesc "<p>&brandShortName; ushbu sahifani ba’zi sabablarga ko‘ra yuklay olmadi.</p>">
+<!ENTITY generic.longDesc "<p>&brandShortName; ushbu sahifani noma’lum sabablarga ko‘ra yuklay olmadi.</p>">
 
 <!ENTITY malformedURI.title "Xato manzil">
 <!-- LOCALIZATION NOTE (malformedURI.longDesc2) This string contains markup including widgets for searching
@@ -133,14 +133,14 @@ tekshirib ko‘ring.</li>
 <li>Muammoga sabab serverning moslanishi yoki kimnidir 
 serverni buzishga urinishi bo‘lishi mumkin.</li> 
 <li>Agar serverga oldinroq muvaffaqiyatli ulangan bo‘lsangiz, xato 
-vaqtinchalik bo‘lishi va keyinroq yana urinib ko‘rishingiz mumkin bo‘ladi.</li> 
+vaqtinchalik bo‘lishi mumkin va keyinroq yana urinib ko‘rishingiz mumkin bo‘ladi.</li> 
 </ul>">
 <!-- LOCALIZATION NOTE (sharedLongDesc3) This string contains markup including widgets for enabling wifi connections.
      The text inside the tags should be localized. Do not touch the ids. -->
 
 <!ENTITY sharedLongDesc3 "<ul> 
-<li>Sayt vaqtinchalik ishlamayapti yoki juda band bo‘lishi mumkin. Bir necha daqiqadan keyin urinib ko‘ring.</li> 
-<li>Agar birorta ham sahifa yuklanmasa, telefoningizning internetga ulanishini yoki Wi-Fi tarmoqqa ulanishini tekshirib ko‘ring. 
+<li>Sayt vaqtinchalik ishlamayapti yoki juda band. Bir necha daqiqadan keyin urinib ko‘ring.</li> 
+<li>Agar birorta ham sahifa yuklanmasa, telefoningizning internetga  yoki Wi-Fi tarmoqqa ulanishini tekshirib ko‘ring. 
 <button id='wifi'>Wi-Fi’ni yoqish</button> 
 </li> 
 </ul>">

@@ -101,7 +101,7 @@
 <!ENTITY sync.invalidcreds.label "Hisob nomi yoki parol noto‘g‘ri.">
 <!ENTITY sync.invalidserver.label "Ishlaydigan server URL manzilini kiriting">
 <!ENTITY sync.verifying.label "Tekshirilmoqda...">
-<!ENTITY sync.new.recoverykey.status.incorrect "Tiklash kaliti xato. Keyinroq urinib ko‘ring.">
+<!ENTITY sync.new.recoverykey.status.incorrect "Noto‘g‘ri tiklash kaliti. Keyinroq urinib ko‘ring.">
 <!-- Send tab to device. -->
 
 <!ENTITY sync.title.send.tab.label "Qurilmalarga ichki oynalarni jo‘natish">

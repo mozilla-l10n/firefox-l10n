@@ -29,7 +29,7 @@
 <!-- LOCALIZATION NOTE (happy.finePrint): "feels great" — Another exaggeration where we're trying to
      get people to rate us by playfully telling them there's a benefit in it for them as well. -->
 
-<!ENTITY happy.finePrint           "Bu bir daqiqadan kamrov vaqt oladi va zo‘r bo‘ladi.">
+<!ENTITY happy.finePrint           "Bu bir daqiqadan kamrov vaqt oladi va hammani biroz baxtli qiladi.">
 
 <!ENTITY happy.ratingLink          "Ha, &quot;Google Play&quot;ga o‘tilsin">
 <!ENTITY happy.maybeLater2         "Balkim, kiyinroq">
