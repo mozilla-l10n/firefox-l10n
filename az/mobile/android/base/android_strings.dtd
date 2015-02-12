@@ -194,8 +194,8 @@
 <!ENTITY pref_restore_always "Həmişə bərpa et">
 <!ENTITY pref_restore_quit "&brandShortName; səyyahından çıxdıqdan sonra bərpa etmə">
 <!ENTITY pref_font_size_tiny "Bambalaca">
-
-
+<!ENTITY pref_font_size_small "Kiçik">
+<!ENTITY pref_font_size_medium "Orta">
 <!ENTITY pref_font_size_large "Böyük">
 <!ENTITY pref_font_size_xlarge "Çox böyük">
 <!ENTITY pref_font_size_set "Təyin et">
@@ -207,6 +207,8 @@ size. -->
 <!ENTITY pref_font_size_adjust_char "A">
 <!-- Localization note (pref_font_size_preview_text): This paragraph is used as an example to
     demonstrate the font size setting.  It is meant to be whimsical and fun. -->
+
+<!ENTITY pref_font_size_preview_text "Sürətli narıncı tülkü daha çox sürət, elastiklik və təhlükəsizliklə gözləntilərinizin üstündən atlayar. Qeyri-kommersial bir qurum olaraq, bizə təzyiq göstərəcək heç bir qüvvə olmadan, sizin üçün yeniliklər etməkdə azadıq. Bu sizin üçün daha yaxşı təcrübə, Veb üçün daha parlaq bir gələcək deməkdir.">
 
 <!ENTITY pref_media_autoplay_enabled "Avtomatik oxutmağa icazə ver">
 <!ENTITY pref_media_autoplay_enabled_summary "Səhifələrin video və digər media məzmunlarını avtomatik oxudub oxutmayacaqlarını idarə et">
@@ -228,7 +230,7 @@ size. -->
 
 
 <!ENTITY pref_about_firefox "&brandShortName; haqqında">
-<!ENTITY pref_vendor_faqs "FAQ">
+<!ENTITY pref_vendor_faqs "FAQlar">
 <!ENTITY pref_vendor_feedback "Rəy göndərin">
 
 <!ENTITY pref_dialog_set_default "Ön qurğulu olaraq seç">
@@ -264,6 +266,7 @@ size. -->
 <!ENTITY datareporting_crashreporter_summary "&brandShortName;, səyyahınızı daha sabit və təhlükəsiz etmək üçün çökmə məlumatlarını &vendorShortName;-ya göndərir">
 <!-- Localization note (datareporting_crashreporter_title_short) : This string matches
      (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
+<!ENTITY datareporting_crashreporter_title_short "Çökmə Xəbərçisi">
 <!ENTITY datareporting_wifi_title2 "&vendorShortName; Mövqe Xidməti">
 <!ENTITY datareporting_wifi_geolocation_summary2 "Çoğrafi mövqe xidmətimizi təkmilləşdirmək üçün cihazınızın təxmini Wi-Fi və mobil mövqeyini &vendorShortName; ilə paylaşır">
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
@@ -284,7 +287,8 @@ size. -->
 <!ENTITY apps "Tətbiqlər">
 <!ENTITY char_encoding "Simvol kodlaşdırması">
 
-
+<!ENTITY share "Paylaş">
+<!ENTITY share_title "Paylaş">
 <!ENTITY share_image_failed "Bu şəkli paylaşmaq mümkün olmadı">
 <!ENTITY save_as_pdf "PDF kimi yadda saxla">
 <!ENTITY find_in_page "Səhifədə tap">
@@ -319,12 +323,12 @@ size. -->
 <!ENTITY contextmenu_open_new_tab "Yeni vərəqdə aç">
 <!ENTITY contextmenu_open_private_tab "Məxvi vərəqdə aç">
 
-
-
+<!ENTITY contextmenu_add_to_launcher "Ana ekrana əlavə et">
+<!ENTITY contextmenu_share "Paylaş">
 <!ENTITY contextmenu_pasteandgo "Yapıştır ve aç">
 <!ENTITY contextmenu_paste "Yapıştır">
-
-
+<!ENTITY contextmenu_copyurl "Ünvanı Köçür">
+<!ENTITY contextmenu_edit_bookmark "Düzəlt">
 <!ENTITY contextmenu_subscribe "Səhifəyə abunə ol">
 <!ENTITY contextmenu_site_settings "Sayt tənzimləmələrini dəyiş">
 <!ENTITY contextmenu_top_sites_edit "Dəyiş">
@@ -356,7 +360,7 @@ size. -->
 <!ENTITY site_settings_title3       "Sayt Tənzimləmələri">
 <!ENTITY site_settings_cancel       "Ləğv et">
 <!ENTITY site_settings_clear        "Təmizlə">
-
+<!ENTITY site_settings_no_settings  "Silinəcək tənzimləmə yoxdur.">
 
 
 <!-- Localization note (reading_list_time_minutes2) : This string is used in the "Reading List"
@@ -420,11 +424,12 @@ size. -->
 <!ENTITY home_move_up_to_filter "Yuxarı &formatS;">
 
 <!ENTITY home_remote_tabs_title "Sinxronlaşdırılmış vərəqlər">
-
+<!ENTITY home_remote_tabs_empty "Digər cihazlarınızdaki vərəqlər burada görünür.">
 <!ENTITY home_remote_tabs_unable_to_connect "Əlaqə cəhdi uğursuz oldu">
+<!ENTITY home_remote_tabs_need_to_sign_in "Lütfən Firefox Hesabınıza yenidən qoşulmaq və sinxronlaşdırmağa davam etmək üçün daxil olun.">
+<!ENTITY home_remote_tabs_need_to_finish_migrating "Yeni Firefox Heasbınız hazırdır!">
 
-
-
+<!ENTITY home_remote_tabs_trouble_verifying "Hesabınızı təsdiqləmədə çətinlik çəkirsiniz?">
 
 
 <!-- Localization note (home_remote_tabs_many_hidden_devices) : The
