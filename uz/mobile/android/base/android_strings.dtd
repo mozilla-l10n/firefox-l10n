@@ -63,7 +63,7 @@
 <!ENTITY edit_mode_cancel "Bekor qilish">
 
 <!ENTITY close_tab "Ichki oynani yopish">
-<!ENTITY one_tab "1 ichki oyna">
+<!ENTITY one_tab "1 ta ichki oyna">
 <!-- Localization note (num_tabs2) : Number of tabs is always more than one.
      We can't use android plural forms, sadly. See bug #753859. -->
 <!ENTITY num_tabs2 "&formatD; ichki oynalar">
@@ -137,10 +137,10 @@
      it is applicable. -->
 <!ENTITY pref_search_hint "TIP: birorta veb sahifani izlash xizmatlariga ro‘yxatiga qo‘shmoqchi bo‘lsangiz, o‘sha saytning izlash maydonchasiga barmog‘ingizni bosib turing va so‘ngra &formatI; nishonchasiga bosing.">
 <!ENTITY pref_category_devtools "Dasturlash asboblari">
-<!ENTITY pref_category_devtools_summary "Masofadan tuzatish, yarqiratib bo‘yash">
-<!ENTITY pref_developer_paint_flashing "Charaqlatib bo‘yash">
-<!ENTITY pref_developer_remotedebugging "Masofadan turib nosozliklarni hal qilish">
-<!ENTITY pref_remember_signons "Parolni eslab qolish">
+<!ENTITY pref_category_devtools_summary "Masofadan tuzatish, bo‘yash">
+<!ENTITY pref_developer_paint_flashing "Bo‘yash">
+<!ENTITY pref_developer_remotedebugging "Masofadan tuzatish">
+<!ENTITY pref_remember_signons "Parollarni eslab qolish">
 
 <!ENTITY pref_category_home "Uy sahifasi">
 <!ENTITY pref_category_home_summary "Uy sahifangizni moslash">
@@ -169,7 +169,7 @@
 
 <!ENTITY pref_cookies_menu "Kukilar">
 <!ENTITY pref_cookies_accept_all "Yoqib qo‘yilgan">
-<!ENTITY pref_cookies_not_accept_foreign "Yoqib qo‘yildi (3-tomon aralashuvisiz)">
+<!ENTITY pref_cookies_not_accept_foreign "Begona saytlardan boshqalari yoqib qo‘yildi">
 <!ENTITY pref_cookies_disabled "O‘chirib qo‘yilgan">
 
 <!ENTITY pref_tracking_protection_title "Kuzatishdan himoyalanish">
@@ -260,7 +260,7 @@ size. -->
      crashReporterDesc.label). -->
 
 <!ENTITY datareporting_fhr_title "&brandShortName; yaroqlilik ma’lumotlari">
-<!ENTITY datareporting_fhr_summary2 "Brauzeringiz yaroqlilig va uning ishlash samaraodorligini tushunishingizda yordam berish uchun &vendorShortName; bilan ma’lumotlarni bo‘lishish">
+<!ENTITY datareporting_fhr_summary2 "Brauzeringiz mustahkamligi va uning ishlash unumdorligini tushunishingizda yordam berish uchun &vendorShortName; bilan ma’lumotlarni bo‘lishadi">
 <!ENTITY datareporting_abouthr_title "Mening yaroqlilik ma’lumotlarimni ko‘rsatish">
 <!ENTITY datareporting_telemetry_title "Telemetriya">
 <!ENTITY datareporting_telemetry_summary "&vendorShortName; bilan ishlashi, qurilma va brauzeringizni qanday moslanganligi ma’lumotlarini &brandShortName;ni yaxshilash uchun bo‘lishadi">
@@ -293,7 +293,7 @@ size. -->
 <!ENTITY share_image_failed "Rasm bo‘lishiilmadi">
 <!ENTITY save_as_pdf "PDF sifatida saqlash">
 <!ENTITY find_in_page "Sahifadan topish">
-<!ENTITY desktop_mode "So‘ralgan stol kompyuteri sayti">
+<!ENTITY desktop_mode "Saytning to‘liq versiyasi">
 <!ENTITY page "Sahifa">
 <!ENTITY tools "Asboblar">
 <!ENTITY new_tab "Yangi ichki oyna">

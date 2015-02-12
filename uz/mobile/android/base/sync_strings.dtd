@@ -150,13 +150,13 @@
 
 <!ENTITY fxaccount_create_account_header2 "Firefox hisobini yaratish">
 <!ENTITY fxaccount_create_account_password_length_restriction "Kamida 8 ta belgidan iborat bo‘lishi kerak">
-<!ENTITY fxaccount_create_account_year_of_birth "Tug‘ilgan yili">
+<!ENTITY fxaccount_create_account_year_of_birth "Tug‘ilgan yilingiz">
 <!-- Localization note: &formatS1; is fxaccount_policy_linktos, &formatS2; is fxaccount_policy_linkprivacy, both hyperlinked. -->
-<!ENTITY fxaccount_create_account_policy_text2 "Davom ettirish mobaynia, Men Firefox bulut xizmatlari &formatS1; va &formatS2;ga roziman.">
+<!ENTITY fxaccount_create_account_policy_text2 "Davom etish bilan men Firefox bulut xizmatlari, &formatS1; va &formatS2;ga roziman.">
 <!ENTITY fxaccount_create_account_button "Keyingi">
 <!ENTITY fxaccount_create_account_choose_what_to_sync "Sinxronlanadigan narsalarni tanlang">
 <!ENTITY fxaccount_create_account_sign_in_instead "Hisobingiz bormi? Unda kiring">
-<!ENTITY fxaccount_create_account_1990_or_earlier "1990 yoki eskiroq">
+<!ENTITY fxaccount_create_account_1990_or_earlier "1990 yoki oldinroq">
 <!ENTITY fxaccount_create_account_unknown_error "Hisob yaratilmadi">
 
 <!ENTITY fxaccount_account_create_not_allowed "Hisob yaratib bo‘lmadi">

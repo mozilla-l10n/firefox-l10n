@@ -13,7 +13,7 @@
 
 <!ENTITY sync.setup.title           "Sinxronlash uchun ulang">
 <!ENTITY sync.setup.pair            "Faollashtirish uchun boshqa qurilmangizdagi &quot;Qurilmani ulash&quot;ni tanlang.">
-<!ENTITY sync.fallback              "Kompyuterim yaqinida emasman...">
+<!ENTITY sync.fallback              "Kompyuterim yaqinida emasman…">
 <!ENTITY sync.setup.manual          "Sinxronlash hisobi ma’lumotlaringizni kiritish">
 <!ENTITY sync.account               "Hisob nomi">
 <!ENTITY sync.password              "Parol">
