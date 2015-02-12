@@ -11,20 +11,21 @@
 
 <!ENTITY sync.syncNow               "İndi sinxronizasiya et">
 
+<!ENTITY sync.setup.title           "Sync-ə Qoşul">
 <!ENTITY sync.setup.pair            "Aktivləşdirmək üçün, digər cihazınızda &quot;Cihaz Qoş&quot; seçin.">
-
-
-
+<!ENTITY sync.fallback              "Kompüterimin yanında deyiləm…">
+<!ENTITY sync.setup.manual          "Sync hesab məlumatlarınızı daxil edin">
+<!ENTITY sync.account               "Hesab adı">
 <!ENTITY sync.password              "Şifrələr">
 <!ENTITY sync.recoveryKey           "Bərpa açarım">
-
-
-
+<!ENTITY sync.customServer          "Şəxsi server istifadə et">
+<!ENTITY sync.serverURL             "Server URL">
+<!ENTITY sync.setup.connect         "Qoşul">
 <!ENTITY sync.setup.cancel          "ləğv et">
 
-
+<!ENTITY sync.setup.waiting2        "Digər cihaz üçün gözlənilir...">
 
 <!ENTITY sync.pair.title            "Cihazları sinxronizasiya et">
 <!ENTITY sync.pair.description      "Yeni cihazınızı aktivləşdirmək üçün, digər cihazdan &quot;Sync Quraşdır&quot; seçin.">
 <!ENTITY sync.setup.close           "Kapat">
-
+<!ENTITY sync.setup.waitingdownload "Sizin məlumatlarınız arxa fonda endirilir. Siz istənilən vaxt bu pəncərəni qapata bilərsiz.">
