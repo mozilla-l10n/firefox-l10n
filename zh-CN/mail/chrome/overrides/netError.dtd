@@ -44,7 +44,7 @@
 
 <!ENTITY netOffline.title "脱机模式">
 <!ENTITY netOffline.longDesc2 "<ul> 
-<li>按“重试”切换到在线模式并重新加载此页面。</li> 
+<li>按“重试”切换到联机模式并重新加载此页面。</li> 
 </ul>">
 
 <!ENTITY contentEncodingError.title "内容编码错误">

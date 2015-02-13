@@ -15,6 +15,8 @@
 <!ENTITY telemetryInfoLink.label       "更多有关遥测的信息">
 <!ENTITY enableGlodaSearch.label       "启用全局搜索以及索引">
 <!ENTITY enableGlodaSearch.accesskey   "E">
+<!ENTITY allowHWAccel.label            "自动启用硬件加速">
+<!ENTITY allowHWAccel.accesskey        "h">
 
 <!ENTITY scrolling.label               "滚动">
 <!ENTITY useAutoScroll.label           "使用自动滚屏">
