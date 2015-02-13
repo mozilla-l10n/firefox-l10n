@@ -244,7 +244,7 @@
 <!-- Localization note: these error messages are shown after a request
      has been made to the remote server, and an error of some type has
      been returned. -->
-<!ENTITY fxaccount_remote_error_UPGRADE_REQUIRED 'You need to upgrade Firefox'>
+<!ENTITY fxaccount_remote_error_UPGRADE_REQUIRED 'Je potřeba aktualizovat Firefox'>
 
 <!-- Localization note: the format string will be fxaccount_sign_in_button_label, linkified. -->
 <!ENTITY fxaccount_remote_error_ATTEMPT_TO_CREATE_AN_ACCOUNT_THAT_ALREADY_EXISTS_2 'Účet již existuje &formatS1;'>
