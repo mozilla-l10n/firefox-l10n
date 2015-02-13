@@ -43,6 +43,11 @@
 <!ENTITY netOffline.title "ಆಫ್‍ಲೈನ್‍ ಕ್ರಮ">
 <!-- LOCALIZATION NOTE (netOffline.longDesc3) This string contains markup including widgets enabling wifi connections.
      The text inside the tags should be localized. Do not touch the ids. -->
+<!ENTITY netOffline.longDesc3 "<ul> 
+<li>ಮತ್ತೆ  ಪ್ರಯತ್ನಿಸಿ. &brandShortName; ಸಂಪರ್ಕವನ್ನು ಏರ್ಪಡಿಸಲು ಮತ್ತು ಪುಟವನ್ನು ಮತ್ತೆ ತುಂಬಿಸಲು ಪ್ರಯತ್ನಿಸುತ್ತದೆ. 
+<button id='wifi'>ವೈ-ಫೈ ಸಕ್ರಿಯಗೊಳಿಸು</button> 
+</li> 
+</ul>">
 
 <!ENTITY contentEncodingError.title "ವಿಷಯದ ಎನ್ಕೋಡಿಂಗ್‌ ದೋಷ">
 <!ENTITY contentEncodingError.longDesc "<ul> 
