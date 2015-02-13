@@ -413,9 +413,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
   for people to switch to Linux.
 
  -->
-<!ENTITY searchFocus.commandkey 	"k">
-<!ENTITY searchFocus.commandkey2 	"e">
-<!ENTITY searchFocusUnix.commandkey "j">
+<!ENTITY searchFocus.commandkey 	 "k">
+<!ENTITY searchFocus.commandkey2 	 "e">
+<!ENTITY searchFocusUnix.commandkey  "j">
 
 <!-- LOCALIZATION NOTE (searchFor.label, searchWith.label):
      These two strings are used to build the header above the list of one-click
@@ -427,14 +427,17 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      searchFor.label and searchWith.label. This string will be used instead of
      them when the user has not typed any keyword. -->
 <!ENTITY searchWithHeader.label       "Pesquisar com:">
+<!-- LOCALIZATION NOTE (changeSearchSettings.button):
+     This string won't wrap, so if the translated string is longer,
+     consider translating it as if it said only "Search Settings". -->
 <!ENTITY changeSearchSettings.button  "Alterar definições de pesquisa">
 
 <!ENTITY tabView.commandkey 		"e">
 
-<!ENTITY openLinkCmdInTab.label 	"Abrir ligação em novo separador">
-<!ENTITY openLinkCmdInTab.accesskey "S">
-<!ENTITY openLinkCmd.label 			"Abrir a ligação em nova janela">
-<!ENTITY openLinkCmd.accesskey 		"J">
+<!ENTITY openLinkCmdInTab.label 	  "Abrir ligação em novo separador">
+<!ENTITY openLinkCmdInTab.accesskey   "S">
+<!ENTITY openLinkCmd.label 			  "Abrir a ligação em nova janela">
+<!ENTITY openLinkCmd.accesskey 		  "J">
 <!ENTITY openLinkInPrivateWindowCmd.label 	"Abrir ligação em nova janela privada">
 <!ENTITY openLinkInPrivateWindowCmd.accesskey "P">
 <!ENTITY openLinkCmdInCurrent.label 		"Abrir ligação">
@@ -602,14 +605,14 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY sidebarCloseButton.tooltip 	"Fechar barra lateral">
 
-<!ENTITY quitApplicationCmdWin.label		"Sair">
-<!ENTITY quitApplicationCmdWin.accesskey	"S">
-<!ENTITY quitApplicationCmdWin.tooltip		"Sair do &brandShortName;">
+<!ENTITY quitApplicationCmdWin2.label		"Sair">
+<!ENTITY quitApplicationCmdWin2.accesskey	"S">
+<!ENTITY quitApplicationCmdWin2.tooltip		"Sair do &brandShortName;">
 <!ENTITY goBackCmd.commandKey				"[">
 <!ENTITY goForwardCmd.commandKey			"]">
 <!ENTITY quitApplicationCmd.label			"Sair">
 <!ENTITY quitApplicationCmd.accesskey		"S">
-<!ENTITY quitApplicationCmdMac.label		"Sair do &brandShortName;">
+<!ENTITY quitApplicationCmdMac2.label		"Sair do &brandShortName;">
 <!-- LOCALIZATION NOTE(quitApplicationCmdUnix.key): This keyboard shortcut is used by both Linux and OSX builds. -->
 <!ENTITY quitApplicationCmdUnix.key 		"Q">
 

@@ -25,7 +25,7 @@
 
 <!-- LOCALIZATION NOTE (webAudioEditorUI.tab.properties2): This is the label shown
   -  for the properties tab view. -->
-<!ENTITY webAudioEditorUI.tab.properties  "Propriedades">
+<!ENTITY webAudioEditorUI.tab.properties2  "Propriedades">
 
 <!-- LOCALIZATION NOTE (webAudioEditorUI.tab.automation): This is the label shown
   -  for the automation tab view. -->

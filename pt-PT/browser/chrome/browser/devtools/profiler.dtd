@@ -72,10 +72,6 @@
   -  a checkbox that inverts and un-inverts the profiler's call tree. -->
 <!ENTITY profilerUI.invertTree "Inverter a árvore de chamada">
 
-<!-- LOCALIZATION NOTE (profilerUI.flattenTree.tooltiptext): This is the tooltip
-  -  for the tree-flattening checkbox's label.  -->
-<!ENTITY profilerUI.flattenTree.tooltiptext "Inverter a árvore de chamada mostra os caminhos do perfil de chamada a começar pelo frame mais novo e indo até ao mais antigo.">
-
 <!-- LOCALIZATION NOTE (profilerUI.invertTree): This is the label shown next to
   -  a checkbox that inverts and un-inverts the profiler's call tree. -->
 <!ENTITY profilerUI.invertTree             "Inverter árvore de chamada">
