@@ -11,10 +11,10 @@
 <!ENTITY radioRememberPrevState.accesskey "r">
 <!ENTITY radioAskState.label "Goulenn ganin evit ar stad enlinenn">
 <!ENTITY radioAskState.accesskey "k">
-
-
-
-
+<!ENTITY radioAlwaysOnline.label "Enlinenn">
+<!ENTITY radioAlwaysOnline.accesskey "l">
+<!ENTITY radioAlwaysOffline.label "Ezlinenn">
+<!ENTITY radioAlwaysOffline.accesskey "z">
 
 <!ENTITY textGoingOnline "Kas ar posteloù o c'hortoz pa 'z a da enlinenn ?">
 <!ENTITY radioAutoSend.label "Ya">

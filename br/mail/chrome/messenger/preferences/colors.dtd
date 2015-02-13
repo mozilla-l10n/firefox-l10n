@@ -6,7 +6,8 @@
 <!ENTITY  window.width                    "38em">
 <!ENTITY  window.macWidth                 "41em">
 
-
+<!ENTITY  overridePageColors.label        "Implijout ar pezh am eus diuzet dindan e plas al livioù erspizet gant an endalc'h :">
+<!ENTITY  overridePageColors.accesskey    "I">
 
 <!ENTITY  overridePageColors.always.label "Atav">
 <!ENTITY  overridePageColors.auto.label   "Gant neuzioù a Dargemm Uhel nemetken">
