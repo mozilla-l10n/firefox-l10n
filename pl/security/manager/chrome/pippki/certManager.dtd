@@ -10,9 +10,6 @@
 <!ENTITY certmgr.tab.ca                       "Organy certyfikacji">
 <!ENTITY certmgr.tab.orphan2                  "Pozostałe">
 
-<!ENTITY certmgr.ca.builtins 				"Wbudowane organy">
-<!ENTITY certmgr.ca.mycas 				"Organy zarządzane przez użytkownika">
-
 <!ENTITY certmgr.detail.general_tab.title 		"Ogólne">
 <!ENTITY certmgr.detail.general_tab.accesskey 		"O">
 <!ENTITY certmgr.detail.prettyprint_tab.title 		"Szczegóły">
@@ -32,7 +29,6 @@
 <!ENTITY certmgr.certdetail.sha256fingerprint "Odcisk SHA-256">
 <!ENTITY certmgr.certdetail.sha1fingerprint 		"Odcisk SHA1">
 
-<!ENTITY certmgr.editcert.title 			"Edycja ustawień certyfikatów bezpieczeństwa">
 <!ENTITY certmgr.editcacert.title 			"Edycja ustawień zaufania certyfikatu CA">
 <!ENTITY certmgr.editcert.edittrust 			"Edytuj ustawienia zaufania:">
 <!ENTITY certmgr.editcert.trustssl 			"Ten certyfikat identyfikuje witryny.">
@@ -44,11 +40,6 @@
 <!ENTITY certmgr.editemailcert.donttrust 		"Nie ufaj autentyczności tego certyfikatu.">
 
 <!ENTITY certmgr.deletecert.title 				"Usuń certyfikat">
-<!ENTITY certmgr.deletecert.beforename 			"Zażądano usunięcia certyfikatu:">
-<!ENTITY certmgr.deletecert.aftername 			"Czy na pewno usunąć wybrany certyfikat?">
-<!ENTITY certmgr.deleteusercert.title 			"Usuwanie certyfikatu użytkownika">
-<!ENTITY certmgr.deleteusercert.beforename 		"Zażądano usunięcia certyfikatu:">
-<!ENTITY certmgr.deleteusercert.aftername 		"Po usunięciu tego certyfikatu nie będzie można odczytać wiadomości zaszyfrowanych tym certyfikatem.">
 
 <!ENTITY certmgr.certname                     "Nazwa certyfikatu">
 <!ENTITY certmgr.certserver                   "Serwer">
@@ -67,8 +58,6 @@
 <!ENTITY certmgr.edit3.accesskey               	"d">
 <!ENTITY certmgr.editca.label 					"Edytuj ustawienia zaufania CA">
 <!ENTITY certmgr.editca.accesskey             	"y">
-<!ENTITY certmgr.add.label 						"Dodaj">
-<!ENTITY certmgr.add.accesskey                	"D">
 <!ENTITY certmgr.export.label                 "Eksportuj…">
 <!ENTITY certmgr.export.accesskey             "E">
 <!ENTITY certmgr.delete2.label 					"Usuń…">
