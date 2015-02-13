@@ -4,6 +4,7 @@
 <!ENTITY addons.windowTitle                   "Gestor de extras">
 
 <!ENTITY search.placeholder                   "Procurar todos os extras">
+<!ENTITY search.buttonlabel                   "Procurar">
 <!-- LOCALIZATION NOTE (search.commandKey):
      The search command key should match findOnCmd.commandkey from browser.dtd -->
 <!ENTITY search.commandkey                    "f">

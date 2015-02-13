@@ -6,7 +6,7 @@
 %brandDTD;
 
 <!ENTITY loadError.label "Ocorreu um problema ao carregar a página">
-<!ENTITY retry.label "Tentar novamente">
+<!ENTITY retry.label "Tentar de novo">
 
 <!-- Specific error messages -->
 
@@ -170,8 +170,8 @@ tentar mais tarde.</li>
 <p>Este tipo de fraudes web são utilizadas em esquemas conhecidos como ataques phising, em que as páginas web e mensagens fraudulentas são utilizadas para replicar fontes fiáveis.</p>
 ">
 
-<!ENTITY cspFrameAncestorBlocked.title "Bloqueada pela política de segurança de conteúdo">
-<!ENTITY cspFrameAncestorBlocked.longDesc "<p>O &brandShortName; impediu o carregamento desta página porque a página tem uma política de segurança que não permite o seu carregamento.</p>">
+<!ENTITY cspBlocked.title "Bloqueada pela política de segurança de conteúdo">
+<!ENTITY cspBlocked.longDesc "<p>O &brandShortName; impediu o carregamento desta página porque a página tem uma política de segurança que não permite o seu carregamento.</p>">
 
 <!ENTITY corruptedContentError.title "Conteúdo corrompido">
 <!ENTITY corruptedContentError.longDesc "<p>A página que está a tentar visualizar não pode ser exibida porque foi detetado um erro na transmissão de dados.</p><ul><li>Por favor reporte o problema aos detentores do sítio.</li></ul>">
