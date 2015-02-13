@@ -86,7 +86,7 @@
 <!ENTITY certmgr.fields.label 					"Wartość pola">
 <!ENTITY certmgr.fields.accesskey               "a">
 <!ENTITY certmgr.hierarchy.label 				"Hierarchia certyfikatu">
-<!ENTITY certmgr.hierarchy.accesskey            "H">
+<!ENTITY certmgr.hierarchy.accesskey2 "H">
 
 <!ENTITY certmgr.addException.label           "Dodaj wyjątek…">
 <!ENTITY certmgr.addException.accesskey       "o">
