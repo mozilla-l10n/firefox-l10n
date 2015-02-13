@@ -13,6 +13,10 @@
 <!ENTITY pref.dateformat.long "长" >
 <!ENTITY pref.dateformat.short "短"  >
 
+<!ENTITY pref.timezones.caption "时区">
+<!ENTITY pref.timezones.label "请选择距离您所在时区最近的城市：">
+<!ENTITY pref.timezones.accesskey "S">
+
 <!ENTITY pref.defaults.label "新项目默认值">
 <!ENTITY pref.events.label "事件">
 <!ENTITY pref.tasks.label "任务">

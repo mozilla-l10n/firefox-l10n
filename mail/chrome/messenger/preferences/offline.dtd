@@ -4,13 +4,17 @@
 
 <!ENTITY offlineDialog.title "脱机设置">
 
-<!ENTITY textStartUp "启动时：">
+<!ENTITY checkAutoDetect.label "自动使用检测到的联机状态">
+<!ENTITY checkAutoDetect.accesskey "d">
+<!ENTITY titleStartUp "启动时手动指定状态：">
 <!ENTITY radioRememberPrevState.label "记住上次的联机状态">
 <!ENTITY radioRememberPrevState.accesskey "R">
-<!ENTITY radioAskMe.label "启动时询问联机状态">
-<!ENTITY radioAskMe.accesskey "u">
-<!ENTITY radioAlwaysOnline.label "启动时自动联机">
+<!ENTITY radioAskState.label "向我询问联机状态">
+<!ENTITY radioAskState.accesskey "k">
+<!ENTITY radioAlwaysOnline.label "联机">
 <!ENTITY radioAlwaysOnline.accesskey "l">
+<!ENTITY radioAlwaysOffline.label "脱机">
+<!ENTITY radioAlwaysOffline.accesskey "f">
 
 <!ENTITY textGoingOnline "联机时发送未发送的消息吗？">
 <!ENTITY radioAutoSend.label "是">

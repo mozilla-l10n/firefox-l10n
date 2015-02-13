@@ -170,6 +170,9 @@
 <!ENTITY fxaccount_confirm_account_change_email "要忘记此电子邮件地址？">
 <!ENTITY fxaccount_confirm_account_verification_link_sent2 "发送验证邮件">
 <!ENTITY fxaccount_confirm_account_verification_link_not_sent2 "无法发送验证邮件">
+<!ENTITY fxaccount_resend_unlock_code_button_label "重新发送解锁邮件">
+<!ENTITY fxaccount_unlock_code_sent "账户解锁邮件已发送">
+<!ENTITY fxaccount_unlock_code_not_sent "无法发送账户解锁邮件">
 
 <!ENTITY fxaccount_sign_in_sub_header "登录">
 <!ENTITY fxaccount_sign_in_button_label "登录">
@@ -180,9 +183,15 @@
 <!ENTITY fxaccount_account_verified_sub_header "账户已验证">
 <!ENTITY fxaccount_account_verified_description2 "您的数据将很快开始同步。">
 
+<!ENTITY fxaccount_migration_finished_header "升级完成">
+
 <!ENTITY fxaccount_update_credentials_header "登录">
 <!ENTITY fxaccount_update_credentials_button_label "登录">
 <!ENTITY fxaccount_update_credentials_unknown_error "无法登录">
+
+<!ENTITY fxaccount_finish_migrating_header "登录以完成升级">
+<!ENTITY fxaccount_finish_migrating_button_label "完成升级">
+<!ENTITY fxaccount_finish_migrating_description "升级可能需要转移不少数据。建议您最好先连接到 WiFi 网络。">
 
 <!ENTITY fxaccount_status_header2 "Firefox 账户">
 <!ENTITY fxaccount_status_signed_in_as "已登录为">
@@ -197,7 +206,9 @@
 <!ENTITY fxaccount_status_needs_credentials "无法连接。点按以登录。">
 <!ENTITY fxaccount_status_needs_upgrade "您需要升级 &brandShortName; 才能登录。">
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled "&syncBrand.shortName.label; 已设置但尚未开始自动同步。请在 Android 设置 &gt; 数据使用 中切换“自动同步数据”。">
+<!ENTITY fxaccount_status_needs_master_sync_automatically_enabled_v21 "&syncBrand.shortName.label; 已设置但尚未开始自动同步。请在 Android 设置 &gt; 数据使用 中切换“自动同步数据”。">
 <!ENTITY fxaccount_status_needs_account_enabled "&syncBrand.shortName.label; 已设置但尚未开始自动同步。点按开始同步。">
+<!ENTITY fxaccount_status_needs_finish_migrating "点按以登录到您全新的 Firefox 账户。">
 <!ENTITY fxaccount_status_bookmarks "书签">
 <!ENTITY fxaccount_status_history "历史记录">
 <!ENTITY fxaccount_status_passwords "密码">
@@ -245,8 +256,14 @@
 <!ENTITY fxaccount_remote_error_SERVICE_TEMPORARILY_UNAVAILABLE_TO_DUE_HIGH_LOAD "服务器繁忙，请稍候再试">
 <!ENTITY fxaccount_remote_error_UNKNOWN_ERROR "遇到问题">
 <!ENTITY fxaccount_remote_error_COULD_NOT_CONNECT "无法连接到网络">
+<!ENTITY fxaccount_remote_error_ACCOUNT_LOCKED "账户已锁定。&formatS1;">
 
 <!ENTITY fxaccount_sync_sign_in_error_notification_title2 "&syncBrand.shortName.label; 未连接">
 <!-- Localization note: the format string below will be replaced
      with the Firefox Account's email address. -->
 <!ENTITY fxaccount_sync_sign_in_error_notification_text2 "点按以登录为 &formatS;">
+
+<!ENTITY fxaccount_sync_finish_migrating_notification_title "完成升级 &syncBrand.shortName.label;？">
+<!-- Localization note: the format string below will be replaced
+     with the Firefox Account's email address. -->
+<!ENTITY fxaccount_sync_finish_migrating_notification_text "点按以登录为 &formatS;">

@@ -172,6 +172,8 @@
 <!ENTITY pref_cookies_not_accept_foreign "已启用，不包括第三方的">
 <!ENTITY pref_cookies_disabled "已停用">
 
+<!ENTITY pref_tracking_protection_title "跟踪保护">
+<!ENTITY pref_tracking_protection_summary "&brandShortName; 将阻止网站的跟踪行为">
 <!ENTITY pref_donottrack_title "不跟踪">
 <!ENTITY pref_donottrack_summary "&brandShortName; 将会告诉网站您不想被追踪">
 
@@ -406,7 +408,7 @@ size. -->
 <!ENTITY home_most_recent_empty "您最近常访问的网站将出现在这里。">
 <!-- Localization note (home_most_recent_emptyhint2): "Psst" is a sound that might be used to attract someone's attention unobtrusively, and intended to hint at Private Browsing to the user.
      The placeholders &formatS1; and &formatS2; are used to mark the location of text underlining. -->
-<!ENTITY home_most_recent_emptyhint2 "嘘！&formatS1;打开新隐身浏览标签页&formatS2; 后将不会保存您的浏览记录。">
+<!ENTITY home_most_recent_emptyhint2 "嘘！&formatS1;打开新隐私浏览标签页&formatS2; 后将不会保存您的浏览记录。">
 <!ENTITY home_reading_list_empty "您保存以供稍后阅读的文章将出现在这里。">
 <!-- Localization note (home_reading_list_hint): The "TIP" string is synonymous to "hint", "clue", etc. This string is displayed
      as an advisory message on how to add content to the reading list when the reading list empty.
@@ -429,6 +431,8 @@ size. -->
 <!ENTITY home_remote_tabs_empty "来自您的其他设备的标签页将出现在这里。">
 <!ENTITY home_remote_tabs_unable_to_connect "无法连接">
 <!ENTITY home_remote_tabs_need_to_sign_in "请登录以重新连接您的 Firefox 账户以继续同步。">
+<!ENTITY home_remote_tabs_need_to_finish_migrating "您的全新的 Firefox 账户已经准备就绪！">
+
 <!ENTITY home_remote_tabs_trouble_verifying "验证您的账户时遇到困难？">
 <!ENTITY home_remote_tabs_need_to_verify "请验证您的 Firefox 账户以开始同步。">
 
@@ -474,7 +478,7 @@ substitution variables.  If it is difficult to translate the sense of the string
 with that structure, consider a translation which ignores the preceding domain and
 just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_run_by "它的经营者为">
-<!ENTITY identity_no_info "此网站没有提供身份识别信息。">
+<!ENTITY identity_no_info "此网站没有提供身份信息。">
 <!ENTITY identity_not_encrypted "您与此网站的连接未加密。">
 <!-- Mixed content notifications in site identity popup -->
 
@@ -525,12 +529,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY updater_apply_title2 "&brandShortName; 有可用更新">
 <!ENTITY updater_apply_select2 "触摸更新">
-<!-- New tablet UI -->
-<!-- LOCALIZATION NOTE (new_tablet_restart): Notification displayed after the user toggles the new tablet UI in the settings screen.-->
-
-
-<!ENTITY new_tablet_restart "重新启动浏览器使更改生效">
-<!ENTITY new_tablet_pref "启用新的平板界面">
 <!-- Guest mode -->
 
 <!ENTITY new_guest_session "新建访客会话">
