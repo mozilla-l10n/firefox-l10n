@@ -1,4 +1,4 @@
-<!ENTITY aboutDialog.title          "O &brandFullName;u">
+<!ENTITY aboutDialog.title          "O programu &brandFullName;">
 <!-- LOCALIZATION NOTE (update.checkForUpdatesButton.*, update.updateButton.*, update.applyButtonBillboard.*):
 # Only one button is present at a time.
 # The button when displayed is located directly under the Thunderbird version in
