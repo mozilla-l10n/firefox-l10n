@@ -118,7 +118,7 @@
 <!ENTITY pref_category_search3 "ಹುಡುಕು">
 <!ENTITY pref_category_search_summary "ನಿಮ್ಮ ಹುಡುಕು ಪೂರೈಕೆದಾರರನ್ನು ಗ್ರಾಹಕೀಯಗೊಳಿಸು">
 <!ENTITY pref_category_display "ಪ್ರದರ್ಶಿಸು">
-
+<!ENTITY pref_category_display_summary "ಪಠ್ಯ, ಶೀರ್ಷಿಕೆ ಪಟ್ಟಿ, ಪೂರ್ಣ ಪರದೆ ಜಾಲಾಟ">
 <!ENTITY pref_category_privacy_short "ಗೌಪ್ಯತೆ">
 <!ENTITY pref_category_privacy_summary "ನಿಯಂತ್ರಣ ಪಾಸ್‌ವರ್ಡ್‌ಗಳು, ಕುಕೀಗಳು, ಜಾಡು ಇರಿಸುವಿಕೆ, ದತ್ತಾಂಶ">
 <!ENTITY pref_category_vendor "&vendorShortName;">
@@ -212,7 +212,7 @@ size. -->
 <!ENTITY pref_font_size_preview_text "ಕಿತ್ತಳೆ ಬಣ್ಣದ ನರಿಯೊಂದು, ನಿಮ್ಮ ಊಹೆಗೆ ಮೀರಿದ ವೇಗ, ಫ್ಲೆಕ್ಸಿಬಿಲಿಟಿ ಮತ್ತು ಸುರಕ್ಷೆಯಿಂದ ನೆಗೆಯುವುದು. ನಾವು ಲಾಭದ ಹಿಂದೆ ಇಲ್ಲದ ಕಾರಣ, ಬಾಹ್ಯ ಒತ್ತಡಗಳಿಗೆ ಮಣಿಯದೆ, ನಿಮ್ಮ ಪರವಾಗಿ ಕೇವಲ ಹೊಸ ಕಲ್ಪನೆಗಳಿಗೆ ಇಂಬು ನೀಡಲು ಸಾಧ್ಯವಾಗಿದೆ. ಇದರರ್ಥ, ನೀವು ವೆಬ್-ಭವಿಷ್ಯದಲ್ಲಿ, ಮತ್ತಷ್ಟು ಮೇರೆ ಮೀರಿದ ಅನುಭವವನ್ನು ಪಡೆಯುವಿರಿ.">
 
 <!ENTITY pref_media_autoplay_enabled "ಆಟೋ ಪ್ಲೇ ಅನುಮತಿಸು">
-
+<!ENTITY pref_media_autoplay_enabled_summary "ಜಾಲತಾಣಗಳು ಸ್ವಯಂ ವೀಡಿಯೊ ಮತ್ತು ಇತರೆ ಮೀಡಿಯಾ ವಿಷಯಗಳನ್ನು ಪ್ಲೇ ಮಾಡುತ್ತಿದ್ದಲ್ಲಿ ನಿಯಂತ್ರಿಸಿ">
 
 <!ENTITY pref_use_master_password "ಮುಖ್ಯ ಗುಪ್ತಪದವನ್ನು ಬಳಸು">
 <!ENTITY pref_sync "ಸಿಂಕ್">
@@ -408,6 +408,7 @@ size. -->
 <!ENTITY home_most_recent_empty "ನೀವು ತೀರ ಇತ್ತೀಚೆಗೆ ಭೇಟಿಕೊಟ್ಟ ಅಂತರ್ಜಾಲ ಪುಟಗಳನ್ನು ಇಲ್ಲಿ ಪ್ರದರ್ಶಿಸಿ.">
 <!-- Localization note (home_most_recent_emptyhint2): "Psst" is a sound that might be used to attract someone's attention unobtrusively, and intended to hint at Private Browsing to the user.
      The placeholders &formatS1; and &formatS2; are used to mark the location of text underlining. -->
+<!ENTITY home_most_recent_emptyhint2 "Psst: &amp;formatS1 ಅನ್ನು ಬಳಸಲಾಗುತ್ತಿದೆ;ಹೊಸ ಖಾಸಗಿ ಟ್ಯಾಬ್&formatS2; ನಿಮ್ಮ ಇತಿಹಾಸವನ್ನು ಉಳಿಸುವುದಿಲ್ಲ.">
 <!ENTITY home_reading_list_empty "ನಂತರ ಓದಲು ಉಳಿಸಿದ ಲೇಖನಗಳನ್ನು ಇಲ್ಲಿ ತೋರಿಸಲಾಗುತ್ತದೆ.">
 <!-- Localization note (home_reading_list_hint): The "TIP" string is synonymous to "hint", "clue", etc. This string is displayed
      as an advisory message on how to add content to the reading list when the reading list empty.
@@ -429,11 +430,11 @@ size. -->
 <!ENTITY home_remote_tabs_title "ಸಿಂಕ್ ಮಾಡಿದ ಹಾಳೆಗಳು">
 <!ENTITY home_remote_tabs_empty "ನಿಮ್ಮ ಬೇರೆ ಸಾಧನಗಳ ಹಾಳೆಗಳು ಇಲ್ಲಿ ಕಾಣಿಸಿಕೊಳ್ಳುತ್ತವೆ.">
 <!ENTITY home_remote_tabs_unable_to_connect "ಸಂಪರ್ಕ ಹೊಂದಲು ಸಾಧ್ಯವಾಗಿಲ್ಲ">
-
+<!ENTITY home_remote_tabs_need_to_sign_in "Firefox ಖಾತೆಗೆ ಮತ್ತೆ ಸಂಪರ್ಕಿಸಲು ಮತ್ತು ಸಿಂಕ್ ಮುಂದುವರೆಸಲು ದಯವಿಟ್ಟು ಸೈನ್ ಇನ್ ಆಗಿ.">
 <!ENTITY home_remote_tabs_need_to_finish_migrating "ನಿಮ್ಮ ಹೊಸ Firefox ಖಾತೆ ತಯಾರಾಗಿದೆ!">
 
 <!ENTITY home_remote_tabs_trouble_verifying "ನಿಮ್ಮ ಖಾತೆ ದೃಢಪಡಿಸುವಲ್ಲಿ ತೊಂದರೆಯಾಗುತ್ತಿದೆಯೇ?">
-
+<!ENTITY home_remote_tabs_need_to_verify "ಸಿಂಕ್ ಪ್ರಾರಂಭಿಸಲು ದಯವಿಟ್ಟು ನಿಮ್ಮ Firefox ಖಾತೆಯನ್ನು ದೃಢಪಡಿಸಿ.">
 
 <!ENTITY home_remote_tabs_one_hidden_device "1 ಸಾಧನ ಅಡಗಿದೆ">
 <!-- Localization note (home_remote_tabs_many_hidden_devices) : The
@@ -454,7 +455,7 @@ size. -->
 
 <!ENTITY remote_tabs_panel_moved_title "ನನ್ನ ಹಾಳೆಗಳು ಎಲ್ಲಿ ಹೋದವು?">
 
-
+<!ENTITY remote_tabs_panel_moved_link "ನನ್ನನ್ನು ನನ್ನ ಹೊಸ ಮುಖ್ಯ ಪಟ್ಟಿಗೆ ಕರೆದುಕೊಂಡು ಹೋಗು.">
 
 <!ENTITY pin_site_dialog_hint "ಹುಡುಕು ಕೀಲಿಪದವೊಂದನ್ನು ನಮೂದಿಸಿ">
 
@@ -487,9 +488,9 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- Tracking content notifications in site identity popup -->
 
 <!ENTITY loaded_tracking_content_message_top "ಜಾಡು ಹಿಡಿಯುವಿಕೆ ಸುರಕ್ಷೆ ನಿಷ್ಕ್ರಿಯವಾಗಿದೆ.">
-
-
-
+<!ENTITY loaded_tracking_content_message_bottom "ಈ ಪುಟದ ಕೆಲವೊಂದು ಭಾಗಗಳು ನಿಮ್ಮ ಆನ್‌ಲೈನ್ ಚಟುವಟಿಕೆಗಳ ಜಾಡು ಹಿಡಿಯುತ್ತವೆ.">
+<!ENTITY blocked_tracking_content_message_top2 "ಜಾಡು ಹಿಡಿಯುವಿಕೆಯ ಸುರಕ್ಷೆ ಸಕ್ರಿಯವಾಗಿದೆ.">
+<!ENTITY blocked_tracking_content_message_bottom2 "ಈ ಪುಟದ ಕೆಲವೊಂದು ಭಾಗಗಳು ನಿಮ್ಮ ಆನ್‌ಲೈನ್ ಚಟುವಟಿಕೆಗಳ ಜಾಡು ಹಿಡಿಯುವುದನ್ನು ಪ್ರತಿಬಂಧಿಸಲಾಗಿದೆ.">
 <!-- Common mixed and tracking content strings in site identity popup -->
 
 <!ENTITY learn_more "ಇನ್ನಷ್ಟು ತಿಳಿಯಿರಿ">
@@ -539,8 +540,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY guest_session_dialog_cancel "ರದ್ದು">
 <!ENTITY new_guest_session_title "&brandShortName; ಈಗ ಮತ್ತೆ ಶುರುವಾಗುತ್ತದೆ">
 <!ENTITY new_guest_session_text "ಇದನ್ನು ಬಳಸುವ ವ್ಯಕ್ತಿಗೆ ನಿಮ್ಮ ಯಾವುದೇ ವೈಯಕ್ತಿಕ ಜಾಲಾಟದ ದತ್ತಾಂಶ (ಉಳಿಸಿದ ಪ್ರವೇಶಪದಗಳು, ಇತಿಹಾಸ ಅಥವಾ ಪುಟಗುರುತುಗಳು ಇತ್ಯಾದಿ)ಕಾಣಲು ಸಾಧ್ಯವಿಲ್ಲ.\n\n ನಿಮ್ಮ ಅತಿಥಿಗಳ ಕೆಲಸ ಮುಗಿದ ನಂತರ, ಅವರ ಜಾಲಾಟದ ದತ್ತಾಂಶವು ಅಳಿಸಲ್ಪಟ್ಟು ನಿಮ್ಮ ಅಧಿವೇಶನ ಪುನರಾರಂಭಗೊಳ್ಳುತ್ತದೆ.">
-
-
+<!ENTITY guest_browsing_notification_title "ಅತಿಥಿ ಜಾಲಾಟ ಸಕ್ರಿಯಗೊಳಿಸಲಾಗಿದೆ">
+<!ENTITY guest_browsing_notification_text "ನಿರ್ಗಮಿಸಲು ಮೆಲ್ಲಗೆ ತಟ್ಟಿ">
 
 <!ENTITY exit_guest_session_title "&brandShortName; ಈಗ ಪುನರಾರಂಭವಾಗುತ್ತದೆ">
 <!ENTITY exit_guest_session_text "ಈ ಅಧಿವೇಶನದಿಂದ ಜಾಲಾವೀಕ್ಷಣೆ ದತ್ತಾಂಶವನ್ನು ಅಳಿಸಲಾಗುತ್ತದೆ.">
