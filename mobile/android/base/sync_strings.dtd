@@ -137,7 +137,6 @@
 <!ENTITY fxaccount_status_needs_upgrade "È necessario aggiornare &brandShortName; per accedere.">
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled "&syncBrand.shortName.label; è configurato ma non impostato per la sincronizzazione automatica. Selezionare “Sincronizzazione automatica dei dati” nelle impostazioni di Android, sezione “Utilizzo dati”.">
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled_v21 "&syncBrand.shortName.label; è configurato ma non impostato per la sincronizzazione automatica. Selezionare “Sincronizzazione automatica dei dati” nelle impostazioni di Android, sezione “Account”.">
-<!ENTITY fxaccount_status_needs_account_enabled "&syncBrand.shortName.label; è configurato ma non impostato per la sincronizzazione automatica. Tocca per avviare la sincronizzazione.">
 <!ENTITY fxaccount_status_needs_finish_migrating "Tocca per accedere al nuovo Firefox Account.">
 <!ENTITY fxaccount_status_bookmarks "Segnalibri">
 <!ENTITY fxaccount_status_history "Cronologia">
