@@ -9,10 +9,10 @@
                        for the help button in the menubar but Gnome does not.   -->
 <!ENTITY helpMenuWin.label "Pomoč">
 <!ENTITY helpMenuWin.accesskey "m">
-<!ENTITY helpTroubleshootingInfo.label     "Podatki o reševanju težav">
-<!ENTITY helpTroubleshootingInfo.accesskey "P">
-<!ENTITY helpSafeMode.label     "Zaženi znova z onemogočenimi dodatki …">
-<!ENTITY helpSafeMode.accesskey "Z">
+<!ENTITY helpTroubleshootingInfo.label     "Reševanje težav">
+<!ENTITY helpTroubleshootingInfo.accesskey "R">
+<!ENTITY helpSafeMode.label     "Ponovno zaženi z onemogočenimi dodatki …">
+<!ENTITY helpSafeMode.accesskey "n">
 <!ENTITY releaseCmd2.label "Opombe ob izdaji">
 <!ENTITY releaseCmd2.accesskey "O">
 <!ENTITY whatsNewCmd.label "Kaj je novega">
