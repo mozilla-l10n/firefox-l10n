@@ -4,12 +4,8 @@
 
 <!ENTITY tracking.label                 "Monitorização">
 
-<!ENTITY dntTrackingNopref.label2       "Não dizer aos sítios web sobre a minha preferência de localização">
-<!ENTITY dntTrackingNopref.accesskey    "T">
 <!ENTITY dntTrackingNotOkay.label2      "Não autorizo a ser seguido">
 <!ENTITY dntTrackingNotOkay.accesskey   "N">
-<!ENTITY dntTrackingOkay.label2         "Eu autorizo a ser seguido">
-<!ENTITY dntTrackingOkay.accesskey      "s">
 <!ENTITY trackingProtection.label       "Impedir que sites me monitorizem">
 <!ENTITY trackingProtection.accesskey   "m">
 <!ENTITY trackingProtectionLearnMore.label "Saber mais">
@@ -19,13 +15,13 @@
 
 <!ENTITY  locationBar.label             "Barra de localização">
 
-<!ENTITY  locbar.pre.label              "Ao usar a barra de localização, sugerir:">
-<!ENTITY  locbar.pre.accessKey          "l">
-<!ENTITY  locbar.post.label             "">
-<!ENTITY  locbar.both.label             "Histórico e Marcadores">
+<!ENTITY  locbar.suggest.label          "Ao usar a barra de localização, sugerir:">
 <!ENTITY  locbar.history.label          "Histórico">
+<!ENTITY  locbar.history.accesskey      "H">
 <!ENTITY  locbar.bookmarks.label        "Marcadores">
-<!ENTITY  locbar.nothing.label          "Nada">
+<!ENTITY  locbar.bookmarks.accesskey    "M">
+<!ENTITY  locbar.openpage.label         "Abrir separadores">
+<!ENTITY  locbar.openpage.accesskey     "o">
 
 <!ENTITY  acceptCookies.label           "Aceitar cookies de sítios">
 <!ENTITY  acceptCookies.accesskey       "c">
@@ -40,7 +36,7 @@
 <!ENTITY  keepUntil.accesskey           "G">
 
 <!ENTITY  expire.label                  "estas expirarem">
-<!ENTITY  close.label                   "fechar o &brandShortName;">
+<!ENTITY  close.label                   "Fechar o &brandShortName;">
 <!ENTITY  askEachTime.label             "perguntar sempre que necessário">
 
 <!ENTITY cookieExceptions.label "Exceções...">

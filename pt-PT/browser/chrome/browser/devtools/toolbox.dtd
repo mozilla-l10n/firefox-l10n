@@ -114,10 +114,15 @@
   -  for the target of the toolbox. -->
 <!ENTITY options.toolNotSupported.label  "* Não suportado para o destino atual da caixa de ferramentas">
 
-<!-- LOCALIZATION NOTE (options.selectDevToolsTheme.label): This is the label for
+<!-- LOCALIZATION NOTE (options.selectDevToolsTheme.label2): This is the label for
   -  the heading of the radiobox corresponding to the theme of the developer
   -  tools. -->
-<!ENTITY options.selectDevToolsTheme.label   "Escolha o tema DevTools:">
+<!ENTITY options.selectDevToolsTheme.label2   "Temas">
+
+<!-- LOCALIZATION NOTE (options.usedeveditiontheme.*) Options under the
+  -  toolbox for enabling and disabling the Developer Edition browser theme. -->
+<!ENTITY options.usedeveditiontheme.label   "Usar tema do navegador da edição do desenvolvedor">
+<!ENTITY options.usedeveditiontheme.tooltip "Trocar o tema do navegador da edição do desenvolvedor.">
 
 <!-- LOCALIZATION NOTE (options.webconsole.label): This is the label for the
   -  heading of the group of Web Console preferences in the options panel. -->
