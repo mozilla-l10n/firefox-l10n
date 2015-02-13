@@ -18,7 +18,7 @@
 <!ENTITY search_pref_button_content_description "Tənzimləmələr">
 
 <!ENTITY pref_clearHistory_confirmation "Tarixçə təmizləndi">
-
+<!ENTITY pref_clearHistory_dialogMessage "Bu cihazdakı bütün axtarış tarixi silinsin?">
 <!ENTITY pref_clearHistory_title "Axtarış keçmişini təmizlə">
 
 <!ENTITY pref_searchProvider_title "Axtarış mühərriki">
