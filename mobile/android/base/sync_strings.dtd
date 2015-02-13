@@ -190,7 +190,7 @@
 <!ENTITY fxaccount_update_credentials_unknown_error "ಸೈನ್ ಇನ್ ಸಾಧ್ಯವಾಗಿಲ್ಲ">
 
 <!ENTITY fxaccount_finish_migrating_header "ಅಪ್ಗ್ರೇಡ್ ಮುಗಿಸಲು ಸೈನ್‌ಇನ್ ಮಾಡಿ">
-
+<!ENTITY fxaccount_finish_migrating_button_label "ಅಪ್ಗ್ರೇಡ್ ಮುಗಿಸು">
 
 
 <!ENTITY fxaccount_status_header2 "ಫೈರ್ಫಾಕ್ಸ್ ಖಾತೆ">
