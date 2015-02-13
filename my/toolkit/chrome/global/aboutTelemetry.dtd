@@ -8,6 +8,7 @@
 
 <!ENTITY aboutTelemetry.telemetryDisabled "    Telemetry is <span>disabled</span>.">
 
+<!ENTITY aboutTelemetry.generalDataSection "  အထွေထွေ အချက်အလက်">
 
 <!ENTITY aboutTelemetry.slowSqlSection " Slow SQL Statements">
 
@@ -17,6 +18,7 @@
 
 <!ENTITY aboutTelemetry.histogramsSection "  Histograms">
 
+<!ENTITY aboutTelemetry.keyedHistogramsSection "  ကီးများဖြင့် ဇယားကွက်">
 
 <!ENTITY aboutTelemetry.simpleMeasurementsSection "   ရိုးရှင်းသော တိုင်းတာချက်များ">
 

@@ -52,6 +52,7 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 <!ENTITY aboutSupport.appBasicsUserAgent "အသုံးပြုသူ အေးဂျင့်">
 <!ENTITY aboutSupport.appBasicsMemoryUse "မှတ်ဉာဏ်သုံးဆွဲမှူ">
 
+<!ENTITY aboutSupport.appBasicsMultiProcessSupport "တစ်ပြိုင်နက်လုပ်ဆောင်ချက် ဝင်းဒိုးများ">
 
 <!ENTITY aboutSupport.showDir.label "ဖွင့်ထားသော လမ်းညွှန်">
 <!-- LOCALIZATION NOTE (aboutSupport.showMac.label): This is the Mac-specific
@@ -64,14 +65,15 @@ variant of aboutSupport.showDir.label. -->
 
 <!ENTITY aboutSupport.modifiedKeyPrefsTitle "Important Modified Preferences">
 <!ENTITY aboutSupport.modifiedPrefsName "အမည်">
-
+<!ENTITY aboutSupport.modifiedPrefsValue "တန်ဖိုး">
 <!-- LOCALIZATION NOTE (aboutSupport.userJSTitle, aboutSupport.userJSDescription): user.js is the name of the preference override file being checked. -->
 
 <!ENTITY aboutSupport.userJSTitle "user.js Preferences">
 <!ENTITY aboutSupport.userJSDescription "Your profile folder contains a <a id='prefs-user-js-link'>user.js file</a>, which includes preferences that were not created by &brandShortName;.">
 
-
-
+<!ENTITY aboutSupport.lockedKeyPrefsTitle "အရေးကြီးသော အပြင်အဆင်များ">
+<!ENTITY aboutSupport.lockedPrefsName "အမည်">
+<!ENTITY aboutSupport.lockedPrefsValue "တန်ဖိုး">
 
 <!ENTITY aboutSupport.graphicsTitle "ဂရပ်ဖစ်">
 
@@ -90,3 +92,4 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.copyTextToClipboard.label "ကလစ်ဘုတ်သို့ ကူးသောစာ">
 <!ENTITY aboutSupport.copyRawDataToClipboard.label "ကူးထားသောဒေတာအကြမ်းကို ကလစ်ဘုတ်သို့">
 
+<!ENTITY aboutSupport.sandboxTitle "စမ်းသပ်">
