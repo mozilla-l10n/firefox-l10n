@@ -14,9 +14,9 @@
                        for the help button in the menubar but Gnome does not.   -->
 <!ENTITY helpMenuWin.label "Ajuda">
 <!ENTITY helpMenuWin.accesskey "A">
-<!ENTITY aboutProduct2.label "Sobre o &brandShortName;">
+<!ENTITY aboutProduct2.label "Sobre o &brandShorterName;">
 <!ENTITY aboutProduct2.accesskey "S">
-<!ENTITY productHelp2.label        "Ajuda do &brandShortName;">
+<!ENTITY productHelp2.label        "Ajuda do &brandShorterName;">
 <!ENTITY productHelp2.accesskey    "A">
 <!ENTITY helpMac.commandkey       "?">
 
@@ -26,8 +26,8 @@
 <!ENTITY helpSafeMode.label       "Reiniciar com os extras desactivados…">
 <!ENTITY helpSafeMode.accesskey   "R">
 
-<!ENTITY healthReport2.label       "Relatório de estado do &brandShortName;">
-<!ENTITY healthReport2.accesskey   "e">
+<!ENTITY healthReport2.label      "Relatório de estado do &brandShorterName;">
+<!ENTITY healthReport2.accesskey  "e">
 
 <!ENTITY helpTroubleshootingInfo.label      "Informação sobre resolução de problemas">
 <!ENTITY helpTroubleshootingInfo.accesskey  "I">
@@ -35,15 +35,15 @@
 <!ENTITY helpFeedbackPage.label      "Submeter Feedback…">
 <!ENTITY helpFeedbackPage.accesskey  "S">
 
-<!ENTITY helpShowTour2.label             "Visita ao &brandShortName;">
-<!ENTITY helpShowTour2.accesskey         "o">
+<!ENTITY helpShowTour2.label            "Visita ao &brandShorterName;">
+<!ENTITY helpShowTour2.accesskey        "o">
 
 <!ENTITY preferencesCmdMac.label "Preferências...">
 <!ENTITY preferencesCmdMac.commandkey ",">
 
 <!ENTITY servicesMenuMac.label "Serviços">
 
-<!ENTITY hideThisAppCmdMac2.label        "Esconder o &brandShortName;">
+<!ENTITY hideThisAppCmdMac2.label       "Esconder o &brandShorterName;">
 <!ENTITY hideThisAppCmdMac2.commandkey "H">
 
 <!ENTITY hideOtherAppsCmdMac.label "Ocultar outros">
