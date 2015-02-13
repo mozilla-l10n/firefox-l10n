@@ -25,6 +25,8 @@
 <!ENTITY contextAfterCls.label "Filtrar depois da classificação de lixo eletrónico">
 <!ENTITY contextOutgoing.label "Após enviar">
 <!ENTITY contextOutgoing.accesskey "s">
+<!ENTITY contextArchive.label "A arquivar">
+<!ENTITY contextArchive.accesskey "A">
 
 <!ENTITY filterActionDesc.label "Efetuar estas ações:">
 <!ENTITY filterActionDesc.accesskey "E">
