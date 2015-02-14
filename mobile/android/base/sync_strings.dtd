@@ -170,9 +170,9 @@
 <!ENTITY fxaccount_confirm_account_change_email "Pamiršti šį el. pašto adresą?">
 <!ENTITY fxaccount_confirm_account_verification_link_sent2 "Patvirtinimo laiškas išsiųstas">
 <!ENTITY fxaccount_confirm_account_verification_link_not_sent2 "Patvirtinimo laiško išsiųsti nepavyko">
-
-
-
+<!ENTITY fxaccount_resend_unlock_code_button_label "Persiųsti atrakinimo laišką">
+<!ENTITY fxaccount_unlock_code_sent "Paskyros atrakinimo laiškas išsiųstas">
+<!ENTITY fxaccount_unlock_code_not_sent "Nepavyko išsiųsti paskyros atrakinimo laiško">
 
 <!ENTITY fxaccount_sign_in_sub_header "Prisijunkite">
 <!ENTITY fxaccount_sign_in_button_label "Prisijungti">
@@ -183,13 +183,15 @@
 <!ENTITY fxaccount_account_verified_sub_header "Paskyra patvirtinta">
 <!ENTITY fxaccount_account_verified_description2 "Jūsų duomenys bus pradėti sinchronizuoti nedelsiant.">
 
+<!ENTITY fxaccount_migration_finished_header "Atnaujinimas baigtas">
 
 <!ENTITY fxaccount_update_credentials_header "Prisijunkite">
 <!ENTITY fxaccount_update_credentials_button_label "Prisijungti">
 <!ENTITY fxaccount_update_credentials_unknown_error "Prisijungti nepavyko">
 
-
-
+<!ENTITY fxaccount_finish_migrating_header "Prisijunkite, kad užbaigtumėte atnaujinimą">
+<!ENTITY fxaccount_finish_migrating_button_label "Baigti atnaujinimą">
+<!ENTITY fxaccount_finish_migrating_description "Atnaujinimo metu gali būti perduota daug duomenų, todėl geriausia prisijungti prie „WiFi“ tinklo.">
 
 <!ENTITY fxaccount_status_header2 "„Firefox“ paskyra">
 <!ENTITY fxaccount_status_signed_in_as "Prisijungėte kaip">
@@ -206,7 +208,7 @@
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled "„&syncBrand.shortName.label;“ sukonfigūruota, tačiau duomenys nesinchronizuojami automatiškai. Įjunkite automatinį duomenų sinchronizavimą „Android“ nustatymų skiltyje „Duomenų naudojimas“.">
 
 <!ENTITY fxaccount_status_needs_account_enabled "„&syncBrand.shortName.label;“ sukonfigūruota, tačiau duomenys nesinchronizuojami automatiškai. Bakstelėkite sinchronizavimui pradėti.">
-
+<!ENTITY fxaccount_status_needs_finish_migrating "Bakstelėkite, norėdami prisijungti prie savo naujosios „Firefox“ paskyros.">
 <!ENTITY fxaccount_status_bookmarks "Adresynas">
 <!ENTITY fxaccount_status_history "Žurnalas">
 <!ENTITY fxaccount_status_passwords "Slaptažodžiai">
@@ -254,11 +256,12 @@
 <!ENTITY fxaccount_remote_error_SERVICE_TEMPORARILY_UNAVAILABLE_TO_DUE_HIGH_LOAD "Serveris užimtas, bandykite kreiptis vėliau">
 <!ENTITY fxaccount_remote_error_UNKNOWN_ERROR "Iškilo problema">
 <!ENTITY fxaccount_remote_error_COULD_NOT_CONNECT "Nepavyko prisijungti prie tinklo">
-
+<!ENTITY fxaccount_remote_error_ACCOUNT_LOCKED "Paskyra užrakinta. &formatS1;">
 
 <!ENTITY fxaccount_sync_sign_in_error_notification_title2 "„&syncBrand.shortName.label;“ nepavyko prisijungti">
 <!-- Localization note: the format string below will be replaced
      with the Firefox Account's email address. -->
 
+<!ENTITY fxaccount_sync_finish_migrating_notification_title "Užbaigti „&syncBrand.shortName.label;“ atnaujinimą?">
 <!-- Localization note: the format string below will be replaced
      with the Firefox Account's email address. -->
