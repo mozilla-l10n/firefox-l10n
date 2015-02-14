@@ -6,10 +6,11 @@
 <!ENTITY  window.width                    "38em">
 <!ENTITY  window.macWidth                 "43em">
 
-
+<!ENTITY  overridePageColors.label        "Səhifənin təyin etdiyi rəngləri yuxarıdakı seçimlərimlə dəyiş:">
+<!ENTITY  overridePageColors.accesskey    "d">
 
 <!ENTITY  overridePageColors.always.label "Hər zaman">
-
+<!ENTITY  overridePageColors.auto.label   "Ancaq yüksək kontrastlı örtüklər ilə">
 <!ENTITY  overridePageColors.never.label  "Heç zaman">
 
 <!ENTITY  color                           "Mətn və arxa fon">
