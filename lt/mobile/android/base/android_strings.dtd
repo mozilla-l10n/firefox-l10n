@@ -172,7 +172,8 @@
 <!ENTITY pref_cookies_not_accept_foreign "Leidžiami, išskyrus trečiųjų šalių">
 <!ENTITY pref_cookies_disabled "Neleidžiami">
 
-
+<!ENTITY pref_tracking_protection_title "Apsauga nuo stebėjimo">
+<!ENTITY pref_tracking_protection_summary "„&brandShortName;“ neleis svetainėms jūsų sekti">
 <!ENTITY pref_donottrack_title "Nestebėti">
 <!ENTITY pref_donottrack_summary "&brandShortName; praneš svetainėms, kad jūs nenorite būti stebimi">
 
@@ -430,7 +431,7 @@ size. -->
 <!ENTITY home_remote_tabs_empty "Kortelės iš kitų jūsų įrenginių matomos čia.">
 <!ENTITY home_remote_tabs_unable_to_connect "Nepavyko užmegzti ryšio">
 <!ENTITY home_remote_tabs_need_to_sign_in "Norint tęsti sinchronizavimą, reikia iš naujo prisijungti prie jūsų „Firefox“ paskyros.">
-
+<!ENTITY home_remote_tabs_need_to_finish_migrating "Jūsų nauja „Firefox“ paskyra jau paruošta!">
 
 <!ENTITY home_remote_tabs_trouble_verifying "Nepavyksta patvirtinti paskyros?">
 <!ENTITY home_remote_tabs_need_to_verify "Prieš pradedant sinchronizavimą, reikia patvirtinti jūsų „Firefox“ paskyrą.">
