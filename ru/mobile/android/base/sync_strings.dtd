@@ -137,7 +137,6 @@
 <!ENTITY fxaccount_status_needs_upgrade "Чтобы войти, вам нужно обновить &brandShortName;.">
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled "Синхронизация настроена, но автоматически не запущена. Установите флажок «Автосинхронизация» в меню «Настройки &gt; Использование данных» Android.">
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled_v21 "Синхронизация настроена, но автоматически не запущена. Установите флажок «Автосинхронизация данных» в меню «Настройки &gt; Аккаунты» Android.">
-<!ENTITY fxaccount_status_needs_account_enabled "Синхронизация настроена, но автоматически не запущена. Нажмите, чтобы начать синхронизацию.">
 <!ENTITY fxaccount_status_needs_finish_migrating "Нажмите, чтобы войти в новую Учётную запись Firefox.">
 <!ENTITY fxaccount_status_bookmarks "Закладки">
 <!ENTITY fxaccount_status_history "История">
