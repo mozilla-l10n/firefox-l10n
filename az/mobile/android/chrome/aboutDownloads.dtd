@@ -6,8 +6,8 @@
 
 
 
-<!ENTITY aboutDownloads.open                       "Open">
-<!ENTITY aboutDownloads.remove                     "Delete">
+<!ENTITY aboutDownloads.open                       "Aç">
+<!ENTITY aboutDownloads.remove                     "Sil">
 
 <!ENTITY aboutDownloads.pause                      "Dayandır">
 <!ENTITY aboutDownloads.resume                     "Devam et">

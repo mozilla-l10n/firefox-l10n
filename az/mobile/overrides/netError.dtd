@@ -33,7 +33,10 @@
 </ul>">
 
 <!ENTITY fileNotFound.title "Fayla tapılmadı">
-
+<!ENTITY fileNotFound.longDesc "<ul> 
+<li>Faylın adını böyük hərf və ya digər yazı səhvləri üçün yoxlayın.</li> 
+<li>Faylın köçürülmədiyini, adının dəyişdirilmədiyini və ya silinmədiyini yoxlayın.</li> 
+</ul>">
 
 
 <!ENTITY generic.title "İstək yerinə yetirilə bilmir">
@@ -42,6 +45,16 @@
 <!ENTITY malformedURI.title "Yanlış ünvan">
 <!-- LOCALIZATION NOTE (malformedURI.longDesc2) This string contains markup including widgets for searching
      or enabling wifi connections. The text inside the tags should be localized. Do not touch the ids. -->
+<!ENTITY malformedURI.longDesc2 "<ul> 
+<li>Web adresləri əsasən 
+<strong>http://www.example.com/</strong> kimi yazılır.</li> 
+<div id='searchbox'> 
+<input id='searchtext' type='search'></input> 
+<button id='searchbutton'>Axtar</button> 
+</div> 
+<li>Sağa əyrilmiş bölmə işarəti işlətdiyinizdən əmin olun (məs. 
+<strong>/</strong>).</li> 
+</ul>">
 
 <!ENTITY netInterrupt.title "Məlumat ötürmə xətası">
 <!ENTITY netInterrupt.longDesc2 "&sharedLongDesc3;">
@@ -52,6 +65,11 @@
 <!ENTITY netOffline.title "Offline bağlantı səhvi">
 <!-- LOCALIZATION NOTE (netOffline.longDesc3) This string contains markup including widgets enabling wifi connections.
      The text inside the tags should be localized. Do not touch the ids. -->
+<!ENTITY netOffline.longDesc3 "<ul> 
+<li>Yenidən yoxla. &brandShortName; bağlantı açıb səhifəni təkrar yükləməyə cəhd edəcək. 
+<button id='wifi'>Wi-Fi Aktivləşdir</button> 
+</li> 
+</ul>">
 
 <!ENTITY contentEncodingError.title "Məzmun kodlama səhvi">
 <!ENTITY contentEncodingError.longDesc "<ul> 
