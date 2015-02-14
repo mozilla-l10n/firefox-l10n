@@ -6,13 +6,16 @@
 <!ENTITY filterEditorDialog.dimensions "width: 108ch;">
 <!ENTITY filterName.label "Nome do filtro:">
 <!ENTITY filterName.accesskey "N">
+
 <!ENTITY junk.label "Lixo eletrónico">
 <!ENTITY notJunk.label "Não é lixo eletrónico">
+
 <!ENTITY lowestPriorityCmd.label "Muito baixa">
 <!ENTITY lowPriorityCmd.label "Baixa">
 <!ENTITY normalPriorityCmd.label "Normal">
 <!ENTITY highPriorityCmd.label "Alta">
 <!ENTITY highestPriorityCmd.label "Muito alta">
+
 <!ENTITY contextDesc.label "Aplicar filtro:">
 <!ENTITY contextIncomingMail.label "Ao obter novo correio:">
 <!ENTITY contextIncomingMail.accesskey "b">
@@ -20,8 +23,11 @@
 <!ENTITY contextManual.accesskey "f">
 <!ENTITY contextBeforeCls.label "Filtrar antes da classificação de lixo eletrónico">
 <!ENTITY contextAfterCls.label "Filtrar depois da classificação de lixo eletrónico">
+<!ENTITY contextOutgoing.label "Após enviar">
+<!ENTITY contextOutgoing.accesskey "s">
 <!ENTITY filterActionDesc.label "Efetuar estas ações:">
 <!ENTITY filterActionDesc.accesskey "E">
+
 <!ENTITY filterActionOrderWarning.label "Nota: as ações serão excutadas por uma ordem diferente.">
 <!ENTITY filterActionOrder.label "Consulte a ordem de execução">
 
@@ -43,6 +49,7 @@
 <!ENTITY ignoreSubthread.label "Ignorar subtópico">
 <!ENTITY watchThread.label "Ver tópico">
 <!ENTITY stopExecution.label "Parar execução de filtro">
+
 <!ENTITY addAction.tooltip "Adicionar uma nova ação">
 <!ENTITY removeAction.tooltip "Remover esta ação">
 
