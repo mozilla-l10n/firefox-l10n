@@ -129,10 +129,10 @@ functionality specific to firefox. -->
 ">
 
 <!ENTITY errorReporting.title "Rapportar questa errur">
-<!ENTITY errorReporting.longDesc "Rapportar questa adressa ed las infurmaziuns da certificat per <span id='hostname'></span> ans gida dad identifitgar e bloccar paginas malvulentas. Grazia per gidar da crear in web pli segir!">
-<!ENTITY errorReporting.automatic "Rapportar en futur automaticamain errurs">
+<!ENTITY errorReporting.longDesc "Sche ti rapportas questa adressa e las infurmaziuns da certificat per <span id='hostname'></span> ans gida quai dad identifitgar e bloccar paginas malvulentas. Grazia per gidar da crear in web pli segir!">
+<!ENTITY errorReporting.automatic "Rapportar automaticamain errurs en l'avegnir">
 <!ENTITY errorReporting.learnMore "Ulteriuras infurmaziuns…">
-<!ENTITY errorReporting.sending "Tramet il rapport">
+<!ENTITY errorReporting.sending "Trametter il rapport">
 <!ENTITY errorReporting.sent "Tramess il rapport">
 <!ENTITY errorReporting.report "Rapport">
 <!ENTITY errorReporting.tryAgain "Empruvar anc ina giada">
@@ -143,8 +143,8 @@ functionality specific to firefox. -->
 <!ENTITY oldSecurityProtocol.title "Impussibel da connectar a moda segira">
 <!-- LOCALIZATION NOTE (oldSecurityProtocol.longDesc) - Do not translate the
      <span id='hostname'></span>. -->
-<!ENTITY oldSecurityProtocol.longDesc2 "&brandShortName; na po betg garantir la segirtad da tias datas sin <span id='hostname'></span> perquai ch'il protocol malsegir SSLv3 vegn utilisà.">
+<!ENTITY oldSecurityProtocol.longDesc2 "&brandShortName; na po betg garantir la segirezza da tias datas sin <span id='hostname'></span> perquai ch'il protocol malsegir SSLv3 vegn utilisà.">
 <!-- LOCALIZATION NOTE (oldSecurityProtocol.advancedInfo) - Do not translate
      the <span id='errorcode'></span>. -->
-<!ENTITY oldSecurityProtocol.advancedInfo "Infurmaziuns extendidas: <span id='errorcode'></span>">
+<!ENTITY oldSecurityProtocol.advancedInfo "Infurmaziuns avanzadas: <span id='errorcode'></span>">
 <!ENTITY oldSecurityProtocol.learnMore "Ulteriuras infurmaziuns…">
