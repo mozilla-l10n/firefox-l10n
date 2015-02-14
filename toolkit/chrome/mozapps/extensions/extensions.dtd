@@ -1,6 +1,7 @@
 <!ENTITY addons.windowTitle                   "Gestionnaire de modules complémentaires">
 
 <!ENTITY search.placeholder                   "Rechercher dans tous les modules">
+<!ENTITY search.buttonlabel                   "Rechercher">
 <!-- LOCALIZATION NOTE (search.commandKey):
      The search command key should match findOnCmd.commandkey from browser.dtd -->
 <!ENTITY search.commandkey                    "f">

@@ -68,10 +68,6 @@
   -  for the options button. -->
 <!ENTITY profilerUI.options.tooltiptext "Configurer les préférences de performance.">
 
-<!-- LOCALIZATION NOTE (profilerUI.flattenTree.tooltiptext): This is the tooltip
-  -  for the tree-flattening checkbox's label.  -->
-<!ENTITY profilerUI.flattenTree.tooltiptext "Inverser l'arbre d'appels affiche les chemins d'appels profilés des images les plus récentes aux images les plus anciennes.">
-
 <!-- LOCALIZATION NOTE (profilerUI.invertTree): This is the label shown next to
   -  a checkbox that inverts and un-inverts the profiler's call tree. -->
 <!ENTITY profilerUI.invertTree             "Inverser l'arbre d'appels">
