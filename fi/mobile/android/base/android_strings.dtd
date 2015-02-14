@@ -172,6 +172,8 @@
 <!ENTITY pref_cookies_not_accept_foreign "Sallittu pois lukien kolmannen osapuolen evästeet">
 <!ENTITY pref_cookies_disabled "Estetty">
 
+<!ENTITY pref_tracking_protection_title "Seurannalta suojautuminen">
+<!ENTITY pref_tracking_protection_summary "&brandShortName; estää sivustoja seuraamasta sinua">
 <!ENTITY pref_donottrack_title "Älä seuraa">
 <!ENTITY pref_donottrack_summary "&brandShortName; ilmoittaa sivustoille, ettet halua niiden seuraavan sinua">
 
@@ -429,6 +431,8 @@ size. -->
 <!ENTITY home_remote_tabs_empty "Välilehdet muista laitteista näkyvät tässä.">
 <!ENTITY home_remote_tabs_unable_to_connect "Yhteyttä ei voitu muodostaa">
 <!ENTITY home_remote_tabs_need_to_sign_in "Kirjaudu sisään palauttaaksesi yhteyden Firefox-tiliisi ja jatkaaksesi synkrointia.">
+<!ENTITY home_remote_tabs_need_to_finish_migrating "Uusi Firefox-tilisi on valmis!">
+
 <!ENTITY home_remote_tabs_trouble_verifying "Ongelmia tilisi todentamisessa?">
 <!ENTITY home_remote_tabs_need_to_verify "Todenna Firefox-tilisi aloittaaksesi synkronoinnin.">
 
@@ -528,12 +532,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
  
 <!ENTITY updater_apply_title2 "&brandShortName;in päivitys saatavilla">
 <!ENTITY updater_apply_select2 "Päivitä hipaisemalla">
-
-<!-- New tablet UI -->
-
-<!-- LOCALIZATION NOTE (new_tablet_restart): Notification displayed after the user toggles the new tablet UI in the settings screen.-->
-<!ENTITY new_tablet_restart "Käynnistä selain uudestaan toteuttaaksesi muutokset">
-<!ENTITY new_tablet_pref "Ota käyttöön uusi käyttöliittymä">
 
 <!-- Guest mode -->
 <!ENTITY new_guest_session "Uusi vierasistunto">

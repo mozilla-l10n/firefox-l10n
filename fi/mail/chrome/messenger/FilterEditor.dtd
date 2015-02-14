@@ -23,6 +23,8 @@
 <!ENTITY contextManual.accesskey "k">
 <!ENTITY contextBeforeCls.label "Suodata ennen roskapostiluokitusta">
 <!ENTITY contextAfterCls.label "Suodata roskapostiluokituksen jälkeen">
+<!ENTITY contextOutgoing.label "Lähettämisen jälkeen">
+<!ENTITY contextOutgoing.accesskey "L">
 
 <!ENTITY filterActionDesc.label "Suorita nämä toiminnot:">
 <!ENTITY filterActionDesc.accesskey "o">

@@ -6,8 +6,12 @@
 <!ENTITY  window.width                    "38em">
 <!ENTITY  window.macWidth                 "41em">
 
-<!ENTITY  allowPagesToUse.label           "Sisältö saa käyttää omia värejään alle olevien valintojen sijaan">
-<!ENTITY  allowPagesToUse.accesskey       "A">
+<!ENTITY  overridePageColors.label        "Korvaa sivun määrittelemät värit yllä olevilla valinnoilla:">
+<!ENTITY  overridePageColors.accesskey    "o">
+
+<!ENTITY  overridePageColors.always.label "Aina">
+<!ENTITY  overridePageColors.auto.label   "Vain korkean kontrastin teemojen kanssa">
+<!ENTITY  overridePageColors.never.label  "Ei koskaan">
 
 <!ENTITY  color                           "Tekstin ja taustan asetukset">
 <!ENTITY  textColor.label                 "Teksti:">

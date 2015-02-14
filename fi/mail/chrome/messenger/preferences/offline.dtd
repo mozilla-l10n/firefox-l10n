@@ -4,13 +4,17 @@
 
 <!ENTITY offlineDialog.title "Verkkoyhteydettömän tilan asetukset">
 
-<!ENTITY textStartUp "Käynnistettäessä:">
+<!ENTITY checkAutoDetect.label "Valitse tila automaattisesti tunnistetun tilan mukaan">
+<!ENTITY checkAutoDetect.accesskey "V">
+<!ENTITY titleStartUp "Kysy käynnistettäessä tilaa:">
 <!ENTITY radioRememberPrevState.label "Muista edellinen yhteystila">
 <!ENTITY radioRememberPrevState.accesskey "M">
-<!ENTITY radioAskMe.label "Kysy käynnistettäessä, muodostetaanko yhteyttä palvelimeen">
-<!ENTITY radioAskMe.accesskey "K">
-<!ENTITY radioAlwaysOnline.label "Käynnisty aina yhteystilassa">
-<!ENTITY radioAlwaysOnline.accesskey "a">
+<!ENTITY radioAskState.label "Kysy yhteystila">
+<!ENTITY radioAskState.accesskey "K">
+<!ENTITY radioAlwaysOnline.label "Yhteystilassa">
+<!ENTITY radioAlwaysOnline.accesskey "Y">
+<!ENTITY radioAlwaysOffline.label "Yhteydetön tila">
+<!ENTITY radioAlwaysOffline.accesskey "d">
 
 <!ENTITY textGoingOnline "Lähetetäänkö lähtevät viestit siirryttäessä yhteystilaan?">
 <!ENTITY radioAutoSend.label "Kyllä">
