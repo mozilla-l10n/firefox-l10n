@@ -554,14 +554,14 @@ you can use these alternative items. Otherwise, their values should be empty. --
 
 <!ENTITY sidebarCloseButton.tooltip     "Zamknij panel boczny">
 
-<!ENTITY quitApplicationCmdWin.label     "Zakończ" >
-<!ENTITY quitApplicationCmdWin.accesskey "k" >
-<!ENTITY quitApplicationCmdWin.tooltip "Zakończ program &brandShortName;">
+<!ENTITY quitApplicationCmdWin2.label "Zakończ">
+<!ENTITY quitApplicationCmdWin2.accesskey "k">
+<!ENTITY quitApplicationCmdWin2.tooltip "Zakończ program &brandShorterName;">
 <!ENTITY goBackCmd.commandKey           "[" >
 <!ENTITY goForwardCmd.commandKey        "]" >
 <!ENTITY quitApplicationCmd.label       "Zakończ" >
 <!ENTITY quitApplicationCmd.accesskey   "k" >
-<!ENTITY quitApplicationCmdMac.label    "Zakończ program &brandShortName;">
+<!ENTITY quitApplicationCmdMac2.label "Zakończ program &brandShorterName;">
 <!-- LOCALIZATION NOTE(quitApplicationCmdUnix.key): This keyboard shortcut is used by both Linux and OSX builds. -->
 <!ENTITY quitApplicationCmdUnix.key     "Q">
 
