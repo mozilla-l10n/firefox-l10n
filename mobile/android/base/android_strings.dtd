@@ -524,7 +524,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY updater_downloading_title2 "Lastar ned &brandShortName;">
 <!ENTITY updater_downloading_title_failed2 "Nedlasting feila">
 <!ENTITY updater_downloading_select2 "Trykk for å installera når ferdig nedlasta">
-<!ENTITY updater_downloading_retry2 "Trykk for å prøva igjen">
+<!ENTITY updater_downloading_retry2 "Trykk for å prøva omatt">
 
 <!ENTITY updater_apply_title2 "Oppdatering tilgjengeleg for &brandShortName;">
 <!ENTITY updater_apply_select2 "Trykk for å oppdatera">
