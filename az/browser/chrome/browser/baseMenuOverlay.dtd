@@ -32,8 +32,8 @@
 <!ENTITY helpTroubleshootingInfo.label      "Problemlərin aradan qaldırılması üzrə məlumatlar">
 <!ENTITY helpTroubleshootingInfo.accesskey  "P">
 
-<!ENTITY helpFeedbackPage.label      "Fikirlərinizi Bölüşün…">
-<!ENTITY helpFeedbackPage.accesskey  "B">
+<!ENTITY helpFeedbackPage.label      "Əks əlaqə göndər…">
+<!ENTITY helpFeedbackPage.accesskey  "g">
 
 <!ENTITY helpShowTour.label             "&brandShortName; Tur">
 <!ENTITY helpShowTour.accesskey         "T">
