@@ -15,6 +15,8 @@
 <!ENTITY telemetryInfoLink.label          "Rohkem teavet telemeetria saatmise kohta">
 <!ENTITY enableGlodaSearch.label          "Lubatakse kirjade üldotsing ja indekseerimine">
 <!ENTITY enableGlodaSearch.accesskey      "L">
+<!ENTITY allowHWAccel.label               "Võimalusel kasutatakse riistvaralist kiirendust">
+<!ENTITY allowHWAccel.accesskey           "V">
 
 <!ENTITY scrolling.label                   "Kerimine">
 <!ENTITY useAutoScroll.label               "Kasutatakse automaatset kerimist">

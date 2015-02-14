@@ -4,6 +4,7 @@
 
 <!ENTITY prefWindow.titleWin     "Valikud">
 <!ENTITY prefWindow.titleGNOME   "&brandShortName;i eelistused">
+<!ENTITY  prefWindow.titleMAC    "Eelistused">
 <!ENTITY prefWindow.styleWindows "width: 49em; min-height: 38.5em;">
 <!ENTITY prefWindow.styleMac     "width: 49em;">
 <!ENTITY prefWindow.styleGNOME   "width: 49em; min-height: 40em;">
