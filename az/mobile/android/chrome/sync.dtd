@@ -7,8 +7,8 @@
 <!ENTITY sync.connect               "Qoşul">
 <!ENTITY sync.connected             "Qoşulu">
 <!ENTITY sync.details               "Ətraflı məlumat">
-
-
+<!ENTITY sync.deviceName            "Bu cihaz">
+<!ENTITY sync.disconnect            "Bağlantını kəs">
 <!ENTITY sync.syncNow               "İndi sinxronizasiya et">
 
 <!ENTITY sync.setup.title           "Sync-ə Qoşul">
