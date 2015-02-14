@@ -43,8 +43,7 @@
 <!ENTITY netmonitorUI.toolbar.type        "Tipo">
 
 <!-- LOCALIZATION NOTE (netmonitorUI.toolbar.size): This is the label displayed
-  -  in the network table toolbar, above the "size" column, which is the
-  -  uncompressed / decoded size. -->
+  -  in the network table toolbar, above the "size" column. -->
 <!ENTITY netmonitorUI.toolbar.size        "Tamanho">
 
 <!-- LOCALIZATION NOTE (netmonitorUI.toolbar.waterfall): This is the label displayed
