@@ -437,14 +437,14 @@
 <!ENTITY fullZoom.label "Zoom">
 <!ENTITY fullZoom.accesskey "Z">
 <!ENTITY sidebarCloseButton.tooltip "Chiudi la barra laterale">
-<!ENTITY quitApplicationCmdWin.label "Esci">
-<!ENTITY quitApplicationCmdWin.accesskey "E">
-<!ENTITY quitApplicationCmdWin.tooltip "Chiudi &brandShortName;">
+<!ENTITY quitApplicationCmdWin2.label "Esci">
+<!ENTITY quitApplicationCmdWin2.accesskey "E">
+<!ENTITY quitApplicationCmdWin2.tooltip "Chiudi &brandShorterName;">
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY goForwardCmd.commandKey "]">
 <!ENTITY quitApplicationCmd.label "Esci">
 <!ENTITY quitApplicationCmd.accesskey "E">
-<!ENTITY quitApplicationCmdMac.label "Esci da &brandShortName;">
+<!ENTITY quitApplicationCmdMac2.label "Esci da &brandShorterName;">
 <!ENTITY quitApplicationCmdUnix.key "Q">
 <!ENTITY closeCmd.label "Chiudi">
 <!ENTITY closeCmd.key "W">
