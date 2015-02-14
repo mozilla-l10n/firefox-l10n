@@ -172,6 +172,8 @@
 <!ENTITY pref_cookies_not_accept_foreign "lubatud, välja arvatud kolmandad osapooled">
 <!ENTITY pref_cookies_disabled           "keelatud">
 
+<!ENTITY pref_tracking_protection_title  "Jälitamisvastane kaitse">
+<!ENTITY pref_tracking_protection_summary "&brandShortName; takistab veebilehtedel sinu jälitamist">
 <!ENTITY pref_donottrack_title           "Jälitamine">
 <!ENTITY pref_donottrack_summary         "&brandShortName; annab saitidele teada, et jälitamist ei soovita">
 
@@ -429,6 +431,8 @@ size. -->
 <!ENTITY home_remote_tabs_empty          "Sinu teiste seadmete kaardid ilmuvad siia.">
 <!ENTITY home_remote_tabs_unable_to_connect "Ühendumine pole võimalik">
 <!ENTITY home_remote_tabs_need_to_sign_in "Palun logi sisse, et taasühendada oma Firefoxi konto ja jätkata sünkroniseerimisega.">
+<!ENTITY home_remote_tabs_need_to_finish_migrating "Sinu uus Firefoxi konto on valmis!">
+
 <!ENTITY home_remote_tabs_trouble_verifying "Probleemid konto kinnitamisega?">
 <!ENTITY home_remote_tabs_need_to_verify "Sünkroniseerimise alustamiseks kinnita palun oma Firefoxi konto.">
 
@@ -528,12 +532,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY updater_apply_title2            "&brandShortName;ile on saadaval uuendus">
 <!ENTITY updater_apply_select2           "Uuendamiseks puuduta">
-
-<!-- New tablet UI -->
-
-<!-- LOCALIZATION NOTE (new_tablet_restart): Notification displayed after the user toggles the new tablet UI in the settings screen.-->
-<!ENTITY new_tablet_restart              "Muudatuste rakendumiseks taaskäivita brauser">
-<!ENTITY new_tablet_pref                 "Kasutatakse uut tahvlitele mõeldud kasutajaliidest">
 
 <!-- Guest mode -->
 <!ENTITY new_guest_session               "Uus külalisseanss">
