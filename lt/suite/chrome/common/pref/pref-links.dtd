@@ -10,16 +10,16 @@
 <!ENTITY externalDescription.label "Saitus, perduotus kitų programų, atverti:">
 
 <!ENTITY openCurrent.label "šiuo metu atvertoje kortelėje">
-<!ENTITY newWindowGroupCurrent.accesskey "š">
-<!ENTITY externalGroupCurrent.accesskey "u">
+
+
 
 <!ENTITY openTab.label "naujoje kortelėje šiuo metu atvertame lange">
-<!ENTITY newWindowGroupTab.accesskey "k">
-<!ENTITY externalGroupTab.accesskey "o">
+
+
 
 <!ENTITY openWindow.label "naujame lange">
-<!ENTITY newWindowGroupWindow.accesskey "l">
-<!ENTITY externalGroupWindow.accesskey "a">
+
+
 
 <!ENTITY divertAll.label "vietoje lango visada atverti naują kortelę">
 <!ENTITY divertAll.accesskey "r">

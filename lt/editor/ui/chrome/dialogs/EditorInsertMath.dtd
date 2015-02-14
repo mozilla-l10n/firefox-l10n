@@ -17,9 +17,5 @@
 <!ENTITY optionRTL.label "Kryptis iš dešinės į kairę">
 <!ENTITY optionRTL.accesskey "d">
 
-<!ENTITY example.label "Pavyzdys: ">
-<!-- LOCALIZATION NOTE (exampleText.label): DONT_TRANSLATE. This is a LaTeX example. -->
-<!ENTITY exampleText.label "\sqrt{x_1} + \frac{π^3}{2}">
-
 <!ENTITY insertButton.label "Įterpti">
 <!ENTITY insertButton.accesskey "t">

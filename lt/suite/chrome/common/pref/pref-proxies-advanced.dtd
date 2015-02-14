@@ -15,9 +15,9 @@
 <!ENTITY  reuseProxy.label            "HTTP įgaliotąjį serverį naudoti visiems protokolams">
 <!ENTITY  reuseProxy.accesskey        "v">
 <!ENTITY  port.label                  "Prievadas:">
-<!ENTITY  HTTPPort.accesskey          "P">
-<!ENTITY  SSLPort.accesskey           "r">
-<!ENTITY  FTPPort.accesskey           "e">
+
+
+
 
 <!ENTITY  socks.caption               "Bendrojo pobūdžio įgaliotasis serveris">
 <!ENTITY  socks.description           "SOCKS kompiuteris – tai bendrojo pobūdžio įgaliotasis serveris, kartais naudojamas įstaigose ar pan.">
@@ -29,4 +29,4 @@
 <!ENTITY  socks5.accesskey            "5">
 <!ENTITY  socksRemoteDNS.label        "Naudoti vardų išrišimui (rekomenduojama, jei naudojate SOCKS v5)">
 <!ENTITY  socksRemoteDNS.accesskey    "N">
-<!ENTITY  SOCKSport.accesskey         "a">
+

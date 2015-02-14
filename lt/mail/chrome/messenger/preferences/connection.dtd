@@ -3,7 +3,6 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY  connectionsDialog.title       "Ryšio nuostatos">
-<!ENTITY  window.width                   "50em">
 
 <!ENTITY  proxyTitle.label              "Įgaliotųjų serverių sąranka">
 <!ENTITY  noProxyTypeRadio.label        "Nenaudoti įgaliotojo serverio">

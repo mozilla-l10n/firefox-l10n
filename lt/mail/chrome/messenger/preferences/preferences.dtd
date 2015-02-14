@@ -4,6 +4,7 @@
 
 <!ENTITY  prefWindow.titleWin     "Nuostatos">
 <!ENTITY  prefWindow.titleGNOME   "„&brandShortName;“ nuostatos">
+<!ENTITY  prefWindow.titleMAC     "Nuostatos">
 <!ENTITY  prefWindow.styleWindows "width: 44em; min-height: 40em;">
 
 <!ENTITY  prefWindow.styleGNOME   "width: 42em; min-height: 40em;">

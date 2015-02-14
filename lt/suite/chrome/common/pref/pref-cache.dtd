@@ -23,7 +23,7 @@
 <!ENTITY docCache.accesskey              "l">
 <!ENTITY checkOncePerSession.label       "kartą per seansą">
 <!ENTITY checkEveryTime.label            "kaskart atveriant tinklalapį">
-<!ENTITY checkNever.label                "niekada">
+
 <!ENTITY checkAutomatically.label        "pasibaigus tinklalapio galiojimo laikui">
 
 <!ENTITY prefetchTitle.label             "Parengtinis saitų įkėlimas">

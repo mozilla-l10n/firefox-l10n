@@ -7,10 +7,10 @@
 
 <!ENTITY pref.colors.title                 "Spalvos">
 <!ENTITY color                             "Teksto ir fono spalvos">
-<!ENTITY textColor.label                   "Tekstas:">
-<!ENTITY textColor.accesskey               "T">
-<!ENTITY backgroundColor.label             "Fonas:">
-<!ENTITY backgroundColor.accesskey         "F">
+
+
+
+
 <!ENTITY useSystemColors.label             "Spalvas imti iš operacinės sistemos">
 <!ENTITY useSystemColors.accesskey         "o">
 
@@ -31,3 +31,5 @@
 <!-- LOCALIZATION NOTE (ignoreDocColors.label): This is option two, and it appends to 'someProvColors' above.  -->
 <!ENTITY useMyColors.label                 "aukščiau pasirinktomis">
 <!ENTITY useMyColors.accesskey             "u">
+
+
