@@ -7,8 +7,10 @@
 <!ENTITY syncBrand.fullName.label "Firefox Sinxronlaşdırma">
 <!ENTITY syncBrand.shortName.label "Sync">
 <!-- Main titles. -->
-<!ENTITY sync.title.connect.label "&syncBrand.shortName.label; bağlanılıb…">
 
+<!ENTITY sync.app.name.label "&syncBrand.fullName.label;">
+<!ENTITY sync.title.connect.label "&syncBrand.shortName.label; bağlanılıb…">
+<!ENTITY sync.title.adddevice.label "&syncBrand.fullName.label; Hesabı əlavə et">
 <!ENTITY sync.title.pair.label "Cihazları sinxronizasiya et">
 <!-- J-PAKE Key Screen -->
 
@@ -24,7 +26,7 @@
 <!ENTITY sync.jpake.subtitle.waiting.label "Digər cihaz üçün gözlənilir...">
 <!-- Account Login Screen -->
 <!ENTITY sync.input.username.label "Hesab adı">
-
+<!ENTITY sync.input.password.label "Şifrə">
 <!ENTITY sync.input.key.label "Bərpa etmə açarı">
 <!ENTITY sync.checkbox.server.label "Başqa server istifadə et…">
 <!ENTITY sync.input.server.label "Server URL">
