@@ -7,8 +7,8 @@
 
 <!ENTITY loadError.label "Problem loading page">
 <!ENTITY retry.label "Try Again">
-<!-- Specific error messages -->
 
+<!-- Specific error messages -->
 
 <!ENTITY connectionFailure.title "Unable to connect">
 <!ENTITY connectionFailure.longDesc "&sharedLongDesc;">
@@ -136,8 +136,8 @@ that &brandShortName; is permitted to access the Web.</li>
 <!ENTITY phishingBlocked.longDesc "<p>Entering any personal information on this page may result in identity theft or other fraud.</p> 
 <p>These types of web forgeries are used in scams known as phishing attacks, in which fraudulent web pages and emails are used to imitate sources you may trust.</p>">
 
-<!ENTITY cspFrameAncestorBlocked.title "Blocked by Content Security Policy">
-<!ENTITY cspFrameAncestorBlocked.longDesc "<p>&brandShortName; prevented this page from loading in this way because the page has a content security policy that disallows it.</p>">
+<!ENTITY cspBlocked.title "Blocked by Content Security Policy">
+<!ENTITY cspBlocked.longDesc "<p>&brandShortName; prevented this page from loading in this way because the page has a content security policy that disallows it.</p>">
 
 <!ENTITY corruptedContentError.title "Corrupted Content Error">
 <!ENTITY corruptedContentError.longDesc "<p>The page you are trying to view cannot be shown because an error in the 
@@ -158,5 +158,23 @@ functionality specific to firefox. -->
 <button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button> 
 <button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>">
 
+<!ENTITY errorReporting.title "Report this error">
+<!ENTITY errorReporting.longDesc "Reporting the address and certificate information for <span id='hostname'></span> will help us identify and block malicious sites. Thanks for helping create a safer web!">
+<!ENTITY errorReporting.automatic "Automatically report errors in the future">
+<!ENTITY errorReporting.learnMore "Learn more…">
+<!ENTITY errorReporting.sending "Sending report">
+<!ENTITY errorReporting.sent "Report sent">
+<!ENTITY errorReporting.report "Report">
+<!ENTITY errorReporting.tryAgain "Try again">
+
 <!ENTITY remoteXUL.title "Remote XUL">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Please contact the web site owners to inform them of this problem.</li></ul></p>">
+
+<!ENTITY oldSecurityProtocol.title "Unable to Connect Securely">
+<!-- LOCALIZATION NOTE (oldSecurityProtocol.longDesc) - Do not translate the
+     <span id='hostname'></span>. -->
+<!ENTITY oldSecurityProtocol.longDesc2 "&brandShortName; cannot guarantee the safety of your data on <span id='hostname'></span> because it uses SSLv3, a broken security protocol.">
+<!-- LOCALIZATION NOTE (oldSecurityProtocol.advancedInfo) - Do not translate
+     the <span id='errorcode'></span>. -->
+<!ENTITY oldSecurityProtocol.advancedInfo "Advanced info: <span id='errorcode'></span>">
+<!ENTITY oldSecurityProtocol.learnMore "Learn More…">
