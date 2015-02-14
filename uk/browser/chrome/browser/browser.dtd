@@ -228,8 +228,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY devToolsCmd.keycode          "VK_F12">
 <!ENTITY devToolsCmd.keytext          "F12">
 
-<!ENTITY devtoolsConnect.label        "Connect…">
-<!ENTITY devtoolsConnect.accesskey    "e">
+<!ENTITY devtoolsConnect.label        "З’єднатися…">
+<!ENTITY devtoolsConnect.accesskey    "д">
 
 <!ENTITY errorConsoleCmd.label        "Консоль помилок">
 <!ENTITY errorConsoleCmd.accesskey    "м">
@@ -267,8 +267,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!-- LOCALIZATION NOTE (browserToolboxMenu.label): This is the label for the
   -  application menu item that opens the browser toolbox UI in the Tools menu. -->
-<!ENTITY browserToolboxMenu.label     "Browser Toolbox">
-<!ENTITY browserToolboxMenu.accesskey "e">
+<!ENTITY browserToolboxMenu.label     "Інструменти браузера">
+<!ENTITY browserToolboxMenu.accesskey "е">
 
 <!-- LOCALIZATION NOTE (browserContentToolboxMenu.label): This is the label for the
   -  application menu item that opens the browser content toolbox UI in the Tools menu.
@@ -738,11 +738,11 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY customizeMode.lwthemes.menuManage.accessKey "К">
 <!ENTITY customizeMode.lwthemes.menuGetMore "Отримати більше тем">
 <!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "б">
-<!ENTITY customizeMode.deveditionTheme.label2 "Use Developer Edition Theme">
+<!ENTITY customizeMode.deveditionTheme.label2 "Використовувати тему Developer Edition">
 
 <!ENTITY social.chatBar.commandkey "c">
-<!ENTITY social.chatBar.label "Focus chats">
-<!ENTITY social.chatBar.accesskey "c">
+<!ENTITY social.chatBar.label "Перемикатись на чати">
+<!ENTITY social.chatBar.accesskey "ч">
 
 <!ENTITY social.markpageMenu.accesskey "б">
 <!ENTITY social.markpageMenu.label "Зберегти сторінку у…">
@@ -824,10 +824,10 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY panicButton.view.deleteTabsAndWindows    "Закриті всі <html:strong>Вкладки</html:strong> та <html:strong>Вікна</html:strong>">
 <!ENTITY panicButton.view.openNewWindow           "Відкрито нове чисте вікно">
 
-<!ENTITY panicButton.view.undoWarning             "Цю дію неможливо обернути.">
+<!ENTITY panicButton.view.undoWarning             "Цю дію неможливо відмінити.">
 <!ENTITY panicButton.view.forgetButton            "Забути!">
 
-<!ENTITY panicButton.thankyou.msg1                "Ваша недавня історія була вичищена.">
+<!ENTITY panicButton.thankyou.msg1                "Ваша недавня історія була видалена.">
 <!ENTITY panicButton.thankyou.msg2                "Безпечний перегляд!">
 <!ENTITY panicButton.thankyou.buttonlabel         "Дякую!">
 
