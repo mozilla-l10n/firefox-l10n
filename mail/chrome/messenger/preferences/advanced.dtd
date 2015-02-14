@@ -34,7 +34,7 @@
 <!ENTITY configEditDesc.label          "Napredne nastavitve">
 <!ENTITY configEdit.label              "Urejevalnik nastavitev …">
 <!ENTITY configEdit.accesskey          "U">
-<!ENTITY returnReceiptsInfo.label      "Določi kako &brandShortName; obravnava povratnice">
+<!ENTITY returnReceiptsInfo.label      "Določite, kako &brandShortName; obravnava povratnice">
 <!ENTITY showReturnReceipts.label      "Povratnice …">
 <!ENTITY showReturnReceipts.accesskey  "o">
 <!-- Display and Reading Settings -->
