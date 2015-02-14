@@ -143,9 +143,16 @@
 <!ENTITY runtimedetails_adbIsRoot "ADB é root: ">
 <!ENTITY runtimedetails_summonADBRoot "root do dispositivo">
 <!ENTITY runtimedetails_ADBRootWarning "(necessita de bootloader desbloqueado)">
-<!ENTITY runtimedetails_restrictedPrivileges "Previlégios restritos DevTools: ">
+<!ENTITY runtimedetails_unrestrictedPrivileges "Previlégios não restritos DevTools: ">
 <!ENTITY runtimedetails_requestPrivileges "pedir elevação de previlégios">
 <!ENTITY runtimedetails_privilegesWarning "(Irá reiniciar o dispositivo. necessita de acesso root.)">
+
+<!-- Device Preferences and Settings -->
+<!ENTITY device_typeboolean "Boleano">
+<!ENTITY device_typenumber "Inteiro">
+<!ENTITY device_typestring "String">
+<!ENTITY device_typeobject "Objeto">
+<!ENTITY device_typenone "Selecione um tipo">
 
 <!-- Device Preferences -->
 <!ENTITY devicepreference_title "Preferências do dispositivo">
