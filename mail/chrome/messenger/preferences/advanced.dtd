@@ -15,6 +15,8 @@
 <!ENTITY telemetryInfoLink.label       "Lue lisää lähetyistä tiedoista">
 <!ENTITY enableGlodaSearch.label       "Ota käyttöön viestien yleishaku ja indeksoija">
 <!ENTITY enableGlodaSearch.accesskey   "O">
+<!ENTITY allowHWAccel.label            "Käytä laitteistokiihdytystä jos mahdollista">
+<!ENTITY allowHWAccel.accesskey        "l">
 
 <!ENTITY scrolling.label               "Vieritys">
 <!ENTITY useAutoScroll.label           "Vieritä sivua automaattisesti">

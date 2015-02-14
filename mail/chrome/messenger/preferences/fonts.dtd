@@ -3,9 +3,6 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY  fontsAndEncodingsDialog.title           "Kirjasinlajit ja merkistökoodaukset">
-<!ENTITY  window.width                             "46em">
-<!ENTITY  window.macWidth                          "46em">
-<!ENTITY  window.unixWidth                         "45em">
 
 <!ENTITY  language.label                           "Merkistö:">
 <!ENTITY  language.accesskey                       "M">
