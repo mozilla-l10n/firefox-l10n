@@ -603,15 +603,15 @@ you can use these alternative items. Otherwise, their values should be empty.
 
 <!ENTITY sidebarCloseButton.tooltip     "Fermer le panneau latéral">
 
-<!ENTITY quitApplicationCmdWin.label       "Quitter">
-<!ENTITY quitApplicationCmdWin.accesskey   "Q">
-<!ENTITY quitApplicationCmdWin.tooltip     "Quitter &brandShortName;">
+<!ENTITY quitApplicationCmdWin2.label       "Quitter">
+<!ENTITY quitApplicationCmdWin2.accesskey   "Q">
+<!ENTITY quitApplicationCmdWin2.tooltip     "Quitter &brandShorterName;">
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY goForwardCmd.commandKey "]">
 <!ENTITY quitApplicationCmd.label       "Quitter">
 <!ENTITY quitApplicationCmd.accesskey   "Q">
 
-<!ENTITY quitApplicationCmdMac.label    "Quitter &brandShortName;">
+<!ENTITY quitApplicationCmdMac2.label    "Quitter &brandShorterName;">
 <!-- LOCALIZATION NOTE(quitApplicationCmdUnix.key): This keyboard shortcut is used by both Linux and OSX builds. -->
 <!ENTITY quitApplicationCmdUnix.key     "Q">
 
