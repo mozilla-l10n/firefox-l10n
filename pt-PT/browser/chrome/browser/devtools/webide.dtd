@@ -41,8 +41,6 @@
 <!ENTITY runtimeMenu_showMonitor_accesskey "M">
 <!ENTITY runtimeMenu_showDevicePrefs_label "Preferências do dispositivo">
 <!ENTITY runtimeMenu_showDevicePrefs_accesskey "D">
-<!ENTITY runtimeMenu_showSettings_label "Definições do dispositivo">
-<!ENTITY runtimeMenu_showSettings_accesskey "s">
 
 <!ENTITY viewMenu_label "Ver">
 <!ENTITY viewMenu_accesskey "V">
@@ -145,16 +143,9 @@
 <!ENTITY runtimedetails_adbIsRoot "ADB é root: ">
 <!ENTITY runtimedetails_summonADBRoot "root do dispositivo">
 <!ENTITY runtimedetails_ADBRootWarning "(necessita de bootloader desbloqueado)">
-<!ENTITY runtimedetails_unrestrictedPrivileges "Previlégios não restritos DevTools: ">
+<!ENTITY runtimedetails_restrictedPrivileges "Previlégios restritos DevTools: ">
 <!ENTITY runtimedetails_requestPrivileges "pedir elevação de previlégios">
 <!ENTITY runtimedetails_privilegesWarning "(Irá reiniciar o dispositivo. necessita de acesso root.)">
-
-<!-- Device Preferences and Settings -->
-<!ENTITY device_typeboolean "Boleano">
-<!ENTITY device_typenumber "Inteiro">
-<!ENTITY device_typestring "String">
-<!ENTITY device_typeobject "Objeto">
-<!ENTITY device_typenone "Selecione um tipo">
 
 <!-- Device Preferences -->
 <!ENTITY devicepreference_title "Preferências do dispositivo">
@@ -162,32 +153,11 @@
 <!ENTITY devicepreference_newname "Novo nome da preferência">
 <!ENTITY devicepreference_newtext "Valor da preferência">
 <!ENTITY devicepreference_addnew "Adicionar nova preferência">
-
-<!-- Device Settings -->
-<!ENTITY devicesetting_title "Definições do dispositivo">
-<!ENTITY devicesetting_search "Definições da pesquisa">
-<!ENTITY devicesetting_newname "Novo nome da definição">
-<!ENTITY devicesetting_newtext "Valor da definição">
-<!ENTITY devicesetting_addnew "Adicionar nova definição">
+<!ENTITY devicepreferences_typeboolean "Boleano">
+<!ENTITY devicepreferences_typenumber "Inteiro">
+<!ENTITY devicepreferences_typestring "String">
+<!ENTITY devicepreferences_typenone "Selecione um tipo">
 
 <!-- Monitor -->
 <!ENTITY monitor_title "Monitor">
 <!ENTITY monitor_help "Ajuda">
-
-<!-- WiFi Authentication -->
-<!-- LOCALIZATION NOTE (wifi_auth_header): The header displayed on the dialog
-     that instructs the user to transfer an authentication token to the
-     server. -->
-<!ENTITY wifi_auth_header "Identificação do cliete">
-<!-- LOCALIZATION NOTE (wifi_auth_scan_request): Instructions requesting the
-     user to transfer authentication info by scanning a QR code. -->
-<!ENTITY wifi_auth_scan_request "O ponto a que está a ligar necessita de mais informação para autenticar esta ligação.  Por favor, faça scan ao código QR em baixo através da linha de comandos do outro dispositivo.">
-<!-- LOCALIZATION NOTE (wifi_auth_no_scanner): Link text to assist users with
-     devices that can't scan a QR code. -->
-<!ENTITY wifi_auth_no_scanner "Nenhum QR scanner pronto?">
-<!-- LOCALIZATION NOTE (wifi_auth_yes_scanner): Link text to assist users with
-     devices that can scan a QR code. -->
-<!ENTITY wifi_auth_yes_scanner "Tem um QR scanner pronto?">
-<!-- LOCALIZATION NOTE (wifi_auth_token_request): Instructions requesting the
-     user to transfer authentication info by transferring a token. -->
-<!ENTITY wifi_auth_token_request "Se o seu outro dispositivo pede por um token em vez de um código QR, copie o valor em baixo para o seu outro dispositivo:">
