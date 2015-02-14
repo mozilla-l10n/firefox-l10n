@@ -170,6 +170,9 @@
 <!ENTITY fxaccount_confirm_account_change_email   'Kas unustada see e-posti aadress?'>
 <!ENTITY fxaccount_confirm_account_verification_link_sent2 'Kinnitusnõue on saadetud'>
 <!ENTITY fxaccount_confirm_account_verification_link_not_sent2 'Kinnitusnõude saatmine polnud võimalik'>
+<!ENTITY fxaccount_resend_unlock_code_button_label 'Saada lahtilukustamise e-kiri uuesti'>
+<!ENTITY fxaccount_unlock_code_sent                'Konto lahtilukustamise e-kiri on saadetud'>
+<!ENTITY fxaccount_unlock_code_not_sent            'Konto lahtilukustamise e-kirja saatmine polnud võimalik'>
 
 <!ENTITY fxaccount_sign_in_sub_header             'Sisselogimine'>
 <!ENTITY fxaccount_sign_in_button_label           'Logi sisse'>
@@ -180,9 +183,15 @@
 <!ENTITY fxaccount_account_verified_sub_header    'Konto on kinnitatud'>
 <!ENTITY fxaccount_account_verified_description2  'Andmete sünkroniseerimine algab hetke pärast.'>
 
+<!ENTITY fxaccount_migration_finished_header      'Uuele Syncile uuendamine lõpetatud'>
+
 <!ENTITY fxaccount_update_credentials_header      'Sisselogimine'>
 <!ENTITY fxaccount_update_credentials_button_label 'Logi sisse'>
 <!ENTITY fxaccount_update_credentials_unknown_error 'Polnud võimalik sisse logida'>
+
+<!ENTITY fxaccount_finish_migrating_header        'Uuele Syncile uuendamise lõpetamiseks pead sisse logima'>
+<!ENTITY fxaccount_finish_migrating_button_label  'Lõpeta uuendamine'>
+<!ENTITY fxaccount_finish_migrating_description   'Uuendamine võib tähendada mahukat andmete allalaadimist. Mõistlikum oleks seda WiFis teha.'>
 
 <!ENTITY fxaccount_status_header2                 'Firefoxi konto'>
 <!ENTITY fxaccount_status_signed_in_as            'Sisse logitud kasutajana'>
@@ -197,7 +206,9 @@
 <!ENTITY fxaccount_status_needs_credentials       'Pole võimalik ühenduda. Sisselogimiseks puuduta.'>
 <!ENTITY fxaccount_status_needs_upgrade           'Sisselogimiseks pead uuendama &brandShortName;i.'>
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled '&syncBrand.shortName.label; on seadistatud, aga ei sünkroniseeri automaatselt. Ava Androidi seaded &gt; Andmekasutus ning lülita menüüst sisse “Andmete automaatne sünkroonimine”.'>
+<!ENTITY fxaccount_status_needs_master_sync_automatically_enabled_v21 '&syncBrand.shortName.label; on seadistatud, aga ei sünkroniseeri automaatselt. Ava Androidi seaded &gt; Kontod ning lülita menüüst sisse “Andmete automaatne sünkroonimine”.'>
 <!ENTITY fxaccount_status_needs_account_enabled   '&syncBrand.shortName.label; on seadistatud, aga ei sünkroniseeri automaatselt. Sünkroniseerimise alustamiseks puuduta.'>
+<!ENTITY fxaccount_status_needs_finish_migrating  'Oma uude Firefoxi kontosse sisselogimiseks puuduta.'>
 <!ENTITY fxaccount_status_bookmarks               'järjehoidjad'>
 <!ENTITY fxaccount_status_history                 'ajalugu'>
 <!ENTITY fxaccount_status_passwords               'paroolid'>
@@ -245,8 +256,14 @@
 <!ENTITY fxaccount_remote_error_SERVICE_TEMPORARILY_UNAVAILABLE_TO_DUE_HIGH_LOAD 'Server on hõivatud, proovi varsti uuesti'>
 <!ENTITY fxaccount_remote_error_UNKNOWN_ERROR     'Esines probleem'>
 <!ENTITY fxaccount_remote_error_COULD_NOT_CONNECT 'Pole võimalik võrku ühenduda'>
+<!ENTITY fxaccount_remote_error_ACCOUNT_LOCKED    'Konto on lukus. &formatS1;'>
 
 <!ENTITY fxaccount_sync_sign_in_error_notification_title2 '&syncBrand.shortName.label; pole ühendatud'>
 <!-- Localization note: the format string below will be replaced
      with the Firefox Account's email address. -->
 <!ENTITY fxaccount_sync_sign_in_error_notification_text2 'Sisselogimiseks kasutajana &formatS; puuduta'>
+
+<!ENTITY fxaccount_sync_finish_migrating_notification_title 'Kas lõpetada &syncBrand.shortName.label;i uuendamine?'>
+<!-- Localization note: the format string below will be replaced
+     with the Firefox Account's email address. -->
+<!ENTITY fxaccount_sync_finish_migrating_notification_text 'Sisselogimiseks kasutajana &formatS; puuduta'>
