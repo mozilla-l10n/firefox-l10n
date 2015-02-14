@@ -90,6 +90,8 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY pageInfoCmd.label "ਸਫ਼ਾ ਜਾਣਕਾਰੀ">
 <!ENTITY pageInfoCmd.accesskey "I">
 <!ENTITY pageInfoCmd.commandkey "i">
+<!ENTITY mirrorTabCmd.label "ਮਿਰਰ ਟੈਬ">
+<!ENTITY mirrorTabCmd.accesskey "m">
 
 <!-- LOCALIZATION NOTE (enterFullScreenCmd.label, exitFullScreenCmd.label):
 These should match what Safari and other Apple applications use on OS X Lion. -->

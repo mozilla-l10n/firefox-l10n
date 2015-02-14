@@ -446,7 +446,7 @@ size. -->
      as an advisory message on how to add content to the reading list when the reading list empty.
      The placeholder &formatI; will be replaced by a small image of the icon described, and can be moved to wherever
      it is applicable. -->
-<!ENTITY home_reading_list_hint2 "ਗੁਰ: ਲੇਖਾਂ ਨੂੰ ਆਪਣੀ ਪੜ੍ਹਨ ਸੂਚੀ ਵਿੱਚ  &formatI;ਆਈਕਾਨ, ਜੋ ਕਿ ਟਾਈਟਲ-ਪੱਟੀ ਵਿੱਚ ਵਿਖਾਈ ਦਿੰਦਾ ਹੈ, ਨੂੰ ਦਬਾ ਕੇ ਜੋੜ ਸਕਦੇ ਹੋ।">
+<!ENTITY home_reading_list_hint2 "ਟੋਟਕਾ: ਲੇਖਾਂ ਨੂੰ ਆਪਣੀ ਪੜ੍ਹਨ ਸੂਚੀ ਵਿੱਚ  &formatI;ਆਈਕਾਨ, ਜੋ ਕਿ ਟਾਈਟਲ-ਪੱਟੀ ਵਿੱਚ ਵਿਖਾਈ ਦਿੰਦਾ ਹੈ, ਨੂੰ ਦਬਾ ਕੇ ਜੋੜ ਸਕਦੇ ਹੋ।">
 <!-- Localization note (home_reading_list_hint_accessible): This string is used
      as alternate text for accessibility. It is not visible in the UI. -->
 <!ENTITY home_reading_list_hint_accessible "ਟੋਟਕਾ: ਲੇਖ ਨੂੰ ਆਪਣੀ ਪੜ੍ਹਨ ਸੂਚੀ ਵਿੱਚ ਰੀਡਰ ਮੋਡ ਨੂੰ ਲੰਮਾ ਸਮਾਂ ਦਬਾ ਕੇ ਰੱਖਣ ਨਾਲ ਜੋੜੋ, ਜਦੋਂ ਇਹ ਟਾਈਟਲ ਪੱਟੀ ਉੱਤੇ ਦਿਖਾਈ ਦਿੰਦਾ ਹੈ।.">

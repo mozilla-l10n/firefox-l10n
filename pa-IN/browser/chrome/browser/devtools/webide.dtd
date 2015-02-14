@@ -2,11 +2,11 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY windowTitle "Firefox WebIDE">
+<!ENTITY windowTitle "ਫਾਇਰਫਾਕਸ WebIDE">
 
-<!ENTITY projectMenu_label "Project">
+<!ENTITY projectMenu_label "ਪਰੋਜੈਕਟ">
 <!ENTITY projectMenu_accesskey "P">
-<!ENTITY projectMenu_newApp_label "New App…">
+<!ENTITY projectMenu_newApp_label "ਨਵਾਂ ਐਪ…">
 <!ENTITY projectMenu_newApp_accesskey "N">
 <!ENTITY projectMenu_importPackagedApp_label "Open Packaged App…">
 <!ENTITY projectMenu_importPackagedApp_accesskey "P">
@@ -27,9 +27,9 @@
 <!ENTITY projectMenu_manageComponents_label "Manage Extra Components">
 <!ENTITY projectMenu_manageComponents_accesskey "M">
 
-<!ENTITY runtimeMenu_label "Runtime">
+<!ENTITY runtimeMenu_label "ਰਨਟਾਈਮ">
 <!ENTITY runtimeMenu_accesskey "R">
-<!ENTITY runtimeMenu_disconnect_label "Disconnect">
+<!ENTITY runtimeMenu_disconnect_label "ਡਿਸਕਨੈਕਟ">
 <!ENTITY runtimeMenu_disconnect_accesskey "D">
 <!ENTITY runtimeMenu_showPermissionTable_label "Permissions Table">
 <!ENTITY runtimeMenu_showPermissionTable_accesskey "P">
@@ -37,7 +37,7 @@
 <!ENTITY runtimeMenu_takeScreenshot_accesskey "S">
 <!ENTITY runtimeMenu_showDetails_label "Runtime Info">
 <!ENTITY runtimeMenu_showDetails_accesskey "E">
-<!ENTITY runtimeMenu_showMonitor_label "Monitor">
+<!ENTITY runtimeMenu_showMonitor_label "ਮਾਨੀਟਰ">
 <!ENTITY runtimeMenu_showMonitor_accesskey "M">
 <!ENTITY runtimeMenu_showDevicePrefs_label "Device Preferences">
 <!ENTITY runtimeMenu_showDevicePrefs_accesskey "D">
@@ -94,7 +94,7 @@
 <!ENTITY details_removeProject_button "Remove Project">
 
 <!-- New App -->
-<!ENTITY newAppWindowTitle "New App">
+<!ENTITY newAppWindowTitle "ਨਵੀਂ ਐਪ">
 <!ENTITY newAppHeader "Select template">
 <!ENTITY newAppLoadingTemplate "Loading templates…">
 <!ENTITY newAppProjectName "Project Name:">
@@ -102,18 +102,20 @@
 
 <!-- Decks -->
 
-<!ENTITY deck_close "Close">
+<!ENTITY deck_close "ਬੰਦ ਕਰੋ">
 
 <!-- Addons -->
 <!ENTITY addons_title "Extra Components">
 <!ENTITY addons_aboutaddons "Open Add-ons Manager">
 
 <!-- Prefs -->
-<!ENTITY prefs_title "Preferences">
+<!ENTITY prefs_title "ਮੇਰੀ ਪਸੰਦ">
 <!ENTITY prefs_editor_title "Editor">
 <!ENTITY prefs_general_title "General">
 <!ENTITY prefs_restore "Restore Defaults">
 <!ENTITY prefs_manage_components "Manage Extra Components">
+<!ENTITY prefs_options_autoconnectruntime "Reconnect to previous runtime">
+<!ENTITY prefs_options_autoconnectruntime_tooltip "Reconnect to previous runtime when WebIDE starts">
 <!ENTITY prefs_options_rememberlastproject "Remember last project">
 <!ENTITY prefs_options_rememberlastproject_tooltip "Restore previous project when WebIDE starts">
 <!ENTITY prefs_options_templatesurl "Templates URL">
@@ -157,5 +159,5 @@
 <!ENTITY devicepreferences_typenone "Select a type">
 
 <!-- Monitor -->
-<!ENTITY monitor_title "Monitor">
-<!ENTITY monitor_help "Help">
+<!ENTITY monitor_title "ਮਾਨੀਟਰ">
+<!ENTITY monitor_help "ਮਦਦ">
