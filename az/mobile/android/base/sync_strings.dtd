@@ -33,8 +33,8 @@
 <!-- Setup Fail -->
 
 <!ENTITY sync.button.tryagain.label "Yeniden dene">
-
-
+<!ENTITY sync.button.manual.label "Əllə qurma">
+<!ENTITY sync.subtitle.nointernet.label "İnternet bağlantısı yoxdur.">
 
 
 <!-- Setup Success -->
@@ -68,6 +68,8 @@
      will be replaced by the name of the Firefox release channel and &formatS2
      by the model name of the Android device. Examples look like "Aurora on
      GT-I1950" and "Fennec on MI 2S". -->
+
+<!ENTITY sync.default.client.name "&formatS1; - &formatS2;">
 <!-- Bookmark folder strings -->
 
 <!ENTITY bookmarks.folder.menu.label "Əlfəçinlər menyusu">

@@ -283,7 +283,7 @@ size. -->
 
 <!ENTITY quit "Çıx">
 
-<!ENTITY addons "Eklentiler">
+<!ENTITY addons "Əlavələr">
 <!ENTITY downloads "Endirmələr">
 <!ENTITY apps "Tətbiqlər">
 <!ENTITY char_encoding "Simvol kodlaşdırması">
@@ -292,11 +292,11 @@ size. -->
 <!ENTITY share_title "Paylaş">
 <!ENTITY share_image_failed "Bu şəkli paylaşmaq mümkün olmadı">
 <!ENTITY save_as_pdf "PDF kimi yadda saxla">
-<!ENTITY find_in_page "Səhifədə tap">
+<!ENTITY find_in_page "Səhifədə Tap">
 <!ENTITY desktop_mode "Masaüstü saytını istə">
 <!ENTITY page "Səhifə">
 <!ENTITY tools "Alətlər">
-<!ENTITY new_tab "Yeni vərəq">
+<!ENTITY new_tab "Yeni Vərəq">
 <!ENTITY new_private_tab "Yeni Məxfi Vərəq">
 <!ENTITY close_all_tabs "Bütün vərəqləri qapat">
 <!ENTITY close_private_tabs "Məxfi vərəqləri qapat">
@@ -309,7 +309,7 @@ size. -->
 <!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
 
-<!ENTITY find_text "Səhifədə tap">
+<!ENTITY find_text "Səhifədə Tap">
 <!ENTITY find_prev "Əvvəlkini tap">
 <!ENTITY find_next "İrəli">
 <!ENTITY find_close "Bağla">
