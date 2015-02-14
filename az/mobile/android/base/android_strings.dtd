@@ -231,8 +231,8 @@ size. -->
 
 
 <!ENTITY pref_about_firefox "&brandShortName; haqqında">
-<!ENTITY pref_vendor_faqs "FAQlar">
-<!ENTITY pref_vendor_feedback "Rəy göndərin">
+<!ENTITY pref_vendor_faqs "ÇSS">
+<!ENTITY pref_vendor_feedback "Əks əlaqə göndər">
 
 <!ENTITY pref_dialog_set_default "Ön qurğulu olaraq seç">
 <!ENTITY pref_dialog_default "İlkin hal">

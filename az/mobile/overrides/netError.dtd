@@ -27,7 +27,7 @@
 <input id='searchtext' type='search'></input> 
 <button id='searchbutton'>Axtar</button> 
 </div> 
-<li>Əgər heç bir səhifəni açılmırsa, cihazın datasını və ya Wi-Fi bağlantısını yoxlayın. 
+<li>Əgər heç bir səhifə açılmırsa, cihazın data və ya Wi-Fi bağlantısını yoxlayın. 
 <button id='wifi'>Wi-Fi Aktivləşdir</button> 
 </li> 
 </ul>">

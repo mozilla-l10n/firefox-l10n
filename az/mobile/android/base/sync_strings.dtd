@@ -4,7 +4,7 @@
 <!-- Don't localize these. They're here until they have
      a better place to live. -->
 
-<!ENTITY syncBrand.fullName.label "Firefox Sinxronlaşdırma">
+<!ENTITY syncBrand.fullName.label "Firefox Sync">
 <!ENTITY syncBrand.shortName.label "Sync">
 <!-- Main titles. -->
 
@@ -22,8 +22,10 @@
 
 
 <!-- J-PAKE Waiting Screen -->
-<!-- Account Login Screen -->
 
+<!ENTITY sync.jpake.subtitle.waiting.label "Digər cihaz üçün gözlənilir...">
+<!-- Account Login Screen -->
+<!ENTITY sync.input.username.label "Hesab adı">
 <!ENTITY sync.input.password.label "Şifrə">
 <!ENTITY sync.input.key.label "Bərpa etmə açarı">
 <!ENTITY sync.checkbox.server.label "Başqa server istifadə et…">
@@ -58,7 +60,7 @@
 <!-- Common text -->
 
 <!ENTITY sync.button.cancel.label "ləğv et">
-
+<!ENTITY sync.button.connect.label "Qoşul">
 <!ENTITY sync.button.ok.label "Oldu">
 <!-- Account strings -->
 <!-- Localization note (sync.default.client.name): Default string of the "Device
@@ -101,7 +103,7 @@
 
 <!ENTITY fxaccount_email_hint "E-poçt">
 
-
+<!ENTITY fxaccount_password_hide "Gizlət">
 <!ENTITY fxaccount_password_show "Göstər">
 <!-- Localization note: these are shown in screens after the user has
      created or signed in to an account, and take the user back to
