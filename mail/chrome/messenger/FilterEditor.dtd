@@ -23,6 +23,8 @@
 <!ENTITY contextManual.accesskey     "m">
 <!ENTITY contextBeforeCls.label      "enne rämpsposti filtri rakendumist">
 <!ENTITY contextAfterCls.label       "pärast rämpsposti filtri rakendumist">
+<!ENTITY contextOutgoing.label       "pärast saatmist">
+<!ENTITY contextOutgoing.accesskey   "p">
 
 <!ENTITY filterActionDesc.label      "Sooritatakse järgnev tegevus:">
 <!ENTITY filterActionDesc.accesskey  "R">

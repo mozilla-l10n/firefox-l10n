@@ -4,13 +4,17 @@
 
 <!ENTITY offlineDialog.title              "Võrguta režiimi sätted">
 
-<!ENTITY textStartUp                      "Käivitamisel:">
+<!ENTITY checkAutoDetect.label            "Järgitakse automaatselt tuvastatud võrgurežiimi">
+<!ENTITY checkAutoDetect.accesskey        "J">
+<!ENTITY titleStartUp                     "Käivitamisel kasutatav käsitsi määratud olek:">
 <!ENTITY radioRememberPrevState.label     "kasutatakse eelnenud võrgurežiimi olekut">
 <!ENTITY radioRememberPrevState.accesskey "u">
-<!ENTITY radioAskMe.label                 "küsitakse võrgurežiimi oleku kohta">
-<!ENTITY radioAskMe.accesskey             "k">
+<!ENTITY radioAskState.label              "küsitakse võrgurežiimi oleku kohta">
+<!ENTITY radioAskState.accesskey          "k">
 <!ENTITY radioAlwaysOnline.label          "alustatakse alati võrgurežiimis">
 <!ENTITY radioAlwaysOnline.accesskey      "v">
+<!ENTITY radioAlwaysOffline.label         "alustatakse alati võrguta režiimis">
+<!ENTITY radioAlwaysOffline.accesskey     "r">
 
 <!ENTITY textGoingOnline                  "Kas saata võrgurežiimi lülitudes saatmata kirjad?">
 <!ENTITY radioAutoSend.label              "jah">
