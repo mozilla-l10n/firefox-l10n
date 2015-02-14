@@ -19,6 +19,18 @@
 <!ENTITY dnsNotFound.title "Ünvan tapılmadı">
 <!-- LOCALIZATION NOTE (dnsNotFound.longDesc4) This string contains markup including widgets for searching
      or enabling wifi connections. The text inside tags should be localized.  Do not change the ids. -->
+<!ENTITY dnsNotFound.longDesc4 "<ul> 
+<li>Ünvanı səhv daxil etmiş ola bilərsiniz. Məsələn 
+<strong>www</strong>.example.com əvəzinə 
+<strong>ww</strong>.example.com yazılmış ola bilər.</li> 
+<div id='searchbox'> 
+<input id='searchtext' type='search'></input> 
+<button id='searchbutton'>Axtar</button> 
+</div> 
+<li>Əgər heç bir səhifəni açılmırsa, cihazın datasını və ya Wi-Fi bağlantısını yoxlayın. 
+<button id='wifi'>Wi-Fi Aktivləşdir</button> 
+</li> 
+</ul>">
 
 <!ENTITY fileNotFound.title "Fayla tapılmadı">
 

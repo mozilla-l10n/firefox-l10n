@@ -3,9 +3,9 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY sync.title                 "Sync">
-
-
-
+<!ENTITY sync.notconnected          "Qoşulmayıb">
+<!ENTITY sync.connect               "Qoşul">
+<!ENTITY sync.connected             "Qoşulu">
 <!ENTITY sync.details               "Ətraflı məlumat">
 
 

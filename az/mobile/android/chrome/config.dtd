@@ -7,11 +7,14 @@
 
 <!ENTITY newPref.namePlaceholder       "Ad">
 
+<!ENTITY newPref.valueBoolean          "Boolean">
+<!ENTITY newPref.valueString           "Sətir">
+<!ENTITY newPref.valueInteger          "Tam ədəd">
 
+<!ENTITY newPref.stringPlaceholder     "Sətir daxil edin">
+<!ENTITY newPref.numberPlaceholder     "Ədəd daxil edin">
 
-
-
-
+<!ENTITY newPref.toggleButton          "Aç/Qapat">
 <!ENTITY newPref.cancelButton          "ləğv et">
 
 <!ENTITY contextMenu.copyPrefName      "Adı köçür">
