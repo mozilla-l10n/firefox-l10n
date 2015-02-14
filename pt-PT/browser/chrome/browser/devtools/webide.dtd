@@ -143,23 +143,16 @@
 <!ENTITY runtimedetails_adbIsRoot "ADB é root: ">
 <!ENTITY runtimedetails_summonADBRoot "root do dispositivo">
 <!ENTITY runtimedetails_ADBRootWarning "(necessita de bootloader desbloqueado)">
-<!ENTITY runtimedetails_unrestrictedPrivileges "Previlégios não restritos DevTools: ">
+<!ENTITY runtimedetails_restrictedPrivileges "Previlégios não restritos DevTools: ">
 <!ENTITY runtimedetails_requestPrivileges "pedir elevação de previlégios">
 <!ENTITY runtimedetails_privilegesWarning "(Irá reiniciar o dispositivo. necessita de acesso root.)">
 
-<!-- Device Preferences and Settings -->
-<!ENTITY device_typeboolean "Boleano">
-<!ENTITY device_typenumber "Inteiro">
-<!ENTITY device_typestring "String">
-<!ENTITY device_typeobject "Objeto">
-<!ENTITY device_typenone "Selecione um tipo">
-
 <!-- Device Preferences -->
-<!ENTITY devicepreference_title "Preferências do dispositivo">
-<!ENTITY devicepreference_search "Preferências da pesquisa">
-<!ENTITY devicepreference_newname "Novo nome da preferência">
-<!ENTITY devicepreference_newtext "Valor da preferência">
-<!ENTITY devicepreference_addnew "Adicionar nova preferência">
+<!ENTITY devicepreferences_title "Preferências do dispositivo">
+<!ENTITY devicepreferences_search "Preferências da pesquisa">
+<!ENTITY devicepreferences_newname "Novo nome da preferência">
+<!ENTITY devicepreferences_newtext "Valor da preferência">
+<!ENTITY devicepreferences_addnew "Adicionar nova preferência">
 <!ENTITY devicepreferences_typeboolean "Boleano">
 <!ENTITY devicepreferences_typenumber "Inteiro">
 <!ENTITY devicepreferences_typestring "String">
