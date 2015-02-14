@@ -273,7 +273,7 @@ size. -->
      (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
 <!ENTITY datareporting_crashreporter_title_short "Rapports de plantage">
 <!ENTITY datareporting_wifi_title2 "Service de localisation de &vendorShortName;">
-<!ENTITY datareporting_wifi_geolocation_summary2 "Enregistre les positions approximatives des réseaux Wi-Fi et cellulaires détectés et les partage avec &vendorShortName; pour améliorer notre service de géolocalisation">
+<!ENTITY datareporting_wifi_geolocation_summary3 "Aide &vendorShortName; à cartographier le monde. Les positions approximatives des réseaux Wi-Fi et cellulaires détectés sont envoyées à &vendorShortName; pour améliorer notre service de géolocalisation">
 
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
@@ -560,6 +560,13 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      They are never shown to users -->
 <!ENTITY actionbar_menu "Menu">
 <!ENTITY actionbar_done "Terminé">
+
+<!-- Voice search in the awesome bar -->
+<!ENTITY voicesearch_prompt "Vous pouvez parler">
+<!ENTITY voicesearch_failed_title "Recherche vocale &brandShortName;">
+<!ENTITY voicesearch_failed_message "La recherche vocale rencontre un problème. Veuillez réessayer plus tard.">
+<!ENTITY voicesearch_failed_message_recoverable "Désolé, nous n'avons pas pu reconnaître vos mots. Veuillez réessayer.">
+<!ENTITY voicesearch_failed_retry "Réessayer">
 
 <!-- Localization note (remote_tabs_last_synced): the variable is replaced by a
      "relative time span string" produced by Android.  This string describes the
