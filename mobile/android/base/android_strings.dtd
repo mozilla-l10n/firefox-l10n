@@ -190,7 +190,7 @@
 <!ENTITY datareporting_crashreporter_summary "&brandShortName; отправляет сообщения о падениях, чтобы помочь &vendorShortName; сделать ваш браузер более стабильным и безопасным">
 <!ENTITY datareporting_crashreporter_title_short "Сообщения о падениях">
 <!ENTITY datareporting_wifi_title2 "Служба местоположения &vendorShortName;">
-<!ENTITY datareporting_wifi_geolocation_summary2 "Делится приблизительным местоположением Wi-Fi и сотовой сети вашего устройства с &vendorShortName;, чтобы улучшить нашу службу геолокации">
+<!ENTITY datareporting_wifi_geolocation_summary3 "Помогите &vendorShortName; составить карту мира! Поделитесь приблизительным местоположением Wi-Fi и сотовой сети вашего устройства, чтобы улучшить нашу службу геолокации">
 <!ENTITY pref_update_autodownload2 "Автоматически загружать обновления">
 <!ENTITY pref_update_autodownload_wifi "Только через Wi-Fi">
 <!ENTITY pref_update_autodownload_never "Никогда">
@@ -360,5 +360,10 @@
 <!ENTITY colon ":">
 <!ENTITY actionbar_menu "Меню">
 <!ENTITY actionbar_done "Готово">
+<!ENTITY voicesearch_prompt "Говорите">
+<!ENTITY voicesearch_failed_title "Голосовой поиск &brandShortName;">
+<!ENTITY voicesearch_failed_message "Сейчас с голосовым поиском возникла проблема. Пожалуйста, попробуйте позже.">
+<!ENTITY voicesearch_failed_message_recoverable "Извините! Мы не смогли распознать ваши слова. Пожалуйста, попробуйте ещё раз.">
+<!ENTITY voicesearch_failed_retry "Попробовать снова">
 <!ENTITY remote_tabs_last_synced "Последняя синхронизация: &formatS;">
 <!ENTITY find_matchcase "Аа">

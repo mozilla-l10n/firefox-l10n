@@ -437,14 +437,14 @@
 <!ENTITY fullZoom.label "Масштаб">
 <!ENTITY fullZoom.accesskey "ш">
 <!ENTITY sidebarCloseButton.tooltip "Закрыть боковую панель">
-<!ENTITY quitApplicationCmdWin.label "Выход">
-<!ENTITY quitApplicationCmdWin.accesskey "х">
-<!ENTITY quitApplicationCmdWin.tooltip "Выход из &brandShortName;">
+<!ENTITY quitApplicationCmdWin2.label "Выход">
+<!ENTITY quitApplicationCmdWin2.accesskey "х">
+<!ENTITY quitApplicationCmdWin2.tooltip "Выход из &brandShorterName;">
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY goForwardCmd.commandKey "]">
 <!ENTITY quitApplicationCmd.label "Выход">
 <!ENTITY quitApplicationCmd.accesskey "ы">
-<!ENTITY quitApplicationCmdMac.label "Завершить &brandShortName;">
+<!ENTITY quitApplicationCmdMac2.label "Завершить &brandShorterName;">
 <!ENTITY quitApplicationCmdUnix.key "Q">
 <!ENTITY closeCmd.label "Закрыть">
 <!ENTITY closeCmd.key "W">
