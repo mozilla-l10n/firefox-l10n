@@ -565,7 +565,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY voicesearch_prompt "Vous pouvez parler">
 <!ENTITY voicesearch_failed_title "Recherche vocale &brandShortName;">
 <!ENTITY voicesearch_failed_message "La recherche vocale rencontre un problème. Veuillez réessayer plus tard.">
-<!ENTITY voicesearch_failed_message_recoverable "Désolé, nous n'avons pas pu reconnaître vos mots. Veuillez réessayer.">
+<!ENTITY voicesearch_failed_message_recoverable "Désolé, nous n\u0027avons pas pu reconnaître vos mots. Veuillez réessayer.">
 <!ENTITY voicesearch_failed_retry "Réessayer">
 
 <!-- Localization note (remote_tabs_last_synced): the variable is replaced by a
