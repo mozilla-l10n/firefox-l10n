@@ -24,6 +24,8 @@
 <!ENTITY contextBeforeCls.label "prieš atrenkant brukalą">
 <!ENTITY contextAfterCls.label "atrinkus brukalą">
 
+
+
 <!ENTITY filterActionDesc.label "atlikti šiuos veiksmus:">
 <!ENTITY filterActionDesc.accesskey "v">
 

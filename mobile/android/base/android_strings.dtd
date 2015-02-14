@@ -172,6 +172,7 @@
 <!ENTITY pref_cookies_not_accept_foreign "Leidžiami, išskyrus trečiųjų šalių">
 <!ENTITY pref_cookies_disabled "Neleidžiami">
 
+
 <!ENTITY pref_donottrack_title "Nestebėti">
 <!ENTITY pref_donottrack_summary "&brandShortName; praneš svetainėms, kad jūs nenorite būti stebimi">
 
@@ -429,6 +430,8 @@ size. -->
 <!ENTITY home_remote_tabs_empty "Kortelės iš kitų jūsų įrenginių matomos čia.">
 <!ENTITY home_remote_tabs_unable_to_connect "Nepavyko užmegzti ryšio">
 <!ENTITY home_remote_tabs_need_to_sign_in "Norint tęsti sinchronizavimą, reikia iš naujo prisijungti prie jūsų „Firefox“ paskyros.">
+
+
 <!ENTITY home_remote_tabs_trouble_verifying "Nepavyksta patvirtinti paskyros?">
 <!ENTITY home_remote_tabs_need_to_verify "Prieš pradedant sinchronizavimą, reikia patvirtinti jūsų „Firefox“ paskyrą.">
 
@@ -528,12 +531,6 @@ iš „Android“">
 
 <!ENTITY updater_apply_title2 "Išleistas „&brandShortName;“ naujinimas">
 <!ENTITY updater_apply_select2 "Bakstelėkite, kad naujinimas būtų įdiegtas">
-<!-- New tablet UI -->
-<!-- LOCALIZATION NOTE (new_tablet_restart): Notification displayed after the user toggles the new tablet UI in the settings screen.-->
-
-
-<!ENTITY new_tablet_restart "Norėdami pritaikyti pakeitimus, perleiskite naršyklę">
-<!ENTITY new_tablet_pref "Įgalinti naująją planšečių sąsają">
 <!-- Guest mode -->
 
 <!ENTITY new_guest_session "Naujas svečio seansas">

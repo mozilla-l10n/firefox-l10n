@@ -7,8 +7,7 @@
 
 <!ENTITY pref.scripts.title              "Scenarijai ir papildiniai">
 
-<!ENTITY navigator.label                 "naršyklėje">
-<!ENTITY navigator.accesskey             "r">
+
 <!--LOCALIZATION NOTE (enableJavaScript.label): 'JavaScript' should never be translated -->
 
 <!ENTITY enableJavaScript.label          "Leisti vykdyti „JavaScript“ scenarijus:">

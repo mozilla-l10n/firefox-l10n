@@ -2,9 +2,6 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY pref.popups.title              "Iškylantieji langai">
-
-<!ENTITY pref.popups.caption            "Iškylantieji langai">
 
 <!ENTITY popupBlock.label               "Užblokuoti iškylančius langus">
 <!ENTITY popupBlock.accesskey           "U">
@@ -17,8 +14,8 @@
 <!ENTITY playSound.accesskey            "g">
 <!ENTITY systemSound.label              "pyptelėti">
 <!ENTITY systemSound.accesskey          "p">
-<!ENTITY customSound.label              "naudoti garso failą">
-<!ENTITY customSound.accesskey          "n">
+
+
 
 <!ENTITY selectSound.label              "Parinkti…">
 <!ENTITY selectSound.accesskey          "P">

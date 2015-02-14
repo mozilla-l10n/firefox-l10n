@@ -16,6 +16,8 @@
 <!ENTITY enableGlodaSearch.label       "Įjungti globalią laiškų paiešką ir indeksavimą">
 <!ENTITY enableGlodaSearch.accesskey   "g">
 
+
+
 <!ENTITY scrolling.label               "Slinkimas">
 <!ENTITY useAutoScroll.label           "Slinkti automatiškai">
 <!ENTITY useAutoScroll.accesskey       "a">

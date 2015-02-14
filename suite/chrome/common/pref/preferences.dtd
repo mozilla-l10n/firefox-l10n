@@ -6,17 +6,17 @@
 <!ENTITY prefWindow.title "Nuostatos">
 <!ENTITY categoryHeader "Nuostatų grupės">
 <!ENTITY appear.label "Išvaizda">
-<!ENTITY content.label "Turinys">
+
 <!ENTITY fonts.label "Šriftai">
 <!ENTITY colors.label "Spalvos">
-<!ENTITY navigator.label "Naršyklė">
-<!ENTITY history.label "Žurnalai">
+
+
 <!ENTITY languages.label "Kalbos">
-<!ENTITY applications.label "Failų atvėrimas">
+
 <!ENTITY locationBar.label "Adreso laukas">
 <!ENTITY tabWindows.label "Kortelės">
 <!ENTITY links.label "Saitų atvėrimas">
-<!ENTITY offline.label "Darbas neprisijungus">
+
 <!ENTITY security.label "Privatumas ir saugumas">
 <!ENTITY privatedata.label "Privatieji duomenys">
 <!ENTITY cookies.label "Slapukai">
@@ -26,21 +26,20 @@
 <!ENTITY masterpass.label "Pagrindiniai slaptažodžiai">
 <!ENTITY ssl.label "SSL">
 <!ENTITY certs.label "Liudijimai">
-<!ENTITY sync.label "Sinchronizavimas">
-<!ENTITY advance.label "Kitkas">
-<!ENTITY down.label "Atsiuntimas">
+
+
+
 <!ENTITY cache.label "Podėlis">
 <!ENTITY offlineApps.label "Duomenys darbui neprisijungus">
 <!ENTITY proxies.label "Įgaliotieji serveriai">
 <!ENTITY httpnetworking.label "HTTP protokolas">
-<!ENTITY smart.label "Programų diegimas">
-<!ENTITY download.label "Atsiuntimai">
+
+
 <!ENTITY keynav.label "Klaviatūra">
 <!ENTITY findAsYouType.label "Paieška renkant tekstą">
-<!ENTITY search.label "Paieška internete">
+
 <!ENTITY policies.label "Saugumo taisyklės">
 <!ENTITY mousewheel.label "Pelės ratukas">
 <!ENTITY scriptsAndWindows.label "Scenarijai ir papildiniai">
-<!ENTITY spellingPane.label  "Rašybos tikrinimas">
 
-<!ENTITY focusSearch.key "f">
+

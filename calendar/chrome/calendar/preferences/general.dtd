@@ -13,6 +13,10 @@
 <!ENTITY pref.dateformat.long "ilgasis" >
 <!ENTITY pref.dateformat.short "trumpasis"  >
 
+<!ENTITY pref.timezones.caption "Laiko juostos">
+
+
+
 <!ENTITY pref.defaults.label "Numatytosios kuriamų įvykių reikšmės">
 <!ENTITY pref.events.label "Įvykiai">
 <!ENTITY pref.tasks.label "Darbai">

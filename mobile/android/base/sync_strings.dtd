@@ -171,6 +171,9 @@
 <!ENTITY fxaccount_confirm_account_verification_link_sent2 "Patvirtinimo laiškas išsiųstas">
 <!ENTITY fxaccount_confirm_account_verification_link_not_sent2 "Patvirtinimo laiško išsiųsti nepavyko">
 
+
+
+
 <!ENTITY fxaccount_sign_in_sub_header "Prisijunkite">
 <!ENTITY fxaccount_sign_in_button_label "Prisijungti">
 <!ENTITY fxaccount_sign_in_forgot_password "Pamiršote slaptažodį?">
@@ -180,9 +183,13 @@
 <!ENTITY fxaccount_account_verified_sub_header "Paskyra patvirtinta">
 <!ENTITY fxaccount_account_verified_description2 "Jūsų duomenys bus pradėti sinchronizuoti nedelsiant.">
 
+
 <!ENTITY fxaccount_update_credentials_header "Prisijunkite">
 <!ENTITY fxaccount_update_credentials_button_label "Prisijungti">
 <!ENTITY fxaccount_update_credentials_unknown_error "Prisijungti nepavyko">
+
+
+
 
 <!ENTITY fxaccount_status_header2 "„Firefox“ paskyra">
 <!ENTITY fxaccount_status_signed_in_as "Prisijungėte kaip">
@@ -197,7 +204,9 @@
 <!ENTITY fxaccount_status_needs_credentials "Prisijungti nepavyko. Bakstelėkite pakartotiniam bandymui.">
 <!ENTITY fxaccount_status_needs_upgrade "Jeigu norite prisijungti, turite atnaujinti „&brandShortName;“.">
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled "„&syncBrand.shortName.label;“ sukonfigūruota, tačiau duomenys nesinchronizuojami automatiškai. Įjunkite automatinį duomenų sinchronizavimą „Android“ nustatymų skiltyje „Duomenų naudojimas“.">
+
 <!ENTITY fxaccount_status_needs_account_enabled "„&syncBrand.shortName.label;“ sukonfigūruota, tačiau duomenys nesinchronizuojami automatiškai. Bakstelėkite sinchronizavimui pradėti.">
+
 <!ENTITY fxaccount_status_bookmarks "Adresynas">
 <!ENTITY fxaccount_status_history "Žurnalas">
 <!ENTITY fxaccount_status_passwords "Slaptažodžiai">
@@ -246,7 +255,10 @@
 <!ENTITY fxaccount_remote_error_UNKNOWN_ERROR "Iškilo problema">
 <!ENTITY fxaccount_remote_error_COULD_NOT_CONNECT "Nepavyko prisijungti prie tinklo">
 
+
 <!ENTITY fxaccount_sync_sign_in_error_notification_title2 "„&syncBrand.shortName.label;“ nepavyko prisijungti">
 <!-- Localization note: the format string below will be replaced
      with the Firefox Account's email address. -->
-<!ENTITY fxaccount_sync_sign_in_error_notification_text2 "Bakstelėkite prisijungimui kaip &formatS;">
+
+<!-- Localization note: the format string below will be replaced
+     with the Firefox Account's email address. -->

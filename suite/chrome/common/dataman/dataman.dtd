@@ -4,7 +4,6 @@
 
 <!ENTITY dataman.windowTitle "Duomenų tvarkytuvė">
 
-<!ENTITY selectAll.key "a">
 
 <!ENTITY select.all.label "Visų tipų duomenys">
 <!ENTITY select.cookies.label "Tik slapukai">
@@ -14,7 +13,7 @@
 <!ENTITY select.storage.label "Tik saugykla">
 
 <!ENTITY domain.search.placeholder "Ieškoti srities">
-<!ENTITY domain.search.key "f">
+
 
 <!ENTITY domain.tree.domain.label "Sritis">
 
@@ -23,7 +22,6 @@
 <!ENTITY domain.ctx.forgetglobal.label "Užmiršti globalius duomenis">
 <!ENTITY domain.ctx.forgetglobal.accesskey "U">
 
-<!ENTITY data.search.key "k">
 
 <!ENTITY tab.cookies.label "Slapukai">
 <!ENTITY tab.permissions.label "Leidimai">
@@ -36,27 +34,22 @@
 
 <!ENTITY cookies.description "Šioje vardų srityje esančios svetainės turi jūsų kompiuteryje įrašiusios šiuos slapukus:">
 
-<!ENTITY cookies.tree.host.label "Svetainė">
 <!ENTITY cookies.tree.name.label "Slapuko vardas">
-<!ENTITY cookies.tree.expires.label "Galioja iki">
 
-<!ENTITY cookies.infobox.label "Pažymėto slapuko duomėnys">
 
-<!ENTITY cookies.info.name.label "Vardas:">
-<!ENTITY cookies.info.value.label "Turinys:">
-<!ENTITY cookies.info.host.label "Serveris:">
+
+
+
 <!ENTITY cookies.info.domain.label "Sritis:">
 <!ENTITY cookies.info.path.label "Kelias:">
 <!ENTITY cookies.info.sendtype.label "Serverio saugumas:">
 <!ENTITY cookies.info.expires.label "Galioja iki:">
 
-<!ENTITY cookies.ctx.remove.label "Pašalinti">
-<!ENTITY cookies.ctx.remove.accesskey "š">
-<!ENTITY cookies.ctx.selectAll.label "Pažymėti viską">
-<!ENTITY cookies.ctx.selectAll.accesskey "v">
 
-<!ENTITY cookies.button.remove.label "Pašalinti">
-<!ENTITY cookies.button.remove.accesskey "š">
+
+
+
+
 
 <!ENTITY cookies.blockOnRemove.label "Pašalinus slapukus, uždrausti juos įrašiusioms svetainėms įrašyti naujus slapukus">
 <!ENTITY cookies.blockOnRemove.accesskey "d">
@@ -67,59 +60,50 @@
 <!ENTITY perm.NeverSave "Niekada neįrašyti">
 <!ENTITY perm.Allow "Leisti">
 <!ENTITY perm.AllowSameDomain "Leisti vienoje srityje">
-<!ENTITY perm.AllowSession "Leisti seanso metu">
+
 <!ENTITY perm.Block "Neleisti">
 
 <!ENTITY perm.host.placeholder "Įveskite serverio vardą">
-<!ENTITY perm.button.add.label "Pridėti">
-<!ENTITY perm.button.add.accesskey "P">
+
+
 <!-- preferences -->
 
 <!ENTITY prefs.description "Turinio nuostatos įgalina „&brandShortName;“ įsiminti kai kuriuos atskirose svetainėse taikytinus parametrus (mastelį ir pan.)">
 
-<!ENTITY prefs.tree.host.label "Svetainė">
 <!ENTITY prefs.tree.name.label "Nuostata">
 <!ENTITY prefs.tree.value.label "Reikšmė">
 
-<!ENTITY prefs.ctx.remove.label "Pašalinti">
-<!ENTITY prefs.ctx.remove.accesskey "š">
-<!ENTITY prefs.ctx.selectAll.label "Pažymėti viską">
-<!ENTITY prefs.ctx.selectAll.accesskey "v">
 
-<!ENTITY prefs.button.remove.label "Pašalinti">
-<!ENTITY prefs.button.remove.accesskey "š">
+
+
+
+
 <!-- passwords -->
 
 <!ENTITY pwd.description "Kompiuteryje yra įrašyti šios srities svetainių šie slaptažodžiai:">
 
-<!ENTITY pwd.tree.host.label "Svetainė">
 <!ENTITY pwd.tree.username.label "Naudotojo vardas">
 <!ENTITY pwd.tree.password.label "Slaptažodis">
 
-<!ENTITY pwd.ctx.remove.label "Pašalinti">
-<!ENTITY pwd.ctx.remove.accesskey "š">
+
 <!ENTITY pwd.ctx.copyPasswordCmd.label "Kopijuoti slaptažodį">
 <!ENTITY pwd.ctx.copyPasswordCmd.accesskey "K">
-<!ENTITY pwd.ctx.selectAll.label "Pažymėti viską">
-<!ENTITY pwd.ctx.selectAll.accesskey "v">
 
-<!ENTITY pwd.button.remove.label "Pašalinti">
-<!ENTITY pwd.button.remove.accesskey "š">
+
+
+
 <!-- storage -->
 
 <!ENTITY storage.description "Kompiuteryje yra laikomos šios srities svetainių šios saugyklos:">
 
-<!ENTITY storage.tree.host.label "Svetainė">
-<!ENTITY storage.tree.type.label "Tupas">
+<!ENTITY storage.tree.type.label "Tipas">
 <!ENTITY storage.tree.size.label "Dydis">
 
-<!ENTITY storage.ctx.remove.label "Pašalinti">
-<!ENTITY storage.ctx.remove.accesskey "š">
-<!ENTITY storage.ctx.selectAll.label "Pažymėti viską">
-<!ENTITY storage.ctx.selectAll.accesskey "v">
 
-<!ENTITY storage.button.remove.label "Pašalinti">
-<!ENTITY storage.button.remove.accesskey "š">
+
+
+
+
 <!-- form data -->
 
 <!ENTITY fdata.search.placeholder "Ieškoti formos lauko reikšmės">
@@ -130,13 +114,11 @@
 <!ENTITY fdata.tree.firstused.label "Pirmąkart naudota">
 <!ENTITY fdata.tree.lastused.label "Paskutinįkart naudota">
 
-<!ENTITY fdata.ctx.remove.label "Pašalinti">
-<!ENTITY fdata.ctx.remove.accesskey "š">
-<!ENTITY fdata.ctx.selectAll.label "Pažymėti viską">
-<!ENTITY fdata.ctx.selectAll.accesskey "v">
 
-<!ENTITY fdata.button.remove.label "Pašalinti">
-<!ENTITY fdata.button.remove.accesskey "š">
+
+
+
+
 <!-- forget -->
 
 <!ENTITY forget.cookies.label "slapukus">

@@ -6,8 +6,11 @@
 <!ENTITY  window.width                    "42em">
 <!ENTITY  window.macWidth                 "45em">
 
-<!ENTITY  allowPagesToUse.label           "Leisti turiniui nurodyti spalvas, naudotinas vietoj čia parinktų">
-<!ENTITY  allowPagesToUse.accesskey       "L">
+
+
+<!ENTITY  overridePageColors.always.label "visada">
+
+<!ENTITY  overridePageColors.never.label  "niekada">
 
 <!ENTITY  color                           "Tekstas ir fonas">
 <!ENTITY  textColor.label                 "Tekstas:">
