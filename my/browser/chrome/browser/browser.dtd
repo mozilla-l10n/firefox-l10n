@@ -129,11 +129,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fullscreenAllowButton.label "Allow">
 <!ENTITY fullscreenExitButton.label "ငြင်းပယ်ပါ">
 
-<!ENTITY fullscreenExitHint2.value "ESC ကီးအားနှိပ်ပြီး အချိန်မရွေးထွက်နိုင်ပါတယ်">
-<!ENTITY leaveDOMFullScreen.label "uမြင်ကွင်းကျယ်မှထွက်">
+<!ENTITY fullscreenExitHint2.value "ESC ခလုတ်အားနှိပ်ပြီး အချိန်မရွေးထွက်နိုင်ပါသည်">
+<!ENTITY leaveDOMFullScreen.label "uမြင်ကွင်းကျယ်မှထွက်ရန်">
 <!ENTITY leaveDOMFullScreen.accesskey "u">
 
-<!ENTITY closeWindow.label "dဝင်းဒိုးအားပိတ်">
+<!ENTITY closeWindow.label "dဝင်းဒိုးအားပိတ်ရန်">
 <!ENTITY closeWindow.accesskey "d">
 
 <!ENTITY bookmarksMenu.label "Bလိပ်စာမှတ်များ">
@@ -145,17 +145,18 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (findShareServices.label):
   -  Use the unicode ellipsis char, \u2026,
   -  or use "..." if \u2026 doesn't suit traditions in your locale. -->
+<!ENTITY findShareServices.label "Share ဝန်ဆောင်မှုများကို ရှာရန်">
 <!ENTITY sharePageCmd.label "sယခုစာမျက်နှာအားမျှပါ">
 <!ENTITY sharePageCmd.commandkey "S">
 <!ENTITY sharePageCmd.accesskey "s">
 <!-- LOCALIZATION NOTE (shareLink.accesskey): must be different than the following share access keys -->
 
-
-
-
-
-
-
+<!ENTITY shareImage.label "r ပုံအားမျှဝေပါ">
+<!ENTITY shareImage.accesskey "r">
+<!ENTITY shareSelect.label "S  ရွေးထားသောစာကို မျှဝေပါ">
+<!ENTITY shareSelect.accesskey "S">
+<!ENTITY shareVideo.label "r ဤဗီဒီယိုကို မျှဝေမည်">
+<!ENTITY shareVideo.accesskey "r">
 <!ENTITY feedsMenu.label "စာရင်းသွင်း">
 <!ENTITY subscribeToPageMenupopup.label "ဒီစာမျက်နှာမှာ စာရင်းသွင်းပါ">
 <!ENTITY subscribeToPageMenuitem.label "ဒီစာမျက်နှာမှာ စာရင်းသွင်းပါ...">

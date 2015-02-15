@@ -2,11 +2,15 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY aboutPrivateBrowsing.title            "သင်သည် သီးသန့် ရှာဖွေကြည့်ရှူနေသည်">
+<!ENTITY aboutPrivateBrowsing.title.normal     "သီးသန့်ဝင်းဒိုးဖွင့်မည်လား။">
 
 <!ENTITY aboutPrivateBrowsing.subtitle         "&brandShortName; သည် မည်သည့်မှတ်တမ်းကိုမျှ မှတ်ထားမှာ မဟုတ်ဘူး။">
+<!ENTITY aboutPrivateBrowsing.subtitle.normal  "&brandShortName; သည် မည်သည့်မှတ်တမ်းကိုမျှ မှတ်ထားမည် မဟုတ်ပါ။">
 
+<!ENTITY aboutPrivateBrowsing.description      "ရှာဖွေကြည့်ရှုနေသောမှတ်တမ်း၊ ရှာဖွေမှုမှတ်တမ်း၊ ဒေါင်းလုတ်မှတ်တမ်း၊ ဝဘ်ဖောင်ဖြည့်မှတ်တမ်း၊ ယာယီမှတ်တမ်း နှင့် ယာယီအင်တာနက်ဖိုင်များ ပါဝင်ပါသည်။ သို့ပါသော်လည်း သင် ဒေါင်းလုတ်ပြုလုပ်ထားသည့်ဖိုင်များနှင့် စာမှတ်များကိုမူ ထိန်းသိမ်းထားပါမည်။">
 
-
+<!ENTITY aboutPrivateBrowsing.notPrivate       "သင်သည် လက်ရှိတွင် သီးသန့်ဝင်းဒိုးတွင် ရှိမနေပါ။">
 
 
 
