@@ -16,21 +16,25 @@
 
 
 <!ENTITY sync.subtitle.pair.label "Aktivləşdirmək üçün digər cihazda “Sinxronlaşdırma” seçin.">
-
-
+<!ENTITY sync.pin.default.label "...\n...\n...\n">
+<!ENTITY sync.pin.oneline.label "...">
 <!ENTITY sync.link.show.label "Necə ediləcəyini göstər.">
-
-
+<!ENTITY sync.link.advancedsetup.label "Təkmilləşmiş quraşdırma…">
+<!ENTITY sync.link.nodevice.label "Cihaz yanımda deyil…">
 <!-- J-PAKE Waiting Screen -->
 
-<!ENTITY sync.jpake.subtitle.waiting.label "Digər cihaz üçün gözlənilir...">
+<!ENTITY sync.jpake.subtitle.waiting.label "Digər cihaz üçün gözlənilir…">
 <!-- Account Login Screen -->
+
+<!ENTITY sync.subtitle.account.label "&syncBrand.fullName.label; hesab məlumatlarınızı daxil edin">
 <!ENTITY sync.input.username.label "Hesab adı">
 <!ENTITY sync.input.password.label "Şifrə">
 <!ENTITY sync.input.key.label "Bərpa etmə açarı">
 <!ENTITY sync.checkbox.server.label "Başqa server istifadə et…">
 <!ENTITY sync.input.server.label "Server URL">
 <!-- Setup Fail -->
+
+<!ENTITY sync.title.fail.label "&syncBrand.shortName.label; quraşdırıla bilmədi">
 
 <!ENTITY sync.button.tryagain.label "Yeniden dene">
 <!ENTITY sync.button.manual.label "Əllə qurma">
@@ -54,7 +58,7 @@
 <!-- Configure Engines -->
 
 
-
+<!ENTITY sync.configure.engines.title.passwords "Şifrələr">
 <!ENTITY sync.configure.engines.title.history "Tarixçə">
 <!ENTITY sync.configure.engines.title.tabs "Vərəqlər">
 <!-- Common text -->
@@ -63,6 +67,8 @@
 <!ENTITY sync.button.connect.label "Qoşul">
 <!ENTITY sync.button.ok.label "Oldu">
 <!-- Account strings -->
+
+<!ENTITY sync.account.label "&syncBrand.fullName.label; (köhnə)">
 <!-- Localization note (sync.default.client.name): Default string of the "Device
      name" menu item upon setting up Firefox Sync.  The placeholder &formatS1
      will be replaced by the name of the Firefox release channel and &formatS2
@@ -77,13 +83,15 @@
 <!ENTITY bookmarks.folder.tags.label "Etiketlər">
 <!ENTITY bookmarks.folder.toolbar.label "Əlfəçin alət sətiri">
 <!ENTITY bookmarks.folder.unfiled.label "Sıralanmamış əlfəçinlər">
-
+<!ENTITY bookmarks.folder.desktop.label "Masaüstü Əlfəcinləri">
 <!ENTITY bookmarks.folder.mobile.label "Mobil Əlfəçinlər">
 <!ENTITY bookmarks.folder.readinglist.label "Oxuma Siyahısı">
 <!-- Pinned sites on about:home. This folder should never be shown to the user, but we have to give it a string name -->
 <!-- Notification strings -->
 
 <!-- Incorrect settings and changing credentials. -->
+
+<!ENTITY sync.invalidcreds.label "Yanlış hesab adı ya da şifrə">
 <!ENTITY sync.invalidserver.label "Lütfən etibarlı bir server ünvanı daxil edin">
 <!ENTITY sync.verifying.label "Təsdiqlənir…">
 
@@ -96,6 +104,10 @@
 
 <!-- Firefox Account strings. -->
 
+
+<!ENTITY fxaccount_full_label "Firefox Hesabları">
+
+<!ENTITY fxaccount_custom_server_account_title "Serverdəki hesab istifadə edilir">
 
 <!-- Localization note: these are shown in all screens that query the
      user for an email address and password. Hide and show are button
