@@ -455,13 +455,14 @@ size. -->
 
 <!ENTITY remote_tabs_panel_moved_title "Vərəqlərim hara gedib?">
 
+<!ENTITY remote_tabs_panel_moved_link "Məni yeni panelimə götür.">
 
-
+<!ENTITY pin_site_dialog_hint "Axtarış açarını daxil edin">
 
 <!ENTITY filepicker_title "Faylı seç">
-
-
-
+<!ENTITY filepicker_audio_title "Səsi seçin və ya yazın">
+<!ENTITY filepicker_image_title "Şəkli seçin və ya çəkin">
+<!ENTITY filepicker_video_title "Videonu seçin və ya çəkin">
 <!-- Site identity popup -->
 
 <!ENTITY identity_connected_to "Bağlandığınız sayt">
@@ -480,6 +481,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_no_info "Bu saytın kimlik məlumatı yoxdur.">
 <!ENTITY identity_not_encrypted "Bu saytla aranızdakı bağlantı şifrələnməyib.">
 <!-- Mixed content notifications in site identity popup -->
+
+<!ENTITY loaded_mixed_content_message "Bu səhifə təhlükəsizliyi olmayan məzmun göstərir.">
 
 
 <!-- Tracking content notifications in site identity popup -->
