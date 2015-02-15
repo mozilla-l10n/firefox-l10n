@@ -10,7 +10,7 @@
 
 <!ENTITY update.checkForUpdatesButton.label       "အဆင့်မြှင့်တင်ရန် လိုအပ်နေလား စစ်ကြည့်မည်။">
 <!ENTITY update.checkForUpdatesButton.accesskey   "အ">
-
+<!ENTITY update.updateButton.label2                "အဆင့်မြှင့်တင်ရန် &brandShortName;ကို ပြန်ဖွင့်ပါ">
 
 <!ENTITY update.applyButtonBillboard.label        "Aအသစ်များအားအသုံးချ ...">
 <!ENTITY update.applyButtonBillboard.accesskey    "A">
