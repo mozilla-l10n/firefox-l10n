@@ -750,7 +750,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY social.marklinkMenu.accesskey "հ">
 <!ENTITY social.marklinkMenu.label "Պահպանել հղումը...">
 
-<!ENTITY getUserMedia.selectCamera.label "Մուտք խցիկին.">
+<!ENTITY getUserMedia.selectCamera.label "Մուտք տեսախցիկին.">
 <!ENTITY getUserMedia.selectCamera.accesskey "Մ">
 <!ENTITY getUserMedia.selectMicrophone.label "Մուտք խոսափողին.">
 <!ENTITY getUserMedia.selectMicrophone.accesskey "Մ">
