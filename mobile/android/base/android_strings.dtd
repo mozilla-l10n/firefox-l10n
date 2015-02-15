@@ -272,7 +272,7 @@ size. -->
      (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
 <!ENTITY datareporting_crashreporter_title_short "Informe de fallos">
 <!ENTITY datareporting_wifi_title2 "Servicio de ubicación de &vendorShortName;">
-<!ENTITY datareporting_wifi_geolocation_summary2 "Comparte ubicación aproximada de Wi-Fi y celular de tu dispositivo con &vendorShortName; para mejorar nuestro servicio de geolocalización">
+<!ENTITY datareporting_wifi_geolocation_summary3 "¡Ayuda a &vendorShortName; a mapear el mundo! Comparte ubicación aproximada de Wi-Fi y celular de tu dispositivo para mejorar nuestro servicio de geolocalización">
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
      actual notification that an update is available. -->
@@ -564,6 +564,13 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      They are never shown to users -->
 <!ENTITY actionbar_menu "Menú">
 <!ENTITY actionbar_done "Listo">
+
+<!-- Voice search in the awesome bar -->
+<!ENTITY voicesearch_prompt "Hablar ahora">
+<!ENTITY voicesearch_failed_title "Búsqueda por voz de &brandShortName;">
+<!ENTITY voicesearch_failed_message "Hay un problema con la búsqueda por voz en este momento. Intentá de nuevo más tarde.">
+<!ENTITY voicesearch_failed_message_recoverable "¡Perdón! No pudimos reconocer tus palabras. Intentá de nuevo.">
+<!ENTITY voicesearch_failed_retry "Intentar de nuevo">
 
 <!-- Localization note (remote_tabs_last_synced): the variable is replaced by a
      "relative time span string" produced by Android.  This string describes the

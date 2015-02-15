@@ -607,14 +607,14 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY sidebarCloseButton.tooltip "Cerrar barra lateral">
 
-<!ENTITY quitApplicationCmdWin.label "Salir">
-<!ENTITY quitApplicationCmdWin.accesskey "S">
-<!ENTITY quitApplicationCmdWin.tooltip     "Salir de &brandShortName;">
+<!ENTITY quitApplicationCmdWin2.label       "Salir">
+<!ENTITY quitApplicationCmdWin2.accesskey   "S">
+<!ENTITY quitApplicationCmdWin2.tooltip     "Salir de &brandShorterName;">
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY goForwardCmd.commandKey "]">
 <!ENTITY quitApplicationCmd.label "Salir">
 <!ENTITY quitApplicationCmd.accesskey "S">
-<!ENTITY quitApplicationCmdMac.label    "Salir de &brandShortName;">
+<!ENTITY quitApplicationCmdMac2.label   "Salir de &brandShorterName;">
 <!-- LOCALIZATION NOTE(quitApplicationCmdUnix.key): This keyboard shortcut is used by both Linux and OSX builds. -->
 <!ENTITY quitApplicationCmdUnix.key     "Q">
 
