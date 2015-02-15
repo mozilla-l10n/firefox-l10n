@@ -206,7 +206,7 @@
 <!ENTITY fxaccount_status_needs_credentials "Prisijungti nepavyko. Bakstelėkite pakartotiniam bandymui.">
 <!ENTITY fxaccount_status_needs_upgrade "Jeigu norite prisijungti, turite atnaujinti „&brandShortName;“.">
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled "„&syncBrand.shortName.label;“ sukonfigūruota, tačiau duomenys nesinchronizuojami automatiškai. Įjunkite automatinį duomenų sinchronizavimą „Android“ nustatymų skiltyje „Duomenų naudojimas“.">
-
+<!ENTITY fxaccount_status_needs_master_sync_automatically_enabled_v21 "„&syncBrand.shortName.label;“ sukonfigūruota, tačiau duomenys nesinchronizuojami automatiškai. Įjunkite automatinį duomenų sinchronizavimą „Android“ nustatymų skiltyje „Paskyros“.">
 <!ENTITY fxaccount_status_needs_account_enabled "„&syncBrand.shortName.label;“ sukonfigūruota, tačiau duomenys nesinchronizuojami automatiškai. Bakstelėkite sinchronizavimui pradėti.">
 <!ENTITY fxaccount_status_needs_finish_migrating "Bakstelėkite, norėdami prisijungti prie savo naujosios „Firefox“ paskyros.">
 <!ENTITY fxaccount_status_bookmarks "Adresynas">
@@ -261,7 +261,9 @@
 <!ENTITY fxaccount_sync_sign_in_error_notification_title2 "„&syncBrand.shortName.label;“ nepavyko prisijungti">
 <!-- Localization note: the format string below will be replaced
      with the Firefox Account's email address. -->
+<!ENTITY fxaccount_sync_sign_in_error_notification_text2 "Bakstelėkite prisijungimui kaip &formatS;">
 
 <!ENTITY fxaccount_sync_finish_migrating_notification_title "Užbaigti „&syncBrand.shortName.label;“ atnaujinimą?">
 <!-- Localization note: the format string below will be replaced
      with the Firefox Account's email address. -->
+<!ENTITY fxaccount_sync_finish_migrating_notification_text "Bakstelėkite prisijungimui kaip &formatS;">
