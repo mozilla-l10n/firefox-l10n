@@ -483,9 +483,11 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- Mixed content notifications in site identity popup -->
 
 <!ENTITY loaded_mixed_content_message "Bu səhifə təhlükəsizliyi olmayan məzmun göstərir.">
-
-
+<!ENTITY blocked_mixed_content_message_top "&brandShortName; təhlükəsizliyi olmayan məzmunu bloklaşdırdı.">
+<!ENTITY blocked_mixed_content_message_bottom "Əksər saytlar bu məzmun bloklaşdırıldıqda belə düzgün işləyəcəklər.">
 <!-- Tracking content notifications in site identity popup -->
+
+<!ENTITY loaded_tracking_content_message_top "İzlənmə qoruması söndürülüb.">
 
 
 
