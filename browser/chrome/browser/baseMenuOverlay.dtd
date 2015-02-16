@@ -35,7 +35,7 @@
 <!ENTITY helpFeedbackPage.label      "Cyflwyno Adborth…">
 <!ENTITY helpFeedbackPage.accesskey  "A">
 
-<!ENTITY helpShowTour.label             "Cyflwyniad &brandShortName;">
+<!ENTITY helpShowTour.label             "Cyflwyno &brandShortName;">
 <!ENTITY helpShowTour.accesskey         "C">
 
 <!ENTITY preferencesCmdMac.label        "Dewisiadau…">
