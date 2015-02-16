@@ -592,3 +592,5 @@
 <!ENTITY processHang.terminatePlugin.accessKey "m">
 <!ENTITY processHang.terminateProcess.label "Termina il processo web">
 <!ENTITY processHang.terminateProcess.accessKey "T">
+<!ENTITY emeLearnMoreContextMenu.label "Ulteriori informazioni sul DRM…">
+<!ENTITY emeLearnMoreContextMenu.accesskey "D">
