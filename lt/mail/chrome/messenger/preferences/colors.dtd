@@ -6,10 +6,11 @@
 <!ENTITY  window.width                    "42em">
 <!ENTITY  window.macWidth                 "45em">
 
-
+<!ENTITY  overridePageColors.label        "Pakeisti puslapio siūlomas spalvas mano pasirinktomis:">
+<!ENTITY  overridePageColors.accesskey    "o">
 
 <!ENTITY  overridePageColors.always.label "visada">
-
+<!ENTITY  overridePageColors.auto.label   "Tik naudojant kontrastingas temas">
 <!ENTITY  overridePageColors.never.label  "niekada">
 
 <!ENTITY  color                           "Tekstas ir fonas">

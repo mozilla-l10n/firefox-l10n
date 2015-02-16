@@ -15,8 +15,8 @@
 <!ENTITY telemetryInfoLink.label       "Išsamėsnė informacija apie telemetriją">
 <!ENTITY enableGlodaSearch.label       "Įjungti globalią laiškų paiešką ir indeksavimą">
 <!ENTITY enableGlodaSearch.accesskey   "g">
-
-
+<!ENTITY allowHWAccel.label            "Jei įmanoma, naudoti aparatinį spartinimą">
+<!ENTITY allowHWAccel.accesskey        "h">
 
 <!ENTITY scrolling.label               "Slinkimas">
 <!ENTITY useAutoScroll.label           "Slinkti automatiškai">
