@@ -14,8 +14,8 @@
 <!ENTITY pref.dateformat.short "trumpasis"  >
 
 <!ENTITY pref.timezones.caption "Laiko juostos">
-
-
+<!ENTITY pref.timezones.label "Pasirinkite artimiausią miestą savo laiko juostoje:">
+<!ENTITY pref.timezones.accesskey "P">
 
 <!ENTITY pref.defaults.label "Numatytosios kuriamų įvykių reikšmės">
 <!ENTITY pref.events.label "Įvykiai">
