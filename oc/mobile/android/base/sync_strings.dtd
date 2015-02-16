@@ -35,7 +35,7 @@
 <!ENTITY sync.checkbox.server.label "Utilizar un servidor personalizat">
 <!ENTITY sync.input.server.label "URL del servidor">
 <!-- Setup Fail -->
-  
+
 <!ENTITY sync.title.fail.label "Impossible de configurar &syncBrand.shortName.label;">
 <!ENTITY sync.subtitle.fail.label "&syncBrand.fullName.label; a pas pogut se connectar al servidor. Volètz tornar ensajar ?">
 <!ENTITY sync.button.tryagain.label "Ensajar tornarmai">
@@ -44,7 +44,7 @@
 <!ENTITY sync.subtitle.failaccount.label "La creacion d\u0027un compte sus vòstre aparelh a fracassat.">
 <!ENTITY sync.subtitle.failmultiple.label "Avètz mai d\u0027un Firefox installat ? Actualament, &syncBrand.fullName.label; pren pas en carga qu\u0027una sola installacion de Firefox a l\u0027encòp. Desinstallatz las autras instàncias per poder utilizar &syncBrand.shortName.label;.">
 <!-- Setup Success -->
-  
+
 <!ENTITY sync.title.success.label "Configuracion acabada">
 <!ENTITY sync.subtitle.success.label1 "Ara, vòstras donadaes son sincronizadas en rèire plan. Podètz anar dins lo menú Paramètres per gerir vòstre compte, o començar de navigar amb &brandShortName;.">
 <!ENTITY sync.settings.label "Paramètres">
@@ -71,6 +71,11 @@
 <!ENTITY sync.button.connect.label "Se connectar">
 <!ENTITY sync.button.ok.label "D\u0027acòrdi">
 <!-- Account strings -->
+<!-- Localization note (sync.default.client.name): Default string of the "Device
+     name" menu item upon setting up Firefox Sync.  The placeholder &formatS1
+     will be replaced by the name of the Firefox release channel and &formatS2
+     by the model name of the Android device. Examples look like "Aurora on
+     GT-I1950" and "Fennec on MI 2S". -->
 <!-- Bookmark folder strings -->
 
 <!ENTITY bookmarks.folder.menu.label "Menú dels marcapaginas">
@@ -103,6 +108,8 @@
 <!ENTITY sync.text.tab.sent.label "Vòstre onglet es estat mandat !">
 <!ENTITY sync.text.tab.not.sent.label "Un problèma s\u0027es produch al moment del mandadís de vòstre onglet.">
 <!-- Firefox Account strings. -->
+
+
 <!-- Localization note: these are shown in all screens that query the
      user for an email address and password. Hide and show are button
      labels. -->
@@ -154,7 +161,24 @@
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
 <!ENTITY fxaccount_status_sync "&syncBrand.fullName.label;">
+
+
+
+
 
 
 
@@ -169,11 +193,17 @@
      these strings are separated to accommodate languages that decline
      the two uses differently. -->
 
+
+
+
+<!-- Localization note: format string below will be replaced
+     with the Firefox Account's email address. -->
+
 <!-- Localization note: this is the name shown by the Android system
      itself for a Firefox Account. Don't localize this. -->
 <!-- Localization note: these are shown by the Android system itself,
-     when the user navigates to the Android > Accounts > [Firefox
-     Account] Screen. The link takes the user to the Firefox Account
+     when the user navigates to the Android > Accounts > {Firefox
+     Account} Screen. The link takes the user to the Firefox Account
      status activity, which lets them manage their Firefox
      Account. -->
 
@@ -191,5 +221,9 @@
 
 
 
-<!-- Note to translators: the format string below will be replaced
+
+<!-- Localization note: the format string below will be replaced
+     with the Firefox Account's email address. -->
+
+<!-- Localization note: the format string below will be replaced
      with the Firefox Account's email address. -->

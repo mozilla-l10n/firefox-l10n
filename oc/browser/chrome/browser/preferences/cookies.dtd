@@ -7,11 +7,12 @@
 <!ENTITY     cookiesonsystem.label          "Los cookies seguents son emmagazinats sus vòstre ordenador :">
 <!ENTITY     cookiename.label               "Nom del cookie">
 <!ENTITY     cookiedomain.label             "Site"> 
-<!ENTITY     button.removecookies.label     "Suprimir los Cookies">
-<!ENTITY     button.removecookie.label      "Suprimir lo Cookie">
-<!ENTITY     button.removecookie.accesskey  "S">
-<!ENTITY     button.removeallcookies.label  "Suprimir totes los Cookies">
-<!ENTITY     button.removeallcookies.accesskey "t">
+<!-- LOCALIZATION NOTE (button.removeSelectedCookies.accesskey):
+  The label associated with this accesskey can be found in 
+  preferences.properties as removeSelectedCookies.
+-->
+<!ENTITY     button.removeAllCookies.label "Suprimir tot">
+<!ENTITY     button.removeAllCookies.accesskey "t">
 
 <!ENTITY     props.name.label               "Nom :">
 <!ENTITY     props.value.label              "Contengut :">

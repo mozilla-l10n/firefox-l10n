@@ -16,7 +16,7 @@
 <!-- LOCALIZATION NOTE (support.pre): Include a trailing space as needed. -->
 <!-- LOCALIZATION NOTE (support.link): Avoid leading/trailing spaces, this text is a link. -->
 <!-- LOCALIZATION NOTE (support.post): Include a starting space as needed. -->
-<!ENTITY support.link              "Acuèlh de &brandShortName;">
+
 
 
 <!ENTITY happy.header              "Aquò's bon de l'ausir !">
@@ -35,11 +35,11 @@
 
 <!ENTITY sad.message               "Planhèm qu'ajatz qualques problèmas amb &brandShortName;. Explicatz-nos çò que s'es passat per tal que lo poscam corregir.">
 <!ENTITY sad.placeholder           "Picatz vòstra opinion aicí">
-<!ENTITY sad.lastSite              "Darrièr site visitat (opcional)">
+
 <!-- LOCALIZATION NOTE (sad.urlPlaceholder): Placeholder text that appears in "Last visited site" input box when there is no text. -->
 
 <!ENTITY sad.urlPlaceholder        "http://">
-<!ENTITY sad.thanksHeader          "Mercé de nos aver assabentat.">
+
 <!-- LOCALIZATION NOTE (sad.thanksMessageTop): "real people" — We're stating that an actual human will look at the feedback
      and that it doesn't just go to some automated system that looks for keywords, or something like that. -->
 
@@ -50,5 +50,4 @@
 
 <!ENTITY sad.thanksMessageBottom   "O siquenon.">
 
-<!ENTITY feedback.privacy          "Per tal de preservar vòstra vida privada, incluiscatz pas d'informacions personalas identificablas dins vòstra opinion.">
 <!ENTITY feedback.send             "Mandar vòstra opinion">

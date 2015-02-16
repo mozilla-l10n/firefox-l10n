@@ -97,8 +97,8 @@ las paginas Web e los corrièrs frauduloses son utilizats per imitar de fonts di
 las qualas avètz fisança.</p>
 ">
 
-<!ENTITY cspFrameAncestorBlocked.title "Blocat per Content Security Policy">
-<!ENTITY cspFrameAncestorBlocked.longDesc "<p>Lo navigador a empachat lo cargament d'aquesta pagina d'aqueste biais perque la pagina a una estrategia de seguretat de contengut que lo permet pas.</p>">
+<!ENTITY cspBlocked.title "Blocat per Content Security Policy">
+<!ENTITY cspBlocked.longDesc "<p>Lo navigador a empachat lo cargament d'aquesta pagina d'aqueste biais perque la pagina a una estrategia de seguretat de contengut que lo permet pas.</p>">
 
 <!ENTITY corruptedContentError.title "Error deguda a un contengut corromput">
 <!ENTITY corruptedContentError.longDesc "<p>La pagina qu'ensajatz de veire pòt pas èsser afichada perque una error dins la transmission de donadas es estada detectada.</p><ul><li>Contactatz los proprietaris del site Web per los assabentar d'aqueste problèma.</li></ul>">

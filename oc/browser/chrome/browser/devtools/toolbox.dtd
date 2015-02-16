@@ -108,11 +108,14 @@
   -  for the target of the toolbox. -->
 
 <!ENTITY options.toolNotSupported.label  "* Pas gerit per la cibla actuala de la bóstia d'aisinas">
-<!-- LOCALIZATION NOTE (options.selectDevToolsTheme.label): This is the label for
+<!-- LOCALIZATION NOTE (options.selectDevToolsTheme.label2): This is the label for
   -  the heading of the radiobox corresponding to the theme of the developer
   -  tools. -->
 
-<!ENTITY options.selectDevToolsTheme.label   "Causir lo tèma de las aisinas de desvolopament :">
+<!ENTITY options.selectDevToolsTheme.label2   "Tèmas">
+<!-- LOCALIZATION NOTE (options.usedeveditiontheme.*) Options under the
+  -  toolbox for enabling and disabling the Developer Edition browser theme. -->
+
 <!-- LOCALIZATION NOTE (options.webconsole.label): This is the label for the
   -  heading of the group of Web Console preferences in the options panel. -->
 
@@ -142,7 +145,7 @@
   -  panel. -->
 
 <!ENTITY options.profiler.label            "Perfilador JavaScript">
-<!-- LOCALICATION NOTE (options.commonprefs): This is the label for the heading
+<!-- LOCALIZATION NOTE (options.commonprefs): This is the label for the heading
       of all preferences that affect both the Web Console and the Network
       Monitor -->
 
@@ -177,3 +180,4 @@
 
 
 <!ENTITY options.sourceeditor.keybinding.default.label  "Per defaut">
+
