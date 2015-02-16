@@ -10,6 +10,10 @@
   - documentation on web development on the web. -->
 <!-- LOCALIZATION NOTE (timelineUI.recordButton): This string is displayed
   -  on a button that starts a new recording. -->
+
+
+
+<!ENTITY timelineUI.recordButton.tooltip "ಕಾಲಸೂಚಿ ಕಾರ್ಯಾಚರಣೆಯನ್ನು ಮುದ್ರಿಸು">
 <!-- LOCALIZATION NOTE (timelineUI.recordLabel): This string is displayed
   -  as a label to signal that a recording is in progress. -->
 
@@ -21,15 +25,19 @@
 <!ENTITY timelineUI.memoryCheckbox.label "ಮೆಮೊರಿ">
 <!-- LOCALIZATION NOTE (timelineUI.memoryCheckbox.tooltip): This string
   -  is displayed next to the memory checkbox -->
+
+<!ENTITY timelineUI.memoryCheckbox.tooltip "ಮೆಮರಿ ಅಳತೆಗಳನ್ನು ಸಕ್ರಿಯಗೊಳಿಸು">
 <!-- LOCALIZATION NOTE (timelineUI.filterButton.tooltip): This string
   -  is displayed next to the filter button-->
+
+<!ENTITY timelineUI.filterButton.tooltip "ಯಾವ ಡೇಟಾ ತೋರಿಸಬೇಕೆಂದು ಆಯ್ಕೆಮಾಡು">
 <!-- LOCALIZATION NOTE (timelineUI.emptyNotice1/2): This is the label shown
   -  in the timeline view when empty. -->
 
 <!ENTITY timelineUI.emptyNotice1    "ಇದರ ಮೇಲೆ ಕ್ಲಿಕ್ಕಿಸಿ">
-
+<!ENTITY timelineUI.emptyNotice2    "ಕಾಲಸೂಚಿ ಘಟನೆಗಳನ್ನು ಮುದ್ರಿಸುವುದನ್ನು ಪ್ರಾರಂಭಿಸಲು ಗುಂಡಿ ಒತ್ತಿ.">
 <!-- LOCALIZATION NOTE (timelineUI.stopNotice1/2): This is the label shown
   -  in the timeline view while recording. -->
 
 <!ENTITY timelineUI.stopNotice1    "ಇದರ ಮೇಲೆ ಕ್ಲಿಕ್ಕಿಸಿ">
-
+<!ENTITY timelineUI.stopNotice2    "ಮುದ್ರಣವನ್ನು ನಿಲ್ಲಿಸಲು ಮತ್ತೆ ಗುಂಡಿ ಒತ್ತಿ.">
