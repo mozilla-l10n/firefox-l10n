@@ -50,7 +50,7 @@
 <!ENTITY hdrViewToolbarAlwaysReplySender.accesskey "s">
 
 <!ENTITY otherActionsButton2.label "Daugiau">
-
+<!ENTITY otherActionsButton.tooltip "Daugiau veiksmų">
 <!ENTITY otherActionsOpenConversation1.label "Atverti diskusijoje">
 <!ENTITY otherActionsOpenConversation1.accesskey "d">
 <!ENTITY otherActionsOpenInNewWindow1.label "Atverti naujame lange">
