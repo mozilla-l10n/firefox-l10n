@@ -11,6 +11,7 @@
   The label associated with this accesskey can be found in 
   preferences.properties as removeSelectedCookies.
 -->
+<!ENTITY     button.removeSelectedCookies.accesskey "E">
 <!ENTITY     button.removeAllCookies.label "Összes eltávolítása">
 <!ENTITY     button.removeAllCookies.accesskey "s">
 
