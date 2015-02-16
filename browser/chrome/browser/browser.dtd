@@ -719,6 +719,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY social.learnMore.accesskey "L">
 <!ENTITY social.closeNotificationItem.label "ಈಗ ಬೇಡ">
 
+<!ENTITY social.directory.label "ಸಕ್ರಿಯವಾದವುಗಳ ನಿರ್ದೇಶಿಕೆ">
 <!ENTITY social.directory.text "ಹಂಚಲು ಬಳಸುವ ಸೇವೆಗಳನ್ನು ನೀವು ನಿರ್ದೆಶಿಕೆಯಿಂದ ಸಕ್ರಿಯಗೊಳಿಸಬಹುದು.">
 <!ENTITY social.directory.button "ನನ್ನನ್ನು ಅಲ್ಲಿಗೆ ಕರೆದೊಯ್ಯಿ!">
 <!ENTITY social.directory.introText "&brandShortName; ಗೆ ಸೇವೆಯನ್ನು ಸೇರಿಸಲು ಅದರ ಮೇಲೆ ಕ್ಲಿಕ್ಕಿಸಿ.">
@@ -738,7 +739,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY customizeMode.lwthemes.menuManage.accessKey "M">
 <!ENTITY customizeMode.lwthemes.menuGetMore "ಇನ್ನಷ್ಟು ಥೀಮ್‌ಗಳನ್ನು ಪಡೆದುಕೊಳ್ಳಿ">
 <!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "G">
-
+<!ENTITY customizeMode.deveditionTheme.label2 "ಡೆವೆಲಪರ್ ಸಂಪಾದನೆಯ ಥೀಮ್ ಬಳಸಿ">
 
 <!ENTITY social.chatBar.commandkey "c">
 <!ENTITY social.chatBar.label "ಮಾತುಕತೆಗಳತ್ತ ಗಮನ ಹರಿಸು">
