@@ -13,8 +13,8 @@
 <!ENTITY radioAskState.accesskey "k">
 <!ENTITY radioAlwaysOnline.label "Prijungta">
 <!ENTITY radioAlwaysOnline.accesskey "l">
-
-
+<!ENTITY radioAlwaysOffline.label "Atjungta">
+<!ENTITY radioAlwaysOffline.accesskey "A">
 
 <!ENTITY textGoingOnline "Ar prisijungus prie tinklo išsiųsti neišsiųstus laiškus?">
 <!ENTITY radioAutoSend.label "taip">
