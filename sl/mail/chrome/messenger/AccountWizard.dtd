@@ -53,15 +53,15 @@
 <!ENTITY defaultPortLabel.label "Privzeto:">
 <!ENTITY defaultPortValue.label "">
 <!-- LOCALIZATION NOTE (incomingServerNameDesc.label) : Do not translate "&quot;pop.example.net&quot;" in below line -->
-<!ENTITY incomingServer.description "Vnesite ime svojega vhodnega strežnika (NNTP) (na primer, &quot;posta.naprimer.net&quot;).">
+<!ENTITY incomingServer.description "Vnesite ime svojega dohodnega strežnika (na primer &quot;posta.primer.net&quot;).">
 <!ENTITY incomingServer.label "Dohodni strežnik:">
 <!ENTITY incomingServer.accesskey "s">
 <!-- LOCALIZATION NOTE (incomingUsername.description) : do not translate "&quot;jsmith&quot;" in below line -->
-<!ENTITY incomingUsername.description "Vnesite svoje ime za dohodni strežnik, ki ste ga dobili od ponudnika poštnih storitev (na primer,  &quot;Janez.Kralj&quot;).">
+<!ENTITY incomingUsername.description "Vnesite svoje ime za dohodni strežnik, ki ste ga dobili od ponudnika poštnih storitev (na primer &quot;Janez.Kralj&quot;).">
 <!ENTITY incomingUsername.label "Uporabniško ime:">
 <!ENTITY incomingUsername.accesskey "U">
 <!-- LOCALIZATION NOTE (newsServerNameDesc.label) : Do not translate "NNTP" or the "&quot;" entities in below line -->
-<!ENTITY newsServerNameDesc.label "Vnesite ime svojega strežnika za novice (NNTP) (na primer, &quot;novice.naprimer.net&quot;).">
+<!ENTITY newsServerNameDesc.label "Vnesite ime svojega strežnika za novice (NNTP) (na primer &quot;novice.primer.net&quot;).">
 <!ENTITY newsServerLabel.label "Strežnik za novice:">
 <!ENTITY newsServerLabel.accesskey "S">
 <!-- Entities for Outgoing Server page -->
@@ -69,7 +69,7 @@
 
 <!ENTITY outgoingTitle.label "Podatki o odhodnem strežniku">
 <!-- LOCALIZATION NOTE (outgoingServer.description) : Do not translate "SMTP" and "&quot;smtp.example.net&quot;" in below line -->
-<!ENTITY outgoingServer.description "Vnesite ime svojega odhodnega strežnika (NNTP) (na primer, &quot;smtp.primer.net&quot;).">
+<!ENTITY outgoingServer.description "Vnesite ime svojega odhodnega strežnika (NNTP) (na primer &quot;smtp.primer.net&quot;).">
 <!ENTITY outgoingServer.label "Odhodni strežnik:">
 <!ENTITY outgoingServer.accesskey "s">
 <!ENTITY outgoingUsername.description "Vnesite uporabniško ime odhodnega strežnika, ki ste ga dobili od svojega ponudnika e-poštnih storitev (to je običajno isto, kot uporabniško ime dohodnega strežnika).">
@@ -79,7 +79,7 @@
      haveSmtp1.suffix3, haveSmtp2.suffix3, haveSmtp3.suffix3 .
 -->
 
-<!ENTITY modifyOutgoing.suffix "Nastavitve za izhodne strežnike lahko spremenite v nastavitvah za račun.">
+<!ENTITY modifyOutgoing.suffix "Nastavitve za odhodne strežnike lahko spremenite v nastavitvah za račun.">
 <!-- LOCALIZATION NOTE (haveSmtp1.prefix and haveSmtp1.suffix3) : Do not translate "SMTP" and "&quot;" in
      these variables. Also, translate haveSmtp1.prefix and haveSmtp1.suffix3 as a single sentence, inserting
      text after the "&quot;" entity in haveSmtp1.suffix3, if required grammatically.

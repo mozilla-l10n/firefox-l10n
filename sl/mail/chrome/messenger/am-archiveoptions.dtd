@@ -9,7 +9,7 @@
 <!ENTITY archiveFlat.label "eno samo mapo">
 <!ENTITY archiveFlat.accesskey "e">
 <!ENTITY archiveYearly.label "letne arhivske mape">
-<!ENTITY archiveYearly.accesskey "l">
+<!ENTITY archiveYearly.accesskey "n">
 <!ENTITY archiveMonthly.label "mesečne arhivske mape">
 <!ENTITY archiveMonthly.accesskey "m">
 <!ENTITY keepFolderStructure.label "Obdrži obstoječo strukturo map z arhiviranimi sporočili">

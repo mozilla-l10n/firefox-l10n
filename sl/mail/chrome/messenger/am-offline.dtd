@@ -31,7 +31,7 @@
 <!ENTITY retentionKeepUnreadHidden.label "Vedno izbriši prebrana sporočila (preglasi nastavitve o starosti)">
 <!ENTITY retentionApplyToFlagged.label "Vedno ohrani sporočila z zvezdico">
 <!ENTITY retentionApplyToFlagged.accesskey "V">
-<!ENTITY nntpRemoveMsgBody.label "Iz sporočil odstrani telesa večja kot">
+<!ENTITY nntpRemoveMsgBody.label "Odstrani telesa iz sporočil, ki so starejša od">
 <!ENTITY nntpRemoveMsgBody.accesskey "e">
 <!ENTITY offlineSelectNntp.label "Izberi novičarske skupine za delo brez povezave …">
 <!ENTITY offlineSelectNntp.accesskey "z">
