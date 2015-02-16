@@ -6,7 +6,7 @@
 <!ENTITY  prefWindow.titleGNOME   "„&brandShortName;“ nuostatos">
 <!ENTITY  prefWindow.titleMAC     "Nuostatos">
 <!ENTITY  prefWindow.styleWindows "width: 44em; min-height: 40em;">
-
+<!ENTITY  prefWindow.styleMac     "width: 52em;">
 <!ENTITY  prefWindow.styleGNOME   "width: 42em; min-height: 40em;">
 
 <!ENTITY paneGeneral.title        "Bendrosios">

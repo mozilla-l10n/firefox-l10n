@@ -4,7 +4,7 @@
 <!-- Subscription Dialog -->
 
 <!ENTITY feedSubscriptions.label     "Sklaidos kanalų prenumerata">
-
+<!ENTITY learnMore.label             "Sužinokite daugiau apie sklaidos kanalus">
 
 <!ENTITY feedTitle.label             "Pavadinimas:">
 <!ENTITY feedTitle.accesskey         "v">

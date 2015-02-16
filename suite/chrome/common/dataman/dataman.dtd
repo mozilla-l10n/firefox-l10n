@@ -37,10 +37,9 @@
 <!ENTITY cookies.tree.name.label "Slapuko vardas">
 
 
-<!ENTITY cookies.infobox.label "Informacija apie pažymėtą slapuką">
 
-<!ENTITY cookies.info.value.label "Kita informacija:">
-<!ENTITY cookies.info.host.label "Pagrindinis kompiuteris:">
+
+
 <!ENTITY cookies.info.domain.label "Sritis:">
 <!ENTITY cookies.info.path.label "Kelias:">
 <!ENTITY cookies.info.sendtype.label "Serverio saugumas:">
