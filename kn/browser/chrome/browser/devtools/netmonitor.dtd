@@ -209,6 +209,8 @@
 <!ENTITY netmonitorUI.security.cipherSuite "ಚೈಪರ್ ಸೂಟ್:">
 <!-- LOCALIZATION NOTE (netmonitorUI.security.hsts): This is the label displayed
   -  in the security tab describing the usage of HTTP Strict Transport Security. -->
+
+<!ENTITY netmonitorUI.security.hsts "HTTP ಶಿಸ್ತಿನ ರವಾನೆ ಸುರಕ್ಷತೆ:">
 <!-- LOCALIZATION NOTE (netmonitorUI.security.hpkp): This is the label displayed
   -  in the security tab describing the usage of Public Key Pinning. -->
 
