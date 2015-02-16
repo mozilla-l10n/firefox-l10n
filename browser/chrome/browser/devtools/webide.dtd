@@ -23,6 +23,8 @@
 
 
 
+
+
 <!ENTITY runtimeMenu_disconnect_label "Desconnectar">
 
 
@@ -34,9 +36,15 @@
 
 
 
+
+
 <!ENTITY viewMenu_label "Veire">
 
 
+
+<!ENTITY viewMenu_zoomin_label "Zoom avant">
+
+<!ENTITY viewMenu_zoomout_label "Zoom arrièr">
 
 
 
@@ -49,23 +57,29 @@
 <!-- show toolbox -->
 <!ENTITY key_toggleToolbox "VK_F12">
 <!-- toggle sidebar -->
+<!-- zoom -->
+
+
+
 
 
 <!ENTITY projectPanel_tabs "Onglets">
 
 
 
-
+<!ENTITY runtimePanel_other "Autres">
 <!ENTITY runtimePanel_installsimulator "Installar lo Simulator">
 
 
 <!-- Lense -->
 
-
+<!ENTITY details_valid_header "valid">
+<!ENTITY details_warning_header "avertiments">
+<!ENTITY details_error_header "errors">
 <!ENTITY details_description "Descripcion">
 <!ENTITY details_location "Adreça">
 
-
+<!ENTITY details_removeProject_button "Suprimir lo projècte">
 <!-- New App -->
 
 
@@ -78,6 +92,8 @@
 <!-- Addons -->
 <!ENTITY addons_aboutaddons "Dobrir lo gestionari de moduls complementaris">
 <!-- Prefs -->
+
+<!ENTITY prefs_title "Preferéncias">
 
 <!ENTITY prefs_general_title "General">
 <!ENTITY prefs_restore "Restablir l'òrdre inicial">
@@ -100,10 +116,19 @@
 
 
 
-
+<!ENTITY prefs_options_keybindings_default "Per defaut">
 <!-- Permissions Table -->
 <!ENTITY permissionstable_name_header "Nom">
 <!-- Runtime Details -->
+
+
+
+
+
+
+<!-- Device Preferences -->
+
+
 
 
 

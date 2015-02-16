@@ -6,8 +6,11 @@
 <!ENTITY  window.width                    "38em">
 <!ENTITY  window.macWidth                 "41em">
 
-<!ENTITY  allowPagesToUse.label           "Autorizar las paginas a causir lors pròpias colors al luòc de mas causidas çaisús">
-<!ENTITY  allowPagesToUse.accesskey       "A">
+
+
+<!ENTITY  overridePageColors.always.label "Totjorn">
+
+<!ENTITY  overridePageColors.never.label  "Pas jamai">
 
 <!ENTITY  color                           "Tèxte e rèire plan">
 <!ENTITY  textColor.label                 "Tèxte :">

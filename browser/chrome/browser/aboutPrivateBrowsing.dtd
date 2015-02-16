@@ -11,11 +11,8 @@
 
 <!ENTITY aboutPrivateBrowsing.notPrivate       "Pel moment, sètz pas dins una fenèstra de navigacion privada.">
 
+<!ENTITY aboutPrivateBrowsing.moreInfo         "Pendent que vòstre ordenador garda pas de traça de vòstre istoric de navigacion, vòstre FAI o emplegaire pòt contunhar a seguir las paginas que visitatz.">
 <!ENTITY aboutPrivateBrowsing.learnMore        "Ne saber mai.">
 
 <!ENTITY privatebrowsingpage.openPrivateWindow.label "Dobrir una fenèstra de navigacion privada">
 <!ENTITY privatebrowsingpage.openPrivateWindow.accesskey "p">
-<!-- TO BE REMOVED POST-AUSTRALIS --> 
-<!-- LOCALIZATION NOTE (privatebrowsingpage.howToStart3): please leave &basePBMenu.label; intact in the translation -->
-
-<!ENTITY privatebrowsingpage.howToStart3               "Per aviar la navigacion privada, podètz tanben seleccionar &basePBMenu.label; &gt; &newPrivateWindow.label;.">

@@ -8,6 +8,7 @@
 
 <!ENTITY aboutTelemetry.telemetryDisabled "  La telemetria es <span>desactivada</span>.">
 
+
 <!ENTITY aboutTelemetry.slowSqlSection "  Requèstas SQL lentas">
 
 <!ENTITY aboutTelemetry.chromeHangsSection "  Blocatges del navigador">
@@ -15,6 +16,7 @@
 <!ENTITY aboutTelemetry.threadHangStatsSection "  Blocatges dels fials d'execucion">
 
 <!ENTITY aboutTelemetry.histogramsSection "  Istogramas">
+
 
 <!ENTITY aboutTelemetry.simpleMeasurementsSection "  Mesuras simplas">
 

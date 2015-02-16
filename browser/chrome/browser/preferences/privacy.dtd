@@ -4,28 +4,22 @@
 
 <!ENTITY tracking.label                 "Pistatge">
 
-<!ENTITY dntTrackingNopref.label2       "Indicar pas res als sites a prepaus de mas preferéncias de pistatge">
-<!ENTITY dntTrackingNopref.accesskey    "o">
 <!ENTITY dntTrackingNotOkay.label2      "Indicar als sites Web de que vòli pas èsser pistat">
 <!ENTITY dntTrackingNotOkay.accesskey   "n">
-<!ENTITY dntTrackingOkay.label2         "Indicar als sites Web que vòli pas èsser pistat">
-<!ENTITY dntTrackingOkay.accesskey      "h">
 
 
 <!ENTITY trackingProtectionLearnMore.label "Ne saber mai">
 <!ENTITY doNotTrackInfo.label           "Ne saber mai…">
 
-<!ENTITY  history.label                 "Istoric">
 
 <!ENTITY  locationBar.label             "Barra d'adreça">
 
-<!ENTITY  locbar.pre.label              "Quand utilizi la barra d'adreça, suggerir :">
-<!ENTITY  locbar.pre.accessKey          "l">
-<!ENTITY  locbar.post.label             "">
-<!ENTITY  locbar.both.label             "Istoric e favorits">
 <!ENTITY  locbar.history.label          "Istoric">
+<!ENTITY  locbar.history.accesskey      "I">
 <!ENTITY  locbar.bookmarks.label        "Favorits">
-<!ENTITY  locbar.nothing.label          "Pas res">
+<!ENTITY  locbar.bookmarks.accesskey    "F">
+
+
 
 <!ENTITY  acceptCookies.label           "Acceptar de cookies de sites">
 <!ENTITY  acceptCookies.accesskey       "c">
@@ -36,8 +30,7 @@
 <!ENTITY  acceptThirdParty.never.label    "Pas jamai">
 <!ENTITY  acceptThirdParty.visited.label  "dempuèi los sites visitats">
 
-<!ENTITY  keepUntil.label               "Los conservar fins a :">
-<!ENTITY  keepUntil.accesskey           "L">
+
 
 <!ENTITY  expire.label                  "lor expiracion">
 <!ENTITY  close.label                   "la tampadura de &brandShortName;">

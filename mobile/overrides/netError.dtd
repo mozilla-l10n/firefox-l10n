@@ -11,18 +11,14 @@
 
 
 <!ENTITY connectionFailure.title "Impossible de se connectar">
-<!ENTITY connectionFailure.longDesc "&sharedLongDesc2;">
+
 
 <!ENTITY deniedPortAccess.title "Aquesta adreça es restrencha">
 <!ENTITY deniedPortAccess.longDesc "">
 
 <!ENTITY dnsNotFound.title "Impossible de trobar lo servidor">
-<!ENTITY dnsNotFound.longDesc2 "<ul> 
-<li>Verificatz la sintaxi de l'adreça 
-(picada de <strong>ww</strong>.exemple.com al luòc de 
-<strong>www</strong>.exemple.com per exemple).</li> 
-<li>Se capitatz pas de navigar sus cap de site, verificatz la connexion donadas o WiFi de vòstre aparelh.</li> 
-</ul>">
+<!-- LOCALIZATION NOTE (dnsNotFound.longDesc4) This string contains markup including widgets for searching
+     or enabling wifi connections. The text inside tags should be localized.  Do not change the ids. -->
 
 <!ENTITY fileNotFound.title "Fichièrs pas trobat">
 <!ENTITY fileNotFound.longDesc "<ul> 
@@ -35,23 +31,18 @@
 <!ENTITY generic.longDesc "<p>&brandShortName;  pòt pas cargar aquesta pagina.</p>">
 
 <!ENTITY malformedURI.title "Aquesta adreça es pas valida.">
-<!ENTITY malformedURI.longDesc "<ul> 
-<li>La sintaxi de las adreças web es generalament 
-<strong>http://www.exemple.com/</strong></li> 
-<li>Asseguratz-vos qu'utilizatz plan las bonas barras oblicas 
-(es a dire <strong>/</strong>).</li> 
-</ul>">
+<!-- LOCALIZATION NOTE (malformedURI.longDesc2) This string contains markup including widgets for searching
+     or enabling wifi connections. The text inside the tags should be localized. Do not touch the ids. -->
 
 <!ENTITY netInterrupt.title "La connexion es estada interrompuda">
-<!ENTITY netInterrupt.longDesc "&sharedLongDesc2;">
+
 
 <!ENTITY notCached.title "Lo document a expirat">
 <!ENTITY notCached.longDesc "<p>Lo document demandat es pas mai disponible dins l'escondedor de &brandShortName;.</p><ul><li>Per mesura de seguretat, &brandShortName; torna pas demandar automaticament de documents sensibles.</li><li>Clicatz sus Ensajar Tornarmai per tornar demandar aqueste document dempuèi lo site web.</li></ul>">
 
 <!ENTITY netOffline.title "Mòde sens connexion">
-<!ENTITY netOffline.longDesc2 "<ul> 
-<li>Ensajatz tornarmai. &brandShortName; ensajarà de dobrir una connexion e d'actualizar la pagina.</li> 
-</ul>">
+<!-- LOCALIZATION NOTE (netOffline.longDesc3) This string contains markup including widgets enabling wifi connections.
+     The text inside the tags should be localized. Do not touch the ids. -->
 
 <!ENTITY contentEncodingError.title "Error d'encodatge de contengut">
 <!ENTITY contentEncodingError.longDesc "<ul> 
@@ -64,10 +55,10 @@
 </ul>">
 
 <!ENTITY netReset.title "La connexion es estada reinicializada">
-<!ENTITY netReset.longDesc "&sharedLongDesc2;">
+
 
 <!ENTITY netTimeout.title "Relambi d'espèra passat">
-<!ENTITY netTimeout.longDesc "&sharedLongDesc2;">
+
 
 <!ENTITY unknownProtocolFound.title "La connexion es pas estada compresa">
 <!ENTITY unknownProtocolFound.longDesc "<ul> 
@@ -82,10 +73,8 @@ fonciona.</li>
 </ul>">
 
 <!ENTITY proxyResolveFailure.title "Impossible de trobar lo servidor mandatòri">
-<!ENTITY proxyResolveFailure.longDesc2 "<ul> 
-<li>Verificatz que los paramètres del proxy son corrèctes.</li> 
-<li>Verificatz que la connexion donadas o WiFi de vòstre aparelh fonciona.</li> 
-</ul>">
+<!-- LOCALIZATION NOTE (proxyResolveFailure.longDesc3) This string contains markup including widgets for enabling wifi connections.
+     The text inside the tags should be localized. Do not touch the ids. -->
 
 <!ENTITY redirectLoop.title "Redireccion de pagina incorrècta">
 <!ENTITY redirectLoop.longDesc "<ul> 
@@ -100,10 +89,7 @@ vòstre sistèma.</li>
 <li>Aquò pòt èsser degut a una configuracion inacostumada del servidor.</li> </ul>">
 
 <!ENTITY nssFailure2.title "Fracàs de la connexion securizada">
-<!ENTITY nssFailure2.longDesc "<ul> 
-<li>La pagina qu'ensajatz de consultar pòt pas èsser afichada perque l'autenticitat de las donadas recebudas pòt pas èsser verificada.</li> 
-<li>Contactatz los proprietaris del sit Web per los n'assabentar. Tanben podètz utilizar la comanda dins lo menú d'ajuda per senhalar un site pas foncional.</li> 
-</ul>">
+
 
 <!ENTITY nssBadCert.title "La connexion segura a pas capitat">
 <!ENTITY nssBadCert.longDesc2 "<ul>
@@ -112,14 +98,11 @@ d'usurpar l'identitat del servidor.</li>
 <li>Se ja sètz connectat(ada) amb succès a aqueste servidor, benlèu l'error es temporària e podètz
 ensajar tornamai pus tard.</li> 
 </ul>">
+<!-- LOCALIZATION NOTE (sharedLongDesc3) This string contains markup including widgets for enabling wifi connections.
+     The text inside the tags should be localized. Do not touch the ids. -->
 
-<!ENTITY sharedLongDesc2 "<ul> 
-<li>Benlèu que lo site es temporàriament indisponible o subrecargat. Tornatz ensajar mai tard.</li> 
-<li>Se capitatz pas de navigar sus cap de site, verificatz la connexion donadas o WiFi de vòstre aparelh.</li> 
-</ul>">
-
-<!ENTITY cspFrameAncestorBlocked.title "Blocat per una estrategia de seguretat de contengut">
-<!ENTITY cspFrameAncestorBlocked.longDesc "<p>&brandShortName; a empacht lo cargament d'aquesta pagina d'aquel biais perque son estrategia de seguretat de contengut lo permet pas.</p>">
+<!ENTITY cspBlocked.title "Blocat per una estrategia de seguretat de contengut">
+<!ENTITY cspBlocked.longDesc "<p>&brandShortName; a empacht lo cargament d'aquesta pagina d'aquel biais perque son estrategia de seguretat de contengut lo permet pas.</p>">
 
 <!ENTITY corruptedContentError.title "Error deguda a un contengut corromput">
 <!ENTITY corruptedContentError.longDesc "<p>La pagina qu'ensajatz de veire pòt pas èsser afichada perque una error dins la transmission de donadas es estada detectada. </p><ul><li>Contactatz los proprietaris del site Web per los assabentar d'aqueste problèma.</li></ul>">
