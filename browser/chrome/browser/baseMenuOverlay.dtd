@@ -20,7 +20,7 @@
 <!ENTITY productHelp.accesskey    "m">
 <!ENTITY helpMac.commandkey       "?">
 
-<!ENTITY helpKeyboardShortcuts.label     "Llwybrau byr Bysellfwrdd">
+<!ENTITY helpKeyboardShortcuts.label     "Llwybrau Byr Bysellfwrdd">
 <!ENTITY helpKeyboardShortcuts.accesskey "B">
 
 <!ENTITY helpSafeMode.label       "Ailgychwyn gydag Ychwanegion wedi eu Hanalluogi…">
@@ -35,8 +35,8 @@
 <!ENTITY helpFeedbackPage.label      "Cyflwyno Adborth…">
 <!ENTITY helpFeedbackPage.accesskey  "A">
 
-<!ENTITY helpShowTour.label             "Dewch i weld &brandShortName;">
-<!ENTITY helpShowTour.accesskey         "w">
+<!ENTITY helpShowTour.label             "Cyflwyniad &brandShortName;">
+<!ENTITY helpShowTour.accesskey         "C">
 
 <!ENTITY preferencesCmdMac.label        "Dewisiadau…">
 <!ENTITY preferencesCmdMac.commandkey   ",">
