@@ -600,3 +600,7 @@
 <!ENTITY processHang.terminatePlugin.accessKey    "P">
 <!ENTITY processHang.terminateProcess.label       "Detener proceso web">
 <!ENTITY processHang.terminateProcess.accessKey   "K">
+
+
+<!ENTITY emeLearnMoreContextMenu.label            "Aprender más acerca de DRM…">
+<!ENTITY emeLearnMoreContextMenu.accesskey        "D">
