@@ -173,6 +173,8 @@
 <!ENTITY pref_cookies_not_accept_foreign "Të aktivizuara, hiq palët e treta">
 <!ENTITY pref_cookies_disabled "Të çaktivizuara">
 
+<!ENTITY pref_tracking_protection_title "Mbrojtje nga gjurmimi">
+<!ENTITY pref_tracking_protection_summary "&brandShortName;-i do t\&apos;i pengojë sajtet t\&apos;ju gjurmojnë">
 <!ENTITY pref_donottrack_title "Mos më gjurmo">
 <!ENTITY pref_donottrack_summary "&brandShortName;-i do t\&apos;u thotë sajteve se nuk doni të gjurmoheni">
 
@@ -431,6 +433,9 @@ size. -->
 <!ENTITY home_remote_tabs_empty "Skedat tuaja prej pajisjesh të tjera shfaqen këtu.">
 <!ENTITY home_remote_tabs_unable_to_connect "Nuk arrin të lidhet">
 <!ENTITY home_remote_tabs_need_to_sign_in "Ju lutemi, bëni hyrjen që të rilidhet Llogaria juaj Firefox dhe të vazhdohet njëkohësimi.">
+<!ENTITY home_remote_tabs_need_to_finish_migrating "Llogaria juaj e re Firefox është gati!">
+
+
 <!ENTITY home_remote_tabs_trouble_verifying "Probleme me verifikimin e llogarisë suaj?">
 <!ENTITY home_remote_tabs_need_to_verify "Ju lutemi, verifikoni Llogarinë tuaj Firefox që të fillohet njëkohësimi.">
 
@@ -531,12 +536,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY updater_apply_title2 "Ka përditësim gati për &brandShortName;-un">
 <!ENTITY updater_apply_select2 "Prekeni që të përditësohet">
-
-<!-- New tablet UI -->
-
-<!-- LOCALIZATION NOTE (new_tablet_restart): Notification displayed after the user toggles the new tablet UI in the settings screen.-->
-<!ENTITY new_tablet_restart "Riniseni shfletuesin që të hyjnë në fuqi ndryshimet">
-<!ENTITY new_tablet_pref "Aktivizoni NG të re tabletesh">
 
 <!-- Guest mode -->
 <!ENTITY new_guest_session "Sesion i Ri Mysafiri">
