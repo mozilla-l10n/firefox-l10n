@@ -703,10 +703,10 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY getUserMedia.selectMicrophone.accesskey "M">
 <!ENTITY getUserMedia.allWindowsShared.message "Wszystkie widoczne na ekranie okna zostaną udostępnione.">
 
-<!ENTITY badContentBlocked.moreinfo "Większość stron będzie działać prawidłowo nawet, gdy blokowane są treści.">
+<!ENTITY badContentBlocked.moreinfo "Większość stron będzie działać prawidłowo nawet, gdy blokowane są treści.">
 
 <!ENTITY mixedContentBlocked2.message "Niezabezpieczone treści">
-<!ENTITY mixedContentBlocked2.moreinfo "Niektóre niezaszyfrowane elementy tej strony zostały zablokowane.">
+<!ENTITY mixedContentBlocked2.moreinfo "Niektóre niezaszyfrowane elementy tej strony zostały zablokowane.">
 <!ENTITY mixedContentBlocked2.learnMore "Więcej informacji">
 <!ENTITY mixedContentBlocked2.options "Ustawienia">
 <!ENTITY mixedContentBlocked2.unblock.label "Tymczasowo wyłącz ochronę">
@@ -716,14 +716,14 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY mixedContentBlocked2.disabled.message "Ochrona została wyłączona">
 
 <!ENTITY trackingContentBlocked.message "Śledzenie">
-<!ENTITY trackingContentBlocked.moreinfo "Części strony odpowiedzialne za śledzenie aktywności użytkowników zostały zablokowane.">
+<!ENTITY trackingContentBlocked.moreinfo "Części strony odpowiedzialne za śledzenie aktywności użytkowników zostały zablokowane.">
 <!ENTITY trackingContentBlocked.learnMore "Więcej informacji">
 <!ENTITY trackingContentBlocked.options "Ustawienia">
 <!ENTITY trackingContentBlocked.unblock2.label "Wyłącz ochronę dla tej strony">
 <!ENTITY trackingContentBlocked.unblock2.accesskey "W">
 <!ENTITY trackingContentBlocked.block.label "Włącz ochronę">
 <!ENTITY trackingContentBlocked.block.accesskey "W">
-<!ENTITY trackingContentBlocked.disabled.message "Ochrona przed śledzeniem jest wyłączona">
+<!ENTITY trackingContentBlocked.disabled.message "Ochrona przed śledzeniem jest wyłączona">
 
 <!ENTITY pointerLock.notification.message "Naciśnij ESC w dowolnej chwili, aby wyświetlić go ponownie.">
 
