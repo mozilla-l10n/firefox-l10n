@@ -15,8 +15,8 @@
 <!ENTITY telemetryInfoLink.label       "További információ a telemetriáról">
 <!ENTITY enableGlodaSearch.label       "Globális keresés és indexelő engedélyezése">
 <!ENTITY enableGlodaSearch.accesskey   "G">
-
-
+<!ENTITY allowHWAccel.label            "Hardveres gyorsítás használata, ha elérhető">
+<!ENTITY allowHWAccel.accesskey        "H">
 
 <!ENTITY scrolling.label               "Görgetés">
 <!ENTITY useAutoScroll.label           "Automatikus görgetés">

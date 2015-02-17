@@ -6,10 +6,11 @@
 <!ENTITY  window.width                    "55em">
 <!ENTITY  window.macWidth                 "55em">
 
-
+<!ENTITY  overridePageColors.label        "A tartalom által megadott színek felülbírálása a fenti választásaimmal:">
+<!ENTITY  overridePageColors.accesskey    "t">
 
 <!ENTITY  overridePageColors.always.label "Mindig">
-
+<!ENTITY  overridePageColors.auto.label   "Csak nagy kontrasztú témáknál">
 <!ENTITY  overridePageColors.never.label  "Soha">
 
 <!ENTITY  color                           "Szöveg és háttér">
