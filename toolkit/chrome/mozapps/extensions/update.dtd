@@ -23,11 +23,11 @@
 <!ENTITY noupdates.wizard.title "Não foram encontrados extras compatíveis">
 <!ENTITY noupdates.intro.desc "O &brandShortName; não encontrou atualizações para os seus extras incompatíveis.">
 <!ENTITY noupdates.error.desc "Ocorreram alguns problemas durante a procura de atualizações.">
-<!ENTITY noupdates.checkEnabled.desc "O &brandShortName; irá verificar regularmente e informá-lo-á quando houverem atualizações para estes extras.">
+<!ENTITY noupdates.checkEnabled.desc "O &brandShortName; verificará regularmente e informá-lo-á quando houverem atualizações para estes extras.">
 <!ENTITY finished.wizard.title "Extras compatíveis instalados">
 <!ENTITY finished.top.label "O &brandShortName; instalou atualizações dos seus extras.">
 <!ENTITY finished.checkDisabled.desc "O &brandShortName; pode verificar periodicamente e informá-lo se existem atualizações para os seus extras.">
-<!ENTITY finished.checkEnabled.desc "O &brandShortName; irá verificar regularmente e informá-lo-á quando existirem atualizações para os seus extras.">
+<!ENTITY finished.checkEnabled.desc "O &brandShortName; verificará regularmente e informá-lo-á quando existirem atualizações para os seus extras.">
 <!ENTITY adminDisabled.wizard.title "Incapaz de verificar a existência de atualizações">
 <!ENTITY adminDisabled.warning.label "Não foi possível verificar a existência de atualizações para os extras 
 incompatíveis porque foi a instalação de aplicações está inativa &brandShortName;. Por favor contacte o seu administrador de sistemas.">
@@ -39,5 +39,5 @@ incompatíveis porque foi a instalação de aplicações está inativa &brandSho
 
 <!-- general strings used by several of the finish pages -->
 <!ENTITY clickFinish.label "Prima concluir para iniciar o  &brandShortName;.">
-<!ENTITY clickFinish.labelMac "Pressione concluído para iniciar o &brandShortName;.">
+<!ENTITY clickFinish.labelMac "Clique em concluído para iniciar o &brandShortName;.">
 <!ENTITY enableChecking.label "Permitir que o &brandShortName; procure atualizações.">
