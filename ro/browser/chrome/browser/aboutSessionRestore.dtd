@@ -23,6 +23,10 @@
 <!ENTITY restorepage.windowLabel    "Fereastra &#037;S">
 <!-- LOCALIZATION NOTE: The following 'welcomeback2' strings are for about:welcomeback,
      not for about:sessionstore -->
+
+
+
+<!ENTITY welcomeback2.restoreButton  "Să începem!">
 <!ENTITY welcomeback2.restoreButton.access "L">
 
 <!ENTITY welcomeback2.tabtitle      "Succes!">
@@ -31,12 +35,16 @@
 <!ENTITY welcomeback2.pageInfo1     "&brandShortName; este gata să funcționeze.">
 
 <!ENTITY welcomeback2.label.restoreAll  "Restaurează toate ferestrele și filele">
-
+<!ENTITY welcomeback2.label.restoreSome "Restaurează numai pe cele care le dorești">
 <!-- LOCALIZATION NOTE (welcomeback2.beforelink.pageInfo2,
 welcomeback2.afterlink.pageInfo2): these two string are used respectively
 before and after the the "learn more" link (welcomeback2.link.pageInfo2).
 Localizers can use one of them, or both, to better adapt this sentence to
 their language.
 -->
+
+
+<!ENTITY welcomeback2.beforelink.pageInfo2  "Suplimentele și personalizările dumneavoastră au fost eliminate, iar setările navigatorului au fost restaurate la setările implicite. Dacă acest lucru nu v-a rezolvat problema, ">
 <!ENTITY welcomeback2.afterlink.pageInfo2   "">
 
+<!ENTITY welcomeback2.link.pageInfo2        "află mai mult despre ce poți tu să faci.">

@@ -95,7 +95,7 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY pageInfoCmd.label "Informații despre pagină">
 <!ENTITY pageInfoCmd.accesskey "I">
 <!ENTITY pageInfoCmd.commandkey "i">
-<!ENTITY mirrorTabCmd.label "Duplică fila">
+<!ENTITY mirrorTabCmd.label "Duplicați fila">
 <!ENTITY mirrorTabCmd.accesskey "l">
 <!-- LOCALIZATION NOTE (enterFullScreenCmd.label, exitFullScreenCmd.label):
 These should match what Safari and other Apple applications use on OS X Lion. -->
@@ -427,7 +427,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      searchFor.label and searchWith.label. This string will be used instead of
      them when the user has not typed any keyword. -->
 <!ENTITY searchWithHeader.label       "Caută cu:">
-<!ENTITY changeSearchSettings.button  "Schimbă setările de căutare">
+<!ENTITY changeSearchSettings.button  "Schimbați setările de căutare">
 
 <!ENTITY tabView.commandkey           "e">
 
@@ -503,7 +503,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY emailImageCmd.accesskey      "i">
 <!ENTITY emailVideoCmd.label          "Email Video…">
 <!ENTITY emailVideoCmd.accesskey      "V">
-<!ENTITY castVideoCmd.label           "Trimite videoclipul către dispozitiv">
+<!ENTITY castVideoCmd.label           "Trimiteți videoclipul către dispozitiv">
 <!ENTITY castVideoCmd.accesskey       "e">
 <!ENTITY emailAudioCmd.label          "Email Audio…">
 <!ENTITY emailAudioCmd.accesskey      "A">
@@ -719,10 +719,11 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY social.learnMore.accesskey "m">
 <!ENTITY social.closeNotificationItem.label "Nu acum">
 
-
-
-
-
+<!ENTITY social.directory.label "Dosar de activări">
+<!ENTITY social.directory.text "Puteți activa serviciile de partajare din dosar.">
+<!ENTITY social.directory.button "Du-mă acolo!">
+<!ENTITY social.directory.introText "Clic pe un serviciu pentru a-l adăuga în &brandShortName;.">
+<!ENTITY social.directory.viewmore.text "Vedeți mai multe">
 
 <!ENTITY customizeMode.tabTitle "Personalizează &brandShortName;">
 <!ENTITY customizeMode.menuAndToolbars.header2 "Funcționalități și unelte suplimentare">
@@ -737,7 +738,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY customizeMode.lwthemes.menuManage "Gestionează">
 <!ENTITY customizeMode.lwthemes.menuManage.accessKey "M">
 <!ENTITY customizeMode.lwthemes.menuGetMore "Obține mai multe teme">
-
+<!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "G">
 
 
 <!ENTITY social.chatBar.commandkey "c">
