@@ -69,7 +69,7 @@
 <!ENTITY key_toggleEditor "B">
 <!-- zoom -->
 <!ENTITY key_zoomin "+">
-
+<!ENTITY key_zoomin2 "=">
 <!ENTITY key_zoomout "-">
 <!ENTITY key_resetzoom "0">
 
@@ -123,7 +123,7 @@
 <!ENTITY prefs_options_showeditor "ಸಂಪಾದಕ ತೋರಿಸು">
 <!ENTITY prefs_options_showeditor_tooltip "ಆಂತರಿಕ ಸಂಪಾದಕ ತೋರಿಸು">
 <!ENTITY prefs_options_tabsize "ಟ್ಯಾಬ್‌ನ ಗಾತ್ರ">
-
+<!ENTITY prefs_options_expandtab "ಮೃದು ಟ್ಯಾಬ್‌ಗಳು">
 <!ENTITY prefs_options_expandtab_tooltip "ಟ್ಯಾಬ್ ಚಿಹ್ನೆಯ ಬದಲಿಗೆ ಖಾಲಿ ಜಾಗಗಳನ್ನು ಬಳಸು">
 <!ENTITY prefs_options_detectindentation "ಸ್ವಯಂ ಪದಜಾಗ">
 <!ENTITY prefs_options_detectindentation_tooltip "ಆಕರದ ಕಂಟೆಂಟ್‌ ಆಧಾರದಲ್ಲಿ ಇಂಡೆಂಟೇಶನ್ ಅನ್ನು ಊಹಿಸು">

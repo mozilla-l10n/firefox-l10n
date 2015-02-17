@@ -8,18 +8,20 @@
 <!ENTITY dntTrackingNotOkay.accesskey   "n">
 
 
-
+<!ENTITY trackingProtectionLearnMore.label "ಇನ್ನಷ್ಟು ತಿಳಿಯಿರಿ">
 <!ENTITY doNotTrackInfo.label           "ಇನ್ನಷ್ಟು ತಿಳಿಯಿರಿ">
 
+<!ENTITY  history.label                 "ಇತಿಹಾಸ">
 
 <!ENTITY  locationBar.label             "ಸ್ಥಳ ಪಟ್ಟಿಕೆ">
 
-
-
-
-
-
-
+<!ENTITY  locbar.suggest.label          "ಸ್ಥಳ ಪಟ್ಟಿಯನ್ನು ಬಳಸುವಾಗ, ಇದನ್ನು ಸಲಹೆ ಮಾಡು:">
+<!ENTITY  locbar.history.label          "History">
+<!ENTITY  locbar.history.accesskey      "H">
+<!ENTITY  locbar.bookmarks.label        "Bookmarks">
+<!ENTITY  locbar.bookmarks.accesskey    "k">
+<!ENTITY  locbar.openpage.label         "Open ಹಾಳೆಗಳು">
+<!ENTITY  locbar.openpage.accesskey     "O">
 
 <!ENTITY  acceptCookies.label           "ಈ ತಾಣದಿಂದ ಕುಕಿಗಳನ್ನು ಅನುಮತಿಸು">
 <!ENTITY  acceptCookies.accesskey       "A">
@@ -30,7 +32,8 @@
 <!ENTITY  acceptThirdParty.never.label    "ಎಂದಿಗೂ ಬೇಡ">
 <!ENTITY  acceptThirdParty.visited.label  "ಭೇಟಿ ಮಾಡಿದವುಗಳಿಂದ">
 
-
+<!ENTITY  keepUntil.label               "ಇರಿಸಿಕೋ until ವರೆಗೆ:">
+<!ENTITY  keepUntil.accesskey           "u">
 
 <!ENTITY  expire.label                  "ಇದರ ಅವಧಿ ಅಂತ್ಯಗೊಳ್ಳುತ್ತದೆ">
 <!ENTITY  close.label                   "&brandShortName; ಅನ್ನು ನಾನು ಮುಚ್ಚುತ್ತೇನೆ">

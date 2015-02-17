@@ -7,9 +7,13 @@
 
 
 
+<!ENTITY engineNameColumn.label                "ಹುಡುಕು ಎಂಜಿನ್‌">
+<!ENTITY engineKeywordColumn.label             "ಸೂಚಕ ಪದ">
 
+<!ENTITY restoreDefaultSearchEngines.label     "Default ಹುಡುಕು ಎಂಜಿನ್‌ಗಳನ್ನು ಮರುಹೊಂದಿಸು">
+<!ENTITY restoreDefaultSearchEngines.accesskey "D">
 
+<!ENTITY removeEngine.label                    "Remove">
+<!ENTITY removeEngine.accesskey                "R">
 
-
-
-
+<!ENTITY addMoreSearchEngines.label            "ಇನ್ನಷ್ಟು ಹುಡುಕು ಎಂಜಿನ್‌ಗಳನ್ನು ಸೇರಿಸು...">
