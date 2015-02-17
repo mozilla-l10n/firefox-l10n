@@ -27,7 +27,7 @@ acest sait fără probleme, această eroare ar putea însemna că cineva 
  încearcă să vă păcălească și nu ar trebui să continuați.">
 <!ENTITY certerror.whatShouldIDo.badStsCertExplanation "Acest sait folosește HTTP 
 Strict Transport Security (HSTS) pentru a specifica că &brandShortName; se conectează doar 
-în mod securizat la el. Drept rezultat,  nu este posibil să adaugi o excepție acestui 
+în mod securizat la el. Drept rezultat, nu este posibil să adaugi o excepție acestui 
 certificat.">
 <!ENTITY certerror.getMeOutOfHere.label "Du-mă de aici!">
 

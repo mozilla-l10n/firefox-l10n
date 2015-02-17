@@ -2,6 +2,8 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY windowTitle "Firefox WebIDE">
+
 
 
 
@@ -98,40 +100,46 @@
 
 
 
+<!ENTITY prefs_options_templatesurl "URL cu șabloane">
+<!ENTITY prefs_options_templatesurl_tooltip "Indexul șabloanelor disponibile">
+<!ENTITY prefs_options_showeditor "Afișează editorul">
+<!ENTITY prefs_options_showeditor_tooltip "Afișează editorul intern">
+<!ENTITY prefs_options_tabsize "Mărimea filei">
 
 
+<!ENTITY prefs_options_detectindentation "Autoindentare">
+<!ENTITY prefs_options_detectindentation_tooltip "Ghicește indentarea bazată pe conținutul sursei">
 
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY prefs_options_autocomplete_tooltip "Activează completarea automată a codului">
+<!ENTITY prefs_options_autoclosebrackets "Închide automat parantezele">
+<!ENTITY prefs_options_autoclosebrackets_tooltip "Inserează automat paranteze închise">
+<!ENTITY prefs_options_keybindings "Combinații de taste">
 
 <!-- Permissions Table -->
+
+<!ENTITY permissionstable_title "Tabelă de permisiuni">
 <!ENTITY permissionstable_name_header "Nume">
 <!-- Runtime Details -->
 
+<!ENTITY runtimedetails_title "Informații despre timpul de execuție">
+<!ENTITY runtimedetails_adbIsRoot "ADB este root: ">
 
 
 
-
-
+<!ENTITY runtimedetails_requestPrivileges "solicită privilegii mai mari">
+<!ENTITY runtimedetails_privilegesWarning "(Va reporni dispozitivul. Necesită acces root.)">
 <!-- Device Preferences -->
 
 <!ENTITY devicepreferences_title "Preferințele pentru dispozitiv">
+<!ENTITY devicepreferences_search "Preferințe de căutare">
+<!ENTITY devicepreferences_newname "Nume pentru preferință nouă">
 
-
-
-
+<!ENTITY devicepreferences_addnew "Adăugați preferință nouă">
 <!ENTITY devicepreferences_typeboolean "Adevărat/fals">
 <!ENTITY devicepreferences_typenumber "Număr">
 <!ENTITY devicepreferences_typestring "Text">
-
+<!ENTITY devicepreferences_typenone "Selectați un tip">
 <!-- Monitor -->
+
+<!ENTITY monitor_title "Monitorizare">
 <!ENTITY monitor_help "Ajutor">

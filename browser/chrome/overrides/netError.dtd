@@ -73,7 +73,9 @@ dumneavoastră.</li> 
 <!ENTITY netTimeout.longDesc "&sharedLongDesc;">
 
 <!ENTITY unknownProtocolFound.title "Adresa nu a fost înțeleasă">
-
+<!ENTITY unknownProtocolFound.longDesc "<ul> 
+<li>S-ar putea să fie nevoie să instalați alt software pentru a deschide această adresă.</li> 
+</ul>">
 
 <!ENTITY proxyConnectFailure.title "Serverul proxy refuză conexiuni">
 <!ENTITY proxyConnectFailure.longDesc "<ul> 
@@ -155,19 +157,23 @@ functionality specific to firefox. -->
 <button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button> 
 <button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>">
 
+<!ENTITY errorReporting.title "Raportați această eroare">
 
-
+<!ENTITY errorReporting.automatic "Raportează automat erorile în viitor">
 <!ENTITY errorReporting.learnMore "Aflați mai multe…">
 
-
-
+<!ENTITY errorReporting.sent "Raport trimis">
+<!ENTITY errorReporting.report "Raportați">
 
 
 <!ENTITY remoteXUL.title "XUL la distanță">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Vă rugăm să contactați proprietarii websaitului pentru a-i informa despre această problemă.</li></ul></p>">
 
+<!ENTITY oldSecurityProtocol.title "Nu se poate conecta în mod securizat">
 <!-- LOCALIZATION NOTE (oldSecurityProtocol.longDesc) - Do not translate the
      <span id='hostname'></span>. -->
+<!ENTITY oldSecurityProtocol.longDesc2 "&brandShortName; nu poate garanta siguranța datelor dumneavoastră pe <span id='hostname'></span> deoarece folosește SSLv3, un protocol de securitate nesigur.">
 <!-- LOCALIZATION NOTE (oldSecurityProtocol.advancedInfo) - Do not translate
      the <span id='errorcode'></span>. -->
+<!ENTITY oldSecurityProtocol.advancedInfo "Informații avansate: <span id='errorcode'></span>">
 
