@@ -28,10 +28,6 @@
   -  is displayed next to the memory checkbox -->
 <!ENTITY timelineUI.memoryCheckbox.tooltip "Ativar medição da memória">
 
-<!-- LOCALIZATION NOTE (timelineUI.filterButton.tooltip): This string
-  -  is displayed next to the filter button-->
-<!ENTITY timelineUI.filterButton.tooltip "Selecione que dados mostrar">
-
 <!-- LOCALIZATION NOTE (timelineUI.emptyNotice1/2): This is the label shown
   -  in the timeline view when empty. -->
 <!ENTITY timelineUI.emptyNotice1    "Clique no">
