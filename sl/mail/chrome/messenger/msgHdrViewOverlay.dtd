@@ -6,13 +6,13 @@
 <!ENTITY fromField4.label "Od">
 <!ENTITY senderField4.label "Pošiljatelj">
 <!ENTITY organizationField4.label "Organizacija">
-<!ENTITY replyToField4.label "Odgovori za">
+<!ENTITY replyToField4.label "Odgovor za">
 
 <!ENTITY subjectField4.label "Zadeva">
 <!ENTITY ccField4.label "Kp">
 <!ENTITY bccField4.label "Skp">
 <!ENTITY newsgroupsField4.label "Novičarske skupine">
-<!ENTITY followupToField4.label "Nadalje odgovori za">
+<!ENTITY followupToField4.label "Nadaljnji odgovor za">
 <!ENTITY tagsHdr4.label "Oznake">
 <!ENTITY dateField4.label "Datum">
 <!ENTITY userAgentField4.label "Uporabniški posrednik">
@@ -29,7 +29,7 @@
 <!ENTITY hdrReplyAllButton1.label "Odgovori vsem">
 <!ENTITY hdrReplyAllButton1.tooltip "Odgovori pošiljatelju in vsem prejemnikom">
 <!ENTITY hdrReplyListButton1.label "Odgovori seznamu">
-<!ENTITY hdrReplyListButton1.tooltip "Odgovori poštnem seznamu">
+<!ENTITY hdrReplyListButton1.tooltip "Odgovori dopisnemu seznamu">
 <!ENTITY hdrFollowupButton1.label "Nadalje odgovori">
 <!ENTITY hdrFollowupButton1.tooltip "Objavi nadaljnji odgovor za to novičarsko skupino">
 <!ENTITY hdrMenuForwardButton.label "Posreduj kot">
@@ -46,8 +46,8 @@
 <!ENTITY hdrViewToolbarShowIcons.accesskey "i">
 <!ENTITY hdrViewToolbarShowText.label "Pokaži le besedilo">
 <!ENTITY hdrViewToolbarShowText.accesskey "T">
-<!ENTITY hdrViewToolbarAlwaysReplySender.label "Vedno pokaži odgovor pošiljatelju">
-<!ENTITY hdrViewToolbarAlwaysReplySender.accesskey "V">
+<!ENTITY hdrViewToolbarAlwaysReplySender.label "Pošiljatelju vedno pokaži odgovor">
+<!ENTITY hdrViewToolbarAlwaysReplySender.accesskey "P">
 
 <!ENTITY otherActionsButton2.label "Več">
 <!ENTITY otherActionsButton.tooltip "Več dejanj">
