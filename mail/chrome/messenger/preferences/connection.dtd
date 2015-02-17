@@ -3,7 +3,6 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY  connectionsDialog.title       "Rregullime Lidhjeje">
-<!ENTITY  window.width                   "37em">
 
 <!ENTITY  proxyTitle.label              "Formësim Ndërmjetësish për Hyrje në Internet">
 <!ENTITY  WPADTypeRadio.label           "Vetëzbulo rregullime ndërmjetësi për këtë rrjet">

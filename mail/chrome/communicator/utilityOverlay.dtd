@@ -33,7 +33,7 @@
 <!ENTITY selectAllCmd.key				"j">  
 <!ENTITY selectAllCmd.accesskey				"T"> 
 <!ENTITY preferencesCmd2.label                          "Mundësi">
-<!ENTITY preferencesCmd.accesskey			"M"> 
+<!ENTITY preferencesCmd2.accesskey			"M"> 
 <!ENTITY preferencesCmdUnix.label     			"Parapëlqime">
 <!ENTITY preferencesCmdUnix.accesskey     		"a"> 
 

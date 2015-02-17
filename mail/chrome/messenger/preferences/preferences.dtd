@@ -4,6 +4,7 @@
 
 <!ENTITY  prefWindow.titleWin     "Mundësi">
 <!ENTITY  prefWindow.titleGNOME   "Parapëlqime &brandShortName;-i">
+<!ENTITY  prefWindow.titleMAC     "Parapëlqime">
 <!ENTITY  prefWindow.styleWindows "width: 60em; min-height: 38.5em;">
 <!ENTITY  prefWindow.styleMac     "width: 60em;">
 <!ENTITY  prefWindow.styleGNOME   "width: 60em; min-height: 38em;">

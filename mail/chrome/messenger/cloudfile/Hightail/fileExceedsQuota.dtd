@@ -3,6 +3,5 @@
    - You can obtain one at http://mozilla.org/MPL/2.0/.  -->
 <!ENTITY fileExceedsQuota.title   "Hightail">
 <!ENTITY fileExceedsQuota.storageLimitReached   "U mbërrit te kufi depozitimesh">
-<!ENTITY fileExceedsQuota.cancel "Anulojeni">
 <!ENTITY fileExceedsQuota.description "Keni mbërritur në kufirin 2GB për depozitime nga llogaria juaj.">
 <!ENTITY fileExceedsQuota.description1 "Përdorimi i deritanishësm nga ju i depozitimit është #XXX GB.">
