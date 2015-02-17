@@ -851,7 +851,7 @@
 <!ENTITY CopyNewsgroupURL.label "Kopiraj URL novičarske skupine">
 <!ENTITY CopyNewsgroupURL.accesskey "U">
 <!ENTITY CreateFilterFrom.label "Ustvari filter iz …">
-<!ENTITY CreateFilterFrom.accesskey "f">
+<!ENTITY CreateFilterFrom.accesskey "U">
 <!ENTITY reportPhishingURL.label "Prijavi e-poštno prevaro">
 <!ENTITY reportPhishingURL.accesskey "š">
 <!-- Spell checker context menu items -->
