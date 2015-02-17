@@ -31,5 +31,6 @@
 <!ENTITY pref.defalarmlen4events.accesskey "с">
 <!ENTITY pref.defalarmlen4todos.label "Типовий час сповіщення перед завданням:">
 <!ENTITY pref.defalarmlen4todos.accesskey "в">
-<!ENTITY pref.defaultemail.label "Типова адреса для надсилання сповіщень:">
-<!ENTITY pref.defaulttext.label "Типовий текст для сповіщень:">
+
+<!ENTITY pref.defaultsnoozelength.label "Default Snooze Length:" >
+<!ENTITY pref.defaultsnoozelength.accesskey "S">
