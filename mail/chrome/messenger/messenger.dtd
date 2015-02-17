@@ -533,7 +533,7 @@
 <!ENTITY newMsgButton.tooltip "Ustvari novo sporočilo">
 <!ENTITY replyButton.tooltip "Odgovori na sporočilo">
 <!ENTITY replyAllButton.tooltip "Odgovori pošiljatelju in vsem prejemnikom">
-<!ENTITY replyListButton.tooltip "Odgovori poštnemu seznamu">
+<!ENTITY replyListButton.tooltip "Odgovori dopisnemu seznamu">
 <!ENTITY forwardButton.tooltip "Posreduj izbrano sporočilo">
 <!ENTITY forwardAsInline.tooltip "Posreduj izbrano sporočilo v besedilu">
 <!ENTITY forwardAsAttachment.tooltip "Posreduj izbrano sporočilo kot priponko">

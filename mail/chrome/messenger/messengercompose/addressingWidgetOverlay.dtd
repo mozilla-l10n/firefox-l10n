@@ -7,7 +7,7 @@
 <!ENTITY toAddr.label   "Za:"> 
 <!ENTITY ccAddr.label   "Kp:"> 
 <!ENTITY bccAddr.label  "Skp:"> 
-<!ENTITY replyAddr.label   "Odgovor za:"> 
+<!ENTITY replyAddr.label   "Odgovori za:"> 
 <!ENTITY newsgroupsAddr.label   "Novičarska skupina:"> 
 <!ENTITY followupAddr.label   "Nadalje odgovori za:"> 
 
