@@ -6,7 +6,7 @@
 <!ENTITY window.maxWidth              "400">
 
 <!ENTITY startSafeMode.label          "ಸುರಕ್ಷಿತಾ ಸ್ಥಿತಿಯಲ್ಲಿ ಆರಂಭಿಸು">
-
+<!ENTITY refreshProfile.label         "&brandShortName; ಪುನ:ಶ್ಚೇತನಗೊಳಿಸು">
 
 <!ENTITY safeModeDescription3.label   "ಸುರಕ್ಷತಾ ಸ್ಥಿತಿ ಎನ್ನುವುದು &brandShortName; ನ ಒಂದು ವಿಶೇಷ ಸ್ಥಿತಿಯಾಗಿದ್ದು, ಇದನ್ನು ದೋಷಪರಿಹರಿಸಲು ಬಳಸಬಹುದಾಗಿರುತ್ತದೆ.">
 <!ENTITY safeModeDescription4.label   "ನಿಮ್ಮ ಆಡ್-ಆನ್‌ಗಳು ಮತ್ತು ಅಗತ್ಯಾನುಗುಣವಾಗಿ ಬದಲಾಯಿಸಲಾದ ಸಿದ್ಧತೆಗಳನ್ನು ತಾತ್ಕಾಲಿಕವಾಗಿ ನಿಷ್ಕ್ರಿಯಗೊಳಿಸಲಾಗಿರುತ್ತದೆ.">

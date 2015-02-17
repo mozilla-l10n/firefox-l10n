@@ -157,13 +157,14 @@ functionality specific to firefox. -->
 <button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button> 
 <button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>">
 
+<!ENTITY errorReporting.title "ಈ ದೋಷವನ್ನು ವರದಿ ಮಾಡು">
 
-
+<!ENTITY errorReporting.automatic "ಸ್ವಯಂಚಾಲಿತವಾಗಿ ಭವಿಷ್ಯದಲ್ಲಿ ದೋಷಗಳನ್ನು ವರದಿಮಾಡು">
 <!ENTITY errorReporting.learnMore "ಇನ್ನಷ್ಟು ತಿಳಿಯಿರಿ...">
-
-
-
-
+<!ENTITY errorReporting.sending "ವರದಿಯನ್ನು ಕಳುಹಿಸಲಾಗುತ್ತಿದೆ">
+<!ENTITY errorReporting.sent "ವರದಿ ಕಳಿಸಲಾಗಿದೆ">
+<!ENTITY errorReporting.report "ವರದಿ">
+<!ENTITY errorReporting.tryAgain "ಮರಳಿ ಪ್ರಯತ್ನಿಸು">
 
 <!ENTITY remoteXUL.title "ದೂರಸ್ಥ XUL">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>ಈ ತೊಂದರೆಯ ಬಗ್ಗೆ ಜಾಲತಾಣದ ಮಾಲಿಕರಿಗೆ ತಿಳಿಸಲು ದಯವಿಟ್ಟು ಅವರನ್ನು ಸಂಪರ್ಕಿಸಿ.</li></ul></p>">
@@ -172,4 +173,5 @@ functionality specific to firefox. -->
      <span id='hostname'></span>. -->
 <!-- LOCALIZATION NOTE (oldSecurityProtocol.advancedInfo) - Do not translate
      the <span id='errorcode'></span>. -->
-
+<!ENTITY oldSecurityProtocol.advancedInfo "ಸುಧಾರಿತ ಮಾಹಿತಿ:<span id='errorcode'></span>">
+<!ENTITY oldSecurityProtocol.learnMore "ಇನ್ನಷ್ಟು ತಿಳಿಯಿರಿ…">
