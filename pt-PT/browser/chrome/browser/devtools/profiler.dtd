@@ -44,6 +44,7 @@
 <!ENTITY profilerUI.table.totalPercentage "Custo total">
 <!ENTITY profilerUI.table.selfPercentage  "Custo próprio">
 <!ENTITY profilerUI.table.samples         "Amostras">
+<!ENTITY profilerUI.table.function    "Função">
 
 <!-- LOCALIZATION NOTE (profilerUI.newtab.tooltiptext): The tooltiptext shown
   -  on the "+" (new tab) button for a profile when a selection is available. -->
@@ -61,32 +62,3 @@
   -  a checkbox that inverts and un-inverts the profiler's call tree. -->
 <!ENTITY profilerUI.invertTree             "Inverter árvore de chamada">
 <!ENTITY profilerUI.invertTree.tooltiptext "Inverter a árvore de chamada mostra os caminhos do perfil de chamada a começar pelo frame mais novo e indo até ao mais antigo.">
-
-<!-- LOCALIZATION NOTE (profilerUI.invertFlameGraph): This is the label shown next to
-  -  a checkbox that inverts and un-inverts the profiler's flame graph. -->
-<!ENTITY profilerUI.invertFlameGraph             "Inverte gráfico Flame">
-<!ENTITY profilerUI.invertFlameGraph.tooltiptext "Inverter o gráfico mostra os caminhos do perfil de chamada a começar pelo frame mais novo e indo até ao mais antigo.">
-
-<!-- LOCALIZATION NOTE (profilerUI.showPlatformData): This is the
-  -  label for the checkbox that toggles whether or not Gecko platform data
-  -  is displayed in the profiler. -->
-<!ENTITY profilerUI.showPlatformData             "Mostrar dados da plataforma Gecko">
-<!ENTITY profilerUI.showPlatformData.tooltiptext "Mostrar os dados da plataforma ativa orelatório de perfil JavaScript para incluir símbolos da plataforma Gecko.">
-
-<!-- LOCALIZATION NOTE (profilerUI.flattenTreeRecursion): This is the
-  -  label for the checkbox that toggles the flattening of tree recursion in inspected
-  -  functions in the profiler. -->
-<!ENTITY profilerUI.flattenTreeRecursion             "Árvore de recursão plana">
-<!ENTITY profilerUI.flattenTreeRecursion.tooltiptext "Recursão plana ao inspeccionar funções.">
-
-<!-- LOCALIZATION NOTE (profilerUI.enableMemory): This string
-  -  is displayed next to a checkbox determining whether or not memory
-  -  measurements are enabled. -->
-<!ENTITY profilerUI.enableMemory             "Gravar memória">
-<!ENTITY profilerUI.enableMemory.tooltiptext "Gravar consumo de memória no perfil.">
-
-<!-- LOCALIZATION NOTE (profilerUI.enableFramerate): This string
-  -  is displayed next to a checkbox determining whether or not framerate
-  -  is recorded. -->
-<!ENTITY profilerUI.enableFramerate             "Gravar Framerate">
-<!ENTITY profilerUI.enableFramerate.tooltiptext "Gravar framerate durante o perfil.">
