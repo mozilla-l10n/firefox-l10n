@@ -739,7 +739,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY customizeMode.lwthemes.menuManage.accessKey "M">
 <!ENTITY customizeMode.lwthemes.menuGetMore "Obține mai multe teme">
 <!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "G">
-
+<!ENTITY customizeMode.deveditionTheme.label2 "Folosiți tema Developer Edition">
 
 <!ENTITY social.chatBar.commandkey "c">
 <!ENTITY social.chatBar.label "Adu discuțiile în față">
@@ -754,30 +754,30 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY getUserMedia.selectCamera.accesskey "C">
 <!ENTITY getUserMedia.selectMicrophone.label "Microfon de folosit:">
 <!ENTITY getUserMedia.selectMicrophone.accesskey "M">
-
+<!ENTITY getUserMedia.allWindowsShared.message "Toate ferestrele vizibile pe ecran vor fi partajate.">
 <!-- Bad Content Blocker Doorhanger Notification -->
 
 <!ENTITY badContentBlocked.moreinfo "Majoritatea saiturilor web vor funcționa corect chiar dacă acest tip de conținut e blocat.">
 
 <!ENTITY mixedContentBlocked2.message "Conținut nesigur">
-
+<!ENTITY mixedContentBlocked2.moreinfo "Unele elemente necriptate pe acest sait au fost blocate.">
 <!ENTITY mixedContentBlocked2.learnMore "Aflați mai multe">
 <!ENTITY mixedContentBlocked2.options "Opțiuni">
-
-
+<!ENTITY mixedContentBlocked2.unblock.label "Dezactivați protecția deocamdată">
+<!ENTITY mixedContentBlocked2.unblock.accesskey "D">
 <!ENTITY mixedContentBlocked2.block.label "Activează protecția">
 <!ENTITY mixedContentBlocked2.block.accesskey "e">
 <!ENTITY mixedContentBlocked2.disabled.message "Protecția este dezactivată">
 
 <!ENTITY trackingContentBlocked.message "Urmărire">
-
+<!ENTITY trackingContentBlocked.moreinfo "Părți ale paginii care vă urmăresc activitatea online au fost blocate.">
 <!ENTITY trackingContentBlocked.learnMore "Aflați mai multe">
 <!ENTITY trackingContentBlocked.options "Opțiuni">
 <!ENTITY trackingContentBlocked.unblock2.label "Dezactivează protecția pentru acest sait">
 <!ENTITY trackingContentBlocked.unblock2.accesskey "D">
 <!ENTITY trackingContentBlocked.block.label "Activează protecția">
 <!ENTITY trackingContentBlocked.block.accesskey "e">
-
+<!ENTITY trackingContentBlocked.disabled.message "Protecția de urmărire este dezactivată">
 
 <!ENTITY pointerLock.notification.message "Apasă ESC oricând pentru a-l afișa din nou.">
 
@@ -811,15 +811,17 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      Please ensure that this remains the case in the translation. -->
 <!ENTITY panicButton.view.5min                    "Cinci minute">
 <!ENTITY panicButton.view.2hr                     "Două ore">
-
+<!ENTITY panicButton.view.day                     "24 de ore">
 <!-- LOCALIZATION NOTE: (panicButton.view.mainLabel, panicButton.view.deleteCookies, panicButton.view.deleteHistory, panicButton.view.deleteTabsAndWindows, panicButton.view.openNewWindow):
      The .mainActionDesc string combined with any of the 4 others is meant to form a complete sentence, e.g. "Proceeding will: Delete Recent Cookies".
      Note also that the deleteCookies, deleteHistory and deleteTabsAndWindows strings include <html:strong> tags for emphasis on the words "Cookies", "History", "Tabs" and "Windows".
      The translation should do the same. -->
 
-
-
-
+<!ENTITY panicButton.view.mainActionDesc          "Dacă veți continua:">
+<!ENTITY panicButton.view.deleteCookies           "Ștergeți <html:strong>cookie-urile</html:strong> recente">
+<!ENTITY panicButton.view.deleteHistory           "Ștergeți <html:strong>istoricul</html:strong>recent">
+<!ENTITY panicButton.view.deleteTabsAndWindows    "Închideți toate<html:strong>filele</html:strong> și <html:strong>ferestrele</html:strong>">
+<!ENTITY panicButton.view.openNewWindow           "Deschideți o nouă fereastră goală">
 
 <!ENTITY panicButton.view.undoWarning             "Acțiunea este ireversibilă.">
 <!ENTITY panicButton.view.forgetButton            "Uită!">

@@ -92,3 +92,4 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.copyTextToClipboard.label "Copiază textul în memoria temporară">
 <!ENTITY aboutSupport.copyRawDataToClipboard.label "Copiază datele raw în memoria temporară">
 
+<!ENTITY aboutSupport.sandboxTitle "Sandbox">
