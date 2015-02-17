@@ -11,7 +11,7 @@
 
 <!ENTITY aboutTelemetry.slowSqlSection "  Declarații SQL lente">
 
-<!ENTITY aboutTelemetry.chromeHangsSection " Blocări navigator">
+<!ENTITY aboutTelemetry.chromeHangsSection "  Blocări navigator">
 
 <!ENTITY aboutTelemetry.threadHangStatsSection "  Fire de execuție blocate">
 
@@ -22,7 +22,7 @@
 
 <!ENTITY aboutTelemetry.addonDetailsSection "  Detalii supliment">
 
-<!ENTITY aboutTelemetry.lateWritesSection "   Scrieri întârziate">
+<!ENTITY aboutTelemetry.lateWritesSection "  Scrieri întârziate">
 
 <!ENTITY aboutTelemetry.systemInfoSection "  Informații sistem">
 

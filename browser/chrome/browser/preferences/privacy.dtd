@@ -57,7 +57,7 @@
 
 <!ENTITY  rememberActions.pre.label           "Ați putea dori ">
 <!ENTITY  rememberActions.clearHistory.label  "să curățați istoricul recent">
-<!ENTITY  rememberActions.middle.label        " sau ">
+<!ENTITY  rememberActions.middle.label        ", sau ">
 <!ENTITY  rememberActions.removeCookies.label "să ștergeți anumite cookie-uri">
 <!ENTITY  rememberActions.post.label          ".">
 
