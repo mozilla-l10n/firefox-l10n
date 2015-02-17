@@ -50,10 +50,6 @@
   -  on the "+" (new tab) button for a profile when a selection is available. -->
 <!ENTITY profilerUI.newtab.tooltiptext "Adicionar novo separador da seleção">
 
-<!-- LOCALIZATION NOTE (profilerUI.options.tooltiptext): This is the tooltip
-  -  for the options button. -->
-<!ENTITY profilerUI.options.tooltiptext "Configurar preferências de desempenho.">
-
 <!-- LOCALIZATION NOTE (profilerUI.invertTree): This is the label shown next to
   -  a checkbox that inverts and un-inverts the profiler's call tree. -->
 <!ENTITY profilerUI.invertTree "Inverter a árvore de chamada">
