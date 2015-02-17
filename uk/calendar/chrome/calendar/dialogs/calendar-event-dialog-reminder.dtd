@@ -11,9 +11,6 @@
 <!ENTITY reminder.reminderDetails.label                    "Деталі нагадування">
 <!ENTITY reminder.action.label                             "Виберіть дію для нагадування">
 
-<!ENTITY reminder.relation.before.label                    "перед" >
-<!ENTITY reminder.relation.after.label                     "після" >
-
 <!ENTITY reminder.action.alert.label                       "Показати виринаюче вікно">
 <!ENTITY reminder.action.email.label                       "Надіслати E-Mail">
 

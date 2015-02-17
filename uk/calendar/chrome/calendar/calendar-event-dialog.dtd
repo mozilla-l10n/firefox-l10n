@@ -9,7 +9,6 @@
 
 <!ENTITY newevent.from.label                "З" >
 <!ENTITY newevent.to.label                  "До" >
-<!ENTITY newevent.attendees.notify.label    "Сповістити учасників">
 
 <!ENTITY newevent.status.label                    "Стан" >
 <!ENTITY newevent.status.accesskey                "С" >
@@ -29,6 +28,13 @@
 
 <!-- The following entity is for New Task dialog only -->
 <!ENTITY newtodo.percentcomplete.label      "&#37; завершено">
+
+<!-- LOCALIZATON NOTE(event.attendees.notify.label,event.attendees.notifyundisclosed.label)
+   - These two labels are displayed side by side in the event dialog, make sure
+   - they still fit in. -->
+<!ENTITY event.attendees.notify.label               "Notify attendees">
+<!ENTITY event.attendees.notifyundisclosed.label    "Separate invitation per attendee">
+<!ENTITY event.attendees.notifyundisclosed.tooltip  "This option sends one invitation email per attendee. Each invitation only contains the recipient attendee so that other attendee identities are not disclosed.">
 
 <!-- Keyboard Shortcuts -->
 <!ENTITY event.dialog.new.event.key2              "I">
@@ -98,13 +104,7 @@
 <!ENTITY  event.menu.options.label                            "Налаштування">
 <!ENTITY  event.menu.options.accesskey                        "Н">
 <!ENTITY  event.menu.options.attendees.label                  "Запросити учасників…">
-<!ENTITY  event.menu.options.attendees.accesskey              "З">
-<!ENTITY  event.menu.options.spellcheck.label                 "Перевірка орфографії…">
-<!ENTITY  event.menu.options.spellcheck.accesskey             "ф">
-<!ENTITY  event.menu.options.inline.spellcheck.label          "Перевіряти орфографію під час набору тексту">
-<!ENTITY  event.menu.options.inline.spellcheck.accesskey      "р">
-<!ENTITY  event.menu.options.link.label                       "Додати посилання…">
-<!ENTITY  event.menu.options.link.accesskey                   "Д">
+<!ENTITY  event.menu.options.attendees.accesskey              "I">
 <!ENTITY  event.menu.options.timezone2.label                  "Show Timezones">
 <!ENTITY  event.menu.options.timezone2.accesskey              "z">
 <!ENTITY  event.menu.options.priority2.label                  "Пріоритет">
@@ -143,8 +143,16 @@
 <!ENTITY  event.toolbar.save.label                        "Зберегти та закрити">
 <!ENTITY  event.toolbar.delete.label                      "Вилучити">
 <!ENTITY  event.toolbar.attendees.label                   "Запросити учасників">
-<!ENTITY  event.toolbar.spellcheck.label                  "Перевірка орфографії">
 <!ENTITY  event.toolbar.privacy.label                     "Приватність">
+
+<!ENTITY  event.toolbar.save.tooltip                      "Save and Close">
+<!ENTITY  event.toolbar.delete.tooltip                    "Delete">
+<!ENTITY  event.toolbar.attendees.tooltip                 "Invite Attendees">
+<!ENTITY  event.toolbar.attachments.tooltip               "Add Attachments">
+<!ENTITY  event.toolbar.privacy.tooltip                   "Change Privacy">
+<!ENTITY  event.toolbar.priority.tooltip                  "Change Priority">
+<!ENTITY  event.toolbar.status.tooltip                    "Change Status">
+<!ENTITY  event.toolbar.freebusy.tooltip                  "Change Free/Busy time">
 
 <!-- Main page -->
 <!ENTITY event.title.textbox.label                        "Назва:" >
@@ -153,8 +161,9 @@
 <!ENTITY event.location.accesskey                         "М">
 <!ENTITY event.categories.label                           "Категорія:">
 <!ENTITY event.categories.accesskey                       "К">
-<!ENTITY event.calendar.label                             "Календар:" >
-<!ENTITY event.calendar.accesskey                         "а">
+<!ENTITY event.categories.textbox.label                   "Add a new category" >
+<!ENTITY event.calendar.label                             "Calendar:" >
+<!ENTITY event.calendar.accesskey                         "C">
 <!ENTITY event.attendees.label                            "Учасники:" >
 <!ENTITY event.attendees.accesskey                        "У" >
 <!ENTITY event.alldayevent.label                          "Весь день" >
@@ -171,6 +180,8 @@
 <!ENTITY task.status.accesskey                            "т">
 <!ENTITY event.repeat.label                               "Повторення:" >
 <!ENTITY event.repeat.accesskey                           "П">
+<!ENTITY event.until.label                                "Until:">
+<!ENTITY event.until.accesskey                            "i">
 <!ENTITY event.reminder.label                             "Нагадування:" >
 <!ENTITY event.reminder.accesskey                         "г">
 <!ENTITY event.description.label                          "Опис:" >
@@ -206,6 +217,9 @@
 <!ENTITY event.reminder.custom.label                      "Налаштувати…" >
 
 <!ENTITY event.reminder.multiple.label                    "Кількаразові нагадування…" >
+
+<!ENTITY event.statusbarpanel.freebusy.label              "Time as:">
+<!ENTITY event.statusbarpanel.privacy.label               "Privacy:">
 
 <!-- Recurrence dialog -->
 <!ENTITY recurrence.title.label                         "Редагувати повторення">
@@ -292,6 +306,7 @@
 <!ENTITY event.recurrence.pattern.yearly.week.5.label        "четверга" >
 <!ENTITY event.recurrence.pattern.yearly.week.6.label        "п’ятниці" >
 <!ENTITY event.recurrence.pattern.yearly.week.7.label        "суботи" >
+<!ENTITY event.recurrence.pattern.yearly.day.label           "day" >
 <!ENTITY event.recurrence.of.label                           "" >
 <!ENTITY event.recurrence.pattern.yearly.month2.1.label      "Січень" >
 <!ENTITY event.recurrence.pattern.yearly.month2.2.label      "Лютий" >
@@ -317,8 +332,8 @@
 <!ENTITY invite.title.label                     "Запрошення учасників">
 <!ENTITY event.organizer.label                  "Організатор">
 <!ENTITY event.freebusy.suggest.slot            "Запропонувати інтервал часу:">
-<!ENTITY event.freebusy.next.slot               "Такий інтервал часу " >
-<!ENTITY event.freebusy.previous.slot           " Попередній інтервал" >
+<!ENTITY event.freebusy.button.next.slot        "Next slot">
+<!ENTITY event.freebusy.button.previous.slot    "Previous slot">
 <!ENTITY event.freebusy.zoom                    "Масштаб:">
 <!ENTITY event.freebusy.legend.free             "Вільний" >
 <!ENTITY event.freebusy.legend.busy             "Зайнятий" >
@@ -357,5 +372,4 @@
 <!ENTITY read.only.reminder.label        "Нагадування:">
 <!ENTITY read.only.attendees.label       "Учасники">
 <!ENTITY read.only.description.label     "Опис">
-<!ENTITY read.only.documents.label       "Документи">
 <!ENTITY read.only.link.label            "Посилання">
