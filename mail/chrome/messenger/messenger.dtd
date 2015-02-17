@@ -835,7 +835,7 @@
 <!ENTITY AddToAddressBook.label "Dodaj v imenik …">
 <!ENTITY AddToAddressBook.accesskey "a">
 <!ENTITY AddDirectlyToAddressBook.label "Dodaj v imenik">
-<!ENTITY AddDirectlyToAddressBook.accesskey "a">
+<!ENTITY AddDirectlyToAddressBook.accesskey "D">
 <!ENTITY EditContact1.label "Uredi stik">
 <!ENTITY EditContact1.accesskey "U">
 <!ENTITY ViewContact.label "Pokaži stik">
@@ -847,9 +847,9 @@
 <!ENTITY CopyEmailAddress.label "Kopiraj e-poštni naslov">
 <!ENTITY CopyEmailAddress.accesskey "K">
 <!ENTITY CopyNewsgroupName.label "Kopiraj ime novičarske skupine">
-<!ENTITY CopyNewsgroupName.accesskey "K">
+<!ENTITY CopyNewsgroupName.accesskey "m">
 <!ENTITY CopyNewsgroupURL.label "Kopiraj URL novičarske skupine">
-<!ENTITY CopyNewsgroupURL.accesskey "č">
+<!ENTITY CopyNewsgroupURL.accesskey "U">
 <!ENTITY CreateFilterFrom.label "Ustvari filter iz …">
 <!ENTITY CreateFilterFrom.accesskey "f">
 <!ENTITY reportPhishingURL.label "Prijavi e-poštno prevaro">

@@ -15,7 +15,7 @@
 <!ENTITY sendMessage.label "Pošlji neposlana sporočila">
 <!ENTITY sendMessage.accesskey "š">
 <!ENTITY workOffline.label "Delaj v nepovezanem načinu, ko se prenos in/ali usklajevanje konča">
-<!ENTITY workOffline.accesskey "l">
+<!ENTITY workOffline.accesskey "D">
 <!ENTITY selectButton.label "Izberi…">
 <!ENTITY selectButton.accesskey "e">
 <!ENTITY MsgSelectDesc.label "Izberite mape za pošto in novičarske skupine za rabo v načinu brez povezave.">
