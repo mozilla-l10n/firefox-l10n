@@ -7,8 +7,8 @@
 <!ENTITY projectMenu_label "ಯೋಜನೆ">
 <!ENTITY projectMenu_accesskey "P">
 <!ENTITY projectMenu_newApp_label "ಹೊಸ ಅನ್ವಯ…">
-
-
+<!ENTITY projectMenu_newApp_accesskey "N">
+<!ENTITY projectMenu_importPackagedApp_label "ಕಟ್ಟಿಟ್ಟ ಅನ್ವಯವನ್ನು ತೆಗೆ…">
 <!ENTITY projectMenu_importPackagedApp_accesskey "P">
 <!ENTITY projectMenu_importHostedApp_label "ತೆರೆದ ಆತಿಥೇಯ ಆಫ್…">
 <!ENTITY projectMenu_importHostedApp_accesskey "H">
@@ -68,9 +68,10 @@
 <!-- toggle sidebar -->
 <!ENTITY key_toggleEditor "B">
 <!-- zoom -->
+<!ENTITY key_zoomin "+">
 
-
-
+<!ENTITY key_zoomout "-">
+<!ENTITY key_resetzoom "0">
 
 <!ENTITY projectPanel_myProjects "ನನ್ನ ಯೋಜನೆಗಳು">
 <!ENTITY projectPanel_runtimeApps "ಚಾಲನಾಸಮಯದ ಆಪ್‌ಗಳು">
@@ -92,6 +93,8 @@
 <!ENTITY details_manifestURL "ಅನ್ವಯ ID">
 <!ENTITY details_removeProject_button "ಯೋಜನೆ ತೆಗೆದುಹಾಕಿ">
 <!-- New App -->
+
+<!ENTITY newAppWindowTitle "ಹೊಸ ಅನ್ವಯ">
 <!ENTITY newAppHeader "ಮಾದರಿ ಆಯ್ಕೆಮಾಡು">
 <!ENTITY newAppLoadingTemplate "ಮಾದರಿಗಳನ್ನು ತುಂಬಿಸಲಾಗುತ್ತಿದೆ…">
 <!ENTITY newAppProjectName "ಯೋಜನೆ ಹೆಸರು:">
@@ -117,9 +120,9 @@
 
 <!ENTITY prefs_options_templatesurl "ಮಾದರಿಗಳ URL">
 
-
-
-
+<!ENTITY prefs_options_showeditor "ಸಂಪಾದಕ ತೋರಿಸು">
+<!ENTITY prefs_options_showeditor_tooltip "ಆಂತರಿಕ ಸಂಪಾದಕ ತೋರಿಸು">
+<!ENTITY prefs_options_tabsize "ಟ್ಯಾಬ್‌ನ ಗಾತ್ರ">
 
 <!ENTITY prefs_options_expandtab_tooltip "ಟ್ಯಾಬ್ ಚಿಹ್ನೆಯ ಬದಲಿಗೆ ಖಾಲಿ ಜಾಗಗಳನ್ನು ಬಳಸು">
 <!ENTITY prefs_options_detectindentation "ಸ್ವಯಂ ಪದಜಾಗ">
@@ -145,7 +148,9 @@
 
 <!-- Device Preferences -->
 
-
+<!ENTITY devicepreferences_title "ಸಾಧನದ ಆದ್ಯತೆಗಳು">
+<!ENTITY devicepreferences_search "ಹುಡುಕು ಆದ್ಯತೆಗಳು">
+<!ENTITY devicepreferences_newname "ಹೊಸ ಆದ್ಯತೆ ಹೆಸರು">
 <!ENTITY devicepreferences_newtext "ಆದ್ಯತೆಯ ಮೌಲ್ಯ">
 <!ENTITY devicepreferences_addnew "ಹೊಸ ಆದ್ಯತೆ ಸೇರಿಸು">
 <!ENTITY devicepreferences_typeboolean "ಬೂಲಿಯನ್">
