@@ -15,6 +15,8 @@
 <!ENTITY telemetryInfoLink.label       "Më tepër informacion mbi Matjet Nga Larg">
 <!ENTITY enableGlodaSearch.label       "Aktivizo Kërkim dhe Indeksues Global">
 <!ENTITY enableGlodaSearch.accesskey   "A">
+<!ENTITY allowHWAccel.label            "Përdor përshpejtim hardware kur mundet">
+<!ENTITY allowHWAccel.accesskey        "h">
 
 <!ENTITY scrolling.label               "Rrëshqitje">
 <!ENTITY useAutoScroll.label           "Përdor vetërrëshqitje">
