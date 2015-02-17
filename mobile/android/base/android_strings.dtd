@@ -172,7 +172,8 @@
 <!ENTITY pref_cookies_not_accept_foreign "Engedélyezve, kivéve harmadik féltől származó">
 <!ENTITY pref_cookies_disabled "Tiltva">
 
-
+<!ENTITY pref_tracking_protection_title "Védelem követés ellen">
+<!ENTITY pref_tracking_protection_summary "A &brandShortName; megakadályozza, hogy a weboldalak kövessék">
 <!ENTITY pref_donottrack_title "Ne kövessenek">
 <!ENTITY pref_donottrack_summary "A &brandShortName; közli a webhelyekkel, hogy Ön nem szeretné, ha követnék">
 
@@ -430,7 +431,7 @@ size. -->
 <!ENTITY home_remote_tabs_empty "A lapok más készülékekről itt jelennek meg.">
 <!ENTITY home_remote_tabs_unable_to_connect "A kapcsolódás sikertelen">
 <!ENTITY home_remote_tabs_need_to_sign_in "Jelentkezzen be a Firefox fiókja újracsatlakoztatásához és a szinkronizálás folytatásához.">
-
+<!ENTITY home_remote_tabs_need_to_finish_migrating "Az új Firefox fiókja készen áll!">
 
 <!ENTITY home_remote_tabs_trouble_verifying "Probléma a fiók ellenőrzésekor?">
 <!ENTITY home_remote_tabs_need_to_verify "Ellenőrizze Firefox fiókját a szinkronizálás megkezdéséhez.">
