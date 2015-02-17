@@ -5,7 +5,9 @@
 
 
 
+<!ENTITY refreshProfile.dialog.button.label  "&brandShortName; ಪುನ:ಶ್ಚೇತನಗೊಳಿಸು">
 
+<!ENTITY refreshProfile.title                "&brandShortName; ಅನ್ನು ಸಿದ್ಧಗೊಳಿಸಿ">
+<!ENTITY refreshProfile.button.label         "&brandShortName; ಪುನ:ಶ್ಚೇತನಗೊಳಿಸು…">
 
-
-
+<!ENTITY refreshProfile.cleaning.description "ಇನ್ನೇನು ಆಯ್ತು…">

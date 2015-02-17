@@ -2,8 +2,11 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY defaultSearchEngine.label             "ಪೂರ್ವನಿಯೋಜಿತ ಹುಡುಕು ಎಂಜಿನ್">
 
 
+<!ENTITY provideSearchSuggestions.label        "search ಸಲಹೆಗಳನ್ನು ತೋರಿಸು">
+<!ENTITY provideSearchSuggestions.accesskey    "s">
 
 
 
