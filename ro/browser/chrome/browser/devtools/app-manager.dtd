@@ -8,7 +8,7 @@
 <!ENTITY index.help "Ajutor">
 
 <!ENTITY device.debugMainProcess "Depanare proces principal">
-
+<!ENTITY device.debugMainProcessTooltip "Deschideți uneltele de dezvoltare conectate procesului principal pe dispozitiv">
 <!ENTITY device.screenshot "Captură de ecran">
 <!ENTITY device.screenshotTooltip "Open a screenshot of the current state of the device in a new tab.">
 <!ENTITY device.title "Centrul de control pentru dispozitiv">
@@ -37,7 +37,7 @@
 <!ENTITY device.browserTabs "Filele navigatorului">
 <!ENTITY device.browserTabsTooltip "Vizualizați o listă cu file în navigatorul dispozitivului conectat">
 <!ENTITY device.debugBrowserTab "Depanare">
-
+<!ENTITY device.debugBrowserTabTooltip "Deschideți uneltele de dezvoltare conectate filei navigatorului pe dispozitiv">
 <!ENTITY device.help "Ajutor">
 
 <!ENTITY connection.connectTooltip "Connect to the device.">

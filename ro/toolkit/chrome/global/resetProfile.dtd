@@ -5,10 +5,11 @@
 <!ENTITY refreshProfile.dialog.title         "Reîmprospătează &brandShortName;">
 <!ENTITY refreshProfile.dialog.description1  "Începeți din nou pentru a remedia problemele și a restabili performanța.">
 <!ENTITY refreshProfile.dialog.description2  "Aceasta va:">
-
-
+<!ENTITY refreshProfile.dialog.items.label1  "Elimină suplimentele și personalizările dumnevoastră">
+<!ENTITY refreshProfile.dialog.items.label2  "Restabilește setările navigatorului dumneavoastră la valorile implicite">
 <!ENTITY refreshProfile.dialog.button.label  "Resetează &brandShortName;">
 
+<!ENTITY refreshProfile.title                "Obține-ți &brandShortName; revigorat">
 <!ENTITY refreshProfile.button.label         "Resetează &brandShortName;…">
 
 <!ENTITY refreshProfile.cleaning.description "Aproape am terminat…">
