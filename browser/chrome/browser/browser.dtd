@@ -491,8 +491,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY saveFrameCmd.accesskey       "F">
 <!ENTITY printFrameCmd.label          "Argraffu'r Ffrâm…">
 <!ENTITY printFrameCmd.accesskey      "A">
-<!ENTITY saveLinkCmd.label            "Cadw'r Cysylltiad Fel…">
-<!ENTITY saveLinkCmd.accesskey        "y">
+<!ENTITY saveLinkCmd.label            "Cadw'r Ddolen Fel…">
+<!ENTITY saveLinkCmd.accesskey        "a">
 <!ENTITY saveImageCmd.label           "Cadw Delwedd Fel…">
 <!ENTITY saveImageCmd.accesskey       "D">
 <!ENTITY saveVideoCmd.label           "Cadw Fideo Fel…">
