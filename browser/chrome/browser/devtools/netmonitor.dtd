@@ -121,6 +121,8 @@
 <!ENTITY netmonitorUI.footer.clear  "Golește">
 <!-- LOCALIZATION NOTE (debuggerUI.footer.clear): This is the label displayed
   -  in the network details footer for the performance analysis button. -->
+
+<!ENTITY netmonitorUI.footer.perf   "Comutați analiza de performanță…">
 <!-- LOCALIZATION NOTE (debuggerUI.panesButton.tooltip): This is the tooltip for
   -  the button that toggles the panes visible or hidden in the netmonitor UI. -->
 
@@ -193,23 +195,37 @@
 <!ENTITY netmonitorUI.timings.receive     "Primire:">
 <!-- LOCALIZATION NOTE (netmonitorUI.security.error): This is the label displayed
   -  in the security tab if a security error prevented the connection. -->
+
+<!ENTITY netmonitorUI.security.error      "S-a produs o eroare:">
 <!-- LOCALIZATION NOTE (netmonitorUI.security.protocolVersion): This is the label displayed
   -  in the security tab describing TLS/SSL protocol version. -->
+
+<!ENTITY netmonitorUI.security.protocolVersion "Versiune protocol:">
 <!-- LOCALIZATION NOTE (netmonitorUI.security.cipherSuite): This is the label displayed
   -  in the security tab describing the cipher suite used to secure this connection. -->
+
+<!ENTITY netmonitorUI.security.cipherSuite "Suită de cifru:">
 <!-- LOCALIZATION NOTE (netmonitorUI.security.hsts): This is the label displayed
   -  in the security tab describing the usage of HTTP Strict Transport Security. -->
+
+<!ENTITY netmonitorUI.security.hsts "HTTP Strict Transport Security:">
 <!-- LOCALIZATION NOTE (netmonitorUI.security.hpkp): This is the label displayed
   -  in the security tab describing the usage of Public Key Pinning. -->
+
+<!ENTITY netmonitorUI.security.hpkp "Fixarea cheii publice:">
 <!-- LOCALIZATION NOTE (netmonitorUI.security.connection): This is the label displayed
   -  in the security tab describing the section containing information related to
   -  the secure connection. -->
+
+<!ENTITY netmonitorUI.security.connection "Conexiune:">
 <!-- LOCALIZATION NOTE (netmonitorUI.security.certificate): This is the label displayed
   -  in the security tab describing the server certificate section. -->
 
 <!ENTITY netmonitorUI.security.certificate "Certificat:">
 <!-- LOCALIZATION NOTE (netmonitorUI.context.perfTools): This is the label displayed
   -  on the context menu that shows the performance analysis tools -->
+
+<!ENTITY netmonitorUI.context.perfTools   "Începe analiza de performanță…">
 <!-- LOCALIZATION NOTE (netmonitorUI.context.perfTools.accesskey): This is the access key
   -  for the performance analysis menu item displayed in the context menu for a request -->
 

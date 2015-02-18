@@ -93,7 +93,7 @@
 <!-- LOCALIZATION NOTE (debuggerUI.autoBlackBox): This is the label for
   -  the checkbox that toggles whether sources that we suspect are minified are
   -  automatically black boxed or not. -->
-
+<!ENTITY debuggerUI.autoBlackBox.accesskey "B">
 <!-- LOCALIZATION NOTE (debuggerUI.searchPanelOperators): This is the text that
   -  appears in the filter panel popup as a header for the operators part. -->
 
@@ -160,7 +160,7 @@
   -  appears in the debugger's side pane tabs. -->
 
 <!ENTITY debuggerUI.tabs.sources        "Surse">
-
+<!ENTITY debuggerUI.tabs.traces         "Urme">
 <!ENTITY debuggerUI.tabs.callstack      "Stiva de apeluri">
 <!ENTITY debuggerUI.tabs.variables      "Variabile">
 <!ENTITY debuggerUI.tabs.events         "Evenimente">
