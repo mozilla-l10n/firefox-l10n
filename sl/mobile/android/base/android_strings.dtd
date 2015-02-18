@@ -142,7 +142,7 @@
 <!ENTITY pref_developer_remotedebugging "Oddaljeno razhroščevanje">
 <!ENTITY pref_remember_signons "Zapomni si gesla">
 
-<!ENTITY pref_category_home "Domov">
+<!ENTITY pref_category_home "Domača stran">
 <!ENTITY pref_category_home_summary "Prilagodite domačo stran">
 <!ENTITY pref_category_home_panels "Plošče">
 <!ENTITY home_add_panel_title "Dodaj novo ploščo">
