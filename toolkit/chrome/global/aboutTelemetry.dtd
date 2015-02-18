@@ -8,6 +8,7 @@
 
 <!ENTITY aboutTelemetry.telemetryDisabled "  Telemetria este <span>dezactivată</span>.">
 
+<!ENTITY aboutTelemetry.generalDataSection "  Date generale">
 
 <!ENTITY aboutTelemetry.slowSqlSection "  Declarații SQL lente">
 
@@ -17,6 +18,7 @@
 
 <!ENTITY aboutTelemetry.histogramsSection "  Histograme">
 
+<!ENTITY aboutTelemetry.keyedHistogramsSection "  Histograme de chei">
 
 <!ENTITY aboutTelemetry.simpleMeasurementsSection "  Măsurători simple">
 
