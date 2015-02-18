@@ -103,7 +103,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY enterFullScreenCmd.accesskey "F">
 <!ENTITY exitFullScreenCmd.label "ဖန်သားပြင်အပြည့်ကြည့်ခြင်းမှ ထွက်ရန်">
 <!ENTITY exitFullScreenCmd.accesskey "F">
-<!ENTITY fullScreenCmd.label "Full Screen">
+<!ENTITY fullScreenCmd.label "ဖန်သားပြင်အပြည့်">
 <!ENTITY fullScreenCmd.accesskey "F">
 <!ENTITY fullScreenCmd.macCommandKey "f ">
 <!ENTITY showAllTabsCmd.label "ဖွင့်လက်စ စာမျက်နှာအားလုံးကိုပြပါ။">
@@ -120,7 +120,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 
 <!ENTITY fullScreenMinimize.tooltip "ချုံ့ပါ">
-<!ENTITY fullScreenRestore.tooltip "ပြန်​ပေးအပ်ပါ">
+<!ENTITY fullScreenRestore.tooltip "ပြန်ဖွင့်ပါ">
 <!ENTITY fullScreenClose.tooltip "ပိတ်ပါ ">
 <!ENTITY fullScreenAutohide.label "Hခလုတ်တန်းများဖျောက်">
 <!ENTITY fullScreenAutohide.accesskey "H">
