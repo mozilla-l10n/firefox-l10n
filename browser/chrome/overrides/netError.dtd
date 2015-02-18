@@ -161,10 +161,10 @@ functionality specific to firefox. -->
 <!ENTITY errorReporting.longDesc "Raportarea adresei și informațiilor din certificat pentru <span id='hostname'></span> ne va ajuta să identificăm și să blocăm saiturile malițioase. Vă mulțumim pentru ajutor la crearea un web mai sigur!">
 <!ENTITY errorReporting.automatic "Raportează automat erorile în viitor">
 <!ENTITY errorReporting.learnMore "Aflați mai multe…">
-
+<!ENTITY errorReporting.sending "Se trimite raportul">
 <!ENTITY errorReporting.sent "Raport trimis">
 <!ENTITY errorReporting.report "Raportați">
-
+<!ENTITY errorReporting.tryAgain "Încercați din nou">
 
 <!ENTITY remoteXUL.title "XUL la distanță">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Vă rugăm să contactați proprietarii websaitului pentru a-i informa despre această problemă.</li></ul></p>">
@@ -176,4 +176,4 @@ functionality specific to firefox. -->
 <!-- LOCALIZATION NOTE (oldSecurityProtocol.advancedInfo) - Do not translate
      the <span id='errorcode'></span>. -->
 <!ENTITY oldSecurityProtocol.advancedInfo "Informații avansate: <span id='errorcode'></span>">
-
+<!ENTITY oldSecurityProtocol.learnMore "Aflați mai multe…">

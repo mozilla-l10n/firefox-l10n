@@ -2,9 +2,15 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY defaultSearchEngine.label             "Motorul de căutare implicit">
+
+<!ENTITY chooseYourDefaultSearchEngine.label   "Alegeți-vă motorul de căutare implicit. &brandShortName; îl folosește în bara de adresă, bara de căutare și pagina de start.">
+
+<!ENTITY provideSearchSuggestions.label        "Oferiți sugestii de căutare">
+<!ENTITY provideSearchSuggestions.accesskey    "s">
 
 
-
+<!ENTITY oneClickSearchEngines.label           "Motoare de căutare dintr-un clic">
 
 
 <!ENTITY engineNameColumn.label                "Motor de căutare">
