@@ -38,6 +38,6 @@
 <!ENTITY isDefault.label                  "&brandShortName; e acum navigatorul principal">
 <!ENTITY isNotDefault.label               "&brandShortName; nu e navigatorul tău implicit">
 
-<!ENTITY separateProfileMode.label        "Allow &brandShortName; and Firefox să ruleze în același timp">
+<!ENTITY separateProfileMode.label        "Permite &brandShortName; și Firefox să ruleze în același timp">
 <!ENTITY useFirefoxSync.label             "Pont: Acesta folosește profiluri separate. Folosiți Sincronizare pentru a împărtăși date între ele.">
 <!ENTITY getStarted.label                 "Începeți să folosiți Sincronizare…">
