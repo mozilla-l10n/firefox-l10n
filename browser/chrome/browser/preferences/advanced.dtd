@@ -118,12 +118,12 @@
 <!ENTITY certificateTab.label            "Certificate">
 <!ENTITY certSelection.description       "Când un server cere certificatul meu personal:">
 <!ENTITY certs.auto                      "Selectează automat unul">
-
+<!ENTITY certs.auto.accesskey            "S">
 <!ENTITY certs.ask                       "Întreabă-mă de fiecare dată">
+<!ENTITY certs.ask.accesskey             "A">
 
 
-
-
-
-
-
+<!ENTITY viewCerts.label                 "Vizualizare certificate">
+<!ENTITY viewCerts.accesskey             "c">
+<!ENTITY viewSecurityDevices.label       "Dispozitive de securitate">
+<!ENTITY viewSecurityDevices.accesskey   "D">

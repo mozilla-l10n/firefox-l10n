@@ -20,8 +20,12 @@
   -  while the page is refreshing and the tool waits for a audio context. -->
 <!-- LOCALIZATION NOTE (webAudioEditorUI.tab.properties): This is the label shown
   -  for the properties tab view. -->
+
+<!ENTITY webAudioEditorUI.tab.properties  "Parametri">
 <!-- LOCALIZATION NOTE (webAudioEditorUI.inspectorTitle): This is the title for the
   -  AudioNode inspector view. -->
+
+<!ENTITY webAudioEditorUI.inspectorTitle  "Inspector AudioNode">
 <!-- LOCALIZATION NOTE (webAudioEditorUI.inspectorEmpty): This is the title for the
   -  AudioNode inspector view empty message. -->
 <!-- LOCALIZATION NOTE (webAudioEditorUI.propertiesEmpty): This is the title for the
