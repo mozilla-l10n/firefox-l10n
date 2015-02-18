@@ -14,11 +14,13 @@
 
 
 <!ENTITY netmonitorUI.perfNotice1         "Clic pe">
-
+<!ENTITY netmonitorUI.perfNotice2         "buton pentru a porni analiza de perfomanță">
 <!-- LOCALIZATION NOTE (netmonitorUI.reload1/2/3): These are the labels displayed
   -  in the network table when empty to start logging network requests. -->
-<!ENTITY netmonitorUI.reloadNotice2       "Reîncarcă">
 
+<!ENTITY netmonitorUI.reloadNotice1       "• Realizează o cerere sau">
+<!ENTITY netmonitorUI.reloadNotice2       "Reîncarcă">
+<!ENTITY netmonitorUI.reloadNotice3       "pagina pentru a vedea informații detaliate despre activitatea rețelei.">
 <!-- LOCALIZATION NOTE (netmonitorUI.toolbar.status2): This is the label displayed
   -  in the network table toolbar, above the "status" column. -->
 
@@ -262,6 +264,8 @@
 <!-- LOCALIZATION NOTE (debuggerUI.summary.rawHeaders): This is the label displayed
   -  on the button in the headers tab that toggle view for raw request/response headers
      from the currently displayed request -->
+
+<!ENTITY netmonitorUI.summary.rawHeaders "Antete raw">
 <!-- LOCALIZATION NOTE (debuggerUI.summary.rawHeaders.requestHeaders): This is the label displayed
   -  in the network details headers tab identifying the raw request headers textarea -->
 <!-- LOCALIZATION NOTE (debuggerUI.summary.rawHeaders.responseHeaders): This is the label displayed

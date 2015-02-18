@@ -2,8 +2,10 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY windowTitle "Firefox WebIDE">
 
 
+<!ENTITY projectMenu_newApp_label "Aplicație nouă…">
 
 
 
@@ -40,7 +42,7 @@
 
 <!ENTITY viewMenu_label "Vizualizează">
 
-
+<!ENTITY viewMenu_toggleEditor_label "Comută editorul">
 
 <!ENTITY viewMenu_zoomin_label "Apropie">
 
@@ -49,6 +51,7 @@
 
 
 
+<!ENTITY projectButton_label "Deschide aplicația">
 
 <!-- We try to repicate Firefox' bindings: -->
 <!-- quit app -->
@@ -62,26 +65,31 @@
 
 
 
+<!ENTITY projectPanel_myProjects "Proiectele mele">
 
 <!ENTITY projectPanel_tabs "File">
-
-
-
+<!ENTITY runtimePanel_usb "Dispozitive USB">
+<!ENTITY runtimePanel_wifi "Dispozitive Wi-Fi">
+<!ENTITY runtimePanel_simulator "Simulatoare">
 
 <!ENTITY runtimePanel_installsimulator "Instalare simulator">
 
-
+<!ENTITY runtimePanel_nousbdevice "Nu îți poți vedea dispozitivul?">
 <!-- Lense -->
 
-
+<!ENTITY details_valid_header "valid">
+<!ENTITY details_warning_header "avertismente">
+<!ENTITY details_error_header "erori">
 <!ENTITY details_description "Descriere">
 <!ENTITY details_location "Adresă">
 
-
+<!ENTITY details_removeProject_button "Elimină proiectul">
 <!-- New App -->
 
+<!ENTITY newAppWindowTitle "Aplicație nouă">
 
 
+<!ENTITY newAppProjectName "Numele proiectului:">
 <!-- Decks -->
 
 
@@ -90,7 +98,7 @@
 <!-- Addons -->
 
 <!-- Prefs -->
-
+<!ENTITY prefs_editor_title "Editor">
 <!ENTITY prefs_general_title "General">
 <!ENTITY prefs_restore "Restaurează setările implicite">
 
@@ -107,12 +115,12 @@
 
 <!ENTITY prefs_options_detectindentation "Autoindentare">
 <!ENTITY prefs_options_detectindentation_tooltip "Ghicește indentarea bazată pe conținutul sursei">
-
+<!ENTITY prefs_options_autocomplete "Completare automată">
 <!ENTITY prefs_options_autocomplete_tooltip "Activează completarea automată a codului">
 <!ENTITY prefs_options_autoclosebrackets "Închide automat parantezele">
 <!ENTITY prefs_options_autoclosebrackets_tooltip "Inserează automat paranteze închise">
 <!ENTITY prefs_options_keybindings "Combinații de taste">
-
+<!ENTITY prefs_options_keybindings_default "Implicit">
 <!-- Permissions Table -->
 
 <!ENTITY permissionstable_title "Tabelă de permisiuni">
