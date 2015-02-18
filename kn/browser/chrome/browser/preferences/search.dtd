@@ -4,6 +4,7 @@
 
 <!ENTITY defaultSearchEngine.label             "ಪೂರ್ವನಿಯೋಜಿತ ಹುಡುಕು ಎಂಜಿನ್">
 
+<!ENTITY chooseYourDefaultSearchEngine.label   "ನಿಮ್ಮ ಪೂರ್ವನಿಯೋಜಿತ ಹುಡುಕು ಯಂತ್ರ ಆಯ್ಕೆ ಮಾಡು. &brandShortName; ಅದನ್ನು ಸ್ಥಳ ಪಟ್ಟಿ, ಹುಡುಕು ಪಟ್ಟಿ, ಮತ್ತು ಪ್ರಾರಂಭ ಪುಟದಲ್ಲಿ ಬಳಸುತ್ತದೆ.">
 
 <!ENTITY provideSearchSuggestions.label        "search ಸಲಹೆಗಳನ್ನು ತೋರಿಸು">
 <!ENTITY provideSearchSuggestions.accesskey    "s">
