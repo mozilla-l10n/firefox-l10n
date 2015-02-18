@@ -695,15 +695,15 @@
 <!-- Thread Pane Context Menu -->
 
 <!ENTITY contextOpenNewWindow.label "Odpri sporočilo v novem oknu">
-<!ENTITY contextOpenNewWindow.accesskey "l">
+<!ENTITY contextOpenNewWindow.accesskey "u">
 <!-- The key potentially conflicts with cutCmd.accessKey which is defined in
      textcontext.dtd from toolkit. Right now, both menu items can't be visible
      at the same time, but should someone enable copy/paste of message, this key
      would probably need to be changed. -->
 <!ENTITY contextOpenNewTab.label "Odpri sporočilo v novem zavihku">
-<!ENTITY contextOpenNewTab.accesskey "r">
+<!ENTITY contextOpenNewTab.accesskey "z">
 <!ENTITY contextOpenConversation.label "Odpri sporočilo kot pogovor">
-<!ENTITY contextOpenConversation.accesskey "O">
+<!ENTITY contextOpenConversation.accesskey "v">
 <!ENTITY contextOpenContainingFolder.label "Odpri sporočilo v vsebujoči mapi">
 <!ENTITY contextOpenContainingFolder.accesskey "O">
 <!ENTITY contextEditMsgAsNew.label "Uredi kot novo sporočilo">
@@ -715,25 +715,25 @@
 <!ENTITY contextReplyNewsgroup2.label "Nadalje odgovori novičarski skupini">
 <!ENTITY contextReplyNewsgroup2.accesskey "N">
 <!ENTITY contextReplyAll.label "Odgovori vsem">
-<!ENTITY contextReplyAll.accesskey "v">
+<!ENTITY contextReplyAll.accesskey "e">
 <!ENTITY contextReplyList.label "Odgovori seznamu">
-<!ENTITY contextReplyList.accesskey "m">
+<!ENTITY contextReplyList.accesskey "z">
 <!ENTITY contextForward.label "Posreduj">
-<!ENTITY contextForward.accesskey "d">
+<!ENTITY contextForward.accesskey "P">
 <!ENTITY contextForwardAsMenu.label "Posreduj kot">
-<!ENTITY contextForwardAsMenu.accesskey "o">
+<!ENTITY contextForwardAsMenu.accesskey "t">
 <!ENTITY contextForwardAsInline.label "V besedilu">
-<!ENTITY contextForwardAsInline.accesskey "i">
+<!ENTITY contextForwardAsInline.accesskey "V">
 <!ENTITY contextForwardAsAttachmentItem.label "Priponko">
 <!ENTITY contextForwardAsAttachmentItem.accesskey "P">
 <!ENTITY contextMultiForwardAsAttachment.label "Posreduj kot priponke">
 <!ENTITY contextMultiForwardAsAttachment.accesskey "e">
 <!ENTITY contextMoveMsgMenu.label "Premakni v">
-<!ENTITY contextMoveMsgMenu.accesskey "M">
+<!ENTITY contextMoveMsgMenu.accesskey "m">
 <!ENTITY contextMoveCopyMsgRecentMenu.label "Nedavno">
 <!ENTITY contextMoveCopyMsgRecentMenu.accesskey "N">
 <!ENTITY contextCopyMsgMenu.label "Kopiraj v">
-<!ENTITY contextCopyMsgMenu.accesskey "v">
+<!ENTITY contextCopyMsgMenu.accesskey "K">
 <!ENTITY contextKillThreadMenu.label "Prezri nit">
 <!ENTITY contextKillThreadMenu.accesskey "i">
 <!ENTITY contextKillSubthreadMenu.label "Prezri podnit">
