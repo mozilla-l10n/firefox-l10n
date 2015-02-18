@@ -126,8 +126,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fullScreenAutohide.accesskey "H">
 <!ENTITY fullScreenExit.label "Fမျက်နှာပြင်အပြည့်စနစ်ပိတ်">
 <!ENTITY fullScreenExit.accesskey "F">
-<!ENTITY fullscreenAllowButton.label "Allow">
-<!ENTITY fullscreenExitButton.label "ငြင်းပယ်ပါ">
+<!ENTITY fullscreenAllowButton.label "ခွင့်ပြုရန်">
+<!ENTITY fullscreenExitButton.label "ငြင်းပယ်ရန်">
 
 <!ENTITY fullscreenExitHint2.value "ESC ခလုတ်အားနှိပ်ပြီး အချိန်မရွေးထွက်နိုင်ပါသည်">
 <!ENTITY leaveDOMFullScreen.label "uမြင်ကွင်းကျယ်မှထွက်ရန်">
@@ -150,13 +150,14 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY sharePageCmd.commandkey "S">
 <!ENTITY sharePageCmd.accesskey "s">
 <!-- LOCALIZATION NOTE (shareLink.accesskey): must be different than the following share access keys -->
-
-<!ENTITY shareImage.label "r ပုံအားမျှဝေပါ">
-<!ENTITY shareImage.accesskey "r">
+<!ENTITY shareLink.label "s ယခုလင်ခ့်ကို မျှဝေပါ">
+<!ENTITY shareLink.accesskey "s">
+<!ENTITY shareImage.label "s ပုံကို မျှဝေပါ">
+<!ENTITY shareImage.accesskey "s">
 <!ENTITY shareSelect.label "S  ရွေးထားသောစာကို မျှဝေပါ">
 <!ENTITY shareSelect.accesskey "S">
-<!ENTITY shareVideo.label "r ဤဗီဒီယိုကို မျှဝေမည်">
-<!ENTITY shareVideo.accesskey "r">
+<!ENTITY shareVideo.label "s ဤဗီဒီယိုကို မျှဝေမည်">
+<!ENTITY shareVideo.accesskey "s">
 <!ENTITY feedsMenu.label "စာရင်းသွင်း">
 <!ENTITY subscribeToPageMenupopup.label "ဒီစာမျက်နှာမှာ စာရင်းသွင်းပါ">
 <!ENTITY subscribeToPageMenuitem.label "ဒီစာမျက်နှာမှာ စာရင်းသွင်းပါ...">
