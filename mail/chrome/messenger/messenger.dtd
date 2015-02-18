@@ -340,7 +340,7 @@
 <!ENTITY replyNewsgroupCmd2.label "Nadalje odgovori novičarski skupini">
 <!ENTITY replyNewsgroupCmd2.accesskey  "g">
 <!ENTITY replyToAllMsgCmd.label "Odgovori vsem">
-<!ENTITY replyToAllMsgCmd.accesskey  "v">
+<!ENTITY replyToAllMsgCmd.accesskey  "e">
 <!ENTITY replyToAllMsgCmd.key  "r">
 <!ENTITY replyToListMsgCmd.label "Odgovori seznamu">
 <!ENTITY replyToListMsgCmd.accesskey  "s">
@@ -349,7 +349,7 @@
 <!ENTITY forwardMsgCmd.accesskey "P">
 <!ENTITY forwardMsgCmd.key  "l">
 <!ENTITY forwardAsMenu.label "Posreduj kot">
-<!ENTITY forwardAsMenu.accesskey "e">
+<!ENTITY forwardAsMenu.accesskey "j">
 <!ENTITY forwardAsInline.label "V besedilu">
 <!ENTITY forwardAsInline.accesskey "V">
 <!ENTITY forwardAsAttachmentCmd.label "Priponko">
@@ -368,16 +368,16 @@
 <!ENTITY copyMsgToMenu.label "Kopiraj v">
 <!ENTITY copyMsgToMenu.accesskey "K">
 <!ENTITY moveToFolderAgain.label "Ponovno premakni">
-<!ENTITY moveToFolderAgain.accesskey "k">
+<!ENTITY moveToFolderAgain.accesskey "m">
 <!ENTITY moveToFolderAgainCmd.key "m">
 <!ENTITY killThreadMenu.label "Prezri nit">
-<!ENTITY killThreadMenu.accesskey "z">
+<!ENTITY killThreadMenu.accesskey "i">
 <!ENTITY killThreadMenu.key "u">
 <!ENTITY killSubthreadMenu.label "Prezri podnit">
 <!ENTITY killSubthreadMenu.accesskey "t">
 <!ENTITY killSubthreadMenu.key "k">
 <!ENTITY watchThreadMenu.label "Spremljaj nit">
-<!ENTITY watchThreadMenu.accesskey "i">
+<!ENTITY watchThreadMenu.accesskey "l">
 <!ENTITY watchThreadMenu.key "s">
 <!ENTITY tagMenu.label "Dodaj oznako">
 <!ENTITY tagMenu.accesskey "a">
@@ -422,7 +422,7 @@
 <!ENTITY openMessageWindowCmd.accesskey "O">
 <!ENTITY openMessageWindowCmd.key "o">
 <!ENTITY openConversationCmd.label "Odpri kot pogovor">
-<!ENTITY openConversationCmd.accesskey "p">
+<!ENTITY openConversationCmd.accesskey "v">
 <!ENTITY openConversationCmd.key "o">
 <!ENTITY openAttachmentListCmd.label "Priponke">
 <!ENTITY openAttachmentListCmd.accesskey "r">
@@ -600,19 +600,19 @@
 <!ENTITY folderContextGetMessages.label "Prejmi sporočila">
 <!ENTITY folderContextGetMessages.accesskey "P">
 <!ENTITY folderContextOpenInNewWindow.label "Odpri v novem oknu">
-<!ENTITY folderContextOpenInNewWindow.accesskey "O">
+<!ENTITY folderContextOpenInNewWindow.accesskey "k">
 <!ENTITY folderContextOpenNewTab.label "Odpri v novem zavihku">
-<!ENTITY folderContextOpenNewTab.accesskey "n">
+<!ENTITY folderContextOpenNewTab.accesskey "z">
 <!ENTITY folderContextNew.label "Nova podmapa …">
-<!ENTITY folderContextNew.accesskey "p">
+<!ENTITY folderContextNew.accesskey "d">
 <!ENTITY folderContextRename.label "Preimenuj">
-<!ENTITY folderContextRename.accesskey "r">
+<!ENTITY folderContextRename.accesskey "P">
 <!ENTITY folderContextRemove.label "Izbriši">
-<!ENTITY folderContextRemove.accesskey "D">
+<!ENTITY folderContextRemove.accesskey "b">
 <!ENTITY folderContextCompact.label "Strni">
 <!ENTITY folderContextCompact.accesskey "S">
 <!ENTITY folderContextEmptyTrash.label "Izprazni Koš">
-<!ENTITY folderContextEmptyTrash.accesskey "z">
+<!ENTITY folderContextEmptyTrash.accesskey "a">
 <!ENTITY folderContextEmptyJunk.label "Odstrani neželeno pošto">
 <!ENTITY folderContextEmptyJunk.accesskey "p">
 <!ENTITY folderContextSendUnsentMessages.label "Pošlji neposlana sporočila">
@@ -622,15 +622,15 @@
 <!ENTITY folderContextMarkNewsgroupRead.label "Označi novičarsko skupino kot prebrano">
 <!ENTITY folderContextMarkNewsgroupRead.accesskey "n">
 <!ENTITY folderContextMarkMailFolderRead.label "Označi mapo kot prebrano">
-<!ENTITY folderContextMarkMailFolderRead.accesskey "m">
+<!ENTITY folderContextMarkMailFolderRead.accesskey "O">
 <!ENTITY folderContextSubscribe.label "Naroči se …">
 <!ENTITY folderContextSubscribe.accesskey "č">
 <!ENTITY folderContextSearchForMessages.label "Išči po sporočilih …">
-<!ENTITY folderContextSearchForMessages.accesskey "s">
+<!ENTITY folderContextSearchForMessages.accesskey "š">
 <!ENTITY folderContextProperties2.label "Lastnosti">
 <!ENTITY folderContextProperties2.accesskey "L">
 <!ENTITY folderContextFavoriteFolder.label "Priljubljena mapa">
-<!ENTITY folderContextFavoriteFolder.accesskey "l">
+<!ENTITY folderContextFavoriteFolder.accesskey "b">
 <!ENTITY folderContextSettings2.label "Nastavitve">
 <!ENTITY folderContextSettings2.accesskey "s">
 <!-- Search Bar -->
