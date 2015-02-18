@@ -12,12 +12,15 @@
 
 <!ENTITY oneClickSearchEngines.label           "Motoare de căutare dintr-un clic">
 
+<!ENTITY chooseWhichOneToDisplay.label         "Bara de căutare vă permite să căutați direct în diferite motoare de căutare. Alegeți-vă motoarele de căutare cu care să căutați.">
 
 <!ENTITY engineNameColumn.label                "Motor de căutare">
 <!ENTITY engineKeywordColumn.label             "Cuvânt cheie">
 
+<!ENTITY restoreDefaultSearchEngines.label     "Restaurați motoarele de căutare implicite">
+<!ENTITY restoreDefaultSearchEngines.accesskey "d">
 
-
-
+<!ENTITY removeEngine.label                    "Înlătură">
+<!ENTITY removeEngine.accesskey                "r">
 
 <!ENTITY addMoreSearchEngines.label            "Adăugați mai multe motoare de căutare…">

@@ -1,15 +1,19 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY window.title                     "Excepții - Traducere">
 <!ENTITY window.width                     "36em">
 <!ENTITY windowClose.key                  "w">
 
+<!ENTITY noTranslationForLanguages.label  "Traducerea nu va fi oferită pentru următoarele limbi:">
 <!ENTITY treehead.languageName.label      "Limbi">
+<!ENTITY removeLanguage.label             "Înlătură limba">
+<!ENTITY removeLanguage.accesskey         "r">
+<!ENTITY removeAllLanguages.label         "Înlătură toate limbile">
+<!ENTITY removeAllLanguages.accesskey     "e">
 
-
-
-
-
+<!ENTITY noTranslationForSites.label      "Traducerea nu va fi oferită pentru următoarele saituri:">
 <!ENTITY treehead.siteName.label          "Saituri">
 <!ENTITY removeSite.label                 "Elimină saitul">
 <!ENTITY removeSite.accesskey             "s">

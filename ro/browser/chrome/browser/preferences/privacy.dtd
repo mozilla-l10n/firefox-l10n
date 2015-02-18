@@ -6,11 +6,12 @@
 
 <!ENTITY dntTrackingNotOkay.label2      "Anunță saiturile că nu doresc să fiu urmărit">
 <!ENTITY dntTrackingNotOkay.accesskey   "n">
-
-
-
+<!ENTITY trackingProtection.label       "Împiedicați saiturile să mă urmărească">
+<!ENTITY trackingProtection.accesskey   "m">
+<!ENTITY trackingProtectionLearnMore.label "Aflați mai multe">
 <!ENTITY doNotTrackInfo.label           "Află mai multe">
 
+<!ENTITY  history.label                 "Istoric">
 
 <!ENTITY  locationBar.label             "Bara adresei">
 
@@ -31,7 +32,8 @@
 <!ENTITY  acceptThirdParty.never.label    "Niciodată">
 <!ENTITY  acceptThirdParty.visited.label  "De la saiturile vizitate">
 
-
+<!ENTITY  keepUntil.label               "Păstrează-le până când:">
+<!ENTITY  keepUntil.accesskey           "P">
 
 <!ENTITY  expire.label                  "expiră">
 <!ENTITY  close.label                   "închid &brandShortName;">

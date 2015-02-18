@@ -28,7 +28,8 @@
 <!ENTITY chooseButton.label           "Alege...">
 <!ENTITY chooseButton.accesskey       "l">
 
-
+<!ENTITY translateWebPages.label      "Traduceți conținutul web">
+<!ENTITY translateWebPages.accesskey  "T">
 <!ENTITY translateExceptions.label    "Excepții...">
 <!ENTITY translateExceptions.accesskey "x">
 <!-- LOCALIZATION NOTE (translation.options.attribution.beforeLogo,

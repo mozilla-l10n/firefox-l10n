@@ -9,7 +9,7 @@
 
 
 <!ENTITY  overridePageColors.always.label "Întotdeauna">
-
+<!ENTITY  overridePageColors.auto.label   "Numai cu teme cu contrast puternic">
 <!ENTITY  overridePageColors.never.label  "Niciodată">
 
 <!ENTITY  color                           "Text și fundal">
