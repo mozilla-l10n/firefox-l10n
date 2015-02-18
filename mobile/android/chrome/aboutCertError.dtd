@@ -19,7 +19,9 @@ was trying to connect. -->
 la <b>#1</b>, dar nu se poate confirma securitatea conexiunii dumneavoastră.">
 
 <!ENTITY certerror.whatShouldIDo.heading "Ce ar trebui să fac?">
-<!ENTITY certerror.whatShouldIDo.content "Dacă de obicei vă conectați la acest sait fără probleme, această eroare ar putea însemna că cineva încearcă să vă păcălească și nu ar trebui să continuați.">
+<!ENTITY certerror.whatShouldIDo.content "Dacă de obicei vă conectați la 
+acest sait fără probleme, această eroare ar putea însemna că cineva 
+încearcă să pretindă în mod fraudulos că este acest sait și nu ar trebui să continuați.a">
 <!ENTITY certerror.getMeOutOfHere.label "Du-mă de aici!">
 
 <!ENTITY certerror.expert.heading "Înțeleg riscurile">
