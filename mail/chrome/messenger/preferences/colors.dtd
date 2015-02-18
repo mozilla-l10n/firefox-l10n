@@ -7,10 +7,10 @@
 <!ENTITY  window.macWidth                 "45em">
 
 <!ENTITY  overridePageColors.label        "Pakeisti puslapio siūlomas spalvas mano pasirinktomis:">
-<!ENTITY  overridePageColors.accesskey    "o">
+<!ENTITY  overridePageColors.accesskey    "P">
 
 <!ENTITY  overridePageColors.always.label "visada">
-<!ENTITY  overridePageColors.auto.label   "Tik naudojant kontrastingas temas">
+<!ENTITY  overridePageColors.auto.label   "Tik naudojant kontrastingus grafinius apvalkalus">
 <!ENTITY  overridePageColors.never.label  "niekada">
 
 <!ENTITY  color                           "Tekstas ir fonas">

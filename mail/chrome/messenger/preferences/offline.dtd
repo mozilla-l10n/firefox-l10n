@@ -4,12 +4,12 @@
 
 <!ENTITY offlineDialog.title "Darbo neprisijungus prie tinklo nuostatos">
 
-<!ENTITY checkAutoDetect.label "Automatiškai sekti nustatytą prisijungimo būseną">
-<!ENTITY checkAutoDetect.accesskey "d">
-<!ENTITY titleStartUp "Būsena programai startavus:">
-<!ENTITY radioRememberPrevState.label "prisiminti ankstesnę prisijungimo būseną">
+<!ENTITY checkAutoDetect.label "Automatiškai taikyti surastą ryšio būseną">
+<!ENTITY checkAutoDetect.accesskey "t">
+<!ENTITY titleStartUp "Būsena darbo pradžioje:">
+<!ENTITY radioRememberPrevState.label "Įsiminti ankstesnę ryšio būseną">
 <!ENTITY radioRememberPrevState.accesskey "m">
-<!ENTITY radioAskState.label "Paklausk prisijungimo būsenos">
+<!ENTITY radioAskState.label "Paklausti ryšio būsenos">
 <!ENTITY radioAskState.accesskey "k">
 <!ENTITY radioAlwaysOnline.label "Prijungta">
 <!ENTITY radioAlwaysOnline.accesskey "l">
