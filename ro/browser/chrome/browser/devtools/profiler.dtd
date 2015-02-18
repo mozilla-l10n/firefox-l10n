@@ -42,6 +42,6 @@
 
 
 
-
+<!ENTITY profilerUI.table.function        "Funcție">
 <!-- LOCALIZATION NOTE (profilerUI.newtab.tooltiptext): The tooltiptext shown
   -  on the "+" (new tab) button for a profile when a selection is available. -->

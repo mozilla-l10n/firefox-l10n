@@ -24,8 +24,10 @@
 <!-- LOCALIZATION NOTE (timelineUI.emptyNotice1/2): This is the label shown
   -  in the timeline view when empty. -->
 
+<!ENTITY timelineUI.emptyNotice1    "Clic pe">
+<!ENTITY timelineUI.emptyNotice2    "buton pentru a începe înregistrarea evenimentelor cronologice.">
 <!-- LOCALIZATION NOTE (timelineUI.stopNotice1/2): This is the label shown
   -  in the timeline view while recording. -->
 
 <!ENTITY timelineUI.stopNotice1    "Clic pe">
-
+<!ENTITY timelineUI.stopNotice2    "buton din nou pentru a opri înregistrarea.">
