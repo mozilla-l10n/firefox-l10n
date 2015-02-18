@@ -54,7 +54,7 @@
 <!ENTITY otherActionsOpenConversation1.label "Odpri kot pogovor">
 <!ENTITY otherActionsOpenConversation1.accesskey "p">
 <!ENTITY otherActionsOpenInNewWindow1.label "Odpri v novem oknu">
-<!ENTITY otherActionsOpenInNewWindow1.accesskey "o">
+<!ENTITY otherActionsOpenInNewWindow1.accesskey "k">
 <!ENTITY otherActionsOpenInNewTab1.label "Odpri v novem zavihku">
 <!ENTITY otherActionsOpenInNewTab1.accesskey "z">
 <!ENTITY markAsReadMenuItem1.label "Označi kot prebrano">
