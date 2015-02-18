@@ -49,7 +49,7 @@
 <!ENTITY netTimeout.longDesc "<p>Saitul cerut nu a răspuns cererii de conexiune, iar navigatorul a încetat să mai aștepte un răspuns.</p><ul><li>Se poate ca serverul să fie foarte solicitat sau să sufere o defecțiune temporară?  Încercați din nou mai târziu.</li><li>Aveți probleme cu navigarea pe alte saituri? Verificați conexiunea la rețea a calculatorului.</li><li>Calculatorul dumneavoastră este protejat de un firewall sau un proxy? Parametrii incorecți ai acestora ar putea afecta navigarea pe web.</li><li>Problemele persistă? Consultați administratorul sau furnizorul dumneavoastră de servicii internet.</li></ul>">
 
 <!ENTITY unknownProtocolFound.title "Protocol necunoscut">
-
+<!ENTITY unknownProtocolFound.longDesc "<p>Adresa specifică un protocol (de ex. <q>wxyz://</q>) pe care navigatorul nu îl cunoaște, astfel că navigatorul nu se poate conecta în mod corespunzător la sait.</p><ul><li>Încercați să accesați conținut multimedia sau alte servicii nontext? Verificați saitul pentru cerințe suplimentare.</li><li>Unele protocoale pot necesita programe terțe sau module înainte ca navigatorul să le poată recunoaște.</li></ul>">
 
 <!ENTITY proxyConnectFailure.title "Serverul proxy refuză conexiunea">
 <!ENTITY proxyConnectFailure.longDesc "<p>Navigatorul este configurat să folosească un server proxy, însă proxy-ul a refuzat o conexiune.</p><ul><li>Este navigatorul configurat corect pentru acel proxy? Verificați parametrii și încercați din nou.</li><li>Serviciul proxy permite conexiuni din această rețea?</li><li>Problemele persistă? Consultați administratorul sau furnizorul dumneavoastră de servicii internet.</li></ul>">
