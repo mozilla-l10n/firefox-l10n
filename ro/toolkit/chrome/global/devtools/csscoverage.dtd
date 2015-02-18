@@ -19,7 +19,7 @@
   -  This is the heading and body text for the CSS usage part of the report -->
 
 <!ENTITY csscoverage.unused "Reguli nefolosite">
-
+<!ENTITY csscoverage.noMatches "Niciun rezultat găsit pentru următoarele reguli:">
 <!-- LOCALIZATION NOTE (csscoverage.optimize.header):
   -  This is the heading for the CSS optimization part of the report -->
 
@@ -29,15 +29,19 @@
   -  separated by a styled <link> tag and 2 and 3 separated by a styled
   -  <style> tag -->
 
-
+<!ENTITY csscoverage.optimize.body1 "Puteți uneori accelera încărcarea mișcând">
+<!ENTITY csscoverage.optimize.body2 "etichetele din partea de jos a paginii și creând un nou element">
+<!ENTITY csscoverage.optimize.body3 "în linie cu stilurile necesare înainte ca evenimentul 'load' să apară în prim plan. Aici sunt blocurile de stil de are aveți nevoie:">
 <!-- LOCALIZATION NOTE (csscoverage.optimize.bodyX):
   -  This is what we say when we have no optimization suggestions -->
+
+<!ENTITY csscoverage.optimize.bodyX "Toate regulile sunt în linie.">
 <!-- LOCALIZATION NOTE (csscoverage.footer1, csscoverage.footer2a,
   -  csscoverage.footer3, csscoverage.footer4): The text displayed at the
   -  bottom of the page, with 2a being the URL opened when the link text in 3
   -  is clicked -->
 
 <!ENTITY csscoverage.footer1 "Vezi">
-
-
+<!ENTITY csscoverage.footer2a "https://developer.mozilla.org/docs/Tools/CSS_Coverage">
+<!ENTITY csscoverage.footer3 "articolul MDN pe instrumentul de acoperire CSS">
 
