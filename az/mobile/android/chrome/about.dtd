@@ -9,14 +9,16 @@
 <!ENTITY aboutPage.checkForUpdates.link         "Yeniləmələri yoxla »">
 
 
-
-
-
+<!ENTITY aboutPage.checkForUpdates.available2   "Yeniləməni endir">
+<!ENTITY aboutPage.checkForUpdates.downloading  "Yeniləmə endirilir…">
+<!ENTITY aboutPage.checkForUpdates.downloaded2  "Yeniləməni qur">
 <!ENTITY aboutPage.faq.label                    "ÇSS">
 <!ENTITY aboutPage.support.label                "Dəstək">
 <!ENTITY aboutPage.privacyPolicy.label          "Gizlilik Razılaşması">
 <!ENTITY aboutPage.rights.label                 "Haqlarınızı bilin…">
 <!ENTITY aboutPage.relNotes.label               "Buraxılış qeydləri">
-
+<!ENTITY aboutPage.credits.label                "Müəlliflər">
 <!ENTITY aboutPage.license.label                "Lisenziya məlumatlarını">
 <!-- LOCALIZATION NOTE (aboutPage.logoTrademark): The message is explicitly about the word "Firefox" being trademarked, that's why we use it, instead of brandShortName. -->
+
+<!ENTITY aboutPage.logoTrademark                "Firefox və Firefox loqosu Mozilla Fondunun qeydə alınmış əmtəə nişanlarıdır.">

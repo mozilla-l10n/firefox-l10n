@@ -23,9 +23,10 @@
 <!-- LOCALIZATION NOTE (happy.finePrint): "feels great" — Another exaggeration where we're trying to
      get people to rate us by playfully telling them there's a benefit in it for them as well. -->
 
+<!ENTITY happy.maybeLater2         "Bəlkə daha sonra">
+<!ENTITY happy.noThanks            "Xeyr, təşəkkürlər">
 
-
-
+<!ENTITY sad.header                "Tfu!">
 
 <!ENTITY sad.placeholder           "Əks əlaqənizi bura yazın">
 
