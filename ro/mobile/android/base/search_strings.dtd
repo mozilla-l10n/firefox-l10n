@@ -10,8 +10,9 @@
 
 
 
+<!ENTITY pref_clearHistory_confirmation "Istoric curățat">
 
-
+<!ENTITY pref_clearHistory_title "Curăță istoricul de căutare">
 
 
 <!ENTITY search_widget_button_label "Căutare">
