@@ -44,8 +44,8 @@
 <!ENTITY connection.disconnect "Deconectare">
 <!ENTITY connection.disconnectTooltip "Disconnect from the current device or simulator.">
 <!ENTITY connection.notConnected2 "Neconectat.">
-
-<!ENTITY connection.noDeviceFound "No device found. Plug a device">
+<!ENTITY connection.connectTo "Conectare la:">
+<!ENTITY connection.noDeviceFound "Niciun dispozitiv găsit. Conectați un dispozitiv">
 <!ENTITY connection.changeHostAndPort "Modifică">
 <!ENTITY connection.changeHostAndPortTooltip "Change the host and port used to connect to the device. (Defaults to localhost:6000)">
 <!ENTITY connection.startSimulator "Pornire simulator">
@@ -71,7 +71,7 @@
 <!ENTITY projects.addPackagedTooltip "Add a new packaged app (a directory) from your computer.">
 <!ENTITY projects.addHosted "Add Hosted App">
 <!ENTITY projects.addHostedTooltip "Add a new hosted app (link to a manifest.webapp file) from a remote website.">
-<!ENTITY projects.title "Local Apps">
+<!ENTITY projects.title "Aplicații locale">
 <!ENTITY projects.appDetails "Detalii aplicație">
 <!ENTITY projects.removeAppFromList "Remove this app from the list of apps you are working on. This will not remove it from a device or a simulator.">
 <!ENTITY projects.updateApp "Actualizare">
