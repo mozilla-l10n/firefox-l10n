@@ -1,7 +1,8 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY  fontsAndEncodingsDialog.title           "Schriftarten und Zeichenkodierungen">
-<!ENTITY  window.width                            "43em">
-<!ENTITY  window.macWidth                         "47em">
-<!ENTITY  window.unixWidth                        "45em">
 
 <!ENTITY  language.label                          "Schriftarten für">
 <!ENTITY  language.accesskey                      "S">
