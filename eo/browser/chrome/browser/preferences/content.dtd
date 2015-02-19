@@ -43,6 +43,8 @@
 <!ENTITY translation.options.attribution.beforeLogo "Tradukoj faritaj de">
 <!ENTITY translation.options.attribution.afterLogo "">
 
-<!ENTITY  playDRMContent.label         "Play DRM content">
-<!ENTITY  playDRMContent.accesskey     "P">
-<!ENTITY  playDRMContent.learnMore.label "Learn more">
+<!ENTITY  drmContent.label             "Enhavo DRM">
+
+<!ENTITY  playDRMContent.label         "Ludi enhavon DRM">
+<!ENTITY  playDRMContent.accesskey     "L">
+<!ENTITY  playDRMContent.learnMore.label "Pli da informo">
