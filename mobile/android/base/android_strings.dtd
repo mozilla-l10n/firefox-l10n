@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 
-<!ENTITY  no_space_to_start_error "Nu este spațiu disponibil suficient pentru ca &brandShortName; să poată porni.">
+<!ENTITY  no_space_to_start_error "Nu există spațiu disponibil suficient pentru ca &brandShortName; să pornească.">
 <!ENTITY  error_loading_file "A intervenit o eroare în timpul încărcării fișierelor necesare pentru a rula &brandShortName;">
 
 <!ENTITY  onboard_start_message "Bun venit la &brandShortName;!">
@@ -94,9 +94,13 @@
 <!-- Localization note (overlay_share_label) : This is the label that appears
      in Android's intent chooser when sending a link to Firefox to bookmark,
      send to another device, or add to Reading List. -->
+
+<!ENTITY overlay_share_label "Adaugă la &brandShortName;">
 <!-- Localization note (overlay_share_bookmark_btn_label) : This string is
      used in the share overlay menu to select an action. It is the verb
      "to bookmark", not the noun "a bookmark". -->
+
+<!ENTITY overlay_share_bookmark_btn_label "Semn de carte">
 <!ENTITY overlay_share_reading_list_btn_label "Adăugați în lista de citit">
 <!ENTITY overlay_share_bookmark_btn_label_already "Deja marcat">
 <!ENTITY overlay_share_reading_list_btn_label_already "Deja în lista de citit">
@@ -111,9 +115,10 @@
 <!ENTITY overlay_share_retry "Încearcă din nou">
 <!ENTITY overlay_share_select_device "Selectați un dispozitiv">
 
+<!ENTITY pref_category_search3 "Caută">
 <!ENTITY pref_category_search_summary "Personalizează furnizorii de motoare de căutare">
 <!ENTITY pref_category_display "Ecran">
-<!ENTITY pref_category_display_summary "Text, bara de titlu, navigare pe intregul ecran">
+<!ENTITY pref_category_display_summary "Text, bară de titlu, navigare pe întregul ecran">
 <!ENTITY pref_category_privacy_short "Confidențialitate">
 <!ENTITY pref_category_privacy_summary "Gestionați parole, cookies, istoric, data">
 <!ENTITY pref_category_vendor "&vendorShortName;">
@@ -122,7 +127,7 @@
 <!ENTITY pref_learn_more "Aflați mai multe">
 <!ENTITY pref_category_installed_search_engines "Motoare de căutare instalate">
 <!ENTITY pref_category_add_search_providers "Adăugați mai multe motoare de căutare">
-
+<!ENTITY pref_category_search_restore_defaults "Restaurează motoarele de căutare">
 <!ENTITY pref_search_restore_defaults "Revino la opțiunile inițiale">
 <!ENTITY pref_search_restore_defaults_summary "Revino la opțiunile inițiale">
 <!-- Localization note (pref_search_hint) : "TIP" as in "hint", "clue" etc. Displayed as an
@@ -150,7 +155,7 @@
 <!ENTITY pref_home_updates "Actualizări automate">
 
 
-
+<!ENTITY pref_home_suggested_sites "Arată sugestii de saituri">
 <!ENTITY pref_home_suggested_sites_summary "Afișează linkuri pe pagina de pornire către alte pagini pe care noi credem că te-ar interesa">
 <!-- Localization note: These are shown in the left sidebar on tablets -->
 
@@ -167,17 +172,18 @@
 <!ENTITY pref_cookies_not_accept_foreign "Activat, excluzând terții">
 <!ENTITY pref_cookies_disabled "Dezactivată">
 
-
+<!ENTITY pref_tracking_protection_title "Protecție de urmărire">
+<!ENTITY pref_tracking_protection_summary "&brandShortName; va împiedica saiturile să vă urmărească">
 <!ENTITY pref_donottrack_title "Nu înregistra acțiunile utilizatorilor">
 <!ENTITY pref_donottrack_summary "&brandShortName; va spune siteurilor că nu dorești ca ei să înregistreze acțiunile tale pe paginile lor">
 
 <!ENTITY pref_char_encoding "Arată codarea caracterelor">
 <!ENTITY pref_char_encoding_on "Arată meniul">
 <!ENTITY pref_char_encoding_off "Nu arăta meniul">
-
+<!ENTITY pref_clear_private_data2 "Curăță acum">
 <!ENTITY pref_clear_private_data_category "Curăță datele private">
-
-
+<!ENTITY pref_clear_on_exit_title2 "Curăță la ieșire">
+<!ENTITY pref_clear_on_exit_summary2 "&brandShortName; va șterge automat datele de fiecare dată când selectezi \u0022Ieși\u0022 din meniul principal">
 
 <!ENTITY pref_plugins "Module">
 <!ENTITY pref_plugins_enabled "Activat">
@@ -213,12 +219,12 @@ size. -->
 <!ENTITY pref_search_suggestions "Arată sugestii de căutare">
 <!ENTITY pref_import_android "Import din Android">
 
-
-
-
+<!ENTITY pref_private_data_history2 "Istoricul navigării">
+<!ENTITY pref_private_data_formdata "Istoric de formulare și căutări">
+<!ENTITY pref_private_data_cookies2 "Cookie-uri și autentificări active">
 <!ENTITY pref_private_data_passwords "Parole salvate">
 <!ENTITY pref_private_data_cache "Cache">
-<!ENTITY pref_private_data_offlineApps "Date de sait pentru acces offline">
+<!ENTITY pref_private_data_offlineApps "Datele saiturilor offline">
 <!ENTITY pref_private_data_siteSettings2 "Setările saitului">
 
 
