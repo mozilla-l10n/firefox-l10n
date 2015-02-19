@@ -1,12 +1,20 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY offlineDialog.title              "Offline-Einstellungen">
 
-<!ENTITY textStartUp                      "Beim Programmstart:">
+<!ENTITY checkAutoDetect.label "Automatisch erkannten Online-/Offline-Status verwenden">
+<!ENTITY checkAutoDetect.accesskey "u">
+<!ENTITY titleStartUp "Benutzerdefinierter Zustand beim Programmstart:">
 <!ENTITY radioRememberPrevState.label     "Vorherigen Online-/Offline-Status merken">
 <!ENTITY radioRememberPrevState.accesskey "V">
-<!ENTITY radioAskMe.label                 "Fragen, ob man online arbeiten möchte">
-<!ENTITY radioAskMe.accesskey             "F">
+<!ENTITY radioAskState.label "Fragen, ob man online arbeiten möchte">
+<!ENTITY radioAskState.accesskey "F">
 <!ENTITY radioAlwaysOnline.label          "Immer online starten">
 <!ENTITY radioAlwaysOnline.accesskey      "I">
+<!ENTITY radioAlwaysOffline.label "Immer offline starten">
+<!ENTITY radioAlwaysOffline.accesskey "m">
 
 <!ENTITY textGoingOnline                  "Postausgang senden, sobald man im Online-Modus ist:">
 <!ENTITY radioAutoSend.label              "Ja">

@@ -23,6 +23,8 @@
 <!ENTITY contextManual.accesskey "u">
 <!ENTITY contextBeforeCls.label "Vor Junk-Erkennung ausführen">
 <!ENTITY contextAfterCls.label "Nach Junk-Erkennung ausführen">
+<!ENTITY contextOutgoing.label "Versand">
+<!ENTITY contextOutgoing.accesskey "V">
 
 <!ENTITY filterActionDesc.label "Auszuführende Aktionen:">
 <!ENTITY filterActionDesc.accesskey "z">
