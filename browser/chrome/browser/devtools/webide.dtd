@@ -79,7 +79,7 @@
 <!ENTITY details_location "Posizione">
 <!ENTITY details_manifestURL "ID app">
 <!ENTITY details_removeProject_button "Rimuovi progetto">
-<!ENTITY logs_title "Registro comandi pre-packaging">
+<!ENTITY details_showPrepackageLog_button "Visualizza registro pre-packaging">
 <!ENTITY newAppWindowTitle "Nuova app">
 <!ENTITY newAppHeader "Seleziona modello">
 <!ENTITY newAppLoadingTemplate "Caricamento modelli…">
@@ -142,3 +142,4 @@
 <!ENTITY wifi_auth_no_scanner "Nessuna richiesta di scansione del QR?">
 <!ENTITY wifi_auth_yes_scanner "Viene visualizzata una richiesta di scansione del QR?">
 <!ENTITY wifi_auth_token_request "Se l’altro dispositivo richiede un token invece della scansione di un codice QR, inserire il seguente codice:">
+<!ENTITY logs_title "Registro comandi pre-packaging">
