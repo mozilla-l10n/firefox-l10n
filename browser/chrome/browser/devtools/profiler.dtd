@@ -11,8 +11,14 @@
 <!-- LOCALIZATION NOTE (profilerUI.emptyNotice1/2): This is the label shown
   -  in the call list view when empty. -->
 
+
+
+<!ENTITY profilerUI.emptyNotice1    "Clic pe">
+
 <!-- LOCALIZATION NOTE (profilerUI.stopNotice1/2): This is the label shown
   -  in the call list view while recording a profile. -->
+
+<!ENTITY profilerUI.stopNotice1    "Clic pe">
 
 <!-- LOCALIZATION NOTE (profilerUI.loadingNotice): This is the label shown
   -  in the call list view while loading a profile. -->
@@ -41,7 +47,7 @@
 
 
 
-
+<!ENTITY profilerUI.table.samples         "Exemple">
 <!ENTITY profilerUI.table.function        "Funcție">
 <!-- LOCALIZATION NOTE (profilerUI.newtab.tooltiptext): The tooltiptext shown
   -  on the "+" (new tab) button for a profile when a selection is available. -->

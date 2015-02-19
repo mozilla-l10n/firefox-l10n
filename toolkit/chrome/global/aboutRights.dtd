@@ -66,7 +66,7 @@
 
 <!ENTITY rights.locationawarebrowsing-a "Navigare conștientă de locație: ">
 <!ENTITY rights.locationawarebrowsing-b "e întotdeauna opțională. Nu se transmit niciodată informații despre locația dumneavoastră fără a vi se cere permisiunea. Dacă doriți să dezactivați această funcționalitate, urmați acești pași:">
-<!ENTITY rights.locationawarebrowsing-term1a "În bara adresei, tastați ">
+<!ENTITY rights.locationawarebrowsing-term1a "În bara adresei URL, tastați ">
 <!ENTITY rights.locationawarebrowsing-term1b "despre:configurație">
 <!ENTITY rights.locationawarebrowsing-term2 "Tastați geo.enabled">
 <!ENTITY rights.locationawarebrowsing-term3 "Clic dublu pe preferința geo.enabled">

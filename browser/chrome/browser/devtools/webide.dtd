@@ -11,6 +11,7 @@
 
 
 
+<!ENTITY projectMenu_selectApp_label "Deschide aplicația…">
 
 
 
@@ -18,10 +19,9 @@
 
 
 
+<!ENTITY projectMenu_remove_label "Elimină proiect">
 
-
-
-
+<!ENTITY projectMenu_showPrefs_label "Preferințe">
 
 
 
@@ -29,13 +29,13 @@
 
 <!ENTITY runtimeMenu_disconnect_label "Deconectare">
 
-
+<!ENTITY runtimeMenu_showPermissionTable_label "Tabelă de permisiuni">
 
 <!ENTITY runtimeMenu_takeScreenshot_label "Captură de ecran">
 
+<!ENTITY runtimeMenu_showDetails_label "Informații despre timpul de execuție">
 
-
-
+<!ENTITY runtimeMenu_showMonitor_label "Monitorizare">
 
 <!ENTITY runtimeMenu_showDevicePrefs_label "Preferințele pentru dispozitiv">
 
@@ -71,7 +71,7 @@
 <!ENTITY runtimePanel_usb "Dispozitive USB">
 <!ENTITY runtimePanel_wifi "Dispozitive Wi-Fi">
 <!ENTITY runtimePanel_simulator "Simulatoare">
-
+<!ENTITY runtimePanel_other "Altceva">
 <!ENTITY runtimePanel_installsimulator "Instalare simulator">
 
 <!ENTITY runtimePanel_nousbdevice "Nu îți poți vedea dispozitivul?">
@@ -96,8 +96,10 @@
 
 <!ENTITY deck_close "Închidere">
 <!-- Addons -->
-
+<!ENTITY addons_aboutaddons "Deschide gestionarul de suplimente">
 <!-- Prefs -->
+
+<!ENTITY prefs_title "Preferințe">
 <!ENTITY prefs_editor_title "Editor">
 <!ENTITY prefs_general_title "General">
 <!ENTITY prefs_restore "Restaurează setările implicite">
@@ -139,7 +141,7 @@
 <!ENTITY devicepreferences_title "Preferințele pentru dispozitiv">
 <!ENTITY devicepreferences_search "Preferințe de căutare">
 <!ENTITY devicepreferences_newname "Nume pentru preferință nouă">
-
+<!ENTITY devicepreferences_newtext "Valoare preferință">
 <!ENTITY devicepreferences_addnew "Adăugați preferință nouă">
 <!ENTITY devicepreferences_typeboolean "Adevărat/fals">
 <!ENTITY devicepreferences_typenumber "Număr">
