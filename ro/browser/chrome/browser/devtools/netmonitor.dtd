@@ -268,8 +268,12 @@
 <!ENTITY netmonitorUI.summary.rawHeaders "Antete raw">
 <!-- LOCALIZATION NOTE (debuggerUI.summary.rawHeaders.requestHeaders): This is the label displayed
   -  in the network details headers tab identifying the raw request headers textarea -->
+
+<!ENTITY netmonitorUI.summary.rawHeaders.requestHeaders "Antete cerere:">
 <!-- LOCALIZATION NOTE (debuggerUI.summary.rawHeaders.responseHeaders): This is the label displayed
   -  in the network details headers tab identifying the raw response headers textarea -->
+
+<!ENTITY netmonitorUI.summary.rawHeaders.responseHeaders "Antete răspuns:">
 <!-- LOCALIZATION NOTE (netmonitorUI.context.newTab):  This is the label
   -  for the Open in New Tab menu item displayed in the context menu of the
   -  network container  -->
