@@ -44,4 +44,4 @@
 <!ENTITY csscoverage.footer1 "Vezi">
 <!ENTITY csscoverage.footer2a "https://developer.mozilla.org/docs/Tools/CSS_Coverage">
 <!ENTITY csscoverage.footer3 "articolul MDN pe instrumentul de acoperire CSS">
-
+<!ENTITY csscoverage.footer4 "pentru restricții la generarea unei acestui raport.">
