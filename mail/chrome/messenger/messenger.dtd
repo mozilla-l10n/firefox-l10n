@@ -453,8 +453,8 @@
 <!ENTITY imAccountsStatus.label "Stanje klepeta">
 <!ENTITY imAccountsStatus.accesskey "n">
 <!ENTITY imStatus.available          "Dosegljiv">
-<!ENTITY imStatus.unavailable        "Odsoten">
-<!ENTITY imStatus.offline            "Nedosegljiv">
+<!ENTITY imStatus.unavailable        "Nedosegljiv">
+<!ENTITY imStatus.offline            "Nepovezan">
 <!ENTITY imStatus.showAccounts       "Pokaži račune …">
 <!ENTITY joinChatCmd.label "Pridruži se klepetu …">
 <!ENTITY joinChatCmd.accesskey "ž">
