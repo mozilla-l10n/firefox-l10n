@@ -795,11 +795,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      a CSS length value. -->
 <!ENTITY pluginNotification.width "28em">
 
-<!ENTITY tabCrashed.header "Paneo de langeto">
-<!ENTITY tabCrashed.message "Nu, tio estas hontiga. Ni klopodis montri tiun retpaĝon, sed ĝi ne reagas.">
-<!ENTITY tabCrashed.checkSendReport "Raporti al &vendorShortName; pri tiu ĉi paneo, tiel ke ili povos fari ion por eviti ĝin.">
-<!ENTITY tabCrashed.tryAgain "Klopodi denove">
-
 <!ENTITY uiTour.infoPanel.close "Fermi">
 
 <!ENTITY appMenuSidebars.label         "Flankaj strioj">
@@ -831,3 +826,11 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY panicButton.thankyou.msg2                "Sekura retesploro!">
 <!ENTITY panicButton.thankyou.buttonlabel         "Dankon!">
 
+<!ENTITY processHang.terminateScript.label        "Haltigi skripton">
+<!ENTITY processHang.terminateScript.accessKey    "s">
+<!ENTITY processHang.debugScript.label            "Sencimigi skripton">
+<!ENTITY processHang.debugScript.accessKey        "c">
+<!ENTITY processHang.terminatePlugin.label        "Ĉesigi kromprogramon">
+<!ENTITY processHang.terminatePlugin.accessKey    "k">
+<!ENTITY processHang.terminateProcess.label       "Ĉesigi Teksaĵan procezon">
+<!ENTITY processHang.terminateProcess.accessKey   "p">
