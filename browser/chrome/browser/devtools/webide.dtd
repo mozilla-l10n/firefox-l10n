@@ -41,6 +41,8 @@
 <!ENTITY runtimeMenu_showMonitor_accesskey "K">
 <!ENTITY runtimeMenu_showDevicePrefs_label "Preferoj de aparato">
 <!ENTITY runtimeMenu_showDevicePrefs_accesskey "P">
+<!ENTITY runtimeMenu_showSettings_label "Agordoj de aparato">
+<!ENTITY runtimeMenu_showSettings_accesskey "a">
 
 <!ENTITY viewMenu_label "Vidi">
 <!ENTITY viewMenu_accesskey "V">
@@ -143,20 +145,30 @@
 <!ENTITY runtimedetails_adbIsRoot "ADB estas radiko: ">
 <!ENTITY runtimedetails_summonADBRoot "radika aparato">
 <!ENTITY runtimedetails_ADBRootWarning "(tio postulas neblokitan ŝargilon de startigilo)">
-<!ENTITY runtimedetails_restrictedPrivileges "DevTools malvastigitaj privilegioj: ">
+<!ENTITY runtimedetails_unrestrictedPrivileges "Senlimaj privilegioj de DevTools: ">
 <!ENTITY runtimedetails_requestPrivileges "peti pli altajn privilegiojn">
 <!ENTITY runtimedetails_privilegesWarning "(Tio restartigos la aparaton. Aliro kiel root estas postulata.)">
 
+<!-- Device Preferences and Settings -->
+<!ENTITY device_typeboolean "Logika">
+<!ENTITY device_typenumber "Numero">
+<!ENTITY device_typestring "Teksto">
+<!ENTITY device_typeobject "Objekto">
+<!ENTITY device_typenone "Elekti tipon">
+
 <!-- Device Preferences -->
-<!ENTITY devicepreferences_title "Preferoj de aparato">
-<!ENTITY devicepreferences_search "Preferoj de serĉo">
-<!ENTITY devicepreferences_newname "Nova nomo de prefero">
-<!ENTITY devicepreferences_newtext "Valoro de prefero">
-<!ENTITY devicepreferences_addnew "Aldoni novan preferon">
-<!ENTITY devicepreferences_typeboolean "Bulea">
-<!ENTITY devicepreferences_typenumber "Plennombra">
-<!ENTITY devicepreferences_typestring "Teksta">
-<!ENTITY devicepreferences_typenone "Elektu tipon">
+<!ENTITY devicepreference_title "Preferoj de aparato">
+<!ENTITY devicepreference_search "Preferoj de serĉo">
+<!ENTITY devicepreference_newname "Nomo de nova prefero">
+<!ENTITY devicepreference_newtext "Valoro de prefero">
+<!ENTITY devicepreference_addnew "Aldoni novan preferon">
+
+<!-- Device Settings -->
+<!ENTITY devicesetting_title "Agordoj de aparato">
+<!ENTITY devicesetting_search "Agordoj de serĉo">
+<!ENTITY devicesetting_newname "Nova nomo de agordo">
+<!ENTITY devicesetting_newtext "Valoro de agordo">
+<!ENTITY devicesetting_addnew "Aldoni novan agordon">
 
 <!-- Monitor -->
 <!ENTITY monitor_title "Kontrolilo">
