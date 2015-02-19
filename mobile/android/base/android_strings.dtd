@@ -366,4 +366,5 @@
 <!ENTITY voicesearch_failed_message_recoverable "Siamo spiacenti, non è stato possibile riconoscere le parole. Riprovare.">
 <!ENTITY voicesearch_failed_retry "Riprova">
 <!ENTITY remote_tabs_last_synced "Ultima sinc.: &formatS;">
+<!ENTITY remote_tabs_never_synced "Ultima sinc.: mai">
 <!ENTITY find_matchcase "Aa">
