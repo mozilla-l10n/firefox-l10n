@@ -73,6 +73,11 @@
 <!ENTITY profilerUI.invertTree             "Inversigi arbon de vokoj">
 <!ENTITY profilerUI.invertTree.tooltiptext "Post inversigo de la arbo de vokoj, la analizitaj vokaj vojoj estos montritaj tiel ke la pli junaj kadroj aperos unue, etendigeblaj al la pli maljunaj kadroj.">
 
+<!-- LOCALIZATION NOTE (profilerUI.invertFlameGraph): This is the label shown next to
+  -  a checkbox that inverts and un-inverts the profiler's flame graph. -->
+<!ENTITY profilerUI.invertFlameGraph             "Inversigi flaman grafikaĵon">
+<!ENTITY profilerUI.invertFlameGraph.tooltiptext "Post inversigo de la flama grafikaĵo, la analizitaj vokaj vojoj estos montritaj tiel ke la pli junaj kadroj aperos unue, etendigeblaj al la pli maljunaj kadroj.">
+
 <!-- LOCALIZATION NOTE (profilerUI.showPlatformData): This is the
   -  label for the checkbox that toggles whether or not Gecko platform data
   -  is displayed in the profiler. -->

@@ -24,3 +24,5 @@
 <!ENTITY spellNoSuggestions.label "(Neniu sugesto pri literumado)">
 <!ENTITY spellDictionaries.label "Lingvoj">
 <!ENTITY spellDictionaries.accesskey "L">
+
+<!ENTITY searchTextBox.clear.label "Viŝi">
