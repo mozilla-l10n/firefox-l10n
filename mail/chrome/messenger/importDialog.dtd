@@ -15,9 +15,9 @@ LOCALIZATION NOTE : Do not translate any of the occurrences of the word
 <!ENTITY importAll.accesskey      "e">
 <!ENTITY importMail.label         "Pošto">
 <!ENTITY importMail.accesskey     "P">
-<!ENTITY importFeeds.label        "Naročnine za novice">
-<!ENTITY importFeeds.accesskey    "r">
-<!ENTITY importAddressbook.label  "Imeniki">
+<!ENTITY importFeeds.label        "Naročnine na vire">
+<!ENTITY importFeeds.accesskey    "a">
+<!ENTITY importAddressbook.label  "Imenike">
 <!ENTITY importAddressbook.accesskey "m">
 <!ENTITY importSettings.label     "Nastavitve">
 <!ENTITY importSettings.accesskey "N">
@@ -31,15 +31,15 @@ LOCALIZATION NOTE : Do not translate any of the occurrences of the word
 <!ENTITY importShortDesc.label    "Uvozite pošto, imenike, nastavitve in filtre iz drugih programov">
 
 <!ENTITY importDescription1.label "S tem čarovnikom boste uvozili poštna sporočila, vnose v imeniku, naročnine na vire, nastavitve in/ali filtre iz drugih poštnih programov in pogostih oblik imenikov v &brandShortName;.">
-<!ENTITY importDescription2.label "Ko jih boste enkrat uvozili, jih boste lahko uporabljali kar v &brandShortName;.">
+<!ENTITY importDescription2.label "Ko jih boste uvozili, jih boste lahko uporabljali kar v &brandShortName;u.">
 
 <!ENTITY selectDescription.label  "Izberite vrsto datoteke, ki jo želite uvoziti:">
 <!ENTITY selectDescriptionB.label "Izberite obstoječi račun ali odprite novega:">
 <!ENTITY selectDescription.accesskey "z">
 <!ENTITY acctName.label           "Ime:">
-<!ENTITY acctName.accesskey       "I">
+<!ENTITY acctName.accesskey       "m">
 
-<!ENTITY back.label               "&lt; nazaj">
+<!ENTITY back.label               "&lt; Nazaj">
 <!ENTITY forward.label            "Naprej &gt;">
 <!ENTITY finish.label             "Končaj">
 <!ENTITY cancel.label             "Prekliči">
@@ -47,4 +47,4 @@ LOCALIZATION NOTE : Do not translate any of the occurrences of the word
 <!ENTITY select.label             "ali izberite vrsto podatkov, ki jih želite uvoziti:">
 
 <!ENTITY title.label              "Naziv">
-<!ENTITY processing.label         "Uvoz …">
+<!ENTITY processing.label         "Uvažanje …">
