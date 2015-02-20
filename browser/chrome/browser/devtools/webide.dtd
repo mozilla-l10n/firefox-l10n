@@ -94,6 +94,7 @@
 <!ENTITY details_location "Emplacement">
 <!ENTITY details_manifestURL "Identifiant de l'application">
 <!ENTITY details_removeProject_button "Supprimer le projet">
+<!ENTITY details_showPrepackageLog_button "Afficher le journal pré-empaquetage">
 
 <!-- New App -->
 <!ENTITY newAppWindowTitle "Nouvelle application">
@@ -191,3 +192,6 @@
 <!-- LOCALIZATION NOTE (wifi_auth_token_request): Instructions requesting the
      user to transfer authentication info by transferring a token. -->
 <!ENTITY wifi_auth_token_request "Si l'autre appareil demande un jeton à la place d'un QR code, veuillez recopier la valeur ci-dessous sur l'autre appareil :">
+
+<!-- Logs panel -->
+<!ENTITY logs_title "Journaux de la commande de pré-empaquetage">
