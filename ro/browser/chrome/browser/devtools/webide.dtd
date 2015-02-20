@@ -4,29 +4,30 @@
 
 <!ENTITY windowTitle "Firefox WebIDE">
 
-
+<!ENTITY projectMenu_label "Proiect">
+<!ENTITY projectMenu_accesskey "P">
 <!ENTITY projectMenu_newApp_label "Aplicație nouă…">
+<!ENTITY projectMenu_newApp_accesskey "N">
 
+<!ENTITY projectMenu_importPackagedApp_accesskey "P">
 
-
-
-
+<!ENTITY projectMenu_importHostedApp_accesskey "H">
 <!ENTITY projectMenu_selectApp_label "Deschide aplicația…">
+<!ENTITY projectMenu_selectApp_accesskey "O">
 
+<!ENTITY projectMenu_play_accesskey "I">
 
+<!ENTITY projectMenu_stop_accesskey "S">
 
-
-
-
-
+<!ENTITY projectMenu_debug_accesskey "D">
 <!ENTITY projectMenu_remove_label "Elimină proiect">
-
+<!ENTITY projectMenu_remove_accesskey "R">
 <!ENTITY projectMenu_showPrefs_label "Preferințe">
+<!ENTITY projectMenu_showPrefs_accesskey "e">
 
+<!ENTITY projectMenu_manageComponents_accesskey "M">
 
-
-
-
+<!ENTITY runtimeMenu_accesskey "R">
 <!ENTITY runtimeMenu_disconnect_label "Deconectare">
 
 <!ENTITY runtimeMenu_showPermissionTable_label "Tabelă de permisiuni">
@@ -43,23 +44,28 @@
 <!ENTITY viewMenu_label "Vizualizează">
 
 <!ENTITY viewMenu_toggleEditor_label "Comută editorul">
-
+<!ENTITY viewMenu_toggleEditor_accesskey "E">
 <!ENTITY viewMenu_zoomin_label "Apropie">
-
+<!ENTITY viewMenu_zoomin_accesskey "I">
 <!ENTITY viewMenu_zoomout_label "Depărtează">
+<!ENTITY viewMenu_zoomout_accesskey "O">
 
-
-
+<!ENTITY viewMenu_resetzoom_accesskey "R">
 
 <!ENTITY projectButton_label "Deschide aplicația">
 
 <!-- We try to repicate Firefox' bindings: -->
 <!-- quit app -->
+
+<!ENTITY key_quit "W">
 <!-- open menu -->
+<!ENTITY key_showProjectPanel "O">
 <!-- reload app -->
+<!ENTITY key_play "R">
 <!-- show toolbox -->
 <!ENTITY key_toggleToolbox "VK_F12">
 <!-- toggle sidebar -->
+<!ENTITY key_toggleEditor "B">
 <!-- zoom -->
 
 
