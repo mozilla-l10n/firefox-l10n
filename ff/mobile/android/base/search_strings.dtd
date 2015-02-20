@@ -1,8 +1,12 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY search_app_name "Njiilaw &brandShortName;">
 <!--  Localization note (search_bar_hint): The &formatS; will be replaced with the name of
       the currently selected search engine. -->
+
+<!ENTITY search_bar_hint "Yiyloto &formatS;">
 
 <!ENTITY search_empty_title2 "Fuɗɗo yiylaade">
 <!ENTITY search_empty_message "Yiylo ko yaawi kala ko njiɗ-ɗaa">
@@ -23,4 +27,4 @@
 <!ENTITY search_widget_button_label "Yiylo">
 
 <!ENTITY network_error_title "Alaa ceŋol enternet">
-
+<!ENTITY network_error_message "Tappu ɗoo ngal ƴeewtaade teelte laylaytol maa">

@@ -408,6 +408,7 @@ size. -->
 <!ENTITY home_most_recent_empty "Lowe ɗe cakkiti-ɗaa yillaade njaltata ɗoo.">
 <!-- Localization note (home_most_recent_emptyhint2): "Psst" is a sound that might be used to attract someone's attention unobtrusively, and intended to hint at Private Browsing to the user.
      The placeholders &formatS1; and &formatS2; are used to mark the location of text underlining. -->
+<!ENTITY home_most_recent_emptyhint2 "Heee: huutoraade &formatS1;Tabbere Suturo Hesere&formatS2; danndataa aslol maa.">
 <!ENTITY home_reading_list_empty "Binndanɗe ndanndu-ɗaa njaltata ɗoo.">
 <!-- Localization note (home_reading_list_hint): The "TIP" string is synonymous to "hint", "clue", etc. This string is displayed
      as an advisory message on how to add content to the reading list when the reading list empty.
@@ -427,10 +428,10 @@ size. -->
 <!ENTITY home_move_up_to_filter "Haa t &formatS;">
 
 <!ENTITY home_remote_tabs_title "Tabbe synckaaɗe">
-
+<!ENTITY home_remote_tabs_empty "Tabbe maa iwɗe e kaɓirɗi goɗɗi njaltata ɗoo.">
 <!ENTITY home_remote_tabs_unable_to_connect "Horiima seŋaade">
-
-
+<!ENTITY home_remote_tabs_need_to_sign_in "Tiiɗno seŋo ngam jokkondirde e Konte Firefox maa kisa njokkaa canngoɗinal.">
+<!ENTITY home_remote_tabs_need_to_finish_migrating "Konte Firefox maa kese keblaama!">
 
 <!ENTITY home_remote_tabs_trouble_verifying "Caɗeele ƴeewtaade konte maa?">
 <!ENTITY home_remote_tabs_need_to_verify "Tiiɗno ƴeewto Konte maa Firefox ngam fuɗɗaade syncude.">
@@ -454,7 +455,7 @@ size. -->
 
 <!ENTITY remote_tabs_panel_moved_title "Hoto tabbe am ngoni?">
 <!ENTITY remote_tabs_panel_moved_desc "Min ndirtinii tabbe maa iwɗe e kaɓirɗi goɗɗi fayde e alluwal e hello jaɓɓorgo maa baawbgal heɓaade tuma kala nde uddit-ɗaa tabbere hesere.">
-
+<!ENTITY remote_tabs_panel_moved_link "Naw am to alluwal am kesal.">
 
 <!ENTITY pin_site_dialog_hint "Naatnu helmere njiilaw">
 
@@ -486,8 +487,10 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY blocked_mixed_content_message_bottom "Lowe ɓurɗe heewde maa mbaaw wanngeede hay so tawii ndii loowdi daaƴaama.">
 <!-- Tracking content notifications in site identity popup -->
 
-
-
+<!ENTITY loaded_tracking_content_message_top "Nddenka rewindo koko daaƴaa.">
+<!ENTITY loaded_tracking_content_message_bottom "Banngeeji e ngoo hello ena mbaawi rewindaade banngagol maa.">
+<!ENTITY blocked_tracking_content_message_top2 "Nddenka rewindo hurminaama.">
+<!ENTITY blocked_tracking_content_message_bottom2 "Geɗe ngoo hello ndewindotooɗe golle maa e geese ndaaƴaama.">
 <!-- Common mixed and tracking content strings in site identity popup -->
 
 <!ENTITY learn_more "Ɓeydu Humpito">
@@ -537,8 +540,8 @@ iwde e Android">
 <!ENTITY guest_session_dialog_cancel "Haaytu">
 <!ENTITY new_guest_session_title "&brandShortName; maa hurmu jooni">
 <!ENTITY new_guest_session_text "Neɗɗo kuutortooɗo ɗum oo waawataa yiyde hay baɗte e keɓe maa keeriiɗe (wano finndeeji danndaaɗi, aslol walla maantore).\n\n So koɗo haljitii, keɓe banngagol mum maa momte kisa naatannde maa artiree.">
-
-
+<!ENTITY guest_browsing_notification_title "Banngagol bismo hurmii">
+<!ENTITY guest_browsing_notification_text "Tappu ngam yaltude">
 
 <!ENTITY exit_guest_session_title "&brandShortName; maa hurmu jooni">
 <!ENTITY exit_guest_session_text "Keɓe banngagol ndee naatannde maa momte.">
@@ -549,6 +552,7 @@ iwde e Android">
 
 <!ENTITY ellipsis "…">
 
+<!ENTITY colon ":">
 <!-- These are only used for accessibility for the done and overflow-menu buttons in the actionbar.
      They are never shown to users -->
 
