@@ -169,6 +169,9 @@
 <!ENTITY fxaccount_confirm_account_change_email '메일 주소를 잊어버렸나요?'>
 <!ENTITY fxaccount_confirm_account_verification_link_sent2 '인증 메일 전송 됨'>
 <!ENTITY fxaccount_confirm_account_verification_link_not_sent2 '인증 메일을 전송할 수 없음'>
+<!ENTITY fxaccount_resend_unlock_code_button_label '해제 메일 재전송'>
+<!ENTITY fxaccount_unlock_code_sent '계정 해제 메일 전송 됨'>
+<!ENTITY fxaccount_unlock_code_not_sent '계정 해제 메일을 전송할 수 없음'>
 
 <!ENTITY fxaccount_sign_in_sub_header '로그인'>
 <!ENTITY fxaccount_sign_in_button_label '로그인'>
@@ -179,9 +182,15 @@
 <!ENTITY fxaccount_account_verified_sub_header '인증된 계정'>
 <!ENTITY fxaccount_account_verified_description2 '곧 데이터 동기화를 시작합니다.'>
 
+<!ENTITY fxaccount_migration_finished_header '업그레이드 완료'>
+
 <!ENTITY fxaccount_update_credentials_header '로그인'>
 <!ENTITY fxaccount_update_credentials_button_label '로그인'>
 <!ENTITY fxaccount_update_credentials_unknown_error '로그인 실패'>
+
+<!ENTITY fxaccount_finish_migrating_header '로그인하여 업그레이드 완료하기'>
+<!ENTITY fxaccount_finish_migrating_button_label '업그레이드 완료하기'>
+<!ENTITY fxaccount_finish_migrating_description '업그레이드는 많은 데이터 전송을 필요로 하므로, WiFi 네트워크 환경에서 진행하는 것을 권장합니다.'>
 
 <!ENTITY fxaccount_status_header2 'Firefox 계정'>
 <!ENTITY fxaccount_status_signed_in_as '로그인 됨'>
@@ -195,8 +204,10 @@
 <!ENTITY fxaccount_status_needs_verification2 '인증되지 않은 계정입니다. 인증 메일을 재전송하려면 누르세요.'>
 <!ENTITY fxaccount_status_needs_credentials '연결할 수 없습니다. 로그인 하시려면 누르세요.'>
 <!ENTITY fxaccount_status_needs_upgrade '로그인 하려면 &brandShortName;를 업그레이드 해야 합니다.'>
-<!ENTITY fxaccount_status_needs_master_sync_automatically_enabled '&syncBrand.shortName.label;가 설치되었지만 자동으로 동기화되지 않았습니다. 안드로이드 환경 설정 &gt; 데이터 사용에서 \"데이터 자동 동기화\"를 활성화하세요.'>
+<!ENTITY fxaccount_status_needs_master_sync_automatically_enabled '&syncBrand.shortName.label;가 설치되었지만 자동으로 동기화되지는 않습니다. 안드로이드 환경 설정 &gt; 데이터 사용에서 \"데이터 자동 동기화\"를 활성화하세요.'>
+<!ENTITY fxaccount_status_needs_master_sync_automatically_enabled_v21 '&syncBrand.shortName.label;가 설치되었지만, 자동으로 동기화되지는 않습니다. 안드로이드 환경 설정 &gt; 계정에서 “데이터 자동 동기화”를 활성화하세요.'>
 <!ENTITY fxaccount_status_needs_account_enabled '&syncBrand.shortName.label;가 설치되었지만 자동으로 동기화 되지 않았습니다. 동기화를 시작하려면 탭하세요.'>
+<!ENTITY fxaccount_status_needs_finish_migrating '새 Firefox 계정을 로그인하세요.'>
 <!ENTITY fxaccount_status_bookmarks '북마크'>
 <!ENTITY fxaccount_status_history '방문 기록'>
 <!ENTITY fxaccount_status_passwords '암호'>
@@ -245,9 +256,14 @@
 <!ENTITY fxaccount_remote_error_SERVICE_TEMPORARILY_UNAVAILABLE_TO_DUE_HIGH_LOAD '서버 혼잡함, 잠시 후 다시 시도'>
 <!ENTITY fxaccount_remote_error_UNKNOWN_ERROR '문제가 있음'>
 <!ENTITY fxaccount_remote_error_COULD_NOT_CONNECT '네트워크에 연결 할 수 없음'>
+<!ENTITY fxaccount_remote_error_ACCOUNT_LOCKED '계정이 잠겼습니다. &formatS1;'>
 
 <!ENTITY fxaccount_sync_sign_in_error_notification_title2 '&syncBrand.shortName.label;가 연결되지 않음'>
 <!-- Note to translators: the format string below will be replaced
      with the Firefox account's email address. -->
 <!ENTITY fxaccount_sync_sign_in_error_notification_text2 '&formatS;로 로그인하기'>
 
+<!ENTITY fxaccount_sync_finish_migrating_notification_title '&syncBrand.shortName.label; 업그레이드 완료하기?'>
+<!-- Localization note: the format string below will be replaced
+     with the Firefox Account's email address. -->
+<!ENTITY fxaccount_sync_finish_migrating_notification_text '&formatS; 계정으로 로그인하기'>
