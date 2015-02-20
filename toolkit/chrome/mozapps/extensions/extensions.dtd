@@ -5,6 +5,7 @@
 <!ENTITY addons.windowTitle                   "Správca doplnkov">
 
 <!ENTITY search.placeholder                   "Hľadať v doplnkoch">
+<!ENTITY search.buttonlabel                   "Hľadať">
 <!-- LOCALIZATION NOTE (search.commandKey):
      The search command key should match findOnCmd.commandkey from browser.dtd -->
 <!ENTITY search.commandkey                    "f">
