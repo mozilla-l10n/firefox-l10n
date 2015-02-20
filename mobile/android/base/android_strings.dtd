@@ -172,10 +172,10 @@
 <!ENTITY pref_cookies_not_accept_foreign "Увімкнено, включно з третьосторонніми">
 <!ENTITY pref_cookies_disabled "Вимкнено">
 
-<!ENTITY pref_tracking_protection_title "Tracking protection">
-<!ENTITY pref_tracking_protection_summary "&brandShortName; will prevent sites from tracking you">
-<!ENTITY pref_donottrack_title "Do not track">
-<!ENTITY pref_donottrack_summary "&brandShortName; will tell sites that you do not want to be tracked">
+<!ENTITY pref_tracking_protection_title "Захист від стеження">
+<!ENTITY pref_tracking_protection_summary "&brandShortName; буде запобігати сайтам стежити за вами">
+<!ENTITY pref_donottrack_title "Не стежити">
+<!ENTITY pref_donottrack_summary "&brandShortName; буде повідомляти сайти, що ви не хочете, щоб за вами стежили">
 
 <!ENTITY pref_char_encoding "Кодування символів">
 <!ENTITY pref_char_encoding_on "Показувати меню">
@@ -344,7 +344,7 @@ size. -->
 <!-- Localization note (pref_scroll_title_bar2): Label for setting that controls
      whether or not the dynamic toolbar is enabled. -->
 <!ENTITY pref_scroll_title_bar2 "Повноекранний перегляд">
-<!ENTITY pref_scroll_title_bar_summary "Приховує панель заголовку &brandShortName; при прокрутці сторінки вниз">
+<!ENTITY pref_scroll_title_bar_summary "Приховує панель заголовка &brandShortName; при прокрутці сторінки вниз">
 
 <!-- Localization note (page_removed): This string appears in a toast message when
      any page is removed frome about:home. This includes pages that are in history,
