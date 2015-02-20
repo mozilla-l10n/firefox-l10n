@@ -6,16 +6,17 @@
 <!ENTITY  no_space_to_start_error "Boowal mbeɗu ena ŋakki ngam &brandShortName; waawa hurmude.">
 <!ENTITY  error_loading_file "Juumre waɗii tuma nde piille coklaaɗe etaa looweede ngam hurminde &brandShortName;">
 
-
-
-
+<!ENTITY  onboard_start_message "A jaɓɓaama e &brandShortName;!">
+<!ENTITY  onboard_start_subtext "Ena tiiɗa maa, suturo maa e Geese Udditiiɗe">
+<!ENTITY  onboard_start_button_account "Seŋo e &brandShortName;">
+<!ENTITY  onboard_start_button_browser "Fuɗɗo Peeragol">
 <!-- Localization note: These are used as the titles of different pages on the home screen.
      They are automatically converted to all caps by the Android platform. -->
 
 <!ENTITY  bookmarks_title "Maantore">
 <!ENTITY  history_title "Aslol">
 <!ENTITY  reading_list_title "Doggol Taro">
-
+<!ENTITY  recent_tabs_title "Tage Cakkitiiɗe">
 
 <!ENTITY  switch_to_tab "Yah to tabbere">
 
@@ -38,7 +39,9 @@
 
 <!ENTITY choose_file "Labo Fiilde">
 
+<!ENTITY url_bar_default_text2 "Yiylo walla naatnu ñiiɓirde">
 
+<!ENTITY bookmark "Maantorol">
 <!ENTITY bookmark_added "Maantorol ɓeydaama">
 <!ENTITY bookmark_removed "Maantorol omtaama">
 <!ENTITY bookmark_updated "Maantorol hesɗitinaama">
@@ -46,7 +49,7 @@
 
 <!ENTITY history_today_section "Hannde">
 <!ENTITY history_yesterday_section "Haŋki">
-
+<!ENTITY history_week_section2 "Yontere Ɓennunde">
 
 
 <!ENTITY go "Yah">
