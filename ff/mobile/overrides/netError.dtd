@@ -11,7 +11,7 @@
 
 
 <!ENTITY connectionFailure.title "Horiima seŋaade">
-
+<!ENTITY connectionFailure.longDesc2 "&sharedLongDesc3;">
 
 <!ENTITY deniedPortAccess.title "Ndee ñiiɓirde ko suraande">
 <!ENTITY deniedPortAccess.longDesc "">
