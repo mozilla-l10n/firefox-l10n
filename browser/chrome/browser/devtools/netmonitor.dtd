@@ -248,6 +248,8 @@
 <!ENTITY netmonitorUI.context.copyUrl.accesskey "u">
 <!-- LOCALIZATION NOTE (netmonitorUI.context.copyImageAsDataUri): This is the label displayed
   -  on the context menu that copies the selected image as data uri -->
+
+<!ENTITY netmonitorUI.context.copyImageAsDataUri "Copiere imagine ca dată URI">
 <!-- LOCALIZATION NOTE (netmonitorUI.context.copyImageAsDataUri.accesskey): This is the access key
   -  for the Copy Image As Data URI menu item displayed in the context menu for a request -->
 
