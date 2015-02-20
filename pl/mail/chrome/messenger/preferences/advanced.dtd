@@ -3,15 +3,12 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY itemGeneral.label      "Ogólne">
+<!ENTITY dataChoicesTab.label "Udostępnianie danych">
 <!ENTITY itemDisplay.label      "Treść">
 <!ENTITY itemUpdate.label       "Aktualizacja">
 <!ENTITY itemNetworking.label   "Sieć i miejsce na dysku">
 <!ENTITY itemCertificates.label "Certyfikaty">
 
-<!-- General Settings -->
-<!ENTITY submitTelemetry.label        "Przesyłaj dane o wydajności">
-<!ENTITY submitTelemetry.accesskey    "d">
-<!ENTITY telemetryInfoLink.label      "Więcej informacji o prywatności przesyłanych raportów.">
 <!ENTITY enableGlodaSearch.label      "Indeksowanie wiadomości i wyszukiwanie">
 <!ENTITY enableGlodaSearch.accesskey  "n">
 <!ENTITY allowHWAccel.label "Korzystaj z akceleracji sprzętowej, jeśli jest dostępna">
@@ -35,7 +32,18 @@
 <!ENTITY showReturnReceipts.label     "Opcje potwierdzeń…">
 <!ENTITY showReturnReceipts.accesskey "O">
 
-<!-- Display and Reading Settings -->
+<!ENTITY telemetrySection.label "Telemetria">
+<!ENTITY telemetryDesc.label "Udostępnianie organizacji &vendorShortName; danych o wydajności, wykorzystaniu, modyfikacjach programu pocztowego oraz o sprzęcie, na którym działa, ułatwia ulepszanie programu &brandShortName;.">
+<!ENTITY enableTelemetry.label "Telemetria">
+<!ENTITY enableTelemetry.accesskey "T">
+<!ENTITY telemetryLearnMore.label "Więcej informacji">
+
+<!ENTITY crashReporterSection.label "Awarie">
+<!ENTITY crashReporterDesc.label "&brandShortName; może przesyłać zgłoszenia awarii, aby ułatwić organizacji &vendorShortName; poprawianie stabilności i bezpieczeństwa programu pocztowego.">
+<!ENTITY enableCrashReporter.label "Zgłaszanie awarii">
+<!ENTITY enableCrashReporter.accesskey "Z">
+<!ENTITY crashReporterLearnMore.label "Więcej informacji">
+
 <!ENTITY reading.caption                    "Czytanie">
 <!ENTITY display.caption                    "Wyświetlanie">
 <!ENTITY showCondensedAddresses.label       "Pokazuj tylko nazwy kontaktów dla nadawców z mojej książki adresowej">
@@ -57,7 +65,6 @@
 <!ENTITY closeMsgOnMoveOrDelete.label       "Zamykaj okno/kartę wiadomości przy przenoszeniu lub usuwaniu">
 <!ENTITY closeMsgOnMoveOrDelete.accesskey   "Z">
 
-<!-- Update -->
 <!ENTITY updateApp.label "Aktualizacje programu &brandShortName;">
 <!ENTITY updateAuto.label "Instaluj aktualizacje automatycznie (zalecane: większe bezpieczeństwo)">
 <!ENTITY updateAuto.accesskey "I">
@@ -72,7 +79,6 @@
 <!ENTITY useService.label "Używaj usługi instalowania aktualizacji działającej w tle">
 <!ENTITY useService.accesskey "U">
 
-<!-- Networking and Disk Space -->
 <!ENTITY showSettings.label      "Ustawienia…">
 <!ENTITY showSettings.accesskey  "U">
 <!ENTITY proxiesConfigure.label  "Określ, w jaki sposób &brandShortName; ma się łączyć z Internetem">
@@ -93,7 +99,6 @@
 <!ENTITY clearCacheNow.label      "Wyczyść teraz">
 <!ENTITY clearCacheNow.accesskey  "W">
 
-<!-- Certificates -->
 <!ENTITY certSelection.description "Kiedy serwer żąda osobistego certyfikatu użytkownika:">
 <!ENTITY certs.auto                "wybierz certyfikat automatycznie">
 <!ENTITY certs.auto.accesskey      "c">

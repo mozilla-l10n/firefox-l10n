@@ -26,23 +26,23 @@
 
 <!ENTITY dataChoicesTab.label            "Udostępnianie danych">
 
-<!ENTITY healthReportSection.label       "&brandShortName; Health Report">
-<!ENTITY healthReportDesc.label "Pozwala zrozumieć wydajność przeglądarki i udostępnia dane o jej stanie organizacji &vendorShortName;">
-<!ENTITY enableHealthReport.label        "Włącz funkcję &brandShortName; Health Report">
+<!ENTITY healthReportSection.label "&brandShortName; Health Report">
+<!ENTITY healthReportDesc.label "Funkcja &brandShortName; Health Report pozwala zrozumieć wydajność przeglądarki i udostępnia dane o jej stanie organizacji &vendorShortName;.">
+<!ENTITY enableHealthReport.label "&brandShortName; Health Report">
 <!ENTITY enableHealthReport.accesskey "H">
-<!ENTITY healthReportLearnMore.label     "Więcej informacji">
+<!ENTITY healthReportLearnMore.label "Więcej informacji">
 
-<!ENTITY telemetrySection.label          "Telemetria">
-<!ENTITY telemetryDesc.label             "Udostępnia organizacji &vendorShortName; dane o wydajności, wykorzystaniu, modyfikacjach przeglądarki oraz o sprzęcie, na którym działa, aby pomóc nam w ulepszeniu programu &brandShortName;">
-<!ENTITY enableTelemetry.label           "Włącz telemetrię">
-<!ENTITY enableTelemetry.accesskey       "t">
-<!ENTITY telemetryLearnMore.label        "Więcej informacji">
+<!ENTITY telemetrySection.label "Telemetria">
+<!ENTITY telemetryDesc.label "Udostępnianie organizacji &vendorShortName; danych o wydajności, wykorzystaniu, modyfikacjach przeglądarki oraz o sprzęcie, na którym działa, ułatwia ulepszanie programu &brandShortName;.">
+<!ENTITY enableTelemetry.label "Telemetria">
+<!ENTITY enableTelemetry.accesskey "T">
+<!ENTITY telemetryLearnMore.label "Więcej informacji">
 
-<!ENTITY crashReporterSection.label      "Zgłaszanie awarii">
-<!ENTITY crashReporterDesc.label         "&brandShortName; przesyła zgłoszenia awarii, aby organizacja &vendorShortName; mogła poprawić stabilność i bezpieczeństwo przeglądarki">
-<!ENTITY enableCrashReporter.label       "Włącz zgłaszanie awarii">
-<!ENTITY enableCrashReporter.accesskey   "c">
-<!ENTITY crashReporterLearnMore.label    "Więcej informacji">
+<!ENTITY crashReporterSection.label "Awarie">
+<!ENTITY crashReporterDesc.label "&brandShortName; może przesyłać zgłoszenia awarii, aby ułatwić organizacji &vendorShortName; poprawianie stabilności i bezpieczeństwa przeglądarki.">
+<!ENTITY enableCrashReporter.label "Zgłaszanie awarii">
+<!ENTITY enableCrashReporter.accesskey "a">
+<!ENTITY crashReporterLearnMore.label "Więcej informacji">
 
 <!ENTITY networkTab.label                "Sieć">
 
