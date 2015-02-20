@@ -172,6 +172,8 @@
 <!ENTITY pref_cookies_not_accept_foreign "Aktivaj, krom la nerektaj">
 <!ENTITY pref_cookies_disabled "Malaktiva">
 
+<!ENTITY pref_tracking_protection_title "Protekto kontraŭ spurado">
+<!ENTITY pref_tracking_protection_summary "&brandShortName; evitos ke retejoj spuru vin">
 <!ENTITY pref_donottrack_title "Ne spuri">
 <!ENTITY pref_donottrack_summary "&brandShortName; informos al la retejoj ke vi ne volas esti spurita">
 
@@ -429,6 +431,8 @@ size. -->
 <!ENTITY home_remote_tabs_empty "Viaj langetoj el aliaj aparatoj, aperos ĉi tie.">
 <!ENTITY home_remote_tabs_unable_to_connect "Ne eblas konekti">
 <!ENTITY home_remote_tabs_need_to_sign_in "Bonvolu komenci seancon por rekonekti vian konton de Firefox kaj daŭrigi la speguladon.">
+<!ENTITY home_remote_tabs_need_to_finish_migrating "Via nova konto de Firefox pretas!">
+
 <!ENTITY home_remote_tabs_trouble_verifying "Ĉu estas problemo en la kontrolo de via konto?">
 <!ENTITY home_remote_tabs_need_to_verify "Bonvolu kontroli vian konton de Firefox por komenci speguli.">
 
@@ -525,12 +529,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY updater_apply_title2 "Havebla ĝisdatigo por &brandShortName;">
 <!ENTITY updater_apply_select2 "Tuŝu por ĝisdatigi">
-
-<!-- New tablet UI -->
-
-<!-- LOCALIZATION NOTE (new_tablet_restart): Notification displayed after the user toggles the new tablet UI in the settings screen.-->
-<!ENTITY new_tablet_restart "Restartigi la retesplorilo por ke la ŝanĝoj efektiviĝu">
-<!ENTITY new_tablet_pref "Aktivigi novan fasadon por tabulkomputilo">
 
 <!-- Guest mode -->
 <!ENTITY new_guest_session "Nova gasta seanco">
