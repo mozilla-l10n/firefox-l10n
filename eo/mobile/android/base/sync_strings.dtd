@@ -206,7 +206,9 @@
 <!ENTITY fxaccount_status_needs_credentials 'Ne eblas konekti. Tuŝetu por komenci seancon.'>
 <!ENTITY fxaccount_status_needs_upgrade 'Vi bezonas ĝisdatigi &brandShortName; por komenci seancon.'>
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled '&syncBrand.shortName.label; estas agordita, sed ĝi ne spegulas aŭtomate. Ŝaltu “Aŭtomate speguli datumojn“ en la Agordoj de Android &gt; Uzo de datumoj.'>
+<!ENTITY fxaccount_status_needs_master_sync_automatically_enabled_v21 '&syncBrand.shortName.label; estas agordita, sed ĝi ne spegulas aŭtomate. Ŝaltu “Aŭtomate speguli datumojn” en la menuo Agordoj de Android &gt; Kontoj.'>
 <!ENTITY fxaccount_status_needs_account_enabled '&syncBrand.shortName.label; estas agordita, sed ĝi ne spegulas aŭtomate. Tuŝetu por komenci speguli.'>
+<!ENTITY fxaccount_status_needs_finish_migrating 'Tuŝetu por komenci seancon en via nova konto de Firefox.'>
 <!ENTITY fxaccount_status_bookmarks 'Legosignoj'>
 <!ENTITY fxaccount_status_history 'Historio'>
 <!ENTITY fxaccount_status_passwords 'Pasvortoj'>
