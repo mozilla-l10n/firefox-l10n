@@ -80,7 +80,7 @@
 <!ENTITY certmgr.fields.label "Hodnota poľa">
 <!ENTITY certmgr.fields.accesskey             "H">
 <!ENTITY certmgr.hierarchy.label "Hierarchia certifikátu">
-<!ENTITY certmgr.hierarchy.accesskey          "c">
+<!ENTITY certmgr.hierarchy.accesskey2         "c">
 <!ENTITY certmgr.addException.label           "Pridať výnimku…">
 <!ENTITY certmgr.addException.accesskey       "n">
 
