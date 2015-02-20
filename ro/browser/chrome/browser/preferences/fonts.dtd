@@ -81,10 +81,10 @@
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.traditional):
      Translate "Chinese" as an adjective for an encoding, not as the name of the language. -->
 <!ENTITY languages.customize.Fallback.traditional "Chinese, Traditional">
-<!ENTITY languages.customize.Fallback.cyrillic    "Cyrillic">
+<!ENTITY languages.customize.Fallback.cyrillic    "Chirilic">
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.greek):
      Translate "Greek" as an adjective for an encoding, not as the name of the language. -->
-<!ENTITY languages.customize.Fallback.greek       "Greek">
+<!ENTITY languages.customize.Fallback.greek       "Grecesc">
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.hebrew):
      Translate "Hebrew" as an adjective for an encoding, not as the name of the language. -->
 <!ENTITY languages.customize.Fallback.hebrew      "Ebraic">
