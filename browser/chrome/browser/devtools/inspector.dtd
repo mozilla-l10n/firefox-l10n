@@ -59,10 +59,14 @@
      shown in the inspector contextual-menu for the item that lets users paste
      the HTML as the first child the current node -->
 
+<!ENTITY inspectorHTMLPasteFirstChild.label      "ಮೊದಲ ಚೈಲ್ಡ್‌ ಆಗಿ (F)">
+<!ENTITY inspectorHTMLPasteFirstChild.accesskey  "F">
 <!-- LOCALIZATION NOTE (inspectorHTMLPasteLastChild.label): This is the label
      shown in the inspector contextual-menu for the item that lets users paste
      the HTML as the last child the current node -->
 
+<!ENTITY inspectorHTMLPasteLastChild.label       "ಕೊನೆಯ ಚೈಲ್ಡ್‌ ಆಗಿ (L) ">
+<!ENTITY inspectorHTMLPasteLastChild.accesskey   "L">
 <!-- LOCALIZATION NOTE (inspectorHTMLDelete.label): This is the label shown in
      the inspector contextual-menu for the item that lets users delete the
      current node -->
