@@ -7,11 +7,20 @@
 <!ENTITY update.applyButtonBillboard.label "Zaktualizuj…">
 <!ENTITY update.applyButtonBillboard.accesskey "Z">
 
-<!ENTITY community.start2      "">
-<!ENTITY community.mozillaLink "&vendorShortName;">
-<!ENTITY community.middle2     ", ">
-<!ENTITY community.creditsLink "globalna społeczność">
-<!ENTITY community.end2        ", chcąca uczynić Internet lepszym, stworzyła program &brandShortName;. Wierzymy, że Internet powinien być otwarty, publiczny i dostępny dla wszystkich bez żadnych ograniczeń.">
+<!ENTITY warningDesc.version "Program &brandShortName; jest wersją rozwojową i może być niestabilny.">
+<!ENTITY warningDesc.telemetryDesc "Dane o wydajności, wykorzystaniu, modyfikacjach oraz o sprzęcie, na którym działa, są wysyłane do organizacji &vendorShortName;, aby ulepszać program &brandShortName;.">
+
+<!ENTITY community.exp.start "">
+<!ENTITY community.exp.mozillaLink "&vendorShortName;">
+<!ENTITY community.exp.middle " jest ">
+<!ENTITY community.exp.creditsLink "globalną społecznością">
+<!ENTITY community.exp.end ", starającą się zapewnić, by Internet pozostał otwarty, publiczny i dostępny dla wszystkich.">
+
+<!ENTITY community.start2 "Program &brandShortName; został opracowany przez ">
+<!ENTITY community.mozillaLink "organizację &vendorShortName;">
+<!ENTITY community.middle2 ", która jest ">
+<!ENTITY community.creditsLink "globalną społecznością">
+<!ENTITY community.end3 ", starającą się zapewnić, by Internet pozostał otwarty, publiczny i dostępny dla wszystkich.">
 
 <!ENTITY contribute.start           "Brzmi ciekawie? ">
 <!ENTITY contribute.getInvolvedLink "Dołącz do nas!">

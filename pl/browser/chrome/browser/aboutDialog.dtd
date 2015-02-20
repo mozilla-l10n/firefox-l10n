@@ -16,22 +16,17 @@
 <!-- LOCALIZATION NOTE (warningDesc.telemetryDesc): This is a notification that Nightly/Aurora builds automatically send Telemetry data back to Mozilla. It is only shown in those versions. "It" refers to brandShortName. -->
 <!ENTITY warningDesc.telemetryDesc  "Do organizacji &vendorShortName; są automatycznie przesyłane informacje o wydajności, charakterystyce sprzętu, wykorzystaniu funkcji i modyfikacjach programu &brandShortName; w celu jego ulepszenia.">
 
-<!-- LOCALIZATION NOTE (community.exp.*) This paragraph is shown in "experimental" builds, i.e. Nightly and Aurora builds, instead of the other "community.*" strings below. -->
-<!ENTITY community.exp.start        "">
-<!-- LOCALIZATION NOTE (community.exp.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
-<!ENTITY community.exp.mozillaLink  "&vendorShortName;">
-<!ENTITY community.exp.middle       " jest ">
-<!-- LOCALIZATION NOTE (community.exp.creditslink): This is a link title that links to about:credits. -->
-<!ENTITY community.exp.creditsLink  "globalną społecznością">
-<!ENTITY community.exp.end          ", starającą się zapewnić, by Internet pozostał otwarty, publiczny i dostępny dla wszystkich.">
+<!ENTITY community.exp.start "">
+<!ENTITY community.exp.mozillaLink "&vendorShortName;">
+<!ENTITY community.exp.middle " jest ">
+<!ENTITY community.exp.creditsLink "globalną społecznością">
+<!ENTITY community.exp.end ", starającą się zapewnić, by Internet pozostał otwarty, publiczny i dostępny dla wszystkich.">
 
-<!ENTITY community.start2           "Program &brandShortName; został opracowany przez ">
-<!-- LOCALIZATION NOTE (community.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
-<!ENTITY community.mozillaLink      "organizację &vendorShortName;">
-<!ENTITY community.middle2          ", która jest ">
-<!-- LOCALIZATION NOTE (community.creditsLink): This is a link title that links to about:credits. -->
-<!ENTITY community.creditsLink      "globalną społecznością">
-<!ENTITY community.end3             ", starającą się zapewnić, by Internet pozostał otwarty, publiczny i dostępny dla wszystkich.">
+<!ENTITY community.start2 "Program &brandShortName; został opracowany przez ">
+<!ENTITY community.mozillaLink "organizację &vendorShortName;">
+<!ENTITY community.middle2 ", która jest ">
+<!ENTITY community.creditsLink "globalną społecznością">
+<!ENTITY community.end3 ", starającą się zapewnić, by Internet pozostał otwarty, publiczny i dostępny dla wszystkich.">
 
 <!ENTITY helpus.start "Chcesz pomóc? ">
 <!ENTITY helpus.donateLink "Przekaż datek">
