@@ -16,13 +16,27 @@
 <!ENTITY update.applyButtonBillboard.label        "Nainštalovať aktualizáciu…">
 <!ENTITY update.applyButtonBillboard.accesskey    "N">
 
+<!-- LOCALIZATION NOTE (warningDesc.version): This is a warning about the experimental nature of Nightly and Aurora builds. It is only shown in those versions. -->
+<!ENTITY warningDesc.version        "Zostavenie &brandShortName; je experimentálne a môže byť nestabilné.">
+<!-- LOCALIZATION NOTE (warningDesc.telemetryDesc): This is a notification that Nightly/Aurora builds automatically send Telemetry data back to Mozilla. It is only shown in those versions. "It" refers to brandShortName. -->
+<!ENTITY warningDesc.telemetryDesc  "Zároveň spoločnosti &vendorShortName; automaticky odosiela údaje o výkonnosti, hardvérovej konfigurácii, využívaní funkcií a nastaveniach s cieľom vylepšiť budúce verzie klienta &brandShortName;.">
+
+<!-- LOCALIZATION NOTE (community.exp.*) This paragraph is shown in "experimental" builds, i.e. Nightly and Aurora builds, instead of the other "community.*" strings below. -->
+<!ENTITY community.exp.start        "">
+<!-- LOCALIZATION NOTE (community.exp.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
+<!ENTITY community.exp.mozillaLink  "&vendorShortName;">
+<!ENTITY community.exp.middle       " je ">
+<!-- LOCALIZATION NOTE (community.exp.creditslink): This is a link title that links to about:credits. -->
+<!ENTITY community.exp.creditsLink  "globálna komunita">
+<!ENTITY community.exp.end          " pracujúca s cieľom zachovať internet otvoreným, verejným a dostupným zdrojom pre všetkých.">
+
 <!ENTITY community.start2           "&brandShortName; vytvára ">
 <!-- LOCALIZATION NOTE (community.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
 <!ENTITY community.mozillaLink      "&vendorShortName;">
 <!ENTITY community.middle2          ", ">
 <!-- LOCALIZATION NOTE (community.creditsLink): This is a link title that links to about:credits. -->
 <!ENTITY community.creditsLink      "globálna komunita">
-<!ENTITY community.end2             " pracujúca s cieľom urobiť internet lepším. Veríme, že internet by mal byť otvorený, verejný a dostupný každému bez akýchkoľvek obmedzení.">
+<!ENTITY community.end3             " pracujúca s cieľom zachovať internet otvoreným, verejným a dostupným zdrojom pre všetkých.">
 
 <!ENTITY contribute.start           "Znie to zaujímavo? ">
 <!-- LOCALIZATION NOTE (contribute.getInvolvedLink): This is a link title that links to http://www.mozilla.org/contribute/. -->
