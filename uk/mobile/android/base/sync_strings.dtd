@@ -5,7 +5,7 @@
 <!-- Don't localize these. They're here until they have
      a better place to live. -->
 <!ENTITY syncBrand.fullName.label "Firefox Sync">
-<!ENTITY syncBrand.shortName.label "Sync">
+<!ENTITY syncBrand.shortName.label "Синхронізація">
 
 <!-- Main titles. -->
 <!ENTITY sync.app.name.label '&syncBrand.fullName.label;'>
@@ -194,21 +194,21 @@
 <!ENTITY fxaccount_finish_migrating_description 'Upgrading can transfer a lot of data. It\&apos;s best to be on a WiFi network.'>
 
 <!ENTITY fxaccount_status_header2 'Обліковий запис Firefox'>
-<!ENTITY fxaccount_status_signed_in_as 'Увійшов як'>
-<!ENTITY fxaccount_status_auth_server 'Account server'>
-<!ENTITY fxaccount_status_sync_now 'Sync now'>
-<!ENTITY fxaccount_status_syncing2 'Syncing…'>
-<!ENTITY fxaccount_status_device_name 'Device name'>
-<!ENTITY fxaccount_status_sync_server 'Sync server'>
+<!ENTITY fxaccount_status_signed_in_as 'Вхід виконано'>
+<!ENTITY fxaccount_status_auth_server 'Сервер облікового запису'>
+<!ENTITY fxaccount_status_sync_now 'Синхронізувати зараз'>
+<!ENTITY fxaccount_status_syncing2 'Синхронізація…'>
+<!ENTITY fxaccount_status_device_name 'Назва пристрою'>
+<!ENTITY fxaccount_status_sync_server 'Сервер синхронізації'>
 <!ENTITY fxaccount_status_sync '&syncBrand.shortName.label;'>
 <!ENTITY fxaccount_status_sync_enabled '&syncBrand.shortName.label;: увімкнено'>
 <!ENTITY fxaccount_status_needs_verification2 'Ваш обліковий запис потрібно підтвердити. Торкніться для відправлення листа підтверждення.'>
 <!ENTITY fxaccount_status_needs_credentials 'Неможливо з’єднатись. Торкніться, щоб увійти.'>
-<!ENTITY fxaccount_status_needs_upgrade 'Щоб увійти, вам потрібно оновити &brandShortName;.'>
-<!ENTITY fxaccount_status_needs_master_sync_automatically_enabled '&syncBrand.shortName.label; is set up, but not syncing automatically. Toggle “Auto-sync data” in Android Settings &gt; Data Usage.'>
-<!ENTITY fxaccount_status_needs_master_sync_automatically_enabled_v21 '&syncBrand.shortName.label; is set up, but not syncing automatically. Toggle “Auto-sync data” in the menu of Android Settings &gt; Accounts.'>
-<!ENTITY fxaccount_status_needs_account_enabled '&syncBrand.shortName.label; is set up, but not syncing automatically. Tap to start syncing.'>
-<!ENTITY fxaccount_status_needs_finish_migrating 'Tap to sign in to your new Firefox Account.'>
+<!ENTITY fxaccount_status_needs_upgrade 'Для входу вам потрібно оновити &brandShortName;.'>
+<!ENTITY fxaccount_status_needs_master_sync_automatically_enabled '&syncBrand.shortName.label; налаштовано, але не синхронізовано автоматично. Перемкніть “Автосинхронізація” в налаштуваннях Android &gt; Використання даних.'>
+<!ENTITY fxaccount_status_needs_master_sync_automatically_enabled_v21 '&syncBrand.shortName.label; налаштовано, але не синхронізовано автоматично. Перемкніть “Автосинхронізація” в налаштуваннях Android &gt; Облікові записи та синхронізація.'>
+<!ENTITY fxaccount_status_needs_account_enabled '&syncBrand.shortName.label; налаштовано, але не синхронізовано автоматично. Торкніться, щоб почати синхронізацію.'>
+<!ENTITY fxaccount_status_needs_finish_migrating 'Торкніться, щоб увійти в свій обліковий запис Firefox.'>
 <!ENTITY fxaccount_status_bookmarks 'Закладки'>
 <!ENTITY fxaccount_status_history 'Історія'>
 <!ENTITY fxaccount_status_passwords 'Паролі'>
@@ -219,16 +219,16 @@
      these strings are separated to accommodate languages that decline
      the two uses differently. -->
 <!ENTITY fxaccount_status_linktos 'Умови користування'>
-<!ENTITY fxaccount_status_linkprivacy 'Угода конфіденційності'>
-<!ENTITY fxaccount_status_more 'More&ellipsis;'>
+<!ENTITY fxaccount_status_linkprivacy 'Повідомлення про приватність'>
+<!ENTITY fxaccount_status_more 'Докладніше&ellipsis;'>
 
-<!ENTITY fxaccount_remove_account_dialog_title 'Remove Firefox Account?'>
-<!ENTITY fxaccount_remove_account_dialog_message '&brandShortName; will stop syncing with your account, but won’t delete any of your browsing data on this device.'>
+<!ENTITY fxaccount_remove_account_dialog_title 'Вилучити обліковий запис Firefox?'>
+<!ENTITY fxaccount_remove_account_dialog_message '&brandShortName; припинить синхронізацію з вашим обліковим записом, але не видалить жодних даних перегляду цього пристрою.'>
 <!-- Localization note: format string below will be replaced
      with the Firefox Account's email address. -->
-<!ENTITY fxaccount_remove_account_toast 'Firefox Account &formatS; removed.'>
+<!ENTITY fxaccount_remove_account_toast 'Обліковий запис Firefox &formatS; вилучено.'>
 
-<!ENTITY fxaccount_remove_account_menu_item 'Remove Account'>
+<!ENTITY fxaccount_remove_account_menu_item 'Вилучити обліковий запис'>
 
 <!-- Localization note: this is the name shown by the Android system
      itself for a Firefox Account. Don't localize this. -->
@@ -263,7 +263,7 @@
      with the Firefox Account's email address. -->
 <!ENTITY fxaccount_sync_sign_in_error_notification_text2 'Торкніться, щоб увійти як &formatS;'>
 
-<!ENTITY fxaccount_sync_finish_migrating_notification_title 'Finish upgrading &syncBrand.shortName.label;?'>
+<!ENTITY fxaccount_sync_finish_migrating_notification_title 'Завершити оновлення &syncBrand.shortName.label;?'>
 <!-- Localization note: the format string below will be replaced
      with the Firefox Account's email address. -->
-<!ENTITY fxaccount_sync_finish_migrating_notification_text 'Tap to sign in as &formatS;'>
+<!ENTITY fxaccount_sync_finish_migrating_notification_text 'Торкніться, щоб увійти як &formatS;'>

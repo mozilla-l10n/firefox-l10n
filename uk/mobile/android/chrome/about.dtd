@@ -3,9 +3,9 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!ENTITY aboutPage.title                        "Про &brandShortName;">
 <!ENTITY aboutPage.warningVersion               "&brandShortName; є експериментальним і може бути нестабільним.">
-<!ENTITY aboutPage.telemetryStart               " Він автоматично надсилатиме інформацію про швидкодію, обладнання, використання та вподобання до  ">
+<!ENTITY aboutPage.telemetryStart               "Він автоматично надсилає інформацію про швидкодію, апаратне забезпечення, використання та налаштування у ">
 <!ENTITY aboutPage.telemetryMozillaLink         "&vendorShortName;">
-<!ENTITY aboutPage.telemetryEnd                 " щоб допомогти зробити &brandShortName; кращим.">
+<!ENTITY aboutPage.telemetryEnd                 ", щоб допомогти зробити &brandShortName; кращим.">
 <!ENTITY aboutPage.checkForUpdates.link         "Перевірити оновлення »">
 <!ENTITY aboutPage.checkForUpdates.checking     "Пошук оновлень…">
 <!ENTITY aboutPage.checkForUpdates.none         "Оновлень не знайдено">
