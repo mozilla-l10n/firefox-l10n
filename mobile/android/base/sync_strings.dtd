@@ -256,6 +256,7 @@
 <!ENTITY fxaccount_remote_error_SERVICE_TEMPORARILY_UNAVAILABLE_TO_DUE_HIGH_LOAD "Server busy, try again soon">
 <!ENTITY fxaccount_remote_error_UNKNOWN_ERROR "There was a problem">
 <!ENTITY fxaccount_remote_error_COULD_NOT_CONNECT "Cannot connect to network">
+<!ENTITY fxaccount_remote_error_ACCOUNT_LOCKED 'Account is locked. &formatS1;'>
 
 <!ENTITY fxaccount_sync_sign_in_error_notification_title2 "&syncBrand.shortName.label; is not connected">
 <!-- Localization note: the format string below will be replaced
