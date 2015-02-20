@@ -50,7 +50,7 @@
 <!ENTITY history_today_section "Hannde">
 <!ENTITY history_yesterday_section "Haŋki">
 <!ENTITY history_week_section2 "Yontere Ɓennunde">
-
+<!ENTITY history_older_section2 "Lewru Ɓennundu">
 
 <!ENTITY go "Yah">
 <!ENTITY search "Yiylo">
@@ -78,13 +78,13 @@
 <!ENTITY settings_title "Teelte">
 <!ENTITY pref_category_advanced "Ceeɓore">
 <!ENTITY pref_category_customize "Heertin">
-
+<!ENTITY pref_category_customize_summary "Jaɓɓorgo, yiylo, tabbe, jiggo">
 <!-- Localization note (pref_category_language) : This is the preferences
      section in which the user picks the locale in which to display Firefox
      UI. The locale includes both language and region concepts. -->
 
 <!ENTITY pref_category_language "Ɗemngal">
-
+<!ENTITY pref_category_language_summary "Waylu ɗemngal wanngorde maa">
 <!ENTITY pref_browser_locale "Ɗemngal wanngorde">
 <!-- Localization note (locale_system_default) : This string indicates that
      Firefox will use the locale currently selected in Android's settings
@@ -94,29 +94,35 @@
 <!-- Localization note (overlay_share_label) : This is the label that appears
      in Android's intent chooser when sending a link to Firefox to bookmark,
      send to another device, or add to Reading List. -->
+
+<!ENTITY overlay_share_label "Ɓeydu e &brandShortName;">
 <!-- Localization note (overlay_share_bookmark_btn_label) : This string is
      used in the share overlay menu to select an action. It is the verb
      "to bookmark", not the noun "a bookmark". -->
+
+<!ENTITY overlay_share_bookmark_btn_label "Maantoro">
 <!ENTITY overlay_share_reading_list_btn_label "Ɓeydu e Doggol Taro">
-
-
-
+<!ENTITY overlay_share_bookmark_btn_label_already "Koko maantoranoo">
+<!ENTITY overlay_share_reading_list_btn_label_already "Ena e doggol tarol kisa">
+<!ENTITY overlay_share_send_other "Neldu to kaɓirɗi goɗɗi">
 <!-- Localization note (overlay_share_send_tab_btn_label) : Used on the
      share overlay menu to represent the "Send Tab" action when the user
      either has not set up Sync, or has no other devices to send a tab
      to. -->
 
+<!ENTITY overlay_share_send_tab_btn_label "Deldu to kaɓirgol goɗngol">
+<!ENTITY overlay_share_no_url "Alaa jokkol tawaa e ngol lollinol">
 <!ENTITY overlay_share_retry "Eto goɗngol">
-
+<!ENTITY overlay_share_select_device "Labo kaɓitgol">
 
 <!ENTITY pref_category_search3 "Yiylo">
 <!ENTITY pref_category_search_summary "Heertin carwinooɓe njiilaw maa">
 <!ENTITY pref_category_display "Jaytino">
-
+<!ENTITY pref_category_display_summary "Binndol, balal tiitoonde, bangagol njaajeendi-yaynirde">
 <!ENTITY pref_category_privacy_short "Suturo">
-
+<!ENTITY pref_category_privacy_summary "Yuurnito finndeeji, kukiije, rewindo, keɓe">
 <!ENTITY pref_category_vendor "&vendorShortName;">
-
+<!ENTITY pref_category_vendor_summary "Baɗte &brandShortName;, FAQs, cuɓe keɓe">
 <!ENTITY pref_category_datareporting "Cuɓe keɓe">
 <!ENTITY pref_learn_more "Ɓeydu humpito">
 <!ENTITY pref_category_installed_search_engines "Jiylorɗe aafaaɗe">
@@ -131,8 +137,8 @@
      it is applicable. -->
 <!ENTITY pref_search_hint "TIP: Ɓeydi lowre njiɗ-ɗaa fof e doggol sarwooɓe njiilaw maa so ñoƴƴude juutngol e gallow njiilaw mum kisa tappaa e maanndel &formatI; ngel.">
 <!ENTITY pref_category_devtools "Kuutorɗe topaajo">
-
-
+<!ENTITY pref_category_devtools_summary "Buggitagol goɗɗungol, paint fliashing">
+<!ENTITY pref_developer_paint_flashing "Paint flashing">
 <!ENTITY pref_developer_remotedebugging "Buggitagol goɗɗungol">
 <!ENTITY pref_remember_signons "Siiftor finndeeji">
 
@@ -166,18 +172,19 @@
 <!ENTITY pref_cookies_not_accept_foreign "Daaƴtaaɗo, wondaani e ɓe woɗɓe">
 <!ENTITY pref_cookies_disabled "Daaƴaama">
 
-
-
-
+<!ENTITY pref_tracking_protection_title "Ndeenka dewindol">
+<!ENTITY pref_tracking_protection_summary "&brandShortName; maa haɗ lowe rewindaade-ma">
+<!ENTITY pref_donottrack_title "Hoto rewindo">
+<!ENTITY pref_donottrack_summary "&brandShortName; maa wiy lowe wonde a yiɗaa rewindeede">
 
 <!ENTITY pref_char_encoding "Dokkitannde alkule">
 <!ENTITY pref_char_encoding_on "Hollu dosol">
 <!ENTITY pref_char_encoding_off "Hoto hollu dosol">
-
+<!ENTITY pref_clear_private_data2 "Momtu jooni">
 <!ENTITY pref_clear_private_data_category "Momtu keɓe sirluuje">
-
-
-
+<!ENTITY pref_clear_on_exit_title2 "Momtu tuma jaltugol">
+<!ENTITY pref_clear_on_exit_summary2 "&brandShortName; maa momtu e jaajol tuma kala nde labi-ɗaa  \0022Yaltu\u0022 e dosol dowrowol ngol">
+<!ENTITY pref_clear_on_exit_dialog_title "Labo keɓe momteteeɗe">
 <!ENTITY pref_plugins "Ceŋe">
 <!ENTITY pref_plugins_enabled "Daaƴtaaɗo">
 <!ENTITY pref_plugins_tap_to_play "Fiy ngam tarde">
@@ -204,14 +211,15 @@ size. -->
 
 <!ENTITY pref_font_size_preview_text "Ɗaɓɓooɓe ƴedoɗe ñaamii ɓurɓaññe, ñaamminii ƴakkooɓe ƴulɓe ƴamooɓe koɗɗaaɗi. Tawde min ɗaɓɓaani dañal, amin kisi e addude kesamhesamaagu e innde maa tawa alaa mo min kuli hay gooto. Ɗuum firti ko kuutorgol ɓurngol moƴƴude e janngo ɓurɗo moƴƴude e Geese.">
 
-
+<!ENTITY pref_media_autoplay_enabled "Yamir tarol jaajol">
+<!ENTITY pref_media_autoplay_enabled_summary "Ƴeewto so lowe geese ena mbaawi tarde widewooji e mejaaje goɗɗe e jaajol">
 
 <!ENTITY pref_use_master_password "Huutoro finnde baabaare">
 <!ENTITY pref_sync "Sanngoɗin">
-
+<!ENTITY pref_sync_summary "Sync tabbe maa, maantore, finndeeji e aslol">
 <!ENTITY pref_search_suggestions "Hollu wasiyaaji jiirlorɗe">
 <!ENTITY pref_import_android "Jiggo iwde e Android">
-
+<!ENTITY pref_import_android_summary "Jiggo maantore e aslol iwde e wanngorde cinndel ngel">
 <!ENTITY pref_private_data_history2 "Aslol peeragol">
 <!ENTITY pref_private_data_formdata "Formere &amp; aslol njiilaw">
 <!ENTITY pref_private_data_cookies2 "Kukiije &amp; ceŋanɗe caasɗe">
@@ -261,7 +269,7 @@ size. -->
      (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
 <!ENTITY datareporting_crashreporter_title_short "Jaŋtorde Kooke">
 <!ENTITY datareporting_wifi_title2 "Carwol Nokkuure &vendorShortName;">
-
+<!ENTITY datareporting_wifi_geolocation_summary2 "Lollinat nokkuure seluleer Wifi kaɓirgol maa e &vendorShortName; ngam ƴellitde carwol tolnitorde amen">
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
      actual notification that an update is available. -->
@@ -291,12 +299,12 @@ size. -->
 <!ENTITY new_tab "Tabbere Hesere">
 <!ENTITY new_private_tab "Tabbere Suuriinde Hesere">
 <!ENTITY close_all_tabs "Uddu Tabbe Fofo">
-
+<!ENTITY close_private_tabs "Uddu Tabbe Cuuriiɗe">
 <!ENTITY tabs_normal "Tabbe">
 <!ENTITY tabs_private "Cuuriɗum">
 <!ENTITY tabs_synced "Synced">
 <!ENTITY set_image_fail "Horiima suɓaade natal">
-
+<!ENTITY set_image_path_fail "Horiima danndude natal">
 <!ENTITY set_image_chooser_title "Waɗtu Natal Ngal">
 <!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
@@ -307,6 +315,8 @@ size. -->
 <!ENTITY find_close "Uddu">
 <!-- Localization note (media_sending_to, media_play, media_pause, media_stop) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
+
+<!ENTITY media_sending_to "Nana nelda to Kaɓirgol">
 <!ENTITY media_play "Tar">
 <!ENTITY media_pause "Sabbo">
 <!ENTITY media_stop "Dartin">
@@ -333,6 +343,8 @@ size. -->
 <!-- Localization note (pref_scroll_title_bar2): Label for setting that controls
      whether or not the dynamic toolbar is enabled. -->
 
+<!ENTITY pref_scroll_title_bar2 "Banngagol njaajeendi yaynirde">
+<!ENTITY pref_scroll_title_bar_summary "Suuɗ palal tiitoonde &brandShortName; so aɗa woroo les hello">
 <!-- Localization note (page_removed): This string appears in a toast message when
      any page is removed frome about:home. This includes pages that are in history,
      bookmarks, or reading list. -->
@@ -357,6 +369,8 @@ size. -->
      panel on the home page to give the user an estimate of how many minutes it will take to
      read an article. The word "minute" should be abbreviated if possible. -->
 
+<!ENTITY reading_list_time_minutes2 "&formatD; hojom">
+<!ENTITY reading_list_time_over_an_hour "Ɓurii waktu">
 <!-- Localization note : These strings are used as alternate text for accessibility.
      They are not visible in the UI. -->
 
@@ -381,14 +395,16 @@ size. -->
 <!ENTITY home_top_sites_add "Ɓeydu lowre">
 <!-- Localization note (home_title): This string should be kept in sync
      with the page title defined in aboutHome.dtd -->
+
+<!ENTITY home_title "Jaɓɓorgo &brandShortName;">
 <!ENTITY home_history_title "Aslol">
 <!ENTITY home_clear_history_button "Momtu aslol peeraagol">
 <!ENTITY home_clear_history_confirm "Aɗa yenanaa yiɗde momtude aslol maa?">
 <!ENTITY home_bookmarks_empty "Maantore ndanndu-ɗaa njaltata ɗoo.">
-
+<!ENTITY home_closed_tabs_title "Tabbe uddaaɗe sakket">
 <!ENTITY home_last_tabs_title "Tabbe iwɗe e ko ɓenni">
 <!ENTITY home_last_tabs_empty "Tabbe maa cakkitiiɗe njaltata ɗoo.">
-
+<!ENTITY home_open_all "Uddit fof">
 <!ENTITY home_most_recent_empty "Lowe ɗe cakkiti-ɗaa yillaade njaltata ɗoo.">
 <!-- Localization note (home_most_recent_emptyhint2): "Psst" is a sound that might be used to attract someone's attention unobtrusively, and intended to hint at Private Browsing to the user.
      The placeholders &formatS1; and &formatS2; are used to mark the location of text underlining. -->
@@ -416,22 +432,28 @@ size. -->
 
 
 
+<!ENTITY home_remote_tabs_trouble_verifying "Caɗeele ƴeewtaade konte maa?">
+<!ENTITY home_remote_tabs_need_to_verify "Tiiɗno ƴeewto Konte maa Firefox ngam fuɗɗaade syncude.">
 
-
+<!ENTITY home_remote_tabs_one_hidden_device "kaɓirgol 1 suuɗaama">
 <!-- Localization note (home_remote_tabs_many_hidden_devices) : The
      formatD is replaced with the number of hidden devices.  The
      number of hidden devices is always more than one.  We can't use
      Android plural forms, sadly. See Bug #753859. -->
+<!ENTITY home_remote_tabs_many_hidden_devices "kaɓirɗi &formatD; cuuɗaama">
 <!-- Localization note (home_remote_tabs_hidden_devices_title) : This is the
      title of a dialog; we expect more than one device. -->
+<!ENTITY home_remote_tabs_hidden_devices_title "Kaɓirɗi cuuɗaaɗi">
 <!-- Localization note (home_remote_tabs_unhide_selected_devices) : This is
      the text of a button; we expect more than one device. -->
+<!ENTITY home_remote_tabs_unhide_selected_devices "Suuɗtu kaɓirɗi labaaɗi ɗii">
 
 <!ENTITY private_browsing_title "Banngagol Suturo">
+<!ENTITY private_tabs_panel_empty_desc "Tabbe maa cuuriiɗe maa njaltu ɗoo. Ko goonga min mooftaaa kuukiije e aslol banngagol maa, kono manntore e piille ɗe ngaawti-ɗaa maa ndannde e kaɓirgol maa.">
+<!ENTITY private_tabs_panel_learn_more "Aɗa yiɗi ɓeydude humpito?">
 
-
-
-
+<!ENTITY remote_tabs_panel_moved_title "Hoto tabbe am ngoni?">
+<!ENTITY remote_tabs_panel_moved_desc "Min ndirtinii tabbe maa iwɗe e kaɓirɗi goɗɗi fayde e alluwal e hello jaɓɓorgo maa baawbgal heɓaade tuma kala nde uddit-ɗaa tabbere hesere.">
 
 
 <!ENTITY pin_site_dialog_hint "Naatnu helmere njiilaw">
