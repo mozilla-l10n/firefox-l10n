@@ -145,8 +145,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (findShareServices.label):
   -  Use the unicode ellipsis char, \u2026,
   -  or use "..." if \u2026 doesn't suit traditions in your locale. -->
-<!ENTITY findShareServices.label "Знайти інші засоби поширення…">
-<!ENTITY sharePageCmd.label "Поділитись сторінкою">
+<!ENTITY findShareServices.label "Знайти інші служби поширення…">
+<!ENTITY sharePageCmd.label "Поділитися сторінкою">
 <!ENTITY sharePageCmd.commandkey "l">
 <!ENTITY sharePageCmd.accesskey "д">
 <!-- LOCALIZATION NOTE (shareLink.accesskey): must be different than the following share access keys -->
@@ -721,7 +721,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY social.directory.label "Каталог активації">
 <!ENTITY social.directory.text "Ви можете активувати засоби поширення з каталогу.">
 <!ENTITY social.directory.button "Перейти туди!">
-<!ENTITY social.directory.introText "Натисніть на засіб, щоб додати його до &brandShortName;.">
+<!ENTITY social.directory.introText "Натисніть на службу, щоб додати її до &brandShortName;.">
 <!ENTITY social.directory.viewmore.text "Дивитися більше">
 
 <!ENTITY customizeMode.tabTitle "Пристосувати &brandShortName;">
