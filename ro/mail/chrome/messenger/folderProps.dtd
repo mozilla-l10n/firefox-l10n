@@ -7,8 +7,8 @@
 <!ENTITY generalInfo.label                       "Informații generale">
 <!ENTITY folderCharsetFallback.label             "Codare alternativă caracter:">
 <!ENTITY folderCharsetFallback.accesskey         "e">
-
-
+<!ENTITY folderCharsetEnforce.label              "Aplică codificarea pentru toate mesajele din dosar (setările individuale de codificare a caracterelor din mesaje și auto-detecția vor fi ignorate)">
+<!ENTITY folderCharsetEnforce.accesskey          "A">
 <!ENTITY folderRebuildSummaryFileTip2.label      "Reconstruiește indecșii fișierului de sumar">
 <!ENTITY folderRebuildSummaryFile2.label         "Repară dosarul">
 <!ENTITY folderRebuildSummaryFile2.accesskey     "R">
