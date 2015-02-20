@@ -837,3 +837,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY emeLearnMoreContextMenu.label            "En savoir plus sur les DRM…">
 <!ENTITY emeLearnMoreContextMenu.accesskey        "D">
+
+<!ENTITY emeNotificationsNotNow.label             "Plus tard">
+<!ENTITY emeNotificationsNotNow.accesskey         "P">
+<!ENTITY emeNotificationsDontAskAgain.label       "Ne plus demander à l'avenir">
+<!ENTITY emeNotificationsDontAskAgain.accesskey   "N">

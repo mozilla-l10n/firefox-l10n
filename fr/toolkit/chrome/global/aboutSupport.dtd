@@ -100,3 +100,6 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.copyRawDataToClipboard.label "Copier les informations brutes dans le presse-papiers">
 
 <!ENTITY aboutSupport.sandboxTitle "Bac à sable">
+
+<!ENTITY aboutSupport.safeModeTitle "Essayer en mode sans échec">
+<!ENTITY aboutSupport.restartInSafeMode.label "Redémarrer avec les modules désactivés…">
