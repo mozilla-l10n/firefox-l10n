@@ -172,6 +172,10 @@
 <!ENTITY pref_cookies_not_accept_foreign "사용하기 (제3자 쿠키 제외)">
 <!ENTITY pref_cookies_disabled "사용 안 함">
 
+
+
+<!ENTITY pref_tracking_protection_title "추적 보호 기능">
+<!ENTITY pref_tracking_protection_summary "&brandShortName;가 사이트의 추적을 차단합니다">
 <!ENTITY pref_donottrack_title "추적 중지">
 <!ENTITY pref_donottrack_summary "&brandShortName;가 사이트들에 방문자 추적 중지 요청을 합니다.">
 
@@ -427,6 +431,8 @@ demonstrate the font size setting.  It is meant to be whimsical and fun. -->
 <!ENTITY home_remote_tabs_empty "여기에 다른 기기의 탭들이 나타납니다.">
 <!ENTITY home_remote_tabs_unable_to_connect "연결 끊기">
 <!ENTITY home_remote_tabs_need_to_sign_in "Firefox 계정에 다시 연결하고 동기화하기 위해 로그인이 필요합니다.">
+<!ENTITY home_remote_tabs_need_to_finish_migrating "새 Firefox 계정이 준비되었습니다!">
+
 <!ENTITY home_remote_tabs_trouble_verifying "계정을 확인하는데 문제가 있나요?">
 <!ENTITY home_remote_tabs_need_to_verify "동기화를 시작하기 위해 Firefox 계정 확인이 필요합니다.">
 <!ENTITY home_remote_tabs_one_hidden_device "숨겨진 기기 1대">
@@ -522,12 +528,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY updater_apply_title2 "&brandShortName;의 업데이트 있음">
 <!ENTITY updater_apply_select2 "업데이트">
-
-<!-- New tablet UI -->
-
-<!-- LOCALIZATION NOTE (new_tablet_restart): Notification displayed after the user toggles the new tablet UI in the settings screen.-->
-<!ENTITY new_tablet_restart "변경된 효과를 적용하기 위해 브라우저 재시작">
-<!ENTITY new_tablet_pref "새로운 태블릿 UI 활성화">
 
 <!-- Guest mode -->
 <!ENTITY new_guest_session "새 손님 세션">
