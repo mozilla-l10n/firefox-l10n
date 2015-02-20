@@ -98,3 +98,5 @@ variant of aboutSupport.showDir.label. -->
 
 <!ENTITY aboutSupport.sandboxTitle "Sandbox">
 
+<!ENTITY aboutSupport.safeModeTitle "Vyskúšajte núdzový režim">
+<!ENTITY aboutSupport.restartInSafeMode.label "Reštartovať a zakázať doplnky…">
