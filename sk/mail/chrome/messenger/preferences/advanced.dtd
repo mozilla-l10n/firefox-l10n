@@ -15,6 +15,10 @@
 <!ENTITY enableGlodaSearch.accesskey   "o">
 <!ENTITY allowHWAccel.label            "Použiť hardvérové urýchľovanie (ak je dostupné)">
 <!ENTITY allowHWAccel.accesskey        "h">
+<!ENTITY storeType.label               "Spôsob ukladania správ pre nové účty:">
+<!ENTITY storeType.accesskey           "b">
+<!ENTITY mboxStore.label               "Jeden veľký súbor (mbox)">
+<!ENTITY maildirStore.label            "Samostný súbor pre každú správu (maildir)">
 
 <!ENTITY scrolling.label               "Posúvanie obsahu">
 <!ENTITY useAutoScroll.label           "Použiť automatický posun">
