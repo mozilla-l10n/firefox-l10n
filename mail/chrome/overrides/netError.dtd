@@ -17,10 +17,21 @@
 <!ENTITY deniedPortAccess.longDesc "">
 
 <!ENTITY dnsNotFound.title "Serverul nu a fost găsit">
-<!ENTITY dnsNotFound.longDesc "<ul> <li>Verificați adresa de erori de tastare cum ar fi <strong>ww</strong>.exemplu.ro în loc de <strong>www</strong>.exemplu.ro</li> <li>Dacă nu puteți încărca nicio pagină, verificați conexiunea la rețea a calculatorului dumneavoastră.</li> <li>Dacă sistemul dumneavoastră este protejat de un paravan (firewall) sau proxy, asigurați-vă că &brandShortName; are permisiunea de a accesa internetul.</li> </ul>">
+<!ENTITY dnsNotFound.longDesc "<ul> 
+<li>Verificați adresa pentru erori de tastare cum ar fi 
+<strong>ww</strong>.exemplu.ro în loc de 
+<strong>www</strong>.exemplu.ro</li> 
+<li>Dacă nu puteți încărca nicio pagină, verificați conexiunea la rețea 
+a calculatorului dumneavoastră.</li> 
+<li>Dacă calculatorul sau rețeaua dumneavoastră sunt protejate de un paravan (firewall) sau proxy, asigurați-vă că 
+&brandShortName; are permisiunea de a accesa internetul.</li> 
+</ul>">
 
 <!ENTITY fileNotFound.title "Fișierul nu a fost găsit">
-<!ENTITY fileNotFound.longDesc "<ul> <li>Verificați ca numele fișierului să nu aibă erori de majuscule/minuscule sau alte erori de tastare.</li> <li>Verificați ca fișierul să nu fi fost mutat, redenumit sau șters.</li> </ul>">
+<!ENTITY fileNotFound.longDesc "<ul> 
+<li>Verificați ca numele fișierului să nu aibă erori de majuscule/minuscule sau alte erori de tastare.</li> 
+<li>Verificați ca fișierul să nu fi fost mutat, redenumit sau șters.</li> 
+</ul>">
 
 <!ENTITY generic.title "Auu.">
 <!ENTITY generic.longDesc "<p>&brandShortName; nu poate încărca pagina dintr-un motiv oarecare.</p>">
@@ -66,10 +77,19 @@
 </ul>">
 
 <!ENTITY proxyConnectFailure.title "Serverul proxy refuză conexiuni">
-<!ENTITY proxyConnectFailure.longDesc "<ul> <li>Asigurați-vă că parametrii proxy-ului sunt corecți.</li> <li>Luați legătura cu administratorul rețelei pentru a vă asigura că serverul proxy funcționează.</li> </ul>">
+<!ENTITY proxyConnectFailure.longDesc "<ul> 
+<li>Asigurați-vă că parametrii proxy-ului sunt corecți.</li> 
+<li>Luați legătura cu administratorul rețelei pentru a vă asigura că serverul proxy 
+funcționează.</li> 
+</ul>">
 
 <!ENTITY proxyResolveFailure.title "Nu se poate găsi serverul proxy">
-<!ENTITY proxyResolveFailure.longDesc "<ul> <li>Asigurați-vă că parametrii proxy-ului sunt corecți.</li> <li>Asigurați-vă că sistemul dumneavoastră are o conexiune funcțională la rețea.</li> <li>Dacă sistemul dumneavoastră este protejat de un paravan (firewall) sau proxy, asigurați-vă că &brandShortName; are permisiunea de a folosi web-ul.</li> </ul>">
+<!ENTITY proxyResolveFailure.longDesc "<ul> 
+<li>Asigurați-vă că parametrii proxy-ului sunt corecți.</li> 
+<li>Asigurați-vă că sistemul dumneavoastră are o conexiune funcțională la rețea.</li> 
+<li>Dacă sistemul dumneavoastră este protejat de un paravan (firewall) sau proxy, asigurați-vă 
+că &brandShortName; are permisiunea de a accesa internetul.</li> 
+</ul>">
 
 <!ENTITY redirectLoop.title "Pagina nu redirijează corect">
 <!ENTITY redirectLoop.longDesc "<ul> 
@@ -78,7 +98,11 @@ cookie-uri.</li> 
 </ul>">
 
 <!ENTITY unknownSocketType.title "Răspuns neașteptat de la server">
-<!ENTITY unknownSocketType.longDesc "<ul> <li>Verificați ca sistemul dumneavoastră să aibă instalat Personal Security Manager.</li> <li>Aceasta se poate întâmpla și datorită unei configurații nestandard a serverului.</li> </ul>">
+<!ENTITY unknownSocketType.longDesc "<ul> 
+<li>Verificați ca sistemul dumneavoastră să aibă instalat 
+Personal Security Manager.</li> 
+<li>Aceasta se poate întâmpla și datorită unei configurații nestandard a serverului.</li> 
+</ul>">
 
 <!ENTITY nssFailure2.title "Conexiunea securizată a eșuat">
 <!ENTITY nssFailure2.longDesc2 "<ul> 
@@ -126,8 +150,9 @@ button is included here (instead of netError.xhtml) because it exposes
 functionality specific to thunderbird. -->
 
 
-<!ENTITY securityOverride.warningContent "<p>Nu ar trebui să adăugați o excepție, dacă utilizați o conexiune la internet în care nu aveți încredere în întregime sau dacă nu sunteți obișnuit să vedeți un avertisment pentru acest server. </p> 
-<button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button> 
+<!ENTITY securityOverride.warningContent "<p>Nu ar trebui să adăugați o excepție dacă utilizați o conexiune la internet în care nu aveți încredere în întregime sau dacă nu sunteți obișnuit să vedeți un avertisment pentru acest server.</p> 
+ 
+<button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button> 
 <button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>">
 
 <!ENTITY remoteXUL.title "XUL la distanță">

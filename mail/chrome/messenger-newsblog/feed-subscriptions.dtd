@@ -4,7 +4,7 @@
 <!-- Subscription Dialog -->
 
 <!ENTITY feedSubscriptions.label     "Abonamente la fluxuri">
-
+<!ENTITY learnMore.label             "Aflați mai multe despre fluxuri">
 
 <!ENTITY feedTitle.label             "Titlu:">
 <!ENTITY feedTitle.accesskey         "T">
@@ -21,10 +21,11 @@
 <!ENTITY quickMode.label             "Arată sumarul articolului în loc de a încărca pagina web">
 <!ENTITY quickMode.accesskey         "u">
 
-
-
-
-
+<!ENTITY autotagEnable.label         "Creează automat etichete de la numele &lt;categoriilor&gt; fluxului">
+<!ENTITY autotagEnable.accesskey     "C">
+<!ENTITY autotagUsePrefix.label      "Prefixare etichete cu:">
+<!ENTITY autotagUsePrefix.accesskey  "P">
+<!ENTITY autoTagPrefix.placeholder   "Introduceți un prefix de etichetă">
 
 <!ENTITY button.addFeed.label        "Adaugă">
 <!ENTITY button.addFeed.accesskey    "A">

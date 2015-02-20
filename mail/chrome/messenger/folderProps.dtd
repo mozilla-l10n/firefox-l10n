@@ -5,8 +5,8 @@
 <!ENTITY folderProps.windowtitle.label           "Proprietăți">
 
 <!ENTITY generalInfo.label                       "Informații generale">
-
-
+<!ENTITY folderCharsetFallback.label             "Codare alternativă caracter:">
+<!ENTITY folderCharsetFallback.accesskey         "e">
 
 
 <!ENTITY folderRebuildSummaryFileTip2.label      "Reconstruiește indecșii fișierului de sumar">

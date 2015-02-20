@@ -24,7 +24,8 @@ that require it.  -->
 <!ENTITY detailsProgressiveDisclosure.label     "Detalii">
 <!ENTITY detailsProgressiveDisclosure.accesskey "D">
 
-
+<!ENTITY itemHistory.label                 "Istoric navigare">
+<!ENTITY itemHistory.accesskey             "g">
 <!ENTITY itemCookies.label                 "Cookie-urile">
 <!ENTITY itemCookies.accesskey             "C">
 <!ENTITY itemCache.label                   "Cache-ul">

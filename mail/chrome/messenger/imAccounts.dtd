@@ -25,8 +25,8 @@
 <!ENTITY account.movedown.label       "Mută în jos">
 <!ENTITY account.cancelReconnection.label         "Anulare reconectare">
 <!ENTITY account.cancelReconnection.accesskey     "l">
-
-
+<!ENTITY account.copyDebugLog.label     "Copiază jurnalul depanării">
+<!ENTITY account.copyDebugLog.accesskey "C">
 <!ENTITY account.connecting           "Conectare…">
 <!ENTITY account.disconnecting        "Deconectare...">
 <!ENTITY account.disconnected         "Deconectat">
