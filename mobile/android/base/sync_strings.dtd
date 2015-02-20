@@ -245,7 +245,8 @@
      been returned. -->
 <!ENTITY fxaccount_remote_error_UPGRADE_REQUIRED 'Vi bezonas ĝisdatigi Firefox'>
 
-<!-- Localization note: the format string will be <!ENTITY fxaccount_remote_error_ATTEMPT_TO_CREATE_AN_ACCOUNT_THAT_ALREADY_EXISTS_2 'Konto jam ekzistas. &formatS1;'>
+<!-- Localization note: the format string will be fxaccount_sign_in_button_label, linkified. -->
+<!ENTITY fxaccount_remote_error_ATTEMPT_TO_CREATE_AN_ACCOUNT_THAT_ALREADY_EXISTS_2 'Konto jam ekzistas. &formatS1;'>
 <!ENTITY fxaccount_remote_error_ATTEMPT_TO_ACCESS_AN_ACCOUNT_THAT_DOES_NOT_EXIST 'Nevalida retpoŝto aŭ pasvorto'>
 <!ENTITY fxaccount_remote_error_INCORRECT_PASSWORD 'Nevalida retpoŝto aŭ pasvorto'>
 <!ENTITY fxaccount_remote_error_ATTEMPT_TO_OPERATE_ON_AN_UNVERIFIED_ACCOUNT 'Ne kontrolita konto'>
