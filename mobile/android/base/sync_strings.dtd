@@ -78,6 +78,8 @@
      will be replaced by the name of the Firefox release channel and &formatS2
      by the model name of the Android device. Examples look like "Aurora on
      GT-I1950" and "Fennec on MI 2S". -->
+
+<!ENTITY sync.default.client.name "&formatS1; e &formatS2;">
 <!-- Bookmark folder strings -->
 
 <!ENTITY bookmarks.folder.menu.label "Dosol Maantore">
@@ -114,7 +116,8 @@
 
 <!ENTITY fxaccount_full_label "Konte Firefox">
 
-
+<!ENTITY fxaccount_custom_server_account_title "Nana huutoroo konte e sarworde">
+<!ENTITY fxaccount_custom_server_sync_title "Nana moofta keɓe Sync e sarworde">
 <!-- Localization note: these are shown in all screens that query the
      user for an email address and password. Hide and show are button
      labels. -->
@@ -164,12 +167,12 @@
 <!-- Localization note: &formatS; is the Firefox Account's email address. -->
 <!ENTITY fxaccount_confirm_account_verification_link "Jokkol ƴeewtagol neldaama to &formatS;">
 <!ENTITY fxaccount_confirm_account_resend_email "Neltir iimeel">
-
+<!ENTITY fxaccount_confirm_account_change_email "Yejjit ndee ñiiɓirde iimeel?">
 <!ENTITY fxaccount_confirm_account_verification_link_sent2 "Iimeel ƴeewtindol neldaama">
 <!ENTITY fxaccount_confirm_account_verification_link_not_sent2 "Horiima neldude iimeel ƴeewtindol">
-
-
-
+<!ENTITY fxaccount_resend_unlock_code_button_label "Neltir iimeel coktirɗo">
+<!ENTITY fxaccount_unlock_code_sent "Iimeel coktirɗo konte neldaama">
+<!ENTITY fxaccount_unlock_code_not_sent "Horiima neldude iimeel coktirɗo konte">
 
 <!ENTITY fxaccount_sign_in_sub_header "Seŋo">
 <!ENTITY fxaccount_sign_in_button_label "Seŋo">
@@ -180,6 +183,7 @@
 <!ENTITY fxaccount_account_verified_sub_header "Konte ƴeewtaama">
 <!ENTITY fxaccount_account_verified_description2 "Maa keɓe maa puɗɗo syncude ko leelaani.">
 
+<!ENTITY fxaccount_migration_finished_header "Kesɗitinal gasii">
 
 <!ENTITY fxaccount_update_credentials_header "Seŋo">
 <!ENTITY fxaccount_update_credentials_button_label "Seŋo">
@@ -218,10 +222,13 @@
 <!ENTITY fxaccount_status_linkprivacy "Tintinol Suturo">
 <!ENTITY fxaccount_status_more "Goɗɗi&ellipsis;">
 
-
+<!ENTITY fxaccount_remove_account_dialog_title "Momtu Konte Firefox?">
+<!ENTITY fxaccount_remove_account_dialog_message "&brandShortName; maa dartin canngoɗinal e konte maa, kono momtoytaa hay huunde e keɓe banngagol maa e ngol kaɓirgol.">
 <!-- Localization note: format string below will be replaced
      with the Firefox Account's email address. -->
+<!ENTITY fxaccount_remove_account_toast "Konte Firefox &formatS; momtaama.">
 
+<!ENTITY fxaccount_remove_account_menu_item "Momtu Konte">
 <!-- Localization note: this is the name shown by the Android system
      itself for a Firefox Account. Don't localize this. -->
 
@@ -249,11 +256,14 @@
 <!ENTITY fxaccount_remote_error_SERVICE_TEMPORARILY_UNAVAILABLE_TO_DUE_HIGH_LOAD "Sarworde ena halji, eto ɗoo e yeeso">
 <!ENTITY fxaccount_remote_error_UNKNOWN_ERROR "Waɗii caɗeele">
 <!ENTITY fxaccount_remote_error_COULD_NOT_CONNECT "Horiima seŋaade e laylaytol">
-
+<!ENTITY fxaccount_remote_error_ACCOUNT_LOCKED "Konte ko cokaaɗe. &formatS1;">
 
 <!ENTITY fxaccount_sync_sign_in_error_notification_title2 "&syncBrand.shortName.label; seŋaaki">
 <!-- Localization note: the format string below will be replaced
      with the Firefox Account's email address. -->
+<!ENTITY fxaccount_sync_sign_in_error_notification_text2 "Tappu ngam seŋaade &formatS;">
 
+<!ENTITY fxaccount_sync_finish_migrating_notification_title "Timmin kesɗitinal &syncBrand.shortName.label;?">
 <!-- Localization note: the format string below will be replaced
      with the Firefox Account's email address. -->
+<!ENTITY fxaccount_sync_finish_migrating_notification_text "Tappu ngam seŋaade e &formatS;">

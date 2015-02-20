@@ -20,3 +20,5 @@
 <!ENTITY aboutPage.credits.label                "Wuneeji">
 <!ENTITY aboutPage.license.label                "Humpito Jamirol">
 <!-- LOCALIZATION NOTE (aboutPage.logoTrademark): The message is explicitly about the word "Firefox" being trademarked, that's why we use it, instead of brandShortName. -->
+
+<!ENTITY aboutPage.logoTrademark                "Firefox e logooji Firefox ko marke curaaɗe ɗe Mozilla Foundation.">
