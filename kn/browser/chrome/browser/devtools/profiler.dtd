@@ -18,8 +18,8 @@
 <!-- LOCALIZATION NOTE (profilerUI.stopNotice1/2): This is the label shown
   -  in the call list view while recording a profile. -->
 
-<!ENTITY profilerUI.stopNotice1    "ಇದರ ಮೇಲೆ ಕ್ಲಿಕ್ಕಿಸಿ">
-
+<!ENTITY profilerUI.stopNotice1    "ಗುಂಡಿಯ ಮೇಲೆ ಮೇಲೆ ಕ್ಲಿಕ್ಕಿಸಿ">
+<!ENTITY profilerUI.stopNotice2    "ಪ್ರೊಫೈಲ್‌ ಮಾಡುವುದನ್ನು ನಿಲ್ಲಿಸಲು.">
 <!-- LOCALIZATION NOTE (profilerUI.loadingNotice): This is the label shown
   -  in the call list view while loading a profile. -->
 
