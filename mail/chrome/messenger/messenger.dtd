@@ -875,7 +875,7 @@
 <!ENTITY reloadCmd.label "Ponovno naloži">
 <!ENTITY reloadCmd.accesskey "P">
 <!ENTITY openInBrowser.label "Odpri v brskalniku">
-<!ENTITY openInBrowser.accesskey "p">
+<!ENTITY openInBrowser.accesskey "O">
 <!ENTITY openLinkInBrowser.label "Odpri povezavo v brskalniku">
 <!ENTITY openLinkInBrowser.accesskey "O">
 <!-- Statusbar -->
