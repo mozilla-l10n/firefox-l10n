@@ -58,3 +58,5 @@
 <!ENTITY aboutSupport.copyTextToClipboard.label "Copia testo negli appunti">
 <!ENTITY aboutSupport.copyRawDataToClipboard.label "Copia dati non elaborati negli appunti">
 <!ENTITY aboutSupport.sandboxTitle "Sandbox">
+<!ENTITY aboutSupport.safeModeTitle "Prova la modalità provvisoria">
+<!ENTITY aboutSupport.restartInSafeMode.label "Riavvia disattivando i componenti aggiuntivi…">
