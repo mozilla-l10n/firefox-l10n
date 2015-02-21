@@ -18,7 +18,7 @@
 <!-- Values for getpassword.xul -->
 
 <!ENTITY getPassword.title  "Kwinjiza Ijambobanga Ngenga">
-<!ENTITY getPassword.tokenName2.label "Security Device:">
+
 <!ENTITY getPassword.password.label "Ijambobanga:">
 <!-- These should be common -->
 
@@ -45,10 +45,6 @@
 <!ENTITY downloadCert.viewPolicy.label "Politiki">
 <!ENTITY downloadCert.viewCert.text "Gusuzuma Icyemezo cya CA">
 <!ENTITY downloadCert.viewPolicy.text "Gusuzuma politiki n'imikorere bya CA">
-<!-- Certificate Exists in database -->
-
-<!ENTITY caCertExists.title "Icyemezo Kiriho">
-<!ENTITY caCertExists.message "Icyemezo gisanzwe kiriho.">
 <!-- Strings for the SSL client auth ask dialog -->
 
 <!ENTITY clientAuthAsk.title "Gusaba Ikiranga Ukoresha">
@@ -79,24 +75,11 @@
 <!ENTITY escrowWarn.message2 "Nyamara, urufunguzo rwawe rw'imisobekere rwihariye ruzabikwa n'ubuyobozi bw'icyemezo, kandi rugashobora gukoreshwa kugira ngo usome imeyili cyangwa inyandiko zawe zasobetswe nta icyemezo cyawe.">
 <!ENTITY examineCert.label "Kugaragaza Icyemezo">
 <!ENTITY examineCert.accesskey "g">
-
-<!ENTITY serverCrlNextupdate.message "Usabwe kubaza umuyobozi wa sisitemu yawe kugira ngo agufashe">
 <!-- Strings for the CreateCertInfo dialog  -->
 
 <!ENTITY createCertInfo.title "Irimo Gutanga Urufunguzo Rwihariye">
 <!ENTITY createCertInfo.msg1 "Gutanga Urufunguzo birakomeje... Bishobora kumara iminota mike....">
 <!ENTITY createCertInfo.msg2 "Tegereza...">
-<!-- Form Signing confirmation prompt -->
-
-<!ENTITY formSigning.title "Gusaba Gushyira Umukono Ku Mwandiko">
-<!ENTITY formSigning.cert "Icyemezo cyo Gushyiraho Umukono">
-<!ENTITY formSigning.confirmPassword "Kugira ngo wemeze wemera gushyira umukono kuri ubu butumwa bwanditse ukoresheje icyemezo cyawe watoranyije, usabwe kwemeza winjiza ijambobanga ngenga ryawe:">
 <!-- Strings for protectedAuth dialog -->
 
-<!ENTITY protectedAuth.title "Protected Token Authentication">
-<!ENTITY protectedAuth.msg "Please authenticate to the token. Authentication method depends on the type of your token.">
-<!ENTITY protectedAuth.tokenName.label "Token:">
 
-<!ENTITY certErrorDlg.title "Secure Connection Failed">
-<!ENTITY certErrorDlg.info1 "This could be a problem with the server's configuration or it could be someone trying to impersonate the server.">
-<!ENTITY certErrorDlg.info2 "If you have connected to this server successfully in the past the error may be temporary and you can try again later.">

@@ -2,20 +2,15 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY newWindowsAsTabs.label       "Open new windows in a new tab instead">
-<!ENTITY newWindowsAsTabs.accesskey   "t">
 
 <!ENTITY warnCloseMultipleTabs.label  "Kumenyesha igihe udufishi dutandukanye tugiye gufungwa">
 <!ENTITY warnCloseMultipleTabs.accesskey  "m">
 
-<!ENTITY warnOpenManyTabs.label       "Kumburira igihe ngiye gufungura udufishi tunyuranye dushobora gutuma &brandShortName; igenda buhoro">
-<!ENTITY warnOpenManyTabs.accesskey   "m">
 
-<!ENTITY restoreTabsOnDemand.label        "Don’t load tabs until selected">
-<!ENTITY restoreTabsOnDemand.accesskey    "l">
 
-<!ENTITY switchToNewTabs.label        "Iyo mfunguye ihuza mu gafishi gashya, kuryimukiraho ako kanya">
-<!ENTITY switchToNewTabs.accesskey    "y">
 
-<!ENTITY showTabsInTaskbar.label          "Show tab previews in the Windows taskbar">
-<!ENTITY showTabsInTaskbar.accesskey      "k">
+
+
+
+
+<!ENTITY tabsGroup.label          "Udufishi">

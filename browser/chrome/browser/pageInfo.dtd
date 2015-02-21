@@ -14,7 +14,7 @@
 <!ENTITY  closeWindow.key       "w">
 
 <!ENTITY  generalTab            "Rusange">
-<!ENTITY  generalTab.accesskey  "G">
+
 <!ENTITY  generalURL            "Aderesi:">
 <!ENTITY  generalType           "Ubwoko:">
 <!ENTITY  generalMode           "Uburyo bw'Isubiza:">
@@ -25,73 +25,54 @@
 <!ENTITY  generalEncoding       "Imisobekere:">
 <!ENTITY  generalMetaName       "Izina">
 <!ENTITY  generalMetaContent    "Ibikubiyemo">
-<!ENTITY  generalSecurityDetails   "Ibisobanuro">
-<!ENTITY  generalSecurityDetails.accesskey "D">
 
 <!ENTITY  mediaTab              "Ibitangazamakuru">
-<!ENTITY  mediaTab.accesskey    "M">
-<!ENTITY  mediaLocation         "Location:">
-<!ENTITY  mediaText             "Associated Text:">
+
+
+
 <!ENTITY  mediaAltHeader        "Urwandiko Usimbura">
 <!ENTITY  mediaAddress          "Aderesi">
 <!ENTITY  mediaType             "Ubwoko">
-<!ENTITY  mediaSize             "Size">
+
 <!ENTITY  mediaCount            "IBARA">
-<!ENTITY  mediaDimension        "Dimensions:">
+
 <!ENTITY  mediaLongdesc         "Ibisobanuro Birebire:">
-<!ENTITY  mediaBlockImage.accesskey "B">
+
 <!ENTITY  mediaSaveAs           "Kubika Muri...">
 <!ENTITY  mediaSaveAs.accesskey "M">
-<!ENTITY  mediaSaveAs2.accesskey "e">
+
 <!ENTITY  mediaPreview          "Igaragazambere y'Ibitangazamakuru:">
 
-<!ENTITY  feedTab               "Feeds">
-<!ENTITY  feedTab.accesskey     "F">
-<!ENTITY  feedSubscribe         "Subscribe">
-<!ENTITY  feedSubscribe.accesskey "u">
 
-<!ENTITY  permTab               "Permissions">
-<!ENTITY  permTab.accesskey     "P">
-<!ENTITY  permUseDefault        "Use Default">
-<!ENTITY  permAskAlways         "Always ask">
-<!ENTITY  permAllow             "Allow">
+
+
+
+
+
+
+
 <!ENTITY  permAllowSession      "Emeza umukoro">
 <!ENTITY  permBlock             "Funga">
-<!ENTITY  permissionsFor        "Permissions for:">
-<!ENTITY  permImage             "Load Images">
-<!ENTITY  permPopup             "Open Pop-up Windows">
-<!ENTITY  permCookie            "Set Cookies">
-<!ENTITY  permNotifications     "Show Notifications">
-<!ENTITY  permInstall           "Install Extensions or Themes">
-<!ENTITY  permGeo               "Share Location">
-<!ENTITY  permPlugins           "Activate Plugins">
-<!ENTITY  permFullscreen        "Enter Fullscreen">
-<!ENTITY  permPointerLock2      "Hide the Mouse Pointer">
 
-<!ENTITY  permIndexedDB              "Maintain Offline Storage">
-<!ENTITY  permClearStorage           "Clear Storage">
-<!ENTITY  permClearStorage.accesskey "C">
+
+
+
 
 <!ENTITY  securityTab           "Umutekano">
-<!ENTITY  securityTab.accesskey "S">
-<!ENTITY  securityHeader        "Security information for this page">
-<!ENTITY  securityView.certView "View Certificate">
-<!ENTITY  securityView.accesskey "V">
+
+
+
 <!ENTITY  securityView.unknown   "Kitazwi">
 
 
-<!ENTITY  securityView.identity.header   "Website Identity">
-<!ENTITY  securityView.identity.owner    "Owner:">
-<!ENTITY  securityView.identity.domain   "Website:">
-<!ENTITY  securityView.identity.verifier "Verified by:">
 
-<!ENTITY  securityView.privacy.header                   "Privacy &amp; History">
-<!ENTITY  securityView.privacy.history                  "Have I visited this website prior to today?">
-<!ENTITY  securityView.privacy.cookies                  "Is this website storing information (cookies) on my computer?">
-<!ENTITY  securityView.privacy.viewCookies              "View Cookies">
-<!ENTITY  securityView.privacy.viewCookies.accessKey    "k">
-<!ENTITY  securityView.privacy.passwords                "Have I saved any passwords for this website?">
-<!ENTITY  securityView.privacy.viewPasswords            "View Saved Passwords">
-<!ENTITY  securityView.privacy.viewPasswords.accessKey  "w">
 
-<!ENTITY  securityView.technical.header                 "Technical Details">
+
+
+
+
+
+
+
+
+

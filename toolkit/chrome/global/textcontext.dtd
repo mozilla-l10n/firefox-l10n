@@ -17,10 +17,10 @@
 
 <!ENTITY spellAddToDictionary.label "Kongera mu nkoranyamagambo">
 <!ENTITY spellAddToDictionary.accesskey "n">
-<!ENTITY spellUndoAddToDictionary.label "Undo Add To Dictionary">
-<!ENTITY spellUndoAddToDictionary.accesskey "n">
-<!ENTITY spellCheckToggle.label "Check Spelling">
-<!ENTITY spellCheckToggle.accesskey "g">
+
+
+
+
 <!ENTITY spellNoSuggestions.label "(Nta myandikire yifujwe)">
 <!ENTITY spellDictionaries.label "Indimi">
 <!ENTITY spellDictionaries.accesskey "d">

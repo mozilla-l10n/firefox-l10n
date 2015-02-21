@@ -7,7 +7,7 @@
 <!ENTITY  engineManager.intro       "Ufite za mushakisha zikurikira zinjijwemo:">
 
 <!ENTITY  columnLabel.name          "Izina">
-<!ENTITY  columnLabel.keyword       "Keyword">
+
 <!-- Buttons -->
 
 <!ENTITY  up.label                  "Kuzamuka">
@@ -16,8 +16,8 @@
 <!ENTITY  dn.accesskey              "m">
 <!ENTITY  remove.label              "Kuvanaho">
 <!ENTITY  remove.accesskey          "v">
-<!ENTITY  edit.label                "Edit Keyword…">
-<!ENTITY  edit.accesskey            "t">
+
+
 
 <!ENTITY  addEngine.label           "Gushaka izindi mushakisha...">
 <!ENTITY  addEngine.accesskey       "s">

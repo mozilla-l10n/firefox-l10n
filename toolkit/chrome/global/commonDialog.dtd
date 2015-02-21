@@ -9,5 +9,5 @@
 <!ENTITY checkbox.label   "Kugenzura">
 <!ENTITY copyCmd.label    "Gukoporora">
 <!ENTITY copyCmd.accesskey "k">
-<!ENTITY selectAllCmd.label "Select All">
-<!ENTITY selectAllCmd.accesskey "A">
+
+

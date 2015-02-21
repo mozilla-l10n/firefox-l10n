@@ -4,7 +4,13 @@
 <!-- These strings are used in the about:newtab page -->
 
 <!ENTITY newtab.pageTitle "Agafishi Gashya">
-<!ENTITY newtab.undo.removedLabel "Thumbnail removed.">
-<!ENTITY newtab.undo.undoButton "Undo.">
-<!ENTITY newtab.undo.restoreButton "Restore All.">
+
+
+
+
+
+
+
+
+
 <!ENTITY newtab.undo.closeTooltip "Guhisha">

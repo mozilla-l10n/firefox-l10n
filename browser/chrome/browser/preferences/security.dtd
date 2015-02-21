@@ -2,6 +2,8 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY  general.label                 "Rusange">
+
 <!ENTITY  warnAddonInstall.label        "Kumenyesha imbuga nizigerageza kwinjizamo imigereka">
 <!ENTITY  warnAddonInstall.accesskey    "m">
 <!-- LOCALIZATION NOTE (blockWebForgeries.label, blockAttackSites.label):
@@ -12,11 +14,8 @@
   "known").
 -->
 
-<!ENTITY  blockAttackSites.label     "Block reported attack sites">
-<!ENTITY  blockAttackSites.accesskey "k">
 
-<!ENTITY  blockWebForgeries.label     "Block reported web forgeries">
-<!ENTITY  blockWebForgeries.accesskey "B">
+
 
 <!ENTITY  addonExceptions.label         "Amarengayobora...">
 <!ENTITY  addonExceptions.accesskey     "r">
@@ -34,5 +33,4 @@
 <!ENTITY  changeMasterPassword.label     "Guhindura Ijambobanga Ngenga...">
 <!ENTITY  changeMasterPassword.accesskey "h">
 
-<!ENTITY  savedPasswords.label            "Saved Passwords…">
-<!ENTITY  savedPasswords.accesskey        "P">
+

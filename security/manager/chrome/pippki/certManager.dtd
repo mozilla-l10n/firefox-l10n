@@ -5,52 +5,46 @@
 <!ENTITY certmgr.title                       "Mucunga Ibyemezo">
 
 <!ENTITY certmgr.tab.mine                     "Ibyemezo Byawe">
-<!ENTITY certmgr.tab.others2                  "People">
-<!ENTITY certmgr.tab.websites3                "Servers">
+
+
 <!ENTITY certmgr.tab.ca                       "Abayobozi">
-<!ENTITY certmgr.tab.orphan2                  "Others">
+
 
 <!ENTITY certmgr.ca.builtins                  "CAs Irimimbere">
 <!ENTITY certmgr.ca.mycas                     "CAs Icungwa Nawe">
 
 <!ENTITY certmgr.mine                         "Ufite ibyemezo byatanzwe n'iyi miryango ikuranga:">
 <!ENTITY certmgr.others                       "Ufite ibyemezo muri dosiye iranga aba bantu:">
-<!ENTITY certmgr.websites2                    "You have certificates on file that identify these servers:">
+
 <!ENTITY certmgr.cas                          "Ufite ibyemezo muri dosiye iranga aba bayobozi b'ibyemezo:">
-<!ENTITY certmgr.orphans                      "You have certificates on file that do not fit in any of the other categories:">
 
-<!ENTITY certmgr.detail.general_tab.title     "General">
-<!ENTITY certmgr.detail.general_tab.accesskey "G">
-<!ENTITY certmgr.detail.prettyprint_tab.title "Details">
-<!ENTITY certmgr.detail.prettyprint_tab.accesskey "D">
 
-<!ENTITY certmgr.pending.label                "Currently verifying certificate…">
+
+
+
+
 <!ENTITY certmgr.subjectinfo.label            "Byahawe">
 <!ENTITY certmgr.issuerinfo.label             "Byatanzwe Na">
-<!ENTITY certmgr.validity.label               "Ukugira agaciro" >
+
 <!ENTITY certmgr.fingerprints.label           "Ibikumwe">
 <!ENTITY certmgr.certdetail.title             "Ibisobanuro by'Icyemezo">
 <!ENTITY certmgr.certdetail.cn                "Izina Rusange (CN)">
 <!ENTITY certmgr.certdetail.o                 "Umuryango (O)">
 <!ENTITY certmgr.certdetail.ou                "Ishami Ricunga (OU)">
 <!ENTITY certmgr.certdetail.serialnumber      "Nimero Iranga">
+
 <!ENTITY certmgr.certdetail.sha1fingerprint   "Igikumwe cya SHA1">
-<!ENTITY certmgr.certdetail.md5fingerprint    "Igikumwe cya MD5">
 
 <!ENTITY certmgr.editcert.title               "Guhindura Amagenamiterere y'Icyemezo Mutekano">
 <!ENTITY certmgr.editcacert.title             "Guhindura Amagenamiterere y'Icyizere cy'Icyemezo cya CA">
-<!ENTITY certmgr.editsslcert.title            "Guhindura amagenamiterere y'icyizere cy'icyemezo cy'urubugamakuru">
 <!ENTITY certmgr.editcert.edittrust           "Guhindura amagenamiterere y'icyizere:">
 <!ENTITY certmgr.editcert.trustssl            "Iki cyemezo gishobora kuranga imbugamakuru.">
 <!ENTITY certmgr.editcert.trustemail          "Iki cyemezo gishobora kuranga abakoresha ubutumwa.">
 <!ENTITY certmgr.editcert.trustobjsign        "Iki cyemezo gishobora kuranga abakora porogaramu mudasobwa.">
-<!ENTITY certmgr.editsslcert.edittrust        "Guhindura amagenamiterere y'icyizere cy'icyemezo:">
-<!ENTITY certmgr.editsslcert.dotrust          "Kwizera ukuri kw'iki cyemezo.">
-<!ENTITY certmgr.editsslcert.donttrust        "Nta kwizera ukuri k'iki cyemezo.">
 <!ENTITY certmgr.editemailcert.title          "Guhindura amagenamiterere y'icyizere cy'icyemezo cya imiyili">
-<!ENTITY certmgr.editemailcert.edittrust      "Guhindura amagenamiterere y'icyizere cy'icyemezo:">
-<!ENTITY certmgr.editemailcert.dotrust        "Kwizera ukuri kw'iki cyemezo.">
-<!ENTITY certmgr.editemailcert.donttrust      "Nta kwizera ukuri k'iki cyemezo.">
+
+
+
 
 <!ENTITY certmgr.deletecert.title             "Gusiba Icyemezo">
 <!ENTITY certmgr.deletecert.beforename        "Wasabye gusiba iki cyemezo:">
@@ -60,55 +54,54 @@
 <!ENTITY certmgr.deleteusercert.aftername     "Numara gusiba iki cyemezo, ntuzashobora gusoma ubutumwa bwarinzwe barwifashishije.">
 
 <!ENTITY certmgr.certname                     "Izina ry'Icyemezo">
-<!ENTITY certmgr.certserver                   "Server">
-<!ENTITY certmgr.override_lifetime            "Lifetime">
+
+
 <!ENTITY certmgr.tokenname                    "Apareyi y'Umutekano">
-<!ENTITY certmgr.issued                       "Byatanzwe Ku Wa">
+
 <!ENTITY certmgr.expires                      "Agaciro Kayo Kazarangira Ku Wa:">
 <!ENTITY certmgr.email                        "Aderesi ya Imeyili">
 <!ENTITY certmgr.serial                       "Nimero Iranga">
 
 <!ENTITY certmgr.close.label                  "Gufunga">
 <!ENTITY certmgr.close.accesskey              "f">
-<!ENTITY certmgr.view2.label                  "View…">
-<!ENTITY certmgr.view2.accesskey              "V">
-<!ENTITY certmgr.edit3.label                  "Edit Trust…">
-<!ENTITY certmgr.edit3.accesskey              "E">
+
+
+
+
 <!ENTITY certmgr.editca.label                 "Guhindura Icyizere cya CA">
 <!ENTITY certmgr.editca.accesskey             "d">
 <!ENTITY certmgr.add.label                    "Kongera">
 <!ENTITY certmgr.add.accesskey                "n">
-<!ENTITY certmgr.export.label                 "Export…">
-<!ENTITY certmgr.export.accesskey             "x">
-<!ENTITY certmgr.delete2.label                "Delete…">
-<!ENTITY certmgr.delete2.accesskey            "D">
-<!ENTITY certmgr.delete_builtin.label         "Delete or Distrust…">
-<!ENTITY certmgr.delete_builtin.accesskey     "D">
-<!ENTITY certmgr.backup2.label                "Backup…">
-<!ENTITY certmgr.backup2.accesskey            "B">
-<!ENTITY certmgr.backupall2.label             "Backup All…">
-<!ENTITY certmgr.backupall2.accesskey         "k">
-<!ENTITY certmgr.restore2.label               "Import…">
-<!ENTITY certmgr.restore2.accesskey           "m">
+
+
+
+
+
+
+
+
+
+
+
+
 <!ENTITY certmgr.details.label                "Imyanya y'Icyemezo">
 <!ENTITY certmgr.details.accesskey            "m">
 <!ENTITY certmgr.fields.label                 "Agaciro k'Umwanya">
 <!ENTITY certmgr.fields.accesskey             "c">
 <!ENTITY certmgr.hierarchy.label              "Ikurikiranyanzego ry'Icyemezo">
 <!ENTITY certmgr.hierarchy.accesskey          "k">
-<!ENTITY certmgr.addException.label           "Add Exception…">
-<!ENTITY certmgr.addException.accesskey       "x">
 
-<!ENTITY exceptionMgr.title                   "Add Security Exception">
-<!ENTITY exceptionMgr.exceptionButton.label   "Confirm Security Exception">
-<!ENTITY exceptionMgr.exceptionButton.accesskey "C">
-<!ENTITY exceptionMgr.supplementalWarning     "Legitimate banks, stores, and other public sites will not ask you to do this.">
-<!ENTITY exceptionMgr.certlocation.caption2   "Server">
-<!ENTITY exceptionMgr.certlocation.url        "Location:">
-<!ENTITY exceptionMgr.certlocation.download   "Get Certificate">
-<!ENTITY exceptionMgr.certlocation.accesskey  "G">
-<!ENTITY exceptionMgr.certstatus.caption      "Certificate Status">
-<!ENTITY exceptionMgr.certstatus.viewCert     "View…">
-<!ENTITY exceptionMgr.certstatus.accesskey    "V">
-<!ENTITY exceptionMgr.permanent.label         "Permanently store this exception">
-<!ENTITY exceptionMgr.permanent.accesskey     "P">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
