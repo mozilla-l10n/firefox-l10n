@@ -10,8 +10,8 @@
 <!ENTITY radioRememberPrevState.accesskey "ы">
 <!ENTITY radioAskState.label "Запросить состояние подключения">
 <!ENTITY radioAskState.accesskey "о">
-<!ENTITY radioAlwaysOnline.label "Подключён к сети">
-<!ENTITY radioAlwaysOnline.accesskey "ю">
+<!ENTITY radioAlwaysOnlineState.label "Подключён к сети">
+<!ENTITY radioAlwaysOnlineState.accesskey "ю">
 <!ENTITY radioAlwaysOffline.label "Автономная работа">
 <!ENTITY radioAlwaysOffline.accesskey "в">
 <!ENTITY textGoingOnline "Отправить неотправленные сообщения при подключении?">

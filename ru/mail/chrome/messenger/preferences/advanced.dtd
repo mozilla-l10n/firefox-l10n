@@ -3,17 +3,19 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY itemGeneral.label "Основные">
+<!ENTITY dataChoicesTab.label "Выбор данных">
 <!ENTITY itemDisplay.label "Чтение и отображение">
 <!ENTITY itemUpdate.label "Обновления">
 <!ENTITY itemNetworking.label "Сеть и дисковое пространство">
 <!ENTITY itemCertificates.label "Сертификаты">
-<!ENTITY submitTelemetry.label "Отправлять данные о производительности">
-<!ENTITY submitTelemetry.accesskey "я">
-<!ENTITY telemetryInfoLink.label "Подробнее о телеметрии">
 <!ENTITY enableGlodaSearch.label "Включить глобальный поиск и индексацию сообщений">
 <!ENTITY enableGlodaSearch.accesskey "и">
 <!ENTITY allowHWAccel.label "По возможности использовать аппаратное ускорение">
 <!ENTITY allowHWAccel.accesskey "м">
+<!ENTITY storeType.label "Тип хранилища сообщений для новых учётных записей:">
+<!ENTITY storeType.accesskey "п">
+<!ENTITY mboxStore.label "Один большой файл (mbox)">
+<!ENTITY maildirStore.label "По файлу на сообщение (maildir)">
 <!ENTITY scrolling.label "Прокрутка">
 <!ENTITY useAutoScroll.label "Использовать автоматическую прокрутку">
 <!ENTITY useAutoScroll.accesskey "в">
@@ -32,6 +34,16 @@
 <!ENTITY returnReceiptsInfo.label "Определите, как &brandShortName; должен обрабатывать уведомления о прочтении">
 <!ENTITY showReturnReceipts.label "Уведомления о прочтении…">
 <!ENTITY showReturnReceipts.accesskey "ч">
+<!ENTITY telemetrySection.label "Телеметрия">
+<!ENTITY telemetryDesc.label "Поделиться сведениями о производительности, использовании, аппаратном обеспечении и настройках вашего почтового клиента с &vendorShortName;, чтобы помочь нам сделать &brandShortName; ещё лучше">
+<!ENTITY enableTelemetry.label "Включить телеметрию">
+<!ENTITY enableTelemetry.accesskey "ю">
+<!ENTITY telemetryLearnMore.label "Подробнее">
+<!ENTITY crashReporterSection.label "Сообщения о падениях">
+<!ENTITY crashReporterDesc.label "&brandShortName; отправляет сообщения о падении, чтобы помочь &vendorShortName; сделать ваш почтовый клиент более стабильным и безопасным">
+<!ENTITY enableCrashReporter.label "Включить отправку сообщений о падении">
+<!ENTITY enableCrashReporter.accesskey "л">
+<!ENTITY crashReporterLearnMore.label "Подробнее">
 <!ENTITY reading.caption "Чтение">
 <!ENTITY display.caption "Отображение">
 <!ENTITY showCondensedAddresses.label "Показывать только имя для людей, находящихся в моей адресной книге">

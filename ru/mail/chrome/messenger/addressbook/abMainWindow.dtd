@@ -3,6 +3,8 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY addressbookWindow.title "Адресная книга">
+<!ENTITY blankResultsPaneMessage.label "Это адресная книга покажет контакты только после поиска">
+<!ENTITY localResultsOnlyMessage.label "Контакты из удаленных адресных книг не будут показаны, пока вы не выполните поиск">
 <!ENTITY fileMenu.label "Файл">
 <!ENTITY fileMenu.accesskey "Ф">
 <!ENTITY newMenu.label "Создать">
@@ -137,6 +139,8 @@
 <!ENTITY advancedButton.tooltip "Расширенный режим поиска адресов">
 <!ENTITY quickSearchCmd.key "k">
 <!ENTITY searchItem.title "Быстрый поиск">
+<!ENTITY Addrbook.label "Адресная книга">
+<!ENTITY Addrbook.accesskey "н">
 <!ENTITY GeneratedName.label "Имя">
 <!ENTITY GeneratedName.accesskey "И">
 <!ENTITY PrimaryEmail.label "Электронная почта">

@@ -2,6 +2,8 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY Addrbook.label "Адресная книга">
+<!ENTITY Addrbook.accesskey "н">
 <!ENTITY GeneratedName.label "Имя">
 <!ENTITY GeneratedName.accesskey "И">
 <!ENTITY PrimaryEmail.label "Электронная почта">
