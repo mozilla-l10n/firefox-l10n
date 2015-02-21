@@ -13,6 +13,10 @@
 <!ENTITY pref.dateformat.long "Long " >
 <!ENTITY pref.dateformat.short "Court "  >
 
+<!ENTITY pref.timezones.caption "Fuseau horaire">
+<!ENTITY pref.timezones.label "Choisissez la ville la plus proche dans votre fuseau horaire :">
+<!ENTITY pref.timezones.accesskey "C">
+
 <!ENTITY pref.accessibility.label "Accessibilité" >
 <!ENTITY pref.systemcolors.label "Optimiser les couleurs pour l'accessibilité" >
 <!ENTITY pref.systemcolors.accesskey "O">

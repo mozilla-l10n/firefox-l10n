@@ -264,6 +264,7 @@
 <!ENTITY event.recurrence.pattern.monthly.week.5.label "Jeudi">
 <!ENTITY event.recurrence.pattern.monthly.week.6.label "Vendredi">
 <!ENTITY event.recurrence.pattern.monthly.week.7.label "Samedi">
+<!ENTITY event.recurrence.pattern.yearly.day.label "jour" >
 <!ENTITY event.recurrence.repeat.dayofmonth.label "Jour du mois">
 <!ENTITY event.recurrence.repeat.recur.label "Se répète le(s) jour(s)">
 <!ENTITY event.recurrence.every.label "Chaque :" >
