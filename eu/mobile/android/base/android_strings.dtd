@@ -172,7 +172,8 @@
 <!ENTITY pref_cookies_not_accept_foreign "Gaituta, hirugarrenenak salbu">
 <!ENTITY pref_cookies_disabled "Desgaituta">
 
-
+<!ENTITY pref_tracking_protection_title "Jarraipenaren aurkako babesa">
+<!ENTITY pref_tracking_protection_summary "Guneei zure jarraipena egitea eragotziko die &brandShortName;(e)k">
 <!ENTITY pref_donottrack_title "Do Not Track">
 <!ENTITY pref_donottrack_summary "Zure jarraipenik ez egiteko esango die guneei &brandShortName;(e)k">
 
@@ -430,7 +431,7 @@ size. -->
 <!ENTITY home_remote_tabs_empty "Zure beste gailuetako fitxak hemen erakusten dira.">
 <!ENTITY home_remote_tabs_unable_to_connect "Ezin da konektatu">
 <!ENTITY home_remote_tabs_need_to_sign_in "Hasi saioa zure Firefoxeko kontua birkonektatu eta sinkronizatzen jarraitzeko.">
-
+<!ENTITY home_remote_tabs_need_to_finish_migrating "Zure Firefoxeko kontu berria prest dago!">
 
 <!ENTITY home_remote_tabs_trouble_verifying "Arazoak kontua egiaztatzerakoan?">
 <!ENTITY home_remote_tabs_need_to_verify "Sinkronizatzen hasteko, egiaztatu zure Firefoxeko kontua.">
