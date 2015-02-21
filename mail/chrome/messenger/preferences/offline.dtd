@@ -4,14 +4,15 @@
 
 <!ENTITY offlineDialog.title "Paràmetres de fora de línia">
 
-
-
+<!ENTITY checkAutoDetect.label "Segueix automàticament l'estat en línia detectat">
+<!ENTITY checkAutoDetect.accesskey "d">
+<!ENTITY titleStartUp "Estat manual en iniciar-se:">
 <!ENTITY radioRememberPrevState.label "Recorda l'estat en línia anterior">
 <!ENTITY radioRememberPrevState.accesskey "R">
-
-
-
-
+<!ENTITY radioAskState.label "Pregunta'm l'estat en línia">
+<!ENTITY radioAskState.accesskey "k">
+<!ENTITY radioAlwaysOnline.label "Connectat">
+<!ENTITY radioAlwaysOnline.accesskey "l">
 
 
 
