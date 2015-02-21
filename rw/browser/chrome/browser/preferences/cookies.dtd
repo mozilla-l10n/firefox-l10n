@@ -7,11 +7,12 @@
 <!ENTITY     cookiesonsystem.label          "Iyi Dosiyenyibutsa Zabitswe kuri Mudasobwa Yawe:">
 <!ENTITY     cookiename.label               "Izina rya Dosiyenyibutsa">
 <!ENTITY     cookiedomain.label             "Paji"> 
-<!ENTITY     button.removecookies.label     "Remove Cookies">
-<!ENTITY     button.removecookie.label      "Kuraho Dosiyenyibutsa">
-<!ENTITY     button.removecookie.accesskey  "r">
-<!ENTITY     button.removeallcookies.label  "Kuraho Dosiyenyibutsa Yose">
-<!ENTITY     button.removeallcookies.accesskey "a">
+<!-- LOCALIZATION NOTE (button.removeSelectedCookies.accesskey):
+  The label associated with this accesskey can be found in 
+  preferences.properties as removeSelectedCookies.
+-->
+<!ENTITY     button.removeAllCookies.label "Gukuraho Byose">
+<!ENTITY     button.removeAllCookies.accesskey "B">
 
 <!ENTITY     props.name.label               "Izina:">
 <!ENTITY     props.value.label              "Ibirimo:">

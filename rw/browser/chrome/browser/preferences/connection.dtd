@@ -8,10 +8,10 @@
 <!ENTITY  window.macWidth               "52em">
 
 <!ENTITY  proxyTitle.label              "Kuboneza porogisi kugira ngo interineti ikoreshwe">
-<!ENTITY  noProxyTypeRadio.label        "No proxy">
-<!ENTITY  noProxyTypeRadio.accesskey    "y">
-<!ENTITY  systemTypeRadio.label         "Use system proxy settings">
-<!ENTITY  systemTypeRadio.accesskey     "u">
+
+
+
+
 <!ENTITY  WPADTypeRadio.label           "Amagenamiterere ya porogisi nyamwitahura agenewe uru rusobemiyoboro">
 <!ENTITY  WPADTypeRadio.accesskey       "g">
 <!ENTITY  manualTypeRadio.label         "Itunganya n'Intoki rya Porogosi:">
@@ -28,10 +28,12 @@
 <!ENTITY  ssl.accesskey                 "S">
 <!ENTITY  socks.label                   "Inturo SOCKS:">
 <!ENTITY  socks.accesskey               "O">
-<!ENTITY  socks4.label                  "SOCKS v4">
-<!ENTITY  socks4.accesskey              "K">
-<!ENTITY  socks5.label                  "SOCKS v5">
-<!ENTITY  socks5.accesskey              "v">
+
+
+
+
+
+
 <!ENTITY  port.label                    "Imuyoboro:">
 <!ENTITY  HTTPport.accesskey            "y">
 <!ENTITY  SSLport.accesskey             "o">
@@ -42,3 +44,6 @@
 <!ENTITY  noproxyExplain.label          "Urugero: .mozilla.org, .net.nz, 192.168.1.0/24">
 <!ENTITY  shareproxy.label              "Koresha iyo seriveri porogisi kuri porotokoli zose">
 <!ENTITY  shareproxy.accesskey          "z">
+
+
+

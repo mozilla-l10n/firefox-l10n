@@ -12,8 +12,8 @@
 <!ENTITY useCursorNavigation.accesskey   "r">
 <!ENTITY searchStartTyping.label         "Gushaka umwandiko nintangira kwandika">
 <!ENTITY searchStartTyping.accesskey     "s">
-<!ENTITY blockAutoRefresh.label          "Warn me when websites try to redirect or reload the page">
-<!ENTITY blockAutoRefresh.accesskey      "b">
+
+
 
 <!ENTITY browsing.label                  "Gushakisha">
 
@@ -21,38 +21,26 @@
 <!ENTITY useAutoScroll.accesskey         "k">
 <!ENTITY useSmoothScrolling.label        "Gukoresha Inyereza Rinyorotse">
 <!ENTITY useSmoothScrolling.accesskey    "I">
-<!ENTITY allowHWAccel.label              "Use hardware acceleration when available">
-<!ENTITY allowHWAccel.accesskey          "r">
+
+
 <!ENTITY checkSpelling.label             "Kugenzura imyandikire uko ngenda nandika">
 <!ENTITY checkSpelling.accesskey         "g">
 
-<!ENTITY systemDefaults.label            "System Defaults">
-<!--XXX-->
-<!ENTITY alwaysCheckDefault.label        "Always check to see if &brandShortName; is the default browser on startup">
-<!ENTITY alwaysCheckDefault.accesskey    "w">
-<!ENTITY setDefault.label                "Make &brandShortName; the default browser">
-<!ENTITY setDefault.accesskey            "d">
-<!ENTITY isDefault.label                 "&brandShortName; is currently your default browser">
 
-<!ENTITY dataChoicesTab.label            "Data Choices">
 
-<!ENTITY healthReportSection.label       "&brandShortName; Health Report">
-<!ENTITY healthReportDesc.label          "Helps you understand your browser performance and shares data with &vendorShortName; about your browser health">
-<!ENTITY enableHealthReport.label        "Enable &brandShortName; Health Report">
-<!ENTITY enableHealthReport.accesskey    "R">
-<!ENTITY healthReportLearnMore.label     "Learn More">
 
-<!ENTITY telemetrySection.label          "Telemetry">
-<!ENTITY telemetryDesc.label             "Shares performance, usage, hardware and customization data about your browser with &vendorShortName; to help us make &brandShortName; better">
-<!ENTITY enableTelemetry.label           "Enable Telemetry">
-<!ENTITY enableTelemetry.accesskey       "T">
-<!ENTITY telemetryLearnMore.label        "Learn More">
 
-<!ENTITY crashReporterSection.label      "Crash Reporter">
-<!ENTITY crashReporterDesc.label         "&brandShortName; submits crash reports to help &vendorShortName; make your browser more stable and secure">
-<!ENTITY enableCrashReporter.label       "Enable Crash Reporter">
-<!ENTITY enableCrashReporter.accesskey   "C">
-<!ENTITY crashReporterLearnMore.label    "Learn More">
+
+
+
+
+
+
+
+
+
+
+
 
 <!ENTITY networkTab.label                "Urusobemiyoboro">
 
@@ -62,9 +50,7 @@
 <!ENTITY connectionSettings.label        "Amagenamiterere...">
 <!ENTITY connectionSettings.accesskey    "g">
 
-<!ENTITY httpCache.label                 "Cached Web Content">
 
-<!ENTITY offlineStorage2.label           "Offline Web Content and User Data">
 <!-- LOCALIZATION NOTE:
   The entities limitCacheSizeBefore.label and limitCacheSizeAfter.label appear on a single
   line in preferences as follows:
@@ -72,61 +58,56 @@
   &limitCacheSizeBefore.label [textbox for cache size in MB] &limitCacheSizeAfter.label;
 -->
 
-<!ENTITY limitCacheSizeBefore.label      "Limit cache to">
-<!ENTITY limitCacheSizeBefore.accesskey  "L">
-<!ENTITY limitCacheSizeAfter.label       "MB of space">
-<!ENTITY clearCacheNow.label             "Clear Now">
-<!ENTITY clearCacheNow.accesskey         "C">
-<!ENTITY clearOfflineAppCacheNow.label   "Clear Now">
-<!ENTITY clearOfflineAppCacheNow.accesskey "N">
-<!ENTITY overrideSmartCacheSize.label    "Override automatic cache management">
-<!ENTITY overrideSmartCacheSize.accesskey "O">
+
+
+
+
+
+
+
 
 <!ENTITY updateTab.label                 "Kuvugurura">
 
-<!ENTITY updateApp.label                 "&brandShortName; updates:">
-<!ENTITY updateAuto.label                "Automatically install updates (recommended: improved security)">
-<!ENTITY updateAuto.accesskey            "A">
-<!ENTITY updateCheck.label               "Check for updates, but let me choose whether to install them">
-<!ENTITY updateCheck.accesskey           "C">
-<!ENTITY updateManual.label              "Never check for updates (not recommended: security risk)">
-<!ENTITY updateManual.accesskey          "N">
+<!-- Note either updateAuto1 is used or (updateAutoMetro and updateAutoDesktop),
+     so re-using accesss key in updateAuto1 is OK. updateAutoDesktop can be found
+     in preferences.properties -->
 
-<!ENTITY updateAutoAddonWarn.label       "Warn me if this will disable any of my add-ons">
-<!ENTITY updateAutoAddonWarn.accesskey   "W">
+
+
+
+
+
+
+
+
+
 
 <!ENTITY updateHistory.label             "Kwerekana Amateka yo Kuvugurura">
 <!ENTITY updateHistory.accesskey         "e">
 
-<!ENTITY useService.label                "Use a background service to install updates">
-<!ENTITY useService.accesskey            "b">
 
-<!ENTITY updateOthers.label              "Automatically update:">
+
 <!ENTITY enableSearchUpdate.label        "Gushakisha Amamoteri">
 <!ENTITY enableSearchUpdate.accesskey    "s">
 
-<!ENTITY offlineNotify.label             "Tell me when a website asks to store data for offline use">
-<!ENTITY offlineNotify.accesskey         "T">
-<!ENTITY offlineNotifyExceptions.label   "Exceptions…">
-<!ENTITY offlineNotifyExceptions.accesskey "x">
 
-<!ENTITY offlineAppsList2.label          "The following websites are allowed to store data for offline use:">
-<!ENTITY offlineAppsList.height          "7em">
-<!ENTITY offlineAppsListRemove.label     "Remove…">
-<!ENTITY offlineAppsListRemove.accesskey "R">
-<!ENTITY offlineAppRemove.confirm        "Remove offline data">
+
+
+
+
+
+
+
 
 <!ENTITY certificateTab.label            "Ibyemezo">
-<!ENTITY certSelection.description       "When a server requests my personal certificate:">
+
 <!ENTITY certs.auto                      "Guhitamo kimwe mu buryo bwikora">
-<!ENTITY certs.auto.accesskey            "h">
+
 <!ENTITY certs.ask                       "Mbaza buri gihe">
-<!ENTITY certs.ask.accesskey             "b">
-<!ENTITY viewCerts.label                 "Kureba Ibyemezo">
-<!ENTITY viewCerts.accesskey             "r">
-<!ENTITY viewCRLs.label                  "Lisiti y'Ibyemezo y'Irukanwa">
-<!ENTITY viewCRLs.accesskey              "L">
-<!ENTITY verify2.label                   "Validation">
-<!ENTITY verify2.accesskey               "V">
-<!ENTITY viewSecurityDevices.label       "Apareyi z'Umutekano">
-<!ENTITY viewSecurityDevices.accesskey   "A">
+
+
+
+
+
+
+

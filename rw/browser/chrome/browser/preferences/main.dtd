@@ -10,22 +10,17 @@
 <!ENTITY startupBlankPage.label    "Kwerekana paji itanditsweho">
 <!ENTITY startupLastSession.label  "Kwerekana amadirishya n'udufishi byanjye mu gihe giheruka">
 
-<!ENTITY homepage.label            "Home Page:">
-<!ENTITY homepage.accesskey        "P">
+
 <!ENTITY useCurrentPage.label      "Koresha Paji Iriho">
 <!ENTITY useCurrentPage.accesskey  "I">
 <!ENTITY useMultiple.label         "Koresha Paji Ziriho">
-<!ENTITY chooseBookmark.label      "Use Bookmark…">
-<!ENTITY chooseBookmark.accesskey  "B">
+
+
 <!ENTITY restoreDefault.label      "Kugaruraho ku Mburabuzi">
 <!ENTITY restoreDefault.accesskey  "g">
 
 <!ENTITY downloads.label     "Ibyakuruwe">
 
-<!ENTITY showWhenDownloading.label     "Kwerekana idirishya ry'Ibyakuruwe igihe cyo gukurura dosiye">
-<!ENTITY showWhenDownloading.accesskey "e">
-<!ENTITY closeWhenDone.label "Kurifunga ibyakuruwe byose birangiye">
-<!ENTITY closeWhenDone.accesskey "r">
 <!ENTITY saveTo.label "Kubika dosiye mu">
 <!ENTITY saveTo.accesskey "K">
 <!ENTITY chooseFolderWin.label        "Gushakisha...">
@@ -34,3 +29,12 @@
 <!ENTITY chooseFolderMac.accesskey    "h">
 <!ENTITY alwaysAsk.label "Kumbaza buri aho kubika dosiye">
 <!ENTITY alwaysAsk.accesskey "b">
+
+
+
+
+
+
+
+
+

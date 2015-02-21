@@ -6,47 +6,40 @@
 
 <!ENTITY printSetup.title    "Itunganyarupapuro">
 
-<!ENTITY basic.tab           "Imiterere &amp; Amahitamo">
 
 <!ENTITY formatGroup.label   "Imiterere">
 
 <!ENTITY orientation.label   "Icyerekezo:">
-<!ENTITY portrait.label      "Portrait">
-<!ENTITY portrait.accesskey  "P">
+
+
 <!ENTITY landscape.label     "Ntambike">
 <!ENTITY landscape.accesskey "b">
 
-<!ENTITY scale.label         "Scale:">
-<!ENTITY scale.accesskey     "S">
-<!ENTITY scalePercent        "&#037;">
 
-<!ENTITY shrinkToFit.label   "Shrink to fit Page Width">
-<!ENTITY shrinkToFit.accesskey "W">
+
+
+
 
 <!ENTITY optionsGroup.label  "Amahitamo">
 
-<!ENTITY printBG.label       "Print Background (colors &amp; images)">
-<!ENTITY printBG.accesskey   "B">
 
-<!ENTITY advanced.tab        "Marije &amp; Umutwempangano/Imperampangano">
+
 
 <!ENTITY marginGroup.label   "Marije (#1)">
 <!ENTITY marginUnits.inches  "inshi">
 <!ENTITY marginUnits.metric  "milimetero">
-<!ENTITY marginTop.label     "Top:">
-<!ENTITY marginTop.accesskey "T">
-<!ENTITY marginBottom.label  "Bottom:">
-<!ENTITY marginBottom.accesskey "B">
-<!ENTITY marginLeft.label    "Left:">
-<!ENTITY marginLeft.accesskey "L">
-<!ENTITY marginRight.label   "Right:">
-<!ENTITY marginRight.accesskey "R">
 
-<!ENTITY headerFooter.label  "Imitwempangano &amp; Imperampangano">
 
-<!ENTITY hfLeft.label        "Left:">
+
+
+
+
+
+
+
+
 <!ENTITY hfCenter.label      "Hagati:">
-<!ENTITY hfRight.label       "Right:">
+
 <!ENTITY headerLeft.tip      "Umutwe ibumoso">
 <!ENTITY headerCenter.tip    "Umutwe hagati">
 <!ENTITY headerRight.tip     "Umutwe iburyo">

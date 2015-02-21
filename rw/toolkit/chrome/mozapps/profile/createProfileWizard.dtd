@@ -11,13 +11,13 @@
 <!ENTITY profileCreationExplanation_3.text  "Niba ari wowe wenyine ukoresha iyi kopi ya &brandShortName;, ugomba kugira nibura igikuranfa kimwe. Niba ubishaka, ushobora kwiremera ibijyanye binyuranye kugira ngo ubike amatsinda atandukanye y'amagenamiterere n'ibyatoranyijwe. Urugero, ushobora gushaka kugira ibijyanye bitandukanye byo gukoresha mu kazi no ku giti cyawe.">
 <!ENTITY profileCreationExplanation_4.text  "Kugira ngo utangire kurema ibikuranga, kanda Ibikurikira.">
 <!ENTITY profileCreationExplanation_4Mac.text  "Kugira ngo utangire kurema umwirondoro wawe, kanda Gukomeza.">
-<!ENTITY profileCreationExplanation_4Gnome.text  "To begin creating your profile, click Next.">
+
 <!-- Second wizard page -->
 
 <!ENTITY profileCreationIntro.text      "Nurema ibikuranga byinshi ushobora kubitandukanya ukoresheje amazina y'ibiranga. Ushobora gukoresha izina ryatanzwe hano cyangwa irindi ryawe bwite.">
 <!ENTITY profilePrompt.label            "Kwinjiza izina rishya ry'ikiranga:">
 <!ENTITY profilePrompt.accesskey        "i">
-<!ENTITY profileDirectoryExplanation.text   "Your user settings, preferences and other user-related data will be stored in:">
+
 <!ENTITY profileDefaultName             "Ukoresha Mburabuzi">
 <!ENTITY button.choosefolder.label      "Guhitamo Ububiko...">
 <!ENTITY button.choosefolder.accesskey  "h">

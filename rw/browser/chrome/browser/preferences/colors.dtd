@@ -6,8 +6,10 @@
 <!ENTITY  window.width                    "55em">
 <!ENTITY  window.macWidth                 "41em">
 
-<!ENTITY  allowPagesToUse.label           "Gutuma paji zishobora kwihitiramo amabara yazo, mu mwanya w'ayo nahisemo haruguru">
-<!ENTITY  allowPagesToUse.accesskey       "e">
+
+
+
+
 
 <!ENTITY  color                           "Inyandiko n'Imbuganyuma">
 <!ENTITY  textColor.label                 "Inyandiko:">

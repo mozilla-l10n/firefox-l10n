@@ -14,22 +14,23 @@
                        for the help button in the menubar but Gnome does not.   -->
 <!ENTITY helpMenuWin.label        "Ifashayobora"> 
 <!ENTITY helpMenuWin.accesskey    "f">
-<!ENTITY aboutProduct.label       "About &brandShortName;">
-<!ENTITY aboutProduct.accesskey   "A">
-<!ENTITY productHelp.label        "&brandShortName; Help">
-<!ENTITY productHelp.accesskey    "H">
-<!ENTITY helpMac.commandkey       "?">
-<!ENTITY helpSafeMode.label       "Restart with Add-ons Disabled…">
-<!ENTITY helpSafeMode.accesskey   "R">
 
-<!ENTITY healthReport.label       "&brandShortName; Health Report">
-<!ENTITY healthReport.accesskey   "e">
 
-<!ENTITY helpTroubleshootingInfo.label      "Troubleshooting Information">
-<!ENTITY helpTroubleshootingInfo.accesskey  "T">
 
-<!ENTITY helpFeedbackPage.label      "Submit Feedback…">
-<!ENTITY helpFeedbackPage.accesskey  "S">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 <!ENTITY preferencesCmdMac.label        "Ibyatoranyijwe...">
 <!ENTITY preferencesCmdMac.commandkey   ",">

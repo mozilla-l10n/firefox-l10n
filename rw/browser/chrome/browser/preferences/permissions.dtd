@@ -11,8 +11,8 @@
 <!ENTITY removepermission.accesskey   "k">
 <!ENTITY removeallpermissions.label   "Gukuraho Imbuga Zose">
 <!ENTITY removeallpermissions.accesskey "e">
-<!ENTITY address.label                "Address of website:">
-<!ENTITY address.accesskey            "d">
+
+
 <!ENTITY block.label                  "Kubuza">
 <!ENTITY block.accesskey              "z">
 <!ENTITY session.label                "Kwemera Ninjiye">
