@@ -23,8 +23,8 @@
 <!ENTITY contextManual.accesskey "x">
 <!ENTITY contextBeforeCls.label "Filtra abans de comprovar si és correu brossa">
 <!ENTITY contextAfterCls.label "Filtra després de comprovar si és correu brossa">
-
-
+<!ENTITY contextOutgoing.label "Després d'enviar">
+<!ENTITY contextOutgoing.accesskey "S">
 
 <!ENTITY filterActionDesc.label "Realitza les següents accions:">
 <!ENTITY filterActionDesc.accesskey "z">

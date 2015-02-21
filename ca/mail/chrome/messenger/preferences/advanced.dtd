@@ -15,8 +15,8 @@
 <!ENTITY telemetryInfoLink.label       "Més informació sobre la telemesura">
 <!ENTITY enableGlodaSearch.label       "Habilita el cercador i indexador de missatges">
 <!ENTITY enableGlodaSearch.accesskey   "i">
-
-
+<!ENTITY allowHWAccel.label            "Utilitza l'acceleració de maquinari quan sigui disponible">
+<!ENTITY allowHWAccel.accesskey        "h">
 
 <!ENTITY scrolling.label               "Desplaçament">
 <!ENTITY useAutoScroll.label           "Utilitza el desplaçament automàtic">
