@@ -13,13 +13,28 @@
 <!ENTITY update.applyButtonBillboard.label        "Aplicar atualização...">
 <!ENTITY update.applyButtonBillboard.accesskey    "A">
 
+
+<!-- LOCALIZATION NOTE (warningDesc.version): This is a warning about the experimental nature of Nightly and Aurora builds. It is only shown in those versions. -->
+<!ENTITY warningDesc.version        "O &brandShortName; é experimental e pode ficar instável.">
+<!-- LOCALIZATION NOTE (warningDesc.telemetryDesc): This is a notification that Nightly/Aurora builds automatically send Telemetry data back to Mozilla. It is only shown in those versions. "It" refers to brandShortName. -->
+<!ENTITY warningDesc.telemetryDesc  "Ele envia informação sobre o desempenho, hardware, utilização e personalizações para a &vendorShortName; para ajudar o &brandShortName; a ficar melhor.">
+
+<!-- LOCALIZATION NOTE (community.exp.*) This paragraph is shown in "experimental" builds, i.e. Nightly and Aurora builds, instead of the other "community.*" strings below. -->
+<!ENTITY community.exp.start        "">
+<!-- LOCALIZATION NOTE (community.exp.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
+<!ENTITY community.exp.mozillaLink  "A &vendorShortName;">
+<!ENTITY community.exp.middle       " é uma ">
+<!-- LOCALIZATION NOTE (community.exp.creditslink): This is a link title that links to about:credits. -->
+<!ENTITY community.exp.creditsLink  "comunidade global">
+<!ENTITY community.exp.end          " que trabalha para manter a web aberta, pública e acessível a todos.">
+
 <!ENTITY community.start2           "O &brandShortName; é desenvolvido pela ">
 <!-- LOCALIZATION NOTE (community.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
 <!ENTITY community.mozillaLink      "&vendorShortName;">
 <!ENTITY community.middle2          ", uma ">
 <!-- LOCALIZATION NOTE (community.creditsLink): This is a link title that links to about:credits. -->
 <!ENTITY community.creditsLink      "comunidade global">
-<!ENTITY community.end2             " que trabalha para tornar a Internet melhor. Acreditamos que a Internet deve ser aberta, pública e acessível a todos sem quaisquer restrições.">
+<!ENTITY community.end3             " que trabalha para tornar a Internet melhor. Acreditamos que a Internet deve ser aberta, pública e acessível a todos.">
 
 <!ENTITY contribute.start           "Parece-lhe interessante? ">
 <!-- LOCALIZATION NOTE (contribute.getInvolvedLink): This is a link title that links to http://www.mozilla.org/contribute/. -->
@@ -37,12 +52,12 @@
 
 <!-- LOCALIZATION NOTE (update.checkingForUpdates): try to make the localized text short (see bug 596813 for screenshots). -->
 <!ENTITY update.checkingForUpdates  "Procurar atualizações...">
-
-
 <!-- LOCALIZATION NOTE (update.noUpdatesFound): try to make the localized text short (see bug 596813 for screenshots). -->
 <!ENTITY update.noUpdatesFound      "O &brandShortName; está atualizado">
 <!-- LOCALIZATION NOTE (update.adminDisabled): try to make the localized text short (see bug 596813 for screenshots). -->
 <!ENTITY update.adminDisabled       "As atualizações foram desativadas pelo administrador">
+<!-- LOCALIZATION NOTE (update.otherInstanceHandlingUpdates): try to make the localized text short -->
+<!ENTITY update.otherInstanceHandlingUpdates "O &brandShortName; está a ser atualizado por outra operação">
 
 <!-- LOCALIZATION NOTE (update.failed.start,update.failed.linkText,update.failed.end):
      update.failed.start, update.failed.linkText, and update.failed.end all go into
@@ -61,7 +76,6 @@
 <!ENTITY update.manual.linkText     "última versão">
 <!ENTITY update.manual.end          "">
 
-
 <!-- LOCALIZATION NOTE (update.unsupported.start,update.unsupported.linkText,update.unsupported.end):
      update.unsupported.start, update.unsupported.linkText, and
      update.unsupported.end all go into one line with linkText being wrapped in
@@ -71,6 +85,7 @@
 <!ENTITY update.unsupported.start    "Não pode efetuar mais atualizações neste sistema. ">
 <!ENTITY update.unsupported.linkText "Saber mais">
 <!ENTITY update.unsupported.end      "">
+
 <!-- LOCALIZATION NOTE (update.downloading.start,update.downloading.end): update.downloading.start and 
      update.downloading.end all go into one line, with the amount downloaded inserted in between. As this
      is all in one line, try to make the localized text short (see bug 596813 for screenshots). The — is
