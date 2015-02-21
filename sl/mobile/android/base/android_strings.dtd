@@ -480,7 +480,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- Mixed content notifications in site identity popup -->
 <!ENTITY loaded_mixed_content_message "Ta stran prikazuje vsebino, ki ni varna.">
 <!ENTITY blocked_mixed_content_message_top "&brandShortName; je zavrnil vsebino, ki ni varna.">
-<!ENTITY blocked_mixed_content_message_bottom "Večina strani bo delovala pravilo, čeprav je ta vsebina zavrnjena.">
+<!ENTITY blocked_mixed_content_message_bottom "Večina strani bo delovala pravilno, čeprav je ta vsebina zavrnjena.">
 
 <!-- Tracking content notifications in site identity popup -->
 <!ENTITY loaded_tracking_content_message_top "Zaščita pred sledenjem onemogočena.">
