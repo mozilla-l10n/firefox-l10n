@@ -3,7 +3,8 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY addressbookWindow.title                        "Adresár">
-
+<!ENTITY blankResultsPaneMessage.label                  "Tento adresár zobrazuje kontakty až po vyhľadávaní">
+<!ENTITY localResultsOnlyMessage.label                  "Kontakty zo vzdialených adresárov nie sú zobrazené až pokiaľ nevykonáte hľadanie">
 <!-- File Menu -->
 <!ENTITY fileMenu.label                                 "Súbor">
 <!ENTITY fileMenu.accesskey                             "S">
@@ -160,6 +161,8 @@ because displayed names don't have the comma in between. -->
 <!ENTITY searchItem.title                               "Rýchle vyhľadávanie">
 
 <!-- Results Pane -->
+<!ENTITY Addrbook.label                                 "Adresár">
+<!ENTITY Addrbook.accesskey                             "s">
 <!ENTITY GeneratedName.label                            "Meno">
 <!ENTITY GeneratedName.accesskey                        "M">
 <!ENTITY PrimaryEmail.label                             "E-mailová adresa">
@@ -185,7 +188,7 @@ because displayed names don't have the comma in between. -->
 <!ENTITY HomePhone.label                                "Telefón domov">
 <!ENTITY HomePhone.accesskey                            "f">
 <!ENTITY WorkPhone.label                                "Telefón do zamestnania">
-<!ENTITY WorkPhone.accesskey                            "s">
+<!ENTITY WorkPhone.accesskey                            "i">
 <!ENTITY sortAscending.label                            "Vzostupne">
 <!ENTITY sortAscending.accesskey                        "V">
 <!ENTITY sortDescending.label                           "Zostupne">
