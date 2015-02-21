@@ -172,6 +172,7 @@
 <!ENTITY pref_cookies_not_accept_foreign "Habilitades, excepte de tercers">
 <!ENTITY pref_cookies_disabled "Inhabilitades">
 
+
 <!ENTITY pref_donottrack_title "No vull ser seguit">
 <!ENTITY pref_donottrack_summary "El &brandShortName; farà saber als llocs web que no voleu que us segueixin">
 
@@ -429,6 +430,8 @@ size. -->
 <!ENTITY home_remote_tabs_empty "Aquí es mostren les pestanyes d\u0027altres dispositius.">
 <!ENTITY home_remote_tabs_unable_to_connect "No s\u0027ha pogut connectar">
 <!ENTITY home_remote_tabs_need_to_sign_in "Inicieu la sessió per tornar-vos a connectar al compte del Firefox i continuar la sincronització.">
+
+
 <!ENTITY home_remote_tabs_trouble_verifying "Teniu problemes per verificar el vostre compte?">
 <!ENTITY home_remote_tabs_need_to_verify "Verifiqueu el compte del Firefox per iniciar la sincronització.">
 
@@ -528,12 +531,6 @@ de l\u0027Android">
 
 <!ENTITY updater_apply_title2 "Actualització disponible per al &brandShortName;">
 <!ENTITY updater_apply_select2 "Toqueu per actualitzar">
-<!-- New tablet UI -->
-<!-- LOCALIZATION NOTE (new_tablet_restart): Notification displayed after the user toggles the new tablet UI in the settings screen.-->
-
-
-<!ENTITY new_tablet_restart "Reinicieu el navegador per aplicar els canvis">
-<!ENTITY new_tablet_pref "Activa la interfície nova de tauleta">
 <!-- Guest mode -->
 
 <!ENTITY new_guest_session "Sessió de convidat">

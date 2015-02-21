@@ -16,6 +16,8 @@
 <!ENTITY enableGlodaSearch.label       "Habilita el cercador i indexador de missatges">
 <!ENTITY enableGlodaSearch.accesskey   "i">
 
+
+
 <!ENTITY scrolling.label               "Desplaçament">
 <!ENTITY useAutoScroll.label           "Utilitza el desplaçament automàtic">
 <!ENTITY useAutoScroll.accesskey       "U">
