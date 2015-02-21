@@ -170,9 +170,9 @@
 <!ENTITY fxaccount_confirm_account_change_email "Voleu oblidar aquesta adreça electrònica?">
 <!ENTITY fxaccount_confirm_account_verification_link_sent2 "S\u0027ha enviat el missatge de verificació">
 <!ENTITY fxaccount_confirm_account_verification_link_not_sent2 "No s\u0027ha pogut enviar el missatge de verificació">
-
-
-
+<!ENTITY fxaccount_resend_unlock_code_button_label "Torna a enviar el correu de desbloqueig">
+<!ENTITY fxaccount_unlock_code_sent "S\u0027ha enviat el correu de desbloqueig del compte">
+<!ENTITY fxaccount_unlock_code_not_sent "No s\u0027ha pogut enviar el correu de desbloqueig del compte">
 
 <!ENTITY fxaccount_sign_in_sub_header "Inicia la sessió">
 <!ENTITY fxaccount_sign_in_button_label "Inicia la sessió">
@@ -183,13 +183,15 @@
 <!ENTITY fxaccount_account_verified_sub_header "S\u0027ha verificat el compte">
 <!ENTITY fxaccount_account_verified_description2 "La sincronització de les vostres dades s\u0027iniciarà d\u0027aquí uns instants.">
 
+<!ENTITY fxaccount_migration_finished_header "Actualització finalitzada.">
 
 <!ENTITY fxaccount_update_credentials_header "Inicia la sessió">
 <!ENTITY fxaccount_update_credentials_button_label "Inicia la sessió">
 <!ENTITY fxaccount_update_credentials_unknown_error "No s\u0027ha pogut iniciar la sessió">
 
-
-
+<!ENTITY fxaccount_finish_migrating_header "Inicieu la sessió per acabar l\u0027actualització">
+<!ENTITY fxaccount_finish_migrating_button_label "Acaba l\u0027actualització">
+<!ENTITY fxaccount_finish_migrating_description "En actualitzar-vos pot haver-hi una transferència alta de dades. És millor ser en una xarxa WiFi.">
 
 <!ENTITY fxaccount_status_header2 "Compte del Firefox">
 <!ENTITY fxaccount_status_signed_in_as "Sessió iniciada com a">
@@ -204,9 +206,9 @@
 <!ENTITY fxaccount_status_needs_credentials "No es pot connectar. Toqueu per iniciar la sessió.">
 <!ENTITY fxaccount_status_needs_upgrade "Heu d\u0027actualitzar el &brandShortName; per iniciar la sessió.">
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled "El &syncBrand.shortName.label; està configurat, però la sincronització automàtica està desactivada. Aneu a Configuració &gt; Ús de dades i marqueu «Sincronització automàtica de dades».">
-
+<!ENTITY fxaccount_status_needs_master_sync_automatically_enabled_v21 "El &syncBrand.shortName.label; està configurat però la sincronització automàtica està desactivada. Aneu al menú Comptes de la configuració de l\u0027Android i marqueu «Sincronització automàtica de dades».">
 <!ENTITY fxaccount_status_needs_account_enabled "El &syncBrand.shortName.label; està configurat, però la sincronització automàtica està desactivada. Toqueu per iniciar la sincronització.">
-
+<!ENTITY fxaccount_status_needs_finish_migrating "Toqueu per iniciar la sessió al vostre nou compte del Firefox.">
 <!ENTITY fxaccount_status_bookmarks "Adreces d\u0027interès">
 <!ENTITY fxaccount_status_history "Historial">
 <!ENTITY fxaccount_status_passwords "Contrasenyes">
@@ -254,11 +256,14 @@
 <!ENTITY fxaccount_remote_error_SERVICE_TEMPORARILY_UNAVAILABLE_TO_DUE_HIGH_LOAD "El servidor està ocupat, torneu-ho a provar">
 <!ENTITY fxaccount_remote_error_UNKNOWN_ERROR "S\u0027ha produït un problema">
 <!ENTITY fxaccount_remote_error_COULD_NOT_CONNECT "No s\u0027ha pogut connectar a la xarxa">
-
+<!ENTITY fxaccount_remote_error_ACCOUNT_LOCKED "El compte està bloquejat. &formatS1;">
 
 <!ENTITY fxaccount_sync_sign_in_error_notification_title2 "El &syncBrand.shortName.label; no està connectat">
 <!-- Localization note: the format string below will be replaced
      with the Firefox Account's email address. -->
+<!ENTITY fxaccount_sync_sign_in_error_notification_text2 "Toqueu per iniciar la sessió com a &formatS;">
 
+<!ENTITY fxaccount_sync_finish_migrating_notification_title "Voleu acabar l\u0027actualització del &syncBrand.shortName.label;?">
 <!-- Localization note: the format string below will be replaced
      with the Firefox Account's email address. -->
+<!ENTITY fxaccount_sync_finish_migrating_notification_text "Toqueu per iniciar la sessió com a &formatS;">

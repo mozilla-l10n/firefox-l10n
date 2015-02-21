@@ -172,7 +172,8 @@
 <!ENTITY pref_cookies_not_accept_foreign "Habilitades, excepte de tercers">
 <!ENTITY pref_cookies_disabled "Inhabilitades">
 
-
+<!ENTITY pref_tracking_protection_title "Protecció contra el seguiment">
+<!ENTITY pref_tracking_protection_summary "El &brandShortName; evitarà que llocs web us segueixin">
 <!ENTITY pref_donottrack_title "No vull ser seguit">
 <!ENTITY pref_donottrack_summary "El &brandShortName; farà saber als llocs web que no voleu que us segueixin">
 
@@ -430,7 +431,7 @@ size. -->
 <!ENTITY home_remote_tabs_empty "Aquí es mostren les pestanyes d\u0027altres dispositius.">
 <!ENTITY home_remote_tabs_unable_to_connect "No s\u0027ha pogut connectar">
 <!ENTITY home_remote_tabs_need_to_sign_in "Inicieu la sessió per tornar-vos a connectar al compte del Firefox i continuar la sincronització.">
-
+<!ENTITY home_remote_tabs_need_to_finish_migrating "El vostre nou compte del Firefox ja està llest!">
 
 <!ENTITY home_remote_tabs_trouble_verifying "Teniu problemes per verificar el vostre compte?">
 <!ENTITY home_remote_tabs_need_to_verify "Verifiqueu el compte del Firefox per iniciar la sincronització.">
