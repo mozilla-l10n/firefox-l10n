@@ -101,7 +101,7 @@
      used in the share overlay menu to select an action. It is the verb
      "to bookmark", not the noun "a bookmark". -->
 <!ENTITY overlay_share_bookmark_btn_label "Pridať medzi záložky">
-<!ENTITY overlay_share_reading_list_btn_label "Pridať do zoznamu na prečítanie">
+<!ENTITY overlay_share_reading_list_btn_label "Pridať do Zoznamu na prečítanie">
 <!ENTITY overlay_share_bookmark_btn_label_already "Už sa nachádza medzi záložkami">
 <!ENTITY overlay_share_reading_list_btn_label_already "Už sa nachádza v Zozname na prečítanie">
 <!ENTITY overlay_share_send_other "Odoslať do iných zariadení">
@@ -417,7 +417,7 @@ size. -->
      as an advisory message on how to add content to the reading list when the reading list empty.
      The placeholder &formatI; will be replaced by a small image of the icon described, and can be moved to wherever
      it is applicable. -->
-<!ENTITY home_reading_list_hint2 "Tip: články si môžete pridávať do zoznamu na prečítanie podržaním ikony &formatI;, keď sa táto zobrazí v titulku okna.">
+<!ENTITY home_reading_list_hint2 "Tip: články si môžete pridávať do Zoznamu na prečítanie podržaním ikony &formatI;, keď sa táto zobrazí v titulku okna.">
 <!-- Localization note (home_reading_list_hint_accessible): This string is used
      as alternate text for accessibility. It is not visible in the UI. -->
 <!ENTITY home_reading_list_hint_accessible "Tip: články si môžete pridávať do zoznamu na prečítanie podržaním tlačidla tohto režimu, keď sa toto zobrazí v titulku okna.">
