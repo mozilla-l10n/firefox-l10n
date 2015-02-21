@@ -79,6 +79,7 @@
 <!ENTITY details_location "Расположение">
 <!ENTITY details_manifestURL "ID приложения">
 <!ENTITY details_removeProject_button "Удалить проект">
+<!ENTITY details_showPrepackageLog_button "Показать лог предупаковки">
 <!ENTITY newAppWindowTitle "Новое приложение">
 <!ENTITY newAppHeader "Выбрать шаблон">
 <!ENTITY newAppLoadingTemplate "Загрузка шаблонов…">
@@ -141,3 +142,4 @@
 <!ENTITY wifi_auth_no_scanner "Нет запроса QR-сканера?">
 <!ENTITY wifi_auth_yes_scanner "Появился запрос QR-сканера?">
 <!ENTITY wifi_auth_token_request "Если другое устройство запрашивает токен вместо сканирования QR-кода, скопируйте показанное ниже значение на другое устройство:">
+<!ENTITY logs_title "Логи команд предупаковки">

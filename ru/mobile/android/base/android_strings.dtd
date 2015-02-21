@@ -4,8 +4,8 @@
 
 <!ENTITY no_space_to_start_error "Недостаточно свободного места для запуска &brandShortName;.">
 <!ENTITY error_loading_file "При попытке загрузки файлов, требуемых для запуска &brandShortName;, произошла ошибка.">
-<!ENTITY onboard_start_message "Добро пожаловать в &brandShortName;!">
-<!ENTITY onboard_start_subtext "Преданный вам, вашей приватности и открытому Интернету">
+<!ENTITY onboard_start_message2 "Добро пожаловать в &brandShortName;">
+<!ENTITY onboard_start_subtext2 "Ещё больше функций обеспечения приватности и способов настройки.">
 <!ENTITY onboard_start_button_account "Войти в &brandShortName;">
 <!ENTITY onboard_start_button_browser "Начать веб-сёрфинг">
 <!ENTITY bookmarks_title "Закладки">
@@ -366,4 +366,5 @@
 <!ENTITY voicesearch_failed_message_recoverable "Извините! Мы не смогли распознать ваши слова. Пожалуйста, попробуйте ещё раз.">
 <!ENTITY voicesearch_failed_retry "Попробовать снова">
 <!ENTITY remote_tabs_last_synced "Последняя синхронизация: &formatS;">
+<!ENTITY remote_tabs_never_synced "Последняя синхронизация: никогда">
 <!ENTITY find_matchcase "Аа">

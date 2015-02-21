@@ -592,3 +592,9 @@
 <!ENTITY processHang.terminatePlugin.accessKey "и">
 <!ENTITY processHang.terminateProcess.label "Убить процесс веб-страницы">
 <!ENTITY processHang.terminateProcess.accessKey "п">
+<!ENTITY emeLearnMoreContextMenu.label "Узнать больше о DRM…">
+<!ENTITY emeLearnMoreContextMenu.accesskey "а">
+<!ENTITY emeNotificationsNotNow.label "Не сейчас">
+<!ENTITY emeNotificationsNotNow.accesskey "е">
+<!ENTITY emeNotificationsDontAskAgain.label "Не спрашивать в следующий раз">
+<!ENTITY emeNotificationsDontAskAgain.accesskey "а">
