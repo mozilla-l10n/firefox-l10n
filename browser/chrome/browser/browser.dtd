@@ -834,6 +834,9 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY processHang.terminateProcess.label       "Ukončiť proces stránky">
 <!ENTITY processHang.terminateProcess.accessKey   "k">
 
+<!ENTITY emeLearnMoreContextMenu.label            "Ďalšie informácie o DRM…">
+<!ENTITY emeLearnMoreContextMenu.accesskey        "D">
+
 <!ENTITY emeNotificationsNotNow.label             "Teraz nie">
 <!ENTITY emeNotificationsNotNow.accesskey         "T">
 <!ENTITY emeNotificationsDontAskAgain.label       "Nabudúce sa už nepýtať">
