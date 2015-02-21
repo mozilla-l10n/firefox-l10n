@@ -133,6 +133,8 @@
 <!ENTITY messagePaneVertical.accesskey "В">
 <!ENTITY showFolderPaneCmd.label "Панель папок">
 <!ENTITY showFolderPaneCmd.accesskey "а">
+<!ENTITY showFolderPaneColsCmd.label "Колонки панели папок">
+<!ENTITY showFolderPaneColsCmd.accesskey "о">
 <!ENTITY showMessageCmd.label "Область просмотра сообщений">
 <!ENTITY showMessageCmd.accesskey "О">
 <!ENTITY folderView.label "Папки">
@@ -546,7 +548,9 @@
 <!ENTITY addNewTag.accesskey "Н">
 <!ENTITY manageTags.label "Управление метками…">
 <!ENTITY manageTags.accesskey "п">
-<!ENTITY folderColumn.label "Имя">
+<!ENTITY folderNameColumn.label "Имя">
+<!ENTITY folderUnreadColumn.label "Непрочитанные">
+<!ENTITY folderTotalColumn.label "Всего">
 <!ENTITY folderSizeColumn.label "Размер">
 <!ENTITY folderContextGetMessages.label "Получить сообщения">
 <!ENTITY folderContextGetMessages.accesskey "л">

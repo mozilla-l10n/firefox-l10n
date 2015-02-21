@@ -70,3 +70,7 @@
 <!ENTITY browseNewsrc.accesskey "з">
 <!ENTITY accountTitle.label "Параметры учётной записи">
 <!ENTITY accountSettingsDesc.label "Эта учётная запись особенная. С ней не связаны никакие персональные данные.">
+<!ENTITY storeType.label "Тип хранилища сообщений:">
+<!ENTITY storeType.accesskey "п">
+<!ENTITY mboxStore.label "Один большой файл (mbox)">
+<!ENTITY maildirStore.label "По файлу на сообщение (maildir)">
