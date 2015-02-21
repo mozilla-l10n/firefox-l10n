@@ -833,3 +833,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY processHang.terminatePlugin.accessKey    "U">
 <!ENTITY processHang.terminateProcess.label       "Ukončiť proces stránky">
 <!ENTITY processHang.terminateProcess.accessKey   "k">
+
+<!ENTITY readingList.label                        "Zoznam na prečítanie">
+<!ENTITY readingList.sidebar.commandKey           "o">
