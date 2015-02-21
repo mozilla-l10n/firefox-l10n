@@ -594,3 +594,7 @@
 <!ENTITY processHang.terminateProcess.accessKey "T">
 <!ENTITY emeLearnMoreContextMenu.label "Ulteriori informazioni sul DRM…">
 <!ENTITY emeLearnMoreContextMenu.accesskey "D">
+<!ENTITY emeNotificationsNotNow.label "Non adesso">
+<!ENTITY emeNotificationsNotNow.accesskey "N">
+<!ENTITY emeNotificationsDontAskAgain.label "Non chiedere nuovamente">
+<!ENTITY emeNotificationsDontAskAgain.accesskey "c">
