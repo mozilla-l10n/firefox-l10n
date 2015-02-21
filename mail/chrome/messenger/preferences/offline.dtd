@@ -4,13 +4,16 @@
 
 <!ENTITY offlineDialog.title "Paràmetres de fora de línia">
 
-<!ENTITY textStartUp "En iniciar:">
+
+
 <!ENTITY radioRememberPrevState.label "Recorda l'estat en línia anterior">
 <!ENTITY radioRememberPrevState.accesskey "R">
-<!ENTITY radioAskMe.label "Demana'm l'estat en línia a l'inici">
-<!ENTITY radioAskMe.accesskey "n">
-<!ENTITY radioAlwaysOnline.label "Inicia't sempre en línia">
-<!ENTITY radioAlwaysOnline.accesskey "l">
+
+
+
+
+
+
 
 <!ENTITY textGoingOnline "Voleu que s'enviïn els missatges per enviar en posar-se en línia?">
 <!ENTITY radioAutoSend.label "Sí">

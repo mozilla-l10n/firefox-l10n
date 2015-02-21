@@ -13,6 +13,10 @@
 <!ENTITY pref.dateformat.long "Llarg" >
 <!ENTITY pref.dateformat.short "Curt"  >
 
+<!ENTITY pref.timezones.caption "Fus horari">
+
+
+
 <!ENTITY pref.defaults.label "Valors per defecte per als elements nous">
 <!ENTITY pref.events.label "Cites">
 <!ENTITY pref.tasks.label "Tasques">

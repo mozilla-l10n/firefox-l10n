@@ -6,8 +6,11 @@
 <!ENTITY  window.width                    "48em">
 <!ENTITY  window.macWidth                 "51em">
 
-<!ENTITY  allowPagesToUse.label           "Permet al contingut triar els propis colors, en comptes de les seleccions de dalt">
-<!ENTITY  allowPagesToUse.accesskey       "P">
+
+
+<!ENTITY  overridePageColors.always.label "Sempre">
+
+<!ENTITY  overridePageColors.never.label  "Mai">
 
 <!ENTITY  color                           "Text i fons">
 <!ENTITY  textColor.label                 "Text:">

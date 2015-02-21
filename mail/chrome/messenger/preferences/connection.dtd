@@ -3,7 +3,6 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY  connectionsDialog.title       "Paràmetres de la connexió">
-<!ENTITY  window.width                   "55em">
 
 <!ENTITY  proxyTitle.label              "Configura els servidors intermediaris per accedir a Internet">
 <!ENTITY  noProxyTypeRadio.label        "Sense cap servidor intermediari">
