@@ -26,8 +26,8 @@
 <!ENTITY healthReportLearnMore.label "Ulteriori informazioni">
 <!ENTITY telemetryDesc.label "Condividi con &vendorShortName; informazioni relative a prestazioni, utilizzo, hardware e personalizzazioni del browser per contribuire al miglioramento di &brandShortName;">
 <!ENTITY telemetryLearnMore.label "Ulteriori informazioni">
-<!ENTITY crashReporterSection.label "Segnalazione arresti anomali">
 <!ENTITY crashReporterDesc.label "Invia a &vendorShortName; segnalazioni relative ad arresti anomali di &brandShortName; per migliorarne la stabilità e la sicurezza">
+<!ENTITY enableCrashReporter.label "Attiva segnalazione arresti anomali">
 <!ENTITY enableCrashReporter.accesskey "s">
 <!ENTITY enableTelemetryData.label "Condividi ulteriori dati (telemetria)">
 <!ENTITY enableTelemetryData.accesskey "t">
