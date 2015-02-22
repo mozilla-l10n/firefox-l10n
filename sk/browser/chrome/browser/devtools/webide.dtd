@@ -94,6 +94,7 @@
 <!ENTITY details_location "Umiestnenie">
 <!ENTITY details_manifestURL "Identifikátor aplikácie">
 <!ENTITY details_removeProject_button "Odstrániť projekt">
+<!ENTITY details_showPrepackageLog_button "Zobraziť záznamy pre Pre-package">
 
 <!-- New App -->
 <!ENTITY newAppWindowTitle "Nová aplikácia">
@@ -191,3 +192,6 @@
 <!-- LOCALIZATION NOTE (wifi_auth_token_request): Instructions requesting the
      user to transfer authentication info by transferring a token. -->
 <!ENTITY wifi_auth_token_request "Ak vaše druhé zariadenie žiada namiesto načítania kódu QR zadanie tokenu, skopírujte nasledovnú hodnotu do svojho zariadenia:">
+
+<!-- Logs panel -->
+<!ENTITY logs_title "Záznamy príkazu Pre-packaging">
