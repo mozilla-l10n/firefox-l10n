@@ -1,6 +1,8 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY minimizeWindow.key       "m">
 <!ENTITY minimizeWindow.label     "Minikan">
 <!ENTITY bringAllToFront.label    "Tampilkan Semua ke Latar Depan">
 <!ENTITY zoomWindow.label         "Perbesaran">
@@ -16,7 +18,7 @@
 <!ENTITY aboutProduct.accesskey   "T">
 <!ENTITY productHelp.label        "Bantuan &brandShortName;">
 <!ENTITY productHelp.accesskey    "B">
-
+<!ENTITY helpMac.commandkey       "?">
 
 <!ENTITY helpKeyboardShortcuts.label     "Pintasan Keyboard">
 <!ENTITY helpKeyboardShortcuts.accesskey "K">
@@ -37,14 +39,14 @@
 <!ENTITY helpShowTour.accesskey         "u">
 
 <!ENTITY preferencesCmdMac.label        "Pengaturan…">
-
+<!ENTITY preferencesCmdMac.commandkey   ",">
 
 <!ENTITY servicesMenuMac.label          "Layanan">
 
 <!ENTITY hideThisAppCmdMac.label        "Sembunyikan &brandShortName;">
-
+<!ENTITY hideThisAppCmdMac.commandkey   "H">
 
 <!ENTITY hideOtherAppsCmdMac.label      "Sembunyikan Lainnya">
-
+<!ENTITY hideOtherAppsCmdMac.commandkey "H">
 
 <!ENTITY showAllAppsCmdMac.label        "Tampilkan Semua">
