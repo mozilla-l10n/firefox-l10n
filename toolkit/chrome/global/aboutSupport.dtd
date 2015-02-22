@@ -58,3 +58,5 @@
 <!ENTITY aboutSupport.copyTextToClipboard.label "Copiar el texto al portapapeles">
 <!ENTITY aboutSupport.copyRawDataToClipboard.label "Copiar datos en crudo al portapapeles">
 <!ENTITY aboutSupport.sandboxTitle "Entorno de pruebas">
+<!ENTITY aboutSupport.safeModeTitle "Probar modo seguro">
+<!ENTITY aboutSupport.restartInSafeMode.label "Reiniciar con complementos desactivados…">
