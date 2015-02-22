@@ -43,8 +43,8 @@
 
 <!ENTITY servicesMenuMac.label          "Služby">
 
-<!ENTITY hideThisAppCmdMac.label        "Skryť &brandShortName;">
-<!ENTITY hideThisAppCmdMac.commandkey   "H">
+<!ENTITY hideThisAppCmdMac2.label        "Skryť &brandShorterName;">
+<!ENTITY hideThisAppCmdMac2.commandkey   "H">
 
 <!ENTITY hideOtherAppsCmdMac.label      "Skryť ostatné">
 <!ENTITY hideOtherAppsCmdMac.commandkey "H">
