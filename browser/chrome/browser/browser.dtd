@@ -592,6 +592,8 @@
 <!ENTITY processHang.terminatePlugin.accessKey "m">
 <!ENTITY processHang.terminateProcess.label "Termina il processo web">
 <!ENTITY processHang.terminateProcess.accessKey "T">
+<!ENTITY readingList.label "Elenco lettura">
+<!ENTITY readingList.sidebar.commandKey "R">
 <!ENTITY emeLearnMoreContextMenu.label "Ulteriori informazioni sul DRM…">
 <!ENTITY emeLearnMoreContextMenu.accesskey "D">
 <!ENTITY emeNotificationsNotNow.label "Non adesso">
