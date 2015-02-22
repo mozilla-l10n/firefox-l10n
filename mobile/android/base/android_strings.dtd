@@ -4,8 +4,8 @@
 
 <!ENTITY no_space_to_start_error "No hay suficiente espacio para que &brandShortName; pueda iniciarse.">
 <!ENTITY error_loading_file "Ha ocurrido un error mientras se intentaba cargar los archivos para usar &brandShortName;">
-<!ENTITY onboard_start_message "¡Bienvenido a &brandShortName;!">
-<!ENTITY onboard_start_subtext "Comprometidos contigo, tu privacidad y una web abierta">
+<!ENTITY onboard_start_message2 "Bienvenido a &brandShortName;">
+<!ENTITY onboard_start_subtext2 "Más características y formas de personalizar la privacidad que nunca.">
 <!ENTITY onboard_start_button_account "Iniciar sesión en &brandShortName;">
 <!ENTITY onboard_start_button_browser "Comenzar a navegar">
 <!ENTITY bookmarks_title "Marcadores">
@@ -369,4 +369,5 @@
 <!ENTITY voicesearch_failed_message_recoverable "¡Lo sentimos! No hemos podido reconocer sus palabras. Vuelva a intentarlo.">
 <!ENTITY voicesearch_failed_retry "Vuelva a intentarlo">
 <!ENTITY remote_tabs_last_synced "Última sincr.: &formatS;">
+<!ENTITY remote_tabs_never_synced "Última sincronización: nunca">
 <!ENTITY find_matchcase "Aa">
