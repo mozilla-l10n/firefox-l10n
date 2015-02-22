@@ -11,7 +11,7 @@
 <!ENTITY update.checkForUpdatesButton.label       "Periksa versi baru">
 <!ENTITY update.checkForUpdatesButton.accesskey   "P">
 <!ENTITY update.updateButton.label2                "Mulai Ulang &brandShortName; untuk Memperbarui">
-
+<!ENTITY update.updateButton.accesskey            "U">
 <!ENTITY update.applyButtonBillboard.label        "Terapkan Pembaruan…">
 <!ENTITY update.applyButtonBillboard.accesskey    "T">
 <!-- LOCALIZATION NOTE (warningDesc.version): This is a warning about the experimental nature of Nightly and Aurora builds. It is only shown in those versions. -->
@@ -32,9 +32,11 @@
 
 <!ENTITY community.start2           "&brandShortName; didesain oleh ">
 <!-- LOCALIZATION NOTE (community.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
+<!ENTITY community.mozillaLink      "&vendorShortName;">
 <!ENTITY community.middle2          ", sebuah ">
 <!-- LOCALIZATION NOTE (community.creditsLink): This is a link title that links to about:credits. -->
-
+<!ENTITY community.creditsLink      "komunitas global">
+<!ENTITY community.end3             " yang bekerja sama untuk menjaga agar dunia Web tetap terbuka, untuk publik, dan dapat diakses oleh semua orang tanpa batasan.">
 
 <!ENTITY helpus.start               "Ingin membantu? ">
 <!-- LOCALIZATION NOTE (helpus.donateLink): This is a link title that links to https://sendto.mozilla.org/page/contribute/Give-Now?source=mozillaorg_default_footer&ref=firefox_about&utm_campaign=firefox_about&utm_source=firefox&utm_medium=referral&utm_content=20140929_FireFoxAbout. -->
