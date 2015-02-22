@@ -13,11 +13,10 @@
 <!ENTITY restorepage.startNew       "Memulai sesi penjelajahan baru">
 
 <!ENTITY restorepage.tryagainButton "Kembalikan">
-<!ENTITY restorepage.restore.access "K">
-<!ENTITY restorepage.closeButton    "Tutup">
-<!ENTITY restorepage.close.access   "T">
 
-<!ENTITY restorepage.restoreHeader  "Kembalikan Sesi?">
+<!ENTITY restorepage.closeButton    "Tutup">
+
+
 <!ENTITY restorepage.listHeader     "Judul Jendela dan Tab">
 <!-- LOCALIZATION NOTE: &#37;S will be replaced with a number. -->
 <!ENTITY restorepage.windowLabel    "Jendela &#037;S">
@@ -27,11 +26,10 @@
 
 
 <!ENTITY welcomeback2.restoreButton  "Mulai!">
-<!ENTITY welcomeback2.restoreButton.access "M">
+
 
 <!ENTITY welcomeback2.tabtitle      "Sukses!">
 
-<!ENTITY welcomeback2.pageTitle     "Sukses!">
 <!ENTITY welcomeback2.pageInfo1     "&brandShortName; siap bertugas.">
 
 <!ENTITY welcomeback2.label.restoreAll  "Pulihkan semua Jendela dan Tab">
