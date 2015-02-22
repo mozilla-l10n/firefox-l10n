@@ -158,7 +158,7 @@ functionality specific to firefox. -->
 <button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>">
 
 <!ENTITY errorReporting.title "ಈ ದೋಷವನ್ನು ವರದಿ ಮಾಡು">
-
+<!ENTITY errorReporting.longDesc "<span id='hostname'></span> ಗಾಗಿನ ವಿಳಾಸ ಮತ್ತು ಪ್ರಮಾಣಪತ್ರದ ಮಾಹಿತಿಯನ್ನು ವರದಿ ಮಾಡುವುದರಿಂದ ಅಪಾಯಕಾರಿ ತಾಣಗಳನ್ನು ಗುರುತಿಸಲು ಮತ್ತು ನಿರ್ಬಂಧಿಸಲು ನಮಗೆ ನೆರವಾಗುತ್ತದೆ. ಸುರಕ್ಷಿತವಾದ ಜಾಲವನ್ನು ರಚಿಸಲು ನೆರವಾಗಿದ್ದಕ್ಕೆ ಧನ್ಯವಾದಗಳು!">
 <!ENTITY errorReporting.automatic "ಸ್ವಯಂಚಾಲಿತವಾಗಿ ಭವಿಷ್ಯದಲ್ಲಿ ದೋಷಗಳನ್ನು ವರದಿಮಾಡು">
 <!ENTITY errorReporting.learnMore "ಇನ್ನಷ್ಟು ತಿಳಿಯಿರಿ...">
 <!ENTITY errorReporting.sending "ವರದಿಯನ್ನು ಕಳುಹಿಸಲಾಗುತ್ತಿದೆ">
@@ -172,6 +172,7 @@ functionality specific to firefox. -->
 <!ENTITY oldSecurityProtocol.title "ಸುರಕ್ಷಿತವಾಗಿ ಸಂಪರ್ಕ ಸಾಧಿಸಲು ಸಾಧ್ಯವಾಗಿಲ್ಲ">
 <!-- LOCALIZATION NOTE (oldSecurityProtocol.longDesc) - Do not translate the
      <span id='hostname'></span>. -->
+<!ENTITY oldSecurityProtocol.longDesc2 "<span id='hostname'></span> ವು ಒಂದು ಸರಿಯಲ್ಲದ ಸುರಕ್ಷತಾ ಪ್ರೊಟೊಕಾಲ್ ಆದಂತಹ SSLv3, ಅನ್ನು ಬಳಸುತ್ತಿರುವುದರಿಂದ ಅದರಲ್ಲಿನ ನಿಮ್ಮ ಮಾಹಿತಿಯ ಸುರಕ್ಷತೆಯ ಬಗ್ಗೆ &brandShortName; ಯಾವುದೆ ಖಾತರಿಯನ್ನು ನೀಡುವುದಿಲ್ಲ.">
 <!-- LOCALIZATION NOTE (oldSecurityProtocol.advancedInfo) - Do not translate
      the <span id='errorcode'></span>. -->
 <!ENTITY oldSecurityProtocol.advancedInfo "ಸುಧಾರಿತ ಮಾಹಿತಿ:<span id='errorcode'></span>">

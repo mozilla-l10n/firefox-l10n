@@ -31,7 +31,7 @@
 <!ENTITY  font.langGroup.korean                   "ಕೊರಿಯನ್">
 <!ENTITY  font.langGroup.cyrillic                 "ಸಿರಿಲಿಕ್">
 <!ENTITY  font.langGroup.el                       "ಗ್ರೀಕ್">
-
+<!ENTITY  font.langGroup.other                    "ಇತರೆ ಬರೆಯುವ ವ್ಯವಸ್ಥೆಗಳು">
 <!ENTITY  font.langGroup.thai                     "ಥಾಯ್‍">
 <!ENTITY  font.langGroup.hebrew                   "ಹೀಬ್ರೂ">
 <!ENTITY  font.langGroup.arabic                   "ಅರೇಬಿಕ್‍">

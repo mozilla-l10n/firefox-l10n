@@ -6,8 +6,8 @@
 
 <!ENTITY dntTrackingNotOkay.label2      "ನನ್ನ ಜಾಡನ್ನು ಇರಿಸlಲು ಬಯಸುವುದಿಲ್ಲ ಎಂದು ಜಾಲ ತಾಣಗಳಿಗೆ ತಿಳಿಸು">
 <!ENTITY dntTrackingNotOkay.accesskey   "n">
-
-
+<!ENTITY trackingProtection.label       "ತಾಣಗಳು ನನ್ನ ಜಾಡನ್ನು ಇರಿಸದಂತೆ ತಡೆ">
+<!ENTITY trackingProtection.accesskey   "m">
 <!ENTITY trackingProtectionLearnMore.label "ಇನ್ನಷ್ಟು ತಿಳಿಯಿರಿ">
 <!ENTITY doNotTrackInfo.label           "ಇನ್ನಷ್ಟು ತಿಳಿಯಿರಿ">
 

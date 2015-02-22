@@ -15,7 +15,7 @@
 
 <!ENTITY  paneGeneral.title       "ಸಾಮಾನ್ಯ">
 <!ENTITY  paneTabs.title          "ಟ್ಯಾಬ್‍ಗಳು">
-
+<!ENTITY  paneSearch.title        "ಹುಡುಕು">
 <!ENTITY  paneContent.title       "ಒಳಅಂಶಗಳು">
 <!ENTITY  paneApplications.title  "ಅನ್ವಯಗಳು">
 <!ENTITY  panePrivacy.title       "ಗೌಪ್ಯತೆ">

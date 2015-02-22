@@ -115,11 +115,11 @@
 <!ENTITY prefs_restore "ಪೂರ್ವನಿಯೋಜಿತಗಳನ್ನು ಮರುಸ್ಥಾಪಿಸು">
 <!ENTITY prefs_manage_components "ಅಧಿಕ ಘಟಕಗಳನ್ನು ನಿರ್ವಹಿಸಿ">
 <!ENTITY prefs_options_autoconnectruntime "ಹಿಂದಿನ ನಿರ್ವಹಣಾ ಸಮಯಕ್ಕೆ ಮರು ಸಂಪರ್ಕಗೊಳ್ಳು">
-
+<!ENTITY prefs_options_autoconnectruntime_tooltip "WebIDE ಆರಂಭಗೊಂಡಾಗ ಹಿಂದಿನ ರನ್‌ಟೈಮ್‌ನೊಂದಿಗೆ ಮರಳಿ ಸಂಪರ್ಕಸಾಧಿಸಿ">
 <!ENTITY prefs_options_rememberlastproject "ಕಡೆಯ ಯೋಜನೆಯನ್ನು ನೆನಪಿನಲ್ಲಿರಿಸಿ">
-
+<!ENTITY prefs_options_rememberlastproject_tooltip "WebIDE ಆರಂಭಗೊಂಡಾಗ ಹಿಂದಿನ ಯೋಜನೆಯಿಂದ ಮರಳಿ ಸ್ಥಾಪಿಸು">
 <!ENTITY prefs_options_templatesurl "ಮಾದರಿಗಳ URL">
-
+<!ENTITY prefs_options_templatesurl_tooltip "ಲಭ್ಯವಿರುವ ಟೆಂಪ್ಲೇಟ್‌ಗಳ ಸೂಚಿ">
 <!ENTITY prefs_options_showeditor "ಸಂಪಾದಕ ತೋರಿಸು">
 <!ENTITY prefs_options_showeditor_tooltip "ಆಂತರಿಕ ಸಂಪಾದಕ ತೋರಿಸು">
 <!ENTITY prefs_options_tabsize "ಟ್ಯಾಬ್‌ನ ಗಾತ್ರ">
@@ -142,7 +142,7 @@
 <!ENTITY runtimedetails_title "ಚಾಲನಾಸಮಯದ ಮಾಹಿತಿ">
 <!ENTITY runtimedetails_adbIsRoot "ADB ಒಬ್ಬ ನಿರ್ವಾಹಕ: ">
 <!ENTITY runtimedetails_summonADBRoot "ನಿರ್ವಹಕ ಸಾಧನ">
-
+<!ENTITY runtimedetails_ADBRootWarning "(ಅನ್‌ಲಾಕ್ ಮಾಡಿದ ಬೂಟ್‌ಲೋಡರ್‌ನ ಅಗತ್ಯವಿದೆ)">
 <!ENTITY runtimedetails_restrictedPrivileges "(ಅನ್‌ಲಾಕ್ ಮಾಡಿದ ಬೂಟ್‌ಲೋಡರ್‌ನ ಅಗತ್ಯವಿರುತ್ತದೆ)">
 <!ENTITY runtimedetails_requestPrivileges "ಹೆಚ್ಚಿನ ಅಧಿಕಾರದ ಅಗತ್ಯವಿರುತ್ತದೆ">
 <!ENTITY runtimedetails_privilegesWarning "(ಸಾಧನವನ್ನು ಮರಳಿ ಬೂಟ್ ಮಾಡುತ್ತದೆ. ನಿರ್ವಾಹಕ ಅಧಿಕಾರದ ಅಗತ್ಯವಿದೆ.)">
