@@ -64,7 +64,7 @@
 <!ENTITY unknownSocketType.longDesc "<p>Tovuti iliitikia ombi la mtandao katika njia ambayo haikutarajiwa na kivinjari hakiwezi kuendelea.</p>">
 
 <!ENTITY nssFailure2.title "Muungao Salama Umeshindwa">
-<!ENTITY nssFailure2.longDesc "<p>Ukurasa unayojaribu kuangalia hauwezi kuonyeshwa kwa sababu uhalali wa data iliyopokelewa haiwezi kudhibitishwa.</p><ul><li>Tafadhali wasiliana wamiliki wa tovuti ili kuwajulisha kuhusu tatizo hii.</li></ul>">
+<!ENTITY nssFailure2.longDesc2 "<p>Ukurasa unayojaribu kuangalia hauwezi kuonyeshwa kwa sababu uhalali wa data iliyopokelewa haiwezi kudhibitishwa.</p><ul><li>Tafadhali wasiliana wamiliki wa tovuti ili kuwajulisha kuhusu tatizo hii.</li></ul>">
 
 <!ENTITY nssBadCert.title "Muungano Salama Umeshindwa">
 <!ENTITY nssBadCert.longDesc2 "<ul> 
@@ -80,8 +80,8 @@
 <!ENTITY phishingBlocked.longDesc "<p>Kuingiza maelezo yoyote ya kibinafsi kwenye ukurasa huu waweza kusababisha wizi au udanganyifu wa aina nyingine.</p> 
 <p>Aina hizi za ughushi hutumiwa katika taka zinazojulikana kama utapeli data shambulizi, ambapo kurasa za udanganyifu za wavuti na barua pepe hutumiwa kuiga chanzo ambacho waweza kuamini.</p>">
 
-<!ENTITY cspFrameAncestorBlocked.title "Imezuiliwa na Sera ya Usalama wa Maudhui">
-<!ENTITY cspFrameAncestorBlocked.longDesc "<p>Kivinjari kimezuia ukurasa huu kupakia katika njia hii kwa sababu ukurasa una sera ya usalama wa maudhui ambayo inakataza hili.</p>">
+<!ENTITY cspBlocked.title "Imezuiliwa na Sera ya Usalama wa Maudhui">
+<!ENTITY cspBlocked.longDesc "<p>Kivinjari kimezuia ukurasa huu kupakia katika njia hii kwa sababu ukurasa una sera ya usalama wa maudhui ambayo inakataza hili.</p>">
 
 <!ENTITY corruptedContentError.title "Kosa la Kuharibika kwa Maudhui">
 <!ENTITY corruptedContentError.longDesc "<p>Ukurasa unaojaribu kuangalia hauwezi kuonyeswha kwa sababu unatumia mfanyizo batili au usioauniwa.</p><ul><li>Tafadhali wasiliana na wamiliki wa wavuti kuwajulisha kuhusu shida hii.</li></ul>">

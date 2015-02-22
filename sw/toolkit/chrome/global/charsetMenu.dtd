@@ -4,14 +4,3 @@
 
 <!ENTITY charsetMenu.label             "Usimbaji Kibambo">
 <!ENTITY charsetMenu.accesskey         "U">
-<!-- The strings below are unused on m-c. They will be removed post-Australis -->
-<!-- A reserved for Arabic -->
-
-
-
-
-<!ENTITY charsetMenuAutodet.ru.label      "Kirusi">
-<!ENTITY charsetMenuAutodet.ru.accesskey  "R">
-
-
-

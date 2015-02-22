@@ -26,14 +26,6 @@
 <!ENTITY checkSpelling.label             "Angalia maendelezo ninapopiga chapa">
 <!ENTITY checkSpelling.accesskey         "p">
 
-<!ENTITY systemDefaults.label            "Mfumo wa Chaguo misingi">
-<!--XXX-->
-<!ENTITY alwaysCheckDefault.label        "Kila mara angalia kuona kama &brandShortName; ndiyo kivinjari chaguo msingi wakati wa kuanza">
-<!ENTITY alwaysCheckDefault.accesskey    "l">
-<!ENTITY setDefault.label                "Fanya &brandShortName; kivinjari msingi">
-<!ENTITY setDefault.accesskey            "m">
-<!ENTITY isDefault.label                 "&brandShortName; kwa sasa ni kivinjari chako msingi">
-
 <!ENTITY dataChoicesTab.label            "Chaguo za Data">
 
 <!ENTITY healthReportSection.label       "Ripoti ya Hali ya &brandShortName;">
@@ -125,12 +117,12 @@
 <!ENTITY certificateTab.label            "Vyeti">
 <!ENTITY certSelection.description       "Wakati seva inaomba cheti changu cha binafsi:">
 <!ENTITY certs.auto                      "Chagua moja kiotomatiki">
-<!ENTITY certs.auto.accesskey            "l">
+
 <!ENTITY certs.ask                       "Niulize kila wakati">
-<!ENTITY certs.ask.accesskey             "i">
-<!ENTITY viewCerts.label                 "Angalia Vyeti">
-<!ENTITY viewCerts.accesskey             "t">
-<!ENTITY verify2.label                   "Uhakikishi">
-<!ENTITY verify2.accesskey               "U">
-<!ENTITY viewSecurityDevices.label       "Vifaa vya Usalama">
-<!ENTITY viewSecurityDevices.accesskey   "a">
+
+
+
+
+
+
+

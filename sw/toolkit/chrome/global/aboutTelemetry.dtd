@@ -8,12 +8,14 @@
 
 <!ENTITY aboutTelemetry.telemetryDisabled "  Telemeta <span>imelemazwa</span>.">
 
+
 <!ENTITY aboutTelemetry.slowSqlSection "  Chelewesha Kauli za SQL">
 
 <!ENTITY aboutTelemetry.chromeHangsSection "       Vikwamaji vya Kivinjari">
 
 
 <!ENTITY aboutTelemetry.histogramsSection "  Histogramia">
+
 
 <!ENTITY aboutTelemetry.simpleMeasurementsSection "       Vipimo Rahisi">
 

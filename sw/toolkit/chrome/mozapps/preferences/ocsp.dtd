@@ -1,9 +1,0 @@
-<!-- This Source Code Form is subject to the terms of the Mozilla Public
-   - License, v. 2.0. If a copy of the MPL was not distributed with this
-   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-
-<!ENTITY ocspDialog.title             "Hati ya Uhakikishi">
-<!ENTITY enableOCSP.label             "Tumia Hali ya Itifaki ya Cheti Cha Mkondoni ili kuthibiti uhalali wa vyeti">
-<!ENTITY enableOCSP.accesskey         "T">
-<!ENTITY requireOCSP.label            "Wakati muunganisho wa seva ya OCSP umekata, fanya cheti kiwe batili">
-<!ENTITY requireOCSP.accesskey        "W">

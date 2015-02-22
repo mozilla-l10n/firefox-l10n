@@ -25,8 +25,6 @@
 <!ENTITY  generalEncoding       "Usimbaji:">
 <!ENTITY  generalMetaName       "Jina">
 <!ENTITY  generalMetaContent    "Maudhui">
-<!ENTITY  generalSecurityDetails   "Maelezo">
-<!ENTITY  generalSecurityDetails.accesskey "D">
 
 <!ENTITY  mediaTab              "Midia">
 <!ENTITY  mediaTab.accesskey    "M">
@@ -65,7 +63,6 @@
 
 <!ENTITY  securityTab           "Usalama">
 <!ENTITY  securityTab.accesskey "S">
-<!ENTITY  securityHeader        "Maelezo ya usalama ya ukurasa huu">
 <!ENTITY  securityView.certView "Angalia Cheti">
 <!ENTITY  securityView.accesskey "V">
 <!ENTITY  securityView.unknown   "Isiyotambulika">

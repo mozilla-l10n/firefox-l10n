@@ -68,13 +68,6 @@
 <!-- Strings for the CreateCertInfo dialog  -->
 
 <!ENTITY createCertInfo.msg2 "Tafadhali subiri…">
-<!-- Form Signing confirmation prompt -->
-
-
 <!-- Strings for protectedAuth dialog -->
-
-
-
-<!ENTITY certErrorDlg.title "Muungano Salama Umeshindwa">
 
 

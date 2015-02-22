@@ -3,9 +3,6 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY  fontsDialog.title                       "Fonti">
-<!ENTITY  window.width                            "39em">
-<!ENTITY  window.macWidth                         "43em">
-<!ENTITY  window.unixWidth                        "41em">
 
 <!ENTITY  language.label                          "Fonti za:">
 <!ENTITY  language.accesskey                      "F">
@@ -23,9 +20,10 @@
 <!ENTITY  sans-serif.accesskey                    "n">
 <!ENTITY  monospace.label                         "Monospace:">
 <!ENTITY  monospace.accesskey                     "M">
+<!-- LOCALIZATION NOTE (font.langGroup.latin) :
+     Translate "Latin" as the name of Latin (Roman) script, not as the name of the Latin language. -->
 
-<!ENTITY  font.langGroup.latin1                   "Magharibi">
-<!ENTITY  font.langGroup.latin2                   "Ulaya ya Kati">
+<!ENTITY  font.langGroup.latin                    "Kilatini">
 
 <!ENTITY  font.langGroup.trad-chinese             "Kichina cha Kitamaduni (Taiwani)">
 <!ENTITY  font.langGroup.simpl-chinese            "Kichina Kilichorahisishwa">
@@ -34,8 +32,6 @@
 
 
 
-
-<!ENTITY  font.langGroup.unicode                  "Lugha Zingine">
 
 
 

@@ -106,10 +106,7 @@ vidukizo.</li>
 </ul>">
 
 <!ENTITY nssFailure2.title "Muunganisho Salama Umeshindwa">
-<!ENTITY nssFailure2.longDesc "<ul> 
-<li>Ukurasa unajaribu kuona haiwezi kuonyeshwa kwasababu uthibitisho wa data iliyopokewa inaweza kuwa haijathibitishwa.</li> 
-<li>Tafadhali wasiliana na wamiliki wa tovuti ili kuwajulisha tatizo hili. Badala yake, tumia amri inayopatikana katika menyu ya usaidizi ili kuripoti tovuti hii iliyovunjwa.</li> 
-</ul>">
+
 
 <!ENTITY nssBadCert.title "Muungano Salama Umeshindwa">
 <!ENTITY nssBadCert.longDesc2 "<ul> 
@@ -136,8 +133,8 @@ kuwa &brandShortName; imeruhusiwa kufikia Wavuti.</li>
 <!ENTITY phishingBlocked.longDesc "<p>Kuinigiza maelezo yoyote ya kibinafsi kwenye ukurasa huu kwaweza kusababisha wizi wa utambulishi au aina nyingine za udanganyifu.</p> 
 <p>Aina hizi za ughushi wa wavuti zinatumiwa katika uvamizi wa utapeli data, amabapo kurasa za wavuti danganyifu na barua pepe zinatumiwa kuiga chanzo unachoweza kuamimi.</p>">
 
-<!ENTITY cspFrameAncestorBlocked.title "Imezuiliwa na Sera ya Usalama wa Maudhui">
-<!ENTITY cspFrameAncestorBlocked.longDesc "<p>&brandShortName; imzuia ukurasa huu kupakiwa kwa njia hii kwa sababu ukurasa una sera ya usalama wa maudhui ambayo haiiruhusu.</p>">
+<!ENTITY cspBlocked.title "Imezuiliwa na Sera ya Usalama wa Maudhui">
+<!ENTITY cspBlocked.longDesc "<p>&brandShortName; imzuia ukurasa huu kupakiwa kwa njia hii kwa sababu ukurasa una sera ya usalama wa maudhui ambayo haiiruhusu.</p>">
 
 <!ENTITY corruptedContentError.title "Kosa la Kuharibika kwa Maudhui">
 <!ENTITY corruptedContentError.longDesc "<p>Ukurasa unaojaribu kuangalia hauwezi kuonyeswha kwa sababu unatumia mfanyizo batili au usioauniwa.</p><ul><li>Tafadhali wasiliana na wamiliki wa wavuti kuwajulisha kuhusu shida hii.</li></ul>">
@@ -157,5 +154,19 @@ functionality specific to firefox. -->
 <button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button> 
 <button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>">
 
+
+
+
+
+
+
+
+
 <!ENTITY remoteXUL.title "XUL ya Mbali">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Tafadhali wasiliana na wamiliki wa tovuti ili kuwafahamisha juu ya tatizo hili.</li></ul></p>">
+
+<!-- LOCALIZATION NOTE (oldSecurityProtocol.longDesc) - Do not translate the
+     <span id='hostname'></span>. -->
+<!-- LOCALIZATION NOTE (oldSecurityProtocol.advancedInfo) - Do not translate
+     the <span id='errorcode'></span>. -->
+

@@ -13,6 +13,7 @@
 <!ENTITY port       "Kituo tarishi:">
 <!ENTITY connect    "Unganisha">
 <!ENTITY connecting "Inaunganisha...">
+
 <!ENTITY availableTabs "Vichupo vya mbali vinavyopatikana:">
 <!ENTITY availableProcesses "Ya mbali inayopatikana kuchakata:">
 <!ENTITY connectionError "Hitilafu:">

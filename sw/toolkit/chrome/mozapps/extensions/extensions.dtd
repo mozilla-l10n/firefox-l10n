@@ -101,6 +101,7 @@
 <!ENTITY cmd.installAddon.accesskey           "S">
 <!ENTITY cmd.uninstallAddon.label             "Ondoa">
 <!ENTITY cmd.uninstallAddon.accesskey         "O">
+<!ENTITY cmd.debugAddon.label                 "Tatua   ">
 <!ENTITY cmd.showPreferencesWin.label         "Chaguo">
 <!ENTITY cmd.showPreferencesWin.tooltip       "Badilisha chaguo hili la vifaa vya nyongeza">
 <!ENTITY cmd.showPreferencesUnix.label        "Mapendeleo">
@@ -216,3 +217,12 @@ vifaa vya nyongeza bora zaidi na vinavyojulikana zaidi kwako ili uvijaribu.">
 <!ENTITY eula.accept                          "Kubali na Sakinisha…">
 
 <!ENTITY settings.path.button.label           "Vinjari…">
+<!-- LOCALIZATION NOTE (experiment.info.label): The strings related to
+     experiments are present on the "Experiments" tab of the add-ons manager.
+     This tab won't be displayed unless an Experiment add-on is installed.
+     Install https://people.mozilla.org/~gszorc/dummy-experiment-addon.xpi
+     to cause this tab to appear. -->
+<!ENTITY experiment.info.learnmore "Jifunze Zaidi">
+
+
+

@@ -8,14 +8,11 @@
 <!ENTITY warnCloseMultipleTabs.label  "Nionye wakati wa kufunga vichupo vingi">
 <!ENTITY warnCloseMultipleTabs.accesskey  "w">
 
-<!ENTITY warnOpenManyTabs.label       "Nionye wakati ninafungua vichupo vingi kwaweza kupunguza mwendo wa &brandShortName;">
-<!ENTITY warnOpenManyTabs.accesskey   "n">
 
-<!ENTITY restoreTabsOnDemand.label        "Usipakie vichupo hadi ichaguliwe">
-<!ENTITY restoreTabsOnDemand.accesskey    "v">
 
-<!ENTITY switchToNewTabs.label        "Ninapofungua kiungo katika kuchupo kipya, badili kwake mara moja">
-<!ENTITY switchToNewTabs.accesskey    "b">
+
+
+
 
 <!ENTITY showTabsInTaskbar.label          "Onyesha vihakiki vya kichupo katika mwambaa wa kazi wa Windows">
 <!ENTITY showTabsInTaskbar.accesskey      "m">

@@ -6,14 +6,9 @@
 <!ENTITY window.maxWidth              "400">
 
 <!ENTITY startSafeMode.label          "Anza katika Hali Salama">
-<!ENTITY resetProfile.label           "Anzisha upya &brandShortName;">
+
 
 <!ENTITY safeModeDescription3.label   "Hali Salama ni hali ya kipekee ya &brandShortName; ambayo inaweza kutumika kusuluhisha masuala.">
 <!ENTITY safeModeDescription4.label   "Vifaa vya nyongesa na mipangilio yako maalum yatalemazwa kwa muda.">
 
-<!ENTITY resetProfileInstead.label    "Pia unaweza Kuweka upya &brandShortName; kama unataka kuanza upya">
-<!-- LOCALIZATION NOTE (autoSafeModeDescription2.label safeModeInstead.label resetProfileFooter.label): Shown on the safe mode dialog after multiple startup crashes. See also chrome/global/resetProfile.dtd -->
-
-<!ENTITY autoSafeModeDescription2.label "&brandShortName; ilifunga kwa ghafla wakati wa kuanza. Hii inaweza kuwa imesababishwa na vifaa vya nyongesa au matatizo mengine. Unaweza jaribu kutatua tatizo kwa kuweka upya &brandShortName; katika hali yake msingi au kutatua katika Hali Salama.">
-<!ENTITY resetProfileFooter.label       "Kila kitu kitawekwa upya kwa kiwanda msingi.">
-<!ENTITY safeModeInstead.label          "Kama hutaki hii, unaweza kuendelea katika Hali Salama ili kufanya usulihisho wako mwenyewe na vifaa vyako vya nyongesa na mipangilio maalum kulemazwa kwa muda.">
+<!-- LOCALIZATION NOTE (autoSafeModeDescription3.label): Shown on the safe mode dialog after multiple startup crashes. See also chrome/global/resetProfile.dtd -->

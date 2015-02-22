@@ -48,6 +48,7 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 <!ENTITY aboutSupport.appBasicsUserAgent "Mtumaiji Wakala">
 <!ENTITY aboutSupport.appBasicsMemoryUse "Utumizi wa Kumbukumbu">
 
+
 <!ENTITY aboutSupport.showDir.label "Fungua Saraka">
 <!-- LOCALIZATION NOTE (aboutSupport.showMac.label): This is the Mac-specific
 variant of aboutSupport.showDir.label.  This allows us to use the preferred
@@ -59,11 +60,14 @@ variant of aboutSupport.showDir.label. -->
 
 <!ENTITY aboutSupport.modifiedKeyPrefsTitle "Mapendeleo Muhimu Yaliorekebishwa">
 <!ENTITY aboutSupport.modifiedPrefsName "Jina">
-<!ENTITY aboutSupport.modifiedPrefsValue "Thamani">
+
 <!-- LOCALIZATION NOTE (aboutSupport.userJSTitle, aboutSupport.userJSDescription): user.js is the name of the preference override file being checked. -->
 
 <!ENTITY aboutSupport.userJSTitle "Pendeleo za mtumiaji.js">
 <!ENTITY aboutSupport.userJSDescription "Folda ya maelezo mafupi yako ina faili ya <a id='prefs-user-js-link'>mtumiaji.id</a>, ambayo inajumuisha pendeleo ambazo hazikuundwa na &brandShortName;.">
+
+
+
 
 <!ENTITY aboutSupport.graphicsTitle "Sanaa">
 
@@ -81,3 +85,4 @@ variant of aboutSupport.showDir.label. -->
 
 <!ENTITY aboutSupport.copyTextToClipboard.label "Nakili matini katika ubao">
 <!ENTITY aboutSupport.copyRawDataToClipboard.label "Nakili data ghafi kwa ubao">
+

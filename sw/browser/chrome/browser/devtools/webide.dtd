@@ -1,0 +1,135 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!ENTITY runtimeMenu_takeScreenshot_label "Kielelezo-skrini">
+
+
+
+
+
+
+
+
+<!ENTITY viewMenu_label "Bheka">
+
+
+
+<!ENTITY viewMenu_zoomin_label "Kuza Ndani">
+
+<!ENTITY viewMenu_zoomout_label "Kuza Nje">
+
+
+
+
+
+<!-- We try to repicate Firefox' bindings: -->
+<!-- quit app -->
+<!-- open menu -->
+<!-- reload app -->
+<!-- show toolbox -->
+<!ENTITY key_toggleToolbox "VK_F12">
+<!-- toggle sidebar -->
+<!-- zoom -->
+
+
+
+
+
+<!ENTITY projectPanel_tabs "Vichupo">
+
+
+
+
+
+
+
+<!-- Lense -->
+
+
+<!ENTITY details_description "Maelezo">
+<!ENTITY details_location "Mahali">
+
+
+<!-- New App -->
+
+
+
+<!-- Decks -->
+
+
+
+<!ENTITY deck_close "Funga">
+<!-- Addons -->
+<!ENTITY addons_aboutaddons "Fungua Msimamizi wa Vifaa vya nyongeza">
+<!-- Prefs -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- Permissions Table -->
+<!ENTITY permissionstable_name_header "Jina">
+<!-- Runtime Details -->
+
+
+
+
+
+
+<!-- Device Preferences -->
+
+
+
+
+
+
+
+
+<!-- Monitor -->
+<!ENTITY monitor_help "Msaada">
