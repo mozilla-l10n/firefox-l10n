@@ -172,6 +172,9 @@
 <!ENTITY pref_cookies_not_accept_foreign "Omogočeno, z izjemo tretjih strani">
 <!ENTITY pref_cookies_disabled "Onemogočeno">
 
+<!ENTITY pref_tracking_protection_title "Zaščita pred sledenjem">
+<!ENTITY pref_tracking_protection_summary "&brandShortName; bo stranem preprečil, da bi vam sledile">
+
 <!ENTITY pref_donottrack_title "Sledenje">
 <!ENTITY pref_donottrack_summary "&brandShortName; bo stranem sporočal, naj vam ne sledijo">
 
@@ -429,6 +432,8 @@ size. -->
 <!ENTITY home_remote_tabs_empty "Tukaj bodo prikazani vaši zavihki iz drugih naprav.">
 <!ENTITY home_remote_tabs_unable_to_connect "Povezava neuspešna">
 <!ENTITY home_remote_tabs_need_to_sign_in "Prijavite se za ponovno povezavo vašega Firefox Računa in nadaljevanje sinhronizacije.">
+<!ENTITY home_remote_tabs_need_to_finish_migrating "Vaš nov Firefox Račun je pripravljen!">
+
 <!ENTITY home_remote_tabs_trouble_verifying "Težave pri preverjanju vašega računa?">
 <!ENTITY home_remote_tabs_need_to_verify "Preverite vaš Firefox Račun za začetek sinhronizacije.">
 
@@ -530,10 +535,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY updater_apply_select2 "Tapnite za posodobitev">
 
 <!-- New tablet UI -->
-
-<!-- LOCALIZATION NOTE (new_tablet_restart): Notification displayed after the user toggles the new tablet UI in the settings screen.-->
-<!ENTITY new_tablet_restart "Za uveljavitev sprememb ponovno zaženite brskalnik">
-<!ENTITY new_tablet_pref "Omogoči nov tablični vmesnik">
 
 <!-- Guest mode -->
 <!ENTITY new_guest_session "Nova gostujoča seja">

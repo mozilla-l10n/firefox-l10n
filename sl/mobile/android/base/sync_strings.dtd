@@ -170,6 +170,9 @@
 <!ENTITY fxaccount_confirm_account_change_email 'Pozabim ta e-poštni naslov?'>
 <!ENTITY fxaccount_confirm_account_verification_link_sent2 'Potrditvena e-pošta poslana'>
 <!ENTITY fxaccount_confirm_account_verification_link_not_sent2 'Ni bilo mogoče poslati potrditvene pošte'>
+<!ENTITY fxaccount_resend_unlock_code_button_label 'Ponovno pošlji e-pošto za odklep'>
+<!ENTITY fxaccount_unlock_code_sent 'E-pošta za odklep računa poslana'>
+<!ENTITY fxaccount_unlock_code_not_sent 'E-pošte za odklep računa ni mogoče poslati'>
 
 <!ENTITY fxaccount_sign_in_sub_header 'Prijava'>
 <!ENTITY fxaccount_sign_in_button_label 'Prijava'>
@@ -180,9 +183,15 @@
 <!ENTITY fxaccount_account_verified_sub_header 'Račun potrjen'>
 <!ENTITY fxaccount_account_verified_description2 'Sinhronizacija podatkov se bo začela.'>
 
+<!ENTITY fxaccount_migration_finished_header 'Nadgradnja končana'>
+
 <!ENTITY fxaccount_update_credentials_header 'Prijava'>
 <!ENTITY fxaccount_update_credentials_button_label 'Prijava'>
 <!ENTITY fxaccount_update_credentials_unknown_error 'Prijava ni uspela'>
+
+<!ENTITY fxaccount_finish_migrating_header 'Prijavite se za dokončanje nadgranje'>
+<!ENTITY fxaccount_finish_migrating_button_label 'Končaj nadgradnjo'>
+<!ENTITY fxaccount_finish_migrating_description 'Med nadgradnjo se lahko prensejo večje količine podatkov. Priporočamo uporabo omrežja WiFi.'>
 
 <!ENTITY fxaccount_status_header2 'Firefox Račun'>
 <!ENTITY fxaccount_status_signed_in_as 'Prijavljen kot'>
@@ -196,8 +205,10 @@
 <!ENTITY fxaccount_status_needs_verification2 'Vaš račun mora biti potrjen. Tapnite za ponovno pošiljanje potrditvene e-pošte.'>
 <!ENTITY fxaccount_status_needs_credentials 'Povezava ni mogoča. Tapnite za prijavo.'>
 <!ENTITY fxaccount_status_needs_upgrade 'Za prijavo morate nadgraditi &brandShortName;.'>
-<!ENTITY fxaccount_status_needs_master_sync_automatically_enabled '&syncBrand.shortName.label; je nastavljen, vendar sinhronizacija ne poteka samodejno. Vključite “Samodejno sinhroniziraj podatke” v Androidovem menu Nastavitve &gt; Uporaba poodatkov.'>
+<!ENTITY fxaccount_status_needs_master_sync_automatically_enabled '&syncBrand.shortName.label; je nastavljen, vendar sinhronizacija ne poteka samodejno. Vključite “Samodejno sinhroniziraj podatke” v Androidovem menu Nastavitve &gt; Uporaba podatkov.'>
+<!ENTITY fxaccount_status_needs_master_sync_automatically_enabled_v21 '&syncBrand.shortName.label; je nastavljen, vendar sinhronizacija ne poteka samodejno. Vključite “Samodejno sinhroniziraj podatke” v Androidovem menu Nastavitve &gt; Računi.'>
 <!ENTITY fxaccount_status_needs_account_enabled '&syncBrand.shortName.label; je nastavljen, vendar sinhronizacija ne poteka samodejno. Tapnite za začetek sinhronizacije.'>
+<!ENTITY fxaccount_status_needs_finish_migrating 'Tapnite za prijavo v vaš nov Firefox Račun.'>
 <!ENTITY fxaccount_status_bookmarks 'Zaznamki'>
 <!ENTITY fxaccount_status_history 'Zgodovina'>
 <!ENTITY fxaccount_status_passwords 'Gesla'>
@@ -245,8 +256,14 @@
 <!ENTITY fxaccount_remote_error_SERVICE_TEMPORARILY_UNAVAILABLE_TO_DUE_HIGH_LOAD 'Strežnik je zaseden, ponovno poskusite pozneje'>
 <!ENTITY fxaccount_remote_error_UNKNOWN_ERROR 'Prišlo je do napake'>
 <!ENTITY fxaccount_remote_error_COULD_NOT_CONNECT 'Povezava z omrežjem ni uspela'>
+<!ENTITY fxaccount_remote_error_ACCOUNT_LOCKED 'Račun je zaklenjen. &formatS1;'>
 
 <!ENTITY fxaccount_sync_sign_in_error_notification_title2 '&syncBrand.shortName.label; ni povezan'>
 <!-- Note to translators: the format string below will be replaced
      with the Firefox account's email address. -->
 <!ENTITY fxaccount_sync_sign_in_error_notification_text2 'Tapnite za prijavo kot &formatS;'>
+
+<!ENTITY fxaccount_sync_finish_migrating_notification_title 'Končaj nadgradnjo &syncBrand.shortName.label;?'>
+<!-- Localization note: the format string below will be replaced
+     with the Firefox Account's email address. -->
+<!ENTITY fxaccount_sync_finish_migrating_notification_text 'Tapnite za prijavo kot &formatS;'>
