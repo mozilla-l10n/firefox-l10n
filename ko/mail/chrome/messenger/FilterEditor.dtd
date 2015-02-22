@@ -6,8 +6,10 @@
 <!ENTITY filterEditorDialog.dimensions "width:100ch;">
 <!ENTITY filterName.label "필터 이름:">
 <!ENTITY filterName.accesskey "i">
+
 <!ENTITY junk.label "스팸 메일">
 <!ENTITY notJunk.label "정상 메일">
+
 <!ENTITY lowestPriorityCmd.label "최하위">
 <!ENTITY lowPriorityCmd.label "하위">
 <!ENTITY normalPriorityCmd.label "기본">
@@ -21,6 +23,8 @@
 <!ENTITY contextManual.accesskey "R">
 <!ENTITY contextBeforeCls.label "스팸 분류 전에 적용">
 <!ENTITY contextAfterCls.label "스팸 분류 후에 적용">
+<!ENTITY contextOutgoing.label "발송 이후에 적용">
+<!ENTITY contextOutgoing.accesskey "S">
 
 <!ENTITY filterActionDesc.label "다음 방식으로 처리:">
 <!ENTITY filterActionDesc.accesskey "P">
