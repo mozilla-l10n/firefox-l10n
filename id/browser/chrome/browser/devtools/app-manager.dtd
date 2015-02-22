@@ -36,9 +36,9 @@
 <!ENTITY device.permissionsHelpLink "https://developer.mozilla.org/docs/Web/Apps/App_permissions">
 <!ENTITY device.browserTabs "Tab Peramban">
 <!ENTITY device.browserTabsTooltip "Tampilkan daftar tab di peramban pada perangkat yang tersambung">
-
+<!ENTITY device.debugBrowserTab "Debug">
 <!ENTITY device.debugBrowserTabTooltip "Buka Alat Pengembang yang tersambung ke tab peramban pada perangkat">
-
+<!ENTITY device.help "Bantuan">
 
 <!ENTITY connection.connectTooltip "Sambungkan ke perangkat.">
 <!ENTITY connection.disconnect "Putuskan">
@@ -66,19 +66,19 @@
 <!ENTITY connection.startRegisteredSimulator "Mulai:">
 
 <!ENTITY projects.localApps "App Lokal">
-
+<!ENTITY projects.addApp "Tambahkan">
 <!ENTITY projects.addPackaged "Tambahkan App Paket">
 <!ENTITY projects.addPackagedTooltip "Tambahkan app paket (atau direktori) dari komputer Anda.">
 <!ENTITY projects.addHosted "Tambahkan App yang Diinangkan">
 <!ENTITY projects.addHostedTooltip "Tambahkan app yang diinangkan (tautan ke berkas manifest.webapp) dari situs web daring.">
-
+<!ENTITY projects.title "Aplikasi Lokal">
 <!ENTITY projects.appDetails "Detail App">
 <!ENTITY projects.removeAppFromList "Hapus app dari daftar yang sedang dikerjakan. Hal ini tidak akan menghapus app dari perangkat atau simulator.">
 <!ENTITY projects.updateApp "Perbarui">
 <!ENTITY projects.updateAppTooltip "Jalankan pemeriksaan validasi dan perbarui app di perangkat yang tersambung">
-
+<!ENTITY projects.debugApp "Debug">
 <!ENTITY projects.debugAppTooltip "Buka Alat Pengembang yang tersambung ke app ini">
-
+<!ENTITY projects.saveManifest "Simpan">
 <!ENTITY projects.saveManifestTooltip "Simpan isi Editor Manifest di bawah ini.">
 <!ENTITY projects.hostedManifestPlaceHolder2 "http://example.com/app/manifest.webapp">
 <!ENTITY projects.noProjects "Tidak ada proyek. Tambahka app paket di bawha ini (direktori lokal) atau app yang diinangkan (tautan ke berkas manifest).">
@@ -92,6 +92,7 @@
 <!ENTITY projects.hosted "Di-host">
 <!ENTITY projects.packaged "Dipaketkan">
 
+<!ENTITY help.title "Pengelola App">
 <!ENTITY help.close "Tutup">
 <!ENTITY help.intro "Alat ini akan membantu Anda membangun dan menginstal app web pada perangkat yang kompatibel (mis. Firefox OS). Tab <strong>App</strong> akan membantu Anda dalam proses validasi dan instalasi app Anda. Tab <strong>Perangkat</strong> akan menampilkan informasi perangkat yang tersambung. Gunakan bilah alat di bawah untuk tersambung ke perangkat atau ke simulator.">
 <!ENTITY help.usefullLinks "Tautan yang berguna:">
