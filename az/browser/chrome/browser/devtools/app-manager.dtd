@@ -36,9 +36,9 @@
 
 <!ENTITY device.browserTabs "Səyyah vərəqləri">
 
-<!ENTITY device.debugBrowserTab "Sazlama">
+
 <!ENTITY device.debugBrowserTabTooltip "Cihazdakı bu səyyah vərəqinə bağlı Tərtibatçı Alətlərini aç">
-<!ENTITY device.help "Kömək">
+
 
 <!ENTITY connection.connectTooltip "Cihaza qoşul">
 <!ENTITY connection.disconnect "Bağlantını kəs">
@@ -76,7 +76,7 @@
 
 <!ENTITY projects.updateApp "Yeniləmə">
 
-<!ENTITY projects.debugApp "Sazlama">
+
 
 
 
