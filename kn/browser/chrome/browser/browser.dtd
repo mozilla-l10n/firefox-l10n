@@ -299,7 +299,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fileMenu.label         "ಕಡತ"> 
 <!ENTITY fileMenu.accesskey       "F">
 <!ENTITY newNavigatorCmd.label        "ಹೊಸ ಕಿಟಕಿ">
-
+<!ENTITY newNavigatorCmd.key        "N">
 <!ENTITY newNavigatorCmd.accesskey      "N">
 <!ENTITY newPrivateWindow.label     "ಹೊಸ ಖಾಸಗಿ ಕಿಟಕಿ">
 <!ENTITY newPrivateWindow.accesskey "W">
@@ -307,7 +307,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY editMenu.label         "ಸಂಪಾದನೆ"> 
 <!ENTITY editMenu.accesskey       "E"> 
 <!ENTITY undoCmd.label            "ರದ್ದು ಮಾಡು">  
-
+<!ENTITY undoCmd.key            "Z">  
 <!ENTITY undoCmd.accesskey          "U"> 
 <!ENTITY redoCmd.label            "ಮತ್ತೊಮ್ಮೆ ಮಾಡು">  
 <!ENTITY redoCmd.key            "Y">  
@@ -319,7 +319,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY copyCmd.key            "C">  
 <!ENTITY copyCmd.accesskey          "C"> 
 <!ENTITY pasteCmd.label           "ಅಂಟಿಸು">  
-
+<!ENTITY pasteCmd.key           "V">  
 <!ENTITY pasteCmd.accesskey         "P"> 
 <!ENTITY deleteCmd.label          "ಅಳಿಸು">  
 <!ENTITY deleteCmd.key            "D">  
@@ -429,6 +429,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY searchWithHeader.label       "ಇದರೊಂದಿಗೆ ಹುಡುಕು:">
 <!ENTITY changeSearchSettings.button  "ಹುಡುಕು ಸಿದ್ಧತೆಗಳನ್ನು ಬದಲಾಯಿಸು">
 
+<!ENTITY tabView.commandkey           "e">
 
 <!ENTITY openLinkCmdInTab.label       "ಹೊಸ ಟ್ಯಾಬ್‌ನಲ್ಲಿ ಕೊಂಡಿಯನ್ನು ತೆರೆ">
 <!ENTITY openLinkCmdInTab.accesskey   "T">
@@ -444,13 +445,14 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openFrameCmd.accesskey       "W">
 <!ENTITY showOnlyThisFrameCmd.label     "ಕೇವಲ ಈ ಚೌಕಟ್ಟನ್ನು ಮಾತ್ರ ತೋರಿಸು">
 <!ENTITY showOnlyThisFrameCmd.accesskey "S">
-
+<!ENTITY reloadCmd.commandkey         "r">
 <!ENTITY reloadFrameCmd.label         "ಚೌಕಟ್ಟನ್ನು ಮತ್ತೊಮ್ಮೆ ಲೋಡ್‍ ಮಾಡು">
 <!ENTITY reloadFrameCmd.accesskey     "R">
 <!ENTITY viewPartialSourceForSelectionCmd.label "ಆಯ್ಕೆಯ ಮೂಲವನ್ನು ನೋಡು">
 <!ENTITY viewPartialSourceForMathMLCmd.label    "MathML ಮೂಲವನ್ನು ನೋಡು">
 <!-- LOCALIZATION NOTE (viewPartialSourceCmd.accesskey): This accesskey is used for both 
          viewPartialSourceForSelectionCmd.label and viewPartialSourceForMathMLCmd.label -->
+<!ENTITY viewPartialSourceCmd.accesskey "e">
 <!ENTITY viewPageSourceCmd.label      "ಪುಟದ ಮೂಲವನ್ನು ನೋಡು">
 <!ENTITY viewPageSourceCmd.accesskey  "V">
 <!ENTITY viewFrameSourceCmd.label     "ಚೌಕಟ್ಟಿನ ಮೂಲವನ್ನು ನೋಡು">
@@ -483,7 +485,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY savePageCmd.label            "ಈ ಪುಟವನ್ನು ಹೀಗೆ ಉಳಿಸು...">
 <!ENTITY savePageCmd.accesskey        "A">
 <!-- alternate for content area context menu -->
-
+<!ENTITY savePageCmd.accesskey2       "P">
+<!ENTITY savePageCmd.commandkey       "s">
 <!ENTITY saveFrameCmd.label           "ಚೌಕಟ್ಟನ್ನು ಹೀಗೆ ಉಳಿಸು...">
 <!ENTITY saveFrameCmd.accesskey       "F">
 <!ENTITY printFrameCmd.label          "ಚೌಕಟ್ಟನ್ನು ಮುದ್ರಿಸು…">
@@ -578,8 +581,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY fullZoomEnlargeCmd.label       "ಹಿಗ್ಗಿಸು">
 <!ENTITY fullZoomEnlargeCmd.accesskey   "I">
-
+<!ENTITY fullZoomEnlargeCmd.commandkey  "+">
 <!-- + is above this key on many keyboards -->
+<!ENTITY fullZoomEnlargeCmd.commandkey2 "="> 
 <!ENTITY fullZoomEnlargeCmd.commandkey3 "">
 
 <!ENTITY fullZoomReduceCmd.label        "ಕಿರಿದಾಗಿಸು">
@@ -636,23 +640,23 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY bidiSwitchPageDirectionItem.accesskey    "D">
 <!ENTITY bidiSwitchTextDirectionItem.label        "ಪಠ್ಯದ ದಿಕ್ಕನ್ನು ಬದಲಾಯಿಸು">
 <!ENTITY bidiSwitchTextDirectionItem.accesskey    "w">
-
+<!ENTITY bidiSwitchTextDirectionItem.commandkey   "X">
 
 <!ENTITY findOnCmd.label     "ಈ ಪುಟದಲ್ಲಿ ಹುಡುಕು...">
 <!ENTITY findOnCmd.accesskey "F">
-
+<!ENTITY findOnCmd.commandkey "f">
 <!ENTITY findAgainCmd.label  "ಮತ್ತೊಮ್ಮೆ ಹುಡುಕು">
 <!ENTITY findAgainCmd.accesskey "g">
-
+<!ENTITY findAgainCmd.commandkey "g">
 <!ENTITY findAgainCmd.commandkey2 "VK_F3">
-
+<!ENTITY findSelectionCmd.commandkey "e">
 
 <!ENTITY spellAddDictionaries.label "ಶಬ್ಧಕೋಶವನ್ನು ಸೇರಿಸು...">
 <!ENTITY spellAddDictionaries.accesskey "A">
 
 <!ENTITY editBookmark.done.label                     "ಆಯಿತು">
 <!ENTITY editBookmark.cancel.label                   "ರದ್ದುಗೊಳಿಸು">
-
+<!ENTITY editBookmark.removeBookmark.accessKey       "R">
 
 <!ENTITY identity.unverifiedsite2 "ಈ ಜಾಲತಾಣವು ತನ್ನು ಗುರುತು ಮಾಹಿತಿಯನ್ನು ಒದಗಿಸಿಲ್ಲ.">
 <!ENTITY identity.connectedTo "ನೀವು ಇದರೊಂದಿಗೆ ಸಂಪರ್ಕಿತಗೊಂಡಿದ್ದೀರಿ">
@@ -688,7 +692,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY syncBrand.shortName.label    "ಸಿಂಕ್‌">
 
 <!ENTITY syncSetup.label              "&syncBrand.shortName.label; ಅನ್ನು ಸಿದ್ಧಗೊಳಿಸಿ…">
-
+<!ENTITY syncSetup.accesskey          "Y">
 <!ENTITY syncSyncNowItem.label        "ಈಗಲೆ ಸಿಂಕ್ ಮಾಡು">
 <!ENTITY syncSyncNowItem.accesskey    "S">
 <!ENTITY syncReAuthItem.label         "&syncBrand.shortName.label; ಗೆ Reconnect">
@@ -732,9 +736,9 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY customizeMode.lwthemes.myThemes "ನನ್ನ ಥೀಮ್‌ಗಳು">
 <!ENTITY customizeMode.lwthemes.recommended "ಇದನ್ನು ಸಲಹೆ ಮಾಡಲಾಗುತ್ತದೆ">
 <!ENTITY customizeMode.lwthemes.menuManage "ನಿರ್ವಹಿಸು">
-
+<!ENTITY customizeMode.lwthemes.menuManage.accessKey "M">
 <!ENTITY customizeMode.lwthemes.menuGetMore "ಇನ್ನಷ್ಟು ಥೀಮ್‌ಗಳನ್ನು ಪಡೆದುಕೊಳ್ಳಿ">
-
+<!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "G">
 <!ENTITY customizeMode.deveditionTheme.label2 "ಡೆವೆಲಪರ್ ಸಂಪಾದನೆಯ ಥೀಮ್ ಬಳಸಿ">
 
 <!ENTITY social.chatBar.commandkey "c">

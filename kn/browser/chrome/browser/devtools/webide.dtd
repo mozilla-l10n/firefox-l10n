@@ -143,9 +143,9 @@
 <!ENTITY runtimedetails_adbIsRoot "ADB ಒಬ್ಬ ನಿರ್ವಾಹಕ: ">
 <!ENTITY runtimedetails_summonADBRoot "ನಿರ್ವಹಕ ಸಾಧನ">
 
-
-
-
+<!ENTITY runtimedetails_restrictedPrivileges "(ಅನ್‌ಲಾಕ್ ಮಾಡಿದ ಬೂಟ್‌ಲೋಡರ್‌ನ ಅಗತ್ಯವಿರುತ್ತದೆ)">
+<!ENTITY runtimedetails_requestPrivileges "ಹೆಚ್ಚಿನ ಅಧಿಕಾರದ ಅಗತ್ಯವಿರುತ್ತದೆ">
+<!ENTITY runtimedetails_privilegesWarning "(ಸಾಧನವನ್ನು ಮರಳಿ ಬೂಟ್ ಮಾಡುತ್ತದೆ. ನಿರ್ವಾಹಕ ಅಧಿಕಾರದ ಅಗತ್ಯವಿದೆ.)">
 <!-- Device Preferences -->
 
 <!ENTITY devicepreferences_title "ಸಾಧನದ ಆದ್ಯತೆಗಳು">
