@@ -94,6 +94,7 @@
 <!ENTITY details_location "Unicación">
 <!ENTITY details_manifestURL "ID de aplicación">
 <!ENTITY details_removeProject_button "Eliminar proyecto">
+<!ENTITY details_showPrepackageLog_button "Mostrar registro pre empaquetado">
 
 <!-- New App -->
 <!ENTITY newAppWindowTitle "Nueva aplicación">
@@ -191,3 +192,6 @@
 <!-- LOCALIZATION NOTE (wifi_auth_token_request): Instructions requesting the
      user to transfer authentication info by transferring a token. -->
 <!ENTITY wifi_auth_token_request "Si su otro dispositivo pide un token en lugar de escanear un código QR, copie el valor siguiente en el otro dispositivo:">
+
+<!-- Logs panel -->
+<!ENTITY logs_title "Registros de comandos pre empaquetados">
