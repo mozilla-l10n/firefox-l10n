@@ -12,4 +12,10 @@
 <!ENTITY gdata.migration.upgrade.accesskey "U">
 <!ENTITY gdata.migration.showagain.label "항상 검사 ">
 
+<!ENTITY gdata.reminder.default "기본 알림">
 <!ENTITY gdata.reminder.action.sms.label "평문으로 전송">
+
+<!ENTITY gdata.wizard.session.description "이미 존재하는 세션을 선택하거나 이메일을 입력해서 새 세션을 만들어주세요. 계정당 한 세션만 필요합니다.">
+<!ENTITY gdata.wizard.calendars.description "구독하고 싶은 캘린더와 할 일 목록을 선택 해 주세요.">
+
+<!ENTITY gdata.wizard.nextstep.description "다음 단계로 진행 해 주세요.">

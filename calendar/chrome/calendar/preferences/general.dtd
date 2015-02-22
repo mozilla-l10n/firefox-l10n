@@ -13,6 +13,10 @@
 <!ENTITY pref.dateformat.long "긴 형식" >
 <!ENTITY pref.dateformat.short "짧은 형식"  >
 
+<!ENTITY pref.timezones.caption "시간대">
+<!ENTITY pref.timezones.label "여러분의 시간대에서 가장 가까운 도시를 고르세요:">
+<!ENTITY pref.timezones.accesskey "S">
+
 <!ENTITY pref.defaults.label "기본 값">
 <!ENTITY pref.events.label "이벤트">
 <!ENTITY pref.tasks.label "태스크">
