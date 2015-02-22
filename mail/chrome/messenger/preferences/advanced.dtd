@@ -14,6 +14,8 @@
 <!ENTITY telemetryInfoLink.label       "Telemetry에 대한 자세한 정보">
 <!ENTITY enableGlodaSearch.label       "전체 검색 및 색인 사용함">
 <!ENTITY enableGlodaSearch.accesskey   "E">
+<!ENTITY allowHWAccel.label            "하드웨어 가속 사용하기">
+<!ENTITY allowHWAccel.accesskey        "h">
 
 <!ENTITY scrolling.label               "스크롤">
 <!ENTITY useAutoScroll.label           "자동스크롤 사용하기">
