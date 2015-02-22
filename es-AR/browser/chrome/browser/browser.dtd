@@ -839,5 +839,13 @@ The word "toolbar" is appended automatically and should not be contained below! 
 <!ENTITY processHang.terminateProcess.label       "Matar proceso web">
 <!ENTITY processHang.terminateProcess.accessKey   "w">
 
+<!ENTITY readingList.label                        "Lista de lectura">
+<!ENTITY readingList.sidebar.commandKey           "r">
 <!ENTITY emeLearnMoreContextMenu.label            "Conocer más sobre DRM…">
 <!ENTITY emeLearnMoreContextMenu.accesskey        "D">
+
+<!ENTITY emeNotificationsNotNow.label             "No ahora">
+<!ENTITY emeNotificationsNotNow.accesskey         "N">
+<!ENTITY emeNotificationsDontAskAgain.label       "No preguntarme nuevamente">
+<!ENTITY emeNotificationsDontAskAgain.accesskey   "o">
+

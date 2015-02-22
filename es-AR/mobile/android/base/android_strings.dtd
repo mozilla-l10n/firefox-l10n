@@ -6,8 +6,8 @@
 <!ENTITY  no_space_to_start_error "No hay suficiente espacio para que &brandShortName; pueda iniciarse.">
 <!ENTITY  error_loading_file "Ha ocurrido un error mientras se trataban de cargar los archivos necesarios para ejecutar &brandShortName;">
 
-<!ENTITY  onboard_start_message "Bienvenido &brandShortName;!">
-<!ENTITY  onboard_start_subtext "Comprometidos con vos, tu privacidad y una web abierta">
+<!ENTITY  onboard_start_message2 "Bienvenido &brandShortName;">
+<!ENTITY  onboard_start_subtext2 "Más características de privacidad y formas de personalizar que nunca.">
 <!ENTITY  onboard_start_button_account "Ingresar a &brandShortName;">
 <!ENTITY  onboard_start_button_browser "Iniciar navegación">
 
@@ -579,6 +579,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      "Last synced" is one of the user's other Sync clients, typically Firefox on
      their desktop or laptop.-->
 <!ENTITY remote_tabs_last_synced "Última sincronización: &formatS;">
+<!-- Localization note: Used when the sync has not happend yet, showed in place of a date -->
+<!ENTITY remote_tabs_never_synced "Última sincronización: nunca">
 
 <!-- Find-In-Page strings -->
 <!-- LOCALIZATION NOTE (find_matchcase): This is meant to appear as an icon that changes color

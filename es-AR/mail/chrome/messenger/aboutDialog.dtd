@@ -36,10 +36,13 @@
 <!ENTITY community.creditsLink      "comunidad mundial">
 <!ENTITY community.end3             " que trabaja junta para mantener la web abierta, pública y accesible para todos.">
 
-<!ENTITY contribute.start           "¿Suena interesante? ">
-<!-- LOCALIZATION NOTE (contribute.getInvolvedLink): This is a link title that links to http://www.mozilla.org/contribute/. -->
-<!ENTITY contribute.getInvolvedLink "¡Involúcrese!">
-<!ENTITY contribute.end             "">
+<!ENTITY helpus.start               "¿Quiere ayudar? ">
+<!-- LOCALIZATION NOTE (helpus.donateLink): This is a link title that links to the thunderbird donation page -->
+<!ENTITY helpus.donateLink          "¡Haga una donación">
+<!ENTITY helpus.middle              " o ">
+<!-- LOCALIZATION NOTE (helpus.getInvolvedLink): This is a link title that links to http://www.mozilla.org/contribute/. -->
+<!ENTITY helpus.getInvolvedLink     "involúcrese!">
+<!ENTITY helpus.end                 "">
 
 <!-- LOCALIZATION NOTE (bottomLinks.license): This is a link title that links to about:license. -->
 <!ENTITY bottomLinks.license        "Información de licencia">

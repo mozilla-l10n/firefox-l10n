@@ -6,6 +6,8 @@
 <!ENTITY itemAutoComplete.label              "Direcciones">
 <!ENTITY itemSpellCheck.label                "Ortografía">
 
+<!ENTITY dialogCompose.title                 "Composición">
+
 <!ENTITY forwardMsg.label                     "Reenviar mensajes:">
 <!ENTITY forwardMsg.accesskey                 "m">
 <!ENTITY inline.label                         "Incorporado">

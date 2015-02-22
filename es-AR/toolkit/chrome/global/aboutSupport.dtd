@@ -98,3 +98,6 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.copyRawDataToClipboard.label "Copiar datos en bruto al portapapeles">
 
 <!ENTITY aboutSupport.sandboxTitle "Sandbox">
+
+<!ENTITY aboutSupport.safeModeTitle "Intentar modo seguro">
+<!ENTITY aboutSupport.restartInSafeMode.label "Reiniciar con complementos deshabilitados…">
