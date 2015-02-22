@@ -79,6 +79,7 @@
 <!ENTITY details_location "Dirección">
 <!ENTITY details_manifestURL "ID de la aplicación">
 <!ENTITY details_removeProject_button "Eliminar proyecto">
+<!ENTITY details_showPrepackageLog_button "Mostrar registro previo al empaquetado">
 <!ENTITY newAppWindowTitle "Nueva aplicación">
 <!ENTITY newAppHeader "Seleccionar plantilla">
 <!ENTITY newAppLoadingTemplate "Cargando plantillas…">
@@ -141,3 +142,4 @@
 <!ENTITY wifi_auth_no_scanner "¿No dispone de analizador QR?">
 <!ENTITY wifi_auth_yes_scanner "¿Tiene un analizador QR?">
 <!ENTITY wifi_auth_token_request "Si su otro dispositivo solicita un token en lugar de analizar un código QR, copie el valor de debajo en el otro dispositivo:">
+<!ENTITY logs_title "Registros de órdenes previos al empaquetado">
