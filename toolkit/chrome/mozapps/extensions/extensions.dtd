@@ -230,3 +230,6 @@
 <!ENTITY experiment.info.learnmore.accesskey "a">
 <!ENTITY experiment.info.changetelemetry "Nastavenie telemetrie">
 <!ENTITY experiment.info.changetelemetry.accesskey "N">
+
+<!ENTITY setting.learnmore "Ďalšie informácie…">
+
