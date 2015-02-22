@@ -437,14 +437,14 @@
 <!ENTITY fullZoom.label "Tamaño">
 <!ENTITY fullZoom.accesskey "m">
 <!ENTITY sidebarCloseButton.tooltip "Cerrar panel lateral">
-<!ENTITY quitApplicationCmdWin.label "Salir">
-<!ENTITY quitApplicationCmdWin.accesskey "S">
-<!ENTITY quitApplicationCmdWin.tooltip "Salir de &brandShortName;">
+<!ENTITY quitApplicationCmdWin2.label "Salir">
+<!ENTITY quitApplicationCmdWin2.accesskey "S">
+<!ENTITY quitApplicationCmdWin2.tooltip "Salir de &brandShorterName;">
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY goForwardCmd.commandKey "]">
 <!ENTITY quitApplicationCmd.label "Salir">
 <!ENTITY quitApplicationCmd.accesskey "S">
-<!ENTITY quitApplicationCmdMac.label "Salir de &brandShortName;">
+<!ENTITY quitApplicationCmdMac2.label "Salir de &brandShorterName;">
 <!ENTITY quitApplicationCmdUnix.key "Q">
 <!ENTITY closeCmd.label "Cerrar">
 <!ENTITY closeCmd.key "W">
@@ -592,3 +592,11 @@
 <!ENTITY processHang.terminatePlugin.accessKey "M">
 <!ENTITY processHang.terminateProcess.label "Matar proceso web">
 <!ENTITY processHang.terminateProcess.accessKey "w">
+<!ENTITY readingList.label "Lista de lectura">
+<!ENTITY readingList.sidebar.commandKey "R">
+<!ENTITY emeLearnMoreContextMenu.label "Más información sobre DRM…">
+<!ENTITY emeLearnMoreContextMenu.accesskey "D">
+<!ENTITY emeNotificationsNotNow.label "Ahora no">
+<!ENTITY emeNotificationsNotNow.accesskey "A">
+<!ENTITY emeNotificationsDontAskAgain.label "No preguntarme de nuevo">
+<!ENTITY emeNotificationsDontAskAgain.accesskey "N">
