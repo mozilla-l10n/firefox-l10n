@@ -1,8 +1,6 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-
-<!ENTITY minimizeWindow.key       "m">
 <!ENTITY minimizeWindow.label     "குறைத்தல்">
 <!ENTITY bringAllToFront.label    "அனைத்தையும் முன்னால் கொண்டுவா">
 <!ENTITY zoomWindow.label         "அளவிடுதல்">
@@ -12,13 +10,12 @@
 <!ENTITY helpMenu.accesskey       "H"> 
 <!-- LOCALIZATION NOTE some localizations of Windows (ex:french, german) use "?"
                        for the help button in the menubar but Gnome does not.   -->
-<!ENTITY helpMenuWin.label        "உதவி"> 
-<!ENTITY helpMenuWin.accesskey    "H">
+
 <!ENTITY aboutProduct.label       "&brandShortName; பற்றி">
 <!ENTITY aboutProduct.accesskey   "A">
 <!ENTITY productHelp.label        "&brandShortName; உதவி">
 <!ENTITY productHelp.accesskey    "H">
-<!ENTITY helpMac.commandkey       "?">
+
 
 <!ENTITY helpKeyboardShortcuts.label     "விசைப்பலகை குறுக் குவழிகள்">
 <!ENTITY helpKeyboardShortcuts.accesskey "வ">
@@ -39,14 +36,14 @@
 <!ENTITY helpShowTour.accesskey         "உ">
 
 <!ENTITY preferencesCmdMac.label        "முன்னுரிமைகள்…">
-<!ENTITY preferencesCmdMac.commandkey   ",">
+
 
 <!ENTITY servicesMenuMac.label          "சேவைகள்">
 
 <!ENTITY hideThisAppCmdMac.label        "&brandShortName;ஐ மறை">
-<!ENTITY hideThisAppCmdMac.commandkey   "H">
+
 
 <!ENTITY hideOtherAppsCmdMac.label      "மற்றவற்றை மறை">
-<!ENTITY hideOtherAppsCmdMac.commandkey "H">
+
 
 <!ENTITY showAllAppsCmdMac.label        "அனைத்தையும் காட்டு">
