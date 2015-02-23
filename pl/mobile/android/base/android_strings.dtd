@@ -512,5 +512,6 @@ it is applicable. -->
 <!ENTITY voicesearch_failed_retry "Spróbuj ponownie">
 
 <!ENTITY remote_tabs_last_synced "Ostatnia synchronizacja: &formatS;">
+<!ENTITY remote_tabs_never_synced "Ostatnia synchronizacja: nigdy">
 
 <!ENTITY find_matchcase "Aa">
