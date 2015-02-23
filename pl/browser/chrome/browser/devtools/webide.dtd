@@ -86,6 +86,7 @@
 <!ENTITY details_location "Położenie">
 <!ENTITY details_manifestURL "ID aplikacji">
 <!ENTITY details_removeProject_button "Usuń projekt">
+<!ENTITY details_showPrepackageLog_button "Wpisy dziennika poprzedzające pakowanie">
 
 <!ENTITY newAppWindowTitle "Nowa aplikacja">
 <!ENTITY newAppHeader "Szablon">
@@ -157,3 +158,5 @@
 <!ENTITY wifi_auth_no_scanner "Brak komunikatu skanera kodów QR?">
 <!ENTITY wifi_auth_yes_scanner "Komunikat skanera kodów QR wyświetlił się?">
 <!ENTITY wifi_auth_token_request "Jeśli inne urządzenie prosi o wprowadzenie tokenu zamiast skanowania kodu QR, wprowadź na nim poniższy ciąg znaków:">
+
+<!ENTITY logs_title "Wpisy dziennika poprzedzające pakowanie">
