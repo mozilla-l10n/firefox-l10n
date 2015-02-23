@@ -70,3 +70,7 @@
 <!ENTITY browseNewsrc.accesskey "e">
 <!ENTITY accountTitle.label "Configuración de cuenta">
 <!ENTITY accountSettingsDesc.label "La siguiente cuenta es especial. No tiene identidades asociadas con ella.">
+<!ENTITY storeType.label "Tipo de almacenamiento de mensajes:">
+<!ENTITY storeType.accesskey "T">
+<!ENTITY mboxStore.label "Un archivo grande (mbox)">
+<!ENTITY maildirStore.label "Archivo por mensaje (maildir)">

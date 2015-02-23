@@ -3,17 +3,19 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY itemGeneral.label "General">
+<!ENTITY dataChoicesTab.label "Elección de datos">
 <!ENTITY itemDisplay.label "Lectura y visualización">
 <!ENTITY itemUpdate.label "Actualización">
 <!ENTITY itemNetworking.label "Red y espacio en disco">
 <!ENTITY itemCertificates.label "Certificados">
-<!ENTITY submitTelemetry.label "Enviar datos de rendimiento">
-<!ENTITY submitTelemetry.accesskey "n">
-<!ENTITY telemetryInfoLink.label "Más información sobre Telemetry">
 <!ENTITY enableGlodaSearch.label "Activar indexador y búsqueda global">
 <!ENTITY enableGlodaSearch.accesskey "A">
 <!ENTITY allowHWAccel.label "Usar aceleración hardware cuando esté disponible">
 <!ENTITY allowHWAccel.accesskey "h">
+<!ENTITY storeType.label "Tipo de almacenamiento de mensajes para las nuevas cuentas:">
+<!ENTITY storeType.accesskey "T">
+<!ENTITY mboxStore.label "Un archivo grande (mbox)">
+<!ENTITY maildirStore.label "Archivo por mensaje (maildir)">
 <!ENTITY scrolling.label "Desplazamiento">
 <!ENTITY useAutoScroll.label "Usar desplazamiento automático">
 <!ENTITY useAutoScroll.accesskey "U">
@@ -32,6 +34,16 @@
 <!ENTITY returnReceiptsInfo.label "Determinar cómo gestiona &brandShortName; los acuses de recibo">
 <!ENTITY showReturnReceipts.label "Acuses de recibo…">
 <!ENTITY showReturnReceipts.accesskey "r">
+<!ENTITY telemetrySection.label "Telemetry">
+<!ENTITY telemetryDesc.label "Comparte datos de rendimiento, uso, hardware y personalización sobre su cliente de correo con &vendorShortName; para ayudarnos a mejorar &brandShortName;">
+<!ENTITY enableTelemetry.label "Activar Telemetry">
+<!ENTITY enableTelemetry.accesskey "T">
+<!ENTITY telemetryLearnMore.label "Saber más">
+<!ENTITY crashReporterSection.label "Agente de informe de fallos">
+<!ENTITY crashReporterDesc.label "&brandShortName; envía informes de fallo para ayudar a &vendorShortName; a hacer su cliente de correo más estable y seguro">
+<!ENTITY enableCrashReporter.label "Activar agente de informe de fallos">
+<!ENTITY enableCrashReporter.accesskey "c">
+<!ENTITY crashReporterLearnMore.label "Saber más">
 <!ENTITY reading.caption "Lectura">
 <!ENTITY display.caption "Visualización">
 <!ENTITY showCondensedAddresses.label "Mostrar sólo el atributo 'nombre mostrado' para las personas de mi libreta de direcciones">

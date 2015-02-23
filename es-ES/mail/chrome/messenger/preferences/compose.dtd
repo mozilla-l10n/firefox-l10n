@@ -5,6 +5,7 @@
 <!ENTITY itemGeneral.label "General">
 <!ENTITY itemAutoComplete.label "Destinatario">
 <!ENTITY itemSpellCheck.label "Ortografía">
+<!ENTITY dialogCompose.title "Redactando">
 <!ENTITY forwardMsg.label "Reenviar mensajes:">
 <!ENTITY forwardMsg.accesskey "m">
 <!ENTITY inline.label "Incorporados">
