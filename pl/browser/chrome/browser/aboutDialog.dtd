@@ -6,15 +6,13 @@
 
 <!ENTITY update.checkForUpdatesButton.label "Sprawdź dostępność aktualizacji">
 <!ENTITY update.checkForUpdatesButton.accesskey "S">
-<!ENTITY update.updateButton.label2 "Uruchom ponownie program &brandShortName;, aby go uaktualnić">
+<!ENTITY update.updateButton.label2 "Uruchom ponownie, aby uaktualnić">
 <!ENTITY update.updateButton.accesskey "U">
-<!ENTITY update.applyButtonBillboard.label "Zaktualizuj…">
-<!ENTITY update.applyButtonBillboard.accesskey "Z">
+<!ENTITY update.applyButtonBillboard.label "Uaktualnij…">
+<!ENTITY update.applyButtonBillboard.accesskey "U">
 
-<!-- LOCALIZATION NOTE (warningDesc.version): This is a warning about the experimental nature of Nightly and Aurora builds. It is only shown in those versions. -->
-<!ENTITY warningDesc.version        "&brandShortName; to program eksperymentalny i potencjalnie niestabilny.">
-<!-- LOCALIZATION NOTE (warningDesc.telemetryDesc): This is a notification that Nightly/Aurora builds automatically send Telemetry data back to Mozilla. It is only shown in those versions. "It" refers to brandShortName. -->
-<!ENTITY warningDesc.telemetryDesc  "Do organizacji &vendorShortName; są automatycznie przesyłane informacje o wydajności, charakterystyce sprzętu, wykorzystaniu funkcji i modyfikacjach programu &brandShortName; w celu jego ulepszenia.">
+<!ENTITY warningDesc.version "Program &brandShortName; jest wersją rozwojową i może być niestabilny.">
+<!ENTITY warningDesc.telemetryDesc "Dane o wydajności, wykorzystaniu, modyfikacjach oraz o sprzęcie, na którym działa, są wysyłane do organizacji &vendorShortName;, aby ulepszać program &brandShortName;.">
 
 <!ENTITY community.exp.start "">
 <!ENTITY community.exp.mozillaLink "&vendorShortName;">

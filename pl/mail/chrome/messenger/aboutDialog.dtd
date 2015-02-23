@@ -1,11 +1,15 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY aboutDialog.title "O programie &brandFullName;">
 
 <!ENTITY update.checkForUpdatesButton.label "Sprawdź dostępność aktualizacji">
 <!ENTITY update.checkForUpdatesButton.accesskey "S">
-<!ENTITY update.updateButton.label2 "Uruchom ponownie program &brandShortName;, by zaktualizować">
+<!ENTITY update.updateButton.label2 "Uruchom ponownie, aby uaktualnić">
 <!ENTITY update.updateButton.accesskey "U">
-<!ENTITY update.applyButtonBillboard.label "Zaktualizuj…">
-<!ENTITY update.applyButtonBillboard.accesskey "Z">
+<!ENTITY update.applyButtonBillboard.label "Uaktualnij…">
+<!ENTITY update.applyButtonBillboard.accesskey "U">
 
 <!ENTITY warningDesc.version "Program &brandShortName; jest wersją rozwojową i może być niestabilny.">
 <!ENTITY warningDesc.telemetryDesc "Dane o wydajności, wykorzystaniu, modyfikacjach oraz o sprzęcie, na którym działa, są wysyłane do organizacji &vendorShortName;, aby ulepszać program &brandShortName;.">
