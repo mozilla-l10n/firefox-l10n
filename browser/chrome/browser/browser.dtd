@@ -84,8 +84,8 @@ when there are no windows but Firefox is still running. -->
 
 <!ENTITY toolbarContextMenu.reloadAllTabs.label "ផ្ទុក​ឡើងវិញ ផ្ទាំង​ទាំងអស់">
 <!ENTITY toolbarContextMenu.reloadAllTabs.accesskey "ផ">
-<!ENTITY toolbarContextMenu.bookmarkAllTabs.label "ចំណាំផ្ទាំង​ទាំងអស់…">
-<!ENTITY toolbarContextMenu.bookmarkAllTabs.accesskey "ផ">
+<!ENTITY toolbarContextMenu.bookmarkAllTabs.label "ចំណាំ​ផ្ទាំង​ទាំងអស់…">
+<!ENTITY toolbarContextMenu.bookmarkAllTabs.accesskey "​">
 <!ENTITY toolbarContextMenu.undoCloseTab.label "មិនធ្វើវិញ​នូវ​ការ​បិទ​ផ្ទាំង">
 <!ENTITY toolbarContextMenu.undoCloseTab.accesskey "ម">
 
@@ -175,7 +175,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY reloadCmd.label              "ផ្ទុក​ឡើងវិញ">
 <!ENTITY reloadButton.tooltip         "ផ្ទុក​ទំព័រ​បច្ចុប្បន្ន​ឡើងវិញ">
 <!ENTITY stopCmd.label                "បញ្ឈប់">
-<!ENTITY stopCmd.macCommandKey        "។">
+<!ENTITY stopCmd.macCommandKey        ".">
 <!ENTITY stopButton.tooltip           "បញ្ឈប់​ការ​​ផ្ទុក​ទំព័រ​នេះ">
 <!ENTITY goEndCap.tooltip             "ទៅ​កាន់​អាសយដ្ឋាន​ក្នុង​របារ​ទីតាំង">
 <!ENTITY printButton.label            "បោះពុម្ព">
@@ -245,7 +245,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY responsiveDesignTool.label   "ទិដ្ឋភាព​រចនា​ដែល​​បើក​ទូលាយ">
 <!ENTITY responsiveDesignTool.accesskey "R">
-<!ENTITY responsiveDesignTool.commandkey "M">
+
 
 <!ENTITY eyedropper.label   "ឧបករណ៍​ចាក់​ពណ៌">
 <!ENTITY eyedropper.accesskey "y">
@@ -288,7 +288,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY devToolbar.keytext                "F2">
 <!ENTITY devToolboxMenuItem.label          "បិទ/បើក​ឧបករណ៍">
 <!ENTITY devToolboxMenuItem.accesskey      "T">
-<!ENTITY devToolboxMenuItem.keytext        "I">
+
 
 <!ENTITY devToolbarToolsButton.tooltip     "បិទ/បើក​ឧបករណ៍​​សម្រាប់​កម្មវិធី​អ្នក​អភិវឌ្ឍន៍">
 <!ENTITY devToolbarOtherToolsButton.label  "ឧបករណ៍​ច្រើន​ទៀត">
@@ -299,7 +299,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fileMenu.label         "ឯកសារ"> 
 <!ENTITY fileMenu.accesskey       "F">
 <!ENTITY newNavigatorCmd.label        "បង្អួច​​​ថ្មី">
-<!ENTITY newNavigatorCmd.key        "N">
+
 <!ENTITY newNavigatorCmd.accesskey      "N">
 <!ENTITY newPrivateWindow.label     "បង្អួច​ឯកជន​ថ្មី">
 <!ENTITY newPrivateWindow.accesskey "W">
@@ -307,19 +307,19 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY editMenu.label         "កែសម្រួល"> 
 <!ENTITY editMenu.accesskey       "E"> 
 <!ENTITY undoCmd.label            "មិនធ្វើវិញ">  
-<!ENTITY undoCmd.key            "Z">  
+
 <!ENTITY undoCmd.accesskey          "U"> 
 <!ENTITY redoCmd.label            "ធ្វើ​វិញ">  
-<!ENTITY redoCmd.key            "Y">  
+
 <!ENTITY redoCmd.accesskey          "R"> 
 <!ENTITY cutCmd.label           "កាត់">  
-<!ENTITY cutCmd.key             "X">  
+
 <!ENTITY cutCmd.accesskey         "t"> 
 <!ENTITY copyCmd.label            "ចម្លង">  
-<!ENTITY copyCmd.key            "C">  
+
 <!ENTITY copyCmd.accesskey          "C"> 
 <!ENTITY pasteCmd.label           "បិទភ្ជាប់">  
-<!ENTITY pasteCmd.key           "V">  
+
 <!ENTITY pasteCmd.accesskey         "P"> 
 <!ENTITY deleteCmd.label          "លុប">  
 <!ENTITY deleteCmd.key            "D">  
@@ -363,7 +363,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuCustomizeExit.tooltip "បញ្ចប់​តាម​តម្រូវ​ការ">
 <!ENTITY appMenuHistory.label "ប្រវត្តិ">
 <!ENTITY appMenuHistory.showAll.label "បង្ហាញ​ប្រវត្តិ​ទាំងអស់">
-<!ENTITY appMenuHistory.clearRecent.label "សម្អាត​ប្រវត្តិ​បច្ចុប្បន្ន...">
+<!ENTITY appMenuHistory.clearRecent.label "សម្អាត​ប្រវត្តិ​ថ្មីៗ…">
 <!ENTITY appMenuHistory.restoreSession.label "ស្ដារ​សម័យ​មុន">
 <!ENTITY appMenuHistory.viewSidebar.label "មើល​របារ​ចំហៀង​ប្រវត្តិ">
 <!ENTITY appMenuHelp.tooltip "បើក​ម៉ឺនុយ​ជំនួយ">
@@ -429,7 +429,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY searchWithHeader.label       "ស្វែងរក​ជាមួយ៖">
 <!ENTITY changeSearchSettings.button  "ផ្លាស់ប្ដូរ​ការ​កំណត់​ស្វែងរក">
 
-<!ENTITY tabView.commandkey           "e">
 
 <!ENTITY openLinkCmdInTab.label       "បើក​តំណ​ក្នុង​ផ្ទាំង​ថ្មី">
 <!ENTITY openLinkCmdInTab.accesskey   "T">
@@ -445,14 +444,13 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openFrameCmd.accesskey       "W">
 <!ENTITY showOnlyThisFrameCmd.label     "បង្ហាញ​តែ​ស៊ុម​នេះ">
 <!ENTITY showOnlyThisFrameCmd.accesskey "S">
-<!ENTITY reloadCmd.commandkey         "r">
+
 <!ENTITY reloadFrameCmd.label         "ផ្ទុក​ស៊ុម​ឡើងវិញ">
 <!ENTITY reloadFrameCmd.accesskey     "R">
 <!ENTITY viewPartialSourceForSelectionCmd.label "មើល​​ប្រភព​ជម្រើស">
 <!ENTITY viewPartialSourceForMathMLCmd.label    "មើល​កូដ MathML">
 <!-- LOCALIZATION NOTE (viewPartialSourceCmd.accesskey): This accesskey is used for both 
          viewPartialSourceForSelectionCmd.label and viewPartialSourceForMathMLCmd.label -->
-<!ENTITY viewPartialSourceCmd.accesskey "e">
 <!ENTITY viewPageSourceCmd.label      "មើល​ប្រភព​ទំព័រ">
 <!ENTITY viewPageSourceCmd.accesskey  "V">
 <!ENTITY viewFrameSourceCmd.label     "មើល​ប្រភព​ស៊ុម">
@@ -485,8 +483,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY savePageCmd.label            "រក្សា​ទុក​ទំព័រ​ជា...">
 <!ENTITY savePageCmd.accesskey        "A">
 <!-- alternate for content area context menu -->
-<!ENTITY savePageCmd.accesskey2       "P">
-<!ENTITY savePageCmd.commandkey       "s">
+
 <!ENTITY saveFrameCmd.label           "រក្សា​ទុក​ស៊ុម​ជា...">
 <!ENTITY saveFrameCmd.accesskey       "F">
 <!ENTITY printFrameCmd.label          "បោះពុម្ព​ស៊ុម...">
@@ -562,7 +559,7 @@ items are mutually exclusive. -->
 <!ENTITY mediaHideControls.label     "លាក់​វត្ថុ​បញ្ជា">
 <!ENTITY mediaHideControls.accesskey "C">
 <!ENTITY videoFullScreen.label       "ពេញ​អេក្រង់">
-<!ENTITY videoFullScreen.accesskey   "F">
+<!ENTITY videoFullScreen.accesskey   "ព">
 <!ENTITY videoSaveImage.label        "រក្សាទុក​រូបថត​ជា...">
 <!ENTITY videoSaveImage.accesskey    "S">
 <!-- LOCALIZATION NOTE: The access keys for "Show Statistics" and
@@ -581,14 +578,13 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY fullZoomEnlargeCmd.label       "​ពង្រីក">
 <!ENTITY fullZoomEnlargeCmd.accesskey   "I">
-<!ENTITY fullZoomEnlargeCmd.commandkey  "+">
+
 <!-- + is above this key on many keyboards -->
-<!ENTITY fullZoomEnlargeCmd.commandkey2 "="> 
 <!ENTITY fullZoomEnlargeCmd.commandkey3 "">
 
 <!ENTITY fullZoomReduceCmd.label        "​បង្រួម">
 <!ENTITY fullZoomReduceCmd.accesskey    "O">
-<!ENTITY fullZoomReduceCmd.commandkey   "-">
+
 <!ENTITY fullZoomReduceCmd.commandkey2  "">
 
 <!ENTITY fullZoomResetCmd.label         "កំណត់​ឡើង​វិញ">
@@ -640,23 +636,23 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY bidiSwitchPageDirectionItem.accesskey    "D">
 <!ENTITY bidiSwitchTextDirectionItem.label        "ប្ដូរ​​ទិស​អត្ថបទ">
 <!ENTITY bidiSwitchTextDirectionItem.accesskey    "w">
-<!ENTITY bidiSwitchTextDirectionItem.commandkey   "X">
+
 
 <!ENTITY findOnCmd.label     "រក​ក្នុង​ទំព័រ​នេះ...">
 <!ENTITY findOnCmd.accesskey "F">
-<!ENTITY findOnCmd.commandkey "f">
+
 <!ENTITY findAgainCmd.label  "រក​ម្ដង​ទៀត">
 <!ENTITY findAgainCmd.accesskey "g">
-<!ENTITY findAgainCmd.commandkey "g">
+
 <!ENTITY findAgainCmd.commandkey2 "VK_F3">
-<!ENTITY findSelectionCmd.commandkey "e">
+
 
 <!ENTITY spellAddDictionaries.label "បន្ថែម​​វចនានុក្រម...">
 <!ENTITY spellAddDictionaries.accesskey "A">
 
 <!ENTITY editBookmark.done.label                     "រួចរាល់">
 <!ENTITY editBookmark.cancel.label                   "បោះបង់">
-<!ENTITY editBookmark.removeBookmark.accessKey       "R">
+
 
 <!ENTITY identity.unverifiedsite2 "តំបន់បណ្ដាញ​នេះ​មិន​ផ្ដល់​ព័ត៌មាន​អំពី​អត្តសញ្ញាណ​ទេ ។">
 <!ENTITY identity.connectedTo "អ្នក​បាន​តភ្ជាប់​ទៅ">
@@ -692,7 +688,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY syncBrand.shortName.label    "ធ្វើ​សមកាលកម្ម">
 
 <!ENTITY syncSetup.label              "ដំឡើង &syncBrand.shortName.label;…">
-<!ENTITY syncSetup.accesskey          "Y">
+
 <!ENTITY syncSyncNowItem.label        "ធ្វើ​សមកាលកម្ម​ឥឡូវ">
 <!ENTITY syncSyncNowItem.accesskey    "S">
 <!ENTITY syncReAuthItem.label         "តភ្ជាប់​ឡើង​វិញ​ទៅ​កាន់ &syncBrand.shortName.label;…">
@@ -736,7 +732,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY customizeMode.lwthemes.myThemes "រូបរាង​របស់​ខ្ញុំ">
 <!ENTITY customizeMode.lwthemes.recommended "បាន​ផ្ដល់​អនុសាសន៍">
 <!ENTITY customizeMode.lwthemes.menuManage "គ្រប់គ្រង">
-<!ENTITY customizeMode.lwthemes.menuManage.accessKey "M">
+
 <!ENTITY customizeMode.lwthemes.menuGetMore "ទទួល​បាន​រូបរាង​ច្រើន">
 <!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "G">
 <!ENTITY customizeMode.deveditionTheme.label2 "ប្រើ​រូបរាង​ការ​កែសម្រួល​របស់​អ្នក​អភិវឌ្ឍ">
@@ -775,7 +771,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY trackingContentBlocked.options "ជម្រើស">
 <!ENTITY trackingContentBlocked.unblock2.label "បិទ​ការ​ការពារ​សម្រាប់​តំបន់​បណ្ដាញ​នេះ">
 <!ENTITY trackingContentBlocked.unblock2.accesskey "D">
-<!ENTITY trackingContentBlocked.block.label "បើក​ការ​ការ​ពារ">
+<!ENTITY trackingContentBlocked.block.label "បើក​ការការពារ">
 <!ENTITY trackingContentBlocked.block.accesskey "E">
 <!ENTITY trackingContentBlocked.disabled.message "បិទ​ការ​ការ​ពារ​ការ​តាមដាន">
 

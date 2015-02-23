@@ -13,13 +13,14 @@ file names and tall enough to hint that there are more downloads in the list -->
 
 <!ENTITY downloads.title                  "ទាញ​យក">
 
-
-
-
-
-
-
-
+<!ENTITY cmd.pause.label                  "ផ្អាក">
+<!ENTITY cmd.pause.accesskey              "ផ">
+<!ENTITY cmd.resume.label                 "បន្ត">
+<!ENTITY cmd.resume.accesskey             "ប">
+<!ENTITY cmd.cancel.label                 "បោះបង់">
+<!ENTITY cmd.cancel.accesskey             "ប">
+<!ENTITY cmd.show.label                   "បើកថត​ដែល​ផ្ទុក">
+<!ENTITY cmd.show.accesskey               "ថ">
 <!ENTITY cmd.showMac.label                "បង្ហាញ​ក្នុង​កម្មវិធី​ស្វែងរក">
 <!ENTITY cmd.showMac.accesskey            "ធ">
 <!ENTITY cmd.open.label                   "បើក">
@@ -30,8 +31,8 @@ file names and tall enough to hint that there are more downloads in the list -->
 <!ENTITY cmd.retry.accesskey              "ទ">
 <!ENTITY cmd.goToDownloadPage.label       "ទៅ​កាន់​ទំព័រ​ទាញ​យក">
 <!ENTITY cmd.goToDownloadPage.accesskey   "ក">
-
-
+<!ENTITY cmd.copyDownloadLink.label       "ចម្លង​តំណ​ទាញ​យក">
+<!ENTITY cmd.copyDownloadLink.accesskey   "ញ">
 <!ENTITY cmd.removeFromList.label         "យក​ចេញពី​បញ្ជី">
 <!ENTITY cmd.removeFromList.accesskey     "ប">
 
