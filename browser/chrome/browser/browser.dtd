@@ -95,7 +95,7 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY pageInfoCmd.label "ಪುಟದ ಮಾಹಿತಿ">
 <!ENTITY pageInfoCmd.accesskey "I">
 <!ENTITY pageInfoCmd.commandkey "i">
-<!ENTITY mirrorTabCmd.label "Mirror ಹಾಳೆ">
+<!ENTITY mirrorTabCmd.label "ಟ್ಯಾಬ್ ಪ್ರತಿಬಿಂಬ">
 <!ENTITY mirrorTabCmd.accesskey "M">
 <!-- LOCALIZATION NOTE (enterFullScreenCmd.label, exitFullScreenCmd.label):
 These should match what Safari and other Apple applications use on OS X Lion. -->
@@ -146,7 +146,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
   -  Use the unicode ellipsis char, \u2026,
   -  or use "..." if \u2026 doesn't suit traditions in your locale. -->
 <!ENTITY findShareServices.label "ಇನ್ನಷ್ಟು ಹಂಚಬಲ್ಲ ಸೇವೆಗಳ ಬಗ್ಗೆ ಹುಡುಕಿ...">
-<!ENTITY sharePageCmd.label "This ಪುಟವನ್ನು ಹಂಚಿಕೊಳ್ಳಿ">
+<!ENTITY sharePageCmd.label "ಈ ಪುಟವನ್ನು ಹಂಚಿಕೊಳ್ಳಿ">
 <!ENTITY sharePageCmd.commandkey "S">
 <!ENTITY sharePageCmd.accesskey "s">
 <!-- LOCALIZATION NOTE (shareLink.accesskey): must be different than the following share access keys -->
@@ -247,7 +247,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY responsiveDesignTool.accesskey "R">
 <!ENTITY responsiveDesignTool.commandkey "M">
 
-<!ENTITY eyedropper.label   "Eyedropper">
+<!ENTITY eyedropper.label   "ಐಡ್ರಾಪರ್">
 <!ENTITY eyedropper.accesskey "y">
 <!-- LOCALIZATION NOTE (scratchpad.label): This menu item label appears
   -  in the Tools menu. See bug 653093.
@@ -357,7 +357,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllHistoryCmd2.label "ಎಲ್ಲಾ ಇತಿಹಾಸವನ್ನು ತೋರಿಸು">
 <!ENTITY showAllHistoryCmd.commandkey "H">
 
-<!ENTITY appMenuCustomize.label "ಇಚ್ಛೆಗೆ ಅನುಸಾರವಾಗಿ ಬದಲಾಯಿಸು">
+<!ENTITY appMenuCustomize.label "ಅಗತ್ಯಾನುಗುಣಗೊಳಿಸು">
 <!ENTITY appMenuCustomize.tooltip "ಪರಿವಿಡಿ ಮತ್ತು ಉಪಕರಣ ಪಟ್ಟಿಗಳನ್ನು ಅನುಗುಣವಾಗಿಸು">
 <!ENTITY appMenuCustomizeExit.label "ಅನುಗುಣವಾಗಿಸುವುದರಿಂದ ನಿರ್ಗಮಿಸು">
 <!ENTITY appMenuCustomizeExit.tooltip "ಅನುಗುಣವಾಗಿಸುವುದನ್ನು ಮುಗಿಸು">
