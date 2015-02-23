@@ -56,21 +56,21 @@ can reach it easily. -->
 
 <!ENTITY tabCmd.label "Fitxa berria">
 <!ENTITY tabCmd.accesskey "t">
-<!ENTITY tabCmd.commandkey "t">
+
 <!-- LOCALIZATION NOTE (openLocationCmd.label): "Open Location" is only
 displayed on OS X, and only on windows that aren't main browser windows, or
 when there are no windows but Firefox is still running. -->
 <!ENTITY openLocationCmd.label "Ireki helbidea…">
 <!ENTITY openFileCmd.label "Ireki fitxategia…">
 <!ENTITY openFileCmd.accesskey "f">
-<!ENTITY openFileCmd.commandkey "o">
+
 <!ENTITY printSetupCmd.label "Prestatu orria…">
 <!ENTITY printSetupCmd.accesskey "u">
 <!ENTITY printPreviewCmd.label "Inprimatzeko aurrebista">
 <!ENTITY printPreviewCmd.accesskey "n">
 <!ENTITY printCmd.label "Inprimatu…">
 <!ENTITY printCmd.accesskey "p">
-<!ENTITY printCmd.commandkey "p">
+
 
 <!ENTITY goOfflineCmd.label "Lan egin lineaz kanpo">
 <!ENTITY goOfflineCmd.accesskey "o">
@@ -82,19 +82,18 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY personalbarCmd.accesskey "b">
 <!ENTITY bookmarksToolbarItem.label "Laster-marken tresna-barraren osagaiak">
 
-<!ENTITY toolbarContextMenu.reloadAllTabs.label "Berritu fitxa guztiak">
-<!ENTITY toolbarContextMenu.reloadAllTabs.accesskey "B">
-<!ENTITY toolbarContextMenu.bookmarkAllTabs.label "Egin fitxa guztien laster-marka…">
-<!ENTITY toolbarContextMenu.bookmarkAllTabs.accesskey "t">
-<!ENTITY toolbarContextMenu.undoCloseTab.label "Desegin fitxa ixtea">
-<!ENTITY toolbarContextMenu.undoCloseTab.accesskey "D">
+
+
+
+
+
 
 <!ENTITY pageSourceCmd.label "Orriaren iturburua">
 <!ENTITY pageSourceCmd.accesskey "O">
-<!ENTITY pageSourceCmd.commandkey "u">
+
 <!ENTITY pageInfoCmd.label "Orriaren informazioa">
 <!ENTITY pageInfoCmd.accesskey "i">
-<!ENTITY pageInfoCmd.commandkey "i">
+
 <!ENTITY mirrorTabCmd.label "Ispilatu fitxa">
 <!ENTITY mirrorTabCmd.accesskey "I">
 <!-- LOCALIZATION NOTE (enterFullScreenCmd.label, exitFullScreenCmd.label):
@@ -105,7 +104,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY exitFullScreenCmd.accesskey "p">
 <!ENTITY fullScreenCmd.label "Pantaila osoa">
 <!ENTITY fullScreenCmd.accesskey "P">
-<!ENTITY fullScreenCmd.macCommandKey "f">
+
 <!ENTITY showAllTabsCmd.label "Erakutsi fitxa guztiak">
 <!ENTITY showAllTabsCmd.accesskey "z">
 
@@ -140,14 +139,14 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksMenu.accesskey "m">
 <!ENTITY bookmarkThisPageCmd.label "Egin orriaren laster-marka">
 <!ENTITY editThisBookmarkCmd.label "Editatu laster-marka">
-<!ENTITY bookmarkThisPageCmd.commandkey "d">
-<!ENTITY markPageCmd.commandkey "l">
+
+
 <!-- LOCALIZATION NOTE (findShareServices.label):
   -  Use the unicode ellipsis char, \u2026,
   -  or use "..." if \u2026 doesn't suit traditions in your locale. -->
 <!ENTITY findShareServices.label "Bilatu partekatzeko zerbitzu gehiago…">
 <!ENTITY sharePageCmd.label "Partekatu orri hau">
-<!ENTITY sharePageCmd.commandkey "S">
+
 <!ENTITY sharePageCmd.accesskey "P">
 <!-- LOCALIZATION NOTE (shareLink.accesskey): must be different than the following share access keys -->
 <!ENTITY shareLink.label "Partekatu lotura hau">
@@ -175,7 +174,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY reloadCmd.label              "Berritu">
 <!ENTITY reloadButton.tooltip         "Berritu uneko orria">
 <!ENTITY stopCmd.label                "Gelditu">
-<!ENTITY stopCmd.macCommandKey        ".">
+
 <!ENTITY stopButton.tooltip           "Utzi orri hau kargatzeari">
 <!ENTITY goEndCap.tooltip             "Joan kokapen-barrako helbidera">
 <!ENTITY printButton.label            "Inprimatu">
@@ -190,21 +189,18 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY tabGroupsButton.label        "Fitxen taldeak">
 
 <!ENTITY bookmarksButton.label          "Laster-markak">
-<!ENTITY bookmarksCmd.commandkey "b">
 
-<!ENTITY bookmarksMenuButton.label          "Laster-markak">
-<!ENTITY bookmarksMenuButton.unsorted.label "Ordenatu gabeko laster-markak">
+
+
 <!ENTITY viewBookmarksSidebar2.label        "Ikusi laster-marken tresna-barra">
 <!ENTITY viewBookmarksToolbar.label         "Ikusi laster-marken tresna-barra">
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
   -  key should not contain the letters A-F, since these are reserved
   -  shortcut keys on Linux. -->
 
-<!ENTITY bookmarksGtkCmd.commandkey "o">
-<!ENTITY bookmarksWinCmd.commandkey "i">
 
 <!ENTITY historyButton.label            "Historia">
-<!ENTITY historySidebarCmd.commandKey   "h">
+
 
 <!ENTITY toolsMenu.label              "Tresnak">
 <!ENTITY toolsMenu.accesskey          "T"> 
@@ -214,11 +210,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY downloads.label              "Deskargak">
 <!ENTITY downloads.accesskey          "D">
-<!ENTITY downloads.commandkey         "j">
-<!ENTITY downloadsUnix.commandkey     "y">
+
+
 <!ENTITY addons.label                 "Gehigarriak">
 <!ENTITY addons.accesskey             "G">
-<!ENTITY addons.commandkey            "A">
+
 <!ENTITY webapps.label                "Aplikazioak">
 <!ENTITY webapps.accesskey            "p">
 
@@ -237,15 +233,15 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY remoteWebConsoleCmd.label    "Urruneko web kontsola">
 
 <!ENTITY browserConsoleCmd.label      "Nabigatzailearen kontsola">
-<!ENTITY browserConsoleCmd.commandkey "j">
+
 <!ENTITY browserConsoleCmd.accesskey  "N">
 
 <!ENTITY inspectContextMenu.label     "Ikuskatu elementua">
-<!ENTITY inspectContextMenu.accesskey "s">
+
 
 <!ENTITY responsiveDesignTool.label   "Diseinu arduratsuko ikuspegia">
 <!ENTITY responsiveDesignTool.accesskey "r">
-<!ENTITY responsiveDesignTool.commandkey "M">
+
 
 <!ENTITY eyedropper.label   "Tanta-kontagailua">
 <!ENTITY eyedropper.accesskey "n">
@@ -288,7 +284,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY devToolbar.keytext                "F2">
 <!ENTITY devToolboxMenuItem.label          "Txandakatu tresnak">
 <!ENTITY devToolboxMenuItem.accesskey      "T">
-<!ENTITY devToolboxMenuItem.keytext        "I">
+
 
 <!ENTITY devToolbarToolsButton.tooltip     "Txandakatu garatzaile-tresnak">
 <!ENTITY devToolbarOtherToolsButton.label  "Tresna gehiago">
@@ -299,7 +295,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fileMenu.label         "Fitxategia"> 
 <!ENTITY fileMenu.accesskey       "F">
 <!ENTITY newNavigatorCmd.label        "Leiho berria">
-<!ENTITY newNavigatorCmd.key        "N">
+
 <!ENTITY newNavigatorCmd.accesskey      "L">
 <!ENTITY newPrivateWindow.label     "Leiho pribatu berria">
 <!ENTITY newPrivateWindow.accesskey "h">
@@ -307,25 +303,25 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY editMenu.label         "Editatu"> 
 <!ENTITY editMenu.accesskey       "E"> 
 <!ENTITY undoCmd.label            "Desegin">  
-<!ENTITY undoCmd.key            "Z">  
+
 <!ENTITY undoCmd.accesskey          "D"> 
 <!ENTITY redoCmd.label            "Berregin">  
-<!ENTITY redoCmd.key            "Y">  
+
 <!ENTITY redoCmd.accesskey          "r"> 
 <!ENTITY cutCmd.label           "Ebaki">  
-<!ENTITY cutCmd.key             "X">  
+
 <!ENTITY cutCmd.accesskey         "E"> 
 <!ENTITY copyCmd.label            "Kopiatu">  
-<!ENTITY copyCmd.key            "C">  
+
 <!ENTITY copyCmd.accesskey          "K"> 
 <!ENTITY pasteCmd.label           "Itsatsi">  
-<!ENTITY pasteCmd.key           "V">  
+
 <!ENTITY pasteCmd.accesskey         "I"> 
 <!ENTITY deleteCmd.label          "Ezabatu">  
-<!ENTITY deleteCmd.key            "D">  
+
 <!ENTITY deleteCmd.accesskey        "z"> 
 <!ENTITY selectAllCmd.label         "Hautatu dena">  
-<!ENTITY selectAllCmd.key         "A">  
+
 <!ENTITY selectAllCmd.accesskey       "a"> 
 <!ENTITY preferencesCmd2.label       "Aukerak">
 <!ENTITY preferencesCmd2.accesskey     "A">
@@ -334,7 +330,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY clearRecentHistory.label               "Garbitu azken historia…">
 
-<!ENTITY privateBrowsingCmd.commandkey          "P">
 
 <!ENTITY viewMenu.label         "Ikusi"> 
 <!ENTITY viewMenu.accesskey       "I"> 
@@ -355,16 +350,16 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY historyRestoreLastSession.label "Berreskuratu aurreko saioa">
 
 <!ENTITY showAllHistoryCmd2.label "Erakutsi historia…">
-<!ENTITY showAllHistoryCmd.commandkey "H">
+
 
 <!ENTITY appMenuCustomize.label "Pertsonalizatu">
 <!ENTITY appMenuCustomize.tooltip "Pertsonalizatu menua eta tresna-barrak">
 <!ENTITY appMenuCustomizeExit.label "Irten pertsonalizatzetik">
 <!ENTITY appMenuCustomizeExit.tooltip "Amaitu pertsonalizatzen">
-<!ENTITY appMenuHistory.label "Historia">
-<!ENTITY appMenuHistory.showAll.label "Erakutsi historia guztia">
-<!ENTITY appMenuHistory.clearRecent.label "Garbitu azken historia…">
-<!ENTITY appMenuHistory.restoreSession.label "Berreskuratu aurreko saioa">
+
+
+
+
 <!ENTITY appMenuHistory.viewSidebar.label "Ikusi historiaren alboko barra">
 <!ENTITY appMenuHelp.tooltip "Ireki laguntza-menua">
 
@@ -388,9 +383,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY customizeMenu.addMoreItems.label "Gehitu elementu gehiago…">
 <!ENTITY customizeMenu.addMoreItems.accesskey "G">
 
-<!ENTITY openCmd.commandkey           "l">
 <!ENTITY urlbar.placeholder2          "Bilatu edo idatzi helbidea">
-<!ENTITY urlbar.accesskey             "d">
+
 <!ENTITY urlbar.switchToTab.label     "Aldatu fitxara:">
 <!-- 
   Comment duplicated from browser-sets.inc:
@@ -413,9 +407,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
  -->
 
-<!ENTITY searchFocus.commandkey       "k">
-<!ENTITY searchFocus.commandkey2      "e">
-<!ENTITY searchFocusUnix.commandkey   "j">
+
 <!-- LOCALIZATION NOTE (searchFor.label, searchWith.label):
      These two strings are used to build the header above the list of one-click
      search providers:  "Search for <used typed keywords> with:" -->
@@ -429,7 +421,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY searchWithHeader.label       "Bilatu honekin:">
 <!ENTITY changeSearchSettings.button  "Aldatu bilaketa-ezarpenak">
 
-<!ENTITY tabView.commandkey           "e">
 
 <!ENTITY openLinkCmdInTab.label       "Ireki fitxa berrian">
 <!ENTITY openLinkCmdInTab.accesskey   "t">
@@ -445,14 +436,13 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openFrameCmd.accesskey       "m">
 <!ENTITY showOnlyThisFrameCmd.label     "Erakutsi marko hau bakarrik">
 <!ENTITY showOnlyThisFrameCmd.accesskey "b">
-<!ENTITY reloadCmd.commandkey         "r">
+
 <!ENTITY reloadFrameCmd.label         "Berritu markoa">
 <!ENTITY reloadFrameCmd.accesskey     "r">
 <!ENTITY viewPartialSourceForSelectionCmd.label "Ikusi aukeraren iturburua">
 <!ENTITY viewPartialSourceForMathMLCmd.label    "Ikusi MathML iturburua">
 <!-- LOCALIZATION NOTE (viewPartialSourceCmd.accesskey): This accesskey is used for both 
          viewPartialSourceForSelectionCmd.label and viewPartialSourceForMathMLCmd.label -->
-<!ENTITY viewPartialSourceCmd.accesskey "u">
 <!ENTITY viewPageSourceCmd.label      "Ikusi orriaren iturburua">
 <!ENTITY viewPageSourceCmd.accesskey  "o">
 <!ENTITY viewFrameSourceCmd.label     "Ikusi markoaren iturburua">
@@ -475,7 +465,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewBGImageCmd.accesskey     "a">
 <!ENTITY setDesktopBackgroundCmd.label      "Jarri idazmahaiaren atzeko planoan…">
 <!ENTITY setDesktopBackgroundCmd.accesskey  "J">
-<!ENTITY bookmarkPageCmd2.label       "Egin orri honen laster-marka">
+
 <!ENTITY bookmarkThisLinkCmd.label      "Egin lotura honen laster-marka">
 <!ENTITY bookmarkThisLinkCmd.accesskey  "l">
 <!ENTITY bookmarkThisFrameCmd.label      "Egin marko honen laster-marka">
@@ -485,8 +475,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY savePageCmd.label            "Gorde orria honela…">
 <!ENTITY savePageCmd.accesskey        "a">
 <!-- alternate for content area context menu -->
-<!ENTITY savePageCmd.accesskey2       "G">
-<!ENTITY savePageCmd.commandkey       "s">
+
 <!ENTITY saveFrameCmd.label           "Gorde markoa honela…">
 <!ENTITY saveFrameCmd.accesskey       "m">
 <!ENTITY printFrameCmd.label          "Inprimatu markoa…">
@@ -561,8 +550,8 @@ items are mutually exclusive. -->
 <!ENTITY mediaShowControls.accesskey "k">
 <!ENTITY mediaHideControls.label     "Ezkutatu kontrolak">
 <!ENTITY mediaHideControls.accesskey "k">
-<!ENTITY videoFullScreen.label       "Pantaila osoa">
-<!ENTITY videoFullScreen.accesskey   "P">
+
+
 <!ENTITY videoSaveImage.label        "Gorde argazkia honela…">
 <!ENTITY videoSaveImage.accesskey    "G">
 <!-- LOCALIZATION NOTE: The access keys for "Show Statistics" and
@@ -581,20 +570,19 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY fullZoomEnlargeCmd.label       "Gerturatu">
 <!ENTITY fullZoomEnlargeCmd.accesskey   "G">
-<!ENTITY fullZoomEnlargeCmd.commandkey  "+">
+
 <!-- + is above this key on many keyboards -->
-<!ENTITY fullZoomEnlargeCmd.commandkey2 "="> 
 <!ENTITY fullZoomEnlargeCmd.commandkey3 "">
 
 <!ENTITY fullZoomReduceCmd.label        "Urrundu">
 <!ENTITY fullZoomReduceCmd.accesskey    "U">
-<!ENTITY fullZoomReduceCmd.commandkey   "-">
-<!ENTITY fullZoomReduceCmd.commandkey2  "_">
+
+<!ENTITY fullZoomReduceCmd.commandkey2  "">
 
 <!ENTITY fullZoomResetCmd.label         "Berrezarri">
 <!ENTITY fullZoomResetCmd.accesskey     "r">
-<!ENTITY fullZoomResetCmd.commandkey    "0">
-<!ENTITY fullZoomResetCmd.commandkey2   "=">
+
+<!ENTITY fullZoomResetCmd.commandkey2   "">
 
 <!ENTITY fullZoomToggleCmd.label        "Testua soilik">
 <!ENTITY fullZoomToggleCmd.accesskey    "T">
@@ -606,16 +594,15 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY quitApplicationCmdWin.label       "Irten"> 
 <!ENTITY quitApplicationCmdWin.accesskey   "I">
 <!ENTITY quitApplicationCmdWin.tooltip     "Irten &brandShortName;(e)tik">
-<!ENTITY goBackCmd.commandKey "[">
-<!ENTITY goForwardCmd.commandKey "]">
+
+
 <!ENTITY quitApplicationCmd.label       "Irten"> 
 <!ENTITY quitApplicationCmd.accesskey   "I">
 <!ENTITY quitApplicationCmdMac.label    "Utzi &brandShortName;">
 <!-- LOCALIZATION NOTE(quitApplicationCmdUnix.key): This keyboard shortcut is used by both Linux and OSX builds. -->
-<!ENTITY quitApplicationCmdUnix.key     "Q">
 
 <!ENTITY closeCmd.label                 "Itxi">  
-<!ENTITY closeCmd.key                   "W">  
+
 <!ENTITY closeCmd.accesskey             "x">
 
 <!ENTITY pageStyleMenu.label "Orriaren estiloa">
@@ -627,36 +614,35 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY pageReportIcon.tooltip            "Aldatu popup blokeatzailearen ezarpenak webgune honentzat">
 
-<!ENTITY allowPopups.accesskey "p">
 <!-- On Windows we use the term "Options" to describe settings, but
      on Linux and Mac OS X we use "Preferences" - carry that distinction
      over into this string, which is used in the "popup blocked" info bar . -->
 <!ENTITY editPopupSettingsUnix.label "Aldatu popup blokeatzailearen hobespenak…">
 <!ENTITY editPopupSettings.label "Aldatu popup blokeatzailearen aukerak…">
 <!ENTITY editPopupSettings.accesskey "A">
-<!ENTITY dontShowMessage.accesskey "z">
+
 
 <!ENTITY bidiSwitchPageDirectionItem.label        "Aldatu orriaren norabidea">
 <!ENTITY bidiSwitchPageDirectionItem.accesskey    "n">
 <!ENTITY bidiSwitchTextDirectionItem.label        "Aldatu testuaren norabidea">
 <!ENTITY bidiSwitchTextDirectionItem.accesskey    "t">
-<!ENTITY bidiSwitchTextDirectionItem.commandkey   "X">
+
 
 <!ENTITY findOnCmd.label     "Bilatu orri honetan…">
 <!ENTITY findOnCmd.accesskey "B">
-<!ENTITY findOnCmd.commandkey "f">
+
 <!ENTITY findAgainCmd.label  "Bilatu berriro">
 <!ENTITY findAgainCmd.accesskey "r">
-<!ENTITY findAgainCmd.commandkey "g">
+
 <!ENTITY findAgainCmd.commandkey2 "VK_F3">
-<!ENTITY findSelectionCmd.commandkey "e">
+
 
 <!ENTITY spellAddDictionaries.label "Gehitu hiztegiak…">
 <!ENTITY spellAddDictionaries.accesskey "G">
 
 <!ENTITY editBookmark.done.label                     "Eginda">
 <!ENTITY editBookmark.cancel.label                   "Utzi">
-<!ENTITY editBookmark.removeBookmark.accessKey       "K">
+
 
 <!ENTITY identity.unverifiedsite2 "Webgune honek ez du identitate informaziorik eskaintzen.">
 <!ENTITY identity.connectedTo "Hona konektatuta: ">
@@ -692,12 +678,12 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY syncBrand.shortName.label    "Sync">
 
 <!ENTITY syncSetup.label              "Konfiguratu &syncBrand.shortName.label;…">
-<!ENTITY syncSetup.accesskey          "Y">
+
 <!ENTITY syncSyncNowItem.label        "Sinkronizatu orain">
 <!ENTITY syncSyncNowItem.accesskey    "S">
 <!ENTITY syncReAuthItem.label         "Birkonektatu &syncBrand.shortName.label;(e)ra">
 <!ENTITY syncReAuthItem.accesskey     "r">
-<!ENTITY syncToolbarButton.label      "Sync">
+
 
 <!ENTITY socialToolbar.title        "Tresna-barra sozialaren botoia">
 
@@ -736,12 +722,11 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY customizeMode.lwthemes.myThemes "Nire gaiak">
 <!ENTITY customizeMode.lwthemes.recommended "Gomendatuak">
 <!ENTITY customizeMode.lwthemes.menuManage "Kudeatu">
-<!ENTITY customizeMode.lwthemes.menuManage.accessKey "K">
+
 <!ENTITY customizeMode.lwthemes.menuGetMore "Lortu gai gehiago">
-<!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "L">
+
 <!ENTITY customizeMode.deveditionTheme.label2 "Erabili garatzaile-edizioko gaia">
 
-<!ENTITY social.chatBar.commandkey "c">
 <!ENTITY social.chatBar.label "Ezarri fokua txatetan">
 <!ENTITY social.chatBar.accesskey "k">
 
@@ -771,12 +756,12 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY trackingContentBlocked.message "Jarraipena">
 <!ENTITY trackingContentBlocked.moreinfo "Zure lineako jardueraren jarraipena egiten duten orriaren zatiak blokeatu egin dira.">
-<!ENTITY trackingContentBlocked.learnMore "Argibide gehiago">
-<!ENTITY trackingContentBlocked.options "Aukerak">
+
+
 <!ENTITY trackingContentBlocked.unblock2.label "Desgaitu babesa orri honetarako">
 <!ENTITY trackingContentBlocked.unblock2.accesskey "D">
-<!ENTITY trackingContentBlocked.block.label "Gaitu babesa">
-<!ENTITY trackingContentBlocked.block.accesskey "G">
+
+
 <!ENTITY trackingContentBlocked.disabled.message "Jarraipenaren babesa desgaituta dago">
 
 <!ENTITY pointerLock.notification.message "Berriro erakusteko, sakatu ESK tekla edozein unetan.">
@@ -801,7 +786,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY tabCrashed.checkSendReport "Eman &vendorShortName;(r)i hutsegite honen berri konpontzeko modua izan dezaten.">
 <!ENTITY tabCrashed.tryAgain "Saiatu berriro">
 
-<!ENTITY uiTour.infoPanel.close "Itxi">
 
 <!ENTITY appMenuSidebars.label         "Alboko barrak">
 
