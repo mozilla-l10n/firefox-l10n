@@ -56,21 +56,21 @@ can reach it easily. -->
 
 <!ENTITY tabCmd.label "Նոր Ներդիր">
 <!ENTITY tabCmd.accesskey "Ն">
-<!ENTITY tabCmd.commandkey "t">
+
 <!-- LOCALIZATION NOTE (openLocationCmd.label): "Open Location" is only
 displayed on OS X, and only on windows that aren't main browser windows, or
 when there are no windows but Firefox is still running. -->
 <!ENTITY openLocationCmd.label "Բացել Հասցե…">
 <!ENTITY openFileCmd.label "Բացել Ֆայլ…">
 <!ENTITY openFileCmd.accesskey "Բ">
-<!ENTITY openFileCmd.commandkey "o">
+
 <!ENTITY printSetupCmd.label "Էջի կարգավորումներ…">
 <!ENTITY printSetupCmd.accesskey "գ">
 <!ENTITY printPreviewCmd.label "Տպելու նախադիտում">
 <!ENTITY printPreviewCmd.accesskey "ա">
 <!ENTITY printCmd.label "Տպել…">
 <!ENTITY printCmd.accesskey "Տ">
-<!ENTITY printCmd.commandkey "p">
+
 
 <!ENTITY goOfflineCmd.label "Աշխատել անցանց ">
 <!ENTITY goOfflineCmd.accesskey "տ">
@@ -82,19 +82,18 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY personalbarCmd.accesskey "Է">
 <!ENTITY bookmarksToolbarItem.label "Էջանիշերի Վահանակի տարրերը">
 
-<!ENTITY toolbarContextMenu.reloadAllTabs.label "Կրկին բեռնել բոլոր ներդիրները">
-<!ENTITY toolbarContextMenu.reloadAllTabs.accesskey "բ">
-<!ENTITY toolbarContextMenu.bookmarkAllTabs.label "Էջանշել բոլոր ներդիրները...">
-<!ENTITY toolbarContextMenu.bookmarkAllTabs.accesskey "ն">
-<!ENTITY toolbarContextMenu.undoCloseTab.label "Հետարկել փակված էջը">
-<!ENTITY toolbarContextMenu.undoCloseTab.accesskey "Հ">
+
+
+
+
+
 
 <!ENTITY pageSourceCmd.label "Դիտել Էջի Կոդը">
 <!ENTITY pageSourceCmd.accesskey "ո">
-<!ENTITY pageSourceCmd.commandkey "u">
+
 <!ENTITY pageInfoCmd.label "Էջի Մասին Տվյալներ">
 <!ENTITY pageInfoCmd.accesskey "վ">
-<!ENTITY pageInfoCmd.commandkey "i">
+
 <!ENTITY mirrorTabCmd.label "Ներդիրի հայելապատճեն">
 <!ENTITY mirrorTabCmd.accesskey "Ն">
 <!-- LOCALIZATION NOTE (enterFullScreenCmd.label, exitFullScreenCmd.label):
@@ -105,7 +104,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY exitFullScreenCmd.accesskey "Լ">
 <!ENTITY fullScreenCmd.label "Բացել Լիաէկրան ">
 <!ENTITY fullScreenCmd.accesskey "Բ">
-<!ENTITY fullScreenCmd.macCommandKey "f">
+
 <!ENTITY showAllTabsCmd.label "Ցուցադրել բոլոր ներդիրները">
 <!ENTITY showAllTabsCmd.accesskey "բ">
 
@@ -140,14 +139,14 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksMenu.accesskey "Է">
 <!ENTITY bookmarkThisPageCmd.label "Էջանշել Այս Էջը">
 <!ENTITY editThisBookmarkCmd.label "Խմբագրել այս էջանիշը">
-<!ENTITY bookmarkThisPageCmd.commandkey "d">
-<!ENTITY markPageCmd.commandkey "l">
+
+
 <!-- LOCALIZATION NOTE (findShareServices.label):
   -  Use the unicode ellipsis char, \u2026,
   -  or use "..." if \u2026 doesn't suit traditions in your locale. -->
 <!ENTITY findShareServices.label "Գտնել այլ սարքեր...">
 <!ENTITY sharePageCmd.label "Տարածել էջը">
-<!ENTITY sharePageCmd.commandkey "S">
+
 <!ENTITY sharePageCmd.accesskey "լ">
 <!-- LOCALIZATION NOTE (shareLink.accesskey): must be different than the following share access keys -->
 <!ENTITY shareLink.label "Տարածել հղումը">
@@ -175,7 +174,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY reloadCmd.label              "Կրկին բեռնել">
 <!ENTITY reloadButton.tooltip         "Կրկին բեռնել տվյալ Էջը">
 <!ENTITY stopCmd.label                "Ընդհատել">
-<!ENTITY stopCmd.macCommandKey        ".">
+
 <!ENTITY stopButton.tooltip           "Ընդհատել Էջի բեռնավորումը">
 <!ENTITY goEndCap.tooltip             "Գնալ Հասցեի Տողում նշված հասցեով">
 <!ENTITY printButton.label            "Տպել">
@@ -190,21 +189,18 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY tabGroupsButton.label        "Էջանիշի խմբեր">
 
 <!ENTITY bookmarksButton.label          "Էջանիշեր">
-<!ENTITY bookmarksCmd.commandkey "b">
 
-<!ENTITY bookmarksMenuButton.label          "Էջանիշեր">
-<!ENTITY bookmarksMenuButton.unsorted.label "Չկարգավորված Էջանիշեր">
+
+
 <!ENTITY viewBookmarksSidebar2.label        "Դիտել էջանիշերի վահանակը">
 <!ENTITY viewBookmarksToolbar.label         "Դիտել էջանիշերի վահանակը">
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
   -  key should not contain the letters A-F, since these are reserved
   -  shortcut keys on Linux. -->
 
-<!ENTITY bookmarksGtkCmd.commandkey "o">
-<!ENTITY bookmarksWinCmd.commandkey "i">
 
 <!ENTITY historyButton.label            "Պատմություն">
-<!ENTITY historySidebarCmd.commandKey   "h">
+
 
 <!ENTITY toolsMenu.label              "Գործիքներ">
 <!ENTITY toolsMenu.accesskey          "Գ"> 
@@ -214,11 +210,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY downloads.label              "Բեռնումներ">
 <!ENTITY downloads.accesskey          "Բ">
-<!ENTITY downloads.commandkey         "j">
-<!ENTITY downloadsUnix.commandkey     "y">
+
+
 <!ENTITY addons.label                 "Հավելումներ">
 <!ENTITY addons.accesskey             "Հ">
-<!ENTITY addons.commandkey            "A">
+
 <!ENTITY webapps.label                "Հավելվածներ">
 <!ENTITY webapps.accesskey            "ե">
 
@@ -237,15 +233,15 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY remoteWebConsoleCmd.label    "Հեռադիր Վեբ Կառավարակետ">
 
 <!ENTITY browserConsoleCmd.label      "Դիտարկիչի Կառավարակետ">
-<!ENTITY browserConsoleCmd.commandkey "j">
+
 <!ENTITY browserConsoleCmd.accesskey  "Դ">
 
 <!ENTITY inspectContextMenu.label     "Զննել տարրը">
-<!ENTITY inspectContextMenu.accesskey "Զ">
+
 
 <!ENTITY responsiveDesignTool.label   "Պատասխանատու ձևավորման տեսքը">
 <!ENTITY responsiveDesignTool.accesskey "Պ">
-<!ENTITY responsiveDesignTool.commandkey "M">
+
 
 <!ENTITY eyedropper.label   "Գործիք">
 <!ENTITY eyedropper.accesskey "ո">
@@ -288,7 +284,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY devToolbar.keytext                "F2">
 <!ENTITY devToolboxMenuItem.label          "Ցուցադրել/Թաքցնել գործիքները">
 <!ENTITY devToolboxMenuItem.accesskey      "Ց">
-<!ENTITY devToolboxMenuItem.keytext        "I">
+
 
 <!ENTITY devToolbarToolsButton.tooltip     "Ցուցադրել/Թաքցնել ծրագրավորողի գործիքները">
 <!ENTITY devToolbarOtherToolsButton.label  "Լր. գործիքներ">
@@ -299,7 +295,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fileMenu.label         "Ֆայլ"> 
 <!ENTITY fileMenu.accesskey       "Ֆ">
 <!ENTITY newNavigatorCmd.label        "Նոր Պատուհան">
-<!ENTITY newNavigatorCmd.key        "N">
+
 <!ENTITY newNavigatorCmd.accesskey      "Ն">
 <!ENTITY newPrivateWindow.label     "Սկսել Գաղտնի դիտարկում">
 <!ENTITY newPrivateWindow.accesskey "Գ">
@@ -307,25 +303,25 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY editMenu.label         "Խմբագրել"> 
 <!ENTITY editMenu.accesskey       "Խ"> 
 <!ENTITY undoCmd.label            "Հետարկել ">  
-<!ENTITY undoCmd.key            "Z">  
+
 <!ENTITY undoCmd.accesskey          "Հ"> 
 <!ENTITY redoCmd.label            "Կրկնել">  
-<!ENTITY redoCmd.key            "Y">  
+
 <!ENTITY redoCmd.accesskey          "Կ"> 
 <!ENTITY cutCmd.label           "Կտրել">  
-<!ENTITY cutCmd.key             "X">  
+
 <!ENTITY cutCmd.accesskey         "ր"> 
 <!ENTITY copyCmd.label            "Պատճենել">  
-<!ENTITY copyCmd.key            "C">  
+
 <!ENTITY copyCmd.accesskey          "Պ"> 
 <!ENTITY pasteCmd.label           "Տեղադրել">  
-<!ENTITY pasteCmd.key           "V">  
+
 <!ENTITY pasteCmd.accesskey         "Տ"> 
 <!ENTITY deleteCmd.label          "Ջնջել">  
-<!ENTITY deleteCmd.key            "D">  
+
 <!ENTITY deleteCmd.accesskey        "Ջ"> 
 <!ENTITY selectAllCmd.label         "Նշել բոլորը">  
-<!ENTITY selectAllCmd.key         "A">  
+
 <!ENTITY selectAllCmd.accesskey       "բ"> 
 <!ENTITY preferencesCmd2.label       "Կարգավորումներ">
 <!ENTITY preferencesCmd2.accesskey     "Կ">
@@ -334,7 +330,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY clearRecentHistory.label               "Մաքրել Վերջին Պատմությունը...">
 
-<!ENTITY privateBrowsingCmd.commandkey          "P">
 
 <!ENTITY viewMenu.label         "Տեսքը"> 
 <!ENTITY viewMenu.accesskey       "Տ"> 
@@ -355,16 +350,16 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY historyRestoreLastSession.label "Վերականգնել նախորդ աշխատաշրջանը">
 
 <!ENTITY showAllHistoryCmd2.label "Ցուցադրել ամբողջ պատմությունը">
-<!ENTITY showAllHistoryCmd.commandkey "H">
+
 
 <!ENTITY appMenuCustomize.label "Կազմաձևել">
 <!ENTITY appMenuCustomize.tooltip "Կարգավորել Ցանկը և Գործիքավահանակները">
 <!ENTITY appMenuCustomizeExit.label "Փակել կարգավորումը">
 <!ENTITY appMenuCustomizeExit.tooltip "Ավարտել կարգավորումը">
-<!ENTITY appMenuHistory.label "Պատմություն">
-<!ENTITY appMenuHistory.showAll.label "Ցուցադրել ամբողջ պատմությունը">
-<!ENTITY appMenuHistory.clearRecent.label "Մաքրել Վերջին Պատմությունը...">
-<!ENTITY appMenuHistory.restoreSession.label "Վերականգնել նախորդ աշխատաշրջանը">
+
+
+
+
 <!ENTITY appMenuHistory.viewSidebar.label "Պատմության կողային վահանակը">
 <!ENTITY appMenuHelp.tooltip "Բացել օգնության ցանկը">
 
@@ -388,9 +383,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY customizeMenu.addMoreItems.label "Ավելացնել այլ տարրեր...">
 <!ENTITY customizeMenu.addMoreItems.accesskey "Ա">
 
-<!ENTITY openCmd.commandkey           "l">
 <!ENTITY urlbar.placeholder2          "Փնտրեք կամ գրեք հասցեն">
-<!ENTITY urlbar.accesskey             "d">
+
 <!ENTITY urlbar.switchToTab.label     "Անցնել ներդիրի՝">
 <!-- 
   Comment duplicated from browser-sets.inc:
@@ -413,9 +407,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
  -->
 
-<!ENTITY searchFocus.commandkey       "k">
-<!ENTITY searchFocus.commandkey2      "e">
-<!ENTITY searchFocusUnix.commandkey   "j">
+
 <!-- LOCALIZATION NOTE (searchFor.label, searchWith.label):
      These two strings are used to build the header above the list of one-click
      search providers:  "Search for <used typed keywords> with:" -->
@@ -429,7 +421,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY searchWithHeader.label       "Փնտրել՝">
 <!ENTITY changeSearchSettings.button  "Փոխել որոնման կարգավորումները">
 
-<!ENTITY tabView.commandkey           "e">
 
 <!ENTITY openLinkCmdInTab.label       "Հղումը Բացել Նոր Ներդիրում">
 <!ENTITY openLinkCmdInTab.accesskey   "Բ">
@@ -445,14 +436,13 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openFrameCmd.accesskey       "Շ">
 <!ENTITY showOnlyThisFrameCmd.label     "Ցուցադրել միայն այս շրջանակը">
 <!ENTITY showOnlyThisFrameCmd.accesskey "Ց">
-<!ENTITY reloadCmd.commandkey         "r">
+
 <!ENTITY reloadFrameCmd.label         "Կրկին բեռնել շրջանակը">
 <!ENTITY reloadFrameCmd.accesskey     "Կ">
 <!ENTITY viewPartialSourceForSelectionCmd.label "Դիտել Նշված Մասի Կոդը">
 <!ENTITY viewPartialSourceForMathMLCmd.label    "Դիտել MathML Կոդը">
 <!-- LOCALIZATION NOTE (viewPartialSourceCmd.accesskey): This accesskey is used for both 
          viewPartialSourceForSelectionCmd.label and viewPartialSourceForMathMLCmd.label -->
-<!ENTITY viewPartialSourceCmd.accesskey "ի">
 <!ENTITY viewPageSourceCmd.label      "Դիտել Էջի Կոդը">
 <!ENTITY viewPageSourceCmd.accesskey  "Դ">
 <!ENTITY viewFrameSourceCmd.label     "Դիտել շրջանակը">
@@ -475,7 +465,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewBGImageCmd.accesskey     "յ">
 <!ENTITY setDesktopBackgroundCmd.label      "Տեղադրել Աշխատասեղանին…">
 <!ENTITY setDesktopBackgroundCmd.accesskey  "Տ">
-<!ENTITY bookmarkPageCmd2.label       "Էջանշել Այս Էջը">
+
 <!ENTITY bookmarkThisLinkCmd.label      "էջանշել Այս Հղումը">
 <!ENTITY bookmarkThisLinkCmd.accesskey  "Հ">
 <!ENTITY bookmarkThisFrameCmd.label      "Էջանշել Այս շրջանակը">
@@ -485,8 +475,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY savePageCmd.label            "Պահպանել Էջը Որպես…">
 <!ENTITY savePageCmd.accesskey        "Ո">
 <!-- alternate for content area context menu -->
-<!ENTITY savePageCmd.accesskey2       "պ">
-<!ENTITY savePageCmd.commandkey       "s">
+
 <!ENTITY saveFrameCmd.label           "Պահել շրջանակը որպես…">
 <!ENTITY saveFrameCmd.accesskey       "Պ">
 <!ENTITY printFrameCmd.label          "Տպել շրջանակը…">
@@ -561,8 +550,8 @@ items are mutually exclusive. -->
 <!ENTITY mediaShowControls.accesskey "Ց">
 <!ENTITY mediaHideControls.label     "Թաքցնել ղեկավարիչները">
 <!ENTITY mediaHideControls.accesskey "Թ">
-<!ENTITY videoFullScreen.label       "Լիաէկրան ռեժիմ">
-<!ENTITY videoFullScreen.accesskey   "Լ">
+
+
 <!ENTITY videoSaveImage.label        "Պահպանել մանրապատկերը որպես...">
 <!ENTITY videoSaveImage.accesskey    "Պ">
 <!-- LOCALIZATION NOTE: The access keys for "Show Statistics" and
@@ -581,20 +570,19 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY fullZoomEnlargeCmd.label       "Խոշորացնել">
 <!ENTITY fullZoomEnlargeCmd.accesskey   "ր">
-<!ENTITY fullZoomEnlargeCmd.commandkey  "+">
+
 <!-- + is above this key on many keyboards -->
-<!ENTITY fullZoomEnlargeCmd.commandkey2 "="> 
 <!ENTITY fullZoomEnlargeCmd.commandkey3 "">
 
 <!ENTITY fullZoomReduceCmd.label        "Փոքրացնել">
 <!ENTITY fullZoomReduceCmd.accesskey    "ա">
-<!ENTITY fullZoomReduceCmd.commandkey   "-">
+
 <!ENTITY fullZoomReduceCmd.commandkey2  "">
 
 <!ENTITY fullZoomResetCmd.label         "Վերակայել">
 <!ENTITY fullZoomResetCmd.accesskey     "Վ">
-<!ENTITY fullZoomResetCmd.commandkey    "0">
-<!ENTITY fullZoomResetCmd.commandkey2   "0">
+
+<!ENTITY fullZoomResetCmd.commandkey2   "">
 
 <!ENTITY fullZoomToggleCmd.label        "Խոշորացնել Միայն Տեքստը">
 <!ENTITY fullZoomToggleCmd.accesskey    "Մ">
@@ -606,16 +594,15 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY quitApplicationCmdWin.label       "Փակել"> 
 <!ENTITY quitApplicationCmdWin.accesskey   "ա">
 <!ENTITY quitApplicationCmdWin.tooltip     "Փակել &brandShortName;-ը">
-<!ENTITY goBackCmd.commandKey "[">
-<!ENTITY goForwardCmd.commandKey "]">
+
+
 <!ENTITY quitApplicationCmd.label       "Փակել"> 
 <!ENTITY quitApplicationCmd.accesskey   "Փ">
 <!ENTITY quitApplicationCmdMac.label    "Փակել &brandShortName;-ը">
 <!-- LOCALIZATION NOTE(quitApplicationCmdUnix.key): This keyboard shortcut is used by both Linux and OSX builds. -->
-<!ENTITY quitApplicationCmdUnix.key     "Q">
 
 <!ENTITY closeCmd.label                 "Փակել">  
-<!ENTITY closeCmd.key                   "W">  
+
 <!ENTITY closeCmd.accesskey             "Փ">
 
 <!ENTITY pageStyleMenu.label "Էջի Ոճը">
@@ -627,36 +614,35 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY pageReportIcon.tooltip            "Փոխել այս էջի համար Pop-up արգելակման դրույթները">
 
-<!ENTITY allowPopups.accesskey "p">
 <!-- On Windows we use the term "Options" to describe settings, but
      on Linux and Mac OS X we use "Preferences" - carry that distinction
      over into this string, which is used in the "popup blocked" info bar . -->
 <!ENTITY editPopupSettingsUnix.label "Խմբագրել Pop-up-ի արգելման կարգավորումները…">
 <!ENTITY editPopupSettings.label "Խմբագրել Pop-up-ի արգելման ընտրանքները…">
 <!ENTITY editPopupSettings.accesskey "Խ">
-<!ENTITY dontShowMessage.accesskey "D">
+
 
 <!ENTITY bidiSwitchPageDirectionItem.label        "Փոխել Էջի Ուղղությունը">
 <!ENTITY bidiSwitchPageDirectionItem.accesskey    "Ո">
 <!ENTITY bidiSwitchTextDirectionItem.label        "Փոխել Տեքստի Ուղղությունը">
 <!ENTITY bidiSwitchTextDirectionItem.accesskey    "ո">
-<!ENTITY bidiSwitchTextDirectionItem.commandkey   "X">
+
 
 <!ENTITY findOnCmd.label     "Փնտրել էջում…">
 <!ENTITY findOnCmd.accesskey "Փ">
-<!ENTITY findOnCmd.commandkey "f">
+
 <!ENTITY findAgainCmd.label  "Կրկին Փնտրել">
 <!ENTITY findAgainCmd.accesskey "Փ">
-<!ENTITY findAgainCmd.commandkey "g">
+
 <!ENTITY findAgainCmd.commandkey2 "VK_F3">
-<!ENTITY findSelectionCmd.commandkey "e">
+
 
 <!ENTITY spellAddDictionaries.label "Ավելացնել Բառարաններ...">
 <!ENTITY spellAddDictionaries.accesskey "Ա">
 
 <!ENTITY editBookmark.done.label                     "Պատրաստ է">
 <!ENTITY editBookmark.cancel.label                   "Չեղարկել">
-<!ENTITY editBookmark.removeBookmark.accessKey       "R">
+
 
 <!ENTITY identity.unverifiedsite2 "Այս վեբ կայքը չի տրամադրում իր նույնացման տեղեկատվությունը:">
 <!ENTITY identity.connectedTo "Դուք կապնվել էք">
@@ -692,12 +678,12 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY syncBrand.shortName.label    "Սինք">
 
 <!ENTITY syncSetup.label              "Տեղադրել &syncBrand.shortName.label;…">
-<!ENTITY syncSetup.accesskey          "s">
+
 <!ENTITY syncSyncNowItem.label        "Սինք">
 <!ENTITY syncSyncNowItem.accesskey    "Ս">
 <!ENTITY syncReAuthItem.label         "Վերակապակցվել &syncBrand.shortName.label;ին">
 <!ENTITY syncReAuthItem.accesskey     "Վ">
-<!ENTITY syncToolbarButton.label      "Սինք">
+
 
 <!ENTITY socialToolbar.title        "Սոցիալական Գործիքաշերտի կոճակը">
 
@@ -736,12 +722,11 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY customizeMode.lwthemes.myThemes "Իմ ձևավորումները">
 <!ENTITY customizeMode.lwthemes.recommended "Խորհուրդ է տրվում՝">
 <!ENTITY customizeMode.lwthemes.menuManage "Կառավարել">
-<!ENTITY customizeMode.lwthemes.menuManage.accessKey "M">
+
 <!ENTITY customizeMode.lwthemes.menuGetMore "Նոր ձևավորումներ">
-<!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "G">
+
 <!ENTITY customizeMode.deveditionTheme.label2 "Օգտ. Ծրագրավորողի ձևավորումը">
 
-<!ENTITY social.chatBar.commandkey "c">
 <!ENTITY social.chatBar.label "Անցնել զրույցներին">
 <!ENTITY social.chatBar.accesskey "ց">
 
@@ -771,12 +756,12 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY trackingContentBlocked.message "Հետևում">
 <!ENTITY trackingContentBlocked.moreinfo "Էջի հատվածները, որոնք հետևում են ձեր առցանց ակտիվությանը, արգելափակված են:">
-<!ENTITY trackingContentBlocked.learnMore "Ավելին">
-<!ENTITY trackingContentBlocked.options "Կարգավորումներ">
+
+
 <!ENTITY trackingContentBlocked.unblock2.label "Անջատել պաշտպանությունը այս կայքի համար">
 <!ENTITY trackingContentBlocked.unblock2.accesskey "Ա">
-<!ENTITY trackingContentBlocked.block.label "Միացնել պաշտպանությունը">
-<!ENTITY trackingContentBlocked.block.accesskey "Մ">
+
+
 <!ENTITY trackingContentBlocked.disabled.message "Հետևելու պաշտպանությունը անջատած է:">
 
 <!ENTITY pointerLock.notification.message "Սեղմեք ESC՝ կրկին ցուցադրելու համար:">
@@ -801,7 +786,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY tabCrashed.checkSendReport "&vendorShortName;-ին հաղորդեք այս վթարի մասին, որ մենք կարողանաք ուղղել այն:">
 <!ENTITY tabCrashed.tryAgain "Կրկին փորձել">
 
-<!ENTITY uiTour.infoPanel.close "Փակել">
 
 <!ENTITY appMenuSidebars.label         "Կողային վահանակներ">
 

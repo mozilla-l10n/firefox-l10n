@@ -16,7 +16,7 @@
 <!ENTITY search_plus_content_description "Ավելացնել որոնման վահանակին">
 
 <!ENTITY search_pref_title "Կարգավորումներ">
-<!ENTITY search_pref_button_content_description "Կարգավորումներ">
+
 
 <!ENTITY pref_clearHistory_confirmation "Պատմությունը մաքրվել է">
 <!ENTITY pref_clearHistory_dialogMessage "Մաքրե՞լ որոնման ամբողջ պատմությունը:">

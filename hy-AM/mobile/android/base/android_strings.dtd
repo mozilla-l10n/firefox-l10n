@@ -129,7 +129,7 @@
 <!ENTITY pref_category_add_search_providers "Ավելացնել որոնիչներ">
 <!ENTITY pref_category_search_restore_defaults "Վերականգնել Որոնիչները">
 <!ENTITY pref_search_restore_defaults "Վերականգնել լռելյայնը">
-<!ENTITY pref_search_restore_defaults_summary "Վերականգնել լռելյայնը ">
+<!ENTITY pref_search_restore_defaults_summary "Վերականգնել լռելյայնը">
 <!-- Localization note (pref_search_hint) : "TIP" as in "hint", "clue" etc. Displayed as an
      advisory message on the customise search providers settings page explaining how to add new
      search providers.
@@ -168,7 +168,7 @@
 <!ENTITY pref_header_devtools "Ծրագրավորողի գործիքներ">
 
 <!ENTITY pref_cookies_menu "Cookie-ներ">
-<!ENTITY pref_cookies_accept_all "Միացնել">
+<!ENTITY pref_cookies_accept_all "Միացրած">
 <!ENTITY pref_cookies_not_accept_foreign "Միացնել՝ բացառելով կողմնակի կայքերը">
 <!ENTITY pref_cookies_disabled "Անջատել">
 
@@ -186,7 +186,7 @@
 <!ENTITY pref_clear_on_exit_summary2 "&brandShortName;-ը ինքնավար կմաքրի բոլոր տվյալները, երբ հիմնական ցանկից ընտրեք   \u0022Փակել\u0022">
 <!ENTITY pref_clear_on_exit_dialog_title "Նշեք, թե որ տվյալներն են մաքրվելու">
 <!ENTITY pref_plugins "Բաղադիրներ">
-<!ENTITY pref_plugins_enabled "Միացնել">
+<!ENTITY pref_plugins_enabled "Միացրած">
 <!ENTITY pref_plugins_tap_to_play "Ակտիվացնել սեղմելիս">
 <!ENTITY pref_plugins_disabled "Անջատել">
 <!ENTITY pref_text_size "Տեքստի չափը">
@@ -323,7 +323,7 @@ size. -->
 
 <!ENTITY contextmenu_open_new_tab "Բացել նոր ներդիրում">
 <!ENTITY contextmenu_open_private_tab "Բացել Գաղտնի դիտարկմամբ">
-<!ENTITY contextmenu_remove "Հեռացնել">
+<!ENTITY contextmenu_remove "Ջնջել">
 <!ENTITY contextmenu_add_to_launcher "Պատկերակը հեռախոսի էկրանին">
 <!ENTITY contextmenu_share "Տարածել">
 <!ENTITY contextmenu_pasteandgo "Տեղադրել և Առաջ">
@@ -550,7 +550,7 @@ Android-ից">
      designated space. Use the unicode ellipsis char, \u2026, or use "..." if \u2026 doesn't suit
      traditions in your locale. -->
 
-<!ENTITY ellipsis "...">
+<!ENTITY ellipsis "…">
 
 <!ENTITY colon ":">
 <!-- These are only used for accessibility for the done and overflow-menu buttons in the actionbar.
