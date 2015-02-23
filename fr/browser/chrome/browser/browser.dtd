@@ -835,8 +835,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY processHang.terminateProcess.label       "Tuer le processus web">
 <!ENTITY processHang.terminateProcess.accessKey   "T">
 
-<!ENTITY readingList.label                        "Liste de lecture">
-<!ENTITY readingList.sidebar.commandKey           "L">
 <!ENTITY emeLearnMoreContextMenu.label            "En savoir plus sur les DRM…">
 <!ENTITY emeLearnMoreContextMenu.accesskey        "D">
 
@@ -844,3 +842,17 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY emeNotificationsNotNow.accesskey         "P">
 <!ENTITY emeNotificationsDontAskAgain.label       "Ne plus demander à l'avenir">
 <!ENTITY emeNotificationsDontAskAgain.accesskey   "N">
+
+<!ENTITY readingList.label                        "Liste de lecture">
+<!ENTITY readingList.sidebar.commandKey           "L">
+<!-- Pre-landed string for bug 1124400 -->
+<!ENTITY readingList.showSidebar.label            "Afficher le panneau de la liste de lecture">
+<!-- Pre-landed string for bug 1124153 -->
+<!ENTITY readingList.sidebar.showMore.label       "Afficher davantage d'articles…">
+<!-- Pre-landed string for bug 1133662 -->
+<!ENTITY readingList.sidebar.emptyText            "Ajoutez des articles à votre liste de lecture pour les consulter ultérieurement et pouvoir les retrouver facilement lorsque vous en avez besoin.">
+<!-- Pre-landed string for bug 1123525 -->
+<!ENTITY readingList.sidebar.delete.tooltip       "Retirer cette page de votre liste de lecture">
+<!-- Pre-landed strings for bug 1123519 -->
+<!ENTITY readingList.sidebar.add.label            "Ajouter à la liste de lecture">
+<!ENTITY readingList.sidebar.add.tooltip          "Ajouter cette page à votre liste de lecture">
