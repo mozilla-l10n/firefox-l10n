@@ -10,8 +10,8 @@
 <!ENTITY radioRememberPrevState.accesskey "R">
 <!ENTITY radioAskState.label "Preguntarme el estado de conexión">
 <!ENTITY radioAskState.accesskey "d">
-<!ENTITY radioAlwaysOnline.label "Con conexión">
-<!ENTITY radioAlwaysOnline.accesskey "I">
+<!ENTITY radioAlwaysOnlineState.label "Con conexión">
+<!ENTITY radioAlwaysOnlineState.accesskey "x">
 <!ENTITY radioAlwaysOffline.label "Sin conexión">
 <!ENTITY radioAlwaysOffline.accesskey "o">
 <!ENTITY textGoingOnline "¿Enviar mensajes pendientes al pasar a modo con conexión?">

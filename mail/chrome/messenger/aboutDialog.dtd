@@ -5,20 +5,30 @@
 <!ENTITY update.updateButton.accesskey "R">
 <!ENTITY update.applyButtonBillboard.label "Aplicar actualización…">
 <!ENTITY update.applyButtonBillboard.accesskey "A">
+<!ENTITY warningDesc.version "&brandShortName; es experimental y puede ser inestable.">
+<!ENTITY warningDesc.telemetryDesc "Envía información automáticamente sobre el rendimiento, hardware, uso y personalizaciones a &vendorShortName; para ayudar a mejorar &brandShortName;.">
+<!ENTITY community.exp.start "">
+<!ENTITY community.exp.mozillaLink "&vendorShortName;">
+<!ENTITY community.exp.middle " es una ">
+<!ENTITY community.exp.creditsLink "comunidad global">
+<!ENTITY community.exp.end " trabajando juntos para mantener la web abierta, pública y accesible a todos.">
 <!ENTITY community.start2 "&brandShortName; está diseñado por ">
 <!ENTITY community.mozillaLink "&vendorShortName;">
 <!ENTITY community.middle2 ", una ">
 <!ENTITY community.creditsLink "comunidad global">
-<!ENTITY community.end2 " que trabaja unida para hacer Internet mejor. Creemos que Internet debería ser abierta, pública y accesible a todo el mundo sin restricción alguna.">
-<!ENTITY contribute.start "¿Suena interesante? ">
-<!ENTITY contribute.getInvolvedLink "¡Involúcrese!">
-<!ENTITY contribute.end "">
+<!ENTITY community.end3 " trabajando juntos para mantener la web abierta, pública y accesible a todos.">
+<!ENTITY helpus.start "¿Quiere ayudar? ">
+<!ENTITY helpus.donateLink "Haga una donación">
+<!ENTITY helpus.middle " o ">
+<!ENTITY helpus.getInvolvedLink "¡involúcrese!">
+<!ENTITY helpus.end "">
 <!ENTITY bottomLinks.license "Información de licencia">
 <!ENTITY bottomLinks.rights "Derechos del usuario final">
 <!ENTITY bottomLinks.privacy "Política de privacidad">
 <!ENTITY update.checkingForUpdates "Buscando actualizaciones…">
 <!ENTITY update.noUpdatesFound "&brandShortName; está actualizado">
 <!ENTITY update.adminDisabled "Actualizaciones desactivada por el administrador de su sistema">
+<!ENTITY update.otherInstanceHandlingUpdates "&brandShortName; está siendo actualizado por otra instancia">
 <!ENTITY update.failed.start "Actualización fallida. ">
 <!ENTITY update.failed.linkText "Descargar la última versión">
 <!ENTITY update.failed.end "">

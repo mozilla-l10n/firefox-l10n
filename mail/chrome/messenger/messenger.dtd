@@ -133,6 +133,8 @@
 <!ENTITY messagePaneVertical.accesskey "v">
 <!ENTITY showFolderPaneCmd.label "Panel de carpetas">
 <!ENTITY showFolderPaneCmd.accesskey "c">
+<!ENTITY showFolderPaneColsCmd.label "Columnas del panel de carpetas">
+<!ENTITY showFolderPaneColsCmd.accesskey "C">
 <!ENTITY showMessageCmd.label "Mensaje">
 <!ENTITY showMessageCmd.accesskey "e">
 <!ENTITY folderView.label "Carpetas">
@@ -546,7 +548,9 @@
 <!ENTITY addNewTag.accesskey "N">
 <!ENTITY manageTags.label "Administrar etiquetas…">
 <!ENTITY manageTags.accesskey "M">
-<!ENTITY folderColumn.label "Nombre">
+<!ENTITY folderNameColumn.label "Nombre">
+<!ENTITY folderUnreadColumn.label "No leídos">
+<!ENTITY folderTotalColumn.label "Total">
 <!ENTITY folderSizeColumn.label "Tamaño">
 <!ENTITY folderContextGetMessages.label "Recibir mensajes">
 <!ENTITY folderContextGetMessages.accesskey "R">
