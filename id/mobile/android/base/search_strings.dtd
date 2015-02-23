@@ -16,7 +16,7 @@
 <!ENTITY search_plus_content_description "Tambah ke bilah pencarian">
 
 <!ENTITY search_pref_title "Setelan">
-
+<!ENTITY search_pref_button_content_description "Setelan">
 
 <!ENTITY pref_clearHistory_confirmation "Riwayat dibersihkan">
 <!ENTITY pref_clearHistory_dialogMessage "Hapus semua riwayat pencarian dari perangkat ini?">
