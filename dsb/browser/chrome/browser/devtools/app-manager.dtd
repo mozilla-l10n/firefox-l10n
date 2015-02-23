@@ -36,9 +36,9 @@
 <!ENTITY device.permissionsHelpLink "https://developer.mozilla.org/docs/Web/Apps/App_permissions">
 <!ENTITY device.browserTabs "Rejtarki wobglědowaka">
 <!ENTITY device.browserTabsTooltip "Lisćinu rejtarkow we wobglědowaku zwězanego rěda pokazaś">
-<!ENTITY device.debugBrowserTab "Pytanje za zmólkami">
+
 <!ENTITY device.debugBrowserTabTooltip "Wuwijarske rědy zwězane z toś tym rejtarkom wobglědowaka na rěźe wócyniś">
-<!ENTITY device.help "Pomoc">
+
 
 <!ENTITY connection.connectTooltip "Z rědom zwězaś">
 <!ENTITY connection.disconnect "Zwisk źěliś">
@@ -66,19 +66,19 @@
 <!ENTITY connection.startRegisteredSimulator "Start:">
 
 <!ENTITY projects.localApps "Lokalne nałoženja">
-<!ENTITY projects.addApp "Pśidaś">
+
 <!ENTITY projects.addPackaged "Spakowane nałoženje pśidaś">
 <!ENTITY projects.addPackagedTooltip "Nowy spakowane nałoženje (zapis) z wašogo licadła pśidaś">
 <!ENTITY projects.addHosted "Nałoženje z interneta pśidaś">
 <!ENTITY projects.addHostedTooltip "Nowe nałoženje z interneta (wótkaz k dataji manifest.webapp) z websedła pśidaś">
-<!ENTITY projects.title "Lokalne nałoženja">
+
 <!ENTITY projects.appDetails "Drobnosći nałoženja">
 <!ENTITY projects.removeAppFromList "Toś to nałoženje z lisćiny nałoženjow, z kótarejuž źěłaśo, wótpóraś. Pśez to wóno njewótpórajo se z rěda abo simulatora.">
 <!ENTITY projects.updateApp "Aktualizěrowaś">
 <!ENTITY projects.updateAppTooltip "Pśeglědowańske testy wuwjasć a nałoženje na zwězanem rěźe aktualizěrowaś">
-<!ENTITY projects.debugApp "Pytanje za zmólkami">
+
 <!ENTITY projects.debugAppTooltip "Wuwijarske rědy wócyniś, kótarež su z toś tym nałoženim zwězane">
-<!ENTITY projects.saveManifest "Składowaś">
+
 <!ENTITY projects.saveManifestTooltip "Wopśimjeśe manifestowego editora dołojce składowaś">
 <!ENTITY projects.hostedManifestPlaceHolder2 "http://example.com/app/manifest.webapp">
 <!ENTITY projects.noProjects "Žedne projekty. Pśidajśo dołojce nowe spakowane nałoženje (ako lokalny zarědnik) abo nałoženje w interneśe (wótkaz k manifestowej dataji).">
@@ -92,7 +92,6 @@
 <!ENTITY projects.hosted "Pógóspodowany">
 <!ENTITY projects.packaged "Zezipowany">
 
-<!ENTITY help.title "Zastojnik nałoženjow">
 <!ENTITY help.close "Zacyniś">
 <!ENTITY help.intro "Toś ten rěd buźo wam pomagaś, webnałoženja na kompatibelnych rědach tworiś a instalěrowaś (t.gr. Firefox OS). Rejtark <strong>Nałoženja</strong> buźo was za waliděrowański a instalěrowański proces wašogo nałoženja pódpěraś. Rejtark <strong>Rěd</strong> dajo wam informacije wó zwězanem rěźe. Wužyjśo dolnu symbolowu rědku, aby wy z rědom zwězał abo simulator startował.">
 <!ENTITY help.usefullLinks "Wužytne wótkaze:">

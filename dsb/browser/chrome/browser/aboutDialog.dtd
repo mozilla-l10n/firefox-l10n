@@ -11,7 +11,7 @@
 <!ENTITY update.checkForUpdatesButton.label       "Aktualizacije pytaś">
 <!ENTITY update.checkForUpdatesButton.accesskey   "A">
 <!ENTITY update.updateButton.label2                "&brandShortName; za aktualizěrowanje znowego startowaś">
-<!ENTITY update.updateButton.accesskey            "k">
+
 <!ENTITY update.applyButtonBillboard.label        "Aktualizaciju nałožyś…">
 <!ENTITY update.applyButtonBillboard.accesskey    "n">
 <!-- LOCALIZATION NOTE (warningDesc.version): This is a warning about the experimental nature of Nightly and Aurora builds. It is only shown in those versions. -->
@@ -32,11 +32,9 @@
 
 <!ENTITY community.start2           "&brandShortName; jo se wuwił wót ">
 <!-- LOCALIZATION NOTE (community.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
-<!ENTITY community.mozillaLink      "&vendorShortName;">
 <!ENTITY community.middle2          ", ">
 <!-- LOCALIZATION NOTE (community.creditsLink): This is a link title that links to about:credits. -->
-<!ENTITY community.creditsLink      "globalne zgromaźeństwo,">
-<!ENTITY community.end3             " kótarež zgromadnje źěła, aby web wótwórjony, zjawny a za wšykne pśistupny wobchował.">
+
 
 <!ENTITY helpus.start               "Cośo pomagaś?">
 <!-- LOCALIZATION NOTE (helpus.donateLink): This is a link title that links to https://sendto.mozilla.org/page/contribute/Give-Now?source=mozillaorg_default_footer&ref=firefox_about&utm_campaign=firefox_about&utm_source=firefox&utm_medium=referral&utm_content=20140929_FireFoxAbout. -->

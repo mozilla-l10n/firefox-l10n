@@ -100,7 +100,7 @@
      used in the share overlay menu to select an action. It is the verb
      "to bookmark", not the noun "a bookmark". -->
 
-<!ENTITY overlay_share_bookmark_btn_label "Cytańske znamje pśidaś">
+<!ENTITY overlay_share_bookmark_btn_label "Cytańske znamje">
 <!ENTITY overlay_share_reading_list_btn_label "Cytańskej lisćinje pśidaś">
 <!ENTITY overlay_share_bookmark_btn_label_already "Južo ako cytańske znamje skłaźony">
 <!ENTITY overlay_share_reading_list_btn_label_already "Južo w cytańskej lisćinje">
@@ -205,7 +205,7 @@
 same character/combination is used to increase the preview font size. It should be a concise
 representation of the language it is used in that will help show the text in the preview will change
 size. -->
-<!ENTITY pref_font_size_adjust_char "N">
+<!ENTITY pref_font_size_adjust_char "A">
 <!-- Localization note (pref_font_size_preview_text): This paragraph is used as an example to
     demonstrate the font size setting.  It is meant to be whimsical and fun. -->
 
@@ -309,7 +309,7 @@ size. -->
 <!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
 
-<!ENTITY find_text "Na boku namakaś">
+<!ENTITY find_text "Na boku pytaś">
 <!ENTITY find_prev "Pjerwjejšny">
 <!ENTITY find_next "Pśiducy">
 <!ENTITY find_close "Zacyniś">
@@ -319,7 +319,7 @@ size. -->
 <!ENTITY media_sending_to "Rědoju pósłaś">
 <!ENTITY media_play "Wótgraś">
 <!ENTITY media_pause "Pawza">
-<!ENTITY media_stop "Zastajiś">
+<!ENTITY media_stop "Stop">
 
 <!ENTITY contextmenu_open_new_tab "W nowem rejtarku wócyniś">
 <!ENTITY contextmenu_open_private_tab "W nowem priwatnem rejtarku wócyniś">

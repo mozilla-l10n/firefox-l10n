@@ -56,21 +56,21 @@ can reach it easily. -->
 
 <!ENTITY tabCmd.label "Nowy rejtark">
 <!ENTITY tabCmd.accesskey "r">
-<!ENTITY tabCmd.commandkey "t">
+
 <!-- LOCALIZATION NOTE (openLocationCmd.label): "Open Location" is only
 displayed on OS X, and only on windows that aren't main browser windows, or
 when there are no windows but Firefox is still running. -->
 <!ENTITY openLocationCmd.label "Adresu wócyniś…">
 <!ENTITY openFileCmd.label "Dataju wócyniś…">
 <!ENTITY openFileCmd.accesskey "D">
-<!ENTITY openFileCmd.commandkey "o">
+
 <!ENTITY printSetupCmd.label "Bok zarědowaś…">
 <!ENTITY printSetupCmd.accesskey "B">
 <!ENTITY printPreviewCmd.label "Śišćarski pśeglěd">
 <!ENTITY printPreviewCmd.accesskey "l">
 <!ENTITY printCmd.label "Śišćaś…">
 <!ENTITY printCmd.accesskey "i">
-<!ENTITY printCmd.commandkey "p">
+
 
 <!ENTITY goOfflineCmd.label "Offline źełaś">
 <!ENTITY goOfflineCmd.accesskey "O">
@@ -82,19 +82,18 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY personalbarCmd.accesskey "c">
 <!ENTITY bookmarksToolbarItem.label "Zapiski rědki cytańskich znamjenjow">
 
-<!ENTITY toolbarContextMenu.reloadAllTabs.label "Wšykne rejtarki znowego zacytaś">
-<!ENTITY toolbarContextMenu.reloadAllTabs.accesskey "w">
-<!ENTITY toolbarContextMenu.bookmarkAllTabs.label "Wšykne rejtarki ako cytańske znamjenja składowaś…">
-<!ENTITY toolbarContextMenu.bookmarkAllTabs.accesskey "r">
-<!ENTITY toolbarContextMenu.undoCloseTab.label "Zacynjenje rejtarka anulěrowaś">
-<!ENTITY toolbarContextMenu.undoCloseTab.accesskey "c">
+
+
+
+
+
 
 <!ENTITY pageSourceCmd.label "Žrědłowy tekst boka">
 <!ENTITY pageSourceCmd.accesskey "t">
-<!ENTITY pageSourceCmd.commandkey "u">
+
 <!ENTITY pageInfoCmd.label "Info wó boku">
 <!ENTITY pageInfoCmd.accesskey "I">
-<!ENTITY pageInfoCmd.commandkey "i">
+
 <!ENTITY mirrorTabCmd.label "Glědałkowy rejtark">
 <!ENTITY mirrorTabCmd.accesskey "G">
 <!-- LOCALIZATION NOTE (enterFullScreenCmd.label, exitFullScreenCmd.label):
@@ -105,7 +104,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY exitFullScreenCmd.accesskey "P">
 <!ENTITY fullScreenCmd.label "Połna wobrazowka">
 <!ENTITY fullScreenCmd.accesskey "P">
-<!ENTITY fullScreenCmd.macCommandKey "f">
+
 <!ENTITY showAllTabsCmd.label "Wšykne rejtarki pokazaś">
 <!ENTITY showAllTabsCmd.accesskey "W">
 
@@ -140,14 +139,14 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksMenu.accesskey "C">
 <!ENTITY bookmarkThisPageCmd.label "Toś ten bok ako cytańske znamje składowaś">
 <!ENTITY editThisBookmarkCmd.label "Toś to cytańske znamje wobźěłaś">
-<!ENTITY bookmarkThisPageCmd.commandkey "d">
-<!ENTITY markPageCmd.commandkey "l">
+
+
 <!-- LOCALIZATION NOTE (findShareServices.label):
   -  Use the unicode ellipsis char, \u2026,
   -  or use "..." if \u2026 doesn't suit traditions in your locale. -->
 <!ENTITY findShareServices.label "Dalšne źěleńske słužby pytaś…">
 <!ENTITY sharePageCmd.label "Toś ten bok źěliś">
-<!ENTITY sharePageCmd.commandkey "S">
+
 <!ENTITY sharePageCmd.accesskey "l">
 <!-- LOCALIZATION NOTE (shareLink.accesskey): must be different than the following share access keys -->
 <!ENTITY shareLink.label "Toś ten wótkaz źěliś">
@@ -175,7 +174,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY reloadCmd.label              "Znowego">
 <!ENTITY reloadButton.tooltip         "Aktualny bok znowego zacytaś">
 <!ENTITY stopCmd.label                "Stoj">
-<!ENTITY stopCmd.macCommandKey        ".">
+
 <!ENTITY stopButton.tooltip           "Zacytowanje toś togo boka zastajiś">
 <!ENTITY goEndCap.tooltip             "K adresy w adresowem pólu">
 <!ENTITY printButton.label            "Śišćaś">
@@ -190,21 +189,18 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY tabGroupsButton.label        "Rejtarkowe kupki">
 
 <!ENTITY bookmarksButton.label          "Cytańske znamjenja">
-<!ENTITY bookmarksCmd.commandkey "b">
 
-<!ENTITY bookmarksMenuButton.label          "Cytańske znamjenja">
-<!ENTITY bookmarksMenuButton.unsorted.label "Njesortěrowane cytańske znamjenja">
+
+
 <!ENTITY viewBookmarksSidebar2.label        "Rědku cytańskich znamjenjow pokazaś">
 <!ENTITY viewBookmarksToolbar.label         "Rědku cytańskich znamjenjow pokazaś">
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
   -  key should not contain the letters A-F, since these are reserved
   -  shortcut keys on Linux. -->
 
-<!ENTITY bookmarksGtkCmd.commandkey "o">
-<!ENTITY bookmarksWinCmd.commandkey "i">
 
 <!ENTITY historyButton.label            "Historija">
-<!ENTITY historySidebarCmd.commandKey   "h">
+
 
 <!ENTITY toolsMenu.label              "Rědy">
 <!ENTITY toolsMenu.accesskey          "R"> 
@@ -214,11 +210,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY downloads.label              "Ześěgnjenja">
 <!ENTITY downloads.accesskey          "Z">
-<!ENTITY downloads.commandkey         "j">
-<!ENTITY downloadsUnix.commandkey     "y">
+
+
 <!ENTITY addons.label                 "Dodanki">
 <!ENTITY addons.accesskey             "D">
-<!ENTITY addons.commandkey            "A">
+
 <!ENTITY webapps.label                "Nałoženja">
 <!ENTITY webapps.accesskey            "N">
 
@@ -237,15 +233,15 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY remoteWebConsoleCmd.label    "Daloka webkonsola">
 
 <!ENTITY browserConsoleCmd.label      "Konsola wobglědowaka">
-<!ENTITY browserConsoleCmd.commandkey "j">
+
 <!ENTITY browserConsoleCmd.accesskey  "K">
 
 <!ENTITY inspectContextMenu.label     "Element pśepytowaś">
-<!ENTITY inspectContextMenu.accesskey "E">
+
 
 <!ENTITY responsiveDesignTool.label   "Pśiměrjony webdesign">
 <!ENTITY responsiveDesignTool.accesskey "r">
-<!ENTITY responsiveDesignTool.commandkey "M">
+
 
 <!ENTITY eyedropper.label   "Pipeta">
 <!ENTITY eyedropper.accesskey "i">
@@ -288,7 +284,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY devToolbar.keytext                "F2">
 <!ENTITY devToolboxMenuItem.label          "Rědy pśešaltowaś">
 <!ENTITY devToolboxMenuItem.accesskey      "R">
-<!ENTITY devToolboxMenuItem.keytext        "I">
+
 
 <!ENTITY devToolbarToolsButton.tooltip     "Wuwijańske rědy pśešaltowaś">
 <!ENTITY devToolbarOtherToolsButton.label  "Dalšne rědy">
@@ -299,7 +295,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fileMenu.label         "Dataja"> 
 <!ENTITY fileMenu.accesskey       "D">
 <!ENTITY newNavigatorCmd.label        "Nowe wokno">
-<!ENTITY newNavigatorCmd.key        "N">
+
 <!ENTITY newNavigatorCmd.accesskey      "N">
 <!ENTITY newPrivateWindow.label     "Nowe priwatne wokno">
 <!ENTITY newPrivateWindow.accesskey "r">
@@ -307,25 +303,25 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY editMenu.label         "Wobźełaś"> 
 <!ENTITY editMenu.accesskey       "b"> 
 <!ENTITY undoCmd.label            "Anulěrowaś">  
-<!ENTITY undoCmd.key            "Z">  
+
 <!ENTITY undoCmd.accesskey          "A"> 
 <!ENTITY redoCmd.label            "Wóspjetowaś">  
-<!ENTITY redoCmd.key            "Y">  
+
 <!ENTITY redoCmd.accesskey          "s"> 
 <!ENTITY cutCmd.label           "Wurězaś">  
-<!ENTITY cutCmd.key             "X">  
+
 <!ENTITY cutCmd.accesskey         "r"> 
 <!ENTITY copyCmd.label            "Kopěrowaś">  
-<!ENTITY copyCmd.key            "C">  
+
 <!ENTITY copyCmd.accesskey          "K"> 
 <!ENTITY pasteCmd.label           "Zasajźiś">  
-<!ENTITY pasteCmd.key           "V">  
+
 <!ENTITY pasteCmd.accesskey         "Z"> 
 <!ENTITY deleteCmd.label          "Lašowaś">  
-<!ENTITY deleteCmd.key            "D">  
+
 <!ENTITY deleteCmd.accesskey        "L"> 
 <!ENTITY selectAllCmd.label         "Wšykno wubraś">  
-<!ENTITY selectAllCmd.key         "A">  
+
 <!ENTITY selectAllCmd.accesskey       "u"> 
 <!ENTITY preferencesCmd2.label       "Nastajenja">
 <!ENTITY preferencesCmd2.accesskey     "N">
@@ -334,7 +330,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY clearRecentHistory.label               "Aktualnu historiju wuprozniś…">
 
-<!ENTITY privateBrowsingCmd.commandkey          "P">
 
 <!ENTITY viewMenu.label         "Naglěd"> 
 <!ENTITY viewMenu.accesskey       "N"> 
@@ -355,16 +350,16 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY historyRestoreLastSession.label "Pjerwjejšne pósejźenje wótnowiś">
 
 <!ENTITY showAllHistoryCmd2.label "Wšu historiju pokazaś">
-<!ENTITY showAllHistoryCmd.commandkey "H">
+
 
 <!ENTITY appMenuCustomize.label "Pśiměriś">
 <!ENTITY appMenuCustomize.tooltip "Meni a symbolowe rědki pśiměriś">
 <!ENTITY appMenuCustomizeExit.label "Pśiměrjenje skóńcyś">
 <!ENTITY appMenuCustomizeExit.tooltip "Pśiměrjenje skóńcyś">
-<!ENTITY appMenuHistory.label "Historija">
-<!ENTITY appMenuHistory.showAll.label "Wšu historiju pokazaś">
-<!ENTITY appMenuHistory.clearRecent.label "Aktualnu historiju wuprozniś…">
-<!ENTITY appMenuHistory.restoreSession.label "Pjerjwejšne pósejźenje wótnowiś">
+
+
+
+
 <!ENTITY appMenuHistory.viewSidebar.label "Bócnicu historije pokazaś">
 <!ENTITY appMenuHelp.tooltip "Meni Pomoc wócyniś">
 
@@ -388,9 +383,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY customizeMenu.addMoreItems.label "Dalšne zapiski pśidaś…">
 <!ENTITY customizeMenu.addMoreItems.accesskey "l">
 
-<!ENTITY openCmd.commandkey           "l">
 <!ENTITY urlbar.placeholder2          "Pytaś abo adresu zapódaś">
-<!ENTITY urlbar.accesskey             "t">
+
 <!ENTITY urlbar.switchToTab.label     "K rejtarkoju pśejś:">
 <!-- 
   Comment duplicated from browser-sets.inc:
@@ -413,9 +407,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
  -->
 
-<!ENTITY searchFocus.commandkey       "k">
-<!ENTITY searchFocus.commandkey2      "e">
-<!ENTITY searchFocusUnix.commandkey   "j">
+
 <!-- LOCALIZATION NOTE (searchFor.label, searchWith.label):
      These two strings are used to build the header above the list of one-click
      search providers:  "Search for <used typed keywords> with:" -->
@@ -429,7 +421,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY searchWithHeader.label       "Pytaś z:">
 <!ENTITY changeSearchSettings.button  "Pytańske nastajenja">
 
-<!ENTITY tabView.commandkey           "e">
 
 <!ENTITY openLinkCmdInTab.label       "Wótkaz w nowem rejtarku wócyniś">
 <!ENTITY openLinkCmdInTab.accesskey   "r">
@@ -445,14 +436,13 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openFrameCmd.accesskey       "c">
 <!ENTITY showOnlyThisFrameCmd.label     "Jano w toś tom wobłuku pokazaś">
 <!ENTITY showOnlyThisFrameCmd.accesskey "J">
-<!ENTITY reloadCmd.commandkey         "r">
+
 <!ENTITY reloadFrameCmd.label         "Wobłuk znowego zacytaś">
 <!ENTITY reloadFrameCmd.accesskey     "z">
 <!ENTITY viewPartialSourceForSelectionCmd.label "Žrědłowy tekst wuběrka zwobrazniś">
 <!ENTITY viewPartialSourceForMathMLCmd.label    "Žrědłowy tekst MathML zwobrazniś">
 <!-- LOCALIZATION NOTE (viewPartialSourceCmd.accesskey): This accesskey is used for both 
          viewPartialSourceForSelectionCmd.label and viewPartialSourceForMathMLCmd.label -->
-<!ENTITY viewPartialSourceCmd.accesskey "t">
 <!ENTITY viewPageSourceCmd.label      "Žrědłowy tekst sboka pokazaś">
 <!ENTITY viewPageSourceCmd.accesskey  "t">
 <!ENTITY viewFrameSourceCmd.label     "Žrědłowy tekst wobłuka zwobrazniś">
@@ -475,7 +465,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewBGImageCmd.accesskey     "p">
 <!ENTITY setDesktopBackgroundCmd.label      "Ako desktopowu slězynu nastajiś…">
 <!ENTITY setDesktopBackgroundCmd.accesskey  "A">
-<!ENTITY bookmarkPageCmd2.label       "Toś ten bok ako cytańske znamje składowaś">
+
 <!ENTITY bookmarkThisLinkCmd.label      "Toś ten wótkaz ako cytańske znamje składowaś">
 <!ENTITY bookmarkThisLinkCmd.accesskey  "k">
 <!ENTITY bookmarkThisFrameCmd.label      "Toś ten wobłuk ako cytańske znamje skladowaś">
@@ -485,8 +475,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY savePageCmd.label            "Bok składowaś ako…">
 <!ENTITY savePageCmd.accesskey        "B">
 <!-- alternate for content area context menu -->
-<!ENTITY savePageCmd.accesskey2       "d">
-<!ENTITY savePageCmd.commandkey       "s">
+
 <!ENTITY saveFrameCmd.label           "Wobłuk składowaś ako…">
 <!ENTITY saveFrameCmd.accesskey       "b">
 <!ENTITY printFrameCmd.label          "Wobłuk śišćaś…">
@@ -561,8 +550,8 @@ items are mutually exclusive. -->
 <!ENTITY mediaShowControls.accesskey "W">
 <!ENTITY mediaHideControls.label     "Wóźeńske elementy schowaś">
 <!ENTITY mediaHideControls.accesskey "w">
-<!ENTITY videoFullScreen.label       "Połna wobrazowka">
-<!ENTITY videoFullScreen.accesskey   "P">
+
+
 <!ENTITY videoSaveImage.label        "Foto wobrazowki składowaś ako…">
 <!ENTITY videoSaveImage.accesskey    "F">
 <!-- LOCALIZATION NOTE: The access keys for "Show Statistics" and
@@ -581,19 +570,18 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY fullZoomEnlargeCmd.label       "Pówětšyś">
 <!ENTITY fullZoomEnlargeCmd.accesskey   "w">
-<!ENTITY fullZoomEnlargeCmd.commandkey  "+">
+
 <!-- + is above this key on many keyboards -->
-<!ENTITY fullZoomEnlargeCmd.commandkey2 "="> 
 <!ENTITY fullZoomEnlargeCmd.commandkey3 "">
 
 <!ENTITY fullZoomReduceCmd.label        "Pómjeńšyś">
 <!ENTITY fullZoomReduceCmd.accesskey    "m">
-<!ENTITY fullZoomReduceCmd.commandkey   "-">
+
 <!ENTITY fullZoomReduceCmd.commandkey2  "">
 
 <!ENTITY fullZoomResetCmd.label         "Slědk stajiś">
 <!ENTITY fullZoomResetCmd.accesskey     "l">
-<!ENTITY fullZoomResetCmd.commandkey    "0">
+
 <!ENTITY fullZoomResetCmd.commandkey2   "">
 
 <!ENTITY fullZoomToggleCmd.label        "Jano tekst skalěrowaś">
@@ -606,16 +594,15 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY quitApplicationCmdWin.label       "Skóńcyś"> 
 <!ENTITY quitApplicationCmdWin.accesskey   "k">
 <!ENTITY quitApplicationCmdWin.tooltip     "&brandShortName; spušćiś">
-<!ENTITY goBackCmd.commandKey "[">
-<!ENTITY goForwardCmd.commandKey "]">
+
+
 <!ENTITY quitApplicationCmd.label       "Spušćiś"> 
 <!ENTITY quitApplicationCmd.accesskey   "S">
 <!ENTITY quitApplicationCmdMac.label    "&brandShortName; spušćiś">
 <!-- LOCALIZATION NOTE(quitApplicationCmdUnix.key): This keyboard shortcut is used by both Linux and OSX builds. -->
-<!ENTITY quitApplicationCmdUnix.key     "Q">
 
 <!ENTITY closeCmd.label                 "Zacyniś">  
-<!ENTITY closeCmd.key                   "W">  
+
 <!ENTITY closeCmd.accesskey             "Z">
 
 <!ENTITY pageStyleMenu.label "Stil boka">
@@ -627,36 +614,35 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY pageReportIcon.tooltip            "Nastajenja blokěrowanja wuskokujucych woknow za toś to websedło zmeniś">
 
-<!ENTITY allowPopups.accesskey "u">
 <!-- On Windows we use the term "Options" to describe settings, but
      on Linux and Mac OS X we use "Preferences" - carry that distinction
      over into this string, which is used in the "popup blocked" info bar . -->
 <!ENTITY editPopupSettingsUnix.label "Nastajenja za blokěrowanje wuskokujucych woknow wobźełaś…">
 <!ENTITY editPopupSettings.label "Nastajenja za blokěrowanje wuskokujucych woknow wobźełaś…">
 <!ENTITY editPopupSettings.accesskey "b">
-<!ENTITY dontShowMessage.accesskey "n">
+
 
 <!ENTITY bidiSwitchPageDirectionItem.label        "Směr boka pśešaltowaś">
 <!ENTITY bidiSwitchPageDirectionItem.accesskey    "b">
 <!ENTITY bidiSwitchTextDirectionItem.label        "Směr teksta pśešaltowaś">
 <!ENTITY bidiSwitchTextDirectionItem.accesskey    "t">
-<!ENTITY bidiSwitchTextDirectionItem.commandkey   "X">
+
 
 <!ENTITY findOnCmd.label     "Na toś tom boku pytaś…">
 <!ENTITY findOnCmd.accesskey "t">
-<!ENTITY findOnCmd.commandkey "f">
+
 <!ENTITY findAgainCmd.label  "Dalej pytaś">
 <!ENTITY findAgainCmd.accesskey "D">
-<!ENTITY findAgainCmd.commandkey "g">
+
 <!ENTITY findAgainCmd.commandkey2 "VK_F3">
-<!ENTITY findSelectionCmd.commandkey "e">
+
 
 <!ENTITY spellAddDictionaries.label "Słowniki pśidaś…">
 <!ENTITY spellAddDictionaries.accesskey "S">
 
 <!ENTITY editBookmark.done.label                     "Dokóńcony">
 <!ENTITY editBookmark.cancel.label                   "Pśetergnuś">
-<!ENTITY editBookmark.removeBookmark.accessKey       "w">
+
 
 <!ENTITY identity.unverifiedsite2 "Toś to websedło njepódawa informacije wó identiśe.">
 <!ENTITY identity.connectedTo "Sćo zwězany z">
@@ -692,12 +678,12 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY syncBrand.shortName.label    "Sync">
 
 <!ENTITY syncSetup.label              "&syncBrand.shortName.label; konfigurěrowaś…">
-<!ENTITY syncSetup.accesskey          "c">
+
 <!ENTITY syncSyncNowItem.label        "Něnto synchronizěrowaś">
 <!ENTITY syncSyncNowItem.accesskey    "N">
 <!ENTITY syncReAuthItem.label         "Znowego z &syncBrand.shortName.label; zwězaś…">
 <!ENTITY syncReAuthItem.accesskey     "Z">
-<!ENTITY syncToolbarButton.label      "Synchronizěrowaś">
+
 
 <!ENTITY socialToolbar.title        "Tłocašk symboloweje rědki za socialne seśi">
 
@@ -736,12 +722,11 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY customizeMode.lwthemes.myThemes "Móje drastwy">
 <!ENTITY customizeMode.lwthemes.recommended "Dopórucone">
 <!ENTITY customizeMode.lwthemes.menuManage "Zastojaś">
-<!ENTITY customizeMode.lwthemes.menuManage.accessKey "Z">
+
 <!ENTITY customizeMode.lwthemes.menuGetMore "Dalšne drastwy wobstaraś">
-<!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "l">
+
 <!ENTITY customizeMode.deveditionTheme.label2 "Drastwu wuwijarskeje edicije wužywaś">
 
-<!ENTITY social.chatBar.commandkey "c">
 <!ENTITY social.chatBar.label "Chaty wuzwignuś">
 <!ENTITY social.chatBar.accesskey "C">
 
@@ -771,12 +756,12 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY trackingContentBlocked.message "Slědowanje">
 <!ENTITY trackingContentBlocked.moreinfo "Źěle boka, kótarež slěduju wašu online-aktiwitu, su se blokěrowali.">
-<!ENTITY trackingContentBlocked.learnMore "Dalšne informacije">
-<!ENTITY trackingContentBlocked.options "Nastajenja">
+
+
 <!ENTITY trackingContentBlocked.unblock2.label "Šćit za toś to sydło znjemóžniś">
 <!ENTITY trackingContentBlocked.unblock2.accesskey "n">
-<!ENTITY trackingContentBlocked.block.label "Šćit zmóžniś">
-<!ENTITY trackingContentBlocked.block.accesskey "m">
+
+
 <!ENTITY trackingContentBlocked.disabled.message "Šćit pśeśiwo slědowanjeju jo znjemóžnjony">
 
 <!ENTITY pointerLock.notification.message "Tłocćo ESC kuždy cas, aby jen hyšći raz pokazał.">
@@ -801,7 +786,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY tabCrashed.checkSendReport "Informěrujśo &vendorShortName; wó toś tom wowalenju, aby jen pórěźił.">
 <!ENTITY tabCrashed.tryAgain "Hyšći raz wopytaś">
 
-<!ENTITY uiTour.infoPanel.close "Zacyniś">
 
 <!ENTITY appMenuSidebars.label         "Bócnice">
 

@@ -13,11 +13,10 @@
 <!ENTITY restorepage.startNew       "Cele nowe pśeglědowańske pósejźenje startowaś">
 
 <!ENTITY restorepage.tryagainButton "Wótnowiś">
-<!ENTITY restorepage.restore.access "W">
-<!ENTITY restorepage.closeButton    "Zacyniś">
-<!ENTITY restorepage.close.access   "Z">
 
-<!ENTITY restorepage.restoreHeader  "Wótnowiś">
+<!ENTITY restorepage.closeButton    "Zacyniś">
+
+
 <!ENTITY restorepage.listHeader     "Wokna a rejtarki">
 <!-- LOCALIZATION NOTE: &#37;S will be replaced with a number. -->
 <!ENTITY restorepage.windowLabel    "Wokno &#037;S">
@@ -27,11 +26,10 @@
 
 
 <!ENTITY welcomeback2.restoreButton  "Zachopmy!">
-<!ENTITY welcomeback2.restoreButton.access "Z">
+
 
 <!ENTITY welcomeback2.tabtitle      "Wuspěch!">
 
-<!ENTITY welcomeback2.pageTitle     "Wuspěch!">
 <!ENTITY welcomeback2.pageInfo1     "&brandShortName; móžo zachopiś.">
 
 <!ENTITY welcomeback2.label.restoreAll  "Wšykne wokna a rejtarki wótnowiś">
