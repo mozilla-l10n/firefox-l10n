@@ -15,7 +15,7 @@
 <!ENTITY projectMenu_selectApp_label "បើក​កម្មវិធី…">
 <!ENTITY projectMenu_selectApp_accesskey "O">
 <!ENTITY projectMenu_play_label "ដំឡើង និង​ដំណើរការ">
-
+<!ENTITY projectMenu_play_accesskey "I">
 <!ENTITY projectMenu_stop_label "បញ្ឈប់​កម្មវិធី">
 <!ENTITY projectMenu_stop_accesskey "S">
 <!ENTITY projectMenu_debug_label "កម្មវិធី​បំបាត់​កំហុស">
@@ -24,7 +24,7 @@
 <!ENTITY projectMenu_remove_accesskey "R">
 <!ENTITY projectMenu_showPrefs_label "ចំណូលចិត្ត">
 <!ENTITY projectMenu_showPrefs_accesskey "e">
-
+<!ENTITY projectMenu_manageComponents_label "គ្រប់គ្រង​សមាសភាគ​បន្ថែម">
 <!ENTITY projectMenu_manageComponents_accesskey "M">
 
 <!ENTITY runtimeMenu_label "ពេលវេលា​រត់">
@@ -69,7 +69,7 @@
 <!ENTITY key_toggleEditor "B">
 <!-- zoom -->
 <!ENTITY key_zoomin "+">
-
+<!ENTITY key_zoomin2 "=">
 
 
 
@@ -115,7 +115,7 @@
 <!ENTITY prefs_restore "ស្ដារ​លំនាំ​ដើម">
 
 
-
+<!ENTITY prefs_options_autoconnectruntime_tooltip "តភ្ជាប់​ឡើងវិញ​ទៅ​ពេលវេលា​ដំណើរការ ពេល WebIDE ចាប់ផ្ដើម">
 <!ENTITY prefs_options_rememberlastproject "ចងចាំ​គម្រោង​ចុងក្រោយ">
 <!ENTITY prefs_options_rememberlastproject_tooltip "ស្ដារ​គម្រោង​មុន​នៅ​ពេល​ចាប់ផ្ដើម WebIDE">
 <!ENTITY prefs_options_templatesurl "URL ពុម្ព">
@@ -125,7 +125,7 @@
 <!ENTITY prefs_options_tabsize "ទំហំ​ផ្ទាំង">
 
 <!ENTITY prefs_options_expandtab_tooltip "ប្រើ​ចន្លោះ​មិន​ឃើញ​ជំនួស​ថេប តួអក្សរ">
-
+<!ENTITY prefs_options_detectindentation "ចូល​បន្ទាត់​ស្វ័យប្រវត្តិ">
 <!ENTITY prefs_options_detectindentation_tooltip "ស្មាន​ការ​បញ្ចូល​បន្ទាត់​ផ្អែកលើ​មាតិកា​ប្រភព">
 <!ENTITY prefs_options_autocomplete "បំពេញ​ស្វ័យប្រវត្តិ">
 <!ENTITY prefs_options_autocomplete_tooltip "បើក​ការ​បំពេញ​ស្វ័យប្រវត្តិ​សម្រាប់​កូដ">
@@ -154,9 +154,9 @@
 <!ENTITY devicepreferences_newtext "តម្លៃ​ចំណូលចិត្ត">
 <!ENTITY devicepreferences_addnew "បន្ថែម​ចំណូលចិត្ត​ថ្មី">
 <!ENTITY devicepreferences_typeboolean "ប៊ូលីន">
-
-
-
+<!ENTITY devicepreferences_typenumber "ចំនួន​គត់">
+<!ENTITY devicepreferences_typestring "តួអក្សរ">
+<!ENTITY devicepreferences_typenone "ជ្រើស​ប្រភេទ">
 <!-- Monitor -->
 
 <!ENTITY monitor_title "ម៉ូនីទ័រ">
