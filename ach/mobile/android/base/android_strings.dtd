@@ -70,7 +70,7 @@
      is upper-case, to match Google and Android's convention. -->
 
 <!ENTITY settings "Tero">
-<!ENTITY settings_title "Tero">
+
 
 
 
@@ -183,7 +183,6 @@
 same character/combination is used to increase the preview font size. It should be a concise
 representation of the language it is used in that will help show the text in the preview will change
 size. -->
-<!ENTITY pref_font_size_adjust_char "A">
 <!-- Localization note (pref_font_size_preview_text): This paragraph is used as an example to
     demonstrate the font size setting.  It is meant to be whimsical and fun. -->
 
@@ -287,7 +286,7 @@ size. -->
 
 
 <!ENTITY contextmenu_add_to_launcher "Med I gang Kio ma neno">
-<!ENTITY contextmenu_share "Nywak">
+
 <!ENTITY contextmenu_pasteandgo "Dac &amp; Woti">
 <!ENTITY contextmenu_paste "Dani">
 <!ENTITY contextmenu_copyurl "Lok Address">
@@ -316,7 +315,7 @@ size. -->
 <!ENTITY bookmark_edit_keyword "Lok mapire tek">
 <!-- Localization note (site_settings_*) : These strings are used in the "Site Settings"
      dialog that appears after selecting the "Edit Site Settings" context menu item. -->
-<!ENTITY site_settings_cancel       "Jwik">
+
 
 <!ENTITY site_settings_no_settings  "Ter mo peke me ajwa.">
 
@@ -335,11 +334,11 @@ size. -->
 <!ENTITY masterpassword_confirm "Mok i cwil me donyo">
 
 <!ENTITY button_ok "Kakare">
-<!ENTITY button_cancel "Jwik">
+
 <!ENTITY button_yes "Eyo">
 <!ENTITY button_no "Pe/Ku">
 <!ENTITY button_clear_data "Ywe tic">
-<!ENTITY button_set "Ter">
+
 
 
 <!ENTITY home_top_sites_title "Kakube maloyo">
@@ -395,7 +394,6 @@ size. -->
 
 
 
-<!ENTITY filepicker_title "Yer Pwail">
 <!ENTITY filepicker_audio_title "Yer onyo ket tekod me dwon">
 <!ENTITY filepicker_image_title "Yer onyo ter cal">
 <!ENTITY filepicker_video_title "Yer onyo ket video">
