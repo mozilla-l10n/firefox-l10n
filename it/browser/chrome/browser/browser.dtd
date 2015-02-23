@@ -592,11 +592,17 @@
 <!ENTITY processHang.terminatePlugin.accessKey "m">
 <!ENTITY processHang.terminateProcess.label "Termina il processo web">
 <!ENTITY processHang.terminateProcess.accessKey "T">
-<!ENTITY readingList.label "Elenco lettura">
-<!ENTITY readingList.sidebar.commandKey "R">
 <!ENTITY emeLearnMoreContextMenu.label "Ulteriori informazioni sul DRM…">
 <!ENTITY emeLearnMoreContextMenu.accesskey "D">
 <!ENTITY emeNotificationsNotNow.label "Non adesso">
 <!ENTITY emeNotificationsNotNow.accesskey "N">
 <!ENTITY emeNotificationsDontAskAgain.label "Non chiedere nuovamente">
 <!ENTITY emeNotificationsDontAskAgain.accesskey "c">
+<!ENTITY readingList.label "Elenco lettura">
+<!ENTITY readingList.sidebar.commandKey "r">
+<!ENTITY readingList.showSidebar.label "Visualizza barra laterale Elenco lettura">
+<!ENTITY readingList.sidebar.showMore.label "Altro…">
+<!ENTITY readingList.sidebar.emptyText "Aggiungi articoli all’Elenco lettura per leggerli in un secondo tempo e trovarli facilmente quando servono">
+<!ENTITY readingList.sidebar.delete.tooltip "Rimuovi questo elemento da Elenco lettura">
+<!ENTITY readingList.sidebar.add.label "Aggiungi a Elenco lettura">
+<!ENTITY readingList.sidebar.add.tooltip "Aggiungi questa pagina a Elenco lettura">
