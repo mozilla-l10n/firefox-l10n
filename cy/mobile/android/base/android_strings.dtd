@@ -75,7 +75,7 @@
 <!ENTITY switch_button_message "NEWID">
 
 <!ENTITY settings "Gosodiadau">
-<!ENTITY settings_title "Gosodiadau">
+
 <!ENTITY pref_category_advanced "Uwch">
 <!ENTITY pref_category_customize "Cyfaddasu">
 <!ENTITY pref_category_customize_summary "Cartref, chwilio, tabiau, mewnforio">
@@ -99,8 +99,6 @@
 <!-- Localization note (overlay_share_bookmark_btn_label) : This string is
      used in the share overlay menu to select an action. It is the verb
      "to bookmark", not the noun "a bookmark". -->
-
-<!ENTITY overlay_share_bookmark_btn_label "Nod Tudalen">
 <!ENTITY overlay_share_reading_list_btn_label "Ychwanegu at y Rhestr Ddarllen">
 <!ENTITY overlay_share_bookmark_btn_label_already "Nod Tudalen arno eisoes">
 <!ENTITY overlay_share_reading_list_btn_label_already "Eisoes yn y Rhestr Ddarllen">
@@ -115,7 +113,6 @@
 <!ENTITY overlay_share_retry "Ceisio eto">
 <!ENTITY overlay_share_select_device "Dewis dyfais">
 
-<!ENTITY pref_category_search3 "Chwilio">
 <!ENTITY pref_category_search_summary "Cyfaddasu eich darparwyr chwilio">
 <!ENTITY pref_category_display "Dangosydd">
 <!ENTITY pref_category_display_summary "Testun, bar teitl, pori sgrin llawn">
@@ -129,7 +126,7 @@
 <!ENTITY pref_category_add_search_providers "Ychwanegu rhagor o ddarparwyr chwilio">
 <!ENTITY pref_category_search_restore_defaults "Adfer peiriannau chwilio">
 <!ENTITY pref_search_restore_defaults "Adfer y rhagosodiadau">
-<!ENTITY pref_search_restore_defaults_summary "Adfer y rhagosodiadau">
+
 <!-- Localization note (pref_search_hint) : "TIP" as in "hint", "clue" etc. Displayed as an
      advisory message on the customise search providers settings page explaining how to add new
      search providers.
@@ -159,16 +156,14 @@
 <!ENTITY pref_home_suggested_sites_summary "Dangos llwybrau byr ar eich tudalen cartref i wefannau diddorol">
 <!-- Localization note: These are shown in the left sidebar on tablets -->
 
-<!ENTITY pref_header_customize "Cyfaddasu">
-<!ENTITY pref_header_display "Dangosydd">
-<!ENTITY pref_header_privacy_short "Preifatrwydd">
+
 <!ENTITY pref_header_help "Cymorth">
-<!ENTITY pref_header_language "Iaith">
-<!ENTITY pref_header_vendor "&vendorShortName;">
-<!ENTITY pref_header_devtools "Offer datblygu">
+
+
+
 
 <!ENTITY pref_cookies_menu "Cwcis">
-<!ENTITY pref_cookies_accept_all "Galluogwyd">
+
 <!ENTITY pref_cookies_not_accept_foreign "Galluogwyd, eithrio 3ydd parti">
 <!ENTITY pref_cookies_disabled "Analluogwyd">
 
@@ -186,9 +181,9 @@
 <!ENTITY pref_clear_on_exit_summary2 "Bydd &brandShortName; yn clirio eich data yn awtomatig pryd bynnag fyddwch yn dewis \u0022Gadael\u0022 o\u0027r brif ddewislen">
 <!ENTITY pref_clear_on_exit_dialog_title "Dewis pa ddata i\u0027w glirio">
 <!ENTITY pref_plugins "Ategion">
-<!ENTITY pref_plugins_enabled "Galluogwyd">
+
 <!ENTITY pref_plugins_tap_to_play "Tapio i chwarae">
-<!ENTITY pref_plugins_disabled "Analluogwyd">
+
 <!ENTITY pref_text_size "Maint testun">
 <!ENTITY pref_reflow_on_zoom4 "Ail-lifo testun">
 <!ENTITY pref_restore "Tabiau">
@@ -205,7 +200,6 @@
 same character/combination is used to increase the preview font size. It should be a concise
 representation of the language it is used in that will help show the text in the preview will change
 size. -->
-<!ENTITY pref_font_size_adjust_char "A">
 <!-- Localization note (pref_font_size_preview_text): This paragraph is used as an example to
     demonstrate the font size setting.  It is meant to be whimsical and fun. -->
 
@@ -274,17 +268,15 @@ size. -->
      specifically, since the pref only prevents automatic downloads and not the
      actual notification that an update is available. -->
 <!ENTITY pref_update_autodownload2 "Llwytho ddiweddariadau i lawr yn awtomatig">
-<!ENTITY pref_update_autodownload_wifi "Dim ond dros Diwyfr">
+
 <!ENTITY pref_update_autodownload_never "Byth">
 <!ENTITY pref_update_autodownload_always "Bob tro">
 <!-- Localization note (help_menu) : This string is used in the main menu-->
 
-<!ENTITY help_menu "Cymorth">
-
 <!ENTITY quit "Gadael">
 
 <!ENTITY addons "Ychwanegion">
-<!ENTITY downloads "Llwythi">
+
 <!ENTITY apps "Apiau">
 <!ENTITY char_encoding "Nodau Amgodio">
 
@@ -300,7 +292,7 @@ size. -->
 <!ENTITY new_private_tab "Tab Preifat Newydd">
 <!ENTITY close_all_tabs "Cau Pob Tab">
 <!ENTITY close_private_tabs "Cau Tabiau Preifat">
-<!ENTITY tabs_normal "Tabiau">
+
 <!ENTITY tabs_private "Preifat">
 <!ENTITY tabs_synced "Cydweddwyd">
 <!ENTITY set_image_fail "Methu gosod delwedd">
@@ -308,31 +300,29 @@ size. -->
 <!ENTITY set_image_chooser_title "Gosod Delwedd Fel">
 <!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
-
-<!ENTITY find_text "Canfod yn y Dudalen">
 <!ENTITY find_prev "Blaenorol">
 <!ENTITY find_next "Nesaf">
-<!ENTITY find_close "Cau">
+
 <!-- Localization note (media_sending_to, media_play, media_pause, media_stop) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
 
 <!ENTITY media_sending_to "Anfon i Ddyfais">
 <!ENTITY media_play "Chwarae">
 <!ENTITY media_pause "Oedi">
-<!ENTITY media_stop "Atal">
+
 
 <!ENTITY contextmenu_open_new_tab "Agor mewn Tab Newydd">
 <!ENTITY contextmenu_open_private_tab "Agor mewn Tab Preifat">
-<!ENTITY contextmenu_remove "Tynnu">
+
 <!ENTITY contextmenu_add_to_launcher "Ychwanegu i’r Sgrin Cartref">
-<!ENTITY contextmenu_share "Rhannu">
+
 <!ENTITY contextmenu_pasteandgo "Gludo a Mynd">
 <!ENTITY contextmenu_paste "Gludo">
 <!ENTITY contextmenu_copyurl "Copïo Cyfeiriad">
 <!ENTITY contextmenu_edit_bookmark "Golygu">
 <!ENTITY contextmenu_subscribe "Tanysgrifio i Dudalen">
 <!ENTITY contextmenu_site_settings "Golygu Gosodiadau\u0027r Wefan">
-<!ENTITY contextmenu_top_sites_edit "Golygu">
+
 <!ENTITY contextmenu_top_sites_pin "Pinio Gwefan">
 <!ENTITY contextmenu_top_sites_unpin "Dad-binio Gwefan">
 <!ENTITY contextmenu_add_search_engine "Ychwanegu Peiriant Chwilio">
@@ -359,7 +349,7 @@ size. -->
      dialog that appears after selecting the "Edit Site Settings" context menu item. -->
 
 <!ENTITY site_settings_title3       "Gosodiadau Gwefan">
-<!ENTITY site_settings_cancel       "Diddymu">
+
 <!ENTITY site_settings_clear        "Clirio">
 <!ENTITY site_settings_no_settings  "Does dim gosodiadau i’w clirio.">
 
@@ -382,12 +372,12 @@ size. -->
 <!ENTITY masterpassword_confirm "Cadarnhau cyfrinair">
 
 <!ENTITY button_ok "Iawn">
-<!ENTITY button_cancel "Diddymu">
+
 <!ENTITY button_yes "Iawn">
 <!ENTITY button_no "Na">
 <!ENTITY button_clear_data "Clirio data">
-<!ENTITY button_set "Gosod">
-<!ENTITY button_clear "Clirio">
+
+
 
 <!ENTITY home_top_sites_title "Hoff Wefannau">
 <!-- Localization note (home_top_sites_add): This string is used as placeholder
@@ -397,7 +387,7 @@ size. -->
      with the page title defined in aboutHome.dtd -->
 
 <!ENTITY home_title "Cartref &brandShortName;">
-<!ENTITY home_history_title "Hanes">
+
 <!ENTITY home_clear_history_button "Clirio eich hanes pori">
 <!ENTITY home_clear_history_confirm "Ydych chi\u0027n siŵr eich bod chi eisiau clirio eich hanes?">
 <!ENTITY home_bookmarks_empty "Mae nodau tudalen i\u0027w gweld yma.">
@@ -459,7 +449,6 @@ size. -->
 
 <!ENTITY pin_site_dialog_hint "Rhowch allweddair chwilio">
 
-<!ENTITY filepicker_title "Dewis Ffeil">
 <!ENTITY filepicker_audio_title "Dewis neu recordio sain">
 <!ENTITY filepicker_image_title "Dewis neu dynnu llun">
 <!ENTITY filepicker_video_title "Dewis neu recordio fideo">
@@ -530,33 +519,26 @@ o Android">
 <!ENTITY updater_downloading_select2 "Cyffwrdd i osod diweddariad wedi ei lwytho i lawr">
 <!ENTITY updater_downloading_retry2 "Cyffwrdd i geisio eto">
 
-<!ENTITY updater_apply_title2 "Diweddariad ar gael ar gyfer &brandShortName;">
 <!ENTITY updater_apply_select2 "Cyffwrdd i ddiweddaru">
 <!-- Guest mode -->
 
 <!ENTITY new_guest_session "Sesiwn Gwestai Newydd">
 <!ENTITY exit_guest_session "Gorffen Sesiwn Gwestai">
 <!ENTITY guest_session_dialog_continue "Parhau">
-<!ENTITY guest_session_dialog_cancel "Diddymu">
+
 <!ENTITY new_guest_session_title "Bydd &brandShortName; nawr yn ailgychwyn">
 <!ENTITY new_guest_session_text "Ni fydd y person sy\u0027n ei ddefnyddio yn gallu gweld dim o\u0027ch data pori personol ( cyfrineiriau, hanes na nodau tudalen).\n\nPan fydd eich gwestai wedi gorffen, bydd eu data pori\u0027n cael ei ddileu a\u0027ch sesiwn chi\u0027n cael ei hadfer.">
 <!ENTITY guest_browsing_notification_title "Mae pori gwestai wedi ei alluogi">
 <!ENTITY guest_browsing_notification_text "Tapio i adael">
 
-<!ENTITY exit_guest_session_title "Bydd &brandShortName; nawr yn ailgychwyn">
 <!ENTITY exit_guest_session_text "Bydd manylion pori\u0027r sesiwn yn cael ei ddileu.">
 <!-- Miscellaneous -->
 <!-- LOCALIZATION NOTE (ellipsis): This text is appended to a piece of text that does not fit in the
      designated space. Use the unicode ellipsis char, \u2026, or use "..." if \u2026 doesn't suit
      traditions in your locale. -->
 
-<!ENTITY ellipsis "…">
-
-<!ENTITY colon ":">
 <!-- These are only used for accessibility for the done and overflow-menu buttons in the actionbar.
      They are never shown to users -->
-
-<!ENTITY actionbar_menu "Dewislen">
 <!ENTITY actionbar_done "Gorffen">
 <!-- Localization note (remote_tabs_last_synced): the variable is replaced by a
      "relative time span string" produced by Android.  This string describes the
