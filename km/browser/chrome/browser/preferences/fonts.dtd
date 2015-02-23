@@ -72,7 +72,7 @@
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.arabic):
      Translate "Arabic" as an adjective for an encoding, not as the name of the language. -->
 <!ENTITY languages.customize.Fallback.arabic      "អារ៉ាប់">
-
+<!ENTITY languages.customize.Fallback.baltic      "បាល់ទិក">
 <!ENTITY languages.customize.Fallback.ceiso       "អឺរ៉ុប​កណ្ដាល ISO">
 <!ENTITY languages.customize.Fallback.cewindows   "អឺរ៉ុប​កណ្ដាល ម៉ៃក្រូសូហ្វ">
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.simplified):
