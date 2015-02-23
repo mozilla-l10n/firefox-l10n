@@ -12,9 +12,9 @@
 <!ENTITY calendar.unifinder.todoitems.label          "Úlohy" >
 <!ENTITY calendar.unifinder.showcompletedtodos.label "Zobraziť dokončené úlohy">
 
-<!ENTITY calendar.today.button.label       "Dnes">
+<!ENTITY calendar.today.button.label          "Dnes">
 <!ENTITY calendar.tomorrow.button.label       "Zajtra">
-<!ENTITY calendar.soon.button.label           "Čoskoro">
+<!ENTITY calendar.upcoming.button.label       "Nadchádzajúce">
 
 <!ENTITY calendar.events.filter.all.label               "Všetky udalosti">
 <!ENTITY calendar.events.filter.today.label             "Dnešné udalosti">
