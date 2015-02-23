@@ -36,7 +36,7 @@
 <!ENTITY community.middle2          ", a ">
 <!-- LOCALIZATION NOTE (community.creditsLink): This is a link title that links to about:credits. -->
 <!ENTITY community.creditsLink      "សហគមន៍​សកល">
-<!ENTITY community.end3             " ដែល​ធ្វើការ​ជាមួយ​គ្នា​ដើម្បី​ធ្វើ​ឲ្យ​តំបន់​បណ្ដាញ​បើក​ចំហ សាធារណៈ និង​​អាច​ចូល​ដំណើរការ​បាន​ទាំងអស់​គ្នា។">
+<!ENTITY community.end3             " ដែល​ធ្វើការ​ជាមួយ​​គ្នា​ដើម្បី​ធ្វើ​ឲ្យ​តំបន់​បណ្ដាញ​បើក​ចំហ សាធារណៈ និង​អាច​ចូល​ដំណើរ​ការ​បាន​គ្រប់គ្នា ។">
 
 <!ENTITY helpus.start               "ចង់​ជួយ?">
 <!-- LOCALIZATION NOTE (helpus.donateLink): This is a link title that links to https://sendto.mozilla.org/page/contribute/Give-Now?source=mozillaorg_default_footer&ref=firefox_about&utm_campaign=firefox_about&utm_source=firefox&utm_medium=referral&utm_content=20140929_FireFoxAbout. -->
