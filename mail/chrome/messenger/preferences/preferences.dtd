@@ -16,3 +16,6 @@
 <!ENTITY panePrivacy.title "Приватность">
 <!ENTITY paneSecurity.title "Защита">
 <!ENTITY paneAdvanced.title "Дополнительные">
+<!ENTITY paneAccount.title "Учётные записи">
+<!ENTITY okButton.title "OK">
+<!ENTITY okButton.accesskey "O">
