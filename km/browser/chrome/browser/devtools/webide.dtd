@@ -123,7 +123,7 @@
 <!ENTITY prefs_options_showeditor "បង្ហាញ​កម្មវិធី​កែ">
 <!ENTITY prefs_options_showeditor_tooltip "បង្ហាញ​កម្មវិធី​កែ​ខាង​ក្នុង">
 <!ENTITY prefs_options_tabsize "ទំហំ​ផ្ទាំង">
-
+<!ENTITY prefs_options_expandtab "ផ្ទាំង​ទន់">
 <!ENTITY prefs_options_expandtab_tooltip "ប្រើ​ចន្លោះ​មិន​ឃើញ​ជំនួស​ថេប តួអក្សរ">
 <!ENTITY prefs_options_detectindentation "ចូល​បន្ទាត់​ស្វ័យប្រវត្តិ">
 <!ENTITY prefs_options_detectindentation_tooltip "ស្មាន​ការ​បញ្ចូល​បន្ទាត់​ផ្អែកលើ​មាតិកា​ប្រភព">
