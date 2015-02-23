@@ -6,7 +6,7 @@
 
 <!ENTITY checkAutoDetect.label "자동으로 온라인 상태 탐지">
 <!ENTITY checkAutoDetect.accesskey "d">
-<!ENTITY textStartUp "시작할 때:">
+<!ENTITY titleStartUp "시작할 때:">
 <!ENTITY radioRememberPrevState.label "이전의 온라인 상태 기억하기">
 <!ENTITY radioRememberPrevState.accesskey "R">
 <!ENTITY radioAskState.label "시작할 온라인 상태 묻기">
