@@ -5,6 +5,7 @@
 <!ENTITY itemGeneral.label "Основные">
 <!ENTITY itemAutoComplete.label "Адресация">
 <!ENTITY itemSpellCheck.label "Орфография">
+<!ENTITY dialogCompose.title "Составление">
 <!ENTITY forwardMsg.label "Пересылать сообщения:">
 <!ENTITY forwardMsg.accesskey "с">
 <!ENTITY inline.label "Внутри сообщения">
