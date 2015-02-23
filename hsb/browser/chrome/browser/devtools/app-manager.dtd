@@ -36,9 +36,9 @@
 <!ENTITY device.permissionsHelpLink "https://developer.mozilla.org/docs/Web/Apps/App_permissions">
 <!ENTITY device.browserTabs "Rajtarki wobhladowaka">
 <!ENTITY device.browserTabsTooltip "Lisćinu rajtarkow we wobhladowaku zwjazaneho grata pokazać">
-<!ENTITY device.debugBrowserTab "Pytanje za zmylkami">
+
 <!ENTITY device.debugBrowserTabTooltip "Wuwiwarske nastroje zwjazane z tutym rajtarkom wobhladowaka na graće wočinić">
-<!ENTITY device.help "Pomoc">
+
 
 <!ENTITY connection.connectTooltip "Z gratom zwjazać">
 <!ENTITY connection.disconnect "Zwisk dźělić">
@@ -66,19 +66,19 @@
 <!ENTITY connection.startRegisteredSimulator "Start:">
 
 <!ENTITY projects.localApps "Lokalne nałoženja">
-<!ENTITY projects.addApp "Přidać">
+
 <!ENTITY projects.addPackaged "Zapakowane nałoženje přidać">
 <!ENTITY projects.addPackagedTooltip "Nowy zapakowane nałoženje (zapis) z wašeho ličaka přidać">
 <!ENTITY projects.addHosted "Nałoženje z interneta přidać">
 <!ENTITY projects.addHostedTooltip "Nowe nałoženje z interneta (wotkaz k dataji manifest.webapp) z websydła přidać">
-<!ENTITY projects.title "Lokalne nałoženja">
+
 <!ENTITY projects.appDetails "Podrobnosće nałoženja">
 <!ENTITY projects.removeAppFromList "Tute nałoženje z lisćiny nałoženjow, z kotrejž dźěłaće, wotstronić. Přez to so wono z grata abo simulatora njewotstroni.">
 <!ENTITY projects.updateApp "Aktualizować">
 <!ENTITY projects.updateAppTooltip "Přepruwowanske testy wuwjesć a nałoženje na zwjazanym graće aktualizować">
-<!ENTITY projects.debugApp "Zmylki pytać">
+
 <!ENTITY projects.debugAppTooltip "Wuwiwarske nastroje wočinić, kotrež su z tutym nałoženjom zwjazane">
-<!ENTITY projects.saveManifest "Składować">
+
 <!ENTITY projects.saveManifestTooltip "Wobsah manifestoweho editora deleka składować">
 <!ENTITY projects.hostedManifestPlaceHolder2 "http://example.com/app/manifest.webapp">
 <!ENTITY projects.noProjects "Žane projekty. Přidajće deleka nowe zapakowane nałoženje (jako lokalny rjadowak) abo nałoženje w interneće (wotkaz k manifestowej dataji).">
@@ -92,7 +92,6 @@
 <!ENTITY projects.hosted "Hostowany">
 <!ENTITY projects.packaged "Zapakowany">
 
-<!ENTITY help.title "Zrjadowak nałoženjow">
 <!ENTITY help.close "Začinić">
 <!ENTITY help.intro "Tutón nastroj budźe wam pomhać, webnałoženja na kompatibelnych gratach tworić a instalować (t.r. Firefox OS). Rajtark <strong>Nałoženja</strong> budźe was za walidowanski a instalowanski proces wašeho nałoženja podpěrować. Rajtark <strong>Grat</strong> da wam informacije wo zwjazanym graće. Wužijće delnju symbolowu lajstu, zo byšće z gratom zwjazał abo simulator startował.">
 <!ENTITY help.usefullLinks "Wužitne wotkazy:">
