@@ -33,6 +33,10 @@
 <!ENTITY pref.default_task_offset_start.label "Relatívna k začiatku">
 <!ENTITY pref.default_task_offset_next_hour.label "Relatívna k nasledujúcej hodine">
 
+<!ENTITY pref.calendar.todaypane.agenda.caption "Panel Dnes">
+<!ENTITY pref.soondays.label "V sekcii Nadchádzajúce zobrazovať:">
+<!ENTITY pref.soondays.accesskey "N">
+
 <!ENTITY pref.accessibility.label "Zjednodušenie ovládania" >
 <!ENTITY pref.systemcolors.label "Optimalizovať farby pre zjednodušenie ovládania" >
 <!ENTITY pref.systemcolors.accesskey "O">
