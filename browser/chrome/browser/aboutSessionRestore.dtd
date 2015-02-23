@@ -13,11 +13,10 @@
 <!ENTITY restorepage.startNew       "Nabigatze-saio berria abiatzen">
 
 <!ENTITY restorepage.tryagainButton "Berreskuratu">
-<!ENTITY restorepage.restore.access "R">
-<!ENTITY restorepage.closeButton    "Itxi">
-<!ENTITY restorepage.close.access   "I">
 
-<!ENTITY restorepage.restoreHeader  "Berreskuratu">
+<!ENTITY restorepage.closeButton    "Itxi">
+
+
 <!ENTITY restorepage.listHeader     "Leihoak eta fitxak">
 <!-- LOCALIZATION NOTE: &#37;S will be replaced with a number. -->
 <!ENTITY restorepage.windowLabel    "&#037;S leihoa">
@@ -27,11 +26,10 @@
 
 
 <!ENTITY welcomeback2.restoreButton  "Aurrera!">
-<!ENTITY welcomeback2.restoreButton.access "A">
+
 
 <!ENTITY welcomeback2.tabtitle      "Ongi!">
 
-<!ENTITY welcomeback2.pageTitle     "Ongi!">
 <!ENTITY welcomeback2.pageInfo1     "&brandShortName; erabiltzeko prest dago.">
 
 <!ENTITY welcomeback2.label.restoreAll  "Berreskuratu leiho eta fitxa guztiak">
