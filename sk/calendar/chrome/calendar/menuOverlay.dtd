@@ -18,8 +18,16 @@
 <!ENTITY calendar.publish.label                 "Publikovať…">
 <!ENTITY calendar.publish.accesskey             "b">
 
-<!ENTITY calendar.deletecalendar.label          "Odstrániť označený kalendár…">
-<!ENTITY calendar.deletecalendar.accesskey      "O">
+<!ENTITY calendar.deletecalendar.label          "Vymazať označený kalendár…">
+<!ENTITY calendar.deletecalendar.accesskey      "m">
+<!ENTITY calendar.unsubscribecalendar.label     "Odhlásiť odber označeného kalendára…">
+<!ENTITY calendar.unsubscribecalendar.accesskey "h">
+
+<!-- LOCALIZATION NOTE (calendar.removecalendar.label): Removing the calendar
+      is the general action of removing it, while deleting means to clear the
+      data and unsubscribing means just taking it out of the calendar list. -->
+<!ENTITY calendar.removecalendar.label          "Odstrániť označený kalendár…">
+<!ENTITY calendar.removecalendar.accesskey      "d">
 
 <!ENTITY calendar.menu.customize.label          "Prispôsobiť…">
 <!ENTITY calendar.menu.customize.accesskey      "P">
