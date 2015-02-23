@@ -140,14 +140,14 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksMenu.accesskey "T">
 <!ENTITY bookmarkThisPageCmd.label "Gosod Nod Tudalen i'r Dudalen">
 <!ENTITY editThisBookmarkCmd.label "Golygu'r Nod Tudalen">
-
-
+<!ENTITY bookmarkThisPageCmd.commandkey "o">
+<!ENTITY markPageCmd.commandkey "l">
 <!-- LOCALIZATION NOTE (findShareServices.label):
   -  Use the unicode ellipsis char, \u2026,
   -  or use "..." if \u2026 doesn't suit traditions in your locale. -->
 <!ENTITY findShareServices.label "Canfod gwasanaethau Rhannu pellach…">
 <!ENTITY sharePageCmd.label "Rhannu'r Dudalen Hon">
-
+<!ENTITY sharePageCmd.commandkey "R">
 <!ENTITY sharePageCmd.accesskey "R">
 <!-- LOCALIZATION NOTE (shareLink.accesskey): must be different than the following share access keys -->
 <!ENTITY shareLink.label "Rhannu'r Ddolen Hon">
@@ -175,7 +175,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY reloadCmd.label              "Ail-lwytho">
 <!ENTITY reloadButton.tooltip         "Ail-lwytho'r dudalen gyfredol">
 <!ENTITY stopCmd.label                "Atal">
-
+<!ENTITY stopCmd.macCommandKey        ".">
 <!ENTITY stopButton.tooltip           "Atal llwytho'r dudalen">
 <!ENTITY goEndCap.tooltip             "Mynd i'r cyfeiriad yn y Bar Lleoliad">
 <!ENTITY printButton.label            "Argraffu">
@@ -245,7 +245,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY responsiveDesignTool.label   "Golwg Cynllun Ymatebol">
 <!ENTITY responsiveDesignTool.accesskey "Y">
-
+<!ENTITY responsiveDesignTool.commandkey "Y">
 
 <!ENTITY eyedropper.label   "Dewisydd">
 <!ENTITY eyedropper.accesskey "D">
@@ -288,7 +288,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY devToolbar.keytext                "F2">
 <!ENTITY devToolboxMenuItem.label          "Offer Toglo">
 <!ENTITY devToolboxMenuItem.accesskey      "O">
-
+<!ENTITY devToolboxMenuItem.keytext        "l">
 
 <!ENTITY devToolbarToolsButton.tooltip     "Toglo offer datblygu">
 <!ENTITY devToolbarOtherToolsButton.label  "Rhagor o Offer">
@@ -299,7 +299,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fileMenu.label         "Ffeil"> 
 <!ENTITY fileMenu.accesskey       "F">
 <!ENTITY newNavigatorCmd.label        "Ffenestr Newydd">
-
+<!ENTITY newNavigatorCmd.key        "N">
 <!ENTITY newNavigatorCmd.accesskey      "N">
 <!ENTITY newPrivateWindow.label     "Ffenestr Breifat Newydd">
 <!ENTITY newPrivateWindow.accesskey "B">
@@ -307,22 +307,22 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY editMenu.label         "Golygu"> 
 <!ENTITY editMenu.accesskey       "G"> 
 <!ENTITY undoCmd.label            "Dadwneud">  
-
+<!ENTITY undoCmd.key            "Z">  
 <!ENTITY undoCmd.accesskey          "w"> 
 <!ENTITY redoCmd.label            "Ailwneud">  
-
+<!ENTITY redoCmd.key            "Y">  
 <!ENTITY redoCmd.accesskey          "A"> 
 <!ENTITY cutCmd.label           "Torri">  
-
+<!ENTITY cutCmd.key             "X">  
 <!ENTITY cutCmd.accesskey         "T"> 
 <!ENTITY copyCmd.label            "Copïo">  
-
+<!ENTITY copyCmd.key            "C">  
 <!ENTITY copyCmd.accesskey          "C"> 
 <!ENTITY pasteCmd.label           "Gludo">  
-
+<!ENTITY pasteCmd.key           "V">  
 <!ENTITY pasteCmd.accesskey         "G"> 
 <!ENTITY deleteCmd.label          "Dileu">  
-
+<!ENTITY deleteCmd.key            "D">  
 <!ENTITY deleteCmd.accesskey        "i"> 
 <!ENTITY selectAllCmd.label         "Dewis Popeth">  
 <!ENTITY selectAllCmd.key         "P">  
@@ -445,13 +445,14 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openFrameCmd.accesskey       "F">
 <!ENTITY showOnlyThisFrameCmd.label     "Dangos y Ffrâm yma'n Unig">
 <!ENTITY showOnlyThisFrameCmd.accesskey "D">
-
+<!ENTITY reloadCmd.commandkey         "A">
 <!ENTITY reloadFrameCmd.label         "Ail-lwytho'r Ffrâm">
 <!ENTITY reloadFrameCmd.accesskey     "A">
 <!ENTITY viewPartialSourceForSelectionCmd.label "Edrych ar Ffynhonnell y Dewis">
 <!ENTITY viewPartialSourceForMathMLCmd.label    "Edrych ar Ffynhonnell MathML">
 <!-- LOCALIZATION NOTE (viewPartialSourceCmd.accesskey): This accesskey is used for both 
          viewPartialSourceForSelectionCmd.label and viewPartialSourceForMathMLCmd.label -->
+<!ENTITY viewPartialSourceCmd.accesskey "E">
 <!ENTITY viewPageSourceCmd.label      "Edrych ar God Gwreiddiol y Dudalen">
 <!ENTITY viewPageSourceCmd.accesskey  "G">
 <!ENTITY viewFrameSourceCmd.label     "Edrych ar God Gwreiddiol y Ffrâm">
@@ -484,7 +485,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY savePageCmd.label            "Cadw Tudalen Fel…">
 <!ENTITY savePageCmd.accesskey        "C">
 <!-- alternate for content area context menu -->
-
+<!ENTITY savePageCmd.accesskey2       "T">
+<!ENTITY savePageCmd.commandkey       "c">
 <!ENTITY saveFrameCmd.label           "Cadw Ffrâm Fel…">
 <!ENTITY saveFrameCmd.accesskey       "F">
 <!ENTITY printFrameCmd.label          "Argraffu'r Ffrâm…">
@@ -579,13 +581,14 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY fullZoomEnlargeCmd.label       "Chwyddo Mewn">
 <!ENTITY fullZoomEnlargeCmd.accesskey   "M">
-
+<!ENTITY fullZoomEnlargeCmd.commandkey  "+">
 <!-- + is above this key on many keyboards -->
+<!ENTITY fullZoomEnlargeCmd.commandkey2 "="> 
 <!ENTITY fullZoomEnlargeCmd.commandkey3 "">
 
 <!ENTITY fullZoomReduceCmd.label        "Chwyddo Allan">
 <!ENTITY fullZoomReduceCmd.accesskey    "A">
-
+<!ENTITY fullZoomReduceCmd.commandkey   "-">
 <!ENTITY fullZoomReduceCmd.commandkey2  "">
 
 <!ENTITY fullZoomResetCmd.label         "Ailosod">
@@ -641,19 +644,19 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY findOnCmd.label     "Canfod yn y Dudalen…">
 <!ENTITY findOnCmd.accesskey "a">
-
+<!ENTITY findOnCmd.commandkey "f">
 <!ENTITY findAgainCmd.label  "Canfod Eto">
 <!ENTITY findAgainCmd.accesskey "E">
-
+<!ENTITY findAgainCmd.commandkey "e">
 <!ENTITY findAgainCmd.commandkey2 "VK_F3">
-
+<!ENTITY findSelectionCmd.commandkey "a">
 
 <!ENTITY spellAddDictionaries.label "Ychwanegu Geiriaduron…">
 <!ENTITY spellAddDictionaries.accesskey "G">
 
 <!ENTITY editBookmark.done.label                     "Gorffen">
 <!ENTITY editBookmark.cancel.label                   "Diddymu">
-
+<!ENTITY editBookmark.removeBookmark.accessKey       "T">
 
 <!ENTITY identity.unverifiedsite2 "Nid yw'r wefan yn darparu gwybodaeth hunaniaeth.">
 <!ENTITY identity.connectedTo "Rydych wedi cysylltu â">
@@ -689,7 +692,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY syncBrand.shortName.label    "Sync">
 
 <!ENTITY syncSetup.label              "Gosod &syncBrand.shortName.label;…">
-
+<!ENTITY syncSetup.accesskey          "Y">
 <!ENTITY syncSyncNowItem.label        "Cydweddu Nawr">
 <!ENTITY syncSyncNowItem.accesskey    "y">
 <!ENTITY syncReAuthItem.label         "Ail gysylltu i &syncBrand.shortName.label;…">
@@ -733,11 +736,12 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY customizeMode.lwthemes.myThemes "Fy Thema">
 <!ENTITY customizeMode.lwthemes.recommended "Cymeradwy">
 <!ENTITY customizeMode.lwthemes.menuManage "Rheoli">
-
+<!ENTITY customizeMode.lwthemes.menuManage.accessKey "R">
 <!ENTITY customizeMode.lwthemes.menuGetMore "Estyn Rhagor o Themâu">
-
+<!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "E">
 <!ENTITY customizeMode.deveditionTheme.label2 "Defnyddio Thema Datblygwyr">
 
+<!ENTITY social.chatBar.commandkey "s">
 <!ENTITY social.chatBar.label "Canolbwynt sgyrsiau">
 <!ENTITY social.chatBar.accesskey "a">
 
