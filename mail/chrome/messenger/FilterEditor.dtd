@@ -25,8 +25,8 @@
 <!ENTITY contextAfterCls.label "Filtriraj po razvrščanju neželene pošte">
 <!ENTITY contextOutgoing.label "po pošiljanju">
 <!ENTITY contextOutgoing.accesskey "š">
-<!ENTITY contextArchive.label "Arhiviranje">
-<!ENTITY contextArchive.accesskey "A">
+<!ENTITY contextArchive.label "ob arhiviranju">
+<!ENTITY contextArchive.accesskey "a">
 
 <!ENTITY filterActionDesc.label "Izvedi ta dejanja:">
 <!ENTITY filterActionDesc.accesskey "z">
