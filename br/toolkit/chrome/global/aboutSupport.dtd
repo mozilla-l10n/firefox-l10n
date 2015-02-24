@@ -33,9 +33,9 @@ This is likely the same like id.heading in crashes.dtd. -->
 <!ENTITY aboutSupport.appBasicsTitle "Arventennoù diazez an arload">
 <!ENTITY aboutSupport.appBasicsName "Anv">
 <!ENTITY aboutSupport.appBasicsVersion "Handelv">
-<!-- LOCALIZATION NOTE (aboutSupport.appBasicsUpdateHistory, aboutSupport.appBasicsShowUpdateHistory):
-"Update" is a noun here, not a verb. -->
 
+<!-- LOCALIZATION NOTE (aboutSupport.appBasicsUpdateChannel, aboutSupport.appBasicsUpdateHistory, aboutSupport.appBasicsShowUpdateHistory):
+"Update" is a noun here, not a verb. -->
 <!ENTITY aboutSupport.appBasicsUpdateHistory "Roll istor an hizivadurioù">
 <!ENTITY aboutSupport.appBasicsShowUpdateHistory "Diskouez roll istor an hizivadurioù">
 
@@ -91,3 +91,5 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.copyRawDataToClipboard.label "Eilañ ar roadenn diaoz er golver">
 
 <!ENTITY aboutSupport.sandboxTitle "Bailh traezh">
+
+

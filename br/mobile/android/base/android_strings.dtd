@@ -6,8 +6,7 @@
 <!ENTITY  no_space_to_start_error "N\u0027eus ket plas a-walc\u0027h war ar gantenn evit loc\u0027hañ &brandShortName;.">
 <!ENTITY  error_loading_file "Degouezhet ez eus bet ur fazi e-pad ma oa o klask pellgargañ restroù azgoulennet da loc\u0027hañ &brandShortName;">
 
-<!ENTITY  onboard_start_message "Donemat e &brandShortName;">
-<!ENTITY  onboard_start_subtext "Ergrafet evidoc\u0027h, ho puhez prevez hag ar Web digor">
+
 <!ENTITY  onboard_start_button_account "Kennaskañ ouzh &brandShortName;">
 <!ENTITY  onboard_start_button_browser "Krog da verdeiñ">
 <!-- Localization note: These are used as the titles of different pages on the home screen.
@@ -112,7 +111,7 @@
 
 <!ENTITY overlay_share_send_tab_btn_label "Kas d\u0027un drobarzhell all">
 <!ENTITY overlay_share_no_url "Ere ebet bet kavet evit ar rannadur-mañ.">
-<!ENTITY overlay_share_retry "Klask en-dro">
+
 <!ENTITY overlay_share_select_device "Diuzañ un drobarzhell">
 
 <!ENTITY pref_category_search3 "Klask">
@@ -214,6 +213,8 @@ size. -->
 <!ENTITY pref_media_autoplay_enabled "Aotre al lenn emgefreek">
 <!ENTITY pref_media_autoplay_enabled_summary "Mestroniañ lenn emgefreek ar videoioù ha ar mediaoù all gant al lec\u0027hiennoù ">
 
+
+
 <!ENTITY pref_use_master_password "Arverañ ar ger-tremen mestr">
 <!ENTITY pref_sync "Goubred">
 <!ENTITY pref_sync_summary "En em gennaskit evit goubredañ hoc\u0027h ivinelloù, ho sinedoù, ho kerioù-tremen hag ouzhpenn c\u0027hoazh.">
@@ -269,12 +270,12 @@ size. -->
      (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
 <!ENTITY datareporting_crashreporter_title_short "Daneveller sac\u0027hadenn">
 <!ENTITY datareporting_wifi_title2 "Gwazerezh spislec\u0027hiañ &vendorShortName;">
-<!ENTITY datareporting_wifi_geolocation_summary2 "Degemer a ra roadennoù spislec\u0027hiañ dre Wi-Fi hag ar pellgomzerioù hezoug pa\u0027z emañ o labourat en drekleur ha rannañ a ra anezho gant &vendorShortName; da wellaat hor gwazerezh spislec\u0027hiañ">
+
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
      actual notification that an update is available. -->
 <!ENTITY pref_update_autodownload2 "Pellgargañ hizivadennoù ent-emgefreek">
-<!ENTITY pref_update_autodownload_wifi "Dre wi-fi nemetken">
+<!ENTITY pref_update_autodownload_wifi "Dre Wi-Fi nemetken">
 <!ENTITY pref_update_autodownload_never "Morse">
 <!ENTITY pref_update_autodownload_always "Atav">
 <!-- Localization note (help_menu) : This string is used in the main menu-->
@@ -530,7 +531,7 @@ diouzh Android">
 <!ENTITY updater_downloading_select2 "Stekiñ da arloañ an hizivadenn ur wech pellgarget">
 <!ENTITY updater_downloading_retry2 "Stekiñ da glask en-dro">
 
-<!ENTITY updater_apply_title2 "Hegerz ez eus un hizivadenn evit  &brandShortName;">
+<!ENTITY updater_apply_title2 "Hegerz ez eus un hizivadenn evit &brandShortName;">
 <!ENTITY updater_apply_select2 "Stekiñ da hizivaat">
 <!-- Guest mode -->
 
@@ -558,6 +559,11 @@ diouzh Android">
 
 <!ENTITY actionbar_menu "Lañser">
 <!ENTITY actionbar_done "Graet">
+<!-- Voice search in the awesome bar -->
+
+
+
+
 <!-- Localization note (remote_tabs_last_synced): the variable is replaced by a
      "relative time span string" produced by Android.  This string describes the
      time the tabs were last synced relative to the current time; examples
@@ -566,6 +572,7 @@ diouzh Android">
      their desktop or laptop.-->
 
 <!ENTITY remote_tabs_last_synced "Goubredañ diwezhañ : &formatS;">
+<!-- Localization note: Used when the sync has not happend yet, showed in place of a date -->
 <!-- Find-In-Page strings -->
 <!-- LOCALIZATION NOTE (find_matchcase): This is meant to appear as an icon that changes color
      if match-case is activated. i.e. No more than two letters, one uppercase, one lowercase. -->

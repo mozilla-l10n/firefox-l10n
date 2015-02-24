@@ -122,11 +122,7 @@ functionality specific to firefox. -->
 <!ENTITY remoteXUL.title "XUL a-bell">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Mar plij, kit e darempred gant perc'henned al lec'hienn evit kelaouiñ anezho diwar-benn ar gudenn-mañ.</li></ul></p>">
 
-<!ENTITY oldSecurityProtocol.title "N'haller ket kennaskañ outi ent diarvar">
-<!-- LOCALIZATION NOTE (oldSecurityProtocol.longDesc) - Do not translate the
-     <span id='hostname'></span>. -->
-<!ENTITY oldSecurityProtocol.longDesc2 "&brandShortName; n'eo ket gouest da warantiñ diogelroez ho roadennoù war <span id='hostname'></span>rak SSLv3 a arver, ur c'homenad diogelroez torr.">
-<!-- LOCALIZATION NOTE (oldSecurityProtocol.advancedInfo) - Do not translate
-     the <span id='errorcode'></span>. -->
-<!ENTITY oldSecurityProtocol.advancedInfo "Titouroù kempleshoc'h : <span id='errorcode'></span>">
-<!ENTITY oldSecurityProtocol.learnMore "Gouzout hiroc'h…">
+<!ENTITY sslv3Used.title "N'haller ket kennaskañ outi ent diarvar">
+<!-- LOCALIZATION NOTE (sslv3Used.longDesc) - Do not translate
+     "ssl_error_unsupported_version". -->
+<!ENTITY sslv3Used.learnMore "Gouzout hiroc'h…">

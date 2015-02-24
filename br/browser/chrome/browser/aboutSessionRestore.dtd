@@ -13,11 +13,10 @@
 <!ENTITY restorepage.startNew       "Kregiñ gant un estez nevez a-grenn">
 
 <!ENTITY restorepage.tryagainButton "Assav">
-<!ENTITY restorepage.restore.access "A">
-<!ENTITY restorepage.closeButton    "Serriñ">
-<!ENTITY restorepage.close.access   "S">
 
-<!ENTITY restorepage.restoreHeader  "Assav">
+<!ENTITY restorepage.closeButton    "Serriñ">
+
+
 <!ENTITY restorepage.listHeader     "Prenestroù hag ivinelloù">
 <!-- LOCALIZATION NOTE: &#37;S will be replaced with a number. -->
 <!ENTITY restorepage.windowLabel    "Prenestr &#037;S">
@@ -27,11 +26,10 @@
 
 
 <!ENTITY welcomeback2.restoreButton  "Bec'h dezhi !">
-<!ENTITY welcomeback2.restoreButton.access "L">
+
 
 <!ENTITY welcomeback2.tabtitle      "Taol berzh !">
 
-<!ENTITY welcomeback2.pageTitle     "Taol berzh !">
 <!ENTITY welcomeback2.pageInfo1     "Prest eo &brandShortName;">
 
 <!ENTITY welcomeback2.label.restoreAll  "Assav an holl brenestroù hag ivinelloù">
