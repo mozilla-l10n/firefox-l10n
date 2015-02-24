@@ -137,7 +137,7 @@
      it is applicable. -->
 <!ENTITY pref_search_hint "TIP: Tambah sebarang laman web kepada senarai penyedia carian anda dengan menekan lama pada medan carian kemudian sentuh ikon &formatI;.">
 <!ENTITY pref_category_devtools "Alatan pembangun">
-
+<!ENTITY pref_category_devtools_summary "Nyahpijat jarak jauh, cat berkelip">
 <!ENTITY pref_developer_paint_flashing "Paint flashing">
 <!ENTITY pref_developer_remotedebugging "Menyahpepijat jarak jauh">
 <!ENTITY pref_remember_signons "Ingat kata laluan">
@@ -159,33 +159,36 @@
 <!ENTITY pref_home_suggested_sites_summary "Pamerkan pintasan ke laman yang kami rasa menarik untuk anda pada laman utama anda.">
 <!-- Localization note: These are shown in the left sidebar on tablets -->
 
-
+<!ENTITY pref_header_customize "Penyesuaian">
+<!ENTITY pref_header_display "Paparan">
+<!ENTITY pref_header_privacy_short "Privasi">
 <!ENTITY pref_header_help "Bantuan">
-
-
-
+<!ENTITY pref_header_language "Bahasa">
+<!ENTITY pref_header_vendor "&vendorShortName;">
+<!ENTITY pref_header_devtools "Alatan pembangun">
 
 <!ENTITY pref_cookies_menu "Kuki">
-
+<!ENTITY pref_cookies_accept_all "Dibolehkan">
 <!ENTITY pref_cookies_not_accept_foreign "Dibolehkan, tidak termasuk pihak ke-3">
 <!ENTITY pref_cookies_disabled "Dilumpuhkan">
 
-
-
-
+<!ENTITY pref_tracking_protection_title "Perlindungan penjejakan">
+<!ENTITY pref_tracking_protection_summary "&brandShortName; akan menghalang laman dari menjejaki anda">
+<!ENTITY pref_donottrack_title "Jangan jejaki">
+<!ENTITY pref_donottrack_summary "&brandShortName; akan memberitahu laman yang anda tidak ingin dijejaki">
 
 <!ENTITY pref_char_encoding "Pengekodan aksara">
 <!ENTITY pref_char_encoding_on "Papar menu">
 <!ENTITY pref_char_encoding_off "Jangan papar menu">
 <!ENTITY pref_clear_private_data2 "Padam sekarang">
 <!ENTITY pref_clear_private_data_category "Bersihkan data peribadi">
-
+<!ENTITY pref_clear_on_exit_title2 "Lapangkan semasa keluar">
 <!ENTITY pref_clear_on_exit_summary2 "&brandShortName; akan memadam data anda secara automatik apabila anda memilih \u0022Berhenti\u0022 daripada menu utama">
 <!ENTITY pref_clear_on_exit_dialog_title "Pilih data yang ingin dipadam">
 <!ENTITY pref_plugins "Plugin">
-
+<!ENTITY pref_plugins_enabled "Dibolehkan">
 <!ENTITY pref_plugins_tap_to_play "Sentuh untuk main">
-
+<!ENTITY pref_plugins_disabled "Dilumpuhkan">
 <!ENTITY pref_text_size "Saiz teks">
 <!ENTITY pref_reflow_on_zoom4 "Atur semula teks">
 <!ENTITY pref_restore "Tab">
@@ -202,14 +205,16 @@
 same character/combination is used to increase the preview font size. It should be a concise
 representation of the language it is used in that will help show the text in the preview will change
 size. -->
+<!ENTITY pref_font_size_adjust_char "A">
 <!-- Localization note (pref_font_size_preview_text): This paragraph is used as an example to
     demonstrate the font size setting.  It is meant to be whimsical and fun. -->
 
 <!ENTITY pref_font_size_preview_text "Musang oren yang pantas melompat melebihi jangkaan anda dengan kelajuan yang lebih, lebih fleksibiliti dan lebih keselamatan. Sebagai organisasi tanpa untung, kami bebas untuk melakukan pembaharuan bagi pihak anda tanpa sebarang tekanan untuk berkompromi. Ini bermakna pengalaman yang lebih baik untuk anda dan masa depan yang lebih cerah untuk Web.">
 
-
-
-
+<!ENTITY pref_media_autoplay_enabled "Benarkan auto main">
+<!ENTITY pref_media_autoplay_enabled_summary "Kawal jika laman web boleh auto mainkan video dan kandungan media lain">
+<!ENTITY pref_zoom_force_enabled "Sentiasa bolehkan zum">
+<!ENTITY pref_zoom_force_enabled_summary "Paksa langkauan supaya anda boleh zum sebarang laman">
 
 <!ENTITY pref_use_master_password "Guna kata laluan induk">
 <!ENTITY pref_sync "Sync">
@@ -316,16 +321,16 @@ size. -->
 
 <!ENTITY contextmenu_open_new_tab "Buka di Tab Baru">
 <!ENTITY contextmenu_open_private_tab "Buka dalam Tab Persendirian">
-
+<!ENTITY contextmenu_remove "Singkir">
 <!ENTITY contextmenu_add_to_launcher "Tambah ke Skrin Utama">
-
+<!ENTITY contextmenu_share "Kongsi">
 <!ENTITY contextmenu_pasteandgo "Tampal &amp; Pergi">
 <!ENTITY contextmenu_paste "Tampal">
 <!ENTITY contextmenu_copyurl "Salin Alamat">
 <!ENTITY contextmenu_edit_bookmark "Sunting">
 <!ENTITY contextmenu_subscribe "Langgan ke Laman">
 <!ENTITY contextmenu_site_settings "Sunting Tetapan Laman">
-
+<!ENTITY contextmenu_top_sites_edit "Sunting">
 <!ENTITY contextmenu_top_sites_pin "Pin Laman">
 <!ENTITY contextmenu_top_sites_unpin "Nyahsemat Laman">
 <!ENTITY contextmenu_add_search_engine "Tambah Enjin Carian">
@@ -352,7 +357,7 @@ size. -->
      dialog that appears after selecting the "Edit Site Settings" context menu item. -->
 
 <!ENTITY site_settings_title3       "Tetapan Laman">
-
+<!ENTITY site_settings_cancel       "Batal">
 <!ENTITY site_settings_clear        "Bersih">
 <!ENTITY site_settings_no_settings  "Tiada tetapan untuk dibersihkan.">
 
@@ -362,6 +367,8 @@ size. -->
      panel on the home page to give the user an estimate of how many minutes it will take to
      read an article. The word "minute" should be abbreviated if possible. -->
 
+<!ENTITY reading_list_time_minutes2 "&formatD; min">
+<!ENTITY reading_list_time_over_an_hour "Melebihi satu jam">
 <!-- Localization note : These strings are used as alternate text for accessibility.
      They are not visible in the UI. -->
 
@@ -373,12 +380,12 @@ size. -->
 <!ENTITY masterpassword_confirm "Sahkan kata laluan">
 
 <!ENTITY button_ok "OK">
-
+<!ENTITY button_cancel "Batal">
 <!ENTITY button_yes "Ya">
 <!ENTITY button_no "Tidak">
 <!ENTITY button_clear_data "Bersihkan data">
-
-
+<!ENTITY button_set "Tetapkan">
+<!ENTITY button_clear "Lapang">
 
 <!ENTITY home_top_sites_title "Laman Web Popular">
 <!-- Localization note (home_top_sites_add): This string is used as placeholder
@@ -388,7 +395,7 @@ size. -->
      with the page title defined in aboutHome.dtd -->
 
 <!ENTITY home_title "&brandShortName; Utama">
-
+<!ENTITY home_history_title "Sejarah">
 <!ENTITY home_clear_history_button "Bersihkan sejarah pelayaran">
 <!ENTITY home_clear_history_confirm "Adakah anda pasti anda mahu memadam sejarah anda?">
 <!ENTITY home_bookmarks_empty "Penandabuku yang anda simpan dipaparkan di sini.">
@@ -432,16 +439,19 @@ size. -->
      title of a dialog; we expect more than one device. -->
 <!-- Localization note (home_remote_tabs_unhide_selected_devices) : This is
      the text of a button; we expect more than one device. -->
+<!ENTITY home_remote_tabs_unhide_selected_devices "Nyah sorok peranti dipilih">
 
 <!ENTITY private_browsing_title "Melungsur Secara Peribadi">
 <!ENTITY private_tabs_panel_empty_desc "Tab peribadi anda akan dipaparkan di sini. Walaupun kami tidak menyimpan sebarang sejarah pelayaran anda atau kuki, penanda buku dan fail yang anda muat turun masih akan disimpan pada peranti anda.">
 <!ENTITY private_tabs_panel_learn_more "Ingin ketahui lebih lanjut?">
 
-
-
+<!ENTITY remote_tabs_panel_moved_title "Di mana perginya tab saya?">
+<!ENTITY remote_tabs_panel_moved_desc "Kami telah memindahkan tab anda daripada peranti kepada panel pada laman utama anda yang dengan mudah dapat dicapai setiap kali anda membuka tab baru.">
+<!ENTITY remote_tabs_panel_moved_link "Bawa saya ke panel baru saya.">
 
 <!ENTITY pin_site_dialog_hint "Masukkan kata kunci carian">
 
+<!ENTITY filepicker_title "Pilih Fail">
 <!ENTITY filepicker_audio_title "Pilih atau rekod bunyi">
 <!ENTITY filepicker_image_title "Pilih atau ambil gambar">
 <!ENTITY filepicker_video_title "Pilih atau rekod video">
@@ -469,8 +479,10 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY blocked_mixed_content_message_bottom "Kebanyakan laman web akan masih berfungsi dengan baik walaupun kandungan ini disekat.">
 <!-- Tracking content notifications in site identity popup -->
 
-
-
+<!ENTITY loaded_tracking_content_message_top "Perlindungan penjejakan dilumpuhkan.">
+<!ENTITY loaded_tracking_content_message_bottom "Bahagian laman ini mungkin menjejaki aktiviti talian anda.">
+<!ENTITY blocked_tracking_content_message_top2 "Perlindungan penjejakan dibolehkan.">
+<!ENTITY blocked_tracking_content_message_bottom2 "Bahagian daripada laman ini yang menjejak aktiviti talian anda telah dilumpuhkan.">
 <!-- Common mixed and tracking content strings in site identity popup -->
 
 <!ENTITY learn_more "Ketahui Lanjut">
@@ -510,6 +522,7 @@ dari Android">
 <!ENTITY updater_downloading_select2 "Sentuh untuk memasang kemas kini sebaik sahaja dimuat turun">
 <!ENTITY updater_downloading_retry2 "Sentuh untuk cuba lagi">
 
+<!ENTITY updater_apply_title2 "Kemaskini tersedia untuk &brandShortName;">
 <!ENTITY updater_apply_select2 "Sentuh untuk kemas kini">
 <!-- Guest mode -->
 
@@ -534,8 +547,8 @@ dari Android">
 <!-- Voice search in the awesome bar -->
 
 
-
-
+<!ENTITY voicesearch_failed_message_recoverable "Maaf! Kami tidak dapat mengenali perkataan anda. Sila cuba lagi.">
+<!ENTITY voicesearch_failed_retry "Cuba lagi">
 <!-- Localization note (remote_tabs_last_synced): the variable is replaced by a
      "relative time span string" produced by Android.  This string describes the
      time the tabs were last synced relative to the current time; examples
@@ -545,6 +558,7 @@ dari Android">
 
 <!ENTITY remote_tabs_last_synced "Terakhir disync: &formatS;">
 <!-- Localization note: Used when the sync has not happend yet, showed in place of a date -->
+<!ENTITY remote_tabs_never_synced "Akhir disync: tiada">
 <!-- Find-In-Page strings -->
 <!-- LOCALIZATION NOTE (find_matchcase): This is meant to appear as an icon that changes color
      if match-case is activated. i.e. No more than two letters, one uppercase, one lowercase. -->

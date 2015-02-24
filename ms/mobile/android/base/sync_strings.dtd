@@ -172,7 +172,7 @@
 
 <!ENTITY fxaccount_confirm_account_verification_link_sent2 "Pengesahan email dihantar">
 <!ENTITY fxaccount_confirm_account_verification_link_not_sent2 "Tidak dapat menghantar email pengesahan">
-
+<!ENTITY fxaccount_resend_unlock_code_button_label "Hantar semula email nyahkunci">
 
 
 
