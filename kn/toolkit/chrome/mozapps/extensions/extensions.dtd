@@ -4,7 +4,7 @@
 <!ENTITY addons.windowTitle                   "ಆಡ್‌-ಆನ್‌ಗಳ ವ್ಯವಸ್ಥಾಪಕ">
 
 <!ENTITY search.placeholder                   "ಎಲ್ಲಾ ಆಡ್-ಆನ್‌ಗಳನ್ನು ಹುಡುಕು">
-
+<!ENTITY search.buttonlabel                   "ಹುಡುಕು">
 <!-- LOCALIZATION NOTE (search.commandKey):
      The search command key should match findOnCmd.commandkey from browser.dtd -->
 <!ENTITY search.commandkey                    "f">
@@ -36,6 +36,8 @@
 <!ENTITY info.plugincheck.label                 "ನಿಮ್ಮ ಪ್ಲಗ್‌ಇನ್‌ಗಳು ಅಪ್‌ ಟು ಡೇಟ್ ಆಗಿದ್ದಾವೆಯೆ ಎಂದು ಪರಿಶೀಲಿಸಿ">
 <!ENTITY info.plugincheck.tooltip               "ನಿಮ್ಮ ಪ್ಲಗ್‌ಇನ್‌ಗಳು ಅಪ್‌ ಟು ಡೇಟ್ ಆಗಿದ್ದಾವೆಯೆ ಎಂದು ಪರಿಶೀಲಿಸಿ">
 <!-- categories / views -->
+
+<!ENTITY view.search.label                    "ಹುಡುಕು">
 <!ENTITY view.discover.label                  "ಆಡ್-ಆನ್‌ಗಳನ್ನು ಪಡೆದುಕೊಳ್ಳಿ">
 <!ENTITY view.recentUpdates.label             "ಇತ್ತೀಚಿನ ಅಪ್‌ಡೇಟ್‌ಗಳು">
 <!ENTITY view.availableUpdates.label          "ಲಭ್ಯವಿರುವ ಅಪ್‌ಡೇಟ್‌ಗಳು">
@@ -228,3 +230,4 @@
 <!ENTITY experiment.info.changetelemetry "ಟೆಲಿಮೆಟ್ರಿ ಸಿದ್ಧತೆಗಳು">
 <!ENTITY experiment.info.changetelemetry.accesskey "T">
 
+<!ENTITY setting.learnmore "ಇನ್ನಷ್ಟು ತಿಳಿಯಿರಿ…">

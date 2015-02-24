@@ -35,9 +35,11 @@ This is likely the same like id.heading in crashes.dtd. -->
 <!ENTITY aboutSupport.appBasicsTitle "ಅನ್ವಯದ ಮೂಲತತ್ವಗಳು">
 <!ENTITY aboutSupport.appBasicsName "ಹೆಸರು">
 <!ENTITY aboutSupport.appBasicsVersion "ಆವೃತ್ತಿ">
-
+<!ENTITY aboutSupport.appBasicsBuildID "ನಿರ್ಮಿತಿ ID">
 <!-- LOCALIZATION NOTE (aboutSupport.appBasicsUpdateChannel, aboutSupport.appBasicsUpdateHistory, aboutSupport.appBasicsShowUpdateHistory):
 "Update" is a noun here, not a verb. -->
+
+<!ENTITY aboutSupport.appBasicsUpdateChannel "ಪರಿಷ್ಕರಿಸು ವಾಹಿನಿ">
 <!ENTITY aboutSupport.appBasicsUpdateHistory "ಅಪ್‌ಡೇಟ್‌ ಇತಿಹಾಸ">
 <!ENTITY aboutSupport.appBasicsShowUpdateHistory "ಅಪ್ಡೇಟ್ ಇತಿಹಾಸವನ್ನು ತೋರಿಸು">
 
@@ -94,4 +96,5 @@ variant of aboutSupport.showDir.label. -->
 
 <!ENTITY aboutSupport.sandboxTitle "ಪ್ರಯೋಗಶಾಲೆ">
 
-
+<!ENTITY aboutSupport.safeModeTitle "ಸುರಕ್ಷಾ ಸ್ಥಿತಿ ಪ್ರಯತ್ನಿಸಿ">
+<!ENTITY aboutSupport.restartInSafeMode.label "ಆಡ್‌-ಆನ್‌ಗಳನ್ನು ಅಶಕ್ತಗೊಳಿಸಿ ಆರಂಭಿಸು…">

@@ -46,8 +46,8 @@
 <!ENTITY profilerUI.toolbar.waterfall "ಕಾಲಾವಧಿ">
 <!ENTITY profilerUI.toolbar.js-calltree "ಜಾವಾಸ್ಕ್ರಿಪ್ಟ್‍">
 <!ENTITY profilerUI.toolbar.memory-calltree "ಮೆಮೊರಿ">
-
-
+<!ENTITY profilerUI.toolbar.js-flamegraph "ಜೆಎಸ್ ಪ್ಲೇಮ್ ನಕ್ಷೆ">
+<!ENTITY profilerUI.toolbar.memory-flamegraph "ಮೆಮರೊ ಪ್ಲೇಮ್ ನಕ್ಷೆ">
 <!-- LOCALIZATION NOTE (profilerUI.table.*): These strings are displayed
   -  in the call tree headers for a recording. -->
 
@@ -71,6 +71,8 @@
 <!-- LOCALIZATION NOTE (profilerUI.invertFlameGraph): This is the label shown next to
   -  a checkbox that inverts and un-inverts the profiler's flame graph. -->
 
+<!ENTITY profilerUI.invertFlameGraph             "ಉಲ್ಟಾ ಪ್ಲೇಮ್ ನಕ್ಷೆ">
+
 <!-- LOCALIZATION NOTE (profilerUI.showPlatformData): This is the
   -  label for the checkbox that toggles whether or not Gecko platform data
   -  is displayed in the profiler. -->
@@ -84,6 +86,8 @@
 <!-- LOCALIZATION NOTE (profilerUI.enableMemory): This string
   -  is displayed next to a checkbox determining whether or not memory
   -  measurements are enabled. -->
+
+<!ENTITY profilerUI.enableMemory             "ಮೆಮೊರಿ ಮುದ್ರಿಸಿ">
 
 <!-- LOCALIZATION NOTE (profilerUI.enableFramerate): This string
   -  is displayed next to a checkbox determining whether or not framerate
