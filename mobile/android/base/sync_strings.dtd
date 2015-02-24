@@ -150,8 +150,8 @@
 
 <!ENTITY fxaccount_create_account_header2 "ಫೈರ್ ಫಾಕ್ಸ್ ಖಾತೆಯನ್ನು ರಚಿಸಿ">
 <!ENTITY fxaccount_create_account_password_length_restriction "ಕನಿಷ್ಟ 8 ಅಕ್ಷರಗಳನ್ನು ಹೊಂದಿರಬೇಕು">
-
-
+<!ENTITY fxaccount_create_account_day_of_birth "ದಿನ">
+<!ENTITY fxaccount_create_account_month_of_birth "ತಿಂಗಳು">
 <!ENTITY fxaccount_create_account_year_of_birth "ಹುಟ್ಟಿದ ವರ್ಷ">
 <!-- Localization note: &formatS1; is fxaccount_policy_linktos, &formatS2; is fxaccount_policy_linkprivacy, both hyperlinked. -->
 <!ENTITY fxaccount_create_account_policy_text2 "ಮುಂದುವರೆಯುವುದರಿಂದ, ನಾನು ಫೈರ್ಫಾಕ್ಸ್ ಅಂತರ್ಜಾಲ ಸೇವೆಗಳ &formatS1; ಮತ್ತು &formatS2; ಅನ್ನು ಒಪ್ಪಿಕೊಳ್ಳುತ್ತೇನೆ.">
@@ -193,7 +193,7 @@
 
 <!ENTITY fxaccount_finish_migrating_header "ಅಪ್ಗ್ರೇಡ್ ಮುಗಿಸಲು ಸೈನ್‌ಇನ್ ಮಾಡಿ">
 <!ENTITY fxaccount_finish_migrating_button_label "ಅಪ್ಗ್ರೇಡ್ ಮುಗಿಸು">
-
+<!ENTITY fxaccount_finish_migrating_description "ಅಪ್‌ಗ್ರೇಡ್ ಬಹಳಷ್ಟು ಡೇಟಾ ವರ್ಗಾವಣೆ ಮಾಡಬಹುದು. WiFi ನೆಟ್‌ವರ್ಕ್‌ನಲ್ಲಿದ್ದರೆ ಉತ್ತಮ.">
 
 <!ENTITY fxaccount_status_header2 "ಫೈರ್ಫಾಕ್ಸ್ ಖಾತೆ">
 <!ENTITY fxaccount_status_signed_in_as "ಆಗಿ ಪ್ರವೇಶಿಸಲಾಗಿದೆ">
