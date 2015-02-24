@@ -84,7 +84,7 @@
 
 <!ENTITY accountTitle.label "Nastavitve računa">
 <!ENTITY accountSettingsDesc.label "Naslednje je račun posebne vrste.  Z njim ni povezana nobena identiteta.">
-
-
-
-
+<!ENTITY storeType.label "Vrsta shrambe sporočil:">
+<!ENTITY storeType.accesskey "V">
+<!ENTITY mboxStore.label "Ena velika datoteka (mbox)">
+<!ENTITY maildirStore.label "Ena datoteka na sporočilo (maildir)">

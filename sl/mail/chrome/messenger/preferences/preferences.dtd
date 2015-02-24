@@ -19,4 +19,5 @@
 <!ENTITY paneAdvanced.title       "Napredno">
 <!ENTITY paneAccount.title        "Računi">
 
-
+<!ENTITY okButton.title           "V redu">
+<!ENTITY okButton.accesskey       "V">
