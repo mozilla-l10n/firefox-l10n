@@ -14,10 +14,10 @@
                        for the help button in the menubar but Gnome does not.   -->
 <!ENTITY helpMenuWin.label        "Pomoc"> 
 <!ENTITY helpMenuWin.accesskey    "P">
-<!ENTITY aboutProduct.label       "Wó &brandShortName;">
-<!ENTITY aboutProduct.accesskey   "W">
-<!ENTITY productHelp.label        "&brandShortName; - Pomoc">
-<!ENTITY productHelp.accesskey    "m">
+
+
+
+
 <!ENTITY helpMac.commandkey       "?">
 
 <!ENTITY helpKeyboardShortcuts.label     "Tastowe skrotconki">
@@ -26,8 +26,7 @@
 <!ENTITY helpSafeMode.label       "Ze znjemóžnjonymi dodankami znowego startowaś…">
 <!ENTITY helpSafeMode.accesskey   "Z">
 
-<!ENTITY healthReport.label       "&brandShortName; - Statusowa rozpšawa">
-<!ENTITY healthReport.accesskey   "S">
+
 
 <!ENTITY helpTroubleshootingInfo.label      "Informacije wó rozwězanju problemow">
 <!ENTITY helpTroubleshootingInfo.accesskey  "I">
@@ -35,16 +34,14 @@
 <!ENTITY helpFeedbackPage.label      "Pósudk pósłaś…">
 <!ENTITY helpFeedbackPage.accesskey  "P">
 
-<!ENTITY helpShowTour.label             "&brandShortName; - tura">
-<!ENTITY helpShowTour.accesskey         "t">
+
 
 <!ENTITY preferencesCmdMac.label        "Nastajenja…">
 <!ENTITY preferencesCmdMac.commandkey   ",">
 
 <!ENTITY servicesMenuMac.label          "Słužby">
 
-<!ENTITY hideThisAppCmdMac.label        "&brandShortName; schowaś">
-<!ENTITY hideThisAppCmdMac.commandkey   "H">
+
 
 <!ENTITY hideOtherAppsCmdMac.label      "Druge schowaś">
 <!ENTITY hideOtherAppsCmdMac.commandkey "H">

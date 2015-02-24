@@ -3,20 +3,21 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY itemGeneral.label       "Powškny">
+
 <!ENTITY itemDisplay.label       "Cytanje a zwobraznjenje">
 <!ENTITY itemUpdate.label        "Aktualizacija">
 <!ENTITY itemNetworking.label    "Seś a platowy rum">
 <!ENTITY itemCertificates.label  "Certifikaty">
 <!-- General Settings -->
 
-
-<!ENTITY submitTelemetry.label         "Wugbaśowe daty wótpósłaś">
-<!ENTITY submitTelemetry.accesskey     "u">
-<!ENTITY telemetryInfoLink.label       "Dalšne informacije wó telemetriji">
 <!ENTITY enableGlodaSearch.label       "Globalne pytanje a indicěrowanje zmóžniś">
 <!ENTITY enableGlodaSearch.accesskey   "G">
 <!ENTITY allowHWAccel.label            "Hardwarowe póspěšenje wužywaś, jolic jo k dispoziciji">
 <!ENTITY allowHWAccel.accesskey        "h">
+
+
+
+
 
 <!ENTITY scrolling.label               "Pśesuwanje">
 <!ENTITY useAutoScroll.label           "Awtomatiske pśesuwanje wužywaś">
@@ -37,6 +38,16 @@
 <!ENTITY returnReceiptsInfo.label      "Póstajiś, kak &brandShortName; ma z wobtwarźenjami dostaśa wobchadaś">
 <!ENTITY showReturnReceipts.label      "Wobtwarźenja dostaśa…">
 <!ENTITY showReturnReceipts.accesskey  "t">
+<!-- Data Choices -->
+
+
+
+
+
+
+
+
+
 <!-- Display and Reading Settings -->
 
 <!ENTITY reading.caption               "Cytanje">

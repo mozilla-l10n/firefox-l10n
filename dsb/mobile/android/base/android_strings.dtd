@@ -6,8 +6,8 @@
 <!ENTITY  no_space_to_start_error "Njejo dosć ruma k dispoziciji, aby &brandShortName; startowało.">
 <!ENTITY  error_loading_file "Pśi wopyśe datajow zacytowaś, kótarež su trěbne za funkcioněrowanje &brandShortName;, jo zmólka nastała">
 
-<!ENTITY  onboard_start_message "Witajśo do &brandShortName;!">
-<!ENTITY  onboard_start_subtext "Wam, wašej priwatnosći a wótwórjonemu weboju zawězany">
+<!ENTITY  onboard_start_message2 "Witajśo do &brandShortName;">
+<!ENTITY  onboard_start_subtext2 "Wěcej funkcijow priwatnosći a móžnosćow pśiměrjenja ako do togo.">
 <!ENTITY  onboard_start_button_account "Pla &brandShortName; pśizjawiś">
 <!ENTITY  onboard_start_button_browser "Pśeglědowanje startowaś">
 <!-- Localization note: These are used as the titles of different pages on the home screen.
@@ -213,6 +213,8 @@ size. -->
 
 <!ENTITY pref_media_autoplay_enabled "Awtomatiske wógraśe dowóliś">
 <!ENTITY pref_media_autoplay_enabled_summary "Kontrolěrowaś, lěc websedła mógu wideo a drugi medijowe wopśimjeśe automatiski wótgras.">
+<!ENTITY pref_zoom_force_enabled "Skalěrowanje pśecej zmóžniś">
+<!ENTITY pref_zoom_force_enabled_summary "Wunuźćo pśepisanje, aby mógał kuždy bok skalěrowaś">
 
 <!ENTITY pref_use_master_password "Głowne gronidło wužywaś">
 <!ENTITY pref_sync "Snychronizěrowaś">
@@ -269,7 +271,7 @@ size. -->
      (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
 <!ENTITY datareporting_crashreporter_title_short "Wowaleński rozpšawjak">
 <!ENTITY datareporting_wifi_title2 "Stojnišćowa słužba &vendorShortName;">
-<!ENTITY datareporting_wifi_geolocation_summary2 "Źěli pśibližne WLAN-stojnišćo a stojnišćo mobilnego telefona wašogo rěda z &vendorShortName;, aby se naša słužba za póstajenje stojnišća pólěpšyła">
+<!ENTITY datareporting_wifi_geolocation_summary3 "Pomagajśo &vendorShortName; swět kartografěrowaś! Źělśo pśibližne WLAN-stojnišćo a stojnišćo mobilnego telefona swójogo rěda, aby našu słužbu za póstajenje stojnišćow pólěpšył">
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
      actual notification that an update is available. -->
@@ -558,6 +560,13 @@ z Androida">
 
 <!ENTITY actionbar_menu "Meni">
 <!ENTITY actionbar_done "Gótowo">
+<!-- Voice search in the awesome bar -->
+
+<!ENTITY voicesearch_prompt "Něnto powědaś">
+<!ENTITY voicesearch_failed_title "&brandShortName; - powědane pytanje">
+<!ENTITY voicesearch_failed_message "Rowno jo problem z powědanym pytanim nastał. Pšosym wopytajśo pózdźej.">
+<!ENTITY voicesearch_failed_message_recoverable "Jo nam luto! Njejsmy mógli waše słowa spóznaś. Pšosym wopytajśo hyšći raz.">
+<!ENTITY voicesearch_failed_retry "Hyšći raz wopytaś">
 <!-- Localization note (remote_tabs_last_synced): the variable is replaced by a
      "relative time span string" produced by Android.  This string describes the
      time the tabs were last synced relative to the current time; examples
@@ -566,6 +575,8 @@ z Androida">
      their desktop or laptop.-->
 
 <!ENTITY remote_tabs_last_synced "Slědny raz synchronizěrowany: &formatS;">
+<!-- Localization note: Used when the sync has not happend yet, showed in place of a date -->
+<!ENTITY remote_tabs_never_synced "Slědny raz synchronizěrowany: nigda">
 <!-- Find-In-Page strings -->
 <!-- LOCALIZATION NOTE (find_matchcase): This is meant to appear as an icon that changes color
      if match-case is activated. i.e. No more than two letters, one uppercase, one lowercase. -->
