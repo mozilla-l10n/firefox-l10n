@@ -193,7 +193,7 @@
 
 <!ENTITY fxaccount_finish_migrating_header "Logga in för att slutföra uppgradering">
 <!ENTITY fxaccount_finish_migrating_button_label "slutför uppgradering">
-
+<!ENTITY fxaccount_finish_migrating_description "Uppgraderingen kan överföra mycket data. Det är bäst om man är uppkopplad till ett WiFi nätverk.">
 
 <!ENTITY fxaccount_status_header2 "Firefox-konto">
 <!ENTITY fxaccount_status_signed_in_as "Inloggad som">
