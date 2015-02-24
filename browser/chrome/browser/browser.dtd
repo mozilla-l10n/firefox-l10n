@@ -757,13 +757,13 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY getUserMedia.selectCamera.accesskey "ម">
 <!ENTITY getUserMedia.selectMicrophone.label "មីក្រូហ្វូន​ដែល​ត្រូវ​ចែករំលែក៖">
 <!ENTITY getUserMedia.selectMicrophone.accesskey "ម">
-<!ENTITY getUserMedia.allWindowsShared.message "វីនដូ​​ដែល​អាច​មើល​ឃើញ​ទាំងអស់​នៅ​លើ​អេក្រង់​របស់​អ្នក​នឹង​ត្រូវ​បាន​ចែករំលែក។">
+<!ENTITY getUserMedia.allWindowsShared.message "បង្អួច​ទាំងអស់​​ដែល​អាច​មើល​ឃើញ​នៅ​លើ​អេក្រង់​របស់​អ្នក​នឹង​ត្រូវ​បាន​ចែករំលែក។">
 <!-- Bad Content Blocker Doorhanger Notification -->
 
-<!ENTITY badContentBlocked.moreinfo "តំបន់បណ្ដាញ​ភាគច្រើន​នឹង​នៅតែ​ដំណើរការ​ជា​ធម្មតា ទោះបីជា​មាតិកា​នេះ​​ត្រូវ​បាន​​ទប់​ស្កាត់​​ក៏​ដោយ។">
+<!ENTITY badContentBlocked.moreinfo "វេបសាយ​ភាគច្រើន​នឹង​នៅតែ​ដំណើរការ​ជា​ធម្មតា ទោះបីជា​មាតិកា​នេះ​​ត្រូវ​បាន​​ទប់​ស្កាត់​​ក៏​ដោយ។">
 
 <!ENTITY mixedContentBlocked2.message "មាតិកា​មិន​មាន​សុវត្ថិភាព">
-<!ENTITY mixedContentBlocked2.moreinfo "ធាតុ​ដែល​មិន​បាន​អ៊ិនគ្រីប​មួយ​ចំនួន​នៅ​លើ​តំបន់​បណ្ដាញ​នេះ​ត្រូវ​បាន​ទប់ស្កាត់។">
+<!ENTITY mixedContentBlocked2.moreinfo "ធាតុ​ដែល​មិន​បាន​អ៊ិនគ្រីប​មួយ​ចំនួន​នៅ​លើ​វេបសាយ​នេះ​ត្រូវ​បាន​ទប់ស្កាត់។">
 <!ENTITY mixedContentBlocked2.learnMore "ស្វែងយល់​បន្ថែម">
 <!ENTITY mixedContentBlocked2.options "ជម្រើស">
 <!ENTITY mixedContentBlocked2.unblock.label "បង្ហាញ​ការ​ការពារ​ឥឡូវ">
@@ -830,15 +830,17 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY panicButton.thankyou.msg2                "ការ​រុករក​សុវត្ថិភាព!">
 <!ENTITY panicButton.thankyou.buttonlabel         "អរគុណ!">
 
+<!ENTITY processHang.terminateScript.label        "បញ្ឈប់​ស្គ្រីប">
+<!ENTITY processHang.terminateScript.accessKey    "ប">
+<!ENTITY processHang.debugScript.label            "បំបាត់​កំហុស​ស្គ្រីប">
+<!ENTITY processHang.debugScript.accessKey        "ប">
+<!ENTITY processHang.terminatePlugin.label        "បញ្ឈប់កម្មវិធី​ជំនួយ">
+<!ENTITY processHang.terminatePlugin.accessKey    "ក">
+<!ENTITY processHang.terminateProcess.label       "បញ្ឈប់​ដំណើរការ​វេបសាយ">
+<!ENTITY processHang.terminateProcess.accessKey   "ប">
 
-
-
-
-
-
-
-
-
+<!ENTITY emeLearnMoreContextMenu.label            "ស្វែងយល់​បន្ថែម​អំពី DRM…">
+<!ENTITY emeLearnMoreContextMenu.accesskey        "D">
 
 
 
