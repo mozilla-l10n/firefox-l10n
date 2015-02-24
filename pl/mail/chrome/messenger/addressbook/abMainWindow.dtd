@@ -4,7 +4,9 @@
 
 <!ENTITY addressbookWindow.title "Książka adresowa">
 
-<!-- File Menu -->
+<!ENTITY blankResultsPaneMessage.label "Ta książka adresowa wyświetla kontakty wyłącznie po wyszukiwaniu">
+<!ENTITY localResultsOnlyMessage.label "Kontakty ze zdalnych książek adresowcyh nie są wyświetlane zanim nie zostaną wyszukane">
+
 <!ENTITY fileMenu.label                 "Plik">
 <!ENTITY fileMenu.accesskey             "P">
 <!ENTITY newMenu.label                  "Utwórz">
@@ -38,7 +40,6 @@
 <!ENTITY printAddressBook.label         "Drukuj książkę adresową…">
 <!ENTITY printAddressBook.accesskey     "a">
 
-<!-- Edit Menu -->
 <!ENTITY editMenu.label         "Edycja">
 <!ENTITY editMenu.accesskey     "E">
 <!ENTITY undoCmd.label          "Cofnij">
@@ -76,7 +77,8 @@
 <!ENTITY propertiesCmd2.accesskey "i">
 <!ENTITY propertiesCmd.key       "i">
 
-<!-- View Menu -->
+<!ENTITY Addrbook.label "Książka adresowa">
+<!ENTITY Addrbook.accesskey "a">
 <!ENTITY viewMenu.label             "Widok">
 <!ENTITY viewMenu.accesskey         "W">
 <!ENTITY viewToolbarsMenu.label     "Paski narzędzi">
