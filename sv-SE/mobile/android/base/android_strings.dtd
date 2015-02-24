@@ -6,8 +6,7 @@
 <!ENTITY  no_space_to_start_error "Det saknas utrymme för &brandShortName; att starta.">
 <!ENTITY  error_loading_file "Ett fel uppstod vid inläsning av filer som krävs för att köra &brandShortName;">
 
-<!ENTITY  onboard_start_message "Välkommen till &brandShortName;!">
-<!ENTITY  onboard_start_subtext "Engagerande till dig, din integritet och en öppen webb">
+
 <!ENTITY  onboard_start_button_account "Logga in till &brandShortName;">
 <!ENTITY  onboard_start_button_browser "Börja surfa">
 <!-- Localization note: These are used as the titles of different pages on the home screen.
@@ -110,7 +109,7 @@
 
 <!ENTITY overlay_share_send_tab_btn_label "Skicka till en annan enhet">
 <!ENTITY overlay_share_no_url "Ingen länk funnen på denna delning">
-<!ENTITY overlay_share_retry "Försök igen">
+
 <!ENTITY overlay_share_select_device "Välj enhet">
 
 <!ENTITY pref_category_search_summary "Anpassa sökleverantörerna">
@@ -208,6 +207,8 @@ size. -->
 <!ENTITY pref_media_autoplay_enabled "Tillåt automatisk uppspelning">
 <!ENTITY pref_media_autoplay_enabled_summary "Kontrollera om webbplatser kan spela upp automatiskt videor och annat medieinnehåll">
 
+
+
 <!ENTITY pref_use_master_password "Använd huvudlösenord">
 <!ENTITY pref_sync "Sync">
 <!ENTITY pref_sync_summary "Synka dina flikar, bokmärken, lösenord, historik ">
@@ -263,7 +264,7 @@ size. -->
      (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
 <!ENTITY datareporting_crashreporter_title_short "Kraschrapportör">
 <!ENTITY datareporting_wifi_title2 "&vendorShortName;s platstjänster">
-<!ENTITY datareporting_wifi_geolocation_summary2 "Delar positionen av din mobil genom Wi-Fi och mobiltäckning med &vendorShortName; för att förbättra vår geolokaliseringstjänst">
+
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
      actual notification that an update is available. -->
@@ -540,6 +541,11 @@ från Android">
 <!-- These are only used for accessibility for the done and overflow-menu buttons in the actionbar.
      They are never shown to users -->
 <!ENTITY actionbar_done "Klart">
+<!-- Voice search in the awesome bar -->
+
+
+
+
 <!-- Localization note (remote_tabs_last_synced): the variable is replaced by a
      "relative time span string" produced by Android.  This string describes the
      time the tabs were last synced relative to the current time; examples
@@ -548,6 +554,7 @@ från Android">
      their desktop or laptop.-->
 
 <!ENTITY remote_tabs_last_synced "Senast synkad:  &formatS;">
+<!-- Localization note: Used when the sync has not happend yet, showed in place of a date -->
 <!-- Find-In-Page strings -->
 <!-- LOCALIZATION NOTE (find_matchcase): This is meant to appear as an icon that changes color
      if match-case is activated. i.e. No more than two letters, one uppercase, one lowercase. -->

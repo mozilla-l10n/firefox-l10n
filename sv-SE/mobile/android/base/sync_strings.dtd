@@ -150,6 +150,8 @@
 
 <!ENTITY fxaccount_create_account_header2 "Skapa ett Firefox-konto">
 <!ENTITY fxaccount_create_account_password_length_restriction "Måste vara minst 8 tecken">
+
+
 <!ENTITY fxaccount_create_account_year_of_birth "Födelseår">
 <!-- Localization note: &formatS1; is fxaccount_policy_linktos, &formatS2; is fxaccount_policy_linkprivacy, both hyperlinked. -->
 <!ENTITY fxaccount_create_account_policy_text2 "Genom att fortsätta godkänner du &formatS1; och &formatS2; för Firefox molntjänster.">
@@ -191,7 +193,7 @@
 
 <!ENTITY fxaccount_finish_migrating_header "Logga in för att slutföra uppgradering">
 <!ENTITY fxaccount_finish_migrating_button_label "slutför uppgradering">
-<!ENTITY fxaccount_finish_migrating_description "Uppgraderingen kan överföra mycket data. Det är bäst om man är uppkopplad till ett WiFi nätverk.">
+
 
 <!ENTITY fxaccount_status_header2 "Firefox-konto">
 <!ENTITY fxaccount_status_signed_in_as "Inloggad som">
@@ -207,7 +209,6 @@
 <!ENTITY fxaccount_status_needs_upgrade "Du måste uppgradera &brandShortName; för att logga in.">
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled "&syncBrand.shortName.label; är uppsatt men synkar inte automatiskt. Sätt igång “Automatisk synkronisering av data” i Android-inställningarna &gt; Dataanvändning.">
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled_v21 "&syncBrand.shortName.label; är uppsatt men synkar inte automatiskt. Sätt igång “Automatisk synkronisering av data” i Android-inställningarna &gt; Dataanvändning.">
-<!ENTITY fxaccount_status_needs_account_enabled "&syncBrand.shortName.label; är uppsatt men synkar inte automatiskt, Tryck för att starta synkningen.">
 <!ENTITY fxaccount_status_needs_finish_migrating "Tryck för att logga in till ditt nya Firefox Konto.">
 <!ENTITY fxaccount_status_bookmarks "Bokmärken">
 <!ENTITY fxaccount_status_history "Historik">
