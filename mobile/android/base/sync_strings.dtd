@@ -150,6 +150,8 @@
 
 <!ENTITY fxaccount_create_account_header2 "ஒரு பயர்பாக்ஸ் கணக்கை உருவாக்கு">
 <!ENTITY fxaccount_create_account_password_length_restriction "குறைந்தது 8 எழுத்துக்கள் இருக்கணும்">
+
+
 <!ENTITY fxaccount_create_account_year_of_birth "பிறந்த வருடம்">
 <!-- Localization note: &formatS1; is fxaccount_policy_linktos, &formatS2; is fxaccount_policy_linkprivacy, both hyperlinked. -->
 <!ENTITY fxaccount_create_account_policy_text2 "தொடர்வதனால், நான் பயர்பாக்ஸின் மேகக்கணினி &formatS1; மற்றும் &formatS2; ஒப்புக்கொள்கிறேன்.">
@@ -191,7 +193,7 @@
 
 <!ENTITY fxaccount_finish_migrating_header "புதுப்பித்தலை முடிக்க உள்நுழையும்">
 <!ENTITY fxaccount_finish_migrating_button_label "புதுப்பித்தலை முடி">
-<!ENTITY fxaccount_finish_migrating_description "புதுப்பித்தல் நிறைய தரவுகளைப் பரிமாற்றம் செய்யும். எனவே வை-பை பிணையத்தில் இருப்பது நன்று.">
+
 
 <!ENTITY fxaccount_status_header2 "பயர்பாக்ஸ் கணக்கு">
 <!ENTITY fxaccount_status_signed_in_as "ஆக உள்நுழைந்துள்ளீர்கள்">
@@ -207,7 +209,6 @@
 <!ENTITY fxaccount_status_needs_upgrade "உள்நுழைய நீங்கள் &brandShortName; ஐ மேம்படுத்த வேண்டும்.">
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled "&syncBrand.shortName.label; அமைக்கப்பட்டது, ஆனால் தானியக்க ஒத்திசைவு இல்லை. ஆண்ட்ராய்டு அமைவுகளில் “தானியக்க-ஒத்திசைவு தரவு” &gt; தரவு பயன்பாடுகளுக்கிடையே இடமாறவும்.">
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled_v21 "&syncBrand.shortName.label; அமைக்கப்பட்டது, ஆனால் தானியக்க ஒத்திசைவு இல்லை. ஆண்ட்ராய்டு அமைவுகள் &gt; கணக்கு என்பதில் “தானியக்க-ஒத்திசைவு தரவு” மாற்றவும்.">
-<!ENTITY fxaccount_status_needs_account_enabled "&syncBrand.shortName.label; அமைக்கப்பட்டது, ஆனால் தானியக்க ஒத்திசைவு இல்லை. ஓத்திசைவு தொடங்க தொடவும்.">
 <!ENTITY fxaccount_status_needs_finish_migrating "உங்கள் புதிய பயர்பாக்ஸ் கணக்கில் உள்நுழைய தட்டவும்.">
 <!ENTITY fxaccount_status_bookmarks "புத்தகக்குறிகள்">
 <!ENTITY fxaccount_status_history "வரலாறு">
