@@ -150,6 +150,8 @@
 
 <!ENTITY fxaccount_create_account_header2 "បង្កើត​គណនី Firefox">
 <!ENTITY fxaccount_create_account_password_length_restriction "ត្រូវតែ​មាន​យ៉ាងហោចណាស់ ៨ តួ​អក្សរ">
+
+
 <!ENTITY fxaccount_create_account_year_of_birth "ឆ្នាំ​កំណើត">
 <!-- Localization note: &formatS1; is fxaccount_policy_linktos, &formatS2; is fxaccount_policy_linkprivacy, both hyperlinked. -->
 <!ENTITY fxaccount_create_account_policy_text2 "ដោយ​ការ​ធ្វើ​បន្ត, ខ្ញុំ​យល់​ព្រម​ចំពោះ &formatS1; និង &formatS2; នៃ​សេវាកម្ម​នៅ​លើ​បណ្ដាញ​សម្រាប់ Firefox ។">
@@ -205,7 +207,6 @@
 <!ENTITY fxaccount_status_needs_upgrade "អ្នក​ត្រូវ​ធ្វើ​បច្ចុប្បន្នភាព &brandShortName; ដើម្បី​ចូល។">
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled "បាន​ដំឡើង &syncBrand.shortName.label; ប៉ុន្តែ​មិន​បាន​ធ្វើ​សមកាលកម្ម​​ដោយ​ស្វ័យប្រវត្តិ​ទេ។ បិទ/បើក \&quot;ការ​​ធ្វើ​សមកាលកម្ម​​ទិន្នន័យ​ស្វ័យប្រវត្តិ\&quot; នៅ​ក្នុង​ការ​កំណត់ Android &gt; ការ​ប្រើប្រាស់​ទិន្នន័យ។">
 
-<!ENTITY fxaccount_status_needs_account_enabled "បាន​ដំឡើង &syncBrand.shortName.label; ប៉ុន្តែ​មិន​បាន​ធ្វើ​សមកាលកម្ម​ដោយ​ស្វ័យប្រវត្តិ​នោះ​ទេ។ ចុច​ដើម្បី​ចាប់ផ្ដើម​ធ្វើ​សមកាលកម្ម។">
 
 <!ENTITY fxaccount_status_bookmarks "ចំណាំ">
 <!ENTITY fxaccount_status_history "ប្រវត្តិ">

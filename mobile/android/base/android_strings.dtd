@@ -6,8 +6,7 @@
 <!ENTITY  no_space_to_start_error "មិន​មាន​ទំហំ​គ្រប់គ្រាន់​សម្រាប់​ឲ្យ &brandShortName; ចាប់ផ្ដើម​ទេ។">
 <!ENTITY  error_loading_file "កំហុស​បាន​កើតឡើង​ពេល​ព្យាយាម​ផ្ទុក​ឯកសារ​ដែល​ទាមទារ​ដើម្បី​ដំណើរការ &brandShortName;">
 
-<!ENTITY  onboard_start_message "សូម​ស្វាគមន៍​មក​កាន់ &brandShortName;!">
-<!ENTITY  onboard_start_subtext "ប្ដេជ្ញា​ចំពោះ​អ្នក ភាព​ឯកជន​របស់​អ្នក និង​បណ្ដាញ​បើកចំហ">
+
 <!ENTITY  onboard_start_button_account "ចូល​ &brandShortName;">
 <!ENTITY  onboard_start_button_browser "ចាប់​ផ្ដើម​រុករក">
 <!-- Localization note: These are used as the titles of different pages on the home screen.
@@ -110,7 +109,7 @@
 
 <!ENTITY overlay_share_send_tab_btn_label "ផ្ញើ​ទៅ​ឧបករណ៍​ផ្សេង">
 <!ENTITY overlay_share_no_url "រក​មិន​ឃើញ​តំណ​ក្នុង​ការ​ចែករំលែក​នេះ">
-<!ENTITY overlay_share_retry "ព្យាយាម​ម្ដងទៀត">
+
 <!ENTITY overlay_share_select_device "ជ្រើស​ឧបករណ៍">
 
 <!ENTITY pref_category_search_summary "ប្ដូរ​ក្រុមហ៊ុន​ផ្ដល់​របស់​អ្នក​តាម​តម្រូវ​ការ">
@@ -208,6 +207,8 @@ size. -->
 <!ENTITY pref_media_autoplay_enabled "អនុញ្ញាត​ការ​ចាក់​ស្វ័យប្រវត្តិ">
 <!ENTITY pref_media_autoplay_enabled_summary "គ្រប់គ្រង​ថា​តើ​តំបន់បណ្ដាញ​អាច​ចាក់​វីដេអូ និង​មាតិកា​មេឌៀ​ផ្សេងទៀត​បាន​ដោយ​ស្វ័យប្រវត្តិ">
 
+
+
 <!ENTITY pref_use_master_password "ប្រើ​ពាក្យ​សម្ងាត់​មេ ">
 <!ENTITY pref_sync "ធ្វើ​សមកាលកម្ម">
 <!ENTITY pref_sync_summary "ធ្វើ​សមកាលកម្ម​ផ្ទាំង​របស់​អ្នក ចំណាំ ពាក្យសម្ងាត់ និង​ប្រវត្តិ">
@@ -263,7 +264,7 @@ size. -->
      (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
 <!ENTITY datareporting_crashreporter_title_short "កម្មវិធី​របាយការណ៍​គាំង">
 <!ENTITY datareporting_wifi_title2 "&vendorShortName; សេវាកម្ម​ទីតាំង">
-<!ENTITY datareporting_wifi_geolocation_summary2 "ចែករំលែក​វ៉ាយហ្វាយ​ប្រហាក់ប្រហែល និង​ទីតាំង​ឧបករណ៍​របស់​អ្នក​ជាមួយ &vendorShortName; ដើម្បី​ធ្វើឲ្យ​សេវាកម្ម​ទីតាំង​ភូមិសាស្ត្រ​របស់​យើង​ប្រសើរ​ឡើង">
+
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
      actual notification that an update is available. -->
@@ -540,6 +541,11 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- These are only used for accessibility for the done and overflow-menu buttons in the actionbar.
      They are never shown to users -->
 <!ENTITY actionbar_done "ធ្វើ​រួច">
+<!-- Voice search in the awesome bar -->
+
+
+
+
 <!-- Localization note (remote_tabs_last_synced): the variable is replaced by a
      "relative time span string" produced by Android.  This string describes the
      time the tabs were last synced relative to the current time; examples
@@ -548,6 +554,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      their desktop or laptop.-->
 
 <!ENTITY remote_tabs_last_synced "បាន​ធ្វើ​សមកាលកម្ម​ចុង​ក្រោយ៖ &formatS;">
+<!-- Localization note: Used when the sync has not happend yet, showed in place of a date -->
 <!-- Find-In-Page strings -->
 <!-- LOCALIZATION NOTE (find_matchcase): This is meant to appear as an icon that changes color
      if match-case is activated. i.e. No more than two letters, one uppercase, one lowercase. -->
