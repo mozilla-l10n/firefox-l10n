@@ -13,11 +13,10 @@
 <!ENTITY restorepage.startNew       "Új munkamenet indítása">
 
 <!ENTITY restorepage.tryagainButton "Visszaállítás">
-<!ENTITY restorepage.restore.access "V">
-<!ENTITY restorepage.closeButton    "Bezárás">
-<!ENTITY restorepage.close.access   "B">
 
-<!ENTITY restorepage.restoreHeader  "Visszaállítás">
+<!ENTITY restorepage.closeButton    "Bezárás">
+
+
 <!ENTITY restorepage.listHeader     "Ablakok és lapok">
 <!-- LOCALIZATION NOTE: &#37;S will be replaced with a number. -->
 <!ENTITY restorepage.windowLabel    "&#037;S. ablak">
@@ -27,11 +26,10 @@
 
 
 <!ENTITY welcomeback2.restoreButton  "Gyerünk!">
-<!ENTITY welcomeback2.restoreButton.access "G">
+
 
 <!ENTITY welcomeback2.tabtitle      "Sikerült!">
 
-<!ENTITY welcomeback2.pageTitle     "Sikerült!">
 <!ENTITY welcomeback2.pageInfo1     "A &brandShortName; készen áll.">
 
 <!ENTITY welcomeback2.label.restoreAll  "Minden ablak és lap visszaállítása">

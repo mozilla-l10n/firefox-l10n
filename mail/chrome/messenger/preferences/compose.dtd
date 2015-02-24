@@ -6,6 +6,7 @@
 <!ENTITY itemAutoComplete.label              "Címzés">
 <!ENTITY itemSpellCheck.label                "Helyesírás">
 
+
 <!ENTITY forwardMsg.label                     "Levél továbbítása:">
 <!ENTITY forwardMsg.accesskey                 "L">
 <!ENTITY inline.label                         "Beágyazva">

@@ -26,6 +26,8 @@
 <!ENTITY contextOutgoing.label "Küldés után">
 <!ENTITY contextOutgoing.accesskey "d">
 
+
+
 <!ENTITY filterActionDesc.label "Műveletek végrehajtása:">
 <!ENTITY filterActionDesc.accesskey "v">
 

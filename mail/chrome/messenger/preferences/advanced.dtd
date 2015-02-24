@@ -3,20 +3,21 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY itemGeneral.label       "Általános">
+
 <!ENTITY itemDisplay.label       "Olvasás és megjelenítés">
 <!ENTITY itemUpdate.label        "Frissítés">
 <!ENTITY itemNetworking.label    "Hálózat és lemezterület">
 <!ENTITY itemCertificates.label  "Tanúsítványok">
 <!-- General Settings -->
 
-
-<!ENTITY submitTelemetry.label         "Teljesítményadatok küldése">
-<!ENTITY submitTelemetry.accesskey     "T">
-<!ENTITY telemetryInfoLink.label       "További információ a telemetriáról">
 <!ENTITY enableGlodaSearch.label       "Globális keresés és indexelő engedélyezése">
 <!ENTITY enableGlodaSearch.accesskey   "G">
 <!ENTITY allowHWAccel.label            "Hardveres gyorsítás használata, ha elérhető">
 <!ENTITY allowHWAccel.accesskey        "H">
+
+
+
+
 
 <!ENTITY scrolling.label               "Görgetés">
 <!ENTITY useAutoScroll.label           "Automatikus görgetés">
@@ -37,6 +38,16 @@
 <!ENTITY returnReceiptsInfo.label      "A &brandShortName; tértivevény-kezelésének beállítása">
 <!ENTITY showReturnReceipts.label      "Tértivevények…">
 <!ENTITY showReturnReceipts.accesskey  "T">
+<!-- Data Choices -->
+
+
+
+
+
+
+
+
+
 <!-- Display and Reading Settings -->
 
 <!ENTITY reading.caption               "Olvasás">
