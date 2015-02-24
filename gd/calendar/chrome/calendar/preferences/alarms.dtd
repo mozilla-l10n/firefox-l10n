@@ -14,8 +14,8 @@
 <!ENTITY pref.calendar.alarms.sound.useDefault.accessKey "d">
 <!ENTITY pref.calendar.alarms.sound.browse.label "Brabhsaich…">
 <!ENTITY pref.calendar.alarms.sound.browse.accessKey "B">
-<!ENTITY pref.calendar.alarms.sound.preview.label "Ro-sheall">
-<!ENTITY pref.calendar.alarms.sound.preview.accessKey "R">
+
+
 <!ENTITY pref.showalarmbox "Seall bogsa caismeachd">
 <!ENTITY pref.calendar.alarms.showAlarmBox.accessKey "x">
 <!ENTITY pref.missedalarms "Seall caismeachdan a dh'fhalbh orm">

@@ -13,10 +13,11 @@
 <!ENTITY restorepage.startNew       "Tòiseachadh air seisean brabhsaidh gu tur ùr">
 
 <!ENTITY restorepage.tryagainButton "Aisig">
-
+<!ENTITY restorepage.restore.access "R">
 <!ENTITY restorepage.closeButton    "Dùin">
+<!ENTITY restorepage.close.access   "C">
 
-
+<!ENTITY restorepage.restoreHeader  "Aisig">
 <!ENTITY restorepage.listHeader     "Uinneagan is tabaichean">
 <!-- LOCALIZATION NOTE: &#37;S will be replaced with a number. -->
 <!ENTITY restorepage.windowLabel    "Uinneag &#037;S">
@@ -26,10 +27,11 @@
 
 
 <!ENTITY welcomeback2.restoreButton  "Tiugainn!">
-
+<!ENTITY welcomeback2.restoreButton.access "L">
 
 <!ENTITY welcomeback2.tabtitle      "Shoirbheas!">
 
+<!ENTITY welcomeback2.pageTitle     "Soirbheas!">
 <!ENTITY welcomeback2.pageInfo1     "Tha &brandShortName; deiseil is deònach.">
 
 <!ENTITY welcomeback2.label.restoreAll  "Aisig gach uinneag is taba">

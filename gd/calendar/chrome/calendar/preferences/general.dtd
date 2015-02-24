@@ -33,6 +33,10 @@
 <!ENTITY pref.default_task_offset_start.label "Dàimheach ris an toiseach">
 <!ENTITY pref.default_task_offset_next_hour.label "Dàimheach ris an an-uair">
 
+<!ENTITY pref.calendar.todaypane.agenda.caption "Leòsan an latha">
+
+
+
 <!ENTITY pref.accessibility.label "So-inntrigeachd" >
 <!ENTITY pref.systemcolors.label "Pisich na dathan a chum so-inntrigeachd" >
 <!ENTITY pref.systemcolors.accesskey "c">

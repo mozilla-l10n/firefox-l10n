@@ -145,6 +145,8 @@
 <!ENTITY messagePaneVertical.accesskey "S">
 <!ENTITY showFolderPaneCmd.label "Leòsan nam pasgan">
 <!ENTITY showFolderPaneCmd.accesskey "m">
+
+
 <!ENTITY showMessageCmd.label "Leòsan na teachdaireachd">
 <!ENTITY showMessageCmd.accesskey "L">
 
@@ -593,7 +595,9 @@
 <!ENTITY manageTags.accesskey "S">
 <!-- Folder Pane -->
 
-<!ENTITY folderColumn.label "Ainm">
+<!ENTITY folderNameColumn.label "Ainm">
+
+
 <!ENTITY folderSizeColumn.label "Meud">
 <!-- Folder Pane Context Menu -->
 
@@ -662,8 +666,8 @@
 <!ENTITY statusColumn.label "Staid">
 <!ENTITY sizeColumn.label "Meud">
 <!ENTITY junkStatusColumn.label "An inbhe truilleis">
-<!ENTITY unreadColumn.label "Gun leughadh">
-<!ENTITY totalColumn.label "Gu h-iomlan">
+
+
 <!ENTITY readColumn.label "Air a leughadh">
 <!ENTITY receivedColumn.label "Air fhaighinn">
 <!ENTITY starredColumn.label "Le rionnag ris">
