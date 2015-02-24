@@ -3,8 +3,8 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY addressbookWindow.title                        "Imenik">
-
-
+<!ENTITY blankResultsPaneMessage.label                  "Ta imenik bo prikazal stike samo po iskanju">
+<!ENTITY localResultsOnlyMessage.label                  "Stiki iz oddaljenih imenikov ne bodo prikazani, dokler jih ne iščete">
 <!-- File Menu -->
 <!ENTITY fileMenu.label                                 "Datoteka">
 <!ENTITY fileMenu.accesskey                             "D">
@@ -161,6 +161,8 @@ because displayed names don't have the comma in between. -->
 <!ENTITY searchItem.title "Hitro Iskanje">
 <!-- Results Pane -->
 
+<!ENTITY Addrbook.label                                 "Imenik …">
+<!ENTITY Addrbook.accesskey                             "m">
 <!ENTITY GeneratedName.label                            "Ime">
 <!ENTITY GeneratedName.accesskey                        "m">
 <!ENTITY PrimaryEmail.label                             "E-pošta">
