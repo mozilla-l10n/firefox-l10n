@@ -41,7 +41,8 @@
 
 <!ENTITY servicesMenuMac.label          "Layanan">
 
-
+<!ENTITY hideThisAppCmdMac2.label       "Sembunyikan &brandShorterName;">
+<!ENTITY hideThisAppCmdMac2.commandkey  "H">
 
 <!ENTITY hideOtherAppsCmdMac.label      "Sembunyikan Lainnya">
 <!ENTITY hideOtherAppsCmdMac.commandkey "H">

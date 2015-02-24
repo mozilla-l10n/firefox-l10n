@@ -47,15 +47,17 @@
 <!ENTITY profilerUI.toolbar.js-calltree "JavaScript">
 <!ENTITY profilerUI.toolbar.memory-calltree "Memori">
 
-
+<!ENTITY profilerUI.toolbar.memory-flamegraph "Bagan Memori Flame">
 <!-- LOCALIZATION NOTE (profilerUI.table.*): These strings are displayed
   -  in the call tree headers for a recording. -->
 
+<!ENTITY profilerUI.table.totalDuration2  "Total Waktu">
+<!ENTITY profilerUI.table.selfDuration2   "Waktu Sendiri">
 <!ENTITY profilerUI.table.totalPercentage "Total Beban">
 <!ENTITY profilerUI.table.selfPercentage  "Beban Item">
 <!ENTITY profilerUI.table.samples         "Sampling">
-
-
+<!ENTITY profilerUI.table.totalAlloc      "Total Alokasi">
+<!ENTITY profilerUI.table.selfAlloc       "Alokasi Sendiri">
 <!ENTITY profilerUI.table.function        "Fungsi">
 <!-- LOCALIZATION NOTE (profilerUI.newtab.tooltiptext): The tooltiptext shown
   -  on the "+" (new tab) button for a profile when a selection is available. -->
@@ -63,6 +65,8 @@
 <!ENTITY profilerUI.newtab.tooltiptext "Tambahkan tab baru berdasarkan pilihan">
 <!-- LOCALIZATION NOTE (profilerUI.options.tooltiptext): This is the tooltip
   -  for the options button. -->
+
+<!ENTITY profilerUI.options.tooltiptext "Konfigurasikan preferensi kinerja.">
 <!-- LOCALIZATION NOTE (profilerUI.invertTree): This is the label shown next to
   -  a checkbox that inverts and un-inverts the profiler's call tree. -->
 
@@ -71,9 +75,13 @@
 <!-- LOCALIZATION NOTE (profilerUI.invertFlameGraph): This is the label shown next to
   -  a checkbox that inverts and un-inverts the profiler's flame graph. -->
 
+<!ENTITY profilerUI.invertFlameGraph             "Balik Bagan Flame">
+<!ENTITY profilerUI.invertFlameGraph.tooltiptext "Membalikkan bagan flame akan menampilkan jalur panggilan yang tersedia dalam profil mulai dari bingkai yang termuda dan membentang hingga bingkai tertua.">
 <!-- LOCALIZATION NOTE (profilerUI.showPlatformData): This is the
   -  label for the checkbox that toggles whether or not Gecko platform data
   -  is displayed in the profiler. -->
+
+<!ENTITY profilerUI.showPlatformData             "Tampilkan Data Platform Gecko">
 
 <!-- LOCALIZATION NOTE (profilerUI.flattenTreeRecursion): This is the
   -  label for the checkbox that toggles the flattening of tree recursion in inspected
