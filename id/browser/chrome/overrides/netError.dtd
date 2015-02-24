@@ -163,4 +163,5 @@ functionality specific to firefox. -->
 <!ENTITY sslv3Used.title "Gagal Tersambung dengan Aman">
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc) - Do not translate
      "ssl_error_unsupported_version". -->
+<!ENTITY sslv3Used.longDesc "Info lanjutan: ssl_error_unsupported_version">
 <!ENTITY sslv3Used.learnMore "Pelajari Lebih Lanjut…">

@@ -188,4 +188,7 @@
      devices that can scan a QR code. -->
 <!-- LOCALIZATION NOTE (wifi_auth_token_request): Instructions requesting the
      user to transfer authentication info by transferring a token. -->
+<!ENTITY wifi_auth_token_request "Jika perangkat lainnya menanyakan token alih-alih memindai kode QR, salin nilai berikut ke perangkat lainnya:">
 <!-- Logs panel -->
+
+<!ENTITY logs_title "Catatan Perintah Prapaket">
