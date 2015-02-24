@@ -47,15 +47,17 @@
 <!ENTITY profilerUI.toolbar.js-calltree "JavaScript">
 <!ENTITY profilerUI.toolbar.memory-calltree "Cof">
 
-
+<!ENTITY profilerUI.toolbar.memory-flamegraph "Siart Fflam Cof">
 <!-- LOCALIZATION NOTE (profilerUI.table.*): These strings are displayed
   -  in the call tree headers for a recording. -->
 
+<!ENTITY profilerUI.table.totalDuration2  "Cyfanswm Amser">
+<!ENTITY profilerUI.table.selfDuration2   "Eich Amser Chi">
 <!ENTITY profilerUI.table.totalPercentage "Cyfanswm Cost">
 <!ENTITY profilerUI.table.selfPercentage  "Cost Hunan">
 <!ENTITY profilerUI.table.samples         "Samplau">
-
-
+<!ENTITY profilerUI.table.totalAlloc      "Cyfanswm y Dyraniad">
+<!ENTITY profilerUI.table.selfAlloc       "Eich Dyraniad Chi">
 <!ENTITY profilerUI.table.function        "Ffwythiant">
 <!-- LOCALIZATION NOTE (profilerUI.newtab.tooltiptext): The tooltiptext shown
   -  on the "+" (new tab) button for a profile when a selection is available. -->
@@ -63,6 +65,8 @@
 <!ENTITY profilerUI.newtab.tooltiptext "Ychwanegu tab newydd o'r dewis">
 <!-- LOCALIZATION NOTE (profilerUI.options.tooltiptext): This is the tooltip
   -  for the options button. -->
+
+<!ENTITY profilerUI.options.tooltiptext "Ffurfweddu'r dewisiadau perfformiad.">
 <!-- LOCALIZATION NOTE (profilerUI.invertTree): This is the label shown next to
   -  a checkbox that inverts and un-inverts the profiler's call tree. -->
 
@@ -71,9 +75,13 @@
 <!-- LOCALIZATION NOTE (profilerUI.invertFlameGraph): This is the label shown next to
   -  a checkbox that inverts and un-inverts the profiler's flame graph. -->
 
+<!ENTITY profilerUI.invertFlameGraph             "Gwrthdroi'r Siart Fflam">
+<!ENTITY profilerUI.invertFlameGraph.tooltiptext "Bydd gwrthdroi'r siart fflam yn dangos y llwybrau galw proffilwyd gan gychwyn o'r fframiau ieuengaf ac ehangu i'r fframiau hŷn.">
 <!-- LOCALIZATION NOTE (profilerUI.showPlatformData): This is the
   -  label for the checkbox that toggles whether or not Gecko platform data
   -  is displayed in the profiler. -->
+
+<!ENTITY profilerUI.showPlatformData             "Dangos Data Platfform Gecko">
 
 <!-- LOCALIZATION NOTE (profilerUI.flattenTreeRecursion): This is the
   -  label for the checkbox that toggles the flattening of tree recursion in inspected
