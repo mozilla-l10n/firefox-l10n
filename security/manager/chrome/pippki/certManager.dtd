@@ -79,8 +79,8 @@
 <!ENTITY certmgr.details.accesskey            "R">
 <!ENTITY certmgr.fields.label                 "Luach raoin">
 <!ENTITY certmgr.fields.accesskey             "L">
-
-
+<!ENTITY certmgr.hierarchy.label              "Rangachd an teisteanais">
+<!ENTITY certmgr.hierarchy.accesskey2         "H">
 <!ENTITY certmgr.addException.label           "Cuir eisgeachd ris…">
 <!ENTITY certmgr.addException.accesskey       "C">
 

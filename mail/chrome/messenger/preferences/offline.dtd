@@ -11,8 +11,8 @@
 <!ENTITY radioRememberPrevState.accesskey "r">
 <!ENTITY radioAskState.label "Faighnich dhìom dè an staid air loidhne">
 <!ENTITY radioAskState.accesskey "F">
-<!ENTITY radioAlwaysOnline.label "Air loidhne">
-<!ENTITY radioAlwaysOnline.accesskey "l">
+<!ENTITY radioAlwaysOnlineState.label "Air loidhne">
+<!ENTITY radioAlwaysOnlineState.accesskey "l">
 <!ENTITY radioAlwaysOffline.label "Far loidhne">
 <!ENTITY radioAlwaysOffline.accesskey "o">
 

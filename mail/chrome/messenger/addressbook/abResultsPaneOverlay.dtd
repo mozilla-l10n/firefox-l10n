@@ -2,6 +2,8 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY Addrbook.label                        "Leabhar nan seòladh">
+<!ENTITY Addrbook.accesskey                    "b">
 <!ENTITY GeneratedName.label                   "Ainm">
 <!ENTITY GeneratedName.accesskey               "n">
 <!ENTITY PrimaryEmail.label                    "Post-dealain">

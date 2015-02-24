@@ -3,20 +3,21 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY itemGeneral.label       "Coitcheann">
+
 <!ENTITY itemDisplay.label       "Leughadh ⁊ taisbeanadh">
 <!ENTITY itemUpdate.label        "Ùraich">
 <!ENTITY itemNetworking.label    "An lìonra ⁊ àite air an diosg">
 <!ENTITY itemCertificates.label  "Teisteanasan">
 <!-- General Settings -->
 
-
-<!ENTITY submitTelemetry.label         "Cuir a-null dàta mun dèanadas">
-<!ENTITY submitTelemetry.accesskey     "u">
-<!ENTITY telemetryInfoLink.label       "Barrachd fiosrachaidh mu theileimeatrachd">
 <!ENTITY enableGlodaSearch.label       "Cuir an lorg is an clàr-innsiche uile-choitcheann an comas">
 <!ENTITY enableGlodaSearch.accesskey   "e">
 <!ENTITY allowHWAccel.label            "Cleachd luathachadh a' bhathar-bhog ma bhios e ri làimh">
 <!ENTITY allowHWAccel.accesskey        "m">
+
+
+
+
 
 <!ENTITY scrolling.label               "Sgroladh">
 <!ENTITY useAutoScroll.label           "Cleachd fèin-sgroladh">
@@ -37,6 +38,16 @@
 <!ENTITY returnReceiptsInfo.label      "Suidhich mar a làimhsicheas &brandShortName; na bannan-cuidhteis">
 <!ENTITY showReturnReceipts.label      "Bannan-cuidhteis…">
 <!ENTITY showReturnReceipts.accesskey  "B">
+<!-- Data Choices -->
+
+
+
+
+
+
+
+
+
 <!-- Display and Reading Settings -->
 
 <!ENTITY reading.caption               "Leughadh">

@@ -38,6 +38,8 @@ This is likely the same like id.heading in crashes.dtd. -->
 
 <!-- LOCALIZATION NOTE (aboutSupport.appBasicsUpdateChannel, aboutSupport.appBasicsUpdateHistory, aboutSupport.appBasicsShowUpdateHistory):
 "Update" is a noun here, not a verb. -->
+
+<!ENTITY aboutSupport.appBasicsUpdateChannel "Ùraich an t-seanail">
 <!ENTITY aboutSupport.appBasicsUpdateHistory "Eachdraidh nan ùrachaidhean">
 <!ENTITY aboutSupport.appBasicsShowUpdateHistory "Seall eachdraidh nan ùrachaidhean">
 
@@ -94,4 +96,5 @@ variant of aboutSupport.showDir.label. -->
 
 <!ENTITY aboutSupport.sandboxTitle "Bogsa-gainmhich">
 
-
+<!ENTITY aboutSupport.safeModeTitle "Feuch am modh tèarainte">
+<!ENTITY aboutSupport.restartInSafeMode.label "Ath-thòisich leis na tuilleadan air an cur à comas…">
