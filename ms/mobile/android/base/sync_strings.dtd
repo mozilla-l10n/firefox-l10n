@@ -150,6 +150,8 @@
 
 <!ENTITY fxaccount_create_account_header2 "Cipta Firefox Account">
 <!ENTITY fxaccount_create_account_password_length_restriction "Mestilah sekurang-kurangnya 8 aksara">
+
+
 <!ENTITY fxaccount_create_account_year_of_birth "Tahun kelahiran">
 <!-- Localization note: &formatS1; is fxaccount_policy_linktos, &formatS2; is fxaccount_policy_linkprivacy, both hyperlinked. -->
 <!ENTITY fxaccount_create_account_policy_text2 "Dengan meneruskannya, saya bersetuju dengan &formatS1; dan &formatS2; perkhidmatan awan Firefox.">
@@ -167,8 +169,12 @@
 <!-- Localization note: &formatS; is the Firefox Account's email address. -->
 <!ENTITY fxaccount_confirm_account_verification_link "Pautan pengesahan telah dihantar ke &formatS;">
 <!ENTITY fxaccount_confirm_account_resend_email "Ulang hantar email">
+
 <!ENTITY fxaccount_confirm_account_verification_link_sent2 "Pengesahan email dihantar">
 <!ENTITY fxaccount_confirm_account_verification_link_not_sent2 "Tidak dapat menghantar email pengesahan">
+
+
+
 
 <!ENTITY fxaccount_sign_in_sub_header "Daftar masuk">
 <!ENTITY fxaccount_sign_in_button_label "Daftar masuk">
@@ -179,13 +185,19 @@
 <!ENTITY fxaccount_account_verified_sub_header "Akaun disahkan">
 <!ENTITY fxaccount_account_verified_description2 "Data anda akan mula sync sebentar lagi.">
 
+
 <!ENTITY fxaccount_update_credentials_header "Daftar masuk">
 <!ENTITY fxaccount_update_credentials_button_label "Daftar masuk ">
 <!ENTITY fxaccount_update_credentials_unknown_error "Tidak dapat daftar masuk">
 
+
+
+
 <!ENTITY fxaccount_status_header2 "Akaun Firefox">
 <!ENTITY fxaccount_status_signed_in_as "Daftar masuk sebagai">
 <!ENTITY fxaccount_status_auth_server "Pelayan akaun">
+
+
 <!ENTITY fxaccount_status_device_name "Nama peranti">
 <!ENTITY fxaccount_status_sync_server "Pelayan Sync">
 <!ENTITY fxaccount_status_sync "&syncBrand.shortName.label;">
@@ -194,7 +206,8 @@
 <!ENTITY fxaccount_status_needs_credentials "Tidak dapat menyambung. Tap untuk mendaftar masuk.">
 <!ENTITY fxaccount_status_needs_upgrade "Anda perlu menaiktaraf &brandShortName; untuk mendaftar masuk.">
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled "&syncBrand.shortName.label; telah ditetapkan, tetapi tidak automatik disync. Togol “data Auto-sync” dalam Android Tetapan &gt; Penggunaan Data.">
-<!ENTITY fxaccount_status_needs_account_enabled "&syncBrand.shortName.label; telah ditetapkan, tetapi tidak automatik disync. Ketik untuk mulakan sync.">
+
+
 <!ENTITY fxaccount_status_bookmarks "Penandabuku">
 <!ENTITY fxaccount_status_history "Sejarah">
 <!ENTITY fxaccount_status_passwords "Kata laluan">
@@ -243,7 +256,10 @@
 <!ENTITY fxaccount_remote_error_UNKNOWN_ERROR "Terdapat masalah">
 <!ENTITY fxaccount_remote_error_COULD_NOT_CONNECT "Tidak dapat menyambung ke rangkaian">
 
+
 <!ENTITY fxaccount_sync_sign_in_error_notification_title2 "&syncBrand.shortName.label; tidak tersambung">
 <!-- Localization note: the format string below will be replaced
      with the Firefox Account's email address. -->
-<!ENTITY fxaccount_sync_sign_in_error_notification_text2 "Tap untuk daftar masuk sebagai &formatS;">
+
+<!-- Localization note: the format string below will be replaced
+     with the Firefox Account's email address. -->

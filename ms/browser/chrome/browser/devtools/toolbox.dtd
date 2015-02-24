@@ -113,11 +113,14 @@
   -  for the target of the toolbox. -->
 
 <!ENTITY options.toolNotSupported.label  "* Tidak disokong untuk sasaran kekotak alatan semasa">
-<!-- LOCALIZATION NOTE (options.selectDevToolsTheme.label): This is the label for
+<!-- LOCALIZATION NOTE (options.selectDevToolsTheme.label2): This is the label for
   -  the heading of the radiobox corresponding to the theme of the developer
   -  tools. -->
 
-<!ENTITY options.selectDevToolsTheme.label   "PIlih tema DevTools:">
+<!ENTITY options.selectDevToolsTheme.label2   "Tema">
+<!-- LOCALIZATION NOTE (options.usedeveditiontheme.*) Options under the
+  -  toolbox for enabling and disabling the Developer Edition browser theme. -->
+
 <!-- LOCALIZATION NOTE (options.webconsole.label): This is the label for the
   -  heading of the group of Web Console preferences in the options panel. -->
 
@@ -147,7 +150,7 @@
   -  panel. -->
 
 <!ENTITY options.profiler.label            "Pemprofil JavaScript">
-<!-- LOCALICATION NOTE (options.commonprefs): This is the label for the heading
+<!-- LOCALIZATION NOTE (options.commonprefs): This is the label for the heading
       of all preferences that affect both the Web Console and the Network
       Monitor -->
 
@@ -183,3 +186,4 @@ memasukkan simbol platform Gecko">
 <!ENTITY options.sourceeditor.keybinding.label          "Keybindings">
 <!ENTITY options.sourceeditor.keybinding.accesskey      "K">
 <!ENTITY options.sourceeditor.keybinding.default.label  "Lalai">
+

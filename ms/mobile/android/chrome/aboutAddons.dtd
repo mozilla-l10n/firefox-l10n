@@ -5,7 +5,6 @@
 <!ENTITY aboutAddons.title2                     "Add-on">
 <!ENTITY aboutAddons.header2                    "Add-on Anda">
 <!ENTITY aboutAddons.options                    "Pilihan">
-<!ENTITY aboutAddons.browseAll                  "Layari semua Add-on Firefox">
 
 <!ENTITY addonAction.enable                     "Bolehkan">
 <!ENTITY addonAction.disable                    "Lumpuhkan">

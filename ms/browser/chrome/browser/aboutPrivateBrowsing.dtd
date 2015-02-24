@@ -16,7 +16,3 @@
 
 <!ENTITY privatebrowsingpage.openPrivateWindow.label "Buka satu tetingkap sulit">
 <!ENTITY privatebrowsingpage.openPrivateWindow.accesskey "p">
-<!-- TO BE REMOVED POST-AUSTRALIS --> 
-<!-- LOCALIZATION NOTE (privatebrowsingpage.howToStart3): please leave &basePBMenu.label; intact in the translation -->
-
-<!ENTITY privatebrowsingpage.howToStart3               "Untuk memulakan Pelayaran Peribadi, anda juga boleh memilih &basePBMenu.label; &gt; &newPrivateWindow.label;.">

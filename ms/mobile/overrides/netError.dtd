@@ -17,14 +17,8 @@
 <!ENTITY deniedPortAccess.longDesc "">
 
 <!ENTITY dnsNotFound.title "Pelayan tidak ditemui">
-<!ENTITY dnsNotFound.longDesc3 "<ul> 
-<li>Periksa alamat untuk kesalah menaip seperti 
-<strong>ww</strong>.example.com yang sepatutnya 
-<strong>www</strong>.example.com</li> 
-<li>Jika anda tidak dapat memuat sebarang laman, periksa sambungan data atau Wi-Fi telefon anda. 
-<button id='wifi'>Dayakan Wi-Fi</button> 
-</li> 
-</ul>">
+<!-- LOCALIZATION NOTE (dnsNotFound.longDesc4) This string contains markup including widgets for searching
+     or enabling wifi connections. The text inside tags should be localized.  Do not change the ids. -->
 
 <!ENTITY fileNotFound.title "Fail tidak ditemui">
 <!ENTITY fileNotFound.longDesc "<ul> 
@@ -37,12 +31,8 @@
 <!ENTITY generic.longDesc "<p>&brandShortName; tidak dapat memuatkan laman ini atas sebab tertentu.</p>">
 
 <!ENTITY malformedURI.title "Alamat tidak sah">
-<!ENTITY malformedURI.longDesc "<ul> 
-<li>Alamat Web kebiasaannya ditulis seperti 
-<strong>http://www.contoh.com/</strong></li> 
-<li>Pastikan yang anda menggunakan slash (cth. 
-<strong>/</strong>).</li> 
-</ul>">
+<!-- LOCALIZATION NOTE (malformedURI.longDesc2) This string contains markup including widgets for searching
+     or enabling wifi connections. The text inside the tags should be localized. Do not touch the ids. -->
 
 <!ENTITY netInterrupt.title "Sambungan terganggu">
 <!ENTITY netInterrupt.longDesc2 "&sharedLongDesc3;">
@@ -51,6 +41,8 @@
 <!ENTITY notCached.longDesc "<p>Dokumen yang diminta tidak berada di dalam &brandShortName;'s cache.</p><ul><li>Sebagai satu keselamatan berjaga-jaga, &brandShortName;tidak akan diminta kembali dokumen sensitif.</li><li>Tekan Cuba Lagi untuk meminta semula dokumen daripada laman web.</li></ul>">
 
 <!ENTITY netOffline.title "Mod luar talian">
+<!-- LOCALIZATION NOTE (netOffline.longDesc3) This string contains markup including widgets enabling wifi connections.
+     The text inside the tags should be localized. Do not touch the ids. -->
 <!ENTITY netOffline.longDesc3 "<ul> 
 <li>Cuba lagi. &brandShortName; akan membuat cubaan untuk membuka sambungan dan memuat laman. 
 <button id='wifi'>Dayakan Wi-Fi</button> 
@@ -86,6 +78,8 @@ berfungsi.</li>
 </ul>">
 
 <!ENTITY proxyResolveFailure.title "Tidak dapat menemui pelayan proksi">
+<!-- LOCALIZATION NOTE (proxyResolveFailure.longDesc3) This string contains markup including widgets for enabling wifi connections.
+     The text inside the tags should be localized. Do not touch the ids. -->
 <!ENTITY proxyResolveFailure.longDesc3 "<ul> 
 <li>Periksa tetapan proksi untuk memastikan yang ianya adalah betul.</li> 
 <li>Periksa juga yang peranti anda mempunyai sambungan data atau Wi-Fi. 
@@ -119,6 +113,8 @@ Sekuriti Peribadi yang terpasang.</li>
 <li>Jika anda telah disambungkan ke server ini dengan jayanya sebelum ini, masalah ini mungkin 
  sementara, dan anda boleh cuba lagi kemudian.</li>
 </ul>">
+<!-- LOCALIZATION NOTE (sharedLongDesc3) This string contains markup including widgets for enabling wifi connections.
+     The text inside the tags should be localized. Do not touch the ids. -->
 
 <!ENTITY sharedLongDesc3 "<ul> 
 <li>Laman ini mungkin belum tersedia buat sementara waktu atau terlalu sibuk. Cuba lagi seketika nanti.</li> 
@@ -127,8 +123,8 @@ Sekuriti Peribadi yang terpasang.</li>
 </li> 
 </ul>">
 
-<!ENTITY cspFrameAncestorBlocked.title "Disekat oleh Polisi Keselamatan Kandungan">
-<!ENTITY cspFrameAncestorBlocked.longDesc "<p>&brandShortName; menghalang laman ini daripada dipaparkan kerana ia mempunyai kandungan yang tidak dibenarkan oleh polisi keselamatan.</p>">
+<!ENTITY cspBlocked.title "Disekat oleh Polisi Keselamatan Kandungan">
+<!ENTITY cspBlocked.longDesc "<p>&brandShortName; menghalang laman ini daripada dipaparkan kerana ia mempunyai kandungan yang tidak dibenarkan oleh polisi keselamatan.</p>">
 
 <!ENTITY corruptedContentError.title "Ralat Kandungan Rosak">
 <!ENTITY corruptedContentError.longDesc "<p>Laman yang anda cuba untuk lihat tidak dapat dipamer kerana ada kesilapan dalam penghantaran data telah dikesan.</p><ul><li>Sila hubungi pemilik tapak web ini untuk memaklumkannya mengenai masalah ini.</li></ul>">
