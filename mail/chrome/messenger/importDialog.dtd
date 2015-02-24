@@ -12,7 +12,7 @@ LOCALIZATION NOTE : Do not translate any of the occurrences of the word
 
 <!ENTITY importDialog.windowTitle "Uvozi">
 <!ENTITY importAll.label          "Uvozi vse">
-<!ENTITY importAll.accesskey      "e">
+<!ENTITY importAll.accesskey      "U">
 <!ENTITY importMail.label         "Pošto">
 <!ENTITY importMail.accesskey     "P">
 <!ENTITY importFeeds.label        "Naročnine na vire">
