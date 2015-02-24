@@ -13,11 +13,10 @@
 <!ENTITY restorepage.startNew       "Iniciando una sesión completamente nueva">
 
 <!ENTITY restorepage.tryagainButton "Restaurar">
-<!ENTITY restorepage.restore.access "R">
-<!ENTITY restorepage.closeButton    "Cerrar">
-<!ENTITY restorepage.close.access   "C">
 
-<!ENTITY restorepage.restoreHeader  "Restaurar">
+<!ENTITY restorepage.closeButton    "Cerrar">
+
+
 <!ENTITY restorepage.listHeader     "Ventanas y pestañas">
 <!-- LOCALIZATION NOTE: &#37;S will be replaced with a number. -->
 <!ENTITY restorepage.windowLabel    "Window &#037;S">
@@ -27,11 +26,10 @@
 
 
 <!ENTITY welcomeback2.restoreButton  "¡Vamos!">
-<!ENTITY welcomeback2.restoreButton.access "L">
+
 
 <!ENTITY welcomeback2.tabtitle      "¡Éxito!">
 
-<!ENTITY welcomeback2.pageTitle     "¡Éxito!">
 <!ENTITY welcomeback2.pageInfo1     "&brandShortName; está listo para continuar.">
 
 <!ENTITY welcomeback2.label.restoreAll  "Restablecer todas las ventanas y pestañas">
