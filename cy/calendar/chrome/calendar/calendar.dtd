@@ -12,9 +12,9 @@
 <!ENTITY calendar.unifinder.todoitems.label       "Tasgau" >
 <!ENTITY calendar.unifinder.showcompletedtodos.label "Dangos Tasgau wedi eu cwblhau">
 
-<!ENTITY calendar.today.button.label       "Heddiw">
+<!ENTITY calendar.today.button.label          "Heddiw">
 <!ENTITY calendar.tomorrow.button.label       "Yfory">
-<!ENTITY calendar.soon.button.label           "Cyn bo hir">
+
 
 <!ENTITY calendar.events.filter.all.label "Pob Digwyddiad">
 <!ENTITY calendar.events.filter.today.label "Digwyddiadau Heddiw">
@@ -233,8 +233,15 @@
 <!ENTITY calendar.context.newserver.accesskey          "N">
 <!ENTITY calendar.context.findcalendar.label           "Canfod Calendr…" >
 <!ENTITY calendar.context.findcalendar.accesskey       "C" >
-<!ENTITY calendar.context.deleteserver.label           "Dileu Calendr">
-<!ENTITY calendar.context.deleteserver.accesskey       "D">
+
+
+<!-- LOCALIZATION NOTE (calendar.context.removeserver.label): Removing the
+      calendar is the general action of removing it, while deleting means to
+      clear the data and unsubscribing means just taking it out of the calendar
+      list. -->
+
+
+
 <!ENTITY calendar.context.synccalendars.label          "Cydweddu Calendrau">
 <!ENTITY calendar.context.synccalendars.accesskey      "C">
 <!ENTITY calendar.context.publish.label                "Cyhoeddi Calendr…">
