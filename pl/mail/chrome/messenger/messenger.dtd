@@ -150,6 +150,8 @@
 <!ENTITY messagePaneVertical.accesskey     "P">
 <!ENTITY showFolderPaneCmd.label           "Panel folderów">
 <!ENTITY showFolderPaneCmd.accesskey       "f">
+<!ENTITY showFolderPaneColsCmd.label "Kolumny panelu folderów">
+<!ENTITY showFolderPaneColsCmd.accesskey "K">
 <!ENTITY showMessageCmd.label              "Panel wiadomości">
 <!ENTITY showMessageCmd.accesskey          "m">
 
@@ -588,8 +590,9 @@
 <!ENTITY manageTags.label "Zarządzaj etykietami…">
 <!ENTITY manageTags.accesskey "Z">
 
-<!-- Folder Pane -->
-<!ENTITY folderColumn.label     "Nazwa">
+<!ENTITY folderNameColumn.label "Nazwa">
+<!ENTITY folderUnreadColumn.label "Nieczytane">
+<!ENTITY folderTotalColumn.label "Razem">
 <!ENTITY folderSizeColumn.label "Rozmiar">
 
 <!-- Folder Pane Context Menu -->
