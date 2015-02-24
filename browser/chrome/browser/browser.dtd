@@ -844,7 +844,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY readingList.label                        "Zoznam na prečítanie">
 <!ENTITY readingList.sidebar.commandKey           "o">
-<!-- Pre-landed string for bug 1124400 -->
 <!ENTITY readingList.showSidebar.label            "Zobraziť bočný panel Zoznam na prečítanie">
 <!-- Pre-landed string for bug 1124153 -->
 <!ENTITY readingList.sidebar.showMore.label       "Zobraziť ďalšie…">
