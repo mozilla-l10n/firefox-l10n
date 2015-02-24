@@ -4,7 +4,7 @@
 <!ENTITY addons.windowTitle                   "Əlavə idarəçisi">
 
 <!ENTITY search.placeholder                   "Bütün əlavələrdə axtar">
-
+<!ENTITY search.buttonlabel                   "Axtar">
 <!-- LOCALIZATION NOTE (search.commandKey):
      The search command key should match findOnCmd.commandkey from browser.dtd -->
 <!ENTITY search.commandkey                    "f">
@@ -36,6 +36,8 @@
 <!ENTITY info.plugincheck.label                 "Əlavə proqramların aktual olub olmadığını yoxlayın">
 <!ENTITY info.plugincheck.tooltip               "Əlavə proqramların aktual olub olmadığını yoxlayın">
 <!-- categories / views -->
+
+<!ENTITY view.search.label                    "Axtar">
 <!ENTITY view.discover.label                  "Əlavə yükləyin">
 <!ENTITY view.recentUpdates.label             "Yaxın vaxtlardakı yeniləmələr">
 <!ENTITY view.availableUpdates.label          "Mövcud yeniləmələr">
@@ -228,3 +230,4 @@ havanın vəziyyətini göstərən və ya &brandShortName; tətbiqinin istədiyi
 <!ENTITY experiment.info.changetelemetry "Telemetriya nizamlamaları">
 <!ENTITY experiment.info.changetelemetry.accesskey "T">
 
+<!ENTITY setting.learnmore "Ətraflı Öyrən…">

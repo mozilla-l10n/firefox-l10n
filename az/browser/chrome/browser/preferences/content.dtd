@@ -45,5 +45,6 @@
 
 <!ENTITY  drmContent.label             "DRM məzmun">
 
-
-
+<!ENTITY  playDRMContent.label         "DRM məzmun oynat">
+<!ENTITY  playDRMContent.accesskey     "o">
+<!ENTITY  playDRMContent.learnMore.label "Ətraflı öyrən">

@@ -522,8 +522,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 "Pause" are the same because the two context-menu
 items are mutually exclusive. -->
 
-<!ENTITY mediaPlay.label             "Göstər">
-<!ENTITY mediaPlay.accesskey         "t">
+<!ENTITY mediaPlay.label             "Oynat">
+<!ENTITY mediaPlay.accesskey         "O">
 <!ENTITY mediaPause.label            "Dayandır">
 <!ENTITY mediaPause.accesskey        "D">
 <!-- LOCALIZATION NOTE: The access keys for "Mute" and
