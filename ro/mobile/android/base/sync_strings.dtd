@@ -134,6 +134,8 @@
      etc).  The account remains a "Firefox Account". -->
 
 
+
+
 <!-- Localization note: &formatS1; is fxaccount_policy_linktos, &formatS2; is fxaccount_policy_linkprivacy, both hyperlinked. -->
 <!ENTITY fxaccount_create_account_button "Următor">
 
@@ -175,7 +177,6 @@
 
 <!ENTITY fxaccount_status_sync "&syncBrand.shortName.label;">
 <!ENTITY fxaccount_status_sync_enabled "&syncBrand.shortName.label;: activat">
-
 
 
 

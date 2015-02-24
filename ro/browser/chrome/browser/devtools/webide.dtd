@@ -41,6 +41,8 @@
 <!ENTITY runtimeMenu_showDevicePrefs_label "Preferințele pentru dispozitiv">
 
 
+
+
 <!ENTITY viewMenu_label "Vizualizează">
 
 <!ENTITY viewMenu_toggleEditor_label "Comută editorul">
@@ -90,6 +92,7 @@
 <!ENTITY details_location "Adresă">
 
 <!ENTITY details_removeProject_button "Elimină proiectul">
+
 <!-- New App -->
 
 <!ENTITY newAppWindowTitle "Aplicație nouă">
@@ -142,18 +145,37 @@
 
 <!ENTITY runtimedetails_requestPrivileges "solicită privilegii mai mari">
 <!ENTITY runtimedetails_privilegesWarning "(Va reporni dispozitivul. Necesită acces root.)">
-<!-- Device Preferences -->
+<!-- Device Preferences and Settings -->
 
-<!ENTITY devicepreferences_title "Preferințele pentru dispozitiv">
-<!ENTITY devicepreferences_search "Preferințe de căutare">
-<!ENTITY devicepreferences_newname "Nume pentru preferință nouă">
-<!ENTITY devicepreferences_newtext "Valoare preferință">
-<!ENTITY devicepreferences_addnew "Adăugați preferință nouă">
-<!ENTITY devicepreferences_typeboolean "Adevărat/fals">
-<!ENTITY devicepreferences_typenumber "Număr">
-<!ENTITY devicepreferences_typestring "Text">
-<!ENTITY devicepreferences_typenone "Selectați un tip">
+<!ENTITY device_typeboolean "Adevărat/fals">
+<!ENTITY device_typenumber "Număr">
+<!ENTITY device_typestring "Text">
+<!ENTITY device_typeobject "Obiect">
+<!ENTITY device_typenone "Selectați un tip">
+<!-- Device Preferences -->
+<!ENTITY devicepreference_search "Preferințe de căutare">
+<!ENTITY devicepreference_newname "Nume pentru preferință nouă">
+<!ENTITY devicepreference_newtext "Valoare preferință">
+<!ENTITY devicepreference_addnew "Adăugați preferință nouă">
+<!-- Device Settings -->
+
+
+
+
 <!-- Monitor -->
 
 <!ENTITY monitor_title "Monitorizare">
 <!ENTITY monitor_help "Ajutor">
+<!-- WiFi Authentication -->
+<!-- LOCALIZATION NOTE (wifi_auth_header): The header displayed on the dialog
+     that instructs the user to transfer an authentication token to the
+     server. -->
+<!-- LOCALIZATION NOTE (wifi_auth_scan_request): Instructions requesting the
+     user to transfer authentication info by scanning a QR code. -->
+<!-- LOCALIZATION NOTE (wifi_auth_no_scanner): Link text to assist users with
+     devices that can't scan a QR code. -->
+<!-- LOCALIZATION NOTE (wifi_auth_yes_scanner): Link text to assist users with
+     devices that can scan a QR code. -->
+<!-- LOCALIZATION NOTE (wifi_auth_token_request): Instructions requesting the
+     user to transfer authentication info by transferring a token. -->
+<!-- Logs panel -->

@@ -14,8 +14,8 @@
 <!ENTITY pref.calendar.alarms.sound.useDefault.accessKey "i">
 <!ENTITY pref.calendar.alarms.sound.browse.label "Răsfoiește…">
 <!ENTITY pref.calendar.alarms.sound.browse.accessKey "R">
-<!ENTITY pref.calendar.alarms.sound.preview.label "Previzualizează">
-<!ENTITY pref.calendar.alarms.sound.preview.accessKey "P">
+
+
 <!ENTITY pref.showalarmbox "Arată un mesaj cu alarma">
 <!ENTITY pref.calendar.alarms.showAlarmBox.accessKey "j">
 <!ENTITY pref.missedalarms "Arată alarmele pierdute">

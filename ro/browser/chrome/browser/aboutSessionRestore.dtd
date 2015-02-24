@@ -13,11 +13,10 @@
 <!ENTITY restorepage.startNew       "Să începeți o sesiune nouă de navigare">
 
 <!ENTITY restorepage.tryagainButton "Restaurează">
-<!ENTITY restorepage.restore.access "R">
-<!ENTITY restorepage.closeButton    "Închide">
-<!ENTITY restorepage.close.access   "c">
 
-<!ENTITY restorepage.restoreHeader  "Restaurează">
+<!ENTITY restorepage.closeButton    "Închide">
+
+
 <!ENTITY restorepage.listHeader     "Ferestre și file">
 <!-- LOCALIZATION NOTE: &#37;S will be replaced with a number. -->
 <!ENTITY restorepage.windowLabel    "Fereastra &#037;S">
@@ -27,11 +26,10 @@
 
 
 <!ENTITY welcomeback2.restoreButton  "Să începem!">
-<!ENTITY welcomeback2.restoreButton.access "L">
+
 
 <!ENTITY welcomeback2.tabtitle      "Succes!">
 
-<!ENTITY welcomeback2.pageTitle     "Succes!">
 <!ENTITY welcomeback2.pageInfo1     "&brandShortName; este gata să funcționeze.">
 
 <!ENTITY welcomeback2.label.restoreAll  "Restaurează toate ferestrele și filele">
