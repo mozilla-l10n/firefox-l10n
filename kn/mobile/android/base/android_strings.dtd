@@ -214,7 +214,7 @@ size. -->
 <!ENTITY pref_media_autoplay_enabled "ಆಟೋ ಪ್ಲೇ ಅನುಮತಿಸು">
 <!ENTITY pref_media_autoplay_enabled_summary "ಜಾಲತಾಣಗಳು ಸ್ವಯಂ ವೀಡಿಯೊ ಮತ್ತು ಇತರೆ ಮೀಡಿಯಾ ವಿಷಯಗಳನ್ನು ಪ್ಲೇ ಮಾಡುತ್ತಿದ್ದಲ್ಲಿ ನಿಯಂತ್ರಿಸಿ">
 <!ENTITY pref_zoom_force_enabled "ಜೂಮ್‌ ಅನ್ನು ಯಾವಾಗಲೂ ಸಕ್ರಿಯವಾಗಿರಿಸು">
-
+<!ENTITY pref_zoom_force_enabled_summary "ಯಾವುದೇ ಪುಟವನ್ನು ಜೂಮ್ ಮಾಡುವಂತಾಗಲು ಆದೇಶವನ್ನು ದಾಟಿ">
 
 <!ENTITY pref_use_master_password "ಮುಖ್ಯ ಗುಪ್ತಪದವನ್ನು ಬಳಸು">
 <!ENTITY pref_sync "ಸಿಂಕ್">
@@ -271,7 +271,7 @@ size. -->
      (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
 <!ENTITY datareporting_crashreporter_title_short "ಕ್ರಿಯಾವೈಫಲ್ಯ ವರದಿಗಾರ">
 <!ENTITY datareporting_wifi_title2 "&vendorShortName; ಸ್ಥಳಾಧಾರಿತ ಸೇವೆಗಳು">
-
+<!ENTITY datareporting_wifi_geolocation_summary3 "ವಿಶ್ವವನ್ನು ಅಳೆಯಲು &vendorShortName; ಗೆ ಸಹಾಯ ಮಾಡಿ! ನಮ್ಮ ಜಿಯೋಲೊಕೇಷನ್ ಸೇವೆಯನ್ನು ಉತ್ತಮಗೊಳಿಸಲು ನಿಮ್ಮ ಸಾಧನದ ಅಂದಾಜು Wi-Fi ಮತ್ತು ಸೆಲ್ಯುಲರ್ ಸ್ಥಳವನ್ನು ಹಂಚಿಕೊಳ್ಳಿ">
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
      actual notification that an update is available. -->
@@ -564,8 +564,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY voicesearch_prompt "ಈಗ ಮಾತಾಡು">
 <!ENTITY voicesearch_failed_title "&brandShortName; ಧ್ವನಿ ಹುಡುಕು">
-
-
+<!ENTITY voicesearch_failed_message "ಸಧ್ಯ ಧ್ವನಿ ಹುಡುಕಿನಲ್ಲಿ ತೊಂದರೆ ಇದೆ. ದಯವಿಟ್ಟು ಮತ್ತೆ ಪ್ರಯತ್ನಿಸಿ.">
+<!ENTITY voicesearch_failed_message_recoverable "ಕ್ಷಮಿಸಿ! ನಿಮ್ಮ ಪದಗಳನ್ನು ನಾವು ಗುರುತಿಸಲಾಗಲಿಲ್ಲ. ದಯವಿಟ್ಟು ಮತ್ತೆ ಪ್ರಯತ್ನಿಸಿ.">
 <!ENTITY voicesearch_failed_retry "ಇನ್ನೊಮ್ಮೆ ಪ್ರಯತ್ನಿಸಿ">
 <!-- Localization note (remote_tabs_last_synced): the variable is replaced by a
      "relative time span string" produced by Android.  This string describes the
@@ -576,6 +576,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY remote_tabs_last_synced "ಕಡೆಗೆ ಸಿಂಕ್ ಆದದ್ದು: &formatS;">
 <!-- Localization note: Used when the sync has not happend yet, showed in place of a date -->
+<!ENTITY remote_tabs_never_synced "ಕೊನೆಗೆ ಸಿಂಕ್‌ಆದದ್ದು: ಎಂದಿಗೂ ಇಲ್ಲ">
 <!-- Find-In-Page strings -->
 <!-- LOCALIZATION NOTE (find_matchcase): This is meant to appear as an icon that changes color
      if match-case is activated. i.e. No more than two letters, one uppercase, one lowercase. -->
