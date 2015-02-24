@@ -26,9 +26,11 @@
 <!ENTITY community.creditsLink "globalną społecznością">
 <!ENTITY community.end3 ", starającą się zapewnić, by Internet pozostał otwarty, publiczny i dostępny dla wszystkich.">
 
-<!ENTITY contribute.start           "Brzmi ciekawie? ">
-<!ENTITY contribute.getInvolvedLink "Dołącz do nas!">
-<!ENTITY contribute.end             "">
+<!ENTITY helpus.start "Chcesz pomóc? ">
+<!ENTITY helpus.donateLink "Przekaż datek">
+<!ENTITY helpus.middle " lub ">
+<!ENTITY helpus.getInvolvedLink "dołącz do nas">
+<!ENTITY helpus.end "!">
 
 <!ENTITY bottomLinks.license "Informacje licencyjne">
 <!ENTITY bottomLinks.rights  "Prawa użytkownika">
