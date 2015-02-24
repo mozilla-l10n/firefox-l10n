@@ -99,3 +99,5 @@
   -  is displayed next to a checkbox determining whether or not framerate
   -  is recorded. -->
 
+<!ENTITY profilerUI.enableFramerate             "Rekam Framerate">
+<!ENTITY profilerUI.enableFramerate.tooltiptext "Rekam framerate saat pemrofilan.">
