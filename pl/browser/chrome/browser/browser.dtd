@@ -765,6 +765,9 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY processHang.terminateProcess.label "Zabij proces">
 <!ENTITY processHang.terminateProcess.accessKey "s">
 
+<!ENTITY readingList.label "Lista czytelnia">
+<!ENTITY readingList.sidebar.commandKey "L">
+
 <!ENTITY emeLearnMoreContextMenu.label "Dowiedz się więcej o DRM…">
 <!ENTITY emeLearnMoreContextMenu.accesskey "D">
 <!ENTITY emeNotificationsNotNow.label "Zapytaj później">
