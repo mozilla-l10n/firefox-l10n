@@ -150,6 +150,8 @@
 
 <!ENTITY fxaccount_create_account_header2 "Konto Firefox załožić">
 <!ENTITY fxaccount_create_account_password_length_restriction "Znajmjeńša 8 znamješkow trěbnych">
+<!ENTITY fxaccount_create_account_day_of_birth "Dźeń">
+<!ENTITY fxaccount_create_account_month_of_birth "Měsac">
 <!ENTITY fxaccount_create_account_year_of_birth "Lěto narodźenja">
 <!-- Localization note: &formatS1; is fxaccount_policy_linktos, &formatS2; is fxaccount_policy_linkprivacy, both hyperlinked. -->
 <!ENTITY fxaccount_create_account_policy_text2 "Hdyž pokročujeće, zwoliće do &formatS1; a &formatS2; online-słužbow Firefox.">
@@ -207,7 +209,6 @@
 <!ENTITY fxaccount_status_needs_upgrade "Dyrbiće &brandShortName; aktualizować, zo byšće so přizjewił.">
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled "&syncBrand.shortName.label; je připrawjeny, ale njesynchronizuje awtomatisce. Zmóžńće “Daty awtomatisce synchronizować” w Androidowych nastajenjach &gt; Wužiwanje datow.">
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled_v21 "&syncBrand.shortName.label; je připrawjeny, ale njesynchronizuje awtomatisce. Zmóžńće “Daty awtomatisce synchronizować” w meniju Androidowe nastajenja a konta.">
-<!ENTITY fxaccount_status_needs_account_enabled "&syncBrand.shortName.label; je připrawjeny, ale njesynchronizuje awtomatisce. Pódótkńće so, zo byšće synchronizowanje započał.">
 <!ENTITY fxaccount_status_needs_finish_migrating "Podótkńće so, zo byšće so pola swojeho noweho konta Firefox přizjewił.">
 <!ENTITY fxaccount_status_bookmarks "Zapołožki">
 <!ENTITY fxaccount_status_history "Historija">

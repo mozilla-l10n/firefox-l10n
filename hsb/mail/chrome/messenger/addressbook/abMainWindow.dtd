@@ -3,8 +3,9 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY addressbookWindow.title                        "Adresnik">
-<!-- File Menu -->
 
+
+<!-- File Menu -->
 <!ENTITY fileMenu.label                                 "Dataja">
 <!ENTITY fileMenu.accesskey                             "D">
 <!ENTITY newMenu.label                                  "Nowy">

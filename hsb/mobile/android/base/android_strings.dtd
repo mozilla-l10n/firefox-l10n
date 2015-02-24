@@ -6,8 +6,8 @@
 <!ENTITY  no_space_to_start_error "Dosć ruma k dispoziciji njeje, zo by &brandShortName; startowało.">
 <!ENTITY  error_loading_file "Při pospyće datajow začitować, kotrež su trěbne za fungowanje &brandShortName;, je zmylk wustupił">
 
-<!ENTITY  onboard_start_message "Witajće do &brandShortName;!">
-<!ENTITY  onboard_start_subtext "Wam, wašej priwatnosći a wotewrjenemu webej zawjazany">
+<!ENTITY  onboard_start_message2 "Witajće do &brandShortName;">
+<!ENTITY  onboard_start_subtext2 "Wjace funkcijow priwatnosće a móžnosćow přiměrjenja hač hdy prjedy.">
 <!ENTITY  onboard_start_button_account "Pola &brandShortName; přizjewić">
 <!ENTITY  onboard_start_button_browser "Přehladowanje startować">
 <!-- Localization note: These are used as the titles of different pages on the home screen.
@@ -214,6 +214,8 @@ size. -->
 <!ENTITY pref_media_autoplay_enabled "Awtomatiske wothraće dowolić">
 <!ENTITY pref_media_autoplay_enabled_summary "Kontrolować, hač websydła móža wideja a druhi medijowy wobsah automatisce wothrać.">
 
+
+
 <!ENTITY pref_use_master_password "Hłowne hesło wužiwać">
 <!ENTITY pref_sync "Sync">
 <!ENTITY pref_sync_summary "Synchronizujće swoje rajtarki, zapołožki, hesła, historiju">
@@ -269,7 +271,7 @@ size. -->
      (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
 <!ENTITY datareporting_crashreporter_title_short "Spadowy rozprawjak">
 <!ENTITY datareporting_wifi_title2 "Stejnišćowa słužba &vendorShortName;">
-<!ENTITY datareporting_wifi_geolocation_summary2 "Dźěli přibližne WLAN-stejnišćo a stejnišćo mobilneho telefona wašeho grata z &vendorShortName;, zo by so naša słužba za postajenje stejnišća polěpšiła">
+
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
      actual notification that an update is available. -->
@@ -558,6 +560,11 @@ z Androida">
 
 <!ENTITY actionbar_menu "Meni">
 <!ENTITY actionbar_done "Hotowo">
+<!-- Voice search in the awesome bar -->
+
+
+
+
 <!-- Localization note (remote_tabs_last_synced): the variable is replaced by a
      "relative time span string" produced by Android.  This string describes the
      time the tabs were last synced relative to the current time; examples
@@ -566,6 +573,7 @@ z Androida">
      their desktop or laptop.-->
 
 <!ENTITY remote_tabs_last_synced "Posledni raz synchronizowany: &formatS;">
+<!-- Localization note: Used when the sync has not happend yet, showed in place of a date -->
 <!-- Find-In-Page strings -->
 <!-- LOCALIZATION NOTE (find_matchcase): This is meant to appear as an icon that changes color
      if match-case is activated. i.e. No more than two letters, one uppercase, one lowercase. -->

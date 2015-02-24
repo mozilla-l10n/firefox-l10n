@@ -16,7 +16,7 @@
 <!ENTITY search_plus_content_description "Pytanskemu polu přidać">
 
 <!ENTITY search_pref_title "Nastajenja">
-
+<!ENTITY search_pref_button_content_description "Nastajenja">
 
 <!ENTITY pref_clearHistory_confirmation "Historija je so zhašała">
 <!ENTITY pref_clearHistory_dialogMessage "Wšu pytansku historiju z tutoho grata zhašeć?">

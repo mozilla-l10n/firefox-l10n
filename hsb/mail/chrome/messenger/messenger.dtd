@@ -145,6 +145,8 @@
 <!ENTITY messagePaneVertical.accesskey "W">
 <!ENTITY showFolderPaneCmd.label "Wobłuk rjadowakow">
 <!ENTITY showFolderPaneCmd.accesskey "b">
+
+
 <!ENTITY showMessageCmd.label "Wobłuk powěsćow">
 <!ENTITY showMessageCmd.accesskey "b">
 
@@ -593,7 +595,9 @@
 <!ENTITY manageTags.accesskey "Z">
 <!-- Folder Pane -->
 
-<!ENTITY folderColumn.label "Mjeno">
+<!ENTITY folderNameColumn.label "Mjeno">
+
+
 <!ENTITY folderSizeColumn.label "Wulkosć">
 <!-- Folder Pane Context Menu -->
 
@@ -662,8 +666,8 @@
 <!ENTITY statusColumn.label "Status">
 <!ENTITY sizeColumn.label "Wulkosć">
 <!ENTITY junkStatusColumn.label "Čaporowy status">
-<!ENTITY unreadColumn.label "Njepřečitany">
-<!ENTITY totalColumn.label "Dohromady">
+
+
 <!ENTITY readColumn.label "Přečitany">
 <!ENTITY receivedColumn.label "Přijaty">
 <!ENTITY starredColumn.label "Z hwěžku">

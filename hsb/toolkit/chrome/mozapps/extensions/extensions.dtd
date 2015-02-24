@@ -4,6 +4,7 @@
 <!ENTITY addons.windowTitle                   "Zrjadowak přidatkow">
 
 <!ENTITY search.placeholder                   "Wšě přidatki pytać">
+
 <!-- LOCALIZATION NOTE (search.commandKey):
      The search command key should match findOnCmd.commandkey from browser.dtd -->
 <!ENTITY search.commandkey                    "f">
@@ -35,8 +36,6 @@
 <!ENTITY info.plugincheck.label                 "Přepruwujće, hač waše tykače su aktualne">
 <!ENTITY info.plugincheck.tooltip               "Přepruwujće, hač waše tykače su aktualne">
 <!-- categories / views -->
-
-<!ENTITY view.search.label                    "Pytać">
 <!ENTITY view.discover.label                  "Přidatki wobstarać">
 <!ENTITY view.recentUpdates.label             "Najnowše aktualizacije">
 <!ENTITY view.availableUpdates.label          "K dispoziciji stejace aktualizacije">
@@ -228,3 +227,4 @@ z lěpšich a najpopularnišich přidatkow za wupruwowanje poskićeć.">
 <!ENTITY experiment.info.learnmore.accesskey "D">
 <!ENTITY experiment.info.changetelemetry "Telemetrijowe nastajenja">
 <!ENTITY experiment.info.changetelemetry.accesskey "T">
+
