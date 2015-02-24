@@ -41,7 +41,7 @@
 <!ENTITY runtimeMenu_showMonitor_accesskey "M">
 <!ENTITY runtimeMenu_showDevicePrefs_label "Preferensi Perangkat">
 <!ENTITY runtimeMenu_showDevicePrefs_accesskey "P">
-
+<!ENTITY runtimeMenu_showSettings_label "Setelan Perangkat">
 
 
 <!ENTITY viewMenu_label "Tampilkan">
