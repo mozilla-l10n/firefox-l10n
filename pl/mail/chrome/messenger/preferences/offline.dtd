@@ -4,29 +4,29 @@
 
 <!ENTITY offlineDialog.title "Ustawienia trybu offline">
 
-<!ENTITY checkAutoDetect.label "Automatycznie używaj wykrytego stanu online">
+<!ENTITY checkAutoDetect.label "Automatycznie wykrywanie stanu połączenia">
 <!ENTITY checkAutoDetect.accesskey "A">
-<!ENTITY titleStartUp "Przy uruchamianiu:">
-<!ENTITY radioRememberPrevState.label "Powracaj do poprzedniego stanu online">
-<!ENTITY radioRememberPrevState.accesskey "P">
-<!ENTITY radioAskState.label "Pytaj o tryb online">
-<!ENTITY radioAskState.accesskey "o">
-<!ENTITY radioAlwaysOnline.label "Używaj trybu online">
-<!ENTITY radioAlwaysOnline.accesskey "U">
-<!ENTITY radioAlwaysOffline.label "Używaj trybu offline">
-<!ENTITY radioAlwaysOffline.accesskey "e">
+<!ENTITY titleStartUp "Podczas uruchamiania:">
+<!ENTITY radioRememberPrevState.label "powracaj do wcześniejszego stanu połączenia">
+<!ENTITY radioRememberPrevState.accesskey "w">
+<!ENTITY radioAskState.label "pytaj, czy łączyć">
+<!ENTITY radioAskState.accesskey "c">
+<!ENTITY radioAlwaysOnlineState.label "zawsze próbuj połączyć">
+<!ENTITY radioAlwaysOnlineState.accesskey "z">
+<!ENTITY radioAlwaysOffline.label "nie łącz">
+<!ENTITY radioAlwaysOffline.accesskey "n">
 
-<!ENTITY textGoingOnline             "Czy wysyłać niewysłane wiadomości przy przechodzeniu do trybu online?">
+<!ENTITY textGoingOnline "Czy wysyłać niewysłane wiadomości przy łączeniu?">
 <!ENTITY radioAutoSend.label         "Tak">
 <!ENTITY radioAutoSend.accesskey     "T">
 <!ENTITY radioNotSend.label          "Nie">
 <!ENTITY radioNotSend.accesskey      "N">
-<!ENTITY radioAskUnsent.label        "Zapytaj">
-<!ENTITY radioAskUnsent.accesskey    "a">
-<!ENTITY textGoingOffline            "Czy pobierać wiadomości do wykorzystania w trybie offline przed przechodzeniem do niego?">
+<!ENTITY radioAskUnsent.label "Pytaj">
+<!ENTITY radioAskUnsent.accesskey "P">
+<!ENTITY textGoingOffline "Czy pobierać wiadomości do późniejszego wykorzystania przed rozłączeniem?">
 <!ENTITY radioAutoDownload.label     "Tak">
 <!ENTITY radioAutoDownload.accesskey "k">
 <!ENTITY radioNotDownload.label      "Nie">
 <!ENTITY radioNotDownload.accesskey  "e">
-<!ENTITY radioAskDownload.label      "Zapytaj">
+<!ENTITY radioAskDownload.label "Pytaj">
 <!ENTITY radioAskDownload.accesskey  "j">
