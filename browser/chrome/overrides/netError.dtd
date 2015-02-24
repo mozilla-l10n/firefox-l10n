@@ -172,4 +172,5 @@ functionality specific to firefox. -->
 <!ENTITY sslv3Used.title "Chan urrainn dhuinn ceangal tèarainte a dhèanamh">
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc) - Do not translate
      "ssl_error_unsupported_version". -->
+<!ENTITY sslv3Used.longDesc "Fiosrachadh adhartach: ssl_error_unsupported_version">
 <!ENTITY sslv3Used.learnMore "Barrachd fiosrachaidh…">

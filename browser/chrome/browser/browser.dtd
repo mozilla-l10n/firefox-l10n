@@ -591,7 +591,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY fullZoomReduceCmd.label        "Sùm a-mach">
 <!ENTITY fullZoomReduceCmd.accesskey    "S">
-
+<!ENTITY fullZoomReduceCmd.commandkey   "-">
 <!ENTITY fullZoomReduceCmd.commandkey2  "">
 
 <!ENTITY fullZoomResetCmd.label         "Ath-shuidhich">
@@ -744,6 +744,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "G">
 <!ENTITY customizeMode.deveditionTheme.label2 "Cleachd ùrlar tionndadh an luchd-leasachaidh">
 
+<!ENTITY social.chatBar.commandkey "c">
 <!ENTITY social.chatBar.label "Cuir fòcas air a' chabadaich">
 <!ENTITY social.chatBar.accesskey "C">
 
@@ -773,12 +774,12 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY trackingContentBlocked.message "Tracadh">
 <!ENTITY trackingContentBlocked.moreinfo "Chaidh pìosan dhen duilleag a bha a' tracadh na tha thu ris air an eadar-lìon a bhacadh.">
-
-
+<!ENTITY trackingContentBlocked.learnMore "Barrachd fiosrachaidh">
+<!ENTITY trackingContentBlocked.options "Roghainnean">
 <!ENTITY trackingContentBlocked.unblock2.label "Cuir an dìon à comas air an làrach seo">
 <!ENTITY trackingContentBlocked.unblock2.accesskey "d">
-
-
+<!ENTITY trackingContentBlocked.block.label "Cuir an comas an dìon">
+<!ENTITY trackingContentBlocked.block.accesskey "u">
 <!ENTITY trackingContentBlocked.disabled.message "Tha an dìon o thracadh à comas">
 
 <!ENTITY pointerLock.notification.message "Brùth ESC uair sam bith gus a shealltainn as ùr.">
@@ -798,6 +799,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY pluginNotification.width "45em">
 
+<!ENTITY uiTour.infoPanel.close "Dùin">
 
 <!ENTITY appMenuSidebars.label         "Na bàraichean-taoibh">
 
@@ -828,17 +830,19 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY panicButton.thankyou.msg2                "Brabhsadh sàbhailte!">
 <!ENTITY panicButton.thankyou.buttonlabel         "Mòran taing!">
 
+<!ENTITY processHang.terminateScript.label        "Cuir crìoch air an sgriobt">
+<!ENTITY processHang.terminateScript.accessKey    "s">
+<!ENTITY processHang.debugScript.label            "Dì-bhugaich an sgriobt">
+<!ENTITY processHang.debugScript.accessKey        "D">
+<!ENTITY processHang.terminatePlugin.label        "Marbh am plugan">
+<!ENTITY processHang.terminatePlugin.accessKey    "M">
+<!ENTITY processHang.terminateProcess.label       "Marbh am pròiseas-lìn">
+<!ENTITY processHang.terminateProcess.accessKey   "b">
 
-
-
-
-
-
-
-
-
-
-
+<!ENTITY emeLearnMoreContextMenu.label            "Faigh barrachd fiosrachaidh mu DRM…">
+<!ENTITY emeLearnMoreContextMenu.accesskey        "D">
+<!ENTITY emeNotificationsNotNow.label             "Chan ann an-dràsta">
+<!ENTITY emeNotificationsNotNow.accesskey         "n">
 <!ENTITY emeNotificationsDontAskAgain.label       "Na faighnich dhìom a-rithist">
 <!ENTITY emeNotificationsDontAskAgain.accesskey   "N">
 
