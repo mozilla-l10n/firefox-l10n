@@ -3,20 +3,21 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY itemGeneral.label       "Splošno">
+
 <!ENTITY itemDisplay.label       "Branje in prikaz">
 <!ENTITY itemUpdate.label        "Posodobitev">
 <!ENTITY itemNetworking.label    "Omrežje in prostor na disku">
 <!ENTITY itemCertificates.label  "Potrdila">
 <!-- General Settings -->
 
-
-<!ENTITY submitTelemetry.label         "Pošlji podatke o zmogljivosti">
-<!ENTITY submitTelemetry.accesskey     "P">
-<!ENTITY telemetryInfoLink.label       "Več podatkov o telemetriji">
 <!ENTITY enableGlodaSearch.label       "Omogoči splošno iskanje in kazalo">
 <!ENTITY enableGlodaSearch.accesskey   "m">
 <!ENTITY allowHWAccel.label            "Uporabi strojno pospeševanje, kadar je na voljo">
 <!ENTITY allowHWAccel.accesskey        "s">
+
+
+
+
 
 <!ENTITY scrolling.label               "Drsenje">
 <!ENTITY useAutoScroll.label           "Uporabi samodejno drsenje">
@@ -37,6 +38,16 @@
 <!ENTITY returnReceiptsInfo.label      "Določite, kako &brandShortName; obravnava povratnice">
 <!ENTITY showReturnReceipts.label      "Povratnice …">
 <!ENTITY showReturnReceipts.accesskey  "o">
+<!-- Data Choices -->
+
+
+
+
+
+
+
+
+
 <!-- Display and Reading Settings -->
 
 <!ENTITY reading.caption               "Branje">

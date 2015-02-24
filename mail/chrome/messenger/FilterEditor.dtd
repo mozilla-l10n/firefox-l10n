@@ -26,6 +26,8 @@
 <!ENTITY contextOutgoing.label "po pošiljanju">
 <!ENTITY contextOutgoing.accesskey "š">
 
+
+
 <!ENTITY filterActionDesc.label "Izvedi ta dejanja:">
 <!ENTITY filterActionDesc.accesskey "z">
 

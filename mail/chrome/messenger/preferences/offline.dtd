@@ -11,8 +11,8 @@
 <!ENTITY radioRememberPrevState.accesskey "s">
 <!ENTITY radioAskState.label "Vprašaj me za stanje povezave">
 <!ENTITY radioAskState.accesskey "V">
-<!ENTITY radioAlwaysOnline.label "S povezavo">
-<!ENTITY radioAlwaysOnline.accesskey "S">
+<!ENTITY radioAlwaysOnlineState.label "S povezavo">
+<!ENTITY radioAlwaysOnlineState.accesskey "S">
 <!ENTITY radioAlwaysOffline.label "Brez povezave">
 <!ENTITY radioAlwaysOffline.accesskey "B">
 

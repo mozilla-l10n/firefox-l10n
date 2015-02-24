@@ -14,8 +14,8 @@
 <!ENTITY pref.calendar.alarms.sound.useDefault.accessKey "U">
 <!ENTITY pref.calendar.alarms.sound.browse.label "Brskaj …">
 <!ENTITY pref.calendar.alarms.sound.browse.accessKey "B">
-<!ENTITY pref.calendar.alarms.sound.preview.label "Predvajaj">
-<!ENTITY pref.calendar.alarms.sound.preview.accessKey "r">
+
+
 <!ENTITY pref.showalarmbox "Prikaži pogovorno okno opomnika">
 <!ENTITY pref.calendar.alarms.showAlarmBox.accessKey "o">
 <!ENTITY pref.missedalarms "Prikaži zgrešene opomnike">
