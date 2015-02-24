@@ -6,7 +6,8 @@
 <!ENTITY  no_space_to_start_error "Kapasitas ruang tidak mencukupi untuk memulai &brandShortName;.">
 <!ENTITY  error_loading_file "Galat terjadi saat memuat berkas yang diperlukan untuk menjalankan &brandShortName;">
 
-
+<!ENTITY  onboard_start_message2 "Selamat datang di &brandShortName;">
+<!ENTITY  onboard_start_subtext2 "Lebih banyak fitur privasi dan lebih banyak cara untuk mengubahsuai.">
 <!ENTITY  onboard_start_button_account "Masuk ke &brandShortName;">
 <!ENTITY  onboard_start_button_browser "Mulai Menjelajah">
 <!-- Localization note: These are used as the titles of different pages on the home screen.
@@ -111,7 +112,7 @@
 
 <!ENTITY overlay_share_send_tab_btn_label "Kirim ke perangkat lainnya">
 <!ENTITY overlay_share_no_url "Tidak ada tautan yang ada di pembagian ini">
-
+<!ENTITY overlay_share_retry "Coba lagi">
 <!ENTITY overlay_share_select_device "Pilih perangkat">
 
 <!ENTITY pref_category_search3 "Cari">
@@ -212,8 +213,8 @@ size. -->
 
 <!ENTITY pref_media_autoplay_enabled "Izinkan putar otomatis">
 <!ENTITY pref_media_autoplay_enabled_summary "Kendalikan apakah situs web dapat memutar video dan konten media lainnya secara otomatis">
-
-
+<!ENTITY pref_zoom_force_enabled "Selalu aktifkan perbesaran">
+<!ENTITY pref_zoom_force_enabled_summary "Paksa timpa agar Anda dapat memperbesar/memperkecil laman apa saja">
 
 <!ENTITY pref_use_master_password "Gunakan sandi utama">
 <!ENTITY pref_sync "Sync">
@@ -270,7 +271,7 @@ size. -->
      (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
 <!ENTITY datareporting_crashreporter_title_short "Pelapor Kerusakan">
 <!ENTITY datareporting_wifi_title2 "Layanan Lokasi &vendorShortName;">
-
+<!ENTITY datareporting_wifi_geolocation_summary3 "Bantu &vendorShortName; memetakan dunia! Bagikan perkiraan lokasi Wi-Fi dan seluler perangkat Anda untuk menyempurnakan layanan geolokasi kami.">
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
      actual notification that an update is available. -->
@@ -561,9 +562,11 @@ dari Android">
 <!ENTITY actionbar_done "Selesai">
 <!-- Voice search in the awesome bar -->
 
-
-
-
+<!ENTITY voicesearch_prompt "Bicara sekarang">
+<!ENTITY voicesearch_failed_title "Pencarian Suara &brandShortName;">
+<!ENTITY voicesearch_failed_message "Ada masalah dengan pencarian suara saat ini. Coba lagi nanti.">
+<!ENTITY voicesearch_failed_message_recoverable "Maaf! Kami tidak dapat mengenali ucapan Anda. Mohon coba lagi.">
+<!ENTITY voicesearch_failed_retry "Coba lagi">
 <!-- Localization note (remote_tabs_last_synced): the variable is replaced by a
      "relative time span string" produced by Android.  This string describes the
      time the tabs were last synced relative to the current time; examples
@@ -573,6 +576,7 @@ dari Android">
 
 <!ENTITY remote_tabs_last_synced "Terakhir disinkronkan: &formatS;">
 <!-- Localization note: Used when the sync has not happend yet, showed in place of a date -->
+<!ENTITY remote_tabs_never_synced "Terakhir disinkronkan: tidak pernah">
 <!-- Find-In-Page strings -->
 <!-- LOCALIZATION NOTE (find_matchcase): This is meant to appear as an icon that changes color
      if match-case is activated. i.e. No more than two letters, one uppercase, one lowercase. -->
