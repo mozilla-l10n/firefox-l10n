@@ -6,8 +6,7 @@
 <!ENTITY  no_space_to_start_error "&brandShortName; ಆರಂಭಿಸಲು ಸಾಕಷ್ಟು ಸ್ಥಳಾವಕಾಶ ಇಲ್ಲ.">
 <!ENTITY  error_loading_file "&brandShortName; ನ ಚಾಲನೆಗೆ ಅಗತ್ಯವಿರುವ ಕಡತಗಳನ್ನು ತುಂಬುವ ಪ್ರಯತ್ನದಲ್ಲಿ ದೋಷ ಉಂಟಾಗಿದೆ;">
 
-<!ENTITY  onboard_start_message "&brandShortName; ಗೆ ಸ್ವಾಗತ!">
-<!ENTITY  onboard_start_subtext "ನಾವು, ನಿಮ್ಮ ಗೌಪ್ಯತೆ ಹಾಗು ಮುಕ್ತ ಅಂತರ್ಜಾಲಕ್ಕೆ ಬದ್ಧ">
+
 <!ENTITY  onboard_start_button_account "&brandShortName; ಗೆ ಲಾಗಿನ್ ಮಾಡಿ">
 <!ENTITY  onboard_start_button_browser "ಅಂತರ್ಜಾಲದ ವೀಕ್ಷಣೆಯನ್ನು ಪ್ರಾರಂಭಿಸಿ">
 <!-- Localization note: These are used as the titles of different pages on the home screen.
@@ -112,7 +111,7 @@
 
 <!ENTITY overlay_share_send_tab_btn_label "ಮತ್ತೊಂದು ಸಾಧನಕ್ಕೆ ಕಳುಹಿಸು">
 <!ENTITY overlay_share_no_url "ಈ ಹಂಚಿಕೆಯಲ್ಲಿ ಯಾವುದೇ ಸಂಪರ್ಕ ಕೊಂಡಿ ಸಿಗಲಿಲ್ಲ">
-<!ENTITY overlay_share_retry "ಇನ್ನೊಮ್ಮೆ ಪ್ರಯತ್ನಿಸಿ">
+
 <!ENTITY overlay_share_select_device "ಸಾಧನವನ್ನು ಆಯ್ಕೆಮಾಡು">
 
 <!ENTITY pref_category_search3 "ಹುಡುಕು">
@@ -214,6 +213,8 @@ size. -->
 <!ENTITY pref_media_autoplay_enabled "ಆಟೋ ಪ್ಲೇ ಅನುಮತಿಸು">
 <!ENTITY pref_media_autoplay_enabled_summary "ಜಾಲತಾಣಗಳು ಸ್ವಯಂ ವೀಡಿಯೊ ಮತ್ತು ಇತರೆ ಮೀಡಿಯಾ ವಿಷಯಗಳನ್ನು ಪ್ಲೇ ಮಾಡುತ್ತಿದ್ದಲ್ಲಿ ನಿಯಂತ್ರಿಸಿ">
 
+
+
 <!ENTITY pref_use_master_password "ಮುಖ್ಯ ಗುಪ್ತಪದವನ್ನು ಬಳಸು">
 <!ENTITY pref_sync "ಸಿಂಕ್">
 <!ENTITY pref_sync_summary "ನಿಮ್ಮ ಹಾಳೆಗಳು, ಪುಟಗುರುತುಗಳು, ಪ್ರವೇಶ ಪದಗಳು, ಇತಿಹಾಸ ಸಿಂಕ್ ಮಾಡಿ">
@@ -269,7 +270,7 @@ size. -->
      (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
 <!ENTITY datareporting_crashreporter_title_short "ಕ್ರಿಯಾವೈಫಲ್ಯ ವರದಿಗಾರ">
 <!ENTITY datareporting_wifi_title2 "&vendorShortName; ಸ್ಥಳಾಧಾರಿತ ಸೇವೆಗಳು">
-<!ENTITY datareporting_wifi_geolocation_summary2 "ಜಿಯೋಲೊಕೇಷನ್ ಸೇವೆಯನ್ನು ಉತ್ತಮಗೊಳಿಸಲು ನಿಮ್ಮ ಸಾಧನದ ವೈಫೈ ಮತ್ತು ಸೆಲ್ಯುಲರ್ ಅಂದಾಜು ಸ್ಥಳವನ್ನು &vendorShortName; ನೊಂದಿಗೆ ಹಂಚಿಕೊಳ್ಳಿ">
+
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
      actual notification that an update is available. -->
@@ -558,6 +559,11 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY actionbar_menu "ಮೆನು">
 <!ENTITY actionbar_done "ಆಯಿತು">
+<!-- Voice search in the awesome bar -->
+
+
+
+
 <!-- Localization note (remote_tabs_last_synced): the variable is replaced by a
      "relative time span string" produced by Android.  This string describes the
      time the tabs were last synced relative to the current time; examples
@@ -566,6 +572,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      their desktop or laptop.-->
 
 <!ENTITY remote_tabs_last_synced "ಕಡೆಗೆ ಸಿಂಕ್ ಆದದ್ದು: &formatS;">
+<!-- Localization note: Used when the sync has not happend yet, showed in place of a date -->
 <!-- Find-In-Page strings -->
 <!-- LOCALIZATION NOTE (find_matchcase): This is meant to appear as an icon that changes color
      if match-case is activated. i.e. No more than two letters, one uppercase, one lowercase. -->
