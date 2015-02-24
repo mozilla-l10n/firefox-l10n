@@ -379,7 +379,7 @@ it is applicable. -->
 <!ENTITY home_reading_list_hint2 "RADA: Zachowaj artykuły do przeczytania później, przytrzymując ikonę &formatI; po jej pojawieniu się na pasku tytułu.">
 <!-- Localization note (home_reading_list_hint_accessible): This string is used
      as alternate text for accessibility. It is not visible in the UI. -->
-<!ENTITY home_reading_list_hint_accessible "RADA: Zachowaj artykuły do przeczytania później, przytrzymując przycisk trybu czytania po jego pojawieniu się na pasku tytułu.">
+<!ENTITY home_reading_list_hint_accessible "RADA: Zachowaj artykuły do przeczytania później, przytrzymując przycisk widoku ułatwionego czytania po jego pojawieniu się na pasku tytułu.">
 
 <!-- Localization note (home_default_empty): This string is used as the default text when there is no data to show in an about:home panel that was created by an add-on. -->
 <!ENTITY home_default_empty "Nie znaleźliśmy treści do wyświetlenia na tym panelu.">
