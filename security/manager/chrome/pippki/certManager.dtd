@@ -79,8 +79,8 @@
 <!ENTITY certmgr.details.accesskey            "F">
 <!ENTITY certmgr.fields.label                 "Nilai Field">
 <!ENTITY certmgr.fields.accesskey             "N">
-
-
+<!ENTITY certmgr.hierarchy.label              "Hierarki Sertifikat">
+<!ENTITY certmgr.hierarchy.accesskey2         "H">
 <!ENTITY certmgr.addException.label           "Tambah Pengecualian…">
 <!ENTITY certmgr.addException.accesskey       "P">
 

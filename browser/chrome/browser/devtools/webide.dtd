@@ -94,7 +94,7 @@
 <!ENTITY details_location "Lokasi">
 <!ENTITY details_manifestURL "App ID">
 <!ENTITY details_removeProject_button "Hapus Proyek">
-
+<!ENTITY details_showPrepackageLog_button "Tampilkan Catatan Prapaket">
 <!-- New App -->
 
 <!ENTITY newAppWindowTitle "Aplikasi Baru">
@@ -146,7 +146,7 @@
 <!ENTITY runtimedetails_adbIsRoot "ADB adalah root: ">
 <!ENTITY runtimedetails_summonADBRoot "perangkat root">
 <!ENTITY runtimedetails_ADBRootWarning "(membutuhkan bootloader yang tidak terkunci)">
-
+<!ENTITY runtimedetails_unrestrictedPrivileges "Izin DevTools Tak Terbatas: ">
 <!ENTITY runtimedetails_requestPrivileges "membutuhkan izin yang lebih tinggi">
 <!ENTITY runtimedetails_privilegesWarning "(Akan memulai ulang perangkat. Membutuhkan akses root.)">
 <!-- Device Preferences and Settings -->
@@ -157,6 +157,8 @@
 <!ENTITY device_typeobject "Objek">
 <!ENTITY device_typenone "Pilih jenis">
 <!-- Device Preferences -->
+
+<!ENTITY devicepreference_title "Preferensi Perangkat">
 <!ENTITY devicepreference_search "Cari preferensi">
 <!ENTITY devicepreference_newname "Nama preferensi baru">
 <!ENTITY devicepreference_newtext "Nilai preferensi">
@@ -174,6 +176,8 @@
 <!-- LOCALIZATION NOTE (wifi_auth_header): The header displayed on the dialog
      that instructs the user to transfer an authentication token to the
      server. -->
+
+<!ENTITY wifi_auth_header "Identifikasi Klien">
 <!-- LOCALIZATION NOTE (wifi_auth_scan_request): Instructions requesting the
      user to transfer authentication info by scanning a QR code. -->
 <!-- LOCALIZATION NOTE (wifi_auth_no_scanner): Link text to assist users with
