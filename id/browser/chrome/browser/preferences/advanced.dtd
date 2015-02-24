@@ -34,8 +34,8 @@
 <!ENTITY healthReportLearnMore.label     "Pelajari Selengkapnya">
 
 <!ENTITY telemetryDesc.label             "Berbagi data kinerja, penggunaan, perangkat keras, dan pengubahsuaian peramban Anda bersama &vendorShortName; untuk membuat &brandShortName; lebih baik">
-
-
+<!ENTITY enableTelemetryData.label       "Bagikan data lainnya (mis. Telemetri)">
+<!ENTITY enableTelemetryData.accesskey   "T">
 <!ENTITY telemetryLearnMore.label        "Pelajari Selengkapnya">
 
 <!ENTITY crashReporterDesc.label         "&brandShortName; mengirimkan laporan kerusakan untuk membantu &vendorShortName; membuat peramban Anda lebih stabil dan aman">

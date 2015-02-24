@@ -832,21 +832,24 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY processHang.terminateScript.label        "Hentikan Skrip">
 <!ENTITY processHang.terminateScript.accessKey    "H">
+<!ENTITY processHang.debugScript.label            "Debug Skrip">
+<!ENTITY processHang.debugScript.accessKey        "D">
+<!ENTITY processHang.terminatePlugin.label        "Hentikan Plugin">
+<!ENTITY processHang.terminatePlugin.accessKey    "P">
+<!ENTITY processHang.terminateProcess.label       "Hentikan Proses Web">
+<!ENTITY processHang.terminateProcess.accessKey   "W">
 
-
-
-
-
-
-
-
+<!ENTITY emeLearnMoreContextMenu.label            "Pelajari lebih lanjut tentang DRM…">
+<!ENTITY emeLearnMoreContextMenu.accesskey        "D">
 
 
 <!ENTITY emeNotificationsDontAskAgain.label       "Jangan tanyakan lagi">
 <!ENTITY emeNotificationsDontAskAgain.accesskey   "D">
 
-
+<!ENTITY readingList.label                        "Daftar Bacaan">
+<!ENTITY readingList.sidebar.commandKey           "R">
 <!-- Pre-landed string for bug 1124400 -->
+<!ENTITY readingList.showSidebar.label            "Tampilkan Bilah Samping Daftar Bacaan">
 <!-- Pre-landed string for bug 1124153 -->
 <!ENTITY readingList.sidebar.showMore.label       "Tampilkan lainnya…">
 <!-- Pre-landed string for bug 1133662 -->
