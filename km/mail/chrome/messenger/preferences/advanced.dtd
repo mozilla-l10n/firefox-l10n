@@ -3,18 +3,19 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY itemGeneral.label       "General">
+
 <!ENTITY itemDisplay.label       "អាន &amp; ទិដ្ឋភាព">
 <!ENTITY itemUpdate.label        "Update">
 <!ENTITY itemNetworking.label    "បណ្ដាញ &amp; ទំហំ​ថាស">
 <!ENTITY itemCertificates.label  "Certificates">
 <!-- General Settings -->
 
-
-<!ENTITY submitTelemetry.label         "ដាក់​ស្នើ​ទិន្នន័យ​ដំណើរការ">
-<!ENTITY submitTelemetry.accesskey     "P">
-<!ENTITY telemetryInfoLink.label       "ព័ត៌មាន​បន្ថែម​អំពី​ទូរមាត្រ">
 <!ENTITY enableGlodaSearch.label       "Enable Global Search and Indexer">
 <!ENTITY enableGlodaSearch.accesskey   "E">
+
+
+
+
 
 
 
@@ -37,6 +38,16 @@
 <!ENTITY returnReceiptsInfo.label      "Determine how &brandShortName; handles return receipts">
 <!ENTITY showReturnReceipts.label      "Return Receipts…">
 <!ENTITY showReturnReceipts.accesskey  "R">
+<!-- Data Choices -->
+
+
+
+
+
+
+
+
+
 <!-- Display and Reading Settings -->
 
 <!ENTITY reading.caption               "Reading">
