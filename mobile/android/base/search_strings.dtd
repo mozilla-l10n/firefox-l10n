@@ -16,7 +16,7 @@
 <!ENTITY search_plus_content_description "Arama çubuğuna ekle">
 
 <!ENTITY search_pref_title "Ayarlar">
-<!ENTITY search_pref_button_content_description "Ayarlar">
+
 
 <!ENTITY pref_clearHistory_confirmation "Geçmiş temizlendi">
 <!ENTITY pref_clearHistory_dialogMessage "Bu aygıttaki tüm arama geçmişi silinsin mi?">

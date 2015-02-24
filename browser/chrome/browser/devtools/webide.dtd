@@ -42,6 +42,8 @@
 <!ENTITY runtimeMenu_showDevicePrefs_label "Cihaz tercihleri">
 <!ENTITY runtimeMenu_showDevicePrefs_accesskey "C">
 
+
+
 <!ENTITY viewMenu_label "Göster">
 <!ENTITY viewMenu_accesskey "G">
 <!ENTITY viewMenu_toggleEditor_label "Editörü aç/kapat">
@@ -92,6 +94,7 @@
 <!ENTITY details_location "Konum">
 <!ENTITY details_manifestURL "Uygulama kimliği">
 <!ENTITY details_removeProject_button "Projeyi kaldır">
+
 <!-- New App -->
 
 <!ENTITY newAppWindowTitle "Yeni uygulama">
@@ -143,21 +146,40 @@
 <!ENTITY runtimedetails_adbIsRoot "ADB root mu?: ">
 <!ENTITY runtimedetails_summonADBRoot "root cihaz">
 <!ENTITY runtimedetails_ADBRootWarning "(kilitsiz bootloader gerekir)">
-<!ENTITY runtimedetails_restrictedPrivileges "Kısıtlı DevTools izinleri: ">
+
 <!ENTITY runtimedetails_requestPrivileges "daha fazla izin iste">
 <!ENTITY runtimedetails_privilegesWarning "(Cihaz yeniden başlatılacaktır. Root erişimi gerekir.)">
-<!-- Device Preferences -->
+<!-- Device Preferences and Settings -->
 
-<!ENTITY devicepreferences_title "Cihaz tercihleri">
-<!ENTITY devicepreferences_search "Arama tercihleri">
-<!ENTITY devicepreferences_newname "Yeni tercih adı">
-<!ENTITY devicepreferences_newtext "Tercih değeri">
-<!ENTITY devicepreferences_addnew "Yeni tercih ekle">
-<!ENTITY devicepreferences_typeboolean "Boolean">
-<!ENTITY devicepreferences_typenumber "Tamsayı">
-<!ENTITY devicepreferences_typestring "Dizgi">
-<!ENTITY devicepreferences_typenone "Tür seçin">
+<!ENTITY device_typeboolean "Boolean">
+<!ENTITY device_typenumber "Tamsayı">
+<!ENTITY device_typestring "Dizgi">
+<!ENTITY device_typeobject "Nesne">
+<!ENTITY device_typenone "Tür seçin">
+<!-- Device Preferences -->
+<!ENTITY devicepreference_search "Arama tercihleri">
+<!ENTITY devicepreference_newname "Yeni tercih adı">
+<!ENTITY devicepreference_newtext "Tercih değeri">
+<!ENTITY devicepreference_addnew "Yeni tercih ekle">
+<!-- Device Settings -->
+
+
+
+
 <!-- Monitor -->
 
 <!ENTITY monitor_title "İzleyici">
 <!ENTITY monitor_help "Yardım">
+<!-- WiFi Authentication -->
+<!-- LOCALIZATION NOTE (wifi_auth_header): The header displayed on the dialog
+     that instructs the user to transfer an authentication token to the
+     server. -->
+<!-- LOCALIZATION NOTE (wifi_auth_scan_request): Instructions requesting the
+     user to transfer authentication info by scanning a QR code. -->
+<!-- LOCALIZATION NOTE (wifi_auth_no_scanner): Link text to assist users with
+     devices that can't scan a QR code. -->
+<!-- LOCALIZATION NOTE (wifi_auth_yes_scanner): Link text to assist users with
+     devices that can scan a QR code. -->
+<!-- LOCALIZATION NOTE (wifi_auth_token_request): Instructions requesting the
+     user to transfer authentication info by transferring a token. -->
+<!-- Logs panel -->

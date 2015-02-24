@@ -145,6 +145,8 @@
 <!ENTITY messagePaneVertical.accesskey "k">
 <!ENTITY showFolderPaneCmd.label "Dizin bölmesi">
 <!ENTITY showFolderPaneCmd.accesskey "D">
+
+
 <!ENTITY showMessageCmd.label "İleti bölmesi">
 <!ENTITY showMessageCmd.accesskey "M">
 
@@ -593,7 +595,9 @@
 <!ENTITY manageTags.accesskey "E">
 <!-- Folder Pane -->
 
-<!ENTITY folderColumn.label "İsim">
+<!ENTITY folderNameColumn.label "İsim">
+
+
 <!ENTITY folderSizeColumn.label "Boyut">
 <!-- Folder Pane Context Menu -->
 
@@ -662,8 +666,8 @@
 <!ENTITY statusColumn.label "Durum">
 <!ENTITY sizeColumn.label "Boyut">
 <!ENTITY junkStatusColumn.label "Gereksiz durumu">
-<!ENTITY unreadColumn.label "Okunmadı">
-<!ENTITY totalColumn.label "Toplam">
+
+
 <!ENTITY readColumn.label "Okundu">
 <!ENTITY receivedColumn.label "Alınma tarihi">
 <!ENTITY starredColumn.label "Yıldızlı">

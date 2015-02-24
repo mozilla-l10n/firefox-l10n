@@ -12,9 +12,9 @@
 <!ENTITY calendar.unifinder.todoitems.label       "Görevler" >
 <!ENTITY calendar.unifinder.showcompletedtodos.label "Bitmiş görevleri göster">
 
-<!ENTITY calendar.today.button.label       "Bugün">
+<!ENTITY calendar.today.button.label          "Bugün">
 <!ENTITY calendar.tomorrow.button.label       "Yarın">
-<!ENTITY calendar.soon.button.label           "Yakın zamanda">
+
 
 <!ENTITY calendar.events.filter.all.label "Bütün etkinlikler">
 <!ENTITY calendar.events.filter.today.label "Bugünkü etkinlikler">
@@ -231,8 +231,15 @@
 <!ENTITY calendar.context.newserver.accesskey          "m">
 <!ENTITY calendar.context.findcalendar.label           "Takvim bul…" >
 <!ENTITY calendar.context.findcalendar.accesskey       "T" >
-<!ENTITY calendar.context.deleteserver.label           "Takvimi sil">
-<!ENTITY calendar.context.deleteserver.accesskey       "i">
+
+
+<!-- LOCALIZATION NOTE (calendar.context.removeserver.label): Removing the
+      calendar is the general action of removing it, while deleting means to
+      clear the data and unsubscribing means just taking it out of the calendar
+      list. -->
+
+
+
 <!ENTITY calendar.context.synccalendars.label          "Takvimleri eşitle">
 <!ENTITY calendar.context.synccalendars.accesskey      "k">
 <!ENTITY calendar.context.publish.label                "Takvimi yayınla…">

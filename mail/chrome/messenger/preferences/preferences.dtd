@@ -17,3 +17,6 @@
 <!ENTITY panePrivacy.title        "Gizlilik">
 <!ENTITY paneSecurity.title       "Güvenlik">
 <!ENTITY paneAdvanced.title       "Gelişmiş">
+<!ENTITY paneAccount.title        "Hesaplar">
+
+
