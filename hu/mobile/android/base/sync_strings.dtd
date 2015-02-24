@@ -150,6 +150,8 @@
 
 <!ENTITY fxaccount_create_account_header2 "Firefox fiók létrehozása">
 <!ENTITY fxaccount_create_account_password_length_restriction "Legalább 8 karakternek kell lennie">
+
+
 <!ENTITY fxaccount_create_account_year_of_birth "Születési év">
 <!-- Localization note: &formatS1; is fxaccount_policy_linktos, &formatS2; is fxaccount_policy_linkprivacy, both hyperlinked. -->
 <!ENTITY fxaccount_create_account_policy_text2 "A folytatással elfogadom a Firefox felhő szolgáltatások &formatS1; és az &formatS2;.">
@@ -191,7 +193,7 @@
 
 <!ENTITY fxaccount_finish_migrating_header "Jelentkezzen be a frissítés befejezéséhez">
 <!ENTITY fxaccount_finish_migrating_button_label "Frissítés befejezése">
-<!ENTITY fxaccount_finish_migrating_description "A frissítés rengeteg adatot mozgathat. Ezt a legjobb Wi-Fi hálózaton végezni.">
+
 
 <!ENTITY fxaccount_status_header2 "Firefox fiók">
 <!ENTITY fxaccount_status_signed_in_as "Bejelentkezve mint">
@@ -207,7 +209,6 @@
 <!ENTITY fxaccount_status_needs_upgrade "Frissíteni kell a &brandShortName;ot a bejelentkezéshez.">
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled "A &syncBrand.shortName.label; be van állítva, de nem szinkronizál automatikusan. Állítsa át az „Adatok automatikus szinkronizálása” beállítást az Android beállítások &gt; Adathasználat alatt.">
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled_v21 "A &syncBrand.shortName.label; be van állítva, de nem szinkronizál automatikusan. Állítsa át az „Adatok automatikus szinkronizálása” beállítást az Android beállítások &gt; Fiókok alatt.">
-<!ENTITY fxaccount_status_needs_account_enabled "A &syncBrand.shortName.label; be van állítva, de nem szinkronizál automatikusan. Koppintson a szinkronizálás megkezdéséhez.">
 <!ENTITY fxaccount_status_needs_finish_migrating "Koppintson a bejelentkezéshez az új Firefox fiókjába.">
 <!ENTITY fxaccount_status_bookmarks "Könyvjelzők">
 <!ENTITY fxaccount_status_history "Előzmények">

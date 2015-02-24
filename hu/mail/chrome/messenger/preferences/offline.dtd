@@ -11,8 +11,8 @@
 <!ENTITY radioRememberPrevState.accesskey "E">
 <!ENTITY radioAskState.label "Kérdezzen az online állapotról">
 <!ENTITY radioAskState.accesskey "o">
-<!ENTITY radioAlwaysOnline.label "Kapcsolatban">
-<!ENTITY radioAlwaysOnline.accesskey "p">
+<!ENTITY radioAlwaysOnlineState.label "Kapcsolatban">
+<!ENTITY radioAlwaysOnlineState.accesskey "p">
 <!ENTITY radioAlwaysOffline.label "Kapcsolat nélkül">
 <!ENTITY radioAlwaysOffline.accesskey "n">
 

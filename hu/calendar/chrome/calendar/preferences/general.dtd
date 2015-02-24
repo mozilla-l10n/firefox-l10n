@@ -33,6 +33,10 @@
 <!ENTITY pref.default_task_offset_start.label "Kezdéshez képest">
 <!ENTITY pref.default_task_offset_next_hour.label "Következő órához képest">
 
+<!ENTITY pref.calendar.todaypane.agenda.caption "Ma panel">
+
+
+
 <!ENTITY pref.accessibility.label "Kisegítő lehetőségek" >
 <!ENTITY pref.systemcolors.label "Színek optimalizálása" >
 <!ENTITY pref.systemcolors.accesskey "S">
