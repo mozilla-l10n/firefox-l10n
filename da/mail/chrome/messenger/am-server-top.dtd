@@ -73,3 +73,7 @@
 
 <!ENTITY accountTitle.label "Kontoindstillinger">
 <!ENTITY accountSettingsDesc.label "Det følgende er en speciel konto. Der er ingen identiteter knyttet til den.">
+<!ENTITY storeType.label "Lagertype for meddelelser:">
+<!ENTITY storeType.accesskey "L">
+<!ENTITY mboxStore.label "Èn stor fil (mbox)">
+<!ENTITY maildirStore.label "Fil pr. meddelelse (maildir)">

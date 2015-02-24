@@ -145,6 +145,8 @@
 <!ENTITY messagePaneVertical.accesskey "L">
 <!ENTITY showFolderPaneCmd.label "Mapperude">
 <!ENTITY showFolderPaneCmd.accesskey "a">
+<!ENTITY showFolderPaneColsCmd.label "Mapperudekolonner">
+<!ENTITY showFolderPaneColsCmd.accesskey "p">
 <!ENTITY showMessageCmd.label "Meddelelsesrude">
 <!ENTITY showMessageCmd.accesskey "M">
 
@@ -600,7 +602,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY manageTags.accesskey "H">
 
 <!-- Folder Pane -->
-<!ENTITY folderColumn.label "Navn">
+<!ENTITY folderNameColumn.label "Navn">
+<!ENTITY folderUnreadColumn.label "Ulæste">
+<!ENTITY folderTotalColumn.label "I alt">
 <!ENTITY folderSizeColumn.label "Størrelse">
 
 <!-- Folder Pane Context Menu -->
