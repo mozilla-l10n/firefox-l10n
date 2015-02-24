@@ -648,20 +648,20 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY findOnCmd.label     "ស្វែងរក​ក្នុង​ទំព័រ​នេះ...">
 <!ENTITY findOnCmd.accesskey "ស">
 <!ENTITY findOnCmd.commandkey "f">
-<!ENTITY findAgainCmd.label  "រក​ម្ដង​ទៀត">
-<!ENTITY findAgainCmd.accesskey "g">
+<!ENTITY findAgainCmd.label  "រក​ម្ដងទៀត">
+<!ENTITY findAgainCmd.accesskey "ទ">
 <!ENTITY findAgainCmd.commandkey "g">
 <!ENTITY findAgainCmd.commandkey2 "VK_F3">
 <!ENTITY findSelectionCmd.commandkey "e">
 
 <!ENTITY spellAddDictionaries.label "បន្ថែម​​វចនានុក្រម...">
-<!ENTITY spellAddDictionaries.accesskey "A">
+<!ENTITY spellAddDictionaries.accesskey "ប">
 
-<!ENTITY editBookmark.done.label                     "រួចរាល់">
+<!ENTITY editBookmark.done.label                     "ធ្វើ​រួច">
 <!ENTITY editBookmark.cancel.label                   "បោះបង់">
+<!ENTITY editBookmark.removeBookmark.accessKey       "R">
 
-
-<!ENTITY identity.unverifiedsite2 "តំបន់បណ្ដាញ​នេះ​មិន​ផ្ដល់​ព័ត៌មាន​អំពី​អត្តសញ្ញាណ​ទេ ។">
+<!ENTITY identity.unverifiedsite2 "វេបសាយ​នេះ​មិន​ផ្ដល់​ព័ត៌មាន​អត្តសញ្ញាណ។">
 <!ENTITY identity.connectedTo "អ្នក​បាន​តភ្ជាប់​ទៅ">
 <!-- Localization note (identity.runBy) : This string appears between a
 domain name (above) and an organization name (below). E.g.
@@ -687,10 +687,10 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
 
-<!ENTITY tabsToolbar.label "ផ្ទាំង​រុករក">
+<!ENTITY tabsToolbar.label "ផ្ទាំង​កម្មវិធី​អ៊ីនធឺណិត">
 <!-- LOCALIZATION NOTE (syncTabsMenu2.label): This appears in the history menu -->
 
-<!ENTITY syncTabsMenu2.label     "ផ្ទាំង​ពី​ឧបករណ៍​ផ្សេង​ទៀត">
+<!ENTITY syncTabsMenu2.label     "ផ្ទាំង​ពី​ឧបករណ៍​ផ្សេងទៀត">
 
 <!ENTITY syncBrand.shortName.label    "ធ្វើ​សមកាលកម្ម">
 
@@ -698,34 +698,34 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY syncSetup.accesskey          "Y">
 <!ENTITY syncSyncNowItem.label        "ធ្វើ​សមកាលកម្ម​ឥឡូវ">
 <!ENTITY syncSyncNowItem.accesskey    "S">
-<!ENTITY syncReAuthItem.label         "តភ្ជាប់​ឡើង​វិញ​ទៅ​កាន់ &syncBrand.shortName.label;…">
-<!ENTITY syncReAuthItem.accesskey     "R">
+<!ENTITY syncReAuthItem.label         "តភ្ជាប់​ឡើង​វិញ​ទៅកាន់ &syncBrand.shortName.label;…">
+<!ENTITY syncReAuthItem.accesskey     "ត">
 <!ENTITY syncToolbarButton.label      "ធ្វើ​សមកាលកម្ម">
 
 <!ENTITY socialToolbar.title        "ប៊ូតុង​របារ​ឧបករណ៍​សង្គម">
 
 <!ENTITY social.ok.label       "យល់ព្រម">
-<!ENTITY social.ok.accesskey   "O">
+<!ENTITY social.ok.accesskey   "យ">
 
-<!ENTITY social.toggleSidebar.label "បង្ហាញ​របារ​ចំហៀង">
-<!ENTITY social.toggleSidebar.accesskey "s">
+<!ENTITY social.toggleSidebar.label "បង្ហាញ​របារចំហៀង">
+<!ENTITY social.toggleSidebar.accesskey "ច">
 
 <!ENTITY social.addons.label "គ្រប់គ្រង​សេវាកម្ម...">
 
-<!ENTITY social.toggleNotifications.label "បង្ហាញ​ការ​ជូន​ដំណឹង​លើ​ផ្ទៃតុ">
-<!ENTITY social.toggleNotifications.accesskey "n">
+<!ENTITY social.toggleNotifications.label "បង្ហាញការ​ជូន​ដំណឹង​លើ​ផ្ទៃតុ">
+<!ENTITY social.toggleNotifications.accesskey "ក">
 
 <!ENTITY social.activated.description "បាន​បើក​សេវាកម្ម​ពី <label/> ។ អ្នក​អាច​ប្ដូរ​ការ​កំណត់​របស់​អ្នក​សម្រាប់​សេវាកម្ម​ក្នុង <label class='text-link'>កម្មវិធី​គ្រប់គ្រង​ផ្នែក​បន្ថែម</label>។">
-<!ENTITY social.activated.undo.label "អូ!មិន​អាច​ធ្វើ​វា​វិញ​បាន​ទេ!">
-<!ENTITY social.activated.undo.accesskey "u">
+<!ENTITY social.activated.undo.label "អូ! មិនធ្វើវិញ!">
+<!ENTITY social.activated.undo.accesskey "ម">
 <!ENTITY social.learnMore.label "ស្វែងយល់​បន្ថែម...">
-<!ENTITY social.learnMore.accesskey "L">
-<!ENTITY social.closeNotificationItem.label "មិន​មែន​ឥឡូវ​នេះ​ទេ">
+<!ENTITY social.learnMore.accesskey "ស">
+<!ENTITY social.closeNotificationItem.label "មិនមែន​ឥឡូវ">
 
-<!ENTITY social.directory.label "ថត​សកម្ម">
+<!ENTITY social.directory.label "ការ​ធ្វើឲ្យ​ថត​សកម្ម">
 <!ENTITY social.directory.text "អ្នក​អាច​ធ្វើ​ឲ្យ​សេវា​កម្ម​ចែករំលែក​សកម្ម​ពី​ថត។">
 <!ENTITY social.directory.button "យក​ខ្ញុំ​ទៅ​ទីនោះ!">
-<!ENTITY social.directory.introText "ចុច​លើ​សេវាកម្ម​ដើម្បី​បន្ថែម​វា​ទៅ​កាន់ &brandShortName; ។">
+<!ENTITY social.directory.introText "ចុច​លើ​សេវាកម្ម​ដើម្បី​បន្ថែម​វា​ទៅកាន់ &brandShortName; ។">
 <!ENTITY social.directory.viewmore.text "មើល​ជា​ច្រើន">
 
 <!ENTITY customizeMode.tabTitle "ប្ដូរ​​តាម​តម្រូវ​ការ &brandShortName;">
@@ -734,7 +734,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY customizeMode.menuAndToolbars.emptyLink "ជ្រើស​ពី​កម្មវិធី​បន្ថែម​រាប់​ពាន់">
 <!ENTITY customizeMode.restoreDefaults "ស្ដារ​លំនាំ​ដើម">
 <!ENTITY customizeMode.toolbars "បង្ហាញ / លាក់ របារ​ឧបករណ៍">
-<!ENTITY customizeMode.titlebar "របារ​ចំណង​ជើង">
+<!ENTITY customizeMode.titlebar "របារ​ចំណងជើង">
 <!ENTITY customizeMode.lwthemes "រូបរាង">
 <!ENTITY customizeMode.lwthemes.myThemes "រូបរាង​របស់​ខ្ញុំ">
 <!ENTITY customizeMode.lwthemes.recommended "បាន​ផ្ដល់​អនុសាសន៍">
@@ -745,18 +745,18 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY customizeMode.deveditionTheme.label2 "ប្រើ​រូបរាង​ការ​កែសម្រួល​របស់​អ្នក​អភិវឌ្ឍ">
 
 <!ENTITY social.chatBar.commandkey "c">
-<!ENTITY social.chatBar.label "ផ្ដោត​ការ​ជជែក">
-<!ENTITY social.chatBar.accesskey "c">
+<!ENTITY social.chatBar.label "ផ្ដោតការ​ជជែក">
+<!ENTITY social.chatBar.accesskey "ក">
 
-<!ENTITY social.markpageMenu.accesskey "P">
-<!ENTITY social.markpageMenu.label "រក្សាទុក​ទំព័រ​ទៅកាន់…">
-<!ENTITY social.marklinkMenu.accesskey "L">
-<!ENTITY social.marklinkMenu.label "រក្សាទុក​តំណ​ទៅកាន់…">
+<!ENTITY social.markpageMenu.accesskey "ទ">
+<!ENTITY social.markpageMenu.label "រក្សាទុកទំព័រ​ទៅកាន់…">
+<!ENTITY social.marklinkMenu.accesskey "ត">
+<!ENTITY social.marklinkMenu.label "រក្សាទុកតំណ​ទៅកាន់…">
 
-<!ENTITY getUserMedia.selectCamera.label "ម៉ាស៊ីន​ថត​ដែល​ត្រូវ​ចែករំលែក ៖">
-<!ENTITY getUserMedia.selectCamera.accesskey "C">
-<!ENTITY getUserMedia.selectMicrophone.label "មីក្រូហ្វូន​ដែល​ត្រូវ​ចែករំលែក ៖">
-<!ENTITY getUserMedia.selectMicrophone.accesskey "M">
+<!ENTITY getUserMedia.selectCamera.label "ម៉ាស៊ីន​ថត​ដែល​ត្រូវ​ចែករំលែក៖">
+<!ENTITY getUserMedia.selectCamera.accesskey "ម">
+<!ENTITY getUserMedia.selectMicrophone.label "មីក្រូហ្វូន​ដែល​ត្រូវ​ចែករំលែក៖">
+<!ENTITY getUserMedia.selectMicrophone.accesskey "ម">
 <!ENTITY getUserMedia.allWindowsShared.message "វីនដូ​​ដែល​អាច​មើល​ឃើញ​ទាំងអស់​នៅ​លើ​អេក្រង់​របស់​អ្នក​នឹង​ត្រូវ​បាន​ចែករំលែក។">
 <!-- Bad Content Blocker Doorhanger Notification -->
 
