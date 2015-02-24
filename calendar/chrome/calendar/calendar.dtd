@@ -14,7 +14,7 @@
 
 <!ENTITY calendar.today.button.label          "Danes">
 <!ENTITY calendar.tomorrow.button.label       "Jutri">
-
+<!ENTITY calendar.upcoming.button.label       "Prihajajoče">
 
 <!ENTITY calendar.events.filter.all.label "Vsi dogodki">
 <!ENTITY calendar.events.filter.today.label "Današnji dogodki">
@@ -233,13 +233,15 @@
 <!ENTITY calendar.context.newserver.accesskey          "N">
 <!ENTITY calendar.context.findcalendar.label           "Najdi koledar …" >
 <!ENTITY calendar.context.findcalendar.accesskey       "j" >
-
-
+<!ENTITY calendar.context.deleteserver2.label          "Izbriši koledar …">
+<!ENTITY calendar.context.deleteserver2.accesskey      "b">
 <!-- LOCALIZATION NOTE (calendar.context.removeserver.label): Removing the
       calendar is the general action of removing it, while deleting means to
       clear the data and unsubscribing means just taking it out of the calendar
       list. -->
 
+<!ENTITY calendar.context.removeserver.label           "Odstrani koledar …">
+<!ENTITY calendar.context.removeserver.accesskey       "O">
 
 
 <!ENTITY calendar.context.synccalendars.label          "Uskladi koledarje">
