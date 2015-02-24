@@ -20,9 +20,11 @@
 <!ENTITY resetSync2.label             "Resetuj synchronizację…">
 <!ENTITY pairDevice.label             "Sparuj urządzenie">
 
-<!ENTITY syncMy.label                   "Synchronizuj moje:">
+<!ENTITY syncMy.label "Synchronizuj:">
 <!ENTITY engine.bookmarks.label         "zakładki">
 <!ENTITY engine.bookmarks.accesskey     "z">
+<!ENTITY engine.readinglist.label "listę czytelnia">
+<!ENTITY engine.readinglist.accesskey "l">
 <!ENTITY engine.tabs.label              "karty">
 <!ENTITY engine.tabs.accesskey          "k">
 <!ENTITY engine.history.label           "historię">

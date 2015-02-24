@@ -765,12 +765,18 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY processHang.terminateProcess.label "Zabij proces">
 <!ENTITY processHang.terminateProcess.accessKey "s">
 
-<!ENTITY readingList.label "Lista czytelnia">
-<!ENTITY readingList.sidebar.commandKey "L">
-
 <!ENTITY emeLearnMoreContextMenu.label "Dowiedz się więcej o DRM…">
 <!ENTITY emeLearnMoreContextMenu.accesskey "D">
 <!ENTITY emeNotificationsNotNow.label "Zapytaj później">
 <!ENTITY emeNotificationsNotNow.accesskey "Z">
 <!ENTITY emeNotificationsDontAskAgain.label "Nie pytaj ponownie">
 <!ENTITY emeNotificationsDontAskAgain.accesskey "e">
+
+<!ENTITY readingList.label "Lista czytelnia">
+<!ENTITY readingList.sidebar.commandKey "R">
+<!ENTITY readingList.showSidebar.label "Pokaż pasek boczny listy czytelnia">
+<!ENTITY readingList.sidebar.showMore.label "Wyświetl więcej…">
+<!ENTITY readingList.sidebar.emptyText "Dodawaj artykuły do listy czytelnia, aby zachować je na później i łatwo później odnajdywać.">
+<!ENTITY readingList.sidebar.delete.tooltip "Usuń z listy czytelnia">
+<!ENTITY readingList.sidebar.add.label "Dodaj do listy czytelnia">
+<!ENTITY readingList.sidebar.add.tooltip "Dodaj tę stronę do listy czytelnia">
