@@ -12,7 +12,7 @@
 
 <!ENTITY smtpListAdd.label  "Dodaj …">
 <!ENTITY smtpListAdd.accesskey  "D">
-<!ENTITY smtpListEdit.label "Urejaj…">
+<!ENTITY smtpListEdit.label "Uredi …">
 <!ENTITY smtpListEdit.accesskey "U">
 <!ENTITY smtpListDelete.label "Izbriši">
 <!ENTITY smtpListDelete.accesskey "b">
