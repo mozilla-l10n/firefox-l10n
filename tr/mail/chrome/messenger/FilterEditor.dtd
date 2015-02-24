@@ -23,10 +23,10 @@
 <!ENTITY contextManual.accesskey "E">
 <!ENTITY contextBeforeCls.label "Gereksiz sınıflandırmasından önce süz">
 <!ENTITY contextAfterCls.label "Gereksiz sınıflandırmasından sonra süz">
-
-
-
-
+<!ENTITY contextOutgoing.label "Gönderdikten Sonra">
+<!ENTITY contextOutgoing.accesskey "S">
+<!ENTITY contextArchive.label "Arşivleme">
+<!ENTITY contextArchive.accesskey "A">
 
 <!ENTITY filterActionDesc.label "Bu eylemleri uygula:">
 <!ENTITY filterActionDesc.accesskey "u">
