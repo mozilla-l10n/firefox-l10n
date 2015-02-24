@@ -14,8 +14,8 @@
 <!ENTITY pref.calendar.alarms.sound.useDefault.accessKey "d">
 <!ENTITY pref.calendar.alarms.sound.browse.label "Telusuri…">
 <!ENTITY pref.calendar.alarms.sound.browse.accessKey "T">
-<!ENTITY pref.calendar.alarms.sound.preview.label "Pratinjau">
-<!ENTITY pref.calendar.alarms.sound.preview.accessKey "P">
+
+
 <!ENTITY pref.showalarmbox "Tampilkan kotak alarm">
 <!ENTITY pref.calendar.alarms.showAlarmBox.accessKey "k">
 <!ENTITY pref.missedalarms "Tampilkan alarm yang terlewati">

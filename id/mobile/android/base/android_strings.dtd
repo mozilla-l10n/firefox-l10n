@@ -6,8 +6,7 @@
 <!ENTITY  no_space_to_start_error "Kapasitas ruang tidak mencukupi untuk memulai &brandShortName;.">
 <!ENTITY  error_loading_file "Galat terjadi saat memuat berkas yang diperlukan untuk menjalankan &brandShortName;">
 
-<!ENTITY  onboard_start_message "Selamat datang di &brandShortName;!">
-<!ENTITY  onboard_start_subtext "Berkomitmen untuk Anda, privasi Anda, dan Web Terbuka.">
+
 <!ENTITY  onboard_start_button_account "Masuk ke &brandShortName;">
 <!ENTITY  onboard_start_button_browser "Mulai Menjelajah">
 <!-- Localization note: These are used as the titles of different pages on the home screen.
@@ -112,7 +111,7 @@
 
 <!ENTITY overlay_share_send_tab_btn_label "Kirim ke perangkat lainnya">
 <!ENTITY overlay_share_no_url "Tidak ada tautan yang ada di pembagian ini">
-<!ENTITY overlay_share_retry "Coba lagi">
+
 <!ENTITY overlay_share_select_device "Pilih perangkat">
 
 <!ENTITY pref_category_search3 "Cari">
@@ -214,6 +213,8 @@ size. -->
 <!ENTITY pref_media_autoplay_enabled "Izinkan putar otomatis">
 <!ENTITY pref_media_autoplay_enabled_summary "Kendalikan apakah situs web dapat memutar video dan konten media lainnya secara otomatis">
 
+
+
 <!ENTITY pref_use_master_password "Gunakan sandi utama">
 <!ENTITY pref_sync "Sync">
 <!ENTITY pref_sync_summary "Sinkronkan tab, markah, sandi, dan riwayat">
@@ -269,7 +270,7 @@ size. -->
      (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
 <!ENTITY datareporting_crashreporter_title_short "Pelapor Kerusakan">
 <!ENTITY datareporting_wifi_title2 "Layanan Lokasi &vendorShortName;">
-<!ENTITY datareporting_wifi_geolocation_summary2 "Bagikan perkiraan lokasi Wi-FI dan seluler perangkat Anda dengan &vendorShortName; untuk meningkatkan layanan geolokasi kami">
+
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
      actual notification that an update is available. -->
@@ -558,6 +559,11 @@ dari Android">
 
 <!ENTITY actionbar_menu "Menu">
 <!ENTITY actionbar_done "Selesai">
+<!-- Voice search in the awesome bar -->
+
+
+
+
 <!-- Localization note (remote_tabs_last_synced): the variable is replaced by a
      "relative time span string" produced by Android.  This string describes the
      time the tabs were last synced relative to the current time; examples
@@ -566,6 +572,7 @@ dari Android">
      their desktop or laptop.-->
 
 <!ENTITY remote_tabs_last_synced "Terakhir disinkronkan: &formatS;">
+<!-- Localization note: Used when the sync has not happend yet, showed in place of a date -->
 <!-- Find-In-Page strings -->
 <!-- LOCALIZATION NOTE (find_matchcase): This is meant to appear as an icon that changes color
      if match-case is activated. i.e. No more than two letters, one uppercase, one lowercase. -->

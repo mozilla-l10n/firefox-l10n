@@ -14,10 +14,10 @@
                        for the help button in the menubar but Gnome does not.   -->
 <!ENTITY helpMenuWin.label        "Bantuan"> 
 <!ENTITY helpMenuWin.accesskey    "n">
-<!ENTITY aboutProduct.label       "Tentang &brandShortName;">
-<!ENTITY aboutProduct.accesskey   "T">
-<!ENTITY productHelp.label        "Bantuan &brandShortName;">
-<!ENTITY productHelp.accesskey    "B">
+
+
+
+
 <!ENTITY helpMac.commandkey       "?">
 
 <!ENTITY helpKeyboardShortcuts.label     "Pintasan Keyboard">
@@ -26,8 +26,7 @@
 <!ENTITY helpSafeMode.label       "Mulai Ulang dengan Pengaya Dinonaktifkan…">
 <!ENTITY helpSafeMode.accesskey   "n">
 
-<!ENTITY healthReport.label       "Laporan Kebugaran &brandShortName;">
-<!ENTITY healthReport.accesskey   "o">
+
 
 <!ENTITY helpTroubleshootingInfo.label      "Informasi Pemecahan Masalah…">
 <!ENTITY helpTroubleshootingInfo.accesskey  "M">
@@ -35,16 +34,14 @@
 <!ENTITY helpFeedbackPage.label      "Kirim Saran…">
 <!ENTITY helpFeedbackPage.accesskey  "S">
 
-<!ENTITY helpShowTour.label             "Tur &brandShortName;">
-<!ENTITY helpShowTour.accesskey         "u">
+
 
 <!ENTITY preferencesCmdMac.label        "Pengaturan…">
 <!ENTITY preferencesCmdMac.commandkey   ",">
 
 <!ENTITY servicesMenuMac.label          "Layanan">
 
-<!ENTITY hideThisAppCmdMac.label        "Sembunyikan &brandShortName;">
-<!ENTITY hideThisAppCmdMac.commandkey   "H">
+
 
 <!ENTITY hideOtherAppsCmdMac.label      "Sembunyikan Lainnya">
 <!ENTITY hideOtherAppsCmdMac.commandkey "H">

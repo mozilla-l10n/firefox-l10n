@@ -10,8 +10,8 @@
 <!ENTITY radioRememberPrevState.accesskey "I">
 
 
-<!ENTITY radioAlwaysOnline.label "Selalu mulai dalam mode daring">
-<!ENTITY radioAlwaysOnline.accesskey "l">
+<!ENTITY radioAlwaysOnlineState.label "Selalu mulai dalam mode daring">
+<!ENTITY radioAlwaysOnlineState.accesskey "l">
 
 
 

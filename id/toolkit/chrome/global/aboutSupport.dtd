@@ -36,9 +36,9 @@ This is likely the same like id.heading in crashes.dtd. -->
 <!ENTITY aboutSupport.appBasicsTitle "Informasi Dasar Aplikasi">
 <!ENTITY aboutSupport.appBasicsName "Nama">
 <!ENTITY aboutSupport.appBasicsVersion "Versi">
-<!-- LOCALIZATION NOTE (aboutSupport.appBasicsUpdateHistory, aboutSupport.appBasicsShowUpdateHistory):
-"Update" is a noun here, not a verb. -->
 
+<!-- LOCALIZATION NOTE (aboutSupport.appBasicsUpdateChannel, aboutSupport.appBasicsUpdateHistory, aboutSupport.appBasicsShowUpdateHistory):
+"Update" is a noun here, not a verb. -->
 <!ENTITY aboutSupport.appBasicsUpdateHistory "Riwayat Pemutakhiran">
 <!ENTITY aboutSupport.appBasicsShowUpdateHistory "Tampilkan Riwayat Pemutakhiran">
 
@@ -94,3 +94,5 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.copyRawDataToClipboard.label "Salin data mentah ke papan klip">
 
 <!ENTITY aboutSupport.sandboxTitle "Kotak pasir">
+
+

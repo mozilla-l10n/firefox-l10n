@@ -3,18 +3,19 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY itemGeneral.label       "Utama">
+
 <!ENTITY itemDisplay.label       "Baca &amp; Tampilan">
 <!ENTITY itemUpdate.label        "Pemutakhiran">
 <!ENTITY itemNetworking.label    "Jaringan &amp; Ruang Disk">
 <!ENTITY itemCertificates.label  "Sertifikat">
 <!-- General Settings -->
 
-
-<!ENTITY submitTelemetry.label         "Kirim Data Kinerja">
-<!ENTITY submitTelemetry.accesskey     "K">
-<!ENTITY telemetryInfoLink.label       "Informasi selengkapnya tentang Telemetri">
 <!ENTITY enableGlodaSearch.label       "Aktifkan Sistem Pencarian Global dan Pengindeksan Pesan">
 <!ENTITY enableGlodaSearch.accesskey   "i">
+
+
+
+
 
 
 
@@ -36,6 +37,16 @@
 <!ENTITY returnReceiptsInfo.label      "Mengatur penanganan tanda konfirmasi diterima (return receipt) oleh &brandShortName;">
 <!ENTITY showReturnReceipts.label      "Tanda Konfirmasi Diterima…">
 <!ENTITY showReturnReceipts.accesskey  "r">
+<!-- Data Choices -->
+
+
+
+
+
+
+
+
+
 <!-- Display and Reading Settings -->
 
 <!ENTITY reading.caption               "Baca">
