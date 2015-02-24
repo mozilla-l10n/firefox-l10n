@@ -13,6 +13,10 @@
 <!ENTITY enableGlodaSearch.accesskey  "n">
 <!ENTITY allowHWAccel.label "Korzystaj z akceleracji sprzętowej, jeśli jest dostępna">
 <!ENTITY allowHWAccel.accesskey "K">
+<!ENTITY storeType.label "Sposób przechowywania wiadomości:">
+<!ENTITY storeType.accesskey "S">
+<!ENTITY mboxStore.label "jeden duży plik (mbox)">
+<!ENTITY maildirStore.label "osobne pliki (maildir)">
 <!ENTITY scrolling.label "Przewijanie">
 <!ENTITY useAutoScroll.label "Używaj automatycznego przewijania">
 <!ENTITY useAutoScroll.accesskey "U">

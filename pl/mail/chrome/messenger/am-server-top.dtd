@@ -71,3 +71,7 @@
 
 <!ENTITY accountTitle.label "Ustawienia konta">
 <!ENTITY accountSettingsDesc.label "To jest specjalne konto, któremu nie są przypisane żadne tożsamości.">
+<!ENTITY storeType.label "Sposób przechowywania wiadomości:">
+<!ENTITY storeType.accesskey "S">
+<!ENTITY mboxStore.label "jeden duży plik (mbox)">
+<!ENTITY maildirStore.label "osobne pliki (maildir)">
