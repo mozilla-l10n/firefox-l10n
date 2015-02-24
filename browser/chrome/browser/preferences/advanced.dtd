@@ -28,19 +28,16 @@
 
 <!ENTITY dataChoicesTab.label            "Pilihan Data">
 
-<!ENTITY healthReportSection.label       "&brandShortName; Laporan Kesihatan">
 <!ENTITY healthReportDesc.label          "Membantu anda memahami prestasi pelayar anda dan kongsi data dengan &vendorShortName; berkaitan kesihatan pelayar anda">
 <!ENTITY enableHealthReport.label        "Hidupkan &brandShortName; Laporan Kesihatan">
 <!ENTITY enableHealthReport.accesskey    "r">
 <!ENTITY healthReportLearnMore.label     "Pelajari Lagi">
 
-<!ENTITY telemetrySection.label          "Telemetri">
 <!ENTITY telemetryDesc.label             "Kongsi data prestasi, penggunaan, perkakasan dan pelangganan berkaitan pelayar anda dengan &vendorShortName; untuk membantu kami menjadikan &brandShortName; lebih baik">
-<!ENTITY enableTelemetry.label           "Hidupkan Telemetri">
-<!ENTITY enableTelemetry.accesskey       "T">
+
+
 <!ENTITY telemetryLearnMore.label        "Pelajari Lagi">
 
-<!ENTITY crashReporterSection.label      "Pelapor Nahas">
 <!ENTITY crashReporterDesc.label         "&brandShortName; menghantar laporan ranap untuk membantu &vendorShortName; menjadikan pelayar anda lebih stabil dan selamat">
 <!ENTITY enableCrashReporter.label       "Hidupkan Pelapor Kerosakan">
 <!ENTITY enableCrashReporter.accesskey   "K">

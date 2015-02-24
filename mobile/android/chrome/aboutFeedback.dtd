@@ -17,9 +17,7 @@
 <!-- LOCALIZATION NOTE (support.link): Avoid leading/trailing spaces, this text is a link. -->
 <!-- LOCALIZATION NOTE (support.post): Include a starting space as needed. -->
 
-<!ENTITY support.pre2              "Anda juga boleh melawat ">
-<!ENTITY support.link              "&brandShortName; Sokongan">
-<!ENTITY support.post2             " untuk maklumat lanjut.">
+
 
 <!ENTITY happy.header              "Kami berbangga mendengarnya!">
 <!-- LOCALIZATION NOTE (happy.message): "share the love" — This feels purposely exaggerated in English,
@@ -37,11 +35,11 @@
 
 <!ENTITY sad.message               "Kami mohon maaf atas masalah yang anda hadapi dengan &brandShortName;. Sila beritahu kami apa yang berlaku supaya kami dapat membaikinya.">
 <!ENTITY sad.placeholder           "Masukkan maklum balas anda di sini">
-<!ENTITY sad.lastSite              "Laman terakhir yang dilawati (tidak wajib)">
+
 <!-- LOCALIZATION NOTE (sad.urlPlaceholder): Placeholder text that appears in "Last visited site" input box when there is no text. -->
 
 <!ENTITY sad.urlPlaceholder        "http://">
-<!ENTITY sad.thanksHeader          "Terima kasih kerana memberitahu kami.">
+
 <!-- LOCALIZATION NOTE (sad.thanksMessageTop): "real people" — We're stating that an actual human will look at the feedback
      and that it doesn't just go to some automated system that looks for keywords, or something like that. -->
 
@@ -52,5 +50,4 @@
 
 <!ENTITY sad.thanksMessageBottom   "Tidak kira apa pun.">
 
-<!ENTITY feedback.privacy          "Untuk privasi anda, sila jangan masukkan sebarang maklumat peribadi yang boleh dikenal pasti dalam maklum balas anda.">
 <!ENTITY feedback.send             "Hantar Maklum Balas">
