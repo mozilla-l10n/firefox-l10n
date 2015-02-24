@@ -172,7 +172,6 @@ functionality specific to firefox. -->
 <!ENTITY remoteXUL.title "Zdalna treść XUL">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Prosimy poinformować właścicieli witryny o tym problemie.</li></ul></p>">
 
-<!ENTITY oldSecurityProtocol.title "Nie udało się nawiązać bezpiecznego połączenia">
-<!ENTITY oldSecurityProtocol.longDesc2 "&brandShortName; nie może zagwarantować bezpieczeństwa danych wymienianych z <span id='hostname'></span> ponieważ ten serwer używa SSLv3, wadliwego protokołu bezpieczeństwa.">
-<!ENTITY oldSecurityProtocol.advancedInfo "Szczegóły: <span id='errorcode'></span>">
-<!ENTITY oldSecurityProtocol.learnMore "Więcej informacji…">
+<!ENTITY sslv3Used.title "Nie udało się nawiązać bezpiecznego połączenia">
+<!ENTITY sslv3Used.longDesc "Szczegóły: ssl_error_unsupported_version">
+<!ENTITY sslv3Used.learnMore "Więcej informacji…">
