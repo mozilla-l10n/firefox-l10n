@@ -20,12 +20,14 @@
 
 <!ENTITY calendar.deletecalendar.label          "Izbriši izbrani koledar …">
 <!ENTITY calendar.deletecalendar.accesskey      "b">
-
-
+<!ENTITY calendar.unsubscribecalendar.label     "Odjavi se od izbranega koledarja …">
+<!ENTITY calendar.unsubscribecalendar.accesskey "O">
 <!-- LOCALIZATION NOTE (calendar.removecalendar.label): Removing the calendar
       is the general action of removing it, while deleting means to clear the
       data and unsubscribing means just taking it out of the calendar list. -->
 
+<!ENTITY calendar.removecalendar.label          "Izbriši izbrani koledar …">
+<!ENTITY calendar.removecalendar.accesskey      "b">
 
 
 <!ENTITY calendar.menu.customize.label          "Prilagodi …">
