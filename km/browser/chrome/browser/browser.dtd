@@ -19,9 +19,9 @@
 <!ENTITY navbarOverflow.label                "ឧបករណ៍​ច្រើន​ទៀត…">
 <!-- Tab context menu -->
 
-<!ENTITY  reloadTab.label                    "ផ្ទុក​ផ្ទាំង​ឡើង​វិញ">
+<!ENTITY  reloadTab.label                    "ផ្ទុក​ផ្ទាំង​ឡើងវិញ">
 <!ENTITY  reloadTab.accesskey                "ផ">
-<!ENTITY  reloadAllTabs.label                "ផ្ទុក​ឡើងវិញ ផ្ទាំង​ទាំងអស់">
+<!ENTITY  reloadAllTabs.label                "ផ្ទុកផ្ទាំង​ទាំងអស់​ឡើងវិញ">
 <!ENTITY  reloadAllTabs.accesskey            "ផ">
 <!-- LOCALIZATION NOTE (closeTabsToTheEnd.label): This should indicate the
 direction in which tabs are closed, i.e. locales that use RTL mode should say
