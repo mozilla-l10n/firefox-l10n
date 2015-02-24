@@ -1,8 +1,6 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-
-<!ENTITY minimizeWindow.key       "m">
 <!ENTITY minimizeWindow.label     "Lughdaich">
 <!ENTITY bringAllToFront.label    "Gluais a h-uile gun a' bheulaibh">
 <!ENTITY zoomWindow.label         "Sùm">
@@ -12,13 +10,12 @@
 <!ENTITY helpMenu.accesskey       "h"> 
 <!-- LOCALIZATION NOTE some localizations of Windows (ex:french, german) use "?"
                        for the help button in the menubar but Gnome does not.   -->
-<!ENTITY helpMenuWin.label        "Cobhair"> 
-<!ENTITY helpMenuWin.accesskey    "h">
-<!ENTITY aboutProduct.label       "Mu &brandShortName;">
-<!ENTITY aboutProduct.accesskey   "M">
-<!ENTITY productHelp.label        "Cobhair &brandShortName;">
-<!ENTITY productHelp.accesskey    "h">
-<!ENTITY helpMac.commandkey       "?">
+
+
+
+
+
+
 
 <!ENTITY helpKeyboardShortcuts.label     "Ath-ghoiridean a' mheur-chlàir">
 <!ENTITY helpKeyboardShortcuts.accesskey "A">
@@ -26,8 +23,7 @@
 <!ENTITY helpSafeMode.label       "Ath-thòisich leis na tuilleadan air an cur à comas…">
 <!ENTITY helpSafeMode.accesskey   "r">
 
-<!ENTITY healthReport.label       "Aithisg slàinte &brandShortName;">
-<!ENTITY healthReport.accesskey   "e">
+
 
 <!ENTITY helpTroubleshootingInfo.label      "Taic le duilgheadasan">
 <!ENTITY helpTroubleshootingInfo.accesskey  "T">
@@ -35,18 +31,16 @@
 <!ENTITY helpFeedbackPage.label      "Cuir thugainn do bheachdan…">
 <!ENTITY helpFeedbackPage.accesskey  "C">
 
-<!ENTITY helpShowTour.label             "Turas &brandShortName;">
-<!ENTITY helpShowTour.accesskey         "u">
+
 
 <!ENTITY preferencesCmdMac.label        "Roghainnean…">
-<!ENTITY preferencesCmdMac.commandkey   ",">
+
 
 <!ENTITY servicesMenuMac.label          "Seirbheisean">
 
-<!ENTITY hideThisAppCmdMac.label        "Cuir &brandShortName; am falach">
-<!ENTITY hideThisAppCmdMac.commandkey   "H">
+
 
 <!ENTITY hideOtherAppsCmdMac.label      "Cuir càch am falach">
-<!ENTITY hideOtherAppsCmdMac.commandkey "H">
+
 
 <!ENTITY showAllAppsCmdMac.label        "Seall na h-uile">
