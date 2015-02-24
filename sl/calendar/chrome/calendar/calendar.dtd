@@ -14,7 +14,7 @@
 
 <!ENTITY calendar.today.button.label          "Danes">
 <!ENTITY calendar.tomorrow.button.label       "Jutri">
-<!ENTITY calendar.upcoming.button.label       "Prihajajoče">
+<!ENTITY calendar.upcoming.button.label       "Prihajajoči">
 
 <!ENTITY calendar.events.filter.all.label "Vsi dogodki">
 <!ENTITY calendar.events.filter.today.label "Današnji dogodki">
