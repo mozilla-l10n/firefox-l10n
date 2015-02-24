@@ -72,8 +72,8 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY printCmd.accesskey "ប">
 <!ENTITY printCmd.commandkey "p">
 
-<!ENTITY goOfflineCmd.label "ធ្វើ​ការនៅ​ក្រៅ​បណ្ដាញ">
-<!ENTITY goOfflineCmd.accesskey "ន">
+<!ENTITY goOfflineCmd.label "ធ្វើ​ការដោយ​គ្មាន​អ៊ីនធឺណិត">
+<!ENTITY goOfflineCmd.accesskey "ដ">
 
 <!ENTITY menubarCmd.label "របារ​ម៉ឺនុយ">
 <!ENTITY menubarCmd.accesskey "រ">
@@ -82,7 +82,7 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY personalbarCmd.accesskey "ច">
 <!ENTITY bookmarksToolbarItem.label "ធាតុ​របារ​ឧបករណ៍​​ចំណាំ">
 
-<!ENTITY toolbarContextMenu.reloadAllTabs.label "ផ្ទុក​ឡើងវិញ ផ្ទាំង​ទាំងអស់">
+<!ENTITY toolbarContextMenu.reloadAllTabs.label "ផ្ទុកផ្ទាំង​ទាំងអស់​ឡើងវិញ">
 <!ENTITY toolbarContextMenu.reloadAllTabs.accesskey "ផ">
 <!ENTITY toolbarContextMenu.bookmarkAllTabs.label "ចំណាំ​ផ្ទាំង​ទាំងអស់…">
 <!ENTITY toolbarContextMenu.bookmarkAllTabs.accesskey "​">
@@ -99,9 +99,9 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY mirrorTabCmd.accesskey "ផ">
 <!-- LOCALIZATION NOTE (enterFullScreenCmd.label, exitFullScreenCmd.label):
 These should match what Safari and other Apple applications use on OS X Lion. -->
-<!ENTITY enterFullScreenCmd.label "ចូលពេញ​អេក្រង់">
+<!ENTITY enterFullScreenCmd.label "បើកពេញ​អេក្រង់">
 <!ENTITY enterFullScreenCmd.accesskey "ព">
-<!ENTITY exitFullScreenCmd.label "ចេញពីពេញ​​អេក្រង់">
+<!ENTITY exitFullScreenCmd.label "បិទពេញ​​អេក្រង់">
 <!ENTITY exitFullScreenCmd.accesskey "ព">
 <!ENTITY fullScreenCmd.label "ពេញ​អេក្រង់">
 <!ENTITY fullScreenCmd.accesskey "ព">
@@ -129,7 +129,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fullscreenAllowButton.label "អនុញ្ញាត">
 <!ENTITY fullscreenExitButton.label "បដិសេធ">
 
-<!ENTITY fullscreenExitHint2.value "ចុច​គ្រាប់ចុច​​គេច (ESC) នៅ​ពេល​ចេញ។">
+<!ENTITY fullscreenExitHint2.value "ចុច​គ្រាប់ចុច​​គេច (ESC) នៅ​ពេល​ចង់​ចេញ។">
 <!ENTITY leaveDOMFullScreen.label "ចេញពីពេញ​អេក្រង់">
 <!ENTITY leaveDOMFullScreen.accesskey "ព">
 
@@ -160,15 +160,15 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY shareVideo.accesskey "r">
 <!ENTITY feedsMenu.label "ជាវ">
 <!ENTITY subscribeToPageMenupopup.label "ជាវ​ទំព័រ​នេះ">
-<!ENTITY subscribeToPageMenuitem.label "ជាវ​ទៅ​ទំព័រ​នេះ…">
+<!ENTITY subscribeToPageMenuitem.label "ជាវ​ទំព័រ​នេះ…">
 <!ENTITY addCurPagesCmd.label "ចំណាំ​ផ្ទាំង​ទាំងអស់…">
 <!ENTITY showAllBookmarks2.label "បង្ហាញ​ចំណាំ​ទាំងអស់">
 <!ENTITY unsortedBookmarksCmd.label "មិន​តម្រៀប​ចំណាំ">
-<!ENTITY bookmarksToolbarChevron.tooltip "បង្ហាញ​ចំណាំ​​ច្រើន">
+<!ENTITY bookmarksToolbarChevron.tooltip "បង្ហាញ​ចំណាំ​​ច្រើន​ទៀត">
 
-<!ENTITY backCmd.label                "ថយ​ក្រោយ">
+<!ENTITY backCmd.label                "ថយក្រោយ">
 <!ENTITY backButton.tooltip           "ថយក្រោយ​មួយ​ទំព័រ">
-<!ENTITY forwardCmd.label             "ទៅ​មុខ">
+<!ENTITY forwardCmd.label             "ទៅមុខ">
 <!ENTITY forwardButton.tooltip        "ទៅមុខ​មួយ​ទំព័រ">
 <!ENTITY backForwardButtonMenu.tooltip "ចុច​កណ្ដុរ​ស្ដាំ ឬ​ចុច​ទម្លាក់​ចុះ ដើម្បី​បង្ហាញ​ប្រវត្តិ">
 <!ENTITY backForwardButtonMenuMac.tooltip "ទម្លាក់​ចុះ ដើម្បី​បង្ហាញ​ប្រវត្តិ">
@@ -177,9 +177,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY stopCmd.label                "បញ្ឈប់">
 <!ENTITY stopCmd.macCommandKey        ".">
 <!ENTITY stopButton.tooltip           "បញ្ឈប់​ការ​​ផ្ទុក​ទំព័រ​នេះ">
-<!ENTITY goEndCap.tooltip             "ទៅ​កាន់​អាសយដ្ឋាន​ក្នុង​របារ​ទីតាំង">
+<!ENTITY goEndCap.tooltip             "ទៅកាន់​អាសយដ្ឋាន​ក្នុង​របារ​ទីតាំង">
 <!ENTITY printButton.label            "បោះពុម្ព">
-<!ENTITY printButton.tooltip          "បោះ​ពុម្ព​ទំព័រ​នេះ">
+<!ENTITY printButton.tooltip          "បោះពុម្ព​ទំព័រ​នេះ">
 
 <!ENTITY locationItem.title           "ទីតាំង">
 <!ENTITY searchItem.title             "ស្វែងរក">
@@ -207,23 +207,23 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY historySidebarCmd.commandKey   "h">
 
 <!ENTITY toolsMenu.label              "ឧបករណ៍">
-<!ENTITY toolsMenu.accesskey          "T"> 
+<!ENTITY toolsMenu.accesskey          "ឧ"> 
 
-<!ENTITY keywordfield.label           "បន្ថែម​​ពាក្យ​គន្លឹះ​សម្រាប់​ការ​ស្វែងរក​នេះ...">
-<!ENTITY keywordfield.accesskey       "K">
+<!ENTITY keywordfield.label           "បន្ថែម​ពាក្យ​គន្លឹះ​សម្រាប់​ការ​ស្វែងរក​នេះ...">
+<!ENTITY keywordfield.accesskey       "ព">
 
-<!ENTITY downloads.label              "ទាញយក">
-<!ENTITY downloads.accesskey          "D">
+<!ENTITY downloads.label              "ទាញ​យក">
+<!ENTITY downloads.accesskey          "ទ">
 <!ENTITY downloads.commandkey         "j">
 <!ENTITY downloadsUnix.commandkey     "y">
 <!ENTITY addons.label                 "កម្មវិធី​បន្ថែម">
-<!ENTITY addons.accesskey             "A">
+<!ENTITY addons.accesskey             "ក">
 <!ENTITY addons.commandkey            "A">
 <!ENTITY webapps.label                "កម្មវិធី">
-<!ENTITY webapps.accesskey            "p">
+<!ENTITY webapps.accesskey            "ក">
 
-<!ENTITY webDeveloperMenu.label       "អ្នក​អភិវឌ្ឍន៍​​បណ្ដាញ">
-<!ENTITY webDeveloperMenu.accesskey   "W">
+<!ENTITY webDeveloperMenu.label       "អ្នក​អភិវឌ្ឍន៍​បណ្ដាញ">
+<!ENTITY webDeveloperMenu.accesskey   "ប">
 
 <!ENTITY devToolsCmd.keycode          "VK_F12">
 <!ENTITY devToolsCmd.keytext          "F12">
@@ -232,23 +232,23 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY devtoolsConnect.accesskey    "e">
 
 <!ENTITY errorConsoleCmd.label        "កុងសូល​កំហុស">
-<!ENTITY errorConsoleCmd.accesskey    "C">
+<!ENTITY errorConsoleCmd.accesskey    "ក">
 
 <!ENTITY remoteWebConsoleCmd.label    "កុងសូល​បណ្ដាញ​ពី​ចម្ងាយ">
 
-<!ENTITY browserConsoleCmd.label      "កុងសូល​កម្មវិធី​រុករក">
+<!ENTITY browserConsoleCmd.label      "កុងសូល​កម្មវិធី​អ៊ីនធឺណិត">
 <!ENTITY browserConsoleCmd.commandkey "j">
-<!ENTITY browserConsoleCmd.accesskey  "B">
+<!ENTITY browserConsoleCmd.accesskey  "ក">
 
 <!ENTITY inspectContextMenu.label     "ត្រួតពិនិត្យ​ធាតុ">
 <!ENTITY inspectContextMenu.accesskey "Q">
 
-<!ENTITY responsiveDesignTool.label   "ទិដ្ឋភាព​រចនា​ដែល​​បើក​ទូលាយ">
-<!ENTITY responsiveDesignTool.accesskey "R">
+<!ENTITY responsiveDesignTool.label   "ទិដ្ឋភាព​រចនា​ដែល​ឆ្លើយ​តប">
+<!ENTITY responsiveDesignTool.accesskey "ទ">
 <!ENTITY responsiveDesignTool.commandkey "M">
 
 <!ENTITY eyedropper.label   "ឧបករណ៍​ចាក់​ពណ៌">
-<!ENTITY eyedropper.accesskey "y">
+<!ENTITY eyedropper.accesskey "ឧ">
 <!-- LOCALIZATION NOTE (scratchpad.label): This menu item label appears
   -  in the Tools menu. See bug 653093.
   -  The Scratchpad is intended to provide a simple text editor for creating
@@ -260,26 +260,26 @@ These should match what Safari and other Apple applications use on OS X Lion. --
   -  approximation to it or choose a word (or words) that means
   -  "simple discardable text editor". -->
 
-<!ENTITY scratchpad.label             "Scratchpad">
-<!ENTITY scratchpad.accesskey         "S">
+<!ENTITY scratchpad.label             "បន្ទះ​ប៉ះ">
+<!ENTITY scratchpad.accesskey         "ប">
 <!ENTITY scratchpad.keycode           "VK_F4">
 <!ENTITY scratchpad.keytext           "F4">
 <!-- LOCALIZATION NOTE (browserToolboxMenu.label): This is the label for the
   -  application menu item that opens the browser toolbox UI in the Tools menu. -->
 
-<!ENTITY browserToolboxMenu.label     "របារ​ឧបករណ៍​​កម្មវិធី​រុករក">
-<!ENTITY browserToolboxMenu.accesskey "e">
+<!ENTITY browserToolboxMenu.label     "ប្រអប់ឧបករណ៍​​កម្មវិធី​អ៊ីនធឺណិត">
+<!ENTITY browserToolboxMenu.accesskey "ឧ">
 <!-- LOCALIZATION NOTE (browserContentToolboxMenu.label): This is the label for the
   -  application menu item that opens the browser content toolbox UI in the Tools menu.
   -  This toolbox allows to debug the chrome of the content process in multiprocess builds.  -->
 
-<!ENTITY browserContentToolboxMenu.label     "ប្រអប់​ឧបករណ៍​មាតិកា​កម្មវិធី​អ៊ីធឺណិត">
+<!ENTITY browserContentToolboxMenu.label     "ប្រអប់​ឧបករណ៍​មាតិកា​កម្មវិធី​អ៊ីនធឺណិត">
 
 <!ENTITY devToolbarCloseButton.tooltiptext "បិទ​របារ​ឧបករណ៍​​អ្នក​អភិវឌ្ឍន៍">
-<!ENTITY devToolbarMenu.label              "របារ​ឧបករណ៍​អ្នក​អភិវឌ្ឍន៍">
-<!ENTITY devToolbarMenu.accesskey          "v">
+<!ENTITY devToolbarMenu.label              "របារ​ឧបករណ៍​អ្នកអភិវឌ្ឍន៍">
+<!ENTITY devToolbarMenu.accesskey          "អ">
 <!ENTITY devAppMgrMenu.label               "កម្មវិធី​គ្រប់គ្រង​កម្មវិធី">
-<!ENTITY devAppMgrMenu.accesskey           "A">
+<!ENTITY devAppMgrMenu.accesskey           "ក">
 <!ENTITY webide.label                      "WebIDE">
 <!ENTITY webide.accesskey                  "W">
 <!ENTITY webide.keycode                    "VK_F8">
@@ -287,63 +287,63 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY devToolbar.keycode                "VK_F2">
 <!ENTITY devToolbar.keytext                "F2">
 <!ENTITY devToolboxMenuItem.label          "បិទ/បើក​ឧបករណ៍">
-<!ENTITY devToolboxMenuItem.accesskey      "T">
+<!ENTITY devToolboxMenuItem.accesskey      "ប">
 <!ENTITY devToolboxMenuItem.keytext        "I">
 
-<!ENTITY devToolbarToolsButton.tooltip     "បិទ/បើក​ឧបករណ៍​​សម្រាប់​កម្មវិធី​អ្នក​អភិវឌ្ឍន៍">
+<!ENTITY devToolbarToolsButton.tooltip     "បិទ/បើក​ឧបករណ៍​​អ្នក​អភិវឌ្ឍន៍">
 <!ENTITY devToolbarOtherToolsButton.label  "ឧបករណ៍​ច្រើន​ទៀត">
 
-<!ENTITY getMoreDevtoolsCmd.label        "ទទួល​យក​ឧបករណ៍​បន្ថែម">
-<!ENTITY getMoreDevtoolsCmd.accesskey    "M">
+<!ENTITY getMoreDevtoolsCmd.label        "យក​ឧបករណ៍បន្ថែម">
+<!ENTITY getMoreDevtoolsCmd.accesskey    "ប">
 
 <!ENTITY fileMenu.label         "ឯកសារ"> 
-<!ENTITY fileMenu.accesskey       "F">
+<!ENTITY fileMenu.accesskey       "ឯ">
 <!ENTITY newNavigatorCmd.label        "បង្អួច​​​ថ្មី">
 <!ENTITY newNavigatorCmd.key        "N">
-<!ENTITY newNavigatorCmd.accesskey      "N">
+<!ENTITY newNavigatorCmd.accesskey      "ប">
 <!ENTITY newPrivateWindow.label     "បង្អួច​ឯកជន​ថ្មី">
-<!ENTITY newPrivateWindow.accesskey "W">
+<!ENTITY newPrivateWindow.accesskey "ប">
 
 <!ENTITY editMenu.label         "កែសម្រួល"> 
-<!ENTITY editMenu.accesskey       "E"> 
+<!ENTITY editMenu.accesskey       "ក"> 
 <!ENTITY undoCmd.label            "មិនធ្វើវិញ">  
 <!ENTITY undoCmd.key            "Z">  
-<!ENTITY undoCmd.accesskey          "U"> 
-<!ENTITY redoCmd.label            "ធ្វើ​វិញ">  
+<!ENTITY undoCmd.accesskey          "ម"> 
+<!ENTITY redoCmd.label            "ធ្វើវិញ">  
 <!ENTITY redoCmd.key            "Y">  
-<!ENTITY redoCmd.accesskey          "R"> 
+<!ENTITY redoCmd.accesskey          "ធ"> 
 <!ENTITY cutCmd.label           "កាត់">  
 <!ENTITY cutCmd.key             "X">  
-<!ENTITY cutCmd.accesskey         "t"> 
+<!ENTITY cutCmd.accesskey         "ក"> 
 <!ENTITY copyCmd.label            "ចម្លង">  
 <!ENTITY copyCmd.key            "C">  
-<!ENTITY copyCmd.accesskey          "C"> 
+<!ENTITY copyCmd.accesskey          "ច"> 
 <!ENTITY pasteCmd.label           "បិទភ្ជាប់">  
 <!ENTITY pasteCmd.key           "V">  
-<!ENTITY pasteCmd.accesskey         "P"> 
+<!ENTITY pasteCmd.accesskey         "ប"> 
 <!ENTITY deleteCmd.label          "លុប">  
 <!ENTITY deleteCmd.key            "D">  
-<!ENTITY deleteCmd.accesskey        "D"> 
+<!ENTITY deleteCmd.accesskey        "ល"> 
 <!ENTITY selectAllCmd.label         "ជ្រើស​ទាំងអស់">  
 <!ENTITY selectAllCmd.key         "A">  
-<!ENTITY selectAllCmd.accesskey       "A"> 
+<!ENTITY selectAllCmd.accesskey       "អ"> 
 <!ENTITY preferencesCmd2.label       "ជម្រើស">
-<!ENTITY preferencesCmd2.accesskey     "O">
+<!ENTITY preferencesCmd2.accesskey     "ជ">
 <!ENTITY preferencesCmdUnix.label       "ចំណូលចិត្ត">
-<!ENTITY preferencesCmdUnix.accesskey     "n"> 
+<!ENTITY preferencesCmdUnix.accesskey     "ច"> 
 
 <!ENTITY clearRecentHistory.label               "សម្អាត​ប្រវត្តិ​ថ្មីៗ…">
 
 <!ENTITY privateBrowsingCmd.commandkey          "P">
 
 <!ENTITY viewMenu.label         "មើល"> 
-<!ENTITY viewMenu.accesskey       "V"> 
-<!ENTITY viewTabGroups.label            "ក្រុម​ផ្ទាំង">
-<!ENTITY viewTabGroups.accesskey        "G">
+<!ENTITY viewMenu.accesskey       "ម"> 
+<!ENTITY viewTabGroups.label            "ក្រុមផ្ទាំង">
+<!ENTITY viewTabGroups.accesskey        "ផ">
 <!ENTITY viewToolbarsMenu.label       "របារ​ឧបករណ៍"> 
-<!ENTITY viewToolbarsMenu.accesskey     "T"> 
+<!ENTITY viewToolbarsMenu.accesskey     "រ"> 
 <!ENTITY viewSidebarMenu.label "របារ​ចំហៀង">
-<!ENTITY viewSidebarMenu.accesskey "e">
+<!ENTITY viewSidebarMenu.accesskey "រ">
 <!ENTITY viewCustomizeToolbar.label       "ប្ដូរ​តាម​បំណង…"> 
 <!ENTITY viewCustomizeToolbar.accesskey     "C">
 
