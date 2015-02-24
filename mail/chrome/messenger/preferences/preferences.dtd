@@ -17,3 +17,6 @@
 <!ENTITY panePrivacy.title        "Confidențialitate">
 <!ENTITY paneSecurity.title       "Securitate">
 <!ENTITY paneAdvanced.title       "Avansat">
+<!ENTITY paneAccount.title        "Conturi">
+
+

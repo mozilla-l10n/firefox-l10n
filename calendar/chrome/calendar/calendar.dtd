@@ -12,9 +12,9 @@
 <!ENTITY calendar.unifinder.todoitems.label       "Sarcini" >
 <!ENTITY calendar.unifinder.showcompletedtodos.label "Arată sarcinile îndeplinite">
 
-<!ENTITY calendar.today.button.label       "Astăzi">
+<!ENTITY calendar.today.button.label          "Astăzi">
 <!ENTITY calendar.tomorrow.button.label       "Mâine">
-<!ENTITY calendar.soon.button.label           "În curând">
+
 
 <!ENTITY calendar.events.filter.all.label "Toate evenimentele">
 <!ENTITY calendar.events.filter.today.label "Evenimentele de astăzi">
@@ -233,8 +233,15 @@
 <!ENTITY calendar.context.newserver.accesskey          "n">
 <!ENTITY calendar.context.findcalendar.label           "Caută calendar…" >
 <!ENTITY calendar.context.findcalendar.accesskey       "C" >
-<!ENTITY calendar.context.deleteserver.label           "Șterge calendarul">
-<!ENTITY calendar.context.deleteserver.accesskey       "d">
+
+
+<!-- LOCALIZATION NOTE (calendar.context.removeserver.label): Removing the
+      calendar is the general action of removing it, while deleting means to
+      clear the data and unsubscribing means just taking it out of the calendar
+      list. -->
+
+
+
 <!ENTITY calendar.context.synccalendars.label          "Sincronizare Calendare">
 <!ENTITY calendar.context.synccalendars.accesskey      "S">
 <!ENTITY calendar.context.publish.label                "Publică calendarul…">

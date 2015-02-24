@@ -169,11 +169,7 @@ functionality specific to firefox. -->
 <!ENTITY remoteXUL.title "XUL la distanță">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Vă rugăm să contactați proprietarii websaitului pentru a-i informa despre această problemă.</li></ul></p>">
 
-<!ENTITY oldSecurityProtocol.title "Nu se poate conecta în mod securizat">
-<!-- LOCALIZATION NOTE (oldSecurityProtocol.longDesc) - Do not translate the
-     <span id='hostname'></span>. -->
-<!ENTITY oldSecurityProtocol.longDesc2 "&brandShortName; nu poate garanta siguranța datelor dumneavoastră pe <span id='hostname'></span> deoarece folosește SSLv3, un protocol de securitate nesigur.">
-<!-- LOCALIZATION NOTE (oldSecurityProtocol.advancedInfo) - Do not translate
-     the <span id='errorcode'></span>. -->
-<!ENTITY oldSecurityProtocol.advancedInfo "Informații avansate: <span id='errorcode'></span>">
-<!ENTITY oldSecurityProtocol.learnMore "Aflați mai multe…">
+<!ENTITY sslv3Used.title "Nu se poate conecta în mod securizat">
+<!-- LOCALIZATION NOTE (sslv3Used.longDesc) - Do not translate
+     "ssl_error_unsupported_version". -->
+<!ENTITY sslv3Used.learnMore "Aflați mai multe…">

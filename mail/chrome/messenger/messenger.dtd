@@ -145,6 +145,8 @@
 <!ENTITY messagePaneVertical.accesskey "V">
 <!ENTITY showFolderPaneCmd.label "Panoul cu dosare">
 <!ENTITY showFolderPaneCmd.accesskey "P">
+
+
 <!ENTITY showMessageCmd.label "Panoul de mesaj">
 <!ENTITY showMessageCmd.accesskey "m">
 
@@ -591,7 +593,9 @@
 <!ENTITY manageTags.accesskey "G">
 <!-- Folder Pane -->
 
-<!ENTITY folderColumn.label "Nume">
+<!ENTITY folderNameColumn.label "Nume">
+
+
 <!ENTITY folderSizeColumn.label "Dimensiune">
 <!-- Folder Pane Context Menu -->
 
@@ -660,8 +664,8 @@
 <!ENTITY statusColumn.label "Stare">
 <!ENTITY sizeColumn.label "Dimensiune">
 <!ENTITY junkStatusColumn.label "Mesaj nesolicitat">
-<!ENTITY unreadColumn.label "Necitit">
-<!ENTITY totalColumn.label "Total">
+
+
 <!ENTITY readColumn.label "Citit">
 <!ENTITY receivedColumn.label "Primit">
 <!ENTITY starredColumn.label "Cu steluță">
@@ -671,7 +675,7 @@
 <!-- Thread Pane Tooltips -->
 
 <!ENTITY columnChooser2.tooltip "Selectați coloanele de afișat">
-
+<!ENTITY threadColumn2.tooltip "Afișează mesajele grupate">
 <!ENTITY fromColumn2.tooltip "Sortează după expeditor">
 <!ENTITY recipientColumn2.tooltip "Sortează după destinatar">
 <!ENTITY subjectColumn2.tooltip "Sortare după subiect">
@@ -681,9 +685,9 @@
 <!ENTITY accountColumn2.tooltip "Sortează după cont">
 <!ENTITY statusColumn2.tooltip "Sortează după stare">
 <!ENTITY sizeColumn2.tooltip "Sortează după dimensiune">
-
-
-
+<!ENTITY junkStatusColumn2.tooltip "Sortează după nedorite">
+<!ENTITY unreadColumn2.tooltip "Numărul de mesaje necitite în șir">
+<!ENTITY totalColumn2.tooltip "Numărul total de mesaje în șir">
 <!ENTITY readColumn2.tooltip "Sortare după citire">
 <!ENTITY receivedColumn2.tooltip "Sortează după data primirii">
 <!ENTITY starredColumn2.tooltip "Sortează după stea">
