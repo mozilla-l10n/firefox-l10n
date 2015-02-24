@@ -239,22 +239,13 @@ size. -->
 <!ENTITY datareporting_notification_summary_short "Aby ulepszyć przeglądarkę &brandShortName;…">
 <!ENTITY datareporting_notification_ticker_text "&datareporting_notification_title;. &datareporting_notification_action_long;">
 
-<!-- Localization note (datareporting_fhr_title, datareporting_fhr_summary,
-     reporting_telemetry_title, datareporting_telemetry_summary,
-     datareporting_crashreporter_summary) : These match the strings in
-     chrome/browser/preferences/advanced.dtd (healthReportSection.label,
-     healthReportDesc.label, telemetrySection.label, telemetryDesc.label,
-     crashReporterDesc.label). -->
-<!ENTITY datareporting_fhr_title "&brandShortName;: raport o zdrowiu">
-<!ENTITY datareporting_fhr_summary2 "Pozwala zrozumieć wydajność przeglądarki i udostępnia dane o jej stanie organizacji &vendorShortName;">
-<!ENTITY datareporting_abouthr_title "Wyświetl mój raport o zdrowiu">
+<!ENTITY datareporting_fhr_title "&brandShortName; Health Report">
+<!ENTITY datareporting_fhr_summary2 "Funkcja &brandShortName; Health Report pozwala zrozumieć wydajność przeglądarki i udostępnia dane o jej stanie organizacji &vendorShortName;."><!-- check healthReportDesc.label -->
+<!ENTITY datareporting_abouthr_title "Wyświetl">
 <!ENTITY datareporting_telemetry_title "Telemetria">
-<!ENTITY datareporting_telemetry_summary "Udostępnia organizacji &vendorShortName; dane o wydajności, wykorzystaniu, modyfikacjach przeglądarki oraz o sprzęcie, na którym działa, aby pomóc nam w ulepszeniu programu &brandShortName;">
-<!ENTITY datareporting_crashreporter_summary "&brandShortName; przesyła zgłoszenia awarii, aby organizacja &vendorShortName; mogła poprawić stabilność i bezpieczeństwo przeglądarki">
-<!-- Localization note (datareporting_crashreporter_title) : This string matches
-     (crashReporterSection.label) in chrome/browser/preferences/advanced.dtd
-     except in branding. -->
-<!ENTITY datareporting_crashreporter_title_short "Zgłaszanie awarii">
+<!ENTITY datareporting_telemetry_summary "Udostępnianie organizacji &vendorShortName; danych o wydajności, wykorzystaniu, modyfikacjach przeglądarki oraz o sprzęcie, na którym działa, ułatwia ulepszanie programu &brandShortName;."><!-- check telemetryDesc.label -->
+<!ENTITY datareporting_crashreporter_summary "&brandShortName; może przesyłać zgłoszenia awarii, aby ułatwić organizacji &vendorShortName; poprawianie stabilności i bezpieczeństwa przeglądarki."><!-- check crashReporterDesc.label -->
+<!ENTITY datareporting_crashreporter_title_short "Awarie"><!-- check crashReporterSection.label -->
 <!ENTITY datareporting_wifi_title2 "Usługi lokalizacji organizacji &vendorShortName;">
 <!ENTITY datareporting_wifi_geolocation_summary3 "Pomóż organizacji &vendorShortName; mapować świat! Udostępniaj przybliżone informacje o lokalizacji urządzenia poprzez Wi-Fi i dane sieci komórkowej, aby pomóc ulepszać usługi geolokalizacyjne">
 

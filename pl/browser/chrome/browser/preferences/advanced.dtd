@@ -26,19 +26,16 @@
 
 <!ENTITY dataChoicesTab.label            "Udostępnianie danych">
 
-<!ENTITY healthReportSection.label "&brandShortName; Health Report">
 <!ENTITY healthReportDesc.label "Funkcja &brandShortName; Health Report pozwala zrozumieć wydajność przeglądarki i udostępnia dane o jej stanie organizacji &vendorShortName;.">
 <!ENTITY enableHealthReport.label "&brandShortName; Health Report">
 <!ENTITY enableHealthReport.accesskey "H">
 <!ENTITY healthReportLearnMore.label "Więcej informacji">
 
-<!ENTITY telemetrySection.label "Telemetria">
 <!ENTITY telemetryDesc.label "Udostępnianie organizacji &vendorShortName; danych o wydajności, wykorzystaniu, modyfikacjach przeglądarki oraz o sprzęcie, na którym działa, ułatwia ulepszanie programu &brandShortName;.">
-<!ENTITY enableTelemetry.label "Telemetria">
-<!ENTITY enableTelemetry.accesskey "T">
+<!ENTITY enableTelemetryData.label "Udostępnianie dodatkowych danych (np. Telemetrii)">
+<!ENTITY enableTelemetryData.accesskey "U">
 <!ENTITY telemetryLearnMore.label "Więcej informacji">
 
-<!ENTITY crashReporterSection.label "Awarie">
 <!ENTITY crashReporterDesc.label "&brandShortName; może przesyłać zgłoszenia awarii, aby ułatwić organizacji &vendorShortName; poprawianie stabilności i bezpieczeństwa przeglądarki.">
 <!ENTITY enableCrashReporter.label "Zgłaszanie awarii">
 <!ENTITY enableCrashReporter.accesskey "a">
