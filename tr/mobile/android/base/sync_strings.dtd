@@ -150,6 +150,8 @@
 
 <!ENTITY fxaccount_create_account_header2 "Firefox hesabı açın">
 <!ENTITY fxaccount_create_account_password_length_restriction "En az 8 karakter olmalıdır">
+
+
 <!ENTITY fxaccount_create_account_year_of_birth "Doğum yılı">
 <!-- Localization note: &formatS1; is fxaccount_policy_linktos, &formatS2; is fxaccount_policy_linkprivacy, both hyperlinked. -->
 <!ENTITY fxaccount_create_account_policy_text2 "Devam ederek, Firefox çevrimiçi hizmetlerinin &formatS1; ve &formatS2;ni kabul ediyorum.">
@@ -191,7 +193,7 @@
 
 <!ENTITY fxaccount_finish_migrating_header "Yükseltmeyi tamamlamak için oturum açın">
 <!ENTITY fxaccount_finish_migrating_button_label "Yükseltmeyi tamamla">
-<!ENTITY fxaccount_finish_migrating_description "Yükseltme sırasında epey veri aktarımı yapılabilir. WiFi ağına bağlanmanızı öneririz.">
+
 
 <!ENTITY fxaccount_status_header2 "Firefox Hesabı">
 <!ENTITY fxaccount_status_signed_in_as "Oturum açan">
@@ -207,7 +209,6 @@
 <!ENTITY fxaccount_status_needs_upgrade "Oturum açmak için &brandShortName; tarayıcınızı yükseltmelisiniz.">
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled "&syncBrand.shortName.label; kuruldu ama otomatik olarak eşitleme yapmıyor. Android Ayarları &gt; Veri Kullanımı menüsünden “Verileri otomatik eşitle”yi açın.">
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled_v21 "&syncBrand.shortName.label; kuruldu ama otomatik olarak eşitleme yapmıyor. Android Ayarları &gt; Hesaplar menüsünden “Verileri otomatik eşitle”yi açın.">
-<!ENTITY fxaccount_status_needs_account_enabled "&syncBrand.shortName.label; kuruldu ama otomatik olarak eşitleme yapmıyor. Eşitlemeyi başlatmak için dokunun.">
 <!ENTITY fxaccount_status_needs_finish_migrating "Yeni Firefox Hesabınıza giriş yapmak için dokunun.">
 <!ENTITY fxaccount_status_bookmarks "Yer imleri">
 <!ENTITY fxaccount_status_history "Geçmiş">

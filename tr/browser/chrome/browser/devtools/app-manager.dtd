@@ -36,9 +36,9 @@
 <!ENTITY device.permissionsHelpLink "https://developer.mozilla.org/docs/Web/Apps/App_permissions">
 <!ENTITY device.browserTabs "Tarayıcı sekmeleri">
 <!ENTITY device.browserTabsTooltip "Bağlı cihazın tarayıcısındaki sekmelerin listesini göster">
-<!ENTITY device.debugBrowserTab "Hata ayıkla">
+
 <!ENTITY device.debugBrowserTabTooltip "Cihazdaki bu tarayıcı sekmesine bağlı Geliştirici Araçları'nı aç">
-<!ENTITY device.help "Yardım">
+
 
 <!ENTITY connection.connectTooltip "Cihaza bağlan">
 <!ENTITY connection.disconnect "Bağlantıyı kes">
@@ -66,19 +66,19 @@
 <!ENTITY connection.startRegisteredSimulator "Başlat:">
 
 <!ENTITY projects.localApps "Yerel Uygulamalar">
-<!ENTITY projects.addApp "Ekle">
+
 <!ENTITY projects.addPackaged "Paketlenmiş uygulama ekle">
 <!ENTITY projects.addPackagedTooltip "Bilgisayarımdan yeni bir paketlenmiş uygulama (dizin) ekle">
 <!ENTITY projects.addHosted "Barındırılan uygulama ekle">
 <!ENTITY projects.addHostedTooltip "Uzak bir web sitesinden yeni bir barındırlan uygulama (manifest.webapp dosyası linki) ekle">
-<!ENTITY projects.title "Yerel Uygulamalar">
+
 <!ENTITY projects.appDetails "Uygulama Ayrıntıları">
 <!ENTITY projects.removeAppFromList "Bu uygulamayı üzerinde çalıştığınız uygulamalar listesinde kaldırır. Uygulamayı cihazdan veya simülatörden kaldırmaz.">
 <!ENTITY projects.updateApp "Güncelle">
 <!ENTITY projects.updateAppTooltip "Doğrulama kontrollerini çalıştır ve bağlı cihazdaki uygulamayı güncelle">
-<!ENTITY projects.debugApp "Hata ayıkla">
+
 <!ENTITY projects.debugAppTooltip "Bu uygulamaya bağlı Geliştirici Araçları'nı aç">
-<!ENTITY projects.saveManifest "Kaydet">
+
 <!ENTITY projects.saveManifestTooltip "Aşağıdaki Manifest Editörü'nin kaydet">
 <!ENTITY projects.hostedManifestPlaceHolder2 "http://ornek.com/uygulama/manifest.webapp">
 <!ENTITY projects.noProjects "Proje yok. Aşağıdan yeni bir paketlenmiş uygulama (yerel dizin) veya barındırılan uygulama (manifest dosyası bağlantısı) ekleyin.">
@@ -92,7 +92,6 @@
 <!ENTITY projects.hosted "Barındırılan">
 <!ENTITY projects.packaged "Paketlenmiş">
 
-<!ENTITY help.title "Uygulama Yöneticisi">
 <!ENTITY help.close "Kapat">
 <!ENTITY help.intro "Bu araç, uyumlu cihazlar (örn. Firefox OS) üzerinde web uygulamaları oluşturmak ve kurmak için size yardımcı olacaktır. <strong>Uygulamalar</strong> sekmesi uygulamanızı doğrulama ve kurulum sürecinde size yardımcı olacaktır. <strong>Aygıt</strong> sekmesi bağlı cihaz hakkında bilgi verecektir. Bir cihaza bağlanmak veya simülatörü başlatmak için alttaki araç çubuğunu kullanın.">
 <!ENTITY help.usefullLinks "İşe yarar bağantılar:">

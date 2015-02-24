@@ -11,7 +11,7 @@
 <!ENTITY update.checkForUpdatesButton.label       "Güncellemeleri denetle">
 <!ENTITY update.checkForUpdatesButton.accesskey   "G">
 <!ENTITY update.updateButton.label2                "Güncellemek için &brandShortName; tarayıcısını baştan başlat">
-<!ENTITY update.updateButton.accesskey            "G">
+
 <!ENTITY update.applyButtonBillboard.label        "Güncellemeyi uygula…">
 <!ENTITY update.applyButtonBillboard.accesskey    "u">
 <!-- LOCALIZATION NOTE (warningDesc.version): This is a warning about the experimental nature of Nightly and Aurora builds. It is only shown in those versions. -->
@@ -32,11 +32,9 @@
 
 <!ENTITY community.start2           "&brandShortName;, ">
 <!-- LOCALIZATION NOTE (community.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
-<!ENTITY community.mozillaLink      "&vendorShortName; ">
 <!ENTITY community.middle2          " tarafından tasarlanmıştır. &vendorShortName;, interneti daha iyiye taşımak için birlikte çalışan ">
 <!-- LOCALIZATION NOTE (community.creditsLink): This is a link title that links to about:credits. -->
-<!ENTITY community.creditsLink      "küresel bir topluluktur">
-<!ENTITY community.end3             ".">
+
 
 <!ENTITY helpus.start               "Yardım etmek ister misiniz? ">
 <!-- LOCALIZATION NOTE (helpus.donateLink): This is a link title that links to https://sendto.mozilla.org/page/contribute/Give-Now?source=mozillaorg_default_footer&ref=firefox_about&utm_campaign=firefox_about&utm_source=firefox&utm_medium=referral&utm_content=20140929_FireFoxAbout. -->

@@ -12,19 +12,37 @@
 <!ENTITY update.updateButton.accesskey            "G">
 <!ENTITY update.applyButtonBillboard.label        "Güncellemeyi uygula...">
 <!ENTITY update.applyButtonBillboard.accesskey    "u">
+<!-- LOCALIZATION NOTE (warningDesc.version): This is a warning about the experimental nature of Nightly and Aurora builds. It is only shown in those versions. -->
+
+
+<!ENTITY warningDesc.version        "&brandShortName; deneyseldir ve kararsız olabilir.">
+<!-- LOCALIZATION NOTE (warningDesc.telemetryDesc): This is a notification that Nightly/Aurora builds automatically send Telemetry data back to Mozilla. It is only shown in those versions. "It" refers to brandShortName. -->
+<!ENTITY warningDesc.telemetryDesc  "&brandShortName; uygulamasını iyileştirmek için &vendorShortName;'ya otomatik olarak performans, donanım, kullanım ve özelleştirmelerle ilgili bilgi gönderir.">
+<!-- LOCALIZATION NOTE (community.exp.*) This paragraph is shown in "experimental" builds, i.e. Nightly and Aurora builds, instead of the other "community.*" strings below. -->
+
+<!ENTITY community.exp.start        "">
+<!-- LOCALIZATION NOTE (community.exp.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
+<!ENTITY community.exp.mozillaLink  "&vendorShortName;">
+
+<!-- LOCALIZATION NOTE (community.exp.creditslink): This is a link title that links to about:credits. -->
+<!ENTITY community.exp.creditsLink  "küresel bir topluluktur.">
+<!ENTITY community.exp.end          "İnterneti herkes için açık, kamuya hizmet eden ve erişilebilir kılmak için birlikte çaba sarf edenlerden oluşur.">
 
 <!ENTITY community.start2           "&brandShortName;, ">
 <!-- LOCALIZATION NOTE (community.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
-<!ENTITY community.mozillaLink      "&vendorShortName; ">
+<!ENTITY community.mozillaLink      "&vendorShortName;">
 <!ENTITY community.middle2          " tarafından tasarlanmıştır. &vendorShortName;, interneti daha iyiye taşımak için birlikte çalışan ">
 <!-- LOCALIZATION NOTE (community.creditsLink): This is a link title that links to about:credits. -->
-<!ENTITY community.creditsLink      "küresel bir topluluktur">
-<!ENTITY community.end2             ". Biz, internetin herkes tarafından hiçbir kısıtlama olmadan erişilebilen, açık ve kamusal olması gerektiğine inanıyoruz.">
+<!ENTITY community.creditsLink      "küresel bir topluluktur.">
+<!ENTITY community.end3             "İnterneti herkes için açık, kamuya hizmet eden ve erişilebilir kılmak için birlikte çaba sarf edenlerden oluşur.">
 
-<!ENTITY contribute.start           "İlginç değil mi? ">
-<!-- LOCALIZATION NOTE (contribute.getInvolvedLink): This is a link title that links to http://www.mozilla.org/contribute/. -->
-<!ENTITY contribute.getInvolvedLink "Siz de katkıda bulunun!">
-<!ENTITY contribute.end             "">
+<!ENTITY helpus.start               "Yardım etmek ister misiniz?">
+<!-- LOCALIZATION NOTE (helpus.donateLink): This is a link title that links to the thunderbird donation page -->
+<!ENTITY helpus.donateLink          "Bağış yapın">
+<!ENTITY helpus.middle              "veya">
+<!-- LOCALIZATION NOTE (helpus.getInvolvedLink): This is a link title that links to http://www.mozilla.org/contribute/. -->
+<!ENTITY helpus.getInvolvedLink     "siz de katkıda bulunun!">
+<!ENTITY helpus.end                 "">
 <!-- LOCALIZATION NOTE (bottomLinks.license): This is a link title that links to about:license. -->
 
 <!ENTITY bottomLinks.license        "Lisans bilgisi">
@@ -41,6 +59,7 @@
 <!ENTITY update.noUpdatesFound      "&brandShortName; güncel">
 <!-- LOCALIZATION NOTE (update.adminDisabled): try to make the localized text short (see bug 596813 for screenshots). -->
 <!ENTITY update.adminDisabled       "Güncellemeler sistem yöneticiniz tarafından devre dışı bırakılmış">
+<!-- LOCALIZATION NOTE (update.otherInstanceHandlingUpdates): try to make the localized text short -->
 <!-- LOCALIZATION NOTE (update.failed.start,update.failed.linkText,update.failed.end):
      update.failed.start, update.failed.linkText, and update.failed.end all go into
      one line with linkText being wrapped in an anchor that links to a site to download
