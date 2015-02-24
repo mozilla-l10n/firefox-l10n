@@ -10,9 +10,6 @@
 <!ENTITY certmgr.tab.ca                       "Центри сертифікації">
 <!ENTITY certmgr.tab.orphan2                  "Інше">
 
-<!ENTITY certmgr.ca.builtins                  "Вбудовані центри авторизації">
-<!ENTITY certmgr.ca.mycas                     "Центри авторизації, керовані вами">
-
 <!ENTITY certmgr.mine                         "Ви володієте ідентифікуючими вас сертифікатами від цих організацій:">
 <!ENTITY certmgr.others                       "У вас є сертифікати, які ідентифікують цих людей:">
 <!ENTITY certmgr.websites2                    "У вас є сертифікати, які ідентифікують ці сервери:">
@@ -37,8 +34,7 @@
 <!ENTITY certmgr.certdetail.sha256fingerprint "Відбиток SHA-256">
 <!ENTITY certmgr.certdetail.sha1fingerprint   "Відбиток SHA1">
 
-<!ENTITY certmgr.editcert.title               "Зміна параметрів сертифікату">
-<!ENTITY certmgr.editcacert.title             "Зміна ступеню довіри сертифікату CA">
+<!ENTITY certmgr.editcacert.title             "Edit CA certificate trust settings">
 <!ENTITY certmgr.editcert.edittrust           "Змінити ступінь довіри:">
 <!ENTITY certmgr.editcert.trustssl            "Цей сертифікат може ідентифікувати сайти.">
 <!ENTITY certmgr.editcert.trustemail          "Цей сертифікат може ідентифікувати користувачів ел. пошти.">
@@ -49,11 +45,6 @@
 <!ENTITY certmgr.editemailcert.donttrust      "Не довіряти достовірності сертифікату.">
 
 <!ENTITY certmgr.deletecert.title             "Вилучення сертифікату">
-<!ENTITY certmgr.deletecert.beforename        "Ви збираєтеся вилучити цей сертифікат:">
-<!ENTITY certmgr.deletecert.aftername         "Ви дійсно хочете вилучити його?">
-<!ENTITY certmgr.deleteusercert.title         "Вилучення власного сертифікату">
-<!ENTITY certmgr.deleteusercert.beforename    "Ви збираєтеся вилучити сертифікат:">
-<!ENTITY certmgr.deleteusercert.aftername     "Вилучивши цей сертифікат, ви не зможете читати пошту, зашифровану з його допомогою.">
 
 <!ENTITY certmgr.certname                     "Назва сертифікату">
 <!ENTITY certmgr.certserver                   "Сервер">
@@ -72,8 +63,6 @@
 <!ENTITY certmgr.edit3.accesskey              "Д">
 <!ENTITY certmgr.editca.label                 "Змінити довіру центру">
 <!ENTITY certmgr.editca.accesskey             "і">
-<!ENTITY certmgr.add.label                    "Додати">
-<!ENTITY certmgr.add.accesskey                "о">
 <!ENTITY certmgr.export.label                 "Експорт…">
 <!ENTITY certmgr.export.accesskey             "Е">
 <!ENTITY certmgr.delete2.label                "Стерти…">
@@ -91,7 +80,7 @@
 <!ENTITY certmgr.fields.label                 "Значення поля">
 <!ENTITY certmgr.fields.accesskey             "а">
 <!ENTITY certmgr.hierarchy.label              "Ієрархія сертифікатів">
-<!ENTITY certmgr.hierarchy.accesskey          "є">
+<!ENTITY certmgr.hierarchy.accesskey2         "є">
 <!ENTITY certmgr.addException.label           "Додати виняток…">
 <!ENTITY certmgr.addException.accesskey       "к">
 

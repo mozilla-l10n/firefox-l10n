@@ -9,7 +9,6 @@
 <!ENTITY setPassword.newPassword.label "Новий пароль:">
 <!ENTITY setPassword.reenterPassword.label "Новий пароль (ще раз):">
 <!ENTITY setPassword.meter.label "Рівень якості пароля">
-<!ENTITY setPassword.meter.loading "Завантаження">
 
 <!-- Values for resetpassword.xul -->
 <!ENTITY resetPasswordButtonLabel "Скинути">
@@ -21,19 +20,6 @@
 <!ENTITY getPassword.tokenName2.label "Пристрій безпеки:">
 <!ENTITY getPassword.password.label "Пароль:">
 
-<!-- These should be common -->
-<!ENTITY piperror.title "Помилка">
-<!ENTITY pipalert.title "Помилка — неможливість відновлення">
-
-<!-- Prefs panel strings -->
-<!ENTITY pref.security.general.lHeader "Захист">
-<!ENTITY pref.security.general.rHeader "Основні параметри захисту">
-<!ENTITY pref.security.general.header "Основні параметри захисту">
-<!ENTITY pref.security.general.level.title "Рівень захисту">
-<!ENTITY pref.security.general.paranoid.label "Використовувати параметри посиленого захисту">
-<!ENTITY pref.security.general.certificates.title "Сертифікати">
-<!ENTITY pref.security.general.manageCert.label "Управління сертифікатами">
-
 <!-- Downloading a cert -->
 <!ENTITY downloadCert.title "Завантаження сертифікату">
 <!ENTITY downloadCert.message1 "Вас просять довіряти новому центру сертифікації (CA).">
@@ -42,9 +28,7 @@
 <!ENTITY downloadCert.trustObjSign "Довіряти при ідентифікації виробників програмного забезпечення.">
 <!ENTITY downloadCert.message3 "Перед тим, як визначитися з довірою до цього центру, рекомендується перевірити його сертифікат, політику і процедури (якщо можливо).">
 <!ENTITY downloadCert.viewCert.label "Перегляд">
-<!ENTITY downloadCert.viewPolicy.label "Політика">
 <!ENTITY downloadCert.viewCert.text "Перевірити сертифікат центру">
-<!ENTITY downloadCert.viewPolicy.text "Перевірити політику і процедури центру">
 
 <!-- Strings for the SSL client auth ask dialog -->
 <!ENTITY clientAuthAsk.title "Запит ідентифікації користувача">
@@ -63,11 +47,8 @@
 <!ENTITY pkcs12.setpassword.label2 "Пароль резервної копії (ще раз):">
 <!ENTITY pkcs12.setpassword.reminder "Увага: якщо ви забудете ваш пароль резервної копії сертифікату, ви не зможете відновити цю резервну копію пізніше. Цю інформацію треба зберігати в безпечному місці.">
 
-<!ENTITY pkcs12.getpassword.title  "Введення пароля">
-<!ENTITY pkcs12.getpassword.message "Введіть пароль, використаний для шифрування резервної копії сертифікату.">
-
-<!ENTITY chooseToken.title  "Вибір маркера">
-<!ENTITY chooseToken.message1 "Виберіть маркер.">
+<!ENTITY chooseToken.title  "Choose Token Dialog">
+<!ENTITY chooseToken.message1 "Please choose a token.">
 
 <!ENTITY escrowWarn.title "Копія ключа шифрування">
 <!ENTITY escrowWarn.message1 "Увага: центр сертифікації попросив зробити резервну копію вашого закритого ключа шифрування.">

@@ -150,6 +150,8 @@
      etc).  The account remains a "Firefox Account". -->
 <!ENTITY fxaccount_create_account_header2 'Створити обліковий запис Firefox'>
 <!ENTITY fxaccount_create_account_password_length_restriction 'Має бути щонайменше 8 символів'>
+<!ENTITY fxaccount_create_account_day_of_birth 'Day'>
+<!ENTITY fxaccount_create_account_month_of_birth 'Month'>
 <!ENTITY fxaccount_create_account_year_of_birth 'Рік народження'>
 <!-- Localization note: &formatS1; is fxaccount_policy_linktos, &formatS2; is fxaccount_policy_linkprivacy, both hyperlinked. -->
 <!ENTITY fxaccount_create_account_policy_text2 'Продовжуючи, я приймаю &formatS1; та &formatS2; Firefox’ових онлайнових служб.'>
@@ -207,7 +209,6 @@
 <!ENTITY fxaccount_status_needs_upgrade 'Для входу вам потрібно оновити &brandShortName;.'>
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled '&syncBrand.shortName.label; налаштовано, але не синхронізовано автоматично. Перемкніть “Автосинхронізація” в налаштуваннях Android &gt; Використання даних.'>
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled_v21 '&syncBrand.shortName.label; налаштовано, але не синхронізовано автоматично. Перемкніть “Автосинхронізація” в налаштуваннях Android &gt; Облікові записи та синхронізація.'>
-<!ENTITY fxaccount_status_needs_account_enabled '&syncBrand.shortName.label; налаштовано, але не синхронізовано автоматично. Торкніться, щоб почати синхронізацію.'>
 <!ENTITY fxaccount_status_needs_finish_migrating 'Торкніться, щоб увійти в свій обліковий запис Firefox.'>
 <!ENTITY fxaccount_status_bookmarks 'Закладки'>
 <!ENTITY fxaccount_status_history 'Історія'>
