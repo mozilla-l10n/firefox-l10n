@@ -149,6 +149,8 @@
      etc).  The account remains a "Firefox Account". -->
 <!ENTITY fxaccount_create_account_header2 'Vytvorenie účtu Firefox Account'>
 <!ENTITY fxaccount_create_account_password_length_restriction 'Minimálne 8 znakov'>
+<!ENTITY fxaccount_create_account_day_of_birth 'Deň'>
+<!ENTITY fxaccount_create_account_month_of_birth 'Mesiac'>
 <!ENTITY fxaccount_create_account_year_of_birth 'Rok narodenia'>
 <!-- Localization note: &formatS1; is fxaccount_policy_linktos, &formatS2; is fxaccount_policy_linkprivacy, both hyperlinked. -->
 <!ENTITY fxaccount_create_account_policy_text2 'Pokračovaním súhlasíte s &formatS1; a &formatS2; cloudových služieb prehliadača Firefox.'>
@@ -206,7 +208,6 @@
 <!ENTITY fxaccount_status_needs_upgrade 'Ak sa chcete prihlásiť, musíte aktualizovať svoj &brandShortName;.'>
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled 'Služba &syncBrand.shortName.label; je nastavená, ale synchronizácia neprebieha automaticky. Prepnite voľbu “Automatická synchronizácia” v nastaveniach systému Android.'>
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled_v21 'Služba &syncBrand.shortName.label; je nastavená, ale synchronizácia neprebieha automaticky. Prepnite voľbu “Automatická synchronizácia” v ponuke Nastavenia systému Android &gt; Kontá.'>
-<!ENTITY fxaccount_status_needs_account_enabled 'Služba &syncBrand.shortName.label; je nastavená, ale synchronizácia neprebieha automaticky. Ťuknutím ju spustíte.'>
 <!ENTITY fxaccount_status_needs_finish_migrating 'Ťuknutím sa prihlásite k svojmu novému účtu Firefox Account.'>
 <!ENTITY fxaccount_status_bookmarks 'Záložky'>
 <!ENTITY fxaccount_status_history 'História'>

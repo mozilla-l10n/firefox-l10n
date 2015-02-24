@@ -17,3 +17,7 @@
 <!ENTITY panePrivacy.title        "Súkromie">
 <!ENTITY paneSecurity.title       "Bezpečnosť">
 <!ENTITY paneAdvanced.title       "Spresnenie">
+<!ENTITY paneAccount.title        "Účty">
+
+<!ENTITY okButton.title           "OK">
+<!ENTITY okButton.accesskey       "O">

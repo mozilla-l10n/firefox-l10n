@@ -6,8 +6,8 @@
 <!ENTITY  no_space_to_start_error "Na spustenie prehliadača &brandShortName; nie je dostatok miesta.">
 <!ENTITY  error_loading_file "Pri načítavaní súborov potrebných na spustenie prehliadača &brandShortName; sa vyskytla chyba.">
 
-<!ENTITY  onboard_start_message "Víta Vás &brandShortName;">
-<!ENTITY  onboard_start_subtext "Zaviazaný Vám, Vášmu súkromiu a otvorenému webu">
+<!ENTITY  onboard_start_message2 "Víta Vás &brandShortName;">
+<!ENTITY  onboard_start_subtext2 "Ešte viac ochrany súkromia a spôsobov prispôsobenia">
 <!ENTITY  onboard_start_button_account "Prihlásiť sa k &brandShortName;u">
 <!ENTITY  onboard_start_button_browser "Začať prehliadať">
 
@@ -101,7 +101,7 @@
      used in the share overlay menu to select an action. It is the verb
      "to bookmark", not the noun "a bookmark". -->
 <!ENTITY overlay_share_bookmark_btn_label "Pridať medzi záložky">
-<!ENTITY overlay_share_reading_list_btn_label "Pridať do zoznamu na prečítanie">
+<!ENTITY overlay_share_reading_list_btn_label "Pridať do Zoznamu na prečítanie">
 <!ENTITY overlay_share_bookmark_btn_label_already "Už sa nachádza medzi záložkami">
 <!ENTITY overlay_share_reading_list_btn_label_already "Už sa nachádza v Zozname na prečítanie">
 <!ENTITY overlay_share_send_other "Odoslať do iných zariadení">
@@ -214,6 +214,8 @@ size. -->
 
 <!ENTITY pref_media_autoplay_enabled "Povoliť automatické prehrávanie">
 <!ENTITY pref_media_autoplay_enabled_summary "Určuje, či webové stránky môžu automaticky prehrávať videá a iné médiá">
+<!ENTITY pref_zoom_force_enabled "Vždy povoliť lupu">
+<!ENTITY pref_zoom_force_enabled_summary "Lupu bude možné používať pre akúkoľvek stránku">
 
 <!ENTITY pref_use_master_password "Používať hlavné heslo">
 <!ENTITY pref_sync "Synchronizácia">
@@ -270,7 +272,7 @@ size. -->
      (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
 <!ENTITY datareporting_crashreporter_title_short "Správy o zlyhaní">
 <!ENTITY datareporting_wifi_title2 "Služba zisťovania polohy &vendorShortName;">
-<!ENTITY datareporting_wifi_geolocation_summary2 "Zdieľa so spoločnosťou &vendorShortName; približnú polohu vášho zariadenia na základe údajov zo siete operátora a Wi-Fi s cieľom vylepšiť presnosť Služby zisťovania polohy.">
+<!ENTITY datareporting_wifi_geolocation_summary3 "Pomôžte spoločnosti &vendorShortName; mapovať svet. Zdieľajte približnú polohu vášho zariadenia na základe údajov zo siete operátora a Wi-Fi s cieľom vylepšiť presnosť Služby zisťovania polohy.">
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
      actual notification that an update is available. -->
@@ -415,7 +417,7 @@ size. -->
      as an advisory message on how to add content to the reading list when the reading list empty.
      The placeholder &formatI; will be replaced by a small image of the icon described, and can be moved to wherever
      it is applicable. -->
-<!ENTITY home_reading_list_hint2 "Tip: články si môžete pridávať do zoznamu na prečítanie podržaním ikony &formatI;, keď sa táto zobrazí v titulku okna.">
+<!ENTITY home_reading_list_hint2 "Tip: články si môžete pridávať do Zoznamu na prečítanie podržaním ikony &formatI;, keď sa táto zobrazí v titulku okna.">
 <!-- Localization note (home_reading_list_hint_accessible): This string is used
      as alternate text for accessibility. It is not visible in the UI. -->
 <!ENTITY home_reading_list_hint_accessible "Tip: články si môžete pridávať do zoznamu na prečítanie podržaním tlačidla tohto režimu, keď sa toto zobrazí v titulku okna.">
@@ -557,6 +559,13 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY actionbar_menu "Ponuka">
 <!ENTITY actionbar_done "Hotovo">
 
+<!-- Voice search in the awesome bar -->
+<!ENTITY voicesearch_prompt "Hovorte teraz">
+<!ENTITY voicesearch_failed_title "Hlasové vyhľadávanie &brandShortName;">
+<!ENTITY voicesearch_failed_message "Vyskytol sa problém s hlasovým vyhľadávaním. Skúste to znova neskôr.">
+<!ENTITY voicesearch_failed_message_recoverable "Ospravedlňujeme sa, ale nevieme rozpoznať vaše slová. Skúste to znova.">
+<!ENTITY voicesearch_failed_retry "Skúsiť znova">
+
 <!-- Localization note (remote_tabs_last_synced): the variable is replaced by a
      "relative time span string" produced by Android.  This string describes the
      time the tabs were last synced relative to the current time; examples
@@ -564,6 +573,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      "Last synced" is one of the user's other Sync clients, typically Firefox on
      their desktop or laptop.-->
 <!ENTITY remote_tabs_last_synced "Synchronizované: &formatS;">
+<!-- Localization note: Used when the sync has not happend yet, showed in place of a date -->
+<!ENTITY remote_tabs_never_synced "Synchronizované: nikdy">
 
 <!-- Find-In-Page strings -->
 <!-- LOCALIZATION NOTE (find_matchcase): This is meant to appear as an icon that changes color

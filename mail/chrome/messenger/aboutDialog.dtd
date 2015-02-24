@@ -16,18 +16,35 @@
 <!ENTITY update.applyButtonBillboard.label        "Nainštalovať aktualizáciu…">
 <!ENTITY update.applyButtonBillboard.accesskey    "N">
 
+<!-- LOCALIZATION NOTE (warningDesc.version): This is a warning about the experimental nature of Nightly and Aurora builds. It is only shown in those versions. -->
+<!ENTITY warningDesc.version        "Zostavenie &brandShortName; je experimentálne a môže byť nestabilné.">
+<!-- LOCALIZATION NOTE (warningDesc.telemetryDesc): This is a notification that Nightly/Aurora builds automatically send Telemetry data back to Mozilla. It is only shown in those versions. "It" refers to brandShortName. -->
+<!ENTITY warningDesc.telemetryDesc  "Zároveň spoločnosti &vendorShortName; automaticky odosiela údaje o výkonnosti, hardvérovej konfigurácii, využívaní funkcií a nastaveniach s cieľom vylepšiť budúce verzie klienta &brandShortName;.">
+
+<!-- LOCALIZATION NOTE (community.exp.*) This paragraph is shown in "experimental" builds, i.e. Nightly and Aurora builds, instead of the other "community.*" strings below. -->
+<!ENTITY community.exp.start        "">
+<!-- LOCALIZATION NOTE (community.exp.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
+<!ENTITY community.exp.mozillaLink  "&vendorShortName;">
+<!ENTITY community.exp.middle       " je ">
+<!-- LOCALIZATION NOTE (community.exp.creditslink): This is a link title that links to about:credits. -->
+<!ENTITY community.exp.creditsLink  "globálna komunita">
+<!ENTITY community.exp.end          " pracujúca s cieľom zachovať internet otvoreným, verejným a dostupným zdrojom pre všetkých.">
+
 <!ENTITY community.start2           "&brandShortName; vytvára ">
 <!-- LOCALIZATION NOTE (community.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
 <!ENTITY community.mozillaLink      "&vendorShortName;">
 <!ENTITY community.middle2          ", ">
 <!-- LOCALIZATION NOTE (community.creditsLink): This is a link title that links to about:credits. -->
 <!ENTITY community.creditsLink      "globálna komunita">
-<!ENTITY community.end2             " pracujúca s cieľom urobiť internet lepším. Veríme, že internet by mal byť otvorený, verejný a dostupný každému bez akýchkoľvek obmedzení.">
+<!ENTITY community.end3             " pracujúca s cieľom zachovať internet otvoreným, verejným a dostupným zdrojom pre všetkých.">
 
-<!ENTITY contribute.start           "Znie to zaujímavo? ">
-<!-- LOCALIZATION NOTE (contribute.getInvolvedLink): This is a link title that links to http://www.mozilla.org/contribute/. -->
-<!ENTITY contribute.getInvolvedLink "Zapojte sa!">
-<!ENTITY contribute.end             "">
+<!ENTITY helpus.start               "Chcete nám pomôcť? ">
+<!-- LOCALIZATION NOTE (helpus.donateLink): This is a link title that links to https://sendto.mozilla.org/page/contribute/Give-Now?source=mozillaorg_default_footer&ref=firefox_about&utm_campaign=firefox_about&utm_source=firefox&utm_medium=referral&utm_content=20140929_FireFoxAbout. -->
+<!ENTITY helpus.donateLink          "Zašlite svoj príspevok">
+<!ENTITY helpus.middle              " alebo ">
+<!-- LOCALIZATION NOTE (helpus.getInvolvedLink): This is a link title that links to http://www.mozilla.org/contribute/. -->
+<!ENTITY helpus.getInvolvedLink     "sa zapojte">
+<!ENTITY helpus.end                 ".">
 
 <!-- LOCALIZATION NOTE (bottomLinks.license): This is a link title that links to about:license. -->
 <!ENTITY bottomLinks.license        "Informácie o licenciách">
@@ -44,6 +61,8 @@
 <!ENTITY update.noUpdatesFound      "Používate najnovšiu verziu programu &brandShortName;">
 <!-- LOCALIZATION NOTE (update.adminDisabled): try to make the localized text short (see bug 596813 for screenshots). -->
 <!ENTITY update.adminDisabled       "Aktualizácie boli vypnuté správcom systému">
+<!-- LOCALIZATION NOTE (update.otherInstanceHandlingUpdates): try to make the localized text short -->
+<!ENTITY update.otherInstanceHandlingUpdates "&brandShortName; sa práve aktualizuje v inej inštancii">
 
 <!-- LOCALIZATION NOTE (update.failed.start,update.failed.linkText,update.failed.end):
      update.failed.start, update.failed.linkText, and update.failed.end all go into

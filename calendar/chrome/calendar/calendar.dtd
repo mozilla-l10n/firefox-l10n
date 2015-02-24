@@ -12,9 +12,9 @@
 <!ENTITY calendar.unifinder.todoitems.label          "Úlohy" >
 <!ENTITY calendar.unifinder.showcompletedtodos.label "Zobraziť dokončené úlohy">
 
-<!ENTITY calendar.today.button.label       "Dnes">
+<!ENTITY calendar.today.button.label          "Dnes">
 <!ENTITY calendar.tomorrow.button.label       "Zajtra">
-<!ENTITY calendar.soon.button.label           "Čoskoro">
+<!ENTITY calendar.upcoming.button.label       "Nadchádzajúce">
 
 <!ENTITY calendar.events.filter.all.label               "Všetky udalosti">
 <!ENTITY calendar.events.filter.today.label             "Dnešné udalosti">
@@ -232,10 +232,19 @@
 <!ENTITY calendar.context.newserver.accesskey         "N">
 <!ENTITY calendar.context.findcalendar.label          "Hľadať kalendár…" >
 <!ENTITY calendar.context.findcalendar.accesskey      "H" >
-<!ENTITY calendar.context.deleteserver.label          "Odstrániť kalendár">
-<!ENTITY calendar.context.deleteserver.accesskey      "d">
-<!ENTITY calendar.context.synccalendars.label          "Synchronizovať kalendáre">
-<!ENTITY calendar.context.synccalendars.accesskey      "c">
+<!ENTITY calendar.context.deleteserver2.label         "Vymazať kalendár…">
+<!ENTITY calendar.context.deleteserver2.accesskey     "m">
+
+<!-- LOCALIZATION NOTE (calendar.context.removeserver.label): Removing the
+      calendar is the general action of removing it, while deleting means to
+      clear the data and unsubscribing means just taking it out of the calendar
+      list. -->
+<!ENTITY calendar.context.removeserver.label          "Odstrániť kalendár…">
+<!ENTITY calendar.context.removeserver.accesskey      "d">
+<!ENTITY calendar.context.unsubscribeserver.label     "Odhlásiť odber kalendára…">
+<!ENTITY calendar.context.unsubscribeserver.accesskey "h">
+<!ENTITY calendar.context.synccalendars.label         "Synchronizovať kalendáre">
+<!ENTITY calendar.context.synccalendars.accesskey     "c">
 <!ENTITY calendar.context.publish.label               "Publikovať celý kalendár…">
 <!ENTITY calendar.context.publish.accesskey           "P">
 <!ENTITY calendar.context.export.label                "Exportovať kalendár…">
