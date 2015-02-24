@@ -145,6 +145,8 @@
 <!ENTITY messagePaneVertical.accesskey "N">
 <!ENTITY showFolderPaneCmd.label "Podokno map">
 <!ENTITY showFolderPaneCmd.accesskey "m">
+
+
 <!ENTITY showMessageCmd.label "Podokno sporočil">
 <!ENTITY showMessageCmd.accesskey "s">
 
@@ -593,7 +595,9 @@
 <!ENTITY manageTags.accesskey "U">
 <!-- Folder Pane -->
 
-<!ENTITY folderColumn.label "Ime">
+<!ENTITY folderNameColumn.label "Ime">
+
+
 <!ENTITY folderSizeColumn.label "Velikost">
 <!-- Folder Pane Context Menu -->
 
@@ -662,8 +666,8 @@
 <!ENTITY statusColumn.label "Stanje">
 <!ENTITY sizeColumn.label "Velikost">
 <!ENTITY junkStatusColumn.label "Stanje za neželeno">
-<!ENTITY unreadColumn.label "Neprebrano">
-<!ENTITY totalColumn.label "Skupaj">
+
+
 <!ENTITY readColumn.label "Prebrano">
 <!ENTITY receivedColumn.label "Prejeto">
 <!ENTITY starredColumn.label "Označeno z zvezdico">

@@ -6,6 +6,7 @@
 <!ENTITY itemAutoComplete.label              "Naslavljanje">
 <!ENTITY itemSpellCheck.label                "Črkovanje">
 
+
 <!ENTITY forwardMsg.label                     "Posreduj sporočila:">
 <!ENTITY forwardMsg.accesskey                 "P">
 <!ENTITY inline.label                         "v besedilu">
