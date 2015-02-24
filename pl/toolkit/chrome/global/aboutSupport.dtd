@@ -93,3 +93,6 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.copyRawDataToClipboard.label "Skopiuj nieprzetworzone dane do schowka">
 
 <!ENTITY aboutSupport.sandboxTitle "Piaskownica">
+
+<!ENTITY aboutSupport.safeModeTitle "Tryb awaryjny">
+<!ENTITY aboutSupport.restartInSafeMode.label "Uruchom ponownie z wyłączonymi dodatkami…">
