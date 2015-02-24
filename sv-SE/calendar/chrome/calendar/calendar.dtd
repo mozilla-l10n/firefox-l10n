@@ -14,7 +14,7 @@
 
 <!ENTITY calendar.today.button.label       "Idag">
 <!ENTITY calendar.tomorrow.button.label       "Imorgon">
-<!ENTITY calendar.soon.button.label           "Senare">
+<!ENTITY calendar.upcoming.button.label       "Kommande">
 
 <!ENTITY calendar.events.filter.all.label "Alla händelser">
 <!ENTITY calendar.events.filter.today.label "Dagens händelser">
@@ -234,11 +234,20 @@
 <!ENTITY calendar.context.newserver.label              "Ny kalender">
 <!ENTITY calendar.context.newserver.accesskey          "N">
 <!ENTITY calendar.context.findcalendar.label           "Sök kalender…" >
-<!ENTITY calendar.context.findcalendar.accesskey       "ö" >
-<!ENTITY calendar.context.deleteserver.label           "Ta bort kalender">
-<!ENTITY calendar.context.deleteserver.accesskey       "a">
+<!ENTITY calendar.context.findcalendar.accesskey       "S" >
+<!ENTITY calendar.context.deleteserver2.label          "Ta bort kalender…">
+<!ENTITY calendar.context.deleteserver2.accesskey      "b">
+
+<!-- LOCALIZATION NOTE (calendar.context.removeserver.label): Removing the
+      calendar is the general action of removing it, while deleting means to
+      clear the data and unsubscribing means just taking it out of the calendar
+      list. -->
+<!ENTITY calendar.context.removeserver.label           "Ta bort kalender…">
+<!ENTITY calendar.context.removeserver.accesskey       "T">
+<!ENTITY calendar.context.unsubscribeserver.label      "Avregistrera kalender…">
+<!ENTITY calendar.context.unsubscribeserver.accesskey  "A">
 <!ENTITY calendar.context.synccalendars.label          "Synkronisera kalendrar">
-<!ENTITY calendar.context.synccalendars.accesskey      "S">
+<!ENTITY calendar.context.synccalendars.accesskey      "y">
 <!ENTITY calendar.context.publish.label                "Publicera hela kalendern">
 <!ENTITY calendar.context.publish.accesskey            "P">
 <!ENTITY calendar.context.export.label                 "Exportera kalender…">

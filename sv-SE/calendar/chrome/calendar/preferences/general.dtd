@@ -33,6 +33,10 @@
 <!ENTITY pref.default_task_offset_start.label "Relativt till start">
 <!ENTITY pref.default_task_offset_next_hour.label "Relativt till nästa timme">
 
+<!ENTITY pref.calendar.todaypane.agenda.caption "Dagens panel">
+<!ENTITY pref.soondays.label "Det kommande avsnittet visar:">
+<!ENTITY pref.soondays.accesskey "k">
+
 <!ENTITY pref.accessibility.label "Tillgänglighet" >
 <!ENTITY pref.systemcolors.label "Optimera färger för tillgänglighet" >
 <!ENTITY pref.systemcolors.accesskey "O">
