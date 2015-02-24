@@ -165,9 +165,11 @@
 <!ENTITY devicepreference_addnew "Tambahkan preferensi baru">
 <!-- Device Settings -->
 
-
-
-
+<!ENTITY devicesetting_title "Setelan Perangkat">
+<!ENTITY devicesetting_search "Setelan pencarian">
+<!ENTITY devicesetting_newname "Nama setelan baru">
+<!ENTITY devicesetting_newtext "Nilai setelan">
+<!ENTITY devicesetting_addnew "Tambahkan setelan baru">
 <!-- Monitor -->
 
 <!ENTITY monitor_title "Monitor">
