@@ -6,6 +6,8 @@
 <!ENTITY itemAutoComplete.label "Adresowanie">
 <!ENTITY itemSpellCheck.label   "Pisownia">
 
+<!ENTITY dialogCompose.title "Tworzenie">
+
 <!ENTITY forwardMsg.label       "Przekazuj wiadomości:">
 <!ENTITY forwardMsg.accesskey   "P">
 <!ENTITY inline.label           "bezpośrednio">
