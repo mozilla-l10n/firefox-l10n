@@ -6,8 +6,7 @@
 <!ENTITY  no_space_to_start_error "Chan eil àite gu leòr ann airson leigeil le &brandShortName; tòiseachadh.">
 <!ENTITY  error_loading_file "Thachair mearachd fhad \u0027s a dh\u0027fheuchar na faidhlichean a luchdadh a dh\u0027fheumas &brandShortName;">
 
-<!ENTITY  onboard_start_message "Fàilte gu &brandShortName;!">
-<!ENTITY  onboard_start_subtext "An dealas riut-sa, do phrìobhaideachd is lìon fosgailte">
+
 <!ENTITY  onboard_start_button_account "Clàraich a-steach gu &brandShortName;">
 <!ENTITY  onboard_start_button_browser "Tòisich air brabhsadh">
 <!-- Localization note: These are used as the titles of different pages on the home screen.
@@ -112,7 +111,7 @@
 
 <!ENTITY overlay_share_send_tab_btn_label "Cuir gu uidheam eile">
 <!ENTITY overlay_share_no_url "Cha deach ceangal a lorg san rud cho-roinnte seo">
-<!ENTITY overlay_share_retry "Feuch ris a-rithist">
+
 <!ENTITY overlay_share_select_device "Tagh uidheam">
 
 <!ENTITY pref_category_search3 "Lorg">
@@ -205,7 +204,7 @@
 same character/combination is used to increase the preview font size. It should be a concise
 representation of the language it is used in that will help show the text in the preview will change
 size. -->
-<!ENTITY pref_font_size_adjust_char "A">
+<!ENTITY pref_font_size_adjust_char "À">
 <!-- Localization note (pref_font_size_preview_text): This paragraph is used as an example to
     demonstrate the font size setting.  It is meant to be whimsical and fun. -->
 
@@ -213,6 +212,8 @@ size. -->
 
 <!ENTITY pref_media_autoplay_enabled "Ceadaich fèin-chluich">
 <!ENTITY pref_media_autoplay_enabled_summary "Cum smachd air dè na làraichean aig a bheil videothan is meadhanan eile a chluich gu fèin-obrachail">
+
+
 
 <!ENTITY pref_use_master_password "Cleachd facal-faire maighstir">
 <!ENTITY pref_sync "Co-shioncronachadh">
@@ -269,7 +270,7 @@ size. -->
      (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
 <!ENTITY datareporting_crashreporter_title_short "Aithrisiche nan tuislidhean">
 <!ENTITY datareporting_wifi_title2 "Seirbheisean ionaid &vendorShortName;">
-<!ENTITY datareporting_wifi_geolocation_summary2 "Bheir e tuairmeas air ionad WiFi is mobile an uidheim agad dha &vendorShortName; ach an urrainn dhuinn an t-seirbheis geò-lorgaidh againn a leasachadh">
+
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
      actual notification that an update is available. -->
@@ -558,6 +559,11 @@ o Android">
 
 <!ENTITY actionbar_menu "Clàr-taice">
 <!ENTITY actionbar_done "Dèanta">
+<!-- Voice search in the awesome bar -->
+
+
+
+
 <!-- Localization note (remote_tabs_last_synced): the variable is replaced by a
      "relative time span string" produced by Android.  This string describes the
      time the tabs were last synced relative to the current time; examples
@@ -566,6 +572,7 @@ o Android">
      their desktop or laptop.-->
 
 <!ENTITY remote_tabs_last_synced "Sioncronachadh mu dheireadh: &formatS;">
+<!-- Localization note: Used when the sync has not happend yet, showed in place of a date -->
 <!-- Find-In-Page strings -->
 <!-- LOCALIZATION NOTE (find_matchcase): This is meant to appear as an icon that changes color
      if match-case is activated. i.e. No more than two letters, one uppercase, one lowercase. -->

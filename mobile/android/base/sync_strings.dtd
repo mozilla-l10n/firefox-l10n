@@ -150,6 +150,8 @@
 
 <!ENTITY fxaccount_create_account_header2 "Cruthaich cunntas Firefox">
 <!ENTITY fxaccount_create_account_password_length_restriction "Feumaidh seo a bhith 8 caractaran a dh\u0027fhaid co-dhiù">
+
+
 <!ENTITY fxaccount_create_account_year_of_birth "Bliadhna-breith">
 <!-- Localization note: &formatS1; is fxaccount_policy_linktos, &formatS2; is fxaccount_policy_linkprivacy, both hyperlinked. -->
 <!ENTITY fxaccount_create_account_policy_text2 "Ma leanas tu air adhart, bidh thu ag aontachadh ri &formatS1; agus &formatS2; airson seirbheisean Firefox sa neul.">
@@ -191,7 +193,7 @@
 
 <!ENTITY fxaccount_finish_migrating_header "Clàraich a-steach a choileanadh an àrdachaidh">
 <!ENTITY fxaccount_finish_migrating_button_label "Deiseil leis an àrdachadh">
-<!ENTITY fxaccount_finish_migrating_description "Feumaidh àrdachadh mòran dàta uaireannan. B’ fheairrde dhut lìonra WiFi a chleachdadh.">
+
 
 <!ENTITY fxaccount_status_header2 "Cunntas Firefox">
 <!ENTITY fxaccount_status_signed_in_as "Chlàraich thu a-steach mar">
@@ -207,7 +209,6 @@
 <!ENTITY fxaccount_status_needs_upgrade "Feumaidh tu &brandShortName; àrdachadh mus urrainn dhut clàradh a-steach.">
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled "Chaidh &syncBrand.shortName.label; a shuidheachadh ach cha dèan e sioncronachadh gu fèin-obrachail. Toglaich “Auto-sync data” ann an Android Settings &gt; Data Usage.">
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled_v21 "Chaidh &syncBrand.shortName.label; a shuidheachadh ach cha dèan e sioncronachadh gu fèin-obrachail. Toglaich “Auto-sync data” ann an Android Settings &gt; Accounts.">
-<!ENTITY fxaccount_status_needs_account_enabled "Chaidh &syncBrand.shortName.label; a shuidheachadh ach cha dèan e sioncronachadh gu fèin-obrachail. Thoir gnogag gus tòiseachadh air an t-sioncronachadh.">
 <!ENTITY fxaccount_status_needs_finish_migrating "Thoir gnogag airson clàradh a-steach dhan chunntas Firefox ùr agad.">
 <!ENTITY fxaccount_status_bookmarks "Comharran-lìn">
 <!ENTITY fxaccount_status_history "Eachdraidh">
