@@ -10,9 +10,6 @@
 <!ENTITY certmgr.tab.ca                       "Səlahiyyətli">
 <!ENTITY certmgr.tab.orphan2                  "Diğerleri">
 
-<!ENTITY certmgr.ca.builtins                  "Daxili CA">
-<!ENTITY certmgr.ca.mycas                     "Sizin tərəfinizdən idarə olunan CA">
-
 <!ENTITY certmgr.mine                         "Sizi müəyyənləşdirən bu təşkilatlardan təsdiq sənədləriniz var:">
 <!ENTITY certmgr.others                       "Bu şəxsləri müəyyənləşdirən qeydiyyatlı təsdiq sənədləriniz var:">
 <!ENTITY certmgr.websites2                    "Bu serverləri müəyyənləşdirən qeydiyyatlı təsdiq sənədləriniz var:">
@@ -37,7 +34,6 @@
 <!ENTITY certmgr.certdetail.sha256fingerprint "SHA-256 barmaq izi">
 <!ENTITY certmgr.certdetail.sha1fingerprint   "SHA1 parmaq izi">
 
-<!ENTITY certmgr.editcert.title               "Təhlükəsizlik təsdiq sənədi parametrlərini redaktə edin">
 <!ENTITY certmgr.editcacert.title             "Təsdiq sənədinin etibarlılıq parametrlərini redaktə edin">
 <!ENTITY certmgr.editcert.edittrust           "Etibarlılıq parametrlərini redaktə edin:">
 <!ENTITY certmgr.editcert.trustssl            "Bu sertifikat, veb saytlarını təyin edə bilər.">
@@ -49,11 +45,6 @@
 <!ENTITY certmgr.editemailcert.donttrust      "Bu sertifikatın güvənliyinə inanma.">
 
 <!ENTITY certmgr.deletecert.title             "Təsdiq sənədini sil">
-<!ENTITY certmgr.deletecert.beforename        "Silmək istədiyiniz təsdiq sənədi:">
-<!ENTITY certmgr.deletecert.aftername         "Bu təsdiq sənədini silmək istədiyinizə əminsiniz?">
-<!ENTITY certmgr.deleteusercert.title         "Təsdiq sənədimi sil">
-<!ENTITY certmgr.deleteusercert.beforename    "Silinməsini tələb etdiyiniz təsdiq sənədi:">
-<!ENTITY certmgr.deleteusercert.aftername     "Bu təsdiq sənədini silsəniz, sildikdən sonra bununla şifrələnmiş məktubları oxuya bilməzsiniz.">
 
 <!ENTITY certmgr.certname                     "Təsdiq sənədinin adı">
 <!ENTITY certmgr.certserver                   "Server">
@@ -72,8 +63,6 @@
 <!ENTITY certmgr.edit3.accesskey              "D">
 <!ENTITY certmgr.editca.label                 "CA təhlükəsizlik redaktə et">
 <!ENTITY certmgr.editca.accesskey             "d">
-<!ENTITY certmgr.add.label                    "Ekle">
-<!ENTITY certmgr.add.accesskey                "E">
 <!ENTITY certmgr.export.label                 "İxrac et…">
 <!ENTITY certmgr.export.accesskey             "x">
 <!ENTITY certmgr.delete2.label                "Sil…">
@@ -90,8 +79,8 @@
 <!ENTITY certmgr.details.accesskey            "F">
 <!ENTITY certmgr.fields.label                 "Sahə kəmiyyəti">
 <!ENTITY certmgr.fields.accesskey             "V">
-<!ENTITY certmgr.hierarchy.label              "Təsdiq sənədinin iyerarxiyası">
-<!ENTITY certmgr.hierarchy.accesskey          "s">
+
+
 <!ENTITY certmgr.addException.label           "İstisnalıq ver…">
 <!ENTITY certmgr.addException.accesskey       "t">
 

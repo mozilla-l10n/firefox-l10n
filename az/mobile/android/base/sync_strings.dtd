@@ -145,6 +145,8 @@
 
 <!ENTITY fxaccount_create_account_header2 "Firefox Hesabı yarat">
 <!ENTITY fxaccount_create_account_password_length_restriction "Ən az 8 simvol olmalıdır">
+
+
 <!ENTITY fxaccount_create_account_year_of_birth "Doğum tarixi">
 <!-- Localization note: &formatS1; is fxaccount_policy_linktos, &formatS2; is fxaccount_policy_linkprivacy, both hyperlinked. -->
 <!ENTITY fxaccount_create_account_button "İrəli">
@@ -191,7 +193,6 @@
 <!ENTITY fxaccount_status_sync_server "Sync serveri">
 <!ENTITY fxaccount_status_sync "&syncBrand.shortName.label;">
 <!ENTITY fxaccount_status_sync_enabled "&syncBrand.shortName.label;: aktivdir">
-
 
 
 

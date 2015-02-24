@@ -11,10 +11,10 @@
 <!-- LOCALIZATION NOTE some localizations of Windows (ex:french, german) use "?"
                        for the help button in the menubar but Gnome does not.   -->
 
-<!ENTITY aboutProduct.label       "&brandShortName; haqqında">
-<!ENTITY aboutProduct.accesskey   "h">
-<!ENTITY productHelp.label        "&brandShortName; Kömək">
-<!ENTITY productHelp.accesskey    "K">
+
+
+
+
 
 
 <!ENTITY helpKeyboardShortcuts.label     "Qısa Düymələr">
@@ -23,8 +23,7 @@
 <!ENTITY helpSafeMode.label       "Sönülü əlavələrlə başlat…">
 <!ENTITY helpSafeMode.accesskey   "r">
 
-<!ENTITY healthReport.label       "&brandShortName; İşləklik Hesabatı">
-<!ENTITY healthReport.accesskey   "e">
+
 
 <!ENTITY helpTroubleshootingInfo.label      "Problemlərin aradan qaldırılması üzrə məlumatlar">
 <!ENTITY helpTroubleshootingInfo.accesskey  "P">
@@ -32,15 +31,13 @@
 <!ENTITY helpFeedbackPage.label      "Əks əlaqə göndər…">
 <!ENTITY helpFeedbackPage.accesskey  "g">
 
-<!ENTITY helpShowTour.label             "&brandShortName; Tur">
-<!ENTITY helpShowTour.accesskey         "T">
+
 
 <!ENTITY preferencesCmdMac.label        "Seçənəklər…">
 
 
 <!ENTITY servicesMenuMac.label          "Xidmətlər">
 
-<!ENTITY hideThisAppCmdMac.label        "&brandShortName; proqramını gizlət">
 
 
 <!ENTITY hideOtherAppsCmdMac.label      "Digərlərini gizlə">
