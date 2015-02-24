@@ -3,20 +3,21 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY itemGeneral.label       "Cyffredinol">
+
 <!ENTITY itemDisplay.label       "Darllen a Dangos">
 <!ENTITY itemUpdate.label        "Diweddaru">
 <!ENTITY itemNetworking.label    "Rhwydwaith a Lle ar Ddisg">
 <!ENTITY itemCertificates.label  "Tystysgrifau">
 <!-- General Settings -->
 
-
-<!ENTITY submitTelemetry.label         "Cyflwyno Data Perfformiad">
-<!ENTITY submitTelemetry.accesskey     "f">
-<!ENTITY telemetryInfoLink.label       "Rhagor o wybodaeth am Delemetreg">
 <!ENTITY enableGlodaSearch.label       "Galluogi Chwilio a Mynegeio Eang">
 <!ENTITY enableGlodaSearch.accesskey   "G">
 <!ENTITY allowHWAccel.label            "Defnyddio cyflymu caledwedd pan fydd ar gael">
 <!ENTITY allowHWAccel.accesskey        "y">
+
+
+
+
 
 <!ENTITY scrolling.label               "Sgrolio">
 <!ENTITY useAutoScroll.label           "Defnyddio awto sgrolio">
@@ -37,6 +38,16 @@
 <!ENTITY returnReceiptsInfo.label      "Pennu sut mae &brandShortName; yn trin derbynebau">
 <!ENTITY showReturnReceipts.label      "Derbynebau Dychwelyd…">
 <!ENTITY showReturnReceipts.accesskey  "D">
+<!-- Data Choices -->
+
+
+
+
+
+
+
+
+
 <!-- Display and Reading Settings -->
 
 <!ENTITY reading.caption               "Darllen">

@@ -33,6 +33,10 @@
 <!ENTITY pref.default_task_offset_start.label "Cymharol â'r Cychwyn">
 <!ENTITY pref.default_task_offset_next_hour.label "Cymharol â'r Awr Nesaf">
 
+<!ENTITY pref.calendar.todaypane.agenda.caption "Paen Heddiw">
+
+
+
 <!ENTITY pref.accessibility.label "Hygyrchedd" >
 <!ENTITY pref.systemcolors.label "Mireinio lliwiau ar gyfer hygyrchedd" >
 <!ENTITY pref.systemcolors.accesskey "M">

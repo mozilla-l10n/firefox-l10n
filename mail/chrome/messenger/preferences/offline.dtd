@@ -11,8 +11,8 @@
 <!ENTITY radioRememberPrevState.accesskey "o">
 <!ENTITY radioAskState.label "Gofyn i mi am y cyflwr ar-lein">
 <!ENTITY radioAskState.accesskey "G">
-<!ENTITY radioAlwaysOnline.label "Ar-lein">
-<!ENTITY radioAlwaysOnline.accesskey "r">
+<!ENTITY radioAlwaysOnlineState.label "Ar-lein">
+<!ENTITY radioAlwaysOnlineState.accesskey "r">
 <!ENTITY radioAlwaysOffline.label "All-lein">
 <!ENTITY radioAlwaysOffline.accesskey "l">
 

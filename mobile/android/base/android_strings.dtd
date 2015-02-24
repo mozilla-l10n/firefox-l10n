@@ -6,8 +6,7 @@
 <!ENTITY  no_space_to_start_error "Nid oes digon o le i &brandShortName; gychwyn.">
 <!ENTITY  error_loading_file "Digwyddodd gwall wrth geisio llwytho ffeiliau ar gyfer rhedeg &brandShortName;">
 
-<!ENTITY  onboard_start_message "Croeso i &brandShortName;!">
-<!ENTITY  onboard_start_subtext "Yn ymrwymedig i chi, eich preifatrwydd a\u0027r We Agored">
+
 <!ENTITY  onboard_start_button_account "Mewngofnodi i &brandShortName;">
 <!ENTITY  onboard_start_button_browser "Cychwyn Pori">
 <!-- Localization note: These are used as the titles of different pages on the home screen.
@@ -110,7 +109,7 @@
 
 <!ENTITY overlay_share_send_tab_btn_label "Anfon i ddyfais arall">
 <!ENTITY overlay_share_no_url "Dim dolen yn y rhaniad">
-<!ENTITY overlay_share_retry "Ceisio eto">
+
 <!ENTITY overlay_share_select_device "Dewis dyfais">
 
 <!ENTITY pref_category_search_summary "Cyfaddasu eich darparwyr chwilio">
@@ -208,6 +207,8 @@ size. -->
 <!ENTITY pref_media_autoplay_enabled "Caniatáu awtochwarae">
 <!ENTITY pref_media_autoplay_enabled_summary "Rheoli os yw gwefannau yn awtochwarae fideos neu gynnwys cyfrwng arall">
 
+
+
 <!ENTITY pref_use_master_password "Defnyddio prif gyfrinair">
 <!ENTITY pref_sync "Sync">
 <!ENTITY pref_sync_summary "Cydweddu eich tabiau, nodau tudalen, cyfrineiriau, hanes">
@@ -263,7 +264,7 @@ size. -->
      (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
 <!ENTITY datareporting_crashreporter_title_short "Adroddwr Chwalu">
 <!ENTITY datareporting_wifi_title2 "Gwasanaethau Lleoliad &vendorShortName;">
-<!ENTITY datareporting_wifi_geolocation_summary2 "Mae\u0027n rhannu eich lleoliad diwyfr a cellol eich dyfais gyda &vendorShortName; i wella ein gwasanaethau geoleoliad">
+
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
      actual notification that an update is available. -->
@@ -540,6 +541,11 @@ o Android">
 <!-- These are only used for accessibility for the done and overflow-menu buttons in the actionbar.
      They are never shown to users -->
 <!ENTITY actionbar_done "Gorffen">
+<!-- Voice search in the awesome bar -->
+
+
+
+
 <!-- Localization note (remote_tabs_last_synced): the variable is replaced by a
      "relative time span string" produced by Android.  This string describes the
      time the tabs were last synced relative to the current time; examples
@@ -548,6 +554,7 @@ o Android">
      their desktop or laptop.-->
 
 <!ENTITY remote_tabs_last_synced "Cydweddwyd diwethaf: &formatS;">
+<!-- Localization note: Used when the sync has not happend yet, showed in place of a date -->
 <!-- Find-In-Page strings -->
 <!-- LOCALIZATION NOTE (find_matchcase): This is meant to appear as an icon that changes color
      if match-case is activated. i.e. No more than two letters, one uppercase, one lowercase. -->

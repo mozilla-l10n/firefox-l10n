@@ -150,6 +150,8 @@
 
 <!ENTITY fxaccount_create_account_header2 "Creu Cyfrif Firefox">
 <!ENTITY fxaccount_create_account_password_length_restriction "Rhaid bod o leiaf 8 nod">
+
+
 <!ENTITY fxaccount_create_account_year_of_birth "Blwyddyn geni">
 <!-- Localization note: &formatS1; is fxaccount_policy_linktos, &formatS2; is fxaccount_policy_linkprivacy, both hyperlinked. -->
 <!ENTITY fxaccount_create_account_policy_text2 "Wrth barhau, Rwy\u0027n cytuno i &formatS1; a &formatS2; gwasanaethau ar-lein Firefox.">
@@ -191,7 +193,7 @@
 
 <!ENTITY fxaccount_finish_migrating_header "Mewngofnodwch i orffen diweddaru">
 <!ENTITY fxaccount_finish_migrating_button_label "Wedi gorffen diweddaru">
-<!ENTITY fxaccount_finish_migrating_description "Gall diweddaru drosglwyddo lot o ddata. Mae\u0027n well gwneud ar rwydwaith diwyfr.">
+
 
 <!ENTITY fxaccount_status_header2 "Cyfrif Firefox">
 <!ENTITY fxaccount_status_signed_in_as "Mewngofnodwyd fel">
@@ -207,7 +209,6 @@
 <!ENTITY fxaccount_status_needs_upgrade "Rhaid diweddaru &brandShortName; i fewngofnodi.">
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled "Mae &syncBrand.shortName.label; wedi ei osod ond nid yw\u0027n cydweddu\u0027n awtomatig. Gosodiadau Android “Awto-gydweddu data” &gt; Defnydd Data.">
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled_v21 "Mae &syncBrand.shortName.label; wedi ei osod ond nid yw\u0027n cydweddu\u0027n awtomatig. Toglwch “Awto-gydweddu data” yn newislen Android Settings &gt; Accounts.">
-<!ENTITY fxaccount_status_needs_account_enabled "Mae &syncBrand.shortName.label; wedi ei osod ond nid yw\u0027n cydweddu\u0027n awtomatig. Tapiwch i gychwyn cydweddu.">
 <!ENTITY fxaccount_status_needs_finish_migrating "Tapiwch i fewngofnodi i\u0027ch Cyfrif Firefox newydd.">
 <!ENTITY fxaccount_status_bookmarks "Nodau Tudalen">
 <!ENTITY fxaccount_status_history "Hanes">
