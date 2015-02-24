@@ -14,8 +14,8 @@
 <!ENTITY pref.calendar.alarms.sound.useDefault.accessKey "d">
 <!ENTITY pref.calendar.alarms.sound.browse.label "Yxaminar...">
 <!ENTITY pref.calendar.alarms.sound.browse.accessKey "x">
-<!ENTITY pref.calendar.alarms.sound.preview.label "Escuitar">
-<!ENTITY pref.calendar.alarms.sound.preview.accessKey "E">
+
+
 <!ENTITY pref.showalarmbox "Amostrar a finestra d'aviso">
 <!ENTITY pref.calendar.alarms.showAlarmBox.accessKey "M">
 <!ENTITY pref.missedalarms "Amostrar avisos vencius">

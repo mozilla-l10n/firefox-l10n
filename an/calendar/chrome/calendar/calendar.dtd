@@ -12,9 +12,9 @@
 <!ENTITY calendar.unifinder.todoitems.label       "Quefers" >
 <!ENTITY calendar.unifinder.showcompletedtodos.label "Amostrar quefers completaus">
 
-<!ENTITY calendar.today.button.label       "Hue">
+<!ENTITY calendar.today.button.label          "Hue">
 <!ENTITY calendar.tomorrow.button.label       "Maitín">
-<!ENTITY calendar.soon.button.label           "Luego">
+
 
 <!ENTITY calendar.events.filter.all.label "Totz os eventos">
 <!ENTITY calendar.events.filter.today.label "Eventos de hue">
@@ -233,8 +233,15 @@
 <!ENTITY calendar.context.newserver.accesskey          "N">
 <!ENTITY calendar.context.findcalendar.label           "Encontrar calandario…" >
 <!ENTITY calendar.context.findcalendar.accesskey       "c" >
-<!ENTITY calendar.context.deleteserver.label           "Borrar calendario">
-<!ENTITY calendar.context.deleteserver.accesskey       "d">
+
+
+<!-- LOCALIZATION NOTE (calendar.context.removeserver.label): Removing the
+      calendar is the general action of removing it, while deleting means to
+      clear the data and unsubscribing means just taking it out of the calendar
+      list. -->
+
+
+
 <!ENTITY calendar.context.synccalendars.label          "Synchronize Calendars">
 <!ENTITY calendar.context.synccalendars.accesskey      "S">
 <!ENTITY calendar.context.publish.label                "Publicar calandario…">
