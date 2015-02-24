@@ -6,8 +6,8 @@
 <!ENTITY  no_space_to_start_error "Der er ikke nok tilgængelig plads til at &brandShortName; kan starte.">
 <!ENTITY  error_loading_file "En fejl opstod under indlæsning af filer nødvendige for at kunne køre &brandShortName;">
 
-<!ENTITY  onboard_start_message "Velkommen til &brandShortName;!">
-<!ENTITY  onboard_start_subtext "Forpligtet til at beskytte dit privatliv og et åbent internet.">
+<!ENTITY  onboard_start_message2 "Velkommen til &brandShortName;">
+<!ENTITY  onboard_start_subtext2 "Flere funktioner til at beskytte dit privatliv og flere muligheder for tilpasning end nogensinde før.">
 <!ENTITY  onboard_start_button_account "Log ind på &brandShortName;">
 <!ENTITY  onboard_start_button_browser "Start surfing">
 
@@ -212,8 +212,10 @@ size. -->
     demonstrate the font size setting.  It is meant to be whimsical and fun. -->
 <!ENTITY pref_font_size_preview_text "Den hurtige orange ræv springer over dine forventninger med større hastighed, mere fleksibilitet og mere sikkerhed. Som en non-profit-organisation, kan vi udvikle på dine vegne uden at blive presset til at gå på kompromis. Det betyder en bedre oplevelse for dig og en lysere fremtid for internettet.">
 
-<!ENTITY pref_media_autoplay_enabled "Tillad automatisk sfspilning">
+<!ENTITY pref_media_autoplay_enabled "Tillad automatisk afspilning">
 <!ENTITY pref_media_autoplay_enabled_summary "Bestemmer om websteder kan starte afspilning af video og andet medieindhold automatisk">
+<!ENTITY pref_zoom_force_enabled "Aktiver altid zoom">
+<!ENTITY pref_zoom_force_enabled_summary "Gennemtving zoom, så du kan zoome på alle websider">
 
 <!ENTITY pref_use_master_password "Brug hovedadgangskode">
 <!ENTITY pref_sync "Sync">
@@ -270,7 +272,7 @@ size. -->
      (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
 <!ENTITY datareporting_crashreporter_title_short "Fejlrapportering">
 <!ENTITY datareporting_wifi_title2 "&vendorShortName; Positionstjeneste">
-<!ENTITY datareporting_wifi_geolocation_summary2 "Deler tilnærmelsesvis position ud fra wi-fi og mobilmaster med &vendorShortName; for at forbedre vores positionstjeneste">
+<!ENTITY datareporting_wifi_geolocation_summary3 "Hjælp &vendorShortName; med at kortlægge hele verden! Del din enheds tilnærmelsesvise position ud fra wi-fi og mobilmaster, så vi kan forbedre vores positionstjeneste">
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
      actual notification that an update is available. -->
@@ -561,6 +563,13 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY actionbar_menu "Menu">
 <!ENTITY actionbar_done "Færdig">
 
+<!-- Voice search in the awesome bar -->
+<!ENTITY voicesearch_prompt "Tal nu">
+<!ENTITY voicesearch_failed_title "&brandShortName; Stemmesøgning">
+<!ENTITY voicesearch_failed_message "Der er midlertidigt et problem med stemmesøgning. Prøv igen senere.">
+<!ENTITY voicesearch_failed_message_recoverable "Vi kunne desværre ikke genkende dine ord. Prøv igen.">
+<!ENTITY voicesearch_failed_retry "Prøv igen">
+
 <!-- Localization note (remote_tabs_last_synced): the variable is replaced by a
      "relative time span string" produced by Android.  This string describes the
      time the tabs were last synced relative to the current time; examples
@@ -568,6 +577,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      "Last synced" is one of the user's other Sync clients, typically Firefox on
      their desktop or laptop.-->
 <!ENTITY remote_tabs_last_synced "Sidst synkroniseret: &formatS;">
+<!-- Localization note: Used when the sync has not happend yet, showed in place of a date -->
+<!ENTITY remote_tabs_never_synced "Sidst synkroniseret: aldrig">
 
 <!-- Find-In-Page strings -->
 <!-- LOCALIZATION NOTE (find_matchcase): This is meant to appear as an icon that changes color
