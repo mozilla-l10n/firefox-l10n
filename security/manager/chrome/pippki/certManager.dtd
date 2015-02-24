@@ -79,8 +79,8 @@
 <!ENTITY certmgr.details.accesskey            "F">
 <!ENTITY certmgr.fields.label                 "ಕ್ಷೇತ್ರದ ಮೌಲ್ಯ">
 <!ENTITY certmgr.fields.accesskey             "V">
-
-
+<!ENTITY certmgr.hierarchy.label              "ಪ್ರಮಾಣಪತ್ರದ ಕ್ರಮ">
+<!ENTITY certmgr.hierarchy.accesskey2         "H">
 <!ENTITY certmgr.addException.label           "ವಿನಾಯಿತಿಯನ್ನು ಸೇರಿಸು…">
 <!ENTITY certmgr.addException.accesskey       "x">
 
