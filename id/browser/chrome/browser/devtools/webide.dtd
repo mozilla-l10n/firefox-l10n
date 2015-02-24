@@ -42,7 +42,7 @@
 <!ENTITY runtimeMenu_showDevicePrefs_label "Preferensi Perangkat">
 <!ENTITY runtimeMenu_showDevicePrefs_accesskey "P">
 <!ENTITY runtimeMenu_showSettings_label "Setelan Perangkat">
-
+<!ENTITY runtimeMenu_showSettings_accesskey "s">
 
 <!ENTITY viewMenu_label "Tampilkan">
 <!ENTITY viewMenu_accesskey "T">
@@ -182,10 +182,13 @@
 <!ENTITY wifi_auth_header "Identifikasi Klien">
 <!-- LOCALIZATION NOTE (wifi_auth_scan_request): Instructions requesting the
      user to transfer authentication info by scanning a QR code. -->
+<!ENTITY wifi_auth_scan_request "Titik akhir yang sedang tersambung dengan Anda membutuhkan informasi lebih lanjut untuk mengautentikasi sambungan ini.  Pindai kode QR berikut lewat pertanyaan pada perangkat lainnya.">
 <!-- LOCALIZATION NOTE (wifi_auth_no_scanner): Link text to assist users with
      devices that can't scan a QR code. -->
+<!ENTITY wifi_auth_no_scanner "Tidak ada pertanyaan pemindaian QR?">
 <!-- LOCALIZATION NOTE (wifi_auth_yes_scanner): Link text to assist users with
      devices that can scan a QR code. -->
+<!ENTITY wifi_auth_yes_scanner "Punya pertanyaan pemindaian QR?">
 <!-- LOCALIZATION NOTE (wifi_auth_token_request): Instructions requesting the
      user to transfer authentication info by transferring a token. -->
 <!ENTITY wifi_auth_token_request "Jika perangkat lainnya menanyakan token alih-alih memindai kode QR, salin nilai berikut ke perangkat lainnya:">
