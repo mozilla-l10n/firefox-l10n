@@ -3,6 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY itemGeneral.label              "Všeobecné">
+<!ENTITY dataChoicesTab.label           "Odosielanie údajov">
 <!ENTITY itemDisplay.label              "Čítanie a zobrazenie">
 <!ENTITY itemUpdate.label               "Aktualizácie">
 <!ENTITY itemNetworking.label           "Sieť a miesto na disku">
@@ -10,13 +11,14 @@
 
 <!-- General Settings -->
 
-<!ENTITY submitTelemetry.label         "Odosielať údaje o výkonnosti">
-<!ENTITY submitTelemetry.accesskey     "d">
-<!ENTITY telemetryInfoLink.label       "Ďalšie informácie o údajoch výkonnosti">
 <!ENTITY enableGlodaSearch.label       "Povoliť globálne vyhľadávanie a indexovanie správ">
 <!ENTITY enableGlodaSearch.accesskey   "o">
 <!ENTITY allowHWAccel.label            "Použiť hardvérové urýchľovanie (ak je dostupné)">
 <!ENTITY allowHWAccel.accesskey        "h">
+<!ENTITY storeType.label               "Spôsob ukladania správ pre nové účty:">
+<!ENTITY storeType.accesskey           "b">
+<!ENTITY mboxStore.label               "Jeden veľký súbor (mbox)">
+<!ENTITY maildirStore.label            "Samostný súbor pre každú správu (maildir)">
 
 <!ENTITY scrolling.label               "Posúvanie obsahu">
 <!ENTITY useAutoScroll.label           "Použiť automatický posun">
@@ -37,6 +39,19 @@
 <!ENTITY returnReceiptsInfo.label       "Zistiť ako &brandShortName; spracováva potvrdenia o prečítaní">
 <!ENTITY showReturnReceipts.label       "Potvrdenia o prečítaní…">
 <!ENTITY showReturnReceipts.accesskey   "P">
+
+<!-- Data Choices -->
+<!ENTITY telemetrySection.label          "Telemetria">
+<!ENTITY telemetryDesc.label             "Zdieľa údaje o výkonnosti, využívaní funkcií, hardvérovej konfigurácii a prispôsobení e-mailového klienta so spoločnosťou &vendorShortName; s cieľom urobiť &brandShortName; lepším.">
+<!ENTITY enableTelemetry.label           "Povoliť telemetriu">
+<!ENTITY enableTelemetry.accesskey       "t">
+<!ENTITY telemetryLearnMore.label        "Ďalšie informácie">
+
+<!ENTITY crashReporterSection.label      "Správy o zlyhaní">
+<!ENTITY crashReporterDesc.label         "&brandShortName; odosiela správy o zlyhaní s cieľom pomôcť spoločnosti &vendorShortName; urobiť e-mailový klient stabilnejším a bezpečnejším.">
+<!ENTITY enableCrashReporter.label       "Povoliť správy o zlyhaní">
+<!ENTITY enableCrashReporter.accesskey   "z">
+<!ENTITY crashReporterLearnMore.label    "Ďalšie informácie">
 
 <!-- Display and Reading Settings -->
 <!ENTITY reading.caption                "Čítanie">

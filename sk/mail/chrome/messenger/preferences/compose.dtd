@@ -6,6 +6,8 @@
 <!ENTITY itemAutoComplete.label              "Adresovanie">
 <!ENTITY itemSpellCheck.label                "Pravopis">
 
+<!ENTITY dialogCompose.title                 "Písanie správ">
+
 <!ENTITY forwardMsg.label                    "Správy odosielať ďalej:">
 <!ENTITY forwardMsg.accesskey                "S">
 <!ENTITY inline.label                        "V texte">

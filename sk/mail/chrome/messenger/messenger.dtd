@@ -145,6 +145,8 @@
 <!ENTITY messagePaneVertical.accesskey "Z">
 <!ENTITY showFolderPaneCmd.label "Panel priečinkov">
 <!ENTITY showFolderPaneCmd.accesskey "a">
+<!ENTITY showFolderPaneColsCmd.label "Stĺpce panela priečinkov">
+<!ENTITY showFolderPaneColsCmd.accesskey "S">
 <!ENTITY showMessageCmd.label "Panel správy">
 <!ENTITY showMessageCmd.accesskey "P">
 
@@ -593,7 +595,9 @@
 <!ENTITY manageTags.accesskey "S">
 
 <!-- Folder Pane -->
-<!ENTITY folderColumn.label "Názov:">
+<!ENTITY folderNameColumn.label "Názov">
+<!ENTITY folderUnreadColumn.label "Neprečítané">
+<!ENTITY folderTotalColumn.label "Celkom">
 <!ENTITY folderSizeColumn.label "Veľkosť">
 
 <!-- Folder Pane Context Menu -->

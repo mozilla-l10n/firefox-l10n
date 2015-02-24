@@ -35,3 +35,5 @@
 <!ENTITY customsound.accesskey            "n">
 <!ENTITY browse.label                     "Prehľadávať…">
 <!ENTITY browse.accesskey                 "P">
+
+<!ENTITY defaultSearchEngine.label        "Predvolený vyhľadávací modul">
