@@ -157,6 +157,8 @@
 <!ENTITY device_typeobject "Gwrthych">
 <!ENTITY device_typenone "Dewis math">
 <!-- Device Preferences -->
+
+<!ENTITY devicepreference_title "Dewisiadau'r Ddyfais">
 <!ENTITY devicepreference_search "Dewisiadau chwilio">
 <!ENTITY devicepreference_newname "Enw'r dewis newydd">
 <!ENTITY devicepreference_newtext "Gwerth y dewis">

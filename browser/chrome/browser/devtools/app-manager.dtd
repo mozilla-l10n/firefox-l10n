@@ -92,6 +92,7 @@
 <!ENTITY projects.hosted "Gwesteiwyd">
 <!ENTITY projects.packaged "Wedi eu Pecynnu">
 
+<!ENTITY help.title "Rheolwr Apiau">
 <!ENTITY help.close "Cau">
 <!ENTITY help.intro "Bydd y teclyn hwn yn eich helpu i adeiladu a gosod apiau ar y we ar ddyfeisiau cydnaws (h.y. Firefox OS). Bydd y tab <strong>Apiau</strong> yn eich cynorthwyo yn y broses o ddilysu a gosod eich ap. Bydd y tab <strong>Dyfais</strong> yn rhoi gwybodaeth am y ddyfais cysylltiedig i chi. Defnyddiwch y bar offer gwaelod i gysylltu â'r ddyfais neu ddechrau'r efelychydd.">
 <!ENTITY help.usefullLinks "Dolenni defnyddiol:">
