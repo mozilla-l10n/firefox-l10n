@@ -3,8 +3,9 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY addressbookWindow.title                        "Libreta d'adrezas">
-<!-- File Menu -->
 
+
+<!-- File Menu -->
 <!ENTITY fileMenu.label                                 "Fichero">
 <!ENTITY fileMenu.accesskey                             "F">
 <!ENTITY newMenu.label                                  "Nuevo">

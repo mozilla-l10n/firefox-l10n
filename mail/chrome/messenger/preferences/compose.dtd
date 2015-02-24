@@ -6,6 +6,7 @@
 <!ENTITY itemAutoComplete.label              "Destinatario">
 <!ENTITY itemSpellCheck.label                "Ortografía">
 
+
 <!ENTITY forwardMsg.label                     "Reninviar mensaches:">
 <!ENTITY forwardMsg.accesskey                 "m">
 <!ENTITY inline.label                         "Incorporau">

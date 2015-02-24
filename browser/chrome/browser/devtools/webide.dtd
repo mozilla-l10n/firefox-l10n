@@ -42,6 +42,8 @@
 <!ENTITY runtimeMenu_showDevicePrefs_label "Preferencias d'o dispositivo">
 <!ENTITY runtimeMenu_showDevicePrefs_accesskey "D">
 
+
+
 <!ENTITY viewMenu_label "Veyer">
 <!ENTITY viewMenu_accesskey "V">
 <!ENTITY viewMenu_toggleEditor_label "Alternar editor">
@@ -92,6 +94,7 @@
 <!ENTITY details_location "Ubicación">
 <!ENTITY details_manifestURL "ID d'Aplicación">
 <!ENTITY details_removeProject_button "Borrar un prochecto">
+
 <!-- New App -->
 
 <!ENTITY newAppWindowTitle "Nueva aplicación">
@@ -143,21 +146,40 @@
 <!ENTITY runtimedetails_adbIsRoot "ADB ye radiz: ">
 <!ENTITY runtimedetails_summonADBRoot "dispositivo radiz">
 <!ENTITY runtimedetails_ADBRootWarning "(requiere un cargador d'arrancada no trancau)">
-<!ENTITY runtimedetails_restrictedPrivileges "privilechios restrinchius DevTools: ">
+
 <!ENTITY runtimedetails_requestPrivileges "demandar privilechios mas altos">
 <!ENTITY runtimedetails_privilegesWarning "(Se reiniciará o dispositivo. Cal un acceso root.)">
-<!-- Device Preferences -->
+<!-- Device Preferences and Settings -->
 
-<!ENTITY devicepreferences_title "Preferencias d'o dispositivo">
-<!ENTITY devicepreferences_search "Preferencias de busca">
-<!ENTITY devicepreferences_newname "Nuevo nombre d'a preferencia">
-<!ENTITY devicepreferences_newtext "Nombre d'a preferencia">
-<!ENTITY devicepreferences_addnew "Anyader una nueva preferencia">
-<!ENTITY devicepreferences_typeboolean "Booleano">
-<!ENTITY devicepreferences_typenumber "Entero">
-<!ENTITY devicepreferences_typestring "Cadena">
-<!ENTITY devicepreferences_typenone "Trigar un fichero">
+<!ENTITY device_typeboolean "Booleano">
+<!ENTITY device_typenumber "Entero">
+<!ENTITY device_typestring "Cadena">
+<!ENTITY device_typeobject "Obchecto">
+<!ENTITY device_typenone "Trigar un fichero">
+<!-- Device Preferences -->
+<!ENTITY devicepreference_search "Preferencias de busca">
+<!ENTITY devicepreference_newname "Nuevo nombre d'a preferencia">
+<!ENTITY devicepreference_newtext "Nombre d'a preferencia">
+<!ENTITY devicepreference_addnew "Anyader una nueva preferencia">
+<!-- Device Settings -->
+
+
+
+
 <!-- Monitor -->
 
 <!ENTITY monitor_title "Monitor">
 <!ENTITY monitor_help "Aduya">
+<!-- WiFi Authentication -->
+<!-- LOCALIZATION NOTE (wifi_auth_header): The header displayed on the dialog
+     that instructs the user to transfer an authentication token to the
+     server. -->
+<!-- LOCALIZATION NOTE (wifi_auth_scan_request): Instructions requesting the
+     user to transfer authentication info by scanning a QR code. -->
+<!-- LOCALIZATION NOTE (wifi_auth_no_scanner): Link text to assist users with
+     devices that can't scan a QR code. -->
+<!-- LOCALIZATION NOTE (wifi_auth_yes_scanner): Link text to assist users with
+     devices that can scan a QR code. -->
+<!-- LOCALIZATION NOTE (wifi_auth_token_request): Instructions requesting the
+     user to transfer authentication info by transferring a token. -->
+<!-- Logs panel -->

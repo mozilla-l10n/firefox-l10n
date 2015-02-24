@@ -11,7 +11,7 @@
 <!ENTITY update.checkForUpdatesButton.label       "Mirar actualizacions">
 <!ENTITY update.checkForUpdatesButton.accesskey   "M">
 <!ENTITY update.updateButton.label2                "Reinicie &brandShortName; ta esviellar">
-<!ENTITY update.updateButton.accesskey            "R">
+
 <!ENTITY update.applyButtonBillboard.label        "Aplicar actualización…">
 <!ENTITY update.applyButtonBillboard.accesskey    "A">
 <!-- LOCALIZATION NOTE (warningDesc.version): This is a warning about the experimental nature of Nightly and Aurora builds. It is only shown in those versions. -->
@@ -32,11 +32,9 @@
 
 <!ENTITY community.start2           "&brandShortName; ye disenyau por ">
 <!-- LOCALIZATION NOTE (community.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
-<!ENTITY community.mozillaLink      "&vendorShortName;">
 <!ENTITY community.middle2          ", una ">
 <!-- LOCALIZATION NOTE (community.creditsLink): This is a link title that links to about:credits. -->
-<!ENTITY community.creditsLink      "comunidat global">
-<!ENTITY community.end3             " que treballa a ixena ta preservar o ret ubierto, publico y accesible ta totz.">
+
 
 <!ENTITY helpus.start               "Quiere aduyar? ">
 <!-- LOCALIZATION NOTE (helpus.donateLink): This is a link title that links to https://sendto.mozilla.org/page/contribute/Give-Now?source=mozillaorg_default_footer&ref=firefox_about&utm_campaign=firefox_about&utm_source=firefox&utm_medium=referral&utm_content=20140929_FireFoxAbout. -->

@@ -3,18 +3,19 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY itemGeneral.label       "Cheneral">
+
 <!ENTITY itemDisplay.label       "Reading &amp; Display">
 <!ENTITY itemUpdate.label        "Actualización">
 <!ENTITY itemNetworking.label    "Network &amp; Disk Space">
 <!ENTITY itemCertificates.label  "Certificaus">
 <!-- General Settings -->
 
-
-<!ENTITY submitTelemetry.label         "Enviar datos de rendimiento">
-<!ENTITY submitTelemetry.accesskey     "v">
-<!ENTITY telemetryInfoLink.label       "Mas información sobre Telemetry">
 <!ENTITY enableGlodaSearch.label       "Activar indexador y busca global">
 <!ENTITY enableGlodaSearch.accesskey   "A">
+
+
+
+
 
 
 
@@ -37,6 +38,16 @@
 <!ENTITY returnReceiptsInfo.label      "Determinar cómo chestiona &brandShortName; los acuses de recibimiento">
 <!ENTITY showReturnReceipts.label      "Acuses de recibimiento…">
 <!ENTITY showReturnReceipts.accesskey  "r">
+<!-- Data Choices -->
+
+
+
+
+
+
+
+
+
 <!-- Display and Reading Settings -->
 
 <!ENTITY reading.caption               "Lectura">

@@ -150,6 +150,8 @@
 
 <!ENTITY fxaccount_create_account_header2 "Creyar una cuenta de Firefox">
 <!ENTITY fxaccount_create_account_password_length_restriction "Ha de tener a lo menos 8 caracters">
+<!ENTITY fxaccount_create_account_day_of_birth "Día">
+<!ENTITY fxaccount_create_account_month_of_birth "Mes">
 <!ENTITY fxaccount_create_account_year_of_birth "Anyo de naixencia">
 <!-- Localization note: &formatS1; is fxaccount_policy_linktos, &formatS2; is fxaccount_policy_linkprivacy, both hyperlinked. -->
 <!ENTITY fxaccount_create_account_policy_text2 "En continar, accepto os &formatS1; y o &formatS2; s\u0027os servicios en a boira de Firefox.">
@@ -191,7 +193,7 @@
 
 <!ENTITY fxaccount_finish_migrating_header "Dentra ta rematar l\u0027actualización">
 <!ENTITY fxaccount_finish_migrating_button_label "Rematar l\u0027actualización">
-<!ENTITY fxaccount_finish_migrating_description "L\u0027actualización puet transferir a-saber-los datos. Ye millor si ye en un ret WiFi.">
+<!ENTITY fxaccount_finish_migrating_description "L\u0027actualización puet transferir a-saber-los datos. Ye millor si lo fa en un ret WiFi.">
 
 <!ENTITY fxaccount_status_header2 "Cuenta de Firefox">
 <!ENTITY fxaccount_status_signed_in_as "Connectau como">
@@ -207,7 +209,6 @@
 <!ENTITY fxaccount_status_needs_upgrade "Ha d\u0027esviellar o &brandShortName; ta encetar a sesión.">
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled "El &syncBrand.shortName.label; ye configurau, pero a sincronización automatica ye desactivada. Vaiga ta Configuraciób &gt; Uso de datos y sinyale «Sincronización automatica de datos».">
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled_v21 "O &syncBrand.shortName.label; ye configurau, pero ye sincronizando automaticament. Cambie «Sincronización automatica de datos» en o menú d\u0027Achustes d\u0027Android &gt; Cuentas.">
-<!ENTITY fxaccount_status_needs_account_enabled "O &syncBrand.shortName.label; ye configurau pero a sincronización automatica ye desactivdada. Toque ta iniciar a sincronización.">
 <!ENTITY fxaccount_status_needs_finish_migrating "Toca ta dentrar con a tuya nueva cuenta de Firefox.">
 <!ENTITY fxaccount_status_bookmarks "Marcapachinas">
 <!ENTITY fxaccount_status_history "Historial">
