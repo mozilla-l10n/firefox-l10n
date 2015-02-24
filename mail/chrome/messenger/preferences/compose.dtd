@@ -6,6 +6,7 @@
 <!ENTITY itemAutoComplete.label              "Alamat">
 <!ENTITY itemSpellCheck.label                "Pemeriksa Ejaan">
 
+
 <!ENTITY forwardMsg.label                     "Teruskan pesan:">
 <!ENTITY forwardMsg.accesskey                 "T">
 <!ENTITY inline.label                         "Tidak Terpisah">

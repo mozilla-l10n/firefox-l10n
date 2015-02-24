@@ -29,6 +29,10 @@
 
 
 
+<!ENTITY pref.calendar.todaypane.agenda.caption "Panel Hari Ini">
+
+
+
 <!ENTITY pref.accessibility.label "Aksesibilitas" >
 <!ENTITY pref.systemcolors.label "Optimalkan warna untuk aksesibilitas" >
 <!ENTITY pref.systemcolors.accesskey "w">

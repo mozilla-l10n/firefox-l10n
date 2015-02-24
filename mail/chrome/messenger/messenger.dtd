@@ -145,6 +145,8 @@
 <!ENTITY messagePaneVertical.accesskey "T">
 <!ENTITY showFolderPaneCmd.label "Panel Folder">
 <!ENTITY showFolderPaneCmd.accesskey "F">
+
+
 <!ENTITY showMessageCmd.label "Panel Pesan">
 <!ENTITY showMessageCmd.accesskey "P">
 
@@ -582,7 +584,9 @@
 
 <!-- Folder Pane -->
 
-<!ENTITY folderColumn.label "Nama">
+<!ENTITY folderNameColumn.label "Nama">
+
+
 <!ENTITY folderSizeColumn.label "Ukuran">
 <!-- Folder Pane Context Menu -->
 
@@ -651,8 +655,8 @@
 <!ENTITY statusColumn.label "Status">
 <!ENTITY sizeColumn.label "Ukuran">
 <!ENTITY junkStatusColumn.label "Status Junk">
-<!ENTITY unreadColumn.label "Belum Dibaca">
-<!ENTITY totalColumn.label "Total">
+
+
 <!ENTITY readColumn.label "Sudah Dibaca">
 <!ENTITY receivedColumn.label "Diterima">
 <!ENTITY starredColumn.label "Bintang">

@@ -150,6 +150,8 @@
 
 <!ENTITY fxaccount_create_account_header2 "Buat Akun Firefox">
 <!ENTITY fxaccount_create_account_password_length_restriction "Paling sedikit 8 huruf">
+
+
 <!ENTITY fxaccount_create_account_year_of_birth "Tahun lahir">
 <!-- Localization note: &formatS1; is fxaccount_policy_linktos, &formatS2; is fxaccount_policy_linkprivacy, both hyperlinked. -->
 <!ENTITY fxaccount_create_account_policy_text2 "Dengan melanjutkan, saya menyetujui &formatS1; dan &formatS2; layanan awan Firefox.">
@@ -191,7 +193,7 @@
 
 <!ENTITY fxaccount_finish_migrating_header "Masuk untuk menyelesaikan peningkatan">
 <!ENTITY fxaccount_finish_migrating_button_label "Peningkatan selesai">
-<!ENTITY fxaccount_finish_migrating_description "Proses peningkatan mungkin mentransfer banyak data. Lebih baik lakukan lewat jaringan Wi-Fi.">
+
 
 <!ENTITY fxaccount_status_header2 "Akun Firefox">
 <!ENTITY fxaccount_status_signed_in_as "Masuk sebagai">
@@ -207,7 +209,6 @@
 <!ENTITY fxaccount_status_needs_upgrade "Anda harus memperbarui &brandShortName; agar dapat masuk.">
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled "&syncBrand.shortName.label; telah siap tetapi belum menyinkronkan secara otomatis. Aktifkan “Sinkronisasi data otomatis” pada Setelan Android &gt; Penggunaan Data.">
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled_v21 "&syncBrand.shortName.label; telah siap tetapi belum menyinkronkan secara otomatis. Aktifkan “Sinkronisasi data otomatis” pada Setelan Android &gt; Akun.">
-<!ENTITY fxaccount_status_needs_account_enabled "&syncBrand.shortName.label; telah siap tetapi belum menyinkronkan secara otomatis. Ketuk untuk mulai menyinkronkan.">
 <!ENTITY fxaccount_status_needs_finish_migrating "Ketuk untuk masuk ke Firefox Account baru Anda.">
 <!ENTITY fxaccount_status_bookmarks "Markah">
 <!ENTITY fxaccount_status_history "Riwayat">
