@@ -44,5 +44,6 @@
 <!ENTITY translation.options.attribution.afterLogo "">
 
 
-
+<!ENTITY  playDRMContent.label         "Play DRM ವಿಷಯ">
+<!ENTITY  playDRMContent.accesskey     "P">
 <!ENTITY  playDRMContent.learnMore.label "ಇನ್ನಷ್ಟು ತಿಳಿಯಿರಿ">
