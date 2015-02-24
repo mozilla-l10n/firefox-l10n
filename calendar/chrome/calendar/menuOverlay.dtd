@@ -12,14 +12,23 @@
 <!ENTITY calendar.import.label                  "Importera…">
 <!ENTITY calendar.import.accesskey              "I">
 
-<!ENTITY calendar.export.label       		"Exportera…">
+<!ENTITY calendar.export.label       			"Exportera…">
 <!ENTITY calendar.export.accesskey              "E">
 
 <!ENTITY calendar.publish.label                 "Publicera…">
 <!ENTITY calendar.publish.accesskey             "P">
 
-<!ENTITY calendar.deletecalendar.label          "Radera vald kalender…">
-<!ENTITY calendar.deletecalendar.accesskey      "R">
+<!ENTITY calendar.deletecalendar.label          "Ta bort vald kalender…">
+<!ENTITY calendar.deletecalendar.accesskey      "T">
+
+<!ENTITY calendar.unsubscribecalendar.label     "Avregistrera vald kalender…">
+<!ENTITY calendar.unsubscribecalendar.accesskey "v">
+
+<!-- LOCALIZATION NOTE (calendar.removecalendar.label): Removing the calendar
+      is the general action of removing it, while deleting means to clear the
+      data and unsubscribing means just taking it out of the calendar list. -->
+<!ENTITY calendar.removecalendar.label          "Ta bort vald kalender…">
+<!ENTITY calendar.removecalendar.accesskey      "b">
 
 <!ENTITY calendar.menu.customize.label          "Anpassa...">
 <!ENTITY calendar.menu.customize.accesskey      "A">
