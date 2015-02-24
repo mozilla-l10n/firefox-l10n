@@ -150,6 +150,8 @@
 
 <!ENTITY fxaccount_create_account_header2 "Crear una cuenta de Firefox">
 <!ENTITY fxaccount_create_account_password_length_restriction "Deben ser al menos 8 caracteres">
+
+
 <!ENTITY fxaccount_create_account_year_of_birth "Año de nacimiento">
 <!-- Localization note: &formatS1; is fxaccount_policy_linktos, &formatS2; is fxaccount_policy_linkprivacy, both hyperlinked. -->
 <!ENTITY fxaccount_create_account_policy_text2 "Al proceder, estoy de acuerdo con los &formatS1; y el &formatS2; de los servicios en línea de Firefox.">
@@ -191,7 +193,7 @@
 
 <!ENTITY fxaccount_finish_migrating_header "Ingresa para finalizar la actualización">
 <!ENTITY fxaccount_finish_migrating_button_label "Finalizar la actualización">
-<!ENTITY fxaccount_finish_migrating_description "La actualización puede consumir muchos datos. Es mejor estar conectado a un red WiFi.">
+
 
 <!ENTITY fxaccount_status_header2 "Cuenta de Firefox">
 <!ENTITY fxaccount_status_signed_in_as "Conectado como">
@@ -207,7 +209,6 @@
 <!ENTITY fxaccount_status_needs_upgrade "Necesitas actualizar &brandShortName; para iniciar sesión.">
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled "&syncBrand.shortName.label; está configurado, pero no está sincronizado automáticamente. Marca \&quot;sincronizar datos automáticamente\&quot; en la configuración de Android &gt; Uso de datos.">
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled_v21 "&syncBrand.shortName.label; está configurado, pero no está sincronizado automáticamente. Marca “Sincronizar datos automáticamente” en la configuración de Android &gt; Uso de datos.">
-<!ENTITY fxaccount_status_needs_account_enabled "&syncBrand.shortName.label; está configurado, pero no está sincronizado automáticamente. Presiona para iniciar la sincronización.">
 <!ENTITY fxaccount_status_needs_finish_migrating "Presiona para ingresar a tu nueva cuenta de Firefox.">
 <!ENTITY fxaccount_status_bookmarks "Marcadores">
 <!ENTITY fxaccount_status_history "Historial">

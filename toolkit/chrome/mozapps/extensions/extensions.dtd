@@ -4,6 +4,7 @@
 <!ENTITY addons.windowTitle                   "Administrador de complementos">
 
 <!ENTITY search.placeholder                   "Buscar complementos">
+
 <!-- LOCALIZATION NOTE (search.commandKey):
      The search command key should match findOnCmd.commandkey from browser.dtd -->
 <!ENTITY search.commandkey                    "f">
@@ -35,8 +36,6 @@
 <!ENTITY info.plugincheck.label                 "Pulsa aquí para ver si tus plugins están actualizados">
 <!ENTITY info.plugincheck.tooltip               "Pulsa aquí para ver si tus plugins están actualizados">
 <!-- categories / views -->
-
-<!ENTITY view.search.label                    "Buscar">
 <!ENTITY view.discover.label                  "Obtener complementos">
 <!ENTITY view.recentUpdates.label             "Actualizaciones recientes">
 <!ENTITY view.availableUpdates.label          "Actualizaciones disponibles">
@@ -228,3 +227,4 @@ algunos de los mejores y más populares complementos para que pruebes.">
 <!ENTITY experiment.info.learnmore.accesskey "L">
 <!ENTITY experiment.info.changetelemetry "Preferencias de Telemetry">
 <!ENTITY experiment.info.changetelemetry.accesskey "T">
+
