@@ -3,6 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY itemGeneral.label "Generelt">
+<!ENTITY dataChoicesTab.label    "Data-valg">
 <!ENTITY itemDisplay.label "Læsning &amp; visning">
 <!ENTITY itemUpdate.label "Opdater">
 <!ENTITY itemNetworking.label    "Netværk &amp; diskplads">
@@ -10,13 +11,14 @@
 
 <!-- General Settings -->
 
-<!ENTITY submitTelemetry.label         "Send data om ydelse">
-<!ENTITY submitTelemetry.accesskey     "S">
-<!ENTITY telemetryInfoLink.label       "Mere information om Telemetry">
 <!ENTITY enableGlodaSearch.label       "Aktiver global søgning og indeksering">
 <!ENTITY enableGlodaSearch.accesskey   "A">
 <!ENTITY allowHWAccel.label            "Brug hardwareacceleration hvor muligt">
 <!ENTITY allowHWAccel.accesskey        "h">
+<!ENTITY storeType.label               "Lagertype for meddelelser for nye konti:">
+<!ENTITY storeType.accesskey           "L">
+<!ENTITY mboxStore.label               "Èn stor fil (mbox)">
+<!ENTITY maildirStore.label            "En fil pr. meddelelse (maildir)">
 
 <!ENTITY scrolling.label               "Scrolling">
 <!ENTITY useAutoScroll.label           "Brug autoscrolling">
@@ -37,6 +39,19 @@
 <!ENTITY returnReceiptsInfo.label      "Vælg hvordan &brandShortName; skal håndtere kvitteringer">
 <!ENTITY showReturnReceipts.label      "Kvitteringer…">
 <!ENTITY showReturnReceipts.accesskey  "v">
+
+<!-- Data Choices -->
+<!ENTITY telemetrySection.label          "Telemetry">
+<!ENTITY telemetryDesc.label             "Deler data om ydelse, brug, hardware og tilpasninger i mailprogrammet med &vendorShortName; for at hjælpe os med at gøre &brandShortName; bedre">
+<!ENTITY enableTelemetry.label           "Aktiver Telemetry">
+<!ENTITY enableTelemetry.accesskey       "A">
+<!ENTITY telemetryLearnMore.label        "Læs mere">
+
+<!ENTITY crashReporterSection.label      "Fejlrapportering">
+<!ENTITY crashReporterDesc.label         "&brandShortName; sender fejlrapporter til &vendorShortName; for at gøre dit mailprogram mere stabilt og sikkert">
+<!ENTITY enableCrashReporter.label       "Aktiver fejlrapporter">
+<!ENTITY enableCrashReporter.accesskey   "k">
+<!ENTITY crashReporterLearnMore.label    "Læs mere">
 
 <!-- Display and Reading Settings -->
 <!ENTITY reading.caption               "Læsning">

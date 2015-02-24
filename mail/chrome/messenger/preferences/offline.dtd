@@ -11,8 +11,8 @@
 <!ENTITY radioRememberPrevState.accesskey "H">
 <!ENTITY radioAskState.label "Spørg mig efter online-status">
 <!ENTITY radioAskState.accesskey "m">
-<!ENTITY radioAlwaysOnline.label "Start altid online">
-<!ENTITY radioAlwaysOnline.accesskey "o">
+<!ENTITY radioAlwaysOnlineState.label "Online">
+<!ENTITY radioAlwaysOnlineState.accesskey "o">
 <!ENTITY radioAlwaysOffline.label "Start altid offline">
 <!ENTITY radioAlwaysOffline.accesskey "f">
 

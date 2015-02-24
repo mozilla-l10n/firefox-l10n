@@ -6,6 +6,8 @@
 <!ENTITY itemAutoComplete.label "Adressering">
 <!ENTITY itemSpellCheck.label "Stavekontrol">
 
+<!ENTITY dialogCompose.title                 "Redigering">
+
 <!ENTITY forwardMsg.label "Videresend meddelelser som:">
 <!ENTITY forwardMsg.accesskey "v">
 <!ENTITY inline.label "En del af selve meddelelsen">
