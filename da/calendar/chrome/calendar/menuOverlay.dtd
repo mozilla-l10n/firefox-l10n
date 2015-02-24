@@ -20,6 +20,14 @@
 
 <!ENTITY calendar.deletecalendar.label "Slet den valgte kalender…">
 <!ENTITY calendar.deletecalendar.accesskey "S">
+<!ENTITY calendar.unsubscribecalendar.label "Stop abonnement på den valgte kalender…">
+<!ENTITY calendar.unsubscribecalendar.accesskey "o">
+
+<!-- LOCALIZATION NOTE (calendar.removecalendar.label): Removing the calendar
+      is the general action of removing it, while deleting means to clear the
+      data and unsubscribing means just taking it out of the calendar list. -->
+<!ENTITY calendar.removecalendar.label          "Fjern den valgte kalender…">
+<!ENTITY calendar.removecalendar.accesskey      "F">
 
 <!ENTITY calendar.menu.customize.label "Tilpas…">
 <!ENTITY calendar.menu.customize.accesskey "T">

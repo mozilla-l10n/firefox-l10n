@@ -14,8 +14,8 @@
 <!ENTITY pref.calendar.alarms.sound.useDefault.accessKey "s">
 <!ENTITY pref.calendar.alarms.sound.browse.label "Gennemse…">
 <!ENTITY pref.calendar.alarms.sound.browse.accessKey "G">
-<!ENTITY pref.calendar.alarms.sound.preview.label "Prøve">
-<!ENTITY pref.calendar.alarms.sound.preview.accessKey "P">
+<!ENTITY pref.calendar.alarms.sound.play.label "Afspil">
+<!ENTITY pref.calendar.alarms.sound.play.accessKey "p">
 <!ENTITY pref.showalarmbox "Vis pop op-vindue ved alarmer">
 <!ENTITY pref.calendar.alarms.showAlarmBox.accessKey "v">
 <!ENTITY pref.missedalarms "Vis alarmer jeg gik glip af">

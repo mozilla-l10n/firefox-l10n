@@ -33,6 +33,10 @@
 <!ENTITY pref.default_task_offset_start.label "I forhold til starttidspunkt">
 <!ENTITY pref.default_task_offset_next_hour.label "I forhold til næste time">
 
+<!ENTITY pref.calendar.todaypane.agenda.caption "I dag">
+<!ENTITY pref.soondays.label "Afsnittet Kommende viser:">
+<!ENTITY pref.soondays.accesskey "a">
+
 <!ENTITY pref.accessibility.label "Tilgængelighed" >
 <!ENTITY pref.systemcolors.label "Optimer farver for tilgængelighed" >
 <!ENTITY pref.systemcolors.accesskey "O">
