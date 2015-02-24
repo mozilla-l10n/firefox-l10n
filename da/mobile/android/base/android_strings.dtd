@@ -21,7 +21,7 @@
 <!ENTITY  switch_to_tab "Skift til faneblad">
 
 <!ENTITY  crash_reporter_title "&brandShortName; Fejlrapportør">
-<!ENTITY  crash_message2 "&brandShortName; stødte på en fejl og gik ned. Dine åbne faneblade bør blive vist på startsiden, når du genstarter.">
+<!ENTITY  crash_message2 "&brandShortName; stødte på en fejl og gik ned. Dine åbne faneblade bør blive vist på startskærmen, når du genstarter.">
 <!ENTITY  crash_send_report_message3 "Fortæl &vendorShortName; om nedbruddet, så de kan rette fejlen">
 <!ENTITY  crash_include_url2 "Inkluder webadressen til den besøgte side">
 <!ENTITY  crash_sorry "Vi beklager!">
@@ -143,20 +143,20 @@
 <!ENTITY pref_remember_signons "Husk adgangskoder">
 
 <!ENTITY pref_category_home "Hjem">
-<!ENTITY pref_category_home_summary "Tilpas din startside">
+<!ENTITY pref_category_home_summary "Tilpas din startskærm">
 <!ENTITY pref_category_home_panels "Paneler">
 <!ENTITY home_add_panel_title "Tilføj et nyt panel">
 <!ENTITY home_add_panel_empty "Der var ingen paneler, der kan tilføjes.">
 <!-- Localization note (home_add_panel_installed):
      The &formatS; will be replaced with the name of the new panel the user just
      selected to be added to the home page. -->
-<!ENTITY home_add_panel_installed "\'&formatS;\' blev føjet til startsiden">
+<!ENTITY home_add_panel_installed "\'&formatS;\' blev føjet til startskærmen">
 <!ENTITY pref_category_home_content_settings "Indstillinger for indhold">
 <!ENTITY pref_home_updates "Automatiske opdateringer">
 <!ENTITY pref_home_updates_enabled "Aktiveret">
 <!ENTITY pref_home_updates_wifi "Kun via wi-fi">
 <!ENTITY pref_home_suggested_sites "Vis webstedsforslag">
-<!ENTITY pref_home_suggested_sites_summary "Vis genveje på din startside til websteder, som vi tror, du vil kunne lide">
+<!ENTITY pref_home_suggested_sites_summary "Vis genveje på din startskærm til websteder, som vi tror, du vil kunne lide">
 
 <!-- Localization note: These are shown in the left sidebar on tablets -->
 <!ENTITY pref_header_customize "Tilpas">
@@ -334,8 +334,8 @@ size. -->
 <!ENTITY contextmenu_subscribe "Abonner på siden">
 <!ENTITY contextmenu_site_settings "Rediger webstedets indstillinger">
 <!ENTITY contextmenu_top_sites_edit "Rediger">
-<!ENTITY contextmenu_top_sites_pin "Fastgør websted">
-<!ENTITY contextmenu_top_sites_unpin "Frigør websted">
+<!ENTITY contextmenu_top_sites_pin "Fastgør webside">
+<!ENTITY contextmenu_top_sites_unpin "Frigør webside">
 <!ENTITY contextmenu_add_search_engine "Tilføj en søgetjeneste">
 
 <!ENTITY pref_titlebar_mode "Titellinje">
@@ -393,7 +393,7 @@ size. -->
 <!ENTITY home_top_sites_title "Mest besøgte websider">
 <!-- Localization note (home_top_sites_add): This string is used as placeholder
      text underneath empty thumbnails in the Top Sites page on about:home. -->
-<!ENTITY home_top_sites_add "Tilføj et websted">
+<!ENTITY home_top_sites_add "Tilføj en webside">
 
 <!-- Localization note (home_title): This string should be kept in sync
      with the page title defined in aboutHome.dtd -->
@@ -456,8 +456,8 @@ size. -->
 <!ENTITY private_tabs_panel_learn_more "Vil du vide mere?">
 
 <!ENTITY remote_tabs_panel_moved_title "Hvor blev mine faneblade af?">
-<!ENTITY remote_tabs_panel_moved_desc "Vi har flyttet dine faneblade fra andre enheder ind på din startside, så du nemt kan få adgang til dem, hver gang du åbner et nyt faneblad.">
-<!ENTITY remote_tabs_panel_moved_link "Åbn min startside.">
+<!ENTITY remote_tabs_panel_moved_desc "Vi har flyttet dine faneblade fra andre enheder ind på din startskærm, så du nemt kan få adgang til dem, hver gang du åbner et nyt faneblad.">
+<!ENTITY remote_tabs_panel_moved_link "Åbn min startskærm.">
 
 <!ENTITY pin_site_dialog_hint "Indtast søgeterm">
 
