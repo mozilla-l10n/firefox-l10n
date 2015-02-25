@@ -97,4 +97,4 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.sandboxTitle "Blwch tywod">
 
 <!ENTITY aboutSupport.safeModeTitle "Defnyddiwch y Modd Diogel">
-
+<!ENTITY aboutSupport.restartInSafeMode.label "Ailgychwyn gydag Ychwanegion wedi eu Hanalluogi…">

@@ -841,7 +841,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY emeLearnMoreContextMenu.label            "Dysgu rhagor am DRM…">
 <!ENTITY emeLearnMoreContextMenu.accesskey        "D">
-<!ENTITY emeNotificationsNotNow.label             "Nid Nawr">
+<!ENTITY emeNotificationsNotNow.label             "Nid nawr">
 <!ENTITY emeNotificationsNotNow.accesskey         "N">
 <!ENTITY emeNotificationsDontAskAgain.label       "Peidio gofyn eto">
 <!ENTITY emeNotificationsDontAskAgain.accesskey   "P">

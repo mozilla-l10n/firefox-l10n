@@ -34,7 +34,7 @@
 <!ENTITY healthReportLearnMore.label     "Dysgu Rhagor">
 
 <!ENTITY telemetryDesc.label             "Mae'n rhannu data perfformiad, defnydd, caledwedd a chyfaddasu eich porwr gyda &vendorShortName; er mwyn gwella &brandShortName;">
-<!ENTITY enableTelemetryData.label       "Rhannu data ychwanegol (h.y. Telemetreg)">
+<!ENTITY enableTelemetryData.label       "Rhannu data ychwanegol (h.y., Telemetreg)">
 <!ENTITY enableTelemetryData.accesskey   "T">
 <!ENTITY telemetryLearnMore.label        "Dysgu Rhagor">
 
