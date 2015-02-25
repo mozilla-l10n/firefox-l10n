@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY itemGeneral.label       "Cyffredinol">
-
+<!ENTITY dataChoicesTab.label    "Dewisiadau Data">
 <!ENTITY itemDisplay.label       "Darllen a Dangos">
 <!ENTITY itemUpdate.label        "Diweddaru">
 <!ENTITY itemNetworking.label    "Rhwydwaith a Lle ar Ddisg">
@@ -14,10 +14,10 @@
 <!ENTITY enableGlodaSearch.accesskey   "G">
 <!ENTITY allowHWAccel.label            "Defnyddio cyflymu caledwedd pan fydd ar gael">
 <!ENTITY allowHWAccel.accesskey        "y">
-
-
-
-
+<!ENTITY storeType.label               "Math o Storio Negeseuon ar gyfer cyfrifon newydd:">
+<!ENTITY storeType.accesskey           "T">
+<!ENTITY mboxStore.label               "Un ffeil fawr (mbox)">
+<!ENTITY maildirStore.label            "Ffeil y neges (maildir)">
 
 <!ENTITY scrolling.label               "Sgrolio">
 <!ENTITY useAutoScroll.label           "Defnyddio awto sgrolio">
@@ -40,10 +40,13 @@
 <!ENTITY showReturnReceipts.accesskey  "D">
 <!-- Data Choices -->
 
+<!ENTITY telemetrySection.label          "Telemetreg">
+<!ENTITY telemetryDesc.label             "Mae'n rhannu data perfformiad, defnydd, caledwedd a chyfaddasu eich rhaglen e-bost gyda &vendorShortName; er mwyn gwella &brandShortName;">
+<!ENTITY enableTelemetry.label           "Galluogi Telemetreg">
+<!ENTITY enableTelemetry.accesskey       "T">
+<!ENTITY telemetryLearnMore.label        "Dysgu Rhagor">
 
-
-
-
+<!ENTITY crashReporterSection.label      "Adroddwr Chwalu">
 
 
 

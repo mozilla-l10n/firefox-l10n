@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY addressbookWindow.title                        "Llyfr Cyfeiriadau">
-
+<!ENTITY blankResultsPaneMessage.label                  "Dim ond ar ôl chwilio mae'r llyfr cyfeiriadau hwn yn dangos cysylltiadau">
 
 <!-- File Menu -->
 <!ENTITY fileMenu.label                                 "Ffeil">
