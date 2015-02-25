@@ -89,12 +89,12 @@
 <!ENTITY bookmarks.folder.unfiled.label "Comharran-lìn gun seòrsachadh">
 <!ENTITY bookmarks.folder.desktop.label "Comharraidhean-lìn air an deasg">
 <!ENTITY bookmarks.folder.mobile.label "Comharran-lìn fòn-làimhe">
-<!ENTITY bookmarks.folder.readinglist.label "An liosta leughaidh">
+<!ENTITY bookmarks.folder.readinglist.label "An liosta-leughaidh">
 <!-- Pinned sites on about:home. This folder should never be shown to the user, but we have to give it a string name -->
 <!ENTITY bookmarks.folder.pinned.label "Prìnichte">
 <!-- Notification strings -->
 
-<!ENTITY sync.notification.oneaccount.label "Chan eil taic ann ach do dh\u0027aon chunntas &syncBrand.fullName.label;.">
+<!ENTITY sync.notification.oneaccount.label "Chan eil taic ann ach do dh’aon chunntas &syncBrand.fullName.label;.">
 <!ENTITY sync.notification.configure.saved "Chaidh do roghainnean a shàbhaladh.">
 <!-- Incorrect settings and changing credentials. -->
 
@@ -149,9 +149,9 @@
      etc).  The account remains a "Firefox Account". -->
 
 <!ENTITY fxaccount_create_account_header2 "Cruthaich cunntas Firefox">
-<!ENTITY fxaccount_create_account_password_length_restriction "Feumaidh seo a bhith 8 caractaran a dh\u0027fhaid co-dhiù">
-
-
+<!ENTITY fxaccount_create_account_password_length_restriction "Feumaidh seo a bhith 8 caractaran a dh’fhaid co-dhiù">
+<!ENTITY fxaccount_create_account_day_of_birth "Latha">
+<!ENTITY fxaccount_create_account_month_of_birth "Mìos">
 <!ENTITY fxaccount_create_account_year_of_birth "Bliadhna-breith">
 <!-- Localization note: &formatS1; is fxaccount_policy_linktos, &formatS2; is fxaccount_policy_linkprivacy, both hyperlinked. -->
 <!ENTITY fxaccount_create_account_policy_text2 "Ma leanas tu air adhart, bidh thu ag aontachadh ri &formatS1; agus &formatS2; airson seirbheisean Firefox sa neul.">
@@ -183,7 +183,7 @@
 <!ENTITY fxaccount_sign_in_unknown_error "Cha b\u0027 urrainn dhuinn do chlàradh a-steach">
 
 <!ENTITY fxaccount_account_verified_sub_header "Chaidh an cunntas a dhearbhadh">
-<!ENTITY fxaccount_account_verified_description2 "Thèid an dàta agad a shioncronachadh a dh\u0027aithghearr.">
+<!ENTITY fxaccount_account_verified_description2 "Thèid an dàta agad a shioncronachadh a dh’aithghearr.">
 
 <!ENTITY fxaccount_migration_finished_header "Deiseil leis an àrdachadh">
 
@@ -193,7 +193,7 @@
 
 <!ENTITY fxaccount_finish_migrating_header "Clàraich a-steach a choileanadh an àrdachaidh">
 <!ENTITY fxaccount_finish_migrating_button_label "Deiseil leis an àrdachadh">
-
+<!ENTITY fxaccount_finish_migrating_description "Feumaidh àrdachadh mòran dàta uaireannan. B’ fheairrde dhut lìonra WiFi a chleachdadh.">
 
 <!ENTITY fxaccount_status_header2 "Cunntas Firefox">
 <!ENTITY fxaccount_status_signed_in_as "Chlàraich thu a-steach mar">
@@ -253,8 +253,8 @@
 <!ENTITY fxaccount_remote_error_ATTEMPT_TO_ACCESS_AN_ACCOUNT_THAT_DOES_NOT_EXIST "Tha am post-d no am facal-faire cearr">
 <!ENTITY fxaccount_remote_error_INCORRECT_PASSWORD "Tha am post-d no am facal-faire cearr">
 <!ENTITY fxaccount_remote_error_ATTEMPT_TO_OPERATE_ON_AN_UNVERIFIED_ACCOUNT "Cha deach an cunntas a dhearbhadh">
-<!ENTITY fxaccount_remote_error_CLIENT_HAS_SENT_TOO_MANY_REQUESTS "Tha am frithealaiche trang, feuch ris a-rithist a dh\u0027aithghearr">
-<!ENTITY fxaccount_remote_error_SERVICE_TEMPORARILY_UNAVAILABLE_TO_DUE_HIGH_LOAD "Tha am frithealaiche trang, feuch ris a-rithist a dh\u0027aithghearr">
+<!ENTITY fxaccount_remote_error_CLIENT_HAS_SENT_TOO_MANY_REQUESTS "Tha am frithealaiche trang, feuch ris a-rithist a dh’aithghearr">
+<!ENTITY fxaccount_remote_error_SERVICE_TEMPORARILY_UNAVAILABLE_TO_DUE_HIGH_LOAD "Tha am frithealaiche trang, feuch ris a-rithist a dh’aithghearr">
 <!ENTITY fxaccount_remote_error_UNKNOWN_ERROR "Bha duilgheadas ann">
 <!ENTITY fxaccount_remote_error_COULD_NOT_CONNECT "Cha ghabh ceangal a dhèanamh ris an lìonra">
 <!ENTITY fxaccount_remote_error_ACCOUNT_LOCKED "Tha an cunntas glaiste. &formatS1;">

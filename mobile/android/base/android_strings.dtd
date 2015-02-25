@@ -4,9 +4,10 @@
 
 
 <!ENTITY  no_space_to_start_error "Chan eil àite gu leòr ann airson leigeil le &brandShortName; tòiseachadh.">
-<!ENTITY  error_loading_file "Thachair mearachd fhad \u0027s a dh\u0027fheuchar na faidhlichean a luchdadh a dh\u0027fheumas &brandShortName;">
+<!ENTITY  error_loading_file "Thachair mearachd fhad ’s a dh’fheuchar na faidhlichean a luchdadh a dh’fheumas &brandShortName;">
 
-
+<!ENTITY  onboard_start_message2 "Fàilte gu &brandShortName;">
+<!ENTITY  onboard_start_subtext2 "Barrachd ghleusan prìobhaideachd is dòighean gus a chur air gleus na bha ann a-riamh roimhe.">
 <!ENTITY  onboard_start_button_account "Clàraich a-steach gu &brandShortName;">
 <!ENTITY  onboard_start_button_browser "Tòisich air brabhsadh">
 <!-- Localization note: These are used as the titles of different pages on the home screen.
@@ -14,7 +15,7 @@
 
 <!ENTITY  bookmarks_title "Comharran-lìn">
 <!ENTITY  history_title "Eachdraidh">
-<!ENTITY  reading_list_title "An liosta leughaidh">
+<!ENTITY  reading_list_title "An liosta-leughaidh">
 <!ENTITY  recent_tabs_title "Tabaichean o chionn goirid">
 
 <!ENTITY  switch_to_tab "Gearr leum gun taba">
@@ -28,7 +29,7 @@
 <!ENTITY  crash_allow_contact2 "Leig le &vendorShortName; fios a chur thugam mun aithisg seo">
 <!ENTITY  crash_email "Am post-d agad">
 <!ENTITY  crash_closing_alert "A bheil thu airson fàgail gun aithisg tuislidh a chur?">
-<!ENTITY  sending_crash_report "A\u0027 cur aithisg an tuislidh\u2026">
+<!ENTITY  sending_crash_report "A’ cur aithisg an tuislidh\u2026">
 <!ENTITY  crash_close_label "Dùin">
 <!ENTITY  crash_restart_label "Ath-thòisich &brandShortName;">
 <!ENTITY  exit_label "Fàg an-seo">
@@ -83,8 +84,8 @@
      UI. The locale includes both language and region concepts. -->
 
 <!ENTITY pref_category_language "Cànan">
-<!ENTITY pref_category_language_summary "Atharraich cànan a\u0027 bhrabhsair agad">
-<!ENTITY pref_browser_locale "Cànan a\u0027 bhrabhsair">
+<!ENTITY pref_category_language_summary "Atharraich cànan a’ bhrabhsair agad">
+<!ENTITY pref_browser_locale "Cànan a’ bhrabhsair">
 <!-- Localization note (locale_system_default) : This string indicates that
      Firefox will use the locale currently selected in Android's settings
      to display browser chrome. -->
@@ -100,7 +101,7 @@
      "to bookmark", not the noun "a bookmark". -->
 
 <!ENTITY overlay_share_bookmark_btn_label "Comharra-lìn">
-<!ENTITY overlay_share_reading_list_btn_label "Cuir ris an liosta leughaidh">
+<!ENTITY overlay_share_reading_list_btn_label "Cuir ris an liosta-leughaidh">
 <!ENTITY overlay_share_bookmark_btn_label_already "Tha seo \u0027na chomharra-lìn mu thràth">
 <!ENTITY overlay_share_reading_list_btn_label_already "Tha seo air an liosta-leughaidh mu thràth">
 <!ENTITY overlay_share_send_other "Cuir gu uidheaman eile">
@@ -111,7 +112,7 @@
 
 <!ENTITY overlay_share_send_tab_btn_label "Cuir gu uidheam eile">
 <!ENTITY overlay_share_no_url "Cha deach ceangal a lorg san rud cho-roinnte seo">
-
+<!ENTITY overlay_share_retry "Feuch ris a-rithist">
 <!ENTITY overlay_share_select_device "Tagh uidheam">
 
 <!ENTITY pref_category_search3 "Lorg">
@@ -134,7 +135,7 @@
      search providers.
      The &formatI; in the string will be replaced by a small image of the icon described, and can be moved to wherever
      it is applicable. -->
-<!ENTITY pref_search_hint "GLIOCAS: \u0027S urrainn dhut làrach-lìn sam bith a chur ri liosta nan solaraichean luirg ma nì thu brùthadh fada air an raon luirg aige \u0027s a\u0027 toirt gnogag air an ìomhaigheag &formatI; an uairsin.">
+<!ENTITY pref_search_hint "GLIOCAS: ’S urrainn dhut làrach-lìn sam bith a chur ri liosta nan solaraichean luirg ma nì thu brùthadh fada air an raon luirg aige ’s a\u0027 toirt gnogag air an ìomhaigheag &formatI; an uairsin.">
 <!ENTITY pref_category_devtools "Innealan an luchd-leasachaidh">
 <!ENTITY pref_category_devtools_summary "Dì-bhugachadh cèin, paint flashing">
 <!ENTITY pref_developer_paint_flashing "Paint flashing">
@@ -149,13 +150,13 @@
 <!-- Localization note (home_add_panel_installed):
      The &formatS; will be replaced with the name of the new panel the user just
      selected to be added to the home page. -->
-<!ENTITY home_add_panel_installed "Chaidh \&quot;&formatS;\&quot; a chur ris an duilleag-dhachaigh">
+<!ENTITY home_add_panel_installed "Chaidh “&formatS;” a chur ris an duilleag-dhachaigh">
 <!ENTITY pref_category_home_content_settings "Roghainnean na susbaint">
 <!ENTITY pref_home_updates "Ùrachaidhean fèin-obrachail">
 <!ENTITY pref_home_updates_enabled "An comas">
 <!ENTITY pref_home_updates_wifi "Air WiFi a-mhàin">
 <!ENTITY pref_home_suggested_sites "Seall molaidhean làraichean">
-<!ENTITY pref_home_suggested_sites_summary "Air an duilleag mhòr, seall ath-ghoiridean gu làraichean a dh\u0027fhaodadh a bhith inntinneach dhut">
+<!ENTITY pref_home_suggested_sites_summary "Air an duilleag mhòr, seall ath-ghoiridean gu làraichean a dh’fhaodadh a bhith inntinneach dhut">
 <!-- Localization note: These are shown in the left sidebar on tablets -->
 
 <!ENTITY pref_header_customize "Gnàthaich">
@@ -208,12 +209,12 @@ size. -->
 <!-- Localization note (pref_font_size_preview_text): This paragraph is used as an example to
     demonstrate the font size setting.  It is meant to be whimsical and fun. -->
 
-<!ENTITY pref_font_size_preview_text "Tha am madadh-ruadh seo luath, sùbailte \u0027s tèarainte. Leis nach ann a chum prothaid a tha sinn, tha saoirse againn bathar a dhealbhadh as do leth \u0027s gun luaidh air brùthadh eaconamach. \u0027S ciall dha sinn gum faigh thusa goireas nas fhearr agus gum fàs an lìon nas fhearr cuideachd ri linn.">
+<!ENTITY pref_font_size_preview_text "Tha am madadh-ruadh seo luath, sùbailte ’s tèarainte. Leis nach ann a chum prothaid a tha sinn, tha saoirse againn bathar a dhealbhadh as do leth ’s gun luaidh air brùthadh eaconamach. ’S ciall dha sinn gum faigh thusa goireas nas fhearr agus gum fàs an lìon nas fhearr cuideachd ri linn.">
 
 <!ENTITY pref_media_autoplay_enabled "Ceadaich fèin-chluich">
 <!ENTITY pref_media_autoplay_enabled_summary "Cum smachd air dè na làraichean aig a bheil videothan is meadhanan eile a chluich gu fèin-obrachail">
-
-
+<!ENTITY pref_zoom_force_enabled "Cuir an sùmadh an comas an-còmhnaidh">
+<!ENTITY pref_zoom_force_enabled_summary "Tar-àithn e airson ’s gun urrainn dhut duilleag sam bith a shùmadh">
 
 <!ENTITY pref_use_master_password "Cleachd facal-faire maighstir">
 <!ENTITY pref_sync "Co-shioncronachadh">
@@ -235,7 +236,7 @@ size. -->
 <!ENTITY pref_vendor_faqs "CÀBHA">
 <!ENTITY pref_vendor_feedback "Dè do bheachd?">
 
-<!ENTITY pref_dialog_set_default "Suidhich mar a\u0027 bhun-roghainn">
+<!ENTITY pref_dialog_set_default "Suidhich mar a’ bhun-roghainn">
 <!ENTITY pref_dialog_default "Bunaiteach">
 <!ENTITY pref_dialog_remove "Thoir air falbh">
 
@@ -250,7 +251,7 @@ size. -->
 <!ENTITY datareporting_notification_title "Stats ⁊ dàta &brandShortName;">
 <!ENTITY datareporting_notification_action_long "Cuir romhad dè am fiosrachadh a thèid a cho-roinneadh">
 <!ENTITY datareporting_notification_action "Tagh na tha thu airson co-roinneadh">
-<!ENTITY datareporting_notification_summary "Cuiridh &brandShortName; cuid a dh\u0027fhiosrachadh gu &vendorShortName; ach an urrainn dhuinn bathar a dh\u0027obraicheas nas fhearr a thoirt dhut.">
+<!ENTITY datareporting_notification_summary "Cuiridh &brandShortName; cuid a dh’fhiosrachadh gu &vendorShortName; ach an urrainn dhuinn bathar a dh’obraicheas nas fhearr a thoirt dhut.">
 <!ENTITY datareporting_notification_summary_short "Airson \u0027s gun obraich e nas fhearr dhut, &brandShortName;…">
 <!ENTITY datareporting_notification_ticker_text "&datareporting_notification_title;: &datareporting_notification_action_long;">
 <!-- Localization note (datareporting_fhr_title, datareporting_fhr_summary2,
@@ -261,16 +262,16 @@ size. -->
      crashReporterDesc.label). -->
 
 <!ENTITY datareporting_fhr_title "Aithisg slàinte &brandShortName;">
-<!ENTITY datareporting_fhr_summary2 "Bheir seo dàta air slàinte a\u0027 bhrabhsair agad dha &vendorShortName; agus bheir e dhut fiosrachadh air dèanadas a\u0027 bhrabhsair agad">
+<!ENTITY datareporting_fhr_summary2 "Bheir seo dàta air slàinte a’ bhrabhsair agad dha &vendorShortName; agus bheir e dhut fiosrachadh air dèanadas a’ bhrabhsair agad">
 <!ENTITY datareporting_abouthr_title "Faic an aithisg slàinte agam">
 <!ENTITY datareporting_telemetry_title "Telemeatraidh">
-<!ENTITY datareporting_telemetry_summary "Nochd fiosrachadh air dèanadas, cleachdadh is gnàthachaidhean a\u0027 bhrabhsair dha &vendorShortName; ach an urrainn dhuinn &brandShortName; a leasachadh">
-<!ENTITY datareporting_crashreporter_summary "Cuiridh &brandShortName; aithisgean tuislidh dha &vendorShortName; airson \u0027s gun urrainn dhuinn am brabhsair agad a dhèanamh nas seasmhaiche agus nas tèarainte">
+<!ENTITY datareporting_telemetry_summary "Nochd fiosrachadh air dèanadas, cleachdadh is gnàthachaidhean a’ bhrabhsair dha &vendorShortName; ach an urrainn dhuinn &brandShortName; a leasachadh">
+<!ENTITY datareporting_crashreporter_summary "Cuiridh &brandShortName; aithisgean tuislidh dha &vendorShortName; airson ’s gun urrainn dhuinn am brabhsair agad a dhèanamh nas seasmhaiche agus nas tèarainte">
 <!-- Localization note (datareporting_crashreporter_title_short) : This string matches
      (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
 <!ENTITY datareporting_crashreporter_title_short "Aithrisiche nan tuislidhean">
 <!ENTITY datareporting_wifi_title2 "Seirbheisean ionaid &vendorShortName;">
-
+<!ENTITY datareporting_wifi_geolocation_summary3 "Cuidich &vendorShortName; a’ mapadh an t-saoghail! Nochd ionad mu thuaiream a’ WiFi ’s an fhòn-làimhe agad ach an urrainn dhuinn an t-seirbheis geò-lorgadh a leasachadh">
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
      actual notification that an update is available. -->
@@ -364,8 +365,8 @@ size. -->
 <!ENTITY site_settings_clear        "Falamhaich">
 <!ENTITY site_settings_no_settings  "Chan eil roghainnean ann a ghabhas an glanadh.">
 
-<!ENTITY reading_list_added "Chaidh an duilleag a chur ris an liosta leughaidh agad">
-<!ENTITY reading_list_duplicate "Tha an duilleag air an liosta leughaidh agad mu thràth">
+<!ENTITY reading_list_added "Chaidh an duilleag a chur ris an liosta-leughaidh agad">
+<!ENTITY reading_list_duplicate "Tha an duilleag air an liosta-leughaidh agad mu thràth">
 <!-- Localization note (reading_list_time_minutes2) : This string is used in the "Reading List"
      panel on the home page to give the user an estimate of how many minutes it will take to
      read an article. The word "minute" should be abbreviated if possible. -->
@@ -415,10 +416,10 @@ size. -->
      as an advisory message on how to add content to the reading list when the reading list empty.
      The placeholder &formatI; will be replaced by a small image of the icon described, and can be moved to wherever
      it is applicable. -->
-<!ENTITY home_reading_list_hint2 "GLIOCAS: \u0027S urrainn dhut rudan a tha thu a\u0027 leughadh a shàbhaladh air an liosta-leughaidh agad ma nì thu brùthadh fada air an ìomhaigheag &formatI; nuair a nochdas e ann am bàr an tiotail.">
+<!ENTITY home_reading_list_hint2 "GLIOCAS: ’S urrainn dhut rudan a tha thu a’ leughadh a shàbhaladh air an liosta-leughaidh agad ma nì thu brùthadh fada air an ìomhaigheag &formatI; nuair a nochdas e ann am bàr an tiotail.">
 <!-- Localization note (home_reading_list_hint_accessible): This string is used
      as alternate text for accessibility. It is not visible in the UI. -->
-<!ENTITY home_reading_list_hint_accessible "GLIOCAS: \u0027S urrainn dhut rudan a tha thu a\u0027 leughadh a shàbhaladh air an liosta-leughaidh agad ma nì thu brùthadh fada air putan a\u0027 mhodh-leughaidh nuair a nochdas e ann am bàr an tiotail.">
+<!ENTITY home_reading_list_hint_accessible "GLIOCAS: ’S urrainn dhut rudan a tha thu a’ leughadh a shàbhaladh air an liosta-leughaidh agad ma nì thu brùthadh fada air putan modha an leughadair nuair a nochdas e ann am bàr an tiotail.">
 <!-- Localization note (home_default_empty): This string is used as the default text when there
      is no data to show in an about:home panel that was created by an add-on. -->
 
@@ -434,7 +435,7 @@ size. -->
 <!ENTITY home_remote_tabs_need_to_sign_in "Clàraich a-steach airson an cunntas Firefox agad ath-cheangal is leantainn air adhart leis an t-sioncronachadh.">
 <!ENTITY home_remote_tabs_need_to_finish_migrating "Tha an cunntas Firefox ùr agad deiseil!">
 
-<!ENTITY home_remote_tabs_trouble_verifying "Duilgheadas le dearbhadh a\u0027 chunntais agad?">
+<!ENTITY home_remote_tabs_trouble_verifying "Duilgheadas le dearbhadh a’ chunntais agad?">
 <!ENTITY home_remote_tabs_need_to_verify "Dearbh an cunntas Firefox agad gus tòiseachadh air sioncronachadh.">
 
 <!ENTITY home_remote_tabs_one_hidden_device "Aon uidheam am falach">
@@ -455,7 +456,7 @@ size. -->
 <!ENTITY private_tabs_panel_learn_more "A bheil thu ag iarraidh barrachd fiosrachaidh?">
 
 <!ENTITY remote_tabs_panel_moved_title "Cà bheil na tabaichean agam?">
-<!ENTITY remote_tabs_panel_moved_desc "Ghluais sinn na tabaichean agad o uidheaman eile gu panail air an duilleag mhòr agad ach am faigh thu greim orra gu luath gach turas a dh\u0027fhosglas tu taba ùr.">
+<!ENTITY remote_tabs_panel_moved_desc "Ghluais sinn na tabaichean agad o uidheaman eile gu panail air an duilleag mhòr agad ach am faigh thu greim orra gu luath gach turas a dh’fhosglas tu taba ùr.">
 <!ENTITY remote_tabs_panel_moved_link "Thoir leam dhan phanail ùr agam.">
 
 <!ENTITY pin_site_dialog_hint "Cuir a-steach facal-luirg">
@@ -479,13 +480,13 @@ substitution variables.  If it is difficult to translate the sense of the string
 with that structure, consider a translation which ignores the preceding domain and
 just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_run_by "a tha \u0027ga ruith le">
-<!ENTITY identity_no_info "Chan eil an làrach seo a\u0027 nochdadh fiosrachadh dearbh-aithne.">
-<!ENTITY identity_not_encrypted "Chan eil an ceangal agad ris an làrach-lìn seo air a dhubh-cheileadh.">
+<!ENTITY identity_no_info "Chan eil an làrach seo a’ nochdadh fiosrachadh dearbh-aithne.">
+<!ENTITY identity_not_encrypted "Chan eil an ceangal agad ris an làrach-lìn seo air a chrioptachadh.">
 <!-- Mixed content notifications in site identity popup -->
 
-<!ENTITY loaded_mixed_content_message "Tha an duilleag seo a\u0027 sealltainn susbaint nach eil tèarainte.">
+<!ENTITY loaded_mixed_content_message "Tha an duilleag seo a’ sealltainn susbaint nach eil tèarainte.">
 <!ENTITY blocked_mixed_content_message_top "Bhac &brandShortName; susbaint nach eil tèarainte.">
-<!ENTITY blocked_mixed_content_message_bottom "Obraichidh a\u0027 mhòrchuid dhe na làraichean-lìn fhathast fiù ma tha bacadh air an t-susbaint seo.">
+<!ENTITY blocked_mixed_content_message_bottom "Obraichidh a’ mhòrchuid dhe na làraichean-lìn fhathast fiù ma tha bacadh air an t-susbaint seo.">
 <!-- Tracking content notifications in site identity popup -->
 
 <!ENTITY loaded_tracking_content_message_top "Tha dìon o thracadh à comas.">
@@ -526,8 +527,8 @@ o Android">
 <!ENTITY updater_start_title2 "Tha ùrachadh ri fhaighinn airson &brandShortName;">
 <!ENTITY updater_start_select2 "Suath ris gus a luchdadh a-nuas">
 
-<!ENTITY updater_downloading_title2 "A\u0027 luchdadh a-nuas &brandShortName;">
-<!ENTITY updater_downloading_title_failed2 "Dh\u0027fhàillig an luchdadh a-nuas">
+<!ENTITY updater_downloading_title2 "A’ luchdadh a-nuas &brandShortName;">
+<!ENTITY updater_downloading_title_failed2 "Dh’fhàillig an luchdadh a-nuas">
 <!ENTITY updater_downloading_select2 "Suath ris gus an t-ùrachadh a chur an gnìomh turas a bhios e air a luchdadh a-nuas">
 <!ENTITY updater_downloading_retry2 "Suath ris gus feuchainn ris a-rithist">
 
@@ -561,9 +562,11 @@ o Android">
 <!ENTITY actionbar_done "Dèanta">
 <!-- Voice search in the awesome bar -->
 
-
-
-
+<!ENTITY voicesearch_prompt "Bruidhinn an-dràsta">
+<!ENTITY voicesearch_failed_title "Lorg gutha le &brandShortName;">
+<!ENTITY voicesearch_failed_message "Tha duilgheadas ann leis an lorg ghutha an-dràsta fhèin. Feuch ris a-rithist an ceann greis.">
+<!ENTITY voicesearch_failed_message_recoverable "Tha sinn duilich! Cha do thuig sinn na thuirt thu. Feuch ris a-rithist.">
+<!ENTITY voicesearch_failed_retry "Feuch ris a-rithist">
 <!-- Localization note (remote_tabs_last_synced): the variable is replaced by a
      "relative time span string" produced by Android.  This string describes the
      time the tabs were last synced relative to the current time; examples
@@ -573,6 +576,7 @@ o Android">
 
 <!ENTITY remote_tabs_last_synced "Sioncronachadh mu dheireadh: &formatS;">
 <!-- Localization note: Used when the sync has not happend yet, showed in place of a date -->
+<!ENTITY remote_tabs_never_synced "Cha deach a shioncronachadh a-riamh">
 <!-- Find-In-Page strings -->
 <!-- LOCALIZATION NOTE (find_matchcase): This is meant to appear as an icon that changes color
      if match-case is activated. i.e. No more than two letters, one uppercase, one lowercase. -->
