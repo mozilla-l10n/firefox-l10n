@@ -841,15 +841,21 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY emeLearnMoreContextMenu.label            "ស្វែងយល់​បន្ថែម​អំពី DRM…">
 <!ENTITY emeLearnMoreContextMenu.accesskey        "D">
+<!ENTITY emeNotificationsNotNow.label             "មិនមែន​ឥឡូវ">
+<!ENTITY emeNotificationsNotNow.accesskey         "ម">
+<!ENTITY emeNotificationsDontAskAgain.label       "កុំ​សួរ​ខ្ញុំ​ម្ដងទៀត">
+<!ENTITY emeNotificationsDontAskAgain.accesskey   "ក">
 
-
-
-
-
-
+<!ENTITY readingList.label                        "បញ្ជី​អាន">
+<!ENTITY readingList.sidebar.commandKey           "R">
 <!-- Pre-landed string for bug 1124400 -->
+<!ENTITY readingList.showSidebar.label            "បង្ហាញ​របារ​ចំហៀង​នៃ​បញ្ជី​អាន">
 <!-- Pre-landed string for bug 1124153 -->
+<!ENTITY readingList.sidebar.showMore.label       "បង្ហាញ​ច្រើន​ទៀត...">
 <!-- Pre-landed string for bug 1133662 -->
+<!ENTITY readingList.sidebar.emptyText            "បន្ថែម​អត្ថបទ​ទៅកាន់​បញ្ជី​អាន​របស់​អ្នក​ដើម្បី​រក្សាទុក​ពួកវា​នៅ​ពេល​ក្រោយ និង​ងាយស្រួល​រក​ពួកវា​ពេល​អ្នក​ត្រូវការ។">
 <!-- Pre-landed string for bug 1123525 -->
+<!ENTITY readingList.sidebar.delete.tooltip       "លុប​វា​ចេញពី​បញ្ជី​អាន​របស់​អ្នក">
 <!-- Pre-landed strings for bug 1123519 -->
+<!ENTITY readingList.sidebar.add.label            "បន្ថែម​ទៅ​បញ្ជី​អាន">
 
