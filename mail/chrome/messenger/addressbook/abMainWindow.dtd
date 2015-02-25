@@ -4,7 +4,7 @@
 
 <!ENTITY addressbookWindow.title "Adressebog">
 <!ENTITY blankResultsPaneMessage.label                  "Denne adressebog viser kun kontakter efter en søgning">
-<!ENTITY localResultsOnlyMessage.label                  "Kontakter i adressebøger, der ikke findes lokalt på computeren, viser kun kontakter i forbindelse med en søgning">
+<!ENTITY localResultsOnlyMessage.label                  "Kontakter i adressebøger, der ikke findes lokalt på computeren, vises kun i forbindelse med en søgning">
 <!-- File Menu -->
 <!ENTITY fileMenu.label "Filer">
 <!ENTITY fileMenu.accesskey "F">

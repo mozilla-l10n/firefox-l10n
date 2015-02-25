@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY itemGeneral.label "Generelt">
-<!ENTITY dataChoicesTab.label    "Data-valg">
+<!ENTITY dataChoicesTab.label    "Datadeling">
 <!ENTITY itemDisplay.label "Læsning &amp; visning">
 <!ENTITY itemUpdate.label "Opdater">
 <!ENTITY itemNetworking.label    "Netværk &amp; diskplads">
