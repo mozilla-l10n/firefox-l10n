@@ -174,7 +174,7 @@
 <!ENTITY fxaccount_confirm_account_verification_link_not_sent2 "មិន​អាច​ផ្ញើ​អ៊ីមែល​ការ​ផ្ទៀងផ្ទាត់">
 <!ENTITY fxaccount_resend_unlock_code_button_label "ផ្ញើ​អ៊ីមែល​ដោះ​សោ​ម្ដងទៀត">
 <!ENTITY fxaccount_unlock_code_sent "បាន​ផ្ញើ​អ៊ីមែល​ដោះ​សោ​គណនី">
-
+<!ENTITY fxaccount_unlock_code_not_sent "មិន​អាច​ផ្ញើ​អ៊ីមែល​ដោះ​សោ​គណនី">
 
 <!ENTITY fxaccount_sign_in_sub_header "ចូល">
 <!ENTITY fxaccount_sign_in_button_label "ចូល">
@@ -185,19 +185,21 @@
 <!ENTITY fxaccount_account_verified_sub_header "បាន​ផ្ទៀងផ្ទាត់​គណនី">
 <!ENTITY fxaccount_account_verified_description2 "ទិន្នន័យ​របស់​អ្នក​នឹង​កំពុង​ត្រូវ​បាន​ធ្វើ​សមកាលកម្ម​នៅ​ពេល​នេះ។">
 
+<!ENTITY fxaccount_migration_finished_header "បាន​បញ្ចប់​បច្ចុប្បន្នភាព">
 
 <!ENTITY fxaccount_update_credentials_header "ចូល">
 <!ENTITY fxaccount_update_credentials_button_label "ចូល">
 <!ENTITY fxaccount_update_credentials_unknown_error "មិន​អាច​ចូល">
 
-
-
+<!ENTITY fxaccount_finish_migrating_header "ចូល ដើម្បី​បញ្ចប់​បច្ចុប្បន្នភាព">
+<!ENTITY fxaccount_finish_migrating_button_label "បញ្ចប់​បច្ចុប្បន្នភាព">
+<!ENTITY fxaccount_finish_migrating_description "ការ​ធ្វើ​បច្ចុប្បន្នភាព​អាច​ផ្ទេរ​ទិន្នន័យ​បាន​ច្រើន។ វា​ដំណើរការ​ល្អ​នៅ​បណ្ដាញ​វ៉ាយហ្វាយ។">
 
 <!ENTITY fxaccount_status_header2 "គណនី Firefox">
 <!ENTITY fxaccount_status_signed_in_as "បាន​ចូល​ជា">
 <!ENTITY fxaccount_status_auth_server "ម៉ាស៊ីន​មេ​គណនី">
-
-
+<!ENTITY fxaccount_status_sync_now "ធ្វើ​សមកាលកម្ម​ឥឡូវ">
+<!ENTITY fxaccount_status_syncing2 "កំពុង​ធ្វើ​សមាកលកម្ម...">
 <!ENTITY fxaccount_status_device_name "ឈ្មោះ​ឧបករណ៍">
 <!ENTITY fxaccount_status_sync_server "ធ្វើ​សមកាលកម្មម៉ាស៊ីន​មេ">
 <!ENTITY fxaccount_status_sync "&syncBrand.shortName.label;">
@@ -206,7 +208,7 @@
 <!ENTITY fxaccount_status_needs_credentials "មិន​អាច​តភ្ជាប់។ ប៉ះ​ដើម្បី​ចូល។">
 <!ENTITY fxaccount_status_needs_upgrade "អ្នក​ត្រូវ​ធ្វើ​បច្ចុប្បន្នភាព &brandShortName; ដើម្បី​ចូល។">
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled "បាន​ដំឡើង &syncBrand.shortName.label; ប៉ុន្តែ​មិន​បាន​ធ្វើ​សមកាលកម្ម​​ដោយ​ស្វ័យប្រវត្តិ​ទេ។ បិទ/បើក \&quot;ការ​​ធ្វើ​សមកាលកម្ម​​ទិន្នន័យ​ស្វ័យប្រវត្តិ\&quot; នៅ​ក្នុង​ការ​កំណត់ Android &gt; ការ​ប្រើប្រាស់​ទិន្នន័យ។">
-
+<!ENTITY fxaccount_status_needs_master_sync_automatically_enabled_v21 "បាន​ដំឡើង &syncBrand.shortName.label; ប៉ុន្តែ​មិន​បាន​ធ្វើ​សមកាលកម្ម​​ដោយ​ស្វ័យប្រវត្តិ​ទេ។ បិទ/បើក \&quot;ការ​​ធ្វើ​សមកាលកម្ម​​ទិន្នន័យ​ស្វ័យប្រវត្តិ\&quot; នៅ​ក្នុង​ម៉ឺនុយ​ការ​កំណត់​គណនី Android &gt; ។">
 <!ENTITY fxaccount_status_needs_finish_migrating "ប៉ះ​ដើម្បី​ចូល​គណនី Firefox ថ្មី​របស់​អ្នក។">
 <!ENTITY fxaccount_status_bookmarks "ចំណាំ">
 <!ENTITY fxaccount_status_history "ប្រវត្តិ">
