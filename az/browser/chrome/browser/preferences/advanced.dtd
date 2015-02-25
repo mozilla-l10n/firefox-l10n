@@ -34,8 +34,8 @@
 <!ENTITY healthReportLearnMore.label     "Ətraflı">
 
 <!ENTITY telemetryDesc.label             "&brandShortName; səyyahınızı yaxşılaşdırmağımıza kömək etmək üçün səyyahınızla haqqında olan səmərəlilik, istifadə, təchizat və şəxsiləşdirmə məlumatlarını &vendorShortName; ilə paylaşır">
-
-
+<!ENTITY enableTelemetryData.label       "Ətraflı məlumat paylaş (məs. Telemetriya)">
+<!ENTITY enableTelemetryData.accesskey   "T">
 <!ENTITY telemetryLearnMore.label        "Ətraflı">
 
 <!ENTITY crashReporterDesc.label         "&brandShortName; xətalar haqqında hesabatı &vendorShortName; üçün göndərir ki, sizin səyyahınızı daha da stabil və qorumalı etsinlər">
