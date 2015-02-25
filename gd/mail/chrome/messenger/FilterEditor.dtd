@@ -25,8 +25,8 @@
 <!ENTITY contextAfterCls.label "Criathraich an dèidh comharrachadh na truilleis">
 <!ENTITY contextOutgoing.label "An dèidh a chuir">
 <!ENTITY contextOutgoing.accesskey "d">
-
-
+<!ENTITY contextArchive.label "Tasglannadh">
+<!ENTITY contextArchive.accesskey "a">
 
 <!ENTITY filterActionDesc.label "Dèan na leanas:">
 <!ENTITY filterActionDesc.accesskey "D">
