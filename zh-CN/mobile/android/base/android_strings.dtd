@@ -6,8 +6,8 @@
 <!ENTITY  no_space_to_start_error "无足够的空间以启动 &brandShortName;。">
 <!ENTITY  error_loading_file "载入运行 &brandShortName; 所必须的文件时发生错误">
 
-<!ENTITY  onboard_start_message "欢迎使用 &brandShortName;！">
-<!ENTITY  onboard_start_subtext "致力于您、您的隐私，以及一个开放网络">
+<!ENTITY  onboard_start_message2 "欢迎使用 &brandShortName;">
+<!ENTITY  onboard_start_subtext2 "比以往更多的隐私保护功能和方式，并且都可以自定义。">
 <!ENTITY  onboard_start_button_account "登录到 &brandShortName;">
 <!ENTITY  onboard_start_button_browser "开始浏览">
 <!-- Localization note: These are used as the titles of different pages on the home screen.
@@ -174,7 +174,7 @@
 
 <!ENTITY pref_tracking_protection_title "跟踪保护">
 <!ENTITY pref_tracking_protection_summary "&brandShortName; 将阻止网站的跟踪行为">
-<!ENTITY pref_donottrack_title "不跟踪">
+<!ENTITY pref_donottrack_title "请勿跟踪">
 <!ENTITY pref_donottrack_summary "&brandShortName; 将会告诉网站您不想被追踪">
 
 <!ENTITY pref_char_encoding "显示字符编码">
@@ -213,6 +213,8 @@ size. -->
 
 <!ENTITY pref_media_autoplay_enabled "允许自动播放">
 <!ENTITY pref_media_autoplay_enabled_summary "控制网站是否能够自动播放影片或其他媒体内容">
+<!ENTITY pref_zoom_force_enabled "总是启用缩放">
+<!ENTITY pref_zoom_force_enabled_summary "强制覆盖，以便您可以缩放任何页面">
 
 <!ENTITY pref_use_master_password "使用主密码">
 <!ENTITY pref_sync "同步">
@@ -269,7 +271,7 @@ size. -->
      (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
 <!ENTITY datareporting_crashreporter_title_short "崩溃报告器">
 <!ENTITY datareporting_wifi_title2 "&vendorShortName; 位置服务">
-<!ENTITY datareporting_wifi_geolocation_summary2 "与 &vendorShortName; 分享您的设备大致的 Wi-Fi 和蜂窝基站位置以改善我们的地理定位服务">
+<!ENTITY datareporting_wifi_geolocation_summary3 "帮助 &vendorShortName; 绘制世界地图！分享您的设备附近的 Wi-Fi 和蜂窝网络的位置以便改善我们的地理定位服务">
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
      actual notification that an update is available. -->
@@ -425,7 +427,7 @@ size. -->
 <!-- Localization note (home_move_up_to_filter): The variable is replaced by the name of the
      previous location in the navigation, such as the previous folder -->
 
-<!ENTITY home_move_up_to_filter "&formatS; 之上">
+<!ENTITY home_move_up_to_filter "返回到“&formatS;”">
 
 <!ENTITY home_remote_tabs_title "已同步的标签页">
 <!ENTITY home_remote_tabs_empty "来自您的其他设备的标签页将出现在这里。">
@@ -487,9 +489,9 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY blocked_mixed_content_message_bottom "即使此类内容被屏蔽，大多数网站仍能正常工作。">
 <!-- Tracking content notifications in site identity popup -->
 
-<!ENTITY loaded_tracking_content_message_top "追踪保护已停用。">
+<!ENTITY loaded_tracking_content_message_top "跟踪保护已停用。">
 <!ENTITY loaded_tracking_content_message_bottom "本页面中得部分内容可能会追踪您的线上行为。">
-<!ENTITY blocked_tracking_content_message_top2 "追踪保护已启用。">
+<!ENTITY blocked_tracking_content_message_top2 "跟踪保护已启用。">
 <!ENTITY blocked_tracking_content_message_bottom2 "已阻止本页面中部分追踪您线上行为的内容。">
 <!-- Common mixed and tracking content strings in site identity popup -->
 
@@ -555,6 +557,13 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY actionbar_menu "菜单">
 <!ENTITY actionbar_done "完成">
+<!-- Voice search in the awesome bar -->
+
+<!ENTITY voicesearch_prompt "现在请说">
+<!ENTITY voicesearch_failed_title "&brandShortName; 语音搜索">
+<!ENTITY voicesearch_failed_message "语音搜索目前遇到问题。请稍后再试。">
+<!ENTITY voicesearch_failed_message_recoverable "抱歉。我们无法识别您的话语。请稍候再试。">
+<!ENTITY voicesearch_failed_retry "重试">
 <!-- Localization note (remote_tabs_last_synced): the variable is replaced by a
      "relative time span string" produced by Android.  This string describes the
      time the tabs were last synced relative to the current time; examples
@@ -563,6 +572,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      their desktop or laptop.-->
 
 <!ENTITY remote_tabs_last_synced "最后同步：&formatS;">
+<!-- Localization note: Used when the sync has not happend yet, showed in place of a date -->
+<!ENTITY remote_tabs_never_synced "最后同步：从未">
 <!-- Find-In-Page strings -->
 <!-- LOCALIZATION NOTE (find_matchcase): This is meant to appear as an icon that changes color
      if match-case is activated. i.e. No more than two letters, one uppercase, one lowercase. -->

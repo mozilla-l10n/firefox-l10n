@@ -150,6 +150,8 @@
 
 <!ENTITY fxaccount_create_account_header2 "创建 Firefox 账户">
 <!ENTITY fxaccount_create_account_password_length_restriction "至少要有8个字符">
+<!ENTITY fxaccount_create_account_day_of_birth "日">
+<!ENTITY fxaccount_create_account_month_of_birth "月">
 <!ENTITY fxaccount_create_account_year_of_birth "出生年份">
 <!-- Localization note: &formatS1; is fxaccount_policy_linktos, &formatS2; is fxaccount_policy_linkprivacy, both hyperlinked. -->
 <!ENTITY fxaccount_create_account_policy_text2 "若继续进行，则代表我同意 Firefox 云服务的《&formatS1;》及《&formatS2;》。">
@@ -191,7 +193,7 @@
 
 <!ENTITY fxaccount_finish_migrating_header "登录以完成升级">
 <!ENTITY fxaccount_finish_migrating_button_label "完成升级">
-<!ENTITY fxaccount_finish_migrating_description "升级可能需要转移不少数据。建议您最好先连接到 WiFi 网络。">
+<!ENTITY fxaccount_finish_migrating_description "升级需要转移不少数据。建议您先连接到 Wi-Fi 网络。">
 
 <!ENTITY fxaccount_status_header2 "Firefox 账户">
 <!ENTITY fxaccount_status_signed_in_as "已登录为">
@@ -200,14 +202,13 @@
 <!ENTITY fxaccount_status_syncing2 "正在同步…">
 <!ENTITY fxaccount_status_device_name "设备名称">
 <!ENTITY fxaccount_status_sync_server "同步服务器">
-<!ENTITY fxaccount_status_sync "服务">
+<!ENTITY fxaccount_status_sync "&syncBrand.shortName.label;">
 <!ENTITY fxaccount_status_sync_enabled "&syncBrand.shortName.label;: 已启用">
 <!ENTITY fxaccount_status_needs_verification2 "您的账户需要验证。点按以重发验证邮件。">
 <!ENTITY fxaccount_status_needs_credentials "无法连接。点按以登录。">
 <!ENTITY fxaccount_status_needs_upgrade "您需要升级 &brandShortName; 才能登录。">
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled "&syncBrand.shortName.label; 已设置但尚未开始自动同步。请在 Android 设置 &gt; 数据使用 中切换“自动同步数据”。">
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled_v21 "&syncBrand.shortName.label; 已设置但尚未开始自动同步。请在 Android 设置 &gt; 数据使用 中切换“自动同步数据”。">
-<!ENTITY fxaccount_status_needs_account_enabled "&syncBrand.shortName.label; 已设置但尚未开始自动同步。点按开始同步。">
 <!ENTITY fxaccount_status_needs_finish_migrating "点按以登录到您全新的 Firefox 账户。">
 <!ENTITY fxaccount_status_bookmarks "书签">
 <!ENTITY fxaccount_status_history "历史记录">

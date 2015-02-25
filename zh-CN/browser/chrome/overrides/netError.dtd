@@ -137,11 +137,8 @@ functionality specific to firefox. -->
 <!ENTITY remoteXUL.title "远程 XUL">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>请联系网站拥有者告知这个问题。</li></ul></p>">
 
-<!ENTITY oldSecurityProtocol.title "无法安全地连接">
-<!-- LOCALIZATION NOTE (oldSecurityProtocol.longDesc) - Do not translate the
-     <span id='hostname'></span>. -->
-<!ENTITY oldSecurityProtocol.longDesc2 "&brandShortName; 无法确保您在 <span id='hostname'></span> 上的信息安全，因为这台服务器使用不再安全的 SSLv3 通讯协议。">
-<!-- LOCALIZATION NOTE (oldSecurityProtocol.advancedInfo) - Do not translate
-     the <span id='errorcode'></span>. -->
-<!ENTITY oldSecurityProtocol.advancedInfo "进阶信息：<span id='errorcode'></span>">
-<!ENTITY oldSecurityProtocol.learnMore "了解更多…">
+<!ENTITY sslv3Used.title "无法安全地连接">
+<!-- LOCALIZATION NOTE (sslv3Used.longDesc) - Do not translate
+     "ssl_error_unsupported_version". -->
+<!ENTITY sslv3Used.longDesc "专业信息: ssl_error_unsupported_version">
+<!ENTITY sslv3Used.learnMore "了解更多…">
