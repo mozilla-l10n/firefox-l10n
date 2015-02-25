@@ -6,8 +6,7 @@
 <!ENTITY  no_space_to_start_error "&brandShortName; চালু করার জন্য প্রয়োজনীয় জায়গা নেই।">
 <!ENTITY  error_loading_file "যখন &brandShortName; চালানোর জন্য ফাইল লোড করার চেষ্টা করা হচ্ছিল তখন একটি বিঘ্ন ঘটেছে">
 
-<!ENTITY  onboard_start_message "&brandShortName; এ স্বাগতম!">
-<!ENTITY  onboard_start_subtext "আপনি, আপনার গোপনীয়তা এবং উন্মুক্ত ওয়েবের কাছে প্রতিশ্রুতিবদ্ধ">
+
 <!ENTITY  onboard_start_button_account "&brandShortName; এ সাইন ইন করুন">
 <!ENTITY  onboard_start_button_browser "ব্রাউজিং শুরু করুন">
 <!-- Localization note: These are used as the titles of different pages on the home screen.
@@ -112,7 +111,7 @@
 
 <!ENTITY overlay_share_send_tab_btn_label "অন্য ডিভাইসে প্রেরণ করুন">
 <!ENTITY overlay_share_no_url "এই শেয়ারে কোনো লিংক পাওয়া যায়নি">
-<!ENTITY overlay_share_retry "পুনরায় চেষ্টা করুন">
+
 <!ENTITY overlay_share_select_device "ডিভাইস নির্বাচন করুন">
 
 <!ENTITY pref_category_search3 "অনুসন্ধান করুন">
@@ -214,6 +213,8 @@ size. -->
 <!ENTITY pref_media_autoplay_enabled "নিজে থেকে চালু হওয়ার অনুমতি দিন">
 <!ENTITY pref_media_autoplay_enabled_summary "ওয়েবসাইট গুলি ভিডিও এবং অন্যান্য মিডিয়া নিজে থেকে চালু করবে নাকি তা নিয়ন্ত্রণ করুন">
 
+
+
 <!ENTITY pref_use_master_password "মূখ্য পাসওয়ার্ড ব্যবহার">
 <!ENTITY pref_sync "সিঙ্ক">
 <!ENTITY pref_sync_summary "ট্যাবের বুকমার্ক সংকলন,পাসওয়ার্ডসমূহ,ব্রাউজিং ইতিহাসইতিহাস সিঙ্ক করুন">
@@ -269,7 +270,7 @@ size. -->
      (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
 <!ENTITY datareporting_crashreporter_title_short "বিপর্যয় প্রতিবেদক">
 <!ENTITY datareporting_wifi_title2 "&vendorShortName; অবস্থান পরিষেবা">
-<!ENTITY datareporting_wifi_geolocation_summary2 "&vendorShortName; এর সাথে আপনার ডিভাইসের ওয়াইফাই এবং সেলুলার অবস্থানের আনুমানিক তথ্য শেয়ার করে ভূ পরিষেবার মানোন্নয়ন করা হয়">
+
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
      actual notification that an update is available. -->
@@ -558,6 +559,11 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY actionbar_menu "মেনু">
 <!ENTITY actionbar_done "সমাপ্ত">
+<!-- Voice search in the awesome bar -->
+
+
+
+
 <!-- Localization note (remote_tabs_last_synced): the variable is replaced by a
      "relative time span string" produced by Android.  This string describes the
      time the tabs were last synced relative to the current time; examples
@@ -566,6 +572,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      their desktop or laptop.-->
 
 <!ENTITY remote_tabs_last_synced "সর্বশেষ বার সিঙ্ক হয়েছে: &formatS;">
+<!-- Localization note: Used when the sync has not happend yet, showed in place of a date -->
 <!-- Find-In-Page strings -->
 <!-- LOCALIZATION NOTE (find_matchcase): This is meant to appear as an icon that changes color
      if match-case is activated. i.e. No more than two letters, one uppercase, one lowercase. -->
