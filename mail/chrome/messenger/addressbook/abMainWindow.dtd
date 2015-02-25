@@ -3,8 +3,8 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY addressbookWindow.title                        "Leabhar nan seòladh">
-
-
+<!ENTITY blankResultsPaneMessage.label                  "Cha seall an leabhar-sheòlaidhean seo luchd-aithne ach an dèidh thu lorg a dhèanamh">
+<!ENTITY localResultsOnlyMessage.label                  "Cha dèid luchd-aithne o leabhraichean-sheòlaidhean cèin a shealltainn gus an dèan thu lorg">
 <!-- File Menu -->
 <!ENTITY fileMenu.label                                 "Faidhle">
 <!ENTITY fileMenu.accesskey                             "F">
@@ -161,6 +161,8 @@ because displayed names don't have the comma in between. -->
 <!ENTITY searchItem.title "Lorg luath">
 <!-- Results Pane -->
 
+<!ENTITY Addrbook.label                                 "Leabhar nan seòladh">
+<!ENTITY Addrbook.accesskey                             "b">
 <!ENTITY GeneratedName.label                            "Ainm">
 <!ENTITY GeneratedName.accesskey                        "n">
 <!ENTITY PrimaryEmail.label                             "Post-dealain">

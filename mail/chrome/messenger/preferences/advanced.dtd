@@ -16,8 +16,8 @@
 <!ENTITY allowHWAccel.accesskey        "m">
 
 
-
-
+<!ENTITY mboxStore.label               "Aon fhaidhle mòr (mbox)">
+<!ENTITY maildirStore.label            "Faidhle gach teachdaireachd (maildir)">
 
 <!ENTITY scrolling.label               "Sgroladh">
 <!ENTITY useAutoScroll.label           "Cleachd fèin-sgroladh">

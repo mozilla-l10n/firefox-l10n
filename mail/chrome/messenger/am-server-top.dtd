@@ -84,7 +84,7 @@
 
 <!ENTITY accountTitle.label "Roghainnean a' chunntais">
 <!ENTITY accountSettingsDesc.label "'S e cunntas sònraichte a tha seo.  Chan eil dearbh-aithne co-cheangailte ris.">
-
-
-
-
+<!ENTITY storeType.label "Seòrsa stòras nan teachdaireachdan:">
+<!ENTITY storeType.accesskey "t">
+<!ENTITY mboxStore.label "Aon fhaidhle mòr (mbox)">
+<!ENTITY maildirStore.label "Faidhle gach teachdaireachd (maildir)">
