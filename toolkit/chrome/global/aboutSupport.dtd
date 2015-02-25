@@ -35,9 +35,11 @@ This is likely the same like id.heading in crashes.dtd. -->
 <!ENTITY aboutSupport.appBasicsTitle "មូលដ្ឋាន​គ្រឹះ​របស់​កម្មវិធី">
 <!ENTITY aboutSupport.appBasicsName "ឈ្មោះ">
 <!ENTITY aboutSupport.appBasicsVersion "កំណែ">
-
+<!ENTITY aboutSupport.appBasicsBuildID "លេខ​សម្គាល់​ការ​បង្កើត">
 <!-- LOCALIZATION NOTE (aboutSupport.appBasicsUpdateChannel, aboutSupport.appBasicsUpdateHistory, aboutSupport.appBasicsShowUpdateHistory):
 "Update" is a noun here, not a verb. -->
+
+<!ENTITY aboutSupport.appBasicsUpdateChannel "ធ្វើ​បច្ចុប្បន្នភាព​ឆានែល">
 <!ENTITY aboutSupport.appBasicsUpdateHistory "ប្រវត្តិ​ធ្វើ​បច្ចុប្បន្នភាព">
 <!ENTITY aboutSupport.appBasicsShowUpdateHistory "បង្ហាញ​ប្រវត្តិ​បច្ចុប្បន្នភាព">
 
@@ -94,4 +96,5 @@ variant of aboutSupport.showDir.label. -->
 
 <!ENTITY aboutSupport.sandboxTitle "Sandbox">
 
-
+<!ENTITY aboutSupport.safeModeTitle "សាកល្បង​របៀប​សុវត្ថិភាព">
+<!ENTITY aboutSupport.restartInSafeMode.label "ចាប់ផ្ដើម​ឡើងវិញ​ដោយ​បិទ​កម្មវិធី​បន្ថែម...">
