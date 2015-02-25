@@ -6,7 +6,8 @@
 <!ENTITY  no_space_to_start_error "មិន​មាន​ទំហំ​គ្រប់គ្រាន់​សម្រាប់​ឲ្យ &brandShortName; ចាប់ផ្ដើម​ទេ។">
 <!ENTITY  error_loading_file "កំហុស​បាន​កើតឡើង​ពេល​ព្យាយាម​ផ្ទុក​ឯកសារ​ដែល​ទាមទារ​ដើម្បី​ដំណើរការ &brandShortName;">
 
-
+<!ENTITY  onboard_start_message2 "សូម​ស្វាគមន៍​មកកាន់ &brandShortName;!">
+<!ENTITY  onboard_start_subtext2 "មាន​លក្ខណៈ​ភាព​ឯកជន និង​វិធី​ប្ដូរ​តាម​តម្រូវ​ការ​ច្រើន​ជាង។">
 <!ENTITY  onboard_start_button_account "ចូល​ &brandShortName;">
 <!ENTITY  onboard_start_button_browser "ចាប់​ផ្ដើម​រុករក">
 <!-- Localization note: These are used as the titles of different pages on the home screen.
@@ -74,7 +75,7 @@
 <!ENTITY switch_button_message "ប្ដូរ">
 
 <!ENTITY settings "ការ​កំណត់">
-
+<!ENTITY settings_title "ការ​កំណត់">
 <!ENTITY pref_category_advanced "កម្រិត​ខ្ពស់">
 <!ENTITY pref_category_customize "ប្ដូរ​តាម​តម្រូវ​ការ">
 <!ENTITY pref_category_customize_summary "ដើម ស្វែងរក ផ្ទាំង នាំចូល">
@@ -98,6 +99,8 @@
 <!-- Localization note (overlay_share_bookmark_btn_label) : This string is
      used in the share overlay menu to select an action. It is the verb
      "to bookmark", not the noun "a bookmark". -->
+
+<!ENTITY overlay_share_bookmark_btn_label "ចំណាំ">
 <!ENTITY overlay_share_reading_list_btn_label "បន្ថែម​ទៅ​បញ្ជី​អាន">
 <!ENTITY overlay_share_bookmark_btn_label_already "បាន​ចំណាំ​រួច">
 <!ENTITY overlay_share_reading_list_btn_label_already "នៅ​ក្នុង​បញ្ជី​អាន​រួចហើយ">
@@ -109,9 +112,10 @@
 
 <!ENTITY overlay_share_send_tab_btn_label "ផ្ញើ​ទៅ​ឧបករណ៍​ផ្សេង">
 <!ENTITY overlay_share_no_url "រក​មិន​ឃើញ​តំណ​ក្នុង​ការ​ចែករំលែក​នេះ">
-
+<!ENTITY overlay_share_retry "ព្យាយាម​ម្ដងទៀត">
 <!ENTITY overlay_share_select_device "ជ្រើស​ឧបករណ៍">
 
+<!ENTITY pref_category_search3 "ស្វែងរក">
 <!ENTITY pref_category_search_summary "ប្ដូរ​ក្រុមហ៊ុន​ផ្ដល់​របស់​អ្នក​តាម​តម្រូវ​ការ">
 <!ENTITY pref_category_display "បង្ហាញ">
 <!ENTITY pref_category_display_summary "អត្ថបទ របារ​ចំណងជើង ការ​រកមើល​ពេញ​អេក្រង់">
@@ -125,7 +129,7 @@
 <!ENTITY pref_category_add_search_providers "បន្ថែម​ក្រុមហ៊ុន​ផ្ដល់​ការ​ស្វែងរក​ច្រើន​ទៀត">
 <!ENTITY pref_category_search_restore_defaults "ស្ដារ​ម៉ាស៊ីន​ស្វែងរក">
 <!ENTITY pref_search_restore_defaults "ស្ដារ​លំនាំដើម">
-
+<!ENTITY pref_search_restore_defaults_summary "ស្ដារ​លំនាំដើម">
 <!-- Localization note (pref_search_hint) : "TIP" as in "hint", "clue" etc. Displayed as an
      advisory message on the customise search providers settings page explaining how to add new
      search providers.
@@ -155,14 +159,16 @@
 <!ENTITY pref_home_suggested_sites_summary "បង្ហាញ​ផ្លូវ​កាត់​ទៅ​គេហទំព័រ​ដែល​អ្នក​គិត​ថា​គួរ​ឲ្យ​ចាប់​អារម្មណ៍ នៅ​លើ​ទំព័រ​ដើម​របស់​អ្នក">
 <!-- Localization note: These are shown in the left sidebar on tablets -->
 
-
+<!ENTITY pref_header_customize "ប្ដូរ​តាម​តម្រូវ​ការ">
+<!ENTITY pref_header_display "បង្ហាញ">
+<!ENTITY pref_header_privacy_short "ភាព​ឯកជន">
 <!ENTITY pref_header_help "ជំនួយ">
-
-
-
+<!ENTITY pref_header_language "ភាសា">
+<!ENTITY pref_header_vendor "&vendorShortName;">
+<!ENTITY pref_header_devtools "ឧបករណ៍​អ្នក​អភិវឌ្ឍន៍">
 
 <!ENTITY pref_cookies_menu "​ខូគី">
-
+<!ENTITY pref_cookies_accept_all "បាន​បើក">
 <!ENTITY pref_cookies_not_accept_foreign "បាន​បើក រួមបញ្ចូល​ទាំង​ភាគី​ទី៣">
 <!ENTITY pref_cookies_disabled "បាន​បិទ">
 
@@ -180,9 +186,9 @@
 <!ENTITY pref_clear_on_exit_summary2 "&brandShortName; នឹង​សម្អាត​ទិន្នន័យ​របស់​អ្នក​ដោយ​ស្វ័យ​ប្រវត្តិ នៅ​ពេលណា​​ដែល​អ្នក​ជ្រើស \u0022ចេញ\u0022 ពី​ម៉ឺនុយ​មេ">
 <!ENTITY pref_clear_on_exit_dialog_title "ជ្រើស​ទិន្នន័យ​ណា​មួយ​ដើម្បី​សម្អាត">
 <!ENTITY pref_plugins "កម្មវិធី​ជំនួយ">
-
+<!ENTITY pref_plugins_enabled "បាន​បើក">
 <!ENTITY pref_plugins_tap_to_play "ផ្ទាំង​ដែល​ត្រូវ​បង្ហាញ">
-
+<!ENTITY pref_plugins_disabled "បាន​បិទ">
 <!ENTITY pref_text_size "ទំហំ​អត្ថបទ">
 <!ENTITY pref_reflow_on_zoom4 "លំហូរ​អត្ថបទ​ត្រឡប់">
 <!ENTITY pref_restore "ផ្ទាំង">
@@ -199,6 +205,7 @@
 same character/combination is used to increase the preview font size. It should be a concise
 representation of the language it is used in that will help show the text in the preview will change
 size. -->
+<!ENTITY pref_font_size_adjust_char "A">
 <!-- Localization note (pref_font_size_preview_text): This paragraph is used as an example to
     demonstrate the font size setting.  It is meant to be whimsical and fun. -->
 
@@ -206,7 +213,7 @@ size. -->
 
 <!ENTITY pref_media_autoplay_enabled "អនុញ្ញាត​ការ​ចាក់​ស្វ័យប្រវត្តិ">
 <!ENTITY pref_media_autoplay_enabled_summary "គ្រប់គ្រង​ថា​តើ​តំបន់បណ្ដាញ​អាច​ចាក់​វីដេអូ និង​មាតិកា​មេឌៀ​ផ្សេងទៀត​បាន​ដោយ​ស្វ័យប្រវត្តិ">
-
+<!ENTITY pref_zoom_force_enabled "បើក​ការ​ពង្រីក​ជានិច្ច">
 
 
 <!ENTITY pref_use_master_password "ប្រើ​ពាក្យ​សម្ងាត់​មេ ">
@@ -316,14 +323,14 @@ size. -->
 <!ENTITY contextmenu_open_private_tab "បើក​ក្នុង​ផ្ទាំង​ឯកជន">
 
 <!ENTITY contextmenu_add_to_launcher "បន្ថែម​ទៅ​អេក្រង់​ផ្ទះ">
-
+<!ENTITY contextmenu_share "ចែករំលែក">
 <!ENTITY contextmenu_pasteandgo "បិទ​ភ្ជាប់ រួច​ទៅ">
 <!ENTITY contextmenu_paste "បិទភ្ជាប់">
 <!ENTITY contextmenu_copyurl "ចម្លង​អាសយដ្ឋាន">
 <!ENTITY contextmenu_edit_bookmark "កែសម្រួល">
 <!ENTITY contextmenu_subscribe "ជាវ​ទំព័រ​នេះ">
 <!ENTITY contextmenu_site_settings "កែ​ការ​កំណត់​តំបន់​បណ្ដាញ">
-
+<!ENTITY contextmenu_top_sites_edit "កែសម្រួល">
 <!ENTITY contextmenu_top_sites_pin "ខ្ទាស់​តំបន់​បណ្ដាញ">
 <!ENTITY contextmenu_top_sites_unpin "មិន​ខ្ទាស់​តំបន់​បណ្ដាញ">
 <!ENTITY contextmenu_add_search_engine "បន្ថែម​ម៉ាស៊ីន​ស្វែងរក">
@@ -350,7 +357,7 @@ size. -->
      dialog that appears after selecting the "Edit Site Settings" context menu item. -->
 
 <!ENTITY site_settings_title3       "ការ​កំណត់​តំបន់បណ្ដាញ">
-
+<!ENTITY site_settings_cancel       "បោះបង់">
 <!ENTITY site_settings_clear        "សម្អាត">
 <!ENTITY site_settings_no_settings  "មិន​មាន​ការ​កំណត់​ដែល​ត្រូវ​សម្អាត​ទេ។">
 
@@ -373,12 +380,12 @@ size. -->
 <!ENTITY masterpassword_confirm "អះអាង​ពាក្យសម្ងាត់">
 
 <!ENTITY button_ok "យល់ព្រម">
-
+<!ENTITY button_cancel "បោះបង់">
 <!ENTITY button_yes "បាទ/ចាស">
 <!ENTITY button_no "ទេ">
 <!ENTITY button_clear_data "សម្អាត​ទិន្នន័យ">
-
-
+<!ENTITY button_set "កំណត់">
+<!ENTITY button_clear "សម្អាត">
 
 <!ENTITY home_top_sites_title "តំបន់បណ្ដាញ​ពេញនិយម">
 <!-- Localization note (home_top_sites_add): This string is used as placeholder
@@ -388,7 +395,7 @@ size. -->
      with the page title defined in aboutHome.dtd -->
 
 <!ENTITY home_title "ទំព័រ​ដើម &brandShortName;">
-
+<!ENTITY home_history_title "ប្រវត្តិ">
 <!ENTITY home_clear_history_button "សម្អាត​ប្រវត្តិ​រុករក">
 <!ENTITY home_clear_history_confirm "តើ​អ្នក​ពិតជា​ចង់​សម្អាត​ប្រវត្តិ​របស់​អ្នក​មែនឬ?">
 <!ENTITY home_bookmarks_empty "ចំណាំ​ដែល​អ្នក​បាន​រក្សាទុក​គឺ​បង្ហាញ​នៅ​ទីនេះ។">
@@ -450,6 +457,7 @@ size. -->
 
 <!ENTITY pin_site_dialog_hint "បញ្ចូល​ពាក្យ​គន្លឹះ​ស្វែងរក">
 
+<!ENTITY filepicker_title "ជ្រើស​ឯកសារ">
 <!ENTITY filepicker_audio_title "ជ្រើស ឬ​ថត​សំឡេង">
 <!ENTITY filepicker_image_title "ជ្រើស ឬ​ថត​រូបភាព">
 <!ENTITY filepicker_video_title "ជ្រើស ឬ​ថត​វីដេអូ">
@@ -520,6 +528,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY updater_downloading_select2 "ប៉ះ​ដើម្បី​អនុវត្ត​ការ​ធ្វើ​បច្ចុប្បន្នភាព​​ពេល​បាន​ទាញ​យក">
 <!ENTITY updater_downloading_retry2 "ប៉ះ​ដើម្បី​ព្យាយាម​ម្ដងទៀត">
 
+<!ENTITY updater_apply_title2 "មាន​បច្ចុប្បន្នភាព​សម្រាប់ &brandShortName;">
 <!ENTITY updater_apply_select2 "ប៉ះ​ដើម្បី​ធ្វើ​បច្ចុប្បន្នភាព">
 <!-- Guest mode -->
 
@@ -545,7 +554,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 
 
-
+<!ENTITY voicesearch_failed_retry "ព្យាយាម​ម្ដងទៀត">
 <!-- Localization note (remote_tabs_last_synced): the variable is replaced by a
      "relative time span string" produced by Android.  This string describes the
      time the tabs were last synced relative to the current time; examples
@@ -555,6 +564,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY remote_tabs_last_synced "បាន​ធ្វើ​សមកាលកម្ម​ចុង​ក្រោយ៖ &formatS;">
 <!-- Localization note: Used when the sync has not happend yet, showed in place of a date -->
+<!ENTITY remote_tabs_never_synced "បាន​ធ្វើ​សមកាលកម្ម​ចុងក្រោយ៖ កុំ">
 <!-- Find-In-Page strings -->
 <!-- LOCALIZATION NOTE (find_matchcase): This is meant to appear as an icon that changes color
      if match-case is activated. i.e. No more than two letters, one uppercase, one lowercase. -->

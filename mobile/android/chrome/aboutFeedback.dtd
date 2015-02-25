@@ -17,7 +17,9 @@
 <!-- LOCALIZATION NOTE (support.link): Avoid leading/trailing spaces, this text is a link. -->
 <!-- LOCALIZATION NOTE (support.post): Include a starting space as needed. -->
 
-
+<!ENTITY support.pre3              "ទស្សនា ">
+<!ENTITY support.link2             "វេបសាយ​ជំនួយ​របស់​យើង">
+<!ENTITY support.post3             " ដើម្បី​ទទួល​បាន​ចម្លើយ​សម្រាប់​បញ្ហា​ទូទៅ។">
 
 <!ENTITY happy.header              "ប្រសើរ​ណាស់​ដែល​បាន​ឭ !">
 <!-- LOCALIZATION NOTE (happy.message): "share the love" — This feels purposely exaggerated in English,
@@ -33,6 +35,7 @@
 <!ENTITY happy.maybeLater2         "ប្រហែលជា​បន្តិច​ទៀត">
 <!ENTITY happy.noThanks            "មិន​ចង់​ទេ អរគុណ">
 
+<!ENTITY sad.header                "អ្ហូ ទេ!">
 <!ENTITY sad.message               "យើង​សូម​អភ័យទោស​ចំពោះ​ការ​ជួប​បញ្ហា​ជាមួយ &brandShortName;។ សូម​ប្រាប់​ពួក​យើង​អំពី​អ្វី​ដែល​បាន​កើតឡើង ដើម្បីឲ្យ​ពួក​យើង​កែតម្រូវ​វា ។">
 <!ENTITY sad.placeholder           "បញ្ចូល​មតិ​របស់​អ្នក​នៅ​ទីនេះ">
 
