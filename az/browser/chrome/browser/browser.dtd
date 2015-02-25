@@ -56,7 +56,7 @@ can reach it easily. -->
 
 <!ENTITY tabCmd.label "Yeni Vərəq">
 <!ENTITY tabCmd.accesskey "V">
-
+<!ENTITY tabCmd.commandkey "t">
 <!-- LOCALIZATION NOTE (openLocationCmd.label): "Open Location" is only
 displayed on OS X, and only on windows that aren't main browser windows, or
 when there are no windows but Firefox is still running. -->
@@ -83,17 +83,17 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY bookmarksToolbarItem.label "Əlfəcin alət sətri obyektləri">
 
 
-
-
-
-
+<!ENTITY toolbarContextMenu.bookmarkAllTabs.label "Bütün Vərəqləri Əlfəcinlə…">
+<!ENTITY toolbarContextMenu.bookmarkAllTabs.accesskey "V">
+<!ENTITY toolbarContextMenu.undoCloseTab.label "Qapatılan vərəqləri geri al">
+<!ENTITY toolbarContextMenu.undoCloseTab.accesskey "g">
 
 <!ENTITY pageSourceCmd.label "Səhifə qaynağı">
 <!ENTITY pageSourceCmd.accesskey "a">
-
+<!ENTITY pageSourceCmd.commandkey "u">
 <!ENTITY pageInfoCmd.label "Səhifə məlumatları">
 <!ENTITY pageInfoCmd.accesskey "S">
-
+<!ENTITY pageInfoCmd.commandkey "i">
 <!ENTITY mirrorTabCmd.label "Vərəqi Əkset">
 <!ENTITY mirrorTabCmd.accesskey "Ə">
 <!-- LOCALIZATION NOTE (enterFullScreenCmd.label, exitFullScreenCmd.label):
@@ -104,7 +104,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY exitFullScreenCmd.accesskey "n">
 <!ENTITY fullScreenCmd.label "Tam ekran">
 <!ENTITY fullScreenCmd.accesskey "T">
-
+<!ENTITY fullScreenCmd.macCommandKey "f">
 <!ENTITY showAllTabsCmd.label "Bütün vərəqləri göstər">
 <!ENTITY showAllTabsCmd.accesskey "s">
 
@@ -139,14 +139,14 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksMenu.accesskey "Ə">
 <!ENTITY bookmarkThisPageCmd.label "Səhifəni Əlfəcinlə">
 <!ENTITY editThisBookmarkCmd.label "Bu Əlfəcini Düzəlt">
-
-
+<!ENTITY bookmarkThisPageCmd.commandkey "d">
+<!ENTITY markPageCmd.commandkey "l">
 <!-- LOCALIZATION NOTE (findShareServices.label):
   -  Use the unicode ellipsis char, \u2026,
   -  or use "..." if \u2026 doesn't suit traditions in your locale. -->
 <!ENTITY findShareServices.label "Daha çox Paylaşım servisi tap…">
 <!ENTITY sharePageCmd.label "Bu Səhifəni Paylaş">
-
+<!ENTITY sharePageCmd.commandkey "S">
 <!ENTITY sharePageCmd.accesskey "B">
 <!-- LOCALIZATION NOTE (shareLink.accesskey): must be different than the following share access keys -->
 <!ENTITY shareLink.label "Bu Keçidi Paylaş">
@@ -174,7 +174,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY reloadCmd.label              "Yenilə">
 <!ENTITY reloadButton.tooltip         "Hazırki səhifəni yenilə">
 <!ENTITY stopCmd.label                "Dayan">
-
+<!ENTITY stopCmd.macCommandKey        ".">
 <!ENTITY stopButton.tooltip           "Səhifəni yeniləməyi dayandır">
 <!ENTITY goEndCap.tooltip             "Ünvan Sətrindəki ünvanı aç">
 <!ENTITY printButton.label            "Çap Et">
@@ -237,11 +237,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY browserConsoleCmd.accesskey  "S">
 
 <!ENTITY inspectContextMenu.label     "Obyekti araşdır">
-
+<!ENTITY inspectContextMenu.accesskey "Q">
 
 <!ENTITY responsiveDesignTool.label   "Uyğun dizayn görünüşü">
 <!ENTITY responsiveDesignTool.accesskey "U">
-
+<!ENTITY responsiveDesignTool.commandkey "M">
 
 <!ENTITY eyedropper.label   "GözDamlası">
 <!ENTITY eyedropper.accesskey "D">
@@ -284,7 +284,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY devToolbar.keytext                "F2">
 <!ENTITY devToolboxMenuItem.label          "Alətlər panelini göstər/gizlət">
 <!ENTITY devToolboxMenuItem.accesskey      "t">
-
+<!ENTITY devToolboxMenuItem.keytext        "I">
 
 <!ENTITY devToolbarToolsButton.tooltip     "Mühəndis alətlərinini göstər/gizlət">
 <!ENTITY devToolbarOtherToolsButton.label  "Daha çox alət">
@@ -295,7 +295,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fileMenu.label         "Fayl"> 
 <!ENTITY fileMenu.accesskey       "F">
 <!ENTITY newNavigatorCmd.label        "Yeni Pəncərə">
-
+<!ENTITY newNavigatorCmd.key        "N">
 <!ENTITY newNavigatorCmd.accesskey      "Y">
 <!ENTITY newPrivateWindow.label     "Yeni Məxfi Pəncərə">
 <!ENTITY newPrivateWindow.accesskey "P">
@@ -303,19 +303,19 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY editMenu.label         "Düzəlt"> 
 <!ENTITY editMenu.accesskey       "D"> 
 <!ENTITY undoCmd.label            "Geri al">  
-
+<!ENTITY undoCmd.key            "Z">  
 <!ENTITY undoCmd.accesskey          "G"> 
 <!ENTITY redoCmd.label            "Təkrarla">  
-
+<!ENTITY redoCmd.key            "Y">  
 <!ENTITY redoCmd.accesskey          "T"> 
 <!ENTITY cutCmd.label           "Kəs">  
-
+<!ENTITY cutCmd.key             "X">  
 <!ENTITY cutCmd.accesskey         "K"> 
 <!ENTITY copyCmd.label            "Kopyala">  
-
+<!ENTITY copyCmd.key            "C">  
 <!ENTITY copyCmd.accesskey          "K"> 
 <!ENTITY pasteCmd.label           "Yapışdır">  
-
+<!ENTITY pasteCmd.key           "V">  
 <!ENTITY pasteCmd.accesskey         "Y"> 
 <!ENTITY deleteCmd.label          "Sil">  
 
@@ -384,7 +384,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY customizeMenu.addMoreItems.accesskey "a">
 
 <!ENTITY urlbar.placeholder2          "Ünvanı daxil et və ya axtar">
-
+<!ENTITY urlbar.accesskey             "d">
 <!ENTITY urlbar.switchToTab.label     "Keçiləcək vərəq:">
 <!-- 
   Comment duplicated from browser-sets.inc:
@@ -407,7 +407,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
  -->
 
-
+<!ENTITY searchFocus.commandkey       "k">
+<!ENTITY searchFocus.commandkey2      "e">
+<!ENTITY searchFocusUnix.commandkey   "j">
 <!-- LOCALIZATION NOTE (searchFor.label, searchWith.label):
      These two strings are used to build the header above the list of one-click
      search providers:  "Search for <used typed keywords> with:" -->
@@ -424,6 +426,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      consider translating it as if it said only "Search Settings". -->
 <!ENTITY changeSearchSettings.button  "Axtarış Tənzimləmələrini Dəyiş">
 
+<!ENTITY tabView.commandkey           "e">
 
 <!ENTITY openLinkCmdInTab.label       "Keçidi Yeni Vərəqdə Aç">
 <!ENTITY openLinkCmdInTab.accesskey   "V">
@@ -439,13 +442,14 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openFrameCmd.accesskey       "P">
 <!ENTITY showOnlyThisFrameCmd.label     "Sadəcə bu çərçivəni göstər">
 <!ENTITY showOnlyThisFrameCmd.accesskey "c">
-
+<!ENTITY reloadCmd.commandkey         "r">
 <!ENTITY reloadFrameCmd.label         "Çərçivəni yenilə">
 <!ENTITY reloadFrameCmd.accesskey     "e">
 <!ENTITY viewPartialSourceForSelectionCmd.label "Seçimin qaynaq kodunu göstər">
 <!ENTITY viewPartialSourceForMathMLCmd.label    "MathML qaynağını göstər">
 <!-- LOCALIZATION NOTE (viewPartialSourceCmd.accesskey): This accesskey is used for both 
          viewPartialSourceForSelectionCmd.label and viewPartialSourceForMathMLCmd.label -->
+<!ENTITY viewPartialSourceCmd.accesskey "e">
 <!ENTITY viewPageSourceCmd.label      "Səhifə qaynağını göstər">
 <!ENTITY viewPageSourceCmd.accesskey  "a">
 <!ENTITY viewFrameSourceCmd.label     "Çərçivə qaynağını göstər">
@@ -468,7 +472,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewBGImageCmd.accesskey     "r">
 <!ENTITY setDesktopBackgroundCmd.label      "İşçi stolu arxa fonu et…">
 <!ENTITY setDesktopBackgroundCmd.accesskey  "s">
-
+<!ENTITY bookmarkPageCmd2.label       "Bu Səhifəni Əlfəcinlə">
 <!ENTITY bookmarkThisLinkCmd.label      "Bu Keçidi Əlfəcinlə">
 <!ENTITY bookmarkThisLinkCmd.accesskey  "K">
 <!ENTITY bookmarkThisFrameCmd.label      "Bu Çərçivəni Əlfəcinlə">
@@ -478,6 +482,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY savePageCmd.label            "Fərqli saxla…">
 <!ENTITY savePageCmd.accesskey        "s">
 <!-- alternate for content area context menu -->
+<!ENTITY savePageCmd.accesskey2       "P">
 
 <!ENTITY saveFrameCmd.label           "Çərçivəni Fərqli Saxla…">
 <!ENTITY saveFrameCmd.accesskey       "Ç">
@@ -596,9 +601,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY quitApplicationCmdWin2.label       "Çıxış">
 <!ENTITY quitApplicationCmdWin2.accesskey   "ı">
-
-
-
+<!ENTITY quitApplicationCmdWin2.tooltip     "&brandShorterName; səyyahından çıx">
+<!ENTITY goBackCmd.commandKey "[">
+<!ENTITY goForwardCmd.commandKey "]">
 <!ENTITY quitApplicationCmd.label       "Çıx"> 
 <!ENTITY quitApplicationCmd.accesskey   "x">
 

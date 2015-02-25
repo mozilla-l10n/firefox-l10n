@@ -35,8 +35,8 @@
 <!ENTITY community.mozillaLink      "&vendorShortName;">
 <!ENTITY community.middle2          ", Web-i açıq, ictimai və hərkəsə əl çatan etmək üçün bir yerdə çalışan ">
 <!-- LOCALIZATION NOTE (community.creditsLink): This is a link title that links to about:credits. -->
-<!ENTITY community.creditsLink      "qlobal cəmiyyət">
-<!ENTITY community.end3             ".">
+<!ENTITY community.creditsLink      "qlobal cəmiyyət tərəfindən">
+<!ENTITY community.end3             " hazırlanıb.">
 
 <!ENTITY helpus.start               "Kömək etmək istərdinizmi? ">
 <!-- LOCALIZATION NOTE (helpus.donateLink): This is a link title that links to https://sendto.mozilla.org/page/contribute/Give-Now?source=mozillaorg_default_footer&ref=firefox_about&utm_campaign=firefox_about&utm_source=firefox&utm_medium=referral&utm_content=20140929_FireFoxAbout. -->
