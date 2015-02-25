@@ -145,8 +145,8 @@
 <!ENTITY messagePaneVertical.accesskey "F">
 <!ENTITY showFolderPaneCmd.label "Paen Ffolder">
 <!ENTITY showFolderPaneCmd.accesskey "F">
-
-
+<!ENTITY showFolderPaneColsCmd.label "Colofnau Paenau Ffolderi">
+<!ENTITY showFolderPaneColsCmd.accesskey "P">
 <!ENTITY showMessageCmd.label "Paen Neges">
 <!ENTITY showMessageCmd.accesskey "N">
 
@@ -596,8 +596,8 @@
 <!-- Folder Pane -->
 
 <!ENTITY folderNameColumn.label "Enw">
-
-
+<!ENTITY folderUnreadColumn.label "Heb Ddarllen">
+<!ENTITY folderTotalColumn.label "Cyfanswm">
 <!ENTITY folderSizeColumn.label "Maint">
 <!-- Folder Pane Context Menu -->
 
@@ -666,8 +666,8 @@
 <!ENTITY statusColumn.label "Statws">
 <!ENTITY sizeColumn.label "Maint">
 <!ENTITY junkStatusColumn.label "Statws Sbam">
-
-
+<!ENTITY unreadColumn.label "Heb Ddarllen">
+<!ENTITY totalColumn.label "Cyfanswm">
 <!ENTITY readColumn.label "Darllenwyd">
 <!ENTITY receivedColumn.label "Derbyniwyd">
 <!ENTITY starredColumn.label "Serennog">

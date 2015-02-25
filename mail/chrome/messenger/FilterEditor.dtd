@@ -25,8 +25,8 @@
 <!ENTITY contextAfterCls.label "Hidlo wedi Dynodi fel Sbam">
 <!ENTITY contextOutgoing.label "Ar ôl Anfon">
 <!ENTITY contextOutgoing.accesskey "A">
-
-
+<!ENTITY contextArchive.label "Archifo">
+<!ENTITY contextArchive.accesskey "A">
 
 <!ENTITY filterActionDesc.label "Cyflawni'r gweithredoedd:">
 <!ENTITY filterActionDesc.accesskey "C">
