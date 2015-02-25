@@ -592,11 +592,17 @@
 <!ENTITY processHang.terminatePlugin.accessKey "и">
 <!ENTITY processHang.terminateProcess.label "Убить процесс веб-страницы">
 <!ENTITY processHang.terminateProcess.accessKey "п">
-<!ENTITY readingList.label "Список для чтения">
-<!ENTITY readingList.sidebar.commandKey "R">
 <!ENTITY emeLearnMoreContextMenu.label "Узнать больше о DRM…">
 <!ENTITY emeLearnMoreContextMenu.accesskey "а">
 <!ENTITY emeNotificationsNotNow.label "Не сейчас">
 <!ENTITY emeNotificationsNotNow.accesskey "е">
 <!ENTITY emeNotificationsDontAskAgain.label "Не спрашивать в следующий раз">
 <!ENTITY emeNotificationsDontAskAgain.accesskey "а">
+<!ENTITY readingList.label "Список для чтения">
+<!ENTITY readingList.sidebar.commandKey "R">
+<!ENTITY readingList.showSidebar.label "Показать боковую панель Списка для чтения">
+<!ENTITY readingList.sidebar.showMore.label "Показать ещё…">
+<!ENTITY readingList.sidebar.emptyText "Добавьте статьи в свой Список для чтения, чтобы попозже их прочесть. Когда они понадобятся, вы сможете легко их найти.">
+<!ENTITY readingList.sidebar.delete.tooltip "Удалить это из вашего Списка для чтения">
+<!ENTITY readingList.sidebar.add.label "Добавить в Список для чтения">
+<!ENTITY readingList.sidebar.add.tooltip "Добавить эту страницу в ваш Список для чтения">
