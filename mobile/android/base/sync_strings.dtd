@@ -150,8 +150,8 @@
 
 <!ENTITY fxaccount_create_account_header2 "Creu Cyfrif Firefox">
 <!ENTITY fxaccount_create_account_password_length_restriction "Rhaid bod o leiaf 8 nod">
-
-
+<!ENTITY fxaccount_create_account_day_of_birth "Diwrnod">
+<!ENTITY fxaccount_create_account_month_of_birth "Mis">
 <!ENTITY fxaccount_create_account_year_of_birth "Blwyddyn geni">
 <!-- Localization note: &formatS1; is fxaccount_policy_linktos, &formatS2; is fxaccount_policy_linkprivacy, both hyperlinked. -->
 <!ENTITY fxaccount_create_account_policy_text2 "Wrth barhau, Rwy\u0027n cytuno i &formatS1; a &formatS2; gwasanaethau ar-lein Firefox.">
@@ -193,7 +193,7 @@
 
 <!ENTITY fxaccount_finish_migrating_header "Mewngofnodwch i orffen diweddaru">
 <!ENTITY fxaccount_finish_migrating_button_label "Wedi gorffen diweddaru">
-
+<!ENTITY fxaccount_finish_migrating_description "Gall diweddaru drosglwyddo lot o ddata. Mae\u0027n well gwneud ar rwydwaith diwyfr.">
 
 <!ENTITY fxaccount_status_header2 "Cyfrif Firefox">
 <!ENTITY fxaccount_status_signed_in_as "Mewngofnodwyd fel">
