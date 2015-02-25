@@ -58,13 +58,13 @@
 <!ENTITY otherActionsOpenInNewTab1.label "Odpri v novem zavihku">
 <!ENTITY otherActionsOpenInNewTab1.accesskey "z">
 <!ENTITY markAsReadMenuItem1.label "Označi kot prebrano">
-<!ENTITY markAsReadMenuItem1.accesskey "z">
+<!ENTITY markAsReadMenuItem1.accesskey "O">
 <!ENTITY markAsUnreadMenuItem1.label "Označi kot neprebrano">
-<!ENTITY markAsUnreadMenuItem1.accesskey "z">
+<!ENTITY markAsUnreadMenuItem1.accesskey "O">
 <!ENTITY saveAsMenuItem1.label "Shrani kot …">
 <!ENTITY saveAsMenuItem1.accesskey "S">
 <!ENTITY viewSourceMenuItem1.label "Pokaži vir">
-<!ENTITY viewSourceMenuItem1.accesskey "k">
+<!ENTITY viewSourceMenuItem1.accesskey "P">
 <!ENTITY otherActionsPrint1.label "Natisni …">
 <!ENTITY otherActionsPrint1.accesskey "N">
 <!-- Attachment bar context menu items -->
@@ -76,7 +76,7 @@
 <!ENTITY openAttachmentCmd.label    "Odpri">
 <!ENTITY openAttachmentCmd.accesskey    "O">
 <!ENTITY saveAsAttachmentCmd.label    "Shrani kot …">
-<!ENTITY saveAsAttachmentCmd.accesskey    "k">
+<!ENTITY saveAsAttachmentCmd.accesskey    "S">
 <!ENTITY detachAttachmentCmd.label    "Odpni …">
 <!ENTITY detachAttachmentCmd.accesskey    "n">
 <!ENTITY deleteAttachmentCmd.label    "Izbriši">
@@ -84,11 +84,11 @@
 <!ENTITY openAllAttachmentsCmd.label    "Odpri vse …">
 <!ENTITY openAllAttachmentsCmd.accesskey    "O">
 <!ENTITY saveAllAttachmentsCmd.label    "Shrani vse …">
-<!ENTITY saveAllAttachmentsCmd.accesskey    "h">
+<!ENTITY saveAllAttachmentsCmd.accesskey    "S">
 <!ENTITY detachAllAttachmentsCmd.label    "Odpni vse …">
 <!ENTITY detachAllAttachmentsCmd.accesskey    "n">
 <!ENTITY deleteAllAttachmentsCmd.label    "Izbriši vse …">
-<!ENTITY deleteAllAttachmentsCmd.accesskey    "š">
+<!ENTITY deleteAllAttachmentsCmd.accesskey    "b">
 
 <!ENTITY openAttachment.tooltip "Odpri pripeto datoteko">
 <!-- Attachment toolbar items -->
