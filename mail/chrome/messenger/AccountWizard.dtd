@@ -31,7 +31,7 @@
 -->
 <!ENTITY fullnameExample.label "(na primer, &quot;Marija Novak&quot;).">
 <!ENTITY fullnameLabel.label "Vaše ime:">
-<!ENTITY fullnameLabel.accesskey "i">
+<!ENTITY fullnameLabel.accesskey "m">
 
 <!ENTITY emailLabel.label "E-naslov:">
 <!ENTITY emailLabel.accesskey "E">
@@ -42,7 +42,7 @@
 <!ENTITY incomingServerTypeDesc.label "Izberite vrsto dohodnega strežnika, ki ga uporabljate.">
 <!-- LOCALIZATION NOTE (imapType.label) : Do not translate "IMAP" in below line -->
 <!ENTITY imapType.label "IMAP">
-<!ENTITY imapType.accesskey "I">
+<!ENTITY imapType.accesskey "M">
 <!-- LOCALIZATION NOTE (popType.label) : Do not translate "POP" in below line -->
 <!ENTITY popType.label "POP">
 <!ENTITY popType.accesskey "P">
@@ -69,7 +69,7 @@
 
 <!ENTITY outgoingTitle.label "Podatki o odhodnem strežniku">
 <!-- LOCALIZATION NOTE (outgoingServer.description) : Do not translate "SMTP" and "&quot;smtp.example.net&quot;" in below line -->
-<!ENTITY outgoingServer.description "Vnesite ime svojega odhodnega strežnika (NNTP) (na primer &quot;smtp.primer.net&quot;).">
+<!ENTITY outgoingServer.description "Vnesite ime svojega odhodnega strežnika (SMTP) (na primer &quot;smtp.primer.net&quot;).">
 <!ENTITY outgoingServer.label "Odhodni strežnik:">
 <!ENTITY outgoingServer.accesskey "s">
 <!ENTITY outgoingUsername.description "Vnesite uporabniško ime odhodnega strežnika, ki ste ga dobili od svojega ponudnika e-poštnih storitev (to je običajno isto, kot uporabniško ime dohodnega strežnika).">
@@ -84,7 +84,7 @@
      these variables. Also, translate haveSmtp1.prefix and haveSmtp1.suffix3 as a single sentence, inserting
      text after the "&quot;" entity in haveSmtp1.suffix3, if required grammatically.
 -->
-<!ENTITY haveSmtp1.prefix "Uporabljen bo vaš obstoječi strežnik (SMTP), &quot;">
+<!ENTITY haveSmtp1.prefix "Uporabljen bo vaš obstoječi odhodni strežnik (SMTP), &quot;">
 <!ENTITY haveSmtp1.suffix3 "&quot;.">
 <!-- LOCALIZATION NOTE (haveSmtp2.prefix and haveSmtp2.suffix3) : Do not translate "SMTP" and "&quot;" in
      these variables. Also, translate haveSmtp2.prefix and haveSmtp2.suffix3 as a single sentence, inserting
@@ -105,7 +105,7 @@
 <!-- LOCALIZATION NOTE (accnameDesc.label) : do not translate any "&quot;" in below line -->
 <!ENTITY accnameDesc.label "Vnesite ime za ta račun (na primer, &quot;račun v službi&quot;, &quot;račun doma&quot; ali &quot;račun za novice&quot;).">
 <!ENTITY accnameLabel.label "Ime računa:">
-<!ENTITY accnameLabel.accesskey "I">
+<!ENTITY accnameLabel.accesskey "m">
 <!-- Entities for Done (Congratulations) page -->
 
 

@@ -16,7 +16,7 @@
 <!ENTITY addFeedAccountButton.accesskey "v">
 <!ENTITY addOtherAccountButton.label "Dodaj drug račun …">
 <!ENTITY addOtherAccountButton.accesskey "u">
-<!ENTITY setDefaultButton.label "Privzet račun">
+<!ENTITY setDefaultButton.label "Privzeti račun">
 <!ENTITY setDefaultButton.accesskey "P">
 <!ENTITY removeButton.label "Odstrani račun">
 <!ENTITY removeButton.accesskey "O">
