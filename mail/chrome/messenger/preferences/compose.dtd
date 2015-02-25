@@ -6,6 +6,7 @@
 <!ENTITY itemAutoComplete.label              "Cyfeirio">
 <!ENTITY itemSpellCheck.label                "Sillafu">
 
+<!ENTITY dialogCompose.title                 "Ysgrifennu">
 
 <!ENTITY forwardMsg.label                     "Anfon negeseuon ymlaen:">
 <!ENTITY forwardMsg.accesskey                 "y">

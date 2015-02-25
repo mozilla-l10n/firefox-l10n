@@ -69,10 +69,10 @@
 
 <!ENTITY outgoingTitle.label "Gwybodaeth Gweinydd Anfon">
 <!-- LOCALIZATION NOTE (outgoingServer.description) : Do not translate "SMTP" and "&quot;smtp.example.net&quot;" in below line -->
-<!ENTITY outgoingServer.description "Rhowch yr enw anfon roddwyd i chi gan eich darparwr e-bost (SMTP) (e.e, &quot;smtp.esiampl.net&quot;).">
+<!ENTITY outgoingServer.description "Rhowch enw&apos;r gweinydd anfon rhoddwyd i chi gan eich darparwr e-bost (SMTP) (e.e, &quot;smtp.esiampl.net&quot;).">
 <!ENTITY outgoingServer.label "Gweinydd Anfon:">
 <!ENTITY outgoingServer.accesskey "A">
-<!ENTITY outgoingUsername.description "Rhowch yr enw anfon roddwyd i chi gan eich darparwr e-bost (fel rheol yr un a'ch enw defnyddiwr derbyn).">
+<!ENTITY outgoingUsername.description "Rhowch yr enw defnyddiwr anfon rhoddwyd i chi gan eich darparwr e-bost (fel rheol yr un a'ch enw defnyddiwr derbyn).">
 <!ENTITY outgoingUsername.label "Enw Defnyddiwr Anfon:">
 <!ENTITY outgoingUsername.accesskey "A">
 <!-- LOCALIZATION NOTE (modifyOutgoing.suffix) : This string will be appended after each of

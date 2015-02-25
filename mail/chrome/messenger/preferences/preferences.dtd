@@ -19,4 +19,5 @@
 <!ENTITY paneAdvanced.title       "Uwch">
 <!ENTITY paneAccount.title        "Cyfrifon">
 
-
+<!ENTITY okButton.title           "Iawn">
+<!ENTITY okButton.accesskey       "I">

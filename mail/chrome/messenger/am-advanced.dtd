@@ -8,7 +8,7 @@
 <!ENTITY smtpServer.label "Gosodiadau Gweinydd Anfon (SMTP)">
 <!-- LOCALIZATION NOTE (smtpDescription.label): do not translate "SMTP" in below line -->
 
-<!ENTITY smtpDescription.label "Wrth reoli eich hunaniaethau mae modd defnyddio gweinydd o&apos;r rhestr hon drwy ei dewis fel y Gweinydd Allan (SMTP) neu mae modd defnyddio&apos;r gweinydd rhagosodedig o&apos;r rhestr hon drwy ddewis &quot;Defnyddio&apos;r Gweinydd Rhagosodedig&quot;.">
+<!ENTITY smtpDescription.label "Wrth reoli eich hunaniaethau mae modd defnyddio gweinydd o&apos;r rhestr hon drwy ei dewis fel y Gweinydd Anfon (SMTP) neu mae modd defnyddio&apos;r gweinydd rhagosodedig o&apos;r rhestr hon drwy ddewis &quot;Defnyddio&apos;r Gweinydd Rhagosodedig&quot;.">
 
 <!ENTITY smtpListAdd.label  "Ychwanegu…">
 <!ENTITY smtpListAdd.accesskey  "Y">

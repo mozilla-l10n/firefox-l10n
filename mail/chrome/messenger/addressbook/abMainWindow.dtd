@@ -4,7 +4,7 @@
 
 <!ENTITY addressbookWindow.title                        "Llyfr Cyfeiriadau">
 <!ENTITY blankResultsPaneMessage.label                  "Dim ond ar ôl chwilio mae'r llyfr cyfeiriadau hwn yn dangos cysylltiadau">
-
+<!ENTITY localResultsOnlyMessage.label                  "Nid yw cysylltiadau o lyfrau cyfeiriadau pell yn cael eu dangos nes eich bod yn chwilio">
 <!-- File Menu -->
 <!ENTITY fileMenu.label                                 "Ffeil">
 <!ENTITY fileMenu.accesskey                             "F">
@@ -161,6 +161,8 @@ because displayed names don't have the comma in between. -->
 <!ENTITY searchItem.title "Chwilio Cyflym">
 <!-- Results Pane -->
 
+<!ENTITY Addrbook.label                                 "Llyfr Cyfeiriadau">
+<!ENTITY Addrbook.accesskey                             "L">
 <!ENTITY GeneratedName.label                            "Enw">
 <!ENTITY GeneratedName.accesskey                        "n">
 <!ENTITY PrimaryEmail.label                             "E-bost">
