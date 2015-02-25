@@ -6,4 +6,4 @@
 <!ENTITY  listAllTabs.label        "Navedi vse zavihke">
 <!-- LOCALIZATION NOTE(defaultTabTitle.label): This is the default tab
      title to show when the tab has no title. -->
-<!ENTITY  defaultTabTitle.label    "Domov">
+<!ENTITY  defaultTabTitle.label    "Začetna stran">
