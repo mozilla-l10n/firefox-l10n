@@ -79,8 +79,8 @@
 <!ENTITY certmgr.details.accesskey            "ж">
 <!ENTITY certmgr.fields.label                 "Жол мәні">
 <!ENTITY certmgr.fields.accesskey             "м">
-
-
+<!ENTITY certmgr.hierarchy.label              "Сертификаттар иерархиясы">
+<!ENTITY certmgr.hierarchy.accesskey2         "х">
 <!ENTITY certmgr.addException.label           "Ерекше ереже қосу...">
 <!ENTITY certmgr.addException.accesskey       "р">
 
