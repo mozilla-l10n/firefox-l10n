@@ -19,6 +19,18 @@
 <!ENTITY dnsNotFound.title "រក​មិន​ឃើញ​ម៉ាស៊ីន​បម្រើ">
 <!-- LOCALIZATION NOTE (dnsNotFound.longDesc4) This string contains markup including widgets for searching
      or enabling wifi connections. The text inside tags should be localized.  Do not change the ids. -->
+<!ENTITY dnsNotFound.longDesc4 "<ul> 
+<li>ពិនិត្យមើល​អាសយដ្ឋាន​សម្រាប់​កំហុស​​ការ​វាយ​បញ្ចូល មាន​ដូចជា 
+<strong>ww</strong>.example.com ជំនួស​ឲ្យ 
+<strong>www</strong>.example.com</li> 
+<div id='searchbox'> 
+<input id='searchtext' type='search'></input> 
+<button id='searchbutton'>ស្វែងរក</button> 
+</div> 
+<li>បើ​អ្នក​មិន​អាច​ផ្ទុក​ទំព័រ​បាន​ទេ សូម​ពិនិត្យ​ទិន្នន័យ​ឧបករណ៍ ឬ​ការ​តភ្ជាប់​វ៉ាយហ្វាយ​របស់​អ្នក។ 
+<button id='wifi'>បើក​វ៉ាយហ្វាយ</button> 
+</li> 
+</ul>">
 
 <!ENTITY fileNotFound.title "រក​មិន​ឃើញ​ឯកសារ">
 <!ENTITY fileNotFound.longDesc "<ul> 
@@ -33,6 +45,16 @@
 <!ENTITY malformedURI.title "អាសយដ្ឋាន​មិនត្រឹមត្រូវ">
 <!-- LOCALIZATION NOTE (malformedURI.longDesc2) This string contains markup including widgets for searching
      or enabling wifi connections. The text inside the tags should be localized. Do not touch the ids. -->
+<!ENTITY malformedURI.longDesc2 "<ul> 
+<li>ជាទូទៅ​អាសយដ្ឋាន​វេប​ត្រូវ​បាន​សរសេរ​ដូច​នេះ 
+<strong>http://www.example.com/</strong></li> 
+<div id='searchbox'> 
+<input id='searchtext' type='search'></input> 
+<button id='searchbutton'>ស្វែងរក</button> 
+</div> 
+<li>សូម​ប្រាកដ​ថា​អ្នក​កំពុង​ប្រើ​សញ្ញា / (គឺ 
+<strong>/</strong>).</li> 
+</ul>">
 
 <!ENTITY netInterrupt.title "ការ​តភ្ជាប់​ត្រូវ​បាន​កាត់​ផ្តាច់">
 <!ENTITY netInterrupt.longDesc2 "&sharedLongDesc3;">
