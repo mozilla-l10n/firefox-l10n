@@ -16,8 +16,8 @@
 
 
 
-<!ENTITY mboxStore.label               "Tek bir büyük dosya (mbox)">
-<!ENTITY maildirStore.label            "Her ileti için bir dosya (maildir)">
+
+
 
 <!ENTITY scrolling.label               "Kaydırma">
 <!ENTITY useAutoScroll.label           "Otomatik kaydırmayı kullan">
