@@ -20,12 +20,14 @@
 
 <!ENTITY calendar.deletecalendar.label          "Sguab às am mìosachan a thagh thu…">
 <!ENTITY calendar.deletecalendar.accesskey      "S">
-
-
+<!ENTITY calendar.unsubscribecalendar.label     "Cuir crìoch air an fho-sgrìobhadh gun mhìosachan a thagh thu…">
+<!ENTITY calendar.unsubscribecalendar.accesskey "u">
 <!-- LOCALIZATION NOTE (calendar.removecalendar.label): Removing the calendar
       is the general action of removing it, while deleting means to clear the
       data and unsubscribing means just taking it out of the calendar list. -->
 
+<!ENTITY calendar.removecalendar.label          "Thoir air falbh am mìosachan a thagh thu…">
+<!ENTITY calendar.removecalendar.accesskey      "r">
 
 
 <!ENTITY calendar.menu.customize.label          "Gnàthaich…">
