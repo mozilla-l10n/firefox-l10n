@@ -14,6 +14,8 @@
 <!ENTITY sync.title.pair.label "Cihazları sinxronizasiya et">
 <!-- J-PAKE Key Screen -->
 
+<!ENTITY sync.subtitle.connect.label "Yeni cihazınızı aktiv etmək üçün cihazda “&syncBrand.shortName.label; Qur” seçin.">
+<!ENTITY sync.subtitle.header2.label "Bu kodu digər cihazınızda daxil edin">
 
 <!ENTITY sync.subtitle.pair.label "Aktivləşdirmək üçün digər cihazda “Sinxronlaşdırma” seçin.">
 <!ENTITY sync.pin.default.label "...\n...\n...\n">
@@ -39,7 +41,7 @@
 <!ENTITY sync.button.tryagain.label "Yeniden dene">
 <!ENTITY sync.button.manual.label "Əllə qurma">
 <!ENTITY sync.subtitle.nointernet.label "İnternet bağlantısı yoxdur.">
-
+<!ENTITY sync.subtitle.failaccount.label "Cihazınızda hesab yaratma uğursuz oldu.">
 
 <!-- Setup Success -->
 
@@ -50,11 +52,11 @@
 <!-- Pair Device -->
 
 <!ENTITY sync.pair.tryagain.label "Lütfən tekrar yoxlayın.">
-
+<!ENTITY sync.pair.connectlocation.label "Yeni cihazınızı aktiv etmək üçün cihazda “&syncBrand.shortName.label; Qur” seçin və daha sonra “Hesabım var” seçin.">
 <!-- Firefox SyncAdapter Settings Screen -->
 
 <!ENTITY sync.settings.options.label "Nizamlar">
-
+<!ENTITY sync.summary.pair.label "Digər cihazınızı &syncBrand.shortName.label; hesabınıza bağlayın">
 <!-- Configure Engines -->
 
 <!ENTITY sync.configure.engines.title.label "Sinxronlaşdırılacaq hissələr">
@@ -89,20 +91,23 @@
 <!ENTITY bookmarks.folder.mobile.label "Mobil Əlfəçinlər">
 <!ENTITY bookmarks.folder.readinglist.label "Oxuma Siyahısı">
 <!-- Pinned sites on about:home. This folder should never be shown to the user, but we have to give it a string name -->
+<!ENTITY bookmarks.folder.pinned.label "Sabitlənmiş">
 <!-- Notification strings -->
 
+<!ENTITY sync.notification.oneaccount.label "Ancaq bir &syncBrand.fullName.label; hesabı dəstəklənir.">
+<!ENTITY sync.notification.configure.saved "Seçimləriniz yadda saxlandı.">
 <!-- Incorrect settings and changing credentials. -->
 
 <!ENTITY sync.invalidcreds.label "Yanlış hesab adı ya da şifrə">
 <!ENTITY sync.invalidserver.label "Lütfən etibarlı bir server ünvanı daxil edin">
 <!ENTITY sync.verifying.label "Təsdiqlənir…">
-
+<!ENTITY sync.new.recoverykey.status.incorrect "Bərpa Açarı səhvdir. Lütfən təkrar yoxlayın.">
 <!-- Send tab to device. -->
 
 <!ENTITY sync.title.send.tab.label "Vərəqi cihaza göndər">
 <!ENTITY sync.button.send.label "Göndər">
-
-
+<!ENTITY sync.button.set.up.sync.label "&syncBrand.shortName.label;-i qur">
+<!ENTITY sync.title.redirect.to.set.up.sync.label "Vərəqləri göndərmək üçün &syncBrand.shortName.label;-i qurun">
 
 <!ENTITY sync.text.tab.sent.label "Vərəqiniz göndərildi!">
 <!ENTITY sync.text.tab.not.sent.label "Vərəqinizi göndərərkən problem oldu.">
@@ -112,7 +117,7 @@
 <!ENTITY fxaccount_full_label "Firefox Hesabları">
 
 <!ENTITY fxaccount_custom_server_account_title "Serverdəki hesab istifadə edilir">
-
+<!ENTITY fxaccount_custom_server_sync_title "Sync məlumatları serverdə saxlanılır">
 <!-- Localization note: these are shown in all screens that query the
      user for an email address and password. Hide and show are button
      labels. -->
@@ -136,19 +141,20 @@
 <!ENTITY fxaccount_policy_linkprivacy "Məxfilik Bildirişi">
 
 <!ENTITY fxaccount_getting_started_welcome_to_sync "&syncBrand.shortName.label;-ə xoş gəldiniz">
-
-
-
+<!ENTITY fxaccount_getting_started_description "Vərəq, əlfəcin, şifrə və daha bir çox məlumatınızı sinxronlaşdırmaq üçün daxil olun.">
+<!ENTITY fxaccount_getting_started_get_started "Başla">
+<!ENTITY fxaccount_getting_started_old_firefox "Köhnə &syncBrand.shortName.label; işlədirsiz?">
 <!-- Localization note: the Firefox below should not change with the
      particular version of Firefox installed (Release, Beta, Aurora,
      etc).  The account remains a "Firefox Account". -->
 
 <!ENTITY fxaccount_create_account_header2 "Firefox Hesabı yarat">
 <!ENTITY fxaccount_create_account_password_length_restriction "Ən az 8 simvol olmalıdır">
-
-
+<!ENTITY fxaccount_create_account_day_of_birth "Gün">
+<!ENTITY fxaccount_create_account_month_of_birth "Ay">
 <!ENTITY fxaccount_create_account_year_of_birth "Doğum tarixi">
 <!-- Localization note: &formatS1; is fxaccount_policy_linktos, &formatS2; is fxaccount_policy_linkprivacy, both hyperlinked. -->
+<!ENTITY fxaccount_create_account_policy_text2 "Davam etməklə Firefox buluq xidmətlərinin &formatS1; və &formatS2; ilə razıyam.">
 <!ENTITY fxaccount_create_account_button "İrəli">
 <!ENTITY fxaccount_create_account_choose_what_to_sync "Nələrin sinxronlaşdırılacağını seç">
 <!ENTITY fxaccount_create_account_sign_in_instead "Artıq hesabınız var? Daxil olun">
@@ -156,17 +162,19 @@
 <!ENTITY fxaccount_create_account_unknown_error "Hesab yaradıla bilmir">
 
 <!ENTITY fxaccount_account_create_not_allowed "Hesab yaradıla bilmir">
-
+<!ENTITY fxaccount_account_create_not_allowed_you_must_meet_certain_age_requirements "Hesab yatarmaq üçün müəyyən yağ tələblərinə cavab verməlisiniz.">
 <!ENTITY fxaccount_account_create_not_allowed_learn_more "Daha çox">
 
+<!ENTITY fxaccount_confirm_account_header "Hesabınızı təsdiqləyin">
 <!-- Localization note: &formatS; is the Firefox Account's email address. -->
-
-
-
-
-
-
-
+<!ENTITY fxaccount_confirm_account_verification_link "&formatS; ünvanına təsdiq keçidi göndərildi">
+<!ENTITY fxaccount_confirm_account_resend_email "E-poçtu təkrar göndər">
+<!ENTITY fxaccount_confirm_account_change_email "Bu e-poçt ünvanı unudulsun?">
+<!ENTITY fxaccount_confirm_account_verification_link_sent2 "Təsdiq e-poçtu göndərildi">
+<!ENTITY fxaccount_confirm_account_verification_link_not_sent2 "Təsdiq e-poçtu göndərilə bilmir">
+<!ENTITY fxaccount_resend_unlock_code_button_label "Kilid açma e-poçtunu təkrar göndər">
+<!ENTITY fxaccount_unlock_code_sent "Hesab kilid açma e-poçtu göndərildi">
+<!ENTITY fxaccount_unlock_code_not_sent "Hesab kilid açma e-poçtu göndərilə bilmədi">
 
 <!ENTITY fxaccount_sign_in_sub_header "Daxil ol">
 <!ENTITY fxaccount_sign_in_button_label "Daxil ol">
@@ -178,11 +186,12 @@
 
 
 
+<!ENTITY fxaccount_update_credentials_button_label "Daxil ol">
+<!ENTITY fxaccount_update_credentials_unknown_error "Daxil ola bilmir">
 
-
-
-
-
+<!ENTITY fxaccount_finish_migrating_header "Yüksəltməyi tamamlamaq üçün daxil olun">
+<!ENTITY fxaccount_finish_migrating_button_label "Yüksəltməyi bitir">
+<!ENTITY fxaccount_finish_migrating_description "Versiya yüksəltmə çoxlu məlumat transfer edə bilər. Ən yaxşısı Wi-Fi şəbəkədə olmaqdır.">
 
 <!ENTITY fxaccount_status_header2 "Firefox Hesabı">
 <!ENTITY fxaccount_status_signed_in_as "Daxil olan">
@@ -193,15 +202,15 @@
 <!ENTITY fxaccount_status_sync_server "Sync serveri">
 <!ENTITY fxaccount_status_sync "&syncBrand.shortName.label;">
 <!ENTITY fxaccount_status_sync_enabled "&syncBrand.shortName.label;: aktivdir">
+<!ENTITY fxaccount_status_needs_verification2 "Hesabınız təsdiqlənməlidir. Təsdiq e-poçtunu təkrar göndərmək üçün toxunun.">
+<!ENTITY fxaccount_status_needs_credentials "Qoşula bilmir. Daxil olmaq üçün toxunun.">
+<!ENTITY fxaccount_status_needs_upgrade "Daxil olmaq üçün &brandShortName; səyyahınızı yüksəltməlisiniz.">
 
 
 
-
-
-
-
+<!ENTITY fxaccount_status_bookmarks "Əlfəcinlər">
 <!ENTITY fxaccount_status_history "Tarixçə">
-
+<!ENTITY fxaccount_status_passwords "Şifrələr">
 
 
 <!-- Localization note: when tapped, the following two strings link to
@@ -253,3 +262,4 @@
 
 <!-- Localization note: the format string below will be replaced
      with the Firefox Account's email address. -->
+<!ENTITY fxaccount_sync_finish_migrating_notification_text "&formatS; olaraq dazil olmaq üçün toxunun">

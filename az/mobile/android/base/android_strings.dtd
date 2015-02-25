@@ -6,7 +6,8 @@
 <!ENTITY  no_space_to_start_error "&brandShortName; səyyahının başladılması üçün yetərli boş yaddaş yoxdur.">
 <!ENTITY  error_loading_file "&brandShortName; başladılması üçün zəruri olan faylların yüklənilməsi zamanı xəra baş verdi.">
 
-
+<!ENTITY  onboard_start_message2 "&brandShortName; səyyahına xoş gəlmisiniz">
+<!ENTITY  onboard_start_subtext2 "Hər zamankından daha çox məxfilik özəllikləri və şəxsiləşdirmələr.">
 <!ENTITY  onboard_start_button_account "&brandShortName;-a daxil olun">
 <!ENTITY  onboard_start_button_browser "Səyahətə başla">
 <!-- Localization note: These are used as the titles of different pages on the home screen.
@@ -74,7 +75,7 @@
 <!ENTITY switch_button_message "DƏYİŞDİR">
 
 <!ENTITY settings "Seçimlər">
-
+<!ENTITY settings_title "Tənzimləmələr">
 <!ENTITY pref_category_advanced "Mütərəqqi">
 <!ENTITY pref_category_customize "Fərdiləşdir">
 <!ENTITY pref_category_customize_summary "Ev, axtar, vərəqlər, daxil et">
@@ -98,6 +99,8 @@
 <!-- Localization note (overlay_share_bookmark_btn_label) : This string is
      used in the share overlay menu to select an action. It is the verb
      "to bookmark", not the noun "a bookmark". -->
+
+<!ENTITY overlay_share_bookmark_btn_label "Əlfəcin">
 <!ENTITY overlay_share_reading_list_btn_label "Oxuma Siyahısına əlavə et">
 <!ENTITY overlay_share_bookmark_btn_label_already "Artıq əlfəcinlərdədir">
 <!ENTITY overlay_share_reading_list_btn_label_already "Artıq Oxuma Siyahısındadır">
@@ -109,9 +112,10 @@
 
 <!ENTITY overlay_share_send_tab_btn_label "Başqa cihaza göndər">
 <!ENTITY overlay_share_no_url "Bu paylaşımda link tapılmadı">
-
+<!ENTITY overlay_share_retry "Təkrar yoxla">
 <!ENTITY overlay_share_select_device "Cihaz seçin">
 
+<!ENTITY pref_category_search3 "Axtar">
 <!ENTITY pref_category_search_summary "Axtarış sistemini xüsusiləşdirin">
 <!ENTITY pref_category_display "Görünüş">
 <!ENTITY pref_category_display_summary "Mətn, başlıq sətri, tam ekranda səyahət">
@@ -125,7 +129,7 @@
 <!ENTITY pref_category_add_search_providers "Daha çox axtarış sistemi əlavə edin">
 <!ENTITY pref_category_search_restore_defaults "Axtarış mühərriklərini bərpa edin">
 <!ENTITY pref_search_restore_defaults "İlkin tənzimləmələri bərpa et">
-
+<!ENTITY pref_search_restore_defaults_summary "İlkin tənzimləmələri bərpa et">
 <!-- Localization note (pref_search_hint) : "TIP" as in "hint", "clue" etc. Displayed as an
      advisory message on the customise search providers settings page explaining how to add new
      search providers.
@@ -155,14 +159,16 @@
 <!ENTITY pref_home_suggested_sites_summary "Sizin üçün maraqlı ola biləcəyini düşündüyümüz saytların qısa yollarını ana səhifənizdə göstərir">
 <!-- Localization note: These are shown in the left sidebar on tablets -->
 
-
+<!ENTITY pref_header_customize "Şəxsiləşdir">
+<!ENTITY pref_header_display "Görünüş">
+<!ENTITY pref_header_privacy_short "Məxfilik">
 <!ENTITY pref_header_help "Kömək">
-
-
-
+<!ENTITY pref_header_language "Dil">
+<!ENTITY pref_header_vendor "&vendorShortName;">
+<!ENTITY pref_header_devtools "Tərtibatçı alətləri">
 
 <!ENTITY pref_cookies_menu "Cookielər">
-
+<!ENTITY pref_cookies_accept_all "Aktiv">
 <!ENTITY pref_cookies_not_accept_foreign "Aktivdir, 3-cü tərəf xaric">
 <!ENTITY pref_cookies_disabled "Söndürülüb">
 
@@ -180,9 +186,9 @@
 <!ENTITY pref_clear_on_exit_summary2 "Əsas menyudan \u0022Çıx\u0022 seçdiyiniz zaman &brandShortName; sizin məlumatlarınız avtomatik təmizləyəcək">
 <!ENTITY pref_clear_on_exit_dialog_title "Hansı məlumatın təmizlənəcəyini seçin">
 <!ENTITY pref_plugins "Əlavə proqramlar">
-
+<!ENTITY pref_plugins_enabled "Aktiv">
 <!ENTITY pref_plugins_tap_to_play "Oxutmaq üçün ekrana toxunun">
-
+<!ENTITY pref_plugins_disabled "Söndürülüb">
 <!ENTITY pref_text_size "Mətn ölçüsü">
 <!ENTITY pref_reflow_on_zoom4 "Mətn axını">
 <!ENTITY pref_restore "Vərəqlər">
@@ -199,6 +205,7 @@
 same character/combination is used to increase the preview font size. It should be a concise
 representation of the language it is used in that will help show the text in the preview will change
 size. -->
+<!ENTITY pref_font_size_adjust_char "A">
 <!-- Localization note (pref_font_size_preview_text): This paragraph is used as an example to
     demonstrate the font size setting.  It is meant to be whimsical and fun. -->
 
@@ -206,7 +213,7 @@ size. -->
 
 <!ENTITY pref_media_autoplay_enabled "Avtomatik oxutmağa icazə ver">
 <!ENTITY pref_media_autoplay_enabled_summary "Səhifələrin video və digər media məzmunlarını avtomatik oxudub oxutmayacaqlarını idarə et">
-
+<!ENTITY pref_zoom_force_enabled "Yaxınlaşdırmanı həmişə aktiv saxla">
 
 
 <!ENTITY pref_use_master_password "Ana şifrədən istifadə et">
@@ -269,15 +276,17 @@ size. -->
      specifically, since the pref only prevents automatic downloads and not the
      actual notification that an update is available. -->
 <!ENTITY pref_update_autodownload2 "Yeniləmələri avtomatik endir">
-
+<!ENTITY pref_update_autodownload_wifi "Yalnız Wi-Fi üzərindən">
 <!ENTITY pref_update_autodownload_never "Heç vaxt">
 <!ENTITY pref_update_autodownload_always "Həmişə">
 <!-- Localization note (help_menu) : This string is used in the main menu-->
 
+<!ENTITY help_menu "Kömək">
+
 <!ENTITY quit "Çıx">
 
 <!ENTITY addons "Əlavələr">
-
+<!ENTITY downloads "Endirilənlər">
 <!ENTITY apps "Tətbiqlər">
 <!ENTITY char_encoding "Simvol kodlaşdırması">
 
@@ -293,7 +302,7 @@ size. -->
 <!ENTITY new_private_tab "Yeni Məxfi Vərəq">
 <!ENTITY close_all_tabs "Bütün vərəqləri qapat">
 <!ENTITY close_private_tabs "Məxfi vərəqləri qapat">
-
+<!ENTITY tabs_normal "Vərəqlər">
 <!ENTITY tabs_private "Məxfi">
 <!ENTITY tabs_synced "Sinxronlaşdırılmış">
 <!ENTITY set_image_fail "Şəkil təyin edilə bilmədi">
@@ -301,29 +310,31 @@ size. -->
 <!ENTITY set_image_chooser_title "Şəkli təyin et">
 <!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
+
+<!ENTITY find_text "Səhifədə Tap">
 <!ENTITY find_prev "Əvvəlkini tap">
 <!ENTITY find_next "İrəli">
-
+<!ENTITY find_close "Qapat">
 <!-- Localization note (media_sending_to, media_play, media_pause, media_stop) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
 
 <!ENTITY media_sending_to "Cihaza göndərilir">
 <!ENTITY media_play "Göstər">
 <!ENTITY media_pause "Dayandır">
-
+<!ENTITY media_stop "Dayan">
 
 <!ENTITY contextmenu_open_new_tab "Yeni vərəqdə aç">
 <!ENTITY contextmenu_open_private_tab "Məxvi vərəqdə aç">
-
+<!ENTITY contextmenu_remove "Sil">
 <!ENTITY contextmenu_add_to_launcher "Ana ekrana əlavə et">
-
+<!ENTITY contextmenu_share "Paylaş">
 <!ENTITY contextmenu_pasteandgo "Yapıştır ve aç">
 <!ENTITY contextmenu_paste "Yapıştır">
 <!ENTITY contextmenu_copyurl "Ünvanı Köçür">
 <!ENTITY contextmenu_edit_bookmark "Düzəlt">
 <!ENTITY contextmenu_subscribe "Səhifəyə abunə ol">
 <!ENTITY contextmenu_site_settings "Sayt tənzimləmələrini dəyiş">
-
+<!ENTITY contextmenu_top_sites_edit "Düzəlt">
 <!ENTITY contextmenu_top_sites_pin "Saytı bərkid">
 <!ENTITY contextmenu_top_sites_unpin "Saytı pindən çıxart">
 <!ENTITY contextmenu_add_search_engine "Axtarış mühərriyi əlavə et">
@@ -350,7 +361,7 @@ size. -->
      dialog that appears after selecting the "Edit Site Settings" context menu item. -->
 
 <!ENTITY site_settings_title3       "Sayt Tənzimləmələri">
-
+<!ENTITY site_settings_cancel       "Ləğv et">
 <!ENTITY site_settings_clear        "Təmizlə">
 <!ENTITY site_settings_no_settings  "Silinəcək tənzimləmə yoxdur.">
 
@@ -373,12 +384,12 @@ size. -->
 <!ENTITY masterpassword_confirm "Şifrəni təsdiqləyin">
 
 <!ENTITY button_ok "Oldu">
-
+<!ENTITY button_cancel "Ləğv et">
 <!ENTITY button_yes "Hə">
 <!ENTITY button_no "Xeyir">
 <!ENTITY button_clear_data "Məlumatları təmizlə">
-
-
+<!ENTITY button_set "Qur">
+<!ENTITY button_clear "Təmizlə">
 
 <!ENTITY home_top_sites_title "Qabaqcıl saytlar">
 <!-- Localization note (home_top_sites_add): This string is used as placeholder
@@ -388,7 +399,7 @@ size. -->
      with the page title defined in aboutHome.dtd -->
 
 <!ENTITY home_title "&brandShortName; Ana Səhifə">
-
+<!ENTITY home_history_title "Tarixçə">
 <!ENTITY home_clear_history_button "Səyahət keçmişini təmizlə">
 <!ENTITY home_clear_history_confirm "Keçmişi təmizləmək istədiyinizə əminsiniz?">
 <!ENTITY home_bookmarks_empty "Saxladığınız əlfəcinlər burada görünür.">
@@ -441,15 +452,16 @@ size. -->
 <!ENTITY home_remote_tabs_unhide_selected_devices "Seçilən cihazları göstər">
 
 <!ENTITY private_browsing_title "Gizli baxış">
-
+<!ENTITY private_tabs_panel_empty_desc "Məxvi vərəqləriniz burada göstəriləcək. Biz səyahət tarixçənizi və çərəzlərinizi yadda saxlamasaq da, əlfəcin və endirilən fayllarınız cihazın yadında qalacaq.">
 <!ENTITY private_tabs_panel_learn_more "Ətraflı öyrənmək istərdiniz?">
 
 <!ENTITY remote_tabs_panel_moved_title "Vərəqlərim hara gedib?">
-
+<!ENTITY remote_tabs_panel_moved_desc "Digər cihazlarınızdan olan vərəqləri hər vərəq açdığınızda rahat istifadə edə biləsiniz deyə ana səhifədə xüsusi bölümə keçirtdik.">
 <!ENTITY remote_tabs_panel_moved_link "Məni yeni panelimə götür.">
 
 <!ENTITY pin_site_dialog_hint "Axtarış açarını daxil edin">
 
+<!ENTITY filepicker_title "Fayl Seç">
 <!ENTITY filepicker_audio_title "Səsi seçin və ya yazın">
 <!ENTITY filepicker_image_title "Şəkli seçin və ya çəkin">
 <!ENTITY filepicker_video_title "Videonu seçin və ya çəkin">
@@ -478,9 +490,9 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- Tracking content notifications in site identity popup -->
 
 <!ENTITY loaded_tracking_content_message_top "İzlənmə qoruması söndürülüb.">
-
-
-
+<!ENTITY loaded_tracking_content_message_bottom "Bu səhifənin bəzi hissələri sizin onlayn aktivliyinizi izləyə bilər.">
+<!ENTITY blocked_tracking_content_message_top2 "İzlənmə qoruması aktivdir.">
+<!ENTITY blocked_tracking_content_message_bottom2 "Səhifənin onlayn aktivliyinizi izləyən hissələri bloklandı.">
 <!-- Common mixed and tracking content strings in site identity popup -->
 
 <!ENTITY learn_more "Daha çox məlumat alın">
@@ -520,32 +532,41 @@ daxil edilir">
 <!ENTITY updater_downloading_select2 "Endirildikdən sonra yeniləməli tətbiq etmək üçün toxunun">
 <!ENTITY updater_downloading_retry2 "Yenidən yoxlamaq üçün toxunun">
 
+<!ENTITY updater_apply_title2 "&brandShortName; üçün yeniləmə mövcuddur">
 <!ENTITY updater_apply_select2 "Yeniləmək üçün toxunun">
 <!-- Guest mode -->
 
 <!ENTITY new_guest_session "Yeni Qonaq Sessiyası">
 <!ENTITY exit_guest_session "Qonaq Sessiyasında Çıx">
 <!ENTITY guest_session_dialog_continue "İrəli">
-
+<!ENTITY guest_session_dialog_cancel "Ləğv et">
 <!ENTITY new_guest_session_title "&brandShortName; indi yenidən başlayacaq">
 
 <!ENTITY guest_browsing_notification_title "Qonaq səyahəti aktivdir">
 <!ENTITY guest_browsing_notification_text "Çıxmaq üçün toxunun">
 
-
+<!ENTITY exit_guest_session_title "&brandShortName; indi yenidən başlayacaq">
+<!ENTITY exit_guest_session_text "Bu sessiyadan olan səyahət məlumatları silinəcək.">
 <!-- Miscellaneous -->
 <!-- LOCALIZATION NOTE (ellipsis): This text is appended to a piece of text that does not fit in the
      designated space. Use the unicode ellipsis char, \u2026, or use "..." if \u2026 doesn't suit
      traditions in your locale. -->
 
+<!ENTITY ellipsis "…">
+
+<!ENTITY colon ":">
 <!-- These are only used for accessibility for the done and overflow-menu buttons in the actionbar.
      They are never shown to users -->
+
+<!ENTITY actionbar_menu "Menyu">
 <!ENTITY actionbar_done "Oldu">
 <!-- Voice search in the awesome bar -->
 
-
-
-
+<!ENTITY voicesearch_prompt "İndi danış">
+<!ENTITY voicesearch_failed_title "&brandShortName; Səsli Axtarış">
+<!ENTITY voicesearch_failed_message "Hazırsa səsli axtarışla bağlı problem var. Lütfən daha sonra yoxlayın.">
+<!ENTITY voicesearch_failed_message_recoverable "Bağışlayın! Sözlərinizi ayırd edə bilmədik. Lütfən təkrar yoxlayın.">
+<!ENTITY voicesearch_failed_retry "Təkrar yoxlayın">
 <!-- Localization note (remote_tabs_last_synced): the variable is replaced by a
      "relative time span string" produced by Android.  This string describes the
      time the tabs were last synced relative to the current time; examples
@@ -555,6 +576,7 @@ daxil edilir">
 
 <!ENTITY remote_tabs_last_synced "Son sinxronlaşdırma: &formatS;">
 <!-- Localization note: Used when the sync has not happend yet, showed in place of a date -->
+<!ENTITY remote_tabs_never_synced "Son sinxronlaşma: heç vaxt">
 <!-- Find-In-Page strings -->
 <!-- LOCALIZATION NOTE (find_matchcase): This is meant to appear as an icon that changes color
      if match-case is activated. i.e. No more than two letters, one uppercase, one lowercase. -->
