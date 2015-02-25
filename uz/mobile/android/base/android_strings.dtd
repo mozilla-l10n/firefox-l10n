@@ -430,13 +430,13 @@ size. -->
 <!ENTITY home_move_up_to_filter "Tepaga &formatS;">
 
 <!ENTITY home_remote_tabs_title "Sinxronlangan ichki oynalar">
-<!ENTITY home_remote_tabs_empty "Boshqa qurilmalaringizdagi ichki oynalar bu yerda ko‘rsatiladi.">
+<!ENTITY home_remote_tabs_empty "Boshqa qurilmalaringizdagi ichki oynalar bu yerda ko‘rinadi.">
 <!ENTITY home_remote_tabs_unable_to_connect "Ulana olmadi">
 <!ENTITY home_remote_tabs_need_to_sign_in "Firefox hisobingizga qayta ulanish va sinxornlashni davom ettirish uchun kiring.">
 <!ENTITY home_remote_tabs_need_to_finish_migrating "Sizning yangi \&quot;Firefox hisobi\&quot;ngiz tayyor!">
 
 <!ENTITY home_remote_tabs_trouble_verifying "Hisobingizni tasdiqlashda muammo yuz berdimi?">
-<!ENTITY home_remote_tabs_need_to_verify "Sinxronlashni boshlash uchun Firefox hisobingizni tasdiqlang.">
+<!ENTITY home_remote_tabs_need_to_verify "Sinxronlashni boshlash uchun \&quot;Firefox hisobi\&quot;ngizni tasdiqlang.">
 
 <!ENTITY home_remote_tabs_one_hidden_device "1 ta qurilma yashirilgan">
 <!-- Localization note (home_remote_tabs_many_hidden_devices) : The
@@ -452,11 +452,11 @@ size. -->
 <!ENTITY home_remote_tabs_unhide_selected_devices "Tanlangan qurilmalarni ko‘rsatish">
 
 <!ENTITY private_browsing_title "Maxfiy ko‘rish">
-<!ENTITY private_tabs_panel_empty_desc "Maxfiy ichki oynalaringiz bu yerda ko‘rinadi. Biz ko‘rish tarixi yoki kukilar, xatcho‘plar va fayllarni saqlamasak ham, yuklab olgan narsalaringiz qurilmada saqlanib qoladi.">
+<!ENTITY private_tabs_panel_empty_desc "Maxfiy ichki oynalaringiz bu yerda ko‘rinadi. Ko‘rish tarixi yoki kukilar, xatcho‘plar va fayllarni saqlamasak ham, yuklab olgan narsalaringiz qurilmada saqlanib qoladi.">
 <!ENTITY private_tabs_panel_learn_more "Ko‘proq o‘rganishni xohlaysizmi?">
 
 <!ENTITY remote_tabs_panel_moved_title "Ichki oynalarim qayerga ketdi?">
-<!ENTITY remote_tabs_panel_moved_desc "Har safar yangi ichki oyna ochishni oson qilish uchun biz sizning boshqa qurilmalardagi ichki oynalaringizni uy sahifangizdagi panelga ko‘chirdik.">
+<!ENTITY remote_tabs_panel_moved_desc "Har safar yangi ichki oyna ochishni oson qilish uchun biz boshqa qurilmalardagi ichki oynalaringizni uy sahifangizdagi panelga ko‘chirdik.">
 <!ENTITY remote_tabs_panel_moved_link "Meni yangi panelimga o‘tkaz.">
 
 <!ENTITY pin_site_dialog_hint "Izlash uchun kalit so‘zni kiriting">
@@ -480,8 +480,8 @@ substitution variables.  If it is difficult to translate the sense of the string
 with that structure, consider a translation which ignores the preceding domain and
 just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_run_by "ushbu tomonidan bajariladi:">
-<!ENTITY identity_no_info "Ushbu vebsahifa ma’lumotni tasdiqdan o‘tkazishni qo‘llamaydi.">
-<!ENTITY identity_not_encrypted "Ushbu vebsaytga ulanish kodlanmagan.">
+<!ENTITY identity_no_info "Ushbu sayt ma’lumotni tasdiqdan o‘tkazishni qo‘llamaydi.">
+<!ENTITY identity_not_encrypted "Ushbu saytga ulanish kodlanmagan.">
 <!-- Mixed content notifications in site identity popup -->
 
 <!ENTITY loaded_mixed_content_message "Ushbu sahifa xavfsiz bo‘lmagan tarkibni ko‘rsatmoqda.">
