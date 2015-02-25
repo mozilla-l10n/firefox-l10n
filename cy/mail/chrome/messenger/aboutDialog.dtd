@@ -41,7 +41,7 @@
 <!ENTITY helpus.donateLink          "Gwneud cyfraniad">
 <!ENTITY helpus.middle              " neu ">
 <!-- LOCALIZATION NOTE (helpus.getInvolvedLink): This is a link title that links to http://www.mozilla.org/contribute/. -->
-<!ENTITY helpus.getInvolvedLink     "Beth am ymuno!">
+<!ENTITY helpus.getInvolvedLink     "beth am ymuno!">
 <!ENTITY helpus.end                 "">
 <!-- LOCALIZATION NOTE (bottomLinks.license): This is a link title that links to about:license. -->
 

@@ -15,7 +15,7 @@
 <!ENTITY allowHWAccel.label            "Defnyddio cyflymu caledwedd pan fydd ar gael">
 <!ENTITY allowHWAccel.accesskey        "y">
 <!ENTITY storeType.label               "Math o Storio Negeseuon ar gyfer cyfrifon newydd:">
-<!ENTITY storeType.accesskey           "T">
+<!ENTITY storeType.accesskey           "M">
 <!ENTITY mboxStore.label               "Un ffeil fawr (mbox)">
 <!ENTITY maildirStore.label            "Ffeil y neges (maildir)">
 
@@ -47,10 +47,10 @@
 <!ENTITY telemetryLearnMore.label        "Dysgu Rhagor">
 
 <!ENTITY crashReporterSection.label      "Adroddwr Chwalu">
-
-
-
-
+<!ENTITY crashReporterDesc.label         "Mae &brandShortName; yn cyflwyno adroddiadau chwalu i gynorthwyo &vendorShortName; wneud eich rhaglen e-bost yn fwy sefydlog a diogel">
+<!ENTITY enableCrashReporter.label       "Galluogi Adroddwr Chwalu">
+<!ENTITY enableCrashReporter.accesskey   "A">
+<!ENTITY crashReporterLearnMore.label    "Dysgu Rhagor">
 <!-- Display and Reading Settings -->
 
 <!ENTITY reading.caption               "Darllen">
