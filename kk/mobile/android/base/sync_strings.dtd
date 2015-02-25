@@ -150,6 +150,8 @@
 
 <!ENTITY fxaccount_create_account_header2 "Firefox тіркелгісін жасаңыз">
 <!ENTITY fxaccount_create_account_password_length_restriction "Кем дегенде 8 таңба болуы тиіс">
+<!ENTITY fxaccount_create_account_day_of_birth "Күн">
+<!ENTITY fxaccount_create_account_month_of_birth "Ай">
 <!ENTITY fxaccount_create_account_year_of_birth "Туған жылы">
 <!-- Localization note: &formatS1; is fxaccount_policy_linktos, &formatS2; is fxaccount_policy_linkprivacy, both hyperlinked. -->
 <!ENTITY fxaccount_create_account_policy_text2 "Жалғастыру әрекетімен, мен Firefox желідегі қызметтерінің &formatS1; және &formatS2; келісемін.">
@@ -191,7 +193,7 @@
 
 <!ENTITY fxaccount_finish_migrating_header "Жаңартуды аяқтау үшін кіріңіз">
 <!ENTITY fxaccount_finish_migrating_button_label "Жаңартуды аяқтау">
-<!ENTITY fxaccount_finish_migrating_description "Жаңарту біраз деректерді тасымалдауға әкеп соғуы мүмкін. WiFi желісіне қосылғаныңыз дұрыс болады.">
+<!ENTITY fxaccount_finish_migrating_description "Жаңарту біраз деректерді тасымалдауы мүмкін. WiFi желісіне қосылғаныңыз дұрыс болады.">
 
 <!ENTITY fxaccount_status_header2 "Firefox тіркелгісі">
 <!ENTITY fxaccount_status_signed_in_as "Кім ретінде кірген:">
@@ -207,7 +209,6 @@
 <!ENTITY fxaccount_status_needs_upgrade "Кіру үшін сізге &brandShortName; жаңарту керек.">
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled "&syncBrand.shortName.label; бапталған, бірақ, автоматты түрде синхрондалмайды. Android баптаулары &gt; Деректерді қолдану ішінде \&quot;Деректерді автосинхрондауды\&quot; іске қосыңыз.">
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled_v21 "&syncBrand.shortName.label; бапталған, бірақ, автоматты түрде синхрондалмайды. Android баптаулары &gt; Тіркелгілер ішінде \&quot;Деректерді автосинхрондауды\&quot; іске қосыңыз.">
-<!ENTITY fxaccount_status_needs_account_enabled "&syncBrand.shortName.label; бапталған, бірақ, автоматты түрде синхрондалмайды. Бастау үшін шертіңіз.">
 <!ENTITY fxaccount_status_needs_finish_migrating "Сіздің жаңа Firefox тіркелгісіне кіру үшін шертіңіз.">
 <!ENTITY fxaccount_status_bookmarks "Бетбелгілер">
 <!ENTITY fxaccount_status_history "Тарихы">

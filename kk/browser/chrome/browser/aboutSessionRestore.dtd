@@ -13,11 +13,10 @@
 <!ENTITY restorepage.startNew       "Толығымен жаңа сессияны бастау">
 
 <!ENTITY restorepage.tryagainButton "Қалпына келтіру">
-<!ENTITY restorepage.restore.access "а">
-<!ENTITY restorepage.closeButton    "Жабу">
-<!ENTITY restorepage.close.access   "Ж">
 
-<!ENTITY restorepage.restoreHeader  "Қалпына келтіру">
+<!ENTITY restorepage.closeButton    "Жабу">
+
+
 <!ENTITY restorepage.listHeader     "Терезелер мен беттер">
 <!-- LOCALIZATION NOTE: &#37;S will be replaced with a number. -->
 <!ENTITY restorepage.windowLabel    "Терезе &#037;S">
@@ -27,11 +26,10 @@
 
 
 <!ENTITY welcomeback2.restoreButton  "Кеттік!">
-<!ENTITY welcomeback2.restoreButton.access "т">
+
 
 <!ENTITY welcomeback2.tabtitle      "Сәтті!">
 
-<!ENTITY welcomeback2.pageTitle     "Сәтті!">
 <!ENTITY welcomeback2.pageInfo1     "&brandShortName; жұмысқа дайын.">
 
 <!ENTITY welcomeback2.label.restoreAll  "Барлық терезелер және беттерді қалпына келтіру.">
