@@ -608,7 +608,7 @@
 <!ENTITY folderContextOpenNewTab.label "Odpri v novem zavihku">
 <!ENTITY folderContextOpenNewTab.accesskey "z">
 <!ENTITY folderContextNew.label "Nova podmapa …">
-<!ENTITY folderContextNew.accesskey "d">
+<!ENTITY folderContextNew.accesskey "N">
 <!ENTITY folderContextRename.label "Preimenuj">
 <!ENTITY folderContextRename.accesskey "P">
 <!ENTITY folderContextRemove.label "Izbriši">
@@ -618,13 +618,13 @@
 <!ENTITY folderContextEmptyTrash.label "Izprazni Koš">
 <!ENTITY folderContextEmptyTrash.accesskey "a">
 <!ENTITY folderContextEmptyJunk.label "Odstrani neželeno pošto">
-<!ENTITY folderContextEmptyJunk.accesskey "p">
+<!ENTITY folderContextEmptyJunk.accesskey "d">
 <!ENTITY folderContextSendUnsentMessages.label "Pošlji neposlana sporočila">
 <!ENTITY folderContextSendUnsentMessages.accesskey "P">
 <!ENTITY folderContextUnsubscribe.label "Odjavi naročnino">
 <!ENTITY folderContextUnsubscribe.accesskey "d">
 <!ENTITY folderContextMarkNewsgroupRead.label "Označi novičarsko skupino kot prebrano">
-<!ENTITY folderContextMarkNewsgroupRead.accesskey "n">
+<!ENTITY folderContextMarkNewsgroupRead.accesskey "O">
 <!ENTITY folderContextMarkMailFolderRead.label "Označi mapo kot prebrano">
 <!ENTITY folderContextMarkMailFolderRead.accesskey "O">
 <!ENTITY folderContextSubscribe.label "Naroči se …">
@@ -636,11 +636,11 @@
 <!ENTITY folderContextFavoriteFolder.label "Priljubljena mapa">
 <!ENTITY folderContextFavoriteFolder.accesskey "b">
 <!ENTITY folderContextSettings2.label "Nastavitve">
-<!ENTITY folderContextSettings2.accesskey "s">
+<!ENTITY folderContextSettings2.accesskey "a">
 <!-- Search Bar -->
 
 <!ENTITY SearchNameOrEmail.label "Ime ali e-pošta vsebuje:">
-<!ENTITY SearchNameOrEmail.accesskey "I">
+<!ENTITY SearchNameOrEmail.accesskey "m">
 <!-- Gloda Search Bar -->
 
 <!ENTITY glodaSearchBar.placeholder "Išči po sporočilih …">
