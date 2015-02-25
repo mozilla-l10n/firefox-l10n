@@ -150,8 +150,8 @@
 
 <!ENTITY fxaccount_create_account_header2 "បង្កើត​គណនី Firefox">
 <!ENTITY fxaccount_create_account_password_length_restriction "ត្រូវតែ​មាន​យ៉ាងហោចណាស់ ៨ តួ​អក្សរ">
-
-
+<!ENTITY fxaccount_create_account_day_of_birth "ថ្ងៃ">
+<!ENTITY fxaccount_create_account_month_of_birth "ខែ">
 <!ENTITY fxaccount_create_account_year_of_birth "ឆ្នាំ​កំណើត">
 <!-- Localization note: &formatS1; is fxaccount_policy_linktos, &formatS2; is fxaccount_policy_linkprivacy, both hyperlinked. -->
 <!ENTITY fxaccount_create_account_policy_text2 "ដោយ​ការ​ធ្វើ​បន្ត, ខ្ញុំ​យល់​ព្រម​ចំពោះ &formatS1; និង &formatS2; នៃ​សេវាកម្ម​នៅ​លើ​បណ្ដាញ​សម្រាប់ Firefox ។">
@@ -169,11 +169,11 @@
 <!-- Localization note: &formatS; is the Firefox Account's email address. -->
 <!ENTITY fxaccount_confirm_account_verification_link "តំណ​ការ​ផ្ទៀងផ្ទាត់​ត្រូវ​បាន​ផ្ញើ​ទៅ &formatS;">
 <!ENTITY fxaccount_confirm_account_resend_email "ផ្ញើ​អ៊ីមែល​ម្ដង​ទៀត">
-
+<!ENTITY fxaccount_confirm_account_change_email "ភ្លេច​អាសយដ្ឋាន​អ៊ីមែល​នេះ​ឬ?">
 <!ENTITY fxaccount_confirm_account_verification_link_sent2 "ផ្ញើ​អ៊ីមែល​ម្ដងទៀត">
 <!ENTITY fxaccount_confirm_account_verification_link_not_sent2 "មិន​អាច​ផ្ញើ​អ៊ីមែល​ការ​ផ្ទៀងផ្ទាត់">
-
-
+<!ENTITY fxaccount_resend_unlock_code_button_label "ផ្ញើ​អ៊ីមែល​ដោះ​សោ​ម្ដងទៀត">
+<!ENTITY fxaccount_unlock_code_sent "បាន​ផ្ញើ​អ៊ីមែល​ដោះ​សោ​គណនី">
 
 
 <!ENTITY fxaccount_sign_in_sub_header "ចូល">
@@ -255,11 +255,14 @@
 <!ENTITY fxaccount_remote_error_SERVICE_TEMPORARILY_UNAVAILABLE_TO_DUE_HIGH_LOAD "ម៉ាស៊ីន​មេ​ជាប់​រវល់, ព្យាយាម​ម្ដងទៀត​ឆាប់ៗ​នេះ">
 <!ENTITY fxaccount_remote_error_UNKNOWN_ERROR "មាន​បញ្ហា">
 <!ENTITY fxaccount_remote_error_COULD_NOT_CONNECT "មិន​អាច​តភ្ជាប់​ទៅ​បណ្ដាញ">
-
+<!ENTITY fxaccount_remote_error_ACCOUNT_LOCKED "គណនី​ត្រូវ​បាន​ចាក់សោ។ &formatS1;">
 
 <!ENTITY fxaccount_sync_sign_in_error_notification_title2 "&syncBrand.shortName.label; ត្រូវ​បាន​តភ្ជាប់">
 <!-- Localization note: the format string below will be replaced
      with the Firefox Account's email address. -->
+<!ENTITY fxaccount_sync_sign_in_error_notification_text2 "ប៉ះ​ដើម្បី​ចូល​ជា &formatS;">
 
+<!ENTITY fxaccount_sync_finish_migrating_notification_title "បញ្ចប់​ការ​ធ្វើ​បច្ចុប្បន្នភាព &syncBrand.shortName.label;?">
 <!-- Localization note: the format string below will be replaced
      with the Firefox Account's email address. -->
+<!ENTITY fxaccount_sync_finish_migrating_notification_text "ប៉ះ​ដើម្បី​ចូល​ជា &formatS;">
