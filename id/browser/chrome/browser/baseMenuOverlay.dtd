@@ -20,7 +20,7 @@
 <!ENTITY productHelp2.accesskey   "B">
 <!ENTITY helpMac.commandkey       "?">
 
-<!ENTITY helpKeyboardShortcuts.label     "Pintasan Keyboard">
+<!ENTITY helpKeyboardShortcuts.label     "Pintasan Papan Ketik">
 <!ENTITY helpKeyboardShortcuts.accesskey "K">
 
 <!ENTITY helpSafeMode.label       "Mulai Ulang dengan Pengaya Dinonaktifkan…">
