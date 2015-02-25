@@ -890,7 +890,7 @@
 <!ENTITY minimizeWindow.label "Skrči">
 <!ENTITY minimizeWindow.key "m">
 <!ENTITY bringAllToFront.label "Prenesi vse v ospredje">
-<!ENTITY zoomWindow.label "Povečaj">
+<!ENTITY zoomWindow.label "Povečava">
 <!-- Mac OS X Application Menu (Cocoa widgets) -->
 
 <!ENTITY preferencesCmdMac2.label       "Nastavitve">

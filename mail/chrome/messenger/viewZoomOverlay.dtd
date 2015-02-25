@@ -27,5 +27,5 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY fullZoomToggleCmd.label        "Povečaj samo besedilo">
 <!ENTITY fullZoomToggleCmd.accesskey    "P">
-<!ENTITY fullZoom.label                 "Povečaj">
+<!ENTITY fullZoom.label                 "Povečava">
 <!ENTITY fullZoom.accesskey             "P">
