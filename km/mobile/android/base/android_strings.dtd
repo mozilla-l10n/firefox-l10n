@@ -214,7 +214,7 @@ size. -->
 <!ENTITY pref_media_autoplay_enabled "អនុញ្ញាត​ការ​ចាក់​ស្វ័យប្រវត្តិ">
 <!ENTITY pref_media_autoplay_enabled_summary "គ្រប់គ្រង​ថា​តើ​តំបន់បណ្ដាញ​អាច​ចាក់​វីដេអូ និង​មាតិកា​មេឌៀ​ផ្សេងទៀត​បាន​ដោយ​ស្វ័យប្រវត្តិ">
 <!ENTITY pref_zoom_force_enabled "បើក​ការ​ពង្រីក​ជានិច្ច">
-
+<!ENTITY pref_zoom_force_enabled_summary "បង្ខំ​បដិសេធ ដូច្នេះ​អ្នក​អាច​ពង្រីក​ទំព័រ​ណាមួយ​ក៏​បាន">
 
 <!ENTITY pref_use_master_password "ប្រើ​ពាក្យ​សម្ងាត់​មេ ">
 <!ENTITY pref_sync "ធ្វើ​សមកាលកម្ម">
@@ -271,20 +271,22 @@ size. -->
      (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
 <!ENTITY datareporting_crashreporter_title_short "កម្មវិធី​របាយការណ៍​គាំង">
 <!ENTITY datareporting_wifi_title2 "&vendorShortName; សេវាកម្ម​ទីតាំង">
-
+<!ENTITY datareporting_wifi_geolocation_summary3 "ជួយ​ឲ្យ &vendorShortName; មាន​នៅ​ក្នុង​ផែនទី​ពិភពលោក! ចែករំលែក​វ៉ាយហ្វាយ​ប្រហាក់ប្រហែល និង​ទីតាំង​ឧបករណ៍​របស់​អ្នក​ដើម្បី​ធ្វើឲ្យ​សេវាកម្ម​ភូមិសាស្ត្រ​របស់​យើង​ប្រសើរ​ឡើង">
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
      actual notification that an update is available. -->
 <!ENTITY pref_update_autodownload2 "ទាញ​យក​បច្ចុប្បន្នភាព​ដោយ​ស្វ័យប្រវត្តិ">
-
+<!ENTITY pref_update_autodownload_wifi "តាម​វ៉ាយហ្វាយ​តែប៉ុណ្ណោះ">
 <!ENTITY pref_update_autodownload_never "កុំ">
 <!ENTITY pref_update_autodownload_always "ជានិច្ច">
 <!-- Localization note (help_menu) : This string is used in the main menu-->
 
+<!ENTITY help_menu "ជំនួយ">
+
 <!ENTITY quit "ចេញ">
 
 <!ENTITY addons "កម្មវិធី​បន្ថែម">
-
+<!ENTITY downloads "ទាញ​យក">
 <!ENTITY apps "កម្មវិធី">
 <!ENTITY char_encoding "ការ​អ៊ិនកូដ​តួអក្សរ">
 
@@ -300,7 +302,7 @@ size. -->
 <!ENTITY new_private_tab "ផ្ទាំង​ឯកជន​ថ្មី">
 <!ENTITY close_all_tabs "បិទ​ផ្ទាំង​ទាំងអស់">
 <!ENTITY close_private_tabs "បិទ​ផ្ទាំង​ឯកជន">
-
+<!ENTITY tabs_normal "ផ្ទាំង">
 <!ENTITY tabs_private "ឯកជន">
 <!ENTITY tabs_synced "បាន​ធ្វើ​សមកាលកម្ម">
 <!ENTITY set_image_fail "មិន​អាច​កំណត់​រូបភាព">
@@ -308,20 +310,22 @@ size. -->
 <!ENTITY set_image_chooser_title "កំណត់​រូបភាព​ជា">
 <!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
+
+<!ENTITY find_text "រកមើល​ក្នុង​ទំព័រ">
 <!ENTITY find_prev "មុន">
 <!ENTITY find_next "បន្ទាប់">
-
+<!ENTITY find_close "បិទ">
 <!-- Localization note (media_sending_to, media_play, media_pause, media_stop) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
 
 <!ENTITY media_sending_to "ផ្ញើ​ទៅ​ឧបករណ៍">
 <!ENTITY media_play "ចាក់">
 <!ENTITY media_pause "ផ្អាក">
-
+<!ENTITY media_stop "បញ្ឈប់">
 
 <!ENTITY contextmenu_open_new_tab "បើក​ក្នុង​ផ្ទាំង​ថ្មី">
 <!ENTITY contextmenu_open_private_tab "បើក​ក្នុង​ផ្ទាំង​ឯកជន">
-
+<!ENTITY contextmenu_remove "លុបចេញ">
 <!ENTITY contextmenu_add_to_launcher "បន្ថែម​ទៅ​អេក្រង់​ផ្ទះ">
 <!ENTITY contextmenu_share "ចែករំលែក">
 <!ENTITY contextmenu_pasteandgo "បិទ​ភ្ជាប់ រួច​ទៅ">
@@ -535,23 +539,31 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY new_guest_session "សម័យ​ភ្ញៀវ​ថ្មី">
 <!ENTITY exit_guest_session "ចេញពី​សម័យ​ភ្ញៀវ">
 <!ENTITY guest_session_dialog_continue "បន្ត">
-
+<!ENTITY guest_session_dialog_cancel "បោះបង់">
 <!ENTITY new_guest_session_title "&brandShortName; នឹង​ចាប់ផ្ដើម​ឡើងវិញ​ឥឡូវនេះ">
 <!ENTITY new_guest_session_text "មនុស្ស​ដែល​ប្រើ​វា នឹង​មិន​អាច​មើល​ឃើញ​ការ​រុករក​ទិន្នន័យ​ផ្ទាល់ខ្លួន​របស់​អ្នក (ដូចជា​ពាក្យសម្ងាត់, ប្រវត្តិ ឬ​ចំណាំ​ដែល​បាន​រក្សាទុក) បាន​ទេ។\n\nពេល​អ្នក​បាន​បញ្ចប់​សម័យ​ភ្ញៀវ, ទិន្នន័យ​ការ​រុករក​របស់​ពួកគេ​នឹង​ត្រូវ​បាន​លុប ហើយ​សម័យ​នឹង​ត្រូវ​ស្ដារ។">
 <!ENTITY guest_browsing_notification_title "បាន​បើក​ការ​រុករក​ភ្ញៀវ">
 <!ENTITY guest_browsing_notification_text "ប៉ះ​ដើម្បី​ចេញ">
 
+<!ENTITY exit_guest_session_title "&brandShortName; នឹង​ចាប់ផ្ដើម​ឡើងវិញ​ឥឡូវនេះ">
 <!ENTITY exit_guest_session_text "ទិន្នន័យ​ការ​រុករក​របស់​សម័យ​នេះ​នឹង​ត្រូវ​បាន​លុប។">
 <!-- Miscellaneous -->
 <!-- LOCALIZATION NOTE (ellipsis): This text is appended to a piece of text that does not fit in the
      designated space. Use the unicode ellipsis char, \u2026, or use "..." if \u2026 doesn't suit
      traditions in your locale. -->
 
+<!ENTITY ellipsis "…">
+
+<!ENTITY colon ":">
 <!-- These are only used for accessibility for the done and overflow-menu buttons in the actionbar.
      They are never shown to users -->
+
+<!ENTITY actionbar_menu "ម៉ឺនុយ">
 <!ENTITY actionbar_done "ធ្វើ​រួច">
 <!-- Voice search in the awesome bar -->
 
+<!ENTITY voicesearch_prompt "និយាយ​ឥឡូវ">
+<!ENTITY voicesearch_failed_title "&brandShortName; ស្វែងរក​តាម​សំឡេង">
 
 
 <!ENTITY voicesearch_failed_retry "ព្យាយាម​ម្ដងទៀត">
