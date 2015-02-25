@@ -150,13 +150,15 @@
 
 <!ENTITY fxaccount_create_account_header2 "Firefox hisobini yaratish">
 <!ENTITY fxaccount_create_account_password_length_restriction "Kamida 8 ta belgidan iborat bo‘lishi kerak">
+<!ENTITY fxaccount_create_account_day_of_birth "Kun">
+<!ENTITY fxaccount_create_account_month_of_birth "Oy">
 <!ENTITY fxaccount_create_account_year_of_birth "Tug‘ilgan yilingiz">
 <!-- Localization note: &formatS1; is fxaccount_policy_linktos, &formatS2; is fxaccount_policy_linkprivacy, both hyperlinked. -->
 <!ENTITY fxaccount_create_account_policy_text2 "Davom etish bilan men Firefox bulut xizmatlari, &formatS1; va &formatS2;ga roziman.">
 <!ENTITY fxaccount_create_account_button "Keyingi">
 <!ENTITY fxaccount_create_account_choose_what_to_sync "Sinxronlanadigan narsalarni tanlang">
 <!ENTITY fxaccount_create_account_sign_in_instead "Hisobingiz bormi? Unda kiring">
-<!ENTITY fxaccount_create_account_1990_or_earlier "1990 yoki oldinroq">
+<!ENTITY fxaccount_create_account_1990_or_earlier "1990-yil yoki oldinroq">
 <!ENTITY fxaccount_create_account_unknown_error "Hisob yaratilmadi">
 
 <!ENTITY fxaccount_account_create_not_allowed "Hisob yaratib bo‘lmadi">
@@ -207,7 +209,6 @@
 <!ENTITY fxaccount_status_needs_upgrade "Kirish uchun &brandShortName;ni yangilashingiz kerak.">
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled "&syncBrand.shortName.label; moslandi, ammo avtomatik sinxronlanmadi. Android sozlamalari &gt; Foydalanilgan ma’lumotlardan  “Ma’lumotlarni avtosinxronlash”ni yoqing.">
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled_v21 "&syncBrand.shortName.label; moslandi, ammo avtomatik sinxronlanmadi. Android sozlamalari &gt; Foydalanilgan ma’lumotlardan  “Ma’lumotlarni avtosinxronlash”ni yoqing.">
-<!ENTITY fxaccount_status_needs_account_enabled "&syncBrand.shortName.label; moslandi, ammo avtomatik sinxronlanmadi. Sinxronlashni boshlash uchun bosing.">
 <!ENTITY fxaccount_status_needs_finish_migrating "Yangi \&quot;Firefox hisobi\&quot;ga kirish uchun bosing.">
 <!ENTITY fxaccount_status_bookmarks "Xatcho‘plar">
 <!ENTITY fxaccount_status_history "Tarix">

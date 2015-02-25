@@ -36,9 +36,9 @@
 <!ENTITY device.permissionsHelpLink "https://developer.mozilla.org/docs/Web/Apps/App_permissions">
 <!ENTITY device.browserTabs "Brauzer ichki oynalari">
 <!ENTITY device.browserTabsTooltip "Ulangan qurilmadagi ichki oynalar ro‘yxatini brauzerda ko‘rsatish">
-<!ENTITY device.debugBrowserTab "Tuzatish">
+
 <!ENTITY device.debugBrowserTabTooltip "Qurilmadagi ushbu ilova dasturga ulangan &quot;Dasturlash asboblari&quot;ni ochish.">
-<!ENTITY device.help "Yordam">
+
 
 <!ENTITY connection.connectTooltip "Qurilmaga ulanish">
 <!ENTITY connection.disconnect "Uzish">
@@ -66,19 +66,19 @@
 <!ENTITY connection.startRegisteredSimulator "Boshlash:">
 
 <!ENTITY projects.localApps "Mahalliy ilova dasturlar">
-<!ENTITY projects.addApp "Qo‘shish">
+
 <!ENTITY projects.addPackaged "Paketlangan ilovani qo‘shish">
 <!ENTITY projects.addPackagedTooltip "Kompyuteringizdan (direktoriyadan) yangi paketlangan ilovani qo‘shish">
 <!ENTITY projects.addHosted "Hostga joylashtirilgan ilovani qo‘shish">
 <!ENTITY projects.addHostedTooltip "Masofadagi vebsaytdan hostga joylashtirilgan ilovani qo‘shish (manifest.webapp fayliga link)">
-<!ENTITY projects.title "Mahalliy dasturlar">
+
 <!ENTITY projects.appDetails "Ilova ma’lumotlari">
 <!ENTITY projects.removeAppFromList "Ushbu ilovani siz ishlayotgan ilovalar ro‘yxatidan olib tashlash. U uni qurilma yoki simulyatordan o‘chirmaydi.">
 <!ENTITY projects.updateApp "Yangilash">
 <!ENTITY projects.updateAppTooltip "Yaroqliligini tekshirishni amalga oshirish va ulangan qurilmadagi ilovani yangilash">
-<!ENTITY projects.debugApp "Tuzatish">
+
 <!ENTITY projects.debugAppTooltip "Ushbu ilovaga ulangan &quot;Dasturlash asbobolari&quot;ni ochish">
-<!ENTITY projects.saveManifest "Saqlash">
+
 <!ENTITY projects.saveManifestTooltip "Quyidagi &quot;Manifest tahrirchisi&quot; tarkibini saqlash">
 <!ENTITY projects.hostedManifestPlaceHolder2 "http://example.com/app/manifest.webapp">
 <!ENTITY projects.noProjects "Loyihalar yo‘q. Quyidagi (mahalliy direktoriyadagi) yoki hostdagi yangi paketlangan ilovani qo‘shish (manifest fayliga link).">
@@ -92,7 +92,6 @@
 <!ENTITY projects.hosted "Hostga joylashtirilgan">
 <!ENTITY projects.packaged "Paketlangan">
 
-<!ENTITY help.title "Dasturlar boshqaruvchisi">
 <!ENTITY help.close "Yopish">
 <!ENTITY help.intro "Ushbu asbob veb ilovalar tuzish va mos qurilmalarga o‘rnatishga yordam beradi (Firefox OS kabi).  <strong>Ilovalar</strong> ichki oynasi sizga ilovangizni o‘rnatish va tekshirish jarayonida yordam beradi.  <strong>Qurilma</strong> ichki oynasi ulangan qurilma haqida ma’lumot beradi. Quyidagi asboblar panelidan qurilmaga ulanish yoki simulyatorni ishga tushirish uchun foydalaning.">
 <!ENTITY help.usefullLinks "Foydali linklar:">

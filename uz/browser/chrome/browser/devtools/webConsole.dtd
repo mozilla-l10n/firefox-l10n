@@ -73,6 +73,7 @@
 <!ENTITY btnConsoleInfo         "Ma’lumot">
 <!ENTITY btnConsoleWarnings     "Ogohlantirishlar">
 <!ENTITY btnConsoleLog          "Jurnal">
+<!ENTITY btnConsoleXhr          "XHR">
 <!ENTITY btnConsoleReflows      "Qayta oqimlar">
 
 <!ENTITY filterOutput.placeholder "Filter natijalari">

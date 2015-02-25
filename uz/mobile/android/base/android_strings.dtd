@@ -6,8 +6,8 @@
 <!ENTITY  no_space_to_start_error "&brandShortName;’ni ishga tushirish uchun bo‘sh joy yetarli emas.">
 <!ENTITY  error_loading_file "&brandShortName;ni ishga tushirish uchun kerakli fayllar yuklanayotganda xato yuz berdi.">
 
-<!ENTITY  onboard_start_message "&brandShortName;ga xush kelibsiz!">
-<!ENTITY  onboard_start_subtext "Siz, maxfiyligingiz va ochiq tarmoq uchun mo‘ljallangan">
+<!ENTITY  onboard_start_message2 "&brandShortName;ga xush kelibsiz!">
+<!ENTITY  onboard_start_subtext2 "Moslash uchun har doimgidan ko‘proq maxfiylik xususiyatlari va yo‘llari.">
 <!ENTITY  onboard_start_button_account "&brandShortName;ga kirish">
 <!ENTITY  onboard_start_button_browser "Ko‘rishni boshlash">
 <!-- Localization note: These are used as the titles of different pages on the home screen.
@@ -112,7 +112,7 @@
 
 <!ENTITY overlay_share_send_tab_btn_label "Boshqa qurilmaga jo‘natish">
 <!ENTITY overlay_share_no_url "Ushbu bo‘lishishda link topilmadi">
-<!ENTITY overlay_share_retry "Yana urinib ko\u0027rish">
+<!ENTITY overlay_share_retry "Yana urinib ko‘rish">
 <!ENTITY overlay_share_select_device "Qurilmani tanlash">
 
 <!ENTITY pref_category_search3 "Izlash">
@@ -135,7 +135,7 @@
      search providers.
      The &formatI; in the string will be replaced by a small image of the icon described, and can be moved to wherever
      it is applicable. -->
-<!ENTITY pref_search_hint "TIP: birorta veb sahifani izlash xizmatlariga ro‘yxatiga qo‘shmoqchi bo‘lsangiz, o‘sha saytning izlash maydonchasiga barmog‘ingizni bosib turing va so‘ngra &formatI; nishonchasiga bosing.">
+<!ENTITY pref_search_hint "MASLAHAT: birorta veb sahifani izlash xizmatlari ro‘yxatiga qo‘shmoqchi bo‘lsangiz, o‘sha saytning izlash maydonchasiga barmog‘ingizni bosib turing, so‘ngra &formatI; nishonchasiga bosing.">
 <!ENTITY pref_category_devtools "Dasturlash asboblari">
 <!ENTITY pref_category_devtools_summary "Masofadan tuzatish, bo‘yash">
 <!ENTITY pref_developer_paint_flashing "Bo‘yash">
@@ -165,7 +165,7 @@
 <!ENTITY pref_header_help "Yordam">
 <!ENTITY pref_header_language "Til">
 <!ENTITY pref_header_vendor "&vendorShortName;">
-<!ENTITY pref_header_devtools "Dasturlash asboblari">
+<!ENTITY pref_header_devtools "Dasturchi asboblari">
 
 <!ENTITY pref_cookies_menu "Kukilar">
 <!ENTITY pref_cookies_accept_all "Yoqib qo‘yilgan">
@@ -186,7 +186,7 @@
 <!ENTITY pref_clear_on_exit_summary2 "Asosiy menyudan \u0022Quit\u0022 ni tanlasangiz, avtomatik tarzda &brandShortName; ma’lumotlaringizni tozalaydi.">
 <!ENTITY pref_clear_on_exit_dialog_title "Tozalanadigan ma’lumotlarni tanlang">
 <!ENTITY pref_plugins "Plaginlar">
-<!ENTITY pref_plugins_enabled "Yoqib qo‘yish">
+<!ENTITY pref_plugins_enabled "Yoqib qo‘yilgan">
 <!ENTITY pref_plugins_tap_to_play "Ijro etish uchun bosing">
 <!ENTITY pref_plugins_disabled "O‘chirib qo‘yilgan">
 <!ENTITY pref_text_size "Matn hajmi">
@@ -213,6 +213,8 @@ size. -->
 
 <!ENTITY pref_media_autoplay_enabled "Avto ijro etishga ruxsat berish">
 <!ENTITY pref_media_autoplay_enabled_summary "Agar vebsaytlar videolar va boshqa media tarkiblarni avto ijro etilsa, boshqarilsin">
+<!ENTITY pref_zoom_force_enabled "Doimo kattalashtirish/kichiklashtirishni yoqish">
+<!ENTITY pref_zoom_force_enabled_summary "Majburiy almashtirilsa, siz har qanday sahifani kattalashtirib ko‘rishingiz mumkin">
 
 <!ENTITY pref_use_master_password "Parol ustasidan foydalaning">
 <!ENTITY pref_sync "Sinxronlash">
@@ -269,7 +271,7 @@ size. -->
      (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
 <!ENTITY datareporting_crashreporter_title_short "Nosozlik ma’lumot bergichi">
 <!ENTITY datareporting_wifi_title2 "&vendorShortName; joylashuv xizmatlari">
-<!ENTITY datareporting_wifi_geolocation_summary2 "Geojoylashuvimiz xizmatini yaxshilash uchun &vendorShortName; bilan qurilmangizning mobil tarmoq manzili va taxminiy Wi-Fi’ni bo‘lishishlar">
+<!ENTITY datareporting_wifi_geolocation_summary3 "&vendorShortName;ga dunyoni xaritaga joylashtirishda yordam bering! Bizning geojoylashuv xizmatimizni yaxshilash uchun yaqin-atrofingizdagi Wi-Fi va qurilmangiz uyali aloqasi manzilini bo‘lishing">
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
      actual notification that an update is available. -->
@@ -405,19 +407,19 @@ size. -->
 <!ENTITY home_last_tabs_title "So‘nggi ochilgan ichki oynalar">
 <!ENTITY home_last_tabs_empty "So‘nggi ichki oynalaringiz bu yerda ko‘rsatiladi.">
 <!ENTITY home_open_all "Barchasini ochish">
-<!ENTITY home_most_recent_empty "So‘nggi tashrif buyurgan saytlaringiz bu yerda ko‘rsatiladi.">
+<!ENTITY home_most_recent_empty "So‘nggi tashrif buyurilgan saytlar bu yerda ko‘rinadi.">
 <!-- Localization note (home_most_recent_emptyhint2): "Psst" is a sound that might be used to attract someone's attention unobtrusively, and intended to hint at Private Browsing to the user.
      The placeholders &formatS1; and &formatS2; are used to mark the location of text underlining. -->
 <!ENTITY home_most_recent_emptyhint2 "Psst: &formatS1;Yangi maxfiy ichki oyna&formatS2;dan foydalanish tarixingizni saqlamaydi.">
-<!ENTITY home_reading_list_empty "Keyinroq o‘qish uchun saqlagan maqolalaringiz bu yerda.">
+<!ENTITY home_reading_list_empty "Keyinroq o‘qish uchun saqlangan maqolalar bu yerda ko‘rinadi.">
 <!-- Localization note (home_reading_list_hint): The "TIP" string is synonymous to "hint", "clue", etc. This string is displayed
      as an advisory message on how to add content to the reading list when the reading list empty.
      The placeholder &formatI; will be replaced by a small image of the icon described, and can be moved to wherever
      it is applicable. -->
-<!ENTITY home_reading_list_hint2 "TIP: maqolalarni \&quot;O‘qish ro‘yxati\&quot;ga qo‘shish uchun &formatI; nishonchasiga bosib turing, u sarlavha panelida paydo bo‘lgandan so‘ng qo‘yib yuboring.">
+<!ENTITY home_reading_list_hint2 "MASLAHAT: maqolalarni \&quot;O‘qish ro‘yxati\&quot;ga qo‘shish uchun &formatI; nishonchasiga bosib turing, u sarlavha panelida paydo bo‘lgandan so‘ng qo‘yib yuboring.">
 <!-- Localization note (home_reading_list_hint_accessible): This string is used
      as alternate text for accessibility. It is not visible in the UI. -->
-<!ENTITY home_reading_list_hint_accessible "TIP: maqolalarni \&quot;O‘qish ro‘yxati\&quot;ga qo‘shish uchun o‘qish usuli tugmasini bosib turing, sarlavha panelida ko‘ringandan so‘ng qo‘yib yuboring.">
+<!ENTITY home_reading_list_hint_accessible "MASLAHAT: maqolalarni \&quot;O‘qish ro‘yxati\&quot;ga qo‘shish uchun \&quot;O‘qish usuli\&quot; tugmasini bosib turing, sarlavha panelida ko‘ringandan so‘ng, qo‘yib yuboring.">
 <!-- Localization note (home_default_empty): This string is used as the default text when there
      is no data to show in an about:home panel that was created by an add-on. -->
 
@@ -558,6 +560,13 @@ import qilinmoqda">
 
 <!ENTITY actionbar_menu "Menyu">
 <!ENTITY actionbar_done "Tayyor">
+<!-- Voice search in the awesome bar -->
+
+<!ENTITY voicesearch_prompt "Hozir so‘zlang">
+<!ENTITY voicesearch_failed_title "&brandShortName; ovoz yordamida izlash">
+<!ENTITY voicesearch_failed_message "Hozirda ovoz yordamida izlashda mammo bor. Uzr, keyinroq urinib ko‘ring.">
+<!ENTITY voicesearch_failed_message_recoverable "Kechirasiz! Biz ovozingizni ajrata olmadik. Uzr, yana urinib ko‘ring.">
+<!ENTITY voicesearch_failed_retry "Yana urinib ko‘rish">
 <!-- Localization note (remote_tabs_last_synced): the variable is replaced by a
      "relative time span string" produced by Android.  This string describes the
      time the tabs were last synced relative to the current time; examples
@@ -566,6 +575,8 @@ import qilinmoqda">
      their desktop or laptop.-->
 
 <!ENTITY remote_tabs_last_synced "So‘nggi sinxronlash: &formatS;">
+<!-- Localization note: Used when the sync has not happend yet, showed in place of a date -->
+<!ENTITY remote_tabs_never_synced "So‘nggi marta sinxornlangan: hech qachon">
 <!-- Find-In-Page strings -->
 <!-- LOCALIZATION NOTE (find_matchcase): This is meant to appear as an icon that changes color
      if match-case is activated. i.e. No more than two letters, one uppercase, one lowercase. -->
