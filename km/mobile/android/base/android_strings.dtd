@@ -564,8 +564,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY voicesearch_prompt "និយាយ​ឥឡូវ">
 <!ENTITY voicesearch_failed_title "&brandShortName; ស្វែងរក​តាម​សំឡេង">
-
-
+<!ENTITY voicesearch_failed_message "ឥឡូវនេះ​មាន​បញ្ហា​ជាមួយ​ការ​ស្វែងរក​តាម​សំឡេង។ សូម​ព្យាយាម​នៅ​ពេល​ក្រោយ។">
+<!ENTITY voicesearch_failed_message_recoverable "សុំទោស! យើង​មិន​អាច​ស្គាល់​ពាក្យ​របស់​អ្នក។ សូម​ព្យាយាម​ម្ដងទៀត។">
 <!ENTITY voicesearch_failed_retry "ព្យាយាម​ម្ដងទៀត">
 <!-- Localization note (remote_tabs_last_synced): the variable is replaced by a
      "relative time span string" produced by Android.  This string describes the
