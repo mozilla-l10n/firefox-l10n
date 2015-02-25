@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY itemGeneral.label       "Coitcheann">
-
+<!ENTITY dataChoicesTab.label    "Roghainnean dàta">
 <!ENTITY itemDisplay.label       "Leughadh ⁊ taisbeanadh">
 <!ENTITY itemUpdate.label        "Ùraich">
 <!ENTITY itemNetworking.label    "An lìonra ⁊ àite air an diosg">
@@ -14,8 +14,8 @@
 <!ENTITY enableGlodaSearch.accesskey   "e">
 <!ENTITY allowHWAccel.label            "Cleachd luathachadh a' bhathar-bhog ma bhios e ri làimh">
 <!ENTITY allowHWAccel.accesskey        "m">
-
-
+<!ENTITY storeType.label               "Seòrsa stòras nan teachdaireachdan airson cunntasan ùra:">
+<!ENTITY storeType.accesskey           "t">
 <!ENTITY mboxStore.label               "Aon fhaidhle mòr (mbox)">
 <!ENTITY maildirStore.label            "Faidhle gach teachdaireachd (maildir)">
 
@@ -40,14 +40,17 @@
 <!ENTITY showReturnReceipts.accesskey  "B">
 <!-- Data Choices -->
 
+<!ENTITY telemetrySection.label          "Telemeatraidh">
+<!ENTITY telemetryDesc.label             "Cuiridh seo dàta air dèanadas, cleachdadh, bathar-cruaidh agus gnàthachadh a' phrògraim phuist-d agad dha &vendorShortName; ach an urrainn dhuinn &brandShortName; a dhèanamh nas fhearr">
+<!ENTITY enableTelemetry.label           "Cuir an telemeatraidh an comas">
+<!ENTITY enableTelemetry.accesskey       "t">
+<!ENTITY telemetryLearnMore.label        "Barrachd fiosrachaidh">
 
-
-
-
-
-
-
-
+<!ENTITY crashReporterSection.label      "Aithrisiche nan tuislidhean">
+<!ENTITY crashReporterDesc.label         "Cuiridh &brandShortName; aithisgean tuislidh dha &vendorShortName; ach an urrainn dhuinn am prògram puist-d agad a dhèanamh nas seasmhaiche agus nas tèarainte">
+<!ENTITY enableCrashReporter.label       "Cuir an comas aithrisiche nan tuislidhean">
+<!ENTITY enableCrashReporter.accesskey   "C">
+<!ENTITY crashReporterLearnMore.label    "Barrachd fiosrachaidh">
 <!-- Display and Reading Settings -->
 
 <!ENTITY reading.caption               "Leughadh">
