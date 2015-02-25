@@ -183,9 +183,11 @@
 <!ENTITY fxaccount_sign_in_unknown_error "Daxil ola bilmir">
 
 <!ENTITY fxaccount_account_verified_sub_header "Hesab təsdiqləndi">
+<!ENTITY fxaccount_account_verified_description2 "Məlumatlarınız birazdan sinxronlaşmaya başlayacaq.">
 
+<!ENTITY fxaccount_migration_finished_header "Yüksəltmə bitdi">
 
-
+<!ENTITY fxaccount_update_credentials_header "Daxil ol">
 <!ENTITY fxaccount_update_credentials_button_label "Daxil ol">
 <!ENTITY fxaccount_update_credentials_unknown_error "Daxil ola bilmir">
 
@@ -212,7 +214,7 @@
 <!ENTITY fxaccount_status_history "Tarixçə">
 <!ENTITY fxaccount_status_passwords "Şifrələr">
 
-
+<!ENTITY fxaccount_status_legal "Qanuni" >
 <!-- Localization note: when tapped, the following two strings link to
      external web pages.  Compare fxaccount_policy_{linktos,linkprivacy}:
      these strings are separated to accommodate languages that decline
@@ -259,7 +261,9 @@
 
 <!-- Localization note: the format string below will be replaced
      with the Firefox Account's email address. -->
+<!ENTITY fxaccount_sync_sign_in_error_notification_text2 "&formatS; olaraq daxil olmaq üçün toxunun">
 
+<!ENTITY fxaccount_sync_finish_migrating_notification_title "&syncBrand.shortName.label; yüksəltməsi bitsin?">
 <!-- Localization note: the format string below will be replaced
      with the Firefox Account's email address. -->
 <!ENTITY fxaccount_sync_finish_migrating_notification_text "&formatS; olaraq dazil olmaq üçün toxunun">

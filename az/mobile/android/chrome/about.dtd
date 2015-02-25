@@ -7,7 +7,7 @@
 <!ENTITY aboutPage.telemetryMozillaLink         "&vendorShortName; ">
 
 <!ENTITY aboutPage.checkForUpdates.link         "Yeniləmələri yoxla »">
-
+<!ENTITY aboutPage.checkForUpdates.checking     "Yeniləmələr axtarılır…">
 
 <!ENTITY aboutPage.checkForUpdates.available2   "Yeniləməni endir">
 <!ENTITY aboutPage.checkForUpdates.downloading  "Yeniləmə endirilir…">
