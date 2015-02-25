@@ -6,13 +6,13 @@
      the quick filter bar.
      -->
 
-<!ENTITY quickFilterBar.qfbShowFilterBar.label "Hızlı süzgeç">
+<!ENTITY quickFilterBar.qfbShowFilterBar.label "Hızlı Süzgeç">
 <!-- LOCALIZATION NOTE (quickFilterBar.toggleBarVisibility.menu.label):
      The label to display for the "View... Toolbars..." menu item that controls
      whether the quick filter bar is visible.
      -->
 
-<!ENTITY quickFilterBar.toggleBarVisibility.menu.label "Hızlı süzgeç çubuğu">
+<!ENTITY quickFilterBar.toggleBarVisibility.menu.label "Hızlı Süzgeç Çubuğu">
 <!-- LOCALIZATION NOTE (quickFilterBar.toggleBarVisibility.menu.accesskey):
      The access key for the "View... Toolbars..." menu item label that controls
      whether the quick filter bar is visible.
@@ -24,7 +24,7 @@
      controls whether the quick filter bar is visible.
      -->
 
-<!ENTITY quickFilterBar.toggleBarVisibility.appmenu.label "Hızlı süzgeç çubuğu">
+<!ENTITY quickFilterBar.toggleBarVisibility.appmenu.label "Hızlı Süzgeç Çubuğu">
 <!-- LOCALIZATION NOTE (quickFilterBar.toggleBarVisibility.button.tooltip):
      The tooltip to display when hovering over the button on the tab bar that
      toggles the visibility of the quick filter bar.
@@ -39,7 +39,7 @@
      filters are propagated between folder changes and when opening new tabs.)
      -->
 
-<!ENTITY quickFilterBar.sticky.tooltip "Dizin değiştirirken süzgeçleri uygulamayı sürdür">
+<!ENTITY quickFilterBar.sticky.tooltip "Dizin değişince süzgeçleri uygulamayı sürdür">
 <!-- LOCALIZATION NOTE (quickFilterBar.unread.label):
      The label for the filter button that causes us to filter results to only
      include unread messages.
@@ -112,7 +112,7 @@
      https://developer.mozilla.org/En/Localization_and_Plurals
      -->
 
-<!ENTITY quickFilterBar.resultsLabel.some.formatString "#1 ileti">
+<!ENTITY quickFilterBar.resultsLabel.some.formatString "#1 ileti;#1 ileti">
 <!-- LOCALIZATION NOTE (quickFilterBar.resultsLabel.none):
      The contents of the results box when there is a filter active but there
      are no messages matching the filter.
@@ -165,15 +165,23 @@
 <!-- LOCALIZATION NOTE (quickFilterBar.booleanModeAny.label):
      Tooltip of the Any of / All of tagging mode selector.
      -->
+
+<!ENTITY quickFilterBar.booleanModeAny.label "Herhangi bir">
 <!-- LOCALIZATION NOTE (quickFilterBar.booleanModeAny.tooltip):
      Tooltip of the Any of / All of tagging mode selector.
      -->
+
+<!ENTITY quickFilterBar.booleanModeAny.tooltip "Seçilen etiket ölçütlerinden en az biri eşleşmeli">
 <!-- LOCALIZATION NOTE (quickFilterBar.booleanModeAll.label):
      Tooltip of the Any of / All of tagging mode selector.
      -->
+
+<!ENTITY quickFilterBar.booleanModeAll.label "Hepsi">
 <!-- LOCALIZATION NOTE (quickFilterBar.booleanModeAll.tooltip):
      Tooltip of the Any of / All of tagging mode selector.
      -->
+
+<!ENTITY quickFilterBar.booleanModeAll.tooltip "Seçilen tüm etiket ölçütleri eşleşmeli">
 <!-- LOCALIZATION NOTE (quickFilterBar.textbox.idealWidth):
      The number of pixels for the ideal width of the quick filter box textbox.
      Choose this value so that the emptyText fits nicely with a little bit of
@@ -197,7 +205,7 @@
      arrow scroll box.)
      -->
 
-<!ENTITY quickFilterBar.textFilter.explanation.label "İletileri süz:">
+<!ENTITY quickFilterBar.textFilter.explanation.label "Buna göre süz:">
 <!-- LOCALIZATION NOTE (quickFilterBar.textFilter.sender.label):
      The button label that toggles whether the text filter searches the message
      sender for the string.
@@ -221,7 +229,7 @@
      body for the string.
      -->
 
-<!ENTITY quickFilterBar.textFilter.body.label "Gövde">
+<!ENTITY quickFilterBar.textFilter.body.label "İleti gövdesi">
 <!-- LOCALIZATION NOTE (quickFilterBar.glodaUpsell.continueSearch):
      The first line of the panel popup that tells the user we found no matches
      but we can convert to a global search for them.
@@ -233,4 +241,4 @@
      This line will have #1 replaced with what the user has typed so far.
      -->
 
-<!ENTITY quickFilterBar.glodaUpsell.pressEnterAndCurrent "Aramanıza devam etmek için tekrar Enter'a basın: #1">
+<!ENTITY quickFilterBar.glodaUpsell.pressEnterAndCurrent "Şunu aramaya devam etmek için Enter'a yeniden basın: #1">
