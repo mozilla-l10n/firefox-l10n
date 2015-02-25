@@ -6,8 +6,8 @@
 <!ENTITY  no_space_to_start_error "&brandShortName; іске қосу үшін бос орын жеткіліксіз.">
 <!ENTITY  error_loading_file "&brandShortName; іске қосылу үшін керек файларды жүктеу кезінде қате орын алды">
 
-<!ENTITY  onboard_start_message "&brandShortName; ішіне қош келдіңіз!">
-<!ENTITY  onboard_start_subtext "Сіз, сіздің жекелігіңіз және ашық интернетке ұмтылады">
+<!ENTITY  onboard_start_message2 "&brandShortName; өніміне қош келдіңіз">
+<!ENTITY  onboard_start_subtext2 "Бұрыннан да көп жекелік мүмкіндіктері және баптау тәсілдері.">
 <!ENTITY  onboard_start_button_account "&brandShortName; ішіне кіріңіз">
 <!ENTITY  onboard_start_button_browser "Шолуды бастау">
 <!-- Localization note: These are used as the titles of different pages on the home screen.
@@ -160,12 +160,12 @@
 <!-- Localization note: These are shown in the left sidebar on tablets -->
 
 <!ENTITY pref_header_customize "Баптау">
-<!ENTITY pref_header_display "Көрініс">
+
 <!ENTITY pref_header_privacy_short "Жекелік">
 <!ENTITY pref_header_help "Көмек">
 <!ENTITY pref_header_language "Тіл">
 <!ENTITY pref_header_vendor "&vendorShortName;">
-<!ENTITY pref_header_devtools "Өндеуші саймандары">
+<!ENTITY pref_header_devtools "Өндіруші саймандары">
 
 <!ENTITY pref_cookies_menu "Cookies">
 <!ENTITY pref_cookies_accept_all "Іске қосулы">
@@ -205,7 +205,7 @@
 same character/combination is used to increase the preview font size. It should be a concise
 representation of the language it is used in that will help show the text in the preview will change
 size. -->
-<!ENTITY pref_font_size_adjust_char "А">
+<!ENTITY pref_font_size_adjust_char "A">
 <!-- Localization note (pref_font_size_preview_text): This paragraph is used as an example to
     demonstrate the font size setting.  It is meant to be whimsical and fun. -->
 
@@ -213,6 +213,8 @@ size. -->
 
 <!ENTITY pref_media_autoplay_enabled "Автоойнатуды рұқсат ету">
 <!ENTITY pref_media_autoplay_enabled_summary "Веб сайттар видеолар және басқа медиа құрамасын автоойнату мүмкіндігін басқару">
+
+
 
 <!ENTITY pref_use_master_password "Мастер парольді қолдану">
 <!ENTITY pref_sync "Синхрондау">
@@ -269,7 +271,7 @@ size. -->
      (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
 <!ENTITY datareporting_crashreporter_title_short "Құлау хабаршысы">
 <!ENTITY datareporting_wifi_title2 "&vendorShortName; орналасу қызметтері">
-<!ENTITY datareporting_wifi_geolocation_summary2 "Біздің геолокация қызметтерін жақсарту мақсатында құрылғыңыздың жуықталған Wi-Fi және ұялы желілер орналасуын &vendorShortName; қызметімен бөліседі">
+
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
      actual notification that an update is available. -->
@@ -397,7 +399,7 @@ size. -->
      with the page title defined in aboutHome.dtd -->
 
 <!ENTITY home_title "&brandShortName; үй парағы">
-<!ENTITY home_history_title "Тарихы">
+<!ENTITY home_history_title "Тарих">
 <!ENTITY home_clear_history_button "Шолу тарихын тазарту">
 <!ENTITY home_clear_history_confirm "Тарихты өшіруді шынымен қалайсыз ба?">
 <!ENTITY home_bookmarks_empty "Сіз сақтаған бетбелгілер осында көрсетіледі.">
@@ -556,6 +558,13 @@ Android-тан импорттау">
 
 <!ENTITY actionbar_menu "Мәзір">
 <!ENTITY actionbar_done "Дайын">
+<!-- Voice search in the awesome bar -->
+
+<!ENTITY voicesearch_prompt "Қазір сөйлеу">
+<!ENTITY voicesearch_failed_title "&brandShortName; дыбыстық іздеуі">
+
+
+<!ENTITY voicesearch_failed_retry "Қайталап көру">
 <!-- Localization note (remote_tabs_last_synced): the variable is replaced by a
      "relative time span string" produced by Android.  This string describes the
      time the tabs were last synced relative to the current time; examples
@@ -564,6 +573,7 @@ Android-тан импорттау">
      their desktop or laptop.-->
 
 <!ENTITY remote_tabs_last_synced "Соңғы синхрондау: &formatS;">
+<!-- Localization note: Used when the sync has not happend yet, showed in place of a date -->
 <!-- Find-In-Page strings -->
 <!-- LOCALIZATION NOTE (find_matchcase): This is meant to appear as an icon that changes color
      if match-case is activated. i.e. No more than two letters, one uppercase, one lowercase. -->

@@ -4,10 +4,12 @@
 
 <!ENTITY itemGeneral.label       "Жалпы">
 
+
 <!ENTITY itemUpdate.label        "Жаңартулар">
 
 <!ENTITY itemCertificates.label  "Сертификаттар">
 <!-- General Settings -->
+
 
 
 
@@ -27,6 +29,16 @@
 
 
 <!ENTITY configEditDesc.label          "Кеңейтілген баптаулар">
+
+
+
+
+
+<!-- Data Choices -->
+
+
+
+
 
 
 

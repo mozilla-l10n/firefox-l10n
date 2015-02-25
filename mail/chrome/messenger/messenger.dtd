@@ -144,6 +144,8 @@
 
 
 
+
+
 <!ENTITY folderView.label "Бумалар">
 <!ENTITY folderView.accesskey "Б">
 
@@ -573,7 +575,9 @@
 
 <!-- Folder Pane -->
 
-<!ENTITY folderColumn.label "Аты">
+<!ENTITY folderNameColumn.label "Аты">
+
+
 <!ENTITY folderSizeColumn.label "Өлшемі">
 <!-- Folder Pane Context Menu -->
 
@@ -637,7 +641,7 @@
 <!ENTITY sizeColumn.label "Өлшемі">
 
 
-<!ENTITY totalColumn.label "Жалпы">
+
 <!ENTITY readColumn.label "Оқу">
 <!ENTITY receivedColumn.label "Алынған">
 

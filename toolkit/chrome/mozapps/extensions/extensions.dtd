@@ -4,6 +4,7 @@
 <!ENTITY addons.windowTitle                   "Қосымшалар басқарушысы">
 
 <!ENTITY search.placeholder                   "Қосымшаларды іздеу">
+
 <!-- LOCALIZATION NOTE (search.commandKey):
      The search command key should match findOnCmd.commandkey from browser.dtd -->
 <!ENTITY search.commandkey                    "f">
@@ -35,8 +36,6 @@
 <!ENTITY info.plugincheck.label                 "Плагиндеріңіздің барлығы жаңа ма, соны тексеріңіз">
 <!ENTITY info.plugincheck.tooltip               "Плагиндеріңіздің барлығы жаңа ма, соны тексеріңіз">
 <!-- categories / views -->
-
-<!ENTITY view.search.label                    "Іздеу">
 <!ENTITY view.discover.label                  "Қосымшаларды алу">
 <!ENTITY view.recentUpdates.label             "Соңғы жаңартулар">
 <!ENTITY view.availableUpdates.label          "Қолжетерлік жаңартулар">
@@ -228,3 +227,4 @@
 <!ENTITY experiment.info.learnmore.accesskey "л">
 <!ENTITY experiment.info.changetelemetry "Телеметрия баптаулары">
 <!ENTITY experiment.info.changetelemetry.accesskey "т">
+

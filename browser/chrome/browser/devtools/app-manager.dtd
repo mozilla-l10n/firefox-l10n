@@ -36,9 +36,9 @@
 <!ENTITY device.permissionsHelpLink "https://developer.mozilla.org/docs/Web/Apps/App_permissions">
 <!ENTITY device.browserTabs "Браузер беттері">
 <!ENTITY device.browserTabsTooltip "Байланысқан құрылғы браузеріндегі беттер тізімін қарау">
-<!ENTITY device.debugBrowserTab "Жөндеу">
+
 <!ENTITY device.debugBrowserTabTooltip "Құрылғыдағы бұл браузерге байланысқан өндіруші саймандарын ашу">
-<!ENTITY device.help "Көмек">
+
 
 <!ENTITY connection.connectTooltip "Құрылғыға байланысу">
 <!ENTITY connection.disconnect "Байланысты үзу">
@@ -66,19 +66,19 @@
 <!ENTITY connection.startRegisteredSimulator "Іске қосу:">
 
 <!ENTITY projects.localApps "Жергілікті қолданбалар">
-<!ENTITY projects.addApp "Қосу">
+
 <!ENTITY projects.addPackaged "Дестеленген қолданбаны қосу">
 <!ENTITY projects.addPackagedTooltip "Компьютеріңізден жаңа дестеленген (бума) қолданбаны қосу">
 <!ENTITY projects.addHosted "Сақталған қолданбаны қосу">
 <!ENTITY projects.addHostedTooltip "Жаңа сақталған қолданбаны (manifest.webapp файлына сілтеме) қашықтағы вебсайттан қосу">
-<!ENTITY projects.title "Жергілікті қолданбалар">
+
 <!ENTITY projects.appDetails "Қолданба ақпараты">
 <!ENTITY projects.removeAppFromList "Бұл қолданбаны сіз жұмыс істеп жатқан қолданбалар тізімінен өшіру. Нәтижесінде ол құрылғыдан не симулятордан өшірілмейді.">
 <!ENTITY projects.updateApp "Жаңарту">
 <!ENTITY projects.updateAppTooltip "Дұрыстықты тексерулерді жөнелту және қолданбаны жалғанған құрылғыда жаңарту">
-<!ENTITY projects.debugApp "Жөндеу">
+
 <!ENTITY projects.debugAppTooltip "Бұл қолданбаға байланысқан Өндіруші саймандарын ашу">
-<!ENTITY projects.saveManifest "Сақтау">
+
 <!ENTITY projects.saveManifestTooltip "Төмендегі манифест түзетушісінің құрамасын сақтау">
 <!ENTITY projects.hostedManifestPlaceHolder2 "http://example.com/app/manifest.webapp">
 <!ENTITY projects.noProjects "Жобалар жоқ. Төменде дестеленген (жергілікті бума) немесе сақталған қолданбаны (манифест файлына сілтеме) қосыңыз.">
@@ -92,7 +92,6 @@
 <!ENTITY projects.hosted "Орналасқан">
 <!ENTITY projects.packaged "Дестеленген">
 
-<!ENTITY help.title "Қолданбалар басқарушысы">
 <!ENTITY help.close "Жабу">
 <!ENTITY help.intro "Бұл сайман сізге үйлесімді құрылғыларда (мыс. Firefox OS) веб қолданбаларды жинау және орнатуға көмектеседі. <strong>Қолданбалар</strong> беті қолданбаңыздың дұрыстығын тексеру және орнату үрдісінде көмектеседі. <strong>Құрылғы</strong> беті сізге жалғанған құрылғы жөнінде ақпаратты көрсетеді. Төмендегі саймандар панелін құрылғыға байланысу немесе симуляторды іске қосу үшін қолданыңыз.">
 <!ENTITY help.usefullLinks "Пайдалы сілтемелер:">
