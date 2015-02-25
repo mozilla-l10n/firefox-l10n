@@ -154,4 +154,5 @@ functionality specific to firefox. -->
 <!ENTITY sslv3Used.title "មិន​អាច​តភ្ជាប់​ដោយ​សុវត្ថិភាព​ឡើយ">
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc) - Do not translate
      "ssl_error_unsupported_version". -->
+<!ENTITY sslv3Used.longDesc "ព័ត៌មាន​កម្រិត​ខ្ពស់៖ ssl_error_unsupported_version">
 <!ENTITY sslv3Used.learnMore "ស្វែងយល់​បន្ថែម...">
