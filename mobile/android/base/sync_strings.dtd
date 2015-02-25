@@ -207,7 +207,7 @@
 <!ENTITY fxaccount_status_needs_upgrade "អ្នក​ត្រូវ​ធ្វើ​បច្ចុប្បន្នភាព &brandShortName; ដើម្បី​ចូល។">
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled "បាន​ដំឡើង &syncBrand.shortName.label; ប៉ុន្តែ​មិន​បាន​ធ្វើ​សមកាលកម្ម​​ដោយ​ស្វ័យប្រវត្តិ​ទេ។ បិទ/បើក \&quot;ការ​​ធ្វើ​សមកាលកម្ម​​ទិន្នន័យ​ស្វ័យប្រវត្តិ\&quot; នៅ​ក្នុង​ការ​កំណត់ Android &gt; ការ​ប្រើប្រាស់​ទិន្នន័យ។">
 
-
+<!ENTITY fxaccount_status_needs_finish_migrating "ប៉ះ​ដើម្បី​ចូល​គណនី Firefox ថ្មី​របស់​អ្នក។">
 <!ENTITY fxaccount_status_bookmarks "ចំណាំ">
 <!ENTITY fxaccount_status_history "ប្រវត្តិ">
 <!ENTITY fxaccount_status_passwords "ពាក្យ​សម្ងាត់">
