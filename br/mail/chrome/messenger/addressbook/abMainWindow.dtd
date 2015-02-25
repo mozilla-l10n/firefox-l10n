@@ -3,8 +3,9 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY addressbookWindow.title                        "Karned chomlec'hioù">
-<!-- File Menu -->
 
+
+<!-- File Menu -->
 <!ENTITY fileMenu.label                                 "Restr">
 <!ENTITY fileMenu.accesskey                             "R">
 <!ENTITY newMenu.label                                  "Nevez">

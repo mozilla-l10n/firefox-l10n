@@ -17,6 +17,7 @@
 <!ENTITY restorepage.closeButton    "Serriñ">
 
 
+<!ENTITY restorepage.restoreHeader  "Assav">
 <!ENTITY restorepage.listHeader     "Prenestroù hag ivinelloù">
 <!-- LOCALIZATION NOTE: &#37;S will be replaced with a number. -->
 <!ENTITY restorepage.windowLabel    "Prenestr &#037;S">

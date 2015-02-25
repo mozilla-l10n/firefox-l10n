@@ -11,8 +11,8 @@
 <!ENTITY radioRememberPrevState.accesskey "r">
 <!ENTITY radioAskState.label "Goulenn ganin evit ar stad enlinenn">
 <!ENTITY radioAskState.accesskey "k">
-<!ENTITY radioAlwaysOnline.label "Enlinenn">
-<!ENTITY radioAlwaysOnline.accesskey "l">
+<!ENTITY radioAlwaysOnlineState.label "Enlinenn">
+<!ENTITY radioAlwaysOnlineState.accesskey "l">
 <!ENTITY radioAlwaysOffline.label "Ezlinenn">
 <!ENTITY radioAlwaysOffline.accesskey "z">
 

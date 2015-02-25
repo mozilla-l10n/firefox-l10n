@@ -1,0 +1,9 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+
+<!ENTITY tabCrashed.reportSent "Kinniget eo bet ar rentañ-kont sac'hadenn. Trugarez deoc'h evit ho sikour a-benn gwellaat &brandShortName; !">
+<!ENTITY tabCrashed.closeTab "Serriñ an Ivinell-mañ">
+<!ENTITY tabCrashed.restoreTab "Assav an Ivinell-mañ">
+<!ENTITY tabCrashed.restoreAll "Assav an holl ivinelloù sac'het">

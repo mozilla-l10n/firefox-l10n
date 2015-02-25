@@ -1,6 +1,8 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY minimizeWindow.key       "m">
 <!ENTITY minimizeWindow.label     "Bihanaat">
 <!ENTITY bringAllToFront.label    "Lakaat pep tra war ar rakleur">
 <!ENTITY zoomWindow.label         "Zoum">
@@ -11,11 +13,11 @@
 <!-- LOCALIZATION NOTE some localizations of Windows (ex:french, german) use "?"
                        for the help button in the menubar but Gnome does not.   -->
 
+<!ENTITY aboutProduct2.label      "A-zivout &brandShortName;">
+<!ENTITY aboutProduct2.accesskey  "A">
 
 
-
-
-
+<!ENTITY helpMac.commandkey       "?">
 
 <!ENTITY helpKeyboardShortcuts.label     "Berradennoù klavier">
 <!ENTITY helpKeyboardShortcuts.accesskey "k">
@@ -34,13 +36,14 @@
 
 
 <!ENTITY preferencesCmdMac.label        "Ma gwellvezioù…">
-
+<!ENTITY preferencesCmdMac.commandkey   ",">
 
 <!ENTITY servicesMenuMac.label          " Gwazerezhioù">
 
-
+<!ENTITY hideThisAppCmdMac2.label       "Kuzhat &brandShortName;">
+<!ENTITY hideThisAppCmdMac2.commandkey  "H">
 
 <!ENTITY hideOtherAppsCmdMac.label      "Kuzhat ar re all">
-
+<!ENTITY hideOtherAppsCmdMac.commandkey "H">
 
 <!ENTITY showAllAppsCmdMac.label        "Diskouez pep tra">

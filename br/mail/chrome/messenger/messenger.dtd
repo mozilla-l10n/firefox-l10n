@@ -145,6 +145,8 @@
 <!ENTITY messagePaneVertical.accesskey "s">
 <!ENTITY showFolderPaneCmd.label "Penel an teuliadoù">
 <!ENTITY showFolderPaneCmd.accesskey "t">
+
+
 <!ENTITY showMessageCmd.label "Penel ar c'hemennadennoù">
 <!ENTITY showMessageCmd.accesskey "m">
 
@@ -593,7 +595,9 @@
 <!ENTITY manageTags.accesskey "A">
 <!-- Folder Pane -->
 
-<!ENTITY folderColumn.label "Anv">
+<!ENTITY folderNameColumn.label "Anv">
+
+
 <!ENTITY folderSizeColumn.label "Ment">
 <!-- Folder Pane Context Menu -->
 
@@ -662,8 +666,8 @@
 <!ENTITY statusColumn.label "Stad">
 <!ENTITY sizeColumn.label "Ment">
 <!ENTITY junkStatusColumn.label "Stad lastez">
-<!ENTITY unreadColumn.label "Anlennet">
-<!ENTITY totalColumn.label "Hollad">
+
+
 <!ENTITY readColumn.label "Lennet">
 <!ENTITY receivedColumn.label "Degemeret">
 <!ENTITY starredColumn.label "Steredennet">
