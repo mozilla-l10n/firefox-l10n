@@ -79,8 +79,8 @@
 <!ENTITY certmgr.details.accesskey            "T">
 <!ENTITY certmgr.fields.label                 "Gwerth Maes">
 <!ENTITY certmgr.fields.accesskey             "G">
-
-
+<!ENTITY certmgr.hierarchy.label              "Hierarchaeth Tystysgrifau">
+<!ENTITY certmgr.hierarchy.accesskey2         "H">
 <!ENTITY certmgr.addException.label           "Ychwanegu Eithriad…">
 <!ENTITY certmgr.addException.accesskey       "Y">
 

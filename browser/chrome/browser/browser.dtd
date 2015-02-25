@@ -846,6 +846,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY emeNotificationsDontAskAgain.label       "Peidio gofyn eto">
 <!ENTITY emeNotificationsDontAskAgain.accesskey   "P">
 
+<!ENTITY readingList.label                        "Rhestr Ddarllen">
 <!ENTITY readingList.sidebar.commandKey           "R">
 <!-- Pre-landed string for bug 1124400 -->
 <!ENTITY readingList.showSidebar.label            "Dangos Bar Ochr y Rhestr Ddarllen">
@@ -857,4 +858,4 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY readingList.sidebar.delete.tooltip       "Tynnu hwn o'ch Rhestr Ddarllen">
 <!-- Pre-landed strings for bug 1123519 -->
 <!ENTITY readingList.sidebar.add.label            "Ychwanegu at eich Rhestr Ddarllen">
-
+<!ENTITY readingList.sidebar.add.tooltip          "Ychwanegu'r dudalen i'ch Rhestr Darllen">
