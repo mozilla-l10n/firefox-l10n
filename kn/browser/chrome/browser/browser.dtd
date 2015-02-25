@@ -61,14 +61,14 @@ can reach it easily. -->
 displayed on OS X, and only on windows that aren't main browser windows, or
 when there are no windows but Firefox is still running. -->
 <!ENTITY openLocationCmd.label "ತಾಣವನ್ನು ತೆರೆ…">
-<!ENTITY openFileCmd.label "ಕಡತವನ್ನು ತೆರೆ...">
+<!ENTITY openFileCmd.label "Open ಕಡತ…">
 <!ENTITY openFileCmd.accesskey "O">
 <!ENTITY openFileCmd.commandkey "o">
-<!ENTITY printSetupCmd.label "ಪುಟದ ಹೊಂದಾಣಿಕೆಗಳು...">
+<!ENTITY printSetupCmd.label "ಪುಟದ Setup…">
 <!ENTITY printSetupCmd.accesskey "u">
 <!ENTITY printPreviewCmd.label "ಮುದ್ರಣ ಮುನ್ನೋಟ">
 <!ENTITY printPreviewCmd.accesskey "v">
-<!ENTITY printCmd.label "ಮುದ್ರಿಸು...">
+<!ENTITY printCmd.label "Print…">
 <!ENTITY printCmd.accesskey "P">
 <!ENTITY printCmd.commandkey "p">
 
@@ -282,7 +282,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY devAppMgrMenu.accesskey           "A">
 <!ENTITY webide.label                      "WebIDE">
 <!ENTITY webide.accesskey                  "W">
-<!ENTITY webide.keycode                    "VK_F4">
+<!ENTITY webide.keycode                    "VK_F8">
 <!ENTITY webide.keytext                    "F8">
 <!ENTITY devToolbar.keycode                "VK_F2">
 <!ENTITY devToolbar.keytext                "F2">
