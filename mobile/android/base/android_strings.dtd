@@ -160,7 +160,7 @@
 <!-- Localization note: These are shown in the left sidebar on tablets -->
 
 <!ENTITY pref_header_customize "Баптау">
-
+<!ENTITY pref_header_display "Көрініс">
 <!ENTITY pref_header_privacy_short "Жекелік">
 <!ENTITY pref_header_help "Көмек">
 <!ENTITY pref_header_language "Тіл">
@@ -213,8 +213,8 @@ size. -->
 
 <!ENTITY pref_media_autoplay_enabled "Автоойнатуды рұқсат ету">
 <!ENTITY pref_media_autoplay_enabled_summary "Веб сайттар видеолар және басқа медиа құрамасын автоойнату мүмкіндігін басқару">
-
-
+<!ENTITY pref_zoom_force_enabled "Масштабты әрқашан іске қосу">
+<!ENTITY pref_zoom_force_enabled_summary "Баптауды үстінен жазу, масштаб әр бетте жасайтын болады">
 
 <!ENTITY pref_use_master_password "Мастер парольді қолдану">
 <!ENTITY pref_sync "Синхрондау">
@@ -562,8 +562,8 @@ Android-тан импорттау">
 
 <!ENTITY voicesearch_prompt "Қазір сөйлеу">
 <!ENTITY voicesearch_failed_title "&brandShortName; дыбыстық іздеуі">
-
-
+<!ENTITY voicesearch_failed_message "Дауыстық іздеу сәтсіз аяқталды. Кейінірек қайталап көріңіз.">
+<!ENTITY voicesearch_failed_message_recoverable "Кешіріңіз! Сөздеріңізді тани алмадық. Қайталап көріңіз.">
 <!ENTITY voicesearch_failed_retry "Қайталап көру">
 <!-- Localization note (remote_tabs_last_synced): the variable is replaced by a
      "relative time span string" produced by Android.  This string describes the
@@ -574,6 +574,7 @@ Android-тан импорттау">
 
 <!ENTITY remote_tabs_last_synced "Соңғы синхрондау: &formatS;">
 <!-- Localization note: Used when the sync has not happend yet, showed in place of a date -->
+<!ENTITY remote_tabs_never_synced "Соңғы синхрондау: ешқашан">
 <!-- Find-In-Page strings -->
 <!-- LOCALIZATION NOTE (find_matchcase): This is meant to appear as an icon that changes color
      if match-case is activated. i.e. No more than two letters, one uppercase, one lowercase. -->
