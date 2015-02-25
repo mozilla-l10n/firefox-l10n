@@ -55,7 +55,7 @@
 <!ENTITY viewMenu_resetzoom_label "ಹಿಂದಿನ ಸ್ಥಿತಿ ಜೂಮ್">
 <!ENTITY viewMenu_resetzoom_accesskey "R">
 
-<!ENTITY projectButton_label "R">
+<!ENTITY projectButton_label "ಅನ್ವಯ ತೆಗೆ">
 <!ENTITY runtimeButton_label "ನಿರ್ವಹಣೆ ಸಮಯ ಆಯ್ಕೆಮಾಡು">
 <!-- We try to repicate Firefox' bindings: -->
 <!-- quit app -->

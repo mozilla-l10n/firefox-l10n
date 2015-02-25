@@ -18,7 +18,7 @@
 <!-- LOCALIZATION NOTE (profilerUI.stopNotice1/2): This is the label shown
   -  in the call list view while recording a profile. -->
 
-<!ENTITY profilerUI.stopNotice1    "ಗುಂಡಿಯ ಮೇಲೆ ಮೇಲೆ ಕ್ಲಿಕ್ಕಿಸಿ">
+<!ENTITY profilerUI.stopNotice1    "ಗುಂಡಿಯ ಮೇಲೆ ಕ್ಲಿಕ್ಕಿಸಿ">
 <!ENTITY profilerUI.stopNotice2    "ಪ್ರೊಫೈಲ್‌ ಮಾಡುವುದನ್ನು ನಿಲ್ಲಿಸಲು.">
 <!-- LOCALIZATION NOTE (profilerUI.loadingNotice): This is the label shown
   -  in the call list view while loading a profile. -->
@@ -46,7 +46,7 @@
 <!ENTITY profilerUI.toolbar.waterfall "ಕಾಲಾವಧಿ">
 <!ENTITY profilerUI.toolbar.js-calltree "ಜಾವಾಸ್ಕ್ರಿಪ್ಟ್‍">
 <!ENTITY profilerUI.toolbar.memory-calltree "ಮೆಮೊರಿ">
-<!ENTITY profilerUI.toolbar.js-flamegraph "ಜೆಎಸ್ ಪ್ಲೇಮ್ ನಕ್ಷೆ">
+<!ENTITY profilerUI.toolbar.js-flamegraph "JS ಪ್ಲೇಮ್ ನಕ್ಷೆ">
 <!ENTITY profilerUI.toolbar.memory-flamegraph "ಮೆಮರೊ ಪ್ಲೇಮ್ ನಕ್ಷೆ">
 <!-- LOCALIZATION NOTE (profilerUI.table.*): These strings are displayed
   -  in the call tree headers for a recording. -->

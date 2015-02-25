@@ -8,11 +8,11 @@
 <!ENTITY zoomWindow.label         "ಹಿಗ್ಗಿಸು">
 <!ENTITY windowMenu.label         "ವಿಂಡೋ">
 
-<!ENTITY helpMenu.label           "ನೆರವು"> 
+<!ENTITY helpMenu.label           "Help"> 
 <!ENTITY helpMenu.accesskey       "H"> 
 <!-- LOCALIZATION NOTE some localizations of Windows (ex:french, german) use "?"
                        for the help button in the menubar but Gnome does not.   -->
-<!ENTITY helpMenuWin.label        "ನೆರವು"> 
+<!ENTITY helpMenuWin.label        "Help"> 
 <!ENTITY helpMenuWin.accesskey    "H">
 <!ENTITY aboutProduct2.label      "About &brandShorterName;">
 <!ENTITY aboutProduct2.accesskey  "A">
@@ -23,22 +23,22 @@
 <!ENTITY helpKeyboardShortcuts.label     "Keyboard ಸಮೀಪಮಾರ್ಗಗಳು">
 <!ENTITY helpKeyboardShortcuts.accesskey "K">
 
-<!ENTITY helpSafeMode.label       "ಆಡ್‌-ಆನ್‌ಗಳನ್ನು ಅಶಕ್ತಗೊಳಿಸಿ ನಂತರ ಮರಳಿ ಆರಂಭಿಸಿ…">
+<!ENTITY helpSafeMode.label       "Restart ಆಡ್‌-ಆನ್‌ಗಳನ್ನು ಅಶಕ್ತಗೊಳಿಸಿದ ನಂತರ…">
 <!ENTITY helpSafeMode.accesskey   "R">
 
 <!ENTITY healthReport2.label      "&brandShorterName; Health ವರದಿ">
 <!ENTITY healthReport2.accesskey  "e">
 
-<!ENTITY helpTroubleshootingInfo.label      "ದೋಷನಿವಾರಣ ಮಾಹಿತಿ">
+<!ENTITY helpTroubleshootingInfo.label      "Troubleshooting ಮಾಹಿತಿ">
 <!ENTITY helpTroubleshootingInfo.accesskey  "T">
 
-<!ENTITY helpFeedbackPage.label      "ಅಭಿಪ್ರಾಯವನ್ನು ಸಲ್ಲಿಸಿ…">
+<!ENTITY helpFeedbackPage.label      "Submit ಅಭಿಪ್ರಾಯ…">
 <!ENTITY helpFeedbackPage.accesskey  "S">
 
 <!ENTITY helpShowTour2.label            "&brandShorterName; Tour">
 <!ENTITY helpShowTour2.accesskey        "o">
 
-<!ENTITY preferencesCmdMac.label        "ಆದ್ಯತೆಗಳು...">
+<!ENTITY preferencesCmdMac.label        "ಆದ್ಯತೆಗಳು…">
 <!ENTITY preferencesCmdMac.commandkey   ",">
 
 <!ENTITY servicesMenuMac.label          "ಸೇವೆಗಳು">
