@@ -76,9 +76,9 @@
 <!ENTITY projects.removeAppFromList "Tynnu'r ap o rhestr yr apiau rydych yn gweithio arnynt. Ni fydd hyn yn ei dynnu o'r rhestr na'r efelychydd.">
 <!ENTITY projects.updateApp "Diweddaru">
 <!ENTITY projects.updateAppTooltip "Gweithredwch wiriadau dilysu a diweddaru'r ap i'r ddyfais gysylltiedig">
-
+<!ENTITY projects.debugApp "Dadfygio">
 <!ENTITY projects.debugAppTooltip "Offer Datblygwyr Agored wedi ei gysylltu i'r ap">
-
+<!ENTITY projects.saveManifest "Cadw">
 <!ENTITY projects.saveManifestTooltip "Cadw cynnwys y Golygydd Manifest isod">
 <!ENTITY projects.hostedManifestPlaceHolder2 "http://example.com/app/manifest.webapp">
 <!ENTITY projects.noProjects "Dim projectau. Ychwanegwch ap pecyn newydd isod (cyfeiriadur lleol) neu ap gwesteio (dolen i ffeil manifest).">

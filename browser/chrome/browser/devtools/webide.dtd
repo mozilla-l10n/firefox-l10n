@@ -41,8 +41,8 @@
 <!ENTITY runtimeMenu_showMonitor_accesskey "M">
 <!ENTITY runtimeMenu_showDevicePrefs_label "Dewisiadau'r Ddyfais">
 <!ENTITY runtimeMenu_showDevicePrefs_accesskey "D">
-
-
+<!ENTITY runtimeMenu_showSettings_label "Gosodiadau Dyfais">
+<!ENTITY runtimeMenu_showSettings_accesskey "g">
 
 <!ENTITY viewMenu_label "Golwg">
 <!ENTITY viewMenu_accesskey "G">
@@ -180,8 +180,13 @@
      user to transfer authentication info by scanning a QR code. -->
 <!-- LOCALIZATION NOTE (wifi_auth_no_scanner): Link text to assist users with
      devices that can't scan a QR code. -->
+<!ENTITY wifi_auth_no_scanner "Dim anogwr sganiwr QR?">
 <!-- LOCALIZATION NOTE (wifi_auth_yes_scanner): Link text to assist users with
      devices that can scan a QR code. -->
+<!ENTITY wifi_auth_yes_scanner "Oes gennych chi anogwr sganiwr QR?">
 <!-- LOCALIZATION NOTE (wifi_auth_token_request): Instructions requesting the
      user to transfer authentication info by transferring a token. -->
+<!ENTITY wifi_auth_token_request "Os yw eich dyfais arall yn gofyn am docyn yn lle sganio'r cod QR, copïwch y gwerth isod i'r ddyfais arall:">
 <!-- Logs panel -->
+
+<!ENTITY logs_title "Rhag-becynnu Cofnodion Gorchmynion">
