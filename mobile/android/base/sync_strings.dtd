@@ -71,11 +71,15 @@
 <!ENTITY sync.button.connect.label "Conectare">
 <!ENTITY sync.button.ok.label "Bine">
 <!-- Account strings -->
+
+<!ENTITY sync.account.label "&syncBrand.fullName.label; (învechit)">
 <!-- Localization note (sync.default.client.name): Default string of the "Device
      name" menu item upon setting up Firefox Sync.  The placeholder &formatS1
      will be replaced by the name of the Firefox release channel and &formatS2
      by the model name of the Android device. Examples look like "Aurora on
      GT-I1950" and "Fennec on MI 2S". -->
+
+<!ENTITY sync.default.client.name "&formatS1; pe &formatS2;">
 <!-- Bookmark folder strings -->
 
 <!ENTITY bookmarks.folder.menu.label "Meniul „Semne de carte”">
@@ -110,37 +114,51 @@
 <!-- Firefox Account strings. -->
 
 
+<!ENTITY fxaccount_full_label "Conturi Firefox">
+
+<!ENTITY fxaccount_custom_server_account_title "Folosind cont pe server">
+<!ENTITY fxaccount_custom_server_sync_title "Stocarea datelor de Sincronizare pe server">
 <!-- Localization note: these are shown in all screens that query the
      user for an email address and password. Hide and show are button
      labels. -->
 
+<!ENTITY fxaccount_email_hint "E-mail">
+<!ENTITY fxaccount_password_hint "Parolă">
 <!ENTITY fxaccount_password_hide "Ascunde">
 <!ENTITY fxaccount_password_show "Afișează">
 <!-- Localization note: these are shown in screens after the user has
      created or signed in to an account, and take the user back to
      Firefox. -->
+
+<!ENTITY fxaccount_back_to_browsing "Înapoi la navigare">
 <!-- Localization note: the following two strings are interpolated
      into fxaccount_create_account_policy_text2; see note for that
      string as well.  Compare fxaccount_status_{linktos,linkprivacy}:
      these strings are separated to accommodate languages that decline
      the two uses differently. -->
 
+<!ENTITY fxaccount_policy_linktos "Termenii serviciului">
+<!ENTITY fxaccount_policy_linkprivacy "Politica de confidențialitate">
 
-
-
-
+<!ENTITY fxaccount_getting_started_welcome_to_sync "Bun venit la &syncBrand.shortName.label;">
+<!ENTITY fxaccount_getting_started_description "Autentifică-te pentru a sincroniza paginile, semnele de carte, parolele și altele.">
+<!ENTITY fxaccount_getting_started_get_started "Începe">
+<!ENTITY fxaccount_getting_started_old_firefox "Folosești o versiune mai veche de &syncBrand.shortName.label;?">
 <!-- Localization note: the Firefox below should not change with the
      particular version of Firefox installed (Release, Beta, Aurora,
      etc).  The account remains a "Firefox Account". -->
 
-
-
-
+<!ENTITY fxaccount_create_account_header2 "Creează un cont Firefox">
+<!ENTITY fxaccount_create_account_password_length_restriction "Trebuie să aibă minim 8 caractere">
+<!ENTITY fxaccount_create_account_day_of_birth "Zi">
+<!ENTITY fxaccount_create_account_month_of_birth "Lună">
+<!ENTITY fxaccount_create_account_year_of_birth "Anul nașterii">
 <!-- Localization note: &formatS1; is fxaccount_policy_linktos, &formatS2; is fxaccount_policy_linkprivacy, both hyperlinked. -->
+<!ENTITY fxaccount_create_account_policy_text2 "Continunând, sunt de acord cu &formatS1; și &formatS2; a serviciilor cloud Firefox.">
 <!ENTITY fxaccount_create_account_button "Următor">
-
-
-
+<!ENTITY fxaccount_create_account_choose_what_to_sync "Alege ce sincronizezi">
+<!ENTITY fxaccount_create_account_sign_in_instead "Ai un cont deja? Autentifică-te">
+<!ENTITY fxaccount_create_account_1990_or_earlier "1990 sau anterior">
 
 
 
