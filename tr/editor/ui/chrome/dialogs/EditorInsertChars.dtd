@@ -10,10 +10,10 @@
 <!ENTITY letter.accessKey "H">
 <!ENTITY character.label "Karakter:">
 <!ENTITY character.accessKey "K">
-<!ENTITY accentUpper.label "Vurgulu büyük harf">
-<!ENTITY accentLower.label "Vurgulu küçük harf ">
-<!ENTITY otherUpper.label "Diğer büyük harf">
-<!ENTITY otherLower.label "Diğer küçük harf">
-<!ENTITY commonSymbols.label "Genel simgeler">
+<!ENTITY accentUpper.label "Vurgulu Büyük Harf">
+<!ENTITY accentLower.label "Vurgulu Küçük Harf ">
+<!ENTITY otherUpper.label "Diğer Büyük Harf">
+<!ENTITY otherLower.label "Diğer Küçük Harf">
+<!ENTITY commonSymbols.label "Genel Simgeler">
 <!ENTITY insertButton.label "Ekle">
 <!ENTITY closeButton.label "Kapat">

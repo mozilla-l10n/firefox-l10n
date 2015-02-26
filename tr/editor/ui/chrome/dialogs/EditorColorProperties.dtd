@@ -3,9 +3,9 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!-- Window title -->
 
-<!ENTITY windowTitle.label "Sayfa renkleri ve arka planı">
-<!ENTITY pageColors.label "Sayfa renkleri">
-<!ENTITY defaultColorsRadio.label "Okuyucunun varsayılan renkleri (Sayfadaki renkleri ayarlama)">
+<!ENTITY windowTitle.label "Sayfa Renkleri ve Arka Plan">
+<!ENTITY pageColors.label "Sayfa Renkleri">
+<!ENTITY defaultColorsRadio.label "Okuyucunun varsayılan renkleri (Sayfada renk belirleme)">
 <!ENTITY defaultColorsRadio.accessKey "d">
 <!ENTITY defaultColorsRadio.tooltip "Sadece okuyucunun tarayıcısındaki renk ayarlarını kullan">
 <!ENTITY customColorsRadio.label "Özel renkleri kullan:">
@@ -23,6 +23,6 @@
 <!ENTITY background.label "Arka plan:">
 <!ENTITY background.accessKey "A">
 <!ENTITY colon.character ":">
-<!ENTITY backgroundImage.label "Arka plan resmi:">
+<!ENTITY backgroundImage.label "Arka Plan Resmi:">
 <!ENTITY backgroundImage.accessKey "k">
 <!ENTITY backgroundImage.tooltip "Bir resim dosyasını sayfanızda arka plan olarak kullanın">

@@ -6,7 +6,7 @@
 
 <!ENTITY Settings.label "Ayarlar">
 
-<!ENTITY ButtonType.label "Türü">
+<!ENTITY ButtonType.label "Tür">
 <!ENTITY ButtonType.accesskey "r">
 <!ENTITY submit.value "Gönder">
 <!ENTITY reset.value "Sıfırla">
@@ -16,12 +16,12 @@
 <!ENTITY ButtonName.accesskey "A">
 <!ENTITY ButtonValue.label "Değer:">
 <!ENTITY ButtonValue.accesskey "D">
-<!ENTITY tabIndex.label "Sekme indeksi:">
+<!ENTITY tabIndex.label "Sekme Endeksi:">
 <!ENTITY tabIndex.accesskey "e">
-<!ENTITY ButtonDisabled.label "Kullanılamaz">
-<!ENTITY ButtonDisabled.accesskey "K">
-<!ENTITY AccessKey.label "Erişim tuşu:">
+<!ENTITY ButtonDisabled.label "Devre Dışı">
+<!ENTITY ButtonDisabled.accesskey "D">
+<!ENTITY AccessKey.label "Erişim Tuşu:">
 <!ENTITY AccessKey.accesskey "E">
 
-<!ENTITY RemoveButton.label "Düğmeyi kaldır">
+<!ENTITY RemoveButton.label "Düğmeyi Kaldır">
 <!ENTITY RemoveButton.accesskey "m">

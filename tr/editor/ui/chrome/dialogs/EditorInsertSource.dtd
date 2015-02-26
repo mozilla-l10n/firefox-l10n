@@ -4,7 +4,7 @@
 <!-- Window title -->
 
 <!ENTITY windowTitle.label "HTML ekle">
-<!ENTITY sourceEditField.label "HTML etiketlerini ve metni girin:">
+<!ENTITY sourceEditField.label "HTML etiketlerini ve metni gir:">
 <!ENTITY example.label "Örnek: ">
 <!-- LOCALIZATION NOTE (exampleOpenTag.label): DONT_TRANSLATE: they are text for HTML tagnames: "<i>" and "</i>" -->
 <!ENTITY exampleOpenTag.label "&lt;i&gt;">

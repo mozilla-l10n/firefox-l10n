@@ -2,17 +2,17 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY AdvancedEditButton.label "Gelişmiş düzenleme…">
+<!ENTITY AdvancedEditButton.label "Gelişmiş Düzenleme…">
 <!ENTITY AdvancedEditButton.accessKey "e">
-<!ENTITY AdvancedEditButton.tooltip "HTML öznitelikleri, biçim öznitelikleri ve JavaScript ekle veya değiştir">
-<!ENTITY chooseFileButton.label "Dosya seç…">
+<!ENTITY AdvancedEditButton.tooltip "HTML öznitelikleri, biçem öznitelikleri ve JavaScript ekle veya değiştir">
+<!ENTITY chooseFileButton.label "Dosya Seç...">
 <!ENTITY chooseFileButton.accessKey "D">
-<!ENTITY chooseFileLinkButton.label "Dosya seç…">
+<!ENTITY chooseFileLinkButton.label "Dosya Seç...">
 <!ENTITY chooseFileLinkButton.accessKey "o">
-<!ENTITY makeUrlRelative.label "URL sayfa konumuna bağlıdır">
+<!ENTITY makeUrlRelative.label "URL sayfa konumuna bağlı">
 <!ENTITY makeUrlRelative.accessKey "s">
 <!ENTITY makeUrlRelative.tooltip "Bağıl ve tam URL arasında değişiklik var. Bunu değiştirmek için önce sayfayı kaydetmelisiniz.">
 <!-- Shared by Link and Image dialogs -->
 
-<!ENTITY LinkURLEditField.label "Bir web sayfası konumu veya bir yerel dosya girin, veya açılır listeden isimlendirilmiș belirteç veya bașlık seçin:">
+<!ENTITY LinkURLEditField.label "Bir web sayfası konumu, yerel bir dosya girin veya açılır listeden İsimlendirilmiș Çıpa veya Bașlık seçin:">
 <!ENTITY LinkURLEditField.accessKey "w">

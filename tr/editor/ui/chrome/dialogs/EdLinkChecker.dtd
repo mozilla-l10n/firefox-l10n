@@ -4,6 +4,6 @@
 <!-- Window title -->
 
 <!ENTITY windowTitle.label     "Resim ve Bağlantı Konumlarını Denetle">
-<!ENTITY succeeded.label       "Başarılı">
-<!ENTITY failed.label          "Başarısız">
+<!ENTITY succeeded.label       "Başarılı Oldu">
+<!ENTITY failed.label          "Başarısız Oldu">
 <!ENTITY closeButton.label     "Kapat">

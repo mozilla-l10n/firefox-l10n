@@ -3,12 +3,12 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!-- Window title -->
 
-<!ENTITY siteUrl.label         "Site adresi:">
+<!ENTITY siteUrl.label         "Site URL'si:">
 <!ENTITY docSubdir.label       "Sayfa alt dizini:">
 <!ENTITY otherSubdir.label     "Resim alt dizini:">
 
 <!ENTITY status.label          "Yayımlanıyor…">
-<!ENTITY fileList.label        "Yayın durumu">
+<!ENTITY fileList.label        "Yayımlama Durumu">
 <!ENTITY succeeded.label       "Başarılı">
 <!ENTITY failed.label          "Başarısız">
 

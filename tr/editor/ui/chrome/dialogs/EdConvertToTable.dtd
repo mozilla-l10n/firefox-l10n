@@ -9,7 +9,7 @@
 <!ENTITY instructions2.label   "Seçimi sütunlara ayırmak için kullanılacak karakteri seçin:">
 <!ENTITY commaRadio.label      "Virgül">
 <!ENTITY spaceRadio.label      "Boşluk">
-<!ENTITY otherRadio.label      "Diğer karakter:">
+<!ENTITY otherRadio.label      "Diğer Karakter:">
 <!ENTITY deleteCharCheck.label "Ayraç karakterini sil">
-<!ENTITY collapseSpaces.label  "Ekstra boşlukları dikkate alma">
-<!ENTITY collapseSpaces.tooltip "Yakın boşlukları tek bir ayraca dönüştür">
+<!ENTITY collapseSpaces.label  "Fazladan boşlukları dikkate alma">
+<!ENTITY collapseSpaces.tooltip "Bitişik boşlukları tek bir ayraca dönüştür">

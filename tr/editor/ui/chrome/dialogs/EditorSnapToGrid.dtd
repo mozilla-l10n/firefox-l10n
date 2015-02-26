@@ -4,9 +4,9 @@
 <!-- Window title -->
 
 
-<!ENTITY windowTitle.label "Izgaraya yapıştır">
+<!ENTITY windowTitle.label "Izgaraya Yapıştır">
 
-<!ENTITY enableSnapToGrid.label "ızgaraya yapıştırmayı inleştir">
+<!ENTITY enableSnapToGrid.label "Izgaraya Yapıştırmayı Etkinleştir">
 <!ENTITY enableSnapToGrid.accessKey "y">
 
 <!ENTITY sizeEditField.label "Boyut:">
