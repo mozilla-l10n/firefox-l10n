@@ -141,6 +141,8 @@
 <!ENTITY messagePaneVertical.accesskey "V">
 
 
+
+
 <!ENTITY showMessageCmd.label "Message Pane">
 <!ENTITY showMessageCmd.accesskey "M">
 
@@ -577,7 +579,9 @@
 
 <!-- Folder Pane -->
 
-<!ENTITY folderColumn.label "نام">
+<!ENTITY folderNameColumn.label "نام">
+
+
 <!ENTITY folderSizeColumn.label "اندازه">
 <!-- Folder Pane Context Menu -->
 
@@ -644,8 +648,8 @@
 <!ENTITY statusColumn.label "وضعیت">
 <!ENTITY sizeColumn.label "اندازه">
 <!ENTITY junkStatusColumn.label "Junk Status">
-<!ENTITY unreadColumn.label "Unread">
-<!ENTITY totalColumn.label "Total">
+
+
 <!ENTITY readColumn.label "Read">
 <!ENTITY receivedColumn.label "Received">
 <!ENTITY starredColumn.label "Starred">

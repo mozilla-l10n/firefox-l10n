@@ -13,11 +13,10 @@
 <!ENTITY restorepage.startNew       "شروع یک نشست مرور جدید">
 
 <!ENTITY restorepage.tryagainButton "برگرداندن">
-<!ENTITY restorepage.restore.access "ن">
-<!ENTITY restorepage.closeButton    "بستن">
-<!ENTITY restorepage.close.access   "C">
 
-<!ENTITY restorepage.restoreHeader  "برگرداندن">
+<!ENTITY restorepage.closeButton    "بستن">
+
+
 <!ENTITY restorepage.listHeader     "پنجره‌ها و زبانه‌ها">
 <!-- LOCALIZATION NOTE: &#37;S will be replaced with a number. -->
 <!ENTITY restorepage.windowLabel    "پنجره &#037;S">
@@ -27,11 +26,10 @@
 
 
 <!ENTITY welcomeback2.restoreButton  "بزن بریم!">
-<!ENTITY welcomeback2.restoreButton.access "L">
+
 
 <!ENTITY welcomeback2.tabtitle      "با موفقیت انجام شد!">
 
-<!ENTITY welcomeback2.pageTitle     "با موفقیت انجام شد!">
 <!ENTITY welcomeback2.pageInfo1     "&brandShortName; آماده شروع است.">
 
 <!ENTITY welcomeback2.label.restoreAll  "برگرداندن تمام پنجره ها و زبانه ها">

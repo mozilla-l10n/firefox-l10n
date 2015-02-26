@@ -73,7 +73,7 @@
 <!ENTITY switch_button_message "جابجایی">
 
 <!ENTITY settings "تنظیمات">
-<!ENTITY settings_title "تنظیمات">
+
 <!ENTITY pref_category_advanced "پیشرفته">
 <!ENTITY pref_category_customize "سفارشی‌سازی">
 
@@ -104,10 +104,9 @@
      either has not set up Sync, or has no other devices to send a tab
      to. -->
 
-<!ENTITY overlay_share_retry "تلاش مجدد">
 
 
-<!ENTITY pref_category_search3 "جستجو">
+
 <!ENTITY pref_category_search_summary "جستجوگر خود را شخصی سازی نمایید">
 <!ENTITY pref_category_display "نمایش">
 
@@ -121,7 +120,7 @@
 <!ENTITY pref_category_add_search_providers "اضافه کردن بیشتر تامین‌کننده‌های جستجو">
 <!ENTITY pref_category_search_restore_defaults "بازآوری موتورهای جستجو">
 <!ENTITY pref_search_restore_defaults "بازگرداندن پیش‌فرض‌ها">
-<!ENTITY pref_search_restore_defaults_summary "بازگرداندن پیش‌فرض‌ها">
+
 <!-- Localization note (pref_search_hint) : "TIP" as in "hint", "clue" etc. Displayed as an
      advisory message on the customise search providers settings page explaining how to add new
      search providers.
@@ -150,16 +149,14 @@
 
 <!-- Localization note: These are shown in the left sidebar on tablets -->
 
-<!ENTITY pref_header_customize "سفارشی‌سازی">
-<!ENTITY pref_header_display "نمایش">
-<!ENTITY pref_header_privacy_short "حریم‌خصوصی">
 
 
-<!ENTITY pref_header_vendor "&vendorShortName;">
-<!ENTITY pref_header_devtools "ابزارهای توسعه">
+
+
+
 
 <!ENTITY pref_cookies_menu "کوکی‌ها">
-<!ENTITY pref_cookies_accept_all "فعال شد">
+
 <!ENTITY pref_cookies_not_accept_foreign "فعال شده، بدون شخص ثالث">
 <!ENTITY pref_cookies_disabled "غیرفعال شد">
 
@@ -176,9 +173,9 @@
 
 
 <!ENTITY pref_plugins "افزونه‌ها">
-<!ENTITY pref_plugins_enabled "فعال شد">
+
 <!ENTITY pref_plugins_tap_to_play "برای اجرا، فشار دهید">
-<!ENTITY pref_plugins_disabled "غیر فعال شد">
+
 <!ENTITY pref_text_size "اندازهٔ متن">
 <!ENTITY pref_reflow_on_zoom4 "جهت متن">
 <!ENTITY pref_restore "زبانه‌ها">
@@ -195,11 +192,12 @@
 same character/combination is used to increase the preview font size. It should be a concise
 representation of the language it is used in that will help show the text in the preview will change
 size. -->
-<!ENTITY pref_font_size_adjust_char "A">
 <!-- Localization note (pref_font_size_preview_text): This paragraph is used as an example to
     demonstrate the font size setting.  It is meant to be whimsical and fun. -->
 
 <!ENTITY pref_font_size_preview_text "روباه سریع نارنجی بالاتر از انتظارات شما با سرعت بیشتر می‌پرد، انعطاف‌پذیری بیشتر و امنیت بالاتر. ما به عنوان یک سازمان غیر انتفاعی، ما برای نوآوری از جانب شما بدون هر گونه فشار به سازش آزاد هستیم. این یعنی تجربه‌ای بهتر برای شما و آینده‌ای بهتر برای وب.">
+
+
 
 
 
@@ -286,7 +284,7 @@ size. -->
 <!ENTITY new_private_tab "زبانه‌ی خصوصی جدید">
 <!ENTITY close_all_tabs "بستن همه‌ی زبانه‌ها">
 
-<!ENTITY tabs_normal "زبانه‌ها">
+
 <!ENTITY tabs_private "خصوصی">
 <!ENTITY tabs_synced "همگام‌سازی شد">
 <!ENTITY set_image_fail "ناتوانی در تنظیم تصویر">
@@ -294,11 +292,9 @@ size. -->
 <!ENTITY set_image_chooser_title "تنظیم تصویر به عنوان">
 <!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
-
-<!ENTITY find_text "یافتن در صفحه">
 <!ENTITY find_prev "قبلی">
 <!ENTITY find_next "بعدی">
-<!ENTITY find_close "بستن">
+
 <!-- Localization note (media_sending_to, media_play, media_pause, media_stop) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
 <!ENTITY media_play "پخش">
@@ -307,16 +303,16 @@ size. -->
 
 <!ENTITY contextmenu_open_new_tab "باز کردن در زبانهٔ جدید">
 <!ENTITY contextmenu_open_private_tab "باز کردن در زبانه‌ی خصوصی">
-<!ENTITY contextmenu_remove "حذف">
+
 <!ENTITY contextmenu_add_to_launcher "اضافه کردن به صفحه‌ی خانه">
-<!ENTITY contextmenu_share "اشتراک‌گذاری">
+
 
 <!ENTITY contextmenu_paste "چسباندن">
 <!ENTITY contextmenu_copyurl "رونوشت از نشانی">
 <!ENTITY contextmenu_edit_bookmark "ویرایش">
 <!ENTITY contextmenu_subscribe "اشتراک در صفحه">
 <!ENTITY contextmenu_site_settings "ویرایش تنظیمات سایت">
-<!ENTITY contextmenu_top_sites_edit "ویرایش">
+
 <!ENTITY contextmenu_top_sites_pin "سنجاق کردن سایت">
 <!ENTITY contextmenu_top_sites_unpin "بازکردن سنجاق سایت">
 <!ENTITY contextmenu_add_search_engine "افزودن موتور جست‌وجو">
@@ -341,7 +337,7 @@ size. -->
      dialog that appears after selecting the "Edit Site Settings" context menu item. -->
 
 <!ENTITY site_settings_title3       "تنظیمات سایت">
-<!ENTITY site_settings_cancel       "انصراف">
+
 <!ENTITY site_settings_clear        "پاک کردن">
 <!ENTITY site_settings_no_settings  "هیج تنظیماتی برای پاک کردن نیست.">
 
@@ -362,12 +358,12 @@ size. -->
 <!ENTITY masterpassword_confirm "تأیید گذرواژه">
 
 <!ENTITY button_ok "تأیید">
-<!ENTITY button_cancel "انصراف">
+
 <!ENTITY button_yes "بله">
 <!ENTITY button_no "خیر">
 <!ENTITY button_clear_data "پاک‌کردن اطلاعات">
-<!ENTITY button_set "تنظیم کردن">
-<!ENTITY button_clear "پاک کردن">
+
+
 
 <!ENTITY home_top_sites_title "سایت‌های برتر">
 <!-- Localization note (home_top_sites_add): This string is used as placeholder
@@ -377,7 +373,7 @@ size. -->
      with the page title defined in aboutHome.dtd -->
 
 <!ENTITY home_title "خانه &brandShortName;">
-<!ENTITY home_history_title "تاریخچه">
+
 
 
 <!ENTITY home_bookmarks_empty "نشانک‌هایی که ذخیره می‌کنید، در اینجا نمایش داده می‌شوند.">
@@ -427,7 +423,6 @@ size. -->
 
 <!ENTITY pin_site_dialog_hint "ثبت یک کلید‌واژه جست‌وجو">
 
-<!ENTITY filepicker_title "انتخاب پرونده">
 <!ENTITY filepicker_audio_title "انتخاب یا ضبط یک صدا">
 <!ENTITY filepicker_image_title "انتخاب یا عکس گرفتن">
 <!ENTITY filepicker_video_title "انتخاب یا ضبط یک ویدیو">
@@ -495,20 +490,18 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY updater_downloading_select2 "برای اعمال بروزرسانی پس از بارگیری، لمس کنید">
 <!ENTITY updater_downloading_retry2 "برای تلاش مجدد لمس کنید">
 
-<!ENTITY updater_apply_title2 "بروزرسانی برای &brandShortName; موجود است">
 <!ENTITY updater_apply_select2 "برای بروزرسانی لمس کنید">
 <!-- Guest mode -->
 
 <!ENTITY new_guest_session "نشست جدید مهمان">
 <!ENTITY exit_guest_session "خروج از نشست مهمان">
 <!ENTITY guest_session_dialog_continue "ادامه">
-<!ENTITY guest_session_dialog_cancel "انصراف">
+
 <!ENTITY new_guest_session_title "&brandShortName; هم‌اکنون راه اندازی مجدد خواهد شد">
 <!ENTITY new_guest_session_text "شخص با استفاده از این قادر نخواهد بود هیچ یک از داده‌های مرور شخصی شما را ببیند (مانند گذرواژه‌های ذخیره شده، تاریخچه یا نشانک‌ها).\n\nزمانی که کار مهمان شما تمام شود، داده‌های مرور پاک خواهند شد و نشست شما بازگردانده می‌شود.">
 
 
 
-<!ENTITY exit_guest_session_title "&brandShortName; هم‌اکنون راه اندازی مجدد خواهد شد">
 <!ENTITY exit_guest_session_text "داده‌های مرور شده در این نشست حذف خواهند شد.">
 <!-- Miscellaneous -->
 <!-- LOCALIZATION NOTE (ellipsis): This text is appended to a piece of text that does not fit in the
@@ -517,15 +510,19 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!-- These are only used for accessibility for the done and overflow-menu buttons in the actionbar.
      They are never shown to users -->
-
-<!ENTITY actionbar_menu "منو">
 <!ENTITY actionbar_done "انجام شد">
+<!-- Voice search in the awesome bar -->
+
+
+
+
 <!-- Localization note (remote_tabs_last_synced): the variable is replaced by a
      "relative time span string" produced by Android.  This string describes the
      time the tabs were last synced relative to the current time; examples
      include "42 minutes ago", "4 days ago", "last week", etc. The subject of
      "Last synced" is one of the user's other Sync clients, typically Firefox on
      their desktop or laptop.-->
+<!-- Localization note: Used when the sync has not happend yet, showed in place of a date -->
 <!-- Find-In-Page strings -->
 <!-- LOCALIZATION NOTE (find_matchcase): This is meant to appear as an icon that changes color
      if match-case is activated. i.e. No more than two letters, one uppercase, one lowercase. -->

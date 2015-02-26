@@ -9,7 +9,6 @@
 <!ENTITY setPassword.newPassword.label "گذرواژهٔ جدید:">
 <!ENTITY setPassword.reenterPassword.label "گذرواژهٔ جدید (دوباره وارد کنید):">
 <!ENTITY setPassword.meter.label "کیفیت‌سنج گذرواژه">
-<!ENTITY setPassword.meter.loading "در حال بار کردن">
 <!-- Values for resetpassword.xul -->
 
 <!ENTITY resetPasswordButtonLabel "صفر کردن">
@@ -20,19 +19,6 @@
 <!ENTITY getPassword.title  "گذرواژهٔ اصلی را وارد کنید">
 <!ENTITY getPassword.tokenName2.label "دستگاه امنیتی:">
 <!ENTITY getPassword.password.label "گذرواژه:">
-<!-- These should be common -->
-
-<!ENTITY piperror.title "خطا">
-<!ENTITY pipalert.title "خطا ‐ قابل بازیابی نیست">
-<!-- Prefs panel strings -->
-
-<!ENTITY pref.security.general.lHeader "امنیت">
-<!ENTITY pref.security.general.rHeader "تنظیمات مربوط به امنیت عمومی">
-<!ENTITY pref.security.general.header "تنظیمات مربوط به امنیت عمومی">
-<!ENTITY pref.security.general.level.title "سطح امنیتی">
-<!ENTITY pref.security.general.paranoid.label "استفاده از تنظیمات امنیتی شکاکانه">
-<!ENTITY pref.security.general.certificates.title "گواهی‌ها">
-<!ENTITY pref.security.general.manageCert.label "مدیریت گواهی‌ها">
 <!-- Downloading a cert -->
 
 <!ENTITY downloadCert.title "در حال بارگیری گواهی">
@@ -42,9 +28,7 @@
 <!ENTITY downloadCert.trustObjSign "برای تشخیص هویت برنامه‌سازان به این مرجع صدور گواهی اعتماد شود.">
 <!ENTITY downloadCert.message3 "پیش از آن که برای هر منظوری به این مرجع صدور گواهی اعتماد کنید، باید گواهی و سیاست و رویه‌های آن را (در صورت وجود) بررسی کنید.">
 <!ENTITY downloadCert.viewCert.label "نمایش">
-<!ENTITY downloadCert.viewPolicy.label "سیاست">
 <!ENTITY downloadCert.viewCert.text "بررسی گواهی مرجع صدور">
-<!ENTITY downloadCert.viewPolicy.text "بررسی سیاست‌ها و رویه‌های مرجع صدور گواهی">
 <!-- Strings for the SSL client auth ask dialog -->
 
 <!ENTITY clientAuthAsk.title "درخواست تشخیص هویت کاربر">
@@ -62,9 +46,6 @@
 <!ENTITY pkcs12.setpassword.label1 "گذرواژهٔ پشتیبان گواهی:">
 <!ENTITY pkcs12.setpassword.label2 "گذرواژهٔ پشتیبان گواهی (دوباره وارد کنید):">
 <!ENTITY pkcs12.setpassword.reminder "مهم: اگر گذرواژهٔ پشتیبان گواهی‌تان را فراموش کنید، بغداً قادر نخواهید بود از این پشتیبان برای بازگرداندن سیستم به حالت قدیم استقاده کنید. لطفاً گذرواژه را در محل امنی ضبط کنید.">
-
-<!ENTITY pkcs12.getpassword.title  "محاورهٔ ورود گذرواژه">
-<!ENTITY pkcs12.getpassword.message "لطفاً گذرواژه‌ای که برای رمزنگاری این پشتیبان گواهی استفاده شده را وارد کنید.">
 
 <!ENTITY chooseToken.title  "محاورهٔ انتخاب نشانه">
 <!ENTITY chooseToken.message1 "لطفاً یک نشانه انتخاب کنید.">

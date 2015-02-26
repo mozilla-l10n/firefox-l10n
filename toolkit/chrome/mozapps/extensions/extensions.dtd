@@ -4,6 +4,7 @@
 <!ENTITY addons.windowTitle                   "مدیریت افزودنی‌ها">
 
 <!ENTITY search.placeholder                   "جست‌وجو میان همهٔ افزودنی‌ها">
+
 <!-- LOCALIZATION NOTE (search.commandKey):
      The search command key should match findOnCmd.commandkey from browser.dtd -->
 <!ENTITY search.commandkey                    "f">
@@ -35,8 +36,6 @@
 <!ENTITY info.plugincheck.label                 "بررسی کن که آیا افزودنی‌ها به‌روز هستند">
 <!ENTITY info.plugincheck.tooltip               "به دنبال آخرین به‌روز رسانی‌های افزودنی‌ها بگرد.">
 <!-- categories / views -->
-
-<!ENTITY view.search.label                    "جست‌وجو">
 <!ENTITY view.discover.label                  "دریافت افزودنی‌ها">
 <!ENTITY view.recentUpdates.label             "به‌هنگام‌سازی‌های اخیر">
 <!ENTITY view.availableUpdates.label          "به‌هنگام‌سازی‌های موجود">
@@ -223,6 +222,7 @@
      Install https://people.mozilla.org/~gszorc/dummy-experiment-addon.xpi
      to cause this tab to appear. -->
 <!ENTITY experiment.info.learnmore "بیشتر بدانید">
+
 
 
 

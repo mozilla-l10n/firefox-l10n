@@ -10,9 +10,6 @@
 <!ENTITY certmgr.tab.ca                       "مراجع صدور">
 <!ENTITY certmgr.tab.orphan2                  "دیگران">
 
-<!ENTITY certmgr.ca.builtins                  "مراجع صدور توکار">
-<!ENTITY certmgr.ca.mycas                     "مراجع صدور اداره شده توسط شما">
-
 <!ENTITY certmgr.mine                         "شما گواهی‌هایی از این سازمان‌ها دارید که هویت شما را تأیید می‌کنند:">
 <!ENTITY certmgr.others                       "شما گواهی‌هایی موجود دارید که هویت این افراد را تأیید می‌کنند:">
 <!ENTITY certmgr.websites2                    "شما گواهی‌هایی موجود دارید که هویت این پایگاه‌ها را تأیید می‌کنند:">
@@ -37,7 +34,6 @@
 
 <!ENTITY certmgr.certdetail.sha1fingerprint   "اثر انگشت SHA1">
 
-<!ENTITY certmgr.editcert.title               "ویرایش تنظیمات گواهی امنیتی">
 <!ENTITY certmgr.editcacert.title             "ویرایش تنظیمات اعتماد به مرجع صدور گواهی">
 <!ENTITY certmgr.editcert.edittrust           "ویرایش تنظیمات اعتماد:">
 <!ENTITY certmgr.editcert.trustssl            "این گواهی می‌تواند هویت وب‌گاه‌ها را تأیید کند.">
@@ -49,11 +45,6 @@
 
 
 <!ENTITY certmgr.deletecert.title             "حذف گواهی">
-<!ENTITY certmgr.deletecert.beforename        "شما حذف این گواهی را درخواست کردید:">
-<!ENTITY certmgr.deletecert.aftername         "آیا مطمئنید که می‌خواهید این گواهی را حذف کنید؟">
-<!ENTITY certmgr.deleteusercert.title         "حذف گواهی شما">
-<!ENTITY certmgr.deleteusercert.beforename    "شما حذف گواهی را درخواست کردید:">
-<!ENTITY certmgr.deleteusercert.aftername     "اگر این گواهی را حذف کنید، دیگر نخواهید توانست نامه‌هایی که با آن رمزنگاری شده‌اند را بخوانید.">
 
 <!ENTITY certmgr.certname                     "نام گواهی">
 <!ENTITY certmgr.certserver                   "کارگزار">
@@ -72,8 +63,6 @@
 <!ENTITY certmgr.edit3.accesskey              "و">
 <!ENTITY certmgr.editca.label                 "ویرایش اعتماد به CA">
 <!ENTITY certmgr.editca.accesskey             "ع">
-<!ENTITY certmgr.add.label                    "افزودن">
-<!ENTITY certmgr.add.accesskey                "ا">
 <!ENTITY certmgr.export.label                 "صادر کردن…">
 <!ENTITY certmgr.export.accesskey             "ص">
 <!ENTITY certmgr.delete2.label                "حذف…">
@@ -90,8 +79,8 @@
 <!ENTITY certmgr.details.accesskey            "ف">
 <!ENTITY certmgr.fields.label                 "مقدار فیلد">
 <!ENTITY certmgr.fields.accesskey             "م">
-<!ENTITY certmgr.hierarchy.label              "سلسه‌مراتب گواهی‌ها">
-<!ENTITY certmgr.hierarchy.accesskey          "س">
+
+
 <!ENTITY certmgr.addException.label           "افزودن استثنا…">
 <!ENTITY certmgr.addException.accesskey       "ا">
 
