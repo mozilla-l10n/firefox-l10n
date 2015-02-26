@@ -1,11 +1,14 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY aboutPrivateBrowsing.title            "अहाँ निजी तौर पर ब्राउज़ कए रहल छी">
 <!ENTITY aboutPrivateBrowsing.title.normal     "निजी विंडो खोलू?">
 
 <!ENTITY aboutPrivateBrowsing.subtitle         "&brandShortName; एहि सत्र क कोनो इतिहास नहि राखत.">
 <!ENTITY aboutPrivateBrowsing.subtitle.normal  "&brandShortName; एहि निजी विंडो क कोनो इतिहास नहि राखत.">
 
+<!ENTITY aboutPrivateBrowsing.description      "एकरामे ब्राउज़िंग इतिहास, खोज इतिहास, डाउनलोड इतिहास, वेब फ़ॉर्म इतिहास, कुकीज़, आओर अस्थायी इंटरनेट फ़ाइल सेहो सामिल अछि. हालांकि, अहाँक डाउनलोड फ़ाइल आओर अहाँक केर पुस्तचिह्न राखल जाएत.">
 
 <!ENTITY aboutPrivateBrowsing.notPrivate       "अहाँ अखन निजी विंडो मे नहि छी.">
 

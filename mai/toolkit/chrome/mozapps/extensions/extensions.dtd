@@ -4,6 +4,7 @@
 <!ENTITY addons.windowTitle                   "सहयुक्ति प्रबंधक">
 
 <!ENTITY search.placeholder                   "सभटा सहयुक्ति खोजू">
+
 <!-- LOCALIZATION NOTE (search.commandKey):
      The search command key should match findOnCmd.commandkey from browser.dtd -->
 <!ENTITY search.commandkey                    "f">
@@ -35,8 +36,6 @@
 <!ENTITY info.plugincheck.label                 "देखबाक लेल जाँचू जे अहाँक प्लगइन अद्यतन अछि अथवा नहि">
 <!ENTITY info.plugincheck.tooltip               "देखबाक लेल जाँचू जे अहाँक प्लगइन अद्यतन अछि अथवा नहि">
 <!-- categories / views -->
-
-<!ENTITY view.search.label                    "खोजू">
 <!ENTITY view.discover.label                  "सहयुक्ति पाउ">
 <!ENTITY view.recentUpdates.label             "हालिया अद्यतन">
 <!ENTITY view.availableUpdates.label          "उपलब्ध अद्यतन">
@@ -226,3 +225,4 @@
 <!ENTITY experiment.info.learnmore.accesskey "L">
 <!ENTITY experiment.info.changetelemetry "टेलिमिति सेटिंग">
 <!ENTITY experiment.info.changetelemetry.accesskey "T">
+

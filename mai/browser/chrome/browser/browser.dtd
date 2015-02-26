@@ -56,21 +56,21 @@ can reach it easily. -->
 
 <!ENTITY tabCmd.label "नव टैब">
 <!ENTITY tabCmd.accesskey "T">
-<!ENTITY tabCmd.commandkey "t">
+
 <!-- LOCALIZATION NOTE (openLocationCmd.label): "Open Location" is only
 displayed on OS X, and only on windows that aren't main browser windows, or
 when there are no windows but Firefox is still running. -->
 <!ENTITY openLocationCmd.label "स्थान खोलू…">
 <!ENTITY openFileCmd.label "फ़ाइल खोलू…">
 <!ENTITY openFileCmd.accesskey "O">
-<!ENTITY openFileCmd.commandkey "o">
+
 <!ENTITY printSetupCmd.label "पृष्ठ सेटअप…">
 <!ENTITY printSetupCmd.accesskey "u">
 <!ENTITY printPreviewCmd.label "छपाई पूर्वावलोकन">
 <!ENTITY printPreviewCmd.accesskey "v">
 <!ENTITY printCmd.label "छापू…">
 <!ENTITY printCmd.accesskey "P">
-<!ENTITY printCmd.commandkey "p">
+
 
 <!ENTITY goOfflineCmd.label "ऑफ़लाइन काम करू (k)">
 <!ENTITY goOfflineCmd.accesskey "k">
@@ -82,19 +82,18 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY personalbarCmd.accesskey "B">
 <!ENTITY bookmarksToolbarItem.label "अओजारपट्टी मद पुस्तकचिह्नित करैता अछि">
 
-<!ENTITY toolbarContextMenu.reloadAllTabs.label "सबहि टैब फिनु लोड करू (A)">
-<!ENTITY toolbarContextMenu.reloadAllTabs.accesskey "A">
-<!ENTITY toolbarContextMenu.bookmarkAllTabs.label "सबहि टैबकेँ पुस्तचिन्हित करू (T)…">
-<!ENTITY toolbarContextMenu.bookmarkAllTabs.accesskey "T">
-<!ENTITY toolbarContextMenu.undoCloseTab.label "बन्न टैबकेँ फिनु घुराबू (U)">
-<!ENTITY toolbarContextMenu.undoCloseTab.accesskey "U">
+
+
+
+
+
 
 <!ENTITY pageSourceCmd.label "पृष्ठ स्रोत">
 <!ENTITY pageSourceCmd.accesskey "o">
-<!ENTITY pageSourceCmd.commandkey "u">
+
 <!ENTITY pageInfoCmd.label "पृष्ठ सूचना">
 <!ENTITY pageInfoCmd.accesskey "I">
-<!ENTITY pageInfoCmd.commandkey "i">
+
 
 
 <!-- LOCALIZATION NOTE (enterFullScreenCmd.label, exitFullScreenCmd.label):
@@ -105,7 +104,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY exitFullScreenCmd.accesskey "F">
 <!ENTITY fullScreenCmd.label "पूर्ण स्क्रीन">
 <!ENTITY fullScreenCmd.accesskey "F">
-<!ENTITY fullScreenCmd.macCommandKey "f">
+
 <!ENTITY showAllTabsCmd.label "सभटा टैब देखाउ">
 <!ENTITY showAllTabsCmd.accesskey "A">
 
@@ -140,13 +139,13 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksMenu.accesskey "B">
 <!ENTITY bookmarkThisPageCmd.label "ई पृष्ठ पुस्तकचिह्नित करू">
 <!ENTITY editThisBookmarkCmd.label "ई पुस्तकचिह्न संपादित करू ">
-<!ENTITY bookmarkThisPageCmd.commandkey "d">
-<!ENTITY markPageCmd.commandkey "l">
+
+
 <!-- LOCALIZATION NOTE (findShareServices.label):
   -  Use the unicode ellipsis char, \u2026,
   -  or use "..." if \u2026 doesn't suit traditions in your locale. -->
 <!ENTITY sharePageCmd.label "ई पन्नाक साझा करू (s)">
-<!ENTITY sharePageCmd.commandkey "S">
+
 <!ENTITY sharePageCmd.accesskey "s">
 <!-- LOCALIZATION NOTE (shareLink.accesskey): must be different than the following share access keys -->
 
@@ -173,7 +172,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY reloadCmd.label              "फेर लोड करू">
 <!ENTITY reloadButton.tooltip         "वर्तमान पृष्ठ फेर लोड करू">
 <!ENTITY stopCmd.label                "रोकू">
-<!ENTITY stopCmd.macCommandKey        ".">
+
 <!ENTITY stopButton.tooltip           "ई पृष्ठ लोड कएनाइ रोकू">
 <!ENTITY goEndCap.tooltip             "स्थान पट्टी पर पतामे जाउ">
 <!ENTITY printButton.label            "छापू">
@@ -188,21 +187,18 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY tabGroupsButton.label        "टैब समूह">
 
 <!ENTITY bookmarksButton.label          "पुस्तकचिह्न">
-<!ENTITY bookmarksCmd.commandkey "b">
 
-<!ENTITY bookmarksMenuButton.label          "पुस्तकचिह्न">
-<!ENTITY bookmarksMenuButton.unsorted.label "बिन छाँटल पुस्तकचिह्न">
+
+
 <!ENTITY viewBookmarksSidebar2.label        "पुस्तकचिह्न अओजारपट्टी देखू">
 <!ENTITY viewBookmarksToolbar.label         "पुस्तकचिह्न अओजारपट्टी देखू">
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
   -  key should not contain the letters A-F, since these are reserved
   -  shortcut keys on Linux. -->
 
-<!ENTITY bookmarksGtkCmd.commandkey "o">
-<!ENTITY bookmarksWinCmd.commandkey "i">
 
 <!ENTITY historyButton.label            "इतिहास">
-<!ENTITY historySidebarCmd.commandKey   "h">
+
 
 <!ENTITY toolsMenu.label              "अओजार">
 <!ENTITY toolsMenu.accesskey          "T"> 
@@ -212,11 +208,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY downloads.label              "डाउनलोड">
 <!ENTITY downloads.accesskey          "D">
-<!ENTITY downloads.commandkey         "j">
-<!ENTITY downloadsUnix.commandkey     "y">
+
+
 <!ENTITY addons.label                 "सहयुक्ति">
 <!ENTITY addons.accesskey             "A">
-<!ENTITY addons.commandkey            "A">
+
 
 
 
@@ -235,15 +231,15 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY remoteWebConsoleCmd.label    "वेब कंसोल हटाउ">
 
 <!ENTITY browserConsoleCmd.label      "ब्राउज़र कंसोल (B)">
-<!ENTITY browserConsoleCmd.commandkey "j">
+
 <!ENTITY browserConsoleCmd.accesskey  "B">
 
 <!ENTITY inspectContextMenu.label     "तत्व जाँचू">
-<!ENTITY inspectContextMenu.accesskey "Q">
+
 
 <!ENTITY responsiveDesignTool.label   "प्रतिक्रिया डिजायनक दृश्य (R)">
 <!ENTITY responsiveDesignTool.accesskey "R">
-<!ENTITY responsiveDesignTool.commandkey "M">
+
 
 <!ENTITY eyedropper.label   "आईड्रॉपर (E)">
 <!ENTITY eyedropper.accesskey "E">
@@ -284,7 +280,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY devToolbar.keytext                "F2">
 <!ENTITY devToolboxMenuItem.label          "टॉगल औजार (T)">
 <!ENTITY devToolboxMenuItem.accesskey      "T">
-<!ENTITY devToolboxMenuItem.keytext        "I">
+
 
 <!ENTITY devToolbarToolsButton.tooltip     "टागल डेवलेपर अओजार">
 <!ENTITY devToolbarOtherToolsButton.label  "बेसी अओजार">
@@ -295,7 +291,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fileMenu.label         "फ़ाइल"> 
 <!ENTITY fileMenu.accesskey       "F">
 <!ENTITY newNavigatorCmd.label        "नव विंडो">
-<!ENTITY newNavigatorCmd.key        "N">
+
 <!ENTITY newNavigatorCmd.accesskey      "N">
 <!ENTITY newPrivateWindow.label     "नया निज विंडो (W)">
 <!ENTITY newPrivateWindow.accesskey "W">
@@ -303,25 +299,25 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY editMenu.label         "संपादन"> 
 <!ENTITY editMenu.accesskey       "E"> 
 <!ENTITY undoCmd.label            "पहिने जहिना (U)">  
-<!ENTITY undoCmd.key            "Z">  
+
 <!ENTITY undoCmd.accesskey          "U"> 
 <!ENTITY redoCmd.label            "फेर करू">  
-<!ENTITY redoCmd.key            "Y">  
+
 <!ENTITY redoCmd.accesskey          "R"> 
 <!ENTITY cutCmd.label           "काटू">  
-<!ENTITY cutCmd.key             "X">  
+
 <!ENTITY cutCmd.accesskey         "t"> 
 <!ENTITY copyCmd.label            "नकल करू">  
-<!ENTITY copyCmd.key            "C">  
+
 <!ENTITY copyCmd.accesskey          "C"> 
 <!ENTITY pasteCmd.label           "साटू">  
-<!ENTITY pasteCmd.key           "V">  
+
 <!ENTITY pasteCmd.accesskey         "P"> 
 <!ENTITY deleteCmd.label          "मेटाउ">  
-<!ENTITY deleteCmd.key            "D">  
+
 <!ENTITY deleteCmd.accesskey        "D"> 
 <!ENTITY selectAllCmd.label         "सभटा चुनू">  
-<!ENTITY selectAllCmd.key         "A">  
+
 <!ENTITY selectAllCmd.accesskey       "A"> 
 <!ENTITY preferencesCmd2.label       "विकल्प">
 <!ENTITY preferencesCmd2.accesskey     "O">
@@ -330,7 +326,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY clearRecentHistory.label               "हालक इतिहास साफ करू…">
 
-<!ENTITY privateBrowsingCmd.commandkey          "P">
 
 <!ENTITY viewMenu.label         "दृश्य"> 
 <!ENTITY viewMenu.accesskey       "V"> 
@@ -351,16 +346,16 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY historyRestoreLastSession.label "पछिला सत्र फेर बहाल करू">
 
 <!ENTITY showAllHistoryCmd2.label "सभटा इतिहास देखाउ">
-<!ENTITY showAllHistoryCmd.commandkey "H">
+
 
 <!ENTITY appMenuCustomize.label "मनपसिन्न करू">
 <!ENTITY appMenuCustomize.tooltip "मेनू आओर अओज़ारपट्टी अनुकूलित करू">
 <!ENTITY appMenuCustomizeExit.label "अनुकूलित निकास">
 <!ENTITY appMenuCustomizeExit.tooltip "अनुकूलित समाप्त करू">
-<!ENTITY appMenuHistory.label "इतिहास">
-<!ENTITY appMenuHistory.showAll.label "सभटा इतिहास देखाउ">
-<!ENTITY appMenuHistory.clearRecent.label "हालक इतिहास साफ करू…">
-<!ENTITY appMenuHistory.restoreSession.label "पछिला सत्र फेर बहाल करू">
+
+
+
+
 <!ENTITY appMenuHistory.viewSidebar.label "इतिहास बाज़ूपट्टी देखाबू">
 <!ENTITY appMenuHelp.tooltip "मदति मेनू खोलू">
 
@@ -384,9 +379,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY customizeMenu.addMoreItems.label "बेसी वस्तु जोड़ू ... (A)">
 <!ENTITY customizeMenu.addMoreItems.accesskey "A">
 
-<!ENTITY openCmd.commandkey           "l">
 <!ENTITY urlbar.placeholder2          "खोजू अथवा पता दर्ज करू">
-<!ENTITY urlbar.accesskey             "d">
+
 <!ENTITY urlbar.switchToTab.label     "टैबमे जाउ:">
 <!-- 
   Comment duplicated from browser-sets.inc:
@@ -409,9 +403,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
  -->
 
-<!ENTITY searchFocus.commandkey       "k">
-<!ENTITY searchFocus.commandkey2      "e">
-<!ENTITY searchFocusUnix.commandkey   "j">
+
 <!-- LOCALIZATION NOTE (searchFor.label, searchWith.label):
      These two strings are used to build the header above the list of one-click
      search providers:  "Search for <used typed keywords> with:" -->
@@ -420,9 +412,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      The wording of this string should be as close as possible to
      searchFor.label and searchWith.label. This string will be used instead of
      them when the user has not typed any keyword. -->
+<!-- LOCALIZATION NOTE (changeSearchSettings.button):
+     This string won't wrap, so if the translated string is longer,
+     consider translating it as if it said only "Search Settings". -->
 
-
-<!ENTITY tabView.commandkey           "e">
 
 <!ENTITY openLinkCmdInTab.label       "नव टैब मे कड़ी खोलू">
 <!ENTITY openLinkCmdInTab.accesskey   "T">
@@ -438,14 +431,13 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openFrameCmd.accesskey       "W">
 <!ENTITY showOnlyThisFrameCmd.label     "सिर्फ ई फ्रेम देखाउ">
 <!ENTITY showOnlyThisFrameCmd.accesskey "S">
-<!ENTITY reloadCmd.commandkey         "r">
+
 <!ENTITY reloadFrameCmd.label         "फ्रेम फेर लोड करू">
 <!ENTITY reloadFrameCmd.accesskey     "R">
 <!ENTITY viewPartialSourceForSelectionCmd.label "चयन स्रोत देखू">
 <!ENTITY viewPartialSourceForMathMLCmd.label    "MathML स्रोत देखू">
 <!-- LOCALIZATION NOTE (viewPartialSourceCmd.accesskey): This accesskey is used for both 
          viewPartialSourceForSelectionCmd.label and viewPartialSourceForMathMLCmd.label -->
-<!ENTITY viewPartialSourceCmd.accesskey "e">
 <!ENTITY viewPageSourceCmd.label      "पृष्ठ स्रोत देखू">
 <!ENTITY viewPageSourceCmd.accesskey  "V">
 <!ENTITY viewFrameSourceCmd.label     "फ्रेम स्रोत देखू">
@@ -468,7 +460,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewBGImageCmd.accesskey     "w">
 <!ENTITY setDesktopBackgroundCmd.label      "बतौर डेस्कटॉप पृष्ठभूमि सेट करू…">
 <!ENTITY setDesktopBackgroundCmd.accesskey  "S">
-<!ENTITY bookmarkPageCmd2.label       "ई पृष्ठ पुस्तकचिह्नित करू">
+
 <!ENTITY bookmarkThisLinkCmd.label      "ई कड़ी पुस्तकचिह्नित करू">
 <!ENTITY bookmarkThisLinkCmd.accesskey  "L">
 <!ENTITY bookmarkThisFrameCmd.label      "ई फ्रेम पुस्तकचिह्नित करू">
@@ -478,8 +470,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY savePageCmd.label            "पृष्ठ एहिना सहेजू…">
 <!ENTITY savePageCmd.accesskey        "A">
 <!-- alternate for content area context menu -->
-<!ENTITY savePageCmd.accesskey2       "P">
-<!ENTITY savePageCmd.commandkey       "s">
+
 <!ENTITY saveFrameCmd.label           "फ्रेम एहिना सहेजू…">
 <!ENTITY saveFrameCmd.accesskey       "F">
 <!ENTITY printFrameCmd.label          "फ्रेम छापू…">
@@ -554,8 +545,8 @@ items are mutually exclusive. -->
 <!ENTITY mediaShowControls.accesskey "C">
 <!ENTITY mediaHideControls.label     "नियंत्रण नुकाउ">
 <!ENTITY mediaHideControls.accesskey "C">
-<!ENTITY videoFullScreen.label       "पूर्ण स्क्रीन">
-<!ENTITY videoFullScreen.accesskey   "F">
+
+
 <!ENTITY videoSaveImage.label        "चित्र एहिना सहेजू…">
 <!ENTITY videoSaveImage.accesskey    "S">
 <!-- LOCALIZATION NOTE: The access keys for "Show Statistics" and
@@ -574,19 +565,18 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY fullZoomEnlargeCmd.label       "पैघ करू">
 <!ENTITY fullZoomEnlargeCmd.accesskey   "I">
-<!ENTITY fullZoomEnlargeCmd.commandkey  "+">
+
 <!-- + is above this key on many keyboards -->
-<!ENTITY fullZoomEnlargeCmd.commandkey2 "="> 
 <!ENTITY fullZoomEnlargeCmd.commandkey3 "">
 
 <!ENTITY fullZoomReduceCmd.label        "छोट करू">
 <!ENTITY fullZoomReduceCmd.accesskey    "O">
-<!ENTITY fullZoomReduceCmd.commandkey   "-">
+
 <!ENTITY fullZoomReduceCmd.commandkey2  "">
 
 <!ENTITY fullZoomResetCmd.label         "फेर सेट करू">
 <!ENTITY fullZoomResetCmd.accesskey     "R">
-<!ENTITY fullZoomResetCmd.commandkey    "0">
+
 <!ENTITY fullZoomResetCmd.commandkey2   "">
 
 <!ENTITY fullZoomToggleCmd.label        "सिर्फ पाठ पैघ-छोट करू">
@@ -596,19 +586,18 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY sidebarCloseButton.tooltip     "बाजू पट्टी बन्न करू">
 
-<!ENTITY quitApplicationCmdWin.label       "बाहर"> 
-<!ENTITY quitApplicationCmdWin.accesskey   "x">
-<!ENTITY quitApplicationCmdWin.tooltip     "&brandShortName; सँ बाहर">
-<!ENTITY goBackCmd.commandKey "[">
-<!ENTITY goForwardCmd.commandKey "]">
+<!ENTITY quitApplicationCmdWin2.label       "बाहर">
+<!ENTITY quitApplicationCmdWin2.accesskey   "x">
+
+
+
 <!ENTITY quitApplicationCmd.label       "बाहर जाउ"> 
 <!ENTITY quitApplicationCmd.accesskey   "Q">
-<!ENTITY quitApplicationCmdMac.label    "&brandShortName; सँ बाहर जाउ">
+
 <!-- LOCALIZATION NOTE(quitApplicationCmdUnix.key): This keyboard shortcut is used by both Linux and OSX builds. -->
-<!ENTITY quitApplicationCmdUnix.key     "Q">
 
 <!ENTITY closeCmd.label                 "बंद करू">  
-<!ENTITY closeCmd.key                   "W">  
+
 <!ENTITY closeCmd.accesskey             "C">
 
 <!ENTITY pageStyleMenu.label "पृष्ठ शैली">
@@ -620,36 +609,35 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY pageReportIcon.tooltip            "ई वेबसाइटक लेल पॉप-अप अवरोधन सेटिंग बदलू">
 
-<!ENTITY allowPopups.accesskey "p">
 <!-- On Windows we use the term "Options" to describe settings, but
      on Linux and Mac OS X we use "Preferences" - carry that distinction
      over into this string, which is used in the "popup blocked" info bar . -->
 <!ENTITY editPopupSettingsUnix.label "पॉप-अप अवरोधक वरीयताएँ संपादित करू…">
 <!ENTITY editPopupSettings.label "पॉप-अप अवरोधक विकल्प संपादित करू…">
 <!ENTITY editPopupSettings.accesskey "E">
-<!ENTITY dontShowMessage.accesskey "D">
+
 
 <!ENTITY bidiSwitchPageDirectionItem.label        "पृष्ठ दिशा बदलू">
 <!ENTITY bidiSwitchPageDirectionItem.accesskey    "D">
 <!ENTITY bidiSwitchTextDirectionItem.label        "पाठ दिशा बदलू">
 <!ENTITY bidiSwitchTextDirectionItem.accesskey    "w">
-<!ENTITY bidiSwitchTextDirectionItem.commandkey   "X">
+
 
 <!ENTITY findOnCmd.label     "ई पृष्ठ मे ताकू…">
 <!ENTITY findOnCmd.accesskey "F">
-<!ENTITY findOnCmd.commandkey "f">
+
 <!ENTITY findAgainCmd.label  "फेर ताकू">
 <!ENTITY findAgainCmd.accesskey "g">
-<!ENTITY findAgainCmd.commandkey "g">
+
 <!ENTITY findAgainCmd.commandkey2 "VK_F3">
-<!ENTITY findSelectionCmd.commandkey "e">
+
 
 <!ENTITY spellAddDictionaries.label "शब्दकोश जोडू…">
 <!ENTITY spellAddDictionaries.accesskey "A">
 
 <!ENTITY editBookmark.done.label                     "संपन्न">
 <!ENTITY editBookmark.cancel.label                   "रद्द करू">
-<!ENTITY editBookmark.removeBookmark.accessKey       "R">
+
 
 <!ENTITY identity.unverifiedsite2 "ई वेबसाइट पहचान सूचना नहि देत अछि.">
 <!ENTITY identity.connectedTo "अहाँ एतए कनेक्टेड छी">
@@ -685,12 +673,12 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY syncBrand.shortName.label    "Sync">
 
 <!ENTITY syncSetup.label              "&syncBrand.shortName.label; सेटअप करू…">
-<!ENTITY syncSetup.accesskey          "Y">
+
 <!ENTITY syncSyncNowItem.label        "आब तुल्यकालित करू">
 <!ENTITY syncSyncNowItem.accesskey    "S">
 <!ENTITY syncReAuthItem.label         "&syncBrand.shortName.label; मे फेर कनेक्ट करू (R)…">
 <!ENTITY syncReAuthItem.accesskey     "R">
-<!ENTITY syncToolbarButton.label      "तुल्यकालित करू">
+
 
 <!ENTITY socialToolbar.title        "सामाजिक अओजारपट्टी बटन">
 
@@ -728,12 +716,11 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY customizeMode.lwthemes.myThemes "हमर प्रसंग">
 <!ENTITY customizeMode.lwthemes.recommended "अनुशंसित">
 <!ENTITY customizeMode.lwthemes.menuManage "प्रबंधित करू">
-<!ENTITY customizeMode.lwthemes.menuManage.accessKey "M">
+
 <!ENTITY customizeMode.lwthemes.menuGetMore "नव प्रसंग प्राप्त करू">
-<!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "G">
 
 
-<!ENTITY social.chatBar.commandkey "c">
+
 <!ENTITY social.chatBar.label "चैट फोकस करें (c)">
 <!ENTITY social.chatBar.accesskey "c">
 
@@ -763,8 +750,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY trackingContentBlocked.message "ट्रैकिंग">
 <!ENTITY trackingContentBlocked.moreinfo "पृष्ठ केर हिस्सा जे अहाँक ऑनलाइन गतिविधि केँ ट्रैक करैत अछि केँ ब्लॉक कएल गेल अछि.">
-<!ENTITY trackingContentBlocked.learnMore "आओर जानू">
-<!ENTITY trackingContentBlocked.options "विकल्प">
+
+
 
 
 
@@ -788,12 +775,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY pluginNotification.width "32em">
 
-<!ENTITY tabCrashed.header "टैब क्रैश कए गेल">
-<!ENTITY tabCrashed.message "खैर, ई शर्मनाक अछि. हम एहि वेब पेज केँ प्रदर्शित करबाक कोशिश कएलहुँ, मुदा ई जवाब नहि दए रहल अछि.">
-<!ENTITY tabCrashed.checkSendReport "&vendorShortName; केँ बताबू एहि दुर्घटना केर बारे मे तँ ओ एकरा ठीक भी कए सकैत अछि.">
-<!ENTITY tabCrashed.tryAgain "फेर कोशिश करू">
-
-<!ENTITY uiTour.infoPanel.close "बन्न करू">
 
 <!ENTITY appMenuSidebars.label         "कतका पट्टी">
 
@@ -823,4 +804,25 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY panicButton.thankyou.msg1                "अहाँक हालिया इतिहास साफ कएल गेल.">
 <!ENTITY panicButton.thankyou.msg2                "सुरक्षित ब्राउजिंग!">
 <!ENTITY panicButton.thankyou.buttonlabel         "शुक्रिया!">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- Pre-landed string for bug 1124153 -->
+<!-- Pre-landed string for bug 1133662 -->
+<!-- Pre-landed string for bug 1123525 -->
+<!-- Pre-landed strings for bug 1123519 -->
 

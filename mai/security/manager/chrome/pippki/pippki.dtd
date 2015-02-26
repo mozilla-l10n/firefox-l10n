@@ -9,7 +9,6 @@
 <!ENTITY setPassword.newPassword.label "नव गुड़किल्ली:">
 <!ENTITY setPassword.reenterPassword.label "नव गुड़किल्ली (फेर):">
 <!ENTITY setPassword.meter.label "गुड़किल्ली गुणवत्ता मीटर">
-<!ENTITY setPassword.meter.loading "लोडिंग">
 <!-- Values for resetpassword.xul -->
 
 <!ENTITY resetPasswordButtonLabel "फेर सेट  करू ">
@@ -20,19 +19,6 @@
 <!ENTITY getPassword.title  "मुख्य गुड़किल्ली डालू">
 <!ENTITY getPassword.tokenName2.label "सुरक्षा युक्ति:">
 <!ENTITY getPassword.password.label "गुड़किल्ली:">
-<!-- These should be common -->
-
-<!ENTITY piperror.title "त्रुटि">
-<!ENTITY pipalert.title "त्रुटि - फेर नहि ला सकैत">
-<!-- Prefs panel strings -->
-
-<!ENTITY pref.security.general.lHeader "सुरक्षा">
-<!ENTITY pref.security.general.rHeader "सामान्य सुऱक्षा  कलेल  जमावट">
-<!ENTITY pref.security.general.header "सामान्य सुरक्षा  कलेल  जमावट">
-<!ENTITY pref.security.general.level.title "सुरक्षा स्तर">
-<!ENTITY pref.security.general.paranoid.label "पैरानायड सुरक्षा जमावट प्रयोग  करू ">
-<!ENTITY pref.security.general.certificates.title "प्रमाणपत्र">
-<!ENTITY pref.security.general.manageCert.label "प्रमाणपत्र प्रबंधित  करू ">
 <!-- Downloading a cert -->
 
 <!ENTITY downloadCert.title "प्रमाणपत्र डाउनलोड कए रहल  अछि ">
@@ -42,9 +28,7 @@
 <!ENTITY downloadCert.trustObjSign "ई CA केँ भरोसा करू साफ्टवेयर डेवलपर केँ पहचानने  कलेल .">
 <!ENTITY downloadCert.message3 "ई CA पर ककरो उद्देश्य  कलेल  भरोसा करब सँ पहले, अहाँकेँ एकटारल प्रमाणपत्र आओर एकटारल नीति आओर प्रक्रिया परीक्षा करनी चाही (जँ उपलब्ध  अछि ).">
 <!ENTITY downloadCert.viewCert.label "देखू">
-<!ENTITY downloadCert.viewPolicy.label "नीति">
 <!ENTITY downloadCert.viewCert.text "CA प्रमाणपत्र जाँचू">
-<!ENTITY downloadCert.viewPolicy.text "CA नीति आओर प्रक्रिया जाँचू">
 <!-- Strings for the SSL client auth ask dialog -->
 
 <!ENTITY clientAuthAsk.title "प्रयोक्ता पहचान आग्रह">
@@ -62,9 +46,6 @@
 <!ENTITY pkcs12.setpassword.label1 "प्रमाणपत्र बैकअप गुड़किल्ली:">
 <!ENTITY pkcs12.setpassword.label2 "प्रमाणपत्र बैकअप गुड़किल्ली (फेर):">
 <!ENTITY pkcs12.setpassword.reminder "Important: जँ अहाँ अपन प्रमाणपत्र बैकअप गुड़किल्ली भूलि गेलहुँ, अहाँ एहि बैकअप केँ बाद मे फेर नहि लाबि सकब. कृप्या एकरा सुरक्षित स्थान मे रिकार्ड करू.">
-
-<!ENTITY pkcs12.getpassword.title  "गुड़किल्ली प्रविष्टि संवाद">
-<!ENTITY pkcs12.getpassword.message "गुड़किल्ली एतए डालू जे एहि प्रमाणपत्रक गोपनक लेल प्रयुक्त होइछ.">
 
 <!ENTITY chooseToken.title  "टोकेन समाद चुनू">
 <!ENTITY chooseToken.message1 "एकटा टोकेन चुनू.">

@@ -10,9 +10,6 @@
 <!ENTITY certmgr.tab.ca                       "प्राधिकार">
 <!ENTITY certmgr.tab.orphan2                  " आन ">
 
-<!ENTITY certmgr.ca.builtins                  "अंतनिर्मित CA">
-<!ENTITY certmgr.ca.mycas                     "CAs अहाँक द्वारा प्रबंधित">
-
 <!ENTITY certmgr.mine                         "अहाँक पास प्रमाणपत्र  अछि  इन संगठनों सँ जे जे अहाँकेँ पहचानता  अछि :">
 <!ENTITY certmgr.others                       "अहाँक पास प्रमाणपत्र  अछि  फाइल पर जे जे इन लोगों केँ पहचानता  अछि :">
 <!ENTITY certmgr.websites2                    "अहाँक पास प्रमाणपत्र  अछि  फाइल पर जे जे इन सर्वर पहचानते  अछि :">
@@ -37,7 +34,6 @@
 <!ENTITY certmgr.certdetail.sha256fingerprint "SHA-256 फिंगरप्रिंट">
 <!ENTITY certmgr.certdetail.sha1fingerprint   "SHA1 फिंगरप्रिंट">
 
-<!ENTITY certmgr.editcert.title               "सुरक्षा प्रमाणपत्र जमावट संपादित  करू ">
 <!ENTITY certmgr.editcacert.title             "CA प्रमाणपत्र ट्रस्ट जमावट केँ संपादित  करू ">
 <!ENTITY certmgr.editcert.edittrust           "ट्रस्ट जमावट संपादित  करू :">
 <!ENTITY certmgr.editcert.trustssl            "ई प्रमाणपत्र वैबसाइट पहचान सकैत अछि .">
@@ -49,11 +45,6 @@
 <!ENTITY certmgr.editemailcert.donttrust      "ई प्रमाणपत्र क प्रमाणिकता पर भरोस नहि करू .">
 
 <!ENTITY certmgr.deletecert.title             "प्रमाणपत्र मेटाउ">
-<!ENTITY certmgr.deletecert.beforename        "अहाँ एहि प्रमाणपत्र केँ मेटाबैक लेल आग्रह पठोअने छी:">
-<!ENTITY certmgr.deletecert.aftername         "की अहाँ एहि प्रमाणपत्र केँ मेटाबैक लेल निश्चित छी?">
-<!ENTITY certmgr.deleteusercert.title         "अपन प्रमाणपत्र मेटाउ">
-<!ENTITY certmgr.deleteusercert.beforename    "अहाँ एहि प्रमाणपत्र केँ मेटाबैक लेल आग्रह कएने छी:">
-<!ENTITY certmgr.deleteusercert.aftername     "ई प्रमाणपत्र क मेटाबै पर, अहाँ मेल पढ़बामे असमर्थ भए जाएम जे एकरासँ गोपित  अछि .">
 
 <!ENTITY certmgr.certname                     "प्रमाणपत्र नाम">
 <!ENTITY certmgr.certserver                   "सर्वर">
@@ -72,8 +63,6 @@
 <!ENTITY certmgr.edit3.accesskey              "E">
 <!ENTITY certmgr.editca.label                 "CA ट्रस्ट संपादित  करू ">
 <!ENTITY certmgr.editca.accesskey             "d">
-<!ENTITY certmgr.add.label                    "जोड़ू">
-<!ENTITY certmgr.add.accesskey                "A">
 <!ENTITY certmgr.export.label                 "निर्यात…">
 <!ENTITY certmgr.export.accesskey             "x">
 <!ENTITY certmgr.delete2.label                "मेटाउ…">
@@ -90,8 +79,8 @@
 <!ENTITY certmgr.details.accesskey            "F">
 <!ENTITY certmgr.fields.label                 "क्षेत्र मान">
 <!ENTITY certmgr.fields.accesskey             "V">
-<!ENTITY certmgr.hierarchy.label              "प्रमाणपत्र पदक्रम">
-<!ENTITY certmgr.hierarchy.accesskey          "C">
+
+
 <!ENTITY certmgr.addException.label           "अपवाद जोड़ू…">
 <!ENTITY certmgr.addException.accesskey       "x">
 

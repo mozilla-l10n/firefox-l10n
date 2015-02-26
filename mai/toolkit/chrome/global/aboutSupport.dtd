@@ -34,9 +34,9 @@ This is likely the same like id.heading in crashes.dtd. -->
 <!ENTITY aboutSupport.appBasicsTitle "अनुप्रयोग मूल">
 <!ENTITY aboutSupport.appBasicsName "नाम">
 <!ENTITY aboutSupport.appBasicsVersion "संस्करण">
-<!-- LOCALIZATION NOTE (aboutSupport.appBasicsUpdateHistory, aboutSupport.appBasicsShowUpdateHistory):
-"Update" is a noun here, not a verb. -->
 
+<!-- LOCALIZATION NOTE (aboutSupport.appBasicsUpdateChannel, aboutSupport.appBasicsUpdateHistory, aboutSupport.appBasicsShowUpdateHistory):
+"Update" is a noun here, not a verb. -->
 <!ENTITY aboutSupport.appBasicsUpdateHistory "अद्यतन इतिहास">
 <!ENTITY aboutSupport.appBasicsShowUpdateHistory "अद्यतन इतिहास देखाउ">
 
@@ -90,4 +90,6 @@ variant of aboutSupport.showDir.label. -->
 
 <!ENTITY aboutSupport.copyTextToClipboard.label "सभक क्लिपबोर्ड मे नकल लिअ">
 <!ENTITY aboutSupport.copyRawDataToClipboard.label "कच्चा डाटा क्लिपबोर्ड मे नकल लिअ">
+
+
 
