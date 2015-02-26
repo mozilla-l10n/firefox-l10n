@@ -13,14 +13,14 @@
 <!ENTITY addrBookCardProperties.label       "Lastnosti">
 <!ENTITY addrBookCardProperties.accesskey   "L">
 <!ENTITY addtoToFieldMenu.label             "Dodaj v polje Za">
-<!ENTITY addtoToFieldMenu.accesskey         "a">
+<!ENTITY addtoToFieldMenu.accesskey         "Z">
 <!ENTITY addtoCcFieldMenu.label             "Dodaj v polje Kp">
 <!ENTITY addtoCcFieldMenu.accesskey         "K">
 <!ENTITY addtoBccFieldMenu.label            "Dodaj v polje Skp">
 <!ENTITY addtoBccFieldMenu.accesskey        "S">
 
 <!ENTITY toButton.label                     "Dodaj v Za:">
-<!ENTITY toButton.accesskey                 "a">
+<!ENTITY toButton.accesskey                 "Z">
 <!ENTITY ccButton.label                     "Dodaj v Kp:">
 <!ENTITY ccButton.accesskey                 "K">
 <!ENTITY bccButton.label                    "Dodaj v Skp:">
