@@ -3,21 +3,21 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!-- Window title -->
 
-<!ENTITY windowTitle.label            "Sayfayı yayımla">
-<!ENTITY windowTitleSettings.label    "Yayın ayarları">
+<!ENTITY windowTitle.label            "Sayfayı Yayımla">
+<!ENTITY windowTitleSettings.label    "Yayımlama Ayarları">
 <!ENTITY publishTab.label             "Yayımla">
 <!ENTITY settingsTab.label            "Ayarlar">
 <!ENTITY publishButton.label          "Yayımla">
 <!-- Publish Tab Panel -->
 
-<!ENTITY siteList.label               "Site adı:">
+<!ENTITY siteList.label               "Site Adı:">
 <!ENTITY siteList.accesskey           "e">
 <!ENTITY siteList.tooltip             "Yayımlamak istediğiniz siteyi seçin">
-<!ENTITY newSiteButton.label          "Yeni site">
+<!ENTITY newSiteButton.label          "Yeni Site">
 <!ENTITY newSiteButton.accesskey      "n">
 <!ENTITY docDirList.label             "Bu sayfa için site alt dizini:">
 <!ENTITY docDirList.accesskey         "s">
-<!ENTITY docDirList.tooltip           "Bu sayfa için uzak dizini seçin veya girin">
+<!ENTITY docDirList.tooltip           "Bu sayfa için uzak dizini seçin veya adını girin">
 <!ENTITY publishImgCheckbox.label     "Resimleri ve diğer dosyaları dâhil et">
 <!ENTITY publishImgCheckbox.accesskey "d">
 <!ENTITY publishImgCheckbox.tooltip   "Bu sayfaya bağlanmış resimleri ve diğer dosyaları yayımla">
@@ -27,28 +27,28 @@
 <!ENTITY useSubdirRadio.label         "Bu site alt dizinini kullan:">
 <!ENTITY useSubdirRadio.accesskey     "d">
 <!ENTITY useSubdirRadio.tooltip       "Dosyaları seçilen uzak alt dizinde yayımla">
-<!ENTITY otherDirList.tooltip         "Dosyaların yayımlanacağı uzak alt dizini seçin veya girin">
-<!ENTITY pageTitle.label              "Sayfa başlığı:">
+<!ENTITY otherDirList.tooltip         "Dosyaların yayımlanacağı uzak alt dizini seçin veya adını girin">
+<!ENTITY pageTitle.label              "Sayfa Başlığı:">
 <!ENTITY pageTitle.accesskey          "f">
 <!ENTITY pageTitle.tooltip            "Sayfayı pencerede ve yer imlerinde tanımlamak için bir başlık girin">
-<!ENTITY pageTitleExample.label       "örnek: &quot;Web sayfam&quot;">
+<!ENTITY pageTitleExample.label       "ör.: &quot;Web sayfam&quot;">
 <!ENTITY filename.label               "Dosya adı:">
 <!ENTITY filename.accesskey           "a">
 <!ENTITY filename.tooltip             "Bu dosya için bir isim girin. Web sayfaları '.html' ile bitmelidir.">
-<!ENTITY filenameExample.label        "örnek: &quot;sayfam.html&quot;">
-<!ENTITY setDefaultButton.label       "Varsayılan olarak ayarla">
+<!ENTITY filenameExample.label        "ör.: &quot;sayfam.html&quot;">
+<!ENTITY setDefaultButton.label       "Varsayılan Olarak Ayarla">
 <!ENTITY setDefaultButton.accesskey   "V">
-<!ENTITY removeButton.label           "Siteyi kaldır">
+<!ENTITY removeButton.label           "Siteyi Kaldır">
 <!ENTITY removeButton.accesskey       "r">
 <!-- Settings Tab Panel -->
 
-<!ENTITY publishSites.label           "Yayın siteleri">
-<!ENTITY serverInfo.label             "Sunucu bilgileri">
-<!ENTITY loginInfo.label              "Oturum açma bilgileri">
-<!ENTITY siteName.label               "Site adı:">
+<!ENTITY publishSites.label           "Yayımlanan Siteler">
+<!ENTITY serverInfo.label             "Sunucu Bilgisi">
+<!ENTITY loginInfo.label              "Oturum Açma Bilgisi">
+<!ENTITY siteName.label               "Site Adı:">
 <!ENTITY siteName.accesskey           "d">
-<!ENTITY siteName.tooltip             "Yayımlama sitesini tanımlayan takma bir isim (örnek: 'BenimSitem')">
-<!ENTITY siteUrl.label                "Yayın adresi (örnek: 'ftp://ftp.adresim.com/kullaniciadi'):">
+<!ENTITY siteName.tooltip             "Yayımlanan siteyi tanımlayan takma bir isim (ör.: 'Benim Sitem')">
+<!ENTITY siteUrl.label                "Yayım adresi (ör. 'ftp://ftp.adresim.com/kullaniciadi'):">
 <!ENTITY siteUrl.accesskey            "a">
 <!ENTITY siteUrl.tooltip              "İSS'niz veya barındırma sağlayıcınız tarafından size verilen FTP:// veya HTTP:// adresi">
 <!ENTITY browseUrl.label              "Ana sayfanızın HTTP adresi (örn.: 'http://www.adresim.com/kullaniciadi'):">
@@ -60,6 +60,6 @@
 <!ENTITY password.label               "Parola:">
 <!ENTITY password.accesskey           "P">
 <!ENTITY password.tooltip             "Kullanıcı ismine ait parola">
-<!ENTITY savePassword.label           "Parolayı kaydet">
-<!ENTITY savePassword.accesskey       "k">
-<!ENTITY savePassword.tooltip         "Parolanızı , parola yöneticisi ile kaydetmek için bunu seçin.">
+<!ENTITY savePassword.label           "Parolayı Kaydet">
+<!ENTITY savePassword.accesskey       "K">
+<!ENTITY savePassword.tooltip         "Parolanızı Parola Yöneticisi ile kaydetmek için bunu seçin">

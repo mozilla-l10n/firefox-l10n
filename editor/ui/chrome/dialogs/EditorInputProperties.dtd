@@ -2,49 +2,49 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY windowTitle.label "Form alanı özellikleri">
-<!ENTITY windowTitleImage.label "Form resmi özellikleri">
+<!ENTITY windowTitle.label "Form Alanı Özellikleri">
+<!ENTITY windowTitleImage.label "Form Resmi Özellikleri">
 
-<!ENTITY InputType.label "Alan türü">
+<!ENTITY InputType.label "Alan Türü">
 <!ENTITY InputType.accesskey "l">
 <!ENTITY text.value "Metin">
 <!ENTITY password.value "Parola">
-<!ENTITY checkbox.value "Onay kutusu">
-<!ENTITY radio.value "Radyo düğmesi">
-<!ENTITY submit.value "Gönder düğmesi">
-<!ENTITY reset.value "Sıfırla düğmesi">
+<!ENTITY checkbox.value "Onay Kutusu">
+<!ENTITY radio.value "Radyo Düğmesi">
+<!ENTITY submit.value "Gönderme Düğmesi">
+<!ENTITY reset.value "Sıfırlama Düğmesi">
 <!ENTITY file.value "Dosya">
 <!ENTITY hidden.value "Gizli">
 <!ENTITY image.value "Resim">
 <!ENTITY button.value "Düğme">
 
-<!ENTITY InputSettings.label "Alan ayarları">
-<!ENTITY InputName.label "Alan ismi:">
+<!ENTITY InputSettings.label "Alan Ayarları">
+<!ENTITY InputName.label "Alan İsmi:">
 <!ENTITY InputName.accesskey "n">
-<!ENTITY GroupName.label "Grup ismi:">
+<!ENTITY GroupName.label "Grup İsmi:">
 <!ENTITY GroupName.accesskey "G">
-<!ENTITY InputValue.label "Alan değeri:">
-<!ENTITY InputValue.accesskey "d">
-<!ENTITY InitialValue.label "Başlangıç değeri:">
+<!ENTITY InputValue.label "Alan Değeri:">
+<!ENTITY InputValue.accesskey "D">
+<!ENTITY InitialValue.label "Başlangıç Değeri:">
 <!ENTITY InitialValue.accesskey "B">
-<!ENTITY InputChecked.label "Başlangıçta işaretli">
+<!ENTITY InputChecked.label "Başlangıçta Seçili">
 <!ENTITY InputChecked.accesskey "g">
-<!ENTITY InputSelected.label "Başlangıçta seçili">
-<!ENTITY InputSelected.accesskey "s">
-<!ENTITY InputReadOnly.label "Salt okunur">
+<!ENTITY InputSelected.label "Başlangıçta Seçili">
+<!ENTITY InputSelected.accesskey "S">
+<!ENTITY InputReadOnly.label "Salt Okunur">
 <!ENTITY InputReadOnly.accesskey "S">
 <!ENTITY InputDisabled.label "Kullanılamaz">
 <!ENTITY InputDisabled.accesskey "K">
-<!ENTITY tabIndex.label "Sekme indeksi:">
+<!ENTITY tabIndex.label "Sekme Endeksi:">
 <!ENTITY tabIndex.accesskey "e">
-<!ENTITY TextSize.label "Alan boyutu:">
+<!ENTITY TextSize.label "Alan Boyutu:">
 <!ENTITY TextSize.accesskey "A">
-<!ENTITY TextLength.label "Asgari uzunluk:">
+<!ENTITY TextLength.label "Asgari Uzunluk:">
 <!ENTITY TextLength.accesskey "s">
-<!ENTITY AccessKey.label "Erişim tuşu:">
+<!ENTITY AccessKey.label "Erişim Tuşu:">
 <!ENTITY AccessKey.accesskey "E">
-<!ENTITY Accept.label "Kabul etme tipleri:">
+<!ENTITY Accept.label "Kabul Etme Tipleri:">
 <!ENTITY Accept.accesskey "b">
 
-<!ENTITY ImageProperties.label "Resim özellikleri…">
+<!ENTITY ImageProperties.label "Resim Özellikleri…">
 <!ENTITY ImageProperties.accesskey "e">

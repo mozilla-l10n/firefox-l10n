@@ -8,9 +8,9 @@
 <!ENTITY sourceEditField.label "LaTeX kaynak kodunu girin:">
 
 <!ENTITY options.label "Seçenekler">
-<!ENTITY optionInline.label "Satır içi modu">
+<!ENTITY optionInline.label "Satır içi kipi">
 <!ENTITY optionInline.accesskey "S">
-<!ENTITY optionDisplay.label "Görünüm modu">
+<!ENTITY optionDisplay.label "Görünüm kipi">
 <!ENTITY optionDisplay.accesskey "G">
 <!ENTITY optionLTR.label "Soldan sağa">
 <!ENTITY optionLTR.accesskey "o">

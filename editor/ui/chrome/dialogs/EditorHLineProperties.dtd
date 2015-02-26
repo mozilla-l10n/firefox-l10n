@@ -4,7 +4,7 @@
 <!-- Window title -->
 
 
-<!ENTITY windowTitle.label "Yatay çizgi özellikleri">
+<!ENTITY windowTitle.label "Yatay Çizgi Özellikleri">
 
 <!ENTITY dimensionsBox.label "Boyutlar">
 <!ENTITY heightEditField.label "Yükseklik:">
@@ -20,8 +20,8 @@
 <!ENTITY rightRadio.label "Sağ">
 <!ENTITY rightRadio.accessKey "S">
 
-<!ENTITY threeDShading.label "3B gölgelendirme">
-<!ENTITY threeDShading.accessKey "g">
-<!ENTITY saveSettings.label "Varsayılan olarak kullan">
+<!ENTITY threeDShading.label "3B Gölgelendirme">
+<!ENTITY threeDShading.accessKey "G">
+<!ENTITY saveSettings.label "Varsayılan Olarak Kullan">
 <!ENTITY saveSettings.accessKey "n">
-<!ENTITY saveSettings.tooltip "Yeni yatay çizgi eklemede kullanmak için bu ayarları kaydet">
+<!ENTITY saveSettings.tooltip "Yeni yatay çizgi eklemede kullanılmak üzere bu ayarları kaydet">

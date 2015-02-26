@@ -4,10 +4,10 @@
 <!ENTITY addAccountDialog.title   "Filelink'i kur">
 <!ENTITY addAccountDialog.menuTitle "Bir çevrimiçi depolama hizmeti seçin">
 <!ENTITY addAccountDialog.style "width: 40em; min-height: 20em;">
-<!ENTITY addAccountDialog.accountName.label "Hesap adı:">
+<!ENTITY addAccountDialog.accountName.label "Hesap Adı:">
 <!ENTITY addAccountDialog.noAccountText "Üzgünüz, ancak bu &brandShortName; sürümü her çevrimiçi depolama hizmetinden yalnızca birer hesaba izin veriyor.">
 <!ENTITY addAccountDialog.createAccountText2 "Büyük ekleri göndermek için çeşitli çevrimiçi depolama servislerini kullanabilirsiniz. Lütfen mevcut hesabınızı kurun veya yeni bir hesap açın.">
 <!ENTITY addAccountDialog.authorizing "Yetkilendirme denetleniyor...">
 <!ENTITY addAccountDialog.error "Hesabınız kurulurken bir hata oluştu!">
-<!ENTITY addAccountDialog.acceptButton.label "Hesabı kur">
-<!ENTITY addAccountDialog.learnMore "Daha fazla bilgi…">
+<!ENTITY addAccountDialog.acceptButton.label "Hesap Ekle">
+<!ENTITY addAccountDialog.learnMore "Daha fazla bilgi alın…">

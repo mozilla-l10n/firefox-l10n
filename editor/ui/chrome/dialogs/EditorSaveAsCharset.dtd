@@ -7,9 +7,9 @@
 
 
 
-<!ENTITY windowTitle.label "Karakter kodlamasını kaydet ve değiştir">
-<!ENTITY documentTitleTitle.label "Sayfa başlığı">
-<!ENTITY documentCharsetTitle.label "Karakter kümesi">
+<!ENTITY windowTitle.label "Karakter Kümesini Kaydet ve Değiştir">
+<!ENTITY documentTitleTitle.label "Sayfa Başlığı">
+<!ENTITY documentCharsetTitle.label "Karakter Kümesi">
 <!ENTITY documentCharsetDesc.label "Belgeyi farklı kaydetmek istediğiniz karakter kümesini seçin:">
-<!ENTITY documentExportToText.label "Metin olarak dışa aktar">
+<!ENTITY documentExportToText.label "Metin Olarak Dışa Aktar">
 

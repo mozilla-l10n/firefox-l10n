@@ -3,5 +3,5 @@
    - You can obtain one at http://mozilla.org/MPL/2.0/.  -->
 <!ENTITY fileExceedsQuota.title   "Hightail">
 <!ENTITY fileExceedsQuota.storageLimitReached   "Depolama sınırına ulaşıldı">
-<!ENTITY fileExceedsQuota.description "Hesabınızın 2 GB'lik depolama sınırını aştınız.">
+<!ENTITY fileExceedsQuota.description "Hesabınızın 2 GB'lik depolama sınırına ulaştınız.">
 <!ENTITY fileExceedsQuota.description1 "Şu anki depolama kullanımınız #XXX GB.">

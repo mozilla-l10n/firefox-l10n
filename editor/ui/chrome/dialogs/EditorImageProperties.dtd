@@ -10,24 +10,24 @@
 <!ENTITY pixelsPopup.value "piksel">
 <!-- These are in the Location tab panel -->
 
-<!ENTITY locationEditField.label "Resim konumu:">
+<!ENTITY locationEditField.label "Resim Konumu:">
 <!ENTITY locationEditField.accessKey "R">
 <!ENTITY locationEditField.tooltip "Resmin dosya adını veya konumunu yazın">
-<!ENTITY title.label "Bilgi notu:">
+<!ENTITY title.label "Bilgi Notu:">
 <!ENTITY title.accessKey "B">
-<!ENTITY title.tooltip "Fareyle üzerine gelindiğinde görünecek html 'title' özniteliği">
+<!ENTITY title.tooltip "Fareyle üzerine gelindiğinde görünecek HTML 'title' özniteliği">
 <!ENTITY altText.label "Alternatif metin:">
 <!ENTITY altText.accessKey "A">
-<!ENTITY altTextEditField.tooltip "Resmin yerinde görüntülenecek olan metni yazın">
+<!ENTITY altTextEditField.tooltip "Resmin yerinde görüntülenecek metni yazın">
 <!ENTITY noAltText.label "Alternatif metin kullanma">
 <!ENTITY noAltText.accessKey "k">
 
-<!ENTITY previewBox.label "Resim önizleme">
+<!ENTITY previewBox.label "Resim Önizleme">
 <!-- These controls are in the Dimensions tab panel -->
 <!-- actualSize.label should be same as actualSizeRadio.label + ":" -->
 
-<!ENTITY actualSize.label "Gerçek boyut:">
-<!ENTITY actualSizeRadio.label "Gerçek boyut">
+<!ENTITY actualSize.label "Gerçek Boyut:">
+<!ENTITY actualSizeRadio.label "Gerçek Boyut">
 <!ENTITY actualSizeRadio.accessKey "e">
 <!ENTITY actualSizeRadio.tooltip "Resmin gerçek boyutlarına dön">
 <!ENTITY customSizeRadio.label "Özel Boyut">
@@ -39,7 +39,7 @@
 <!ENTITY widthEditField.accessKey "G">
 <!ENTITY constrainCheckbox.label "Zorla">
 <!ENTITY constrainCheckbox.accessKey "l">
-<!ENTITY constrainCheckbox.tooltip "Resmin en boy oranını koru">
+<!ENTITY constrainCheckbox.tooltip "Resmin en/boy oranını koru">
 <!-- These controls are in the Image Map box of the expanded area -->
 
 <!ENTITY imagemapBox.label "Görüntü Haritası">
@@ -47,7 +47,7 @@
 <!ENTITY removeImageMapButton.accessKey "K">
 <!-- These are the options for image alignment -->
 
-<!ENTITY alignment.label "Metni resme hizala">
+<!ENTITY alignment.label "Metni Resme Hizala">
 <!ENTITY bottomPopup.value "Altta">
 <!ENTITY topPopup.value "Üstte">
 <!ENTITY centerPopup.value "Ortada">
@@ -56,17 +56,17 @@
 <!-- These controls are in the Spacing Box -->
 
 <!ENTITY spacingBox.label "Aralık">
-<!ENTITY leftRightEditField.label "Sol ve sağ:">
+<!ENTITY leftRightEditField.label "Sol ve Sağ:">
 <!ENTITY leftRightEditField.accessKey "l">
-<!ENTITY topBottomEditField.label "Üst ve alt:">
+<!ENTITY topBottomEditField.label "Üst ve Alt:">
 <!ENTITY topBottomEditField.accessKey "s">
-<!ENTITY borderEditField.label "Kesintisiz kenarlık:">
+<!ENTITY borderEditField.label "Kesintisiz Kenarlık:">
 <!ENTITY borderEditField.accessKey "s">
 <!-- These controls are in the Link Box -->
 
 <!ENTITY showImageLinkBorder.label "Bağlantılı resmin etrafında kenarlık göster">
 <!ENTITY showImageLinkBorder.accessKey "g">
-<!ENTITY LinkAdvancedEditButton.label "Gelişmiş bağlantı düzenleme…">
+<!ENTITY LinkAdvancedEditButton.label "Gelişmiş Bağlantı Düzenleme…">
 <!ENTITY LinkAdvancedEditButton.accessKey "G">
 <!ENTITY LinkAdvancedEditButton.tooltip "HTML öznitelikleri, biçim öznitelikleri ve JavaScript ekle veya değiştir">
 <!-- These tabs are currently used in the image input dialog -->

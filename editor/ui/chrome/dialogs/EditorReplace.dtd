@@ -4,7 +4,7 @@
 <!-- extracted from EdReplace.xul -->
 
 
-<!ENTITY replaceDialog.title "Bul ve değiştir">
+<!ENTITY replaceDialog.title "Bul ve Değiştir">
 <!ENTITY findField.label "Aranacak metin:">
 <!ENTITY findField.accesskey "A">
 <!ENTITY replaceField.label "Bununla değiştir:">
@@ -15,12 +15,12 @@
 <!ENTITY wrapCheckbox.accesskey "B">
 <!ENTITY backwardsCheckbox.label "Geriye doğru ara">
 <!ENTITY backwardsCheckbox.accesskey "y">
-<!ENTITY findNextButton.label "Sonrakini bul">
+<!ENTITY findNextButton.label "Sonrakini Bul">
 <!ENTITY findNextButton.accesskey "S">
 <!ENTITY replaceButton.label "Değiştir">
 <!ENTITY replaceButton.accesskey "e">
-<!ENTITY replaceAndFindButton.label "Değiştir ve bul">
+<!ENTITY replaceAndFindButton.label "Değiştir ve Bul">
 <!ENTITY replaceAndFindButton.accesskey "D">
-<!ENTITY replaceAllButton.label "Tümünü değiştir">
+<!ENTITY replaceAllButton.label "Tümünü Değiştir">
 <!ENTITY replaceAllButton.accesskey "T">
 <!ENTITY closeButton.label "Kapat">
