@@ -76,15 +76,19 @@
   -  a checkbox that inverts and un-inverts the profiler's flame graph. -->
 
 <!ENTITY profilerUI.invertFlameGraph             "Invert Flame Chart">
-
+<!ENTITY profilerUI.invertFlameGraph.tooltiptext "ការ​បម្លែង​តារាង​អណ្ដាត​ភ្លើង​បង្ហាញ​ពី​ប្រវត្តិ​ការ​ហៅ​ដោយ​ចាប់ផ្ដើម​ពី​ស៊ុម​ថ្មី​បំផុត រហូត​ដល់​ស៊ុម​ដែល​ចាស់​បំផុត។">
 <!-- LOCALIZATION NOTE (profilerUI.showPlatformData): This is the
   -  label for the checkbox that toggles whether or not Gecko platform data
   -  is displayed in the profiler. -->
 
+<!ENTITY profilerUI.showPlatformData             "បង្ហាញ​ទិន្នន័យ​កម្មវិធី Gecko">
+<!ENTITY profilerUI.showPlatformData.tooltiptext "ការ​បង្ហាញ​ទិន្នន័យ​កម្មវិធី អនុញ្ញាត​កម្មវិធី​បង្កើត​ប្រវត្តិរូប JavaScript រាយការណ៍​ដោយ​រួមបញ្ចូល​និមិត្តសញ្ញា​កម្មវិធី Gecko ។">
 <!-- LOCALIZATION NOTE (profilerUI.flattenTreeRecursion): This is the
   -  label for the checkbox that toggles the flattening of tree recursion in inspected
   -  functions in the profiler. -->
 
+<!ENTITY profilerUI.flattenTreeRecursion             "ធ្វើឲ្យ​មែកធាង​ការ​ហៅ​ខ្លួនឯង​រាបស្មើ">
+<!ENTITY profilerUI.flattenTreeRecursion.tooltiptext "ធ្វើឲ្យ​ការ​ហៅ​ខ្លួនឯង​រាប​ស្មើ​ពេល​ពិនិត្យ​មុខងារ។">
 <!-- LOCALIZATION NOTE (profilerUI.enableMemory): This string
   -  is displayed next to a checkbox determining whether or not memory
   -  measurements are enabled. -->
