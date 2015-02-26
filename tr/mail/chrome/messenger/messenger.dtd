@@ -491,7 +491,7 @@
 <!ENTITY allowRemoteDebugging.accesskey "h">
 <!-- Mail Toolbar -->
 
-<!ENTITY getMsgButton1.label "İletileri indir">
+<!ENTITY getMsgButton1.label "İletileri İndir">
 <!ENTITY newMsgButton.label "Yeni ileti">
 <!ENTITY replyButton.label "Yanıtla">
 <!ENTITY replyAllButton.label "Tümünü yanıtla">
@@ -601,8 +601,8 @@
 <!ENTITY folderSizeColumn.label "Boyut">
 <!-- Folder Pane Context Menu -->
 
-<!ENTITY folderContextGetMessages.label "İletileri indir">
-<!ENTITY folderContextGetMessages.accesskey "G">
+<!ENTITY folderContextGetMessages.label "İletileri İndir">
+<!ENTITY folderContextGetMessages.accesskey "n">
 <!ENTITY folderContextOpenInNewWindow.label "Yeni pencerede aç">
 <!ENTITY folderContextOpenInNewWindow.accesskey "Y">
 <!ENTITY folderContextOpenNewTab.label "Yeni sekmede aç">

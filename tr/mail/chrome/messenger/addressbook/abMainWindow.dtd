@@ -3,8 +3,8 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY addressbookWindow.title                        "Adres Defteri">
-
-
+<!ENTITY blankResultsPaneMessage.label                  "Bu adres defterinde kişiler sadece bir aramanın ardından gösterilir">
+<!ENTITY localResultsOnlyMessage.label                  "Uzaktaki adres defterindeki kişiler siz arama yapana kadar gösterilmez">
 <!-- File Menu -->
 <!ENTITY fileMenu.label                                 "Dosya">
 <!ENTITY fileMenu.accesskey                             "D">
@@ -161,6 +161,8 @@ because displayed names don't have the comma in between. -->
 <!ENTITY searchItem.title "Hızlı arama">
 <!-- Results Pane -->
 
+<!ENTITY Addrbook.label                                 "Adres Defteri">
+<!ENTITY Addrbook.accesskey                             "A">
 <!ENTITY GeneratedName.label                            "İsim">
 <!ENTITY GeneratedName.accesskey                        "s">
 <!ENTITY PrimaryEmail.label                             "E-posta">

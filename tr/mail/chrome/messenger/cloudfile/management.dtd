@@ -3,6 +3,6 @@
    - You can obtain one at http://mozilla.org/MPL/2.0/.  -->
 <!ENTITY cloudfileMgmt.privacyPolicy "Gizlilik İlkeleri">
 <!ENTITY cloudfileMgmt.termsOfService "Hizmet Koşulları">
-<!ENTITY cloudfileMgmt.usedSpace "Kullanılan alan:">
-<!ENTITY cloudfileMgmt.unusedSpace "Boş alan:">
-<!ENTITY cloudfileMgmt.upgradeOffer "Daha fazla alan al">
+<!ENTITY cloudfileMgmt.usedSpace "Kullanılan Alan:">
+<!ENTITY cloudfileMgmt.unusedSpace "Boş Alan:">
+<!ENTITY cloudfileMgmt.upgradeOffer "Daha fazla alan edin">
