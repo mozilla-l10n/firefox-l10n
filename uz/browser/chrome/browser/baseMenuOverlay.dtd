@@ -1,6 +1,8 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY minimizeWindow.key       "m">
 <!ENTITY minimizeWindow.label     "Yig‘ish">
 <!ENTITY bringAllToFront.label    "Barchasini oldinga o‘tkazish">
 <!ENTITY zoomWindow.label         "Masshtab">
@@ -10,20 +12,22 @@
 <!ENTITY helpMenu.accesskey       "Y"> 
 <!-- LOCALIZATION NOTE some localizations of Windows (ex:french, german) use "?"
                        for the help button in the menubar but Gnome does not.   -->
-
-
-
-
-
-
+<!ENTITY helpMenuWin.label        "Yordam"> 
+<!ENTITY helpMenuWin.accesskey    "Y">
+<!ENTITY aboutProduct2.label      "&brandShortName; haqida">
+<!ENTITY aboutProduct2.accesskey  "h">
+<!ENTITY productHelp2.label       "&brandShortName; yordami">
+<!ENTITY productHelp2.accesskey   "y">
+<!ENTITY helpMac.commandkey       "?">
 
 <!ENTITY helpKeyboardShortcuts.label     "Klaviatura tugmalar birikmasi">
 <!ENTITY helpKeyboardShortcuts.accesskey "K">
 
-<!ENTITY helpSafeMode.label       "Qo‘shimcha dasturlarni o‘chirib, qaytadan ishga tushirish">
+<!ENTITY helpSafeMode.label       "Qo‘sh. dasturlarni o‘chirib, qayta ishga tushirish">
 <!ENTITY helpSafeMode.accesskey   "q">
 
-
+<!ENTITY healthReport2.label      "&brandShortName; yaroqlilik ma’lumotlari">
+<!ENTITY healthReport2.accesskey  "r">
 
 <!ENTITY helpTroubleshootingInfo.label      "Nosozlik ma’lumoti">
 <!ENTITY helpTroubleshootingInfo.accesskey  "N">
@@ -31,16 +35,18 @@
 <!ENTITY helpFeedbackPage.label      "Mulohaza bildirish">
 <!ENTITY helpFeedbackPage.accesskey  "b">
 
-
+<!ENTITY helpShowTour2.label            "&brandShortName;ga sayohat">
+<!ENTITY helpShowTour2.accesskey        "s">
 
 <!ENTITY preferencesCmdMac.label        "Parametrlar…">
-
+<!ENTITY preferencesCmdMac.commandkey   ",">
 
 <!ENTITY servicesMenuMac.label          "Xizmatlar">
 
-
+<!ENTITY hideThisAppCmdMac2.label       "&brandShortName;ni yashirish">
+<!ENTITY hideThisAppCmdMac2.commandkey  "H">
 
 <!ENTITY hideOtherAppsCmdMac.label      "Boshqalarini yashirish">
-
+<!ENTITY hideOtherAppsCmdMac.commandkey "H">
 
 <!ENTITY showAllAppsCmdMac.label        "Barchasini ko‘rsatish">

@@ -13,10 +13,11 @@
 <!ENTITY restorepage.startNew       "Butunlay yangi ko‘rish seansi boshlanmoqda">
 
 <!ENTITY restorepage.tryagainButton "Tiklash">
-
+<!ENTITY restorepage.restore.access "R">
 <!ENTITY restorepage.closeButton    "Yopish">
+<!ENTITY restorepage.close.access   "C">
 
-
+<!ENTITY restorepage.restoreHeader  "Tiklash">
 <!ENTITY restorepage.listHeader     "Oynalar va ichki oynalar">
 <!-- LOCALIZATION NOTE: &#37;S will be replaced with a number. -->
 <!ENTITY restorepage.windowLabel    "&#037;S oyna">
@@ -26,10 +27,11 @@
 
 
 <!ENTITY welcomeback2.restoreButton  "Qani, ketdik!">
-
+<!ENTITY welcomeback2.restoreButton.access "L">
 
 <!ENTITY welcomeback2.tabtitle      "Muvaffaqiyatli!">
 
+<!ENTITY welcomeback2.pageTitle     "Muvaffaqiyatli!">
 <!ENTITY welcomeback2.pageInfo1     "&brandShortName; ketishga tayyor.">
 
 <!ENTITY welcomeback2.label.restoreAll  "Barcha oyna va ichki oynalarni tiklash">
