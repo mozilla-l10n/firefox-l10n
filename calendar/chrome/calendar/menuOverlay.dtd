@@ -18,8 +18,17 @@
 <!ENTITY calendar.publish.label                 "Publiceren…">
 <!ENTITY calendar.publish.accesskey             "u">
 
-<!ENTITY calendar.deletecalendar.label          "Geselecteerde agenda verwijderen…">
+<!ENTITY calendar.deletecalendar.label          "Geselecteerde agenda wissen…">
 <!ENTITY calendar.deletecalendar.accesskey      "G">
+<!ENTITY calendar.unsubscribecalendar.label     "Geselecteerde agenda afmelden…">
+<!ENTITY calendar.unsubscribecalendar.accesskey "a">
+
+<!-- LOCALIZATION NOTE (calendar.removecalendar.label): Removing the calendar
+      is the general action of removing it, while deleting means to clear the
+      data and unsubscribing means just taking it out of the calendar list. -->
+<!ENTITY calendar.removecalendar.label          "Geselecteerde agenda verwijderen…">
+<!ENTITY calendar.removecalendar.accesskey      "v">
+
 
 <!ENTITY calendar.menu.customize.label          "Aanpassen…">
 <!ENTITY calendar.menu.customize.accesskey      "A">
