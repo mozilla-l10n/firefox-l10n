@@ -4,7 +4,7 @@
 
 <!ENTITY pref.toolbars.title    "Araç Çubukları">
 
-<!ENTITY composition.caption    "Aşağıdaki düğmeleri düzenleme araç çubuğunda göster:">
+<!ENTITY composition.caption    "Bu düğmeleri Düzenleme Araç Çubuğu'nda göster:">
 
 <!ENTITY new.label              "Yeni">
 <!ENTITY open.label             "Aç">
@@ -17,12 +17,12 @@
 <!ENTITY print.label            "Yazdır">
 <!ENTITY find.label             "Bul">
 <!ENTITY image.label            "Resim">
-<!ENTITY hline.label            "Yatay çizgi">
+<!ENTITY hline.label            "Y. Çizgi">
 <!ENTITY table.label            "Tablo">
 <!ENTITY link.label             "Bağlantı">
-<!ENTITY anchor.label           "Hedef">
+<!ENTITY anchor.label           "Çıpa">
 
-<!ENTITY formatting.caption     "Aşağıdaki düğmeleri biçimlendirme araç çubuğunda göster:">
+<!ENTITY formatting.caption     "Bu düğmeleri Biçimlendirme Araç Çubuğu'nda göster:">
 
 <!ENTITY smaller.label          "Daha küçük">
 <!ENTITY larger.label           "Daha büyük">
@@ -34,6 +34,6 @@
 <!ENTITY indent.label           "Girinti">
 <!ENTITY underline.label        "Altı çizili">
 
-<!ENTITY absolutePosition.label "Tam konumlandırma">
+<!ENTITY absolutePosition.label "Mutlak konumlandırma">
 <!ENTITY decreaseZIndex.label   "Arkaya gönder">
 <!ENTITY increaseZIndex.label   "Öne getir">

@@ -3,31 +3,31 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!-- File menu items -->
 
-<!ENTITY openFileCmd.label "Dosya aç…">
+<!ENTITY openFileCmd.label "Dosya Aç…">
 <!ENTITY openFileCmd.accesskey "o">
-<!ENTITY openFileCmd.key "o">
-<!ENTITY openRemoteCmd.label "Web konumu aç…">
-<!ENTITY openRemoteCmd.accesskey "k">
-<!ENTITY openRemoteCmd.key "W">
-<!ENTITY fileRecentMenu.label "Son sayfalar">
-<!ENTITY fileRecentMenu.accesskey "r">
+<!ENTITY openFileCmd.key "O">
+<!ENTITY openRemoteCmd.label "Web Konumu Aç…">
+<!ENTITY openRemoteCmd.accesskey "K">
+<!ENTITY openRemoteCmd.key "K">
+<!ENTITY fileRecentMenu.label "Son Sayfalar">
+<!ENTITY fileRecentMenu.accesskey "n">
 <!ENTITY saveCmd.label "Kaydet">
-<!ENTITY saveCmd.accesskey "K">
-<!ENTITY saveAsCmd.label "Farklı kaydet…">
+<!ENTITY saveCmd.accesskey "d">
+<!ENTITY saveAsCmd.label "Farklı Kaydet…">
 <!ENTITY saveAsCmd.accesskey "F">
-<!ENTITY saveAsChangeEncodingCmd.label "Karakter kodlamasını kaydet ve değiştir">
-<!ENTITY saveAsChangeEncodingCmd.accesskey "e">
+<!ENTITY saveAsChangeEncodingCmd.label "Kaydet ve Karakter Kümesini Değiştir">
+<!ENTITY saveAsChangeEncodingCmd.accesskey "m">
 <!ENTITY publishCmd.label "Yayımla">
 <!ENTITY publishCmd.accesskey "Y">
 <!ENTITY publishCmd.key "S">
-<!ENTITY publishAsCmd.label "Farklı yayımla…">
-<!ENTITY publishAsCmd.accesskey "y">
-<!ENTITY fileRevert.label "Geri al">
+<!ENTITY publishAsCmd.label "Farklı Yayımla…">
+<!ENTITY publishAsCmd.accesskey "l">
+<!ENTITY fileRevert.label "Geri Al">
 <!ENTITY fileRevert.accesskey "G">
 <!-- Edit menu items -->
 
-<!ENTITY publishSettings.label "Yayın sitesi ayarları…">
-<!ENTITY publishSettings.accesskey "Y">
+<!ENTITY publishSettings.label "Site Yayınlama Ayarları…">
+<!ENTITY publishSettings.accesskey "S">
 <!-- Toolbar buttons/items -->
 
 <!ENTITY newToolbarCmd.label "Yeni">
@@ -35,4 +35,4 @@
 <!ENTITY openToolbarCmd.label "Aç ">
 <!ENTITY openToolbarCmd.tooltip "Yerel bir dosya aç">
 <!ENTITY saveToolbarCmd.tooltip "Dosyayı yerel bir konuma kaydet">
-<!ENTITY publishToolbarCmd.tooltip "Dosyayı uzak konuma gönder">
+<!ENTITY publishToolbarCmd.tooltip "Dosyayı uzak bir konuma yükle">
