@@ -192,11 +192,11 @@
 <!ENTITY event.attachments.menubutton.accesskey           "x">
 <!ENTITY event.attachments.url.label                      "Pagină web…">
 <!ENTITY event.attachments.url.accesskey                  "w">
-<!ENTITY event.attachments.popup.remove.label             "Elimină" >
-<!ENTITY event.attachments.popup.remove.accesskey         "E" >
+<!ENTITY event.attachments.popup.remove.label             "Înlătură" >
+<!ENTITY event.attachments.popup.remove.accesskey         "r" >
 <!ENTITY event.attachments.popup.open.label               "Deschide" >
 <!ENTITY event.attachments.popup.open.accesskey           "D" >
-<!ENTITY event.attachments.popup.removeAll.label          "Elimină-le pe toate" >
+<!ENTITY event.attachments.popup.removeAll.label          "Înlătură-le pe toate" >
 <!ENTITY event.attachments.popup.removeAll.accesskey      "a" >
 <!ENTITY event.attachments.popup.attachPage.label         "Anexează o pagină web…" >
 <!ENTITY event.attachments.popup.attachPage.accesskey     "w" >
