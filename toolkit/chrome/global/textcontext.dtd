@@ -24,3 +24,5 @@
 <!ENTITY spellNoSuggestions.label "(कोनो वर्तनी सुझाव नहि)">
 <!ENTITY spellDictionaries.label "भाषा">
 <!ENTITY spellDictionaries.accesskey "L">
+
+<!ENTITY searchTextBox.clear.label "साफ  करू ">

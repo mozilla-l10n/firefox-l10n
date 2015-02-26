@@ -10,8 +10,8 @@
 
 <!ENTITY update.checkForUpdatesButton.label       "अद्यतनक लेल जाँचू (C)">
 <!ENTITY update.checkForUpdatesButton.accesskey   "C">
-
-
+<!ENTITY update.updateButton.label2                "अद्यतन खातिर &brandShortName;दुबारा आरंभ करू ">
+<!ENTITY update.updateButton.accesskey            "R">
 <!ENTITY update.applyButtonBillboard.label        "अपडेट लागू करू …">
 <!ENTITY update.applyButtonBillboard.accesskey    "A">
 <!-- LOCALIZATION NOTE (warningDesc.version): This is a warning about the experimental nature of Nightly and Aurora builds. It is only shown in those versions. -->
@@ -25,7 +25,7 @@
 <!ENTITY community.exp.start        "">
 <!-- LOCALIZATION NOTE (community.exp.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
 <!ENTITY community.exp.mozillaLink  "&vendorShortName;">
-<!ENTITY community.exp.middle       " एक गोट ">
+<!ENTITY community.exp.middle       " एकटा">
 <!-- LOCALIZATION NOTE (community.exp.creditslink): This is a link title that links to about:credits. -->
 <!ENTITY community.exp.creditsLink  "वैश्विक समुदाय ">
 <!ENTITY community.exp.end          " वेब केँ मुक्त, सार्वजनिक आओर सभक लेल सुलभ बनैबाक लेल संयुक्त रूप सं प्रयासरत ">
@@ -35,12 +35,14 @@
 <!ENTITY community.mozillaLink      "&vendorShortName;">
 <!ENTITY community.middle2          ", एकटा ">
 <!-- LOCALIZATION NOTE (community.creditsLink): This is a link title that links to about:credits. -->
-<!ENTITY community.creditsLink      "वैश्विक समुदाय">
-<!ENTITY community.end3             " वेब केँ मुक्त, सार्वजनिक आओर सभक लेल सुलभ बनैबाक लेल संयुक्त रूप सं प्रयासरत.">
 
+
+<!ENTITY helpus.start               "मदति करए चाहैत छी?">
 <!-- LOCALIZATION NOTE (helpus.donateLink): This is a link title that links to https://sendto.mozilla.org/page/contribute/Give-Now?source=mozillaorg_default_footer&ref=firefox_about&utm_campaign=firefox_about&utm_source=firefox&utm_medium=referral&utm_content=20140929_FireFoxAbout. -->
-
+<!ENTITY helpus.donateLink          "दान करू">
+<!ENTITY helpus.middle              ", अथवा ">
 <!-- LOCALIZATION NOTE (helpus.getInvolvedLink): This is a link title that links to http://www.mozilla.org/contribute/. -->
+<!ENTITY helpus.getInvolvedLink     "शामिल होउ!">
 <!ENTITY helpus.end                 "">
 <!-- LOCALIZATION NOTE (bottomLinks.license): This is a link title that links to about:license. -->
 
@@ -59,6 +61,7 @@
 <!-- LOCALIZATION NOTE (update.adminDisabled): try to make the localized text short (see bug 596813 for screenshots). -->
 <!ENTITY update.adminDisabled       "अद्यतन केँ अहाँक सिस्टम प्रशासक क द्वारा निष्क्रिय कएल गेल अछि">
 <!-- LOCALIZATION NOTE (update.otherInstanceHandlingUpdates): try to make the localized text short -->
+<!ENTITY update.otherInstanceHandlingUpdates "&brandShortName; केँ दोसर इंस्टांस केर द्वारा अद्यतन कएल जाए रहल अछि">
 <!-- LOCALIZATION NOTE (update.failed.start,update.failed.linkText,update.failed.end):
      update.failed.start, update.failed.linkText, and update.failed.end all go into
      one line with linkText being wrapped in an anchor that links to a site to download
@@ -81,7 +84,9 @@
      an anchor that links to a site to provide additional information regarding
      why the system is no longer supported. As this is all in one line, try to
      make the localized text short (see bug 843497 for screenshots). -->
-<!ENTITY update.unsupported.linkText "आओर जानू">
+
+<!ENTITY update.unsupported.start    "अहाँ एहि तंत्र पर आगाँ अद्यतन नहि कए सकैत अछि.">
+<!ENTITY update.unsupported.linkText "बेसी जानू">
 <!ENTITY update.unsupported.end      "">
 <!-- LOCALIZATION NOTE (update.downloading.start,update.downloading.end): update.downloading.start and 
      update.downloading.end all go into one line, with the amount downloaded inserted in between. As this
@@ -97,5 +102,5 @@
      channel.description.end create one sentence, with the current channel label inserted in between.
      example: You are currently on the _Stable_ update channel. -->
 
-<!ENTITY channel.description.start  "अहाँ अखन एतए अछि ">
+<!ENTITY channel.description.start  "अहाँ अखन एतए छी">
 <!ENTITY channel.description.end    " चैनल अद्यतन करू. ">

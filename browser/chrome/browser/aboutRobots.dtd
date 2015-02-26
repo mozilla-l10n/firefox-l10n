@@ -12,7 +12,7 @@
 <!-- Movie: Logan's Run... Box (cybog): "Welcome Humans! I am ready for you." -->
 <!ENTITY robots.errorTitleText "अहाँलोकनिसभक स्वागत अछि !">
 <!-- Movie: The Day The Earth Stood Still. Spoken by Klaatu. -->
-<!ENTITY robots.errorShortDescText "हम अहाँक पास शांति आ सद्भाव क सँग आए  अछि !">
+<!ENTITY robots.errorShortDescText "हम अहाँक पास शांति आ सद्भाव क सँग आएल छी !">
 <!-- Various books by Isaac Asimov. http://en.wikipedia.org/wiki/Three_Laws_of_Robotics -->
 <!ENTITY robots.errorLongDesc1 "रोबोट मानवकेँ नुकसान पहुँचाए सकैत  अछि, निष्क्रियताक कारण, एकटा मानव केँ खतराक सोझा करैत अछि .">
 <!-- Movie: Blade Runner. Batty: "I've seen things you people wouldn't believe..." -->

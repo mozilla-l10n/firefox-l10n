@@ -26,6 +26,8 @@
 <!ENTITY syncMy.label               "तुल्यकालित करू ">
 <!ENTITY engine.bookmarks.label     "पुस्तचिह्न">
 <!ENTITY engine.bookmarks.accesskey "m">
+
+
 <!ENTITY engine.tabs.label          "टैब">
 <!ENTITY engine.tabs.accesskey      "T">
 <!ENTITY engine.history.label       "इतिहास">
@@ -73,3 +75,4 @@ both, to better adapt this sentence to their language.
 <!ENTITY welcome.signIn.label "साइन इन">
 <!ENTITY welcome.createAccount.label "खाता बनाउ">
 
+<!ENTITY welcome.useOldSync.label "सिंक केर पुरान संस्करण क' उपयोग कए रहल छी?">

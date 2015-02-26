@@ -41,6 +41,8 @@
 
 
 
+
+
 <!ENTITY viewMenu_label "देखू">
 <!ENTITY viewMenu_accesskey "V">
 <!ENTITY viewMenu_toggleEditor_label "टॉगल संपादक">
@@ -90,6 +92,7 @@
 <!ENTITY details_location "स्थान">
 <!ENTITY details_manifestURL "अनुप्रयोग आईडी">
 <!ENTITY details_removeProject_button "प्रोजेक्ट हटाबू">
+
 <!-- New App -->
 
 <!ENTITY newAppWindowTitle "नव एप्प">
@@ -141,14 +144,20 @@
 <!ENTITY runtimedetails_adbIsRoot "एडीबी रूट अछि:">
 <!ENTITY runtimedetails_summonADBRoot "रूट डिवाइस">
 <!ENTITY runtimedetails_ADBRootWarning "(खुला बूटलोडर चाही)">
-<!ENTITY runtimedetails_restrictedPrivileges "DevTools क निषेधित अधिकार:">
+
 <!ENTITY runtimedetails_requestPrivileges "उच्चतर अधिकार निवेदित करू">
 <!ENTITY runtimedetails_privilegesWarning "(युक्ति रिबूट करताह. रूट पहुँच चाही.)">
+<!-- Device Preferences and Settings -->
+
+
+<!ENTITY device_typeobject "वस्तु">
+
 <!-- Device Preferences -->
 
 
 
 
+<!-- Device Settings -->
 
 
 
@@ -157,3 +166,16 @@
 
 <!ENTITY monitor_title "मानीटर">
 <!ENTITY monitor_help "मद्दति ">
+<!-- WiFi Authentication -->
+<!-- LOCALIZATION NOTE (wifi_auth_header): The header displayed on the dialog
+     that instructs the user to transfer an authentication token to the
+     server. -->
+<!-- LOCALIZATION NOTE (wifi_auth_scan_request): Instructions requesting the
+     user to transfer authentication info by scanning a QR code. -->
+<!-- LOCALIZATION NOTE (wifi_auth_no_scanner): Link text to assist users with
+     devices that can't scan a QR code. -->
+<!-- LOCALIZATION NOTE (wifi_auth_yes_scanner): Link text to assist users with
+     devices that can scan a QR code. -->
+<!-- LOCALIZATION NOTE (wifi_auth_token_request): Instructions requesting the
+     user to transfer authentication info by transferring a token. -->
+<!-- Logs panel -->

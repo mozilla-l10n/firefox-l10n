@@ -150,6 +150,8 @@
 
 <!ENTITY fxaccount_create_account_header2 "एकटा फायरफाक्स खाता बनाउ">
 <!ENTITY fxaccount_create_account_password_length_restriction "कम सँ कम 8 वर्ण क होनाइ चाही">
+
+
 <!ENTITY fxaccount_create_account_year_of_birth "जन्म क साल">
 <!-- Localization note: &formatS1; is fxaccount_policy_linktos, &formatS2; is fxaccount_policy_linkprivacy, both hyperlinked. -->
 <!ENTITY fxaccount_create_account_policy_text2 "जारी राखैत हुए, हम फायरफाक्स क्लाउड सेवा क &formatS1; आओर &formatS2;सँ सहमत छी. ">
@@ -191,7 +193,7 @@
 
 <!ENTITY fxaccount_finish_migrating_header "उन्नयन समाप्त करबाक लेल साइन इन करु">
 <!ENTITY fxaccount_finish_migrating_button_label "उन्नयन समाप्त करु">
-<!ENTITY fxaccount_finish_migrating_description "उन्नयन बहुत रास आँकड़ा के स्थानान्तरित कय सकैत अछि. WiFi नेटवर्क पर रहनाइ सब सँ नीक रहत.">
+
 
 <!ENTITY fxaccount_status_header2 "फायरफॉक्स खाता">
 <!ENTITY fxaccount_status_signed_in_as "एहिना साइन इन करू">
@@ -207,7 +209,6 @@
 <!ENTITY fxaccount_status_needs_upgrade "साइन-इन करबाक लेल अहाँकेँ &brandShortName; अद्यतन करबाक जरूरत अछि.">
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled "&syncBrand.shortName.label; सेटअप कएल गेल अछि, मुदा स्वतः तुल्यकालन नहि होएत अछि. “डाटा स्वतःतुल्यकालन” एंड्रायड सेटिंग में टॉगल करु &gt; डाटा प्रयोग.">
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled_v21 "&syncBrand.shortName.label; सेटअप कएल गेल अछि, मुदा स्वतः सिंक नहि हाएत अछि. “डाटा स्वतःतुल्यकालन” एंड्राइड सेटिंग मे टॉगल करु &gt; डाटा प्रयोग.">
-<!ENTITY fxaccount_status_needs_account_enabled "&syncBrand.shortName.label; सेटअप अछि मुदा स्वतः तुल्यकालन नहि हाएत अछि. तुल्यकालन शुरू करबाक लेल टीपू.">
 <!ENTITY fxaccount_status_needs_finish_migrating "अपन नवका फायरफॉक्स खाता में साइन इन करबाक लेल टीपू.">
 <!ENTITY fxaccount_status_bookmarks "पृष्ठस्मृति">
 <!ENTITY fxaccount_status_history "इतिहास">
