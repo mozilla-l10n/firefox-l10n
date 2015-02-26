@@ -34,9 +34,11 @@ This is likely the same like id.heading in crashes.dtd. -->
 <!ENTITY aboutSupport.appBasicsTitle "अनुप्रयोग मूल">
 <!ENTITY aboutSupport.appBasicsName "नाम">
 <!ENTITY aboutSupport.appBasicsVersion "संस्करण">
-
+<!ENTITY aboutSupport.appBasicsBuildID " ID बनाबू">
 <!-- LOCALIZATION NOTE (aboutSupport.appBasicsUpdateChannel, aboutSupport.appBasicsUpdateHistory, aboutSupport.appBasicsShowUpdateHistory):
 "Update" is a noun here, not a verb. -->
+
+<!ENTITY aboutSupport.appBasicsUpdateChannel "चैनल अद्यतन करू">
 <!ENTITY aboutSupport.appBasicsUpdateHistory "अद्यतन इतिहास">
 <!ENTITY aboutSupport.appBasicsShowUpdateHistory "अद्यतन इतिहास देखाउ">
 
@@ -91,5 +93,7 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.copyTextToClipboard.label "सभक क्लिपबोर्ड मे नकल लिअ">
 <!ENTITY aboutSupport.copyRawDataToClipboard.label "कच्चा डाटा क्लिपबोर्ड मे नकल लिअ">
 
+<!ENTITY aboutSupport.sandboxTitle "सैंडबक्सा">
 
-
+<!ENTITY aboutSupport.safeModeTitle "सुरक्षित मोड मे कोसिस करू">
+<!ENTITY aboutSupport.restartInSafeMode.label "निष्क्रिय सहयुक्तिक सँग फेर आरंभ करू ...">
