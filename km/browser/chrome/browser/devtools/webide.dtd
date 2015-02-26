@@ -166,10 +166,10 @@
 <!-- Device Settings -->
 
 <!ENTITY devicesetting_title "ការ​កំណត់​ឧបករណ៍">
-
-
-
-
+<!ENTITY devicesetting_search "ការ​កំណត់​ការ​ស្វែងរក">
+<!ENTITY devicesetting_newname "ឈ្មោះ​ការ​កំណត់​ថ្មី">
+<!ENTITY devicesetting_newtext "តម្លៃ​ការ​កំណត់">
+<!ENTITY devicesetting_addnew "បន្ថែម​ការ​កំណត់​ថ្មី">
 <!-- Monitor -->
 
 <!ENTITY monitor_title "ម៉ូនីទ័រ">
