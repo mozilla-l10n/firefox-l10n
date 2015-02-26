@@ -14,7 +14,7 @@
 
 <!ENTITY calendar.today.button.label       "Vandaag">
 <!ENTITY calendar.tomorrow.button.label       "Morgen">
-<!ENTITY calendar.soon.button.label           "Binnenkort">
+<!ENTITY calendar.upcoming.button.label       "Aanstaand">
 
 <!ENTITY calendar.events.filter.all.label "Alle gebeurtenissen">
 <!ENTITY calendar.events.filter.today.label "Gebeurtenissen van vandaag">
@@ -63,7 +63,7 @@
 <!ENTITY calendar.day.button.tooltip            "Naar dagoverzicht overschakelen" >
 <!ENTITY calendar.week.button.tooltip           "Naar weekoverzicht overschakelen" >
 <!ENTITY calendar.month.button.tooltip          "Naar maandoverzicht overschakelen" >
-<!ENTITY calendar.multiweek.button.tooltip      "Naar overzicht voor meerdere weken overschakelen" >
+<!ENTITY calendar.multiweek.button.tooltip      "Naar overzicht van meerdere weken overschakelen" >
 
 <!ENTITY calendar.nextday.label                 "Volgende dag" >
 <!ENTITY calendar.prevday.label                 "Vorige dag" >
@@ -232,8 +232,17 @@
 <!ENTITY calendar.context.newserver.accesskey          "N">
 <!ENTITY calendar.context.findcalendar.label           "Agenda zoeken…" >
 <!ENTITY calendar.context.findcalendar.accesskey       "z" >
-<!ENTITY calendar.context.deleteserver.label           "Agenda verwijderen">
-<!ENTITY calendar.context.deleteserver.accesskey       "v">
+<!ENTITY calendar.context.deleteserver2.label          "Agenda wissen…">
+<!ENTITY calendar.context.deleteserver2.accesskey      "w">
+
+<!-- LOCALIZATION NOTE (calendar.context.removeserver.label): Removing the
+      calendar is the general action of removing it, while deleting means to
+      clear the data and unsubscribing means just taking it out of the calendar
+      list. -->
+<!ENTITY calendar.context.removeserver.label           "Agenda verwijderen…">
+<!ENTITY calendar.context.removeserver.accesskey       "v">
+<!ENTITY calendar.context.unsubscribeserver.label      "Agenda afmelden…">
+<!ENTITY calendar.context.unsubscribeserver.accesskey  "f">
 <!ENTITY calendar.context.synccalendars.label          "Agenda’s synchroniseren">
 <!ENTITY calendar.context.synccalendars.accesskey      "c">
 <!ENTITY calendar.context.publish.label                "Agenda publiceren">

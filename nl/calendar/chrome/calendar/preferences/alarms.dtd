@@ -14,9 +14,9 @@
 <!ENTITY pref.calendar.alarms.sound.useDefault.accessKey "S">
 <!ENTITY pref.calendar.alarms.sound.browse.label "Bladeren…">
 <!ENTITY pref.calendar.alarms.sound.browse.accessKey "B">
-<!ENTITY pref.calendar.alarms.sound.preview.label "Voorbeeld">
-<!ENTITY pref.calendar.alarms.sound.preview.accessKey "V">
-<!ENTITY pref.showalarmbox "Een herinneringsvenster tonen">
+<!ENTITY pref.calendar.alarms.sound.play.label "Afspelen">
+<!ENTITY pref.calendar.alarms.sound.play.accessKey "A">
+<!ENTITY pref.showalarmbox "Het herinneringsvenster tonen">
 <!ENTITY pref.calendar.alarms.showAlarmBox.accessKey "r">
 <!ENTITY pref.missedalarms "Gemiste herinneringen tonen">
 <!ENTITY pref.calendar.alarms.missedAlarms.accessKey "G">
