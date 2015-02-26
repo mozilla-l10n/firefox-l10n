@@ -6,7 +6,8 @@
 <!ENTITY  no_space_to_start_error "&brandShortName; চালু করার জন্য প্রয়োজনীয় জায়গা নেই।">
 <!ENTITY  error_loading_file "যখন &brandShortName; চালানোর জন্য ফাইল লোড করার চেষ্টা করা হচ্ছিল তখন একটি বিঘ্ন ঘটেছে">
 
-
+<!ENTITY  onboard_start_message2 "&brandShortName; এ স্বাগতম!">
+<!ENTITY  onboard_start_subtext2 "আরও গোপনীয়তা বৈশিষ্ট্য এবং কাস্টমাইজ করার পদ্ধতি।">
 <!ENTITY  onboard_start_button_account "&brandShortName; এ সাইন ইন করুন">
 <!ENTITY  onboard_start_button_browser "ব্রাউজিং শুরু করুন">
 <!-- Localization note: These are used as the titles of different pages on the home screen.
@@ -111,7 +112,7 @@
 
 <!ENTITY overlay_share_send_tab_btn_label "অন্য ডিভাইসে প্রেরণ করুন">
 <!ENTITY overlay_share_no_url "এই শেয়ারে কোনো লিংক পাওয়া যায়নি">
-
+<!ENTITY overlay_share_retry "পুনরায় চেষ্টা করুন">
 <!ENTITY overlay_share_select_device "ডিভাইস নির্বাচন করুন">
 
 <!ENTITY pref_category_search3 "অনুসন্ধান করুন">
@@ -212,7 +213,7 @@ size. -->
 
 <!ENTITY pref_media_autoplay_enabled "নিজে থেকে চালু হওয়ার অনুমতি দিন">
 <!ENTITY pref_media_autoplay_enabled_summary "ওয়েবসাইট গুলি ভিডিও এবং অন্যান্য মিডিয়া নিজে থেকে চালু করবে নাকি তা নিয়ন্ত্রণ করুন">
-
+<!ENTITY pref_zoom_force_enabled "সর্বদা জুম সক্রিয় রাখুন">
 
 
 <!ENTITY pref_use_master_password "মূখ্য পাসওয়ার্ড ব্যবহার">
