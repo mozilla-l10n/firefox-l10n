@@ -8,6 +8,7 @@
 
 <!ENTITY aboutTelemetry.telemetryDisabled " दूरमापी <span>अक्षम अछि </span>.">
 
+<!ENTITY aboutTelemetry.generalDataSection "        सामान्य आंकड़ा">
 
 <!ENTITY aboutTelemetry.slowSqlSection "धीमा sql निवेदन">
 
@@ -17,6 +18,7 @@
 
 <!ENTITY aboutTelemetry.histogramsSection "आयत छवि">
 
+<!ENTITY aboutTelemetry.keyedHistogramsSection "बंद हिस्टोग्राम">
 
 <!ENTITY aboutTelemetry.simpleMeasurementsSection "साधारण माप ">
 

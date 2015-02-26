@@ -39,4 +39,4 @@
 
 <!ENTITY plugin.file                                         "फ़ाइल">
 <!ENTITY plugin.mimeTypes                                    "MIME प्रकार">
-
+<!ENTITY plugin.flashProtectedMode.label                     "एडोब फ्लैश सुरक्षित मोड सक्रिय करू">
