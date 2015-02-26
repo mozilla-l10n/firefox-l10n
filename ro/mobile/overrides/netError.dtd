@@ -73,7 +73,10 @@
 <!ENTITY unknownSocketType.longDesc "<ul> <li>Verificați ca sistemul dumneavoastră să aibă instalat Personal Security Manager.</li> <li>Aceasta se poate întâmpla și datorită unei configurații nestandard a serverului.</li> </ul>">
 
 <!ENTITY nssFailure2.title "Conexiunea sigură a eșuat">
-
+<!ENTITY nssFailure2.longDesc2 "<ul> 
+<li>Pagina pe care încercați să o vedeți nu poate fi afișată pentru că nu s-a putut verifica autenticitatea datelor primite.</li> 
+<li>Vă rugăm să luați legătura cu proprietarii saitului și să-i informați despre această problemă.</li> 
+</ul>">
 
 <!ENTITY nssBadCert.title "Conexiunea sigură a eșuat">
 <!ENTITY nssBadCert.longDesc2 "<ul> 
@@ -89,7 +92,7 @@ temporară și puteți încerca din nou mai târziu.</li>
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; a împiedicat această pagină să se încarce în acest mod deoarece pagina are o politică de securitate asupra conținutului ce nu permite asta.</p>">
 
 <!ENTITY corruptedContentError.title "Eroare cauzată de conținut corupt">
-<!ENTITY corruptedContentError.longDesc "<p>Pagina care încercați să o vedeți nu poate fi afișată deoarece a fost detectată o eroare legată de transmiterea datelor.</p><ul><li>Vă rugăm contactați deținătorii saitului pentru a-i informa de această problemă.</li></ul>">
+<!ENTITY corruptedContentError.longDesc "<p>Pagina care încercați să o vedeți nu poate fi afișată deoarece a fost detectată o eroare legată de transmiterea datelor.</p><ul><li>Vă rugăm să luați legătura cu proprietarii saitului și să-i informați despre această problemă.</li></ul>">
 
 <!ENTITY securityOverride.linkText "Sau puteți adăuga o excepție…">
 <!ENTITY securityOverride.getMeOutOfHereButton "Du-mă de aici!">
