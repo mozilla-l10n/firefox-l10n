@@ -10,12 +10,13 @@
 <!ENTITY helpMenu.accesskey       "H"> 
 <!-- LOCALIZATION NOTE some localizations of Windows (ex:french, german) use "?"
                        for the help button in the menubar but Gnome does not.   -->
-
-
-
-
-
-
+<!ENTITY helpMenuWin.label        "உதவி"> 
+<!ENTITY helpMenuWin.accesskey    "H">
+<!ENTITY aboutProduct2.label      "&brandShortName; பற்றி">
+<!ENTITY aboutProduct2.accesskey  "A">
+<!ENTITY productHelp2.label       "&brandShorterName; உதவி">
+<!ENTITY productHelp2.accesskey   "&amp;">
+<!ENTITY helpMac.commandkey       "?">
 
 <!ENTITY helpKeyboardShortcuts.label     "விசைப்பலகை குறுக் குவழிகள்">
 <!ENTITY helpKeyboardShortcuts.accesskey "வ">
@@ -23,7 +24,8 @@
 <!ENTITY helpSafeMode.label       "கூடுதல் இணைப்புகள் செயல்நீக்கத்துடன் மறுதுவக்கவும்…">
 <!ENTITY helpSafeMode.accesskey   "R">
 
-
+<!ENTITY healthReport2.label      "&brandShorterName; ஆரோக்கிய அறிக்கை">
+<!ENTITY healthReport2.accesskey  "e">
 
 <!ENTITY helpTroubleshootingInfo.label      "பிழைத்திருத்தல் தகவல்">
 <!ENTITY helpTroubleshootingInfo.accesskey  "T">
@@ -34,10 +36,11 @@
 
 
 <!ENTITY preferencesCmdMac.label        "முன்னுரிமைகள்…">
-
+<!ENTITY preferencesCmdMac.commandkey   ",">
 
 <!ENTITY servicesMenuMac.label          "சேவைகள்">
 
+<!ENTITY hideThisAppCmdMac2.label       "&brandShorterName;ஐ மறை">
 
 
 <!ENTITY hideOtherAppsCmdMac.label      "மற்றவற்றை மறை">

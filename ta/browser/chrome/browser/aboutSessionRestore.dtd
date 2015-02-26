@@ -17,6 +17,7 @@
 <!ENTITY restorepage.closeButton    "மூடு">
 
 
+<!ENTITY restorepage.restoreHeader  "மீட்டெடு">
 <!ENTITY restorepage.listHeader     "சாளரங்களும் கீற்றுகளும்">
 <!-- LOCALIZATION NOTE: &#37;S will be replaced with a number. -->
 <!ENTITY restorepage.windowLabel    "சாளரம் &#037;S">
