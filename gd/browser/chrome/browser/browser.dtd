@@ -678,7 +678,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY identity.moreInfoLinkText "Barrachd fiosrachaidh…">
 
-<!ENTITY identity.permissions "Ceadachasan">
+<!ENTITY identity.permissions "Ceadan">
 <!-- LOCALIZATION NOTE (identity.help.tooltip) : This string should be the
      localized title of this SUMO article
      https://support.mozilla.org/kb/how-do-i-tell-if-my-connection-is-secure -->
@@ -848,7 +848,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY readingList.label                        "An liosta leughaidh">
 <!ENTITY readingList.sidebar.commandKey           "R">
-<!-- Pre-landed string for bug 1124400 -->
 <!ENTITY readingList.showSidebar.label            "Seall bàr-taoibh na liosta leughaidh">
 <!-- Pre-landed string for bug 1124153 -->
 <!ENTITY readingList.sidebar.showMore.label       "Seall an corr…">
