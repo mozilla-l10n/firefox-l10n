@@ -427,7 +427,7 @@ size. -->
 <!-- Localization note (home_move_up_to_filter): The variable is replaced by the name of the
      previous location in the navigation, such as the previous folder -->
 
-<!ENTITY home_move_up_to_filter "Up till &formatS; ">
+<!ENTITY home_move_up_to_filter "Gå upp till &formatS; ">
 
 <!ENTITY home_remote_tabs_title "Synkade flikar ">
 <!ENTITY home_remote_tabs_empty "Dina flikar från andra enheter visas här. ">
