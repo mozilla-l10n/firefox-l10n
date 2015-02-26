@@ -79,7 +79,7 @@
      will be replaced by the name of the Firefox release channel and &formatS2
      by the model name of the Android device. Examples look like "Aurora on
      GT-I1950" and "Fennec on MI 2S". -->
-<!ENTITY sync.default.client.name '&formatS1; on &formatS2;'>
+<!ENTITY sync.default.client.name '&formatS1; на &formatS2;'>
 
 <!-- Bookmark folder strings -->
 <!ENTITY bookmarks.folder.menu.label 'Меню закладок'>
@@ -114,10 +114,10 @@
 
 <!-- Firefox Account strings. -->
 
-<!ENTITY fxaccount_full_label 'Firefox Accounts'>
+<!ENTITY fxaccount_full_label 'Облікові записи Firefox'>
 
-<!ENTITY fxaccount_custom_server_account_title 'Using account on server'>
-<!ENTITY fxaccount_custom_server_sync_title 'Storing Sync data on server'>
+<!ENTITY fxaccount_custom_server_account_title 'Використовується обліковий запис на сервері'>
+<!ENTITY fxaccount_custom_server_sync_title 'Дані синхронізації зберігаються на сервері'>
 
 <!-- Localization note: these are shown in all screens that query the
      user for an email address and password. Hide and show are button
@@ -150,8 +150,8 @@
      etc).  The account remains a "Firefox Account". -->
 <!ENTITY fxaccount_create_account_header2 'Створити обліковий запис Firefox'>
 <!ENTITY fxaccount_create_account_password_length_restriction 'Має бути щонайменше 8 символів'>
-<!ENTITY fxaccount_create_account_day_of_birth 'Day'>
-<!ENTITY fxaccount_create_account_month_of_birth 'Month'>
+<!ENTITY fxaccount_create_account_day_of_birth 'День'>
+<!ENTITY fxaccount_create_account_month_of_birth 'Місяць'>
 <!ENTITY fxaccount_create_account_year_of_birth 'Рік народження'>
 <!-- Localization note: &formatS1; is fxaccount_policy_linktos, &formatS2; is fxaccount_policy_linkprivacy, both hyperlinked. -->
 <!ENTITY fxaccount_create_account_policy_text2 'Продовжуючи, я приймаю &formatS1; та &formatS2; Firefox’ових онлайнових служб.'>
@@ -169,12 +169,12 @@
 <!-- Localization note: &formatS; is the Firefox Account's email address. -->
 <!ENTITY fxaccount_confirm_account_verification_link 'Посилання на підтвердження було надіслано на  &formatS;'>
 <!ENTITY fxaccount_confirm_account_resend_email 'Пепослати листа'>
-<!ENTITY fxaccount_confirm_account_change_email 'Forget this email address?'>
+<!ENTITY fxaccount_confirm_account_change_email 'Забути цю електронну адресу?'>
 <!ENTITY fxaccount_confirm_account_verification_link_sent2 'Підтверджуючий лист послано'>
 <!ENTITY fxaccount_confirm_account_verification_link_not_sent2 'Неможливо послати підтверджуючий лист'>
-<!ENTITY fxaccount_resend_unlock_code_button_label 'Resend unlock email'>
-<!ENTITY fxaccount_unlock_code_sent 'Account unlock email sent'>
-<!ENTITY fxaccount_unlock_code_not_sent 'Couldn\&apos;t send account unlock email'>
+<!ENTITY fxaccount_resend_unlock_code_button_label 'Повторно надіслати лист для розблокування'>
+<!ENTITY fxaccount_unlock_code_sent 'Лист для розблокування облікового запису надіслано'>
+<!ENTITY fxaccount_unlock_code_not_sent 'Не вдалося надіслати лист для розблокування облікового запису'>
 
 <!ENTITY fxaccount_sign_in_sub_header 'Увійти'>
 <!ENTITY fxaccount_sign_in_button_label 'Увійти'>
@@ -185,15 +185,15 @@
 <!ENTITY fxaccount_account_verified_sub_header 'Обліковий запис підтверджено'>
 <!ENTITY fxaccount_account_verified_description2 'Ваші дані почнуть синхронізуватись за мить.'>
 
-<!ENTITY fxaccount_migration_finished_header 'Upgrade finished'>
+<!ENTITY fxaccount_migration_finished_header 'Оновлення завершено'>
 
 <!ENTITY fxaccount_update_credentials_header 'Увійти'>
 <!ENTITY fxaccount_update_credentials_button_label 'Увійти'>
 <!ENTITY fxaccount_update_credentials_unknown_error 'Не вдалось увійти'>
 
-<!ENTITY fxaccount_finish_migrating_header 'Sign in to finish upgrading'>
-<!ENTITY fxaccount_finish_migrating_button_label 'Finish upgrading'>
-<!ENTITY fxaccount_finish_migrating_description 'Upgrading can transfer a lot of data. It\&apos;s best to be on a WiFi network.'>
+<!ENTITY fxaccount_finish_migrating_header 'Увійдіть, щоб завершити оновлення'>
+<!ENTITY fxaccount_finish_migrating_button_label 'Завершити оновлення'>
+<!ENTITY fxaccount_finish_migrating_description 'Оновлення може спричинити передачу великого об'єму даних. Для цього краще скористатися мережею WiFi.'>
 
 <!ENTITY fxaccount_status_header2 'Обліковий запис Firefox'>
 <!ENTITY fxaccount_status_signed_in_as 'Вхід виконано'>
@@ -257,7 +257,7 @@
 <!ENTITY fxaccount_remote_error_SERVICE_TEMPORARILY_UNAVAILABLE_TO_DUE_HIGH_LOAD 'Сервер перегружений, спробуйте ще перегодом'>
 <!ENTITY fxaccount_remote_error_UNKNOWN_ERROR 'Якась проблема'>
 <!ENTITY fxaccount_remote_error_COULD_NOT_CONNECT 'Неможливо з’єднатись з мережею'>
-<!ENTITY fxaccount_remote_error_ACCOUNT_LOCKED 'Account is locked. &formatS1;'>
+<!ENTITY fxaccount_remote_error_ACCOUNT_LOCKED 'Обліковий запис заблоковано. &formatS1;'>
 
 <!ENTITY fxaccount_sync_sign_in_error_notification_title2 '&syncBrand.shortName.label; не підключений'>
 <!-- Localization note: the format string below will be replaced
