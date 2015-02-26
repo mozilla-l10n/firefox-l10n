@@ -57,7 +57,7 @@
 <!-- safe browsing points for branded builds -->
 
 <!ENTITY rights.safebrowsing-a "Navigare sigură: ">
-<!ENTITY rights.safebrowsing-b "Dezactivarea navigării sigure nu e recomandată deoarece ar putea avea ca rezultat navigarea dumneavoastră pe saituri nesigure. Dacă doriți să dezactivați această funcționalitate, urmați acești pași:">
+<!ENTITY rights.safebrowsing-b "Dezactivarea navigării sigure nu e recomandată deoarece ar putea avea ca rezultat navigarea dumneavoastră pe saituri nesigure.  Dacă doriți să dezactivați această funcționalitate, urmați acești pași:">
 <!ENTITY rights.safebrowsing-term1 "Deschideți preferințele aplicației">
 <!ENTITY rights.safebrowsing-term2 "Selectați tabul Securitate">
 <!ENTITY rights.safebrowsing-term3 "Debifați opțiunile „&blockAttackSites.label;” și „&blockWebForgeries.label;”">
