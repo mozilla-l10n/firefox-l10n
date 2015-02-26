@@ -35,9 +35,11 @@ This is likely the same like id.heading in crashes.dtd. -->
 <!ENTITY aboutSupport.appBasicsTitle "অ্যাপ্লিকেশনের মৌলিক তথ্য">
 <!ENTITY aboutSupport.appBasicsName "নাম">
 <!ENTITY aboutSupport.appBasicsVersion "সংস্করণ">
-
+<!ENTITY aboutSupport.appBasicsBuildID "বিল্ড ID">
 <!-- LOCALIZATION NOTE (aboutSupport.appBasicsUpdateChannel, aboutSupport.appBasicsUpdateHistory, aboutSupport.appBasicsShowUpdateHistory):
 "Update" is a noun here, not a verb. -->
+
+<!ENTITY aboutSupport.appBasicsUpdateChannel "চ্যানেল আপডেট করুন">
 <!ENTITY aboutSupport.appBasicsUpdateHistory "হিস্ট্রী আপডেট করুন">
 <!ENTITY aboutSupport.appBasicsShowUpdateHistory "আপডেট কর্ম সংক্রান্ত পূর্ববর্তী তথ্য প্রদর্শন">
 
@@ -94,4 +96,5 @@ variant of aboutSupport.showDir.label. -->
 
 <!ENTITY aboutSupport.sandboxTitle "স্যান্ডবক্স">
 
-
+<!ENTITY aboutSupport.safeModeTitle "সুরক্ষিত মোডে চেষ্টা করুন">
+<!ENTITY aboutSupport.restartInSafeMode.label "অ্যাড-অন নিষ্ক্রিয় করে পুনরায় চালু করুন...">

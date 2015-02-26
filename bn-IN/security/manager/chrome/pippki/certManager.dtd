@@ -79,8 +79,8 @@
 <!ENTITY certmgr.details.accesskey            "F">
 <!ENTITY certmgr.fields.label                 "ক্ষেত্রের মান">
 <!ENTITY certmgr.fields.accesskey             "V">
-
-
+<!ENTITY certmgr.hierarchy.label              "সার্টিফিকেটের অনুক্রম">
+<!ENTITY certmgr.hierarchy.accesskey2         "H">
 <!ENTITY certmgr.addException.label           "ব্যতিক্রম যোগ করুন…">
 <!ENTITY certmgr.addException.accesskey       "x">
 
