@@ -46,16 +46,18 @@
 <!ENTITY profilerUI.toolbar.waterfall "កាល​កំណត់">
 <!ENTITY profilerUI.toolbar.js-calltree "JavaScript">
 <!ENTITY profilerUI.toolbar.memory-calltree "អង្គ​ចងចាំ">
-
-
+<!ENTITY profilerUI.toolbar.js-flamegraph "JS Flame Chart">
+<!ENTITY profilerUI.toolbar.memory-flamegraph "Memory Flame Chart">
 <!-- LOCALIZATION NOTE (profilerUI.table.*): These strings are displayed
   -  in the call tree headers for a recording. -->
 
+<!ENTITY profilerUI.table.totalDuration2  "រយៈពេល​សរុប">
+<!ENTITY profilerUI.table.selfDuration2   "រយៈពេល​ផ្ទាល់ខ្លួន">
 <!ENTITY profilerUI.table.totalPercentage "ថ្លៃ​ដើម​សរុប">
 <!ENTITY profilerUI.table.selfPercentage  "ថ្លៃ​ដើម​ផ្ទាល់ខ្លួន">
 <!ENTITY profilerUI.table.samples         "គំរូ">
-
-
+<!ENTITY profilerUI.table.totalAlloc      "ការ​បម្រុងទុក​សរុប">
+<!ENTITY profilerUI.table.selfAlloc       "ការ​បម្រុងទុក​ផ្ទាល់ខ្លួន">
 <!ENTITY profilerUI.table.function        "​អនុគមន៍">
 <!-- LOCALIZATION NOTE (profilerUI.newtab.tooltiptext): The tooltiptext shown
   -  on the "+" (new tab) button for a profile when a selection is available. -->
@@ -63,6 +65,8 @@
 <!ENTITY profilerUI.newtab.tooltiptext "បន្ថែម​ផ្ទាំង​ថ្មី​ពី​ជម្រើស">
 <!-- LOCALIZATION NOTE (profilerUI.options.tooltiptext): This is the tooltip
   -  for the options button. -->
+
+<!ENTITY profilerUI.options.tooltiptext "កំណត់​រចនាសម្ព័ន្ធ​ចំណូលចិត្ត​ដំណើរការ។">
 <!-- LOCALIZATION NOTE (profilerUI.invertTree): This is the label shown next to
   -  a checkbox that inverts and un-inverts the profiler's call tree. -->
 
