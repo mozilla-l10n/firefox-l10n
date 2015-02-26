@@ -23,6 +23,9 @@
 <!ENTITY pref.default_task_offset_current.label "Relativo a la hora actual">
 <!ENTITY pref.default_task_offset_start.label "Relativo al comienzo">
 <!ENTITY pref.default_task_offset_next_hour.label "Relativo a la hora siguiente">
+<!ENTITY pref.calendar.todaypane.agenda.caption "Panel Para hoy">
+<!ENTITY pref.soondays.label "La sección Próximamente muestra:">
+<!ENTITY pref.soondays.accesskey "L">
 <!ENTITY pref.accessibility.label "Accesibilidad">
 <!ENTITY pref.systemcolors.label "Optimizar colores para accesibilidad">
 <!ENTITY pref.systemcolors.accesskey "O">
