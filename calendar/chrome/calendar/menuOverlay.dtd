@@ -14,6 +14,10 @@
 <!ENTITY calendar.publish.accesskey "b">
 <!ENTITY calendar.deletecalendar.label "Eliminar calendario seleccionado…">
 <!ENTITY calendar.deletecalendar.accesskey "a">
+<!ENTITY calendar.unsubscribecalendar.label "Cancelar suscripción al calendario seleccionado…">
+<!ENTITY calendar.unsubscribecalendar.accesskey "C">
+<!ENTITY calendar.removecalendar.label "Eliminar calendario seleccionado…">
+<!ENTITY calendar.removecalendar.accesskey "E">
 <!ENTITY calendar.menu.customize.label "Personalizar…">
 <!ENTITY calendar.menu.customize.accesskey "P">
 <!ENTITY showUnifinderCmd.label "Buscar eventos">
