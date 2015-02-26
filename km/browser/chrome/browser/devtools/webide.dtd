@@ -42,7 +42,7 @@
 <!ENTITY runtimeMenu_showDevicePrefs_label "ចំណូលចិត្ត​ឧបករណ៍">
 <!ENTITY runtimeMenu_showDevicePrefs_accesskey "D">
 
-
+<!ENTITY runtimeMenu_showSettings_accesskey "s">
 
 <!ENTITY viewMenu_label "មើល">
 <!ENTITY viewMenu_accesskey "V">
@@ -94,7 +94,7 @@
 <!ENTITY details_location "ទីតាំង">
 <!ENTITY details_manifestURL "លេខ​សម្គាល់​ក​កម្មវិធី">
 <!ENTITY details_removeProject_button "លុប​គម្រោង​ចេញ">
-
+<!ENTITY details_showPrepackageLog_button "បង្ហាញ​កំណត់ហេតុ​កញ្ចប់​ជា​មុន">
 <!-- New App -->
 
 <!ENTITY newAppWindowTitle "កម្មវិធី​ថ្មី">
@@ -146,7 +146,7 @@
 <!ENTITY runtimedetails_adbIsRoot "ADB ជា root: ">
 <!ENTITY runtimedetails_summonADBRoot "ឧបករណ៍​ជា root">
 <!ENTITY runtimedetails_ADBRootWarning "(ទាមទារ​កម្មវិធី​ចាប់ផ្ដើម​ដែល​មិន​ចាក់សោ)">
-
+<!ENTITY runtimedetails_unrestrictedPrivileges "សិទ្ធិ DevTools ដែល​មិន​បាន​ដាក់​កម្រិត៖ ">
 <!ENTITY runtimedetails_requestPrivileges "ស្នើ​សិទ្ធិ​ខ្ពស់​ជាង​នេះ">
 <!ENTITY runtimedetails_privilegesWarning "(នឹង​ចាប់ផ្ដើម​ឧបករណ៍​ឡើង​វិញ ។ ទាមទារ​ដំណើរការ​ជា root ។)">
 <!-- Device Preferences and Settings -->
@@ -157,11 +157,15 @@
 <!ENTITY device_typeobject "វត្ថុ">
 <!ENTITY device_typenone "ជ្រើស​ប្រភេទ">
 <!-- Device Preferences -->
+
+<!ENTITY devicepreference_title "ចំណូលចិត្ត​ឧបករណ៍">
 <!ENTITY devicepreference_search "ចំណូលចិត្ត​ស្វែងរក">
 <!ENTITY devicepreference_newname "ឈ្មោះ​ចំណូលចិត្ត​ថ្មី">
 <!ENTITY devicepreference_newtext "តម្លៃ​ចំណូលចិត្ត">
 <!ENTITY devicepreference_addnew "បន្ថែម​ចំណូលចិត្ត​ថ្មី">
 <!-- Device Settings -->
+
+<!ENTITY devicesetting_title "ការ​កំណត់​ឧបករណ៍">
 
 
 
