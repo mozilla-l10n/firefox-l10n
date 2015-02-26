@@ -42,18 +42,22 @@
 <!ENTITY profilerUI.clearButton "Tozalash">
 <!-- LOCALIZATION NOTE (profilerUI.toolbar.*): These strings are displayed
   -  in the toolbar on buttons that select which view is currently shown. -->
+
+<!ENTITY profilerUI.toolbar.waterfall "Vaqt qatori">
 <!ENTITY profilerUI.toolbar.js-calltree "JavaScript">
 <!ENTITY profilerUI.toolbar.memory-calltree "Xotira">
-
-
+<!ENTITY profilerUI.toolbar.js-flamegraph "JS olovli grafik">
+<!ENTITY profilerUI.toolbar.memory-flamegraph "Olovli grafik xotirasi">
 <!-- LOCALIZATION NOTE (profilerUI.table.*): These strings are displayed
   -  in the call tree headers for a recording. -->
 
+<!ENTITY profilerUI.table.totalDuration2  "Jami vaqti">
+<!ENTITY profilerUI.table.selfDuration2   "O‘z vaqti">
 <!ENTITY profilerUI.table.totalPercentage "Umumiy narxi">
 <!ENTITY profilerUI.table.selfPercentage  "O‘z narxi">
 <!ENTITY profilerUI.table.samples         "Namunalar">
-
-
+<!ENTITY profilerUI.table.totalAlloc      "Jami ajratmalar">
+<!ENTITY profilerUI.table.selfAlloc       "O‘z ajratmalari">
 <!ENTITY profilerUI.table.function        "Funksiya">
 <!-- LOCALIZATION NOTE (profilerUI.newtab.tooltiptext): The tooltiptext shown
   -  on the "+" (new tab) button for a profile when a selection is available. -->
@@ -61,6 +65,8 @@
 <!ENTITY profilerUI.newtab.tooltiptext "Tanlanganlardan yangi ichki oyna qo‘shish">
 <!-- LOCALIZATION NOTE (profilerUI.options.tooltiptext): This is the tooltip
   -  for the options button. -->
+
+<!ENTITY profilerUI.options.tooltiptext "Samaradorlik parametrlarini moslang.">
 <!-- LOCALIZATION NOTE (profilerUI.invertTree): This is the label shown next to
   -  a checkbox that inverts and un-inverts the profiler's call tree. -->
 
@@ -68,6 +74,8 @@
 <!ENTITY profilerUI.invertTree.tooltiptext "Daraxtni chaqirishni teskari qilish yangi ramkalardan boshlanuvchi profillangan chaqirish yo‘llarini ko‘rsatadi va eski ramkalarga kengaytiradi.">
 <!-- LOCALIZATION NOTE (profilerUI.invertFlameGraph): This is the label shown next to
   -  a checkbox that inverts and un-inverts the profiler's flame graph. -->
+
+<!ENTITY profilerUI.invertFlameGraph             "Olovli grafikka aylantirish">
 
 <!-- LOCALIZATION NOTE (profilerUI.showPlatformData): This is the
   -  label for the checkbox that toggles whether or not Gecko platform data
