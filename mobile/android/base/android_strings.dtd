@@ -6,7 +6,8 @@
 <!ENTITY  no_space_to_start_error "Nu există spațiu disponibil suficient pentru ca &brandShortName; să pornească.">
 <!ENTITY  error_loading_file "A intervenit o eroare în timpul încărcării fișierelor necesare pentru a rula &brandShortName;">
 
-
+<!ENTITY  onboard_start_message2 "Bun venit la &brandShortName;">
+<!ENTITY  onboard_start_subtext2 "Mai multe funcții de intimitate și moduri de personalizare ca niciodată.">
 <!ENTITY  onboard_start_button_account "Conectați-vă la &brandShortName;">
 <!ENTITY  onboard_start_button_browser "Începeți navigarea">
 <!-- Localization note: These are used as the titles of different pages on the home screen.
@@ -74,7 +75,7 @@
 <!ENTITY switch_button_message "SCHIMBA">
 
 <!ENTITY settings "Setări">
-
+<!ENTITY settings_title "Setări">
 <!ENTITY pref_category_advanced "Avansat">
 <!ENTITY pref_category_customize "Personalizare">
 <!ENTITY pref_category_customize_summary "Acasă, căutare, file, import">
@@ -98,6 +99,8 @@
 <!-- Localization note (overlay_share_bookmark_btn_label) : This string is
      used in the share overlay menu to select an action. It is the verb
      "to bookmark", not the noun "a bookmark". -->
+
+<!ENTITY overlay_share_bookmark_btn_label "Semn de carte">
 <!ENTITY overlay_share_reading_list_btn_label "Adăugați în lista de citit">
 <!ENTITY overlay_share_bookmark_btn_label_already "Deja marcat">
 <!ENTITY overlay_share_reading_list_btn_label_already "Deja în lista de citit">
@@ -109,9 +112,10 @@
 
 <!ENTITY overlay_share_send_tab_btn_label "Trimiteți către un alt dispozitiv">
 <!ENTITY overlay_share_no_url "Niciun link nu a fost găsit">
-
+<!ENTITY overlay_share_retry "Încearcă din nou">
 <!ENTITY overlay_share_select_device "Selectați un dispozitiv">
 
+<!ENTITY pref_category_search3 "Caută">
 <!ENTITY pref_category_search_summary "Personalizează furnizorii de motoare de căutare">
 <!ENTITY pref_category_display "Ecran">
 <!ENTITY pref_category_display_summary "Text, bară de titlu, navigare pe întregul ecran">
@@ -125,7 +129,7 @@
 <!ENTITY pref_category_add_search_providers "Adăugați mai multe motoare de căutare">
 <!ENTITY pref_category_search_restore_defaults "Restaurează motoarele de căutare">
 <!ENTITY pref_search_restore_defaults "Revino la opțiunile inițiale">
-
+<!ENTITY pref_search_restore_defaults_summary "Restaurează setările implicite">
 <!-- Localization note (pref_search_hint) : "TIP" as in "hint", "clue" etc. Displayed as an
      advisory message on the customise search providers settings page explaining how to add new
      search providers.
@@ -149,22 +153,24 @@
 <!ENTITY home_add_panel_installed "&formatS; a fost adăugat la pagina de pornire">
 <!ENTITY pref_category_home_content_settings "Setări conținut">
 <!ENTITY pref_home_updates "Actualizări automate">
-
+<!ENTITY pref_home_updates_enabled "Activate">
 <!ENTITY pref_home_updates_wifi "Doar prin Wi-Fi">
 <!ENTITY pref_home_suggested_sites "Arată sugestii de saituri">
 <!ENTITY pref_home_suggested_sites_summary "Afișează linkuri pe pagina de pornire către alte pagini pe care noi credem că te-ar interesa">
 <!-- Localization note: These are shown in the left sidebar on tablets -->
 
-
+<!ENTITY pref_header_customize "Personalizare">
+<!ENTITY pref_header_display "Ecran">
+<!ENTITY pref_header_privacy_short "Confidențialitate">
 <!ENTITY pref_header_help "Ajutor">
-
-
-
+<!ENTITY pref_header_language "Limbă">
+<!ENTITY pref_header_vendor "&vendorShortName;">
+<!ENTITY pref_header_devtools "Unelte de dezvoltare">
 
 <!ENTITY pref_cookies_menu "Cookie-uri">
-
-<!ENTITY pref_cookies_not_accept_foreign "Activat, excluzând terții">
-<!ENTITY pref_cookies_disabled "Dezactivată">
+<!ENTITY pref_cookies_accept_all "Activate">
+<!ENTITY pref_cookies_not_accept_foreign "Activate, excluzând terții">
+<!ENTITY pref_cookies_disabled "Dezactivate">
 
 <!ENTITY pref_tracking_protection_title "Protecție de urmărire">
 <!ENTITY pref_tracking_protection_summary "&brandShortName; va împiedica saiturile să vă urmărească">
@@ -180,9 +186,9 @@
 <!ENTITY pref_clear_on_exit_summary2 "&brandShortName; va șterge automat datele de fiecare dată când selectezi \u0022Ieși\u0022 din meniul principal">
 <!ENTITY pref_clear_on_exit_dialog_title "Selectează ce date să ștergi">
 <!ENTITY pref_plugins "Module">
-
-<!ENTITY pref_plugins_tap_to_play "Apăsați pentru redare">
-
+<!ENTITY pref_plugins_enabled "Activate">
+<!ENTITY pref_plugins_tap_to_play "Apasă pentru redare">
+<!ENTITY pref_plugins_disabled "Dezactivate">
 <!ENTITY pref_text_size "Mărime text">
 <!ENTITY pref_reflow_on_zoom4 "Reîncadrare text">
 <!ENTITY pref_restore "File">
@@ -199,6 +205,7 @@
 same character/combination is used to increase the preview font size. It should be a concise
 representation of the language it is used in that will help show the text in the preview will change
 size. -->
+<!ENTITY pref_font_size_adjust_char "A">
 <!-- Localization note (pref_font_size_preview_text): This paragraph is used as an example to
     demonstrate the font size setting.  It is meant to be whimsical and fun. -->
 
@@ -206,8 +213,8 @@ size. -->
 
 <!ENTITY pref_media_autoplay_enabled "Permite redarea automată">
 <!ENTITY pref_media_autoplay_enabled_summary "Controlează dacă paginile web pot rula automat videoclipuri și alt conținut media">
-
-
+<!ENTITY pref_zoom_force_enabled "Activează mereu zoom">
+<!ENTITY pref_zoom_force_enabled_summary "Forțează suprascrierea ca să poți face zoom pe orice pagină">
 
 <!ENTITY pref_use_master_password "Folosește parola generală">
 <!ENTITY pref_sync "Sincronizare">
@@ -242,8 +249,8 @@ size. -->
 <!ENTITY pref_panels_move_down "Mută jos">
 
 <!ENTITY datareporting_notification_title "Statistici și date pentru &brandShortName;">
-<!ENTITY datareporting_notification_action_long "Alegeți ce informații să împărtășiți">
-<!ENTITY datareporting_notification_action "Alegeți ce partajați">
+<!ENTITY datareporting_notification_action_long "Alege ce informații să împărtășești">
+<!ENTITY datareporting_notification_action "Alegeți ce împărtășești">
 <!ENTITY datareporting_notification_summary "Pentru a îmbunătăți experiența dumneavoastră, &brandShortName; trimite automat câteva informații la &vendorShortName;.">
 <!ENTITY datareporting_notification_summary_short "Pentru a îmbunătăți experiența dumneavoastră, &brandShortName;…">
 <!ENTITY datareporting_notification_ticker_text "&datareporting_notification_title;: &datareporting_notification_action_long;">

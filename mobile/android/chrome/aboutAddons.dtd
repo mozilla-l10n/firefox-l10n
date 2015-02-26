@@ -7,6 +7,6 @@
 <!ENTITY aboutAddons.options                    "Opțiuni">
 
 <!ENTITY addonAction.enable                     "Activează">
-<!ENTITY addonAction.disable                    "Dezactivat">
+<!ENTITY addonAction.disable                    "Dezactivează">
 <!ENTITY addonAction.uninstall                  "Dezinstalează">
 <!ENTITY addonAction.undo                       "Anulare">
