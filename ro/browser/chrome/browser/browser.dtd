@@ -599,9 +599,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY quitApplicationCmdWin2.tooltip     "Ieșire &brandShorterName;">
 
 
-<!ENTITY quitApplicationCmd.label       "Ieșire"> 
+<!ENTITY quitApplicationCmd.label       "Ieșiți"> 
 <!ENTITY quitApplicationCmd.accesskey   "e">
-<!ENTITY quitApplicationCmdMac2.label   "Ieșire din &brandShorterName;">
+<!ENTITY quitApplicationCmdMac2.label   "Ieșiți din &brandShorterName;">
 <!-- LOCALIZATION NOTE(quitApplicationCmdUnix.key): This keyboard shortcut is used by both Linux and OSX builds. -->
 
 <!ENTITY closeCmd.label                 "Închide">  
