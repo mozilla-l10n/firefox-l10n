@@ -553,8 +553,8 @@ items are mutually exclusive. -->
 <!ENTITY mediaShowControls.accesskey "C">
 <!ENTITY mediaHideControls.label     "கட்டுப்பாடுகளை மறை">
 <!ENTITY mediaHideControls.accesskey "C">
-
-
+<!ENTITY videoFullScreen.label       "முழுத்திரை">
+<!ENTITY videoFullScreen.accesskey   "F">
 <!ENTITY videoSaveImage.label        "திரைக்காப்பாகச் சேமி...">
 <!ENTITY videoSaveImage.accesskey    "த">
 <!-- LOCALIZATION NOTE: The access keys for "Show Statistics" and
@@ -601,7 +601,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY quitApplicationCmd.label       "வெளியேறு"> 
 <!ENTITY quitApplicationCmd.accesskey   "Q">
-
+<!ENTITY quitApplicationCmdMac2.label   "&brandShorterName;ஐ விட்டு வெளியேறு">
 <!-- LOCALIZATION NOTE(quitApplicationCmdUnix.key): This keyboard shortcut is used by both Linux and OSX builds. -->
 
 <!ENTITY closeCmd.label                 "மூடு">  
@@ -763,8 +763,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY trackingContentBlocked.unblock2.label "இந்தப் பக்கத்தில் பாதுகாப்பை முடக்கு">
 <!ENTITY trackingContentBlocked.unblock2.accesskey "D">
-
-
+<!ENTITY trackingContentBlocked.block.label "பாதுகாப்பைச் செயல்படுத்து">
+<!ENTITY trackingContentBlocked.block.accesskey "E">
 <!ENTITY trackingContentBlocked.disabled.message "கண்காணிப்பு பாதுகாப்பு முடங்கியுள்ளது">
 
 <!ENTITY pointerLock.notification.message "எப்போது வேண்டுமானாலும் மீண்டும் இதைக் காண்பிக்க ESC ஐ அழுத்தவும்.">
