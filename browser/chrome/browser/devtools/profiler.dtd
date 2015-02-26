@@ -25,7 +25,8 @@
 <!ENTITY profilerUI.table.selfAlloc "Allocazioni individuali">
 <!ENTITY profilerUI.table.function "Funzione">
 <!ENTITY profilerUI.newtab.tooltiptext "Aggiungi nuova scheda dalla selezione">
-<!ENTITY profilerUI.options.tooltiptext "Configura preferenze prestazioni.">
+<!ENTITY profilerUI.options.filter.tooltiptext "Seleziona i dati da visualizzare nella sequenza temporale">
+<!ENTITY profilerUI.options.gear.tooltiptext "Configura preferenze prestazioni.">
 <!ENTITY profilerUI.invertTree "Inverti albero chiamate">
 <!ENTITY profilerUI.invertTree.tooltiptext "Invertendo la visualizzazione dell’albero verranno mostrate prima le chiamate dai riquadri (frame) più recenti.">
 <!ENTITY profilerUI.invertFlameGraph "Inverti Flame chart">
