@@ -7,7 +7,7 @@
 <!ENTITY unsupportedPlatform.pre                             "Pedimos desculpa mas o &brandShortName; não pode reproduzir flash neste dispositivo. ">
 <!-- LOCALIZATION NOTE (unsupportedPlatform.learnMore): Mobile only. This text is used to link to a SUMO page explaining why Flash is not
      supported on this device. Use the unicode ellipsis char, \u2026, or use "..." if \u2026 doesn't suit traditions in your locale. -->
-<!ENTITY unsupportedPlatform.learnMore                       "Saber mais">
+<!ENTITY unsupportedPlatform.learnMore                       "Saber mais...">
 <!-- LOCALIZATION NOTE (unsupportedPlatform.post): Mobile only. Include text here if needed for your locale. -->
 <!ENTITY unsupportedPlatform.post                            "">
 
@@ -26,7 +26,7 @@
 <!-- LOCALIZATION NOTE (reloadPlugin.post): include a starting space as needed -->
 <!ENTITY reloadPlugin.pre                                    "">
 <!ENTITY reloadPlugin.middle                                 "Recarregue a página">
-<!ENTITY reloadPlugin.post                                   " para tentar de novo.">
+<!ENTITY reloadPlugin.post                                   " para tentar novamente.">
 <!-- LOCALIZATION NOTE (report.please): This and the other report.* strings should be as short as possible, ideally 2-3 words. -->
 <!ENTITY report.please                                       "Enviar relatório de erro">
 <!ENTITY report.submitting                                   "A enviar relatório...">
@@ -39,4 +39,4 @@
 
 <!ENTITY plugin.file                                         "Ficheiro">
 <!ENTITY plugin.mimeTypes                                    "Tipos MIME">
-
+<!ENTITY plugin.flashProtectedMode.label                     "Ativar modo protegido para Adobe Flash">
