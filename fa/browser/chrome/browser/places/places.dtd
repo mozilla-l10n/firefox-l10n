@@ -52,6 +52,8 @@
 <!ENTITY cmd.open.accesskey              "ب">
 <!ENTITY cmd.open_window.label           "باز کردن در پنجرهٔ جدید">
 <!ENTITY cmd.open_window.accesskey       "پ">
+
+
 <!ENTITY cmd.open_tab.label              "باز کردن در زبانهٔ جدید">
 <!ENTITY cmd.open_tab.accesskey          "ج">
 <!ENTITY cmd.open_all_in_tabs.label      "باز کردن همه در زبانه‌های خاص خود">

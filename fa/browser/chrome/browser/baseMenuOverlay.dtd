@@ -1,8 +1,6 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-
-<!ENTITY minimizeWindow.key       "m">
 <!ENTITY minimizeWindow.label     "کمینه کردن">
 <!ENTITY bringAllToFront.label    "آوردن همه به جلو">
 <!ENTITY zoomWindow.label         "زوم">
@@ -12,13 +10,12 @@
 <!ENTITY helpMenu.accesskey       "ر"> 
 <!-- LOCALIZATION NOTE some localizations of Windows (ex:french, german) use "?"
                        for the help button in the menubar but Gnome does not.   -->
-<!ENTITY helpMenuWin.label        "راهنما"> 
-<!ENTITY helpMenuWin.accesskey    "ر">
-<!ENTITY aboutProduct.label       "دربارهٔ &brandShortName;">
-<!ENTITY aboutProduct.accesskey   "د">
-<!ENTITY productHelp.label        "راهنمای &brandShortName;">
-<!ENTITY productHelp.accesskey    "ر">
-<!ENTITY helpMac.commandkey       "?">
+
+
+
+
+
+
 
 <!ENTITY helpKeyboardShortcuts.label     "میانبرهای صفحه کلید">
 <!ENTITY helpKeyboardShortcuts.accesskey "K">
@@ -26,8 +23,7 @@
 <!ENTITY helpSafeMode.label       "راه‌اندازی مجدد به همراه غیرفعال کردن افزودنی‌ها…">
 <!ENTITY helpSafeMode.accesskey   "م">
 
-<!ENTITY healthReport.label       "گزارش سلامتی &brandShortName;">
-<!ENTITY healthReport.accesskey   "e">
+
 
 <!ENTITY helpTroubleshootingInfo.label      "اطلاعات رفع اشکال">
 <!ENTITY helpTroubleshootingInfo.accesskey  "ش">
@@ -35,18 +31,16 @@
 <!ENTITY helpFeedbackPage.label      "ارسال نظر…">
 <!ENTITY helpFeedbackPage.accesskey  "س">
 
-<!ENTITY helpShowTour.label             "راهنمای &brandShortName;">
-<!ENTITY helpShowTour.accesskey         "o">
+
 
 <!ENTITY preferencesCmdMac.label        "ترجیحات…">
-<!ENTITY preferencesCmdMac.commandkey   ",">
+
 
 <!ENTITY servicesMenuMac.label          "خدمات">
 
-<!ENTITY hideThisAppCmdMac.label        "&brandShortName; را مخفی کن">
-<!ENTITY hideThisAppCmdMac.commandkey   "م">
+
 
 <!ENTITY hideOtherAppsCmdMac.label      "دیگر برنامه‌ها را مخفی کن">
-<!ENTITY hideOtherAppsCmdMac.commandkey "م">
+
 
 <!ENTITY showAllAppsCmdMac.label        "نشان دادن همه">
