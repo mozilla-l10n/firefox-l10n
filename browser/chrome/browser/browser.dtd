@@ -852,6 +852,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- Pre-landed string for bug 1124153 -->
 <!ENTITY readingList.sidebar.showMore.label       "আরও দেখুন...">
 <!-- Pre-landed string for bug 1133662 -->
+<!ENTITY readingList.sidebar.emptyText            "আপনার পড়ার তালিকায় প্রবন্ধ যোগ করুন সেগুলোকে পরবর্তীকালের জন্য সংরক্ষণ করে রাখতে এবং সেগুলোকে সহজে খুঁজে পেতে যখন আপনি সেগুলোকে চাইছেন।">
 <!-- Pre-landed string for bug 1123525 -->
 <!ENTITY readingList.sidebar.delete.tooltip       "এটিকে আপনার পড়ার তালিকা থেকে মুছে ফেলুন">
 <!-- Pre-landed strings for bug 1123519 -->
