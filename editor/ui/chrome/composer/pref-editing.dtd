@@ -6,11 +6,11 @@
 
 <!ENTITY  authorName.label          "Yazar:">
 <!ENTITY  authorName.accesskey      "a">
-<!ENTITY  pageColorHeader           "Varsayılan sayfa görünümü">
+<!ENTITY  pageColorHeader           "Varsayılan Sayfa Görünümü">
 
 <!ENTITY defaultColors.label        "Okuyucunun varsayılan renkleri (Sayfadaki renkleri ayarlama)">
 <!ENTITY defaultColors.accesskey    "v">
-<!ENTITY customColors.label         "Özel renkleri kullan:">
+<!ENTITY customColors.label         "Özel renkler kullan:">
 <!ENTITY customColors.accesskey     "r">
 
 <!ENTITY normalText.label           "Normal metin">
@@ -27,6 +27,6 @@
 
 <!ENTITY backgroundImage.label      "Arka plan resmi:">
 <!ENTITY backgroundImage.accesskey  "A">
-<!ENTITY chooseFile.label           "Dosya seç…">
+<!ENTITY chooseFile.label           "Dosya Seç…">
 <!ENTITY chooseFile.accesskey       "ç">
 

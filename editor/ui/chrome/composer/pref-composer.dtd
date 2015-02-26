@@ -8,22 +8,22 @@
 
 
 <!ENTITY  pref.composer.title           "Composer">
-<!ENTITY  recentFiles.title             "Son sayfalar menüsü">
-<!ENTITY  documentsInMenu.label         "En fazla listelenecek sayfa sayısı:">
-<!ENTITY  documentsInMenu.accesskey     "n">
-<!ENTITY  savingFiles.title             "Sayfaları kaydederken veya yayımlarken">
+<!ENTITY  recentFiles.title             "Son Sayfalar Menüsü">
+<!ENTITY  documentsInMenu.label         "Listelenecek sayfa üst sınırı:">
+<!ENTITY  documentsInMenu.accesskey     "s">
+<!ENTITY  savingFiles.title             "Sayfaları Kaydederken veya Yayımlarken">
 <!ENTITY  preserveExisting.label        "Özgün kaynak biçimlendirmesini koru">
 <!ENTITY  preserveExisting.accesskey    "Ö">
-<!ENTITY  preserveExisting.tooltip      "Satır başlarını ve sayfaların özgün biçimini korur">
-<!ENTITY  saveAssociatedFiles.label     "Sayfaları kaydederken resimleri ve diğer ilişkili dosyaları da kaydet">
+<!ENTITY  preserveExisting.tooltip      "Satır sonlarını ve sayfaların özgün biçimlendirmesini korur">
+<!ENTITY  saveAssociatedFiles.label     "Sayfaları kaydederken resimleri ve diğer ilişkili dosyaları kaydet">
 <!ENTITY  saveAssociatedFiles.accesskey "S">
-<!ENTITY  showPublishDialog.label       "Sayfaları yayınlarken daima yayın penceresini göster">
+<!ENTITY  showPublishDialog.label       "Sayfaları yayınlarken daima Yayımlama iletişim kutusunu göster">
 <!ENTITY  showPublishDialog.accesskey   "a">
 <!ENTITY  composerEditing.label         "Düzenleme">
 <!ENTITY  maintainStructure.label       "Hücre eklerken veya silerken tablo düzenini koru">
-<!ENTITY  maintainStructure.tooltip     "Tablonun dikdörtgen şeklini korumak için, eklenen veya silinen hücrelerin ardından otomatik olarak hücre ekler">
+<!ENTITY  maintainStructure.tooltip     "Hücre ekledikten veya sildikten sonra kendiliğinden hücreler ekleyerek tablonun dikdörtgen şeklini korur">
 <!ENTITY  maintainStructure.accesskey   "d">
-<!ENTITY  useCSS.label                  "HTML elementleri ve öznitetlikleri yerine CSS stillerini kullan">
+<!ENTITY  useCSS.label                  "HTML elementleri ve öznitelikleri yerine CSS biçemleri kullan">
 <!ENTITY  useCSS.accesskey              "u">
-<!ENTITY  crInPCreatesNewP.label        "Paragraf içinde enter'a basılırsa her zaman yeni paragraf oluştur">
+<!ENTITY  crInPCreatesNewP.label        "Paragraf içinde Enter'a basmak her zaman yeni paragraf oluşturur">
 <!ENTITY  crInPCreatesNewP.accesskey    "r">
