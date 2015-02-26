@@ -766,7 +766,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY mixedContentBlocked2.moreinfo "Mae rhai elfennau anamgryptiedig ar y wefan hon wedi eu rhwystro.">
 <!ENTITY mixedContentBlocked2.learnMore "Dysgu Rhagor">
 <!ENTITY mixedContentBlocked2.options "Dewisiadau">
-<!ENTITY mixedContentBlocked2.unblock.label "Analluogi diogeelu dros dro">
+<!ENTITY mixedContentBlocked2.unblock.label "Analluogi diogelu dros dro">
 <!ENTITY mixedContentBlocked2.unblock.accesskey "A">
 <!ENTITY mixedContentBlocked2.block.label "Galluogi diogelu">
 <!ENTITY mixedContentBlocked2.block.accesskey "G">
@@ -848,7 +848,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY readingList.label                        "Rhestr Ddarllen">
 <!ENTITY readingList.sidebar.commandKey           "R">
-<!-- Pre-landed string for bug 1124400 -->
 <!ENTITY readingList.showSidebar.label            "Dangos Bar Ochr y Rhestr Ddarllen">
 <!-- Pre-landed string for bug 1124153 -->
 <!ENTITY readingList.sidebar.showMore.label       "Dangos rhagor…">
