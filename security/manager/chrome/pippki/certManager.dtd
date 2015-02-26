@@ -79,8 +79,8 @@
 <!ENTITY certmgr.details.accesskey            "F">
 <!ENTITY certmgr.fields.label                 "តម្លៃ​វាល">
 <!ENTITY certmgr.fields.accesskey             "V">
-
-
+<!ENTITY certmgr.hierarchy.label              "ឋានានុក្រម​វិញ្ញាបនបត្រ">
+<!ENTITY certmgr.hierarchy.accesskey2         "H">
 <!ENTITY certmgr.addException.label           "បន្ថែម​ករណី​លើកលែង…">
 <!ENTITY certmgr.addException.accesskey       "x">
 
