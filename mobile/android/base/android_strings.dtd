@@ -214,7 +214,7 @@ size. -->
 <!ENTITY pref_media_autoplay_enabled "নিজে থেকে চালু হওয়ার অনুমতি দিন">
 <!ENTITY pref_media_autoplay_enabled_summary "ওয়েবসাইট গুলি ভিডিও এবং অন্যান্য মিডিয়া নিজে থেকে চালু করবে নাকি তা নিয়ন্ত্রণ করুন">
 <!ENTITY pref_zoom_force_enabled "সর্বদা জুম সক্রিয় রাখুন">
-
+<!ENTITY pref_zoom_force_enabled_summary "ওভাররাইডকে জোর করুন যাতে আপনি সমস্ত পাতা জুম করতে পারেন">
 
 <!ENTITY pref_use_master_password "মূখ্য পাসওয়ার্ড ব্যবহার">
 <!ENTITY pref_sync "সিঙ্ক">
@@ -271,7 +271,7 @@ size. -->
      (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
 <!ENTITY datareporting_crashreporter_title_short "বিপর্যয় প্রতিবেদক">
 <!ENTITY datareporting_wifi_title2 "&vendorShortName; অবস্থান পরিষেবা">
-
+<!ENTITY datareporting_wifi_geolocation_summary3 "সাহায্য করুন &vendorShortName; পৃথিবীকে ম্যাপ করুন! আপনার ডিভাইসের Wi-Fi এবং সেলুলার অবস্থান শেয়ার করুন আমাদের ভৈগোলিক অবস্থানের সার্ভিসকে সাহায্য করার জন্য।">
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
      actual notification that an update is available. -->
@@ -562,9 +562,11 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY actionbar_done "সমাপ্ত">
 <!-- Voice search in the awesome bar -->
 
-
-
-
+<!ENTITY voicesearch_prompt "এখন বলুন">
+<!ENTITY voicesearch_failed_title "&brandShortName; ভয়েস অনুসন্ধান">
+<!ENTITY voicesearch_failed_message "ভয়েস অনুসন্ধানে এখন একটি সমস্যা হয়েছে। অনুগ্রহ করে পরে চেষ্টা করুন।">
+<!ENTITY voicesearch_failed_message_recoverable "দুঃখিত! আমরা আপনার শব্দ বুঝতে পারিনি। অনুগ্রহ করে আবার চেষ্টা করুন।">
+<!ENTITY voicesearch_failed_retry "পুনরায় চেষ্টা করুন">
 <!-- Localization note (remote_tabs_last_synced): the variable is replaced by a
      "relative time span string" produced by Android.  This string describes the
      time the tabs were last synced relative to the current time; examples
@@ -574,6 +576,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY remote_tabs_last_synced "সর্বশেষ বার সিঙ্ক হয়েছে: &formatS;">
 <!-- Localization note: Used when the sync has not happend yet, showed in place of a date -->
+<!ENTITY remote_tabs_never_synced "শেষ সিঙ্কসমূহ: কখনই না">
 <!-- Find-In-Page strings -->
 <!-- LOCALIZATION NOTE (find_matchcase): This is meant to appear as an icon that changes color
      if match-case is activated. i.e. No more than two letters, one uppercase, one lowercase. -->
