@@ -35,7 +35,7 @@
 <!ENTITY community.mozillaLink      "&vendorShortName;">
 <!ENTITY community.middle2          "، یک ">
 <!-- LOCALIZATION NOTE (community.creditsLink): This is a link title that links to about:credits. -->
-
+<!ENTITY community.end3             "با یک‌دیگر کار می‌کنیم تا وب را باز، عمومی و قابل‌ دسترس برای همگان نگاه‌ داریم.">
 
 <!ENTITY helpus.start               "می خواهید کمک کنید؟ ">
 <!-- LOCALIZATION NOTE (helpus.donateLink): This is a link title that links to https://sendto.mozilla.org/page/contribute/Give-Now?source=mozillaorg_default_footer&ref=firefox_about&utm_campaign=firefox_about&utm_source=firefox&utm_medium=referral&utm_content=20140929_FireFoxAbout. -->
