@@ -8,7 +8,7 @@
 
 <!ENTITY aboutPage.checkForUpdates.link         "Yeniləmələri yoxla »">
 <!ENTITY aboutPage.checkForUpdates.checking     "Yeniləmələr axtarılır…">
-
+<!ENTITY aboutPage.checkForUpdates.none         "Yeniləmələr mövcud deyil">
 <!ENTITY aboutPage.checkForUpdates.available2   "Yeniləməni endir">
 <!ENTITY aboutPage.checkForUpdates.downloading  "Yeniləmə endirilir…">
 <!ENTITY aboutPage.checkForUpdates.downloaded2  "Yeniləməni qur">

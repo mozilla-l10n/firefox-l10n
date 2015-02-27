@@ -4,7 +4,8 @@
 
 <!ENTITY privatebrowsingpage.title                  "Gizli baxış">
 
-
+<!ENTITY privatebrowsingpage.issueDesc.private      "Yeni məxfi vərəq açdınız.">
+<!ENTITY privatebrowsingpage.issueDesc.normal       "Məxfi vərəqdə deyilsiniz.">
 
 
 
