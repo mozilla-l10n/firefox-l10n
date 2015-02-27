@@ -8,8 +8,8 @@
 
 <!ENTITY  onboard_start_message2 "Bun venit la &brandShortName;">
 <!ENTITY  onboard_start_subtext2 "Mai multe funcții de intimitate și moduri de personalizare ca niciodată.">
-<!ENTITY  onboard_start_button_account "Conectați-vă la &brandShortName;">
-<!ENTITY  onboard_start_button_browser "Începeți navigarea">
+<!ENTITY  onboard_start_button_account "Autentifică-te în &brandShortName;">
+<!ENTITY  onboard_start_button_browser "Începe navigarea">
 <!-- Localization note: These are used as the titles of different pages on the home screen.
      They are automatically converted to all caps by the Android platform. -->
 
@@ -18,7 +18,7 @@
 <!ENTITY  reading_list_title "Listă de citit">
 <!ENTITY  recent_tabs_title "File recente">
 
-<!ENTITY  switch_to_tab "Du-te la fila">
+<!ENTITY  switch_to_tab "Comută la filă">
 
 <!ENTITY  crash_reporter_title "Raportor de defecte în &brandShortName;">
 <!ENTITY  crash_message2 "&brandShortName; a avut o problemă și s-a închis neașteptat. Filele ar trebui să fie listate pe pagina de start &brandShortName; când repornești navigatorul.">
@@ -72,13 +72,13 @@
 <!-- Localization note (switch_button_message): This string should be as short
      as possible because it's shown as a label in a toast.  Ideally, this string
      is upper-case, to match Google and Android's convention. -->
-<!ENTITY switch_button_message "SCHIMBA">
+<!ENTITY switch_button_message "COMUTĂ">
 
 <!ENTITY settings "Setări">
 <!ENTITY settings_title "Setări">
 <!ENTITY pref_category_advanced "Avansat">
 <!ENTITY pref_category_customize "Personalizare">
-<!ENTITY pref_category_customize_summary "Pagina de start, căutare, file, importare">
+<!ENTITY pref_category_customize_summary "Pagină de start, căutare, file, importare">
 <!-- Localization note (pref_category_language) : This is the preferences
      section in which the user picks the locale in which to display Firefox
      UI. The locale includes both language and region concepts. -->
@@ -102,27 +102,27 @@
 
 <!ENTITY overlay_share_bookmark_btn_label "Semn de carte">
 <!ENTITY overlay_share_reading_list_btn_label "Adăugați în lista de citit">
-<!ENTITY overlay_share_bookmark_btn_label_already "Deja marcat">
-<!ENTITY overlay_share_reading_list_btn_label_already "Deja în lista de citit">
-<!ENTITY overlay_share_send_other "Trimiteți către alte dispozitive">
+<!ENTITY overlay_share_bookmark_btn_label_already "Însemnat deja">
+<!ENTITY overlay_share_reading_list_btn_label_already "În lista de citit deja">
+<!ENTITY overlay_share_send_other "Trimite către alte dispozitive">
 <!-- Localization note (overlay_share_send_tab_btn_label) : Used on the
      share overlay menu to represent the "Send Tab" action when the user
      either has not set up Sync, or has no other devices to send a tab
      to. -->
 
-<!ENTITY overlay_share_send_tab_btn_label "Trimiteți către un alt dispozitiv">
-<!ENTITY overlay_share_no_url "Niciun link nu a fost găsit">
+<!ENTITY overlay_share_send_tab_btn_label "Trimite către un alt dispozitiv">
+<!ENTITY overlay_share_no_url "Nicio legătură nu a fost găsită">
 <!ENTITY overlay_share_retry "Încearcă din nou">
-<!ENTITY overlay_share_select_device "Selectați un dispozitiv">
+<!ENTITY overlay_share_select_device "Selectează un dispozitiv">
 
 <!ENTITY pref_category_search3 "Căutare">
-<!ENTITY pref_category_search_summary "Personalizează furnizorii de motoare de căutare">
+<!ENTITY pref_category_search_summary "Personalizează motoarele de căutare">
 <!ENTITY pref_category_display "Ecran">
 <!ENTITY pref_category_display_summary "Text, bară de titlu, navigare pe tot ecranul">
 <!ENTITY pref_category_privacy_short "Confidențialitate">
 <!ENTITY pref_category_privacy_summary "Controlează parole, cookie-uri, urmărire, date">
 <!ENTITY pref_category_vendor "&vendorShortName;">
-<!ENTITY pref_category_vendor_summary "Despre &brandShortName;FAQs, opțiuni de date">
+<!ENTITY pref_category_vendor_summary "Despre &brandShortName;, întrebări frecvente, împărtășire de date">
 <!ENTITY pref_category_datareporting "Opțiuni de date">
 <!ENTITY pref_learn_more "Află mai multe">
 <!ENTITY pref_category_installed_search_engines "Motoare de căutare instalate">
@@ -145,13 +145,13 @@
 <!ENTITY pref_category_home "Pagină de start">
 <!ENTITY pref_category_home_summary "Personalizează pagina de start">
 <!ENTITY pref_category_home_panels "Panouri">
-<!ENTITY home_add_panel_title "Adăugați un nou panou">
-<!ENTITY home_add_panel_empty "Din păcate nu am găsit niciun panou pe care să-l puteți adăuga">
+<!ENTITY home_add_panel_title "Adaugă un nou panou">
+<!ENTITY home_add_panel_empty "Scuze, nu am găsit niciun panou pe care să-l poți adăuga">
 <!-- Localization note (home_add_panel_installed):
      The &formatS; will be replaced with the name of the new panel the user just
      selected to be added to the home page. -->
-<!ENTITY home_add_panel_installed "&formatS; a fost adăugat la pagina de pornire">
-<!ENTITY pref_category_home_content_settings "Setări conținut">
+<!ENTITY home_add_panel_installed "&formatS; adăugat la pagina de start">
+<!ENTITY pref_category_home_content_settings "Setări de conținut">
 <!ENTITY pref_home_updates "Actualizări automate">
 <!ENTITY pref_home_updates_enabled "Activate">
 <!ENTITY pref_home_updates_wifi "Doar prin Wi-Fi">
@@ -240,7 +240,7 @@ size. -->
 <!ENTITY pref_dialog_default "Standard">
 <!ENTITY pref_dialog_remove "Elimină">
 
-<!ENTITY pref_search_last_toast "Nu poți elimina sau dezactiva ultimul tău motor de căutare">
+<!ENTITY pref_search_last_toast "Nu poți elimina sau dezactiva ultimul tău motor de căutare.">
 
 <!ENTITY pref_panels_show "Afișează">
 <!ENTITY pref_panels_hide "Ascunde">
@@ -295,7 +295,7 @@ size. -->
 <!ENTITY share_image_failed "Imposibil de împărtășit această imagine">
 <!ENTITY save_as_pdf "Salvează ca PDF">
 <!ENTITY find_in_page "Găsește în pagină">
-<!ENTITY desktop_mode "Cere versiunea pt. calculator">
+<!ENTITY desktop_mode "Cere versiune pt. desktop">
 <!ENTITY page "Pagină">
 <!ENTITY tools "Unelte">
 <!ENTITY new_tab "Filă nouă">
@@ -346,7 +346,7 @@ size. -->
      whether or not the dynamic toolbar is enabled. -->
 
 <!ENTITY pref_scroll_title_bar2 "Navigare pe tot ecranul">
-<!ENTITY pref_scroll_title_bar_summary "Ascunde bara de titlu a &brandShortName; când derulezi în jos a paginii">
+<!ENTITY pref_scroll_title_bar_summary "Ascunde bara de titlu a &brandShortName; când derulezi în josul paginii">
 <!-- Localization note (page_removed): This string appears in a toast message when
      any page is removed frome about:home. This includes pages that are in history,
      bookmarks, or reading list. -->
