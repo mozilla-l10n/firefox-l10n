@@ -4,7 +4,7 @@
 
 <!ENTITY  connectionsDialog.title       "Bağlantı Ayarları">
 
-<!ENTITY  proxyTitle.label              "İnternete erişmek için vekil sunucuları yapılandırın">
+<!ENTITY  proxyTitle.label              "İnternete Erişmek İçin Vekil Sunucuları Yapılandırın">
 <!ENTITY  noProxyTypeRadio.label        "Vekil sunucu kullanma">
 <!ENTITY  noProxyTypeRadio.accesskey    "n">
 <!ENTITY  systemTypeRadio.label         "Sistemin vekil sunucu ayarlarını kullan">
@@ -15,13 +15,13 @@
 <!ENTITY  manualTypeRadio.accesskey     "i">
 <!ENTITY  autoTypeRadio.label           "Otomatik vekil sunucu yapılandırma adresi:">
 <!ENTITY  autoTypeRadio.accesskey       "a">
-<!ENTITY  reload.label                  "Tekrar yükle">
+<!ENTITY  reload.label                  "Tekrar Yükle">
 <!ENTITY  reload.accesskey              "T">
-<!ENTITY  http.label                    "HTTP vekil sunucusu:">
+<!ENTITY  http.label                    "HTTP Vekil Sunucusu:">
 <!ENTITY  http.accesskey                "H">
-<!ENTITY  ssl.label                     "SSL vekil sunucusu:">
+<!ENTITY  ssl.label                     "SSL Vekil Sunucusu:">
 <!ENTITY  ssl.accesskey                 "S">
-<!ENTITY  socks.label                   "SOCKS sunucusu:">
+<!ENTITY  socks.label                   "SOCKS Sunucusu:">
 <!ENTITY  socks.accesskey               "C">
 <!ENTITY  socks4.label                  "SOCKS v4">
 <!ENTITY  socks4.accesskey              "K">
@@ -33,7 +33,7 @@
 <!ENTITY  SSLport.accesskey             "o">
 <!ENTITY  SOCKSport.label               "Port:">
 <!ENTITY  SOCKSport.accesskey           "t">
-<!ENTITY  noproxy.label                 "Vekil sunucu kullanma:">
+<!ENTITY  noproxy.label                 "Vekil Sunucu Kullanma:">
 <!ENTITY  noproxy.accesskey             "n">
 <!ENTITY  noproxyExplain.label          "Örnek: .mozilla.org, .net.tr, 192.168.1.0/24">
 <!ENTITY  shareproxy.label              "Bu vekil sunucuyu bütün protokollerde kullan">

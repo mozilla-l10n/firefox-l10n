@@ -7,15 +7,15 @@
 
 <!ENTITY treehead.sitename.label      "Site">
 <!ENTITY treehead.status.label        "Durum">
-<!ENTITY removepermission.label       "Siteyi sil">
+<!ENTITY removepermission.label       "Siteyi Kaldır">
 <!ENTITY removepermission.accesskey   "S">
-<!ENTITY removeallpermissions.label   "Tüm siteleri sil">
+<!ENTITY removeallpermissions.label   "Tüm Siteleri Kaldır">
 <!ENTITY removeallpermissions.accesskey "e">
-<!ENTITY address.label                "Web sitesi adresi:">
+<!ENTITY address.label                "Web site adresi:">
 <!ENTITY address.accesskey            "d">
 <!ENTITY block.label                  "Engelle">
 <!ENTITY block.accesskey              "g">
-<!ENTITY session.label                "Oturum boyunca izin ver">
+<!ENTITY session.label                "Oturum Boyunca İzin Ver">
 <!ENTITY session.accesskey            "r">
 <!ENTITY allow.label                  "İzin ver">
 <!ENTITY allow.accesskey              "e">

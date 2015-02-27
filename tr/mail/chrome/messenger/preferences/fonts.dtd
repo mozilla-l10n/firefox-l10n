@@ -2,10 +2,10 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY  fontsAndEncodingsDialog.title           "Yazı tipleri ve karakter kodlaması">
+<!ENTITY  fontsAndEncodingsDialog.title           "Yazıtipleri ve Karakter Kümeleri">
 
-<!ENTITY  language.label                          "Yazı tipleri:">
-<!ENTITY  language.accesskey                      "t">
+<!ENTITY  language.label                          "Dil:">
+<!ENTITY  language.accesskey                      "D">
 
 <!ENTITY  size.label                              "Boyut:">
 <!ENTITY  proportionalSize.accesskey              "o">
@@ -33,7 +33,7 @@
 <!ENTITY  font.langGroup.el                       "Yunanca">
 <!ENTITY  font.langGroup.turkish                  "Türkçe">
 <!ENTITY  font.langGroup.unicode1                 "Unicode">
-<!ENTITY  font.langGroup.user-def                 "Kullanıcı tanımlı">
+<!ENTITY  font.langGroup.user-def                 "Kullanıcı Tanımlı">
 <!ENTITY  font.langGroup.thai                     "Tay Dili">
 <!ENTITY  font.langGroup.hebrew                   "İbranice">
 <!ENTITY  font.langGroup.arabic                   "Arapça">
@@ -41,8 +41,8 @@
 <!ENTITY  font.langGroup.tamil                    "Tamil Dili">
 <!ENTITY  font.langGroup.armenian                 "Ermenice">
 <!ENTITY  font.langGroup.bengali                  "Bengalce">
-<!ENTITY  font.langGroup.canadian                 "Birleşik Kanada hece yazısı">
-<!ENTITY  font.langGroup.ethiopic                 "Etiyopya">
+<!ENTITY  font.langGroup.canadian                 "Birleşik Kanada Hece Yazısı">
+<!ENTITY  font.langGroup.ethiopic                 "Etiyopya Dili">
 <!ENTITY  font.langGroup.georgian                 "Gürcüce">
 <!ENTITY  font.langGroup.gujarati                 "Gujarati Dili">
 <!ENTITY  font.langGroup.gurmukhi                 "Gurmukhi Dili">
@@ -59,19 +59,19 @@
 <!ENTITY  useDefaultFontSansSerif.label           "Sans Serif">
 <!-- fonts in message -->
 
-<!ENTITY  fontControl.label                       "Yazı tipi denetimi">
-<!ENTITY  useFixedWidthForPlainText.label         "Düz metin iletilerde sabit genişlikli yazı tipi kullan">
+<!ENTITY  fontControl.label                       "Yazıtipi Denetimi">
+<!ENTITY  useFixedWidthForPlainText.label         "Düz metin iletilerde sabit genişlikli yazıtipi kullan">
 <!ENTITY  fixedWidth.accesskey                    "l">
-<!ENTITY  useDocumentFonts.label                  "İletilerin diğer yazı tiplerini kullanmasına izin ver">
+<!ENTITY  useDocumentFonts.label                  "İletilerin diğer yazıtiplerini kullanmasına izin ver">
 <!ENTITY  useDocumentFonts.accesskey              "a">
 <!-- Language settings -->
 
-<!ENTITY sendDefaultCharset.label         "Giden posta:">
+<!ENTITY sendDefaultCharset.label         "Giden Posta:">
 <!ENTITY sendDefaultCharset.accesskey     "d">
-<!ENTITY languagesTitle1.label            "Karakter kodlaması">
+<!ENTITY languagesTitle1.label            "Karakter Kümeleri">
 <!ENTITY composingDescription.label       "Alınan ve gönderilen e-postalar için varsayılan karakter kodlamalarını ayarla">
 
-<!ENTITY viewDefaultCharsetList.label     "Gelen posta:">
+<!ENTITY viewDefaultCharsetList.label     "Gelen Posta:">
 <!ENTITY viewDefaultCharsetList.accesskey  "G">
-<!ENTITY replyInDefaultCharset2.label     "Yanıtlarda mümkünse varsayılan karakter kodlamasını kullan">
-<!ENTITY replyInDefaultCharset2.accesskey "Y">
+<!ENTITY replyInDefaultCharset2.label     "Mümkün olduğunda yanıtlarda varsayılan karakter kodlamasını kullan">
+<!ENTITY replyInDefaultCharset2.accesskey "y">

@@ -5,11 +5,11 @@
 <!ENTITY dockOptionsDialog.title               "Uygulama simgesi seçenekleri">
 <!ENTITY window.macWidth                       "35em">
 
-<!ENTITY bounceSystemDockIcon.label            "Yeni ileti gelince uygulama simgesini canlandır">
-<!ENTITY bounceSystemDockIcon.accesskey        "c">
+<!ENTITY bounceSystemDockIcon.label            "Yeni ileti gelince uygulama simgesini hareketlendir">
+<!ENTITY bounceSystemDockIcon.accesskey        "h">
 <!ENTITY newMessagesCountDock.label            "Yeni ileti sayısı">
 <!ENTITY newMessagesCountDock.accesskey        "s">
 <!ENTITY showAllUnreadMessagesCount.label      "Okunmamış ileti sayısı">
 <!ENTITY showAllUnreadMessagesCount.accesskey  "O">
-<!ENTITY dockIconBadge.label                   "Uygulama simgesi rozet">
+<!ENTITY dockIconBadge.label                   "Uygulama simgesi rozeti">
 <!ENTITY dockIconShow.label                    "Uygulama simgesine rozet ekle:">

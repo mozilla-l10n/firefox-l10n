@@ -5,20 +5,20 @@
 <!ENTITY itemFormatting.label             "Biçimlendirme">
 <!ENTITY itemTags.label                   "Etiketler">
 
-<!ENTITY style.label                      "Stil:">
-<!ENTITY style.accesskey                  "S">
-<!ENTITY regularStyle.label               "Düzenli">
+<!ENTITY style.label                      "Biçem:">
+<!ENTITY style.accesskey                  "B">
+<!ENTITY regularStyle.label               "Normal">
 <!ENTITY bold.label                       "Kalın">
 <!ENTITY italic.label                     "Eğik">
-<!ENTITY boldItalic.label                 "Kalın ve eğik">
+<!ENTITY boldItalic.label                 "Kalın ve Eğik">
 <!ENTITY size.label                       "Boyut:">
 <!ENTITY size.accesskey                   "B">
-<!ENTITY regularSize.label                "Düzenli">
-<!ENTITY bigger.label                     "Daha büyük">
-<!ENTITY smaller.label                    "Daha küçük">
+<!ENTITY regularSize.label                "Normal">
+<!ENTITY bigger.label                     "Daha Büyük">
+<!ENTITY smaller.label                    "Daha Küçük">
 <!ENTITY quotedTextColor.label            "Renk:">
 <!ENTITY quotedTextColor.accesskey        "R">
-<!ENTITY displayWidth.label               "Düz metin iletiler">
+<!ENTITY displayWidth.label               "Düz Metinli İletiler">
 <!ENTITY displayText.label                "Alıntılanmış düz metin iletileri görüntülerken:">
 <!-- LOCALIZATION NOTE : (emoticonsAndStructs.label) 'Emoticons' are also known as 'Smileys', e.g. :-)   -->
 
@@ -26,17 +26,17 @@
 <!ENTITY convertEmoticons.accesskey    "D">
 <!-- labels -->
 
-<!ENTITY displayTagsText.label     "Etiketler, iletilerinizi sınıflandırmak ve önemlerini belirlemek için kullanılabilir.">
+<!ENTITY displayTagsText.label     "Etiketler iletilerinizi sınıflandırmak ve önemlerini belirlemek için kullanılabilir.">
 <!ENTITY addTagButton.label        "Ekle">
 <!ENTITY addTagButton.accesskey    "E">
 <!ENTITY editTagButton.label       "Düzenle">
-<!ENTITY editTagButton.accesskey   "z">
+<!ENTITY editTagButton.accesskey   "D">
 <!ENTITY removeTagButton.label     "Sil">
-<!ENTITY removeTagButton.accesskey "l">
+<!ENTITY removeTagButton.accesskey "S">
 <!-- Fonts and Colors -->
 
-<!ENTITY fontsAndColors1.label   "Yazı tipleri ve renkler">
-<!ENTITY defaultFont.label       "Varsayılan yazı tipi:">
+<!ENTITY fontsAndColors1.label   "Yazı Tipleri ve Renkler">
+<!ENTITY defaultFont.label       "Varsayılan Yazıtipi:">
 <!ENTITY defaultFont.accesskey   "z">
 <!ENTITY defaultSize.label       "Boyut:">
 <!ENTITY defaultSize.accesskey   "o">

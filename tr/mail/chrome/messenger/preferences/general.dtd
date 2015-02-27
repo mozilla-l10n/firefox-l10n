@@ -3,20 +3,20 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY messengerStartPage.label         "&brandShortName; Başlangıç Sayfası">
-<!ENTITY enableStartPage.label            "&brandShortName; açıldığında ileti alanında başlangıç sayfasını göster">
+<!ENTITY enableStartPage.label            "&brandShortName; açıldığında ileti alanında Başlangıç Sayfası göster">
 <!ENTITY enableStartPage.accesskey        "g">
 <!ENTITY location.label                   "Konum:">
 <!ENTITY location1.accesskey               "o">
-<!ENTITY useDefault.label                 "Varsayılanı yükle">
+<!ENTITY useDefault.label                 "Varsayılanı Getir">
 <!ENTITY useDefault.accesskey             "V">
 
 <!ENTITY changeDockIconOptions.label      "Uygulama simgesi tercihlerini değiştir">
-<!ENTITY dockOptions.label                "Uygulama simgesi seçenekleri…">
+<!ENTITY dockOptions.label                "Uygulama Simgesi Seçenekleri…">
 <!ENTITY dockOptions.accesskey            "m">
 
 <!ENTITY newMessagesArrive.label          "Yeni ileti geldiğinde:">
-<!ENTITY playSound.label                  "Ses dosyası çal">
-<!ENTITY playSound1.accesskey              "d">
+<!ENTITY playSound.label                  "Ses çıkar">
+<!ENTITY playSound1.accesskey              "S">
 <!ENTITY showAnimatedAlert.label          "Uyarı göster">
 <!ENTITY showAnimatedAlert.accesskey      "g">
 <!ENTITY customizeMailAlert.label         "Özelleştir…">
@@ -28,7 +28,7 @@
 <!ENTITY play.label                       "Çal">
 <!ENTITY play.accesskey                   "l">
 <!ENTITY systemsound.label                "Yeni posta için öntanımlı sistem sesi">
-<!ENTITY systemsoundMac.label             "Sistem uyarı sesi">
+<!ENTITY systemsoundMac.label             "Sistem Uyarı Sesi">
 <!ENTITY systemsoundMac.accesskey         "y">
 <!ENTITY systemsound.accesskey            "Y">
 <!ENTITY customsound.label                "Aşağıdaki ses dosyasını kullan">
@@ -36,3 +36,4 @@
 <!ENTITY browse.label                     "Gözat…">
 <!ENTITY browse.accesskey                 "G">
 
+<!ENTITY defaultSearchEngine.label        "Varsayılan Arama Motoru">

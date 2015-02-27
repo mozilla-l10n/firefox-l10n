@@ -6,7 +6,7 @@
 <!ENTITY window.width                     "30em">
 
 <!ENTITY alertCustomization.intro         "Uyarı bildiriminde hangi alanların gösterileceğini seçin:">
-<!ENTITY previewText.label                "İleti ön izleme metni">
+<!ENTITY previewText.label                "İleti Önizleme Metni">
 <!ENTITY previewText.accesskey            "İ">
 <!ENTITY subject.label                    "Konu">
 <!ENTITY subject.accesskey                "K">
@@ -19,6 +19,6 @@ totalOpenTimeBefore.label and totalOpenTimeEnd.label parts don't have to mean
 the exact same thing as in English; please try instead to translate the whole
 sentence. -->
 
-<!ENTITY  totalOpenTimeBefore.label       "Yeni e-posta uyarısını">
+<!ENTITY  totalOpenTimeBefore.label       "Yeni E-Posta Uyarısını">
 <!ENTITY  totalOpenTimeBefore.accesskey   "Y">
 <!ENTITY  totalOpenTimeEnd.label          "saniye boyunca göster">
