@@ -159,37 +159,46 @@
 <!ENTITY fxaccount_create_account_choose_what_to_sync "Alege ce sincronizezi">
 <!ENTITY fxaccount_create_account_sign_in_instead "Ai un cont deja? Autentifică-te">
 <!ENTITY fxaccount_create_account_1990_or_earlier "1990 sau anterior">
+<!ENTITY fxaccount_create_account_unknown_error "Nu se poate crea contul">
 
-
-
+<!ENTITY fxaccount_account_create_not_allowed "Nu se poate crea contul">
+<!ENTITY fxaccount_account_create_not_allowed_you_must_meet_certain_age_requirements "Trebuie să îndeplinești anumite cerințe de vârstă pentru a crea un cont.">
 <!ENTITY fxaccount_account_create_not_allowed_learn_more "Aflați mai multe">
 
+<!ENTITY fxaccount_confirm_account_header "Confirmă contul">
 <!-- Localization note: &formatS; is the Firefox Account's email address. -->
+<!ENTITY fxaccount_confirm_account_verification_link "O legătură de verificare a fost trimisă către &formatS;">
+<!ENTITY fxaccount_confirm_account_resend_email "Retrimite e-mailul">
+<!ENTITY fxaccount_confirm_account_change_email "Uită această adresă de e-mail?">
+<!ENTITY fxaccount_confirm_account_verification_link_sent2 "E-mail de verificare trimis">
+<!ENTITY fxaccount_confirm_account_verification_link_not_sent2 "Nu se poate trimite e-mailul de verificare">
+<!ENTITY fxaccount_resend_unlock_code_button_label "Retrimite e-mailul de deblocare">
+<!ENTITY fxaccount_unlock_code_sent "E-mailul de deblocare al contului trimis">
+<!ENTITY fxaccount_unlock_code_not_sent "Nu se poate trimite e-mailul de deblocare al contului">
 
+<!ENTITY fxaccount_sign_in_sub_header "Autentificare">
+<!ENTITY fxaccount_sign_in_button_label "Autentificare">
+<!ENTITY fxaccount_sign_in_forgot_password "Ai uitat parola?">
+<!ENTITY fxaccount_sign_in_create_account_instead "Creează un cont">
+<!ENTITY fxaccount_sign_in_unknown_error "Nu se poate autentifica">
 
+<!ENTITY fxaccount_account_verified_sub_header "Cont verificat">
+<!ENTITY fxaccount_account_verified_description2 "Datele tale vor începe sincronizarea din clipă în clipă.">
 
+<!ENTITY fxaccount_migration_finished_header "Actualizare încheiată">
 
+<!ENTITY fxaccount_update_credentials_header "Autentificare">
+<!ENTITY fxaccount_update_credentials_button_label "Autentificare">
+<!ENTITY fxaccount_update_credentials_unknown_error "Nu se poate autentifica">
 
+<!ENTITY fxaccount_finish_migrating_header "Autentifică-te pentru a finaliza actualizarea">
+<!ENTITY fxaccount_finish_migrating_button_label "Finalizează actualizarea">
+<!ENTITY fxaccount_finish_migrating_description "Actualizarea poate transfera multe date. Cel mai bine e să fii pe o rețea Wi-Fi.">
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY fxaccount_status_header2 "Cont Firefox">
+<!ENTITY fxaccount_status_signed_in_as "Autentificat ca">
+<!ENTITY fxaccount_status_auth_server "Serverul contului">
+<!ENTITY fxaccount_status_sync_now "Sincronizează acum">
 <!ENTITY fxaccount_status_syncing2 "Se sincronizează…">
 
 

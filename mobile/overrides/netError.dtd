@@ -57,7 +57,10 @@
 <!ENTITY netTimeout.title "Timpul conexiunii a expirat">
 <!ENTITY netTimeout.longDesc2 "&sharedLongDesc3;">
 
-
+<!ENTITY unknownProtocolFound.title "Adresa nu a fost înțeleasă">
+<!ENTITY unknownProtocolFound.longDesc "<ul> 
+<li>S-ar putea să fie nevoie să instalezi alt program pentru a deschide această adresă.</li> 
+</ul>">
 
 <!ENTITY proxyConnectFailure.title "Serverul proxy refuză conexiuni">
 <!ENTITY proxyConnectFailure.longDesc "<ul> <li>Asigurați-vă că parametrii proxy-ului sunt corecți.</li> <li>Luați legătura cu administratorul rețelei pentru a vă asigura că serverul proxy funcționează.</li> </ul>">
@@ -65,6 +68,12 @@
 <!ENTITY proxyResolveFailure.title "Nu se poate găsi serverul proxy">
 <!-- LOCALIZATION NOTE (proxyResolveFailure.longDesc3) This string contains markup including widgets for enabling wifi connections.
      The text inside the tags should be localized. Do not touch the ids. -->
+<!ENTITY proxyResolveFailure.longDesc3 "<ul> 
+<li>Verifică setările proxy pentru a te asigura că ele sunt corecte.</li> 
+<li>Asigură-te că dispozitivul tău are o conexiune funcțională de date sau Wi-Fi. 
+<button id='wifi'>Activează Wi-Fi</button> 
+</li> 
+</ul>">
 
 <!ENTITY redirectLoop.title "Pagina nu redirecționează corect">
 <!ENTITY redirectLoop.longDesc "<ul> <li>Problema poate apărea dacă dezactivați sau refuzați să acceptați cookie-uri.</li> </ul>">
@@ -87,6 +96,13 @@ temporară și puteți încerca din nou mai târziu.</li>
 </ul>">
 <!-- LOCALIZATION NOTE (sharedLongDesc3) This string contains markup including widgets for enabling wifi connections.
      The text inside the tags should be localized. Do not touch the ids. -->
+
+<!ENTITY sharedLongDesc3 "<ul> 
+<li>Saitul ar putea fi temporar indisponibil sau foarte încărcat. Încearcă din nou în câteva momente.</li> 
+<li>Dacă nu poți să încarci nicio pagină, verifică conexiunea de date sau Wi-Fi. 
+<button id='wifi'>Activează Wi-Fi</button> 
+</li> 
+</ul>">
 
 <!ENTITY cspBlocked.title "Blocat de politica de securitate asupra conținutului">
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; a împiedicat această pagină să se încarce în acest mod deoarece pagina are o politică de securitate asupra conținutului ce nu permite asta.</p>">
