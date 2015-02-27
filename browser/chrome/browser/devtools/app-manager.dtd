@@ -36,9 +36,9 @@
 <!ENTITY device.permissionsHelpLink "https://developer.mozilla.org/docs/Web/Apps/App_permissions">
 <!ENTITY device.browserTabs "Դիտարկիչի ներդիրներ">
 <!ENTITY device.browserTabsTooltip "Դիտել կապակցված դիտարկիչի ներդիրները">
-
+<!ENTITY device.debugBrowserTab "Վրիպազերծել">
 <!ENTITY device.debugBrowserTabTooltip "Բացել այս ծրագրի հետ կապված Ծրագրավորման գործիքները այս սարքում">
-
+<!ENTITY device.help "Օգնություն">
 
 <!ENTITY connection.connectTooltip "Միանալ սարքին">
 <!ENTITY connection.disconnect "Անջատել">
@@ -66,19 +66,19 @@
 <!ENTITY connection.startRegisteredSimulator "Մեկնարկել.">
 
 <!ENTITY projects.localApps "Ծրագրերը">
-
+<!ENTITY projects.addApp "Ավելացնել">
 <!ENTITY projects.addPackaged "Ավելացնել փաթեթով">
 <!ENTITY projects.addPackagedTooltip "Ավելացնել նոր փաթեթով (թղթապանակից) համակարգչից">
 <!ENTITY projects.addHosted "Ավելացնել հոսթից">
 <!ENTITY projects.addHostedTooltip "Ավելացնել նոր հավելված (հղումը manifest.webapp ֆայլին) հեռակա կայքից">
-
+<!ENTITY projects.title "Ծրագրեր">
 <!ENTITY projects.appDetails "Ծրագրի մանրամասները">
 
 <!ENTITY projects.updateApp "Թարմացնել">
 
-
+<!ENTITY projects.debugApp "Վրիպազերծել">
 <!ENTITY projects.debugAppTooltip "Բացել այս ծրագրի հետ կապված Ծրագրավորողի գործիքները">
-
+<!ENTITY projects.saveManifest "Պահպանել">
 
 <!ENTITY projects.hostedManifestPlaceHolder2 "http://example.com/app/manifest.webapp">
 
@@ -92,6 +92,7 @@
 
 
 
+<!ENTITY help.title "Ծրագրերի կառավարիչ">
 <!ENTITY help.close "Փակել">
 <!ENTITY help.intro "Այս գործիքը կօգնի ձեզ կառուցել և տեղադրել վեբ ծրագրեր համատեղելի սարքերի համար (օր.՝ Firefox OS): <strong>Ծրագրեր</strong> ներդիրը կօգնի ձեզ ծրագրերը տեղադրելու և վավերացնելու գործում: <strong>Սարք</strong> ներդիրը տեղեկություններ կտա միացած սարքերի մասին: Ներքևի կոճակով կարող եք միանալ սարքին կամ գործարկել նմանակիչը:">
 <!ENTITY help.usefullLinks "Օգտակար հղումներ.">

@@ -29,7 +29,7 @@
 <!ENTITY healthReport2.label      "&brandShortName;-ի Վիճակի Զեկույց">
 <!ENTITY healthReport2.accesskey  "ճ">
 
-<!ENTITY helpTroubleshootingInfo.label      "Անսարքության տեղեկատվությունը">
+<!ENTITY helpTroubleshootingInfo.label      "Անսարքության տեղեկատվություն">
 <!ENTITY helpTroubleshootingInfo.accesskey  "Ա">
 
 <!ENTITY helpFeedbackPage.label      "Ուղարկել արձագանք…">
