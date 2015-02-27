@@ -289,15 +289,15 @@
 <!ENTITY attachCloud.accesskey "l">
 <!ENTITY convertCloud.label "Dönüştür…">
 <!ENTITY convertCloud.accesskey "D">
-<!ENTITY cancelUpload.label "Yüklemeyi iptal et">
-<!ENTITY cancelUpload.accesskey "p">
-<!ENTITY convertRegularAttachment.label "Normal ek">
-<!ENTITY convertRegularAttachment.accesskey "e">
-<!ENTITY attachPage.label "Web sayfası ekle…">
+<!ENTITY cancelUpload.label "Yüklemekten Vazgeç">
+<!ENTITY cancelUpload.accesskey "e">
+<!ENTITY convertRegularAttachment.label "Normal Ek">
+<!ENTITY convertRegularAttachment.accesskey "E">
+<!ENTITY attachPage.label "Web Sayfası Ekle…">
 <!ENTITY attachPage.accesskey "W">
 <!-- Spell checker context menu items -->
 
-<!ENTITY spellAddDictionaries.label "Sözlük ekle…">
+<!ENTITY spellAddDictionaries.label "Sözlük Ekle…">
 <!ENTITY spellAddDictionaries.accesskey "S">
 <!-- Title for the address picker panel -->
 

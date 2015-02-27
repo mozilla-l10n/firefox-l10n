@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY attachmentReminderDialog.title   "Ek Hatırlatıcı Anahtar Kelimeler">
-<!ENTITY attachKeywordText.label          "Aşağıdaki anahtar kelimeler kullanılmışsa &brandShortName; sizi unutulmuş ekler hakkında uyaracaktır.">
+<!ENTITY attachKeywordText.label          "Aşağıdaki anahtar kelimeleri içeren bir e-posta göndermek üzereyseniz, &brandShortName; sizi unutulan ekler hakkında uyaracak.">
 <!ENTITY addKeywordButton.label           "Ekle">
 <!ENTITY addKeywordButton.accesskey       "E">
 <!ENTITY editKeywordButton.label          "Düzenle">

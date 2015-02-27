@@ -3,19 +3,19 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY itemGeneral.label       "Genel">
-
-<!ENTITY itemDisplay.label       "Okuma ve görünüm">
+<!ENTITY dataChoicesTab.label    "Veri Tercihleri">
+<!ENTITY itemDisplay.label       "Okuma ve Görünüm">
 <!ENTITY itemUpdate.label        "Güncelleme">
-<!ENTITY itemNetworking.label    "Ağ ve disk alanı">
-<!ENTITY itemCertificates.label  "Onay belgeleri">
+<!ENTITY itemNetworking.label    "Ağ ve Disk Alanı">
+<!ENTITY itemCertificates.label  "Onay Belgeleri">
 <!-- General Settings -->
 
-<!ENTITY enableGlodaSearch.label       "Global aramayı ve dizin oluşturmayı etkinleştir">
+<!ENTITY enableGlodaSearch.label       "Küresel Aramayı ve Dizin Oluşturmayı Etkinleştir">
 <!ENTITY enableGlodaSearch.accesskey   "e">
-
-
-
-
+<!ENTITY allowHWAccel.label            "Mümkün olduğunda donanım ivmelenmesini kullan">
+<!ENTITY allowHWAccel.accesskey        "d">
+<!ENTITY storeType.label               "Yeni hesaplarda İleti Depolama Türü">
+<!ENTITY storeType.accesskey           "T">
 <!ENTITY mboxStore.label               "Tek bir büyük dosya (mbox)">
 <!ENTITY maildirStore.label            "Her ileti için bir dosya (maildir)">
 
@@ -25,47 +25,50 @@
 <!ENTITY useSmoothScrolling.label      "Yumuşak kaydırmayı kullan">
 <!ENTITY useSmoothScrolling.accesskey  "Y">
 
-<!ENTITY systemIntegration.label       "Sistem tümleştirmesi">
+<!ENTITY systemIntegration.label       "Sistem Bütünleşmesi">
 <!ENTITY alwaysCheckDefault.label      "&brandShortName; uygulamasının varsayılan e-posta istemcisi olup olmadığını her açılışta denetle">
 <!ENTITY alwaysCheckDefault.accesskey  "h">
 <!ENTITY searchIntegration.label       "&searchIntegration.engineName; uygulamasının iletileri aramasına izin ver">
 <!ENTITY searchIntegration.accesskey   "s">
-<!ENTITY checkDefaultsNow.label        "Şimdi denetle…">
+<!ENTITY checkDefaultsNow.label        "Şimdi Denetle…">
 <!ENTITY checkDefaultsNow.accesskey    "n">
-<!ENTITY configEditDesc.label          "Gelişmiş yapılandırma">
-<!ENTITY configEdit.label              "Yapılandırma düzenleyici…">
+<!ENTITY configEditDesc.label          "Gelişmiş Yapılandırma">
+<!ENTITY configEdit.label              "Yapılandırma Düzenleyici…">
 <!ENTITY configEdit.accesskey          "z">
-<!ENTITY returnReceiptsInfo.label      "&brandShortName; uygulamasının alındı onayı gönderme ayarlarını yapın">
-<!ENTITY showReturnReceipts.label      "Alındı onayları…">
+<!ENTITY returnReceiptsInfo.label      "&brandShortName; uygulamasının alındı onayı gönderme ayarlarını belirleyin">
+<!ENTITY showReturnReceipts.label      "Alındı Onayları…">
 <!ENTITY showReturnReceipts.accesskey  "A">
 <!-- Data Choices -->
 
+<!ENTITY telemetrySection.label          "Telemetry">
+<!ENTITY telemetryDesc.label             "&brandShortName; uygulamasını iyileştirmemize yardımcı olmak için e-posta istemcinizle ilgili performans, kullanım, donanım ve özelleştirme verilerini &vendorShortName; ile paylaşır">
+<!ENTITY enableTelemetry.label           "Telemetry'yi etkinleştir">
+<!ENTITY enableTelemetry.accesskey       "T">
+<!ENTITY telemetryLearnMore.label        "Daha Fazlasını Öğren">
 
-
-
-
-
-
-
-
+<!ENTITY crashReporterSection.label      "Çökme Habercisi">
+<!ENTITY crashReporterDesc.label         "&brandShortName;, e-posta istemcinizi daha kararlı ve güvenli hâle getirmemize yardımcı olmak için çökme raporlarını &vendorShortName; sunucularına gönderir">
+<!ENTITY enableCrashReporter.label       "Çökme Habercisi'ni etkinleştir">
+<!ENTITY enableCrashReporter.accesskey   "Ç">
+<!ENTITY crashReporterLearnMore.label    "Daha Fazlasını Öğren">
 <!-- Display and Reading Settings -->
 
 <!ENTITY reading.caption               "Okuma">
 <!ENTITY display.caption               "Görünüm">
-<!ENTITY showCondensedAddresses.label  "Adres defterimdeki kişilerin sadece ekran ismini göster">
+<!ENTITY showCondensedAddresses.label  "Adres defterimdeki kişilerin sadece gösterilen adını göster">
 <!ENTITY showCondensedAddresses.accesskey "d">
 
 <!ENTITY autoMarkAsRead.label          "İletileri otomatik olarak okunmuş olarak işaretle">
 <!ENTITY autoMarkAsRead.accesskey      "o">
-<!ENTITY markAsReadNoDelay.label       "Görüntüleme anında">
-<!ENTITY markAsReadNoDelay.accesskey   "G">
+<!ENTITY markAsReadNoDelay.label       "İletiye bakar bakmaz">
+<!ENTITY markAsReadNoDelay.accesskey   "z">
 <!-- LOCALIZATION NOTE (markAsReadDelay.label): This will concatenate to
      "After displaying for [___] seconds",
      using (markAsReadDelay.label) and a number (secondsLabel.label). -->
-<!ENTITY markAsReadDelay.label         "Görüntülemeden">
-<!ENTITY markAsReadDelay.accesskey     "ö">
+<!ENTITY markAsReadDelay.label         "Baktıktan">
+<!ENTITY markAsReadDelay.accesskey     "k">
 <!ENTITY secondsLabel.label            "saniye sonra">
-<!ENTITY openMsgIn.label               "Yeni postayı">
+<!ENTITY openMsgIn.label               "Yeni postayı:">
 <!ENTITY openMsgInNewTab.label         "Yeni sekmede aç">
 <!ENTITY openMsgInNewTab.accesskey     "s">
 <!ENTITY reuseExpRadio0.label          "Yeni ileti penceresinde aç">
@@ -85,7 +88,7 @@
 <!ENTITY updateManual.accesskey          "a">
 <!ENTITY updateAutoAddonWarn.label       "Bu işlem herhangi bir eklentimi devre dışı bırakacaksa beni uyar">
 <!ENTITY updateAutoAddonWarn.accesskey   "B">
-<!ENTITY updateHistory.label             "Güncelleme geçmişini göster">
+<!ENTITY updateHistory.label             "Güncelleme Geçmişini Göster">
 <!ENTITY updateHistory.accesskey         "n">
 
 <!ENTITY useService.label                "Güncellemeleri kurmak için arka plan hizmetini kullan">
@@ -94,14 +97,14 @@
 
 <!ENTITY showSettings.label            "Ayarlar…">
 <!ENTITY showSettings.accesskey        "A">
-<!ENTITY proxiesConfigure.label        "&brandShortName; internet bağlantısını yapılandır">
+<!ENTITY proxiesConfigure.label        "&brandShortName; uygulamasının internete nasıl bağlandığını yapılandır">
 <!ENTITY connectionsInfo.caption       "Bağlantı">
-<!ENTITY offlineInfo.caption           "Çevrim dışı">
+<!ENTITY offlineInfo.caption           "Çevrim Dışı">
 <!ENTITY offlineInfo.label             "Çevrim dışı ayarlarını yapılandır">
-<!ENTITY showOffline.label             "Çevrim dışı…">
-<!ENTITY showOffline.accesskey         "d">
+<!ENTITY showOffline.label             "Çevrim Dışı…">
+<!ENTITY showOffline.accesskey         "D">
 
-<!ENTITY Diskspace                       "Disk alanı">
+<!ENTITY Diskspace                       "Disk Alanı">
 <!ENTITY offlineCompactFolders.label     "Toplam">
 <!ENTITY offlineCompactFolders.accesskey "o">
 <!ENTITY offlineCompactFoldersMB.label   "MB kazanılabileceği zaman tüm dizinleri sıkıştır">
@@ -115,11 +118,11 @@
 <!ENTITY useCacheBefore.label            "Önbellek için en fazla">
 <!ENTITY useCacheBefore.accesskey        "b">
 <!ENTITY useCacheAfter.label             "MB kullan">
-<!ENTITY clearCacheNow.label             "Şimdi temizle">
-<!ENTITY clearCacheNow.accesskey         "t">
+<!ENTITY clearCacheNow.label             "Şimdi Temizle">
+<!ENTITY clearCacheNow.accesskey         "T">
 <!-- Certificates -->
 
-<!ENTITY certSelection.description       "Sunucu kişisel onay belgemi istediğinde:">
+<!ENTITY certSelection.description       "Bir sunucu kişisel onay belgemi istediğinde:">
 <!ENTITY certs.auto                      "Birini otomatik olarak seç">
 <!ENTITY certs.auto.accesskey            "S">
 <!ENTITY certs.ask                       "Her seferinde bana sor">
@@ -127,7 +130,7 @@
 <!ENTITY enableOCSP.label                "Onay belgelerinin geçerliliğini doğrulamak için OCSP yanıt sunucularını sorgula">
 <!ENTITY enableOCSP.accesskey            "O">
 
-<!ENTITY viewCertificates.label         "Onay belgelerini göster">
+<!ENTITY viewCertificates.label         "Onay Belgelerini Göster">
 <!ENTITY viewCertificates.accesskey     "a">
-<!ENTITY viewSecurityDevices.label      "Güvenlik aygıtları">
+<!ENTITY viewSecurityDevices.label      "Güvenlik Aygıtları">
 <!ENTITY viewSecurityDevices.accesskey  "G">
