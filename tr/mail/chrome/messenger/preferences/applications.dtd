@@ -2,8 +2,8 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY  typeColumn.label            "İçerik türü">
-<!ENTITY  typeColumn.accesskey        "t">
+<!ENTITY  typeColumn.label            "İçerik Türü">
+<!ENTITY  typeColumn.accesskey        "T">
 
 <!ENTITY  actionColumn2.label         "Eylem">
 <!ENTITY  actionColumn2.accesskey     "E">
@@ -27,12 +27,12 @@
 
 <!ENTITY addCloudFileAccount.label        "Ekle">
 <!ENTITY addCloudFileAccount.accesskey    "E">
-<!ENTITY addCloudFileAccount.description  "Yeni Filelink depolama servisi ekle">
+<!ENTITY addCloudFileAccount.description  "Yeni Filelink depolama hizmeti ekle">
 <!ENTITY removeCloudFileAccount.label     "Kaldır">
 <!ENTITY removeCloudFileAccount.accesskey "K">
-<!ENTITY authRequired.description         "Bu depolama servisinin ayarlarını görmek için kimlik doğrulama gerekiyor.">
+<!ENTITY authRequired.description         "Bu depolama hizmetinin ayarlarını görmek için kimlik doğrulama gerekiyor.">
 <!ENTITY authRequired.button.label        "Yetkilendir">
 <!ENTITY authRequired.button.accesskey    "Y">
 
-<!ENTITY enableCloudFileAccountOffer.label "Şu boyuttan büyük dosyaları paylaşmayı öner:">
+<!ENTITY enableCloudFileAccountOffer.label "Bundan büyük dosyaları paylaşmayı öner:">
 <!ENTITY enableCloudFileAccountOffer.mb "MB">

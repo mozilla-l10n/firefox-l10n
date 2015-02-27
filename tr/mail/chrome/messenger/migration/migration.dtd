@@ -3,31 +3,31 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 
-<!ENTITY migrationWizard.title          "İçe aktarma sihirbazı">
+<!ENTITY migrationWizard.title          "İçe Aktarma Sihirbazı">
 
-<!ENTITY importFromWin.label            "Seçenekleri, hesap ayarlarını, adres defterini, süzgeçleri ve diğer verileri buradan içe aktar:">
-<!ENTITY importFromNonWin.label         "Tercihleri, hesap ayarlarını, adres defterini, süzgeçleri ve diğer verileri buradan içe aktar:">
+<!ENTITY importFromWin.label            "Seçenekler'i, Hesap Ayarları'nı, Adres Defteri'ni, Süzgeçler'i ve diğer verileri buradan içe aktar:">
+<!ENTITY importFromNonWin.label         "Tercihler'i, Hesap Ayarları'nı, Adres Defteri'ni, Süzgeçler'i ve diğer verileri buradan içe aktar: ">
 
 <!ENTITY importFromNothing.label        "İçe bir şey aktarma">
 <!ENTITY importFromNothing.accesskey    "ç">
 <!ENTITY importFromSeamonkey3.label     "SeaMonkey 2 veya üstü">
 <!ENTITY importFromSeamonkey3.accesskey "S">
-<!ENTITY importFromOExpress.label       "Outlook  Express">
+<!ENTITY importFromOExpress.label       "Outlook Express">
 <!ENTITY importFromOExpress.accesskey   "u">
 <!ENTITY importFromOutlook.label        "Outlook">
 <!ENTITY importFromOutlook.accesskey    "O">
 <!ENTITY importFromEudora.label         "Eudora">
 <!ENTITY importFromEudora.accesskey     "E">
 
-<!ENTITY importSource.title             "Ayarları ve posta klasörlerini içe akta">
-<!ENTITY importItems.title              "İçe aktarılacak ögeler">
+<!ENTITY importSource.title             "Ayarları ve Posta Dizinlerini İçe Aktar">
+<!ENTITY importItems.title              "İçe Aktarılacak Ögeler">
 <!ENTITY importItems.label              "İçe aktarılacak ögeleri seçin:">
 
-<!ENTITY migrating.title                "İçe aktarılıyor…">
+<!ENTITY migrating.title                "İçe Aktarılıyor…">
 <!ENTITY migrating.label                "Aşağıdaki ögeler şu anda içe aktarılıyor…">
 
-<!ENTITY selectProfile.title            "Kimlik seç">
-<!ENTITY selectProfile.label            "Aşağıdaki kimlikler buradan içe aktarılabilir:">
+<!ENTITY selectProfile.title            "Kimlik Seç">
+<!ENTITY selectProfile.label            "Aşağıdaki kimliklerden veri alınabilir:">
 
-<!ENTITY done.title                     "İçe aktarma tamamlandı">
-<!ENTITY done.label                     "Aşağıdaki ögeler başarılı şekilde içe aktarıldı:">
+<!ENTITY done.title                     "İçe Aktarma Tamamlandı">
+<!ENTITY done.label                     "Aşağıdaki ögeler başarılı bir şekilde içe aktarıldı:">
