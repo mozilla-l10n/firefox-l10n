@@ -36,9 +36,9 @@
 <!ENTITY device.permissionsHelpLink "https://developer.mozilla.org/docs/Web/Apps/App_permissions">
 <!ENTITY device.browserTabs "Pārlūka cilnes">
 <!ENTITY device.browserTabsTooltip "Aplūkot savienotās ierīces pārlūka cilnes">
-<!ENTITY device.debugBrowserTab "Atkļūdošana">
+
 <!ENTITY device.debugBrowserTabTooltip "Atvērt šai pārlūka cilnei pievienotos Izstrādātāju rīkus">
-<!ENTITY device.help "Palīdzība">
+
 
 <!ENTITY connection.connectTooltip "Pieslēgties ierīcei.">
 <!ENTITY connection.disconnect "Atslēgties">
@@ -66,19 +66,19 @@
 <!ENTITY connection.startRegisteredSimulator "Palaist:">
 
 <!ENTITY projects.localApps "Lokālās aplikācijas">
-<!ENTITY projects.addApp "Pievienot">
+
 <!ENTITY projects.addPackaged "Pievienot pakoto aplikāciju">
 <!ENTITY projects.addPackagedTooltip "Pievienot jaunu pakoto aplikāciju (mapi) no jūsu datora.">
 <!ENTITY projects.addHosted "Pievienot attālināto aplikāciju">
 <!ENTITY projects.addHostedTooltip "Pievienot jaunu attālināto aplikāciju (saiti uz manifest.webapp failu) no kādas mājas lapas.">
-<!ENTITY projects.title "Lokālās aplikācijas">
+
 <!ENTITY projects.appDetails "Informācija par aplikāciju">
 <!ENTITY projects.removeAppFromList "Aizvākt šo aplikāciju no aplikāciju saraksta. Šis neaizvāks to no ierīces vai simulatora.">
 <!ENTITY projects.updateApp "Atjaunināt">
 <!ENTITY projects.updateAppTooltip "Veikt pārbaudes un atjaunināt aplikāciju pievienotajā ierīcē">
-<!ENTITY projects.debugApp "Atkļūdošana">
+
 <!ENTITY projects.debugAppTooltip "Atvērt šai aplikācijai pievienotos izstrādātāju rīkus">
-<!ENTITY projects.saveManifest "Saglabāt">
+
 <!ENTITY projects.saveManifestTooltip "Saglabāt manifesta redaktora saturu.">
 <!ENTITY projects.hostedManifestPlaceHolder2 "http://example.com/app/manifest.webapp">
 <!ENTITY projects.noProjects "Nav neviena projekta. Pievienojiet jaunu pakoto (mapi no datora) vai attālināto (saiti uz manifest failu) aplikāciju.">
@@ -92,7 +92,6 @@
 <!ENTITY projects.hosted "No servera">
 <!ENTITY projects.packaged "Pakota">
 
-<!ENTITY help.title "Aplikāciju pārvaldnieks">
 <!ENTITY help.close "Aizvērt">
 <!ENTITY help.intro "Šis rīks ļaus jums veidot un instalēt aplikācijas atbalstītajās ierīcēs (piemēram Firefox OS). <strong>Aplikāciju</strong> cilne palīdzēs veikt pārbaudes un aplikāciju instalēšanu. <strong>Ierīču</strong> cilne sniegs informāciju par pievienoto ierīci. Izmantojiet apakšējo joslu, lai pievienotu ierīci vai palaistu simulatoru.">
 <!ENTITY help.usefullLinks "Noderīgas saites:">
