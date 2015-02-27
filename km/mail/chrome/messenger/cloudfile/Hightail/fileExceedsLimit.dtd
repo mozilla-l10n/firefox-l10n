@@ -2,5 +2,5 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this file,
    - You can obtain one at http://mozilla.org/MPL/2.0/.  -->
 <!ENTITY fileExceedsLimit.title   "ប្រញាប់ប្រញាល់">
-
+<!ENTITY fileExceedsLimit.thatsBigFile3 "ការ​ផ្ញើ​ឯកសារ​ធំ​ជាង ៥០ មេហ្គាបៃ គឺ​​បាន​គាំទ្រ​សម្រាប់​គណនី​កម្រិត​ខ្ពស់​តែប៉ុណ្ណោះ។">
 <!ENTITY fileExceedsLimit.style "width: 40em; min-height: 20em;">
