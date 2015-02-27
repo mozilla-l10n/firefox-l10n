@@ -25,6 +25,8 @@
 <!ENTITY contextAfterCls.label "Filteren na ongewensteberichtenclassificatie">
 <!ENTITY contextOutgoing.label "Na verzenden">
 <!ENTITY contextOutgoing.accesskey "N">
+<!ENTITY contextArchive.label "Archiveren">
+<!ENTITY contextArchive.accesskey "A">
 
 <!ENTITY filterActionDesc.label "Deze acties uitvoeren:">
 <!ENTITY filterActionDesc.accesskey "v">

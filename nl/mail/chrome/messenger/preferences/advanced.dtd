@@ -3,20 +3,21 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY itemGeneral.label       "Algemeen">
+<!ENTITY dataChoicesTab.label    "Gegevenskeuzes">
 <!ENTITY itemDisplay.label       "Lezen &amp; weergave">
 <!ENTITY itemUpdate.label        "Update">
 <!ENTITY itemNetworking.label    "Netwerk &amp; schijfruimte">
 <!ENTITY itemCertificates.label  "Certificaten">
 
 <!-- General Settings -->
-
-<!ENTITY submitTelemetry.label         "Prestatiegegevens verzenden">
-<!ENTITY submitTelemetry.accesskey     "P">
-<!ENTITY telemetryInfoLink.label       "Meer informatie over Telemetry">
 <!ENTITY enableGlodaSearch.label       "Globaal zoeken en indexer activeren">
 <!ENTITY enableGlodaSearch.accesskey   "G">
 <!ENTITY allowHWAccel.label            "Hardwareversnelling gebruiken wanneer beschikbaar">
 <!ENTITY allowHWAccel.accesskey        "v">
+<!ENTITY storeType.label               "Soort berichtenopslag voor nieuwe accounts:">
+<!ENTITY storeType.accesskey           "S">
+<!ENTITY mboxStore.label               "Een groot bestand (mbox)">
+<!ENTITY maildirStore.label            "Een bestand per bericht (maildir)">
 
 <!ENTITY scrolling.label               "Scrollen">
 <!ENTITY useAutoScroll.label           "Automatisch scrollen gebruiken">
@@ -37,6 +38,19 @@
 <!ENTITY returnReceiptsInfo.label      "Bepalen hoe &brandShortName; omgaat met leesbevestigingen">
 <!ENTITY showReturnReceipts.label      "Leesbevestigingen…">
 <!ENTITY showReturnReceipts.accesskey  "L">
+
+<!-- Data Choices -->
+<!ENTITY telemetrySection.label          "Telemetry">
+<!ENTITY telemetryDesc.label             "Deelt gegevens over prestaties, hardware, gebruik en aanpassingen van uw e-mailclient met &vendorShortName; om &brandShortName; te helpen verbeteren">
+<!ENTITY enableTelemetry.label           "Telemetry inschakelen">
+<!ENTITY enableTelemetry.accesskey       "T">
+<!ENTITY telemetryLearnMore.label        "Meer info">
+
+<!ENTITY crashReporterSection.label      "Crashreporter">
+<!ENTITY crashReporterDesc.label         "&brandShortName; verzendt crashrapporten om &vendorShortName; te helpen uw e-mailclient stabieler en veiliger te maken">
+<!ENTITY enableCrashReporter.label       "Crashreporter inschakelen">
+<!ENTITY enableCrashReporter.accesskey   "C">
+<!ENTITY crashReporterLearnMore.label    "Meer info">
 
 <!-- Display and Reading Settings -->
 <!ENTITY reading.caption               "Lezen">
