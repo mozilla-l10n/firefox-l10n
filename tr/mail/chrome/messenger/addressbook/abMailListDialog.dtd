@@ -7,13 +7,13 @@
 <!-- Labels -->
 <!ENTITY addToAddressBook.label         "Buraya ekle: ">
 
-<!ENTITY ListName.label                 "Liste adı: ">
-<!ENTITY ListNickName.label             "Liste takma adı:">
+<!ENTITY ListName.label                 "Liste Adı:">
+<!ENTITY ListNickName.label             "Liste Takma Adı:">
 <!ENTITY ListDescription.label          "Açıklama: ">
 <!-- See bug 58485, when we implement drag and drop, add 'or drag addresses' back in -->
 <!ENTITY AddressTitle.label             "Posta listesine eklemek istediğiniz e-posta adreslerini yazın:">
-<!ENTITY UpButton.label                 "Yukarı taşı">
-<!ENTITY DownButton.label               "Aşağı taşı">
+<!ENTITY UpButton.label                 "Yukarıya Taşı">
+<!ENTITY DownButton.label               "Aşağıya Taşı">
 <!-- Access Keys -->
 
 <!ENTITY addToAddressBook.accesskey     "B">
