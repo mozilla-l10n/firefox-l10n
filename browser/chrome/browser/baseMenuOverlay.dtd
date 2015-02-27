@@ -11,10 +11,10 @@
 <!-- LOCALIZATION NOTE some localizations of Windows (ex:french, german) use "?"
                        for the help button in the menubar but Gnome does not.   -->
 
-<!ENTITY aboutProduct.label       "&brandShortName;-ի մասին">
-<!ENTITY aboutProduct.accesskey   "մ">
-<!ENTITY productHelp.label        "&brandShortName;-ի Օգնությունը">
-<!ENTITY productHelp.accesskey    "Օ">
+
+
+
+
 
 
 <!ENTITY helpKeyboardShortcuts.label     "Ստեղնաշարի պիտակներ">
@@ -23,8 +23,7 @@
 <!ENTITY helpSafeMode.label       "Վերագործարկել հավելումներն անջատած…">
 <!ENTITY helpSafeMode.accesskey   "Վ">
 
-<!ENTITY healthReport.label       "&brandShortName;-ի Վիճակի Զեկույցը">
-<!ENTITY healthReport.accesskey   "ճ">
+
 
 <!ENTITY helpTroubleshootingInfo.label      "Անսարքության տեղեկատվությունը">
 <!ENTITY helpTroubleshootingInfo.accesskey  "Ա">
@@ -32,15 +31,13 @@
 <!ENTITY helpFeedbackPage.label      "Ուղարկել արձագանք…">
 <!ENTITY helpFeedbackPage.accesskey  "Ո">
 
-<!ENTITY helpShowTour.label             "Շրջայց &brandShortName;-ի հետ">
-<!ENTITY helpShowTour.accesskey         "ջ">
+
 
 <!ENTITY preferencesCmdMac.label        "Կարգավորումներ…">
 
 
 <!ENTITY servicesMenuMac.label          "Ծառայություններ">
 
-<!ENTITY hideThisAppCmdMac.label        "Թաքցնել &brandShortName;-ը">
 
 
 <!ENTITY hideOtherAppsCmdMac.label      "Թաքցնել Մնացածը">

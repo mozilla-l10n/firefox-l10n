@@ -150,6 +150,8 @@
 
 <!ENTITY fxaccount_create_account_header2 "Ստեղծել Firefox-ի հաշիվ">
 <!ENTITY fxaccount_create_account_password_length_restriction "Պետք է լինի 8 գրանշան">
+
+
 <!ENTITY fxaccount_create_account_year_of_birth "Ծննդյան ամսաթիվ">
 <!-- Localization note: &formatS1; is fxaccount_policy_linktos, &formatS2; is fxaccount_policy_linkprivacy, both hyperlinked. -->
 <!ENTITY fxaccount_create_account_policy_text2 "Շարունակելով՝ ես ընդունում եմ Firefox-ի առցանց ծառայությունների &formatS1; և &formatS2;:">
@@ -191,7 +193,7 @@
 
 <!ENTITY fxaccount_finish_migrating_header "Մուտք գործեք՝ արդիացնելու համար">
 <!ENTITY fxaccount_finish_migrating_button_label "Արդիացում">
-<!ENTITY fxaccount_finish_migrating_description "Արդիացումը կարող է փոխանցել լիքը տվյալներ: Խորհուրդ ենք տալիս օգտագործել WiFi կապ:">
+
 
 <!ENTITY fxaccount_status_header2 "Firefox-ի հաշիվ">
 <!ENTITY fxaccount_status_signed_in_as "Մուտք գործած որպես">
@@ -207,7 +209,6 @@
 <!ENTITY fxaccount_status_needs_upgrade "Մուտք գործելու համար պետք է արդիացնեք &brandShortName;-ը:">
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled "&syncBrand.shortName.label;ը կարգաբերված է, սակայն չի աշխատում: Փոփոխեք \&quot;Auto-sync data\&quot; ցուցիչը Անդրոիդ սարքի կարգավորումենրի &gt; Data Usage-ում:">
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled_v21 "&syncBrand.shortName.label;ը կարգաբերված է, սակայն չի աշխատում: Փոփոխեք \&quot;Auto-sync data\&quot; ցուցիչը Անդրոիդ սարքի կարգավորումների &gt; Հաշիվներում:">
-<!ENTITY fxaccount_status_needs_account_enabled "&syncBrand.shortName.label;ը կարգաբերված է, սակայն չի աշխատում: Դիպչեք՝ սինքը սկսելու համար:">
 <!ENTITY fxaccount_status_needs_finish_migrating "Հպվեք՝ Firefox-ի ձեր նոր հաշիվ մուտք գործելու համար:">
 <!ENTITY fxaccount_status_bookmarks "Էջանիշեր">
 <!ENTITY fxaccount_status_history "Պատմություն">

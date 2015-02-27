@@ -52,6 +52,8 @@
 <!ENTITY cmd.open.accesskey              "Բ">
 <!ENTITY cmd.open_window.label           "Բացել նոր պատուհանում">
 <!ENTITY cmd.open_window.accesskey       "ն">
+
+
 <!ENTITY cmd.open_tab.label              "Բացել նոր ներդիրում">
 <!ENTITY cmd.open_tab.accesskey          "Բ">
 <!ENTITY cmd.open_all_in_tabs.label      "Բացել Բոլորը Ներդիրներում">
