@@ -6,6 +6,8 @@
 <!ENTITY itemAutoComplete.label              "Adressering">
 <!ENTITY itemSpellCheck.label                "Spelling">
 
+<!ENTITY dialogCompose.title                 "Opstellen">
+
 <!ENTITY forwardMsg.label                     "Berichten doorsturen:">
 <!ENTITY forwardMsg.accesskey                 "d">
 <!ENTITY inline.label                         "In het bericht">

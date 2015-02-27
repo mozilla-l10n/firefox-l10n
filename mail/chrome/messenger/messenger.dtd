@@ -145,6 +145,8 @@
 <!ENTITY messagePaneVertical.accesskey "V">
 <!ENTITY showFolderPaneCmd.label "Mappenvenster">
 <!ENTITY showFolderPaneCmd.accesskey "M">
+<!ENTITY showFolderPaneColsCmd.label "Kolommen mappenvenster">
+<!ENTITY showFolderPaneColsCmd.accesskey "o">
 <!ENTITY showMessageCmd.label "Berichtvenster">
 <!ENTITY showMessageCmd.accesskey "e">
 
@@ -593,7 +595,9 @@
 <!ENTITY manageTags.accesskey "L">
 
 <!-- Folder Pane -->
-<!ENTITY folderColumn.label "Naam">
+<!ENTITY folderNameColumn.label "Naam">
+<!ENTITY folderUnreadColumn.label "Ongelezen">
+<!ENTITY folderTotalColumn.label "Totaal">
 <!ENTITY folderSizeColumn.label "Grootte">
 
 <!-- Folder Pane Context Menu -->
