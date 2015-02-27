@@ -93,7 +93,11 @@
   -  is displayed next to a checkbox determining whether or not memory
   -  measurements are enabled. -->
 
+<!ENTITY profilerUI.enableMemory             "កត់ត្រា​អង្គ​ចងចាំ">
+<!ENTITY profilerUI.enableMemory.tooltiptext "កត់ត្រា​ការ​ប្រើប្រាស់​អង្គ​ចងចាំ​ពេល​ធ្វើ​ប្រវត្តិរូប។">
 <!-- LOCALIZATION NOTE (profilerUI.enableFramerate): This string
   -  is displayed next to a checkbox determining whether or not framerate
   -  is recorded. -->
 
+<!ENTITY profilerUI.enableFramerate             "កត់ត្រា​អត្រា​ស៊ុម">
+<!ENTITY profilerUI.enableFramerate.tooltiptext "កត់ត្រា​អត្រា​ស៊ុម​ពេល​ធ្វើ​ប្រវត្តិរូប។">

@@ -41,7 +41,7 @@
 <!ENTITY runtimeMenu_showMonitor_accesskey "M">
 <!ENTITY runtimeMenu_showDevicePrefs_label "ចំណូលចិត្ត​ឧបករណ៍">
 <!ENTITY runtimeMenu_showDevicePrefs_accesskey "D">
-
+<!ENTITY runtimeMenu_showSettings_label "ការ​កំណត់​ឧបករណ៍">
 <!ENTITY runtimeMenu_showSettings_accesskey "s">
 
 <!ENTITY viewMenu_label "មើល">
@@ -179,13 +179,16 @@
      that instructs the user to transfer an authentication token to the
      server. -->
 
-<!ENTITY wifi_auth_header "ការ​កំណត់​អត្តសញ្ញាណ​ម៉ាស៊ីន​កូន">
+<!ENTITY wifi_auth_header "ការ​បញ្ជាក់​អត្តសញ្ញាណម៉ាស៊ីន​កូន">
 <!-- LOCALIZATION NOTE (wifi_auth_scan_request): Instructions requesting the
      user to transfer authentication info by scanning a QR code. -->
+<!ENTITY wifi_auth_scan_request "ចំណុច​ចុង​ដែល​អ្នក​កំពុង​តភ្ជាប់​ទៅ ទាមទារ​ព័ត៌មាន​បន្ថែម​ដើម្បី​ផ្ទៀងផ្ទាត់​ការ​តភ្ជាប់​នេះ។  សូម​ស្កេន​លេខ​កូដ QR ខាងក្រោម​តាមរយៈ​ប្រអប់​បញ្ចូល​នៅ​លើ​ឧបករណ៍​ផ្សេង​របស់​អ្នក។">
 <!-- LOCALIZATION NOTE (wifi_auth_no_scanner): Link text to assist users with
      devices that can't scan a QR code. -->
+<!ENTITY wifi_auth_no_scanner "មិន​មាន​ប្រអប់​បញ្ចូល​ម៉ាស៊ីន​ស្កេន QR ?">
 <!-- LOCALIZATION NOTE (wifi_auth_yes_scanner): Link text to assist users with
      devices that can scan a QR code. -->
+<!ENTITY wifi_auth_yes_scanner "មាន​ប្រអប់​បញ្ចូល​ម៉ាស៊ីន​ស្កេន QR ?">
 <!-- LOCALIZATION NOTE (wifi_auth_token_request): Instructions requesting the
      user to transfer authentication info by transferring a token. -->
 <!-- Logs panel -->

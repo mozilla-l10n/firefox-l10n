@@ -44,6 +44,10 @@
 <!ENTITY webAudioEditorUI.propertiesEmpty "Node មិន​មាន​លក្ខណៈ​សម្បត្តិ​មួយ​ចំនួន។">
 <!-- LOCALIZATION NOTE (webAudioEditorUI.automationEmpty): This is the title for the
   -  AudioNode inspector view automation tab empty message. -->
+
+<!ENTITY webAudioEditorUI.automationEmpty "ថ្នាំង​មិន​មាន AudioParams ។">
 <!-- LOCALIZATION NOTE (webAudioEditorUI.automationNoEvents): This is the title for the
   -  AudioNode inspector view automation tab message when there are no automation
   -  events. -->
+
+<!ENTITY webAudioEditorUI.automationNoEvents "AudioParam មិន​មាន​ព្រឹត្តិការណ៍​ស្វ័យប្រវត្តិ។">
