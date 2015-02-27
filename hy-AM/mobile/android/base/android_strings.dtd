@@ -6,7 +6,8 @@
 <!ENTITY  no_space_to_start_error "&brandShortName;-ը սկսելու համար բավարար ազատ տեղ չկա։">
 <!ENTITY  error_loading_file "Սխալ՝ &brandShortName;-ը բացելու համար պահանջվող ֆայլերը բեռնելիս">
 
-
+<!ENTITY  onboard_start_message2 "Բարի գալուստ &brandShortName;">
+<!ENTITY  onboard_start_subtext2 "Ավելի անվտանգ և կազմաձևելի, քան երբևէ:">
 <!ENTITY  onboard_start_button_account "Մուտք գործել &brandShortName;">
 <!ENTITY  onboard_start_button_browser "Սկսել">
 <!-- Localization note: These are used as the titles of different pages on the home screen.
@@ -111,7 +112,7 @@
 
 <!ENTITY overlay_share_send_tab_btn_label "Ուղարկել այլ սարքի">
 <!ENTITY overlay_share_no_url "Որևէ հղում չկա">
-
+<!ENTITY overlay_share_retry "Կրկին փորձել">
 <!ENTITY overlay_share_select_device "Ընտրեք սարքը">
 
 <!ENTITY pref_category_search3 "Փնտրել">
@@ -212,8 +213,8 @@ size. -->
 
 <!ENTITY pref_media_autoplay_enabled "Թույլատրել ինքնախաղարկումը">
 <!ENTITY pref_media_autoplay_enabled_summary "Վերահսկել, եթե կայքերը փորձեն ինքնախաղարկել տեսանյութեր և այլ մեդիա">
-
-
+<!ENTITY pref_zoom_force_enabled "Մշտապես միացնել դիտափոխումը">
+<!ENTITY pref_zoom_force_enabled_summary "Շրջանցել վրագրումը՝ ցանացած էջ դիտափոխելու համար">
 
 <!ENTITY pref_use_master_password "Օգտ. Հիմնական գաղտնաբառ">
 <!ENTITY pref_sync "Սինք">
@@ -270,7 +271,7 @@ size. -->
      (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
 <!ENTITY datareporting_crashreporter_title_short "Վթարի Զեկույց">
 <!ENTITY datareporting_wifi_title2 "&vendorShortName;-ի տեղադրության ծառայությունը">
-
+<!ENTITY datareporting_wifi_geolocation_summary3 "Օգնեք &vendorShortName;-ին աշխարհի քարտեզը գծելու գործում: Տարածեք ձեր սարքի Wi-Fi և բջջային տեղադրությունը՝ լավարկելու համար տեղորոշման ծառայությունը:">
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
      actual notification that an update is available. -->
@@ -561,9 +562,11 @@ Android-ից">
 <!ENTITY actionbar_done "Պատրաստ է">
 <!-- Voice search in the awesome bar -->
 
-
-
-
+<!ENTITY voicesearch_prompt "Խոսել">
+<!ENTITY voicesearch_failed_title "&brandShortName;-ի ձայնային որոնում">
+<!ENTITY voicesearch_failed_message "Խնդիրը կապված է ձայնային որոնման հետ: Փորձեք ավելի ուշ:">
+<!ENTITY voicesearch_failed_message_recoverable "Ցավոք, հնարավոր չեղավ ճանաչել ձեր արտասանած բառերը: Կրկին փորձեք:">
+<!ENTITY voicesearch_failed_retry "Կրկին փորձել">
 <!-- Localization note (remote_tabs_last_synced): the variable is replaced by a
      "relative time span string" produced by Android.  This string describes the
      time the tabs were last synced relative to the current time; examples
@@ -573,6 +576,7 @@ Android-ից">
 
 <!ENTITY remote_tabs_last_synced "Վերջին Սինքը. &formatS;">
 <!-- Localization note: Used when the sync has not happend yet, showed in place of a date -->
+<!ENTITY remote_tabs_never_synced "Վերջին սինքը. երբեք">
 <!-- Find-In-Page strings -->
 <!-- LOCALIZATION NOTE (find_matchcase): This is meant to appear as an icon that changes color
      if match-case is activated. i.e. No more than two letters, one uppercase, one lowercase. -->

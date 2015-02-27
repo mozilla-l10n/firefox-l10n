@@ -150,8 +150,8 @@
 
 <!ENTITY fxaccount_create_account_header2 "Ստեղծել Firefox-ի հաշիվ">
 <!ENTITY fxaccount_create_account_password_length_restriction "Պետք է լինի 8 գրանշան">
-
-
+<!ENTITY fxaccount_create_account_day_of_birth "Օր">
+<!ENTITY fxaccount_create_account_month_of_birth "Ամիս">
 <!ENTITY fxaccount_create_account_year_of_birth "Ծննդյան ամսաթիվ">
 <!-- Localization note: &formatS1; is fxaccount_policy_linktos, &formatS2; is fxaccount_policy_linkprivacy, both hyperlinked. -->
 <!ENTITY fxaccount_create_account_policy_text2 "Շարունակելով՝ ես ընդունում եմ Firefox-ի առցանց ծառայությունների &formatS1; և &formatS2;:">
@@ -193,7 +193,7 @@
 
 <!ENTITY fxaccount_finish_migrating_header "Մուտք գործեք՝ արդիացնելու համար">
 <!ENTITY fxaccount_finish_migrating_button_label "Արդիացում">
-
+<!ENTITY fxaccount_finish_migrating_description "Արդիացումը կարող է փոխանցել լիքը տվյալներ: Խորհուրդ ենք տալիս օգտագործել Wi-Fi կապ:">
 
 <!ENTITY fxaccount_status_header2 "Firefox-ի հաշիվ">
 <!ENTITY fxaccount_status_signed_in_as "Մուտք գործած որպես">
