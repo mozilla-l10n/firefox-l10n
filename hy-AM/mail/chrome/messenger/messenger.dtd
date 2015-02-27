@@ -145,8 +145,8 @@
 <!ENTITY messagePaneVertical.accesskey "V">
 <!ENTITY showFolderPaneCmd.label "Թղթապանակի պ-ը">
 <!ENTITY showFolderPaneCmd.accesskey "Թ">
-
-
+<!ENTITY showFolderPaneColsCmd.label "Թղթապանակի վահանակի սյուներ">
+<!ENTITY showFolderPaneColsCmd.accesskey "վ">
 <!ENTITY showMessageCmd.label "Նամակի վահանակը">
 <!ENTITY showMessageCmd.accesskey "M">
 
@@ -596,8 +596,8 @@
 <!-- Folder Pane -->
 
 <!ENTITY folderNameColumn.label "Անուն">
-
-
+<!ENTITY folderUnreadColumn.label "Չընթերցված">
+<!ENTITY folderTotalColumn.label "Ընդամենը">
 <!ENTITY folderSizeColumn.label "Չափը">
 <!-- Folder Pane Context Menu -->
 
@@ -666,8 +666,8 @@
 <!ENTITY statusColumn.label "Վիճակը">
 <!ENTITY sizeColumn.label "Չափը">
 <!ENTITY junkStatusColumn.label "Թափոնի վիճակը">
-
-
+<!ENTITY unreadColumn.label "Չընթերցված">
+<!ENTITY totalColumn.label "Ընդամենը">
 <!ENTITY readColumn.label "Ընթերցել">
 <!ENTITY receivedColumn.label "Ստացման">
 <!ENTITY starredColumn.label "Աստղիկով">

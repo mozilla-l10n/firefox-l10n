@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY itemGeneral.label       "Ընդհանուր">
-
+<!ENTITY dataChoicesTab.label    "Ընտրել տվյալները">
 <!ENTITY itemDisplay.label       "Ընթերցումը &amp; Ցուցադրումը">
 <!ENTITY itemUpdate.label        "Թարմացնել">
 <!ENTITY itemNetworking.label    "Ցանցը &amp; Ազատ տեղը">
@@ -12,12 +12,12 @@
 
 <!ENTITY enableGlodaSearch.label       "Միացնել Ընդհանուր Որոնումը և Ինդեքսավորումը">
 <!ENTITY enableGlodaSearch.accesskey   "Մ">
+<!ENTITY allowHWAccel.label            "Հնարավորության դեպքում օգտագործել սարքակազմի արագացում">
+<!ENTITY allowHWAccel.accesskey        "ս">
 
 
-
-
-
-
+<!ENTITY mboxStore.label               "Մեկ մեծ ֆայլ (mbox)">
+<!ENTITY maildirStore.label            "Ֆայլ ամեն նամակի համար (maildir)">
 
 <!ENTITY scrolling.label               "Թերթումը">
 <!ENTITY useAutoScroll.label           "Օգտագործել ինքնավար թերթում">
@@ -40,14 +40,17 @@
 <!ENTITY showReturnReceipts.accesskey  "R">
 <!-- Data Choices -->
 
+<!ENTITY telemetrySection.label          "Telemetry">
+<!ENTITY telemetryDesc.label             "Տարածում է արագագործության, օգտագործման, սարքակազմի և ձեր դիտարկիչի կարգավորումները &vendorShortName;-ի հետ՝ &brandShortName;-ը էլ ավելի լավարկելու համար">
+<!ENTITY enableTelemetry.label           "Միացնել Telemetry-ին">
+<!ENTITY enableTelemetry.accesskey       "T">
+<!ENTITY telemetryLearnMore.label        "Իմանալ ավելին">
 
-
-
-
-
-
-
-
+<!ENTITY crashReporterSection.label      "Վթարի Զեկուցիչ">
+<!ENTITY crashReporterDesc.label         "&brandShortName;-ը ուղարկում է Վթարների Զեկույց՝ օգնելու համար դարձնել &vendorShortName;-ը էլ ավելի կայուն և անվտանգ">
+<!ENTITY enableCrashReporter.label       "Միացնել Վթարների Զեկույցը">
+<!ENTITY enableCrashReporter.accesskey   "Վ">
+<!ENTITY crashReporterLearnMore.label    "Իմանալ ավելին">
 <!-- Display and Reading Settings -->
 
 <!ENTITY reading.caption               "Ընթերցում">
@@ -121,7 +124,7 @@
 
 <!ENTITY certSelection.description       "Երբ սպասարկիչը պահանջում է հավաստագիր.">
 <!ENTITY certs.auto                      "Ընտրել որևէ մեկը">
-
+<!ENTITY certs.auto.accesskey            "S">
 <!ENTITY certs.ask                       "Ամեն անգամ հարցնել">
 <!ENTITY certs.ask.accesskey             "A">
 

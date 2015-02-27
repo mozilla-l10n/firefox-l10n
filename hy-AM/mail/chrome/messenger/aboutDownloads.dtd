@@ -3,18 +3,19 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY aboutDownloads.title                      "Պահպանված ֆայլեր">
-
+<!ENTITY aboutDownloads.empty                      "Չկան պահպանված ֆայլեր">
 <!-- LOCALIZATION NOTE (cmd.show.label, cmd.show.accesskey, cmd.showMac.label,
      cmd.showMac.accesskey):
      The show and showMac commands are never shown together, thus they can share
      the same access key (though the two access keys can also be different).
      -->
-
-
-
+<!ENTITY cmd.show.label                            "Բացել թղթապանակը">
+<!ENTITY cmd.show.accesskey                        "թ">
+<!ENTITY cmd.showMac.label                         "Ցուցադրել Finder-ում">
+<!ENTITY cmd.showMac.accesskey                     "F">
 <!ENTITY cmd.open.label                            "Բացել">
 <!ENTITY cmd.open.accesskey                        "O">
-
-
-
-
+<!ENTITY cmd.removeFromHistory.label               "Ջնջել Պատմությունից">
+<!ENTITY cmd.removeFromHistory.accesskey           "ն">
+<!ENTITY cmd.clearDownloads.label                  "Մաքրել բեռնումները">
+<!ENTITY cmd.clearDownloads.accesskey              "բ">

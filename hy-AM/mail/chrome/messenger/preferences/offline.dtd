@@ -4,12 +4,13 @@
 
 <!ENTITY offlineDialog.title "Անցանց կարգավորումներ">
 
-
-
+<!ENTITY checkAutoDetect.label "Միանգամից հետևել հայտնաբերված առցանց վիճակին">
+<!ENTITY checkAutoDetect.accesskey "հ">
+<!ENTITY titleStartUp "Ձեռքով վիճակ՝ մեկնարկի ժամանակ.">
 <!ENTITY radioRememberPrevState.label "Հիշել նախորդ առցանց վիճակը">
 <!ENTITY radioRememberPrevState.accesskey "R">
-
-
+<!ENTITY radioAskState.label "Հարցնել առցանց վիճակը">
+<!ENTITY radioAskState.accesskey "ց">
 <!ENTITY radioAlwaysOnlineState.label "Առցանց">
 <!ENTITY radioAlwaysOnlineState.accesskey "ց">
 <!ENTITY radioAlwaysOffline.label "Անցանց">
