@@ -2,18 +2,18 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY aboutSupport.appBasicsAppBuildID "Uygulama Yapı No">
+<!ENTITY aboutSupport.appBasicsAppBuildID "Uygulama Yapı Kimliği">
 
 <!ENTITY aboutSupport.accountsTitle "Posta ve Haber Hesapları">
 <!ENTITY aboutSupport.showPrivateData.mainText "Hesap isimlerini dâhil et">
 <!ENTITY aboutSupport.showPrivateData.explanationText "(bu bilgiler kimliğinizi ortaya çıkarabilir)">
 <!ENTITY aboutSupport.accountsID "Kimlik">
-<!ENTITY aboutSupport.accountsName "İsim">
+<!ENTITY aboutSupport.accountsName "Ad">
 <!ENTITY aboutSupport.accountsIncomingServer "Gelen sunucusu">
 <!ENTITY aboutSupport.accountsOutgoingServers "Giden sunucuları">
-<!ENTITY aboutSupport.accountsServerName "İsim">
+<!ENTITY aboutSupport.accountsServerName "Ad">
 <!ENTITY aboutSupport.accountsConnSecurity "Bağlantı güvenliği">
 <!ENTITY aboutSupport.accountsAuthMethod "Yetkilendirme yöntemi">
-<!ENTITY aboutSupport.accountsDefault "Varsayılan?">
+<!ENTITY aboutSupport.accountsDefault "Varsayılan mı?">
 
 <!ENTITY aboutSupport.sendViaEmail.label "E-posta ile gönder">

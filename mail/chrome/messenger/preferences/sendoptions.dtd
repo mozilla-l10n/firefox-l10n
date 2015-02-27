@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY dialog.title                 "Gönderme Seçenekleri">
-<!ENTITY sendMail.title               "Metin biçimi">
+<!ENTITY sendMail.title               "Metin Biçimi">
 <!ENTITY sendMaildesc.label           "İletiyi HTML biçiminde gönderirken ve alıcılardan biri veya daha fazlası HTML ileti alamıyorken:">
 <!ENTITY askMe.label                  "Ne yapılacağını bana sor">
 <!ENTITY askMe.accesskey              "N">
@@ -13,12 +13,12 @@
 <!ENTITY sendHTML.accesskey           "o">
 <!ENTITY sendBoth.label               "İletiyi hem düz metin hem de HTML olarak gönder">
 <!ENTITY sendBoth.accesskey           "e">
-<!ENTITY override.label               "Not: Alıcılara özel metin biçimlerini ayarlamak için adres defterini kullanın.">
+<!ENTITY override.label               "Not: Alıcılara özel metin biçimlerini ayarlamak için Adres Defteri'ni kullanın.">
 
-<!ENTITY domaindesc.label             "İçinde aşağıdaki alan adlarından biri geçen bir adrese ileti gönderdiğinizde, &brandShortName; bunu otomatik olarak doğru biçimde gönderir. ">
-<!ENTITY HTMLTab.label                "HTML alan adları">
+<!ENTITY domaindesc.label             "İçinde aşağıdaki alan adlarından biri geçen bir adrese ileti gönderirken, &brandShortName; bunu otomatik olarak doğru biçimde gönderir. ">
+<!ENTITY HTMLTab.label                "HTML Alan Adları">
 <!ENTITY HTMLTab.accesskey            "H">
-<!ENTITY PlainTextTab.label           "Düz metin alan adları">
+<!ENTITY PlainTextTab.label           "Düz Metin Alan Adları">
 <!ENTITY PlainTextTab.accesskey       "z">
 <!ENTITY AddHtmlDomain.label          "Ekle…">
 <!ENTITY AddHtmlDomain.accesskey      "E">
@@ -29,7 +29,7 @@
 <!ENTITY DeletePlainText.label        "Sil">
 <!ENTITY DeletePlainText.accesskey    "S">
 
-<!ENTITY add.htmltitle                "HTML alan adı ekle">
-<!ENTITY add.htmldomain               "HTML alan adı:">
-<!ENTITY add.plaintexttitle           "Düz metin alan adı ekle">
-<!ENTITY add.plaintextdomain          "Düz metin alan adı:">
+<!ENTITY add.htmltitle                "HTML Alan Adı Ekle">
+<!ENTITY add.htmldomain               "HTML Alan Adı:">
+<!ENTITY add.plaintexttitle           "Düz Metin Alan Adı Ekle">
+<!ENTITY add.plaintextdomain          "Düz Metin Alan Adı:">

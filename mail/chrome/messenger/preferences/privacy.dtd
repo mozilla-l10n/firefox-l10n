@@ -3,24 +3,24 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!-- Mail Content -->
 
-<!ENTITY captionMailContent.label "E-posta içeriği">
+<!ENTITY captionMailContent.label "E-Posta İçeriği">
 
 <!ENTITY acceptRemoteContent.label "İletilerde uzaktan çekilen içeriğe izin ver">
 <!ENTITY acceptRemoteContent.accesskey "u">
 <!ENTITY remoteContentExceptions.label "Ayrıcalıklar…">
 <!ENTITY remoteContentExceptions.accesskey "c">
-<!ENTITY acceptRemoteContentInfo.label "Uzaktan içeriklerin gizlilik sorunları hakkında bilgi alın">
+<!ENTITY acceptRemoteContentInfo.label "Uzaktan içeriklerin gizlilik sorunları hakkında daha fazla bilgi alın">
 <!-- Web Content -->
 
-<!ENTITY captionWebContent.label "Web içeriği">
+<!ENTITY captionWebContent.label "Web İçeriği">
 
-<!ENTITY keepHistory.label "Ziyaret ettiğim web sitelerini ve bağlantıları hatırla">
+<!ENTITY keepHistory.label "Ziyaret ettiğim Web sitelerini ve bağlantıları hatırla">
 <!ENTITY keepHistory.accesskey "h">
 <!ENTITY acceptCookies.label "Sitelerden çerez kabul et">
 <!ENTITY acceptCookies.accesskey "k">
 <!ENTITY acceptThirdParty.pre.label "Üçüncü taraf çerezlerini kabul et:">
 <!ENTITY acceptThirdParty.pre.accesskey "c">
-<!ENTITY acceptThirdParty.always.label "Her zaman">
+<!ENTITY acceptThirdParty.always.label "Her Zaman">
 <!ENTITY acceptThirdParty.never.label "Asla">
 <!ENTITY acceptThirdParty.visited.label "Ziyaret edilenlerden">
 <!ENTITY keepUntil.label "Tutma sınırı:">
@@ -30,9 +30,9 @@
 <!ENTITY askEachTime.label "her seferinde bana sor">
 <!ENTITY cookieExceptions.label "Ayrıcalıklar…">
 <!ENTITY cookieExceptions.accesskey "A">
-<!ENTITY showCookies.label "Çerezleri göster…">
+<!ENTITY showCookies.label "Çerezleri Göster…">
 <!ENTITY showCookies.accesskey "z">
 
 <!ENTITY dntTrackingNotOkay.label2 "Sitelere izlenmek istemediğimi söyle">
 <!ENTITY dntTrackingNotOkay.accesskey "n">
-<!ENTITY doNotTrackInfo.label "Beni İzleme hakkında bilgi alın">
+<!ENTITY doNotTrackInfo.label "Beni İzleme hakkında daha fazla bilgi alın">

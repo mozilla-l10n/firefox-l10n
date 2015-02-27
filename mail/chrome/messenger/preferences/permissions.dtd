@@ -17,7 +17,7 @@
 <!ENTITY block.accesskey              "g">
 <!ENTITY session.label                "Oturum Boyunca İzin Ver">
 <!ENTITY session.accesskey            "r">
-<!ENTITY allow.label                  "İzin ver">
+<!ENTITY allow.label                  "İzin Ver">
 <!ENTITY allow.accesskey              "e">
 <!ENTITY windowClose.key              "w">
 

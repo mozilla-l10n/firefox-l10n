@@ -3,17 +3,17 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY autoconfigWizard.title          "Posta Hesabı Kurulumu">
-<!ENTITY name.label                      "İsminiz:">
-<!ENTITY name.accesskey                  "m">
-<!ENTITY name.placeholder                "Adı Soyadı">
-<!ENTITY name.text                       "Başkalarına gösterilecek isim">
+<!ENTITY name.label                      "Adınız:">
+<!ENTITY name.accesskey                  "A">
+<!ENTITY name.placeholder                "Ad Soyad">
+<!ENTITY name.text                       "Başkalarına gösterilecek adınız">
 <!ENTITY email.label                     "E-posta adresi:">
 <!ENTITY email.accesskey                 "p">
 <!ENTITY email.placeholder               "eposta@siteadresi.com">
 <!ENTITY password.label                  "Parola:">
 <!ENTITY password.accesskey              "P">
 <!ENTITY password.placeholder            "Parola">
-<!ENTITY password.text                   "İsteğe bağlı, sadece kullanıcı adını doğrulamada kullanılacak">
+<!ENTITY password.text                   "İsteğe bağlı; sadece kullanıcı adını doğrulamada kullanılacak">
 <!ENTITY rememberPassword.label          "Parolayı hatırla">
 <!ENTITY rememberPassword.accesskey      "h">
 
@@ -41,7 +41,7 @@
 <!ENTITY advancedSetup.accesskey         "G">
 <!ENTITY cancel.label                    "Vazgeç">
 <!ENTITY cancel.accesskey                "z">
-<!ENTITY continue.label                  "İleri">
+<!ENTITY continue.label                  "İlerle">
 <!ENTITY continue.accesskey              "l">
 <!ENTITY stop.label                      "Dur">
 <!ENTITY stop.accesskey                  "D">
@@ -49,18 +49,18 @@
      displayed on the button in manual edit mode which will re-guess
      the account configuration, taking into account the settings that
      the user has manually changed. -->
-<!ENTITY half-manual-test.label          "Tekrar dene">
-<!ENTITY half-manual-test.accesskey      "d">
+<!ENTITY half-manual-test.label          "Tekrar sına">
+<!ENTITY half-manual-test.accesskey      "s">
 <!ENTITY manual-edit.label               "Elle yapılandırma">
 <!ENTITY manual-edit.accesskey           "E">
-<!ENTITY switch-to-provisioner.label     "Yeni hesap al">
+<!ENTITY switch-to-provisioner.label     "Yeni hesap aç">
 <!ENTITY switch-to-provisioner.accesskey "Y">
 
 
 <!ENTITY warning.label                   "Uyarı!">
 <!ENTITY incomingSettings.label          "Gelen posta ayarları:">
 <!ENTITY outgoingSettings.label          "Giden posta ayarları:">
-<!ENTITY technicaldetails.label          "Teknik ayrıntılar">
+<!ENTITY technicaldetails.label          "Teknik Ayrıntılar">
 <!-- LOCALIZATION NOTE (confirmWarning.label): If there is a security
      warning on the outgoing server, then the user will need to check a
      checkbox beside this text before continuing. -->
@@ -75,14 +75,14 @@
      the incoming or outgoing servers, then the page that pops up will have
      this text in a button to take you back to the previous page to change
      the settings and try again. -->
-<!ENTITY changeSettings.label            "Ayarları değiştir">
+<!ENTITY changeSettings.label            "Ayarları Değiştir">
 <!ENTITY changeSettings.accesskey        "A">
 
-<!ENTITY contactYourProvider.description "&brandShortName; mevcut yapılandırmayı kullanarak e-postalarınızı almanıza olanak tanıyabilir; ancak, bu bağlantılarla ilgili olarak bilgi işlem yetkilinizle veya e-posta sağlayıcınızla iletişime geçmenizi öneririz. Daha fazla bilgi için Thunderbird S.S.S.'ye bakın.">
+<!ENTITY contactYourProvider.description "&brandShortName; mevcut yapılandırmayı kullanarak e-postalarınızı almanıza olanak tanıyabilir; ancak, düzgün olmayan bağlantılarla ilgili sistem yöneticisiyle veya e-posta sağlayıcınızla iletişime geçmelisiniz. Daha fazla bilgi için Thunderbird SSS'ye bakın.">
 
-<!ENTITY insecureServer.tooltip.title    "Uyarı! Bu, güvensiz bir sunucudur.">
-<!ENTITY insecureServer.tooltip.details  "Ayrıntılar için çembere tıklayın.">
+<!ENTITY insecureServer.tooltip.title    "Uyarı! Bu, güvensiz bir sunucu.">
+<!ENTITY insecureServer.tooltip.details  "Daha fazla ayrıntı için çembere tıklayın.">
 
-<!ENTITY insecureUnencrypted.description "E-postanız ve yetkilendirme bilgileriniz şifrelenmemiş olarak gönderiliyor, bu yüzden parolanız (ve iletiniz) kolaylıkla başkaları tarafından okunabilir. &brandShortName; e-postalarınıza erişmenize izin verecektir, ama daha güvenli bir bağlantı yapılandırması için e-posta sağlayıcınızla iletişime geçmelisiniz.">
-<!ENTITY insecureSelfSigned.description  "Bu sunucu güvenilir olmayan bir sertifika kullanıyor, bu yüzden &brandShortName; ile sunucunuz arasından trafiğinden dinlenmediğinden emin olamıyoruz. &brandShortName; e-postalarınıza erişmenize izin verecektir, ama sunucunuzun güvenilir bir sertifika ile yapılandırması için e-posta sağlayıcınızla iletişime geçmelisiniz.">
-<!ENTITY secureServer.description        "Tebrikler! Bu sunucu güvenli.">
+<!ENTITY insecureUnencrypted.description "E-postanız ve yetkilendirme bilgileriniz şifrelenmeden gönderiliyor, bu yüzden parolanız (ve iletiniz) kolaylıkla başkaları tarafından okunabilir. &brandShortName; e-postalarınıza erişmenizi sağlayacak, ama güvenli bir bağlantı yapılandırması için e-posta sağlayıcınızla iletişime geçmelisiniz.">
+<!ENTITY insecureSelfSigned.description  "Bu sunucu güvenilir olmayan bir sertifika kullanıyor, bu yüzden &brandShortName; ile sunucunuz arasındaki trafiği izlemediğinden emin olamıyoruz. &brandShortName; e-postalarınıza erişmenizi sağlayacak, ama gerçekten sunucunuzun güvenilir bir sertifika ile yapılandırması için e-posta sağlayıcınızla iletişime geçmelisiniz.">
+<!ENTITY secureServer.description        "Tebrikler! Bu güvenli bir sunucu.">

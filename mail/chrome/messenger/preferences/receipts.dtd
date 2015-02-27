@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY dialog.title                  "Alındı onayları">
+<!ENTITY dialog.title                  "Alındı Onayları">
 <!ENTITY requestReceipt.label          "Her ileti gönderiminde alındı onayı iste">
 <!ENTITY requestReceipt.accesskey      "H">
 <!ENTITY receiptArrive.label           "Alındı onayı gelince:">
@@ -15,7 +15,7 @@
 <!ENTITY never.accesskey               "A">
 <!ENTITY returnSome.label              "Bazı iletiler için alındı onayına izin ver">
 <!ENTITY returnSome.accesskey          "r">
-<!ENTITY notInToCc.label               "Adresim 'Kime' veya Cc satırında değilse:">
+<!ENTITY notInToCc.label               "Adresim Kime veya Bilgi satırında değilse:">
 <!ENTITY notInToCc.accesskey           "n">
 <!ENTITY outsideDomain.label           "Gönderenle aynı alan adından değilsem:">
 <!ENTITY outsideDomain.accesskey       "m">

@@ -3,18 +3,19 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY aboutDownloads.title                      "Kaydedilen Dosyalar">
-
+<!ENTITY aboutDownloads.empty                      "Kaydedilen Dosya Yok">
 <!-- LOCALIZATION NOTE (cmd.show.label, cmd.show.accesskey, cmd.showMac.label,
      cmd.showMac.accesskey):
      The show and showMac commands are never shown together, thus they can share
      the same access key (though the two access keys can also be different).
      -->
-
+<!ENTITY cmd.show.label                            "Bulunduğu Dizini Aç">
+<!ENTITY cmd.show.accesskey                        "A">
 <!ENTITY cmd.showMac.label                         "Finder'da Göster">
 <!ENTITY cmd.showMac.accesskey                     "F">
 <!ENTITY cmd.open.label                            "Aç">
 <!ENTITY cmd.open.accesskey                        "A">
-<!ENTITY cmd.removeFromHistory.label               "Geçmişten Sil">
+<!ENTITY cmd.removeFromHistory.label               "Geçmişten Kaldır">
 <!ENTITY cmd.removeFromHistory.accesskey           "e">
 <!ENTITY cmd.clearDownloads.label                  "İndirilenleri Temizle">
 <!ENTITY cmd.clearDownloads.accesskey              "T">
