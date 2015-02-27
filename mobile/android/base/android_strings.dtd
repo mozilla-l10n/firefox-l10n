@@ -6,8 +6,8 @@
 <!ENTITY  no_space_to_start_error "Nepietiek brīvās vietas, lai palaistu &brandShortName;.">
 <!ENTITY  error_loading_file "Ielādējot &brandShortName; palaišanai nepieciešamos failus, notikusi kļūda">
 
-<!ENTITY  onboard_start_message "Laipni lūgti &brandShortName;!">
-<!ENTITY  onboard_start_subtext "Rūpēs par jūsu privātumu un Interneta atvērtību">
+<!ENTITY  onboard_start_message2 "Laipni lūgti &brandShortName;">
+<!ENTITY  onboard_start_subtext2 "Vairāk privātuma un pielāgošanas iespēju kā jebkad agrāk.">
 <!ENTITY  onboard_start_button_account "Pierakstīties &brandShortName;">
 <!ENTITY  onboard_start_button_browser "Sākt pārlūkošanu">
 <!-- Localization note: These are used as the titles of different pages on the home screen.
@@ -115,7 +115,7 @@
 <!ENTITY overlay_share_retry "Mēģināt vēlreiz">
 <!ENTITY overlay_share_select_device "Izvēlieties ierīci">
 
-<!ENTITY pref_category_search3 "Meklēšana">
+<!ENTITY pref_category_search3 "Meklēt">
 <!ENTITY pref_category_search_summary "Pielāgot meklētājus">
 <!ENTITY pref_category_display "Attēlošana">
 <!ENTITY pref_category_display_summary "Teksts, virsraksta josla, pilnekrāna pārlūkošana">
@@ -168,7 +168,7 @@
 <!ENTITY pref_header_devtools "Izstrādātāju rīki">
 
 <!ENTITY pref_cookies_menu "Sīkdatnes">
-<!ENTITY pref_cookies_accept_all "Aktivētas">
+<!ENTITY pref_cookies_accept_all "Aktivizēts">
 <!ENTITY pref_cookies_not_accept_foreign "Aktivētas, izņemot 3. pušu">
 <!ENTITY pref_cookies_disabled "Deaktivētas">
 
@@ -186,9 +186,9 @@
 <!ENTITY pref_clear_on_exit_summary2 "&brandShortName; automātiski notīrīs jūsu datus, katru reizi, kad izvēlēsieties \u0022Iziet\u0022 no galvenās izvēlnes">
 <!ENTITY pref_clear_on_exit_dialog_title "Izvēlieties, kādus datus notīrīt">
 <!ENTITY pref_plugins "Spraudņi">
-<!ENTITY pref_plugins_enabled "Aktivēti">
+<!ENTITY pref_plugins_enabled "Aktivizēts">
 <!ENTITY pref_plugins_tap_to_play "Pieskarties, lai atskaņotu">
-<!ENTITY pref_plugins_disabled "Deaktivēti">
+<!ENTITY pref_plugins_disabled "Deaktivētas">
 <!ENTITY pref_text_size "Teksta izmērs">
 <!ENTITY pref_reflow_on_zoom4 "Teksta pārlāde">
 <!ENTITY pref_restore "Cilnes">
@@ -213,6 +213,8 @@ size. -->
 
 <!ENTITY pref_media_autoplay_enabled "Atļaut video palaišanu">
 <!ENTITY pref_media_autoplay_enabled_summary "Vai ļaut mājas lapām automātiski palaist video un citu mēdiju saturu">
+<!ENTITY pref_zoom_force_enabled "Vienmēr aktivēt palielinājumu">
+<!ENTITY pref_zoom_force_enabled_summary "Piespiedu režīms, lai varētu palielināt jebkuru lapu">
 
 <!ENTITY pref_use_master_password "Izmantot galveno paroli">
 <!ENTITY pref_sync "Sinhronizēšana">
@@ -269,7 +271,7 @@ size. -->
      (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
 <!ENTITY datareporting_crashreporter_title_short "Avārijas ziņojums">
 <!ENTITY datareporting_wifi_title2 "&vendorShortName; atrašanās vietas">
-<!ENTITY datareporting_wifi_geolocation_summary2 "Lai uzlabotu ģeolokācijas pakalpojumu, sūta aptuvenus datus par Wi-Fi un mobilo sakaru torņiem &vendorShortName;">
+<!ENTITY datareporting_wifi_geolocation_summary3 "Palīdzi &vendorShortName; izveidot pasaules karti! Dalies ar aptuvenām Wi-Fi un mobilo sakaru torņu datiem, lai mēs varētu uzlabot savu ģeolokācijas sistēmu">
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
      actual notification that an update is available. -->
@@ -319,7 +321,7 @@ size. -->
 <!ENTITY media_sending_to "Sending to Device">
 <!ENTITY media_play "Play">
 <!ENTITY media_pause "Pause">
-<!ENTITY media_stop "Stop">
+<!ENTITY media_stop "Apturēt">
 
 <!ENTITY contextmenu_open_new_tab "Atvērt jaunā cilnē">
 <!ENTITY contextmenu_open_private_tab "Atvērt privātā cilnē">
@@ -550,14 +552,19 @@ no Android">
      designated space. Use the unicode ellipsis char, \u2026, or use "..." if \u2026 doesn't suit
      traditions in your locale. -->
 
-<!ENTITY ellipsis "…">
-
 <!ENTITY colon ":">
 <!-- These are only used for accessibility for the done and overflow-menu buttons in the actionbar.
      They are never shown to users -->
 
 <!ENTITY actionbar_menu "Izvēlne">
 <!ENTITY actionbar_done "Darīts">
+<!-- Voice search in the awesome bar -->
+
+<!ENTITY voicesearch_prompt "Runājiet">
+<!ENTITY voicesearch_failed_title "&brandShortName; balss meklēšana">
+<!ENTITY voicesearch_failed_message "Radusies problēma ar balss meklēšanu. Lūdzu mēģiniet vēlreiz nedaudz vēlāk.">
+<!ENTITY voicesearch_failed_message_recoverable "Diemžēl, neizdevās atpazīt jūsu vārdus. Lūdzu mēģiniet vēlreiz.">
+<!ENTITY voicesearch_failed_retry "Mēģināt vēlreiz">
 <!-- Localization note (remote_tabs_last_synced): the variable is replaced by a
      "relative time span string" produced by Android.  This string describes the
      time the tabs were last synced relative to the current time; examples
@@ -566,6 +573,8 @@ no Android">
      their desktop or laptop.-->
 
 <!ENTITY remote_tabs_last_synced "Pēdējā sinhronizācija: &formatS;">
+<!-- Localization note: Used when the sync has not happend yet, showed in place of a date -->
+<!ENTITY remote_tabs_never_synced "Sinhronizēšana nekad nav veikta">
 <!-- Find-In-Page strings -->
 <!-- LOCALIZATION NOTE (find_matchcase): This is meant to appear as an icon that changes color
      if match-case is activated. i.e. No more than two letters, one uppercase, one lowercase. -->

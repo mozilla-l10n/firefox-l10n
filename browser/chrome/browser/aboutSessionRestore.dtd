@@ -13,11 +13,10 @@
 <!ENTITY restorepage.startNew       "Sākt jaunu pārlūkošanas sesiju">
 
 <!ENTITY restorepage.tryagainButton "Atjaunot">
-<!ENTITY restorepage.restore.access "A">
-<!ENTITY restorepage.closeButton    "Aizvērt">
-<!ENTITY restorepage.close.access   "z">
 
-<!ENTITY restorepage.restoreHeader  "Atjaunot">
+<!ENTITY restorepage.closeButton    "Aizvērt">
+
+
 <!ENTITY restorepage.listHeader     "Logus un cilnes">
 <!-- LOCALIZATION NOTE: &#37;S will be replaced with a number. -->
 <!ENTITY restorepage.windowLabel    "Logs &#037;S">
@@ -27,11 +26,10 @@
 
 
 <!ENTITY welcomeback2.restoreButton  "Lai notiek!">
-<!ENTITY welcomeback2.restoreButton.access "L">
+
 
 <!ENTITY welcomeback2.tabtitle      "Veiksme!">
 
-<!ENTITY welcomeback2.pageTitle     "Veiksme!">
 <!ENTITY welcomeback2.pageInfo1     "&brandShortName; ir gatavs darbam.">
 
 <!ENTITY welcomeback2.label.restoreAll  "Atjaunot visus logus un cilnes">
