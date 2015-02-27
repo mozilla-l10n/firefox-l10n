@@ -33,7 +33,10 @@
 </ul>">
 
 <!ENTITY fileNotFound.title "Fișierul nu a fost găsit">
-<!ENTITY fileNotFound.longDesc "<ul> <li>Verificați ca numele fișierului să nu aibă erori de majuscule/minuscule sau alte erori de tastare.</li> <li>Verificați ca fișierul să nu fi fost mutat, redenumit sau șters.</li> </ul>">
+<!ENTITY fileNotFound.longDesc "<ul> 
+<li>Verifică ca numele fișierului să nu aibă erori de majuscule/minuscule sau alte erori de tastare.</li> 
+<li>Verifică ca fișierul să nu fi fost mutat, redenumit sau șters.</li> 
+</ul>">
 
 
 <!ENTITY generic.title "Hopa!">
@@ -90,7 +93,11 @@
 </ul>">
 
 <!ENTITY proxyConnectFailure.title "Serverul proxy refuză conexiuni">
-<!ENTITY proxyConnectFailure.longDesc "<ul> <li>Asigurați-vă că parametrii proxy-ului sunt corecți.</li> <li>Luați legătura cu administratorul rețelei pentru a vă asigura că serverul proxy funcționează.</li> </ul>">
+<!ENTITY proxyConnectFailure.longDesc "<ul> 
+<li>Asigură-te că parametrii proxy-ului sunt corecți.</li> 
+<li>Ia legătura cu administratorul rețelei pentru a te asigura că serverul 
+proxy funcționează.</li> 
+</ul>">
 
 <!ENTITY proxyResolveFailure.title "Nu se poate găsi serverul proxy">
 <!-- LOCALIZATION NOTE (proxyResolveFailure.longDesc3) This string contains markup including widgets for enabling wifi connections.
@@ -103,10 +110,17 @@
 </ul>">
 
 <!ENTITY redirectLoop.title "Pagina nu redirecționează corect">
-<!ENTITY redirectLoop.longDesc "<ul> <li>Problema poate apărea dacă dezactivați sau refuzați să acceptați cookie-uri.</li> </ul>">
+<!ENTITY redirectLoop.longDesc "<ul> 
+<li>Problema poate apărea dacă dezactivezi sau refuzi să accepți 
+cookie-uri.</li> 
+</ul>">
 
 <!ENTITY unknownSocketType.title "Răspuns neașteptat de la server">
-<!ENTITY unknownSocketType.longDesc "<ul> <li>Verificați ca sistemul dumneavoastră să aibă instalat Personal Security Manager.</li> <li>Aceasta se poate întâmpla și datorită unei configurații nestandard a serverului.</li> </ul>">
+<!ENTITY unknownSocketType.longDesc "<ul> 
+<li>Verifică ca sistemul tău să aibă instalat Personal Security Manager.</li> 
+<li>Aceasta se poate întâmpla și datorită unei configurații nestandard 
+a serverului.</li> 
+</ul>">
 
 <!ENTITY nssFailure2.title "Conexiunea sigură a eșuat">
 <!ENTITY nssFailure2.longDesc2 "<ul> 
@@ -146,7 +160,8 @@ which uses strings already defined above. The button is included here (instead o
 netError.xhtml) because it exposes functionality specific to firefox. -->
 
 
-<!ENTITY securityOverride.warningContent "<p>Nu ar trebui să adăugați o excepție, dacă utilizați o conexiune la internet în care nu aveți încredere în întregime sau dacă nu sunteți obișnuit să vedeți un avertisment pentru acest server. </p> 
+<!ENTITY securityOverride.warningContent "<p>Nu ar trebui să adăugați o excepție, dacă utilizați o conexiune la internet în care nu aveți încredere în întregime sau dacă nu sunteți obișnuit să vedeți un avertisment pentru acest server.</p> 
+ 
 <button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button> 
 <button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>">
 
