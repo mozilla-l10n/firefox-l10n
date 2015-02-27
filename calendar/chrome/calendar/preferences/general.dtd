@@ -34,8 +34,8 @@
 <!ENTITY pref.default_task_offset_next_hour.label "Glede na naslednjo uro">
 
 <!ENTITY pref.calendar.todaypane.agenda.caption "Današnji dan">
-<!ENTITY pref.soondays.label "Prihajajoči odsek prikazuje:">
-<!ENTITY pref.soondays.accesskey "P">
+<!ENTITY pref.soondays.label "Odsek 'Prihajajoči' prikazuje:">
+<!ENTITY pref.soondays.accesskey "d">
 
 <!ENTITY pref.accessibility.label "Dostopnost" >
 <!ENTITY pref.systemcolors.label "Optimiziraj barve za dostopnost" >
