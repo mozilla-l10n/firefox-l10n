@@ -157,15 +157,19 @@
 <!ENTITY device_typeobject "Objekts">
 <!ENTITY device_typenone "Izvēlieties tipu">
 <!-- Device Preferences -->
+
+<!ENTITY devicepreference_title "Ierīces iestatījumi">
 <!ENTITY devicepreference_search "Meklēšanas iestatījumi">
 <!ENTITY devicepreference_newname "Jauns iestatījuma nosaukums">
 <!ENTITY devicepreference_newtext "Iestatījuma vērtība">
 <!ENTITY devicepreference_addnew "Pievienot jaunu iestatījumu">
 <!-- Device Settings -->
 
-
-
-
+<!ENTITY devicesetting_title "Ierīces iestatījumi">
+<!ENTITY devicesetting_search "Meklējamā frāze">
+<!ENTITY devicesetting_newname "Jaunā iestatījuma nosaukums">
+<!ENTITY devicesetting_newtext "Iestatījuma vērtība">
+<!ENTITY devicesetting_addnew "Pievienot iestatījumu">
 <!-- Monitor -->
 
 <!ENTITY monitor_title "Pārraugs">
@@ -174,6 +178,8 @@
 <!-- LOCALIZATION NOTE (wifi_auth_header): The header displayed on the dialog
      that instructs the user to transfer an authentication token to the
      server. -->
+
+<!ENTITY wifi_auth_header "Klienta identifikācija">
 <!-- LOCALIZATION NOTE (wifi_auth_scan_request): Instructions requesting the
      user to transfer authentication info by scanning a QR code. -->
 <!-- LOCALIZATION NOTE (wifi_auth_no_scanner): Link text to assist users with
