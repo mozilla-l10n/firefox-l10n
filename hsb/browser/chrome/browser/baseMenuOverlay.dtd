@@ -16,8 +16,8 @@
 <!ENTITY helpMenuWin.accesskey    "P">
 
 
-
-
+<!ENTITY productHelp2.label       "&brandShorterName; - Pomoc">
+<!ENTITY productHelp2.accesskey   "m">
 <!ENTITY helpMac.commandkey       "?">
 
 <!ENTITY helpKeyboardShortcuts.label     "Tastowe skrótšenki">
@@ -26,7 +26,8 @@
 <!ENTITY helpSafeMode.label       "Ze znjemóžnjenymi přidatkami znowa startować…">
 <!ENTITY helpSafeMode.accesskey   "Z">
 
-
+<!ENTITY healthReport2.label      "&brandShorterName; - Statusowa rozprawa">
+<!ENTITY healthReport2.accesskey  "S">
 
 <!ENTITY helpTroubleshootingInfo.label      "Informacije wo rozrisanju problemow">
 <!ENTITY helpTroubleshootingInfo.accesskey  "I">
