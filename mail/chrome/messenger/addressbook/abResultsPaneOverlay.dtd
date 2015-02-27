@@ -2,35 +2,35 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY Addrbook.label                        "Adres defteri">
+<!ENTITY Addrbook.label                        "Adres Defteri">
 <!ENTITY Addrbook.accesskey                    "A">
-<!ENTITY GeneratedName.label                   "İsim">
-<!ENTITY GeneratedName.accesskey               "s">
-<!ENTITY PrimaryEmail.label                    "E-posta">
-<!ENTITY PrimaryEmail.accesskey                "p">
+<!ENTITY GeneratedName.label                   "Ad">
+<!ENTITY GeneratedName.accesskey               "d">
+<!ENTITY PrimaryEmail.label                    "E-Posta">
+<!ENTITY PrimaryEmail.accesskey                "P">
 <!ENTITY Company.label                         "Kurum">
 <!ENTITY Company.accesskey                     "K">
-<!ENTITY _PhoneticName.label                   "Phonetic Name">
+<!ENTITY _PhoneticName.label                   "Fonetik Ad">
 <!ENTITY _PhoneticName.accesskey               "o">
-<!ENTITY NickName.label                        "Takma adı">
+<!ENTITY NickName.label                        "Takma Ad">
 <!ENTITY NickName.accesskey                    "T">
-<!ENTITY SecondEmail.label                     "Ek e-posta">
-<!ENTITY SecondEmail.accesskey                 "p">
+<!ENTITY SecondEmail.label                     "Ek E-Posta">
+<!ENTITY SecondEmail.accesskey                 "P">
 <!ENTITY Department.label                      "Bölüm">
 <!ENTITY Department.accesskey                  "m">
 <!ENTITY JobTitle.label                        "Unvan">
 <!ENTITY JobTitle.accesskey                    "U">
-<!ENTITY CellularNumber.label                  "Cep telefonu">
+<!ENTITY CellularNumber.label                  "Cep Telefonu">
 <!ENTITY CellularNumber.accesskey              "e">
-<!ENTITY PagerNumber.label                     "Çağrı cihazı">
+<!ENTITY PagerNumber.label                     "Çağrı Cihazı">
 <!ENTITY PagerNumber.accesskey                 "Ç">
 <!ENTITY FaxNumber.label                       "Faks">
 <!ENTITY FaxNumber.accesskey                   "F">
-<!ENTITY HomePhone.label                       "Ev telefonu">
+<!ENTITY HomePhone.label                       "Ev Telefonu">
 <!ENTITY HomePhone.accesskey                   "E">
-<!ENTITY WorkPhone.label                       "İş telefonu">
+<!ENTITY WorkPhone.label                       "İş Telefonu">
 <!ENTITY WorkPhone.accesskey                   "İ">
-<!ENTITY ChatName.label                        "Sohbet adı">
+<!ENTITY ChatName.label                        "Sohbet Adı">
 <!ENTITY ChatName.accesskey                    "S">
 <!ENTITY sortAscending.label                   "Artan">
 <!ENTITY sortAscending.accesskey               "t">
