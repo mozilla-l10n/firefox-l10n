@@ -19,6 +19,18 @@
 <!ENTITY dnsNotFound.title "Serverul nu a fost găsit">
 <!-- LOCALIZATION NOTE (dnsNotFound.longDesc4) This string contains markup including widgets for searching
      or enabling wifi connections. The text inside tags should be localized.  Do not change the ids. -->
+<!ENTITY dnsNotFound.longDesc4 "<ul> 
+<li>Verifică adresa de erori de tastare cum ar fi 
+<strong>ww</strong>.exemplu.ro în loc de 
+<strong>www</strong>.exemplu.ro</li> 
+<div id='searchbox'> 
+<input id='searchtext' type='search'></input> 
+<button id='searchbutton'>Caută</button> 
+</div> 
+<li>Dacă nu poți să încarci nicio pagină, verifică conexiunea de date sau Wi-Fi a dispozitivului. 
+<button id='wifi'>Activează Wi-Fi</button> 
+</li> 
+</ul>">
 
 <!ENTITY fileNotFound.title "Fișierul nu a fost găsit">
 <!ENTITY fileNotFound.longDesc "<ul> <li>Verificați ca numele fișierului să nu aibă erori de majuscule/minuscule sau alte erori de tastare.</li> <li>Verificați ca fișierul să nu fi fost mutat, redenumit sau șters.</li> </ul>">
@@ -30,6 +42,16 @@
 <!ENTITY malformedURI.title "Adresa nu este validă">
 <!-- LOCALIZATION NOTE (malformedURI.longDesc2) This string contains markup including widgets for searching
      or enabling wifi connections. The text inside the tags should be localized. Do not touch the ids. -->
+<!ENTITY malformedURI.longDesc2 "<ul> 
+<li>Adresele web se scriu de obicei așa 
+<strong>http://www.exemplu.ro/</strong></li> 
+<div id='searchbox'> 
+<input id='searchtext' type='search'></input> 
+<button id='searchbutton'>Caută</button> 
+</div> 
+<li>Asigură-te că folosești slash-uri corecte (adică 
+<strong>/</strong>).</li> 
+</ul>">
 
 <!ENTITY netInterrupt.title "Conexiunea a fost întreruptă">
 <!ENTITY netInterrupt.longDesc2 "&sharedLongDesc3;">
@@ -99,7 +121,7 @@ temporară și puteți încerca din nou mai târziu.</li>
 
 <!ENTITY sharedLongDesc3 "<ul> 
 <li>Saitul ar putea fi temporar indisponibil sau foarte încărcat. Încearcă din nou în câteva momente.</li> 
-<li>Dacă nu poți să încarci nicio pagină, verifică conexiunea de date sau Wi-Fi. 
+<li>Dacă nu poți să încarci nicio pagină, verifică conexiunea de date sau Wi-Fi a dispozitivului. 
 <button id='wifi'>Activează Wi-Fi</button> 
 </li> 
 </ul>">
