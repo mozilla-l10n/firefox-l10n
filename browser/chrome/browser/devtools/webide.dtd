@@ -193,3 +193,5 @@
      user to transfer authentication info by transferring a token. -->
 <!ENTITY wifi_auth_token_request "បើ​ឧបករណ៍​ផ្សេង​របស់​អ្នក​សួរ​រក​ថូខឹន​ជំនួស​ឲ្យ​ការ​ស្កេន​លេខ​កូដ QR, សូម​ចម្លង​តម្លៃ​ខាងក្រោម​ទៅកាន់​ឧបករណ៍​របស់​អ្នក៖">
 <!-- Logs panel -->
+
+<!ENTITY logs_title "កំណត់ហេតុ​ពាក្យ​បញ្ជា​ការ​វេច​ខ្ចប់​ជាមុន">
