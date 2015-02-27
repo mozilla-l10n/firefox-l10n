@@ -4,7 +4,7 @@
 <!-- Subscription Dialog -->
 
 <!ENTITY feedSubscriptions.label     "Բաժանորդագրություններ">
-
+<!ENTITY learnMore.label             "ស្វែងយល់​បន្ថែម​អំពី​មតិ​ព័ត៌មាន">
 
 <!ENTITY feedTitle.label             "ចំណង​ជើង៖">
 <!ENTITY feedTitle.accesskey         "T">
