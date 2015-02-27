@@ -56,21 +56,21 @@ can reach it easily. -->
 
 <!ENTITY tabCmd.label "Նոր Ներդիր">
 <!ENTITY tabCmd.accesskey "Ն">
-
+<!ENTITY tabCmd.commandkey "t">
 <!-- LOCALIZATION NOTE (openLocationCmd.label): "Open Location" is only
 displayed on OS X, and only on windows that aren't main browser windows, or
 when there are no windows but Firefox is still running. -->
 <!ENTITY openLocationCmd.label "Բացել Հասցե…">
 <!ENTITY openFileCmd.label "Բացել Ֆայլ…">
 <!ENTITY openFileCmd.accesskey "Բ">
-
+<!ENTITY openFileCmd.commandkey "o">
 <!ENTITY printSetupCmd.label "Էջի կարգավորումներ…">
 <!ENTITY printSetupCmd.accesskey "գ">
 <!ENTITY printPreviewCmd.label "Տպելու նախադիտում">
 <!ENTITY printPreviewCmd.accesskey "ա">
 <!ENTITY printCmd.label "Տպել…">
 <!ENTITY printCmd.accesskey "Տ">
-
+<!ENTITY printCmd.commandkey "p">
 
 <!ENTITY goOfflineCmd.label "Աշխատել անցանց ">
 <!ENTITY goOfflineCmd.accesskey "տ">
@@ -82,18 +82,19 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY personalbarCmd.accesskey "Է">
 <!ENTITY bookmarksToolbarItem.label "Էջանիշերի Վահանակի տարրերը">
 
-
-
-
-
-
+<!ENTITY toolbarContextMenu.reloadAllTabs.label "Կրկին բեռնել բոլոր ներդիրները">
+<!ENTITY toolbarContextMenu.reloadAllTabs.accesskey "բ">
+<!ENTITY toolbarContextMenu.bookmarkAllTabs.label "Էջանշել բոլոր ներդիրները...">
+<!ENTITY toolbarContextMenu.bookmarkAllTabs.accesskey "ն">
+<!ENTITY toolbarContextMenu.undoCloseTab.label "Հետարկել փակված ներդիրը">
+<!ENTITY toolbarContextMenu.undoCloseTab.accesskey "Հ">
 
 <!ENTITY pageSourceCmd.label "Դիտել Էջի Կոդը">
 <!ENTITY pageSourceCmd.accesskey "ո">
-
+<!ENTITY pageSourceCmd.commandkey "u">
 <!ENTITY pageInfoCmd.label "Էջի Մասին Տվյալներ">
 <!ENTITY pageInfoCmd.accesskey "վ">
-
+<!ENTITY pageInfoCmd.commandkey "i">
 <!ENTITY mirrorTabCmd.label "Ներդիրի հայելապատճեն">
 <!ENTITY mirrorTabCmd.accesskey "Ն">
 <!-- LOCALIZATION NOTE (enterFullScreenCmd.label, exitFullScreenCmd.label):
@@ -104,7 +105,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY exitFullScreenCmd.accesskey "Լ">
 <!ENTITY fullScreenCmd.label "Բացել Լիաէկրան ">
 <!ENTITY fullScreenCmd.accesskey "Բ">
-
+<!ENTITY fullScreenCmd.macCommandKey "f">
 <!ENTITY showAllTabsCmd.label "Ցուցադրել բոլոր ներդիրները">
 <!ENTITY showAllTabsCmd.accesskey "բ">
 
@@ -139,7 +140,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksMenu.accesskey "Է">
 <!ENTITY bookmarkThisPageCmd.label "Էջանշել Այս Էջը">
 <!ENTITY editThisBookmarkCmd.label "Խմբագրել այս էջանիշը">
-
+<!ENTITY bookmarkThisPageCmd.commandkey "d">
 
 <!-- LOCALIZATION NOTE (findShareServices.label):
   -  Use the unicode ellipsis char, \u2026,
@@ -834,4 +835,5 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- Pre-landed string for bug 1133662 -->
 <!-- Pre-landed string for bug 1123525 -->
 <!-- Pre-landed strings for bug 1123519 -->
+<!ENTITY readingList.sidebar.add.label            "Ավելացնել Ընթերցացուցակ">
 

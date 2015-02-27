@@ -34,8 +34,8 @@
 <!ENTITY healthReportLearnMore.label     "Մանրամասն">
 
 <!ENTITY telemetryDesc.label             "Կիսվում է արագագործության, օգտագործման, սարքակազմի և ձեր դիտարկիչի կարգավորումներով &vendorShortName;-ի հետ՝ &brandShortName;-ը էլ ավելի լավարկելու համար">
-
-
+<!ENTITY enableTelemetryData.label       "Տարածեք այլ տվյալներ (օր.՝ Telemetry)">
+<!ENTITY enableTelemetryData.accesskey   "T">
 <!ENTITY telemetryLearnMore.label        "Մանրամասն">
 
 <!ENTITY crashReporterDesc.label         "&brandShortName;-ը ուղարկում է Վթարների Զեկույց՝ օգնելու համար դարձնել &vendorShortName;-ը էլ ավելի կայուն և անվտանգ">
