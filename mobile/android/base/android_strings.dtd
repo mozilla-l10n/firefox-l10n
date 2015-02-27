@@ -23,7 +23,7 @@
 <!ENTITY  crash_reporter_title "Raportor de defecte în &brandShortName;">
 <!ENTITY  crash_message2 "&brandShortName; a avut o problemă și s-a închis neașteptat. Filele dumneavoastră ar trebui să fie listate pe pagina de start &brandShortName; când reporniți navigatorul.">
 <!ENTITY  crash_send_report_message3 "Spune-i lui &vendorShortName; despre această defecțiune astfel să remedieze problema">
-<!ENTITY  crash_include_url2 "Include adresa paginii pe care eram">
+<!ENTITY  crash_include_url2 "Include adresa paginii pe care am fost">
 <!ENTITY  crash_sorry "Ne pare rău">
 <!ENTITY  crash_comment "Adăugați un comentariu (comentariile sunt vizibile publicului)">
 <!ENTITY  crash_allow_contact2 "Permite &vendorShortName; să mă contacteze referitor la acest raport">
@@ -39,7 +39,7 @@
 
 <!ENTITY choose_file "Alegere fișier">
 
-<!ENTITY url_bar_default_text2 "Caută sau indică o adresă">
+<!ENTITY url_bar_default_text2 "Caută sau introdu o adresă">
 
 <!ENTITY bookmark "Semn de carte">
 <!ENTITY bookmark_added "S-a adăugat semnul de carte">
@@ -124,7 +124,7 @@
 <!ENTITY pref_category_vendor "&vendorShortName;">
 <!ENTITY pref_category_vendor_summary "Despre &brandShortName;FAQs, opțiuni de date">
 <!ENTITY pref_category_datareporting "Opțiuni de date">
-<!ENTITY pref_learn_more "Aflați mai multe">
+<!ENTITY pref_learn_more "Află mai multe">
 <!ENTITY pref_category_installed_search_engines "Motoare de căutare instalate">
 <!ENTITY pref_category_add_search_providers "Adaugă mai multe motoare de căutare">
 <!ENTITY pref_category_search_restore_defaults "Restaurează motoarele de căutare">
@@ -137,8 +137,8 @@
      it is applicable. -->
 <!ENTITY pref_search_hint "PONT: Adaugă orice sait în lista motoarelor de căutare prin lunga apăsare pe câmpul de căutare de pe sait iar apoi apăsând iconița &formatI;.">
 <!ENTITY pref_category_devtools "Unelte de dezvoltare">
-<!ENTITY pref_category_devtools_summary "Depanare de la distanță, sclipire la pictare">
-<!ENTITY pref_developer_paint_flashing "Sclipire la pictare">
+<!ENTITY pref_category_devtools_summary "Depanare de la distanță, vopsire intermitentă">
+<!ENTITY pref_developer_paint_flashing "Vopsire intermitentă">
 <!ENTITY pref_developer_remotedebugging "Depanare de la distanță">
 <!ENTITY pref_remember_signons "Reține parolele">
 
@@ -234,7 +234,7 @@ size. -->
 
 <!ENTITY pref_about_firefox "Despre &brandShortName;">
 <!ENTITY pref_vendor_faqs "Întrebări frecvente">
-<!ENTITY pref_vendor_feedback "Trimite opiniile">
+<!ENTITY pref_vendor_feedback "Trimite opinia">
 
 <!ENTITY pref_dialog_set_default "Setează ca implicit">
 <!ENTITY pref_dialog_default "Standard">
@@ -262,15 +262,15 @@ size. -->
      crashReporterDesc.label). -->
 
 <!ENTITY datareporting_fhr_title "Raport de stare &brandShortName;">
-<!ENTITY datareporting_fhr_summary2 "Împărtășiți date cu &vendorShortName; în legătură cu starea navigatorului și vă ajută să înțelegi performanța navigatorului">
+<!ENTITY datareporting_fhr_summary2 "Împărtășește date cu &vendorShortName; privind starea navigatorului și te ajută să înțelegi performanța navigatorului">
 <!ENTITY datareporting_abouthr_title "Vezi raportul meu de stare">
 <!ENTITY datareporting_telemetry_title "Telemetrie">
 <!ENTITY datareporting_telemetry_summary "Împărtășește datele privind performanța, consumul, hardware-ul și personalizările navigatorului cu &vendorShortName; pentru a ne ajuta să facem &brandShortName; mai bun">
-<!ENTITY datareporting_crashreporter_summary "&brandShortName; transmite rapoarte de defecte pentru a ajuta &vendorShortName; să facă navigatorul dumneavoastră mai stabil și sigur">
+<!ENTITY datareporting_crashreporter_summary "&brandShortName; transmite rapoarte de defecte pentru a ajuta &vendorShortName; să facă navigatorul mai stabil și mai sigur">
 <!-- Localization note (datareporting_crashreporter_title_short) : This string matches
      (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
-<!ENTITY datareporting_crashreporter_title_short "Raportor de probleme">
-<!ENTITY datareporting_wifi_title2 "Servicii de localizare &vendorShortName;">
+<!ENTITY datareporting_crashreporter_title_short "Raportor de defecte">
+<!ENTITY datareporting_wifi_title2 "Serviciu de localizare &vendorShortName;">
 <!ENTITY datareporting_wifi_geolocation_summary3 "Ajută &vendorShortName; să facă harta lumii! Împărtășește locația aproximativă prin Wi-Fi și rețelele celulare ale dispozitivului pentru a îmbunătăți serviciul nostru de geolocalizare">
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the

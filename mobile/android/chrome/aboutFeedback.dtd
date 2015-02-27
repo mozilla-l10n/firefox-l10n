@@ -8,35 +8,35 @@
 
 <!ENTITY pageTitle                 "Reacții legate de &brandShortName;">
 
-<!ENTITY intro.header              "Aveți un minut?">
-<!ENTITY intro.message             "Spuneți-ne ce credeți până acum despre &brandShortName; pentru Android.">
+<!ENTITY intro.header              "Ai un minut?">
+<!ENTITY intro.message             "Spune-ne ce crezi despre &brandShortName; pentru Android până acum.">
 <!ENTITY intro.happyLink           "Îmi  place">
-<!ENTITY intro.sadLink             "Am întâmpinat anumite probleme">
+<!ENTITY intro.sadLink             "Am întâmpinat niște probleme">
 <!ENTITY intro.maybeLater          "Poate mai târziu">
 <!-- LOCALIZATION NOTE (support.pre): Include a trailing space as needed. -->
 <!-- LOCALIZATION NOTE (support.link): Avoid leading/trailing spaces, this text is a link. -->
 <!-- LOCALIZATION NOTE (support.post): Include a starting space as needed. -->
 
 <!ENTITY support.pre3              "Vizitați ">
-<!ENTITY support.link2             "saitul nostru pentru asistență">
+<!ENTITY support.link2             "saitul de asistență">
 <!ENTITY support.post3             " pentru a primi răspunsuri la problemele comune.">
 
-<!ENTITY happy.header              "Asta e minunat să aud!">
+<!ENTITY happy.header              "Asta e minunat să auzim!">
 <!-- LOCALIZATION NOTE (happy.message): "share the love" — This feels purposely exaggerated in English,
      but essentially it means that we want you to let others know how much you love Firefox. -->
 
-<!ENTITY happy.message             "Doriți să împărtășiți dragostea față de noi dându-ne o evaluare de 5 stele în Google Play?">
+<!ENTITY happy.message             "Dorești să ne împărtășești dragostea dându-ne o evaluare de 5 stele pe Google Play?">
 <!-- LOCALIZATION NOTE (happy.finePrint): "feels great" — Another exaggeration where we're trying to
      get people to rate us by playfully telling them there's a benefit in it for them as well. -->
 
-<!ENTITY happy.finePrint           "Ia mai puțin de un minut și se simte grozav.">
+<!ENTITY happy.finePrint           "Ia mai puțin de un minut și este un lucru minunat.">
 
 <!ENTITY happy.ratingLink          "Da, mergi la Google Play">
 <!ENTITY happy.maybeLater2         "Poate mai târziu">
 <!ENTITY happy.noThanks            "Nu mulțumesc">
 
 <!ENTITY sad.header                "O, nu!">
-<!ENTITY sad.message               "Ne pare rău că ați avut niște probleme cu &brandShortName;. Spuneți-ne ce s-a întâmplat astfel să remediem problema.">
+<!ENTITY sad.message               "Ne pare rău că ai întâmpinat niște probleme cu &brandShortName;. Spune-ne ce s-a întâmplat astfel să o putem remedia.">
 <!ENTITY sad.placeholder           "Introduceți opinia dumneavoastră aici">
 <!ENTITY sad.lastSite2             "Include saitul vizitat ultima dată">
 <!-- LOCALIZATION NOTE (sad.urlPlaceholder): Placeholder text that appears in "Last visited site" input box when there is no text. -->
@@ -54,4 +54,4 @@
 <!ENTITY sad.thanksMessageBottom   "sau alta.">
 
 <!ENTITY feedback.privacy2         "Pentru confidențialitatea ta, te rugăm să nu incluzi nicio informație personală în opinie.">
-<!ENTITY feedback.send             "Trimite opiniile">
+<!ENTITY feedback.send             "Trimite opinie">

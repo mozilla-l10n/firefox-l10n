@@ -163,7 +163,7 @@
 
 <!ENTITY fxaccount_account_create_not_allowed "Nu se poate crea contul">
 <!ENTITY fxaccount_account_create_not_allowed_you_must_meet_certain_age_requirements "Trebuie să îndeplinești anumite cerințe de vârstă pentru a crea un cont.">
-<!ENTITY fxaccount_account_create_not_allowed_learn_more "Aflați mai multe">
+<!ENTITY fxaccount_account_create_not_allowed_learn_more "Află mai multe">
 
 <!ENTITY fxaccount_confirm_account_header "Confirmă contul">
 <!-- Localization note: &formatS; is the Firefox Account's email address. -->
