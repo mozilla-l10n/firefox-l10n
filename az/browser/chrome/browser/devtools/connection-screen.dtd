@@ -5,14 +5,17 @@
   - The Remote Connection window can reached from the "connect…" menuitem
   - in the Web Developer menu.
   - -->
+
+
+<!ENTITY title      "Qoşul">
 <!ENTITY header     "Uzaq cihaza qoşul">
 <!ENTITY host       "Server:">
 <!ENTITY port       "Port:">
 <!ENTITY connect    "Qoşul">
 <!ENTITY connecting "Bağlanır…">
-
-
-
+<!ENTITY availableAddons "Available remote add-ons:">
+<!ENTITY availableTabs "Available remote tabs:">
+<!ENTITY availableProcesses "Available remote processes:">
 <!ENTITY connectionError "Səhv:">
 
 
