@@ -13,9 +13,9 @@
 
 
 
-
-
-
+<!ENTITY productHelp2.label       "&brandShortName; palīdzība">
+<!ENTITY productHelp2.accesskey   "l">
+<!ENTITY helpMac.commandkey       "?">
 
 <!ENTITY helpKeyboardShortcuts.label     "Taustiņu kombinācijas">
 <!ENTITY helpKeyboardShortcuts.accesskey "k">
@@ -23,7 +23,8 @@
 <!ENTITY helpSafeMode.label       "Pārstartēt ar deaktivētiem papildinājumiem…">
 <!ENTITY helpSafeMode.accesskey   "r">
 
-
+<!ENTITY healthReport2.label      "&brandShortName; stāvokļa ziņojums">
+<!ENTITY healthReport2.accesskey  "e">
 
 <!ENTITY helpTroubleshootingInfo.label      "Problēmu novēršanas informācija">
 <!ENTITY helpTroubleshootingInfo.accesskey  "P">
@@ -31,16 +32,18 @@
 <!ENTITY helpFeedbackPage.label      "Nosūtīt atsauksmi…">
 <!ENTITY helpFeedbackPage.accesskey  "s">
 
-
+<!ENTITY helpShowTour2.label            "&brandShortName; ekskursija">
+<!ENTITY helpShowTour2.accesskey        "r">
 
 <!ENTITY preferencesCmdMac.label        "Iestatījumi…">
-
+<!ENTITY preferencesCmdMac.commandkey   ",">
 
 <!ENTITY servicesMenuMac.label          "Servisi">
 
-
+<!ENTITY hideThisAppCmdMac2.label       "Paslēpt &brandShortName;">
+<!ENTITY hideThisAppCmdMac2.commandkey  "H">
 
 <!ENTITY hideOtherAppsCmdMac.label      "Paslēpt citus">
-
+<!ENTITY hideOtherAppsCmdMac.commandkey "H">
 
 <!ENTITY showAllAppsCmdMac.label        "Parādīt visus">

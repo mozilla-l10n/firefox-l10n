@@ -45,15 +45,17 @@
 <!ENTITY profilerUI.toolbar.js-calltree "JavaScript">
 <!ENTITY profilerUI.toolbar.memory-calltree "Atmiņa">
 
-
+<!ENTITY profilerUI.toolbar.memory-flamegraph "Atmiņas grafiks">
 <!-- LOCALIZATION NOTE (profilerUI.table.*): These strings are displayed
   -  in the call tree headers for a recording. -->
 
+<!ENTITY profilerUI.table.totalDuration2  "Kopējais laiks">
+<!ENTITY profilerUI.table.selfDuration2   "Paša laiks">
 <!ENTITY profilerUI.table.totalPercentage "Kopējais patēriņš">
 <!ENTITY profilerUI.table.selfPercentage  "Paša patēriņš">
 <!ENTITY profilerUI.table.samples         "Paraugi">
-
-
+<!ENTITY profilerUI.table.totalAlloc      "Kopā izdalīts">
+<!ENTITY profilerUI.table.selfAlloc       "Paša izdalīts">
 <!ENTITY profilerUI.table.function        "Funkcija">
 <!-- LOCALIZATION NOTE (profilerUI.newtab.tooltiptext): The tooltiptext shown
   -  on the "+" (new tab) button for a profile when a selection is available. -->
@@ -61,6 +63,8 @@
 <!ENTITY profilerUI.newtab.tooltiptext "Pievienot jaunu cilni no izlases">
 <!-- LOCALIZATION NOTE (profilerUI.options.tooltiptext): This is the tooltip
   -  for the options button. -->
+
+<!ENTITY profilerUI.options.tooltiptext "Konfigurēt veiktspējas iestatījumus.">
 <!-- LOCALIZATION NOTE (profilerUI.invertTree): This is the label shown next to
   -  a checkbox that inverts and un-inverts the profiler's call tree. -->
 
@@ -69,9 +73,13 @@
 <!-- LOCALIZATION NOTE (profilerUI.invertFlameGraph): This is the label shown next to
   -  a checkbox that inverts and un-inverts the profiler's flame graph. -->
 
+<!ENTITY profilerUI.invertFlameGraph             "Invertēt grafiku">
+<!ENTITY profilerUI.invertFlameGraph.tooltiptext "Apvēršot izsaukumu koku vispirms tiek attēloti profilētie izsaukumi sākot ar jaunākajiem.">
 <!-- LOCALIZATION NOTE (profilerUI.showPlatformData): This is the
   -  label for the checkbox that toggles whether or not Gecko platform data
   -  is displayed in the profiler. -->
+
+<!ENTITY profilerUI.showPlatformData             "Rādīt Gecko platformas datus">
 
 <!-- LOCALIZATION NOTE (profilerUI.flattenTreeRecursion): This is the
   -  label for the checkbox that toggles the flattening of tree recursion in inspected
