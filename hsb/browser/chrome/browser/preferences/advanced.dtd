@@ -34,8 +34,8 @@
 <!ENTITY healthReportLearnMore.label     "Dalše informacije">
 
 <!ENTITY telemetryDesc.label             "Dźěli wukon, wužiće, hardware a přiměrjenja wašeho wobhladowaka z &vendorShortName;, zo by nam pomhała, &brandShortName; polěpšić">
-
-
+<!ENTITY enableTelemetryData.label       "Přidatne daty dźělić (na př. telemetriju)">
+<!ENTITY enableTelemetryData.accesskey   "t">
 <!ENTITY telemetryLearnMore.label        "Dalše informacije">
 
 <!ENTITY crashReporterDesc.label         "&brandShortName; posrědkuje rozprawy spadow, zo by &vendorShortName; pomhał, waš wobhladowak stabilniši a wěsćiši činił">
