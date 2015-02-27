@@ -7,13 +7,13 @@
 
 <!ENTITY recipient.label "Alıcıların bazıları HTML posta alabilir olarak listelenmemiş.">
 
-<!ENTITY question.label "İletiyi düz metne çevirmek mi yoksa ne olursa olsun HTML olarak göndermek istersiniz?">
+<!ENTITY question.label "İletiyi düz metne çevirmek mi yoksa ne olursa olsun HTML olarak mı göndermek istersiniz?">
 
-<!ENTITY plainTextAndHtml.label "Düz metin ve HTML olarak gönder">
+<!ENTITY plainTextAndHtml.label "Düz Metin ve HTML Olarak Gönder">
 <!ENTITY plainTextAndHtml.accesskey "a">
-<!ENTITY plainTextOnly.label "Sadece düz metin olarak gönder">
+<!ENTITY plainTextOnly.label "Sadece Düz Metin Olarak Gönder">
 <!ENTITY plainTextOnly.accesskey "d">
-<!ENTITY htmlOnly.label "Sadece HTML olarak gönder">
+<!ENTITY htmlOnly.label "Sadece HTML Olarak Gönder">
 <!ENTITY htmlOnly.accesskey "H">
 
 <!ENTITY send.label "Gönder">
