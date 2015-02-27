@@ -191,7 +191,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksButton.label          "Бетбелгілер">
 
 
-
+<!ENTITY bookmarksMenuButton.label          "Бетбелгілер">
+<!ENTITY bookmarksMenuButton.unsorted.label "Сұрыпталмаған бетбелгілер">
 <!ENTITY viewBookmarksSidebar2.label        "Бүйір панелін қарау">
 <!ENTITY viewBookmarksToolbar.label         "Бетбелгілер панелін қарау">
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
@@ -356,10 +357,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuCustomize.tooltip "Мәзір мен саймандар панелдерін баптау">
 <!ENTITY appMenuCustomizeExit.label "Баптаудан шығу">
 <!ENTITY appMenuCustomizeExit.tooltip "Баптауды аяқтау">
-
-
-
-
+<!ENTITY appMenuHistory.label "Тарих">
+<!ENTITY appMenuHistory.showAll.label "Бүкіл тарихты көрсету">
+<!ENTITY appMenuHistory.clearRecent.label "Соңғы тарихты өшіру…">
+<!ENTITY appMenuHistory.restoreSession.label "Алдыңғы сессияны қалпына келтіру">
 <!ENTITY appMenuHistory.viewSidebar.label "Тарихтың бүйір панелін көрсету">
 <!ENTITY appMenuHelp.tooltip "Көмек мәзірін ашу">
 
@@ -468,7 +469,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewBGImageCmd.accesskey     "н">
 <!ENTITY setDesktopBackgroundCmd.label      "Жұмыс үстелінің суреті болып орналастыру…">
 <!ENTITY setDesktopBackgroundCmd.accesskey  "с">
-
+<!ENTITY bookmarkPageCmd2.label       "Бұл бетті бетбелгілерге қосу">
 <!ENTITY bookmarkThisLinkCmd.label      "Осы сілтемені бетбелгілерге қосу">
 <!ENTITY bookmarkThisLinkCmd.accesskey  "л">
 <!ENTITY bookmarkThisFrameCmd.label      "Осы фреймді бетбелгілерге қосу">
@@ -759,12 +760,12 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY trackingContentBlocked.message "Тексеріп отыру">
 <!ENTITY trackingContentBlocked.moreinfo "Беттің сіздің желілік белсенділікті бақылайтын құрамасы блокталды.">
-
-
+<!ENTITY trackingContentBlocked.learnMore "Көбірек білу">
+<!ENTITY trackingContentBlocked.options "Опциялар">
 <!ENTITY trackingContentBlocked.unblock2.label "Бұл парақта қорғанысты сөндіру">
 <!ENTITY trackingContentBlocked.unblock2.accesskey "д">
-
-
+<!ENTITY trackingContentBlocked.block.label "Қорғанысты іске қосу">
+<!ENTITY trackingContentBlocked.block.accesskey "е">
 <!ENTITY trackingContentBlocked.disabled.message "Бақылаудан қорғаныс сөндірілген">
 
 <!ENTITY pointerLock.notification.message "Оны қайта көрсету үшін кез-келген уақытта ESC пернесін басыңыз.">
@@ -784,6 +785,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY pluginNotification.width "30em">
 
+<!ENTITY uiTour.infoPanel.close "Жабу">
 
 <!ENTITY appMenuSidebars.label         "Бүйір панельдер">
 
@@ -834,4 +836,5 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- Pre-landed string for bug 1133662 -->
 <!-- Pre-landed string for bug 1123525 -->
 <!-- Pre-landed strings for bug 1123519 -->
+<!ENTITY readingList.sidebar.add.label            "Оқу тізіміне қосу">
 
