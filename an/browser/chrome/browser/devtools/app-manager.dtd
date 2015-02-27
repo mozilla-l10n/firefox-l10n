@@ -36,9 +36,9 @@
 <!ENTITY device.permissionsHelpLink "https://developer.mozilla.org/docs/web/apps/app_permissions">
 <!ENTITY device.browserTabs "Pestanyas d'o navegador">
 <!ENTITY device.browserTabsTooltip "Veyer una lista de pestanyas en o navegador d'o dispositivo connectau">
-
+<!ENTITY device.debugBrowserTab "Depurar">
 <!ENTITY device.debugBrowserTabTooltip "Ubrir as ferramientas ta desembolicadors connectadas ta ista pestanya d'o navegador en o dispositivo">
-
+<!ENTITY device.help "Aduya">
 
 <!ENTITY connection.connectTooltip "Connectar a o dispositivo">
 <!ENTITY connection.disconnect "Desconnectar">
@@ -66,19 +66,19 @@
 <!ENTITY connection.startRegisteredSimulator "Enchegar:">
 
 <!ENTITY projects.localApps "Aplicacions locals">
-
+<!ENTITY projects.addApp "Anyader">
 <!ENTITY projects.addPackaged "Adhibir una aplicación empaquetada">
 <!ENTITY projects.addPackagedTooltip "Adhibir una aplicación empaquetada nueva (un directorio) dende l'ordinador">
 <!ENTITY projects.addHosted "Adhibir aplicación alochada">
 <!ENTITY projects.addHostedTooltip "Adhibir una aplicación alochada nueva (vinclo ta un fichero manifest.webapp) dende un puesto web remoto">
-
+<!ENTITY projects.title "Aplicacions locals">
 <!ENTITY projects.appDetails "Detalles de l'aplicación">
 <!ENTITY projects.removeAppFromList "Eliminar ista aplicación d'a lista d'aplicacions en as qualas yes treballando. Isto no la eliminará d'un dispositivo ni d'o simulador.">
 <!ENTITY projects.updateApp "Esviellar">
 <!ENTITY projects.updateAppTooltip "Executar prebas de validación y esviellar l'aplicación en o dispositivo connectau">
-
+<!ENTITY projects.debugApp "Depurar">
 <!ENTITY projects.debugAppTooltip "Ubrir as ferramientas d'o desembolicador connectadas a ista aplicación">
-
+<!ENTITY projects.saveManifest "Alzar">
 <!ENTITY projects.saveManifestTooltip "Alza o conteniu de l'editor de manifiesto d'abaixo">
 <!ENTITY projects.hostedManifestPlaceHolder2 "http://example.com/app/manifest.webapp">
 <!ENTITY projects.noProjects "No i hai garra prochecto. Anyada una nueva aplicación empaquetada (directorio local) mas abaixo u una aplicación alochada (vinclo a un fichero manifest).">
@@ -92,6 +92,7 @@
 <!ENTITY projects.hosted "Alochau">
 <!ENTITY projects.packaged "Empequetau">
 
+<!ENTITY help.title "Chestor d'aplicacions">
 <!ENTITY help.close "Zarrar">
 <!ENTITY help.intro "Ista ferramienta li aduyará a chenerar y instalar aplicacions web en dispositivos compatibles (i.e. Firefox OS). A pestanya <strong>Aplicacions</strong> li aduyará en o proceso de validación y instalación d'a suya aplicación. A pestanya <strong>Dispositivo</strong> li dará información sobre o dispositivo connectau. Faiga servir a barra de ferramientas de debaixo ta connectar-se a un dispositivo u enchegar o simulador.">
 <!ENTITY help.usefullLinks "Vinclos utils:">
