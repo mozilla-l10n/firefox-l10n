@@ -156,4 +156,5 @@ functionality specific to firefox. -->
 <!ENTITY sslv3Used.title "Қауіпсіз түрде байланысу мүмкін емес">
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc) - Do not translate
      "ssl_error_unsupported_version". -->
+<!ENTITY sslv3Used.longDesc "Кеңейтілген ақпараты: ssl_error_unsupported_version">
 <!ENTITY sslv3Used.learnMore "Көбірек білу…">
