@@ -1,6 +1,8 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY minimizeWindow.key       "m">
 <!ENTITY minimizeWindow.label     "Փոքրացնել">
 <!ENTITY bringAllToFront.label    "Բոլորն Առաջ Բերել">
 <!ENTITY zoomWindow.label         "Մասշտաբը ">
@@ -10,11 +12,12 @@
 <!ENTITY helpMenu.accesskey       "Օ"> 
 <!-- LOCALIZATION NOTE some localizations of Windows (ex:french, german) use "?"
                        for the help button in the menubar but Gnome does not.   -->
-
-
-
-
-
+<!ENTITY helpMenuWin.label        "Օգնություն"> 
+<!ENTITY helpMenuWin.accesskey    "Օ">
+<!ENTITY aboutProduct2.label      "&brandShortName;-ի մասին">
+<!ENTITY aboutProduct2.accesskey  "մ">
+<!ENTITY productHelp2.label       "&brandShortName;-ի Օգնությունը">
+<!ENTITY productHelp2.accesskey   "Օ">
 
 
 <!ENTITY helpKeyboardShortcuts.label     "Ստեղնաշարի պիտակներ">
@@ -23,7 +26,8 @@
 <!ENTITY helpSafeMode.label       "Վերագործարկել հավելումներն անջատած…">
 <!ENTITY helpSafeMode.accesskey   "Վ">
 
-
+<!ENTITY healthReport2.label      "&brandShortName;-ի Վիճակի Զեկույց">
+<!ENTITY healthReport2.accesskey  "ճ">
 
 <!ENTITY helpTroubleshootingInfo.label      "Անսարքության տեղեկատվությունը">
 <!ENTITY helpTroubleshootingInfo.accesskey  "Ա">
@@ -31,16 +35,18 @@
 <!ENTITY helpFeedbackPage.label      "Ուղարկել արձագանք…">
 <!ENTITY helpFeedbackPage.accesskey  "Ո">
 
-
+<!ENTITY helpShowTour2.label            "Շրջայց &brandShortName;-ի հետ">
+<!ENTITY helpShowTour2.accesskey        "ջ">
 
 <!ENTITY preferencesCmdMac.label        "Կարգավորումներ…">
-
+<!ENTITY preferencesCmdMac.commandkey   ",">
 
 <!ENTITY servicesMenuMac.label          "Ծառայություններ">
 
-
+<!ENTITY hideThisAppCmdMac2.label       "Թաքցնել &brandShortName;-ը">
+<!ENTITY hideThisAppCmdMac2.commandkey  "H">
 
 <!ENTITY hideOtherAppsCmdMac.label      "Թաքցնել Մնացածը">
-
+<!ENTITY hideOtherAppsCmdMac.commandkey "H">
 
 <!ENTITY showAllAppsCmdMac.label        "Ցուցադրել բոլորը">

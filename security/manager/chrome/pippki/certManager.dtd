@@ -79,8 +79,8 @@
 <!ENTITY certmgr.details.accesskey            "դ">
 <!ENTITY certmgr.fields.label                 "Դաշտի արժեքը">
 <!ENTITY certmgr.fields.accesskey             "ա">
-
-
+<!ENTITY certmgr.hierarchy.label              "Վկայագրի Ծառը">
+<!ENTITY certmgr.hierarchy.accesskey2         "H">
 <!ENTITY certmgr.addException.label           "Ավելացնել բացառություն...">
 <!ENTITY certmgr.addException.accesskey       "բ">
 

@@ -15,8 +15,8 @@
 
 <!ENTITY engine.bookmarks.label           "Էջանիշեր">
 <!ENTITY engine.bookmarks.accesskey       "ի">
-
-
+<!ENTITY engine.readinglist.label         "Ընթերցանության ցուցակ">
+<!ENTITY engine.readinglist.accesskey     "ց">
 <!ENTITY engine.history.label             "Պատմություն">
 <!ENTITY engine.history.accesskey         "ւ">
 <!ENTITY engine.tabs.label                "Ներդիրներ">
