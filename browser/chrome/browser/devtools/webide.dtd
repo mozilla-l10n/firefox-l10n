@@ -191,4 +191,5 @@
 <!ENTITY wifi_auth_yes_scanner "មាន​ប្រអប់​បញ្ចូល​ម៉ាស៊ីន​ស្កេន QR ?">
 <!-- LOCALIZATION NOTE (wifi_auth_token_request): Instructions requesting the
      user to transfer authentication info by transferring a token. -->
+<!ENTITY wifi_auth_token_request "បើ​ឧបករណ៍​ផ្សេង​របស់​អ្នក​សួរ​រក​ថូខឹន​ជំនួស​ឲ្យ​ការ​ស្កេន​លេខ​កូដ QR, សូម​ចម្លង​តម្លៃ​ខាងក្រោម​ទៅកាន់​ឧបករណ៍​របស់​អ្នក៖">
 <!-- Logs panel -->
