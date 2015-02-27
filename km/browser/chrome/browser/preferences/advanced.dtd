@@ -34,8 +34,8 @@
 <!ENTITY healthReportLearnMore.label     "សិក្សា​​បន្ថែម">
 
 <!ENTITY telemetryDesc.label             "ចែករំលែក​ដំណើរការ ការ​ប្រើប្រាស់ ផ្នែក​រឹង និង​ការ​ប្ដូរ​ទិន្នន័យ​តាម​បំណង​អំពី​កម្មវិធី​រុករក​បណ្ដាញ​របស់​អ្នក​ដោយ​ប្រើ &vendorShortName; ដើម្បី​ជួយ​ធ្វើឲ្យ &brandShortName; ប្រសើរ​ឡើង">
-
-
+<!ENTITY enableTelemetryData.label       "ចែករំលែក​ទិន្នន័យ​បន្ថែម (ឧ. ទូរមាត្រ​វិធី)">
+<!ENTITY enableTelemetryData.accesskey   "ទ">
 <!ENTITY telemetryLearnMore.label        "សិក្សា​​បន្ថែម">
 
 <!ENTITY crashReporterDesc.label         "&brandShortName; ផ្ញើ​របាយការណ៍​គាំង​ដើម្បីឲ្យ &vendorShortName; ជួយ​ធ្វើឲ្យ​កម្មវិធី​រុករក​របស់​អ្នក​កាន់តែ​មាន​ស្ថិរភាព និង​សុវត្ថិភាព">
