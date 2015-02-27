@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY aboutApps.title2                          "Aplicații">
-<!ENTITY aboutApps.header                          "Aplicațiile dumneavoastră">
+<!ENTITY aboutApps.header                          "Aplicațiile tale">
 
 <!ENTITY aboutApps.browseMarketplace "Răsfoiți Firefox Marketplace">
 <!ENTITY aboutApps.uninstall "Dezinstalează">

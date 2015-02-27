@@ -15,7 +15,7 @@
 <!ENTITY newPref.numberPlaceholder     "Introdu un număr">
 
 <!ENTITY newPref.toggleButton          "Comută">
-<!ENTITY newPref.cancelButton          "Renunțare">
+<!ENTITY newPref.cancelButton          "Renunță">
 
 <!ENTITY contextMenu.copyPrefName      "Copiază numele">
 <!ENTITY contextMenu.copyPrefValue     "Copiază valoarea">

@@ -63,7 +63,7 @@
 <!ENTITY sync.configure.engines.sync.my.title.label "Sincronizarea dumneavoastră…">
 <!ENTITY sync.configure.engines.title.bookmarks "Semne de carte">
 <!ENTITY sync.configure.engines.title.passwords "Parolele">
-<!ENTITY sync.configure.engines.title.history "Istoricul">
+<!ENTITY sync.configure.engines.title.history "Istoric">
 <!ENTITY sync.configure.engines.title.tabs "File">
 <!-- Common text -->
 
@@ -203,7 +203,7 @@
 <!ENTITY fxaccount_status_device_name "Numele dispozitivului">
 <!ENTITY fxaccount_status_sync_server "Serverul de sincronizare">
 <!ENTITY fxaccount_status_sync "&syncBrand.shortName.label;">
-<!ENTITY fxaccount_status_sync_enabled "&syncBrand.shortName.label;: activat">
+<!ENTITY fxaccount_status_sync_enabled "&syncBrand.shortName.label;: activată">
 <!ENTITY fxaccount_status_needs_verification2 "Contul trebuie să fie verificat. Apasă pentru a retrimite e-mailul de verificare.">
 <!ENTITY fxaccount_status_needs_credentials "Nu se poate conecta. Apasă pentru a te autentifica.">
 <!ENTITY fxaccount_status_needs_upgrade "Trebuie să actualizezi &brandShortName; pentru a te autentifica.">
@@ -213,7 +213,7 @@
 <!ENTITY fxaccount_status_bookmarks "Semne de carte">
 <!ENTITY fxaccount_status_history "Istoric">
 <!ENTITY fxaccount_status_passwords "Parole">
-<!ENTITY fxaccount_status_tabs "Deschide filele">
+<!ENTITY fxaccount_status_tabs "File deschise">
 <!ENTITY fxaccount_status_legal "Mențiuni legale" >
 <!-- Localization note: when tapped, the following two strings link to
      external web pages.  Compare fxaccount_policy_{linktos,linkprivacy}:
@@ -224,7 +224,7 @@
 <!ENTITY fxaccount_status_more "Mai multe&ellipsis;">
 
 <!ENTITY fxaccount_remove_account_dialog_title "Elimini contul Firefox?">
-<!ENTITY fxaccount_remove_account_dialog_message "&brandShortName; va opri sincronizarea cu contul tău, dar nu va șterge date din datele de navigare pe acest dispozitiv.">
+<!ENTITY fxaccount_remove_account_dialog_message "&brandShortName; va opri sincronizarea cu contul tău, dar nu va șterge niciuna din datele tale de navigare pe acest dispozitiv.">
 <!-- Localization note: format string below will be replaced
      with the Firefox Account's email address. -->
 <!ENTITY fxaccount_remove_account_toast "Contul Firefox &formatS; eliminat.">

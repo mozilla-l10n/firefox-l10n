@@ -62,6 +62,11 @@
 <!ENTITY netOffline.title "Mod offline">
 <!-- LOCALIZATION NOTE (netOffline.longDesc3) This string contains markup including widgets enabling wifi connections.
      The text inside the tags should be localized. Do not touch the ids. -->
+<!ENTITY netOffline.longDesc3 "<ul> 
+<li>Încearcă din nou. &brandShortName; va încerca să deschidă o conexiune și să reîncarce pagina. 
+<button id='wifi'>Activează Wi-Fi</button> 
+</li> 
+</ul>">
 
 <!ENTITY contentEncodingError.title "Eroare în codarea conținutului">
 <!ENTITY contentEncodingError.longDesc "<ul> 

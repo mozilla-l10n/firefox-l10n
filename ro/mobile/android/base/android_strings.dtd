@@ -13,7 +13,7 @@
 <!-- Localization note: These are used as the titles of different pages on the home screen.
      They are automatically converted to all caps by the Android platform. -->
 
-<!ENTITY  bookmarks_title "Marcaje">
+<!ENTITY  bookmarks_title "Semne de carte">
 <!ENTITY  history_title "Istoric">
 <!ENTITY  reading_list_title "Listă de citit">
 <!ENTITY  recent_tabs_title "File recente">
@@ -28,7 +28,7 @@
 <!ENTITY  crash_comment "Adăugați un comentariu (comentariile sunt vizibile publicului)">
 <!ENTITY  crash_allow_contact2 "Permite &vendorShortName; să mă contacteze referitor la acest raport">
 <!ENTITY  crash_email "Emailul dumneavoastră">
-<!ENTITY  crash_closing_alert "Ieșiți fără să trimiteți un raport de defecțiune?">
+<!ENTITY  crash_closing_alert "Ieși fără să trimiți un raport de defect?">
 <!ENTITY  sending_crash_report "Se trimite raportul de defect\u2026">
 <!ENTITY  crash_close_label "Închide">
 <!ENTITY  crash_restart_label "Repornește &brandShortName;">
@@ -60,7 +60,7 @@
 <!ENTITY back "Înapoi">
 <!ENTITY stop "Oprire">
 <!ENTITY site_security "Securitatea saitului">
-<!ENTITY edit_mode_cancel "Anulează">
+<!ENTITY edit_mode_cancel "Renunță">
 
 <!ENTITY close_tab "Închide fila">
 <!ENTITY one_tab "o filă">
@@ -78,19 +78,19 @@
 <!ENTITY settings_title "Setări">
 <!ENTITY pref_category_advanced "Avansat">
 <!ENTITY pref_category_customize "Personalizare">
-<!ENTITY pref_category_customize_summary "Acasă, căutare, file, import">
+<!ENTITY pref_category_customize_summary "Pagina de start, căutare, file, importare">
 <!-- Localization note (pref_category_language) : This is the preferences
      section in which the user picks the locale in which to display Firefox
      UI. The locale includes both language and region concepts. -->
 
 <!ENTITY pref_category_language "Limbă">
 <!ENTITY pref_category_language_summary "Schimbă limba navigatorului">
-<!ENTITY pref_browser_locale "Limbă utilizator">
+<!ENTITY pref_browser_locale "Limba navigatorului">
 <!-- Localization note (locale_system_default) : This string indicates that
      Firefox will use the locale currently selected in Android's settings
      to display browser chrome. -->
 
-<!ENTITY locale_system_default "Setarea de bază a sistemului">
+<!ENTITY locale_system_default "Setarea implicită a sistemului">
 <!-- Localization note (overlay_share_label) : This is the label that appears
      in Android's intent chooser when sending a link to Firefox to bookmark,
      send to another device, or add to Reading List. -->
@@ -115,34 +115,34 @@
 <!ENTITY overlay_share_retry "Încearcă din nou">
 <!ENTITY overlay_share_select_device "Selectați un dispozitiv">
 
-<!ENTITY pref_category_search3 "Caută">
+<!ENTITY pref_category_search3 "Căutare">
 <!ENTITY pref_category_search_summary "Personalizează furnizorii de motoare de căutare">
 <!ENTITY pref_category_display "Ecran">
-<!ENTITY pref_category_display_summary "Text, bară de titlu, navigare pe întregul ecran">
+<!ENTITY pref_category_display_summary "Text, bară de titlu, navigare pe tot ecranul">
 <!ENTITY pref_category_privacy_short "Confidențialitate">
-<!ENTITY pref_category_privacy_summary "Gestionați parole, cookies, istoric, data">
+<!ENTITY pref_category_privacy_summary "Controlează parole, cookie-uri, urmărire, date">
 <!ENTITY pref_category_vendor "&vendorShortName;">
 <!ENTITY pref_category_vendor_summary "Despre &brandShortName;FAQs, opțiuni de date">
 <!ENTITY pref_category_datareporting "Opțiuni de date">
 <!ENTITY pref_learn_more "Aflați mai multe">
 <!ENTITY pref_category_installed_search_engines "Motoare de căutare instalate">
-<!ENTITY pref_category_add_search_providers "Adăugați mai multe motoare de căutare">
+<!ENTITY pref_category_add_search_providers "Adaugă mai multe motoare de căutare">
 <!ENTITY pref_category_search_restore_defaults "Restaurează motoarele de căutare">
-<!ENTITY pref_search_restore_defaults "Revino la opțiunile inițiale">
+<!ENTITY pref_search_restore_defaults "Restaurează setările implicite">
 <!ENTITY pref_search_restore_defaults_summary "Restaurează setările implicite">
 <!-- Localization note (pref_search_hint) : "TIP" as in "hint", "clue" etc. Displayed as an
      advisory message on the customise search providers settings page explaining how to add new
      search providers.
      The &formatI; in the string will be replaced by a small image of the icon described, and can be moved to wherever
      it is applicable. -->
-<!ENTITY pref_search_hint "Sfat: Pentru a adăuga un site la lista de motoare de căutare, apăsați lung pe bara de căutare de pe site și apoi dați clic pe &formatI; ">
+<!ENTITY pref_search_hint "PONT: Adaugă orice sait în lista motoarelor de căutare prin lunga apăsare pe câmpul de căutare de pe sait iar apoi apăsând iconița &formatI;.">
 <!ENTITY pref_category_devtools "Unelte de dezvoltare">
 <!ENTITY pref_category_devtools_summary "Depanare de la distanță, sclipire la pictare">
 <!ENTITY pref_developer_paint_flashing "Sclipire la pictare">
 <!ENTITY pref_developer_remotedebugging "Depanare de la distanță">
-<!ENTITY pref_remember_signons "Memorează parolele">
+<!ENTITY pref_remember_signons "Reține parolele">
 
-<!ENTITY pref_category_home "Acasă">
+<!ENTITY pref_category_home "Pagină de start">
 <!ENTITY pref_category_home_summary "Personalizează pagina de start">
 <!ENTITY pref_category_home_panels "Panouri">
 <!ENTITY home_add_panel_title "Adăugați un nou panou">
@@ -156,7 +156,7 @@
 <!ENTITY pref_home_updates_enabled "Activate">
 <!ENTITY pref_home_updates_wifi "Doar prin Wi-Fi">
 <!ENTITY pref_home_suggested_sites "Arată sugestii de saituri">
-<!ENTITY pref_home_suggested_sites_summary "Afișează linkuri pe pagina de pornire către alte pagini pe care noi credem că te-ar interesa">
+<!ENTITY pref_home_suggested_sites_summary "Afișează scurtături pe pagina de start către saituri pe care noi credem că le-ai putea considera interesante">
 <!-- Localization note: These are shown in the left sidebar on tablets -->
 
 <!ENTITY pref_header_customize "Personalizare">
@@ -174,10 +174,10 @@
 
 <!ENTITY pref_tracking_protection_title "Protecție de urmărire">
 <!ENTITY pref_tracking_protection_summary "&brandShortName; va împiedica saiturile să vă urmărească">
-<!ENTITY pref_donottrack_title "Nu înregistra acțiunile utilizatorilor">
-<!ENTITY pref_donottrack_summary "&brandShortName; va spune siteurilor că nu dorești ca ei să înregistreze acțiunile tale pe paginile lor">
+<!ENTITY pref_donottrack_title "Nu mă urmări">
+<!ENTITY pref_donottrack_summary "&brandShortName; va spune saiturilor că nu dorești să fi urmărit">
 
-<!ENTITY pref_char_encoding "Arată codarea caracterelor">
+<!ENTITY pref_char_encoding "Codare de caractere">
 <!ENTITY pref_char_encoding_on "Arată meniul">
 <!ENTITY pref_char_encoding_off "Nu arăta meniul">
 <!ENTITY pref_clear_private_data2 "Curăță acum">
@@ -189,10 +189,10 @@
 <!ENTITY pref_plugins_enabled "Activate">
 <!ENTITY pref_plugins_tap_to_play "Apasă pentru redare">
 <!ENTITY pref_plugins_disabled "Dezactivate">
-<!ENTITY pref_text_size "Mărime text">
-<!ENTITY pref_reflow_on_zoom4 "Reîncadrare text">
+<!ENTITY pref_text_size "Mărimea textului">
+<!ENTITY pref_reflow_on_zoom4 "Reîncadrarea textului">
 <!ENTITY pref_restore "File">
-<!ENTITY pref_restore_always "Restaurează întotdeauna">
+<!ENTITY pref_restore_always "Restaurează mereu">
 <!ENTITY pref_restore_quit "Nu restaura după ieșirea din &brandShortName;">
 <!ENTITY pref_font_size_tiny "Foarte mică">
 <!ENTITY pref_font_size_small "Mic">
@@ -228,7 +228,7 @@ size. -->
 <!ENTITY pref_private_data_passwords "Parole salvate">
 <!ENTITY pref_private_data_cache "Cache">
 <!ENTITY pref_private_data_offlineApps "Datele saiturilor offline">
-<!ENTITY pref_private_data_siteSettings2 "Setările saitului">
+<!ENTITY pref_private_data_siteSettings2 "Setările saiturilor">
 <!ENTITY pref_private_data_downloadFiles2 "Descărcări">
 
 
@@ -236,7 +236,7 @@ size. -->
 <!ENTITY pref_vendor_faqs "Întrebări frecvente">
 <!ENTITY pref_vendor_feedback "Trimite opiniile">
 
-<!ENTITY pref_dialog_set_default "Alege ca setare de bază ">
+<!ENTITY pref_dialog_set_default "Setează ca implicit">
 <!ENTITY pref_dialog_default "Standard">
 <!ENTITY pref_dialog_remove "Elimină">
 
@@ -263,9 +263,9 @@ size. -->
 
 <!ENTITY datareporting_fhr_title "Raport de stare &brandShortName;">
 <!ENTITY datareporting_fhr_summary2 "Împărtășiți date cu &vendorShortName; în legătură cu starea navigatorului și vă ajută să înțelegi performanța navigatorului">
-<!ENTITY datareporting_abouthr_title "Vedeți raportul meu de stare">
+<!ENTITY datareporting_abouthr_title "Vezi raportul meu de stare">
 <!ENTITY datareporting_telemetry_title "Telemetrie">
-<!ENTITY datareporting_telemetry_summary "Împărtășește datele privind performanța, utilizarea, hardware-ul și personalizările navigatorului dumneavoastră cu &vendorShortName; pentru a ne ajuta să facem &brandShortName; mai bun">
+<!ENTITY datareporting_telemetry_summary "Împărtășește datele privind performanța, consumul, hardware-ul și personalizările navigatorului cu &vendorShortName; pentru a ne ajuta să facem &brandShortName; mai bun">
 <!ENTITY datareporting_crashreporter_summary "&brandShortName; transmite rapoarte de defecte pentru a ajuta &vendorShortName; să facă navigatorul dumneavoastră mai stabil și sigur">
 <!-- Localization note (datareporting_crashreporter_title_short) : This string matches
      (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
@@ -278,7 +278,7 @@ size. -->
 <!ENTITY pref_update_autodownload2 "Descarcă actualizări automat">
 <!ENTITY pref_update_autodownload_wifi "Doar prin Wi-Fi">
 <!ENTITY pref_update_autodownload_never "Niciodată">
-<!ENTITY pref_update_autodownload_always "Întotdeauna">
+<!ENTITY pref_update_autodownload_always "Mereu">
 <!-- Localization note (help_menu) : This string is used in the main menu-->
 
 <!ENTITY help_menu "Ajutor">
@@ -295,7 +295,7 @@ size. -->
 <!ENTITY share_image_failed "Imposibil de împărtășit această imagine">
 <!ENTITY save_as_pdf "Salvează ca PDF">
 <!ENTITY find_in_page "Găsește în pagină">
-<!ENTITY desktop_mode "Cere versiunea pentru calculator">
+<!ENTITY desktop_mode "Cere versiunea pt. calculator">
 <!ENTITY page "Pagină">
 <!ENTITY tools "Unelte">
 <!ENTITY new_tab "Filă nouă">
@@ -339,14 +339,14 @@ size. -->
 <!ENTITY contextmenu_top_sites_unpin "Anulează fixarea saitului">
 <!ENTITY contextmenu_add_search_engine "Adaugă un motor de căutare">
 
-<!ENTITY pref_titlebar_mode "Bară titlu">
+<!ENTITY pref_titlebar_mode "Bară de titlu">
 <!ENTITY pref_titlebar_mode_title "Arată titlul paginii">
 <!ENTITY pref_titlebar_mode_url "Arată adresa paginii">
 <!-- Localization note (pref_scroll_title_bar2): Label for setting that controls
      whether or not the dynamic toolbar is enabled. -->
 
-<!ENTITY pref_scroll_title_bar2 "Navigare pe întregul ecran">
-<!ENTITY pref_scroll_title_bar_summary "Ascunde bara de titlu a &brandShortName; când mergi mai jos pe pagină">
+<!ENTITY pref_scroll_title_bar2 "Navigare pe tot ecranul">
+<!ENTITY pref_scroll_title_bar_summary "Ascunde bara de titlu a &brandShortName; când derulezi în jos a paginii">
 <!-- Localization note (page_removed): This string appears in a toast message when
      any page is removed frome about:home. This includes pages that are in history,
      bookmarks, or reading list. -->
@@ -381,7 +381,7 @@ size. -->
 <!ENTITY masterpassword_create_title "Creează o parolă generală">
 <!ENTITY masterpassword_remove_title "Eliminare parolă generală">
 <!ENTITY masterpassword_password "Parolă">
-<!ENTITY masterpassword_confirm "Confirmare parolă">
+<!ENTITY masterpassword_confirm "Confirmă parola">
 
 <!ENTITY button_ok "Ok">
 <!ENTITY button_cancel "Renunță">
@@ -491,7 +491,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY loaded_tracking_content_message_top "Protecția de urmărire e dezactivată.">
 <!ENTITY loaded_tracking_content_message_bottom "Părți ale acestei pagini pot urmări activitatea ta online.">
-<!ENTITY blocked_tracking_content_message_top2 "Protecția de urmă e activată.">
+<!ENTITY blocked_tracking_content_message_top2 "Protecția de urmărire e activată.">
 <!ENTITY blocked_tracking_content_message_bottom2 "Părți ale paginii care urmăresc activitatea ta online au fost blocate.">
 <!-- Common mixed and tracking content strings in site identity popup -->
 
