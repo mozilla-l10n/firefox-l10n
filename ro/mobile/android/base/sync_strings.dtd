@@ -200,34 +200,40 @@
 <!ENTITY fxaccount_status_auth_server "Serverul contului">
 <!ENTITY fxaccount_status_sync_now "Sincronizează acum">
 <!ENTITY fxaccount_status_syncing2 "Se sincronizează…">
-
-
+<!ENTITY fxaccount_status_device_name "Numele dispozitivului">
+<!ENTITY fxaccount_status_sync_server "Serverul de sincronizare">
 <!ENTITY fxaccount_status_sync "&syncBrand.shortName.label;">
 <!ENTITY fxaccount_status_sync_enabled "&syncBrand.shortName.label;: activat">
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY fxaccount_status_needs_verification2 "Contul trebuie să fie verificat. Apasă pentru a retrimite e-mailul de verificare.">
+<!ENTITY fxaccount_status_needs_credentials "Nu se poate conecta. Apasă pentru a te autentifica.">
+<!ENTITY fxaccount_status_needs_upgrade "Trebuie să actualizezi &brandShortName; pentru a te autentifica.">
+<!ENTITY fxaccount_status_needs_master_sync_automatically_enabled "&syncBrand.shortName.label; este configurat, însă sincronizarea automată e dezactivată. Comută „Sincronizați automat datele” în setările Android &gt; Utilizare date.">
+<!ENTITY fxaccount_status_needs_master_sync_automatically_enabled_v21 "&syncBrand.shortName.label; este configurat, însă sincronizarea automată e dezactivată. Comută „Sincronizați automat datele” în setările Android &gt; Conturi.">
+<!ENTITY fxaccount_status_needs_finish_migrating "Apasă pentru a te autentifica în noul cont Firefox.">
+<!ENTITY fxaccount_status_bookmarks "Semne de carte">
+<!ENTITY fxaccount_status_history "Istoric">
+<!ENTITY fxaccount_status_passwords "Parole">
+<!ENTITY fxaccount_status_tabs "Deschide filele">
+<!ENTITY fxaccount_status_legal "Mențiuni legale" >
 <!-- Localization note: when tapped, the following two strings link to
      external web pages.  Compare fxaccount_policy_{linktos,linkprivacy}:
      these strings are separated to accommodate languages that decline
      the two uses differently. -->
+<!ENTITY fxaccount_status_linktos "Termenii serviciului">
+<!ENTITY fxaccount_status_linkprivacy "Politica de confidențialitate">
+<!ENTITY fxaccount_status_more "Mai multe&ellipsis;">
 
-
-
-
+<!ENTITY fxaccount_remove_account_dialog_title "Elimini contul Firefox?">
+<!ENTITY fxaccount_remove_account_dialog_message "&brandShortName; va opri sincronizarea cu contul tău, dar nu va șterge date din datele de navigare pe acest dispozitiv.">
 <!-- Localization note: format string below will be replaced
      with the Firefox Account's email address. -->
+<!ENTITY fxaccount_remove_account_toast "Contul Firefox &formatS; eliminat.">
 
+<!ENTITY fxaccount_remove_account_menu_item "Elimină contul">
 <!-- Localization note: this is the name shown by the Android system
      itself for a Firefox Account. Don't localize this. -->
+
+<!ENTITY fxaccount_account_type_label "Firefox">
 <!-- Localization note: these are shown by the Android system itself,
      when the user navigates to the Android > Accounts > {Firefox
      Account} Screen. The link takes the user to the Firefox Account
@@ -235,22 +241,30 @@
      Account. -->
 
 <!ENTITY fxaccount_options_title "Opțiuni &syncBrand.shortName.label;">
-
+<!ENTITY fxaccount_options_configure_title "Configurează &syncBrand.shortName.label;">
 <!-- Localization note: these error messages are shown after a request
      has been made to the remote server, and an error of some type has
      been returned. -->
+
+<!ENTITY fxaccount_remote_error_UPGRADE_REQUIRED "Trebuie să actualizezi Firefox">
 <!-- Localization note: the format string will be fxaccount_sign_in_button_label, linkified. -->
 
+<!ENTITY fxaccount_remote_error_ATTEMPT_TO_CREATE_AN_ACCOUNT_THAT_ALREADY_EXISTS_2 "Contul există deja. &formatS1;">
+<!ENTITY fxaccount_remote_error_ATTEMPT_TO_ACCESS_AN_ACCOUNT_THAT_DOES_NOT_EXIST "E-mail sau parolă invalide">
+<!ENTITY fxaccount_remote_error_INCORRECT_PASSWORD "E-mail sau parolă invalide">
+<!ENTITY fxaccount_remote_error_ATTEMPT_TO_OPERATE_ON_AN_UNVERIFIED_ACCOUNT "Contul nu e verificat">
+<!ENTITY fxaccount_remote_error_CLIENT_HAS_SENT_TOO_MANY_REQUESTS "Server ocupat, încearcă iar curând">
+<!ENTITY fxaccount_remote_error_SERVICE_TEMPORARILY_UNAVAILABLE_TO_DUE_HIGH_LOAD "Server ocupat, încearcă iar curând">
+<!ENTITY fxaccount_remote_error_UNKNOWN_ERROR "A apărut o problemă">
+<!ENTITY fxaccount_remote_error_COULD_NOT_CONNECT "Nu se poate conecta la rețea">
+<!ENTITY fxaccount_remote_error_ACCOUNT_LOCKED "Contul e blocat. &formatS1;">
 
-
-
-
-
-
-
-
+<!ENTITY fxaccount_sync_sign_in_error_notification_title2 "&syncBrand.shortName.label; nu este conectat">
 <!-- Localization note: the format string below will be replaced
      with the Firefox Account's email address. -->
+<!ENTITY fxaccount_sync_sign_in_error_notification_text2 "Apasă pentru a te autentifica ca &formatS;">
 
+<!ENTITY fxaccount_sync_finish_migrating_notification_title "Ai termiant actualizarea &syncBrand.shortName.label;?">
 <!-- Localization note: the format string below will be replaced
      with the Firefox Account's email address. -->
+<!ENTITY fxaccount_sync_finish_migrating_notification_text "Apasă pentru a te autentifica ca &formatS;">

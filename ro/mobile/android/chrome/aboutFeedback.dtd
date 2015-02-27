@@ -17,6 +17,8 @@
 <!-- LOCALIZATION NOTE (support.link): Avoid leading/trailing spaces, this text is a link. -->
 <!-- LOCALIZATION NOTE (support.post): Include a starting space as needed. -->
 
+<!ENTITY support.pre3              "Vizitați ">
+<!ENTITY support.link2             "saitul nostru pentru asistență">
 <!ENTITY support.post3             " pentru a primi răspunsuri la problemele comune.">
 
 <!ENTITY happy.header              "Asta e minunat să aud!">

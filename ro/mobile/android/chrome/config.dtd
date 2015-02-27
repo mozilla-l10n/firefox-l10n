@@ -7,11 +7,15 @@
 
 <!ENTITY newPref.namePlaceholder       "Nume">
 
+<!ENTITY newPref.valueBoolean          "Adevărat/fals">
+<!ENTITY newPref.valueString           "Text">
+<!ENTITY newPref.valueInteger          "Număr">
 
+<!ENTITY newPref.stringPlaceholder     "Introdu un text">
+<!ENTITY newPref.numberPlaceholder     "Introdu un număr">
 
-
-
-
+<!ENTITY newPref.toggleButton          "Comută">
 <!ENTITY newPref.cancelButton          "Renunțare">
 
-
+<!ENTITY contextMenu.copyPrefName      "Copiază numele">
+<!ENTITY contextMenu.copyPrefValue     "Copiază valoarea">
