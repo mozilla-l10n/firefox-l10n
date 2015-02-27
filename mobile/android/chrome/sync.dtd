@@ -14,7 +14,7 @@
 <!ENTITY sync.setup.title           "Conectare la sincronizare">
 <!ENTITY sync.setup.pair            "Pentru activare, selectează „Împerechează un dispozitiv” de pe celălalt dispozitiv.">
 <!ENTITY sync.fallback              "Nu sunt aproape de calculatorul meu…">
-<!ENTITY sync.setup.manual          "Introduceți informațiile contului dumneavoastră de sincronizare">
+<!ENTITY sync.setup.manual          "Introdu informațiile de sincronizare ale contului">
 <!ENTITY sync.account               "Nume cont">
 <!ENTITY sync.password              "Parolă">
 <!ENTITY sync.recoveryKey           "Cheie de recuperare">
@@ -26,6 +26,6 @@
 <!ENTITY sync.setup.waiting2        "Se așteaptă după celălalt dispozitiv…">
 
 <!ENTITY sync.pair.title            "Împerechează un dispozitiv">
-<!ENTITY sync.pair.description      "Pentru a activa noul dispozitiv, selectați „Setați sincronizarea” pe celălalt dispozitiv.">
+<!ENTITY sync.pair.description      "Pentru a activa noul dispozitiv, selectează „Setați sincronizarea” pe dispozitiv.">
 <!ENTITY sync.setup.close           "Închide">
-<!ENTITY sync.setup.waitingdownload "Datele dumneavoastră sunt în curs de descărcare în fundal. Puteți închide această fereastră oricând.">
+<!ENTITY sync.setup.waitingdownload "Datele sunt în curs de descărcare în fundal. Poți închide această fereastră oricând.">
