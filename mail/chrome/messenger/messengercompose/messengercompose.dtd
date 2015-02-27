@@ -259,11 +259,11 @@
 
 <!ENTITY spellCheckNoSuggestions.label "Ni najti predlogov">
 <!ENTITY spellCheckIgnoreWord.label "Prezri besedo">
-<!ENTITY spellCheckIgnoreWord.accesskey "i">
+<!ENTITY spellCheckIgnoreWord.accesskey "e">
 <!ENTITY spellCheckAddToDictionary.label "Dodaj v slovar">
-<!ENTITY spellCheckAddToDictionary.accesskey "s">
+<!ENTITY spellCheckAddToDictionary.accesskey "D">
 <!ENTITY undo.label "Razveljavi">
-<!ENTITY undo.accesskey "U">
+<!ENTITY undo.accesskey "R">
 <!ENTITY cut.label "Izreži">
 <!ENTITY cut.accesskey "z">
 <!ENTITY copy.label "Kopiraj">
@@ -271,18 +271,18 @@
 <!ENTITY paste.label "Prilepi">
 <!ENTITY paste.accesskey "P">
 <!ENTITY pasteQuote.label "Prilepi kot navedek">
-<!ENTITY pasteQuote.accesskey "k">
+<!ENTITY pasteQuote.accesskey "n">
 
 <!ENTITY openAttachment.label "Odpri">
 <!ENTITY openAttachment.accesskey "O">
 <!ENTITY delete.label "Izbriši">
 <!ENTITY delete.accesskey "b">
 <!ENTITY removeAttachment.label "Odstrani priponke">
-<!ENTITY removeAttachment.accesskey "t">
+<!ENTITY removeAttachment.accesskey "d">
 <!ENTITY renameAttachment.label "Preimenuj …">
-<!ENTITY renameAttachment.accesskey "r">
+<!ENTITY renameAttachment.accesskey "m">
 <!ENTITY selectAll.label "Izberi vse">
-<!ENTITY selectAll.accesskey "b">
+<!ENTITY selectAll.accesskey "e">
 <!ENTITY attachFile.label "Pripni datoteke …">
 <!ENTITY attachFile.accesskey "d">
 <!ENTITY attachCloud.label "Filelink …">
