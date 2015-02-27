@@ -4,7 +4,7 @@
 <!ENTITY addons.windowTitle                   "Chestor de complementos">
 
 <!ENTITY search.placeholder                   "Mirar totz os complementos">
-
+<!ENTITY search.buttonlabel                   "Mirar">
 <!-- LOCALIZATION NOTE (search.commandKey):
      The search command key should match findOnCmd.commandkey from browser.dtd -->
 <!ENTITY search.commandkey                    "f">
@@ -36,6 +36,8 @@
 <!ENTITY info.plugincheck.label                 "Prete aquí ta veyer si os suyos plugins son actualizaus">
 <!ENTITY info.plugincheck.tooltip               "Prete aquí ta veyer si os suyos plugins son actualizaus">
 <!-- categories / views -->
+
+<!ENTITY view.search.label                    "Mirar">
 <!ENTITY view.discover.label                  "Mas complementos">
 <!ENTITY view.recentUpdates.label             "Actualizacions recients">
 <!ENTITY view.availableUpdates.label          "Actualizacions disponibles">
@@ -228,3 +230,4 @@ beluns d'os millors y mas populars complementos ta que los prebe.">
 <!ENTITY experiment.info.changetelemetry "Achustes de telemetría">
 <!ENTITY experiment.info.changetelemetry.accesskey "T">
 
+<!ENTITY setting.learnmore "Ta saber-ne mas…">
