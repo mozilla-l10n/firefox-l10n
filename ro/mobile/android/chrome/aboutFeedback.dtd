@@ -17,7 +17,7 @@
 <!-- LOCALIZATION NOTE (support.link): Avoid leading/trailing spaces, this text is a link. -->
 <!-- LOCALIZATION NOTE (support.post): Include a starting space as needed. -->
 
-
+<!ENTITY support.post3             " pentru a primi răspunsuri la problemele comune.">
 
 <!ENTITY happy.header              "Asta e minunat să aud!">
 <!-- LOCALIZATION NOTE (happy.message): "share the love" — This feels purposely exaggerated in English,
@@ -33,13 +33,14 @@
 <!ENTITY happy.maybeLater2         "Poate mai târziu">
 <!ENTITY happy.noThanks            "Nu mulțumesc">
 
+<!ENTITY sad.header                "O, nu!">
 <!ENTITY sad.message               "Ne pare rău că ați avut niște probleme cu &brandShortName;. Spuneți-ne ce s-a întâmplat astfel să remediem problema.">
 <!ENTITY sad.placeholder           "Introduceți opinia dumneavoastră aici">
-
+<!ENTITY sad.lastSite2             "Include saitul vizitat ultima dată">
 <!-- LOCALIZATION NOTE (sad.urlPlaceholder): Placeholder text that appears in "Last visited site" input box when there is no text. -->
 
 <!ENTITY sad.urlPlaceholder        "http://">
-
+<!ENTITY sad.thanksHeader2         "Îți mulțumim.">
 <!-- LOCALIZATION NOTE (sad.thanksMessageTop): "real people" — We're stating that an actual human will look at the feedback
      and that it doesn't just go to some automated system that looks for keywords, or something like that. -->
 
@@ -50,4 +51,5 @@
 
 <!ENTITY sad.thanksMessageBottom   "sau alta.">
 
+<!ENTITY feedback.privacy2         "Pentru confidențialitatea ta, te rugăm să nu incluzi nicio informație personală în opinie.">
 <!ENTITY feedback.send             "Trimite opiniile">
