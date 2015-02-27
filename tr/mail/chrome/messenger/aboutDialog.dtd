@@ -1,4 +1,4 @@
-<!ENTITY aboutDialog.title          "&brandFullName; hakkında">
+<!ENTITY aboutDialog.title          "&brandFullName; Hakkında">
 <!-- LOCALIZATION NOTE (update.checkForUpdatesButton.*, update.updateButton.*, update.applyButtonBillboard.*):
 # Only one button is present at a time.
 # The button when displayed is located directly under the Thunderbird version in
@@ -6,18 +6,18 @@
 -->
 
 
-<!ENTITY update.checkForUpdatesButton.label       "Güncellemeleri denetle">
+<!ENTITY update.checkForUpdatesButton.label       "Güncellemeleri Denetle">
 <!ENTITY update.checkForUpdatesButton.accesskey   "G">
-<!ENTITY update.updateButton.label2               "Güncellemek için &brandShortName; uygulamasını yeniden başlat">
+<!ENTITY update.updateButton.label2               "Güncellemek için &brandShortName; Uygulamasını Yeniden Başlat">
 <!ENTITY update.updateButton.accesskey            "G">
-<!ENTITY update.applyButtonBillboard.label        "Güncellemeyi uygula...">
-<!ENTITY update.applyButtonBillboard.accesskey    "u">
+<!ENTITY update.applyButtonBillboard.label        "Güncellemeyi Uygula...">
+<!ENTITY update.applyButtonBillboard.accesskey    "U">
 <!-- LOCALIZATION NOTE (warningDesc.version): This is a warning about the experimental nature of Nightly and Aurora builds. It is only shown in those versions. -->
 
 
 <!ENTITY warningDesc.version        "&brandShortName; deneyseldir ve kararsız olabilir.">
 <!-- LOCALIZATION NOTE (warningDesc.telemetryDesc): This is a notification that Nightly/Aurora builds automatically send Telemetry data back to Mozilla. It is only shown in those versions. "It" refers to brandShortName. -->
-<!ENTITY warningDesc.telemetryDesc  "&brandShortName; uygulamasını iyileştirmek için &vendorShortName;'ya otomatik olarak performans, donanım, kullanım ve özelleştirmelerle ilgili bilgi gönderir.">
+<!ENTITY warningDesc.telemetryDesc  "&brandShortName; uygulamasını iyileştirmek için &vendorShortName; organizasyonuna otomatik olarak performans, donanım, kullanım ve özelleştirmelerle ilgili bilgi gönderir.">
 <!-- LOCALIZATION NOTE (community.exp.*) This paragraph is shown in "experimental" builds, i.e. Nightly and Aurora builds, instead of the other "community.*" strings below. -->
 
 <!ENTITY community.exp.start        "">
@@ -45,10 +45,10 @@
 <!ENTITY helpus.end                 "">
 <!-- LOCALIZATION NOTE (bottomLinks.license): This is a link title that links to about:license. -->
 
-<!ENTITY bottomLinks.license        "Lisans bilgisi">
+<!ENTITY bottomLinks.license        "Lisans Bilgisi">
 <!-- LOCALIZATION NOTE (bottomLinks.rights): This is a link title that links to about:rights. -->
 
-<!ENTITY bottomLinks.rights         "Son kullanıcı hakları">
+<!ENTITY bottomLinks.rights         "Son Kullanıcı Hakları">
 <!-- LOCALIZATION NOTE (bottomLinks.privacy): This is a link title that links to https://www.mozilla.org/legal/privacy/. -->
 
 <!ENTITY bottomLinks.privacy        "Gizlilik İlkeleri">
@@ -60,14 +60,15 @@
 <!-- LOCALIZATION NOTE (update.adminDisabled): try to make the localized text short (see bug 596813 for screenshots). -->
 <!ENTITY update.adminDisabled       "Güncellemeler sistem yöneticiniz tarafından devre dışı bırakılmış">
 <!-- LOCALIZATION NOTE (update.otherInstanceHandlingUpdates): try to make the localized text short -->
+<!ENTITY update.otherInstanceHandlingUpdates "&brandShortName; başka bir kopyası tarafından şu an güncelleniyor">
 <!-- LOCALIZATION NOTE (update.failed.start,update.failed.linkText,update.failed.end):
      update.failed.start, update.failed.linkText, and update.failed.end all go into
      one line with linkText being wrapped in an anchor that links to a site to download
      the latest version of Firefox (e.g. http://www.firefox.com). As this is all in
      one line, try to make the localized text short (see bug 596813 for screenshots). -->
 
-<!ENTITY update.failed.start        "Güncelleme başarısız. ">
-<!ENTITY update.failed.linkText     "Son sürümü indirin">
+<!ENTITY update.failed.start        "Güncelleme başarısız oldu.">
+<!ENTITY update.failed.linkText     "Son sürümü indir">
 <!ENTITY update.failed.end          "">
 <!-- LOCALIZATION NOTE (update.manual.start,update.manual.end): update.manual.start and update.manual.end
      all go into one line and have an anchor in between with text that is the same as the link to a site
@@ -84,8 +85,8 @@
      why the system is no longer supported. As this is all in one line, try to
      make the localized text short (see bug 843497 for screenshots). -->
 
-<!ENTITY update.unsupported.start    "Bu sistemde yeni güncellemeleri kullanamazsınız. ">
-<!ENTITY update.unsupported.linkText "Daha fazla bilgi">
+<!ENTITY update.unsupported.start    "Bu sistemde yeni güncellemeleri yapamazsınız.">
+<!ENTITY update.unsupported.linkText "Daha fazla bilgi alın">
 <!ENTITY update.unsupported.end      "">
 <!-- LOCALIZATION NOTE (update.downloading.start,update.downloading.end): update.downloading.start and 
      update.downloading.end all go into one line, with the amount downloaded inserted in between. As this

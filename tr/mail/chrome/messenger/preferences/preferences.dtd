@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY  prefWindow.titleWin     "Seçenekler">
-<!ENTITY  prefWindow.titleGNOME   "&brandShortName; tercihleri">
+<!ENTITY  prefWindow.titleGNOME   "&brandShortName; Tercihleri">
 <!ENTITY  prefWindow.titleMAC     "Tercihler">
 <!ENTITY  prefWindow.styleWindows "width: 48em; min-height: 38.5em;">
 <!ENTITY  prefWindow.styleMac     "width: 52em;">
@@ -19,4 +19,5 @@
 <!ENTITY paneAdvanced.title       "Gelişmiş">
 <!ENTITY paneAccount.title        "Hesaplar">
 
-
+<!ENTITY okButton.title           "Tamam">
+<!ENTITY okButton.accesskey       "T">

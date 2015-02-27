@@ -3,12 +3,12 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY itemJunk.label          "Gereksiz">
-<!ENTITY itemPhishing.label      "E-posta sahtekârlıkları">
+<!ENTITY itemPhishing.label      "E-posta Sahtekârlıkları">
 <!ENTITY itemPasswords.label     "Parolalar">
 <!ENTITY itemAntiVirus.label     "Antivirüs">
 <!-- Junk Mail Controls -->
 
-<!ENTITY junkMail.intro "Öntanımlı gereksiz posta ayarlarınızı yapılandırın. Hesap bazlı gereksiz posta ayarları, hesap ayarlarından yapılandırılabilir.">
+<!ENTITY junkMail.intro "Varsayılan gereksiz posta ayarlarınızı yapılandırın. Hesaba özel gereksiz posta ayarları, Hesap Ayarları'ndan yapılandırılabilir.">
 <!ENTITY manualMark.label "İletileri gereksiz olarak işaretlediğimde:">
 <!ENTITY manualMark.accesskey "l">
 <!ENTITY manualMarkModeMove.label "Hesaba ait &quot;Gereksiz&quot; dizinine taşı">
@@ -21,12 +21,12 @@
 <!ENTITY enableAdaptiveJunkLogging.accesskey "n">
 <!ENTITY openJunkLog.label "Günlüğü göster">
 <!ENTITY openJunkLog.accesskey "G">
-<!ENTITY resetTrainingData.label "Eğitim verilerini sıfırla">
+<!ENTITY resetTrainingData.label "Eğitim Verilerini Sıfırla">
 <!ENTITY resetTrainingData.accesskey "r">
 <!-- Phishing Detector -->
 
-<!ENTITY phishingDetector1.intro  "&brandShortName;, iletilerinizi yaygın dolandırıcılık tekniklerine karşı inceleyerek sizi sahetkârlık girişimlerinden koruyabilir.">
-<!ENTITY enablePhishingDetector1.label    "Okuduğum iletinin sahtekârlık girişimi olup olmadığını bana göster">
+<!ENTITY phishingDetector1.intro  "&brandShortName; sizi aldatmaya yönelik ortak yöntemleri arayarak şüpheli e-posta dolandırıcılarına karşı iletileri inceleyebilir.">
+<!ENTITY enablePhishingDetector1.label    "Okuduğum iletinin sahtekârlık girişimi olup olmadığını bana söyle">
 <!ENTITY enablePhishingDetector1.accesskey  "O">
 <!ENTITY useDownloadedList.label "Şüpheli sahtekârlık iletilerin indirilmiş listesini kullan">
 <!ENTITY useDownloadedList.accesskey "p">
@@ -35,14 +35,14 @@
 <!ENTITY savedPasswords.intro           "&brandShortName; bütün hesaplarınızın parolalarını hatırlayabilir.">
 <!ENTITY useMasterPassword.label        "Ana parola kullan">
 <!ENTITY useMasterPassword.accesskey    "A">
-<!ENTITY masterPassword.intro           "Ana parola bütün parolalarınızı kokur, ama her oturumda ana parolayı tekrar girmeniz gerekir.">
-<!ENTITY changeMasterPassword.label     "Ana parolayı değiştir…">
+<!ENTITY masterPassword.intro           "Ana Parola bütün parolalarınızı korur, ama her oturumda Ana Parola'yı tekrar girmeniz gerekir.">
+<!ENTITY changeMasterPassword.label     "Ana Parolayı Değiştir…">
 <!ENTITY changeMasterPassword.accesskey "n">
-<!ENTITY savedPasswords.label           "Kayıtlı parolalar…">
+<!ENTITY savedPasswords.label           "Kayıtlı Parolalar…">
 <!ENTITY savedPasswords.accesskey       "K">
 <!-- Anti Virus -->
 
-<!ENTITY antiVirus.intro      "&brandShortName; antivirüs yazılımlarının gelen iletileri depolamadan önce virüslere karşı taramasını kolaylaştırabilir.">
-<!ENTITY antiVirus.label      "Antivirüs yazılımlarının gelen iletilerin karantinaya göndermesine izin ver">
+<!ENTITY antiVirus.intro      "&brandShortName; antivirüs yazılımlarının gelen iletileri depolanmadan önce virüslere karşı taranmasını kolaylaştırabilir.">
+<!ENTITY antiVirus.label      "Antivirüs yazılımlarının gelen iletileri bireysel olarak karantinaya almasına izin ver">
 <!ENTITY antiVirus.accesskey  "A">
 
