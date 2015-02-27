@@ -3,8 +3,8 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY addressbookWindow.title                        "Հասցեագիրք">
-
-
+<!ENTITY blankResultsPaneMessage.label                  "Այս հասցեագիրքը կարող է ցուցադրել կոնտակտները միայն փնտրելուց հետո">
+<!ENTITY localResultsOnlyMessage.label                  "Հեռակա հասցեագրքի կոնտակտները հասանելի չեն մինչև փնտրելը">
 <!-- File Menu -->
 <!ENTITY fileMenu.label                                 "Ֆայլ">
 <!ENTITY fileMenu.accesskey                             "F">
@@ -161,6 +161,8 @@ because displayed names don't have the comma in between. -->
 <!ENTITY searchItem.title "Արագ որոնում">
 <!-- Results Pane -->
 
+<!ENTITY Addrbook.label                                 "Հասցեագիրք">
+<!ENTITY Addrbook.accesskey                             "գ">
 <!ENTITY GeneratedName.label                            "Անունը">
 <!ENTITY GeneratedName.accesskey                        "N">
 <!ENTITY PrimaryEmail.label                             "Էլ-Փոստ">

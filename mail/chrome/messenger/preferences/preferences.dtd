@@ -19,4 +19,5 @@
 <!ENTITY paneAdvanced.title       "Ընդլայնված">
 <!ENTITY paneAccount.title        "Փոստարկղեր">
 
-
+<!ENTITY okButton.title           "ԼԱՎ">
+<!ENTITY okButton.accesskey       "Լ">

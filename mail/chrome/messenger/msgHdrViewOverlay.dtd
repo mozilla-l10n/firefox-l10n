@@ -50,7 +50,7 @@
 <!ENTITY hdrViewToolbarAlwaysReplySender.accesskey "R">
 
 <!ENTITY otherActionsButton2.label "Ավելին">
-
+<!ENTITY otherActionsButton.tooltip "Լրացուցիչ">
 <!ENTITY otherActionsOpenConversation1.label "Բացել պատուհանով">
 <!ENTITY otherActionsOpenConversation1.accesskey "Բ">
 <!ENTITY otherActionsOpenInNewWindow1.label "Բացել նոր պատուհանով">
