@@ -34,8 +34,8 @@
 <!ENTITY healthReportLearnMore.label     "Ta saber-ne mas">
 
 <!ENTITY telemetryDesc.label             "Comparte datos de rendimiento, uso, hardware y personalizacions sobre o suyo navegador con &vendorShortName; ta aduyar a amillorar o &brandShortName;">
-
-
+<!ENTITY enableTelemetryData.label       "Compartir datos adicionals (p. eix., Telemetría)">
+<!ENTITY enableTelemetryData.accesskey   "T">
 <!ENTITY telemetryLearnMore.label        "Saber-ne mas">
 
 <!ENTITY crashReporterDesc.label         "&brandShortName; ninvia informe de fallos ta aduyar a &vendorShortName; a fer o navegador mas estable y seguro">
