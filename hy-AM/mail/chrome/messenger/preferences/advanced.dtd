@@ -3,18 +3,19 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY itemGeneral.label       "Ընդհանուր">
+
 <!ENTITY itemDisplay.label       "Ընթերցումը &amp; Ցուցադրումը">
 <!ENTITY itemUpdate.label        "Թարմացնել">
 <!ENTITY itemNetworking.label    "Ցանցը &amp; Ազատ տեղը">
 <!ENTITY itemCertificates.label  "Հավաստագրեր">
 <!-- General Settings -->
 
-
-<!ENTITY submitTelemetry.label         "Հաստատել արտադրողական տվյալը">
-<!ENTITY submitTelemetry.accesskey     "Հ">
-<!ENTITY telemetryInfoLink.label       "Մանրամասն Telemetry-ի մասին">
 <!ENTITY enableGlodaSearch.label       "Միացնել Ընդհանուր Որոնումը և Ինդեքսավորումը">
 <!ENTITY enableGlodaSearch.accesskey   "Մ">
+
+
+
+
 
 
 
@@ -37,6 +38,16 @@
 <!ENTITY returnReceiptsInfo.label      "Որոշեք, թե &brandShortName;-ը ինչպես վարվի ստացականների հետ։">
 <!ENTITY showReturnReceipts.label      "Ստացականներ...">
 <!ENTITY showReturnReceipts.accesskey  "R">
+<!-- Data Choices -->
+
+
+
+
+
+
+
+
+
 <!-- Display and Reading Settings -->
 
 <!ENTITY reading.caption               "Ընթերցում">

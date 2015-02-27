@@ -419,6 +419,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      searchFor.label and searchWith.label. This string will be used instead of
      them when the user has not typed any keyword. -->
 <!ENTITY searchWithHeader.label       "Փնտրել՝">
+<!-- LOCALIZATION NOTE (changeSearchSettings.button):
+     This string won't wrap, so if the translated string is longer,
+     consider translating it as if it said only "Search Settings". -->
 <!ENTITY changeSearchSettings.button  "Փոխել որոնման կարգավորումները">
 
 
@@ -591,14 +594,14 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY sidebarCloseButton.tooltip     "Փակել կողավահանակը">
 
-<!ENTITY quitApplicationCmdWin.label       "Փակել"> 
-<!ENTITY quitApplicationCmdWin.accesskey   "ա">
-<!ENTITY quitApplicationCmdWin.tooltip     "Փակել &brandShortName;-ը">
+<!ENTITY quitApplicationCmdWin2.label       "Փակել">
+<!ENTITY quitApplicationCmdWin2.accesskey   "ա">
+
 
 
 <!ENTITY quitApplicationCmd.label       "Փակել"> 
 <!ENTITY quitApplicationCmd.accesskey   "Փ">
-<!ENTITY quitApplicationCmdMac.label    "Փակել &brandShortName;-ը">
+
 <!-- LOCALIZATION NOTE(quitApplicationCmdUnix.key): This keyboard shortcut is used by both Linux and OSX builds. -->
 
 <!ENTITY closeCmd.label                 "Փակել">  
@@ -781,11 +784,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY pluginNotification.width "28em">
 
-<!ENTITY tabCrashed.header "Ներդիրը վթարվել է">
-<!ENTITY tabCrashed.message "Այո, սա անհարմար է: Մենք փորձում ենք ցուցադրել այս վեբ էջը, բայց այն չի պատասխանում:">
-<!ENTITY tabCrashed.checkSendReport "&vendorShortName;-ին հաղորդեք այս վթարի մասին, որ մենք կարողանաք ուղղել այն:">
-<!ENTITY tabCrashed.tryAgain "Կրկին փորձել">
-
 
 <!ENTITY appMenuSidebars.label         "Կողային վահանակներ">
 
@@ -815,4 +813,25 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY panicButton.thankyou.msg1                "Վերջին պատմությունը մա,քրվել է:">
 <!ENTITY panicButton.thankyou.msg2                "Անվտանգ դիտարկում:">
 <!ENTITY panicButton.thankyou.buttonlabel         "Շնորհակալություն:">
+
+
+
+
+
+
+
+
+
+
+
+
+<!ENTITY emeNotificationsDontAskAgain.label       "Այլևս չհարցնել">
+<!ENTITY emeNotificationsDontAskAgain.accesskey   "Ա">
+
+
+
+<!-- Pre-landed string for bug 1124153 -->
+<!-- Pre-landed string for bug 1133662 -->
+<!-- Pre-landed string for bug 1123525 -->
+<!-- Pre-landed strings for bug 1123519 -->
 

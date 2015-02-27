@@ -10,8 +10,8 @@
 <!ENTITY radioRememberPrevState.accesskey "R">
 
 
-<!ENTITY radioAlwaysOnline.label "Առցանց">
-<!ENTITY radioAlwaysOnline.accesskey "ց">
+<!ENTITY radioAlwaysOnlineState.label "Առցանց">
+<!ENTITY radioAlwaysOnlineState.accesskey "ց">
 <!ENTITY radioAlwaysOffline.label "Անցանց">
 <!ENTITY radioAlwaysOffline.accesskey "ց">
 
