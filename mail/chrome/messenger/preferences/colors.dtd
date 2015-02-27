@@ -6,24 +6,25 @@
 <!ENTITY  window.width                    "38em">
 <!ENTITY  window.macWidth                 "41em">
 
+<!ENTITY  overridePageColors.label        "İçerikte belirtilen renkler yerine aşağıdaki tercihlerimi kullan:">
+<!ENTITY  overridePageColors.accesskey    "u">
 
-
-<!ENTITY  overridePageColors.always.label "Her zaman">
-
+<!ENTITY  overridePageColors.always.label "Her Zaman">
+<!ENTITY  overridePageColors.auto.label   "Yüksek Karşıtlık olan temalarda">
 <!ENTITY  overridePageColors.never.label  "Asla">
 
-<!ENTITY  color                           "Metin ve arka plan">
+<!ENTITY  color                           "Metin ve Arka Plan">
 <!ENTITY  textColor.label                 "Metin:">
 <!ENTITY  textColor.accesskey             "t">
-<!ENTITY  backgroundColor.label           "Arka plan:">
+<!ENTITY  backgroundColor.label           "Arka Plan:">
 <!ENTITY  backgroundColor.accesskey       "A">
 <!ENTITY  useSystemColors.label           "Sistem renklerini kullan">
 <!ENTITY  useSystemColors.accesskey       "S">
 
 <!ENTITY  underlineLinks.label            "Bağlantıların altını çiz">
 <!ENTITY  underlineLinks.accesskey        "ı">
-<!ENTITY  links                           "Bağlantı renkleri">
-<!ENTITY  linkColor.label                 "Ziyaret edilmemiş bağlantılar:">
+<!ENTITY  links                           "Bağlantı Renkleri">
+<!ENTITY  linkColor.label                 "Ziyaret Edilmemiş Bağlantılar:">
 <!ENTITY  linkColor.accesskey             "l">
-<!ENTITY  visitedLinkColor.label          "Ziyaret edilmiş bağlantılar:">
+<!ENTITY  visitedLinkColor.label          "Ziyaret Edilmiş Bağlantılar:">
 <!ENTITY  visitedLinkColor.accesskey      "Z">

@@ -2,18 +2,19 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY offlineDialog.title "Çevrimdışı Ayarları">
+<!ENTITY offlineDialog.title "Çevrim Dışı Ayarları">
 
-
-
-<!ENTITY radioRememberPrevState.label "Önceki çevrim içi durumunu hatırla">
+<!ENTITY checkAutoDetect.label "Bağlı olup olunmadığını kendiliğinden izle">
+<!ENTITY checkAutoDetect.accesskey "z">
+<!ENTITY titleStartUp "Başlangıçta bu şekilde ayarla:">
+<!ENTITY radioRememberPrevState.label "Önceki çevrim içi olma durumunu hatırla">
 <!ENTITY radioRememberPrevState.accesskey "r">
-
-
-
-
-
-
+<!ENTITY radioAskState.label "Çevrim içi olma durumunu bana sor">
+<!ENTITY radioAskState.accesskey "b">
+<!ENTITY radioAlwaysOnlineState.label "Çevrim İçi">
+<!ENTITY radioAlwaysOnlineState.accesskey "m">
+<!ENTITY radioAlwaysOffline.label "Çevrim Dışı">
+<!ENTITY radioAlwaysOffline.accesskey "D">
 
 <!ENTITY textGoingOnline "Çevrim içi olunca gönderilmemiş iletiler gönderilsin mi?">
 <!ENTITY radioAutoSend.label "Evet">

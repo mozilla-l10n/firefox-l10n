@@ -4,7 +4,7 @@
 
 <!ENTITY  startupAction.label         "&brandShortName; açıldığında:">
 <!ENTITY  startupAction.accesskey     "a">
-<!ENTITY  startupOffline.label        "Sohbet hesaplarımı çevrimdışı tut">
+<!ENTITY  startupOffline.label        "Sohbet Hesaplarımı çevrim dışı tut">
 <!ENTITY  startupConnectAuto.label    "Sohbet hesaplarıma otomatik olarak bağlan">
 <!-- LOCALIZATION NOTE: reportIdleAfter.label is displayed first, then
 there's a field where the user can enter a number, and itemTime is
@@ -13,9 +13,9 @@ reportIdleAfter.label and idleTime parts don't have to mean the exact
 same thing as in English; please try instead to translate the whole
 sentence. -->
 
-<!ENTITY  reportIdleAfter.label         "Kişi listemdekilerin">
+<!ENTITY  reportIdleAfter.label         "Kişi listemdekiler">
 <!ENTITY  reportIdleAfter.accesskey     "K">
-<!ENTITY  idleTime                      "dakika etkisizlikten sonra uzakta olduğumu öğrenmesine izin ver">
+<!ENTITY  idleTime                      "dakika hareketsizlikten sonra uzakta olduğumu bilsin">
 
 <!ENTITY  andSetStatusToAway.label      "ve durumumu şu durum iletisiyle Uzakta olarak ayarla:">
 <!ENTITY  andSetStatusToAway.accesskey  "U">
@@ -23,16 +23,16 @@ sentence. -->
 <!ENTITY  sendTyping.label              "Yazışmalarda yazma bildirimleri gönder">
 <!ENTITY  sendTyping.accesskey          "Y">
 
-<!ENTITY  chatNotifications.label             "Bana gönderilen mesajlar ulaştığında:">
+<!ENTITY  chatNotifications.label             "Bana gönderilen iletiler ulaştığında:">
 <!ENTITY  desktopChatNotifications.label      "Bildirim göster:">
 <!ENTITY  desktopChatNotifications.accesskey  "B">
-<!ENTITY  completeNotification.label          "gönderenin adı ve ileti ön izlemesiyle">
+<!ENTITY  completeNotification.label          "gönderenin adı ve ileti önizlemesiyle">
 <!ENTITY  buddyInfoOnly.label                 "yalnızca gönderenin adıyla">
 <!ENTITY  dummyNotification.label             "hiçbir bilgi olmadan">
 <!ENTITY  chatSound.accesskey                 "S">
 <!ENTITY  chatSound.label                     "Ses çal">
-<!ENTITY  play.label                          "Oynat">
-<!ENTITY  play.accesskey                      "O">
+<!ENTITY  play.label                          "Çal">
+<!ENTITY  play.accesskey                      "a">
 <!ENTITY  systemSound.label                   "Yeni posta için varsayılan sistem sesi">
 <!ENTITY  systemSound.accesskey               "Y">
 <!ENTITY  customsound.label                   "Aşağıdaki ses dosyasını kullan">
