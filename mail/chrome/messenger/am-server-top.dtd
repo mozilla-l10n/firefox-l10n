@@ -86,5 +86,5 @@
 <!ENTITY accountSettingsDesc.label "ខាង​ក្រោម​នេះ​ជា​គណនី​ពិសេស។ គ្មាន​អត្តសញ្ញាណ​​ភ្ជាប់​ជា​មួយ។">
 <!ENTITY storeType.label "ប្រភេទឧបករណ៍​ផ្ទុក​សារ៖">
 <!ENTITY storeType.accesskey "ឧ">
-
-
+<!ENTITY mboxStore.label "ឯកសារ​ធំ​មួយ (mbox)">
+<!ENTITY maildirStore.label "ឯកសារ​ក្នុង​សារ​មួយ (maildir)">

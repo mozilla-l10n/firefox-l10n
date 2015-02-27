@@ -16,8 +16,8 @@
 
 
 
-
-
+<!ENTITY mboxStore.label               "ឯកសារ​ធំ​មួយ (mbox)">
+<!ENTITY maildirStore.label            "ឯកសារ​ក្នុង​សារ​មួយ (maildir)">
 
 <!ENTITY scrolling.label               "រមូរ">
 <!ENTITY useAutoScroll.label           "ប្រើ​រមូរ​ស្វ័យប្រវត្តិ">

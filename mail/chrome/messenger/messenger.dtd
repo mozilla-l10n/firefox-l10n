@@ -145,8 +145,8 @@
 <!ENTITY messagePaneVertical.accesskey "V">
 <!ENTITY showFolderPaneCmd.label "ផ្ទាំង​ថត">
 <!ENTITY showFolderPaneCmd.accesskey "F">
-
-
+<!ENTITY showFolderPaneColsCmd.label "ថត ផ្ទាំង​ជួរឈរ">
+<!ENTITY showFolderPaneColsCmd.accesskey "ផ">
 <!ENTITY showMessageCmd.label "Նամակի վահանակը">
 <!ENTITY showMessageCmd.accesskey "M">
 
@@ -596,8 +596,8 @@
 <!-- Folder Pane -->
 
 <!ENTITY folderNameColumn.label "Անուն">
-
-
+<!ENTITY folderUnreadColumn.label "មិនទាន់​អាន">
+<!ENTITY folderTotalColumn.label "សរុប">
 <!ENTITY folderSizeColumn.label "Size">
 <!-- Folder Pane Context Menu -->
 
@@ -666,8 +666,8 @@
 <!ENTITY statusColumn.label "Վիճակը">
 <!ENTITY sizeColumn.label "Size">
 <!ENTITY junkStatusColumn.label "Junk Status">
-
-
+<!ENTITY unreadColumn.label "មិនទាន់​អាន">
+<!ENTITY totalColumn.label "សរុប">
 <!ENTITY readColumn.label "Read">
 <!ENTITY receivedColumn.label "Received">
 <!ENTITY starredColumn.label "Starred">
