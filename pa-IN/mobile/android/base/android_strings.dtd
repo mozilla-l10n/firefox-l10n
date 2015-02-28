@@ -200,8 +200,8 @@
 <!ENTITY pref_cookies_disabled "ਬੰਦ ਹਨ">
 
 
-<!ENTITY pref_tracking_protection_title "Tracking protection">
-<!ENTITY pref_tracking_protection_summary "&brandShortName; will prevent sites from tracking you">
+<!ENTITY pref_tracking_protection_title "ਟਰੈਕਿੰਗ ਸੁਰੱਖਿਆ">
+<!ENTITY pref_tracking_protection_summary "&brandShortName; ਸਾਈਟਾਂ ਵਲੋਂ ਤੁਹਾਨੂੰ ਟਰੈਕ ਕੀਤੇ ਜਾਣ ਤੋਂ ਬਚਾਏਗਾ">
 
 <!ENTITY pref_donottrack_title "ਟਰੈਕ ਨਾ ਕਰੋ">
 <!ENTITY pref_donottrack_summary "&brandShortName; ਸਾਈਟਾਂ ਨੂੰ ਦੱਸੇਗਾ ਕਿ ਤੁਸੀਂ ਟਰੈਕ ਨਹੀਂ ਕੀਤੇ ਜਾਣਾ ਚਾਹੁੰਦੇ ਹੋ">
@@ -463,7 +463,7 @@ size. -->
 <!ENTITY home_remote_tabs_empty "ਹੋਰ ਯੰਤਰਾਂ ਤੋਂ ਤੁਹਾਡੀਆਂ ਟੈਬਾਂ ਨੂੰ ਇੱਥੇ ਵੇਖਾਇਆ ਜਾਂਦਾ ਹੈ।">
 <!ENTITY home_remote_tabs_unable_to_connect "ਕੁਨੈਕਟ ਕਰਨ ਲਈ ਅਸਮਰੱਥ">
 <!ENTITY home_remote_tabs_need_to_sign_in "ਆਪਣੇ ਫਾਇਰਫਾਕਸ ਨਾਲ ਮੁੜ-ਕੁਨੈਕਟ ਕਰਨ ਤੇ ਸਿੰਕ ਨੂੰ ਜਾਰੀ ਰੱਖਣ ਲਈ ਸਾਇਨ ਇਨ ਕਰੋ।">
-<!ENTITY home_remote_tabs_need_to_finish_migrating "Your new Firefox Account is ready!">
+<!ENTITY home_remote_tabs_need_to_finish_migrating "ਤੁਹਾਡਾ ਨਵਾਂ ਫਾਇਰਫਾਕਸ ਖਾਤਾ ਤਿਆਰ ਹੈ!">
 
 <!ENTITY home_remote_tabs_trouble_verifying "ਆਪਣੇ ਖਾਤੇ ਦੀ ਜਾਂਚ ਲਈ ਸਮੱਸਿਆ ਆ ਰਹੀ ਹੈ?">
 <!ENTITY home_remote_tabs_need_to_verify "ਸਿੰਕ ਕਰਨਾ ਸ਼ੁਰੂ ਕਰਨ ਲਈ ਆਪਣੇ ਫਾਇਰਫਾਕਸ ਖਾਤੇ ਦੀ ਜਾਂਚ ਕਰੋ।">
