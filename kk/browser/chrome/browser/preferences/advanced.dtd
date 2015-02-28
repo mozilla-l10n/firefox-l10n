@@ -34,8 +34,8 @@
 <!ENTITY healthReportLearnMore.label     "Көбірек білу">
 
 <!ENTITY telemetryDesc.label             "Өнімділік, қолдану, құрылғылар және баптаулар мәліметін &vendorShortName; үшін жібереді, және бізге &brandShortName; жақсартуға көмектеседі">
-
-
+<!ENTITY enableTelemetryData.label       "Қосымша ақпаратпен бөлісу (мыс. телеметрия)">
+<!ENTITY enableTelemetryData.accesskey   "T">
 <!ENTITY telemetryLearnMore.label        "Көбірек білу">
 
 <!ENTITY crashReporterDesc.label         "&brandShortName; браузеріңіздің тұрақтылық және қауіпсіздігін арттыру үшін құлау жөніндегі хабарламаларды &vendorShortName; адресіне жібереді">
