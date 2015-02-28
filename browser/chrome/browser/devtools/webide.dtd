@@ -41,8 +41,8 @@
 <!ENTITY runtimeMenu_showMonitor_accesskey "б">
 <!ENTITY runtimeMenu_showDevicePrefs_label "Құрылғы баптаулары">
 <!ENTITY runtimeMenu_showDevicePrefs_accesskey "ы">
-
-
+<!ENTITY runtimeMenu_showSettings_label "Құрылғы баптаулары">
+<!ENTITY runtimeMenu_showSettings_accesskey "п">
 
 <!ENTITY viewMenu_label "Қарап шығу">
 <!ENTITY viewMenu_accesskey "ш">
@@ -94,7 +94,7 @@
 <!ENTITY details_location "Орналасуы">
 <!ENTITY details_manifestURL "Қолданба ID-і">
 <!ENTITY details_removeProject_button "Жобаны өшіру">
-
+<!ENTITY details_showPrepackageLog_button "Дестелеу алдындағы логты көрсету">
 <!-- New App -->
 
 <!ENTITY newAppWindowTitle "Жаңа қолданба">
@@ -146,7 +146,7 @@
 <!ENTITY runtimedetails_adbIsRoot "ADB root болып тұр: ">
 <!ENTITY runtimedetails_summonADBRoot "root құрылғысы">
 <!ENTITY runtimedetails_ADBRootWarning "(блоктаудан босатылған жүктеушіні талап етеді)">
-
+<!ENTITY runtimedetails_unrestrictedPrivileges "Шектелмеген DevTools привилегиялары: ">
 <!ENTITY runtimedetails_requestPrivileges "жоғарылау привилегияларын сұрау">
 <!ENTITY runtimedetails_privilegesWarning "(Құрылғыны қайта іске қосады. Root рұқсаттарын талап етеді.)">
 <!-- Device Preferences and Settings -->
@@ -157,15 +157,19 @@
 <!ENTITY device_typeobject "Объект">
 <!ENTITY device_typenone "Түрін таңдау">
 <!-- Device Preferences -->
+
+<!ENTITY devicepreference_title "Құрылғы параметрлері">
 <!ENTITY devicepreference_search "Іздеу параметрлері">
 <!ENTITY devicepreference_newname "Жаңа параметр атауы">
 <!ENTITY devicepreference_newtext "Параметр мәні">
 <!ENTITY devicepreference_addnew "Жаңа параметрді қосу">
 <!-- Device Settings -->
 
+<!ENTITY devicesetting_title "Құрылғы баптаулары">
 
-
-
+<!ENTITY devicesetting_newname "Жаңа баптау аты">
+<!ENTITY devicesetting_newtext "Баптау мәні">
+<!ENTITY devicesetting_addnew "Жаңа баптауды қосу">
 <!-- Monitor -->
 
 <!ENTITY monitor_title "Бақылау">
