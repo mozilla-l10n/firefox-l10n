@@ -69,11 +69,11 @@
   -  group in the options panel which trigger page reload. -->
 <!ENTITY options.context.triggersPageRefresh  "* Len pre aktuálnu reláciu, opäť načíta obsah stránky">
 
-<!-- LOCALIZATION NOTE (options.enableChrome.label4): This is the label for the
+<!-- LOCALIZATION NOTE (options.enableChrome.label5): This is the label for the
   -  checkbox that toggles chrome debugging, i.e. devtools.chrome.enabled
   -  boolean preference in about:config, in the options panel. -->
-<!ENTITY options.enableChrome.label4    "Povoliť ladenie chrome a doplnkov">
-<!ENTITY options.enableChrome.tooltip2  "Zapnutie tejto voľby vám umožní ladiť doplnky z okna Správcu doplnkov a používať rôzne vývojárske nástroje aj pre kontext prehliadača">
+<!ENTITY options.enableChrome.label5    "Povoliť nástroje ladenia chrome prehliadača a doplnkov">
+<!ENTITY options.enableChrome.tooltip3  "Zapnutie tejto voľby vám umožní ladiť doplnky z okna Správcu doplnkov a používať rôzne vývojárske nástroje aj pre kontext prehliadača (Nástroje > Webový vývojár > Nástroje prehliadača)">
 
 <!-- LOCALIZATION NOTE (options.enableRemote.label3): This is the label for the
   -  checkbox that toggles remote debugging, i.e. devtools.debugger.remote-enabled
