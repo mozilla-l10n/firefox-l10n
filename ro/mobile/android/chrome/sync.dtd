@@ -26,6 +26,6 @@
 <!ENTITY sync.setup.waiting2        "Se așteaptă după celălalt dispozitiv…">
 
 <!ENTITY sync.pair.title            "Împerechează un dispozitiv">
-<!ENTITY sync.pair.description      "Pentru a activa noul dispozitiv, selectează „Setați sincronizarea” pe dispozitiv.">
+<!ENTITY sync.pair.description      "Pentru a activa noul dispozitiv, selectează „Setează sincronizarea” pe dispozitiv.">
 <!ENTITY sync.setup.close           "Închide">
 <!ENTITY sync.setup.waitingdownload "Datele sunt în curs de descărcare în fundal. Poți închide această fereastră oricând.">
