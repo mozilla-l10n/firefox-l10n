@@ -133,7 +133,7 @@ dumneavoastră.</li>
 
 <!ENTITY phishingBlocked.title "Sait suspect de fals!">
 <!ENTITY phishingBlocked.longDesc "<p>Introducerea de informații personale pe această pagină ar putea rezulta în furt de identitate sau altă fraudă.</p> 
-<p>Aceste tipuri de falsuri web sunt folosite în păcăleli numite și „phishing”, în care pagini și adrese de email sunt folosite pentru a imita unele în care aveți încredere.</p>">
+<p>Aceste tipuri de falsuri web sunt folosite în păcăleli cunoscute ca atacuri de tip „phishing”, în care pagini și e-mailuri frauduloase sunt folosite pentru a imita surse în care aveți încredere.</p>">
 
 <!ENTITY cspBlocked.title "Blocat de politica de securitate asupra conținutului">
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; a împiedicat această pagină să se încarce în acest mod deoarece pagina are o politică de securitate asupra conținutului ce nu permite asta.</p>">
