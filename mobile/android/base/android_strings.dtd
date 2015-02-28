@@ -123,7 +123,7 @@
 <!ENTITY pref_category_privacy_summary "Controlează parole, cookie-uri, urmărire, date">
 <!ENTITY pref_category_vendor "&vendorShortName;">
 <!ENTITY pref_category_vendor_summary "Despre &brandShortName;, întrebări frecvente, împărtășire de date">
-<!ENTITY pref_category_datareporting "Opțiuni de date">
+<!ENTITY pref_category_datareporting "Împărtășirea de date">
 <!ENTITY pref_learn_more "Află mai multe">
 <!ENTITY pref_category_installed_search_engines "Motoare de căutare instalate">
 <!ENTITY pref_category_add_search_providers "Adaugă mai multe motoare de căutare">
@@ -150,7 +150,7 @@
 <!-- Localization note (home_add_panel_installed):
      The &formatS; will be replaced with the name of the new panel the user just
      selected to be added to the home page. -->
-<!ENTITY home_add_panel_installed "&formatS; adăugat la pagina de start">
+<!ENTITY home_add_panel_installed "\u0027&formatS;\u0027 adăugat la pagina de start">
 <!ENTITY pref_category_home_content_settings "Setări de conținut">
 <!ENTITY pref_home_updates "Actualizări automate">
 <!ENTITY pref_home_updates_enabled "Activate">
@@ -173,7 +173,7 @@
 <!ENTITY pref_cookies_disabled "Dezactivate">
 
 <!ENTITY pref_tracking_protection_title "Protecție de urmărire">
-<!ENTITY pref_tracking_protection_summary "&brandShortName; va împiedica saiturile să vă urmărească">
+<!ENTITY pref_tracking_protection_summary "&brandShortName; va împiedica saiturile să te urmărească">
 <!ENTITY pref_donottrack_title "Nu mă urmări">
 <!ENTITY pref_donottrack_summary "&brandShortName; va spune saiturilor că nu dorești să fi urmărit">
 
@@ -212,7 +212,7 @@ size. -->
 <!ENTITY pref_font_size_preview_text "Vulpea portocalie ageră face un salt peste așteptările tale cu mai multă viteză, mai multă flexibilitate și mai multă securitate. Fiind organizație nonprofit, suntem liberi să inovăm în folosul tău fără nicio presiune ca să facem compromisuri. Asta înseamnă o experiență mai bună pentru tine și un viitor mai frumos pentru internet.">
 
 <!ENTITY pref_media_autoplay_enabled "Permite redarea automată">
-<!ENTITY pref_media_autoplay_enabled_summary "Controlează dacă paginile web pot rula automat videoclipuri și alt conținut media">
+<!ENTITY pref_media_autoplay_enabled_summary "Controlează dacă saiturile pot rula automat videoclipuri și alt conținut media">
 <!ENTITY pref_zoom_force_enabled "Activează mereu zoom-ul">
 <!ENTITY pref_zoom_force_enabled_summary "Forțează suprascrierea ca să poți face zoom pe orice pagină">
 
@@ -250,8 +250,8 @@ size. -->
 
 <!ENTITY datareporting_notification_title "Statistici și date pentru &brandShortName;">
 <!ENTITY datareporting_notification_action_long "Alege ce informații să împărtășești">
-<!ENTITY datareporting_notification_action "Alegeți ce împărtășești">
-<!ENTITY datareporting_notification_summary "Pentru a îmbunătăți experiența, &brandShortName; trimite automat câteva informații la &vendorShortName;.">
+<!ENTITY datareporting_notification_action "Alege ce împărtășești">
+<!ENTITY datareporting_notification_summary "Pentru a îmbunătăți experiența, &brandShortName; trimite automat anumite informații la &vendorShortName;.">
 <!ENTITY datareporting_notification_summary_short "Pentru a îmbunătăți experiența, &brandShortName;…">
 <!ENTITY datareporting_notification_ticker_text "&datareporting_notification_title;: &datareporting_notification_action_long;">
 <!-- Localization note (datareporting_fhr_title, datareporting_fhr_summary2,
@@ -292,7 +292,7 @@ size. -->
 
 <!ENTITY share "Împărtășește">
 <!ENTITY share_title "Distribuie prin intermediul">
-<!ENTITY share_image_failed "Imposibil de împărtășit această imagine">
+<!ENTITY share_image_failed "Nu se poate partaja această imagine">
 <!ENTITY save_as_pdf "Salvează ca PDF">
 <!ENTITY find_in_page "Găsește în pagină">
 <!ENTITY desktop_mode "Cere versiune pt. desktop">
@@ -333,7 +333,7 @@ size. -->
 <!ENTITY contextmenu_copyurl "Copiază adresa">
 <!ENTITY contextmenu_edit_bookmark "Editează">
 <!ENTITY contextmenu_subscribe "Subscrie la pagină">
-<!ENTITY contextmenu_site_settings "Editare setări sait">
+<!ENTITY contextmenu_site_settings "Editează setările saitului">
 <!ENTITY contextmenu_top_sites_edit "Editează">
 <!ENTITY contextmenu_top_sites_pin "Fixează saitul">
 <!ENTITY contextmenu_top_sites_unpin "Anulează fixarea saitului">
@@ -366,7 +366,7 @@ size. -->
 <!ENTITY site_settings_no_settings  "Nu sunt setări de curățat.">
 
 <!ENTITY reading_list_added "Pagină adăugată la lista ta de citit">
-<!ENTITY reading_list_duplicate "Pagina deja existentă în lista de citire">
+<!ENTITY reading_list_duplicate "Pagina deja existentă în lista de citit">
 <!-- Localization note (reading_list_time_minutes2) : This string is used in the "Reading List"
      panel on the home page to give the user an estimate of how many minutes it will take to
      read an article. The word "minute" should be abbreviated if possible. -->
@@ -379,7 +379,7 @@ size. -->
 <!ENTITY page_action_dropmarker_description "Acțiuni adiționale">
 
 <!ENTITY masterpassword_create_title "Creează o parolă generală">
-<!ENTITY masterpassword_remove_title "Eliminare parolă generală">
+<!ENTITY masterpassword_remove_title "Elimină parola generală">
 <!ENTITY masterpassword_password "Parolă">
 <!ENTITY masterpassword_confirm "Confirmă parola">
 
@@ -394,7 +394,7 @@ size. -->
 <!ENTITY home_top_sites_title "Saituri de top">
 <!-- Localization note (home_top_sites_add): This string is used as placeholder
      text underneath empty thumbnails in the Top Sites page on about:home. -->
-<!ENTITY home_top_sites_add "Adaugă un site">
+<!ENTITY home_top_sites_add "Adaugă un sait">
 <!-- Localization note (home_title): This string should be kept in sync
      with the page title defined in aboutHome.dtd -->
 
@@ -467,7 +467,7 @@ size. -->
 <!ENTITY filepicker_video_title "Alege sau înregistrează în format video">
 <!-- Site identity popup -->
 
-<!ENTITY identity_connected_to "Sunteți conectat la">
+<!ENTITY identity_connected_to "Ești conectat la">
 <!-- Localization note (identity_run_by) : This string appears between a
 domain name (above) and an organization name (below). E.g.
 
@@ -496,21 +496,21 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- Common mixed and tracking content strings in site identity popup -->
 
 <!ENTITY learn_more "Află mai multe">
-<!ENTITY enable_protection "Activare protecție">
-<!ENTITY disable_protection "Dezactivare protecție">
-<!ENTITY keep_blocking "Păstrează blocat">
+<!ENTITY enable_protection "Activează protecția">
+<!ENTITY disable_protection "Dezactivează protecția">
+<!ENTITY keep_blocking "Păstrează blocarea">
 
-<!ENTITY private_data_success "Datele private au fost curățate">
+<!ENTITY private_data_success "Datele private curățate">
 <!ENTITY private_data_fail "Unele date private nu au putut fi curățate">
 
-<!ENTITY bookmarkhistory_button_import "Import">
+<!ENTITY bookmarkhistory_button_import "Importă">
 <!ENTITY bookmarkhistory_import_both "Se importă semne de carte și istoric 
 din Android">
 <!ENTITY bookmarkhistory_import_bookmarks "Se importă semne de carte 
 din Android">
 <!ENTITY bookmarkhistory_import_history "Se importă istoricul 
 din Android">
-<!ENTITY bookmarkhistory_import_wait "Vă rugăm așteptați...">
+<!ENTITY bookmarkhistory_import_wait "Te rugăm să aștepți...">
 
 <!ENTITY suggestions_prompt3 "Dorești să pornești sugestiile de căutare?">
 <!-- Localization note (suggestion_for_engine): The placeholder &formatS1; will be
@@ -525,15 +525,15 @@ din Android">
 <!-- Updater notifications --> 
 
 <!ENTITY updater_start_title2 "Actualizare disponibilă pentru &brandShortName;">
-<!ENTITY updater_start_select2 "Apăsați pentru a descărca">
+<!ENTITY updater_start_select2 "Apasă pentru a descărca">
 
 <!ENTITY updater_downloading_title2 "Se descarcă &brandShortName;">
 <!ENTITY updater_downloading_title_failed2 "Descărcare eșuată">
-<!ENTITY updater_downloading_select2 "Apăsați pentru a aplica actualizarea odată descărcată">
-<!ENTITY updater_downloading_retry2 "Apăsați pentru a reîncerca">
+<!ENTITY updater_downloading_select2 "Apasă pentru a aplica actualizarea odată descărcată">
+<!ENTITY updater_downloading_retry2 "Apasă pentru a reîncerca">
 
 <!ENTITY updater_apply_title2 "Actualizare disponibilă pentru &brandShortName;">
-<!ENTITY updater_apply_select2 "Apăsați pentru actualizare">
+<!ENTITY updater_apply_select2 "Apasă pentru a actualiza">
 <!-- Guest mode -->
 
 <!ENTITY new_guest_session "Sesiune vizitator nouă">

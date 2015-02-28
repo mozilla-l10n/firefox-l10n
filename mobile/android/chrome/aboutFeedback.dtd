@@ -6,7 +6,7 @@
      your language and/or locale. More detailed notes below. -->
 
 
-<!ENTITY pageTitle                 "Reacții legate de &brandShortName;">
+<!ENTITY pageTitle                 "Opinii legate de &brandShortName;">
 
 <!ENTITY intro.header              "Ai un minut?">
 <!ENTITY intro.message             "Spune-ne ce crezi despre &brandShortName; pentru Android până acum.">
@@ -17,8 +17,8 @@
 <!-- LOCALIZATION NOTE (support.link): Avoid leading/trailing spaces, this text is a link. -->
 <!-- LOCALIZATION NOTE (support.post): Include a starting space as needed. -->
 
-<!ENTITY support.pre3              "Vizitați ">
-<!ENTITY support.link2             "saitul de asistență">
+<!ENTITY support.pre3              "Vizitează">
+<!ENTITY support.link2             "saitul nostru de asistență">
 <!ENTITY support.post3             " pentru a primi răspunsuri la problemele comune.">
 
 <!ENTITY happy.header              "Asta e minunat să auzim!">

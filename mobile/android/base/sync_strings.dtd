@@ -15,7 +15,7 @@
 <!-- J-PAKE Key Screen -->
 
 <!ENTITY sync.subtitle.connect.label "Pentru a activa noul dispozitiv, selectează „Setează &syncBrand.shortName.label;” pe dispozitiv.">
-<!ENTITY sync.subtitle.header2.label "Introduceți acest cod pe celălalt dispozitiv">
+<!ENTITY sync.subtitle.header2.label "Introdu acest cod pe celălalt dispozitiv">
 <!ENTITY sync.subtitle.connectlocation2.label "Selectează „&sync.title.pair.label;” în secțiunea &syncBrand.shortName.label; din opțiunile Firefox de pe celălalt dispozitiv.">
 <!ENTITY sync.subtitle.pair.label "Pentru activare, selectează „Împerechează un dispozitiv” de pe celălalt dispozitiv.">
 <!ENTITY sync.pin.default.label "...\n...\n...\n">
@@ -28,7 +28,7 @@
 <!ENTITY sync.jpake.subtitle.waiting.label "Se așteaptă după celălalt dispozitiv…">
 <!-- Account Login Screen -->
 
-<!ENTITY sync.subtitle.account.label "Introduceți informațiile despre contul &syncBrand.fullName.label;">
+<!ENTITY sync.subtitle.account.label "Introdu informațiile despre contul &syncBrand.fullName.label;">
 <!ENTITY sync.input.username.label "Nume cont">
 <!ENTITY sync.input.password.label "Parolă">
 <!ENTITY sync.input.key.label "Cheie de recuperare">
@@ -42,7 +42,7 @@
 <!ENTITY sync.button.manual.label "Setare manuală">
 <!ENTITY sync.subtitle.nointernet.label "Nu este disponibilă nicio conexiune la internet.">
 <!ENTITY sync.subtitle.failaccount.label "Crearea contului pe dispozitiv a eșuat.">
-<!ENTITY sync.subtitle.failmultiple.label "Aveți mai mult decât un Firefox instalat? În prezent, &syncBrand.fullName.label; suportă doar o instalare de Firefox odată. Dezinstalați celelalte instanțe pentru a folosi &syncBrand.shortName.label;.">
+<!ENTITY sync.subtitle.failmultiple.label "Ai mai mult decât un Firefox instalat? În prezent &syncBrand.fullName.label; suportă doar o instalare de Firefox odată. Dezinstalează celelalte instanțe pentru a folosi &syncBrand.shortName.label;.">
 <!-- Setup Success -->
 
 <!ENTITY sync.title.success.label "Configurare finalizată">
@@ -52,7 +52,7 @@
 <!-- Pair Device -->
 
 <!ENTITY sync.pair.tryagain.label "Te rugăm să mai încerci.">
-<!ENTITY sync.pair.connectlocation.label "Pentru a-ți activa noul dispozitiv, selectează „Setează &syncBrand.shortName.label;” pe dispozitiv și apoi „Am deja un cont.”">
+<!ENTITY sync.pair.connectlocation.label "Pentru a activa noul dispozitiv, selectează „Setează &syncBrand.shortName.label;” pe dispozitiv și apoi „Am deja un cont.”">
 <!-- Firefox SyncAdapter Settings Screen -->
 
 <!ENTITY sync.settings.options.label "Opțiuni">
@@ -107,8 +107,8 @@
 <!ENTITY sync.title.send.tab.label "Trimite fila la dispozitive">
 <!ENTITY sync.button.send.label "Trimite">
 <!ENTITY sync.button.set.up.sync.label "Setează &syncBrand.shortName.label;">
-<!ENTITY sync.title.redirect.to.set.up.sync.label "Setare &syncBrand.shortName.label; pentru trimitere de file">
-<!ENTITY sync.text.redirect.to.set.up.sync.label "Setează &syncBrand.fullName.label; pe dispozitivul tău pentru a trimite file către alte dispozitive.">
+<!ENTITY sync.title.redirect.to.set.up.sync.label "Setează &syncBrand.shortName.label; pentru a trimite file">
+<!ENTITY sync.text.redirect.to.set.up.sync.label "Setează &syncBrand.fullName.label; pe dispozitiv pentru a trimite file către alte dispozitive.">
 <!ENTITY sync.text.tab.sent.label "Fila a fost trimisă!">
 <!ENTITY sync.text.tab.not.sent.label "A apărut o problemă la trimiterea filei.">
 <!-- Firefox Account strings. -->
