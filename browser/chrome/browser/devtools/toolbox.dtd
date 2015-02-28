@@ -24,8 +24,8 @@
 <!ENTITY options.defaultColorUnit.rgb "RGB(A)">
 <!ENTITY options.defaultColorUnit.name "Названия цветов">
 <!ENTITY options.context.triggersPageRefresh "* Только текущая сессия, перезагружает страницу">
-<!ENTITY options.enableChrome.label4 "Включить отладку chrome и дополнений">
-<!ENTITY options.enableChrome.tooltip2 "Включение этой опции позволит вам использовать различные инструменты разработчика в контексте браузера и отлаживать дополнения из окна Управления дополнениями">
+<!ENTITY options.enableChrome.label5 "Включить инструменты отладки browser chrome и дополнений">
+<!ENTITY options.enableChrome.tooltip3 "Включение этой опции позволит вам использовать различные инструменты разработчика в контексте браузера (через Инструменты > Веб-разработка > Инструменты браузера) и отлаживать дополнения из окна Управления дополнениями">
 <!ENTITY options.enableRemote.label3 "Включить удалённую отладку">
 <!ENTITY options.enableRemote.tooltip "Включение этой опции позволит использовать инструменты разработчика для отладки удаленного экземпляра Firefox, такого как Firefox OS">
 <!ENTITY options.disableJavaScript.label "Отключить JavaScript *">

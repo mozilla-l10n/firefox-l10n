@@ -25,7 +25,8 @@
 <!ENTITY profilerUI.table.selfAlloc "Свои аллокации">
 <!ENTITY profilerUI.table.function "Функция">
 <!ENTITY profilerUI.newtab.tooltiptext "Добавить из выбора новую вкладку">
-<!ENTITY profilerUI.options.tooltiptext "Установить настройки производительности.">
+<!ENTITY profilerUI.options.filter.tooltiptext "Выберите данные для отображения на временной шкале">
+<!ENTITY profilerUI.options.gear.tooltiptext "Изменение настроек производительности.">
 <!ENTITY profilerUI.invertTree "Инверсия дерева вызовов">
 <!ENTITY profilerUI.invertTree.tooltiptext "Инверсия дерева вызовов отображает профилированные пути вызовов, начиная от самых младших фреймов и расширяясь на старшие фреймы.">
 <!ENTITY profilerUI.invertFlameGraph "Инверсия Flame Chart">
