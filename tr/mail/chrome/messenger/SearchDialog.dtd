@@ -17,8 +17,8 @@
 <!ENTITY deleteButton.accesskey      "S">
 <!ENTITY searchDialogTitle.label     "İletilerde ara">
 <!ENTITY results.label               "Sonuçlar">
-
-
+<!ENTITY moveButton.label            "Taşı">
+<!ENTITY moveButton.accesskey        "T">
 <!ENTITY closeCmd.key                "W"> 
 <!ENTITY openInFolder.label          "Bu dizinde aç">
 <!ENTITY openInFolder.accesskey      "d">
