@@ -844,5 +844,5 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- Pre-landed string for bug 1123525 -->
 <!ENTITY readingList.sidebar.delete.tooltip       "Бұны сіздің оқу тізіміңізден өшіру">
 <!-- Pre-landed strings for bug 1123519 -->
-<!ENTITY readingList.sidebar.add.label            "Оқу тізіміңізге қосу">
-<!ENTITY readingList.sidebar.add.tooltip          "Бұл бетті сіздің оқу тізіміңізге қосу">
+<!ENTITY readingList.sidebar.add.label            "Оқу тізіміне қосу">
+<!ENTITY readingList.sidebar.add.tooltip          "Бұл парақты сіздің оқу тізіміңізге қосу">

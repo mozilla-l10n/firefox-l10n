@@ -28,6 +28,8 @@
 <!ENTITY webAudioEditorUI.tab.properties2 "Қасиеттері">
 <!-- LOCALIZATION NOTE (webAudioEditorUI.tab.automation): This is the label shown
   -  for the automation tab view. -->
+
+<!ENTITY webAudioEditorUI.tab.automation  "Автоматизация">
 <!-- LOCALIZATION NOTE (webAudioEditorUI.inspectorTitle): This is the title for the
   -  AudioNode inspector view. -->
 
@@ -42,6 +44,10 @@
 <!ENTITY webAudioEditorUI.propertiesEmpty "Торапта қаситеттері жоқ.">
 <!-- LOCALIZATION NOTE (webAudioEditorUI.automationEmpty): This is the title for the
   -  AudioNode inspector view automation tab empty message. -->
+
+<!ENTITY webAudioEditorUI.automationEmpty "Торапта бірде-бір AudioParams жоқ.">
 <!-- LOCALIZATION NOTE (webAudioEditorUI.automationNoEvents): This is the title for the
   -  AudioNode inspector view automation tab message when there are no automation
   -  events. -->
+
+<!ENTITY webAudioEditorUI.automationNoEvents "AudioParam-да бірде-бір автоматизация оқиғасы жоқ.">
