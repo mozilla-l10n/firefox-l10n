@@ -27,7 +27,7 @@
 <!ENTITY engine.bookmarks.label     "Бетбелгілер">
 <!ENTITY engine.bookmarks.accesskey "т">
 <!ENTITY engine.readinglist.label   "Оқу тізімі">
-<!ENTITY engine.readinglist.accesskey "т">
+<!ENTITY engine.readinglist.accesskey "з">
 <!ENTITY engine.tabs.label          "Беттер">
 <!ENTITY engine.tabs.accesskey      "е">
 <!ENTITY engine.history.label       "Тарих">
