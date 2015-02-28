@@ -8,7 +8,7 @@ file names and tall enough to hint that there are more activities in the list --
 <!ENTITY window.width2                    "485">
 <!ENTITY window.height                    "300">
 
-<!ENTITY activity.title                  "Etkinlik yöneticisi">
+<!ENTITY activity.title                  "Etkinlik Yöneticisi">
 
 <!ENTITY cmd.pause.label                  "Duraklat">
 <!ENTITY cmd.pause.accesskey              "D">
@@ -16,20 +16,20 @@ file names and tall enough to hint that there are more activities in the list --
 <!ENTITY cmd.resume.accesskey             "t">
 <!ENTITY cmd.cancel.label                 "Vazgeç">
 <!ENTITY cmd.cancel.accesskey             "V">
-<!ENTITY cmd.undo.label                   "Geri al">
+<!ENTITY cmd.undo.label                   "Geri Al">
 <!ENTITY cmd.undo.accesskey               "G">
 <!ENTITY cmd.recover.label                "Kurtar">
 <!ENTITY cmd.recover.accesskey            "K">
-<!ENTITY cmd.retry.label                  "Yeniden dene">
+<!ENTITY cmd.retry.label                  "Yeniden Dene">
 <!ENTITY cmd.retry.accesskey              "d">
-<!ENTITY cmd.removeFromList.label         "Listeden kaldır">
+<!ENTITY cmd.removeFromList.label         "Listeden Kaldır">
 <!ENTITY cmd.removeFromList.accesskey     "e">
 
 <!ENTITY cmd.close.commandkey             "w">
 <!ENTITY cmd.close2.commandkey            "j">
 <!ENTITY cmd.close2Unix.commandkey        "y">
-<!ENTITY cmd.clearList.label              "Listeyi temizle">
-<!ENTITY cmd.clearList.tooltip            "Tamamlanan, vazgeçilen ve başarısız olan ögeleri listeden kaldırılır">
+<!ENTITY cmd.clearList.label              "Listeyi Temizle">
+<!ENTITY cmd.clearList.tooltip            "Tamamlanan, vazgeçilen ve başarısız olan ögeleri listeden kaldırır">
 <!ENTITY cmd.clearList.accesskey          "e">
 <!ENTITY cmd.find.commandkey              "f">
 <!ENTITY cmd.search.commandkey            "k">

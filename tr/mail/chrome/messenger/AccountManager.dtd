@@ -4,21 +4,21 @@
 <!-- extracted from AccountManager.xul -->
 
 
-<!ENTITY accountManagerTitle.label "Hesap Ayaları">
+<!ENTITY accountManagerTitle.label "Hesap Ayarları">
 
-<!ENTITY accountActionsButton.label "Hesap işlemleri">
+<!ENTITY accountActionsButton.label "Hesap İşlemleri">
 <!ENTITY accountActionsButton.accesskey "H">
-<!ENTITY addMailAccountButton.label "Posta hesabı ekle…">
+<!ENTITY addMailAccountButton.label "Posta Hesabı Ekle…">
 <!ENTITY addMailAccountButton.accesskey "P">
-<!ENTITY addIMAccountButton.label "Sohbet hesabı ekle…">
+<!ENTITY addIMAccountButton.label "Sohbet Hesabı Ekle…">
 <!ENTITY addIMAccountButton.accesskey "e">
-<!ENTITY addFeedAccountButton.label "Besleme hesabı ekle…">
+<!ENTITY addFeedAccountButton.label "Besleme Hesabı Ekle…">
 <!ENTITY addFeedAccountButton.accesskey "B">
-<!ENTITY addOtherAccountButton.label "Diğer hesap ekle…">
+<!ENTITY addOtherAccountButton.label "Diğer Bir Hesap Ekle…">
 <!ENTITY addOtherAccountButton.accesskey "D">
-<!ENTITY setDefaultButton.label "Varsayılan olarak ayarla">
+<!ENTITY setDefaultButton.label "Varsayılan Olarak Ayarla">
 <!ENTITY setDefaultButton.accesskey "n">
-<!ENTITY removeButton.label "Hesabı sil">
+<!ENTITY removeButton.label "Hesabı Kaldır">
 <!ENTITY removeButton.accesskey "H">
 <!-- AccountManager.xul -->
 <!-- LOCALIZATION NOTE : this is part of an inline-style attribute on the account
