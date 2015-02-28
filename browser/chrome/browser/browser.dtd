@@ -82,11 +82,12 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY personalbarCmd.accesskey "Б">
 <!ENTITY bookmarksToolbarItem.label "Бетбелгілер панелінің элементтері">
 
-
-
-
-
-
+<!ENTITY toolbarContextMenu.reloadAllTabs.label "Барлық беттерді қайта жүктеу">
+<!ENTITY toolbarContextMenu.reloadAllTabs.accesskey "а">
+<!ENTITY toolbarContextMenu.bookmarkAllTabs.label "Барлық беттерді бетбелгілерге қосу…">
+<!ENTITY toolbarContextMenu.bookmarkAllTabs.accesskey "т">
+<!ENTITY toolbarContextMenu.undoCloseTab.label "Жабылған бетті қайтару">
+<!ENTITY toolbarContextMenu.undoCloseTab.accesskey "л">
 
 <!ENTITY pageSourceCmd.label "Парақтың бастапқы коды">
 <!ENTITY pageSourceCmd.accesskey "б">
@@ -554,8 +555,8 @@ items are mutually exclusive. -->
 <!ENTITY mediaShowControls.accesskey "Б">
 <!ENTITY mediaHideControls.label     "Басқару батырмаларын көрсету">
 <!ENTITY mediaHideControls.accesskey "Б">
-
-
+<!ENTITY videoFullScreen.label       "Толық экран режимі">
+<!ENTITY videoFullScreen.accesskey   "Т">
 <!ENTITY videoSaveImage.label        "Скриншотты қалайша сақтау…">
 <!ENTITY videoSaveImage.accesskey    "С">
 <!-- LOCALIZATION NOTE: The access keys for "Show Statistics" and
@@ -574,18 +575,19 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY fullZoomEnlargeCmd.label       "Үлкейту">
 <!ENTITY fullZoomEnlargeCmd.accesskey   "л">
-
+<!ENTITY fullZoomEnlargeCmd.commandkey  "+">
 <!-- + is above this key on many keyboards -->
+<!ENTITY fullZoomEnlargeCmd.commandkey2 "="> 
 <!ENTITY fullZoomEnlargeCmd.commandkey3 "">
 
 <!ENTITY fullZoomReduceCmd.label        "Кішірейту">
 <!ENTITY fullZoomReduceCmd.accesskey    "ш">
-
+<!ENTITY fullZoomReduceCmd.commandkey   "-">
 <!ENTITY fullZoomReduceCmd.commandkey2  "">
 
 <!ENTITY fullZoomResetCmd.label         "Тастау">
 <!ENTITY fullZoomResetCmd.accesskey     "Т">
-
+<!ENTITY fullZoomResetCmd.commandkey    "0">
 <!ENTITY fullZoomResetCmd.commandkey2   "">
 
 <!ENTITY fullZoomToggleCmd.label        "Тек мәтінді масштабтау">
@@ -597,12 +599,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY quitApplicationCmdWin2.label       "Шығу">
 <!ENTITY quitApplicationCmdWin2.accesskey   "ы">
-
-
-
+<!ENTITY quitApplicationCmdWin2.tooltip     "&brandShorterName; жұмысын аяқтау">
+<!ENTITY goBackCmd.commandKey "[">
+<!ENTITY goForwardCmd.commandKey "]">
 <!ENTITY quitApplicationCmd.label       "Шығу"> 
 <!ENTITY quitApplicationCmd.accesskey   "Ш">
-
+<!ENTITY quitApplicationCmdMac2.label   "&brandShorterName; жұмысын аяқтау">
 <!-- LOCALIZATION NOTE(quitApplicationCmdUnix.key): This keyboard shortcut is used by both Linux and OSX builds. -->
 
 <!ENTITY closeCmd.label                 "Жабу">  
@@ -687,7 +689,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY syncSyncNowItem.accesskey    "с">
 <!ENTITY syncReAuthItem.label         "&syncBrand.shortName.label; үшін қайта байланысу…">
 <!ENTITY syncReAuthItem.accesskey     "R">
-
+<!ENTITY syncToolbarButton.label      "Синхрондау">
 
 <!ENTITY socialToolbar.title        "Әлеуметтік панель батырмасы">
 
@@ -816,25 +818,31 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY panicButton.thankyou.msg2                "Қауіпсіз шолу!">
 <!ENTITY panicButton.thankyou.buttonlabel         "Рахмет!">
 
+<!ENTITY processHang.terminateScript.label        "Скриптті тоқтату">
+<!ENTITY processHang.terminateScript.accessKey    "о">
+<!ENTITY processHang.debugScript.label            "Скриптті жөндеу">
+<!ENTITY processHang.debugScript.accessKey        "д">
+<!ENTITY processHang.terminatePlugin.label        "Плагинді өлтіру">
+<!ENTITY processHang.terminatePlugin.accessKey    "П">
+<!ENTITY processHang.terminateProcess.label       "Веб үрдісін өлтіру">
+<!ENTITY processHang.terminateProcess.accessKey   "т">
 
-
-
-
-
-
-
-
-
-
-
+<!ENTITY emeLearnMoreContextMenu.label            "DRM туралы көбірек білу…">
+<!ENTITY emeLearnMoreContextMenu.accesskey        "D">
+<!ENTITY emeNotificationsNotNow.label             "Қазір емес">
+<!ENTITY emeNotificationsNotNow.accesskey         "м">
 <!ENTITY emeNotificationsDontAskAgain.label       "Келесіде осы сұрақты қоймау">
 <!ENTITY emeNotificationsDontAskAgain.accesskey   "D">
 
-
-
+<!ENTITY readingList.label                        "Оқу тізімі">
+<!ENTITY readingList.sidebar.commandKey           "м">
+<!ENTITY readingList.showSidebar.label            "Оқу тізімінің бүйір панелін көрсету">
 <!-- Pre-landed string for bug 1124153 -->
+<!ENTITY readingList.sidebar.showMore.label       "Көбірек көрсету…">
 <!-- Pre-landed string for bug 1133662 -->
+<!ENTITY readingList.sidebar.emptyText            "Мақалаларды кейінірек үшін сақтап, керек кезінде оңай табу үшін, оларды өзіңіздің оқу тізіміңізге қосыңыз.">
 <!-- Pre-landed string for bug 1123525 -->
+<!ENTITY readingList.sidebar.delete.tooltip       "Бұны сіздің оқу тізіміңізден өшіру">
 <!-- Pre-landed strings for bug 1123519 -->
-<!ENTITY readingList.sidebar.add.label            "Оқу тізіміне қосу">
-
+<!ENTITY readingList.sidebar.add.label            "Оқу тізіміңізге қосу">
+<!ENTITY readingList.sidebar.add.tooltip          "Бұл бетті сіздің оқу тізіміңізге қосу">
