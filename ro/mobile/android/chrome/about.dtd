@@ -5,7 +5,7 @@
 <!ENTITY aboutPage.warningVersion               "&brandShortName; este experimental și poate fi instabil.">
 <!ENTITY aboutPage.telemetryStart               " Acesta trimite automat informații despre performanță, hardware, consum și personalizări înapoi către ">
 <!ENTITY aboutPage.telemetryMozillaLink         "&vendorShortName;">
-<!ENTITY aboutPage.telemetryEnd                 "pentru a ajuta la îmbunătățirea &brandShortName;. ">
+<!ENTITY aboutPage.telemetryEnd                 " pentru a ajuta la îmbunătățirea &brandShortName;.">
 <!ENTITY aboutPage.checkForUpdates.link         "Caută actualizări »">
 <!ENTITY aboutPage.checkForUpdates.checking     "Se caută actualizări…">
 <!ENTITY aboutPage.checkForUpdates.none         "Nicio actualizare disponibilă">

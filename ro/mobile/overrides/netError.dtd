@@ -39,7 +39,7 @@
 </ul>">
 
 
-<!ENTITY generic.title "Hopa!">
+<!ENTITY generic.title "Ups.">
 <!ENTITY generic.longDesc "<p>&brandShortName; nu poate încărca pagina dintr-un motiv oarecare.</p>">
 
 <!ENTITY malformedURI.title "Adresa nu este validă">
@@ -48,10 +48,10 @@
 <!ENTITY malformedURI.longDesc2 "<ul> 
 <li>Adresele web se scriu de obicei așa 
 <strong>http://www.exemplu.ro/</strong></li> 
-<div id='searchbox'> 
-<input id='searchtext' type='search'></input> 
-<button id='searchbutton'>Caută</button> 
-</div> 
+<div id='searchbox'> 
+<input id='searchtext' type='search'></input> 
+<button id='searchbutton'>Caută</button> 
+</div> 
 <li>Asigură-te că folosești slash-uri corecte (adică 
 <strong>/</strong>).</li> 
 </ul>">
@@ -160,7 +160,7 @@ which uses strings already defined above. The button is included here (instead o
 netError.xhtml) because it exposes functionality specific to firefox. -->
 
 
-<!ENTITY securityOverride.warningContent "<p>Nu ar trebui să adăugați o excepție, dacă utilizați o conexiune la internet în care nu aveți încredere în întregime sau dacă nu sunteți obișnuit să vedeți un avertisment pentru acest server.</p> 
+<!ENTITY securityOverride.warningContent "<p>Nu ar trebui să adaugi o excepție dacă utilizezi o conexiune la internet în care nu ai încredere în întregime sau dacă nu ești obișnuit să vezi un avertisment pentru acest server.</p> 
  
 <button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button> 
 <button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>">
