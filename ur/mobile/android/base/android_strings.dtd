@@ -3,8 +3,8 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 
-<!ENTITY  onboard_start_message "Welcome to &brandShortName;!">
-<!ENTITY  onboard_start_subtext "Committed to you, your privacy, and an Open Web">
+<!ENTITY  onboard_start_message2 "Welcome to &brandShortName;">
+<!ENTITY  onboard_start_subtext2 "More privacy features and ways to customize than ever.">
 <!ENTITY  onboard_start_button_account "Sign in to &brandShortName;">
 <!ENTITY  onboard_start_button_browser "Start Browsing">
 <!-- Localization note: These are used as the titles of different pages on the home screen.
@@ -163,6 +163,8 @@
 
 
 
+<!ENTITY pref_tracking_protection_title "Tracking protection">
+<!ENTITY pref_tracking_protection_summary "&brandShortName; will prevent sites from tracking you">
 <!ENTITY pref_donottrack_title "Do not track">
 <!ENTITY pref_donottrack_summary "&brandShortName; will tell sites that you do not want to be tracked">
 
@@ -198,6 +200,8 @@ size. -->
 
 <!ENTITY pref_media_autoplay_enabled "Allow autoplay">
 <!ENTITY pref_media_autoplay_enabled_summary "Control if websites can autoplay videos and other media content">
+<!ENTITY pref_zoom_force_enabled "Always enable zoom">
+<!ENTITY pref_zoom_force_enabled_summary "Force override so you can zoom any page">
 
 <!ENTITY pref_sync "ہمہ وار کریں">
 <!ENTITY pref_sync_summary "Sync your tabs, bookmarks, passwords, history">
@@ -253,7 +257,7 @@ size. -->
      (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
 <!ENTITY datareporting_crashreporter_title_short "Crash Reporter">
 <!ENTITY datareporting_wifi_title2 "&vendorShortName; Location Service">
-<!ENTITY datareporting_wifi_geolocation_summary2 "Shares approximate Wi-Fi and cellular location of your device with &vendorShortName; to improve our geolocation service">
+<!ENTITY datareporting_wifi_geolocation_summary3 "Help &vendorShortName; map the world! Share approximate Wi-Fi and cellular location of your device to improve our geolocation service">
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
      actual notification that an update is available. -->
@@ -408,6 +412,8 @@ size. -->
 <!ENTITY home_remote_tabs_empty "Your tabs from other devices show up here.">
 <!ENTITY home_remote_tabs_unable_to_connect "Unable to connect">
 <!ENTITY home_remote_tabs_need_to_sign_in "Please sign in to reconnect your Firefox Account and continue syncing.">
+<!ENTITY home_remote_tabs_need_to_finish_migrating "Your new Firefox Account is ready!">
+
 <!ENTITY home_remote_tabs_trouble_verifying "Trouble verifying your account?">
 <!ENTITY home_remote_tabs_need_to_verify "Please verify your Firefox Account to start syncing.">
 
@@ -496,12 +502,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 
 
-<!-- New tablet UI -->
-<!-- LOCALIZATION NOTE (new_tablet_restart): Notification displayed after the user toggles the new tablet UI in the settings screen.-->
-
-
-<!ENTITY new_tablet_restart "Restart the browser for the changes to take effect">
-<!ENTITY new_tablet_pref "Enable new tablet UI">
 <!-- Guest mode -->
 
 <!ENTITY new_guest_session "New Guest Session">
@@ -528,6 +528,13 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY actionbar_menu "Menu">
 <!ENTITY actionbar_done "Done">
+<!-- Voice search in the awesome bar -->
+
+<!ENTITY voicesearch_prompt "Speak now">
+<!ENTITY voicesearch_failed_title "&brandShortName; Voice Search">
+<!ENTITY voicesearch_failed_message "There is a problem with voice search right now. Please try later.">
+<!ENTITY voicesearch_failed_message_recoverable "Sorry! We could not recognize your words. Please try again.">
+<!ENTITY voicesearch_failed_retry "Try again">
 <!-- Localization note (remote_tabs_last_synced): the variable is replaced by a
      "relative time span string" produced by Android.  This string describes the
      time the tabs were last synced relative to the current time; examples
@@ -536,6 +543,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      their desktop or laptop.-->
 
 <!ENTITY remote_tabs_last_synced "Last synced: &formatS;">
+<!-- Localization note: Used when the sync has not happend yet, showed in place of a date -->
+<!ENTITY remote_tabs_never_synced "Last synced: never">
 <!-- Find-In-Page strings -->
 <!-- LOCALIZATION NOTE (find_matchcase): This is meant to appear as an icon that changes color
      if match-case is activated. i.e. No more than two letters, one uppercase, one lowercase. -->

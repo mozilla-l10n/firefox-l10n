@@ -28,19 +28,16 @@
 
 <!ENTITY dataChoicesTab.label            "کوائف پسند">
 
-<!ENTITY healthReportSection.label       "&brandShortName; تندرستی رپورٹ">
 <!ENTITY healthReportDesc.label          "آپ کو آپ کے براؤزر کی سرانجام دہی سمجھنے میں مدد کرتا ہے اور &vendorShortName; کے ساتھ آپ کے براؤزر کی تندرستی کے کوائف شیئر کرتا ہے">
 <!ENTITY enableHealthReport.label        "&brandShortName; تندرستی رپورٹ اہل بنائیں">
 <!ENTITY enableHealthReport.accesskey    "ر">
 <!ENTITY healthReportLearnMore.label     "اور سیکھیں">
 
-<!ENTITY telemetrySection.label          "ٹیلیمٹری">
 <!ENTITY telemetryDesc.label             "&brandShortName; کو بہتر بنانے میں مدد دینے کے لیے آپ کے براؤزر کے سرانجام دہی، استعمال، ہارڈ ویئر اور تخصیص کاری کوائف &vendorShortName; کو بھیجتا ہے">
-<!ENTITY enableTelemetry.label           "ٹیلیمٹری اہل بنائیں">
-<!ENTITY enableTelemetry.accesskey       "ٹ">
+
+
 <!ENTITY telemetryLearnMore.label        "اور سیکھیں">
 
-<!ENTITY crashReporterSection.label      "کریش رپورٹر">
 <!ENTITY crashReporterDesc.label         "&brandShortName; &vendorShortName; کو آپ کے براوزر کو قابل بھروسا اور محفوظ بنانے میں مدد دینے کے لیے کریش رپورٹیں بھیجتا ہے">
 <!ENTITY enableCrashReporter.label       "کریش رپورٹ اہل بنائیں">
 <!ENTITY enableCrashReporter.accesskey   "ک">

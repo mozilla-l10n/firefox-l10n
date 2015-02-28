@@ -10,9 +10,6 @@
 <!ENTITY certmgr.tab.ca                       "مقتدرات">
 <!ENTITY certmgr.tab.orphan2                  "دیگر">
 
-<!ENTITY certmgr.ca.builtins                  "در ساختہ مصدقین">
-<!ENTITY certmgr.ca.mycas                     "آپ سے بندوبست شدہ مصدقین">
-
 <!ENTITY certmgr.mine                         "آپ کے پاس ان تنظیموں سے تصدیق نامے ہیں جو آپ کی شناخت کرتے ہیں:">
 <!ENTITY certmgr.others                       "آپ کے پاس مسل پر تصدیق نامے ہیں جو ان لوگوں کی شناخت کرتے ہیں:">
 <!ENTITY certmgr.websites2                    "آپ کے پاس مسل پر تصدیق نامے ہیں جو ان پیش کار کی شناخت کرتے ہیں:">
@@ -37,7 +34,6 @@
 
 <!ENTITY certmgr.certdetail.sha1fingerprint   "SHA1 انگلیوں کے نشان">
 
-<!ENTITY certmgr.editcert.title               "سلامتی تصدیق نامہ سیٹنگیں تدوین کریں">
 <!ENTITY certmgr.editcacert.title             "CA تصدیق نامہ بھروسا سیٹنگیں تدوین کریں">
 <!ENTITY certmgr.editcert.edittrust           "بھروسا سیٹنگیں تدوین کریں:">
 <!ENTITY certmgr.editcert.trustssl            "یہ تصدیق نامہ ویب سائٹیں شناخت کر سکتا ہے۔">
@@ -49,11 +45,6 @@
 <!ENTITY certmgr.editemailcert.donttrust      "اس تصدیق نامے کی توثیق کا بھروسا مت کریں۔">
 
 <!ENTITY certmgr.deletecert.title             "تصدیق نامہ حذف کریں">
-<!ENTITY certmgr.deletecert.beforename        "آپ نے یہ تصدیق نامہ حذف کرنے کی فرمائش کی ہے:">
-<!ENTITY certmgr.deletecert.aftername         "کیا آپ واقعی اس تصدیق نامے کو حذف کرنا چاہتے ہیں؟">
-<!ENTITY certmgr.deleteusercert.title         "اپنے تصدیق نامے حذف کریں">
-<!ENTITY certmgr.deleteusercert.beforename    "آپ نے تصدیق نامہ حذف کرنے کی فرمائش کی ہے:">
-<!ENTITY certmgr.deleteusercert.aftername     "جب آپ اس تصدیق نامے کو حذف کر دیں گے تو آپ وہ ڈاک پڑھنے کے اہل نہیں رہیں گے جو اس کے ذریعے خفیہ کردہ ہے۔">
 
 <!ENTITY certmgr.certname                     "نام تصدیق نامہ">
 <!ENTITY certmgr.certserver                   "پیش کار">
@@ -72,8 +63,6 @@
 
 <!ENTITY certmgr.editca.label                 "CA بھروسا تدوین کریں">
 <!ENTITY certmgr.editca.accesskey             "ت">
-<!ENTITY certmgr.add.label                    "اضافہ کریں">
-<!ENTITY certmgr.add.accesskey                "ا">
 <!ENTITY certmgr.export.label                 "درآمد کریں…">
 <!ENTITY certmgr.export.accesskey             "د">
 <!ENTITY certmgr.delete2.label                "حذف کریں...">
@@ -90,8 +79,8 @@
 <!ENTITY certmgr.details.accesskey            "ق">
 <!ENTITY certmgr.fields.label                 "قطعہ قدر">
 <!ENTITY certmgr.fields.accesskey             "ق">
-<!ENTITY certmgr.hierarchy.label              "تصدیق نامہ درجہ بندی">
-<!ENTITY certmgr.hierarchy.accesskey          "ت">
+
+
 <!ENTITY certmgr.addException.label           "اکسیپشن اضافہ کریں…">
 <!ENTITY certmgr.addException.accesskey       "ا">
 

@@ -62,10 +62,8 @@
 <!ENTITY inspectorHTMLDelete.accesskey      "ح">
 
 <!ENTITY inspector.selectButton.tooltip     "ماؤس سے عنصر منتخب کریں">
-<!-- LOCALIZATION NOTE (inspectorSearchHTML.label): This is the label shown as
+<!-- LOCALIZATION NOTE (inspectorSearchHTML.label2): This is the label shown as
      the placeholder in inspector search box -->
-
-<!ENTITY inspectorSearchHTML.label          "HTML تلاش کرو">
 <!ENTITY inspectorSearchHTML.key            "ف">
 <!-- LOCALIZATION NOTE (inspectorCopyImageDataUri.label): This is the label
      shown in the inspector contextual-menu for the item that lets users copy

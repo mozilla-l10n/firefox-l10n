@@ -69,6 +69,7 @@
 <!ENTITY btnConsoleInfo         "معلومات">
 <!ENTITY btnConsoleWarnings     "تنبیہات">
 <!ENTITY btnConsoleLog          "لاگ">
+<!ENTITY btnConsoleXhr          "XHR">
 
 
 <!ENTITY filterOutput.placeholder "آؤٹ پٹ فلٹر کریں">

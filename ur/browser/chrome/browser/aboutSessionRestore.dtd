@@ -13,11 +13,10 @@
 <!ENTITY restorepage.startNew       "ایک بلکل نئی براؤزنگ سیشن شروع کر کے ">
 
 <!ENTITY restorepage.tryagainButton "بحال کریں">
-<!ENTITY restorepage.restore.access "ر">
-<!ENTITY restorepage.closeButton    "بند کریں">
-<!ENTITY restorepage.close.access   "ب">
 
-<!ENTITY restorepage.restoreHeader  "بحال کریں">
+<!ENTITY restorepage.closeButton    "بند کریں">
+
+
 <!ENTITY restorepage.listHeader     "دریچے اور ٹیب">
 <!-- LOCALIZATION NOTE: &#37;S will be replaced with a number. -->
 <!ENTITY restorepage.windowLabel    "دریچہ &#037;S">

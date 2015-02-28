@@ -38,3 +38,7 @@
   -  browser/translation.dtd
   -->
 <!ENTITY translation.options.attribution.afterLogo "">
+
+
+
+<!ENTITY  playDRMContent.learnMore.label "مزید سیکھیں">

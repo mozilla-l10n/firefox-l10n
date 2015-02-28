@@ -4,6 +4,7 @@
 <!ENTITY addons.windowTitle                   "ایڈ اون مینیجر">
 
 <!ENTITY search.placeholder                   "تمام ایڈ اون تلاش کریں">
+
 <!-- LOCALIZATION NOTE (search.commandKey):
      The search command key should match findOnCmd.commandkey from browser.dtd -->
 <!ENTITY search.commandkey                    "ڈ">
@@ -35,8 +36,6 @@
 <!ENTITY info.plugincheck.label                 "چیک کریں کہ آپ کے پلگ انتازہ ترین ہیں">
 <!ENTITY info.plugincheck.tooltip               "چیک کریں کہ آپ کے پلگ انتازہ ترین ہیں">
 <!-- categories / views -->
-
-<!ENTITY view.search.label                    "تلاش کریں">
 <!ENTITY view.discover.label                  "ایڈ اون لائیں">
 <!ENTITY view.recentUpdates.label             "حالیہ تازہ کاریاں">
 <!ENTITY view.availableUpdates.label          "دستیاب تازہ کاریاں">
@@ -220,6 +219,7 @@
      Install https://people.mozilla.org/~gszorc/dummy-experiment-addon.xpi
      to cause this tab to appear. -->
 <!ENTITY experiment.info.learnmore "اور سیکھیں">
+
 
 
 

@@ -36,9 +36,9 @@
 <!ENTITY device.permissionsHelpLink "https://developer.mozilla.org/docs/Web/Apps/App_permissions">
 <!ENTITY device.browserTabs "براؤزر کے ٹیب">
 <!ENTITY device.browserTabsTooltip "جڑے ہوئے آلے کے براؤزر میں ٹیب کی فہرست دیکھیں">
-<!ENTITY device.debugBrowserTab "ٹھیک کریں">
+
 <!ENTITY device.debugBrowserTabTooltip "آلہ پر اس براؤزر ٹیب سے جڑے ہوے ترقی دہندہ ٹول کھولیں">
-<!ENTITY device.help "مدد">
+
 
 <!ENTITY connection.connectTooltip "آلہ سے رابطہ قائم کریں">
 <!ENTITY connection.disconnect "منقطع کریں">
@@ -66,19 +66,19 @@
 <!ENTITY connection.startRegisteredSimulator "شروع:">
 
 <!ENTITY projects.localApps "مقامی ایپس">
-<!ENTITY projects.addApp "شامل کریں">
+
 <!ENTITY projects.addPackaged "پیکج شدہ ایپ جمع کریں">
 <!ENTITY projects.addPackagedTooltip "اپنے کمپیوٹر سے نئے پیکج شدہ ایپ(ایک ڈائریکٹری) کو جمع کریں">
 <!ENTITY projects.addHosted "میزبان شدہ ایپ جمع کریں">
 <!ENTITY projects.addHostedTooltip "بعید ویب سائٹ سے ایک نئ میزبان ایپ داخل کریں(manifest.webapp مسل تک ربط) ">
-<!ENTITY projects.title "مقامی اپلی کیشن">
+
 <!ENTITY projects.appDetails "اپلی کیشن تفاصیل">
 <!ENTITY projects.removeAppFromList "اپلی کیشن کو ہٹائیں آس فہرست سے جس میں آُپ کام کر راے ہیں۔ یہ آلہے اور سمیلیٹر سے نہیں ہٹایا جاے گا۔ ">
 <!ENTITY projects.updateApp "تازہ کاری کریں">
 <!ENTITY projects.updateAppTooltip "جواز دہی پڑتال کو نفاذ کریں اور جڑا ہوے آلہ پر ایپ کی تازہ کاری کریں">
-<!ENTITY projects.debugApp "ٹھیک کریں">
+
 <!ENTITY projects.debugAppTooltip "اس ایپ سے جڑے ہوے ترقی دہندہ ٹولز کو کھولیں">
-<!ENTITY projects.saveManifest "محفوظ کریں">
+
 <!ENTITY projects.saveManifestTooltip "Manifest تدوین کار کے مشمولات محفوظ کریں">
 <!ENTITY projects.hostedManifestPlaceHolder2 "http://example.com/app/manifest.webapp">
 <!ENTITY projects.noProjects "کوئی پراجیکٹ نہیں۔ نئی پیکیج ایپ (مقامی ڈائریکٹری) یا میزبان ایپ (کھلی مسل سے ربط کریں) کا اضافہ کریں۔">
@@ -92,7 +92,6 @@
 <!ENTITY projects.hosted "ہوسٹ کیئے گئے">
 <!ENTITY projects.packaged "پیکیج کیئے گئے">
 
-<!ENTITY help.title "ایپ مینیجر">
 <!ENTITY help.close "بند کریں">
 
 <!ENTITY help.usefullLinks "مفید روابط:">

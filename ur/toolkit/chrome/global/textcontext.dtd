@@ -24,3 +24,5 @@
 <!ENTITY spellNoSuggestions.label "(کوئی ہجے کی تجاویز نہیں)">
 <!ENTITY spellDictionaries.label "زبانیں">
 <!ENTITY spellDictionaries.accesskey "ز">
+
+<!ENTITY searchTextBox.clear.label "صاف کریں">

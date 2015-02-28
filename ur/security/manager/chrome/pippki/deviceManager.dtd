@@ -10,11 +10,7 @@
 <!ENTITY devmgr.devlist.label                   "سلامتی ماڈیول و آلات">
 <!ENTITY devmgr.details.title                   "تفصیلات">
 <!ENTITY devmgr.details.title2                  "قدر">
-<!ENTITY devmgr.status.label                    "حالت">
-<!ENTITY devmgr.version.label                   "ورژن">
 
-<!ENTITY devmgr.button.changeslotname.label     "خانے کا نام تبدیل کریں">
-<!ENTITY devmgr.button.changeslotname.accesskey "ت">
 <!ENTITY devmgr.button.login.label              "لاگ ان">
 <!ENTITY devmgr.button.login.accesskey          "ا">
 <!ENTITY devmgr.button.logout.label             "لاگ آؤٹ">
