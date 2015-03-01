@@ -14,7 +14,7 @@
 
 <!ENTITY unsetDefault.tooltip "Programa &brandShortName; ni mogoče odstraniti kot privzetega odjemalca znoraj programa &brandShortName;. Če želite privzeto uporabljati drug program, uporabite njegovo pogovorno okno 'Nastavi kot priveto'.">
 
-<!ENTITY checkOnStartup.label "Vedno preveri ob zagonu &brandShortName;">
+<!ENTITY checkOnStartup.label "Vedno preveri ob zagonu &brandShortName;a">
 <!ENTITY checkOnStartup.accesskey "V">
 
 <!ENTITY searchIntegration.label "Dovoli &searchIntegration.engineName; da preišče sporočila">

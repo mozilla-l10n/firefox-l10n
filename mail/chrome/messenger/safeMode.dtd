@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY safeModeDialog.title             "&brandShortName;ov Varni način">
+<!ENTITY safeModeDialog.title             "&brandShortName;ov varni način">
 <!ENTITY window.width                     "37em">
 
 <!ENTITY safeModeDescription.label        "&brandShortName; se zdaj izvaja v varnem načinu, v katerem so vaše osebne nastavitve, teme in razširitve onemogočene.">
