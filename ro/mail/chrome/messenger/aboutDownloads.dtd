@@ -3,18 +3,19 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY aboutDownloads.title                      "Fișiere salvate">
-
+<!ENTITY aboutDownloads.empty                      "Niciun fișier salvat">
 <!-- LOCALIZATION NOTE (cmd.show.label, cmd.show.accesskey, cmd.showMac.label,
      cmd.showMac.accesskey):
      The show and showMac commands are never shown together, thus they can share
      the same access key (though the two access keys can also be different).
      -->
-
-
-
+<!ENTITY cmd.show.label                            "Deschide dosarul conținător">
+<!ENTITY cmd.show.accesskey                        "d">
+<!ENTITY cmd.showMac.label                         "Arată în Finder">
+<!ENTITY cmd.showMac.accesskey                     "F">
 <!ENTITY cmd.open.label                            "Deschide">
 <!ENTITY cmd.open.accesskey                        "D">
-
-
-
-
+<!ENTITY cmd.removeFromHistory.label               "Înlătură din istoric">
+<!ENTITY cmd.removeFromHistory.accesskey           "r">
+<!ENTITY cmd.clearDownloads.label                  "Curăță descărcările">
+<!ENTITY cmd.clearDownloads.accesskey              "d">
