@@ -4,7 +4,7 @@
 
 
 <!ENTITY  no_space_to_start_error "&brandShortName; səyyahının başladılması üçün yetərli boş yaddaş yoxdur.">
-<!ENTITY  error_loading_file "&brandShortName; başladılması üçün zəruri olan faylların yüklənilməsi zamanı xəra baş verdi.">
+<!ENTITY  error_loading_file "&brandShortName; başladılması üçün zəruri olan faylların yüklənilməsi zamanı xəta baş verdi">
 
 <!ENTITY  onboard_start_message2 "&brandShortName; səyyahına xoş gəlmisiniz">
 <!ENTITY  onboard_start_subtext2 "Hər zamankından daha çox məxfilik özəllikləri və şəxsiləşdirmələr.">
@@ -214,7 +214,7 @@ size. -->
 <!ENTITY pref_media_autoplay_enabled "Avtomatik oxutmağa icazə ver">
 <!ENTITY pref_media_autoplay_enabled_summary "Səhifələrin video və digər media məzmunlarını avtomatik oxudub oxutmayacaqlarını idarə et">
 <!ENTITY pref_zoom_force_enabled "Yaxınlaşdırmanı həmişə aktiv saxla">
-
+<!ENTITY pref_zoom_force_enabled_summary "Zorla üzərinə yaz ki, hər səhifəni yaxınlaşdırmaq mümkün olsun">
 
 <!ENTITY pref_use_master_password "Ana şifrədən istifadə et">
 <!ENTITY pref_sync "Sync">
@@ -271,7 +271,7 @@ size. -->
      (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
 <!ENTITY datareporting_crashreporter_title_short "Çökmə Xəbərçisi">
 <!ENTITY datareporting_wifi_title2 "&vendorShortName; Mövqe Xidməti">
-
+<!ENTITY datareporting_wifi_geolocation_summary3 "&vendorShortName;-ya dünyanın xəritəsini qurmaqda kömək et! Cihazınızın təxmini Wi-Fi və operator yerini paylaşın və geolokasiya xidmətimizi yaxşılaşdırın">
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
      actual notification that an update is available. -->

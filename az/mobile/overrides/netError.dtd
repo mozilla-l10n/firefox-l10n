@@ -93,11 +93,10 @@
 </ul>">
 
 <!ENTITY proxyConnectFailure.title "Proxy server bağlantını rədd etdi">
-<!ENTITY proxyConnectFailure.longDesc "<ul> 
-<li>Proxy-server seçimləri düzgün qurulmamış ola bilər. Seçimləri yoxlayıb yenidən 
-cəhd edin.</li> 
-<li>Problem hələ də qalırsa,  internet provayderinizlə və ya bağlantı idarəçinizlə əlaqə 
-saxlayın.</li>
+<!ENTITY proxyConnectFailure.longDesc "<ul> 
+<li>Proksi tənzimləmələrinin düzgün olduğuna əmin olun.</li> 
+<li>Sistem administratorunuz ilə əlaqə saxlayıb proksi serverinizin işlədiyinə 
+əmin olun.</li> 
 </ul>">
 
 <!ENTITY proxyResolveFailure.title "Proxy-server tapılmadı">
@@ -111,14 +110,16 @@ saxlayın.</li>
 </ul>">
 
 <!ENTITY redirectLoop.title "Yönlendirmə dövrəsi">
-<!ENTITY redirectLoop.longDesc "<ul> 
-<li>aytın saxlamaq istədiyi cookielərə qadağa qoymuş ya da söndürmüş ola bilərsiniz.</li> 
+<!ENTITY redirectLoop.longDesc "<ul> 
+<li>Bu problem bəzən çərəzləri qadağan etmə və ya qəbul etməməkdən 
+ola bilir.</li> 
 </ul>">
 
 <!ENTITY unknownSocketType.title "Şəbəkədən gələn cavab yanlışdır">
-<!ENTITY unknownSocketType.longDesc "<ul> 
-<li>Sizin sistemə şəxsi təhlükəsizlik menegeri quraşdırıldığıa əmin olun .</li> 
-<li>Buna serverin standart olmayan konfiqurasiyada səbəb  ola bilər.</li> 
+<!ENTITY unknownSocketType.longDesc "<ul> 
+<li>Sisteminizdə Şəxsi Təhlükəsizlik İdarəedicisi qurulduğuna 
+əmin olun.</li> 
+<li>Buna serverin standart olmayan konfiqurasiyası səbəb ola bilər.</li> 
 </ul>">
 
 <!ENTITY nssFailure2.title "Təhlükəsiz bağlantı qurulmadı">
@@ -145,7 +146,7 @@ və daha sonra təkrar yoxlaya bilərsiniz.</li> 
 </ul>">
 
 <!ENTITY cspBlocked.title "Məzmun təhlükəsizlik qaydaları xəbərdar etdiyi üçün bloklandı">
-<!ENTITY cspBlocked.longDesc "<p>Brauzer bu səhfənin yüklənməsini blokladı; çünki səhifə, yüklənməsinə icazə verməyən bir məzmun məzmun təhlükəsizlik qanuna sahibdir.</p>">
+<!ENTITY cspBlocked.longDesc "<p>&brandShortName; bu səhifənin bu üsulla yüklənməsinin qarşısını aldı, çünki, səhifədə olan fayllardan birinin təhlükəsizlik siyasəti bunu qadağan edir.</p>">
 
 <!ENTITY corruptedContentError.title "Zədəli Məzmun Xətası">
 <!ENTITY corruptedContentError.longDesc "<p>Baxmaq istədiyiniz səhifə açıla bilmir, çünki fayl ötürülməsi zamanı bir xəta baş verdi.</p><ul><li>Lütfən sayt sahibləri ilə əlaqə yaradıb bu problemi onlara bildirin.</li></ul>">
@@ -160,7 +161,9 @@ netError.xhtml) because it exposes functionality specific to firefox. -->
 
 
 <!ENTITY securityOverride.warningContent "<p>Tam güvənmədiyiniz bir internet şəbəkəsi istifadə edirsinizsə və ya bu serverdən xəbərdarlıq almağa alışmamısınızsa istisnalıq verməməlisiniz.</p> 
-<button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button> <button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>">
+ 
+<button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button> 
+<button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>">
 
 <!ENTITY remoteXUL.title "Uzaq XUL">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Lütfən sayt sahibləri ilə əlaqə saxlayın və bu problemdən xəbərdar edin.</li></ul></p>">

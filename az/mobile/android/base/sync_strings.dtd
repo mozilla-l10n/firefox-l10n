@@ -37,7 +37,7 @@
 <!-- Setup Fail -->
 
 <!ENTITY sync.title.fail.label "&syncBrand.shortName.label; quraşdırıla bilmədi">
-
+<!ENTITY sync.subtitle.fail.label "&syncBrand.fullName.label; serverə qoşula bilmir. Təkrar yoxlamaq istəyirsiniz?">
 <!ENTITY sync.button.tryagain.label "Yeniden dene">
 <!ENTITY sync.button.manual.label "Əllə qurma">
 <!ENTITY sync.subtitle.nointernet.label "İnternet bağlantısı yoxdur.">
@@ -209,7 +209,7 @@
 <!ENTITY fxaccount_status_needs_upgrade "Daxil olmaq üçün &brandShortName; səyyahınızı yüksəltməlisiniz.">
 
 
-
+<!ENTITY fxaccount_status_needs_finish_migrating "Yeni Firefox Hesabınıza daxil olmaq üçün toxunun.">
 <!ENTITY fxaccount_status_bookmarks "Əlfəcinlər">
 <!ENTITY fxaccount_status_history "Tarixçə">
 <!ENTITY fxaccount_status_passwords "Şifrələr">
