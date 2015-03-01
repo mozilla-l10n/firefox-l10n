@@ -9,7 +9,7 @@
 <!ENTITY search_bar_hint 'Mit \u0022&formatS;\u0022 suchen'>
 
 <!ENTITY search_empty_title2 'Mit dem Suchen beginnen'>
-<!ENTITY search_empty_message 'Schnell nach dem gewünschten Suchen'>
+<!ENTITY search_empty_message 'Schnell nach dem Gewünschten suchen'>
 
 <!--  Localization note (search_plus_content_description): This is the content description
       for the "+" icon that appears at the end of search suggestions. -->

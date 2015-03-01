@@ -6,8 +6,12 @@
 <!ENTITY  window.width                    "44em">
 <!ENTITY  window.macWidth                 "44em">
 
-<!ENTITY  allowPagesToUse.label           "Inhalten das Verwenden von eigenen statt der oben gewählten Farben erlauben">
-<!ENTITY  allowPagesToUse.accesskey       "V">
+<!ENTITY  overridePageColors.label        "Ausgewählte Farben anstatt der Farben des Inhalts verwenden:">
+<!ENTITY  overridePageColors.accesskey    "A">
+
+<!ENTITY  overridePageColors.always.label "Immer">
+<!ENTITY  overridePageColors.auto.label   "Nur in Designs mit hohem Kontrast">
+<!ENTITY  overridePageColors.never.label  "Nie">
 
 <!ENTITY  color                           "Text und Hintergrund">
 <!ENTITY  textColor.label                 "Text:">

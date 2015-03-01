@@ -170,6 +170,9 @@
 <!ENTITY fxaccount_confirm_account_change_email 'Diese E-Mail-Adresse vergessen?'>
 <!ENTITY fxaccount_confirm_account_verification_link_sent2 'Verifizierungs-E-Mail gesendet'>
 <!ENTITY fxaccount_confirm_account_verification_link_not_sent2 'Verifizierungs-E-Mail konnte nicht gesendet werden.'>
+<!ENTITY fxaccount_resend_unlock_code_button_label 'Entsperr-E-Mail erneut senden'>
+<!ENTITY fxaccount_unlock_code_sent 'E-Mail zum Entsperren des Kontos gesendet'>
+<!ENTITY fxaccount_unlock_code_not_sent 'Entsperr-E-Mail konnte nicht gesendet werden'>
 
 <!ENTITY fxaccount_sign_in_sub_header 'Anmelden'>
 <!ENTITY fxaccount_sign_in_button_label 'Anmelden'>
@@ -180,9 +183,15 @@
 <!ENTITY fxaccount_account_verified_sub_header 'Konto verifiziert'>
 <!ENTITY fxaccount_account_verified_description2 'Die Synchronisation Ihrer Daten beginnt sofort.'>
 
+<!ENTITY fxaccount_migration_finished_header 'Aktualisierung abgeschlossen'>
+
 <!ENTITY fxaccount_update_credentials_header 'Anmelden'>
 <!ENTITY fxaccount_update_credentials_button_label 'Anmelden'>
 <!ENTITY fxaccount_update_credentials_unknown_error 'Anmeldung schlug fehl'>
+
+<!ENTITY fxaccount_finish_migrating_header 'Anmelden, um die Aktualisierung abzuschließen'>
+<!ENTITY fxaccount_finish_migrating_button_label 'Aktualisierung abschließen'>
+<!ENTITY fxaccount_finish_migrating_description 'Bei der Aktualisierung kann ein erhöhter Datenverkehr nötig werden. Es empfiehlt sich, mit einem WLAN verbunden zu sein.'>
 
 <!ENTITY fxaccount_status_header2 'Firefox-Konto'>
 <!ENTITY fxaccount_status_signed_in_as 'Angemeldet als'>
@@ -197,7 +206,9 @@
 <!ENTITY fxaccount_status_needs_credentials 'Kann nicht verbinden. Tippen Sie zum Anmelden hier.'>
 <!ENTITY fxaccount_status_needs_upgrade 'Aktualisieren Sie &brandShortName;, um sich anmelden zu können.'>
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled '&syncBrand.shortName.label; wurde eingerichtet, aber synchronisiert nicht automatisch. Schalten Sie “Daten automatisch synchronisieren” in Androids Systemeinstellungen &gt; Datenverbauch um.'>
+<!ENTITY fxaccount_status_needs_master_sync_automatically_enabled_v21 '&syncBrand.shortName.label; wurde eingerichtet, aber synchronisiert nicht automatisch. Schalten Sie “Daten automatisch synchronisieren” in Androids Systemeinstellungen &gt; Konten um.'>
 <!ENTITY fxaccount_status_needs_account_enabled '&syncBrand.shortName.label; wurde eingerichtet, aber synchronisiert nicht automatisch. Tippen Sie zum Starten der Synchronisierung hier.'>
+<!ENTITY fxaccount_status_needs_finish_migrating 'Tippen Sie hier, um sich mit Ihrem neuen Firefox-Konto anzumelden.'>
 <!ENTITY fxaccount_status_bookmarks 'Lesezeichen'>
 <!ENTITY fxaccount_status_history 'Chronik'>
 <!ENTITY fxaccount_status_passwords 'Passwörter'>
@@ -245,8 +256,14 @@
 <!ENTITY fxaccount_remote_error_SERVICE_TEMPORARILY_UNAVAILABLE_TO_DUE_HIGH_LOAD 'Server ausgelastet, versuchen Sie es in ein paar Minuten erneut.'>
 <!ENTITY fxaccount_remote_error_UNKNOWN_ERROR 'Es trat ein Problem auf.'>
 <!ENTITY fxaccount_remote_error_COULD_NOT_CONNECT 'Kann nicht mit Netzwerk verbinden.'>
+<!ENTITY fxaccount_remote_error_ACCOUNT_LOCKED 'Konto ist gesperrt. &formatS1;'>
 
 <!ENTITY fxaccount_sync_sign_in_error_notification_title2 '&syncBrand.shortName.label; ist nicht verbunden'>
-<!-- Note to translators: the format string below will be replaced
+<!-- Localization note: the format string below will be replaced
      with the Firefox Account's email address. -->
 <!ENTITY fxaccount_sync_sign_in_error_notification_text2 'Tippen Sie hier, um sich mit &formatS; anzumelden.'>
+
+<!ENTITY fxaccount_sync_finish_migrating_notification_title 'Aktualisieren von &syncBrand.shortName.label; abschließen?'>
+<!-- Localization note: the format string below will be replaced
+     with the Firefox Account's email address. -->
+<!ENTITY fxaccount_sync_finish_migrating_notification_text 'Tippen Sie hier, um sich mit &formatS; anzumelden.'>
