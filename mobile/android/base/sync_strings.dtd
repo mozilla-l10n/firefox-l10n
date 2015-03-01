@@ -150,8 +150,8 @@
 
 <!ENTITY fxaccount_create_account_header2 "Firefox hesabı açın">
 <!ENTITY fxaccount_create_account_password_length_restriction "En az 8 karakter olmalıdır">
-
-
+<!ENTITY fxaccount_create_account_day_of_birth "Gün">
+<!ENTITY fxaccount_create_account_month_of_birth "Ay">
 <!ENTITY fxaccount_create_account_year_of_birth "Doğum yılı">
 <!-- Localization note: &formatS1; is fxaccount_policy_linktos, &formatS2; is fxaccount_policy_linkprivacy, both hyperlinked. -->
 <!ENTITY fxaccount_create_account_policy_text2 "Devam ederek, Firefox çevrimiçi hizmetlerinin &formatS1; ve &formatS2;ni kabul ediyorum.">
@@ -193,7 +193,7 @@
 
 <!ENTITY fxaccount_finish_migrating_header "Yükseltmeyi tamamlamak için oturum açın">
 <!ENTITY fxaccount_finish_migrating_button_label "Yükseltmeyi tamamla">
-
+<!ENTITY fxaccount_finish_migrating_description "Yükseltme sırasında epey veri aktarımı yapılabilir. WiFi ağına bağlanmanızı öneririz.">
 
 <!ENTITY fxaccount_status_header2 "Firefox Hesabı">
 <!ENTITY fxaccount_status_signed_in_as "Oturum açan">
