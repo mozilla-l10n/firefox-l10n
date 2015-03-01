@@ -22,8 +22,8 @@
 <!ENTITY sync.serverURL             "Server URL">
 <!ENTITY sync.setup.connect         "Qoşul">
 <!ENTITY sync.setup.cancel          "ləğv et">
-
-<!ENTITY sync.setup.waiting2        "Digər cihaz üçün gözlənilir...">
+<!ENTITY sync.setup.tutorial        "Necə ediləcəyini göstər">
+<!ENTITY sync.setup.waiting2        "Digər cihaz üçün gözlənilir…">
 
 <!ENTITY sync.pair.title            "Cihazları sinxronizasiya et">
 <!ENTITY sync.pair.description      "Yeni cihazınızı aktivləşdirmək üçün, digər cihazdan &quot;Sync Quraşdır&quot; seçin.">
