@@ -25,7 +25,7 @@
 <!ENTITY convertEmoticons.label           "顯示表情符號圖片">
 <!ENTITY convertEmoticons.accesskey       "D">
 <!ENTITY generalMessageDisplay.caption    "一般">
-<!ENTITY autoMarkAsRead.label             "自動標為已讀">
+<!ENTITY autoMarkAsRead.label             "自動將郵件標示為已讀">
 <!ENTITY autoMarkAsRead.accesskey         "A">
 <!-- LOCALIZATION NOTE (markAsReadAfter.label): This will concatenate to
      "Only after displaying for [___] seconds",

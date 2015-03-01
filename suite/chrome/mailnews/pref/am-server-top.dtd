@@ -84,4 +84,8 @@
 
 <!ENTITY accountTitle.label "帳號設定">
 <!ENTITY accountSettingsDesc.label "這是沒有任何身份資訊的特殊帳號。">
+<!ENTITY storeType.label "訊息儲存方式:">
+<!ENTITY storeType.accesskey "T">
+<!ENTITY mboxStore.label "單一大檔案（mbox）">
+<!ENTITY maildirStore.label "為每封訊息建立檔案（maildir）">
 

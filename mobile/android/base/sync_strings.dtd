@@ -150,6 +150,8 @@
      etc).  The account remains a "Firefox Account". -->
 <!ENTITY fxaccount_create_account_header2 '註冊 Firefox 帳號'>
 <!ENTITY fxaccount_create_account_password_length_restriction '至少要有 8 個字元長'>
+<!ENTITY fxaccount_create_account_day_of_birth '日'>
+<!ENTITY fxaccount_create_account_month_of_birth '月'>
 <!ENTITY fxaccount_create_account_year_of_birth '出生年'>
 <!-- Localization note: &formatS1; is fxaccount_policy_linktos, &formatS2; is fxaccount_policy_linkprivacy, both hyperlinked. -->
 <!ENTITY fxaccount_create_account_policy_text2 '若繼續，代表您同意 Firefox 雲端服務的 &formatS1; 與 &formatS2;。'>
@@ -191,7 +193,7 @@
 
 <!ENTITY fxaccount_finish_migrating_header '登入以完成升級'>
 <!ENTITY fxaccount_finish_migrating_button_label '完成升級'>
-<!ENTITY fxaccount_finish_migrating_description '帳號升級時可能需要轉移不少資料，建議您最好先連線到 Wi-Fi 網路。'>
+<!ENTITY fxaccount_finish_migrating_description '升級過程可能需要傳輸很多資料，建議您最好連線到 Wi-Fi 網路。'>
 
 <!ENTITY fxaccount_status_header2 'Firefox 帳號'>
 <!ENTITY fxaccount_status_signed_in_as '已登入為'>
@@ -207,7 +209,6 @@
 <!ENTITY fxaccount_status_needs_upgrade '您需要升級 &brandShortName; 才能登入。'>
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled '&syncBrand.shortName.label; 已設定完成，但不會自動進行同步。請到 Android 設定 &gt; 帳號與同步處理開啟「自動同步」。'>
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled_v21 '&syncBrand.shortName.label; 已設定完成，但不會自動進行同步。請到 Android 設定的「帳號與同步設定」選單中打開「自動同步資料」才會自動同步。'>
-<!ENTITY fxaccount_status_needs_account_enabled '&syncBrand.shortName.label; 已設定完成，但不會自動進行同步。點擊此處開始同步。'>
 <!ENTITY fxaccount_status_needs_finish_migrating '點擊此處以登入至您全新的 Firefox 帳號。'>
 <!ENTITY fxaccount_status_bookmarks '書籤'>
 <!ENTITY fxaccount_status_history '歷史記錄'>

@@ -6,6 +6,8 @@
 <!ENTITY itemAutoComplete.label              "通訊錄">
 <!ENTITY itemSpellCheck.label                "拼字檢查">
 
+<!ENTITY dialogCompose.title                 "撰寫">
+
 <!ENTITY forwardMsg.label                     "轉寄郵件時:">
 <!ENTITY forwardMsg.accesskey                 "F">
 <!ENTITY inline.label                         "引入內文">

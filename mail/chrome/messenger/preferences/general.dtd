@@ -36,3 +36,5 @@
 <!ENTITY browse.label                     "瀏覽…">
 <!ENTITY browse.accesskey                 "B">
 
+<!ENTITY defaultSearchEngine.label        "預設搜尋引擎">
+

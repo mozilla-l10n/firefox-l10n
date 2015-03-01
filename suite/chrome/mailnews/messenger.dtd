@@ -390,7 +390,7 @@
 <!ENTITY filtersApplyToMessage.accesskey "g">
 <!ENTITY runJunkControls.label "執行垃圾郵件控制">
 <!ENTITY runJunkControls.accesskey "u">
-<!ENTITY deleteJunk.label "刪除標為垃圾信的郵件">
+<!ENTITY deleteJunk.label "刪除標示為垃圾信的郵件">
 <!ENTITY deleteJunk.accesskey "e">
 <!ENTITY importCmd.label "匯入…">
 <!ENTITY importCmd.accesskey "I">
@@ -419,7 +419,7 @@
 <!ENTITY markButton.label "標記">
 <!ENTITY stopButton.label "停止">
 <!ENTITY junkButton.label "垃圾郵件">
-<!ENTITY notJunkButton.label "非垃圾信">
+<!ENTITY notJunkButton.label "非垃圾郵件">
 <!ENTITY searchButton.title "進階搜尋">
 
 <!-- Tooltips -->
