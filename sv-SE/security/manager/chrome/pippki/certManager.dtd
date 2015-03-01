@@ -79,7 +79,7 @@
 <!ENTITY certmgr.details.accesskey            "e">
 <!ENTITY certmgr.fields.label                 "Fältvärde">
 <!ENTITY certmgr.fields.accesskey             "F">
-
+<!ENTITY certmgr.hierarchy.label              "Certifikathierarki">
 <!ENTITY certmgr.hierarchy.accesskey2         "H">
 <!ENTITY certmgr.addException.label           "Lägg till undantag…">
 <!ENTITY certmgr.addException.accesskey       "ä">
