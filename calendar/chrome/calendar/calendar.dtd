@@ -15,6 +15,7 @@
 <!ENTITY calendar.today.button.label "Dnešní den">
 <!ENTITY calendar.tomorrow.button.label "Zítra">
 <!ENTITY calendar.soon.button.label "Brzy">
+<!ENTITY calendar.upcoming.button.label       "Nadcházející">
 
 <!ENTITY calendar.events.filter.all.label "Všechny události">
 <!ENTITY calendar.events.filter.today.label "Dnešní události">
@@ -232,8 +233,17 @@
 <!ENTITY calendar.context.newserver.accesskey "N">
 <!ENTITY calendar.context.findcalendar.label "Hledat kalendář…" >
 <!ENTITY calendar.context.findcalendar.accesskey "H" >
-<!ENTITY calendar.context.deleteserver.label "Smazat kalendář">
-<!ENTITY calendar.context.deleteserver.accesskey "m">
+<!ENTITY calendar.context.deleteserver2.label          "Smazat kalendář…">
+<!ENTITY calendar.context.deleteserver2.accesskey      "m">
+
+<!-- LOCALIZATION NOTE (calendar.context.removeserver.label): Removing the
+      calendar is the general action of removing it, while deleting means to
+      clear the data and unsubscribing means just taking it out of the calendar
+      list. -->
+<!ENTITY calendar.context.removeserver.label           "Odebrat kalendář…">
+<!ENTITY calendar.context.removeserver.accesskey       "O">
+<!ENTITY calendar.context.unsubscribeserver.label      "Odhlásit kalendář…">
+<!ENTITY calendar.context.unsubscribeserver.accesskey  "d">
 <!ENTITY calendar.context.synccalendars.label "Synchronizovat kalendáře">
 <!ENTITY calendar.context.synccalendars.accesskey "S">
 <!ENTITY calendar.context.publish.label "Publikovat kalendář">
