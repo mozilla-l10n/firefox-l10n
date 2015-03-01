@@ -14,8 +14,8 @@
 <!ENTITY pref.calendar.alarms.sound.useDefault.accessKey "v">
 <!ENTITY pref.calendar.alarms.sound.browse.label "Procházet…">
 <!ENTITY pref.calendar.alarms.sound.browse.accessKey "P">
-<!ENTITY pref.calendar.alarms.sound.preview.label "Ukázka">
-<!ENTITY pref.calendar.alarms.sound.preview.accessKey "U">
+<!ENTITY pref.calendar.alarms.sound.play.label "Přehrát">
+<!ENTITY pref.calendar.alarms.sound.play.accessKey "h">
 <!ENTITY pref.showalarmbox "Zobrazit dialog upozornění">
 <!ENTITY pref.calendar.alarms.showAlarmBox.accessKey "d">
 <!ENTITY pref.missedalarms "Ukazovat zmeškaná upozornění">
