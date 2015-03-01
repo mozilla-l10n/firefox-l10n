@@ -15,6 +15,8 @@
 <!ENTITY telemetryInfoLink.label       "Weitere Informationen über Telemetrie">
 <!ENTITY enableGlodaSearch.label       "Globale Suche und Nachrichtenindizierung aktivieren">
 <!ENTITY enableGlodaSearch.accesskey   "N">
+<!ENTITY allowHWAccel.label            "Hardwarebeschleunigung verwenden, wenn verfügbar">
+<!ENTITY allowHWAccel.accesskey        "H">
 
 <!ENTITY scrolling.label               "Bildlauf">
 <!ENTITY useAutoScroll.label           "Automatischen Bildlauf aktivieren">

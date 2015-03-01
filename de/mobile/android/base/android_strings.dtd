@@ -172,6 +172,8 @@
 <!ENTITY pref_cookies_not_accept_foreign "Erlauben, aber nicht Drittanbietern">
 <!ENTITY pref_cookies_disabled "Nicht erlauben">
 
+<!ENTITY pref_tracking_protection_title "Schutz vor Aktivitätenverfolgung">
+<!ENTITY pref_tracking_protection_summary "&brandShortName; wird Websites an der Verfolgung Ihrer Aktivitäten hindern.">
 <!ENTITY pref_donottrack_title "Aktivitäten nicht verfolgen">
 <!ENTITY pref_donottrack_summary "&brandShortName; wird Websites mitteilen, dass Ihre Aktivitäten nicht verfolgt werden sollen.">
 
@@ -429,6 +431,8 @@ size. -->
 <!ENTITY home_remote_tabs_empty "Ihre Tabs von anderen Geräten werden hier angezeigt.">
 <!ENTITY home_remote_tabs_unable_to_connect "Verbindung fehlgeschlagen">
 <!ENTITY home_remote_tabs_need_to_sign_in "Bitte melden Sie sich an, um wieder mit Ihrem Firefox-Konto zu verbinden und die Synchronisation wieder aufzunehmen.">
+<!ENTITY home_remote_tabs_need_to_finish_migrating "Ihr neues Firefox-Konto ist bereit!">
+
 <!ENTITY home_remote_tabs_trouble_verifying "Probleme beim Verifzieren Ihres Kontos?">
 <!ENTITY home_remote_tabs_need_to_verify "Bitte verifizieren Sie Ihr Firefox-Konto, um mit dem Synchronisieren zu beginnen.">
 
@@ -525,12 +529,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY updater_apply_title2 "Update für &brandShortName; verfügbar">
 <!ENTITY updater_apply_select2 "Zum Aktualisieren antippen">
-
-<!-- New tablet UI -->
-
-<!-- LOCALIZATION NOTE (new_tablet_restart): Notification displayed after the user toggles the new tablet UI in the settings screen.-->
-<!ENTITY new_tablet_restart "Starten Sie zur Übernahme der Änderungen den Browser neu.">
-<!ENTITY new_tablet_pref "Neue Benutzeroberfläche für Tablets aktivieren">
 
 <!-- Guest mode -->
 <!ENTITY new_guest_session "Neue Gastsitzung">
