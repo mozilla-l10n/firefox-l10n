@@ -145,8 +145,8 @@
 <!ENTITY messagePaneVertical.accesskey "V">
 <!ENTITY showFolderPaneCmd.label "Panoul cu dosare">
 <!ENTITY showFolderPaneCmd.accesskey "P">
-
-
+<!ENTITY showFolderPaneColsCmd.label "Coloanele panoului pentru dosar">
+<!ENTITY showFolderPaneColsCmd.accesskey "p">
 <!ENTITY showMessageCmd.label "Panoul de mesaj">
 <!ENTITY showMessageCmd.accesskey "m">
 
@@ -567,16 +567,18 @@
 
 <!ENTITY remoteContentOptionsAllowForMsg.label "Afișează conținutul de la distanță în acest mesaj">
 <!ENTITY remoteContentOptionsAllowForMsg.accesskey "s">
-
-
-
-
+<!ENTITY editRemoteContentSettings.label "Editează opțiunile de la distanță pentru conținut…">
+<!ENTITY editRemoteContentSettings.accesskey "E">
+<!ENTITY editRemoteContentSettingsUnix.label "Editează preferințele de la distanță pentru conținut…">
+<!ENTITY editRemoteContentSettingsUnix.accesskey "E">
 <!-- Phishing Button Popup -->
 
-
-
-
-
+<!ENTITY phishingOptionIgnore.label "Ignoră avertismentul pentru acest mesaj">
+<!ENTITY phishingOptionIgnore.accesskey "n">
+<!ENTITY phishingOptionSettings.label "Editează opțiunile pentru detectarea de înșelătorii…">
+<!ENTITY phishingOptionSettings.accesskey "d">
+<!ENTITY phishingOptionSettingsUnix.label "Editează preferințele pentru detectarea de înșelătorii…">
+<!ENTITY phishingOptionSettingsUnix.accesskey "d">
 <!-- AppMenu Popup -->
 
 <!ENTITY appmenuNewMsgCmd.label "Mesaj nou">
@@ -594,8 +596,8 @@
 <!-- Folder Pane -->
 
 <!ENTITY folderNameColumn.label "Nume">
-
-
+<!ENTITY folderUnreadColumn.label "Necitite">
+<!ENTITY folderTotalColumn.label "Total">
 <!ENTITY folderSizeColumn.label "Dimensiune">
 <!-- Folder Pane Context Menu -->
 
@@ -664,8 +666,8 @@
 <!ENTITY statusColumn.label "Stare">
 <!ENTITY sizeColumn.label "Dimensiune">
 <!ENTITY junkStatusColumn.label "Mesaj nesolicitat">
-
-
+<!ENTITY unreadColumn.label "Necitite">
+<!ENTITY totalColumn.label "Total">
 <!ENTITY readColumn.label "Citit">
 <!ENTITY receivedColumn.label "Primit">
 <!ENTITY starredColumn.label "Cu steluță">
@@ -685,7 +687,7 @@
 <!ENTITY accountColumn2.tooltip "Sortează după cont">
 <!ENTITY statusColumn2.tooltip "Sortează după stare">
 <!ENTITY sizeColumn2.tooltip "Sortează după dimensiune">
-<!ENTITY junkStatusColumn2.tooltip "Sortează după nedorite">
+<!ENTITY junkStatusColumn2.tooltip "Sortează după nesolicitate">
 <!ENTITY unreadColumn2.tooltip "Numărul de mesaje necitite în șir">
 <!ENTITY totalColumn2.tooltip "Numărul total de mesaje în șir">
 <!ENTITY readColumn2.tooltip "Sortare după citire">
@@ -693,7 +695,7 @@
 <!ENTITY starredColumn2.tooltip "Sortează după stea">
 <!ENTITY locationColumn2.tooltip "Sortează după locație">
 <!ENTITY idColumn2.tooltip "Sortează după data primirii">
-
+<!ENTITY attachmentColumn2.tooltip "Sortează după atașamente">
 <!-- Thread Pane Context Menu -->
 
 <!ENTITY contextOpenNewWindow.label "Deschide mesajul în fereastră nouă">
@@ -706,8 +708,8 @@
 <!ENTITY contextOpenNewTab.accesskey "t">
 <!ENTITY contextOpenConversation.label "Deschide mesajul în conversație">
 <!ENTITY contextOpenConversation.accesskey "n">
-
-
+<!ENTITY contextOpenContainingFolder.label "Deschide mesajul în dosarul conținător">
+<!ENTITY contextOpenContainingFolder.accesskey "n">
 <!ENTITY contextEditMsgAsNew.label "Editare ca mesaj nou">
 <!ENTITY contextEditMsgAsNew.accesskey "E">
 <!ENTITY contextArchive.label "Arhivează">
@@ -903,3 +905,5 @@
 <!ENTITY hideOtherAppsCmdMac.modifiers  "accel,alt">
 <!ENTITY showAllAppsCmdMac.label        "Arată-le pe toate">
 <!-- Mac OS X Dock Icon pop-up menu -->
+
+<!ENTITY dockOptions.label              "Opțiuni pentru iconița aplicației…">

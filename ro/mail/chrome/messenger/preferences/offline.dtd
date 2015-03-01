@@ -10,10 +10,10 @@
 <!ENTITY radioRememberPrevState.accesskey "r">
 
 
-
-
-
-
+<!ENTITY radioAlwaysOnlineState.label "Online">
+<!ENTITY radioAlwaysOnlineState.accesskey "l">
+<!ENTITY radioAlwaysOffline.label "Offline">
+<!ENTITY radioAlwaysOffline.accesskey "f">
 
 <!ENTITY textGoingOnline "Doriți să se expedieze mesajele netrimise când lucrați online?">
 <!ENTITY radioAutoSend.label "Da">

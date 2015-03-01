@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY itemGeneral.label       "General">
-
+<!ENTITY dataChoicesTab.label    "Împărtășirea de date">
 <!ENTITY itemDisplay.label       "Citire și afișare">
 <!ENTITY itemUpdate.label        "Actualizare">
 <!ENTITY itemNetworking.label    "Rețea și spațiu pe disc">
@@ -12,12 +12,12 @@
 
 <!ENTITY enableGlodaSearch.label       "Activează căutarea globală și indexarea">
 <!ENTITY enableGlodaSearch.accesskey   "i">
-
-
-
-
-
-
+<!ENTITY allowHWAccel.label            "Folosește accelerarea hardware când este disponibilă">
+<!ENTITY allowHWAccel.accesskey        "h">
+<!ENTITY storeType.label               "Tipul de stocare al mesajelor pentru conturile noi:">
+<!ENTITY storeType.accesskey           "T">
+<!ENTITY mboxStore.label               "Un fișier mare (mbox)">
+<!ENTITY maildirStore.label            "Fișier per mesaj (maildir)">
 
 <!ENTITY scrolling.label               "Derulare">
 <!ENTITY useAutoScroll.label           "Folosește derularea automată">
@@ -40,14 +40,17 @@
 <!ENTITY showReturnReceipts.accesskey  "r">
 <!-- Data Choices -->
 
+<!ENTITY telemetrySection.label          "Telemetrie">
+<!ENTITY telemetryDesc.label             "Împărtășiți date privind performanța, consumul, hardware-ul și personalizările clientului dumneavoastră de e-mail cu &vendorShortName; pentru a ne ajuta să facem &brandShortName; mai bun">
+<!ENTITY enableTelemetry.label           "Activează telemetria">
+<!ENTITY enableTelemetry.accesskey       "t">
+<!ENTITY telemetryLearnMore.label        "Află mai multe">
 
-
-
-
-
-
-
-
+<!ENTITY crashReporterSection.label      "Raportor de probleme">
+<!ENTITY crashReporterDesc.label         "&brandShortName; trimite rapoarte de probleme pentru a ajuta &vendorShortName; ca să creeze clientul dumneavoastră de e-mail mai stabil și sigur">
+<!ENTITY enableCrashReporter.label       "Activează raportorul de probleme">
+<!ENTITY enableCrashReporter.accesskey   "c">
+<!ENTITY crashReporterLearnMore.label    "Află mai multe">
 <!-- Display and Reading Settings -->
 
 <!ENTITY reading.caption               "Citire">

@@ -19,4 +19,5 @@
 <!ENTITY paneAdvanced.title       "Avansat">
 <!ENTITY paneAccount.title        "Conturi">
 
-
+<!ENTITY okButton.title           "Ok">
+<!ENTITY okButton.accesskey       "O">
