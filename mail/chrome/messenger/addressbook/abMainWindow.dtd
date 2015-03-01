@@ -3,7 +3,8 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY addressbookWindow.title                        "通訊錄">
-
+<!ENTITY blankResultsPaneMessage.label                  "進行搜尋後才會顯示此通訊錄的聯絡人">
+<!ENTITY localResultsOnlyMessage.label                  "在您進行搜尋前將不會顯示遠端通訊錄中的聯絡人">
 <!-- File Menu -->
 <!ENTITY fileMenu.label                                 "檔案">
 <!ENTITY fileMenu.accesskey                             "f">
@@ -160,6 +161,8 @@ because displayed names don't have the comma in between. -->
 <!ENTITY searchItem.title "快速搜尋">
 
 <!-- Results Pane -->
+<!ENTITY Addrbook.label                                 "通訊錄">
+<!ENTITY Addrbook.accesskey                             "B">
 <!ENTITY GeneratedName.label                            "姓名">
 <!ENTITY GeneratedName.accesskey                        "N">
 <!ENTITY PrimaryEmail.label                             "電子郵件">
