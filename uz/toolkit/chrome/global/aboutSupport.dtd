@@ -35,9 +35,11 @@ This is likely the same like id.heading in crashes.dtd. -->
 <!ENTITY aboutSupport.appBasicsTitle "Ilova dastur asoslari">
 <!ENTITY aboutSupport.appBasicsName "Nomi">
 <!ENTITY aboutSupport.appBasicsVersion "Versiyasi">
-
+<!ENTITY aboutSupport.appBasicsBuildID "Tuzilma ID raqami">
 <!-- LOCALIZATION NOTE (aboutSupport.appBasicsUpdateChannel, aboutSupport.appBasicsUpdateHistory, aboutSupport.appBasicsShowUpdateHistory):
 "Update" is a noun here, not a verb. -->
+
+<!ENTITY aboutSupport.appBasicsUpdateChannel "Yangilash kanali">
 <!ENTITY aboutSupport.appBasicsUpdateHistory "Yangilash tarixi">
 <!ENTITY aboutSupport.appBasicsShowUpdateHistory "Yangilash tarixini ko‘rsatish">
 
@@ -94,4 +96,5 @@ variant of aboutSupport.showDir.label. -->
 
 <!ENTITY aboutSupport.sandboxTitle "Sandbox">
 
-
+<!ENTITY aboutSupport.safeModeTitle "Xavfsizlik usulida urinib ko‘ring">
+<!ENTITY aboutSupport.restartInSafeMode.label "Qo‘sh. dasturlarni o‘chirib ishga tushirish">

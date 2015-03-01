@@ -79,8 +79,8 @@
 <!ENTITY certmgr.details.accesskey            "m">
 <!ENTITY certmgr.fields.label                 "Qiymat maydoni">
 <!ENTITY certmgr.fields.accesskey             "Q">
-
-
+<!ENTITY certmgr.hierarchy.label              "Sertifikat iyerarxiyasi">
+<!ENTITY certmgr.hierarchy.accesskey2         "H">
 <!ENTITY certmgr.addException.label           "Istisno qoʻshish…">
 <!ENTITY certmgr.addException.accesskey       "I">
 
