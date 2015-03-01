@@ -154,7 +154,7 @@
 <!ENTITY fxaccount_create_account_month_of_birth "Ay">
 <!ENTITY fxaccount_create_account_year_of_birth "Doğum tarixi">
 <!-- Localization note: &formatS1; is fxaccount_policy_linktos, &formatS2; is fxaccount_policy_linkprivacy, both hyperlinked. -->
-<!ENTITY fxaccount_create_account_policy_text2 "Davam etməklə Firefox buluq xidmətlərinin &formatS1; və &formatS2; ilə razıyam.">
+<!ENTITY fxaccount_create_account_policy_text2 "Davam etməklə Firefox bulud xidmətlərinin &formatS1; və &formatS2; ilə razıyam.">
 <!ENTITY fxaccount_create_account_button "İrəli">
 <!ENTITY fxaccount_create_account_choose_what_to_sync "Nələrin sinxronlaşdırılacağını seç">
 <!ENTITY fxaccount_create_account_sign_in_instead "Artıq hesabınız var? Daxil olun">
