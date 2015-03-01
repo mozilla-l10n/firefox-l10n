@@ -10,11 +10,12 @@
 <!ENTITY helpMenu.accesskey       "Y"> 
 <!-- LOCALIZATION NOTE some localizations of Windows (ex:french, german) use "?"
                        for the help button in the menubar but Gnome does not.   -->
-
-
-
-
-
+<!ENTITY helpMenuWin.label        "Yardım"> 
+<!ENTITY helpMenuWin.accesskey    "Y">
+<!ENTITY aboutProduct2.label      "&brandShortName; hakkında">
+<!ENTITY aboutProduct2.accesskey  "h">
+<!ENTITY productHelp2.label       "&brandShortName; yardımı">
+<!ENTITY productHelp2.accesskey   "m">
 
 
 <!ENTITY helpKeyboardShortcuts.label     "Klavye kısayolları">
@@ -23,7 +24,8 @@
 <!ENTITY helpSafeMode.label       "Eklentileri devre dışı bırakıp başlat…">
 <!ENTITY helpSafeMode.accesskey   "E">
 
-
+<!ENTITY healthReport2.label      "&brandShortName; Sağlık Raporu">
+<!ENTITY healthReport2.accesskey  "R">
 
 <!ENTITY helpTroubleshootingInfo.label      "Sorun giderme bilgileri">
 <!ENTITY helpTroubleshootingInfo.accesskey  "b">
@@ -31,7 +33,8 @@
 <!ENTITY helpFeedbackPage.label      "Geri bildirim gönder…">
 <!ENTITY helpFeedbackPage.accesskey  "G">
 
-
+<!ENTITY helpShowTour2.label            "&brandShortName; turu">
+<!ENTITY helpShowTour2.accesskey        "o">
 
 <!ENTITY preferencesCmdMac.label        "Tercihler…">
 

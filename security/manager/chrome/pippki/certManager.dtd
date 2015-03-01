@@ -79,8 +79,8 @@
 <!ENTITY certmgr.details.accesskey            "a">
 <!ENTITY certmgr.fields.label                 "Alan değeri">
 <!ENTITY certmgr.fields.accesskey             "d">
-
-
+<!ENTITY certmgr.hierarchy.label              "Sertifika hiyerarşisi">
+<!ENTITY certmgr.hierarchy.accesskey2         "H">
 <!ENTITY certmgr.addException.label           "Ayrıcalık tanı…">
 <!ENTITY certmgr.addException.accesskey       "t">
 
