@@ -4,7 +4,7 @@
 <!ENTITY addons.windowTitle                   "Zastojnik dodankow">
 
 <!ENTITY search.placeholder                   "Wšykne dodanki pytaś">
-
+<!ENTITY search.buttonlabel                   "Pytaś">
 <!-- LOCALIZATION NOTE (search.commandKey):
      The search command key should match findOnCmd.commandkey from browser.dtd -->
 <!ENTITY search.commandkey                    "f">
@@ -36,6 +36,8 @@
 <!ENTITY info.plugincheck.label                 "Pśeglědajśo, lěc waše tykace su aktualne">
 <!ENTITY info.plugincheck.tooltip               "Pśegldajśo, lěc waše tykace su aktualne">
 <!-- categories / views -->
+
+<!ENTITY view.search.label                    "Pytaś">
 <!ENTITY view.discover.label                  "Dodanki wobstaraś">
 <!ENTITY view.recentUpdates.label             "Nejnowše aktualizacije">
 <!ENTITY view.availableUpdates.label          "K dispoziciji stojece aktualizacije">
@@ -228,3 +230,4 @@ někotare z lěpšych a nejpopularnjejšych dodankow za wopytowanje póbitowaś.
 <!ENTITY experiment.info.changetelemetry "Telemetrijowe nastajenja">
 <!ENTITY experiment.info.changetelemetry.accesskey "T">
 
+<!ENTITY setting.learnmore "Dalšne informacije…">

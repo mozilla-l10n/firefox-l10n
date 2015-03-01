@@ -79,8 +79,8 @@
 <!ENTITY certmgr.details.accesskey            "c">
 <!ENTITY certmgr.fields.label                 "Gódnota póla">
 <!ENTITY certmgr.fields.accesskey             "G">
-
-
+<!ENTITY certmgr.hierarchy.label              "Certifikatowa hierarchija">
+<!ENTITY certmgr.hierarchy.accesskey2         "h">
 <!ENTITY certmgr.addException.label           "Wuwześe pśidaś…">
 <!ENTITY certmgr.addException.accesskey       "z">
 
