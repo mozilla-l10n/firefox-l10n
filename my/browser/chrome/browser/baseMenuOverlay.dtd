@@ -1,6 +1,8 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY minimizeWindow.key       "m">
 <!ENTITY minimizeWindow.label     "ချုံ့ပါ">
 <!ENTITY bringAllToFront.label    "ရှေ့ကို အားလုံး ယူလာပါ">
 <!ENTITY zoomWindow.label         "ချုံ့/ချဲ့ပါ">
@@ -10,11 +12,12 @@
 <!ENTITY helpMenu.accesskey       "အ"> 
 <!-- LOCALIZATION NOTE some localizations of Windows (ex:french, german) use "?"
                        for the help button in the menubar but Gnome does not.   -->
-
-
-
-
-
+<!ENTITY helpMenuWin.label        "Hအကူ"> 
+<!ENTITY helpMenuWin.accesskey    "H">
+<!ENTITY aboutProduct2.label      "&brandShorterName; Aအကြောင်း">
+<!ENTITY aboutProduct2.accesskey  "A">
+<!ENTITY productHelp2.label       "&brandShorterName; Hအကူအညီ">
+<!ENTITY productHelp2.accesskey   "H">
 
 
 <!ENTITY helpKeyboardShortcuts.label     "Keyboard Shortcuts">

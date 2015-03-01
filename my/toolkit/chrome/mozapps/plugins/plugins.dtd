@@ -39,4 +39,4 @@
 
 <!ENTITY plugin.file                                         "ဖိုင်">
 <!ENTITY plugin.mimeTypes                                    "MIME Types">
-
+<!ENTITY plugin.flashProtectedMode.label                     "Adobe Flash ကာကွယ်ပုံစံအားဖွင့်ပါ">

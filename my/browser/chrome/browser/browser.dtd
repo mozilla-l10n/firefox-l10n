@@ -63,14 +63,14 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY openLocationCmd.label "တည်နေရာဖွင့်...">
 <!ENTITY openFileCmd.label "Oဖိုင်ဖွင့်...">
 <!ENTITY openFileCmd.accesskey "O">
-
+<!ENTITY openFileCmd.commandkey "o">
 <!ENTITY printSetupCmd.label "uစာမျက်နှာပုံစံ...">
 <!ENTITY printSetupCmd.accesskey "u">
 <!ENTITY printPreviewCmd.label "vပရင့်အစမ်းမြင်ကွင်း">
 <!ENTITY printPreviewCmd.accesskey "v">
 <!ENTITY printCmd.label "Pပုံနှိပ်...">
 <!ENTITY printCmd.accesskey "P">
-
+<!ENTITY printCmd.commandkey "p">
 
 <!ENTITY goOfflineCmd.label "kချိတ်ဆက်မဲ့ သုံး">
 <!ENTITY goOfflineCmd.accesskey "k">

@@ -35,9 +35,11 @@ This is likely the same like id.heading in crashes.dtd. -->
 <!ENTITY aboutSupport.appBasicsTitle "အပ္ပလီကေးရှင်း အခြေခံ">
 <!ENTITY aboutSupport.appBasicsName "အမည်">
 <!ENTITY aboutSupport.appBasicsVersion "မူအဆင့်">
-
+<!ENTITY aboutSupport.appBasicsBuildID "တည်ဆောင်မှု အိုင်ဒီ">
 <!-- LOCALIZATION NOTE (aboutSupport.appBasicsUpdateChannel, aboutSupport.appBasicsUpdateHistory, aboutSupport.appBasicsShowUpdateHistory):
 "Update" is a noun here, not a verb. -->
+
+<!ENTITY aboutSupport.appBasicsUpdateChannel "အဆင့်မြှင့်လိုင်း">
 <!ENTITY aboutSupport.appBasicsUpdateHistory "အဆင့်မြှင့်တင်ချက် မှတ်တမ်း">
 <!ENTITY aboutSupport.appBasicsShowUpdateHistory "အဆင့်မြှင့်တင်ချက် မှတ်တမ်းကို ပြသပါ">
 
@@ -94,4 +96,5 @@ variant of aboutSupport.showDir.label. -->
 
 <!ENTITY aboutSupport.sandboxTitle "စမ်းသပ်">
 
-
+<!ENTITY aboutSupport.safeModeTitle "လုံခြုံရေးသုံးပုံစံ အားသုံးကြည့်မည်">
+<!ENTITY aboutSupport.restartInSafeMode.label "ထပ်ပေါင်းဆော့ဝဲများ ပိတ်ပြီး ပြန်စမည်...">
