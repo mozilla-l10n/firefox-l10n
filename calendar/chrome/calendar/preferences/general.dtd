@@ -34,8 +34,8 @@
 <!ENTITY pref.default_task_offset_next_hour.label "Relativ față ora următoare">
 
 <!ENTITY pref.calendar.todaypane.agenda.caption "Panoul zilei de azi">
-
-
+<!ENTITY pref.soondays.label "Secțiunea de pe viitor arată:">
+<!ENTITY pref.soondays.accesskey "p">
 
 <!ENTITY pref.accessibility.label "Accesibilitate" >
 <!ENTITY pref.systemcolors.label "Optimizare culori pentru accesibilitate" >
