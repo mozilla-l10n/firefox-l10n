@@ -147,7 +147,9 @@
 <!ENTITY messagePaneVertical.accesskey "V">
 <!ENTITY showFolderPaneCmd.label "Vista de carpetas">
 <!ENTITY showFolderPaneCmd.accesskey "s">
-<!ENTITY showMessageCmd.label "Mensaje">
+<!ENTITY showFolderPaneColsCmd.label "Columnas de vista de carpetas">
+<!ENTITY showFolderPaneColsCmd.accesskey "p">
+<!ENTITY showMessageCmd.label "Vista de mensaje">
 <!ENTITY showMessageCmd.accesskey "e">
 
 <!ENTITY folderView.label "Carpetas">
@@ -245,7 +247,7 @@
 <!ENTITY bodyAllParts.accesskey "a">
 
 <!ENTITY bodyMenuFeed.label "Cuerpo del mensaje como">
-<!ENTITY bodyMenuFeed.accesskey "u">
+<!ENTITY bodyMenuFeed.accesskey "B">
 <!ENTITY viewFeedWebPage.label "Página web">
 <!ENTITY viewFeedWebPage.accesskey "W">
 <!ENTITY viewFeedSummary.label "Resumen">
@@ -593,7 +595,9 @@
 <!ENTITY manageTags.accesskey "m">
 
 <!-- Folder Pane -->
-<!ENTITY folderColumn.label "Nombre">
+<!ENTITY folderNameColumn.label "Nombre">
+<!ENTITY folderUnreadColumn.label "Sin leer">
+<!ENTITY folderTotalColumn.label "Total">
 <!ENTITY folderSizeColumn.label "Tamaño">
 
 <!-- Folder Pane Context Menu -->
@@ -614,7 +618,7 @@
 <!ENTITY folderContextEmptyTrash.label "Vaciar papelera">
 <!ENTITY folderContextEmptyTrash.accesskey "p">
 <!ENTITY folderContextEmptyJunk.label "Borrar correo basura">
-<!ENTITY folderContextEmptyJunk.accesskey "o">
+<!ENTITY folderContextEmptyJunk.accesskey "V">
 <!ENTITY folderContextSendUnsentMessages.label "Enviar mensajes pendientes…">
 <!ENTITY folderContextSendUnsentMessages.accesskey "n">
 <!ENTITY folderContextUnsubscribe.label "Cancelar suscripción">

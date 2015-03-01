@@ -1,7 +1,3 @@
-<!-- This Source Code Form is subject to the terms of the Mozilla Public
-   - License, v. 2.0. If a copy of the MPL was not distributed with this
-   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-
 <!-- extracted from am-server-top.xul -->
 
 <!ENTITY messageStorage.label "Almacenamiento de mensajes">
@@ -84,4 +80,7 @@
 
 <!ENTITY accountTitle.label "Configuración de cuenta">
 <!ENTITY accountSettingsDesc.label "La siguiente cuenta es especial. No tiene identidades asociadas.">
-
+<!ENTITY storeType.label "Tipo de almacenamiento de mensajes:">
+<!ENTITY storeType.accesskey "T">
+<!ENTITY mboxStore.label "Un archivo grande (mbox)">
+<!ENTITY maildirStore.label "Un archivo por mensaje (maildir)">

@@ -3,20 +3,21 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY itemGeneral.label       "General">
+<!ENTITY dataChoicesTab.label    "Selección de datos">
 <!ENTITY itemDisplay.label       "Lectura y apariencia">
 <!ENTITY itemUpdate.label        "Actualización">
 <!ENTITY itemNetworking.label    "Red y espacio en disco">
 <!ENTITY itemCertificates.label  "Certificados">
 
 <!-- General Settings -->
-
-<!ENTITY submitTelemetry.label         "Enviar datos de rendimiento">
-<!ENTITY submitTelemetry.accesskey     "r">
-<!ENTITY telemetryInfoLink.label       "Más información sobre Telemetry">
 <!ENTITY enableGlodaSearch.label       "Habilitar indexado y búsqueda global">
 <!ENTITY enableGlodaSearch.accesskey   "i">
 <!ENTITY allowHWAccel.label            "Usar aceleración por hardware cuando esté disponible">
 <!ENTITY allowHWAccel.accesskey        "h">
+<!ENTITY storeType.label               "Tipo de almacenamiento de mensajes para nuevas cuentas:">
+<!ENTITY storeType.accesskey           "T">
+<!ENTITY mboxStore.label               "Un archivo grande (mbox)">
+<!ENTITY maildirStore.label            "Un archivo por mensaje (maildir)">
 
 <!ENTITY scrolling.label               "Desplazamiento">
 <!ENTITY useAutoScroll.label           "Usar autodesplazamiento">
@@ -37,6 +38,19 @@
 <!ENTITY returnReceiptsInfo.label      "Determine cómo &brandShortName; maneja los acuses de recibo">
 <!ENTITY showReturnReceipts.label      "Acuses de recibo…">
 <!ENTITY showReturnReceipts.accesskey  "r">
+
+<!-- Data Choices -->
+<!ENTITY telemetrySection.label          "Telemetry">
+<!ENTITY telemetryDesc.label             "Comparte rendimiento, uso, hardware y datos de personalización sobre su cliente de correo con &vendorShortName; para ayudarnos a mejorar &brandShortName;">
+<!ENTITY enableTelemetry.label           "Habilitar Telemetry">
+<!ENTITY enableTelemetry.accesskey       "T">
+<!ENTITY telemetryLearnMore.label        "Conocer más">
+
+<!ENTITY crashReporterSection.label      "Inforem de fallos">
+<!ENTITY crashReporterDesc.label         "&brandShortName; envía informes de fallos para ayudar a hacer que &vendorShortName; sea más estable y seguro">
+<!ENTITY enableCrashReporter.label       "Habilitar informe de fallos">
+<!ENTITY enableCrashReporter.accesskey   "H">
+<!ENTITY crashReporterLearnMore.label    "Conocer más">
 
 <!-- Display and Reading Settings -->
 <!ENTITY reading.caption                "Lectura">

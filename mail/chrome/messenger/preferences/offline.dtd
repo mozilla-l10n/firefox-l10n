@@ -11,8 +11,8 @@
 <!ENTITY radioRememberPrevState.accesskey "R">
 <!ENTITY radioAskState.label "Perguntarme el estado de conexión">
 <!ENTITY radioAskState.accesskey "x">
-<!ENTITY radioAlwaysOnline.label "Siempre iniciar conectado">
-<!ENTITY radioAlwaysOnline.accesskey "c">
+<!ENTITY radioAlwaysOnlineState.label "En línea">
+<!ENTITY radioAlwaysOnlineState.accesskey "l">
 <!ENTITY radioAlwaysOffline.label "Fuera de línea">
 <!ENTITY radioAlwaysOffline.accesskey "F">
 
