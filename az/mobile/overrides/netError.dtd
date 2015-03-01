@@ -60,7 +60,7 @@
 <!ENTITY netInterrupt.longDesc2 "&sharedLongDesc3;">
 
 <!ENTITY notCached.title "Sənədin vaxtı çıxıb">
-<!ENTITY notCached.longDesc "<p>İstədiyiniz sənəd brauzerin yaddaşında mövcud deyil.</p><ul><li>Təhlükəsizlik tədbiri olaraq, brauzeriniz həssas sənədləri avtomatik olaraq yenidən istəmir.</li><li>Sənədi web saytdan yenidən istəmək üçün, Təkrar yoxla düyməsinə vurun.</li></ul>">
+<!ENTITY notCached.longDesc "<p>İstədiyiniz sənəd &brandShortName; səyyahının keşində mövcud deyil.</p><ul><li>Təhlükəsizlik tədbiri olaraq, &brandShortName; həssas sənədləri avtomatik olaraq yenidən istəmir.</li><li>Sənədi saytdan yenidən istəmək üçün, Təkrar Yoxla düyməsinə klikləyin.</li></ul>">
 
 <!ENTITY netOffline.title "Offline bağlantı səhvi">
 <!-- LOCALIZATION NOTE (netOffline.longDesc3) This string contains markup including widgets enabling wifi connections.
