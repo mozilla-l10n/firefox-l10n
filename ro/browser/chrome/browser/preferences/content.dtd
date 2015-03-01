@@ -43,6 +43,8 @@
 <!ENTITY translation.options.attribution.beforeLogo "Traduceri de">
 <!ENTITY translation.options.attribution.afterLogo "">
 
+<!ENTITY  drmContent.label             "Conținut DRM">
 
-
-
+<!ENTITY  playDRMContent.label         "Redă conținut de tip DRM">
+<!ENTITY  playDRMContent.accesskey     "p">
+<!ENTITY  playDRMContent.learnMore.label "Aflați mai multe">

@@ -32,7 +32,7 @@
 <!-- Strings for the SSL client auth ask dialog -->
 
 <!ENTITY clientAuthAsk.title "Cerere identificare utilizator">
-<!ENTITY clientAuthAsk.message1 "Saitul vă cere să vă identificați cu un certificat:">
+<!ENTITY clientAuthAsk.message1 "Acest sait vă cere să vă identificați cu un certificat:">
 <!ENTITY clientAuthAsk.message2 "Alegeți un certificat care să fie prezentat drept identificare:">
 <!ENTITY clientAuthAsk.message3 "Detaliile certificatului selectat:">
 <!-- Strings for the cert picker dialog -->
@@ -42,7 +42,7 @@
 <!ENTITY certPicker.detailsLabel "Detaliile certificatului selectat:">
 
 <!ENTITY pkcs12.setpassword.title  "Alegeți o parolă de siguranță pentru certificate">
-<!ENTITY pkcs12.setpassword.message  "Parola pe care o dați aici protejează fișierul de siguranță pe care sunteți pe cale să-l creați.  Trebuie să dați această parolă pentru a continua salvarea de siguranță.">
+<!ENTITY pkcs12.setpassword.message  "Parola pe care o setați aici protejează fișierul de siguranță pe care sunteți pe cale să-l creați.  Trebuie să setați această parolă pentru a continua salvarea de siguranță.">
 <!ENTITY pkcs12.setpassword.label1 "Parola de siguranță pentru certificate:">
 <!ENTITY pkcs12.setpassword.label2 "Parola de siguranță pentru certificate (din nou):">
 <!ENTITY pkcs12.setpassword.reminder "Important: Dacă uitați parola de siguranță pentru certificate, nu veți putea reface această copie mai târziu.  Aveți grijă să o păstrați într-un loc sigur.">
