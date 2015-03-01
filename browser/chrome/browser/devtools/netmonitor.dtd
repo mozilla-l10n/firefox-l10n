@@ -317,7 +317,7 @@
 <!-- LOCALIZATION NOTE (debuggerUI.custom.cancel): This is the label displayed
   -  on the button which cancels and closes the custom request form -->
 
-<!ENTITY netmonitorUI.custom.cancel       "Revocare">
+<!ENTITY netmonitorUI.custom.cancel       "Renunță">
 <!-- LOCALIZATION NOTE (debuggerUI.backButton): This is the label displayed
   -  on the button which exists the performance statistics view -->
 
