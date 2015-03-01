@@ -82,7 +82,8 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY personalbarCmd.accesskey "B">
 <!ENTITY bookmarksToolbarItem.label "မှတ်သားချက်များ ခလုတ်တန်း အချက်များ">
 
-
+<!ENTITY toolbarContextMenu.reloadAllTabs.label "A တပ်ဗ်တွေအားလုံးကို ပြန်ဖွင့်ပါ">
+<!ENTITY toolbarContextMenu.reloadAllTabs.accesskey "A">
 
 
 
