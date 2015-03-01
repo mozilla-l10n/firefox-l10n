@@ -47,7 +47,7 @@
 <!ENTITY profilerUI.toolbar.js-calltree "JavaScript">
 <!ENTITY profilerUI.toolbar.memory-calltree "Składowak">
 <!ENTITY profilerUI.toolbar.js-flamegraph "JS płomjenjowy diagram">
-<!ENTITY profilerUI.toolbar.memory-flamegraph "Memory Flame Chart">
+<!ENTITY profilerUI.toolbar.memory-flamegraph "Płomjenjowy diagram składowaka">
 <!-- LOCALIZATION NOTE (profilerUI.table.*): These strings are displayed
   -  in the call tree headers for a recording. -->
 
@@ -74,7 +74,7 @@
   -  a checkbox that inverts and un-inverts the profiler's flame graph. -->
 
 <!ENTITY profilerUI.invertFlameGraph             "Płomjenjowy diagram wobroćić">
-
+<!ENTITY profilerUI.invertFlameGraph.tooltiptext "Přewobroćenje płomjenjoweho diagrama zwobraznja wołanske šćežki, započinajo wot najmłódšich wobłukow a rozšěrjejo so na starše wobłuki.">
 <!-- LOCALIZATION NOTE (profilerUI.showPlatformData): This is the
   -  label for the checkbox that toggles whether or not Gecko platform data
   -  is displayed in the profiler. -->
