@@ -25,6 +25,8 @@
 <!ENTITY contextAfterCls.label "在偵測垃圾信後篩選">
 <!ENTITY contextOutgoing.label "傳送後">
 <!ENTITY contextOutgoing.accesskey "S">
+<!ENTITY contextArchive.label "備存中">
+<!ENTITY contextArchive.accesskey "A">
 
 <!ENTITY filterActionDesc.label "執行下列動作:">
 <!ENTITY filterActionDesc.accesskey "P">

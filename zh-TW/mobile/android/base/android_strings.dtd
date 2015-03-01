@@ -6,8 +6,8 @@
 <!ENTITY  no_space_to_start_error "空間不足，無法啟動 &brandShortName;。">
 <!ENTITY  error_loading_file "嘗試讀取 &brandShortName; 執行所必需的檔案時發生錯誤。">
 
-<!ENTITY  onboard_start_message "歡迎使用 &brandShortName;！">
-<!ENTITY  onboard_start_subtext "承諾為您、您的隱私與 Open Web 努力">
+<!ENTITY  onboard_start_message2 "歡迎使用 &brandShortName;">
+<!ENTITY  onboard_start_subtext2 "更多隱私保護功能與自訂瀏覽器的方式。">
 <!ENTITY  onboard_start_button_account "登入至 &brandShortName;">
 <!ENTITY  onboard_start_button_browser "開始瀏覽">
 
@@ -213,6 +213,8 @@ size. -->
 
 <!ENTITY pref_media_autoplay_enabled "允許自動播放">
 <!ENTITY pref_media_autoplay_enabled_summary "控制網站是否能夠自動播放影片或其他媒體內容">
+<!ENTITY pref_zoom_force_enabled "總是啟用縮放">
+<!ENTITY pref_zoom_force_enabled_summary "強制讓所有網頁都能縮放大小">
 
 <!ENTITY pref_use_master_password "使用主控密碼">
 <!ENTITY pref_sync "同步">
@@ -269,7 +271,7 @@ size. -->
      (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
 <!ENTITY datareporting_crashreporter_title_short "程式錯誤回報員">
 <!ENTITY datareporting_wifi_title2 "&vendorShortName; Location Service">
-<!ENTITY datareporting_wifi_geolocation_summary2 "與 &vendorShortName; 分享您裝置的準確所在位置的 Wi-Fi 與行動基地台資訊以改善我們的地理定位服務">
+<!ENTITY datareporting_wifi_geolocation_summary3 "幫助 &vendorShortName; 畫出全世界的地圖！分享您的裝置大略的 Wi-Fi 與行動基地台定位位置以幫助我們改善地理位置服務">
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
      actual notification that an update is available. -->
@@ -556,13 +558,22 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY actionbar_menu "選單">
 <!ENTITY actionbar_done "完成">
 
+<!-- Voice search in the awesome bar -->
+<!ENTITY voicesearch_prompt "請說話">
+<!ENTITY voicesearch_failed_title "&brandShortName; 語音搜尋">
+<!ENTITY voicesearch_failed_message "語音搜尋功能目前有點問題，請稍後再試。">
+<!ENTITY voicesearch_failed_message_recoverable "抱歉！我們無法判斷您說出的語音，請稍後再試。">
+<!ENTITY voicesearch_failed_retry "重試">
+
 <!-- Localization note (remote_tabs_last_synced): the variable is replaced by a
      "relative time span string" produced by Android.  This string describes the
      time the tabs were last synced relative to the current time; examples
      include "42 minutes ago", "4 days ago", "last week", etc. The subject of
      "Last synced" is one of the user's other Sync clients, typically Firefox on
      their desktop or laptop.-->
-<!ENTITY remote_tabs_last_synced "最後同步: &formatS;">
+<!ENTITY remote_tabs_last_synced "最近同步: &formatS;">
+<!-- Localization note: Used when the sync has not happend yet, showed in place of a date -->
+<!ENTITY remote_tabs_never_synced "最近同步: 從未">
 
 <!-- Find-In-Page strings -->
 <!-- LOCALIZATION NOTE (find_matchcase): This is meant to appear as an icon that changes color

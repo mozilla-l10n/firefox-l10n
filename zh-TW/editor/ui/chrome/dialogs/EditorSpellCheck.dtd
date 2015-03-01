@@ -24,7 +24,7 @@
 <!ENTITY stopButton.accessKey "t">
 <!ENTITY userDictionary.label "使用者自訂字典:">
 <!ENTITY moreDictionaries.label "下載其它字典">
-<!ENTITY addToUserDictionaryButton.label "增加單字">
+<!ENTITY addToUserDictionaryButton.label "新增詞彙">
 <!ENTITY addToUserDictionaryButton.accessKey "d">
 <!ENTITY editUserDictionaryButton.label "編輯…">
 <!ENTITY editUserDictionaryButton.accessKey "E">

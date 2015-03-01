@@ -48,10 +48,12 @@
 
 <!ENTITY cmd.open.label                  "開啟">
 <!ENTITY cmd.open.accesskey              "O">
-<!ENTITY cmd.open_window.label           "用新視窗開啟">
-<!ENTITY cmd.open_window.accesskey       "n">
 <!ENTITY cmd.open_tab.label              "用新分頁開啟">
 <!ENTITY cmd.open_tab.accesskey          "w">
+<!ENTITY cmd.open_window.label           "用新視窗開啟">
+<!ENTITY cmd.open_window.accesskey       "n">
+<!ENTITY cmd.open_private.label          "用新隱私視窗開啟">
+<!ENTITY cmd.open_private.accesskey      "v">
 <!ENTITY cmd.open_all_in_tabs.label      "全部用分頁開啟">
 <!ENTITY cmd.open_all_in_tabs.accesskey  "O">
 

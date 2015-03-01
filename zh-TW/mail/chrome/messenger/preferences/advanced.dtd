@@ -3,20 +3,21 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY itemGeneral.label       "一般">
+<!ENTITY dataChoicesTab.label    "資料選擇">
 <!ENTITY itemDisplay.label       "閱讀與顯示">
 <!ENTITY itemUpdate.label        "更新">
 <!ENTITY itemNetworking.label    "網路與磁碟空間">
 <!ENTITY itemCertificates.label  "憑證">
 
 <!-- General Settings -->
-
-<!ENTITY submitTelemetry.label         "傳送效能資料">
-<!ENTITY submitTelemetry.accesskey     "P">
-<!ENTITY telemetryInfoLink.label       "更多關於 Telemetry 的資訊">
-<!ENTITY enableGlodaSearch.label       "啟動全域搜尋以及索引">
+<!ENTITY enableGlodaSearch.label       "開啟全域搜尋與索引器">
 <!ENTITY enableGlodaSearch.accesskey   "E">
 <!ENTITY allowHWAccel.label            "可用時開啟硬體加速">
 <!ENTITY allowHWAccel.accesskey        "h">
+<!ENTITY storeType.label               "新帳號的訊息儲存方式:">
+<!ENTITY storeType.accesskey           "T">
+<!ENTITY mboxStore.label               "單一大檔案（mbox）">
+<!ENTITY maildirStore.label            "為每封訊息建立檔案（maildir）">
 
 <!ENTITY scrolling.label               "捲動">
 <!ENTITY useAutoScroll.label           "使用自動捲動">
@@ -37,6 +38,19 @@
 <!ENTITY returnReceiptsInfo.label      "決定 &brandShortName; 要如何處理收件回執">
 <!ENTITY showReturnReceipts.label      "收件回執…">
 <!ENTITY showReturnReceipts.accesskey  "R">
+
+<!-- Data Choices -->
+<!ENTITY telemetrySection.label          "Telemetry">
+<!ENTITY telemetryDesc.label             "分享您郵件軟體的效能、使用方式、硬體設備與自訂功能的資料給 &vendorShortName; 以幫助我們讓 &brandShortName; 變得更好">
+<!ENTITY enableTelemetry.label           "啟用 Telemetry">
+<!ENTITY enableTelemetry.accesskey       "T">
+<!ENTITY telemetryLearnMore.label        "更多資訊">
+
+<!ENTITY crashReporterSection.label      "程式錯誤回報員">
+<!ENTITY crashReporterDesc.label         "&brandShortName; 會回傳錯誤報告給 &vendorShortName;，讓您的郵件軟體更穩定、更安全。">
+<!ENTITY enableCrashReporter.label       "啟用程式錯誤回報員">
+<!ENTITY enableCrashReporter.accesskey   "C">
+<!ENTITY crashReporterLearnMore.label    "更多資訊">
 
 <!-- Display and Reading Settings -->
 <!ENTITY reading.caption               "讀取">
