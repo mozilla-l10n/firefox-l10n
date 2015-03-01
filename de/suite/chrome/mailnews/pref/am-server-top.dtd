@@ -32,31 +32,31 @@
 <!ENTITY authMethod.label "Authentifizierungsmethode:">
 <!ENTITY authMethod.accesskey "u">
 <!ENTITY leaveOnServer.label "Nachrichten auf dem Server belassen">
-<!ENTITY leaveOnServer.accesskey "N">
+<!ENTITY leaveOnServer.accesskey "c">
 <!ENTITY headersOnly.label "Nur Kopfzeilen holen">
 <!ENTITY headersOnly.accesskey "K">
 <!ENTITY deleteByAgeFromServer.label "Für maximal">
 <!ENTITY deleteByAgeFromServer.accesskey "F">
 <!ENTITY daysEnd.label "Tage.">
 <!ENTITY deleteOnServer2.label "Bis sie gelöscht werden">
-<!ENTITY deleteOnServer2.accesskey "B">
+<!ENTITY deleteOnServer2.accesskey "h">
 <!ENTITY downloadOnBiff.label "Neue Nachrichten automatisch herunterladen">
 <!ENTITY downloadOnBiff.accesskey "N">
 <!ENTITY username.label "Ihr Benutzername">
 <!ENTITY deleteMessagePrefix.label "Beim Löschen einer Nachricht:">
 <!ENTITY modelMoveToTrash.label "In diesen Ordner verschieben:">
-<!ENTITY modelMoveToTrash.accesskey "I">
+<!ENTITY modelMoveToTrash.accesskey "c">
 <!ENTITY modelMarkDeleted.label "Einfach als gelöscht markieren">
-<!ENTITY modelMarkDeleted.accesskey "E">
+<!ENTITY modelMarkDeleted.accesskey "h">
 <!ENTITY modelDeleteImmediately.label "Sofort entfernen">
-<!ENTITY modelDeleteImmediately.accesskey "S">
+<!ENTITY modelDeleteImmediately.accesskey "n">
 <!-- LOCALIZATION NOTE (expungeOnExit.label) : do not translate two of "&quot;" in below line -->
 <!ENTITY expungeOnExit.label "Bereinigen (&quot;Expunge&quot;) des Posteingangs beim Verlassen.">
-<!ENTITY expungeOnExit.accesskey "B">
+<!ENTITY expungeOnExit.accesskey "x">
 <!ENTITY emptyTrashOnExit.label "Papierkorb beim Verlassen leeren">
-<!ENTITY emptyTrashOnExit.accesskey "P">
+<!ENTITY emptyTrashOnExit.accesskey "o">
 <!ENTITY loginAtStartup.label "Beim Starten auf neue Mail prüfen"> 
-<!ENTITY loginAtStartup.accesskey "B">
+<!ENTITY loginAtStartup.accesskey "e">
 <!-- LOCALIZATION NOTE (maxMessagesStart.label) : translate below 2 lines with grammar dependency 
     maxMessengerStart.label will be followed by maxMessagesEnd.label with the number
 	 of messages between them
@@ -84,3 +84,7 @@
 
 <!ENTITY accountTitle.label "Account-Einstellungen">
 <!ENTITY accountSettingsDesc.label "Der folgende ist ein spezieller Account. Mit ihm sind keine Identitäten verbunden.">
+<!ENTITY storeType.label "Typ des Nachrichtenspeichers:">
+<!ENTITY storeType.accesskey "T">
+<!ENTITY mboxStore.label "Eine große Datei (mbox)">
+<!ENTITY maildirStore.label "Datei pro Nachricht (maildir)">
