@@ -79,7 +79,7 @@
 <!ENTITY closeMsgOnMoveOrDelete.accesskey "Z">
 <!-- Update -->
 
-<!ENTITY updateApp.label                 "Posodobitve &brandShortName;a:">
+<!ENTITY updateApp.label                 "Posodobitve za &brandShortName;:">
 <!ENTITY updateAuto.label                "Samodejno namesti posodobitve (priporočeno: izboljšana varnost)">
 <!ENTITY updateAuto.accesskey            "S">
 <!ENTITY updateCheck.label               "Preveri za posodobitve, toda naj sam izberem ali naj se namestijo">
