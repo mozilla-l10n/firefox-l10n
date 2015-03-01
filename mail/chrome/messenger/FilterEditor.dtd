@@ -25,8 +25,8 @@
 <!ENTITY contextAfterCls.label "Se filtrează după clasificarea ca mesaj spam">
 <!ENTITY contextOutgoing.label "După trimitere">
 <!ENTITY contextOutgoing.accesskey "u">
-
-
+<!ENTITY contextArchive.label "Arhivare">
+<!ENTITY contextArchive.accesskey "A">
 
 <!ENTITY filterActionDesc.label "Efectuează următoarele acțiuni:">
 <!ENTITY filterActionDesc.accesskey "E">

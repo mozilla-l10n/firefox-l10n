@@ -84,7 +84,7 @@
 
 <!ENTITY accountTitle.label "Setările contului">
 <!ENTITY accountSettingsDesc.label "Acesta este un cont special. Cu acesta nu sunt asociate identități.">
-
-
-
-
+<!ENTITY storeType.label "Tipul de stocare al mesajelor:">
+<!ENTITY storeType.accesskey "T">
+<!ENTITY mboxStore.label "Un fișier mare (mbox)">
+<!ENTITY maildirStore.label "Fișier per mesaj (maildir)">

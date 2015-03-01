@@ -478,7 +478,7 @@
 <!ENTITY importCmd.label "Importă…">
 <!ENTITY importCmd.accesskey "I">
 <!ENTITY errorConsoleCmd.label "Consolă de erori">
-<!ENTITY errorConsoleCmd.accesskey "n">
+<!ENTITY errorConsoleCmd.accesskey "e">
 <!ENTITY errorConsoleCmd.commandkey "j">
 <!ENTITY clearRecentHistory.label "Curăță istoricul recent…">
 <!ENTITY clearRecentHistory.accesskey "r">

@@ -3,8 +3,8 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY addressbookWindow.title                        "Agendă de contacte">
-
-
+<!ENTITY blankResultsPaneMessage.label                  "Această agendă afișează contacte doar după o căutare">
+<!ENTITY localResultsOnlyMessage.label                  "Contactele din agendele de la distanță nu sunt afișate înainte de căutare">
 <!-- File Menu -->
 <!ENTITY fileMenu.label                                 "Fișier">
 <!ENTITY fileMenu.accesskey                             "F">
@@ -161,6 +161,8 @@ because displayed names don't have the comma in between. -->
 <!ENTITY searchItem.title "Căutare rapidă">
 <!-- Results Pane -->
 
+<!ENTITY Addrbook.label                                 "Agendă de contacte">
+<!ENTITY Addrbook.accesskey                             "n">
 <!ENTITY GeneratedName.label                            "Nume">
 <!ENTITY GeneratedName.accesskey                        "N">
 <!ENTITY PrimaryEmail.label                             "Email">
