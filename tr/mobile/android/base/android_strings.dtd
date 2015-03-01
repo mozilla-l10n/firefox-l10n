@@ -6,7 +6,8 @@
 <!ENTITY  no_space_to_start_error "&brandShortName; uygulamasının başlaması için yeterli boş alan yok.">
 <!ENTITY  error_loading_file "&brandShortName; uygulamasını başlatmak için gereken dosyalar yüklenmeye çalışılırken bir sorun meydana geldi.">
 
-
+<!ENTITY  onboard_start_message2 "&brandShortName; tarayıcısına hoş geldiniz">
+<!ENTITY  onboard_start_subtext2 "Daha fazla gizlilik özelliği ve eskisinden çok daha fazla özelleştirme olanağı.">
 <!ENTITY  onboard_start_button_account "&brandShortName; oturumu aç">
 <!ENTITY  onboard_start_button_browser "Gezinmeye başla">
 <!-- Localization note: These are used as the titles of different pages on the home screen.
@@ -74,7 +75,7 @@
 <!ENTITY switch_button_message "DEĞİŞTİR">
 
 <!ENTITY settings "Ayarlar">
-
+<!ENTITY settings_title "Ayarlar">
 <!ENTITY pref_category_advanced "Gelişmiş">
 <!ENTITY pref_category_customize "Özelleştir">
 <!ENTITY pref_category_customize_summary "Başlangıç, arama, sekmeler, içerik alma">
@@ -98,6 +99,8 @@
 <!-- Localization note (overlay_share_bookmark_btn_label) : This string is
      used in the share overlay menu to select an action. It is the verb
      "to bookmark", not the noun "a bookmark". -->
+
+<!ENTITY overlay_share_bookmark_btn_label "Yer imlerine ekle">
 <!ENTITY overlay_share_reading_list_btn_label "Okuma Listesi\u0027ne ekle">
 <!ENTITY overlay_share_bookmark_btn_label_already "Zaten imlenmiş">
 <!ENTITY overlay_share_reading_list_btn_label_already "Zaten Okuma Listesi\u0027nde">
@@ -109,9 +112,10 @@
 
 <!ENTITY overlay_share_send_tab_btn_label "Başka bir aygıta gönder">
 <!ENTITY overlay_share_no_url "Bu paylaşımda bağlantı bulunamadı">
-
+<!ENTITY overlay_share_retry "Yeniden dene">
 <!ENTITY overlay_share_select_device "Cihaz seçin">
 
+<!ENTITY pref_category_search3 "Arama">
 <!ENTITY pref_category_search_summary "Arama sağlayıcılarınızı özelleştirin">
 <!ENTITY pref_category_display "Görünüm">
 <!ENTITY pref_category_display_summary "Metin, başlık çubuğu, tam ekran gezinti">
@@ -125,7 +129,7 @@
 <!ENTITY pref_category_add_search_providers "Daha fazla arama sağlayıcı ekle">
 <!ENTITY pref_category_search_restore_defaults "Arama motorlarını geri yükle">
 <!ENTITY pref_search_restore_defaults "Varsayılanları geri yükle">
-
+<!ENTITY pref_search_restore_defaults_summary "Varsayılanları geri yükle">
 <!-- Localization note (pref_search_hint) : "TIP" as in "hint", "clue" etc. Displayed as an
      advisory message on the customise search providers settings page explaining how to add new
      search providers.
@@ -155,14 +159,16 @@
 <!ENTITY pref_home_suggested_sites_summary "İlginç bulacağınızı düşündüğümüz sitelerin kısayollarını ana sayfanızda gösterir">
 <!-- Localization note: These are shown in the left sidebar on tablets -->
 
-
+<!ENTITY pref_header_customize "Özelleştir">
+<!ENTITY pref_header_display "Görünüm">
+<!ENTITY pref_header_privacy_short "Gizlilik">
 <!ENTITY pref_header_help "Yardım">
-
-
-
+<!ENTITY pref_header_language "Dil">
+<!ENTITY pref_header_vendor "&vendorShortName;">
+<!ENTITY pref_header_devtools "Geliştirici araçları">
 
 <!ENTITY pref_cookies_menu "Çerezler">
-
+<!ENTITY pref_cookies_accept_all "Etkin">
 <!ENTITY pref_cookies_not_accept_foreign "Etkin, 3. parti hariç">
 <!ENTITY pref_cookies_disabled "Devre dışı">
 
@@ -180,9 +186,9 @@
 <!ENTITY pref_clear_on_exit_summary2 "Ana menüden \u0022Çık\u0022ı seçtiğiniz zaman &brandShortName; verilerinizi otomatik olarak temizleyecektir">
 <!ENTITY pref_clear_on_exit_dialog_title "Temizlenecek verileri seçin">
 <!ENTITY pref_plugins "Yan uygulamalar">
-
+<!ENTITY pref_plugins_enabled "Etkin">
 <!ENTITY pref_plugins_tap_to_play "Oynatmak için dokun">
-
+<!ENTITY pref_plugins_disabled "Devre dışı">
 <!ENTITY pref_text_size "Metin boyutu">
 <!ENTITY pref_reflow_on_zoom4 "Metin akışı">
 <!ENTITY pref_restore "Sekmeler">
@@ -199,6 +205,7 @@
 same character/combination is used to increase the preview font size. It should be a concise
 representation of the language it is used in that will help show the text in the preview will change
 size. -->
+<!ENTITY pref_font_size_adjust_char "A">
 <!-- Localization note (pref_font_size_preview_text): This paragraph is used as an example to
     demonstrate the font size setting.  It is meant to be whimsical and fun. -->
 
@@ -206,8 +213,8 @@ size. -->
 
 <!ENTITY pref_media_autoplay_enabled "Otomatik oynatmaya izin ver">
 <!ENTITY pref_media_autoplay_enabled_summary "Web sitelerinin videoları ve diğer ortam içeriklerini otomatik oynatıp oynatamayacağını kontrol et">
-
-
+<!ENTITY pref_zoom_force_enabled "Yakınlaştırmayı her zaman etkinleştir">
+<!ENTITY pref_zoom_force_enabled_summary "Her sayfayı yakınlaştırabilmeniz için sayfa tercihini zorla değiştirir">
 
 <!ENTITY pref_use_master_password "Ana parolayı kullan">
 <!ENTITY pref_sync "Sync">
@@ -264,20 +271,22 @@ size. -->
      (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
 <!ENTITY datareporting_crashreporter_title_short "Çökme Habercisi">
 <!ENTITY datareporting_wifi_title2 "&vendorShortName; konum servisi">
-
+<!ENTITY datareporting_wifi_geolocation_summary3 "&vendorShortName;\u0027nın dünyayı keşfetmesine yardım edin! Coğrafi konum hizmetimizi geliştirmek için aygıtınızın yaklaşık Wi-Fi ve hücresel konumunu paylaşın">
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
      actual notification that an update is available. -->
 <!ENTITY pref_update_autodownload2 "Güncellemeleri otomatik indir">
-
+<!ENTITY pref_update_autodownload_wifi "Yalnızca Wi-Fi üzerinden">
 <!ENTITY pref_update_autodownload_never "Asla">
 <!ENTITY pref_update_autodownload_always "Her zaman">
 <!-- Localization note (help_menu) : This string is used in the main menu-->
 
+<!ENTITY help_menu "Yardım">
+
 <!ENTITY quit "Çık">
 
 <!ENTITY addons "Eklentiler">
-
+<!ENTITY downloads "İndirilenler">
 <!ENTITY apps "Uygulamalar">
 <!ENTITY char_encoding "Karakter kodlaması">
 
@@ -293,7 +302,7 @@ size. -->
 <!ENTITY new_private_tab "Yeni gizli sekme">
 <!ENTITY close_all_tabs "Tüm sekmeleri kapat">
 <!ENTITY close_private_tabs "Gizli sekmeleri kapat">
-
+<!ENTITY tabs_normal "Sekmeler">
 <!ENTITY tabs_private "Özel">
 <!ENTITY tabs_synced "Eşitlenen">
 <!ENTITY set_image_fail "Resim ayarlanamadı">
@@ -301,29 +310,31 @@ size. -->
 <!ENTITY set_image_chooser_title "Resmi ayarla">
 <!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
+
+<!ENTITY find_text "Sayfada bul">
 <!ENTITY find_prev "Önceki">
 <!ENTITY find_next "Sonraki">
-
+<!ENTITY find_close "Kapat">
 <!-- Localization note (media_sending_to, media_play, media_pause, media_stop) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
 
 <!ENTITY media_sending_to "Aygıta gönderiliyor">
 <!ENTITY media_play "Yürüt">
 <!ENTITY media_pause "Duraklat">
-
+<!ENTITY media_stop "Durdur">
 
 <!ENTITY contextmenu_open_new_tab "Yeni sekmede aç">
 <!ENTITY contextmenu_open_private_tab "Gizli sekmede aç">
-
+<!ENTITY contextmenu_remove "Kaldır">
 <!ENTITY contextmenu_add_to_launcher "Ana ekrana ekle">
-
+<!ENTITY contextmenu_share "Paylaş">
 <!ENTITY contextmenu_pasteandgo "Yapıştır ve git">
 <!ENTITY contextmenu_paste "Yapıştır">
 <!ENTITY contextmenu_copyurl "Adresi kopyala">
 <!ENTITY contextmenu_edit_bookmark "Düzenle">
 <!ENTITY contextmenu_subscribe "Sayfaya abone ol">
 <!ENTITY contextmenu_site_settings "Site ayarlarını düzenle">
-
+<!ENTITY contextmenu_top_sites_edit "Düzenle">
 <!ENTITY contextmenu_top_sites_pin "Siteyi sabitle">
 <!ENTITY contextmenu_top_sites_unpin "Sabitlenmesini kaldır">
 <!ENTITY contextmenu_add_search_engine "Arama motoru ekle">
@@ -350,7 +361,7 @@ size. -->
      dialog that appears after selecting the "Edit Site Settings" context menu item. -->
 
 <!ENTITY site_settings_title3       "Site Ayarları">
-
+<!ENTITY site_settings_cancel       "İptal">
 <!ENTITY site_settings_clear        "Temizle">
 <!ENTITY site_settings_no_settings  "Temizlenecek ayar yok.">
 
@@ -373,12 +384,12 @@ size. -->
 <!ENTITY masterpassword_confirm "Parolayı doğrulayın">
 
 <!ENTITY button_ok "Tamam">
-
+<!ENTITY button_cancel "İptal">
 <!ENTITY button_yes "Evet">
 <!ENTITY button_no "Hayır">
 <!ENTITY button_clear_data "Verileri temizle">
-
-
+<!ENTITY button_set "Ayarla">
+<!ENTITY button_clear "Temizle">
 
 <!ENTITY home_top_sites_title "Önemli siteler">
 <!-- Localization note (home_top_sites_add): This string is used as placeholder
@@ -388,7 +399,7 @@ size. -->
      with the page title defined in aboutHome.dtd -->
 
 <!ENTITY home_title "&brandShortName; Ana Sayfası">
-
+<!ENTITY home_history_title "Geçmiş">
 <!ENTITY home_clear_history_button "Tarama geçmişini temizle">
 <!ENTITY home_clear_history_confirm "Geçmişi temizlemek istediğinizden emin misiniz?">
 <!ENTITY home_bookmarks_empty "Kaydettiğiniz yer imleri burada görünür.">
@@ -450,6 +461,7 @@ size. -->
 
 <!ENTITY pin_site_dialog_hint "Aranacak anahtar kelimeyi girin">
 
+<!ENTITY filepicker_title "Dosya Seç">
 <!ENTITY filepicker_audio_title "Bir ses seçin veya kaydedin">
 <!ENTITY filepicker_image_title "Bir resim seçin veya çekin">
 <!ENTITY filepicker_video_title "Bir video seçin veya kaydedin">
@@ -517,32 +529,41 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY updater_downloading_select2 "İndirildiğinde güncellemeyi uygulamak için dokunun">
 <!ENTITY updater_downloading_retry2 "Yeniden denemek için dokunun">
 
+<!ENTITY updater_apply_title2 "&brandShortName; için güncelleme mevcut">
 <!ENTITY updater_apply_select2 "Güncellemek için dokunun">
 <!-- Guest mode -->
 
 <!ENTITY new_guest_session "Yeni konuk oturumu">
 <!ENTITY exit_guest_session "Konuk oturumundan çık">
 <!ENTITY guest_session_dialog_continue "Devam">
-
+<!ENTITY guest_session_dialog_cancel "İptal">
 <!ENTITY new_guest_session_title "&brandShortName; şimdi yeniden başlayacak">
 <!ENTITY new_guest_session_text "Bunu kullanan kişi, kişisel tarama verilerinizin hiçbirini (kayıtlı parolalarınız, geçmişiniz ve yer imleriniz) görmeyecektir.\n\nKonuğun işi bittiğinde tarama verileri silinecek ve sizin oturumunuz geri yüklenecektir.">
 <!ENTITY guest_browsing_notification_title "Konum oturumu etkinleşti">
 <!ENTITY guest_browsing_notification_text "Çıkmak için dokunun">
 
+<!ENTITY exit_guest_session_title "&brandShortName; şimdi yeniden başlayacak">
 <!ENTITY exit_guest_session_text "Bu oturumdaki tarama verileri silinecektir.">
 <!-- Miscellaneous -->
 <!-- LOCALIZATION NOTE (ellipsis): This text is appended to a piece of text that does not fit in the
      designated space. Use the unicode ellipsis char, \u2026, or use "..." if \u2026 doesn't suit
      traditions in your locale. -->
 
+<!ENTITY ellipsis "…">
+
+<!ENTITY colon ":">
 <!-- These are only used for accessibility for the done and overflow-menu buttons in the actionbar.
      They are never shown to users -->
+
+<!ENTITY actionbar_menu "Menü">
 <!ENTITY actionbar_done "Bitti">
 <!-- Voice search in the awesome bar -->
 
-
-
-
+<!ENTITY voicesearch_prompt "Şimdi konuşun">
+<!ENTITY voicesearch_failed_title "&brandShortName; Sesle Arama">
+<!ENTITY voicesearch_failed_message "Şu anda sesle aramada bir sorun var. Lütfen daha sonra deneyin.">
+<!ENTITY voicesearch_failed_message_recoverable "Özür dileriz! Sözlerinizi tanıyamadık. Lütfen yeniden deneyin.">
+<!ENTITY voicesearch_failed_retry "Yeniden dene">
 <!-- Localization note (remote_tabs_last_synced): the variable is replaced by a
      "relative time span string" produced by Android.  This string describes the
      time the tabs were last synced relative to the current time; examples
@@ -552,6 +573,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY remote_tabs_last_synced "Son eşitleme: &formatS;">
 <!-- Localization note: Used when the sync has not happend yet, showed in place of a date -->
+<!ENTITY remote_tabs_never_synced "Son eşitleme: hiç">
 <!-- Find-In-Page strings -->
 <!-- LOCALIZATION NOTE (find_matchcase): This is meant to appear as an icon that changes color
      if match-case is activated. i.e. No more than two letters, one uppercase, one lowercase. -->

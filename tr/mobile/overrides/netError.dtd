@@ -128,9 +128,10 @@ reddedilmesi olabilmektedir.</li>
 
 <!ENTITY nssBadCert.title "Güvenli bağlantı hatalı">
 <!ENTITY nssBadCert.longDesc2 "<ul> 
-<li>Bu, sunucunun yapılandırmasıyla ilgili bir sorundan ya da birinin sunucuyu taklit etmeye çalışmasından kaynaklanıyor olabilir.</li> 
-<li>Daha önce bu sunucuya başarılı bir şekilde bağlandıysanız sorun geçici olabilir ve daha sonra yeniden açmayı deneyebilirsiniz.</li> 
-<li>Gelişmiş şifreleme ayarlarına bakarak güvenlik sorunu yaşadığı bilinen sunucuların listesini görebilir ve üzerinde değişiklik yapabilirsiniz.</li> 
+<li>Bu, sunucunun yapılandırmasıyla ilgili bir sorun olabilir veya 
+birisi sunucuyu taklit etmeye çalışıyor olabilir.</li> 
+<li>Daha önce bu sunucuya başarılı bir şekilde bağlandıysanız sorun geçici 
+olabilir ve daha sonra yeniden deneyebilirsiniz.</li> 
 </ul>">
 <!-- LOCALIZATION NOTE (sharedLongDesc3) This string contains markup including widgets for enabling wifi connections.
      The text inside the tags should be localized. Do not touch the ids. -->
