@@ -79,8 +79,8 @@
 <!ENTITY certmgr.details.accesskey            "i">
 <!ENTITY certmgr.fields.label                 "Valoare câmp">
 <!ENTITY certmgr.fields.accesskey             "o">
-
-
+<!ENTITY certmgr.hierarchy.label              "Ierarhia certificatelor">
+<!ENTITY certmgr.hierarchy.accesskey2         "H">
 <!ENTITY certmgr.addException.label           "Adaugă excepție…">
 <!ENTITY certmgr.addException.accesskey       "x">
 

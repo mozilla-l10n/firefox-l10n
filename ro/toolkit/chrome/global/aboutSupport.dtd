@@ -35,9 +35,11 @@ This is likely the same like id.heading in crashes.dtd. -->
 <!ENTITY aboutSupport.appBasicsTitle "Informații de bază despre aplicație">
 <!ENTITY aboutSupport.appBasicsName "Nume">
 <!ENTITY aboutSupport.appBasicsVersion "Versiune">
-
+<!ENTITY aboutSupport.appBasicsBuildID "Identificator versiune">
 <!-- LOCALIZATION NOTE (aboutSupport.appBasicsUpdateChannel, aboutSupport.appBasicsUpdateHistory, aboutSupport.appBasicsShowUpdateHistory):
 "Update" is a noun here, not a verb. -->
+
+<!ENTITY aboutSupport.appBasicsUpdateChannel "Sursă de actualizare">
 <!ENTITY aboutSupport.appBasicsUpdateHistory "Istoricul actualizărilor">
 <!ENTITY aboutSupport.appBasicsShowUpdateHistory "Arată istoricul actualizărilor">
 
@@ -94,4 +96,5 @@ variant of aboutSupport.showDir.label. -->
 
 <!ENTITY aboutSupport.sandboxTitle "Sandbox">
 
-
+<!ENTITY aboutSupport.safeModeTitle "Încercați modul sigur">
+<!ENTITY aboutSupport.restartInSafeMode.label "Repornește cu suplimentele dezactivate…">
