@@ -33,7 +33,7 @@
 <!ENTITY enableHealthReport.accesskey    "s">
 <!ENTITY healthReportLearnMore.label     "Află mai multe">
 
-<!ENTITY telemetryDesc.label             "Împărtășește datele privind performanța, utilizarea, hardware-ul și personalizările navigatorului dumneavoastră cu &vendorShortName; pentru a ne ajuta să facem &brandShortName; mai bun">
+<!ENTITY telemetryDesc.label             "Împărtășiți date privind performanța, consumul, hardware-ul și personalizările navigatorului dumneavoastră cu &vendorShortName; pentru a ne ajuta să facem &brandShortName; mai bun">
 <!ENTITY enableTelemetryData.label       "Împărtășește date suplimentare (de ex. Telemetrie)">
 <!ENTITY enableTelemetryData.accesskey   "T">
 <!ENTITY telemetryLearnMore.label        "Află mai multe">
