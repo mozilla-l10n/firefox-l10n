@@ -82,11 +82,12 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY personalbarCmd.accesskey "Y">
 <!ENTITY bookmarksToolbarItem.label "Yer imi araç çubuğu öğeleri">
 
-
-
-
-
-
+<!ENTITY toolbarContextMenu.reloadAllTabs.label "Tüm sekmeleri tazele">
+<!ENTITY toolbarContextMenu.reloadAllTabs.accesskey "T">
+<!ENTITY toolbarContextMenu.bookmarkAllTabs.label "Tüm sekmeleri yer imlerine ekle…">
+<!ENTITY toolbarContextMenu.bookmarkAllTabs.accesskey "ü">
+<!ENTITY toolbarContextMenu.undoCloseTab.label "Kapatılan sekmeyi aç">
+<!ENTITY toolbarContextMenu.undoCloseTab.accesskey "K">
 
 <!ENTITY pageSourceCmd.label "Sayfa kaynağı">
 <!ENTITY pageSourceCmd.accesskey "a">
@@ -191,16 +192,19 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksButton.label          "Yer imleri">
 
 
-
+<!ENTITY bookmarksMenuButton.label          "Yer imleri">
+<!ENTITY bookmarksMenuButton.unsorted.label "Sıralanmamış yer imleri">
 <!ENTITY viewBookmarksSidebar2.label        "Yer imi kenar çubuğunu göster">
 <!ENTITY viewBookmarksToolbar.label         "Yer imi araç çubuğunu göster">
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
   -  key should not contain the letters A-F, since these are reserved
   -  shortcut keys on Linux. -->
 
+<!ENTITY bookmarksGtkCmd.commandkey "o">
+<!ENTITY bookmarksWinCmd.commandkey "i">
 
 <!ENTITY historyButton.label            "Geçmiş">
-
+<!ENTITY historySidebarCmd.commandKey   "h">
 
 <!ENTITY toolsMenu.label              "Araçlar">
 <!ENTITY toolsMenu.accesskey          "A"> 
@@ -210,8 +214,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY downloads.label              "İndirilenler">
 <!ENTITY downloads.accesskey          "d">
-
-
+<!ENTITY downloads.commandkey         "j">
+<!ENTITY downloadsUnix.commandkey     "y">
 <!ENTITY addons.label                 "Eklentiler">
 <!ENTITY addons.accesskey             "E">
 
@@ -834,4 +838,5 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- Pre-landed string for bug 1133662 -->
 <!-- Pre-landed string for bug 1123525 -->
 <!-- Pre-landed strings for bug 1123519 -->
+<!ENTITY readingList.sidebar.add.label            "Okuma listesine ekle">
 

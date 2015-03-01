@@ -33,9 +33,11 @@ This is likely the same like id.heading in crashes.dtd. -->
 <!ENTITY aboutSupport.appBasicsTitle "Uygulama temelleri">
 <!ENTITY aboutSupport.appBasicsName "Adı">
 <!ENTITY aboutSupport.appBasicsVersion "Sürüm">
-
+<!ENTITY aboutSupport.appBasicsBuildID "Yapı kimliği">
 <!-- LOCALIZATION NOTE (aboutSupport.appBasicsUpdateChannel, aboutSupport.appBasicsUpdateHistory, aboutSupport.appBasicsShowUpdateHistory):
 "Update" is a noun here, not a verb. -->
+
+<!ENTITY aboutSupport.appBasicsUpdateChannel "Güncelleme kanalı">
 <!ENTITY aboutSupport.appBasicsUpdateHistory "Güncelleme geçmişi">
 <!ENTITY aboutSupport.appBasicsShowUpdateHistory "Güncelleme geçmişini göster">
 
@@ -92,4 +94,5 @@ variant of aboutSupport.showDir.label. -->
 
 <!ENTITY aboutSupport.sandboxTitle "Kum havuzu">
 
-
+<!ENTITY aboutSupport.safeModeTitle "Güvenli kipi deneyin">
+<!ENTITY aboutSupport.restartInSafeMode.label "Eklentileri devre dışı bırakıp başlat…">

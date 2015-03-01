@@ -171,4 +171,5 @@ functionality specific to firefox. -->
 <!ENTITY sslv3Used.title "Güvenli bağlantı kurulamadı">
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc) - Do not translate
      "ssl_error_unsupported_version". -->
+<!ENTITY sslv3Used.longDesc "İleri düzey bilgi: ssl_error_unsupported_version">
 <!ENTITY sslv3Used.learnMore "Daha fazla bilgi…">
