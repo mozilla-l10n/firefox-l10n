@@ -84,4 +84,7 @@
 
 <!ENTITY accountTitle.label "Configuración de cuenta">
 <!ENTITY accountSettingsDesc.label "La siguiente cuenta es especial. No tiene identidades asociadas.">
-
+<!ENTITY storeType.label "Tipo de almacenamiento de mensajes:">
+<!ENTITY storeType.accesskey "T">
+<!ENTITY mboxStore.label "Un archivo grande (mbox)">
+<!ENTITY maildirStore.label "Un archivo por mensaje (maildir)">

@@ -3,7 +3,8 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY addressbookWindow.title "Libreta de direcciones">
-
+<!ENTITY blankResultsPaneMessage.label                  "Esta libreta de direcciones muestra contactos solamente después de una búsqueda">
+<!ENTITY localResultsOnlyMessage.label                  "Los contactos de libretas de direcciones remotas no se muestran hasta que los busque">
 <!-- File Menu -->
 <!ENTITY fileMenu.label "Archivo">
 <!ENTITY fileMenu.accesskey "A">
@@ -160,6 +161,8 @@ because displayed names don't have the comma in between. -->
 <!ENTITY searchItem.title "Búsqueda rápida">
 
 <!-- Results Pane -->
+<!ENTITY Addrbook.label                                 "Libreta de direcciones">
+<!ENTITY Addrbook.accesskey                             "b">
 <!ENTITY GeneratedName.label "Nombre">
 <!ENTITY GeneratedName.accesskey "N">
 <!ENTITY PrimaryEmail.label "Correo electrónico">

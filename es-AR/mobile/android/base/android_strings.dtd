@@ -6,8 +6,8 @@
 <!ENTITY  no_space_to_start_error "No hay suficiente espacio para que &brandShortName; pueda iniciarse.">
 <!ENTITY  error_loading_file "Ha ocurrido un error mientras se trataban de cargar los archivos necesarios para ejecutar &brandShortName;">
 
-<!ENTITY  onboard_start_message "Bienvenido &brandShortName;!">
-<!ENTITY  onboard_start_subtext "Comprometidos con vos, tu privacidad y una web abierta">
+<!ENTITY  onboard_start_message2 "Bienvenido &brandShortName;">
+<!ENTITY  onboard_start_subtext2 "Más características de privacidad y formas de personalizar que nunca.">
 <!ENTITY  onboard_start_button_account "Ingresar a &brandShortName;">
 <!ENTITY  onboard_start_button_browser "Iniciar navegación">
 
@@ -214,6 +214,9 @@ size. -->
     demonstrate the font size setting.  It is meant to be whimsical and fun. -->
 <!ENTITY pref_font_size_preview_text "El rápido zorro naranja salta sobre tus expectativas con más velocidad, más flexibilidad y más seguridad. Como no tenemos fines de lucro, somos libres de innovar en tu nombre sin ninguna presión que nos obligue. Esto genera una mejor experiencia para vos y un futuro más brillante para la web.">
 
+<!ENTITY pref_zoom_force_enabled "Siempre habilitar zoom">
+<!ENTITY pref_zoom_force_enabled_summary "Forzar que se pueda hacer zoom en cualquier página">
+
 <!ENTITY pref_use_master_password "Usar contraseña maestra">
 <!ENTITY pref_sync "Sync">
 <!ENTITY pref_sync_summary "Sincronizar pestañas, marcadores, contraseñas, historial">
@@ -269,7 +272,7 @@ size. -->
      (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
 <!ENTITY datareporting_crashreporter_title_short "Informe de fallos">
 <!ENTITY datareporting_wifi_title2 "Servicio de ubicación de &vendorShortName;">
-<!ENTITY datareporting_wifi_geolocation_summary2 "Comparte ubicación aproximada de Wi-Fi y celular de tu dispositivo con &vendorShortName; para mejorar nuestro servicio de geolocalización">
+<!ENTITY datareporting_wifi_geolocation_summary3 "¡Ayuda a &vendorShortName; a mapear el mundo! Comparte ubicación aproximada de Wi-Fi y celular de tu dispositivo para mejorar nuestro servicio de geolocalización">
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
      actual notification that an update is available. -->
@@ -562,6 +565,13 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY actionbar_menu "Menú">
 <!ENTITY actionbar_done "Listo">
 
+<!-- Voice search in the awesome bar -->
+<!ENTITY voicesearch_prompt "Hablar ahora">
+<!ENTITY voicesearch_failed_title "Búsqueda por voz de &brandShortName;">
+<!ENTITY voicesearch_failed_message "Hay un problema con la búsqueda por voz en este momento. Intentá de nuevo más tarde.">
+<!ENTITY voicesearch_failed_message_recoverable "¡Perdón! No pudimos reconocer tus palabras. Intentá de nuevo.">
+<!ENTITY voicesearch_failed_retry "Intentar de nuevo">
+
 <!-- Localization note (remote_tabs_last_synced): the variable is replaced by a
      "relative time span string" produced by Android.  This string describes the
      time the tabs were last synced relative to the current time; examples
@@ -569,6 +579,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      "Last synced" is one of the user's other Sync clients, typically Firefox on
      their desktop or laptop.-->
 <!ENTITY remote_tabs_last_synced "Última sincronización: &formatS;">
+<!-- Localization note: Used when the sync has not happend yet, showed in place of a date -->
+<!ENTITY remote_tabs_never_synced "Última sincronización: nunca">
 
 <!-- Find-In-Page strings -->
 <!-- LOCALIZATION NOTE (find_matchcase): This is meant to appear as an icon that changes color
