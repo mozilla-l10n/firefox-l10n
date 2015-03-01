@@ -21,8 +21,8 @@
 <!ENTITY contextIncomingMail.accesskey "m">
 <!ENTITY contextManual.label "Rulează manual">
 <!ENTITY contextManual.accesskey "R">
-<!ENTITY contextBeforeCls.label "Se filtrează înainte de clasificarea ca mesaj spam">
-<!ENTITY contextAfterCls.label "Se filtrează după clasificarea ca mesaj spam">
+<!ENTITY contextBeforeCls.label "Se filtrează înainte de clasificarea ca mesaj nesolicitat">
+<!ENTITY contextAfterCls.label "Se filtrează după clasificarea ca mesaj nesolicitat">
 <!ENTITY contextOutgoing.label "După trimitere">
 <!ENTITY contextOutgoing.accesskey "u">
 <!ENTITY contextArchive.label "Arhivare">

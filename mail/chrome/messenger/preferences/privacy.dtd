@@ -18,7 +18,7 @@
 
 <!ENTITY acceptThirdParty.always.label "Întotdeauna">
 <!ENTITY acceptThirdParty.never.label "Niciodată">
-
+<!ENTITY acceptThirdParty.visited.label "De la saiturile vizitate">
 <!ENTITY keepUntil.label "Păstrează-le până când:">
 <!ENTITY keepUntil.accesskey "P">
 <!ENTITY expire.label "expiră">
@@ -31,4 +31,4 @@
 
 <!ENTITY dntTrackingNotOkay.label2 "Informează saiturile web că nu vreau să fiu urmărit">
 <!ENTITY dntTrackingNotOkay.accesskey "n">
-
+<!ENTITY doNotTrackInfo.label "Află mai multe despre Nu mă urmări">
