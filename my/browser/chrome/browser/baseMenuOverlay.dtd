@@ -1,8 +1,6 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-
-<!ENTITY minimizeWindow.key       "m">
 <!ENTITY minimizeWindow.label     "ချုံ့ပါ">
 <!ENTITY bringAllToFront.label    "ရှေ့ကို အားလုံး ယူလာပါ">
 <!ENTITY zoomWindow.label         "ချုံ့/ချဲ့ပါ">
@@ -12,13 +10,12 @@
 <!ENTITY helpMenu.accesskey       "အ"> 
 <!-- LOCALIZATION NOTE some localizations of Windows (ex:french, german) use "?"
                        for the help button in the menubar but Gnome does not.   -->
-<!ENTITY helpMenuWin.label        "Help"> 
-<!ENTITY helpMenuWin.accesskey    "H">
-<!ENTITY aboutProduct.label       "&brandShortName; အကြောင်း">
-<!ENTITY aboutProduct.accesskey   "A">
-<!ENTITY productHelp.label        "&brandShortName; အကူအညီများH">
-<!ENTITY productHelp.accesskey    "H">
-<!ENTITY helpMac.commandkey       "?">
+
+
+
+
+
+
 
 <!ENTITY helpKeyboardShortcuts.label     "Keyboard Shortcuts">
 <!ENTITY helpKeyboardShortcuts.accesskey "K">
@@ -26,8 +23,7 @@
 <!ENTITY helpSafeMode.label       "Add-on များမပါပဲပြန်လည်အသုံးပြုမည်။">
 <!ENTITY helpSafeMode.accesskey   "A">
 
-<!ENTITY healthReport.label       "&brandShortName; eကျန်းမာရေးအစီရင်ခံစာ">
-<!ENTITY healthReport.accesskey   "e">
+
 
 <!ENTITY helpTroubleshootingInfo.label      "အခက်အခဲဆိုင်ရာဖြေရှင်းခြင်းနည်းလမ်းများ။">
 <!ENTITY helpTroubleshootingInfo.accesskey  "အ">
@@ -35,18 +31,16 @@
 <!ENTITY helpFeedbackPage.label      "အကြုံပြုချက်အား ပေးပို့မည်။">
 <!ENTITY helpFeedbackPage.accesskey  "အ">
 
-<!ENTITY helpShowTour.label             "&brandShortName; အလည်အပတ် o">
-<!ENTITY helpShowTour.accesskey         "o">
+
 
 <!ENTITY preferencesCmdMac.label        "ဦးစားပေးချက်များ...">
-<!ENTITY preferencesCmdMac.commandkey   ",">
+
 
 <!ENTITY servicesMenuMac.label          "၀န်ဆောင်မှုများ">
 
-<!ENTITY hideThisAppCmdMac.label        "&brandShortName; ကို ဖျောက်ထားပါ">
-<!ENTITY hideThisAppCmdMac.commandkey   "H">
+
 
 <!ENTITY hideOtherAppsCmdMac.label      "အခြားများကို ဖျောက်ထားပါ">
-<!ENTITY hideOtherAppsCmdMac.commandkey "H">
+
 
 <!ENTITY showAllAppsCmdMac.label        "အားလုံး ဖေါ်ပြပါ">

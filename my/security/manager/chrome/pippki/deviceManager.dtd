@@ -11,11 +11,7 @@
 <!ENTITY devmgr.devlist.label                   "လုံခြုံရေး အစိတ်အပိုင်းများနဲ့ ကိရိယာများ">
 <!ENTITY devmgr.details.title                   "အသေးစိတ်များ">
 <!ENTITY devmgr.details.title2                  "တန်ဖိုး">
-<!ENTITY devmgr.status.label                    "လက်ရှိအခြေအနေ">
-<!ENTITY devmgr.version.label                   "မူအဆင့်">
 
-<!ENTITY devmgr.button.changeslotname.label     "C Slotအမည်ပြောင်း">
-<!ENTITY devmgr.button.changeslotname.accesskey "C">
 <!ENTITY devmgr.button.login.label              "အဝင်n">
 <!ENTITY devmgr.button.login.accesskey          "n">
 <!ENTITY devmgr.button.logout.label             "အထွက်O">

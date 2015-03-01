@@ -150,6 +150,8 @@
 
 <!ENTITY fxaccount_create_account_header2 "မီးမြေခွေးအကောင့်တစ်ခု ပြုလုပ်ပါ">
 <!ENTITY fxaccount_create_account_password_length_restriction "အနည်းဆုံး စာလုံး 8 လုံးရှိရမည်">
+
+
 <!ENTITY fxaccount_create_account_year_of_birth "မွေးသက္ကရာဇ်">
 <!-- Localization note: &formatS1; is fxaccount_policy_linktos, &formatS2; is fxaccount_policy_linkprivacy, both hyperlinked. -->
 <!ENTITY fxaccount_create_account_policy_text2 "ဆက်လက်လုပ်ဆောင်ခြင်းဖြင့် မီးမြေခွေး cloud services ၏ &formatS1; နှင့် &formatS2; အားသဘောတူပြီး ဖြစ်သည်ဟု သတ်မှတ်သည်။">
@@ -191,7 +193,7 @@
 
 <!ENTITY fxaccount_finish_migrating_header "အဆင့်မြှင့်ခြင်း ပြီးမြောက်ရင် ဝင်ရောက်ပါ">
 <!ENTITY fxaccount_finish_migrating_button_label "အဆင့်မြှင့်ခြင်း ပြီးဆုံး">
-<!ENTITY fxaccount_finish_migrating_description "အဆင့်မြှင့်လိုက်ပါက အချက်အလက်များပါလာမည် ဖြစ်သည်။ WiFi ရှိသည့်အချိန်တွင် ပြုလုပ်ပါ။">
+
 
 <!ENTITY fxaccount_status_header2 "မီးမြေခွေးအကောင့်">
 <!ENTITY fxaccount_status_signed_in_as "ဝင်ရောက်မည်">
@@ -207,7 +209,6 @@
 <!ENTITY fxaccount_status_needs_upgrade "ဝင်ရောက်ရန် &brandShortName; အား အဆင့်မြှင့်ရန်လိုအပ်သှ်">
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled "&syncBrand.shortName.label;  အားတပ်ဆင်ပြီး ပေမယ့် အလိုအလျောက်ချိတ်ဆက်မထားပါ။ Android Settings &gt; Data Usage အောက်မှ  “Auto-sync data” အား နှိပ်ပြီး ချိတ်ပါ။">
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled_v21 "&syncBrand.shortName.label; အားတပ်ဆင်ပြီး ပေမယ့် အလိုအလျောက်ချိတ်ဆက်မထားပါ။ Android Settings &gt; Accounts အောက်မှ “Auto-sync data” အား နှိပ်ပြီး ချိတ်ပါ။">
-<!ENTITY fxaccount_status_needs_account_enabled "&syncBrand.shortName.label; အားတပ်ဆင်ပြီး အလိုအလျောက် မချိတ်ဆက်ထားပါ။ ချိတ်ဆက်ရန် ဒီကိုထိပါ။">
 <!ENTITY fxaccount_status_needs_finish_migrating "သင့်မီးမြေခွေး အကောင့်အား ဝင်ရန် ထိပါ">
 <!ENTITY fxaccount_status_bookmarks "စာအမှတ်များ">
 <!ENTITY fxaccount_status_history "မှတ်တမ်း">

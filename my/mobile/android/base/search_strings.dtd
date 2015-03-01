@@ -16,7 +16,7 @@
 <!ENTITY search_plus_content_description "ရှာဖွေဘားသို့ ထည့်ပါ">
 
 <!ENTITY search_pref_title "အပြင်အဆင်များ">
-<!ENTITY search_pref_button_content_description "အပြင်အဆင်များ">
+
 
 <!ENTITY pref_clearHistory_confirmation "မှတ်တမ်းများအား ရှင်းလင်းပြီး">
 <!ENTITY pref_clearHistory_dialogMessage "ရှာဖွေရေးမှတ်တမ်းများအားလုံးကို ဖျက်မည်။">

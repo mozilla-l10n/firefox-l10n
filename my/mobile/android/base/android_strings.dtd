@@ -6,8 +6,7 @@
 <!ENTITY  no_space_to_start_error "&brandShortName; ကို စတင်ရန်အတွက် နေရာလွတ်လုံလောက်ခြင်း မရှိပါ။">
 <!ENTITY  error_loading_file "&brandShortName; မောင်းနှင်နိုင်ရန်  လိုအပ်သောဖိုင်များ ပြင်ဆင်ချိန်တွင် ပြဿနာတစ်ခုတက်ခဲ့သည်။">
 
-<!ENTITY  onboard_start_message "&brandShortName; မှ ကြိုဆိုပါသည်။">
-<!ENTITY  onboard_start_subtext "သင်၊ သင့်၏ လုံခြုံမှု နှင့် ပွင့်လင်းသောအင်တာနက် အတွက်">
+
 <!ENTITY  onboard_start_button_account "&brandShortName; သို့ ဝင်ပါ">
 <!ENTITY  onboard_start_button_browser "စတင် လှော်လှန်ခြင်း">
 <!-- Localization note: These are used as the titles of different pages on the home screen.
@@ -75,7 +74,7 @@
 <!ENTITY switch_button_message "ပြောင်း">
 
 <!ENTITY settings "အပြင်အဆင်">
-<!ENTITY settings_title "အပြင်အဆင်">
+
 <!ENTITY pref_category_advanced "အဆင့်မြင့်">
 <!ENTITY pref_category_customize "ပြုပြင်မည်">
 <!ENTITY pref_category_customize_summary "ပင်မ, ရှာဖွေရေး, တပ်ဗ်များ, သွင်းယူ">
@@ -99,8 +98,6 @@
 <!-- Localization note (overlay_share_bookmark_btn_label) : This string is
      used in the share overlay menu to select an action. It is the verb
      "to bookmark", not the noun "a bookmark". -->
-
-<!ENTITY overlay_share_bookmark_btn_label "စာအမှတ်">
 <!ENTITY overlay_share_reading_list_btn_label "စာအမှတ်သို့ ထည့်ပါ">
 <!ENTITY overlay_share_bookmark_btn_label_already "စာအမှတ်လုပ်ထားပြီး">
 <!ENTITY overlay_share_reading_list_btn_label_already "စာအမှတ် စာရင်းထဲတွင်ရှိပြီး">
@@ -112,10 +109,9 @@
 
 <!ENTITY overlay_share_send_tab_btn_label "အခြားဖုန်းသို့ ပို့ပါ">
 <!ENTITY overlay_share_no_url "မျှဝေရာတွင် မည်သင့်လင့်ခ်မျှမပါ">
-<!ENTITY overlay_share_retry "ထပ်ကြိုးစားကြည့်ပါ">
+
 <!ENTITY overlay_share_select_device "စက် ရွေးပါ">
 
-<!ENTITY pref_category_search3 "​ရှာဖွေပါ">
 <!ENTITY pref_category_search_summary "သင်၏ ရှာဖွေမှု ဝန်ဆောင်သူများအား ပြုပြင်မည်">
 <!ENTITY pref_category_display "မြင်ကွင်း">
 <!ENTITY pref_category_display_summary "စာ၊ ခေါင်းစီးဘား ၊ မြင်ကွင်းပြည့် သုံးဆွဲခြင်း">
@@ -129,7 +125,7 @@
 <!ENTITY pref_category_add_search_providers "ရှာဖွေရေးဝန်ဆောင်မှု ထပ်ထည့်ပါ">
 <!ENTITY pref_category_search_restore_defaults "ရှာဖွေရေး အင်ဂျင် ပြန်တပ်ပြီး">
 <!ENTITY pref_search_restore_defaults "စံအတိုင်း ပြန်သတ်မှတ်ပါ">
-<!ENTITY pref_search_restore_defaults_summary "စံအတိုင်း ပြန်ထားပါ">
+
 <!-- Localization note (pref_search_hint) : "TIP" as in "hint", "clue" etc. Displayed as an
      advisory message on the customise search providers settings page explaining how to add new
      search providers.
@@ -159,16 +155,14 @@
 <!ENTITY pref_home_suggested_sites_summary "သင်စိတ်ဝင်စားနိုင်ခြေ ရှိသော ဝတ်ဆိုဒ်များသို့ အမြန်သွားလင်ခ့်များ ပင်မစာမျက်နှာတွင် ပြထားမည်။">
 <!-- Localization note: These are shown in the left sidebar on tablets -->
 
-<!ENTITY pref_header_customize "ပြုပြင်မည်">
-<!ENTITY pref_header_display "မြင်ကွင်း">
-<!ENTITY pref_header_privacy_short "ကိုယ်ရေးကိုယ်တာ">
+
 <!ENTITY pref_header_help "အကူအညီ">
-<!ENTITY pref_header_language "ဘာသာစကား">
-<!ENTITY pref_header_vendor "&vendorShortName;">
-<!ENTITY pref_header_devtools "ကျွမ်းကျင်သူသုံး ကိရိယာ">
+
+
+
 
 <!ENTITY pref_cookies_menu "ကွတ်ကီးများ">
-<!ENTITY pref_cookies_accept_all "ဖွင့်ထားတယ်">
+
 <!ENTITY pref_cookies_not_accept_foreign "3rd ပါတီ ဆော့ဝဲများပါ ဖွင့်ထားပြီး">
 <!ENTITY pref_cookies_disabled "ပိတ်ထားတယ်">
 
@@ -186,9 +180,9 @@
 <!ENTITY pref_clear_on_exit_summary2 "&brandShortName; မူလ မီနူး မှ \u0022Quit\u0022 အားရွေးထားပါက အချက်အလက်များအား အလိုအလျောက် ဖျက်သွားလိမ့်မည်">
 <!ENTITY pref_clear_on_exit_dialog_title "ရှင်းမည့် အချက်အလက်အား ရွေးပါ">
 <!ENTITY pref_plugins "ပလပ်အင်">
-<!ENTITY pref_plugins_enabled "ဖွင့်ထားတယ်">
+
 <!ENTITY pref_plugins_tap_to_play "ထိလိုက်ပြီး ဖွင့်ပါ">
-<!ENTITY pref_plugins_disabled "ပိတ်ထားတယ်">
+
 <!ENTITY pref_text_size "စာလုံး ဆိုဒ်">
 <!ENTITY pref_reflow_on_zoom4 "စာလုံး စီးဆင်းမှု">
 <!ENTITY pref_restore "စာအမှတ်များ">
@@ -205,7 +199,6 @@
 same character/combination is used to increase the preview font size. It should be a concise
 representation of the language it is used in that will help show the text in the preview will change
 size. -->
-<!ENTITY pref_font_size_adjust_char "က">
 <!-- Localization note (pref_font_size_preview_text): This paragraph is used as an example to
     demonstrate the font size setting.  It is meant to be whimsical and fun. -->
 
@@ -213,6 +206,8 @@ size. -->
 
 <!ENTITY pref_media_autoplay_enabled "အလိုအလျောက်ပြသခြင်း ခွင့်ပြုပါ">
 <!ENTITY pref_media_autoplay_enabled_summary "ဝတ်ဆိုဒ်များမှ အလိုအလျောက် မီဒီယာ သို့ ရုရှင်များအား အလိုအလျောက်ပြသခွင့်ရှိမရှိ သတ်မှတ်ပါ">
+
+
 
 <!ENTITY pref_use_master_password "ပင်မ စကားဝှက်တခု သုံးစွဲပါ။">
 <!ENTITY pref_sync "ထပ်တူပြုပြိုင်တူအသုံးပြုခြင်း">
@@ -269,22 +264,20 @@ size. -->
      (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
 <!ENTITY datareporting_crashreporter_title_short "ပျက်ဆီးချက်တင်ပြသူ">
 <!ENTITY datareporting_wifi_title2 "&vendorShortName; တည်နေရာ ဝန်ဆောင်မှု">
-<!ENTITY datareporting_wifi_geolocation_summary2 "သင့် ဖုန်း၏ Wi-Fi နှင့် ဆယ်လူလာ တည်နေရာပြစနစ်အားသုံးပြီး &vendorShortName; အား ပထဝီတည်နေရာပြဝန်ဆောင်မှု အားသုံးစေမည်">
+
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
      actual notification that an update is available. -->
 <!ENTITY pref_update_autodownload2 "အဆင့်မြှင့်တင်ခြင်းများအား အလိုအလျောက်ရယူပါ">
-<!ENTITY pref_update_autodownload_wifi "Wi-Fi ဖြင့်သာ">
+
 <!ENTITY pref_update_autodownload_never "ဘယ်တော့မှ">
 <!ENTITY pref_update_autodownload_always "အမြဲတမ်း">
 <!-- Localization note (help_menu) : This string is used in the main menu-->
 
-<!ENTITY help_menu "အကူအညီ">
-
 <!ENTITY quit "ထွက်">
 
 <!ENTITY addons "ပေါင်းထည့်ဆော့ဝဲများ">
-<!ENTITY downloads "ဆွဲချချက်များ">
+
 <!ENTITY apps "အက်ပ်များ">
 <!ENTITY char_encoding "အက္ခရာ စာဝှက်ရေးသားခြင်း">
 
@@ -300,7 +293,7 @@ size. -->
 <!ENTITY new_private_tab "တစ်ကိုယ်ရေသုံး တပ်ဗ်အသစ်">
 <!ENTITY close_all_tabs "စာအမှတ် အားလုံးကို ပိတ်ရန်">
 <!ENTITY close_private_tabs "တစ်ကိုယ်ရေသုံးတပ်ဗ်များအား ပိတ်ပါ">
-<!ENTITY tabs_normal "တပ်ဗ်များ">
+
 <!ENTITY tabs_private "တစ်ကိုယ်ရေသုံး">
 <!ENTITY tabs_synced "ချိတ်ဆက်ထားသော">
 <!ENTITY set_image_fail "ပုံအား မထားလိုက်နိုင်ပါ">
@@ -308,31 +301,29 @@ size. -->
 <!ENTITY set_image_chooser_title "ပုံအား သုံးမည်">
 <!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
-
-<!ENTITY find_text "ဒီစာမျက်နှာတွင် ရှာပါ">
 <!ENTITY find_prev "အရင်နေရာ">
 <!ENTITY find_next "နောက်တနေရာ">
-<!ENTITY find_close "ပိတ်ပါ">
+
 <!-- Localization note (media_sending_to, media_play, media_pause, media_stop) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
 
 <!ENTITY media_sending_to "ဖုန်းသို့ ပို့နေသှ်">
 <!ENTITY media_play "ဖွင့်ပါ။">
 <!ENTITY media_pause "ခေတ္တရပ်တန့်တယ်">
-<!ENTITY media_stop "ရပ်ပါ">
+
 
 <!ENTITY contextmenu_open_new_tab "တပ်ဗ်အသစ်တစ်ခုဖွင့်ပါ">
 <!ENTITY contextmenu_open_private_tab "တစ်ကိုယ်ရေသုံးတပ်ဗ်ဖွင့်">
-<!ENTITY contextmenu_remove "ဖယ်ရှားပါ ">
+
 <!ENTITY contextmenu_add_to_launcher "ပင်မစာမျက်နှာသို့ ထည့်ပါ">
-<!ENTITY contextmenu_share "မျှဝေ">
+
 <!ENTITY contextmenu_pasteandgo "ကူးထားပြီးနောက်သွားမည်။">
 <!ENTITY contextmenu_paste "ပွားပါ">
 <!ENTITY contextmenu_copyurl "လိပ်စာအားကူးယူပါ">
 <!ENTITY contextmenu_edit_bookmark "တည်းဖြတ်">
 <!ENTITY contextmenu_subscribe "ဒီစာမျက်နှာမှာ စာရင်းသွင်းပါ">
 <!ENTITY contextmenu_site_settings "ဝတ်ဆိုဒ်ပုံစံအထိုင်အားပြုပြင်">
-<!ENTITY contextmenu_top_sites_edit "တည်းဖြတ်">
+
 <!ENTITY contextmenu_top_sites_pin "ဆိုဒ်အား တွဲပါ">
 <!ENTITY contextmenu_top_sites_unpin "ဆိုဒ်အားတွဲဖြုတ်ပါ">
 <!ENTITY contextmenu_add_search_engine "ရှာဖွေရေး ဝန်ဆောင်မှု ထည့်သွင်းပါ">
@@ -359,7 +350,7 @@ size. -->
      dialog that appears after selecting the "Edit Site Settings" context menu item. -->
 
 <!ENTITY site_settings_title3       "ဆိုက်အပြင်အဆင်များ">
-<!ENTITY site_settings_cancel       "ပယ်ဖျက်">
+
 <!ENTITY site_settings_clear        "ရှင်းလင်းပါ">
 <!ENTITY site_settings_no_settings  "ရှင်းလင်းရန် အပြင်မအင် မရှိသေးပါ">
 
@@ -382,12 +373,12 @@ size. -->
 <!ENTITY masterpassword_confirm "ပတ်စ်ဝတ်အားအတည်ပြုပါ">
 
 <!ENTITY button_ok "OK">
-<!ENTITY button_cancel "ပယ်​ဖျက်ပါ">
+
 <!ENTITY button_yes "ကောင်းပြီ">
 <!ENTITY button_no "မလုပ်ဘူး">
 <!ENTITY button_clear_data "အချက်အလက်အားရှင်းပါ">
-<!ENTITY button_set "သတ်မှတ်ပါ">
-<!ENTITY button_clear "ရှင်းလင်းပါ">
+
+
 
 <!ENTITY home_top_sites_title "ထိပ်တန်းဝပ်ဆိုက်များ">
 <!-- Localization note (home_top_sites_add): This string is used as placeholder
@@ -397,7 +388,7 @@ size. -->
      with the page title defined in aboutHome.dtd -->
 
 <!ENTITY home_title "&brandShortName; ပင်မ">
-<!ENTITY home_history_title "မှတ်တမ်း">
+
 <!ENTITY home_clear_history_button "ဘယောက်ဆာ မှတ်တမ်းအားရှင်းပါ">
 <!ENTITY home_clear_history_confirm "သင့် မှတ်တမ်းအား ဖျက်ပစ်မည်မှာ သေချာပြီလား?">
 <!ENTITY home_bookmarks_empty "သင်မှတ်ထားသော လင်ခ့်များ ဒီတွင်စုထားမည်">
@@ -459,7 +450,6 @@ size. -->
 
 <!ENTITY pin_site_dialog_hint "ရှာဖွေရေးကီးစာလုံး ထည့်ပါ">
 
-<!ENTITY filepicker_title "ဖိုင် ရွေးချယ်ပါ">
 <!ENTITY filepicker_audio_title "အသံသွင်း သို့ အသံတစ်သံအားရွေးပါ">
 <!ENTITY filepicker_image_title "ဓာတ်ပုံ ရိုက်သို့  တစ်ပုံရွေးပါ">
 <!ENTITY filepicker_video_title "ဗီဒီယိုရိုက် သို့ ဗီဒီယိုတစ်ခုရွေးပါ">
@@ -530,34 +520,32 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY updater_downloading_select2 "မွမ်းမံချက်အား ဒေါင်းလုဒ်ရယူ​ပြီး ချက်ခြင်း အသုံးချရန် ထိပါ">
 <!ENTITY updater_downloading_retry2 "ပြန်လည်ကြိုးစားရန် ထိပါ">
 
-<!ENTITY updater_apply_title2 "&brandShortName; အတွက် မွမ်းမံချက်ရှိနေပြီ">
 <!ENTITY updater_apply_select2 "မွမ်းမံရန် ထိပါ">
 <!-- Guest mode -->
 
 <!ENTITY new_guest_session "ဧည့်သည်သုံးရန် ဖွင့်">
 <!ENTITY exit_guest_session "ဧည့်သည်သုံးထားသည်ကို ပိတ်မည်">
 <!ENTITY guest_session_dialog_continue "ဆက်လုပ်ပါ">
-<!ENTITY guest_session_dialog_cancel "ပယ်​ဖျက်ပါ">
+
 <!ENTITY new_guest_session_title "&brandShortName; ပြန်စ တော့မည်ဖြစ်သှ်">
 <!ENTITY new_guest_session_text "၎င်းအားသုံးနေသော သူသည် သင်၏ တစ်ကိုယ်ရေသုံး အချက်အလက်များ ( စကားဝှက်များ၊ မှတ်တမ်း သို့ စာအမှတ်များ) အား မြင်ရမည်မဟုတ်ပါ။\n\nWhen သင့် ဧည့်သည်သုံးပြီးသွားပါက ၎င်းတို့၏ အချက်အလက်များ အလိုအလျောက် ဖျက်ပြီးသားဖြစ်မည်။">
 <!ENTITY guest_browsing_notification_title "ဧည့်သည်သုံး ပုံစံအားဖွင့်ပေးပါ">
 <!ENTITY guest_browsing_notification_text "ထွက်ရန်ထိပါ">
 
-<!ENTITY exit_guest_session_title "&brandShortName; ပြန်စတော့မည်ဖြစ်သှ်">
 <!ENTITY exit_guest_session_text "ယခုသုံးထားသော ဘယောက်ဆာအချက်အလက်များဖျက်ပြီး">
 <!-- Miscellaneous -->
 <!-- LOCALIZATION NOTE (ellipsis): This text is appended to a piece of text that does not fit in the
      designated space. Use the unicode ellipsis char, \u2026, or use "..." if \u2026 doesn't suit
      traditions in your locale. -->
 
-<!ENTITY ellipsis "...">
-
-<!ENTITY colon ":">
 <!-- These are only used for accessibility for the done and overflow-menu buttons in the actionbar.
      They are never shown to users -->
-
-<!ENTITY actionbar_menu "စာရင်း">
 <!ENTITY actionbar_done "ပြီးသွားပြီ">
+<!-- Voice search in the awesome bar -->
+
+
+
+
 <!-- Localization note (remote_tabs_last_synced): the variable is replaced by a
      "relative time span string" produced by Android.  This string describes the
      time the tabs were last synced relative to the current time; examples
@@ -566,6 +554,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      their desktop or laptop.-->
 
 <!ENTITY remote_tabs_last_synced "နောက်ဆုံးချိတ်ခဲ့ချိန်- &formatS;">
+<!-- Localization note: Used when the sync has not happend yet, showed in place of a date -->
 <!-- Find-In-Page strings -->
 <!-- LOCALIZATION NOTE (find_matchcase): This is meant to appear as an icon that changes color
      if match-case is activated. i.e. No more than two letters, one uppercase, one lowercase. -->

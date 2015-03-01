@@ -10,9 +10,6 @@
 <!ENTITY certmgr.tab.ca                       "အာဏာပိုင်များ">
 <!ENTITY certmgr.tab.orphan2                  "အခြားအရာများ">
 
-<!ENTITY certmgr.ca.builtins                  "ထည့်သွင်းထားတဲ့ CAs">
-<!ENTITY certmgr.ca.mycas                     "သင် စီမံထားတဲ့ CAs">
-
 <!ENTITY certmgr.mine                         "သင်ဖေါ်ထုတ်ထားတဲ့ ဒီအဖွဲ့အစည်းများဆီမှ လက်မှတ်များကို သင်ရရှိတယ် -">
 <!ENTITY certmgr.others                       "ဒီလူများကို ဖေါ်ထုတ်ထားတဲ့ ဖိုင်ဆီက လက်မှတ်များကို သင်ရရှိတယ် -">
 <!ENTITY certmgr.websites2                    "ဒီဆာဗားများကို ဖေါ်ထုတ်ထားတဲ့ ဖိုင်ဆီက လက်မှတ်များကို သင်ရရှိတယ် -">
@@ -37,7 +34,6 @@
 
 <!ENTITY certmgr.certdetail.sha1fingerprint   "SHA1 လက်ဗွေ">
 
-<!ENTITY certmgr.editcert.title               "လုံခြုံရေး လက်မှတ် အပြင်အဆင်များကို တည်းဖြတ်ပါ">
 <!ENTITY certmgr.editcacert.title             "CA လက်မှတ် စိတ်ချမှု အပြင်အဆင်များကို တည်းဖြတ်ပါ">
 <!ENTITY certmgr.editcert.edittrust           "စိတ်ချမှု အပြင်အဆင်များကို တည်းဖြတ်ပါ -">
 <!ENTITY certmgr.editcert.trustssl            "ယခုအသိအမှတ်ပြုလက်မှတ်သည် ဝတ်ဆိုဒ်များကို အတည်ပြုနိုင်သှ်">
@@ -49,11 +45,6 @@
 <!ENTITY certmgr.editemailcert.donttrust      "ဒီလက်မှတ်ရဲ့ စစ်မှန်မှုကို စိတ်မချပါနဲ့။">
 
 <!ENTITY certmgr.deletecert.title             "လက်မှတ်ကို ပယ်ဖျက်ပါ">
-<!ENTITY certmgr.deletecert.beforename        "ဒီလက်မှတ်ကို ပယ်ဖျက်ဖို့ သင်တောင်းဆိုထားတယ် -">
-<!ENTITY certmgr.deletecert.aftername         "ဒီလက်မှတ်ကို သင် ပယ်ဖျက်ဖို့ သေချာသလား။">
-<!ENTITY certmgr.deleteusercert.title         "သင့်ရဲ့ လက်မှတ်ကို ပယ်ဖျက်ပါ">
-<!ENTITY certmgr.deleteusercert.beforename    "လက်မှတ် ပယ်ဖျက်ဖို့ သင်တောင်း​ဆိုထားတယ်။">
-<!ENTITY certmgr.deleteusercert.aftername     "ဒီလက်မှတ်ကို သင် တကြိမ် ပယ်ဖျက်တာနဲ့၊ ၄င်းနဲ့ စာဝှက်ထားတဲ့ စာကို သင် ဖတ်နိုင်မှာ မဟုတ်ဘူး။">
 
 <!ENTITY certmgr.certname                     "လက်မှတ်အမည်">
 <!ENTITY certmgr.certserver                   "ဆာဗာ">
@@ -72,8 +63,6 @@
 <!ENTITY certmgr.edit3.accesskey              "E">
 <!ENTITY certmgr.editca.label                 "CA စိတ်ချမှုကို တည်းဖြတ်ပါ">
 <!ENTITY certmgr.editca.accesskey             "C">
-<!ENTITY certmgr.add.label                    "Aပေါင်း">
-<!ENTITY certmgr.add.accesskey                "A">
 <!ENTITY certmgr.export.label                 "Export...">
 <!ENTITY certmgr.export.accesskey             "x">
 <!ENTITY certmgr.delete2.label                "Delete...">
@@ -90,8 +79,8 @@
 <!ENTITY certmgr.details.accesskey            "F">
 <!ENTITY certmgr.fields.label                 "Field Value">
 <!ENTITY certmgr.fields.accesskey             "V">
-<!ENTITY certmgr.hierarchy.label              "Certificate Hierarchy">
-<!ENTITY certmgr.hierarchy.accesskey          "C">
+
+
 <!ENTITY certmgr.addException.label           "xချွင်းချက်ထည့်...">
 <!ENTITY certmgr.addException.accesskey       "x">
 

@@ -9,7 +9,6 @@
 <!ENTITY setPassword.newPassword.label "စကားဝှက် အသစ် -">
 <!ENTITY setPassword.reenterPassword.label "စကားဝှက် အသစ် (ပြန်ရေးပါ) -">
 <!ENTITY setPassword.meter.label "စကားဝှက် အရည်အသွေးပြ မီတာ">
-<!ENTITY setPassword.meter.loading "ဖွင့်နေတယ်">
 <!-- Values for resetpassword.xul -->
 
 <!ENTITY resetPasswordButtonLabel "ပြန်ချိန်တယ်">
@@ -20,19 +19,6 @@
 <!ENTITY getPassword.title  "ပင်မ စကားဝှက်ကို ရေးထည့်ပါ">
 <!ENTITY getPassword.tokenName2.label "လုံခြုံရေး ကိရိယာ -">
 <!ENTITY getPassword.password.label "စကားဝှက် -">
-<!-- These should be common -->
-
-<!ENTITY piperror.title "အမှား">
-<!ENTITY pipalert.title "အမှား - ပြန်ဖေါ်လို့ မရဘူး">
-<!-- Prefs panel strings -->
-
-<!ENTITY pref.security.general.lHeader "လုံခြုံရေး">
-<!ENTITY pref.security.general.rHeader "အထွေထွေ လုံ​ခြုံရေးအတွက် အပြင်အဆင်များ">
-<!ENTITY pref.security.general.header "အထွေထွေ လုံ​ခြုံရေးအတွက် အပြင်အဆင်များ">
-<!ENTITY pref.security.general.level.title "လုံ​ခြုံရေး အဆင့်">
-<!ENTITY pref.security.general.paranoid.label "ပါရာနှတ် လုံခြုံရေး အပြင်အဆင်များကို သုံးစွဲပါ">
-<!ENTITY pref.security.general.certificates.title "အသိအမှတ်ပြုလက်မှတ်များ">
-<!ENTITY pref.security.general.manageCert.label "လက်မှတ်များကို စီမံပါ">
 <!-- Downloading a cert -->
 
 <!ENTITY downloadCert.title "လက်မှတ် ဆွဲချနေတယ်">
@@ -42,9 +28,7 @@
 <!ENTITY downloadCert.trustObjSign "ဆော့ဗ်ဝဲ တည်ဆောက်သူများကို ဖေါ်ထုတ်ဖို့ ဒီ CA ကို စိတ်ချပါ။">
 <!ENTITY downloadCert.message3 "(ဖြစ်နိုင်ရင်) CA ကို ရည်ရွယ်ချက် တစုံတခုအတွက် စိတ်မချခင်၊ ၄င်းရဲ့ လက်မှတ်များနဲ့ ၄င်းရဲ့ မူဝါဒနဲ့ လုပ်ငန်းစဉ်များကို သင် စစ်ဆေးရမယ်။">
 <!ENTITY downloadCert.viewCert.label "ရှုမြင်ချက်">
-<!ENTITY downloadCert.viewPolicy.label "မူဝါဒ">
 <!ENTITY downloadCert.viewCert.text "CA လက်မှတ်ကို စစ်ဆေးပါ">
-<!ENTITY downloadCert.viewPolicy.text "CA မူဝါဒများနဲ့ လုပ်ငန်းစဉ်များကို စစ်ဆေးပါ">
 <!-- Strings for the SSL client auth ask dialog -->
 
 <!ENTITY clientAuthAsk.title "သုံးစွဲသူ ခွဲခြား ရွေးထုတ်မှု တောင်းဆိုချက်">
@@ -62,9 +46,6 @@
 <!ENTITY pkcs12.setpassword.label1 "လက်မှတ် သိမ်းဆည်းတဲ့ စကားဝှက် -">
 <!ENTITY pkcs12.setpassword.label2 "လက်မှတ် သိမ်းဆည်းတဲ့ စကားဝှက် (ပြန်ရေးပါ) -">
 <!ENTITY pkcs12.setpassword.reminder "Important: If you forget your certificate backup password, you will not be able to restore this backup later.  Please record it in a safe location.">
-
-<!ENTITY pkcs12.getpassword.title  "စကားဝှက် ရေးထည့် အညွှန်း">
-<!ENTITY pkcs12.getpassword.message "ဒီလက်မှတ် သိမ်းဆည်းချက်ကို စာဝှက်ဖို့ သုံးစွဲတဲ့ စကားဝှက်ကို ရေးထည့်ပါ။">
 
 <!ENTITY chooseToken.title  "အမှတ်အသား အညွှန်းကို ရွေးချယ်ပါ">
 <!ENTITY chooseToken.message1 "အမှတ်အသား တခုကို ရွေးချယ်ပါ။">

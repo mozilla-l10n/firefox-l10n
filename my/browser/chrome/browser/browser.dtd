@@ -56,21 +56,21 @@ can reach it easily. -->
 
 <!ENTITY tabCmd.label "New Tab">
 <!ENTITY tabCmd.accesskey "T">
-<!ENTITY tabCmd.commandkey "t">
+
 <!-- LOCALIZATION NOTE (openLocationCmd.label): "Open Location" is only
 displayed on OS X, and only on windows that aren't main browser windows, or
 when there are no windows but Firefox is still running. -->
 <!ENTITY openLocationCmd.label "တည်နေရာဖွင့်...">
 <!ENTITY openFileCmd.label "Oဖိုင်ဖွင့်...">
 <!ENTITY openFileCmd.accesskey "O">
-<!ENTITY openFileCmd.commandkey "၀">
+
 <!ENTITY printSetupCmd.label "uစာမျက်နှာပုံစံ...">
 <!ENTITY printSetupCmd.accesskey "u">
 <!ENTITY printPreviewCmd.label "vပရင့်အစမ်းမြင်ကွင်း">
 <!ENTITY printPreviewCmd.accesskey "v">
 <!ENTITY printCmd.label "Pပုံနှိပ်...">
 <!ENTITY printCmd.accesskey "P">
-<!ENTITY printCmd.commandkey "p">
+
 
 <!ENTITY goOfflineCmd.label "kချိတ်ဆက်မဲ့ သုံး">
 <!ENTITY goOfflineCmd.accesskey "k">
@@ -82,19 +82,18 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY personalbarCmd.accesskey "B">
 <!ENTITY bookmarksToolbarItem.label "မှတ်သားချက်များ ခလုတ်တန်း အချက်များ">
 
-<!ENTITY toolbarContextMenu.reloadAllTabs.label "(A) စာမျက်နှာအားလုံးအား ပြန်ဖွင့်မည်။">
-<!ENTITY toolbarContextMenu.reloadAllTabs.accesskey "A">
-<!ENTITY toolbarContextMenu.bookmarkAllTabs.label "(T) တပ်ဗ်အားလုံးအား စာမှတ်မည်...">
-<!ENTITY toolbarContextMenu.bookmarkAllTabs.accesskey "T">
-<!ENTITY toolbarContextMenu.undoCloseTab.label "(U) ပိတ်ထားသှ် တပ်ဗ်ပြန်ဖွင့်">
-<!ENTITY toolbarContextMenu.undoCloseTab.accesskey "U">
+
+
+
+
+
 
 <!ENTITY pageSourceCmd.label "Page Source">
 <!ENTITY pageSourceCmd.accesskey "o">
-<!ENTITY pageSourceCmd.commandkey "u">
+
 <!ENTITY pageInfoCmd.label "Page Info">
 <!ENTITY pageInfoCmd.accesskey "I">
-<!ENTITY pageInfoCmd.commandkey "i">
+
 <!ENTITY mirrorTabCmd.label "M မှန်တပ်ဗ်">
 <!ENTITY mirrorTabCmd.accesskey "M">
 <!-- LOCALIZATION NOTE (enterFullScreenCmd.label, exitFullScreenCmd.label):
@@ -105,7 +104,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY exitFullScreenCmd.accesskey "F">
 <!ENTITY fullScreenCmd.label "ဖန်သားပြင်အပြည့်">
 <!ENTITY fullScreenCmd.accesskey "F">
-<!ENTITY fullScreenCmd.macCommandKey "f ">
+
 <!ENTITY showAllTabsCmd.label "ဖွင့်လက်စ စာမျက်နှာအားလုံးကိုပြပါ။">
 <!ENTITY showAllTabsCmd.accesskey "ဖ">
 
@@ -140,14 +139,14 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksMenu.accesskey "B">
 <!ENTITY bookmarkThisPageCmd.label "ဒီစာမျက်နှာကို မှတ်သားပါ">
 <!ENTITY editThisBookmarkCmd.label "ဤစာမျက်နှာအမှတ်အားပြင်မည်။">
-<!ENTITY bookmarkThisPageCmd.commandkey "d">
-<!ENTITY markPageCmd.commandkey "I">
+
+
 <!-- LOCALIZATION NOTE (findShareServices.label):
   -  Use the unicode ellipsis char, \u2026,
   -  or use "..." if \u2026 doesn't suit traditions in your locale. -->
 <!ENTITY findShareServices.label "Share ဝန်ဆောင်မှုများကို ရှာရန်">
 <!ENTITY sharePageCmd.label "sယခုစာမျက်နှာအားမျှပါ">
-<!ENTITY sharePageCmd.commandkey "S">
+
 <!ENTITY sharePageCmd.accesskey "s">
 <!-- LOCALIZATION NOTE (shareLink.accesskey): must be different than the following share access keys -->
 <!ENTITY shareLink.label "s ယခုလင်ခ့်ကို မျှဝေပါ">
@@ -175,7 +174,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY reloadCmd.label              "ပြန်ဖွင့်">
 <!ENTITY reloadButton.tooltip         "လက်ရှိ စာမျက်နှာကို ပြန်ဖွင့်‌ပါ">
 <!ENTITY stopCmd.label                "ရပ်">
-<!ENTITY stopCmd.macCommandKey        ".">
+
 <!ENTITY stopButton.tooltip           "ဖွင့်နေတဲ့ ဒီစာမျက်နှာကို ရပ်တန့်ပါ">
 <!ENTITY goEndCap.tooltip             "တည်နေရာ တန်းလျာထဲက လိပ်စာဆီ သွားပါ">
 <!ENTITY printButton.label            "ပုံနှိုပ်ပါ">
@@ -190,21 +189,18 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY tabGroupsButton.label        "Strolladoù ivinelloù">
 
 <!ENTITY bookmarksButton.label          "မှတ်သားချက်များ">
-<!ENTITY bookmarksCmd.commandkey "b">
 
-<!ENTITY bookmarksMenuButton.label          "မှတ်သားချက်များ">
-<!ENTITY bookmarksMenuButton.unsorted.label "မျိုးတူမစုထားတဲ့ မှတ်သားချက်များ">
+
+
 <!ENTITY viewBookmarksSidebar2.label        "ဝတ်ဆိုက်မှတ်သားဘားကိုကြည့်မည်">
 <!ENTITY viewBookmarksToolbar.label         "ဝတ်ဆိုက်မှတ်သားဘားကိုကြည့်မယ်။">
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
   -  key should not contain the letters A-F, since these are reserved
   -  shortcut keys on Linux. -->
 
-<!ENTITY bookmarksGtkCmd.commandkey "၀">
-<!ENTITY bookmarksWinCmd.commandkey "i">
 
 <!ENTITY historyButton.label            "မှတ်တမ်း">
-<!ENTITY historySidebarCmd.commandKey   "h">
+
 
 <!ENTITY toolsMenu.label              "Tကိရိယာများ">
 <!ENTITY toolsMenu.accesskey          "T"> 
@@ -214,11 +210,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY downloads.label              "Dဒေါင်းလုဒ်ရယူမှူများ">
 <!ENTITY downloads.accesskey          "D">
-<!ENTITY downloads.commandkey         "j">
-<!ENTITY downloadsUnix.commandkey     "y">
+
+
 <!ENTITY addons.label                 "Aအတ်အွန်များ">
 <!ENTITY addons.accesskey             "A">
-<!ENTITY addons.commandkey            "A">
+
 <!ENTITY webapps.label                "pအက်ပ်များ">
 <!ENTITY webapps.accesskey            "p">
 
@@ -237,15 +233,15 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY remoteWebConsoleCmd.label    "Remote Web Console">
 
 <!ENTITY browserConsoleCmd.label      "(B)ဘယောက်ဆာ ကွန်ဆိုလ်">
-<!ENTITY browserConsoleCmd.commandkey "j">
+
 <!ENTITY browserConsoleCmd.accesskey  "B">
 
 <!ENTITY inspectContextMenu.label     "အသေးစိတ်ခွဲခြမ်းစိတ်ဖြာမည်။">
-<!ENTITY inspectContextMenu.accesskey "Q">
+
 
 <!ENTITY responsiveDesignTool.label   "Responsive Design View">
 <!ENTITY responsiveDesignTool.accesskey "R">
-<!ENTITY responsiveDesignTool.commandkey "M">
+
 
 <!ENTITY eyedropper.label   "(y)မျက်ကြည့်">
 <!ENTITY eyedropper.accesskey "y">
@@ -286,7 +282,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY devToolbar.keytext                "F2">
 <!ENTITY devToolboxMenuItem.label          "Toggle Tools">
 <!ENTITY devToolboxMenuItem.accesskey      "T">
-<!ENTITY devToolboxMenuItem.keytext        "I">
+
 
 <!ENTITY devToolbarToolsButton.tooltip     "Toggle developer tools">
 <!ENTITY devToolbarOtherToolsButton.label  "More Tools">
@@ -297,7 +293,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fileMenu.label         "(F)ဖိုင်"> 
 <!ENTITY fileMenu.accesskey       "F">
 <!ENTITY newNavigatorCmd.label        "(N)ဝင်းဒိုးအသစ်">
-<!ENTITY newNavigatorCmd.key        "N">
+
 <!ENTITY newNavigatorCmd.accesskey      "N">
 <!ENTITY newPrivateWindow.label     "New Private Window">
 <!ENTITY newPrivateWindow.accesskey "W">
@@ -305,25 +301,25 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY editMenu.label         "(E)တည်းဖြတ်"> 
 <!ENTITY editMenu.accesskey       "E"> 
 <!ENTITY undoCmd.label            "(U)ပြန်ဖြည်ပါ">  
-<!ENTITY undoCmd.key            "Z">  
+
 <!ENTITY undoCmd.accesskey          "U"> 
 <!ENTITY redoCmd.label            "Rပြန်လုပ်">  
-<!ENTITY redoCmd.key            "Y">  
+
 <!ENTITY redoCmd.accesskey          "R"> 
 <!ENTITY cutCmd.label           "tဖြတ်ယူ">  
-<!ENTITY cutCmd.key             "X">  
+
 <!ENTITY cutCmd.accesskey         "t"> 
 <!ENTITY copyCmd.label            "Cကူး">  
-<!ENTITY copyCmd.key            "C">  
+
 <!ENTITY copyCmd.accesskey          "C"> 
 <!ENTITY pasteCmd.label           "Pပွား">  
-<!ENTITY pasteCmd.key           "V">  
+
 <!ENTITY pasteCmd.accesskey         "P"> 
 <!ENTITY deleteCmd.label          "Dဖျက်">  
-<!ENTITY deleteCmd.key            "D">  
+
 <!ENTITY deleteCmd.accesskey        "D"> 
 <!ENTITY selectAllCmd.label         "Aအားလုံးရွေး">  
-<!ENTITY selectAllCmd.key         "A">  
+
 <!ENTITY selectAllCmd.accesskey       "A"> 
 <!ENTITY preferencesCmd2.label       "Oနည်းလမ်း(များ)">
 <!ENTITY preferencesCmd2.accesskey     "O">
@@ -332,7 +328,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY clearRecentHistory.label               "မှတ်တမ်းရှင်းမယ် ...">
 
-<!ENTITY privateBrowsingCmd.commandkey          "P">
 
 <!ENTITY viewMenu.label         "Vရှူမြင်ချက်"> 
 <!ENTITY viewMenu.accesskey       "V"> 
@@ -353,16 +348,16 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY historyRestoreLastSession.label "သုံးခဲ့တဲ့အတိုင်းပြန်ဖွင့်မယ်">
 
 <!ENTITY showAllHistoryCmd2.label "မှတ်တမ်း အားလုံး ဖေါ်ပြပါ">
-<!ENTITY showAllHistoryCmd.commandkey "H">
+
 
 <!ENTITY appMenuCustomize.label "ပြုပြင်သုံးစွဲမည်။">
 <!ENTITY appMenuCustomize.tooltip "မီနူး နှင့် တူးလ်ဘားများအား ပြုပြင်ပါ">
 <!ENTITY appMenuCustomizeExit.label "ပြုပြင်ခြင်းမှထွက်">
 <!ENTITY appMenuCustomizeExit.tooltip "ပြုပြင်ခြင်းအားအဆုံးသတ်">
-<!ENTITY appMenuHistory.label "မှတ်တမ်း">
-<!ENTITY appMenuHistory.showAll.label "မှတ်တမ်း အားလုံး ဖေါ်ပြပါ">
-<!ENTITY appMenuHistory.clearRecent.label "လတ်တလော မှတ်မ်များအား ရှင်း...">
-<!ENTITY appMenuHistory.restoreSession.label "အရင်အသုံးပြုခဲ့သောဆိုက်များအားပြန်ဖွင့်ပြီးသုံးမည်။">
+
+
+
+
 <!ENTITY appMenuHistory.viewSidebar.label "အသုံးပြုမှတ်တမ်း ဘေးဘားအားသုံးမည်">
 <!ENTITY appMenuHelp.tooltip "အကူအညီမီနူးအားဖွင့်">
 
@@ -386,9 +381,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY customizeMenu.addMoreItems.label "A နောက်ထပ် ထည့်မည်">
 <!ENTITY customizeMenu.addMoreItems.accesskey "A">
 
-<!ENTITY openCmd.commandkey           "l ">
 <!ENTITY urlbar.placeholder2          "ရှာဖွေ (သို့) လိပ်စာ ထည့်သွင်း">
-<!ENTITY urlbar.accesskey             "d">
+
 <!ENTITY urlbar.switchToTab.label     "ထိုစာမျက်နှာသို့ပြောင်းကြည့်မည်။">
 <!-- 
   Comment duplicated from browser-sets.inc:
@@ -411,9 +405,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
  -->
 
-<!ENTITY searchFocus.commandkey       "k">
-<!ENTITY searchFocus.commandkey2      "e">
-<!ENTITY searchFocusUnix.commandkey   "j">
+
 <!-- LOCALIZATION NOTE (searchFor.label, searchWith.label):
      These two strings are used to build the header above the list of one-click
      search providers:  "Search for <used typed keywords> with:" -->
@@ -422,9 +414,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      The wording of this string should be as close as possible to
      searchFor.label and searchWith.label. This string will be used instead of
      them when the user has not typed any keyword. -->
+<!-- LOCALIZATION NOTE (changeSearchSettings.button):
+     This string won't wrap, so if the translated string is longer,
+     consider translating it as if it said only "Search Settings". -->
 
-
-<!ENTITY tabView.commandkey           "e">
 
 <!ENTITY openLinkCmdInTab.label       "အချိတ်အဆက်ကို Tစာအမှတ်သစ်မှာ ဖွင့်ပါ">
 <!ENTITY openLinkCmdInTab.accesskey   "T">
@@ -440,14 +433,13 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openFrameCmd.accesskey       "W">
 <!ENTITY showOnlyThisFrameCmd.label     "Sဒီဘောင်ကိုပဲ ပြပါ">
 <!ENTITY showOnlyThisFrameCmd.accesskey "S">
-<!ENTITY reloadCmd.commandkey         "r">
+
 <!ENTITY reloadFrameCmd.label         "Rဘောင်ကို ပြန်ဖွင်ပါ">
 <!ENTITY reloadFrameCmd.accesskey     "R">
 <!ENTITY viewPartialSourceForSelectionCmd.label "ရွေးထားချက် အရင်းအမြစ်ကို ရှုမြင်ပါ">
 <!ENTITY viewPartialSourceForMathMLCmd.label    "MathML အရင်းအမြစ်ကို ရှုမြင်ပါ">
 <!-- LOCALIZATION NOTE (viewPartialSourceCmd.accesskey): This accesskey is used for both 
          viewPartialSourceForSelectionCmd.label and viewPartialSourceForMathMLCmd.label -->
-<!ENTITY viewPartialSourceCmd.accesskey "e">
 <!ENTITY viewPageSourceCmd.label      "View Page Source">
 <!ENTITY viewPageSourceCmd.accesskey  "V">
 <!ENTITY viewFrameSourceCmd.label     "View Frame Source">
@@ -470,7 +462,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewBGImageCmd.accesskey     "w">
 <!ENTITY setDesktopBackgroundCmd.label      "(S)စားပွဲတင် နောက်ခံအဖြစ် သတ်မှတ်ပါ...">
 <!ENTITY setDesktopBackgroundCmd.accesskey  "S">
-<!ENTITY bookmarkPageCmd2.label       "ဒီစာမျက်နှာကို မှတ်သားပါ">
+
 <!ENTITY bookmarkThisLinkCmd.label      "(L)ဒီအချိတ်အဆက်ကို မှတ်သားပါ ...">
 <!ENTITY bookmarkThisLinkCmd.accesskey  "L">
 <!ENTITY bookmarkThisFrameCmd.label      "(m)ဒီဘောင်ကို မှတ်သားပါ ...">
@@ -480,8 +472,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY savePageCmd.label            "Save Page As…">
 <!ENTITY savePageCmd.accesskey        "A">
 <!-- alternate for content area context menu -->
-<!ENTITY savePageCmd.accesskey2       "P">
-<!ENTITY savePageCmd.commandkey       "s">
+
 <!ENTITY saveFrameCmd.label           "Save Frame As…">
 <!ENTITY saveFrameCmd.accesskey       "F">
 <!ENTITY printFrameCmd.label          "Print Frame…">
@@ -556,8 +547,8 @@ items are mutually exclusive. -->
 <!ENTITY mediaShowControls.accesskey "C">
 <!ENTITY mediaHideControls.label     "ထိန်းချုပ်ရာများကို ဖျောက်ပါ">
 <!ENTITY mediaHideControls.accesskey "C">
-<!ENTITY videoFullScreen.label       "မျက်နှာပြင် အပြည့်">
-<!ENTITY videoFullScreen.accesskey   "F">
+
+
 <!ENTITY videoSaveImage.label        "မှန်သားပြင်ရိုက်ချက်အားဤသို့သိမ်းမည်...">
 <!ENTITY videoSaveImage.accesskey    "S">
 <!-- LOCALIZATION NOTE: The access keys for "Show Statistics" and
@@ -576,20 +567,19 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY fullZoomEnlargeCmd.label       "ချဲ့ပါ">
 <!ENTITY fullZoomEnlargeCmd.accesskey   "I">
-<!ENTITY fullZoomEnlargeCmd.commandkey  "+">
+
 <!-- + is above this key on many keyboards -->
-<!ENTITY fullZoomEnlargeCmd.commandkey2 "="> 
-<!ENTITY fullZoomEnlargeCmd.commandkey3 "+">
+<!ENTITY fullZoomEnlargeCmd.commandkey3 "">
 
 <!ENTITY fullZoomReduceCmd.label        "ချုံ့ပါ">
 <!ENTITY fullZoomReduceCmd.accesskey    "ခ">
-<!ENTITY fullZoomReduceCmd.commandkey   "-">
-<!ENTITY fullZoomReduceCmd.commandkey2  "-">
+
+<!ENTITY fullZoomReduceCmd.commandkey2  "">
 
 <!ENTITY fullZoomResetCmd.label         "ပြန်ချိန်တယ်">
 <!ENTITY fullZoomResetCmd.accesskey     "R">
-<!ENTITY fullZoomResetCmd.commandkey    "0">
-<!ENTITY fullZoomResetCmd.commandkey2   "0">
+
+<!ENTITY fullZoomResetCmd.commandkey2   "">
 
 <!ENTITY fullZoomToggleCmd.label        "စာသားကိုသာ ကျုံ့ချဲ့ပါ">
 <!ENTITY fullZoomToggleCmd.accesskey    "T">
@@ -598,19 +588,18 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY sidebarCloseButton.tooltip     "ဘေးတန်းကို ပိတ်ပါ">
 
-<!ENTITY quitApplicationCmdWin.label       "ထွက်ခွါပါ"> 
-<!ENTITY quitApplicationCmdWin.accesskey   "x">
-<!ENTITY quitApplicationCmdWin.tooltip     "&brandShortName; မှထွက်">
-<!ENTITY goBackCmd.commandKey "[">
-<!ENTITY goForwardCmd.commandKey "]">
+<!ENTITY quitApplicationCmdWin2.label       "ထွက်ခွါပါ">
+<!ENTITY quitApplicationCmdWin2.accesskey   "x">
+
+
+
 <!ENTITY quitApplicationCmd.label       "ထွက်သွားပါ"> 
 <!ENTITY quitApplicationCmd.accesskey   "Q">
-<!ENTITY quitApplicationCmdMac.label    "&brandShortName; မှ ထွက်သွားပါ">
+
 <!-- LOCALIZATION NOTE(quitApplicationCmdUnix.key): This keyboard shortcut is used by both Linux and OSX builds. -->
-<!ENTITY quitApplicationCmdUnix.key     "Q">
 
 <!ENTITY closeCmd.label                 "ပိတ်ပါ ">  
-<!ENTITY closeCmd.key                   "W">  
+
 <!ENTITY closeCmd.accesskey             "C">
 
 <!ENTITY pageStyleMenu.label "စာမျက်နှာ ပုံစံ">
@@ -622,36 +611,35 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY pageReportIcon.tooltip            "ယခုဝတ်ဆိုဒ်အတွင် pop-up အပြင်အဆင်များအား ပြောင်းပါ ">
 
-<!ENTITY allowPopups.accesskey "p">
 <!-- On Windows we use the term "Options" to describe settings, but
      on Linux and Mac OS X we use "Preferences" - carry that distinction
      over into this string, which is used in the "popup blocked" info bar . -->
 <!ENTITY editPopupSettingsUnix.label "ပွင့်ထွက် စာမျက်နှာ ပိတ်ဆို့ကိရိယာ ဦးစားပေးချက်များကို တည်းဖြတ်ပါ..">
 <!ENTITY editPopupSettings.label "ပွင့်ထွက် စာမျက်နှာ ပိတ်ဆို့ကိရိယာ ရွေးစရာများကို တည်းဖြတ်ပါ..">
 <!ENTITY editPopupSettings.accesskey "E">
-<!ENTITY dontShowMessage.accesskey "D">
+
 
 <!ENTITY bidiSwitchPageDirectionItem.label        "စာမျက်နှာ ဦးတည်ချက် ကူးပြောင်းပါ">
 <!ENTITY bidiSwitchPageDirectionItem.accesskey    "D">
 <!ENTITY bidiSwitchTextDirectionItem.label        "စာသား ဦးတည်ချက် ကူးပြောင်းပါ">
 <!ENTITY bidiSwitchTextDirectionItem.accesskey    "w">
-<!ENTITY bidiSwitchTextDirectionItem.commandkey   "X">
+
 
 <!ENTITY findOnCmd.label     "ဒီစာမျက်နှာမှာ ‌‌ရှာပါ...">
 <!ENTITY findOnCmd.accesskey "F">
-<!ENTITY findOnCmd.commandkey "f">
+
 <!ENTITY findAgainCmd.label  "ထပ် ရှာပါ">
 <!ENTITY findAgainCmd.accesskey "g">
-<!ENTITY findAgainCmd.commandkey "g">
+
 <!ENTITY findAgainCmd.commandkey2 "VK_F3">
-<!ENTITY findSelectionCmd.commandkey "e">
+
 
 <!ENTITY spellAddDictionaries.label "အဘိဓါန်များ ထည့်သွင်းပါ...">
 <!ENTITY spellAddDictionaries.accesskey "A">
 
 <!ENTITY editBookmark.done.label                     "ပြီးသွားပြီ">
 <!ENTITY editBookmark.cancel.label                   "ပယ်​ဖျက်ပါ">
-<!ENTITY editBookmark.removeBookmark.accessKey       "R">
+
 
 <!ENTITY identity.unverifiedsite2 "၀တ်ဆိုက်သည်ပိုင်ဆိုင်မှူသတင်းအချက်အလက်တစ်စုံတစ်ရာမပြသထားပါ။">
 <!ENTITY identity.connectedTo "သင်နဲ့ ဆက်သွယ်နေတဲ့အရာ">
@@ -687,12 +675,12 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY syncBrand.shortName.label    "ထပ်တူပြုပြိုင်တူအသုံးပြုခြင်း">
 
 <!ENTITY syncSetup.label              "&syncBrand.shortName.label; အားတပ်ဆင်ပါ...">
-<!ENTITY syncSetup.accesskey          "s">
+
 <!ENTITY syncSyncNowItem.label        "ယခုပဲချိတ်ဆတ်သုံးမည်။">
 <!ENTITY syncSyncNowItem.accesskey    "ယ">
 <!ENTITY syncReAuthItem.label         "&syncBrand.shortName.label; အား ပြန်ဆက်">
 <!ENTITY syncReAuthItem.accesskey     "R">
-<!ENTITY syncToolbarButton.label      "ထပ်တူပြုပြိုင်တူအသုံးပြုခြင်း">
+
 
 <!ENTITY socialToolbar.title        "ဆိုရှယ် တူးဘား ခလုပ်">
 
@@ -735,7 +723,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 
 
-<!ENTITY social.chatBar.commandkey "c">
 <!ENTITY social.chatBar.label "cချက်အားရွေးပါ">
 <!ENTITY social.chatBar.accesskey "c">
 
@@ -787,12 +774,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY pluginNotification.width "28em">
 
-<!ENTITY tabCrashed.header "တဗ် ရပ်တန့်သွားသှ်">
-<!ENTITY tabCrashed.message "ကောင်းပြီ၊ ဒါဟာ စိတ်ညစ်ဖို့ကောင်းပါတယ်။ ဝတ်ဆိုဒ်ကိုပြဖို့ကြိုးစားခဲ့ပေမယ့် တုန့်ပြန်မှူ မရခဲ့ပါဘူး။">
-<!ENTITY tabCrashed.checkSendReport "&vendorShortName; အား ဤ ပြသာနာ ကို ပြုပြင်နိုင်ရန် လှမ်းပြောမည်">
-<!ENTITY tabCrashed.tryAgain "ထပ်ကြိုးစားပါ">
-
-<!ENTITY uiTour.infoPanel.close "ပိတ်ပါ ">
 
 <!ENTITY appMenuSidebars.label         "ကပ်လျှက်ဘေးဘားများ">
 
@@ -817,4 +798,25 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+<!ENTITY emeNotificationsDontAskAgain.label       "Dနောက်တစ်ကြိမ်မမေးပါနှင့်">
+<!ENTITY emeNotificationsDontAskAgain.accesskey   "D">
+
+
+
+<!-- Pre-landed string for bug 1124153 -->
+<!-- Pre-landed string for bug 1133662 -->
+<!-- Pre-landed string for bug 1123525 -->
+<!-- Pre-landed strings for bug 1123519 -->
 

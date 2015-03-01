@@ -28,19 +28,16 @@
 
 <!ENTITY dataChoicesTab.label            "Data Choices">
 
-<!ENTITY healthReportSection.label       "&brandShortName; ကျန်းမာရေးအစီရင်ခံစာ">
 <!ENTITY healthReportDesc.label          "သင့်ဘယောက်ဆာ ၏ ကျန်းမာရေးအကြောင်း အား &vendorShortName; မှ မည်သို့မျှဝေ သုံးသပ်သည် ကိုနားလည်အောင် ကူညီပေးသည်">
 <!ENTITY enableHealthReport.label        "&brandShortName; ကျန်မာရေး Rအစီရင်ခံခြင်းအား လုပ်မည်">
 <!ENTITY enableHealthReport.accesskey    "R">
 <!ENTITY healthReportLearnMore.label     "ဆက်လက်ဖတ်ရှူရန်">
 
-<!ENTITY telemetrySection.label          "Telemetry">
 <!ENTITY telemetryDesc.label             "လုပ်ဆောင်ချက်များ ၊ ဟတ်ဒ်ဝဲနှင့် ပြင်ဆင်မှူအချက်အလက်များအား &vendorShortName; အားမျှဝေပေးခြင်း အားဖြင့် &brandShortName; အားပိုကောင်းအောင်လုပ်ရန်ကူညီပါ။">
-<!ENTITY enableTelemetry.label           "Enable Telemetry">
-<!ENTITY enableTelemetry.accesskey       "T">
+
+
 <!ENTITY telemetryLearnMore.label        "ဆက်လက်ဖတ်ရှူရန်">
 
-<!ENTITY crashReporterSection.label      "ပျက်ဆီးချက်တင်ပြသူ">
 <!ENTITY crashReporterDesc.label         "&brandShortName; သည် အချက်အလက်အချို့အား &vendorShortName; သို့ပေးပို့ခြင်းအားဖြင့် သင်၏ သုံးဆွဲမှူအားပိုမိုတည်ငြိမ်လုံခြုံအောင် လုပ်ရန် ကူညီပါ။">
 <!ENTITY enableCrashReporter.label       "Enable Crash Reporter">
 <!ENTITY enableCrashReporter.accesskey   "C">
