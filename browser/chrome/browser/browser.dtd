@@ -834,3 +834,11 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY panicButton.thankyou.msg2                "Přejeme bezpečné prohlížení!">
 <!ENTITY panicButton.thankyou.buttonlabel         "Děkujeme!">
 
+<!ENTITY processHang.terminateScript.label        "Zastavit skript">
+<!ENTITY processHang.terminateScript.accessKey    "s">
+<!ENTITY processHang.debugScript.label            "Ladit skript">
+<!ENTITY processHang.debugScript.accessKey        "d">
+<!ENTITY processHang.terminatePlugin.label        "Ukončit zásuvný modul">
+<!ENTITY processHang.terminatePlugin.accessKey    "z">
+<!ENTITY processHang.terminateProcess.label       "Ukončit webový proces">
+<!ENTITY processHang.terminateProcess.accessKey   "w">
