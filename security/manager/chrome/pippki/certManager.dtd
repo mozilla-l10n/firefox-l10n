@@ -34,7 +34,7 @@
 <!ENTITY certmgr.certdetail.sha256fingerprint "Відбиток SHA-256">
 <!ENTITY certmgr.certdetail.sha1fingerprint   "Відбиток SHA1">
 
-<!ENTITY certmgr.editcacert.title             "Edit CA certificate trust settings">
+<!ENTITY certmgr.editcacert.title             "Змінити налаштування довіри CA сертифікату">
 <!ENTITY certmgr.editcert.edittrust           "Змінити ступінь довіри:">
 <!ENTITY certmgr.editcert.trustssl            "Цей сертифікат може ідентифікувати сайти.">
 <!ENTITY certmgr.editcert.trustemail          "Цей сертифікат може ідентифікувати користувачів ел. пошти.">
