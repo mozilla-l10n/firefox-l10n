@@ -14,10 +14,10 @@
                        for the help button in the menubar but Gnome does not.   -->
 <!ENTITY helpMenuWin.label        "Pomoc"> 
 <!ENTITY helpMenuWin.accesskey    "P">
-
-
-
-
+<!ENTITY aboutProduct2.label      "Wó &brandShorterName;">
+<!ENTITY aboutProduct2.accesskey  "W">
+<!ENTITY productHelp2.label       "&brandShorterName; - Pomoc">
+<!ENTITY productHelp2.accesskey   "m">
 <!ENTITY helpMac.commandkey       "?">
 
 <!ENTITY helpKeyboardShortcuts.label     "Tastowe skrotconki">
@@ -26,7 +26,8 @@
 <!ENTITY helpSafeMode.label       "Ze znjemóžnjonymi dodankami znowego startowaś…">
 <!ENTITY helpSafeMode.accesskey   "Z">
 
-
+<!ENTITY healthReport2.label      "&brandShorterName; - &brandShorterName;Statusowa rozpšawa">
+<!ENTITY healthReport2.accesskey  "e">
 
 <!ENTITY helpTroubleshootingInfo.label      "Informacije wó rozwězanju problemow">
 <!ENTITY helpTroubleshootingInfo.accesskey  "I">
