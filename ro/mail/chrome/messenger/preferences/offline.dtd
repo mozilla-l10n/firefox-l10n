@@ -10,7 +10,7 @@
 <!ENTITY radioRememberPrevState.label "Memorează starea online precedentă">
 <!ENTITY radioRememberPrevState.accesskey "r">
 <!ENTITY radioAskState.label "Întreabă-mă pentru starea online">
-<!ENTITY radioAskState.accesskey "k">
+<!ENTITY radioAskState.accesskey "t">
 <!ENTITY radioAlwaysOnlineState.label "Online">
 <!ENTITY radioAlwaysOnlineState.accesskey "l">
 <!ENTITY radioAlwaysOffline.label "Offline">

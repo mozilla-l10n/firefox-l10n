@@ -88,8 +88,8 @@
 
 
 
-
-
+<!ENTITY updateHistory.label             "Arată istoricul actualizărilor">
+<!ENTITY updateHistory.accesskey         "t">
 
 <!ENTITY useService.label                "Folosește serviciul care rulează în fundal pentru a instala actualizări">
 <!ENTITY useService.accesskey            "s">
