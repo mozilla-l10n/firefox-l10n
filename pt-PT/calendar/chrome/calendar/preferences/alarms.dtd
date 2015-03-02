@@ -14,8 +14,8 @@
 <!ENTITY pref.calendar.alarms.sound.useDefault.accessKey "d">
 <!ENTITY pref.calendar.alarms.sound.browse.label "Escolher...">
 <!ENTITY pref.calendar.alarms.sound.browse.accessKey "E">
-<!ENTITY pref.calendar.alarms.sound.preview.label "Ouvir">
-<!ENTITY pref.calendar.alarms.sound.preview.accessKey "O">
+<!ENTITY pref.calendar.alarms.sound.play.label "Reproduzir">
+<!ENTITY pref.calendar.alarms.sound.play.accessKey "P">
 <!ENTITY pref.showalarmbox "Mostrar uma caixa de alarme">
 <!ENTITY pref.calendar.alarms.showAlarmBox.accessKey "M">
 <!ENTITY pref.missedalarms "Mostrar alarmes perdidos">

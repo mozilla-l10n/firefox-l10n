@@ -7,9 +7,9 @@
    - your editor isn't using UTF-8 encoding and may munge up the document!
   -->
 
-<!ENTITY pref.mainbox.label "Definições Gerais" >
-<!ENTITY pref.dateformat.label "Formato de texto da Data:" >
-<!ENTITY pref.dateformat.accesskey "D">
+<!ENTITY pref.mainbox.label "Definições gerais" >
+<!ENTITY pref.dateformat.label "Formato de texto da data:" >
+<!ENTITY pref.dateformat.accesskey "d">
 <!ENTITY pref.dateformat.long "Longo" >
 <!ENTITY pref.dateformat.short "Curto"  >
 
@@ -21,7 +21,7 @@
 <!ENTITY pref.events.label "Eventos">
 <!ENTITY pref.tasks.label "Tarefas">
 
-<!ENTITY pref.default_event_length.label "Tamanho por defeito:" >
+<!ENTITY pref.default_event_length.label "Tamanho pré-definido:" >
 <!ENTITY pref.default_event_length.accesskey "e">
 
 <!ENTITY pref.default_task_none.label "Nenhum">
@@ -32,6 +32,10 @@
 <!ENTITY pref.default_task_offset_current.label "Relativo à hora atual">
 <!ENTITY pref.default_task_offset_start.label "Relativo ao início">
 <!ENTITY pref.default_task_offset_next_hour.label "Relativo à próxima hora">
+
+<!ENTITY pref.calendar.todaypane.agenda.caption "Painel Hoje">
+<!ENTITY pref.soondays.label "A secção seguinte mostra:">
+<!ENTITY pref.soondays.accesskey "g">
 
 <!ENTITY pref.accessibility.label "Acessibilidade" >
 <!ENTITY pref.systemcolors.label "Optimizar cores para acessibilidade" >

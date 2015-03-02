@@ -14,7 +14,7 @@
 
 <!ENTITY calendar.today.button.label "Hoje" >
 <!ENTITY calendar.tomorrow.button.label "Amanhã">
-<!ENTITY calendar.soon.button.label "Brevemente">
+<!ENTITY calendar.upcoming.button.label "Brevemente">
 
 <!ENTITY calendar.events.filter.all.label "Todos os eventos">
 <!ENTITY calendar.events.filter.today.label "Eventos de hoje">
@@ -232,104 +232,113 @@
 <!ENTITY calendar.context.newserver.accesskey "N">
 <!ENTITY calendar.context.findcalendar.label "Localizar calendário..." >
 <!ENTITY calendar.context.findcalendar.accesskey "o" >
-<!ENTITY calendar.context.deleteserver.label "Eliminar calendário">
-<!ENTITY calendar.context.deleteserver.accesskey "A">
-<!ENTITY calendar.context.synccalendars.label "Sincronizar calendários">
-<!ENTITY calendar.context.synccalendars.accesskey "S">
-<!ENTITY calendar.context.publish.label "Publicar calendário...">
-<!ENTITY calendar.context.publish.accesskey "b">
-<!ENTITY calendar.context.export.label "Exportar calendário...">
-<!ENTITY calendar.context.export.accesskey "E">
-<!ENTITY calendar.context.properties.label "Propriedades">
-<!ENTITY calendar.context.properties.accesskey "P">
+<!ENTITY calendar.context.deleteserver2.label "Eliminar calendário">
+<!ENTITY calendar.context.deleteserver2.accesskey "A">
+
+<!-- LOCALIZATION NOTE (calendar.context.removeserver.label): Removing the
+      calendar is the general action of removing it, while deleting means to
+      clear the data and unsubscribing means just taking it out of the calendar
+      list. -->
+<!ENTITY calendar.context.removeserver.label			"Remover calendário">
+<!ENTITY calendar.context.removeserver.accesskey		"R">
+<!ENTITY calendar.context.unsubscribeserver.label		"Cancelar subscrição do calendário">
+<!ENTITY calendar.context.unsubscribeserver.accesskey	"u">
+<!ENTITY calendar.context.synccalendars.label 			"Sincronizar calendários">
+<!ENTITY calendar.context.synccalendars.accesskey 		"S">
+<!ENTITY calendar.context.publish.label 				"Publicar calendário...">
+<!ENTITY calendar.context.publish.accesskey 			"b">
+<!ENTITY calendar.context.export.label 					"Exportar calendário...">
+<!ENTITY calendar.context.export.accesskey 				"E">
+<!ENTITY calendar.context.properties.label 				"Propriedades">
+<!ENTITY calendar.context.properties.accesskey 			"P">
 
 <!-- LOCALIZATION NOTE (calendar.context.togglevisible.accesskey)
      This is the access key used for the showCalendar string -->
-<!ENTITY calendar.context.togglevisible.accesskey      "H">
+<!ENTITY calendar.context.togglevisible.accesskey		"H">
 
 <!-- LOCALIZATION NOTE (calendar.context.showonly.accesskey)
      This is the access key used for the showOnlyCalendar string -->
-<!ENTITY calendar.context.showonly.accesskey           "O">
-<!ENTITY calendar.context.showall.label                "Mostrar todos os calendários">
-<!ENTITY calendar.context.showall.accesskey            "a">
+<!ENTITY calendar.context.showonly.accesskey			"O">
+<!ENTITY calendar.context.showall.label					"Mostrar todos os calendários">
+<!ENTITY calendar.context.showall.accesskey				"a">
 
-<!ENTITY calendar.context.convertmenu.label "Converter para">
-<!ENTITY calendar.context.convertmenu.accesskey.mail "n">
-<!ENTITY calendar.context.convertmenu.accesskey.calendar "v">
-<!ENTITY calendar.context.convertmenu.event.label "Evento...">
-<!ENTITY calendar.context.convertmenu.event.accesskey "E">
-<!ENTITY calendar.context.convertmenu.message.label "Mensagem...">
-<!ENTITY calendar.context.convertmenu.message.accesskey "M">
-<!ENTITY calendar.context.convertmenu.task.label "Tarefa...">
-<!ENTITY calendar.context.convertmenu.task.accesskey "T">
+<!ENTITY calendar.context.convertmenu.label 				"Converter para">
+<!ENTITY calendar.context.convertmenu.accesskey.mail 		"n">
+<!ENTITY calendar.context.convertmenu.accesskey.calendar	"v">
+<!ENTITY calendar.context.convertmenu.event.label 			"Evento...">
+<!ENTITY calendar.context.convertmenu.event.accesskey 		"E">
+<!ENTITY calendar.context.convertmenu.message.label 		"Mensagem...">
+<!ENTITY calendar.context.convertmenu.message.accesskey 	"M">
+<!ENTITY calendar.context.convertmenu.task.label 			"Tarefa...">
+<!ENTITY calendar.context.convertmenu.task.accesskey 		"T">
 
-<!ENTITY calendar.tasks.view.minimonth.label "Mini-mês">
-<!ENTITY calendar.tasks.view.minimonth.accesskey "M">
+<!ENTITY calendar.tasks.view.minimonth.label 				"Mini-mês">
+<!ENTITY calendar.tasks.view.minimonth.accesskey 			"M">
 
-<!ENTITY calendar.tasks.view.calendarlist.label "Lista de calendários">
-<!ENTITY calendar.tasks.view.calendarlist.accesskey "L">
+<!ENTITY calendar.tasks.view.calendarlist.label 			"Lista de calendários">
+<!ENTITY calendar.tasks.view.calendarlist.accesskey 		"L">
 
-<!ENTITY calendar.tasks.view.filtertasks.label "Filtrar tarefas">
-<!ENTITY calendar.tasks.view.filtertasks.accesskey "F">
+<!ENTITY calendar.tasks.view.filtertasks.label				"Filtrar tarefas">
+<!ENTITY calendar.tasks.view.filtertasks.accesskey 			"F">
 
 <!-- Calendar Alarm Dialog -->
 
-<!ENTITY calendar.alarm.location.label "Localização:" >
-<!ENTITY calendar.alarm.details.label "Detalhes..." >
+<!ENTITY calendar.alarm.location.label 						"Localização:" >
+<!ENTITY calendar.alarm.details.label 						"Detalhes..." >
 
-<!ENTITY calendar.alarm.snoozefor.label "Silenciar durante" >
-<!ENTITY calendar.alarm.snoozeallfor.label "Silenciar tudo durante" >
-<!ENTITY calendar.alarm.title.label "Lembretes do calendário" >
-<!ENTITY calendar.alarm.dismiss.label "Desistir" >
-<!ENTITY calendar.alarm.dismissall.label "Desistir de tudo" >
+<!ENTITY calendar.alarm.snoozefor.label 			"Silenciar durante" >
+<!ENTITY calendar.alarm.snoozeallfor.label 			"Silenciar tudo durante" >
+<!ENTITY calendar.alarm.title.label 				"Lembretes do calendário" >
+<!ENTITY calendar.alarm.dismiss.label 				"Desistir" >
+<!ENTITY calendar.alarm.dismissall.label 			"Desistir de tudo" >
 
-<!ENTITY calendar.alarm.snooze.5minutes.label "5 minutos" >
-<!ENTITY calendar.alarm.snooze.10minutes.label "10 minutos" >
-<!ENTITY calendar.alarm.snooze.15minutes.label "15 minutos" >
-<!ENTITY calendar.alarm.snooze.30minutes.label "30 minutos" >
-<!ENTITY calendar.alarm.snooze.45minutes.label "45 minutos" >
-<!ENTITY calendar.alarm.snooze.1hour.label "1 hora" >
-<!ENTITY calendar.alarm.snooze.2hours.label "2 horas" >
-<!ENTITY calendar.alarm.snooze.1day.label "1 dia" >
+<!ENTITY calendar.alarm.snooze.5minutes.label 		"5 minutos" >
+<!ENTITY calendar.alarm.snooze.10minutes.label 		"10 minutos" >
+<!ENTITY calendar.alarm.snooze.15minutes.label 		"15 minutos" >
+<!ENTITY calendar.alarm.snooze.30minutes.label 		"30 minutos" >
+<!ENTITY calendar.alarm.snooze.45minutes.label 		"45 minutos" >
+<!ENTITY calendar.alarm.snooze.1hour.label 			"1 hora" >
+<!ENTITY calendar.alarm.snooze.2hours.label 		"2 horas" >
+<!ENTITY calendar.alarm.snooze.1day.label 			"1 dia" >
 
 <!-- LOCALIZATION NOTE (calendar.alarm.snooze.cancel)
      This string is not seen in the UI, it is read by screen readers when the
      user focuses the "Cancel" button in the "Snooze for..." popup of the alarm
      dialog. -->
-<!ENTITY calendar.alarm.snooze.cancel "Cancelar silenciamento">
+<!ENTITY calendar.alarm.snooze.cancel 				"Cancelar silenciamento">
 
 <!-- Calendar Server Dialog -->
-<!ENTITY calendar.server.dialog.title.edit "Editar calendário">
-<!ENTITY calendar.server.dialog.name.label "Nome do calendário:">
+<!ENTITY calendar.server.dialog.title.edit 			"Editar calendário">
+<!ENTITY calendar.server.dialog.name.label 			"Nome do calendário:">
 
 <!-- Calendar Properties -->
-<!ENTITY calendarproperties.color.label "Cor:">
-<!ENTITY calendarproperties.webdav.label "iCalendar (ICS)">
-<!ENTITY calendarproperties.caldav.label "CalDAV">
-<!ENTITY calendarproperties.wcap.label "Servidor de salendário Sun Java (WCAP)">
-<!ENTITY calendarproperties.format.label "Formato:">
-<!ENTITY calendarproperties.location.label "Localização:">
-<!ENTITY calendarproperties.refreshInterval.label "Atualização de calendário:">
-<!ENTITY calendarproperties.refreshInterval.manual.label "Manualmente">
-<!ENTITY calendarproperties.name.label "Nome:">
-<!ENTITY calendarproperties.readonly.label "Só leitura">
-<!ENTITY calendarproperties.firealarms.label "Mostrar lembretes">
-<!ENTITY calendarproperties.cache3.label "Suporte no modo desligado">
-<!ENTITY calendarproperties.enabled.label "Ativar este calendário">
-<!ENTITY calendarproperties.forceDisabled.label "O fornecedor deste calendário não foi encontrado. Isto pode acontecer caso tenha desativado ou desinstalado alguns extras.">
-<!ENTITY calendarproperties.unsubscribe.label "Cancelar subscrição">
-<!ENTITY calendarproperties.unsubscribe.accesskey "u">
+<!ENTITY calendarproperties.color.label 					"Cor:">
+<!ENTITY calendarproperties.webdav.label 					"iCalendar (ICS)">
+<!ENTITY calendarproperties.caldav.label 					"CalDAV">
+<!ENTITY calendarproperties.wcap.label 						"Servidor de calendário Sun Java (WCAP)">
+<!ENTITY calendarproperties.format.label 					"Formato:">
+<!ENTITY calendarproperties.location.label 					"Localização:">
+<!ENTITY calendarproperties.refreshInterval.label 			"Atualização de calendário:">
+<!ENTITY calendarproperties.refreshInterval.manual.label	"Manualmente">
+<!ENTITY calendarproperties.name.label 						"Nome:">
+<!ENTITY calendarproperties.readonly.label 					"Só leitura">
+<!ENTITY calendarproperties.firealarms.label 				"Mostrar lembretes">
+<!ENTITY calendarproperties.cache3.label 					"Suporte no modo desligado">
+<!ENTITY calendarproperties.enabled.label 					"Ativar este calendário">
+<!ENTITY calendarproperties.forceDisabled.label 			"O fornecedor deste calendário não foi encontrado. Isto pode acontecer caso tenha desativado ou desinstalado alguns extras.">
+<!ENTITY calendarproperties.unsubscribe.label 				"Cancelar subscrição">
+<!ENTITY calendarproperties.unsubscribe.accesskey 			"u">
 
 <!-- Calendar Publish Dialog -->
-<!ENTITY calendar.publish.dialog.title "Publicar calendário">
-<!ENTITY calendar.publish.url.label "Publicar URL">
-<!ENTITY calendar.publish.publish.button "Publicar">
-<!ENTITY calendar.publish.close.button "Fechar">
+<!ENTITY calendar.publish.dialog.title 						"Publicar calendário">
+<!ENTITY calendar.publish.url.label 						"Publicar URL">
+<!ENTITY calendar.publish.publish.button 					"Publicar">
+<!ENTITY calendar.publish.close.button 						"Fechar">
 
-<!ENTITY calendar.publish.example.url.description "Algo como http://www.meuservidor.com/webdav/teste.ics">
+<!ENTITY calendar.publish.example.url.description 			"Algo como http://www.meuservidor.com/webdav/teste.ics">
 
 <!-- Select Calendar Dialog -->
-<!ENTITY calendar.select.dialog.title "Selecione o calendário">
+<!ENTITY calendar.select.dialog.title 						"Selecione o calendário">
 
 <!-- Calendar Printing -->
 <!ENTITY calendar.print.window.title "Imprimir calendário">
