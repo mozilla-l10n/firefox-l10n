@@ -26,7 +26,7 @@
 
 <!ENTITY dataChoicesTab.label            "Udostępnianie danych">
 
-<!ENTITY healthReportDesc.label "Funkcja &brandShortName; Health Report pozwala zrozumieć wydajność przeglądarki i udostępnia dane o jej stanie organizacji &vendorShortName;.">
+<!ENTITY healthReportDesc.label "&brandShortName; Health Report ułatwia zrozumienie wydajności przeglądarki i udostępnia dane o jej stanie organizacji &vendorShortName;.">
 <!ENTITY enableHealthReport.label "&brandShortName; Health Report">
 <!ENTITY enableHealthReport.accesskey "H">
 <!ENTITY healthReportLearnMore.label "Więcej informacji">
