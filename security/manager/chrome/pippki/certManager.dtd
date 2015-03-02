@@ -26,7 +26,7 @@
 <!ENTITY certmgr.issuerinfo.label             "Ким видано">
 <!ENTITY certmgr.periodofvalidity.label       "Термін дії" >
 <!ENTITY certmgr.fingerprints.label           "Відбитки">
-<!ENTITY certmgr.certdetail.title             "Подробиці сертифікату">
+<!ENTITY certmgr.certdetail.title             "Подробиці сертифіката">
 <!ENTITY certmgr.certdetail.cn                "Загальне ім’я (CN)">
 <!ENTITY certmgr.certdetail.o                 "Організація (O)">
 <!ENTITY certmgr.certdetail.ou                "Організаційний підрозділ (OU)">
@@ -34,19 +34,19 @@
 <!ENTITY certmgr.certdetail.sha256fingerprint "Відбиток SHA-256">
 <!ENTITY certmgr.certdetail.sha1fingerprint   "Відбиток SHA1">
 
-<!ENTITY certmgr.editcacert.title             "Змінити налаштування довіри CA сертифікату">
+<!ENTITY certmgr.editcacert.title             "Змінити налаштування довіри CA сертифіката">
 <!ENTITY certmgr.editcert.edittrust           "Змінити ступінь довіри:">
 <!ENTITY certmgr.editcert.trustssl            "Цей сертифікат може ідентифікувати сайти.">
 <!ENTITY certmgr.editcert.trustemail          "Цей сертифікат може ідентифікувати користувачів ел. пошти.">
 <!ENTITY certmgr.editcert.trustobjsign        "Цей сертифікат може ідентифікувати програмне забезпечення.">
 <!ENTITY certmgr.editemailcert.title          "Зміна довіри сертифікатам електронної пошти">
-<!ENTITY certmgr.editemailcert.edittrust      "Вкажіть ступінь довіри сертифікату:">
-<!ENTITY certmgr.editemailcert.dotrust        "Довіряти достовірності сертифікату.">
-<!ENTITY certmgr.editemailcert.donttrust      "Не довіряти достовірності сертифікату.">
+<!ENTITY certmgr.editemailcert.edittrust      "Вкажіть ступінь довіри сертифіката:">
+<!ENTITY certmgr.editemailcert.dotrust        "Довіряти достовірності сертифіката.">
+<!ENTITY certmgr.editemailcert.donttrust      "Не довіряти достовірності сертифіката.">
 
-<!ENTITY certmgr.deletecert.title             "Вилучення сертифікату">
+<!ENTITY certmgr.deletecert.title             "Вилучення сертифіката">
 
-<!ENTITY certmgr.certname                     "Назва сертифікату">
+<!ENTITY certmgr.certname                     "Назва сертифіката">
 <!ENTITY certmgr.certserver                   "Сервер">
 <!ENTITY certmgr.override_lifetime            "Час життя">
 <!ENTITY certmgr.tokenname                    "Пристрій захисту">
@@ -92,7 +92,7 @@
 <!ENTITY exceptionMgr.certlocation.url        "Адреса:">
 <!ENTITY exceptionMgr.certlocation.download   "Отримати сертифікат">
 <!ENTITY exceptionMgr.certlocation.accesskey  "С">
-<!ENTITY exceptionMgr.certstatus.caption      "Стан сертифікату">
+<!ENTITY exceptionMgr.certstatus.caption      "Стан сертифіката">
 <!ENTITY exceptionMgr.certstatus.viewCert     "Переглянути…">
 <!ENTITY exceptionMgr.certstatus.accesskey    "н">
 <!ENTITY exceptionMgr.permanent.label         "Зробити цей виняток постійним">
