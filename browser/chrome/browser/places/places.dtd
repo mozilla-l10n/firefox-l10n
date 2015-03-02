@@ -52,6 +52,8 @@
 <!ENTITY cmd.open.accesskey              "О">
 <!ENTITY cmd.open_window.label           "Отваряне в нов прозорец">
 <!ENTITY cmd.open_window.accesskey       "п">
+
+
 <!ENTITY cmd.open_tab.label              "Отваряне в нов подпрозорец">
 <!ENTITY cmd.open_tab.accesskey          "д">
 <!ENTITY cmd.open_all_in_tabs.label      "Отваряне на всички в подпрозорци">

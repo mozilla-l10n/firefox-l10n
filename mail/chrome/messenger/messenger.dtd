@@ -145,6 +145,8 @@
 <!ENTITY messagePaneVertical.accesskey "В">
 <!ENTITY showFolderPaneCmd.label "Панел за папки">
 <!ENTITY showFolderPaneCmd.accesskey "л">
+
+
 <!ENTITY showMessageCmd.label "Панел за писма">
 <!ENTITY showMessageCmd.accesskey "П">
 
@@ -593,7 +595,9 @@
 <!ENTITY manageTags.accesskey "У">
 <!-- Folder Pane -->
 
-<!ENTITY folderColumn.label "Име">
+<!ENTITY folderNameColumn.label "Име">
+
+
 <!ENTITY folderSizeColumn.label "Размер">
 <!-- Folder Pane Context Menu -->
 
@@ -662,8 +666,8 @@
 <!ENTITY statusColumn.label "Състояние">
 <!ENTITY sizeColumn.label "Размер">
 <!ENTITY junkStatusColumn.label "Статус нежелана поща">
-<!ENTITY unreadColumn.label "Непрочетени">
-<!ENTITY totalColumn.label "Всичко">
+
+
 <!ENTITY readColumn.label "Прочетени">
 <!ENTITY receivedColumn.label "Получени">
 <!ENTITY starredColumn.label "Със звезда">

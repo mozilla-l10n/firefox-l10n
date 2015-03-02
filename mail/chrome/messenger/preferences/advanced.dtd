@@ -3,18 +3,21 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY itemGeneral.label       "Основни">
+
 <!ENTITY itemDisplay.label       "Четене и показване">
 <!ENTITY itemUpdate.label        "Обновяване">
 <!ENTITY itemNetworking.label    "Мрежа и дисково място">
 <!ENTITY itemCertificates.label  "Сертификати">
 <!-- General Settings -->
 
-
-<!ENTITY submitTelemetry.label         "Изпращане на данни за производителността">
-<!ENTITY submitTelemetry.accesskey     "п">
-<!ENTITY telemetryInfoLink.label       "Повече информация за телеметрията">
 <!ENTITY enableGlodaSearch.label       "Разрешаване на глобално търсене и индексиране">
 <!ENTITY enableGlodaSearch.accesskey   "Р">
+
+
+
+
+
+
 
 <!ENTITY scrolling.label               "Плъзгане">
 <!ENTITY useAutoScroll.label           "Използване на автоматично плъзгане">
@@ -35,6 +38,16 @@
 <!ENTITY returnReceiptsInfo.label      "Определяне как &brandShortName; обработва обратните разписки">
 <!ENTITY showReturnReceipts.label      "Обратни разписки…">
 <!ENTITY showReturnReceipts.accesskey  "б">
+<!-- Data Choices -->
+
+
+
+
+
+
+
+
+
 <!-- Display and Reading Settings -->
 
 <!ENTITY reading.caption               "Четене">

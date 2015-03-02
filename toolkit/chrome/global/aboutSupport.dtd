@@ -35,9 +35,9 @@ This is likely the same like id.heading in crashes.dtd. -->
 <!ENTITY aboutSupport.appBasicsTitle "Основни за приложението">
 <!ENTITY aboutSupport.appBasicsName "Име">
 <!ENTITY aboutSupport.appBasicsVersion "Версия">
-<!-- LOCALIZATION NOTE (aboutSupport.appBasicsUpdateHistory, aboutSupport.appBasicsShowUpdateHistory):
-"Update" is a noun here, not a verb. -->
 
+<!-- LOCALIZATION NOTE (aboutSupport.appBasicsUpdateChannel, aboutSupport.appBasicsUpdateHistory, aboutSupport.appBasicsShowUpdateHistory):
+"Update" is a noun here, not a verb. -->
 <!ENTITY aboutSupport.appBasicsUpdateHistory "История на обновяванията">
 <!ENTITY aboutSupport.appBasicsShowUpdateHistory "Показване на историята на обновяванията">
 
@@ -91,4 +91,6 @@ variant of aboutSupport.showDir.label. -->
 
 <!ENTITY aboutSupport.copyTextToClipboard.label "Копиране на всичко в системния буфер">
 <!ENTITY aboutSupport.copyRawDataToClipboard.label "Копиране на необработените данни в системния буфер">
+
+
 

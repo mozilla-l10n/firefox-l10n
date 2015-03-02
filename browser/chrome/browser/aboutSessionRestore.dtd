@@ -13,11 +13,10 @@
 <!ENTITY restorepage.startNew       "Да започнете нова сесия">
 
 <!ENTITY restorepage.tryagainButton "Възстановяване">
-<!ENTITY restorepage.restore.access "В">
-<!ENTITY restorepage.closeButton    "Затваряне">
-<!ENTITY restorepage.close.access   "З">
 
-<!ENTITY restorepage.restoreHeader  "Възстановяване">
+<!ENTITY restorepage.closeButton    "Затваряне">
+
+
 <!ENTITY restorepage.listHeader     "Прозорци и подпрозорци">
 <!-- LOCALIZATION NOTE: &#37;S will be replaced with a number. -->
 <!ENTITY restorepage.windowLabel    "Прозорец № &#037;S">

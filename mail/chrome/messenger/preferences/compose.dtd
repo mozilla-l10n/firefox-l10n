@@ -6,6 +6,7 @@
 <!ENTITY itemAutoComplete.label              "Адресиране">
 <!ENTITY itemSpellCheck.label                "Правопис">
 
+
 <!ENTITY forwardMsg.label                     "Препращане на писмата:">
 <!ENTITY forwardMsg.accesskey                 "П">
 <!ENTITY inline.label                         "Вложено">

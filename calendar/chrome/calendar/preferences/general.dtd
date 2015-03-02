@@ -13,6 +13,10 @@
 <!ENTITY pref.dateformat.long "Дълъг" >
 <!ENTITY pref.dateformat.short "Кратък"  >
 
+<!ENTITY pref.timezones.caption "Часова зона">
+
+
+
 <!ENTITY pref.defaults.label "Стандартни стойности за нови елементи">
 <!ENTITY pref.events.label "Събития">
 <!ENTITY pref.tasks.label "Задачи">
@@ -28,6 +32,10 @@
 <!ENTITY pref.default_task_offset_current.label "Относително текущото време">
 <!ENTITY pref.default_task_offset_start.label "Относително началото">
 <!ENTITY pref.default_task_offset_next_hour.label "Относително следващия час">
+
+<!ENTITY pref.calendar.todaypane.agenda.caption "Дневен плот">
+
+
 
 <!ENTITY pref.accessibility.label "Достъпност" >
 <!ENTITY pref.systemcolors.label "Цветове, оптимизирани за достъпност" >

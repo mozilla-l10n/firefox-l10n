@@ -4,13 +4,16 @@
 
 <!ENTITY offlineDialog.title "Без връзка">
 
-<!ENTITY textStartUp "При стартиране:">
+
+
 <!ENTITY radioRememberPrevState.label "Запомня се предишното състояне на свързаност">
 <!ENTITY radioRememberPrevState.accesskey "З">
-<!ENTITY radioAskMe.label "Запитва за свързване при стартиране">
-<!ENTITY radioAskMe.accesskey "а">
-<!ENTITY radioAlwaysOnline.label "Винаги се стартира свързван">
-<!ENTITY radioAlwaysOnline.accesskey "В">
+
+
+
+
+
+
 
 <!ENTITY textGoingOnline "Изпращане на неизпратените писма след свързване?">
 <!ENTITY radioAutoSend.label "Да">

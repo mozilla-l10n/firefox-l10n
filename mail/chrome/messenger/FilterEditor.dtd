@@ -24,6 +24,10 @@
 <!ENTITY contextBeforeCls.label "Филтриране преди класификацията за нежелана поща">
 <!ENTITY contextAfterCls.label "Филтриране след класификацията за нежелана поща">
 
+
+
+
+
 <!ENTITY filterActionDesc.label "Изпълняват се следните действия:">
 <!ENTITY filterActionDesc.accesskey "л">
 

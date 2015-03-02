@@ -6,8 +6,11 @@
 <!ENTITY  window.width                    "38em">
 <!ENTITY  window.macWidth                 "52em">
 
-<!ENTITY  allowPagesToUse.label           "Позволяване на страниците да избират собствени цветове вместо горните">
-<!ENTITY  allowPagesToUse.accesskey       "П">
+
+
+<!ENTITY  overridePageColors.always.label "Винаги">
+
+<!ENTITY  overridePageColors.never.label  "Никога">
 
 <!ENTITY  color                           "Текст и фон">
 <!ENTITY  textColor.label                 "Текст:">
