@@ -6,6 +6,7 @@
 <!ENTITY itemAutoComplete.label              "Adrese">
 <!ENTITY itemSpellCheck.label                "Ortografie">
 
+<!ENTITY dialogCompose.title                 "Compunere">
 
 <!ENTITY forwardMsg.label                     "Înaintează mesajele:">
 <!ENTITY forwardMsg.accesskey                 "n">
