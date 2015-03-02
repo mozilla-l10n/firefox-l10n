@@ -3,7 +3,8 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY addressbookWindow.title						"Livro de endereços">
-
+<!ENTITY blankResultsPaneMessage.label					"Este livro de endereços apenas mostra os contactos após um procura">
+<!ENTITY localResultsOnlyMessage.label					"Os contactos destes livros de endereços remotos apenas são mostrados após uma procura">
 <!-- File Menu -->
 <!ENTITY fileMenu.label 							    "Ficheiro">
 <!ENTITY fileMenu.accesskey 					  		"F">
@@ -160,7 +161,9 @@ because displayed names don't have the comma in between. -->
 <!ENTITY searchItem.title 							  	"Pesquisa rápida">
 
 <!-- Results Pane -->
-<!ENTITY GeneratedName.label 						  	"Nome">
+<!ENTITY Addrbook.label 								"Livro de endereços">
+<!ENTITY Addrbook.accesskey 							"i">
+<!ENTITY GeneratedName.label 							"Nome">
 <!ENTITY GeneratedName.accesskey 						"N">
 <!ENTITY PrimaryEmail.label 						  	"Correio eletrónico">
 <!ENTITY PrimaryEmail.accesskey 						"e">

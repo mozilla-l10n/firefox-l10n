@@ -145,11 +145,13 @@
 <!ENTITY messagePaneVertical.accesskey "V">
 <!ENTITY showFolderPaneCmd.label "Painel de pastas">
 <!ENTITY showFolderPaneCmd.accesskey "s">
+<!ENTITY showFolderPaneColsCmd.label "Colunas do painel de pastas">
+<!ENTITY showFolderPaneColsCmd.accesskey "p">
 <!ENTITY showMessageCmd.label "Painel de mensagens">
-<!ENTITY showMessageCmd.accesskey "P">
+<!ENTITY showMessageCmd.accesskey "m">
 
 <!ENTITY folderView.label "Pastas">
-<!ENTITY folderView.accesskey "A">
+<!ENTITY folderView.accesskey "a">
 <!ENTITY unifiedFolders.label "Unificadas">
 <!ENTITY unifiedFolders.accesskey "i">
 <!ENTITY allFolders.label "Todas">
@@ -523,7 +525,7 @@
 <!ENTITY folderLocationToolbarItem.title "Localização da pasta">
 <!ENTITY tagButton.label "Etiqueta">
 <!ENTITY compactButton.label "Compactar">
-<!ENTITY appmenuButton.label "AppMenu">
+<!ENTITY appmenuButton.label "Menu de aplicações">
 
 <!-- Mail Toolbar Tooltips-->
 <!ENTITY advancedButton.tooltip "Procura avançada de mensagens">
@@ -593,7 +595,9 @@
 <!ENTITY manageTags.accesskey "G">
 
 <!-- Folder Pane -->
-<!ENTITY folderColumn.label "Nome">
+<!ENTITY folderNameColumn.label "Nome">
+<!ENTITY folderUnreadColumn.label "Não lida">
+<!ENTITY folderTotalColumn.label "Total">
 <!ENTITY folderSizeColumn.label "Tamanho">
 
 <!-- Folder Pane Context Menu -->
@@ -891,15 +895,15 @@
 <!-- Mac OS X Application Menu (Cocoa widgets) -->
 <!ENTITY preferencesCmdMac2.label		"Preferências">
 <!ENTITY preferencesCmdMac.commandkey	",">
-<!ENTITY preferencesCmdMac.modifiers 	"accel">
-<!ENTITY servicesMenuMac.label 			"Serviços">
-<!ENTITY hideThisAppCmdMac.label 		"Ocultar o &brandShortName;">
-<!ENTITY hideThisAppCmdMac.commandkey 	"O">
-<!ENTITY hideThisAppCmdMac.modifiers 	"accel">
-<!ENTITY hideOtherAppsCmdMac.label 		"Ocultar outras">
+<!ENTITY preferencesCmdMac.modifiers	"accel">
+<!ENTITY servicesMenuMac.label			"Serviços">
+<!ENTITY hideThisAppCmdMac.label		"Ocultar o &brandShortName;">
+<!ENTITY hideThisAppCmdMac.commandkey	"O">
+<!ENTITY hideThisAppCmdMac.modifiers	"accel">
+<!ENTITY hideOtherAppsCmdMac.label		"Ocultar outras">
 <!ENTITY hideOtherAppsCmdMac.commandkey "O">
-<!ENTITY hideOtherAppsCmdMac.modifiers 	"accel,alt">
-<!ENTITY showAllAppsCmdMac.label 		"Mostrar tudo">
+<!ENTITY hideOtherAppsCmdMac.modifiers	"accel,alt">
+<!ENTITY showAllAppsCmdMac.label		"Mostrar tudo">
 
 <!-- Mac OS X Dock Icon pop-up menu -->
 <!ENTITY dockOptions.label              "Opções do ícone...">
