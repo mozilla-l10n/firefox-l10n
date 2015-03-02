@@ -36,9 +36,9 @@
 <!ENTITY device.permissionsHelpLink "https://developer.mozilla.org/docs/Web/Apps/App_permissions">
 <!ENTITY device.browserTabs "Filele navigatorului">
 <!ENTITY device.browserTabsTooltip "Vizualizați o listă cu file în navigatorul dispozitivului conectat">
-
+<!ENTITY device.debugBrowserTab "Depanare">
 <!ENTITY device.debugBrowserTabTooltip "Deschideți uneltele de dezvoltare conectate filei navigatorului pe dispozitiv">
-
+<!ENTITY device.help "Ajutor">
 
 <!ENTITY connection.connectTooltip "Connect to the device.">
 <!ENTITY connection.disconnect "Deconectare">
@@ -66,19 +66,19 @@
 <!ENTITY connection.startRegisteredSimulator "Start:">
 
 <!ENTITY projects.localApps "Aplicații locale">
-
+<!ENTITY projects.addApp "Adaugă">
 <!ENTITY projects.addPackaged "Add Packaged App">
 <!ENTITY projects.addPackagedTooltip "Add a new packaged app (a directory) from your computer.">
 <!ENTITY projects.addHosted "Add Hosted App">
 <!ENTITY projects.addHostedTooltip "Add a new hosted app (link to a manifest.webapp file) from a remote website.">
-
+<!ENTITY projects.title "Aplicații locale">
 <!ENTITY projects.appDetails "Detalii aplicație">
 <!ENTITY projects.removeAppFromList "Remove this app from the list of apps you are working on. This will not remove it from a device or a simulator.">
 <!ENTITY projects.updateApp "Actualizare">
 <!ENTITY projects.updateAppTooltip "Execută verificări de validare și actualizează aplicația la dispozitivul conectat">
-
+<!ENTITY projects.debugApp "Depanare">
 <!ENTITY projects.debugAppTooltip "Deschide instrumentele de dezvoltare asociate cu această aplicație">
-
+<!ENTITY projects.saveManifest "Salvează">
 <!ENTITY projects.saveManifestTooltip "Save the contents of the Manifest Editor below.">
 <!ENTITY projects.hostedManifestPlaceHolder2 "http://exemplu.com/app/manifest.webapp">
 <!ENTITY projects.noProjects "Nu există proiecte. Adăugați o nouă aplicație împachetată de mai jos (director local) sau o aplicație găzduită (legătura către un fișier manifest).">
@@ -92,6 +92,7 @@
 <!ENTITY projects.hosted "Găzduit">
 <!ENTITY projects.packaged "Împachetat">
 
+<!ENTITY help.title "Gestionar aplicații">
 <!ENTITY help.close "Închidere">
 <!ENTITY help.intro "This tool will help you build and install web apps on compatible devices (i.e. Firefox OS). The <strong>Apps</strong> tab will assist you in the validation and installation process of your app. The <strong>Device</strong> tab will give you information about the connected device. Use the bottom toolbar to connect to a device or start the simulator.">
 <!ENTITY help.usefullLinks "Legături utile:">

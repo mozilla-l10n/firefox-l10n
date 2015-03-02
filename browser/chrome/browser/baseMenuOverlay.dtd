@@ -1,6 +1,8 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY minimizeWindow.key       "m">
 <!ENTITY minimizeWindow.label     "Minimizează">
 <!ENTITY bringAllToFront.label    "Adu toate în față">
 <!ENTITY zoomWindow.label         "Scalare">
@@ -10,12 +12,13 @@
 <!ENTITY helpMenu.accesskey       "j"> 
 <!-- LOCALIZATION NOTE some localizations of Windows (ex:french, german) use "?"
                        for the help button in the menubar but Gnome does not.   -->
-
+<!ENTITY helpMenuWin.label        "Ajutor"> 
+<!ENTITY helpMenuWin.accesskey    "j">
 <!ENTITY aboutProduct2.label      "Despre &brandShorterName;">
 <!ENTITY aboutProduct2.accesskey  "D">
 <!ENTITY productHelp2.label       "Manual &brandShorterName;">
 <!ENTITY productHelp2.accesskey   "M">
-
+<!ENTITY helpMac.commandkey       "?">
 
 <!ENTITY helpKeyboardShortcuts.label     "Scurtături de tastatură">
 <!ENTITY helpKeyboardShortcuts.accesskey "S">
@@ -36,14 +39,14 @@
 <!ENTITY helpShowTour2.accesskey        "T">
 
 <!ENTITY preferencesCmdMac.label        "Preferințe…">
-
+<!ENTITY preferencesCmdMac.commandkey   ",">
 
 <!ENTITY servicesMenuMac.label          "Servicii">
 
 <!ENTITY hideThisAppCmdMac2.label       "Ascunde &brandShorterName;">
-
+<!ENTITY hideThisAppCmdMac2.commandkey  "H">
 
 <!ENTITY hideOtherAppsCmdMac.label      "Ascunde-le pe celelalte">
-
+<!ENTITY hideOtherAppsCmdMac.commandkey "H">
 
 <!ENTITY showAllAppsCmdMac.label        "Arată toate">
