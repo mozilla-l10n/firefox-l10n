@@ -13,11 +13,10 @@
 <!ENTITY update.applyButtonBillboard.label        "Aplicar atualização...">
 <!ENTITY update.applyButtonBillboard.accesskey    "A">
 
-
 <!-- LOCALIZATION NOTE (warningDesc.version): This is a warning about the experimental nature of Nightly and Aurora builds. It is only shown in those versions. -->
-<!ENTITY warningDesc.version        "O &brandShortName; é experimental e pode ficar instável.">
+<!ENTITY warningDesc.version        "O &brandShortName; é experimental e pode ser instável.">
 <!-- LOCALIZATION NOTE (warningDesc.telemetryDesc): This is a notification that Nightly/Aurora builds automatically send Telemetry data back to Mozilla. It is only shown in those versions. "It" refers to brandShortName. -->
-<!ENTITY warningDesc.telemetryDesc  "Ele envia informação sobre o desempenho, hardware, utilização e personalizações para a &vendorShortName; para ajudar o &brandShortName; a ficar melhor.">
+<!ENTITY warningDesc.telemetryDesc  "Envia informações sobre o desempenho, hardware, utilização e personalizações para a &vendorShortName; de modo a melhorar o &brandShortName;.">
 
 <!-- LOCALIZATION NOTE (community.exp.*) This paragraph is shown in "experimental" builds, i.e. Nightly and Aurora builds, instead of the other "community.*" strings below. -->
 <!ENTITY community.exp.start        "">
@@ -36,10 +35,13 @@
 <!ENTITY community.creditsLink      "comunidade global">
 <!ENTITY community.end3             " que trabalha para tornar a Internet melhor. Acreditamos que a Internet deve ser aberta, pública e acessível a todos.">
 
-<!ENTITY contribute.start           "Parece-lhe interessante? ">
-<!-- LOCALIZATION NOTE (contribute.getInvolvedLink): This is a link title that links to http://www.mozilla.org/contribute/. -->
-<!ENTITY contribute.getInvolvedLink "Envolva-se!">
-<!ENTITY contribute.end             "">
+<!ENTITY helpus.start               "Gostaria de nos ajudar? ">
+<!-- LOCALIZATION NOTE (helpus.donateLink): This is a link title that links to the thunderbird donation page -->
+<!ENTITY helpus.donateLink          "Efetue um donativo">
+<!ENTITY helpus.middle              " o ">
+<!-- LOCALIZATION NOTE (helpus.getInvolvedLink): This is a link title that links to http://www.mozilla.org/contribute/. -->
+<!ENTITY helpus.getInvolvedLink     "envolva-se no projeto!">
+<!ENTITY helpus.end                 "">
 
 <!-- LOCALIZATION NOTE (bottomLinks.license): This is a link title that links to about:license. -->
 <!ENTITY bottomLinks.license        "Informações de licenciamento">

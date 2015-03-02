@@ -11,8 +11,8 @@
 <!ENTITY radioRememberPrevState.accesskey "r">
 <!ENTITY radioAskState.label "Perguntar o estado">
 <!ENTITY radioAskState.accesskey "u">
-<!ENTITY radioAlwaysOnline.label "Ligado">
-<!ENTITY radioAlwaysOnline.accesskey "L">
+<!ENTITY radioAlwaysOnlineState.label "Ligado">
+<!ENTITY radioAlwaysOnlineState.accesskey "L">
 <!ENTITY radioAlwaysOffline.label "Desligado">
 <!ENTITY radioAlwaysOffline.accesskey "g">
 

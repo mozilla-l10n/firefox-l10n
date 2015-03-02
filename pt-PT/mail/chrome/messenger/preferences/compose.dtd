@@ -5,12 +5,16 @@
 <!ENTITY itemGeneral.label "Geral">
 <!ENTITY itemAutoComplete.label "Endereçamento">
 <!ENTITY itemSpellCheck.label "Ortografia">
+
+<!ENTITY dialogCompose.title					"Composição">
+
 <!ENTITY forwardMsg.label "Reencaminhar:">
 <!ENTITY forwardMsg.accesskey "r">
 <!ENTITY inline.label "Em linha">
 <!ENTITY asAttachment.label "Como anexo">
 <!ENTITY addExtension.label "adicionar extensão ao nome do ficheiro">
 <!ENTITY addExtension.accesskey "e">
+
 <!ENTITY htmlComposeHeader.label "HTML">
 <!ENTITY font.label "Tipo de letra:">
 <!ENTITY font.accesskey "l">
@@ -22,6 +26,7 @@
 <!ENTITY bgColor.accesskey "f">
 <!ENTITY restoreHTMLDefaults.label "Restaurar pré-definição">
 <!ENTITY restoreHTMLDefaults.accesskey "R">
+
 <!ENTITY spellCheck.label "Verificar ortografia antes de enviar">
 <!ENTITY spellCheck.accesskey "V">
 <!ENTITY spellCheckInline.label "Verificar ortografia ao escrever">
@@ -29,11 +34,13 @@
 <!ENTITY languagePopup.label "Idioma:">
 <!ENTITY languagePopup.accessKey "I">
 <!ENTITY downloadDictionaries.label "Transferir mais dicionários">
+
 <!ENTITY warnOnSendAccelKey.label "Confirmação ao atalhos do teclado para enviar mensagem">
 <!ENTITY warnOnSendAccelKey.accesskey "C">
 <!ENTITY autoSave.label "Guardar automaticamente a cada">
 <!ENTITY autoSave.accesskey "a">
 <!ENTITY autoSaveEnd.label "minutos">
+
 <!ENTITY emailCollectionPicker.label "Ao enviar, adicionar endereços automaticamente ao:">
 <!ENTITY emailCollectionPicker.accesskey "A">
 <!ENTITY addressingTitle.label "Conclusão automática de endereços">
@@ -45,10 +52,12 @@
 <!ENTITY directoriesNone.label "Nenhum">
 <!ENTITY editDirectories.label "Editar diretórios...">
 <!ENTITY editDirectories.accesskey "E">
+
 <!ENTITY sendOptionsDescription.label "Configurar comportamento do formato de texto.">
 <!ENTITY sendOptions.label "Opções de envio...">
-<!ENTITY sendOptions.accesskey "e">
+<!ENTITY sendOptions.accesskey "s">
+
 <!ENTITY attachmentReminder.label "Verificar por anexos esquecidos">
 <!ENTITY attachmentReminder.accesskey "f">
 <!ENTITY attachmentReminderOptions.label "Palavras-chave…">
-<!ENTITY attachmentReminderOptions.accesskey "h">
+<!ENTITY attachmentReminderOptions.accesskey "v">
