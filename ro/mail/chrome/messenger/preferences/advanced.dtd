@@ -17,7 +17,7 @@
 <!ENTITY storeType.label               "Tipul de stocare al mesajelor pentru conturile noi:">
 <!ENTITY storeType.accesskey           "T">
 <!ENTITY mboxStore.label               "Un fișier mare (mbox)">
-
+<!ENTITY maildirStore.label            "Fișier per mesaj (maildir)">
 
 <!ENTITY scrolling.label               "Derulare">
 <!ENTITY useAutoScroll.label           "Folosește derularea automată">
@@ -47,7 +47,7 @@
 <!ENTITY telemetryLearnMore.label        "Află mai multe">
 
 <!ENTITY crashReporterSection.label      "Raportor de probleme">
-<!ENTITY crashReporterDesc.label         "&brandShortName; trimite rapoarte de probleme pentru a ajuta &vendorShortName; ca să creeze clientul dumneavoastră de e-mail mai stabil și sigur">
+<!ENTITY crashReporterDesc.label         "&brandShortName; trimite rapoarte de probleme pentru a ajuta &vendorShortName; să facă clientul dumneavoastră de e-mail mai stabil și sigur">
 <!ENTITY enableCrashReporter.label       "Activează raportorul de probleme">
 <!ENTITY enableCrashReporter.accesskey   "c">
 <!ENTITY crashReporterLearnMore.label    "Află mai multe">
