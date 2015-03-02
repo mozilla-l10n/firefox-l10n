@@ -4,13 +4,13 @@
 <!-- extracted from am-addressing.xul -->
 
 
-<!ENTITY addressing.label          "Kompozisyon ve Adresler">
+<!ENTITY addressing.label          "Düzenleme ve Adresler">
 <!ENTITY addressingGroupTitle.label "Adresler">
 <!ENTITY addressingText.label      "Adreslere bakılırken:">
 <!-- LOCALIZATION NOTE (override.label) : do not translate "LDAP" in below line -->
-<!ENTITY useGlobal.label           "Bu hesap için global LDAP sunucu tercihlerimi  kullan">
+<!ENTITY useGlobal.label           "Bu hesap için küresel LDAP sunucu tercihlerimi kullan">
 <!ENTITY useGlobal.accesskey       "L">
-<!ENTITY editDirectories.label     "Dizinleri düzenle…">
+<!ENTITY editDirectories.label     "Dizinleri Düzenle…">
 <!ENTITY editDirectories.accesskey "e">
 <!-- LOCALIZATION NOTE (directories.label) : do not translate "LDAP" in below line -->
 <!ENTITY directories.label         "Farklı bir LDAP sunucusu kullan:">
@@ -19,7 +19,7 @@
 <!-- am-addressing.xul -->
 
 
-<!ENTITY compositionGroupTitle.label          "Kompozisyon">
+<!ENTITY compositionGroupTitle.label          "Düzenleme">
 <!-- LOCALIZATION NOTE (useHtml.label) : do not translate "html" in below line -->
 <!ENTITY useHtml.label                        "İletileri HTML biçiminde yaz">
 <!ENTITY useHtml.accesskey                    "H">
@@ -40,8 +40,8 @@
 <!ENTITY includeSigOnForward.label            "İletilenlere imza ekle">
 <!ENTITY includeSigOnForward.accesskey        "z">
 
-<!ENTITY globalComposingPrefs.label           "Genel kompozisyon tercihleri…">
+<!ENTITY globalComposingPrefs.label           "Genel Düzenlene Tercihleri…">
 <!ENTITY globalComposingPrefs.accesskey       "G">
 
-<!ENTITY globalAddressingPrefs.label          "Genel adres tercihleri…">
+<!ENTITY globalAddressingPrefs.label          "Genel Adres Tercihleri…">
 <!ENTITY globalAddressingPrefs.accesskey      "d">
