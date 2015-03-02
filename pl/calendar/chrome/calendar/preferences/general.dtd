@@ -24,6 +24,10 @@
 <!ENTITY pref.default_task_offset_start.label "względem rozpoczęcia">
 <!ENTITY pref.default_task_offset_next_hour.label "względem następnej godziny">
 
+<!ENTITY pref.calendar.todaypane.agenda.caption "Dzisiaj">
+<!ENTITY pref.soondays.label "Nadchodzące:">
+<!ENTITY pref.soondays.accesskey "N">
+
 <!ENTITY pref.accessibility.label   "Dostępność" >
 <!ENTITY pref.systemcolors.label    "Optymizuj kolory, by poprawić dostępność" >
 <!ENTITY pref.systemcolors.accesskey "k">
