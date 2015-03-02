@@ -3,6 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!-- extracted from am-server-top.xul -->
+
 <!ENTITY messageStorage.label "Armazenamento de mensagens">
 <!ENTITY securitySettings.label "Definições de segurança">
 <!ENTITY serverSettings.label "Definições do servidor">
@@ -41,7 +42,7 @@
 <!ENTITY deleteOnServer2.accesskey "A">
 <!ENTITY downloadOnBiff.label "Transferir novas mensagens automaticamente">
 <!ENTITY downloadOnBiff.accesskey	"r">
-<!ENTITY username.label "O nome de acesso">
+<!ENTITY username.label "Nome de acesso">
 <!ENTITY deleteMessagePrefix.label "Se eu eliminar uma mensagem:">
 <!ENTITY modelMoveToTrash.label "Mover para esta pasta:">
 <!ENTITY modelMoveToTrash.accesskey "o">
@@ -80,5 +81,10 @@
 <!ENTITY browseFolder.accesskey "P">
 <!ENTITY browseNewsrc.label "Procurar...">
 <!ENTITY browseNewsrc.accesskey "r">
+
 <!ENTITY accountTitle.label "Definições da conta">
 <!ENTITY accountSettingsDesc.label "Esta é uma conta especial. Não existem quaisquer identidades associadas.">
+<!ENTITY storeType.label "Tipo de armazenamento das mensagens:">
+<!ENTITY storeType.accesskey "T">
+<!ENTITY mboxStore.label "Uma caixa grande (mbox)">
+<!ENTITY maildirStore.label "Ficheiro por cada mensagem (maildir)">
