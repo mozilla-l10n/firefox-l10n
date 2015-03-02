@@ -34,8 +34,8 @@
 <!ENTITY pref.default_task_offset_next_hour.label "Cymharol â'r Awr Nesaf">
 
 <!ENTITY pref.calendar.todaypane.agenda.caption "Paen Heddiw">
-<!ENTITY pref.soondays.label "Mae'r adran i ddod yn dangos:">
-<!ENTITY pref.soondays.accesskey "d">
+
+
 
 <!ENTITY pref.accessibility.label "Hygyrchedd" >
 <!ENTITY pref.systemcolors.label "Mireinio lliwiau ar gyfer hygyrchedd" >
