@@ -14,7 +14,7 @@
 <!ENTITY releaseCmd2.accesskey             "I">
 <!ENTITY whatsNewCmd.label       "Najważniejsze zmiany w tej wersji">
 <!ENTITY whatsNewCmd.accesskey   "N">
-<!ENTITY openHelp.label          "Pomoc programu &brandShortName;">
+<!ENTITY openHelp.label "Pomoc Thunderbirda">
 <!ENTITY openHelp.accesskey      "P">
 <!ENTITY openHelp.commandkey     "VK_F1">
 <!ENTITY openHelpMac.label       "Pomoc programu &brandShortName;">
