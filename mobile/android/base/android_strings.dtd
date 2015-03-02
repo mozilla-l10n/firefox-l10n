@@ -123,7 +123,7 @@
 <!ENTITY pref_category_privacy_summary "Controlează parole, cookie-uri, urmărire, date">
 <!ENTITY pref_category_vendor "&vendorShortName;">
 <!ENTITY pref_category_vendor_summary "Despre &brandShortName;, întrebări frecvente, împărtășire de date">
-<!ENTITY pref_category_datareporting "Împărtășirea de date">
+<!ENTITY pref_category_datareporting "Împărtășire de date">
 <!ENTITY pref_learn_more "Află mai multe">
 <!ENTITY pref_category_installed_search_engines "Motoare de căutare instalate">
 <!ENTITY pref_category_add_search_providers "Adaugă mai multe motoare de căutare">
@@ -135,7 +135,7 @@
      search providers.
      The &formatI; in the string will be replaced by a small image of the icon described, and can be moved to wherever
      it is applicable. -->
-<!ENTITY pref_search_hint "PONT: Adaugă orice sait în lista motoarelor de căutare prin lunga apăsare pe câmpul de căutare de pe sait iar apoi apăsând iconița &formatI;.">
+<!ENTITY pref_search_hint "PONT: Adaugă orice sait în lista motoarelor de căutare prin lunga apăsare pe câmpul de căutare al acestuia iar apoi apăsând iconița &formatI;.">
 <!ENTITY pref_category_devtools "Unelte de dezvoltare">
 <!ENTITY pref_category_devtools_summary "Depanare de la distanță, vopsire intermitentă">
 <!ENTITY pref_developer_paint_flashing "Vopsire intermitentă">
@@ -195,8 +195,8 @@
 <!ENTITY pref_restore_always "Restaurează mereu">
 <!ENTITY pref_restore_quit "Nu restaura după ieșirea din &brandShortName;">
 <!ENTITY pref_font_size_tiny "Foarte mică">
-<!ENTITY pref_font_size_small "Mic">
-<!ENTITY pref_font_size_medium "Mediu">
+<!ENTITY pref_font_size_small "Mică">
+<!ENTITY pref_font_size_medium "Medie">
 <!ENTITY pref_font_size_large "Mare">
 <!ENTITY pref_font_size_xlarge "Foarte mare">
 <!ENTITY pref_font_size_set "Setează">
@@ -266,7 +266,7 @@ size. -->
 <!ENTITY datareporting_abouthr_title "Vezi raportul meu de stare">
 <!ENTITY datareporting_telemetry_title "Telemetrie">
 <!ENTITY datareporting_telemetry_summary "Împărtășește date privind performanța, consumul, hardware-ul și personalizările navigatorului cu &vendorShortName; pentru a ne ajuta să facem &brandShortName; mai bun">
-<!ENTITY datareporting_crashreporter_summary "&brandShortName; transmite rapoarte de defecte pentru a ajuta &vendorShortName; să facă navigatorul mai stabil și mai sigur">
+<!ENTITY datareporting_crashreporter_summary "&brandShortName; trimite rapoarte de defecte pentru a ajuta &vendorShortName; să facă navigatorul mai stabil și sigur">
 <!-- Localization note (datareporting_crashreporter_title_short) : This string matches
      (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
 <!ENTITY datareporting_crashreporter_title_short "Raportor de defecte">
