@@ -11,7 +11,7 @@
 <!ENTITY useDefault.accesskey             "R">
 
 <!ENTITY changeDockIconOptions.label      "Schimbă preferințele pentru pictograma aplicației">
-<!ENTITY dockOptions.label                "Opțiuni pentru iconița aplicației">
+<!ENTITY dockOptions.label                "Opțiuni pentru iconița aplicației…">
 <!ENTITY dockOptions.accesskey            "n">
 
 <!ENTITY newMessagesArrive.label          "Când sosesc noi mesaje:">

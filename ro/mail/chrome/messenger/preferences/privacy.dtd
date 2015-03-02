@@ -3,19 +3,23 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!-- Mail Content -->
 
+<!ENTITY captionMailContent.label "Conținutul mesajelor">
 
+<!ENTITY acceptRemoteContent.label "Permite conținutul de la distanță în mesaje">
+<!ENTITY acceptRemoteContent.accesskey "m">
 <!ENTITY remoteContentExceptions.label "Excepții…">
 <!ENTITY remoteContentExceptions.accesskey "x">
-
+<!ENTITY acceptRemoteContentInfo.label "Află mai multe despre problemele de confidențialitate ale conținutului de la distanță">
 <!-- Web Content -->
 
 <!ENTITY captionWebContent.label "Conținut web">
 
-
+<!ENTITY keepHistory.label "Reține saiturile și legăturile pe care le-am vizitat">
+<!ENTITY keepHistory.accesskey "R">
 <!ENTITY acceptCookies.label "Acceptă cookie-uri de la saituri">
 <!ENTITY acceptCookies.accesskey "c">
-
-
+<!ENTITY acceptThirdParty.pre.label "Acceptă cookie-uri terțe:">
+<!ENTITY acceptThirdParty.pre.accesskey "c">
 <!ENTITY acceptThirdParty.always.label "Întotdeauna">
 <!ENTITY acceptThirdParty.never.label "Niciodată">
 <!ENTITY acceptThirdParty.visited.label "De la saiturile vizitate">

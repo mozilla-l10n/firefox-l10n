@@ -4,13 +4,13 @@
 
 <!ENTITY offlineDialog.title "Setări pentru lucrul offline">
 
-<!ENTITY checkAutoDetect.label "Umăriți automat starea conexiunii detectate">
+<!ENTITY checkAutoDetect.label "Umăriți automat starea online detectată">
 <!ENTITY checkAutoDetect.accesskey "d">
 <!ENTITY titleStartUp "Starea manuală la pornire:">
 <!ENTITY radioRememberPrevState.label "Memorează starea online precedentă">
 <!ENTITY radioRememberPrevState.accesskey "r">
-
-
+<!ENTITY radioAskState.label "Întreabă-mă pentru starea online">
+<!ENTITY radioAskState.accesskey "k">
 <!ENTITY radioAlwaysOnlineState.label "Online">
 <!ENTITY radioAlwaysOnlineState.accesskey "l">
 <!ENTITY radioAlwaysOffline.label "Offline">
