@@ -1,12 +1,15 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY dockOptionsDialog.title               "Opțiuni pentru iconița aplicației">
 <!ENTITY window.macWidth                       "40em">
 
-
-
-
-
-
-
-
+<!ENTITY bounceSystemDockIcon.label            "Animează iconița aplicației când sosește un mesaj nou">
+<!ENTITY bounceSystemDockIcon.accesskey        "i">
+<!ENTITY newMessagesCountDock.label            "Număr de mesaje noi">
+<!ENTITY newMessagesCountDock.accesskey        "N">
+<!ENTITY showAllUnreadMessagesCount.label      "Număr de mesaje necitite">
+<!ENTITY showAllUnreadMessagesCount.accesskey  "u">
+<!ENTITY dockIconBadge.label                   "Insignă pentru iconița aplicației">
+<!ENTITY dockIconShow.label                    "Însemnează iconița aplicației cu:">

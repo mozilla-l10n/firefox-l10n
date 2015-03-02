@@ -30,8 +30,8 @@ sentence. -->
 
 <!ENTITY  chatSound.accesskey                 "d">
 <!ENTITY  chatSound.label                     "Redă un sunet">
-
-
+<!ENTITY  play.label                          "Redă">
+<!ENTITY  play.accesskey                      "R">
 <!ENTITY  systemSound.label                   "Sunetul de sistem implicit pentru mesaj nou">
 <!ENTITY  systemSound.accesskey               "S">
 <!ENTITY  customsound.label                   "Utilizează următorul fișier de sunet">

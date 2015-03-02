@@ -6,7 +6,8 @@
 <!ENTITY  window.width                    "38em">
 <!ENTITY  window.macWidth                 "41em">
 
-
+<!ENTITY  overridePageColors.label        "Înlocuiește culorile specificate de conținut cu selecțiile mele de mai sus:">
+<!ENTITY  overridePageColors.accesskey    "o">
 
 <!ENTITY  overridePageColors.always.label "Întotdeauna">
 <!ENTITY  overridePageColors.auto.label   "Numai cu teme cu contrast puternic">

@@ -11,8 +11,8 @@
 <!ENTITY useDefault.accesskey             "R">
 
 <!ENTITY changeDockIconOptions.label      "Schimbă preferințele pentru pictograma aplicației">
-
-
+<!ENTITY dockOptions.label                "Opțiuni pentru iconița aplicației">
+<!ENTITY dockOptions.accesskey            "n">
 
 <!ENTITY newMessagesArrive.label          "Când sosesc noi mesaje:">
 <!ENTITY playSound.label                  "Redă un sunet">
@@ -36,3 +36,4 @@
 <!ENTITY browse.label                     "Răsfoiește…">
 <!ENTITY browse.accesskey                 "R">
 
+<!ENTITY defaultSearchEngine.label        "Motorul de căutare implicit">
