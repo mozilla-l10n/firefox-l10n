@@ -9,7 +9,7 @@
 <!ENTITY chat.noConv.title             "Разговорите ще бъдат показвани тук.">
 <!ENTITY chat.noConv.description       "Използвайте списъка с контакти вляво, за да започнете разговор.">
 <!ENTITY chat.noPreviousConv.description       "&brandShortName; засега няма съхранени предишни разговори с този контакт.">
-<!ENTITY chat.noAccount.title             "Все още не сте задачи сметка за разговори.">
+<!ENTITY chat.noAccount.title             "Все още не сте създали регистрация за разговори.">
 <!ENTITY chat.noAccount.description       "Нека &brandShortName; ви насочва в процеса на задаване на вашата сметка за разговори.">
 <!ENTITY chat.accountWizard.button       "Започване">
 <!ENTITY chat.noConnectedAccount.title             "Няма връзка с вашите сметки за разговор.">

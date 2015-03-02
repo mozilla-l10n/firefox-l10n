@@ -22,7 +22,7 @@
 <!ENTITY radioNotSend.accesskey "Н">
 <!ENTITY radioAskUnsent.label "Запитване">
 <!ENTITY radioAskUnsent.accesskey "и">
-<!ENTITY textGoingOffline "Изтегляне на писмата за четене след разкачане?">
+<!ENTITY textGoingOffline "Изтегляне на писмата за четене когато сте извън мрежа?">
 <!ENTITY radioAutoDownload.label "Да">
 <!ENTITY radioAutoDownload.accesskey "а">
 <!ENTITY radioNotDownload.label "Не">
