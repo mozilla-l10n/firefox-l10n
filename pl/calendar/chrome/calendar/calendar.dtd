@@ -230,8 +230,12 @@
 <!ENTITY calendar.context.newserver.accesskey          "N">
 <!ENTITY calendar.context.findcalendar.label           "Znajdź kalendarz…" >
 <!ENTITY calendar.context.findcalendar.accesskey       "Z" >
-<!ENTITY calendar.context.deleteserver.label           "Usuń kalendarz">
-<!ENTITY calendar.context.deleteserver.accesskey       "U">
+<!ENTITY calendar.context.deleteserver2.label "Usuń kalendarz">
+<!ENTITY calendar.context.deleteserver2.accesskey "U">
+<!ENTITY calendar.context.removeserver.label "Usuń kalendarz…">
+<!ENTITY calendar.context.removeserver.accesskey "U">
+<!ENTITY calendar.context.unsubscribeserver.label "Zrezygnuj z subskrypcji kalendarza…">
+<!ENTITY calendar.context.unsubscribeserver.accesskey "Z">
 <!ENTITY calendar.context.synccalendars.label           "Synchronizuj kalendarze">
 <!ENTITY calendar.context.synccalendars.accesskey       "S">
 <!ENTITY calendar.context.publish.label                "Publikuj kalendarz…">

@@ -18,8 +18,12 @@
 <!ENTITY calendar.publish.label                 "Publikuj…">
 <!ENTITY calendar.publish.accesskey             "b">
 
-<!ENTITY calendar.deletecalendar.label          "Usuń wybrany kalendarz…">
-<!ENTITY calendar.deletecalendar.accesskey      "U">
+<!ENTITY calendar.deletecalendar.label "Usuń wybrany kalendarz…">
+<!ENTITY calendar.deletecalendar.accesskey "U">
+<!ENTITY calendar.unsubscribecalendar.label "Zrezygnuj z subskrypcji wybranego kalendarza…">
+<!ENTITY calendar.unsubscribecalendar.accesskey "Z">
+<!ENTITY calendar.removecalendar.label "Usuń wybrany kalendarz…">
+<!ENTITY calendar.removecalendar.accesskey "U">
 
 <!ENTITY calendar.menu.customize.label          "Dostosuj…">
 <!ENTITY calendar.menu.customize.accesskey      "D">
