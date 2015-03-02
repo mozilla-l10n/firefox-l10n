@@ -23,11 +23,11 @@ sentence. -->
 <!ENTITY  sendTyping.label              "Trimite notificări de tastare în conversații">
 <!ENTITY  sendTyping.accesskey          "T">
 
-
-
-
-
-
+<!ENTITY  desktopChatNotifications.label      "Arată o notificare:">
+<!ENTITY  desktopChatNotifications.accesskey  "c">
+<!ENTITY  completeNotification.label          "cu numele expeditorului și previzualizarea mesajului">
+<!ENTITY  buddyInfoOnly.label                 "cu numele expeditorului doar">
+<!ENTITY  dummyNotification.label             "fără nicio informație">
 <!ENTITY  chatSound.accesskey                 "d">
 <!ENTITY  chatSound.label                     "Redă un sunet">
 <!ENTITY  play.label                          "Redă">
