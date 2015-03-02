@@ -56,21 +56,21 @@ can reach it easily. -->
 
 <!ENTITY tabCmd.label "Нов подпрозорец">
 <!ENTITY tabCmd.accesskey "д">
-<!ENTITY tabCmd.commandkey "t">
+
 <!-- LOCALIZATION NOTE (openLocationCmd.label): "Open Location" is only
 displayed on OS X, and only on windows that aren't main browser windows, or
 when there are no windows but Firefox is still running. -->
 <!ENTITY openLocationCmd.label "Отваряне на адрес…">
 <!ENTITY openFileCmd.label "Отваряне на файл…">
 <!ENTITY openFileCmd.accesskey "ф">
-<!ENTITY openFileCmd.commandkey "o">
+
 <!ENTITY printSetupCmd.label "Настройка на страницата…">
 <!ENTITY printSetupCmd.accesskey "Н">
 <!ENTITY printPreviewCmd.label "Преглед преди отпечатване">
 <!ENTITY printPreviewCmd.accesskey "р">
 <!ENTITY printCmd.label "Отпечатване…">
 <!ENTITY printCmd.accesskey "п">
-<!ENTITY printCmd.commandkey "p">
+
 
 <!ENTITY goOfflineCmd.label "Работа извън мрежата">
 <!ENTITY goOfflineCmd.accesskey "Р">
@@ -90,10 +90,12 @@ when there are no windows but Firefox is still running. -->
 
 <!ENTITY pageSourceCmd.label "Изходен код на страницата">
 <!ENTITY pageSourceCmd.accesskey "к">
-<!ENTITY pageSourceCmd.commandkey "u">
+
 <!ENTITY pageInfoCmd.label "Информация за страницата">
 <!ENTITY pageInfoCmd.accesskey "И">
-<!ENTITY pageInfoCmd.commandkey "i">
+
+
+
 <!-- LOCALIZATION NOTE (enterFullScreenCmd.label, exitFullScreenCmd.label):
 These should match what Safari and other Apple applications use on OS X Lion. -->
 <!ENTITY enterFullScreenCmd.label "Влизане в режим на цял екран">
@@ -102,7 +104,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY exitFullScreenCmd.accesskey "ц">
 <!ENTITY fullScreenCmd.label "Цял екран">
 <!ENTITY fullScreenCmd.accesskey "Ц">
-<!ENTITY fullScreenCmd.macCommandKey "f">
+
 <!ENTITY showAllTabsCmd.label "Покажи всички подпрозорци">
 <!ENTITY showAllTabsCmd.accesskey "д">
 
@@ -137,13 +139,13 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksMenu.accesskey "О">
 <!ENTITY bookmarkThisPageCmd.label "Отмятане на тази страница">
 <!ENTITY editThisBookmarkCmd.label "Редактиране на отметката">
-<!ENTITY bookmarkThisPageCmd.commandkey "d">
-<!ENTITY markPageCmd.commandkey "l">
+
+
 <!-- LOCALIZATION NOTE (findShareServices.label):
   -  Use the unicode ellipsis char, \u2026,
   -  or use "..." if \u2026 doesn't suit traditions in your locale. -->
 <!ENTITY sharePageCmd.label "Споделяне на тази страница">
-<!ENTITY sharePageCmd.commandkey "S">
+
 <!ENTITY sharePageCmd.accesskey "С">
 <!-- LOCALIZATION NOTE (shareLink.accesskey): must be different than the following share access keys -->
 
@@ -170,7 +172,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY reloadCmd.label              "Презареждане">
 <!ENTITY reloadButton.tooltip         "Презареждане на текущата страница">
 <!ENTITY stopCmd.label                "Спиране">
-<!ENTITY stopCmd.macCommandKey        ".">
+
 <!ENTITY stopButton.tooltip           "Спиране зареждането на тази страница">
 <!ENTITY goEndCap.tooltip             "Зареждане на адреса в полето">
 <!ENTITY printButton.label            "Отпечатване">
@@ -185,21 +187,18 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY tabGroupsButton.label        "Групи подпрозорци">
 
 <!ENTITY bookmarksButton.label          "Отметки">
-<!ENTITY bookmarksCmd.commandkey "b">
 
-<!ENTITY bookmarksMenuButton.label          "Отметки">
-<!ENTITY bookmarksMenuButton.unsorted.label "Несортирани отметки">
+
+
 <!ENTITY viewBookmarksSidebar2.label        "Показване на страничното поле с отметки">
 <!ENTITY viewBookmarksToolbar.label         "Показване на лентата с отметки">
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
   -  key should not contain the letters A-F, since these are reserved
   -  shortcut keys on Linux. -->
 
-<!ENTITY bookmarksGtkCmd.commandkey "o">
-<!ENTITY bookmarksWinCmd.commandkey "i">
 
 <!ENTITY historyButton.label            "История">
-<!ENTITY historySidebarCmd.commandKey   "h">
+
 
 <!ENTITY toolsMenu.label              "Инструменти">
 <!ENTITY toolsMenu.accesskey          "И"> 
@@ -209,11 +208,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY downloads.label              "Изтегляния">
 <!ENTITY downloads.accesskey          "т">
-<!ENTITY downloads.commandkey         "j">
-<!ENTITY downloadsUnix.commandkey     "y">
+
+
 <!ENTITY addons.label                 "Добавки">
 <!ENTITY addons.accesskey             "Д">
-<!ENTITY addons.commandkey            "A">
+
 
 
 
@@ -232,11 +231,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY remoteWebConsoleCmd.label    "Отдалечена Уеб конзола">
 
 <!ENTITY browserConsoleCmd.label      "Конзола на браузъра">
-<!ENTITY browserConsoleCmd.commandkey "j">
+
 <!ENTITY browserConsoleCmd.accesskey  "К">
 
 <!ENTITY inspectContextMenu.label     "Изследване на елемент">
-<!ENTITY inspectContextMenu.accesskey "И">
+
 
 <!ENTITY responsiveDesignTool.label   "Изглед на нагаждащ се дизайн">
 <!ENTITY responsiveDesignTool.accesskey "н">
@@ -281,7 +280,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY devToolbar.keytext                "F2">
 <!ENTITY devToolboxMenuItem.label          "Активиране на инструментите">
 <!ENTITY devToolboxMenuItem.accesskey      "А">
-<!ENTITY devToolboxMenuItem.keytext        "I">
+
 
 <!ENTITY devToolbarToolsButton.tooltip     "Активирне на инструментите за разработчици">
 <!ENTITY devToolbarOtherToolsButton.label  "Още инструменти">
@@ -292,7 +291,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fileMenu.label         "Файл"> 
 <!ENTITY fileMenu.accesskey       "Ф">
 <!ENTITY newNavigatorCmd.label        "Нов прозорец">
-<!ENTITY newNavigatorCmd.key        "N">
+
 <!ENTITY newNavigatorCmd.accesskey      "п">
 <!ENTITY newPrivateWindow.label     "Нов прозорец за поверително сърфиране">
 <!ENTITY newPrivateWindow.accesskey "с">
@@ -300,25 +299,25 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY editMenu.label         "Редактиране"> 
 <!ENTITY editMenu.accesskey       "Р"> 
 <!ENTITY undoCmd.label            "Отмяна">  
-<!ENTITY undoCmd.key            "Z">  
+
 <!ENTITY undoCmd.accesskey          "О"> 
 <!ENTITY redoCmd.label            "Повторение">  
-<!ENTITY redoCmd.key            "Y">  
+
 <!ENTITY redoCmd.accesskey          "в"> 
 <!ENTITY cutCmd.label           "Изрязване">  
-<!ENTITY cutCmd.key             "X">  
+
 <!ENTITY cutCmd.accesskey         "р"> 
 <!ENTITY copyCmd.label            "Копиране">  
-<!ENTITY copyCmd.key            "C">  
+
 <!ENTITY copyCmd.accesskey          "К"> 
 <!ENTITY pasteCmd.label           "Поставяне">  
-<!ENTITY pasteCmd.key           "V">  
+
 <!ENTITY pasteCmd.accesskey         "с"> 
 <!ENTITY deleteCmd.label          "Изтриване">  
-<!ENTITY deleteCmd.key            "D">  
+
 <!ENTITY deleteCmd.accesskey        "з"> 
 <!ENTITY selectAllCmd.label         "Маркиране на всичко">  
-<!ENTITY selectAllCmd.key         "A">  
+
 <!ENTITY selectAllCmd.accesskey       "ч"> 
 <!ENTITY preferencesCmd2.label       "Настройки">
 <!ENTITY preferencesCmd2.accesskey     "Н">
@@ -327,7 +326,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY clearRecentHistory.label               "Изчистване на скорошна история…">
 
-<!ENTITY privateBrowsingCmd.commandkey          "P">
 
 <!ENTITY viewMenu.label         "Изглед"> 
 <!ENTITY viewMenu.accesskey       "И"> 
@@ -348,16 +346,16 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY historyRestoreLastSession.label "Възстановяване на предишната сесия">
 
 <!ENTITY showAllHistoryCmd2.label "Цялата история">
-<!ENTITY showAllHistoryCmd.commandkey "H">
+
 
 <!ENTITY appMenuCustomize.label "Персонализиране">
 <!ENTITY appMenuCustomize.tooltip "Персонализиране на менюто и лентите с инструменти">
 <!ENTITY appMenuCustomizeExit.label "Изход от персонализирането">
 <!ENTITY appMenuCustomizeExit.tooltip "Край на персонализирането">
-<!ENTITY appMenuHistory.label "История">
-<!ENTITY appMenuHistory.showAll.label "Цялата история">
-<!ENTITY appMenuHistory.clearRecent.label "Изчистване на скорошна история…">
-<!ENTITY appMenuHistory.restoreSession.label "Възстановяване на предишната сесия">
+
+
+
+
 <!ENTITY appMenuHistory.viewSidebar.label "Показване на страничното поле с история">
 <!ENTITY appMenuHelp.tooltip "Отваряне на меню с помощ">
 
@@ -381,9 +379,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY customizeMenu.addMoreItems.label "Добавяне на още елементи…">
 <!ENTITY customizeMenu.addMoreItems.accesskey "Д">
 
-<!ENTITY openCmd.commandkey           "l">
 <!ENTITY urlbar.placeholder2          "Търсене или въвеждане на адрес">
-<!ENTITY urlbar.accesskey             "Т">
+
 <!ENTITY urlbar.switchToTab.label     "Превключване към подпрозорец:">
 <!-- 
   Comment duplicated from browser-sets.inc:
@@ -406,16 +403,19 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
  -->
 
-<!ENTITY searchFocus.commandkey       "k">
-<!ENTITY searchFocus.commandkey2      "e">
-<!ENTITY searchFocusUnix.commandkey   "j">
+
 <!-- LOCALIZATION NOTE (searchFor.label, searchWith.label):
      These two strings are used to build the header above the list of one-click
      search providers:  "Search for <used typed keywords> with:" -->
 
+<!-- LOCALIZATION NOTE (searchWithHeader.label):
+     The wording of this string should be as close as possible to
+     searchFor.label and searchWith.label. This string will be used instead of
+     them when the user has not typed any keyword. -->
+<!-- LOCALIZATION NOTE (changeSearchSettings.button):
+     This string won't wrap, so if the translated string is longer,
+     consider translating it as if it said only "Search Settings". -->
 
-
-<!ENTITY tabView.commandkey           "e">
 
 <!ENTITY openLinkCmdInTab.label       "Отваряне в нов подпрозорец">
 <!ENTITY openLinkCmdInTab.accesskey   "д">
@@ -431,14 +431,13 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openFrameCmd.accesskey       "п">
 <!ENTITY showOnlyThisFrameCmd.label     "Показване само на тази рамка">
 <!ENTITY showOnlyThisFrameCmd.accesskey "р">
-<!ENTITY reloadCmd.commandkey         "r">
+
 <!ENTITY reloadFrameCmd.label         "Презареждане на рамката">
 <!ENTITY reloadFrameCmd.accesskey     "з">
 <!ENTITY viewPartialSourceForSelectionCmd.label "Изходен код на маркираното">
 <!ENTITY viewPartialSourceForMathMLCmd.label    "MathML код">
 <!-- LOCALIZATION NOTE (viewPartialSourceCmd.accesskey): This accesskey is used for both 
          viewPartialSourceForSelectionCmd.label and viewPartialSourceForMathMLCmd.label -->
-<!ENTITY viewPartialSourceCmd.accesskey "к">
 <!ENTITY viewPageSourceCmd.label      "Изходен код на страницата">
 <!ENTITY viewPageSourceCmd.accesskey  "к">
 <!ENTITY viewFrameSourceCmd.label     "Изходен код на рамката">
@@ -461,7 +460,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewBGImageCmd.accesskey     "ф">
 <!ENTITY setDesktopBackgroundCmd.label      "Поставяне като фон на работния плот…">
 <!ENTITY setDesktopBackgroundCmd.accesskey  "П">
-<!ENTITY bookmarkPageCmd2.label       "Отмятане на тази страница">
+
 <!ENTITY bookmarkThisLinkCmd.label      "Отмятане на тази връзка">
 <!ENTITY bookmarkThisLinkCmd.accesskey  "ъ">
 <!ENTITY bookmarkThisFrameCmd.label      "Отмятане на тази рамка">
@@ -471,8 +470,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY savePageCmd.label            "Запис на страницата като…">
 <!ENTITY savePageCmd.accesskey        "к">
 <!-- alternate for content area context menu -->
-<!ENTITY savePageCmd.accesskey2       "к">
-<!ENTITY savePageCmd.commandkey       "s">
+
 <!ENTITY saveFrameCmd.label           "Запис на рамката като…">
 <!ENTITY saveFrameCmd.accesskey       "р">
 <!ENTITY printFrameCmd.label          "Отпечатване на рамката…">
@@ -547,8 +545,8 @@ items are mutually exclusive. -->
 <!ENTITY mediaShowControls.accesskey "к">
 <!ENTITY mediaHideControls.label     "Скриване на копчетата">
 <!ENTITY mediaHideControls.accesskey "к">
-<!ENTITY videoFullScreen.label       "Цял екран">
-<!ENTITY videoFullScreen.accesskey   "Ц">
+
+
 <!ENTITY videoSaveImage.label        "Запис на снимката като…">
 <!ENTITY videoSaveImage.accesskey    "с">
 <!-- LOCALIZATION NOTE: The access keys for "Show Statistics" and
@@ -567,19 +565,18 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY fullZoomEnlargeCmd.label       "Увеличаване">
 <!ENTITY fullZoomEnlargeCmd.accesskey   "У">
-<!ENTITY fullZoomEnlargeCmd.commandkey  "+">
+
 <!-- + is above this key on many keyboards -->
-<!ENTITY fullZoomEnlargeCmd.commandkey2 "="> 
 <!ENTITY fullZoomEnlargeCmd.commandkey3 "">
 
 <!ENTITY fullZoomReduceCmd.label        "Намаляване">
 <!ENTITY fullZoomReduceCmd.accesskey    "м">
-<!ENTITY fullZoomReduceCmd.commandkey   "-">
+
 <!ENTITY fullZoomReduceCmd.commandkey2  "">
 
 <!ENTITY fullZoomResetCmd.label         "Оригинал">
 <!ENTITY fullZoomResetCmd.accesskey     "О">
-<!ENTITY fullZoomResetCmd.commandkey    "0">
+
 <!ENTITY fullZoomResetCmd.commandkey2   "">
 
 <!ENTITY fullZoomToggleCmd.label        "Само на текста">
@@ -589,16 +586,15 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY sidebarCloseButton.tooltip     "Затваряне на страничната лента">
 
-<!ENTITY quitApplicationCmdWin.label       "Изход"> 
-<!ENTITY quitApplicationCmdWin.accesskey   "х">
-<!ENTITY quitApplicationCmdWin.tooltip     "Изход от &brandShortName;">
-<!ENTITY goBackCmd.commandKey "[">
-<!ENTITY goForwardCmd.commandKey "]">
+<!ENTITY quitApplicationCmdWin2.label       "Изход">
+<!ENTITY quitApplicationCmdWin2.accesskey   "х">
+
+
+
 <!ENTITY quitApplicationCmd.label       "Изход"> 
 <!ENTITY quitApplicationCmd.accesskey   "х">
-<!ENTITY quitApplicationCmdMac.label    "Изход от &brandShortName;">
+
 <!-- LOCALIZATION NOTE(quitApplicationCmdUnix.key): This keyboard shortcut is used by both Linux and OSX builds. -->
-<!ENTITY quitApplicationCmdUnix.key     "Q">
 
 <!ENTITY closeCmd.label                 "Затваряне">  
 
@@ -613,36 +609,35 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY pageReportIcon.tooltip            "Промяна на настройките за блокиране на изскачащи прозорци">
 
-<!ENTITY allowPopups.accesskey "Р">
 <!-- On Windows we use the term "Options" to describe settings, but
      on Linux and Mac OS X we use "Preferences" - carry that distinction
      over into this string, which is used in the "popup blocked" info bar . -->
 <!ENTITY editPopupSettingsUnix.label "Настройки за блокирането на изскачащи прозорци…">
 <!ENTITY editPopupSettings.label "Настройки за блокирането на изскачащи прозорци…">
 <!ENTITY editPopupSettings.accesskey "Н">
-<!ENTITY dontShowMessage.accesskey "с">
+
 
 <!ENTITY bidiSwitchPageDirectionItem.label        "Превключване посоката на страницата">
 <!ENTITY bidiSwitchPageDirectionItem.accesskey    "П">
 <!ENTITY bidiSwitchTextDirectionItem.label        "Превключване посоката на текста">
 <!ENTITY bidiSwitchTextDirectionItem.accesskey    "р">
-<!ENTITY bidiSwitchTextDirectionItem.commandkey   "X">
+
 
 <!ENTITY findOnCmd.label     "Търсене в страницата…">
 <!ENTITY findOnCmd.accesskey "Т">
-<!ENTITY findOnCmd.commandkey "f">
+
 <!ENTITY findAgainCmd.label  "Търсене отново">
 <!ENTITY findAgainCmd.accesskey "о">
-<!ENTITY findAgainCmd.commandkey "g">
+
 <!ENTITY findAgainCmd.commandkey2 "VK_F3">
-<!ENTITY findSelectionCmd.commandkey "e">
+
 
 <!ENTITY spellAddDictionaries.label "Добавяне на речници…">
 <!ENTITY spellAddDictionaries.accesskey "р">
 
 <!ENTITY editBookmark.done.label                     "Готово">
 <!ENTITY editBookmark.cancel.label                   "Отказ">
-<!ENTITY editBookmark.removeBookmark.accessKey       "П">
+
 
 <!ENTITY identity.unverifiedsite2 "Сайтът не предоставя информация за себе си.">
 <!ENTITY identity.connectedTo "Свързани сте с">
@@ -678,12 +673,12 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY syncBrand.shortName.label    "Sync">
 
 <!ENTITY syncSetup.label              "Начална настройка на &syncBrand.shortName.label;…">
-<!ENTITY syncSetup.accesskey          "Н">
+
 <!ENTITY syncSyncNowItem.label        "Синхронизиране сега">
 <!ENTITY syncSyncNowItem.accesskey    "С">
 <!ENTITY syncReAuthItem.label         "Свързване наново с &syncBrand.shortName.label;…">
 <!ENTITY syncReAuthItem.accesskey     "С">
-<!ENTITY syncToolbarButton.label      "Sync">
+
 
 <!ENTITY socialToolbar.title        "Бутон за социални мрежи">
 
@@ -726,7 +721,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 
 
-<!ENTITY social.chatBar.commandkey "c">
 <!ENTITY social.chatBar.label "Акцентиране върху графиката">
 <!ENTITY social.chatBar.accesskey "ц">
 
@@ -778,12 +772,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY pluginNotification.width "28em">
 
-<!ENTITY tabCrashed.header "Подпрозорецът се срина">
-<!ENTITY tabCrashed.message "Това вече е затрудняващо. Опитахме се да покажем уебстраницата, но тя не отговаря.">
-<!ENTITY tabCrashed.checkSendReport "Кажете на &vendorShortName; за срива, за да могат да го поправят.">
-<!ENTITY tabCrashed.tryAgain "Опит отново">
-
-<!ENTITY uiTour.infoPanel.close "Затваряне">
 
 <!ENTITY appMenuSidebars.label         "Странични ленти">
 
@@ -808,4 +796,25 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- Pre-landed string for bug 1124153 -->
+<!-- Pre-landed string for bug 1133662 -->
+<!-- Pre-landed string for bug 1123525 -->
+<!-- Pre-landed strings for bug 1123519 -->
 

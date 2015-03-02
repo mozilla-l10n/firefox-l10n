@@ -17,9 +17,5 @@
 <!ENTITY optionRTL.label "Посока отдясно наляво">
 <!ENTITY optionRTL.accesskey "д">
 
-<!ENTITY example.label "Пример:">
-<!-- LOCALIZATION NOTE (exampleText.label): DONT_TRANSLATE. This is a LaTeX example. -->
-<!ENTITY exampleText.label "\sqrt{x_1} + \frac{π^3}{2}">
-
 <!ENTITY insertButton.label "Вмъкване">
 <!ENTITY insertButton.accesskey "В">

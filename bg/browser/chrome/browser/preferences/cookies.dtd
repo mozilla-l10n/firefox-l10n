@@ -7,11 +7,12 @@
 <!ENTITY     cookiesonsystem.label          "Следните бисквитки са съхранени в компютъра:">
 <!ENTITY     cookiename.label               "Име на бисквитка">
 <!ENTITY     cookiedomain.label             "Сайт"> 
-<!ENTITY     button.removecookies.label     "Премахване на бисквитки">
-<!ENTITY     button.removecookie.label      "Премахване на бисквитка">
-<!ENTITY     button.removecookie.accesskey  "б">
-<!ENTITY     button.removeallcookies.label  "Премахване на всички бисквитки">
-<!ENTITY     button.removeallcookies.accesskey "в">
+<!-- LOCALIZATION NOTE (button.removeSelectedCookies.accesskey):
+  The label associated with this accesskey can be found in 
+  preferences.properties as removeSelectedCookies.
+-->
+<!ENTITY     button.removeAllCookies.label "Премахване на всички">
+<!ENTITY     button.removeAllCookies.accesskey "в">
 
 <!ENTITY     props.name.label               "Име:">
 <!ENTITY     props.value.label              "Съдържание:">

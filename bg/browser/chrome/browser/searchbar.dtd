@@ -4,11 +4,3 @@
 
 <!ENTITY cmd_engineManager.label        "Управление на търсачките…">
 <!ENTITY searchEndCap.label             "Търсене">
-<!-- LOCALIZATION NOTE: The SearchHighlight strings are used in the
-   - UITour popups that shows on first use of the new search panel. -->
-
-
-
-
-<!ENTITY SearchHighlightNext "Напред">
-

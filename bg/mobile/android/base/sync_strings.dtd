@@ -103,6 +103,8 @@
      etc).  The account remains a "Firefox Account". -->
 
 
+
+
 <!-- Localization note: &formatS1; is fxaccount_policy_linktos, &formatS2; is fxaccount_policy_linkprivacy, both hyperlinked. -->
 
 
@@ -114,6 +116,14 @@
 
 
 <!-- Localization note: &formatS; is the Firefox Account's email address. -->
+
+
+
+
+
+
+
+
 
 
 
@@ -177,6 +187,10 @@
 
 
 
+
+
+<!-- Localization note: the format string below will be replaced
+     with the Firefox Account's email address. -->
 
 <!-- Localization note: the format string below will be replaced
      with the Firefox Account's email address. -->

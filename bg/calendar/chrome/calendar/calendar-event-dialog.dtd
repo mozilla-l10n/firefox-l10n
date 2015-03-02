@@ -306,6 +306,7 @@
 <!ENTITY event.recurrence.pattern.yearly.week.5.label        "Четвъртък" >
 <!ENTITY event.recurrence.pattern.yearly.week.6.label        "Петък" >
 <!ENTITY event.recurrence.pattern.yearly.week.7.label        "Събота" >
+
 <!ENTITY event.recurrence.of.label                           "на" >
 <!ENTITY event.recurrence.pattern.yearly.month2.1.label      "Януари" >
 <!ENTITY event.recurrence.pattern.yearly.month2.2.label      "Февруари" >

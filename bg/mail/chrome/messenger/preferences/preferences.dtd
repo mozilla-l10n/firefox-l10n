@@ -4,6 +4,7 @@
 
 <!ENTITY  prefWindow.titleWin     "Настройки">
 <!ENTITY  prefWindow.titleGNOME   "&brandShortName; настройки">
+<!ENTITY  prefWindow.titleMAC     "Настройки">
 <!ENTITY  prefWindow.styleWindows "width: 60em; min-height: 38em;">
 
 <!ENTITY  prefWindow.styleGNOME   "width: 60em; min-height: 38em;">
@@ -16,3 +17,6 @@
 <!ENTITY panePrivacy.title        "Лични данни">
 <!ENTITY paneSecurity.title       "Защита">
 <!ENTITY paneAdvanced.title       "Разширени">
+<!ENTITY paneAccount.title        "Регистрации">
+
+
