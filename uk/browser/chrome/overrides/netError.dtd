@@ -194,7 +194,7 @@ functionality specific to firefox. -->
 ">
 
 <!ENTITY errorReporting.title "Повідомити про цю помилку">
-<!ENTITY errorReporting.longDesc "Повідомлення адреси та інформації сертифікату для <span id='hostname'></span> допоможе нам визначити та заблокувати небезпечні сайти. Дякуємо за допомогу в створенні безпечної мережі!">
+<!ENTITY errorReporting.longDesc "Повідомлення адреси та інформації сертифіката для <span id='hostname'></span> допоможе нам визначити та заблокувати небезпечні сайти. Дякуємо за допомогу в створенні безпечної мережі!">
 <!ENTITY errorReporting.automatic "Надалі повідомляти про помилки автоматично">
 <!ENTITY errorReporting.learnMore "Докладніше…">
 <!ENTITY errorReporting.sending "Відправлення звіту">
