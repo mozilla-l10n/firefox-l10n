@@ -34,8 +34,8 @@
 <!ENTITY healthReportLearnMore.label     "Dalšne informacije">
 
 <!ENTITY telemetryDesc.label             "Źěli wugbaśe, wužyśe, hardware a pśiměrjenja wašogo wobglědowaka z &vendorShortName;, aby nam pomagała, &brandShortName; pólěpšyś">
-
-
+<!ENTITY enableTelemetryData.label       "Pśidatne daty źěliś (na pś. telemetriju)">
+<!ENTITY enableTelemetryData.accesskey   "t">
 <!ENTITY telemetryLearnMore.label        "Dalšne informacije">
 
 <!ENTITY crashReporterDesc.label         "&brandShortName; pósrědnja rozpšawy wówalenja, aby &vendorShortName; pomagał, waš wobglědowak stabilnjejšy a wěsćejšy cynił">

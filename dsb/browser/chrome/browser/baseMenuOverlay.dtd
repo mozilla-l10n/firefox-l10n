@@ -35,14 +35,16 @@
 <!ENTITY helpFeedbackPage.label      "Pósudk pósłaś…">
 <!ENTITY helpFeedbackPage.accesskey  "P">
 
-
+<!ENTITY helpShowTour2.label            "&brandShorterName; - Tura">
+<!ENTITY helpShowTour2.accesskey        "T">
 
 <!ENTITY preferencesCmdMac.label        "Nastajenja…">
 <!ENTITY preferencesCmdMac.commandkey   ",">
 
 <!ENTITY servicesMenuMac.label          "Słužby">
 
-
+<!ENTITY hideThisAppCmdMac2.label       "&brandShorterName;Name; schowaś">
+<!ENTITY hideThisAppCmdMac2.commandkey  "H">
 
 <!ENTITY hideOtherAppsCmdMac.label      "Druge schowaś">
 <!ENTITY hideOtherAppsCmdMac.commandkey "H">
