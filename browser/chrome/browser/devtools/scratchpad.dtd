@@ -53,9 +53,11 @@
 <!ENTITY viewMenu.label               "มุมมอง">
 <!ENTITY viewMenu.accesskey           "ม">
 
+<!ENTITY lineNumbers.label             "แสดงหมายเลขบรรทัด">
+<!ENTITY lineNumbers.accesskey         "ล">
 
-
-
+<!ENTITY wordWrap.label                "ตัดคำข้อความ">
+<!ENTITY wordWrap.accesskey            "ต">
 
 
 
