@@ -48,7 +48,7 @@
 
 <!ENTITY certmgr.certname                     "Nume certificat">
 <!ENTITY certmgr.certserver                   "Server">
-<!ENTITY certmgr.override_lifetime            "Timp de viață">
+<!ENTITY certmgr.override_lifetime            "Durată de viață">
 <!ENTITY certmgr.tokenname                    "Dispozitiv de securitate">
 <!ENTITY certmgr.begins                       "Începe la">
 <!ENTITY certmgr.expires                      "Expiră la">
