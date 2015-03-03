@@ -41,7 +41,7 @@
 <!ENTITY helpus.donateLink          "Nika  isipho">
 <!ENTITY helpus.middle              " okanye ">
 <!-- LOCALIZATION NOTE (helpus.getInvolvedLink): This is a link title that links to http://www.mozilla.org/contribute/. -->
-<!ENTITY helpus.getInvolvedLink     "Zibandakanye!">
+<!ENTITY helpus.getInvolvedLink     "zibandakanye!">
 <!ENTITY helpus.end                 "">
 <!-- LOCALIZATION NOTE (bottomLinks.license): This is a link title that links to about:license. -->
 
@@ -101,5 +101,5 @@
      channel.description.end create one sentence, with the current channel label inserted in between.
      example: You are currently on the _Stable_ update channel. -->
 
-<!ENTITY channel.description.start  "Ngoku ukwi">
+<!ENTITY channel.description.start  "Ngoku ukwi ">
 <!ENTITY channel.description.end    " ukwitshaneli yohlaziyo. ">
