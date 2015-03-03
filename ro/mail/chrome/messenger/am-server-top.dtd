@@ -87,4 +87,4 @@
 <!ENTITY storeType.label "Tipul de stocare al mesajelor:">
 <!ENTITY storeType.accesskey "T">
 <!ENTITY mboxStore.label "Un fișier mare (mbox)">
-<!ENTITY maildirStore.label "Fișier per mesaj (maildir)">
+<!ENTITY maildirStore.label "Fișiere per mesaj (maildir)">
