@@ -145,6 +145,8 @@
 <!ENTITY messagePaneVertical.accesskey "U">
 <!ENTITY showFolderPaneCmd.label "Folder Pane">
 <!ENTITY showFolderPaneCmd.accesskey "F">
+<!ENTITY showFolderPaneColsCmd.label "Folder Pane Columns">
+<!ENTITY showFolderPaneColsCmd.accesskey "P">
 <!ENTITY showMessageCmd.label "Isahlulo Sefestile Yomyalezo">
 <!ENTITY showMessageCmd.accesskey "Y">
 
@@ -593,7 +595,9 @@
 <!ENTITY manageTags.accesskey "M">
 <!-- Folder Pane -->
 
-<!ENTITY folderColumn.label "Igama">
+<!ENTITY folderNameColumn.label "Name">
+<!ENTITY folderUnreadColumn.label "Unread">
+<!ENTITY folderTotalColumn.label "Total">
 <!ENTITY folderSizeColumn.label "Ubukhulu">
 <!-- Folder Pane Context Menu -->
 

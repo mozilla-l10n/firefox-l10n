@@ -15,6 +15,8 @@
 
 <!ENTITY engine.bookmarks.label           "Izalathisi eziphawulayo">
 <!ENTITY engine.bookmarks.accesskey       "e">
+
+
 <!ENTITY engine.history.label             "Imbali">
 <!ENTITY engine.history.accesskey         "l">
 <!ENTITY engine.tabs.label                "Iithebhu">

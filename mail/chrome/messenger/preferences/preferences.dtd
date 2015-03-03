@@ -17,3 +17,7 @@
 <!ENTITY panePrivacy.title        "Okwabucala">
 <!ENTITY paneSecurity.title       "Security">
 <!ENTITY paneAdvanced.title       "Kwinqanaba eseliphambili">
+<!ENTITY paneAccount.title        "Accounts">
+
+<!ENTITY okButton.title           "OK">
+<!ENTITY okButton.accesskey       "O">

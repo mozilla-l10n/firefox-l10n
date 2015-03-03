@@ -3,8 +3,9 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY addressbookWindow.title                        "Incwadi Yeedilesi">
+<!ENTITY blankResultsPaneMessage.label                  "This address book shows contacts only after a search">
+<!ENTITY localResultsOnlyMessage.label                  "Contacts from remote address books are not shown until you search">
 <!-- File Menu -->
-
 <!ENTITY fileMenu.label                                 "Ifayili">
 <!ENTITY fileMenu.accesskey                             "I">
 <!ENTITY newMenu.label                                  "Okutsha">
@@ -160,6 +161,8 @@ because displayed names don't have the comma in between. -->
 <!ENTITY searchItem.title "Uzingelo Olukhawulezileyo">
 <!-- Results Pane -->
 
+<!ENTITY Addrbook.label                                 "Address Book">
+<!ENTITY Addrbook.accesskey                             "B">
 <!ENTITY GeneratedName.label                            "Igama">
 <!ENTITY GeneratedName.accesskey                        "I">
 <!ENTITY PrimaryEmail.label                             "Imeyile">

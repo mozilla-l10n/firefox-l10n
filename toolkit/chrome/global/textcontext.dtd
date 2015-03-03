@@ -24,3 +24,5 @@
 <!ENTITY spellNoSuggestions.label "(Akukho zingcamango zopelo)">
 <!ENTITY spellDictionaries.label "Iilwimi">
 <!ENTITY spellDictionaries.accesskey "I">
+
+<!ENTITY searchTextBox.clear.label "Sula">
