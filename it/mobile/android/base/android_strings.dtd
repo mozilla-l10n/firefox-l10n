@@ -95,7 +95,9 @@
 <!ENTITY pref_category_devtools_summary "Debug remoto, evidenziazione aree disegnate">
 <!ENTITY pref_developer_paint_flashing "Evidenzia aree disegnate">
 <!ENTITY pref_developer_remotedebugging "Debug remoto">
+<!ENTITY pref_category_logins "Accessi">
 <!ENTITY pref_remember_signons "Ricorda password">
+<!ENTITY pref_manage_logins "Gestione accessi">
 <!ENTITY pref_category_home "Home">
 <!ENTITY pref_category_home_summary "Personalizza la pagina iniziale">
 <!ENTITY pref_category_home_panels "Pannelli">
