@@ -6,10 +6,11 @@
 <!ENTITY  window.width                    "37em">
 <!ENTITY  window.macWidth                 "41em">
 
-
+<!ENTITY  overridePageColors.label        "បដិសេធ​ពណ៌​ដែល​បាន​បញ្ជាក់​ដោយ​មាតិកា​ជាមួយ​ជម្រើស​របស់​ខ្ញុំ​ខាង​លើ៖">
+<!ENTITY  overridePageColors.accesskey    "ប">
 
 <!ENTITY  overridePageColors.always.label "ជានិច្ច">
-
+<!ENTITY  overridePageColors.auto.label   "ជាមួួ​រូបរាង​កម្រិត​ពណ៌​ខ្ពស់​តែប៉ុណ្ណោះ">
 <!ENTITY  overridePageColors.never.label  "មិន">
 
 <!ENTITY  color                           "អត្ថបទ និង​ផ្ទៃខាងក្រោយ">

@@ -50,7 +50,7 @@
 <!ENTITY hdrViewToolbarAlwaysReplySender.accesskey "R">
 
 <!ENTITY otherActionsButton2.label "Ավելին">
-
+<!ENTITY otherActionsButton.tooltip "សកម្មភាព​ច្រើន​ទៀត">
 <!ENTITY otherActionsOpenConversation1.label "បើក​ក្នុង​ការ​សន្ទនា">
 <!ENTITY otherActionsOpenConversation1.accesskey "C">
 <!ENTITY otherActionsOpenInNewWindow1.label "បើក​នៅ​ក្នុង​បង្អួច​ថ្មី">
