@@ -81,8 +81,8 @@
 <!-- LOCALIZATION NOTE (profilerUI.showPlatformData): This is the
   -  label for the checkbox that toggles whether or not Gecko platform data
   -  is displayed in the profiler. -->
-<!ENTITY profilerUI.showPlatformData             "Montri datumojn de l platformo de Gecko">
-<!ENTITY profilerUI.showPlatformData.tooltiptext "Se la datumoj de la platformo estas montritaj, la raportoj de la rulanalizilo de JavaScript inkluzivos simbolojn de la platformo de Gecko.">
+<!ENTITY profilerUI.showPlatformData             "Montri datumojn de la sistemo de Gecko">
+<!ENTITY profilerUI.showPlatformData.tooltiptext "Se la datumoj de la sistemo estas montritaj, la raportoj de la rulanalizilo de JavaScript inkluzivos simbolojn de la platformo de Gecko.">
 
 <!-- LOCALIZATION NOTE (profilerUI.flattenTreeRecursion): This is the
   -  label for the checkbox that toggles the flattening of tree recursion in inspected
