@@ -243,7 +243,7 @@
 <!ENTITY calendar.context.removeserver.label           "Odstrani koledar …">
 <!ENTITY calendar.context.removeserver.accesskey       "O">
 <!ENTITY calendar.context.unsubscribeserver.label      "Odjavi se od koledarja …">
-<!ENTITY calendar.context.unsubscribeserver.accesskey  "O">
+<!ENTITY calendar.context.unsubscribeserver.accesskey  "d">
 <!ENTITY calendar.context.synccalendars.label          "Uskladi koledarje">
 <!ENTITY calendar.context.synccalendars.accesskey      "U">
 <!ENTITY calendar.context.publish.label                "Objavi koledar">
@@ -255,7 +255,7 @@
 <!-- LOCALIZATION NOTE (calendar.context.togglevisible.accesskey)
      This is the access key used for the showCalendar string -->
 
-<!ENTITY calendar.context.togglevisible.accesskey      "P">
+<!ENTITY calendar.context.togglevisible.accesskey      "S">
 <!-- LOCALIZATION NOTE (calendar.context.showonly.accesskey)
      This is the access key used for the showOnlyCalendar string -->
 
@@ -266,7 +266,7 @@
 <!ENTITY calendar.context.convertmenu.label              "Pretvori v">
 <!ENTITY calendar.context.convertmenu.accesskey.mail     "r">
 <!ENTITY calendar.context.convertmenu.accesskey.calendar "r">
-<!ENTITY calendar.context.convertmenu.event.label        "Dogodek">
+<!ENTITY calendar.context.convertmenu.event.label        "Dogodek ...">
 <!ENTITY calendar.context.convertmenu.event.accesskey    "D">
 <!ENTITY calendar.context.convertmenu.message.label      "Sporočilo">
 <!ENTITY calendar.context.convertmenu.message.accesskey  "S">
@@ -306,7 +306,7 @@
      user focuses the "Cancel" button in the "Snooze for..." popup of the alarm
      dialog. -->
 
-<!ENTITY calendar.alarm.snooze.cancel               "Prekini dremež">
+<!ENTITY calendar.alarm.snooze.cancel               "Prekliči dremež">
 <!-- Calendar Server Dialog -->
 
 <!ENTITY calendar.server.dialog.title.edit          "Uredi koledar">
