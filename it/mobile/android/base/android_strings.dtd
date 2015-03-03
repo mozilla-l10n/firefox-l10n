@@ -60,6 +60,7 @@
 <!ENTITY pref_category_advanced "Avanzate">
 <!ENTITY pref_category_customize "Personalizzazione">
 <!ENTITY pref_category_customize_summary "Pagina iniziale, ricerca, schede, importazione">
+<!ENTITY pref_category_customize_alt_summary "Pagina iniziale, ricerca, schede, apertura ritardata, importazione">
 <!ENTITY pref_category_language "Lingua">
 <!ENTITY pref_category_language_summary "Cambia la lingua del browser">
 <!ENTITY pref_browser_locale "Lingua del browser">
@@ -248,6 +249,8 @@
 <!ENTITY pref_titlebar_mode_url "Visualizza indirizzo pagina">
 <!ENTITY pref_scroll_title_bar2 "Navigazione a schermo intero">
 <!ENTITY pref_scroll_title_bar_summary "Nascondi la barra del titolo di &brandShortName; quando si scorre una pagina verso il basso">
+<!ENTITY pref_tab_queue_title "Apertura ritardata">
+<!ENTITY pref_tab_queue_summary "Non aprire immediatamente le schede ma apri tutte le schede in coda al successivo caricamento di &brandShortName;.">
 <!ENTITY page_removed "Pagina rimossa">
 <!ENTITY bookmark_edit_title "Modifica segnalibro">
 <!ENTITY bookmark_edit_name "Nome">
