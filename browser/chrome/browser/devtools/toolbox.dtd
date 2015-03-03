@@ -169,8 +169,8 @@ Gecko platform symbols">
 <!ENTITY options.sourceeditor.autoclosebrackets.tooltip "Inserează automat paranteze închise">
 
 
-
-
+<!ENTITY options.sourceeditor.tabsize.label             "Mărimea filei">
+<!ENTITY options.sourceeditor.tabsize.accesskey         "r">
 <!ENTITY options.sourceeditor.keybinding.label          "Combinații de taste">
 <!ENTITY options.sourceeditor.keybinding.accesskey      "C">
 <!ENTITY options.sourceeditor.keybinding.default.label  "Implicit">
