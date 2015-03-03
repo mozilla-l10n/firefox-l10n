@@ -46,16 +46,18 @@
 <!ENTITY profilerUI.toolbar.waterfall "Casowa rědka">
 <!ENTITY profilerUI.toolbar.js-calltree "JavaScript">
 <!ENTITY profilerUI.toolbar.memory-calltree "Skład">
-
-
+<!ENTITY profilerUI.toolbar.js-flamegraph "JS płomjenjowy diagram">
+<!ENTITY profilerUI.toolbar.memory-flamegraph "Płomjenjowy diagram składowaka">
 <!-- LOCALIZATION NOTE (profilerUI.table.*): These strings are displayed
   -  in the call tree headers for a recording. -->
 
+<!ENTITY profilerUI.table.totalDuration2  "Cełkowny cas">
+<!ENTITY profilerUI.table.selfDuration2   "Samocas">
 <!ENTITY profilerUI.table.totalPercentage "Cełkowne kosty">
 <!ENTITY profilerUI.table.selfPercentage  "Samokosty">
 <!ENTITY profilerUI.table.samples         "Pśikłady">
-
-
+<!ENTITY profilerUI.table.totalAlloc      "Pśipokazanja dogromady">
+<!ENTITY profilerUI.table.selfAlloc       "Samopśipokazanja">
 <!ENTITY profilerUI.table.function        "Funkcija">
 <!-- LOCALIZATION NOTE (profilerUI.newtab.tooltiptext): The tooltiptext shown
   -  on the "+" (new tab) button for a profile when a selection is available. -->
