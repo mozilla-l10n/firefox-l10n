@@ -52,6 +52,8 @@
 <!ENTITY cmd.open_window.accesskey       "N">
 <!ENTITY cmd.open_tab.label              "Öppna i ny flik">
 <!ENTITY cmd.open_tab.accesskey          "f">
+<!ENTITY cmd.open_private.label          "Öppna i ett privat fönster">
+<!ENTITY cmd.open_private.accesskey      "p">
 <!ENTITY cmd.open_all_in_tabs.label      "Öppna alla i flikar">
 <!ENTITY cmd.open_all_in_tabs.accesskey  "a">
 

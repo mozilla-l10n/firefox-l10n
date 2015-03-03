@@ -27,6 +27,8 @@
 <!ENTITY contextAfterCls.label "Filterera efter skräppostklassificering">
 <!ENTITY contextOutgoing.label "Efter att ha skickat">
 <!ENTITY contextOutgoing.accesskey "E">
+<!ENTITY contextArchive.label "Arkivering">
+<!ENTITY contextArchive.accesskey "A">
 
 <!ENTITY filterActionDesc.label "Gör följande:">
 <!ENTITY filterActionDesc.accesskey "G">
