@@ -17,7 +17,7 @@
 <!ENTITY storeType.label               "Tipul de stocare al mesajelor pentru conturile noi:">
 <!ENTITY storeType.accesskey           "T">
 <!ENTITY mboxStore.label               "Un fișier mare (mbox)">
-<!ENTITY maildirStore.label            "Fișier per mesaj (maildir)">
+<!ENTITY maildirStore.label            "Fișiere pe mesaj (maildir)">
 
 <!ENTITY scrolling.label               "Derulare">
 <!ENTITY useAutoScroll.label           "Folosește derularea automată">
@@ -80,8 +80,8 @@
 <!-- Update -->
 
 <!ENTITY updateApp.label                 "actualizări &brandShortName;:">
-
-
+<!ENTITY updateAuto.label                "Instalează actualizări automat (recomandat: securitate sporită)">
+<!ENTITY updateAuto.accesskey            "a">
 
 
 
