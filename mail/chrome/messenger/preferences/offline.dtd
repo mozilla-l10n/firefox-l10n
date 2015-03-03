@@ -4,16 +4,17 @@
 
 <!ENTITY offlineDialog.title "Offline Settings">
 
-
-
+<!ENTITY checkAutoDetect.label "អនុវត្ត​តាម​សភាព​មាន​អ៊ីនធឺណិត​ដែល​បាន​រក​ឃើញ​ដោយ​ស្វ័យប្រវត្តិ">
+<!ENTITY checkAutoDetect.accesskey "d">
+<!ENTITY titleStartUp "សភាព​សៀវភៅ​ដៃ​ពេល​ចាប់ផ្ដើម៖">
 <!ENTITY radioRememberPrevState.label "Remember previous online state">
 <!ENTITY radioRememberPrevState.accesskey "R">
-
-
-
-
-
-
+<!ENTITY radioAskState.label "សួរ​ខ្ញុំ​សម្រាប់​សភាព​មាន​អ៊ីនធឺណិត">
+<!ENTITY radioAskState.accesskey "ស">
+<!ENTITY radioAlwaysOnlineState.label "មានអ៊ីនធឺណិត">
+<!ENTITY radioAlwaysOnlineState.accesskey "អ">
+<!ENTITY radioAlwaysOffline.label "គ្មានអ៊ីនធឺណិត">
+<!ENTITY radioAlwaysOffline.accesskey "អ">
 
 <!ENTITY textGoingOnline "Send unsent messages when going online?">
 <!ENTITY radioAutoSend.label "Yes">
