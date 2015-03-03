@@ -489,7 +489,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY savePageCmd.accesskey        "S">
 <!-- alternate for content area context menu -->
 <!ENTITY savePageCmd.accesskey2       "P">
-
+<!ENTITY savePageCmd.commandkey       "s">
 <!ENTITY saveFrameCmd.label           "Salvează cadrul ca...">
 <!ENTITY saveFrameCmd.accesskey       "v">
 <!ENTITY printFrameCmd.label          "Tipărește cadrul...">
@@ -615,9 +615,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY quitApplicationCmd.accesskey   "e">
 <!ENTITY quitApplicationCmdMac2.label   "Ieșiți din &brandShorterName;">
 <!-- LOCALIZATION NOTE(quitApplicationCmdUnix.key): This keyboard shortcut is used by both Linux and OSX builds. -->
+<!ENTITY quitApplicationCmdUnix.key     "Q">
 
 <!ENTITY closeCmd.label                 "Închide">  
-
+<!ENTITY closeCmd.key                   "W">  
 <!ENTITY closeCmd.accesskey             "c">
 
 <!ENTITY pageStyleMenu.label "Stil pagină">
@@ -629,23 +630,24 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY pageReportIcon.tooltip            "Modifică parametrii de blocare a ferestrelor popup pentru acest sait web">
 
+<!ENTITY allowPopups.accesskey "p">
 <!-- On Windows we use the term "Options" to describe settings, but
      on Linux and Mac OS X we use "Preferences" - carry that distinction
      over into this string, which is used in the "popup blocked" info bar . -->
 <!ENTITY editPopupSettingsUnix.label "Editează preferințele de blocare a ferestrelor popup…">
 <!ENTITY editPopupSettings.label "Editează opțiunile de blocare a ferestrelor popup...">
 <!ENTITY editPopupSettings.accesskey "E">
-
+<!ENTITY dontShowMessage.accesskey "D">
 
 <!ENTITY bidiSwitchPageDirectionItem.label        "Schimbă direcția paginii">
 <!ENTITY bidiSwitchPageDirectionItem.accesskey    "g">
 <!ENTITY bidiSwitchTextDirectionItem.label        "Schimbă direcția textului">
 <!ENTITY bidiSwitchTextDirectionItem.accesskey    "x">
-
+<!ENTITY bidiSwitchTextDirectionItem.commandkey   "X">
 
 <!ENTITY findOnCmd.label     "Caută în această pagină...">
 <!ENTITY findOnCmd.accesskey "n">
-
+<!ENTITY findOnCmd.commandkey "f">
 <!ENTITY findAgainCmd.label  "Caută din nou">
 <!ENTITY findAgainCmd.accesskey "d">
 <!ENTITY findAgainCmd.commandkey "g">
@@ -844,12 +846,15 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY emeNotificationsDontAskAgain.label       "Nu mă mai întreba din nou">
 <!ENTITY emeNotificationsDontAskAgain.accesskey   "d">
 
+<!ENTITY readingList.label                        "Listă de citit">
 <!ENTITY readingList.sidebar.commandKey           "R">
-
+<!ENTITY readingList.showSidebar.label            "Afișează bara laterală cu lista de citit">
 <!-- Pre-landed string for bug 1124153 -->
 <!ENTITY readingList.sidebar.showMore.label       "Arată mai multe…">
 <!-- Pre-landed string for bug 1133662 -->
+<!ENTITY readingList.sidebar.emptyText            "Adaugă articole la lista dumneavoastră de citit pentru a le salva pentru mai târziu și a le găsi cu ușurință atunci când aveți nevoie de ele.">
 <!-- Pre-landed string for bug 1123525 -->
+<!ENTITY readingList.sidebar.delete.tooltip       "Înlătură aceasta din lista dumneavoastră de citit">
 <!-- Pre-landed strings for bug 1123519 -->
 <!ENTITY readingList.sidebar.add.label            "Adăugați în lista de citit">
-
+<!ENTITY readingList.sidebar.add.tooltip          "Adaugă această pagină la lista dumneavoastră de citit">
