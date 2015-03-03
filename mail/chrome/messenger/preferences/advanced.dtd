@@ -17,7 +17,7 @@
 <!ENTITY storeType.label               "Tipul de stocare al mesajelor pentru conturile noi:">
 <!ENTITY storeType.accesskey           "T">
 <!ENTITY mboxStore.label               "Un fișier mare (mbox)">
-<!ENTITY maildirStore.label            "Fișiere pe mesaj (maildir)">
+<!ENTITY maildirStore.label            "Fișiere per mesaj (maildir)">
 
 <!ENTITY scrolling.label               "Derulare">
 <!ENTITY useAutoScroll.label           "Folosește derularea automată">
@@ -82,12 +82,12 @@
 <!ENTITY updateApp.label                 "actualizări &brandShortName;:">
 <!ENTITY updateAuto.label                "Instalează actualizări automat (recomandat: securitate sporită)">
 <!ENTITY updateAuto.accesskey            "a">
-
-
-
-
-
-
+<!ENTITY updateCheck.label               "Caută actualizări, dar lasă-mă pe mine să decid dacă să le instalez">
+<!ENTITY updateCheck.accesskey           "C">
+<!ENTITY updateManual.label              "Nu căuta niciodată actualizări (nerecomandat: risc de securitate)">
+<!ENTITY updateManual.accesskey          "N">
+<!ENTITY updateAutoAddonWarn.label       "Avertizează-mă dacă asta va duce la dezactivarea unora dintre suplimentele mele">
+<!ENTITY updateAutoAddonWarn.accesskey   "v">
 <!ENTITY updateHistory.label             "Arată istoricul actualizărilor">
 <!ENTITY updateHistory.accesskey         "t">
 
@@ -127,8 +127,8 @@
 <!ENTITY certs.auto.accesskey            "S">
 <!ENTITY certs.ask                       "Întreabă-mă de fiecare dată">
 <!ENTITY certs.ask.accesskey             "A">
-
-
+<!ENTITY enableOCSP.label                "Interoghează serverele de răspuns OCSP pentru confirmarea valabilității actuale a certificatelor">
+<!ENTITY enableOCSP.accesskey            "h">
 
 <!ENTITY viewCertificates.label         "Vizualizare certificate">
 <!ENTITY viewCertificates.accesskey     "a">
