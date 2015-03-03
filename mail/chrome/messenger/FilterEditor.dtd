@@ -23,10 +23,10 @@
 <!ENTITY contextManual.accesskey "R">
 <!ENTITY contextBeforeCls.label "ត្រង​មុន​ពេលចាត់ថ្នាក់​សារ​ឥត​បាន​ការ">
 <!ENTITY contextAfterCls.label "ត្រង​បន្ទាប់ពី​ចាត់ថ្នាក់សារ​ឥតបាន​ការ">
-
-
-
-
+<!ENTITY contextOutgoing.label "បន្ទាប់ពីផ្ញើ">
+<!ENTITY contextOutgoing.accesskey "ផ">
+<!ENTITY contextArchive.label "ទុក​ក្នុង​ប័ណ្ណសារ">
+<!ENTITY contextArchive.accesskey "ទ">
 
 <!ENTITY filterActionDesc.label "Կատարել այս գործողությունը.">
 <!ENTITY filterActionDesc.accesskey "P">
