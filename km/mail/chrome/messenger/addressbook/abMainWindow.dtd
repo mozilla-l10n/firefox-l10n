@@ -3,8 +3,8 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY addressbookWindow.title                        "Address Book">
-
-
+<!ENTITY blankResultsPaneMessage.label                  "សៀវភៅ​អាសយដ្ឋាន​នេះ​បង្ហាញ​ទំនាក់ទំនង​តែ​បន្ទាប់ពី​ស្វែងរក​ប៉ុណ្ណោះ">
+<!ENTITY localResultsOnlyMessage.label                  "ទំនាក់ទំនង​ពី​សៀវភៅ​អាសយដ្ឋាន​ពី​ចម្ងាយ​មិន​ត្រូវ​បាន​បង្ហាញ​ឡើយ លុះត្រាតែ​អ្នក​ស្វែងរក">
 <!-- File Menu -->
 <!ENTITY fileMenu.label                                 "File">
 <!ENTITY fileMenu.accesskey                             "F">
@@ -161,6 +161,8 @@ because displayed names don't have the comma in between. -->
 <!ENTITY searchItem.title "Quick Search">
 <!-- Results Pane -->
 
+<!ENTITY Addrbook.label                                 "សៀវភៅអាសយដ្ឋាន">
+<!ENTITY Addrbook.accesskey                             "អ">
 <!ENTITY GeneratedName.label                            "Name">
 <!ENTITY GeneratedName.accesskey                        "N">
 <!ENTITY PrimaryEmail.label                             "Email">

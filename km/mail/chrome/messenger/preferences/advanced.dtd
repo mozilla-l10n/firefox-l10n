@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY itemGeneral.label       "General">
-
+<!ENTITY dataChoicesTab.label    "ជម្រើស​ទិន្នន័យ">
 <!ENTITY itemDisplay.label       "អាន &amp; ទិដ្ឋភាព">
 <!ENTITY itemUpdate.label        "Update">
 <!ENTITY itemNetworking.label    "បណ្ដាញ &amp; ទំហំ​ថាស">
@@ -12,10 +12,10 @@
 
 <!ENTITY enableGlodaSearch.label       "Enable Global Search and Indexer">
 <!ENTITY enableGlodaSearch.accesskey   "E">
-
-
-
-
+<!ENTITY allowHWAccel.label            "ប្រើ​ការ​បង្កើន​ល្បឿន​ផ្នែក​រឹង នៅពេល​អាច​ប្រើ​បាន">
+<!ENTITY allowHWAccel.accesskey        "ប">
+<!ENTITY storeType.label               "ប្រភេទ​ឧបករណ៍​ផ្ទុកសារ​សម្រាប់​គណនី​ថ្មី៖">
+<!ENTITY storeType.accesskey           "ស">
 <!ENTITY mboxStore.label               "ឯកសារ​ធំ​មួយ (mbox)">
 <!ENTITY maildirStore.label            "ឯកសារ​ក្នុង​សារ​មួយ (maildir)">
 
@@ -40,9 +40,11 @@
 <!ENTITY showReturnReceipts.accesskey  "R">
 <!-- Data Choices -->
 
-
-
-
+<!ENTITY telemetrySection.label          "ទូរមាត្រ​វិធី">
+<!ENTITY telemetryDesc.label             "ចែករំលែក​ដំណើរការ ការ​ប្រើប្រាស់ ផ្នែក​រឹង និង​ការ​ប្ដូរ​ទិន្នន័យ​តាម​តម្រូវ​ការ​អំពី​កម្មវិធី​អ៊ីមែល​របស់​អ្នក​ដោយ​ប្រើ &vendorShortName; ដើម្បី​ជួយ​ធ្វើឲ្យ &brandShortName; ប្រសើរ​ឡើង">
+<!ENTITY enableTelemetry.label           "បើក ​ទូរមាត្រ​វិធី">
+<!ENTITY enableTelemetry.accesskey       "​">
+<!ENTITY telemetryLearnMore.label        "ស្វែងយល់​​បន្ថែម">
 
 
 

@@ -6,7 +6,7 @@
 <!ENTITY  prefWindow.titleGNOME   "&brandShortName; Preferences">
 <!ENTITY  prefWindow.titleMAC     "ចំណូល​ចិត្ត">
 <!ENTITY  prefWindow.styleWindows "width: 48em; min-height: 38.5em;">
-
+<!ENTITY  prefWindow.styleMac     "ទទឹង៖ 52em;">
 <!ENTITY  prefWindow.styleGNOME   "width: 47em; min-height: 38em;">
 
 <!ENTITY paneGeneral.title        "General">
@@ -19,4 +19,5 @@
 <!ENTITY paneAdvanced.title       "Advanced">
 <!ENTITY paneAccount.title        "Accounts">
 
-
+<!ENTITY okButton.title           "យល់ព្រម">
+<!ENTITY okButton.accesskey       "យ">
