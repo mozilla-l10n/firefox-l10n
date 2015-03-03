@@ -35,9 +35,11 @@ This is likely the same like id.heading in crashes.dtd. -->
 <!ENTITY aboutSupport.appBasicsTitle "Grunnupplýsingar forrits">
 <!ENTITY aboutSupport.appBasicsName "Nafn">
 <!ENTITY aboutSupport.appBasicsVersion "Útgáfa">
-
+<!ENTITY aboutSupport.appBasicsBuildID "Byggingarauðkenni">
 <!-- LOCALIZATION NOTE (aboutSupport.appBasicsUpdateChannel, aboutSupport.appBasicsUpdateHistory, aboutSupport.appBasicsShowUpdateHistory):
 "Update" is a noun here, not a verb. -->
+
+<!ENTITY aboutSupport.appBasicsUpdateChannel "Uppfærslurás">
 <!ENTITY aboutSupport.appBasicsUpdateHistory "Uppfærslusaga">
 <!ENTITY aboutSupport.appBasicsShowUpdateHistory "Sýna uppfærslusögu">
 
@@ -94,4 +96,5 @@ variant of aboutSupport.showDir.label. -->
 
 <!ENTITY aboutSupport.sandboxTitle "Sandbox">
 
-
+<!ENTITY aboutSupport.safeModeTitle "Prófaðu öryggisham">
+<!ENTITY aboutSupport.restartInSafeMode.label "Endurræsa með viðbætur óvirkar…">

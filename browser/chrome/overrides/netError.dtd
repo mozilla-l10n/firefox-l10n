@@ -172,4 +172,5 @@ functionality specific to firefox. -->
 <!ENTITY sslv3Used.title "Get ekki tengst á öruggan hátt">
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc) - Do not translate
      "ssl_error_unsupported_version". -->
+<!ENTITY sslv3Used.longDesc "Ítarlegar upplýsingar: ssl_error_unsupported_version">
 <!ENTITY sslv3Used.learnMore "Vita meira…">
