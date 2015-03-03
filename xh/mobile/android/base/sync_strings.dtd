@@ -150,6 +150,8 @@
 
 <!ENTITY fxaccount_create_account_header2 "Yila iakhawunti yeFirefox">
 <!ENTITY fxaccount_create_account_password_length_restriction "Ubuncinane ifanele ibe noonobumba abasi-8">
+
+
 <!ENTITY fxaccount_create_account_year_of_birth "Unyaka wokuzalwa">
 <!-- Localization note: &formatS1; is fxaccount_policy_linktos, &formatS2; is fxaccount_policy_linkprivacy, both hyperlinked. -->
 <!ENTITY fxaccount_create_account_policy_text2 "Ngokudlulela phambili, ndiyavumelana ne&formatS1; kunye no&formatS2; zeenkonzo zeklawudi yeFirefox.">
@@ -191,7 +193,7 @@
 
 <!ENTITY fxaccount_finish_migrating_header "Sayina ungene ukugqibezela uphuhliso">
 <!ENTITY fxaccount_finish_migrating_button_label "Ugqibile ukuphuhlisa">
-<!ENTITY fxaccount_finish_migrating_description "Uphuhliso lungathumela iinkcukacha ezininzi. Kungcono ukuba kwinethiwokhi eno-WiFi">
+
 
 <!ENTITY fxaccount_status_header2 "I-akhawunti yeFirefox">
 <!ENTITY fxaccount_status_signed_in_as "Ungene njenge">
@@ -207,7 +209,6 @@
 <!ENTITY fxaccount_status_needs_upgrade "Kufuneka uhlaziyele kwi-&brandShortName; ukuze ungene.">
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled "I-&syncBrand.shortName.label; ifakelwe kodwa ayingqamani ngokuzenzekelayo. Sebenzisa njengeqhosha i-“Auto-sync data” kwi-Android Settings &gt; Usetyenziso lweengcombolo.">
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled_v21 "I-&syncBrand.shortName.label; ifakelwe kodwa ayingqamani ngokuzenzekelayo. Sebenzisa njengeqhosha i-“Auto-sync data” kwi-Android Settings &gt; Usetyenziso lweengcombolo.">
-<!ENTITY fxaccount_status_needs_account_enabled "I-&syncBrand.shortName.label; ifakelwe kodwa ayingqamani ngokuzenzekelayo. Cinezela ukuqalisa ungqamaniso.">
 <!ENTITY fxaccount_status_needs_finish_migrating "Cofa ukusayina ungene kwi-akhawunti yakho entsha ka-Firefox.">
 <!ENTITY fxaccount_status_bookmarks "Iibhukhmakhi">
 <!ENTITY fxaccount_status_history "Imbali">

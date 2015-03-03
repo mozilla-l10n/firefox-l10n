@@ -6,6 +6,8 @@
 <!ENTITY itemAutoComplete.label              "Kufakwa iidilesi">
 <!ENTITY itemSpellCheck.label                "Upelo">
 
+<!ENTITY dialogCompose.title                 "Composing">
+
 <!ENTITY forwardMsg.label                     "Gqithisela phambili imiyalezo:">
 <!ENTITY forwardMsg.accesskey                 "G">
 <!ENTITY inline.label                         "Emgceni">

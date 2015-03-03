@@ -26,6 +26,8 @@
 <!ENTITY syncMy.label               "Ungqamaniso lwam">
 <!ENTITY engine.bookmarks.label     "Izalathisi eziphawulayo">
 <!ENTITY engine.bookmarks.accesskey "e">
+
+
 <!ENTITY engine.tabs.label          "Iithebhu">
 <!ENTITY engine.tabs.accesskey      "t">
 <!ENTITY engine.history.label       "Imbali">
