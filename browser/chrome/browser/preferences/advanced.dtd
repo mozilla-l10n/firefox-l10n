@@ -81,7 +81,7 @@
 <!ENTITY updateAuto1.accesskey           "a">
 <!ENTITY updateAutoMetro.label           "Actualizare &brandShortName; automată pentru desktop și stil Windows 8">
 <!ENTITY updateAutoMetro.accesskey       "W">
-<!ENTITY updateCheck.label               "Caută actualizări, dar lasă-mă pe mine să decid dacă să le instalez sau nu">
+<!ENTITY updateCheck.label               "Caută actualizări, dar lasă-mă pe mine să decid dacă să le instalez">
 <!ENTITY updateCheck.accesskey           "C">
 <!ENTITY updateManual.label              "Nu căuta niciodată actualizări (nerecomandat: risc de securitate)">
 <!ENTITY updateManual.accesskey          "N">
