@@ -16,7 +16,7 @@
 <!ENTITY search_plus_content_description "Bæta við í leitarslá">
 
 <!ENTITY search_pref_title "Stillingar">
-<!ENTITY search_pref_button_content_description "Stillingar">
+
 
 <!ENTITY pref_clearHistory_confirmation "Hreinsa feril">
 <!ENTITY pref_clearHistory_dialogMessage "Eyða öllu leitarferli á þessu tæki?">

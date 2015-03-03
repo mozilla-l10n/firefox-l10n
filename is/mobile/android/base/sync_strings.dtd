@@ -150,6 +150,8 @@
 
 <!ENTITY fxaccount_create_account_header2 "Stofna Firefox reikning">
 <!ENTITY fxaccount_create_account_password_length_restriction "Verður að vera amk 8 stafir/tákn">
+
+
 <!ENTITY fxaccount_create_account_year_of_birth "Fæðingarár">
 <!-- Localization note: &formatS1; is fxaccount_policy_linktos, &formatS2; is fxaccount_policy_linkprivacy, both hyperlinked. -->
 <!ENTITY fxaccount_create_account_policy_text2 "Ég samþykki &formatS1; og &formatS2; Firefox skýjaþjónustunnar með því að halda áfram.">
@@ -191,7 +193,7 @@
 
 <!ENTITY fxaccount_finish_migrating_header "Skráðu þig inn til að ljúka uppfærslu">
 <!ENTITY fxaccount_finish_migrating_button_label "Ljúka uppfærslu">
-<!ENTITY fxaccount_finish_migrating_description "Uppfærslan gæti verið gagna drjúg. Best er að nota WiFi tengingu.">
+
 
 <!ENTITY fxaccount_status_header2 "Firefox reikningur">
 <!ENTITY fxaccount_status_signed_in_as "Innskrá sem ">
@@ -207,7 +209,6 @@
 <!ENTITY fxaccount_status_needs_upgrade "Þú þarft að uppfæra &brandShortName; til að skrá þig inn.">
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled "&syncBrand.shortName.label; er uppsett en nær ekki að synca sjálfvirkt. Víxlaðu á \&quot;Sjálfvirkt Sync-a gögn\&quot; stillingunni í Android stillingar &gt; Gagna notkun.">
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled_v21 "&syncBrand.shortName.label; er uppsett en nær ekki að synca sjálfvirkt. Víxlaðu á \&quot;Sjálfvirkt Sync-a gögnum\&quot; stillingunni í Android stillingar &gt; Reikningar.">
-<!ENTITY fxaccount_status_needs_account_enabled "&syncBrand.shortName.label; er ekki stillt til að Sync-a sjálfvirkt. Snertu til að hefja Sync.">
 <!ENTITY fxaccount_status_needs_finish_migrating "Snertu skjáinn til að skrá þig inn með nýja Firefox reikningnum.">
 <!ENTITY fxaccount_status_bookmarks "Bókarmerki">
 <!ENTITY fxaccount_status_history "Ferill">
