@@ -13,11 +13,10 @@
 <!ENTITY restorepage.startNew       "Byrjað nýja vafralotu">
 
 <!ENTITY restorepage.tryagainButton "Endurheimta">
-<!ENTITY restorepage.restore.access "E">
-<!ENTITY restorepage.closeButton    "Loka">
-<!ENTITY restorepage.close.access   "L">
 
-<!ENTITY restorepage.restoreHeader  "Endurheimta">
+<!ENTITY restorepage.closeButton    "Loka">
+
+
 <!ENTITY restorepage.listHeader     "Gluggar og flipar">
 <!-- LOCALIZATION NOTE: &#37;S will be replaced with a number. -->
 <!ENTITY restorepage.windowLabel    "Gluggi &#037;S">
@@ -27,11 +26,10 @@
 
 
 <!ENTITY welcomeback2.restoreButton  "Áfram!">
-<!ENTITY welcomeback2.restoreButton.access "f">
+
 
 <!ENTITY welcomeback2.tabtitle      "Aðgerð tókst">
 
-<!ENTITY welcomeback2.pageTitle     "Aðgerð tókst">
 <!ENTITY welcomeback2.pageInfo1     "&brandShortName; er tilbúinn.">
 
 <!ENTITY welcomeback2.label.restoreAll  "Endurheimta alla glugga og flipa">
