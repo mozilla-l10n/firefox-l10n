@@ -47,7 +47,7 @@
 <!ENTITY connection.connectTo "Conectare la:">
 <!ENTITY connection.noDeviceFound "Niciun dispozitiv găsit. Conectați un dispozitiv">
 <!ENTITY connection.changeHostAndPort "Modifică">
-<!ENTITY connection.changeHostAndPortTooltip "Change the host and port used to connect to the device. (Defaults to localhost:6000)">
+<!ENTITY connection.changeHostAndPortTooltip "Change the host and port used to connect to the device (defaults to localhost:6000)">
 <!ENTITY connection.startSimulator "Pornire simulator">
 <!ENTITY connection.startSimulatorTooltip "Start an instance of the Simulator and connect to it.">
 <!ENTITY connection.saveConnectionInfo "Salvează">

@@ -19,7 +19,7 @@
   -  in the call list view while recording a profile. -->
 
 <!ENTITY profilerUI.stopNotice1    "Clic pe">
-
+<!ENTITY profilerUI.stopNotice2    "buton din nou pentru a opri înregistrarea.">
 <!-- LOCALIZATION NOTE (profilerUI.loadingNotice): This is the label shown
   -  in the call list view while loading a profile. -->
 
