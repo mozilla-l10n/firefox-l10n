@@ -44,6 +44,7 @@
 <!ENTITY netmonitorUI.panesButton.tooltip "Visualizza informazioni sulla rete">
 <!ENTITY netmonitorUI.summary.url "URL richiesta:">
 <!ENTITY netmonitorUI.summary.method "Metodo di richiesta:">
+<!ENTITY netmonitorUI.summary.address "Indirizzo remoto:">
 <!ENTITY netmonitorUI.summary.status "Status code:">
 <!ENTITY netmonitorUI.summary.version "Versione:">
 <!ENTITY netmonitorUI.summary.size "Dimensioni header:">
