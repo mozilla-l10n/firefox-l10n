@@ -20,7 +20,7 @@
 <!ENTITY generalReferrer "Indirizzo referente:">
 <!ENTITY generalSource "Sorgente:">
 <!ENTITY generalModified "Modificato:">
-<!ENTITY generalEncoding "Codifica:">
+<!ENTITY generalEncoding2 "Codifica testo:">
 <!ENTITY generalMetaName "Nome">
 <!ENTITY generalMetaContent "Contenuto">
 <!ENTITY mediaTab "Media">
