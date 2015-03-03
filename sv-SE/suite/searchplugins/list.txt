@@ -1,5 +1,5 @@
 creativecommons
-duckduckgo
+duckduckgo-sv-se
 google
 wikipedia
-yahoo
+yahoo-sv-se
