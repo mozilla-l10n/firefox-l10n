@@ -33,8 +33,8 @@
    - they still fit in. -->
 
 <!ENTITY event.attendees.notify.label               "Anunță participanții">
-<!ENTITY event.attendees.notifyundisclosed.label    "Invitație separată pentru fiecare participant">
-<!ENTITY event.attendees.notifyundisclosed.tooltip  "Această opțiune trimite o invitație pe e-mail la fiecare participant. Fiecare invitație conține doar participantul destinatar, astfel încât identitățile altor participanți nu sunt dezvăluite.">
+<!ENTITY event.attendees.notifyundisclosed.label    "Invitație separată per participant">
+<!ENTITY event.attendees.notifyundisclosed.tooltip  "Această opțiune trimite o invitație pe e-mail per participant. Fiecare invitație conține doar participantul destinatar, astfel încât identitățile altor participanți nu sunt dezvăluite.">
 <!-- Keyboard Shortcuts -->
 
 <!ENTITY event.dialog.new.event.key2              "I">
