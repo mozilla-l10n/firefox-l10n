@@ -6,8 +6,7 @@
 <!ENTITY  no_space_to_start_error "เนื้อที่ว่างไม่พอสำหรับให้ &brandShortName; เริ่มทำงาน">
 <!ENTITY  error_loading_file "เกิดข้อผิดพลาดระหว่างการโหลดแฟ้มที่จำเป็นในการทำงานของ &brandShortName;">
 
-<!ENTITY  onboard_start_message "ยินดีต้อนรับสู่ &brandShortName;!">
-<!ENTITY  onboard_start_subtext "สร้างมาเพื่อคุณ, ความเป็นส่วนตัวของคุณ และระบบเว็บแบบเปิด">
+
 <!ENTITY  onboard_start_button_account "ลงชื่อเข้าใช้เพื่อใช้งาน &brandShortName;">
 <!ENTITY  onboard_start_button_browser "เริ่มต้นเข้าเว็บกันเลย">
 <!-- Localization note: These are used as the titles of different pages on the home screen.
@@ -75,7 +74,7 @@
 <!ENTITY switch_button_message "สลับ">
 
 <!ENTITY settings "การตั้งค่า">
-<!ENTITY settings_title "การตั้งค่า">
+
 <!ENTITY pref_category_advanced "ขั้นสูง">
 <!ENTITY pref_category_customize "กำหนดเอง">
 <!ENTITY pref_category_customize_summary "หน้าแรก ค้นหา แท็บ นำเข้า">
@@ -99,8 +98,6 @@
 <!-- Localization note (overlay_share_bookmark_btn_label) : This string is
      used in the share overlay menu to select an action. It is the verb
      "to bookmark", not the noun "a bookmark". -->
-
-<!ENTITY overlay_share_bookmark_btn_label "ที่คั่นหน้า">
 <!ENTITY overlay_share_reading_list_btn_label "เพิ่มเข้ารายการอ่าน">
 <!ENTITY overlay_share_bookmark_btn_label_already "คั่นหน้าอยู่ก่อนแล้ว">
 <!ENTITY overlay_share_reading_list_btn_label_already "อยู่ใน Reading List แล้ว">
@@ -112,10 +109,9 @@
 
 <!ENTITY overlay_share_send_tab_btn_label "ส่งไปยังอุปกรณ์อื่น">
 <!ENTITY overlay_share_no_url "ไม่พบลิงก์ในการแบ่งปันนี้">
-<!ENTITY overlay_share_retry "ลองใหม่">
+
 <!ENTITY overlay_share_select_device "เลือกอุปกรณ์">
 
-<!ENTITY pref_category_search3 "ค้นหา">
 <!ENTITY pref_category_search_summary "ปรับแต่งผู้จัดการค้นหาของคุณ">
 <!ENTITY pref_category_display "การแสดงผล">
 <!ENTITY pref_category_display_summary "ข้อความ แถบชื่อเรื่อง การท่องเว็บแบบเต็มจอ">
@@ -129,7 +125,7 @@
 <!ENTITY pref_category_add_search_providers "เพิ่มเครื่องมือค้นหา">
 <!ENTITY pref_category_search_restore_defaults "เรียกคืนเครื่องมือค้นหา">
 <!ENTITY pref_search_restore_defaults "เรียกคืนค่าปริยาย">
-<!ENTITY pref_search_restore_defaults_summary "เรียกคืนค่าปริยาย">
+
 <!-- Localization note (pref_search_hint) : "TIP" as in "hint", "clue" etc. Displayed as an
      advisory message on the customise search providers settings page explaining how to add new
      search providers.
@@ -159,16 +155,14 @@
 <!ENTITY pref_home_suggested_sites_summary "แสดงทางลัดไปยังไซต์บนโฮมเพจของคุณที่เราคาดว่าคุณน่าจะพบสิ่งที่น่าสนใจ">
 <!-- Localization note: These are shown in the left sidebar on tablets -->
 
-<!ENTITY pref_header_customize "ปรับแต่ง">
-<!ENTITY pref_header_display "การแสดงผล">
-<!ENTITY pref_header_privacy_short "ความเป็นส่วนตัว">
+
 <!ENTITY pref_header_help "ช่วยเหลือ">
-<!ENTITY pref_header_language "ภาษา">
-<!ENTITY pref_header_vendor "&vendorShortName;">
-<!ENTITY pref_header_devtools "เครื่องมือนักพัฒนา">
+
+
+
 
 <!ENTITY pref_cookies_menu "คุกกี้">
-<!ENTITY pref_cookies_accept_all "เปิดใช้อยู่">
+
 <!ENTITY pref_cookies_not_accept_foreign "เปิดใช้งาน ยกเว้นจากเว็บที่ไม่ได้กำลังเปิด">
 <!ENTITY pref_cookies_disabled "ปิดใช้งาน">
 
@@ -186,9 +180,9 @@
 <!ENTITY pref_clear_on_exit_summary2 "&brandShortName; จะล้างข้อมูลของคุณโดยอัตโนมัติเมื่อใดก็ตามที่คุณเลือก \u0022ออก\u0022 จากเมนูหลัก">
 <!ENTITY pref_clear_on_exit_dialog_title "เลือกข้อมูลที่ต้องการล้าง">
 <!ENTITY pref_plugins "โปรแกรมเสริม">
-<!ENTITY pref_plugins_enabled "เปิดใช้งาน">
+
 <!ENTITY pref_plugins_tap_to_play "แตะเพื่อเล่น">
-<!ENTITY pref_plugins_disabled "ปิดใช้งาน">
+
 <!ENTITY pref_text_size "ขนาดตัวหนังสือ">
 <!ENTITY pref_reflow_on_zoom4 "ปรับการไหลข้อความใหม่เอง">
 <!ENTITY pref_restore "แท็บ">
@@ -205,7 +199,6 @@
 same character/combination is used to increase the preview font size. It should be a concise
 representation of the language it is used in that will help show the text in the preview will change
 size. -->
-<!ENTITY pref_font_size_adjust_char "ก">
 <!-- Localization note (pref_font_size_preview_text): This paragraph is used as an example to
     demonstrate the font size setting.  It is meant to be whimsical and fun. -->
 
@@ -213,6 +206,8 @@ size. -->
 
 <!ENTITY pref_media_autoplay_enabled "อนุญาติการเล่นอัตโนมัติ">
 <!ENTITY pref_media_autoplay_enabled_summary "ควบคุมการเล่นวิดีโอและสื่ออื่น ๆ ของเว็บไซต์โดยอัตโนมัติ">
+
+
 
 <!ENTITY pref_use_master_password "ใช้รหัสผ่านหลัก">
 <!ENTITY pref_sync "Sync">
@@ -269,22 +264,20 @@ size. -->
      (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
 <!ENTITY datareporting_crashreporter_title_short "ตัวรายงานข้อขัดข้อง">
 <!ENTITY datareporting_wifi_title2 "บริการแจ้งตำแหน่ง &vendorShortName;">
-<!ENTITY datareporting_wifi_geolocation_summary2 "แบ่งปันตำแหน่ง Wi-Fi และโครงข่ายมือถือโดยใกล้เคียงจากอุปกรณ์ของคุณกับ &vendorShortName; เพื่อปรับปรุงบริการหาตำแหน่งของเรา">
+
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
      actual notification that an update is available. -->
 <!ENTITY pref_update_autodownload2 "ดาวน์โหลดการปรับปรุงโดยอัตโนมัติ">
-<!ENTITY pref_update_autodownload_wifi "เฉพาะบน Wi-Fi">
+
 <!ENTITY pref_update_autodownload_never "ไม่ต้อง">
 <!ENTITY pref_update_autodownload_always "เปิดใช้เสมอ">
 <!-- Localization note (help_menu) : This string is used in the main menu-->
 
-<!ENTITY help_menu "ช่วยเหลือ">
-
 <!ENTITY quit "ออก">
 
 <!ENTITY addons "ส่วนเสริม">
-<!ENTITY downloads "ดาวน์โหลด">
+
 <!ENTITY apps "แอป">
 <!ENTITY char_encoding "รหัสอักขระ">
 
@@ -300,7 +293,7 @@ size. -->
 <!ENTITY new_private_tab "แท็บแบบส่วนตัวใหม่">
 <!ENTITY close_all_tabs "ปิดทุกแท็บ">
 <!ENTITY close_private_tabs "ปิดแท็บแบบส่วนตัว">
-<!ENTITY tabs_normal "แท็บ">
+
 <!ENTITY tabs_private "ส่วนตัว">
 <!ENTITY tabs_synced "ผสานข้อมูลแล้ว">
 <!ENTITY set_image_fail "ไม่สามารถตั้งค่ารูป">
@@ -308,31 +301,29 @@ size. -->
 <!ENTITY set_image_chooser_title "บันทึกรูปเป็น">
 <!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
-
-<!ENTITY find_text "ค้นหาในหน้านี้">
 <!ENTITY find_prev "ก่อนหน้า">
 <!ENTITY find_next "ถัดไป">
-<!ENTITY find_close "ปิด">
+
 <!-- Localization note (media_sending_to, media_play, media_pause, media_stop) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
 
 <!ENTITY media_sending_to "กำลังส่งไปยังอุปกรณ์">
 <!ENTITY media_play "เล่น">
 <!ENTITY media_pause "หยุดพัก">
-<!ENTITY media_stop "หยุด">
+
 
 <!ENTITY contextmenu_open_new_tab "เปิดในแท็บใหม่">
 <!ENTITY contextmenu_open_private_tab "เปิดในแท็บส่วนตัว">
-<!ENTITY contextmenu_remove "ลบ">
+
 <!ENTITY contextmenu_add_to_launcher "เพิ่มลงหน้าจอแรก">
-<!ENTITY contextmenu_share "แบ่งปัน">
+
 <!ENTITY contextmenu_pasteandgo "วางแล้วเข้าเว็บ">
 <!ENTITY contextmenu_paste "วาง">
 <!ENTITY contextmenu_copyurl "คัดลอกที่อยู่">
 <!ENTITY contextmenu_edit_bookmark "แก้ไข">
 <!ENTITY contextmenu_subscribe "บอกรับหน้านี้">
 <!ENTITY contextmenu_site_settings "แก้ไขการตั้งค่ารายเว็บ">
-<!ENTITY contextmenu_top_sites_edit "แก้ไข">
+
 <!ENTITY contextmenu_top_sites_pin "ตรึงเว็บ">
 <!ENTITY contextmenu_top_sites_unpin "เลิกตรึงเว็บ">
 <!ENTITY contextmenu_add_search_engine "เพิ่มเครื่องมือค้นหา">
@@ -359,7 +350,7 @@ size. -->
      dialog that appears after selecting the "Edit Site Settings" context menu item. -->
 
 <!ENTITY site_settings_title3       "การตั้งค่ารายเว็บ">
-<!ENTITY site_settings_cancel       "ยกเลิก">
+
 <!ENTITY site_settings_clear        "ล้าง">
 <!ENTITY site_settings_no_settings  "ไม่มีการตั้งค่าให้ล้าง">
 
@@ -382,12 +373,12 @@ size. -->
 <!ENTITY masterpassword_confirm "ยืนยันรหัสผ่าน">
 
 <!ENTITY button_ok "ตกลง">
-<!ENTITY button_cancel "ยกเลิก">
+
 <!ENTITY button_yes "ใช่">
 <!ENTITY button_no "ไม่ยินยอม">
 <!ENTITY button_clear_data "ล้างข้อมูล">
-<!ENTITY button_set "ตั้งค่า">
-<!ENTITY button_clear "ล้าง">
+
+
 
 <!ENTITY home_top_sites_title "เว็บเด่น">
 <!-- Localization note (home_top_sites_add): This string is used as placeholder
@@ -397,7 +388,7 @@ size. -->
      with the page title defined in aboutHome.dtd -->
 
 <!ENTITY home_title "หน้าหลัก &brandShortName;">
-<!ENTITY home_history_title "ประวัติ">
+
 <!ENTITY home_clear_history_button "ล้างประวัติการเข้าเว็บ">
 <!ENTITY home_clear_history_confirm "คุณแน่ใจหรือไม่ว่าคุณต้องการล้างประวัติการเข้าชม?">
 <!ENTITY home_bookmarks_empty "ที่คั่นหน้าที่บันทึกไว้จะแสดงที่นี่">
@@ -459,7 +450,6 @@ size. -->
 
 <!ENTITY pin_site_dialog_hint "ระบุคำค้น">
 
-<!ENTITY filepicker_title "เลือกแฟ้ม">
 <!ENTITY filepicker_audio_title "เลือกหรืออัดเสียง">
 <!ENTITY filepicker_image_title "เลือกหรือถ่ายรูป">
 <!ENTITY filepicker_video_title "เลือกหรือถ่ายวิดีโอ">
@@ -530,34 +520,32 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY updater_downloading_select2 "แตะเพื่อให้ติดตั้งการปรับปรุงหลังจากดาวน์โหลดเสร็จ">
 <!ENTITY updater_downloading_retry2 "แตะเพื่อลองใหม่">
 
-<!ENTITY updater_apply_title2 "มีการปรับปรุงสำหรับ &brandShortName;">
 <!ENTITY updater_apply_select2 "แตะเพื่อปรับปรุง">
 <!-- Guest mode -->
 
 <!ENTITY new_guest_session "วาระใหม่สำหรับผู้มาเยือน">
 <!ENTITY exit_guest_session "จบวาระของผู้มาเยือน">
 <!ENTITY guest_session_dialog_continue "ทำต่อ">
-<!ENTITY guest_session_dialog_cancel "ยกเลิก">
+
 <!ENTITY new_guest_session_title "&brandShortName; จะเริ่มทำงานใหม่">
 <!ENTITY new_guest_session_text "ผู้ที่ใช้จะไม่เห็นข้อมูลการท่องเว็บส่วนตัวของคุณ (เช่น รหัสผ่านที่บันทึกไว้, ประวัติการท่องเว็บ หรือที่คั่นหน้า)\n\nเมื่อผู้มาเยือนของคุณใช้งานเสร็จแล้ว ข้อมูลการท่องเว็บของเขาจะถูกลบ และวาระของคุณจะถูกเรียกคืนมา">
 <!ENTITY guest_browsing_notification_title "เปิดการเข้าเว็บโหมดแขก">
 <!ENTITY guest_browsing_notification_text "แตะเพื่อออก">
 
-<!ENTITY exit_guest_session_title "&brandShortName; จะเริ่มทำงานใหม่">
 <!ENTITY exit_guest_session_text "ข้อมูลการท่องเว็บจากวาระนี้จะถูกลบ">
 <!-- Miscellaneous -->
 <!-- LOCALIZATION NOTE (ellipsis): This text is appended to a piece of text that does not fit in the
      designated space. Use the unicode ellipsis char, \u2026, or use "..." if \u2026 doesn't suit
      traditions in your locale. -->
 
-<!ENTITY ellipsis "...">
-
-<!ENTITY colon ":">
 <!-- These are only used for accessibility for the done and overflow-menu buttons in the actionbar.
      They are never shown to users -->
-
-<!ENTITY actionbar_menu "เมนู">
 <!ENTITY actionbar_done "เสร็จ">
+<!-- Voice search in the awesome bar -->
+
+
+
+
 <!-- Localization note (remote_tabs_last_synced): the variable is replaced by a
      "relative time span string" produced by Android.  This string describes the
      time the tabs were last synced relative to the current time; examples
@@ -566,6 +554,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      their desktop or laptop.-->
 
 <!ENTITY remote_tabs_last_synced "ครั้งล่าสุดที่ซิงค์: &formatS;">
+<!-- Localization note: Used when the sync has not happend yet, showed in place of a date -->
 <!-- Find-In-Page strings -->
 <!-- LOCALIZATION NOTE (find_matchcase): This is meant to appear as an icon that changes color
      if match-case is activated. i.e. No more than two letters, one uppercase, one lowercase. -->
