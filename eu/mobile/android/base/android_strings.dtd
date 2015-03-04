@@ -6,8 +6,7 @@
 <!ENTITY  no_space_to_start_error "Ez dago toki libre nahikorik &brandShortName; hasteko.">
 <!ENTITY  error_loading_file "Errorea gertatu da &brandShortName; exekutatzeko behar diren fitxategiak kargatzean">
 
-<!ENTITY  onboard_start_message "Ongi etorri &brandShortName;(e)ra!">
-<!ENTITY  onboard_start_subtext "Zurekin, zure pribatutasunarekin eta Web irekiarekin konprometituta">
+
 <!ENTITY  onboard_start_button_account "Hasi saioa &brandShortName;(e)n">
 <!ENTITY  onboard_start_button_browser "Hasi nabigatzen">
 <!-- Localization note: These are used as the titles of different pages on the home screen.
@@ -110,7 +109,7 @@
 
 <!ENTITY overlay_share_send_tab_btn_label "Bidali beste gailu batera">
 <!ENTITY overlay_share_no_url "Ez da loturarik aurkitu partekatze honetan">
-<!ENTITY overlay_share_retry "Saiatu berriro">
+
 <!ENTITY overlay_share_select_device "Hautatu gailua">
 
 <!ENTITY pref_category_search_summary "Pertsonalizatu bilaketa-hornitzaileak">
@@ -208,6 +207,8 @@ size. -->
 <!ENTITY pref_media_autoplay_enabled "Baimendu auto-erreprodukzioa">
 <!ENTITY pref_media_autoplay_enabled_summary "Kontrolatu webguneek bideoak eta bestelako multimedia-edukiak automatikoki erreproduzi ditzaketen ala ez">
 
+
+
 <!ENTITY pref_use_master_password "Erabili pasahitz nagusia">
 <!ENTITY pref_sync "Sync">
 <!ENTITY pref_sync_summary "Sinkronizatu zure fitxak, laster-markak, pasahitzak, historia">
@@ -263,7 +264,7 @@ size. -->
      (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
 <!ENTITY datareporting_crashreporter_title_short "Hutsegiteen berriemailea">
 <!ENTITY datareporting_wifi_title2 "&vendorShortName; kokapen-zerbitzuak">
-<!ENTITY datareporting_wifi_geolocation_summary2 "Wi-Fi eta sare mugikorretan zure gailuaren gutxi gorabeherako kokapena partekatzen du &vendorShortName;(r)ekin gure geokokapen-zerbitzua hobetzeko.">
+
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
      actual notification that an update is available. -->
@@ -540,6 +541,11 @@ Android-etik">
 <!-- These are only used for accessibility for the done and overflow-menu buttons in the actionbar.
      They are never shown to users -->
 <!ENTITY actionbar_done "Eginda">
+<!-- Voice search in the awesome bar -->
+
+
+
+
 <!-- Localization note (remote_tabs_last_synced): the variable is replaced by a
      "relative time span string" produced by Android.  This string describes the
      time the tabs were last synced relative to the current time; examples
@@ -548,6 +554,7 @@ Android-etik">
      their desktop or laptop.-->
 
 <!ENTITY remote_tabs_last_synced "Azken sinkronizazioa: &formatS;">
+<!-- Localization note: Used when the sync has not happend yet, showed in place of a date -->
 <!-- Find-In-Page strings -->
 <!-- LOCALIZATION NOTE (find_matchcase): This is meant to appear as an icon that changes color
      if match-case is activated. i.e. No more than two letters, one uppercase, one lowercase. -->

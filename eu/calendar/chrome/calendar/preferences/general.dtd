@@ -33,6 +33,10 @@
 <!ENTITY pref.default_task_offset_start.label "Hasierarekiko erlatiboa">
 <!ENTITY pref.default_task_offset_next_hour.label "Hurrengo orduarekiko erlatiboa">
 
+<!ENTITY pref.calendar.todaypane.agenda.caption "Gaurko panela">
+
+
+
 <!ENTITY pref.accessibility.label "Erabilgarritasuna" >
 <!ENTITY pref.systemcolors.label "Optimizatu koloreak erabilgarritasunerako" >
 <!ENTITY pref.systemcolors.accesskey "k">

@@ -145,6 +145,8 @@
 <!ENTITY messagePaneVertical.accesskey "B">
 <!ENTITY showFolderPaneCmd.label "Karpeten panela">
 <!ENTITY showFolderPaneCmd.accesskey "K">
+
+
 <!ENTITY showMessageCmd.label "Mezuen panela">
 <!ENTITY showMessageCmd.accesskey "M">
 
@@ -593,7 +595,9 @@
 <!ENTITY manageTags.accesskey "K">
 <!-- Folder Pane -->
 
-<!ENTITY folderColumn.label "Izena">
+<!ENTITY folderNameColumn.label "Izena">
+
+
 <!ENTITY folderSizeColumn.label "Tamaina">
 <!-- Folder Pane Context Menu -->
 
@@ -662,8 +666,8 @@
 <!ENTITY statusColumn.label "Egoera">
 <!ENTITY sizeColumn.label "Tamaina">
 <!ENTITY junkStatusColumn.label "Zabor-postaren egoera">
-<!ENTITY unreadColumn.label "Irakurri gabeak">
-<!ENTITY totalColumn.label "Guztira">
+
+
 <!ENTITY readColumn.label "Irakurriak">
 <!ENTITY receivedColumn.label "Jasoa">
 <!ENTITY starredColumn.label "Izarduna">
