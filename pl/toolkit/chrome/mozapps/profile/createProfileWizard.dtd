@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY newprofile.title             "Kreator nowego profilu">
-<!ENTITY window.size                  "width: 54em; height: 38em;">
+<!ENTITY window.size "width: 45em; height: 32em;">
 
 <!-- First wizard page -->
 <!ENTITY profileCreationExplanation_1.text  "&brandShortName; przechowuje informacje o ustawieniach i preferencjach użytkownika w prywatnym profilu.">
