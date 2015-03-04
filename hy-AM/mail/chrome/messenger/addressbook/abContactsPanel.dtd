@@ -4,8 +4,8 @@
 
 <!ENTITY addressbookPicker.label            "Հասցեագիրքը.">
 <!ENTITY addressbookPicker.accesskey        "k">
-<!ENTITY searchInput.label                  "Փնտրել՝">
-<!ENTITY searchInput.accesskey              "o">
+<!ENTITY searchInput.label                  "Որոնել հետևյալը՝">
+<!ENTITY searchInput.accesskey              "և">
 <!ENTITY SearchNameOrEmail.label            "Անունը կամ էլ. հասցեն">
 
 <!ENTITY deleteAddrBookCard.label           "Ջնջել">

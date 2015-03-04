@@ -11,7 +11,7 @@
 <!ENTITY  focusSearch1.key            "f">
 <!ENTITY  focusSearch2.key            "k">
 
-<!ENTITY  filter.placeholder          "Փնտրել">
+<!ENTITY  filter.placeholder          "Որոնում">
 
 <!ENTITY saveTo.label                 "Պահել ֆայլերը՝">
 <!ENTITY saveTo.accesskey             "S">

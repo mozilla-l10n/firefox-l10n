@@ -263,10 +263,10 @@
 <!ENTITY getAllNewMessagesCmd.key "Y">
 <!-- Search Menu -->
 
-<!ENTITY findMenu.label "Փնտրել">
-<!ENTITY findMenu.accesskey "F">
-<!ENTITY findCmd.label "Փնտրել այս նամակում...">
-<!ENTITY findCmd.accesskey "F">
+<!ENTITY findMenu.label "Որոնում">
+<!ENTITY findMenu.accesskey "Ո">
+<!ENTITY findCmd.label "Որոնել այս նամակում...">
+<!ENTITY findCmd.accesskey "Ո">
 <!ENTITY findCmd.key "Փ">
 <!ENTITY findAgainCmd.label "Կրկին փնտրել">
 <!ENTITY findAgainCmd.accesskey "g">
@@ -274,11 +274,11 @@
 <!ENTITY findAgainCmd.key2 "VK_F3">
 <!ENTITY findPrevCmd.key "g">
 <!ENTITY findPrevCmd.key2 "VK_F3">
-<!ENTITY searchMailCmd.label "Փնտրել նամակներ...">
-<!ENTITY searchMailCmd.accesskey "M">
+<!ENTITY searchMailCmd.label "Նամակների որոնում...">
+<!ENTITY searchMailCmd.accesskey "ո">
 <!ENTITY searchMailCmd.key "Փ">
-<!ENTITY searchAddressesCmd.label "Փնտրել հասցեներ...">
-<!ENTITY searchAddressesCmd.accesskey "S">
+<!ENTITY searchAddressesCmd.label "Հասցեների որոնում...">
+<!ENTITY searchAddressesCmd.accesskey "Հ">
 <!-- Go Menu -->
 
 <!ENTITY goMenu.label "Անցնել">
@@ -629,8 +629,8 @@
 <!ENTITY folderContextMarkMailFolderRead.accesskey "k">
 <!ENTITY folderContextSubscribe.label "Բաժանորդագրվել...">
 <!ENTITY folderContextSubscribe.accesskey "b">
-<!ENTITY folderContextSearchForMessages.label "Փնտրել նամակներ...">
-<!ENTITY folderContextSearchForMessages.accesskey "Փ">
+<!ENTITY folderContextSearchForMessages.label "Նամակների որոնում...">
+<!ENTITY folderContextSearchForMessages.accesskey "Ն">
 <!ENTITY folderContextProperties2.label "Հատկություններ">
 <!ENTITY folderContextProperties2.accesskey "Հ">
 <!ENTITY folderContextFavoriteFolder.label "Ընտրյալ թղթապանակ">
@@ -643,7 +643,7 @@
 <!ENTITY SearchNameOrEmail.accesskey "N">
 <!-- Gloda Search Bar -->
 
-<!ENTITY glodaSearchBar.placeholder "Փնտրել նամակներ...">
+<!ENTITY glodaSearchBar.placeholder "Նամակների որոնում...">
 <!-- Quick Search Menu Bar -->
 
 <!ENTITY searchSubjectMenu.label "Վերնագիրը">
@@ -821,7 +821,7 @@
      to get to the box faster.  If the global indexer is disabled, the search
      box will be collapsed and the user will never see this message.
      -->
-<!ENTITY search.label.base "Փնտրել... #1 ">
+<!ENTITY search.label.base "Որոնում… #1">
 <!-- LOCALIZATION NOTE (search.keyLabel.nonmac):
      The description of the key-binding to get into the global search box on
      windows and linux (which use the control key).  We use the key defined in

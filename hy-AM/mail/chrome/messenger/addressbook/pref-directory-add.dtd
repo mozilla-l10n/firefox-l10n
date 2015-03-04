@@ -9,8 +9,8 @@
 <!ENTITY directoryHostname.accesskey       "o">
 <!ENTITY directoryBaseDN.label             "Բազայի DN-ն.">
 <!ENTITY directoryBaseDN.accesskey         "B">
-<!ENTITY findButton.label                  "Փնտրել">
-<!ENTITY findButton.accesskey              "F">
+<!ENTITY findButton.label                  "Գտնել">
+<!ENTITY findButton.accesskey              "Գ">
 <!ENTITY directorySecure.label             "Օգտ. անվտանգ կապակցում (SSL)">
 <!ENTITY directorySecure.accesskey         "Օ">
 <!ENTITY directoryLogin.label              "Bind DN: ">
@@ -20,8 +20,8 @@
 <!ENTITY Advanced.tab                      "Ընդլայնված">
 <!ENTITY portNumber.label                  "Պորտի համարը.">
 <!ENTITY portNumber.accesskey              "P">
-<!ENTITY searchFilter.label                "Փնտրելու ֆիլտրը.">
-<!ENTITY searchFilter.accesskey            "f">
+<!ENTITY searchFilter.label                "Զտիչների որոնում. ">
+<!ENTITY searchFilter.accesskey            "ո">
 <!ENTITY scope.label                       "Շրջանը.">
 <!ENTITY scope.accesskey                   "c">
 <!ENTITY scopeOneLevel.label               "Մեկ մակարդակ">

@@ -13,8 +13,8 @@
 <!ENTITY caseSensitiveCheckbox.accesskey "c">
 <!ENTITY wrapCheckbox.label "Տողադարձել">
 <!ENTITY wrapCheckbox.accesskey "W">
-<!ENTITY backwardsCheckbox.label "Փնտրել հետադարձեր">
-<!ENTITY backwardsCheckbox.accesskey "b">
+<!ENTITY backwardsCheckbox.label "Որոնել հետադարձեր">
+<!ENTITY backwardsCheckbox.accesskey "հ">
 <!ENTITY findNextButton.label "Գտնել հաջորդը">
 <!ENTITY findNextButton.accesskey "F">
 <!ENTITY replaceButton.label "Փոխարինել">
