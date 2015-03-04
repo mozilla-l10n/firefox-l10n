@@ -14,7 +14,7 @@
 <!ENTITY chooseFoldersButton.label "Dewis…">
 <!ENTITY chooseFoldersButton.accesskey "D">
 
-<!ENTITY searchOnline.label "Chwilio Ar-lein (Mae'n cynnig canlyniadau diwedd ar ffolderi IMAP a Newyddion ond mae'n cymryd mwy o amser i agor y ffolder)">
+<!ENTITY searchOnline.label "Chwilio Ar-lein (Mae'n cynnig y canlyniadau diweddaraf ar ffolderi IMAP a Newyddion ond mae'n cymryd mwy o amser i agor y ffolder)">
 <!ENTITY searchOnline.accesskey "A">
 <!ENTITY newFolderButton.label       "Creu">
 <!ENTITY newFolderButton.accesskey   "r">

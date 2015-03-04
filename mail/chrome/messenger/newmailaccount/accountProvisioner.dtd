@@ -22,7 +22,7 @@
 <!ENTITY success.title.before "Helo ">
 <!ENTITY success.title.after ", mae'r cyfeiriadau e-bost canlynol ar gael ar eich cyfer:">
 <!ENTITY success.tip "(Gallwch hefyd chwilio am lysenwau neu dermau eraill i ganfod ragor o e-byst eraill)">
-<!ENTITY partnership.description "Mewn partneriaeth a nifer o ddarparwyr mae &brandShortName; yn gallu cynnig cyfrif e-bost newydd i chi. Llenwch eich enw cyntaf ac olaf, neu unrhyw eiriau'r hoffech chi yn y meysydd uchod er mwyn cychwyn arni.">
+<!ENTITY partnership.description "Mewn partneriaeth â nifer o ddarparwyr, mae &brandShortName; yn gallu cynnig cyfrif e-bost newydd i chi. Llenwch eich enw cyntaf ac olaf, neu unrhyw eiriau'r hoffech chi yn y meysydd uchod er mwyn cychwyn arni.">
 <!ENTITY existing.header "A oes gennych gyfrif cyfredol yr hoffech ei defnyddio?">
 <!ENTITY tinyheader.title "A oes gennych gyfeiriad?">
 <!ENTITY tinyheader.existing "Hepgor hwn a defnyddio fy e-bost cyfredol">
