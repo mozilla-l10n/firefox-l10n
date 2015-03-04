@@ -23,7 +23,7 @@
 <!ENTITY publishCmd.key                    "S">
 <!ENTITY publishAsCmd.label                "Opublikuj jako…">
 <!ENTITY publishAsCmd.accesskey            "j">
-<!ENTITY saveAsChangeEncodingCmd.label     "Zapisz i zmień kodowanie znaków">
+<!ENTITY saveAsChangeEncodingCmd.label     "Zapisz i zmień kodowanie znaków">
 <!ENTITY saveAsChangeEncodingCmd.accesskey "m">
 
 <!-- Edit menu items -->

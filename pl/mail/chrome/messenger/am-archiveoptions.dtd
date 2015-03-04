@@ -10,7 +10,7 @@
 <!ENTITY archiveYearly.accesskey        "r">
 <!ENTITY archiveMonthly.label           "miesięcznych folderach">
 <!ENTITY archiveMonthly.accesskey       "m">
-<!ENTITY keepFolderStructure.label      "Utrzymuj istniejącą strukturę folderów w archiwum">
+<!ENTITY keepFolderStructure.label      "Utrzymuj istniejącą strukturę folderów w archiwum">
 <!ENTITY keepFolderStructure.accesskey  "U">
 <!ENTITY archiveExample.label           "Przykład">
 <!ENTITY archiveFolderName.label        "Archiwum">

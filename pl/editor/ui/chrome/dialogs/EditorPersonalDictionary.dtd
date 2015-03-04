@@ -7,7 +7,7 @@
 <!ENTITY wordEditField.accessKey "N">
 <!ENTITY AddButton.label "Dodaj">
 <!ENTITY AddButton.accessKey "D">
-<!ENTITY DictionaryList.label "Słowa w słowniku:">
+<!ENTITY DictionaryList.label "Słowa w słowniku:">
 <!ENTITY DictionaryList.accessKey "S">
 <!ENTITY ReplaceButton.label "Zamień">
 <!ENTITY ReplaceButton.accessKey "a">

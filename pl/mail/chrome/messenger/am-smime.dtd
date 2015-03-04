@@ -4,14 +4,14 @@
 
 <!ENTITY securityTitle.label         "Zabezpieczenia wiadomości">
 <!ENTITY securityTab.label           "Zabezpieczenia">
-<!ENTITY securityHeading.label       "Aby wysyłać i odbierać wiadomości podpisane cyfrowo lub zaszyfrowane, należy określić certyfikat podpisu osobistego oraz certyfikat szyfrujący.">
+<!ENTITY securityHeading.label       "Aby wysyłać i odbierać wiadomości podpisane cyfrowo lub zaszyfrowane, należy określić certyfikat podpisu osobistego oraz certyfikat szyfrujący.">
 <!ENTITY encryptionGroupTitle.label  "Szyfrowanie wiadomości">
 <!ENTITY encryptionChoiceLabel.label "Domyślne ustawienia szyfrowania podczas wysyłania wiadomości:">
 <!ENTITY neverEncrypt.label          "Nigdy (nie używaj szyfrowania)">
 <!ENTITY neverEncrypt.accesskey      "N">
 <!ENTITY alwaysEncryptMessage.label              "Wymagaj (nie można wysłać wiadomości jeśli nie wszyscy adresaci mają certyfikat)">
 <!ENTITY alwaysEncryptMessage.accesskey          "a">
-<!ENTITY encryptionCert.message                  "Certyfikat do szyfrowania i deszyfrowania otrzymanych wiadomości:">
+<!ENTITY encryptionCert.message                  "Certyfikat do szyfrowania i deszyfrowania otrzymanych wiadomości:">
 <!ENTITY digitalSign.certificate.button          "Wybierz…">
 <!ENTITY digitalSign.certificate.accesskey       "z">
 <!ENTITY digitalSign.certificate_clear.button    "Wyczyść">

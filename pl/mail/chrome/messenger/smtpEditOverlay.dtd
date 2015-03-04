@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY settings.caption               "Ustawienia">
-<!ENTITY security.caption               "Zabezpieczenia i uwierzytelnianie">
+<!ENTITY security.caption               "Zabezpieczenia i uwierzytelnianie">
 <!ENTITY serverName.label               "Nazwa serwera:">
 <!ENTITY serverName.accesskey           "N">
 <!ENTITY serverDescription.label        "Opis:">

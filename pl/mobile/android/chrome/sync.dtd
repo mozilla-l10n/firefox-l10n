@@ -11,9 +11,9 @@
 <!ENTITY sync.disconnect            "Rozłącz">
 <!ENTITY sync.syncNow               "Zsynchronizuj">
 
-<!ENTITY sync.setup.title           "Połącz z Sync">
+<!ENTITY sync.setup.title           "Połącz z Sync">
 <!ENTITY sync.setup.pair            "Aby aktywować, na innym urządzeniu wybierz &#x0022;Sparuj urządzenie&#x0022;.">
-<!ENTITY sync.fallback              "Nie jestem w pobliżu mojego komputera…">
+<!ENTITY sync.fallback              "Nie jestem w pobliżu mojego komputera…">
 <!ENTITY sync.setup.manual          "Wprowadź dane konta Sync">
 <!ENTITY sync.account               "Nazwa konta">
 <!ENTITY sync.password              "Hasło">
@@ -28,4 +28,4 @@
 <!ENTITY sync.pair.title            "Sparuj urządzenie">
 <!ENTITY sync.pair.description      "Aby aktywować nowe urządzenie, wybierz na nim opcję &#x0022;Skonfiguruj synchronizację&#x0022;.">
 <!ENTITY sync.setup.close           "Zamknij">
-<!ENTITY sync.setup.waitingdownload "Twoje dane zostaną pobrane w tle. Zamknięcie tego okna nie przerwie synchronizacji.">
+<!ENTITY sync.setup.waitingdownload "Twoje dane zostaną pobrane w tle. Zamknięcie tego okna nie przerwie synchronizacji.">

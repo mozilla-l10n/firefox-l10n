@@ -32,7 +32,7 @@
 <!ENTITY filterActionDesc.label      "…i wykonuj następujące czynności:">
 <!ENTITY filterActionDesc.accesskey  "k">
 
-<!ENTITY filterActionOrderWarning.label "Filtrowanie odbędzie się w innej niż wyświetlana kolejności.">
+<!ENTITY filterActionOrderWarning.label "Filtrowanie odbędzie się w innej niż wyświetlana kolejności.">
 <!ENTITY filterActionOrder.label "Wyświetl kolejność">
 
 <!-- New Style Filter Rule Actions -->
@@ -47,8 +47,8 @@
 <!ENTITY addTag.label             "Oznacz etykietą">
 <!ENTITY setJunkScore.label       "Ustaw status niechcianej poczty na">
 <!ENTITY deleteMessage.label      "Usuń wiadomość">
-<!ENTITY deleteFromPOP.label      "Usuń z serwera POP">
-<!ENTITY fetchFromPOP.label       "Pobierz treść z serwera POP">
+<!ENTITY deleteFromPOP.label      "Usuń z serwera POP">
+<!ENTITY fetchFromPOP.label       "Pobierz treść z serwera POP">
 <!ENTITY ignoreThread.label       "Ignoruj wątek">
 <!ENTITY ignoreSubthread.label    "Ignoruj odpowiedzi">
 <!ENTITY watchThread.label        "Śledź wątek">

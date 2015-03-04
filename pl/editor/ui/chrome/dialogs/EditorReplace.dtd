@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY replaceDialog.title "Znajdź i zamień">
+<!ENTITY replaceDialog.title "Znajdź i zamień">
 <!ENTITY findField.label "Znajdź tekst:">
 <!ENTITY findField.accesskey "t">
 <!ENTITY replaceField.label "Zamień na:">
@@ -17,7 +17,7 @@
 <!ENTITY findNextButton.accesskey "Z">
 <!ENTITY replaceButton.label "Zamień">
 <!ENTITY replaceButton.accesskey "m">
-<!ENTITY replaceAndFindButton.label "Znajdź i zamień">
+<!ENTITY replaceAndFindButton.label "Znajdź i zamień">
 <!ENTITY replaceAndFindButton.accesskey "a">
 <!ENTITY replaceAllButton.label "Zamień wszystko">
 <!ENTITY replaceAllButton.accesskey "s">

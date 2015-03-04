@@ -58,7 +58,7 @@
 
 <!ENTITY update.applying "Instalowanie aktualizacji…">
 
-<!ENTITY channel.description.start "Obecnie korzystasz z kanału aktualizacji ">
+<!ENTITY channel.description.start "Obecnie korzystasz z kanału aktualizacji ">
 <!ENTITY channel.description.end   ". ">
 
 <!ENTITY cmdCloseMac.commandKey "w">

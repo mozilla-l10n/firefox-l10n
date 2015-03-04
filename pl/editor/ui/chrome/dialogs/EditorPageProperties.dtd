@@ -13,4 +13,4 @@
 <!ENTITY descriptionInput.accessKey "O">
 <!ENTITY locationNewPage.label "[Ta strona nie została jeszcze zapisana]">
 <!ENTITY EditHEADSource1.label "Zaawansowani użytkownicy:">
-<!ENTITY EditHEADSource2.label "W celu edycji innych elementów nagłówka &lt;head&gt;, należy przełączyć się do trybu edycji źródła wybierając „Źródło HTML” w menu Widok lub klikając zakładkę „Źródło” na Pasku trybu edycji.">
+<!ENTITY EditHEADSource2.label "W celu edycji innych elementów nagłówka &lt;head&gt;, należy przełączyć się do trybu edycji źródła wybierając „Źródło HTML” w menu Widok lub klikając zakładkę „Źródło” na Pasku trybu edycji.">

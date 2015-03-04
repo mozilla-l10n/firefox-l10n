@@ -5,7 +5,7 @@
 <!ENTITY windowTitle.label "Kolor">
 <!ENTITY lastPickedColor.label "Ostatnio wybrany kolor">
 <!ENTITY lastPickedColor.accessKey "O">
-<!ENTITY setColor1.label "Wybierz kolor z tabeli powyżej">
+<!ENTITY setColor1.label "Wybierz kolor z tabeli powyżej">
 <!ENTITY setColor2.label "lub wprowadź kod HTML koloru">
 <!ENTITY setColor2.accessKey "H">
 <!ENTITY setColorExample.label     "(np.: „#0000ff” lub „blue”):">

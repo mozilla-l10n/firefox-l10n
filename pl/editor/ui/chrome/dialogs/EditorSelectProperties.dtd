@@ -37,7 +37,7 @@
 <!ENTITY AddOptGroup.accesskey "g">
 <!ENTITY RemoveElement.label "Usuń">
 <!ENTITY RemoveElement.accesskey "U">
-<!ENTITY MoveElementUp.label "Przenieś w górę">
+<!ENTITY MoveElementUp.label "Przenieś w górę">
 <!ENTITY MoveElementUp.accesskey "g">
-<!ENTITY MoveElementDown.label "Przenieś w dół">
+<!ENTITY MoveElementDown.label "Przenieś w dół">
 <!ENTITY MoveElementDown.accesskey "d">

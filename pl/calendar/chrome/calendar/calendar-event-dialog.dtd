@@ -33,7 +33,7 @@
 
 <!ENTITY event.attendees.notify.label "Powiadom uczestników">
 <!ENTITY event.attendees.notifyundisclosed.label "Osobne zaproszenia dla uczestników">
-<!ENTITY event.attendees.notifyundisclosed.tooltip "Gdy włączone, uczestnicy dostaną zaproszenia w oddzielnych wiadomościach e-mail i nie dowiedzą się z nich o innych zaproszonych uczestnikach.">
+<!ENTITY event.attendees.notifyundisclosed.tooltip "Gdy włączone, uczestnicy dostaną zaproszenia w oddzielnych wiadomościach e-mail i nie dowiedzą się z nich o innych zaproszonych uczestnikach.">
 
 <!-- Keyboard Shortcuts -->
 <!ENTITY event.dialog.new.event.key2              "I">
@@ -65,7 +65,7 @@
 <!ENTITY  event.menu.item.close.accesskey                 "Z">
 <!ENTITY  event.menu.item.save.label                      "Zapisz">
 <!ENTITY  event.menu.item.save.accesskey                  "s">
-<!ENTITY  event.menu.item.saveandclose.label              "Zapisz i zamknij">
+<!ENTITY  event.menu.item.saveandclose.label              "Zapisz i zamknij">
 <!ENTITY  event.menu.item.saveandclose.accesskey          "k">
 <!ENTITY  event.menu.item.delete.label                    "Usuń…">
 <!ENTITY  event.menu.item.delete.accesskey                "U">
@@ -120,7 +120,7 @@
 <!ENTITY  event.menu.options.privacy.accesskey                 "P">
 <!ENTITY  event.menu.options.privacy.public.label              "Wydarzenie publiczne">
 <!ENTITY  event.menu.options.privacy.public.accesskey          "W">
-<!ENTITY  event.menu.options.privacy.confidential.label        "Pokaż tylko datę i czas">
+<!ENTITY  event.menu.options.privacy.confidential.label        "Pokaż tylko datę i czas">
 <!ENTITY  event.menu.options.privacy.confidential.accesskey    "d">
 <!ENTITY  event.menu.options.privacy.private.label             "Wydarzenie prywatne">
 <!ENTITY  event.menu.options.privacy.private.accesskey         "n">
@@ -139,12 +139,12 @@
 <!ENTITY event.email.tentative.attendees.accesskey        "n">
 
 <!-- Toolbar -->
-<!ENTITY  event.toolbar.save.label                        "Zapisz i zamknij">
+<!ENTITY  event.toolbar.save.label                        "Zapisz i zamknij">
 <!ENTITY  event.toolbar.delete.label                      "Usuń">
 <!ENTITY  event.toolbar.attendees.label                   "Zaproś uczestników">
 <!ENTITY  event.toolbar.privacy.label                     "Prywatność">
 
-<!ENTITY event.toolbar.save.tooltip "Zapisz i zamknij">
+<!ENTITY event.toolbar.save.tooltip "Zapisz i zamknij">
 <!ENTITY event.toolbar.delete.tooltip "Usuń">
 <!ENTITY event.toolbar.attendees.tooltip "Zaproś uczestników">
 <!ENTITY event.toolbar.attachments.tooltip "Dodaj załączniki">
@@ -205,16 +205,16 @@
 <!ENTITY event.priority2.label                            "Priorytet:">
 
 <!ENTITY event.reminder.none.label                        "Bez przypomnienia " >
-<!ENTITY event.reminder.0minutes.before.label             "0 minut przed" >
-<!ENTITY event.reminder.5minutes.before.label             "5 minut przed" >
-<!ENTITY event.reminder.15minutes.before.label            "15 minut przed" >
-<!ENTITY event.reminder.30minutes.before.label            "30 minut przed" >
-<!ENTITY event.reminder.1hour.before.label                "1 godzinę przed" >
-<!ENTITY event.reminder.2hours.before.label               "2 godziny przed" >
-<!ENTITY event.reminder.12hours.before.label              "12 godzin przed" >
-<!ENTITY event.reminder.1day.before.label                 "1 dzień przed" >
-<!ENTITY event.reminder.2days.before.label                "2 dni przed" >
-<!ENTITY event.reminder.1week.before.label                "1 tydzień przed" >
+<!ENTITY event.reminder.0minutes.before.label             "0 minut przed" >
+<!ENTITY event.reminder.5minutes.before.label             "5 minut przed" >
+<!ENTITY event.reminder.15minutes.before.label            "15 minut przed" >
+<!ENTITY event.reminder.30minutes.before.label            "30 minut przed" >
+<!ENTITY event.reminder.1hour.before.label                "1 godzinę przed" >
+<!ENTITY event.reminder.2hours.before.label               "2 godziny przed" >
+<!ENTITY event.reminder.12hours.before.label              "12 godzin przed" >
+<!ENTITY event.reminder.1day.before.label                 "1 dzień przed" >
+<!ENTITY event.reminder.2days.before.label                "2 dni przed" >
+<!ENTITY event.reminder.1week.before.label                "1 tydzień przed" >
 <!ENTITY event.reminder.custom.label                      "Ustaw…" >
 
 <!ENTITY event.reminder.multiple.label                    "Przypomnienia wielokrotne…" >
@@ -267,7 +267,7 @@
 <!ENTITY event.recurrence.pattern.monthly.week.6.label  "piątek" >
 <!ENTITY event.recurrence.pattern.monthly.week.7.label  "sobota" >
 <!ENTITY event.recurrence.repeat.dayofmonth.label       "dzień miesiąca">
-<!ENTITY event.recurrence.repeat.recur.label            "Powtarzaj w dni">
+<!ENTITY event.recurrence.repeat.recur.label            "Powtarzaj w dni">
 
 <!ENTITY event.recurrence.every.label                        "Raz na" >
 <!ENTITY repeat.units.years.both                             "lat" >

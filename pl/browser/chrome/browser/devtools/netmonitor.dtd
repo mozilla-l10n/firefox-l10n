@@ -6,7 +6,7 @@
 <!ENTITY netmonitorUI.perfNotice2 ", aby rozpocząć analizowanie wydajności.">
 <!ENTITY netmonitorUI.reloadNotice1 "• Wyślij żądanie lub ">
 <!ENTITY netmonitorUI.reloadNotice2 "wczytaj stronę ponownie">
-<!ENTITY netmonitorUI.reloadNotice3 ", aby zobaczyć szczegółowe informacje o aktywności sieciowej.">
+<!ENTITY netmonitorUI.reloadNotice3 ", aby zobaczyć szczegółowe informacje o aktywności sieciowej.">
 
 <!ENTITY netmonitorUI.toolbar.status2 "✓">
 <!-- LOCALIZATION NOTE (netmonitorUI.toolbar.method): This is the label displayed
@@ -93,7 +93,7 @@
 <!ENTITY netmonitorUI.footer.perf "Przełącz analizowanie wydajności…">
 <!-- LOCALIZATION NOTE (debuggerUI.panesButton.tooltip): This is the tooltip for
   -  the button that toggles the panes visible or hidden in the netmonitor UI. -->
-<!ENTITY netmonitorUI.panesButton.tooltip "Przełącz info o sieci">
+<!ENTITY netmonitorUI.panesButton.tooltip "Przełącz info o sieci">
 
 <!-- LOCALIZATION NOTE (debuggerUI.summary.url): This is the label displayed
   -  in the network details headers tab identifying the URL. -->
@@ -161,8 +161,8 @@
   -  in a "receive" state. -->
 <!ENTITY netmonitorUI.timings.receive     "Odbieranie:">
 
-<!ENTITY netmonitorUI.security.warning.sslv3 "Protokół SSL 3.0 jest przestarzały i niebezpieczny">
-<!ENTITY netmonitorUI.security.warning.cipher "Użyty szyfr jest przestarzały i niebezpieczny">
+<!ENTITY netmonitorUI.security.warning.sslv3 "Protokół SSL 3.0 jest przestarzały i niebezpieczny">
+<!ENTITY netmonitorUI.security.warning.cipher "Użyty szyfr jest przestarzały i niebezpieczny">
 <!ENTITY netmonitorUI.security.error "Wystąpił błąd:">
 <!ENTITY netmonitorUI.security.protocolVersion "Wersja protokołu:">
 <!ENTITY netmonitorUI.security.cipherSuite "Szyfr:">
@@ -178,9 +178,9 @@
 <!ENTITY netmonitorUI.context.copyUrl.accesskey "K">
 <!ENTITY netmonitorUI.context.copyImageAsDataUri "Kopiuj obrazek jako Data URI">
 <!ENTITY netmonitorUI.context.copyImageAsDataUri.accesskey "D">
-<!ENTITY netmonitorUI.context.newTab "Otwórz w nowej karcie">
+<!ENTITY netmonitorUI.context.newTab "Otwórz w nowej karcie">
 <!ENTITY netmonitorUI.context.newTab.accesskey "O">
-<!ENTITY netmonitorUI.summary.editAndResend "Edytuj i wyślij ponownie">
+<!ENTITY netmonitorUI.summary.editAndResend "Edytuj i wyślij ponownie">
 <!ENTITY netmonitorUI.summary.editAndResend.accesskey "E">
 <!ENTITY netmonitorUI.summary.rawHeaders "Nieprzetworzone nagłówki">
 <!ENTITY netmonitorUI.summary.rawHeaders.requestHeaders "Nagłówki żądania:">

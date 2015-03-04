@@ -7,9 +7,9 @@
 <!ENTITY menu_securitySign.label               "Podpisz cyfrowo tę wiadomość">
 <!ENTITY menu_securitySign.accesskey           "P">
 
-<!ENTITY menu_securityStatus.label         "Pokaż informacje o zabezpieczeniach">
+<!ENTITY menu_securityStatus.label         "Pokaż informacje o zabezpieczeniach">
 <!ENTITY menu_securityStatus.accesskey     "z">
-<!ENTITY menu_viewSecurityStatus.label     "Informacje o zabezpieczeniach wiadomości">
+<!ENTITY menu_viewSecurityStatus.label     "Informacje o zabezpieczeniach wiadomości">
 <!ENTITY menu_viewSecurityStatus.accesskey "I">
 
 <!ENTITY securityButton.label   "Zabezpieczenia">

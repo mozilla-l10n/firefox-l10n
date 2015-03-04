@@ -14,7 +14,7 @@
 <!ENTITY chooseFoldersButton.label     "Wybierz…">
 <!ENTITY chooseFoldersButton.accesskey "z">
 
-<!ENTITY searchOnline.label     "Szukaj online (daje aktualne wyniki dla folderów IMAP i grup dyskusyjnych, ale przez to wydłuża się czas otwierania folderu)">
+<!ENTITY searchOnline.label     "Szukaj online (daje aktualne wyniki dla folderów IMAP i grup dyskusyjnych, ale przez to wydłuża się czas otwierania folderu)">
 <!ENTITY searchOnline.accesskey "o">
 
 <!ENTITY newFolderButton.label      "Utwórz">

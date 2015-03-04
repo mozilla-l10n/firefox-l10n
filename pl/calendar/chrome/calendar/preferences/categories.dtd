@@ -19,6 +19,6 @@
 <!ENTITY pref.categories.color.label "Kolor">
 <!ENTITY pref.categories.usecolor.label "Użyj koloru">
 <!ENTITY pref.categories.none.label "(brak)">
-<!ENTITY pref.categories.overwrite "Istnieje już kategoria o tej nazwie. \n Czy ma ona zostać nadpisana?">
+<!ENTITY pref.categories.overwrite "Istnieje już kategoria o tej nazwie. \n Czy ma ona zostać nadpisana?">
 <!ENTITY pref.categories.overwrite.title "Ostrzeżenie: taka nazwa już istnieje">
 <!ENTITY pref.categories.noBlankCategories "Należy wprowadzić nazwę kategorii.">

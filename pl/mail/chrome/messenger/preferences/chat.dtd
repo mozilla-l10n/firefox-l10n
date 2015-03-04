@@ -4,30 +4,30 @@
 
 <!ENTITY startupAction.label "Po uruchomieniu programu &brandShortName;:">
 <!ENTITY startupAction.accesskey "P">
-<!ENTITY startupOffline.label "nie łącz z kontami czatu">
-<!ENTITY startupConnectAuto.label "łącz z kontami czatu automatycznie">
+<!ENTITY startupOffline.label "nie łącz z kontami czatu">
+<!ENTITY startupConnectAuto.label "łącz z kontami czatu automatycznie">
 
-<!ENTITY reportIdleAfter.label "Wyświetlaj informacje o mojej nieaktywności po">
+<!ENTITY reportIdleAfter.label "Wyświetlaj informacje o mojej nieaktywności po">
 <!ENTITY reportIdleAfter.accesskey "W">
 <!ENTITY idleTime "minutach">
 
-<!ENTITY andSetStatusToAway.label "i ustawiaj status na „Zaraz wracam” z opisem:">
+<!ENTITY andSetStatusToAway.label "i ustawiaj status na „Zaraz wracam” z opisem:">
 <!ENTITY andSetStatusToAway.accesskey "u">
 
-<!ENTITY sendTyping.label "Wysyłaj powiadomienia o pisaniu w trakcie rozmów">
+<!ENTITY sendTyping.label "Wysyłaj powiadomienia o pisaniu w trakcie rozmów">
 <!ENTITY sendTyping.accesskey "t">
 
 <!ENTITY chatNotifications.label "Przy odebraniu wiadomości bezpośrednio skierowanych do użytkownika:">
 <!ENTITY desktopChatNotifications.label "Wyświetlaj powiadomienia:">
-<!ENTITY  completeNotification.label "z nazwą nadawcy i podglądem wiadomości">
-<!ENTITY  buddyInfoOnly.label "tylko z nazwą nadawcy">
+<!ENTITY  completeNotification.label "z nazwą nadawcy i podglądem wiadomości">
+<!ENTITY  buddyInfoOnly.label "tylko z nazwą nadawcy">
 <!ENTITY  dummyNotification.label "bez żadnych informacji">
 <!ENTITY desktopChatNotifications.accesskey "e">
 <!ENTITY chatSound.accesskey "d">
 <!ENTITY chatSound.label "odtwarzaj dźwięk">
 <!ENTITY play.label "Odtwórz">
 <!ENTITY play.accesskey "O">
-<!ENTITY systemSound.label "systemowy dźwięk powiadomienia o nowej poczcie">
+<!ENTITY systemSound.label "systemowy dźwięk powiadomienia o nowej poczcie">
 <!ENTITY systemSound.accesskey "s">
 <!ENTITY customsound.label "użyj pliku">
 <!ENTITY customsound.accesskey "u">

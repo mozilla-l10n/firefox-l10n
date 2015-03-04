@@ -111,7 +111,7 @@
 <!-- Tools Menu -->
 <!ENTITY tasksMenu.label              "Narzędzia">
 <!ENTITY tasksMenu.accesskey          "N">
-<!ENTITY messengerCmd.label           "Poczta i grupy dyskusyjne">
+<!ENTITY messengerCmd.label           "Poczta i grupy dyskusyjne">
 <!ENTITY messengerCmd.accesskey       "P">
 <!ENTITY messengerCmd.commandkey      "1">
 <!ENTITY searchAddressesCmd.label     "Wyszukaj wizytówki…">
@@ -144,7 +144,7 @@
 <!ENTITY newlistButton.tooltip    "Dodaj nową listę dystrybucyjną">
 <!ENTITY editButton2.tooltip      "Edytuj zaznaczony element">
 <!ENTITY newmsgButton.tooltip     "Wyślij wiadomość">
-<!ENTITY newIM.tooltip            "Połącz z adresatem za pomocą komunikatora">
+<!ENTITY newIM.tooltip            "Połącz z adresatem za pomocą komunikatora">
 <!ENTITY deleteButton2.tooltip    "Usuń zaznaczony element">
 
 <!-- Dir Tree header -->
@@ -158,7 +158,7 @@
 <!ENTITY searchItem.title            "Szybkie wyszukiwanie">
 
 <!-- Results Pane -->
-<!ENTITY GeneratedName.label      "Imię i nazwisko">
+<!ENTITY GeneratedName.label      "Imię i nazwisko">
 <!ENTITY GeneratedName.accesskey  "n">
 <!ENTITY PrimaryEmail.label       "E-mail">
 <!ENTITY PrimaryEmail.accesskey   "E">
@@ -204,7 +204,7 @@
 <!ENTITY addresses.heading     "Adresy">
 <!-- For Map It! -->
 <!ENTITY mapItButton.label     "Pokaż mapę">
-<!ENTITY mapIt.tooltip         "Wyświetl mapę z sieci WWW dla tego adresu">
+<!ENTITY mapIt.tooltip         "Wyświetl mapę z sieci WWW dla tego adresu">
 
 <!-- Status Bar -->
 <!ENTITY statusText.label "">

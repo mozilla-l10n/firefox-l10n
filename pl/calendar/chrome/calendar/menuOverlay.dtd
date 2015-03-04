@@ -9,7 +9,7 @@
 <!ENTITY event.new.task                         "Nowe zadanie…">
 <!ENTITY event.new.task.accesskey               "z">
 
-<!ENTITY calendar.import.label                  "Importuj z pliku…">
+<!ENTITY calendar.import.label                  "Importuj z pliku…">
 <!ENTITY calendar.import.accesskey              "I">
 
 <!ENTITY calendar.export.label                  "Eksportuj…">
@@ -20,7 +20,7 @@
 
 <!ENTITY calendar.deletecalendar.label "Usuń wybrany kalendarz…">
 <!ENTITY calendar.deletecalendar.accesskey "U">
-<!ENTITY calendar.unsubscribecalendar.label "Zrezygnuj z subskrypcji wybranego kalendarza…">
+<!ENTITY calendar.unsubscribecalendar.label "Zrezygnuj z subskrypcji wybranego kalendarza…">
 <!ENTITY calendar.unsubscribecalendar.accesskey "Z">
 <!ENTITY calendar.removecalendar.label "Usuń wybrany kalendarz…">
 <!ENTITY calendar.removecalendar.accesskey "U">
@@ -31,7 +31,7 @@
 <!ENTITY showUnifinderCmd.label                 "Znajdź wydarzenia">
 <!ENTITY showUnifinderCmd.accesskey             "d">
 
-<!ENTITY calendar.displaytodos.checkbox.label       "Wyświetlaj zadania w kalendarzu">
+<!ENTITY calendar.displaytodos.checkbox.label       "Wyświetlaj zadania w kalendarzu">
 <!ENTITY calendar.displaytodos.checkbox.accesskey   "z">
 
 <!ENTITY goTodayCmd.label                       "Dzisiaj">

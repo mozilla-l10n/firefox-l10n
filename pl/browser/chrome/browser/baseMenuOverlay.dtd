@@ -22,7 +22,7 @@
 
 <!ENTITY helpKeyboardShortcuts.label     "Skróty klawiaturowe">
 <!ENTITY helpKeyboardShortcuts.accesskey "S">
-<!ENTITY helpSafeMode.label       "Uruchom ponownie z wyłączonymi dodatkami…">
+<!ENTITY helpSafeMode.label       "Uruchom ponownie z wyłączonymi dodatkami…">
 <!ENTITY helpSafeMode.accesskey   "U">
 <!ENTITY healthReport2.label "&brandShorterName; Health Report">
 <!ENTITY healthReport2.accesskey "H">

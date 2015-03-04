@@ -3,10 +3,10 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY autoconfigWizard.title     "Konfiguracja konta e-mail">
-<!ENTITY name.label                 "Imię i nazwisko:">
+<!ENTITY name.label                 "Imię i nazwisko:">
 <!ENTITY name.accesskey             "I">
 <!ENTITY name.placeholder           "Imię Nazwisko">
-<!ENTITY name.text                  "Twoje imię i nazwisko lub pseudonim, tak jak będą wyświetlane innym">
+<!ENTITY name.text                  "Twoje imię i nazwisko lub pseudonim, tak jak będą wyświetlane innym">
 <!ENTITY email.label                "Adres e-mail:">
 <!ENTITY email.accesskey            "s">
 <!ENTITY email.placeholder          "email@jakasdomena.pl">
@@ -34,7 +34,7 @@
 <!ENTITY starttls.label     "STARTTLS">
 <!ENTITY sslTls.label       "SSL/TLS">
 
-<!ENTITY advancedSetup.label     "Utwórz konto i edytuj jego ustawienia…">
+<!ENTITY advancedSetup.label     "Utwórz konto i edytuj jego ustawienia…">
 <!ENTITY advancedSetup.accesskey "e">
 <!ENTITY cancel.label            "Anuluj">
 <!ENTITY cancel.accesskey        "A">
@@ -61,11 +61,11 @@
 <!ENTITY changeSettings.label     "Zmień ustawienia">
 <!ENTITY changeSettings.accesskey "Z">
 
-<!ENTITY contactYourProvider.description "Program &brandShortName; użyje dostarczonej konfiguracji dla tego konta, jednakże administrator lub operator usługi pocztowej powinien zostać powiadomiony o tych nieprawidłowych połączeniach. Więcej informacji na ten temat można znaleźć w pomocy programu &brandShortName;.">
+<!ENTITY contactYourProvider.description "Program &brandShortName; użyje dostarczonej konfiguracji dla tego konta, jednakże administrator lub operator usługi pocztowej powinien zostać powiadomiony o tych nieprawidłowych połączeniach. Więcej informacji na ten temat można znaleźć w pomocy programu &brandShortName;.">
 
 <!ENTITY insecureServer.tooltip.title    "Ostrzeżenie! Ten serwer nie zapewnia wysokiego poziomu bezpieczeństwa.">
 <!ENTITY insecureServer.tooltip.details  "Kliknij, aby dowiedzieć się więcej">
 
-<!ENTITY insecureUnencrypted.description "Połączenie nie jest szyfrowane, hasła i wiadomości będą wysyłane czystym tekstem (w żaden sposób niezabezpieczone), co grozi ich przechwyceniem przez osoby trzecie. Konto zostanie skonfigurowane, jednakże operator usługi pocztowej powinien udostępnić możliwość łączenia się z serwerem w bezpieczny sposób.">
-<!ENTITY insecureSelfSigned.description  "Ten serwer używa certyfikatu, któremu nie należy ufać, istnieje możliwość przechwycenia transmisji pomiędzy programem &brandShortName; a serwerem przez osoby trzecie. Konto zostanie skonfigurowane, jednakże operator usługi pocztowej powinien zostać powiadomiony o problemie w celu jego usunięcia.">
+<!ENTITY insecureUnencrypted.description "Połączenie nie jest szyfrowane, hasła i wiadomości będą wysyłane czystym tekstem (w żaden sposób niezabezpieczone), co grozi ich przechwyceniem przez osoby trzecie. Konto zostanie skonfigurowane, jednakże operator usługi pocztowej powinien udostępnić możliwość łączenia się z serwerem w bezpieczny sposób.">
+<!ENTITY insecureSelfSigned.description  "Ten serwer używa certyfikatu, któremu nie należy ufać, istnieje możliwość przechwycenia transmisji pomiędzy programem &brandShortName; a serwerem przez osoby trzecie. Konto zostanie skonfigurowane, jednakże operator usługi pocztowej powinien zostać powiadomiony o problemie w celu jego usunięcia.">
 <!ENTITY secureServer.description        "Gratulacje! Ten serwer zapewnia wysoki poziom bezpieczeństwa.">

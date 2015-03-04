@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY addressing.label "Tworzenie i adresowanie wiadomości">
+<!ENTITY addressing.label "Tworzenie i adresowanie wiadomości">
 
 <!ENTITY addressingGroupTitle.label "Adresowanie">
 <!ENTITY addressingText.label       "Podczas poszukiwania adresów:">
@@ -15,7 +15,7 @@
 <!ENTITY directoriesNone.label      "brak">
 
 <!ENTITY compositionGroupTitle.label "Tworzenie wiadomości">
-<!ENTITY useHtml.label                 "Twórz wiadomości w formacie HTML">
+<!ENTITY useHtml.label                 "Twórz wiadomości w formacie HTML">
 <!ENTITY useHtml.accesskey             "T">
 <!ENTITY autoQuote.label               "Podczas tworzenia odpowiedzi automatycznie cytuj oryginalną wiadomość">
 <!ENTITY autoQuote.accesskey           "P">

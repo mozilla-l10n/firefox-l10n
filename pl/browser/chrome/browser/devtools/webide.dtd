@@ -14,7 +14,7 @@
 <!ENTITY projectMenu_importHostedApp_accesskey "r">
 <!ENTITY projectMenu_selectApp_label "Otwórz aplikację…">
 <!ENTITY projectMenu_selectApp_accesskey "O">
-<!ENTITY projectMenu_play_label "Zainstaluj i uruchom">
+<!ENTITY projectMenu_play_label "Zainstaluj i uruchom">
 <!ENTITY projectMenu_play_accesskey "m">
 <!ENTITY projectMenu_stop_label "Zakończ aplikację">
 <!ENTITY projectMenu_stop_accesskey "Z">
@@ -102,8 +102,8 @@
 <!ENTITY prefs_general_title "Ogólne">
 <!ENTITY prefs_restore "Przywróć domyślne">
 <!ENTITY prefs_manage_components "Zarządzaj dodatkowymi komponentami">
-<!ENTITY prefs_options_autoconnectruntime "Łącz z ostatnim środowiskiem">
-<!ENTITY prefs_options_autoconnectruntime_tooltip "Ponowne łączenie z ostatnim środowiskiem przy starcie WebIDE">
+<!ENTITY prefs_options_autoconnectruntime "Łącz z ostatnim środowiskiem">
+<!ENTITY prefs_options_autoconnectruntime_tooltip "Ponowne łączenie z ostatnim środowiskiem przy starcie WebIDE">
 <!ENTITY prefs_options_rememberlastproject "Przywracanie projektu">
 <!ENTITY prefs_options_rememberlastproject_tooltip "Przywróć ostatni otwarty projekt podczas uruchamiania WebIDE">
 <!ENTITY prefs_options_templatesurl "Adres URL szablonów">
@@ -125,7 +125,7 @@
 <!ENTITY permissionstable_title "Tabela uprawnień">
 <!ENTITY permissionstable_name_header "Nazwa">
 
-<!ENTITY runtimedetails_title "Informacje o środowisku">
+<!ENTITY runtimedetails_title "Informacje o środowisku">
 <!ENTITY runtimedetails_adbIsRoot "ADB root: ">
 <!ENTITY runtimedetails_summonADBRoot "zażądaj wyższych uprawnień">
 <!ENTITY runtimedetails_ADBRootWarning "Wymagany odblokowany bootloader">
@@ -154,9 +154,9 @@
 <!ENTITY monitor_help "Pomoc">
 
 <!ENTITY wifi_auth_header "Identyfikacja klienta">
-<!ENTITY wifi_auth_scan_request "Urządzenie, z którym się łączysz, potrzebuje więcej informacji, aby uwierzytelnić to połączenie. Proszę zeskanować poniższy kod QR z poziomu komunikatu wyświetlanego na drugim urządzeniu.">
+<!ENTITY wifi_auth_scan_request "Urządzenie, z którym się łączysz, potrzebuje więcej informacji, aby uwierzytelnić to połączenie. Proszę zeskanować poniższy kod QR z poziomu komunikatu wyświetlanego na drugim urządzeniu.">
 <!ENTITY wifi_auth_no_scanner "Brak komunikatu skanera kodów QR?">
 <!ENTITY wifi_auth_yes_scanner "Komunikat skanera kodów QR wyświetlił się?">
-<!ENTITY wifi_auth_token_request "Jeśli inne urządzenie prosi o wprowadzenie tokenu zamiast skanowania kodu QR, wprowadź na nim poniższy ciąg znaków:">
+<!ENTITY wifi_auth_token_request "Jeśli inne urządzenie prosi o wprowadzenie tokenu zamiast skanowania kodu QR, wprowadź na nim poniższy ciąg znaków:">
 
 <!ENTITY logs_title "Wpisy dziennika poprzedzające pakowanie">

@@ -31,7 +31,7 @@
 <!ENTITY newIMAccountCmd.accesskey "c">
 <!ENTITY newFeedAccountCmd.label "Konfigurację konta aktualności…">
 <!ENTITY newFeedAccountCmd.accesskey "a">
-<!ENTITY newIMContactCmd.label "Wizytówkę dla kontaktu z czatu…">
+<!ENTITY newIMContactCmd.label "Wizytówkę dla kontaktu z czatu…">
 <!ENTITY newIMContactCmd.accesskey "t">
 <!ENTITY newOtherAccountsCmd.label            "Konfigurację innego konta…">
 <!ENTITY newOtherAccountsCmd.accesskey        "o">
@@ -51,7 +51,7 @@
 <!ENTITY getAllNewMsgCmdPopupMenu.accesskey            "W">
 <!ENTITY getNewMsgCurrentAccountCmdPopupMenu.label     "Bieżącego konta">
 <!ENTITY getNewMsgCurrentAccountCmdPopupMenu.accesskey "B">
-<!ENTITY getNextNMsgCmd.label           "Pobierz następne 500 wiadomości">
+<!ENTITY getNextNMsgCmd.label           "Pobierz następne 500 wiadomości">
 <!ENTITY getNextNMsgCmd.accesskey       "t">
 <!ENTITY sendUnsentCmd.label            "Wyślij niewysłane wiadomości">
 <!ENTITY sendUnsentCmd.accesskey        "W">
@@ -70,7 +70,7 @@
 <!ENTITY importCmd.accesskey            "I">
 <!ENTITY offlineMenu.label              "Tryb offline">
 <!ENTITY offlineMenu.accesskey          "l">
-<!ENTITY offlineGoOfflineCmd.label      "Pracuj w trybie offline">
+<!ENTITY offlineGoOfflineCmd.label      "Pracuj w trybie offline">
 <!ENTITY offlineGoOfflineCmd.accesskey  "l">
 <!ENTITY synchronizeOfflineCmd.label    "Pobierz/synchronizuj…">
 <!ENTITY synchronizeOfflineCmd.accesskey "s">
@@ -99,7 +99,7 @@
 <!ENTITY undeleteMsgsCmd.accesskey         "d">
 <!ENTITY deleteFolderCmd.label             "Usuń folder">
 <!ENTITY deleteFolderCmd.accesskey         "U">
-<!ENTITY unsubscribeNewsgroupCmd.label     "Zrezygnuj z subskrypcji">
+<!ENTITY unsubscribeNewsgroupCmd.label     "Zrezygnuj z subskrypcji">
 <!ENTITY unsubscribeNewsgroupCmd.accesskey "Z">
 <!ENTITY selectMenu.label                  "Zaznacz">
 <!ENTITY selectMenu.accesskey              "a">
@@ -225,9 +225,9 @@
 <!ENTITY collapseAllThreadsCmd.key      "/">
 <!ENTITY unreadMsgsCmd.label            "Nieprzeczytane">
 <!ENTITY unreadMsgsCmd.accesskey        "N">
-<!ENTITY threadsWithUnreadCmd.label            "Przeczytane z nowymi wiadomościami">
+<!ENTITY threadsWithUnreadCmd.label            "Przeczytane z nowymi wiadomościami">
 <!ENTITY threadsWithUnreadCmd.accesskey        "e">
-<!ENTITY watchedThreadsWithUnreadCmd.label     "Śledzone z nowymi wiadomościami">
+<!ENTITY watchedThreadsWithUnreadCmd.label     "Śledzone z nowymi wiadomościami">
 <!ENTITY watchedThreadsWithUnreadCmd.accesskey "l">
 <!ENTITY ignoredThreadsCmd.label        "Zignorowane wątki">
 <!ENTITY ignoredThreadsCmd.accesskey    "i">
@@ -258,7 +258,7 @@
 <!ENTITY viewFeedSummaryFeedPropsPref.label     "Domyślny format">
 <!ENTITY viewFeedSummaryFeedPropsPref.accesskey "D">
 
-<!ENTITY viewAttachmentsInlineCmd.label     "Pokazuj załączniki w treści wiadomości">
+<!ENTITY viewAttachmentsInlineCmd.label     "Pokazuj załączniki w treści wiadomości">
 <!ENTITY viewAttachmentsInlineCmd.accesskey "z">
 
 <!ENTITY pageSourceCmd.label     "Źródło wiadomości">
@@ -270,7 +270,7 @@
 <!-- Search Menu -->
 <!ENTITY findMenu.label               "Znajdź">
 <!ENTITY findMenu.accesskey           "Z">
-<!ENTITY findCmd.label                "Znajdź w tej wiadomości…">
+<!ENTITY findCmd.label                "Znajdź w tej wiadomości…">
 <!ENTITY findCmd.accesskey            "Z">
 <!ENTITY findCmd.key                  "f">
 <!ENTITY findAgainCmd.label           "Znajdź następne">
@@ -426,7 +426,7 @@
 <!ENTITY openMessageWindowCmd.label        "Otwórz wiadomość">
 <!ENTITY openMessageWindowCmd.accesskey    "z">
 <!ENTITY openMessageWindowCmd.key          "o">
-<!ENTITY openConversationCmd.label         "Otwórz wątek w karcie">
+<!ENTITY openConversationCmd.label         "Otwórz wątek w karcie">
 <!ENTITY openConversationCmd.accesskey     "k">
 <!ENTITY openConversationCmd.key           "o">
 <!ENTITY openAttachmentListCmd.label "Załączniki">
@@ -437,7 +437,7 @@
 <!ENTITY openFeedWebPage.accesskey "J">
 <!ENTITY openFeedSummary.label "Jako podsumowania">
 <!ENTITY openFeedSummary.accesskey "o">
-<!ENTITY openFeedWebPageInMP.label         "Wyświetlaj strony i podsumowania w panelu wiadomości">
+<!ENTITY openFeedWebPageInMP.label         "Wyświetlaj strony i podsumowania w panelu wiadomości">
 <!ENTITY openFeedWebPageInMP.accesskey     "W">
 
 <!-- Windows Menu -->
@@ -461,14 +461,14 @@
 <!ENTITY savedFiles.label                  "Zapisane pliki">
 <!ENTITY savedFiles.accesskey              "Z">
 <!ENTITY savedFiles.key                    "j">
-<!ENTITY messengerCmd.label                "Poczta i grupy dyskusyjne">
+<!ENTITY messengerCmd.label                "Poczta i grupy dyskusyjne">
 <!ENTITY messengerCmd.accesskey            "P">
 <!ENTITY addressBookCmd.label              "Książka adresowa">
 <!ENTITY addressBookCmd.accesskey          "a">
 <!ENTITY addressBookCmd.key                "B">
-<!ENTITY runJunkControls.label             "Rozpoznaj niechciane w bieżącym folderze">
+<!ENTITY runJunkControls.label             "Rozpoznaj niechciane w bieżącym folderze">
 <!ENTITY runJunkControls.accesskey         "p">
-<!ENTITY deleteJunk.label                  "Usuń niechciane wiadomości z folderu">
+<!ENTITY deleteJunk.label                  "Usuń niechciane wiadomości z folderu">
 <!ENTITY deleteJunk.accesskey              "e">
 <!ENTITY errorConsoleCmd.label             "Konsola błędów">
 <!ENTITY errorConsoleCmd.accesskey         "s">
@@ -479,7 +479,7 @@
 <!ENTITY allowRemoteDebugging.accesskey "n">
 <!ENTITY filtersCmd2.label "Filtrowanie wiadomości">
 <!ENTITY filtersCmd2.accesskey "F">
-<!ENTITY filtersApply.label                "Zastosuj filtry w bieżącym folderze">
+<!ENTITY filtersApply.label                "Zastosuj filtry w bieżącym folderze">
 <!ENTITY filtersApply.accesskey            "b">
 <!ENTITY filtersApplyToSelection.label     "Zastosuj filtry do wybranych wiadomości">
 <!ENTITY filtersApplyToSelection.accesskey "w">
@@ -530,7 +530,7 @@
 <!ENTITY getAllNewMsgCmd.accesskey "P">
 <!ENTITY newMsgButton.tooltip      "Utwórz nową wiadomość">
 <!ENTITY replyButton.tooltip       "Odpowiedz na wiadomość">
-<!ENTITY replyAllButton.tooltip    "Odpowiedz nadawcy i wszystkim adresatom">
+<!ENTITY replyAllButton.tooltip    "Odpowiedz nadawcy i wszystkim adresatom">
 <!ENTITY replyListButton.tooltip   "Odpowiedz liście dyskusyjnej">
 <!ENTITY forwardButton.tooltip     "Przekaż wybraną wiadomość">
 <!ENTITY forwardAsInline.tooltip "Przekaż zaznaczoną wiadomość bezpośrednio, jako tekst treści">
@@ -541,8 +541,8 @@
 <!ENTITY nextMsgButton.tooltip "Przejdź do następnej wiadomości">
 <!ENTITY previousButton.tooltip    "Przejdź do poprzedniej nieprzeczytanej wiadomości">
 <!ENTITY previousMsgButton.tooltip "Przejdź do poprzedniej wiadomości">
-<!ENTITY goForwardButton.tooltip   "Przejdź o jedną wiadomość do przodu">
-<!ENTITY goBackButton.tooltip      "Przejdź o jedną wiadomość wstecz">
+<!ENTITY goForwardButton.tooltip   "Przejdź o jedną wiadomość do przodu">
+<!ENTITY goBackButton.tooltip      "Przejdź o jedną wiadomość wstecz">
 <!ENTITY deleteButton.tooltip      "Usuń wybraną wiadomość albo folder">
 <!ENTITY undeleteButton.tooltip    "Przywróć usuniętą wiadomość">
 <!ENTITY markButton.tooltip        "Oznacz wiadomości">
@@ -561,7 +561,7 @@
 <!ENTITY buttonMenuForwardAsAttachment.label "Przekaż jako załącznik">
 
 <!-- Remote Content Button Popup -->
-<!ENTITY remoteContentOptionsAllowForMsg.label "Wyświetl zdalną zawartość w tej wiadomości">
+<!ENTITY remoteContentOptionsAllowForMsg.label "Wyświetl zdalną zawartość w tej wiadomości">
 <!ENTITY remoteContentOptionsAllowForMsg.accesskey "W">
 <!ENTITY editRemoteContentSettings.label "Edytuj opcje zdalnej zawartości…">
 <!ENTITY editRemoteContentSettings.accesskey "E">
@@ -571,9 +571,9 @@
 <!-- Phishing Button Popup -->
 <!ENTITY phishingOptionIgnore.label "Zignoruj ostrzeżenie dla tej wiadomości">
 <!ENTITY phishingOptionIgnore.accesskey "Z">
-<!ENTITY phishingOptionSettings.label "Edytuj opcje ostrzeżeń o próbach oszustwa…">
+<!ENTITY phishingOptionSettings.label "Edytuj opcje ostrzeżeń o próbach oszustwa…">
 <!ENTITY phishingOptionSettings.accesskey "E">
-<!ENTITY phishingOptionSettingsUnix.label "Edytuj preferencje ostrzeżeń o próbach oszustwa…">
+<!ENTITY phishingOptionSettingsUnix.label "Edytuj preferencje ostrzeżeń o próbach oszustwa…">
 <!ENTITY phishingOptionSettingsUnix.accesskey "E">
 
 <!-- AppMenu Popup -->
@@ -598,13 +598,13 @@
 <!-- Folder Pane Context Menu -->
 <!ENTITY folderContextGetMessages.label         "Pobierz wiadomości">
 <!ENTITY folderContextGetMessages.accesskey     "P">
-<!ENTITY folderContextOpenInNewWindow.label "Otwórz w nowym oknie">
+<!ENTITY folderContextOpenInNewWindow.label "Otwórz w nowym oknie">
 <!ENTITY folderContextOpenInNewWindow.accesskey "O">
-<!ENTITY folderContextOpenNewTab.label          "Otwórz w nowej karcie">
+<!ENTITY folderContextOpenNewTab.label          "Otwórz w nowej karcie">
 <!ENTITY folderContextOpenNewTab.accesskey      "w">
-<!ENTITY contextOpenConversation.label          "Otwórz wątek w nowej karcie">
+<!ENTITY contextOpenConversation.label          "Otwórz wątek w nowej karcie">
 <!ENTITY contextOpenConversation.accesskey      "n">
-<!ENTITY contextOpenContainingFolder.label "Otwórz wiadomość w zawierającym ją folderze">
+<!ENTITY contextOpenContainingFolder.label "Otwórz wiadomość w zawierającym ją folderze">
 <!ENTITY contextOpenContainingFolder.accesskey "t">
 <!ENTITY folderContextNew.label                 "Nowy podfolder…">
 <!ENTITY folderContextNew.accesskey             "N">
@@ -620,7 +620,7 @@
 <!ENTITY folderContextEmptyJunk.accesskey       "e">
 <!ENTITY folderContextSendUnsentMessages.label     "Wyślij oczekujące wiadomości…">
 <!ENTITY folderContextSendUnsentMessages.accesskey "c">
-<!ENTITY folderContextUnsubscribe.label            "Zrezygnuj z subskrypcji">
+<!ENTITY folderContextUnsubscribe.label            "Zrezygnuj z subskrypcji">
 <!ENTITY folderContextUnsubscribe.accesskey        "u">
 <!ENTITY folderContextMarkNewsgroupRead.label      "Oznacz grupę jako przeczytaną">
 <!ENTITY folderContextMarkNewsgroupRead.accesskey  "z">
@@ -685,8 +685,8 @@
 <!ENTITY statusColumn2.tooltip "Sortowanie według statusu">
 <!ENTITY sizeColumn2.tooltip "Sortowanie według rozmiaru">
 <!ENTITY junkStatusColumn2.tooltip "Sortowanie według statusu niechcianej poczty">
-<!ENTITY unreadColumn2.tooltip "Liczba wszystkich nieprzeczytanych wiadomości w wątku">
-<!ENTITY totalColumn2.tooltip "Liczba wszystkich wiadomości w wątku">
+<!ENTITY unreadColumn2.tooltip "Liczba wszystkich nieprzeczytanych wiadomości w wątku">
+<!ENTITY totalColumn2.tooltip "Liczba wszystkich wiadomości w wątku">
 <!ENTITY readColumn2.tooltip "Sortowanie według ilości przeczytanych wiadomości">
 <!ENTITY receivedColumn2.tooltip "Sortowanie według daty otrzymania">
 <!ENTITY starredColumn2.tooltip "Sortowanie według oznaczenia gwiazdką">
@@ -695,9 +695,9 @@
 <!ENTITY attachmentColumn2.tooltip "Sortowanie według załącznika">
 
 <!-- Thread Pane Context Menu -->
-<!ENTITY contextOpenNewWindow.label      "Otwórz wiadomość w nowym oknie">
+<!ENTITY contextOpenNewWindow.label      "Otwórz wiadomość w nowym oknie">
 <!ENTITY contextOpenNewWindow.accesskey  "O">
-<!ENTITY contextOpenNewTab.label         "Otwórz wiadomość w nowej karcie">
+<!ENTITY contextOpenNewTab.label         "Otwórz wiadomość w nowej karcie">
 <!ENTITY contextOpenNewTab.accesskey     "r">
 <!ENTITY contextEditMsgAsNew.label "Edytuj jako nową wiadomość">
 <!ENTITY contextEditMsgAsNew.accesskey "E">
@@ -742,7 +742,7 @@
 <!ENTITY columnPicker.resetToInbox.label             "Przywróć domyślne">
 <!ENTITY columnPicker.applyTo.label                  "Zastosuj ustawienia do…">
 <!ENTITY columnPicker.applyToFolder.label            "Folderu">
-<!ENTITY columnPicker.applyToFolderAndChildren.label "Folderu i wszystkich folderów w nim zawartych">
+<!ENTITY columnPicker.applyToFolderAndChildren.label "Folderu i wszystkich folderów w nim zawartych">
 <!ENTITY columnPicker.thisFolder.label               "Tego folderu">
 
 <!-- Media (video/audio) controls -->
@@ -804,9 +804,9 @@
 <!ENTITY stopCmd.accesskey           "Z">
 <!ENTITY reloadCmd.label             "Odśwież">
 <!ENTITY reloadCmd.accesskey         "i">
-<!ENTITY openInBrowser.label         "Otwórz w przeglądarce">
+<!ENTITY openInBrowser.label         "Otwórz w przeglądarce">
 <!ENTITY openInBrowser.accesskey     "p">
-<!ENTITY openLinkInBrowser.label     "Otwórz odnośnik w przeglądarce">
+<!ENTITY openLinkInBrowser.label     "Otwórz odnośnik w przeglądarce">
 <!ENTITY openLinkInBrowser.accesskey "O">
 
 <!-- Statusbar -->

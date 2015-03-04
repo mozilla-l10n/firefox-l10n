@@ -29,7 +29,7 @@
 
 <!ENTITY spellCheck.label              "Sprawdzaj pisownię przed wysłaniem wiadomości">
 <!ENTITY spellCheck.accesskey          "a">
-<!ENTITY spellCheckInline.label        "Sprawdzaj pisownię w trakcie tworzenia wiadomości">
+<!ENTITY spellCheckInline.label        "Sprawdzaj pisownię w trakcie tworzenia wiadomości">
 <!ENTITY spellCheckInline1.accesskey   "w">
 <!ENTITY languagePopup.label           "Słownik:">
 <!ENTITY languagePopup.accessKey       "S">
@@ -41,7 +41,7 @@
 <!ENTITY autoSave.accesskey            "Z">
 <!ENTITY autoSaveEnd.label             "minut">
 
-<!ENTITY emailCollectionPicker.label     "Zapisuj adresy e-mail z poczty wychodzącej w książce:">
+<!ENTITY emailCollectionPicker.label     "Zapisuj adresy e-mail z poczty wychodzącej w książce:">
 <!ENTITY emailCollectionPicker.accesskey "Z">
 <!ENTITY addressingTitle.label           "Automatyczne uzupełnianie adresu">
 <!ENTITY autocompleteText.label          "Podczas adresowania wiadomości wyszukuj pasujące pozycje:">

@@ -5,7 +5,7 @@
 <!ENTITY subscribeDialog.title       "Menedżer subskrypcji">
 <!ENTITY subscribeButton.label       "Subskrybuj">
 <!ENTITY subscribeButton.accesskey   "S">
-<!ENTITY unsubscribeButton.label     "Zrezygnuj z subskrypcji">
+<!ENTITY unsubscribeButton.label     "Zrezygnuj z subskrypcji">
 <!ENTITY unsubscribeButton.accesskey "u">
 <!ENTITY newGroupsTab.label          "Nowe grupy">
 <!ENTITY newGroupsTab.accesskey      "N">

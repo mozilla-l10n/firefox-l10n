@@ -5,7 +5,7 @@
 <!ENTITY pageTitle                 "&brandShortName; — opinie">
 
 <!ENTITY intro.header              "Masz chwilkę?">
-<!ENTITY intro.message             "Powiedz nam, co myślisz o przeglądarce &brandShortName; dla Androida.">
+<!ENTITY intro.message             "Powiedz nam, co myślisz o przeglądarce &brandShortName; dla Androida.">
 <!ENTITY intro.happyLink           "Podoba mi się">
 <!ENTITY intro.sadLink             "Mam kilka uwag">
 <!ENTITY intro.maybeLater          "Może później">
@@ -22,7 +22,7 @@
 
 <!-- LOCALIZATION NOTE (happy.finePrint): "feels great" — Another exaggeration where we're trying to
      get people to rate us by playfully telling them there's a benefit in it for them as well. -->
-<!ENTITY happy.finePrint           "Zajmie to mniej niż minutę i pomoże innym użytkownikom.">
+<!ENTITY happy.finePrint           "Zajmie to mniej niż minutę i pomoże innym użytkownikom.">
 
 <!ENTITY happy.ratingLink          "Tak, przejdź do sklepu Google Play">
 <!ENTITY happy.maybeLater2          "Może później">
@@ -39,12 +39,12 @@
 
 <!-- LOCALIZATION NOTE (sad.thanksMessageTop): "real people" — We're stating that an actual human will look at the feedback
      and that it doesn't just go to some automated system that looks for keywords, or something like that. -->
-<!ENTITY sad.thanksMessageTop      "Praca nad ulepszeniem przeglądarki &brandShortName; wre bez przerwy. Mamy ludzi, którzy przejrzą wszystkie uwagi i zrobią, co w ich mocy, żeby naprawić to, co nie działa.">
+<!ENTITY sad.thanksMessageTop      "Praca nad ulepszeniem przeglądarki &brandShortName; wre bez przerwy. Mamy ludzi, którzy przejrzą wszystkie uwagi i zrobią, co w ich mocy, żeby naprawić to, co nie działa.">
 
 <!-- LOCALIZATION NOTE (sad.thanksMessageBottom): We're suggesting that there will be consequences for the people working
      on Firefox if they don't resolve the user's problem, like "or if they don't fix it, we'll fire them." If this doesn't
      work in your language, you can change it to something like "no matter what" or just remove it entirely. -->
 <!ENTITY sad.thanksMessageBottom   "">
 
-<!ENTITY feedback.privacy2          "Zadbaj o swoją prywatność i nie umieszczaj żadnych danych osobowych wśród swoich pomysłów.">
+<!ENTITY feedback.privacy2          "Zadbaj o swoją prywatność i nie umieszczaj żadnych danych osobowych wśród swoich pomysłów.">
 <!ENTITY feedback.send             "Wyślij opinię">

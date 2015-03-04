@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY pref.calendar.view.allview.caption "Ogólny">
-<!ENTITY pref.calendar.view.dayandweekviews.caption "Widoki dnia i tygodnia">
+<!ENTITY pref.calendar.view.dayandweekviews.caption "Widoki dnia i tygodnia">
 <!ENTITY pref.calendar.view.multiweekview.caption "Widok wielu tygodni">
 <!ENTITY pref.calendar.view.workweek.caption "Tydzień roboczy">
 
@@ -24,9 +24,9 @@
 <!ENTITY pref.numberofpreviousweeks.label "Liczba poprzedzających tygodni:">
 <!ENTITY pref.numberofpreviousweeks.accesskey "L">
 <!ENTITY pref.numberofweeks.0 "brak">
-<!ENTITY pref.numberofweeks.1 "1 tydzień">
-<!ENTITY pref.numberofweeks.2 "2 tygodnie">
-<!ENTITY pref.numberofweeks.3 "3 tygodnie">
-<!ENTITY pref.numberofweeks.4 "4 tygodnie">
-<!ENTITY pref.numberofweeks.5 "5 tygodni">
-<!ENTITY pref.numberofweeks.6 "6 tygodni">
+<!ENTITY pref.numberofweeks.1 "1 tydzień">
+<!ENTITY pref.numberofweeks.2 "2 tygodnie">
+<!ENTITY pref.numberofweeks.3 "3 tygodnie">
+<!ENTITY pref.numberofweeks.4 "4 tygodnie">
+<!ENTITY pref.numberofweeks.5 "5 tygodni">
+<!ENTITY pref.numberofweeks.6 "6 tygodni">

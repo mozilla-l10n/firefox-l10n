@@ -7,11 +7,11 @@
 <!ENTITY serverDirectory.accesskey      "K">
 <!ENTITY usingSubscription.label        "Pokaż tylko subskrybowane foldery">
 <!ENTITY usingSubscription.accesskey    "P">
-<!ENTITY dualUseFolders.label           "Serwer obsługuje foldery zawierające podfoldery i wiadomości">
+<!ENTITY dualUseFolders.label           "Serwer obsługuje foldery zawierające podfoldery i wiadomości">
 <!ENTITY dualUseFolders.accesskey       "S">
 <!ENTITY useIdle.label                  "Używaj polecenia IDLE jeśli serwer je obsługuje">
 <!ENTITY useIdle.accesskey              "U">
-<!ENTITY maximumConnectionsNumber.label "Maksymalna liczba połączeń z serwerem">
+<!ENTITY maximumConnectionsNumber.label "Maksymalna liczba połączeń z serwerem">
 <!ENTITY maximumConnectionsNumber.accesskey "M">
 <!ENTITY namespaceDesc.label            "Poniższe ustawienia określają dostępne przestrzenie nazw na bieżącym serwerze IMAP">
 <!ENTITY personalNamespace.label        "Osobista przestrzeń nazw:">
@@ -22,7 +22,7 @@
 <!ENTITY otherUsersNamespace.accesskey  "n">
 <!ENTITY overrideNamespaces.label       "Zezwalaj, aby serwer zmieniał powyższe ustawienia przestrzeni nazw">
 <!ENTITY overrideNamespaces.accesskey   "Z">
-<!ENTITY pop3Desc.label                 "Poczta pobierana z tego serwera POP powinna być zapisywana w następującym folderze:" >
+<!ENTITY pop3Desc.label                 "Poczta pobierana z tego serwera POP powinna być zapisywana w następującym folderze:" >
 <!ENTITY accountDirectory.label         "Odebrane - dla konta tego serwera">
 <!ENTITY accountDirectory.accesskey     "O">
 <!ENTITY deferToServer.label            "Odebrane - dla konta:">

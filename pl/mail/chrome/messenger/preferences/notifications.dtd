@@ -2,10 +2,10 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY notificationsDialog2.title "Dostosowywanie powiadomień o nowej poczcie">
+<!ENTITY notificationsDialog2.title "Dostosowywanie powiadomień o nowej poczcie">
 <!ENTITY window.width               "30em">
 
-<!ENTITY alertCustomization.intro "Zaznacz pola, które mają być wyświetlane w oknach powiadomienia:">
+<!ENTITY alertCustomization.intro "Zaznacz pola, które mają być wyświetlane w oknach powiadomienia:">
 <!ENTITY previewText.label        "Podgląd treści wiadomości">
 <!ENTITY previewText.accesskey    "P">
 <!ENTITY subject.label            "Temat">

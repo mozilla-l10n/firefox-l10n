@@ -4,7 +4,7 @@
 
 <!ENTITY junkSettings.label "Ustawienia niechcianej poczty">
 
-<!ENTITY trainingDescription.label "Po włączeniu filtru należy nauczyć program &brandShortName; rozpoznawania pożądanych i niepożądanych wiadomości za pomocą przycisku „Niechciana” na pasku narzędzi. Należy odpowiednio oznaczać wiadomości pożądane i niepożądane, dopóki skuteczność automatycznego filtrowania niechcianej poczty nie będzie satysfakcjonująca.">
+<!ENTITY trainingDescription.label "Po włączeniu filtru należy nauczyć program &brandShortName; rozpoznawania pożądanych i niepożądanych wiadomości za pomocą przycisku „Niechciana” na pasku narzędzi. Należy odpowiednio oznaczać wiadomości pożądane i niepożądane, dopóki skuteczność automatycznego filtrowania niechcianej poczty nie będzie satysfakcjonująca.">
 
 <!ENTITY level.label     "Włącz filtr niechcianej poczty dla bieżącego konta">
 <!ENTITY level.accesskey "W">
@@ -26,8 +26,8 @@
 <!ENTITY ispHeaders.label     "Ufaj nagłówkom niechcianej poczty dołączonym przez: ">
 <!ENTITY ispHeaders.accesskey "U">
 
-<!ENTITY junkClassification.label "Filtrowanie i klasyfikacja">
-<!ENTITY junkActions.label "Przenoszenie i przechowywanie">
+<!ENTITY junkClassification.label "Filtrowanie i klasyfikacja">
+<!ENTITY junkActions.label "Przenoszenie i przechowywanie">
 
 <!ENTITY globalJunkPrefs.label "Globalne preferencje niechcianej poczty…">
 <!ENTITY globalJunkPrefs.accesskey "G">

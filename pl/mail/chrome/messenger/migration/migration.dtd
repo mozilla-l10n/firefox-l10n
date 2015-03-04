@@ -2,14 +2,14 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY migrationWizard.title  "Importowanie ustawień i danych">
+<!ENTITY migrationWizard.title  "Importowanie ustawień i danych">
 
 <!ENTITY importFromWin.label    "Importuje opcje, ustawienia kont, książki adresowe, filtry oraz inne dane z:">
 <!ENTITY importFromNonWin.label "Importuje opcje, ustawienia kont, książki adresowe, filtry oraz inne dane z:">
 
 <!ENTITY importFromNothing.label        "Nie importuj niczego">
 <!ENTITY importFromNothing.accesskey    "r">
-<!ENTITY importFromSeamonkey3.label     "SeaMonkey (wersja 2.0 i nowsze)">
+<!ENTITY importFromSeamonkey3.label     "SeaMonkey (wersja 2.0 i nowsze)">
 <!ENTITY importFromSeamonkey3.accesskey "S">
 <!ENTITY importFromOExpress.label       "Outlook Express">
 <!ENTITY importFromOExpress.accesskey   "u">
@@ -18,7 +18,7 @@
 <!ENTITY importFromEudora.label         "Eudora">
 <!ENTITY importFromEudora.accesskey     "E">
 
-<!ENTITY importSource.title "Importuj ustawienia i foldery pocztowe">
+<!ENTITY importSource.title "Importuj ustawienia i foldery pocztowe">
 <!ENTITY importItems.title  "Elementy do zaimportowania">
 <!ENTITY importItems.label  "Wybierz elementy do zaimportowania:">
 

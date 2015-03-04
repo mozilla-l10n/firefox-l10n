@@ -14,14 +14,14 @@
 <!ENTITY reorderTopButton "Przenieś na górę">
 <!ENTITY reorderTopButton.accessKey "a">
 <!ENTITY reorderTopButton.toolTip "Zmień kolejność tak, aby filtr był wykonywany przed pozostałymi">
-<!ENTITY reorderUpButton.label        "Przenieś w górę">
+<!ENTITY reorderUpButton.label        "Przenieś w górę">
 <!ENTITY reorderUpButton.accesskey    "g">
-<!ENTITY reorderDownButton.label      "Przenieś w dół">
+<!ENTITY reorderDownButton.label      "Przenieś w dół">
 <!ENTITY reorderDownButton.accesskey  "d">
 <!ENTITY reorderBottomButton "Przenieś na dół">
 <!ENTITY reorderBottomButton.accessKey "i">
 <!ENTITY reorderBottomButton.toolTip "Zmień kolejność tak, aby filtr był wykonywany po pozostałych">
-<!ENTITY filterHeader.label           "Włączone filtry będą uruchomione w następującej kolejności:">
+<!ENTITY filterHeader.label           "Włączone filtry będą uruchomione w następującej kolejności:">
 <!ENTITY filtersForPrefix.label       "Filtry konta:">
 <!ENTITY filtersForPrefix.accesskey   "F">
 <!ENTITY viewLogButton.label          "Dziennik filtrów">
@@ -30,7 +30,7 @@
 <!ENTITY runFilters.accesskey         "r">
 <!ENTITY stopFilters.label            "Wyłącz">
 <!ENTITY stopFilters.accesskey        "W">
-<!ENTITY folderPickerPrefix.label     "Zastosuj wybrane filtry w folderze:">
+<!ENTITY folderPickerPrefix.label     "Zastosuj wybrane filtry w folderze:">
 <!ENTITY folderPickerPrefix.accesskey "Z">
 <!ENTITY helpButton.label             "Pomoc">
 <!ENTITY helpButton.accesskey         "P">

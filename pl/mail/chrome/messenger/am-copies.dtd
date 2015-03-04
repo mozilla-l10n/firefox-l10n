@@ -2,11 +2,11 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY copyAndFolderTitle.label         "Kopie i foldery">
+<!ENTITY copyAndFolderTitle.label         "Kopie i foldery">
 <!ENTITY sendingPrefix.label              "Wysyłając wiadomości automatycznie: ">
 <!ENTITY fccMailFolder.label              "umieszczaj ich kopie w:">
 <!ENTITY fccMailFolder.accesskey          "i">
-<!ENTITY fccReplyFollowsParent.label      "umieszczaj odpowiedzi w folderze wiadomości, na którą odpowiada użytkownik">
+<!ENTITY fccReplyFollowsParent.label      "umieszczaj odpowiedzi w folderze wiadomości, na którą odpowiada użytkownik">
 <!ENTITY fccReplyFollowsParent.accesskey  "m">
 <!ENTITY ccAddress.label                  "wysyłaj kopię do:">
 <!ENTITY ccAddress.accesskey              "k">
@@ -29,7 +29,7 @@
 <!ENTITY archivesFolderOn.accesskey       "A">
 <!ENTITY archiveInOtherFolder.label       "folderze:">
 <!ENTITY archiveInOtherFolder.accesskey   "d">
-<!ENTITY specialFolders.label             "Szkice i szablony">
+<!ENTITY specialFolders.label             "Szkice i szablony">
 <!ENTITY keepDrafts.label                 "Szkice wiadomości przechowuj w:">
 <!ENTITY draftsFolderOn.label             "folderze Szkice konta:">
 <!ENTITY draftsFolderOn.accesskey         "S">

@@ -14,10 +14,10 @@
 <!ENTITY smiley2Cmd.tooltip "Wstaw smutną buzię">
 <!ENTITY smiley3Cmd.label "Mrugnięcie">
 <!ENTITY smiley3Cmd.accesskey "M">
-<!ENTITY smiley3Cmd.tooltip "Wstaw buzię z przymrużonym okiem">
+<!ENTITY smiley3Cmd.tooltip "Wstaw buzię z przymrużonym okiem">
 <!ENTITY smiley4Cmd.label "Wystawiony język">
 <!ENTITY smiley4Cmd.accesskey "W">
-<!ENTITY smiley4Cmd.tooltip "Wstaw buzię z wystawionym językiem">
+<!ENTITY smiley4Cmd.tooltip "Wstaw buzię z wystawionym językiem">
 <!ENTITY smiley5Cmd.label "Śmiech">
 <!ENTITY smiley5Cmd.accesskey "i">
 <!ENTITY smiley5Cmd.tooltip "Wstaw śmiejącą się buzię">

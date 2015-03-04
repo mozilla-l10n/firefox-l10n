@@ -15,7 +15,7 @@
 <!ENTITY quickFilterBar.starred.label      "Z gwiazdką">
 <!ENTITY quickFilterBar.starred.tooltip    "Wyświetl wyłącznie wiadomości oznaczone gwiazdką">
 <!ENTITY quickFilterBar.inaddrbook.label   "Od znajomych">
-<!ENTITY quickFilterBar.inaddrbook.tooltip "Wyświetl wiadomości pochodzące wyłącznie od kontaktów z książki adresowej">
+<!ENTITY quickFilterBar.inaddrbook.tooltip "Wyświetl wiadomości pochodzące wyłącznie od kontaktów z książki adresowej">
 <!ENTITY quickFilterBar.tags.label         "Z etykietą">
 <!ENTITY quickFilterBar.tags.tooltip       "Wyświetl wyłącznie wiadomości posiadające etykiety">
 <!ENTITY quickFilterBar.attachment.label   "Z załącznikiem">
@@ -45,6 +45,6 @@
 <!ENTITY quickFilterBar.textFilter.subject.label     "Temat">
 <!ENTITY quickFilterBar.textFilter.body.label        "Treść">
 
-<!ENTITY quickFilterBar.glodaUpsell.continueSearch "Kontynuuj wyszukiwanie w pozostałych folderach">
+<!ENTITY quickFilterBar.glodaUpsell.continueSearch "Kontynuuj wyszukiwanie w pozostałych folderach">
 
 <!ENTITY quickFilterBar.glodaUpsell.pressEnterAndCurrent "Aby kontynuować wyszukiwanie dla: „#1” należy ponownie wcisnąć Enter">

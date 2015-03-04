@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY feedSubscriptions.label "Subskrypcje">
-<!ENTITY learnMore.label "Więcej informacji o subskrypcjach">
+<!ENTITY learnMore.label "Więcej informacji o subskrypcjach">
 
 <!ENTITY feedTitle.label         "Tytuł:">
 <!ENTITY feedTitle.accesskey "T">
@@ -11,14 +11,14 @@
 <!ENTITY feedLocation.accesskey "A">
 <!ENTITY feedLocation.placeholder "Wprowadź poprawny adres URL kanału do dodania">
 <!ENTITY locationValidate.label "Sprawdź poprawność">
-<!ENTITY validateText.label "Sprawdź poprawność i pobierz prawidłowy adres URL.">
+<!ENTITY validateText.label "Sprawdź poprawność i pobierz prawidłowy adres URL.">
 
 <!ENTITY feedFolder.label "Przechowuj artykuły w">
 <!ENTITY feedFolder.accesskey "w">
 <!ENTITY quickMode.label "Pokazuj podsumowanie artykułu, zamiast wczytywać stronę internetową">
 <!ENTITY quickMode.accesskey "P">
 
-<!ENTITY autotagEnable.label "Automatyczne tworzenie etykiet na podstawie nazw w elementach &lt;category&gt; kanału">
+<!ENTITY autotagEnable.label "Automatyczne tworzenie etykiet na podstawie nazw w elementach &lt;category&gt; kanału">
 <!ENTITY autotagEnable.accesskey "A">
 <!ENTITY autotagUsePrefix.label "Przedrostek etykiet:">
 <!ENTITY autotagUsePrefix.accesskey "P">
@@ -34,7 +34,7 @@
 <!ENTITY button.importOPML.accesskey "I">
 <!ENTITY button.exportOPML.label     "Eksportuj">
 <!ENTITY button.exportOPML.accesskey "k">
-<!ENTITY button.exportOPML.tooltip "Eksport źródeł subskrypcji z zachowaniem struktury folderów; eksport jako lista z przytrzymanym klawiszem ctrl">
+<!ENTITY button.exportOPML.tooltip "Eksport źródeł subskrypcji z zachowaniem struktury folderów; eksport jako lista z przytrzymanym klawiszem ctrl">
 
 <!ENTITY cmd.close.commandKey "w">
 <!ENTITY button.close.label "Zamknij">

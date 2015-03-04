@@ -21,12 +21,12 @@
 <!ENTITY window.macWidth "47em">
 
 <!ENTITY importTitle.label     "Kreator importu">
-<!ENTITY importShortDesc.label "Kreator umożliwia import poczty, książek adresowych, ustawień oraz filtrów z innych programów.">
+<!ENTITY importShortDesc.label "Kreator umożliwia import poczty, książek adresowych, ustawień oraz filtrów z innych programów.">
 
-<!ENTITY importDescription1.label "Za pomocą Kreatora importu możliwe jest przeprowadzenie automatycznej konwersji danych z innych popularnych programów pocztowych do programu &brandShortName;. W tym celu należy wybrać rodzaj importowanych danych, a następnie nacisnąć Dalej.">
-<!ENTITY importDescription2.label "Po zakończeniu importu wszystkie dane będą dostępne bezpośrednio w programie &brandShortName;.">
+<!ENTITY importDescription1.label "Za pomocą Kreatora importu możliwe jest przeprowadzenie automatycznej konwersji danych z innych popularnych programów pocztowych do programu &brandShortName;. W tym celu należy wybrać rodzaj importowanych danych, a następnie nacisnąć Dalej.">
+<!ENTITY importDescription2.label "Po zakończeniu importu wszystkie dane będą dostępne bezpośrednio w programie &brandShortName;.">
 
-<!ENTITY selectDescription.label     "Wybierz program lub format pliku, z którego będą importowane dane:">
+<!ENTITY selectDescription.label     "Wybierz program lub format pliku, z którego będą importowane dane:">
 <!ENTITY selectDescriptionB.label "Wybierz istniejące konto lub utwórz nowe:">
 <!ENTITY selectDescription.accesskey "z">
 <!ENTITY acctName.label "Nazwa:">

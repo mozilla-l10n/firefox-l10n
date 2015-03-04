@@ -6,13 +6,13 @@
 <!ENTITY window.width "43em">
 <!ENTITY window.macWidth "46em">
 
-<!ENTITY overridePageColors.label "Nadpisuj kolory określone w treści wybranymi poniżej:">
+<!ENTITY overridePageColors.label "Nadpisuj kolory określone w treści wybranymi poniżej:">
 <!ENTITY overridePageColors.accesskey "N">
 <!ENTITY overridePageColors.always.label "Zawsze">
-<!ENTITY overridePageColors.auto.label "Tylko w motywach o wysokim kontraście">
+<!ENTITY overridePageColors.auto.label "Tylko w motywach o wysokim kontraście">
 <!ENTITY overridePageColors.never.label "Nigdy">
 
-<!ENTITY color "Tekst i tło">
+<!ENTITY color "Tekst i tło">
 <!ENTITY textColor.label "Tekst:">
 <!ENTITY textColor.accesskey "e">
 <!ENTITY backgroundColor.label "Tło:">

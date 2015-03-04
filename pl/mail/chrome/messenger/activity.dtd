@@ -19,7 +19,7 @@
 <!ENTITY cmd.recover.accesskey        "d">
 <!ENTITY cmd.retry.label              "Ponów">
 <!ENTITY cmd.retry.accesskey          "P">
-<!ENTITY cmd.removeFromList.label     "Usuń z listy">
+<!ENTITY cmd.removeFromList.label     "Usuń z listy">
 <!ENTITY cmd.removeFromList.accesskey "U">
 
 <!ENTITY cmd.close.commandkey      "w">
@@ -27,7 +27,7 @@
 <!ENTITY cmd.close2Unix.commandkey "y">
 <!ENTITY cmd.clearList.label       "Wyczyść listę">
 <!ENTITY cmd.clearList.accesskey   "z">
-<!ENTITY cmd.clearList.tooltip     "Usunie z listy pozycje oznaczone jako ukończone, anulowane i nieudane">
+<!ENTITY cmd.clearList.tooltip     "Usunie z listy pozycje oznaczone jako ukończone, anulowane i nieudane">
 <!ENTITY cmd.find.commandkey       "f">
 <!ENTITY cmd.search.commandkey     "k">
 

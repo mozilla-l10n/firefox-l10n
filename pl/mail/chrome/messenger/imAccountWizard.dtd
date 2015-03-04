@@ -13,20 +13,20 @@
 <!ENTITY accountUsernameDuplicate.label "To konto jest już skonfigurowane!">
 
 <!ENTITY accountPasswordTitle.label "Hasło">
-<!ENTITY accountPasswordInfo.label "Wprowadź hasło w polu tekstowym poniżej.">
+<!ENTITY accountPasswordInfo.label "Wprowadź hasło w polu tekstowym poniżej.">
 <!ENTITY accountPasswordField.label "Hasło:">
-<!ENTITY accountPasswordManager.label "Podane hasło zostanie zachowane w Menedżerze haseł. Pozostaw pole wprowadzania hasła puste, aby podawać hasło przy każdej próbie logowania.">
+<!ENTITY accountPasswordManager.label "Podane hasło zostanie zachowane w Menedżerze haseł. Pozostaw pole wprowadzania hasła puste, aby podawać hasło przy każdej próbie logowania.">
 
 <!ENTITY accountAdvancedTitle.label "Zaawansowane">
 <!ENTITY accountAdvancedInfo.label "Ta część może zostać pominięta.">
-<!ENTITY accountAdvanced.newMailNotification.label "Powiadamiaj o nowych wiadomościach e-mail">
+<!ENTITY accountAdvanced.newMailNotification.label "Powiadamiaj o nowych wiadomościach e-mail">
 <!ENTITY accountAliasGroupbox.caption "Alias lokalny">
 <!ENTITY accountAliasField.label "Alias:">
-<!ENTITY accountAliasInfo.label "Alias lokalny będzie wyświetlany jedynie w rozmowach użytkownika podczas pisania a pozostali go nie zobaczą.">
+<!ENTITY accountAliasInfo.label "Alias lokalny będzie wyświetlany jedynie w rozmowach użytkownika podczas pisania a pozostali go nie zobaczą.">
 <!ENTITY accountProxySettings.caption "Ustawienia serwera proxy">
 <!ENTITY accountProxySettings.change.label "Zmień…">
 <!ENTITY accountProxySettings.change.accessKey "Z">
 
 <!ENTITY accountSummaryTitle.label "Podsumowanie">
 <!ENTITY accountSummaryInfo.label "Poniżej wyświetlone jest podsumowanie informacji podanych wcześniej. Należy upewnić się, że są prawidłowe przed utworzeniem konta.">
-<!ENTITY accountSummary.connectNow.label "Połącz z tym kontem.">
+<!ENTITY accountSummary.connectNow.label "Połącz z tym kontem.">

@@ -4,8 +4,8 @@
 
 <!ENTITY tabCrashed.header "Na początek, złe wiadomości: ta karta uległa awarii">
 <!ENTITY tabCrashed.message "Teraz lepsze: możesz zwyczajnie zamknąć tę kartę, przywrócić ją lub przywrócić wszystkie karty, które uległy awarii.">
-<!ENTITY tabCrashed.sendReport "Prześlij raport z awarii, aby pomóc naprawić problem">
-<!ENTITY tabCrashed.reportSent "Raport z awarii został już wysłany. Dziękujemy za pomoc w ulepszaniu programu &brandShortName;!">
+<!ENTITY tabCrashed.sendReport "Prześlij raport z awarii, aby pomóc naprawić problem">
+<!ENTITY tabCrashed.reportSent "Raport z awarii został już wysłany. Dziękujemy za pomoc w ulepszaniu programu &brandShortName;!">
 <!ENTITY tabCrashed.closeTab "Zamknij kartę">
 <!ENTITY tabCrashed.restoreTab "Przywróć kartę">
 <!ENTITY tabCrashed.restoreAll "Przywróć wszystkie karty">

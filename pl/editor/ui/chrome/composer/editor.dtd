@@ -24,19 +24,19 @@
 <!ENTITY formatMenu.accesskey     "F">
 <!ENTITY grid.label               "Siatka">
 <!ENTITY grid.accesskey           "t">
-<!ENTITY pageProperties.label     "Właściwości i tytuł strony…">
+<!ENTITY pageProperties.label     "Właściwości i tytuł strony…">
 <!ENTITY pageProperties.accesskey "o">
 
 <!-- Tools menu items -->
 <!ENTITY validateCmd.label         "Weryfikuj poprawność kodu HTML">
 <!ENTITY validateCmd.accesskey     "W">
 <!ENTITY previewToolbarCmd.label   "Podgląd">
-<!ENTITY previewToolbarCmd.tooltip "Otwórz bieżącą stronę w nowym oknie przeglądarki">
+<!ENTITY previewToolbarCmd.tooltip "Otwórz bieżącą stronę w nowym oknie przeglądarki">
 
 <!-- File menu items -->
 <!ENTITY exportToTextCmd.label     "Eksportuj do formatu tekstowego…">
 <!ENTITY exportToTextCmd.accesskey "t">
-<!ENTITY previewCmd.label          "Otwórz stronę w przeglądarce">
+<!ENTITY previewCmd.label          "Otwórz stronę w przeglądarce">
 <!ENTITY previewCmd.accesskey      "g">
 <!ENTITY sendPageCmd.label         "Wyślij stronę…">
 <!ENTITY sendPageCmd.accesskey     "s">
@@ -63,4 +63,4 @@
 <!ENTITY PreviewModeTab.label     "Podgląd">
 <!ENTITY PreviewMode.label        "Podgląd">
 <!ENTITY PreviewMode.accesskey    "P">
-<!ENTITY PreviewMode.tooltip      "Wyświetl jako WYSIWYG (tak jak w przeglądarce)">
+<!ENTITY PreviewMode.tooltip      "Wyświetl jako WYSIWYG (tak jak w przeglądarce)">

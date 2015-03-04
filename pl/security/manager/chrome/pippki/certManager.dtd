@@ -83,7 +83,7 @@
 <!ENTITY exceptionMgr.title                   "Dodanie wyjątku bezpieczeństwa">
 <!ENTITY exceptionMgr.exceptionButton.label   "Potwierdź wyjątek bezpieczeństwa">
 <!ENTITY exceptionMgr.exceptionButton.accesskey "P">
-<!ENTITY exceptionMgr.supplementalWarning     "Godne zaufania witryny, banki i inne witryny publiczne nie powinny tego żądać.">
+<!ENTITY exceptionMgr.supplementalWarning     "Godne zaufania witryny, banki i inne witryny publiczne nie powinny tego żądać.">
 <!ENTITY exceptionMgr.certlocation.caption2   "Serwer">
 <!ENTITY exceptionMgr.certlocation.url        "Adres:">
 <!ENTITY exceptionMgr.certlocation.download   "Pobierz certyfikat">
@@ -94,7 +94,7 @@
 <!ENTITY exceptionMgr.permanent.label         "Zachowaj ten wyjątek na stałe">
 <!ENTITY exceptionMgr.permanent.accesskey     "Z">
 
-<!ENTITY certmgr.mine "Posiadasz identyfikujące certyfikaty z następujących organizacji:">
+<!ENTITY certmgr.mine "Posiadasz identyfikujące certyfikaty z następujących organizacji:">
 <!ENTITY certmgr.others 				"Posiadasz certyfikaty, które identyfikują następujące osoby:">
 <!ENTITY certmgr.websites2 				"Posiadasz certyfikaty, które identyfikują następujące serwery:">
 <!ENTITY certmgr.cas 					"Posiadasz certyfikaty, które identyfikują następujące organy certyfikacji:">

@@ -31,7 +31,7 @@
 <!ENTITY return.label                "Nie zwracaj więcej niż">
 <!ENTITY return.accesskey            "w">
 <!ENTITY results.label               "wyników">
-<!ENTITY offlineText.label           "W celu korzystania z zawartości katalogu w trybie offline należy utworzyć jego lokalną kopię.">
+<!ENTITY offlineText.label           "W celu korzystania z zawartości katalogu w trybie offline należy utworzyć jego lokalną kopię.">
 <!ENTITY saslMechanism.label         "Metoda uwierzytelniania: ">
 <!ENTITY saslMechanism.accesskey     "M">
 <!ENTITY saslOff.label               "Proste">

@@ -4,7 +4,7 @@
 
 <!ENTITY Addrbook.label "Książka adresowa">
 <!ENTITY Addrbook.accesskey "a">
-<!ENTITY GeneratedName.label      "Imię i nazwisko">
+<!ENTITY GeneratedName.label      "Imię i nazwisko">
 <!ENTITY GeneratedName.accesskey  "n">
 <!ENTITY PrimaryEmail.label       "E-mail">
 <!ENTITY PrimaryEmail.accesskey   "E">

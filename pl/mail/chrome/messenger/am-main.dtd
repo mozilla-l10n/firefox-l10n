@@ -6,8 +6,8 @@
 <!ENTITY accountName.label       "Nazwa konta:">
 <!ENTITY accountName.accesskey   "N">
 <!ENTITY identityTitle.label     "Domyślna tożsamość">
-<!ENTITY identityDesc.label      "Poniższe dane określają tożsamość posiadacza konta i umożliwiają odbiorcom wiadomości identyfikację nadawcy.">
-<!ENTITY name.label              "Imię i nazwisko:">
+<!ENTITY identityDesc.label      "Poniższe dane określają tożsamość posiadacza konta i umożliwiają odbiorcom wiadomości identyfikację nadawcy.">
+<!ENTITY name.label              "Imię i nazwisko:">
 <!ENTITY name.accesskey          "I">
 <!ENTITY email.label             "Adres e-mail:">
 <!ENTITY email.accesskey         "A">
@@ -20,7 +20,7 @@
 <!ENTITY signatureText.accesskey "k">
 <!ENTITY signatureHtml.label     "Używaj HTML (np. &lt;b&gt;pogrubiony tekst&lt;/b&gt;)">
 <!ENTITY signatureHtml.accesskey "H">
-<!ENTITY signatureFile.label     "Używaj treści z pliku (tekstowego, HTML lub obrazka):">
+<!ENTITY signatureFile.label     "Używaj treści z pliku (tekstowego, HTML lub obrazka):">
 <!ENTITY signatureFile.accesskey "U">
 <!ENTITY edit.label              "Edytuj…">
 <!ENTITY choose.label            "Wybierz…">

@@ -15,7 +15,7 @@
 <!ENTITY title.tooltip               "Atrybut „title” wyświetlany jako etykieta">
 <!ENTITY altText.label               "Tekst alternatywny:">
 <!ENTITY altText.accessKey           "T">
-<!ENTITY altTextEditField.tooltip    "Wprowadź tekst, który będzie wyświetlany w miejscu obrazka">
+<!ENTITY altTextEditField.tooltip    "Wprowadź tekst, który będzie wyświetlany w miejscu obrazka">
 <!ENTITY noAltText.label             "Nie wyświetlaj tekstu alternatywnego">
 <!ENTITY noAltText.accessKey         "N">
 <!ENTITY previewBox.label            "Podgląd obrazka">
@@ -47,20 +47,20 @@
 <!ENTITY bottomPopup.value    "Na dole">
 <!ENTITY topPopup.value       "U góry">
 <!ENTITY centerPopup.value    "Na środku">
-<!ENTITY wrapRightPopup.value "Opływanie z prawej">
-<!ENTITY wrapLeftPopup.value  "Opływanie z lewej">
+<!ENTITY wrapRightPopup.value "Opływanie z prawej">
+<!ENTITY wrapLeftPopup.value  "Opływanie z lewej">
 
 <!-- These controls are in the Spacing Box -->
 <!ENTITY spacingBox.label             "Odstępy">
-<!ENTITY leftRightEditField.label     "Z lewej i prawej:">
+<!ENTITY leftRightEditField.label     "Z lewej i prawej:">
 <!ENTITY leftRightEditField.accessKey "l">
-<!ENTITY topBottomEditField.label     "Z góry i dołu:">
+<!ENTITY topBottomEditField.label     "Z góry i dołu:">
 <!ENTITY topBottomEditField.accessKey "g">
 <!ENTITY borderEditField.label        "Szerokość obramowania:">
 <!ENTITY borderEditField.accessKey    "b">
 
 <!-- These controls are in the Link Box -->
-<!ENTITY showImageLinkBorder.label     "Pokaż ramkę wokół obrazka z odnośnikiem">
+<!ENTITY showImageLinkBorder.label     "Pokaż ramkę wokół obrazka z odnośnikiem">
 <!ENTITY showImageLinkBorder.accessKey "m">
 <!ENTITY LinkAdvancedEditButton.label     "Zaawansowana edycja odnośnika…">
 <!ENTITY LinkAdvancedEditButton.accessKey "Z">

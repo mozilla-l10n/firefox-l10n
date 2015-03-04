@@ -43,20 +43,20 @@
 <!ENTITY modelMarkDeleted.accesskey       "j">
 <!ENTITY modelDeleteImmediately.label     "zostanie niezwłocznie usunięta">
 <!ENTITY modelDeleteImmediately.accesskey "i">
-<!ENTITY expungeOnExit.label          "Przy wyjściu z programu porządkuj folder Odebrane">
+<!ENTITY expungeOnExit.label          "Przy wyjściu z programu porządkuj folder Odebrane">
 <!ENTITY expungeOnExit.accesskey      "m">
-<!ENTITY emptyTrashOnExit.label       "Przy wyjściu z programu opróżniaj Kosz">
+<!ENTITY emptyTrashOnExit.label       "Przy wyjściu z programu opróżniaj Kosz">
 <!ENTITY emptyTrashOnExit.accesskey   "c">
 <!ENTITY loginAtStartup.label         "Sprawdzaj podczas uruchamiania, czy są nowe wiadomości">
 <!ENTITY loginAtStartup.accesskey     "h">
 <!ENTITY maxMessagesStart.label       "Pytaj przy pobieraniu więcej niż">
 <!ENTITY maxMessagesStart.accesskey   "y">
 <!ENTITY maxMessagesEnd.label         "wiadomości">
-<!ENTITY alwaysAuthenticate.label     "Zawsze żądaj uwierzytelniania podczas łączenia z tym serwerem">
+<!ENTITY alwaysAuthenticate.label     "Zawsze żądaj uwierzytelniania podczas łączenia z tym serwerem">
 <!ENTITY alwaysAuthenticate.accesskey "l">
 <!ENTITY newsrcFilePath.label       "Plik newsrc:">
 <!ENTITY newsrcPicker.label "Wybierz plik newsrc">
-<!ENTITY abbreviate.label           "W folderze poczty pokazuj nazwy grup dyskusyjnych w formie:">
+<!ENTITY abbreviate.label           "W folderze poczty pokazuj nazwy grup dyskusyjnych w formie:">
 <!ENTITY abbreviateOn.label         "Pełnej (Na przykład: „pl.rec.humor.najlepsze”)">
 <!ENTITY abbreviateOff.label        "Skróconej (Na przykład: „p.r.h.najlepsze”)">
 <!ENTITY advancedButton.label       "Zaawansowane…">

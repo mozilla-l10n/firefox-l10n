@@ -11,8 +11,8 @@ na serwerze, dzięki czemu można będzie go używać zdalnie lub współdzieli�
 <!ENTITY initialpage.computer.label  "Kalendarz lokalny">
 <!ENTITY initialpage.network.label   "Kalendarz zdalny">
 
-<!ENTITY locationpage.description         "Format, położenie i dostęp do kalendarza zdalnego.">
-<!ENTITY locationpage.login.description   "Jeśli to konieczne, wprowadź nazwę użytkownika i hasło" >
+<!ENTITY locationpage.description         "Format, położenie i dostęp do kalendarza zdalnego.">
+<!ENTITY locationpage.login.description   "Jeśli to konieczne, wprowadź nazwę użytkownika i hasło" >
 <!ENTITY locationpage.username.label      "Nazwa użytkownika:" >
 <!ENTITY locationpage.password.label      "Hasło:" >
 

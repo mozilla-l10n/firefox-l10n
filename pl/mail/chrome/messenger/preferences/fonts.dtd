@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY fontsAndEncodingsDialog.title "Czcionki i zestawy znaków">
+<!ENTITY fontsAndEncodingsDialog.title "Czcionki i zestawy znaków">
 
 <!ENTITY language.label     "Czcionki:">
 <!ENTITY language.accesskey "C">
@@ -60,17 +60,17 @@
 
 <!-- fonts in message -->
 <!ENTITY fontControl.label               "Zasady używania czcionek">
-<!ENTITY useFixedWidthForPlainText.label "Używaj czcionki o stałej szerokości dla wiadomości wysyłanych jako zwykły tekst">
+<!ENTITY useFixedWidthForPlainText.label "Używaj czcionki o stałej szerokości dla wiadomości wysyłanych jako zwykły tekst">
 <!ENTITY fixedWidth.accesskey            "U">
-<!ENTITY useDocumentFonts.label          "Zezwalaj na używanie czcionek zadeklarowanych w wiadomościach">
+<!ENTITY useDocumentFonts.label          "Zezwalaj na używanie czcionek zadeklarowanych w wiadomościach">
 <!ENTITY useDocumentFonts.accesskey      "Z">
 
 <!-- Language settings -->
 <!ENTITY languagesTitle1.label            "Zestaw znaków">
-<!ENTITY composingDescription.label       "Ustawienia domyślnego zestawu znaków wysyłanych i odbieranych wiadomości">
+<!ENTITY composingDescription.label       "Ustawienia domyślnego zestawu znaków wysyłanych i odbieranych wiadomości">
 <!ENTITY sendDefaultCharset.label         "Poczta wychodząca:">
 <!ENTITY sendDefaultCharset.accesskey     "w">
 <!ENTITY viewDefaultCharsetList.label     "Poczta przychodząca:">
 <!ENTITY viewDefaultCharsetList.accesskey "t">
-<!ENTITY replyInDefaultCharset2.label     "Używaj domyślnego zestawu znaków w odpowiedziach zawsze, kiedy to możliwe">
+<!ENTITY replyInDefaultCharset2.label     "Używaj domyślnego zestawu znaków w odpowiedziach zawsze, kiedy to możliwe">
 <!ENTITY replyInDefaultCharset2.accesskey "d">

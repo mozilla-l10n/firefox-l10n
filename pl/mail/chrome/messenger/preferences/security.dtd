@@ -25,10 +25,10 @@
 <!ENTITY resetTrainingData.accesskey    "r">
 
 <!-- Phishing Detector -->
-<!ENTITY phishingDetector1.intro           "&brandShortName; może analizować treści wiadomości w poszukiwaniu typowych technik stosowanych przez oszustów.">
+<!ENTITY phishingDetector1.intro           "&brandShortName; może analizować treści wiadomości w poszukiwaniu typowych technik stosowanych przez oszustów.">
 <!ENTITY enablePhishingDetector1.label     "Informuj, jeżeli wyświetlana wiadomość może być próbą oszustwa">
 <!ENTITY enablePhishingDetector1.accesskey "n">
-<!ENTITY useDownloadedList.label           "Używaj listy podejrzanych wiadomości pobranej z Internetu">
+<!ENTITY useDownloadedList.label           "Używaj listy podejrzanych wiadomości pobranej z Internetu">
 <!ENTITY useDownloadedList.accesskey       "e">
 
 <!-- Passwords -->

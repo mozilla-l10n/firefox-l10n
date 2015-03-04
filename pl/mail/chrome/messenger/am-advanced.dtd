@@ -4,7 +4,7 @@
 
 <!ENTITY smtpServer.label "Konfiguracja serwera poczty wychodzącej (SMTP)">
 
-<!ENTITY smtpDescription.label "Podczas zarządzania tożsamościami można wskazać dowolny serwer z poniższej listy jako „Serwer poczty wychodzącej (SMTP)” lub użyć serwera ustawionego jako domyślny na tej liście, wybierając „Użyj domyślnego serwera”.">
+<!ENTITY smtpDescription.label "Podczas zarządzania tożsamościami można wskazać dowolny serwer z poniższej listy jako „Serwer poczty wychodzącej (SMTP)” lub użyć serwera ustawionego jako domyślny na tej liście, wybierając „Użyj domyślnego serwera”.">
 
 <!ENTITY smtpListAdd.label            "Dodaj…">
 <!ENTITY smtpListAdd.accesskey        "D">

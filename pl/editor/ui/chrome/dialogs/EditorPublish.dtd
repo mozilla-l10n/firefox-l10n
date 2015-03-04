@@ -19,22 +19,22 @@
 <!ENTITY docDirList.accesskey         "P">
 <!ENTITY docDirList.tooltip           "Wskaż lub wprowadź nazwę zdalnego podkatalogu dla tej strony">
 <!ENTITY publishImgCheckbox.label     "Dołącz obrazki oraz inne pliki">
-<!ENTITY publishImgCheckbox.tooltip   "Wraz ze stroną WWW opublikuj obrazki i inne powiązane pliki">
+<!ENTITY publishImgCheckbox.tooltip   "Wraz ze stroną WWW opublikuj obrazki i inne powiązane pliki">
 <!ENTITY publishImgCheckbox.accesskey "c">
 <!ENTITY sameLocationRadio.label      "Użyj tej samej lokalizacji, co strona">
-<!ENTITY sameLocationRadio.tooltip    "Zachowaj pliki w tym samym katalogu co plik strony WWW">
+<!ENTITY sameLocationRadio.tooltip    "Zachowaj pliki w tym samym katalogu co plik strony WWW">
 <!ENTITY sameLocationRadio.accesskey  "U">
 <!ENTITY useSubdirRadio.label         "Użyj tego podkatalogu witryny:">
 <!ENTITY useSubdirRadio.accesskey     "o">
 <!ENTITY useSubdirRadio.tooltip       "Publikuj pliki we wskazanym zdalnym podkatalogu">
-<!ENTITY otherDirList.tooltip         "Wskaż lub wprowadź nazwę zdalnego podkatalogu, w którym mają być opublikowane pliki">
+<!ENTITY otherDirList.tooltip         "Wskaż lub wprowadź nazwę zdalnego podkatalogu, w którym mają być opublikowane pliki">
 <!ENTITY pageTitle.label              "Tytuł strony:">
 <!ENTITY pageTitle.accesskey          "T">
-<!ENTITY pageTitle.tooltip            "Proszę wprowadzić tytuł strony, który jest widoczny m.in. w nazwie okna i zakładkach">
+<!ENTITY pageTitle.tooltip            "Proszę wprowadzić tytuł strony, który jest widoczny m.in. w nazwie okna i zakładkach">
 <!ENTITY pageTitleExample.label       "np.: „Moja strona domowa”">
 <!ENTITY filename.label               "Nazwa pliku:">
 <!ENTITY filename.accesskey           "l">
-<!ENTITY filename.tooltip             "Proszę wprowadzić nazwę pliku, wraz z rozszerzeniem „.html”, pod którą zostanie zachowana bieżąca strona">
+<!ENTITY filename.tooltip             "Proszę wprowadzić nazwę pliku, wraz z rozszerzeniem „.html”, pod którą zostanie zachowana bieżąca strona">
 <!ENTITY filenameExample.label        "np.: „mojastrona.html”">
 <!ENTITY setDefaultButton.label       "Ustaw jako domyślne">
 <!ENTITY setDefaultButton.accesskey   "d">
@@ -43,7 +43,7 @@
 
 <!-- Settings Tab Panel -->
 <!ENTITY publishSites.label     "Publikowanie danych WWW">
-<!ENTITY serverInfo.label       "Informacje o serwerze">
+<!ENTITY serverInfo.label       "Informacje o serwerze">
 <!ENTITY loginInfo.label        "Dane logowania">
 <!ENTITY siteName.label         "Nazwa witryny:">
 <!ENTITY siteName.accesskey     "z">
@@ -61,5 +61,5 @@
 <!ENTITY password.tooltip       "Hasło dostępu do serwera stron WWW bieżącego użytkownika">
 <!ENTITY password.accesskey     "H">
 <!ENTITY savePassword.label "Zachowaj hasło">
-<!ENTITY savePassword.tooltip "Po zaznaczeniu tej opcji wprowadzone hasło zostanie zachowane w Menedżerze haseł">
+<!ENTITY savePassword.tooltip "Po zaznaczeniu tej opcji wprowadzone hasło zostanie zachowane w Menedżerze haseł">
 <!ENTITY savePassword.accesskey "s">

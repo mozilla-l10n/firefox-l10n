@@ -14,9 +14,9 @@
 <!ENTITY deniedPortAccess.longDesc  "">
 
 <!ENTITY dnsNotFound.title "Nie odnaleziono serwera">
-<!ENTITY dnsNotFound.longDesc "<ul><li>Sprawdź, czy adres nie zawiera literówek jak np. <strong>ww</strong>.example.com zamiast <strong>www</strong>.example.com</li><li>Jeśli nie możesz otworzyć żadnej strony, sprawdź swoje połączenie sieciowe.</li><li>Jeśli ten komputer jest chroniony przez zaporę sieciową lub serwer proxy, sprawdź, czy program &brandShortName; jest uprawniony do łączenia się z Internetem.</li></ul>">
+<!ENTITY dnsNotFound.longDesc "<ul><li>Sprawdź, czy adres nie zawiera literówek jak np. <strong>ww</strong>.example.com zamiast <strong>www</strong>.example.com</li><li>Jeśli nie możesz otworzyć żadnej strony, sprawdź swoje połączenie sieciowe.</li><li>Jeśli ten komputer jest chroniony przez zaporę sieciową lub serwer proxy, sprawdź, czy program &brandShortName; jest uprawniony do łączenia się z Internetem.</li></ul>">
 <!ENTITY fileNotFound.title "Nie odnaleziono pliku">
-<!ENTITY fileNotFound.longDesc "<ul><li>Sprawdź wielkość liter oraz upewnij się, że nazwa pliku nie zawiera literówek lub innych błędów w pisowni.</li><li>Sprawdź, czy plik nie został przeniesiony, usunięty lub jego nazwa nie została zmieniona.</li></ul>">
+<!ENTITY fileNotFound.longDesc "<ul><li>Sprawdź wielkość liter oraz upewnij się, że nazwa pliku nie zawiera literówek lub innych błędów w pisowni.</li><li>Sprawdź, czy plik nie został przeniesiony, usunięty lub jego nazwa nie została zmieniona.</li></ul>">
 
 <!ENTITY generic.title    "Wystąpił błąd">
 <!ENTITY generic.longDesc "
@@ -128,7 +128,7 @@
 </ul>
 ">
 
-<!ENTITY malwareBlocked.title    "Witryna podejrzewana o dokonywanie ataków!">
+<!ENTITY malwareBlocked.title    "Witryna podejrzewana o dokonywanie ataków!">
 <!ENTITY malwareBlocked.longDesc "
 <p>Tego rodzaju witryny mogą próbować instalować oprogramowanie wykradające poufne dane, używające komputera do pośredniczenia w atakach lub uszkadzające system.</p>
 <p>Właściciele witryn, które zostały błędnie uznane za podejrzane, mogą <a href='http://www.stopbadware.org/home/reviewinfo'>poprosić o ponowne ich sprawdzenie</a>.</p>
@@ -141,7 +141,7 @@
 ">
 
 <!ENTITY cspBlocked.title "Zablokowane przez politykę bezpieczeństwa treści">
-<!ENTITY cspBlocked.longDesc "<p>Program &brandShortName; uniemożliwił tej stronie wczytanie treści w ten sposób, ponieważ strona posiada politykę bezpieczeństwa treści, która na to nie pozwala.</p>">
+<!ENTITY cspBlocked.longDesc "<p>Program &brandShortName; uniemożliwił tej stronie wczytanie treści w ten sposób, ponieważ strona posiada politykę bezpieczeństwa treści, która na to nie pozwala.</p>">
 
 <!ENTITY corruptedContentError.title    "Uszkodzona zawartość">
 <!ENTITY corruptedContentError.longDesc "<p>Żądana treść nie może zostać wyświetlona, ponieważ wystąpił błąd podczas transmisji danych.</p>
@@ -161,4 +161,4 @@
 ">
 
 <!ENTITY remoteXUL.title    "Zdalna treść XUL">
-<!ENTITY remoteXUL.longDesc "<p><ul><li>Prosimy poinformować właścicieli witryny o tym problemie.</li></ul></p>">
+<!ENTITY remoteXUL.longDesc "<p><ul><li>Prosimy poinformować właścicieli witryny o tym problemie.</li></ul></p>">

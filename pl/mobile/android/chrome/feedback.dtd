@@ -10,6 +10,6 @@
 <!ENTITY feedback.feedback.bad          "Źle">
 
 <!ENTITY feedback.tools.title           "Narzędzia">
-<!ENTITY feedback.allowTelemetry.title  "Przesyłaj dane o wydajności">
+<!ENTITY feedback.allowTelemetry.title  "Przesyłaj dane o wydajności">
 <!ENTITY feedback.forceCompat.title     "Wymuś zgodność dodatków">
 <!ENTITY feedback.errorConsole.title    "Włącz konsolę błędów">

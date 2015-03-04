@@ -90,7 +90,7 @@
 <!ENTITY findBarCmd.label "Znajdź…">
 <!ENTITY findBarCmd.accesskey "Z">
 <!ENTITY findBarCmd.key "F">
-<!ENTITY findReplaceCmd.label "Znajdź i zamień…">
+<!ENTITY findReplaceCmd.label "Znajdź i zamień…">
 <!ENTITY findReplaceCmd.accesskey "m">
 <!ENTITY findReplaceCmd.key "H">
 <!ENTITY findAgainCmd.label "Znajdź następne">
@@ -132,7 +132,7 @@
 <!ENTITY checkSpellingCmd2.accesskey        "r">
 <!ENTITY checkSpellingCmd2.key              "p">
 <!ENTITY checkSpellingCmd2.key2             "VK_F7">
-<!ENTITY enableInlineSpellChecker.label     "Sprawdzaj pisownię w trakcie tworzenia">
+<!ENTITY enableInlineSpellChecker.label     "Sprawdzaj pisownię w trakcie tworzenia">
 <!ENTITY enableInlineSpellChecker.accesskey "S">
 <!ENTITY quoteCmd.label                     "Cytuj wiadomość">
 <!ENTITY quoteCmd.accesskey                 "C">
@@ -140,7 +140,7 @@
 <!ENTITY attachVCard.accesskey              "v">
 <!ENTITY returnReceiptMenu.label            "Żądaj potwierdzenia doręczenia">
 <!ENTITY returnReceiptMenu.accesskey        "d">
-<!ENTITY dsnMenu.label                      "Informuj o statusie dostarczania">
+<!ENTITY dsnMenu.label                      "Informuj o statusie dostarczania">
 <!ENTITY dsnMenu.accesskey                  "n">
 <!ENTITY deliveryFormatMenu.label "Wyślij wiadomość jako">
 <!ENTITY deliveryFormatMenu.accesskey "W">
@@ -164,7 +164,7 @@
 <!ENTITY lowPriorityCmd.accesskey           "s">
 <!ENTITY lowestPriorityCmd.label            "Najniższy">
 <!ENTITY lowestPriorityCmd.accesskey        "a">
-<!ENTITY fileCarbonCopyCmd.label            "Zachowaj kopię wiadomości w folderze">
+<!ENTITY fileCarbonCopyCmd.label            "Zachowaj kopię wiadomości w folderze">
 <!ENTITY fileCarbonCopyCmd.accesskey        "a">
 <!ENTITY fileHereMenu.label                 "Zachowaj tutaj">
 
@@ -173,7 +173,7 @@
 <!-- Tools Menu -->
 <!ENTITY tasksMenu.label                 "Narzędzia">
 <!ENTITY tasksMenu.accesskey             "N">
-<!ENTITY messengerCmd.label              "Poczta i grupy dyskusyjne">
+<!ENTITY messengerCmd.label              "Poczta i grupy dyskusyjne">
 <!ENTITY messengerCmd.accesskey          "P">
 <!ENTITY messengerCmd.commandkey         "1">
 <!ENTITY addressBookCmd.label            "Książka adresowa">
@@ -207,7 +207,7 @@
 <!ENTITY sendButton.tooltip      "Wyślij tę wiadomość">
 <!ENTITY sendlaterButton.tooltip "Wyślij tę wiadomość później">
 <!ENTITY quoteButton.tooltip     "Zacytuj poprzednią wiadomość">
-<!ENTITY addressButton.tooltip   "Wybierz adresata z książki adresowej">
+<!ENTITY addressButton.tooltip   "Wybierz adresata z książki adresowej">
 <!ENTITY attachButton.tooltip    "Dodaj pliki do tej wiadomości">
 <!ENTITY spellingButton.tooltip  "Sprawdź pisownię zaznaczonego fragmentu lub całej wiadomości">
 <!ENTITY saveButton.tooltip      "Zapisz wiadomość jako">

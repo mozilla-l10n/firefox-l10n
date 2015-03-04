@@ -16,7 +16,7 @@
 <!ENTITY tableHeight.accessKey "W">
 <!ENTITY tableWidth.label "Szerokość:">
 <!ENTITY tableWidth.accessKey "S">
-<!ENTITY tableBorderSpacing.label "Obramowanie i odstępy">
+<!ENTITY tableBorderSpacing.label "Obramowanie i odstępy">
 <!ENTITY tableBorderWidth.label "Szerokość obramowania:">
 <!ENTITY tableBorderWidth.accessKey "b">
 <!ENTITY tableSpacing.label "Odstęp:">
@@ -24,7 +24,7 @@
 <!ENTITY tablePadding.label "Marginesy:">
 <!ENTITY tablePadding.accessKey "M">
 <!ENTITY tablePxBetwCells.label "pikseli pomiędzy komórkami">
-<!ENTITY tablePxBetwBrdrCellContent.label "pikseli pomiędzy obramowaniem a zawartością komórki">
+<!ENTITY tablePxBetwBrdrCellContent.label "pikseli pomiędzy obramowaniem a zawartością komórki">
 <!ENTITY tableAlignment.label "Wyrównanie tabeli:">
 <!ENTITY tableAlignment.accessKey "y">
 <!ENTITY tableCaption.label "Podpis:">
@@ -62,7 +62,7 @@
 <!ENTITY cellAlignBottom.label "Do dołu">
 <!ENTITY cellAlignJustify.label "Wyjustowana">
 <!ENTITY cellInheritColor.label "(pozostaw bez zaznaczenia, aby było widoczne tło tabeli)">
-<!ENTITY cellUseCheckboxHelp.label "Użyj pól wyboru, aby wybrać, które z powyższych właściwości zostaną zastosowane do zaznaczonych komórek">
+<!ENTITY cellUseCheckboxHelp.label "Użyj pól wyboru, aby wybrać, które z powyższych właściwości zostaną zastosowane do zaznaczonych komórek">
 <!ENTITY size.label "Rozmiar">
 <!ENTITY pixels.label "pikseli">
 <!ENTITY backgroundColor.label "Kolor tła:">

@@ -3,5 +3,5 @@
    - You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY fileExceedsLimit.title "Hightail">
-<!ENTITY fileExceedsLimit.thatsBigFile3 "Wgrywanie plików większych niż 50 MB nie jest obsługiwane dla darmowych kont.">
+<!ENTITY fileExceedsLimit.thatsBigFile3 "Wgrywanie plików większych niż 50 MB nie jest obsługiwane dla darmowych kont.">
 <!ENTITY fileExceedsLimit.style "width: 40em; min-height: 20em;">

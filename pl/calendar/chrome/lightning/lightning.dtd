@@ -28,7 +28,7 @@
 <!ENTITY lightning.menu.view.tasks.accesskey          "a">
 
 <!-- Events and Tasks menu -->
-<!ENTITY lightning.menu.eventtask.label       "Wydarzenia i zadania">
+<!ENTITY lightning.menu.eventtask.label       "Wydarzenia i zadania">
 <!ENTITY lightning.menu.eventtask.accesskey   "a">
 
 <!-- properties dialog, calendar creation wizard -->
@@ -45,7 +45,7 @@
 <!ENTITY lightning.imipbar.btnDeclineRecurrences.label "Odrzuć wszystkie">
 <!ENTITY lightning.imipbar.btnDeclineRecurrences2.tooltiptext "Odrzuć zaproszenie na wszystkie powtórzenia wydarzenia">
 <!ENTITY lightning.imipbar.btnDelete.label "Usuń">
-<!ENTITY lightning.imipbar.btnDelete.tooltiptext "Usuń z kalendarza">
+<!ENTITY lightning.imipbar.btnDelete.tooltiptext "Usuń z kalendarza">
 <!ENTITY lightning.imipbar.btnDetails.label "Szczegóły…">
 <!ENTITY lightning.imipbar.btnDetails.tooltiptext "Wyświetl szczegóły wydarzenia">
 <!ENTITY lightning.imipbar.btnMore.label "Więcej">
@@ -53,13 +53,13 @@
 <!ENTITY lightning.imipbar.btnReconfirm2.label "Zaakceptuj powtórnie">
 <!ENTITY lightning.imipbar.btnReconfirm.tooltiptext "Wyślij powtórne potwierdzenie do organizatora">
 <!ENTITY lightning.imipbar.btnSaveCopy.label "Zapisz kopię">
-<!ENTITY lightning.imipbar.btnSaveCopy.tooltiptext "Zapisz kopię wydarzenia w kalendarzu, niezależnie od odpowiedzi wysłanej do organizatora. Lista uczestników zostanie wyczyszczona.">
+<!ENTITY lightning.imipbar.btnSaveCopy.tooltiptext "Zapisz kopię wydarzenia w kalendarzu, niezależnie od odpowiedzi wysłanej do organizatora. Lista uczestników zostanie wyczyszczona.">
 <!ENTITY lightning.imipbar.btnTentative.label "Wstępnie zaakceptuj">
 <!ENTITY lightning.imipbar.btnTentative2.tooltiptext "Wstępnie zaakceptuj zaproszenie na wydarzenie">
 <!ENTITY lightning.imipbar.btnTentativeRecurrences.label "Wstępnie zaakceptuj wszystkie">
 <!ENTITY lightning.imipbar.btnTentativeRecurrences2.tooltiptext "Wstępnie zaakceptuj zaproszenie na wszystkie powtórzenia wydarzenia">
 <!ENTITY lightning.imipbar.btnUpdate.label "Uaktualnij">
-<!ENTITY lightning.imipbar.btnUpdate.tooltiptext "Uaktualnij wydarzenie w kalendarzu">
+<!ENTITY lightning.imipbar.btnUpdate.tooltiptext "Uaktualnij wydarzenie w kalendarzu">
 <!ENTITY lightning.imipbar.description "Wiadomość zawiera zaproszenie na wydarzenie.">
 
 <!-- Lightning specific keybindings -->

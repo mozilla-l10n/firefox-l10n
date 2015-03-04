@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY windowTitle.label "Wstaw HTML">
-<!ENTITY sourceEditField.label "Wstaw znaczniki HTML i tekst:">
+<!ENTITY sourceEditField.label "Wstaw znaczniki HTML i tekst:">
 <!ENTITY example.label "Przykład: ">
 <!ENTITY exampleOpenTag.label "&lt;i&gt;">
 <!ENTITY exampleCloseTag.label "&lt;/i&gt;">

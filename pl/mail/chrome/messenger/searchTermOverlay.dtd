@@ -4,7 +4,7 @@
 
 <!ENTITY matchAll.label         "Wszystkie warunki spełnione">
 <!ENTITY matchAll.accesskey     "W">
-<!ENTITY matchAny.label         "Spełniony dowolny z warunków">
+<!ENTITY matchAny.label         "Spełniony dowolny z warunków">
 <!ENTITY matchAny.accesskey     "S">
 <!ENTITY matchAllMsgs.label     "Brak warunków, wszystkie wiadomości">
 <!ENTITY matchAllMsgs.accesskey "B">

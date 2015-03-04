@@ -4,9 +4,9 @@
 
 <!ENTITY aboutSupport.appBasicsAppBuildID "Identyfikator kompilacji programu">
 
-<!ENTITY aboutSupport.accountsTitle                   "Konta poczty i grup dyskusyjnych">
+<!ENTITY aboutSupport.accountsTitle                   "Konta poczty i grup dyskusyjnych">
 <!ENTITY aboutSupport.showPrivateData.mainText        "Dołącz nazwy kont">
-<!ENTITY aboutSupport.showPrivateData.explanationText "(potencjalnie wrażliwe i identyfikujące dane)">
+<!ENTITY aboutSupport.showPrivateData.explanationText "(potencjalnie wrażliwe i identyfikujące dane)">
 <!ENTITY aboutSupport.accountsID                      "ID">
 <!ENTITY aboutSupport.accountsName                    "Nazwa">
 <!ENTITY aboutSupport.accountsIncomingServer          "Serwer poczty przychodzącej">

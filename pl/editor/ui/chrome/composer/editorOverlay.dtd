@@ -15,7 +15,7 @@
 <!ENTITY pasteAsQuotationCmd.accesskey "y">
 <!ENTITY pasteAsQuotationCmd.key     "o">
 <!ENTITY findBarCmd.label "Znajdź…">
-<!ENTITY findReplaceCmd.label "Znajdź i zamień…">
+<!ENTITY findReplaceCmd.label "Znajdź i zamień…">
 <!ENTITY enableInlineSpellChecker.label     "Sprawdzaj pisownię podczas wprowadzania tekstu">
 <!ENTITY enableInlineSpellChecker.accesskey "S">
 <!ENTITY checkSpellingCmd2.label            "Sprawdź pisownię…">
@@ -40,7 +40,7 @@
 <!ENTITY insertHTMLCmd.accesskey  "H">
 <!ENTITY insertMathCmd.label "Wzory matematyczne…">
 <!ENTITY insertMathCmd.accesskey "W">
-<!ENTITY insertCharsCmd.label     "Znaki i symbole…">
+<!ENTITY insertCharsCmd.label     "Znaki i symbole…">
 <!ENTITY insertCharsCmd.accesskey "Z">
 <!ENTITY insertBreakAllCmd.label     "Linię podziału poniżej obrazka">
 <!ENTITY insertBreakAllCmd.accesskey "u">
@@ -48,7 +48,7 @@
 <!-- Used just in context popup. -->
 <!ENTITY createLinkCmd.label                 "Wstaw odnośnik…">
 <!ENTITY createLinkCmd.accesskey             "W">
-<!ENTITY editLinkCmd.label                   "Edytuj odnośnik w nowym oknie Kompozytora Stron">
+<!ENTITY editLinkCmd.label                   "Edytuj odnośnik w nowym oknie Kompozytora Stron">
 <!ENTITY editLinkCmd.accesskey               "E">
 
 <!-- Font Face SubMenu -->
@@ -216,7 +216,7 @@
 <!ENTITY decreaseIndent.accesskey "m">
 <!ENTITY decreaseIndent.key       "[">
 
-<!ENTITY colorsAndBackground.label     "Kolory strony i tło…">
+<!ENTITY colorsAndBackground.label     "Kolory strony i tło…">
 <!ENTITY colorsAndBackground.accesskey "y">
 
 <!-- Table Menu -->
@@ -273,7 +273,7 @@
 <!ENTITY tableJoinCells.accesskey  "P">
 <!ENTITY tableSplitCell.label      "Podziel komórkę">
 <!ENTITY tableSplitCell.accesskey  "d">
-<!ENTITY convertToTable.label      "Utwórz tabelę z zaznaczenia">
+<!ENTITY convertToTable.label      "Utwórz tabelę z zaznaczenia">
 <!ENTITY convertToTable.accesskey  "b">
 <!ENTITY tableProperties.label     "Właściwości tabeli…">
 <!ENTITY tableProperties.accesskey "t">
@@ -313,14 +313,14 @@
 <!ENTITY underlineToolbarCmd.tooltip   "Podkreślenie">
 <!ENTITY bulletListToolbarCmd.tooltip  "Zastosuj albo usuń styl wypunktowania">
 <!ENTITY numberListToolbarCmd.tooltip  "Zastosuj albo usuń styl numerowania">
-<!ENTITY outdentToolbarCmd.tooltip     "Wcięcie tekstu (przesuń w lewo)">
-<!ENTITY indentToolbarCmd.tooltip      "Wcięcie tekstu (przesuń w prawo)">
+<!ENTITY outdentToolbarCmd.tooltip     "Wcięcie tekstu (przesuń w lewo)">
+<!ENTITY indentToolbarCmd.tooltip      "Wcięcie tekstu (przesuń w prawo)">
 <!ENTITY AlignPopupButton.tooltip      "Wybierz wyrównanie tekstu">
 <!ENTITY InsertPopupButton.tooltip     "Wstaw odnośnik, kotwicę, obrazek, linię poziomą lub tabelę">
 <!ENTITY alignLeftButton.tooltip       "Wyrównaj tekst do lewego marginesu">
 <!ENTITY alignCenterButton.tooltip     "Wyrównaj tekst do środka">
 <!ENTITY alignRightButton.tooltip      "Wyrównaj tekst do prawego marginesu">
-<!ENTITY alignJustifyButton.tooltip    "Wyrównaj tekst pomiędzy prawym a lewym marginesem">
+<!ENTITY alignJustifyButton.tooltip    "Wyrównaj tekst pomiędzy prawym a lewym marginesem">
 
 <!-- Structure Toolbar Context Menu items -->
 <!ENTITY structSelect.label        "Zaznacz">

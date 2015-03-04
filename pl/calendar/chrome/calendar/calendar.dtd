@@ -21,10 +21,10 @@
 <!ENTITY calendar.events.filter.future.label "Wszystkie przyszłe wydarzenia">
 <!ENTITY calendar.events.filter.current.label "Aktualnie wybrany dzień">
 <!ENTITY calendar.events.filter.currentview.label "Widoczne wydarzenia">
-<!ENTITY calendar.events.filter.next7Days.label "Wydarzenia w przeciągu następnych 7 dni">
-<!ENTITY calendar.events.filter.next14Days.label "Wydarzenia w przeciągu następnych 14 dni">
-<!ENTITY calendar.events.filter.next31Days.label "Wydarzenia w przeciągu następnych 31 dni">
-<!ENTITY calendar.events.filter.thisCalendarMonth.label "Wydarzenia w tym miesiącu kalendarzowym">
+<!ENTITY calendar.events.filter.next7Days.label "Wydarzenia w przeciągu następnych 7 dni">
+<!ENTITY calendar.events.filter.next14Days.label "Wydarzenia w przeciągu następnych 14 dni">
+<!ENTITY calendar.events.filter.next31Days.label "Wydarzenia w przeciągu następnych 31 dni">
+<!ENTITY calendar.events.filter.thisCalendarMonth.label "Wydarzenia w tym miesiącu kalendarzowym">
 
 <!ENTITY calendar.unifinder.tree.done.label              "Wykonane">
 <!ENTITY calendar.unifinder.tree.done.tooltip2 "Sortowanie według wykonanych zadań">
@@ -52,7 +52,7 @@
 <!ENTITY calendar.unifinder.tree.calendarname.tooltip2 "Sortowanie według nazwy kalendarza">
 <!ENTITY calendar.unifinder.tree.duration.label          "Pozostało">
 <!ENTITY calendar.unifinder.tree.duration.tooltip2 "Sortowanie według pozostałego czasu">
-<!ENTITY calendar.unifinder.close.tooltip                "Zamknij wyszukiwanie i listę zdarzeń">
+<!ENTITY calendar.unifinder.close.tooltip                "Zamknij wyszukiwanie i listę zdarzeń">
 
 
 <!ENTITY calendar.today.button.tooltip        "Przejdź do dnia dzisiejszego" >
@@ -94,7 +94,7 @@
 <!ENTITY calendar.multiweek.button.label        "Wiele tygodni" >
 <!ENTITY calendar.onlyworkday.checkbox.label    "Tylko dni robocze" >
 <!ENTITY calendar.onlyworkday.checkbox.accesskey  "r" >
-<!ENTITY calendar.displaytodos.checkbox.label   "Zadania w widoku" >
+<!ENTITY calendar.displaytodos.checkbox.label   "Zadania w widoku" >
 <!ENTITY calendar.displaytodos.checkbox.accesskey "n" >
 <!ENTITY calendar.completedtasks.checkbox.label     "Wyświetlaj ukończone zadania" >
 <!ENTITY calendar.completedtasks.checkbox.accesskey "u" >
@@ -190,15 +190,15 @@
 <!ENTITY calendar.context.markcompleted.label     "Oznacz jako ukończone">
 <!ENTITY calendar.context.markcompleted.accesskey "n">
 
-<!ENTITY progress.level.0             "Ukończono w 0&percnt;">
+<!ENTITY progress.level.0             "Ukończono w 0&percnt;">
 <!ENTITY progress.level.0.accesskey   "0">
-<!ENTITY progress.level.25            "Ukończono w 25&percnt;">
+<!ENTITY progress.level.25            "Ukończono w 25&percnt;">
 <!ENTITY progress.level.25.accesskey  "2">
-<!ENTITY progress.level.50            "Ukończono w 50&percnt;">
+<!ENTITY progress.level.50            "Ukończono w 50&percnt;">
 <!ENTITY progress.level.50.accesskey  "5">
-<!ENTITY progress.level.75            "Ukończono w 75&percnt;">
+<!ENTITY progress.level.75            "Ukończono w 75&percnt;">
 <!ENTITY progress.level.75.accesskey  "7">
-<!ENTITY progress.level.100           "Ukończono w 100&percnt;">
+<!ENTITY progress.level.100           "Ukończono w 100&percnt;">
 <!ENTITY progress.level.100.accesskey "1">
 
 <!ENTITY priority.level.none                "Nieokreślony">
@@ -210,11 +210,11 @@
 <!ENTITY priority.level.high                "Wysoki" >
 <!ENTITY priority.level.high.accesskey      "W">
 
-<!ENTITY calendar.context.postpone.1hour.label      "1 godzina">
+<!ENTITY calendar.context.postpone.1hour.label      "1 godzina">
 <!ENTITY calendar.context.postpone.1hour.accesskey  "g">
-<!ENTITY calendar.context.postpone.1day.label       "1 dzień">
+<!ENTITY calendar.context.postpone.1day.label       "1 dzień">
 <!ENTITY calendar.context.postpone.1day.accesskey   "d">
-<!ENTITY calendar.context.postpone.1week.label      "1 tydzień">
+<!ENTITY calendar.context.postpone.1week.label      "1 tydzień">
 <!ENTITY calendar.context.postpone.1week.accesskey  "t">
 
 <!ENTITY calendar.copylink.label       "Kopiuj adres odnośnika">
@@ -234,7 +234,7 @@
 <!ENTITY calendar.context.deleteserver2.accesskey "U">
 <!ENTITY calendar.context.removeserver.label "Usuń kalendarz…">
 <!ENTITY calendar.context.removeserver.accesskey "U">
-<!ENTITY calendar.context.unsubscribeserver.label "Zrezygnuj z subskrypcji kalendarza…">
+<!ENTITY calendar.context.unsubscribeserver.label "Zrezygnuj z subskrypcji kalendarza…">
 <!ENTITY calendar.context.unsubscribeserver.accesskey "Z">
 <!ENTITY calendar.context.synccalendars.label           "Synchronizuj kalendarze">
 <!ENTITY calendar.context.synccalendars.accesskey       "S">
@@ -273,19 +273,19 @@
 <!ENTITY calendar.alarm.location.label              "Miejsce:" >
 <!ENTITY calendar.alarm.details.label               "Szczegóły…">
 <!ENTITY calendar.alarm.snoozefor.label             "Przypomnij za" >
-<!ENTITY calendar.alarm.snoozeallfor.label          "Przypomnij o wszystkich za" >
+<!ENTITY calendar.alarm.snoozeallfor.label          "Przypomnij o wszystkich za" >
 <!ENTITY calendar.alarm.title.label "Przypomnienia kalendarza">
 <!ENTITY calendar.alarm.dismiss.label               "Wyłącz" >
 <!ENTITY calendar.alarm.dismissall.label            "Wyłącz wszystkie przypomnienia" >
 
-<!ENTITY calendar.alarm.snooze.5minutes.label       "5 minut" >
-<!ENTITY calendar.alarm.snooze.10minutes.label      "10 minut" >
-<!ENTITY calendar.alarm.snooze.15minutes.label      "15 minut" >
-<!ENTITY calendar.alarm.snooze.30minutes.label      "30 minut" >
-<!ENTITY calendar.alarm.snooze.45minutes.label      "45 minut" >
-<!ENTITY calendar.alarm.snooze.1hour.label          "1 godzinę" >
-<!ENTITY calendar.alarm.snooze.2hours.label         "2 godziny" >
-<!ENTITY calendar.alarm.snooze.1day.label           "1 dzień" >
+<!ENTITY calendar.alarm.snooze.5minutes.label       "5 minut" >
+<!ENTITY calendar.alarm.snooze.10minutes.label      "10 minut" >
+<!ENTITY calendar.alarm.snooze.15minutes.label      "15 minut" >
+<!ENTITY calendar.alarm.snooze.30minutes.label      "30 minut" >
+<!ENTITY calendar.alarm.snooze.45minutes.label      "45 minut" >
+<!ENTITY calendar.alarm.snooze.1hour.label          "1 godzinę" >
+<!ENTITY calendar.alarm.snooze.2hours.label         "2 godziny" >
+<!ENTITY calendar.alarm.snooze.1day.label           "1 dzień" >
 
 <!-- LOCALIZATION NOTE (calendar.alarm.snooze.cancel)
 This string is not seen in the UI, it is read by screen readers when the
@@ -312,7 +312,7 @@ dialog. -->
 <!ENTITY calendarproperties.cache3.label "Dostępność offline">
 <!ENTITY calendarproperties.enabled.label          "Włącz ten kalendarz">
 <!ENTITY calendarproperties.forceDisabled.label    "Nie znaleziono dostawcy dla tego kalendarza. Zdarza się to często, gdy zostały wyłączone lub odinstalowane pewne rozszerzenia.">
-<!ENTITY calendarproperties.unsubscribe.label      "Zrezygnuj z subskrypcji">
+<!ENTITY calendarproperties.unsubscribe.label      "Zrezygnuj z subskrypcji">
 <!ENTITY calendarproperties.unsubscribe.accesskey  "Z">
 
 <!-- Calendar Publish Dialog -->
@@ -351,5 +351,5 @@ dialog. -->
 
 <!ENTITY calendar.extract.event.button "Dodaj jako wydarzenie">
 <!ENTITY calendar.extract.task.button "Dodaj jako zadanie">
-<!ENTITY calendar.extract.event.button.tooltip "Wyodrębnij informacje o wydarzeniu z wiadomości i dodaj je do kalendarza">
-<!ENTITY calendar.extract.task.button.tooltip "Wyodrębnij informacje o zadaniu z wiadomości i dodaj je do kalendarza">
+<!ENTITY calendar.extract.event.button.tooltip "Wyodrębnij informacje o wydarzeniu z wiadomości i dodaj je do kalendarza">
+<!ENTITY calendar.extract.task.button.tooltip "Wyodrębnij informacje o zadaniu z wiadomości i dodaj je do kalendarza">

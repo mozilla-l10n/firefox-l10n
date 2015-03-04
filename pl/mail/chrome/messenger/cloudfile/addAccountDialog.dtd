@@ -7,7 +7,7 @@
 <!ENTITY addAccountDialog.style "width: 40em; min-height: 20em;">
 <!ENTITY addAccountDialog.accountName.label "Nazwa konta:">
 <!ENTITY addAccountDialog.noAccountText "Obecna wersja programu &brandShortName; obsługuje konfigurację tylko jednego konta dla każdego serwisu przechowywania.">
-<!ENTITY addAccountDialog.createAccountText2 "Możliwe jest przekazywanie dużych załączników przy użyciu serwisów przechowywania plików. Aby skorzystać z tej opcji, należy skonfigurować istniejące konto lub utworzyć nowe.">
+<!ENTITY addAccountDialog.createAccountText2 "Możliwe jest przekazywanie dużych załączników przy użyciu serwisów przechowywania plików. Aby skorzystać z tej opcji, należy skonfigurować istniejące konto lub utworzyć nowe.">
 <!ENTITY addAccountDialog.authorizing "Sprawdzanie upoważnienia…">
 <!ENTITY addAccountDialog.error "Wystąpił błąd podczas konfigurowania konta!">
 <!ENTITY addAccountDialog.acceptButton.label "Skonfiguruj konto">

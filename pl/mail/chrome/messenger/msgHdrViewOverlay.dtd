@@ -27,7 +27,7 @@
 <!ENTITY hdrReplyButton1.label        "Odpowiedz">
 <!ENTITY hdrReplyButton2.tooltip "Odpowiedz nadawcy tej wiadomości">
 <!ENTITY hdrReplyAllButton1.label     "Odpowiedz wszystkim">
-<!ENTITY hdrReplyAllButton1.tooltip   "Odpowiedz nadawcy i wszystkim pozostałym korespondentom">
+<!ENTITY hdrReplyAllButton1.tooltip   "Odpowiedz nadawcy i wszystkim pozostałym korespondentom">
 <!ENTITY hdrReplyListButton1.label    "Odpowiedz liście">
 <!ENTITY hdrReplyListButton1.tooltip  "Wyślij odpowiedź na listę dyskusyjną">
 <!ENTITY hdrFollowupButton1.label "Odpowiedz grupie">
@@ -42,7 +42,7 @@
 <!ENTITY otherActionsButton2.label "Więcej">
 <!ENTITY otherActionsButton.tooltip "Inne dostępne czynności">
 
-<!ENTITY hdrViewToolbarShowFull.label      "Wyświetlaj ikony i tekst">
+<!ENTITY hdrViewToolbarShowFull.label      "Wyświetlaj ikony i tekst">
 <!ENTITY hdrViewToolbarShowFull.accesskey  "t">
 <!ENTITY hdrViewToolbarShowIcons.label     "Wyświetlaj wyłącznie ikony">
 <!ENTITY hdrViewToolbarShowIcons.accesskey "i">
@@ -51,11 +51,11 @@
 <!ENTITY hdrViewToolbarAlwaysReplySender.label     "Zawsze wyświetlaj przycisk „odpowiedz”">
 <!ENTITY hdrViewToolbarAlwaysReplySender.accesskey "Z">
 
-<!ENTITY otherActionsOpenConversation1.label     "Otwórz wątek w karcie">
+<!ENTITY otherActionsOpenConversation1.label     "Otwórz wątek w karcie">
 <!ENTITY otherActionsOpenConversation1.accesskey "k">
-<!ENTITY otherActionsOpenInNewWindow1.label      "Otwórz w nowym oknie">
+<!ENTITY otherActionsOpenInNewWindow1.label      "Otwórz w nowym oknie">
 <!ENTITY otherActionsOpenInNewWindow1.accesskey  "e">
-<!ENTITY otherActionsOpenInNewTab1.label         "Otwórz w nowej karcie">
+<!ENTITY otherActionsOpenInNewTab1.label         "Otwórz w nowej karcie">
 <!ENTITY otherActionsOpenInNewTab1.accesskey     "O">
 <!ENTITY markAsReadMenuItem1.label               "Oznacz jako przeczytaną">
 <!ENTITY markAsReadMenuItem1.accesskey           "p">
@@ -105,5 +105,5 @@
 <!ENTITY CopyMessageId.accesskey "u">
 <!ENTITY OpenMessageForMsgId.label  "Wyświetl wiadomość">
 <!ENTITY OpenMessageForMsgId.accesskey "W">
-<!ENTITY OpenBrowserWithMsgId.label "Otwórz wiadomość w przeglądarce">
+<!ENTITY OpenBrowserWithMsgId.label "Otwórz wiadomość w przeglądarce">
 <!ENTITY OpenBrowserWithMsgId.accesskey "t">
