@@ -12,9 +12,9 @@
 <!ENTITY calendar.unifinder.todoitems.label       "Zereginak" >
 <!ENTITY calendar.unifinder.showcompletedtodos.label "Erakutsi osatutako zereginak">
 
-<!ENTITY calendar.today.button.label       "Gaur">
+<!ENTITY calendar.today.button.label          "Gaur">
 <!ENTITY calendar.tomorrow.button.label       "Bihar">
-<!ENTITY calendar.soon.button.label           "Laster">
+
 
 <!ENTITY calendar.events.filter.all.label "Gertaera guztiak">
 <!ENTITY calendar.events.filter.today.label "Gaurko gertaerak">
@@ -233,8 +233,15 @@
 <!ENTITY calendar.context.newserver.accesskey          "b">
 <!ENTITY calendar.context.findcalendar.label           "Bilatu egutegia…" >
 <!ENTITY calendar.context.findcalendar.accesskey       "l" >
-<!ENTITY calendar.context.deleteserver.label           "Ezabatu egutegia">
-<!ENTITY calendar.context.deleteserver.accesskey       "z">
+
+
+<!-- LOCALIZATION NOTE (calendar.context.removeserver.label): Removing the
+      calendar is the general action of removing it, while deleting means to
+      clear the data and unsubscribing means just taking it out of the calendar
+      list. -->
+
+
+
 <!ENTITY calendar.context.synccalendars.label          "Sinkronizatu egutegiak">
 <!ENTITY calendar.context.synccalendars.accesskey      "S">
 <!ENTITY calendar.context.publish.label                "Argitaratu egutegia…">

@@ -3,18 +3,19 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY itemGeneral.label       "Orokorra">
+
 <!ENTITY itemDisplay.label       "Irakurtzea eta bistaratzea">
 <!ENTITY itemUpdate.label        "Eguneraketak">
 <!ENTITY itemNetworking.label    "Sarea eta diskoko lekua">
 <!ENTITY itemCertificates.label  "Ziurtagiriak">
 <!-- General Settings -->
 
-
-<!ENTITY submitTelemetry.label         "Bidali errendimenduaren inguruko datuak">
-<!ENTITY submitTelemetry.accesskey     "e">
-<!ENTITY telemetryInfoLink.label       "Telemetry-ri buruzko informazio gehiago">
 <!ENTITY enableGlodaSearch.label       "Gaitu bilaketa orokorra eta indexatzailea">
 <!ENTITY enableGlodaSearch.accesskey   "i">
+
+
+
+
 
 
 
@@ -37,6 +38,16 @@
 <!ENTITY returnReceiptsInfo.label      "Zehaztu hartu-agiriak nola kudeatzen dituen &brandShortName;(e)k">
 <!ENTITY showReturnReceipts.label      "Hartu-agiriak…">
 <!ENTITY showReturnReceipts.accesskey  "r">
+<!-- Data Choices -->
+
+
+
+
+
+
+
+
+
 <!-- Display and Reading Settings -->
 
 <!ENTITY reading.caption               "Irakurketa">

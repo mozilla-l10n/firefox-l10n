@@ -4,6 +4,7 @@
 <!ENTITY addons.windowTitle                   "Gehigarrien kudeatzailea">
 
 <!ENTITY search.placeholder                   "Bilatu gehigarri guztiak">
+
 <!-- LOCALIZATION NOTE (search.commandKey):
      The search command key should match findOnCmd.commandkey from browser.dtd -->
 <!ENTITY search.commandkey                    "f">
@@ -35,8 +36,6 @@
 <!ENTITY info.plugincheck.label                 "Egiaztatu zure pluginak egunean dauden ikusteko">
 <!ENTITY info.plugincheck.tooltip               "Egiaztatu zure pluginak egunean dauden ikusteko">
 <!-- categories / views -->
-
-<!ENTITY view.search.label                    "Bilaketa">
 <!ENTITY view.discover.label                  "Eskuratu gehigarriak">
 <!ENTITY view.recentUpdates.label             "Azken eguneraketak">
 <!ENTITY view.availableUpdates.label          "Eguneraketak eskura">
@@ -228,3 +227,4 @@ gehigarri on eta ezagunenetako batzuk agertuko dira proba ditzazun.">
 <!ENTITY experiment.info.learnmore.accesskey "A">
 <!ENTITY experiment.info.changetelemetry "Telemetry ezarpenak">
 <!ENTITY experiment.info.changetelemetry.accesskey "T">
+

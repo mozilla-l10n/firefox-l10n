@@ -6,6 +6,7 @@
 <!ENTITY itemAutoComplete.label              "Helbideratzea">
 <!ENTITY itemSpellCheck.label                "Ortografia">
 
+
 <!ENTITY forwardMsg.label                     "Birbidali mezuak:">
 <!ENTITY forwardMsg.accesskey                 "B">
 <!ENTITY inline.label                         "Barnean">

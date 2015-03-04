@@ -150,6 +150,8 @@
 
 <!ENTITY fxaccount_create_account_header2 "Sortu Firefox kontua">
 <!ENTITY fxaccount_create_account_password_length_restriction "Gutxienez 8 karaktere izan behar ditu">
+
+
 <!ENTITY fxaccount_create_account_year_of_birth "Jaiotze-urtea">
 <!-- Localization note: &formatS1; is fxaccount_policy_linktos, &formatS2; is fxaccount_policy_linkprivacy, both hyperlinked. -->
 <!ENTITY fxaccount_create_account_policy_text2 "Jarraitzearekin bat, Firefoxen hodeieko zerbitzuen &formatS1; eta &formatS2; onartzen ditut.">
@@ -191,7 +193,7 @@
 
 <!ENTITY fxaccount_finish_migrating_header "Hasi saioa bertsio-berritzea amaitzeko">
 <!ENTITY fxaccount_finish_migrating_button_label "Amaitu bertsio-berritzea">
-<!ENTITY fxaccount_finish_migrating_description "Bertsio-berritzeak datu asko transferi ditzake. Hobe da WiFi sare batean egotea.">
+
 
 <!ENTITY fxaccount_status_header2 "Firefox kontua">
 <!ENTITY fxaccount_status_signed_in_as "Saioa hasita:">
@@ -207,7 +209,6 @@
 <!ENTITY fxaccount_status_needs_upgrade "&brandShortName; bertsio-berritu behar duzu saioa hasteko.">
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled "&syncBrand.shortName.label; konfiguratuta dago baina ez da ari automatikoki sinkronizatzen. Txandakatu \u0027Auto-sinkronizatu datuak\u0027 aukera Androideko Ezarpenak &gt; Datuen erabilpena atalean.">
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled_v21 "&syncBrand.shortName.label; konfiguratuta dago baina ez da ari automatikoki sinkronizatzen. Txandakatu \u0027Auto-sinkronizatu datuak\u0027 aukera Androideko Ezarpenak &gt; Kontuak atalean.">
-<!ENTITY fxaccount_status_needs_account_enabled "&syncBrand.shortName.label; konfiguratuta dago baina ez da ari automatikoki sinkronizatzen. Sakatu sinkronizatzen hasteko.">
 <!ENTITY fxaccount_status_needs_finish_migrating "Sakatu zure Firefoxeko kontu berrian saioa hasteko.">
 <!ENTITY fxaccount_status_bookmarks "Laster-markak">
 <!ENTITY fxaccount_status_history "Historia">
