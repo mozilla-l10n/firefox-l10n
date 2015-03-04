@@ -1,0 +1,335 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- The following entity is for New Task dialog only -->
+<!-- LOCALIZATON NOTE(event.attendees.notify.label,event.attendees.notifyundisclosed.label)
+   - These two labels are displayed side by side in the event dialog, make sure
+   - they still fit in. -->
+
+
+<!-- Keyboard Shortcuts -->
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- Menubar -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- Toolbar -->
+
+
+
+
+
+
+
+
+
+
+
+<!-- Main page -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- Recurrence dialog -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- LOCALIZATON NOTE
+     Some languages use a preposition when describing dates:
+     Portuguese: 6 de Setembro
+     English: 6 [of] September
+     event.recurrence.pattern.yearly.of.label is "of" in
+     Edit recurrence window -> Recurrence pattern -> Repeat yearly
+-->
+
+<!ENTITY event.recurrence.pattern.yearly.of.label            "" >
+
+<!ENTITY event.recurrence.pattern.yearly.month.1.label       "Schaner" >
+<!ENTITY event.recurrence.pattern.yearly.month.2.label       "Favrer" >
+<!ENTITY event.recurrence.pattern.yearly.month.3.label       "Mars" >
+<!ENTITY event.recurrence.pattern.yearly.month.4.label       "Avrigl" >
+<!ENTITY event.recurrence.pattern.yearly.month.5.label       "Matg" >
+<!ENTITY event.recurrence.pattern.yearly.month.6.label       "Zercladur" >
+<!ENTITY event.recurrence.pattern.yearly.month.7.label       "Fanadur" >
+<!ENTITY event.recurrence.pattern.yearly.month.8.label       "Avust" >
+<!ENTITY event.recurrence.pattern.yearly.month.9.label       "Settember" >
+<!ENTITY event.recurrence.pattern.yearly.month.10.label      "October" >
+<!ENTITY event.recurrence.pattern.yearly.month.11.label      "November" >
+<!ENTITY event.recurrence.pattern.yearly.month.12.label      "December" >
+<!ENTITY event.recurrence.yearly.every.label                 "Mintga">
+<!ENTITY event.recurrence.yearly.first.label                 "L'emprim">
+<!ENTITY event.recurrence.yearly.second.label                "Il segund">
+<!ENTITY event.recurrence.yearly.third.label                 "Il terz">
+<!ENTITY event.recurrence.yearly.fourth.label                "Il quart">
+<!ENTITY event.recurrence.yearly.fifth.label                 "Il tschintgavel">
+<!ENTITY event.recurrence.yearly.last.label                  "L'ultim">
+<!ENTITY event.recurrence.pattern.yearly.week.1.label        "Dumengia" >
+<!ENTITY event.recurrence.pattern.yearly.week.2.label        "Gliendisdi" >
+<!ENTITY event.recurrence.pattern.yearly.week.3.label        "Mardi" >
+<!ENTITY event.recurrence.pattern.yearly.week.4.label        "Mesemna" >
+<!ENTITY event.recurrence.pattern.yearly.week.5.label        "Gievgia" >
+<!ENTITY event.recurrence.pattern.yearly.week.6.label        "Venderdi" >
+<!ENTITY event.recurrence.pattern.yearly.week.7.label        "Sonda" >
+<!ENTITY event.recurrence.pattern.yearly.day.label           "di" >
+<!ENTITY event.recurrence.of.label                           "da" >
+<!ENTITY event.recurrence.pattern.yearly.month2.1.label      "Schaner" >
+<!ENTITY event.recurrence.pattern.yearly.month2.2.label      "Favrer" >
+<!ENTITY event.recurrence.pattern.yearly.month2.3.label      "Mars" >
+<!ENTITY event.recurrence.pattern.yearly.month2.4.label      "Avrigl" >
+<!ENTITY event.recurrence.pattern.yearly.month2.5.label      "Matg" >
+<!ENTITY event.recurrence.pattern.yearly.month2.6.label      "Zercladur" >
+<!ENTITY event.recurrence.pattern.yearly.month2.7.label      "Fanadur" >
+<!ENTITY event.recurrence.pattern.yearly.month2.8.label      "Avust" >
+<!ENTITY event.recurrence.pattern.yearly.month2.9.label      "Settember" >
+<!ENTITY event.recurrence.pattern.yearly.month2.10.label     "October" >
+<!ENTITY event.recurrence.pattern.yearly.month2.11.label     "November" >
+<!ENTITY event.recurrence.pattern.yearly.month2.12.label     "December" >
+
+
+
+
+<!ENTITY event.repeat.until.label                       "Repeter fin" >
+
+<!-- Attendees dialog -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- Timezone dialog -->
+
+<!-- Read-Only dialog -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
