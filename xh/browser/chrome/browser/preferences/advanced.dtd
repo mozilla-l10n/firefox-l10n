@@ -34,8 +34,8 @@
 <!ENTITY healthReportLearnMore.label     "Funda ngaphezulu">
 
 <!ENTITY telemetryDesc.label             "Yabelana ngomsebenzi, usetyenziso, ihadiwe kunye nolungiselelo lwengcombolo emalunga nebhrawuza yakho &vendorShortName; ukusinceda ekwenzeni &brandShortName; ibe ngcono">
-
-
+<!ENTITY enableTelemetryData.label       "Yabelana ngengcombolo eyongezelelweyo (i.e., Telemetry)">
+<!ENTITY enableTelemetryData.accesskey   "T">
 <!ENTITY telemetryLearnMore.label        "Funda ngaphezulu">
 
 <!ENTITY crashReporterDesc.label         "&brandShortName; ingenisa iingxelo zokonakala ukunceda &vendorShortName; ekwenzeni ibhrawuza yakho izinze kwaye ikhuseleke ngakumbi">
