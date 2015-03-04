@@ -12,8 +12,8 @@
 <!ENTITY addMailAccountButton.accesskey "A">
 <!ENTITY addIMAccountButton.label "Adăugare cont de chat…">
 <!ENTITY addIMAccountButton.accesskey "t">
-<!ENTITY addFeedAccountButton.label "Add Feed Account…">
-<!ENTITY addFeedAccountButton.accesskey "F">
+<!ENTITY addFeedAccountButton.label "Adaugă cont pentru fluxuri…">
+<!ENTITY addFeedAccountButton.accesskey "f">
 <!ENTITY addOtherAccountButton.label "Adaugă un alt cont…">
 <!ENTITY addOtherAccountButton.accesskey "o">
 <!ENTITY setDefaultButton.label "Marchează ca implicit">

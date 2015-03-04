@@ -15,7 +15,7 @@
 <!ENTITY manageSubscriptions.label "Gestionare abonamente…"> 
 <!ENTITY manageSubscriptions.accesskey "m">
 
-<!ENTITY feedWindowTitle.label "Feed Account Wizard">
+<!ENTITY feedWindowTitle.label "Asistent de configurare conturi de flux">
 <!-- entities from rss.rdf -->
 
 <!ENTITY feeds.accountName "Bloguri și fluxuri de știri">
