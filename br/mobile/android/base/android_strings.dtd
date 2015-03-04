@@ -214,7 +214,7 @@ size. -->
 <!ENTITY pref_media_autoplay_enabled "Aotre al lenn emgefreek">
 <!ENTITY pref_media_autoplay_enabled_summary "Mestroniañ lenn emgefreek ar videoioù ha ar mediaoù all gant al lec\u0027hiennoù ">
 <!ENTITY pref_zoom_force_enabled "Gweredekaat ar zoum bepred">
-
+<!ENTITY pref_zoom_force_enabled_summary "Bountañ dre zorn a-benn ma vo zoumet war an holl bajennoù ">
 
 <!ENTITY pref_use_master_password "Arverañ ar ger-tremen mestr">
 <!ENTITY pref_sync "Goubred">
@@ -271,7 +271,7 @@ size. -->
      (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
 <!ENTITY datareporting_crashreporter_title_short "Daneveller sac\u0027hadenn">
 <!ENTITY datareporting_wifi_title2 "Gwazerezh spislec\u0027hiañ &vendorShortName;">
-
+<!ENTITY datareporting_wifi_geolocation_summary3 "Roit skoazell da &vendorShortName; da sevel kartenn ar bed ! Roit lec\u0027hiadur arnesadek ho wi-fi hag ho hezougell da wellaat hor gwazerezh douarspislec\u0027hiañ">
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
      actual notification that an update is available. -->
@@ -563,10 +563,10 @@ diouzh Android">
 <!-- Voice search in the awesome bar -->
 
 <!ENTITY voicesearch_prompt "Komzit bremañ">
-
-
-
-
+<!ENTITY voicesearch_failed_title "Klask dre vouezh &brandShortName;">
+<!ENTITY voicesearch_failed_message "Ur gudenn ez eus gant ar c\u0027hlask dre vouezh bremañ. Klaskit diwezhatoc\u0027h, mar plij.">
+<!ENTITY voicesearch_failed_message_recoverable "Digarezit ! N\u0027omp ket evit anavezout ho kerioù. Klaskit diwezhatoc\u0027h, mar plij.">
+<!ENTITY voicesearch_failed_retry "Klask en-dro">
 <!-- Localization note (remote_tabs_last_synced): the variable is replaced by a
      "relative time span string" produced by Android.  This string describes the
      time the tabs were last synced relative to the current time; examples
@@ -576,6 +576,7 @@ diouzh Android">
 
 <!ENTITY remote_tabs_last_synced "Goubredañ diwezhañ : &formatS;">
 <!-- Localization note: Used when the sync has not happend yet, showed in place of a date -->
+<!ENTITY remote_tabs_never_synced "Goubredañ diwezhañ : morse">
 <!-- Find-In-Page strings -->
 <!-- LOCALIZATION NOTE (find_matchcase): This is meant to appear as an icon that changes color
      if match-case is activated. i.e. No more than two letters, one uppercase, one lowercase. -->

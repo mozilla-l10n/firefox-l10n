@@ -16,7 +16,7 @@
 <!ENTITY search_plus_content_description "Ouzhpennañ d\u0027ar varrenn enklask">
 
 <!ENTITY search_pref_title "Arventennoù">
-
+<!ENTITY search_pref_button_content_description "Arventennoù">
 
 <!ENTITY pref_clearHistory_confirmation "Roll istor skarzhet">
 <!ENTITY pref_clearHistory_dialogMessage "Dilemel ar roll istor enklask diwar an trevnad-mañ ?">

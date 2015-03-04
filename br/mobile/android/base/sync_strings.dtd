@@ -150,8 +150,8 @@
 
 <!ENTITY fxaccount_create_account_header2 "Krouiñ ur gont Firefox">
 <!ENTITY fxaccount_create_account_password_length_restriction " Enankit 8 arouezenn da nebeutañ">
-
-
+<!ENTITY fxaccount_create_account_day_of_birth "Deiz">
+<!ENTITY fxaccount_create_account_month_of_birth "Miz">
 <!ENTITY fxaccount_create_account_year_of_birth "Bloaz ar c\u0027hanedigezh">
 <!-- Localization note: &formatS1; is fxaccount_policy_linktos, &formatS2; is fxaccount_policy_linkprivacy, both hyperlinked. -->
 <!ENTITY fxaccount_create_account_policy_text2 "En ur genderc\u0027hel ez asantan da &formatS1; ha &formatS2; eus gwazerezhioù evit koumoul Firefox.">
@@ -193,7 +193,7 @@
 
 <!ENTITY fxaccount_finish_migrating_header "Kennaskit evit echuiñ an hizivadenn">
 <!ENTITY fxaccount_finish_migrating_button_label "Echuiñ an hizivadenn">
-
+<!ENTITY fxaccount_finish_migrating_description "Ur bern roadennoù a c\u0027hell bezañ implijet gant an hizivadenn. Gwelloc\u0027h eo bezañ kennasket war ur rouedad WiFi.">
 
 <!ENTITY fxaccount_status_header2 "Kont Firefox">
 <!ENTITY fxaccount_status_signed_in_as "Kennasket evel">
