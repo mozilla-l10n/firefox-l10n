@@ -20,8 +20,8 @@
 <!-- LOCALIZATION NOTE (dnsNotFound.longDesc4) This string contains markup including widgets for searching
      or enabling wifi connections. The text inside tags should be localized.  Do not change the ids. -->
 <!ENTITY dnsNotFound.longDesc4 "<ul> 
-<li>Verifică adresa de erori de tastare cum ar fi 
-<strong>ww</strong>.exemplu.ro în loc de 
+<li>Verifică adresa de erori de tastare cum ar 
+fi <strong>ww</strong>.exemplu.ro în loc de 
 <strong>www</strong>.exemplu.ro</li> 
 <div id='searchbox'> 
 <input id='searchtext' type='search'></input> 
