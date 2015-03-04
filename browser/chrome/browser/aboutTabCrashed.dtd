@@ -2,6 +2,8 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY tabCrashed.header "Slæmu fréttirnar fyrst: Þessi flipi hrundi">
+<!ENTITY tabCrashed.message "En góðu fréttirnar eru: Þú getur lokað þessum flipa, og endurheimt hann eða endurheimt alla flipa sem hrundu.">
 
 
 

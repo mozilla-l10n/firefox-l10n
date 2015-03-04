@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY aboutPrivateBrowsing.title            "Þú ert í einkavöfrun">
+<!ENTITY aboutPrivateBrowsing.title            "Þú ert í huliðsstillingu">
 <!ENTITY aboutPrivateBrowsing.title.normal     "Opna huliðsglugga?">
 
 <!ENTITY aboutPrivateBrowsing.subtitle         "&brandShortName; mun ekki muna ferla fyrir þennan glugga.">
