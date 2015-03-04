@@ -12,8 +12,8 @@
 <!ENTITY pref.calendar.view.multiweekview.caption "Fleirvekevising">
 <!ENTITY pref.calendar.view.workweek.caption "Arbeidsveke">
 
-<!ENTITY pref.weekstarts.label "Første dag i veka:">
-<!ENTITY pref.weekstarts.accesskey "ø">
+<!ENTITY pref.weekstarts.label "Fyrste dag i veka:">
+<!ENTITY pref.weekstarts.accesskey "y">
 <!ENTITY pref.daysoff.label "Dagar i arbeidsveka:">
 
 <!ENTITY pref.calendar.view.daystart.label "Dagen startar klokka:">

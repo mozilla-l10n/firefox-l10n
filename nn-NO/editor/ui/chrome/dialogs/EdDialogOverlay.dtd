@@ -11,7 +11,7 @@
 <!ENTITY chooseFileLinkButton.accessKey "e">
 <!ENTITY makeUrlRelative.label "URL-en er relativ til sideadressa">
 <!ENTITY makeUrlRelative.accessKey "r">
-<!ENTITY makeUrlRelative.tooltip "Byt mellom relativ og absolutt URL. Først må du lagra sida for å endra dette.">
+<!ENTITY makeUrlRelative.tooltip "Byt mellom relativ og absolutt URL. Fyrst må du lagra sida for å endra dette.">
 
 <!-- Shared by Link and Image dialogs -->
 <!ENTITY LinkURLEditField.label "Skriv inn ei nettsideadresse, namnet til ei lokal fil, eller vel eit namngjeve anker eller overskrift frå sprettopplista:">
