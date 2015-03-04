@@ -10,9 +10,6 @@
 <!ENTITY certmgr.tab.ca                       "अधिकारीहरु">
 <!ENTITY certmgr.tab.orphan2                  "अन्य">
 
-<!ENTITY certmgr.ca.builtins                  "CAsमा बनेको">
-<!ENTITY certmgr.ca.mycas                     "तपाइँले प्रबन्ध गर्नुभएको CAहरु">
-
 <!ENTITY certmgr.mine                         "यी संस्थाहरुबाट तपाइँलाई पहिचान गर्ने प्रमाणपत्रहरु तपाइँसँग छन्:">
 
 
@@ -35,7 +32,6 @@
 
 <!ENTITY certmgr.certdetail.sha1fingerprint   "SHA1 औंठाछाप">
 
-<!ENTITY certmgr.editcert.title               "सुरक्षा प्रमाणपत्र सेटिङ्गहरु सम्पादन गर्नुहोस्">
 <!ENTITY certmgr.editcacert.title             "CA प्रमाणपत्र विश्वास ढाँचाहरू सम्पादन गर्नुहोस्">
 <!ENTITY certmgr.editcert.edittrust           "विश्वासयोग्य सेटिङ्गहरु सम्पादन गर्नुहोस्:">
 <!ENTITY certmgr.editcert.trustssl            "This certificate can identify web sites.">
@@ -47,11 +43,6 @@
 
 
 <!ENTITY certmgr.deletecert.title             "प्रमाणपत्र मेट्नुहोस्">
-<!ENTITY certmgr.deletecert.beforename        "तपाईँले यो प्रमाणपत्र मेट्नका लागि आग्रह गर्नुभएको छ:">
-<!ENTITY certmgr.deletecert.aftername         "के तपाईँ यो प्रमाणपत्र मेट्ने कुरामा दृढ हुनुहुन्छ?">
-<!ENTITY certmgr.deleteusercert.title         "तपाईँको प्रमाणपत्र मेट्नुहोस्">
-<!ENTITY certmgr.deleteusercert.beforename    "तपाईँले प्रमाणपत्रलाई मेट्ने आग्रह गर्नुभएको छ:">
-<!ENTITY certmgr.deleteusercert.aftername     "एकचोटि तपाईँले यो प्रमाणपत्र मेट्नुभयो भने, तपाईँले यसमा गोप्य बनाइएका इ-मेलहरु पढ्न सक्नुहुन्न।">
 
 <!ENTITY certmgr.certname                     "प्रमाणपत्र नाम">
 
@@ -69,8 +60,6 @@
 
 
 
-<!ENTITY certmgr.add.label                    "थप्नुहोस्">
-<!ENTITY certmgr.add.accesskey                "A">
 
 
 

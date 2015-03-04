@@ -24,3 +24,5 @@
 <!ENTITY spellNoSuggestions.label "(कुनै हिज्जे सुझाबहरू छैन)">
 <!ENTITY spellDictionaries.label "भाषाहरू">
 <!ENTITY spellDictionaries.accesskey "L">
+
+<!ENTITY searchTextBox.clear.label "खाली गर्नुहोस्">

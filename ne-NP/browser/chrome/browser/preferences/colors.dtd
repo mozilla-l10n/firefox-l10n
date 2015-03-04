@@ -6,8 +6,11 @@
 <!ENTITY  window.width                    "38em">
 <!ENTITY  window.macWidth                 "41em">
 
-<!ENTITY  allowPagesToUse.label           "&amp; मेरो माथिका सेटिंग को सट्टा पेजहरुलाई आफ्नै रंग छान्न दिनुहोस ">
-<!ENTITY  allowPagesToUse.accesskey       "A">
+
+
+<!ENTITY  overridePageColors.always.label "सधैँ">
+
+<!ENTITY  overridePageColors.never.label  "कहिले पनि होइन">
 
 <!ENTITY  color                           "पाठ र पृष्ठभूमि">
 <!ENTITY  textColor.label                 "पाठ:">

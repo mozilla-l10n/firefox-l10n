@@ -8,6 +8,7 @@
 
 <!ENTITY aboutTelemetry.telemetryDisabled "  टेलीमेटरी <span> अक्षम पारिएको </ span> छ।">
 
+
 <!ENTITY aboutTelemetry.slowSqlSection "  ढिलो SQL विवरणहरु">
 
 <!ENTITY aboutTelemetry.chromeHangsSection "  ब्राउजर ह्याङ्ग हुन्छ">
@@ -15,6 +16,7 @@
 <!ENTITY aboutTelemetry.threadHangStatsSection "  थ्रेड ह्याङ्ग हुन्छ">
 
 <!ENTITY aboutTelemetry.histogramsSection "  आयतचित्रहरु">
+
 
 <!ENTITY aboutTelemetry.simpleMeasurementsSection "  सामान्य नापहरु">
 

@@ -15,6 +15,7 @@
 
 <!ENTITY  paneGeneral.title       "सामान्य">
 <!ENTITY  paneTabs.title          "ट्याबहरू">
+
 <!ENTITY  paneContent.title       "सामग्री">
 <!ENTITY  paneApplications.title  "एप्लिकेसनहरु">
 <!ENTITY  panePrivacy.title       "गोपनीयता">
@@ -23,7 +24,5 @@
 <!-- LOCALIZATION NOTE (paneSync.title): This should match syncBrand.shortName.label in ../syncBrand.dtd -->
 
 <!ENTITY  paneSync.title          "सिङ्क">
-<!ENTITY  buttonForward.tooltip   "एक पृष्ठ अगाडि जानुहोस्">
-<!ENTITY  buttonBack.tooltip      "एक पृष्ठ पछाडि जानुहोस्">
 
 <!ENTITY  helpButton.label        "मद्दत">

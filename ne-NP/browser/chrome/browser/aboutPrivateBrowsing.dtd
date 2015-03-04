@@ -12,7 +12,3 @@
 
 <!ENTITY privatebrowsingpage.openPrivateWindow.label "निजि संझ्याल खोल्नुहोस्">
 <!ENTITY privatebrowsingpage.openPrivateWindow.accesskey "P">
-<!-- TO BE REMOVED POST-AUSTRALIS --> 
-<!-- LOCALIZATION NOTE (privatebrowsingpage.howToStart3): please leave &basePBMenu.label; intact in the translation -->
-
-<!ENTITY privatebrowsingpage.howToStart3               "निजी ब्राउजिङ सुरु गर्न तपाई &basePBMenu.label; &gt; &newPrivateWindow.label; पनि छान्न सक्नुहुन्छ ।">
