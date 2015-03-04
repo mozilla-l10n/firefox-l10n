@@ -145,8 +145,8 @@
 <!ENTITY messagePaneVertical.accesskey "W">
 <!ENTITY showFolderPaneCmd.label "Zarědnikowe pólo">
 <!ENTITY showFolderPaneCmd.accesskey "Z">
-
-
+<!ENTITY showFolderPaneColsCmd.label "Słupy wobcerka zarědnikow">
+<!ENTITY showFolderPaneColsCmd.accesskey "z">
 <!ENTITY showMessageCmd.label "Powěsćowe pólo">
 <!ENTITY showMessageCmd.accesskey "P">
 
@@ -596,8 +596,8 @@
 <!-- Folder Pane -->
 
 <!ENTITY folderNameColumn.label "Mě">
-
-
+<!ENTITY folderUnreadColumn.label "Njepśecytany">
+<!ENTITY folderTotalColumn.label "Dogromady">
 <!ENTITY folderSizeColumn.label "Wjelikosć">
 <!-- Folder Pane Context Menu -->
 
@@ -666,8 +666,8 @@
 <!ENTITY statusColumn.label "Status">
 <!ENTITY sizeColumn.label "Wjelikosć">
 <!ENTITY junkStatusColumn.label "Cajkowy status">
-
-
+<!ENTITY unreadColumn.label "Njepśecytany">
+<!ENTITY totalColumn.label "Dogromady">
 <!ENTITY readColumn.label "Pśecytany">
 <!ENTITY receivedColumn.label "Dostany">
 <!ENTITY starredColumn.label "Z gwězdku">

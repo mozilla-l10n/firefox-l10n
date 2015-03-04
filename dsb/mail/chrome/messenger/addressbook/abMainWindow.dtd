@@ -3,8 +3,8 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY addressbookWindow.title                        "Adresnik">
-
-
+<!ENTITY blankResultsPaneMessage.label                  "Toś ten adresnik pokazujo kontakty jano pó pytanju">
+<!ENTITY localResultsOnlyMessage.label                  "Kontakty z dalokich adresnikow se njepokazuja, až njepytaśo">
 <!-- File Menu -->
 <!ENTITY fileMenu.label                                 "Dataja">
 <!ENTITY fileMenu.accesskey                             "D">
@@ -161,6 +161,8 @@ because displayed names don't have the comma in between. -->
 <!ENTITY searchItem.title "Spěšne pytanje">
 <!-- Results Pane -->
 
+<!ENTITY Addrbook.label                                 "Adresnik">
+<!ENTITY Addrbook.accesskey                             "A">
 <!ENTITY GeneratedName.label                            "Mě">
 <!ENTITY GeneratedName.accesskey                        "M">
 <!ENTITY PrimaryEmail.label                             "E-mail">

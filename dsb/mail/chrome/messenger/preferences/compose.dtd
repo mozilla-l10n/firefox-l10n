@@ -6,6 +6,7 @@
 <!ENTITY itemAutoComplete.label              "Adresěrowanje">
 <!ENTITY itemSpellCheck.label                "Pšawopis">
 
+<!ENTITY dialogCompose.title                 "Pisanje">
 
 <!ENTITY forwardMsg.label                     "Powěsći dalej pósrědniś:">
 <!ENTITY forwardMsg.accesskey                 "d">

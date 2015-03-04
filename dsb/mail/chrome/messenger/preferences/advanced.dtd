@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY itemGeneral.label       "Powškny">
-
+<!ENTITY dataChoicesTab.label    "Datowy wuběrk">
 <!ENTITY itemDisplay.label       "Cytanje a zwobraznjenje">
 <!ENTITY itemUpdate.label        "Aktualizacija">
 <!ENTITY itemNetworking.label    "Seś a platowy rum">
@@ -14,10 +14,10 @@
 <!ENTITY enableGlodaSearch.accesskey   "G">
 <!ENTITY allowHWAccel.label            "Hardwarowe póspěšenje wužywaś, jolic jo k dispoziciji">
 <!ENTITY allowHWAccel.accesskey        "h">
-
-
-
-
+<!ENTITY storeType.label               "Sładowański typ powěsćow za nowe konta:">
+<!ENTITY storeType.accesskey           "t">
+<!ENTITY mboxStore.label               "Jadna wjelika dataja (mbox)">
+<!ENTITY maildirStore.label            "Dataja na powěsć (maildir)">
 
 <!ENTITY scrolling.label               "Pśesuwanje">
 <!ENTITY useAutoScroll.label           "Awtomatiske pśesuwanje wužywaś">
@@ -40,14 +40,17 @@
 <!ENTITY showReturnReceipts.accesskey  "t">
 <!-- Data Choices -->
 
+<!ENTITY telemetrySection.label          "Telemetrija">
+<!ENTITY telemetryDesc.label             "Źěli wugbaśe, wužyśe, hardwaru a pśiměrjeńske daty wó wašom e-mailowym klienśe z &vendorShortName;, aby nam pomagała, &brandShortName; pólěpšyś">
+<!ENTITY enableTelemetry.label           "Telemetriju zmóžniś">
+<!ENTITY enableTelemetry.accesskey       "T">
+<!ENTITY telemetryLearnMore.label        "Dalšne informacije">
 
-
-
-
-
-
-
-
+<!ENTITY crashReporterSection.label      "Rozpšawjak wó wowalenjach">
+<!ENTITY crashReporterDesc.label         "&brandShortName; sćelo rozpšawy wó wowalenjach, aby&vendorShortName; pomagał, waš e-mailowy klient stabilnjejšy a wěsćejšy cyniś.">
+<!ENTITY enableCrashReporter.label       "Rozpšawjak wo wowalenjach zmóžniś">
+<!ENTITY enableCrashReporter.accesskey   "R">
+<!ENTITY crashReporterLearnMore.label    "Dalšne informacije">
 <!-- Display and Reading Settings -->
 
 <!ENTITY reading.caption               "Cytanje">

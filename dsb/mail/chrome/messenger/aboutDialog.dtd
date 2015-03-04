@@ -23,19 +23,25 @@
 <!ENTITY community.exp.start        "">
 <!-- LOCALIZATION NOTE (community.exp.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
 <!ENTITY community.exp.mozillaLink  "&vendorShortName;">
-
+<!ENTITY community.exp.middle       " jo ">
 <!-- LOCALIZATION NOTE (community.exp.creditslink): This is a link title that links to about:credits. -->
-
+<!ENTITY community.exp.creditsLink  "globalne zgromaźeństwo,">
+<!ENTITY community.exp.end          "kótarež gromaźe źěła, aby web wótwórjony, zjawny a za wšych pśistupny wobchowało.">
 
 <!ENTITY community.start2           "&brandShortName; jo se wuwił wót ">
 <!-- LOCALIZATION NOTE (community.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
+<!ENTITY community.mozillaLink      "&vendorShortName;">
 <!ENTITY community.middle2          ", ">
 <!-- LOCALIZATION NOTE (community.creditsLink): This is a link title that links to about:credits. -->
+<!ENTITY community.creditsLink      "globalne zgromaźeństwo,">
+<!ENTITY community.end3             "kótarež gromaźe źěła, aby web wótwórjony, zjawny a za wšych pśistupny wobchowało.">
 
-
+<!ENTITY helpus.start               "Cośo pomagaś? ">
 <!-- LOCALIZATION NOTE (helpus.donateLink): This is a link title that links to the thunderbird donation page -->
-
+<!ENTITY helpus.donateLink          "Pósćiś">
+<!ENTITY helpus.middle              " abo ">
 <!-- LOCALIZATION NOTE (helpus.getInvolvedLink): This is a link title that links to http://www.mozilla.org/contribute/. -->
+<!ENTITY helpus.getInvolvedLink     "cyńśo sobu!">
 <!ENTITY helpus.end                 "">
 <!-- LOCALIZATION NOTE (bottomLinks.license): This is a link title that links to about:license. -->
 
@@ -54,6 +60,7 @@
 <!-- LOCALIZATION NOTE (update.adminDisabled): try to make the localized text short (see bug 596813 for screenshots). -->
 <!ENTITY update.adminDisabled       "Aktualizacije su se wót twójogo administratora znjemóžnili">
 <!-- LOCALIZATION NOTE (update.otherInstanceHandlingUpdates): try to make the localized text short -->
+<!ENTITY update.otherInstanceHandlingUpdates "&brandShortName; aktualizěrujo se pśez drugu instancu">
 <!-- LOCALIZATION NOTE (update.failed.start,update.failed.linkText,update.failed.end):
      update.failed.start, update.failed.linkText, and update.failed.end all go into
      one line with linkText being wrapped in an anchor that links to a site to download
