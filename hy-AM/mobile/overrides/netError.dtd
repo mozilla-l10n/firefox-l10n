@@ -25,7 +25,7 @@
 <strong>www</strong>.example.com-ի փոխարեն</li> 
 <div id='searchbox'> 
 <input id='searchtext' type='search'></input> 
-<button id='searchbutton'>Փնտրել</button> 
+<button id='searchbutton'>Որոնում</button> 
 </div> 
 <li>Եթե որևէ էջ չի բացվում, ապա ստուգեք սարքի տվյալները կամ Wi-Fi կապը: 
 <button id='wifi'>Միացնել Wi-Fi-ը</button> 
@@ -50,7 +50,7 @@
 <strong>http://www.example.com/</strong></li> 
 <div id='searchbox'> 
 <input id='searchtext' type='search'></input> 
-<button id='searchbutton'>Փնտրել</button> 
+<button id='searchbutton'>Որոնում</button> 
 </div> 
 <li>Համոզվեք, որ օգտագործել եք հենց այս գրանշանը՝ (օր.՝ 
 <strong>/</strong>):</li> 
