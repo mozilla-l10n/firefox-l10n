@@ -6,7 +6,8 @@
 <!ENTITY  no_space_to_start_error "N\u0027eus ket plas a-walc\u0027h war ar gantenn evit loc\u0027hañ &brandShortName;.">
 <!ENTITY  error_loading_file "Degouezhet ez eus bet ur fazi e-pad ma oa o klask pellgargañ restroù azgoulennet da loc\u0027hañ &brandShortName;">
 
-
+<!ENTITY  onboard_start_message2 "Donemat e &brandShortName;">
+<!ENTITY  onboard_start_subtext2 "Muioc\u0027h a geweriusterioù evit ho puhez prevez ha muioc\u0027h a zoareoù da personelaat eget biskoazh.">
 <!ENTITY  onboard_start_button_account "Kennaskañ ouzh &brandShortName;">
 <!ENTITY  onboard_start_button_browser "Krog da verdeiñ">
 <!-- Localization note: These are used as the titles of different pages on the home screen.
@@ -111,7 +112,7 @@
 
 <!ENTITY overlay_share_send_tab_btn_label "Kas d\u0027un drobarzhell all">
 <!ENTITY overlay_share_no_url "Ere ebet bet kavet evit ar rannadur-mañ.">
-
+<!ENTITY overlay_share_retry "Klask en-dro">
 <!ENTITY overlay_share_select_device "Diuzañ un drobarzhell">
 
 <!ENTITY pref_category_search3 "Klask">
@@ -212,7 +213,7 @@ size. -->
 
 <!ENTITY pref_media_autoplay_enabled "Aotre al lenn emgefreek">
 <!ENTITY pref_media_autoplay_enabled_summary "Mestroniañ lenn emgefreek ar videoioù ha ar mediaoù all gant al lec\u0027hiennoù ">
-
+<!ENTITY pref_zoom_force_enabled "Gweredekaat ar zoum bepred">
 
 
 <!ENTITY pref_use_master_password "Arverañ ar ger-tremen mestr">
@@ -560,6 +561,8 @@ diouzh Android">
 <!ENTITY actionbar_menu "Lañser">
 <!ENTITY actionbar_done "Graet">
 <!-- Voice search in the awesome bar -->
+
+<!ENTITY voicesearch_prompt "Komzit bremañ">
 
 
 
