@@ -420,13 +420,13 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      These two strings are used to build the header above the list of one-click
      search providers:  "Search for <used typed keywords> with:" -->
 
-<!ENTITY searchFor.label              "Փնտրել՝ ">
+<!ENTITY searchFor.label              "Որոնել՝ ">
 <!ENTITY searchWith.label             " պար. է՝">
 <!-- LOCALIZATION NOTE (searchWithHeader.label):
      The wording of this string should be as close as possible to
      searchFor.label and searchWith.label. This string will be used instead of
      them when the user has not typed any keyword. -->
-<!ENTITY searchWithHeader.label       "Փնտրել՝">
+<!ENTITY searchWithHeader.label       "Որոնել՝">
 <!-- LOCALIZATION NOTE (changeSearchSettings.button):
      This string won't wrap, so if the translated string is longer,
      consider translating it as if it said only "Search Settings". -->
@@ -645,11 +645,11 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY bidiSwitchTextDirectionItem.accesskey    "ո">
 <!ENTITY bidiSwitchTextDirectionItem.commandkey   "X">
 
-<!ENTITY findOnCmd.label     "Փնտրել էջում…">
-<!ENTITY findOnCmd.accesskey "Փ">
+<!ENTITY findOnCmd.label     "Որոնում էջում…">
+<!ENTITY findOnCmd.accesskey "Ո">
 <!ENTITY findOnCmd.commandkey "f">
-<!ENTITY findAgainCmd.label  "Կրկին Փնտրել">
-<!ENTITY findAgainCmd.accesskey "Փ">
+<!ENTITY findAgainCmd.label  "Կրկին Որոնել">
+<!ENTITY findAgainCmd.accesskey "Ո">
 <!ENTITY findAgainCmd.commandkey "g">
 <!ENTITY findAgainCmd.commandkey2 "VK_F3">
 <!ENTITY findSelectionCmd.commandkey "e">

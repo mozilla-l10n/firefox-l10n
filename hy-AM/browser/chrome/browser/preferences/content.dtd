@@ -16,8 +16,8 @@
 <!ENTITY  defaultSize.label           "Չափը.">
 <!ENTITY  defaultSize.accesskey       "Չ">
 
-<!ENTITY  advancedFonts.label         "Խորացված…">
-<!ENTITY  advancedFonts.accesskey     "Խ">
+<!ENTITY  advancedFonts.label         "Լրացուցիչ…">
+<!ENTITY  advancedFonts.accesskey     "Լ">
 
 <!ENTITY  colors.label                "Գույներ…">
 <!ENTITY  colors.accesskey            "Գ">
