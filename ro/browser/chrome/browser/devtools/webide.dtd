@@ -8,25 +8,26 @@
 <!ENTITY projectMenu_accesskey "P">
 <!ENTITY projectMenu_newApp_label "Aplicație nouă…">
 <!ENTITY projectMenu_newApp_accesskey "N">
-
+<!ENTITY projectMenu_importPackagedApp_label "Open Packaged App…">
 <!ENTITY projectMenu_importPackagedApp_accesskey "P">
-
+<!ENTITY projectMenu_importHostedApp_label "Open Hosted App…">
 <!ENTITY projectMenu_importHostedApp_accesskey "H">
 <!ENTITY projectMenu_selectApp_label "Deschide aplicația…">
 <!ENTITY projectMenu_selectApp_accesskey "O">
-
+<!ENTITY projectMenu_play_label "Instalare și executare">
 <!ENTITY projectMenu_play_accesskey "I">
-
+<!ENTITY projectMenu_stop_label "Oprire aplicație">
 <!ENTITY projectMenu_stop_accesskey "S">
-
+<!ENTITY projectMenu_debug_label "Debug App">
 <!ENTITY projectMenu_debug_accesskey "D">
 <!ENTITY projectMenu_remove_label "Elimină proiect">
 <!ENTITY projectMenu_remove_accesskey "R">
 <!ENTITY projectMenu_showPrefs_label "Preferințe">
 <!ENTITY projectMenu_showPrefs_accesskey "e">
-
+<!ENTITY projectMenu_manageComponents_label "Manage Extra Components">
 <!ENTITY projectMenu_manageComponents_accesskey "M">
 
+<!ENTITY runtimeMenu_label "Runtime">
 <!ENTITY runtimeMenu_accesskey "R">
 <!ENTITY runtimeMenu_disconnect_label "Deconectare">
 <!ENTITY runtimeMenu_disconnect_accesskey "D">
@@ -34,7 +35,7 @@
 <!ENTITY runtimeMenu_showPermissionTable_accesskey "P">
 <!ENTITY runtimeMenu_takeScreenshot_label "Captură de ecran">
 <!ENTITY runtimeMenu_takeScreenshot_accesskey "S">
-<!ENTITY runtimeMenu_showDetails_label "Informații despre timpul de execuție">
+<!ENTITY runtimeMenu_showDetails_label "Informații despre runtime">
 <!ENTITY runtimeMenu_showDetails_accesskey "E">
 <!ENTITY runtimeMenu_showMonitor_label "Monitorizare">
 <!ENTITY runtimeMenu_showMonitor_accesskey "M">
@@ -55,7 +56,7 @@
 <!ENTITY viewMenu_resetzoom_accesskey "R">
 
 <!ENTITY projectButton_label "Deschide aplicația">
-
+<!ENTITY runtimeButton_label "Selectează runtime-ul">
 <!-- We try to repicate Firefox' bindings: -->
 <!-- quit app -->
 
@@ -71,18 +72,18 @@
 <!-- zoom -->
 <!ENTITY key_zoomin "+">
 <!ENTITY key_zoomin2 "=">
-
-
+<!ENTITY key_zoomout "-">
+<!ENTITY key_resetzoom "0">
 
 <!ENTITY projectPanel_myProjects "Proiectele mele">
-
+<!ENTITY projectPanel_runtimeApps "Aplicații runtime">
 <!ENTITY projectPanel_tabs "File">
 <!ENTITY runtimePanel_usb "Dispozitive USB">
 <!ENTITY runtimePanel_wifi "Dispozitive Wi-Fi">
 <!ENTITY runtimePanel_simulator "Simulatoare">
 <!ENTITY runtimePanel_other "Altceva">
 <!ENTITY runtimePanel_installsimulator "Instalare simulator">
-
+<!ENTITY runtimePanel_noadbhelper "Install ADB Helper">
 <!ENTITY runtimePanel_nousbdevice "Nu îți poți vedea dispozitivul?">
 <!-- Lense -->
 
@@ -91,9 +92,9 @@
 <!ENTITY details_error_header "erori">
 <!ENTITY details_description "Descriere">
 <!ENTITY details_location "Adresă">
-
+<!ENTITY details_manifestURL "Identificator aplicație">
 <!ENTITY details_removeProject_button "Elimină proiectul">
-
+<!ENTITY details_showPrepackageLog_button "Show Pre-package Log">
 <!-- New App -->
 
 <!ENTITY newAppWindowTitle "Aplicație nouă">
@@ -106,6 +107,8 @@
 
 <!ENTITY deck_close "Închidere">
 <!-- Addons -->
+
+<!ENTITY addons_title "Componente suplimentare">
 <!ENTITY addons_aboutaddons "Deschide gestionarul de suplimente">
 <!-- Prefs -->
 
@@ -113,18 +116,18 @@
 <!ENTITY prefs_editor_title "Editor">
 <!ENTITY prefs_general_title "General">
 <!ENTITY prefs_restore "Restaurează setările implicite">
-
-
-
+<!ENTITY prefs_manage_components "Manage Extra Components">
+<!ENTITY prefs_options_autoconnectruntime "Reconnect to previous runtime">
+<!ENTITY prefs_options_autoconnectruntime_tooltip "Reconnect to previous runtime when WebIDE starts">
 <!ENTITY prefs_options_rememberlastproject "Ține minte ultimul proiect">
-
+<!ENTITY prefs_options_rememberlastproject_tooltip "Restore previous project when WebIDE starts">
 <!ENTITY prefs_options_templatesurl "URL cu șabloane">
 <!ENTITY prefs_options_templatesurl_tooltip "Indexul șabloanelor disponibile">
 <!ENTITY prefs_options_showeditor "Afișează editorul">
 <!ENTITY prefs_options_showeditor_tooltip "Afișează editorul intern">
 <!ENTITY prefs_options_tabsize "Mărimea filei">
-
-
+<!ENTITY prefs_options_expandtab "Soft tabs">
+<!ENTITY prefs_options_expandtab_tooltip "Use spaces instead of the tab character">
 <!ENTITY prefs_options_detectindentation "Autoindentare">
 <!ENTITY prefs_options_detectindentation_tooltip "Ghicește indentarea bazată pe conținutul sursei">
 <!ENTITY prefs_options_autocomplete "Completare automată">
@@ -141,9 +144,9 @@
 
 <!ENTITY runtimedetails_title "Informații despre timpul de execuție">
 <!ENTITY runtimedetails_adbIsRoot "ADB este root: ">
-
-
-
+<!ENTITY runtimedetails_summonADBRoot "dispozitiv root">
+<!ENTITY runtimedetails_ADBRootWarning "(requires unlocked bootloader)">
+<!ENTITY runtimedetails_unrestrictedPrivileges "Unrestricted DevTools privileges: ">
 <!ENTITY runtimedetails_requestPrivileges "solicită privilegii mai mari">
 <!ENTITY runtimedetails_privilegesWarning "(Va reporni dispozitivul. Necesită acces root.)">
 <!-- Device Preferences and Settings -->
@@ -161,10 +164,12 @@
 <!ENTITY devicepreference_newtext "Valoare preferință">
 <!ENTITY devicepreference_addnew "Adăugați preferință nouă">
 <!-- Device Settings -->
+
+<!ENTITY devicesetting_title "Setări dispozitiv">
 <!ENTITY devicesetting_search "Configurări pentru căutare">
-
-
-
+<!ENTITY devicesetting_newname "Nume nou pentru setare">
+<!ENTITY devicesetting_newtext "Valoare setare">
+<!ENTITY devicesetting_addnew "Adaugă setare nouă">
 <!-- Monitor -->
 
 <!ENTITY monitor_title "Monitorizare">
@@ -180,8 +185,13 @@
 <!ENTITY wifi_auth_scan_request "Punctul final la care vă conectați are nevoie de mai multe informații pentru autentificarea la această conexiune.  Vă rugăm să scanați codul QR de mai jos prin intermediul solicitării de pe celălalt dispozitiv.">
 <!-- LOCALIZATION NOTE (wifi_auth_no_scanner): Link text to assist users with
      devices that can't scan a QR code. -->
+<!ENTITY wifi_auth_no_scanner "No QR scanner prompt?">
 <!-- LOCALIZATION NOTE (wifi_auth_yes_scanner): Link text to assist users with
      devices that can scan a QR code. -->
+<!ENTITY wifi_auth_yes_scanner "Have a QR scanner prompt?">
 <!-- LOCALIZATION NOTE (wifi_auth_token_request): Instructions requesting the
      user to transfer authentication info by transferring a token. -->
+<!ENTITY wifi_auth_token_request "If your other device asks for a token instead of scanning a QR code, please copy the value below to the other device:">
 <!-- Logs panel -->
+
+<!ENTITY logs_title "Pre-packaging Command Logs">
