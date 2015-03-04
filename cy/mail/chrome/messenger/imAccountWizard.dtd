@@ -5,7 +5,7 @@
 <!ENTITY windowTitle.label            "Dewin Cyfrif Sgwrsio">
 
 <!ENTITY accountProtocolTitle.label   "Rhwydwaith sgwrsio">
-<!ENTITY accountProtocolInfo.label    "Dewiswch rhwydwaith eich cyfrif sgwrsio.">
+<!ENTITY accountProtocolInfo.label    "Dewiswch rwydwaith eich cyfrif sgwrsio.">
 <!ENTITY accountProtocolField.label   "Rhwydwaith:">
 <!ENTITY accountProtocolGetMore.label "Estyn rhagor…">
 

@@ -119,7 +119,7 @@
 <!ENTITY Notes.accesskey                "N">
 
 <!ENTITY Chat.tab                       "Sgwrsio">
-<!ENTITY Chat.accesskey                 "a">
+<!ENTITY Chat.accesskey                 "r">
 <!ENTITY Gtalk.label                    "Google Talk:">
 <!ENTITY Gtalk.accesskey                "G">
 <!ENTITY AIM.label                      "AIM:">
