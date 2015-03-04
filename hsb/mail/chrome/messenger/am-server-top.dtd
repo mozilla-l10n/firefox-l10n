@@ -84,7 +84,7 @@
 
 <!ENTITY accountTitle.label "Kontowe nastajenja">
 <!ENTITY accountSettingsDesc.label "To je wosebite konto. Z nim žane identity zwjazane njejsu.">
-
-
-
-
+<!ENTITY storeType.label "Składowanski typ powěsće:">
+<!ENTITY storeType.accesskey "t">
+<!ENTITY mboxStore.label "Jedna wulka dataja (mbox)">
+<!ENTITY maildirStore.label "Dataja na powěsć (maildir)">

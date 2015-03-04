@@ -16,8 +16,8 @@
 <!ENTITY allowHWAccel.accesskey        "h">
 
 
-
-
+<!ENTITY mboxStore.label               "Jedna wulka dataja (mbox)">
+<!ENTITY maildirStore.label            "Dataja na powěsć (maildir)">
 
 <!ENTITY scrolling.label               "Přesuwanje">
 <!ENTITY useAutoScroll.label           "Awtomatiske přesuwanje wužiwać">

@@ -25,8 +25,8 @@
 <!ENTITY contextAfterCls.label "Filter po čaporowej klasifikaciji">
 <!ENTITY contextOutgoing.label "Po słanju">
 <!ENTITY contextOutgoing.accesskey "s">
-
-
+<!ENTITY contextArchive.label "Archiwowanje">
+<!ENTITY contextArchive.accesskey "A">
 
 <!ENTITY filterActionDesc.label "Tute akcije wuwjesć:">
 <!ENTITY filterActionDesc.accesskey "T">
