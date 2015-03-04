@@ -8,7 +8,7 @@
 <!ENTITY getUserMediaDialog.title                   "Partajare media">
 <!ENTITY getUserMediaDialog.button.accept.label     "Partajare">
 <!ENTITY getUserMediaDialog.button.accept.accesskey "P">
-<!ENTITY getUserMediaDialog.button.cancel.label     "Cancel">
+<!ENTITY getUserMediaDialog.button.cancel.label     "Renunță">
 <!ENTITY getUserMediaDialog.button.cancel.accesskey "n">
 
 <!ENTITY getUserMediaDialog.video.label             "Selectare cameră">
