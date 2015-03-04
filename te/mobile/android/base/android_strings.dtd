@@ -6,8 +6,7 @@
 <!ENTITY  no_space_to_start_error "&brandShortName;ను మొదలుపెట్టడానికి తగినంత ఖాళీ జాగా లేదు.">
 <!ENTITY  error_loading_file "&brandShortName;ను నడపడానికి కావలసిన ఫైల్స్ లోడు చేస్తున్నప్పుడు ఏదో లోపం సంభవించింది">
 
-<!ENTITY  onboard_start_message "&brandShortName;‌కి స్వాగతం!">
-<!ENTITY  onboard_start_subtext "మీకు, మీ అంతరంగికతకు, బహిరంగ జాలానికి అంకితం">
+
 <!ENTITY  onboard_start_button_account "&brandShortName; లోనికి ప్రవేశించండి">
 <!ENTITY  onboard_start_button_browser "విహరణ మొదలుపెట్టండి">
 <!-- Localization note: These are used as the titles of different pages on the home screen.
@@ -75,7 +74,7 @@
 <!ENTITY switch_button_message "మారు">
 
 <!ENTITY settings "అమరికలు">
-<!ENTITY settings_title "అమరికలు">
+
 <!ENTITY pref_category_advanced "ఉన్నతం">
 <!ENTITY pref_category_customize "మలచుకొనడం">
 <!ENTITY pref_category_customize_summary "ముంగిలి, వెతుకు, టాబ్స్, దిగుమతి">
@@ -99,8 +98,6 @@
 <!-- Localization note (overlay_share_bookmark_btn_label) : This string is
      used in the share overlay menu to select an action. It is the verb
      "to bookmark", not the noun "a bookmark". -->
-
-<!ENTITY overlay_share_bookmark_btn_label "ఇష్టాంశం">
 <!ENTITY overlay_share_reading_list_btn_label "చదవాల్సిన జాబితాకి చేర్చు">
 <!ENTITY overlay_share_bookmark_btn_label_already "ఇప్పటికే ఇష్టాంశముగా ఉంది">
 <!ENTITY overlay_share_reading_list_btn_label_already "ఇప్పటికే చదివే జాబితాలో ఉంది">
@@ -112,10 +109,9 @@
 
 <!ENTITY overlay_share_send_tab_btn_label "మరొక పరికరానికి పంపించు">
 <!ENTITY overlay_share_no_url "ఈ పంచుకోలులో లంకె ఏమీ లేదు">
-<!ENTITY overlay_share_retry "మరలా ప్రయత్నించు">
+
 <!ENTITY overlay_share_select_device "పరికరాన్ని ఎంచుకోండి">
 
-<!ENTITY pref_category_search3 "వెతుకు">
 <!ENTITY pref_category_search_summary "మీకు అన్వేషణ అందించువారిని మలచుకొనుము">
 <!ENTITY pref_category_display "ప్రదర్శన">
 <!ENTITY pref_category_display_summary "పాఠం, శీర్షిక పట్టీ, నిండు-తెర విహారణ">
@@ -129,7 +125,7 @@
 <!ENTITY pref_category_add_search_providers "మరిన్ని శోధన ప్రదాతలను చేర్చండి">
 <!ENTITY pref_category_search_restore_defaults "సెర్చింజన్లను పునరుద్ధరించు">
 <!ENTITY pref_search_restore_defaults "అప్రమేయాలను పునరుద్ధరించు">
-<!ENTITY pref_search_restore_defaults_summary "అప్రమేయాలను పునరుద్ధరించు">
+
 <!-- Localization note (pref_search_hint) : "TIP" as in "hint", "clue" etc. Displayed as an
      advisory message on the customise search providers settings page explaining how to add new
      search providers.
@@ -159,16 +155,14 @@
 <!ENTITY pref_home_suggested_sites_summary "మీరు ఆశక్తి కనబర్చే సైటులకు లఘువులను మీ ముంగిలిపేజీపై ప్రదర్శించును">
 <!-- Localization note: These are shown in the left sidebar on tablets -->
 
-<!ENTITY pref_header_customize "మలచుకొనడం">
-<!ENTITY pref_header_display "ప్రదర్శన">
-<!ENTITY pref_header_privacy_short "గోప్యత">
+
 <!ENTITY pref_header_help "సహాయం">
-<!ENTITY pref_header_language "భాష">
-<!ENTITY pref_header_vendor "&vendorShortName;">
-<!ENTITY pref_header_devtools "అభివృద్ధికారుల పనిముట్లు">
+
+
+
 
 <!ENTITY pref_cookies_menu "కుకీలు">
-<!ENTITY pref_cookies_accept_all "చేతనం">
+
 <!ENTITY pref_cookies_not_accept_foreign "చేతనం, 3వ పక్షం మినహాయించి">
 <!ENTITY pref_cookies_disabled "అచేతనం">
 
@@ -185,9 +179,9 @@
 <!ENTITY pref_clear_on_exit_summary2 "ముఖ్య మెనూ నుండి మీరు \u0022Quit\u0022 ను ఎంచినప్పుడు &brandShortName; స్వయంచాలకంగా మీ డేటాను శుభ్రంచేయును">
 <!ENTITY pref_clear_on_exit_dialog_title "ఏఏ డేటాను తుడిచివేయాలో ఎంచుకోండి">
 <!ENTITY pref_plugins "ప్లగిన్లు">
-<!ENTITY pref_plugins_enabled "చేతనం">
+
 <!ENTITY pref_plugins_tap_to_play "ఆడించడానికి ముట్టుకోండి">
-<!ENTITY pref_plugins_disabled "అచేతనం">
+
 <!ENTITY pref_text_size "పాఠ్య పరిమాణం">
 <!ENTITY pref_reflow_on_zoom4 "పాఠ్య ప్రవాహం">
 <!ENTITY pref_restore "ట్యాబులు">
@@ -204,11 +198,12 @@
 same character/combination is used to increase the preview font size. It should be a concise
 representation of the language it is used in that will help show the text in the preview will change
 size. -->
-<!ENTITY pref_font_size_adjust_char "అ">
 <!-- Localization note (pref_font_size_preview_text): This paragraph is used as an example to
     demonstrate the font size setting.  It is meant to be whimsical and fun. -->
 
 <!ENTITY pref_font_size_preview_text "మరింత వేగం, సౌలభ్యం, భద్రతల గురించి మీ ఆకాంక్షలను ఈ చలాకీ ఆరెంజి నక్క అవలీలగా దూకేస్తుంది. ఒక లాభాపేక్ష లేని సంస్థగా, రాజీ పడాల్సిన అవసరం లేకుండా మీ తరపున విన్నూత్నీకరించడానికి మాకు స్వేచ్ఛ ఉంది. అంటే, మీకు మెరుగైన అనుభవం మరియు జాలానికి ఉజ్వల భవిష్యత్తు.">
+
+
 
 
 
@@ -267,22 +262,20 @@ size. -->
      (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
 <!ENTITY datareporting_crashreporter_title_short "క్రాష్ రిపోర్టర్">
 <!ENTITY datareporting_wifi_title2 "కిందికి జరుపు">
-<!ENTITY datareporting_wifi_geolocation_summary2 "మా భౌగోళికస్థానపు సేవను మెరుగుపరచుటకు మీ పరికరపు వై-ఫై మరియు సెల్యులర్ స్థానపు సమాచారంను &vendorShortName; తో పంచుకొనును.">
+
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
      actual notification that an update is available. -->
 <!ENTITY pref_update_autodownload2 "నవీకరణలను ఆటోమెటిగ్గా దించుకో">
-<!ENTITY pref_update_autodownload_wifi "వై-ఫై ద్వారా మాత్రమే">
+
 <!ENTITY pref_update_autodownload_never "ఎప్పటికీవద్దు">
 <!ENTITY pref_update_autodownload_always "ఎల్లప్పుడూ">
 <!-- Localization note (help_menu) : This string is used in the main menu-->
 
-<!ENTITY help_menu "సహాయం">
-
 <!ENTITY quit "నిష్క్రమించు">
 
 <!ENTITY addons "పొడిగింతలు">
-<!ENTITY downloads "దింపుకోళ్ళు">
+
 <!ENTITY apps "ఆప్స్">
 <!ENTITY char_encoding "అక్షర సంహితీకరణ">
 
@@ -298,7 +291,7 @@ size. -->
 <!ENTITY new_private_tab "కొత్త అంతరంగిక ట్యాబు">
 <!ENTITY close_all_tabs "అన్ని ట్యాబులసు మూసివేయి">
 <!ENTITY close_private_tabs "ప్రయివేటు ట్యాబులను మూసివేయి">
-<!ENTITY tabs_normal "ట్యాబులు">
+
 <!ENTITY tabs_private "అంతరంగికం">
 <!ENTITY tabs_synced "సింకైన">
 <!ENTITY set_image_fail "చిత్రాన్ని అమర్చలేదు">
@@ -306,31 +299,29 @@ size. -->
 <!ENTITY set_image_chooser_title "చిత్రమును ఇలా అమర్చు">
 <!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
-
-<!ENTITY find_text "పేజీలో వెతుకు">
 <!ENTITY find_prev "క్రితం">
 <!ENTITY find_next "తరువాత">
-<!ENTITY find_close "మూసివేయి">
+
 <!-- Localization note (media_sending_to, media_play, media_pause, media_stop) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
 
 <!ENTITY media_sending_to "పరికకానికి పంపిస్తున్నాం">
 <!ENTITY media_play "ఆడు">
 <!ENTITY media_pause "నిలుపు">
-<!ENTITY media_stop "ఆపివేయి">
+
 
 <!ENTITY contextmenu_open_new_tab "కొత్త ట్యాబులో తెరువు">
 <!ENTITY contextmenu_open_private_tab "అంతరంగిక ట్యాబులో తెరువు">
-<!ENTITY contextmenu_remove "తొలగించు">
+
 <!ENTITY contextmenu_add_to_launcher "ముంగిలి తెరకు చేర్చు">
-<!ENTITY contextmenu_share "పంచుకో">
+
 <!ENTITY contextmenu_pasteandgo "అంటించు &amp; వెళ్ళు">
 <!ENTITY contextmenu_paste "అతికించు">
 <!ENTITY contextmenu_copyurl "చిరునామాను కాపీచెయ్యి">
 <!ENTITY contextmenu_edit_bookmark "సరిచేయు">
 <!ENTITY contextmenu_subscribe "ఈ పేజీకి చందాచేరండి">
 <!ENTITY contextmenu_site_settings "సైటు అమరికలను మార్చండి">
-<!ENTITY contextmenu_top_sites_edit "సరిచేయి">
+
 <!ENTITY contextmenu_top_sites_pin "సైటు పిన్‌చేయి">
 <!ENTITY contextmenu_top_sites_unpin "సిటు పిన్‌తీయి">
 <!ENTITY contextmenu_add_search_engine "అన్వేషణ యంత్రాన్ని కలుపు">
@@ -357,7 +348,7 @@ size. -->
      dialog that appears after selecting the "Edit Site Settings" context menu item. -->
 
 <!ENTITY site_settings_title3       "సైటు అమరికలు">
-<!ENTITY site_settings_cancel       "రద్దుచేయి">
+
 <!ENTITY site_settings_clear        "తుడుచివేయి">
 <!ENTITY site_settings_no_settings  "తుడిచేయాల్సిన అమరికలు ఏమీ లేవు.">
 
@@ -380,12 +371,12 @@ size. -->
 <!ENTITY masterpassword_confirm "సంకేతపదం నిర్ధారించండి">
 
 <!ENTITY button_ok "సరే">
-<!ENTITY button_cancel "రద్దుచేయి">
+
 <!ENTITY button_yes "అవును">
 <!ENTITY button_no "కాదు">
 <!ENTITY button_clear_data "దత్తాంశాన్ని తుడిచివేయి">
-<!ENTITY button_set "అమర్చు">
-<!ENTITY button_clear "తుడిచివేయి">
+
+
 
 <!ENTITY home_top_sites_title "పై సైట్లు">
 <!-- Localization note (home_top_sites_add): This string is used as placeholder
@@ -395,7 +386,7 @@ size. -->
      with the page title defined in aboutHome.dtd -->
 
 <!ENTITY home_title "&brandShortName; ముంగిలి">
-<!ENTITY home_history_title "చరిత్ర">
+
 <!ENTITY home_clear_history_button "విహరణ చరిత్రను తుడిచేయి">
 <!ENTITY home_clear_history_confirm "మీరు నిశ్చయంగా మీ చరిత్రను తుడిచేయాలని అనుకొంటున్నారా?">
 <!ENTITY home_bookmarks_empty "మీరు భద్రపరుచుకున్న ఇష్టాంశాలు ఇక్కడ ఉంటాయి.">
@@ -456,7 +447,6 @@ size. -->
 
 <!ENTITY pin_site_dialog_hint "అన్వేషణ కీపదం ప్రవేశపెట్టండి">
 
-<!ENTITY filepicker_title "ఫైలును ఎంచుకొనుము">
 <!ENTITY filepicker_audio_title "ఒక శబ్దాన్ని ఎంచండి లేదా రికార్డ్ చేయండి">
 <!ENTITY filepicker_image_title "ఒక చిత్రాన్ని ఎంచండి లేదా తీయండి">
 <!ENTITY filepicker_video_title "ఒక విడియోను ఎంచండి లేదా రికార్డు చేయండి">
@@ -525,34 +515,32 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY updater_downloading_select2 "దించుకున్న నవీకరణను ఆపాదించడానికి తాకండి">
 <!ENTITY updater_downloading_retry2 "మళ్ళీ ప్రయత్నించడానికి తాకండి">
 
-<!ENTITY updater_apply_title2 "&brandShortName;కి నవీకరణ అందుబాటులో ఉంది">
 <!ENTITY updater_apply_select2 "నవీకరించడానికి తాకండి">
 <!-- Guest mode -->
 
 <!ENTITY new_guest_session "కొత్త అతిథి సెషన్">
 <!ENTITY exit_guest_session "అతథి సెషన్ నిష్క్రమించు">
 <!ENTITY guest_session_dialog_continue "కొనసాగించు">
-<!ENTITY guest_session_dialog_cancel "రద్దుచేయి">
+
 <!ENTITY new_guest_session_title "&brandShortName; ఇప్పుడు పునఃప్రారంభమవుతుంది">
 <!ENTITY new_guest_session_text "దీనిని ఉపయోగించేవారు మీ వ్యక్తిగత విహరణ దత్తాంశాన్ని (భద్రపరచిన సంకేతపదాలు, చరిత్ర లేదా ఇష్టాంశాల వంటివాటిని) చూడలేరు. \n\nమీ అతిథి పని పూర్తికాగానే, వారి విహరణ దత్తాంశం తొలగించబడుతుంది మరియు మీ సెషన్ పునరుద్ధరించబడుతుంది.">
 <!ENTITY guest_browsing_notification_title "అతిథి విహారణ చేతనమైంది">
 <!ENTITY guest_browsing_notification_text "తాకి నిష్క్రమించు">
 
-<!ENTITY exit_guest_session_title "&brandShortName; ఇప్పుడు పునఃప్రారంభమవుతుంది">
 <!ENTITY exit_guest_session_text "ఈ సెషన్ నుండి విహరణ దత్తాంశం తొలగించబడును.">
 <!-- Miscellaneous -->
 <!-- LOCALIZATION NOTE (ellipsis): This text is appended to a piece of text that does not fit in the
      designated space. Use the unicode ellipsis char, \u2026, or use "..." if \u2026 doesn't suit
      traditions in your locale. -->
 
-<!ENTITY ellipsis "…">
-
-<!ENTITY colon ":">
 <!-- These are only used for accessibility for the done and overflow-menu buttons in the actionbar.
      They are never shown to users -->
-
-<!ENTITY actionbar_menu "మెనూ">
 <!ENTITY actionbar_done "అయినది">
+<!-- Voice search in the awesome bar -->
+
+
+
+
 <!-- Localization note (remote_tabs_last_synced): the variable is replaced by a
      "relative time span string" produced by Android.  This string describes the
      time the tabs were last synced relative to the current time; examples
@@ -561,6 +549,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      their desktop or laptop.-->
 
 <!ENTITY remote_tabs_last_synced "చివరిగా సింకైంది: &formatS;">
+<!-- Localization note: Used when the sync has not happend yet, showed in place of a date -->
 <!-- Find-In-Page strings -->
 <!-- LOCALIZATION NOTE (find_matchcase): This is meant to appear as an icon that changes color
      if match-case is activated. i.e. No more than two letters, one uppercase, one lowercase. -->

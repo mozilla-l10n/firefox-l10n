@@ -42,6 +42,8 @@
 
 
 
+
+
 <!ENTITY viewMenu_label "దర్శించు">
 <!ENTITY viewMenu_accesskey "V">
 <!ENTITY viewMenu_toggleEditor_label "ఎడిటర్ మార్చు">
@@ -91,6 +93,7 @@
 <!ENTITY details_location "స్థానము">
 <!ENTITY details_manifestURL "అనువర్తనం ఐడి">
 <!ENTITY details_removeProject_button "ప్రోజెక్ట్ తీసివేయి">
+
 <!-- New App -->
 
 <!ENTITY newAppWindowTitle "కొత్త అనువర్తనం">
@@ -142,14 +145,20 @@
 <!ENTITY runtimedetails_adbIsRoot "ADB యే root:  ">
 <!ENTITY runtimedetails_summonADBRoot "root పరికరం">
 <!ENTITY runtimedetails_ADBRootWarning "(లాక్‌చేయని బూట్‌లోడర్ అవసరం)">
-<!ENTITY runtimedetails_restrictedPrivileges "DevTools నిర్భందిత అనుమతులు: ">
+
 <!ENTITY runtimedetails_requestPrivileges "ఉన్నత అనుమతులు అభ్యర్ధించు">
 <!ENTITY runtimedetails_privilegesWarning "(పరికరం పునఃప్రారంభించును. root ఏక్సెస్ అవసరం.)">
+<!-- Device Preferences and Settings -->
+
+
+<!ENTITY device_typeobject "ఆబ్జక్టు">
+
 <!-- Device Preferences -->
 
 
 
 
+<!-- Device Settings -->
 
 
 
@@ -158,3 +167,16 @@
 
 <!ENTITY monitor_title "మానిటర్">
 <!ENTITY monitor_help "సహాయం">
+<!-- WiFi Authentication -->
+<!-- LOCALIZATION NOTE (wifi_auth_header): The header displayed on the dialog
+     that instructs the user to transfer an authentication token to the
+     server. -->
+<!-- LOCALIZATION NOTE (wifi_auth_scan_request): Instructions requesting the
+     user to transfer authentication info by scanning a QR code. -->
+<!-- LOCALIZATION NOTE (wifi_auth_no_scanner): Link text to assist users with
+     devices that can't scan a QR code. -->
+<!-- LOCALIZATION NOTE (wifi_auth_yes_scanner): Link text to assist users with
+     devices that can scan a QR code. -->
+<!-- LOCALIZATION NOTE (wifi_auth_token_request): Instructions requesting the
+     user to transfer authentication info by transferring a token. -->
+<!-- Logs panel -->

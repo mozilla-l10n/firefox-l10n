@@ -150,6 +150,8 @@
 
 <!ENTITY fxaccount_create_account_header2 "ఫైర్‌ఫాక్స్ ఖాతా సృష్టించండి">
 <!ENTITY fxaccount_create_account_password_length_restriction "కనీసం 8 అక్షరాలు ఉండాలి">
+
+
 <!ENTITY fxaccount_create_account_year_of_birth "పుట్టిన సంవత్సరం">
 <!-- Localization note: &formatS1; is fxaccount_policy_linktos, &formatS2; is fxaccount_policy_linkprivacy, both hyperlinked. -->
 <!ENTITY fxaccount_create_account_policy_text2 "నేను ఫైర్‌ఫాక్స్ క్లౌడ్ సేవల &formatS1; మరియు &formatS2; కు ఆమోదం తెలుపుతూ, కొనసాగుతున్నాను.">
@@ -205,7 +207,6 @@
 <!ENTITY fxaccount_status_needs_upgrade "ప్రవేశించుటకు మీరు &brandShortName; కు నవీకరించాలి.">
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled "&syncBrand.shortName.label; అమర్పు పూర్తయ్యింది; కానీ ఆటోమెటిగ్గా సింక్రనించడంలేదు. ఆండ్రాయిడ్ అమరికలు &gt; డేటా వాడుక వద్ద “ఆటో-సింక్ డేటా”ను ఎంచుకోండి.">
 
-<!ENTITY fxaccount_status_needs_account_enabled "&syncBrand.shortName.label; అమర్పు పూర్తయ్యిందిచ కానీ ఆటోమెటిగ్గా సిక్రనించడం లేదు. సింక్రనించడం మొదలుపెట్టడానికి తాకండి.">
 
 <!ENTITY fxaccount_status_bookmarks "ఇష్టాంశాలు">
 <!ENTITY fxaccount_status_history "చరిత్ర">
