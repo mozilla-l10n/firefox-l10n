@@ -28,19 +28,16 @@
 
 <!ENTITY dataChoicesTab.label            "Вибір даних">
 
-<!ENTITY healthReportSection.label       "Звіт про справність &brandShortName;">
 <!ENTITY healthReportDesc.label          "Допомагає зрозуміти як працює ваш браузер та надсилає дані про справність у &vendorShortName;">
 <!ENTITY enableHealthReport.label        "Увімкнути звіт про справність &brandShortName;">
 <!ENTITY enableHealthReport.accesskey    "з">
 <!ENTITY healthReportLearnMore.label     "Дізнатись більше">
 
-<!ENTITY telemetrySection.label          "Телеметрія">
 <!ENTITY telemetryDesc.label             "Надсилає у &vendorShortName; дані про використання, апаратне забезпечення та налаштування вашого браузера, щоб допомогти нам зробити &brandShortName; кращим">
-<!ENTITY enableTelemetry.label           "Увімкнути телеметрію">
-<!ENTITY enableTelemetry.accesskey       "т">
+<!ENTITY enableTelemetryData.label       "Share additional data (i.e., Telemetry)">
+<!ENTITY enableTelemetryData.accesskey   "T">
 <!ENTITY telemetryLearnMore.label        "Дізнатись більше">
 
-<!ENTITY crashReporterSection.label      "Звіти про падіння">
 <!ENTITY crashReporterDesc.label         "&brandShortName; надсилає звіти про падіння у &vendorShortName;, щоб допомогти зробити ваш браузер більш стабільним та безпечним">
 <!ENTITY enableCrashReporter.label       "Увімкнути звіти про падіння">
 <!ENTITY enableCrashReporter.accesskey   "п">
