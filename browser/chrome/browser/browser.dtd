@@ -429,7 +429,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openLinkCmdInTab.accesskey   "f">
 <!ENTITY openLinkCmd.label            "Opna tengil í nýjum glugga">
 <!ENTITY openLinkCmd.accesskey        "g">
-<!ENTITY openLinkInPrivateWindowCmd.label "Opna tengil í nýjum einkaglugga">
+<!ENTITY openLinkInPrivateWindowCmd.label "Opna tengil í nýjum huliðsglugga">
 <!ENTITY openLinkInPrivateWindowCmd.accesskey "p">
 <!ENTITY openLinkCmdInCurrent.label     "Opna tengil">
 <!ENTITY openLinkCmdInCurrent.accesskey "O">

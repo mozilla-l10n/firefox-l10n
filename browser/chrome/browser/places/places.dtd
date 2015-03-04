@@ -52,7 +52,7 @@
 <!ENTITY cmd.open.accesskey              "O">
 <!ENTITY cmd.open_window.label           "Opna í nýjum glugga">
 <!ENTITY cmd.open_window.accesskey       "n">
-<!ENTITY cmd.open_private_window.label     "Opna í nýjum einkaglugga">
+<!ENTITY cmd.open_private_window.label     "Opna í nýjum huliðsglugga">
 <!ENTITY cmd.open_private_window.accesskey "p">
 <!ENTITY cmd.open_tab.label              "Opna í nýjum flipa">
 <!ENTITY cmd.open_tab.accesskey          "f">
