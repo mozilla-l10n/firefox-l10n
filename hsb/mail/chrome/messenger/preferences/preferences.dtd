@@ -19,4 +19,5 @@
 <!ENTITY paneAdvanced.title       "Rozšěrjene">
 <!ENTITY paneAccount.title        "Konta">
 
-
+<!ENTITY okButton.title           "W porjadku">
+<!ENTITY okButton.accesskey       "o">

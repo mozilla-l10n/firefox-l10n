@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY itemGeneral.label       "Powšitkowny">
-
+<!ENTITY dataChoicesTab.label    "Datowy wuběr">
 <!ENTITY itemDisplay.label       "Čitanje a zwobraznjenje">
 <!ENTITY itemUpdate.label        "Aktualizacija">
 <!ENTITY itemNetworking.label    "Syć a tačelowy rum">
@@ -14,8 +14,8 @@
 <!ENTITY enableGlodaSearch.accesskey   "G">
 <!ENTITY allowHWAccel.label            "Hardwarowe pospěšenje wužiwać, jeli je k dispoziciji">
 <!ENTITY allowHWAccel.accesskey        "h">
-
-
+<!ENTITY storeType.label               "Sładowanski typ powěsćow za nowe konta:">
+<!ENTITY storeType.accesskey           "t">
 <!ENTITY mboxStore.label               "Jedna wulka dataja (mbox)">
 <!ENTITY maildirStore.label            "Dataja na powěsć (maildir)">
 
@@ -40,14 +40,17 @@
 <!ENTITY showReturnReceipts.accesskey  "k">
 <!-- Data Choices -->
 
+<!ENTITY telemetrySection.label          "Telemetrija">
+<!ENTITY telemetryDesc.label             "Dźěli wukon, wužiće, hardwaru a přiměrjenske daty wo wašim e-mejlowym klienće z &vendorShortName;, zo by nam pomhała, &brandShortName; polěpšić">
+<!ENTITY enableTelemetry.label           "Telemetriju zmóžnić">
+<!ENTITY enableTelemetry.accesskey       "T">
+<!ENTITY telemetryLearnMore.label        "Dalše informacije">
 
-
-
-
-
-
-
-
+<!ENTITY crashReporterSection.label      "Rozprawjak wo spadach">
+<!ENTITY crashReporterDesc.label         "&brandShortName; sćele roprawy wo spadach, zo by&vendorShortName; pomhał, waš e-mejlowy klient stabilniši a wěsćiši činić.">
+<!ENTITY enableCrashReporter.label       "Rozprawjak wo spadach zmóžnić">
+<!ENTITY enableCrashReporter.accesskey   "R">
+<!ENTITY crashReporterLearnMore.label    "Dalše informacije">
 <!-- Display and Reading Settings -->
 
 <!ENTITY reading.caption               "Čitanje">
