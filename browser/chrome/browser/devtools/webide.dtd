@@ -41,7 +41,7 @@
 <!ENTITY runtimeMenu_showMonitor_accesskey "M">
 <!ENTITY runtimeMenu_showDevicePrefs_label "Device Preferences">
 <!ENTITY runtimeMenu_showDevicePrefs_accesskey "D">
-
+<!ENTITY runtimeMenu_showSettings_label "Device Settings">
 
 
 <!ENTITY viewMenu_label "View">

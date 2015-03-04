@@ -34,8 +34,8 @@
 <!ENTITY healthReportLearnMore.label     "Fræðast meira">
 
 <!ENTITY telemetryDesc.label             "Deilir afköstum, notkun, vélbúnaðarupplýsingum og sérsniði vafra með &vendorShortName; svo hægt sé að betrumbæta &brandShortName;">
-
-
+<!ENTITY enableTelemetryData.label       "Deila öðrum gögnum (t.d., Fjarmælingum)">
+<!ENTITY enableTelemetryData.accesskey   "F">
 <!ENTITY telemetryLearnMore.label        "Fræðast meira">
 
 <!ENTITY crashReporterDesc.label         "&brandShortName; sendir hrunskýrslur til að hjálpa &vendorShortName; að gera vafrann stöðugri og öruggari">
