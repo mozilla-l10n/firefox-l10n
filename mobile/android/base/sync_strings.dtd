@@ -52,7 +52,7 @@
 <!-- Pair Device -->
 
 <!ENTITY sync.pair.tryagain.label "Te rugăm să mai încerci.">
-<!ENTITY sync.pair.connectlocation.label "Pentru a activa noul dispozitiv, selectează „Setează &syncBrand.shortName.label;” pe dispozitiv și apoi „Am deja un cont.”">
+<!ENTITY sync.pair.connectlocation.label "Pentru a activa noul dispozitiv, selectează „Setează &syncBrand.shortName.label;” pe dispozitiv și apoi „Am un cont.”">
 <!-- Firefox SyncAdapter Settings Screen -->
 
 <!ENTITY sync.settings.options.label "Opțiuni">
