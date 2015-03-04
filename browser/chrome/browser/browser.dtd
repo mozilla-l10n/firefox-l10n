@@ -601,6 +601,20 @@
 <!ENTITY processHang.terminateProcess.label       "Detener proceso web">
 <!ENTITY processHang.terminateProcess.accessKey   "K">
 
-
 <!ENTITY emeLearnMoreContextMenu.label            "Aprender más acerca de DRM…">
 <!ENTITY emeLearnMoreContextMenu.accesskey        "D">
+
+
+<!ENTITY emeNotificationsNotNow.label             "Ahora no">
+<!ENTITY emeNotificationsNotNow.accesskey         "N">
+<!ENTITY emeNotificationsDontAskAgain.label       "No volver a preguntar">
+<!ENTITY emeNotificationsDontAskAgain.accesskey   "D">
+
+<!ENTITY readingList.label                        "Lista de lectura">
+<!ENTITY readingList.sidebar.commandKey           "R">
+<!ENTITY readingList.showSidebar.label            "Mostrar barra lateral de la lista de lectura">
+<!ENTITY readingList.sidebar.showMore.label       "Mostrar más…">
+<!ENTITY readingList.sidebar.emptyText            "Añada artículos a su lista de lectura para guardarlos para más tarde y encontrarlos fácilmente cuando los necesite".>
+<!ENTITY readingList.sidebar.delete.tooltip       "Eliminar esto de su lista de lectura">
+<!ENTITY readingList.sidebar.add.label            "Añadir a la lista de lectura">
+<!ENTITY readingList.sidebar.add.tooltip          "Añadir esta página a la lista de lectura">
