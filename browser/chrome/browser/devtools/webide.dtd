@@ -116,7 +116,7 @@
 <!ENTITY prefs_editor_title "Editor">
 <!ENTITY prefs_general_title "General">
 <!ENTITY prefs_restore "Restaurează setările implicite">
-<!ENTITY prefs_manage_components "Manage Extra Components">
+<!ENTITY prefs_manage_components "Gestionează componentele suplimentare">
 <!ENTITY prefs_options_autoconnectruntime "Reconnect to previous runtime">
 <!ENTITY prefs_options_autoconnectruntime_tooltip "Reconnect to previous runtime when WebIDE starts">
 <!ENTITY prefs_options_rememberlastproject "Ține minte ultimul proiect">
