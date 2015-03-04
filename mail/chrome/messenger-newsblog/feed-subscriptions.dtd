@@ -11,7 +11,7 @@
 
 <!ENTITY feedLocation.label          "URL Llif:">
 <!ENTITY feedLocation.accesskey      "L">
-<!ENTITY feedLocation.placeholder    "Rhowch URL llif dilys i Ychwanegu">
+<!ENTITY feedLocation.placeholder    "Rhowch URL llif dilys i'w Ychwanegu">
 <!ENTITY locationValidate.label      "Dilysu">
 <!ENTITY validateText.label          "Gwirio dilysiad ac estyn url dilys.">
 

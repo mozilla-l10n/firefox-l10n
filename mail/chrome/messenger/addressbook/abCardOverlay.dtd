@@ -123,7 +123,7 @@
 <!ENTITY Gtalk.label                    "Google Talk:">
 <!ENTITY Gtalk.accesskey                "G">
 <!ENTITY AIM.label                      "AIM:">
-<!ENTITY AIM.accesskey                  "r">
+<!ENTITY AIM.accesskey                  "a">
 <!ENTITY Yahoo.label                    "Yahoo!:">
 <!ENTITY Yahoo.accesskey                "Y">
 <!ENTITY Skype.label                    "Skype:">
@@ -145,7 +145,7 @@
 <!ENTITY GenericPhoto.label             "Ffoto Generig">
 <!ENTITY GenericPhoto.accesskey         "G">
 <!ENTITY DefaultPhoto.label             "Rhagosodiad">
-<!ENTITY PhotoFile.label                "Ar y Cyfrifiaduir">
+<!ENTITY PhotoFile.label                "Ar y Cyfrifiadur hwn">
 <!ENTITY PhotoFile.accesskey            "A">
 <!ENTITY BrowsePhoto.label              "Pori">
 <!ENTITY BrowsePhoto.accesskey          "P">
