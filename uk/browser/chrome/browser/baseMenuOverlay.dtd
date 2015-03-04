@@ -14,9 +14,9 @@
                        for the help button in the menubar but Gnome does not.   -->
 <!ENTITY helpMenuWin.label        "Довідка"> 
 <!ENTITY helpMenuWin.accesskey    "Д">
-<!ENTITY aboutProduct2.label      "Про &brandShortName;">
+<!ENTITY aboutProduct2.label      "Про &brandShorterName;">
 <!ENTITY aboutProduct2.accesskey  "о">
-<!ENTITY productHelp2.label       "Довідка &brandShortName;">
+<!ENTITY productHelp2.label       "Довідка &brandShorterName;">
 <!ENTITY productHelp2.accesskey   "Д">
 <!ENTITY helpMac.commandkey       "?">
 
@@ -26,7 +26,7 @@
 <!ENTITY helpSafeMode.label       "Перезапуск з вимкненими додатками…">
 <!ENTITY helpSafeMode.accesskey   "П">
 
-<!ENTITY healthReport2.label      "&brandShortName; Health Report">
+<!ENTITY healthReport2.label      "&brandShorterName; Health Report">
 <!ENTITY healthReport2.accesskey  "e">
 
 <!ENTITY helpTroubleshootingInfo.label      "Вирішення проблем">
@@ -35,7 +35,7 @@
 <!ENTITY helpFeedbackPage.label      "Надіслати відгук…">
 <!ENTITY helpFeedbackPage.accesskey  "Н">
 
-<!ENTITY helpShowTour2.label             "Огляд &brandShortName;">
+<!ENTITY helpShowTour2.label             "Огляд &brandShorterName;">
 <!ENTITY helpShowTour2.accesskey         "О">
 
 <!ENTITY preferencesCmdMac.label        "Налаштування…">
@@ -43,7 +43,7 @@
 
 <!ENTITY servicesMenuMac.label          "Служби">
 
-<!ENTITY hideThisAppCmdMac2.label        "Приховати &brandShortName;">
+<!ENTITY hideThisAppCmdMac2.label        "Приховати &brandShorterName;">
 <!ENTITY hideThisAppCmdMac2.commandkey  "H">
 
 <!ENTITY hideOtherAppsCmdMac.label      "Приховати інші">
