@@ -22,7 +22,7 @@
 <!ENTITY newAcct.label                "Ստեղծել նոր հաշիվ.">
 
 <!ENTITY advFeaturesSectionHdr.label  "Ընդլայնված հնարավորություններ">
-<!ENTITY searchMsgsLink.label         "Փնտրել նամակներ">
+<!ENTITY searchMsgsLink.label         "Նամակների որոնում">
 <!ENTITY filtersLink.label            "Կառավարել նամակի ֆիլտրերը">
 <!ENTITY junkSettings.label           "Թափոն նամակի կարգավորումներ">
 <!ENTITY offlineLink.label            "Անցանց կարգավորումներ">

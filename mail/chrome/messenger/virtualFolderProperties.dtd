@@ -14,8 +14,8 @@
 <!ENTITY chooseFoldersButton.label "Ընտրել…">
 <!ENTITY chooseFoldersButton.accesskey "h">
 
-<!ENTITY searchOnline.label "Փնտրել առցանց (Տալիս է վերջին արդյունքները IMAP-ի և նորությունների թղթապանակի, բայց մեծացնում է թղթապանակը բացելու ժամանակը)">
-<!ENTITY searchOnline.accesskey "S">
+<!ENTITY searchOnline.label "Որոնել առցանց (տալիս է IMAP-ի և նորությունների թղթապանակի վերջին արդյունքները, բայց մեծացնում է թղթապանակը բացելու ժամանակը)">
+<!ENTITY searchOnline.accesskey "Ո">
 <!ENTITY newFolderButton.label       "Ստեղծել">
 <!ENTITY newFolderButton.accesskey   "r">
 <!ENTITY editFolderButton.label      "Թարմացնել">

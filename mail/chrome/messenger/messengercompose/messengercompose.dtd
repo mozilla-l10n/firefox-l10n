@@ -88,8 +88,8 @@
 <!ENTITY selectAllCmd.label "Ընտրել բոլորը">
 <!ENTITY selectAllCmd.key "Ը">
 <!ENTITY selectAllCmd.accesskey "A">
-<!ENTITY findBarCmd.label "Փնտրել...">
-<!ENTITY findBarCmd.accesskey "Փ">
+<!ENTITY findBarCmd.label "Գտնել...">
+<!ENTITY findBarCmd.accesskey "Գ">
 <!ENTITY findBarCmd.key "F">
 <!ENTITY findReplaceCmd.label "Գտնել և ՓոFխարինել...">
 <!ENTITY findReplaceCmd.accesskey "l">
@@ -98,8 +98,8 @@
 <!ENTITY findAgainCmd.accesskey "g">
 <!ENTITY findAgainCmd.key "Կ">
 <!ENTITY findAgainCmd.key2 "VK_F3">
-<!ENTITY findPrevCmd.label "Փնտրել Նախորդը">
-<!ENTITY findPrevCmd.accesskey "v">
+<!ENTITY findPrevCmd.label "Գտնել Նախորդը">
+<!ENTITY findPrevCmd.accesskey "ո">
 <!ENTITY findPrevCmd.key "Փ">
 <!ENTITY findPrevCmd.key2 "VK_F3">
 <!-- View Menu -->
