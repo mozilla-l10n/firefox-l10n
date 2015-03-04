@@ -1,6 +1,8 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY minimizeWindow.key       "m">
 <!ENTITY minimizeWindow.label     "చిన్నదిచేయి">
 <!ENTITY bringAllToFront.label    "అన్నీ ముందుకు తీసుకునిరా">
 <!ENTITY zoomWindow.label         "జూమ్">
@@ -10,12 +12,13 @@
 <!ENTITY helpMenu.accesskey       "H"> 
 <!-- LOCALIZATION NOTE some localizations of Windows (ex:french, german) use "?"
                        for the help button in the menubar but Gnome does not.   -->
-
-
-
-
-
-
+<!ENTITY helpMenuWin.label        "సహాయం"> 
+<!ENTITY helpMenuWin.accesskey    "H">
+<!ENTITY aboutProduct2.label      "&brandShortName; గురించి">
+<!ENTITY aboutProduct2.accesskey  "A">
+<!ENTITY productHelp2.label       "&brandShortName; సహాయం">
+<!ENTITY productHelp2.accesskey   "H">
+<!ENTITY helpMac.commandkey       "?">
 
 <!ENTITY helpKeyboardShortcuts.label     "కీబోర్డు లఘువులు">
 <!ENTITY helpKeyboardShortcuts.accesskey "K">
@@ -23,7 +26,8 @@
 <!ENTITY helpSafeMode.label       "పొడిగింతలు అచేతనపరచి పునఃప్రారంభించుము…">
 <!ENTITY helpSafeMode.accesskey   "R">
 
-
+<!ENTITY healthReport2.label      "&brandShortName; ఆరోగ్య నివేదిక">
+<!ENTITY healthReport2.accesskey  "e">
 
 <!ENTITY helpTroubleshootingInfo.label      "సమస్యాపరిష్కారపు సమాచారము">
 <!ENTITY helpTroubleshootingInfo.accesskey  "T">
@@ -31,16 +35,18 @@
 <!ENTITY helpFeedbackPage.label      "స్పందనను తెలుపండి…">
 <!ENTITY helpFeedbackPage.accesskey  "S">
 
-
+<!ENTITY helpShowTour2.label            "&brandShortName; పర్యటన">
+<!ENTITY helpShowTour2.accesskey        "o">
 
 <!ENTITY preferencesCmdMac.label        "అభిరుచులు…">
-
+<!ENTITY preferencesCmdMac.commandkey   ",">
 
 <!ENTITY servicesMenuMac.label          "సేవలు">
 
-
+<!ENTITY hideThisAppCmdMac2.label       "&brandShortName;ను దాచు">
+<!ENTITY hideThisAppCmdMac2.commandkey  "H">
 
 <!ENTITY hideOtherAppsCmdMac.label      "మిగతావి మరుగుపరచు">
-
+<!ENTITY hideOtherAppsCmdMac.commandkey "H">
 
 <!ENTITY showAllAppsCmdMac.label        "అన్నీ చూపుము">
