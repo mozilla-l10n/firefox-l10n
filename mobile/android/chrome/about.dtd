@@ -11,7 +11,7 @@
 <!ENTITY aboutPage.checkForUpdates.none         "Թարմացումներ չկան">
 <!ENTITY aboutPage.checkForUpdates.available2   "Բեռնել թարմացումը">
 <!ENTITY aboutPage.checkForUpdates.downloading  "Թարմացումը բեռնվում է...">
-<!ENTITY aboutPage.checkForUpdates.downloaded2  "Տեղադրել թարմացումը">
+<!ENTITY aboutPage.checkForUpdates.downloaded2  "Տեղակայել թարմացումը">
 <!ENTITY aboutPage.faq.label                    "ՀՏՀ">
 <!ENTITY aboutPage.support.label                "Աջակցություն">
 <!ENTITY aboutPage.privacyPolicy.label          "Գաղտնիության Դրույթները">

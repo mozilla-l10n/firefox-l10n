@@ -53,7 +53,7 @@
 <!ENTITY history_older_section2 "Անցած ամիս">
 
 <!ENTITY go "Առաջ">
-<!ENTITY search "Փնտրել">
+<!ENTITY search "Որոնում">
 <!ENTITY reload "Վերաբեռնել">
 <!ENTITY forward "Փոխանցել">
 <!ENTITY menu "Ցանկ">
@@ -115,7 +115,7 @@
 <!ENTITY overlay_share_retry "Կրկին փորձել">
 <!ENTITY overlay_share_select_device "Ընտրեք սարքը">
 
-<!ENTITY pref_category_search3 "Փնտրել">
+<!ENTITY pref_category_search3 "Որոնում">
 <!ENTITY pref_category_search_summary "Կարգավորել որոնիչները">
 <!ENTITY pref_category_display "Տեսքը">
 <!ENTITY pref_category_display_summary "Տեքստ, գլխագիր, լիաէկրան դիտարկում">
@@ -328,7 +328,7 @@ size. -->
 <!ENTITY contextmenu_remove "Ջնջել">
 <!ENTITY contextmenu_add_to_launcher "Պատկերակը հեռախոսի էկրանին">
 <!ENTITY contextmenu_share "Տարածել">
-<!ENTITY contextmenu_pasteandgo "Տեղադրել և Առաջ">
+<!ENTITY contextmenu_pasteandgo "Մեջբերել և Առաջ">
 <!ENTITY contextmenu_paste "Տեղադրել">
 <!ENTITY contextmenu_copyurl "Պատճենել հասցեն">
 <!ENTITY contextmenu_edit_bookmark "Խմբագրել">
@@ -517,7 +517,7 @@ Android-ից">
      replaced with the name of the search engine. The placeholder &formatS2; will be
      replaced with the search query. -->
 
-<!ENTITY suggestion_for_engine "Փնտրել &formatS2;-ը &formatS1;-ում">
+<!ENTITY suggestion_for_engine "Որոնել &formatS2;-ը &formatS1;-ում">
 
 <!ENTITY webapp_generic_name "Ծրագիր">
 
