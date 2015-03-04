@@ -49,7 +49,7 @@
 <!ENTITY leaveMsgsOnSrvr.label "Păstrează mesajele pe server">
 <!ENTITY leaveMsgsOnSrvr.accesskey "P">
 <!ENTITY portNum.label "Port:">
-<!ENTITY portNum.accesskey "P">
+<!ENTITY portNum.accesskey "o">
 <!ENTITY defaultPortLabel.label "Implicit:">
 <!ENTITY defaultPortValue.label "">
 <!-- LOCALIZATION NOTE (incomingServerNameDesc.label) : Do not translate "&quot;pop.example.net&quot;" in below line -->

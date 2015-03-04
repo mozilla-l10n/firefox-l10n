@@ -193,7 +193,7 @@ because displayed names don't have the comma in between. -->
 <!ENTITY sortAscending.accesskey                        "C">
 <!ENTITY sortDescending.label                           "Descrescător">
 <!ENTITY sortDescending.accesskey                       "D">
-<!ENTITY _PhoneticName.label                            "Phonetic Name">
+<!ENTITY _PhoneticName.label                            "Nume fonetic">
 <!ENTITY _PhoneticName.accesskey                        "o">
 <!-- Card Summary Pane -->
 <!-- Box Headings -->
