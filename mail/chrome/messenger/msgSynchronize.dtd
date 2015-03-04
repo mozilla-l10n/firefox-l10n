@@ -6,7 +6,7 @@
 
 <!ENTITY MsgSynchronize.label "Llwytho i Lawr a Chydweddu Negeseuon">
 <!ENTITY MsgSelect.label "Eitemau ar Gyfer Defnydd All-lein">
-<!ENTITY MsgSyncDesc.label "Os ydych eisoes wedi dewis ffolderi e-bost neu grwpiau newyddion ar gyfer defnydd all-lein, mae modd i chi eu llwytho neu gydamseru nhw nawr. Yn lle hynny, defnyddiwch y botwm &quot;Dewis&quot; i ddewis ffolderi e-bost neu grwpiau newyddion ar gyfer defnydd all-lein.">
+<!ENTITY MsgSyncDesc.label "Os ydych eisoes wedi dewis ffolderi e-bost neu grwpiau newyddion ar gyfer defnydd all-lein, mae modd i chi eu llwytho neu cydweddu nhw nawr. Yn lle hynny, defnyddiwch y botwm &quot;Dewis&quot; i ddewis ffolderi e-bost neu grwpiau newyddion ar gyfer defnydd all-lein.">
 <!ENTITY MsgSyncDirections.label "Llwytho i lawr a/neu gydweddu'r canlynol:">
 <!ENTITY syncTypeMail.label "Negeseuon e-bost">
 <!ENTITY syncTypeMail.accesskey "e">
