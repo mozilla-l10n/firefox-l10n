@@ -47,10 +47,10 @@
 <!ENTITY telemetryLearnMore.label        "ស្វែងយល់​​បន្ថែម">
 
 <!ENTITY crashReporterSection.label      "កម្មវិធី​រាយការណ៍​អំពី​ការ​គាំង">
-
-
-
-
+<!ENTITY crashReporterDesc.label         "&brandShortName; ផ្ញើ​របាយការណ៍​គាំង​ដើម្បី​ជួយ &vendorShortName; ធ្វើឲ្យ​កម្មវិធី​អ៊ីមែល​មាន​ស្ថិរភាព និង​សុវត្ថិភាព​កាន់តែ​ខ្ពស់">
+<!ENTITY enableCrashReporter.label       "បើកកម្មវិធី​រាយការណ៍​អំពី​ការ​គាំង">
+<!ENTITY enableCrashReporter.accesskey   "ក">
+<!ENTITY crashReporterLearnMore.label    "ស្វែងយល់​​បន្ថែម">
 <!-- Display and Reading Settings -->
 
 <!ENTITY reading.caption               "Reading">
