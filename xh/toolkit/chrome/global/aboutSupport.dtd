@@ -35,9 +35,11 @@ This is likely the same like id.heading in crashes.dtd. -->
 <!ENTITY aboutSupport.appBasicsTitle "Iziseko zeaplikheshini">
 <!ENTITY aboutSupport.appBasicsName "Igama">
 <!ENTITY aboutSupport.appBasicsVersion "Uguqulelo">
-
+<!ENTITY aboutSupport.appBasicsBuildID "Yakha i-ID">
 <!-- LOCALIZATION NOTE (aboutSupport.appBasicsUpdateChannel, aboutSupport.appBasicsUpdateHistory, aboutSupport.appBasicsShowUpdateHistory):
 "Update" is a noun here, not a verb. -->
+
+<!ENTITY aboutSupport.appBasicsUpdateChannel "Hlaziya iTshaneli">
 <!ENTITY aboutSupport.appBasicsUpdateHistory "Imbali yohlaziyo">
 <!ENTITY aboutSupport.appBasicsShowUpdateHistory "Bonisa Imbali Ehlaziyiweyo">
 

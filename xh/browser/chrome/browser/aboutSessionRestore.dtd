@@ -13,9 +13,9 @@
 <!ENTITY restorepage.startNew       "Ukuqalisa iseshoni yokubhrawuza entsha ngokupheleleyo">
 
 <!ENTITY restorepage.tryagainButton "Buyisela">
-
+<!ENTITY restorepage.restore.access "R">
 <!ENTITY restorepage.closeButton    "Vala">
-
+<!ENTITY restorepage.close.access   "C">
 
 <!ENTITY restorepage.listHeader     "I-Windows neethebhu">
 <!-- LOCALIZATION NOTE: &#37;S will be replaced with a number. -->
@@ -26,7 +26,7 @@
 
 
 <!ENTITY welcomeback2.restoreButton  "Masihambe!">
-
+<!ENTITY welcomeback2.restoreButton.access "L">
 
 <!ENTITY welcomeback2.tabtitle      "Impumelelo!">
 
