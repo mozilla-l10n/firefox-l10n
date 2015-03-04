@@ -47,8 +47,8 @@
 <!ENTITY pkcs12.setpassword.label2 "Parola de siguranță pentru certificate (din nou):">
 <!ENTITY pkcs12.setpassword.reminder "Important: Dacă uitați parola de siguranță pentru certificate, nu veți putea reface această copie mai târziu.  Aveți grijă să o păstrați într-un loc sigur.">
 
-<!ENTITY chooseToken.title  "Alegere token">
-<!ENTITY chooseToken.message1 "Vă rugăm alegeți token.">
+<!ENTITY chooseToken.title  "Alege tokenul">
+<!ENTITY chooseToken.message1 "Vă rugăm să alegeți un token.">
 
 <!ENTITY escrowWarn.title "Copie chei criptare">
 <!ENTITY escrowWarn.message1 "Important: Autoritatea de certificare a solicitat să păstreze o copie de siguranță a cheii dumneavoastră private.">
@@ -64,5 +64,5 @@
 <!-- Strings for protectedAuth dialog -->
 
 <!ENTITY protectedAuth.title "Autentificare prin identificator protejat">
-<!ENTITY protectedAuth.msg "Vă rog autentificați-vă față de identificator. Metoda de autentificare depinde de tipul identificatorului dumneavoastră.">
+<!ENTITY protectedAuth.msg "Vă rugăm autentificați-vă cu token. Metoda de autentificare depinde de tipul tokenului dumneavoastră.">
 <!ENTITY protectedAuth.tokenName.label "Identificator:">
