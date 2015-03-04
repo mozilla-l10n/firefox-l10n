@@ -47,7 +47,7 @@
 <!ENTITY telemetryLearnMore.label        "Dalše informacije">
 
 <!ENTITY crashReporterSection.label      "Rozprawjak wo spadach">
-<!ENTITY crashReporterDesc.label         "&brandShortName; sćele roprawy wo spadach, zo by&vendorShortName; pomhał, waš e-mejlowy klient stabilniši a wěsćiši činić.">
+<!ENTITY crashReporterDesc.label         "&brandShortName; sćele rozprawy wo spadach, zo by&vendorShortName; pomhał, waš e-mejlowy klient stabilniši a wěsćiši činić.">
 <!ENTITY enableCrashReporter.label       "Rozprawjak wo spadach zmóžnić">
 <!ENTITY enableCrashReporter.accesskey   "R">
 <!ENTITY crashReporterLearnMore.label    "Dalše informacije">
