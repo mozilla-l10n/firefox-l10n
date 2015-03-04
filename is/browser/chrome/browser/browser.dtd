@@ -13,7 +13,7 @@
 <!ENTITY mainWindow.titlemodifiermenuseparator " - ">
 <!-- LOCALIZATION NOTE (mainWindow.titlePrivateBrowsingSuffix): This will be appended to the window's title
                                                                 inside the private browsing mode -->
-<!ENTITY mainWindow.titlePrivateBrowsingSuffix "(Einkavöfrun)">
+<!ENTITY mainWindow.titlePrivateBrowsingSuffix "(Huliðsstilling)">
 
 <!ENTITY appmenu.tooltip                     "Opna valmynd">
 <!ENTITY navbarOverflow.label                "Fleiri verkfæri…">
@@ -297,7 +297,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY newNavigatorCmd.label        "Nýr gluggi">
 
 <!ENTITY newNavigatorCmd.accesskey      "N">
-<!ENTITY newPrivateWindow.label     "Nýr einkagluggi">
+<!ENTITY newPrivateWindow.label     "Nýr huliðsgluggi">
 <!ENTITY newPrivateWindow.accesskey "g">
 
 <!ENTITY editMenu.label         "Breyta"> 
