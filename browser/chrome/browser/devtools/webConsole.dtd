@@ -67,6 +67,7 @@
 <!ENTITY btnConsoleInfo         "जानकारी">
 <!ENTITY btnConsoleWarnings     "चेतावनीहरु">
 <!ENTITY btnConsoleLog          "लग">
+<!ENTITY btnConsoleXhr          "XHR">
 
 
 <!ENTITY filterOutput.placeholder "फिल्टर निर्गत">

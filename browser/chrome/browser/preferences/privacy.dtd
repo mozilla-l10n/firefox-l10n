@@ -4,28 +4,22 @@
 
 <!ENTITY tracking.label                 "ट्रयाक गरिँदै">
 
-<!ENTITY dntTrackingNopref.label2       "वेवसाइटहरुलाई मेरो ट्रयाकिङ्ग पसन्द बारे केहि नभन्नु">
-<!ENTITY dntTrackingNopref.accesskey    "o">
 <!ENTITY dntTrackingNotOkay.label2      "वेवसाइटहरुलाई म ट्रयाक हुन चाहन्न भन्नु">
 <!ENTITY dntTrackingNotOkay.accesskey   "n">
-<!ENTITY dntTrackingOkay.label2         "वेवसाइटहरुलाई म ट्रयाक हुन चाहन्छु भन्नु">
-
 
 
 
 <!ENTITY doNotTrackInfo.label           "अझ जान्नुहोस् ">
 
-<!ENTITY  history.label                 "इतिहास">
 
 <!ENTITY  locationBar.label             "स्थानपट्टी ">
 
-<!ENTITY  locbar.pre.label              "स्थानपट्टी प्रयोग गर्दा सुझाव देखाउनु:">
-<!ENTITY  locbar.pre.accessKey          "u">
-<!ENTITY  locbar.post.label             "">
-<!ENTITY  locbar.both.label             "इतिहास तथा पुस्तकचिनोहरू">
-<!ENTITY  locbar.history.label          "इतिहास">
-<!ENTITY  locbar.bookmarks.label        "पुस्तकचिनोहरू">
-<!ENTITY  locbar.nothing.label          "केही पनि होइन ">
+
+
+
+
+
+
 
 <!ENTITY  acceptCookies.label           "साइटहरुबाट कुकी स्वीकार गर्नुहुोस्">
 <!ENTITY  acceptCookies.accesskey       "A">
@@ -36,8 +30,7 @@
 <!ENTITY  acceptThirdParty.never.label    "कहिले पनि होइन">
 <!ENTITY  acceptThirdParty.visited.label  "पहिले हेरिएकोबाट">
 
-<!ENTITY  keepUntil.label               "यसबेलासम्म राख्नु:">
-<!ENTITY  keepUntil.accesskey           "K">
+
 
 <!ENTITY  close.label                   "मैले &amp;brandShortName बन्द गर्छु;">
 <!ENTITY  askEachTime.label             "मलाई हरेक पटक सोध्नुहोस्">
