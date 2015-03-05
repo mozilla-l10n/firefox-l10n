@@ -122,6 +122,7 @@
 <!ENTITY pref_category_display_summary "Text, titulok okna, prehliadanie v režime Na celú obrazovku">
 <!ENTITY pref_category_privacy_short "Súkromie">
 <!ENTITY pref_category_privacy_summary "Správa hesiel, cookies, sledovanie, údaje">
+<!ENTITY pref_manage_logins "Správa hesiel">
 <!ENTITY pref_category_vendor "&vendorShortName;">
 <!ENTITY pref_category_vendor_summary "O prehliadači &brandShortName;, často kladené otázky, údaje o používaní">
 <!ENTITY pref_category_datareporting "Odosielanie údajov">
@@ -288,6 +289,7 @@ size. -->
 <!ENTITY quit "Ukončiť">
 
 <!ENTITY addons "Doplnky">
+<!ENTITY logins "Heslá">
 <!ENTITY downloads "Prevzaté súbory">
 <!ENTITY apps "Aplikácie">
 <!ENTITY char_encoding "Kódovanie znakov">
