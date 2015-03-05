@@ -4,14 +4,18 @@
 
 <!ENTITY itemGeneral.label       "Algemeen">
 
+
 <!ENTITY itemUpdate.label        "Bywerk">
 
 <!ENTITY itemCertificates.label  "Sertifikate">
 <!-- General Settings -->
 
-
 <!ENTITY enableGlodaSearch.label       "Aktiveer globale soektog en indekseerder">
 <!ENTITY enableGlodaSearch.accesskey   "A">
+
+
+
+
 
 
 
@@ -33,6 +37,16 @@
 <!ENTITY returnReceiptsInfo.label      "Bepaal hoe &brandShortName; antwoordstrokies hanteer">
 <!ENTITY showReturnReceipts.label      "Antwoordstrokies…">
 <!ENTITY showReturnReceipts.accesskey  "A">
+<!-- Data Choices -->
+
+
+
+
+
+
+
+
+
 <!-- Display and Reading Settings -->
 
 <!ENTITY reading.caption               "Lees">
