@@ -56,21 +56,21 @@ can reach it easily. -->
 
 <!ENTITY tabCmd.label "Nýr flipi">
 <!ENTITY tabCmd.accesskey "f">
-
+<!ENTITY tabCmd.commandkey "f">
 <!-- LOCALIZATION NOTE (openLocationCmd.label): "Open Location" is only
 displayed on OS X, and only on windows that aren't main browser windows, or
 when there are no windows but Firefox is still running. -->
 <!ENTITY openLocationCmd.label "Opna tengil…">
 <!ENTITY openFileCmd.label "Opna skrá…">
 <!ENTITY openFileCmd.accesskey "O">
-
+<!ENTITY openFileCmd.commandkey "o">
 <!ENTITY printSetupCmd.label "Uppsetning síðu…">
 <!ENTITY printSetupCmd.accesskey "U">
 <!ENTITY printPreviewCmd.label "Prentskoðun">
 <!ENTITY printPreviewCmd.accesskey "r">
 <!ENTITY printCmd.label "Prenta…">
 <!ENTITY printCmd.accesskey "P">
-
+<!ENTITY printCmd.commandkey "p">
 
 <!ENTITY goOfflineCmd.label "Vinna án nettengingar">
 <!ENTITY goOfflineCmd.accesskey "g">
@@ -82,18 +82,19 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY personalbarCmd.accesskey "B">
 <!ENTITY bookmarksToolbarItem.label "Hlutir í bókamerkjaslá">
 
-
-
-
-
-
+<!ENTITY toolbarContextMenu.reloadAllTabs.label "Endurnýja alla flipa">
+<!ENTITY toolbarContextMenu.reloadAllTabs.accesskey "a">
+<!ENTITY toolbarContextMenu.bookmarkAllTabs.label "Setja alla flipa í bókamerki…">
+<!ENTITY toolbarContextMenu.bookmarkAllTabs.accesskey "t">
+<!ENTITY toolbarContextMenu.undoCloseTab.label "Afturkalla að loka flipa">
+<!ENTITY toolbarContextMenu.undoCloseTab.accesskey "u">
 
 <!ENTITY pageSourceCmd.label "Frumkóði síðu">
 <!ENTITY pageSourceCmd.accesskey "k">
-
+<!ENTITY pageSourceCmd.commandkey "u">
 <!ENTITY pageInfoCmd.label "Upplýsingar síðu">
 <!ENTITY pageInfoCmd.accesskey "U">
-
+<!ENTITY pageInfoCmd.commandkey "i">
 <!ENTITY mirrorTabCmd.label "Spegla flipa">
 <!ENTITY mirrorTabCmd.accesskey "S">
 <!-- LOCALIZATION NOTE (enterFullScreenCmd.label, exitFullScreenCmd.label):
@@ -104,7 +105,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY exitFullScreenCmd.accesskey "f">
 <!ENTITY fullScreenCmd.label "Fylla skjá">
 <!ENTITY fullScreenCmd.accesskey "y">
-
+<!ENTITY fullScreenCmd.macCommandKey "f">
 <!ENTITY showAllTabsCmd.label "Sýna alla flipa">
 <!ENTITY showAllTabsCmd.accesskey "a">
 
@@ -139,14 +140,14 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksMenu.accesskey "B">
 <!ENTITY bookmarkThisPageCmd.label "Setja síðu í bókamerki">
 <!ENTITY editThisBookmarkCmd.label "Breyta bókamerki">
-
-
+<!ENTITY bookmarkThisPageCmd.commandkey "B">
+<!ENTITY markPageCmd.commandkey "l">
 <!-- LOCALIZATION NOTE (findShareServices.label):
   -  Use the unicode ellipsis char, \u2026,
   -  or use "..." if \u2026 doesn't suit traditions in your locale. -->
 <!ENTITY findShareServices.label "Finna fleiri deiliþjónustur…">
 <!ENTITY sharePageCmd.label "Deila þessari síðu">
-
+<!ENTITY sharePageCmd.commandkey "S">
 <!ENTITY sharePageCmd.accesskey "s">
 <!-- LOCALIZATION NOTE (shareLink.accesskey): must be different than the following share access keys -->
 <!ENTITY shareLink.label "Deila þessum tengli">
@@ -174,7 +175,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY reloadCmd.label              "Endurnýja">
 <!ENTITY reloadButton.tooltip         "Endurnýja síðu">
 <!ENTITY stopCmd.label                "Stöðva">
-
+<!ENTITY stopCmd.macCommandKey        ".">
 <!ENTITY stopButton.tooltip           "Stöðva lestur þessarar síðu">
 <!ENTITY goEndCap.tooltip             "Hoppa á tengilinn sem er í staðsetningarslánni">
 <!ENTITY printButton.label            "Prenta">
@@ -189,18 +190,21 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY tabGroupsButton.label        "Flipahópar">
 
 <!ENTITY bookmarksButton.label          "Bókamerki">
+<!ENTITY bookmarksCmd.commandkey "b">
 
-
-
+<!ENTITY bookmarksMenuButton.label          "Bókamerki">
+<!ENTITY bookmarksMenuButton.unsorted.label "Óröðuð bókamerki">
 <!ENTITY viewBookmarksSidebar2.label        "Birta bókamerki í hliðslá">
 <!ENTITY viewBookmarksToolbar.label         "Skoða bókamerkjaslá">
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
   -  key should not contain the letters A-F, since these are reserved
   -  shortcut keys on Linux. -->
 
+<!ENTITY bookmarksGtkCmd.commandkey "o">
+<!ENTITY bookmarksWinCmd.commandkey "i">
 
 <!ENTITY historyButton.label            "Ferill">
-
+<!ENTITY historySidebarCmd.commandKey   "h">
 
 <!ENTITY toolsMenu.label              "Verkfæri">
 <!ENTITY toolsMenu.accesskey          "V"> 
@@ -210,11 +214,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY downloads.label              "Niðurhal">
 <!ENTITY downloads.accesskey          "N">
-
-
+<!ENTITY downloads.commandkey         "j">
+<!ENTITY downloadsUnix.commandkey     "y">
 <!ENTITY addons.label                 "Viðbætur">
 <!ENTITY addons.accesskey             "i">
-
+<!ENTITY addons.commandkey            "A">
 <!ENTITY webapps.label                "Öpp">
 <!ENTITY webapps.accesskey            "p">
 
@@ -233,15 +237,15 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY remoteWebConsoleCmd.label    "Fjartengdur vefgluggi">
 
 <!ENTITY browserConsoleCmd.label      "Vafragluggi">
-
+<!ENTITY browserConsoleCmd.commandkey "j">
 <!ENTITY browserConsoleCmd.accesskey  "V">
 
 <!ENTITY inspectContextMenu.label     "Skoða einindi">
-
+<!ENTITY inspectContextMenu.accesskey "Q">
 
 <!ENTITY responsiveDesignTool.label   "Svartíma sýn">
 <!ENTITY responsiveDesignTool.accesskey "r">
-
+<!ENTITY responsiveDesignTool.commandkey "M">
 
 <!ENTITY eyedropper.label   "Litaplokkari">
 <!ENTITY eyedropper.accesskey "L">
@@ -284,7 +288,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY devToolbar.keytext                "F2">
 <!ENTITY devToolboxMenuItem.label          "Skipta á milli verkfæra">
 <!ENTITY devToolboxMenuItem.accesskey      "t">
-
+<!ENTITY devToolboxMenuItem.keytext        "I">
 
 <!ENTITY devToolbarToolsButton.tooltip     "Skipta á milli þróunarverkfæra">
 <!ENTITY devToolbarOtherToolsButton.label  "Fleiri verkfæri">
@@ -295,7 +299,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fileMenu.label         "Skrá"> 
 <!ENTITY fileMenu.accesskey       "S">
 <!ENTITY newNavigatorCmd.label        "Nýr gluggi">
-
+<!ENTITY newNavigatorCmd.key        "N">
 <!ENTITY newNavigatorCmd.accesskey      "N">
 <!ENTITY newPrivateWindow.label     "Nýr huliðsgluggi">
 <!ENTITY newPrivateWindow.accesskey "g">
@@ -303,25 +307,25 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY editMenu.label         "Breyta"> 
 <!ENTITY editMenu.accesskey       "e"> 
 <!ENTITY undoCmd.label            "Afturkalla">  
-
+<!ENTITY undoCmd.key            "Z">  
 <!ENTITY undoCmd.accesskey          "f"> 
 <!ENTITY redoCmd.label            "Endurtaka">  
-
+<!ENTITY redoCmd.key            "Y">  
 <!ENTITY redoCmd.accesskey          "n"> 
 <!ENTITY cutCmd.label           "Klippa">  
-
+<!ENTITY cutCmd.key             "X">  
 <!ENTITY cutCmd.accesskey         "K"> 
 <!ENTITY copyCmd.label            "Afrita">  
-
+<!ENTITY copyCmd.key            "C">  
 <!ENTITY copyCmd.accesskey          "A"> 
 <!ENTITY pasteCmd.label           "Líma">  
-
+<!ENTITY pasteCmd.key           "V">  
 <!ENTITY pasteCmd.accesskey         "L"> 
 <!ENTITY deleteCmd.label          "Eyða">  
-
+<!ENTITY deleteCmd.key            "D">  
 <!ENTITY deleteCmd.accesskey        "E"> 
 <!ENTITY selectAllCmd.label         "Velja allt">  
-
+<!ENTITY selectAllCmd.key         "A">  
 <!ENTITY selectAllCmd.accesskey       "j"> 
 <!ENTITY preferencesCmd2.label       "Valkostir">
 <!ENTITY preferencesCmd2.accesskey     "V">
@@ -330,6 +334,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY clearRecentHistory.label               "Hreinsa nýlega ferla…">
 
+<!ENTITY privateBrowsingCmd.commandkey          "P">
 
 <!ENTITY viewMenu.label         "Skoða"> 
 <!ENTITY viewMenu.accesskey       "k"> 
@@ -350,16 +355,16 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY historyRestoreLastSession.label "Sækja fyrri vafralotu">
 
 <!ENTITY showAllHistoryCmd2.label "Skoða alla ferla">
-
+<!ENTITY showAllHistoryCmd.commandkey "H">
 
 <!ENTITY appMenuCustomize.label "Sérsníða">
 <!ENTITY appMenuCustomize.tooltip "Sérsníða valmynd og tækjaslár">
 <!ENTITY appMenuCustomizeExit.label "Hætta að sérsníða">
 <!ENTITY appMenuCustomizeExit.tooltip "Klára að sérsníða">
-
-
-
-
+<!ENTITY appMenuHistory.label "Ferill">
+<!ENTITY appMenuHistory.showAll.label "Skoða alla ferla">
+<!ENTITY appMenuHistory.clearRecent.label "Hreinsa nýlega ferla…">
+<!ENTITY appMenuHistory.restoreSession.label "Sækja fyrri vafralotu">
 <!ENTITY appMenuHistory.viewSidebar.label "Birta feril í hliðslá">
 <!ENTITY appMenuHelp.tooltip "Opna hjálparvalmynd">
 
@@ -383,8 +388,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY customizeMenu.addMoreItems.label "Bæta við fleiri hlutum…">
 <!ENTITY customizeMenu.addMoreItems.accesskey "a">
 
+<!ENTITY openCmd.commandkey           "l">
 <!ENTITY urlbar.placeholder2          "Leita eða sláðu inn veffang">
-
+<!ENTITY urlbar.accesskey             "d">
 <!ENTITY urlbar.switchToTab.label     "Fara á flipa:">
 <!-- 
   Comment duplicated from browser-sets.inc:
@@ -407,7 +413,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
  -->
 
-
+<!ENTITY searchFocus.commandkey       "k">
+<!ENTITY searchFocus.commandkey2      "e">
+<!ENTITY searchFocusUnix.commandkey   "j">
 <!-- LOCALIZATION NOTE (searchFor.label, searchWith.label):
      These two strings are used to build the header above the list of one-click
      search providers:  "Search for <used typed keywords> with:" -->
@@ -424,6 +432,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      consider translating it as if it said only "Search Settings". -->
 <!ENTITY changeSearchSettings.button  "Breyta leitarstillingum">
 
+<!ENTITY tabView.commandkey           "e">
 
 <!ENTITY openLinkCmdInTab.label       "Opna tengil í nýjum flipa">
 <!ENTITY openLinkCmdInTab.accesskey   "f">
@@ -439,13 +448,14 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openFrameCmd.accesskey       "g">
 <!ENTITY showOnlyThisFrameCmd.label     "Sýna einungis þennan ramma">
 <!ENTITY showOnlyThisFrameCmd.accesskey "S">
-
+<!ENTITY reloadCmd.commandkey         "r">
 <!ENTITY reloadFrameCmd.label         "Endurnýja ramma">
 <!ENTITY reloadFrameCmd.accesskey     "r">
 <!ENTITY viewPartialSourceForSelectionCmd.label "Sýna frumkóða vals">
 <!ENTITY viewPartialSourceForMathMLCmd.label    "Sýna MathML frumkóða">
 <!-- LOCALIZATION NOTE (viewPartialSourceCmd.accesskey): This accesskey is used for both 
          viewPartialSourceForSelectionCmd.label and viewPartialSourceForMathMLCmd.label -->
+<!ENTITY viewPartialSourceCmd.accesskey "e">
 <!ENTITY viewPageSourceCmd.label      "Sýna frumkóða síðu">
 <!ENTITY viewPageSourceCmd.accesskey  "k">
 <!ENTITY viewFrameSourceCmd.label     "Sýna frumkóða ramma">
@@ -468,7 +478,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewBGImageCmd.accesskey     "g">
 <!ENTITY setDesktopBackgroundCmd.label      "Setja sem bakgrunnsmynd…">
 <!ENTITY setDesktopBackgroundCmd.accesskey  "S">
-
+<!ENTITY bookmarkPageCmd2.label       "Setja síðu í bókamerki">
 <!ENTITY bookmarkThisLinkCmd.label      "Setja tengil í bókamerki">
 <!ENTITY bookmarkThisLinkCmd.accesskey  "l">
 <!ENTITY bookmarkThisFrameCmd.label      "Setja ramma í bókamerki">
@@ -478,7 +488,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY savePageCmd.label            "Vista síðu sem…">
 <!ENTITY savePageCmd.accesskey        "V">
 <!-- alternate for content area context menu -->
-
+<!ENTITY savePageCmd.accesskey2       "P">
+<!ENTITY savePageCmd.commandkey       "s">
 <!ENTITY saveFrameCmd.label           "Vista ramma sem…">
 <!ENTITY saveFrameCmd.accesskey       "a">
 <!ENTITY printFrameCmd.label          "Prenta ramma…">
@@ -553,8 +564,8 @@ items are mutually exclusive. -->
 <!ENTITY mediaShowControls.accesskey "n">
 <!ENTITY mediaHideControls.label     "Fela stjórntæki">
 <!ENTITY mediaHideControls.accesskey "F">
-
-
+<!ENTITY videoFullScreen.label       "Fylla skjá">
+<!ENTITY videoFullScreen.accesskey   "F">
 <!ENTITY videoSaveImage.label        "Vista skjámynd sem…">
 <!ENTITY videoSaveImage.accesskey    "s">
 <!-- LOCALIZATION NOTE: The access keys for "Show Statistics" and
@@ -573,18 +584,19 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY fullZoomEnlargeCmd.label       "Stækka">
 <!ENTITY fullZoomEnlargeCmd.accesskey   "S">
-
+<!ENTITY fullZoomEnlargeCmd.commandkey  "+">
 <!-- + is above this key on many keyboards -->
-<!ENTITY fullZoomEnlargeCmd.commandkey3 "">
+<!ENTITY fullZoomEnlargeCmd.commandkey2 "="> 
+<!ENTITY fullZoomEnlargeCmd.commandkey3 "-">
 
 <!ENTITY fullZoomReduceCmd.label        "Minnka">
 <!ENTITY fullZoomReduceCmd.accesskey    "M">
-
+<!ENTITY fullZoomReduceCmd.commandkey   "-">
 <!ENTITY fullZoomReduceCmd.commandkey2  "">
 
 <!ENTITY fullZoomResetCmd.label         "Endursetja">
 <!ENTITY fullZoomResetCmd.accesskey     "E">
-
+<!ENTITY fullZoomResetCmd.commandkey    "0">
 <!ENTITY fullZoomResetCmd.commandkey2   "">
 
 <!ENTITY fullZoomToggleCmd.label        "Stækka/minnka einungis texta">
@@ -596,16 +608,17 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY quitApplicationCmdWin2.label       "Hætta">
 <!ENTITY quitApplicationCmdWin2.accesskey   "H">
-
-
-
+<!ENTITY quitApplicationCmdWin2.tooltip     "Hætta í &brandShortName;">
+<!ENTITY goBackCmd.commandKey "[">
+<!ENTITY goForwardCmd.commandKey "]">
 <!ENTITY quitApplicationCmd.label       "Hætta"> 
 <!ENTITY quitApplicationCmd.accesskey   "H">
-
+<!ENTITY quitApplicationCmdMac2.label   "Hætta í &brandShortName;">
 <!-- LOCALIZATION NOTE(quitApplicationCmdUnix.key): This keyboard shortcut is used by both Linux and OSX builds. -->
+<!ENTITY quitApplicationCmdUnix.key     "Q">
 
 <!ENTITY closeCmd.label                 "Loka">  
-
+<!ENTITY closeCmd.key                   "W">  
 <!ENTITY closeCmd.accesskey             "L">
 
 <!ENTITY pageStyleMenu.label "Síðustíll">
@@ -617,35 +630,36 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY pageReportIcon.tooltip            "Breyta stillingum sprettigluggabana fyrir þennan vef">
 
+<!ENTITY allowPopups.accesskey "p">
 <!-- On Windows we use the term "Options" to describe settings, but
      on Linux and Mac OS X we use "Preferences" - carry that distinction
      over into this string, which is used in the "popup blocked" info bar . -->
 <!ENTITY editPopupSettingsUnix.label "Breyta stillingum sprettigluggabana…">
 <!ENTITY editPopupSettings.label "Breyta stillingum sprettigluggabana…">
 <!ENTITY editPopupSettings.accesskey "B">
-
+<!ENTITY dontShowMessage.accesskey "D">
 
 <!ENTITY bidiSwitchPageDirectionItem.label        "Skipta um síðu átt">
 <!ENTITY bidiSwitchPageDirectionItem.accesskey    "s">
 <!ENTITY bidiSwitchTextDirectionItem.label        "Skipta um texta átt">
 <!ENTITY bidiSwitchTextDirectionItem.accesskey    "t">
-
+<!ENTITY bidiSwitchTextDirectionItem.commandkey   "X">
 
 <!ENTITY findOnCmd.label     "Leita á síðu…">
 <!ENTITY findOnCmd.accesskey "t">
-
+<!ENTITY findOnCmd.commandkey "f">
 <!ENTITY findAgainCmd.label  "Leita aftur">
 <!ENTITY findAgainCmd.accesskey "u">
-
+<!ENTITY findAgainCmd.commandkey "g">
 <!ENTITY findAgainCmd.commandkey2 "VK_F3">
-
+<!ENTITY findSelectionCmd.commandkey "e">
 
 <!ENTITY spellAddDictionaries.label "Bæta við orðasöfnum…">
 <!ENTITY spellAddDictionaries.accesskey "B">
 
 <!ENTITY editBookmark.done.label                     "Ljúka">
 <!ENTITY editBookmark.cancel.label                   "Hætta við">
-
+<!ENTITY editBookmark.removeBookmark.accessKey       "R">
 
 <!ENTITY identity.unverifiedsite2 "Þetta vefsvæði hefur ekki sent upplýsingar um eiganda.">
 <!ENTITY identity.connectedTo "Þú ert tengdur við">
@@ -681,12 +695,12 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY syncBrand.shortName.label    "Sync">
 
 <!ENTITY syncSetup.label              "Setja upp &syncBrand.shortName.label;…">
-
+<!ENTITY syncSetup.accesskey          "Y">
 <!ENTITY syncSyncNowItem.label        "Samstilla núna">
 <!ENTITY syncSyncNowItem.accesskey    "S">
 <!ENTITY syncReAuthItem.label         "Endurtengjast við &syncBrand.shortName.label;…">
 <!ENTITY syncReAuthItem.accesskey     "r">
-
+<!ENTITY syncToolbarButton.label      "Sync">
 
 <!ENTITY socialToolbar.title        "Samfélags tækjaslá hnappur">
 
@@ -725,11 +739,12 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY customizeMode.lwthemes.myThemes "Mín þemu">
 <!ENTITY customizeMode.lwthemes.recommended "Mælt með">
 <!ENTITY customizeMode.lwthemes.menuManage "Umsjón">
-
+<!ENTITY customizeMode.lwthemes.menuManage.accessKey "M">
 <!ENTITY customizeMode.lwthemes.menuGetMore "Ná í fleiri þemu">
-
+<!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "G">
 <!ENTITY customizeMode.deveditionTheme.label2 "Nota þróunarútgáfu þema">
 
+<!ENTITY social.chatBar.commandkey "c">
 <!ENTITY social.chatBar.label "Sýna spjall">
 <!ENTITY social.chatBar.accesskey "p">
 
@@ -759,12 +774,12 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY trackingContentBlocked.message "Fylgjast með">
 <!ENTITY trackingContentBlocked.moreinfo "Lokað var á suma hluta af síðunni sem fylgjast með notkun þinni á netinu.">
-
-
+<!ENTITY trackingContentBlocked.learnMore "Vita meira">
+<!ENTITY trackingContentBlocked.options "Valkostir">
 <!ENTITY trackingContentBlocked.unblock2.label "Slökkva á vörn fyrir þetta vefsvæði">
 <!ENTITY trackingContentBlocked.unblock2.accesskey "S">
-
-
+<!ENTITY trackingContentBlocked.block.label "Virkja vernd">
+<!ENTITY trackingContentBlocked.block.accesskey "e">
 <!ENTITY trackingContentBlocked.disabled.message "Vörn gegn því að fylgst sé með þér er óvirk">
 
 <!ENTITY pointerLock.notification.message "Ýttu á ESC hvenær sem er til að til að sýna aftur.">
@@ -784,6 +799,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY pluginNotification.width "28em">
 
+<!ENTITY uiTour.infoPanel.close "Loka">
 
 <!ENTITY appMenuSidebars.label         "Hliðarslá">
 
@@ -814,23 +830,27 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY panicButton.thankyou.msg2                "Örugg vöfrun!">
 <!ENTITY panicButton.thankyou.buttonlabel         "Takk!">
 
+<!ENTITY processHang.terminateScript.label        "Stöðva skriftu">
+<!ENTITY processHang.terminateScript.accessKey    "S">
+<!ENTITY processHang.debugScript.label            "Kemba skriftu">
+<!ENTITY processHang.debugScript.accessKey        "K">
+<!ENTITY processHang.terminatePlugin.label        "Stöðva tengiforrit">
+<!ENTITY processHang.terminatePlugin.accessKey    "ö">
+<!ENTITY processHang.terminateProcess.label       "Stöðva vefþráð">
+<!ENTITY processHang.terminateProcess.accessKey   "ð">
 
-
-
-
-
-
-
-
-
-
-
+<!ENTITY emeLearnMoreContextMenu.label            "Vita meira um DRM…">
+<!ENTITY emeLearnMoreContextMenu.accesskey        "D">
+<!ENTITY emeNotificationsNotNow.label             "Ekki núna">
+<!ENTITY emeNotificationsNotNow.accesskey         "n">
 <!ENTITY emeNotificationsDontAskAgain.label       "Ekki spyrja aftur">
 <!ENTITY emeNotificationsDontAskAgain.accesskey   "E">
 
-
-
+<!ENTITY readingList.label                        "Leslisti">
+<!ENTITY readingList.sidebar.commandKey           "R">
+<!ENTITY readingList.showSidebar.label            "Sýn hliðslá fyrir leslista">
 <!-- Pre-landed string for bug 1124153 -->
+<!ENTITY readingList.sidebar.showMore.label       "Sýna meira…">
 <!-- Pre-landed string for bug 1133662 -->
 <!-- Pre-landed string for bug 1123525 -->
 <!-- Pre-landed strings for bug 1123519 -->
