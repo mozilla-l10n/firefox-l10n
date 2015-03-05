@@ -38,7 +38,7 @@
 <!ENTITY calendar.unifinder.tree.percentcomplete.label     "&#037; completată">
 <!ENTITY calendar.unifinder.tree.percentcomplete.tooltip2  "Sortare după &#037; completat">
 <!ENTITY calendar.unifinder.tree.startdate.label           "Început">
-<!ENTITY calendar.unifinder.tree.startdate.tooltip2        "Sortare după data de începere">
+<!ENTITY calendar.unifinder.tree.startdate.tooltip2        "Sortează după data de începere">
 <!ENTITY calendar.unifinder.tree.enddate.label             "Sfârșit">
 <!ENTITY calendar.unifinder.tree.enddate.tooltip2          "Sortare după data finalizării">
 <!ENTITY calendar.unifinder.tree.duedate.label             "Sfârșit">
@@ -142,7 +142,7 @@
 <!ENTITY calendar.task-details.category.label        "categorie">
 <!ENTITY calendar.task-details.repeat.label          "repetă">
 <!ENTITY calendar.task-details.attachments.label     "atașamente">
-<!ENTITY calendar.task-details.start.label           "data de început">
+<!ENTITY calendar.task-details.start.label           "data de începere">
 <!ENTITY calendar.task-details.due.label             "data de sfârșit">
 
 <!ENTITY calendar.task.category.button.tooltip  "Categorisiți sarcinile">
