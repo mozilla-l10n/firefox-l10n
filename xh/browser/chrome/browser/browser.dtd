@@ -56,21 +56,21 @@ can reach it easily. -->
 
 <!ENTITY tabCmd.label "thebhu entsha">
 <!ENTITY tabCmd.accesskey "t">
-
+<!ENTITY tabCmd.commandkey "t">
 <!-- LOCALIZATION NOTE (openLocationCmd.label): "Open Location" is only
 displayed on OS X, and only on windows that aren't main browser windows, or
 when there are no windows but Firefox is still running. -->
 <!ENTITY openLocationCmd.label "Vula indawo…">
 <!ENTITY openFileCmd.label "Vula ifayile…">
 <!ENTITY openFileCmd.accesskey "V">
-
+<!ENTITY openFileCmd.commandkey "o">
 <!ENTITY printSetupCmd.label "Ukuseta Kwephepha…">
 <!ENTITY printSetupCmd.accesskey "s">
 <!ENTITY printPreviewCmd.label "Imbonakalo yangaphambi kokuprinta">
 <!ENTITY printPreviewCmd.accesskey "m">
 <!ENTITY printCmd.label "Printa…">
 <!ENTITY printCmd.accesskey "P">
-
+<!ENTITY printCmd.commandkey "p">
 
 <!ENTITY goOfflineCmd.label "Sebenza ngaphandle kweIntanethi">
 <!ENTITY goOfflineCmd.accesskey "e">
@@ -104,7 +104,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY exitFullScreenCmd.accesskey "k">
 <!ENTITY fullScreenCmd.label "Isikrini esiZeleyo">
 <!ENTITY fullScreenCmd.accesskey "I">
-
+<!ENTITY fullScreenCmd.macCommandKey "f">
 <!ENTITY showAllTabsCmd.label "Bonisa zonke iithebhu">
 <!ENTITY showAllTabsCmd.accesskey "z">
 
@@ -139,14 +139,14 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksMenu.accesskey "I">
 <!ENTITY bookmarkThisPageCmd.label "Faka ibhukhmakhi kweli khasi">
 <!ENTITY editThisBookmarkCmd.label "Hlela Le Bhukhmakhi">
-
-
+<!ENTITY bookmarkThisPageCmd.commandkey "d">
+<!ENTITY markPageCmd.commandkey "l">
 <!-- LOCALIZATION NOTE (findShareServices.label):
   -  Use the unicode ellipsis char, \u2026,
   -  or use "..." if \u2026 doesn't suit traditions in your locale. -->
 <!ENTITY findShareServices.label "Fumana  iinkonzo ezininzi zoKwabelana…">
 <!ENTITY sharePageCmd.label "Yabelana ngeli khasi">
-
+<!ENTITY sharePageCmd.commandkey "S">
 <!ENTITY sharePageCmd.accesskey "l">
 <!-- LOCALIZATION NOTE (shareLink.accesskey): must be different than the following share access keys -->
 <!ENTITY shareLink.label "Yabelana Ngeli Khonkco">
@@ -174,7 +174,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY reloadCmd.label              "Layisha kwakhona">
 <!ENTITY reloadButton.tooltip         "Layisha kwakhona iphepha langoku">
 <!ENTITY stopCmd.label                "Nqumama">
-
+<!ENTITY stopCmd.macCommandKey        ".">
 <!ENTITY stopButton.tooltip           "Nqumamisa ukulayisha eli phepha">
 <!ENTITY goEndCap.tooltip             "Yiya kwidilesi kwibha yendawo">
 <!ENTITY printButton.label            "Printa">
@@ -189,7 +189,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY tabGroupsButton.label        "Amaqela ethebhu">
 
 <!ENTITY bookmarksButton.label          "Iibhukhmakhi">
-
+<!ENTITY bookmarksCmd.commandkey "b">
 
 
 <!ENTITY viewBookmarksSidebar2.label        "Bona ibha esecaleni yeeBhukhmakhi">
@@ -197,6 +197,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
   -  key should not contain the letters A-F, since these are reserved
   -  shortcut keys on Linux. -->
+
+<!ENTITY bookmarksGtkCmd.commandkey "o">
 
 
 <!ENTITY historyButton.label            "Imbali">
@@ -237,11 +239,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY browserConsoleCmd.accesskey  "I">
 
 <!ENTITY inspectContextMenu.label     "Hlola ielementi">
-
+<!ENTITY inspectContextMenu.accesskey "Q">
 
 <!ENTITY responsiveDesignTool.label   "Imbonakalo yoyilo ephendulayo">
 <!ENTITY responsiveDesignTool.accesskey "e">
-
+<!ENTITY responsiveDesignTool.commandkey "M">
 
 <!ENTITY eyedropper.label   "Isiwisaliso">
 <!ENTITY eyedropper.accesskey "s">
@@ -284,7 +286,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY devToolbar.keytext                "F2">
 <!ENTITY devToolboxMenuItem.label          "Izixhobo zeqhosha elilayita licima">
 <!ENTITY devToolboxMenuItem.accesskey      "z">
-
+<!ENTITY devToolboxMenuItem.keytext        "I">
 
 <!ENTITY devToolbarToolsButton.tooltip     "Izixhobo zomqulunqi zeqhosha elilayita licima">
 <!ENTITY devToolbarOtherToolsButton.label  "Izixhobo ezingaphezulu">
@@ -295,7 +297,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fileMenu.label         "Ifayile"> 
 <!ENTITY fileMenu.accesskey       "I">
 <!ENTITY newNavigatorCmd.label        "Ifestile entsha">
-
+<!ENTITY newNavigatorCmd.key        "N">
 <!ENTITY newNavigatorCmd.accesskey      "I">
 <!ENTITY newPrivateWindow.label     "Ifestile yangasese entsha">
 <!ENTITY newPrivateWindow.accesskey "I">
@@ -303,19 +305,19 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY editMenu.label         "Hlela"> 
 <!ENTITY editMenu.accesskey       "H"> 
 <!ENTITY undoCmd.label            "Lungisa okwenzileyo">  
-
+<!ENTITY undoCmd.key            "Z">  
 <!ENTITY undoCmd.accesskey          "L"> 
 <!ENTITY redoCmd.label            "Phinda wenze">  
-
+<!ENTITY redoCmd.key            "Y">  
 <!ENTITY redoCmd.accesskey          "P"> 
 <!ENTITY cutCmd.label           "Sika">  
-
+<!ENTITY cutCmd.key             "X">  
 <!ENTITY cutCmd.accesskey         "k"> 
 <!ENTITY copyCmd.label            "Kopa">  
-
+<!ENTITY copyCmd.key            "C">  
 <!ENTITY copyCmd.accesskey          "K"> 
 <!ENTITY pasteCmd.label           "Ncamathelisa">  
-
+<!ENTITY pasteCmd.key           "V">  
 <!ENTITY pasteCmd.accesskey         "N"> 
 <!ENTITY deleteCmd.label          "Cima">  
 
@@ -383,8 +385,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY customizeMenu.addMoreItems.label "Yongeza izinto ezingakumbi…">
 <!ENTITY customizeMenu.addMoreItems.accesskey "Y">
 
+<!ENTITY openCmd.commandkey           "l">
 <!ENTITY urlbar.placeholder2          "Khangela okanye ngenisa idilesi">
-
+<!ENTITY urlbar.accesskey             "d">
 <!ENTITY urlbar.switchToTab.label     "Tshintshela kwithebhu:">
 <!-- 
   Comment duplicated from browser-sets.inc:
@@ -407,7 +410,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
  -->
 
-
+<!ENTITY searchFocus.commandkey       "k">
+<!ENTITY searchFocus.commandkey2      "e">
+<!ENTITY searchFocusUnix.commandkey   "j">
 <!-- LOCALIZATION NOTE (searchFor.label, searchWith.label):
      These two strings are used to build the header above the list of one-click
      search providers:  "Search for <used typed keywords> with:" -->
@@ -424,6 +429,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      consider translating it as if it said only "Search Settings". -->
 <!ENTITY changeSearchSettings.button  "Tshintsha iisethingi zokukhangela">
 
+<!ENTITY tabView.commandkey           "e">
 
 <!ENTITY openLinkCmdInTab.label       "Vula ikhonkco kwithebhu entsha">
 <!ENTITY openLinkCmdInTab.accesskey   "k">
@@ -439,13 +445,14 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openFrameCmd.accesskey       "k">
 <!ENTITY showOnlyThisFrameCmd.label     "Bonisa Esi Sakhelo Kuphela">
 <!ENTITY showOnlyThisFrameCmd.accesskey "B">
-
+<!ENTITY reloadCmd.commandkey         "r">
 <!ENTITY reloadFrameCmd.label         "Layisha kwakhona isakhelo">
 <!ENTITY reloadFrameCmd.accesskey     "L">
 <!ENTITY viewPartialSourceForSelectionCmd.label "Jonga umthombo wokhetho">
 <!ENTITY viewPartialSourceForMathMLCmd.label    "Jonga umthombo we-MathML">
 <!-- LOCALIZATION NOTE (viewPartialSourceCmd.accesskey): This accesskey is used for both 
          viewPartialSourceForSelectionCmd.label and viewPartialSourceForMathMLCmd.label -->
+<!ENTITY viewPartialSourceCmd.accesskey "e">
 <!ENTITY viewPageSourceCmd.label      "Jonga umthombo wephepha">
 <!ENTITY viewPageSourceCmd.accesskey  "J">
 <!ENTITY viewFrameSourceCmd.label     "Jonga umthombo wefreyim">
@@ -584,7 +591,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY fullZoomResetCmd.label         "Seta kwakhona">
 <!ENTITY fullZoomResetCmd.accesskey     "S">
-
+<!ENTITY fullZoomResetCmd.commandkey    "0">
 <!ENTITY fullZoomResetCmd.commandkey2   "">
 
 <!ENTITY fullZoomToggleCmd.label        "Yandisa/nciphisa umbhalo kuphela">
@@ -597,15 +604,16 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY quitApplicationCmdWin2.label       "Phuma">
 <!ENTITY quitApplicationCmdWin2.accesskey   "h">
 
-
-
+<!ENTITY goBackCmd.commandKey "[">
+<!ENTITY goForwardCmd.commandKey "]">
 <!ENTITY quitApplicationCmd.label       "Yeka"> 
 <!ENTITY quitApplicationCmd.accesskey   "Y">
 
 <!-- LOCALIZATION NOTE(quitApplicationCmdUnix.key): This keyboard shortcut is used by both Linux and OSX builds. -->
+<!ENTITY quitApplicationCmdUnix.key     "Q">
 
 <!ENTITY closeCmd.label                 "Vala">  
-
+<!ENTITY closeCmd.key                   "W">  
 <!ENTITY closeCmd.accesskey             "V">
 
 <!ENTITY pageStyleMenu.label "Isimbo sephepha">
@@ -725,11 +733,12 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY customizeMode.lwthemes.myThemes "Imixholo yam">
 <!ENTITY customizeMode.lwthemes.recommended "Okucetyisiweyo">
 <!ENTITY customizeMode.lwthemes.menuManage "Lawula">
-
+<!ENTITY customizeMode.lwthemes.menuManage.accessKey "M">
 <!ENTITY customizeMode.lwthemes.menuGetMore "Fumana Neminye Imixholo">
-
+<!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "G">
 <!ENTITY customizeMode.deveditionTheme.label2 "Sebenzisa umxholo wohlelo lomvelisi">
 
+<!ENTITY social.chatBar.commandkey "c">
 <!ENTITY social.chatBar.label "Incoko yengqwalaselo">
 <!ENTITY social.chatBar.accesskey "c">
 
@@ -814,7 +823,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY panicButton.thankyou.msg2                "Ukubhrawuza okukhuselekileyo!">
 <!ENTITY panicButton.thankyou.buttonlabel         "Siyabulela!">
 
-
+<!ENTITY processHang.terminateScript.label        "Yekisa iscript">
+<!ENTITY processHang.terminateScript.accessKey    "Y">
 
 
 
@@ -828,10 +838,15 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY emeNotificationsDontAskAgain.label       "Ungaphindi undibuze">
 <!ENTITY emeNotificationsDontAskAgain.accesskey   "U">
 
-
-
+<!ENTITY readingList.label                        "Uluhlu lokufunda">
+<!ENTITY readingList.sidebar.commandKey           "R">
+<!ENTITY readingList.showSidebar.label            "Bonisa uluhlu lokufunda lwebha esecaleni">
 <!-- Pre-landed string for bug 1124153 -->
+<!ENTITY readingList.sidebar.showMore.label       "Bonisa ngakumbi...">
 <!-- Pre-landed string for bug 1133662 -->
+<!ENTITY readingList.sidebar.emptyText            "Yongezelela amanqaku kuluhlu lwakho lokufunda ukuwagcina mva kwaye nokuwafumana lula xa uwafumana. ">
 <!-- Pre-landed string for bug 1123525 -->
+<!ENTITY readingList.sidebar.delete.tooltip       "Susa le fomu kuluhlu lokufunda">
 <!-- Pre-landed strings for bug 1123519 -->
-
+<!ENTITY readingList.sidebar.add.label            "Yongeza kuluhlu lokufunda">
+<!ENTITY readingList.sidebar.add.tooltip          "Yongeza eli phepha kuluhlu lwakho lokufunda">
