@@ -141,6 +141,8 @@
 <!ENTITY messagePaneVertical.accesskey "V">
 
 
+
+
 <!ENTITY showMessageCmd.label "Boodskappaneel">
 <!ENTITY showMessageCmd.accesskey "B">
 
@@ -578,7 +580,9 @@
 
 <!-- Folder Pane -->
 
-<!ENTITY folderColumn.label "Naam">
+<!ENTITY folderNameColumn.label "Naam">
+
+
 <!ENTITY folderSizeColumn.label "Grootte">
 <!-- Folder Pane Context Menu -->
 
@@ -647,8 +651,8 @@
 <!ENTITY statusColumn.label "Status">
 <!ENTITY sizeColumn.label "Grootte">
 <!ENTITY junkStatusColumn.label "Gemors-status">
-<!ENTITY unreadColumn.label "Ongelees">
-<!ENTITY totalColumn.label "Totaal">
+
+
 <!ENTITY readColumn.label "Lees">
 <!ENTITY receivedColumn.label "Ontvang">
 <!ENTITY starredColumn.label "Gevlag">
