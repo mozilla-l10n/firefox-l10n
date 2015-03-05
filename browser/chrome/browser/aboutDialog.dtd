@@ -34,6 +34,7 @@
 <!-- LOCALIZATION NOTE (community.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
 <!ENTITY community.middle2          ", u">
 <!-- LOCALIZATION NOTE (community.creditsLink): This is a link title that links to about:credits. -->
+<!ENTITY community.creditsLink      "uluntu lwehlabathi jikelele">
 
 
 <!ENTITY helpus.start               "Ufuna ukunceda?">
