@@ -4,7 +4,7 @@
 
 <!ENTITY folderProps.windowtitle.label           "Priodweddau">
 
-<!ENTITY generalInfo.label                       "Gwybodaeth Cyffredinol">
+<!ENTITY generalInfo.label                       "Gwybodaeth Gyffredinol">
 <!ENTITY folderCharsetFallback.label             "Amgodiad Nod Wrth Gefn:">
 <!ENTITY folderCharsetFallback.accesskey         "A">
 <!ENTITY folderCharsetEnforce.label              "Gosod amgodiad i bob neges yn y ffolder (bydd gosodiadau amgodio nodau negeseuon unigol ac awto-ganfod yn cael eu hanwybyddu)">
