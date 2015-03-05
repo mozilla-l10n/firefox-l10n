@@ -81,8 +81,8 @@
 
 
 
-
-
+<!ENTITY  event.menu.view.toolbars.customize.label        "Persumalisar…">
+<!ENTITY  event.menu.view.toolbars.customize.accesskey    "P">
 
 
 
@@ -172,8 +172,8 @@
 
 
 
-
-
+<!ENTITY event.attachments.popup.open.label               "Avrir" >
+<!ENTITY event.attachments.popup.open.accesskey           "A" >
 
 
 

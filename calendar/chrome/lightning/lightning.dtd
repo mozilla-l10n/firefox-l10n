@@ -6,44 +6,59 @@
    - your editor isn't using UTF-8 encoding and may munge up the document!
   -->
 <!-- Tools menu -->
+
+
+<!ENTITY lightning.preferencesLabel "Chalender">
 <!-- New menu popup in File menu -->
 
-
-
-
-
+<!ENTITY lightning.menupopup.new.event.label    "Occurrenza…">
+<!ENTITY lightning.menupopup.new.event.accesskey "O">
+<!ENTITY lightning.menupopup.new.task.label     "Pensum…">
+<!ENTITY lightning.menupopup.new.task.accesskey "P">
+<!ENTITY lightning.menupopup.new.calendar.label "Chalendar…">
+<!ENTITY lightning.menupopup.new.calendar.accesskey "n">
 <!-- Open menu popup in File menu -->
 
-
-
-
-
+<!ENTITY lightning.menupopup.open.label               "Avrir">
+<!ENTITY lightning.menupopup.open.accesskey           "A">
+<!ENTITY lightning.menupopup.open.message.label       "Messadi memorisà…">
+<!ENTITY lightning.menupopup.open.message.accesskey   "m">
+<!ENTITY lightning.menupopup.open.calendar.label      "Datoteca da chalender…">
+<!ENTITY lightning.menupopup.open.calendar.accesskey  "c">
 <!-- View Menu -->
 
-
-
+<!ENTITY lightning.menu.view.calendar.label            "Chalender">
+<!ENTITY lightning.menu.view.calendar.accesskey        "n">
+<!ENTITY lightning.menu.view.tasks.label               "Pensums">
+<!ENTITY lightning.menu.view.tasks.accesskey           "u">
 <!-- Events and Tasks menu -->
 
+<!ENTITY lightning.menu.eventtask.label                "Ocurrenzas e pensums">
+<!ENTITY lightning.menu.eventtask.accesskey            "r">
 <!-- properties dialog, calendar creation wizard -->
+
+<!ENTITY lightning.calendarproperties.email.label               "E-Mail:">
 <!-- iMIP Bar (meeting support) -->
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY lightning.imipbar.btnAccept.label                                  "Acceptar">
+<!ENTITY lightning.imipbar.btnAccept2.tooltiptext                           "Acceptar l'invitaziun a l'occurrenza">
+<!ENTITY lightning.imipbar.btnAcceptRecurrences.label                       "Acceptar tuts">
+<!ENTITY lightning.imipbar.btnAcceptRecurrences2.tooltiptext                "Acceptar l'invitaziun per mintga eveniment da questa occurrenza">
+<!ENTITY lightning.imipbar.btnAdd.label                                     "Agiuntar">
+<!ENTITY lightning.imipbar.btnAdd.tooltiptext                               "Agiuntar l'occurrenzas al chalender">
+<!ENTITY lightning.imipbar.btnDecline.label                                 "Refusar">
+<!ENTITY lightning.imipbar.btnDecline2.tooltiptext                          "Refusar l'invit a l'occurrenza">
+<!ENTITY lightning.imipbar.btnDeclineRecurrences.label                      "Refusar tuts">
+<!ENTITY lightning.imipbar.btnDeclineRecurrences2.tooltiptext               "Refusar l'invitaziun per mintga eveniment da questa occurrenza">
+<!ENTITY lightning.imipbar.btnDelete.label                                  "Stizzar">
+<!ENTITY lightning.imipbar.btnDelete.tooltiptext                            "Stizzar dal chalender">
+<!ENTITY lightning.imipbar.btnDetails.label                                 "Detagls…">
+<!ENTITY lightning.imipbar.btnDetails.tooltiptext                           "Mussar ils detagls da l'occurrenza">
+<!ENTITY lightning.imipbar.btnMore.label                                    "Dapli">
+<!ENTITY lightning.imipbar.btnMore.tooltiptext                              "Cliccar qua per mussar ulteriuras opziuns">
+<!ENTITY lightning.imipbar.btnReconfirm2.label                              "Re-confermar">
+<!ENTITY lightning.imipbar.btnReconfirm.tooltiptext                         "Trametta ina re-conferma a l'organisatur">
+<!ENTITY lightning.imipbar.btnSaveCopy.label                                "Memorisar ina copia">
 
 
 

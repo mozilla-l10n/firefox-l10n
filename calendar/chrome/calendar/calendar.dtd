@@ -3,6 +3,8 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!-- General -->
 
+<!ENTITY calendar.calendar.label     "Chalender">
+<!ENTITY calendar.calendar.accesskey "C">
 
 
 
@@ -67,6 +69,12 @@
 
 
 
+<!ENTITY calendar.navigation.nextday.tooltip    "In di enavant" >
+
+
+
+<!ENTITY calendar.navigation.nextmonth.tooltip  "In mais enavant" >
+<!ENTITY calendar.navigation.prevmonth.tooltip  "In mais enavos" >
 
 
 
@@ -85,16 +93,12 @@
 
 
 
+<!ENTITY calendar.list.header.label                 "Chalender">
 
 
 
-
-
-
-
-
-
-
+<!ENTITY calendar.task.filter.today.label           "Oz">
+<!ENTITY calendar.task.filter.today.accesskey       "O">
 
 
 
@@ -131,6 +135,8 @@
 
 <!-- Context Menu -->
 
+<!ENTITY calendar.context.modifyorviewitem.label      "Avrir">
+<!ENTITY calendar.context.modifyorviewitem.accesskey  "A">
 
 
 
@@ -191,6 +197,8 @@
 <!-- Task View -->
 <!-- Note that the above *.context.* strings are currently used for the other
      task action buttons -->
+
+<!ENTITY calendar.taskview.delete.label     "Stizzar">
 <!-- Server Context Menu -->
 
 
@@ -221,12 +229,12 @@
 
 
 
+<!ENTITY calendar.context.convertmenu.event.label        "Occurrenza…">
+<!ENTITY calendar.context.convertmenu.event.accesskey    "O">
 
 
-
-
-
-
+<!ENTITY calendar.context.convertmenu.task.label         "Pensum…">
+<!ENTITY calendar.context.convertmenu.task.accesskey     "P">
 
 
 
