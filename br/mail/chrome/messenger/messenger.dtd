@@ -596,7 +596,7 @@
 <!-- Folder Pane -->
 
 <!ENTITY folderNameColumn.label "Anv">
-
+<!ENTITY folderUnreadColumn.label "Anlennet">
 
 <!ENTITY folderSizeColumn.label "Ment">
 <!-- Folder Pane Context Menu -->

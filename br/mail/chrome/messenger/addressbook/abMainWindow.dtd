@@ -4,7 +4,7 @@
 
 <!ENTITY addressbookWindow.title                        "Karned chomlec'hioù">
 
-
+<!ENTITY localResultsOnlyMessage.label                  "Ne vo ket diskouezet an darempredoù o tont eus karnedoù chomlec'hioù a-bell a-raok ma vefe klasket">
 <!-- File Menu -->
 <!ENTITY fileMenu.label                                 "Restr">
 <!ENTITY fileMenu.accesskey                             "R">
@@ -161,6 +161,8 @@ because displayed names don't have the comma in between. -->
 <!ENTITY searchItem.title "Klask prim">
 <!-- Results Pane -->
 
+<!ENTITY Addrbook.label                                 "Karned chomlec'hioù…">
+<!ENTITY Addrbook.accesskey                             "c">
 <!ENTITY GeneratedName.label                            "Anv">
 <!ENTITY GeneratedName.accesskey                        "A">
 <!ENTITY PrimaryEmail.label                             "Postel">
