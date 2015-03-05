@@ -6,14 +6,21 @@
    - your editor isn't using UTF-8 encoding and may munge up the document!
   -->
 <!-- Tools menu -->
+
+
+<!ENTITY lightning.preferencesLabel "Deiziataer">
 <!-- New menu popup in File menu -->
 
+<!ENTITY lightning.menupopup.new.event.label    "Darvoud...">
+<!ENTITY lightning.menupopup.new.event.accesskey "D">
 
 
 
 
 <!-- Open menu popup in File menu -->
 
+<!ENTITY lightning.menupopup.open.label               "Digeriñ">
+<!ENTITY lightning.menupopup.open.accesskey           "D">
 
 
 
@@ -35,7 +42,7 @@
 
 
 
-
+<!ENTITY lightning.imipbar.btnDelete.label                                  "Dilemel">
 
 
 

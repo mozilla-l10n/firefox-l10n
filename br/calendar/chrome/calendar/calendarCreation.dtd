@@ -4,13 +4,15 @@
 
 
 
+<!ENTITY initialpage.computer.label  "War va urzhiataer">
+<!ENTITY initialpage.network.label  "War ar rouedad">
 
+<!ENTITY locationpage.login.description   "Diret : enlakait un anv implijer hag ur ger-tremen" >
+<!ENTITY locationpage.username.label      "Anv implijer :" >
+<!ENTITY locationpage.password.label      "Anv implijer :" >
 
+<!ENTITY custompage.shortdescription  "Personelait ho teiziataer" >
+<!ENTITY custompage.longdescription   "Tu zo deoc'h reiñ ul lesanv d'ho teiziataer ha livañ an darvoudoù o tont dioutañ. " >
 
-
-
-
-
-
-
-
+<!ENTITY finishpage.shortdescription  "Krouet an deiziataer" >
+<!ENTITY finishpage.longdescription   "Krouet eo bet ho teiziataer." >

@@ -5,13 +5,16 @@
 
 
 
-
-
-
-
+<!ENTITY lightning.toolbar.sync.label "Goubredañ">
+<!ENTITY lightning.toolbar.delete.label "Dilemel">
+<!ENTITY lightning.toolbar.edit.label "Embann">
+<!ENTITY lightning.toolbar.gototoday.label "Mont d'an deiz a hiziv">
+<!ENTITY lightning.toolbar.print.label "Moullañ">
 <!-- Mode Toolbar -->
 
+<!ENTITY lightning.toolbar.calendar.label     "Deiziataer">
 
+<!ENTITY lightning.toolbar.calendar.accesskey "D">
 
 
 
@@ -23,8 +26,8 @@
 
 
 
-
-
+<!ENTITY lightning.toolbar.month.label               "Miz">
+<!ENTITY lightning.toolbar.month.accesskey           "M">
 <!-- LOCALIZATION NOTE: the same as appmenuButton.label and appmenuButton1.tooltip
      from messenger.dtd -->
 
