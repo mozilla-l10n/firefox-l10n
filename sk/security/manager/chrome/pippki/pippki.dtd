@@ -15,11 +15,6 @@
 <!ENTITY resetPassword.title "Vymazať hlavné heslo">
 <!ENTITY resetPassword.text "Ak vymažete svoje hlavné heslo, všetky uložené heslá, údaje formulárov, osobné certifikáty a súkromné kľúče budú vymazané. Naozaj chcete vymazať svoje hlavné heslo?">
 
-<!-- Values for getpassword.xul -->
-<!ENTITY getPassword.title "Zadajte hlavné heslo">
-<!ENTITY getPassword.tokenName2.label "Bezpečnostné zariadenie:">
-<!ENTITY getPassword.password.label "Heslo:">
-
 <!-- Downloading a cert -->
 <!ENTITY downloadCert.title "Preberá sa certifikát">
 <!ENTITY downloadCert.message1 "Vyžaduje sa dôverovať novej certifikačnej autorite.">
