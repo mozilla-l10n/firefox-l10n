@@ -843,7 +843,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY emeLearnMoreContextMenu.accesskey        "D">
 <!ENTITY emeNotificationsNotNow.label             "এই মুহূর্তে নয়(N)">
 <!ENTITY emeNotificationsNotNow.accesskey         "N">
-<!ENTITY emeNotificationsDontAskAgain.label       "পুনরায় জিজ্ঞাসা করা হবে না (D)">
+<!ENTITY emeNotificationsDontAskAgain.label       "পুনরায় জিজ্ঞাসা করবেন না ">
 <!ENTITY emeNotificationsDontAskAgain.accesskey   "D">
 
 <!ENTITY readingList.label                        "পড়ার তালিকা">

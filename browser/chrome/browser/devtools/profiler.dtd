@@ -46,16 +46,18 @@
 <!ENTITY profilerUI.toolbar.waterfall "সময় রেখা">
 <!ENTITY profilerUI.toolbar.js-calltree "JavaScript">
 <!ENTITY profilerUI.toolbar.memory-calltree "মেমোরি">
-
-
+<!ENTITY profilerUI.toolbar.js-flamegraph "JS ফ্লেম চার্ট">
+<!ENTITY profilerUI.toolbar.memory-flamegraph "মেমোরি ফ্লেম চার্ট">
 <!-- LOCALIZATION NOTE (profilerUI.table.*): These strings are displayed
   -  in the call tree headers for a recording. -->
 
+<!ENTITY profilerUI.table.totalDuration2  "সর্বমোট সময়">
+<!ENTITY profilerUI.table.selfDuration2   "নিজস্ব সময়">
 <!ENTITY profilerUI.table.totalPercentage "মোট দাম">
 <!ENTITY profilerUI.table.selfPercentage  "নিজস্ব দাম">
 <!ENTITY profilerUI.table.samples         "নমুনা">
-
-
+<!ENTITY profilerUI.table.totalAlloc      "সর্বমোট বরাদ্দ">
+<!ENTITY profilerUI.table.selfAlloc       "নিজস্ব বরাদ্দ">
 <!ENTITY profilerUI.table.function        "ফাংশন">
 <!-- LOCALIZATION NOTE (profilerUI.newtab.tooltiptext): The tooltiptext shown
   -  on the "+" (new tab) button for a profile when a selection is available. -->
@@ -63,6 +65,8 @@
 <!ENTITY profilerUI.newtab.tooltiptext "নির্বাচন থেকে নতুন ট্যাব যোগ করুন">
 <!-- LOCALIZATION NOTE (profilerUI.options.tooltiptext): This is the tooltip
   -  for the options button. -->
+
+<!ENTITY profilerUI.options.tooltiptext "পারফরম্যান্সের পছন্দসমূহ কনফিগার করুন।">
 <!-- LOCALIZATION NOTE (profilerUI.invertTree): This is the label shown next to
   -  a checkbox that inverts and un-inverts the profiler's call tree. -->
 
@@ -71,9 +75,13 @@
 <!-- LOCALIZATION NOTE (profilerUI.invertFlameGraph): This is the label shown next to
   -  a checkbox that inverts and un-inverts the profiler's flame graph. -->
 
+<!ENTITY profilerUI.invertFlameGraph             "ফ্লেম চার্ট ইনভার্ট করুন">
+<!ENTITY profilerUI.invertFlameGraph.tooltiptext "প্রোফাইলের কল পাথের কনিষ্ঠ ফ্রেম থেকে শুরু এবং বয়স্ক ফ্রেম আউট পর্যন্ত বিস্তৃত কল ট্রী প্রদর্শন ইনভার্টা করা হচ্ছে।">
 <!-- LOCALIZATION NOTE (profilerUI.showPlatformData): This is the
   -  label for the checkbox that toggles whether or not Gecko platform data
   -  is displayed in the profiler. -->
+
+<!ENTITY profilerUI.showPlatformData             "Gecko প্ল্যাটফর্ম ডাটা দেখান">
 
 <!-- LOCALIZATION NOTE (profilerUI.flattenTreeRecursion): This is the
   -  label for the checkbox that toggles the flattening of tree recursion in inspected
