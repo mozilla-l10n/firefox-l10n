@@ -599,12 +599,13 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY quitApplicationCmdWin2.label       "Afsluit">
 <!ENTITY quitApplicationCmdWin2.accesskey   "s">
 <!ENTITY quitApplicationCmdWin2.tooltip     "Sluit &brandShorterName; af">
-
-
+<!ENTITY goBackCmd.commandKey "[">
+<!ENTITY goForwardCmd.commandKey "]">
 <!ENTITY quitApplicationCmd.label       "Afsluit"> 
 <!ENTITY quitApplicationCmd.accesskey   "A">
 <!ENTITY quitApplicationCmdMac2.label   "Sluit &brandShorterName; af">
 <!-- LOCALIZATION NOTE(quitApplicationCmdUnix.key): This keyboard shortcut is used by both Linux and OSX builds. -->
+<!ENTITY quitApplicationCmdUnix.key     "Q">
 
 <!ENTITY closeCmd.label                 "Sluit">  
 
@@ -731,6 +732,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY customizeMode.deveditionTheme.label2 "Gebruik die Ontwikkelaars-uitgawe se tema">
 
+<!ENTITY social.chatBar.commandkey "c">
 
 
 
@@ -829,10 +831,15 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY emeNotificationsDontAskAgain.label       "Moenie my weer vra nie">
 <!ENTITY emeNotificationsDontAskAgain.accesskey   "M">
 
-
-
+<!ENTITY readingList.label                        "Leeslys">
+<!ENTITY readingList.sidebar.commandKey           "L">
+<!ENTITY readingList.showSidebar.label            "Wys kantbalk met leeslys">
 <!-- Pre-landed string for bug 1124153 -->
+<!ENTITY readingList.sidebar.showMore.label       "Wys meer…">
 <!-- Pre-landed string for bug 1133662 -->
+<!ENTITY readingList.sidebar.emptyText            "Stoor artikels in die leeslys om dit later maklik te kry wanneer nodig.">
 <!-- Pre-landed string for bug 1123525 -->
+<!ENTITY readingList.sidebar.delete.tooltip       "Verwyder dié uit die leeslys">
 <!-- Pre-landed strings for bug 1123519 -->
-
+<!ENTITY readingList.sidebar.add.label            "Voeg by leeslys">
+<!ENTITY readingList.sidebar.add.tooltip          "Voeg dié bladsy by die leeslys">
