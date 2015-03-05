@@ -4,7 +4,7 @@
 
 <!ENTITY accountWindow.title           "Proprietăți cont">
 <!ENTITY accountWindow.width           "300">
-<!ENTITY account.general               "General">
+<!ENTITY account.general               "Generale">
 <!ENTITY account.advanced              "Opțiuni avansate">
 <!ENTITY account.name                  "Nume utilizator: ">
 <!ENTITY account.password              "Parola:">
