@@ -1,6 +1,8 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY minimizeWindow.key       "m">
 <!ENTITY minimizeWindow.label     "Nciphisa">
 <!ENTITY bringAllToFront.label    "Zisa konke ngaphambili">
 <!ENTITY zoomWindow.label         "Sondeza kufutshane">
@@ -15,7 +17,7 @@
 
 
 
-
+<!ENTITY helpMac.commandkey       "?">
 
 <!ENTITY helpKeyboardShortcuts.label     "Izinqumleli zekhibhodi">
 <!ENTITY helpKeyboardShortcuts.accesskey "I">
@@ -34,13 +36,13 @@
 
 
 <!ENTITY preferencesCmdMac.label        "Izikhethwa…">
-
+<!ENTITY preferencesCmdMac.commandkey   ",">
 
 <!ENTITY servicesMenuMac.label          "Iinkonzo">
 
-
+<!ENTITY hideThisAppCmdMac2.commandkey  "H">
 
 <!ENTITY hideOtherAppsCmdMac.label      "Fihla ezinye">
-
+<!ENTITY hideOtherAppsCmdMac.commandkey "H">
 
 <!ENTITY showAllAppsCmdMac.label        "Bonisa Konke">
