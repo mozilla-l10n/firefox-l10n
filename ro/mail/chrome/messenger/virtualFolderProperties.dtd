@@ -10,7 +10,7 @@
 
 <!ENTITY searchTermCaption.label "Configurați criteriul de căutare folosit pentru acest dosar:">
 
-<!ENTITY folderSelectionCaption.label "Selectați dosarele în care se caută:">
+<!ENTITY folderSelectionCaption.label "Selectați dosarele în care se caută: ">
 <!ENTITY chooseFoldersButton.label "Alege…">
 <!ENTITY chooseFoldersButton.accesskey "A">
 

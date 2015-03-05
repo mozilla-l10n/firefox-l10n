@@ -428,8 +428,8 @@
 <!ENTITY openConversationCmd.key "e">
 <!ENTITY openAttachmentListCmd.label "Atașamente">
 <!ENTITY openAttachmentListCmd.accesskey "t">
-<!ENTITY openFeedMessage1.label "When Opening Feed Messages">
-<!ENTITY openFeedMessage1.accesskey "O">
+<!ENTITY openFeedMessage1.label "Când deschideți mesajele fluxului">
+<!ENTITY openFeedMessage1.accesskey "h">
 <!ENTITY openFeedWebPage.label "Deschide ca pagină web">
 <!ENTITY openFeedWebPage.accesskey "w">
 <!ENTITY openFeedSummary.label "Deschide ca sumar">
@@ -537,8 +537,8 @@
 <!ENTITY replyAllButton.tooltip "Răspunde expeditorului și tuturor destinatarilor">
 <!ENTITY replyListButton.tooltip "Răspunde listei de discuții">
 <!ENTITY forwardButton.tooltip "Înaintează mesajul selectat">
-<!ENTITY forwardAsInline.tooltip "Forward selected message as inline text">
-<!ENTITY forwardAsAttachment.tooltip "Forward selected message as an attachment">
+<!ENTITY forwardAsInline.tooltip "Redirecționează ca text intercalat mesajul selectat">
+<!ENTITY forwardAsAttachment.tooltip "Redirecționează ca un atașament mesajul selectat">
 <!ENTITY fileButton.tooltip "Îndosariază mesajul selectat">
 <!ENTITY archiveButton.tooltip "Arhivează mesajele selectate">
 <!ENTITY nextButton.tooltip "Trece la următorul mesaj necitit">

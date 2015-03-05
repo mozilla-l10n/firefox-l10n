@@ -5,9 +5,9 @@
 
 <!ENTITY mailListWindow.title           "Listă de expediție">
 <!-- Labels -->
-<!ENTITY addToAddressBook.label         "Adaugă la:">
+<!ENTITY addToAddressBook.label         "Adaugă la: ">
 
-<!ENTITY ListName.label                 "Numele listei:">
+<!ENTITY ListName.label                 "Numele listei: ">
 <!ENTITY ListNickName.label             "Nume scurt:">
 <!ENTITY ListDescription.label          "Descriere:">
 <!-- See bug 58485, when we implement drag and drop, add 'or drag addresses' back in -->
