@@ -15,7 +15,7 @@
                                                                 inside the private browsing mode -->
 <!ENTITY mainWindow.titlePrivateBrowsingSuffix "(Navigare fără urme)">
 
-<!ENTITY appmenu.tooltip                     "Deschide meniu">
+<!ENTITY appmenu.tooltip                     "Deschide meniul">
 <!ENTITY navbarOverflow.label                "Mai multe unelte...">
 <!-- Tab context menu -->
 
@@ -173,7 +173,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY backForwardButtonMenu.tooltip "Clic dreapta sau trageți în jos pentru a vedea istoricul">
 <!ENTITY backForwardButtonMenuMac.tooltip "Trageți în jos pentru a vedea istoricul">
 <!ENTITY reloadCmd.label              "Reîncarcă">
-<!ENTITY reloadButton.tooltip         "Reîncarcă pagina curentă">
+<!ENTITY reloadButton.tooltip         "Reîncarcă pagina actuală">
 <!ENTITY stopCmd.label                "Oprește">
 <!ENTITY stopCmd.macCommandKey        ".">
 <!ENTITY stopButton.tooltip           "Oprește încărcarea acestei pagini">
@@ -358,15 +358,15 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllHistoryCmd.commandkey "H">
 
 <!ENTITY appMenuCustomize.label "Personalizare">
-<!ENTITY appMenuCustomize.tooltip "Personalizați meniul și bara de unelte">
+<!ENTITY appMenuCustomize.tooltip "Personalizează meniul și bara de unelte">
 <!ENTITY appMenuCustomizeExit.label "Ieșire din personalizare">
-<!ENTITY appMenuCustomizeExit.tooltip "Finalizare personalizare">
+<!ENTITY appMenuCustomizeExit.tooltip "Finalizează personalizarea">
 <!ENTITY appMenuHistory.label "Istoric">
 <!ENTITY appMenuHistory.showAll.label "Arată tot istoricul">
 <!ENTITY appMenuHistory.clearRecent.label "Curăță istoricul recent…">
 <!ENTITY appMenuHistory.restoreSession.label "Restaurează sesiunea anterioară">
 <!ENTITY appMenuHistory.viewSidebar.label "Vezi bara laterală cu istoricul">
-<!ENTITY appMenuHelp.tooltip "Deschidere meniu Ajutor">
+<!ENTITY appMenuHelp.tooltip "Deschide meniul Ajutor">
 
 <!ENTITY customizeMenu.addToToolbar.label "Adaugă la bara de unelte">
 <!ENTITY customizeMenu.addToToolbar.accesskey "A">
