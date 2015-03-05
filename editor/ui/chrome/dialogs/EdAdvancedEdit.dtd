@@ -3,10 +3,10 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY WindowTitle.label              "Editor avansat proprietăți">
-<!ENTITY AttName.label                  "Atribut:">
-<!ENTITY AttValue.label                 "Valoare:">
-<!ENTITY PropertyName.label             "Proprietate:">
-<!ENTITY currentattributesfor.label     "Atribute curente pentru:">
+<!ENTITY AttName.label                  "Atribut: ">
+<!ENTITY AttValue.label                 "Valoare: ">
+<!ENTITY PropertyName.label             "Proprietate: ">
+<!ENTITY currentattributesfor.label     "Atribute curente pentru: ">
 <!ENTITY tree.attributeHeader.label     "Atribut">
 <!ENTITY tree.propertyHeader.label      "Proprietate">
 <!ENTITY tree.valueHeader.label         "Valoare">

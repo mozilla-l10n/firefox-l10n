@@ -19,8 +19,8 @@
 <!ENTITY smtpListSetDefault.label "Implicit">
 <!ENTITY smtpListSetDefault.accesskey "I">
 
-<!ENTITY serverDescription.label "Descriere:">
-<!ENTITY serverName.label "Nume server:">
+<!ENTITY serverDescription.label "Descriere: ">
+<!ENTITY serverName.label "Nume server: ">
 <!ENTITY serverPort.label "Port: ">
 <!ENTITY userName.label   "Nume utilizator:">
 <!ENTITY connectionSecurity.label "Securitatea conexiunii: ">

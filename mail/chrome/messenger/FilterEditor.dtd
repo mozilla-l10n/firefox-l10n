@@ -31,7 +31,7 @@
 <!ENTITY filterActionDesc.label "Efectuează următoarele acțiuni:">
 <!ENTITY filterActionDesc.accesskey "E">
 
-<!ENTITY filterActionOrderWarning.label "Note: Filter actions will be run in a different order.">
+<!ENTITY filterActionOrderWarning.label "Notă: Acțiunile filtrului vor fi executate într-o ordine diferită.">
 <!ENTITY filterActionOrder.label "Vedeți ordinea de execuție">
 <!-- New Style Filter Rule Actions -->
 

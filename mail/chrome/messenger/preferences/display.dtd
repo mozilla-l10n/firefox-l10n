@@ -26,7 +26,7 @@
 <!ENTITY convertEmoticons.accesskey    "A">
 <!-- labels -->
 
-<!ENTITY displayTagsText.label     "Etichetele pot fi folosite pentru a organiza mesajele dumneavoastră pe categorii și după priorități. ">
+<!ENTITY displayTagsText.label     "Etichetele pot fi folosite pentru a organiza mesajele dumneavoastră pe categorii și după priorități.">
 <!ENTITY addTagButton.label        "Adaugă">
 <!ENTITY addTagButton.accesskey    "A">
 <!ENTITY editTagButton.label       "Modifică">

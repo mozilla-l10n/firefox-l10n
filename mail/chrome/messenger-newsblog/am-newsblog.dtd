@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY biffStart.label "Verifică disponibilitatea articolelor noi la fiecare">
+<!ENTITY biffStart.label "Verifică disponibilitatea articolelor noi la fiecare ">
 <!ENTITY biffStart.accesskey "V">
 <!ENTITY biffEnd.label "minute">
 
