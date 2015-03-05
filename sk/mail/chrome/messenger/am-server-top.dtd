@@ -73,7 +73,7 @@
 <!ENTITY abbreviateOff.label "Skratky (napr. 'n.p.m.mail-news')">
 <!ENTITY advancedButton.label "Pokročilé…">
 <!ENTITY advancedButton.accesskey "i">
-<!ENTITY serverDefaultCharset.label "Štandardné kódovanie:">
+<!ENTITY serverDefaultCharset2.label "Štandardné kódovanie textu:">
 <!ENTITY localPath.label "Lokálny priečinok:">
 <!ENTITY localFolderPicker.label "Výber lokálneho priečinka">
 <!ENTITY browseFolder.label "Prehľadávať…">
