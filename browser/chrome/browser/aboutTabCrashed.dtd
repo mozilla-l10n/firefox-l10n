@@ -2,10 +2,10 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY tabCrashed.header "Bad news first: This tab has crashed">
-<!ENTITY tabCrashed.message "Now for the good news: You can just close this tab, restore it or restore all your crashed tabs.">
-<!ENTITY tabCrashed.sendReport "Submit a crash report to help prevent more bad news">
-<!ENTITY tabCrashed.reportSent "Crash report already submitted; thank you for helping make &brandShortName; better!">
-<!ENTITY tabCrashed.closeTab "Close This Tab">
-<!ENTITY tabCrashed.restoreTab "Restore This Tab">
-<!ENTITY tabCrashed.restoreAll "Restore All Crashed Tabs">
+<!ENTITY tabCrashed.header "Спочатку погані новини: Ця вкладка впала">
+<!ENTITY tabCrashed.message "Тепер хороші новини: Ви можете просто закрити цю вкладку, а потім відновити її або відновити всі вкладки, які впали.">
+<!ENTITY tabCrashed.sendReport "Надіслати звіт про падіння, щоб допомогти запобігти поганим новинам">
+<!ENTITY tabCrashed.reportSent "Звіт про падіння надіслано; дякуємо вам за те, що допомагаєте зробити &brandShortName; кращим!">
+<!ENTITY tabCrashed.closeTab "Закрити цю вкладку">
+<!ENTITY tabCrashed.restoreTab "Відновити цю вкладку">
+<!ENTITY tabCrashed.restoreAll "Відновити всі вкладки, які впали">
