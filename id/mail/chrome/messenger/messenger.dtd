@@ -443,7 +443,7 @@
 
 <!ENTITY tasksMenu.label "Alat">
 <!ENTITY tasksMenu.accesskey "A">
-<!ENTITY messengerCmd.label "Email &amp; Newsgroup">
+<!ENTITY messengerCmd.label "E&amp;mail  Newsgroup">
 <!ENTITY messengerCmd.accesskey "m">
 <!ENTITY addressBookCmd.label "Buku Alamat">
 <!ENTITY addressBookCmd.accesskey "A">

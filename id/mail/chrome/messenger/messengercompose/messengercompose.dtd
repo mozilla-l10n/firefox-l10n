@@ -176,7 +176,7 @@
 
 <!ENTITY tasksMenu.label "Alat">
 <!ENTITY tasksMenu.accesskey "A">
-<!ENTITY messengerCmd.label "Email &amp; Newsgroup">
+<!ENTITY messengerCmd.label "E&amp;mail  Newsgroup">
 <!ENTITY messengerCmd.accesskey "m">
 <!ENTITY messengerCmd.commandkey "1">
 <!ENTITY addressBookCmd.label "Buku Alamat">
