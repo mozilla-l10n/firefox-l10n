@@ -7,6 +7,8 @@
 
 <!-- Calendar Invitations List -->
 
+<!ENTITY calendar.invitations.list.accept.button.label                  "Acceptar">
+<!ENTITY calendar.invitations.list.decline.button.label                 "Refusar">
 
 
 

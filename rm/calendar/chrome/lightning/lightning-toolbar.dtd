@@ -2,33 +2,43 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY lightning.toolbar.calendar.name "Trav d'utensils dal chalender">
+<!ENTITY lightning.toolbar.calendar.name.accesskey "C">
+<!ENTITY lightning.toolbar.task.name "Trav d'utensils da pensums">
+<!ENTITY lightning.toolbar.task.name.accesskey "T">
 
-
-
-
-
-
-
+<!ENTITY lightning.toolbar.sync.label "Sincronisar">
+<!ENTITY lightning.toolbar.delete.label "Stizzar">
+<!ENTITY lightning.toolbar.edit.label "Modifitgar">
+<!ENTITY lightning.toolbar.gototoday.label "Oz">
+<!ENTITY lightning.toolbar.print.label "Stampar">
 <!-- Mode Toolbar -->
 
-
-
-
-
+<!ENTITY lightning.toolbar.calendar.label     "Chalender">
+<!ENTITY lightning.toolbar.calendar.tooltip   "Midar al tab dal chalender">
+<!ENTITY lightning.toolbar.calendar.accesskey "C">
+<!ENTITY lightning.toolbar.task.label         "Pensums">
+<!ENTITY lightning.toolbar.task.tooltip       "Midar al tab da pensums">
+<!ENTITY lightning.toolbar.task.accesskey     "P">
 <!-- Toolbar write button -->
 
+<!ENTITY lightning.toolbar.newevent.label     "Occurrenza">
+<!ENTITY lightning.toolbar.newtask.label      "Pensum">
 <!-- Calendar and Task Mode Toolbar -->
 
-
-
-
-
-
-
+<!ENTITY lightning.toolbar.day.label                 "Di">
+<!ENTITY lightning.toolbar.day.accesskey             "D">
+<!ENTITY lightning.toolbar.week.label                "Emna">
+<!ENTITY lightning.toolbar.week.accesskey            "E">
+<!ENTITY lightning.toolbar.multiweek.label           "Pliras emnas">
+<!ENTITY lightning.toolbar.multiweek.accesskey       "e">
+<!ENTITY lightning.toolbar.month.label               "Mais">
+<!ENTITY lightning.toolbar.month.accesskey           "M">
 <!-- LOCALIZATION NOTE: the same as appmenuButton.label and appmenuButton1.tooltip
      from messenger.dtd -->
-
-
-
-
-
+<!ENTITY lightning.toolbar.appmenuButton.label       "Menu cumpact">
+<!ENTITY lightning.toolbar.appmenuButton1.tooltip    "Mussar il menu da &brandShortName;">
+<!ENTITY lightning.toolbar.calendarmenu.label        "Trav da chalender">
+<!ENTITY lightning.toolbar.calendarmenu.accesskey    "v">
+<!ENTITY lightning.toolbar.calendarpane.label        "Mussar la tav da chalender">
+<!ENTITY lightning.toolbar.calendarpane.accesskey    "P">

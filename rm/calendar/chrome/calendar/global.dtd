@@ -8,18 +8,20 @@
 <!-- LOCALIZATION NOTE : Accesskeys for day.1.Ddd to day.7.Ddd are currently
      only used in Preferences > Views > Workweek groupbox -->
 
-
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY day.1.Ddd "Du" >
+<!ENTITY day.1.Ddd.accesskey "D">
+<!ENTITY day.2.Ddd "Gli" >
+<!ENTITY day.2.Ddd.accesskey "G">
+<!ENTITY day.3.Ddd "Ma" >
+<!ENTITY day.3.Ddd.accesskey "M">
+<!ENTITY day.4.Ddd "Me" >
+<!ENTITY day.4.Ddd.accesskey "M">
+<!ENTITY day.5.Ddd "Gie" >
+<!ENTITY day.5.Ddd.accesskey "G">
+<!ENTITY day.6.Ddd "Ve" >
+<!ENTITY day.6.Ddd.accesskey "V">
+<!ENTITY day.7.Ddd "So" >
+<!ENTITY day.7.Ddd.accesskey "S">
 
 <!ENTITY day.1.name "Dumengia" >
 <!ENTITY day.2.name "Gliendisdi" >
@@ -42,8 +44,9 @@
 <!ENTITY month.11.name "November" >
 <!ENTITY month.12.name "December" >
 
-
-
-
-
-
+<!ENTITY onemonthbackward.tooltip "In mais enavos" >
+<!ENTITY onemonthforward.tooltip "In mais enavant" >
+<!ENTITY showToday.tooltip "Ir ad oz">
+<!ENTITY onedayforward.tooltip "In di enavant">
+<!ENTITY onedaybackward.tooltip "In di enavos">
+<!ENTITY showselectedday.tooltip "Mussar occurrenzas per il di tschernì">
