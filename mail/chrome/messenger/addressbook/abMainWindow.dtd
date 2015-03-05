@@ -206,7 +206,7 @@ because displayed names don't have the comma in between. -->
 <!ENTITY work.heading                                   "Serviciu">
 <!-- Special Box Headings, for mailing lists -->
 <!ENTITY description.heading                            "Descriere">
-<!ENTITY addresses.heading                              "Adrese ">
+<!ENTITY addresses.heading                              "Adrese">
 <!-- For Map It! -->
 <!ENTITY mapItButton.label                              "Hartă">
 <!ENTITY mapIt.tooltip                                  "Afișează o hartă de pe web cu această adresă">
