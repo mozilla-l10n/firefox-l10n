@@ -63,9 +63,9 @@
 <!ENTITY renameFolder.accesskey "m">
 <!ENTITY renameFolder.key "VK_F2">
 <!ENTITY compactFolders.label "Strni mape">
-<!ENTITY compactFolders.accesskey    "n">
+<!ENTITY compactFolders.accesskey    "r">
 <!ENTITY emptyTrashCmd.label "Izprazni Koš">
-<!ENTITY emptyTrashCmd.accesskey    "z">
+<!ENTITY emptyTrashCmd.accesskey    "a">
 <!ENTITY offlineMenu.label "Brez povezave">
 <!ENTITY offlineMenu.accesskey "B">
 <!ENTITY offlineGoOfflineCmd.label "Delaj brez povezave">
@@ -79,12 +79,12 @@
 <!ENTITY downloadStarredCmd.label "Prejmi sporočila z zvezdico">
 <!ENTITY downloadStarredCmd.accesskey "z">
 <!ENTITY printCmd.label "Natisni …">
-<!ENTITY printCmd.accesskey "N">
+<!ENTITY printCmd.accesskey "t">
 <!ENTITY printCmd.key "P">
 <!ENTITY printPreviewCmd.label "Predogled tiskanja">
 <!ENTITY printPreviewCmd.accesskey "d">
 <!ENTITY printSetupCmd.label "Priprava strani …">
-<!ENTITY printSetupCmd.accesskey "r">
+<!ENTITY printSetupCmd.accesskey "v">
 <!-- Edit Menu -->
 
 <!ENTITY deleteMsgCmd.label "Izbriši sporočilo">

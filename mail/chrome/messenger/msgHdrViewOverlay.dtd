@@ -78,7 +78,7 @@
 <!ENTITY saveAsAttachmentCmd.label    "Shrani kot …">
 <!ENTITY saveAsAttachmentCmd.accesskey    "S">
 <!ENTITY detachAttachmentCmd.label    "Odpni …">
-<!ENTITY detachAttachmentCmd.accesskey    "n">
+<!ENTITY detachAttachmentCmd.accesskey    "d">
 <!ENTITY deleteAttachmentCmd.label    "Izbriši">
 <!ENTITY deleteAttachmentCmd.accesskey    "b">
 <!ENTITY openAllAttachmentsCmd.label    "Odpri vse …">
@@ -86,7 +86,7 @@
 <!ENTITY saveAllAttachmentsCmd.label    "Shrani vse …">
 <!ENTITY saveAllAttachmentsCmd.accesskey    "S">
 <!ENTITY detachAllAttachmentsCmd.label    "Odpni vse …">
-<!ENTITY detachAllAttachmentsCmd.accesskey    "n">
+<!ENTITY detachAllAttachmentsCmd.accesskey    "d">
 <!ENTITY deleteAllAttachmentsCmd.label    "Izbriši vse …">
 <!ENTITY deleteAllAttachmentsCmd.accesskey    "b">
 
