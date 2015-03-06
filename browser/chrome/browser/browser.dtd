@@ -608,12 +608,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY quitApplicationCmdWin2.label       "Hætta">
 <!ENTITY quitApplicationCmdWin2.accesskey   "H">
-<!ENTITY quitApplicationCmdWin2.tooltip     "Hætta í &brandShortName;">
+<!ENTITY quitApplicationCmdWin2.tooltip     "Hætta í &brandShorterName;">
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY goForwardCmd.commandKey "]">
 <!ENTITY quitApplicationCmd.label       "Hætta"> 
 <!ENTITY quitApplicationCmd.accesskey   "H">
-<!ENTITY quitApplicationCmdMac2.label   "Hætta í &brandShortName;">
+<!ENTITY quitApplicationCmdMac2.label   "Hætta í &brandShorterName;">
 <!-- LOCALIZATION NOTE(quitApplicationCmdUnix.key): This keyboard shortcut is used by both Linux and OSX builds. -->
 <!ENTITY quitApplicationCmdUnix.key     "Q">
 
