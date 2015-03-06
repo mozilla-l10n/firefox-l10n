@@ -15,7 +15,7 @@
 <!ENTITY enableAutomaticImageResizing.accesskey "R">
 <!ENTITY useSmoothScroll.label                  "Utiliser le défilement doux">
 <!ENTITY useSmoothScroll.accesskey              "d">
-<!ENTITY allowHWAccel.label                     "Utiliser l'accélération matérielle si disponible">
+<!ENTITY allowHWAccel.label                     "Utiliser l'accélération graphique matérielle si disponible">
 <!ENTITY allowHWAccel.accesskey                 "e">
 <!ENTITY textZoomOnly.label                     "Zoomer uniquement le texte plutôt que l'ensemble du contenu">
 <!ENTITY textZoomOnly.accesskey                 "Z">
