@@ -14,20 +14,20 @@
 <!ENTITY  proportional.label                      "Proporcional:">
 <!ENTITY  proportional.accesskey                  "P">
 
-<!ENTITY  serif.label                             "Serifada:">
+<!ENTITY  serif.label                             "Serifa:">
 <!ENTITY  serif.accesskey                         "S">
-<!ENTITY  sans-serif.label                        "Não serifada:">
+<!ENTITY  sans-serif.label                        "Sem serifa:">
 <!ENTITY  sans-serif.accesskey                    "n">
-<!ENTITY  monospace.label                         "Monoespaçada:">
+<!ENTITY  monospace.label                         "Monoespaço:">
 <!ENTITY  monospace.accesskey                     "M">
 
 <!-- LOCALIZATION NOTE (font.langGroup.latin) :
      Translate "Latin" as the name of Latin (Roman) script, not as the name of the Latin language. -->
 <!ENTITY  font.langGroup.latin                    "Alfabeto romano (Europa ocidental e central)">
 <!ENTITY  font.langGroup.japanese                 "Japonês">
-<!ENTITY  font.langGroup.trad-chinese             "Chinês Tradicional (Taiwan)">
-<!ENTITY  font.langGroup.simpl-chinese            "Chinês Simplificado">
-<!ENTITY  font.langGroup.trad-chinese-hk          "Chinês Tradicional (Hong Kong)">
+<!ENTITY  font.langGroup.trad-chinese             "Chinês tradicional (Taiwan)">
+<!ENTITY  font.langGroup.simpl-chinese            "Chinês simplificado">
+<!ENTITY  font.langGroup.trad-chinese-hk          "Chinês tradicional (Hong Kong)">
 <!ENTITY  font.langGroup.korean                   "Coreano">
 <!ENTITY  font.langGroup.cyrillic                 "Cirílico">
 <!ENTITY  font.langGroup.el                       "Grego">
@@ -57,16 +57,16 @@
 <!ENTITY minSize.none                             "Nenhum">
 
 <!-- default font type -->
-<!ENTITY  useDefaultFontSerif.label               "Serifada">
-<!ENTITY  useDefaultFontSansSerif.label           "Não serifada">
+<!ENTITY  useDefaultFontSerif.label               "Serifa">
+<!ENTITY  useDefaultFontSansSerif.label           "Sem serifa">
 
 <!ENTITY  allowPagesToUse.label                   "Permitir às páginas a escolha do seu tipo de letra em vez das escolhas acima.">
 <!ENTITY  allowPagesToUse.accesskey               "r">
 
-<!ENTITY languages.customize.Fallback.grouplabel  "Codificação de caracteres para conteúdo legado">
-<!ENTITY languages.customize.Fallback.label       "Codificação de caracteres de retorno:">
-<!ENTITY languages.customize.Fallback.accesskey   "C">
-<!ENTITY languages.customize.Fallback.desc        "Esta codificação de caracteres é usada para conteúdo legado que falha ao declarar a sua codificação.">
+<!ENTITY languages.customize.Fallback2.grouplabel  "Codificação de caracteres para conteúdo legado">
+<!ENTITY languages.customize.Fallback2.label       "Codificação de caracteres de retorno:">
+<!ENTITY languages.customize.Fallback2.accesskey   "C">
+<!ENTITY languages.customize.Fallback2.desc        "Esta codificação de caracteres é usada para conteúdo legado que falha ao declarar a sua codificação.">
 
 <!ENTITY languages.customize.Fallback.auto        "Pré-definido para o idioma atual">
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.arabic):
