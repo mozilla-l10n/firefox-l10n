@@ -19,7 +19,7 @@
 <!-- LOCALIZATION NOTE (netmonitorUI.reload1/2/3): These are the labels displayed
   -  in the network table when empty to start logging network requests. -->
 <!ENTITY netmonitorUI.reloadNotice1       "• Execute um pedido ou">
-<!ENTITY netmonitorUI.reloadNotice2       "Recarregue">
+<!ENTITY netmonitorUI.reloadNotice2       "recarregue">
 <!ENTITY netmonitorUI.reloadNotice3       "a página para ver mais informações sobre a atividade de rede.">
 
 <!-- LOCALIZATION NOTE (netmonitorUI.toolbar.status2): This is the label displayed
@@ -138,13 +138,17 @@
 
 <!-- LOCALIZATION NOTE (debuggerUI.summary.url): This is the label displayed
   -  in the network details headers tab identifying the URL. -->
-<!ENTITY netmonitorUI.summary.url		"URL pedido:">
+<!ENTITY netmonitorUI.summary.url		"URL do pedido:">
 
 <!-- LOCALIZATION NOTE (debuggerUI.summary.method): This is the label displayed
   -  in the network details headers tab identifying the method. -->
 <!ENTITY netmonitorUI.summary.method	"Método do pedido:">
 
-<!-- LOCALIZATION NOTE (debuggerUI.summary.status): This is the label displayed
+<!-- LOCALIZATION NOTE (netmonitorUI.summary.address): This is the label displayed
+  -  in the network details headers tab identifying the remote address. -->
+<!ENTITY netmonitorUI.summary.address     "Endereço remoto:">
+
+<!-- LOCALIZATION NOTE (netmonitorUI.summary.status): This is the label displayed
   -  in the network details headers tab identifying the status code. -->
 <!ENTITY netmonitorUI.summary.status	"Código de estado:">
 

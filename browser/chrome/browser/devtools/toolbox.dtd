@@ -73,25 +73,25 @@
   -  checkbox that toggles chrome debugging, i.e. devtools.chrome.enabled
   -  boolean preference in about:config, in the options panel. -->
 <!ENTITY options.enableChrome.label4   "Ativar chrome e a depuração do extra">
-<!ENTITY options.enableChrome.tooltip2 "Se ativar esta opção pode utilizar várias ferramentas de programação no contexto do navegador">
+<!ENTITY options.enableChrome.tooltip2 "Se ativar esta opção, pode utilizar várias ferramentas de programação no contexto do navegador">
 
 <!-- LOCALIZATION NOTE (options.enableRemote.label3): This is the label for the
   -  checkbox that toggles remote debugging, i.e. devtools.debugger.remote-enabled
   -  boolean preference in about:config, in the options panel. -->
 <!ENTITY options.enableRemote.label3    "Ativar depuração remota">
-<!ENTITY options.enableRemote.tooltip  	"Se ativar esta opção pode utilizar as ferramentas de programação para depurar remotamente as instâncias Firefox">
+<!ENTITY options.enableRemote.tooltip  	"Se ativar esta opção, pode utilizar as ferramentas de programação para depurar remotamente as instâncias Firefox">
 
 <!-- LOCALIZATION NOTE (options.disableJavaScript.label,
   -  options.disableJavaScript.tooltip): This is the options panel label and
   -  tooltip for the checkbox that toggles JavaScript on or off. -->
 <!ENTITY options.disableJavaScript.label     "Desativar JavaScript">
-<!ENTITY options.disableJavaScript.tooltip   "Se ativar esta opção desativa o JavaScript no separador atual. Se o separador ou a caixa de ferramentas for fechado, então esta definição será esquecida.">
+<!ENTITY options.disableJavaScript.tooltip   "Se ativar esta opção, desativa o JavaScript no separador atual. Se o separador ou a caixa de ferramentas for fechado, então esta definição será esquecida.">
 
 <!-- LOCALIZATION NOTE (options.disableCache.label2,
   -  options.disableCache.tooltip2): This is the options panel label and
   -  tooltip for the checkbox that toggles the cache on or off. -->
-<!ENTITY options.disableCache.label2     "Desativar Cache (quando a caixa de ferramentas está aberta)">
-<!ENTITY options.disableCache.tooltip2   "Se ativar esta opção desativará a cache para todos os separadores que tenham a caixa de ferramentas aberta.">
+<!ENTITY options.disableCache.label2     "Desativar cache (quando a caixa de ferramentas está aberta)">
+<!ENTITY options.disableCache.tooltip2   "Se ativar esta opção, desativará a cache para todos os separadores que tenham a caixa de ferramentas aberta.">
 
 <!-- LOCALIZATION NOTE (options.selectDefaultTools.label): This is the label for
   -  the heading of group of checkboxes corresponding to the default developer
