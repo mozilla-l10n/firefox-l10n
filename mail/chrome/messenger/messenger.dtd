@@ -403,7 +403,7 @@
 <!ENTITY markThreadAsReadCmd.label "Nit kot prebrano">
 <!ENTITY markThreadAsReadCmd.accesskey "N">
 <!ENTITY markThreadAsReadCmd.key "p">
-<!ENTITY markReadByDateCmd.label "Kot prebrano na datum …">
+<!ENTITY markReadByDateCmd.label "Kot prebrano po datumu …">
 <!ENTITY markReadByDateCmd.accesskey "d">
 <!ENTITY markReadByDateCmd.key "d">
 <!ENTITY markAllReadCmd.label "Vse kot prebrano">
