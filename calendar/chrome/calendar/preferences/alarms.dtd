@@ -14,8 +14,8 @@
 <!ENTITY pref.calendar.alarms.sound.useDefault.accessKey "K">
 <!ENTITY pref.calendar.alarms.sound.browse.label "Odaberi…">
 <!ENTITY pref.calendar.alarms.sound.browse.accessKey "O">
-<!ENTITY pref.calendar.alarms.sound.preview.label "Pregled">
-<!ENTITY pref.calendar.alarms.sound.preview.accessKey "P">
+
+
 <!ENTITY pref.showalarmbox "Prikaži okvir podsjetnika">
 <!ENTITY pref.calendar.alarms.showAlarmBox.accessKey "i">
 <!ENTITY pref.missedalarms "Prikaži propuštene podsjetnike">

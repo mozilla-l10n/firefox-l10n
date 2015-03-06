@@ -36,9 +36,9 @@
 <!ENTITY device.permissionsHelpLink "https://developer.mozilla.org/docs/Web/Apps/App_permissions">
 <!ENTITY device.browserTabs "Kartice preglednika">
 <!ENTITY device.browserTabsTooltip "Pogledajte popis kartica u pregledniku povezanog uređaja">
-<!ENTITY device.debugBrowserTab "Otklanjanje grešaka">
+
 <!ENTITY device.debugBrowserTabTooltip "Otvori alate za razvijatelje koji su povezani s ovog karticom preglednika na uređaju.">
-<!ENTITY device.help "Pomoć">
+
 
 <!ENTITY connection.connectTooltip "Poveži se na uređaj">
 <!ENTITY connection.disconnect "Prekini vezu">
@@ -66,19 +66,19 @@
 <!ENTITY connection.startRegisteredSimulator "Pokreni:">
 
 <!ENTITY projects.localApps "Lokalne aplikacije">
-<!ENTITY projects.addApp "Dodaj">
+
 <!ENTITY projects.addPackaged "Dodaj zapakiranu aplikaciju">
 <!ENTITY projects.addPackagedTooltip "Dodaje novu zapakiranu aplikaciju (direktorij) s vašeg računala">
 <!ENTITY projects.addHosted "Dodaj hostanu aplikaciju">
 <!ENTITY projects.addHostedTooltip "Dodaje novu hostanu aplikaciju (poveznica do manifest.webapp datoteke) s web stranice">
-<!ENTITY projects.title "Lokalne aplikacije">
+
 <!ENTITY projects.appDetails "Detalji aplikacije">
 <!ENTITY projects.removeAppFromList "Uklonite ovu aplikaciju s popisa aplikacija na kojima radite. Aplikacija neće biti uklonjena s uređaja ili simulatora.">
 <!ENTITY projects.updateApp "Ažuriraj">
 <!ENTITY projects.updateAppTooltip "Izvršava provjere i ažurira aplikaciju na povezanom uređaju">
-<!ENTITY projects.debugApp "Debug">
+
 <!ENTITY projects.debugAppTooltip "Otvara alate za razvijatelje povezane s ovom aplikacijom">
-<!ENTITY projects.saveManifest "Spremi">
+
 <!ENTITY projects.saveManifestTooltip "Spremi sadržaj uređivača manifesta">
 <!ENTITY projects.hostedManifestPlaceHolder2 "http://example.com/app/manifest.webapp">
 <!ENTITY projects.noProjects "Nema projekta. Dodajte novu zapakiranu aplikaciju ispod (lokalni direktorij) ili hostanu aplikaciju (poveznica do manifest datoteke).">
@@ -92,7 +92,6 @@
 <!ENTITY projects.hosted "Hostan">
 <!ENTITY projects.packaged "Pakirani">
 
-<!ENTITY help.title "App Manager">
 <!ENTITY help.close "Zatvori">
 <!ENTITY help.intro "Ovaj alat će vam pomoći izraditi i instalirati web aplikacije na kompatibilne uređaje (tj. Firefox OS). Kartica <strong>Aplikacije</strong> će vam pomoći u procesu provjere i instalacije vaše aplikacije, a kartica <strong>Uređaj</strong> će vam dati informacije o povezanom uređaju. Za povezivanje uređaja i pokretanje simulatora, upotrijebite donju traku alata.">
 <!ENTITY help.usefullLinks "Korisne poveznice:">
