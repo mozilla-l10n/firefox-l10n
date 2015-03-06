@@ -9,7 +9,7 @@ file names and tall enough to hint that there are more downloads in the list -->
 <!ENTITY window.height                    "300"> 
 
 <!ENTITY starting.label                   "Начало…">
-<!ENTITY scanning.label                   "Сканиране за вируси…">
+<!ENTITY scanning.label                   "Претърсване за вируси…">
 
 <!ENTITY downloads.title                  "Изтегляне на файлове">
 
