@@ -15,8 +15,8 @@
 
 
 
-
-
+<!ENTITY productHelp2.label       "I-&brandShortName; uncedo">
+<!ENTITY productHelp2.accesskey   "u">
 <!ENTITY helpMac.commandkey       "?">
 
 <!ENTITY helpKeyboardShortcuts.label     "Izinqumleli zekhibhodi">
@@ -25,7 +25,7 @@
 <!ENTITY helpSafeMode.label       "Qalisa kwakhona izongezelelo ziqhwalelisiwe…">
 <!ENTITY helpSafeMode.accesskey   "Q">
 
-<!ENTITY healthReport2.label      "I-&brandShortName; iNgxelo yeMpilo">
+<!ENTITY healthReport2.label      "I-&brandShortName; ingxelo yempilo">
 <!ENTITY healthReport2.accesskey  "p">
 
 <!ENTITY helpTroubleshootingInfo.label      "Inkcazelo yesisombululi-ngxaki">
