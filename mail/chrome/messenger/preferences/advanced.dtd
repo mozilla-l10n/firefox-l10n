@@ -15,6 +15,9 @@
 <!ENTITY telemetryInfoLink.label "Plus de détails sur la télémétrie">
 <!ENTITY enableGlodaSearch.label "Activer la recherche et l'indexation globales">
 <!ENTITY enableGlodaSearch.accesskey "c">
+<!ENTITY allowHWAccel.label "Utiliser l'accélération graphique matérielle si disponible">
+<!ENTITY allowHWAccel.accesskey "i">
+
 <!ENTITY scrolling.label "Défilement">
 <!ENTITY useAutoScroll.label "Automatique">
 <!ENTITY useAutoScroll.accesskey "u">

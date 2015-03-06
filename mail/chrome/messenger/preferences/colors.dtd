@@ -6,12 +6,12 @@
 <!ENTITY  window.width                    "54em">
 <!ENTITY  window.macWidth                 "54em">
 
-<!ENTITY  allowPagesToUseColors.label     "Autoriser les pages web à utiliser leurs propres couleurs au lieu de celles choisies ci-dessus :">
-<!ENTITY  allowPagesToUseColors.accesskey "p">
+<!ENTITY  overridePageColors.label        "Outrepasser les couleurs spécifiées par le contenu avec celles choisies ci-dessus :">
+<!ENTITY  overridePageColors.accesskey    "O">
 
-<!ENTITY  allowPagesToUseColors.automatic.label "Automatique">
-<!ENTITY  allowPagesToUseColors.always.label    "Toujours">
-<!ENTITY  allowPagesToUseColors.never.label     "Jamais">
+<!ENTITY  overridePageColors.always.label "Toujours">
+<!ENTITY  overridePageColors.auto.label   "Uniquement pour les thèmes avec un contraste élevé">
+<!ENTITY  overridePageColors.never.label  "Jamais">
 
 <!ENTITY  color                           "Texte et arrière-plan">
 <!ENTITY  textColor.label                 "Texte :">
