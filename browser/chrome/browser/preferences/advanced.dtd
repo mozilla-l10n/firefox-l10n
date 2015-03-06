@@ -39,8 +39,8 @@
 <!ENTITY telemetryLearnMore.label        "Научете повече">
 
 <!ENTITY crashReporterDesc.label         "&brandShortName;  изпраща информация за сривовете за да помогне на &vendorShortName; да направи този браузър по-добър и по-сигурен.">
-<!ENTITY enableCrashReporter.label       "Активиране на докладчикът за сривове">
-<!ENTITY enableCrashReporter.accesskey   "д">
+<!ENTITY enableCrashReporter.label       "Включване на Докладване на сривове">
+<!ENTITY enableCrashReporter.accesskey   "Д">
 <!ENTITY crashReporterLearnMore.label    "Научете повече">
 
 <!ENTITY networkTab.label                "Мрежа">

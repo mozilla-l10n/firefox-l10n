@@ -200,7 +200,7 @@
 <!ENTITY addon.updateNow.tooltip              "Инсталиране на обновяването на тази добавка">
 <!ENTITY addon.includeUpdate.label            "Включване в обновяване">
 <!ENTITY addon.updateAvailable.label          "Налично е обновяване">
-<!ENTITY addon.checkingForUpdates.label       "Проверяване за обновявания…">
+<!ENTITY addon.checkingForUpdates.label       "Проверка за обновяване…">
 <!ENTITY addon.releaseNotes.label             "Бележки по изданието:">
 <!ENTITY addon.loadingReleaseNotes.label      "Зареждане…">
 <!ENTITY addon.errorLoadingReleaseNotes.label "Съжаляваме, но зареждането на бележките по изданието беше неуспешно.">
