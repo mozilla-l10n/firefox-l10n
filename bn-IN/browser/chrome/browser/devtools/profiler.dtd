@@ -82,16 +82,22 @@
   -  is displayed in the profiler. -->
 
 <!ENTITY profilerUI.showPlatformData             "Gecko প্ল্যাটফর্ম ডাটা দেখান">
-
+<!ENTITY profilerUI.showPlatformData.tooltiptext "প্ল্যাটফর্ম ডাটা JavaScript প্রোফাইলারকে সক্রিয় করে যার রিপোর্টে Gecko প্ল্যাটফর্ম চিহ্নও অন্তর্ভুক্ত।">
 <!-- LOCALIZATION NOTE (profilerUI.flattenTreeRecursion): This is the
   -  label for the checkbox that toggles the flattening of tree recursion in inspected
   -  functions in the profiler. -->
 
+<!ENTITY profilerUI.flattenTreeRecursion             "ফ্ল্যাটেন ট্রী রিকারশন">
+<!ENTITY profilerUI.flattenTreeRecursion.tooltiptext "ফাংশন দেখবার সময় রিকারশন ফ্ল্যাটেন করুন।">
 <!-- LOCALIZATION NOTE (profilerUI.enableMemory): This string
   -  is displayed next to a checkbox determining whether or not memory
   -  measurements are enabled. -->
 
+<!ENTITY profilerUI.enableMemory             "মেমোরি রেকর্ড করুন">
+<!ENTITY profilerUI.enableMemory.tooltiptext "মেমোরির খরচ প্রোফাইলিং করবার সময় রেকর্ড করুন।">
 <!-- LOCALIZATION NOTE (profilerUI.enableFramerate): This string
   -  is displayed next to a checkbox determining whether or not framerate
   -  is recorded. -->
 
+<!ENTITY profilerUI.enableFramerate             "ফ্রেমরেট রেকর্ড করুন">
+<!ENTITY profilerUI.enableFramerate.tooltiptext "প্রোফাইল করবার সময় ফ্রেমরেট রেকর্ড করুন।">

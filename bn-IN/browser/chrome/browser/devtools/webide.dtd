@@ -41,8 +41,8 @@
 <!ENTITY runtimeMenu_showMonitor_accesskey "M">
 <!ENTITY runtimeMenu_showDevicePrefs_label "ডিভাইস সংক্রান্ত পছন্দ">
 <!ENTITY runtimeMenu_showDevicePrefs_accesskey "D">
-
-
+<!ENTITY runtimeMenu_showSettings_label "ডিভাইস বৈশিষ্ট্য">
+<!ENTITY runtimeMenu_showSettings_accesskey "s">
 
 <!ENTITY viewMenu_label "প্রদর্শন">
 <!ENTITY viewMenu_accesskey "V">
@@ -94,7 +94,7 @@
 <!ENTITY details_location "অবস্থান">
 <!ENTITY details_manifestURL "অ্যাপ আইডি">
 <!ENTITY details_removeProject_button "প্রোজেক্ট সরান">
-
+<!ENTITY details_showPrepackageLog_button "পুনঃ-প্যাকেজ লগ দেখান">
 <!-- New App -->
 
 <!ENTITY newAppWindowTitle "নতুন অ্যাপ">
@@ -146,7 +146,7 @@
 <!ENTITY runtimedetails_adbIsRoot "ADB হল রুট: ">
 <!ENTITY runtimedetails_summonADBRoot "রুট ডিভাইস">
 <!ENTITY runtimedetails_ADBRootWarning "(আনব্লক বুটলোডার প্রয়োজন)">
-
+<!ENTITY runtimedetails_unrestrictedPrivileges "অবাধ DevTools-এর অধিকার: ">
 <!ENTITY runtimedetails_requestPrivileges "উচ্চ অধিকার অনুরোধ করুন">
 <!ENTITY runtimedetails_privilegesWarning "(ডিভাইস পুনরায় বুট করা হবে। রুটের অধিকার প্রয়োজন।)">
 <!-- Device Preferences and Settings -->
@@ -191,4 +191,7 @@
 <!ENTITY wifi_auth_yes_scanner "QR স্ক্যানার প্রম্পট আছে?">
 <!-- LOCALIZATION NOTE (wifi_auth_token_request): Instructions requesting the
      user to transfer authentication info by transferring a token. -->
+<!ENTITY wifi_auth_token_request "যদি আপনার অন্য ডিভাইস QR কোড স্ক্যান করার বদলে টোকেনের ব্যাপারে জিজ্ঞাসা করে, অনুগ্রহ করে নীচের মানটি কপি করুন অন্য ডিভাইসে:">
 <!-- Logs panel -->
+
+<!ENTITY logs_title "পুনঃ-প্যাকেজ কম্যান্ড লগসমূহ">
