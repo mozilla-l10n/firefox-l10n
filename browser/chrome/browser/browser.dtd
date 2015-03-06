@@ -90,10 +90,10 @@ when there are no windows but Firefox is still running. -->
 
 <!ENTITY pageSourceCmd.label "Umthombo wephepha">
 <!ENTITY pageSourceCmd.accesskey "m">
-
+<!ENTITY pageSourceCmd.commandkey "u">
 <!ENTITY pageInfoCmd.label "Inkcazelo yephepha">
 <!ENTITY pageInfoCmd.accesskey "y">
-
+<!ENTITY pageInfoCmd.commandkey "i">
 <!ENTITY mirrorTabCmd.label "Itabhu yesipili">
 <!ENTITY mirrorTabCmd.accesskey "I">
 <!-- LOCALIZATION NOTE (enterFullScreenCmd.label, exitFullScreenCmd.label):
@@ -199,10 +199,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
   -  shortcut keys on Linux. -->
 
 <!ENTITY bookmarksGtkCmd.commandkey "o">
-
+<!ENTITY bookmarksWinCmd.commandkey "i">
 
 <!ENTITY historyButton.label            "Imbali">
-
+<!ENTITY historySidebarCmd.commandKey   "h">
 
 <!ENTITY toolsMenu.label              "Izixhobo">
 <!ENTITY toolsMenu.accesskey          "I"> 
@@ -212,8 +212,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY downloads.label              "Okukhutshelwayo">
 <!ENTITY downloads.accesskey          "O">
-
-
+<!ENTITY downloads.commandkey         "j">
+<!ENTITY downloadsUnix.commandkey     "y">
 <!ENTITY addons.label                 "zongezelelo">
 <!ENTITY addons.accesskey             "z">
 
@@ -235,7 +235,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY remoteWebConsoleCmd.label    "Uthuthuzelo lwewebhu olumgama">
 
 <!ENTITY browserConsoleCmd.label      "Ikhonsoli Yebhrawuza">
-
+<!ENTITY browserConsoleCmd.commandkey "j">
 <!ENTITY browserConsoleCmd.accesskey  "I">
 
 <!ENTITY inspectContextMenu.label     "Hlola ielementi">
@@ -320,10 +320,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY pasteCmd.key           "V">  
 <!ENTITY pasteCmd.accesskey         "N"> 
 <!ENTITY deleteCmd.label          "Cima">  
-
+<!ENTITY deleteCmd.key            "D">  
 <!ENTITY deleteCmd.accesskey        "C"> 
 <!ENTITY selectAllCmd.label         "Khetha Konke">  
-
+<!ENTITY selectAllCmd.key         "A">  
 <!ENTITY selectAllCmd.accesskey       "K"> 
 <!ENTITY preferencesCmd2.label       "Ekunokukhethwa kuko">
 <!ENTITY preferencesCmd2.accesskey     "E">
@@ -332,6 +332,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY clearRecentHistory.label               "Susa iMbali Yakutshanje…">
 
+<!ENTITY privateBrowsingCmd.commandkey          "P">
 
 <!ENTITY viewMenu.label         "Jonga"> 
 <!ENTITY viewMenu.accesskey       "J"> 
@@ -352,7 +353,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY historyRestoreLastSession.label "Buyisela iseshoni yangaphambili">
 
 <!ENTITY showAllHistoryCmd2.label "Bonisa yonke imbali">
-
+<!ENTITY showAllHistoryCmd.commandkey "H">
 
 <!ENTITY appMenuCustomize.label "Lungiselela">
 <!ENTITY appMenuCustomize.tooltip "Qhelanisa iMenyu neeThulbha">
@@ -586,7 +587,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY fullZoomReduceCmd.label        "Bhekelisela Kudana">
 <!ENTITY fullZoomReduceCmd.accesskey    "K">
-
+<!ENTITY fullZoomReduceCmd.commandkey   "-">
 <!ENTITY fullZoomReduceCmd.commandkey2  "">
 
 <!ENTITY fullZoomResetCmd.label         "Seta kwakhona">
@@ -625,23 +626,24 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY pageReportIcon.tooltip            "Tshintsa iisethingi zesithinteli esizivelelayo zale webhusayithi">
 
+<!ENTITY allowPopups.accesskey "p">
 <!-- On Windows we use the term "Options" to describe settings, but
      on Linux and Mac OS X we use "Preferences" - carry that distinction
      over into this string, which is used in the "popup blocked" info bar . -->
 <!ENTITY editPopupSettingsUnix.label "Hlela iZikhethwa zeZithinteli eziZivelelayo…">
 <!ENTITY editPopupSettings.label "Hlela Ekukhethwa Kuko kweZithinteli eziZivelelayo…">
 <!ENTITY editPopupSettings.accesskey "H">
-
+<!ENTITY dontShowMessage.accesskey "D">
 
 <!ENTITY bidiSwitchPageDirectionItem.label        "Tshintsha iNdawo eliya kulo iPhepha">
 <!ENTITY bidiSwitchPageDirectionItem.accesskey    "i">
 <!ENTITY bidiSwitchTextDirectionItem.label        "Tshintsha icala lombhalo">
 <!ENTITY bidiSwitchTextDirectionItem.accesskey    "s">
-
+<!ENTITY bidiSwitchTextDirectionItem.commandkey   "X">
 
 <!ENTITY findOnCmd.label     "Fumana kweli phepha…">
 <!ENTITY findOnCmd.accesskey "F">
-
+<!ENTITY findOnCmd.commandkey "f">
 <!ENTITY findAgainCmd.label  "Fumana kwakhona">
 <!ENTITY findAgainCmd.accesskey "k">
 
@@ -769,7 +771,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY trackingContentBlocked.message "Ukulanda umkhondo">
 <!ENTITY trackingContentBlocked.moreinfo "Iindawo zephepha lewebhu ezilanda umsebenzi wakho we-intanethi zithintelwe.">
 
-
+<!ENTITY trackingContentBlocked.options "Ekunokukhethwa kuko">
 <!ENTITY trackingContentBlocked.unblock2.label "Yekisa ukhuseleko kule sayithi">
 <!ENTITY trackingContentBlocked.unblock2.accesskey "Y">
 
@@ -827,12 +829,13 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY processHang.terminateScript.accessKey    "Y">
 
 
+<!ENTITY processHang.terminatePlugin.label        "Bulala iPlugin">
+<!ENTITY processHang.terminatePlugin.accessKey    "i">
+<!ENTITY processHang.terminateProcess.label       "Inkqubo yokubulala iwebhu">
+<!ENTITY processHang.terminateProcess.accessKey   "I">
 
-
-
-
-
-
+<!ENTITY emeLearnMoreContextMenu.label            "Funda ngakumbi malunga neDRM...">
+<!ENTITY emeLearnMoreContextMenu.accesskey        "D">
 
 
 <!ENTITY emeNotificationsDontAskAgain.label       "Ungaphindi undibuze">
