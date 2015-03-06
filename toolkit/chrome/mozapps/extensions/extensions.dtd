@@ -134,7 +134,7 @@
 <!ENTITY detail.contributions.description     "Այս հավելման ստեղծողը խնդրում է, որ դուք աջակցեք հավելման զարգացմանը` կատարելով փոքր ներդրում:">
 
 <!ENTITY detail.updateType                    "Ինքնաշխատ Թարմացումներ">
-<!ENTITY detail.updateDefault.label           "Հիմնական">
+<!ENTITY detail.updateDefault.label           "Լռելյայն">
 <!ENTITY detail.updateDefault.tooltip         "Ինքնաշխատ տեղադրել թարմացումները, եթե այդ ընտրանքը հաստատված է որպես ծրագրային">
 <!ENTITY detail.updateAutomatic.label         "Միացնել">
 <!ENTITY detail.updateAutomatic.tooltip       "Տեղակայեք թարմացումները ավտոմատ կերպով:">
