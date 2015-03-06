@@ -3,9 +3,6 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY  fontsAndEncodingsDialog.title           "Polices et encodages">
-<!ENTITY  window.width                            "55em">
-<!ENTITY  window.macWidth                         "59em">
-<!ENTITY  window.unixWidth                        "59em">
 
 <!ENTITY  language.label                          "Polices pour :">
 <!ENTITY  language.accesskey                      "o">
