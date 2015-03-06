@@ -14,7 +14,6 @@
 
 <!ENTITY calendar.today.button.label "Dnešní den">
 <!ENTITY calendar.tomorrow.button.label "Zítra">
-<!ENTITY calendar.soon.button.label "Brzy">
 <!ENTITY calendar.upcoming.button.label       "Nadcházející">
 
 <!ENTITY calendar.events.filter.all.label "Všechny události">
