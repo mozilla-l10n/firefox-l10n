@@ -14,7 +14,7 @@
 <!ENTITY aboutProduct2.label "Acerca de &brandShorterName;">
 <!ENTITY aboutProduct2.accesskey "A">
 <!ENTITY productHelp2.label "Ayuda de &brandShorterName;">
-<!ENTITY productHelp2.accesskey "N">
+<!ENTITY productHelp2.accesskey "u">
 <!ENTITY helpMac.commandkey "?">
 <!ENTITY helpKeyboardShortcuts.label "Atajos de teclado">
 <!ENTITY helpKeyboardShortcuts.accesskey "t">
