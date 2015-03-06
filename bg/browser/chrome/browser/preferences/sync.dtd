@@ -50,7 +50,7 @@
 <!-- Firefox Accounts stuff -->
 
 <!ENTITY fxaPrivacyNotice.link.label "Политика за личните данни">
-<!ENTITY determiningAcctStatus.label     "Определяне на състоянието на вашия акаунт…">
+<!ENTITY determiningAcctStatus.label     "Определяне на състоянието на вашия профил…">
 <!-- LOCALIZATION NOTE (signedInUnverified.beforename.label,
 signedInUnverified.aftername.label): these two string are used respectively
 before and after the account email address. Localizers can use one of them, or

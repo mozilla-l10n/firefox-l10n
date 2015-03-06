@@ -1,13 +1,15 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-
+<!ENTITY aboutPrivateBrowsing.title.normal     "Отваряне на прозорец за поверително сърфиране?">
 
 <!ENTITY aboutPrivateBrowsing.subtitle         "&brandShortName; няма да помни историята за този прозорец.">
+<!ENTITY aboutPrivateBrowsing.subtitle.normal  "&brandShortName; няма да помни историята на прозорците за поверително сърфиране.">
 
 
+<!ENTITY aboutPrivateBrowsing.notPrivate       "В момента не сте в прозорец за поверително сърфиране.">
 
-
+<!ENTITY aboutPrivateBrowsing.moreInfo         "Компютърът няма да пази история на сърфирането, но вашият работодател или Интернет доставчик могат да проследят кои страници посещавате.">
 
 
 <!ENTITY privatebrowsingpage.openPrivateWindow.label "Oтваряне на прозовец за поверително сърфиране">
