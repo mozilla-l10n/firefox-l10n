@@ -6,7 +6,7 @@
 <!ENTITY  no_space_to_start_error "Akukho ndawo yaneleyo ifumanekayo ye&brandShortName; ukuqalisa.">
 <!ENTITY  error_loading_file "Impazamo yenzekile xa bekuzanywa ukulayishwa iifayile ezifunekayo ukuhambisa i-&brandShortName;">
 
-
+<!ENTITY  onboard_start_subtext2 "Iimpawu ezininzi zabucala neendlela zokuzenzela kunakuqala.">
 <!ENTITY  onboard_start_button_account "Sayina ungene nebrandShortName">
 <!ENTITY  onboard_start_button_browser "Qala ukubhrawuza">
 <!-- Localization note: These are used as the titles of different pages on the home screen.
@@ -199,6 +199,7 @@
 same character/combination is used to increase the preview font size. It should be a concise
 representation of the language it is used in that will help show the text in the preview will change
 size. -->
+<!ENTITY pref_font_size_adjust_char "A">
 <!-- Localization note (pref_font_size_preview_text): This paragraph is used as an example to
     demonstrate the font size setting.  It is meant to be whimsical and fun. -->
 
@@ -206,7 +207,7 @@ size. -->
 
 <!ENTITY pref_media_autoplay_enabled "Vumela ukudlala ngokuzenzekelayo">
 <!ENTITY pref_media_autoplay_enabled_summary "Lawula xa iiwebhusayithi zikakho ukuzidlalela ngokuzenzelayo iivido kunye neminye imiba yemidiya">
-
+<!ENTITY pref_zoom_force_enabled "Ngalo lonke ixesha vula i-zoom">
 
 
 <!ENTITY pref_use_master_password "Sebenzisa ipasiwedi eyimasta">
@@ -264,7 +265,7 @@ size. -->
      (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
 <!ENTITY datareporting_crashreporter_title_short "Ingxelo yokonakala">
 <!ENTITY datareporting_wifi_title2 "I-&vendorShortName; Inkonzo yendawo">
-
+<!ENTITY datareporting_wifi_geolocation_summary3 "Nceda i-&vendorShortName; imephu yehlabathi! Yabelena ngokuma ye-Wi-Fi nendawo yeselula yesixhobo sakho ukuphucula inkonzo yethu ye-geolocation">
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
      actual notification that an update is available. -->
@@ -538,13 +539,18 @@ esuka kwi-Android">
      designated space. Use the unicode ellipsis char, \u2026, or use "..." if \u2026 doesn't suit
      traditions in your locale. -->
 
+<!ENTITY ellipsis "...">
+
+<!ENTITY colon ":">
 <!-- These are only used for accessibility for the done and overflow-menu buttons in the actionbar.
      They are never shown to users -->
 <!ENTITY actionbar_done "Ugqibile">
 <!-- Voice search in the awesome bar -->
 
+<!ENTITY voicesearch_prompt "Thetha ngoku">
 
-
+<!ENTITY voicesearch_failed_message "Kukho ingxaki ngokukhangela ilizwi ngoku. Nceda uzame ngelinye ixesha.">
+<!ENTITY voicesearch_failed_message_recoverable "Uxolo! Asikhange sikwazi ukunakana amazwi akho. Nceda uzame ngelinye ixesha.">
 
 <!-- Localization note (remote_tabs_last_synced): the variable is replaced by a
      "relative time span string" produced by Android.  This string describes the
@@ -555,6 +561,7 @@ esuka kwi-Android">
 
 <!ENTITY remote_tabs_last_synced "Ingqamaniswe okokugqibela: &formatS;">
 <!-- Localization note: Used when the sync has not happend yet, showed in place of a date -->
+<!ENTITY remote_tabs_never_synced "Ungamaniso lokugqibela: zange">
 <!-- Find-In-Page strings -->
 <!-- LOCALIZATION NOTE (find_matchcase): This is meant to appear as an icon that changes color
      if match-case is activated. i.e. No more than two letters, one uppercase, one lowercase. -->

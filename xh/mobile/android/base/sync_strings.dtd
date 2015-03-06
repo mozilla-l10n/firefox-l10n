@@ -150,8 +150,8 @@
 
 <!ENTITY fxaccount_create_account_header2 "Yila iakhawunti yeFirefox">
 <!ENTITY fxaccount_create_account_password_length_restriction "Ubuncinane ifanele ibe noonobumba abasi-8">
-
-
+<!ENTITY fxaccount_create_account_day_of_birth "Usuku">
+<!ENTITY fxaccount_create_account_month_of_birth "Inyanga">
 <!ENTITY fxaccount_create_account_year_of_birth "Unyaka wokuzalwa">
 <!-- Localization note: &formatS1; is fxaccount_policy_linktos, &formatS2; is fxaccount_policy_linkprivacy, both hyperlinked. -->
 <!ENTITY fxaccount_create_account_policy_text2 "Ngokudlulela phambili, ndiyavumelana ne&formatS1; kunye no&formatS2; zeenkonzo zeklawudi yeFirefox.">
@@ -193,7 +193,7 @@
 
 <!ENTITY fxaccount_finish_migrating_header "Sayina ungene ukugqibezela uphuhliso">
 <!ENTITY fxaccount_finish_migrating_button_label "Ugqibile ukuphuhlisa">
-
+<!ENTITY fxaccount_finish_migrating_description "Uphuhliso lungathumela iinkcukacha ezininzi. Kungcono ukuba kwinethiwokhi eno-WiFi.">
 
 <!ENTITY fxaccount_status_header2 "I-akhawunti yeFirefox">
 <!ENTITY fxaccount_status_signed_in_as "Ungene njenge">
