@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY itemGeneral.label       "Općenito">
-
+<!ENTITY dataChoicesTab.label    "Izbori podataka">
 <!ENTITY itemDisplay.label       "Čitanje i prikaz">
 <!ENTITY itemUpdate.label        "Ažuriranje">
 <!ENTITY itemNetworking.label    "Mreža i diskovni prostor">
@@ -14,10 +14,10 @@
 <!ENTITY enableGlodaSearch.accesskey   "e">
 <!ENTITY allowHWAccel.label            "Koristi hardversku akceleraciju kad je moguće">
 <!ENTITY allowHWAccel.accesskey        "h">
-
-
-
-
+<!ENTITY storeType.label               "Tip pohrane poruka za nove račune:">
+<!ENTITY storeType.accesskey           "T">
+<!ENTITY mboxStore.label               "Jedna velika datoteka (mbox)">
+<!ENTITY maildirStore.label            "Datoteka po poruci (maildir)">
 
 <!ENTITY scrolling.label               "Klizanje">
 <!ENTITY useAutoScroll.label           "Koristi automatsko klizanje">
@@ -40,14 +40,17 @@
 <!ENTITY showReturnReceipts.accesskey  "r">
 <!-- Data Choices -->
 
+<!ENTITY telemetrySection.label          "Telemetrija">
+<!ENTITY telemetryDesc.label             "Dijeli podatke o performansama, korištenju, hardveru i prilagodbama vašeg programa e-pošte, kako bi &vendorShortName; mogla unaprijediti &brandShortName;">
+<!ENTITY enableTelemetry.label           "Omogući telemetriju">
+<!ENTITY enableTelemetry.accesskey       "t">
+<!ENTITY telemetryLearnMore.label        "Saznajte više">
 
-
-
-
-
-
-
-
+<!ENTITY crashReporterSection.label      "Izvjestitelj rušenja">
+<!ENTITY crashReporterDesc.label         "&brandShortName; šalje izvještaje o rušenju kako bi &vendorShortName; mogla vaš program e-pošte učiniti stabilnijim i sigurnijim">
+<!ENTITY enableCrashReporter.label       "Omogući izvjestitelja rušenja">
+<!ENTITY enableCrashReporter.accesskey   "z">
+<!ENTITY crashReporterLearnMore.label    "Saznajte više">
 <!-- Display and Reading Settings -->
 
 <!ENTITY reading.caption               "Čitanje">
