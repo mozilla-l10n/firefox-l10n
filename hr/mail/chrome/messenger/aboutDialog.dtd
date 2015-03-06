@@ -12,6 +12,21 @@
 <!ENTITY update.updateButton.accesskey            "r">
 <!ENTITY update.applyButtonBillboard.label        "Primijeni dopunu…">
 <!ENTITY update.applyButtonBillboard.accesskey    "P">
+<!-- LOCALIZATION NOTE (warningDesc.version): This is a warning about the experimental nature of Nightly and Aurora builds. It is only shown in those versions. -->
+
+
+<!ENTITY warningDesc.version        "&brandShortName; je eksperimentalna inačica i može biti nestabilna.">
+<!-- LOCALIZATION NOTE (warningDesc.telemetryDesc): This is a notification that Nightly/Aurora builds automatically send Telemetry data back to Mozilla. It is only shown in those versions. "It" refers to brandShortName. -->
+<!ENTITY warningDesc.telemetryDesc  "Automatski šalje informacije o performansama, hardveru, korištenju i prilagodbama na &vendorShortName; poslužitelj, kako biste pomogli učiniti &brandShortName; još boljim.">
+<!-- LOCALIZATION NOTE (community.exp.*) This paragraph is shown in "experimental" builds, i.e. Nightly and Aurora builds, instead of the other "community.*" strings below. -->
+
+<!ENTITY community.exp.start        "">
+<!-- LOCALIZATION NOTE (community.exp.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
+<!ENTITY community.exp.mozillaLink  "&vendorShortName;">
+<!ENTITY community.exp.middle       " je ">
+<!-- LOCALIZATION NOTE (community.exp.creditslink): This is a link title that links to about:credits. -->
+<!ENTITY community.exp.creditsLink  "globalna zajednica">
+<!ENTITY community.exp.end          " koja nastoji zadržati Web otvorenim, javnim i dostupnim svima.">
 
 <!ENTITY community.start2           "&brandShortName; je dizajnirala ">
 <!-- LOCALIZATION NOTE (community.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
@@ -19,12 +34,15 @@
 <!ENTITY community.middle2          ", ">
 <!-- LOCALIZATION NOTE (community.creditsLink): This is a link title that links to about:credits. -->
 <!ENTITY community.creditsLink      "globalna zajednica">
-<!ENTITY community.end2             " koja zajedno radi na unapređenju Interneta. Mi vjerujemo kako bi Internet trebao biti otvoren, javan i dostupan svima, bez ograničenja.">
+<!ENTITY community.end3             " koja nastoji zadržati Web otvorenim, javnim i dostupnim svima.">
 
-<!ENTITY contribute.start           "Zvuči vam zanimljivo? ">
-<!-- LOCALIZATION NOTE (contribute.getInvolvedLink): This is a link title that links to http://www.mozilla.org/contribute/. -->
-<!ENTITY contribute.getInvolvedLink "Uključite se!">
-<!ENTITY contribute.end             "">
+<!ENTITY helpus.start               "Želite li pomoći? ">
+<!-- LOCALIZATION NOTE (helpus.donateLink): This is a link title that links to the thunderbird donation page -->
+<!ENTITY helpus.donateLink          "Donirajte">
+<!ENTITY helpus.middle              " ili ">
+<!-- LOCALIZATION NOTE (helpus.getInvolvedLink): This is a link title that links to http://www.mozilla.org/contribute/. -->
+<!ENTITY helpus.getInvolvedLink     "se uključite!">
+<!ENTITY helpus.end                 "">
 <!-- LOCALIZATION NOTE (bottomLinks.license): This is a link title that links to about:license. -->
 
 <!ENTITY bottomLinks.license        "Informacije o licenciranju">
@@ -41,6 +59,8 @@
 <!ENTITY update.noUpdatesFound      "&brandShortName; je ažuriran">
 <!-- LOCALIZATION NOTE (update.adminDisabled): try to make the localized text short (see bug 596813 for screenshots). -->
 <!ENTITY update.adminDisabled       "Dopune onemogućene od vašeg sistem administratora">
+<!-- LOCALIZATION NOTE (update.otherInstanceHandlingUpdates): try to make the localized text short -->
+<!ENTITY update.otherInstanceHandlingUpdates "&brandShortName; se nadograđuje od strane druge instance">
 <!-- LOCALIZATION NOTE (update.failed.start,update.failed.linkText,update.failed.end):
      update.failed.start, update.failed.linkText, and update.failed.end all go into
      one line with linkText being wrapped in an anchor that links to a site to download

@@ -11,8 +11,8 @@
 <!ENTITY radioRememberPrevState.accesskey "S">
 <!ENTITY radioAskState.label "Pitaj me za mrežno stanje">
 <!ENTITY radioAskState.accesskey "z">
-<!ENTITY radioAlwaysOnline.label "Na mreži">
-<!ENTITY radioAlwaysOnline.accesskey "N">
+<!ENTITY radioAlwaysOnlineState.label "Na mreži">
+<!ENTITY radioAlwaysOnlineState.accesskey "N">
 <!ENTITY radioAlwaysOffline.label "Izvan mreže">
 <!ENTITY radioAlwaysOffline.accesskey "I">
 

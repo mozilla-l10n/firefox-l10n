@@ -72,7 +72,7 @@
 <!ENTITY switch_button_message "PREBACI">
 
 <!ENTITY settings "Postavke">
-<!ENTITY settings_title "Postavke">
+
 <!ENTITY pref_category_advanced "Napredno">
 <!ENTITY pref_category_customize "Prilagodite">
 
@@ -103,10 +103,9 @@
      either has not set up Sync, or has no other devices to send a tab
      to. -->
 
-<!ENTITY overlay_share_retry "Pokušaj ponovno">
 
 
-<!ENTITY pref_category_search3 "Traži">
+
 <!ENTITY pref_category_search_summary "Prilagodite svoje pretraživače interneta">
 <!ENTITY pref_category_display "Prikaz">
 
@@ -120,7 +119,7 @@
 <!ENTITY pref_category_add_search_providers "Dodajte više pretraživača interneta">
 <!ENTITY pref_category_search_restore_defaults "Obnovi pretraživače interneta">
 <!ENTITY pref_search_restore_defaults "Obnovi zadane postavke">
-<!ENTITY pref_search_restore_defaults_summary "Obnovi zadane postavke">
+
 <!-- Localization note (pref_search_hint) : "TIP" as in "hint", "clue" etc. Displayed as an
      advisory message on the customise search providers settings page explaining how to add new
      search providers.
@@ -150,16 +149,14 @@
 <!ENTITY pref_home_suggested_sites_summary "Na početnoj stranici prikaži poveznice na stranice koje mislimo da će vam biti interesantne">
 <!-- Localization note: These are shown in the left sidebar on tablets -->
 
-<!ENTITY pref_header_customize "Prilagodi">
-<!ENTITY pref_header_display "Prikaz">
-<!ENTITY pref_header_privacy_short "Privatnost">
+
 <!ENTITY pref_header_help "Pomoć">
-<!ENTITY pref_header_language "Jezik">
-<!ENTITY pref_header_vendor "&vendorShortName;">
-<!ENTITY pref_header_devtools "Alati za razvijatelje">
+
+
+
 
 <!ENTITY pref_cookies_menu "Kolačići">
-<!ENTITY pref_cookies_accept_all "Omogućeno">
+
 <!ENTITY pref_cookies_not_accept_foreign "Omogućeno, isključujući treće strane">
 <!ENTITY pref_cookies_disabled "Onemogućeno">
 
@@ -176,9 +173,9 @@
 
 
 <!ENTITY pref_plugins "Priključci">
-<!ENTITY pref_plugins_enabled "Omogućeno">
+
 <!ENTITY pref_plugins_tap_to_play "Dotakni za pokretanje">
-<!ENTITY pref_plugins_disabled "Onemogućeno">
+
 <!ENTITY pref_text_size "Veličina teksta">
 
 <!ENTITY pref_restore "Kartice">
@@ -195,9 +192,10 @@
 same character/combination is used to increase the preview font size. It should be a concise
 representation of the language it is used in that will help show the text in the preview will change
 size. -->
-<!ENTITY pref_font_size_adjust_char "A">
 <!-- Localization note (pref_font_size_preview_text): This paragraph is used as an example to
     demonstrate the font size setting.  It is meant to be whimsical and fun. -->
+
+
 
 
 
@@ -261,7 +259,7 @@ size. -->
      specifically, since the pref only prevents automatic downloads and not the
      actual notification that an update is available. -->
 <!ENTITY pref_update_autodownload2 "Automatski preuzmi nadogradnje">
-<!ENTITY pref_update_autodownload_wifi "Samo preko Wi-Fi">
+
 <!ENTITY pref_update_autodownload_never "Nikada">
 <!ENTITY pref_update_autodownload_always "Uvijek">
 <!-- Localization note (help_menu) : This string is used in the main menu-->
@@ -285,7 +283,7 @@ size. -->
 <!ENTITY new_private_tab "Nova privatna kartica">
 <!ENTITY close_all_tabs "Zatvori sve kartice">
 
-<!ENTITY tabs_normal "Kartice">
+
 <!ENTITY tabs_private "Privatno">
 <!ENTITY tabs_synced "Sinkronizirano">
 <!ENTITY set_image_fail "Nije moguće postaviti sliku">
@@ -293,29 +291,27 @@ size. -->
 <!ENTITY set_image_chooser_title "Postavi sliku kao">
 <!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
-
-<!ENTITY find_text "Pronađi na stranici">
 <!ENTITY find_prev "Prethodni">
 <!ENTITY find_next "Sljedeći">
-<!ENTITY find_close "Zatvori">
+
 <!-- Localization note (media_sending_to, media_play, media_pause, media_stop) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
 <!ENTITY media_play "Pokreni">
 <!ENTITY media_pause "Pauziraj">
-<!ENTITY media_stop "Zaustavi">
+
 
 <!ENTITY contextmenu_open_new_tab "Otvori u novoj kartici">
 <!ENTITY contextmenu_open_private_tab "Otvori u privatnoj kartici">
-<!ENTITY contextmenu_remove "Ukloni">
+
 <!ENTITY contextmenu_add_to_launcher "Dodaj na početni ekran">
-<!ENTITY contextmenu_share "Dijeli">
+
 <!ENTITY contextmenu_pasteandgo "Zalijepi i kreni">
 <!ENTITY contextmenu_paste "Zalijepi">
 <!ENTITY contextmenu_copyurl "Kopiraj adresu">
 <!ENTITY contextmenu_edit_bookmark "Uredi">
 <!ENTITY contextmenu_subscribe "Pretplati se na stranicu">
 <!ENTITY contextmenu_site_settings "Uredi postavke stranice">
-<!ENTITY contextmenu_top_sites_edit "Uredi">
+
 <!ENTITY contextmenu_top_sites_pin "Prikači stranicu">
 <!ENTITY contextmenu_top_sites_unpin "Otkači stranicu">
 <!ENTITY contextmenu_add_search_engine "Dodaj pretraživač interneta">
@@ -340,7 +336,7 @@ size. -->
      dialog that appears after selecting the "Edit Site Settings" context menu item. -->
 
 <!ENTITY site_settings_title3       "Postavke stranice">
-<!ENTITY site_settings_cancel       "Odustani">
+
 <!ENTITY site_settings_clear        "Obriši">
 <!ENTITY site_settings_no_settings  "Nema postavki za obrisati.">
 
@@ -361,12 +357,12 @@ size. -->
 <!ENTITY masterpassword_confirm "Potvrdite lozinku">
 
 <!ENTITY button_ok "OK">
-<!ENTITY button_cancel "Odustani">
+
 <!ENTITY button_yes "Da">
 <!ENTITY button_no "Ne">
 <!ENTITY button_clear_data "Obriši podatke">
-<!ENTITY button_set "Postavi">
-<!ENTITY button_clear "Obriši">
+
+
 
 <!ENTITY home_top_sites_title "Najpopularnije stranice">
 <!-- Localization note (home_top_sites_add): This string is used as placeholder
@@ -374,7 +370,7 @@ size. -->
 <!ENTITY home_top_sites_add "Dodaj stranicu">
 <!-- Localization note (home_title): This string should be kept in sync
      with the page title defined in aboutHome.dtd -->
-<!ENTITY home_history_title "Povijest">
+
 
 
 <!ENTITY home_bookmarks_empty "Zabilješke koje spremite se pojave ovdje.">
@@ -420,7 +416,6 @@ size. -->
 
 
 
-<!ENTITY filepicker_title "Odaberi datoteku">
 
 
 
@@ -475,7 +470,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- Guest mode -->
 
 
-<!ENTITY guest_session_dialog_cancel "Odustani">
+
 
 
 
@@ -490,7 +485,10 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- These are only used for accessibility for the done and overflow-menu buttons in the actionbar.
      They are never shown to users -->
 
-<!ENTITY actionbar_menu "Izbornik">
+<!-- Voice search in the awesome bar -->
+
+
+
 
 <!-- Localization note (remote_tabs_last_synced): the variable is replaced by a
      "relative time span string" produced by Android.  This string describes the
@@ -498,6 +496,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      include "42 minutes ago", "4 days ago", "last week", etc. The subject of
      "Last synced" is one of the user's other Sync clients, typically Firefox on
      their desktop or laptop.-->
+<!-- Localization note: Used when the sync has not happend yet, showed in place of a date -->
 <!-- Find-In-Page strings -->
 <!-- LOCALIZATION NOTE (find_matchcase): This is meant to appear as an icon that changes color
      if match-case is activated. i.e. No more than two letters, one uppercase, one lowercase. -->

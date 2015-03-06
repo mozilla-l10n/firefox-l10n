@@ -12,9 +12,9 @@
 <!ENTITY calendar.unifinder.todoitems.label       "Zadaci" >
 <!ENTITY calendar.unifinder.showcompletedtodos.label "Prikaži završene zadatke">
 
-<!ENTITY calendar.today.button.label       "Danas">
+<!ENTITY calendar.today.button.label          "Danas">
 <!ENTITY calendar.tomorrow.button.label       "Sutra">
-<!ENTITY calendar.soon.button.label           "Uskoro">
+
 
 <!ENTITY calendar.events.filter.all.label "Svi događaji">
 <!ENTITY calendar.events.filter.today.label "Današnji događaji">
@@ -233,8 +233,15 @@
 <!ENTITY calendar.context.newserver.accesskey          "N">
 <!ENTITY calendar.context.findcalendar.label           "Pronađi kalendar…" >
 <!ENTITY calendar.context.findcalendar.accesskey       "r" >
-<!ENTITY calendar.context.deleteserver.label           "Obriši kalendar">
-<!ENTITY calendar.context.deleteserver.accesskey       "b">
+
+
+<!-- LOCALIZATION NOTE (calendar.context.removeserver.label): Removing the
+      calendar is the general action of removing it, while deleting means to
+      clear the data and unsubscribing means just taking it out of the calendar
+      list. -->
+
+
+
 <!ENTITY calendar.context.synccalendars.label          "Sinkroniziraj kalendare">
 <!ENTITY calendar.context.synccalendars.accesskey      "S">
 <!ENTITY calendar.context.publish.label                "Objavi kalendar…">

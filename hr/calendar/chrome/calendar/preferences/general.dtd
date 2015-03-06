@@ -33,6 +33,10 @@
 <!ENTITY pref.default_task_offset_start.label "Zavisno od početka">
 <!ENTITY pref.default_task_offset_next_hour.label "Zavisno od sljedećeg sata">
 
+<!ENTITY pref.calendar.todaypane.agenda.caption "Današnji događaji">
+
+
+
 <!ENTITY pref.accessibility.label "Pristupačnost" >
 <!ENTITY pref.systemcolors.label "Optimiziraj boje za pristupačnost" >
 <!ENTITY pref.systemcolors.accesskey "O">
