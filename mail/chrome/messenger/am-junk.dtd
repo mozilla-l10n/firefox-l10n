@@ -20,7 +20,7 @@
 <!ENTITY whitelistHeader.label "Nu marca acest mesaj ca nesolicitat dacă expeditorul este în:  ">
 <!ENTITY whitelistHeader.accesskey "d">
 
-<!ENTITY ispHeadersWarning.label "If enabled, &brandShortName; will automatically consider messages marked by this external classifier as junk.">
+<!ENTITY ispHeadersWarning.label "Dacă este activată, &brandShortName; va considera automat mesajele marcate de clasificarea externă ca și spam.">
 <!ENTITY ispHeaders.label "Aveți încredere în marcările de nesolicitare făcute de: ">
 <!ENTITY ispHeaders.accesskey "t">
 
