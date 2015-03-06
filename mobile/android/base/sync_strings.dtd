@@ -69,7 +69,7 @@
 
 <!ENTITY sync.button.cancel.label "Renunță">
 <!ENTITY sync.button.connect.label "Conectare">
-<!ENTITY sync.button.ok.label "Ok">
+<!ENTITY sync.button.ok.label "OK">
 <!-- Account strings -->
 
 <!ENTITY sync.account.label "&syncBrand.fullName.label; (învechit)">
