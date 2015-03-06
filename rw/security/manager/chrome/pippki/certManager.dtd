@@ -10,9 +10,6 @@
 <!ENTITY certmgr.tab.ca                       "Abayobozi">
 
 
-<!ENTITY certmgr.ca.builtins                  "CAs Irimimbere">
-<!ENTITY certmgr.ca.mycas                     "CAs Icungwa Nawe">
-
 <!ENTITY certmgr.mine                         "Ufite ibyemezo byatanzwe n'iyi miryango ikuranga:">
 <!ENTITY certmgr.others                       "Ufite ibyemezo muri dosiye iranga aba bantu:">
 
@@ -35,7 +32,6 @@
 
 <!ENTITY certmgr.certdetail.sha1fingerprint   "Igikumwe cya SHA1">
 
-<!ENTITY certmgr.editcert.title               "Guhindura Amagenamiterere y'Icyemezo Mutekano">
 <!ENTITY certmgr.editcacert.title             "Guhindura Amagenamiterere y'Icyizere cy'Icyemezo cya CA">
 <!ENTITY certmgr.editcert.edittrust           "Guhindura amagenamiterere y'icyizere:">
 <!ENTITY certmgr.editcert.trustssl            "Iki cyemezo gishobora kuranga imbugamakuru.">
@@ -47,11 +43,6 @@
 
 
 <!ENTITY certmgr.deletecert.title             "Gusiba Icyemezo">
-<!ENTITY certmgr.deletecert.beforename        "Wasabye gusiba iki cyemezo:">
-<!ENTITY certmgr.deletecert.aftername         "Urashaka koko gusiba iki cyemezo?">
-<!ENTITY certmgr.deleteusercert.title         "Gusiba Icyemezo Rwawe">
-<!ENTITY certmgr.deleteusercert.beforename    "Wasabye gusiba icyemezo:">
-<!ENTITY certmgr.deleteusercert.aftername     "Numara gusiba iki cyemezo, ntuzashobora gusoma ubutumwa bwarinzwe barwifashishije.">
 
 <!ENTITY certmgr.certname                     "Izina ry'Icyemezo">
 
@@ -70,8 +61,6 @@
 
 <!ENTITY certmgr.editca.label                 "Guhindura Icyizere cya CA">
 <!ENTITY certmgr.editca.accesskey             "d">
-<!ENTITY certmgr.add.label                    "Kongera">
-<!ENTITY certmgr.add.accesskey                "n">
 
 
 
@@ -88,8 +77,8 @@
 <!ENTITY certmgr.details.accesskey            "m">
 <!ENTITY certmgr.fields.label                 "Agaciro k'Umwanya">
 <!ENTITY certmgr.fields.accesskey             "c">
-<!ENTITY certmgr.hierarchy.label              "Ikurikiranyanzego ry'Icyemezo">
-<!ENTITY certmgr.hierarchy.accesskey          "k">
+
+
 
 
 

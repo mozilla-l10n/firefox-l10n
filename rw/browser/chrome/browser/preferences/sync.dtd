@@ -28,6 +28,8 @@
 
 
 
+
+
 <!ENTITY engine.addons.label        "Imigereka">
 <!ENTITY engine.addons.accesskey    "g">
 <!-- Device Settings -->
@@ -61,3 +63,4 @@ both, to better adapt this sentence to their language.
 
 
 
+<!ENTITY welcome.useOldSync.label "Uri gukoresha uburyo bwo guhuza bwa kare">
