@@ -25,7 +25,8 @@
 <!ENTITY profilerUI.table.selfAlloc "Własne alokacje">
 <!ENTITY profilerUI.table.function "Funkcja">
 <!ENTITY profilerUI.newtab.tooltiptext "Dodaj nową kartę z zaznaczeniem">
-<!ENTITY profilerUI.options.tooltiptext "Skonfiguruj ustawienia wydajności">
+<!ENTITY profilerUI.options.filter.tooltiptext "Wybierz, jakie dane wyświetlać na osi czasu">
+<!ENTITY profilerUI.options.gear.tooltiptext "Skonfiguruj ustawienia wydajności">
 <!ENTITY profilerUI.invertTree "Odwrócone drzewo wywołań">
 <!ENTITY profilerUI.invertTree.tooltiptext "Odwrócone drzewo wywołań wyświetla zarejestrowane ścieżki wywołań rozwijające się od najmłodszych ramek ku najstarszym.">
 <!ENTITY profilerUI.invertFlameGraph "Odwrócone diagramy">
