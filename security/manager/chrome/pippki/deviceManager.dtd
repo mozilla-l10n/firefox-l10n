@@ -10,11 +10,7 @@
 <!ENTITY devmgr.devlist.label                   "Ibice na Apareye z'Umutekano">
 <!ENTITY devmgr.details.title                   "Ibisobanuro">
 <!ENTITY devmgr.details.title2                  "Agaciro">
-<!ENTITY devmgr.status.label                    "Imimerere">
-<!ENTITY devmgr.version.label                   "Verisiyo">
 
-<!ENTITY devmgr.button.changeslotname.label     "Guhindura Izina ry'Umwanya">
-<!ENTITY devmgr.button.changeslotname.accesskey "h">
 <!ENTITY devmgr.button.login.label              "Kwinjira">
 <!ENTITY devmgr.button.login.accesskey          "n">
 <!ENTITY devmgr.button.logout.label             "Kuvamo">

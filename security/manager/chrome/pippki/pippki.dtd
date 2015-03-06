@@ -9,7 +9,6 @@
 <!ENTITY setPassword.newPassword.label "Ijambobanga rishya:">
 <!ENTITY setPassword.reenterPassword.label "Ijambobanga rishya (na none):">
 <!ENTITY setPassword.meter.label "Imetero y'ubwiza bw'ijambobanga ">
-<!ENTITY setPassword.meter.loading "Irimo Gutangiza">
 <!-- Values for resetpassword.xul -->
 
 <!ENTITY resetPasswordButtonLabel "Kugarura">
@@ -20,19 +19,6 @@
 <!ENTITY getPassword.title  "Kwinjiza Ijambobanga Ngenga">
 
 <!ENTITY getPassword.password.label "Ijambobanga:">
-<!-- These should be common -->
-
-<!ENTITY piperror.title "Ikosa">
-<!ENTITY pipalert.title "Ikosa - ntishobora kugarura">
-<!-- Prefs panel strings -->
-
-<!ENTITY pref.security.general.lHeader "Umutekano">
-<!ENTITY pref.security.general.rHeader "Amagenamiterere y'umutekano rusange">
-<!ENTITY pref.security.general.header "Amagenamiterere y'umutekano rusange">
-<!ENTITY pref.security.general.level.title "Urwego rw'Umutekano">
-<!ENTITY pref.security.general.paranoid.label "Gukoresha amagenamiterere y'umutekano ">
-<!ENTITY pref.security.general.certificates.title "Ibyemezo">
-<!ENTITY pref.security.general.manageCert.label "Gucunga Ibyemezo">
 <!-- Downloading a cert -->
 
 <!ENTITY downloadCert.title "Irimo Kwimura Icyemezo">
@@ -42,9 +28,7 @@
 <!ENTITY downloadCert.trustObjSign "Kwizera uyu CA kugira ngo ubone abahanzi ba porogaramu mudasobwa.">
 <!ENTITY downloadCert.message3 "Mbere yo kwizera uyu CA  kubera impamvu iyariyo yose, ugomba gusuzuma icyemezo cyayo na politiki n'imikorere byayo (niba bihari).">
 <!ENTITY downloadCert.viewCert.label "Kugaragaza">
-<!ENTITY downloadCert.viewPolicy.label "Politiki">
 <!ENTITY downloadCert.viewCert.text "Gusuzuma Icyemezo cya CA">
-<!ENTITY downloadCert.viewPolicy.text "Gusuzuma politiki n'imikorere bya CA">
 <!-- Strings for the SSL client auth ask dialog -->
 
 <!ENTITY clientAuthAsk.title "Gusaba Ikiranga Ukoresha">
@@ -62,9 +46,6 @@
 <!ENTITY pkcs12.setpassword.label1 "Ijambobanga ry'inyibutsacyemezo:">
 <!ENTITY pkcs12.setpassword.label2 "Ijambobanga ry'inyibutsacyemezo (na none):">
 <!ENTITY pkcs12.setpassword.reminder "Icyitonderwa: Niwibagirwa ijambobanga ryawe ry'inyibutsacyemezo, ntuzashobora kugaruraho iyi nyibutsa  nyuma yaho. Usabwe kuyandika ahantu hizewe.">
-
-<!ENTITY pkcs12.getpassword.title  "Agasandugukiganiro k'Iyinjizajambobanga">
-<!ENTITY pkcs12.getpassword.message "Usabwe kwinjiza ijambobanga ryakoreshejwe mu gusobeka iyi nyibutsacyemezo.">
 
 <!ENTITY chooseToken.title  "Guhitamo Agasandukukiganiro k'Akamenyetso">
 <!ENTITY chooseToken.message1 "Usabwe guhitamo akamenyetso.">

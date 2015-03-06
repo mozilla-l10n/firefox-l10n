@@ -4,10 +4,3 @@
 
 <!ENTITY cmd_engineManager.label        "Gucunga Mushakisha...">
 <!ENTITY searchEndCap.label             "Gushakisha">
-<!-- LOCALIZATION NOTE: The SearchHighlight strings are used in the
-   - UITour popups that shows on first use of the new search panel. -->
-
-
-
-
-
