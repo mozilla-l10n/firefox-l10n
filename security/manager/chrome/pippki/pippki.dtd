@@ -14,11 +14,6 @@
 <!ENTITY resetPasswordButtonLabel "Restablecer">
 <!ENTITY resetPassword.title  "Restablecer la contraseña maestra">
 <!ENTITY resetPassword.text  "Si restablece su contraseña maestra, todas las contraseñas web y de correo electrónico almacenados, los datos de los formularios, certificados personales y llaves privadas serán olvidados. ¿Está seguro de que quiere restablecer su contraseña maestra?">
-<!-- Values for getpassword.xul -->
-
-<!ENTITY getPassword.title  "Ingrese Contraseña maestra">
-<!ENTITY getPassword.tokenName2.label "Dispositivo de seguridad:">
-<!ENTITY getPassword.password.label "Contraseña:">
 <!-- Downloading a cert -->
 
 <!ENTITY downloadCert.title "Descargando Certificado">
