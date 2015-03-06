@@ -84,3 +84,7 @@
 
 <!ENTITY accountTitle.label "Nastavení účtu">
 <!ENTITY accountSettingsDesc.label "Toto je speciální účet. Tento účet nemá přiřazeny žádné identity.">
+<!ENTITY storeType.label "Typ úložiště zpráv:">
+<!ENTITY storeType.accesskey "T">
+<!ENTITY mboxStore.label "Jeden velký soubor (mbox)">
+<!ENTITY maildirStore.label "Soubor pro každou zprávu (maildir)">
