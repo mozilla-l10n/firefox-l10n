@@ -143,8 +143,10 @@
 <!ENTITY messagePaneWide.accesskey "B">
 <!ENTITY messagePaneVertical.label "Vertikal vy">
 <!ENTITY messagePaneVertical.accesskey "V">
-<!ENTITY showFolderPaneCmd.label "Mappfältet">
+<!ENTITY showFolderPaneCmd.label "Mappfönstret">
 <!ENTITY showFolderPaneCmd.accesskey "M">
+<!ENTITY showFolderPaneColsCmd.label "Kolumner mappfönstret">
+<!ENTITY showFolderPaneColsCmd.accesskey "o">
 <!ENTITY showMessageCmd.label "Förhandsgranskning">
 <!ENTITY showMessageCmd.accesskey "F">
 
@@ -593,7 +595,9 @@
 <!ENTITY manageTags.accesskey "H">
 
 <!-- Folder Pane -->
-<!ENTITY folderColumn.label "Namn">
+<!ENTITY folderNameColumn.label "Namn">
+<!ENTITY folderUnreadColumn.label "Olästa">
+<!ENTITY folderTotalColumn.label "Totalt">
 <!ENTITY folderSizeColumn.label "Storlek">
 
 <!-- Folder Pane Context Menu -->

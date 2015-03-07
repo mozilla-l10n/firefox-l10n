@@ -35,3 +35,5 @@
 <!ENTITY customsound.accesskey            "d">
 <!ENTITY browse.label                     "Bläddra…">
 <!ENTITY browse.accesskey                 "B">
+
+<!ENTITY defaultSearchEngine.label        "Standardsökmotor">

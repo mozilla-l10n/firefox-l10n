@@ -13,9 +13,6 @@
 <!ENTITY  overridePageColors.auto.label   "Endast med teman med hög kontrast">
 <!ENTITY  overridePageColors.never.label  "Aldrig">
 
-<!ENTITY  allowPagesToUse.label           "Låt innehåll välja sina egna färger, istället för ovanstående val">
-<!ENTITY  allowPagesToUse.accesskey       "l">
-
 <!ENTITY  color                           "Text och bakgrund">
 <!ENTITY  textColor.label                 "Text:">
 <!ENTITY  textColor.accesskey             "t">

@@ -84,3 +84,7 @@
 
 <!ENTITY accountTitle.label "Kontoinställningar">
 <!ENTITY accountSettingsDesc.label "Detta är ett specialkonto. Det finns ingen identitet knuten till det.">
+<!ENTITY storeType.label "Lagringstyp för meddelande:">
+<!ENTITY storeType.accesskey "t">
+<!ENTITY mboxStore.label "En stor fil (mbox)">
+<!ENTITY maildirStore.label "En fil per meddelande (maildir)">

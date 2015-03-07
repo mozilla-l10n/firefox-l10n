@@ -11,10 +11,10 @@
 <!ENTITY radioRememberPrevState.accesskey "K">
 <!ENTITY radioAskState.label "Fråga mig om uppkopplat tillstånd">
 <!ENTITY radioAskState.accesskey "F">
-<!ENTITY radioAlwaysOnline.label "Alltid uppkopplat">
-<!ENTITY radioAlwaysOnline.accesskey "U">
+<!ENTITY radioAlwaysOnlineState.label "Alltid uppkopplat">
+<!ENTITY radioAlwaysOnlineState.accesskey "u">
 <!ENTITY radioAlwaysOffline.label "Alltid nedkopplat">
-<!ENTITY radioAlwaysOffline.accesskey "N">
+<!ENTITY radioAlwaysOffline.accesskey "n">
 
 <!ENTITY textGoingOnline             "Skicka osända meddelanden vid uppkoppling?">
 <!ENTITY radioAutoSend.label         "Ja">
