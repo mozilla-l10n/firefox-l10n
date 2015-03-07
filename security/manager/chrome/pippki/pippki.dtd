@@ -15,11 +15,6 @@
 <!ENTITY resetPassword.title "Repor a senha mestra">
 <!ENTITY resetPassword.text "Se repuser a sua senha mestra, todas as suas senhas web e de correio electrónico, dados de formulários, certificados pessoais e chaves privadas guardadas irão ser esquecidos. Tem a certeza de que quer repor a sua senha mestra?">
 
-<!-- Values for getpassword.xul -->
-<!ENTITY getPassword.title "Introduza a senha mestra">
-<!ENTITY getPassword.tokenName2.label "Security Device:">
-<!ENTITY getPassword.password.label "Senha:">
-
 <!-- Downloading a cert -->
 <!ENTITY downloadCert.title "A transferir certificado">
 <!ENTITY downloadCert.message1 "Foi-lhe pedido para confiar numa nova autoridade certificadora (CA).">
