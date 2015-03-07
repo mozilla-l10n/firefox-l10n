@@ -10,3 +10,4 @@
 <!ENTITY privatebrowsingpage.description            "Məxfi vərəqlərdə &brandShortName; heç bir səyahət tarixçəsi, axtarış tarixçəsi, endirmə tarixçəsi, forma tarixçəsi, çərəzləri və müvəqqəti internet fayllarını qeyd etməyəcək. Amma, endirdiyiniz fayllar və əlfəcinlər saxlanacaq.">
 <!ENTITY privatebrowsingpage.description.private    "&privatebrowsingpage.issueDesc.private; &privatebrowsingpage.description;">
 
+<!ENTITY privatebrowsingpage.moreInfo               "Bu cihaz səyahət tarixçənizi saxlamasa belə sizin internet provayderiniz yenə də səyahət etdiyiniz səhifələri izləyə bilər.">
