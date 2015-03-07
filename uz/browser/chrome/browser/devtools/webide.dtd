@@ -52,7 +52,7 @@
 <!ENTITY viewMenu_zoomin_accesskey "I">
 <!ENTITY viewMenu_zoomout_label "Kichiklashtirish">
 <!ENTITY viewMenu_zoomout_accesskey "O">
-<!ENTITY viewMenu_resetzoom_label "Mashstabni tiklash">
+<!ENTITY viewMenu_resetzoom_label "Masshtabni tiklash">
 <!ENTITY viewMenu_resetzoom_accesskey "R">
 
 <!ENTITY projectButton_label "Ilova dasturni ochish">

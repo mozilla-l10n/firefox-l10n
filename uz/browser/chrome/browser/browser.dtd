@@ -601,7 +601,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY fullZoomToggleCmd.label        "Faqat matnni kattalashtirish">
 <!ENTITY fullZoomToggleCmd.accesskey    "m">
-<!ENTITY fullZoom.label                 "Mashstab">
+<!ENTITY fullZoom.label                 "Masshtab">
 <!ENTITY fullZoom.accesskey             "M">
 
 <!ENTITY sidebarCloseButton.tooltip     "Yon panelni yopish">
