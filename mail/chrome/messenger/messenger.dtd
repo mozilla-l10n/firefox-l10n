@@ -558,7 +558,7 @@
 <!ENTITY chatButton.tooltip "Pokaži zavihek za klepet">
 <!ENTITY tagButton.tooltip "Označi sporočila">
 <!ENTITY compactButton.tooltip "Odstrani izbrisana sporočila iz izbrane mape">
-<!ENTITY appmenuButton1.tooltip "Prikaži meni programa &brandShortName;">
+<!ENTITY appmenuButton1.tooltip "Prikaži &brandShortName;ov meni">
 <!-- Toolbar Button Popup -->
 
 <!ENTITY buttonMenuForwardAsInline.label "Posreduj v besedilu">

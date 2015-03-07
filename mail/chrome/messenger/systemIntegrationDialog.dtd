@@ -12,7 +12,7 @@
 <!ENTITY newsgroups.label "Novičarske skupine">
 <!ENTITY feeds.label "Vire">
 
-<!ENTITY unsetDefault.tooltip "Programa &brandShortName; ni mogoče odstraniti kot privzetega odjemalca znoraj programa &brandShortName;. Če želite privzeto uporabljati drug program, uporabite njegovo pogovorno okno 'Nastavi kot priveto'.">
+<!ENTITY unsetDefault.tooltip "&brandShortName;a ni mogoče odstraniti kot privzetega odjemalca znotraj &brandShortName;a. Če želite privzeto uporabljati drug program, uporabite njegovo pogovorno okno 'Nastavi kot privzeto'.">
 
 <!ENTITY checkOnStartup.label "Vedno preveri ob zagonu &brandShortName;a">
 <!ENTITY checkOnStartup.accesskey "V">
