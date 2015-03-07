@@ -16,7 +16,7 @@
 
 <!ENTITY sync.subtitle.connect.label "Yeni cihazınızı aktiv etmək üçün cihazda “&syncBrand.shortName.label; Qur” seçin.">
 <!ENTITY sync.subtitle.header2.label "Bu kodu digər cihazınızda daxil edin">
-
+<!ENTITY sync.subtitle.connectlocation2.label "Digər cihazınızın Firefox seçimlərindən &syncBrand.shortName.label; bölümündə olan “&sync.title.pair.label;” seçin.">
 <!ENTITY sync.subtitle.pair.label "Aktivləşdirmək üçün digər cihazda “Sinxronlaşdırma” seçin.">
 <!ENTITY sync.pin.default.label "...\n...\n...\n">
 <!ENTITY sync.pin.oneline.label "...">
@@ -42,13 +42,13 @@
 <!ENTITY sync.button.manual.label "Əllə qurma">
 <!ENTITY sync.subtitle.nointernet.label "İnternet bağlantısı yoxdur.">
 <!ENTITY sync.subtitle.failaccount.label "Cihazınızda hesab yaratma uğursuz oldu.">
-
+<!ENTITY sync.subtitle.failmultiple.label "Birdən çox qurulmuş Firefox-unuz var? Hazırda &syncBrand.fullName.label; eyni anda ancaq bir dənə Firefox quruluşunu dəstəkləyir. Lütfən &syncBrand.shortName.label; işlətmək üçün digər nüsxələri silin.">
 <!-- Setup Success -->
 
 <!ENTITY sync.title.success.label "Quraşdırma tamamlandı">
-
+<!ENTITY sync.subtitle.success.label1 "Məlumatlarınız hazırda arxada endirilir. Hesabınızı idarə etmək üçün Tənzimləmələrə gedə və ya &brandShortName; ilə səyahətə başlaya bilərsiniz.">
 <!ENTITY sync.settings.label "Seçimlər">
-
+<!ENTITY sync.subtitle.manage.label1 "&syncBrand.fullName.label; hesabınız artıq quruludur. Hesabınızı idarə etmək Tənzimləmələrə gedə və ya &brandShortName; başlada bilərsiz.">
 <!-- Pair Device -->
 
 <!ENTITY sync.pair.tryagain.label "Lütfən tekrar yoxlayın.">
@@ -108,7 +108,7 @@
 <!ENTITY sync.button.send.label "Göndər">
 <!ENTITY sync.button.set.up.sync.label "&syncBrand.shortName.label;-i qur">
 <!ENTITY sync.title.redirect.to.set.up.sync.label "Vərəqləri göndərmək üçün &syncBrand.shortName.label;-i qurun">
-
+<!ENTITY sync.text.redirect.to.set.up.sync.label "Vərəqlərinizi digər cihazlara göndərmək üçün cihazınızda &syncBrand.fullName.label; qurun.">
 <!ENTITY sync.text.tab.sent.label "Vərəqiniz göndərildi!">
 <!ENTITY sync.text.tab.not.sent.label "Vərəqinizi göndərərkən problem oldu.">
 <!-- Firefox Account strings. -->
@@ -207,8 +207,8 @@
 <!ENTITY fxaccount_status_needs_verification2 "Hesabınız təsdiqlənməlidir. Təsdiq e-poçtunu təkrar göndərmək üçün toxunun.">
 <!ENTITY fxaccount_status_needs_credentials "Qoşula bilmir. Daxil olmaq üçün toxunun.">
 <!ENTITY fxaccount_status_needs_upgrade "Daxil olmaq üçün &brandShortName; səyyahınızı yüksəltməlisiniz.">
-
-
+<!ENTITY fxaccount_status_needs_master_sync_automatically_enabled "&syncBrand.shortName.label; quruludur, amma avtomatik olaraq sinxronlaşdırmır. Android Tənzimləmələri &gt; Vərilənlərin İstifadəsi bölümündən “Məlumatların Avto-Sinxronlaşdırılması”-nı aktiv edin.">
+<!ENTITY fxaccount_status_needs_master_sync_automatically_enabled_v21 "&syncBrand.shortName.label; quruludur, amma avtomatik olaraq sinxronlaşdırmır. Android Tənzimləmələri &gt; Hesablar bölümündən “Məlumatların Avto-Sinxronlaşdırılması”-nı aktiv edin.">
 <!ENTITY fxaccount_status_needs_finish_migrating "Yeni Firefox Hesabınıza daxil olmaq üçün toxunun.">
 <!ENTITY fxaccount_status_bookmarks "Əlfəcinlər">
 <!ENTITY fxaccount_status_history "Tarixçə">
@@ -224,7 +224,7 @@
 <!ENTITY fxaccount_status_more "Daha çox&ellipsis;">
 
 <!ENTITY fxaccount_remove_account_dialog_title "Firefox Hesabı silinsin?">
-
+<!ENTITY fxaccount_remove_account_dialog_message "&brandShortName; sizin hesabla sinxronlaşdırmanı dayandıracaq, amma bu cihazda olan heç bir səyahət məlumatınızı silməyəcək.">
 <!-- Localization note: format string below will be replaced
      with the Firefox Account's email address. -->
 <!ENTITY fxaccount_remove_account_toast "Firefox Hesabı &formatS; silindi.">

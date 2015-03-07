@@ -35,9 +35,9 @@
 <!ENTITY happy.maybeLater2         "Bəlkə daha sonra">
 <!ENTITY happy.noThanks            "Xeyr, təşəkkürlər">
 
-<!ENTITY sad.header                "Tfu!">
-
-<!ENTITY sad.placeholder           "Əks əlaqənizi bura yazın">
+<!ENTITY sad.header                "Ehhh!">
+<!ENTITY sad.message               "&brandShortName; ilə problemləriniz olmasına çox məyus olduq. Lütfən, bizə nə baş verdiyini izah edin ki, onu düzəldə bilək.">
+<!ENTITY sad.placeholder           "Əks-əlaqənizi bura yazın">
 <!ENTITY sad.lastSite2             "Son daxil olunan saytı əlavə et">
 <!-- LOCALIZATION NOTE (sad.urlPlaceholder): Placeholder text that appears in "Last visited site" input box when there is no text. -->
 
