@@ -45,10 +45,13 @@
 <!ENTITY sad.thanksHeader2         "Təşəkkürlər.">
 <!-- LOCALIZATION NOTE (sad.thanksMessageTop): "real people" — We're stating that an actual human will look at the feedback
      and that it doesn't just go to some automated system that looks for keywords, or something like that. -->
+
+<!ENTITY sad.thanksMessageTop      "Biz hər zaman &brandShortName; səyyahını daha yaxşı etmək üçün əlləşirik. Arxayın olun, insanlar sizin əks-əlaqənizə baxacaqlar və problemi həll etmək üçün əllərindən gələni edəcəklər.">
 <!-- LOCALIZATION NOTE (sad.thanksMessageBottom): We're suggesting that there will be consequences for the people working
      on Firefox if they don't resolve the user's problem, like "or if they don't fix it, we'll fire them." If this doesn't
      work in your language, you can change it to something like "no matter what" or just remove it entirely. -->
 
-<!ENTITY sad.thanksMessageBottom   "Yoxsa günlərin görəcəklər.">
+<!ENTITY sad.thanksMessageBottom   "Yoxsa dərslərini verəcik.">
 
-<!ENTITY feedback.send             "Əks əlaqə göndər">
+<!ENTITY feedback.privacy2         "Məxfiliyinizi qorumaq üçün lütfən əks-əlaqənizdə heç bir şəxsi məlumatı əlavə etməyin.">
+<!ENTITY feedback.send             "Əks-əlaqə göndər">
