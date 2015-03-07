@@ -6,6 +6,8 @@
 <!ENTITY itemAutoComplete.label              "Adressering">
 <!ENTITY itemSpellCheck.label                "Stavning">
 
+<!ENTITY dialogCompose.title                 "Skriva">
+
 <!ENTITY forwardMsg.label                     "Vidarebefordra meddelanden:">
 <!ENTITY forwardMsg.accesskey                 "V">
 <!ENTITY inline.label                         "Infogade">

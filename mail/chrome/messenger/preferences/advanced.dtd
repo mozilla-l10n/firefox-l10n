@@ -3,20 +3,21 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY itemGeneral.label       "Allmänt">
+<!ENTITY dataChoicesTab.label    "Dataval">
 <!ENTITY itemDisplay.label       "Läsning &amp; visning">
 <!ENTITY itemUpdate.label        "Uppdateringar">
 <!ENTITY itemNetworking.label    "Nätverk &amp; diskutrymme">
 <!ENTITY itemCertificates.label  "Certifikat">
 
 <!-- General Settings -->
-
-<!ENTITY submitTelemetry.label         "Skicka prestandadata">
-<!ENTITY submitTelemetry.accesskey     "S">
-<!ENTITY telemetryInfoLink.label       "Mer information om Telemetry">
 <!ENTITY enableGlodaSearch.label       "Aktivera global sökning och indexering">
 <!ENTITY enableGlodaSearch.accesskey   "A">
 <!ENTITY allowHWAccel.label            "Använd hårdvaruacceleration när det finns">
 <!ENTITY allowHWAccel.accesskey        "h">
+<!ENTITY storeType.label               "Lagringstyp för meddelande i nya konton:">
+<!ENTITY storeType.accesskey           "t">
+<!ENTITY mboxStore.label               "En stor fil (mbox)">
+<!ENTITY maildirStore.label            "En fil per meddelande (maildir)">
 
 <!ENTITY scrolling.label               "Scrollning">
 <!ENTITY useAutoScroll.label           "Använd automatisk scrollning">
@@ -37,6 +38,19 @@
 <!ENTITY returnReceiptsInfo.label      "Ange hur &brandShortName; ska hantera mottagningskvitto">
 <!ENTITY showReturnReceipts.label      "Mottagningskvitton…">
 <!ENTITY showReturnReceipts.accesskey  "M">
+
+<!-- Data Choices -->
+<!ENTITY telemetrySection.label          "Telemetri">
+<!ENTITY telemetryDesc.label             "Dela data för din e-postklient om prestanda, användning, hårdvara och anpassningar med &vendorShortName; för att hjälpa oss att förbättra &brandShortName;">
+<!ENTITY enableTelemetry.label           "Aktivera telemetri">
+<!ENTITY enableTelemetry.accesskey       "m">
+<!ENTITY telemetryLearnMore.label        "Läs mer">
+
+<!ENTITY crashReporterSection.label      "Kraschrapporter">
+<!ENTITY crashReporterDesc.label         "&brandShortName; skickar in kraschrapporter för att hjälpa &vendorShortName; att göra din e-postklient stabilare och säkrare">
+<!ENTITY enableCrashReporter.label       "Aktivera kraschrapporter">
+<!ENTITY enableCrashReporter.accesskey   "p">
+<!ENTITY crashReporterLearnMore.label    "Läs mer">
 
 <!-- Display and Reading Settings -->
 <!ENTITY reading.caption               "Läsning">

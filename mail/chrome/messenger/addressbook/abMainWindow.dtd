@@ -3,7 +3,8 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY addressbookWindow.title                        "Adressboken">
-
+<!ENTITY blankResultsPaneMessage.label                  "Denna adressbok visar kontakter endast efter en sökning">
+<!ENTITY localResultsOnlyMessage.label                  "Kontakter från fjärradressböcker visas inte förrän du söker">
 <!-- File Menu -->
 <!ENTITY fileMenu.label                                 "Arkiv"> 
 <!ENTITY fileMenu.accesskey                             "A">
@@ -160,6 +161,8 @@ because displayed names don't have the comma in between. -->
 <!ENTITY searchItem.title                               "Snabbsökning">
 
 <!-- Results Pane -->
+<!ENTITY Addrbook.label                                 "Adressboken">
+<!ENTITY Addrbook.accesskey                             "b">
 <!ENTITY GeneratedName.label                            "Namn">
 <!ENTITY GeneratedName.accesskey                        "N">
 <!ENTITY PrimaryEmail.label                             "E-post">
