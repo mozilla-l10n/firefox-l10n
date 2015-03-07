@@ -4,10 +4,10 @@
 
 <!ENTITY folderProps.windowtitle.label "Свойства">
 <!ENTITY generalInfo.label "Основная информация">
-<!ENTITY folderCharsetFallback.label "Резервная кодировка:">
-<!ENTITY folderCharsetFallback.accesskey "е">
-<!ENTITY folderCharsetEnforce.label "Использовать как кодировку для всех сообщений в папке (игнорировать кодировки, определённые для отдельных сообщений, и автоопределение)">
-<!ENTITY folderCharsetEnforce.accesskey "л">
+<!ENTITY folderCharsetFallback2.label "Резервная кодировка текста:">
+<!ENTITY folderCharsetFallback2.accesskey "е">
+<!ENTITY folderCharsetEnforce2.label "Использовать как кодировку для всех сообщений в папке (игнорировать кодировки текста, определённые для отдельных сообщений, и автоопределение)">
+<!ENTITY folderCharsetEnforce2.accesskey "л">
 <!ENTITY folderRebuildSummaryFileTip2.label "Перестроить файл индекса">
 <!ENTITY folderRebuildSummaryFile2.label "Починить папку">
 <!ENTITY folderRebuildSummaryFile2.accesskey "ч">

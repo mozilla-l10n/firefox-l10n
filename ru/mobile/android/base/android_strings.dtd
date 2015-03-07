@@ -59,6 +59,7 @@
 <!ENTITY pref_category_advanced "Дополнительно">
 <!ENTITY pref_category_customize "Настройка">
 <!ENTITY pref_category_customize_summary "Домашняя, поиск, вкладки, импорт">
+<!ENTITY pref_category_customize_alt_summary "Домашняя, поиск, вкладки, открывать позже, импорт">
 <!ENTITY pref_category_language "Язык">
 <!ENTITY pref_category_language_summary "Изменение языка вашего браузера">
 <!ENTITY pref_browser_locale "Язык браузера">
@@ -93,7 +94,9 @@
 <!ENTITY pref_category_devtools_summary "Удалённый отладчик, подсветка прорисовки">
 <!ENTITY pref_developer_paint_flashing "Подсветка прорисовки">
 <!ENTITY pref_developer_remotedebugging "Удалённый отладчик">
+<!ENTITY pref_category_logins "Пароли">
 <!ENTITY pref_remember_signons "Запоминать пароли">
+<!ENTITY pref_manage_logins "Управление паролями">
 <!ENTITY pref_category_home "Дом">
 <!ENTITY pref_category_home_summary "Настройка вашей домашней страницы">
 <!ENTITY pref_category_home_panels "Панели">
@@ -198,6 +201,7 @@
 <!ENTITY help_menu "Справка">
 <!ENTITY quit "Выход">
 <!ENTITY addons "Дополнения">
+<!ENTITY logins "Пароли">
 <!ENTITY downloads "Загрузки">
 <!ENTITY apps "Приложения">
 <!ENTITY char_encoding "Кодировка">
@@ -247,6 +251,8 @@
 <!ENTITY pref_titlebar_mode_url "Отображать адрес страницы">
 <!ENTITY pref_scroll_title_bar2 "Полноэкранный веб-серфинг">
 <!ENTITY pref_scroll_title_bar_summary "Скрывать панель заголовка &brandShortName; при прокрутке страницы вниз">
+<!ENTITY pref_tab_queue_title "Открывать позже">
+<!ENTITY pref_tab_queue_summary "Не давать вкладкам открываться сразу. Все вкладки из очереди будут открыты при следующем запуске &brandShortName;.">
 <!ENTITY page_removed "Страница удалена">
 <!ENTITY bookmark_edit_title "Изменение закладки">
 <!ENTITY bookmark_edit_name "Имя">

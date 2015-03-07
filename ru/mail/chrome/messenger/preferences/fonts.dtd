@@ -55,9 +55,9 @@
 <!ENTITY useDocumentFonts.accesskey "р">
 <!ENTITY sendDefaultCharset.label "Исходящие сообщения:">
 <!ENTITY sendDefaultCharset.accesskey "х">
-<!ENTITY languagesTitle1.label "Кодировки">
-<!ENTITY composingDescription.label "Установить кодировку по умолчанию для входящих и исходящих сообщений">
+<!ENTITY languagesTitle2.label "Кодировка текста">
+<!ENTITY composingDescription2.label "Установить кодировку текста по умолчанию для входящих и исходящих сообщений">
 <!ENTITY viewDefaultCharsetList.label "Входящие сообщения:">
 <!ENTITY viewDefaultCharsetList.accesskey "о">
-<!ENTITY replyInDefaultCharset2.label "По возможности использовать кодировку по умолчанию в ответах на сообщения">
-<!ENTITY replyInDefaultCharset2.accesskey "в">
+<!ENTITY replyInDefaultCharset3.label "По возможности использовать кодировку текста по умолчанию в ответах на сообщения">
+<!ENTITY replyInDefaultCharset3.accesskey "в">

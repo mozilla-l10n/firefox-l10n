@@ -2,8 +2,8 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY windowTitle.label "Сохранить и сменить кодировку">
+<!ENTITY windowTitle2.label "Сохранить и сменить кодировку текста">
 <!ENTITY documentTitleTitle.label "Заголовок страницы">
-<!ENTITY documentCharsetTitle.label "Кодировка">
-<!ENTITY documentCharsetDesc.label "Выберите кодировку, в которой хотите сохранить страницу:">
+<!ENTITY documentCharsetTitle2.label "Кодировка текста">
+<!ENTITY documentCharsetDesc2.label "Выберите кодировку текста, в которой хотите сохранить документ:">
 <!ENTITY documentExportToText.label "Экспорт в текстовый формат">

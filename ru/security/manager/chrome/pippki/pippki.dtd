@@ -11,9 +11,6 @@
 <!ENTITY resetPasswordButtonLabel "Сбросить">
 <!ENTITY resetPassword.title "Сброс мастер-пароля">
 <!ENTITY resetPassword.text "При сбросе мастер-пароля, все сохранённые пароли для веб-сайтов, электронной почты, данные форм, личные сертификаты и закрытые ключи будут утеряны. Вы действительно хотите сбросить свой мастер-пароль?">
-<!ENTITY getPassword.title "Ввод мастер-пароля">
-<!ENTITY getPassword.tokenName2.label "Устройство защиты:">
-<!ENTITY getPassword.password.label "Пароль:">
 <!ENTITY downloadCert.title "Загрузка сертификата">
 <!ENTITY downloadCert.message1 "Вам предлагают доверять новому центру сертификации (CA).">
 <!ENTITY downloadCert.trustSSL "Доверять при идентификации веб-сайтов.">
