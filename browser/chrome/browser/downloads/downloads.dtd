@@ -55,7 +55,7 @@
 <!ENTITY cmd.show.accesskey               "D">
 <!ENTITY cmd.showMac.label                "Afișare în Finder">
 <!ENTITY cmd.showMac.accesskey            "F">
-<!ENTITY cmd.retry.label                  "Încearcă din nou">
+<!ENTITY cmd.retry.label                  "Reîncearcă">
 <!ENTITY cmd.goToDownloadPage.label       "Mergi la pagina de descărcare">
 <!ENTITY cmd.goToDownloadPage.accesskey   "g">
 <!ENTITY cmd.copyDownloadLink.label       "Copiază legătura de descărcare">
