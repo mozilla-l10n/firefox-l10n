@@ -16,5 +16,5 @@
 <!ENTITY return.label "Уведомления о прочтении">
 <!ENTITY junk.label "Спам и подозрительная почта">
 <!ENTITY tags.label "Метки">
-<!ENTITY characterEncoding.label "Кодировка">
+<!ENTITY characterEncoding2.label "Кодировка текста">
 <!ENTITY networkStorage.label "Сеть и хранилище">

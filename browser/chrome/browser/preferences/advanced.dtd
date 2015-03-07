@@ -78,6 +78,7 @@
 <!ENTITY offlineAppsListRemove.accesskey "д">
 <!ENTITY offlineAppRemove.confirm "Удалить данные автономных веб-сайтов">
 <!ENTITY certificateTab.label "Сертификаты">
+<!ENTITY certSelection.label "Запросы">
 <!ENTITY certSelection.description "Когда сервер запрашивает личный сертификат:">
 <!ENTITY certs.auto "Отправлять автоматически">
 <!ENTITY certs.auto.accesskey "а">

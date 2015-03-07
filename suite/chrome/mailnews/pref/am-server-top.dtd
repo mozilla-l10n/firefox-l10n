@@ -60,7 +60,7 @@
 <!ENTITY abbreviateOn.label "Полностью (например «netscape.public.mozilla.mail-news»)">
 <!ENTITY abbreviateOff.label "Аббревиатурой (например «n.p.m.mail-news»)">
 <!ENTITY advancedButton.label "Дополнительно…">
-<!ENTITY serverDefaultCharset.label "Кодировка по умолчанию:">
+<!ENTITY serverDefaultCharset2.label "Кодировка текста по умолчанию:">
 <!ENTITY advancedButton.accesskey "Д">
 <!ENTITY localPath.label "Локальный каталог:">
 <!ENTITY localFolderPicker.label "Выбор локального каталога">

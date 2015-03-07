@@ -14,8 +14,8 @@
 <!ENTITY saveCmd.accesskey "х">
 <!ENTITY saveAsCmd.label "Сохранить как…">
 <!ENTITY saveAsCmd.accesskey "к">
-<!ENTITY saveAsChangeEncodingCmd.label "Изменить и сохранить кодировку">
-<!ENTITY saveAsChangeEncodingCmd.accesskey "з">
+<!ENTITY saveAsChangeEncodingCmd2.label "Изменить и сохранить кодировку текста">
+<!ENTITY saveAsChangeEncodingCmd2.accesskey "з">
 <!ENTITY publishCmd.label "Опубликовать">
 <!ENTITY publishCmd.accesskey "п">
 <!ENTITY publishCmd.key "S">
