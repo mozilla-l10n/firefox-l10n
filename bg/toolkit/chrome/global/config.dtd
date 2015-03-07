@@ -11,8 +11,7 @@
 <!ENTITY aboutWarningButton.label "Ще бъда внимателен, обещавам!">
 <!ENTITY aboutWarningCheckbox.label "Показване на това предупреждение и следващия път">
 
-<!ENTITY searchPrefs.label "Search:">
-<!ENTITY searchPrefs.accesskey "r">
+
 <!ENTITY focusSearch.key "r">
 <!-- Columns -->
 
