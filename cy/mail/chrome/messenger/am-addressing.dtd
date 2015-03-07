@@ -11,7 +11,7 @@
 <!ENTITY useGlobal.label           "Defnyddio fy newisiadau gweinydd LDAP eang ar gyfer y cyfrif hwn">
 <!ENTITY useGlobal.accesskey       "D">
 <!ENTITY editDirectories.label     "Golygu Cyfeiriaduron…">
-<!ENTITY editDirectories.accesskey "G">
+<!ENTITY editDirectories.accesskey "C">
 <!-- LOCALIZATION NOTE (directories.label) : do not translate "LDAP" in below line -->
 <!ENTITY directories.label         "Defnyddio gweinydd LDAP gwahanol:">
 <!ENTITY directories.accesskey     "D">

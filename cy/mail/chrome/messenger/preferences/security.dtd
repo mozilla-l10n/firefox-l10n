@@ -26,7 +26,7 @@
 <!-- Phishing Detector -->
 
 <!ENTITY phishingDetector1.intro  "Mae &brandShortName; yn gallu dadansoddi negeseuon am dwyll e-bost drwy edrych am dechnegau cyffredin i'ch twyllo.">
-<!ENTITY enablePhishingDetector1.label    "Dweud wrthynt os yw'r neges ryw'n ei darllen o dan amheuaeth o fod yn e-bost twyllodrus">
+<!ENTITY enablePhishingDetector1.label    "Dweud wrthyf os yw'r neges ryw'n ei darllen o bosib yn e-bost twyllodrus">
 <!ENTITY enablePhishingDetector1.accesskey  "D">
 <!ENTITY useDownloadedList.label "Defnyddio rhestr wedi'i llwytho i lawr o e-byst sydd o dan amheuaeth o fod yn dwyllodrus">
 <!ENTITY useDownloadedList.accesskey "e">

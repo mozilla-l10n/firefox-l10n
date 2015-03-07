@@ -38,10 +38,10 @@
 <!ENTITY warnOnSendAccelKey.label             "Cadarnhau wrth ddefnyddio llwybr byr bysellfwrdd i anfon neges">
 <!ENTITY warnOnSendAccelKey.accesskey         "b">
 <!ENTITY autoSave.label                       "Awto Gadw pob">
-<!ENTITY autoSave.accesskey                   "A">
+<!ENTITY autoSave.accesskey                   "G">
 <!ENTITY autoSaveEnd.label                    "munud">
 
-<!ENTITY emailCollectionPicker.label           "Ychwanegu cyfeiriadau e-bost anfon yn awtomatig i fy:">
+<!ENTITY emailCollectionPicker.label           "Ychwanegu cyfeiriadau e-bost anfon yn awtomatig i'r:">
 <!ENTITY emailCollectionPicker.accesskey       "Y">
 <!ENTITY addressingTitle.label                 "Awtogwblhau Cyfeiriadau">
 <!ENTITY autocompleteText.label                "Wrth gyfeirio negeseuon, chwilio am gofnodion cyfatebol yn:">
@@ -51,7 +51,7 @@
 <!ENTITY directories.accesskey                 "G">
 <!ENTITY directoriesNone.label                 "Dim">
 <!ENTITY editDirectories.label                 "Golygu Cyfeiriaduron…">
-<!ENTITY editDirectories.accesskey             "G">
+<!ENTITY editDirectories.accesskey             "C">
 
 <!ENTITY sendOptionsDescription.label          "Ffurfweddi ymddygiad fformat testun">
 <!ENTITY sendOptions.label                     "Dewisiadau Anfon…">
@@ -60,4 +60,4 @@
 <!ENTITY attachmentReminder.label              "Gwirio am atodiadau coll">
 <!ENTITY attachmentReminder.accesskey          "w">
 <!ENTITY attachmentReminderOptions.label       "Allweddeiriau…">
-<!ENTITY attachmentReminderOptions.accesskey   "A">
+<!ENTITY attachmentReminderOptions.accesskey   "w">

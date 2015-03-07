@@ -8,7 +8,7 @@
 <!ENTITY  language.accesskey                      "F">
 
 <!ENTITY  size.label                              "Maint:">
-<!ENTITY  proportionalSize.accesskey              "e">
+<!ENTITY  proportionalSize.accesskey              "m">
 <!ENTITY  sizeMono.accesskey                      "i">
 
 <!ENTITY  proportional.label                      "Cyfrannol:">
@@ -63,7 +63,7 @@
 <!ENTITY  useFixedWidthForPlainText.label         "Defnyddio ffont lled sefydlog ar gyfer negeseuon testun plaen">
 <!ENTITY  fixedWidth.accesskey                    "x">
 <!ENTITY  useDocumentFonts.label                  "Caniatáu i negeseuon ddefnyddio ffontiau eraill">
-<!ENTITY  useDocumentFonts.accesskey              "a">
+<!ENTITY  useDocumentFonts.accesskey              "C">
 <!-- Language settings -->
 
 <!ENTITY sendDefaultCharset.label         "Anfon E-bost:">

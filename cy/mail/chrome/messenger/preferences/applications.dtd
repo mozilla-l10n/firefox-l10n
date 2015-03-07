@@ -31,8 +31,8 @@
 <!ENTITY removeCloudFileAccount.label     "Tynnu">
 <!ENTITY removeCloudFileAccount.accesskey "T">
 <!ENTITY authRequired.description         "Mae angen eich caniatâd er mwyn gweld y gosodiadau ar y gwasanaeth storio hwn.">
-<!ENTITY authRequired.button.label        "Caniatáu">
-<!ENTITY authRequired.button.accesskey    "a">
+<!ENTITY authRequired.button.label        "Dilysu">
+<!ENTITY authRequired.button.accesskey    "D">
 
-<!ENTITY enableCloudFileAccountOffer.label "Cynnig rhannu ar gyfer ffeiliau mwy na">
+<!ENTITY enableCloudFileAccountOffer.label "Cynnig rhannu ffeiliau sy'n fwy na">
 <!ENTITY enableCloudFileAccountOffer.mb "MB">
