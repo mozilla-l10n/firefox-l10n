@@ -24,7 +24,7 @@
 <!ENTITY rights.intro-point2-c ".">
 <!-- point 2.5 text for official branded builds -->
 
-<!ENTITY rights.intro-point2.5 "Някои от функциите на &brandShortName; като Докладване на сривове, ви дават възможност да дадете обратна връзка на &vendorShortName;. Избирайки да изпратите обратна връзка, давате на &vendorShortName; разрешение да я използва за подобряване на нейните продукти, да я публикува на страницата си и да я разпространява.">
+<!ENTITY rights.intro-point2.5 "Включване на &amp;Доклад за срив">
 <!-- point 3 text for official branded builds -->
 
 <!ENTITY rights.intro-point3c ".">
