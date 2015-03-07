@@ -467,7 +467,7 @@ size. -->
 <!ENTITY filepicker_video_title "Videonu seçin və ya çəkin">
 <!-- Site identity popup -->
 
-<!ENTITY identity_connected_to "Bağlandığınız sayt">
+<!ENTITY identity_connected_to "Qoşulduğunuz sayt:">
 <!-- Localization note (identity_run_by) : This string appears between a
 domain name (above) and an organization name (below). E.g.
 
@@ -479,7 +479,7 @@ The layout of the identity dialog prevents combining this into a single string w
 substitution variables.  If it is difficult to translate the sense of the string
 with that structure, consider a translation which ignores the preceding domain and
 just addresses the organization to follow, e.g. "This site is run by " -->
-<!ENTITY identity_run_by "İdarə edən:">
+<!ENTITY identity_run_by "İşlədən:">
 <!ENTITY identity_no_info "Bu saytın kimlik məlumatı yoxdur.">
 <!ENTITY identity_not_encrypted "Bu saytla aranızdakı bağlantı şifrələnməyib.">
 <!-- Mixed content notifications in site identity popup -->
@@ -503,14 +503,14 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY private_data_success "Şəxsi məlumatlar silindi">
 <!ENTITY private_data_fail "Bəzi şəxsi məlumatlar təmizlənə bilmədi">
 
-<!ENTITY bookmarkhistory_button_import "İdxal et…">
+<!ENTITY bookmarkhistory_button_import "İdxal et">
 <!ENTITY bookmarkhistory_import_both "Android-dən əlfəcinlər və tarixçə 
 daxil edilir">
 <!ENTITY bookmarkhistory_import_bookmarks "Android-dən əlfəcinlər 
 daxil edilir">
 <!ENTITY bookmarkhistory_import_history "Android-dən tarixçə 
-daxil edilir">
-<!ENTITY bookmarkhistory_import_wait "Lütfən gözləyin…">
+idxal edilir">
+<!ENTITY bookmarkhistory_import_wait "Lütfən gözləyin...">
 
 <!ENTITY suggestions_prompt3 "Axtarış məsləhətlərini aktiv etmək istərdiniz?">
 <!-- Localization note (suggestion_for_engine): The placeholder &formatS1; will be

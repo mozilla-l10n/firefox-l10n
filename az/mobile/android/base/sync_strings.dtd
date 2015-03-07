@@ -9,7 +9,7 @@
 <!-- Main titles. -->
 
 <!ENTITY sync.app.name.label "&syncBrand.fullName.label;">
-<!ENTITY sync.title.connect.label "&syncBrand.shortName.label; bağlanılıb…">
+<!ENTITY sync.title.connect.label "&syncBrand.shortName.label; ilə bağlan">
 <!ENTITY sync.title.adddevice.label "&syncBrand.fullName.label; Hesabı əlavə et">
 <!ENTITY sync.title.pair.label "Cihazları sinxronizasiya et">
 <!-- J-PAKE Key Screen -->
@@ -32,7 +32,7 @@
 <!ENTITY sync.input.username.label "Hesab adı">
 <!ENTITY sync.input.password.label "Şifrə">
 <!ENTITY sync.input.key.label "Bərpa etmə açarı">
-<!ENTITY sync.checkbox.server.label "Başqa server istifadə et…">
+<!ENTITY sync.checkbox.server.label "Şəxsi server istifadə et">
 <!ENTITY sync.input.server.label "Server URL">
 <!-- Setup Fail -->
 
@@ -67,7 +67,7 @@
 <!ENTITY sync.configure.engines.title.tabs "Vərəqlər">
 <!-- Common text -->
 
-<!ENTITY sync.button.cancel.label "ləğv et">
+<!ENTITY sync.button.cancel.label "Ləğv et">
 <!ENTITY sync.button.connect.label "Qoşul">
 <!ENTITY sync.button.ok.label "Oldu">
 <!-- Account strings -->
@@ -98,7 +98,7 @@
 <!ENTITY sync.notification.configure.saved "Seçimləriniz yadda saxlandı.">
 <!-- Incorrect settings and changing credentials. -->
 
-<!ENTITY sync.invalidcreds.label "Yanlış hesab adı ya da şifrə">
+<!ENTITY sync.invalidcreds.label "Yanlış hesab adı və ya şifrə.">
 <!ENTITY sync.invalidserver.label "Lütfən etibarlı bir server ünvanı daxil edin">
 <!ENTITY sync.verifying.label "Təsdiqlənir…">
 <!ENTITY sync.new.recoverykey.status.incorrect "Bərpa Açarı səhvdir. Lütfən təkrar yoxlayın.">

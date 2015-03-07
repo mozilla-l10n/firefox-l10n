@@ -21,7 +21,7 @@
 <!ENTITY sync.customServer          "Şəxsi server istifadə et">
 <!ENTITY sync.serverURL             "Server URL">
 <!ENTITY sync.setup.connect         "Qoşul">
-<!ENTITY sync.setup.cancel          "ləğv et">
+<!ENTITY sync.setup.cancel          "Ləğv et">
 <!ENTITY sync.setup.tutorial        "Necə ediləcəyini göstər">
 <!ENTITY sync.setup.waiting2        "Digər cihaz üçün gözlənilir…">
 
