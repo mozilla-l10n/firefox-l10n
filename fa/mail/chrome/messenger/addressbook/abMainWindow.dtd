@@ -113,7 +113,7 @@ because displayed names don't have the comma in between. -->
 
 <!ENTITY tasksMenu.label                                "ابزارها">
 <!ENTITY tasksMenu.accesskey                            "ا">
-<!ENTITY messengerCmd.label                             "Mail &amp; Newsgroups">
+<!ENTITY messengerCmd.label                             "&amp;Mail  Newsgroups">
 <!ENTITY messengerCmd.accesskey                         "M">
 <!ENTITY messengerCmd.commandkey                        "1">
 <!ENTITY searchAddressesCmd.label                       "Search Addresses…">
