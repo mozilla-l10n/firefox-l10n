@@ -25,7 +25,7 @@
 
 <!ENTITY optionsGroup.label  "Alternativ">
 
-<!ENTITY printBG.label       "Skriv ut bakgrund (färger &amp; bilder)">
+<!ENTITY printBG.label       "Skriv ut &amp;bakgrund (färger  bilder)">
 <!ENTITY printBG.accesskey   "b">
 
 <!ENTITY advanced.tab        "Marginaler &amp; Sidhuvud/sidfot">
