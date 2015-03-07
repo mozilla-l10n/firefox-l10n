@@ -257,7 +257,7 @@
 <!ENTITY smiley16Cmd.label "Buze pecetluite">
 <!-- Message Pane Context Menu -->
 
-<!ENTITY spellCheckNoSuggestions.label "Nici o sugestie găsită">
+<!ENTITY spellCheckNoSuggestions.label "Nicio sugestie găsită">
 <!ENTITY spellCheckIgnoreWord.label "Ignoră cuvânt">
 <!ENTITY spellCheckIgnoreWord.accesskey "I">
 <!ENTITY spellCheckAddToDictionary.label "Adaugă în dicționar">

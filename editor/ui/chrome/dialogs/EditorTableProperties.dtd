@@ -33,7 +33,7 @@
 <!ENTITY tableCaptionBelow.label          "Sub tabel">
 <!ENTITY tableCaptionLeft.label           "La stânga tabelului">
 <!ENTITY tableCaptionRight.label          "La dreapta tabelului">
-<!ENTITY tableCaptionNone.label           "Nici una">
+<!ENTITY tableCaptionNone.label           "Niciuna">
 <!ENTITY tableInheritColor.label           "(Lasă să se vadă culoarea paginii)">
 
 <!ENTITY cellSelection.label              "Selecție">
