@@ -29,7 +29,7 @@ sentence. -->
 <!ENTITY  completeNotification.label          "gydag enw'r anfonwr a rhagolwg o'r neges">
 <!ENTITY  buddyInfoOnly.label                 "gydag enw'r anfonwr yn unig">
 <!ENTITY  dummyNotification.label             "heb unrhyw wybodaeth">
-<!ENTITY  chatSound.accesskey                 "n">
+<!ENTITY  chatSound.accesskey                 "C">
 <!ENTITY  chatSound.label                     "Canu nodyn">
 <!ENTITY  play.label                          "Chwarae">
 <!ENTITY  play.accesskey                      "h">
