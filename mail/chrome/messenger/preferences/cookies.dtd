@@ -4,7 +4,7 @@
 
 <!ENTITY window.width                      "36em">
 
-<!ENTITY cookiesonsystem.label             "Mae'r cwcis canlynol wedi'u storio ar eich cyfrifiadur:">
+<!ENTITY cookiesonsystem.label             "Mae'r cwcis canlynol wedi'u cadw ar eich cyfrifiadur:">
 <!ENTITY cookiename.label                  "Enw'r Cwci">
 <!ENTITY cookiedomain.label                "Gwefan">
 <!ENTITY button.removecookie.label         "Tynnu Cwci">

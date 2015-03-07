@@ -14,12 +14,12 @@
 
 <!ENTITY normalText.label "Testun arferol">
 <!ENTITY normalText.accessKey "T">
-<!ENTITY linkText.label "Testun cyswllt">
-<!ENTITY linkText.accessKey "c">
+<!ENTITY linkText.label "Testun dolen">
+<!ENTITY linkText.accessKey "d">
 <!ENTITY activeLinkText.label "Cyswllt testun gweithredol">
 <!ENTITY activeLinkText.accessKey "g">
-<!ENTITY visitedLinkText.label "Testun cyswllt wedi ymweld">
-<!ENTITY visitedLinkText.accessKey "y">
+<!ENTITY visitedLinkText.label "Testun dolen wedi ymweld">
+<!ENTITY visitedLinkText.accessKey "o">
 <!ENTITY background.label "Cefndir:">
 <!ENTITY background.accessKey "e">
 <!ENTITY colon.character ":">
