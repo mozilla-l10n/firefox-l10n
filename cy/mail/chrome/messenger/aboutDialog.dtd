@@ -22,10 +22,10 @@
 
 <!ENTITY community.exp.start        "">
 <!-- LOCALIZATION NOTE (community.exp.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
-<!ENTITY community.exp.mozillaLink  "&vendorShortName;">
-<!ENTITY community.exp.middle       " yw ">
+<!ENTITY community.exp.mozillaLink  "Mae &vendorShortName;">
+<!ENTITY community.exp.middle       " yn ">
 <!-- LOCALIZATION NOTE (community.exp.creditslink): This is a link title that links to about:credits. -->
-<!ENTITY community.exp.creditsLink  "cymuned fyd-eang">
+<!ENTITY community.exp.creditsLink  "gymuned fyd-eang">
 <!ENTITY community.exp.end          " sy'n cydweithio i gadw'r We yn agored, cyhoeddus ac ar gael i bawb.">
 
 <!ENTITY community.start2           "Cynlluniwyd &brandShortName; gan ">
@@ -38,10 +38,10 @@
 
 <!ENTITY helpus.start               "Hoffech chi helpu? ">
 <!-- LOCALIZATION NOTE (helpus.donateLink): This is a link title that links to the thunderbird donation page -->
-<!ENTITY helpus.donateLink          "Gwneud cyfraniad">
+<!ENTITY helpus.donateLink          "Gwnewch gyfraniad">
 <!ENTITY helpus.middle              " neu ">
 <!-- LOCALIZATION NOTE (helpus.getInvolvedLink): This is a link title that links to http://www.mozilla.org/contribute/. -->
-<!ENTITY helpus.getInvolvedLink     "beth am ymuno!">
+<!ENTITY helpus.getInvolvedLink     "beth am ymuno â ni!">
 <!ENTITY helpus.end                 "">
 <!-- LOCALIZATION NOTE (bottomLinks.license): This is a link title that links to about:license. -->
 
@@ -103,6 +103,6 @@
      example: You are currently on the _Stable_ update channel. -->
 
 <!ENTITY channel.description.start  "Ar hyn o bryd rydych ar sianel diweddaru ">
-<!ENTITY channel.description.end    " sianel diweddaru. ">
+<!ENTITY channel.description.end    ".">
 
 <!ENTITY cmdCloseMac.commandKey "w">
