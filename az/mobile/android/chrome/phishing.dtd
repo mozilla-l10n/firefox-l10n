@@ -14,4 +14,4 @@
 
 <!ENTITY safeb.blocked.phishingPage.title2 "Saxtakarlıq şübhəsi!">
 <!ENTITY safeb.blocked.phishingPage.shortDesc2 "Bu səhifəyə şəxsi məlumatlarınızı daxil etməniz, şəxsiyyət oğurluğu və ya başqa fırıldaqçılıqla nəticələnə bilər.">
-<!ENTITY safeb.blocked.phishingPage.longDesc2 "<p>Bu cür saxtakarlıqlarda inandığınız qaynaqların adından istifadə edərək şəxsi məlumatlarınızı oğurlamağa cəhd edirlər. </p>">
+<!ENTITY safeb.blocked.phishingPage.longDesc2 "<p>Bu cür saxtakarlıqlarda inandığınız qaynaqların adından istifadə edərək, şəxsi məlumatlarınızı oğurlamağa cəhd edirlər.</p>">

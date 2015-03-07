@@ -379,7 +379,7 @@ size. -->
 <!ENTITY page_action_dropmarker_description "Əlavə tədbirlər">
 
 <!ENTITY masterpassword_create_title "Ana Şifrə Yarat">
-<!ENTITY masterpassword_remove_title "Ana şifrəni sil ">
+<!ENTITY masterpassword_remove_title "Ana Şifrəni Sil">
 <!ENTITY masterpassword_password "Şifrə">
 <!ENTITY masterpassword_confirm "Şifrəni təsdiqləyin">
 
