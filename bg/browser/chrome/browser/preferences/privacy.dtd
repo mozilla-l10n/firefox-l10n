@@ -11,9 +11,11 @@
 
 <!ENTITY doNotTrackInfo.label           "Научете повече">
 
+<!ENTITY  history.label                 "История">
 
 <!ENTITY  locationBar.label             "Лента за адрес">
 
+<!ENTITY  locbar.suggest.label          "При използване на адресната лента, подсказване на:">
 
 
 
