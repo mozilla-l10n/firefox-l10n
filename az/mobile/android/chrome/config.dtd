@@ -15,7 +15,7 @@
 <!ENTITY newPref.numberPlaceholder     "Ədəd daxil edin">
 
 <!ENTITY newPref.toggleButton          "Aç/Qapat">
-<!ENTITY newPref.cancelButton          "ləğv et">
+<!ENTITY newPref.cancelButton          "Ləğv et">
 
 <!ENTITY contextMenu.copyPrefName      "Adı köçür">
 <!ENTITY contextMenu.copyPrefValue     "Dəyəri köçür">

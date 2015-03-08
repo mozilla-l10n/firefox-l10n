@@ -62,7 +62,7 @@
 <!ENTITY site_security "Sayt Təhlükəsizliyi">
 <!ENTITY edit_mode_cancel "Ləğv et">
 
-<!ENTITY close_tab "vərəqi bağla">
+<!ENTITY close_tab "Vərəqi qapat">
 <!ENTITY one_tab "1 vərəq">
 <!-- Localization note (num_tabs2) : Number of tabs is always more than one.
      We can't use android plural forms, sadly. See bug #753859. -->
