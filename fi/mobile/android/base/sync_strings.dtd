@@ -150,6 +150,8 @@
      etc).  The account remains a "Firefox Account". -->
 <!ENTITY fxaccount_create_account_header2 'Luo Firefox-tili'>
 <!ENTITY fxaccount_create_account_password_length_restriction 'Vähintään 8 merkkiä'>
+<!ENTITY fxaccount_create_account_day_of_birth 'Päivä'>
+<!ENTITY fxaccount_create_account_month_of_birth 'Kuukausi'>
 <!ENTITY fxaccount_create_account_year_of_birth 'Syntymävuosi'>
 <!-- Localization note: &formatS1; is fxaccount_policy_linktos, &formatS2; is fxaccount_policy_linkprivacy, both hyperlinked. -->
 <!ENTITY fxaccount_create_account_policy_text2 'Jatkamalla hyväksyt Firefoxin verkkopalveluiden &formatS1; ja &formatS2;.'>
@@ -207,7 +209,6 @@
 <!ENTITY fxaccount_status_needs_upgrade '&brandShortName; täytyy päivittää, jotta voit kirjautua sisään.'>
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled '&syncBrand.shortName.label;-palvelu on määritelty, mutta ei synkronoi tietoja automaattisesti. Aseta päälle “Synkronoi tiedot automaattisesti” Androidin asetuksista kohdasta Tietojen käyttö.'>
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled_v21 '&syncBrand.shortName.label;-palvelu on määritelty, mutta ei synkronoi tietoja automaattisesti. Aseta päälle “Synkronoi tiedot automaattisesti” valikosta Android-asetukset &gt; Tilit.'>
-<!ENTITY fxaccount_status_needs_account_enabled '&syncBrand.shortName.label;-palvelu on määritelty, mutta ei synkronoi tietoja automaattisesti. Synkronoi hipaisemalla.'>
 <!ENTITY fxaccount_status_needs_finish_migrating 'Kosketa kirjautuaksesi uudelle Firefox-tilillesi.'>
 <!ENTITY fxaccount_status_bookmarks 'Kirjanmerkit'>
 <!ENTITY fxaccount_status_history 'Sivuhistoria'>
