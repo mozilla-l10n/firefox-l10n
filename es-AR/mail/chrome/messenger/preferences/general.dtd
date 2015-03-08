@@ -36,3 +36,4 @@
 <!ENTITY browse.label                     "Examinar…">
 <!ENTITY browse.accesskey                 "x">
 
+<!ENTITY defaultSearchEngine.label        "Buscador predeterminado">
