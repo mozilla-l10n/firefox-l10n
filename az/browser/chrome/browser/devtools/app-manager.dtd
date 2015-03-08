@@ -67,16 +67,16 @@
 
 <!ENTITY projects.localApps "Lokal Tətbiqlər">
 <!ENTITY projects.addApp "Əlavə et">
+<!ENTITY projects.addPackaged "Paketlənmiş tətbiq əlavə et">
+<!ENTITY projects.addPackagedTooltip "Kompüterimdən yeni bir paketlənmiş tətbiq (qovluq) əlavə et">
 
 
-
-
-
+<!ENTITY projects.title "Lokal Tətbiqlər">
 
 
 <!ENTITY projects.updateApp "Yeniləmə">
 
-
+<!ENTITY projects.debugApp "Sazlama">
 
 <!ENTITY projects.saveManifest "Yadda saxla">
 <!ENTITY projects.saveManifestTooltip "Save the contents of the Manifest Editor below">
@@ -92,6 +92,7 @@
 
 
 
+<!ENTITY help.title "Tətbiq İdarəçisi">
 <!ENTITY help.close "Qapat">
 
 <!ENTITY help.usefullLinks "Faydalı istinadlar:">
