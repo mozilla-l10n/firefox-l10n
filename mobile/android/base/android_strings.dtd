@@ -79,6 +79,7 @@
 <!ENTITY pref_category_advanced "Avancé">
 <!ENTITY pref_category_customize "Personnalisation">
 <!ENTITY pref_category_customize_summary "Accueil, recherche, onglets, importation">
+<!ENTITY pref_category_customize_alt_summary "Accueil, recherche, onglets, ouverture différée, importation">
 
 <!-- Localization note (pref_category_language) : This is the preferences
      section in which the user picks the locale in which to display Firefox
@@ -141,7 +142,9 @@
 <!ENTITY pref_category_devtools_summary "Débogage distant, zones repeintes">
 <!ENTITY pref_developer_paint_flashing "Mise en surbrillance des zones repeintes">
 <!ENTITY pref_developer_remotedebugging "Débogage distant">
+<!ENTITY pref_category_logins "Identifiants">
 <!ENTITY pref_remember_signons "Enreg. les mots de passe">
+<!ENTITY pref_manage_logins "Gérer les identifiants">
 
 <!ENTITY pref_category_home "Écran d\u0027accueil">
 <!ENTITY pref_category_home_summary "Personnaliser l\u0027écran d\u0027accueil">
@@ -289,6 +292,7 @@ size. -->
 <!ENTITY quit "Quitter">
 
 <!ENTITY addons "Modules complémentaires">
+<!ENTITY logins "Identifiants">
 <!ENTITY downloads "Téléchargements">
 <!ENTITY apps "Applications">
 <!ENTITY char_encoding "Encodage de caractères">
@@ -350,6 +354,9 @@ size. -->
      whether or not the dynamic toolbar is enabled. -->
 <!ENTITY pref_scroll_title_bar2 "Navigation plein écran">
 <!ENTITY pref_scroll_title_bar_summary "Masquer la barre de titre de &brandShortName; lors du défilement de la page">
+
+<!ENTITY pref_tab_queue_title "Ouverture différée">
+<!ENTITY pref_tab_queue_summary "Empêcher les onglets de s\u0027ouvrir immédiatement. Les onglets dans la file d\u0027attente seront ouverts au prochain démarrage de &brandShortName;.">
 
 <!-- Localization note (page_removed): This string appears in a toast message when
      any page is removed frome about:home. This includes pages that are in history,
