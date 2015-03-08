@@ -77,6 +77,8 @@
 <!ENTITY netmonitorUI.tab.preview         "Предварителен преглед">
 <!-- LOCALIZATION NOTE (netmonitorUI.tab.security): This is the label displayed
   -  in the network details pane identifying the security tab. -->
+
+<!ENTITY netmonitorUI.tab.security        "Сигурност">
 <!-- LOCALIZATION NOTE (debuggerUI.footer.filterAll): This is the label displayed
   -  in the network details footer for the "All" filtering button. -->
 

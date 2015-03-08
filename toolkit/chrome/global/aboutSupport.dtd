@@ -93,4 +93,4 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.copyRawDataToClipboard.label "Копиране на необработените данни в системния буфер">
 
 
-
+<!ENTITY aboutSupport.restartInSafeMode.label "Рестартиране с изключени добавки…">

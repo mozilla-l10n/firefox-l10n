@@ -213,8 +213,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY addons.label                 "Добавки">
 <!ENTITY addons.accesskey             "Д">
 
-
-
+<!ENTITY webapps.label                "Приложения">
+<!ENTITY webapps.accesskey            "П">
 
 <!ENTITY webDeveloperMenu.label       "Уеб разработчик">
 <!ENTITY webDeveloperMenu.accesskey   "У">
@@ -737,8 +737,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- Bad Content Blocker Doorhanger Notification -->
 
 
-
-
+<!ENTITY mixedContentBlocked2.learnMore "Научете повече">
+<!ENTITY mixedContentBlocked2.options "Настройки">
 
 
 
@@ -747,8 +747,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY trackingContentBlocked.message "Проследяване">
 
-
-
+<!ENTITY trackingContentBlocked.learnMore "Научете повече">
+<!ENTITY trackingContentBlocked.options "Настройки">
 
 
 
@@ -797,6 +797,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 
 
+<!ENTITY processHang.terminateScript.label        "Спиране на скрипта">
+<!ENTITY processHang.terminateScript.accessKey    "С">
 
 
 
@@ -805,9 +807,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 
 
-
-
-
+<!ENTITY emeNotificationsNotNow.label             "Не сега">
+<!ENTITY emeNotificationsNotNow.accesskey         "Н">
 
 
 

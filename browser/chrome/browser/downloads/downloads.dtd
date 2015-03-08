@@ -55,7 +55,7 @@
 <!ENTITY cmd.show.accesskey               "п">
 <!ENTITY cmd.showMac.label                "Показване във Finder">
 <!ENTITY cmd.showMac.accesskey            "F">
-<!ENTITY cmd.retry.label                  "Опит отново">
+<!ENTITY cmd.retry.label                  "Нов опит">
 <!ENTITY cmd.goToDownloadPage.label       "Отиване на страницата, откъдето е изтеглено">
 <!ENTITY cmd.goToDownloadPage.accesskey   "О">
 <!ENTITY cmd.copyDownloadLink.label       "Копиране на връзката за изтегляне">

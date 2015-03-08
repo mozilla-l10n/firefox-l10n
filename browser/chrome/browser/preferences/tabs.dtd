@@ -9,7 +9,7 @@
 <!ENTITY warnCloseMultipleTabs.accesskey  "з">
 
 <!ENTITY warnOpenManyTabs.label       "Предупреждение, когато отварянето на няколко подпрозореца може да забави &brandShortName;">
-<!ENTITY warnOpenManyTabs.accesskey   "d">
+<!ENTITY warnOpenManyTabs.accesskey   "о">
 
 <!ENTITY restoreTabsOnDemand.label        "Без зареждане на подпрозорци, докато не се отиде на тях">
 <!ENTITY restoreTabsOnDemand.accesskey    "Б">
