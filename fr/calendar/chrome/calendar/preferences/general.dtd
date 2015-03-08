@@ -36,3 +36,7 @@
 <!ENTITY pref.default_task_offset_current.label "Par rapport à l'heure actuelle">
 <!ENTITY pref.default_task_offset_start.label "Par rapport au début">
 <!ENTITY pref.default_task_offset_next_hour.label "Par rapport à l'heure suivante">
+
+<!ENTITY pref.calendar.todaypane.agenda.caption "Panneau « Aujourd'hui »">
+<!ENTITY pref.soondays.label "La section « Prochainement » doit afficher une période de :">
+<!ENTITY pref.soondays.accesskey "P">

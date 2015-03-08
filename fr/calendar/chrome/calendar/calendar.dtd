@@ -14,7 +14,7 @@
 
 <!ENTITY calendar.today.button.label "Aujourd'hui">
 <!ENTITY calendar.tomorrow.button.label "Demain">
-<!ENTITY calendar.soon.button.label "Bientôt">
+<!ENTITY calendar.upcoming.button.label "Prochainement">
 
 <!ENTITY calendar.events.filter.all.label "Tous les évènements">
 <!ENTITY calendar.events.filter.today.label "Évènements du jour">
@@ -225,8 +225,17 @@
 <!ENTITY calendar.context.newserver.accesskey          "N">
 <!ENTITY calendar.context.findcalendar.label           "Rechercher un agenda…" >
 <!ENTITY calendar.context.findcalendar.accesskey       "h" >
-<!ENTITY calendar.context.deleteserver.label           "Supprimer l'agenda">
-<!ENTITY calendar.context.deleteserver.accesskey       "S">
+<!ENTITY calendar.context.deleteserver2.label          "Supprimer l'agenda…">
+<!ENTITY calendar.context.deleteserver2.accesskey      "S">
+
+<!-- LOCALIZATION NOTE (calendar.context.removeserver.label): Removing the
+      calendar is the general action of removing it, while deleting means to
+      clear the data and unsubscribing means just taking it out of the calendar
+      list. -->
+<!ENTITY calendar.context.removeserver.label           "Retirer l'agenda…">
+<!ENTITY calendar.context.removeserver.accesskey       "R">
+<!ENTITY calendar.context.unsubscribeserver.label      "Se désabonner de l'agenda…">
+<!ENTITY calendar.context.unsubscribeserver.accesskey  "d">
 <!ENTITY calendar.context.synccalendars.label          "Synchroniser les agendas">
 <!ENTITY calendar.context.synccalendars.accesskey      "h">
 <!ENTITY calendar.context.publish.label                "Publier l'agenda…">
