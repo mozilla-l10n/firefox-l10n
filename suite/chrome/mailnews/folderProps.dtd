@@ -32,7 +32,7 @@
 <!ENTITY retentionKeepRecent.accesskey "m">
 <!-- LOCALIZATION NOTE: Unhide with .keepUnreadOnly { display: -moz-box; } -->
 <!ENTITY retentionKeepUnreadHidden.label "Vždy smazat přečtené zprávy (nezávisle na jejich stáří)">
-<!ENTITY retentionApplyToFlagged.label "Vždy ukládat zprávy s hvězdičkou">
+<!ENTITY retentionApplyToFlagged.label "Vždy ukládat zprávy s praporkem">
 <!ENTITY retentionApplyToFlagged.accesskey "u">
 
 <!ENTITY folderSynchronizationTab.label "Synchronizace">

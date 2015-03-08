@@ -692,7 +692,7 @@
 <!ENTITY totalColumn2.tooltip "Seřadíte dle celkového počtu zpráv ve vlákně">
 <!ENTITY readColumn2.tooltip "Seřadíte podle přečtených">
 <!ENTITY receivedColumn2.tooltip "Seřadíte podle data doručení">
-<!ENTITY starredColumn2.tooltip "Seřadíte podle praporku">
+<!ENTITY starredColumn2.tooltip "Seřadíte podle hvězdičky">
 <!ENTITY locationColumn2.tooltip "Seřadíte podle umístění">
 <!ENTITY idColumn2.tooltip "Seřadíte podle pořadí přijetí">
 <!ENTITY attachmentColumn2.tooltip "Seřadíte podle příloh">
