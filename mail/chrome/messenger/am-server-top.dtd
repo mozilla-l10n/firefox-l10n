@@ -61,7 +61,7 @@
 <!ENTITY abbreviateOff.label "Nombres abreviados (Por ejemplo,'n.p.m.mail-news')">
 <!ENTITY advancedButton.label "Avanzadas…">
 <!ENTITY advancedButton.accesskey "v">
-<!ENTITY serverDefaultCharset.label "Juego de caracteres predeterminado:">
+<!ENTITY serverDefaultCharset2.label "Codificación de texto predeterminada:">
 <!ENTITY localPath.label "Directorio local:">
 <!ENTITY localFolderPicker.label "Seleccione directorio local">
 <!ENTITY browseFolder.label "Examinar…">
