@@ -19,7 +19,7 @@
 <!ENTITY sync.password              "Parolă">
 <!ENTITY sync.recoveryKey           "Cheie de recuperare">
 <!ENTITY sync.customServer          "Folosește server personalizat">
-<!ENTITY sync.serverURL             "URL către server">
+<!ENTITY sync.serverURL             "URL-ul serverului">
 <!ENTITY sync.setup.connect         "Conectare">
 <!ENTITY sync.setup.cancel          "Renunță">
 <!ENTITY sync.setup.tutorial        "Arată-mi cum">
