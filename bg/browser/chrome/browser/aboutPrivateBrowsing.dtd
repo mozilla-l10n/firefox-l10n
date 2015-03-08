@@ -12,5 +12,5 @@
 <!ENTITY aboutPrivateBrowsing.moreInfo         "Компютърът няма да пази история на сърфирането, но вашият работодател или Интернет доставчик могат да проследят кои страници посещавате.">
 
 
-<!ENTITY privatebrowsingpage.openPrivateWindow.label "Oтваряне на прозовец за поверително сърфиране">
-<!ENTITY privatebrowsingpage.openPrivateWindow.accesskey "P">
+<!ENTITY privatebrowsingpage.openPrivateWindow.label "Отваряне на прозорец за поверително сърфиране">
+<!ENTITY privatebrowsingpage.openPrivateWindow.accesskey "О">

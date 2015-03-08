@@ -29,12 +29,12 @@
 <!-- LOCALIZATION NOTE (options.context.inspector): This is the label for
   -  the heading of the Inspector group in the options panel. -->
 
-<!ENTITY options.context.inspector "Изследовател">
+<!ENTITY options.context.inspector "Инспектор">
 <!-- LOCALIZATION NOTE (options.showUserAgentStyles.label): This is the label
   -  for the checkbox option to show user agent styles in the Inspector
   -  panel. -->
 
-<!ENTITY options.showUserAgentStyles.label "Показване стиловете на браузъра">
+<!ENTITY options.showUserAgentStyles.label "Показване на браузърните стилове">
 <!ENTITY options.showUserAgentStyles.tooltip "Включването на това ще покаже стандартните стилове, зареждани от браузъра.">
 <!-- LOCALIZATION NOTE (options.defaultColorUnit.label): This is the label for a
   -  dropdown list that controls the default color unit used in the inspector.

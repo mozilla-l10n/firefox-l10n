@@ -31,7 +31,8 @@
 <!ENTITY alwaysAsk.label "Винаги да се пита къде да се записват файловете">
 <!ENTITY alwaysAsk.accesskey "В">
 
-
+<!ENTITY alwaysCheckDefault2.label        "Проверяване дали &brandShortName; е браузърът по подразбиране">
+<!ENTITY alwaysCheckDefault2.accesskey    "б">
 
 
 <!ENTITY isDefault.label                  "&brandShortName; е вашият стандартен браузър">
