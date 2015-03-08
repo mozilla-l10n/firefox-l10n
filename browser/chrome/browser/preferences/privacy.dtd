@@ -4,8 +4,8 @@
 
 <!ENTITY tracking.label                 "Следене">
 
-<!ENTITY dntTrackingNotOkay.label2      "Казване на сайтовете, че не искам да бъда следен">
-<!ENTITY dntTrackingNotOkay.accesskey   "К">
+<!ENTITY dntTrackingNotOkay.label2      "Изискване от страници и приложения да не бъда проследяван">
+<!ENTITY dntTrackingNotOkay.accesskey   "н">
 
 
 
@@ -44,12 +44,12 @@
 
 <!ENTITY  historyHeader.pre.label          "&brandShortName; ще:">
 <!ENTITY  historyHeader.pre.accesskey      "щ">
-<!ENTITY  historyHeader.remember.label     "Помни историята">
-<!ENTITY  historyHeader.dontremember.label "Никога няма да помни историята">
-<!ENTITY  historyHeader.custom.label       "Използва частни настройки за историята">
+<!ENTITY  historyHeader.remember.label     "Помни история">
+<!ENTITY  historyHeader.dontremember.label "Никога няма да помни история">
+<!ENTITY  historyHeader.custom.label       "Използва потребителски настройки">
 <!ENTITY  historyHeader.post.label         "">
 
-<!ENTITY  rememberDescription.label      "&brandShortName; ще помни историята на браузването, изтеглянията, формулярите  и търсенията и ще съхранява бисквитките на сайтовете, които посещавате.">
+<!ENTITY  rememberDescription.label      "&brandShortName; ще помни история на сърфирането, изтеглянията, формулярите и търсенията и ще съхранява бисквитките на страниците, които посещавате.">
 <!-- LOCALIZATION NOTE (rememberActions.pre.label): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (rememberActions.middle.label): include a starting and trailing space as needed -->
 <!-- LOCALIZATION NOTE (rememberActions.post.label): include a starting space as needed -->
@@ -71,7 +71,7 @@
 <!ENTITY  privateBrowsingPermanent2.label "Винаги да се използва поверително сърфиране">
 <!ENTITY  privateBrowsingPermanent2.accesskey "п">
 
-<!ENTITY  rememberHistory2.label      "Запомняне на моята история на браузването и изтеглянето">
+<!ENTITY  rememberHistory2.label      "Запомняне на моята история на сърфиране и изтегляния">
 <!ENTITY  rememberHistory2.accesskey  "З">
 
 <!ENTITY  rememberSearchForm.label       "Помнене на историята на търсенията и формулярите">
