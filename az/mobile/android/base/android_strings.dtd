@@ -356,7 +356,7 @@ size. -->
 <!ENTITY bookmark_edit_title "Əlfəcini düzəlt">
 <!ENTITY bookmark_edit_name "Ad">
 <!ENTITY bookmark_edit_location "Ünvan">
-<!ENTITY bookmark_edit_keyword "Anahtar kelime">
+<!ENTITY bookmark_edit_keyword "Açar söz">
 <!-- Localization note (site_settings_*) : These strings are used in the "Site Settings"
      dialog that appears after selecting the "Edit Site Settings" context menu item. -->
 
