@@ -21,6 +21,14 @@
 
 <!ENTITY calendar.deletecalendar.label          "Supprimer l'agenda sélectionné…">
 <!ENTITY calendar.deletecalendar.accesskey      "S">
+<!ENTITY calendar.unsubscribecalendar.label     "Se désabonner de l'agenda sélectionné…">
+<!ENTITY calendar.unsubscribecalendar.accesskey "d">
+
+<!-- LOCALIZATION NOTE (calendar.removecalendar.label): Removing the calendar
+      is the general action of removing it, while deleting means to clear the
+      data and unsubscribing means just taking it out of the calendar list. -->
+<!ENTITY calendar.removecalendar.label          "Retirer l'agenda sélectionné…">
+<!ENTITY calendar.removecalendar.accesskey      "R">
 
 <!ENTITY calendar.menu.customize.label          "Personnaliser…">
 <!ENTITY calendar.menu.customize.accesskey      "l">
