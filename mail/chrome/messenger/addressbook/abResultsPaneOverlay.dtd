@@ -2,8 +2,10 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY Addrbook.label                        "Adresář">
+<!ENTITY Addrbook.accesskey                    "A">
 <!ENTITY GeneratedName.label "Jméno">
-<!ENTITY GeneratedName.accesskey "n">
+<!ENTITY GeneratedName.accesskey "J">
 <!ENTITY PrimaryEmail.label "E-mail">
 <!ENTITY PrimaryEmail.accesskey "E">
 <!ENTITY Company.label "Společnost">
@@ -11,13 +13,13 @@
 <!ENTITY _PhoneticName.label "Jméno foneticky">
 <!ENTITY _PhoneticName.accesskey "f">
 <!ENTITY NickName.label "Přezdívka">
-<!ENTITY NickName.accesskey "P">
+<!ENTITY NickName.accesskey "z">
 <!ENTITY SecondEmail.label "Další e-mail">
-<!ENTITY SecondEmail.accesskey "a">
+<!ENTITY SecondEmail.accesskey "i">
 <!ENTITY Department.label "Oddělení">
-<!ENTITY Department.accesskey "d">
+<!ENTITY Department.accesskey "O">
 <!ENTITY JobTitle.label "Pozice">
-<!ENTITY JobTitle.accesskey "o">
+<!ENTITY JobTitle.accesskey "P">
 <!ENTITY CellularNumber.label "Mobil">
 <!ENTITY CellularNumber.accesskey "M">
 <!ENTITY PagerNumber.label "Pager">
@@ -25,7 +27,7 @@
 <!ENTITY FaxNumber.label "Fax">
 <!ENTITY FaxNumber.accesskey "x">
 <!ENTITY HomePhone.label "Telefon domů">
-<!ENTITY HomePhone.accesskey "l">
+<!ENTITY HomePhone.accesskey "d">
 <!ENTITY WorkPhone.label "Telefon do zaměstnání">
 <!ENTITY WorkPhone.accesskey "z">
 <!ENTITY ChatName.label "Jméno v chatu">

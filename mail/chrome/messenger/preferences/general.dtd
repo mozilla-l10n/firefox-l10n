@@ -35,3 +35,5 @@
 <!ENTITY customsound.accesskey "V">
 <!ENTITY browse.label "Procházet…">
 <!ENTITY browse.accesskey "c">
+
+<!ENTITY defaultSearchEngine.label        "Výchozí vyhledávací modul">
