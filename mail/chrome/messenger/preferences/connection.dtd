@@ -36,5 +36,5 @@
 <!ENTITY  noproxy.label                 "Չկա պրոքսի՝">
 <!ENTITY  noproxy.accesskey             "N">
 <!ENTITY  noproxyExplain.label          "Օրինակ՝ .mozilla.org, .net.nz, 192.168.1.0/24">
-<!ENTITY  shareproxy.label              "Օգտագործել այս պրոքսին բոլորի համար">
-<!ENTITY  shareproxy.accesskey          "x">
+<!ENTITY  shareproxy.label              "Օգտագործել այս պրոքսին բոլոր հաղորդակարգերի համար">
+<!ENTITY  shareproxy.accesskey          "ք">
