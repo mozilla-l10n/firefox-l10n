@@ -849,3 +849,15 @@ The word "toolbar" is appended automatically and should not be contained below! 
 <!ENTITY emeNotificationsDontAskAgain.label       "No preguntarme nuevamente">
 <!ENTITY emeNotificationsDontAskAgain.accesskey   "o">
 
+<!ENTITY readingList.label                        "Lista de lectura">
+<!ENTITY readingList.sidebar.commandKey           "r">
+<!ENTITY readingList.showSidebar.label            "Mostrar barra lateral de lista de lectura">
+<!-- Pre-landed string for bug 1124153 -->
+<!ENTITY readingList.sidebar.showMore.label       "Mostrar más…">
+<!-- Pre-landed string for bug 1133662 -->
+<!ENTITY readingList.sidebar.emptyText            "Agregue artículos a su lista de lectura para guardarlos y encontrarlos fácilmente cuando los necesite en el futuro.">
+<!-- Pre-landed string for bug 1123525 -->
+<!ENTITY readingList.sidebar.delete.tooltip       "Eliminar de la lista de lectura">
+<!-- Pre-landed strings for bug 1123519 -->
+<!ENTITY readingList.sidebar.add.label            "Agregar a lista de lectura">
+<!ENTITY readingList.sidebar.add.tooltip          "Agregar esta página a la lista de lectura">

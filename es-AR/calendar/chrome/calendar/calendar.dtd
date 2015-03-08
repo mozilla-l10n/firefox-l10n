@@ -14,7 +14,7 @@
 
 <!ENTITY calendar.today.button.label       "Hoy">
 <!ENTITY calendar.tomorrow.button.label       "Mañana">
-<!ENTITY calendar.soon.button.label           "Pronto">
+<!ENTITY calendar.upcoming.button.label       "Próximo">
 
 <!ENTITY calendar.events.filter.all.label "Todos los eventos">
 <!ENTITY calendar.events.filter.today.label "Los eventos de hoy">
@@ -232,8 +232,17 @@
 <!ENTITY calendar.context.newserver.accesskey          "N">
 <!ENTITY calendar.context.findcalendar.label           "Buscar calendario…" >
 <!ENTITY calendar.context.findcalendar.accesskey       "B" >
-<!ENTITY calendar.context.deleteserver.label           "Borrar calendario">
-<!ENTITY calendar.context.deleteserver.accesskey       "o">
+<!ENTITY calendar.context.deleteserver2.label          "Borrar calendario…">
+<!ENTITY calendar.context.deleteserver2.accesskey      "d">
+
+<!-- LOCALIZATION NOTE (calendar.context.removeserver.label): Removing the
+      calendar is the general action of removing it, while deleting means to
+      clear the data and unsubscribing means just taking it out of the calendar
+      list. -->
+<!ENTITY calendar.context.removeserver.label           "Eliminar calendario…">
+<!ENTITY calendar.context.removeserver.accesskey       "r">
+<!ENTITY calendar.context.unsubscribeserver.label      "Desuscribir calendario…">
+<!ENTITY calendar.context.unsubscribeserver.accesskey  "u">
 <!ENTITY calendar.context.synccalendars.label          "Sincronizar calendarios">
 <!ENTITY calendar.context.synccalendars.accesskey      "S">
 <!ENTITY calendar.context.publish.label                "Publicar calendario…">
@@ -245,14 +254,13 @@
 
 <!-- LOCALIZATION NOTE (calendar.context.togglevisible.accesskey)
      This is the access key used for the showCalendar string -->
-<!ENTITY calendar.context.togglevisible.accesskey      "H">
+<!ENTITY calendar.context.togglevisible.accesskey      "o">
 
 <!-- LOCALIZATION NOTE (calendar.context.showonly.accesskey)
      This is the access key used for the showOnlyCalendar string -->
-<!ENTITY calendar.context.showonly.accesskey           "O">
+<!ENTITY calendar.context.showonly.accesskey           "s">
 <!ENTITY calendar.context.showall.label                "Mostrar todos los calendarios">
 <!ENTITY calendar.context.showall.accesskey            "a">
-
 
 <!ENTITY calendar.context.convertmenu.label              "Convertir a">
 <!ENTITY calendar.context.convertmenu.accesskey.mail     "n">

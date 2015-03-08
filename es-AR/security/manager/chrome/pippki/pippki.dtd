@@ -15,11 +15,6 @@
 <!ENTITY resetPassword.title  "Eliminar contraseña maestra">
 <!ENTITY resetPassword.text  "Si elimina su contraseña maestra, todas sus contraseñas de webs y correo electrónico, datos de formularios, certificados personales y claves privadas se olvidarán. ¿Está seguro de eliminar su contraseña maestra?">
 
-<!-- Values for getpassword.xul -->
-<!ENTITY getPassword.title  "Ingrese contraseña maestra">
-<!ENTITY getPassword.tokenName2.label "Dispositivo de seguridad:">
-<!ENTITY getPassword.password.label "Contraseña:">
-
 <!-- Downloading a cert -->
 <!ENTITY downloadCert.title "Descargar certificado">
 <!ENTITY downloadCert.message1 "Se le ha pedido que confíe en una nueva autoridad de certificación (CA).">
