@@ -352,7 +352,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuCustomize.tooltip "Персонализиране на менюто и лентите с инструменти">
 <!ENTITY appMenuCustomizeExit.label "Изход от персонализирането">
 <!ENTITY appMenuCustomizeExit.tooltip "Край на персонализирането">
-
+<!ENTITY appMenuHistory.label "История">
 
 
 
@@ -745,7 +745,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 
 
-<!ENTITY trackingContentBlocked.message "Следене">
+<!ENTITY trackingContentBlocked.message "Проследяване">
 
 
 

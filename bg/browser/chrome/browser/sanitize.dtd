@@ -45,8 +45,8 @@ that require it.  -->
 <!ENTITY historySection.label         "История">
 <!ENTITY dataSection.label            "Данни">
 
-<!ENTITY itemHistoryAndDownloads.label     "История на браузването и изтеглянията">
-<!ENTITY itemHistoryAndDownloads.accesskey "б">
+<!ENTITY itemHistoryAndDownloads.label     "История на сърфиране и изтегляния">
+<!ENTITY itemHistoryAndDownloads.accesskey "с">
 <!ENTITY itemFormSearchHistory.label       "История на формулярите и търсенията">
 <!ENTITY itemFormSearchHistory.accesskey   "ф">
 <!ENTITY itemPasswords.label               "Запомнени пароли">
