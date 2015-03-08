@@ -3,16 +3,13 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY itemGeneral.label "Obecné">
+<!ENTITY dataChoicesTab.label    "Možnosti hlášení">
 <!ENTITY itemDisplay.label "Čtení a zobrazení">
 <!ENTITY itemUpdate.label "Aktualizace">
 <!ENTITY itemNetworking.label "Síť a místo na disku">
 <!ENTITY itemCertificates.label "Certifikáty">
 
 <!-- General Settings -->
-
-<!ENTITY submitTelemetry.label "Odesílat data o výkonnosti">
-<!ENTITY submitTelemetry.accesskey "d">
-<!ENTITY telemetryInfoLink.label "Více informací o sběru dat">
 <!ENTITY enableGlodaSearch.label "Povolit globální hledání a indexaci">
 <!ENTITY enableGlodaSearch.accesskey "g">
 <!ENTITY allowHWAccel.label            "Použít hardwarovou akceleraci, je-li dostupná">
@@ -41,6 +38,19 @@
 <!ENTITY returnReceiptsInfo.label "Určuje, jak aplikace &brandShortName; zachází s potvrzením o přečtení">
 <!ENTITY showReturnReceipts.label "Potvrzení o přečtení…">
 <!ENTITY showReturnReceipts.accesskey "P">
+
+<!-- Data Choices -->
+<!ENTITY telemetrySection.label          "Telemetrie">
+<!ENTITY telemetryDesc.label             "Zaznamenává data o výkonu, používání, hardware a přizpůsobení e-mailového klienta &brandShortName;. Data o e-mailovém klientu jsou sdílena s organizací &vendorShortName; z důvodu jeho vylepšení.">
+<!ENTITY enableTelemetry.label           "Povolit telemetrii">
+<!ENTITY enableTelemetry.accesskey       "t">
+<!ENTITY telemetryLearnMore.label        "Zjistit více">
+
+<!ENTITY crashReporterSection.label      "Hlášení pádů">
+<!ENTITY crashReporterDesc.label         "Odesílá hlášení o e-mailového klienta &brandShortName; a pomáhá organizaci &vendorShortName; vylepšit jeho stabilitu a bezpečnost.">
+<!ENTITY enableCrashReporter.label       "Povolit hlášení pádů">
+<!ENTITY enableCrashReporter.accesskey   "h">
+<!ENTITY crashReporterLearnMore.label    "Zjistit více">
 
 <!-- Display and Reading Settings -->
 <!ENTITY reading.caption "Čtení">
