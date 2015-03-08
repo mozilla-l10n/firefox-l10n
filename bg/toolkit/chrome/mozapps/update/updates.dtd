@@ -8,7 +8,7 @@
 
 <!ENTITY  pluginupdatesfound.title        "Намерени са обновявания за приставки">
 <!ENTITY  pluginupdatesfound.label        "Намерени са по-нови версии на една или повече от вашите приставки.">
-<!ENTITY  pluginupdateslink.label         "Вижте как да надградите вашите приставки.">
+<!ENTITY  pluginupdateslink.label         "Вижте как да обновите приставките си.">
 
 <!ENTITY  noupdatesfound.title            "Не са открити обновявания">
 <!ENTITY  noupdatesautoenabled.intro      "Няма обновявания.&brandShortName; ще проверява периодично за такива.">
@@ -21,9 +21,9 @@
 <!ENTITY  manualUpdateGetMsg.label        "Винаги може да изтеглите последната версия на &brandShortName; от:">
 
 <!ENTITY  unsupported.title               "Неподдържана система">
-<!ENTITY  unsupported.label               "Вашият &brandShortName; е остарял, но последната версия 
-не е поддържана от вашата система. Моля, надградете вашата система и опитайте пак. 
-Няма да видите това предупреждение повече, но можете да ">
+<!ENTITY  unsupported.label               "Вашият &brandShortName; е остарял, но последната версия
+е неподдържана от вашата система. Моля, надградете системата си и опитайте пак. 
+Няма да видите това предупреждение повече, но можете да">
 <!ENTITY  unsupportedLink.label           "научите повече.">
 
 <!ENTITY  incompatibleCheck.title         "Проверяване на съвместимостта на добавките">

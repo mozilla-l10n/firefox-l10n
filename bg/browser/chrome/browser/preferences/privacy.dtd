@@ -16,10 +16,10 @@
 <!ENTITY  locationBar.label             "Лента за адрес">
 
 <!ENTITY  locbar.suggest.label          "При използване на адресната лента, подсказване на:">
-
-
-
-
+<!ENTITY  locbar.history.label          "История">
+<!ENTITY  locbar.history.accesskey      "И">
+<!ENTITY  locbar.bookmarks.label        "Отметки">
+<!ENTITY  locbar.bookmarks.accesskey    "О">
 
 
 

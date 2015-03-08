@@ -9,6 +9,7 @@
 
 <!ENTITY chooseWhichOneToDisplay.label         "От полето за търсене може директно да търсите в други търсещи машини. Изберете кои да използвате.">
 
+<!ENTITY engineNameColumn.label                "Търсеща машина">
 <!ENTITY engineKeywordColumn.label             "Ключова дума">
 
 
@@ -16,3 +17,4 @@
 <!ENTITY removeEngine.label                    "Премахване">
 <!ENTITY removeEngine.accesskey                "П">
 
+<!ENTITY addMoreSearchEngines.label            "Добавяне на търсещи машини…">
