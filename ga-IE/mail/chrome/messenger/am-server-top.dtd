@@ -84,3 +84,7 @@
 
 <!ENTITY accountTitle.label "Socruithe Cuntais">
 <!ENTITY accountSettingsDesc.label "Cuntas speisialta é seo. Níl aon aitheantas comhcheangailte leis.">
+<!ENTITY storeType.label "Message Store Type:">
+<!ENTITY storeType.accesskey "T">
+<!ENTITY mboxStore.label "One large file (mbox)">
+<!ENTITY maildirStore.label "File per message (maildir)">

@@ -3,8 +3,9 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY addressbookWindow.title "Leabhar Seoltaí">
+<!ENTITY blankResultsPaneMessage.label "This address book shows contacts only after a search">
+<!ENTITY localResultsOnlyMessage.label "Contacts from remote address books are not shown until you search">
 <!-- File Menu -->
-
 <!ENTITY fileMenu.label "Comhad">
 <!ENTITY fileMenu.accesskey "C">
 <!ENTITY newMenu.label "Nua">
@@ -160,6 +161,8 @@ because displayed names don't have the comma in between. -->
 <!ENTITY searchItem.title "Mearchuardach">
 <!-- Results Pane -->
 
+<!ENTITY Addrbook.label "Leabhar Seoltaí">
+<!ENTITY Addrbook.accesskey "b">
 <!ENTITY GeneratedName.label "Ainm">
 <!ENTITY GeneratedName.accesskey "n">
 <!ENTITY PrimaryEmail.label "Ríomhphost">

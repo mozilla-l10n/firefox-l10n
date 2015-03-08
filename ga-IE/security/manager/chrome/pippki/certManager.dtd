@@ -10,9 +10,6 @@
 <!ENTITY certmgr.tab.ca "Údaráis">
 <!ENTITY certmgr.tab.orphan2 "Cinn Eile">
 
-<!ENTITY certmgr.ca.builtins "Údaráis Deimhniúcháin Insuite">
-<!ENTITY certmgr.ca.mycas "Údaráis Deimhniúcháin Arna mBainistiú Agatsa">
-
 <!ENTITY certmgr.mine "Tá teastais agat ó na heagrais seo a shainaithníonn tusa:">
 <!ENTITY certmgr.others "Tá teastais agat a shainaithníonn na daoine seo:">
 <!ENTITY certmgr.websites2 "Tá teastais agat a shainaithníonn na freastalaithe seo:">
@@ -37,7 +34,6 @@
 <!ENTITY certmgr.certdetail.sha256fingerprint "Méarlorg SHA-256">
 <!ENTITY certmgr.certdetail.sha1fingerprint "Méarlorg SHA1">
 
-<!ENTITY certmgr.editcert.title "Cuir Socruithe na dTeastas Slándála in Eagar">
 <!ENTITY certmgr.editcacert.title "Cuir socruithe muiníne do theastais na nÚdarás Deimhniúcháin in eagar">
 <!ENTITY certmgr.editcert.edittrust "Cuir socruithe muiníne in eagar:">
 <!ENTITY certmgr.editcert.trustssl "Is féidir leis an teastas seo suímh Ghréasáin a shainaithint.">
@@ -49,11 +45,6 @@
 <!ENTITY certmgr.editemailcert.donttrust "Ná cuir muinín in údaracht an teastais seo.">
 
 <!ENTITY certmgr.deletecert.title "Scrios Teastas">
-<!ENTITY certmgr.deletecert.beforename "D'iarr tú an teastas seo a scriosadh:">
-<!ENTITY certmgr.deletecert.aftername "An bhfuil tú cinnte go dteastaíonn uait an teastas seo a scriosadh?">
-<!ENTITY certmgr.deleteusercert.title "Scrios Do Theastas">
-<!ENTITY certmgr.deleteusercert.beforename "D'iarr tú an teastas a scriosadh:">
-<!ENTITY certmgr.deleteusercert.aftername "Nuair a bheidh an teastas seo scriosta agat, ní bheidh tá in ann ríomhphoist a criptíodh leis a léamh.">
 
 <!ENTITY certmgr.certname "Ainm an Teastais">
 <!ENTITY certmgr.certserver "Freastalaí">
@@ -72,8 +63,6 @@
 <!ENTITY certmgr.edit3.accesskey "M">
 <!ENTITY certmgr.editca.label "Cuir Muinín na nÚdarás Deimhniúcháin in Eagar">
 <!ENTITY certmgr.editca.accesskey "D">
-<!ENTITY certmgr.add.label "Cuir Leis">
-<!ENTITY certmgr.add.accesskey "L">
 <!ENTITY certmgr.export.label "Easpórtáil…">
 <!ENTITY certmgr.export.accesskey "s">
 <!ENTITY certmgr.delete2.label "Scrios…">
@@ -90,8 +79,8 @@
 <!ENTITY certmgr.details.accesskey "R">
 <!ENTITY certmgr.fields.label "Luach Réimse">
 <!ENTITY certmgr.fields.accesskey "L">
-<!ENTITY certmgr.hierarchy.label "Ordlathas Teastais">
-<!ENTITY certmgr.hierarchy.accesskey "r">
+<!ENTITY certmgr.hierarchy.label "Certificate Hierarchy">
+<!ENTITY certmgr.hierarchy.accesskey2 "H">
 <!ENTITY certmgr.addException.label "Cuir Eisceacht Leis…">
 <!ENTITY certmgr.addException.accesskey "s">
 

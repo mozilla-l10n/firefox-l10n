@@ -145,6 +145,8 @@
 <!ENTITY messagePaneVertical.accesskey "I">
 <!ENTITY showFolderPaneCmd.label "Pána an Fhillteáin">
 <!ENTITY showFolderPaneCmd.accesskey "F">
+<!ENTITY showFolderPaneColsCmd.label "Folder Pane Columns">
+<!ENTITY showFolderPaneColsCmd.accesskey "P">
 <!ENTITY showMessageCmd.label "Pána Teachtaireachta">
 <!ENTITY showMessageCmd.accesskey "T">
 
@@ -593,7 +595,9 @@
 <!ENTITY manageTags.accesskey "B">
 <!-- Folder Pane -->
 
-<!ENTITY folderColumn.label "Ainm">
+<!ENTITY folderNameColumn.label "Ainm">
+<!ENTITY folderUnreadColumn.label "Unread">
+<!ENTITY folderTotalColumn.label "Total">
 <!ENTITY folderSizeColumn.label "Méid">
 <!-- Folder Pane Context Menu -->
 
@@ -662,8 +666,8 @@
 <!ENTITY statusColumn.label "Stádas">
 <!ENTITY sizeColumn.label "Méid">
 <!ENTITY junkStatusColumn.label "Stádas Dramhphoist">
-<!ENTITY unreadColumn.label "Gan Léamh">
-<!ENTITY totalColumn.label "Iomlán">
+<!ENTITY unreadColumn.label "Unread">
+<!ENTITY totalColumn.label "Total">
 <!ENTITY readColumn.label "Léite">
 <!ENTITY receivedColumn.label "Faighte">
 <!ENTITY starredColumn.label "Marcáilte">

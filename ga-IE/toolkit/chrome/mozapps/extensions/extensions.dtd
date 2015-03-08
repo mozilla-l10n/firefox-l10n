@@ -4,6 +4,7 @@
 <!ENTITY addons.windowTitle "Bainisteoir na mBreiseán">
 
 <!ENTITY search.placeholder "Cuardaigh na breiseáin go léir">
+<!ENTITY search.buttonlabel "Search">
 <!-- LOCALIZATION NOTE (search.commandKey):
      The search command key should match findOnCmd.commandkey from browser.dtd -->
 <!ENTITY search.commandkey "f">
@@ -36,7 +37,7 @@
 <!ENTITY info.plugincheck.tooltip "Seiceáil an bhfuil do chuid forlíontán cothrom le dáta">
 <!-- categories / views -->
 
-<!ENTITY view.search.label "Cuardaigh">
+<!ENTITY view.search.label "Search">
 <!ENTITY view.discover.label "Faigh Breiseáin">
 <!ENTITY view.recentUpdates.label "Nuashonruithe Le Déanaí">
 <!ENTITY view.availableUpdates.label "Nuashonruithe Ar Fáil">
@@ -226,3 +227,5 @@ na breiseáin is fearr agus is mó éilimh orthu sa phána seo.">
 <!ENTITY experiment.info.learnmore.accesskey "L">
 <!ENTITY experiment.info.changetelemetry "Socruithe Telemetry">
 <!ENTITY experiment.info.changetelemetry.accesskey "T">
+
+<!ENTITY setting.learnmore "Tuilleadh Eolais…">

@@ -3,18 +3,21 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY itemGeneral.label "Ginearálta">
+<!ENTITY dataChoicesTab.label "Roghanna Sonraí">
 <!ENTITY itemDisplay.label "Léamh agus Taispeáint">
 <!ENTITY itemUpdate.label "Nuashonrú">
 <!ENTITY itemNetworking.label "Líonra agus Spás Diosca">
 <!ENTITY itemCertificates.label "Teastais">
 <!-- General Settings -->
 
-
-<!ENTITY submitTelemetry.label "Seol Sonraí Feidhmíochta">
-<!ENTITY submitTelemetry.accesskey "F">
-<!ENTITY telemetryInfoLink.label "Tuilleadh eolais faoi Theiliméadracht">
 <!ENTITY enableGlodaSearch.label "Cumasaigh Cuardach Cuimsitheach agus an tInneacsóir">
 <!ENTITY enableGlodaSearch.accesskey "e">
+<!ENTITY allowHWAccel.label "Use hardware acceleration when available">
+<!ENTITY allowHWAccel.accesskey "h">
+<!ENTITY storeType.label "Message Store Type for new accounts:">
+<!ENTITY storeType.accesskey "T">
+<!ENTITY mboxStore.label "One large file (mbox)">
+<!ENTITY maildirStore.label "File per message (maildir)">
 
 <!ENTITY scrolling.label "Scrollú">
 <!ENTITY useAutoScroll.label "Úsáid uathscrollú">
@@ -35,6 +38,19 @@
 <!ENTITY returnReceiptsInfo.label "Socraigh conas a láimhseálann &brandShortName; admhálacha léite">
 <!ENTITY showReturnReceipts.label "Admhálacha Léite…">
 <!ENTITY showReturnReceipts.accesskey "L">
+<!-- Data Choices -->
+
+<!ENTITY telemetrySection.label "Teiliméadracht">
+<!ENTITY telemetryDesc.label "Shares performance, usage, hardware and customization data about your e-mail client with &vendorShortName; to help us make &brandShortName; better">
+<!ENTITY enableTelemetry.label "Cumasaigh Teiliméadracht">
+<!ENTITY enableTelemetry.accesskey "T">
+<!ENTITY telemetryLearnMore.label "Tuilleadh Eolais">
+
+<!ENTITY crashReporterSection.label "Tuairisceoir Tuairteála">
+<!ENTITY crashReporterDesc.label "&brandShortName; submits crash reports to help &vendorShortName; make your e-mail client more stable and secure">
+<!ENTITY enableCrashReporter.label "Cumasaigh Tuairisceoir na gClistí">
+<!ENTITY enableCrashReporter.accesskey "C">
+<!ENTITY crashReporterLearnMore.label "Tuilleadh Eolais">
 <!-- Display and Reading Settings -->
 
 <!ENTITY reading.caption "Léamh">

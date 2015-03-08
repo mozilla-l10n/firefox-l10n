@@ -13,6 +13,10 @@
 <!ENTITY pref.dateformat.long "Fada">
 <!ENTITY pref.dateformat.short "Gearr">
 
+<!ENTITY pref.timezones.caption "Crios Ama">
+<!ENTITY pref.timezones.label "Roghnaigh an chathair is gaire i do chrios ama:">
+<!ENTITY pref.timezones.accesskey "R">
+
 <!ENTITY pref.defaults.label "Luach Réamhshocraithe le haghaidh Míreanna Nua">
 <!ENTITY pref.events.label "Imeachtaí">
 <!ENTITY pref.tasks.label "Tascanna">
@@ -28,6 +32,10 @@
 <!ENTITY pref.default_task_offset_current.label "I gcoibhneas leis an am reatha">
 <!ENTITY pref.default_task_offset_start.label "I gcoibhneas leis an tosach">
 <!ENTITY pref.default_task_offset_next_hour.label "I gcoibhneas leis an chéad uair eile">
+
+<!ENTITY pref.calendar.todaypane.agenda.caption "Pána Inniu">
+<!ENTITY pref.soondays.label "The upcoming section shows:">
+<!ENTITY pref.soondays.accesskey "u">
 
 <!ENTITY pref.accessibility.label "Inrochtaineacht">
 <!ENTITY pref.systemcolors.label "Roghnaigh na dathanna is fearr ó thaobh inrochtaineachta">

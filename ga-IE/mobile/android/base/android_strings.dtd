@@ -6,8 +6,8 @@
 <!ENTITY no_space_to_start_error "Ní féidir le &brandShortName; tosú mar nach bhfuil go leor spáis ann.">
 <!ENTITY error_loading_file "Tharla earráid agus na comhaid atá riachtanach chun &brandShortName; a rith á luchtú.">
 
-<!ENTITY onboard_start_message "Fáilte go &brandShortName;!">
-<!ENTITY onboard_start_subtext "Tiomanta duitse, do do phríobháideacht, agus don Ghréasán Oscailte">
+<!ENTITY onboard_start_message2 "Fáilte go &brandShortName;">
+<!ENTITY onboard_start_subtext2 "More privacy features and ways to customize than ever.">
 <!ENTITY onboard_start_button_account "Logáil isteach in &brandShortName;">
 <!ENTITY onboard_start_button_browser "Bí ag brabhsáil leat">
 <!-- Localization note: These are used as the titles of different pages on the home screen.
@@ -112,7 +112,7 @@
 
 <!ENTITY overlay_share_send_tab_btn_label "Seol chuig gléas eile">
 <!ENTITY overlay_share_no_url "Níor aimsíodh aon nasc sa chomhad comhroinnte">
-<!ENTITY overlay_share_retry "Bain triail eile as">
+<!ENTITY overlay_share_retry "Try again">
 <!ENTITY overlay_share_select_device "Roghaigh gléas">
 
 <!ENTITY pref_category_search3 "Cuardaigh">
@@ -172,6 +172,8 @@
 <!ENTITY pref_cookies_not_accept_foreign "Cumasaithe, seachas tríú páirtí">
 <!ENTITY pref_cookies_disabled "Díchumasaithe">
 
+<!ENTITY pref_tracking_protection_title "Tracking protection">
+<!ENTITY pref_tracking_protection_summary "&brandShortName; will prevent sites from tracking you">
 <!ENTITY pref_donottrack_title "Ná rianaigh">
 <!ENTITY pref_donottrack_summary "Cuirfidh &brandShortName; in iúl do shuímh Ghréasáin gan tusa a rianú">
 
@@ -211,6 +213,8 @@ size. -->
 
 <!ENTITY pref_media_autoplay_enabled "Ceadaigh uathsheinm">
 <!ENTITY pref_media_autoplay_enabled_summary "An bhfuil cead ag suímh Ghréasáin físeáin nó meáin eile a sheinm go huathoibríoch?">
+<!ENTITY pref_zoom_force_enabled "Always enable zoom">
+<!ENTITY pref_zoom_force_enabled_summary "Force override so you can zoom any page">
 
 <!ENTITY pref_use_master_password "Úsáid príomhfhocal faire">
 <!ENTITY pref_sync "Sync">
@@ -265,9 +269,9 @@ size. -->
 <!ENTITY datareporting_crashreporter_summary "Seolann &brandShortName; tuairiscí ar chlistí chuig &vendorShortName; chun cabhrú linn brabhsálaí níos cobhsaí níos sábháilte a fhorbairt">
 <!-- Localization note (datareporting_crashreporter_title_short) : This string matches
      (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
-<!ENTITY datareporting_crashreporter_title_short "Tuairisceoir na gClistí">
+<!ENTITY datareporting_crashreporter_title_short "Tuairisceoir Tuairteála">
 <!ENTITY datareporting_wifi_title2 "Seirbhís Geoshuite &vendorShortName;">
-<!ENTITY datareporting_wifi_geolocation_summary2 "Comhroinn garbhshuíomh do ghléis (ó cheangal Wi-Fi nó ceallach) le &vendorShortName; chun cabhrú linn feabhas a chur ar ár seirbhís gheoshuite">
+<!ENTITY datareporting_wifi_geolocation_summary3 "Help &vendorShortName; map the world! Share approximate Wi-Fi and cellular location of your device to improve our geolocation service">
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
      actual notification that an update is available. -->
@@ -429,6 +433,8 @@ size. -->
 <!ENTITY home_remote_tabs_empty "Taispeánfar do chuid cluaisíní ó ghléasanna eile anseo.">
 <!ENTITY home_remote_tabs_unable_to_connect "Ní féidir ceangal">
 <!ENTITY home_remote_tabs_need_to_sign_in "Logáil isteach chun athcheangal le do Chuntas Firefox agus dul ar aghaidh leis an sioncrónú.">
+<!ENTITY home_remote_tabs_need_to_finish_migrating "Your new Firefox Account is ready!">
+
 <!ENTITY home_remote_tabs_trouble_verifying "Fadhbanna ag deimhniú do chuntais?">
 <!ENTITY home_remote_tabs_need_to_verify "Caithfidh tú do Chuntas Firefox a dheimhniú chun sioncrónú a thosú.">
 
@@ -528,12 +534,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY updater_apply_title2 "Nuashonrú ar fáil: &brandShortName;">
 <!ENTITY updater_apply_select2 "Tapáil chun nuashonrú">
-<!-- New tablet UI -->
-<!-- LOCALIZATION NOTE (new_tablet_restart): Notification displayed after the user toggles the new tablet UI in the settings screen.-->
-
-
-<!ENTITY new_tablet_restart "Caithfidh tú an brabhsálaí a atosú chun na hathruithe a chur i bhfeidhm">
-<!ENTITY new_tablet_pref "Cumasaigh an comhéadan nua táibléid">
 <!-- Guest mode -->
 
 <!ENTITY new_guest_session "Seisiún Nua ar Iasacht">
@@ -560,6 +560,13 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY actionbar_menu "Roghchlár">
 <!ENTITY actionbar_done "Déanta">
+<!-- Voice search in the awesome bar -->
+
+<!ENTITY voicesearch_prompt "Speak now">
+<!ENTITY voicesearch_failed_title "&brandShortName; Voice Search">
+<!ENTITY voicesearch_failed_message "There is a problem with voice search right now. Please try later.">
+<!ENTITY voicesearch_failed_message_recoverable "Sorry! We could not recognize your words. Please try again.">
+<!ENTITY voicesearch_failed_retry "Try again">
 <!-- Localization note (remote_tabs_last_synced): the variable is replaced by a
      "relative time span string" produced by Android.  This string describes the
      time the tabs were last synced relative to the current time; examples
@@ -568,6 +575,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      their desktop or laptop.-->
 
 <!ENTITY remote_tabs_last_synced "Sioncrónaithe: &formatS;">
+<!-- Localization note: Used when the sync has not happend yet, showed in place of a date -->
+<!ENTITY remote_tabs_never_synced "Last synced: never">
 <!-- Find-In-Page strings -->
 <!-- LOCALIZATION NOTE (find_matchcase): This is meant to appear as an icon that changes color
      if match-case is activated. i.e. No more than two letters, one uppercase, one lowercase. -->

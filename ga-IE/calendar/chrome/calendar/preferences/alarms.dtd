@@ -14,8 +14,8 @@
 <!ENTITY pref.calendar.alarms.sound.useDefault.accessKey "r">
 <!ENTITY pref.calendar.alarms.sound.browse.label "Brabhsáil…">
 <!ENTITY pref.calendar.alarms.sound.browse.accessKey "B">
-<!ENTITY pref.calendar.alarms.sound.preview.label "Réamhamharc">
-<!ENTITY pref.calendar.alarms.sound.preview.accessKey "R">
+<!ENTITY pref.calendar.alarms.sound.play.label "Seinn">
+<!ENTITY pref.calendar.alarms.sound.play.accessKey "S">
 <!ENTITY pref.showalarmbox "Taispeáin an dialóg mheabhrúcháin">
 <!ENTITY pref.calendar.alarms.showAlarmBox.accessKey "L">
 <!ENTITY pref.missedalarms "Taispeáin meabhrúcháin a cailleadh">

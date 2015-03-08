@@ -23,6 +23,10 @@
 <!ENTITY contextManual.accesskey "R">
 <!ENTITY contextBeforeCls.label "Scagadh roimh Aicmiú Dramhphoist">
 <!ENTITY contextAfterCls.label "Scagadh tar éis Aicmiú Dramhphoist">
+<!ENTITY contextOutgoing.label "After Sending">
+<!ENTITY contextOutgoing.accesskey "S">
+<!ENTITY contextArchive.label "Archiving">
+<!ENTITY contextArchive.accesskey "A">
 
 <!ENTITY filterActionDesc.label "Déan na gníomhartha seo:">
 <!ENTITY filterActionDesc.accesskey "g">
