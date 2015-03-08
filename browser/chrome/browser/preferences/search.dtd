@@ -2,10 +2,12 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY chooseYourDefaultSearchEngine.label   "Изберете стандартната търсеща машина. &brandShortName; я използва за адресната лента, полето за търсене и началната страница.">
 
 
 
 
+<!ENTITY chooseWhichOneToDisplay.label         "От полето за търсене може директно да търсите в други търсещи машини. Изберете кои да използвате.">
 
 <!ENTITY engineKeywordColumn.label             "Ключова дума">
 
