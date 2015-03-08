@@ -150,6 +150,8 @@
 
 <!ENTITY fxaccount_create_account_header2 "Cruthaigh Cuntas Firefox">
 <!ENTITY fxaccount_create_account_password_length_restriction "Ní mór dó a bheith 8 gcarachtar ar a laghad">
+<!ENTITY fxaccount_create_account_day_of_birth "Lá">
+<!ENTITY fxaccount_create_account_month_of_birth "Mí">
 <!ENTITY fxaccount_create_account_year_of_birth "Bliain bhreithe">
 <!-- Localization note: &formatS1; is fxaccount_policy_linktos, &formatS2; is fxaccount_policy_linkprivacy, both hyperlinked. -->
 <!ENTITY fxaccount_create_account_policy_text2 'By proceeding, I agree to the &formatS1; and &formatS2; of Firefox cloud services.'>
@@ -170,6 +172,9 @@
 <!ENTITY fxaccount_confirm_account_change_email "Déan dearmad den seoladh ríomhphoist seo?">
 <!ENTITY fxaccount_confirm_account_verification_link_sent2 "Seoladh teachtaireacht deimhnithe trí ríomhphost">
 <!ENTITY fxaccount_confirm_account_verification_link_not_sent2 "Níorbh fhéidir an teachtaireacht dearbhaithe a sheoladh">
+<!ENTITY fxaccount_resend_unlock_code_button_label 'Resend unlock email'>
+<!ENTITY fxaccount_unlock_code_sent 'Account unlock email sent'>
+<!ENTITY fxaccount_unlock_code_not_sent 'Couldn\&apos;t send account unlock email'>
 
 <!ENTITY fxaccount_sign_in_sub_header "Logáil isteach">
 <!ENTITY fxaccount_sign_in_button_label "Logáil isteach">
@@ -180,9 +185,15 @@
 <!ENTITY fxaccount_account_verified_sub_header "Cuntas dearbhaithe">
 <!ENTITY fxaccount_account_verified_description2 "Tosóidh do chuid sonraí ag sioncrónú go luath.">
 
+<!ENTITY fxaccount_migration_finished_header 'Upgrade finished'>
+
 <!ENTITY fxaccount_update_credentials_header "Logáil isteach">
 <!ENTITY fxaccount_update_credentials_button_label "Logáil isteach">
 <!ENTITY fxaccount_update_credentials_unknown_error "Níorbh fhéidir logáil isteach">
+
+<!ENTITY fxaccount_finish_migrating_header 'Sign in to finish upgrading'>
+<!ENTITY fxaccount_finish_migrating_button_label 'Finish upgrading'>
+<!ENTITY fxaccount_finish_migrating_description 'Upgrading can transfer a lot of data. It\&apos;s best to be on a Wi-Fi network.'>
 
 <!ENTITY fxaccount_status_header2 "Cuntas Firefox">
 <!ENTITY fxaccount_status_signed_in_as "Logáilte isteach mar">
@@ -197,7 +208,8 @@
 <!ENTITY fxaccount_status_needs_credentials "Ní féidir ceangal. Tapáil chun logáil isteach.">
 <!ENTITY fxaccount_status_needs_upgrade "Caithfidh tú &brandShortName; a nuashonrú chun logáil isteach.">
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled "Tá &syncBrand.shortName.label; réidh, ach níl sé ag sioncrónú go huathoibríoch. Scoránaigh “Auto-sync data” sna Android Settings &gt; Data Usage.">
-<!ENTITY fxaccount_status_needs_account_enabled "Tá &syncBrand.shortName.label; réidh, ach níl sé ag sioncrónú go huathoibríoch. Tapáil chun sioncrónú a thosú.">
+<!ENTITY fxaccount_status_needs_master_sync_automatically_enabled_v21 '&syncBrand.shortName.label; is set up, but not syncing automatically. Toggle “Auto-sync data” in the menu of Android Settings &gt; Accounts.'>
+<!ENTITY fxaccount_status_needs_finish_migrating 'Tap to sign in to your new Firefox Account.'>
 <!ENTITY fxaccount_status_bookmarks "Leabharmharcanna">
 <!ENTITY fxaccount_status_history "Stair">
 <!ENTITY fxaccount_status_passwords "Focail fhaire">
@@ -245,8 +257,14 @@
 <!ENTITY fxaccount_remote_error_SERVICE_TEMPORARILY_UNAVAILABLE_TO_DUE_HIGH_LOAD "Tá an freastalaí gnóthach; bain triail eile as go luath">
 <!ENTITY fxaccount_remote_error_UNKNOWN_ERROR "Tharla fadhb éigin">
 <!ENTITY fxaccount_remote_error_COULD_NOT_CONNECT "Ní féidir ceangal leis an líonra">
+<!ENTITY fxaccount_remote_error_ACCOUNT_LOCKED 'Account is locked. &formatS1;'>
 
 <!ENTITY fxaccount_sync_sign_in_error_notification_title2 "Níl &syncBrand.shortName.label; ceangailte">
 <!-- Localization note: the format string below will be replaced
      with the Firefox Account's email address. -->
-<!ENTITY fxaccount_sync_sign_in_error_notification_text2 "Tapáil chun logáil isteach mar &formatS;">
+<!ENTITY fxaccount_sync_sign_in_error_notification_text2 'Tap to sign in as &formatS;'>
+
+<!ENTITY fxaccount_sync_finish_migrating_notification_title 'Finish upgrading &syncBrand.shortName.label;?'>
+<!-- Localization note: the format string below will be replaced
+     with the Firefox Account's email address. -->
+<!ENTITY fxaccount_sync_finish_migrating_notification_text 'Tap to sign in as &formatS;'>

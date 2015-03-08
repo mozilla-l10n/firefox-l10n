@@ -6,8 +6,12 @@
 <!ENTITY window.width "46em">
 <!ENTITY window.macWidth "49em">
 
-<!ENTITY allowPagesToUse.label "Tabhair cead do leathanaigh a ndathanna féin a roghnú, in áit mo roghanna thuas">
-<!ENTITY allowPagesToUse.accesskey "b">
+<!ENTITY overridePageColors.label "Override the colors specified by the page with my selections above:">
+<!ENTITY overridePageColors.accesskey "O">
+
+<!ENTITY overridePageColors.always.label "I gCónaí">
+<!ENTITY overridePageColors.auto.label "Only with High Contrast themes">
+<!ENTITY overridePageColors.never.label "Riamh">
 
 <!ENTITY color "Téacs agus Cúlra">
 <!ENTITY textColor.label "Téacs:">

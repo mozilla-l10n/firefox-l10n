@@ -9,7 +9,6 @@
 <!ENTITY setPassword.newPassword.label "Focal Faire Nua:">
 <!ENTITY setPassword.reenterPassword.label "Focal Faire Nua (Arís):">
 <!ENTITY setPassword.meter.label "Tomhais ar cháilíocht fhocail faire">
-<!ENTITY setPassword.meter.loading "Á Luchtú">
 <!-- Values for resetpassword.xul -->
 
 <!ENTITY resetPasswordButtonLabel "Bánaigh">
@@ -20,19 +19,6 @@
 <!ENTITY getPassword.title "Clóscríobh an Príomhfhocal Faire">
 <!ENTITY getPassword.tokenName2.label "Gléas Slándála:">
 <!ENTITY getPassword.password.label "Focal Faire:">
-<!-- These should be common -->
-
-<!ENTITY piperror.title "Earráid">
-<!ENTITY pipalert.title "Earráid - ní féidir leis an gclár teacht chuige féin">
-<!-- Prefs panel strings -->
-
-<!ENTITY pref.security.general.lHeader "Slándáil">
-<!ENTITY pref.security.general.rHeader "Socruithe slándála ginearálta">
-<!ENTITY pref.security.general.header "Socruithe slándála ginearálta">
-<!ENTITY pref.security.general.level.title "Leibhéal Slándála">
-<!ENTITY pref.security.general.paranoid.label "Úsáid socruithe slándála na paranóia">
-<!ENTITY pref.security.general.certificates.title "Teastais">
-<!ENTITY pref.security.general.manageCert.label "Bainistiú na dTeastas">
 <!-- Downloading a cert -->
 
 <!ENTITY downloadCert.title "Teastas á íosluchtú">
@@ -42,9 +28,7 @@
 <!ENTITY downloadCert.trustObjSign "Tá muinín agat as an údarás deimhniúcháin seo chun déantóirí bogearraí a shainaithint.">
 <!ENTITY downloadCert.message3 "Sula gcuireann tú muinín san údarás deimhniúcháin seo, ba cheart duit a theastas, a pholasaithe agus a mhodhanna oibre a scrúdú má tá fáil orthu.">
 <!ENTITY downloadCert.viewCert.label "Amharc">
-<!ENTITY downloadCert.viewPolicy.label "Polasaí">
 <!ENTITY downloadCert.viewCert.text "Scrúdaigh Teastas an Údaráis Deimhniúcháin">
-<!ENTITY downloadCert.viewPolicy.text "Scrúdaigh polasaithe agus modhanna oibre an Údaráis Deimhniúcháin">
 <!-- Strings for the SSL client auth ask dialog -->
 
 <!ENTITY clientAuthAsk.title "Iarratas Aitheantais Úsáideora">
@@ -62,9 +46,6 @@
 <!ENTITY pkcs12.setpassword.label1 "Focal faire an chúltaca teastais:">
 <!ENTITY pkcs12.setpassword.label2 "Focal faire an chúltaca teastais (arís):">
 <!ENTITY pkcs12.setpassword.reminder "Tábhachtach: má dhéanann tú dearmad ar an bhfocal faire don chúltaca teastais ní bheidh tú in ann an cúltaca seo a chur ar ais. Breac síos tuairisc de in áit shlán.">
-
-<!ENTITY pkcs12.getpassword.title "Dialóg Iontrála Focal Faire">
-<!ENTITY pkcs12.getpassword.message "Cuir isteach an focal faire a úsáideadh chun an cúltaca teastais seo a chriptiú.">
 
 <!ENTITY chooseToken.title "Dialóg Roghnaithe Ceadchomhartha">
 <!ENTITY chooseToken.message1 "Roghnaigh ceadchomhartha le do thoil.">

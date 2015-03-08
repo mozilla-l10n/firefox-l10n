@@ -39,3 +39,4 @@
 
 <!ENTITY plugin.file "Comhad">
 <!ENTITY plugin.mimeTypes "Cineálacha MIME">
+<!ENTITY plugin.flashProtectedMode.label "Enable Adobe Flash protected mode">

@@ -28,19 +28,16 @@
 
 <!ENTITY dataChoicesTab.label "Roghanna Sonraí">
 
-<!ENTITY healthReportSection.label "Tuairisc Shláinte &brandShortName;">
 <!ENTITY healthReportDesc.label "Cabhraíonn seo leat feidhmíocht do bhrabhsálaí a thuiscint, agus seolann sé sonraí maidir le sláinte do bhrabhsálaí chuig &vendorShortName;">
 <!ENTITY enableHealthReport.label "Cumasaigh Tuairisc Shláinte &brandShortName;">
 <!ENTITY enableHealthReport.accesskey "T">
 <!ENTITY healthReportLearnMore.label "Tuilleadh Eolais">
 
-<!ENTITY telemetrySection.label "Teiliméadracht">
 <!ENTITY telemetryDesc.label "Seolann sé faisnéis maidir le feidhmíocht, úsáid, crua-earraí, agus saincheapadh chuig &vendorShortName; chun cabhrú linn feabhas a chur ar &brandShortName;.">
-<!ENTITY enableTelemetry.label "Cumasaigh Teiliméadracht">
-<!ENTITY enableTelemetry.accesskey "T">
+<!ENTITY enableTelemetryData.label "Share additional data (i.e., Telemetry)">
+<!ENTITY enableTelemetryData.accesskey "T">
 <!ENTITY telemetryLearnMore.label "Tuilleadh Eolais">
 
-<!ENTITY crashReporterSection.label "Tuairisceoir na gClistí">
 <!ENTITY crashReporterDesc.label "Seolann &brandShortName; tuairiscí ar chlistí chuig &vendorShortName; chun cabhrú linn brabhsálaí níos cobhsaí níos sábháilte a fhorbairt">
 <!ENTITY enableCrashReporter.label "Cumasaigh Tuairisceoir na gClistí">
 <!ENTITY enableCrashReporter.accesskey "C">

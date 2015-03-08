@@ -6,6 +6,8 @@
 <!ENTITY itemAutoComplete.label "Seoladh">
 <!ENTITY itemSpellCheck.label "Litriú">
 
+<!ENTITY dialogCompose.title "Composing">
+
 <!ENTITY forwardMsg.label "Cuir teachtaireachtaí ar aghaidh:">
 <!ENTITY forwardMsg.accesskey "g">
 <!ENTITY inline.label "Inlíne">

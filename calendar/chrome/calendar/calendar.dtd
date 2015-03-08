@@ -14,7 +14,7 @@
 
 <!ENTITY calendar.today.button.label "Inniu">
 <!ENTITY calendar.tomorrow.button.label "Amárach">
-<!ENTITY calendar.soon.button.label "Go Luath">
+<!ENTITY calendar.upcoming.button.label "Le teacht">
 
 <!ENTITY calendar.events.filter.all.label "Gach Imeacht">
 <!ENTITY calendar.events.filter.today.label "Imeachtaí Inniu">
@@ -233,8 +233,17 @@
 <!ENTITY calendar.context.newserver.accesskey "N">
 <!ENTITY calendar.context.findcalendar.label "Aimsigh Féilire…">
 <!ENTITY calendar.context.findcalendar.accesskey "A">
-<!ENTITY calendar.context.deleteserver.label "Scrios Féilire">
-<!ENTITY calendar.context.deleteserver.accesskey "S">
+<!ENTITY calendar.context.deleteserver2.label "Scrios Féilire…">
+<!ENTITY calendar.context.deleteserver2.accesskey "S">
+<!-- LOCALIZATION NOTE (calendar.context.removeserver.label): Removing the
+      calendar is the general action of removing it, while deleting means to
+      clear the data and unsubscribing means just taking it out of the calendar
+      list. -->
+
+<!ENTITY calendar.context.removeserver.label "Bain Féilire…">
+<!ENTITY calendar.context.removeserver.accesskey "B">
+<!ENTITY calendar.context.unsubscribeserver.label "Díliostáil ó Fhéilire…">
+<!ENTITY calendar.context.unsubscribeserver.accesskey "D">
 <!ENTITY calendar.context.synccalendars.label "Sioncrónaigh Féilirí">
 <!ENTITY calendar.context.synccalendars.accesskey "S">
 <!ENTITY calendar.context.publish.label "Foilsigh Féilire…">

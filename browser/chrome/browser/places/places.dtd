@@ -52,6 +52,8 @@
 <!ENTITY cmd.open.accesskey "O">
 <!ENTITY cmd.open_window.label "Oscail i bhFuinneog Nua">
 <!ENTITY cmd.open_window.accesskey "N">
+<!ENTITY cmd.open_private_window.label "Open in a New Private Window">
+<!ENTITY cmd.open_private_window.accesskey "P">
 <!ENTITY cmd.open_tab.label "Oscail i gCluaisín Nua">
 <!ENTITY cmd.open_tab.accesskey "C">
 <!ENTITY cmd.open_all_in_tabs.label "Oscail gach rud i gcluaisíní">

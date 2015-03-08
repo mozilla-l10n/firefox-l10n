@@ -26,6 +26,8 @@
 <!ENTITY syncMy.label "Sioncrónaigh Mo Chuid">
 <!ENTITY engine.bookmarks.label "Leabharmharcanna">
 <!ENTITY engine.bookmarks.accesskey "L">
+<!ENTITY engine.readinglist.label "Reading List">
+<!ENTITY engine.readinglist.accesskey "L">
 <!ENTITY engine.tabs.label "Cluaisíní">
 <!ENTITY engine.tabs.accesskey "C">
 <!ENTITY engine.history.label "Stair">

@@ -11,11 +11,7 @@
 <!ENTITY devmgr.devlist.label "Modúil agus Gléasanna Slándála">
 <!ENTITY devmgr.details.title "Mionsonraí">
 <!ENTITY devmgr.details.title2 "Luach">
-<!ENTITY devmgr.status.label "Stádas">
-<!ENTITY devmgr.version.label "Leagan">
 
-<!ENTITY devmgr.button.changeslotname.label "Athraigh Ainm an tSliotáin">
-<!ENTITY devmgr.button.changeslotname.accesskey "A">
 <!ENTITY devmgr.button.login.label "Logáil Isteach">
 <!ENTITY devmgr.button.login.accesskey "g">
 <!ENTITY devmgr.button.logout.label "Logáil Amach">
