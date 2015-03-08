@@ -6,8 +6,8 @@
 <!ENTITY  no_space_to_start_error "Laitteella oleva tila ei riitä &brandShortName;in käynnistymiseen.">
 <!ENTITY  error_loading_file "Tapahtui virhe ladattaessa &brandShortName;in käynnistämiseen tarvittavia tiedostoja">
 
-<!ENTITY  onboard_start_message "Tervetuloa &brandShortName;in pariin!">
-<!ENTITY  onboard_start_subtext "Vannoutunut pitämään sinun, yksityisyytesi ja avoimen webin puolta">
+<!ENTITY  onboard_start_message2 "Tervetuloa &brandShortName;in pariin">
+<!ENTITY  onboard_start_subtext2 "Entistä enemmän yksityisyysominaisuuksia ja muokkaustapoja.">
 <!ENTITY  onboard_start_button_account "Kirjaudu sisään &brandShortName;">
 <!ENTITY  onboard_start_button_browser "Aloita selaaminen">
 
@@ -213,6 +213,8 @@ size. -->
 
 <!ENTITY pref_media_autoplay_enabled "Salli automaattinen toisto">
 <!ENTITY pref_media_autoplay_enabled_summary "Voivatko verkkosivustot toistaa automaattisesti videoita ja muuta sisältöä">
+<!ENTITY pref_zoom_force_enabled "Sivun suurennus sallittu aina">
+<!ENTITY pref_zoom_force_enabled_summary "Sivun lähennys ja loitonnus on mahdollista kaikilla sivuilla">
 
 <!ENTITY pref_use_master_password "Käytä pääsalasanaa">
 <!ENTITY pref_sync "Sync">
@@ -269,7 +271,7 @@ size. -->
      (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
 <!ENTITY datareporting_crashreporter_title_short "Kaatumisilmoitukset">
 <!ENTITY datareporting_wifi_title2 "&vendorShortName;n paikannuspalvelut">
-<!ENTITY datareporting_wifi_geolocation_summary2 "Wi-Fi- ja matkapuhelinverkoista saatu arvioitu sijaintitieto jaetaan &vendorShortName;n kanssa parantaaksemme paikannuspalvelujamme">
+<!ENTITY datareporting_wifi_geolocation_summary3 "Auta  &vendorShortName;a kartoittamaan maailma! Jaa Wi-Fi- ja matkapuhelinverkoista saatava arvioitu sijaintitietosi parantaaksesi paikannuspalvelujamme">
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
      actual notification that an update is available. -->
@@ -559,6 +561,13 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY actionbar_menu "Valikko">
 <!ENTITY actionbar_done "Valmis">
 
+<!-- Voice search in the awesome bar -->
+<!ENTITY voicesearch_prompt "Puhu nyt">
+<!ENTITY voicesearch_failed_title "&brandShortName;in puhehaku">
+<!ENTITY voicesearch_failed_message "Puhehakupalvelut eivät tällä hetkellä toimi. Yritä myöhemmin uudestaan.">
+<!ENTITY voicesearch_failed_message_recoverable "Ikävä kyllä emme kyenneet tunnistamaan, mitä sanoit. Yritä uudestaan.">
+<!ENTITY voicesearch_failed_retry "Yritä uudestaan">
+
 <!-- Localization note (remote_tabs_last_synced): the variable is replaced by a
      "relative time span string" produced by Android.  This string describes the
      time the tabs were last synced relative to the current time; examples
@@ -566,6 +575,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      "Last synced" is one of the user's other Sync clients, typically Firefox on
      their desktop or laptop.-->
 <!ENTITY remote_tabs_last_synced "Viimeksi synkronoitu: &formatS;">
+<!-- Localization note: Used when the sync has not happend yet, showed in place of a date -->
+<!ENTITY remote_tabs_never_synced "Viimeksi synkronoitu: ei koskaan">
 
 <!-- Find-In-Page strings -->
 <!-- LOCALIZATION NOTE (find_matchcase): This is meant to appear as an icon that changes color
