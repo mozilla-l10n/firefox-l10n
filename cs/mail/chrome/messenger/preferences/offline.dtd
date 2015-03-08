@@ -11,8 +11,8 @@
 <!ENTITY radioRememberPrevState.accesskey "P">
 <!ENTITY radioAskState.label "Dotázat se na stav online">
 <!ENTITY radioAskState.accesskey "D">
-<!ENTITY radioAlwaysOnline.label "Vždy začít v režimu online">
-<!ENTITY radioAlwaysOnline.accesskey "V">
+<!ENTITY radioAlwaysOnlineState.label "Vždy začít v režimu online">
+<!ENTITY radioAlwaysOnlineState.accesskey "V">
 <!ENTITY radioAlwaysOffline.label "Vždy začít v režimu offline">
 <!ENTITY radioAlwaysOffline.accesskey "f">
 

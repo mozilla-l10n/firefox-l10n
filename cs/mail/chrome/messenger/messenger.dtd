@@ -143,8 +143,10 @@
 <!ENTITY messagePaneWide.accesskey "r">
 <!ENTITY messagePaneVertical.label "Svislý pohled">
 <!ENTITY messagePaneVertical.accesskey "v">
-<!ENTITY showFolderPaneCmd.label "Panel složky">
+<!ENTITY showFolderPaneCmd.label "Panel složek">
 <!ENTITY showFolderPaneCmd.accesskey "s">
+<!ENTITY showFolderPaneColsCmd.label "Sloupce panelu složek">
+<!ENTITY showFolderPaneColsCmd.accesskey "S">
 <!ENTITY showMessageCmd.label "Panel zpráv">
 <!ENTITY showMessageCmd.accesskey "z">
 
@@ -593,7 +595,9 @@
 <!ENTITY manageTags.accesskey "U">
 
 <!-- Folder Pane -->
-<!ENTITY folderColumn.label "Název">
+<!ENTITY folderNameColumn.label "Název">
+<!ENTITY folderUnreadColumn.label "Nepřečtené">
+<!ENTITY folderTotalColumn.label "Celkem">
 <!ENTITY folderSizeColumn.label "Velikost">
 
 <!-- Folder Pane Context Menu -->
