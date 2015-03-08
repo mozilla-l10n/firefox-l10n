@@ -16,5 +16,5 @@
 <!ENTITY return.label "Acuses de recibo">
 <!ENTITY junk.label "Correo basura o sospechoso">
 <!ENTITY tags.label "Etiquetas">
-<!ENTITY characterEncoding.label "Codificación de caracteres">
+<!ENTITY characterEncoding2.label "Codificación de texto">
 <!ENTITY networkStorage.label "Red y almacenamiento">

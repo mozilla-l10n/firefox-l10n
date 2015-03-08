@@ -60,7 +60,7 @@
 <!ENTITY abbreviateOn.label "Nombres completos (Por ejemplo, 'netscape.public.mozilla.mail-news')">
 <!ENTITY abbreviateOff.label "Nombres abreviados (Por ejemplo,'n.p.m.mail-news')">
 <!ENTITY advancedButton.label "Avanzadas…">
-<!ENTITY serverDefaultCharset.label "Codif. caracteres predet.:">
+<!ENTITY serverDefaultCharset2.label "Codificación de texto predeterminada:">
 <!ENTITY advancedButton.accesskey "v">
 <!ENTITY localPath.label "Directorio local:">
 <!ENTITY localFolderPicker.label "Seleccione directorio local">
