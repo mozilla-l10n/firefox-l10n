@@ -9,6 +9,9 @@
 <!ENTITY itemGeneral.label                   "Të përgjithshme">
 <!ENTITY itemAutoComplete.label              "Adresim">
 <!ENTITY itemSpellCheck.label                "Drejtshkrim">
+
+<!ENTITY dialogCompose.title                 "Hartim">
+
 <!ENTITY forwardMsg.label                     "Mesazhet përcilli:">
 <!ENTITY forwardMsg.accesskey                 "M">
 <!ENTITY inline.label                         "Brendazi">
