@@ -81,8 +81,8 @@
 
 
 
-
-
+<!ENTITY  event.menu.view.toolbars.customize.label        "Přiměrić…">
+<!ENTITY  event.menu.view.toolbars.customize.accesskey    "P">
 
 
 
@@ -303,14 +303,14 @@
 <!ENTITY event.freebusy.legend.busy_tentative   "Nachwilu" >
 
 
-<!ENTITY event.attendee.role.required           "Trěbni wobdźělnicy">
-
-
-
-
-
-
-
+<!ENTITY event.attendee.role.required           "Trěbny wobdźělnik">
+<!ENTITY event.attendee.role.optional           "Móžny wobdźělnik">
+<!ENTITY event.attendee.role.chair              "Nawodnistwo">
+<!ENTITY event.attendee.role.nonparticipant     "Žadyn wobdźělnik">
+<!ENTITY event.attendee.usertype.individual     "Jednotliwc">
+<!ENTITY event.attendee.usertype.group          "Skupina">
+<!ENTITY event.attendee.usertype.resource       "Resursa">
+<!ENTITY event.attendee.usertype.room           "Rumnosć">
 <!-- Timezone dialog -->
 
 <!-- Read-Only dialog -->
