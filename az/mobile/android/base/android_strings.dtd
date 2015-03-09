@@ -9,28 +9,28 @@
 <!ENTITY  onboard_start_message2 "&brandShortName; səyyahına xoş gəlmisiniz">
 <!ENTITY  onboard_start_subtext2 "Hər zamankından daha çox məxfilik özəllikləri və şəxsiləşdirmələr.">
 <!ENTITY  onboard_start_button_account "&brandShortName;-a daxil olun">
-<!ENTITY  onboard_start_button_browser "Səyahətə başla">
+<!ENTITY  onboard_start_button_browser "Səyahətə Başla">
 <!-- Localization note: These are used as the titles of different pages on the home screen.
      They are automatically converted to all caps by the Android platform. -->
 
 <!ENTITY  bookmarks_title "Əlfəcinlər">
 <!ENTITY  history_title "Tarixçə">
 <!ENTITY  reading_list_title "Oxuma Siyahısı">
-<!ENTITY  recent_tabs_title "Son vərəqlər">
+<!ENTITY  recent_tabs_title "Son Vərəqlər">
 
 <!ENTITY  switch_to_tab "Vərəqə keç">
 
-<!ENTITY  crash_reporter_title "&brandShortName; Qəza Xəbərçisi">
+<!ENTITY  crash_reporter_title "&brandShortName; Çökmə Xəbərçisi">
 <!ENTITY  crash_message2 "&brandShortName; bir problemlə qarşılaşdı və çökdü. Sizin açdığınız vərəqlər &brandShortName;-in növbəti başladılması zamanı siyahıda görsənəcək.">
 <!ENTITY  crash_send_report_message3 "&vendorShortName; çökmə barədə xəbərdar edilsin ki, problemi həll edə bilsinlər">
 <!ENTITY  crash_include_url2 "Baxdığım səhifənin ünvanını daxil et">
 <!ENTITY  crash_sorry "Üzr istəyirik">
 <!ENTITY  crash_comment "Şərh əlavə edin (şərhlər hamı tərəfindən görünür)">
 <!ENTITY  crash_allow_contact2 "&vendorShortName; mənimlə bu bildiriş haqqında əlaqə saxlaya bilsin">
-<!ENTITY  crash_email "Sizin e-poçtunuz">
+<!ENTITY  crash_email "E-poçtunuz">
 <!ENTITY  crash_closing_alert "Çökmə haqqında xəbər edilmədən çıxılsın?">
 <!ENTITY  sending_crash_report "Çökmə xəbəri göndərilir\u2026">
-<!ENTITY  crash_close_label "Bağla">
+<!ENTITY  crash_close_label "Qapat">
 <!ENTITY  crash_restart_label "&brandShortName; yenidən başlasın">
 <!ENTITY  exit_label "Çıxış">
 
@@ -45,10 +45,10 @@
 <!ENTITY bookmark_added "Əlfəcin əlavə olundu">
 <!ENTITY bookmark_removed "Əlfəcin silindi">
 <!ENTITY bookmark_updated "Əlfəcin yeniləndi">
-<!ENTITY bookmark_options "Nizamlar">
+<!ENTITY bookmark_options "Seçimlər">
 
 <!ENTITY history_today_section "Bugün">
-<!ENTITY history_yesterday_section "Dün">
+<!ENTITY history_yesterday_section "Dünən">
 <!ENTITY history_week_section2 "Keçən həftə">
 <!ENTITY history_older_section2 "Keçən ay">
 
@@ -62,11 +62,11 @@
 <!ENTITY site_security "Sayt Təhlükəsizliyi">
 <!ENTITY edit_mode_cancel "Ləğv et">
 
-<!ENTITY close_tab "Vərəqi qapat">
+<!ENTITY close_tab "Vərəqi Qapat">
 <!ENTITY one_tab "1 vərəq">
 <!-- Localization note (num_tabs2) : Number of tabs is always more than one.
      We can't use android plural forms, sadly. See bug #753859. -->
-<!ENTITY num_tabs2 "&formatD; vərəqlər">
+<!ENTITY num_tabs2 "&formatD; vərəq">
 <!ENTITY new_tab_opened "Yeni vərəq açıldı">
 <!ENTITY new_private_tab_opened "Yeni məxfi vərəq açıldı">
 <!-- Localization note (switch_button_message): This string should be as short
@@ -74,11 +74,11 @@
      is upper-case, to match Google and Android's convention. -->
 <!ENTITY switch_button_message "DƏYİŞDİR">
 
-<!ENTITY settings "Seçimlər">
+<!ENTITY settings "Tənzimləmələr">
 <!ENTITY settings_title "Tənzimləmələr">
-<!ENTITY pref_category_advanced "Mütərəqqi">
+<!ENTITY pref_category_advanced "Təkmilləşmiş">
 <!ENTITY pref_category_customize "Fərdiləşdir">
-<!ENTITY pref_category_customize_summary "Ev, axtar, vərəqlər, daxil et">
+<!ENTITY pref_category_customize_summary "Ev, axtarış, vərəqlər, idxal etmə">
 <!-- Localization note (pref_category_language) : This is the preferences
      section in which the user picks the locale in which to display Firefox
      UI. The locale includes both language and region concepts. -->
@@ -90,7 +90,7 @@
      Firefox will use the locale currently selected in Android's settings
      to display browser chrome. -->
 
-<!ENTITY locale_system_default "Əvvəlcədən qurulmuş">
+<!ENTITY locale_system_default "Sistem varsayılanı">
 <!-- Localization note (overlay_share_label) : This is the label that appears
      in Android's intent chooser when sending a link to Firefox to bookmark,
      send to another device, or add to Reading List. -->
@@ -111,7 +111,7 @@
      to. -->
 
 <!ENTITY overlay_share_send_tab_btn_label "Başqa cihaza göndər">
-<!ENTITY overlay_share_no_url "Bu paylaşımda link tapılmadı">
+<!ENTITY overlay_share_no_url "Bu paylaşmada keçid tapılmadı">
 <!ENTITY overlay_share_retry "Təkrar yoxla">
 <!ENTITY overlay_share_select_device "Cihaz seçin">
 
