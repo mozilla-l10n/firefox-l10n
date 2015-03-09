@@ -17,6 +17,10 @@
 <!ENTITY enableGlodaSearch.accesskey "c">
 <!ENTITY allowHWAccel.label "Utiliser l'accélération graphique matérielle si disponible">
 <!ENTITY allowHWAccel.accesskey "i">
+<!ENTITY storeType.label "Type de stockage des messages pour les nouveaux comptes :">
+<!ENTITY storeType.accesskey "k">
+<!ENTITY mboxStore.label "Un seul fichier (mbox)">
+<!ENTITY maildirStore.label "Un fichier par message (maildir)">
 
 <!ENTITY scrolling.label "Défilement">
 <!ENTITY useAutoScroll.label "Automatique">
