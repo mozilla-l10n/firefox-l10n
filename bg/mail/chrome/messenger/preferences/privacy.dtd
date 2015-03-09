@@ -14,7 +14,8 @@
 
 <!ENTITY captionWebContent.label "Уеб съдържание">
 
-
+<!ENTITY keepHistory.label "Запомняне на посетените уеб-страници и връзки">
+<!ENTITY keepHistory.accesskey "З">
 <!ENTITY acceptCookies.label "Разрешаване на бисквитки от сайтове">
 <!ENTITY acceptCookies.accesskey "б">
 <!ENTITY acceptThirdParty.pre.label "Разрешаване на бисквитки от сайтове на трети страни:">
@@ -25,7 +26,7 @@
 <!ENTITY keepUntil.label "Задържане до:">
 <!ENTITY keepUntil.accesskey "З">
 <!ENTITY expire.label "загуба на валидност">
-<!ENTITY close.label "Затваряне на &brandShortName;">
+<!ENTITY close.label "затваряне на &brandShortName;">
 <!ENTITY askEachTime.label "питане всеки път">
 <!ENTITY cookieExceptions.label "Изключения…">
 <!ENTITY cookieExceptions.accesskey "з">
