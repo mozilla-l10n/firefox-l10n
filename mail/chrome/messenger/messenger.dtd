@@ -649,8 +649,8 @@
 <!ENTITY searchSubjectMenu.label "Subiect">
 <!ENTITY searchFromMenu.label "Expeditor">
 <!ENTITY searchSubjectOrFromMenu.label "Subiect sau expeditor">
-<!ENTITY searchRecipient.label "Destinatar sau CC">
-<!ENTITY searchSubjectOrRecipientMenu.label "Subiect, Către sau CC">
+<!ENTITY searchRecipient.label "Către sau CC">
+<!ENTITY searchSubjectOrRecipientMenu.label "Subiect, Către sau Cc">
 <!ENTITY searchMessageBody.label "Mesajul întreg">
 <!ENTITY saveAsVirtualFolderMenu.label "Salvează căutarea ca dosar…">
 <!-- Thread Pane -->

@@ -22,6 +22,6 @@
 <!ENTITY toButton.label                     "Adaugă la To:">
 <!ENTITY toButton.accesskey                 "A">
 <!ENTITY ccButton.label                     "Adaugă la Cc:">
-<!ENTITY ccButton.accesskey                 "A">
+<!ENTITY ccButton.accesskey                 "C">
 <!ENTITY bccButton.label                    "Adaugă la Bcc:">
 <!ENTITY bccButton.accesskey                "B">

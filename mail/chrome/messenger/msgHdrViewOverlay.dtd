@@ -9,7 +9,7 @@
 <!ENTITY replyToField4.label "Răspuns la">
 
 <!ENTITY subjectField4.label "Subiect">
-<!ENTITY ccField4.label "Copie">
+<!ENTITY ccField4.label "Cc">
 <!ENTITY bccField4.label "Bcc">
 <!ENTITY newsgroupsField4.label "Grupuri de discuții">
 <!ENTITY followupToField4.label "Răspundeți la">
