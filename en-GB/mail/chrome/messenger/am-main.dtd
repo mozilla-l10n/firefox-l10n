@@ -1,8 +1,8 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-
 <!-- extracted from am-main.xul -->
+
 
 <!ENTITY accountTitle.label "Account Settings">
 <!ENTITY accountName.label "Account Name:">
@@ -35,8 +35,8 @@
 
 <!ENTITY manageIdentities.label "Manage Identities…">
 <!ENTITY manageIdentities.accesskey "M">
-
 <!-- LOCALIZATION NOTE (smtpName.label) : do not translate "SMTP" in below line -->
+
 <!ENTITY smtpName.label "Outgoing Server (SMTP):">
 <!ENTITY smtpName.accesskey "u">
 <!ENTITY smtpDefaultServer.label "Use Default Server">
