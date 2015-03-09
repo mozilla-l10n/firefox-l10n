@@ -323,7 +323,7 @@
 <!ENTITY numberListToolbarCmd.tooltip "Vstavi ali odstrani oštevilčen seznam">
 <!ENTITY outdentToolbarCmd.tooltip "Zamakni besedilo levo">
 <!ENTITY indentToolbarCmd.tooltip "Zamakni besedilo desno">
-<!ENTITY AlignPopupButton.tooltip "Izberi poravnavo besedila">
+<!ENTITY AlignPopupButton.tooltip "Izberite poravnavo besedila">
 <!ENTITY InsertPopupButton.tooltip "Vstavi povezavo, sidro, sliko, vodoravno črto ali tabelo">
 <!ENTITY alignLeftButton.tooltip "Poravnaj besedilo na levi rob">
 <!ENTITY alignCenterButton.tooltip "Poravnaj besedilo na sredino">
