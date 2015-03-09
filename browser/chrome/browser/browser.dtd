@@ -809,8 +809,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY emeNotificationsNotNow.label             "Не сега">
 <!ENTITY emeNotificationsNotNow.accesskey         "Н">
-<!ENTITY emeNotificationsDontAskAgain.label       "Изключване на въпроса">
-<!ENTITY emeNotificationsDontAskAgain.accesskey   "И">
+
+
 
 
 

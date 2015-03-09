@@ -45,7 +45,7 @@
 <!ENTITY PlainText.label                "Обикновен текст">
 <!ENTITY HTML.label                     "HTML">
 <!ENTITY Unknown.label                  "Неизвестен">
-<!ENTITY chatName.label                 "Име на разговор:">
+<!ENTITY chatName.label                 "Име за разговор:">
 
 <!ENTITY WorkPhone.label                "Служебен:">
 <!ENTITY WorkPhone.accesskey            "С">
