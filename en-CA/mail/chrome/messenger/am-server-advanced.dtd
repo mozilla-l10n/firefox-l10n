@@ -26,8 +26,8 @@
 <!ENTITY overrideNamespaces.accesskey "A">
 <!ENTITY pop3Desc.label "When downloading POP3 mail from this server, use the following folder for new mail:" >
 <!ENTITY accountDirectory.label "Inbox for this server's account">
-<!ENTITY accountDirectory.accesskey "S">
+<!ENTITY accountDirectory.accesskey "s">
 <!ENTITY deferToServer.label "Inbox for different account">
-<!ENTITY deferToServer.accesskey "D">
+<!ENTITY deferToServer.accesskey "d">
 <!ENTITY deferGetNewMail.label "Include this server when getting new mail">
 <!ENTITY deferGetNewMail.accesskey "I">
