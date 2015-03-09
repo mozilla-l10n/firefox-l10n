@@ -43,7 +43,7 @@
 
 <!ENTITY bookmark "Əlfəcin">
 <!ENTITY bookmark_added "Əlfəcin əlavə olundu">
-<!ENTITY bookmark_removed "Əlfəçin silindi">
+<!ENTITY bookmark_removed "Əlfəcin silindi">
 <!ENTITY bookmark_updated "Əlfəcin yeniləndi">
 <!ENTITY bookmark_options "Nizamlar">
 
@@ -403,7 +403,7 @@ size. -->
 <!ENTITY home_clear_history_button "Səyahət keçmişini təmizlə">
 <!ENTITY home_clear_history_confirm "Keçmişi təmizləmək istədiyinizə əminsiniz?">
 <!ENTITY home_bookmarks_empty "Saxladığınız əlfəcinlər burada görünür.">
-<!ENTITY home_closed_tabs_title "Yaxında qapatılmış vərəqlər">
+<!ENTITY home_closed_tabs_title "Son qapatılan vərəqlər">
 <!ENTITY home_last_tabs_title "Son ziyarətdəki vərəqlər">
 <!ENTITY home_last_tabs_empty "Son vərəqləriniz burada görünür.">
 <!ENTITY home_open_all "Hamısını aç">

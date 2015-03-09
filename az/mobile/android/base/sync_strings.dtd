@@ -82,13 +82,13 @@
 <!ENTITY sync.default.client.name "&formatS1; - &formatS2;">
 <!-- Bookmark folder strings -->
 
-<!ENTITY bookmarks.folder.menu.label "Əlfəçinlər menyusu">
+<!ENTITY bookmarks.folder.menu.label "Əlfəcinlər Menyusu">
 <!ENTITY bookmarks.folder.places.label ''>
 <!ENTITY bookmarks.folder.tags.label "Etiketlər">
-<!ENTITY bookmarks.folder.toolbar.label "Əlfəçin alət sətiri">
-<!ENTITY bookmarks.folder.unfiled.label "Sıralanmamış əlfəçinlər">
+<!ENTITY bookmarks.folder.toolbar.label "Əlfəcin alət sətri">
+<!ENTITY bookmarks.folder.unfiled.label "Sıralanmamış Əlfəcinlər">
 <!ENTITY bookmarks.folder.desktop.label "Masaüstü Əlfəcinləri">
-<!ENTITY bookmarks.folder.mobile.label "Mobil Əlfəçinlər">
+<!ENTITY bookmarks.folder.mobile.label "Mobil Əlfəcinlər">
 <!ENTITY bookmarks.folder.readinglist.label "Oxuma Siyahısı">
 <!-- Pinned sites on about:home. This folder should never be shown to the user, but we have to give it a string name -->
 <!ENTITY bookmarks.folder.pinned.label "Sabitlənmiş">
