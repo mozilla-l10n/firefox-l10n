@@ -288,7 +288,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY devToolbar.keytext                "F2">
 <!ENTITY devToolboxMenuItem.label          "टॉगल औजार (T)">
 <!ENTITY devToolboxMenuItem.accesskey      "T">
-
+<!ENTITY devToolboxMenuItem.keytext        "I">
 
 <!ENTITY devToolbarToolsButton.tooltip     "टागल डेवलेपर अओजार">
 <!ENTITY devToolbarOtherToolsButton.label  "बेसी अओजार">
@@ -299,7 +299,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fileMenu.label         "फ़ाइल"> 
 <!ENTITY fileMenu.accesskey       "F">
 <!ENTITY newNavigatorCmd.label        "नव विंडो">
-
+<!ENTITY newNavigatorCmd.key        "N">
 <!ENTITY newNavigatorCmd.accesskey      "N">
 <!ENTITY newPrivateWindow.label     "नया निज विंडो (W)">
 <!ENTITY newPrivateWindow.accesskey "W">
@@ -307,25 +307,25 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY editMenu.label         "संपादन"> 
 <!ENTITY editMenu.accesskey       "E"> 
 <!ENTITY undoCmd.label            "पहिने जहिना (U)">  
-
+<!ENTITY undoCmd.key            "Z">  
 <!ENTITY undoCmd.accesskey          "U"> 
 <!ENTITY redoCmd.label            "फेर करू">  
-
+<!ENTITY redoCmd.key            "Y">  
 <!ENTITY redoCmd.accesskey          "R"> 
 <!ENTITY cutCmd.label           "काटू">  
-
+<!ENTITY cutCmd.key             "X">  
 <!ENTITY cutCmd.accesskey         "t"> 
 <!ENTITY copyCmd.label            "नकल करू">  
-
+<!ENTITY copyCmd.key            "C">  
 <!ENTITY copyCmd.accesskey          "C"> 
 <!ENTITY pasteCmd.label           "साटू">  
-
+<!ENTITY pasteCmd.key           "V">  
 <!ENTITY pasteCmd.accesskey         "P"> 
 <!ENTITY deleteCmd.label          "मेटाउ">  
-
+<!ENTITY deleteCmd.key            "D">  
 <!ENTITY deleteCmd.accesskey        "D"> 
 <!ENTITY selectAllCmd.label         "सभटा चुनू">  
-
+<!ENTITY selectAllCmd.key         "A">  
 <!ENTITY selectAllCmd.accesskey       "A"> 
 <!ENTITY preferencesCmd2.label       "विकल्प">
 <!ENTITY preferencesCmd2.accesskey     "O">
@@ -334,6 +334,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY clearRecentHistory.label               "हालक इतिहास साफ करू…">
 
+<!ENTITY privateBrowsingCmd.commandkey          "P">
 
 <!ENTITY viewMenu.label         "दृश्य"> 
 <!ENTITY viewMenu.accesskey       "V"> 
@@ -354,16 +355,16 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY historyRestoreLastSession.label "पछिला सत्र फेर बहाल करू">
 
 <!ENTITY showAllHistoryCmd2.label "सभटा इतिहास देखाउ">
-
+<!ENTITY showAllHistoryCmd.commandkey "H">
 
 <!ENTITY appMenuCustomize.label "मनपसिन्न करू">
 <!ENTITY appMenuCustomize.tooltip "मेनू आओर अओज़ारपट्टी अनुकूलित करू">
 <!ENTITY appMenuCustomizeExit.label "अनुकूलित निकास">
 <!ENTITY appMenuCustomizeExit.tooltip "अनुकूलित समाप्त करू">
-
-
-
-
+<!ENTITY appMenuHistory.label "इतिहास">
+<!ENTITY appMenuHistory.showAll.label "सभटा इतिहास देखाउ">
+<!ENTITY appMenuHistory.clearRecent.label "हालक इतिहास साफ करू…">
+<!ENTITY appMenuHistory.restoreSession.label "पछिला सत्र फेर बहाल करू">
 <!ENTITY appMenuHistory.viewSidebar.label "इतिहास बाज़ूपट्टी देखाबू">
 <!ENTITY appMenuHelp.tooltip "मदति मेनू खोलू">
 
@@ -487,7 +488,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY savePageCmd.label            "पृष्ठ एहिना सहेजू…">
 <!ENTITY savePageCmd.accesskey        "A">
 <!-- alternate for content area context menu -->
-
+<!ENTITY savePageCmd.accesskey2       "P">
+<!ENTITY savePageCmd.commandkey       "s">
 <!ENTITY saveFrameCmd.label           "फ्रेम एहिना सहेजू…">
 <!ENTITY saveFrameCmd.accesskey       "F">
 <!ENTITY printFrameCmd.label          "फ्रेम छापू…">
@@ -504,8 +506,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY emailImageCmd.accesskey      "g">
 <!ENTITY emailVideoCmd.label          "वीडियो ईमेल करें (a)…">
 <!ENTITY emailVideoCmd.accesskey      "a">
-
-
+<!ENTITY castVideoCmd.label           "डिवाइस मे वीडियो पठाबू">
+<!ENTITY castVideoCmd.accesskey       "e">
 <!ENTITY emailAudioCmd.label          "ऑडियो ईमेल करू (a)…">
 <!ENTITY emailAudioCmd.accesskey      "a">
 <!ENTITY playPluginCmd.label          "ई प्लगिन सक्रिय करू (c)">
@@ -562,8 +564,8 @@ items are mutually exclusive. -->
 <!ENTITY mediaShowControls.accesskey "C">
 <!ENTITY mediaHideControls.label     "नियंत्रण नुकाउ">
 <!ENTITY mediaHideControls.accesskey "C">
-
-
+<!ENTITY videoFullScreen.label       "पूर्ण स्क्रीन">
+<!ENTITY videoFullScreen.accesskey   "F">
 <!ENTITY videoSaveImage.label        "चित्र एहिना सहेजू…">
 <!ENTITY videoSaveImage.accesskey    "S">
 <!-- LOCALIZATION NOTE: The access keys for "Show Statistics" and
@@ -582,7 +584,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY fullZoomEnlargeCmd.label       "पैघ करू">
 <!ENTITY fullZoomEnlargeCmd.accesskey   "I">
-
+<!ENTITY fullZoomEnlargeCmd.commandkey  "+">
 <!-- + is above this key on many keyboards -->
 <!ENTITY fullZoomEnlargeCmd.commandkey2 "="> 
 <!ENTITY fullZoomEnlargeCmd.commandkey3 "">
@@ -724,7 +726,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY social.directory.text "अहाँ निर्देशिका सँ साझा सेवा केँ सक्रिय कए सकैत छी.">
 <!ENTITY social.directory.button "हमरा ओतए लए चलू!">
 <!ENTITY social.directory.introText "&brandShortName; केँ जोड़बाक लेल सेवा पर ​​क्लिक करू.">
-
+<!ENTITY social.directory.viewmore.text "बेसी देखू">
 
 <!ENTITY customizeMode.tabTitle "अनुकूलित करू &brandShortName;">
 <!ENTITY customizeMode.menuAndToolbars.header2 "अतिरिक्त अओज़ार आओर विशेषता">
@@ -737,11 +739,12 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY customizeMode.lwthemes.myThemes "हमर प्रसंग">
 <!ENTITY customizeMode.lwthemes.recommended "अनुशंसित">
 <!ENTITY customizeMode.lwthemes.menuManage "प्रबंधित करू">
-
+<!ENTITY customizeMode.lwthemes.menuManage.accessKey "M">
 <!ENTITY customizeMode.lwthemes.menuGetMore "नव प्रसंग प्राप्त करू">
+<!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "G">
+<!ENTITY customizeMode.deveditionTheme.label2 "डेवलपर एडिसन थीम इस्तेमाल करू">
 
-
-
+<!ENTITY social.chatBar.commandkey "c">
 <!ENTITY social.chatBar.label "चैट फोकस करें (c)">
 <!ENTITY social.chatBar.accesskey "c">
 
@@ -765,18 +768,18 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY mixedContentBlocked2.options "विकल्प">
 <!ENTITY mixedContentBlocked2.unblock.label "आब सुरक्षा निष्क्रिय करू (D)">
 <!ENTITY mixedContentBlocked2.unblock.accesskey "D">
-
-
+<!ENTITY mixedContentBlocked2.block.label "ईमेल सुरक्षा">
+<!ENTITY mixedContentBlocked2.block.accesskey "E">
 <!ENTITY mixedContentBlocked2.disabled.message "सुरक्षा सक्रिय कएल अछि">
 
 <!ENTITY trackingContentBlocked.message "ट्रैकिंग">
 <!ENTITY trackingContentBlocked.moreinfo "पृष्ठ केर हिस्सा जे अहाँक ऑनलाइन गतिविधि केँ ट्रैक करैत अछि केँ ब्लॉक कएल गेल अछि.">
-
-
-
-
-
-
+<!ENTITY trackingContentBlocked.learnMore "आओर जानू">
+<!ENTITY trackingContentBlocked.options "विकल्प">
+<!ENTITY trackingContentBlocked.unblock2.label "ई साइट पर सुरक्षा निष्क्रिय(D) करू">
+<!ENTITY trackingContentBlocked.unblock2.accesskey "D">
+<!ENTITY trackingContentBlocked.block.label "ईमेल सुरक्षा">
+<!ENTITY trackingContentBlocked.block.accesskey "E">
 <!ENTITY trackingContentBlocked.disabled.message "सुरक्षा ट्रैकिंग सक्रिय कएल अछि">
 
 <!ENTITY pointerLock.notification.message "ESC केँ कोनो समय एकरा देखाबैक लेल दबाउ.">
@@ -796,6 +799,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY pluginNotification.width "32em">
 
+<!ENTITY uiTour.infoPanel.close "बन्न करू">
 
 <!ENTITY appMenuSidebars.label         "कतका पट्टी">
 
@@ -826,22 +830,25 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY panicButton.thankyou.msg2                "सुरक्षित ब्राउजिंग!">
 <!ENTITY panicButton.thankyou.buttonlabel         "शुक्रिया!">
 
+<!ENTITY processHang.terminateScript.label        "स्क्रिप्ट रोकू">
+<!ENTITY processHang.terminateScript.accessKey    "S">
+<!ENTITY processHang.debugScript.label            "स्क्रिप्ट डिबग करू ">
+<!ENTITY processHang.debugScript.accessKey        "D">
+<!ENTITY processHang.terminatePlugin.label        "प्लगिन समाप्त करू">
+<!ENTITY processHang.terminatePlugin.accessKey    "P">
+<!ENTITY processHang.terminateProcess.label       "वेब प्रक्रिया समाप्त करू">
+<!ENTITY processHang.terminateProcess.accessKey   "K">
 
+<!ENTITY emeLearnMoreContextMenu.label            "DRM केर संबंध मे बेसी जानू…">
+<!ENTITY emeLearnMoreContextMenu.accesskey        "D">
+<!ENTITY emeNotificationsNotNow.label             "अखन नहि">
+<!ENTITY emeNotificationsNotNow.accesskey         "N">
+<!ENTITY emeNotificationsDontAskAgain.label       "हमरासँ फेर नहि पूछू.">
+<!ENTITY emeNotificationsDontAskAgain.accesskey   "D">
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY readingList.label                        "पठन सूची">
+<!ENTITY readingList.sidebar.commandKey           "R">
+<!ENTITY readingList.showSidebar.label            "पठन सूची स्लाइडबार देखाबू">
 <!-- Pre-landed string for bug 1124153 -->
 <!-- Pre-landed string for bug 1133662 -->
 <!-- Pre-landed string for bug 1123525 -->
