@@ -41,7 +41,7 @@
 <!ENTITY setup.tosAgree1.label      "Съгласен съм с ">
 <!ENTITY setup.tosAgree1.accesskey  "С">
 <!ENTITY setup.tosLink.label        "Условията на услугата">
-<!ENTITY setup.tosAgree2.label      " и ">
+<!ENTITY setup.tosAgree2.label      "и">
 <!ENTITY setup.ppLink.label         "Политиката за лични данни">
 <!ENTITY setup.tosAgree3.label      "">
 <!ENTITY setup.tosAgree2.accesskey  "">

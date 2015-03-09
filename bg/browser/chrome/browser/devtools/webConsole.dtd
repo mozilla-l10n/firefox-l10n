@@ -9,7 +9,7 @@
 
 
 <!ENTITY window.title "Уеб конзола">
-<!ENTITY browserConsole.title "Бразърска конзола">
+<!ENTITY browserConsole.title "Конзола на браузъра">
 
 <!ENTITY networkPanel.requestURLColon             "URL на заявката:">
 <!ENTITY networkPanel.requestMethodColon          "Метод на заявката:">
@@ -96,5 +96,5 @@
 <!ENTITY copyURLCmd.accesskey "а">
 
 <!ENTITY closeCmd.key         "W">
-<!ENTITY findCmd.key          " на Firefox">
+
 <!ENTITY clearOutputCtrl.key  "L">
