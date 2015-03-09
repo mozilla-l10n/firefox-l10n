@@ -157,15 +157,19 @@
 <!ENTITY device_typeobject "Nesne">
 <!ENTITY device_typenone "Tür seçin">
 <!-- Device Preferences -->
+
+<!ENTITY devicepreference_title "Cihaz tercihleri">
 <!ENTITY devicepreference_search "Arama tercihleri">
 <!ENTITY devicepreference_newname "Yeni tercih adı">
 <!ENTITY devicepreference_newtext "Tercih değeri">
 <!ENTITY devicepreference_addnew "Yeni tercih ekle">
 <!-- Device Settings -->
 
+<!ENTITY devicesetting_title "Cihaz ayarları">
 
-
-
+<!ENTITY devicesetting_newname "Yeni ayar adı">
+<!ENTITY devicesetting_newtext "Ayar değeri">
+<!ENTITY devicesetting_addnew "Yeni ayar ekle">
 <!-- Monitor -->
 
 <!ENTITY monitor_title "İzleyici">
