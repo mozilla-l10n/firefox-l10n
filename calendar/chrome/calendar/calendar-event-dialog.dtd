@@ -25,18 +25,18 @@
 <!ENTITY newevent.status.needsaction.label        "Needs Action" >
 <!ENTITY newevent.status.inprogress.label         "In Process" >
 <!ENTITY newevent.status.completed.label          "Completed on" >
-
 <!-- The following entity is for New Task dialog only -->
-<!ENTITY newtodo.percentcomplete.label      "&#37; complete">
 
+<!ENTITY newtodo.percentcomplete.label      "&#037; complete">
 <!-- LOCALIZATON NOTE(event.attendees.notify.label,event.attendees.notifyundisclosed.label)
    - These two labels are displayed side by side in the event dialog, make sure
    - they still fit in. -->
+
 <!ENTITY event.attendees.notify.label               "Notify attendees">
 <!ENTITY event.attendees.notifyundisclosed.label    "Separate invitation per attendee">
 <!ENTITY event.attendees.notifyundisclosed.tooltip  "This option sends one invitation email per attendee. Each invitation only contains the recipient attendee so that other attendee identities are not disclosed.">
-
 <!-- Keyboard Shortcuts -->
+
 <!ENTITY event.dialog.new.event.key2              "I">
 <!ENTITY event.dialog.new.task.key2               "D">
 <!ENTITY event.dialog.new.message.key2            "N">
@@ -50,8 +50,8 @@
 <!ENTITY event.dialog.copy.key                    "C">
 <!ENTITY event.dialog.paste.key                   "V">
 <!ENTITY event.dialog.select.all.key              "A">
-
 <!-- Menubar -->
+
 <!ENTITY  event.menu.item.new.label                       "New">
 <!ENTITY  event.menu.item.new.accesskey                   "N">
 <!ENTITY  event.menu.item.new.event.label                 "Event">
@@ -138,8 +138,8 @@
 <!ENTITY event.email.attendees.accesskey                  "A">
 <!ENTITY event.email.tentative.attendees.label            "Compose Email to Undecided Attendees…">
 <!ENTITY event.email.tentative.attendees.accesskey        "U">
-
 <!-- Toolbar -->
+
 <!ENTITY  event.toolbar.save.label                        "Save and Close">
 <!ENTITY  event.toolbar.delete.label                      "Delete">
 <!ENTITY  event.toolbar.attendees.label                   "Invite Attendees">
@@ -153,8 +153,8 @@
 <!ENTITY  event.toolbar.priority.tooltip                  "Change Priority">
 <!ENTITY  event.toolbar.status.tooltip                    "Change Status">
 <!ENTITY  event.toolbar.freebusy.tooltip                  "Change Free/Busy time">
-
 <!-- Main page -->
+
 <!ENTITY event.title.textbox.label                        "Title:" >
 <!ENTITY event.title.textbox.accesskey                    "T">
 <!ENTITY event.location.label                             "Location:" >
@@ -220,8 +220,8 @@
 
 <!ENTITY event.statusbarpanel.freebusy.label              "Time as:">
 <!ENTITY event.statusbarpanel.privacy.label               "Privacy:">
-
 <!-- Recurrence dialog -->
+
 <!ENTITY recurrence.title.label                         "Edit Recurrence">
 
 <!ENTITY event.repeat.does.not.repeat.label             "Does not repeat">
@@ -270,7 +270,6 @@
 <!ENTITY event.recurrence.every.label                        "Every:" >
 <!ENTITY repeat.units.years.both                             "Year(s)" >
 <!ENTITY event.recurrence.pattern.yearly.every.month.label   "Every" >
-
 <!-- LOCALIZATON NOTE
      Some languages use a preposition when describing dates:
      Portuguese: 6 de Setembro
@@ -278,6 +277,7 @@
      event.recurrence.pattern.yearly.of.label is "of" in
      Edit recurrence window -> Recurrence pattern -> Repeat yearly
 -->
+
 <!ENTITY event.recurrence.pattern.yearly.of.label            "" >
 
 <!ENTITY event.recurrence.pattern.yearly.month.1.label       "January" >
@@ -306,7 +306,7 @@
 <!ENTITY event.recurrence.pattern.yearly.week.5.label        "Thursday" >
 <!ENTITY event.recurrence.pattern.yearly.week.6.label        "Friday" >
 <!ENTITY event.recurrence.pattern.yearly.week.7.label        "Saturday" >
-<!ENTITY event.recurrence.pattern.yearly.day.label           "day" >
+
 <!ENTITY event.recurrence.of.label                           "of" >
 <!ENTITY event.recurrence.pattern.yearly.month2.1.label      "January" >
 <!ENTITY event.recurrence.pattern.yearly.month2.2.label      "February" >
@@ -327,8 +327,8 @@
 <!ENTITY event.recurrence.appointments.label            "Appointment(s)" >
 <!ENTITY event.repeat.until.label                       "Repeat until" >
 <!ENTITY event.recurrence.preview.label                 "Preview">
-
 <!-- Attendees dialog -->
+
 <!ENTITY invite.title.label                     "Invite Attendees">
 <!ENTITY event.organizer.label                  "Organiser">
 <!ENTITY event.freebusy.suggest.slot            "Suggest time slot:">
@@ -348,12 +348,12 @@
 <!ENTITY event.attendee.usertype.group          "Group">
 <!ENTITY event.attendee.usertype.resource       "Resource">
 <!ENTITY event.attendee.usertype.room           "Room">
-
 <!-- Timezone dialog -->
+
 <!ENTITY timezone.title.label            "Please Specify the Timezone">
 <!ENTITY event.timezone.custom.label     "More Timezones…">
-
 <!-- Read-Only dialog -->
+
 <!ENTITY read.only.general.label         "General">
 <!ENTITY read.only.title.label           "Title:">
 <!ENTITY read.only.event.start.label     "Start Date:">

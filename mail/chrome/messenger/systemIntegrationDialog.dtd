@@ -18,4 +18,4 @@
 <!ENTITY checkOnStartup.accesskey "A">
 
 <!ENTITY searchIntegration.label "Allow &searchIntegration.engineName; to search messages">
-<!ENTITY searchIntegration.accesskey "S">
+<!ENTITY searchIntegration.accesskey "s">

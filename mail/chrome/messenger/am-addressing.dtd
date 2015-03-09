@@ -1,8 +1,8 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-
 <!-- extracted from am-addressing.xul -->
+
 
 <!ENTITY addressing.label          "Composition &amp; Addressing">
 <!ENTITY addressingGroupTitle.label "Addressing">
@@ -16,10 +16,10 @@
 <!ENTITY directories.label         "Use a different LDAP server:">
 <!ENTITY directories.accesskey     "d">
 <!ENTITY directoriesNone.label     "None">
-
 <!-- am-addressing.xul -->
 
-<!ENTITY compositionGroupTitle.label "Composition">
+
+<!ENTITY compositionGroupTitle.label          "Composition">
 <!-- LOCALIZATION NOTE (useHtml.label) : do not translate "html" in below line -->
 <!ENTITY useHtml.label                        "Compose messages in HTML format">
 <!ENTITY useHtml.accesskey                    "C">

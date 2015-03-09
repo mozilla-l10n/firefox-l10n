@@ -6,7 +6,7 @@
 <!ENTITY enableStartPage.label            "When &brandShortName; launches, show the Start Page in the message area">
 <!ENTITY enableStartPage.accesskey        "W">
 <!ENTITY location.label                   "Location:">
-<!ENTITY location1.accesskey              "L">
+<!ENTITY location1.accesskey               "L">
 <!ENTITY useDefault.label                 "Restore Default">
 <!ENTITY useDefault.accesskey             "R">
 
@@ -16,7 +16,7 @@
 
 <!ENTITY newMessagesArrive.label          "When new messages arrive:">
 <!ENTITY playSound.label                  "Play a sound">
-<!ENTITY playSound1.accesskey             "d">
+<!ENTITY playSound1.accesskey              "d">
 <!ENTITY showAnimatedAlert.label          "Show an alert">
 <!ENTITY showAnimatedAlert.accesskey      "S">
 <!ENTITY customizeMailAlert.label         "Customise…">
@@ -35,3 +35,4 @@
 <!ENTITY customsound.accesskey            "U">
 <!ENTITY browse.label                     "Browse…">
 <!ENTITY browse.accesskey                 "B">
+

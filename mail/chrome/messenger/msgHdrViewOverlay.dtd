@@ -50,7 +50,7 @@
 <!ENTITY hdrViewToolbarAlwaysReplySender.accesskey "R">
 
 <!ENTITY otherActionsButton2.label "More">
-<!ENTITY otherActionsButton.tooltip "More actions">
+
 <!ENTITY otherActionsOpenConversation1.label "Open in Conversation">
 <!ENTITY otherActionsOpenConversation1.accesskey "C">
 <!ENTITY otherActionsOpenInNewWindow1.label "Open in New Window">
@@ -67,12 +67,12 @@
 <!ENTITY viewSourceMenuItem1.accesskey "V">
 <!ENTITY otherActionsPrint1.label "Print…">
 <!ENTITY otherActionsPrint1.accesskey "P">
-
 <!-- Attachment bar context menu items -->
+
 <!ENTITY startExpandedCmd.label    "Initially Show Attachment Pane">
 <!ENTITY startExpandedCmd.accesskey    "S">
-
 <!-- Attachment context menu items -->
+
 <!ENTITY openAttachmentCmd.label    "Open">
 <!ENTITY openAttachmentCmd.accesskey    "O">
 <!ENTITY saveAsAttachmentCmd.label    "Save As…">
@@ -91,8 +91,8 @@
 <!ENTITY deleteAllAttachmentsCmd.accesskey    "e">
 
 <!ENTITY openAttachment.tooltip "Open the attached file">
-
 <!-- Attachment toolbar items -->
+
 <!ENTITY saveAttachmentButton1.label       "Save">
 <!ENTITY saveAttachmentButton1.tooltip     "Save the attached file">
 <!ENTITY saveAllAttachmentsButton1.label   "Save All">
