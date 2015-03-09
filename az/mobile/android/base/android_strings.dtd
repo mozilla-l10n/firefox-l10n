@@ -328,8 +328,8 @@ size. -->
 <!ENTITY contextmenu_remove "Sil">
 <!ENTITY contextmenu_add_to_launcher "Ana ekrana əlavə et">
 <!ENTITY contextmenu_share "Paylaş">
-<!ENTITY contextmenu_pasteandgo "Yapıştır ve aç">
-<!ENTITY contextmenu_paste "Yapıştır">
+<!ENTITY contextmenu_pasteandgo "Yapışdır və aç">
+<!ENTITY contextmenu_paste "Yapışdır">
 <!ENTITY contextmenu_copyurl "Ünvanı Köçür">
 <!ENTITY contextmenu_edit_bookmark "Düzəlt">
 <!ENTITY contextmenu_subscribe "Səhifəyə abunə ol">
