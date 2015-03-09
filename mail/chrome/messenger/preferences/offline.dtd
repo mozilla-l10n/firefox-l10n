@@ -2,18 +2,19 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY offlineDialog.title "Без връзка">
+<!ENTITY offlineDialog.title "Настройки при липса на връзка">
 
-
-
-<!ENTITY radioRememberPrevState.label "Запомня се предишното състояне на свързаност">
+<!ENTITY checkAutoDetect.label "Автоматично продължаване, ако е открита връзка с мрежата">
+<!ENTITY checkAutoDetect.accesskey "ж">
+<!ENTITY titleStartUp "Ръчно установяване на състояние при стартиране:">
+<!ENTITY radioRememberPrevState.label "Запомняне предишното състояние на свързаност">
 <!ENTITY radioRememberPrevState.accesskey "З">
-
-
-
-
-
-
+<!ENTITY radioAskState.label "Запитване за свързване с мрежата">
+<!ENTITY radioAskState.accesskey "З">
+<!ENTITY radioAlwaysOnlineState.label "На линия">
+<!ENTITY radioAlwaysOnlineState.accesskey "л">
+<!ENTITY radioAlwaysOffline.label "Изключен">
+<!ENTITY radioAlwaysOffline.accesskey "И">
 
 <!ENTITY textGoingOnline "Изпращане на неизпратените писма след свързване?">
 <!ENTITY radioAutoSend.label "Да">

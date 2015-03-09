@@ -41,15 +41,16 @@
 <!-- Data Choices -->
 
 <!ENTITY telemetrySection.label          "Телеметрия">
+<!ENTITY telemetryDesc.label             "Изпраща данни за производителността, използването, хардуера и персонализирането на вашия пощенски клиент на &vendorShortName;, за да спомогне за подобряването на &brandShortName;">
+<!ENTITY enableTelemetry.label           "Включване на Телеметрия">
+<!ENTITY enableTelemetry.accesskey       "Т">
+<!ENTITY telemetryLearnMore.label        "Научете повече">
 
-
-
-
-
-
-
-
-
+<!ENTITY crashReporterSection.label      "Отчети за сривове">
+<!ENTITY crashReporterDesc.label         "&brandShortName; изпраща отчети за сривове, за да спомогне &vendorShortName; да увеличи стабилността и сигурността на пощенския клиент.">
+<!ENTITY enableCrashReporter.label       "Включване на отчетите">
+<!ENTITY enableCrashReporter.accesskey   "о">
+<!ENTITY crashReporterLearnMore.label    "Научете повече">
 <!-- Display and Reading Settings -->
 
 <!ENTITY reading.caption               "Четене">
@@ -126,8 +127,8 @@
 <!ENTITY certs.auto.accesskey            "ч">
 <!ENTITY certs.ask                       "Запитване всеки път">
 <!ENTITY certs.ask.accesskey             "З">
-
-
+<!ENTITY enableOCSP.label                "Заявяване OCSP сървърите да потвърждават текущата валидност на сертификатите">
+<!ENTITY enableOCSP.accesskey            "З">
 
 <!ENTITY viewCertificates.label         "Преглед сертификати">
 <!ENTITY viewCertificates.accesskey     "П">

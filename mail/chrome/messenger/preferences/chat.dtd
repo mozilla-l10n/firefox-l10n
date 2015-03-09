@@ -2,10 +2,10 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY  startupAction.label         "Когато се пуска &brandShortName;:">
-<!ENTITY  startupAction.accesskey     "п">
-<!ENTITY  startupOffline.label        "Сметките ми за разговори да са офлайн">
-<!ENTITY  startupConnectAuto.label    "Автоматично свързване на сметките ми за разговори">
+<!ENTITY  startupAction.label         "Когато се стартира &brandShortName;:">
+<!ENTITY  startupAction.accesskey     "с">
+<!ENTITY  startupOffline.label        "Разговорите са изключени">
+<!ENTITY  startupConnectAuto.label    "Автоматично свързване за разговори">
 <!-- LOCALIZATION NOTE: reportIdleAfter.label is displayed first, then
 there's a field where the user can enter a number, and itemTime is
 displayed at the end of the line. The translations of the
@@ -13,22 +13,22 @@ reportIdleAfter.label and idleTime parts don't have to mean the exact
 same thing as in English; please try instead to translate the whole
 sentence. -->
 
-<!ENTITY  reportIdleAfter.label         "Нека контактите ми знаят, че съм далеч след">
-<!ENTITY  reportIdleAfter.accesskey     "ч">
-<!ENTITY  idleTime                      "минути неактивност">
+<!ENTITY  reportIdleAfter.label         "Другите ще видят, че съм неактивен след">
+<!ENTITY  reportIdleAfter.accesskey     "н">
+<!ENTITY  idleTime                      "минути">
 
-<!ENTITY  andSetStatusToAway.label      "и задай състоянието ми на Далеч със следното съобщение за състоянието:">
+<!ENTITY  andSetStatusToAway.label      "и задаване на състояние Далеч със следното съобщение:">
 <!ENTITY  andSetStatusToAway.accesskey  "ч">
 
-<!ENTITY  sendTyping.label              "Изпращане на уводомявания за писане по време на разговор">
+<!ENTITY  sendTyping.label              "Изпращане на уведомления за писане по време на разговор">
 <!ENTITY  sendTyping.accesskey          "п">
 
 <!ENTITY  chatNotifications.label             "Когато пристигне пряко съобщение до вас:">
-<!ENTITY  desktopChatNotifications.label      "Показване на уведомление">
+<!ENTITY  desktopChatNotifications.label      "Показване на уведомление:">
 <!ENTITY  desktopChatNotifications.accesskey  "у">
-
-
-
+<!ENTITY  completeNotification.label          "с името на подателя и преглед на съобщението">
+<!ENTITY  buddyInfoOnly.label                 "само с името на подателя">
+<!ENTITY  dummyNotification.label             "без друга информация">
 <!ENTITY  chatSound.accesskey                 "з">
 <!ENTITY  chatSound.label                     "Възпроизвеждане на звук">
 <!ENTITY  play.label                          "Възпроизвеждане">
