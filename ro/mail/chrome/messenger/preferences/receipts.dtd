@@ -15,8 +15,8 @@
 <!ENTITY never.accesskey               "N">
 <!ENTITY returnSome.label              "Trimite confirmare pentru unele mesaje">
 <!ENTITY returnSome.accesskey          "r">
-<!ENTITY notInToCc.label               "Dacă nu mă regăsesc în câmpurile Către sau Cc ale mesajului:">
-<!ENTITY notInToCc.accesskey           "D">
+<!ENTITY notInToCc.label               "Dacă nu mă aflu în câmpurile Către sau Cc ale mesajului:">
+<!ENTITY notInToCc.accesskey           "f">
 <!ENTITY outsideDomain.label           "Dacă expeditorul nu este în domeniul meu:">
 <!ENTITY outsideDomain.accesskey       "t">
 <!ENTITY otherCases.label              "În toate celelalte cazuri:">
