@@ -53,7 +53,7 @@
 <!ENTITY viewMenu_resetzoom_label "Sa origjinali">
 <!ENTITY viewMenu_resetzoom_accesskey "o">
 
-<!ENTITY projectButton_label "Hape Aplikacionin">
+<!ENTITY projectButton_label "Hapni Aplikacion">
 <!ENTITY runtimeButton_label "Përzgjidhni Runtime">
 
 <!-- We try to replicate Firefox' bindings: -->

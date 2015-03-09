@@ -3,7 +3,8 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY addressbookWindow.title                        "Libër Adresash">
-
+<!ENTITY blankResultsPaneMessage.label                  "Ky libër adresash shfaq kontakte vetëm pas një kërkimi">
+<!ENTITY localResultsOnlyMessage.label                  "Kontaktet prej librash të largët adresash nuk shfaqen, po nuk bëtë kërkim">
 <!-- File Menu -->
 <!ENTITY fileMenu.label                                 "Kartelë">
 <!ENTITY fileMenu.accesskey                             "K">
@@ -161,6 +162,8 @@ because displayed names don't have the comma in between. -->
 <!ENTITY searchItem.title "Kërkim i Shpejtë">
 
 <!-- Results Pane -->
+<!ENTITY Addrbook.label                                 "Libër Adresash">
+<!ENTITY Addrbook.accesskey                             "L">
 <!ENTITY GeneratedName.label                            "Emrash">
 <!ENTITY GeneratedName.accesskey                        "E">
 <!ENTITY PrimaryEmail.label                             "Email-esh">

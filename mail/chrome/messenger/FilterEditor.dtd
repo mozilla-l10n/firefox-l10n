@@ -25,6 +25,8 @@
 <!ENTITY contextAfterCls.label "Filtroji pas Klasifikimit Si të Pavlera">
 <!ENTITY contextOutgoing.label "Pas Dërgimit">
 <!ENTITY contextOutgoing.accesskey "D">
+<!ENTITY contextArchive.label "Arkivohet">
+<!ENTITY contextArchive.accesskey "A">
 
 <!ENTITY filterActionDesc.label "Kryej këto veprime:">
 <!ENTITY filterActionDesc.accesskey "K">
