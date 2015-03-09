@@ -16,7 +16,7 @@
 <!ENTITY releaseCmd2.label "Shënime Versioni">
 <!ENTITY releaseCmd2.accesskey "S">
 <!ENTITY openHelp.label "Lëndë Ndihme">
-<!ENTITY openHelp.accesskey "P">
+<!ENTITY openHelp.accesskey "L">
 <!ENTITY openHelp.commandkey "VK_F1">
 <!ENTITY openHelpMac.label "Ndihmë për &brandShortName;-in">
 <!ENTITY openHelpMac2.commandkey   "?">

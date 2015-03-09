@@ -150,6 +150,8 @@
 <!ENTITY messagePaneVertical.accesskey "V">
 <!ENTITY showFolderPaneCmd.label "Kuadrat Dosjesh">
 <!ENTITY showFolderPaneCmd.accesskey "F">
+<!ENTITY showFolderPaneColsCmd.label "Shtylla Kuadrati Dosjesh">
+<!ENTITY showFolderPaneColsCmd.accesskey "t">
 <!ENTITY showMessageCmd.label "Kuti Mesazhesh">
 <!ENTITY showMessageCmd.accesskey "M">
 
@@ -598,7 +600,9 @@
 <!ENTITY manageTags.accesskey "A">
 
 <!-- Folder Pane -->
-<!ENTITY folderColumn.label "Emër">
+<!ENTITY folderNameColumn.label "Emër">
+<!ENTITY folderUnreadColumn.label "Të palexuar">
+<!ENTITY folderTotalColumn.label "Gjithsej">
 <!ENTITY folderSizeColumn.label "Madhësi">
 
 <!-- Folder Pane Context Menu -->
