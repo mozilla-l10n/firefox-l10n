@@ -26,17 +26,20 @@
 <!ENTITY community.exp.middle       " е ">
 <!-- LOCALIZATION NOTE (community.exp.creditslink): This is a link title that links to about:credits. -->
 <!ENTITY community.exp.creditsLink  "глобална общност">
-
+<!ENTITY community.exp.end          " работеща заедно за една отворена и общодостъпна за всички Мрежа. ">
 
 <!ENTITY community.start2           "&brandShortName; е разработен от ">
 <!-- LOCALIZATION NOTE (community.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
 <!ENTITY community.middle2          ", която е ">
 <!-- LOCALIZATION NOTE (community.creditsLink): This is a link title that links to about:credits. -->
+<!ENTITY community.end3             " работеща заедно за една отворена и общодостъпна за всички Мрежа.">
 
-
+<!ENTITY helpus.start               "Искате да помогнете? ">
 <!-- LOCALIZATION NOTE (helpus.donateLink): This is a link title that links to the thunderbird donation page -->
-
+<!ENTITY helpus.donateLink          "Направете дарение">
+<!ENTITY helpus.middle              " или ">
 <!-- LOCALIZATION NOTE (helpus.getInvolvedLink): This is a link title that links to http://www.mozilla.org/contribute/. -->
+<!ENTITY helpus.getInvolvedLink     "се включете при нас!">
 <!ENTITY helpus.end                 "">
 <!-- LOCALIZATION NOTE (bottomLinks.license): This is a link title that links to about:license. -->
 
@@ -55,13 +58,14 @@
 <!-- LOCALIZATION NOTE (update.adminDisabled): try to make the localized text short (see bug 596813 for screenshots). -->
 <!ENTITY update.adminDisabled       "Обновленията са ограничени от вашия системен администратор">
 <!-- LOCALIZATION NOTE (update.otherInstanceHandlingUpdates): try to make the localized text short -->
+<!ENTITY update.otherInstanceHandlingUpdates "&brandShortName; се обновява от някой друг">
 <!-- LOCALIZATION NOTE (update.failed.start,update.failed.linkText,update.failed.end):
      update.failed.start, update.failed.linkText, and update.failed.end all go into
      one line with linkText being wrapped in an anchor that links to a site to download
      the latest version of Firefox (e.g. http://www.firefox.com). As this is all in
      one line, try to make the localized text short (see bug 596813 for screenshots). -->
 
-<!ENTITY update.failed.start        "Неуспешно обновяване.">
+<!ENTITY update.failed.start        "Неуспешно обновяване. ">
 <!ENTITY update.failed.linkText     "Изтегляне на последната версия">
 <!ENTITY update.failed.end          "">
 <!-- LOCALIZATION NOTE (update.manual.start,update.manual.end): update.manual.start and update.manual.end
@@ -79,7 +83,7 @@
      why the system is no longer supported. As this is all in one line, try to
      make the localized text short (see bug 843497 for screenshots). -->
 
-<!ENTITY update.unsupported.start    "Не може да извършите повече обновявания на системата.">
+<!ENTITY update.unsupported.start    "Не може да извършите повече обновявания на системата. ">
 <!ENTITY update.unsupported.linkText "Научете повече">
 <!ENTITY update.unsupported.end      "">
 <!-- LOCALIZATION NOTE (update.downloading.start,update.downloading.end): update.downloading.start and 

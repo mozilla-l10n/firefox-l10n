@@ -25,8 +25,7 @@
 <!ENTITY resetTrainingData.accesskey "Н">
 <!-- Phishing Detector -->
 
-<!ENTITY phishingDetector1.intro  "&brandShortName; може да анализира писмата за възможна измама, като 
-търси познати техники за подлъгване.">
+<!ENTITY phishingDetector1.intro  "&brandShortName; може да анализира писмата за възможна измама, като търси познати техники за подлъгване.">
 <!ENTITY enablePhishingDetector1.label    "Уведомяване, ако четеното писмо е съмнително">
 <!ENTITY enablePhishingDetector1.accesskey  "У">
 <!ENTITY useDownloadedList.label "Използване на списък, изтеглен мрежата, на известни пощенски измами">
