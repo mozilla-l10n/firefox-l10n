@@ -1,22 +1,30 @@
+
+
+
+
+
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY itemGeneral.label             "Të përgjithshme">
+<!ENTITY dataChoicesTab.label          "Zgjedhje të Dhënash">
 <!ENTITY itemDisplay.label             "Lexim &amp; Paraqitje">
 <!ENTITY itemUpdate.label              "Përditësim">
 <!ENTITY itemNetworking.label          "Hapësirë në Rrjet &amp; Disk">
 <!ENTITY itemCertificates.label        "Dëshmi">
 
 <!-- General Settings -->
-
-<!ENTITY submitTelemetry.label         "Parashtro Të dhëna Funksionimi">
-<!ENTITY submitTelemetry.accesskey     "P">
-<!ENTITY telemetryInfoLink.label       "Më tepër informacion mbi Matjet Nga Larg">
 <!ENTITY enableGlodaSearch.label       "Aktivizo Kërkim dhe Indeksues Global">
 <!ENTITY enableGlodaSearch.accesskey   "A">
 <!ENTITY allowHWAccel.label            "Përdor përshpejtim hardware kur mundet">
 <!ENTITY allowHWAccel.accesskey        "h">
+<!ENTITY storeType.label               "Lloj Depoje Mesazhesh për llogari të reja:">
+<!ENTITY storeType.accesskey           "L">
+<!ENTITY mboxStore.label               "Një kartelë e madhe (mbox)">
+<!ENTITY maildirStore.label            "Një kartelë për mesazh (maildir)">
+
+
 
 <!ENTITY scrolling.label               "Rrëshqitje">
 <!ENTITY useAutoScroll.label           "Përdor vetërrëshqitje">
@@ -37,6 +45,19 @@
 <!ENTITY returnReceiptsInfo.label      "Përcaktoni se si i trajton &brandShortName;-i faturat e kthimit">
 <!ENTITY showReturnReceipts.label      "Fatura Kthimi…">
 <!ENTITY showReturnReceipts.accesskey  "F">
+
+<!-- Data Choices -->
+<!ENTITY telemetrySection.label          "Telemetry">
+<!ENTITY telemetryDesc.label             "Na jep të dhëna punimi, përdorimi, hardware-i dhe personalizimesh të klientit tuaj email &vendorShortName;, për të na ndihmuar ta përmirësojmë &brandShortName;-in">
+<!ENTITY enableTelemetry.label           "Aktivizojeni Telemetry-në">
+<!ENTITY enableTelemetry.accesskey       "T">
+<!ENTITY telemetryLearnMore.label        "Mësoni Më Tepër">
+
+<!ENTITY crashReporterSection.label      "Njoftues Vithisjesh">
+<!ENTITY crashReporterDesc.label         "&brandShortName;-i parashtron njoftime vithisjesh për të ndihmuar &vendorShortName;-n ta bëjë klientin tuaj email më të qëndrueshëm dhe më të sigurt">
+<!ENTITY enableCrashReporter.label       "Aktivizojeni Njoftuesin e Vithisjeve">
+<!ENTITY enableCrashReporter.accesskey   "V">
+<!ENTITY crashReporterLearnMore.label    "Mësoni Më Tepër">
 
 <!-- Display and Reading Settings -->
 <!ENTITY reading.caption                "Lexim">

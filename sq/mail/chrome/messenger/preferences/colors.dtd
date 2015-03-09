@@ -6,8 +6,12 @@
 <!ENTITY  window.width                    "38em">
 <!ENTITY  window.macWidth                 "41em">
 
-<!ENTITY  allowPagesToUse.label           "Lejoje lëndën të zgjedhë ngjyrat e saj, në vend se të përzgjedhjes sime më sipër">
-<!ENTITY  allowPagesToUse.accesskey       "L">
+<!ENTITY  overridePageColors.label        "Ngjyrat e përcaktuara nga lënda anashkaloji me përzgjedhjet e mia më sipër:">
+<!ENTITY  overridePageColors.accesskey    "o">
+
+<!ENTITY  overridePageColors.always.label "Përherë">
+<!ENTITY  overridePageColors.auto.label   "Vetëm me tema Kontrasti të Lartë">
+<!ENTITY  overridePageColors.never.label  "Kurrë">
 
 <!ENTITY  color                           "Tekst dhe Sfond">
 <!ENTITY  textColor.label                 "Tekst:">
@@ -20,7 +24,7 @@
 <!ENTITY  underlineLinks.label            "Nënvizoji Lidhjet">
 <!ENTITY  underlineLinks.accesskey        "N">
 <!ENTITY  links                           "Ngjyra Lidhjesh">
-<!ENTITY  linkColor.label                 "Lidhje të *Pavizituara:">
+<!ENTITY  linkColor.label                 "Lidhje të Pavizituara:">
 <!ENTITY  linkColor.accesskey             "L">
 <!ENTITY  visitedLinkColor.label          "Lidhje të Vizituara:">
 <!ENTITY  visitedLinkColor.accesskey      "V">
