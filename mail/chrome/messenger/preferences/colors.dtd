@@ -6,8 +6,12 @@
 <!ENTITY  window.width                    "38em">
 <!ENTITY  window.macWidth                 "41em">
 
-<!ENTITY  allowPagesToUse.label           "Lejoje lëndën të zgjedhë ngjyrat e saj, në vend se të përzgjedhjes sime më sipër">
-<!ENTITY  allowPagesToUse.accesskey       "L">
+<!ENTITY  overridePageColors.label        "Anashkalo ngjyrat e përcaktuara nga lënda me pëzrgjedhjet e mia më sipër:">
+<!ENTITY  overridePageColors.accesskey    "A">
+
+<!ENTITY  overridePageColors.always.label "Përherë">
+<!ENTITY  overridePageColors.auto.label   "Vetëm për tema me Kontrast të Lartë">
+<!ENTITY  overridePageColors.never.label  "Kurrë">
 
 <!ENTITY  color                           "Tekst dhe Sfond">
 <!ENTITY  textColor.label                 "Tekst:">
