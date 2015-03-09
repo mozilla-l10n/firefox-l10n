@@ -56,21 +56,21 @@ can reach it easily. -->
 
 <!ENTITY tabCmd.label "Yeni sekme">
 <!ENTITY tabCmd.accesskey "s">
-
+<!ENTITY tabCmd.commandkey "t">
 <!-- LOCALIZATION NOTE (openLocationCmd.label): "Open Location" is only
 displayed on OS X, and only on windows that aren't main browser windows, or
 when there are no windows but Firefox is still running. -->
 <!ENTITY openLocationCmd.label "Konumu aç…">
 <!ENTITY openFileCmd.label "Dosya aç…">
 <!ENTITY openFileCmd.accesskey "a">
-
+<!ENTITY openFileCmd.commandkey "o">
 <!ENTITY printSetupCmd.label "Sayfa düzeni…">
 <!ENTITY printSetupCmd.accesskey "ü">
 <!ENTITY printPreviewCmd.label "Yazdırma ön izleme">
 <!ENTITY printPreviewCmd.accesskey "ö">
 <!ENTITY printCmd.label "Yazdır…">
 <!ENTITY printCmd.accesskey "z">
-
+<!ENTITY printCmd.commandkey "p">
 
 <!ENTITY goOfflineCmd.label "Çevrim dışı çalış">
 <!ENTITY goOfflineCmd.accesskey "d">
@@ -91,10 +91,10 @@ when there are no windows but Firefox is still running. -->
 
 <!ENTITY pageSourceCmd.label "Sayfa kaynağı">
 <!ENTITY pageSourceCmd.accesskey "a">
-
+<!ENTITY pageSourceCmd.commandkey "u">
 <!ENTITY pageInfoCmd.label "Sayfa bilgileri">
 <!ENTITY pageInfoCmd.accesskey "b">
-
+<!ENTITY pageInfoCmd.commandkey "i">
 <!ENTITY mirrorTabCmd.label "Sekmeyi yansıt">
 <!ENTITY mirrorTabCmd.accesskey "S">
 <!-- LOCALIZATION NOTE (enterFullScreenCmd.label, exitFullScreenCmd.label):
@@ -105,7 +105,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY exitFullScreenCmd.accesskey "T">
 <!ENTITY fullScreenCmd.label "Tam ekran">
 <!ENTITY fullScreenCmd.accesskey "T">
-
+<!ENTITY fullScreenCmd.macCommandKey "f">
 <!ENTITY showAllTabsCmd.label "Tüm sekmeleri göster">
 <!ENTITY showAllTabsCmd.accesskey "s">
 
@@ -140,14 +140,14 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksMenu.accesskey "Y">
 <!ENTITY bookmarkThisPageCmd.label "Bu sayfayı yer imlerine ekle">
 <!ENTITY editThisBookmarkCmd.label "Bu yer imini düzenle">
-
-
+<!ENTITY bookmarkThisPageCmd.commandkey "d">
+<!ENTITY markPageCmd.commandkey "l">
 <!-- LOCALIZATION NOTE (findShareServices.label):
   -  Use the unicode ellipsis char, \u2026,
   -  or use "..." if \u2026 doesn't suit traditions in your locale. -->
 <!ENTITY findShareServices.label "Daha fazla paylaşım servisi bulun…">
 <!ENTITY sharePageCmd.label "Bu sayfayı paylaş">
-
+<!ENTITY sharePageCmd.commandkey "S">
 <!ENTITY sharePageCmd.accesskey "u">
 <!-- LOCALIZATION NOTE (shareLink.accesskey): must be different than the following share access keys -->
 <!ENTITY shareLink.label "Bu bağlantıyı paylaş">
@@ -175,7 +175,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY reloadCmd.label              "Tazele">
 <!ENTITY reloadButton.tooltip         "Geçerli sayfayı tazele">
 <!ENTITY stopCmd.label                "Durdur">
-
+<!ENTITY stopCmd.macCommandKey        ".">
 <!ENTITY stopButton.tooltip           "Sayfayı yüklemeyi durdur">
 <!ENTITY goEndCap.tooltip             "Konum çubuğundaki adrese git">
 <!ENTITY printButton.label            "Yazdır">
@@ -299,7 +299,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fileMenu.label         "Dosya"> 
 <!ENTITY fileMenu.accesskey       "D">
 <!ENTITY newNavigatorCmd.label        "Yeni pencere">
-
+<!ENTITY newNavigatorCmd.key        "N">
 <!ENTITY newNavigatorCmd.accesskey      "Y">
 <!ENTITY newPrivateWindow.label     "Yeni gizli pencere">
 <!ENTITY newPrivateWindow.accesskey "n">
@@ -644,9 +644,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY findAgainCmd.label  "Sonrakini bul">
 <!ENTITY findAgainCmd.accesskey "a">
-
+<!ENTITY findAgainCmd.commandkey "g">
 <!ENTITY findAgainCmd.commandkey2 "VK_F3">
-
+<!ENTITY findSelectionCmd.commandkey "e">
 
 <!ENTITY spellAddDictionaries.label "Sözlük ekle…">
 <!ENTITY spellAddDictionaries.accesskey "S">
@@ -849,4 +849,4 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY readingList.sidebar.delete.tooltip       "Bunu okuma listemden kaldır">
 <!-- Pre-landed strings for bug 1123519 -->
 <!ENTITY readingList.sidebar.add.label            "Okuma listesine ekle">
-
+<!ENTITY readingList.sidebar.add.tooltip          "Bu sayfayı okuma listeme ekle">
