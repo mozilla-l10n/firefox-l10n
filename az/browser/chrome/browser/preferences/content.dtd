@@ -16,8 +16,8 @@
 <!ENTITY  defaultSize.label           "Ölçü:">
 <!ENTITY  defaultSize.accesskey       "l">
 
-<!ENTITY  advancedFonts.label         "Ətraflı…">
-<!ENTITY  advancedFonts.accesskey     "Ə">
+<!ENTITY  advancedFonts.label         "Təkmilləşmiş…">
+<!ENTITY  advancedFonts.accesskey     "T">
 
 <!ENTITY  colors.label                "Rənglər…">
 <!ENTITY  colors.accesskey            "R">

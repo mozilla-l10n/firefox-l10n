@@ -172,5 +172,5 @@ functionality specific to firefox. -->
 <!ENTITY sslv3Used.title "Təhlükəsiz bağlanmaq mümkün olmadı">
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc) - Do not translate
      "ssl_error_unsupported_version". -->
-<!ENTITY sslv3Used.longDesc "Ətraflı məlumat: ssl_error_unsupported_version">
+<!ENTITY sslv3Used.longDesc "Təkmilləşmiş məlumat: ssl_error_unsupported_version">
 <!ENTITY sslv3Used.learnMore "Ətraflı öyrən…">
