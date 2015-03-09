@@ -20,7 +20,7 @@
 <!ENTITY  underlineLinks.label            "Nënvizoji Lidhjet">
 <!ENTITY  underlineLinks.accesskey        "N">
 <!ENTITY  links                           "Ngjyra Lidhjesh">
-<!ENTITY  linkColor.label                 "Lidhje të *Pavizituara:">
+<!ENTITY  linkColor.label                 "Lidhje të Pavizituara:">
 <!ENTITY  linkColor.accesskey             "L">
 <!ENTITY  visitedLinkColor.label          "Lidhje të Vizituara:">
 <!ENTITY  visitedLinkColor.accesskey      "V">
