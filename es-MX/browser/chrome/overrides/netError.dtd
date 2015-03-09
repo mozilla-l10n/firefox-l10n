@@ -53,7 +53,7 @@ que &brandShortName; tiene permisos para acceder a la web.</li>
 
 <!ENTITY netOffline.title "Modo sin conexión">
 <!ENTITY netOffline.longDesc2 "<ul> 
-<li>Press &quot;Try Again&quot; to switch to online mode and reload the page.</li> 
+<li>Pulsa &quot;Intentar de nuevo&quot; para cambiar al modo con conexión y recargar la página.</li> 
 </ul>">
 
 <!ENTITY contentEncodingError.title "Error de codificación de contenido">
