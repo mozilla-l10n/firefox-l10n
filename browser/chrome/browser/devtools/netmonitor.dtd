@@ -13,8 +13,8 @@
 
 
 
-<!ENTITY netmonitorUI.perfNotice1         "• Щракнете на ">
-<!ENTITY netmonitorUI.perfNotice2         "бутона за пускане на анализ на производителността.">
+<!ENTITY netmonitorUI.perfNotice1         "• Натиснете бутона">
+<!ENTITY netmonitorUI.perfNotice2         "за анализиране на производителността.">
 <!-- LOCALIZATION NOTE (netmonitorUI.reload1/2/3): These are the labels displayed
   -  in the network table when empty to start logging network requests. -->
 <!ENTITY netmonitorUI.reloadNotice2       "Презареждане">
@@ -255,8 +255,6 @@
 <!-- LOCALIZATION NOTE (debuggerUI.summary.editAndResend): This is the label displayed
   -  on the button in the headers tab that opens a form to edit and resend the currently
      displayed request -->
-
-<!ENTITY netmonitorUI.summary.editAndResend "И">
 <!-- LOCALIZATION NOTE (debuggerUI.summary.editAndResend.accesskey): This is the access key
   -  for the "Edit and Resend" menu item displayed in the context menu for a request -->
 

@@ -11,7 +11,7 @@
 
 <!ENTITY aboutTelemetry.slowSqlSection " Бавни заявки на SQL">
 
-<!ENTITY aboutTelemetry.chromeHangsSection " Сривове в браузъра">
+<!ENTITY aboutTelemetry.chromeHangsSection "Зависвания на браузъра">
 
 <!ENTITY aboutTelemetry.threadHangStatsSection "Нишката зависна">
 
@@ -20,7 +20,7 @@
 
 <!ENTITY aboutTelemetry.simpleMeasurementsSection " Прости изчисления">
 
-<!ENTITY aboutTelemetry.addonDetailsSection "Подробности за добавката">
+<!ENTITY aboutTelemetry.addonDetailsSection "Подробности за добавки">
 
 <!ENTITY aboutTelemetry.lateWritesSection "Късни записи">
 
@@ -28,7 +28,7 @@
 
 <!ENTITY aboutTelemetry.addonHistogramsSection " Хистограми събрани от добавки">
 
-<!ENTITY aboutTelemetry.toggle " Щракнете, за да затворите раздела">
+<!ENTITY aboutTelemetry.toggle "Щракане превключва раздела">
 
 <!ENTITY aboutTelemetry.emptySection "  (няма събрани данни)">
 

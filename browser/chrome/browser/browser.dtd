@@ -278,8 +278,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY webide.keytext                    "F8">
 <!ENTITY devToolbar.keycode                "VK_F2">
 <!ENTITY devToolbar.keytext                "F2">
-<!ENTITY devToolboxMenuItem.label          "Активиране на инструментите">
-<!ENTITY devToolboxMenuItem.accesskey      "А">
+<!ENTITY devToolboxMenuItem.label          "Превключване на Инструментите">
+<!ENTITY devToolboxMenuItem.accesskey      "П">
 
 
 <!ENTITY devToolbarToolsButton.tooltip     "Активирне на инструментите за разработчици">
