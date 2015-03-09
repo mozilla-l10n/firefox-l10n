@@ -5,13 +5,13 @@
 
 
 <!ENTITY menu_securityEncryptRequire.label "Šifriraj to sporočilo">
-<!ENTITY menu_securityEncryptRequire.accesskey "r">
+<!ENTITY menu_securityEncryptRequire.accesskey "Š">
 
 <!ENTITY menu_securitySign.label "Digitalno podpiši to sporočilo">
 <!ENTITY menu_securitySign.accesskey "D">
 
 <!ENTITY menu_securityStatus.label "Pokaži podatke o varnosti">
-<!ENTITY menu_securityStatus.accesskey "i">
+<!ENTITY menu_securityStatus.accesskey "P">
 
 <!ENTITY securityButton.label "Varnost">
 <!ENTITY securityButton.tooltip "Pokaži ali spremeni varnostne nastavitve">
