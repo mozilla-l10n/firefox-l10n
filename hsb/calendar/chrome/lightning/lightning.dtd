@@ -1,0 +1,83 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+<!-- WARNING! This file contains UTF-8 encoded characters!
+   - If this ==> … <== doesn't look like an ellipsis (three dots in a row),
+   - your editor isn't using UTF-8 encoding and may munge up the document!
+  -->
+<!-- Tools menu -->
+
+
+<!ENTITY lightning.preferencesLabel "Protyka">
+<!-- New menu popup in File menu -->
+
+<!ENTITY lightning.menupopup.new.event.label    "Podawk…">
+<!ENTITY lightning.menupopup.new.event.accesskey "P">
+<!ENTITY lightning.menupopup.new.task.label     "Nadawk…">
+<!ENTITY lightning.menupopup.new.task.accesskey "N">
+<!ENTITY lightning.menupopup.new.calendar.label "Protyka…">
+<!ENTITY lightning.menupopup.new.calendar.accesskey "t">
+<!-- Open menu popup in File menu -->
+
+<!ENTITY lightning.menupopup.open.label               "Wočinić">
+<!ENTITY lightning.menupopup.open.accesskey           "o">
+<!ENTITY lightning.menupopup.open.message.label       "Składowana powěsć…">
+<!ENTITY lightning.menupopup.open.message.accesskey   "p">
+<!ENTITY lightning.menupopup.open.calendar.label      "Protykowa dataja…">
+<!ENTITY lightning.menupopup.open.calendar.accesskey  "P">
+<!-- View Menu -->
+
+<!ENTITY lightning.menu.view.calendar.label            "Protyka">
+<!ENTITY lightning.menu.view.calendar.accesskey        "r">
+<!ENTITY lightning.menu.view.tasks.label               "Nadawki">
+<!ENTITY lightning.menu.view.tasks.accesskey           "k">
+<!-- Events and Tasks menu -->
+
+<!ENTITY lightning.menu.eventtask.label                "Podawki a nadawki">
+<!ENTITY lightning.menu.eventtask.accesskey            "d">
+<!-- properties dialog, calendar creation wizard -->
+
+<!ENTITY lightning.calendarproperties.email.label               "E-mejl:">
+<!-- iMIP Bar (meeting support) -->
+
+<!ENTITY lightning.imipbar.btnAccept.label                                  "Akceptować">
+<!ENTITY lightning.imipbar.btnAccept2.tooltiptext                           "Přeprošenje k podawkej akceptować">
+<!ENTITY lightning.imipbar.btnAcceptRecurrences.label                       "Wšě akceptować">
+<!ENTITY lightning.imipbar.btnAcceptRecurrences2.tooltiptext                "Přeprošenje k podawkej za wšě wustupowanja podawka akceptować">
+<!ENTITY lightning.imipbar.btnAdd.label                                     "Přidać">
+<!ENTITY lightning.imipbar.btnAdd.tooltiptext                               "Podawk protyce přidać">
+<!ENTITY lightning.imipbar.btnDecline.label                                 "Wotpokazać">
+
+
+
+<!ENTITY lightning.imipbar.btnDelete.label                                  "Zhašeć">
+
+
+
+
+
+
+<!ENTITY lightning.imipbar.btnReconfirm.tooltiptext                         "Sćele nowe wobkrućenje na organizatora">
+<!ENTITY lightning.imipbar.btnSaveCopy.label                                "Kopiju składować">
+
+
+
+
+
+
+
+
+<!-- Lightning specific keybindings -->
+
+
+
+<!-- Account Central page -->
+<!-- today-pane-specific -->
+
+
+
+
+
+
+
+
