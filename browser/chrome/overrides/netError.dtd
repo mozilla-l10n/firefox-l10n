@@ -38,11 +38,11 @@ que &brandShortName; tiene permisos para acceder a la web.</li>
 <!ENTITY generic.longDesc "<p>&brandShortName; no puede cargar esta página por algúna razón.</p>">
 
 <!ENTITY malformedURI.title "La dirección no es válida">
-<!ENTITY malformedURI.longDesc "<ul> 
-<li>Las direcciones web se escriben usualmente como 
-<strong>http://www.example.mx/</strong></li> 
-<li>Verifica que estás usando las diagonales correctas (p.e. 
-<strong>/</strong>).</li> 
+<!ENTITY malformedURI.longDesc "<ul>  
+<li>Las direcciones web se escriben usualmente como 
+<strong>http://www.example.com/</strong></li> 
+<li>Verifica que estás usando las diagonales correctas (i.e. 
+<strong>/</strong>).</li> 
 </ul>">
 
 <!ENTITY netInterrupt.title "La conexión se interrumpió">
