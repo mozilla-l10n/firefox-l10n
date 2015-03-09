@@ -36,5 +36,5 @@
 <!ENTITY  changeMasterPassword.label     "Промяна на главната парола…">
 <!ENTITY  changeMasterPassword.accesskey "л">
 
-<!ENTITY  savedPasswords.label            "Показване на паролите…">
+<!ENTITY  savedPasswords.label            "Показване на пароли…">
 <!ENTITY  savedPasswords.accesskey        "р">
