@@ -6,8 +6,8 @@
 <!ENTITY no_space_to_start_error "&brandShortName; nemá dostatek místa pro své spuštění.">
 <!ENTITY error_loading_file "Při načítání souborů vyžadovaných aplikací &brandShortName; nastala chyba.">
 
-<!ENTITY  onboard_start_message "Vítá vás &brandShortName;!">
-<!ENTITY  onboard_start_subtext "Je tu pro vás, vaše soukromí a otevřený web">
+<!ENTITY  onboard_start_message2 "Vítá vás &brandShortName;!">
+<!ENTITY  onboard_start_subtext2 "Ještě více možností pro soukromí a přizpůsobení než kdy předtím.">
 <!ENTITY  onboard_start_button_account "Přihlásit se k aplikaci &brandShortName;">
 <!ENTITY  onboard_start_button_browser "Začít prohlížet">
 
@@ -214,6 +214,8 @@ size. -->
 
 <!ENTITY pref_media_autoplay_enabled "Povolit automatické přehrávání">
 <!ENTITY pref_media_autoplay_enabled_summary "Určuje, zda webová stránka může automaticky přehrávat videa či jiný multimediální obsah">
+<!ENTITY pref_zoom_force_enabled "Vždy povolit lupu">
+<!ENTITY pref_zoom_force_enabled_summary "Lupu bude možné používat pro libovolnou stránku">
 
 <!ENTITY pref_use_master_password "Použít hlavní heslo">
 <!ENTITY pref_sync "Sync">
@@ -269,7 +271,8 @@ size. -->
      (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
 <!ENTITY datareporting_crashreporter_title_short "Hlášení pádů">
 <!ENTITY datareporting_wifi_title2 "Geolokační služba od organizace &vendorShortName;">
-<!ENTITY datareporting_wifi_geolocation_summary2 "Při běhu na pozadí sbírá informace o umístění wi-fi sítí a buněk mobilních vysílačů, které sdílí s organizací &vendorShortName;, která je využívá pro vylepšování našich geolokačních služeb">
+<!ENTITY datareporting_wifi_geolocation_summary3 "Pomozte organizaci &vendorShortName; mapovat svět! Sdílejte přibližná umístění mobilních a wi-fi sítí v okolí vašeho zařízení a pomozte tak vylepšit naše geolokační služby">
+
 
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
@@ -560,6 +563,13 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY actionbar_menu "Nabídka">
 <!ENTITY actionbar_done "Hotovo">
 
+<!-- Voice search in the awesome bar -->
+<!ENTITY voicesearch_prompt "Nyní hovořte">
+<!ENTITY voicesearch_failed_title "Hlasové vyhledávání aplikace &brandShortName;">
+<!ENTITY voicesearch_failed_message "Při práci s hlasovým vyhledáváním se vyskytl problém. Zkuste to později.">
+<!ENTITY voicesearch_failed_message_recoverable "Omlouváme se, ale nerozpoznali jsme vaše slova. Zkuste to prosím znovu.">
+<!ENTITY voicesearch_failed_retry "Zkusit znovu">
+
 <!-- Localization note (remote_tabs_last_synced): the variable is replaced by a
      "relative time span string" produced by Android.  This string describes the
      time the tabs were last synced relative to the current time; examples
@@ -567,6 +577,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      "Last synced" is one of the user's other Sync clients, typically Firefox on
      their desktop or laptop.-->
 <!ENTITY remote_tabs_last_synced "Poslední synchronizace: &formatS;">
+<!-- Localization note: Used when the sync has not happend yet, showed in place of a date -->
+<!ENTITY remote_tabs_never_synced "Poslední synchronizace: nikdy">
 
 <!-- Find-In-Page strings -->
 <!-- LOCALIZATION NOTE (find_matchcase): This is meant to appear as an icon that changes color
