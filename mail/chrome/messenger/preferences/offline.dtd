@@ -16,10 +16,6 @@
 <!ENTITY radioAlwaysOffline.label "Jashtë linje">
 <!ENTITY radioAlwaysOffline.accesskey "J">
 
-
-<!ENTITY radioAlwaysOnline.label "Nisu përherë në linjë">
-<!ENTITY radioAlwaysOnline.accesskey "N">
-
 <!ENTITY textGoingOnline "Të dërgohen mesazhet e padërguar kur kalohet në gjendjen në linjë?">
 <!ENTITY radioAutoSend.label "Po">
 <!ENTITY radioAutoSend.accesskey "P">
