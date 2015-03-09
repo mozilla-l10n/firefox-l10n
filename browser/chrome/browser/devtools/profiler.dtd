@@ -86,7 +86,7 @@
 
 <!-- LOCALIZATION NOTE (profilerUI.flattenTreeRecursion): This is the
   -  label for the checkbox that toggles the flattening of tree recursion in inspected
-  -  functions in the profiler. -->
+  -  functions in the profiler. 
 <!ENTITY profilerUI.flattenTreeRecursion             "Flatten Tree Recursion">
 <!ENTITY profilerUI.flattenTreeRecursion.tooltiptext "Flatten recursion when inspecting functions."> -->
 
