@@ -47,26 +47,26 @@
 <!ENTITY lightning.imipbar.btnAdd.label                                     "Přidać">
 <!ENTITY lightning.imipbar.btnAdd.tooltiptext                               "Podawk protyce přidać">
 <!ENTITY lightning.imipbar.btnDecline.label                                 "Wotpokazać">
-
-
-
+<!ENTITY lightning.imipbar.btnDecline2.tooltiptext                          "Přeprošenje na podawk wotpokazać">
+<!ENTITY lightning.imipbar.btnDeclineRecurrences.label                      "Wšě wotpokazać">
+<!ENTITY lightning.imipbar.btnDeclineRecurrences2.tooltiptext               "Přeprošenje na podawk za wšě wustupowanja podawka wotpokazać">
 <!ENTITY lightning.imipbar.btnDelete.label                                  "Zhašeć">
-
-
-
-
-
-
+<!ENTITY lightning.imipbar.btnDelete.tooltiptext                            "Z protyki zhašeć">
+<!ENTITY lightning.imipbar.btnDetails.label                                 "Podrobnosće…">
+<!ENTITY lightning.imipbar.btnDetails.tooltiptext                           "Podrobnosće podawka pokazać">
+<!ENTITY lightning.imipbar.btnMore.label                                    "Wjace">
+<!ENTITY lightning.imipbar.btnMore.tooltiptext                              "Klikńće, zo byšće dalše nastajenja pokazał">
+<!ENTITY lightning.imipbar.btnReconfirm2.label                              "Znowa wobkrućić">
 <!ENTITY lightning.imipbar.btnReconfirm.tooltiptext                         "Sćele nowe wobkrućenje na organizatora">
 <!ENTITY lightning.imipbar.btnSaveCopy.label                                "Kopiju składować">
-
-
-
-
-
-
-
-
+<!ENTITY lightning.imipbar.btnSaveCopy.tooltiptext                          "Składujće kopiju podawka do protyki, njewotwisnje wot wotmołwy na organizatora. Lisćina wobdźělnikow so zhaša.">
+<!ENTITY lightning.imipbar.btnTentative.label                               "Nachwilu">
+<!ENTITY lightning.imipbar.btnTentative2.tooltiptext                        "Přeprošenje na podawk nachwilu akceptować">
+<!ENTITY lightning.imipbar.btnTentativeRecurrences.label                    "Wšě nachwilu">
+<!ENTITY lightning.imipbar.btnTentativeRecurrences2.tooltiptext             "Přeprošenje na podawk za wšě wustupowanja podawka nachwilu akceptować">
+<!ENTITY lightning.imipbar.btnUpdate.label                                  "Aktualizować">
+<!ENTITY lightning.imipbar.btnUpdate.tooltiptext                            "Podawk w protyce aktualizować">
+<!ENTITY lightning.imipbar.description                                      "Tuta powěsć přeprošenje na podawk wobsahuje.">
 <!-- Lightning specific keybindings -->
 
 
