@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY itemGeneral.label       "Основни">
-
+<!ENTITY dataChoicesTab.label    "Възможности за данни">
 <!ENTITY itemDisplay.label       "Четене и показване">
 <!ENTITY itemUpdate.label        "Обновяване">
 <!ENTITY itemNetworking.label    "Мрежа и дисково място">
@@ -12,12 +12,12 @@
 
 <!ENTITY enableGlodaSearch.label       "Разрешаване на глобално търсене и индексиране">
 <!ENTITY enableGlodaSearch.accesskey   "Р">
-
-
-
-
-
-
+<!ENTITY allowHWAccel.label            "Използване на хардуерно ускоряване, когато е налично">
+<!ENTITY allowHWAccel.accesskey        "х">
+<!ENTITY storeType.label               "Вид на съхранение на писмата за нови регистрации:">
+<!ENTITY storeType.accesskey           "T">
+<!ENTITY mboxStore.label               "Един голям файл (mbox)">
+<!ENTITY maildirStore.label            "Файл за всяко писмо (maildir)">
 
 <!ENTITY scrolling.label               "Плъзгане">
 <!ENTITY useAutoScroll.label           "Използване на автоматично плъзгане">
@@ -39,6 +39,8 @@
 <!ENTITY showReturnReceipts.label      "Обратни разписки…">
 <!ENTITY showReturnReceipts.accesskey  "б">
 <!-- Data Choices -->
+
+<!ENTITY telemetrySection.label          "Телеметрия">
 
 
 
