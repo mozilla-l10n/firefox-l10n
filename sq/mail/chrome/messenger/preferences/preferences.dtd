@@ -17,3 +17,7 @@
 <!ENTITY panePrivacy.title        "Privatësi">
 <!ENTITY paneAdvanced.title       "Të mëtejshme">
 <!ENTITY paneSecurity.title       "Siguri">
+<!ENTITY paneAccount.title        "Llogari">
+
+<!ENTITY okButton.title           "OK">
+<!ENTITY okButton.accesskey       "O">

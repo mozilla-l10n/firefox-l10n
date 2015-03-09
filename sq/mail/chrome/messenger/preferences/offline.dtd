@@ -7,19 +7,16 @@
 <!ENTITY checkAutoDetect.label "Ndiq vetvetiu gjendjen e zbuluar për në linjë ose jashtë saj">
 <!ENTITY checkAutoDetect.accesskey "N">
 <!ENTITY titleStartUp "Gjendje dorazi gjatë nisjes:">
-<!ENTITY textStartUp "Kur bëhet nisja:">
 <!ENTITY radioRememberPrevState.label "Kujto gjendjen e mëparshme lidhur me linjën">
 <!ENTITY radioRememberPrevState.accesskey "K">
 <!ENTITY radioAskState.label "Pyetmë për gjendje linje">
 <!ENTITY radioAskState.accesskey "P">
-<!ENTITY radioAlwaysOnline.label "Në linjë">
-<!ENTITY radioAlwaysOnline.accesskey "N">
+<!ENTITY radioAlwaysOnlineState.label "Në linjë">
+<!ENTITY radioAlwaysOnlineState.accesskey "N">
 <!ENTITY radioAlwaysOffline.label "Jashtë linje">
 <!ENTITY radioAlwaysOffline.accesskey "J">
 
 
-<!ENTITY radioAskMe.label "">
-<!ENTITY radioAskMe.accesskey "e">
 <!ENTITY radioAlwaysOnline.label "Nisu përherë në linjë">
 <!ENTITY radioAlwaysOnline.accesskey "N">
 
