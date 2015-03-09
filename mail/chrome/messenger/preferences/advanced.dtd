@@ -13,7 +13,7 @@
 <!ENTITY enableGlodaSearch.label       "Omogoči splošno iskanje in kazalo">
 <!ENTITY enableGlodaSearch.accesskey   "m">
 <!ENTITY allowHWAccel.label            "Uporabi strojno pospeševanje, kadar je na voljo">
-<!ENTITY allowHWAccel.accesskey        "s">
+<!ENTITY allowHWAccel.accesskey        "n">
 <!ENTITY storeType.label               "Vrsta shrambe sporočil za nove račune:">
 <!ENTITY storeType.accesskey           "V">
 <!ENTITY mboxStore.label               "Ena velika datoteka (mbox)">
@@ -23,7 +23,7 @@
 <!ENTITY useAutoScroll.label           "Uporabi samodejno drsenje">
 <!ENTITY useAutoScroll.accesskey       "s">
 <!ENTITY useSmoothScrolling.label      "Uporabi gladko drsenje">
-<!ENTITY useSmoothScrolling.accesskey  "g">
+<!ENTITY useSmoothScrolling.accesskey  "a">
 
 <!ENTITY systemIntegration.label       "Sistemska povezljivost">
 <!ENTITY alwaysCheckDefault.label      "Ob zagonu vedno preveri, ali je &brandShortName; privzeti odjemalec elektronske pošte">
@@ -31,13 +31,13 @@
 <!ENTITY searchIntegration.label       "Dovoli &searchIntegration.engineName;, da preišče sporočila">
 <!ENTITY searchIntegration.accesskey   "D">
 <!ENTITY checkDefaultsNow.label        "Preveri zdaj …">
-<!ENTITY checkDefaultsNow.accesskey    "r">
+<!ENTITY checkDefaultsNow.accesskey    "e">
 <!ENTITY configEditDesc.label          "Napredne nastavitve">
 <!ENTITY configEdit.label              "Urejevalnik nastavitev …">
 <!ENTITY configEdit.accesskey          "U">
 <!ENTITY returnReceiptsInfo.label      "Določite, kako &brandShortName; obravnava povratnice">
 <!ENTITY showReturnReceipts.label      "Povratnice …">
-<!ENTITY showReturnReceipts.accesskey  "o">
+<!ENTITY showReturnReceipts.accesskey  "P">
 <!-- Data Choices -->
 
 <!ENTITY telemetrySection.label          "Telemetrija">

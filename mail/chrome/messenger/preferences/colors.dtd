@@ -7,11 +7,11 @@
 <!ENTITY  window.macWidth                 "41em">
 
 <!ENTITY  overridePageColors.label        "Preglasi vsebinsko določene barve z mojimi zgornjimi izbirami:">
-<!ENTITY  overridePageColors.accesskey    "P">
+<!ENTITY  overridePageColors.accesskey    "e">
 
-<!ENTITY  overridePageColors.always.label "vedno">
-<!ENTITY  overridePageColors.auto.label   "samo s visokokontrastnimi temami">
-<!ENTITY  overridePageColors.never.label  "nikoli">
+<!ENTITY  overridePageColors.always.label "Vedno">
+<!ENTITY  overridePageColors.auto.label   "Samo z visokokontrastnimi temami">
+<!ENTITY  overridePageColors.never.label  "Nikoli">
 
 <!ENTITY  color                           "Besedilo in ozadje">
 <!ENTITY  textColor.label                 "Besedilo:">
@@ -27,4 +27,4 @@
 <!ENTITY  linkColor.label                 "Neobiskane povezave:">
 <!ENTITY  linkColor.accesskey             "N">
 <!ENTITY  visitedLinkColor.label          "Obiskane povezave:">
-<!ENTITY  visitedLinkColor.accesskey      "O">
+<!ENTITY  visitedLinkColor.accesskey      "s">

@@ -7,10 +7,10 @@
 
 <!ENTITY style.label                      "Slog:">
 <!ENTITY style.accesskey                  "S">
-<!ENTITY regularStyle.label               "Običajno">
-<!ENTITY bold.label                       "Krepko">
-<!ENTITY italic.label                     "Ležeče">
-<!ENTITY boldItalic.label                 "Krepko ležeče">
+<!ENTITY regularStyle.label               "Običajni">
+<!ENTITY bold.label                       "Krepki">
+<!ENTITY italic.label                     "Ležeči">
+<!ENTITY boldItalic.label                 "Krepko ležeči">
 <!ENTITY size.label                       "Velikost:">
 <!ENTITY size.accesskey                   "e">
 <!ENTITY regularSize.label                "Običajna">
