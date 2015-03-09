@@ -148,6 +148,8 @@
 <!ENTITY messagePaneVertical.accesskey "V">
 <!ENTITY showFolderPaneCmd.label "Panneau des dossiers">
 <!ENTITY showFolderPaneCmd.accesskey "o">
+<!ENTITY showFolderPaneColsCmd.label "Colonnes du panneau des dossiers">
+<!ENTITY showFolderPaneColsCmd.accesskey "e">
 <!ENTITY showMessageCmd.label "Panneau d'affichage des messages">
 <!ENTITY showMessageCmd.accesskey "n">
 
@@ -597,7 +599,9 @@
 <!ENTITY manageTags.accesskey "G">
 
 <!-- Folder Pane -->
-<!ENTITY folderColumn.label "Nom">
+<!ENTITY folderNameColumn.label "Nom">
+<!ENTITY folderUnreadColumn.label "Non lu">
+<!ENTITY folderTotalColumn.label "Total">
 <!ENTITY folderSizeColumn.label "Taille">
 
 <!-- Folder Pane Context Menu -->

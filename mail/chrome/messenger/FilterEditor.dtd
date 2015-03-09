@@ -25,6 +25,8 @@
 <!ENTITY contextAfterCls.label "Filtrer après la vérification des indésirables">
 <!ENTITY contextOutgoing.label "Après l'envoi">
 <!ENTITY contextOutgoing.accesskey "s">
+<!ENTITY contextArchive.label "Lors de l'archivage">
+<!ENTITY contextArchive.accesskey "a">
 
 <!ENTITY filterActionDesc.label "Exécuter ces actions :">
 <!ENTITY filterActionDesc.accesskey "x">
