@@ -84,3 +84,7 @@
 
 <!ENTITY accountTitle.label "Paramètres du compte">
 <!ENTITY accountSettingsDesc.label "Ce compte est spécial, aucune identité ne lui est associée.">
+<!ENTITY storeType.label "Type de stockage des messages :">
+<!ENTITY storeType.accesskey "k">
+<!ENTITY mboxStore.label "Un seul fichier (mbox)">
+<!ENTITY maildirStore.label "Un fichier par message (maildir)">
