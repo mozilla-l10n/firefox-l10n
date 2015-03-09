@@ -86,5 +86,5 @@
 <!ENTITY accountSettingsDesc.label "Следва специална сметка. Няма идентичности, свързани с нея.">
 
 
-
-
+<!ENTITY mboxStore.label "Един голям файл (mbox)">
+<!ENTITY maildirStore.label "Файл за всяко писмо (maildir)">
