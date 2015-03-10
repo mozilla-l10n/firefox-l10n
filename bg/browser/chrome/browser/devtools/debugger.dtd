@@ -105,7 +105,7 @@
 <!-- LOCALIZATION NOTE (debuggerUI.searchFile): This is the text that appears
   -  in the source editor's context menu for the scripts search operation. -->
 
-<!ENTITY debuggerUI.searchFile           " Скриптове за филтриране">
+<!ENTITY debuggerUI.searchFile           "Филтриране на скриптове">
 <!ENTITY debuggerUI.searchFile.key       "P">
 <!ENTITY debuggerUI.searchFile.altkey    "O">
 <!ENTITY debuggerUI.searchFile.accesskey "P">
@@ -165,7 +165,7 @@
 
 <!ENTITY debuggerUI.tabs.sources        "Сорсове">
 <!ENTITY debuggerUI.tabs.traces         "Проследявания">
-<!ENTITY debuggerUI.tabs.callstack      " Стек на извикванията">
+<!ENTITY debuggerUI.tabs.callstack      "Стек на извиквания">
 <!ENTITY debuggerUI.tabs.variables      "Променливи">
 <!ENTITY debuggerUI.tabs.events         "Събития">
 <!-- LOCALIZATION NOTE (debuggerUI.seMenuAddWatch): This is the text that

@@ -8,6 +8,7 @@
 
 <!ENTITY aboutTelemetry.telemetryDisabled "  Телеметрията е <span>изключена</span>.">
 
+<!ENTITY aboutTelemetry.generalDataSection "Основни данни">
 
 <!ENTITY aboutTelemetry.slowSqlSection " Бавни заявки на SQL">
 

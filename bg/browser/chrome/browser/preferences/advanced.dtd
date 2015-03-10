@@ -29,7 +29,7 @@
 <!ENTITY dataChoicesTab.label            "Данни">
 
 <!ENTITY healthReportDesc.label          "Помага за разбирането на производителността на браузъра и поделя данни със  &vendorShortName;  за изправността му.">
-<!ENTITY enableHealthReport.label        "Активиране на доклада за изправност  на &brandShortName;">
+<!ENTITY enableHealthReport.label        "Включване доклада за изправност на &brandShortName;">
 <!ENTITY enableHealthReport.accesskey    "R">
 <!ENTITY healthReportLearnMore.label     "Научете повече">
 
