@@ -7,19 +7,19 @@
      in the inspector contextual-menu for the item that lets users copy the
      inner HTML of the current node -->
 
-<!ENTITY inspectorHTMLCopyInner.label       "Копиране на вътрешния HTML">
+<!ENTITY inspectorHTMLCopyInner.label       "Копиране на вътрешен HTML">
 <!ENTITY inspectorHTMLCopyInner.accesskey   "р">
 <!-- LOCALIZATION NOTE (inspectorHTMLCopyOuter.label): This is the label shown
      in the inspector contextual-menu for the item that lets users copy the
      outer HTML of the current node -->
 
-<!ENTITY inspectorHTMLCopyOuter.label       "Копиране на външния HTML">
+<!ENTITY inspectorHTMLCopyOuter.label       "Копиране на външен HTML">
 <!ENTITY inspectorHTMLCopyOuter.accesskey   "в">
 <!-- LOCALIZATION NOTE (inspectorCopyUniqueSelector.label): This is the label
      shown in the inspector contextual-menu for the item that lets users copy
      the CSS Selector of the current node -->
 
-<!ENTITY inspectorCopyUniqueSelector.label       "Копиране на уникалния селектор">
+<!ENTITY inspectorCopyUniqueSelector.label       "Копиране на уникален селектор">
 <!ENTITY inspectorCopyUniqueSelector.accesskey   "у">
 <!-- LOCALIZATION NOTE (inspectorHTMLPasteOuter.label): This is the label shown
      in the inspector contextual-menu for the item that lets users paste outer
