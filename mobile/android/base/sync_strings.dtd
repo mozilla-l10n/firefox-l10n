@@ -51,7 +51,7 @@
 <!ENTITY sync.subtitle.manage.label1 "Contul &syncBrand.fullName.label; este deja configurat. Poți merge în Setări pentru a gestiona contul sau lansează &brandShortName;.">
 <!-- Pair Device -->
 
-<!ENTITY sync.pair.tryagain.label "Te rugăm să mai încerci.">
+<!ENTITY sync.pair.tryagain.label "Te rugăm să încerci din nou.">
 <!ENTITY sync.pair.connectlocation.label "Pentru a activa noul dispozitiv, selectează „Setează &syncBrand.shortName.label;” pe dispozitiv și apoi „Am un cont.”">
 <!-- Firefox SyncAdapter Settings Screen -->
 
