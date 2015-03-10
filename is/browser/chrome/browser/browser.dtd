@@ -695,7 +695,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY syncBrand.shortName.label    "Sync">
 
 <!ENTITY syncSetup.label              "Setja upp &syncBrand.shortName.label;…">
-<!ENTITY syncSetup.accesskey          "Y">
+<!ENTITY syncSetup.accesskey          "y">
 <!ENTITY syncSyncNowItem.label        "Samstilla núna">
 <!ENTITY syncSyncNowItem.accesskey    "S">
 <!ENTITY syncReAuthItem.label         "Endurtengjast við &syncBrand.shortName.label;…">
