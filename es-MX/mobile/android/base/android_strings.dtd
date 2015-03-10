@@ -6,7 +6,8 @@
 <!ENTITY  no_space_to_start_error "No hay suficiente espacio para que &brandShortName; pueda iniciarse.">
 <!ENTITY  error_loading_file "Ocurrió un error mientras se intentaba cargar los archivos para usar &brandShortName;">
 
-
+<!ENTITY  onboard_start_message2 "Bienvenido a &brandShortName;">
+<!ENTITY  onboard_start_subtext2 "Más funciones de privacidad y maneras de personalizar que antes.">
 <!ENTITY  onboard_start_button_account "Conectarse a &brandShortName;">
 <!ENTITY  onboard_start_button_browser "Comenzar a navegar">
 <!-- Localization note: These are used as the titles of different pages on the home screen.
@@ -74,7 +75,7 @@
 <!ENTITY switch_button_message "CAMBIAR">
 
 <!ENTITY settings "Configuración">
-
+<!ENTITY settings_title "Configuración">
 <!ENTITY pref_category_advanced "Avanzado">
 <!ENTITY pref_category_customize "Personalizar">
 <!ENTITY pref_category_customize_summary "Página de inicio, búsqueda, pestañas, importación">
@@ -98,6 +99,8 @@
 <!-- Localization note (overlay_share_bookmark_btn_label) : This string is
      used in the share overlay menu to select an action. It is the verb
      "to bookmark", not the noun "a bookmark". -->
+
+<!ENTITY overlay_share_bookmark_btn_label "Marcador">
 <!ENTITY overlay_share_reading_list_btn_label "Añadir a la lista de lectura">
 <!ENTITY overlay_share_bookmark_btn_label_already "Ya está en los marcadores">
 <!ENTITY overlay_share_reading_list_btn_label_already "Ya está en la lista de lectura">
@@ -109,9 +112,10 @@
 
 <!ENTITY overlay_share_send_tab_btn_label "Enviar a otro dispositivo">
 <!ENTITY overlay_share_no_url "No se ha encontrado el enlace para esta compartición">
-
+<!ENTITY overlay_share_retry "Intentar de nuevo">
 <!ENTITY overlay_share_select_device "Seleccionar dispositivo">
 
+<!ENTITY pref_category_search3 "Buscar">
 <!ENTITY pref_category_search_summary "Personaliza tus herramientas de búsqueda">
 <!ENTITY pref_category_display "Mostrar">
 <!ENTITY pref_category_display_summary "Texto, barra de título, navegación en pantalla completa">
@@ -125,7 +129,7 @@
 <!ENTITY pref_category_add_search_providers "Añadir más proveedores de búsqueda">
 <!ENTITY pref_category_search_restore_defaults "Restaurar buscadores instalados">
 <!ENTITY pref_search_restore_defaults "Restaurar valores predeterminados">
-
+<!ENTITY pref_search_restore_defaults_summary "Restaurar valores predeterminados">
 <!-- Localization note (pref_search_hint) : "TIP" as in "hint", "clue" etc. Displayed as an
      advisory message on the customise search providers settings page explaining how to add new
      search providers.
@@ -155,14 +159,16 @@
 <!ENTITY pref_home_suggested_sites_summary "Mostrar accesos directos a sitios en tu página principal que pensamos que podrías encontrar interesantes">
 <!-- Localization note: These are shown in the left sidebar on tablets -->
 
-
+<!ENTITY pref_header_customize "Personalizar">
+<!ENTITY pref_header_display "Mostrar">
+<!ENTITY pref_header_privacy_short "Privacidad">
 <!ENTITY pref_header_help "Ayuda">
-
-
-
+<!ENTITY pref_header_language "Idioma">
+<!ENTITY pref_header_vendor "&vendorShortName;">
+<!ENTITY pref_header_devtools "Herramientas de desarrollador">
 
 <!ENTITY pref_cookies_menu "Cookies">
-
+<!ENTITY pref_cookies_accept_all "Habilitado">
 <!ENTITY pref_cookies_not_accept_foreign "Habilitado, excluyendo terceros">
 <!ENTITY pref_cookies_disabled "Deshabilitado">
 
@@ -180,9 +186,9 @@
 <!ENTITY pref_clear_on_exit_summary2 "&brandShortName; automáticamente borrará tus datos cada vez que selecciones \u0022Salir\u0022 del menú principal.">
 <!ENTITY pref_clear_on_exit_dialog_title "Selecciona que datos vas a borrar">
 <!ENTITY pref_plugins "Plugins">
-
+<!ENTITY pref_plugins_enabled "Habilitado">
 <!ENTITY pref_plugins_tap_to_play "Tap to play">
-
+<!ENTITY pref_plugins_disabled "Deshabilitado">
 <!ENTITY pref_text_size "Text size">
 <!ENTITY pref_reflow_on_zoom4 "Reajuste de texto">
 <!ENTITY pref_restore "Pestañas">
@@ -199,6 +205,7 @@
 same character/combination is used to increase the preview font size. It should be a concise
 representation of the language it is used in that will help show the text in the preview will change
 size. -->
+<!ENTITY pref_font_size_adjust_char "A">
 <!-- Localization note (pref_font_size_preview_text): This paragraph is used as an example to
     demonstrate the font size setting.  It is meant to be whimsical and fun. -->
 
@@ -206,8 +213,8 @@ size. -->
 
 <!ENTITY pref_media_autoplay_enabled "Permitir reproducción automática">
 <!ENTITY pref_media_autoplay_enabled_summary "Controla si los sitios web pueden reproducir videos automáticamente y otros contenidos multimedia">
-
-
+<!ENTITY pref_zoom_force_enabled "Acercamiento siempre habilitado">
+<!ENTITY pref_zoom_force_enabled_summary "Forzar sobrescritura para que puedas variar el tamaño de cualquier página">
 
 <!ENTITY pref_use_master_password "Use master password">
 <!ENTITY pref_sync "Sync">
@@ -264,7 +271,7 @@ size. -->
      (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
 <!ENTITY datareporting_crashreporter_title_short "Informador de fallos">
 <!ENTITY datareporting_wifi_title2 "&vendorShortName; Servicios de Ubicación">
-
+<!ENTITY datareporting_wifi_geolocation_summary3 "¡Ayuda a &vendorShortName; a mapear el mundo! Comparte la ubicación aproximada WIFI o móvil de tu dispositivo para ayudar a mejorar nuestro servicio de geolocalización">
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
      actual notification that an update is available. -->
@@ -373,12 +380,12 @@ size. -->
 <!ENTITY masterpassword_confirm "Confirmar contraseña">
 
 <!ENTITY button_ok "Aceptar">
-
+<!ENTITY button_cancel "Cancelar">
 <!ENTITY button_yes "Sí">
 <!ENTITY button_no "No">
 <!ENTITY button_clear_data "Limpiar datos">
-
-
+<!ENTITY button_set "Establecer">
+<!ENTITY button_clear "Limpiar">
 
 <!ENTITY home_top_sites_title "Sitios frecuentes">
 <!-- Localization note (home_top_sites_add): This string is used as placeholder
@@ -388,7 +395,7 @@ size. -->
      with the page title defined in aboutHome.dtd -->
 
 <!ENTITY home_title "Inicio de &brandShortName;">
-
+<!ENTITY home_history_title "Historial">
 <!ENTITY home_clear_history_button "Borrar historial de navegación">
 <!ENTITY home_clear_history_confirm "¿Estás seguro que deseas borrar tu historial?">
 <!ENTITY home_bookmarks_empty "Los marcadores que salvaste se mostrarán aquí.">
@@ -450,6 +457,7 @@ size. -->
 
 <!ENTITY pin_site_dialog_hint "Introduce una palabra clave de búsqueda">
 
+<!ENTITY filepicker_title "Elegir archivo">
 <!ENTITY filepicker_audio_title "Elegir o grabar un sonido">
 <!ENTITY filepicker_image_title "Elegir o tomar una foto">
 <!ENTITY filepicker_video_title "Elegir o grabar un video">
