@@ -150,8 +150,8 @@
 
 <!ENTITY fxaccount_create_account_header2 "Firefox kontu tee">
 <!ENTITY fxaccount_create_account_password_length_restriction "Ga hima ka tee harfu 8 nd\u0027a kacca">
-
-
+<!ENTITY fxaccount_create_account_day_of_birth "Zaari">
+<!ENTITY fxaccount_create_account_month_of_birth "Handu">
 <!ENTITY fxaccount_create_account_year_of_birth "Hay jiiri">
 <!-- Localization note: &formatS1; is fxaccount_policy_linktos, &formatS2; is fxaccount_policy_linkprivacy, both hyperlinked. -->
 <!ENTITY fxaccount_create_account_policy_text2 "Ka koy jine, I yadda &formatS1; nda &formatS2; ga Firefox Cloud goymiɲey se. ">
@@ -193,7 +193,7 @@
 
 <!ENTITY fxaccount_finish_migrating_header "Huru ka taagandiyan benandi">
 <!ENTITY fxaccount_finish_migrating_button_label "Taagandiyan benandi">
-
+<!ENTITY fxaccount_finish_migrating_description "Taagandiyan ga hin ka bayhaya boobo bisandi. Fondo bešere ti WiFi sankay bande.">
 
 <!ENTITY fxaccount_status_header2 "Firefox kontu">
 <!ENTITY fxaccount_status_signed_in_as "Huru sanda">

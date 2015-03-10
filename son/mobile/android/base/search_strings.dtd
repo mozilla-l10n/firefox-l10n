@@ -16,7 +16,7 @@
 <!ENTITY search_plus_content_description "Tonton ceeci zuwoo ga">
 
 <!ENTITY search_pref_title "Kayandiyaney">
-
+<!ENTITY search_pref_button_content_description "Kayandiyaney">
 
 <!ENTITY pref_clearHistory_confirmation "Taarikoo tuusandi">
 <!ENTITY pref_clearHistory_dialogMessage "Ceeciyan taarikoo kul tuusu jinaa woo ga?">
