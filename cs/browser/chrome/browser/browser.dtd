@@ -605,6 +605,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY sidebarCloseButton.tooltip "Zavře postranní lištu">
 
+<!ENTITY quitApplicationCmdWin2.label       "Ukončit">
+<!ENTITY quitApplicationCmdWin2.accesskey   "k">
+<!ENTITY quitApplicationCmdWin2.tooltip     "Ukončí &brandShorterName;">
 <!ENTITY quitApplicationCmdWin.label "Ukončit">
 <!ENTITY quitApplicationCmdWin.accesskey "k">
 <!ENTITY quitApplicationCmdWin.tooltip     "Ukončí &brandShortName;">
@@ -612,6 +615,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY goForwardCmd.commandKey "]">
 <!ENTITY quitApplicationCmd.label "Ukončit">
 <!ENTITY quitApplicationCmd.accesskey "k">
+<!ENTITY quitApplicationCmdMac2.label   "Ukončit &brandShorterName;">
 <!ENTITY quitApplicationCmdMac.label "Ukončit &brandShortName;">
 <!-- LOCALIZATION NOTE(quitApplicationCmdUnix.key): This keyboard shortcut is used by both Linux and OSX builds. -->
 <!ENTITY quitApplicationCmdUnix.key "Q">
@@ -842,3 +846,23 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY processHang.terminatePlugin.accessKey    "z">
 <!ENTITY processHang.terminateProcess.label       "Ukončit webový proces">
 <!ENTITY processHang.terminateProcess.accessKey   "w">
+
+<!ENTITY emeLearnMoreContextMenu.label            "Zjistit více o DRM…">
+<!ENTITY emeLearnMoreContextMenu.accesskey        "D">
+<!ENTITY emeNotificationsNotNow.label             "Nyní ne">
+<!ENTITY emeNotificationsNotNow.accesskey         "N">
+<!ENTITY emeNotificationsDontAskAgain.label       "Příště se již neptat">
+<!ENTITY emeNotificationsDontAskAgain.accesskey   "P">
+
+<!ENTITY readingList.label                        "Seznam ke čtení">
+<!ENTITY readingList.sidebar.commandKey           "R">
+<!ENTITY readingList.showSidebar.label            "Zobrazit postranní lištu Seznamu ke čtení">
+<!-- Pre-landed string for bug 1124153 -->
+<!ENTITY readingList.sidebar.showMore.label       "Zjistit více…">
+<!-- Pre-landed string for bug 1133662 -->
+<!ENTITY readingList.sidebar.emptyText            "Přidejte si články do svého Seznamu ke čtení, abyste je měli jednoduše dostupné vždy, když je budete potřebovat.">
+<!-- Pre-landed string for bug 1123525 -->
+<!ENTITY readingList.sidebar.delete.tooltip       "Odebrat ze Seznamu ke čtení">
+<!-- Pre-landed strings for bug 1123519 -->
+<!ENTITY readingList.sidebar.add.label            "Přidat do Seznamu ke čtení">
+<!ENTITY readingList.sidebar.add.tooltip          "Přidat tuto stránku do Seznamu ke čtení">
