@@ -11,7 +11,7 @@
 <!ENTITY calendar.unifinder.showcompletedtodos.label "Sýna verkefni sem er lokið">
 <!ENTITY calendar.today.button.label "Í dag">
 <!ENTITY calendar.tomorrow.button.label "Á morgun">
-<!ENTITY calendar.soon.button.label "Bráðlega">
+<!ENTITY calendar.upcoming.button.label "Á næstunni">
 <!ENTITY calendar.events.filter.all.label "Allir atburðir">
 <!ENTITY calendar.events.filter.today.label "Atburðir dagsins">
 <!ENTITY calendar.events.filter.future.label "Atburðir í framtíðinni">
@@ -205,8 +205,16 @@
 <!ENTITY calendar.context.newserver.accesskey "N">
 <!ENTITY calendar.context.findcalendar.label "Finna dagatal…">
 <!ENTITY calendar.context.findcalendar.accesskey "F">
-<!ENTITY calendar.context.deleteserver.label "Eyða dagatali">
-<!ENTITY calendar.context.deleteserver.accesskey "E">
+<!ENTITY calendar.context.deleteserver2.label "Eyða dagatali…">
+<!ENTITY calendar.context.deleteserver2.accesskey "d">
+<!-- LOCALIZATION NOTE (calendar.context.removeserver.label): Removing the
+      calendar is the general action of removing it, while deleting means to
+      clear the data and unsubscribing means just taking it out of the calendar
+      list. -->
+<!ENTITY calendar.context.removeserver.label "Fjarlægja dagatal…">
+<!ENTITY calendar.context.removeserver.accesskey "r">
+<!ENTITY calendar.context.unsubscribeserver.label "Hætta í áskrift að dagatali…">
+<!ENTITY calendar.context.unsubscribeserver.accesskey "æ">
 <!ENTITY calendar.context.synccalendars.label "Samstilla dagatöl">
 <!ENTITY calendar.context.synccalendars.accesskey "S">
 <!ENTITY calendar.context.publish.label "Gefa út dagatal…">

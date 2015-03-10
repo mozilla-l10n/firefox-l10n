@@ -10,8 +10,8 @@
 <!ENTITY radioRememberPrevState.accesskey "M">
 <!ENTITY radioAskState.label "Spyrja mig um stöðu">
 <!ENTITY radioAskState.accesskey "S">
-<!ENTITY radioAlwaysOnline.label "Alltaf ræsa sem tengdur">
-<!ENTITY radioAlwaysOnline.accesskey "l">
+<!ENTITY radioAlwaysOnlineState.label "Nettengdur">
+<!ENTITY radioAlwaysOnlineState.accesskey "N">
 <!ENTITY radioAlwaysOffline.label "Ónettengdur">
 <!ENTITY radioAlwaysOffline.accesskey "n">
 <!ENTITY textGoingOnline "Senda ósendan póst þegar verið er að tengjast?">

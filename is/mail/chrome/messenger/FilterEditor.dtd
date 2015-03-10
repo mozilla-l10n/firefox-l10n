@@ -21,7 +21,9 @@
 <!ENTITY contextBeforeCls.label "Sía fyrir ruslpóstflokkun">
 <!ENTITY contextAfterCls.label "Sía eftir ruslpóstflokkun">
 <!ENTITY contextOutgoing.label "Eftir að sent er">
-<!ENTITY contextOutgoing.accesskey "S">
+<!ENTITY contextOutgoing.accesskey "s">
+<!ENTITY contextArchive.label "Setur í safn">
+<!ENTITY contextArchive.accesskey "a">
 <!ENTITY filterActionDesc.label "Framkvæma þessar aðgerðir:">
 <!ENTITY filterActionDesc.accesskey "F">
 <!ENTITY filterActionOrderWarning.label "Athugaðu: Síu aðgerðir verða keyrðar í annarri röð.">

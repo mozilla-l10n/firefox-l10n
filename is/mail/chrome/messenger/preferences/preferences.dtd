@@ -16,3 +16,6 @@
 <!ENTITY panePrivacy.title "Friðhelgi">
 <!ENTITY paneSecurity.title "Öryggi">
 <!ENTITY paneAdvanced.title "Ítarlegt">
+<!ENTITY paneAccount.title "Reikningar">
+<!ENTITY okButton.title "OK">
+<!ENTITY okButton.accesskey "O">

@@ -14,8 +14,8 @@
 <!ENTITY pref.calendar.alarms.sound.useDefault.accessKey "s">
 <!ENTITY pref.calendar.alarms.sound.browse.label "Velja…">
 <!ENTITY pref.calendar.alarms.sound.browse.accessKey "V">
-<!ENTITY pref.calendar.alarms.sound.preview.label "Forskoða">
-<!ENTITY pref.calendar.alarms.sound.preview.accessKey "o">
+<!ENTITY pref.calendar.alarms.sound.play.label "Spila">
+<!ENTITY pref.calendar.alarms.sound.play.accessKey "p">
 <!ENTITY pref.showalarmbox "Sýna áminninga glugga">
 <!ENTITY pref.calendar.alarms.showAlarmBox.accessKey "g">
 <!ENTITY pref.missedalarms "Sýna liðnar áminningar">

@@ -83,3 +83,7 @@
 <!ENTITY browseNewsrc.accesskey "e">
 <!ENTITY accountTitle.label "Stillingar reiknings">
 <!ENTITY accountSettingsDesc.label "Eftirfarandi er sérstakur reikningur.  Engin auðkenni eru tengd við hann.">
+<!ENTITY storeType.label "Tegund póstgeymslu:">
+<!ENTITY storeType.accesskey "T">
+<!ENTITY mboxStore.label "Ein stór skrá (mbox)">
+<!ENTITY maildirStore.label "Skrá per skilaboð (maildir)">

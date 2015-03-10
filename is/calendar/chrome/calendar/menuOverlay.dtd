@@ -15,6 +15,13 @@
 <!ENTITY calendar.publish.accesskey "t">
 <!ENTITY calendar.deletecalendar.label "Eyða völdu dagatali…">
 <!ENTITY calendar.deletecalendar.accesskey "d">
+<!ENTITY calendar.unsubscribecalendar.label "Hætta í áskrift fyrir valið dagatal…">
+<!ENTITY calendar.unsubscribecalendar.accesskey "æ">
+<!-- LOCALIZATION NOTE (calendar.removecalendar.label): Removing the calendar
+      is the general action of removing it, while deleting means to clear the
+      data and unsubscribing means just taking it out of the calendar list. -->
+<!ENTITY calendar.removecalendar.label "Fjarlægja valið dagatal…">
+<!ENTITY calendar.removecalendar.accesskey "r">
 <!ENTITY calendar.menu.customize.label "Sérsníða…">
 <!ENTITY calendar.menu.customize.accesskey "r">
 <!ENTITY showUnifinderCmd.label "Finna atburði">

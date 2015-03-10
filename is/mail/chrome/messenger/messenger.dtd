@@ -140,6 +140,8 @@
 <!ENTITY messagePaneVertical.accesskey "ð">
 <!ENTITY showFolderPaneCmd.label "Möppuflipi">
 <!ENTITY showFolderPaneCmd.accesskey "f">
+<!ENTITY showFolderPaneColsCmd.label "Dálkar möppuflipa">
+<!ENTITY showFolderPaneColsCmd.accesskey "p">
 <!ENTITY showMessageCmd.label "Lestrarrúða">
 <!ENTITY showMessageCmd.accesskey "L">
 <!ENTITY folderView.label "Möppur">
@@ -569,7 +571,9 @@
 <!ENTITY manageTags.label "Sýsla með tög…">
 <!ENTITY manageTags.accesskey "m">
 <!-- Folder Pane -->
-<!ENTITY folderColumn.label "Nafn">
+<!ENTITY folderNameColumn.label "Nafn">
+<!ENTITY folderUnreadColumn.label "Ólesið">
+<!ENTITY folderTotalColumn.label "Allt">
 <!ENTITY folderSizeColumn.label "Stærð">
 <!-- Folder Pane Context Menu -->
 <!ENTITY folderContextGetMessages.label "Ná í póst">

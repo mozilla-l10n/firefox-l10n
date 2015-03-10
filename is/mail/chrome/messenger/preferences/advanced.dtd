@@ -3,19 +3,20 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY itemGeneral.label "Almennt">
+<!ENTITY dataChoicesTab.label "Meðhöndlun gagna">
 <!ENTITY itemDisplay.label "Lesa og skoða">
 <!ENTITY itemUpdate.label "Uppfærslur">
 <!ENTITY itemNetworking.label "Netkerfi og diskpláss">
 <!ENTITY itemCertificates.label "Skilríki">
 <!-- General Settings -->
-
-<!ENTITY submitTelemetry.label "Senda upplýsingar um afkastagetu">
-<!ENTITY submitTelemetry.accesskey "p">
-<!ENTITY telemetryInfoLink.label "Meiri upplýsingar um fjarmælingu">
 <!ENTITY enableGlodaSearch.label "Virkja víðtæka leit og atriðaskrá">
 <!ENTITY enableGlodaSearch.accesskey "i">
 <!ENTITY allowHWAccel.label "Nota vélbúnaðarhröðun ef mögulegt">
 <!ENTITY allowHWAccel.accesskey "h">
+<!ENTITY storeType.label "Tegund geymslu fyrir nýja reikninga:">
+<!ENTITY storeType.accesskey "T">
+<!ENTITY mboxStore.label "Ein stór skrá (mbox)">
+<!ENTITY maildirStore.label "Skrá per skilaboð (maildir)">
 <!ENTITY scrolling.label "Skrun">
 <!ENTITY useAutoScroll.label "Nota sjálfvirka skrunun">
 <!ENTITY useAutoScroll.accesskey "u">
@@ -34,6 +35,17 @@
 <!ENTITY returnReceiptsInfo.label "Skilgreina hvernig &brandShortName; meðhöndlar staðfestingu á móttöku pósts">
 <!ENTITY showReturnReceipts.label "Staðfesting á lestri…">
 <!ENTITY showReturnReceipts.accesskey "S">
+<!-- Data Choices -->
+<!ENTITY telemetrySection.label "Fjarmæling">
+<!ENTITY telemetryDesc.label "Deila afkastagetu, notkun, vélbúnaði og stillingum fyrir tölvupóstforritið með &vendorShortName; til að hjálpa okkur að gera &brandShortName; betri">
+<!ENTITY enableTelemetry.label "Kveikja á fjarmælingu">
+<!ENTITY enableTelemetry.accesskey "f">
+<!ENTITY telemetryLearnMore.label "Fræðast meira">
+<!ENTITY crashReporterSection.label "Tilkynna hrun">
+<!ENTITY crashReporterDesc.label "&brandShortName; sendir hrunskýrslur til að hjálpa &vendorShortName; að gera póstforritið þitt betra og öruggara">
+<!ENTITY enableCrashReporter.label "Virkja hrunskýrslu">
+<!ENTITY enableCrashReporter.accesskey "V">
+<!ENTITY crashReporterLearnMore.label "Fræðast meira">
 <!-- Display and Reading Settings -->
 <!ENTITY reading.caption "Lesa">
 <!ENTITY display.caption "Sýna">
