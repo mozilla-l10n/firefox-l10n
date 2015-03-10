@@ -2,14 +2,21 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY gdata-provider.label "Google Calendar">
 
+<!ENTITY gdata.privacy.default.label "Standard Google">
+<!ENTITY gdata.privacy.default.accesskey "S">
 
+<!ENTITY gdata.migration.title "Protyki importować, kotrež hodźa so jenož čitać">
+<!ENTITY gdata.migration.description "Poskićowar za Google Calendar ma wotkrył, zo maće hižo protyki, kotrež maja přistup na Google Calendar jenož w čitanskim modusu. Jeli chceće jednu abo wjacore z tych protykow aktualizować, wubjerće je deleka">
+<!ENTITY gdata.migration.upgrade.label "Aktualizować">
+<!ENTITY gdata.migration.upgrade.accesskey "A">
+<!ENTITY gdata.migration.showagain.label "Přeco přepruwować">
 
+<!ENTITY gdata.reminder.default "Standardne dopomnjeće">
+<!ENTITY gdata.reminder.action.sms.label "Tekstowu powěsć pósłać">
 
+<!ENTITY gdata.wizard.session.description "Prošu wubjerće eksistowace posedźenje abo zapodajće swoju e-mejlowu adresu, zo byšće nowe posedźenje wutworił. Trjebaće jenož jedne posedźenj na konto.">
+<!ENTITY gdata.wizard.calendars.description "Prošu wubjerće protyki a lisćiny nadawkow, kotrež chceće abonować.">
 
-
-
-
-
-
-
+<!ENTITY gdata.wizard.nextstep.description "Prošu přeńdźće k přichodnemu krokej, zo byšće swoje protyki konfigurował.">
