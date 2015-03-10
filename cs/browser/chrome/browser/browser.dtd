@@ -608,15 +608,11 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY quitApplicationCmdWin2.label       "Ukončit">
 <!ENTITY quitApplicationCmdWin2.accesskey   "k">
 <!ENTITY quitApplicationCmdWin2.tooltip     "Ukončí &brandShorterName;">
-<!ENTITY quitApplicationCmdWin.label "Ukončit">
-<!ENTITY quitApplicationCmdWin.accesskey "k">
-<!ENTITY quitApplicationCmdWin.tooltip     "Ukončí &brandShortName;">
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY goForwardCmd.commandKey "]">
 <!ENTITY quitApplicationCmd.label "Ukončit">
 <!ENTITY quitApplicationCmd.accesskey "k">
 <!ENTITY quitApplicationCmdMac2.label   "Ukončit &brandShorterName;">
-<!ENTITY quitApplicationCmdMac.label "Ukončit &brandShortName;">
 <!-- LOCALIZATION NOTE(quitApplicationCmdUnix.key): This keyboard shortcut is used by both Linux and OSX builds. -->
 <!ENTITY quitApplicationCmdUnix.key "Q">
 
@@ -801,11 +797,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      and pluginActivateAlways.label strings above on a single line. This must be
      a CSS length value. -->
 <!ENTITY pluginNotification.width "28em">
-
-<!ENTITY tabCrashed.header "Panel spadl">
-<!ENTITY tabCrashed.message "Ale toto je nepříjemné. Pokusili jsme se zobrazit webovou stránku, ale ta neodpovídá.">
-<!ENTITY tabCrashed.checkSendReport "Řekněte organizaci &vendorShortName; o pádu, aby ho mohla opravit.">
-<!ENTITY tabCrashed.tryAgain "Zkusit znovu">
 
 <!ENTITY uiTour.infoPanel.close "Zavřít">
 
