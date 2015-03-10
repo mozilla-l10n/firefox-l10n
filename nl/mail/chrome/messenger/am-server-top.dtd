@@ -84,7 +84,7 @@
 
 <!ENTITY accountTitle.label "Accountinstellingen">
 <!ENTITY accountSettingsDesc.label "Dit is een speciale account. Er zijn geen identiteiten mee verbonden.">
-<!ENTITY storeType.label "Soort berichtenopslag:">
-<!ENTITY storeType.accesskey "S">
-<!ENTITY mboxStore.label "Een groot bestand (mbox)">
-<!ENTITY maildirStore.label "Een bestand per bericht (maildir)">
+<!ENTITY storeType.label "Type berichtenopslag:">
+<!ENTITY storeType.accesskey "T">
+<!ENTITY mboxStore.label "Eén groot bestand (mbox)">
+<!ENTITY maildirStore.label "Eén bestand per bericht (maildir)">

@@ -26,7 +26,7 @@
 <!ENTITY contextOutgoing.label "Na verzenden">
 <!ENTITY contextOutgoing.accesskey "N">
 <!ENTITY contextArchive.label "Archiveren">
-<!ENTITY contextArchive.accesskey "A">
+<!ENTITY contextArchive.accesskey "r">
 
 <!ENTITY filterActionDesc.label "Deze acties uitvoeren:">
 <!ENTITY filterActionDesc.accesskey "v">

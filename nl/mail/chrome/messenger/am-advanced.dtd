@@ -5,10 +5,10 @@
 <!-- extracted from am-advanced.xul -->
 
 <!-- LOCALIZATION NOTE (smtpServer.label): do not translate "SMTP" in below line -->
-<!ENTITY smtpServer.label "Instellingen voor uitgaande server (SMTP)">
+<!ENTITY smtpServer.label "Instellingen voor uitgaande (SMTP-)server">
 
 <!-- LOCALIZATION NOTE (smtpDescription.label): do not translate "SMTP" in below line -->
-<!ENTITY smtpDescription.label "Bij het beheren van uw identiteiten kunt u een server van deze lijst gebruiken door deze als de uitgaande server (SMTP) te selecteren, of u kunt de standaardserver van deze lijst gebruiken door “Standaardserver gebruiken” te selecteren.">
+<!ENTITY smtpDescription.label "Bij het beheren van uw identiteiten kunt u een server van deze lijst gebruiken door deze als de uitgaande (SMTP-)server te selecteren, of u kunt de standaardserver van deze lijst gebruiken door ‘Standaardserver gebruiken’ te selecteren.">
 
 <!ENTITY smtpListAdd.label "Toevoegen…">
 <!ENTITY smtpListAdd.accesskey "T">
