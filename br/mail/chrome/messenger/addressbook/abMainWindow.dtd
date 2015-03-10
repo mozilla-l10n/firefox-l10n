@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY addressbookWindow.title                        "Karned chomlec'hioù">
-
+<!ENTITY blankResultsPaneMessage.label                  "N'eo diskouezet an darempredoù er c'harned-mañ nemet pa vez klasket">
 <!ENTITY localResultsOnlyMessage.label                  "Ne vo ket diskouezet an darempredoù o tont eus karnedoù chomlec'hioù a-bell a-raok ma vefe klasket">
 <!-- File Menu -->
 <!ENTITY fileMenu.label                                 "Restr">

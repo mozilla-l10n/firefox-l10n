@@ -6,6 +6,7 @@
 <!ENTITY itemAutoComplete.label              "Chomlec'hiañ">
 <!ENTITY itemSpellCheck.label                "Gwiriañ ar reizhskrivañ">
 
+<!ENTITY dialogCompose.title                 "O skrivañ">
 
 <!ENTITY forwardMsg.label                     "Treuzkas ar gemennadenn evel :">
 <!ENTITY forwardMsg.accesskey                 "k">

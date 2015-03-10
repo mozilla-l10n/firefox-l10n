@@ -597,7 +597,7 @@
 
 <!ENTITY folderNameColumn.label "Anv">
 <!ENTITY folderUnreadColumn.label "Anlennet">
-
+<!ENTITY folderTotalColumn.label "Hollad">
 <!ENTITY folderSizeColumn.label "Ment">
 <!-- Folder Pane Context Menu -->
 
@@ -666,8 +666,8 @@
 <!ENTITY statusColumn.label "Stad">
 <!ENTITY sizeColumn.label "Ment">
 <!ENTITY junkStatusColumn.label "Stad lastez">
-
-
+<!ENTITY unreadColumn.label "Anlennet">
+<!ENTITY totalColumn.label "Hollad">
 <!ENTITY readColumn.label "Lennet">
 <!ENTITY receivedColumn.label "Degemeret">
 <!ENTITY starredColumn.label "Steredennet">

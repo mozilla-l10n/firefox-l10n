@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY itemGeneral.label       "Hollek">
-
+<!ENTITY dataChoicesTab.label    "Dibaboù Roadennoù">
 <!ENTITY itemDisplay.label       "Lenn ha Skrammañ">
 <!ENTITY itemUpdate.label        "Hizivaat">
 <!ENTITY itemNetworking.label    "Rouedad hag egor war ar gantenn">
@@ -17,7 +17,7 @@
 
 
 <!ENTITY mboxStore.label               "Ur restr bras (mbox)">
-
+<!ENTITY maildirStore.label            "Restr dre kemennadenn (kavlec'h postel)">
 
 <!ENTITY scrolling.label               "Dibunañ">
 <!ENTITY useAutoScroll.label           "Arverañ an dibunañ emgefreek">
@@ -44,10 +44,10 @@
 
 
 
-
-
-
-
+<!ENTITY crashReporterDesc.label         "Embannet e vez danevelloù sac'hadennoù gant &brandShortName; evit sikour &vendorShortName; da wellat surentez ha stabilded ho arval posteloù">
+<!ENTITY enableCrashReporter.label       "Gweredekaat an Daneveller Sac'hadennoù">
+<!ENTITY enableCrashReporter.accesskey   "S">
+<!ENTITY crashReporterLearnMore.label    "Gouzout hiroc'h">
 <!-- Display and Reading Settings -->
 
 <!ENTITY reading.caption               "Lenn">

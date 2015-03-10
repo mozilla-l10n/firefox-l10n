@@ -19,4 +19,5 @@
 <!ENTITY paneAdvanced.title       "Kempleshoc'h">
 <!ENTITY paneAccount.title        "Kontoù">
 
-
+<!ENTITY okButton.title           "Mat eo">
+<!ENTITY okButton.accesskey       "M">

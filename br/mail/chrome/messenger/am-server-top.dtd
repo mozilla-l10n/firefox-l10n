@@ -84,7 +84,7 @@
 
 <!ENTITY accountTitle.label "Arventennoù ar gont">
 <!ENTITY accountSettingsDesc.label "Dibar eo ar gont da-heul. N'eus pivelezh ebet stag outi.">
-
-
+<!ENTITY storeType.label "Rizh Kadaviñ Kemennadenn :">
+<!ENTITY storeType.accesskey "R">
 <!ENTITY mboxStore.label "Ur restr bras (mbox)">
-
+<!ENTITY maildirStore.label "Restr dre kemennadenn (kavlec'h postel)">
