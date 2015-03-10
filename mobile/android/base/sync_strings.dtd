@@ -40,7 +40,7 @@
 <!ENTITY sync.subtitle.fail.label "&syncBrand.fullName.label; nu se poate conecta la server. Vrei să încerci din nou?">
 <!ENTITY sync.button.tryagain.label "Încearcă din nou">
 <!ENTITY sync.button.manual.label "Setare manuală">
-<!ENTITY sync.subtitle.nointernet.label "Nu este disponibilă nicio conexiune la internet.">
+<!ENTITY sync.subtitle.nointernet.label "Fără conexiune disponibilă la internet.">
 <!ENTITY sync.subtitle.failaccount.label "Crearea contului pe dispozitiv a eșuat.">
 <!ENTITY sync.subtitle.failmultiple.label "Ai mai mult decât un Firefox instalat? În prezent &syncBrand.fullName.label; suportă doar o instalare de Firefox odată. Dezinstalează celelalte instanțe pentru a folosi &syncBrand.shortName.label;.">
 <!-- Setup Success -->
