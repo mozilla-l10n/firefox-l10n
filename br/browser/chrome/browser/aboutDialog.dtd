@@ -35,6 +35,7 @@
 <!ENTITY community.mozillaLink      "&vendorShortName;">
 <!ENTITY community.middle2          ", ur ">
 <!-- LOCALIZATION NOTE (community.creditsLink): This is a link title that links to about:credits. -->
+<!ENTITY community.creditsLink      "kumuniezh vedel">
 
 
 <!ENTITY helpus.start               "Skoazellañ a fell deoc'h ? ">
