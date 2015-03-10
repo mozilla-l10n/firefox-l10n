@@ -14,7 +14,7 @@
 <!ENTITY pref.dateformat.short "Stutt">
 <!ENTITY pref.timezones.caption "Tímabelti">
 <!ENTITY pref.timezones.label "Veldu þá borg sem er nálægust þínu tímabelti:">
-<!ENTITY pref.timezones.accesskey "S">
+<!ENTITY pref.timezones.accesskey "s">
 <!ENTITY pref.defaults.label "Sjálfgefin gildi fyrir nýja hluti">
 <!ENTITY pref.events.label "Atburðir">
 <!ENTITY pref.tasks.label "Verkefni">
@@ -28,6 +28,9 @@
 <!ENTITY pref.default_task_offset_current.label "Miðað við núverandi tíma">
 <!ENTITY pref.default_task_offset_start.label "Miðað við byrjunartíma">
 <!ENTITY pref.default_task_offset_next_hour.label "Miðað við næstu klukkustund">
+<!ENTITY pref.calendar.todaypane.agenda.caption "Dagurinn í dag">
+<!ENTITY pref.soondays.label "Næsta svæði sýnir:">
+<!ENTITY pref.soondays.accesskey "æ">
 <!ENTITY pref.accessibility.label "Auðveldað aðgengi">
 <!ENTITY pref.systemcolors.label "Finna bestu liti fyrir aðgengi">
 <!ENTITY pref.systemcolors.accesskey "ð">

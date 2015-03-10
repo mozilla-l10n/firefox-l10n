@@ -5,6 +5,7 @@
 <!ENTITY itemGeneral.label "Almennt">
 <!ENTITY itemAutoComplete.label "Póstföng">
 <!ENTITY itemSpellCheck.label "Stafsetning">
+<!ENTITY dialogCompose.title "Ritun">
 <!ENTITY forwardMsg.label "Áframsenda póst:">
 <!ENTITY forwardMsg.accesskey "f">
 <!ENTITY inline.label "Innfellt">
