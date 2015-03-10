@@ -147,7 +147,9 @@
      etc).  The account remains a "Firefox" account. -->
 <!ENTITY fxaccount_create_account_header2 "Krijoni një Llogari Firefox">
 <!ENTITY fxaccount_create_account_password_length_restriction "Duhet të jetë e pakta 8 shenja">
-<!ENTITY fxaccount_create_account_year_of_birth "Viti i lindjes">
+<!ENTITY fxaccount_create_account_day_of_birth "Ditë">
+<!ENTITY fxaccount_create_account_month_of_birth "Muaj">
+<!ENTITY fxaccount_create_account_year_of_birth "Vit i lindjes">
 <!-- Localization note: &formatS1; is fxaccount_policy_linktos, &formatS2; is fxaccount_policy_linkprivacy, both hyperlinked. -->
 <!ENTITY fxaccount_create_account_policy_text2 "Duke vazhduar më tej, pajtohem me &formatS1; dhe &formatS2; të shërbimeve Firefox në re.">
 <!ENTITY fxaccount_create_account_button "Pasuesi">
@@ -204,7 +206,6 @@
 <!ENTITY fxaccount_status_needs_upgrade "Lypset të përmirësoni &brandShortName;-un që të hyni.">
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled "&syncBrand.shortName.label; është rregulluar, por nuk njëkohëson vetvetiu. Zgjidhni “Vetënjëkohësim të dhënash” te Rregullime Për Android &gt; Përdorim të Dhënash.">
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled_v21 'është rregulluar, por nuk njëkohëson vetvetiu. Zgjidhni “Vetënjëkohësim të dhënash” te Rregullime Për Android &gt; Llogari.'>
-<!ENTITY fxaccount_status_needs_account_enabled "&syncBrand.shortName.label; është rregulluar, por nuk njëkohëson vetvetiu. Prekeni që të fillojë njëkohësimi.">
 <!ENTITY fxaccount_status_needs_finish_migrating 'Prekeni që të bëni hyrjen te Llogaria juaj e re Firefox.'>
 <!ENTITY fxaccount_status_bookmarks "Faqerojtës">
 <!ENTITY fxaccount_status_history "Historik">

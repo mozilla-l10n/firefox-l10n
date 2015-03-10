@@ -6,8 +6,8 @@
 <!ENTITY  no_space_to_start_error "Nuk ka vend të mjaftueshëm për nisjen e &brandShortName;-ut.">
 <!ENTITY  error_loading_file "Ndodhi një gabim, teksa provohej ngarkimi i kartelave të domosdoshme për xhirimin e &brandShortName;-ut">
 
-<!ENTITY  onboard_start_message "Mirë se vini te &brandShortName;-i!">
-<!ENTITY  onboard_start_subtext "I përkushtuar juve, privatësisë suaj dhe një Web-i të Hapur">
+<!ENTITY  onboard_start_message2 "Mirë se vini te &brandShortName;-i">
+<!ENTITY  onboard_start_subtext2 "Më tepër veçori privatësie dhe rrugë për personalizim se kurrë.">
 <!ENTITY  onboard_start_button_account "Hyni te &brandShortName;">
 <!ENTITY  onboard_start_button_browser "Filloni të Shfletoni">
 
@@ -215,6 +215,8 @@ size. -->
 
 <!ENTITY pref_media_autoplay_enabled "Lejo vetëluajtje">
 <!ENTITY pref_media_autoplay_enabled_summary "Kontrollo nëse sajtet mund të vetëluajnë video dhe tjetër lëndë media">
+<!ENTITY pref_zoom_force_enabled "Aktivizoje përherë zoom-in">
+<!ENTITY pref_zoom_force_enabled_summary "Detyroni anashkakalim, që të mund të zmadhoni ose zvogëloni cilëndo faqe">
 
 <!ENTITY pref_use_master_password "Përdor fjalëkalim të përgjithshëm">
 <!ENTITY pref_sync "Sync">
@@ -270,7 +272,7 @@ size. -->
      (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
 <!ENTITY datareporting_crashreporter_title_short "Njoftues Vithisjesh">
 <!ENTITY datareporting_wifi_title2 "Shërbime Lokalizimi &vendorShortName;">
-<!ENTITY datareporting_wifi_geolocation_summary2 "Ndan me &vendorShortName; të dhëna të përafërta të vendit të Wi-Fi-it dhe celularit për pajisjen tuaj, që të përmirësohet shërbimi ynë i gjeovendëzimit">
+<!ENTITY datareporting_wifi_geolocation_summary3 "Ndihmojeni &vendorShortName; të hartëzojë botën! Ndani të dhëna të përafërta të vendit të Wi-Fi-it dhe celularit për pajisjen tuaj, që të përmirësohet shërbimi ynë i gjeovendëzimit">
 
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
@@ -563,6 +565,13 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY actionbar_menu "Menu">
 <!ENTITY actionbar_done "U bë">
 
+<!-- Voice search in the awesome bar -->
+<!ENTITY voicesearch_prompt "Flisni">
+<!ENTITY voicesearch_failed_title "Kërkim Me Zë nga &brandShortName;-i">
+<!ENTITY voicesearch_failed_message "Ka një problem me kërkimin me zë tani. Ju lutemi, riprovoni më vonë.">
+<!ENTITY voicesearch_failed_message_recoverable "Na ndjeni! Nuk i kuptuam dot fjalët tuaja. Ju lutemi, riprovoni.">
+<!ENTITY voicesearch_failed_retry "Riprovoni">
+
 <!-- Localization note (remote_tabs_last_synced): the variable is replaced by a
      "relative time span string" produced by Android.  This string describes the
      time the tabs were last synced relative to the current time; examples
@@ -570,6 +579,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      "Last synced" is one of the user's other Sync clients, typically Firefox on
      their desktop or laptop.-->
 <!ENTITY remote_tabs_last_synced "Njëkohësuar së fundi: &formatS;">
+<!-- Localization note: Used when the sync has not happend yet, showed in place of a date -->
+<!ENTITY remote_tabs_never_synced "Njëkohësuar së fundi: kurrë">
 
 <!-- Find-In-Page strings -->
 <!-- LOCALIZATION NOTE (find_matchcase): This is meant to appear as an icon that changes color
