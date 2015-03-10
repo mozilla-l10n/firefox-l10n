@@ -91,7 +91,7 @@
 <!ENTITY certmgr.fields.label "Vrednost polja">
 <!ENTITY certmgr.fields.accesskey "R">
 <!ENTITY certmgr.hierarchy.label "Hierarhija digitalnih potrdil">
-<!ENTITY certmgr.hierarchy.accesskey "H">
+<!ENTITY certmgr.hierarchy.accesskey2         "H">
 <!ENTITY certmgr.addException.label "Dodaj izjemo …">
 <!ENTITY certmgr.addException.accesskey "i">
 
