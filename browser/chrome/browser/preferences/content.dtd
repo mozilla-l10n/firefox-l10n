@@ -39,6 +39,8 @@
   -  The translations for these strings should match the translations in
   -  browser/translation.dtd
   -->
+
+<!ENTITY translation.options.attribution.beforeLogo "Превод от">
 <!ENTITY translation.options.attribution.afterLogo "">
 
 

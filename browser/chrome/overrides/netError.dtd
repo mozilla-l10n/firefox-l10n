@@ -152,17 +152,20 @@ functionality specific to firefox. -->
 <button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button> 
 <button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>">
 
-
-
+<!ENTITY errorReporting.title "Докладване на тази грешка">
+<!ENTITY errorReporting.longDesc "Докладването на информация за адрес и сертификат на <span id='hostname'></span> ще ни помогне да намираме и блокираме зловредни страници. Благодарим ви за помощта да направим Мрежата по-сигурна.">
+<!ENTITY errorReporting.automatic "Автоматично докладване на грешки в бъдеще">
 <!ENTITY errorReporting.learnMore "Научете повече…">
-
-
-
-
+<!ENTITY errorReporting.sending "Изпращане на доклад">
+<!ENTITY errorReporting.sent "Докладът изпратен">
+<!ENTITY errorReporting.report "Доклад">
+<!ENTITY errorReporting.tryAgain "Нов опит">
 
 <!ENTITY remoteXUL.title "Отдалечен XUL">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Моля, свържете се със собствениците на сайта и ги информирайте за проблема.</li></ul></p>">
 
+<!ENTITY sslv3Used.title "Невъзможно създаване на защитена връзка">
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc) - Do not translate
      "ssl_error_unsupported_version". -->
-
+<!ENTITY sslv3Used.longDesc "Допълнителна информация: ssl_error_unsupported_version">
+<!ENTITY sslv3Used.learnMore "Научете повече…">
