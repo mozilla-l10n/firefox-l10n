@@ -145,8 +145,8 @@
 <!ENTITY messagePaneVertical.accesskey "s">
 <!ENTITY showFolderPaneCmd.label "Penel an teuliadoù">
 <!ENTITY showFolderPaneCmd.accesskey "t">
-
-
+<!ENTITY showFolderPaneColsCmd.label "Bannoù Penel an Teuliadoù">
+<!ENTITY showFolderPaneColsCmd.accesskey "P">
 <!ENTITY showMessageCmd.label "Penel ar c'hemennadennoù">
 <!ENTITY showMessageCmd.accesskey "m">
 

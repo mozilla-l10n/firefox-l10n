@@ -14,9 +14,9 @@
 <!ENTITY enableGlodaSearch.accesskey   "h">
 <!ENTITY allowHWAccel.label            "Implijout ar buanadur periant pa vez tu">
 <!ENTITY allowHWAccel.accesskey        "h">
-
-
-<!ENTITY mboxStore.label               "Ur restr bras (mbox)">
+<!ENTITY storeType.label               "Rizh Kadaviñ Kemennadenn evit kontoù nevez :">
+<!ENTITY storeType.accesskey           "R">
+<!ENTITY mboxStore.label               "Ur restr vras (boest postel)">
 <!ENTITY maildirStore.label            "Restr dre kemennadenn (kavlec'h postel)">
 
 <!ENTITY scrolling.label               "Dibunañ">
@@ -40,10 +40,13 @@
 <!ENTITY showReturnReceipts.accesskey  "r">
 <!-- Data Choices -->
 
+<!ENTITY telemetrySection.label          "Telemetry">
+<!ENTITY telemetryDesc.label             "Rannañ a ra roadennoù a-fet digonusted, arver, periant ha personelaat gant &vendorShortName; evit skoazellañ ac'hanomp gwellaat &brandShortName; ">
+<!ENTITY enableTelemetry.label           "Gweredekaat Telemetry">
+<!ENTITY enableTelemetry.accesskey       "T">
+<!ENTITY telemetryLearnMore.label        "Gouzout hiroc'h">
 
-
-
-
+<!ENTITY crashReporterSection.label      "Daneveller Sac'hadenn">
 <!ENTITY crashReporterDesc.label         "Embannet e vez danevelloù sac'hadennoù gant &brandShortName; evit sikour &vendorShortName; da wellat surentez ha stabilded ho arval posteloù">
 <!ENTITY enableCrashReporter.label       "Gweredekaat an Daneveller Sac'hadennoù">
 <!ENTITY enableCrashReporter.accesskey   "S">
