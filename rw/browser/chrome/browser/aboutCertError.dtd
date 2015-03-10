@@ -10,14 +10,16 @@ by NSS/PSM via netError.xhtml. -->
 
 
 <!ENTITY certerror.pagetitle  "umurongo utizewe">
-
+<!ENTITY certerror.longpagetitle "iri huriro ntago ryizewe">
 <!-- Localization note (certerror.introPara1) - The string "#1" will
 be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
 
+<!ENTITY certerror.introPara1 "Mwasabye kujya ku murongo mu buryo bwizewe, ariko ntitwakemeza ko iri huriro ryizewe">
+<!ENTITY certerror.introPara2 "Mu busanzwe, iyo ugerageje kujya ku murongo, imbuga zerekana icyemza ko uri kujya mu mwanya wabugenewe.Nubwo, ikirango cy'urwo rubuga rutahinyuzwa.">
 
 <!ENTITY certerror.whatShouldIDo.heading "N'iki nakora">
-
+<!ENTITY certerror.whatShouldIDo.content "Nujya kuri uru rubuga nta bibazo, ikibazo cyavuga ko hari umuntu ushaka kwiyoberanya ku rubuga, ubwo ntukwiye gukomeza.">
 
 <!ENTITY certerror.getMeOutOfHere.label "Nsohora muno!">
 
