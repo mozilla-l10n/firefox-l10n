@@ -1,7 +1,8 @@
-amazondotcom
-aol-web-search
+google
 bing
-eBay
-twitter
-wikipedia
-yahoo
+duckduckgo-ru
+ozonru
+priceru
+wikipedia-ru
+yandex-slovari
+yandex
