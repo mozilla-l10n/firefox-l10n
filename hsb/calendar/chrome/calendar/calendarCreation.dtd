@@ -1,15 +1,19 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY wizard.title             "Nowu protyku wutworić" >
 <!ENTITY wizard.label             "Nowu protyku wutworić" >
+<!ENTITY wizard.description       "Wašu protyku lokalizować" >
 
+<!ENTITY initialpage.description    "Waša protyka da so na wašim ličaku abo na serwerje składować, zo by na njón zdaloka přistup měło abo jón z wašimi přećelemi abo sobudźěłaćerjemi dźěliło." >
+<!ENTITY initialpage.computer.label  "Na mojim ličaku">
+<!ENTITY initialpage.network.label  "W syći">
 
-
-
-
-
-
-
+<!ENTITY locationpage.description         "Stajće informacije wo tym k dispoziciji, štož je trěbne, zo by přistup na wašu zdalenu protyku měło" >
+<!ENTITY locationpage.login.description   "Na přeće: zapodajće wužiwarske mjeno a hesło" >
+<!ENTITY locationpage.username.label      "Wužiwarske mjeno:" >
+<!ENTITY locationpage.password.label      "Hesło:" >
 
 
 
