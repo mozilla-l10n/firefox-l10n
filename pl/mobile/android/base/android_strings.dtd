@@ -78,6 +78,7 @@ is upper-case, to match Google and Android's convention. -->
 <!ENTITY pref_category_advanced "Zaawansowane">
 <!ENTITY pref_category_customize "Dostosuj">
 <!ENTITY pref_category_customize_summary "Strona domowa, wyszukiwanie, karty, importowanie">
+<!ENTITY pref_category_customize_alt_summary "Strona domowa, wyszukiwanie, karty, kolejkowanie kart, importowanie">
 
 <!-- Localization note (pref_category_language) : This is the preferences
 section in which the user picks the locale in which to display Firefox UI.
@@ -311,6 +312,9 @@ size. -->
 
 <!ENTITY pref_scroll_title_bar2 "Przeglądanie pełnoekranowe">
 <!ENTITY pref_scroll_title_bar_summary "Ukryj pasek tytułu przeglądarki &brandShortName; przy przewijaniu stron">
+
+<!ENTITY pref_tab_queue_title "Kolejkowanie kart">
+<!ENTITY pref_tab_queue_summary "Kolejkowanie kart i otwieranie ich przy następnym uruchomieniu programu &brandShortName; zamiast otwierania natychmiast.">
 
 <!ENTITY page_removed "Stronę usunięto">
 
