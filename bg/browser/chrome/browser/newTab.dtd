@@ -4,13 +4,13 @@
 <!-- These strings are used in the about:newtab page -->
 
 <!ENTITY newtab.pageTitle "Нов подпрозорец">
-
-
-
+<!ENTITY newtab.customize.title "Настройте страницата на Нов подпрозорец">
+<!ENTITY newtab.customize.enhanced "Разширен">
+<!ENTITY newtab.customize.classic "Класически">
 <!ENTITY newtab.customize.blank "Празен">
-
+<!ENTITY newtab.customize.what "Каква е тази страница?">
 <!ENTITY newtab.intro.header "Каква е тази страница?">
 <!ENTITY newtab.undo.removedLabel "Картинката беше премахната.">
 <!ENTITY newtab.undo.undoButton "Отмяна.">
-<!ENTITY newtab.undo.restoreButton "Възстановяване на всички">
+<!ENTITY newtab.undo.restoreButton "Възстановяване на всички.">
 <!ENTITY newtab.undo.closeTooltip "Скриване">
