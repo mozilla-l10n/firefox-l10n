@@ -96,5 +96,5 @@
 <!ENTITY copyURLCmd.accesskey "а">
 
 <!ENTITY closeCmd.key         "W">
-
+<!ENTITY findCmd.key          "F">
 <!ENTITY clearOutputCtrl.key  "L">

@@ -26,11 +26,11 @@
 
 <!ENTITY warning.safemode.label                    "Всички добавки се деактивират в надеждния режим">
 <!ENTITY warning.checkcompatibility.label          "Проверката за съвместимост на добавките е изключена. Възможно е да имате несъвместими добавки.">
-<!ENTITY warning.checkcompatibility.enable.label   "Активиране">
-<!ENTITY warning.checkcompatibility.enable.tooltip "Активиране на проверката за съвместимост на добавките">
+<!ENTITY warning.checkcompatibility.enable.label   "Включване">
+<!ENTITY warning.checkcompatibility.enable.tooltip "Включване на проверка за съвместимост на добавки">
 <!ENTITY warning.updatesecurity.label              "Проверката за безопасност на обновяването на добавки е изключена. Възможно е системата да се компрометира от добавки.">
-<!ENTITY warning.updatesecurity.enable.label       "Активиране">
-<!ENTITY warning.updatesecurity.enable.tooltip     "Активиране на проверката за безопасност на обновяването на добавки">
+<!ENTITY warning.updatesecurity.enable.label       "Включване">
+<!ENTITY warning.updatesecurity.enable.tooltip     "Включване на проверка за безопасност на обновяването на добавки">
 <!-- global informations -->
 
 <!ENTITY info.plugincheck.label                 "Проверка дали вашите приставки са с последна версия">
@@ -56,9 +56,9 @@
      update checking behavior for all add-ons to the default global behavior
      (which itself is either "Automatically" or "Manually", controlled by the
      updates.updateAddonsAutomatically.label menu item). -->
-<!ENTITY updates.resetUpdatesToAutomatic.label       "Анулиране на всички добавки, за да се извърши автоматично обновяване">
-<!ENTITY updates.resetUpdatesToAutomatic.accesskey   "н">
-<!ENTITY updates.resetUpdatesToManual.label          "Анулиране на всички добавки, за да се извърши ръчно обновяване">
+<!ENTITY updates.resetUpdatesToAutomatic.label       "Нулиране на всички добавки, за да бъдат автоматично обновявани">
+<!ENTITY updates.resetUpdatesToAutomatic.accesskey   "Н">
+<!ENTITY updates.resetUpdatesToManual.label          "Нулиране на всички добавки, за да бъдат ръчно обновявани">
 <!ENTITY updates.resetUpdatesToManual.accesskey      "у">
 <!ENTITY updates.updating.label               "Обновяване на добавките">
 <!ENTITY updates.installed.label              "Вашите добавки бяха обновени.">
@@ -81,8 +81,8 @@
 <!ENTITY cmd.about.label                      "Относно">
 <!ENTITY cmd.about.accesskey                  "О">
 
-<!ENTITY cmd.enableAddon.label                "Активиране">
-<!ENTITY cmd.enableAddon.accesskey            "А">
+<!ENTITY cmd.enableAddon.label                "Включване">
+<!ENTITY cmd.enableAddon.accesskey            "В">
 <!ENTITY cmd.disableAddon.label               "Деактивиране">
 <!ENTITY cmd.disableAddon.accesskey           "Д">
 <!ENTITY cmd.enableTheme.label                "Слагане на тема">
@@ -91,7 +91,7 @@
 <!ENTITY cmd.disableTheme.accesskey           "л">
 <!ENTITY cmd.askToActivate.label              "Заявка за активиране">
 <!ENTITY cmd.askToActivate.tooltip            "Заявка за използване на тази добавка всеки път">
-<!ENTITY cmd.alwaysActivate.label             "Активиране завинаги">
+<!ENTITY cmd.alwaysActivate.label             "Включване винаги">
 <!ENTITY cmd.alwaysActivate.tooltip           "Винаги използвай тази добавка">
 <!ENTITY cmd.neverActivate.label              "Никога не активирай">
 <!ENTITY cmd.neverActivate.tooltip            "Никога не използвай тази добавка">

@@ -130,7 +130,7 @@
 <!-- LOCALIZATION NOTE (debuggerUI.panesButton.tooltip): This is the tooltip for
   -  the button that toggles the panes visible or hidden in the netmonitor UI. -->
 
-<!ENTITY netmonitorUI.panesButton.tooltip "Активиране на информацията за мрежата">
+<!ENTITY netmonitorUI.panesButton.tooltip "Превключване информацията за мрежата">
 <!-- LOCALIZATION NOTE (debuggerUI.summary.url): This is the label displayed
   -  in the network details headers tab identifying the URL. -->
 
@@ -255,6 +255,8 @@
 <!-- LOCALIZATION NOTE (debuggerUI.summary.editAndResend): This is the label displayed
   -  on the button in the headers tab that opens a form to edit and resend the currently
      displayed request -->
+
+<!ENTITY netmonitorUI.summary.editAndResend "Редактиране и изпращане">
 <!-- LOCALIZATION NOTE (debuggerUI.summary.editAndResend.accesskey): This is the access key
   -  for the "Edit and Resend" menu item displayed in the context menu for a request -->
 

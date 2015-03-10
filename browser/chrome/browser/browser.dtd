@@ -274,7 +274,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY devAppMgrMenu.accesskey           "У">
 
 
-
+<!ENTITY webide.keycode                    "VK_F8">
 <!ENTITY webide.keytext                    "F8">
 <!ENTITY devToolbar.keycode                "VK_F2">
 <!ENTITY devToolbar.keytext                "F2">
@@ -574,9 +574,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY fullZoomReduceCmd.commandkey2  "">
 
-<!ENTITY fullZoomResetCmd.label         "Оригинал">
-<!ENTITY fullZoomResetCmd.accesskey     "О">
-
+<!ENTITY fullZoomResetCmd.label         "Нулиране">
+<!ENTITY fullZoomResetCmd.accesskey     "Н">
+<!ENTITY fullZoomResetCmd.commandkey    "0">
 <!ENTITY fullZoomResetCmd.commandkey2   "">
 
 <!ENTITY fullZoomToggleCmd.label        "Само на текста">

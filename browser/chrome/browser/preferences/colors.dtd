@@ -17,10 +17,10 @@
 <!ENTITY  textColor.accesskey             "Т">
 <!ENTITY  backgroundColor.label           "Фон:">
 <!ENTITY  backgroundColor.accesskey       "Ф">
-<!ENTITY  useSystemColors.label           "Използване на системните цветове">
+<!ENTITY  useSystemColors.label           "Използване на системни цветове">
 <!ENTITY  useSystemColors.accesskey       "с">
 
-<!ENTITY  underlineLinks.label            "Подчертаване на препратките">
+<!ENTITY  underlineLinks.label            "Подчертаване на препратки">
 <!ENTITY  underlineLinks.accesskey        "ч">
 <!ENTITY  links                           "Цветове на връзките">
 <!ENTITY  linkColor.label                 "Непосетени връзки:">
