@@ -110,6 +110,7 @@ The locale includes both language and region concepts. -->
 <!ENTITY pref_category_display_summary "Tekst, pasek tytułowy, przeglądanie pełnoekranowe">
 <!ENTITY pref_category_privacy_short "Prywatność">
 <!ENTITY pref_category_privacy_summary "Kontrola nad hasłami, ciasteczkami, śledzeniem i innymi danymi">
+<!ENTITY pref_manage_logins "Zarządzanie danymi logowania">
 <!ENTITY pref_category_vendor "&vendorShortName;">
 <!ENTITY pref_category_vendor_summary "O programie &brandShortName;, najczęściej zadawane pytania, zarządzanie danymi">
 <!ENTITY pref_category_datareporting "Udostępnianie danych">
@@ -261,6 +262,7 @@ size. -->
 <!ENTITY quit "Zakończ">
 
 <!ENTITY addons "Dodatki">
+<!ENTITY logins "Dane logowania">
 <!ENTITY downloads "Pobrane pliki">
 <!ENTITY apps "Aplikacje">
 <!ENTITY char_encoding "Kodowanie znaków">
