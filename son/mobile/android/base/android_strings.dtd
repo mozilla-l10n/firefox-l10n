@@ -6,8 +6,8 @@
 <!ENTITY  no_space_to_start_error "Doo barantaa ši wasa &brandShortName; tunandiroo še.">
 <!ENTITY  error_loading_file "Firka foo bangay waati kaŋ a ceeci ka tukey zumandi kaŋ ka waažibi &brandShortName; dirandiroo še">
 
-<!ENTITY  onboard_start_message "Kubayni &brandShortName; ga!">
-<!ENTITY  onboard_start_subtext "War suturaa nda interneti feerante t\u0027ir sartoo">
+<!ENTITY  onboard_start_message2 "Kubayni &brandShortName; ga">
+<!ENTITY  onboard_start_subtext2 "Sutura alhaali nda fondo booboyaŋ k\u0027i hanse boro boŋ se.">
 <!ENTITY  onboard_start_button_account "Huru &brandShortName; ra">
 <!ENTITY  onboard_start_button_browser "Ceecikaw tunandi">
 <!-- Localization note: These are used as the titles of different pages on the home screen.
@@ -159,13 +159,13 @@
 <!ENTITY pref_home_suggested_sites_summary "Duurandey cebe nungey war šintinmoɲoo ga kaŋ ir ga tammahã war ga dii i ra nafaw">
 <!-- Localization note: These are shown in the left sidebar on tablets -->
 
-<!ENTITY pref_header_customize "Hanse boŋše">
+<!ENTITY pref_header_customize "Hanse boŋ se">
 <!ENTITY pref_header_display "Cebe">
 <!ENTITY pref_header_privacy_short "Sutura">
 <!ENTITY pref_header_help "Faaba">
 <!ENTITY pref_header_language "Šenni">
 <!ENTITY pref_header_vendor "&vendorShortName;">
-<!ENTITY pref_header_devtools "Cinakey goyjinawey">
+<!ENTITY pref_header_devtools "Cinakaw goyjinawey">
 
 <!ENTITY pref_cookies_menu "Aleewawey">
 <!ENTITY pref_cookies_accept_all "Tunante">
@@ -186,7 +186,7 @@
 <!ENTITY pref_clear_on_exit_summary2 "&brandShortName; ga war bayhayey tuusu nga boŋ se waati kul kaŋ war na \&quot;Fatta\&quot; suuba šilbayboŋoo ra">
 <!ENTITY pref_clear_on_exit_dialog_title "Bayhayey kaŋ ga tuusandi suuba">
 <!ENTITY pref_plugins "Sukarey">
-<!ENTITY pref_plugins_enabled "Dirante">
+<!ENTITY pref_plugins_enabled "Tunante">
 <!ENTITY pref_plugins_tap_to_play "Naagu ka hẽenandi">
 <!ENTITY pref_plugins_disabled "Kayante">
 <!ENTITY pref_text_size "Kalimaɲaa kuru kayyan">
@@ -213,6 +213,8 @@ size. -->
 
 <!ENTITY pref_media_autoplay_enabled "Yadda boŋhẽenandiyan ga">
 <!ENTITY pref_media_autoplay_enabled_summary "Dabari wala nungey ga hin ka widewo nda hoorayjinay tana hẽenandi ngi boŋ se">
+<!ENTITY pref_zoom_force_enabled "Azzaati barmayyan tunandi waati kul">
+<!ENTITY pref_zoom_force_enabled_summary "Gaabi ka hantum a boŋ hala war ma hin ka moo kul azzaatoo barmay">
 
 <!ENTITY pref_use_master_password "Takaddaɲaa šennikufal beeroo">
 <!ENTITY pref_sync "Sync">
@@ -269,7 +271,7 @@ size. -->
      (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
 <!ENTITY datareporting_crashreporter_title_short "Kaŋyan bayrandikaw">
 <!ENTITY datareporting_wifi_title2 "&vendorShortName; gorodoo goymee">
-<!ENTITY datareporting_wifi_geolocation_summary2 "War jinaa Wi-Fi doo nda kanbe talfon manantey nda &vendorShortName; k\u0027ir goymee gorodogoo boryandi ka tonton.">
+<!ENTITY datareporting_wifi_geolocation_summary3 "&vendorShortName; faaba k\u0027adduɲɲaa wanga! War jinaa Wi-Fi manantaa nda talfon ceedogoo žemni k\u0027ir gorodoo maateyan goyey boryandi ka tonton">
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
      actual notification that an update is available. -->
@@ -284,7 +286,7 @@ size. -->
 <!ENTITY quit "Fatta">
 
 <!ENTITY addons "Tontoney">
-<!ENTITY downloads "Zumandey">
+<!ENTITY downloads "Zumandiyaney">
 <!ENTITY apps "Porogaramizey">
 <!ENTITY char_encoding "Harfu hawyan">
 
@@ -530,7 +532,7 @@ Android ra">
 <!ENTITY updater_downloading_select2 "Daaru ka taagandiroo kaŋ zunbu kanandi ">
 <!ENTITY updater_downloading_retry2 "Daaru ka šii taaga">
 
-<!ENTITY updater_apply_title2 "Taagandiri ga bara &brandShortName; še">
+<!ENTITY updater_apply_title2 "Taagandiri ga bara &brandShortName; se">
 <!ENTITY updater_apply_select2 "Daaru ka taagandi">
 <!-- Guest mode -->
 
@@ -558,6 +560,13 @@ Android ra">
 
 <!ENTITY actionbar_menu "Šilbayboŋ">
 <!ENTITY actionbar_done "Ben">
+<!-- Voice search in the awesome bar -->
+
+<!ENTITY voicesearch_prompt "Šelaŋ sohõ">
+<!ENTITY voicesearch_failed_title "&brandShortName; jinde ceeciyan">
+<!ENTITY voicesearch_failed_message "Šenday foo goo jinde ceeciyan ra sohõda. Ceeci hiino taare.">
+
+
 <!-- Localization note (remote_tabs_last_synced): the variable is replaced by a
      "relative time span string" produced by Android.  This string describes the
      time the tabs were last synced relative to the current time; examples
@@ -566,6 +575,7 @@ Android ra">
      their desktop or laptop.-->
 
 <!ENTITY remote_tabs_last_synced "Hangande koraa: &formatS;">
+<!-- Localization note: Used when the sync has not happend yet, showed in place of a date -->
 <!-- Find-In-Page strings -->
 <!-- LOCALIZATION NOTE (find_matchcase): This is meant to appear as an icon that changes color
      if match-case is activated. i.e. No more than two letters, one uppercase, one lowercase. -->

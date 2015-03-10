@@ -26,6 +26,8 @@
 <!ENTITY syncMy.label               "Hangandi cere">
 <!ENTITY engine.bookmarks.label     "Doo-šilbawey">
 <!ENTITY engine.bookmarks.accesskey "D">
+
+
 <!ENTITY engine.tabs.label          "Nor lokey">
 <!ENTITY engine.tabs.accesskey      "N">
 <!ENTITY engine.history.label       "Taariki">

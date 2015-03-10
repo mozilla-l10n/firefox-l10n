@@ -150,6 +150,8 @@
 
 <!ENTITY fxaccount_create_account_header2 "Firefox kontu tee">
 <!ENTITY fxaccount_create_account_password_length_restriction "Ga hima ka tee harfu 8 nd\u0027a kacca">
+
+
 <!ENTITY fxaccount_create_account_year_of_birth "Hay jiiri">
 <!-- Localization note: &formatS1; is fxaccount_policy_linktos, &formatS2; is fxaccount_policy_linkprivacy, both hyperlinked. -->
 <!ENTITY fxaccount_create_account_policy_text2 "Ka koy jine, I yadda &formatS1; nda &formatS2; ga Firefox Cloud goymiɲey se. ">
@@ -191,7 +193,7 @@
 
 <!ENTITY fxaccount_finish_migrating_header "Huru ka taagandiyan benandi">
 <!ENTITY fxaccount_finish_migrating_button_label "Taagandiyan benandi">
-<!ENTITY fxaccount_finish_migrating_description "Taagandiyan ga hin ka bayhaya boobo berandi. Fondo bešere ti WiFi sankay bande.">
+
 
 <!ENTITY fxaccount_status_header2 "Firefox kontu">
 <!ENTITY fxaccount_status_signed_in_as "Huru sanda">
@@ -207,7 +209,6 @@
 <!ENTITY fxaccount_status_needs_upgrade "War ga hima ka &brandShortName; taagandi ka huru.">
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled "&syncBrand.shortName.label; kayandi, amm\u0027a ši hangandi nga boŋše. “Auto-sync data” kanji Android kayandiyaney ra &gt; Bayhaya goy fondo.">
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled_v21 "&syncBrand.shortName.label; kayandi, amm\u0027a ši hangandi nga boŋ se. “Auto-sync data” kanji Android kayandiyaney ra &gt; Kontey.">
-<!ENTITY fxaccount_status_needs_account_enabled "&syncBrand.shortName.label; kayandi, amm\u0027a ši hangandi nga boŋše. Karkar ka šintin ka hangandi.">
 <!ENTITY fxaccount_status_needs_finish_migrating "Karkar ka huru war Firefox kontu taagaa ra.">
 <!ENTITY fxaccount_status_bookmarks "Doo-šilbawey">
 <!ENTITY fxaccount_status_history "Taariki">

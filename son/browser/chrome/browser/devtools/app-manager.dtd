@@ -36,9 +36,9 @@
 <!ENTITY device.permissionsHelpLink "https://developer.mozilla.org/docs/Web/Apps/App_permissions">
 <!ENTITY device.browserTabs "Ceecikaw nor lokey">
 <!ENTITY device.browserTabsTooltip "Nor lokey maašeede guna ceecikaa ra ciyari jinaa ga">
-<!ENTITY device.debugBrowserTab "Hanse">
+
 <!ENTITY device.debugBrowserTabTooltip "Feeri cinakaw goyjinawey kaŋ ga ceecikaw nor lokoo woo cee jinaa ga">
-<!ENTITY device.help "Faaba">
+
 
 <!ENTITY connection.connectTooltip "Jinaa cee">
 <!ENTITY connection.disconnect "Ciyari dunbu">
@@ -66,19 +66,19 @@
 <!ENTITY connection.startRegisteredSimulator "Šintin">
 
 <!ENTITY projects.localApps "Doo porogaramey">
-<!ENTITY projects.addApp "Tonton">
+
 <!ENTITY projects.addPackaged "Porogaram margantey tonton">
 <!ENTITY projects.addPackagedTooltip "Porogaram soolante tontom (fooloɲaa) nda war ordinateroo">
 <!ENTITY projects.addHosted "Porogaram zunbante tonton">
 <!ENTITY projects.addHostedTooltip "Porogaram zunbante sanbu (dobu manifest.webapp tuku) interneti nungu moora ga">
-<!ENTITY projects.title "Doo porogaramey">
+
 <!ENTITY projects.appDetails "Porogaram šilbayhayey">
 <!ENTITY projects.removeAppFromList "Porogaramoo woo kaa porogaram maašeeda kaŋ nda war ga goy ra. Woo g'a kaa jinay wala dendenkaw ra.">
 <!ENTITY projects.updateApp "Taagandi">
 <!ENTITY projects.updateAppTooltip "Porogaramoo gunar ka boori nd'a taagandi jinaa kaŋ ga ciya ga ">
-<!ENTITY projects.debugApp "Hanse">
+
 <!ENTITY projects.debugAppTooltip "Feeri cinakaw goyjinawey kaŋ ga porogaramoo woo cee ">
-<!ENTITY projects.saveManifest "Gaabu">
+
 <!ENTITY projects.saveManifestTooltip "Gundekuna jiši ne ganda lappoora fasalkaa ra">
 <!ENTITY projects.hostedManifestPlaceHolder2 "http://example.com/app/manifest.webapp">
 <!ENTITY projects.noProjects "Porože kul šii. Porogaram soolante tonton (doo fooloɲaa) wala porogaram zunbante (dobu lappoora tuku ga).">
@@ -92,7 +92,6 @@
 <!ENTITY projects.hosted "Duu zunbudoo">
 <!ENTITY projects.packaged "Hawante">
 
-<!ENTITY help.title "Porogaram juwalkaw">
 <!ENTITY help.close "Daabu">
 <!ENTITY help.intro "Goyjinaa woo ga war gaa ka interneti porogaramey cin nd'i sinji jinay cerekanbantey ga (sanda Firefox OS). <strong>Porogaramey</strong> nor lokoo ga war gaa ka war porogaram koyjineyanoo and sinjiyanoo tabatandi. <strong>Jinay</strong> nor lokoo ga war noo alhabar ciyari jinaa ga. Goy nda ne ganda goyjinay zuwoo ka jinaa cee wala dendenkaa tunandi.">
 <!ENTITY help.usefullLinks "Nafaw dobey:">
