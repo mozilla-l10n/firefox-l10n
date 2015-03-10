@@ -1,6 +1,8 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY minimizeWindow.key       "м">
 <!ENTITY minimizeWindow.label     "Минимизиране">
 <!ENTITY bringAllToFront.label    "Изкарване всичко напред">
 <!ENTITY zoomWindow.label         "Мащабиране">
@@ -33,16 +35,18 @@
 <!ENTITY helpFeedbackPage.label      "Подаване на обратна връзка…">
 <!ENTITY helpFeedbackPage.accesskey  "П">
 
-
+<!ENTITY helpShowTour2.label            "Обиколка на &brandShorterName;">
+<!ENTITY helpShowTour2.accesskey        "б">
 
 <!ENTITY preferencesCmdMac.label        "Настройки…">
-
+<!ENTITY preferencesCmdMac.commandkey   ",">
 
 <!ENTITY servicesMenuMac.label          "Услуги">
 
-
+<!ENTITY hideThisAppCmdMac2.label       "Скриване на &brandShorterName;">
+<!ENTITY hideThisAppCmdMac2.commandkey  "С">
 
 <!ENTITY hideOtherAppsCmdMac.label      "Скриване на другите">
-
+<!ENTITY hideOtherAppsCmdMac.commandkey "С">
 
 <!ENTITY showAllAppsCmdMac.label        "Показване на всички">
