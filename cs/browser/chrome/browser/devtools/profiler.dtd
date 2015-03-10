@@ -61,8 +61,6 @@
   -  in the call tree headers for a recording. -->
 <!ENTITY profilerUI.table.totalDuration2  "Celkový čas">
 <!ENTITY profilerUI.table.selfDuration2   "Vlastní čas">
-<!ENTITY profilerUI.table.totalDuration   "Celkový čas (ms)">
-<!ENTITY profilerUI.table.selfDuration    "Vlastní čas (ms)">
 <!ENTITY profilerUI.table.totalPercentage "Celkové vytížení">
 <!ENTITY profilerUI.table.selfPercentage  "Vlastní vytížení">
 <!ENTITY profilerUI.table.samples         "Vzorky">
