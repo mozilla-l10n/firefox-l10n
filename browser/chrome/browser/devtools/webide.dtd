@@ -149,7 +149,6 @@
 <!ENTITY runtimedetails_summonADBRoot "root zařízení">
 <!ENTITY runtimedetails_ADBRootWarning "(vyžaduje odemčený bootloader)">
 <!ENTITY runtimedetails_unrestrictedPrivileges "Neomezená oprávnění nástrojů pro vývojáře: ">
-<!ENTITY runtimedetails_restrictedPrivileges "Omezená oprávnění nástrojů pro vývojáře: ">
 <!ENTITY runtimedetails_requestPrivileges "vyžaduje vyšší oprávnění">
 <!ENTITY runtimedetails_privilegesWarning "(Provede restart zařízení. Vyžadována práva roota.)">
 
@@ -159,17 +158,6 @@
 <!ENTITY device_typestring "Řetězec">
 <!ENTITY device_typeobject "Objekt">
 <!ENTITY device_typenone "Vyberte typ">
-
-<!-- Device Preferences -->
-<!ENTITY devicepreferences_title "Předvolby zařízení">
-<!ENTITY devicepreferences_search "Předvolby vyhledávání">
-<!ENTITY devicepreferences_newname "Název nové předvolby">
-<!ENTITY devicepreferences_newtext "Hodnota předvolby">
-<!ENTITY devicepreferences_addnew "Přidat novou předvolbu">
-<!ENTITY devicepreferences_typeboolean "Logická hodnota">
-<!ENTITY devicepreferences_typenumber "Celé číslo">
-<!ENTITY devicepreferences_typestring "Řetězec">
-<!ENTITY devicepreferences_typenone "Zvolte typ">
 
 <!-- Device Preferences -->
 <!ENTITY devicepreference_title "Předvolby zařízení">
