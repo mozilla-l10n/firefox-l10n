@@ -23,7 +23,8 @@ was trying to connect. -->
 
 <!ENTITY certerror.getMeOutOfHere.label "Nsohora muno!">
 
+<!ENTITY certerror.expert.heading "Nsobanukiwe ingaruka">
 
 
-
+<!ENTITY certerror.addException.label "Ongeraho irengayobora">
 
