@@ -206,7 +206,7 @@ functionality specific to firefox. -->
 <!ENTITY oldSecurityProtocol.title "Varna povezava ni mogoča">
 <!-- LOCALIZATION NOTE (oldSecurityProtocol.longDesc) - Do not translate the
      <span id='hostname'></span>. -->
-<!ENTITY oldSecurityProtocol.longDesc2 "&brandShortName; ne more zagotavljati varnosti vaših podatkov na <span id='hostname'></span>, ker uporablja pokvarjen varnostni protokol SSLv3.">
+<!ENTITY oldSecurityProtocol.longDesc2 "&brandShortName; ne more zagotavljati varnosti vaših podatkov na <span id='hostname'></span>, ker uporablja ranljiv varnostni protokol SSLv3.">
 <!-- LOCALIZATION NOTE (oldSecurityProtocol.advancedInfo) - Do not translate
      the <span id='errorcode'></span>. -->
 <!ENTITY oldSecurityProtocol.advancedInfo "Napredni podatki: <span id='errorcode'></span>">
