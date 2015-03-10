@@ -62,7 +62,7 @@
 <!-- zoom -->
 
 
-
+<!ENTITY key_resetzoom "0">
 
 
 <!ENTITY projectPanel_tabs "Подпрозорци">
@@ -136,7 +136,7 @@
 
 
 <!-- Device Settings -->
-
+<!ENTITY devicesetting_search "Настройки на търсене">
 
 
 
