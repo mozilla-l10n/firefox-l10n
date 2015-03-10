@@ -11,9 +11,6 @@
 <!ENTITY resetPasswordButtonLabel "Zresetuj">
 <!ENTITY resetPassword.title "Zresetuj hasło główne" >
 <!ENTITY resetPassword.text "Po zresetowaniu hasła głównego wszystkie przechowywane dane formularzy, hasła internetowe oraz hasła serwerów pocztowych, certyfikaty osobiste oraz prywatne klucze zostaną usunięte. Czy na pewno zresetować hasło główne?" >
-<!ENTITY getPassword.title "Wprowadź hasło główne" >
-<!ENTITY getPassword.tokenName2.label "Urządzenie zabezpieczające:" >
-<!ENTITY getPassword.password.label "Hasło:" >
 <!ENTITY downloadCert.title "Pobieranie certyfikatu" >
 <!ENTITY downloadCert.message1 "Otrzymano prośbę o dołączenie nowego organu certyfikacji do listy zaufanych organów." >
 <!ENTITY downloadCert.trustSSL "Zaufaj temu CA przy identyfikacji witryn internetowych." >
