@@ -693,7 +693,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY syncSyncNowItem.accesskey    "G">
 <!ENTITY syncReAuthItem.label         "En em adkennaskañ ouzh &syncBrand.shortName.label;…">
 <!ENTITY syncReAuthItem.accesskey     "a">
-
+<!ENTITY syncToolbarButton.label      "Goubredañ">
 
 <!ENTITY socialToolbar.title        "Afell ar varrenn ostilhoù kevredadel">
 
