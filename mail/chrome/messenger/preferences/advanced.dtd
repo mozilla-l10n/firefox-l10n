@@ -14,10 +14,10 @@
 <!ENTITY enableGlodaSearch.accesskey   "G">
 <!ENTITY allowHWAccel.label            "Hardwareversnelling gebruiken wanneer beschikbaar">
 <!ENTITY allowHWAccel.accesskey        "v">
-<!ENTITY storeType.label               "Soort berichtenopslag voor nieuwe accounts:">
-<!ENTITY storeType.accesskey           "S">
-<!ENTITY mboxStore.label               "Een groot bestand (mbox)">
-<!ENTITY maildirStore.label            "Een bestand per bericht (maildir)">
+<!ENTITY storeType.label               "Type berichtenopslag voor nieuwe accounts:">
+<!ENTITY storeType.accesskey           "b">
+<!ENTITY mboxStore.label               "Eén groot bestand (mbox)">
+<!ENTITY maildirStore.label            "Eén bestand per bericht (maildir)">
 
 <!ENTITY scrolling.label               "Scrollen">
 <!ENTITY useAutoScroll.label           "Automatisch scrollen gebruiken">

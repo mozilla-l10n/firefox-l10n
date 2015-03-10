@@ -10,12 +10,12 @@
      the same access key (though the two access keys can also be different).
      -->
 <!ENTITY cmd.show.label                            "Bijbehorende map openen">
-<!ENTITY cmd.show.accesskey                        "B">
+<!ENTITY cmd.show.accesskey                        "m">
 <!ENTITY cmd.showMac.label                         "Tonen in Finder">
-<!ENTITY cmd.showMac.accesskey                     "T">
+<!ENTITY cmd.showMac.accesskey                     "F">
 <!ENTITY cmd.open.label                            "Openen">
 <!ENTITY cmd.open.accesskey                        "O">
 <!ENTITY cmd.removeFromHistory.label               "Verwijderen uit geschiedenis">
 <!ENTITY cmd.removeFromHistory.accesskey           "V">
 <!ENTITY cmd.clearDownloads.label                  "Downloads wissen">
-<!ENTITY cmd.clearDownloads.accesskey              "D">
+<!ENTITY cmd.clearDownloads.accesskey              "w">

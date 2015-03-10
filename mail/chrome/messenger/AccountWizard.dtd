@@ -61,7 +61,7 @@
 <!ENTITY incomingUsername.label "Gebruikersnaam:">
 <!ENTITY incomingUsername.accesskey "G">
 <!-- LOCALIZATION NOTE (newsServerNameDesc.label) : Do not translate "NNTP" or the "&quot;" entities in below line -->
-<!ENTITY newsServerNameDesc.label "Voer de naam in van uw nieuwsserver (NNTP) (bijvoorbeeld “news.example.net”).">
+<!ENTITY newsServerNameDesc.label "Voer de naam in van uw (NNTP-)nieuwsserver (bijvoorbeeld “news.example.net”).">
 <!ENTITY newsServerLabel.label "Nieuwsgroepserver:">
 <!ENTITY newsServerLabel.accesskey "N">
 
@@ -69,7 +69,7 @@
 
 <!ENTITY outgoingTitle.label "Gegevens van uitgaande server">
 <!-- LOCALIZATION NOTE (outgoingServer.description) : Do not translate "SMTP" and "&quot;smtp.example.net&quot;" in below line -->
-<!ENTITY outgoingServer.description "Voer de naam in van uw uitgaande server (SMTP) (bijvoorbeeld “smtp.example.net”).">
+<!ENTITY outgoingServer.description "Voer de naam in van uw uitgaande (SMTP-)server (bijvoorbeeld “smtp.example.net”).">
 <!ENTITY outgoingServer.label "Uitgaande server:">
 <!ENTITY outgoingServer.accesskey "d">
 <!ENTITY outgoingUsername.description "Voer de uitgaande gebruikersnaam in die u van uw e-mailprovider hebt gekregen (dit is meestal dezelfde als uw inkomende gebruikersnaam).">
@@ -118,8 +118,8 @@
 <!ENTITY completionText.label "Controleer of de gegevens hieronder juist zijn.">
 <!ENTITY serverTypePrefix.label "Type van inkomende server:">
 <!ENTITY serverNamePrefix.label "Naam van inkomende server:">
-<!ENTITY smtpServerNamePrefix.label "Naam van uitgaande server (SMTP):">
-<!ENTITY newsServerNamePrefix.label "Naam van nieuwsserver (NNTP):">
+<!ENTITY smtpServerNamePrefix.label "Naam van uitgaande (SMTP-)server:">
+<!ENTITY newsServerNamePrefix.label "Naam van (NNTP-)nieuwsserver:">
 <!ENTITY downloadOnLogin.label "Berichten nu downloaden">
 <!ENTITY downloadOnLogin.accesskey "B">
 <!ENTITY deferStorageDesc.label "Vink deze optie uit om e-mail voor deze account op te slaan in een eigen map, waardoor deze account als een top-levelaccount zichtbaar wordt. Anders zal deze deel uitmaken van het globale Postvak IN onder Lokale mappen.">

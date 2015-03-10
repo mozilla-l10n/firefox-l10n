@@ -145,7 +145,7 @@
 <!ENTITY messagePaneVertical.accesskey "V">
 <!ENTITY showFolderPaneCmd.label "Mappenvenster">
 <!ENTITY showFolderPaneCmd.accesskey "M">
-<!ENTITY showFolderPaneColsCmd.label "Kolommen mappenvenster">
+<!ENTITY showFolderPaneColsCmd.label "Mappenvensterkolommen">
 <!ENTITY showFolderPaneColsCmd.accesskey "o">
 <!ENTITY showMessageCmd.label "Berichtvenster">
 <!ENTITY showMessageCmd.accesskey "e">
