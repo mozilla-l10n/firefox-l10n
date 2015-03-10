@@ -66,11 +66,11 @@
 <!ENTITY useDocumentFonts.accesskey      "Z">
 
 <!-- Language settings -->
-<!ENTITY languagesTitle1.label            "Zestaw znaków">
-<!ENTITY composingDescription.label       "Ustawienia domyślnego zestawu znaków wysyłanych i odbieranych wiadomości">
+<!ENTITY languagesTitle2.label "Kodowanie tekstu">
+<!ENTITY composingDescription2.label "Ustawienia domyślnego kodowania tekstu wysyłanych i odbieranych wiadomości">
 <!ENTITY sendDefaultCharset.label         "Poczta wychodząca:">
 <!ENTITY sendDefaultCharset.accesskey     "w">
 <!ENTITY viewDefaultCharsetList.label     "Poczta przychodząca:">
 <!ENTITY viewDefaultCharsetList.accesskey "t">
-<!ENTITY replyInDefaultCharset2.label     "Używaj domyślnego zestawu znaków w odpowiedziach zawsze, kiedy to możliwe">
-<!ENTITY replyInDefaultCharset2.accesskey "d">
+<!ENTITY replyInDefaultCharset3.label "Używaj domyślnego kodowania tekstu w odpowiedziach zawsze, kiedy to możliwe">
+<!ENTITY replyInDefaultCharset3.accesskey "d">

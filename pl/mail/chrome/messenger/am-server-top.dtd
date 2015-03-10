@@ -61,7 +61,7 @@
 <!ENTITY abbreviateOff.label        "Skróconej (Na przykład: „p.r.h.najlepsze”)">
 <!ENTITY advancedButton.label       "Zaawansowane…">
 <!ENTITY advancedButton.accesskey   "Z">
-<!ENTITY serverDefaultCharset.label "Domyślny zestaw znaków:">
+<!ENTITY serverDefaultCharset2.label "Domyślne kodowanie tekstu:">
 <!ENTITY localPath.label "Katalog lokalny:">
 <!ENTITY localFolderPicker.label    "Wybierz katalog lokalny">
 <!ENTITY browseFolder.label         "Przeglądaj…">
