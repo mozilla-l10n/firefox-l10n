@@ -80,9 +80,7 @@
      the placeholder in inspector search box -->
 <!ENTITY inspectorSearchHTML.label2          "Hledat podle CSS selektorů">
 
-<!-- LOCALIZATION NOTE (inspectorSearchHTML.label): This is the label shown as
-     the placeholder in inspector search box -->
-<!ENTITY inspectorSearchHTML.label "Hledat HTML">
+
 <!ENTITY inspectorSearchHTML.key "F">
 
 <!-- LOCALIZATION NOTE (inspectorCopyImageDataUri.label): This is the label
