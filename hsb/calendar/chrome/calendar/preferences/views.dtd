@@ -26,12 +26,12 @@
 
 <!ENTITY pref.numberofweeks.label "Ličba tydźenjow, kotraž ma so pokazać (inkluziwnje předchadnych tydźenjow):">
 <!ENTITY pref.numberofweeks.accesskey "e">
-
-
-
-
-
-
-
-
-
+<!ENTITY pref.numberofpreviousweeks.label "Ličba předchadnych tydźenjow:">
+<!ENTITY pref.numberofpreviousweeks.accesskey "c">
+<!ENTITY pref.numberofweeks.0 "žadyn">
+<!ENTITY pref.numberofweeks.1 "1 tydźeń">
+<!ENTITY pref.numberofweeks.2 "2 njedźeli">
+<!ENTITY pref.numberofweeks.3 "3 njedźele">
+<!ENTITY pref.numberofweeks.4 "4 njedźele">
+<!ENTITY pref.numberofweeks.5 "5 njedźel">
+<!ENTITY pref.numberofweeks.6 "6 njedźel">
