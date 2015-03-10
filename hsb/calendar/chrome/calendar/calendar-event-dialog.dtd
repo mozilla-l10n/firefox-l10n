@@ -170,8 +170,8 @@
 
 
 
-<!ENTITY event.attachments.popup.remove.label             "Wotstronić" >
-<!ENTITY event.attachments.popup.remove.accesskey         "W" >
+
+
 <!ENTITY event.attachments.popup.open.label               "Wočinić" >
 <!ENTITY event.attachments.popup.open.accesskey           "o" >
 
@@ -314,6 +314,8 @@
 <!-- Timezone dialog -->
 
 <!-- Read-Only dialog -->
+
+<!ENTITY read.only.general.label         "Powšitkowny">
 <!ENTITY read.only.title.label           "Titul:">
 
 

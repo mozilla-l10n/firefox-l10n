@@ -7,19 +7,25 @@
   -->
 
 
+<!ENTITY pref.calendar.view.allview.caption "Powšitkowny">
+<!ENTITY pref.calendar.view.dayandweekviews.caption "Dnjowy a tydźenjowy napohlad">
+<!ENTITY pref.calendar.view.multiweekview.caption "Wjacetydźenjowy napohlad">
+<!ENTITY pref.calendar.view.workweek.caption "Dźěłowy tydźeń">
 
+<!ENTITY pref.weekstarts.label "Dźeń, hdyž tydźeń ma započeć:">
+<!ENTITY pref.weekstarts.accesskey "z">
+<!ENTITY pref.daysoff.label "Tute dny do dźěłoweho tydźenja zapřijeć:">
 
+<!ENTITY pref.calendar.view.daystart.label "Dźeń započina so w:">
+<!ENTITY pref.calendar.view.daystart.accesskey "D">
+<!ENTITY pref.calendar.view.dayend.label "Dźeń kónči so w:">
+<!ENTITY pref.calendar.view.dayend.accesskey "k">
+<!ENTITY pref.calendar.view.visiblehours.label "Pokazać:">
+<!ENTITY pref.calendar.view.visiblehours.accesskey "o">
+<!ENTITY pref.calendar.view.visiblehoursend.label "hodźin naraz">
 
-
-
-
-
-
-
-
-
-
-
+<!ENTITY pref.numberofweeks.label "Ličba tydźenjow, kotraž ma so pokazać (inkluziwnje předchadnych tydźenjow):">
+<!ENTITY pref.numberofweeks.accesskey "e">
 
 
 

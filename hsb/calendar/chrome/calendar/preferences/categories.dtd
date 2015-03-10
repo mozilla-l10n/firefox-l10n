@@ -7,15 +7,18 @@
   -->
 
 
-
-
-
+<!ENTITY pref.categories.add.title "Kategoriju přidać">
+<!ENTITY pref.categories.addButton.label "Přidać…">
+<!ENTITY pref.categories.addButton.accesskey "P">
+<!ENTITY pref.categories.edit.title "Kategoriju wobdźěłać">
+<!ENTITY pref.categories.editButton.label "Wobdźěłać…">
+<!ENTITY pref.categories.editButton.accesskey "d">
 <!ENTITY pref.categories.removeButton.label "Wotstronić">
-<!ENTITY pref.categories.removeButton.accesskey "W">
-
-
-
-
-
-
-
+<!ENTITY pref.categories.removeButton.accesskey "s">
+<!ENTITY pref.categories.name.label "Mjeno">
+<!ENTITY pref.categories.color.label "Barba">
+<!ENTITY pref.categories.usecolor.label "Barbu wužiwać">
+<!ENTITY pref.categories.none.label "(žana)">
+<!ENTITY pref.categories.overwrite "Kategorija z tutym mjenom hižo eksistuje. \n Chceće ju přepisować?">
+<!ENTITY pref.categories.overwrite.title "Warnowanje: Dwójne mjeno">
+<!ENTITY pref.categories.noBlankCategories "Dyrbiće kategorijowe mjeno zapodać.">
