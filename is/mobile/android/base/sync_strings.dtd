@@ -150,8 +150,8 @@
 
 <!ENTITY fxaccount_create_account_header2 "Stofna Firefox reikning">
 <!ENTITY fxaccount_create_account_password_length_restriction "Verður að vera amk 8 stafir/tákn">
-
-
+<!ENTITY fxaccount_create_account_day_of_birth "Dagur">
+<!ENTITY fxaccount_create_account_month_of_birth "Mánuður">
 <!ENTITY fxaccount_create_account_year_of_birth "Fæðingarár">
 <!-- Localization note: &formatS1; is fxaccount_policy_linktos, &formatS2; is fxaccount_policy_linkprivacy, both hyperlinked. -->
 <!ENTITY fxaccount_create_account_policy_text2 "Ég samþykki &formatS1; og &formatS2; Firefox skýjaþjónustunnar með því að halda áfram.">
@@ -193,7 +193,7 @@
 
 <!ENTITY fxaccount_finish_migrating_header "Skráðu þig inn til að ljúka uppfærslu">
 <!ENTITY fxaccount_finish_migrating_button_label "Ljúka uppfærslu">
-
+<!ENTITY fxaccount_finish_migrating_description "Uppfærslan gæti verið gagna drjúg. Best er að nota WiFi tengingu.">
 
 <!ENTITY fxaccount_status_header2 "Firefox reikningur">
 <!ENTITY fxaccount_status_signed_in_as "Innskrá sem ">
