@@ -52,7 +52,7 @@
 <!-- LOCALIZATION NOTE (profilerUI.table.*): These strings are displayed
   -  in the call tree headers for a recording. -->
 <!ENTITY profilerUI.table.totalDuration2   "Totale tiid">
-<!ENTITY profilerUI.table.selfDuratio2n    "Eigen tiid">
+<!ENTITY profilerUI.table.selfDuration2    "Eigen tiid">
 <!ENTITY profilerUI.table.totalPercentage "Totale kosten">
 <!ENTITY profilerUI.table.selfPercentage  "Eigen kosten">
 <!ENTITY profilerUI.table.samples         "Monsters">
