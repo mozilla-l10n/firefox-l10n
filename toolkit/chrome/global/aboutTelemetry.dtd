@@ -49,7 +49,7 @@
   (No hay datos recolectados)
 ">
 <!ENTITY aboutTelemetry.fullSqlWarning "
-  NOTA: La depuración SQL lenta está activada. Pueden mostrarse cadenas completas de SQL pero no se enviarán a Telemetry.">
+  NOTA: La depuración SQL lenta está activada. Pueden mostrarse cadenas completas de SQL pero no se enviarán a Telemetría.">
 <!ENTITY aboutTelemetry.fetchSymbols "
   Recuperar nombres de función de las pilas de cuelges
 ">
