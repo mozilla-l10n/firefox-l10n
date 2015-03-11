@@ -150,6 +150,8 @@
      etc).  The account remains a "Firefox" account. -->
 <!ENTITY fxaccount_create_account_header2 'Ustvari Firefox Račun'>
 <!ENTITY fxaccount_create_account_password_length_restriction 'Mora vsebovati vsaj 8 znakov'>
+<!ENTITY fxaccount_create_account_day_of_birth 'Dan'>
+<!ENTITY fxaccount_create_account_month_of_birth 'Mesec'>
 <!ENTITY fxaccount_create_account_year_of_birth 'Leto rojstva'>
 <!-- Localization note: &formatS1; is fxaccount_policy_linktos, &formatS2; is fxaccount_policy_linkprivacy, both hyperlinked. -->
 <!ENTITY fxaccount_create_account_policy_text2 'Z nadaljevanjem sprejemam &formatS1; in &formatS2; spletnih storitev Firefox.'>
@@ -207,7 +209,6 @@
 <!ENTITY fxaccount_status_needs_upgrade 'Za prijavo morate nadgraditi &brandShortName;.'>
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled '&syncBrand.shortName.label; je nastavljen, vendar sinhronizacija ne poteka samodejno. Vključite “Samodejno sinhroniziraj podatke” v Androidovem menu Nastavitve &gt; Uporaba podatkov.'>
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled_v21 '&syncBrand.shortName.label; je nastavljen, vendar sinhronizacija ne poteka samodejno. Vključite “Samodejno sinhroniziraj podatke” v Androidovem menu Nastavitve &gt; Računi.'>
-<!ENTITY fxaccount_status_needs_account_enabled '&syncBrand.shortName.label; je nastavljen, vendar sinhronizacija ne poteka samodejno. Tapnite za začetek sinhronizacije.'>
 <!ENTITY fxaccount_status_needs_finish_migrating 'Tapnite za prijavo v vaš nov Firefox Račun.'>
 <!ENTITY fxaccount_status_bookmarks 'Zaznamki'>
 <!ENTITY fxaccount_status_history 'Zgodovina'>
