@@ -588,12 +588,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY quitApplicationCmdWin2.label       "Изход">
 <!ENTITY quitApplicationCmdWin2.accesskey   "х">
-
+<!ENTITY quitApplicationCmdWin2.tooltip     "Изход от &brandShorterName;">
 
 
 <!ENTITY quitApplicationCmd.label       "Изход"> 
 <!ENTITY quitApplicationCmd.accesskey   "х">
-
+<!ENTITY quitApplicationCmdMac2.label   "Изход от &brandShorterName;">
 <!-- LOCALIZATION NOTE(quitApplicationCmdUnix.key): This keyboard shortcut is used by both Linux and OSX builds. -->
 
 <!ENTITY closeCmd.label                 "Затваряне">  

@@ -96,4 +96,5 @@ variant of aboutSupport.showDir.label. -->
 
 <!ENTITY aboutSupport.sandboxTitle "Пясъчник">
 
+<!ENTITY aboutSupport.safeModeTitle "Пробвайте Надежден режим">
 <!ENTITY aboutSupport.restartInSafeMode.label "Рестартиране с изключени добавки…">
