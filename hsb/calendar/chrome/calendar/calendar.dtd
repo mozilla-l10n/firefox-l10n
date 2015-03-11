@@ -77,7 +77,8 @@
 <!ENTITY calendar.navigation.nextmonth.tooltip  "Jedyn měsac doprědka" >
 <!ENTITY calendar.navigation.prevmonth.tooltip  "Jedyn měsac wróćo" >
 
-
+<!ENTITY calendar.newevent.button.label         "Nowy podawk" >
+<!ENTITY calendar.newtask.button.label          "Nowy nadawk" >
 
 
 
