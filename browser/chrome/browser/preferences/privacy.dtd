@@ -2,9 +2,9 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY tracking.label                 "Відслідковування">
+<!ENTITY tracking.label                 "Стеження">
 
-<!ENTITY dntTrackingNotOkay.label2      "Повідомляти сайтам, що я не хочу щоб мене відслідковували">
+<!ENTITY dntTrackingNotOkay.label2      "Повідомляти сайтам, що я не хочу щоб за мною стежили">
 <!ENTITY dntTrackingNotOkay.accesskey   "н">
 <!ENTITY trackingProtection.label       "Запобігати сайтам стежити за мною">
 <!ENTITY trackingProtection.accesskey   "с">
