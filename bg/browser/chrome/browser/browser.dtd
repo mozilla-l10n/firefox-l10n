@@ -812,6 +812,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY emeNotificationsDontAskAgain.label       "Изключване на въпроса">
 <!ENTITY emeNotificationsDontAskAgain.accesskey   "И">
 
+<!ENTITY readingList.label                        "Четива">
 
 
 <!-- Pre-landed string for bug 1124153 -->
