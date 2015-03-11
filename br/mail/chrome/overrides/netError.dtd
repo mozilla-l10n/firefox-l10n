@@ -17,13 +17,15 @@
 <!ENTITY deniedPortAccess.longDesc "">
 
 <!ENTITY dnsNotFound.title "N'eo ket bet kavet ar chomlec'h">
-<!ENTITY dnsNotFound.longDesc "<ul>
-<li>Ur fazi hoc'h eus graet en ur viziata anv an domani ? (d.l.e. 
-<strong>ww</strong>.skouer.com</q> e-lec'h  
-<strong>www</strong>.skouer.com</q>)</li>
-<li>Ma n'oc'h gouest da gargañ pajenn ebet, gwiriekait eo kannasket ho urzhiataer d'ar rouedad.</li>
-<li>Gwarezet eo hoc'h urzhiataer gant un tanvoger pe ur proksi ? 
-Arventennoù direizh a grou trubuilhoù gant ar merdeiñ war Internet.</li></ul>">
+<!ENTITY dnsNotFound.longDesc "<ul> 
+<li>Gwiriekait n'ez eus fazi bizskrivañ ebet evel 
+<strong>ww</strong>.skouer.com e-lec'h 
+<strong>www</strong>.skouer.com</li>
+<li>Ma n'oc'h gouest da gargañ pajenn ebet, gwiriekait eo kennasket ho 
+urzhiataer d'ar rouedad.</li>
+<li>Ma 'z eo gwarezet hoc'h urzhiataer gant un tanvoger pe ur proksi, 
+gwiriekait eo aotreet &brandShortName; da dizhout ar web.</li>
+</ul>">
 
 <!ENTITY fileNotFound.title "Restr dianav ">
 <!ENTITY fileNotFound.longDesc "<ul>
@@ -43,7 +45,7 @@ Arventennoù direizh a grou trubuilhoù gant ar merdeiñ war Internet.</li></ul>
 </ul>">
 
 <!ENTITY netInterrupt.title "Harzet eo bet treuzkas ar roadennoù">
-<!ENTITY netInterrupt.longDesc "<p>Kennasket mat e oa ar merdeer met troc'het eo bet ar c'hennask e-pad ma oa o treuzkas stlennoù. Klaskit en-dro, mar plij.</p><ul><li>N'oc'h ket evit merdeiñ war lec'hiennoù all ? Gwiriit kennask rouedad hoc'h urzhiataer.</li><li>Trubuilhoù c'hoazh ? Goulennit digant ardoer ar rouedad pe ho pourchaser Internet evit kaout skoazell.</li></ul> ">
+<!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
 <!ENTITY notCached.title "Diamzeret eo an teul">
 <!ENTITY notCached.longDesc "<p>N'eo ket hegerz an teul goulennet e-barzh ar grubuilh.</p><ul><li>&brandShortName; ne c'houlenn ket en-dro teulioù kizidik ent emgefreek evit ho tiogelroez.</li><li>Klikit war Klask en-dro a-benn goulenn an teul digant al lec'hienn en-dro.</li></ul>">
@@ -64,7 +66,7 @@ Arventennoù direizh a grou trubuilhoù gant ar merdeiñ war Internet.</li></ul>
 </ul>">
 
 <!ENTITY netReset.title "Ehanet eo bet ar c'hennaskañ">
-<!ENTITY netReset.longDesc "<p>Troc'het eo bet an ereadur ouzh ar rouedad e-pad ma oad o klask kennaskañ outañ. Klaskit en-dro.</p> ">
+<!ENTITY netReset.longDesc "&sharedLongDesc;">
 
 <!ENTITY netTimeout.title "Diamzeret eo ar c'hennask">
 <!ENTITY netTimeout.longDesc "&sharedLongDesc;">
@@ -77,14 +79,16 @@ Arventennoù direizh a grou trubuilhoù gant ar merdeiñ war Internet.</li></ul>
 <!ENTITY proxyConnectFailure.title "Dafariad ar proksi zo o nac'hañ ar c'hennaskañ">
 <!ENTITY proxyConnectFailure.longDesc "<ul>
 <li>Gwiriekait arventennoù ar proksi evit bezañ sur int reizh.</li>
-<li> Kit e darempred gant ardoer ar rouedad evit bezañ sur ez a en-dro dafariad ar proksi.</li> 
+<li> Kit e darempred gant ardoer ar rouedad evit bezañ sur ez a en-dro 
+dafariad ar proksi.</li> 
 </ul>">
 
 <!ENTITY proxyResolveFailure.title "N'eo ket bet kavet an dafariad proksi">
 <!ENTITY proxyResolveFailure.longDesc "<ul> 
 <li>Gwiriekait arventennoù ar proksi evit bezañ sur int reizh.</li> 
 <li>Gwiriekait eo kennasket ho urzhiataer d'ar rouedad.</li> 
-<li>Ma 'z eo gwarezet ho urzhiataer gant un tanvoger pe ur proksi, gwiriekait eo aotreet &brandShortName; da dizhout ar Web.</li> 
+<li>Ma 'z eo gwarezet ho urzhiataer gant un tanvoger pe ur proksi, gwiriekait eo
+ aotreet &brandShortName; da dizhout ar Web.</li> 
 </ul>">
 
 <!ENTITY redirectLoop.title "Adheñchañ ar bajenn n'eo ket dereat">
