@@ -11,8 +11,8 @@
 <!ENTITY AddButton.accessKey "Y">
 <!ENTITY DictionaryList.label "Geiriau yn y geiriadur:">
 <!ENTITY DictionaryList.accessKey "G">
-<!ENTITY ReplaceButton.label "Amnewid">
-<!ENTITY ReplaceButton.accessKey "A">
+<!ENTITY ReplaceButton.label "Newid">
+<!ENTITY ReplaceButton.accessKey "N">
 <!ENTITY RemoveButton.label "Tynnu">
 <!ENTITY RemoveButton.accessKey "y">
 

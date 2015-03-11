@@ -26,7 +26,7 @@
 <!ENTITY hdrSmartReplyButton1.label "Ateb Clyfar">
 <!ENTITY hdrReplyButton1.label "Ateb">
 <!ENTITY hdrReplyButton2.tooltip "Ateb i anfonwr y neges">
-<!ENTITY hdrReplyAllButton1.label "Ateb Pob Un">
+<!ENTITY hdrReplyAllButton1.label "Ateb Pawb">
 <!ENTITY hdrReplyAllButton1.tooltip "Ateb yr anfonwr a phob derbyniwr">
 <!ENTITY hdrReplyListButton1.label "Ateb i'r Rhestr">
 <!ENTITY hdrReplyListButton1.tooltip "Ateb i'r rhestr e-bost">
