@@ -494,7 +494,7 @@
 <!ENTITY getMsgButton1.label "Estyn Negeseuon">
 <!ENTITY newMsgButton.label "Ysgrifennu">
 <!ENTITY replyButton.label "Ateb">
-<!ENTITY replyAllButton.label "Ateb Pob Un">
+<!ENTITY replyAllButton.label "Ateb Pawb">
 <!ENTITY replyListButton.label "Ateb i'r Rhestr">
 <!ENTITY forwardButton.label "Ymlaen">
 <!ENTITY fileButton.label "Ffeil">

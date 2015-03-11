@@ -6,8 +6,8 @@
 <!ENTITY windowTitle.label "Gwirio Sillafu">
 
 <!ENTITY misspelledWord.label "Gair wedi'i gamsillafu:">
-<!ENTITY wordEditField.label "Amnewid gyda:">
-<!ENTITY wordEditField.accessKey "A">
+<!ENTITY wordEditField.label "Newid gyda:">
+<!ENTITY wordEditField.accessKey "N">
 <!ENTITY checkwordButton.label "Gwirio Gair">
 <!ENTITY checkwordButton.accessKey "G">
 <!ENTITY suggestions.label "Awgrymiadau:">
@@ -18,8 +18,8 @@
 <!ENTITY ignoreAllButton.accessKey "P">
 <!ENTITY replaceButton.label "Amnewid">
 <!ENTITY replaceButton.accessKey "m">
-<!ENTITY replaceAllButton.label "Amnewid Popeth">
-<!ENTITY replaceAllButton.accessKey "o">
+<!ENTITY replaceAllButton.label "Newid y Cyfan">
+<!ENTITY replaceAllButton.accessKey "y">
 <!ENTITY stopButton.label "Atal">
 <!ENTITY stopButton.accessKey "t">
 <!ENTITY userDictionary.label "Geiriadur Personol:">
