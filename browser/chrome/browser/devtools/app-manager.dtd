@@ -56,7 +56,7 @@
 <!ENTITY connection.disconnecting "Развързване…">
 <!ENTITY connection.cancel "Прекъсване">
 <!ENTITY connection.cancelConnectTooltip "Прекъсване на текущата връзка">
-<!ENTITY connection.cancelShowSimulatorTooltip "Изход от режима на свързаност на симулатора и връщане в началния индикатор">
+<!ENTITY connection.cancelShowSimulatorTooltip "Изход от режим на свързаност на симулатора и връщане в началния екран">
 <!ENTITY connection.or "или">
 <!ENTITY connection.noSimulatorInstalled "Няма инсталиран симулатор.">
 <!ENTITY connection.installOneSimulator "Инсталиране на симулатор">
@@ -98,5 +98,5 @@
 <!ENTITY help.appMgrDoc "Документация: Използване на управлението на приложения">
 <!ENTITY help.configuringDevice "Как да настроите вашето устройство с Firefox OS">
 <!ENTITY help.troubleShooting "Решаване на проблеми">
-<!ENTITY help.simulatorAddon "Инсталиране на добавката на симулатора">
-<!ENTITY help.adbHelperAddon "Инсталиране на добавката с помощен Adb">
+<!ENTITY help.simulatorAddon "Инсталиране на добавката Симулатор">
+<!ENTITY help.adbHelperAddon "Инсталиране на добавката Adb помощник">

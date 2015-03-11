@@ -91,11 +91,11 @@
 
 <!ENTITY deck_close "Затваряне">
 <!-- Addons -->
-
+<!ENTITY addons_aboutaddons "Управление на добавки">
 <!-- Prefs -->
 
 <!ENTITY prefs_general_title "Основни">
-<!ENTITY prefs_restore "Възстановяване на стандартните настройки">
+<!ENTITY prefs_restore "Връщане до стандартни настройки">
 
 
 
