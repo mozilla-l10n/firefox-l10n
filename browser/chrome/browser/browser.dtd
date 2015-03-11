@@ -60,7 +60,7 @@ can reach it easily. -->
 <!-- LOCALIZATION NOTE (openLocationCmd.label): "Open Location" is only
 displayed on OS X, and only on windows that aren't main browser windows, or
 when there are no windows but Firefox is still running. -->
-<!ENTITY openLocationCmd.label "打开位置…">
+<!ENTITY openLocationCmd.label "打开地址…">
 <!ENTITY openFileCmd.label "打开文件…">
 <!ENTITY openFileCmd.accesskey "O">
 <!ENTITY openFileCmd.commandkey "o">
@@ -848,7 +848,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY readingList.label                        "阅读列表">
 <!ENTITY readingList.sidebar.commandKey           "R">
-<!-- Pre-landed string for bug 1124400 -->
 <!ENTITY readingList.showSidebar.label            "显示阅读列表侧栏">
 <!-- Pre-landed string for bug 1124153 -->
 <!ENTITY readingList.sidebar.showMore.label       "显示更多…">
