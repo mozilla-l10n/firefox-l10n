@@ -6,8 +6,8 @@
 <!ENTITY  no_space_to_start_error "Za zagon &brandShortName;a ni na voljo dovolj pomnilnika.">
 <!ENTITY  error_loading_file "Med poskusom nalaganja datotek, ki so potrebne za zagon &brandShortName;a, je prišlo do napake">
 
-<!ENTITY  onboard_start_message "Pozdravljeni v &brandShortName;u!">
-<!ENTITY  onboard_start_subtext "Predan vam, vaši zasebnosti in odprtemu spletu.">
+<!ENTITY  onboard_start_message2 "Pozdravljeni v &brandShortName;u">
+<!ENTITY  onboard_start_subtext2 "Največ zasebnosti in možnosti prilagajanja doslej.">
 <!ENTITY  onboard_start_button_account "Prijava v &brandShortName;">
 <!ENTITY  onboard_start_button_browser "Začnite z brskanjem">
 
@@ -214,6 +214,8 @@ size. -->
 
 <!ENTITY pref_media_autoplay_enabled "Samodejno predvajanje">
 <!ENTITY pref_media_autoplay_enabled_summary "Določite, ali lahko spletne strani samodejno predvajajo videe in druge vsebine">
+<!ENTITY pref_zoom_force_enabled "Vedno omogoči povečavo">
+<!ENTITY pref_zoom_force_enabled_summary "Vsili povečavo, tako da je mogoča na vsaki strani">
 
 <!ENTITY pref_use_master_password "Uporabi glavno geslo">
 <!ENTITY pref_sync "Sinhroniziraj">
@@ -270,7 +272,7 @@ size. -->
      (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
 <!ENTITY datareporting_crashreporter_title_short "Poročila o sesutju">
 <!ENTITY datareporting_wifi_title2 "Lokacijske storitve &vendorShortName;">
-<!ENTITY datareporting_wifi_geolocation_summary2 "Pošilja podatke o približni lokaciji mobilnih in brezžičnih omrežij in jih pošilja organizaciji &vendorShortName; za izboljšanje naših gelokacijskih storitev">
+<!ENTITY datareporting_wifi_geolocation_summary3 "Pomagajte organizaciji &vendorShortName; narisati zemljevid sveta. Objavljajte podatke o lokaciji mobilnih in brezžičnih omrežij za izboljšanje naše gelokacijske storitve">
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
      actual notification that an update is available. -->
@@ -562,6 +564,13 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY actionbar_menu "Meni">
 <!ENTITY actionbar_done "Končaj">
 
+<!-- Voice search in the awesome bar -->
+<!ENTITY voicesearch_prompt "Govorite">
+<!ENTITY voicesearch_failed_title "Glasovno iskanje &brandShortName;">
+<!ENTITY voicesearch_failed_message "Glasovno iskanje trenutno ne deluje. Poskusite pozneje.">
+<!ENTITY voicesearch_failed_message_recoverable "Vaših besed nismo uspeli prepoznati. Poskusite znova.">
+<!ENTITY voicesearch_failed_retry "Poskusi znova">
+
 <!-- Localization note (remote_tabs_last_synced): the variable is replaced by a
      "relative time span string" produced by Android.  This string describes the
      time the tabs were last synced relative to the current time; examples
@@ -569,6 +578,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      "Last synced" is one of the user's other Sync clients, typically Firefox on
      their desktop or laptop.-->
 <!ENTITY remote_tabs_last_synced "Zadnja sinhronizacija: &formatS;">
+<!-- Localization note: Used when the sync has not happend yet, showed in place of a date -->
+<!ENTITY remote_tabs_never_synced "Zadnja sinhronizacija: nikoli">
 
 <!-- Find-In-Page strings -->
 <!-- LOCALIZATION NOTE (find_matchcase): This is meant to appear as an icon that changes color
