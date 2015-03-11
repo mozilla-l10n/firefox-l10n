@@ -4,7 +4,7 @@
 
 <!ENTITY tabCrashed.header "Tenemos malas noticias: Esta pestaña se ha caído">
 <!ENTITY tabCrashed.message "Pero también las hay buenas: Puedes simplemente cerrar esta pestaña, restaurarla o restaurar todas tus pestañas caídas.">
-<!ENTITY tabCrashed.sendReport "Envía un reporte de fallos para ayudar a prevenir más noticias malas">
+<!ENTITY tabCrashed.sendReport "Enviar un reporte de fallos para ayudar a prevenir más malas noticias">
 <!ENTITY tabCrashed.reportSent "Reporte de fallos ya enviado. ¡Gracias por ayudarnos a mejorar &brandShortName;!">
 <!ENTITY tabCrashed.closeTab "Cerrar esta pestaña">
 <!ENTITY tabCrashed.restoreTab "Restaurar esta pestaña">
