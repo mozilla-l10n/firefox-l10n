@@ -146,9 +146,16 @@
 <!ENTITY runtimedetails_adbIsRoot "ADB is root: ">
 <!ENTITY runtimedetails_summonADBRoot "rootapparaat">
 <!ENTITY runtimedetails_ADBRootWarning "(fereasket net-beskoattele bootloader)">
-<!ENTITY runtimedetails_restrictedPrivileges "DevTools-beheinde foech: ">
+<!ENTITY runtimedetails_unrestrictedPrivileges "Unbeheinde DevTools-foech: ">
 <!ENTITY runtimedetails_requestPrivileges "hegere foech freegje">
 <!ENTITY runtimedetails_privilegesWarning "(Sil apparaat werstarte. Fereasket root-tagong.)">
+
+<!-- Device Preferences and Settings -->
+<!ENTITY device_typeboolean "Boolean">
+<!ENTITY device_typenumber "Integer">
+<!ENTITY device_typestring "String">
+<!ENTITY device_typeobject "Object">
+<!ENTITY device_typenone "Selektearje in type">
 
 <!-- Device Preferences -->
 <!ENTITY devicepreference_title "Apparaatfoarkarren">
