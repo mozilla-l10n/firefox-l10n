@@ -79,7 +79,7 @@
 <!ENTITY  rememberSearchForm.label       "Помнене на историята на търсенията и формулярите">
 <!ENTITY  rememberSearchForm.accesskey   "ф">
 
-<!ENTITY  clearOnClose.label             "Изчистване на историята при изход от &brandShortName;">
+<!ENTITY  clearOnClose.label             "Изчистване на история при изход от &brandShortName;">
 <!ENTITY  clearOnClose.accesskey         "И">
 
 <!ENTITY  clearOnCloseSettings.label     "Настройки…">
