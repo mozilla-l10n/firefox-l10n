@@ -40,11 +40,11 @@
   -  The translations for these strings should match the translations in
   -  browser/translation.dtd
   -->
-<!ENTITY translation.options.attribution.beforeLogo "Translations by">
+<!ENTITY translation.options.attribution.beforeLogo "Переклад виконується">
 <!ENTITY translation.options.attribution.afterLogo "">
 
-<!ENTITY  drmContent.label             "DRM content">
+<!ENTITY  drmContent.label             "DRM-вміст">
 
-<!ENTITY  playDRMContent.label         "Play DRM content">
-<!ENTITY  playDRMContent.accesskey     "P">
-<!ENTITY  playDRMContent.learnMore.label "Learn more">
+<!ENTITY  playDRMContent.label         "Відтворити DRM-вміст">
+<!ENTITY  playDRMContent.accesskey     "В">
+<!ENTITY  playDRMContent.learnMore.label "Докладніше">
