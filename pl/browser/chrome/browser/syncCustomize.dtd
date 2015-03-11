@@ -11,8 +11,8 @@
 
 <!ENTITY engine.bookmarks.label "Zakładki">
 <!ENTITY engine.bookmarks.accesskey "Z">
-<!ENTITY engine.readinglist.label "Lista czytelnia">
-<!ENTITY engine.readinglist.accesskey "L">
+<!ENTITY engine.readinglist.label "Czytelnia">
+<!ENTITY engine.readinglist.accesskey "C">
 <!ENTITY engine.history.label "Historię">
 <!ENTITY engine.history.accesskey "H">
 <!ENTITY engine.tabs.label "Karty">

@@ -772,11 +772,11 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY emeNotificationsDontAskAgain.label "Nie pytaj ponownie">
 <!ENTITY emeNotificationsDontAskAgain.accesskey "e">
 
-<!ENTITY readingList.label "Lista czytelnia">
+<!ENTITY readingList.label "Czytelnia">
 <!ENTITY readingList.sidebar.commandKey "R">
-<!ENTITY readingList.showSidebar.label "Pokaż pasek boczny listy czytelnia">
+<!ENTITY readingList.showSidebar.label "Pokaż pasek boczny czytelni">
 <!ENTITY readingList.sidebar.showMore.label "Wyświetl więcej…">
-<!ENTITY readingList.sidebar.emptyText "Dodawaj artykuły do listy czytelnia, aby zachować je na później i łatwo później odnajdywać.">
-<!ENTITY readingList.sidebar.delete.tooltip "Usuń z listy czytelnia">
-<!ENTITY readingList.sidebar.add.label "Dodaj do listy czytelnia">
-<!ENTITY readingList.sidebar.add.tooltip "Dodaj tę stronę do listy czytelnia">
+<!ENTITY readingList.sidebar.emptyText "Dodawaj artykuły do czytelni, aby zachować je na później i łatwo później odnajdywać.">
+<!ENTITY readingList.sidebar.delete.tooltip "Usuń z czytelni">
+<!ENTITY readingList.sidebar.add.label "Dodaj do czytelni">
+<!ENTITY readingList.sidebar.add.tooltip "Dodaj tę stronę do czytelni">

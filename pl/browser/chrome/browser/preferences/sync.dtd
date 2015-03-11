@@ -23,8 +23,8 @@
 <!ENTITY syncMy.label "Synchronizuj:">
 <!ENTITY engine.bookmarks.label         "zakładki">
 <!ENTITY engine.bookmarks.accesskey     "z">
-<!ENTITY engine.readinglist.label "listę czytelnia">
-<!ENTITY engine.readinglist.accesskey "l">
+<!ENTITY engine.readinglist.label "czytelnię">
+<!ENTITY engine.readinglist.accesskey "c">
 <!ENTITY engine.tabs.label              "karty">
 <!ENTITY engine.tabs.accesskey          "k">
 <!ENTITY engine.history.label           "historię">
