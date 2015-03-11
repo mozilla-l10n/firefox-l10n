@@ -82,7 +82,7 @@
 
 <!ENTITY col.name.label          "名称">
 <!ENTITY col.tags.label          "标签">
-<!ENTITY col.url.label           "位置">
+<!ENTITY col.url.label           "地址">
 <!ENTITY col.mostrecentvisit.label "最近访问">
 <!ENTITY col.visitcount.label    "访问次数">
 <!ENTITY col.keyword.label       "关键字">
