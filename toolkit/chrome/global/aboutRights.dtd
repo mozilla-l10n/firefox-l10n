@@ -24,7 +24,7 @@
 <!ENTITY rights.intro-point2-c ".">
 <!-- point 2.5 text for official branded builds -->
 
-<!ENTITY rights.intro-point2.5 "Някои от функциите на &brandShortName;, като Доклад за срив, ви дават възможност да дадете обратна връзка на &vendorShortName;. Избирайки да го направите давате на &vendorShortName; разрешение да я използва за подобряване на продуктите си, да я публикува на страницата си и да я разпространява.">
+<!ENTITY rights.intro-point2.5 "Някои от функциите на &brandShortName;, като Доклад за срив, ви дават възможност да дадете на &vendorShortName; обратна връзка. Избирайки да го направите давате разрешение на &vendorShortName; да я използва за подобряване на продуктите си, да я публикува на страницата си и да я разпространява.">
 <!-- point 3 text for official branded builds -->
 
 <!ENTITY rights.intro-point3c ".">
