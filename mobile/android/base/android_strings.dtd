@@ -293,7 +293,7 @@
 <!ENTITY home_most_recent_emptyhint2 "Psst: utilizzando una &formatS1;Nuova scheda anonima&formatS2; non verrà salvata alcuna cronologia.">
 <!ENTITY home_reading_list_empty "In questa sezione verranno visualizzati gli articoli da leggere.">
 <!ENTITY home_reading_list_hint2 "Suggerimento: è possibile salvare articoli in questo elenco premendo a lungo l’icona &formatI; che appare nella barra del titolo.">
-<!ENTITY home_reading_list_hint_accessible "Suggerimento: è possibile salvare articoli in questo elenco premendo a lungo l’icona modalità lettura che appare nella barra del titolo.">
+<!ENTITY home_reading_list_hint_accessible "Suggerimento: è possibile salvare articoli in questo elenco premendo a lungo l’icona Modalità lettura che appare nella barra del titolo.">
 <!ENTITY home_default_empty "Nessun contenuto disponibile per questo pannello.">
 <!ENTITY home_move_up_to_filter "Vai a &formatS;">
 <!ENTITY home_remote_tabs_title "Schede sincronizzate">
