@@ -741,9 +741,10 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY customizeMode.lwthemes.menuManage "Juwal">
 <!ENTITY customizeMode.lwthemes.menuManage.accessKey "M">
 <!ENTITY customizeMode.lwthemes.menuGetMore "Furari tontoney guna">
-
+<!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "G">
 <!ENTITY customizeMode.deveditionTheme.label2 "Goy nda cinakaw fasalyan leeti">
 
+<!ENTITY social.chatBar.commandkey "c">
 <!ENTITY social.chatBar.label "Faakaarawey suuba">
 <!ENTITY social.chatBar.accesskey "k">
 
@@ -773,12 +774,12 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY trackingContentBlocked.message "Kuryan">
 <!ENTITY trackingContentBlocked.moreinfo "Ir na moo-kunawey kaŋyaŋ ga war monno interneti bande gagay.">
-
-
+<!ENTITY trackingContentBlocked.learnMore "Bay ka tonton">
+<!ENTITY trackingContentBlocked.options "Suubarey">
 <!ENTITY trackingContentBlocked.unblock2.label "Jejeboo kaa moɲoo woo se">
 <!ENTITY trackingContentBlocked.unblock2.accesskey "a">
-
-
+<!ENTITY trackingContentBlocked.block.label "Jejebuyan tunandi">
+<!ENTITY trackingContentBlocked.block.accesskey "e">
 <!ENTITY trackingContentBlocked.disabled.message "Monnoyan jejebu n' ka kay">
 
 <!ENTITY pointerLock.notification.message "ESC naagu waati kul k'a cebe koyne.">
@@ -798,6 +799,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY pluginNotification.width "28em">
 
+<!ENTITY uiTour.infoPanel.close "Daabu">
 
 <!ENTITY appMenuSidebars.label         "Cerawžeerey">
 
@@ -828,25 +830,31 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY panicButton.thankyou.msg2                "Ceeciyan saajante!">
 <!ENTITY panicButton.thankyou.buttonlabel         "Foo nda goy!">
 
+<!ENTITY processHang.terminateScript.label        "Šigira-dumoo kayandi">
+<!ENTITY processHang.terminateScript.accessKey    "g">
 
 
+<!ENTITY processHang.terminatePlugin.label        "Wii nda sukari dam">
+<!ENTITY processHang.terminatePlugin.accessKey    "P">
+<!ENTITY processHang.terminateProcess.label       "Interneti koyjineyan wii">
+<!ENTITY processHang.terminateProcess.accessKey   "I">
 
-
-
-
-
-
-
-
-
+<!ENTITY emeLearnMoreContextMenu.label            "Bay ka tonton DRM ga…">
+<!ENTITY emeLearnMoreContextMenu.accesskey        "D">
+<!ENTITY emeNotificationsNotNow.label             "Manti sohõda">
+<!ENTITY emeNotificationsNotNow.accesskey         "n">
 <!ENTITY emeNotificationsDontAskAgain.label       "Ma ši ay hãa koyne">
 <!ENTITY emeNotificationsDontAskAgain.accesskey   "M">
 
 <!ENTITY readingList.label                        "Caw maašeede">
-
-
+<!ENTITY readingList.sidebar.commandKey           "R">
+<!ENTITY readingList.showSidebar.label            "Caw maašeede ceraw zuu cebe">
 <!-- Pre-landed string for bug 1124153 -->
+<!ENTITY readingList.sidebar.showMore.label       "Cebe ka tonton…">
 <!-- Pre-landed string for bug 1133662 -->
+<!ENTITY readingList.sidebar.emptyText            "Hantumey tonton war caw maašeedaa ga k'i gaabu hiino se nda ka duu w'ey nda faala waati kaŋ war ga baa.">
 <!-- Pre-landed string for bug 1123525 -->
+<!ENTITY readingList.sidebar.delete.tooltip       "Kaa caw maašeedaa ra">
 <!-- Pre-landed strings for bug 1123519 -->
-
+<!ENTITY readingList.sidebar.add.label            "Tonton caw maašeedaa ga">
+<!ENTITY readingList.sidebar.add.tooltip          "Moɲoo woo tonton war caw maašeedaa ga">
