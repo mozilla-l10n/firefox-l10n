@@ -12,7 +12,7 @@
 
 <!ENTITY  overridePageColors.never.label  "Երբեք">
 
-<!ENTITY  color                           "Տեքստ և Աստառ">
+<!ENTITY  color                           "Տեքստ և խորապատկեր">
 <!ENTITY  textColor.label                 "Տեքստը.">
 <!ENTITY  textColor.accesskey             "T">
 <!ENTITY  backgroundColor.label           "Խորապատկերը.">
