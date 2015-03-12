@@ -79,8 +79,8 @@
 <!ENTITY certmgr.details.accesskey            "l">
 <!ENTITY certmgr.fields.label                 "Lauka vērtība">
 <!ENTITY certmgr.fields.accesskey             "v">
-
-
+<!ENTITY certmgr.hierarchy.label              "&amp;Sertifikātu hierarhija">
+<!ENTITY certmgr.hierarchy.accesskey2         "H">
 <!ENTITY certmgr.addException.label           "Pievienot izņēmumu…">
 <!ENTITY certmgr.addException.accesskey       "z">
 

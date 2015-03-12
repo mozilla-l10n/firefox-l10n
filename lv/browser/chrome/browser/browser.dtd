@@ -105,7 +105,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY exitFullScreenCmd.accesskey "p">
 <!ENTITY fullScreenCmd.label "Pa visu ekrānu">
 <!ENTITY fullScreenCmd.accesskey "v">
-
+<!ENTITY fullScreenCmd.macCommandKey "f">
 <!ENTITY showAllTabsCmd.label "Rādīt visas cilnes">
 <!ENTITY showAllTabsCmd.accesskey "v">
 
@@ -204,7 +204,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksWinCmd.commandkey "i">
 
 <!ENTITY historyButton.label            "Vēsture">
-
+<!ENTITY historySidebarCmd.commandKey   "h">
 
 <!ENTITY toolsMenu.label              "Rīki">
 <!ENTITY toolsMenu.accesskey          "R"> 
@@ -214,11 +214,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY downloads.label              "Lejupielādes">
 <!ENTITY downloads.accesskey          "d">
-
-
+<!ENTITY downloads.commandkey         "j">
+<!ENTITY downloadsUnix.commandkey     "y">
 <!ENTITY addons.label                 "Papildinājumi">
 <!ENTITY addons.accesskey             "a">
-
+<!ENTITY addons.commandkey            "A">
 <!ENTITY webapps.label                "Lietotnes">
 <!ENTITY webapps.accesskey            "L">
 
@@ -237,15 +237,15 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY remoteWebConsoleCmd.label    "Attālināta tīmekļa konsole">
 
 <!ENTITY browserConsoleCmd.label      "Pārlūka konsole">
-
+<!ENTITY browserConsoleCmd.commandkey "j">
 <!ENTITY browserConsoleCmd.accesskey  "P">
 
 <!ENTITY inspectContextMenu.label     "Izmeklēt">
-
+<!ENTITY inspectContextMenu.accesskey "I">
 
 <!ENTITY responsiveDesignTool.label   "Adaptīvā dizaina režīms">
 <!ENTITY responsiveDesignTool.accesskey "r">
-
+<!ENTITY responsiveDesignTool.commandkey "M">
 
 <!ENTITY eyedropper.label   "Pipete">
 <!ENTITY eyedropper.accesskey "i">
@@ -288,7 +288,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY devToolbar.keytext                "F2">
 <!ENTITY devToolboxMenuItem.label          "Ieslēgt rīkus">
 <!ENTITY devToolboxMenuItem.accesskey      "t">
-
+<!ENTITY devToolboxMenuItem.keytext        "I">
 
 <!ENTITY devToolbarToolsButton.tooltip     "Ieslēgt izstrādātāju rīkus">
 <!ENTITY devToolbarOtherToolsButton.label  "Vairāk rīku">
@@ -415,7 +415,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY searchFocus.commandkey       "k">
 <!ENTITY searchFocus.commandkey2      "e">
-
+<!ENTITY searchFocusUnix.commandkey   "j">
 <!-- LOCALIZATION NOTE (searchFor.label, searchWith.label):
      These two strings are used to build the header above the list of one-click
      search providers:  "Search for <used typed keywords> with:" -->
@@ -591,12 +591,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY fullZoomReduceCmd.label        "Attālināt">
 <!ENTITY fullZoomReduceCmd.accesskey    "A">
-
+<!ENTITY fullZoomReduceCmd.commandkey   "-">
 <!ENTITY fullZoomReduceCmd.commandkey2  "">
 
 <!ENTITY fullZoomResetCmd.label         "Atstatīt">
 <!ENTITY fullZoomResetCmd.accesskey     "t">
-
+<!ENTITY fullZoomResetCmd.commandkey    "0">
 <!ENTITY fullZoomResetCmd.commandkey2   "">
 
 <!ENTITY fullZoomToggleCmd.label        "Mērogot tikai tekstu">
@@ -608,8 +608,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY quitApplicationCmdWin2.label       "Iziet">
 <!ENTITY quitApplicationCmdWin2.accesskey   "z">
-
-
+<!ENTITY quitApplicationCmdWin2.tooltip     "Aizvērt &brandShortName;">
+<!ENTITY goBackCmd.commandKey "[">
 
 <!ENTITY quitApplicationCmd.label       "Iziet"> 
 <!ENTITY quitApplicationCmd.accesskey   "e">
@@ -852,4 +852,4 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- Pre-landed string for bug 1133662 -->
 <!-- Pre-landed string for bug 1123525 -->
 <!-- Pre-landed strings for bug 1123519 -->
-
+<!ENTITY readingList.sidebar.add.tooltip          "Pievienot šo lapu lasīšanas sarakstam">
