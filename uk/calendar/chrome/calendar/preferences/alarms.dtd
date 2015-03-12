@@ -14,8 +14,8 @@
 <!ENTITY pref.calendar.alarms.sound.useDefault.accessKey "т">
 <!ENTITY pref.calendar.alarms.sound.browse.label "Вибрати…">
 <!ENTITY pref.calendar.alarms.sound.browse.accessKey "В">
-<!ENTITY pref.calendar.alarms.sound.preview.label "Прослухати">
-<!ENTITY pref.calendar.alarms.sound.preview.accessKey "л">
+<!ENTITY pref.calendar.alarms.sound.play.label "Прослухати">
+<!ENTITY pref.calendar.alarms.sound.play.accessKey "л">
 <!ENTITY pref.showalarmbox "Показати вікно сповіщення">
 <!ENTITY pref.calendar.alarms.showAlarmBox.accessKey "к">
 <!ENTITY pref.missedalarms "Показувати пропущені сповіщення">
