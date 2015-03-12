@@ -8,12 +8,12 @@
 <!ENTITY fileMenu.accesskey "F">
 <!ENTITY newMenu.label "Jauns">
 <!ENTITY newMenu.accesskey "n">
+<!ENTITY newMessage.label "Vēstule">
 
 
-
-
-
-
+<!ENTITY newMessage.accesskey "V">
+<!ENTITY newContact.label "Adrešu grāmatas kontakts...">
+<!ENTITY newContact.accesskey "k">
 
 
 
@@ -47,8 +47,8 @@
 
 
 
-
-
+<!ENTITY printSetupCmd.label "Lapas iestatījumi…">
+<!ENTITY printSetupCmd.accesskey "u">
 
 
 
