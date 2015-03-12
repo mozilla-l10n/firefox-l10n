@@ -22,4 +22,6 @@
 <!ENTITY  paneAdvanced.title      "Bihanitse">
 <!-- LOCALIZATION NOTE (paneSync.title): This should match syncBrand.shortName.label in ../syncBrand.dtd -->
 
+<!ENTITY  paneSync.title          "Huza">
+
 <!ENTITY  helpButton.label        "Ifashayobora">

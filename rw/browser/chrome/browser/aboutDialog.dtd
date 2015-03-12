@@ -27,12 +27,12 @@
 <!-- LOCALIZATION NOTE (community.creditsLink): This is a link title that links to about:credits. -->
 
 
-<!ENTITY helpus.start               "urashaka gufasha">
+<!ENTITY helpus.start               "urashaka gufasha?">
 <!-- LOCALIZATION NOTE (helpus.donateLink): This is a link title that links to https://sendto.mozilla.org/page/contribute/Give-Now?source=mozillaorg_default_footer&ref=firefox_about&utm_campaign=firefox_about&utm_source=firefox&utm_medium=referral&utm_content=20140929_FireFoxAbout. -->
-<!ENTITY helpus.donateLink          "tanga imfashanyanyo">
+<!ENTITY helpus.donateLink          "tanga ubufasha">
 <!ENTITY helpus.middle              "cyangwa">
 <!-- LOCALIZATION NOTE (helpus.getInvolvedLink): This is a link title that links to http://www.mozilla.org/contribute/. -->
-<!ENTITY helpus.getInvolvedLink     "kubamo">
+<!ENTITY helpus.getInvolvedLink     "jyamo nawe!">
 <!ENTITY helpus.end                 "">
 <!-- LOCALIZATION NOTE (bottomLinks.license): This is a link title that links to about:license. -->
 <!-- LOCALIZATION NOTE (bottomLinks.rights): This is a link title that links to about:rights. -->
