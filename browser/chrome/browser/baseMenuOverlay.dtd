@@ -1,6 +1,8 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY minimizeWindow.key       "m">
 <!ENTITY minimizeWindow.label     "Küçült">
 <!ENTITY bringAllToFront.label    "Hepsini ön plana getir">
 <!ENTITY zoomWindow.label         "Yakınlaştır">
@@ -16,7 +18,7 @@
 <!ENTITY aboutProduct2.accesskey  "h">
 <!ENTITY productHelp2.label       "&brandShortName; yardımı">
 <!ENTITY productHelp2.accesskey   "m">
-
+<!ENTITY helpMac.commandkey       "?">
 
 <!ENTITY helpKeyboardShortcuts.label     "Klavye kısayolları">
 <!ENTITY helpKeyboardShortcuts.accesskey "K">
@@ -34,13 +36,14 @@
 <!ENTITY helpFeedbackPage.accesskey  "G">
 
 <!ENTITY helpShowTour2.label            "&brandShortName; turu">
-<!ENTITY helpShowTour2.accesskey        "o">
+<!ENTITY helpShowTour2.accesskey        "u">
 
 <!ENTITY preferencesCmdMac.label        "Tercihler…">
 <!ENTITY preferencesCmdMac.commandkey   ",">
 
 <!ENTITY servicesMenuMac.label          "Servisler">
 
+<!ENTITY hideThisAppCmdMac2.label       "&brandShorterName; uygulamasını gizle">
 <!ENTITY hideThisAppCmdMac2.commandkey  "H">
 
 <!ENTITY hideOtherAppsCmdMac.label      "Diğerlerini gizle">
