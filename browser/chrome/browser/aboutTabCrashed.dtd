@@ -8,4 +8,4 @@
 <!ENTITY tabCrashed.reportSent "Avārijas ziņojums ir nosūtīts, paldies, ka palīdzat uzlabot &brandShortName;!">
 <!ENTITY tabCrashed.closeTab "Aizvērt šo cilni">
 <!ENTITY tabCrashed.restoreTab "Atjaunot šo cilni">
-
+<!ENTITY tabCrashed.restoreAll "Atjaunot visas avarējušās cilnes">

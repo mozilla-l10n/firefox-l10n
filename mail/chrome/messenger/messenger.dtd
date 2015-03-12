@@ -77,8 +77,8 @@
 
 
 
-
-
+<!ENTITY printSetupCmd.label "Lapas iestatījumi…">
+<!ENTITY printSetupCmd.accesskey "u">
 <!-- Edit Menu -->
 
 
@@ -486,7 +486,7 @@
 
 
 
-
+<!ENTITY addressBookButton.label "Adrešu grāmata">
 
 
 
