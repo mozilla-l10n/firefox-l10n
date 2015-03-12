@@ -13,11 +13,10 @@
 <!ENTITY restorepage.startNew       "संपूर्णतया नवीन ब्राऊजींग सत्र सुरू करत आहे">
 
 <!ENTITY restorepage.tryagainButton "पूर्वस्थितीत आणा">
-<!ENTITY restorepage.restore.access "R">
-<!ENTITY restorepage.closeButton    "बंद करा">
-<!ENTITY restorepage.close.access   "C">
 
-<!ENTITY restorepage.restoreHeader  "पुन्हस्थापन">
+<!ENTITY restorepage.closeButton    "बंद करा">
+
+
 <!ENTITY restorepage.listHeader     "चौकट व टॅब">
 <!-- LOCALIZATION NOTE: &#37;S will be replaced with a number. -->
 <!ENTITY restorepage.windowLabel    "चौकट &#037;S">
@@ -27,11 +26,10 @@
 
 
 <!ENTITY welcomeback2.restoreButton  "चला जाऊयात!">
-<!ENTITY welcomeback2.restoreButton.access "L">
+
 
 <!ENTITY welcomeback2.tabtitle      "यशस्वी!">
 
-<!ENTITY welcomeback2.pageTitle     "यशस्वी!">
 <!ENTITY welcomeback2.pageInfo1     "&brandShortName; चालायला तयार.">
 
 <!ENTITY welcomeback2.label.restoreAll  "सगळे पटल आणि टॅब्स पुनर्संचयित करा">
