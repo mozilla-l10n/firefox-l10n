@@ -56,21 +56,21 @@ can reach it easily. -->
 
 <!ENTITY tabCmd.label "Нов подпрозорец">
 <!ENTITY tabCmd.accesskey "д">
-
+<!ENTITY tabCmd.commandkey "д">
 <!-- LOCALIZATION NOTE (openLocationCmd.label): "Open Location" is only
 displayed on OS X, and only on windows that aren't main browser windows, or
 when there are no windows but Firefox is still running. -->
 <!ENTITY openLocationCmd.label "Отваряне на адрес…">
 <!ENTITY openFileCmd.label "Отваряне на файл…">
 <!ENTITY openFileCmd.accesskey "ф">
-
+<!ENTITY openFileCmd.commandkey "ф">
 <!ENTITY printSetupCmd.label "Настройка на страницата…">
 <!ENTITY printSetupCmd.accesskey "Н">
 <!ENTITY printPreviewCmd.label "Преглед преди отпечатване">
 <!ENTITY printPreviewCmd.accesskey "р">
 <!ENTITY printCmd.label "Отпечатване…">
 <!ENTITY printCmd.accesskey "п">
-
+<!ENTITY printCmd.commandkey "п">
 
 <!ENTITY goOfflineCmd.label "Работа извън мрежата">
 <!ENTITY goOfflineCmd.accesskey "Р">
@@ -91,10 +91,10 @@ when there are no windows but Firefox is still running. -->
 
 <!ENTITY pageSourceCmd.label "Изходен код на страницата">
 <!ENTITY pageSourceCmd.accesskey "к">
-
+<!ENTITY pageSourceCmd.commandkey "к">
 <!ENTITY pageInfoCmd.label "Информация за страницата">
 <!ENTITY pageInfoCmd.accesskey "И">
-
+<!ENTITY pageInfoCmd.commandkey "и">
 
 
 <!-- LOCALIZATION NOTE (enterFullScreenCmd.label, exitFullScreenCmd.label):
@@ -105,8 +105,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY exitFullScreenCmd.accesskey "ц">
 <!ENTITY fullScreenCmd.label "Цял екран">
 <!ENTITY fullScreenCmd.accesskey "Ц">
-
-<!ENTITY showAllTabsCmd.label "Покажи всички подпрозорци">
+<!ENTITY fullScreenCmd.macCommandKey "ц">
+<!ENTITY showAllTabsCmd.label "Показване на всички подпрозорци">
 <!ENTITY showAllTabsCmd.accesskey "д">
 
 <!ENTITY fxaSignIn.label "Вписване в &syncBrand.shortName.label;">
@@ -138,9 +138,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY bookmarksMenu.label "Отметки">
 <!ENTITY bookmarksMenu.accesskey "О">
-<!ENTITY bookmarkThisPageCmd.label "Отмятане на тази страница">
+<!ENTITY bookmarkThisPageCmd.label "Отмятане на страницата">
 <!ENTITY editThisBookmarkCmd.label "Редактиране на отметката">
-
+<!ENTITY bookmarkThisPageCmd.commandkey "о">
 
 <!-- LOCALIZATION NOTE (findShareServices.label):
   -  Use the unicode ellipsis char, \u2026,
