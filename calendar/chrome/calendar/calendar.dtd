@@ -12,9 +12,9 @@
 <!ENTITY calendar.unifinder.todoitems.label       "Завдання" >
 <!ENTITY calendar.unifinder.showcompletedtodos.label "Показати завершені завдання">
 
-<!ENTITY calendar.today.button.label       "Сьогодні">
+<!ENTITY calendar.today.button.label          "Сьогодні">
 <!ENTITY calendar.tomorrow.button.label       "Завтра">
-<!ENTITY calendar.soon.button.label           "Незабаром">
+<!ENTITY calendar.upcoming.button.label       "Незабаром">
 
 <!ENTITY calendar.events.filter.all.label "Усі події">
 <!ENTITY calendar.events.filter.today.label "Події сьогодні">
@@ -232,8 +232,17 @@
 <!ENTITY calendar.context.newserver.accesskey          "Н">
 <!ENTITY calendar.context.findcalendar.label           "Знайти календар…" >
 <!ENTITY calendar.context.findcalendar.accesskey       "З" >
-<!ENTITY calendar.context.deleteserver.label           "Вилучити календар">
-<!ENTITY calendar.context.deleteserver.accesskey       "В">
+<!ENTITY calendar.context.deleteserver2.label          "Вилучити календар">
+<!ENTITY calendar.context.deleteserver2.accesskey      "В">
+
+<!-- LOCALIZATION NOTE (calendar.context.removeserver.label): Removing the
+      calendar is the general action of removing it, while deleting means to
+      clear the data and unsubscribing means just taking it out of the calendar
+      list. -->
+<!ENTITY calendar.context.removeserver.label           "Remove Calendar…">
+<!ENTITY calendar.context.removeserver.accesskey       "R">
+<!ENTITY calendar.context.unsubscribeserver.label      "Unsubscribe Calendar…">
+<!ENTITY calendar.context.unsubscribeserver.accesskey  "U">
 <!ENTITY calendar.context.synccalendars.label          "Синхронізувати календарі">
 <!ENTITY calendar.context.synccalendars.accesskey      "С">
 <!ENTITY calendar.context.publish.label                "Опублікувати календар…">
