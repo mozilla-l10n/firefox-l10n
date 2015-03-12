@@ -114,7 +114,7 @@ because displayed names don't have the comma in between. -->
 
 <!ENTITY tasksMenu.label                                "Գործիքներ">
 <!ENTITY tasksMenu.accesskey                            "T">
-<!ENTITY messengerCmd.label                             "&amp;Փոստ  Նորություններ">
+<!ENTITY messengerCmd.label                             "Փոստ &amp; Նորություններ">
 <!ENTITY messengerCmd.accesskey                         "Փ">
 <!ENTITY messengerCmd.commandkey                        "1">
 <!ENTITY searchAddressesCmd.label                       "Հասցեների որոնում...">
