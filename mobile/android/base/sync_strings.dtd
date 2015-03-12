@@ -150,6 +150,8 @@
 
 <!ENTITY fxaccount_create_account_header2 "नवीन Firefox खातं बनवा">
 <!ENTITY fxaccount_create_account_password_length_restriction "किमान ८ अक्षर असायला हवे">
+
+
 <!ENTITY fxaccount_create_account_year_of_birth "जन्म वर्ष">
 <!-- Localization note: &formatS1; is fxaccount_policy_linktos, &formatS2; is fxaccount_policy_linkprivacy, both hyperlinked. -->
 <!ENTITY fxaccount_create_account_policy_text2 "पुढे जातोय, याचा अर्थ, मी Firefox क्लाउड सेवांच्या &formatS1; आणि &formatS2; अटी मान्य करतो.">
@@ -191,7 +193,7 @@
 
 <!ENTITY fxaccount_finish_migrating_header "अद्ययावत संपवण्यासाठी साइन इन करा">
 <!ENTITY fxaccount_finish_migrating_button_label "अद्ययावत संपवा">
-<!ENTITY fxaccount_finish_migrating_description "अद्ययावत करताना खूप डेटा वापरला जाऊ शकतो म्हणून WiFi नेटवर्क वर असने उत्कृष्ठ ठरेल.">
+
 
 <!ENTITY fxaccount_status_header2 "Firefox खातं">
 <!ENTITY fxaccount_status_signed_in_as "असे प्रवेश केले">
@@ -207,7 +209,6 @@
 <!ENTITY fxaccount_status_needs_upgrade "साइन इनसाठी तुम्हाला &brandShortName; अद्ययावत करण्याची गरज आहे.">
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled "&syncBrand.shortName.label; मांडले गेले, पण आपोआप ताळमेळ होत नाही आहे. Android सेटिंगमध्ये “माहितीचे आपोआप ताळमेळ” &gt; माहिती वापर टॉगल करा.">
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled_v21 "&syncBrand.shortName.label; सेट अप झाले, पण आपोआप ताळमेळ होत नाहीये. Android Settings &gt; Accounts मध्ये “Auto-sync data” चालू करा.">
-<!ENTITY fxaccount_status_needs_account_enabled "&syncBrand.shortName.label; मांडले गेले, पण आपोआप ताळमेळ होत नाही आहे. ताळमेळ सुरु करण्यासाठी टिचकी द्या.">
 <!ENTITY fxaccount_status_needs_finish_migrating "आपल्या नवीन Firefox खात्यात साइन इन करण्यासाठी टॅप करा.">
 <!ENTITY fxaccount_status_bookmarks "वाचनखूणा">
 <!ENTITY fxaccount_status_history "इतिहास">

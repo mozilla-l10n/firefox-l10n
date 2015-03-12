@@ -28,19 +28,16 @@
 
 <!ENTITY dataChoicesTab.label            "माहिती पर्याय">
 
-<!ENTITY healthReportSection.label       "&brandShortName; Health Report">
 <!ENTITY healthReportDesc.label          "ब्राउजर कामगिरी समझण्यास तुमची मदत करतो व ब्राउजरची प्रकृती &vendorShortName;सह शेअर करतो">
 <!ENTITY enableHealthReport.label        "&brandShortName; Health Report सुरू करा">
 <!ENTITY enableHealthReport.accesskey    "R">
 <!ENTITY healthReportLearnMore.label     "आणखी शिका">
 
-<!ENTITY telemetrySection.label          "Telemetry">
 <!ENTITY telemetryDesc.label             "Shares performanceब्राउजरची कामगिरी, वापर, हार्डवेअर व पसंतीकरण माहिती &vendorShortName;सह शेअर करतो व &brandShortName;ला उत्तम बनवतो">
-<!ENTITY enableTelemetry.label           "Telemetry सुरू करा">
-<!ENTITY enableTelemetry.accesskey       "T">
+
+
 <!ENTITY telemetryLearnMore.label        "आणखी शिका">
 
-<!ENTITY crashReporterSection.label      "क्रॅश रिपोर्टर">
 <!ENTITY crashReporterDesc.label         "&brandShortName; क्रॅश अहवाल सुपूर्द करतो व &vendorShortName;ला ब्राउजर आणखी स्थीर व सुरक्षीत करतो">
 <!ENTITY enableCrashReporter.label       "क्रॅश रिपोर्टर सुरू करा">
 <!ENTITY enableCrashReporter.accesskey   "C">
