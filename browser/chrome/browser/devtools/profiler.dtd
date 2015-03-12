@@ -28,7 +28,8 @@
 <!ENTITY profilerUI.table.function    "Función">
 
 <!ENTITY profilerUI.newtab.tooltiptext "Añadir nueva pestaña desde la selección">
-<!ENTITY profilerUI.options.tooltiptext "Configurar preferencias de rendimiento.">
+<!ENTITY profilerUI.options.filter.tooltiptext "Seleccione que datos mostrar en la línea de tiempo">
+<!ENTITY profilerUI.options.gear.tooltiptext "Configurar preferencias de rendimiento.">
 
 <!ENTITY profilerUI.invertTree "Invertir árbol de llamados">
 <!ENTITY profilerUI.invertTree.tooltiptext "Invertir el árbol de llamados muestra las direcciones de llamado desde los cuadros más nuevos expandiéndose a los más viejos.">
