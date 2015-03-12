@@ -89,7 +89,11 @@
   -  is displayed next to a checkbox determining whether or not memory
   -  measurements are enabled. -->
 
+<!ENTITY profilerUI.enableMemory             "Ierakstīt atmiņu">
+<!ENTITY profilerUI.enableMemory.tooltiptext "Veicot profilēšanu ierakstīt atmiņas patēriņu.">
 <!-- LOCALIZATION NOTE (profilerUI.enableFramerate): This string
   -  is displayed next to a checkbox determining whether or not framerate
   -  is recorded. -->
 
+<!ENTITY profilerUI.enableFramerate             "Ierakstīt kadru ātrumu">
+<!ENTITY profilerUI.enableFramerate.tooltiptext "Profilējot ierakstīt kadru ātrumu.">
