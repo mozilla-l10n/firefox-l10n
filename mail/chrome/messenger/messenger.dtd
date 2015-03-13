@@ -145,6 +145,8 @@
 <!ENTITY messagePaneVertical.accesskey "V">
 <!ENTITY showFolderPaneCmd.label "Painel de pastas">
 <!ENTITY showFolderPaneCmd.accesskey "a">
+
+
 <!ENTITY showMessageCmd.label "Painel de mensagens">
 <!ENTITY showMessageCmd.accesskey "P">
 
@@ -593,7 +595,9 @@
 <!ENTITY manageTags.accesskey "G">
 <!-- Folder Pane -->
 
-<!ENTITY folderColumn.label "Nome">
+<!ENTITY folderNameColumn.label "Nome">
+
+
 <!ENTITY folderSizeColumn.label "Tamanho">
 <!-- Folder Pane Context Menu -->
 
@@ -662,8 +666,8 @@
 <!ENTITY statusColumn.label "Status">
 <!ENTITY sizeColumn.label "Tamanho">
 <!ENTITY junkStatusColumn.label "Spam">
-<!ENTITY unreadColumn.label "Não lidas">
-<!ENTITY totalColumn.label "Total">
+
+
 <!ENTITY readColumn.label "Lida">
 <!ENTITY receivedColumn.label "Recebimento">
 <!ENTITY starredColumn.label "Com estrela">

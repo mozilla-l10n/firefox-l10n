@@ -41,8 +41,14 @@
   -  in the network table toolbar, above the "type" column. -->
 
 <!ENTITY netmonitorUI.toolbar.type        "Tipo">
+<!-- LOCALIZATION NOTE (netmonitorUI.toolbar.transferred): This is the label displayed
+  -  in the network table toolbar, above the "transferred" column, which is the
+  -  compressed / encoded size. -->
+
+<!ENTITY netmonitorUI.toolbar.transferred "Transferido">
 <!-- LOCALIZATION NOTE (netmonitorUI.toolbar.size): This is the label displayed
-  -  in the network table toolbar, above the "size" column. -->
+  -  in the network table toolbar, above the "size" column, which is the
+  -  uncompressed / decoded size. -->
 
 <!ENTITY netmonitorUI.toolbar.size        "Tamanho">
 <!-- LOCALIZATION NOTE (netmonitorUI.toolbar.waterfall): This is the label displayed
@@ -195,10 +201,22 @@
   -  in a "receive" state. -->
 
 <!ENTITY netmonitorUI.timings.receive     "Recebendo:">
+<!-- LOCALIZATION NOTE (netmonitorUI.security.warning.protocol): A tooltip
+  -  for warning icon that indicates a connection uses insecure protocol. -->
+
+<!ENTITY netmonitorUI.security.warning.sslv3      "O protocolo SSL 3.0 é obsoleto e inseguro.">
+<!-- LOCALIZATION NOTE (netmonitorUI.security.warning.cipher): A tooltip
+  -  for warning icon that indicates a connection uses insecure cipher suite. -->
+
+<!ENTITY netmonitorUI.security.warning.cipher     "A cifra usada para criptografia é obsoleta e insegura.">
 <!-- LOCALIZATION NOTE (netmonitorUI.security.error): This is the label displayed
   -  in the security tab if a security error prevented the connection. -->
+
+<!ENTITY netmonitorUI.security.error      "Ocorreu um erro:">
 <!-- LOCALIZATION NOTE (netmonitorUI.security.protocolVersion): This is the label displayed
   -  in the security tab describing TLS/SSL protocol version. -->
+
+<!ENTITY netmonitorUI.security.protocolVersion "Versão do protocolo:">
 <!-- LOCALIZATION NOTE (netmonitorUI.security.cipherSuite): This is the label displayed
   -  in the security tab describing the cipher suite used to secure this connection. -->
 <!-- LOCALIZATION NOTE (netmonitorUI.security.hsts): This is the label displayed
@@ -208,6 +226,8 @@
 <!-- LOCALIZATION NOTE (netmonitorUI.security.connection): This is the label displayed
   -  in the security tab describing the section containing information related to
   -  the secure connection. -->
+
+<!ENTITY netmonitorUI.security.connection "Conexão:">
 <!-- LOCALIZATION NOTE (netmonitorUI.security.certificate): This is the label displayed
   -  in the security tab describing the server certificate section. -->
 

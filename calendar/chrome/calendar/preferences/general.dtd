@@ -33,6 +33,10 @@
 <!ENTITY pref.default_task_offset_start.label "Relativo ao início">
 <!ENTITY pref.default_task_offset_next_hour.label "Relativo à próxima hora">
 
+<!ENTITY pref.calendar.todaypane.agenda.caption "Painel hoje">
+
+
+
 <!ENTITY pref.accessibility.label "Acessibilidade" >
 <!ENTITY pref.systemcolors.label "Otimizar as cores para acessibilidade" >
 <!ENTITY pref.systemcolors.accesskey "c">

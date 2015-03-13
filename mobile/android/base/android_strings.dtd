@@ -6,8 +6,7 @@
 <!ENTITY  no_space_to_start_error "Não há espaço disponível suficiente para iniciar o &brandShortName;.">
 <!ENTITY  error_loading_file "Ocorreu um erro ao tentar carregar os arquivos necessários para executar o &brandShortName;">
 
-<!ENTITY  onboard_start_message "Bem-vindo ao &brandShortName;!">
-<!ENTITY  onboard_start_subtext "Comprometido com você, sua privacidade e uma web aberta">
+
 <!ENTITY  onboard_start_button_account "Entrar no &brandShortName;">
 <!ENTITY  onboard_start_button_browser "Iniciar a navegação">
 <!-- Localization note: These are used as the titles of different pages on the home screen.
@@ -112,10 +111,10 @@
 
 <!ENTITY overlay_share_send_tab_btn_label "Enviar para outro dispositivo">
 <!ENTITY overlay_share_no_url "Nenhum link encontrado neste compartilhamento">
-<!ENTITY overlay_share_retry "Tentar de novo">
+
 <!ENTITY overlay_share_select_device "Selecionar dispositivo">
 
-<!ENTITY pref_category_search3 "Pesquisa">
+<!ENTITY pref_category_search3 "Pesquisar">
 <!ENTITY pref_category_search_summary "Personalize seus mecanismos de pesquisa">
 <!ENTITY pref_category_display "Aparência">
 <!ENTITY pref_category_display_summary "Texto, barra de título, navegação em tela inteira">
@@ -153,7 +152,7 @@
 <!ENTITY home_add_panel_installed "“&formatS;” adicionado à página inicial">
 <!ENTITY pref_category_home_content_settings "Conteúdo">
 <!ENTITY pref_home_updates "Atualização automática">
-
+<!ENTITY pref_home_updates_enabled "Ativa">
 <!ENTITY pref_home_updates_wifi "Somente com Wi-Fi">
 <!ENTITY pref_home_suggested_sites "Exibir sugestões de sites">
 <!ENTITY pref_home_suggested_sites_summary "Exibir na sua página inicial atalhos de sites que pensamos que você ache interessantes">
@@ -168,7 +167,7 @@
 <!ENTITY pref_header_devtools "Ferramentas do desenvolvedor">
 
 <!ENTITY pref_cookies_menu "Cookies">
-<!ENTITY pref_cookies_accept_all "Permitir todos">
+<!ENTITY pref_cookies_accept_all "Ativa">
 <!ENTITY pref_cookies_not_accept_foreign "Permitir somente os do site atual">
 <!ENTITY pref_cookies_disabled "Desativar">
 
@@ -185,9 +184,9 @@
 <!ENTITY pref_clear_on_exit_summary2 "O &brandShortName; irá limpar automaticamente seus dados sempre que você selecionar “Sair” no menu principal">
 <!ENTITY pref_clear_on_exit_dialog_title "Selecione quais dados limpar">
 <!ENTITY pref_plugins "Plugins">
-<!ENTITY pref_plugins_enabled "Ativados">
+<!ENTITY pref_plugins_enabled "Ativa">
 <!ENTITY pref_plugins_tap_to_play "Ativar ao tocar">
-<!ENTITY pref_plugins_disabled "Desativados">
+<!ENTITY pref_plugins_disabled "Desativar">
 <!ENTITY pref_text_size "Tamanho do texto">
 <!ENTITY pref_reflow_on_zoom4 "Ajustar texto">
 <!ENTITY pref_restore "Abas">
@@ -204,7 +203,6 @@
 same character/combination is used to increase the preview font size. It should be a concise
 representation of the language it is used in that will help show the text in the preview will change
 size. -->
-<!ENTITY pref_font_size_adjust_char "A">
 <!-- Localization note (pref_font_size_preview_text): This paragraph is used as an example to
     demonstrate the font size setting.  It is meant to be whimsical and fun. -->
 
@@ -212,6 +210,8 @@ size. -->
 
 <!ENTITY pref_media_autoplay_enabled "Permitir reprodução automática">
 <!ENTITY pref_media_autoplay_enabled_summary "Controle se os sites podem reproduzir vídeos e outras mídias automaticamente">
+
+
 
 <!ENTITY pref_use_master_password "Usar senha mestra">
 <!ENTITY pref_sync "Sync">
@@ -545,14 +545,16 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      designated space. Use the unicode ellipsis char, \u2026, or use "..." if \u2026 doesn't suit
      traditions in your locale. -->
 
-<!ENTITY ellipsis "…">
-
-<!ENTITY colon ":">
 <!-- These are only used for accessibility for the done and overflow-menu buttons in the actionbar.
      They are never shown to users -->
 
 <!ENTITY actionbar_menu "Menu">
 <!ENTITY actionbar_done "Concluir">
+<!-- Voice search in the awesome bar -->
+
+
+
+
 <!-- Localization note (remote_tabs_last_synced): the variable is replaced by a
      "relative time span string" produced by Android.  This string describes the
      time the tabs were last synced relative to the current time; examples
@@ -561,6 +563,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      their desktop or laptop.-->
 
 <!ENTITY remote_tabs_last_synced "Última sincronização: &formatS;">
+<!-- Localization note: Used when the sync has not happend yet, showed in place of a date -->
 <!-- Find-In-Page strings -->
 <!-- LOCALIZATION NOTE (find_matchcase): This is meant to appear as an icon that changes color
      if match-case is activated. i.e. No more than two letters, one uppercase, one lowercase. -->

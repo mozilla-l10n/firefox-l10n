@@ -150,6 +150,8 @@
 
 <!ENTITY fxaccount_create_account_header2 "Criar uma conta Firefox">
 <!ENTITY fxaccount_create_account_password_length_restriction "Deve ter no mínimo 8 caracteres">
+
+
 <!ENTITY fxaccount_create_account_year_of_birth "Ano de nascimento">
 <!-- Localization note: &formatS1; is fxaccount_policy_linktos, &formatS2; is fxaccount_policy_linkprivacy, both hyperlinked. -->
 <!ENTITY fxaccount_create_account_policy_text2 "Ao prosseguir, eu concordo com os &formatS1; e &formatS2; dos serviços em nuvem do Firefox.">
@@ -205,7 +207,6 @@
 <!ENTITY fxaccount_status_needs_upgrade "Você precisa atualizar o &brandShortName; para identificar-se.">
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled "O &syncBrand.shortName.label; está configurado, mas não está sincronizando automaticamente. Ative a opção “Sincronizar dados automaticamente” em Configurações do Android &gt; Uso de dados.">
 
-<!ENTITY fxaccount_status_needs_account_enabled "O &syncBrand.shortName.label; está configurado, mas não está sincronizando automaticamente. Toque para iniciar a sincronização.">
 
 <!ENTITY fxaccount_status_bookmarks "Favoritos">
 <!ENTITY fxaccount_status_history "Histórico">
