@@ -45,13 +45,6 @@
 <!ENTITY chooseToken.title "Janela de escolha do token">
 <!ENTITY chooseToken.message1 "Por favor escolha um token.">
 
-<!ENTITY escrowWarn.title "Cópia da chave de cifra">
-<!ENTITY escrowWarn.message1 "Importante: Esta autoridade certificadora pediu para fazer uma cópia da sua chave privada de cifra.">
-<!ENTITY escrowWarn.benefit1 "A vantagem é que se perder o acesso à sua chave privada de cifra, pode pedir uma cópia a esta autoridade certificadora.">
-<!ENTITY escrowWarn.message2 "No entanto, a sua chave privada de cifra será armazenada pela autoridade certificadora e pode ser utilizada para ler as suas mensagens ou documentos sem a sua permissão.">
-<!ENTITY examineCert.label "Ver certificado">
-<!ENTITY examineCert.accesskey "V">
-
 <!-- Strings for the CreateCertInfo dialog  -->
 <!ENTITY createCertInfo.title "A gerar uma chave privada">
 <!ENTITY createCertInfo.msg1 "Geração da chave em curso... Isto pode demorar alguns minutos...">
