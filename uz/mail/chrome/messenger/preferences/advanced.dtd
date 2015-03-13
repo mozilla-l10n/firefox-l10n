@@ -1,0 +1,112 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+
+
+
+
+<!-- General Settings -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- Data Choices -->
+
+
+
+
+
+
+
+
+
+<!-- Display and Reading Settings -->
+
+
+
+
+
+
+
+<!-- LOCALIZATION NOTE (markAsReadDelay.label): This will concatenate to
+     "After displaying for [___] seconds",
+     using (markAsReadDelay.label) and a number (secondsLabel.label). -->
+
+
+
+
+
+
+
+
+
+
+
+<!-- Update -->
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- Networking and Disk Space -->
+
+
+
+
+
+
+
+
+
+
+
+<!-- LOCALIZATION NOTE:
+  The entities useCacheBefore.label and useCacheAfter.label appear on a single
+  line in preferences as follows:
+
+  &useCacheBefore.label  [ textbox for cache size in MB ]   &useCacheAfter.label;
+-->
+
+
+
+
+<!-- Certificates -->
+
+
+
+
+
+
+
+
+
+
