@@ -14,7 +14,7 @@
 <!ENTITY search_plus_content_description "అన్వేషణ పట్టీకు జతచేయి">
 
 <!ENTITY search_pref_title "అమరికలు">
-
+<!ENTITY search_pref_button_content_description "అమరికలు">
 
 <!ENTITY pref_clearHistory_confirmation "చరిత్ర శుభ్రమైంది">
 <!ENTITY pref_clearHistory_dialogMessage "ఈ పరికరంనుండి మొత్తం అన్వేషణ చరిత్రను తొలగించాలా?">
