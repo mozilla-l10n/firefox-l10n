@@ -80,7 +80,7 @@
 <!ENTITY certmgr.fields.label                 "Valor do campo:">
 <!ENTITY certmgr.fields.accesskey             "V">
 <!ENTITY certmgr.hierarchy.label              "Hierarquia do certificado">
-
+<!ENTITY certmgr.hierarchy.accesskey2         "H">
 <!ENTITY certmgr.addException.label           "Adicionar exceção…">
 <!ENTITY certmgr.addException.accesskey       "A">
 

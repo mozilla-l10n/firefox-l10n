@@ -4,7 +4,7 @@
 <!ENTITY addons.windowTitle                   "Complementos">
 
 <!ENTITY search.placeholder                   "Pesquisar complementos">
-
+<!ENTITY search.buttonlabel                   "Pesquisar">
 <!-- LOCALIZATION NOTE (search.commandKey):
      The search command key should match findOnCmd.commandkey from browser.dtd -->
 <!ENTITY search.commandkey                    "F">
@@ -36,6 +36,8 @@
 <!ENTITY info.plugincheck.label                 "Verificar atualizações dos plugins">
 <!ENTITY info.plugincheck.tooltip               "Verificar se os plugins estão atualizados">
 <!-- categories / views -->
+
+<!ENTITY view.search.label                    "Pesquisar">
 <!ENTITY view.discover.label                  "Adicionar">
 <!ENTITY view.recentUpdates.label             "Atualizações recentes">
 <!ENTITY view.availableUpdates.label          "Atualizações disponíveis">
@@ -225,3 +227,4 @@
 <!ENTITY experiment.info.changetelemetry "Configurações da telemetria">
 <!ENTITY experiment.info.changetelemetry.accesskey "C">
 
+<!ENTITY setting.learnmore "Saiba mais…">
