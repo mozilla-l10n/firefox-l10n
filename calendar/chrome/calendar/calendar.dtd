@@ -14,7 +14,7 @@
 
 <!ENTITY calendar.today.button.label          "Heute">
 <!ENTITY calendar.tomorrow.button.label       "Morgen">
-<!ENTITY calendar.soon.button.label           "Bald">
+<!ENTITY calendar.upcoming.button.label       "Demnächst">
 
 <!ENTITY calendar.events.filter.all.label               "Alle Termine">
 <!ENTITY calendar.events.filter.today.label             "Heutige Termine">
