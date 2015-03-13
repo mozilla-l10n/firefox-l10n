@@ -12,14 +12,14 @@
 <!ENTITY deleteButton.label "Dileu">
 <!ENTITY deleteButton.accesskey "D">
 <!ENTITY reorderTopButton "Symud i'r Brig">
-<!ENTITY reorderTopButton.accessKey "o">
+<!ENTITY reorderTopButton.accessKey "B">
 <!ENTITY reorderTopButton.toolTip "Ad-drefnu'r hidl fel ei fod yn gweithredu cyn pob un arall">
 <!ENTITY reorderUpButton.label "Symud i Fyny">
 <!ENTITY reorderUpButton.accesskey "F">
 <!ENTITY reorderDownButton.label "Symud i Lawr">
 <!ENTITY reorderDownButton.accesskey "L">
 <!ENTITY reorderBottomButton "Symud i'r Gwaelod">
-<!ENTITY reorderBottomButton.accessKey "G">
+<!ENTITY reorderBottomButton.accessKey "w">
 <!ENTITY reorderBottomButton.toolTip "Ad-drefnu'r hidl fel ei fod yn gweithredu ar ôl pob un arall">
 <!ENTITY filterHeader.label "Bydd hidlau sydd wedi'u galluogi yn rhedeg yn awtomatig yn ôl y drefn â nodir isod.">
 <!ENTITY filtersForPrefix.label "Hidlau ar gyfer:">
