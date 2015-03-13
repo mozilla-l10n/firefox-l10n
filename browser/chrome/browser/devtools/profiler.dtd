@@ -51,11 +51,13 @@
 <!-- LOCALIZATION NOTE (profilerUI.table.*): These strings are displayed
   -  in the call tree headers for a recording. -->
 
+<!ENTITY profilerUI.table.totalDuration2  "Жалпы уақыты">
+<!ENTITY profilerUI.table.selfDuration2   "Өздік уақыты">
 <!ENTITY profilerUI.table.totalPercentage "Жалпы құны">
 <!ENTITY profilerUI.table.selfPercentage  "Өздік құны">
 <!ENTITY profilerUI.table.samples         "Үлгілер">
-
-
+<!ENTITY profilerUI.table.totalAlloc      "Жалпы бөлінулер">
+<!ENTITY profilerUI.table.selfAlloc       "Өздік бөлінулер">
 <!ENTITY profilerUI.table.function        "Функция">
 <!-- LOCALIZATION NOTE (profilerUI.newtab.tooltiptext): The tooltiptext shown
   -  on the "+" (new tab) button for a profile when a selection is available. -->
@@ -63,6 +65,8 @@
 <!ENTITY profilerUI.newtab.tooltiptext "Таңдалғаннан жаңа бетті қосу">
 <!-- LOCALIZATION NOTE (profilerUI.options.tooltiptext): This is the tooltip
   -  for the options button. -->
+
+<!ENTITY profilerUI.options.tooltiptext "Өнімділік баптауларын баптау.">
 <!-- LOCALIZATION NOTE (profilerUI.invertTree): This is the label shown next to
   -  a checkbox that inverts and un-inverts the profiler's call tree. -->
 
