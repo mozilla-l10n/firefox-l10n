@@ -13,9 +13,9 @@
 <!ENTITY profilerUI.clearButton "Wyczyść">
 <!ENTITY profilerUI.toolbar.waterfall "Oś czasu">
 <!ENTITY profilerUI.toolbar.js-calltree "JavaScript">
-<!ENTITY profilerUI.toolbar.memory-calltree "Pamięć">
+<!ENTITY profilerUI.toolbar.memory-calltree1 "Alokacje">
 <!ENTITY profilerUI.toolbar.js-flamegraph "Diagram JS">
-<!ENTITY profilerUI.toolbar.memory-flamegraph "Diagram pamięci">
+<!ENTITY profilerUI.toolbar.memory-flamegraph1 "Diagram alokacji">
 <!ENTITY profilerUI.table.totalDuration2 "Całkowity czas">
 <!ENTITY profilerUI.table.selfDuration2 "Własny czas">
 <!ENTITY profilerUI.table.totalPercentage "Całkowity koszt">
