@@ -36,9 +36,9 @@
 <!ENTITY device.permissionsHelpLink "https://developer.mozilla.org/docs/Web/Apps/App_permissions">
 <!ENTITY device.browserTabs "Abas do navegador">
 <!ENTITY device.browserTabsTooltip "Exibir a lista de abas do navegador no dispositivo conectado">
-<!ENTITY device.debugBrowserTab "Depurar">
+
 <!ENTITY device.debugBrowserTabTooltip "Abrir as ferramentas do desenvolvedor conectadas a esta aba do navegador no dispositivo">
-<!ENTITY device.help "Ajuda">
+
 
 <!ENTITY connection.connectTooltip "Conectar-se a este dispositivo">
 <!ENTITY connection.disconnect "Desconectar">
@@ -66,19 +66,19 @@
 <!ENTITY connection.startRegisteredSimulator "Iniciar:">
 
 <!ENTITY projects.localApps "Aplicativos locais">
-<!ENTITY projects.addApp "Adicionar">
+
 <!ENTITY projects.addPackaged "Adicionar aplicativo empacotado">
 <!ENTITY projects.addPackagedTooltip "Adicionar um novo aplicativo empacotado (um diretório) no seu computador">
 <!ENTITY projects.addHosted "Adicionar aplicativo hospedado">
 <!ENTITY projects.addHostedTooltip "Adicionar um novo aplicativo hospedado (link para o arquivo manifest.webapp) em um site">
-<!ENTITY projects.title "Aplicativos locais">
+
 <!ENTITY projects.appDetails "Detalhes do aplicativo">
 <!ENTITY projects.removeAppFromList "Excluir este aplicativo da lista que você está trabalhando. Não o excluirá do dispositivo ou simulador.">
 <!ENTITY projects.updateApp "Atualizar">
 <!ENTITY projects.updateAppTooltip "Executar verificações de validação e atualizar o aplicativo do dispositivo conectado">
-<!ENTITY projects.debugApp "Depurar">
+
 <!ENTITY projects.debugAppTooltip "Abrir as ferramentas do desenvolvedor conectadas a este aplicativo">
-<!ENTITY projects.saveManifest "Salvar">
+
 <!ENTITY projects.saveManifestTooltip "Salvar o conteúdo do editor de manifesto abaixo">
 <!ENTITY projects.hostedManifestPlaceHolder2 "http://example.com/app/manifest.webapp">
 <!ENTITY projects.noProjects "Nenhum projeto. Adicione um novo aplicativo empacotado abaixo (diretório local) ou um aplicativo hospedado (link para um arquivo manifest).">
@@ -92,7 +92,6 @@
 <!ENTITY projects.hosted "Hospedado">
 <!ENTITY projects.packaged "Empacotado">
 
-<!ENTITY help.title "App Manager">
 <!ENTITY help.close "Fechar">
 <!ENTITY help.intro "Esta ferramenta o auxiliará a desenvolver e instalar aplicativos web em dispositivos compatíveis (como o Firefox OS). A aba <strong>Aplicativos</strong> lhe ajudará no processo de validação e instalação do seu aplicativo. A aba <strong>Dispositivo</strong> lhe dará informações sobre o dispositivo conectado. Use a barra de ferramentas abaixo para conectar seu dispositivo ou iniciar o simulador.">
 <!ENTITY help.usefullLinks "Links úteis:">
