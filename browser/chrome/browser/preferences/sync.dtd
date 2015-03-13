@@ -79,5 +79,5 @@ both, to better adapt this sentence to their language.
 <!ENTITY welcome.signIn.label "登入">
 <!ENTITY welcome.createAccount.label "建立帳號">
 
-<!ENTITY welcome.useOldSync.label "正在使用舊版的 Sync？">
+<!ENTITY welcome.useOldSync.label "還在使用舊版的 Sync？">
 
