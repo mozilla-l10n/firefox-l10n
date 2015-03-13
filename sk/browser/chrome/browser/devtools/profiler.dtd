@@ -45,9 +45,9 @@
   -  in the toolbar on buttons that select which view is currently shown. -->
 <!ENTITY profilerUI.toolbar.waterfall "Časová os">
 <!ENTITY profilerUI.toolbar.js-calltree "JavaScript">
-<!ENTITY profilerUI.toolbar.memory-calltree "Pamäť">
+<!ENTITY profilerUI.toolbar.memory-calltree1 "Vyhradenia">
 <!ENTITY profilerUI.toolbar.js-flamegraph "Graf využitia JS">
-<!ENTITY profilerUI.toolbar.memory-flamegraph "Graf využitia pamäte">
+<!ENTITY profilerUI.toolbar.memory-flamegraph1 "Graf vyhradení">
 
 <!-- LOCALIZATION NOTE (profilerUI.table.*): These strings are displayed
   -  in the call tree headers for a recording. -->
