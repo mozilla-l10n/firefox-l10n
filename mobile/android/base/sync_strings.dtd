@@ -150,8 +150,8 @@
 
 <!ENTITY fxaccount_create_account_header2 "ఫైర్‌ఫాక్స్ ఖాతా సృష్టించండి">
 <!ENTITY fxaccount_create_account_password_length_restriction "కనీసం 8 అక్షరాలు ఉండాలి">
-
-
+<!ENTITY fxaccount_create_account_day_of_birth "రోజు">
+<!ENTITY fxaccount_create_account_month_of_birth "నెల">
 <!ENTITY fxaccount_create_account_year_of_birth "పుట్టిన సంవత్సరం">
 <!-- Localization note: &formatS1; is fxaccount_policy_linktos, &formatS2; is fxaccount_policy_linkprivacy, both hyperlinked. -->
 <!ENTITY fxaccount_create_account_policy_text2 "నేను ఫైర్‌ఫాక్స్ క్లౌడ్ సేవల &formatS1; మరియు &formatS2; కు ఆమోదం తెలుపుతూ, కొనసాగుతున్నాను.">
@@ -185,18 +185,20 @@
 <!ENTITY fxaccount_account_verified_sub_header "ఖాతా నిర్ధారణ అయ్యింది">
 <!ENTITY fxaccount_account_verified_description2 "మీ దత్తాంశం సింక్ అగుట ప్రారంబించబడును.">
 
+<!ENTITY fxaccount_migration_finished_header "తాజాకరణ పూర్తయింది">
 
 <!ENTITY fxaccount_update_credentials_header "ప్రవేశించు">
 <!ENTITY fxaccount_update_credentials_button_label "ప్రవేశించు">
 <!ENTITY fxaccount_update_credentials_unknown_error "ప్రవేశించ లేకపోయాం">
 
+<!ENTITY fxaccount_finish_migrating_header "తాజాకరణను పూర్తి చేసేందుకు ప్రవేశించండి">
 
 
 
 <!ENTITY fxaccount_status_header2 "ఫైర్‌ఫాక్స్ ఖాతా">
 <!ENTITY fxaccount_status_signed_in_as "ఇలా ప్రవేశించారు">
 <!ENTITY fxaccount_status_auth_server "ఖాతా సేవకి">
-<!ENTITY fxaccount_status_sync_now "ఇప్పుడు సింక్ చేయి">
+<!ENTITY fxaccount_status_sync_now "ఇప్పుడే సింక్ చేయి">
 
 <!ENTITY fxaccount_status_device_name "పరికరం పేరు">
 <!ENTITY fxaccount_status_sync_server "సింక్ సేవిక">
@@ -211,7 +213,7 @@
 <!ENTITY fxaccount_status_bookmarks "ఇష్టాంశాలు">
 <!ENTITY fxaccount_status_history "చరిత్ర">
 <!ENTITY fxaccount_status_passwords "సంకేతపదాలు">
-<!ENTITY fxaccount_status_tabs "తెరచిన టాబ్‌లు">
+<!ENTITY fxaccount_status_tabs "తెరిచివున్న ట్యాబులు">
 <!ENTITY fxaccount_status_legal "చట్టబద్ధం" >
 <!-- Localization note: when tapped, the following two strings link to
      external web pages.  Compare fxaccount_policy_{linktos,linkprivacy}:
