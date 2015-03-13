@@ -53,8 +53,8 @@
   -  for editing commands in text inputs. -->
 <!ENTITY btnPageNet.accesskeyMacOSX "t">
 <!ENTITY btnPageCSS.label   "CSS">
-<!ENTITY btnPageCSS.tooltip2 "Log CSS errors and warnings">
-<!ENTITY btnPageCSS.accesskey "п">
+<!ENTITY btnPageCSS.tooltip2 "Вести журнал помилок і попереджень CSS">
+<!ENTITY btnPageCSS.accesskey "ж">
 <!ENTITY btnPageJS.label    "JS">
 <!ENTITY btnPageJS.tooltip  "Записувати у журнал винятки JavaScript">
 <!ENTITY btnPageJS.accesskey  "в">
