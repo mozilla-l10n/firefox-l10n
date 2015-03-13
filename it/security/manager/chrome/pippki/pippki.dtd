@@ -33,12 +33,6 @@
 <!ENTITY pkcs12.setpassword.reminder "Importante: se si dovesse scordare la password della copia di backup, non sarà possibile recuperare successivamente il contenuto. Si consiglia di conservare la password in un luogo sicuro.">
 <!ENTITY chooseToken.title "Scelta token">
 <!ENTITY chooseToken.message1 "Selezionare un token.">
-<!ENTITY escrowWarn.title "Copia chiave di cifratura">
-<!ENTITY escrowWarn.message1 "Importante: questa autorità di certificazione chiede che venga effettuata una copia di backup della chiave privata di cifratura.">
-<!ENTITY escrowWarn.benefit1 "Il vantaggio è che se non si riuscisse più ad accedere alla chiave privata di cifratura, è possibile richiederne una copia a questa autorità di certificazione.">
-<!ENTITY escrowWarn.message2 "In ogni caso, la chiave privata di cifratura verrà archiviata dall’autorità di certificazione, e potrebbe essere utilizzata per leggere la posta cifrata senza permesso.">
-<!ENTITY examineCert.label "Visualizza certificato">
-<!ENTITY examineCert.accesskey "E">
 <!ENTITY createCertInfo.title "Genera una chiave privata">
 <!ENTITY createCertInfo.msg1 "Generazione chiave in corso… L’elaborazione potrebbe richiedere alcuni minuti.">
 <!ENTITY createCertInfo.msg2 "Attendere…">
