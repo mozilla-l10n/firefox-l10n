@@ -13,9 +13,9 @@
 <!ENTITY profilerUI.clearButton "Cancella">
 <!ENTITY profilerUI.toolbar.waterfall "Sequenza temporale">
 <!ENTITY profilerUI.toolbar.js-calltree "JavaScript">
-<!ENTITY profilerUI.toolbar.memory-calltree "Memoria">
+<!ENTITY profilerUI.toolbar.memory-calltree1 "Allocazioni">
 <!ENTITY profilerUI.toolbar.js-flamegraph "Flame chart JS">
-<!ENTITY profilerUI.toolbar.memory-flamegraph "Flame chart memoria">
+<!ENTITY profilerUI.toolbar.memory-flamegraph1 "Flame chart allocazioni">
 <!ENTITY profilerUI.table.totalDuration2 "Tempo totale">
 <!ENTITY profilerUI.table.selfDuration2 "Tempo individuale">
 <!ENTITY profilerUI.table.totalPercentage "Costo totale">
