@@ -72,8 +72,8 @@
 <!-- LOCALIZATION NOTE (options.enableChrome.label4): This is the label for the
   -  checkbox that toggles chrome debugging, i.e. devtools.chrome.enabled
   -  boolean preference in about:config, in the options panel. -->
-<!ENTITY options.enableChrome.label4   "Ativar chrome e a depuração do extra">
-<!ENTITY options.enableChrome.tooltip2 "Se ativar esta opção, pode utilizar várias ferramentas de programação no contexto do navegador">
+<!ENTITY options.enableChrome.label5   "Ativar o navegador chrome e a depuração do extra">
+<!ENTITY options.enableChrome.tooltip3 "Se ativar esta opção, pode utilizar várias ferramentas de programação no contexto do navegador">
 
 <!-- LOCALIZATION NOTE (options.enableRemote.label3): This is the label for the
   -  checkbox that toggles remote debugging, i.e. devtools.debugger.remote-enabled
@@ -153,7 +153,7 @@
   -  panel. -->
 <!ENTITY options.profiler.label            "Perfil JavaScript">
 
-<!-- LOCALICATION NOTE (options.commonprefs): This is the label for the heading
+<!-- LOCALIZATION NOTE (options.commonprefs): This is the label for the heading
       of all preferences that affect both the Web Console and the Network
       Monitor -->
 <!ENTITY options.commonPrefs.label           "Preferências comuns">
