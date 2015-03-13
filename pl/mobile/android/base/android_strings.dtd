@@ -331,8 +331,10 @@ size. -->
 <!ENTITY site_settings_clear        "Wyczyść">
 <!ENTITY site_settings_no_settings  "Brak ustawień">
 
-<!ENTITY reading_list_added "Strona dodana do listy „Do przeczytania”">
-<!ENTITY reading_list_duplicate "Strona jest już na liście „Do przeczytania”">
+<!ENTITY reading_list_added "Strona dodana do czytelni">
+<!ENTITY reading_list_removed "Strona usunięta z czytelni">
+<!ENTITY reading_list_remove "Usuń z czytelni">
+<!ENTITY reading_list_duplicate "Strona została już dodana do czytelni">
 <!ENTITY reading_list_time_minutes2 "&formatD; min">
 <!ENTITY reading_list_time_over_an_hour "Ponad godzinę">
 
