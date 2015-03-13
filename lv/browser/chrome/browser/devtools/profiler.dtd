@@ -42,9 +42,11 @@
 <!ENTITY profilerUI.clearButton "Notīrīt">
 <!-- LOCALIZATION NOTE (profilerUI.toolbar.*): These strings are displayed
   -  in the toolbar on buttons that select which view is currently shown. -->
+
+<!ENTITY profilerUI.toolbar.waterfall "Laika līnija">
 <!ENTITY profilerUI.toolbar.js-calltree "JavaScript">
 <!ENTITY profilerUI.toolbar.memory-calltree "Atmiņa">
-
+<!ENTITY profilerUI.toolbar.js-flamegraph "JS Flame grafiks">
 <!ENTITY profilerUI.toolbar.memory-flamegraph "Atmiņas grafiks">
 <!-- LOCALIZATION NOTE (profilerUI.table.*): These strings are displayed
   -  in the call tree headers for a recording. -->
@@ -80,11 +82,13 @@
   -  is displayed in the profiler. -->
 
 <!ENTITY profilerUI.showPlatformData             "Rādīt Gecko platformas datus">
-
+<!ENTITY profilerUI.showPlatformData.tooltiptext "Platformas datu attēlošana aktivē iespēju, ka JavaScript profilatora ziņojumos tiks iekļauti Gecko platformas simboli.">
 <!-- LOCALIZATION NOTE (profilerUI.flattenTreeRecursion): This is the
   -  label for the checkbox that toggles the flattening of tree recursion in inspected
   -  functions in the profiler. -->
 
+<!ENTITY profilerUI.flattenTreeRecursion             "Saplacināt koka rekursijas">
+<!ENTITY profilerUI.flattenTreeRecursion.tooltiptext "Saplacināt rekursijas izmeklējot funkcijas.">
 <!-- LOCALIZATION NOTE (profilerUI.enableMemory): This string
   -  is displayed next to a checkbox determining whether or not memory
   -  measurements are enabled. -->
