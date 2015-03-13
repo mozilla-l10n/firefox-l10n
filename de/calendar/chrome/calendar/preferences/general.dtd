@@ -33,6 +33,10 @@
 <!ENTITY pref.default_task_offset_start.label "In Relation zum Beginn">
 <!ENTITY pref.default_task_offset_next_hour.label "In Relation zur folgenden Stunde">
 
+<!ENTITY pref.calendar.todaypane.agenda.caption "Tagesplan">
+<!ENTITY pref.soondays.label "Der Bereich &quot;Demnächst&quot; zeigt:">
+<!ENTITY pref.soondays.accesskey "m">
+
 <!ENTITY pref.accessibility.label "Barrierefreiheit">
 <!ENTITY pref.systemcolors.label "Farben für eine barrierefreie Darstellung optimieren">
 <!ENTITY pref.systemcolors.accesskey "F">
