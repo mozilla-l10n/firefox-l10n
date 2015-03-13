@@ -22,9 +22,9 @@
 <!ENTITY contextManual.label "Rhedeg â Llaw">
 <!ENTITY contextManual.accesskey "L">
 <!ENTITY contextBeforeCls.label "Hidlo cyn Dynodi fel Sbam">
-<!ENTITY contextAfterCls.label "Hidlo wedi Dynodi fel Sbam">
+<!ENTITY contextAfterCls.label "Hidlo ar ôl Dynodi fel Sbam">
 <!ENTITY contextOutgoing.label "Ar ôl Anfon">
-<!ENTITY contextOutgoing.accesskey "A">
+<!ENTITY contextOutgoing.accesskey "ô">
 <!ENTITY contextArchive.label "Archifo">
 <!ENTITY contextArchive.accesskey "A">
 

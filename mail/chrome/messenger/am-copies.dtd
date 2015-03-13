@@ -19,10 +19,10 @@
 <!ENTITY bccAddress.accesskey "B">
 <!ENTITY bccAddressList.placeholder "Gwahanu cyfeiriad gyda chollnod">
 <!ENTITY saveMessageDlg.label "Dangos deialog cadarnhau wrth i negeseuon gael eu cadw">
-<!ENTITY saveMessageDlg.accesskey "D">
+<!ENTITY saveMessageDlg.accesskey "g">
 <!-- LOCALIZATION NOTE (sentFolderOn.label): OK to translate this, bug #57440 -->
 <!ENTITY sentFolderOn.label "Ffolder &quot;Anfonwyd&quot; ar:">
-<!ENTITY sentFolderOn.accesskey "A">
+<!ENTITY sentFolderOn.accesskey "n">
 <!ENTITY sentInOtherFolder.label "Arall:">
 <!ENTITY sentInOtherFolder.accesskey "A">
 <!-- LOCALIZATION NOTE (archivesFolderOn.label): OK to translate this, bug #57440 -->
@@ -30,9 +30,9 @@
 <!ENTITY keepArchives.label "Cadw archif negeseuon yn:">
 <!ENTITY keepArchives.accesskey "a">
 <!ENTITY archiveHierarchyButton.label "Dewisiadau archifo…">
-<!ENTITY archiveHierarchyButton.accesskey "D">
+<!ENTITY archiveHierarchyButton.accesskey "w">
 <!ENTITY archivesFolderOn.label "Ffolder &quot;Archif&quot; yn:">
-<!ENTITY archivesFolderOn.accesskey "A">
+<!ENTITY archivesFolderOn.accesskey "F">
 <!ENTITY archiveInOtherFolder.label "Arall:">
 <!ENTITY archiveInOtherFolder.accesskey "r">
 <!ENTITY specialFolders.label "Drafftiau a Thempledi">
@@ -47,4 +47,4 @@
 <!ENTITY templatesFolderOn.label "Ffolder &quot;Templedi&quot; yn:">
 <!ENTITY templatesFolderOn.accesskey "T">
 <!ENTITY templateInOtherFolder.label "Arall:">
-<!ENTITY templateInOtherFolder.accesskey "A">
+<!ENTITY templateInOtherFolder.accesskey "r">
