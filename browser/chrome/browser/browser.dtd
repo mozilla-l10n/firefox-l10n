@@ -610,7 +610,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY quitApplicationCmdWin2.accesskey   "z">
 <!ENTITY quitApplicationCmdWin2.tooltip     "Aizvērt &brandShortName;">
 <!ENTITY goBackCmd.commandKey "[">
-
+<!ENTITY goForwardCmd.commandKey "]">
 <!ENTITY quitApplicationCmd.label       "Iziet"> 
 <!ENTITY quitApplicationCmd.accesskey   "e">
 <!ENTITY quitApplicationCmdMac2.label   "Iziet no &brandShortName;">
@@ -774,12 +774,12 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY trackingContentBlocked.message "Sekošana">
 <!ENTITY trackingContentBlocked.moreinfo "Daļa no lapas, kas seko jūsu aktivitātei internetā tika bloķēta.">
-
-
+<!ENTITY trackingContentBlocked.learnMore "Uzzināt vairāk">
+<!ENTITY trackingContentBlocked.options "Iestatījumi">
 <!ENTITY trackingContentBlocked.unblock2.label "Deaktivēt aizsardzību šajā lapā">
 <!ENTITY trackingContentBlocked.unblock2.accesskey "D">
-
-
+<!ENTITY trackingContentBlocked.block.label "Aktivēt aizsardzību">
+<!ENTITY trackingContentBlocked.block.accesskey "b">
 <!ENTITY trackingContentBlocked.disabled.message "Sekošanas aizsardzība ir deaktivēta">
 
 <!ENTITY pointerLock.notification.message "Nospiediet ESC lai to atkal parādītu.">
@@ -799,6 +799,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY pluginNotification.width "28em">
 
+<!ENTITY uiTour.infoPanel.close "Aizvērt">
 
 <!ENTITY appMenuSidebars.label         "Sānu joslas">
 
@@ -847,9 +848,13 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY readingList.label                        "Lasīšanas saraksts">
 <!ENTITY readingList.sidebar.commandKey           "R">
-
+<!ENTITY readingList.showSidebar.label            "Rādīt lasīšanas saraksta sānu joslu">
 <!-- Pre-landed string for bug 1124153 -->
+<!ENTITY readingList.sidebar.showMore.label       "Rādīt vairāk...">
 <!-- Pre-landed string for bug 1133662 -->
+<!ENTITY readingList.sidebar.emptyText            "Pievienojiet rakstus savam lasīšanas sarakstam, lai vēlāk tos ērti atrastu.">
 <!-- Pre-landed string for bug 1123525 -->
+<!ENTITY readingList.sidebar.delete.tooltip       "Aizvākt šo no lasīšanas saraksta">
 <!-- Pre-landed strings for bug 1123519 -->
+<!ENTITY readingList.sidebar.add.label            "Pievienot lasīšanas sarakstam">
 <!ENTITY readingList.sidebar.add.tooltip          "Pievienot šo lapu lasīšanas sarakstam">

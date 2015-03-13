@@ -203,8 +203,12 @@
 <!ENTITY netmonitorUI.timings.receive     "Saņemšana:">
 <!-- LOCALIZATION NOTE (netmonitorUI.security.warning.protocol): A tooltip
   -  for warning icon that indicates a connection uses insecure protocol. -->
+
+<!ENTITY netmonitorUI.security.warning.sslv3      "SSL 3.0 protokols ir novecojis un nedrošs.">
 <!-- LOCALIZATION NOTE (netmonitorUI.security.warning.cipher): A tooltip
   -  for warning icon that indicates a connection uses insecure cipher suite. -->
+
+<!ENTITY netmonitorUI.security.warning.cipher     "Šajā šifrēšana izmantotais jaucējs ir novecojis un nedrošs.">
 <!-- LOCALIZATION NOTE (netmonitorUI.security.error): This is the label displayed
   -  in the security tab if a security error prevented the connection. -->
 
