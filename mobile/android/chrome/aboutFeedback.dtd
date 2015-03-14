@@ -17,9 +17,9 @@
 <!-- LOCALIZATION NOTE (support.link): Avoid leading/trailing spaces, this text is a link. -->
 <!-- LOCALIZATION NOTE (support.post): Include a starting space as needed. -->
 
-<!ENTITY support.pre3              "ఇక్కడ సందర్శించండి ">
-<!ENTITY support.link2             "తోడ్పాటు సైట్">
-<!ENTITY support.post3             " సందర్శించి ఉమ్మడి సమస్యలపై సమాధానాలు పొందండి.">
+<!ENTITY support.pre3              "మా ">
+<!ENTITY support.link2             "తోడ్పాటు సైటును">
+<!ENTITY support.post3             " సందర్శించి సామాన్య సమస్యలకు పరిష్కారాలు పొందండి.">
 
 <!ENTITY happy.header              "వినడానికి ఇంపుగా ఉంది!">
 <!-- LOCALIZATION NOTE (happy.message): "share the love" — This feels purposely exaggerated in English,
@@ -37,8 +37,8 @@
 
 <!ENTITY sad.header                "అయ్యో!">
 <!ENTITY sad.message               "&brandShortName;‌తో మీకు సమస్యలు వచ్చినందుకు మేము చింతిస్తున్నాము. ఏమైందో మాకు చెప్పండి దాన్ని మేము పరిష్కరిస్తాం.">
-<!ENTITY sad.placeholder           "మీ స్పందనను ఇక్కడ ప్రవేశపెట్టండి">
-<!ENTITY sad.lastSite2             "అఖరిగా సందర్శించిన సైట్ చేర్చు">
+<!ENTITY sad.placeholder           "మీ ప్రతిస్పందనను ఇక్కడ ఇవ్వండి">
+<!ENTITY sad.lastSite2             "చివరగా చూసిన సైటును చేర్చు">
 <!-- LOCALIZATION NOTE (sad.urlPlaceholder): Placeholder text that appears in "Last visited site" input box when there is no text. -->
 
 <!ENTITY sad.urlPlaceholder        "http://">

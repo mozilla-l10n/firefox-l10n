@@ -393,7 +393,7 @@ size. -->
 <!ENTITY button_set "అమర్చు">
 <!ENTITY button_clear "తుడిచివేయి">
 
-<!ENTITY home_top_sites_title "పై సైట్లు">
+<!ENTITY home_top_sites_title "మేటి సైట్లు">
 <!-- Localization note (home_top_sites_add): This string is used as placeholder
      text underneath empty thumbnails in the Top Sites page on about:home. -->
 <!ENTITY home_top_sites_add "ఓ సైటును చేర్చండి">
@@ -461,7 +461,7 @@ size. -->
 <!ENTITY remote_tabs_panel_moved_desc "మేము మీ టాబ్‌లను ఇతర పరికరాలనుండి మీ ముంగిలిపేజీ పైని ప్యానల్‌కు మార్చాము మీరు కొత్త టాబ్ తెరిచిన ప్రతిసారి మీరు వాటిని సులువుగా ఏక్సెస్ చేయవచ్చు.">
 <!ENTITY remote_tabs_panel_moved_link "నన్ను నా కొత్త ప్యానల్‌కు తీసుకుపో.">
 
-<!ENTITY pin_site_dialog_hint "అన్వేషణ కీపదం ప్రవేశపెట్టండి">
+<!ENTITY pin_site_dialog_hint "వెతికె పదాన్ని ఇవ్వండి">
 
 <!ENTITY filepicker_title "ఫైలును ఎంచుకోండి">
 <!ENTITY filepicker_audio_title "ఒక శబ్దాన్ని ఎంచండి లేదా రికార్డ్ చేయండి">
