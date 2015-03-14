@@ -37,8 +37,8 @@
 
 
 <!ENTITY priorityColumn.label "Muhimlik darajasi">
-
-
+<!ENTITY tagsColumn.label "Teglar">
+<!ENTITY accountColumn.label "Hisob">
 <!ENTITY statusColumn.label "Holati">
 
 
@@ -47,7 +47,7 @@
 
 
 
-
+<!ENTITY locationColumn.label "Manzili">
 
 <!-- Thread Pane Tooltips -->
 

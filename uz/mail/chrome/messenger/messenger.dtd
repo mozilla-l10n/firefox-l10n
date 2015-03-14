@@ -426,9 +426,9 @@
 
 
 
-
-
-
+<!ENTITY imStatus.available          "Mavjud">
+<!ENTITY imStatus.unavailable        "Mavjud emas">
+<!ENTITY imStatus.offline            "Oflayn">
 
 
 
@@ -462,7 +462,7 @@
 
 <!-- Mail Toolbar -->
 
-
+<!ENTITY replyButton.label "Javob qaytarish">
 
 
 
@@ -552,6 +552,8 @@
 
 <!-- Folder Pane -->
 
+<!ENTITY folderNameColumn.label "Nomi">
+
 
 
 <!-- Folder Pane Context Menu -->
@@ -607,7 +609,7 @@
 
 <!ENTITY priorityColumn.label "Muhimlik darajasi">
 
-
+<!ENTITY accountColumn.label "Hisob">
 <!ENTITY statusColumn.label "Holati">
 
 
@@ -616,7 +618,7 @@
 
 
 
-
+<!ENTITY locationColumn.label "Manzili">
 
 
 <!-- Thread Pane Tooltips -->

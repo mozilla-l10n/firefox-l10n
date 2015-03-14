@@ -182,6 +182,7 @@ because displayed names don't have the comma in between. -->
 
 
 <!-- Special Box Headings, for mailing lists -->
+<!ENTITY description.heading                            "Ta’rifi">
 
 <!-- For Map It! -->
 
