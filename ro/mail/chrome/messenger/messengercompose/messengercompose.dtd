@@ -63,7 +63,7 @@
 <!ENTITY editMenu.accesskey "E">
 <!ENTITY undoCmd.label "Anulează">
 <!ENTITY undoCmd.key "Z">
-<!ENTITY undoCmd.accesskey "l">
+<!ENTITY undoCmd.accesskey "u">
 <!ENTITY redoCmd.label "Restaurează">
 <!ENTITY redoCmd.key "Y">
 <!ENTITY redoCmd.accesskey "R">
@@ -263,7 +263,7 @@
 <!ENTITY spellCheckAddToDictionary.label "Adaugă în dicționar">
 <!ENTITY spellCheckAddToDictionary.accesskey "n">
 <!ENTITY undo.label "Anulează">
-<!ENTITY undo.accesskey "l">
+<!ENTITY undo.accesskey "u">
 <!ENTITY cut.label "Taie">
 <!ENTITY cut.accesskey "T">
 <!ENTITY copy.label "Copiază">
