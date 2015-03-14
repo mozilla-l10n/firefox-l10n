@@ -530,6 +530,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY updater_downloading_select2 "దించుకున్న నవీకరణను ఆపాదించడానికి తాకండి">
 <!ENTITY updater_downloading_retry2 "మళ్ళీ ప్రయత్నించడానికి తాకండి">
 
+<!ENTITY updater_apply_title2 "&brandShortName;‌కి నవీకరణ అందుబాటులో ఉంది">
 <!ENTITY updater_apply_select2 "నవీకరించడానికి తాకండి">
 <!-- Guest mode -->
 
