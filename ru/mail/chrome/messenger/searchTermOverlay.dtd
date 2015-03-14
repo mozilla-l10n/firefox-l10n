@@ -6,7 +6,7 @@
 <!ENTITY matchAll.accesskey "ы">
 <!ENTITY matchAny.label "Выполнении любого из условий">
 <!ENTITY matchAny.accesskey "л">
-<!ENTITY matchAllMsgs.label "Без условий">
+<!ENTITY matchAllMsgs.label "Без каких-либо условий">
 <!ENTITY matchAllMsgs.accesskey "е">
 <!ENTITY searchTermListAttributesFlexValue "1">
 <!ENTITY searchTermListOperatorsFlexValue "1">
