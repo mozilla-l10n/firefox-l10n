@@ -28,19 +28,16 @@
 
 <!ENTITY dataChoicesTab.label            "ഡേറ്റാ ഇഷ്ടങ്ങള്‍">
 
-<!ENTITY healthReportSection.label       "&brandShortName; ആരോഗ്യ റിപ്പോര്‍ട്ട്">
 <!ENTITY healthReportDesc.label          "നിങ്ങളുടെ ബ്രൌസറിന്റെ പ്രവര്‍ത്തനം മനസ്സിലാക്കുവാന്‍ സഹായിയ്ക്കുന്നു, ബ്രൌസര്‍ വിവരങ്ങള്‍ &vendorShortName;-മായി പങ്കിടുന്നു">
 <!ENTITY enableHealthReport.label        "&brandShortName;  ആരോഗ്യ വിവരപ്പട്ടിക സജ്ജമാക്കുക">
 <!ENTITY enableHealthReport.accesskey    "R">
 <!ENTITY healthReportLearnMore.label     "കൂടുതല്‍ അറിയുക">
 
-<!ENTITY telemetrySection.label          "ടെലിമെട്രി">
 <!ENTITY telemetryDesc.label             "പ്രകടനം, ഉപയോഗം, ഹാർഡ്‌വെയർ തുടങ്ങിയ വിവരങ്ങൾ &vendorShortName; -മായി പങ്കു വെയ്ക്കുക.  &brandShortName;  മെച്ചപ്പെടുത്തുവാൻ സഹായിക്കുക.">
-<!ENTITY enableTelemetry.label           "ടെലിമട്രി പ്രവര്‍ത്തന സജ്ജമാക്കുക">
-<!ENTITY enableTelemetry.accesskey       "മ">
+
+
 <!ENTITY telemetryLearnMore.label        "കൂടുതല്‍ അറിയുക">
 
-<!ENTITY crashReporterSection.label      "തകരാര്‍ രേഖപ്പെടുത്തുന്ന പ്രയോഗം">
 <!ENTITY crashReporterDesc.label         "&brandShortName; തകർച്ചാവിവരങ്ങൾ &vendorShortName; -മായി പങ്കുവെച്ച് നിങ്ങളുടെ ബ്രൗസർ മെച്ചപ്പെടുത്തുന്നു.">
 <!ENTITY enableCrashReporter.label       "തകർച്ചാനിരീക്ഷണം സജ്ജമാക്കുക.">
 <!ENTITY enableCrashReporter.accesskey   "C">

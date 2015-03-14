@@ -11,18 +11,14 @@
 
 
 <!ENTITY connectionFailure.title "കണക്ട്‌ ചെയ്യുവാന്‍ സാധിച്ചില്ല">
-<!ENTITY connectionFailure.longDesc "&sharedLongDesc2;">
+
 
 <!ENTITY deniedPortAccess.title "ഈ വിലാസം നിരോധിക്കപ്പെട്ടതാണ്‌ ">
 <!ENTITY deniedPortAccess.longDesc "">
 
 <!ENTITY dnsNotFound.title "സെര്‍വര്‍ കണ്ടെത്താനായില്ല">
-<!ENTITY dnsNotFound.longDesc2 "<ul> 
-<li>വിലാസത്തിലുള്ള ടൈപ്പിങ്ങ് തെറ്റുകൾ നോക്കുക 
-<strong>ww</strong>.example.com നു പകരം 
-<strong>www</strong>.example.com</li> 
-<li>നിങ്ങക്കൾക്ക് ഏതെങ്കിലും താൾ തുറക്കാൻ സാധിക്കുനില്ലെങ്കിൽ, നിങ്ങളുടെ ഉപകരണത്തിത്തിന്റെ ഡേറ്റാ അല്ലെങ്കിൽ വൈ-ഫൈ കണക്ഷൻ നോക്കുക.</li> 
-</ul>">
+<!-- LOCALIZATION NOTE (dnsNotFound.longDesc4) This string contains markup including widgets for searching
+     or enabling wifi connections. The text inside tags should be localized.  Do not change the ids. -->
 
 <!ENTITY fileNotFound.title "ഫയല്‍ കാണ്‍മാനില്ല">
 <!ENTITY fileNotFound.longDesc "<ul> 
@@ -35,23 +31,18 @@
 <!ENTITY generic.longDesc "<p>ചില കാരണങ്ങളാല്‍ &brandShortName;-ന്‌ ഈ താള്‍ ലോഡ്‌ ചെയ്യുവാന്‍ സാധ്യമല്ല</p>">
 
 <!ENTITY malformedURI.title "വിലാസം വാലിഡ്‌ അല്ല">
-<!ENTITY malformedURI.longDesc "<ul> 
-<li>വെബിന്റെ വിലാസങ്ങള്‍ സാധാരണ ഇപ്രകാരമാണ് എഴുതുന്നത്: 
-<strong>http://www.example.com/</strong></li> 
-<li>മുന്നോട്ടുള്ള സ്ളാഷ് ആണുപയോഗിക്കുന്നത് എന്നുറപ്പാക്കുക (അതായത്, 
-<strong>/</strong>).</li> 
-</ul>">
+<!-- LOCALIZATION NOTE (malformedURI.longDesc2) This string contains markup including widgets for searching
+     or enabling wifi connections. The text inside the tags should be localized. Do not touch the ids. -->
 
 <!ENTITY netInterrupt.title "ഈ കണക്ഷന്‍ തടസ്സപ്പെട്ടിരിക്കുന്നു">
-<!ENTITY netInterrupt.longDesc "&sharedLongDesc2;">
+
 
 <!ENTITY notCached.title "രേഖയുടെ കാലാവധി കഴിഞ്ഞിരിയ്ക്കുന്നു">
 <!ENTITY notCached.longDesc "<p>&brandShortName; -ന്റെ ക്യാഷില്‍ ആവശ്യപ്പെട്ട രേഖ ലഭ്യമല്ല.</p><ul><li>സുരക്ഷ എന്ന നിലയില്‍, സെന്‍സിറ്റീവ് രേഖകള്‍ക്കായി &brandShortName; ഓട്ടോമാറ്റിക്കായി വീണ്ടും ആവശ്യപ്പെടുന്നില്ല.</li><li>വെബ്സൈറ്റില്‍ നിന്നും രേഖ വീണ്ടും ആവശ്യപ്പെടുന്നതിനായി വീണ്ടും ശ്രമിയ്ക്കുക ക്ലിക്ക് ചെയ്യുക.</li></ul>">
 
 <!ENTITY netOffline.title "ഓഫ്‌ലൈന്‍ മോഡ്‌">
-<!ENTITY netOffline.longDesc2 "<ul> 
-<li> വീണ്ടും ശ്രമിക്കുക. &brandShortName; ഒരു കണക്ഷൻ തുറക്കാൻ ശ്രമിക്കുകയും താൾ വീണ്ടും ലഭ്യമാക്കുകയും ചെയ്യും.</li> 
-</ul>">
+<!-- LOCALIZATION NOTE (netOffline.longDesc3) This string contains markup including widgets enabling wifi connections.
+     The text inside the tags should be localized. Do not touch the ids. -->
 
 <!ENTITY contentEncodingError.title "ഉള്ളടക്കം എന്‍കോഡ് ചെയ്യുന്നതില്‍ പിശകു്">
 <!ENTITY contentEncodingError.longDesc "<ul> 
@@ -64,10 +55,10 @@
 </ul>">
 
 <!ENTITY netReset.title "കണക്ഷന്‍ റീസെറ്റ്‌ ചെയ്യപ്പെട്ടിരിക്കുന്നു ">
-<!ENTITY netReset.longDesc "&sharedLongDesc2;">
+
 
 <!ENTITY netTimeout.title "കണക്ഷന്റെ സമയം കഴിഞ്ഞിരിക്കുന്നു">
-<!ENTITY netTimeout.longDesc "&sharedLongDesc2;">
+
 
 <!ENTITY unknownProtocolFound.title "വിലാസം മനസ്സിലാക്കുവാന്‍ സാധിച്ചില്ല">
 <!ENTITY unknownProtocolFound.longDesc "<ul> 
@@ -78,10 +69,8 @@
 <!ENTITY proxyConnectFailure.longDesc "<ul><li>പ്രോക്സി സെറ്റിങ്ങുകള്‍ ശരിയാണ്‌ എന്ന് ഉറപ്പുവരുത്തുക.</li><li> പ്രോക്സി സെര്‍വര്‍ പ്രവര്‍ത്തിക്കുന്നുവെന്ന് ഉറപ്പ്‌ വരുത്തുവാനായി നെറ്റ്‌വര്‍ക്‌ ഉപ്ദേഷ്ടാവുമായി ബന്ധപ്പെടുക</li></ul>">
 
 <!ENTITY proxyResolveFailure.title "പ്രോക്സി സെര്‍വര്‍ കണ്ടെത്താനായില്ല ">
-<!ENTITY proxyResolveFailure.longDesc2 "<ul> 
-<li>പ്രോക്സി സജ്ജീകരണങ്ങള്‍ ശരിയെന്നുറപ്പാക്കുക</li> 
-<li>ഉപകരണത്തിനു് ഡേറ്റാ അല്ലെങ്കില്‍ വൈ-ഫൈ കണക്ഷനുണ്ടെന്നുറപ്പാക്കുക.</li> 
-</ul>">
+<!-- LOCALIZATION NOTE (proxyResolveFailure.longDesc3) This string contains markup including widgets for enabling wifi connections.
+     The text inside the tags should be localized. Do not touch the ids. -->
 
 <!ENTITY redirectLoop.title "ഈ താള്‍ ശരിയായി റീഡയറക്ട്‌ ചെയുന്നില്ല ">
 <!ENTITY redirectLoop.longDesc "<ul><li>ഈ പ്രശ്നം ചിലപ്പോള്‍ കുക്കികള്‍ നിഷേധിക്കുന്നതു കൊണ്ടോ, കുക്കികള്‍ നിര്‍വീര്യമാക്കുന്നതു കൊണ്ടോ സംഭവിക്കുന്നതാവാം</li></ul>">
@@ -103,14 +92,11 @@
 <li>സര്‍വറിന്റെ ക്രമീകരണത്തിലുള്ള പിശക് അല്ലെങ്കില്‍ ആരെങ്കിലും സര്‍വറിലേക്കു് അനധികൃതമായി കടക്കുവാന്‍ ശ്രമിക്കുന്നതാവും കാരണം.</li> 
 <li>നിങ്ങള്‍ക്കു് ഇതിനു് മുമ്പു് ഈ സര്‍വറിലേക്കു് കണക്ട് ചെയ്യുവാന്‍ സാധിച്ചു എങ്കില്‍, ഇതു് വെറും ഒരു താല്‍ക്കാലിക പ്രശ്നം മാത്രം ആവാം, അതുകൊണ്ടു് ദയവായി പിന്നീടു് ശ്രമിക്കുക.</li> 
 </ul>">
+<!-- LOCALIZATION NOTE (sharedLongDesc3) This string contains markup including widgets for enabling wifi connections.
+     The text inside the tags should be localized. Do not touch the ids. -->
 
-<!ENTITY sharedLongDesc2 "<ul> 
-<li>ഈ സൈറ്റ് തല്‍ക്കാലം ലഭ്യമല്ല. അല്‍പ സമയത്തിനു് ശേഷം വീണ്ടും ശ്രമിയ്ക്കുക.</li> 
-<li>ഏതെങ്കിലും താള്‍ ലഭ്യമല്ലെങ്കില്‍, ദയവായി ഉപകരണത്തിന്റെ ഡേറ്റാ അല്ലെങ്കില്‍ വൈ-ഫൈ കണക്ഷന്‍ പരിശോധിയ്ക്കുക.</li> 
-</ul>">
-
-<!ENTITY cspFrameAncestorBlocked.title "ഉള്ളടക്കത്തിനുള്ള സുരക്ഷാ വ്യവസ്ഥകള്‍ കാരണം തടഞ്ഞിരിയ്ക്കുന്നു">
-<!ENTITY cspFrameAncestorBlocked.longDesc "<p>ഈ താളിന്റെ ഉള്ളടക്ക സുരക്ഷാ പോളിസി ഈ തരത്തില്‍ താള്‍ ലഭ്യമാക്കുന്നതു് അനുവദിയ്ക്കുന്നതല്ല, അതിനാല്‍ &brandShortName; ഇതു് തടയുന്നു.</p>">
+<!ENTITY cspBlocked.title "ഉള്ളടക്കത്തിനുള്ള സുരക്ഷാ വ്യവസ്ഥകള്‍ കാരണം തടഞ്ഞിരിയ്ക്കുന്നു">
+<!ENTITY cspBlocked.longDesc "<p>ഈ താളിന്റെ ഉള്ളടക്ക സുരക്ഷാ പോളിസി ഈ തരത്തില്‍ താള്‍ ലഭ്യമാക്കുന്നതു് അനുവദിയ്ക്കുന്നതല്ല, അതിനാല്‍ &brandShortName; ഇതു് തടയുന്നു.</p>">
 
 <!ENTITY corruptedContentError.title "തകരാറുള്ള ഉള്ളടക്ക പിശക്">
 <!ENTITY corruptedContentError.longDesc "<p>ഡേറ്റാ അയയ്ക്കുന്നതിലുള്ള പിശകു് കാരണം നിങ്ങള്‍ കാണുവാന്‍ ശ്രമിയ്ക്കുന്ന താള്‍ നിങ്ങള്‍ക്കു് കാണുവാന്‍ സാധ്യമല്ല.</p><ul><li>ഈ പ്രശ്നത്തെപ്പറ്റി ദയവായി വെബ്സൈറ്റിന്റെ ഉടമസ്ഥരെ അറിയിയ്ക്കുക.</li></ul>">

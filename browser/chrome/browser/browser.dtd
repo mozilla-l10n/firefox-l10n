@@ -56,21 +56,21 @@ can reach it easily. -->
 
 <!ENTITY tabCmd.label "പുതിയ റ്റാബ്‌ ">
 <!ENTITY tabCmd.accesskey "T">
-<!ENTITY tabCmd.commandkey "t">
+
 <!-- LOCALIZATION NOTE (openLocationCmd.label): "Open Location" is only
 displayed on OS X, and only on windows that aren't main browser windows, or
 when there are no windows but Firefox is still running. -->
 <!ENTITY openLocationCmd.label "വിലാസം തുറക്കുക...">
 <!ENTITY openFileCmd.label "ഫയല്‍ തുറക്കുക...">
 <!ENTITY openFileCmd.accesskey "O">
-<!ENTITY openFileCmd.commandkey "o">
+
 <!ENTITY printSetupCmd.label "താള്‍ സജ്ജീകരണം...">
 <!ENTITY printSetupCmd.accesskey "u">
 <!ENTITY printPreviewCmd.label "പ്രിന്റ് തിരനോട്ടം">
 <!ENTITY printPreviewCmd.accesskey "v">
 <!ENTITY printCmd.label "പ്രിന്റ് ചെയ്യുക...">
 <!ENTITY printCmd.accesskey "P">
-<!ENTITY printCmd.commandkey "p">
+
 
 <!ENTITY goOfflineCmd.label "ഓഫ്‌ലൈന്‍ ആയി പ്രവര്‍ത്തിക്കുക">
 <!ENTITY goOfflineCmd.accesskey "k">
@@ -82,19 +82,20 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY personalbarCmd.accesskey "B">
 <!ENTITY bookmarksToolbarItem.label "അടയാളക്കുറിപ്പിനുള്ള ടൂള്‍ബാറിലുള്ള വസ്തുക്കള്‍">
 
-<!ENTITY toolbarContextMenu.reloadAllTabs.label "എല്ലാ റ്റാബുകളും വീണ്ടും ലഭ്യമാക്കുക">
-<!ENTITY toolbarContextMenu.reloadAllTabs.accesskey "എ">
-<!ENTITY toolbarContextMenu.bookmarkAllTabs.label "എല്ലാ ടാബുകളും അടാളപ്പെടുത്തുക…">
-<!ENTITY toolbarContextMenu.bookmarkAllTabs.accesskey "എ">
-<!ENTITY toolbarContextMenu.undoCloseTab.label "റ്റാബ് അടയ്ക്കുന്നതു് വേണ്ടെന്നു് വയ്ക്കുക">
-<!ENTITY toolbarContextMenu.undoCloseTab.accesskey "വ">
+
+
+
+
+
 
 <!ENTITY pageSourceCmd.label "താളിന്റെ സ്രോതസ്സ്‌">
 <!ENTITY pageSourceCmd.accesskey "o">
-<!ENTITY pageSourceCmd.commandkey "u">
+
 <!ENTITY pageInfoCmd.label "താള്‍ വിവരങ്ങള്‍">
 <!ENTITY pageInfoCmd.accesskey "I">
-<!ENTITY pageInfoCmd.commandkey "i">
+
+
+
 <!-- LOCALIZATION NOTE (enterFullScreenCmd.label, exitFullScreenCmd.label):
 These should match what Safari and other Apple applications use on OS X Lion. -->
 <!ENTITY enterFullScreenCmd.label "സ്ക്രീന്‍ പൂര്‍ണ്ണവലിപ്പത്തില്‍">
@@ -103,7 +104,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY exitFullScreenCmd.accesskey "F">
 <!ENTITY fullScreenCmd.label "സ്കീന്‍ പൂര്‍ണ്ണ വലിപ്പത്തില്‍">
 <!ENTITY fullScreenCmd.accesskey "F">
-<!ENTITY fullScreenCmd.macCommandKey "f">
+
 <!ENTITY showAllTabsCmd.label "എല്ലാ റ്റാബുകളും കാണിക്കുക">
 <!ENTITY showAllTabsCmd.accesskey "A">
 
@@ -138,13 +139,13 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksMenu.accesskey "B">
 <!ENTITY bookmarkThisPageCmd.label "ഈ താള്‍ അടയാളപ്പെടുത്തുക">
 <!ENTITY editThisBookmarkCmd.label "ഈ അടയാളക്കുറിപ്പു് ചിട്ടപ്പെടുത്തുക">
-<!ENTITY bookmarkThisPageCmd.commandkey "d">
-<!ENTITY markPageCmd.commandkey "l">
+
+
 <!-- LOCALIZATION NOTE (findShareServices.label):
   -  Use the unicode ellipsis char, \u2026,
   -  or use "..." if \u2026 doesn't suit traditions in your locale. -->
 <!ENTITY sharePageCmd.label "ഈ താള്‍ പങ്കു് വയ്ക്കുക">
-<!ENTITY sharePageCmd.commandkey "S">
+
 <!ENTITY sharePageCmd.accesskey "ഈ">
 <!-- LOCALIZATION NOTE (shareLink.accesskey): must be different than the following share access keys -->
 
@@ -171,7 +172,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY reloadCmd.label              "വീണ്ടും ലഭ്യമാക്കുക">
 <!ENTITY reloadButton.tooltip         "ഈ താള്‍ വീണ്ടും തുറക്കുക">
 <!ENTITY stopCmd.label                "നിര്‍ത്തുക">
-<!ENTITY stopCmd.macCommandKey        ".">
+
 <!ENTITY stopButton.tooltip           "താള്‍ തുറക്കുന്നത്‌ നിര്‍ത്തുക">
 <!ENTITY goEndCap.tooltip             "അഡ്രസ്സ് ബാറിലുള്ള വിലാസത്തിലേക്കു പോകുക">
 <!ENTITY printButton.label            "പ്രിന്റ് ചെയ്യുക">
@@ -186,21 +187,18 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY tabGroupsButton.label        "റ്റാബ് ഗ്രൂപ്പുകള്‍">
 
 <!ENTITY bookmarksButton.label          "അടയാളങ്ങള്‍">
-<!ENTITY bookmarksCmd.commandkey "b">
 
-<!ENTITY bookmarksMenuButton.label          "അടയാളക്കുറിപ്പുകള്‍">
-<!ENTITY bookmarksMenuButton.unsorted.label "ക്രമത്തിലാക്കത്ത അടയാളക്കുറിപ്പുകള്‍">
+
+
 <!ENTITY viewBookmarksSidebar2.label        "അടയാളക്കുറിപ്പുകള്‍ക്കുള്ള ടൂള്‍ബാര്‍ കാണുക">
 <!ENTITY viewBookmarksToolbar.label         "അടയാളക്കുറിപ്പുകള്‍ക്കുള്ള ടൂള്‍ബാര്‍ കാണുക">
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
   -  key should not contain the letters A-F, since these are reserved
   -  shortcut keys on Linux. -->
 
-<!ENTITY bookmarksGtkCmd.commandkey "o">
-<!ENTITY bookmarksWinCmd.commandkey "i">
 
 <!ENTITY historyButton.label            "നാള്‍വഴി">
-<!ENTITY historySidebarCmd.commandKey   "h">
+
 
 <!ENTITY toolsMenu.label              "ഉപകരണങ്ങള്‍">
 <!ENTITY toolsMenu.accesskey          "T"> 
@@ -210,11 +208,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY downloads.label              "ഡൌണ്‍ലോഡുകള്‍">
 <!ENTITY downloads.accesskey          "D">
-<!ENTITY downloads.commandkey         "j">
-<!ENTITY downloadsUnix.commandkey     "y">
+
+
 <!ENTITY addons.label                 "ആഡ്‌-ഓണുകള്‍">
 <!ENTITY addons.accesskey             "A">
-<!ENTITY addons.commandkey            "A">
+
 
 
 
@@ -233,11 +231,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY remoteWebConsoleCmd.label    "വിദൂര വെബ് കണ്‍സോള്‍">
 
 <!ENTITY browserConsoleCmd.label      "ബ്രൌസര്‍ കണ്‍സോള്‍">
-<!ENTITY browserConsoleCmd.commandkey "j">
+
 <!ENTITY browserConsoleCmd.accesskey  "B">
 
 <!ENTITY inspectContextMenu.label     "എലമെന്റ് പരിശോധിയ്ക്കുക">
-<!ENTITY inspectContextMenu.accesskey "Q">
+
 
 <!ENTITY responsiveDesignTool.label   "റസ്പോണ്‍സീവ് രീതിയിലുള്ള കാഴ്ച">
 <!ENTITY responsiveDesignTool.accesskey "R">
@@ -265,6 +263,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY browserToolboxMenu.label     "ബ്രൌസര്‍ ടൂള്‍ബോക്സ്">
 <!ENTITY browserToolboxMenu.accesskey "സ">
+<!-- LOCALIZATION NOTE (browserContentToolboxMenu.label): This is the label for the
+  -  application menu item that opens the browser content toolbox UI in the Tools menu.
+  -  This toolbox allows to debug the chrome of the content process in multiprocess builds.  -->
 
 <!ENTITY devToolbarCloseButton.tooltiptext "ഡവലപ്പര്‍ ടൂള്‍ബാര്‍ അടയ്ക്കുക">
 <!ENTITY devToolbarMenu.label              "ഡവലപ്പര്‍ ടൂള്‍ബാര്‍">
@@ -279,7 +280,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY devToolbar.keytext                "F2">
 <!ENTITY devToolboxMenuItem.label          "ഉപകരണങ്ങള്‍ മാറ്റുക">
 <!ENTITY devToolboxMenuItem.accesskey      "മ">
-<!ENTITY devToolboxMenuItem.keytext        "I">
+
 
 <!ENTITY devToolbarToolsButton.tooltip     "ഡവലപ്പര്‍ ഉപകരണങ്ങള്‍ മാറ്റുക">
 <!ENTITY devToolbarOtherToolsButton.label  "കൂടുതല്‍ പ്രയോഗങ്ങള്‍">
@@ -290,7 +291,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fileMenu.label         "ഫയല്‍"> 
 <!ENTITY fileMenu.accesskey       "F">
 <!ENTITY newNavigatorCmd.label        "പുതിയ ജാലകം ">
-<!ENTITY newNavigatorCmd.key        "N">
+
 <!ENTITY newNavigatorCmd.accesskey      "N">
 <!ENTITY newPrivateWindow.label     "പുതിയ സ്വകാര്യ ജാലകം">
 <!ENTITY newPrivateWindow.accesskey "ല">
@@ -298,25 +299,25 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY editMenu.label         "ചിട്ടപ്പെടുത്തുക"> 
 <!ENTITY editMenu.accesskey       "E"> 
 <!ENTITY undoCmd.label            "പൂര്‍വ്വാവസ്ഥയിലാക്കുക">  
-<!ENTITY undoCmd.key            "Z">  
+
 <!ENTITY undoCmd.accesskey          "U"> 
 <!ENTITY redoCmd.label            "ആവര്‍ത്തിക്കുക">  
-<!ENTITY redoCmd.key            "Y">  
+
 <!ENTITY redoCmd.accesskey          "R"> 
 <!ENTITY cutCmd.label           "മുറിക്കുക">  
-<!ENTITY cutCmd.key             "X">  
+
 <!ENTITY cutCmd.accesskey         "t"> 
 <!ENTITY copyCmd.label            "പകര്‍ത്തുക">  
-<!ENTITY copyCmd.key            "C">  
+
 <!ENTITY copyCmd.accesskey          "C"> 
 <!ENTITY pasteCmd.label           "ഒട്ടിക്കുക">  
-<!ENTITY pasteCmd.key           "V">  
+
 <!ENTITY pasteCmd.accesskey         "P"> 
 <!ENTITY deleteCmd.label          "നിര്‍മാര്‍ജ്ജനം ചെയ്യുക">  
-<!ENTITY deleteCmd.key            "D">  
+
 <!ENTITY deleteCmd.accesskey        "D"> 
 <!ENTITY selectAllCmd.label         "എല്ലാം തെരഞ്ഞെടുക്കുക">  
-<!ENTITY selectAllCmd.key         "A">  
+
 <!ENTITY selectAllCmd.accesskey       "A"> 
 <!ENTITY preferencesCmd2.label       "ഐച്ഛികങ്ങള്‍">
 <!ENTITY preferencesCmd2.accesskey     "O">
@@ -325,7 +326,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY clearRecentHistory.label               "ഏറ്റവും പുതിയ നാള്‍വഴി വെടിപ്പാക്കുക…">
 
-<!ENTITY privateBrowsingCmd.commandkey          "P">
 
 <!ENTITY viewMenu.label         "കാണുക "> 
 <!ENTITY viewMenu.accesskey       "V"> 
@@ -346,16 +346,16 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY historyRestoreLastSession.label "മുമ്പുള്ള സെഷന്‍ വീണ്ടെടുക്കുക">
 
 <!ENTITY showAllHistoryCmd2.label "ഇതുവരെയുള്ള നാള്‍വഴി കാണിക്കുക">
-<!ENTITY showAllHistoryCmd.commandkey "H">
+
 
 <!ENTITY appMenuCustomize.label "യഥേഷ്ടം സജ്ജമാക്കുക">
 <!ENTITY appMenuCustomize.tooltip "മെനുവും ടൂള്‍ബാറുകള്‍ യഥേഷ്ടമാക്കുക">
 <!ENTITY appMenuCustomizeExit.label "യഥേഷ്ടമാക്കുന്നതില്‍ നിന്നും പുറത്ത് കടക്കുക">
 <!ENTITY appMenuCustomizeExit.tooltip "യഥേഷ്ടമാക്കുന്നത് പൂര്‍ത്തിയാക്കുക">
-<!ENTITY appMenuHistory.label "നാള്‍വഴി">
-<!ENTITY appMenuHistory.showAll.label "ഇതുവരെയുള്ള നാള്‍വഴി കാണിക്കുക">
-<!ENTITY appMenuHistory.clearRecent.label "ഏറ്റവും പുതിയ നാള്‍വഴി വെടിപ്പാക്കുക…">
-<!ENTITY appMenuHistory.restoreSession.label "മുമ്പുള്ള സെഷന്‍ വീണ്ടെടുക്കുക">
+
+
+
+
 <!ENTITY appMenuHistory.viewSidebar.label "നാള്‍വഴി സൈഡ്ബാര്‍ കാണുക.">
 <!ENTITY appMenuHelp.tooltip "സഹായ മെനു തുറക്കുക">
 
@@ -379,9 +379,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY customizeMenu.addMoreItems.label "കൂടുതല്‍ വസ്തുക്കള്‍ ചേര്‍ക്കുക...">
 <!ENTITY customizeMenu.addMoreItems.accesskey "ക">
 
-<!ENTITY openCmd.commandkey           "l">
 <!ENTITY urlbar.placeholder2          "വിലാസം തെരയുക അല്ലെങ്കില്‍ നല്‍കുക">
-<!ENTITY urlbar.accesskey             "d">
+
 <!ENTITY urlbar.switchToTab.label     "ഏതു് റ്റാബ്:">
 <!-- 
   Comment duplicated from browser-sets.inc:
@@ -404,11 +403,19 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
  -->
 
-<!ENTITY searchFocus.commandkey       "k">
-<!ENTITY searchFocus.commandkey2      "e">
-<!ENTITY searchFocusUnix.commandkey   "j">
 
-<!ENTITY tabView.commandkey           "e">
+<!-- LOCALIZATION NOTE (searchFor.label, searchWith.label):
+     These two strings are used to build the header above the list of one-click
+     search providers:  "Search for <used typed keywords> with:" -->
+
+<!-- LOCALIZATION NOTE (searchWithHeader.label):
+     The wording of this string should be as close as possible to
+     searchFor.label and searchWith.label. This string will be used instead of
+     them when the user has not typed any keyword. -->
+<!-- LOCALIZATION NOTE (changeSearchSettings.button):
+     This string won't wrap, so if the translated string is longer,
+     consider translating it as if it said only "Search Settings". -->
+
 
 <!ENTITY openLinkCmdInTab.label       "കണ്ണി പുതിയ റ്റാബില്‍ തുറക്കുക">
 <!ENTITY openLinkCmdInTab.accesskey   "T">
@@ -424,14 +431,13 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openFrameCmd.accesskey       "W">
 <!ENTITY showOnlyThisFrameCmd.label     "ഈ ഫ്രെയിം മാത്രം കാണിക്കുക ">
 <!ENTITY showOnlyThisFrameCmd.accesskey "S">
-<!ENTITY reloadCmd.commandkey         "r">
+
 <!ENTITY reloadFrameCmd.label         "ഫ്രെയിം വീണ്ടും തുറക്കുക">
 <!ENTITY reloadFrameCmd.accesskey     "R">
 <!ENTITY viewPartialSourceForSelectionCmd.label "തെരഞ്ഞെടുത്തതിന്റെ സ്രോതസ്സ്‌ കാണുക">
 <!ENTITY viewPartialSourceForMathMLCmd.label    "MathML സ്രോതസ്സ്‌ കാണുക">
 <!-- LOCALIZATION NOTE (viewPartialSourceCmd.accesskey): This accesskey is used for both 
          viewPartialSourceForSelectionCmd.label and viewPartialSourceForMathMLCmd.label -->
-<!ENTITY viewPartialSourceCmd.accesskey "e">
 <!ENTITY viewPageSourceCmd.label      "താളിന്റെ സ്രോതസ്സ്‌ കാണുക">
 <!ENTITY viewPageSourceCmd.accesskey  "V">
 <!ENTITY viewFrameSourceCmd.label     "ഫ്രെയിമിന്റെ സ്രോതസ്സ്‌ കാണുക">
@@ -454,7 +460,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewBGImageCmd.accesskey     "w">
 <!ENTITY setDesktopBackgroundCmd.label      "പണിയിട പശ്ചാത്തലമായി സജ്ജമാക്കുക">
 <!ENTITY setDesktopBackgroundCmd.accesskey  "S">
-<!ENTITY bookmarkPageCmd2.label       "ഈ താള്‍ അടയാളപ്പെടുത്തുക">
+
 <!ENTITY bookmarkThisLinkCmd.label      "ഈ കണ്ണി അടയാളപ്പെടുത്തുക">
 <!ENTITY bookmarkThisLinkCmd.accesskey  "L">
 <!ENTITY bookmarkThisFrameCmd.label      "ഈ ഫ്രെയിം അടയാളപ്പെടുത്തുക">
@@ -464,8 +470,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY savePageCmd.label            "താള്‍ ഇങ്ങനെ സൂക്ഷിക്കുക">
 <!ENTITY savePageCmd.accesskey        "A">
 <!-- alternate for content area context menu -->
-<!ENTITY savePageCmd.accesskey2       "P">
-<!ENTITY savePageCmd.commandkey       "s">
+
 <!ENTITY saveFrameCmd.label           "ഫ്രെയിം ഇങ്ങനെ സൂക്ഷിക്കുക...">
 <!ENTITY saveFrameCmd.accesskey       "F">
 <!ENTITY printFrameCmd.label          "ഫ്രെയിം പ്രിന്റ് ചെയ്യുക…">
@@ -540,8 +545,8 @@ items are mutually exclusive. -->
 <!ENTITY mediaShowControls.accesskey "C">
 <!ENTITY mediaHideControls.label     "നിയന്ത്രണങ്ങള്‍ അദൃശ്യമാക്കുക">
 <!ENTITY mediaHideControls.accesskey "C">
-<!ENTITY videoFullScreen.label       "സ്ക്രീന്‍ പൂര്‍ണ്ണവലിപ്പത്തില്‍">
-<!ENTITY videoFullScreen.accesskey   "F">
+
+
 <!ENTITY videoSaveImage.label        "സ്നാപ്പ്ഷോട്ട് ഇങ്ങനെ സൂക്ഷിയ്ക്കുക…">
 <!ENTITY videoSaveImage.accesskey    "S">
 <!-- LOCALIZATION NOTE: The access keys for "Show Statistics" and
@@ -560,19 +565,18 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY fullZoomEnlargeCmd.label       "വലുതാക്കുക">
 <!ENTITY fullZoomEnlargeCmd.accesskey   "I">
-<!ENTITY fullZoomEnlargeCmd.commandkey  "+">
+
 <!-- + is above this key on many keyboards -->
-<!ENTITY fullZoomEnlargeCmd.commandkey2 "="> 
 <!ENTITY fullZoomEnlargeCmd.commandkey3 "">
 
 <!ENTITY fullZoomReduceCmd.label        "ചെറുതാക്കുക">
 <!ENTITY fullZoomReduceCmd.accesskey    "O">
-<!ENTITY fullZoomReduceCmd.commandkey   "-">
+
 <!ENTITY fullZoomReduceCmd.commandkey2  "">
 
 <!ENTITY fullZoomResetCmd.label         "വീണ്ടും സജ്ജമാക്കുക">
 <!ENTITY fullZoomResetCmd.accesskey     "R">
-<!ENTITY fullZoomResetCmd.commandkey    "0">
+
 <!ENTITY fullZoomResetCmd.commandkey2   "">
 
 <!ENTITY fullZoomToggleCmd.label        "പദാവലിയുടെ വലിപ്പം മാത്രം മാറ്റുക">
@@ -582,19 +586,18 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY sidebarCloseButton.tooltip     "സൈഡ് ബാര്‍ അടയ്ക്കുക">
 
-<!ENTITY quitApplicationCmdWin.label       "പുറത്തു കടക്കുക"> 
-<!ENTITY quitApplicationCmdWin.accesskey   "x">
-<!ENTITY quitApplicationCmdWin.tooltip     "&brandShortName;-ല്‍ നിന്നും പുറത്ത് കടക്കുക">
-<!ENTITY goBackCmd.commandKey "[">
-<!ENTITY goForwardCmd.commandKey "]">
+<!ENTITY quitApplicationCmdWin2.label       "പുറത്തു കടക്കുക">
+<!ENTITY quitApplicationCmdWin2.accesskey   "x">
+
+
+
 <!ENTITY quitApplicationCmd.label       "പുറത്തേക്ക്‌"> 
 <!ENTITY quitApplicationCmd.accesskey   "Q">
-<!ENTITY quitApplicationCmdMac.label    "പുറത്തേക്ക്‌">
+
 <!-- LOCALIZATION NOTE(quitApplicationCmdUnix.key): This keyboard shortcut is used by both Linux and OSX builds. -->
-<!ENTITY quitApplicationCmdUnix.key     "Q">
 
 <!ENTITY closeCmd.label                 "അടയ്ക്കുക">  
-<!ENTITY closeCmd.key                   "W">  
+
 <!ENTITY closeCmd.accesskey             "C">
 
 <!ENTITY pageStyleMenu.label "താള്‍ ശൈലി">
@@ -606,36 +609,35 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY pageReportIcon.tooltip            "ഈ താളിന്റെ പോപ്പപ്പ് തടയല്‍ നിയന്ത്രണങ്ങള്‍ മാറ്റുക">
 
-<!ENTITY allowPopups.accesskey "p">
 <!-- On Windows we use the term "Options" to describe settings, but
      on Linux and Mac OS X we use "Preferences" - carry that distinction
      over into this string, which is used in the "popup blocked" info bar . -->
 <!ENTITY editPopupSettingsUnix.label "പോപ്പപ്പ് തടയലിന്റെ മുന്‍ഗണനകള്‍ തിരുത്തുക">
 <!ENTITY editPopupSettings.label "പോപ്പപ്പ് തടയല്‍ ഐച്ഛികങ്ങള്‍ തിരുത്തുക">
 <!ENTITY editPopupSettings.accesskey "E">
-<!ENTITY dontShowMessage.accesskey "D">
+
 
 <!ENTITY bidiSwitchPageDirectionItem.label        "താളിന്റെ ദിശ മാറ്റുക">
 <!ENTITY bidiSwitchPageDirectionItem.accesskey    "D">
 <!ENTITY bidiSwitchTextDirectionItem.label        "പദാവലിയുടെ ദിശ മാറ്റുക">
 <!ENTITY bidiSwitchTextDirectionItem.accesskey    "w">
-<!ENTITY bidiSwitchTextDirectionItem.commandkey   "X">
+
 
 <!ENTITY findOnCmd.label     "ഈ താളില്‍ കണ്ടെത്തുക">
 <!ENTITY findOnCmd.accesskey "F">
-<!ENTITY findOnCmd.commandkey "f">
+
 <!ENTITY findAgainCmd.label  "വീണ്ടും കണ്ടെത്തുക">
 <!ENTITY findAgainCmd.accesskey "g">
-<!ENTITY findAgainCmd.commandkey "g">
+
 <!ENTITY findAgainCmd.commandkey2 "VK_F3">
-<!ENTITY findSelectionCmd.commandkey "e">
+
 
 <!ENTITY spellAddDictionaries.label "നിഘണ്ടുവിലേക്കു ചേര്‍ക്കുക...">
 <!ENTITY spellAddDictionaries.accesskey "A">
 
 <!ENTITY editBookmark.done.label                     "പൂര്‍ത്തിയായി">
 <!ENTITY editBookmark.cancel.label                   "റദ്ദാക്കുക">
-<!ENTITY editBookmark.removeBookmark.accessKey       "R">
+
 
 <!ENTITY identity.unverifiedsite2 "തിരിച്ചറിയുന്നതിനുള്ള വിവരങ്ങള്‍ ഈ വെബ്സൈറ്റില്‍ ലഭ്യമല്ല.">
 <!ENTITY identity.connectedTo "നിങ്ങള്‍ കണക്ട് ചെയ്യപ്പെട്ടിരിക്കുന്ന ഡൊമെയിന്‍">
@@ -671,12 +673,12 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY syncBrand.shortName.label    "സിന്‍ക്">
 
 <!ENTITY syncSetup.label              "&syncBrand.shortName.label; സജ്ജമാക്കുക…">
-<!ENTITY syncSetup.accesskey          "Y">
+
 <!ENTITY syncSyncNowItem.label        "ഉടന്‍ സിന്‍ക് ചെയ്യുക">
 <!ENTITY syncSyncNowItem.accesskey    "S">
 <!ENTITY syncReAuthItem.label         "&syncBrand.shortName.label;-ലേക്ക് വീണ്ടും കണക്ട് ചെയ്യുക…">
 <!ENTITY syncReAuthItem.accesskey     "R">
-<!ENTITY syncToolbarButton.label      "സിന്‍ക് ചെയ്യുക">
+
 
 <!ENTITY socialToolbar.title        "സോഷ്യല്‍ ടൂള്‍ബാര്‍ ബട്ടണ്‍">
 
@@ -719,7 +721,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 
 
-<!ENTITY social.chatBar.commandkey "c">
 <!ENTITY social.chatBar.label "ചാറ്റുകള്‍ ശ്രദ്ധിയ്ക്കുക">
 <!ENTITY social.chatBar.accesskey "ക">
 
@@ -771,12 +772,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY pluginNotification.width "32em">
 
-<!ENTITY tabCrashed.header "തകര്‍ന്ന റ്റാബ്">
-<!ENTITY tabCrashed.message "ക്ഷമിക്കണം, ഈ വെബ് താള്‍ കാണിയ്ക്കുവാന്‍ ശ്രമിച്ചു, പക്ഷേ മറുപടിയില്ല.">
-<!ENTITY tabCrashed.checkSendReport "ഈ തകരാര്‍ പരിഹരിയ്ക്കുന്നതിന് &vendorShortName;-നെ അറിയ്ക്കുക.">
-<!ENTITY tabCrashed.tryAgain "വീണ്ടും ശ്രമിയ്ക്കുക">
-
-<!ENTITY uiTour.infoPanel.close "അടയ്ക്കുക">
 
 <!ENTITY appMenuSidebars.label         "സൈഡ്ബാറുകള്‍">
 
@@ -801,4 +796,25 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+<!ENTITY emeNotificationsDontAskAgain.label       "ഇനി ചോദിക്കരുതു് (D)">
+<!ENTITY emeNotificationsDontAskAgain.accesskey   "D">
+
+
+
+<!-- Pre-landed string for bug 1124153 -->
+<!-- Pre-landed string for bug 1133662 -->
+<!-- Pre-landed string for bug 1123525 -->
+<!-- Pre-landed strings for bug 1123519 -->
 

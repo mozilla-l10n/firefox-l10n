@@ -5,7 +5,6 @@
 <!ENTITY aboutAddons.title2                     "ആഡ്-ഓണുകള്‍">
 <!ENTITY aboutAddons.header2                    "നിങ്ങളുടെ ആഡ്-ഓണുകള്‍">
 <!ENTITY aboutAddons.options                    "ഐച്ഛികങ്ങള്‍">
-<!ENTITY aboutAddons.browseAll                  "എല്ലാ ഫയര്‍ഫോക്സ് ആഡ്-ഓണുകളും പരതുക">
 
 <!ENTITY addonAction.enable                     "പ്രവര്‍ത്തന സജ്ജം">
 <!ENTITY addonAction.disable                    "പ്രവര്‍ത്തന രഹിതം">
