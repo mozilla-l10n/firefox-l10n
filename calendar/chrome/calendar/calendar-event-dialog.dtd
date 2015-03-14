@@ -78,7 +78,7 @@
 <!ENTITY  event.menu.edit.label                           "Editare">
 <!ENTITY  event.menu.edit.accesskey                       "E">
 <!ENTITY  event.menu.edit.undo.label                      "Anulează">
-<!ENTITY  event.menu.edit.undo.accesskey                  "A">
+<!ENTITY  event.menu.edit.undo.accesskey                  "u">
 <!ENTITY  event.menu.edit.redo.label                      "Revenire">
 <!ENTITY  event.menu.edit.redo.accesskey                  "R">
 <!ENTITY  event.menu.edit.cut.label                       "Taie">
