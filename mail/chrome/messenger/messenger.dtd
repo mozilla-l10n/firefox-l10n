@@ -344,7 +344,7 @@
 <!ENTITY replyToAllMsgCmd.label "Răspunde tuturor">
 <!ENTITY replyToAllMsgCmd.accesskey  "p">
 <!ENTITY replyToAllMsgCmd.key  "R">
-<!ENTITY replyToListMsgCmd.label "Răspunde la listă">
+<!ENTITY replyToListMsgCmd.label "Răspunde listei">
 <!ENTITY replyToListMsgCmd.accesskey  "l">
 <!ENTITY replyToListMsgCmd.key  "l">
 <!ENTITY forwardMsgCmd.label "Înaintează">
@@ -555,7 +555,7 @@
 <!ENTITY junkButton.tooltip "Marchează mesajul ca nesolicitat">
 <!ENTITY notJunkButton.tooltip "Marchează mesajele selectate ca nefiind nesolicitate">
 <!ENTITY addressBookButton.tooltip "Mergi la agenda de contacte">
-<!ENTITY chatButton.tooltip "Afișează fila pentru Chat">
+<!ENTITY chatButton.tooltip "Afișează fila pentru chat">
 <!ENTITY tagButton.tooltip "Etichetează mesaje">
 <!ENTITY compactButton.tooltip "Elimină mesajele șterse din dosarul selectat">
 <!ENTITY appmenuButton1.tooltip "Afișare meniu &brandShortName;">

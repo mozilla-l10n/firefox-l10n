@@ -23,7 +23,7 @@
 <!-- LOCALIZATION NOTE : (emoticonsAndStructs.label) 'Emoticons' are also known as 'Smileys', e.g. :-)   -->
 
 <!ENTITY convertEmoticons.label        "Arată simbolurile emotive ca imagini">
-<!ENTITY convertEmoticons.accesskey    "A">
+<!ENTITY convertEmoticons.accesskey    "e">
 <!-- labels -->
 
 <!ENTITY displayTagsText.label     "Etichetele pot fi folosite pentru a organiza mesajele dumneavoastră pe categorii și după priorități.">

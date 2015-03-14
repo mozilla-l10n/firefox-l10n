@@ -20,5 +20,5 @@ the exact same thing as in English; please try instead to translate the whole
 sentence. -->
 
 <!ENTITY  totalOpenTimeBefore.label       "Arată alerta de mesaj nou pentru">
-<!ENTITY  totalOpenTimeBefore.accesskey   "A">
+<!ENTITY  totalOpenTimeBefore.accesskey   "n">
 <!ENTITY  totalOpenTimeEnd.label          "secunde">
