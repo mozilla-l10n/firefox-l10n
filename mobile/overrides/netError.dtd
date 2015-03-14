@@ -10,10 +10,10 @@
 <!-- Specific error messages -->
 
 
-<!ENTITY connectionFailure.title "Conectare imposibilă">
+<!ENTITY connectionFailure.title "Nu se poate conecta">
 <!ENTITY connectionFailure.longDesc2 "&sharedLongDesc3;">
 
-<!ENTITY deniedPortAccess.title "Această adresă este restricționată">
+<!ENTITY deniedPortAccess.title "Această adresă e restricționată">
 <!ENTITY deniedPortAccess.longDesc "">
 
 <!ENTITY dnsNotFound.title "Serverul nu a fost găsit">
@@ -32,7 +32,7 @@ fi <strong>ww</strong>.exemplu.ro în loc de
 </li> 
 </ul>">
 
-<!ENTITY fileNotFound.title "Fișierul nu a fost găsit">
+<!ENTITY fileNotFound.title "Fișier negăsit">
 <!ENTITY fileNotFound.longDesc "<ul> 
 <li>Verifică ca numele fișierului să nu aibă erori de majuscule/minuscule sau alte erori de tastare.</li> 
 <li>Verifică ca fișierul să nu fi fost mutat, redenumit sau șters.</li> 
@@ -60,7 +60,7 @@ fi <strong>ww</strong>.exemplu.ro în loc de
 <!ENTITY netInterrupt.longDesc2 "&sharedLongDesc3;">
 
 <!ENTITY notCached.title "Document expirat">
-<!ENTITY notCached.longDesc "<p>Documentul cerut nu mai este disponibil în memoria temporară creată de &brandShortName;.</p><ul><li>Ca o măsură de siguranță, &brandShortName; nu cere din nou automat documente ce par a fi confidențiale.</li><li>Clic pe Încearcă din nou pentru a cere din nou documentul de la saitul de unde provine.</li></ul>">
+<!ENTITY notCached.longDesc "<p>Documentul cerut nu e disponibil în cache-ul &brandShortName;.</p><ul><li>Ca o măsură de siguranță, &brandShortName; nu cere din nou automat documente ce par a fi confidențiale.</li><li>Clic pe Încearcă din nou pentru a cere din nou documentul de la saitul de unde provine.</li></ul>">
 
 <!ENTITY netOffline.title "Mod offline">
 <!-- LOCALIZATION NOTE (netOffline.longDesc3) This string contains markup including widgets enabling wifi connections.
