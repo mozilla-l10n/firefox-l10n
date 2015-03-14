@@ -7,8 +7,8 @@
 <!ENTITY menu_securityEncryptRequire.label "Criptează mesajul">
 <!ENTITY menu_securityEncryptRequire.accesskey "C">
 
-<!ENTITY menu_securitySign.label "Semnează electronic mesajul">
-<!ENTITY menu_securitySign.accesskey "S">
+<!ENTITY menu_securitySign.label "Semnează digital acest mesaj">
+<!ENTITY menu_securitySign.accesskey "m">
 
 <!ENTITY menu_securityStatus.label "Vizualizare informații despre securitate">
 <!ENTITY menu_securityStatus.accesskey "o">

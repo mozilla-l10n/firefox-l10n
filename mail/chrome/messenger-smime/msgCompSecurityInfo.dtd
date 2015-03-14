@@ -7,7 +7,7 @@
 <!ENTITY title.label "Securitate mesaj">
 <!ENTITY subject.plaintextWarning "Atenție: Subiectele mesajelor nu sunt niciodată criptate.">
 <!ENTITY status.heading "Conținutul mesajului va fi expediat în următorul mod:">
-<!ENTITY status.signed "Semnat electronic:">
+<!ENTITY status.signed "Semnat digital:">
 <!ENTITY status.encrypted "Criptat:">
 <!ENTITY status.certificates "Certificate:">
 <!ENTITY view.label "Vezi">

@@ -51,8 +51,8 @@
 <!ENTITY modelDeleteImmediately.label "Șterge-l imediat">
 <!ENTITY modelDeleteImmediately.accesskey "t">
 <!-- LOCALIZATION NOTE (expungeOnExit.label) : do not translate two of "&quot;" in below line -->
-<!ENTITY expungeOnExit.label "Golește dosarul Inbox la ieșire">
-<!ENTITY expungeOnExit.accesskey "o">
+<!ENTITY expungeOnExit.label "Golește dosarul „Primite” la ieșire">
+<!ENTITY expungeOnExit.accesskey "e">
 <!ENTITY emptyTrashOnExit.label "Golește coșul de gunoi la ieșire">
 <!ENTITY emptyTrashOnExit.accesskey "G">
 <!ENTITY loginAtStartup.label "Verifică pentru mesaje noi la pornire">
