@@ -20,8 +20,8 @@
                 biffStart.label "every"
                 biffEnd.label   "minutes for new messages Check"
 -->
-<!ENTITY biffStart.label "Verifică pentru mesaje noi la fiecare ">
-<!ENTITY biffStart.accesskey "V">
+<!ENTITY biffStart.label "Caută mesaje noi la fiecare ">
+<!ENTITY biffStart.accesskey "u">
 <!ENTITY biffEnd.label "Minute">
 <!ENTITY connectionSecurity.label "Securitatea conexiunii:">
 <!ENTITY connectionSecurity.accesskey "u">
@@ -55,8 +55,8 @@
 <!ENTITY expungeOnExit.accesskey "e">
 <!ENTITY emptyTrashOnExit.label "Golește coșul de gunoi la ieșire">
 <!ENTITY emptyTrashOnExit.accesskey "G">
-<!ENTITY loginAtStartup.label "Verifică pentru mesaje noi la pornire">
-<!ENTITY loginAtStartup.accesskey "V">
+<!ENTITY loginAtStartup.label "Caută mesaje noi la fiecare ">
+<!ENTITY loginAtStartup.accesskey "C">
 <!-- LOCALIZATION NOTE (maxMessagesStart.label) : translate below 2 lines with grammar dependency
     maxMessengerStart.label will be followed by maxMessagesEnd.label with the number
    of messages between them
