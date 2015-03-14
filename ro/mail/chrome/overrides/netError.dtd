@@ -10,7 +10,7 @@
 <!-- Specific error messages -->
 
 
-<!ENTITY connectionFailure.title "Conectare imposibilă">
+<!ENTITY connectionFailure.title "Nu se poate conecta">
 <!ENTITY connectionFailure.longDesc "&sharedLongDesc;">
 
 <!ENTITY deniedPortAccess.title "Această adresă este restricționată">
@@ -27,7 +27,7 @@ a calculatorului dumneavoastră.</li> 
 &brandShortName; are permisiunea de a accesa internetul.</li> 
 </ul>">
 
-<!ENTITY fileNotFound.title "Fișierul nu a fost găsit">
+<!ENTITY fileNotFound.title "Fișier negăsit">
 <!ENTITY fileNotFound.longDesc "<ul> 
 <li>Verificați ca numele fișierului să nu aibă erori de majuscule/minuscule sau alte erori de tastare.</li> 
 <li>Verificați ca fișierul să nu fi fost mutat, redenumit sau șters.</li> 
@@ -48,7 +48,7 @@ a calculatorului dumneavoastră.</li> 
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
 <!ENTITY notCached.title "Document expirat">
-<!ENTITY notCached.longDesc "<p>Documentul cerut nu e disponibil în cache.</p><ul><li>Ca o măsură de siguranță, &brandShortName; nu cere automat documente ce par a fi private.</li><li>Clic pe „încearcă din nou” pentru a cere din nou documentul de la saitul web.</li></ul>">
+<!ENTITY notCached.longDesc "<p>Documentul cerut nu e disponibil în cache.</p><ul><li>Ca o măsură de siguranță, &brandShortName; nu cere din nou automat documente ce par a fi confidențiale.</li><li>Clic pe Încearcă din nou pentru a cere din nou documentul de la saitul de unde provine.</li></ul>">
 
 <!ENTITY netOffline.title "Mod offline">
 <!ENTITY netOffline.longDesc2 "<ul> 
