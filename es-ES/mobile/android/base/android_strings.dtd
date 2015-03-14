@@ -59,6 +59,7 @@
 <!ENTITY pref_category_advanced "Avanzado">
 <!ENTITY pref_category_customize "Personalizar">
 <!ENTITY pref_category_customize_summary "Inicio, búsqueda, pestañas, importar">
+<!ENTITY pref_category_customize_alt_summary "Inicio, búsqueda, pestañas, abrir más tarde, importar">
 <!ENTITY pref_category_language "Idioma">
 <!ENTITY pref_category_language_summary "Cambiar el idioma de su navegador">
 <!ENTITY pref_browser_locale "Idioma del navegador">
@@ -93,7 +94,9 @@
 <!ENTITY pref_category_devtools_summary "Depuración remota, parpadear dibujado">
 <!ENTITY pref_developer_paint_flashing "Parpadeo al dibujar">
 <!ENTITY pref_developer_remotedebugging "Depuración remota">
+<!ENTITY pref_category_logins "Inicios de sesión">
 <!ENTITY pref_remember_signons "Recordar contraseñas">
+<!ENTITY pref_manage_logins "Administrar inicios de sesión">
 <!ENTITY pref_category_home "Inicio">
 <!ENTITY pref_category_home_summary "Personalizar su página de inicio">
 <!ENTITY pref_category_home_panels "Paneles">
@@ -198,6 +201,7 @@
 <!ENTITY help_menu "Ayuda">
 <!ENTITY quit "Salir">
 <!ENTITY addons "Complementos">
+<!ENTITY logins "Inicios de sesión">
 <!ENTITY downloads "Descargas">
 <!ENTITY apps "Aplicaciones">
 <!ENTITY char_encoding "Codif. caracteres">
@@ -247,6 +251,8 @@
 <!ENTITY pref_titlebar_mode_url "Mostrar la dirección de la página">
 <!ENTITY pref_scroll_title_bar2 "Navegación en pantalla completa">
 <!ENTITY pref_scroll_title_bar_summary "Ocultar la barra de título de &brandShortName; al bajar por una página">
+<!ENTITY pref_tab_queue_title "Abrir más tarde">
+<!ENTITY pref_tab_queue_summary "Evitar que las pestañas se abran inmediatamente, pero abrir todas las pestañas en secuencia la próxima vez que se cargue &brandShortName;.">
 <!ENTITY page_removed "Página eliminada">
 <!ENTITY bookmark_edit_title "Editar marcador">
 <!ENTITY bookmark_edit_name "Nombre">
