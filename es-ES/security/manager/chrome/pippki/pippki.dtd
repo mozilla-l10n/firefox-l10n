@@ -33,12 +33,6 @@
 <!ENTITY pkcs12.setpassword.reminder "Importante: si olvida la contraseña de respaldo de su certificado, no podrá restaurar esta copia de respaldo más tarde. Guárdela en un lugar seguro.">
 <!ENTITY chooseToken.title "Diálogo de selección de objeto">
 <!ENTITY chooseToken.message1 "Elija un objeto.">
-<!ENTITY escrowWarn.title "Copia de la clave de cifrado">
-<!ENTITY escrowWarn.message1 "Importante: Esta autoridad certificadora ha pedido hacer una copia de respaldo de su clave privada de cifrado.">
-<!ENTITY escrowWarn.benefit1 "El beneficio es que si pierde el acceso a su clave privada de cifrado, podrá pedir una copia desde esta autoridad certificadora.">
-<!ENTITY escrowWarn.message2 "Sin embargo, su clave privada de cifrado será almacenada por la autoridad certificadora, y podría ser utilizada para leer sus documentos o correos cifrados sin su consentimiento.">
-<!ENTITY examineCert.label "Ver certificado">
-<!ENTITY examineCert.accesskey "V">
 <!ENTITY createCertInfo.title "Generando una clave privada">
 <!ENTITY createCertInfo.msg1 "Generación de la clave en progreso… Esto puede tardar unos minutos…">
 <!ENTITY createCertInfo.msg2 "Espere…">
