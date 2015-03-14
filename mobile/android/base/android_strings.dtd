@@ -158,6 +158,8 @@
 <!ENTITY pref_home_suggested_sites "సైటు సలహాలను చూపించు">
 <!ENTITY pref_home_suggested_sites_summary "మీరు ఆశక్తి కనబర్చే సైటులకు లఘువులను మీ ముంగిలిపేజీపై ప్రదర్శించును">
 <!-- Localization note: These are shown in the left sidebar on tablets -->
+
+<!ENTITY pref_header_customize "మలచుకొనండి">
 <!ENTITY pref_header_display "ప్రదర్శన">
 <!ENTITY pref_header_privacy_short "అంతరంగికత">
 <!ENTITY pref_header_help "సహాయం">
@@ -267,7 +269,7 @@ size. -->
      (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
 <!ENTITY datareporting_crashreporter_title_short "క్రాష్ రిపోర్టర్">
 <!ENTITY datareporting_wifi_title2 "కిందికి జరుపు">
-
+<!ENTITY datareporting_wifi_geolocation_summary3 "&vendorShortName; ప్రపంచ పటాన్ని గుర్తించడంలో తోడ్పటండి! మా భూస్థాన సేవలను మెరుగుపరచడానికి మీ పరికరపు వై-ఫై మరియు సెల్యులర్ల రమారమి ప్రాంతాన్ని పంచుకోండి">
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
      actual notification that an update is available. -->
