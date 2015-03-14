@@ -10,7 +10,7 @@
 <!-- Specific error messages -->
 
 
-<!ENTITY connectionFailure.title "Conectare imposibilă">
+<!ENTITY connectionFailure.title "Nu se poate conecta">
 <!ENTITY connectionFailure.longDesc "&sharedLongDesc;">
 
 <!ENTITY deniedPortAccess.title "Această adresă este restricționată">
@@ -27,7 +27,7 @@ dumneavoastră.</li> 
 &brandShortName; are permisiunea de a accesa internetul.</li> 
 </ul>">
 
-<!ENTITY fileNotFound.title "Fișierul nu a fost găsit">
+<!ENTITY fileNotFound.title "Fișier negăsit">
 <!ENTITY fileNotFound.longDesc "<ul> 
 <li>Verificați ca numele fișierului să nu aibă erori de majuscule/minuscule sau alte erori de tastare.</li> 
 <li>Verificați ca fișierul să nu fi fost mutat, redenumit sau șters.</li> 
