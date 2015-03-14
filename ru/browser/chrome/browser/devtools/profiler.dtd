@@ -13,9 +13,9 @@
 <!ENTITY profilerUI.clearButton "Очистить">
 <!ENTITY profilerUI.toolbar.waterfall "Временная шкала">
 <!ENTITY profilerUI.toolbar.js-calltree "JavaScript">
-<!ENTITY profilerUI.toolbar.memory-calltree "Память">
+<!ENTITY profilerUI.toolbar.memory-calltree1 "Аллокации">
 <!ENTITY profilerUI.toolbar.js-flamegraph "JS Flame Chart">
-<!ENTITY profilerUI.toolbar.memory-flamegraph "Memory Flame Chart">
+<!ENTITY profilerUI.toolbar.memory-flamegraph1 "Allocations Flame Chart">
 <!ENTITY profilerUI.table.totalDuration2 "Общее время">
 <!ENTITY profilerUI.table.selfDuration2 "Своё время">
 <!ENTITY profilerUI.table.totalPercentage "Общие затраты">
