@@ -6,7 +6,7 @@
 
 <!ENTITY errFile.label   "Изходен файл:">
 <!ENTITY errLine.label   "Ред:">
-<!ENTITY errColumn.label "Стълб:">
+<!ENTITY errColumn.label "Колона:">
 
 <!ENTITY all.label          "Всичко">
 <!ENTITY all.accesskey      "В">
