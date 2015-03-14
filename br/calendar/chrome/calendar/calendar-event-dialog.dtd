@@ -88,8 +88,8 @@
 
 
 
-
-
+<!ENTITY  event.menu.view.toolbars.customize.label        "Personelaat...">
+<!ENTITY  event.menu.view.toolbars.customize.accesskey    "P">
 
 
 
@@ -314,10 +314,10 @@
 
 
 
-
-
-
-
+<!ENTITY event.attendee.role.required           "Perzhiad azgoulennet">
+<!ENTITY event.attendee.role.optional           "Gwared diuzadel">
+<!ENTITY event.attendee.role.chair              "Kadoriadañ">
+<!ENTITY event.attendee.role.nonparticipant     "Nann Berzhiad">
 <!ENTITY event.attendee.usertype.individual     "Hiniennel">
 <!ENTITY event.attendee.usertype.group          "Strollad">
 
