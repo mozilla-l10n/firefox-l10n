@@ -211,8 +211,8 @@ size. -->
 <!ENTITY pref_font_size_preview_text "మరింత వేగం, సౌలభ్యం, భద్రతల గురించి మీ ఆకాంక్షలను ఈ చలాకీ ఆరెంజి నక్క అవలీలగా దూకేస్తుంది. ఒక లాభాపేక్ష లేని సంస్థగా, రాజీ పడాల్సిన అవసరం లేకుండా మీ తరపున విన్నూత్నీకరించడానికి మాకు స్వేచ్ఛ ఉంది. అంటే, మీకు మెరుగైన అనుభవం మరియు జాలానికి ఉజ్వల భవిష్యత్తు.">
 
 <!ENTITY pref_media_autoplay_enabled_summary "వెబ్‌సైట్లు వీడియోలనూ ఇతర మీడియానూ ఆటోమెటిగ్గా ఆడించవచ్చా వద్దో నియంత్రించండి">
-
-
+<!ENTITY pref_zoom_force_enabled "ఎల్లప్పుడూ జూమ్ చేతనించు">
+<!ENTITY pref_zoom_force_enabled_summary "ఏ పేజీనైనా జూమ్ చెయ్యగలిగేలా చేయండి">
 
 <!ENTITY pref_use_master_password "ప్రధాన సంకేతపదాన్ని వాడు">
 <!ENTITY pref_sync "సింక్">
@@ -453,7 +453,7 @@ size. -->
      the text of a button; we expect more than one device. -->
 <!ENTITY home_remote_tabs_unhide_selected_devices "ఎంపికైన పరికరాలు కనబరచు">
 
-<!ENTITY private_browsing_title "గోప్య వీక్షణం">
+<!ENTITY private_browsing_title "అంతరంగిక విహారణ">
 <!ENTITY private_tabs_panel_empty_desc "మీ ఆంతరంగిక ట్యాబులు ఇక్కడ కనిపిస్తాయి. మేము మీ విహారణ చరిత్రను లేదా కుకీలను ఉంచనప్పటికీ, మీ ఇష్టాంశాలు మరియు దించుకున్న ఫైళ్ళూ మీ పరికరంలో భద్రమవుతాయి.">
 <!ENTITY private_tabs_panel_learn_more "ఇంకా తెలుసుకోవాలనుకుంటున్నారా?">
 
@@ -539,7 +539,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY new_guest_session "కొత్త అతిథి సెషన్">
 <!ENTITY exit_guest_session "అతథి సెషన్ నిష్క్రమించు">
 <!ENTITY guest_session_dialog_continue "కొనసాగించు">
-
+<!ENTITY guest_session_dialog_cancel "రద్దుచేయి">
 <!ENTITY new_guest_session_title "&brandShortName; ఇప్పుడు పునఃప్రారంభమవుతుంది">
 <!ENTITY new_guest_session_text "దీనిని ఉపయోగించేవారు మీ వ్యక్తిగత విహరణ దత్తాంశాన్ని (భద్రపరచిన సంకేతపదాలు, చరిత్ర లేదా ఇష్టాంశాల వంటివాటిని) చూడలేరు. \n\nమీ అతిథి పని పూర్తికాగానే, వారి విహరణ దత్తాంశం తొలగించబడుతుంది మరియు మీ సెషన్ పునరుద్ధరించబడుతుంది.">
 <!ENTITY guest_browsing_notification_title "అతిథి విహారణ చేతనమైంది">
@@ -576,6 +576,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY remote_tabs_last_synced "చివరిగా సింకైంది: &formatS;">
 <!-- Localization note: Used when the sync has not happend yet, showed in place of a date -->
+<!ENTITY remote_tabs_never_synced "చివరి సింక్: ఇంకా చేయలేదు">
 <!-- Find-In-Page strings -->
 <!-- LOCALIZATION NOTE (find_matchcase): This is meant to appear as an icon that changes color
      if match-case is activated. i.e. No more than two letters, one uppercase, one lowercase. -->
