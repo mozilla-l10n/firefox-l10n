@@ -18,11 +18,11 @@
 
 
 
-<!ENTITY newevent.status.tentative.label          "Ersezadel" >
-<!ENTITY newevent.status.tentative.accesskey      "E" >
+<!ENTITY newevent.status.tentative.label          "Argeziad" >
+<!ENTITY newevent.status.tentative.accesskey      "A" >
 <!ENTITY newevent.status.confirmed.label          "Kadarnaet" >
 <!ENTITY newevent.status.confirmed.accesskey      "K" >
-<!ENTITY newevent.status.needsaction.label        "Gwered azgoulennet" >
+<!ENTITY newevent.status.needsaction.label        "Gwered dleet" >
 
 <!ENTITY newevent.status.completed.label          "Klokaet" >
 <!-- The following entity is for New Task dialog only -->
@@ -54,8 +54,8 @@
 
 
 
-<!ENTITY  event.menu.item.new.contact.label               "Karned chomlec'hioù ha pleustred">
-<!ENTITY  event.menu.item.new.contact.accesskey           "C">
+<!ENTITY  event.menu.item.new.contact.label               "Karned chomlec'hioù Darempredoù">
+<!ENTITY  event.menu.item.new.contact.accesskey           "D">
 
 
 
@@ -94,8 +94,8 @@
 
 
 
-<!ENTITY  event.menu.options.attendees.label                  "Goulenn Gwared">
-<!ENTITY  event.menu.options.attendees.accesskey              "I">
+<!ENTITY  event.menu.options.attendees.label                  "Pediñ Perzhidi...">
+<!ENTITY  event.menu.options.attendees.accesskey              "P">
 
 
 
@@ -110,10 +110,10 @@
 
 
 
-<!ENTITY  event.menu.options.privacy.public.label             "Degouezhadenn gevredin">
-<!ENTITY  event.menu.options.privacy.public.accesskey         "u">
+<!ENTITY  event.menu.options.privacy.public.label             "Degouezh Foran">
+<!ENTITY  event.menu.options.privacy.public.accesskey         "D">
 <!ENTITY  event.menu.options.privacy.confidential.label       "Diskouez an eur hag an deiziad hepken">
-<!ENTITY  event.menu.options.privacy.confidential.accesskey   "S">
+<!ENTITY  event.menu.options.privacy.confidential.accesskey   "i">
 
 
 
@@ -124,8 +124,8 @@
 
 
 
-<!ENTITY event.email.attendees.label                      "Sevel postel dad'an holl Skorourion">
-<!ENTITY event.email.attendees.accesskey                  "d">
+<!ENTITY event.email.attendees.label                      "Skridaozañ ur bostel d'an holl berzhidi...">
+<!ENTITY event.email.attendees.accesskey                  "h">
 
 
 <!-- Toolbar -->
@@ -315,7 +315,7 @@
 
 
 <!ENTITY event.attendee.role.required           "Perzhiad azgoulennet">
-<!ENTITY event.attendee.role.optional           "Gwared diuzadel">
+<!ENTITY event.attendee.role.optional           "Perzhiad Diret">
 <!ENTITY event.attendee.role.chair              "Kadoriadañ">
 <!ENTITY event.attendee.role.nonparticipant     "Nann Berzhiad">
 <!ENTITY event.attendee.usertype.individual     "Hiniennel">
