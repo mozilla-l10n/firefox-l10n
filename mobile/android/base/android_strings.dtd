@@ -367,6 +367,10 @@ size. -->
 <!ENTITY site_settings_no_settings  "Der er ingen indstillinger at rydde.">
 
 <!ENTITY reading_list_added "Siden er føjet til din læseliste">
+<!ENTITY reading_list_removed "Siden er fjernet fra din læseliste">
+<!-- Localization note (reading_list_remove) : Used to remove the currently open page from
+     the user's reading list. The opposite of overlay_share_reading_list_btn_label. -->
+<!ENTITY reading_list_remove "Fjern fra læseliste">
 <!ENTITY reading_list_duplicate "Siden er allerede på din læseliste">
 
 <!-- Localization note (reading_list_time_minutes2) : This string is used in the "Reading List"

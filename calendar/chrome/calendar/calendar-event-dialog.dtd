@@ -5,7 +5,7 @@
 <!ENTITY event.title.label "Rediger element">
 
 <!ENTITY event.dialog.keepDurationButton.tooltip  "Behold varighed, når du ændrer slutdato">
-<!ENTITY event.dialog.keepDurationButton.accesskey "V">
+<!ENTITY event.dialog.keepDurationButton.accesskey "å">
 
 <!ENTITY newevent.from.label "Fra">
 <!ENTITY newevent.to.label "Til">
