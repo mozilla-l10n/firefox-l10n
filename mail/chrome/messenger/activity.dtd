@@ -17,7 +17,7 @@ file names and tall enough to hint that there are more activities in the list --
 <!ENTITY cmd.cancel.label                 "Anulează">
 <!ENTITY cmd.cancel.accesskey             "A">
 <!ENTITY cmd.undo.label                   "Anulează">
-<!ENTITY cmd.undo.accesskey               "l">
+<!ENTITY cmd.undo.accesskey               "u">
 <!ENTITY cmd.recover.label                "Recuperează">
 <!ENTITY cmd.recover.accesskey            "R">
 <!ENTITY cmd.retry.label                  "Reîncearcă">
