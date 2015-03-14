@@ -83,7 +83,7 @@
 <!ENTITY runtimePanel_simulator "Simulatoare">
 <!ENTITY runtimePanel_other "Altceva">
 <!ENTITY runtimePanel_installsimulator "Instalare simulator">
-<!ENTITY runtimePanel_noadbhelper "Install ADB Helper">
+<!ENTITY runtimePanel_noadbhelper "Instalează ADB Helper">
 <!ENTITY runtimePanel_nousbdevice "Nu îți poți vedea dispozitivul?">
 <!-- Lense -->
 
