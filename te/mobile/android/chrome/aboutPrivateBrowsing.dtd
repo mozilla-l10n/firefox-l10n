@@ -2,12 +2,12 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY privatebrowsingpage.title                  "గోప్య వీక్షణం">
+<!ENTITY privatebrowsingpage.title                  "అంతరంగిక విహారణ">
 
-<!ENTITY privatebrowsingpage.issueDesc.private      "మీరు కొత్త వ్యక్తిగత టాబ్ తెరిచినారు.">
+<!ENTITY privatebrowsingpage.issueDesc.private      "మీరు కొత్త అంతరంగిక ట్యాబు తెరిచారు.">
 <!ENTITY privatebrowsingpage.issueDesc.normal       "మీరు వ్యక్తిగత టాబ్ నందు లేరు.">
 
-<!ENTITY privatebrowsingpage.description            "వ్యక్తిగత టాబ్ల నందు, &brandShortName; ఏ విహారిణి చరిత్ర, శోధన చరిత్ర, దింపుకోలు చరిత్ర , వెబ్ ఫామ్ చరిత్ర , కుకీలు, తాత్కాలిక  అంతర్జాల ఫైళ్లు  ఎవీ గుర్తు పెట్టుకోదు.  మీరు ఇష్టాంశములుగా చేసినవి, దింపుకోలు చేసినవి మాత్రము అలాగే వుంటాయి.">
+<!ENTITY privatebrowsingpage.description            "అంతరంగిక ట్యాబుల్లో, &brandShortName; విహారణ చరిత్రను, వెతుకుడు చరిత్రను, దింపుకోలు చరిత్రను, జాల ఫారాల చరిత్రను, కుకీలను, తాత్కాలిక  అంతర్జాల దస్త్రాలనూ అట్టిపెట్టదు.  కానీ, మీరు దించుకున్న దస్త్రాలనూ ఇష్టాంశాలుగా గుర్తించిన వాటినీ అట్టే పెడుతుంది.">
 <!ENTITY privatebrowsingpage.description.private    "&privatebrowsingpage.issueDesc.private; &privatebrowsingpage.description;">
 
-<!ENTITY privatebrowsingpage.moreInfo               " ఈ పరికరంలో మీ  గోప్య వీక్షణం ఆనవాళ్లు  వుండవు కాని  మీ అంతర్జాల సేవాదారు మీరు చూసిన పేజీల చరిత్రను ఉంచుకోగలడు. ">
+<!ENTITY privatebrowsingpage.moreInfo               "ఈ పరికరంలో మీ అంతరంగిక విహారణ ఆనవాళ్లు ఉండవు, కానీ మీ అంతర్జాల సేవాదారు మీరు చూసే పేజీల జాడ కనుక్కోగలరు.">

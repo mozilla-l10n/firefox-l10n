@@ -8,9 +8,9 @@
 
 <!ENTITY pageTitle                 "&brandShortName; స్పందన">
 
-<!ENTITY intro.header              "ఒక నిమిషం సమయం ఉందా?">
+<!ENTITY intro.header              "ఒక్క నిమిషం?">
 <!ENTITY intro.message             "ఆండ్రాయిడ్ కొరకు &brandShortName; ఎలావుందని మీరు అనుకుంటున్నారో మాకు చెప్పండి.">
-<!ENTITY intro.happyLink           "నేను ఇష్టపడుతున్నాను">
+<!ENTITY intro.happyLink           "నాకు నచ్చింది">
 <!ENTITY intro.sadLink             "నాకు కొన్ని సమస్యలు వచ్చాయి">
 <!ENTITY intro.maybeLater          "తరువాత చెప్తాను">
 <!-- LOCALIZATION NOTE (support.pre): Include a trailing space as needed. -->
@@ -21,7 +21,7 @@
 <!ENTITY support.link2             "తోడ్పాటు సైట్">
 <!ENTITY support.post3             " సందర్శించి ఉమ్మడి సమస్యలపై సమాధానాలు పొందండి.">
 
-<!ENTITY happy.header              "వింటానికి గొప్పగా ఉంది!">
+<!ENTITY happy.header              "వినడానికి ఇంపుగా ఉంది!">
 <!-- LOCALIZATION NOTE (happy.message): "share the love" — This feels purposely exaggerated in English,
      but essentially it means that we want you to let others know how much you love Firefox. -->
 
@@ -36,7 +36,7 @@
 <!ENTITY happy.noThanks            "అడిగినందుకు ధన్యవాదాలు, వద్దు">
 
 <!ENTITY sad.header                "అయ్యో!">
-<!ENTITY sad.message               "&brandShortName; తో మీకు సమస్యలు వచ్చినందుకు మేము చింతిస్తున్నాము. ఏమైందో మాకు చెప్పండి అది మేము పరిష్కరించుతాము.">
+<!ENTITY sad.message               "&brandShortName;‌తో మీకు సమస్యలు వచ్చినందుకు మేము చింతిస్తున్నాము. ఏమైందో మాకు చెప్పండి దాన్ని మేము పరిష్కరిస్తాం.">
 <!ENTITY sad.placeholder           "మీ స్పందనను ఇక్కడ ప్రవేశపెట్టండి">
 <!ENTITY sad.lastSite2             "అఖరిగా సందర్శించిన సైట్ చేర్చు">
 <!-- LOCALIZATION NOTE (sad.urlPlaceholder): Placeholder text that appears in "Last visited site" input box when there is no text. -->

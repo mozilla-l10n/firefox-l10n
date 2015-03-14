@@ -141,7 +141,7 @@
 <!ENTITY fxaccount_policy_linkprivacy "గోప్యతా గమనిక">
 
 <!ENTITY fxaccount_getting_started_welcome_to_sync "&syncBrand.shortName.label;కి స్వాగతం">
-<!ENTITY fxaccount_getting_started_description "మీ టాబ్‌లను, ఇష్టాంశములను, సంకేతపదములను మరియు మరిన్నిటిని సింక్ చేయుటకు లోనికిరండి.">
+<!ENTITY fxaccount_getting_started_description "మీ ట్యాబులను, ఇష్టాంశాలను, సంకేతపదాలను సింక్ చేసుకోడానికి ప్రవేశించండి.">
 <!ENTITY fxaccount_getting_started_get_started "మొదలు పెట్టండి">
 <!ENTITY fxaccount_getting_started_old_firefox "&syncBrand.shortName.label; పాత వర్షన్ ఉపయోగిస్తున్నారా?">
 <!-- Localization note: the Firefox below should not change with the
@@ -172,9 +172,9 @@
 <!ENTITY fxaccount_confirm_account_change_email "ఈ ఈమెయిలు చిరునామాను మరచిపోవాలా?">
 <!ENTITY fxaccount_confirm_account_verification_link_sent2 "నిర్ధారణ కోరుతీ ఈమెయిల్ పంపెను">
 <!ENTITY fxaccount_confirm_account_verification_link_not_sent2 "నిర్ధారణ కోరుతూ ఈమెయిల్ పంపలేక పోయెను">
-
-
-
+<!ENTITY fxaccount_resend_unlock_code_button_label "తాళం తీయడానికి ఈమెయిలుని మళ్ళీ పంపించు">
+<!ENTITY fxaccount_unlock_code_sent "ఖాతా తాళం తీసే ఈమెయిలు పంపించాం">
+<!ENTITY fxaccount_unlock_code_not_sent "ఖాతా తాళం తీసే ఈమెయిలు పంపించలేకపోయాం">
 
 <!ENTITY fxaccount_sign_in_sub_header "ప్రవేశించు">
 <!ENTITY fxaccount_sign_in_button_label "ప్రవేశించు">
@@ -257,7 +257,7 @@
 <!ENTITY fxaccount_remote_error_SERVICE_TEMPORARILY_UNAVAILABLE_TO_DUE_HIGH_LOAD "సేవిక వత్తిడిగా ఉంది, త్వరలో మరలా ప్రయత్నించు">
 <!ENTITY fxaccount_remote_error_UNKNOWN_ERROR "ఏదో సమస్య ఉంది">
 <!ENTITY fxaccount_remote_error_COULD_NOT_CONNECT "నెట్వర్కునకు అనుసంధానం కాలేదు">
-
+<!ENTITY fxaccount_remote_error_ACCOUNT_LOCKED "ఖాతా తాళంవేయబడిండి. &formatS1;">
 
 <!ENTITY fxaccount_sync_sign_in_error_notification_title2 "&syncBrand.shortName.label; అనుసంధానమై లేదు">
 <!-- Localization note: the format string below will be replaced
