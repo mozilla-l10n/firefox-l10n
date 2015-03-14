@@ -23,6 +23,8 @@
 <!ENTITY contextManual.accesskey "R">
 <!ENTITY contextBeforeCls.label "Filtrer før søppelpost-klassifisering">
 <!ENTITY contextAfterCls.label "Filtrer etter søppelpost-klassifisering">
+<!ENTITY contextOutgoing.label "Etter sending">
+<!ENTITY contextOutgoing.accesskey "E">
 
 <!ENTITY filterActionDesc.label "Gjer dette med meldingane:">
 <!ENTITY filterActionDesc.accesskey "G">
