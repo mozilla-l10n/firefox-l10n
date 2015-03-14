@@ -40,7 +40,7 @@
 
 <!ENTITY setup.tosAgree1.label      "Sunt de acord cu">
 <!ENTITY setup.tosAgree1.accesskey  "a">
-<!ENTITY setup.tosLink.label        "Termeni ai serviciului">
+<!ENTITY setup.tosLink.label        "Termenii serviciului">
 <!ENTITY setup.tosAgree2.label      "și cu">
 <!ENTITY setup.ppLink.label         "Politică de confidențialitate">
 <!ENTITY setup.tosAgree3.label      "">
