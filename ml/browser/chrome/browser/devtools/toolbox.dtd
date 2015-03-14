@@ -113,11 +113,12 @@
   -  for the target of the toolbox. -->
 
 <!ENTITY options.toolNotSupported.label  "* നിലവിലുള്ള ഉപകരണപ്പട്ടികയുടെ ലക്ഷ്യം പിന്തുണയ്ക്കുന്നില്ല">
-<!-- LOCALIZATION NOTE (options.selectDevToolsTheme.label): This is the label for
+<!-- LOCALIZATION NOTE (options.selectDevToolsTheme.label2): This is the label for
   -  the heading of the radiobox corresponding to the theme of the developer
   -  tools. -->
+<!-- LOCALIZATION NOTE (options.usedeveditiontheme.*) Options under the
+  -  toolbox for enabling and disabling the Developer Edition browser theme. -->
 
-<!ENTITY options.selectDevToolsTheme.label   "DevTools പ്രമേയം തെരഞ്ഞെടുക്കുക:">
 <!-- LOCALIZATION NOTE (options.webconsole.label): This is the label for the
   -  heading of the group of Web Console preferences in the options panel. -->
 
@@ -147,7 +148,7 @@
   -  panel. -->
 
 <!ENTITY options.profiler.label            "ജാവാസ്ക്രിപ്റ്റ് പ്രൊഫൈലര്‍">
-<!-- LOCALICATION NOTE (options.commonprefs): This is the label for the heading
+<!-- LOCALIZATION NOTE (options.commonprefs): This is the label for the heading
       of all preferences that affect both the Web Console and the Network
       Monitor -->
 
@@ -182,3 +183,4 @@
 <!ENTITY options.sourceeditor.keybinding.label          "കീ ബന്ധങ്ങൾ (K)">
 <!ENTITY options.sourceeditor.keybinding.accesskey      "K">
 <!ENTITY options.sourceeditor.keybinding.default.label  "തനിമട്ട്">
+

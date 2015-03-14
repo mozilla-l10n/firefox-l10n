@@ -23,6 +23,8 @@
 
 
 
+
+
 <!ENTITY runtimeMenu_disconnect_label "വിഛേദിക്കുക">
 
 
@@ -34,9 +36,17 @@
 
 
 
+
+
+
+
 <!ENTITY viewMenu_label "കാണുക ">
 
 
+
+<!ENTITY viewMenu_zoomin_label "വലുതാക്കുക">
+
+<!ENTITY viewMenu_zoomout_label "ചെറുതാക്കുക">
 
 
 
@@ -49,6 +59,7 @@
 <!-- show toolbox -->
 <!ENTITY key_toggleToolbox "VK_F12">
 <!-- toggle sidebar -->
+<!-- zoom -->
 
 
 
@@ -56,10 +67,14 @@
 
 
 
+
+
+<!ENTITY runtimePanel_other "വേറെ">
 <!ENTITY runtimePanel_installsimulator "സിമുലേറ്റര്‍ ഇന്‍സ്റ്റോള്‍ ചെയ്യുക">
 
 
 <!-- Lense -->
+
 
 
 
@@ -110,5 +125,33 @@
 
 
 
+<!-- Device Preferences and Settings -->
+
+
+<!ENTITY device_typeobject "ഒബ്ജെക്റ്റ്‌">
+
+<!-- Device Preferences -->
+
+
+
+
+<!-- Device Settings -->
+
+
+
+
 <!-- Monitor -->
 <!ENTITY monitor_help "സഹായം ">
+<!-- WiFi Authentication -->
+<!-- LOCALIZATION NOTE (wifi_auth_header): The header displayed on the dialog
+     that instructs the user to transfer an authentication token to the
+     server. -->
+<!-- LOCALIZATION NOTE (wifi_auth_scan_request): Instructions requesting the
+     user to transfer authentication info by scanning a QR code. -->
+<!-- LOCALIZATION NOTE (wifi_auth_no_scanner): Link text to assist users with
+     devices that can't scan a QR code. -->
+<!-- LOCALIZATION NOTE (wifi_auth_yes_scanner): Link text to assist users with
+     devices that can scan a QR code. -->
+<!-- LOCALIZATION NOTE (wifi_auth_token_request): Instructions requesting the
+     user to transfer authentication info by transferring a token. -->
+<!-- Logs panel -->

@@ -35,7 +35,7 @@
 <!ENTITY sync.checkbox.server.label "ഇഷ്ടമുള്ള സര്‍വര്‍ ഉപയോഗിയ്ക്കുക">
 <!ENTITY sync.input.server.label "സര്‍വര്‍ URL">
 <!-- Setup Fail -->
-  
+
 <!ENTITY sync.title.fail.label "&syncBrand.shortName.label; സജ്ജമാക്കുവാന്‍ സാധ്യമല്ല">
 <!ENTITY sync.subtitle.fail.label "&syncBrand.fullName.label;സർവറുമായി ബന്ധം സ്ഥാപിക്കാൻ സാധിച്ചില്ല. വീണ്ടും ശ്രമിക്കണോ?">
 <!ENTITY sync.button.tryagain.label "വീണ്ടും ശ്രമിയ്ക്കുക">
@@ -44,7 +44,7 @@
 <!ENTITY sync.subtitle.failaccount.label "അക്കൌണ്ട് സജ്ജീകരണം പരാജയപ്പെട്ടു.">
 <!ENTITY sync.subtitle.failmultiple.label "ഒന്നില്‍ കൂടുതല്‍ ഫയര്‍ഫോക്സ് ഇന്‍സ്റ്റോള്‍ ചെയ്തിട്ടുണ്ടോ? നിലവില്‍, ഒരു സമയത്തു് ഒരു ഫയര്‍ഫോക്സ് മാത്രമേ &syncBrand.fullName.label; പിന്തുണയ്ക്കുന്നുള്ളൂ. &syncBrand.shortName.label; ഉപയോഗിയ്ക്കുന്നതിനു് ദയവായി മറ്റുള്ള ഫയര്‍ഫോക്സ് ഇന്‍സ്റ്റന്‍സ് ഉപേക്ഷിയ്ക്കുക.">
 <!-- Setup Success -->
-  
+
 <!ENTITY sync.title.success.label "സജ്ജമാക്കല്‍ പൂര്‍ണ്ണമാക്കിയിരിയ്ക്കുന്നു">
 <!ENTITY sync.subtitle.success.label1 "പശ്ചാത്തലത്തില്‍, നിങ്ങളുടെ ഡേറ്റാ ഡൌണ്‍ലോഡ് ആകുന്നു. അക്കൌണ്ട് കൈകാര്യം ചെയ്യുന്നതിനു് സജ്ജീകരണത്തിലേക്കു് പോകുക, അല്ലെങ്കില്‍ &brandShortName; ഉപയോഗിയ്ക്കുക.">
 <!ENTITY sync.settings.label "സജ്ജീകരണങ്ങള്‍">
@@ -73,6 +73,11 @@
 <!-- Account strings -->
 
 <!ENTITY sync.account.label "&syncBrand.fullName.label;(ഒഴിവാക്കി)">
+<!-- Localization note (sync.default.client.name): Default string of the "Device
+     name" menu item upon setting up Firefox Sync.  The placeholder &formatS1
+     will be replaced by the name of the Firefox release channel and &formatS2
+     by the model name of the Android device. Examples look like "Aurora on
+     GT-I1950" and "Fennec on MI 2S". -->
 <!-- Bookmark folder strings -->
 
 <!ENTITY bookmarks.folder.menu.label "അടയാളക്കുറിപ്പുകള്‍ക്കുള്ള പട്ടിക">
@@ -143,6 +148,8 @@
 
 <!ENTITY fxaccount_create_account_header2 "ഒരു ഫയര്‍ഫോക്സ് അക്കൌണ്ട് തയ്യാറാക്കുക">
 <!ENTITY fxaccount_create_account_password_length_restriction "കുറഞ്ഞതു് 8 അക്ഷരങ്ങളുണ്ടായിരിയ്ക്കണം">
+
+
 <!ENTITY fxaccount_create_account_year_of_birth "ജനന വര്‍ഷം">
 <!-- Localization note: &formatS1; is fxaccount_policy_linktos, &formatS2; is fxaccount_policy_linkprivacy, both hyperlinked. -->
 <!ENTITY fxaccount_create_account_policy_text2 "ഫയര്‍ഫോക്സ് ക്ലൌഡ് സേവനങ്ങളുടെ &formatS1;, &formatS2; എന്നിവയുമായി മുമ്പോട്ട് തുടരുന്നു.">
@@ -160,8 +167,12 @@
 <!-- Localization note: &formatS; is the Firefox Account's email address. -->
 <!ENTITY fxaccount_confirm_account_verification_link "ഉറപ്പാക്കുന്നതിനുള്ളൊരു കണ്ണി &formatS;-ലേക്കു് അയച്ചു">
 <!ENTITY fxaccount_confirm_account_resend_email "മെയില്‍ വീണ്ടും അയയ്ക്കൂ">
+
 <!ENTITY fxaccount_confirm_account_verification_link_sent2 "ഉറപ്പാക്കുന്നതിനുള്ള മെയില്‍ അയച്ചു">
 <!ENTITY fxaccount_confirm_account_verification_link_not_sent2 "ഉറപ്പാക്കുന്നതിനുള്ള മെയില്‍ അയയ്ക്കുവാനായില്ല">
+
+
+
 
 <!ENTITY fxaccount_sign_in_sub_header "പ്രവേശിയ്ക്കുക">
 <!ENTITY fxaccount_sign_in_button_label "പ്രവേശിയ്ക്കുക">
@@ -172,13 +183,19 @@
 <!ENTITY fxaccount_account_verified_sub_header "അക്കൗണ്ട് ഉറപ്പാക്കി">
 <!ENTITY fxaccount_account_verified_description2 "അനുനിമിഷം ഡേറ്റാ സിന്‍ക് ചെയ്യുവാന്‍ ആരംഭിയ്ക്കുന്നു.">
 
+
 <!ENTITY fxaccount_update_credentials_header "പ്രവേശിക്കുക">
 <!ENTITY fxaccount_update_credentials_button_label "പ്രവേശിയ്ക്കുക">
 <!ENTITY fxaccount_update_credentials_unknown_error "പ്രവേശിക്കാൻ സാധ്യമായില്ല">
 
+
+
+
 <!ENTITY fxaccount_status_header2 "ഫയർഫോക്സ് അക്കൗണ്ട്">
 <!ENTITY fxaccount_status_signed_in_as "ഇങ്ങനെ പ്രവേശിച്ചിരിയ്ക്കുന്നു">
 <!ENTITY fxaccount_status_auth_server "അക്കൌണ്ട് സര്‍വര്‍">
+
+
 <!ENTITY fxaccount_status_device_name "ഉപകരണം">
 <!ENTITY fxaccount_status_sync_server "സിന്‍ക് സര്‍വര്‍">
 <!ENTITY fxaccount_status_sync "&syncBrand.shortName.label;">
@@ -187,7 +204,8 @@
 <!ENTITY fxaccount_status_needs_credentials "കണക്ട് ചെയ്യുവാനായില്ല. പ്രവേശിയ്ക്കുന്നതിനു് സ്ക്രീനില്‍ തൊടുക.">
 <!ENTITY fxaccount_status_needs_upgrade "പ്രവേശിയ്ക്കന്നതിനു് &brandShortName; പരിഷ്കരിയ്ക്കണം.">
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled "&syncBrand.shortName.label; സജ്ജമാണു്, പക്ഷേ ഓട്ടോമാറ്റിയ്ക്കായി സിന്‍ക് ചെയ്യുന്നില്ല. ആന്‍ഡ്രോയിഡ് സജ്ജീകരണങ്ങള്‍ &gt; ഡേറ്റാ ഉപയോഗത്തിലുള്ള “Auto-sync data”മാറ്റുക.">
-<!ENTITY fxaccount_status_needs_account_enabled "&syncBrand.shortName.label; സജ്ജമാണു്, പക്ഷേ ഓട്ടോമാറ്റിയ്ക്കായി സിന്‍ക് ചെയ്യുന്നില്ല. സിന്‍ക് ചെയ്യുന്നതിനു് സ്ക്രീനില്‍ തൊടുക.">
+
+
 <!ENTITY fxaccount_status_bookmarks "അടയാളക്കുറിപ്പുകള്‍">
 <!ENTITY fxaccount_status_history "നാള്‍വഴി">
 <!ENTITY fxaccount_status_passwords "രഹസ്യവാക്കുകള്‍">
@@ -199,13 +217,19 @@
      the two uses differently. -->
 <!ENTITY fxaccount_status_linktos "സേവന നിബന്ധനകള്‍">
 <!ENTITY fxaccount_status_linkprivacy "സ്വകാര്യ അറിയിപ്പു്">
+
+
+
+<!-- Localization note: format string below will be replaced
+     with the Firefox Account's email address. -->
+
 <!-- Localization note: this is the name shown by the Android system
      itself for a Firefox Account. Don't localize this. -->
 
 <!ENTITY fxaccount_account_type_label "ഫയര്‍ഫോക്സ്">
 <!-- Localization note: these are shown by the Android system itself,
-     when the user navigates to the Android > Accounts > [Firefox
-     Account] Screen. The link takes the user to the Firefox Account
+     when the user navigates to the Android > Accounts > {Firefox
+     Account} Screen. The link takes the user to the Firefox Account
      status activity, which lets them manage their Firefox
      Account. -->
 
@@ -227,7 +251,10 @@
 <!ENTITY fxaccount_remote_error_UNKNOWN_ERROR "ഒരു പ്രശ്നമുണ്ടായി">
 <!ENTITY fxaccount_remote_error_COULD_NOT_CONNECT "നെറ്റ്‌വര്‍ക്കിലേക്കു് കണക്ട് ചെയ്യുവാനായില്ല">
 
+
 <!ENTITY fxaccount_sync_sign_in_error_notification_title2 "&syncBrand.shortName.label; കണക്ട് ചെയ്തിട്ടില്ല">
-<!-- Note to translators: the format string below will be replaced
+<!-- Localization note: the format string below will be replaced
      with the Firefox Account's email address. -->
-<!ENTITY fxaccount_sync_sign_in_error_notification_text2 "&formatS; ആയി പ്രവേശിയ്ക്കുന്നതിനു് സ്ക്രീനില്‍ തൊടുക">
+
+<!-- Localization note: the format string below will be replaced
+     with the Firefox Account's email address. -->

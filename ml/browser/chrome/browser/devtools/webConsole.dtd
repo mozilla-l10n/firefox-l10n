@@ -73,6 +73,7 @@
 <!ENTITY btnConsoleInfo         "വിവരം">
 <!ENTITY btnConsoleWarnings     "മുന്നറിയിപ്പുകള്‍">
 <!ENTITY btnConsoleLog          "ലോഗ്">
+<!ENTITY btnConsoleXhr          "എക്സ്എച്ആര്‍">
 <!ENTITY btnConsoleReflows      "റീഫ്ലോ">
 
 <!ENTITY filterOutput.placeholder "ഔട്ട്പുട്ട് ഫില്‍റ്റര്‍ ചെയ്യുക">

@@ -12,7 +12,3 @@
 
 <!ENTITY privatebrowsingpage.openPrivateWindow.label "ഒരു സ്വകാര്യ ജാലകം തുറക്കുക">
 <!ENTITY privatebrowsingpage.openPrivateWindow.accesskey "ക">
-<!-- TO BE REMOVED POST-AUSTRALIS --> 
-<!-- LOCALIZATION NOTE (privatebrowsingpage.howToStart3): please leave &basePBMenu.label; intact in the translation -->
-
-<!ENTITY privatebrowsingpage.howToStart3               "സ്വകാര്യ ബ്രൌസിങ് ആരംഭിയ്ക്കുന്നതിനായി, &basePBMenu.label; &gt; &newPrivateWindow.label; തെരഞ്ഞെടുക്കാം.">
