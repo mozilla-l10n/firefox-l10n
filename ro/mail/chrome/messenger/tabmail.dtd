@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY  closeTab.label           "Închide fila">
-<!ENTITY  listAllTabs.label        "Lista filelor">
+<!ENTITY  listAllTabs.label        "Listează toate filele">
 <!-- LOCALIZATION NOTE(defaultTabTitle.label): This is the default tab
      title to show when the tab has no title. -->
 <!ENTITY  defaultTabTitle.label    "Acasă">
