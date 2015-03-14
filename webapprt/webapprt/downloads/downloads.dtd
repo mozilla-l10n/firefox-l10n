@@ -41,7 +41,7 @@ file names and tall enough to hint that there are more downloads in the list -->
 <!ENTITY cmd.close2Unix.commandKey        "y">
 <!ENTITY cmd.clearList.label              "Curăță lista">
 <!ENTITY cmd.clearList.tooltip            "Elimină din listă descărcările terminate, anulate și eșuate">
-<!ENTITY cmd.clearList.accesskey          "u">
+<!ENTITY cmd.clearList.accesskey          "C">
 <!ENTITY cmd.find.commandKey              "f">
 <!ENTITY cmd.search.commandKey            "k">
 
