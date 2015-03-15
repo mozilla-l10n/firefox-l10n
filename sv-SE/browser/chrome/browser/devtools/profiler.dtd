@@ -79,6 +79,8 @@
   -  label for the checkbox that toggles whether or not Gecko platform data
   -  is displayed in the profiler. -->
 
+<!ENTITY profilerUI.showPlatformData             "Visa Geckos plattformsdata">
+<!ENTITY profilerUI.showPlatformData.tooltiptext "Med Visa plattformsdata kommer JavaScript-profilerarens rapporter innehålla symboler även från Geckoplattformen.">
 <!-- LOCALIZATION NOTE (profilerUI.flattenTreeRecursion): This is the
   -  label for the checkbox that toggles the flattening of tree recursion in inspected
   -  functions in the profiler. -->
@@ -88,8 +90,10 @@
   -  measurements are enabled. -->
 
 <!ENTITY profilerUI.enableMemory             "Spela in minne">
-
+<!ENTITY profilerUI.enableMemory.tooltiptext "Spela in minnesåtgång under profileringen.">
 <!-- LOCALIZATION NOTE (profilerUI.enableFramerate): This string
   -  is displayed next to a checkbox determining whether or not framerate
   -  is recorded. -->
 
+<!ENTITY profilerUI.enableFramerate             "Spela in bildhastighet">
+<!ENTITY profilerUI.enableFramerate.tooltiptext "Spela in bildhastighet under profileringen.">
