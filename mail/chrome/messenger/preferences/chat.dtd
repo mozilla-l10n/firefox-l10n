@@ -24,7 +24,7 @@ sentence. -->
 <!ENTITY  sendTyping.accesskey          "t">
 
 <!ENTITY  chatNotifications.label             "Cuando lleguen mensajes dirigidos a usted:">
-<!ENTITY  desktopChatNotifications.label      "Mostrar una notifiación">
+<!ENTITY  desktopChatNotifications.label      "Mostrar una notificación">
 <!ENTITY  desktopChatNotifications.accesskey  "c">
 <!ENTITY  completeNotification.label          "con nombre de remitente y vista previa de mensaje">
 <!ENTITY  buddyInfoOnly.label                 "solo con nombre de remitente">
