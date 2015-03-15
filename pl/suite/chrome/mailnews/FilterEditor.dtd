@@ -27,6 +27,8 @@
 <!ENTITY contextAfterCls.label "(po filtrowaniu niechcianych)">
 <!ENTITY contextOutgoing.label "Po wysłaniu">
 <!ENTITY contextOutgoing.accesskey "s">
+<!ENTITY contextArchive.label "Archiwizowania">
+<!ENTITY contextArchive.accesskey "c">
 
 <!ENTITY filterActionDesc.label "…wykonaj następujące czynności:">
 <!ENTITY filterActionDesc.accesskey "w">
