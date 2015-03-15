@@ -367,6 +367,10 @@ size. -->
 <!ENTITY site_settings_no_settings  "No hay configuración que borrar.">
 
 <!ENTITY reading_list_added "Página agregada a la lista de lectura">
+<!ENTITY reading_list_removed "Página eliminada de la lista de lectura">
+<!-- Localization note (reading_list_remove) : Used to remove the currently open page from
+     the user's reading list. The opposite of overlay_share_reading_list_btn_label. -->
+<!ENTITY reading_list_remove "Eliminar de lista de lectura">
 <!ENTITY reading_list_duplicate "La página ya está en tu lista de lectura">
 
 <!-- Localization note (reading_list_time_minutes2) : This string is used in the "Reading List"
