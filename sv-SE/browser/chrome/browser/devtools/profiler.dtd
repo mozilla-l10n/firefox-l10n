@@ -52,12 +52,12 @@
   -  in the call tree headers for a recording. -->
 
 <!ENTITY profilerUI.table.totalDuration2  "Total tid">
-
+<!ENTITY profilerUI.table.selfDuration2   "Egen tid">
 <!ENTITY profilerUI.table.totalPercentage "Total Kostnad">
 <!ENTITY profilerUI.table.selfPercentage  "Självkostnad">
 <!ENTITY profilerUI.table.samples         "Exempel">
-
-
+<!ENTITY profilerUI.table.totalAlloc      "Total tilldelning">
+<!ENTITY profilerUI.table.selfAlloc       "Egen tilldelning">
 <!ENTITY profilerUI.table.function        "Funktion">
 <!-- LOCALIZATION NOTE (profilerUI.newtab.tooltiptext): The tooltiptext shown
   -  on the "+" (new tab) button for a profile when a selection is available. -->
