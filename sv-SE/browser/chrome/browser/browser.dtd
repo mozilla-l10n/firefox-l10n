@@ -659,7 +659,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY editBookmark.done.label                     "Klar">
 <!ENTITY editBookmark.cancel.label                   "Avbryt">
-
+<!ENTITY editBookmark.removeBookmark.accessKey       "R">
 
 <!ENTITY identity.unverifiedsite2 "Den här webbplatsen har inte presenterat några identitetsuppgifter.">
 <!ENTITY identity.connectedTo "Du är ansluten till">
