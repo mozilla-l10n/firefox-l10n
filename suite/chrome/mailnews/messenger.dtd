@@ -481,7 +481,7 @@
 <!ENTITY contextSaveAs.accesskey "G">
 <!ENTITY contextPrint.label "Imprimir…">
 <!ENTITY contextPrint.accesskey "I">
-<!ENTITY contextPrintPreview.label "Vista preliminar">
+<!ENTITY contextPrintPreview.label "Vista previa">
 <!ENTITY contextPrintPreview.accesskey "V">
 
 <!-- Folder Pane Context Menu -->

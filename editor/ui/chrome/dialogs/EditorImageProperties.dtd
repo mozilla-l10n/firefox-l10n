@@ -22,7 +22,7 @@
 <!ENTITY noAltText.label "No usar texto alternativo">
 <!ENTITY noAltText.accessKey "D">
 
-<!ENTITY previewBox.label "Vista preliminar">
+<!ENTITY previewBox.label "Vista previa">
 
 <!-- These controls are in the Dimensions tab panel -->
 <!-- actualSize.label should be same as actualSizeRadio.label + ":" -->
