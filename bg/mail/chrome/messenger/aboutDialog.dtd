@@ -30,8 +30,10 @@
 
 <!ENTITY community.start2           "&brandShortName; е разработен от ">
 <!-- LOCALIZATION NOTE (community.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
+<!ENTITY community.mozillaLink      "&vendorShortName;">
 <!ENTITY community.middle2          ", която е ">
 <!-- LOCALIZATION NOTE (community.creditsLink): This is a link title that links to about:credits. -->
+<!ENTITY community.creditsLink      "глобална общност">
 <!ENTITY community.end3             " работеща заедно за една отворена и общодостъпна за всички Мрежа.">
 
 <!ENTITY helpus.start               "Искате да помогнете? ">

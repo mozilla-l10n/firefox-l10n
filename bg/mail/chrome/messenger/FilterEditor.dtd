@@ -23,10 +23,10 @@
 <!ENTITY contextManual.accesskey "р">
 <!ENTITY contextBeforeCls.label "Филтриране преди класификацията за нежелана поща">
 <!ENTITY contextAfterCls.label "Филтриране след класификацията за нежелана поща">
-
-
-
-
+<!ENTITY contextOutgoing.label "След Изпращане">
+<!ENTITY contextOutgoing.accesskey "И">
+<!ENTITY contextArchive.label "Архивиране">
+<!ENTITY contextArchive.accesskey "А">
 
 <!ENTITY filterActionDesc.label "Изпълняват се следните действия:">
 <!ENTITY filterActionDesc.accesskey "л">
