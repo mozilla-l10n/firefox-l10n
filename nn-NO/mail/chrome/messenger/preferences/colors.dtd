@@ -6,8 +6,12 @@
 <!ENTITY  window.width                    "38em">
 <!ENTITY  window.macWidth                 "41em">
 
-<!ENTITY  allowPagesToUse.label           "Tillat innhald å velje sine eigne fargar, i staden for vala over">
-<!ENTITY  allowPagesToUse.accesskey       "T">
+<!ENTITY  overridePageColors.label        "Overstyr fargane spesifiserte av innhaldet med vala mine ovanfor:">
+<!ENTITY  overridePageColors.accesskey    "O">
+
+<!ENTITY  overridePageColors.always.label "Alltid">
+<!ENTITY  overridePageColors.auto.label   "Berre ved bruk av høgkontrast-tema">
+<!ENTITY  overridePageColors.never.label  "Aldri">
 
 <!ENTITY  color                           "Tekst og bakgrunn">
 <!ENTITY  textColor.label                 "Tekst:">
