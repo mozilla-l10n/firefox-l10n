@@ -25,9 +25,6 @@
 <!ENTITY downloadCert.viewCert.label "Ver">
 <!ENTITY downloadCert.viewCert.text "Examinar certificado de CA">
 
-<!-- Certificate Exists in database -->
-<!ENTITY examineCert.accesskey "V">
-
 <!-- Strings for the SSL client auth ask dialog -->
 <!ENTITY clientAuthAsk.title "Solicitud de identificación de usuario">
 <!ENTITY clientAuthAsk.message1 "Este sitio ha pedido que se identifique con un certificado:">
