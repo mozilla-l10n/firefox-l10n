@@ -13,6 +13,10 @@
 <!ENTITY pref.dateformat.long "Lang" >
 <!ENTITY pref.dateformat.short "Kort"  >
 
+<!ENTITY pref.timezones.caption "Tidssone">
+<!ENTITY pref.timezones.label "Vel næraste by i di tidssone:">
+<!ENTITY pref.timezones.accesskey "S">
+
 <!ENTITY pref.defaults.label "Standardverdiar for nye element">
 <!ENTITY pref.events.label "Hendingar">
 <!ENTITY pref.tasks.label "Oppgåver">
