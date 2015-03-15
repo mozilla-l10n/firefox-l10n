@@ -24,7 +24,8 @@ that require it.  -->
 <!ENTITY detailsProgressiveDisclosure.label     "Детайли">
 <!ENTITY detailsProgressiveDisclosure.accesskey "т">
 
-
+<!ENTITY itemHistory.label                 "История на браузването">
+<!ENTITY itemHistory.accesskey             "И">
 <!ENTITY itemCookies.label                 "Бисквитки">
 <!ENTITY itemCookies.accesskey             "Б">
 <!ENTITY itemCache.label                   "Кеш">

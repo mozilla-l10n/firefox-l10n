@@ -156,6 +156,4 @@ functionality specific to thunderbird. -->
 <button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>">
 
 <!ENTITY remoteXUL.title "Отдалечен XUL">
-<!ENTITY remoteXUL.longDesc "<ul> 
-<li>Моля, свържете се със собствениците на сайта, за да ги информирате за проблема.</li> 
-</ul>">
+<!ENTITY remoteXUL.longDesc "<p><ul><li>Моля, свържете се със собствениците на сайта, за да ги информирате за проблема.</li></ul></p>">
