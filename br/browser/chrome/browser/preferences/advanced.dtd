@@ -34,8 +34,8 @@
 <!ENTITY healthReportLearnMore.label     "Gouzout hiroc'h">
 
 <!ENTITY telemetryDesc.label             "Rannañ a ra roadennoù a-fet digonusted, arver, periant ha personelaat gant &vendorShortName; evit skoazellañ ac'hanomp gwellaat &brandShortName;">
-
-
+<!ENTITY enableTelemetryData.label       "Rannañ roadennoù ouzhpenn (d.l.e. Telemetry)">
+<!ENTITY enableTelemetryData.accesskey   "T">
 <!ENTITY telemetryLearnMore.label        "Gouzout hiroc'h">
 
 <!ENTITY crashReporterDesc.label         "&brandShortName; a dreuzkas danevelloù sac'hadenn evit skoazellañ &vendorShortName; lakaat ho merdeer da vezañ stabiloc'h ha diogeloc'h.">

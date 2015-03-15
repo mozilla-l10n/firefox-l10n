@@ -142,4 +142,5 @@ functionality specific to firefox. -->
 <!ENTITY sslv3Used.title "N'haller ket kennaskañ outi ent diarvar">
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc) - Do not translate
      "ssl_error_unsupported_version". -->
+<!ENTITY sslv3Used.longDesc "Titouroù kempleshoc'h : ssl_error_unsupported_version">
 <!ENTITY sslv3Used.learnMore "Gouzout hiroc'h…">
