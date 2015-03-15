@@ -366,6 +366,10 @@ size. -->
 <!ENTITY site_settings_no_settings  "沒有可清除的設定。">
 
 <!ENTITY reading_list_added "已將頁面加入至閱讀清單">
+<!ENTITY reading_list_removed "已將頁面自閱讀清單移除">
+<!-- Localization note (reading_list_remove) : Used to remove the currently open page from
+     the user's reading list. The opposite of overlay_share_reading_list_btn_label. -->
+<!ENTITY reading_list_remove "從閱讀清單移除">
 <!ENTITY reading_list_duplicate "頁面已存在於您的閱讀清單中">
 
 <!-- Localization note (reading_list_time_minutes2) : This string is used in the "Reading List"
