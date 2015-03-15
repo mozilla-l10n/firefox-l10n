@@ -172,4 +172,5 @@ functionality specific to firefox. -->
 <!ENTITY sslv3Used.title "Genom att rapportera adressen och certifikatsinformationen för <span id='hostname'></span> underlättar du för oss att identifiera och blockera illasinnade webbplatser. Tack för att du hjälper till att skapa en säkrare webb!">
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc) - Do not translate
      "ssl_error_unsupported_version". -->
+<!ENTITY sslv3Used.longDesc "Mer information: ssl_error_unsupported_version">
 <!ENTITY sslv3Used.learnMore "Lär dig mer…">

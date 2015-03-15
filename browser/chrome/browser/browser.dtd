@@ -608,12 +608,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY quitApplicationCmdWin2.label       "Avsluta">
 <!ENTITY quitApplicationCmdWin2.accesskey   "A">
-
+<!ENTITY quitApplicationCmdWin2.tooltip     "Avsluta &brandShorterName;">
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY goForwardCmd.commandKey "]">
 <!ENTITY quitApplicationCmd.label       "Avsluta"> 
 <!ENTITY quitApplicationCmd.accesskey   "A">
-
+<!ENTITY quitApplicationCmdMac2.label   "Avsluta &brandShorterName;">
 <!-- LOCALIZATION NOTE(quitApplicationCmdUnix.key): This keyboard shortcut is used by both Linux and OSX builds. -->
 <!ENTITY quitApplicationCmdUnix.key     "Q">
 
@@ -832,12 +832,12 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY processHang.terminateScript.label        "Stoppa skript">
 <!ENTITY processHang.terminateScript.accessKey    "S">
-
-
-
-
-
-
+<!ENTITY processHang.debugScript.label            "Avlusa skript">
+<!ENTITY processHang.debugScript.accessKey        "l">
+<!ENTITY processHang.terminatePlugin.label        "Stoppa insticksprogram">
+<!ENTITY processHang.terminatePlugin.accessKey    "i">
+<!ENTITY processHang.terminateProcess.label       "Döda webbprocess">
+<!ENTITY processHang.terminateProcess.accessKey   "ö">
 
 <!ENTITY emeLearnMoreContextMenu.label            "Lär dig mer om DRM…">
 <!ENTITY emeLearnMoreContextMenu.accesskey        "D">

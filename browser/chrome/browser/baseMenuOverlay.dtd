@@ -14,10 +14,10 @@
                        for the help button in the menubar but Gnome does not.   -->
 <!ENTITY helpMenuWin.label        "Hjälp"> 
 <!ENTITY helpMenuWin.accesskey    "H">
-
-
-
-
+<!ENTITY aboutProduct2.label      "Om &brandShorterName;">
+<!ENTITY aboutProduct2.accesskey  "O">
+<!ENTITY productHelp2.label       "&brandShorterName; Hjälp">
+<!ENTITY productHelp2.accesskey   "H">
 <!ENTITY helpMac.commandkey       "?">
 
 <!ENTITY helpKeyboardShortcuts.label     "Tangentbordskommandon">
@@ -35,13 +35,15 @@
 <!ENTITY helpFeedbackPage.label      "Skicka in feedback…">
 <!ENTITY helpFeedbackPage.accesskey  "k">
 
-
+<!ENTITY helpShowTour2.label            "&brandShorterName;-guide">
+<!ENTITY helpShowTour2.accesskey        "d">
 
 <!ENTITY preferencesCmdMac.label        "Inställningar…">
 <!ENTITY preferencesCmdMac.commandkey   ",">
 
 <!ENTITY servicesMenuMac.label          "Tjänster">
 
+<!ENTITY hideThisAppCmdMac2.label       "Göm &brandShorterName;">
 <!ENTITY hideThisAppCmdMac2.commandkey  "H">
 
 <!ENTITY hideOtherAppsCmdMac.label      "Göm övriga">
