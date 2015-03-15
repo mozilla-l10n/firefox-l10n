@@ -50,7 +50,7 @@
 <!ENTITY hdrViewToolbarAlwaysReplySender.accesskey "о">
 
 <!ENTITY otherActionsButton2.label "Още">
-
+<!ENTITY otherActionsButton.tooltip "Още действия">
 <!ENTITY otherActionsOpenConversation1.label "Отваряне в диалога">
 <!ENTITY otherActionsOpenConversation1.accesskey "д">
 <!ENTITY otherActionsOpenInNewWindow1.label "Отваряне в нов прозорец">
