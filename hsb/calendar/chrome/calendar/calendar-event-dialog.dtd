@@ -18,28 +18,34 @@
 <!ENTITY newevent.eventStatus.cancelled.label     "Přetorhnjeny" >
 <!ENTITY newevent.eventStatus.cancelled.accesskey "P" >
 <!ENTITY newevent.todoStatus.cancelled.label      "Přetorhnjeny" >
-
-
-
-
-
-
-
+<!ENTITY newevent.status.tentative.label          "Nachwilu" >
+<!ENTITY newevent.status.tentative.accesskey      "N" >
+<!ENTITY newevent.status.confirmed.label          "Wobkrućeny" >
+<!ENTITY newevent.status.confirmed.accesskey      "W" >
+<!ENTITY newevent.status.needsaction.label        "Trjeba akciju" >
+<!ENTITY newevent.status.inprogress.label         "Běži" >
+<!ENTITY newevent.status.completed.label          "Skónčeny" >
 <!-- The following entity is for New Task dialog only -->
+
+<!ENTITY newtodo.percentcomplete.label      "&#037; dospołne">
 <!-- LOCALIZATON NOTE(event.attendees.notify.label,event.attendees.notifyundisclosed.label)
    - These two labels are displayed side by side in the event dialog, make sure
    - they still fit in. -->
 
-
+<!ENTITY event.attendees.notify.label               "Wobdźělnikow informować">
+<!ENTITY event.attendees.notifyundisclosed.label    "Dźělene přeporšenje na wobdźělnika">
+<!ENTITY event.attendees.notifyundisclosed.tooltip  "Tute nastajenje sćele jedne přeprošensku e-mejlku na wobdźělnika. Kóžde přeprošenje wobsahuje jenož přijimaceho wobdźělnika, tak zo druhe identity wobdźělnikow so njepřeradźuja.">
 <!-- Keyboard Shortcuts -->
 
-
-
-
-
-
-
-
+<!ENTITY event.dialog.new.event.key2              "l">
+<!ENTITY event.dialog.new.task.key2               "D">
+<!ENTITY event.dialog.new.message.key2            "N">
+<!ENTITY event.dialog.close.key                   "W">
+<!ENTITY event.dialog.save.key                    "S">
+<!ENTITY event.dialog.saveandclose.key            "L">
+<!ENTITY event.dialog.print.key                   "P">
+<!ENTITY event.dialog.undo.key                    "Z">
+<!ENTITY event.dialog.redo.key                    "Y">
 
 
 
@@ -56,6 +62,25 @@
 
 
 
+<!ENTITY  event.menu.item.save.label                      "Składować">
+<!ENTITY  event.menu.item.save.accesskey                  "S">
+<!ENTITY  event.menu.item.saveandclose.label              "Składować a začinić">
+<!ENTITY  event.menu.item.saveandclose.accesskey          "z">
+<!ENTITY  event.menu.item.delete.label                    "Zhašeć…">
+<!ENTITY  event.menu.item.delete.accesskey                "h">
+<!ENTITY  event.menu.item.page.setup.label                "Stronu připrawić">
+<!ENTITY  event.menu.item.page.setup.accesskey            "r">
+<!ENTITY  event.menu.item.print.label                     "Ćišćeć">
+<!ENTITY  event.menu.item.print.accesskey                 "i">
+
+<!ENTITY  event.menu.edit.label                           "Wobdźěłać">
+<!ENTITY  event.menu.edit.accesskey                       "b">
+<!ENTITY  event.menu.edit.undo.label                      "Cofnyć">
+<!ENTITY  event.menu.edit.undo.accesskey                  "C">
+<!ENTITY  event.menu.edit.redo.label                      "Wospjetować">
+<!ENTITY  event.menu.edit.redo.accesskey                  "o">
+<!ENTITY  event.menu.edit.cut.label                       "Wutřihać">
+<!ENTITY  event.menu.edit.cut.accesskey                   "t">
 
 
 
@@ -68,48 +93,30 @@
 
 
 
+<!ENTITY  event.menu.view.toolbars.customize.label        "Přiměrić…">
+<!ENTITY  event.menu.view.toolbars.customize.accesskey    "P">
 
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY  event.menu.options.attendees.label                  "Wobdźělnikow přeprosyć…">
+<!ENTITY  event.menu.options.attendees.accesskey              "d">
+<!ENTITY  event.menu.options.timezone2.label                  "Časowe pasma pokazać">
+<!ENTITY  event.menu.options.timezone2.accesskey              "s">
+<!ENTITY  event.menu.options.priority2.label                  "Priorita">
+<!ENTITY  event.menu.options.priority2.accesskey              "P">
+<!ENTITY  event.menu.options.priority.notspecified.label      "Njepodaty">
+<!ENTITY  event.menu.options.priority.notspecified.accesskey  "e">
+<!ENTITY  event.menu.options.priority.low.label               "Niski">
+<!ENTITY  event.menu.options.priority.low.accesskey           "i">
+<!ENTITY  event.menu.options.priority.normal.label            "Normalny">
+<!ENTITY  event.menu.options.priority.normal.accesskey        "N">
+<!ENTITY  event.menu.options.priority.high.label              "Wysoki">
+<!ENTITY  event.menu.options.priority.high.accesskey          "k">
+<!ENTITY  event.menu.options.privacy.label                    "Priwatnosć">
+<!ENTITY  event.menu.options.privacy.accesskey                "P">
+<!ENTITY  event.menu.options.privacy.public.label             "Zjawny podawk">
+<!ENTITY  event.menu.options.privacy.public.accesskey         "Z">
 
 
 
@@ -127,15 +134,16 @@
 
 
 <!-- Toolbar -->
+<!ENTITY  event.toolbar.delete.label                      "Zhašeć">
+<!ENTITY  event.toolbar.attendees.label                   "Wobdźělnikow přeprosyć">
+<!ENTITY  event.toolbar.privacy.label                     "Priwatnosć">
 
-
-
-
-
-
-
-
-
+<!ENTITY  event.toolbar.save.tooltip                      "Składować a začinić">
+<!ENTITY  event.toolbar.delete.tooltip                    "Zhašeć">
+<!ENTITY  event.toolbar.attendees.tooltip                 "Wobdźělnikow přeprosyć">
+<!ENTITY  event.toolbar.attachments.tooltip               "Přiwěški přidać">
+<!ENTITY  event.toolbar.privacy.tooltip                   "Priwatnosć změnić">
+<!ENTITY  event.toolbar.priority.tooltip                  "Prioritu změnić">
 
 
 <!-- Main page -->
@@ -147,6 +155,24 @@
 
 
 
+<!ENTITY event.attendees.label                            "Wobdźělnicy:" >
+
+<!ENTITY event.alldayevent.label                          "Cyłodnjowski podawk" >
+<!ENTITY event.alldayevent.accesskey                      "d">
+<!ENTITY event.from.label                                 "Start:" >
+<!ENTITY event.from.accesskey                             "S">
+<!ENTITY task.from.label                                  "Start:" >
+<!ENTITY task.from.accesskey                              "S">
+<!ENTITY event.to.label                                   "Kónc:" >
+<!ENTITY event.to.accesskey                               "K">
+<!ENTITY task.to.label                                    "Termin:" >
+<!ENTITY task.to.accesskey                                "m">
+<!ENTITY task.status.label                                "Status:" >
+<!ENTITY task.status.accesskey                            "a">
+<!ENTITY event.repeat.label                               "Wospjetowanje:" >
+<!ENTITY event.repeat.accesskey                           "W">
+<!ENTITY event.until.label                                "Hač do:">
+<!ENTITY event.until.accesskey                            "H">
 
 
 
@@ -159,33 +185,16 @@
 
 
 
+<!ENTITY event.attachments.popup.open.label               "Wočinić" >
+<!ENTITY event.attachments.popup.open.accesskey           "o" >
 
 
 
 
+<!ENTITY event.url.label                                  "Přiwuzny wotkaz:" >
+<!ENTITY event.priority2.label                            "Priorita:">
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY event.reminder.none.label                        "Żane dopomnjeće " >
 
 
 
@@ -304,30 +313,32 @@
 
 
 
+<!ENTITY event.freebusy.legend.busy             "Ma činić" >
 
 
 
-
-
-
-
-
-
-
-
-
+<!ENTITY event.attendee.role.required           "Trěbny wobdźělnik">
+<!ENTITY event.attendee.role.optional           "Móžny wobdźělnik">
+<!ENTITY event.attendee.role.chair              "Nawodnistwo">
+<!ENTITY event.attendee.role.nonparticipant     "Žadyn wobdźělnik">
+<!ENTITY event.attendee.usertype.individual     "Jednotliwc">
+<!ENTITY event.attendee.usertype.group          "Skupina">
+<!ENTITY event.attendee.usertype.resource       "Resursa">
+<!ENTITY event.attendee.usertype.room           "Rumnosć">
 <!-- Timezone dialog -->
 
 <!-- Read-Only dialog -->
 
+<!ENTITY read.only.general.label         "Powšitkowny">
+<!ENTITY read.only.title.label           "Titul:">
 
 
 
 
 
+<!ENTITY read.only.location.label        "Městno:">
 
-
-
+<!ENTITY read.only.organizer.label       "Organizator:">
 
 
 
