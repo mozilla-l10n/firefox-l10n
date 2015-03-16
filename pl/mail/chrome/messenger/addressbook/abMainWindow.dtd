@@ -5,7 +5,7 @@
 <!ENTITY addressbookWindow.title "Książka adresowa">
 
 <!ENTITY blankResultsPaneMessage.label "Ta książka adresowa wyświetla kontakty wyłącznie po wyszukiwaniu">
-<!ENTITY localResultsOnlyMessage.label "Kontakty ze zdalnych książek adresowcyh nie są wyświetlane zanim nie zostaną wyszukane">
+<!ENTITY localResultsOnlyMessage.label "Kontakty ze zdalnych książek adresowych nie są wyświetlane, zanim nie zostaną wyszukane">
 
 <!ENTITY fileMenu.label                 "Plik">
 <!ENTITY fileMenu.accesskey             "P">
