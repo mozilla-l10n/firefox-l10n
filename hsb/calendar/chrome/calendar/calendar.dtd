@@ -3,14 +3,12 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!-- General -->
 
-<!ENTITY calendar.calendar.label     "Protyka">
-<!ENTITY calendar.calendar.accesskey "P">
 
 
 
 
 
-<!ENTITY calendar.tomorrow.button.label       "Jutře">
+
 
 
 
@@ -51,7 +49,6 @@
 
 
 
-<!ENTITY calendar.today.button.tooltip          "K dźensnišemu" >
 
 
 
@@ -70,15 +67,6 @@
 
 
 
-<!ENTITY calendar.navigation.nextday.tooltip    "Jedyn dźeń doprědka" >
-
-
-
-<!ENTITY calendar.navigation.nextmonth.tooltip  "Jedyn měsac doprědka" >
-<!ENTITY calendar.navigation.prevmonth.tooltip  "Jedyn měsac wróćo" >
-
-<!ENTITY calendar.newevent.button.label         "Nowy podawk" >
-<!ENTITY calendar.newtask.button.label          "Nowy nadawk" >
 
 
 
@@ -95,12 +83,18 @@
 
 
 
-<!ENTITY calendar.list.header.label                 "Protyka">
 
 
 
-<!ENTITY calendar.task.filter.today.label           "Dźensa">
-<!ENTITY calendar.task.filter.today.accesskey       "D">
+
+
+
+
+
+
+
+
+
 
 
 
@@ -137,8 +131,6 @@
 
 <!-- Context Menu -->
 
-<!ENTITY calendar.context.modifyorviewitem.label      "Wočinić">
-<!ENTITY calendar.context.modifyorviewitem.accesskey  "o">
 
 
 
@@ -181,7 +173,6 @@
 
 
 
-<!ENTITY priority.level.none                "Njepodaty">
 
 
 
@@ -200,8 +191,6 @@
 <!-- Task View -->
 <!-- Note that the above *.context.* strings are currently used for the other
      task action buttons -->
-
-<!ENTITY calendar.taskview.delete.label     "Zhašeć">
 <!-- Server Context Menu -->
 
 
@@ -232,12 +221,12 @@
 
 
 
-<!ENTITY calendar.context.convertmenu.event.label        "Podawk…">
-<!ENTITY calendar.context.convertmenu.event.accesskey    "P">
 
 
-<!ENTITY calendar.context.convertmenu.task.label         "Nadawk…">
-<!ENTITY calendar.context.convertmenu.task.accesskey     "N">
+
+
+
+
 
 
 
@@ -288,13 +277,13 @@
 
 <!-- Select Calendar Dialog -->
 <!-- Calendar Printing -->
-<!ENTITY calendar.print.title.label "Titul:">
 
 
 
 
 
-<!ENTITY calendar.print.events.label "Podawki">
+
+
 
 
 
@@ -304,7 +293,7 @@
 
 <!-- Error reporting -->
 
-<!ENTITY calendar.error.description "Wopisanje:">
+
 
 <!-- Extract buttons in message header -->
 
