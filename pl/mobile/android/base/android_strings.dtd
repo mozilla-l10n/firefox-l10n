@@ -103,6 +103,7 @@ The locale includes both language and region concepts. -->
 <!ENTITY overlay_share_no_url "Nie znaleziono odnośnika do udostępnienia">
 <!ENTITY overlay_share_retry "Spróbuj ponownie">
 <!ENTITY overlay_share_select_device "Wybierz urządzenie">
+<!ENTITY overlay_no_synced_devices "Brak urządzeń połączonych z kontem Firefoksa">
 
 <!ENTITY pref_category_search3 "Wyszukiwanie">
 <!ENTITY pref_category_search_summary "Dostosuj wyszukiwarki">
