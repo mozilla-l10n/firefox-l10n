@@ -2,17 +2,22 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY event.title.label                  "Zapisk wobdźěłać" >
 
+<!ENTITY event.dialog.keepDurationButton.tooltip   "Traće wobchować, hdyž so kónčny datum měnja">
+<!ENTITY event.dialog.keepDurationButton.accesskey "T">
 
+<!ENTITY newevent.from.label                "Wot" >
+<!ENTITY newevent.to.label                  "Hač do" >
 
-
-
-
-
-
-
-
-
+<!ENTITY newevent.status.label                    "Status" >
+<!ENTITY newevent.status.accesskey                "S" >
+<!ENTITY newevent.eventStatus.none.label          "Njepodaty" >
+<!ENTITY newevent.eventStatus.none.accesskey      "o" >
+<!ENTITY newevent.todoStatus.none.label           "Njepodaty" >
+<!ENTITY newevent.eventStatus.cancelled.label     "Přetorhnjeny" >
+<!ENTITY newevent.eventStatus.cancelled.accesskey "P" >
+<!ENTITY newevent.todoStatus.cancelled.label      "Přetorhnjeny" >
 
 
 
