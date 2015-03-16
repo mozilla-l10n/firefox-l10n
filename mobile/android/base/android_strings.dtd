@@ -75,6 +75,7 @@
 <!ENTITY overlay_share_no_url "Nessun link disponibile in questa condivisione">
 <!ENTITY overlay_share_retry "Riprova">
 <!ENTITY overlay_share_select_device "Seleziona dispositivo">
+<!ENTITY overlay_no_synced_devices "Non è disponibile alcun dispositivo connesso a Firefox Account">
 <!ENTITY pref_category_search3 "Ricerca">
 <!ENTITY pref_category_search_summary "Personalizza i motori di ricerca">
 <!ENTITY pref_category_display "Visualizzazione">
