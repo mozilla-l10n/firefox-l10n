@@ -18,6 +18,10 @@
   -  approximation to it or choose a word (or words) that means
   -  "simple discardable text editor". -->
 
+
+
+<!ENTITY window.title                 "Qaralama Dəftəri">
+
 <!ENTITY fileMenu.label               "Fayl">
 <!ENTITY fileMenu.accesskey           "F">
 
@@ -37,10 +41,12 @@
 <!ENTITY saveFileCmd.accesskey        "D">
 
 
+<!ENTITY saveFileAsCmd.label          "Fərqli Saxla…">
+<!ENTITY saveFileAsCmd.accesskey      "a">
 
+<!ENTITY closeCmd.label               "Qapat">
 
-
-
+<!ENTITY closeCmd.accesskey           "t">
 
 <!ENTITY viewMenu.label               "Görünüş">
 <!ENTITY viewMenu.accesskey           "G">
@@ -61,13 +67,14 @@
 <!ENTITY normalSize.accesskey         "N">
 
 
+<!ENTITY editMenu.label               "Düzəlt">
+<!ENTITY editMenu.accesskey           "D">
 
 
 
 
-
-<!ENTITY inspect.label                "Araşdır">
-<!ENTITY inspect.accesskey            "I">
+<!ENTITY inspect.label                "Təftiş">
+<!ENTITY inspect.accesskey            "T">
 
 
 

@@ -13,7 +13,7 @@
      outer HTML of the current node -->
 
 <!ENTITY inspectorHTMLCopyOuter.label       "Xarici HTML-i kopyala">
-<!ENTITY inspectorHTMLCopyOuter.accesskey   "O">
+<!ENTITY inspectorHTMLCopyOuter.accesskey   "X">
 <!-- LOCALIZATION NOTE (inspectorCopyUniqueSelector.label): This is the label
      shown in the inspector contextual-menu for the item that lets users copy
      the CSS Selector of the current node -->

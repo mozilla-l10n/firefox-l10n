@@ -5,7 +5,7 @@
 
 <!ENTITY places.library.title  "Kitabxana">
 <!ENTITY places.library.width  "700">
-<!ENTITY places.library.height "531">
+<!ENTITY places.library.height "500">
 <!ENTITY organize.label        "Redaktə">
 <!ENTITY organize.accesskey    "d">
 <!ENTITY organize.tooltip      "Əlfəcinləri idarə et">

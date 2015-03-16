@@ -35,7 +35,7 @@
 
 
 
-
+<!ENTITY runtimeMenu_showDevicePrefs_label "Cihaz Nizamlamaları">
 
 
 
@@ -74,7 +74,7 @@
 
 
 <!-- Lense -->
-
+<!ENTITY details_warning_header "xəbərdarlıqlar">
 
 <!ENTITY details_description "Açıqlama">
 <!ENTITY details_location "Ünvan">
@@ -126,6 +126,8 @@
 
 
 <!-- Device Preferences and Settings -->
+
+<!ENTITY device_typeboolean "Boolean">
 
 
 <!ENTITY device_typeobject "Nesne">

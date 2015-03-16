@@ -27,7 +27,7 @@
 direction in which tabs are closed, i.e. locales that use RTL mode should say
 left instead of right. -->
 <!ENTITY  closeTabsToTheEnd.label            "Sağdakı vərəqləri qapat">
-<!ENTITY  closeTabsToTheEnd.accesskey        "i">
+<!ENTITY  closeTabsToTheEnd.accesskey        "k">
 <!ENTITY  closeOtherTabs.label               "Digər Vərəqləri Bağla">
 <!ENTITY  closeOtherTabs.accesskey           "B">
 <!-- LOCALIZATION NOTE (pinTab.label, unpinTab.label): "Pin" is being
