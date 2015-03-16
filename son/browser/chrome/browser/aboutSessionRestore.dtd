@@ -13,10 +13,11 @@
 <!ENTITY restorepage.startNew       "Goo ma ceeciyan taaga banzaŋ goowaati šintin">
 
 <!ENTITY restorepage.tryagainButton "Willi taka jinaa ga">
-
+<!ENTITY restorepage.restore.access "R">
 <!ENTITY restorepage.closeButton    "Daabu">
+<!ENTITY restorepage.close.access   "C">
 
-
+<!ENTITY restorepage.restoreHeader  "Yeeti">
 <!ENTITY restorepage.listHeader     "Zanfuney nda nor lokey">
 <!-- LOCALIZATION NOTE: &#37;S will be replaced with a number. -->
 <!ENTITY restorepage.windowLabel    "Zanfun &#037;S">
@@ -26,10 +27,11 @@
 
 
 <!ENTITY welcomeback2.restoreButton  "Ir ma koy!">
-
+<!ENTITY welcomeback2.restoreButton.access "L">
 
 <!ENTITY welcomeback2.tabtitle      "Zaame!">
 
+<!ENTITY welcomeback2.pageTitle     "Zaama!">
 <!ENTITY welcomeback2.pageInfo1     "&brandShortName; soolu ka koy.">
 
 <!ENTITY welcomeback2.label.restoreAll  "Zanfuney nda nor lokey kul yeeti">

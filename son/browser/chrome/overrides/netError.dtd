@@ -168,4 +168,5 @@ functionality specific to firefox. -->
 <!ENTITY sslv3Used.title "Ši hin ka ciyari saajante tee">
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc) - Do not translate
      "ssl_error_unsupported_version". -->
+<!ENTITY sslv3Used.longDesc "Alhabar koyjinante: ssl_error_unsupported_version">
 <!ENTITY sslv3Used.learnMore "Bay ka tonton…">

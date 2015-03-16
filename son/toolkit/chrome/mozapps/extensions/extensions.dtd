@@ -4,7 +4,7 @@
 <!ENTITY addons.windowTitle                   "Tontoney juwalkaa">
 
 <!ENTITY search.placeholder                   "Tontoney kul ceeci">
-
+<!ENTITY search.buttonlabel                   "Ceeci">
 <!-- LOCALIZATION NOTE (search.commandKey):
      The search command key should match findOnCmd.commandkey from browser.dtd -->
 <!ENTITY search.commandkey                    "f">
@@ -36,6 +36,8 @@
 <!ENTITY info.plugincheck.label                 "Guna ka dii wala war sukarey n' ka taagandi">
 <!ENTITY info.plugincheck.tooltip               "Guna ka dii wala war sukarey n' ka taagandi">
 <!-- categories / views -->
+
+<!ENTITY view.search.label                    "Ceeci">
 <!ENTITY view.discover.label                  "Tontoney zaa">
 <!ENTITY view.recentUpdates.label             "Taagandiri kokorantey">
 <!ENTITY view.availableUpdates.label          "Taagandiri barantey">
@@ -227,3 +229,4 @@ tontoni kul ihenney nda bayrantey war šiiyanoo še.">
 <!ENTITY experiment.info.changetelemetry "Kabukaw kayandiyaney">
 <!ENTITY experiment.info.changetelemetry.accesskey "T">
 
+<!ENTITY setting.learnmore "Bay ka tonton…">
