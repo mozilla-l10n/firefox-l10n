@@ -832,8 +832,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY processHang.terminateScript.label        "Šigira-dumoo kayandi">
 <!ENTITY processHang.terminateScript.accessKey    "g">
-
-
+<!ENTITY processHang.debugScript.label            "Šigira-dumoo hasaraa kaa">
+<!ENTITY processHang.debugScript.accessKey        "d">
 <!ENTITY processHang.terminatePlugin.label        "Wii nda sukari dam">
 <!ENTITY processHang.terminatePlugin.accessKey    "P">
 <!ENTITY processHang.terminateProcess.label       "Interneti koyjineyan wii">
