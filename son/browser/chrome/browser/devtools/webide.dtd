@@ -157,11 +157,15 @@
 <!ENTITY device_typeobject "Haya">
 <!ENTITY device_typenone "Dumi foo suuba">
 <!-- Device Preferences -->
+
+<!ENTITY devicepreference_title "Jinay ibaayey">
 <!ENTITY devicepreference_search "Ibaayey ceeci">
 <!ENTITY devicepreference_newname "Ibaayi maa taaga">
 <!ENTITY devicepreference_newtext "Ibaayi hinna">
 <!ENTITY devicepreference_addnew "Ibaayi taaga tonton">
 <!-- Device Settings -->
+
+<!ENTITY devicesetting_title "Jinay kayandiyaney">
 
 
 
