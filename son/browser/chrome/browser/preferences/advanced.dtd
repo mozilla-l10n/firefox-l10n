@@ -34,8 +34,8 @@
 <!ENTITY healthReportLearnMore.label     "Bay ka tonton">
 
 <!ENTITY telemetryDesc.label             "Goysahã, goyfondo, jinay šenda nda boŋše hanseyan bayhayey žemni war ceecikaa ga nda &vendorShortName; k'ir gaa ka &brandShortName; boryandi">
-
-
+<!ENTITY enableTelemetryData.label       "Bayhaya tontonantey žemna (sanda mooray neešiyan)">
+<!ENTITY enableTelemetryData.accesskey   "T">
 <!ENTITY telemetryLearnMore.label        "Bay ka tonton">
 
 <!ENTITY crashReporterDesc.label         "&brandShortName; ga kaŋyan bayrandi sanba ka gaa ka &vendorShortName; tee ceecikaw tabatante nda saajante bešere">
