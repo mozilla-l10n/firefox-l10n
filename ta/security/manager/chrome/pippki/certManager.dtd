@@ -79,8 +79,8 @@
 <!ENTITY certmgr.details.accesskey            "F">
 <!ENTITY certmgr.fields.label                 "புல மதிப்புகள்">
 <!ENTITY certmgr.fields.accesskey             "V">
-
-
+<!ENTITY certmgr.hierarchy.label              "சான்றிதழ் வரிசை">
+<!ENTITY certmgr.hierarchy.accesskey2         "H">
 <!ENTITY certmgr.addException.label           "விதிவிலக்கு சேர்...">
 <!ENTITY certmgr.addException.accesskey       "x">
 
