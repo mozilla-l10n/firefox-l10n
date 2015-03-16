@@ -41,8 +41,8 @@
 <!ENTITY runtimeMenu_showMonitor_accesskey "M">
 <!ENTITY runtimeMenu_showDevicePrefs_label "Jinay ibaayey">
 <!ENTITY runtimeMenu_showDevicePrefs_accesskey "D">
-
-
+<!ENTITY runtimeMenu_showSettings_label "Jinay kayandiyaney">
+<!ENTITY runtimeMenu_showSettings_accesskey "s">
 
 <!ENTITY viewMenu_label "Gunari">
 <!ENTITY viewMenu_accesskey "V">
@@ -94,7 +94,7 @@
 <!ENTITY details_location "Gorodoo">
 <!ENTITY details_manifestURL "Porogaram-ize tammaasa">
 <!ENTITY details_removeProject_button "Porožewoo kaa">
-
+<!ENTITY details_showPrepackageLog_button "Jinay-moofur zaaritiira cebe">
 <!-- New App -->
 
 <!ENTITY newAppWindowTitle "Porogaram-ize taaga">
@@ -146,7 +146,7 @@
 <!ENTITY runtimedetails_adbIsRoot "ADB ti linjoo: ">
 <!ENTITY runtimedetails_summonADBRoot "linji jinay">
 <!ENTITY runtimedetails_ADBRootWarning "(tunandikaw feerante ga waažibi)">
-
+<!ENTITY runtimedetails_unrestrictedPrivileges "DevTools fondo suubarey bila nda kaydoo: ">
 <!ENTITY runtimedetails_requestPrivileges "goyfondo beeriyaŋ ga waažibi">
 <!ENTITY runtimedetails_privilegesWarning "(Ga jinay tunandi taaga. Linji huruyan ga waažibi.)">
 <!-- Device Preferences and Settings -->

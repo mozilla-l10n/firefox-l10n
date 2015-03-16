@@ -75,19 +75,29 @@
 <!-- LOCALIZATION NOTE (profilerUI.invertFlameGraph): This is the label shown next to
   -  a checkbox that inverts and un-inverts the profiler's flame graph. -->
 
+<!ENTITY profilerUI.invertFlameGraph             "Flame bii ceberi moobere">
+<!ENTITY profilerUI.invertFlameGraph.tooltiptext "Ciyari biiceberi bereyanoo ga cebe kaŋ ciyari fondo bangantey kaŋ ga šintin nda kunga kul itaagey nda feera kunga žeeney ga.">
 <!-- LOCALIZATION NOTE (profilerUI.showPlatformData): This is the
   -  label for the checkbox that toggles whether or not Gecko platform data
   -  is displayed in the profiler. -->
 
+<!ENTITY profilerUI.showPlatformData             "Gecko goydaari bayhayey cebe">
+<!ENTITY profilerUI.showPlatformData.tooltiptext "Goydaari bayhaya cebeyan ka too JavaScript alhaali-teekaw bayrandi ma Gecko goydaari tammaasawey zaa.">
 <!-- LOCALIZATION NOTE (profilerUI.flattenTreeRecursion): This is the
   -  label for the checkbox that toggles the flattening of tree recursion in inspected
   -  functions in the profiler. -->
 
+<!ENTITY profilerUI.flattenTreeRecursion             "Tuuri fillayan tefayandi">
+<!ENTITY profilerUI.flattenTreeRecursion.tooltiptext "Fillayan tefayandi goyyan korošiyan waate.">
 <!-- LOCALIZATION NOTE (profilerUI.enableMemory): This string
   -  is displayed next to a checkbox determining whether or not memory
   -  measurements are enabled. -->
 
+<!ENTITY profilerUI.enableMemory             "Lakkal jiši">
+<!ENTITY profilerUI.enableMemory.tooltiptext "Lakkal ŋaayan jiši alhaali-teeyan waate. ">
 <!-- LOCALIZATION NOTE (profilerUI.enableFramerate): This string
   -  is displayed next to a checkbox determining whether or not framerate
   -  is recorded. -->
 
+<!ENTITY profilerUI.enableFramerate             "Kungahinna jiši">
+<!ENTITY profilerUI.enableFramerate.tooltiptext "Kungahinna jiši alhaali-teeyan waate.">
