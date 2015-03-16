@@ -15,7 +15,7 @@
 -->
 <!ENTITY engine.bookmarks.label           "Faqerojtësit">
 <!ENTITY engine.bookmarks.accesskey       "F">
-<!ENTITY engine.readinglist.label         "Lista Leximesh">
+<!ENTITY engine.readinglist.label         "Listën e Leximeve">
 <!ENTITY engine.readinglist.accesskey     "L">
 <!ENTITY engine.history.label             "Historikun">
 <!ENTITY engine.history.accesskey         "H">
