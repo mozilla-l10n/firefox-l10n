@@ -366,9 +366,10 @@ size. -->
 <!ENTITY site_settings_no_settings  "Nav iestatījumu, ko notīrīt.">
 
 <!ENTITY reading_list_added "Lapa pievienota lasīšanas sarakstam">
-
+<!ENTITY reading_list_removed "Lapa aizvākta no lasīšanas saraksta">
 <!-- Localization note (reading_list_remove) : Used to remove the currently open page from
      the user's reading list. The opposite of overlay_share_reading_list_btn_label. -->
+<!ENTITY reading_list_remove "Aizvākt no lasīšanas saraksta">
 <!ENTITY reading_list_duplicate "Lapa jau ir jūsu lasīšanas sarakstā">
 <!-- Localization note (reading_list_time_minutes2) : This string is used in the "Reading List"
      panel on the home page to give the user an estimate of how many minutes it will take to
@@ -554,6 +555,8 @@ no Android">
 <!-- LOCALIZATION NOTE (ellipsis): This text is appended to a piece of text that does not fit in the
      designated space. Use the unicode ellipsis char, \u2026, or use "..." if \u2026 doesn't suit
      traditions in your locale. -->
+
+<!ENTITY ellipsis "…">
 
 <!ENTITY colon ":">
 <!-- These are only used for accessibility for the done and overflow-menu buttons in the actionbar.
