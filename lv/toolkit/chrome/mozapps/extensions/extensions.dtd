@@ -4,7 +4,7 @@
 <!ENTITY addons.windowTitle                   "Papildinājumu pārvaldnieks">
 
 <!ENTITY search.placeholder                   "Meklēt papildinājumus">
-
+<!ENTITY search.buttonlabel                   "Meklēšana">
 <!-- LOCALIZATION NOTE (search.commandKey):
      The search command key should match findOnCmd.commandkey from browser.dtd -->
 <!ENTITY search.commandkey                    "f">
@@ -36,6 +36,8 @@
 <!ENTITY info.plugincheck.label                 "Pārbaudiet, lai pārliecinātos, vai jūsu spraudņiem nav atjauninājumu">
 <!ENTITY info.plugincheck.tooltip               "Pārbaudiet, lai pārliecinātos, vai jūsu spraudņiem nav atjauninājumu">
 <!-- categories / views -->
+
+<!ENTITY view.search.label                    "Meklēšana">
 <!ENTITY view.discover.label                  "Iegūt papildinājumus">
 <!ENTITY view.recentUpdates.label             "Nesenie atjauninājumi">
 <!ENTITY view.availableUpdates.label          "Pieejamie atjauninājumi">
@@ -226,3 +228,4 @@ ar papildus funkcionalitāti vai stilu. Izmēģiniet laiku ietaupošo sānu josl
 <!ENTITY experiment.info.changetelemetry "Telemetrijas iestatījumi">
 <!ENTITY experiment.info.changetelemetry.accesskey "T">
 
+<!ENTITY setting.learnmore "Uzzināt vairāk…">
