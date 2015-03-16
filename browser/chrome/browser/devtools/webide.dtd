@@ -188,6 +188,10 @@
 <!ENTITY wifi_auth_no_scanner "Nav QR koda skanēšanas loga?">
 <!-- LOCALIZATION NOTE (wifi_auth_yes_scanner): Link text to assist users with
      devices that can scan a QR code. -->
+<!ENTITY wifi_auth_yes_scanner "Vai jums ir QR skanera logs?">
 <!-- LOCALIZATION NOTE (wifi_auth_token_request): Instructions requesting the
      user to transfer authentication info by transferring a token. -->
+<!ENTITY wifi_auth_token_request "Ja jūsu otra ierīce prasa drošības kodu nevis piedāvā izmantot QR koda lasītāju, iekopējiet šo:">
 <!-- Logs panel -->
+
+<!ENTITY logs_title "Pakošanas komandu žurnāls">
