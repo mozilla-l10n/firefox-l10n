@@ -402,7 +402,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      The wording of this string should be as close as possible to
      searchFor.label and searchWith.label. This string will be used instead of
      them when the user has not typed any keyword. -->
-
+<!-- LOCALIZATION NOTE (changeSearchSettings.button):
+     This string won't wrap, so if the translated string is longer,
+     consider translating it as if it said only "Search Settings". -->
 
 
 <!ENTITY openLinkCmdInTab.label       "Fungua Kiungo kwa Kichupo Kipya">
@@ -574,14 +576,14 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY sidebarCloseButton.tooltip     "Funga mwambaa wa upande">
 
-<!ENTITY quitApplicationCmdWin.label       "Aga"> 
-<!ENTITY quitApplicationCmdWin.accesskey   "g">
+<!ENTITY quitApplicationCmdWin2.label       "Aga">
+<!ENTITY quitApplicationCmdWin2.accesskey   "g">
 
 
 
 <!ENTITY quitApplicationCmd.label       "Ondoka"> 
 <!ENTITY quitApplicationCmd.accesskey   "O">
-<!ENTITY quitApplicationCmdMac.label    "Ondoka &brandShortName;">
+
 <!-- LOCALIZATION NOTE(quitApplicationCmdUnix.key): This keyboard shortcut is used by both Linux and OSX builds. -->
 
 <!ENTITY closeCmd.label                 "Funga">  
@@ -758,11 +760,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY pluginNotification.width "28em">
 
-<!ENTITY tabCrashed.header "Tab ilikwama">
-<!ENTITY tabCrashed.message "Hii ni ya kuaibisha. Tumejaribu kuonyesha ukurasa huu wa mtandao, lakini Hauitikii.             ">
-<!ENTITY tabCrashed.checkSendReport "Ambia &vendorShortName; kuhusu ukwamaji huu ili aweze kutengeneza.">
-<!ENTITY tabCrashed.tryAgain "Jaribu Tena">
-
 
 <!ENTITY appMenuSidebars.label         "Mwambaa upande">
 
@@ -786,4 +783,25 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+<!ENTITY emeNotificationsDontAskAgain.label       "Usiniulize tena">
+<!ENTITY emeNotificationsDontAskAgain.accesskey   "U">
+
+
+
+<!-- Pre-landed string for bug 1124153 -->
+<!-- Pre-landed string for bug 1133662 -->
+<!-- Pre-landed string for bug 1123525 -->
+<!-- Pre-landed strings for bug 1123519 -->
 

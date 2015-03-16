@@ -28,19 +28,16 @@
 
 <!ENTITY dataChoicesTab.label            "Chaguo za Data">
 
-<!ENTITY healthReportSection.label       "Ripoti ya Hali ya &brandShortName;">
 <!ENTITY healthReportDesc.label          "Hukusaidia kuelewa utendaji wa kivinjari chako na hushirikisha data na &vendorShortName; kuhusu hali ya kivinjari chako">
 <!ENTITY enableHealthReport.label        "Wezesha Ripoti ya Hali ya &brandShortName;">
 <!ENTITY enableHealthReport.accesskey    "R">
 <!ENTITY healthReportLearnMore.label     "Jifunze Zaidi">
 
-<!ENTITY telemetrySection.label          "Telemeta">
 <!ENTITY telemetryDesc.label             "Hushiriki utendaji, utumizi, maunzi na ugeuzaji wa data kuhusu kivinjari chako na &vendorShortName; ili kutusaidia kufanya &brandShortName; bora">
-<!ENTITY enableTelemetry.label           "Wezesha Telemeta">
-<!ENTITY enableTelemetry.accesskey       "T">
+
+
 <!ENTITY telemetryLearnMore.label        "Jifunze Zaidi">
 
-<!ENTITY crashReporterSection.label      "Ripoti za Mvurugo">
 <!ENTITY crashReporterDesc.label         "&brandShortName; huwakilisha ripoti za kishindo ili kusaidia &vendorShortName; kufanya kivinjari chako thabiti na salama zaidi">
 <!ENTITY enableCrashReporter.label       "Wezesha Kiripoti cha Kishindo">
 <!ENTITY enableCrashReporter.accesskey   "C">

@@ -13,8 +13,6 @@
 
 
 
-
-
 <!ENTITY certmgr.detail.prettyprint_tab.title "Imininingwane">
 <!ENTITY certmgr.detail.prettyprint_tab.accesskey "I">
 
@@ -41,12 +39,6 @@
 
 
 
-<!ENTITY certmgr.deletecert.aftername         "Unahakika unataka kufuta cheti hiki?">
-
-
-
-
-
 
 <!ENTITY certmgr.tokenname                    "Kifaa cha Usalama">
 
@@ -62,8 +54,6 @@
 
 
 
-<!ENTITY certmgr.add.label                    "Ongeza">
-<!ENTITY certmgr.add.accesskey                "O">
 <!ENTITY certmgr.export.label                 "Leta…">
 <!ENTITY certmgr.export.accesskey             "e">
 <!ENTITY certmgr.delete2.label                "Futa…">

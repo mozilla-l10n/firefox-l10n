@@ -11,10 +11,10 @@
 <!-- LOCALIZATION NOTE some localizations of Windows (ex:french, german) use "?"
                        for the help button in the menubar but Gnome does not.   -->
 
-<!ENTITY aboutProduct.label       "Kuhusu &brandShortName;">
-<!ENTITY aboutProduct.accesskey   "K">
-<!ENTITY productHelp.label        "&brandShortName; Msaada">
-<!ENTITY productHelp.accesskey    "M">
+
+
+
+
 
 
 <!ENTITY helpKeyboardShortcuts.label     "Njiamkato za Kibodi">
@@ -23,8 +23,7 @@
 <!ENTITY helpSafeMode.label       "Anzisha tena na Vifaa vya Nyongeza Vilivyolemazwa…">
 <!ENTITY helpSafeMode.accesskey   "A">
 
-<!ENTITY healthReport.label       "Ripoti ya Hali ya &brandShortName;">
-<!ENTITY healthReport.accesskey   "e">
+
 
 <!ENTITY helpTroubleshootingInfo.label      "Kusuluhisha Maelezo">
 <!ENTITY helpTroubleshootingInfo.accesskey  "K">
@@ -39,7 +38,6 @@
 
 <!ENTITY servicesMenuMac.label          "Huduma">
 
-<!ENTITY hideThisAppCmdMac.label        "Ficha &brandShortName;">
 
 
 <!ENTITY hideOtherAppsCmdMac.label      "Ficha Mengine">

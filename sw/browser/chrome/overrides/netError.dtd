@@ -165,8 +165,6 @@ functionality specific to firefox. -->
 <!ENTITY remoteXUL.title "XUL ya Mbali">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Tafadhali wasiliana na wamiliki wa tovuti ili kuwafahamisha juu ya tatizo hili.</li></ul></p>">
 
-<!-- LOCALIZATION NOTE (oldSecurityProtocol.longDesc) - Do not translate the
-     <span id='hostname'></span>. -->
-<!-- LOCALIZATION NOTE (oldSecurityProtocol.advancedInfo) - Do not translate
-     the <span id='errorcode'></span>. -->
+<!-- LOCALIZATION NOTE (sslv3Used.longDesc) - Do not translate
+     "ssl_error_unsupported_version". -->
 

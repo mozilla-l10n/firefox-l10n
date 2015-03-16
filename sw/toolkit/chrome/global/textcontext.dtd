@@ -24,3 +24,5 @@
 <!ENTITY spellNoSuggestions.label "(Hakuna Maoni ya Tahajia)">
 <!ENTITY spellDictionaries.label "Lugha">
 <!ENTITY spellDictionaries.accesskey "L">
+
+<!ENTITY searchTextBox.clear.label "Ondoa">

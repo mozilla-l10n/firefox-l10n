@@ -9,7 +9,6 @@
 
 
 <!ENTITY setPassword.meter.label "Mita ya ubora wa nenosiri">
-<!ENTITY setPassword.meter.loading "Kupakia">
 <!-- Values for resetpassword.xul -->
 
 <!ENTITY resetPasswordButtonLabel "Weka upya">
@@ -20,19 +19,6 @@
 <!ENTITY getPassword.title  "Ingiza Nywila Kuu">
 <!ENTITY getPassword.tokenName2.label "Kifaa cha Usalama:">
 <!ENTITY getPassword.password.label "Nywila:">
-<!-- These should be common -->
-
-<!ENTITY piperror.title "Iphutha">
-
-<!-- Prefs panel strings -->
-
-<!ENTITY pref.security.general.lHeader "Usalama">
-
-
-<!ENTITY pref.security.general.level.title "Kifaa cha Usalama">
-
-<!ENTITY pref.security.general.certificates.title "Vyeti">
-
 <!-- Downloading a cert -->
 
 
@@ -40,8 +26,6 @@
 
 
 <!ENTITY downloadCert.viewCert.label "Bheka">
-<!ENTITY downloadCert.viewPolicy.label "Sera">
-
 
 <!-- Strings for the SSL client auth ask dialog -->
 
@@ -49,8 +33,6 @@
 
 <!-- Strings for the cert picker dialog -->
 <!ENTITY certPicker.info  "Vyeti:">
-
-
 
 
 

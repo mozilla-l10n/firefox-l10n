@@ -52,6 +52,8 @@
 <!ENTITY cmd.open.accesskey              "F">
 <!ENTITY cmd.open_window.label           "Fungua katika Dirisha Mpya">
 <!ENTITY cmd.open_window.accesskey       "D">
+
+
 <!ENTITY cmd.open_tab.label              "Fungua katika Kichupo Kipya">
 <!ENTITY cmd.open_tab.accesskey          "c">
 <!ENTITY cmd.open_all_in_tabs.label      "Fungua Zote kwa vichupo">

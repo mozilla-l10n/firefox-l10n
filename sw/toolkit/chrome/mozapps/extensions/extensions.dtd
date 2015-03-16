@@ -4,6 +4,7 @@
 <!ENTITY addons.windowTitle                   "Msimamizi Kifaa cha Nyongeza">
 
 <!ENTITY search.placeholder                   "Tafutiza vifaa vyote vya nyongeza">
+
 <!-- LOCALIZATION NOTE (search.commandKey):
      The search command key should match findOnCmd.commandkey from browser.dtd -->
 <!ENTITY search.commandkey                    "f">
@@ -35,8 +36,6 @@
 <!ENTITY info.plugincheck.label                 "Kagua kona ilkiwa grogramu-jalizi zako zimesasishwa">
 <!ENTITY info.plugincheck.tooltip               "Kagua kona ilkiwa grogramu-jalizi zako zimesasishwa">
 <!-- categories / views -->
-
-<!ENTITY view.search.label                    "Tafutiza">
 <!ENTITY view.discover.label                  "Pata Vifaa vya nyongeza">
 <!ENTITY view.recentUpdates.label             "Visasaisho vya hivi karibuni">
 <!ENTITY view.availableUpdates.label          "Visasaisho Vinavyopatikana">
@@ -223,6 +222,7 @@ vifaa vya nyongeza bora zaidi na vinavyojulikana zaidi kwako ili uvijaribu.">
      Install https://people.mozilla.org/~gszorc/dummy-experiment-addon.xpi
      to cause this tab to appear. -->
 <!ENTITY experiment.info.learnmore "Jifunze Zaidi">
+
 
 
 
