@@ -6,9 +6,9 @@
 
 <!ENTITY startupPage.label         "Когато &brandShortName; стартира:">
 <!ENTITY startupPage.accesskey     "с">
-<!ENTITY startupHomePage.label     "Показване на началната страница">
-<!ENTITY startupBlankPage.label    "Показване на празна страница">
-<!ENTITY startupLastSession.label  "Показване на под/прозорците от последния път">
+<!ENTITY startupHomePage.label     "Показва началната страница">
+<!ENTITY startupBlankPage.label    "Показва празна страница">
+<!ENTITY startupLastSession.label  "Показва под/прозорците от последния път">
 
 <!ENTITY homepage.label            "Начална страница:">
 <!ENTITY homepage.accesskey        "Н">
@@ -22,13 +22,13 @@
 
 <!ENTITY downloads.label     "Изтегляния">
 
-<!ENTITY saveTo.label "Запис на файловете в">
+<!ENTITY saveTo.label "Запазване в">
 <!ENTITY saveTo.accesskey "З">
 <!ENTITY chooseFolderWin.label        "Разглеждане…">
 <!ENTITY chooseFolderWin.accesskey    "Р">
 <!ENTITY chooseFolderMac.label        "Избиране…">
 <!ENTITY chooseFolderMac.accesskey    "И">
-<!ENTITY alwaysAsk.label "Винаги да се пита къде да се записват файловете">
+<!ENTITY alwaysAsk.label "Винаги да пита къде да бъдат запазени">
 <!ENTITY alwaysAsk.accesskey "В">
 
 <!ENTITY alwaysCheckDefault2.label        "Проверяване дали &brandShortName; е браузърът по подразбиране">
@@ -38,5 +38,6 @@
 <!ENTITY isDefault.label                  "&brandShortName; е вашият стандартен браузър">
 <!ENTITY isNotDefault.label               "&brandShortName;  не е вашият стандартен браузър">
 
+<!ENTITY separateProfileMode.label        "Разрешаване на &brandShortName; и Firefox да работят едновременно">
 
 

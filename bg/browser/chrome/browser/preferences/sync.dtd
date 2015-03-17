@@ -77,6 +77,6 @@ both, to better adapt this sentence to their language.
 
 <!ENTITY welcome.description "С &brandShortName; навсякъде може да имате достъп до вашите подпрозорци, отметки, пароли и други.">
 <!ENTITY welcome.signIn.label "Вписване">
-<!ENTITY welcome.createAccount.label "Създаване на акаунт">
+<!ENTITY welcome.createAccount.label "Създаване на профил">
 
 <!ENTITY welcome.useOldSync.label "Използвате ли по-стара версия на Sync?">
