@@ -369,6 +369,7 @@ size. -->
 <!ENTITY reading_list_removed "Парақ сіздің Оқу тізіміңізден өшірілді">
 <!-- Localization note (reading_list_remove) : Used to remove the currently open page from
      the user's reading list. The opposite of overlay_share_reading_list_btn_label. -->
+<!ENTITY reading_list_remove "Оқу тізімінен өшіру">
 <!ENTITY reading_list_duplicate "Парақ сіздің Оқу тізіміңізде бар болып тұр">
 <!-- Localization note (reading_list_time_minutes2) : This string is used in the "Reading List"
      panel on the home page to give the user an estimate of how many minutes it will take to
