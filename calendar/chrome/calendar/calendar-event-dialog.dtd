@@ -2,210 +2,239 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY event.title.label                  "Modifitgar l'element" >
 
+<!ENTITY event.dialog.keepDurationButton.tooltip   "Mantegnair la durada sche la data da finiziun vegn midada">
+<!ENTITY event.dialog.keepDurationButton.accesskey "M">
 
+<!ENTITY newevent.from.label                "Da" >
+<!ENTITY newevent.to.label                  "A" >
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY newevent.status.label                    "Status" >
+<!ENTITY newevent.status.accesskey                "S" >
+<!ENTITY newevent.eventStatus.none.label          "Betg specifitgà" >
+<!ENTITY newevent.eventStatus.none.accesskey      "e" >
+<!ENTITY newevent.todoStatus.none.label           "Betg specifitgà" >
+<!ENTITY newevent.eventStatus.cancelled.label     "Annullà" >
+<!ENTITY newevent.eventStatus.cancelled.accesskey "l" >
+<!ENTITY newevent.todoStatus.cancelled.label      "Annullà" >
+<!ENTITY newevent.status.tentative.label          "Provisoric" >
+<!ENTITY newevent.status.tentative.accesskey      "P" >
+<!ENTITY newevent.status.confirmed.label          "Confermà" >
+<!ENTITY newevent.status.confirmed.accesskey      "C" >
+<!ENTITY newevent.status.needsaction.label        "Dovra acziun" >
+<!ENTITY newevent.status.inprogress.label         "En progress" >
+<!ENTITY newevent.status.completed.label          "Cumplettà ils" >
 <!-- The following entity is for New Task dialog only -->
+
+<!ENTITY newtodo.percentcomplete.label      "&#037; cumplet">
 <!-- LOCALIZATON NOTE(event.attendees.notify.label,event.attendees.notifyundisclosed.label)
    - These two labels are displayed side by side in the event dialog, make sure
    - they still fit in. -->
 
-
+<!ENTITY event.attendees.notify.label               "Infurmar ils participants">
+<!ENTITY event.attendees.notifyundisclosed.label    "Invitaziun seperada per mintga participant">
+<!ENTITY event.attendees.notifyundisclosed.tooltip  "Questa opziun trametta in e-mail d'invitaziun seperà per mintga participant. Mintga invitaziun cuntegna be il participant da destinatur, uschè che las identitads dals auters participants na vegnan betg relevadas.">
 <!-- Keyboard Shortcuts -->
 
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY event.dialog.new.event.key2              "I">
+<!ENTITY event.dialog.new.task.key2               "D">
+<!ENTITY event.dialog.new.message.key2            "N">
+<!ENTITY event.dialog.close.key                   "W">
+<!ENTITY event.dialog.save.key                    "S">
+<!ENTITY event.dialog.saveandclose.key            "L">
+<!ENTITY event.dialog.print.key                   "P">
+<!ENTITY event.dialog.undo.key                    "Z">
+<!ENTITY event.dialog.redo.key                    "Y">
+<!ENTITY event.dialog.cut.key                     "X">
+<!ENTITY event.dialog.copy.key                    "C">
+<!ENTITY event.dialog.paste.key                   "V">
+<!ENTITY event.dialog.select.all.key              "A">
 <!-- Menubar -->
 
+<!ENTITY  event.menu.item.new.label                       "Nov">
+<!ENTITY  event.menu.item.new.accesskey                   "N">
+<!ENTITY  event.menu.item.new.event.label                 "Occurrenza">
+<!ENTITY  event.menu.item.new.event.accesskey             "O">
+<!ENTITY  event.menu.item.new.task.label                  "Pensum">
+<!ENTITY  event.menu.item.new.task.accesskey              "P">
+<!ENTITY  event.menu.item.new.message.label               "Messadi">
+<!ENTITY  event.menu.item.new.message.accesskey           "M">
+<!ENTITY  event.menu.item.new.contact.label               "Contact dal cudeschet d'adressas">
+<!ENTITY  event.menu.item.new.contact.accesskey           "C">
+<!ENTITY  event.menu.item.close.label                     "Serrar">
+<!ENTITY  event.menu.item.close.accesskey                 "S">
+<!ENTITY  event.menu.item.save.label                      "Memorisar">
+<!ENTITY  event.menu.item.save.accesskey                  "M">
+<!ENTITY  event.menu.item.saveandclose.label              "Serrar e Memorisar">
+<!ENTITY  event.menu.item.saveandclose.accesskey          "e">
+<!ENTITY  event.menu.item.delete.label                    "Stizzar…">
+<!ENTITY  event.menu.item.delete.accesskey                "S">
+<!ENTITY  event.menu.item.page.setup.label                "Organisar la pagina">
+<!ENTITY  event.menu.item.page.setup.accesskey            "g">
+<!ENTITY  event.menu.item.print.label                     "Stampar">
+<!ENTITY  event.menu.item.print.accesskey                 "S">
 
+<!ENTITY  event.menu.edit.label                           "Modifitgar">
+<!ENTITY  event.menu.edit.accesskey                       "M">
+<!ENTITY  event.menu.edit.undo.label                      "Revocar">
+<!ENTITY  event.menu.edit.undo.accesskey                  "R">
+<!ENTITY  event.menu.edit.redo.label                      "Repeter">
+<!ENTITY  event.menu.edit.redo.accesskey                  "R">
+<!ENTITY  event.menu.edit.cut.label                       "Tagliar ora">
+<!ENTITY  event.menu.edit.cut.accesskey                   "T">
+<!ENTITY  event.menu.edit.copy.label                      "Copiar">
+<!ENTITY  event.menu.edit.copy.accesskey                  "C">
+<!ENTITY  event.menu.edit.paste.label                     "Encollar">
+<!ENTITY  event.menu.edit.paste.accesskey                 "E">
+<!ENTITY  event.menu.edit.select.all.label                "Selecziunar tut">
+<!ENTITY  event.menu.edit.select.all.accesskey            "t">
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<!ENTITY  event.menu.view.toolbars.customize.label        "Persumalisar…">
+<!ENTITY  event.menu.view.label                           "Vista">
+<!ENTITY  event.menu.view.accesskey                       "V">
+<!ENTITY  event.menu.view.toolbars.label                  "Travs d'utensils">
+<!ENTITY  event.menu.view.toolbars.accesskey              "T">
+<!ENTITY  event.menu.view.toolbars.event.label            "Trav d'utensils d'occurrenzas">
+<!ENTITY  event.menu.view.toolbars.event.accesskey        "o">
+<!ENTITY  event.menu.view.toolbars.customize.label        "Persunalisar…">
 <!ENTITY  event.menu.view.toolbars.customize.accesskey    "P">
+<!ENTITY  event.menu.view.showlink.label                  "Mussar la colliaziun correspundenta">
+<!ENTITY  event.menu.view.showlink.accesskey              "c">
 
+<!ENTITY  event.menu.options.label                            "Opziuns">
+<!ENTITY  event.menu.options.accesskey                        "O">
+<!ENTITY  event.menu.options.attendees.label                  "Envidar Participants…">
+<!ENTITY  event.menu.options.attendees.accesskey              "E">
+<!ENTITY  event.menu.options.timezone2.label                  "Mussar zonas d'urari">
+<!ENTITY  event.menu.options.timezone2.accesskey              "u">
+<!ENTITY  event.menu.options.priority2.label                  "Prioritad">
+<!ENTITY  event.menu.options.priority2.accesskey              "d">
+<!ENTITY  event.menu.options.priority.notspecified.label      "Betg specifitgà">
+<!ENTITY  event.menu.options.priority.notspecified.accesskey  "o">
+<!ENTITY  event.menu.options.priority.low.label               "Bassa">
+<!ENTITY  event.menu.options.priority.low.accesskey           "B">
+<!ENTITY  event.menu.options.priority.normal.label            "Normal">
+<!ENTITY  event.menu.options.priority.normal.accesskey        "N">
+<!ENTITY  event.menu.options.priority.high.label              "Auta">
+<!ENTITY  event.menu.options.priority.high.accesskey          "A">
+<!ENTITY  event.menu.options.privacy.label                    "Visibilitad ">
+<!ENTITY  event.menu.options.privacy.accesskey                "V">
+<!ENTITY  event.menu.options.privacy.public.label             "Eveniment public">
+<!ENTITY  event.menu.options.privacy.public.accesskey         "u">
+<!ENTITY  event.menu.options.privacy.confidential.label       "Be mussar temp e data">
+<!ENTITY  event.menu.options.privacy.confidential.accesskey   "B">
+<!ENTITY  event.menu.options.privacy.private.label            "Eveniment privat">
+<!ENTITY  event.menu.options.privacy.private.accesskey        "r">
+<!ENTITY  event.menu.options.show.time.label                  "Mussar temp sco">
+<!ENTITY  event.menu.options.show.time.accesskey              "t">
+<!ENTITY  event.menu.options.show.time.busy.label             "Occupà">
+<!ENTITY  event.menu.options.show.time.busy.accesskey         "O">
+<!ENTITY  event.menu.options.show.time.free.label             "Liber">
+<!ENTITY  event.menu.options.show.time.free.accesskey         "L">
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY event.invite.attendees.label                     "Envidar participants…">
+<!ENTITY event.invite.attendees.accesskey                 "E">
+<!ENTITY event.email.attendees.label                      "Scriver in e-mail a tut ils participants…">
+<!ENTITY event.email.attendees.accesskey                  "t">
+<!ENTITY event.email.tentative.attendees.label            "Scriver in e-mail als participants indecis…">
+<!ENTITY event.email.tentative.attendees.accesskey        "i">
 <!-- Toolbar -->
 
+<!ENTITY  event.toolbar.save.label                        "Memorisar e Serrar">
+<!ENTITY  event.toolbar.delete.label                      "Stizzar">
+<!ENTITY  event.toolbar.attendees.label                   "Envidar Participants">
+<!ENTITY  event.toolbar.privacy.label                     "Visibilitad">
 
-
-
-
-
-
-
-
-
-
+<!ENTITY  event.toolbar.save.tooltip                      "Memorisar e serrar">
+<!ENTITY  event.toolbar.delete.tooltip                    "Stizzar">
+<!ENTITY  event.toolbar.attendees.tooltip                 "Envidar participants">
+<!ENTITY  event.toolbar.attachments.tooltip               "Agiuntar agiuntas">
+<!ENTITY  event.toolbar.privacy.tooltip                   "Midar la visibilitad">
+<!ENTITY  event.toolbar.priority.tooltip                  "Midar la prioritad">
+<!ENTITY  event.toolbar.status.tooltip                    "Midar il status">
+<!ENTITY  event.toolbar.freebusy.tooltip                  "Midar il temp liber/occupà">
 <!-- Main page -->
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY event.title.textbox.label                        "Titel:" >
+<!ENTITY event.title.textbox.accesskey                    "i">
+<!ENTITY event.location.label                             "Lieu:" >
+<!ENTITY event.location.accesskey                         "L">
+<!ENTITY event.categories.label                           "Cateoria:">
+<!ENTITY event.categories.accesskey                       "i">
+<!ENTITY event.categories.textbox.label                   "Agiuntar ina nova categoria" >
+<!ENTITY event.calendar.label                             "Chalender" >
+<!ENTITY event.calendar.accesskey                         "C">
+<!ENTITY event.attendees.label                            "Participants:" >
+<!ENTITY event.attendees.accesskey                        "I" >
+<!ENTITY event.alldayevent.label                          "Tuttadi" >
+<!ENTITY event.alldayevent.accesskey                      "T">
+<!ENTITY event.from.label                                 "Cumenzament:" >
+<!ENTITY event.from.accesskey                             "C">
+<!ENTITY task.from.label                                  "Cumenzament" >
+<!ENTITY task.from.accesskey                              "B">
+<!ENTITY event.to.label                                   "Finiziun:" >
+<!ENTITY event.to.accesskey                               "i">
+<!ENTITY task.to.label                                    "Data da scadenza:" >
+<!ENTITY task.to.accesskey                                "c">
+<!ENTITY task.status.label                                "Status:" >
+<!ENTITY task.status.accesskey                            "a">
+<!ENTITY event.repeat.label                               "Repeter:" >
+<!ENTITY event.repeat.accesskey                           "R">
+<!ENTITY event.until.label                                "Enfin:">
+<!ENTITY event.until.accesskey                            "f">
+<!ENTITY event.reminder.label                             "Promemoria:" >
+<!ENTITY event.reminder.accesskey                         "m">
+<!ENTITY event.description.label                          "Descripziun:" >
+<!ENTITY event.description.accesskey                      "p">
+<!ENTITY event.attachments.label                          "Agiuntas:" >
+<!ENTITY event.attachments.accesskey                      "t" >
+<!ENTITY event.attachments.menubutton.label               "Agiuntar">
+<!ENTITY event.attachments.menubutton.accesskey           "A">
+<!ENTITY event.attachments.url.label                      "Pagina d'internet…">
+<!ENTITY event.attachments.url.accesskey                  "P">
+<!ENTITY event.attachments.popup.remove.label             "Allontanar" >
+<!ENTITY event.attachments.popup.remove.accesskey         "A" >
 <!ENTITY event.attachments.popup.open.label               "Avrir" >
 <!ENTITY event.attachments.popup.open.accesskey           "A" >
+<!ENTITY event.attachments.popup.removeAll.label          "Allontanar tut" >
+<!ENTITY event.attachments.popup.removeAll.accesskey      "t" >
+<!ENTITY event.attachments.popup.attachPage.label         "Agiuntar ina pagina d'internet…" >
+<!ENTITY event.attachments.popup.attachPage.accesskey     "p" >
+<!ENTITY event.url.label                                  "Colliaziun correspundenta:" >
+<!ENTITY event.priority2.label                            "Prioritad:">
 
+<!ENTITY event.reminder.none.label                        "Nagina promemoria " >
+<!ENTITY event.reminder.0minutes.before.label             "0 minutas avant" >
+<!ENTITY event.reminder.5minutes.before.label             "5 minutas avant" >
+<!ENTITY event.reminder.15minutes.before.label            "15 minutas avant" >
+<!ENTITY event.reminder.30minutes.before.label            "30 minutas avant" >
+<!ENTITY event.reminder.1hour.before.label                "1 ura avant" >
+<!ENTITY event.reminder.2hours.before.label               "2 uras avant" >
+<!ENTITY event.reminder.12hours.before.label              "12 uras avant" >
+<!ENTITY event.reminder.1day.before.label                 "1 di avant" >
+<!ENTITY event.reminder.2days.before.label                "2 dis avant" >
+<!ENTITY event.reminder.1week.before.label                "1 emna avant" >
+<!ENTITY event.reminder.custom.label                      "Persunalisà…" >
 
+<!ENTITY event.reminder.multiple.label                    "Pliras promemorias…" >
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY event.statusbarpanel.freebusy.label              "Temp sco:">
+<!ENTITY event.statusbarpanel.privacy.label               "Visibilitad:">
 <!-- Recurrence dialog -->
 
+<!ENTITY recurrence.title.label                         "Modifitgar il repeter">
 
+<!ENTITY event.repeat.does.not.repeat.label             "Na repeta betg">
+<!ENTITY event.repeat.daily.label                       "Mintga di">
+<!ENTITY event.repeat.weekly.label                      "Mintga emna">
+<!ENTITY event.repeat.every.weekday.label               "Mintga di dal emna">
+<!ENTITY event.repeat.bi.weekly.label                   "Mintga duas emnas">
+<!ENTITY event.repeat.monthly.label                     "Mintga mais">
+<!ENTITY event.repeat.yearly.label                      "Mintga onn">
+<!ENTITY event.repeat.custom.label                      "Persunalisà…">
 
-
-
-
-
-
-
-
+<!ENTITY event.recurrence.pattern.label                 "Muster da repetiziun">
+<!ENTITY event.recurrence.occurs.label                  "Repeter" >
 
 
 
@@ -304,14 +333,14 @@
 
 
 
-
-
-
-
-
-
-
-
+<!ENTITY event.attendee.role.required           "Participants necessaris">
+<!ENTITY event.attendee.role.optional           "Participants opziunals">
+<!ENTITY event.attendee.role.chair              "Direcziun">
+<!ENTITY event.attendee.role.nonparticipant     "Betg participant">
+<!ENTITY event.attendee.usertype.individual     "Individual">
+<!ENTITY event.attendee.usertype.group          "Gruppa">
+<!ENTITY event.attendee.usertype.resource       "Resursa">
+<!ENTITY event.attendee.usertype.room           "Localitad">
 <!-- Timezone dialog -->
 
 <!-- Read-Only dialog -->

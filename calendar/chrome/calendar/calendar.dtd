@@ -77,8 +77,8 @@
 <!ENTITY calendar.navigation.prevmonth.tooltip  "In mais enavos" >
 
 
-
-
+<!ENTITY calendar.print.button.label            "Stampar" >
+<!ENTITY calendar.print.button.accesskey        "S">
 
 
 
@@ -147,12 +147,12 @@
 
 
 
-
-
-
-
-
-
+<!ENTITY calendar.context.cutevent.label              "Tagliar ora">
+<!ENTITY calendar.context.cutevent.accesskey          "T">
+<!ENTITY calendar.context.copyevent.label             "Copiar">
+<!ENTITY calendar.context.copyevent.accesskey         "C">
+<!ENTITY calendar.context.pasteevent.label            "Encollar">
+<!ENTITY calendar.context.pasteevent.accesskey        "E">
 
 
 
@@ -179,6 +179,7 @@
 
 
 
+<!ENTITY priority.level.none                "Betg specifitgà">
 
 
 
