@@ -14,7 +14,7 @@
                        for the help button in the menubar but Gnome does not.   -->
 <!ENTITY helpMenuWin.label        "Palīdzība"> 
 <!ENTITY helpMenuWin.accesskey    "P">
-<!ENTITY aboutProduct2.label      "Par &brandShortName;">
+<!ENTITY aboutProduct2.label      "Par &brandShorterName;">
 <!ENTITY aboutProduct2.accesskey  "a">
 <!ENTITY productHelp2.label       "&brandShortName; palīdzība">
 <!ENTITY productHelp2.accesskey   "l">
@@ -26,7 +26,7 @@
 <!ENTITY helpSafeMode.label       "Pārstartēt ar deaktivētiem papildinājumiem…">
 <!ENTITY helpSafeMode.accesskey   "r">
 
-<!ENTITY healthReport2.label      "&brandShortName; stāvokļa ziņojums">
+<!ENTITY healthReport2.label      "&brandShorterName; stāvokļa ziņojums">
 <!ENTITY healthReport2.accesskey  "e">
 
 <!ENTITY helpTroubleshootingInfo.label      "Problēmu novēršanas informācija">
@@ -35,7 +35,7 @@
 <!ENTITY helpFeedbackPage.label      "Nosūtīt atsauksmi…">
 <!ENTITY helpFeedbackPage.accesskey  "s">
 
-<!ENTITY helpShowTour2.label            "&brandShortName; ekskursija">
+<!ENTITY helpShowTour2.label            "&brandShorterName; ekskursija">
 <!ENTITY helpShowTour2.accesskey        "r">
 
 <!ENTITY preferencesCmdMac.label        "Iestatījumi…">
