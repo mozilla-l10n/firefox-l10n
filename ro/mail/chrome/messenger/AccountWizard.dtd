@@ -29,11 +29,11 @@
   1, do not translate two of "&quot;"
   2, Use localized full name instead of "John Smith"
 -->
-<!ENTITY fullnameExample.label "(de exemplu, „Mihai Georgescu”).">
+<!ENTITY fullnameExample.label "(de exemplu, „Ion Popescu”).">
 <!ENTITY fullnameLabel.label "Numele dumneavoastră:">
 <!ENTITY fullnameLabel.accesskey "N">
 
-<!ENTITY emailLabel.label "Adresa de email:">
+<!ENTITY emailLabel.label "Adresa de e-mail:">
 <!ENTITY emailLabel.accesskey "A">
 <!-- Entities for Incoming Server page -->
 
@@ -57,7 +57,7 @@
 <!ENTITY incomingServer.label "Server de primire:">
 <!ENTITY incomingServer.accesskey "S">
 <!-- LOCALIZATION NOTE (incomingUsername.description) : do not translate "&quot;jsmith&quot;" in below line -->
-<!ENTITY incomingUsername.description "Introduceți numele de utilizator pentru primire oferit de furnizorul de servicii de email (de exemplu, „rmalea”).">
+<!ENTITY incomingUsername.description "Introduceți numele de utilizator pentru primire oferit de furnizorul de servicii de e-mail (de exemplu, „ipopescu”).">
 <!ENTITY incomingUsername.label "Nume utilizator:">
 <!ENTITY incomingUsername.accesskey "N">
 <!-- LOCALIZATION NOTE (newsServerNameDesc.label) : Do not translate "NNTP" or the "&quot;" entities in below line -->
@@ -72,7 +72,7 @@
 <!ENTITY outgoingServer.description "Introduceți numele serverului de trimitere (SMTP) (de exemplu, „smtp.example.net”).">
 <!ENTITY outgoingServer.label "Server de trimitere:">
 <!ENTITY outgoingServer.accesskey "t">
-<!ENTITY outgoingUsername.description "Introduceți numele de utilizator pentru trimitere, dat de furnizorul dumneavoastră de email (de obicei este același cu numele de utilizator pentru primire).">
+<!ENTITY outgoingUsername.description "Introduceți numele de utilizator pentru trimitere, dat de furnizorul dumneavoastră de e-mail (de obicei este același cu numele de utilizator pentru primire).">
 <!ENTITY outgoingUsername.label "Nume utilizator pentru trimitere:">
 <!ENTITY outgoingUsername.accesskey "N">
 <!-- LOCALIZATION NOTE (modifyOutgoing.suffix) : This string will be appended after each of

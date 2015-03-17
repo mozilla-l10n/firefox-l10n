@@ -26,9 +26,9 @@
 <!ENTITY newVirtualFolderCmd.accesskey "s">
 <!ENTITY newOtherAccountsCmd.label "Alte conturi…">
 <!ENTITY newOtherAccountsCmd.accesskey "o">
-<!ENTITY newCreateEmailAccountCmd.label "Obține un cont nou de email…">
+<!ENTITY newCreateEmailAccountCmd.label "Obține un cont nou de e-mail…">
 <!ENTITY newCreateEmailAccountCmd.accesskey "O">
-<!ENTITY newExistingEmailAccountCmd.label "Cont existent de email…">
+<!ENTITY newExistingEmailAccountCmd.label "Cont existent de e-mail…">
 <!ENTITY newExistingEmailAccountCmd.accesskey "e">
 <!ENTITY newIMAccountCmd.label "Cont de chat…">
 <!ENTITY newIMAccountCmd.accesskey "C">
@@ -848,7 +848,7 @@
 <!ENTITY SubscribeToNewsgroup.accesskey "n">
 <!ENTITY SendMessageTo.label "Compune un mesaj către">
 <!ENTITY SendMessageTo.accesskey "s">
-<!ENTITY CopyEmailAddress.label "Copiază adresa de email">
+<!ENTITY CopyEmailAddress.label "Copiază adresa de e-mail">
 <!ENTITY CopyEmailAddress.accesskey "C">
 <!ENTITY CopyNewsgroupName.label "Copiază numele grupului de discuții">
 <!ENTITY CopyNewsgroupName.accesskey "C">
@@ -856,7 +856,7 @@
 <!ENTITY CopyNewsgroupURL.accesskey "u">
 <!ENTITY CreateFilterFrom.label "Creează filtru din…">
 <!ENTITY CreateFilterFrom.accesskey "f">
-<!ENTITY reportPhishingURL.label "Raportează înșelătorie prin email">
+<!ENTITY reportPhishingURL.label "Raportează înșelătorie prin e-mail">
 <!ENTITY reportPhishingURL.accesskey "o">
 <!-- Spell checker context menu items -->
 
@@ -872,7 +872,7 @@
 <!ENTITY copyLinkCmd.accesskey "C">
 <!ENTITY copyImageAllCmd.label "Copiază imaginea">
 <!ENTITY copyImageAllCmd.accesskey "i">
-<!ENTITY copyEmailCmd.label "Copiază adresa de email">
+<!ENTITY copyEmailCmd.label "Copiază adresa de e-mail">
 <!ENTITY copyEmailCmd.accesskey "e">
 <!ENTITY stopCmd.label "Oprește">
 <!ENTITY stopCmd.accesskey "O">

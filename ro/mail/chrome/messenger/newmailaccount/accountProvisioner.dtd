@@ -3,29 +3,29 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY window.title "Bun venit la &brandShortName;">
-<!ENTITY header2.label "Doriți o adresă de email nouă?">
+<!ENTITY header2.label "Doriți o adresă de e-mail nouă?">
 <!ENTITY other.languages "Afișăm doar furnizorii care oferă adrese în zona dumneavoastră. Clic aici pentru a afișa toți furnizorii.">
-<!ENTITY error.line1 "Ne pare rău, nu am putut găsi nicio sugestie de adresă de email.">
-<!ENTITY error.line2 "Puteți încerca să căutați după pseudonime sau orice alt termen pentru a găsi mai multe emailuri">
+<!ENTITY error.line1 "Ne pare rău, nu am putut găsi nicio sugestie de adresă de e-mail.">
+<!ENTITY error.line2 "Puteți încerca să căutați după pseudonime sau orice alt termen pentru a găsi mai multe e-mailuri">
 <!-- LOCALIZATION NOTE(error.suggest.before, error.suggest.middle, error.suggest.after):
      error.suggest.before, error.suggest.middle, and error.suggest.after all go into
      one line with error.suggest.middle that links to a site which provides download
      of free account alternatives. -->
 
 <!ENTITY error.suggest.before "Puteți încerca și una dintre">
-<!ENTITY error.suggest.middle "alternativele de conturi gratuite de email">
+<!ENTITY error.suggest.middle "alternativele de conturi gratuite de e-mail">
 <!ENTITY error.suggest.after ".">
 <!-- LOCALIZATION NOTE(success.title.before, success.title.after):
      success.title.before and success.title.after all go into one line, wrapping
      around the name that the user has typed in to the search input. -->
 
 <!ENTITY success.title.before "Salut ">
-<!ENTITY success.title.after ", următoarele adrese de email vă sunt disponibile:">
-<!ENTITY success.tip "(Puteți căuta și pseudonime sau orice alt termen pentru a găsi mai multe emailuri)">
-<!ENTITY partnership.description "În parteneriat cu diverși furnizori, &brandShortName; poate să vă ofere un cont nou de email. Completați numele și prenumele sau orice alte cuvinte doriți în câmpul de mai sus pentru a începe.">
+<!ENTITY success.title.after ", următoarele adrese de e-mail vă sunt disponibile:">
+<!ENTITY success.tip "(Puteți căuta și pseudonime sau orice alt termen pentru a găsi mai multe e-mailuri)">
+<!ENTITY partnership.description "În parteneriat cu diverși furnizori, &brandShortName; poate să vă ofere un cont nou de e-mail. Completați numele și prenumele sau orice alte cuvinte doriți în câmpul de mai sus pentru a începe.">
 <!ENTITY existing.header "Aveți deja o adresă pe care doriți să o folosiți?">
 <!ENTITY tinyheader.title "Aveți o adresă?">
-<!ENTITY tinyheader.existing "Sări peste și folosește adresa mea de email">
+<!ENTITY tinyheader.existing "Sări peste și folosește adresa mea de e-mail">
 <!ENTITY content.close "Cred că îmi voi configura contul mai târziu.">
 <!ENTITY successful.title "Felicitări!">
 <!ENTITY successful.successMessage "V-ați setat contul cu succes.">

@@ -11,7 +11,7 @@
 <!ENTITY identityDesc.label "Fiecare cont are propria identitate, adică datele prin care vă identificați față de ceilalți care primesc mesaje de la dumneavoastră">
 <!ENTITY name.label "Numele dumneavoastră:">
 <!ENTITY name.accesskey "N">
-<!ENTITY email.label "Adresa de email:">
+<!ENTITY email.label "Adresa de e-mail:">
 <!ENTITY email.accesskey "d">
 <!ENTITY replyTo.label "Adresă pentru răspuns:">
 <!ENTITY replyTo.accesskey "s">

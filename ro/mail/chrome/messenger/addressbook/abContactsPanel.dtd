@@ -6,7 +6,7 @@
 <!ENTITY addressbookPicker.accesskey        "A">
 <!ENTITY searchInput.label                  "Căutare după:">
 <!ENTITY searchInput.accesskey              "C">
-<!ENTITY SearchNameOrEmail.label            "Nume sau email">
+<!ENTITY SearchNameOrEmail.label            "Nume sau e-mail">
 
 <!ENTITY deleteAddrBookCard.label           "Șterge">
 <!ENTITY deleteAddrBookCard.accesskey       "t">

@@ -5,7 +5,7 @@
 
 <!ENTITY windowTitle.label "Mesaj HTML">
 
-<!ENTITY recipient.label "O parte dintre destinatari nu sunt marcați ca fiind capabili de a primi email-uri HTML.">
+<!ENTITY recipient.label "O parte dintre destinatari nu sunt marcați ca fiind capabili de a primi e-mailuri HTML.">
 
 <!ENTITY question.label "Doriți să convertiți mesajul în format text sau să îl trimiteți în continuare ca HTML?">
 
