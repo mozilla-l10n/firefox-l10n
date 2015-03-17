@@ -58,12 +58,12 @@
 <!ENTITY  event.menu.item.new.event.accesskey             "P">
 <!ENTITY  event.menu.item.new.task.label                  "Nadawk">
 <!ENTITY  event.menu.item.new.task.accesskey              "d">
-
-
-
-
-
-
+<!ENTITY  event.menu.item.new.message.label               "Powěsć">
+<!ENTITY  event.menu.item.new.message.accesskey           "w">
+<!ENTITY  event.menu.item.new.contact.label               "Kontakt adresnika">
+<!ENTITY  event.menu.item.new.contact.accesskey           "K">
+<!ENTITY  event.menu.item.close.label                     "Začinić">
+<!ENTITY  event.menu.item.close.accesskey                 "Z">
 <!ENTITY  event.menu.item.save.label                      "Składować">
 <!ENTITY  event.menu.item.save.accesskey                  "S">
 <!ENTITY  event.menu.item.saveandclose.label              "Składować a začinić">
@@ -83,22 +83,23 @@
 <!ENTITY  event.menu.edit.redo.accesskey                  "o">
 <!ENTITY  event.menu.edit.cut.label                       "Wutřihać">
 <!ENTITY  event.menu.edit.cut.accesskey                   "t">
+<!ENTITY  event.menu.edit.copy.label                      "Kopěrować">
+<!ENTITY  event.menu.edit.copy.accesskey                  "K">
+<!ENTITY  event.menu.edit.paste.label                     "Zasadźić">
+<!ENTITY  event.menu.edit.paste.accesskey                 "s">
+<!ENTITY  event.menu.edit.select.all.label                "Wšo wubrać">
+<!ENTITY  event.menu.edit.select.all.accesskey            "u">
 
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY  event.menu.view.label                           "Napohlad">
+<!ENTITY  event.menu.view.accesskey                       "h">
+<!ENTITY  event.menu.view.toolbars.label                  "Symbolowe lajsty">
+<!ENTITY  event.menu.view.toolbars.accesskey              "m">
+<!ENTITY  event.menu.view.toolbars.event.label            "Podawkowa symbolowa lajsta">
+<!ENTITY  event.menu.view.toolbars.event.accesskey        "d">
 <!ENTITY  event.menu.view.toolbars.customize.label        "Přiměrić…">
 <!ENTITY  event.menu.view.toolbars.customize.accesskey    "P">
-
-
+<!ENTITY  event.menu.view.showlink.label                  "Přiwuzny wotkaz pokazać">
+<!ENTITY  event.menu.view.showlink.accesskey              "t">
 
 
 <!ENTITY  event.menu.options.attendees.label                  "Wobdźělnikow přeprosyć…">
@@ -146,19 +147,21 @@
 <!ENTITY  event.toolbar.attachments.tooltip               "Přiwěški přidać">
 <!ENTITY  event.toolbar.privacy.tooltip                   "Priwatnosć změnić">
 <!ENTITY  event.toolbar.priority.tooltip                  "Prioritu změnić">
-
-
+<!ENTITY  event.toolbar.status.tooltip                    "Status změnić">
+<!ENTITY  event.toolbar.freebusy.tooltip                  "Swobodny/wobsadźeny čas změnić">
 <!-- Main page -->
 
-
-
-
-
-
-
-
+<!ENTITY event.title.textbox.label                        "Titul:" >
+<!ENTITY event.title.textbox.accesskey                    "i">
+<!ENTITY event.location.label                             "Městno:" >
+<!ENTITY event.location.accesskey                         "M">
+<!ENTITY event.categories.label                           "Kategorija:">
+<!ENTITY event.categories.accesskey                       "g">
+<!ENTITY event.categories.textbox.label                   "Nowu kategoriju přidać" >
+<!ENTITY event.calendar.label                             "Protyka:" >
+<!ENTITY event.calendar.accesskey                         "r">
 <!ENTITY event.attendees.label                            "Wobdźělnicy:" >
-
+<!ENTITY event.attendees.accesskey                        "l" >
 <!ENTITY event.alldayevent.label                          "Cyłodnjowski podawk" >
 <!ENTITY event.alldayevent.accesskey                      "d">
 <!ENTITY event.from.label                                 "Start:" >
@@ -197,15 +200,15 @@
 <!ENTITY event.priority2.label                            "Priorita:">
 
 <!ENTITY event.reminder.none.label                        "Żane dopomnjeće " >
-
-
-
-
-
-
-
-
-
+<!ENTITY event.reminder.0minutes.before.label             "0 mjeńšin do toho" >
+<!ENTITY event.reminder.5minutes.before.label             "5 mjeńšin do toho" >
+<!ENTITY event.reminder.15minutes.before.label            "15 mjeńšin do toho" >
+<!ENTITY event.reminder.30minutes.before.label            "30 mjeńšin do toho" >
+<!ENTITY event.reminder.1hour.before.label                "1 hodźinu do toho" >
+<!ENTITY event.reminder.2hours.before.label               "2 hodźinje do toho" >
+<!ENTITY event.reminder.12hours.before.label              "12 hodźin do toho" >
+<!ENTITY event.reminder.1day.before.label                 "1 dźeń do toho" >
+<!ENTITY event.reminder.2days.before.label                "2 dnjej do toho" >
 
 
 
@@ -215,6 +218,16 @@
 
 
 
+<!ENTITY event.repeat.every.weekday.label               "Kóždy wšědny dźeń">
+<!ENTITY event.repeat.bi.weekly.label                   "Dwunjedźelsce">
+<!ENTITY event.repeat.monthly.label                     "Kóždy měsac">
+<!ENTITY event.repeat.yearly.label                      "Kóžde lěto">
+<!ENTITY event.repeat.custom.label                      "Swójske…">
+
+<!ENTITY event.recurrence.pattern.label                 "Wospjetowanski muster">
+<!ENTITY event.recurrence.occurs.label                  "Wospjetować" >
+<!ENTITY event.recurrence.day.label                     "kóždy dźeń" >
+<!ENTITY event.recurrence.week.label                    "kóždy tydźeń" >
 
 
 
@@ -224,6 +237,15 @@
 
 
 
+<!ENTITY repeat.units.months.both                       "měsac" >
+<!ENTITY event.recurrence.monthly.every.label           "Kóždy" >
+<!ENTITY event.recurrence.monthly.first.label           "prěni">
+<!ENTITY event.recurrence.monthly.second.label          "druhi">
+<!ENTITY event.recurrence.monthly.third.label           "třeći">
+<!ENTITY event.recurrence.monthly.fourth.label          "štwórty">
+<!ENTITY event.recurrence.monthly.fifth.label           "pjaty">
+<!ENTITY event.recurrence.monthly.last.label            "posledni">
+<!ENTITY event.recurrence.pattern.monthly.week.1.label  "njedźela" >
 
 
 
@@ -233,26 +255,8 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY repeat.units.years.both                             "lěto" >
+<!ENTITY event.recurrence.pattern.yearly.every.month.label   "Kóžde" >
 <!-- LOCALIZATON NOTE
      Some languages use a preposition when describing dates:
      Portuguese: 6 de Setembro
@@ -263,6 +267,12 @@
 
 <!ENTITY event.recurrence.pattern.yearly.of.label            "" >
 
+<!ENTITY event.recurrence.pattern.yearly.month.1.label       "januar" >
+<!ENTITY event.recurrence.pattern.yearly.month.2.label       "februar" >
+<!ENTITY event.recurrence.pattern.yearly.month.3.label       "měrc" >
+<!ENTITY event.recurrence.pattern.yearly.month.4.label       "apryl" >
+<!ENTITY event.recurrence.pattern.yearly.month.5.label       "meja" >
+<!ENTITY event.recurrence.pattern.yearly.month.6.label       "junij" >
 
 
 
@@ -272,6 +282,15 @@
 
 
 
+<!ENTITY event.recurrence.yearly.third.label                 "třeće">
+<!ENTITY event.recurrence.yearly.fourth.label                "štwórte">
+<!ENTITY event.recurrence.yearly.fifth.label                 "pjate">
+<!ENTITY event.recurrence.yearly.last.label                  "poslednje">
+<!ENTITY event.recurrence.pattern.yearly.week.1.label        "njedźela" >
+<!ENTITY event.recurrence.pattern.yearly.week.2.label        "póndźela" >
+<!ENTITY event.recurrence.pattern.yearly.week.3.label        "wutora" >
+<!ENTITY event.recurrence.pattern.yearly.week.4.label        "srjeda" >
+<!ENTITY event.recurrence.pattern.yearly.week.5.label        "štwórtk" >
 
 
 
@@ -280,28 +299,14 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY event.recurrence.pattern.yearly.month2.5.label      "meja" >
+<!ENTITY event.recurrence.pattern.yearly.month2.6.label      "junij" >
+<!ENTITY event.recurrence.pattern.yearly.month2.7.label      "julij" >
+<!ENTITY event.recurrence.pattern.yearly.month2.8.label      "awgust" >
+<!ENTITY event.recurrence.pattern.yearly.month2.9.label      "september" >
+<!ENTITY event.recurrence.pattern.yearly.month2.10.label     "oktober" >
+<!ENTITY event.recurrence.pattern.yearly.month2.11.label     "nowember" >
+<!ENTITY event.recurrence.pattern.yearly.month2.12.label     "december" >
 
 
 
@@ -332,13 +337,13 @@
 <!-- Read-Only dialog -->
 
 <!ENTITY read.only.general.label         "Powšitkowny">
-<!ENTITY read.only.title.label           "Titul:">
 
 
 
 
 
-<!ENTITY read.only.location.label        "Městno:">
+
+
 
 <!ENTITY read.only.organizer.label       "Organizator:">
 

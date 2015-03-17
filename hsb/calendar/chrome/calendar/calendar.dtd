@@ -151,10 +151,10 @@
 
 <!ENTITY calendar.context.cutevent.label              "Wutřihać">
 <!ENTITY calendar.context.cutevent.accesskey          "t">
-
-
-
-
+<!ENTITY calendar.context.copyevent.label             "Kopěrować">
+<!ENTITY calendar.context.copyevent.accesskey         "K">
+<!ENTITY calendar.context.pasteevent.label            "Zasadźić">
+<!ENTITY calendar.context.pasteevent.accesskey        "s">
 
 
 
