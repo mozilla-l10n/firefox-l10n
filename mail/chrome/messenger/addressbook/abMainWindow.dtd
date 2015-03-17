@@ -154,7 +154,7 @@ because displayed names don't have the comma in between. -->
 <!ENTITY dirTreeHeader.label                            "Agende de contacte">
 <!-- Search Bar -->
 
-<!ENTITY SearchNameOrEmail.label                        "Nume sau email">
+<!ENTITY SearchNameOrEmail.label                        "Nume sau e-mail">
 <!ENTITY SearchNameOrEmail.accesskey                    "N">
 <!ENTITY advancedButton.tooltip                         "Căutare avansată în agendă">
 <!ENTITY quickSearchCmd.key                             "K">

@@ -9,7 +9,7 @@
 <!ENTITY account.name                  "Nume utilizator: ">
 <!ENTITY account.password              "Parola:">
 <!ENTITY account.alias                 "Alias:">
-<!ENTITY account.newMailNotification   "Anunță-mă la un nou email">
+<!ENTITY account.newMailNotification   "Anunță-mă la un nou e-mail">
 <!ENTITY account.autojoin              "Canale cu înregistrare automată:">
 <!ENTITY account.proxySettings.caption "Setări proxy:">
 <!ENTITY account.proxySettings.change.label     "Schimbă…">

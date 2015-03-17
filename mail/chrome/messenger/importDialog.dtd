@@ -30,7 +30,7 @@ LOCALIZATION NOTE : Do not translate any of the occurrences of the word
 <!ENTITY importTitle.label        "Asistent import mesaje &brandShortName;">
 <!ENTITY importShortDesc.label    "Importă mesaje, agende de contacte, setări și filtre din alte programe">
 
-<!ENTITY importDescription1.label "Acest asistent va importa mesajele, intrările din agenda de contacte, preferințele și/sau filtrele din alte programe de email, precum și formatul agendei de contacte în &brandShortName;.">
+<!ENTITY importDescription1.label "Acest asistent va importa mesajele, intrările din agenda de contacte, preferințele și/sau filtrele din alte programe de e-mail, precum și formatul agendei de contacte în &brandShortName;.">
 <!ENTITY importDescription2.label "Odată importate, le veți putea accesa din  &brandShortName; și/sau agenda de contacte.">
 
 <!ENTITY selectDescription.label  "Vă rugăm alegeți tipul de fișier din care doriți să importați:">

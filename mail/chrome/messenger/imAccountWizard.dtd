@@ -19,7 +19,7 @@
 
 <!ENTITY accountAdvancedTitle.label   "Opțiuni avansate">
 <!ENTITY accountAdvancedInfo.label    "Dacă doriți, puteți omite acest pas.">
-<!ENTITY accountAdvanced.newMailNotification.label   "Anunță-mă la un nou email">
+<!ENTITY accountAdvanced.newMailNotification.label   "Anunță-mă la un e-mail nou">
 <!ENTITY accountAliasGroupbox.caption "Alias local">
 <!ENTITY accountAliasField.label      "Alias:">
 <!ENTITY accountAliasInfo.label       "Acesta va apărea numai în conversațiile dumneavoastră atunci când vorbiți, contactele externe nu îl vor vedea.">
