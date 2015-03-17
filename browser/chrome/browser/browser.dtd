@@ -194,7 +194,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY bookmarksMenuButton.label          "Отметки">
 <!ENTITY bookmarksMenuButton.unsorted.label "Негрупирани отметки">
-<!ENTITY viewBookmarksSidebar2.label        "Показване на страничното поле с отметки">
+<!ENTITY viewBookmarksSidebar2.label        "Показване на страничната лента с отметки">
 <!ENTITY viewBookmarksToolbar.label         "Показване на лентата с отметки">
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
   -  key should not contain the letters A-F, since these are reserved
@@ -364,7 +364,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuHistory.showAll.label "Цялата история">
 <!ENTITY appMenuHistory.clearRecent.label "Изчистване на скорошна история…">
 <!ENTITY appMenuHistory.restoreSession.label "Възстановяване на предишна сесия">
-<!ENTITY appMenuHistory.viewSidebar.label "Показване на страничното поле с история">
+<!ENTITY appMenuHistory.viewSidebar.label "Показване на страничната лента с история">
 <!ENTITY appMenuHelp.tooltip "Отваряне на меню с помощ">
 
 <!ENTITY customizeMenu.addToToolbar.label "Добавяне към лентата с инструменти">

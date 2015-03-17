@@ -79,4 +79,4 @@ both, to better adapt this sentence to their language.
 <!ENTITY welcome.signIn.label "Вписване">
 <!ENTITY welcome.createAccount.label "Създаване на профил">
 
-<!ENTITY welcome.useOldSync.label "Използвате ли по-стара версия на Sync?">
+<!ENTITY welcome.useOldSync.label "Използвате по-стара версия на Sync ли?">
