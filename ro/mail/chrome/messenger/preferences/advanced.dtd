@@ -26,8 +26,8 @@
 <!ENTITY useSmoothScrolling.accesskey  "o">
 
 <!ENTITY systemIntegration.label       "Integrare cu sistemul">
-<!ENTITY alwaysCheckDefault.label      "Verifică întotdeauna la pornire dacă &brandShortName; este clientul implicit de email">
-<!ENTITY alwaysCheckDefault.accesskey  "l">
+<!ENTITY alwaysCheckDefault.label      "Verifică întotdeauna la pornire dacă &brandShortName; este clientul implicit de e-mail">
+<!ENTITY alwaysCheckDefault.accesskey  "a">
 <!ENTITY searchIntegration.label       "Permite la &searchIntegration.engineName; să caute în mesaje">
 <!ENTITY searchIntegration.accesskey   "P">
 <!ENTITY checkDefaultsNow.label        "Verifică acum...">

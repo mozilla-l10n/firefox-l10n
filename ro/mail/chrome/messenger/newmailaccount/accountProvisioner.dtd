@@ -29,7 +29,7 @@
 <!ENTITY content.close "Cred că îmi voi configura contul mai târziu.">
 <!ENTITY successful.title "Felicitări!">
 <!ENTITY successful.successMessage "V-ați setat contul cu succes.">
-<!ENTITY successful.write "Scrieți niște mesaje">
+<!ENTITY successful.write "Scrieți niște e-mailuri">
 <!ENTITY successful.write.desc "Spuneți-le prietenilor și familiei despre noua dumneavoastră adresă.<br/> Doar de aceea v-ați făcut un cont nou, nu ?">
 <!ENTITY successful.customize "Personalizați &brandShortName; cu niște suplimente interesante">
 <!ENTITY successful.customize.desc "Sunt mii de suplimente ce vă permit să personalizați &brandShortName; pentru a-l face mai potrivit pentru nevoi specifice.">
@@ -39,5 +39,5 @@
 <!ENTITY input.namePlaceholder "Numele sau pseudonimul dumneavoastră">
 <!ENTITY input.search "Căutare">
 <!ENTITY search_engine.title "Alegeți motorul de căutare">
-<!ENTITY search_engine.message "Furnizorul dumneavoastră de email poate oferi și căutare pe web.">
+<!ENTITY search_engine.message "Furnizorul dumneavoastră de e-mail poate oferi și căutare pe web.">
 <!ENTITY search_engine.button "Încheiere">
