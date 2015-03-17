@@ -101,7 +101,8 @@
 <!ENTITY  event.menu.view.showlink.label                  "Přiwuzny wotkaz pokazać">
 <!ENTITY  event.menu.view.showlink.accesskey              "t">
 
-
+<!ENTITY  event.menu.options.label                            "Nastajenja">
+<!ENTITY  event.menu.options.accesskey                        "N">
 <!ENTITY  event.menu.options.attendees.label                  "Wobdźělnikow přeprosyć…">
 <!ENTITY  event.menu.options.attendees.accesskey              "d">
 <!ENTITY  event.menu.options.timezone2.label                  "Časowe pasma pokazać">
@@ -120,23 +121,26 @@
 <!ENTITY  event.menu.options.privacy.accesskey                "P">
 <!ENTITY  event.menu.options.privacy.public.label             "Zjawny podawk">
 <!ENTITY  event.menu.options.privacy.public.accesskey         "Z">
+<!ENTITY  event.menu.options.privacy.confidential.label       "Jenož čas a datum pokazać">
+<!ENTITY  event.menu.options.privacy.confidential.accesskey   "J">
+<!ENTITY  event.menu.options.privacy.private.label            "Priwatny podawk">
+<!ENTITY  event.menu.options.privacy.private.accesskey        "r">
+<!ENTITY  event.menu.options.show.time.label                  "Čas pokazać jako">
+<!ENTITY  event.menu.options.show.time.accesskey              "k">
+<!ENTITY  event.menu.options.show.time.busy.label             "Swobodny njeje">
+<!ENTITY  event.menu.options.show.time.busy.accesskey         "b">
+<!ENTITY  event.menu.options.show.time.free.label             "Swobodny">
+<!ENTITY  event.menu.options.show.time.free.accesskey         "S">
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY event.invite.attendees.label                     "Wobdźělnikow přeprosyć…">
+<!ENTITY event.invite.attendees.accesskey                 "l">
+<!ENTITY event.email.attendees.label                      "E-mejlku na wšěch wobdźělnikow spisać…">
+<!ENTITY event.email.attendees.accesskey                  "E">
+<!ENTITY event.email.tentative.attendees.label            "E-mejlku na njerozsudźenych wobdźělnikow spisać…">
+<!ENTITY event.email.tentative.attendees.accesskey        "U">
 <!-- Toolbar -->
+
+<!ENTITY  event.toolbar.save.label                        "Składować a začinić">
 <!ENTITY  event.toolbar.delete.label                      "Zhašeć">
 <!ENTITY  event.toolbar.attendees.label                   "Wobdźělnikow přeprosyć">
 <!ENTITY  event.toolbar.privacy.label                     "Priwatnosć">
@@ -178,22 +182,22 @@
 <!ENTITY event.repeat.accesskey                           "W">
 <!ENTITY event.until.label                                "Hač do:">
 <!ENTITY event.until.accesskey                            "H">
-
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY event.reminder.label                             "Dopomnjeće:" >
+<!ENTITY event.reminder.accesskey                         "m">
+<!ENTITY event.description.label                          "Wopisanje:" >
+<!ENTITY event.description.accesskey                      "i">
+<!ENTITY event.attachments.label                          "Přiwěški:" >
+<!ENTITY event.attachments.accesskey                      "P" >
+<!ENTITY event.attachments.menubutton.label               "Připowěsnyć">
+<!ENTITY event.attachments.menubutton.accesskey           "w">
+<!ENTITY event.attachments.url.label                      "Webstrona…">
+<!ENTITY event.attachments.url.accesskey                  "e">
+<!ENTITY event.attachments.popup.remove.label             "Wotstronić" >
+<!ENTITY event.attachments.popup.remove.accesskey         "t" >
 <!ENTITY event.attachments.popup.open.label               "Wočinić" >
 <!ENTITY event.attachments.popup.open.accesskey           "o" >
-
-
+<!ENTITY event.attachments.popup.removeAll.label          "Wšě wotstronić" >
+<!ENTITY event.attachments.popup.removeAll.accesskey      "W" >
 
 
 <!ENTITY event.url.label                                  "Přiwuzny wotkaz:" >
@@ -228,10 +232,11 @@
 <!ENTITY event.recurrence.occurs.label                  "Wospjetować" >
 <!ENTITY event.recurrence.day.label                     "kóždy dźeń" >
 <!ENTITY event.recurrence.week.label                    "kóždy tydźeń" >
+<!ENTITY event.recurrence.month.label                   "kóždy měsac" >
+<!ENTITY event.recurrence.year.label                    "kóžde lěto" >
 
-
-
-
+<!ENTITY event.recurrence.pattern.every.label           "Kóždy" >
+<!ENTITY repeat.units.days.both                         "Dźeń" >
 
 
 
@@ -246,9 +251,9 @@
 <!ENTITY event.recurrence.monthly.fifth.label           "pjaty">
 <!ENTITY event.recurrence.monthly.last.label            "posledni">
 <!ENTITY event.recurrence.pattern.monthly.week.1.label  "njedźela" >
-
-
-
+<!ENTITY event.recurrence.pattern.monthly.week.2.label  "Póndźela" >
+<!ENTITY event.recurrence.pattern.monthly.week.3.label  "Wutora" >
+<!ENTITY event.recurrence.pattern.monthly.week.4.label  "Srjeda" >
 
 
 
@@ -320,7 +325,7 @@
 
 
 
-<!ENTITY event.freebusy.legend.busy             "Ma činić" >
+
 
 
 
