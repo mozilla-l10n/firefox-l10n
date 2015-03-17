@@ -12,7 +12,7 @@
 <!ENTITY reminder.action.label                             "Alege o acțiune pentru memento">
 
 <!ENTITY reminder.action.alert.label                       "Arată o alertă">
-<!ENTITY reminder.action.email.label                       "Trimite un email">
+<!ENTITY reminder.action.email.label                       "Trimite un e-mail">
 
 <!ENTITY alarm.units.minutes                               "minute" >
 <!ENTITY alarm.units.hours                                 "ore" >
