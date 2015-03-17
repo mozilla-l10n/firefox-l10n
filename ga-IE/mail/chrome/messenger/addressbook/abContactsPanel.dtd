@@ -2,26 +2,26 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY addressbookPicker.label "Leabhar Seoltaí:">
-<!ENTITY addressbookPicker.accesskey "e">
-<!ENTITY searchInput.label "Cuardaigh:">
-<!ENTITY searchInput.accesskey "u">
-<!ENTITY SearchNameOrEmail.label "Ainm nó Seoladh Ríomhphoist">
+<!ENTITY addressbookPicker.label            "Leabhar Seoltaí:">
+<!ENTITY addressbookPicker.accesskey        "e">
+<!ENTITY searchInput.label                  "Cuardaigh:">
+<!ENTITY searchInput.accesskey              "u">
+<!ENTITY SearchNameOrEmail.label            "Ainm nó Seoladh Ríomhphoist">
 
-<!ENTITY deleteAddrBookCard.label "Scrios">
-<!ENTITY deleteAddrBookCard.accesskey "S">
-<!ENTITY addrBookCardProperties.label "Airíonna">
-<!ENTITY addrBookCardProperties.accesskey "A">
-<!ENTITY addtoToFieldMenu.label "Cuir leis an réimse Chuig">
-<!ENTITY addtoToFieldMenu.accesskey "C">
-<!ENTITY addtoCcFieldMenu.label "Cuir leis an réimse Cc">
-<!ENTITY addtoCcFieldMenu.accesskey "l">
-<!ENTITY addtoBccFieldMenu.label "Cuir leis an réimse Bcc">
-<!ENTITY addtoBccFieldMenu.accesskey "B">
+<!ENTITY deleteAddrBookCard.label           "Scrios">
+<!ENTITY deleteAddrBookCard.accesskey       "S">
+<!ENTITY addrBookCardProperties.label       "Airíonna">
+<!ENTITY addrBookCardProperties.accesskey   "A">
+<!ENTITY addtoToFieldMenu.label             "Cuir leis an réimse Chuig">
+<!ENTITY addtoToFieldMenu.accesskey         "C">
+<!ENTITY addtoCcFieldMenu.label             "Cuir leis an réimse Cc">
+<!ENTITY addtoCcFieldMenu.accesskey         "l">
+<!ENTITY addtoBccFieldMenu.label            "Cuir leis an réimse Bcc">
+<!ENTITY addtoBccFieldMenu.accesskey        "B">
 
-<!ENTITY toButton.label "Cuir le Chuig:">
-<!ENTITY toButton.accesskey "C">
-<!ENTITY ccButton.label "Cuir le Cc:">
-<!ENTITY ccButton.accesskey "l">
-<!ENTITY bccButton.label "Cuir le Bcc:">
-<!ENTITY bccButton.accesskey "B">
+<!ENTITY toButton.label                     "Cuir le Chuig:">
+<!ENTITY toButton.accesskey                 "C">
+<!ENTITY ccButton.label                     "Cuir le Cc:">
+<!ENTITY ccButton.accesskey                 "l">
+<!ENTITY bccButton.label                    "Cuir le Bcc:">
+<!ENTITY bccButton.accesskey                "B">

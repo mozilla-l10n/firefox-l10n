@@ -3,19 +3,19 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 
-<!ENTITY toolbar.searchPlaceholder "Cuardaigh">
+<!ENTITY toolbar.searchPlaceholder     "Cuardaigh">
 
-<!ENTITY newPref.namePlaceholder "Ainm">
+<!ENTITY newPref.namePlaceholder       "Ainm">
 
-<!ENTITY newPref.valueBoolean "Boole">
-<!ENTITY newPref.valueString "Teaghrán">
-<!ENTITY newPref.valueInteger "Slánuimhir">
+<!ENTITY newPref.valueBoolean          "Boole">
+<!ENTITY newPref.valueString           "Teaghrán">
+<!ENTITY newPref.valueInteger          "Slánuimhir">
 
-<!ENTITY newPref.stringPlaceholder "Cuir teaghrán isteach">
-<!ENTITY newPref.numberPlaceholder "Cuir uimhir isteach">
+<!ENTITY newPref.stringPlaceholder     "Cuir teaghrán isteach">
+<!ENTITY newPref.numberPlaceholder     "Cuir uimhir isteach">
 
-<!ENTITY newPref.toggleButton "Scoránaigh">
-<!ENTITY newPref.cancelButton "Cealaigh">
+<!ENTITY newPref.toggleButton          "Scoránaigh">
+<!ENTITY newPref.cancelButton          "Cealaigh">
 
-<!ENTITY contextMenu.copyPrefName "Cóipeáil an t-ainm">
-<!ENTITY contextMenu.copyPrefValue "Cóipeáil an luach">
+<!ENTITY contextMenu.copyPrefName      "Cóipeáil an t-ainm">
+<!ENTITY contextMenu.copyPrefValue     "Cóipeáil an luach">

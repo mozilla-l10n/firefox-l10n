@@ -2,76 +2,76 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY fontsAndEncodingsDialog.title "Clófhoirne agus Ionchóduithe">
+<!ENTITY  fontsAndEncodingsDialog.title           "Clófhoirne agus Ionchóduithe">
 
-<!ENTITY language.label "Clófhoirne do:">
-<!ENTITY language.accesskey "d">
+<!ENTITY  language.label                          "Clófhoirne do:">
+<!ENTITY  language.accesskey                      "d">
 
-<!ENTITY size.label "Méid:">
-<!ENTITY proportionalSize.accesskey "l">
-<!ENTITY sizeMono.accesskey "i">
+<!ENTITY  size.label                              "Méid:">
+<!ENTITY  proportionalSize.accesskey              "l">
+<!ENTITY  sizeMono.accesskey                      "i">
 
-<!ENTITY proportional.label "Cló Il-Leithid:">
-<!ENTITY proportional.accesskey "I">
+<!ENTITY  proportional.label                      "Cló Il-Leithid:">
+<!ENTITY  proportional.accesskey                  "I">
 
-<!ENTITY serif.label "Serif:">
-<!ENTITY serif.accesskey "S">
-<!ENTITY sans-serif.label "Sans-serif:">
-<!ENTITY sans-serif.accesskey "n">
-<!ENTITY monospace.label "Cló Aonleithid:">
-<!ENTITY monospace.accesskey "A">
+<!ENTITY  serif.label                             "Serif:">
+<!ENTITY  serif.accesskey                         "S">
+<!ENTITY  sans-serif.label                        "Sans-serif:">
+<!ENTITY  sans-serif.accesskey                    "n">
+<!ENTITY  monospace.label                         "Cló Aonleithid:">
+<!ENTITY  monospace.accesskey                     "A">
 
-<!ENTITY font.langGroup.latin1 "Iartharach">
-<!ENTITY font.langGroup.latin2 "Lár-Eorpach">
-<!ENTITY font.langGroup.japanese "Seapánach">
-<!ENTITY font.langGroup.trad-chinese "Síneach Traidisiúnta (An Téaváin)">
-<!ENTITY font.langGroup.simpl-chinese "Síneach Simplithe">
-<!ENTITY font.langGroup.trad-chinese-hk "Síneach Traidisiúnta (Hong Cong)">
-<!ENTITY font.langGroup.korean "Cóiréach">
-<!ENTITY font.langGroup.cyrillic "Coireallach">
-<!ENTITY font.langGroup.baltic "Baltach">
-<!ENTITY font.langGroup.el "Gréagach">
-<!ENTITY font.langGroup.turkish "Turcach">
-<!ENTITY font.langGroup.unicode1 "Unicode">
-<!ENTITY font.langGroup.user-def "Sainmhínithe ag an Úsáideoir">
-<!ENTITY font.langGroup.thai "Téalannach">
-<!ENTITY font.langGroup.hebrew "Eabhrach">
-<!ENTITY font.langGroup.arabic "Arabach">
-<!ENTITY font.langGroup.devanagari "Déiveanágrach">
-<!ENTITY font.langGroup.tamil "Tamalach">
-<!ENTITY font.langGroup.armenian "Airméanach">
-<!ENTITY font.langGroup.bengali "Beangálach">
-<!ENTITY font.langGroup.canadian "Siollóir Aontaithe Cheanadach">
-<!ENTITY font.langGroup.ethiopic "Aetópach">
-<!ENTITY font.langGroup.georgian "Seoirseach">
-<!ENTITY font.langGroup.gujarati "Gúisearátach">
-<!ENTITY font.langGroup.gurmukhi "Gurmúcaíoch">
-<!ENTITY font.langGroup.khmer "Ciméarach">
-<!ENTITY font.langGroup.malayalam "Mailéalamach">
+<!ENTITY  font.langGroup.latin1                   "Iartharach">
+<!ENTITY  font.langGroup.latin2                   "Lár-Eorpach">
+<!ENTITY  font.langGroup.japanese                 "Seapánach">
+<!ENTITY  font.langGroup.trad-chinese             "Síneach Traidisiúnta (An Téaváin)">
+<!ENTITY  font.langGroup.simpl-chinese            "Síneach Simplithe">
+<!ENTITY  font.langGroup.trad-chinese-hk          "Síneach Traidisiúnta (Hong Cong)">
+<!ENTITY  font.langGroup.korean                   "Cóiréach">
+<!ENTITY  font.langGroup.cyrillic                 "Coireallach">
+<!ENTITY  font.langGroup.baltic                   "Baltach">
+<!ENTITY  font.langGroup.el                       "Gréagach">
+<!ENTITY  font.langGroup.turkish                  "Turcach">
+<!ENTITY  font.langGroup.unicode1                 "Unicode">
+<!ENTITY  font.langGroup.user-def                 "Sainmhínithe ag an Úsáideoir">
+<!ENTITY  font.langGroup.thai                     "Téalannach">
+<!ENTITY  font.langGroup.hebrew                   "Eabhrach">
+<!ENTITY  font.langGroup.arabic                   "Arabach">
+<!ENTITY  font.langGroup.devanagari               "Déiveanágrach">
+<!ENTITY  font.langGroup.tamil                    "Tamalach">
+<!ENTITY  font.langGroup.armenian                 "Airméanach">
+<!ENTITY  font.langGroup.bengali                  "Beangálach">
+<!ENTITY  font.langGroup.canadian                 "Siollóir Aontaithe Cheanadach">
+<!ENTITY  font.langGroup.ethiopic                 "Aetópach">
+<!ENTITY  font.langGroup.georgian                 "Seoirseach">
+<!ENTITY  font.langGroup.gujarati                 "Gúisearátach">
+<!ENTITY  font.langGroup.gurmukhi                 "Gurmúcaíoch">
+<!ENTITY  font.langGroup.khmer                    "Ciméarach">
+<!ENTITY  font.langGroup.malayalam                "Mailéalamach">
 <!-- Minimum font size -->
 
-<!ENTITY minSize.label "Clómhéid is lú:">
-<!ENTITY minSize.accesskey "l">
-<!ENTITY minSize.none "Gan sonrú">
+<!ENTITY minSize.label                            "Clómhéid is lú:">
+<!ENTITY minSize.accesskey                        "l">
+<!ENTITY minSize.none                             "Gan sonrú">
 <!-- default font type -->
 
-<!ENTITY useDefaultFontSerif.label "Serif">
-<!ENTITY useDefaultFontSansSerif.label "Sans Serif">
+<!ENTITY  useDefaultFontSerif.label               "Serif">
+<!ENTITY  useDefaultFontSansSerif.label           "Sans Serif">
 <!-- fonts in message -->
 
-<!ENTITY fontControl.label "Rialú an Chló">
-<!ENTITY useFixedWidthForPlainText.label "Úsáid cló aonleithid le haghaidh teachtaireachtaí gnáth-théacs">
-<!ENTITY fixedWidth.accesskey "L">
-<!ENTITY useDocumentFonts.label "Ceadaigh teachtaireachtaí chun clónna eile a úsáid">
-<!ENTITY useDocumentFonts.accesskey "n">
+<!ENTITY  fontControl.label                       "Rialú an Chló">
+<!ENTITY  useFixedWidthForPlainText.label         "Úsáid cló aonleithid le haghaidh teachtaireachtaí gnáth-théacs">
+<!ENTITY  fixedWidth.accesskey                    "L">
+<!ENTITY  useDocumentFonts.label                  "Ceadaigh teachtaireachtaí chun clónna eile a úsáid">
+<!ENTITY  useDocumentFonts.accesskey              "n">
 <!-- Language settings -->
 
-<!ENTITY sendDefaultCharset.label "Ríomhphost Amach:">
-<!ENTITY sendDefaultCharset.accesskey "m">
-<!ENTITY languagesTitle1.label "Ionchóduithe na gCarachtar">
-<!ENTITY composingDescription.label "Socraigh ionchóduithe na gcarachtar le haghaidh seolta agus glactha ríomhphoist">
+<!ENTITY sendDefaultCharset.label         "Ríomhphost Amach:">
+<!ENTITY sendDefaultCharset.accesskey     "m">
+<!ENTITY languagesTitle1.label            "Ionchóduithe na gCarachtar">
+<!ENTITY composingDescription.label       "Socraigh ionchóduithe na gcarachtar le haghaidh seolta agus glactha ríomhphoist">
 
-<!ENTITY viewDefaultCharsetList.label "Ríomhphost Isteach:">
-<!ENTITY viewDefaultCharsetList.accesskey "I">
-<!ENTITY replyInDefaultCharset2.label "Más féidir, úsáid ionchódú réamhshocraithe na gcarachtar i bhfreagraí">
+<!ENTITY viewDefaultCharsetList.label     "Ríomhphost Isteach:">
+<!ENTITY viewDefaultCharsetList.accesskey  "I">
+<!ENTITY replyInDefaultCharset2.label     "Más féidir, úsáid ionchódú réamhshocraithe na gcarachtar i bhfreagraí">
 <!ENTITY replyInDefaultCharset2.accesskey "h">

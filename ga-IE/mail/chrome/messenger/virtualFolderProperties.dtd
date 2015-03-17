@@ -3,10 +3,10 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY virtualFolderProperties.title "Fillteán Nua Cuardaigh Shábháilte">
-<!ENTITY name.label "Ainm:">
-<!ENTITY name.accesskey "n">
-<!ENTITY description.label "Cruthaigh mar fofhillteán de:">
-<!ENTITY description.accesskey "C">
+<!ENTITY name.label                 "Ainm:">
+<!ENTITY name.accesskey             "n">
+<!ENTITY description.label          "Cruthaigh mar fofhillteán de:">
+<!ENTITY description.accesskey      "C">
 
 <!ENTITY searchTermCaption.label "Cumraigh na critéir chuardaigh le húsáid don fhillteán cuardaigh shábháilte seo:">
 
@@ -16,7 +16,7 @@
 
 <!ENTITY searchOnline.label "Cuardach ar líne (beidh na torthaí cothrom le dáta le haghaidh fillteán IMAP agus Nuachta ach beidh oscailt an fhillteáin níos moille)">
 <!ENTITY searchOnline.accesskey "C">
-<!ENTITY newFolderButton.label "Cruthaigh">
-<!ENTITY newFolderButton.accesskey "r">
-<!ENTITY editFolderButton.label "Nuashonraigh">
-<!ENTITY editFolderButton.accesskey "u">
+<!ENTITY newFolderButton.label       "Cruthaigh">
+<!ENTITY newFolderButton.accesskey   "r">
+<!ENTITY editFolderButton.label      "Nuashonraigh">
+<!ENTITY editFolderButton.accesskey  "u">

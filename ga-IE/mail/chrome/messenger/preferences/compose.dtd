@@ -2,62 +2,62 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY itemGeneral.label "Ginearálta">
-<!ENTITY itemAutoComplete.label "Seoladh">
-<!ENTITY itemSpellCheck.label "Litriú">
+<!ENTITY itemGeneral.label                   "Ginearálta">
+<!ENTITY itemAutoComplete.label              "Seoladh">
+<!ENTITY itemSpellCheck.label                "Litriú">
 
-<!ENTITY dialogCompose.title "Composing">
+<!ENTITY dialogCompose.title                 "Cumadóireacht">
 
-<!ENTITY forwardMsg.label "Cuir teachtaireachtaí ar aghaidh:">
-<!ENTITY forwardMsg.accesskey "g">
-<!ENTITY inline.label "Inlíne">
-<!ENTITY asAttachment.label "Mar Iatán">
-<!ENTITY addExtension.label "Cuir iarmhír le hainm an chomhaid">
-<!ENTITY addExtension.accesskey "e">
+<!ENTITY forwardMsg.label                     "Cuir teachtaireachtaí ar aghaidh:">
+<!ENTITY forwardMsg.accesskey                 "g">
+<!ENTITY inline.label                         "Inlíne">
+<!ENTITY asAttachment.label                   "Mar Iatán">
+<!ENTITY addExtension.label                   "Cuir iarmhír le hainm an chomhaid">
+<!ENTITY addExtension.accesskey               "e">
 
-<!ENTITY htmlComposeHeader.label "HTML">
-<!ENTITY font.label "Cló:">
-<!ENTITY font.accesskey "l">
-<!ENTITY size.label "Méid:">
-<!ENTITY size.accesskey "M">
-<!ENTITY fontColor.label "Dath an Téacs:">
-<!ENTITY fontColor.accesskey "T">
-<!ENTITY bgColor.label "Dath an Chúlra:">
-<!ENTITY bgColor.accesskey "l">
-<!ENTITY restoreHTMLDefaults.label "Athchóirigh na Réamhshocruithe">
-<!ENTITY restoreHTMLDefaults.accesskey "R">
+<!ENTITY htmlComposeHeader.label              "HTML">
+<!ENTITY font.label                           "Cló:">
+<!ENTITY font.accesskey                       "l">
+<!ENTITY size.label                           "Méid:">
+<!ENTITY size.accesskey                       "M">
+<!ENTITY fontColor.label                      "Dath an Téacs:">
+<!ENTITY fontColor.accesskey                  "T">
+<!ENTITY bgColor.label                        "Dath an Chúlra:">
+<!ENTITY bgColor.accesskey                    "l">
+<!ENTITY restoreHTMLDefaults.label            "Athchóirigh na Réamhshocruithe">
+<!ENTITY restoreHTMLDefaults.accesskey        "R">
 
-<!ENTITY spellCheck.label "Ceartaigh litriú sula seoltar teachtaireachtaí">
-<!ENTITY spellCheck.accesskey "C">
-<!ENTITY spellCheckInline.label "Cumasaigh litriú beo">
-<!ENTITY spellCheckInline1.accesskey "E">
-<!ENTITY languagePopup.label "Teanga:">
-<!ENTITY languagePopup.accessKey "T">
-<!ENTITY downloadDictionaries.label "Íosluchtaigh Tuilleadh Foclóirí">
+<!ENTITY spellCheck.label                     "Ceartaigh litriú sula seoltar teachtaireachtaí">
+<!ENTITY spellCheck.accesskey                 "C">
+<!ENTITY spellCheckInline.label               "Cumasaigh litriú beo">
+<!ENTITY spellCheckInline1.accesskey          "E">
+<!ENTITY languagePopup.label                  "Teanga:">
+<!ENTITY languagePopup.accessKey              "T">
+<!ENTITY downloadDictionaries.label           "Íosluchtaigh Tuilleadh Foclóirí">
 
-<!ENTITY warnOnSendAccelKey.label "Deimhnigh agus aicearra méarchláir á úsáid chun teachtaireacht a sheoladh">
-<!ENTITY warnOnSendAccelKey.accesskey "c">
-<!ENTITY autoSave.label "Sábháil go huathoibríoch gach">
-<!ENTITY autoSave.accesskey "a">
-<!ENTITY autoSaveEnd.label "nóiméad">
+<!ENTITY warnOnSendAccelKey.label             "Deimhnigh agus aicearra méarchláir á úsáid chun teachtaireacht a sheoladh">
+<!ENTITY warnOnSendAccelKey.accesskey         "c">
+<!ENTITY autoSave.label                       "Sábháil go huathoibríoch gach">
+<!ENTITY autoSave.accesskey                   "a">
+<!ENTITY autoSaveEnd.label                    "nóiméad">
 
-<!ENTITY emailCollectionPicker.label "Cuir seoltaí ríomhphoist amach go huathoibríoch le mo:">
-<!ENTITY emailCollectionPicker.accesskey "a">
-<!ENTITY addressingTitle.label "Comhlánú Uathoibríoch Seoltaí">
-<!ENTITY autocompleteText.label "Agus seoltaí á gcur le teachtaireachtaí, lorg iontrálacha oiriúnacha i:">
-<!ENTITY addressingEnable.label "Leabhar Seoltaí Logánta">
-<!ENTITY addressingEnable.accesskey "L">
-<!ENTITY directories.label "Freastalaí Eolaire:">
-<!ENTITY directories.accesskey "F">
-<!ENTITY directoriesNone.label "Gan sonrú">
-<!ENTITY editDirectories.label "Cuir Eolairí in Eagar…">
-<!ENTITY editDirectories.accesskey "E">
+<!ENTITY emailCollectionPicker.label           "Cuir seoltaí ríomhphoist amach go huathoibríoch le mo:">
+<!ENTITY emailCollectionPicker.accesskey       "a">
+<!ENTITY addressingTitle.label                 "Comhlánú Uathoibríoch Seoltaí">
+<!ENTITY autocompleteText.label                "Agus seoltaí á gcur le teachtaireachtaí, lorg iontrálacha oiriúnacha i:">
+<!ENTITY addressingEnable.label                "Leabhar Seoltaí Logánta">
+<!ENTITY addressingEnable.accesskey            "L">
+<!ENTITY directories.label                     "Freastalaí Eolaire:">
+<!ENTITY directories.accesskey                 "F">
+<!ENTITY directoriesNone.label                 "Gan sonrú">
+<!ENTITY editDirectories.label                 "Cuir Eolairí in Eagar…">
+<!ENTITY editDirectories.accesskey             "E">
 
-<!ENTITY sendOptionsDescription.label "Cumraigh iompar an fhormáidithe téacs">
-<!ENTITY sendOptions.label "Roghanna Seolta…">
-<!ENTITY sendOptions.accesskey "S">
+<!ENTITY sendOptionsDescription.label          "Cumraigh iompar an fhormáidithe téacs">
+<!ENTITY sendOptions.label                     "Roghanna Seolta…">
+<!ENTITY sendOptions.accesskey                 "S">
 
-<!ENTITY attachmentReminder.label "Seiceáil le haghaidh iatán ar iarraidh">
-<!ENTITY attachmentReminder.accesskey "i">
-<!ENTITY attachmentReminderOptions.label "Lorgfhocail…">
-<!ENTITY attachmentReminderOptions.accesskey "L">
+<!ENTITY attachmentReminder.label              "Seiceáil le haghaidh iatán ar iarraidh">
+<!ENTITY attachmentReminder.accesskey          "i">
+<!ENTITY attachmentReminderOptions.label       "Lorgfhocail…">
+<!ENTITY attachmentReminderOptions.accesskey   "L">

@@ -2,9 +2,9 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY Contact.tab "Teagmháil">
-<!ENTITY Contact.accesskey "C">
-<!ENTITY Name.box "Ainm">
+<!ENTITY Contact.tab                     "Teagmháil">
+<!ENTITY Contact.accesskey               "C">
+<!ENTITY Name.box                        "Ainm">
 <!-- LOCALIZATION NOTE:
  NameField1, NameField2, PhoneticField1, PhoneticField2
  those fields are either LN or FN depends on the target country.
@@ -15,142 +15,142 @@
 <!-- LOCALIZATION NOTE (NameField1.id) : DONT_TRANSLATE -->
 
 
-<!ENTITY NameField1.id "FirstName">
+<!ENTITY NameField1.id                  "FirstName">
 <!-- LOCALIZATION NOTE (NameField2.id) : DONT_TRANSLATE -->
-<!ENTITY NameField2.id "LastName">
+<!ENTITY NameField2.id                  "LastName">
 <!-- LOCALIZATION NOTE (PhoneticField1.id) : DONT_TRANSLATE -->
-<!ENTITY PhoneticField1.id "PhoneticFirstName">
+<!ENTITY PhoneticField1.id              "PhoneticFirstName">
 <!-- LOCALIZATION NOTE (PhoneticField2.id) : DONT_TRANSLATE -->
-<!ENTITY PhoneticField2.id "PhoneticLastName">
+<!ENTITY PhoneticField2.id              "PhoneticLastName">
 
-<!ENTITY NameField1.label "Ainm:">
-<!ENTITY NameField1.accesskey "A">
-<!ENTITY NameField2.label "Sloinne:">
-<!ENTITY NameField2.accesskey "l">
-<!ENTITY PhoneticField1.label "Foghrach:">
-<!ENTITY PhoneticField2.label "Foghrach:">
-<!ENTITY DisplayName.label "Ainm Taispeána:">
-<!ENTITY DisplayName.accesskey "T">
-<!ENTITY preferDisplayName.label "Úsáid ainm taispeána i gcónaí seachas ceanntásc na teachtaireachta">
-<!ENTITY preferDisplayName.accesskey "t">
-<!ENTITY NickName.label "Leasainm:">
-<!ENTITY NickName.accesskey "n">
+<!ENTITY NameField1.label               "Ainm:">
+<!ENTITY NameField1.accesskey           "A">
+<!ENTITY NameField2.label               "Sloinne:">
+<!ENTITY NameField2.accesskey           "l">
+<!ENTITY PhoneticField1.label           "Foghrach:">
+<!ENTITY PhoneticField2.label           "Foghrach:">
+<!ENTITY DisplayName.label              "Ainm Taispeána:">
+<!ENTITY DisplayName.accesskey          "T">
+<!ENTITY preferDisplayName.label        "Úsáid ainm taispeána i gcónaí seachas ceanntásc na teachtaireachta">
+<!ENTITY preferDisplayName.accesskey    "t">
+<!ENTITY NickName.label                 "Leasainm:">
+<!ENTITY NickName.accesskey             "n">
 
-<!ENTITY PrimaryEmail.label "Ríomhphost:">
-<!ENTITY PrimaryEmail.accesskey "R">
-<!ENTITY SecondEmail.label "Ríomhphost Breise:">
-<!ENTITY SecondEmail.accesskey "i">
-<!ENTITY PreferMailFormat.label "Formáid teachtaireachta de rogha:">
-<!ENTITY PreferMailFormat.accesskey "F">
-<!ENTITY PlainText.label "Gnáth-théacs">
-<!ENTITY HTML.label "HTML">
-<!ENTITY Unknown.label "Anaithnid">
-<!ENTITY chatName.label "Ainm an Chomhrá:">
+<!ENTITY PrimaryEmail.label             "Ríomhphost:">
+<!ENTITY PrimaryEmail.accesskey         "R">
+<!ENTITY SecondEmail.label              "Ríomhphost Breise:">
+<!ENTITY SecondEmail.accesskey          "i">
+<!ENTITY PreferMailFormat.label         "Formáid teachtaireachta de rogha:">
+<!ENTITY PreferMailFormat.accesskey     "F">
+<!ENTITY PlainText.label                "Gnáth-théacs">
+<!ENTITY HTML.label                     "HTML">
+<!ENTITY Unknown.label                  "Anaithnid">
+<!ENTITY chatName.label                 "Ainm an Chomhrá:">
 
-<!ENTITY WorkPhone.label "Obair:">
-<!ENTITY WorkPhone.accesskey "O">
-<!ENTITY HomePhone.label "Baile:">
-<!ENTITY HomePhone.accesskey "B">
-<!ENTITY FaxNumber.label "Facs:">
-<!ENTITY FaxNumber.accesskey "c">
-<!ENTITY PagerNumber.label "Glaoire:">
-<!ENTITY PagerNumber.accesskey "G">
-<!ENTITY CellularNumber.label "Fón Póca:">
-<!ENTITY CellularNumber.accesskey "P">
+<!ENTITY WorkPhone.label                "Obair:">
+<!ENTITY WorkPhone.accesskey            "O">
+<!ENTITY HomePhone.label                "Baile:">
+<!ENTITY HomePhone.accesskey            "B">
+<!ENTITY FaxNumber.label                "Facs:">
+<!ENTITY FaxNumber.accesskey            "c">
+<!ENTITY PagerNumber.label              "Glaoire:">
+<!ENTITY PagerNumber.accesskey          "G">
+<!ENTITY CellularNumber.label           "Fón Póca:">
+<!ENTITY CellularNumber.accesskey       "P">
 
-<!ENTITY Home.tab "Príobháideach">
-<!ENTITY Home.accesskey "R">
-<!ENTITY HomeAddress.label "Seoladh:">
-<!ENTITY HomeAddress.accesskey "d">
-<!ENTITY HomeAddress2.label "">
-<!ENTITY HomeAddress2.accesskey "">
-<!ENTITY HomeCity.label "Cathair:">
-<!ENTITY HomeCity.accesskey "C">
-<!ENTITY HomeState.label "Stát/Cúige:">
-<!ENTITY HomeState.accesskey "S">
-<!ENTITY HomeZipCode.label "Cód Poist:">
-<!ENTITY HomeZipCode.accesskey "C">
-<!ENTITY HomeCountry.label "Tír:">
-<!ENTITY HomeCountry.accesskey "T">
-<!ENTITY HomeWebPage.label "Leathanach Gréasáin:">
-<!ENTITY HomeWebPage.accesskey "e">
-<!ENTITY Birthday.label "Lá Breithe:">
-<!ENTITY Birthday.accesskey "B">
-<!ENTITY In.label "">
-<!ENTITY Year.placeholder "Bliain">
-<!ENTITY Or.value "nó">
-<!ENTITY Age.placeholder "Aois">
-<!ENTITY YearsOld.label "">
+<!ENTITY Home.tab                       "Príobháideach">
+<!ENTITY Home.accesskey                 "R">
+<!ENTITY HomeAddress.label              "Seoladh:">
+<!ENTITY HomeAddress.accesskey          "d">
+<!ENTITY HomeAddress2.label             "">
+<!ENTITY HomeAddress2.accesskey         "">
+<!ENTITY HomeCity.label                 "Cathair:">
+<!ENTITY HomeCity.accesskey             "C">
+<!ENTITY HomeState.label                "Stát/Cúige:">
+<!ENTITY HomeState.accesskey            "S">
+<!ENTITY HomeZipCode.label              "Cód Poist:">
+<!ENTITY HomeZipCode.accesskey          "C">
+<!ENTITY HomeCountry.label              "Tír:">
+<!ENTITY HomeCountry.accesskey          "T">
+<!ENTITY HomeWebPage.label              "Leathanach Gréasáin:">
+<!ENTITY HomeWebPage.accesskey          "e">
+<!ENTITY Birthday.label                 "Lá Breithe:">
+<!ENTITY Birthday.accesskey             "B">
+<!ENTITY In.label                       "">
+<!ENTITY Year.placeholder               "Bliain">
+<!ENTITY Or.value                       "nó">
+<!ENTITY Age.placeholder                "Aois">
+<!ENTITY YearsOld.label                 "">
 
-<!ENTITY Work.tab "Obair">
-<!ENTITY Work.accesskey "W">
-<!ENTITY JobTitle.label "Teideal:">
-<!ENTITY JobTitle.accesskey "i">
-<!ENTITY Department.label "Roinn:">
-<!ENTITY Department.accesskey "n">
-<!ENTITY Company.label "Eagras:">
-<!ENTITY Company.accesskey "g">
-<!ENTITY WorkAddress.label "Seoladh:">
-<!ENTITY WorkAddress.accesskey "d">
-<!ENTITY WorkAddress2.label "">
-<!ENTITY WorkAddress2.accesskey "">
-<!ENTITY WorkCity.label "Cathair:">
-<!ENTITY WorkCity.accesskey "C">
-<!ENTITY WorkState.label "Stát/Cúige:">
-<!ENTITY WorkState.accesskey "S">
-<!ENTITY WorkZipCode.label "Cód Poist:">
-<!ENTITY WorkZipCode.accesskey "C">
-<!ENTITY WorkCountry.label "Tír:">
-<!ENTITY WorkCountry.accesskey "T">
-<!ENTITY WorkWebPage.label "Leathanach Gréasáin:">
-<!ENTITY WorkWebPage.accesskey "e">
+<!ENTITY Work.tab                       "Obair">
+<!ENTITY Work.accesskey                 "W">
+<!ENTITY JobTitle.label                 "Teideal:">
+<!ENTITY JobTitle.accesskey             "i">
+<!ENTITY Department.label               "Roinn:">
+<!ENTITY Department.accesskey           "n">
+<!ENTITY Company.label                  "Eagras:">
+<!ENTITY Company.accesskey              "g">
+<!ENTITY WorkAddress.label              "Seoladh:">
+<!ENTITY WorkAddress.accesskey          "d">
+<!ENTITY WorkAddress2.label             "">
+<!ENTITY WorkAddress2.accesskey         "">
+<!ENTITY WorkCity.label                 "Cathair:">
+<!ENTITY WorkCity.accesskey             "C">
+<!ENTITY WorkState.label                "Stát/Cúige:">
+<!ENTITY WorkState.accesskey            "S">
+<!ENTITY WorkZipCode.label              "Cód Poist:">
+<!ENTITY WorkZipCode.accesskey          "C">
+<!ENTITY WorkCountry.label              "Tír:">
+<!ENTITY WorkCountry.accesskey          "T">
+<!ENTITY WorkWebPage.label              "Leathanach Gréasáin:">
+<!ENTITY WorkWebPage.accesskey          "e">
 
-<!ENTITY Other.tab "Eile">
-<!ENTITY Other.accesskey "h">
-<!ENTITY Custom1.label "Saincheaptha 1:">
-<!ENTITY Custom1.accesskey "1">
-<!ENTITY Custom2.label "Saincheaptha 2:">
-<!ENTITY Custom2.accesskey "2">
-<!ENTITY Custom3.label "Saincheaptha 3:">
-<!ENTITY Custom3.accesskey "3">
-<!ENTITY Custom4.label "Saincheaptha 4:">
-<!ENTITY Custom4.accesskey "4">
-<!ENTITY Notes.label "Nótaí:">
-<!ENTITY Notes.accesskey "N">
+<!ENTITY Other.tab                      "Eile">
+<!ENTITY Other.accesskey                "h">
+<!ENTITY Custom1.label                  "Saincheaptha 1:">
+<!ENTITY Custom1.accesskey              "1">
+<!ENTITY Custom2.label                  "Saincheaptha 2:">
+<!ENTITY Custom2.accesskey              "2">
+<!ENTITY Custom3.label                  "Saincheaptha 3:">
+<!ENTITY Custom3.accesskey              "3">
+<!ENTITY Custom4.label                  "Saincheaptha 4:">
+<!ENTITY Custom4.accesskey              "4">
+<!ENTITY Notes.label                    "Nótaí:">
+<!ENTITY Notes.accesskey                "N">
 
-<!ENTITY Chat.tab "Comhrá">
-<!ENTITY Chat.accesskey "a">
-<!ENTITY Gtalk.label "Google Talk:">
-<!ENTITY Gtalk.accesskey "G">
-<!ENTITY AIM.label "AIM:">
-<!ENTITY AIM.accesskey "r">
-<!ENTITY Yahoo.label "Yahoo!:">
-<!ENTITY Yahoo.accesskey "Y">
-<!ENTITY Skype.label "Skype:">
-<!ENTITY Skype.accesskey "S">
-<!ENTITY QQ.label "QQ:">
-<!ENTITY QQ.accesskey "Q">
-<!ENTITY MSN.label "MSN:">
-<!ENTITY MSN.accesskey "M">
-<!ENTITY ICQ.label "ICQ:">
-<!ENTITY ICQ.accesskey "I">
-<!ENTITY XMPP.label "Aitheantas Jabber:">
-<!ENTITY XMPP.accesskey "J">
-<!ENTITY IRC.label "Leasainm IRC:">
-<!ENTITY IRC.accesskey "R">
+<!ENTITY Chat.tab                       "Comhrá">
+<!ENTITY Chat.accesskey                 "a">
+<!ENTITY Gtalk.label                    "Google Talk:">
+<!ENTITY Gtalk.accesskey                "G">
+<!ENTITY AIM.label                      "AIM:">
+<!ENTITY AIM.accesskey                  "r">
+<!ENTITY Yahoo.label                    "Yahoo!:">
+<!ENTITY Yahoo.accesskey                "Y">
+<!ENTITY Skype.label                    "Skype:">
+<!ENTITY Skype.accesskey                "S">
+<!ENTITY QQ.label                       "QQ:">
+<!ENTITY QQ.accesskey                   "Q">
+<!ENTITY MSN.label                      "MSN:">
+<!ENTITY MSN.accesskey                  "M">
+<!ENTITY ICQ.label                      "ICQ:">
+<!ENTITY ICQ.accesskey                  "I">
+<!ENTITY XMPP.label                     "Aitheantas Jabber:">
+<!ENTITY XMPP.accesskey                 "J">
+<!ENTITY IRC.label                      "Leasainm IRC:">
+<!ENTITY IRC.accesskey                  "R">
 
-<!ENTITY Photo.tab "Grianghraf">
-<!ENTITY Photo.accesskey "o">
-<!ENTITY PhotoDesc.label "Roghnaigh ceann de na rudaí seo a leanas:">
-<!ENTITY GenericPhoto.label "Grianghraf Ginearálta">
-<!ENTITY GenericPhoto.accesskey "G">
-<!ENTITY DefaultPhoto.label "Réamhshocrú">
-<!ENTITY PhotoFile.label "Ar an ríomhaire seo">
-<!ENTITY PhotoFile.accesskey "n">
-<!ENTITY BrowsePhoto.label "Brabhsáil">
-<!ENTITY BrowsePhoto.accesskey "r">
-<!ENTITY PhotoURL.label "Ar an nGréasán">
-<!ENTITY PhotoURL.accesskey "s">
-<!ENTITY PhotoURL.placeholder "Greamaigh nó clóscríobh seoladh Gréasáin an ghrianghraif">
-<!ENTITY UpdatePhoto.label "Nuashonraigh">
-<!ENTITY UpdatePhoto.accesskey "u">
+<!ENTITY Photo.tab                      "Grianghraf">
+<!ENTITY Photo.accesskey                "o">
+<!ENTITY PhotoDesc.label                "Roghnaigh ceann de na rudaí seo a leanas:">
+<!ENTITY GenericPhoto.label             "Grianghraf Ginearálta">
+<!ENTITY GenericPhoto.accesskey         "G">
+<!ENTITY DefaultPhoto.label             "Réamhshocrú">
+<!ENTITY PhotoFile.label                "Ar an ríomhaire seo">
+<!ENTITY PhotoFile.accesskey            "n">
+<!ENTITY BrowsePhoto.label              "Brabhsáil">
+<!ENTITY BrowsePhoto.accesskey          "r">
+<!ENTITY PhotoURL.label                 "Ar an nGréasán">
+<!ENTITY PhotoURL.accesskey             "s">
+<!ENTITY PhotoURL.placeholder           "Greamaigh nó clóscríobh seoladh Gréasáin an ghrianghraif">
+<!ENTITY UpdatePhoto.label              "Nuashonraigh">
+<!ENTITY UpdatePhoto.accesskey          "u">

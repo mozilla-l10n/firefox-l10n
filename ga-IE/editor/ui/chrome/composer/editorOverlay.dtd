@@ -75,12 +75,12 @@
 <!ENTITY decreaseFontSize.accesskey "s">
 <!ENTITY decrementFontSize.key "&lt;">
 <!-- < is above this key on many keyboards -->
-<!ENTITY decrementFontSize.key2 ",">
+<!ENTITY decrementFontSize.key2 ","> 
 <!ENTITY increaseFontSize.label "Níos Mó">
 <!ENTITY increaseFontSize.accesskey "M">
 <!ENTITY incrementFontSize.key "&gt;">
 <!-- > is above this key on many keyboards -->
-<!ENTITY incrementFontSize.key2 ".">
+<!ENTITY incrementFontSize.key2 "."> 
 
 <!ENTITY fontSizeMenu.label "Méid">
 <!ENTITY fontSizeMenu.accesskey "d">
@@ -149,7 +149,7 @@
 
 <!ENTITY paragraphMenu.label "Alt">
 <!ENTITY paragraphMenu.accesskey "A">
-<!ENTITY paragraphParagraphCmd.label "Alt">
+<!ENTITY paragraphParagraphCmd.label "Alt">  
 <!ENTITY paragraphParagraphCmd.accesskey "A">
 <!ENTITY heading1Cmd.label "Ceannteideal 1">
 <!ENTITY heading1Cmd.accesskey "1">
@@ -331,19 +331,19 @@
 <!ENTITY alignJustifyButton.tooltip "Ailínigh téacs ar na himill chlé agus dheas">
 <!-- Structure Toolbar Context Menu items -->
 
-<!ENTITY structSelect.label "Roghnaigh">
-<!ENTITY structSelect.accesskey "R">
-<!ENTITY structRemoveTag.label "Bain clib">
-<!ENTITY structRemoveTag.accesskey "B">
-<!ENTITY structChangeTag.label "Athraigh clib">
-<!ENTITY structChangeTag.accesskey "c">
+<!ENTITY structSelect.label         "Roghnaigh">
+<!ENTITY structSelect.accesskey     "R">
+<!ENTITY structRemoveTag.label      "Bain clib">
+<!ENTITY structRemoveTag.accesskey  "B">
+<!ENTITY structChangeTag.label      "Athraigh clib">
+<!ENTITY structChangeTag.accesskey  "c">
 <!-- TOC manipulation -->
 
-<!ENTITY insertTOC.label "Ionsáigh">
-<!ENTITY insertTOC.accesskey "I">
-<!ENTITY updateTOC.label "Nuashonraigh">
-<!ENTITY updateTOC.accesskey "u">
-<!ENTITY removeTOC.label "Bain">
-<!ENTITY removeTOC.accesskey "B">
-<!ENTITY tocMenu.label "Clár Ábhair…">
-<!ENTITY tocMenu.accesskey "b">
+<!ENTITY insertTOC.label          "Ionsáigh">
+<!ENTITY insertTOC.accesskey      "I">
+<!ENTITY updateTOC.label          "Nuashonraigh">
+<!ENTITY updateTOC.accesskey      "u">
+<!ENTITY removeTOC.label          "Bain">
+<!ENTITY removeTOC.accesskey      "B">
+<!ENTITY tocMenu.label            "Clár Ábhair…">
+<!ENTITY tocMenu.accesskey        "b">

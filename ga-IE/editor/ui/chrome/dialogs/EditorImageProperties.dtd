@@ -15,7 +15,7 @@
 <!ENTITY locationEditField.tooltip "Iontráil comhadainm nó suíomh na híomhá">
 <!ENTITY title.label "Leid Uirlise:">
 <!ENTITY title.accessKey "L">
-<!ENTITY title.tooltip 'An aitreabúid HTML "title" a thaispeánfar mar leid uirlise'>
+<!ENTITY title.tooltip "An aitreabúid HTML &quot;title&quot; a thaispeánfar mar leid uirlise">
 <!ENTITY altText.label "Téacs mar Mhalairt:">
 <!ENTITY altText.accessKey "a">
 <!ENTITY altTextEditField.tooltip "Iontráil an téacs le taispeáint in áit na híomhá">

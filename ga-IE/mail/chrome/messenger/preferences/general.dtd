@@ -2,38 +2,38 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY messengerStartPage.label "Leathanach Tosaigh &brandShortName;">
-<!ENTITY enableStartPage.label "Agus &brandShortName; tar éis tosú, taispeáin an Leathanach Tosaigh i réimse na dteachtaireachtaí">
-<!ENTITY enableStartPage.accesskey "t">
-<!ENTITY location.label "Suíomh:">
-<!ENTITY location1.accesskey "o">
-<!ENTITY useDefault.label "Athchóirigh na Réamhshocruithe">
-<!ENTITY useDefault.accesskey "R">
+<!ENTITY messengerStartPage.label         "Leathanach Tosaigh &brandShortName;">
+<!ENTITY enableStartPage.label            "Agus &brandShortName; tar éis tosú, taispeáin an Leathanach Tosaigh i réimse na dteachtaireachtaí">
+<!ENTITY enableStartPage.accesskey        "t">
+<!ENTITY location.label                   "Suíomh:">
+<!ENTITY location1.accesskey               "o">
+<!ENTITY useDefault.label                 "Athchóirigh na Réamhshocruithe">
+<!ENTITY useDefault.accesskey             "R">
 
-<!ENTITY changeDockIconOptions.label "Roghanna a bhaineann leis an deilbhín">
-<!ENTITY dockOptions.label "Roghanna an Deilbhín…">
-<!ENTITY dockOptions.accesskey "n">
+<!ENTITY changeDockIconOptions.label      "Roghanna a bhaineann leis an deilbhín">
+<!ENTITY dockOptions.label                "Roghanna an Deilbhín…">
+<!ENTITY dockOptions.accesskey            "n">
 
-<!ENTITY newMessagesArrive.label "Ar theacht teachtaireachtaí nua:">
-<!ENTITY playSound.label "Seinn fuaim">
-<!ENTITY playSound1.accesskey "d">
-<!ENTITY showAnimatedAlert.label "Taispeáin airdeall">
-<!ENTITY showAnimatedAlert.accesskey "s">
-<!ENTITY customizeMailAlert.label "Saincheap…">
-<!ENTITY customizeMailAlert.accesskey "c">
+<!ENTITY newMessagesArrive.label          "Ar theacht teachtaireachtaí nua:">
+<!ENTITY playSound.label                  "Seinn fuaim">
+<!ENTITY playSound1.accesskey              "d">
+<!ENTITY showAnimatedAlert.label          "Taispeáin airdeall">
+<!ENTITY showAnimatedAlert.accesskey      "s">
+<!ENTITY customizeMailAlert.label         "Saincheap…">
+<!ENTITY customizeMailAlert.accesskey     "c">
 
-<!ENTITY showTrayIcon.label "Taispeáin deilbhín sa tráidire">
-<!ENTITY showTrayIcon.accesskey "t">
+<!ENTITY showTrayIcon.label               "Taispeáin deilbhín sa tráidire">
+<!ENTITY showTrayIcon.accesskey           "t">
 
-<!ENTITY play.label "Seinn">
-<!ENTITY play.accesskey "S">
-<!ENTITY systemsound.label "Fuaim réamhshocraithe chórais le haghaidh ríomhphost nua">
-<!ENTITY systemsoundMac.label "Fuaim airdill an chórais">
-<!ENTITY systemsoundMac.accesskey "u">
-<!ENTITY systemsound.accesskey "u">
-<!ENTITY customsound.label "Úsáid an comhad fuaime seo">
-<!ENTITY customsound.accesskey "u">
-<!ENTITY browse.label "Brabhsáil…">
-<!ENTITY browse.accesskey "B">
+<!ENTITY play.label                       "Seinn">
+<!ENTITY play.accesskey                   "S">
+<!ENTITY systemsound.label                "Fuaim réamhshocraithe chórais le haghaidh ríomhphost nua">
+<!ENTITY systemsoundMac.label             "Fuaim airdill an chórais">
+<!ENTITY systemsoundMac.accesskey         "u">
+<!ENTITY systemsound.accesskey            "u">
+<!ENTITY customsound.label                "Úsáid an comhad fuaime seo">
+<!ENTITY customsound.accesskey            "u">
+<!ENTITY browse.label                     "Brabhsáil…">
+<!ENTITY browse.accesskey                 "B">
 
-<!ENTITY defaultSearchEngine.label "Inneall Cuardaigh Réamhshocraithe">
+<!ENTITY defaultSearchEngine.label        "Inneall Cuardaigh Réamhshocraithe">

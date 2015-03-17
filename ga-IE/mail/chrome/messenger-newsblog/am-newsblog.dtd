@@ -6,13 +6,13 @@
 <!ENTITY biffStart.accesskey "L">
 <!ENTITY biffEnd.label "nóiméad">
 
-<!ENTITY loginAtStartup.label "Lorg altanna nua ag am tosaithe">
+<!ENTITY loginAtStartup.label "Lorg altanna nua ag am tosaithe"> 
 <!ENTITY loginAtStartup.accesskey "o">
 
-<!ENTITY useQuickMode.label "Mar réamhshocrú, taispeáin achoimre an ailt in áit an leathanach Gréasáin a íosluchtú">
+<!ENTITY useQuickMode.label "Mar réamhshocrú, taispeáin achoimre an ailt in áit an leathanach Gréasáin a íosluchtú"> 
 <!ENTITY useQuickMode.accesskey "r">
 
-<!ENTITY manageSubscriptions.label "Bainistiú na Síntiús…">
+<!ENTITY manageSubscriptions.label "Bainistiú na Síntiús…"> 
 <!ENTITY manageSubscriptions.accesskey "S">
 
 <!ENTITY feedWindowTitle.label "Treoraí na gCuntas Fotha">

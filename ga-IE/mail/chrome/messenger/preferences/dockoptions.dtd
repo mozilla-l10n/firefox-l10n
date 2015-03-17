@@ -2,14 +2,14 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY dockOptionsDialog.title "Roghanna an deilbhín">
-<!ENTITY window.macWidth "40em">
+<!ENTITY dockOptionsDialog.title               "Roghanna an deilbhín">
+<!ENTITY window.macWidth                       "40em">
 
-<!ENTITY bounceSystemDockIcon.label "Beoigh an deilbhín nuair a thagann teachtaireacht nua isteach">
-<!ENTITY bounceSystemDockIcon.accesskey "i">
-<!ENTITY newMessagesCountDock.label "Líon na dteachtaireachtaí nua">
-<!ENTITY newMessagesCountDock.accesskey "n">
-<!ENTITY showAllUnreadMessagesCount.label "Líon na dteachtaireachtaí gan léamh">
-<!ENTITY showAllUnreadMessagesCount.accesskey "o">
-<!ENTITY dockIconBadge.label "Deilbhín na haipe">
-<!ENTITY dockIconShow.label "Deilbhín na haipe le:">
+<!ENTITY bounceSystemDockIcon.label            "Beoigh an deilbhín nuair a thagann teachtaireacht nua isteach">
+<!ENTITY bounceSystemDockIcon.accesskey        "i">
+<!ENTITY newMessagesCountDock.label            "Líon na dteachtaireachtaí nua">
+<!ENTITY newMessagesCountDock.accesskey        "n">
+<!ENTITY showAllUnreadMessagesCount.label      "Líon na dteachtaireachtaí gan léamh">
+<!ENTITY showAllUnreadMessagesCount.accesskey  "o">
+<!ENTITY dockIconBadge.label                   "Deilbhín na haipe">
+<!ENTITY dockIconShow.label                    "Deilbhín na haipe le:">

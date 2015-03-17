@@ -7,11 +7,11 @@
   -->
 
 
-<!ENTITY pref.mainbox.label "Socruithe Ghinearálta">
-<!ENTITY pref.dateformat.label "Formáid Téacs do Dhátaí:">
+<!ENTITY pref.mainbox.label "Socruithe Ghinearálta" >
+<!ENTITY pref.dateformat.label "Formáid Téacs do Dhátaí:" >
 <!ENTITY pref.dateformat.accesskey "D">
-<!ENTITY pref.dateformat.long "Fada">
-<!ENTITY pref.dateformat.short "Gearr">
+<!ENTITY pref.dateformat.long "Fada" >
+<!ENTITY pref.dateformat.short "Gearr"  >
 
 <!ENTITY pref.timezones.caption "Crios Ama">
 <!ENTITY pref.timezones.label "Roghnaigh an chathair is gaire i do chrios ama:">
@@ -21,7 +21,7 @@
 <!ENTITY pref.events.label "Imeachtaí">
 <!ENTITY pref.tasks.label "Tascanna">
 
-<!ENTITY pref.default_event_length.label "Fad Réamhshocraithe:">
+<!ENTITY pref.default_event_length.label "Fad Réamhshocraithe:" >
 <!ENTITY pref.default_event_length.accesskey "e">
 
 <!ENTITY pref.default_task_none.label "Gan sonrú">
@@ -34,9 +34,9 @@
 <!ENTITY pref.default_task_offset_next_hour.label "I gcoibhneas leis an chéad uair eile">
 
 <!ENTITY pref.calendar.todaypane.agenda.caption "Pána Inniu">
-<!ENTITY pref.soondays.label "The upcoming section shows:">
-<!ENTITY pref.soondays.accesskey "u">
+<!ENTITY pref.soondays.label "Taispeánann an chéad rannán eile:">
+<!ENTITY pref.soondays.accesskey "c">
 
-<!ENTITY pref.accessibility.label "Inrochtaineacht">
-<!ENTITY pref.systemcolors.label "Roghnaigh na dathanna is fearr ó thaobh inrochtaineachta">
+<!ENTITY pref.accessibility.label "Inrochtaineacht" >
+<!ENTITY pref.systemcolors.label "Roghnaigh na dathanna is fearr ó thaobh inrochtaineachta" >
 <!ENTITY pref.systemcolors.accesskey "d">

@@ -4,10 +4,10 @@
 <!-- address labels -->
 <!--LOCALIZATION NOTE addressingWidgetOverlay.dtd The basic mail/news composition headers as they are seen in UI -->
 
-<!ENTITY toAddr.label "Chuig:">
-<!ENTITY ccAddr.label "Cc:">
-<!ENTITY bccAddr.label "Bcc:">
-<!ENTITY replyAddr.label "Freagra-Chuig:">
-<!ENTITY newsgroupsAddr.label "Grúpa-Nuachta:">
-<!ENTITY followupAddr.label "Leanúint-Chuig:">
+<!ENTITY toAddr.label   "Chuig:"> 
+<!ENTITY ccAddr.label   "Cc:"> 
+<!ENTITY bccAddr.label  "Bcc:"> 
+<!ENTITY replyAddr.label   "Freagra-Chuig:"> 
+<!ENTITY newsgroupsAddr.label   "Grúpa-Nuachta:"> 
+<!ENTITY followupAddr.label   "Leanúint-Chuig:"> 
 

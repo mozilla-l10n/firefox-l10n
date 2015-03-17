@@ -2,34 +2,34 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY dialog.title "Roghanna Seolta">
-<!ENTITY sendMail.title "Formáid Téacs">
-<!ENTITY sendMaildesc.label "Agus teachtaireachtaí á seoladh i bhformáid HTML, má tá faighteoirí nach féidir leo glacadh le HTML:">
-<!ENTITY askMe.label "Fiafraigh díom cad atá le déanamh">
-<!ENTITY askMe.accesskey "F">
-<!ENTITY convertPlain.label "Tiontaigh an teachtaireacht go gnáth-théacs">
-<!ENTITY convertPlain.accesskey "T">
-<!ENTITY sendHTML.label "Seol an teachtaireacht mar HTML">
-<!ENTITY sendHTML.accesskey "S">
-<!ENTITY sendBoth.label "Seol an teachtaireacht mar ghnáth-théacs agus HTML araon">
-<!ENTITY sendBoth.accesskey "e">
-<!ENTITY override.label "Nóta: úsáid an Leabhar Seoltaí chun a rogha fhormáide a shonrú d'fhaighteoirí.">
+<!ENTITY dialog.title                 "Roghanna Seolta">
+<!ENTITY sendMail.title               "Formáid Téacs">
+<!ENTITY sendMaildesc.label           "Agus teachtaireachtaí á seoladh i bhformáid HTML, má tá faighteoirí nach féidir leo glacadh le HTML:">
+<!ENTITY askMe.label                  "Fiafraigh díom cad atá le déanamh">
+<!ENTITY askMe.accesskey              "F">
+<!ENTITY convertPlain.label           "Tiontaigh an teachtaireacht go gnáth-théacs">
+<!ENTITY convertPlain.accesskey       "T">
+<!ENTITY sendHTML.label               "Seol an teachtaireacht mar HTML">
+<!ENTITY sendHTML.accesskey           "S">
+<!ENTITY sendBoth.label               "Seol an teachtaireacht mar ghnáth-théacs agus HTML araon">
+<!ENTITY sendBoth.accesskey           "e">
+<!ENTITY override.label               "Nóta: úsáid an Leabhar Seoltaí chun a rogha fhormáide a shonrú d'fhaighteoirí.">
 
-<!ENTITY domaindesc.label "Má sheolann tú teachtaireacht go dtí seoladh atá i gceann de na bhfearainn thíosluaite, roghnóidh &brandShortName; an fhormáid cheart go huathoibríoch.">
-<!ENTITY HTMLTab.label "Fearainn HTML">
-<!ENTITY HTMLTab.accesskey "H">
-<!ENTITY PlainTextTab.label "Fearainn Ghnáth-Théacs">
-<!ENTITY PlainTextTab.accesskey "G">
-<!ENTITY AddHtmlDomain.label "Cuir Leis…">
-<!ENTITY AddHtmlDomain.accesskey "C">
-<!ENTITY AddPlainText.label "Cuir Leis…">
-<!ENTITY AddPlainText.accesskey "C">
-<!ENTITY DeleteHtmlDomain.label "Scrios">
-<!ENTITY DeleteHtmlDomain.accesskey "S">
-<!ENTITY DeletePlainText.label "Scrios">
-<!ENTITY DeletePlainText.accesskey "S">
+<!ENTITY domaindesc.label             "Má sheolann tú teachtaireacht go dtí seoladh atá i gceann de na bhfearainn thíosluaite, roghnóidh &brandShortName; an fhormáid cheart go huathoibríoch.">
+<!ENTITY HTMLTab.label                "Fearainn HTML">
+<!ENTITY HTMLTab.accesskey            "H">
+<!ENTITY PlainTextTab.label           "Fearainn Ghnáth-Théacs">
+<!ENTITY PlainTextTab.accesskey       "G">
+<!ENTITY AddHtmlDomain.label          "Cuir Leis…">
+<!ENTITY AddHtmlDomain.accesskey      "C">
+<!ENTITY AddPlainText.label           "Cuir Leis…">
+<!ENTITY AddPlainText.accesskey       "C">
+<!ENTITY DeleteHtmlDomain.label       "Scrios">
+<!ENTITY DeleteHtmlDomain.accesskey   "S">
+<!ENTITY DeletePlainText.label        "Scrios">
+<!ENTITY DeletePlainText.accesskey    "S">
 
-<!ENTITY add.htmltitle "Cuir Ainm Fearainn HTML Leis">
-<!ENTITY add.htmldomain "Ainm Fearainn HTML:">
-<!ENTITY add.plaintexttitle "Cuir Ainm Fearainn Ghnáth-Théacs Leis">
-<!ENTITY add.plaintextdomain "Ainm Fearainn Ghnáth-Théacs:">
+<!ENTITY add.htmltitle                "Cuir Ainm Fearainn HTML Leis">
+<!ENTITY add.htmldomain               "Ainm Fearainn HTML:">
+<!ENTITY add.plaintexttitle           "Cuir Ainm Fearainn Ghnáth-Théacs Leis">
+<!ENTITY add.plaintextdomain          "Ainm Fearainn Ghnáth-Théacs:">

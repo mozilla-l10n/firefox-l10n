@@ -3,6 +3,6 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!-- New Tag Dialog -->
 
-<!ENTITY newTagDialog.title "Cruthaigh Clib Nua">
-<!ENTITY name.label "Ainm na Clibe:">
-<!ENTITY name.accesskey "C">
+<!ENTITY newTagDialog.title      "Cruthaigh Clib Nua">
+<!ENTITY name.label              "Ainm na Clibe:">
+<!ENTITY name.accesskey          "C">

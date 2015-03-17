@@ -9,7 +9,7 @@
 <!ENTITY fieldMapImport.next.accesskey "A">
 <!ENTITY fieldMapImport.previous.label "Siar">
 <!ENTITY fieldMapImport.previous.accesskey "S">
-<!ENTITY fieldMapImport.text 'Úsáid "Bog Suas" agus "Bog Síos" chun réimsí an leabhair sheoltaí ar chlé a mheaitseáil leis na sonraí cuí ar dheis atá le hiompórtáil. Dísheiceáil na míreanna nach dteastaíonn uait iad a iompórtáil.'>
+<!ENTITY fieldMapImport.text "Úsáid &quot;Bog Suas&quot; agus &quot;Bog Síos&quot; chun réimsí an leabhair sheoltaí ar chlé a mheaitseáil leis na sonraí cuí ar dheis atá le hiompórtáil. Dísheiceáil na míreanna nach dteastaíonn uait iad a iompórtáil.">
 <!ENTITY fieldMapImport.up.label "Bog Suas">
 <!ENTITY fieldMapImport.up.accesskey "u">
 <!ENTITY fieldMapImport.down.label "Bog Síos">

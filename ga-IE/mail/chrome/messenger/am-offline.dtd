@@ -46,13 +46,13 @@
   &ageAutosyncBefore.label [textbox for autosync value] &ageAutosyncMiddle.label; [dropdown for autosync interval] &ageAutosyncAfter.label;
 -->
 
-<!ENTITY allAutosync.label "Sioncronaigh na teachtaireachtaí go léir go logánta gan cuimhneamh ar aois">
-<!ENTITY allAutosync.accesskey "c">
-<!ENTITY ageAutosyncBefore.label "Sioncrónaigh teachtaireachtaí ó na">
-<!ENTITY ageAutosync.accesskey "z">
-<!ENTITY ageAutosyncMiddle.label "">
-<!ENTITY dayAgeInterval.label "Lá">
-<!ENTITY weekAgeInterval.label "Seachtain">
-<!ENTITY monthAgeInterval.label "Mí">
-<!ENTITY yearAgeInterval.label "Bliain">
-<!ENTITY ageAutosyncAfter.label "">
+<!ENTITY allAutosync.label               "Sioncronaigh na teachtaireachtaí go léir go logánta gan cuimhneamh ar aois">
+<!ENTITY allAutosync.accesskey           "c">
+<!ENTITY ageAutosyncBefore.label         "Sioncrónaigh teachtaireachtaí ó na">
+<!ENTITY ageAutosync.accesskey           "z">
+<!ENTITY ageAutosyncMiddle.label         "">
+<!ENTITY dayAgeInterval.label            "Lá">
+<!ENTITY weekAgeInterval.label           "Seachtain">
+<!ENTITY monthAgeInterval.label          "Mí">
+<!ENTITY yearAgeInterval.label           "Bliain">
+<!ENTITY ageAutosyncAfter.label          "">

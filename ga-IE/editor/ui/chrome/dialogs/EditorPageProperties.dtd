@@ -14,4 +14,4 @@
 <!ENTITY descriptionInput.accessKey "C">
 <!ENTITY locationNewPage.label "[Leathanach nua, gan sábháil faoi láthair]">
 <!ENTITY EditHEADSource1.label "Ardúsáideoirí:">
-<!ENTITY EditHEADSource2.label 'Chun inneachair eile an réigiúin &lt;head&gt; a chur in eagar, úsáid &quot;Foinse HTML&quot; sa roghchlár "Amharc" nó sa Bharra Eagarthóireachta.'>
+<!ENTITY EditHEADSource2.label "Chun inneachair eile an réigiúin &lt;head&gt; a chur in eagar, úsáid &quot;Foinse HTML&amp;&quot; sa roghchlár &quot;Amharc&quot; nó sa Bharra Eagarthóireachta.">

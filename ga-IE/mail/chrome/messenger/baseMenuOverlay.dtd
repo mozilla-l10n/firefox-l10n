@@ -9,9 +9,9 @@
                        for the help button in the menubar but Gnome does not.   -->
 <!ENTITY helpMenuWin.label "Cabhair">
 <!ENTITY helpMenuWin.accesskey "h">
-<!ENTITY helpTroubleshootingInfo.label "Fabhtcheartú">
+<!ENTITY helpTroubleshootingInfo.label     "Fabhtcheartú">
 <!ENTITY helpTroubleshootingInfo.accesskey "t">
-<!ENTITY helpSafeMode.label "Atosaigh gan aon bhreiseáin…">
+<!ENTITY helpSafeMode.label     "Atosaigh gan aon bhreiseáin…">
 <!ENTITY helpSafeMode.accesskey "A">
 <!ENTITY releaseCmd2.label "Nótaí Eisiúna">
 <!ENTITY releaseCmd2.accesskey "N">
@@ -21,8 +21,8 @@
 <!ENTITY openHelp.accesskey "h">
 <!ENTITY openHelp.commandkey "VK_F1">
 <!ENTITY openHelpMac.label "Cabhair &brandShortName;">
-<!ENTITY openHelpMac2.commandkey "?">
-<!ENTITY openHelpMac2.modifiers "accel">
+<!ENTITY openHelpMac2.commandkey   "?">
+<!ENTITY openHelpMac2.modifiers    "accel">
 
 <!ENTITY aboutMenuCmd.label "Maidir le &brandShortName;">
 <!ENTITY aboutMenuCmd.accesskey "M">
