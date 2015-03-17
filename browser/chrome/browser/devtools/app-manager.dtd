@@ -84,7 +84,7 @@
 <!ENTITY projects.noProjects "Nu există proiecte. Adăugați o nouă aplicație împachetată de mai jos (director local) sau o aplicație găzduită (legătura către un fișier manifest).">
 <!ENTITY projects.manifestEditor "Editor pentru manifest">
 <!ENTITY projects.manifestEditorTooltip "Edit your app's manifest in the panel below. The Update button will save your changes and update the app.">
-<!ENTITY projects.manifestViewer "Manifest Viewer">
+<!ENTITY projects.manifestViewer "Vizualizator manifest">
 <!ENTITY projects.manifestViewerTooltip "Examine your app's manifest in the panel below.">
 <!ENTITY projects.valid "Valid">
 <!ENTITY projects.error "Eroare">
@@ -99,5 +99,5 @@
 <!ENTITY help.appMgrDoc "Documentație: Utilizarea gestionarului de aplicații">
 <!ENTITY help.configuringDevice "Cum se configurează dispozitivul dumneavoastră cu Firefox OS">
 <!ENTITY help.troubleShooting "Depanare">
-<!ENTITY help.simulatorAddon "Install Simulator Add-on">
+<!ENTITY help.simulatorAddon "Instalați suplimentul Simulator">
 <!ENTITY help.adbHelperAddon "Install Adb Helper Add-on">
