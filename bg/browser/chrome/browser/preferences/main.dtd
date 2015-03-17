@@ -33,10 +33,10 @@
 
 <!ENTITY alwaysCheckDefault2.label        "Проверяване дали &brandShortName; е браузърът по подразбиране">
 <!ENTITY alwaysCheckDefault2.accesskey    "б">
-
-
+<!ENTITY setAsMyDefaultBrowser2.label     "Задаване като стандартен">
+<!ENTITY setAsMyDefaultBrowser2.accesskey "с">
 <!ENTITY isDefault.label                  "&brandShortName; е вашият стандартен браузър">
-
+<!ENTITY isNotDefault.label               "&brandShortName;  не е вашият стандартен браузър">
 
 
 
