@@ -48,7 +48,7 @@
 
 <!ENTITY crashReporterSection.label      "Tuairisceoir Tuairteála">
 <!ENTITY crashReporterDesc.label         "Seolann &brandShortName; tuairiscí tuairteála chuig &vendorShortName; chun cabhrú linn cliant ríomhphoist níos cobhsaí níos sábháilte a fhorbairt">
-<!ENTITY enableCrashReporter.label       "Cumasaigh Tuairisceoir na gClistí">
+<!ENTITY enableCrashReporter.label       "Cumasaigh an Tuairisceoir Tuairteála">
 <!ENTITY enableCrashReporter.accesskey   "C">
 <!ENTITY crashReporterLearnMore.label    "Tuilleadh Eolais">
 <!-- Display and Reading Settings -->
