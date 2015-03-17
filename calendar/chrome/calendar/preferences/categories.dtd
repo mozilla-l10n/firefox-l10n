@@ -7,15 +7,18 @@
   -->
 
 
-
-
-
+<!ENTITY pref.categories.add.title "Agiuntar ina categoria">
+<!ENTITY pref.categories.addButton.label "Agiuntar…">
+<!ENTITY pref.categories.addButton.accesskey "A">
+<!ENTITY pref.categories.edit.title "Modifitgar categoria">
+<!ENTITY pref.categories.editButton.label "Modifitgar…">
+<!ENTITY pref.categories.editButton.accesskey "M">
 <!ENTITY pref.categories.removeButton.label "Allontanar">
 <!ENTITY pref.categories.removeButton.accesskey "A">
-
-
-
-
-
-
-
+<!ENTITY pref.categories.name.label "Num">
+<!ENTITY pref.categories.color.label "Colur">
+<!ENTITY pref.categories.usecolor.label "Utilisar colur">
+<!ENTITY pref.categories.none.label "(nagina)">
+<!ENTITY pref.categories.overwrite "Ina categoria cun quest num exista fingia.  \n Vuls ti la surscriver?">
+<!ENTITY pref.categories.overwrite.title "Attenziun: Num duplitgà">
+<!ENTITY pref.categories.noBlankCategories "Ti stos endatar in num da categoria.">

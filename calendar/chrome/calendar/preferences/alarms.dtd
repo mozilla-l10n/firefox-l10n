@@ -7,26 +7,30 @@
   -->
 
 
+<!ENTITY pref.alarmgoesoff.label "Sche ina propemoria scada:">
+<!ENTITY pref.playasound "Far ir in tun">
+<!ENTITY pref.calendar.alarms.playsound.accessKey "s">
+<!ENTITY pref.calendar.alarms.sound.useDefault.label "Utilisar il tun da standard">
+<!ENTITY pref.calendar.alarms.sound.useDefault.accessKey "s">
+<!ENTITY pref.calendar.alarms.sound.browse.label "Navigar…">
+<!ENTITY pref.calendar.alarms.sound.browse.accessKey "N">
+<!ENTITY pref.calendar.alarms.sound.play.label "Far ir">
+<!ENTITY pref.calendar.alarms.sound.play.accessKey "F">
+<!ENTITY pref.showalarmbox "Mussar il dialog da promemoria">
+<!ENTITY pref.calendar.alarms.showAlarmBox.accessKey "x">
+<!ENTITY pref.missedalarms "Mussar promemorias manchentadas">
+<!ENTITY pref.calendar.alarms.missedAlarms.accessKey "m">
+<!ENTITY pref.calendar.alarms.defaults.label "Standards per promemorias">
+<!ENTITY pref.defalarm4events.label "Configuraziun da standard per occurrenzas:">
+<!ENTITY pref.defalarm4events.accesskey "t">
+<!ENTITY pref.defalarm4todos.label "Configuraziun da standard per pensums:">
+<!ENTITY pref.defalarm4todos.accesskey "t">
+<!ENTITY pref.alarm.on "Activà">
+<!ENTITY pref.alarm.off "Deactivà">
+<!ENTITY pref.defalarmlen4events.label "Temp da standard per ina promemoria avant ina occurrenza:">
+<!ENTITY pref.defalarmlen4events.accesskey "r">
+<!ENTITY pref.defalarmlen4todos.label "Temp da standard per ina promemoria avant in pensum:">
+<!ENTITY pref.defalarmlen4todos.accesskey "r">
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY pref.defaultsnoozelength.label "Temp da snooze da standard:" >
+<!ENTITY pref.defaultsnoozelength.accesskey "s">

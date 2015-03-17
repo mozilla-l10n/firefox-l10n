@@ -7,25 +7,31 @@
   -->
 
 
+<!ENTITY pref.calendar.view.allview.caption "General">
+<!ENTITY pref.calendar.view.dayandweekviews.caption "Vistas da di ed emna">
+<!ENTITY pref.calendar.view.multiweekview.caption "Vista da pliras emnas">
+<!ENTITY pref.calendar.view.workweek.caption "Emna da lavur">
 
+<!ENTITY pref.weekstarts.label "Cumenzar l'emna: ">
+<!ENTITY pref.weekstarts.accesskey "C">
+<!ENTITY pref.daysoff.label "Includer quests dis en l'emna da lavur:">
 
+<!ENTITY pref.calendar.view.daystart.label "Il di cumenza las:">
+<!ENTITY pref.calendar.view.daystart.accesskey "d">
+<!ENTITY pref.calendar.view.dayend.label "Il di finescha las:">
+<!ENTITY pref.calendar.view.dayend.accesskey "i">
+<!ENTITY pref.calendar.view.visiblehours.label "Mussar:">
+<!ENTITY pref.calendar.view.visiblehours.accesskey "M">
+<!ENTITY pref.calendar.view.visiblehoursend.label "uras a la giada">
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY pref.numberofweeks.label "Dumber dad emnas per mussar (inclusivamain las emnas passadas):">
+<!ENTITY pref.numberofweeks.accesskey "b">
+<!ENTITY pref.numberofpreviousweeks.label "Emnas passadas per mussar:">
+<!ENTITY pref.numberofpreviousweeks.accesskey "E">
+<!ENTITY pref.numberofweeks.0 "naginas">
+<!ENTITY pref.numberofweeks.1 "1 emna">
+<!ENTITY pref.numberofweeks.2 "2 emnas">
+<!ENTITY pref.numberofweeks.3 "3 emnas">
+<!ENTITY pref.numberofweeks.4 "4 emnas">
+<!ENTITY pref.numberofweeks.5 "5 emnas">
+<!ENTITY pref.numberofweeks.6 "6 emnas">
