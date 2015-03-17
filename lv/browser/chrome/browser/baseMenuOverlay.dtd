@@ -16,7 +16,7 @@
 <!ENTITY helpMenuWin.accesskey    "P">
 <!ENTITY aboutProduct2.label      "Par &brandShorterName;">
 <!ENTITY aboutProduct2.accesskey  "a">
-<!ENTITY productHelp2.label       "&brandShortName; palīdzība">
+<!ENTITY productHelp2.label       "&brandShorterName; palīdzība">
 <!ENTITY productHelp2.accesskey   "l">
 <!ENTITY helpMac.commandkey       "?">
 
@@ -43,7 +43,7 @@
 
 <!ENTITY servicesMenuMac.label          "Servisi">
 
-<!ENTITY hideThisAppCmdMac2.label       "Paslēpt &brandShortName;">
+<!ENTITY hideThisAppCmdMac2.label       "Paslēpt &brandShorterName;">
 <!ENTITY hideThisAppCmdMac2.commandkey  "H">
 
 <!ENTITY hideOtherAppsCmdMac.label      "Paslēpt citus">
