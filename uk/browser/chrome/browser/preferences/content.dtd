@@ -45,6 +45,6 @@
 
 <!ENTITY  drmContent.label             "DRM-вміст">
 
-<!ENTITY  playDRMContent.label         "Відтворити DRM-вміст">
+<!ENTITY  playDRMContent.label         "Відтворювати DRM-вміст">
 <!ENTITY  playDRMContent.accesskey     "В">
 <!ENTITY  playDRMContent.learnMore.label "Докладніше">
