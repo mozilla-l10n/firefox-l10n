@@ -46,16 +46,18 @@
 <!ENTITY event.dialog.print.key                   "P">
 <!ENTITY event.dialog.undo.key                    "Z">
 <!ENTITY event.dialog.redo.key                    "Y">
-
-
-
-
+<!ENTITY event.dialog.cut.key                     "X">
+<!ENTITY event.dialog.copy.key                    "C">
+<!ENTITY event.dialog.paste.key                   "V">
+<!ENTITY event.dialog.select.all.key              "A">
 <!-- Menubar -->
 
-
-
-
-
+<!ENTITY  event.menu.item.new.label                       "Nowy">
+<!ENTITY  event.menu.item.new.accesskey                   "N">
+<!ENTITY  event.menu.item.new.event.label                 "Podawk">
+<!ENTITY  event.menu.item.new.event.accesskey             "P">
+<!ENTITY  event.menu.item.new.task.label                  "Nadawk">
+<!ENTITY  event.menu.item.new.task.accesskey              "d">
 
 
 
