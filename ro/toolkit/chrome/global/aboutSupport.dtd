@@ -50,7 +50,7 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 <!ENTITY aboutSupport.appBasicsProfileDirWinMac "Dosar de profil">
 
 <!ENTITY aboutSupport.appBasicsEnabledPlugins "Module activate">
-<!ENTITY aboutSupport.appBasicsBuildConfig "Configurație versiunii compilate">
+<!ENTITY aboutSupport.appBasicsBuildConfig "Configurația versiunii compilate">
 <!ENTITY aboutSupport.appBasicsUserAgent "Agent de utilizator">
 <!ENTITY aboutSupport.appBasicsMemoryUse "Utilizare memorie">
 
