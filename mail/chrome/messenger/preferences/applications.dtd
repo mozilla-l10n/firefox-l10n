@@ -2,37 +2,37 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY typeColumn.label "Cineál Ábhair">
-<!ENTITY typeColumn.accesskey "b">
+<!ENTITY  typeColumn.label            "Cineál Ábhair">
+<!ENTITY  typeColumn.accesskey        "b">
 
-<!ENTITY actionColumn2.label "Gníomh">
-<!ENTITY actionColumn2.accesskey "G">
+<!ENTITY  actionColumn2.label         "Gníomh">
+<!ENTITY  actionColumn2.accesskey     "G">
 
-<!ENTITY focusSearch1.key "f">
-<!ENTITY focusSearch2.key "k">
+<!ENTITY  focusSearch1.key            "f">
+<!ENTITY  focusSearch2.key            "k">
 
-<!ENTITY filter.placeholder "Cuardaigh">
+<!ENTITY  filter.placeholder          "Cuardaigh">
 
-<!ENTITY saveTo.label "Sábháil comhaid i">
-<!ENTITY saveTo.accesskey "S">
-<!ENTITY alwaysAsk.label "Fiafraigh díom cá sábhálfar an comhad i gcónaí">
-<!ENTITY alwaysAsk.accesskey "g">
-<!ENTITY chooseFolderWin.label "Brabhsáil…">
-<!ENTITY chooseFolderWin.accesskey "B">
-<!ENTITY chooseFolderMac.label "Roghnaigh…">
-<!ENTITY chooseFolderMac.accesskey "R">
+<!ENTITY saveTo.label                 "Sábháil comhaid i">
+<!ENTITY saveTo.accesskey             "S">
+<!ENTITY alwaysAsk.label              "Fiafraigh díom cá sábhálfar an comhad i gcónaí">
+<!ENTITY alwaysAsk.accesskey          "g">
+<!ENTITY chooseFolderWin.label        "Brabhsáil…">
+<!ENTITY chooseFolderWin.accesskey    "B">
+<!ENTITY chooseFolderMac.label        "Roghnaigh…">
+<!ENTITY chooseFolderMac.accesskey    "R">
 
-<!ENTITY attachments.incoming.label "Isteach">
-<!ENTITY attachments.outgoing.label "Amach">
+<!ENTITY attachments.incoming.label   "Isteach">
+<!ENTITY attachments.outgoing.label   "Amach">
 
-<!ENTITY addCloudFileAccount.label "Cuir Leis">
-<!ENTITY addCloudFileAccount.accesskey "L">
-<!ENTITY addCloudFileAccount.description "Cuir seirbhís stórála Filelink leis">
-<!ENTITY removeCloudFileAccount.label "Bain">
+<!ENTITY addCloudFileAccount.label        "Cuir Leis">
+<!ENTITY addCloudFileAccount.accesskey    "L">
+<!ENTITY addCloudFileAccount.description  "Cuir seirbhís stórála Filelink leis">
+<!ENTITY removeCloudFileAccount.label     "Bain">
 <!ENTITY removeCloudFileAccount.accesskey "B">
-<!ENTITY authRequired.description "Ní mór duit údarú chun socruithe na seirbhíse stórála seo a fheiceáil.">
-<!ENTITY authRequired.button.label "Údaraigh">
-<!ENTITY authRequired.button.accesskey "d">
+<!ENTITY authRequired.description         "Ní mór duit údarú chun socruithe na seirbhíse stórála seo a fheiceáil.">
+<!ENTITY authRequired.button.label        "Údaraigh">
+<!ENTITY authRequired.button.accesskey    "d">
 
 <!ENTITY enableCloudFileAccountOffer.label "Tabhair tairiscint comhaid a chomhroinnt má tá siad níos mó ná">
 <!ENTITY enableCloudFileAccountOffer.mb "MB">

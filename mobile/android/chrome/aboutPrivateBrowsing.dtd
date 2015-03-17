@@ -2,12 +2,12 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY privatebrowsingpage.title "Brabhsáil Phríobháideach">
+<!ENTITY privatebrowsingpage.title                  "Brabhsáil Phríobháideach">
 
-<!ENTITY privatebrowsingpage.issueDesc.private "D'oscail tú cluaisín nua príobháideach.">
-<!ENTITY privatebrowsingpage.issueDesc.normal "Níl tú i gcluaisín príobháideach faoi láthair.">
+<!ENTITY privatebrowsingpage.issueDesc.private      "D'oscail tú cluaisín nua príobháideach.">
+<!ENTITY privatebrowsingpage.issueDesc.normal       "Níl tú i gcluaisín príobháideach faoi láthair.">
 
-<!ENTITY privatebrowsingpage.description "I gcluaisíní príobháideacha, ní choimeádfaidh &brandShortName; stair bhrabhsálaí, stair chuardaigh, stair íosluchtaithe, stair fhoirme Gréasain, fianáin, nó comhaid shealadacha Idirlín. Coimeádfar comhaid a íosluchtaíonn tú agus leabharmharcanna a chruthaíonn tú, áfach.">
-<!ENTITY privatebrowsingpage.description.private "&privatebrowsingpage.issueDesc.private; &privatebrowsingpage.description;">
+<!ENTITY privatebrowsingpage.description            "I gcluaisíní príobháideacha, ní choimeádfaidh &brandShortName; stair bhrabhsálaí, stair chuardaigh, stair íosluchtaithe, stair fhoirme Gréasain, fianáin, nó comhaid shealadacha Idirlín. Coimeádfar comhaid a íosluchtaíonn tú agus leabharmharcanna a chruthaíonn tú, áfach.">
+<!ENTITY privatebrowsingpage.description.private    "&privatebrowsingpage.issueDesc.private; &privatebrowsingpage.description;">
 
-<!ENTITY privatebrowsingpage.moreInfo "Cé nach mbeidh taifead de do stair bhrabhsála ar an ngléas seo, is féidir le do sholáthraí seirbhíse Idirlín bheith ag breathnú ar na leathanaigh a dtugann tú cuairt orthu.">
+<!ENTITY privatebrowsingpage.moreInfo               "Cé nach mbeidh taifead de do stair bhrabhsála ar an ngléas seo, is féidir le do sholáthraí seirbhíse Idirlín bheith ag breathnú ar na leathanaigh a dtugann tú cuairt orthu.">

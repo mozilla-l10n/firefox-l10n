@@ -3,31 +3,31 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 
-<!ENTITY migrationWizard.title "Treoraí Iompórtála">
+<!ENTITY migrationWizard.title          "Treoraí Iompórtála">
 
-<!ENTITY importFromWin.label "Iompórtáil Roghanna, Socruithe Cuntais, Leabhar Seoltaí, Scagairí agus sonraí eile ó:">
-<!ENTITY importFromNonWin.label "Iompórtáil Roghanna, Socruithe Cuntais, Leabhar Seoltaí, Scagairí, agus sonraí eile ó:">
+<!ENTITY importFromWin.label            "Iompórtáil Roghanna, Socruithe Cuntais, Leabhar Seoltaí, Scagairí agus sonraí eile ó:">
+<!ENTITY importFromNonWin.label         "Iompórtáil Roghanna, Socruithe Cuntais, Leabhar Seoltaí, Scagairí, agus sonraí eile ó:">
 
-<!ENTITY importFromNothing.label "Ná hiompórtáil rud ar bith">
-<!ENTITY importFromNothing.accesskey "N">
-<!ENTITY importFromSeamonkey3.label "SeaMonkey 2 nó níos déanaí">
+<!ENTITY importFromNothing.label        "Ná hiompórtáil rud ar bith">
+<!ENTITY importFromNothing.accesskey    "N">
+<!ENTITY importFromSeamonkey3.label     "SeaMonkey 2 nó níos déanaí">
 <!ENTITY importFromSeamonkey3.accesskey "S">
-<!ENTITY importFromOExpress.label "Outlook Express">
-<!ENTITY importFromOExpress.accesskey "u">
-<!ENTITY importFromOutlook.label "Outlook">
-<!ENTITY importFromOutlook.accesskey "O">
-<!ENTITY importFromEudora.label "Eudora">
-<!ENTITY importFromEudora.accesskey "E">
+<!ENTITY importFromOExpress.label       "Outlook Express">
+<!ENTITY importFromOExpress.accesskey   "u">
+<!ENTITY importFromOutlook.label        "Outlook">
+<!ENTITY importFromOutlook.accesskey    "O">
+<!ENTITY importFromEudora.label         "Eudora">
+<!ENTITY importFromEudora.accesskey     "E">
 
-<!ENTITY importSource.title "Iompórtáil Socruithe agus Fillteáin Ríomhphoist">
-<!ENTITY importItems.title "Rudaí le hIompórtáil">
-<!ENTITY importItems.label "Roghnaigh na rudaí le hiompórtáil:">
+<!ENTITY importSource.title             "Iompórtáil Socruithe agus Fillteáin Ríomhphoist">
+<!ENTITY importItems.title              "Rudaí le hIompórtáil">
+<!ENTITY importItems.label              "Roghnaigh na rudaí le hiompórtáil:">
 
-<!ENTITY migrating.title "Á nIompórtáil…">
-<!ENTITY migrating.label "Tá na rudaí seo á n-iompórtáil faoi láthair…">
+<!ENTITY migrating.title                "Á nIompórtáil…">
+<!ENTITY migrating.label                "Tá na rudaí seo á n-iompórtáil faoi láthair…">
 
-<!ENTITY selectProfile.title "Roghnaigh Próifíl">
-<!ENTITY selectProfile.label "Próifílí le fáil ónar féidir a iompórtáil:">
+<!ENTITY selectProfile.title            "Roghnaigh Próifíl">
+<!ENTITY selectProfile.label            "Próifílí le fáil ónar féidir a iompórtáil:">
 
-<!ENTITY done.title "Iompórtáil curtha i gcrích">
-<!ENTITY done.label "Iompórtáladh na rudaí seo go rathúil:">
+<!ENTITY done.title                     "Iompórtáil curtha i gcrích">
+<!ENTITY done.label                     "Iompórtáladh na rudaí seo go rathúil:">

@@ -2,16 +2,16 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY itemJunk.label "Dramhphost">
-<!ENTITY itemPhishing.label "Camscéimeanna Ríomhphoist">
-<!ENTITY itemPasswords.label "Focail Fhaire">
-<!ENTITY itemAntiVirus.label "Frith-Víreas">
+<!ENTITY itemJunk.label          "Dramhphost">
+<!ENTITY itemPhishing.label      "Camscéimeanna Ríomhphoist">
+<!ENTITY itemPasswords.label     "Focail Fhaire">
+<!ENTITY itemAntiVirus.label     "Frith-Víreas">
 <!-- Junk Mail Controls -->
 
 <!ENTITY junkMail.intro "Socraigh na réamhshocruithe dramhphoist. Téigh go Socruithe an Chuntais chun socruithe dramhphoist do chuntas áirithe a chumrú.">
 <!ENTITY manualMark.label "Agus teachtaireachtaí marcáilte mar dhramhphost agam:">
 <!ENTITY manualMark.accesskey "A">
-<!ENTITY manualMarkModeMove.label "Bog go dtí fillteán &quot;Dramhphost&quot; an chuntais seo iad">
+<!ENTITY manualMarkModeMove.label "Bog go dtí fillteán &quot;Dramhphost&quot; an chuntais iad">
 <!ENTITY manualMarkModeMove.accesskey "o">
 <!ENTITY manualMarkModeDelete.label "Scrios iad">
 <!ENTITY manualMarkModeDelete.accesskey "d">
@@ -25,24 +25,24 @@
 <!ENTITY resetTrainingData.accesskey "r">
 <!-- Phishing Detector -->
 
-<!ENTITY phishingDetector1.intro "Is féidir le &brandShortName; camscéimeanna ríomhphoist a lorg i dteachtaireachtaí trí cleasanna coitianta a úsáidtear chun tú a mhealladh a chuardach iontu.">
-<!ENTITY enablePhishingDetector1.label "Inis dom má mheastar gur camscéim í an teachtaireacht atá á léamh agam">
-<!ENTITY enablePhishingDetector1.accesskey "t">
+<!ENTITY phishingDetector1.intro  "Is féidir le &brandShortName; camscéimeanna ríomhphoist a lorg i dteachtaireachtaí trí cleasanna coitianta a úsáidtear chun tú a mhealladh a chuardach iontu.">
+<!ENTITY enablePhishingDetector1.label    "Inis dom má mheastar gur camscéim í an teachtaireacht atá á léamh agam">
+<!ENTITY enablePhishingDetector1.accesskey  "t">
 <!ENTITY useDownloadedList.label "Úsáid liosta íosluchtaithe de camscéimeanna amhrasta">
 <!ENTITY useDownloadedList.accesskey "s">
 <!-- Passwords -->
 
-<!ENTITY savedPasswords.intro "Is féidir le &brandShortName; focail fhaire do chuid cuntas go léir a mheabhrú.">
-<!ENTITY useMasterPassword.label "Úsáid príomhfhocal faire">
-<!ENTITY useMasterPassword.accesskey "p">
-<!ENTITY masterPassword.intro "Cosnaíonn Príomhfhocal Faire do chuid focal faire go léir, ach beidh ort é a chur isteach uair amháin sa seisiún.">
-<!ENTITY changeMasterPassword.label "Athraigh an Príomhfhocal Faire…">
+<!ENTITY savedPasswords.intro           "Is féidir le &brandShortName; focail fhaire do chuid cuntas go léir a mheabhrú.">
+<!ENTITY useMasterPassword.label        "Úsáid príomhfhocal faire">
+<!ENTITY useMasterPassword.accesskey    "p">
+<!ENTITY masterPassword.intro           "Cosnaíonn Príomhfhocal Faire do chuid focal faire go léir, ach beidh ort é a chur isteach uair amháin sa seisiún.">
+<!ENTITY changeMasterPassword.label     "Athraigh an Príomhfhocal Faire…">
 <!ENTITY changeMasterPassword.accesskey "c">
-<!ENTITY savedPasswords.label "Focail Fhaire Sábháilte…">
-<!ENTITY savedPasswords.accesskey "S">
+<!ENTITY savedPasswords.label           "Focail Fhaire Sábháilte…">
+<!ENTITY savedPasswords.accesskey       "S">
 <!-- Anti Virus -->
 
-<!ENTITY antiVirus.intro "Is féidir le &brandShortName; cabhrú le bogearraí frithvíris chun teachtaireachtaí isteach a chuardach le haghaidh víreas sula stórálfar go logánta iad.">
-<!ENTITY antiVirus.label "Ceadaigh do chliaint fhrithvíris teachtaireachtaí isteach a chur ar coraintín">
-<!ENTITY antiVirus.accesskey "a">
+<!ENTITY antiVirus.intro      "Is féidir le &brandShortName; cabhrú le bogearraí frithvíris chun teachtaireachtaí isteach a chuardach le haghaidh víreas sula stórálfar go logánta iad.">
+<!ENTITY antiVirus.label      "Ceadaigh do chliaint fhrithvíris teachtaireachtaí isteach a chur ar coraintín">
+<!ENTITY antiVirus.accesskey  "a">
 

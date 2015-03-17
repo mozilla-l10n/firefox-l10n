@@ -1,1 +1,1 @@
-#define MOZ_LANG_TITLE Irish (IE)
+#define MOZ_LANG_TITLE Béarla (SAM)

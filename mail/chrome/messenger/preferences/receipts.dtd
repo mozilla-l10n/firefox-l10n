@@ -2,25 +2,25 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY dialog.title "Admhálacha Léite">
-<!ENTITY requestReceipt.label "Iarr admháil léite i gcónaí agus teachtaireachtaí á seoladh">
-<!ENTITY requestReceipt.accesskey "I">
-<!ENTITY receiptArrive.label "Nuair a thagann admháil léite:">
-<!ENTITY leaveIt.label "Fág i mo Bhosca Isteach é">
-<!ENTITY leaveIt.accesskey "I">
-<!ENTITY moveToSent.label "Bog go dtí m'fhillteán &quot;Seolta&quot; é">
-<!ENTITY moveToSent.accesskey "m">
-<!ENTITY requestMDN.label "Agus iarratas ar admháil léite faighte agam:">
-<!ENTITY never.label "Ná seol admháil léite riamh">
-<!ENTITY never.accesskey "N">
-<!ENTITY returnSome.label "Ceadaigh admhálacha léite le haghaidh teachtaireachtaí áirithe">
-<!ENTITY returnSome.accesskey "r">
-<!ENTITY notInToCc.label 'Mura bhfuil mé i "Chuig:" nó i "Cc:" na teachtaireachta:'>
-<!ENTITY notInToCc.accesskey "f">
-<!ENTITY outsideDomain.label "Má tá an seoltóir taobh amuigh de m'fhearann:">
-<!ENTITY outsideDomain.accesskey "t">
-<!ENTITY otherCases.label "I ngach cás eile:">
-<!ENTITY otherCases.accesskey "a">
-<!ENTITY askMe.label "Fiafraigh díom">
-<!ENTITY alwaysSend.label "Seol i gcónaí">
-<!ENTITY neverSend.label "Ná seol choíche">
+<!ENTITY dialog.title                  "Admhálacha Léite">
+<!ENTITY requestReceipt.label          "Iarr admháil léite i gcónaí agus teachtaireachtaí á seoladh">
+<!ENTITY requestReceipt.accesskey      "I">
+<!ENTITY receiptArrive.label           "Nuair a thagann admháil léite:">
+<!ENTITY leaveIt.label                 "Fág sa Bhosca Isteach í">
+<!ENTITY leaveIt.accesskey             "I">
+<!ENTITY moveToSent.label              "Cuir san fhillteán &quot;Seolta&quot; í">
+<!ENTITY moveToSent.accesskey          "s">
+<!ENTITY requestMDN.label              "Agus iarratas ar admháil léite faighte agam:">
+<!ENTITY never.label                   "Ná seol admháil léite riamh">
+<!ENTITY never.accesskey               "N">
+<!ENTITY returnSome.label              "Ceadaigh admhálacha léite le haghaidh teachtaireachtaí áirithe">
+<!ENTITY returnSome.accesskey          "r">
+<!ENTITY notInToCc.label               "Mura bhfuil mé i &quot;Chuig:&quot; nó i &quot;Cc:&quot; na teachtaireachta:">
+<!ENTITY notInToCc.accesskey           "f">
+<!ENTITY outsideDomain.label           "Má tá an seoltóir taobh amuigh de m'fhearann:">
+<!ENTITY outsideDomain.accesskey       "t">
+<!ENTITY otherCases.label              "I ngach cás eile:">
+<!ENTITY otherCases.accesskey          "a">
+<!ENTITY askMe.label                   "Fiafraigh díom">
+<!ENTITY alwaysSend.label              "Seol i gcónaí">
+<!ENTITY neverSend.label               "Ná seol choíche">

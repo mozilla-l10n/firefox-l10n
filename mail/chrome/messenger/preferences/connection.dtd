@@ -2,39 +2,39 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY connectionsDialog.title "Socruithe Ceangail">
+<!ENTITY  connectionsDialog.title       "Socruithe Ceangail">
 
-<!ENTITY proxyTitle.label "Cumraigh Seachfhreastalaí Rochtana Idirlín">
-<!ENTITY noProxyTypeRadio.label "Gan seachfhreastalaí">
-<!ENTITY noProxyTypeRadio.accesskey "G">
-<!ENTITY systemTypeRadio.label "Úsáid socruithe seachfhreastalaí an chórais">
-<!ENTITY systemTypeRadio.accesskey "s">
-<!ENTITY WPADTypeRadio.label "Aimsigh socruithe seachfhreastalaí an líonra seo go huathoibríoch">
-<!ENTITY WPADTypeRadio.accesskey "A">
-<!ENTITY manualTypeRadio.label "Lámhchumraíocht seachfhreastalaí:">
-<!ENTITY manualTypeRadio.accesskey "m">
-<!ENTITY autoTypeRadio.label "URL Uathchumraíocht Seachfhreastalaí:">
-<!ENTITY autoTypeRadio.accesskey "U">
-<!ENTITY reload.label "Athluchtaigh">
-<!ENTITY reload.accesskey "l">
-<!ENTITY http.label "Seachfhreastalaí HTTP:">
-<!ENTITY http.accesskey "H">
-<!ENTITY ssl.label "Seachfhreastalaí SSL:">
-<!ENTITY ssl.accesskey "S">
-<!ENTITY socks.label "Ósta SOCKS:">
-<!ENTITY socks.accesskey "C">
-<!ENTITY socks4.label "SOCKS v4">
-<!ENTITY socks4.accesskey "K">
-<!ENTITY socks5.label "SOCKS v5">
-<!ENTITY socks5.accesskey "v">
-<!ENTITY HTTPport.label "Port:">
-<!ENTITY HTTPport.accesskey "P">
-<!ENTITY SSLport.label "Port:">
-<!ENTITY SSLport.accesskey "o">
-<!ENTITY SOCKSport.label "Port:">
-<!ENTITY SOCKSport.accesskey "t">
-<!ENTITY noproxy.label "Gan Seachfhreastalaí do:">
-<!ENTITY noproxy.accesskey "n">
-<!ENTITY noproxyExplain.label "Sampla: .mozilla.org, .net.nz, 192.168.1.0/24">
-<!ENTITY shareproxy.label "Úsáid an seachfhreastalaí seo do gach prótacal">
-<!ENTITY shareproxy.accesskey "d">
+<!ENTITY  proxyTitle.label              "Cumraigh Seachfhreastalaí Rochtana Idirlín">
+<!ENTITY  noProxyTypeRadio.label        "Gan seachfhreastalaí">
+<!ENTITY  noProxyTypeRadio.accesskey    "G">
+<!ENTITY  systemTypeRadio.label         "Úsáid socruithe seachfhreastalaí an chórais">
+<!ENTITY  systemTypeRadio.accesskey     "s">
+<!ENTITY  WPADTypeRadio.label           "Aimsigh socruithe seachfhreastalaí an líonra seo go huathoibríoch">
+<!ENTITY  WPADTypeRadio.accesskey       "A">
+<!ENTITY  manualTypeRadio.label         "Lámhchumraíocht seachfhreastalaí:">
+<!ENTITY  manualTypeRadio.accesskey     "m">
+<!ENTITY  autoTypeRadio.label           "URL Uathchumraíocht Seachfhreastalaí:">
+<!ENTITY  autoTypeRadio.accesskey       "U">
+<!ENTITY  reload.label                  "Athluchtaigh">
+<!ENTITY  reload.accesskey              "l">
+<!ENTITY  http.label                    "Seachfhreastalaí HTTP:">
+<!ENTITY  http.accesskey                "H">
+<!ENTITY  ssl.label                     "Seachfhreastalaí SSL:">
+<!ENTITY  ssl.accesskey                 "S">
+<!ENTITY  socks.label                   "Ósta SOCKS:">
+<!ENTITY  socks.accesskey               "C">
+<!ENTITY  socks4.label                  "SOCKS v4">
+<!ENTITY  socks4.accesskey              "K">
+<!ENTITY  socks5.label                  "SOCKS v5">
+<!ENTITY  socks5.accesskey              "v">
+<!ENTITY  HTTPport.label                "Port:">
+<!ENTITY  HTTPport.accesskey            "P">
+<!ENTITY  SSLport.label                 "Port:">
+<!ENTITY  SSLport.accesskey             "o">
+<!ENTITY  SOCKSport.label               "Port:">
+<!ENTITY  SOCKSport.accesskey           "t">
+<!ENTITY  noproxy.label                 "Gan Seachfhreastalaí do:">
+<!ENTITY  noproxy.accesskey             "n">
+<!ENTITY  noproxyExplain.label          "Sampla: .mozilla.org, .net.nz, 192.168.1.0/24">
+<!ENTITY  shareproxy.label              "Úsáid an seachfhreastalaí seo do gach prótacal">
+<!ENTITY  shareproxy.accesskey          "d">

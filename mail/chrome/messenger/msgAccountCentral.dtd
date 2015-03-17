@@ -2,27 +2,27 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY emailSectionHdr.label "Ríomhphost">
-<!ENTITY readMsgsLink.label "Léigh teachtaireachtaí">
-<!ENTITY composeMsgLink.label "Scríobh teachtaireacht nua">
+<!ENTITY emailSectionHdr.label        "Ríomhphost">
+<!ENTITY readMsgsLink.label           "Léigh teachtaireachtaí">
+<!ENTITY composeMsgLink.label         "Scríobh teachtaireacht nua">
 
-<!ENTITY newsSectionHdr.label "Grúpaí-Nuachta">
-<!ENTITY subscribeNewsLink.label "Bainistiú Shíntiúis na nGrúpaí Nuachta">
+<!ENTITY newsSectionHdr.label         "Grúpaí-Nuachta">
+<!ENTITY subscribeNewsLink.label      "Bainistiú Shíntiúis na nGrúpaí Nuachta">
 
-<!ENTITY feedsSectionHdr.label "Fothaí">
-<!ENTITY subscribeFeeds.label "Bainistigh síntiúis">
+<!ENTITY feedsSectionHdr.label        "Fothaí">
+<!ENTITY subscribeFeeds.label         "Bainistigh síntiúis">
 
-<!ENTITY chat.label "Comhrá">
-<!ENTITY movemail.label "Movemail">
+<!ENTITY chat.label                   "Comhrá">
+<!ENTITY movemail.label               "Movemail">
 
-<!ENTITY accountsSectionHdr.label "Cuntais">
-<!ENTITY subscribeImapFolders.label "Bainistiú na Síntiús Fillteán">
-<!ENTITY settingsLink.label "Taispeáin socruithe an chuntais seo">
-<!ENTITY newAcctLink.label "Cruthaigh cuntas nua">
-<!ENTITY newAcct.label "Cruthaigh cuntas nua:">
+<!ENTITY accountsSectionHdr.label     "Cuntais">
+<!ENTITY subscribeImapFolders.label   "Bainistiú na Síntiús Fillteán">
+<!ENTITY settingsLink.label           "Taispeáin socruithe an chuntais seo">
+<!ENTITY newAcctLink.label            "Cruthaigh cuntas nua">
+<!ENTITY newAcct.label                "Cruthaigh cuntas nua:">
 
-<!ENTITY advFeaturesSectionHdr.label "Ardtréithe">
-<!ENTITY searchMsgsLink.label "Cuardaigh teachtaireachtaí">
-<!ENTITY filtersLink.label "Bainistiú na scagairí teachtaireachta">
-<!ENTITY junkSettings.label "Socruithe dramhphoist">
-<!ENTITY offlineLink.label "Socruithe as líne">
+<!ENTITY advFeaturesSectionHdr.label  "Ardtréithe">
+<!ENTITY searchMsgsLink.label         "Cuardaigh teachtaireachtaí">
+<!ENTITY filtersLink.label            "Bainistiú na scagairí teachtaireachta">
+<!ENTITY junkSettings.label           "Socruithe dramhphoist">
+<!ENTITY offlineLink.label            "Socruithe as líne">

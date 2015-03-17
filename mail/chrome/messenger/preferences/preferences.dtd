@@ -2,22 +2,22 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY prefWindow.titleWin "Roghanna">
-<!ENTITY prefWindow.titleGNOME "Sainroghanna &brandShortName;">
-<!ENTITY prefWindow.titleMAC "Sainroghanna">
-<!ENTITY prefWindow.styleWindows "width: 57em; min-height: 38.5em;">
-<!ENTITY prefWindow.styleMac "width: 57em;">
-<!ENTITY prefWindow.styleGNOME "width: 52em; min-height: 42em;">
+<!ENTITY  prefWindow.titleWin     "Roghanna">
+<!ENTITY  prefWindow.titleGNOME   "Sainroghanna &brandShortName;">
+<!ENTITY  prefWindow.titleMAC     "Sainroghanna">
+<!ENTITY  prefWindow.styleWindows "width: 57em; min-height: 38.5em;">
+<!ENTITY  prefWindow.styleMac     "width: 57em;">
+<!ENTITY  prefWindow.styleGNOME   "width: 52em; min-height: 42em;">
 
-<!ENTITY paneGeneral.title "Ginearálta">
-<!ENTITY paneDisplay.title "Taispeáint">
-<!ENTITY paneComposition.title "Cumadh">
-<!ENTITY paneChat.title "Comhrá">
-<!ENTITY paneAttachments.title "Iatáin">
-<!ENTITY panePrivacy.title "Príobháideachas">
-<!ENTITY paneSecurity.title "Slándáil">
-<!ENTITY paneAdvanced.title "Ardroghanna">
-<!ENTITY paneAccount.title "Cuntais">
+<!ENTITY paneGeneral.title        "Ginearálta">
+<!ENTITY paneDisplay.title        "Taispeáint">
+<!ENTITY paneComposition.title    "Cumadh">
+<!ENTITY paneChat.title           "Comhrá">
+<!ENTITY paneAttachments.title    "Iatáin">
+<!ENTITY panePrivacy.title        "Príobháideachas">
+<!ENTITY paneSecurity.title       "Slándáil">
+<!ENTITY paneAdvanced.title       "Ardroghanna">
+<!ENTITY paneAccount.title        "Cuntais">
 
-<!ENTITY okButton.title "OK">
-<!ENTITY okButton.accesskey "O">
+<!ENTITY okButton.title           "OK">
+<!ENTITY okButton.accesskey       "O">

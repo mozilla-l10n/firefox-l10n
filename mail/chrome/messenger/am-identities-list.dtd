@@ -3,8 +3,8 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY identitiesListManageDesc.label "Bainistigh aitheantais le haghaidh an chuntais seo. Baintear úsáid as an chéad aitheantas de réir réamhshocraithe.">
-<!ENTITY identitiesListAdd.label "Cuir Leis…">
-<!ENTITY identitiesListAdd.accesskey "C">
+<!ENTITY identitiesListAdd.label  "Cuir Leis…">
+<!ENTITY identitiesListAdd.accesskey  "C">
 <!ENTITY identitiesListEdit.label "Eagar…">
 <!ENTITY identitiesListEdit.accesskey "E">
 <!ENTITY identitiesListDefault.label "Socraigh Réamhshocrú">

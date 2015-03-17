@@ -3,41 +3,41 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!-- Subscription Dialog -->
 
-<!ENTITY feedSubscriptions.label "Síntiúis Fhotha">
-<!ENTITY learnMore.label "Tuilleadh eolais faoi Fhothaí">
+<!ENTITY feedSubscriptions.label     "Síntiúis Fhotha">
+<!ENTITY learnMore.label             "Tuilleadh eolais faoi Fhothaí">
 
-<!ENTITY feedTitle.label "Teideal:">
-<!ENTITY feedTitle.accesskey "T">
+<!ENTITY feedTitle.label             "Teideal:">
+<!ENTITY feedTitle.accesskey         "T">
 
-<!ENTITY feedLocation.label "URL an fhotha:">
-<!ENTITY feedLocation.accesskey "U">
-<!ENTITY feedLocation.placeholder "Cuir URL bailí d'fhotha isteach">
-<!ENTITY locationValidate.label "Bailíochtaigh">
-<!ENTITY validateText.label "Bailíochtaigh agus faigh URL bailí.">
+<!ENTITY feedLocation.label          "URL an fhotha:">
+<!ENTITY feedLocation.accesskey      "U">
+<!ENTITY feedLocation.placeholder    "Cuir URL bailí d'fhotha isteach">
+<!ENTITY locationValidate.label      "Bailíochtaigh">
+<!ENTITY validateText.label          "Bailíochtaigh agus faigh URL bailí.">
 
-<!ENTITY feedFolder.label "Sábháil Ailt i:">
-<!ENTITY feedFolder.accesskey "S">
+<!ENTITY feedFolder.label            "Sábháil Ailt i:">
+<!ENTITY feedFolder.accesskey        "S">
 
-<!ENTITY quickMode.label "Taispeáin achoimre an ailt in áit an leathanach Gréasáin a íosluchtú">
-<!ENTITY quickMode.accesskey "h">
+<!ENTITY quickMode.label             "Taispeáin achoimre an ailt in áit an leathanach Gréasáin a íosluchtú">
+<!ENTITY quickMode.accesskey         "h">
 
-<!ENTITY autotagEnable.label "Cruthaigh clibeanna go huathoibríoch as ainmneacha &lt;category&gt; san fhotha">
-<!ENTITY autotagEnable.accesskey "C">
-<!ENTITY autotagUsePrefix.label "Cuir an réimír seo roimh chlibeanna:">
-<!ENTITY autotagUsePrefix.accesskey "C">
-<!ENTITY autoTagPrefix.placeholder "Cuir réimír isteach">
+<!ENTITY autotagEnable.label         "Cruthaigh clibeanna go huathoibríoch as ainmneacha &lt;category&gt; san fhotha">
+<!ENTITY autotagEnable.accesskey     "C">
+<!ENTITY autotagUsePrefix.label      "Cuir an réimír seo roimh chlibeanna:">
+<!ENTITY autotagUsePrefix.accesskey  "C">
+<!ENTITY autoTagPrefix.placeholder   "Cuir réimír isteach">
 
-<!ENTITY button.addFeed.label "Cuir Leis">
-<!ENTITY button.addFeed.accesskey "L">
-<!ENTITY button.editFeed.label "Nuashonraigh">
-<!ENTITY button.editFeed.accesskey "u">
-<!ENTITY button.removeFeed.label "Bain">
+<!ENTITY button.addFeed.label        "Cuir Leis">
+<!ENTITY button.addFeed.accesskey    "L">
+<!ENTITY button.editFeed.label       "Nuashonraigh">
+<!ENTITY button.editFeed.accesskey   "u">
+<!ENTITY button.removeFeed.label     "Bain">
 <!ENTITY button.removeFeed.accesskey "B">
-<!ENTITY button.importOPML.label "Iompórtáil">
+<!ENTITY button.importOPML.label     "Iompórtáil">
 <!ENTITY button.importOPML.accesskey "I">
-<!ENTITY button.exportOPML.label "Easpórtáil">
+<!ENTITY button.exportOPML.label     "Easpórtáil">
 <!ENTITY button.exportOPML.accesskey "s">
-<!ENTITY button.exportOPML.tooltip "Easpórtáil fothaí le struchtúr fillteán; ctrl+clic nó ctrl+enter chun fothaí a easpórtáil mar liosta">
+<!ENTITY button.exportOPML.tooltip   "Easpórtáil fothaí le struchtúr fillteán; ctrl+clic nó ctrl+enter chun fothaí a easpórtáil mar liosta">
 
-<!ENTITY cmd.close.commandKey "w">
-<!ENTITY button.close.label "Dún">
+<!ENTITY cmd.close.commandKey        "w">
+<!ENTITY button.close.label          "Dún">

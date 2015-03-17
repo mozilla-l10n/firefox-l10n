@@ -2,45 +2,45 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY itemFormatting.label "Formáidiú">
-<!ENTITY itemTags.label "Clibeanna">
+<!ENTITY itemFormatting.label             "Formáidiú">
+<!ENTITY itemTags.label                   "Clibeanna">
 
-<!ENTITY style.label "Stíl:">
-<!ENTITY style.accesskey "S">
-<!ENTITY regularStyle.label "Gnáth">
-<!ENTITY bold.label "Trom">
-<!ENTITY italic.label "Iodálach">
-<!ENTITY boldItalic.label "Iodálach Trom">
-<!ENTITY size.label "Méid:">
-<!ENTITY size.accesskey "M">
-<!ENTITY regularSize.label "Gnáth">
-<!ENTITY bigger.label "Níos Mó">
-<!ENTITY smaller.label "Níos Lú">
-<!ENTITY quotedTextColor.label "Dath:">
-<!ENTITY quotedTextColor.accesskey "t">
-<!ENTITY displayWidth.label "Teachtaireachtaí Gnáth-théacs">
-<!ENTITY displayText.label "Agus teachtaireachtaí gnáth-théacs á dtaispeáint mar athfhriotal:">
+<!ENTITY style.label                      "Stíl:">
+<!ENTITY style.accesskey                  "S">
+<!ENTITY regularStyle.label               "Gnáth">
+<!ENTITY bold.label                       "Trom">
+<!ENTITY italic.label                     "Iodálach">
+<!ENTITY boldItalic.label                 "Iodálach Trom">
+<!ENTITY size.label                       "Méid:">
+<!ENTITY size.accesskey                   "M">
+<!ENTITY regularSize.label                "Gnáth">
+<!ENTITY bigger.label                     "Níos Mó">
+<!ENTITY smaller.label                    "Níos Lú">
+<!ENTITY quotedTextColor.label            "Dath:">
+<!ENTITY quotedTextColor.accesskey        "t">
+<!ENTITY displayWidth.label               "Teachtaireachtaí Gnáth-théacs">
+<!ENTITY displayText.label                "Agus teachtaireachtaí gnáth-théacs á dtaispeáint mar athfhriotal:">
 <!-- LOCALIZATION NOTE : (emoticonsAndStructs.label) 'Emoticons' are also known as 'Smileys', e.g. :-)   -->
 
-<!ENTITY convertEmoticons.label "Taispeáin straoiseoga mar ghraificí">
-<!ENTITY convertEmoticons.accesskey "s">
+<!ENTITY convertEmoticons.label        "Taispeáin straoiseoga mar ghraificí">
+<!ENTITY convertEmoticons.accesskey    "s">
 <!-- labels -->
 
-<!ENTITY displayTagsText.label "Is féidir clibeanna a úsáid le catagóirí agus tosaíochtaí a chur le do chuid teachtaireachtaí.">
-<!ENTITY addTagButton.label "Cuir Leis">
-<!ENTITY addTagButton.accesskey "L">
-<!ENTITY editTagButton.label "Eagar">
-<!ENTITY editTagButton.accesskey "E">
-<!ENTITY removeTagButton.label "Scrios">
+<!ENTITY displayTagsText.label     "Is féidir clibeanna a úsáid le catagóirí agus tosaíochtaí a chur le do chuid teachtaireachtaí.">
+<!ENTITY addTagButton.label        "Cuir Leis">
+<!ENTITY addTagButton.accesskey    "L">
+<!ENTITY editTagButton.label       "Eagar">
+<!ENTITY editTagButton.accesskey   "E">
+<!ENTITY removeTagButton.label     "Scrios">
 <!ENTITY removeTagButton.accesskey "S">
 <!-- Fonts and Colors -->
 
-<!ENTITY fontsAndColors1.label "Clófhoirne agus Dathanna">
-<!ENTITY defaultFont.label "Cló réamhshocraithe:">
-<!ENTITY defaultFont.accesskey "r">
-<!ENTITY defaultSize.label "Méid:">
-<!ENTITY defaultSize.accesskey "M">
-<!ENTITY fontOptions.accesskey "t">
-<!ENTITY fontOptions.label "Casta…">
-<!ENTITY colorButton.label "Dathanna…">
-<!ENTITY colorButton.accesskey "D">
+<!ENTITY fontsAndColors1.label   "Clófhoirne agus Dathanna">
+<!ENTITY defaultFont.label       "Cló réamhshocraithe:">
+<!ENTITY defaultFont.accesskey   "r">
+<!ENTITY defaultSize.label       "Méid:">
+<!ENTITY defaultSize.accesskey   "M">
+<!ENTITY fontOptions.accesskey   "t">
+<!ENTITY fontOptions.label       "Casta…">
+<!ENTITY colorButton.label       "Dathanna…">
+<!ENTITY colorButton.accesskey   "D">

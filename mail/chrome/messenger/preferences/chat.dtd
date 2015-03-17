@@ -2,10 +2,10 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY startupAction.label "Agus &brandShortName; á thosú:">
-<!ENTITY startupAction.accesskey "u">
-<!ENTITY startupOffline.label "Coinnigh mo Chuntais Chomhrá as líne">
-<!ENTITY startupConnectAuto.label "Ceangail mo chuntais chomhrá go huathoibríoch">
+<!ENTITY  startupAction.label         "Agus &brandShortName; á thosú:">
+<!ENTITY  startupAction.accesskey     "u">
+<!ENTITY  startupOffline.label        "Coinnigh mo Chuntais Chomhrá as líne">
+<!ENTITY  startupConnectAuto.label    "Ceangail mo chuntais chomhrá go huathoibríoch">
 <!-- LOCALIZATION NOTE: reportIdleAfter.label is displayed first, then
 there's a field where the user can enter a number, and itemTime is
 displayed at the end of the line. The translations of the
@@ -13,30 +13,30 @@ reportIdleAfter.label and idleTime parts don't have to mean the exact
 same thing as in English; please try instead to translate the whole
 sentence. -->
 
-<!ENTITY reportIdleAfter.label "Abair le mo chairde go bhfuilim díomhaoin tar éis">
-<!ENTITY reportIdleAfter.accesskey "A">
-<!ENTITY idleTime "nóiméad gan gníomh">
+<!ENTITY  reportIdleAfter.label         "Abair le mo chairde go bhfuilim díomhaoin tar éis">
+<!ENTITY  reportIdleAfter.accesskey     "A">
+<!ENTITY  idleTime                      "nóiméad gan gníomh">
 
-<!ENTITY andSetStatusToAway.label "agus socraigh go bhfuilim Amuigh, leis an teachtaireacht stádais seo:">
-<!ENTITY andSetStatusToAway.accesskey "A">
+<!ENTITY  andSetStatusToAway.label      "agus socraigh go bhfuilim Amuigh, leis an teachtaireacht stádais seo:">
+<!ENTITY  andSetStatusToAway.accesskey  "A">
 
-<!ENTITY sendTyping.label "Abair le daoine nuair a bhím ag clóscríobh">
-<!ENTITY sendTyping.accesskey "d">
+<!ENTITY  sendTyping.label              "Abair le daoine nuair a bhím ag clóscríobh">
+<!ENTITY  sendTyping.accesskey          "d">
 
-<!ENTITY chatNotifications.label "Nuair a thagann teachtaireacht atá dírithe agatsa isteach:">
-<!ENTITY desktopChatNotifications.label "Taispeáin fógra:">
-<!ENTITY desktopChatNotifications.accesskey "r">
-<!ENTITY completeNotification.label "le hainm an tseoltóra agus réamhamharc">
-<!ENTITY buddyInfoOnly.label "le hainm an tseoltóra amháin">
-<!ENTITY dummyNotification.label "gan aon fhaisnéis">
-<!ENTITY chatSound.accesskey "m">
-<!ENTITY chatSound.label "Seinn fuaim">
-<!ENTITY play.label "Seinn">
-<!ENTITY play.accesskey "S">
-<!ENTITY systemSound.label "Fuaim réamhshocraithe ar an gcóras le haghaidh ríomhphoist nua">
-<!ENTITY systemSound.accesskey "r">
-<!ENTITY customsound.label "Úsáid an comhad fuaime seo">
-<!ENTITY customsound.accesskey "u">
-<!ENTITY browse.label "Brabhsáil…">
-<!ENTITY browse.accesskey "B">
+<!ENTITY  chatNotifications.label             "Nuair a thagann teachtaireacht atá dírithe agatsa isteach:">
+<!ENTITY  desktopChatNotifications.label      "Taispeáin fógra:">
+<!ENTITY  desktopChatNotifications.accesskey  "r">
+<!ENTITY  completeNotification.label          "le hainm an tseoltóra agus réamhamharc">
+<!ENTITY  buddyInfoOnly.label                 "le hainm an tseoltóra amháin">
+<!ENTITY  dummyNotification.label             "gan aon fhaisnéis">
+<!ENTITY  chatSound.accesskey                 "m">
+<!ENTITY  chatSound.label                     "Seinn fuaim">
+<!ENTITY  play.label                          "Seinn">
+<!ENTITY  play.accesskey                      "S">
+<!ENTITY  systemSound.label                   "Fuaim réamhshocraithe ar an gcóras le haghaidh ríomhphoist nua">
+<!ENTITY  systemSound.accesskey               "r">
+<!ENTITY  customsound.label                   "Úsáid an comhad fuaime seo">
+<!ENTITY  customsound.accesskey               "u">
+<!ENTITY  browse.label                        "Brabhsáil…">
+<!ENTITY  browse.accesskey                    "B">
 

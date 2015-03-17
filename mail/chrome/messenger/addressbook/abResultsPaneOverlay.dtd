@@ -2,37 +2,37 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY Addrbook.label "Leabhar Seoltaí">
-<!ENTITY Addrbook.accesskey "b">
-<!ENTITY GeneratedName.label "Ainm">
-<!ENTITY GeneratedName.accesskey "n">
-<!ENTITY PrimaryEmail.label "Ríomhphost">
-<!ENTITY PrimaryEmail.accesskey "R">
-<!ENTITY Company.label "Eagraíocht">
-<!ENTITY Company.accesskey "E">
-<!ENTITY _PhoneticName.label "Ainm Foghrach">
-<!ENTITY _PhoneticName.accesskey "o">
-<!ENTITY NickName.label "Leasainm">
-<!ENTITY NickName.accesskey "i">
-<!ENTITY SecondEmail.label "Seoladh Ríomhphoist sa Bhreis">
-<!ENTITY SecondEmail.accesskey "B">
-<!ENTITY Department.label "Roinn">
-<!ENTITY Department.accesskey "R">
-<!ENTITY JobTitle.label "Teideal">
-<!ENTITY JobTitle.accesskey "T">
-<!ENTITY CellularNumber.label "Fón Siúil">
-<!ENTITY CellularNumber.accesskey "F">
-<!ENTITY PagerNumber.label "Glaoire">
-<!ENTITY PagerNumber.accesskey "G">
-<!ENTITY FaxNumber.label "Facs">
-<!ENTITY FaxNumber.accesskey "F">
-<!ENTITY HomePhone.label "Fón Baile">
-<!ENTITY HomePhone.accesskey "B">
-<!ENTITY WorkPhone.label "Fón Oibre">
-<!ENTITY WorkPhone.accesskey "O">
-<!ENTITY ChatName.label "Ainm an Chomhrá">
-<!ENTITY ChatName.accesskey "C">
-<!ENTITY sortAscending.label "Ag dul suas">
-<!ENTITY sortAscending.accesskey "A">
-<!ENTITY sortDescending.label "Ag dul síos">
-<!ENTITY sortDescending.accesskey "A">
+<!ENTITY Addrbook.label                        "Leabhar Seoltaí">
+<!ENTITY Addrbook.accesskey                    "b">
+<!ENTITY GeneratedName.label                   "Ainm">
+<!ENTITY GeneratedName.accesskey               "n">
+<!ENTITY PrimaryEmail.label                    "Ríomhphost">
+<!ENTITY PrimaryEmail.accesskey                "R">
+<!ENTITY Company.label                         "Eagraíocht">
+<!ENTITY Company.accesskey                     "E">
+<!ENTITY _PhoneticName.label                   "Ainm Foghrach">
+<!ENTITY _PhoneticName.accesskey               "o">
+<!ENTITY NickName.label                        "Leasainm">
+<!ENTITY NickName.accesskey                    "i">
+<!ENTITY SecondEmail.label                     "Seoladh Ríomhphoist sa Bhreis">
+<!ENTITY SecondEmail.accesskey                 "B">
+<!ENTITY Department.label                      "Roinn">
+<!ENTITY Department.accesskey                  "R">
+<!ENTITY JobTitle.label                        "Teideal">
+<!ENTITY JobTitle.accesskey                    "T">
+<!ENTITY CellularNumber.label                  "Fón Siúil">
+<!ENTITY CellularNumber.accesskey              "F">
+<!ENTITY PagerNumber.label                     "Glaoire">
+<!ENTITY PagerNumber.accesskey                 "G">
+<!ENTITY FaxNumber.label                       "Facs">
+<!ENTITY FaxNumber.accesskey                   "F">
+<!ENTITY HomePhone.label                       "Fón Baile">
+<!ENTITY HomePhone.accesskey                   "B">
+<!ENTITY WorkPhone.label                       "Fón Oibre">
+<!ENTITY WorkPhone.accesskey                   "O">
+<!ENTITY ChatName.label                        "Ainm an Chomhrá">
+<!ENTITY ChatName.accesskey                    "C">
+<!ENTITY sortAscending.label                   "Ag dul suas">
+<!ENTITY sortAscending.accesskey               "A">
+<!ENTITY sortDescending.label                  "Ag dul síos">
+<!ENTITY sortDescending.accesskey              "A">

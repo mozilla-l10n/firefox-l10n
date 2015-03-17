@@ -6,7 +6,7 @@
 
 <!ENTITY MsgSynchronize.label "Íosluchtaigh agus Sioncronaigh Teachtaireachtaí">
 <!ENTITY MsgSelect.label "Míreanna le húsáid as líne">
-<!ENTITY MsgSyncDesc.label "Má tá fillteáin ríomhphoist nó grúpaí nuachta roghnaithe agat cheana le haghaidh úsáide as líne, is féidir iad a íosluchtú nó a shioncronú anois. Nó úsáid an cnaipe &quot;Roghnaigh&quot; chun fillteáin ríomhphoist agus grúpaí nuachta a roghnú le haghaidh úsáide as líne.">
+<!ENTITY MsgSyncDesc.label "Má tá fillteáin ríomhphoist nó grúpaí nuachta roghnaithe agat cheana le haghaidh úsáide as líne, is féidir iad a íosluchtú nó a shioncrónú anois. Nó úsáid an cnaipe &quot;Roghnaigh&quot; chun fillteáin ríomhphoist agus grúpaí nuachta a roghnú le haghaidh úsáide as líne.">
 <!ENTITY MsgSyncDirections.label "Íosluchtaigh agus/nó sioncronaigh iad seo a leanas:">
 <!ENTITY syncTypeMail.label "Teachtaireachtaí ríomhphoist">
 <!ENTITY syncTypeMail.accesskey "r">

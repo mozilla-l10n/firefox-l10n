@@ -23,10 +23,10 @@
 <!ENTITY contextManual.accesskey "R">
 <!ENTITY contextBeforeCls.label "Scagadh roimh Aicmiú Dramhphoist">
 <!ENTITY contextAfterCls.label "Scagadh tar éis Aicmiú Dramhphoist">
-<!ENTITY contextOutgoing.label "After Sending">
-<!ENTITY contextOutgoing.accesskey "S">
-<!ENTITY contextArchive.label "Archiving">
-<!ENTITY contextArchive.accesskey "A">
+<!ENTITY contextOutgoing.label "Tar éis seolta">
+<!ENTITY contextOutgoing.accesskey "s">
+<!ENTITY contextArchive.label "Cartlannú">
+<!ENTITY contextArchive.accesskey "C">
 
 <!ENTITY filterActionDesc.label "Déan na gníomhartha seo:">
 <!ENTITY filterActionDesc.accesskey "g">
@@ -39,8 +39,8 @@
 <!ENTITY copyMessage.label "Cóipeáil an teachtaireacht go">
 <!ENTITY forwardTo.label "Cuir an teachtaireacht ar aghaidh chuig">
 <!ENTITY replyWithTemplate.label "Freagair le teimpléad">
-<!ENTITY markMessageRead.label 'Marcáil "Léite"'>
-<!ENTITY markMessageUnread.label 'Marcáil "Neamhléite"'>
+<!ENTITY markMessageRead.label "Marcáil &quot;Léite&quot;">
+<!ENTITY markMessageUnread.label "Marcáil &quot;Neamhléite&quot;">
 <!ENTITY markMessageStarred.label "Cuir réiltín leis">
 <!ENTITY setPriority.label "Socraigh tosaíocht mar">
 <!ENTITY addTag.label "Clibeáil an teachtaireacht">

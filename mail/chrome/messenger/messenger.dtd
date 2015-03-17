@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY titledefault.label "&brandFullName;">
+<!ENTITY titledefault.label    "&brandFullName;">
 <!ENTITY titleSeparator.label " - ">
 <!-- File Menu -->
 
@@ -10,7 +10,7 @@
 <!ENTITY newFolderCmd.accesskey "F">
 <!ENTITY closeTabCmd2.label "Dún Cluaisín">
 <!ENTITY closeTabCmd2.accesskey "D">
-<!ENTITY closeOtherTabsCmd2.label "Dún Cluaisíní Eile">
+<!ENTITY closeOtherTabsCmd2.label "Dún na Cluaisíní Eile">
 <!ENTITY closeOtherTabsCmd2.accesskey "E">
 <!ENTITY recentlyClosedTabsCmd.label "Cluaisíní a Dúnadh Le Déanaí">
 <!ENTITY recentlyClosedTabsCmd.accesskey "C">
@@ -63,9 +63,9 @@
 <!ENTITY renameFolder.accesskey "A">
 <!ENTITY renameFolder.key "VK_F2">
 <!ENTITY compactFolders.label "Dlúthaigh Fillteáin">
-<!ENTITY compactFolders.accesskey "F">
+<!ENTITY compactFolders.accesskey    "F">
 <!ENTITY emptyTrashCmd.label "Folmhaigh an Bruscar">
-<!ENTITY emptyTrashCmd.accesskey "F">
+<!ENTITY emptyTrashCmd.accesskey    "F">
 <!ENTITY offlineMenu.label "As Líne">
 <!ENTITY offlineMenu.accesskey "L">
 <!ENTITY offlineGoOfflineCmd.label "Oibrigh As Líne">
@@ -145,7 +145,7 @@
 <!ENTITY messagePaneVertical.accesskey "I">
 <!ENTITY showFolderPaneCmd.label "Pána an Fhillteáin">
 <!ENTITY showFolderPaneCmd.accesskey "F">
-<!ENTITY showFolderPaneColsCmd.label "Folder Pane Columns">
+<!ENTITY showFolderPaneColsCmd.label "Colúin sa Phána Fillteáin">
 <!ENTITY showFolderPaneColsCmd.accesskey "P">
 <!ENTITY showMessageCmd.label "Pána Teachtaireachta">
 <!ENTITY showMessageCmd.accesskey "T">
@@ -331,25 +331,25 @@
 <!ENTITY newNewMsgCmd.accesskey "T">
 <!ENTITY archiveMsgCmd.label "Cuir sa Chartlann">
 <!ENTITY archiveMsgCmd.accesskey "a">
-<!ENTITY archiveMsgCmd.key "a">
+<!ENTITY archiveMsgCmd.key  "a">
 <!ENTITY cancelNewsMsgCmd.label "Cealaigh an Teachtaireacht">
 <!ENTITY cancelNewsMsgCmd.accesskey "C">
 <!ENTITY replyMsgCmd.label "Freagair">
 <!ENTITY replyMsgCmd.accesskey "F">
-<!ENTITY replyMsgCmd.key "f">
+<!ENTITY replyMsgCmd.key  "f">
 <!ENTITY replySenderCmd.label "Freagair an Seoltóir Amháin">
 <!ENTITY replySenderCmd.accesskey "r">
 <!ENTITY replyNewsgroupCmd2.label "Freagair an Grúpa Nuachta">
-<!ENTITY replyNewsgroupCmd2.accesskey "u">
+<!ENTITY replyNewsgroupCmd2.accesskey  "u">
 <!ENTITY replyToAllMsgCmd.label "Freagair Cách">
-<!ENTITY replyToAllMsgCmd.accesskey "a">
-<!ENTITY replyToAllMsgCmd.key "a">
+<!ENTITY replyToAllMsgCmd.accesskey  "a">
+<!ENTITY replyToAllMsgCmd.key  "a">
 <!ENTITY replyToListMsgCmd.label "Freagra chuig an Liosta">
-<!ENTITY replyToListMsgCmd.accesskey "L">
-<!ENTITY replyToListMsgCmd.key "l">
+<!ENTITY replyToListMsgCmd.accesskey  "L">
+<!ENTITY replyToListMsgCmd.key  "l">
 <!ENTITY forwardMsgCmd.label "Cuir Ar Aghaidh">
 <!ENTITY forwardMsgCmd.accesskey "C">
-<!ENTITY forwardMsgCmd.key "l">
+<!ENTITY forwardMsgCmd.key  "l">
 <!ENTITY forwardAsMenu.label "Seol ar Aghaidh Mar">
 <!ENTITY forwardAsMenu.accesskey "g">
 <!ENTITY forwardAsInline.label "Inlíne">
@@ -454,10 +454,10 @@
 <!ENTITY activitymanager.accesskey "m">
 <!ENTITY imAccountsStatus.label "Stádas comhrá">
 <!ENTITY imAccountsStatus.accesskey "S">
-<!ENTITY imStatus.available "Ar Fáil">
-<!ENTITY imStatus.unavailable "Níl ar fáil">
-<!ENTITY imStatus.offline "As Líne">
-<!ENTITY imStatus.showAccounts "Taispeáin Cuntais…">
+<!ENTITY imStatus.available          "Ar Fáil">
+<!ENTITY imStatus.unavailable        "Níl ar fáil">
+<!ENTITY imStatus.offline            "As Líne">
+<!ENTITY imStatus.showAccounts       "Taispeáin Cuntais…">
 <!ENTITY joinChatCmd.label "Glac Páirt sa Chomhrá…">
 <!ENTITY joinChatCmd.accesskey "t">
 <!ENTITY savedFiles.label "Comhaid Shábháilte">
@@ -596,8 +596,8 @@
 <!-- Folder Pane -->
 
 <!ENTITY folderNameColumn.label "Ainm">
-<!ENTITY folderUnreadColumn.label "Unread">
-<!ENTITY folderTotalColumn.label "Total">
+<!ENTITY folderUnreadColumn.label "Gan Léamh">
+<!ENTITY folderTotalColumn.label "Iomlán">
 <!ENTITY folderSizeColumn.label "Méid">
 <!-- Folder Pane Context Menu -->
 
@@ -666,8 +666,8 @@
 <!ENTITY statusColumn.label "Stádas">
 <!ENTITY sizeColumn.label "Méid">
 <!ENTITY junkStatusColumn.label "Stádas Dramhphoist">
-<!ENTITY unreadColumn.label "Unread">
-<!ENTITY totalColumn.label "Total">
+<!ENTITY unreadColumn.label "Gan Léamh">
+<!ENTITY totalColumn.label "Iomlán">
 <!ENTITY readColumn.label "Léite">
 <!ENTITY receivedColumn.label "Faighte">
 <!ENTITY starredColumn.label "Marcáilte">
@@ -893,17 +893,17 @@
 <!ENTITY zoomWindow.label "Súmáil">
 <!-- Mac OS X Application Menu (Cocoa widgets) -->
 
-<!ENTITY preferencesCmdMac2.label "Sainroghanna">
-<!ENTITY preferencesCmdMac.commandkey ",">
-<!ENTITY preferencesCmdMac.modifiers "accel">
-<!ENTITY servicesMenuMac.label "Seirbhísí">
-<!ENTITY hideThisAppCmdMac.label "Folaigh &brandShortName;">
-<!ENTITY hideThisAppCmdMac.commandkey "H">
-<!ENTITY hideThisAppCmdMac.modifiers "accel">
-<!ENTITY hideOtherAppsCmdMac.label "Folaigh Cinn Eile">
+<!ENTITY preferencesCmdMac2.label       "Sainroghanna">
+<!ENTITY preferencesCmdMac.commandkey   ",">
+<!ENTITY preferencesCmdMac.modifiers    "accel">
+<!ENTITY servicesMenuMac.label          "Seirbhísí">
+<!ENTITY hideThisAppCmdMac.label        "Folaigh &brandShortName;">
+<!ENTITY hideThisAppCmdMac.commandkey   "H">
+<!ENTITY hideThisAppCmdMac.modifiers    "accel">
+<!ENTITY hideOtherAppsCmdMac.label      "Folaigh Cinn Eile">
 <!ENTITY hideOtherAppsCmdMac.commandkey "H">
-<!ENTITY hideOtherAppsCmdMac.modifiers "accel,alt">
-<!ENTITY showAllAppsCmdMac.label "Taispeáin Gach">
+<!ENTITY hideOtherAppsCmdMac.modifiers  "accel,alt">
+<!ENTITY showAllAppsCmdMac.label        "Taispeáin Gach">
 <!-- Mac OS X Dock Icon pop-up menu -->
 
-<!ENTITY dockOptions.label "Roghanna an Deilbhín…">
+<!ENTITY dockOptions.label              "Roghanna an Deilbhín…">

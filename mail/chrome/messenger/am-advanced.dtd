@@ -8,10 +8,10 @@
 <!ENTITY smtpServer.label "Socruithe an fhreastalaí amach (SMTP)">
 <!-- LOCALIZATION NOTE (smtpDescription.label): do not translate "SMTP" in below line -->
 
-<!ENTITY smtpDescription.label "Agus do chuid cuntas á mbainistiú, is féidir freastalaí ón liosta seo a úsáid trína roghnú mar an Freastalaí Amach (SMTP), nó bain úsáid as an bhfreastalaí réamhshocraithe trí &quot;Úsáid an Freastalaí Réamhshocraithe&quot; a roghnú.">
+<!ENTITY smtpDescription.label "Agus do chuid cuntas á mbainistiú, is féidir freastalaí ón liosta seo a úsáid trína roghnú mar an Freastalaí Amach (SMTP), nó úsáid a bhaint as an bhfreastalaí réamhshocraithe ón liosta seo trí &quot;Úsáid an Freastalaí Réamhshocraithe&quot; a roghnú.">
 
-<!ENTITY smtpListAdd.label "Cuir Leis…">
-<!ENTITY smtpListAdd.accesskey "C">
+<!ENTITY smtpListAdd.label  "Cuir Leis…">
+<!ENTITY smtpListAdd.accesskey  "C">
 <!ENTITY smtpListEdit.label "Eagar…">
 <!ENTITY smtpListEdit.accesskey "E">
 <!ENTITY smtpListDelete.label "Bain">
@@ -22,6 +22,6 @@
 <!ENTITY serverDescription.label "Cur Síos: ">
 <!ENTITY serverName.label "Ainm an Fhreastalaí: ">
 <!ENTITY serverPort.label "Port: ">
-<!ENTITY userName.label "Ainm Úsáideora: ">
+<!ENTITY userName.label   "Ainm Úsáideora: ">
 <!ENTITY connectionSecurity.label "Slándáil an Cheangail: ">
-<!ENTITY authMethod.label "Modh fíordheimhnithe: ">
+<!ENTITY authMethod.label   "Modh fíordheimhnithe: ">

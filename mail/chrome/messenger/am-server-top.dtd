@@ -51,7 +51,7 @@
 <!ENTITY modelDeleteImmediately.label "Bain é amach láithreach">
 <!ENTITY modelDeleteImmediately.accesskey "l">
 <!-- LOCALIZATION NOTE (expungeOnExit.label) : do not translate two of "&quot;" in below line -->
-<!ENTITY expungeOnExit.label "Glan an Bosca Isteach ag an Scor">
+<!ENTITY expungeOnExit.label "Glan an bosca isteach ag am scortha">
 <!ENTITY expungeOnExit.accesskey "G">
 <!ENTITY emptyTrashOnExit.label "Folmhaigh an Bruscar ag an Scor">
 <!ENTITY emptyTrashOnExit.accesskey "S">
@@ -70,8 +70,8 @@
 <!ENTITY newsrcFilePath.label "comhad newsrc:">
 <!ENTITY newsrcPicker.label "Roghnaigh comhad newsrc">
 <!ENTITY abbreviate.label "Taispeáin ainmneacha na ngrúpaí nuachta i bpána an Fhillteáin Ríomhphoist mar:">
-<!ENTITY abbreviateOn.label 'Ainmneacha iomlána (m.sh. "netscape.public.mozilla.mail-news")'>
-<!ENTITY abbreviateOff.label 'Ainmneacha giorraithe (m.sh. "n.p.m.mail-news")'>
+<!ENTITY abbreviateOn.label "Ainmneacha iomlána (m.sh. &quot;netscape.public.mozilla.mail-news&quot;)">
+<!ENTITY abbreviateOff.label "Ainmneacha giorraithe (m.sh. &quot;n.p.m.mail-news&quot;)">
 <!ENTITY advancedButton.label "Ardroghanna…">
 <!ENTITY advancedButton.accesskey "A">
 <!ENTITY serverDefaultCharset.label "Ionchódú Réamhshocraithe:">
@@ -84,7 +84,7 @@
 
 <!ENTITY accountTitle.label "Socruithe Cuntais">
 <!ENTITY accountSettingsDesc.label "Cuntas speisialta é seo. Níl aon aitheantas comhcheangailte leis.">
-<!ENTITY storeType.label "Message Store Type:">
+<!ENTITY storeType.label "Cineál Stórais na dTeachtaireachtaí:">
 <!ENTITY storeType.accesskey "T">
-<!ENTITY mboxStore.label "One large file (mbox)">
-<!ENTITY maildirStore.label "File per message (maildir)">
+<!ENTITY mboxStore.label "Comhad ollmhór amháin (mbox)">
+<!ENTITY maildirStore.label "Gach teachtaireacht ina comhad féin (maildir)">

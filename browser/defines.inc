@@ -1,6 +1,14 @@
+# This Source Code Form is subject to the terms of the Mozilla Public
+# License, v. 2.0. If a copy of the MPL was not distributed with this
+# file, You can obtain one at http://mozilla.org/MPL/2.0/.
 #filter emptyLines
 
-#define MOZ_LANGPACK_CREATOR The Irish Mozilla Localisation Team
+#define MOZ_LANGPACK_CREATOR mozilla.org
 
-#define MOZ_LANGPACK_CONTRIBUTORS <em:contributor>Michael Bauer</em:contributor> <em:contributor>Cillian de Roiste</em:contributor> <em:contributor>Cian Duffy</em:contributor> <em:contributor>Conor Farrell</em:contributor> <em:contributor>Marion Gunn</em:contributor> <em:contributor>Panu Petteri Höglund</em:contributor> <em:contributor>Brian King</em:contributor> <em:contributor>Iarla Mac Aodha Bhuí</em:contributor> <em:contributor>Diarmaid Mac Mathúna</em:contributor> <em:contributor>Dáithi Mac Sithigh</em:contributor> <em:contributor>Enda McGuinness</em:contributor> <em:contributor>Séamus Ó Ciardhuáin</em:contributor> <em:contributor>Caoimhín Ó Donnaile</em:contributor> <em:contributor>Tony Pratschke</em:contributor> <em:contributor>Rüdiger Reinhardt</em:contributor> <em:contributor>Kevin Scannell</em:contributor> 
+# If non-English locales wish to credit multiple contributors, uncomment this
+
+# variable definition and use the format specified.
+
+#define MOZ_LANGPACK_CONTRIBUTORS <em:contributor>Séamus Ó Ciardhuáin</em:contributor> <em:contributor>Kevin Scannell</em:contributor> <em:contributor>Brian King</em:contributor>
+
 #unfilter emptyLines

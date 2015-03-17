@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!-- Values for changepassword.xul -->
 
-<!ENTITY setPassword.title "Athraigh an Príomhfhocal Faire">
+<!ENTITY setPassword.title  "Athraigh an Príomhfhocal Faire">
 <!ENTITY setPassword.tokenName.label "Gléas Slándála">
 <!ENTITY setPassword.oldPassword.label "Focal Faire Reatha:">
 <!ENTITY setPassword.newPassword.label "Focal Faire Nua:">
@@ -12,11 +12,11 @@
 <!-- Values for resetpassword.xul -->
 
 <!ENTITY resetPasswordButtonLabel "Bánaigh">
-<!ENTITY resetPassword.title "Bánaigh an Príomhfhocal Faire">
-<!ENTITY resetPassword.text "Má bhánaíonn tú do Phríomhfhocal Faire, caillfear na focail faire ríomhphoist agus Gréasáin a stóráil tú, na sonraí ó fhoirmeacha, do theastais phearsanta, agus d'eochracha príobháideacha. An bhfuil tú cinnte gur mian leat do Phríomhfhocal Faire a bhánú?">
+<!ENTITY resetPassword.title  "Bánaigh an Príomhfhocal Faire">
+<!ENTITY resetPassword.text  "Má bhánaíonn tú do Phríomhfhocal Faire, caillfear na focail faire ríomhphoist agus Gréasáin a stóráil tú, na sonraí ó fhoirmeacha, do theastais phearsanta, agus d'eochracha príobháideacha. An bhfuil tú cinnte gur mian leat do Phríomhfhocal Faire a bhánú?">
 <!-- Values for getpassword.xul -->
 
-<!ENTITY getPassword.title "Clóscríobh an Príomhfhocal Faire">
+<!ENTITY getPassword.title  "Clóscríobh an Príomhfhocal Faire">
 <!ENTITY getPassword.tokenName2.label "Gléas Slándála:">
 <!ENTITY getPassword.password.label "Focal Faire:">
 <!-- Downloading a cert -->
@@ -38,16 +38,16 @@
 <!-- Strings for the cert picker dialog -->
 
 <!ENTITY certPicker.title "Roghnaigh teastas">
-<!ENTITY certPicker.info "Teastas:">
+<!ENTITY certPicker.info  "Teastas:">
 <!ENTITY certPicker.detailsLabel "Mionsonraí an teastais roghnaithe:">
 
-<!ENTITY pkcs12.setpassword.title "Roghnaigh Focal Faire an Chúltaca Teastais">
-<!ENTITY pkcs12.setpassword.message "Cosnaíonn focal faire an chúltaca teastais a shocraíonn tú anseo an comhad cúltaca atá á chruthú agat. Is gá an focal faire seo a shocrú roimh leanúint ar aghaidh.">
+<!ENTITY pkcs12.setpassword.title  "Roghnaigh Focal Faire an Chúltaca Teastais">
+<!ENTITY pkcs12.setpassword.message  "Cosnaíonn focal faire an chúltaca teastais a shocraíonn tú anseo an comhad cúltaca atá á chruthú agat. Is gá an focal faire seo a shocrú roimh leanúint ar aghaidh.">
 <!ENTITY pkcs12.setpassword.label1 "Focal faire an chúltaca teastais:">
 <!ENTITY pkcs12.setpassword.label2 "Focal faire an chúltaca teastais (arís):">
 <!ENTITY pkcs12.setpassword.reminder "Tábhachtach: má dhéanann tú dearmad ar an bhfocal faire don chúltaca teastais ní bheidh tú in ann an cúltaca seo a chur ar ais. Breac síos tuairisc de in áit shlán.">
 
-<!ENTITY chooseToken.title "Dialóg Roghnaithe Ceadchomhartha">
+<!ENTITY chooseToken.title  "Dialóg Roghnaithe Ceadchomhartha">
 <!ENTITY chooseToken.message1 "Roghnaigh ceadchomhartha le do thoil.">
 
 <!ENTITY escrowWarn.title "Cóip na hEochrach Criptiúcháin">

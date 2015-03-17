@@ -2,11 +2,11 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY attachmentReminderDialog.title "Lorgfhocail Mheabhrúcháin Iatáin">
-<!ENTITY attachKeywordText.label "Tabhairfaidh &brandShortName; rabhadh duit maidir le hiatáin atá ar iarraidh má tá tú ar tí teachtaireacht a sheoladh ina bhfuil ceann de na lorgfhocail seo.">
-<!ENTITY addKeywordButton.label "Cuir Leis">
-<!ENTITY addKeywordButton.accesskey "L">
-<!ENTITY editKeywordButton.label "Eagar">
-<!ENTITY editKeywordButton.accesskey "E">
-<!ENTITY removeKeywordButton.label "Scrios">
-<!ENTITY removeKeywordButton.accesskey "S">
+<!ENTITY attachmentReminderDialog.title   "Lorgfhocail Mheabhrúcháin Iatáin">
+<!ENTITY attachKeywordText.label          "Tabhairfaidh &brandShortName; rabhadh duit maidir le hiatáin atá ar iarraidh má tá tú ar tí teachtaireacht a sheoladh ina bhfuil ceann de na lorgfhocail seo.">
+<!ENTITY addKeywordButton.label           "Cuir Leis">
+<!ENTITY addKeywordButton.accesskey       "L">
+<!ENTITY editKeywordButton.label          "Eagar">
+<!ENTITY editKeywordButton.accesskey      "E">
+<!ENTITY removeKeywordButton.label        "Scrios">
+<!ENTITY removeKeywordButton.accesskey    "S">

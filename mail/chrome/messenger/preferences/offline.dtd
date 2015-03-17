@@ -4,17 +4,17 @@
 
 <!ENTITY offlineDialog.title "Socruithe As Líne">
 
-<!ENTITY checkAutoDetect.label "Automatically follow detected online state">
+<!ENTITY checkAutoDetect.label "Faigh amach an staid ar líne go huathoibríoch ">
 <!ENTITY checkAutoDetect.accesskey "d">
-<!ENTITY titleStartUp "Manual state when starting up:">
+<!ENTITY titleStartUp "Staid de láimh ag am tosaithe:">
 <!ENTITY radioRememberPrevState.label "Úsáid an staid ar líne roimhe seo">
 <!ENTITY radioRememberPrevState.accesskey "r">
-<!ENTITY radioAskState.label "Ask me for online state">
-<!ENTITY radioAskState.accesskey "k">
-<!ENTITY radioAlwaysOnlineState.label "Online">
-<!ENTITY radioAlwaysOnlineState.accesskey "l">
-<!ENTITY radioAlwaysOffline.label "Offline">
-<!ENTITY radioAlwaysOffline.accesskey "f">
+<!ENTITY radioAskState.label "Fiafraigh díom faoin staid ar líne">
+<!ENTITY radioAskState.accesskey "F">
+<!ENTITY radioAlwaysOnlineState.label "As Líne">
+<!ENTITY radioAlwaysOnlineState.accesskey "L">
+<!ENTITY radioAlwaysOffline.label "As Líne">
+<!ENTITY radioAlwaysOffline.accesskey "s">
 
 <!ENTITY textGoingOnline "An bhfuil fonn ort teachtaireachtaí neamhsheolta a sheoladh agus tú ag dul ar líne?">
 <!ENTITY radioAutoSend.label "Tá">

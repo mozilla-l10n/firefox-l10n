@@ -41,7 +41,7 @@
 <!ENTITY runtimeMenu_showMonitor_accesskey "M">
 <!ENTITY runtimeMenu_showDevicePrefs_label "Sainroghanna Gléis">
 <!ENTITY runtimeMenu_showDevicePrefs_accesskey "G">
-<!ENTITY runtimeMenu_showSettings_label "Device Settings">
+
 <!ENTITY runtimeMenu_showSettings_accesskey "s">
 
 <!ENTITY viewMenu_label "Amharc">
@@ -94,7 +94,7 @@
 <!ENTITY details_location "Suíomh">
 <!ENTITY details_manifestURL "Aitheantas na hAipe">
 <!ENTITY details_removeProject_button "Bain Tionscadal">
-<!ENTITY details_showPrepackageLog_button "Show Pre-package Log">
+
 <!-- New App -->
 
 <!ENTITY newAppWindowTitle "Aip Nua">
@@ -117,8 +117,8 @@
 <!ENTITY prefs_general_title "Ginearálta">
 <!ENTITY prefs_restore "Athchóirigh na Réamhshocruithe">
 <!ENTITY prefs_manage_components "Bainistigh Comhpháirteanna Breise">
-<!ENTITY prefs_options_autoconnectruntime "Reconnect to previous runtime">
-<!ENTITY prefs_options_autoconnectruntime_tooltip "Reconnect to previous runtime when WebIDE starts">
+
+
 <!ENTITY prefs_options_rememberlastproject "Meabhraigh an tionscadal is déanaí">
 <!ENTITY prefs_options_rememberlastproject_tooltip "Athoscail an tionscadal deireanach nuair a thosaíonn WebIDE">
 <!ENTITY prefs_options_templatesurl "URL na dTeimpléad">
@@ -129,7 +129,7 @@
 <!ENTITY prefs_options_expandtab "Táib bhoga">
 <!ENTITY prefs_options_expandtab_tooltip "Úsáid spásanna in ionad táb">
 <!ENTITY prefs_options_detectindentation "Uatheangú">
-<!ENTITY prefs_options_detectindentation_tooltip "Guess indentation based on source content">
+
 <!ENTITY prefs_options_autocomplete "Uathlíonadh">
 <!ENTITY prefs_options_autocomplete_tooltip "Cumasaigh uathlíonadh cóid">
 <!ENTITY prefs_options_autoclosebrackets "Dún lúibíní go huathoibríoch">
@@ -143,12 +143,12 @@
 <!-- Runtime Details -->
 
 <!ENTITY runtimedetails_title "Faoin Chóras Ama Rite">
-<!ENTITY runtimedetails_adbIsRoot "ADB is root: ">
-<!ENTITY runtimedetails_summonADBRoot "root device">
-<!ENTITY runtimedetails_ADBRootWarning "(requires unlocked bootloader)">
-<!ENTITY runtimedetails_unrestrictedPrivileges "Unrestricted DevTools privileges: ">
+
+
+
+
 <!ENTITY runtimedetails_requestPrivileges "iarr ceadanna níos airde">
-<!ENTITY runtimedetails_privilegesWarning "(Will reboot device. Requires root access.)">
+
 <!-- Device Preferences and Settings -->
 
 <!ENTITY device_typeboolean "Boole">
@@ -157,19 +157,15 @@
 <!ENTITY device_typeobject "Réad">
 <!ENTITY device_typenone "Roghnaigh cineál">
 <!-- Device Preferences -->
-
-<!ENTITY devicepreference_title "Device Preferences">
 <!ENTITY devicepreference_search "Sainroghanna cuardaigh">
 <!ENTITY devicepreference_newname "Ainm na sainrogha">
 <!ENTITY devicepreference_newtext "Luach na sainrogha">
 <!ENTITY devicepreference_addnew "Sainrogha nua">
 <!-- Device Settings -->
 
-<!ENTITY devicesetting_title "Device Settings">
-<!ENTITY devicesetting_search "Search settings">
-<!ENTITY devicesetting_newname "New setting name">
-<!ENTITY devicesetting_newtext "Setting value">
-<!ENTITY devicesetting_addnew "Add new setting">
+
+
+
 <!-- Monitor -->
 
 <!ENTITY monitor_title "Monatóir">
@@ -179,19 +175,13 @@
      that instructs the user to transfer an authentication token to the
      server. -->
 
-<!ENTITY wifi_auth_header "Client Identification">
+<!ENTITY wifi_auth_header "Aitheantas an Chliaint">
 <!-- LOCALIZATION NOTE (wifi_auth_scan_request): Instructions requesting the
      user to transfer authentication info by scanning a QR code. -->
-<!ENTITY wifi_auth_scan_request "The endpoint you are connecting to needs more information to authenticate this connection.  Please scan the QR code below via the prompt on your other device.">
 <!-- LOCALIZATION NOTE (wifi_auth_no_scanner): Link text to assist users with
      devices that can't scan a QR code. -->
-<!ENTITY wifi_auth_no_scanner "No QR scanner prompt?">
 <!-- LOCALIZATION NOTE (wifi_auth_yes_scanner): Link text to assist users with
      devices that can scan a QR code. -->
-<!ENTITY wifi_auth_yes_scanner "Have a QR scanner prompt?">
 <!-- LOCALIZATION NOTE (wifi_auth_token_request): Instructions requesting the
      user to transfer authentication info by transferring a token. -->
-<!ENTITY wifi_auth_token_request "If your other device asks for a token instead of scanning a QR code, please copy the value below to the other device:">
 <!-- Logs panel -->
-
-<!ENTITY logs_title "Pre-packaging Command Logs">

@@ -34,6 +34,6 @@
 <!ENTITY folderPickerPrefix.accesskey "c">
 <!ENTITY helpButton.label "Cabhair">
 <!ENTITY helpButton.accesskey "h">
-<!ENTITY closeCmd.key "W">
+<!ENTITY closeCmd.key "W"> 
 <!ENTITY searchBox.emptyText "Aimsigh scagaire de réir a ainm…">
 

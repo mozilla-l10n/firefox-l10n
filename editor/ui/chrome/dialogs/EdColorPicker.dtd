@@ -8,7 +8,7 @@
 <!ENTITY setColor1.label "Cliceáil ar dhath nó">
 <!ENTITY setColor2.label "iontráil teaghrán datha HTML">
 <!ENTITY setColor2.accessKey "H">
-<!ENTITY setColorExample.label "(m.sh.: &quot;#0000ff&quot; or &quot;blue&quot;):">
+<!ENTITY setColorExample.label "(m.sh.: &quot;#0000ff&quot; nó &quot;blue&quot;):">
 <!ENTITY default.label "Réamhshocrú">
 <!ENTITY default.accessKey "R">
 <!ENTITY palette.label "Pailéad:">

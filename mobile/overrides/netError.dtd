@@ -19,17 +19,17 @@
 <!ENTITY dnsNotFound.title "Freastalaí gan aimsiú">
 <!-- LOCALIZATION NOTE (dnsNotFound.longDesc4) This string contains markup including widgets for searching
      or enabling wifi connections. The text inside tags should be localized.  Do not change the ids. -->
-<!ENTITY dnsNotFound.longDesc4 "<ul>
+<!ENTITY dnsNotFound.longDesc4 "<ul> 
 <li>Scrúdaigh an seoladh le haghaidh botún cosúil le 
 <strong>ww</strong>.sampla.com in ionad 
-<strong>www</strong>.sampla.com</li>
-<div id='searchbox'>
-<input id='searchtext' type='search'></input>
-<button id='searchbutton'>Cuardaigh</button>
-</div>
+<strong>www</strong>.sampla.com</li> 
+<div id='searchbox'> 
+<input id='searchtext' type='search'></input> 
+<button id='searchbutton'>Cuardaigh</button> 
+</div> 
 <li>Mura bhfuil tú in ann leathanach ar bith a luchtú, seiceáil do cheangal sonraí nó Wi-Fi. 
-<button id='wifi'>Cumasaigh Wi-Fi</button>
-</li>
+<button id='wifi'>Cumasaigh Wi-Fi</button> 
+</li> 
 </ul>">
 
 <!ENTITY fileNotFound.title "Comhad gan aimsiú">
@@ -42,15 +42,15 @@
 <!ENTITY malformedURI.title "Níl an seoladh bailí">
 <!-- LOCALIZATION NOTE (malformedURI.longDesc2) This string contains markup including widgets for searching
      or enabling wifi connections. The text inside the tags should be localized. Do not touch the ids. -->
-<!ENTITY malformedURI.longDesc2 "<ul>
+<!ENTITY malformedURI.longDesc2 "<ul> 
 <li>De ghnáth scríobhtar seoltaí Gréasáin mar seo 
-<strong>http://www.sampla.com/</strong></li>
-<div id='searchbox'>
-<input id='searchtext' type='search'></input>
-<button id='searchbutton'>Cuardaigh</button>
-</div>
+<strong>http://www.sampla.com/</strong></li> 
+<div id='searchbox'> 
+<input id='searchtext' type='search'></input> 
+<button id='searchbutton'>Cuardaigh</button> 
+</div> 
 <li>Bí cinnte gur tulslaiseanna atá agat (.i. 
-<strong>/</strong>).</li>
+<strong>/</strong>).</li> 
 </ul>">
 
 <!ENTITY netInterrupt.title "Idirbhriseadh an ceangal">
@@ -62,11 +62,11 @@
 <!ENTITY netOffline.title "Mód as líne">
 <!-- LOCALIZATION NOTE (netOffline.longDesc3) This string contains markup including widgets enabling wifi connections.
      The text inside the tags should be localized. Do not touch the ids. -->
-<!ENTITY netOffline.longDesc3 "<ul>
+<!ENTITY netOffline.longDesc3 "<ul> 
 <li>Bain triail eile as. Déanfaidh &brandShortName; iarracht ceangal a oscailt agus an leathanach a athluchtú. 
 the page. 
-<button id='wifi'>Cumasaigh Wi-Fi</button>
-</li>
+<button id='wifi'>Cumasaigh Wi-Fi</button> 
+</li> 
 </ul>">
 
 <!ENTITY contentEncodingError.title "Earráid Ionchódaithe Inneachair">
@@ -90,11 +90,11 @@ the page.
 <!ENTITY proxyResolveFailure.title "Ní féidir an seachfhreastalaí a aimsiú">
 <!-- LOCALIZATION NOTE (proxyResolveFailure.longDesc3) This string contains markup including widgets for enabling wifi connections.
      The text inside the tags should be localized. Do not touch the ids. -->
-<!ENTITY proxyResolveFailure.longDesc3 "<ul>
-<li>Cinntigh go bhfuil na socruithe seachfhreastalaí ceart.</li>
+<!ENTITY proxyResolveFailure.longDesc3 "<ul> 
+<li>Cinntigh go bhfuil na socruithe seachfhreastalaí ceart.</li> 
 <li>Cinntigh go bhfuil do ghléas ceangailte le líonra sonraí nó Wi-Fi. 
-<button id='wifi'>Cumasaigh Wi-Fi</button>
-</li>
+<button id='wifi'>Cumasaigh Wi-Fi</button> 
+</li> 
 </ul>">
 
 <!ENTITY redirectLoop.title "Níl an leathanach ag atreorú i gceart">
@@ -104,9 +104,9 @@ the page.
 <!ENTITY unknownSocketType.longDesc "<ul> <li>Cinntigh go bhfuil an Bainisteoir Pearsanta Slándála suiteáilte ar do ríomhaire.</li> <li>D'fhéadfadh seo tarlú de dheasca cumraíocht neamhchaighdeánach an fhreastalaí.</li></ul>">
 
 <!ENTITY nssFailure2.title "Níorbh Fhéidir Ceangal Slán a Bhunú">
-<!ENTITY nssFailure2.longDesc2 "<ul>
-<li>Ní féidir an leathanach atá tú ag iarraidh amharc air a thaispeáint toisc nach féidir fírinne na sonraí a fuarthas a fhíordheimhniú.</li>
-<li>Téigh i dteagmháil le húinéirí an tsuímh Ghréasáin leis an fhadhb seo a chur in iúl dóibh le do thoil.</li>
+<!ENTITY nssFailure2.longDesc2 "<ul> 
+<li>Ní féidir an leathanach atá tú ag iarraidh amharc air a thaispeáint toisc nach féidir fírinne na sonraí a fuarthas a fhíordheimhniú.</li> 
+<li>Téigh i dteagmháil le húinéirí an tsuímh Ghréasáin leis an fhadhb seo a chur in iúl dóibh le do thoil.</li> 
 </ul>">
 
 <!ENTITY nssBadCert.title "Níorbh Fhéidir Ceangal Slán a Bhunú">
@@ -114,12 +114,12 @@ the page.
 <!-- LOCALIZATION NOTE (sharedLongDesc3) This string contains markup including widgets for enabling wifi connections.
      The text inside the tags should be localized. Do not touch the ids. -->
 
-<!ENTITY sharedLongDesc3 "<ul>
-<li>D'fhéadfadh an suíomh bheith gan fáil nó ró-ghnóthach go sealadach. Bain triail eile as ar ball beag.</li>
+<!ENTITY sharedLongDesc3 "<ul> 
+<li>D'fhéadfadh an suíomh bheith gan fáil nó ró-ghnóthach go sealadach. Bain triail eile as ar ball beag.</li> 
 <li>Mura bhfuil tú in ann leathanach ar bith a luchtú, seiceáil do cheangal sonraí nó Wi-Fi. 
 Wi-Fi connection. 
-<button id='wifi'>Cumasaigh Wi-Fi</button>
-</li>
+<button id='wifi'>Cumasaigh Wi-Fi</button> 
+</li> 
 </ul>">
 
 <!ENTITY cspBlocked.title "Bactha ag an Polasaí Slándala Inneachair">
@@ -137,9 +137,9 @@ which uses strings already defined above. The button is included here (instead o
 netError.xhtml) because it exposes functionality specific to firefox. -->
 
 
-<!ENTITY securityOverride.warningContent "<p>Ná cruthaigh eisceacht mura bhfuil muinín agat as do cheangal Idirlín nó mura fheiceann tú rabhadh maidir leis an bhfreastalaí seo go rialta.</p>
+<!ENTITY securityOverride.warningContent "<p>Ná cruthaigh eisceacht mura bhfuil muinín agat as do cheangal Idirlín nó mura fheiceann tú rabhadh maidir leis an bhfreastalaí seo go rialta.</p> 
  
-<button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button>
+<button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button> 
 <button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>">
 
 <!ENTITY remoteXUL.title "XUL Cianda">
