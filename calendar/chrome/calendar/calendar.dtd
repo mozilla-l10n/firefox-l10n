@@ -367,5 +367,5 @@
 
 <!ENTITY calendar.extract.event.button         "Cuir leis mar imeacht">
 <!ENTITY calendar.extract.task.button          "Cuir leis mar thasc">
-<!ENTITY calendar.extract.event.button.tooltip "Bain faisnéis faoi imeacht as an teachtaireacht agus cuir le d'fhéilire í">
+<!ENTITY calendar.extract.event.button.tooltip "Bain faisnéis faoin imeacht as an teachtaireacht agus cuir le d'fhéilire é">
 <!ENTITY calendar.extract.task.button.tooltip  "Bain faisnéis faoi thasc as an teachtaireacht agus cuir le d'fhéilire é">
