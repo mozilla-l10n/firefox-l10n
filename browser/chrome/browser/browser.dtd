@@ -483,8 +483,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisLinkCmd.accesskey  "l">
 <!ENTITY bookmarkThisFrameCmd.label      "Pune semn de carte la acest cadru">
 <!ENTITY bookmarkThisFrameCmd.accesskey  "m">
-<!ENTITY emailPageCmd.label           "Email cu legătura…">
-<!ENTITY emailPageCmd.accesskey       "l">
+<!ENTITY emailPageCmd.label           "Trimite e-mail cu legătura…">
+<!ENTITY emailPageCmd.accesskey       "e">
 <!ENTITY savePageCmd.label            "Salvează pagina ca...">
 <!ENTITY savePageCmd.accesskey        "S">
 <!-- alternate for content area context menu -->
@@ -502,14 +502,14 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY saveVideoCmd.accesskey       "v">
 <!ENTITY saveAudioCmd.label           "Salvează fișierul audio ca…">
 <!ENTITY saveAudioCmd.accesskey       "v">
-<!ENTITY emailImageCmd.label          "Email cu imaginea…">
-<!ENTITY emailImageCmd.accesskey      "i">
-<!ENTITY emailVideoCmd.label          "Email Video…">
-<!ENTITY emailVideoCmd.accesskey      "V">
+<!ENTITY emailImageCmd.label          "Trimite e-mail cu imaginea…">
+<!ENTITY emailImageCmd.accesskey      "g">
+<!ENTITY emailVideoCmd.label          "Trimite e-mail cu fișierul video…">
+<!ENTITY emailVideoCmd.accesskey      "a">
 <!ENTITY castVideoCmd.label           "Trimiteți videoclipul către dispozitiv">
 <!ENTITY castVideoCmd.accesskey       "e">
-<!ENTITY emailAudioCmd.label          "Email Audio…">
-<!ENTITY emailAudioCmd.accesskey      "A">
+<!ENTITY emailAudioCmd.label          "Trimite e-mail cu fișierul audio…">
+<!ENTITY emailAudioCmd.accesskey      "a">
 <!ENTITY playPluginCmd.label          "Activați plugin">
 <!ENTITY playPluginCmd.accesskey      "g">
 <!ENTITY hidePluginCmd.label          "Ascunde acest modul">
@@ -524,7 +524,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY copyVideoURLCmd.accesskey    "o">
 <!ENTITY copyAudioURLCmd.label        "Copiază adresa fișierului audio">
 <!ENTITY copyAudioURLCmd.accesskey    "o">
-<!ENTITY copyEmailCmd.label           "Copiază adresa de email">
+<!ENTITY copyEmailCmd.label           "Copiază adresa de e-mail">
 <!ENTITY copyEmailCmd.accesskey       "e">
 <!ENTITY thisFrameMenu.label              "Acest cadru">
 <!ENTITY thisFrameMenu.accesskey          "d">

@@ -37,9 +37,9 @@
 <!ENTITY certmgr.editcacert.title             "Editare parametri credit certificat AC">
 <!ENTITY certmgr.editcert.edittrust           "Editare parametri credit:">
 <!ENTITY certmgr.editcert.trustssl            "Acest certificat poate identifica saituri web.">
-<!ENTITY certmgr.editcert.trustemail          "Acest certificat poate identifica utilizatori de email.">
+<!ENTITY certmgr.editcert.trustemail          "Acest certificat poate identifica utilizatori de e-mail.">
 <!ENTITY certmgr.editcert.trustobjsign        "Acest certificat poate identifica creatori de software.">
-<!ENTITY certmgr.editemailcert.title          "Editare parametri credit certificat email">
+<!ENTITY certmgr.editemailcert.title          "Editare parametri credit certificat e-mail">
 <!ENTITY certmgr.editemailcert.edittrust      "Editare parametri credit certificat:">
 <!ENTITY certmgr.editemailcert.dotrust        "Acreditează autenticitatea acestui certificat.">
 <!ENTITY certmgr.editemailcert.donttrust      "Nu acorda încredere în autenticitatea acestui certificat.">
@@ -52,7 +52,7 @@
 <!ENTITY certmgr.tokenname                    "Dispozitiv de securitate">
 <!ENTITY certmgr.begins                       "Începe la">
 <!ENTITY certmgr.expires                      "Expiră la">
-<!ENTITY certmgr.email                        "Adresă email">
+<!ENTITY certmgr.email                        "Adresă de e-mail">
 <!ENTITY certmgr.serial                       "Număr serie">
 
 <!ENTITY certmgr.close.label                  "Închide">
