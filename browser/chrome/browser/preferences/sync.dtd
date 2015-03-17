@@ -68,7 +68,7 @@ both, to better adapt this sentence to their language.
 <!ENTITY signedInLoginFailure.beforename.label "Моля, впишете се, за да се свържете наново">
 <!ENTITY signedInLoginFailure.aftername.label "">
 
-<!ENTITY notSignedIn.label           "Не сте се вписал(а).">
+<!ENTITY notSignedIn.label           "Не сте вписани.">
 <!ENTITY signIn.label                "Вписване">
 <!ENTITY manage.label                "Управление">
 <!ENTITY disconnect.label            "Развързване…">
