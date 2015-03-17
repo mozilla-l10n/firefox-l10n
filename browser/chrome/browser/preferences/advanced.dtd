@@ -34,8 +34,8 @@
 <!ENTITY healthReportLearnMore.label     "Läs mer">
 
 <!ENTITY telemetryDesc.label             "Delar webbläsardata om prestanda, användning, hårdvara och anpassningar med &vendorShortName; för att hjälpa oss att förbättra &brandShortName;">
-
-
+<!ENTITY enableTelemetryData.label       "Dela ytterligare data (t.ex. telemetri)">
+<!ENTITY enableTelemetryData.accesskey   "t">
 <!ENTITY telemetryLearnMore.label        "Läs mer">
 
 <!ENTITY crashReporterDesc.label         "&brandShortName; skickar in kraschrapporter för att hjälpa &vendorShortName; att göra webbläsaren stabilare och säkrare">

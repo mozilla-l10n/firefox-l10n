@@ -168,7 +168,7 @@
 <!ENTITY devicesetting_title "Enhetsinställningar">
 <!ENTITY devicesetting_search "Sökningsinställningar">
 <!ENTITY devicesetting_newname "Nytt inställnings namn ">
-
+<!ENTITY devicesetting_newtext "Inställningsvärde">
 <!ENTITY devicesetting_addnew "Lägg till ny inställning ">
 <!-- Monitor -->
 
