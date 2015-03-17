@@ -12,11 +12,12 @@
 <!ENTITY helpMenu.accesskey       "S"> 
 <!-- LOCALIZATION NOTE some localizations of Windows (ex:french, german) use "?"
                        for the help button in the menubar but Gnome does not.   -->
-
+<!ENTITY helpMenuWin.label        "Skoazell"> 
+<!ENTITY helpMenuWin.accesskey    "S">
 <!ENTITY aboutProduct2.label      "A-zivout &brandShortName;">
 <!ENTITY aboutProduct2.accesskey  "A">
-
-
+<!ENTITY productHelp2.label       "Skoazell &brandShorterName;">
+<!ENTITY productHelp2.accesskey   "o">
 <!ENTITY helpMac.commandkey       "?">
 
 <!ENTITY helpKeyboardShortcuts.label     "Berradennoù klavier">
@@ -25,7 +26,8 @@
 <!ENTITY helpSafeMode.label       "Adloc'hañ gant an askouezhioù diweredekaet…">
 <!ENTITY helpSafeMode.accesskey   "r">
 
-
+<!ENTITY healthReport2.label      "Danevell yec'hed &brandShorterName;">
+<!ENTITY healthReport2.accesskey  "y">
 
 <!ENTITY helpTroubleshootingInfo.label      "Titouroù disac'hañ">
 <!ENTITY helpTroubleshootingInfo.accesskey  "T">
@@ -33,7 +35,8 @@
 <!ENTITY helpFeedbackPage.label      "Reiñ ho meno…">
 <!ENTITY helpFeedbackPage.accesskey  "m">
 
-
+<!ENTITY helpShowTour2.label            "Gweladenniñ &brandShorterName;">
+<!ENTITY helpShowTour2.accesskey        "G">
 
 <!ENTITY preferencesCmdMac.label        "Ma gwellvezioù…">
 <!ENTITY preferencesCmdMac.commandkey   ",">

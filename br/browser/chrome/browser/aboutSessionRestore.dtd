@@ -13,9 +13,9 @@
 <!ENTITY restorepage.startNew       "Kregiñ gant un estez nevez a-grenn">
 
 <!ENTITY restorepage.tryagainButton "Assav">
-
+<!ENTITY restorepage.restore.access "A">
 <!ENTITY restorepage.closeButton    "Serriñ">
-
+<!ENTITY restorepage.close.access   "S">
 
 <!ENTITY restorepage.restoreHeader  "Assav">
 <!ENTITY restorepage.listHeader     "Prenestroù hag ivinelloù">
@@ -27,7 +27,7 @@
 
 
 <!ENTITY welcomeback2.restoreButton  "Bec'h dezhi !">
-
+<!ENTITY welcomeback2.restoreButton.access "L">
 
 <!ENTITY welcomeback2.tabtitle      "Taol berzh !">
 
