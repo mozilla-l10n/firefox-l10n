@@ -41,8 +41,8 @@
 <!ENTITY autoSave.accesskey                   "u">
 <!ENTITY autoSaveEnd.label                    "minute">
 
-<!ENTITY emailCollectionPicker.label           "Adaugă automat adresele de email din mesajele trimise la:">
-<!ENTITY emailCollectionPicker.accesskey       "t">
+<!ENTITY emailCollectionPicker.label           "Adaugă automat adresele de e-mail din mesajele trimise la:">
+<!ENTITY emailCollectionPicker.accesskey       "a">
 <!ENTITY addressingTitle.label                 "Completarea automată a adresei">
 <!ENTITY autocompleteText.label                "Când se scrie destinatarul, caută potriviri în:">
 <!ENTITY addressingEnable.label                "Agende locale de contacte">

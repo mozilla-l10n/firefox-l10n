@@ -8,7 +8,7 @@
 <!ENTITY cancelIntegration2.label  "Renunțare">
 <!ENTITY defaultClient.intro  "Folosește &brandShortName; ca și client implicit pentru:">
 
-<!ENTITY email.label "Email">
+<!ENTITY email.label "E-mail">
 <!ENTITY newsgroups.label "Grupuri de discuții">
 <!ENTITY feeds.label "Fluxuri">
 
