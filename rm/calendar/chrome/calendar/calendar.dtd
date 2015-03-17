@@ -10,7 +10,7 @@
 
 
 
-
+<!ENTITY calendar.tomorrow.button.label       "Damaun">
 
 
 
@@ -286,13 +286,13 @@
 
 <!-- Select Calendar Dialog -->
 <!-- Calendar Printing -->
+<!ENTITY calendar.print.title.label "Titel:">
 
 
 
 
 
-
-
+<!ENTITY calendar.print.events.label "Occurrenzas">
 
 
 

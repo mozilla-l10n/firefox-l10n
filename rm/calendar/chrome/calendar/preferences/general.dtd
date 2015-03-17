@@ -7,27 +7,36 @@
   -->
 
 
+<!ENTITY pref.mainbox.label "Preferenzas generalas" >
+<!ENTITY pref.dateformat.label "Format per data e temp:" >
+<!ENTITY pref.dateformat.accesskey "d">
+<!ENTITY pref.dateformat.long "Lung" >
+<!ENTITY pref.dateformat.short "Curt"  >
 
+<!ENTITY pref.timezones.caption "Zona d'urari">
+<!ENTITY pref.timezones.label "Tscherna la citad il pli datiers en tia zona d'urari:">
+<!ENTITY pref.timezones.accesskey "T">
 
+<!ENTITY pref.defaults.label "Valurs da standard per novs elements">
+<!ENTITY pref.events.label "Occurrenzas">
+<!ENTITY pref.tasks.label "Pensums">
 
+<!ENTITY pref.default_event_length.label "Durada da standard:" >
+<!ENTITY pref.default_event_length.accesskey "t">
 
+<!ENTITY pref.default_task_none.label "Nagin">
+<!ENTITY pref.default_task_start_of_day.label "Cumenzament dal di">
+<!ENTITY pref.default_task_end_of_day.label "Fin dal di">
+<!ENTITY pref.default_task_tomorrow.label "Damaun">
+<!ENTITY pref.default_task_next_week.label "L'emna proxima">
+<!ENTITY pref.default_task_offset_current.label "Relativamain al temp acutal">
+<!ENTITY pref.default_task_offset_start.label "Relativamain al cumenzament">
+<!ENTITY pref.default_task_offset_next_hour.label "Relativamain a l'ura proxima">
 
+<!ENTITY pref.calendar.todaypane.agenda.caption "Lastra dal di">
+<!ENTITY pref.soondays.label "La secziun per proxims elements mussa:">
+<!ENTITY pref.soondays.accesskey "p">
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY pref.accessibility.label "Accessibladad" >
+<!ENTITY pref.systemcolors.label "Optimar colurs per l'accessibladad" >
+<!ENTITY pref.systemcolors.accesskey "c">

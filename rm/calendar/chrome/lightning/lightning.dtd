@@ -60,18 +60,22 @@
 <!ENTITY lightning.imipbar.btnReconfirm.tooltiptext                         "Trametta ina re-conferma a l'organisatur">
 <!ENTITY lightning.imipbar.btnSaveCopy.label                                "Memorisar ina copia">
 
+<!ENTITY lightning.imipbar.btnTentative.label                               "Provisoric">
+<!ENTITY lightning.imipbar.btnTentative2.tooltiptext                        "Acceptar provisoricamain l'invitaziun a l'occurrenza">
 
 
-
-
-
-
-
+<!ENTITY lightning.imipbar.btnUpdate.label                                  "Actualisar">
+<!ENTITY lightning.imipbar.btnUpdate.tooltiptext                            "Actualisar l'occurrenza en il chalender">
+<!ENTITY lightning.imipbar.description                                      "Quest messadi cuntegna ina invitiaziun ad in'occurrenza.">
 <!-- Lightning specific keybindings -->
 
-
-
+<!ENTITY lightning.keys.event.showCalendar.key "C">
+<!ENTITY lightning.keys.event.showTasks.key "D">
+<!ENTITY lightning.keys.event.new "I">
+<!ENTITY lightning.keys.todo.new "D">
 <!-- Account Central page -->
+
+<!ENTITY lightning.acctCentral.newCalendar.label "Crear in nov chalender">
 <!-- today-pane-specific -->
 
 
@@ -80,4 +84,4 @@
 
 
 
-
+<!ENTITY todaypane.statusButton.label "Lastra dal di">

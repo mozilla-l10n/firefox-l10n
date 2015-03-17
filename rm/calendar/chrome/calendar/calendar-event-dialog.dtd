@@ -227,7 +227,7 @@
 <!ENTITY event.repeat.does.not.repeat.label             "Na repeta betg">
 <!ENTITY event.repeat.daily.label                       "Mintga di">
 <!ENTITY event.repeat.weekly.label                      "Mintga emna">
-<!ENTITY event.repeat.every.weekday.label               "Mintga di dal emna">
+<!ENTITY event.repeat.every.weekday.label               "Mintga di da l'emna">
 <!ENTITY event.repeat.bi.weekly.label                   "Mintga duas emnas">
 <!ENTITY event.repeat.monthly.label                     "Mintga mais">
 <!ENTITY event.repeat.yearly.label                      "Mintga onn">
@@ -235,37 +235,41 @@
 
 <!ENTITY event.recurrence.pattern.label                 "Muster da repetiziun">
 <!ENTITY event.recurrence.occurs.label                  "Repeter" >
+<!ENTITY event.recurrence.day.label                     "quotidian" >
+<!ENTITY event.recurrence.week.label                    "emnil" >
+<!ENTITY event.recurrence.month.label                   "mensil" >
+<!ENTITY event.recurrence.year.label                    "annual" >
 
+<!ENTITY event.recurrence.pattern.every.label           "Mintga" >
+<!ENTITY repeat.units.days.both                         "di(s)" >
+<!ENTITY event.recurrence.pattern.every.weekday.label   "Mintga di da l'emna" >
 
+<!ENTITY event.recurrence.pattern.weekly.every.label    "Mintga" >
+<!ENTITY repeat.units.weeks.both                        "emna(s)" >
+<!ENTITY event.recurrence.on.label                      "Ils:" >
 
+<!ENTITY event.recurrence.pattern.monthly.every.label   "Mintga" >
+<!ENTITY repeat.units.months.both                       "mais" >
+<!ENTITY event.recurrence.monthly.every.label           "Mintga" >
+<!ENTITY event.recurrence.monthly.first.label           "L'emprim">
+<!ENTITY event.recurrence.monthly.second.label          "Il segund">
+<!ENTITY event.recurrence.monthly.third.label           "Il terz">
+<!ENTITY event.recurrence.monthly.fourth.label          "Il quart">
+<!ENTITY event.recurrence.monthly.fifth.label           "Il tschintgavel">
+<!ENTITY event.recurrence.monthly.last.label            "L'ultim">
+<!ENTITY event.recurrence.pattern.monthly.week.1.label  "Dumengia" >
+<!ENTITY event.recurrence.pattern.monthly.week.2.label  "Gliendisdi" >
+<!ENTITY event.recurrence.pattern.monthly.week.3.label  "Mardi" >
+<!ENTITY event.recurrence.pattern.monthly.week.4.label  "Mesemna" >
+<!ENTITY event.recurrence.pattern.monthly.week.5.label  "Gievgia" >
+<!ENTITY event.recurrence.pattern.monthly.week.6.label  "Venderdi" >
+<!ENTITY event.recurrence.pattern.monthly.week.7.label  "Sonda" >
+<!ENTITY event.recurrence.repeat.dayofmonth.label       "Di dal mais">
+<!ENTITY event.recurrence.repeat.recur.label            "Repeter durant di(s)">
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY event.recurrence.every.label                        "Mintga:" >
+<!ENTITY repeat.units.years.both                             "Onn(s)" >
+<!ENTITY event.recurrence.pattern.yearly.every.month.label   "Mintga" >
 <!-- LOCALIZATON NOTE
      Some languages use a preposition when describing dates:
      Portuguese: 6 de Setembro
@@ -274,7 +278,7 @@
      Edit recurrence window -> Recurrence pattern -> Repeat yearly
 -->
 
-<!ENTITY event.recurrence.pattern.yearly.of.label            "" >
+<!ENTITY event.recurrence.pattern.yearly.of.label            "da" >
 
 <!ENTITY event.recurrence.pattern.yearly.month.1.label       "Schaner" >
 <!ENTITY event.recurrence.pattern.yearly.month.2.label       "Favrer" >
@@ -317,24 +321,27 @@
 <!ENTITY event.recurrence.pattern.yearly.month2.11.label     "November" >
 <!ENTITY event.recurrence.pattern.yearly.month2.12.label     "December" >
 
-
-
-
+<!ENTITY event.recurrence.range.label                   "Interval da repetiziun">
+<!ENTITY event.recurrence.forever.label                 "Nagina data da finiziun" >
+<!ENTITY event.recurrence.repeat.for.label              "Crear" >
+<!ENTITY event.recurrence.appointments.label            "Termin(s)" >
 <!ENTITY event.repeat.until.label                       "Repeter fin" >
-
+<!ENTITY event.recurrence.preview.label                 "Prevista">
 <!-- Attendees dialog -->
 
-
-
-
-
-
-
-
-
-
-<!ENTITY event.attendee.role.required           "Participants necessaris">
-<!ENTITY event.attendee.role.optional           "Participants opziunals">
+<!ENTITY invite.title.label                     "Envidar ils participants">
+<!ENTITY event.organizer.label                  "Organisatur">
+<!ENTITY event.freebusy.suggest.slot            "Proponer in interval da temp:">
+<!ENTITY event.freebusy.button.next.slot        "Proxim interval">
+<!ENTITY event.freebusy.button.previous.slot    "Ultim interval">
+<!ENTITY event.freebusy.zoom                    "Zoom:">
+<!ENTITY event.freebusy.legend.free             "Liber" >
+<!ENTITY event.freebusy.legend.busy             "Occupà" >
+<!ENTITY event.freebusy.legend.busy_tentative   "Provisoric" >
+<!ENTITY event.freebusy.legend.busy_unavailable "Betg en il biro" >
+<!ENTITY event.freebusy.legend.unknown          "Naginas infurmaziuns" >
+<!ENTITY event.attendee.role.required           "Participant necessari">
+<!ENTITY event.attendee.role.optional           "Participant opziunal">
 <!ENTITY event.attendee.role.chair              "Direcziun">
 <!ENTITY event.attendee.role.nonparticipant     "Betg participant">
 <!ENTITY event.attendee.usertype.individual     "Individual">
@@ -343,22 +350,26 @@
 <!ENTITY event.attendee.usertype.room           "Localitad">
 <!-- Timezone dialog -->
 
+<!ENTITY timezone.title.label            "Specifitgescha p.pl. la zona d'urari">
+<!ENTITY event.timezone.custom.label     "Pliras zonas d'urari…">
 <!-- Read-Only dialog -->
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY read.only.general.label         "General">
+<!ENTITY read.only.title.label           "Titel:">
+<!ENTITY read.only.event.start.label     "Data da cumenzament:">
+<!ENTITY read.only.task.start.label      "Data da cumenzament:">
+<!ENTITY read.only.event.end.label       "Data da finiziun:">
+<!ENTITY read.only.task.due.label        "Data da scadenza:">
+<!ENTITY read.only.repeat.label          "Repeter:">
+<!ENTITY read.only.location.label        "Lieu:">
+<!ENTITY read.only.category.label        "Categoria:">
+<!ENTITY read.only.organizer.label       "Organisatur:">
+<!ENTITY read.only.reply.label           "Respunder:">
+<!ENTITY read.only.accept.label          "Jau ma participesch">
+<!ENTITY read.only.decline.label         "Jau na ma participesch betg">
+<!ENTITY read.only.tentative.label       "Jau ma participesch forsa">
+<!ENTITY read.only.needs.action.label    "Jau respundel pli tard">
+<!ENTITY read.only.reminder.label        "Promomoria:">
+<!ENTITY read.only.attendees.label       "Participants">
+<!ENTITY read.only.description.label     "Descripziun">
+<!ENTITY read.only.link.label            "Colliaziun correspundenta">
