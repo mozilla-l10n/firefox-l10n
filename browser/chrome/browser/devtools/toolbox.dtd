@@ -73,12 +73,14 @@
   -  checkbox that toggles chrome debugging, i.e. devtools.chrome.enabled
   -  boolean preference in about:config, in the options panel. -->
 
+<!ENTITY options.enableChrome.label4    "Cumasaigh dífhabhtú chrome agus breiseán">
+<!ENTITY options.enableChrome.tooltip2  "Leis an rogha seo, beidh tú in ann uirlisí forbartha éagsúla a úsáid i gcomhthéacs an bhrabhsálaí, agus breiseáin a dhífhabhtú i mBainisteoir na mBreiseán">
 <!-- LOCALIZATION NOTE (options.enableRemote.label3): This is the label for the
   -  checkbox that toggles remote debugging, i.e. devtools.debugger.remote-enabled
   -  boolean preference in about:config, in the options panel. -->
 
 <!ENTITY options.enableRemote.label3    "Cumasaigh cian-dífhabhtú">
-
+<!ENTITY options.enableRemote.tooltip   "Leis an rogha seo, beidh tú in ann na huirlisí forbartha a úsáid chun cóip de Firefox ar ríomhaire nó gléas i gcéin a dhífhabhtú, mar shampla Firefox OS">
 <!-- LOCALIZATION NOTE (options.disableJavaScript.label,
   -  options.disableJavaScript.tooltip): This is the options panel label and
   -  tooltip for the checkbox that toggles JavaScript on or off. -->
@@ -90,7 +92,7 @@
   -  tooltip for the checkbox that toggles the cache on or off. -->
 
 <!ENTITY options.disableCache.label2     "Díchumasaigh an Taisce (nuair a bhíonn an bosca uirlisí oscailte)">
-
+<!ENTITY options.disableCache.tooltip2   "Leis an rogha seo, díchumasófar an taisce le haghaidh cluaisíní a bhfuil an bosca uirlisí oscailte iontu.">
 <!-- LOCALIZATION NOTE (options.selectDefaultTools.label): This is the label for
   -  the heading of group of checkboxes corresponding to the default developer
   -  tools. -->
