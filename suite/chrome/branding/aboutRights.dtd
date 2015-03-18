@@ -22,17 +22,17 @@
 
 <!ENTITY rights.intro-point2a "Ön nem kapott jogot vagy felhatalmazást a védjegyek használatára sem a Mozilla Foundationtől, sem mástól, beleértve – de nem csak erre korlátozva – a SeaMonkey nevet és logót. A védjegyekről további tudnivaló ">
 <!ENTITY rights.intro-point2b "itt">
-<!ENTITY rights.intro-point2c " olvasható.">
+<!ENTITY rights.intro-point2c ".">
 <!-- point 3 text for official branded builds -->
 
 <!ENTITY rights.intro-point3a "A &vendorShortName; terméke által beküldött személyes adatokat és visszajelzéseket a ">
-<!ENTITY rights.intro-point3b "az Adatvédelmi Irányelvek">
-<!ENTITY rights.intro-point3c " szerint kezeljük.">
+<!ENTITY rights.intro-point3b "itt">
+<!ENTITY rights.intro-point3c ".">
 <!-- point 4 text for official branded builds -->
 
 <!ENTITY rights2.intro-point4a "A &brandShortName; webalapú információs szolgáltatásokat is nyújt, mindazonáltal nem garantálható, hogy ezek 100&#037;-osan pontosak és hibamentesek. A szolgáltatások letiltásáról szóló információk a ">
 <!ENTITY rights.intro-point4b "szolgáltatás feltételei">
-<!ENTITY rights.intro-point4c " dokumentumban olvashatók.">
+<!ENTITY rights.intro-point4c ".">
 
 <!ENTITY rights.webservices-header "&brandFullName; webalapú információs szolgáltatások">
 <!-- Note that this paragraph references entities from extensions.dtd,
@@ -57,7 +57,7 @@
 
 <!ENTITY rights.safebrowsing-a "Safe Browsing:">
 <!ENTITY rights.safebrowsing-b "A Safe Browsing (biztonságos böngészés) funkciót nem ajánlott letiltani, mert akkor nem biztonságos webhelyekre is eljuthat. Ha teljesen le akarja tiltani a funkciót, kövesse az alábbi lépéseket:">
-<!ENTITY rights.safebrowsing-term1 "Nyissa meg az alkalmazás beállítópaneljét.">
+<!ENTITY rights.safebrowsing-term1 "Nyissa meg az alkalmazás beállítópaneljét">
 <!ENTITY rights.safebrowsing-term2 "Nyissa meg a fő &security.label; beállítópanelt.">
 <!ENTITY rights.safebrowsing-term3 "Vegye ki a jelölést a „&blockAttackSites.label;” és a  „&blockWebForgeries.label;” jelölőnégyzetekből.">
 <!ENTITY rights.safebrowsing-term4 "A Safe Browsing most le van tiltva.">
