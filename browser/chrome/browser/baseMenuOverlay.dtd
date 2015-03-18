@@ -14,9 +14,9 @@
                        for the help button in the menubar but Gnome does not.   -->
 <!ENTITY helpMenuWin.label        "Aduya"> 
 <!ENTITY helpMenuWin.accesskey    "u">
-<!ENTITY aboutProduct2.label      "Arredol d'o &brandShortName;">
+<!ENTITY aboutProduct2.label      "Arredol d'o &brandShorterName;">
 <!ENTITY aboutProduct2.accesskey  "d">
-<!ENTITY productHelp2.label       "Aduya d'o &brandShortName;">
+<!ENTITY productHelp2.label       "Aduya d'o &brandShorterName;">
 <!ENTITY productHelp2.accesskey   "A">
 <!ENTITY helpMac.commandkey       "?">
 
@@ -26,7 +26,7 @@
 <!ENTITY helpSafeMode.label       "Reiniciar con os complementos desactivaus…">
 <!ENTITY helpSafeMode.accesskey   "R">
 
-<!ENTITY healthReport2.label      "Reporte de salut de &brandShortName;">
+<!ENTITY healthReport2.label      "Reporte de salut de &brandShorterName;">
 <!ENTITY healthReport2.accesskey  "e">
 
 <!ENTITY helpTroubleshootingInfo.label      "Información ta solucionar problemas">
@@ -35,7 +35,7 @@
 <!ENTITY helpFeedbackPage.label      "Ninviar una opinión…">
 <!ENTITY helpFeedbackPage.accesskey  "v">
 
-<!ENTITY helpShowTour2.label            "Vesita guiada por &brandShortName;">
+<!ENTITY helpShowTour2.label            "Vesita guiada por &brandShorterName;">
 <!ENTITY helpShowTour2.accesskey        "s">
 
 <!ENTITY preferencesCmdMac.label        "Preferencias…">
@@ -43,7 +43,7 @@
 
 <!ENTITY servicesMenuMac.label          "Servicios">
 
-<!ENTITY hideThisAppCmdMac2.label       "Amagar o &brandShortName;">
+<!ENTITY hideThisAppCmdMac2.label       "Amagar o &brandShorterName;">
 <!ENTITY hideThisAppCmdMac2.commandkey  "g">
 
 <!ENTITY hideOtherAppsCmdMac.label      "Amagar os atros">
