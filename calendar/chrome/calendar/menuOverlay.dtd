@@ -10,7 +10,7 @@
 <!ENTITY event.new.task.accesskey               "t">
 
 <!ENTITY calendar.import.label                  "Importeren…">
-<!ENTITY calendar.import.accesskey              "I">
+<!ENTITY calendar.import.accesskey              "m">
 
 <!ENTITY calendar.export.label                  "Exporteren…">
 <!ENTITY calendar.export.accesskey              "x">
@@ -46,4 +46,4 @@
 <!ENTITY showCurrentView.accesskey              "H">
 
 <!ENTITY calendar.properties.label              "Agenda-eigenschappen…">
-<!ENTITY calendar.properties.accesskey          "e">
+<!ENTITY calendar.properties.accesskey          "d">

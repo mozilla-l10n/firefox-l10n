@@ -16,7 +16,7 @@
 <!ENTITY lightning.menupopup.new.task.label     "Taak…">
 <!ENTITY lightning.menupopup.new.task.accesskey "T">
 <!ENTITY lightning.menupopup.new.calendar.label "Agenda…">
-<!ENTITY lightning.menupopup.new.calendar.accesskey "n">
+<!ENTITY lightning.menupopup.new.calendar.accesskey "d">
 
 <!-- Open menu popup in File menu -->
 <!ENTITY lightning.menupopup.open.label               "Openen">
