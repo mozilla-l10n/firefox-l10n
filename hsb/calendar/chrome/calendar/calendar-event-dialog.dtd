@@ -198,8 +198,8 @@
 <!ENTITY event.attachments.popup.open.accesskey           "o" >
 <!ENTITY event.attachments.popup.removeAll.label          "Wšě wotstronić" >
 <!ENTITY event.attachments.popup.removeAll.accesskey      "W" >
-
-
+<!ENTITY event.attachments.popup.attachPage.label         "Webstronu připowěsnyć…" >
+<!ENTITY event.attachments.popup.attachPage.accesskey     "W" >
 <!ENTITY event.url.label                                  "Přiwuzny wotkaz:" >
 <!ENTITY event.priority2.label                            "Priorita:">
 
@@ -213,15 +213,20 @@
 <!ENTITY event.reminder.12hours.before.label              "12 hodźin do toho" >
 <!ENTITY event.reminder.1day.before.label                 "1 dźeń do toho" >
 <!ENTITY event.reminder.2days.before.label                "2 dnjej do toho" >
+<!ENTITY event.reminder.1week.before.label                "1 tydźeń do toho" >
+<!ENTITY event.reminder.custom.label                      "Swójske…" >
 
+<!ENTITY event.reminder.multiple.label                    "Wjacore dopomnjeća…" >
 
-
-
-
+<!ENTITY event.statusbarpanel.freebusy.label              "Čas jako:">
+<!ENTITY event.statusbarpanel.privacy.label               "Priwatnosć:">
 <!-- Recurrence dialog -->
 
+<!ENTITY recurrence.title.label                         "Wospjetowanje wobdźěłać">
 
-
+<!ENTITY event.repeat.does.not.repeat.label             "Njewospjetuje so">
+<!ENTITY event.repeat.daily.label                       "Kóždy dźeń">
+<!ENTITY event.repeat.weekly.label                      "Kóždy tydźeń">
 <!ENTITY event.repeat.every.weekday.label               "Kóždy wšědny dźeń">
 <!ENTITY event.repeat.bi.weekly.label                   "Dwunjedźelsce">
 <!ENTITY event.repeat.monthly.label                     "Kóždy měsac">
@@ -237,11 +242,13 @@
 
 <!ENTITY event.recurrence.pattern.every.label           "Kóždy" >
 <!ENTITY repeat.units.days.both                         "Dźeń" >
+<!ENTITY event.recurrence.pattern.every.weekday.label   "Kóždy wšědny dźeń" >
 
+<!ENTITY event.recurrence.pattern.weekly.every.label    "Kóždy" >
+<!ENTITY repeat.units.weeks.both                        "tydźeń" >
+<!ENTITY event.recurrence.on.label                      "On:" >
 
-
-
-
+<!ENTITY event.recurrence.pattern.monthly.every.label   "Kóždy" >
 <!ENTITY repeat.units.months.both                       "měsac" >
 <!ENTITY event.recurrence.monthly.every.label           "Kóždy" >
 <!ENTITY event.recurrence.monthly.first.label           "prěni">
@@ -254,12 +261,13 @@
 <!ENTITY event.recurrence.pattern.monthly.week.2.label  "Póndźela" >
 <!ENTITY event.recurrence.pattern.monthly.week.3.label  "Wutora" >
 <!ENTITY event.recurrence.pattern.monthly.week.4.label  "Srjeda" >
+<!ENTITY event.recurrence.pattern.monthly.week.5.label  "Štwórtk" >
+<!ENTITY event.recurrence.pattern.monthly.week.6.label  "Pjatk" >
+<!ENTITY event.recurrence.pattern.monthly.week.7.label  "Sobota" >
+<!ENTITY event.recurrence.repeat.dayofmonth.label       "Dźeń měsaca">
+<!ENTITY event.recurrence.repeat.recur.label            "Wospjetowanje na dźeń">
 
-
-
-
-
-
+<!ENTITY event.recurrence.every.label                        "Kóždy:" >
 <!ENTITY repeat.units.years.both                             "lěto" >
 <!ENTITY event.recurrence.pattern.yearly.every.month.label   "Kóžde" >
 <!-- LOCALIZATON NOTE
@@ -278,15 +286,15 @@
 <!ENTITY event.recurrence.pattern.yearly.month.4.label       "apryl" >
 <!ENTITY event.recurrence.pattern.yearly.month.5.label       "meja" >
 <!ENTITY event.recurrence.pattern.yearly.month.6.label       "junij" >
-
-
-
-
-
-
-
-
-
+<!ENTITY event.recurrence.pattern.yearly.month.7.label       "julij" >
+<!ENTITY event.recurrence.pattern.yearly.month.8.label       "awgust" >
+<!ENTITY event.recurrence.pattern.yearly.month.9.label       "september" >
+<!ENTITY event.recurrence.pattern.yearly.month.10.label      "oktober" >
+<!ENTITY event.recurrence.pattern.yearly.month.11.label      "nowember" >
+<!ENTITY event.recurrence.pattern.yearly.month.12.label      "december" >
+<!ENTITY event.recurrence.yearly.every.label                 "Kóžde">
+<!ENTITY event.recurrence.yearly.first.label                 "prěni">
+<!ENTITY event.recurrence.yearly.second.label                "druhi">
 <!ENTITY event.recurrence.yearly.third.label                 "třeće">
 <!ENTITY event.recurrence.yearly.fourth.label                "štwórte">
 <!ENTITY event.recurrence.yearly.fifth.label                 "pjate">
@@ -296,14 +304,14 @@
 <!ENTITY event.recurrence.pattern.yearly.week.3.label        "wutora" >
 <!ENTITY event.recurrence.pattern.yearly.week.4.label        "srjeda" >
 <!ENTITY event.recurrence.pattern.yearly.week.5.label        "štwórtk" >
-
-
-
-
-
-
-
-
+<!ENTITY event.recurrence.pattern.yearly.week.6.label        "pjatk" >
+<!ENTITY event.recurrence.pattern.yearly.week.7.label        "sobota" >
+<!ENTITY event.recurrence.pattern.yearly.day.label           "dźeń" >
+<!ENTITY event.recurrence.of.label                           "of" >
+<!ENTITY event.recurrence.pattern.yearly.month2.1.label      "januar" >
+<!ENTITY event.recurrence.pattern.yearly.month2.2.label      "februar" >
+<!ENTITY event.recurrence.pattern.yearly.month2.3.label      "Měrc" >
+<!ENTITY event.recurrence.pattern.yearly.month2.4.label      "apryl" >
 <!ENTITY event.recurrence.pattern.yearly.month2.5.label      "meja" >
 <!ENTITY event.recurrence.pattern.yearly.month2.6.label      "junij" >
 <!ENTITY event.recurrence.pattern.yearly.month2.7.label      "julij" >
@@ -313,25 +321,28 @@
 <!ENTITY event.recurrence.pattern.yearly.month2.11.label     "nowember" >
 <!ENTITY event.recurrence.pattern.yearly.month2.12.label     "december" >
 
-
-
-
-
-
+<!ENTITY event.recurrence.range.label                   "Wobłuk wospjetowanja">
+<!ENTITY event.recurrence.forever.label                 "Žadyn kónčny datum" >
+<!ENTITY event.recurrence.repeat.for.label              "Wutworić" >
+<!ENTITY event.recurrence.appointments.label            "Terminy" >
+<!ENTITY event.repeat.until.label                       "Wospjetować hač do" >
+<!ENTITY event.recurrence.preview.label                 "Přehlad">
 <!-- Attendees dialog -->
 
-
-
-
-
-
-
-
-
-
+<!ENTITY invite.title.label                     "Wobdźělnikow přeprosyć">
+<!ENTITY event.organizer.label                  "Organizator">
+<!ENTITY event.freebusy.suggest.slot            "Čas namjetować:">
+<!ENTITY event.freebusy.button.next.slot        "Přichodne městno">
+<!ENTITY event.freebusy.button.previous.slot    "Předchadne městno">
+<!ENTITY event.freebusy.zoom                    "Skalowanje:">
+<!ENTITY event.freebusy.legend.free             "Swobodny" >
+<!ENTITY event.freebusy.legend.busy             "Njeswobodny" >
+<!ENTITY event.freebusy.legend.busy_tentative   "Nachwilu" >
+<!ENTITY event.freebusy.legend.busy_unavailable "zwonka domu" >
+<!ENTITY event.freebusy.legend.unknown          "Žane informacije" >
 <!ENTITY event.attendee.role.required           "Trěbny wobdźělnik">
 <!ENTITY event.attendee.role.optional           "Móžny wobdźělnik">
-<!ENTITY event.attendee.role.chair              "Nawodnistwo">
+<!ENTITY event.attendee.role.chair              "Předsyda">
 <!ENTITY event.attendee.role.nonparticipant     "Žadyn wobdźělnik">
 <!ENTITY event.attendee.usertype.individual     "Jednotliwc">
 <!ENTITY event.attendee.usertype.group          "Skupina">
@@ -339,24 +350,26 @@
 <!ENTITY event.attendee.usertype.room           "Rumnosć">
 <!-- Timezone dialog -->
 
+<!ENTITY timezone.title.label            "Prošu podajće časowe pasmo">
+<!ENTITY event.timezone.custom.label     "Dalše časowe pasma…">
 <!-- Read-Only dialog -->
 
 <!ENTITY read.only.general.label         "Powšitkowny">
-
-
-
-
-
-
-
-
+<!ENTITY read.only.title.label           "Titul:">
+<!ENTITY read.only.event.start.label     "Spočatny datum:">
+<!ENTITY read.only.task.start.label      "Spočatny datum:">
+<!ENTITY read.only.event.end.label       "Kónčny datum:">
+<!ENTITY read.only.task.due.label        "Termin:">
+<!ENTITY read.only.repeat.label          "Wospjetować:">
+<!ENTITY read.only.location.label        "Městno:">
+<!ENTITY read.only.category.label        "Kategorija:">
 <!ENTITY read.only.organizer.label       "Organizator:">
-
-
-
-
-
-
-
-
-
+<!ENTITY read.only.reply.label           "Wotmołwa:">
+<!ENTITY read.only.accept.label          "Wobdźělu so">
+<!ENTITY read.only.decline.label         "Njewobdźělu so">
+<!ENTITY read.only.tentative.label       "Snano so wobdźělu">
+<!ENTITY read.only.needs.action.label    "Wobkruću pozdźišo">
+<!ENTITY read.only.reminder.label        "Dopomnjeće:">
+<!ENTITY read.only.attendees.label       "Wobdźělnicy">
+<!ENTITY read.only.description.label     "Wopisanje">
+<!ENTITY read.only.link.label            "Přiwuzny wotkaz">
