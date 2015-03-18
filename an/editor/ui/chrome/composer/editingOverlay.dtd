@@ -3,36 +3,30 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!-- File menu items -->
 
-<!ENTITY openFileCmd.label "Ubrir un fichero">
-<!ENTITY openFileCmd.accesskey "U">
-<!ENTITY openFileCmd.key "U">
-<!ENTITY openRemoteCmd.label "Ubrir un puesto web">
-<!ENTITY openRemoteCmd.accesskey "p">
-<!ENTITY openRemoteCmd.key "P">
-<!ENTITY fileRecentMenu.label "Pachinas recients">
-<!ENTITY fileRecentMenu.accesskey "r">
-<!ENTITY saveCmd.label "Alzar">
-<!ENTITY saveCmd.accesskey "A">
-<!ENTITY saveAsCmd.label "Alzar-ne una copia como...">
-<!ENTITY saveAsCmd.accesskey "c">
-<!ENTITY saveAsChangeEncodingCmd.label "Alzar y cambiar a codificación d'os caracters">
-<!ENTITY saveAsChangeEncodingCmd.accesskey "e">
-<!ENTITY publishCmd.label "Publicar">
-<!ENTITY publishCmd.accesskey "b">
-<!ENTITY publishCmd.key "S">
-<!ENTITY publishAsCmd.label "Publicar como...">
-<!ENTITY publishAsCmd.accesskey "m">
-<!ENTITY fileRevert.label "Tornar ta la zaguera versión almagazenada">
-<!ENTITY fileRevert.accesskey "T">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <!-- Edit menu items -->
 
-<!ENTITY publishSettings.label "Parametros d'a publicación">
-<!ENTITY publishSettings.accesskey "b">
 <!-- Toolbar buttons/items -->
 
-<!ENTITY newToolbarCmd.label "Nueva">
-<!ENTITY newToolbarCmd.tooltip "Creyar una pachina nueva con o Composer">
-<!ENTITY openToolbarCmd.label "Ubrir">
-<!ENTITY openToolbarCmd.tooltip "Ubrir un fichero local">
-<!ENTITY saveToolbarCmd.tooltip "Alzar o fichero en una ubicación local">
-<!ENTITY publishToolbarCmd.tooltip "Puyar o fichero ta una ubicación remota">
+
+
+
+

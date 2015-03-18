@@ -1,33 +1,29 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-
-<!ENTITY serverAdvanced.label "Configuración abanzada de cuentas">
 <!-- LOCALIZATION NOTE (serverDirectory.label): Do not translate "IMAP" -->
-<!ENTITY serverDirectory.label "directorio d'o servidor IMAP:">
-<!ENTITY serverDirectory.accesskey "d">
-<!ENTITY usingSubscription.label "Amostrar solament as carpetas suscritas">
-<!ENTITY usingSubscription.accesskey "u">
-<!ENTITY dualUseFolders.label "O servidor admite carpetas que contengan sub-carpetas y mensaches">
-<!ENTITY dualUseFolders.accesskey "g">
-<!ENTITY useIdle.label "Usar comando ITZ-LE si o servidor l'admite">
-<!ENTITY useIdle.accesskey "I">
-<!ENTITY maximumConnectionsNumber.label "Número maximo de connexions d'o servidor a la caché">
-<!ENTITY maximumConnectionsNumber.accesskey "m">
+
+
+
+
+
+
+
+
+
 <!-- LOCALIZATION NOTE (namespaceDesc.label): Do not translate "IMAP" -->
-<!ENTITY namespaceDesc.label "Istas preferencias especifican os espacios de nombres en o suyo servidor IMAP">
-<!ENTITY personalNamespace.label "Yepacio de nombres personal:">
-<!ENTITY personalNamespace.accesskey "p">
-<!ENTITY publicNamespace.label "Público (compartiu):">
-<!ENTITY publicNamespace.accesskey "b">
-<!ENTITY otherUsersNamespace.label "Atros usuarios:">
-<!ENTITY otherUsersNamespace.accesskey "A">
-<!ENTITY overrideNamespaces.label "Permitir que o servidor reemplace istes espacios de nombres">
-<!ENTITY overrideNamespaces.accesskey "a">
-<!ENTITY pop3Desc.label "Al descargar o correu pop d'iste servidor, usar ista carpeta ta o correu nuevo:" >
-<!ENTITY accountDirectory.label "Servilla de dentrada t'a cuenta de yste servidor">
-<!ENTITY accountDirectory.accesskey "s">
-<!ENTITY deferToServer.label "Bandeixa de dentrada ta una cuenta distinta">
-<!ENTITY deferToServer.accesskey "d">
-<!ENTITY deferGetNewMail.label "Incluir iste servidor en recibir correu nuevo">
-<!ENTITY deferGetNewMail.accesskey "I">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

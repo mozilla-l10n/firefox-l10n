@@ -2,19 +2,17 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY fieldMapImport.title "Importar libreta d'adrezas">
-<!ENTITY fieldMapImport.size "width: 40em; height: 30em;">
-<!ENTITY fieldMapImport.recordNumber "Datos importaus ta o rechistro: ">
-<!ENTITY fieldMapImport.next.label "Siguient">
-<!ENTITY fieldMapImport.next.accesskey "S">
-<!ENTITY fieldMapImport.previous.label "Anterior">
-<!ENTITY fieldMapImport.previous.accesskey "A">
-<!ENTITY fieldMapImport.text "Use puyar y baixar ta esleir l'orden os campos d'a libreta d'adrezas d'a cucha ta importar en a parte dreita. Desmarque os elementos que no quiera importar.">
-<!ENTITY fieldMapImport.up.label "Subir">
-<!ENTITY fieldMapImport.up.accesskey "u">
-<!ENTITY fieldMapImport.down.label "Mover abaixo">
-<!ENTITY fieldMapImport.down.accesskey "o">
-<!ENTITY fieldMapImport.fieldListTitle "Campos d'a libreta d'adrezas">
-<!ENTITY fieldMapImport.dataTitle "Rechistros de datos a importar:">
-<!ENTITY fieldMapImport.skipFirstRecord.label "O primer rechistro contiene nombres de campo">
-<!ENTITY fieldMapImport.skipFirstRecord.accessKey "p">
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -3,26 +3,22 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!-- Help Menu -->
 
-<!ENTITY helpMenu.label "Aiuda">
-<!ENTITY helpMenu.accesskey "u">
 <!-- LOCALIZATION NOTE some localizations of Windows use "?"
                        for the help button in the menubar but Gnome does not.   -->
-<!ENTITY helpMenuWin.label "Aiuda">
-<!ENTITY helpMenuWin.accesskey "u">
-<!ENTITY helpTroubleshootingInfo.label     "Información sobre resolución de problemas">
-<!ENTITY helpTroubleshootingInfo.accesskey "I">
-<!ENTITY helpSafeMode.label     "Reiniciar con os complementos desactivados…">
-<!ENTITY helpSafeMode.accesskey "R">
-<!ENTITY releaseCmd2.label "Notas d'ista versión">
-<!ENTITY releaseCmd2.accesskey "N">
-<!ENTITY whatsNewCmd.label "Qué i hai de nuevo">
-<!ENTITY whatsNewCmd.accesskey "Q">
-<!ENTITY openHelp.label "Contenius de l'aiuda">
-<!ENTITY openHelp.accesskey "u">
-<!ENTITY openHelp.commandkey "VK_F1">
-<!ENTITY openHelpMac.label "Aduya de &brandShortName;">
-<!ENTITY openHelpMac2.commandkey   "?">
-<!ENTITY openHelpMac2.modifiers    "accel">
 
-<!ENTITY aboutMenuCmd.label "Arredol de &brandShortName;">
-<!ENTITY aboutMenuCmd.accesskey "d">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

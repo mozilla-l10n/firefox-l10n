@@ -4,6 +4,3 @@
 <!--LOCALIZATION NOTE shown while obtaining certificates from a directory -->
 
 
-<!ENTITY title.label "Descargando certificaus">
-<!ENTITY info.message "Buscando en o directorio os certificaus d'os destinatarios. Isto puede levar uns menutos.">
-<!ENTITY stop.label "Aturar a busca">

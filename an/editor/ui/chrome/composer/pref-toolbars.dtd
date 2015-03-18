@@ -2,38 +2,31 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY pref.toolbars.title    "Barras de ferramientas">
 
-<!ENTITY composition.caption    "Amostrar istos botons en a barra de ferramientas de redacción:">
 
-<!ENTITY new.label              "Nuevo">
-<!ENTITY open.label             "Ubrir">
-<!ENTITY save.label             "Alzar">
-<!ENTITY publish.label          "Publicar">
-<!ENTITY preview.label          "Navegar">
-<!ENTITY cut.label              "Retallar">
-<!ENTITY copy.label             "Copiar">
-<!ENTITY paste.label            "Apegar">
-<!ENTITY print.label            "Imprentar">
-<!ENTITY find.label             "Mirar">
-<!ENTITY image.label            "Imachen">
-<!ENTITY hline.label            "Linia horiz.">
-<!ENTITY table.label            "Tabla">
-<!ENTITY link.label             "Vinclo">
-<!ENTITY anchor.label           "Ancora">
 
-<!ENTITY formatting.caption     "Amostrar istos botons en a barra de ferramientas de formato:">
 
-<!ENTITY smaller.label          "Mas chicot">
-<!ENTITY larger.label           "Mas gran">
-<!ENTITY bold.label             "Negreta">
-<!ENTITY bullets.label          "Vinyetas">
-<!ENTITY numbers.label          "Numeros">
-<!ENTITY italic.label           "Cursiva">
-<!ENTITY outdent.label          "Reducir o sangrau">
-<!ENTITY indent.label           "Sangrar">
-<!ENTITY underline.label        "Subrayau">
 
-<!ENTITY absolutePosition.label "Posicionamiento absoluto">
-<!ENTITY decreaseZIndex.label   "Ninviar a o fundo">
-<!ENTITY increaseZIndex.label   "Portar a o primer plan">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

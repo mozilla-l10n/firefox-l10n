@@ -3,26 +3,23 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!-- Window title -->
 
-<!ENTITY windowTitle.label "Colors y fundo d'a pachina">
-<!ENTITY pageColors.label "Colors d'a pachina">
-<!ENTITY defaultColorsRadio.label "Colors por defecto d'o lector (no fixar as colors d'a pachina)">
-<!ENTITY defaultColorsRadio.accessKey "d">
-<!ENTITY defaultColorsRadio.tooltip "Emplegar nomás os parametros de color d'o navegador d'o lector">
-<!ENTITY customColorsRadio.label "Emplegar as colors personalizadas:">
-<!ENTITY customColorsRadio.accessKey "c">
-<!ENTITY customColorsRadio.tooltip "Istos parametros de colors substituyen a os d'o navegador d'o lector">
 
-<!ENTITY normalText.label "Texto normal">
-<!ENTITY normalText.accessKey "n">
-<!ENTITY linkText.label "Texto d'o vinclo">
-<!ENTITY linkText.accessKey "v">
-<!ENTITY activeLinkText.label "Texto d'o vinclo activo">
-<!ENTITY activeLinkText.accessKey "a">
-<!ENTITY visitedLinkText.label "Texto d'o vinclo visitau">
-<!ENTITY visitedLinkText.accessKey "s">
-<!ENTITY background.label "Fundo:">
-<!ENTITY background.accessKey "F">
-<!ENTITY colon.character ":">
-<!ENTITY backgroundImage.label "Imachen de fundo:">
-<!ENTITY backgroundImage.accessKey "m">
-<!ENTITY backgroundImage.tooltip "Emplegar un fichero d'imachen como fundo ta la pachina">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

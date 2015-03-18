@@ -2,12 +2,6 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY offlineDialog.title "Configuración sin connexión">
-
-
-
-<!ENTITY radioRememberPrevState.label "Recordar o estau de connexión anterior">
-<!ENTITY radioRememberPrevState.accesskey "R">
 
 
 
@@ -15,17 +9,20 @@
 
 
 
-<!ENTITY textGoingOnline "Ninviar mensaches pendients en pasar a modo con connexión?">
-<!ENTITY radioAutoSend.label "Sí">
-<!ENTITY radioAutoSend.accesskey "S">
-<!ENTITY radioNotSend.label "No">
-<!ENTITY radioNotSend.accesskey "N">
-<!ENTITY radioAskUnsent.label "Preguntar-me/Preguntar'me">
-<!ENTITY radioAskUnsent.accesskey "P">
-<!ENTITY textGoingOffline "Descargar mensaches t'o suyo uso desconectado en pasar a modo sin connexión?">
-<!ENTITY radioAutoDownload.label "Siempre">
-<!ENTITY radioAutoDownload.accesskey "m">
-<!ENTITY radioNotDownload.label "Nunca">
-<!ENTITY radioNotDownload.accesskey "c">
-<!ENTITY radioAskDownload.label "Preguntarme">
-<!ENTITY radioAskDownload.accesskey "e">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

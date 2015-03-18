@@ -5,63 +5,49 @@
 <!-- LOCALIZATION NOTE  (editorWindow.titlemodifier): DONT_TRANSLATE -->
 
 <!ENTITY editorWindow.titlemodifier "Composer"> 
-<!ENTITY editorWindow.titlemodifiermenuseparator " - ">
+
 <!-- Menu items:  the . means that the menu item isn't implemented yet -->
 <!-- Toolbar-only items -->
 
 
-<!ENTITY compositionToolbar.tooltip "Barra de redacción">
-<!ENTITY previewToolbarCmd.label "Navegar">
-<!ENTITY previewToolbarCmd.tooltip "Cargar ista pachina en o navegador">
 <!-- File menu items -->
 
-<!ENTITY exportToTextCmd.label "Exportar como texto,,,">
-<!ENTITY exportToTextCmd.accesskey "x">
-<!ENTITY previewCmd.label "Amostrar a pachina">
-<!ENTITY previewCmd.accesskey "n">
-<!ENTITY sendPageCmd.label "Ninviar a pachina,,,">
-<!ENTITY sendPageCmd.accesskey "v">
+
+
+
+
 <!-- View menu items -->
 
-<!ENTITY compositionToolbarCmd.label "Barra de redacción">
-<!ENTITY compositionToolbarCmd.accesskey "c">
-<!ENTITY formattingToolbarCmd.label "Barra de ferramientas de formato">
-<!ENTITY formattingToolbarCmd.accesskey "f">
-<!ENTITY editmodeToolbarCmd.label "Barra de ferramientas d'o modo d'edición">
-<!ENTITY editmodeToolbarCmd.accesskey "m">
+
+
+
+
 <!-- Format menu items -->
 
-<!ENTITY formatMenu.label "Formato">
-<!ENTITY formatMenu.accesskey "o">
-<!ENTITY grid.label "Rella de posición">
-<!ENTITY grid.accesskey "R">
-<!ENTITY pageProperties.label "Titol d'a pachina y propiedatz">
-<!ENTITY pageProperties.accesskey "T">
+
+
+
+
 <!-- Tools menu items -->
 
-<!ENTITY validateCmd.label "Validar l'HTML">
-<!ENTITY validateCmd.accesskey "V">
 <!-- Display Mode toolbar and View menu items -->
 
-<!ENTITY NormalModeTab.label "Normal">
-<!ENTITY NormalMode.label "Modo d'edición normal">
-<!ENTITY NormalMode.accesskey "n">
-<!ENTITY NormalMode.tooltip "Amostrar os cantos d'as tablas y as ancoras con nombre">
-<!ENTITY AllTagsModeTab.label "Etiquetas HTML">
-<!ENTITY AllTagsMode.label "Etiquetas HTML">
-<!ENTITY AllTagsMode.accesskey "E">
-<!ENTITY AllTagsMode.tooltip "Amostrar os iconos de todas as etiquetas HTML">
+
+
+
+
+
+
 <!-- LOCALIZATION NOTE: (HTMLSourceModeTab.dir, HTMLSourceModeTab.label)
      Do NOT translate text for 'HTMLSourceModeTab.dir', use latin "ltr" if
      you want the <html> image to left of the 'HTMLSourceModeTab.label' text,
      or use latin "rtl" if you want this image to the right of text. You do
      not need to include HTML in the label 'HTMLSourceModeTab.label' -->
-<!ENTITY HTMLSourceModeTab.dir "ltr">
-<!ENTITY HTMLSourceModeTab.label "Codigo fuent">
-<!ENTITY HTMLSourceMode.label "Codigo fuent HTML">
-<!ENTITY HTMLSourceMode.accesskey "H">
-<!ENTITY HTMLSourceMode.tooltip "Editar o codigo fuent HTML">
-<!ENTITY PreviewModeTab.label "Anvista previa">
-<!ENTITY PreviewMode.label "Anvista previa">
-<!ENTITY PreviewMode.accesskey "A">
-<!ENTITY PreviewMode.tooltip "WYSIWYG (talqual se i veye)">
+
+
+
+
+
+
+
+

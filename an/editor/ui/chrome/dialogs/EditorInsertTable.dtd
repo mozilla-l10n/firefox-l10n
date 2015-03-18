@@ -3,16 +3,13 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!-- Window title -->
 
-<!ENTITY windowTitle.label "Ficar una tabla">
 
-<!ENTITY size.label "Mida">
-<!ENTITY numRowsEditField.label "Ringleras:">
-<!ENTITY numRowsEditField.accessKey "R">
-<!ENTITY numColumnsEditField.label "Columnas:">
-<!ENTITY numColumnsEditField.accessKey "C">
-<!ENTITY widthEditField.label "Amplaria:">
-<!ENTITY widthEditField.accessKey "A">
-<!ENTITY borderEditField.label "Canto:">
-<!ENTITY borderEditField.accessKey "C">
-<!ENTITY borderEditField.tooltip "Introduzca un numero ta o canto d'a tabla, u zero (0) si no'n quiere">
-<!ENTITY pixels.label "pixels">
+
+
+
+
+
+
+
+
+

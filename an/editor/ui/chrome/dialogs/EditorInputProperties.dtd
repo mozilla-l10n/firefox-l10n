@@ -2,49 +2,44 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY windowTitle.label "Propiedatz d'o campo d'o formulario">
-<!ENTITY windowTitleImage.label "Propiedatz d'a imachen d'o formulario">
 
-<!ENTITY InputType.label "Tipo d'o campo">
-<!ENTITY InputType.accesskey "T">
-<!ENTITY text.value "Texto">
-<!ENTITY password.value "Clau d'acceso">
-<!ENTITY checkbox.value "Caixeta de selección">
-<!ENTITY radio.value "Botón d'opción">
-<!ENTITY submit.value "Botón de ninvio">
-<!ENTITY reset.value "Botón de reinicio">
-<!ENTITY file.value "Fichero">
-<!ENTITY hidden.value "Amagau">
-<!ENTITY image.value "Imachen">
-<!ENTITY button.value "Botón">
 
-<!ENTITY InputSettings.label "Parametros d'o campo">
-<!ENTITY InputName.label "Nombre d'o campo:">
-<!ENTITY InputName.accesskey "N">
-<!ENTITY GroupName.label "Nombre d'o grupo:">
-<!ENTITY GroupName.accesskey "N">
-<!ENTITY InputValue.label "Valura d'o campo:">
-<!ENTITY InputValue.accesskey "V">
-<!ENTITY InitialValue.label "Valura inicial:">
-<!ENTITY InitialValue.accesskey "V">
-<!ENTITY InputChecked.label "Verificau inicialment">
-<!ENTITY InputChecked.accesskey "f">
-<!ENTITY InputSelected.label "Trigau en iniciar">
-<!ENTITY InputSelected.accesskey "T">
-<!ENTITY InputReadOnly.label "Nomás de lectura">
-<!ENTITY InputReadOnly.accesskey "l">
-<!ENTITY InputDisabled.label "Desactivau">
-<!ENTITY InputDisabled.accesskey "D">
-<!ENTITY tabIndex.label "Indiz de pestanyas:">
-<!ENTITY tabIndex.accesskey "p">
-<!ENTITY TextSize.label "Mida d'o campo:">
-<!ENTITY TextSize.accesskey "M">
-<!ENTITY TextLength.label "Longaria maxima:">
-<!ENTITY TextLength.accesskey "L">
-<!ENTITY AccessKey.label "Clau d'acceso:">
-<!ENTITY AccessKey.accesskey "C">
-<!ENTITY Accept.label "Acceptar os tipos:">
-<!ENTITY Accept.accesskey "A">
 
-<!ENTITY ImageProperties.label "Propiedatz d'a imachen…">
-<!ENTITY ImageProperties.accesskey "c">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

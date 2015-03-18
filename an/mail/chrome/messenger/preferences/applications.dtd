@@ -2,37 +2,28 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY  typeColumn.label            "Tipo de conteniu">
-<!ENTITY  typeColumn.accesskey        "T">
 
-<!ENTITY  actionColumn2.label         "Acción">
-<!ENTITY  actionColumn2.accesskey     "A">
 
-<!ENTITY  focusSearch1.key            "f">
-<!ENTITY  focusSearch2.key            "k">
 
-<!ENTITY  filter.placeholder          "Buscar">
 
-<!ENTITY saveTo.label                 "Alzar fichers en">
-<!ENTITY saveTo.accesskey             "A">
-<!ENTITY alwaysAsk.label              "Preguntar-me/Preguntar'me siempre án alzar fichers">
-<!ENTITY alwaysAsk.accesskey          "P">
-<!ENTITY chooseFolderWin.label        "Yxaminar…">
-<!ENTITY chooseFolderWin.accesskey    "x">
-<!ENTITY chooseFolderMac.label        "Esleir…">
-<!ENTITY chooseFolderMac.accesskey    "E">
 
-<!ENTITY attachments.incoming.label   "Dentrant">
-<!ENTITY attachments.outgoing.label   "Outgoing">
 
-<!ENTITY addCloudFileAccount.label        "Add">
-<!ENTITY addCloudFileAccount.accesskey    "A">
-<!ENTITY addCloudFileAccount.description  "Add a new Filelink storage service">
-<!ENTITY removeCloudFileAccount.label     "Remove">
-<!ENTITY removeCloudFileAccount.accesskey "R">
-<!ENTITY authRequired.description         "Your authorization is required in order to see the settings for this storage service.">
-<!ENTITY authRequired.button.label        "Authorize">
-<!ENTITY authRequired.button.accesskey    "u">
 
-<!ENTITY enableCloudFileAccountOffer.label "Offer to share for files larger than">
-<!ENTITY enableCloudFileAccountOffer.mb "MB">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

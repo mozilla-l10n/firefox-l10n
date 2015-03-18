@@ -2,32 +2,27 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY windowTitle.label "Propiedatz de l'aria de texto">
 
-<!ENTITY Settings.label "Parametros">
 
-<!ENTITY TextAreaName.label "Nombre d'o campo:">
-<!ENTITY TextAreaName.accessKey "N">
-<!ENTITY TextAreaRows.label "Ringleras:">
-<!ENTITY TextAreaRows.accessKey "R">
-<!ENTITY TextAreaCols.label "Columnas:">
-<!ENTITY TextAreaCols.accessKey "o">
-<!ENTITY TextAreaReadOnly.label "Nomás de lectura">
-<!ENTITY TextAreaReadOnly.accessKey "o">
-<!ENTITY TextAreaDisabled.label "Desactivau">
-<!ENTITY TextAreaDisabled.accessKey "D">
-<!ENTITY TextAreaTabIndex.label "Indiz de pestanyas:">
-<!ENTITY TextAreaTabIndex.accessKey "z">
-<!ENTITY TextAreaAccessKey.label "Clau d'acceso:">
-<!ENTITY TextAreaAccessKey.accessKey "a">
-<!ENTITY InitialText.label "Texto inicial:">
-<!ENTITY InitialText.accessKey "T">
 
-<!ENTITY TextAreaWrap.label "Modo d'achuste:">
-<!ENTITY TextAreaWrap.accessKey "M">
-<!ENTITY WrapDefault.value "Por defecto">
-<!ENTITY WrapOff.value "Inactiu">
-<!ENTITY WrapHard.value "Fuerte">
-<!ENTITY WrapSoft.value "Leu">
-<!ENTITY WrapPhysical.value "Fisico">
-<!ENTITY WrapVirtual.value "Virtual">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

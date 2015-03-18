@@ -2,11 +2,9 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY attachmentReminderDialog.title   "Parolas clave t'o recordatorio d'adjuntos">
-<!ENTITY attachKeywordText.label          "&brandShortName; le advertirá sobre adjuntos ixuplidaus si va a ninviar un mensache de correu electronico que contienga bella d'istas parolas.">
-<!ENTITY addKeywordButton.label           "Adhibir">
-<!ENTITY addKeywordButton.accesskey       "A">
-<!ENTITY editKeywordButton.label          "Editar">
-<!ENTITY editKeywordButton.accesskey      "E">
-<!ENTITY removeKeywordButton.label        "Eliminar">
-<!ENTITY removeKeywordButton.accesskey    "m">
+
+
+
+
+
+

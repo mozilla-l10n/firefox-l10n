@@ -2,21 +2,19 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY windowTitle.label "Color">
-<!ENTITY lastPickedColor.label "Zaguera color trigada">
-<!ENTITY lastPickedColor.accessKey "Z">
-<!ENTITY setColor1.label "Faiga clic en una color u">
-<!ENTITY setColor2.label "introduzca una cadena HTML de color">
-<!ENTITY setColor2.accessKey "H">
-<!ENTITY setColorExample.label "(p. eix.: &quot;#0000ff&quot; u &quot;blue&quot;):">
-<!ENTITY default.label "Por defecto">
-<!ENTITY default.accessKey "d">
-<!ENTITY palette.label "Paleta:">
-<!ENTITY standardPalette.label "Estandar">
-<!ENTITY webPalette.label "Todas as colors web">
-<!ENTITY background.label "Fundo ta:">
-<!ENTITY background.accessKey "F">
-<!ENTITY table.label "Tabla">
-<!ENTITY table.accessKey "T">
-<!ENTITY cell.label "Celda(s)">
-<!ENTITY cell.accessKey "C">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

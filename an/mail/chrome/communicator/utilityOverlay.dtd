@@ -4,55 +4,46 @@
 <!-- LOCALIZATION NOTE : FILE This file contains the global menu items -->
 
 
-<!ENTITY fileMenu.label          "Fichero">
-<!ENTITY fileMenu.accesskey        "F">
-<!ENTITY newMenu.label            "Nuevo">
-<!ENTITY newMenu.accesskey          "N">
 
-<!ENTITY editMenu.label          "Editar">
-<!ENTITY editMenu.accesskey        "E">
-<!ENTITY undoCmd.label            "Desfer">
-<!ENTITY undoCmd.key            "Z">
-<!ENTITY undoCmd.accesskey          "f">
-<!ENTITY redoCmd.label            "Refer">
-<!ENTITY redoCmd.key            "Y">
-<!ENTITY redoCmd.accesskey          "R">
-<!ENTITY cutCmd.label            "Cortar">
-<!ENTITY cutCmd.key              "X">
-<!ENTITY cutCmd.accesskey          "t">
-<!ENTITY copyCmd.label            "Copiar">
-<!ENTITY copyCmd.key            "C">
-<!ENTITY copyCmd.accesskey          "C">
-<!ENTITY pasteCmd.label            "Apegar">
-<!ENTITY pasteCmd.key            "V">
-<!ENTITY pasteCmd.accesskey          "A">
-<!ENTITY deleteCmd.label          " Eliminar">
-<!ENTITY deleteCmd.accesskey        "m">
-<!ENTITY selectAllCmd.label          "Seleccionar tot">
-<!ENTITY selectAllCmd.key          "A">
-<!ENTITY selectAllCmd.accesskey        "a">
-<!ENTITY preferencesCmd2.label "Options">
-<!ENTITY preferencesCmd2.accesskey "O">
-<!ENTITY preferencesCmdUnix.label       "Preferencias">
-<!ENTITY preferencesCmdUnix.accesskey     "n">
 
-<!ENTITY viewMenu.label          "Veyer">
-<!ENTITY viewMenu.accesskey        "V">
-<!ENTITY viewToolbarsMenu.label        "Barras de ferramientas">
-<!ENTITY viewToolbarsMenu.accesskey      "f">
-<!ENTITY showTaskbarCmd.label          "Barra d'estau">
-<!ENTITY showTaskbarCmd.accesskey        "B">
 
-<!ENTITY closeCmd.label      "Zarrar">
-<!ENTITY closeCmd.key      "W">
-<!ENTITY closeCmd.accesskey    "Z">
 
-<!ENTITY quitApplicationCmd.label  "Salir">
-<!ENTITY quitApplicationCmd.key    "Q">
-<!ENTITY quitApplicationCmd.accesskey  "S">
 
-<!ENTITY quitApplicationCmdUnix.label  " Salir">
-<!ENTITY quitApplicationCmdUnix.accesskey  "S">
 
-<!ENTITY quitApplicationCmdMac.label  "Salir de &brandShortName;">
-<!ENTITY quitApplicationCmdMac.accesskey  "S">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

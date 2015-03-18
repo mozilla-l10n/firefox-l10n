@@ -2,31 +2,25 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY  pref.editing.title        "Parametros d'una pachina nueva">
 
-<!ENTITY  authorName.label          "Autor:">
-<!ENTITY  authorName.accesskey      "A">
-<!ENTITY  pageColorHeader           "Aparencia predeterminada d'a pachina">
 
-<!ENTITY defaultColors.label        "Colors predeterminadas d'o lector (no fixas as colors en a pachina)">
-<!ENTITY defaultColors.accesskey    "d">
-<!ENTITY customColors.label         "Usar as colors personalizadas:">
-<!ENTITY customColors.accesskey     "c">
 
-<!ENTITY normalText.label           "Texto normal">
-<!ENTITY normalText.accesskey       "n">
-<!ENTITY linkText.label             "Texto d'o vinclo">
-<!ENTITY linkText.accesskey         "T">
-<!ENTITY activeLinkText.label       "Texto d'o vinclo activo">
-<!ENTITY activeLinkText.accesskey   "a">
-<!ENTITY visitedLinkText.label      "Texto d'o vinclo visitau">
-<!ENTITY visitedLinkText.accesskey  "v">
-<!ENTITY background.label           "Fundo:">
-<!ENTITY background.accesskey       "F">
-<!ENTITY colon.character            ":">
 
-<!ENTITY backgroundImage.label      "Imachen de fundo:">
-<!ENTITY backgroundImage.accesskey  "c">
-<!ENTITY chooseFile.label           "Trigar un fichero…">
-<!ENTITY chooseFile.accesskey       "r">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 

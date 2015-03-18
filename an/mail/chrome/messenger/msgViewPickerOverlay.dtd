@@ -4,19 +4,16 @@
 <!--LOCALIZATION NOTE msgViewPickerOverlay.dtd UI for showing various views on a folder -->
 
 
-<!ENTITY viewPicker.label "Veyer:">
-<!ENTITY viewPicker.accesskey "r">
-<!ENTITY viewAll.label "Tot">
-<!ENTITY viewAll.accesskey "T">
-<!ENTITY viewUnread.label "No leitos">
-<!ENTITY viewUnread.accesskey "N">
-<!ENTITY viewNotDeleted.label "No eliminaus">
-<!ENTITY viewNotDeleted.accesskey "e">
-<!ENTITY viewTags.label "Etiquetas">
-<!ENTITY viewTags.accesskey "E">
-<!ENTITY viewCustomViews.label "Vistas personalizadas">
-<!ENTITY viewCustomViews.accesskey "V">
-<!ENTITY viewVirtualFolder.label "Alzar vista como una carpeta…">
-<!ENTITY viewVirtualFolder.accesskey "A">
-<!ENTITY viewCustomizeView.label "Personalizar…">
-<!ENTITY viewCustomizeView.accesskey "P">
+
+
+
+
+
+
+
+
+
+
+
+
+

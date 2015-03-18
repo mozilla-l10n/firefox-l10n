@@ -3,19 +3,14 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!-- Window title -->
 
-<!ENTITY windowTitle.label "Fique una expresión matematica">
 
-<!ENTITY sourceEditField.label "Introduzca codigo fuent Latex:">
 
-<!ENTITY options.label "Opcions">
-<!ENTITY optionInline.label "Modo en linia">
-<!ENTITY optionInline.accesskey "n">
-<!ENTITY optionDisplay.label "Modo de visualización">
-<!ENTITY optionDisplay.accesskey "v">
-<!ENTITY optionLTR.label "Dirección de zurda ta dreita">
-<!ENTITY optionLTR.accesskey "z">
-<!ENTITY optionRTL.label "Dirección de dreita ta zurda">
-<!ENTITY optionRTL.accesskey "D">
 
-<!ENTITY insertButton.label "Ficar">
-<!ENTITY insertButton.accesskey "F">
+
+
+
+
+
+
+
+

@@ -2,61 +2,52 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY itemGeneral.label                   "Cheneral">
-<!ENTITY itemAutoComplete.label              "Destinatario">
-<!ENTITY itemSpellCheck.label                "Ortografía">
 
 
-<!ENTITY forwardMsg.label                     "Reninviar mensaches:">
-<!ENTITY forwardMsg.accesskey                 "m">
-<!ENTITY inline.label                         "Incorporau">
-<!ENTITY asAttachment.label                   "Como adchunto">
-<!ENTITY addExtension.label                   "Adhibir extensión a o nombre de fichero">
-<!ENTITY addExtension.accesskey               "A">
 
-<!ENTITY htmlComposeHeader.label              "HTML">
-<!ENTITY font.label                           "Tipo de letra:">
-<!ENTITY font.accesskey                       "T">
-<!ENTITY size.label                           "Tamañu:">
-<!ENTITY size.accesskey                       "u">
-<!ENTITY fontColor.label                      "Color d'o texto:">
-<!ENTITY fontColor.accesskey                  "x">
-<!ENTITY bgColor.label                        "Color de fondo:">
-<!ENTITY bgColor.accesskey                    "C">
-<!ENTITY restoreHTMLDefaults.label            "Restaurar valors por omisión">
-<!ENTITY restoreHTMLDefaults.accesskey        "R">
 
-<!ENTITY spellCheck.label                     "Comprobar a ortografía antes de ninviar">
-<!ENTITY spellCheck.accesskey                 "C">
-<!ENTITY spellCheckInline.label               "Activar corrección ortografica en escribir">
-<!ENTITY spellCheckInline1.accesskey          "v">
-<!ENTITY languagePopup.label                  " Idioma:">
-<!ENTITY languagePopup.accessKey              "I">
-<!ENTITY downloadDictionaries.label           "Descargar mas diccionarios">
 
-<!ENTITY warnOnSendAccelKey.label             "Confirmar en usar l'alcorce de teclau para ninvio de mensaches">
-<!ENTITY warnOnSendAccelKey.accesskey         "n">
-<!ENTITY autoSave.label                       "Alzar automaticament cada">
-<!ENTITY autoSave.accesskey                   "A">
-<!ENTITY autoSaveEnd.label                    "menutos">
 
-<!ENTITY emailCollectionPicker.label           "Adhibir automaticament as adrezas de correu saliente a o mío(s):">
-<!ENTITY emailCollectionPicker.accesskey       "A">
-<!ENTITY addressingTitle.label                 "Autocompletado d'adrezas">
-<!ENTITY autocompleteText.label                "Al ninviar mensaches, buscar dentradas coincidents en:">
-<!ENTITY addressingEnable.label                "Libretas d'adrezas locals">
-<!ENTITY addressingEnable.accesskey            "L">
-<!ENTITY directories.label                     "Servidor de directorio:">
-<!ENTITY directories.accesskey                 "S">
-<!ENTITY directoriesNone.label                 "Garra">
-<!ENTITY editDirectories.label                 "Editar directorios…">
-<!ENTITY editDirectories.accesskey             "E">
 
-<!ENTITY sendOptionsDescription.label          "Configurar comportamiento d'o formato de texto">
-<!ENTITY sendOptions.label                     "Opciones d'envío…">
-<!ENTITY sendOptions.accesskey                 "v">
 
-<!ENTITY attachmentReminder.label              "Compro/Crompotabierna adjuntos ixuplidaus">
-<!ENTITY attachmentReminder.accesskey          "t">
-<!ENTITY attachmentReminderOptions.label       "Parolas clave…">
-<!ENTITY attachmentReminderOptions.accesskey   "P">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

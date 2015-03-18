@@ -3,6 +3,3 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!--LOCALIZATION NOTE msgReadSMIMEOverlay.dtd UI for s/mime hooks in message reading -->
 
-
-<!ENTITY menu_securityStatus.label "Información de seguranza d'o mensache">
-<!ENTITY menu_securityStatus.accesskey "s">

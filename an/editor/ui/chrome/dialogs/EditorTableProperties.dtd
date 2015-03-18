@@ -2,74 +2,69 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY tableWindow.title                "Propiedatz d'a tabla">
-<!ENTITY applyButton.label                "Aplicar">
-<!ENTITY applyButton.accesskey            "A">
-<!ENTITY closeButton.label                "Zarrar">
-<!ENTITY tableTab.label                   "Tabla">
-<!ENTITY cellTab.label                    "Celdas">
-<!ENTITY tableRows.label                  "Ringleras:">
-<!ENTITY tableRows.accessKey              "R">
-<!ENTITY tableColumns.label               "Columnas:">
-<!ENTITY tableColumns.accessKey           "C">
-<!ENTITY tableHeight.label                "Altaria:">
-<!ENTITY tableHeight.accessKey            "l">
-<!ENTITY tableWidth.label                 "Amplaria:">
-<!ENTITY tableWidth.accessKey             "A">
-<!ENTITY tableBorderSpacing.label         "Cantos y espaciau">
-<!ENTITY tableBorderWidth.label           "Canto:">
-<!ENTITY tableBorderWidth.accessKey       "C">
-<!ENTITY tableSpacing.label               "Espaciau:">
-<!ENTITY tableSpacing.accessKey           "E">
-<!ENTITY tablePadding.label               "Repleno:">
-<!ENTITY tablePadding.accessKey           "R">
-<!ENTITY tablePxBetwCells.label           "pixels dentre as celdas">
-<!ENTITY tablePxBetwBrdrCellContent.label "pixels dentre o canto d'a celda y o suyo conteniu">
-<!ENTITY tableAlignment.label             "Aliniación d'a tabla:">
-<!ENTITY tableAlignment.accessKey         "t">
-<!ENTITY tableCaption.label               "Títol:">
-<!ENTITY tableCaption.accessKey           "T">
-<!ENTITY tableCaptionAbove.label          "Dencima d'a tabla">
-<!ENTITY tableCaptionBelow.label          "Debaixo d'a tabla:">
-<!ENTITY tableCaptionLeft.label           "Cucha d'a tabla">
-<!ENTITY tableCaptionRight.label          "Dreita d'a tabla">
-<!ENTITY tableCaptionNone.label           "Garra">
-<!ENTITY tableInheritColor.label           "(Permitir que a color d'a pachina siga transparent)">
 
-<!ENTITY cellSelection.label              "Selección">
-<!ENTITY cellSelectCell.label             "Celda">
-<!ENTITY cellSelectRow.label              "Ringlera">
-<!ENTITY cellSelectColumn.label           "Columna">
-<!ENTITY cellSelectNext.label             "Siguient">
-<!ENTITY cellSelectNext.accessKey         "n">
-<!ENTITY cellSelectPrevious.label         "Anterior">
-<!ENTITY cellSelectPrevious.accessKey     "A">
-<!ENTITY applyBeforeChange.label          "Os cambeos actuals s'aplicarán antes de no cambiar a selección.">
-<!ENTITY cellContentAlignment.label       "Aliniación d'o conteniu">
-<!ENTITY cellHorizontal.label             "Horizontal:">
-<!ENTITY cellHorizontal.accessKey         "z">
-<!ENTITY cellVertical.label               "Vertical:">
-<!ENTITY cellVertical.accessKey           "V">
-<!ENTITY cellStyle.label                  "Estilo d'a celda:">
-<!ENTITY cellStyle.accessKey              "c">
-<!ENTITY cellNormal.label                 "Normal">
-<!ENTITY cellHeader.label                 "Capitero">
-<!ENTITY cellTextWrap.label               "Achuste d'o texto:">
-<!ENTITY cellTextWrap.accessKey           "t">
-<!ENTITY cellWrap.label                   "Achustar">
-<!ENTITY cellNoWrap.label                 "No achustar">
-<!ENTITY cellAlignTop.label               "Cobalto">
-<!ENTITY cellAlignMiddle.label            "Meyo">
-<!ENTITY cellAlignBottom.label            "Cobaixo">
-<!ENTITY cellAlignJustify.label           "Chustificar">
-<!ENTITY cellInheritColor.label           "(Permitir que a color d'a tabla siga transparent)">
-<!ENTITY cellUseCheckboxHelp.label        "Emplegar as caixetas de selección ta determinar qué propiedatz s'aplican a todas as celdas seleccionadas">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <!-- Used in both Table and Cell panels  -->
 
-<!ENTITY size.label                       "Mida">
-<!ENTITY pixels.label                     "pixels">
-<!ENTITY backgroundColor.label            "Color de fundo:">
-<!ENTITY backgroundColor.accessKey        "f">
-<!ENTITY AlignLeft.label                  "Cucha">
-<!ENTITY AlignCenter.label                "Centro">
-<!ENTITY AlignRight.label                 "Dreita">
+
+
+
+
+

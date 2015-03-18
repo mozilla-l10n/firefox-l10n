@@ -4,11 +4,7 @@
 <!--LOCALIZATION NOTE msgReadSecurityInfo.dtd UI for viewing security status when reading a received message -->
 
 
-<!ENTITY status.label "Seguranza d'o mensache">
-<!ENTITY signatureCert.label "Veyer certificau d'a sinyatura">
-<!ENTITY encryptionCert.label "Veyer certificau de zifrau">
 
-<!ENTITY signer.name "Sinyau por:">
-<!ENTITY recipient.name "Zifrau para:">
-<!ENTITY email.address "Adrezas de correu electronico:">
-<!ENTITY issuer.name "Certificau emitiu por:">
+
+
+
