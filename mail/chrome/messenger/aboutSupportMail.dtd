@@ -2,18 +2,14 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY aboutSupport.appBasicsAppBuildID "ITZ de compilación de l'aplicación">
 
-<!ENTITY aboutSupport.accountsTitle "Cuentas de correu y noticias">
-<!ENTITY aboutSupport.showPrivateData.mainText "Incluir nombres d'as cuentas">
-<!ENTITY aboutSupport.showPrivateData.explanationText "(posiblement identificando información)">
-<!ENTITY aboutSupport.accountsID "ITZ">
-<!ENTITY aboutSupport.accountsName "Nombre">
-<!ENTITY aboutSupport.accountsIncomingServer "Servidor de dentrada">
-<!ENTITY aboutSupport.accountsOutgoingServers "Servidors de salida">
-<!ENTITY aboutSupport.accountsServerName "Nombre">
-<!ENTITY aboutSupport.accountsConnSecurity "Seguranza d'a connexión">
-<!ENTITY aboutSupport.accountsAuthMethod "Metodo d'identificación">
-<!ENTITY aboutSupport.accountsDefault "Predeterminau?">
 
-<!ENTITY aboutSupport.sendViaEmail.label "Ninviar por correu">
+
+
+
+
+
+
+
+
+

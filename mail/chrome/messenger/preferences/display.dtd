@@ -2,45 +2,36 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY itemFormatting.label             "Formato">
-<!ENTITY itemTags.label                   "Etiquetas">
 
-<!ENTITY style.label                      "Estilo:">
-<!ENTITY style.accesskey                  "E">
-<!ENTITY regularStyle.label               "Regular">
-<!ENTITY bold.label                       "Negreta">
-<!ENTITY italic.label                     "Cursiva">
-<!ENTITY boldItalic.label                 "Negreta cursiva">
-<!ENTITY size.label                       "Grandaria:">
-<!ENTITY size.accesskey                   "G">
-<!ENTITY regularSize.label                "Regular">
-<!ENTITY bigger.label                     "Mayor">
-<!ENTITY smaller.label                    "Menor">
-<!ENTITY quotedTextColor.label            "Color:">
-<!ENTITY quotedTextColor.accesskey        "o">
-<!ENTITY displayWidth.label               "Mensaches de texto sin formato">
-<!ENTITY displayText.label                "Al amostrar mensaches citaus de texto sin formato:">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <!-- LOCALIZATION NOTE : (emoticonsAndStructs.label) 'Emoticons' are also known as 'Smileys', e.g. :-)   -->
 
-<!ENTITY convertEmoticons.label        "Display emoticons as graphics">
-<!ENTITY convertEmoticons.accesskey    "e">
 <!-- labels -->
 
-<!ENTITY displayTagsText.label     "As etiquetas pueden usar ta categorizar y priorizar os suyos mensaches.">
-<!ENTITY addTagButton.label        "Adhibir">
-<!ENTITY addTagButton.accesskey    "A">
-<!ENTITY editTagButton.label       "Editar">
-<!ENTITY editTagButton.accesskey   "E">
-<!ENTITY removeTagButton.label     "Eliminar">
-<!ENTITY removeTagButton.accesskey "r">
+
+
+
+
+
 <!-- Fonts and Colors -->
 
-<!ENTITY fontsAndColors1.label   "Fonts &amp; Colors">
-<!ENTITY defaultFont.label       "Tipo de letra por defecto:">
-<!ENTITY defaultFont.accesskey   "i">
-<!ENTITY defaultSize.label       "Grandaria:">
-<!ENTITY defaultSize.accesskey   "G">
-<!ENTITY fontOptions.accesskey   "v">
-<!ENTITY fontOptions.label       "Avanzadas…">
-<!ENTITY colorButton.label       "Colors…">
-<!ENTITY colorButton.accesskey   "C">
+
+
+
+
+
+
+

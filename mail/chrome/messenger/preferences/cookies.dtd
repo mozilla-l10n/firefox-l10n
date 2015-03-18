@@ -2,31 +2,24 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY window.width                      "36em">
 
-<!ENTITY cookiesonsystem.label             "Son alzadas en o suyo ordinador as siguients cookies:">
-<!ENTITY cookiename.label                  "Nombre d'a cookie">
-<!ENTITY cookiedomain.label                "Puesto">
-<!ENTITY button.removecookie.label         "Eliminar cookie">
-<!ENTITY button.removecookie.accesskey     "E">
-<!ENTITY button.removeallcookies.label     "Eliminar todas as cookies">
-<!ENTITY button.removeallcookies.accesskey "a">
 
-<!ENTITY props.name.label                  "Nombre:">
-<!ENTITY props.value.label                 "Conteniu:">
-<!ENTITY props.domain.label                "Servidor:">
-<!ENTITY props.path.label                  "Rota:">
-<!ENTITY props.secure.label                "Ninviar para:">
-<!ENTITY props.expires.label               "Caduca:">
 
-<!ENTITY window.title                      "Cookies">
-<!ENTITY windowClose.key                   "w">
-<!ENTITY focusSearch1.key                  "f">
-<!ENTITY focusSearch2.key                  "k">
 
-<!ENTITY filter.label                      "Buscar:">
-<!ENTITY filter.accesskey                  "B">
 
-<!ENTITY button.close.label                "Zarrar">
-<!ENTITY button.close.accesskey            "Z">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 

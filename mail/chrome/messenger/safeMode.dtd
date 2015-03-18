@@ -2,20 +2,13 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY safeModeDialog.title             "Modo seguro de &brandShortName;">
-<!ENTITY window.width                     "47em">
 
-<!ENTITY safeModeDescription.label        "&brandShortName; se ye executando agora en modo seguro, que desactiva temporalment os suyos personalización d'opciones, temas y extensions.">
-<!ENTITY safeModeDescription2.label       "Puede fer permanents totz u beluns d'istes cambeos:">
 
-<!ENTITY disableAddons.label              "Desactivar totz os complementos">
-<!ENTITY disableAddons.accesskey          "D">
 
-<!ENTITY resetToolbars.label              "Reinicializar barras de ferramientas y controls">
-<!ENTITY resetToolbars.accesskey          "R">
 
-<!ENTITY changeAndRestartButton.label     "Fer cambeos y reiniciar">
-<!ENTITY changeAndRestartButton.accesskey "F">
 
-<!ENTITY continueButton.label             "Continar en modo seguro">
-<!ENTITY continueButton.accesskey         "C">
+
+
+
+
+

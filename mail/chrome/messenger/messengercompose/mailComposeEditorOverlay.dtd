@@ -2,8 +2,5 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY attachImageSource.label         "Adchuntar ysta imachen a o mensache">
-<!ENTITY attachImageSource.accesskey     "s">
 
-<!ENTITY attachLinkSource.label          "Adchuntar o orichen d'este vinclo a o mensache">
-<!ENTITY attachLinkSource.accesskey      "o">
+

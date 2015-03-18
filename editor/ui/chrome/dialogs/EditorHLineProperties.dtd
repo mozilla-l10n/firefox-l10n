@@ -4,24 +4,19 @@
 <!-- Window title -->
 
 
-<!ENTITY windowTitle.label "Propiedatz d'a linia horizontal">
 
-<!ENTITY dimensionsBox.label "Dimensions">
-<!ENTITY heightEditField.label "Altaria:">
-<!ENTITY heightEditField.accessKey "l">
-<!ENTITY widthEditField.label "Amplaria:">
-<!ENTITY widthEditField.accessKey "A">
-<!ENTITY pixelsPopup.value "pixels">
-<!ENTITY alignmentBox.label "Aliniación">
-<!ENTITY leftRadio.label "Cucha">
-<!ENTITY leftRadio.accessKey "C">
-<!ENTITY centerRadio.label "Centro">
-<!ENTITY centerRadio.accessKey "C">
-<!ENTITY rightRadio.label "Dreita">
-<!ENTITY rightRadio.accessKey "D">
 
-<!ENTITY threeDShading.label "Ombreyau en 3-D">
-<!ENTITY threeDShading.accessKey "O">
-<!ENTITY saveSettings.label "Usar como valura por defecto">
-<!ENTITY saveSettings.accessKey "d">
-<!ENTITY saveSettings.tooltip "Alzar istos parametros ta fer-los servir en ficar linias horizontals nuevas">
+
+
+
+
+
+
+
+
+
+
+
+
+
+

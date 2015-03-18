@@ -4,16 +4,13 @@
 <!-- Window title -->
 
 
-<!ENTITY windowTitle.label "Ficar-ie un caracter">
-<!ENTITY category.label "Categoría">
-<!ENTITY letter.label "Letra:">
-<!ENTITY letter.accessKey "L">
-<!ENTITY character.label "Caracter:">
-<!ENTITY character.accessKey "C">
-<!ENTITY accentUpper.label "Accentuar as mayusclas">
-<!ENTITY accentLower.label "Accentuar as minusclas">
-<!ENTITY otherUpper.label "Atras mayusclas">
-<!ENTITY otherLower.label "Atras minusclas">
-<!ENTITY commonSymbols.label "Símbolos comuns">
-<!ENTITY insertButton.label "Ficar">
-<!ENTITY closeButton.label "Zarrar">
+
+
+
+
+
+
+
+
+
+

@@ -2,10 +2,9 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!-- rights.locale-direction instead of the usual local.dir entity, so RTL can skip translating page. -->
-<!ENTITY rights.locale-direction "ltr">
-<!ENTITY rights.title            "Sobre os suyos dreitos">
-<!ENTITY rights.intro-header     "Sobre os suyos dreitos">
-<!ENTITY rights.intro "&brandFullName; ye software libre y de codigo ubierto, realizau por una comunidat de milars de personas de totz. I hai qualques cosetas que debe saber:">
+
+
+
 <!-- Note on pointa / pointb / pointc form:
      These points each have an embedded link in the HTML, so each point is
      split into chunks for text before the link, the link text, and the text
@@ -15,55 +14,35 @@
      Also note the leading/trailing whitespace in strings here, which is
      deliberate for formatting around the embedded links. -->
 
-<!ENTITY rights.intro-point1a "&brandShortName; ye disponible ta vusté baixo os termins de a ">
-<!ENTITY rights.intro-point1b "Licencia Publica de Mozilla">
-<!ENTITY rights.intro-point1c ". Isto significa que puede usar, copiar y distribuir &brandShortName; a atros. Tamién ye libre de modificar o codigo fuent de &brandShortName; como deseye ta adaptar-lo a las suyas necesidatz. a Licencia Publica Mozilla tamién le atorga o dreito a distribuir as suyas versions modificadas.">
 
-<!ENTITY rights.intro-point2a "Mozilla no le confiere garra dreito sobre os logos y marcas rechistradas de Mozilla y Thunderbird. Se puede trobar información adicional sobre las marcas rechistradas ">
-<!ENTITY rights.intro-point2b "aquí">
-<!ENTITY rights.intro-point2c ".">
+
+
+
 <!-- point 3 text for official branded builds -->
 
-<!ENTITY rights.intro-point3a "As politicas de privacidat d'os productos de se &vendorShortName; pueden trobar ">
-<!ENTITY rights.intro-point3b "aquí">
-<!ENTITY rights.intro-point3c ".">
-<!-- point 3 text for unbranded builds -->
 
-<!ENTITY rights.intro-point3-unbranded "Qualsiquier politica de privacidat aplicable a iste producto habría d'incluir aquí.">
+<!-- point 3 text for unbranded builds -->
 <!-- point 4 text for official branded builds -->
 
-<!ENTITY rights.intro-point4a "&brandShortName; also offers optional services, such as the add-on update service; however we cannot guarantee they are 100&#037; accurate or error-free. More details, including information on how to disable the services, can be found in the ">
-<!ENTITY rights.intro-point4b "termins d'o servicio">
-<!ENTITY rights.intro-point4c ".">
+
 <!-- point 4 text for unbranded builds -->
 
-<!ENTITY rights.intro-point4a-unbranded "Si iste producto incorpora servicios web, os termins aplicables a os servicios habrían d'enlazar a a ">
-<!ENTITY rights.intro-point4b-unbranded "Servicios de puestos web">
-<!ENTITY rights.intro-point4c-unbranded " sección.">
 
-<!ENTITY rights.webservices-header "Servicios de puestos web de &brandFullName;">
+
 <!-- Note that this paragraph references a couple of entities from
      preferences/security.dtd, so that we can refer to text the user sees in
      the UI, without this page being forgotten every time those strings are
      updated.  -->
 <!-- intro paragraph for branded builds -->
 
-<!ENTITY rights.webservices-a "&brandFullName; offers optional services (&quot;Services&quot;), such as the add-on update service, that are available for your use with this binary version of &brandShortName; as described below. If you do not want to use the Services or the terms below are unacceptable, you may disable the add-on update service by opening the application preferences, selecting the ">
-<!ENTITY rights.webservices-b "Abanzau">
-<!ENTITY rights.webservices-c " sección, seguida de a ">
-<!ENTITY rights.webservices-d "Esviellar">
-<!ENTITY rights.webservices-e " tab, and unchecking the options for &quot;Automatically check for updates to&quot;.">
+
+
+
 <!-- intro paragraph for unbranded builds -->
-
-<!ENTITY rights.webservices-unbranded "Aquí habría d'incluir un resumen d'os servicios de puestos web que incorpora o producto, de conchunta con instruccions sobre cómo desactivarlos, si ye aplicable.">
 <!-- point 1 text for unbranded builds -->
-
-<!ENTITY rights.webservices-term1-unbranded "Qualsiquiera termins de servicio aplicables a iste producto habrían de listar aquí.">
 <!-- points 1-7 text for branded builds -->
 
-<!ENTITY rights.webservices-term1 "&vendorShortName; puede abandonar u cambiar os servicios a la suya discrección.">
-<!ENTITY rights.webservices-term2 "Ye libre d'usar istes servicios con a versión correspondient de &brandShortName;, y tiene totz os dreitos necesarios ta fer-lo. &vendorShortName; y os suyos licenciatarios se reservan totz os de demás dreitos en os servicios. Istes termins no son orientaus a limitar garra dreito atorgau baixo as licencias de codigo ubierto aplicables a y &brandShortName; a las suyas correspondients versions de codigo ubierto de &brandShortName;.">
-<!ENTITY rights.webservices-term3 "The Services are provided &quot;as-is.&quot;  &vendorShortName;, its contributors, licensors, and distributors, disclaim all warranties, whether express or implied, including without limitation, warranties that the Services are merchantable and fit for your particular purposes.  You bear the entire risk as to selecting the Services for your purposes and as to the quality and performance of the Services. Some jurisdictions do not allow the exclusion or limitation of implied warranties, so this disclaimer may not apply to you.">
-<!ENTITY rights.webservices-term4 "Fueras d'an sía requeriu por a lei, &vendorShortName;, os suyos colaboradors, licenciatarios y distribuidors no podrán estar responsables de garra danyo indirecto, especial, imprevisto, resultant, punitivo u eixemplar derivau de, u relacionau con, l'uso de &brandShortName; y os servicios. a responsabilidat colectiva baixo istes termins no podrá exceder os US$500 (cincientos dolars americans). Qualques jurisdicciones no permiten a exclusión u limitación de bells daños, asinas que ista exclusión y limitación puede no estar aplicables a vusté.">
-<!ENTITY rights.webservices-term5 "&vendorShortName; puede actualizar istes termins seguntes sía necesario de quan en quan. Istes termins no pueden modificar u cancelar sin l'alcuerdo por escrito de &vendorShortName;.">
-<!ENTITY rights.webservices-term6 "Istes termins son regidos por as leis d'o estau de California, EE.UU., excluindo os suyos conflictos con atras estipulaciones d'a lei. Si qualsiquier parte d'istes termins resulta estar invalida u inexigible, as porciones restantes continarán tenendo pleno efecto. En o caso d'haber un conflicto entre una versión traducida d'istes termins y a versión en idioma Anglés, prevalerá a versión en Inglés.">
+
+
+
+

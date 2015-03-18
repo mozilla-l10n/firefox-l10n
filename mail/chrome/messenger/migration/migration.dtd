@@ -3,31 +3,22 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 
-<!ENTITY migrationWizard.title          "Asistent ta importar">
 
-<!ENTITY importFromWin.label            "Importar opciones, configuración de cuentas, libretas d'adrezas, filtros y atros datos de:">
-<!ENTITY importFromNonWin.label         "Importar preferencias, configuracions de cuentas, libretas d'adrezas, filtros y atros datos de:">
 
-<!ENTITY importFromNothing.label        "No importar nada">
-<!ENTITY importFromNothing.accesskey    "d">
-<!ENTITY importFromSeamonkey3.label     "SeaMonkey 2 or later">
-<!ENTITY importFromSeamonkey3.accesskey "S">
-<!ENTITY importFromOExpress.label       "Uutlook Express">
-<!ENTITY importFromOExpress.accesskey   "u">
-<!ENTITY importFromOutlook.label        "Outlook">
-<!ENTITY importFromOutlook.accesskey    "O">
-<!ENTITY importFromEudora.label         "Eudora">
-<!ENTITY importFromEudora.accesskey     "E">
 
-<!ENTITY importSource.title             "Importar configuración y carpetas de correu">
-<!ENTITY importItems.title              "Elementos a importar">
-<!ENTITY importItems.label              "Trigar os elementos a importar:">
 
-<!ENTITY migrating.title                "Importando…">
-<!ENTITY migrating.label                "Se son importando os siguients elementos…">
 
-<!ENTITY selectProfile.title            "Trigar perfil">
-<!ENTITY selectProfile.label            "Os siguients perfils son disponibles ta importar:">
 
-<!ENTITY done.title                     "Importación completa">
-<!ENTITY done.label                     "Os siguients elementos s'importoron correctament:">
+
+
+
+
+
+
+
+
+
+
+
+
+

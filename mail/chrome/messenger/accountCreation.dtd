@@ -2,87 +2,72 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY autoconfigWizard.title          "Configuración de cuenta de correu">
-<!ENTITY name.label                      "O suyo nombre:">
-<!ENTITY name.accesskey                  "O">
-<!ENTITY name.placeholder                "Nombre y apellidos">
-<!ENTITY name.text                       "O suyo nombre, tal como s'amuestra a os de demás">
-<!ENTITY email.label                     "Adreza de correu:">
-<!ENTITY email.accesskey                 "A">
-<!ENTITY email.placeholder               "email@ejemplo.com">
-<!ENTITY password.label                  "Contraseña:">
-<!ENTITY password.accesskey              "a">
-<!ENTITY password.placeholder            "Clau">
-<!ENTITY password.text                   "Opcional, solament s'usará ta validar o nombre d'usuario">
-<!ENTITY rememberPassword.label          "Recordar a clau">
-<!ENTITY rememberPassword.accesskey      "R">
 
-<!ENTITY imapLong.label                  "IMAP (carpetas remotas)">
-<!ENTITY pop3Long.label                  "POP3 (conservar correu en o suyo equipo)">
 
-<!ENTITY incoming.label                  "Dentrant:">
-<!ENTITY outgoing.label                  "Saliente:">
-<!ENTITY username.label                  "Nombre d'usuario:">
-<!ENTITY hostname.label                  "Nombre d'o servidor">
-<!ENTITY port.label                      "Puerto">
-<!ENTITY ssl.label                       "SSL">
-<!ENTITY auth.label                      "Identificación">
-<!ENTITY imap.label                      "IMAP">
-<!ENTITY pop3.label                       "POP3">
-<!ENTITY smtp.label                      "SMTP">
-<!ENTITY autodetect.label                "Autodetectar">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <!-- LOCALIZATION NOTE(noEncryption.label): Neither SSL/TLS nor STARTTLS.
      Transmission of emails in cleartext over the Internet. -->
-<!ENTITY noEncryption.label              "Garra">
-<!ENTITY starttls.label                  "STARTTLS">
-<!ENTITY sslTls.label                    "SSL/TLS">
 
-<!ENTITY advancedSetup.label             "Config. abanzada">
-<!ENTITY advancedSetup.accesskey         "C">
-<!ENTITY cancel.label                    "Cancelar">
-<!ENTITY cancel.accesskey                "n">
-<!ENTITY continue.label                  "Continuar">
-<!ENTITY continue.accesskey              "o">
-<!ENTITY stop.label                      "Aturar">
-<!ENTITY stop.accesskey                  "A">
+
+
+
+
+
+
+
+
+
 <!-- LOCALIZATION NOTE (half-manual-test.label): This is the text that is
      displayed on the button in manual edit mode which will re-guess
      the account configuration, taking into account the settings that
      the user has manually changed. -->
-<!ENTITY half-manual-test.label          "Tornar a probar">
-<!ENTITY half-manual-test.accesskey      "T">
-<!ENTITY manual-edit.label               "Config. manual">
-<!ENTITY manual-edit.accesskey           "m">
-<!ENTITY switch-to-provisioner.label     "Obtener una nueva cuenta">
-<!ENTITY switch-to-provisioner.accesskey "t">
 
 
-<!ENTITY warning.label                   "Alvertencia!">
-<!ENTITY incomingSettings.label          "Configuración de dentrada:">
-<!ENTITY outgoingSettings.label          "Configuración de salida:">
-<!ENTITY technicaldetails.label          "Detalles tecnicos">
+
+
+
+
+
+
+
 <!-- LOCALIZATION NOTE (confirmWarning.label): If there is a security
      warning on the outgoing server, then the user will need to check a
      checkbox beside this text before continuing. -->
-<!ENTITY confirmWarning.label            "Entiendo os risgos.">
-<!ENTITY confirmWarning.accesskey        "E">
+
 <!-- LOCALIZATION NOTE (doneAccount.label): If there is a security warning
      on the incoming or outgoing servers, then the page that pops up will
      have this text in a button to continue by creating the account. -->
-<!ENTITY doneAccount.label               "Done">
-<!ENTITY doneAccount.accesskey           "D">
+
 <!-- LOCALIZATION NOTE (changeSettings.label): If there is a security warning on
      the incoming or outgoing servers, then the page that pops up will have
      this text in a button to take you back to the previous page to change
      the settings and try again. -->
-<!ENTITY changeSettings.label            "Cambiar configuración">
-<!ENTITY changeSettings.accesskey        "b">
 
-<!ENTITY contactYourProvider.description "&brandShortName; le puede permitir recuperar o suyo correu usando a configuración proporcionada. Manimenos, habría de contactar con o suyo administrador u proveedor de correu electronico en relación a istas connexions inadequadas. Veiga a FAQ de Thunderbird ta mas información.">
 
-<!ENTITY insecureServer.tooltip.title    "Alvertencia! Iste servidor ye inseguro.">
-<!ENTITY insecureServer.tooltip.details  "Prete en o círculo ta mas detalles.">
 
-<!ENTITY insecureUnencrypted.description "Os suyos credenciales y correu se ninvian sin zifrar, por la qual cosa a suya clau (y o suyo mensache) pueden estar leitos facilment por atras personas. &brandShortName; le permitirá accedir ta o suyo correu, pero habría de contactar con o suyo proveedor de correu electronico ta configurar o servidor con una connexión segura.">
-<!ENTITY insecureSelfSigned.description  "O servidor usa un certificau en el qual no se puede confiar, por la qual cosa no ye posible asegurar que no i hai dengún interceptando o tráfico entre &brandShortName; y o suyo servidor. &brandShortName; le permitirá o suyo correu, pero habría d'aconseguir que o suyo proveedor de correu configure o servidor con un certificau confiable.">
-<!ENTITY secureServer.description        "Felicidatz! Iste servidor ye seguro.">
+
+
+
+

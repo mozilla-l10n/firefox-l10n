@@ -8,22 +8,22 @@
 
 
 <!ENTITY  pref.composer.title           "Composer">
-<!ENTITY  recentFiles.title             "Menú de pachinas recients">
-<!ENTITY  documentsInMenu.label         "Numero maximo de pachinas listadas:">
-<!ENTITY  documentsInMenu.accesskey     "N">
-<!ENTITY  savingFiles.title             "En alzar u publicar pachinas">
-<!ENTITY  preserveExisting.label        "Preservar o formato orichinal d'a fuent">
-<!ENTITY  preserveExisting.accesskey    "P">
-<!ENTITY  preserveExisting.tooltip      "Preservar os brincos de linia y o formato orichinal d'a pachina">
-<!ENTITY  saveAssociatedFiles.label     "Alzar as imachens y atros fichers asociaus en alzar as pachinas">
-<!ENTITY  saveAssociatedFiles.accesskey "z">
-<!ENTITY  showPublishDialog.label       "Amostrar siempre o dialogo Publicar quan se publiquen pachinas">
-<!ENTITY  showPublishDialog.accesskey   "s">
-<!ENTITY  composerEditing.label         "Edición">
-<!ENTITY  maintainStructure.label       "Mantener o formato d'a tabla quen se i fiquen u se'n borren celdas">
-<!ENTITY  maintainStructure.tooltip     "Mantener a forma rectangular d'a tabla adhibindo-ie celdas automaticament dimpués de ficar-ne u suprimir-ne">
-<!ENTITY  maintainStructure.accesskey   "M">
-<!ENTITY  useCSS.label                  "Usar os estilos CSS en cuenta d'elementos y atributos HTML">
-<!ENTITY  useCSS.accesskey              "U">
-<!ENTITY  crInPCreatesNewP.label        "A tecla de retorno en un paragrafo siempre en creya uno nuevo">
-<!ENTITY  crInPCreatesNewP.accesskey    "A">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -2,22 +2,14 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY editContactPanelDeleteContact.label "Yliminar">
-<!ENTITY editContactPanelDeleteContact.accesskey "l">
 
-<!ENTITY editContactName.label "Nombre:">
-<!ENTITY editContactName.accesskey "N">
 
-<!ENTITY editContactEmail.label "Correo electronico:">
-<!ENTITY editContactEmail.accesskey "e">
 
-<!ENTITY editContactAddressBook.label "Libreta d'adrezas:">
-<!ENTITY editContactAddressBook.accesskey "L">
 
-<!ENTITY editContactPanelCancel.label "Cancelar">
-<!ENTITY editContactPanelCancel.accesskey "C">
 
-<!ENTITY editContactPanelDone.label "Feito">
-<!ENTITY editContactPanelDone.accesskey "F">
 
-<!ENTITY contactMoveDisabledWarning.description "No puede cambiar a libreta d'adrezas porque o contacto ye en una lista de correu.">
+
+
+
+
+

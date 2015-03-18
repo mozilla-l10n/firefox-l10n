@@ -3,7 +3,5 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!-- Window title -->
 
-<!ENTITY windowTitle.label     "Comprebar l'adreza d'imachens y vinclos">
-<!ENTITY succeeded.label       "Con exito">
-<!ENTITY failed.label          "Ha fallau">
-<!ENTITY closeButton.label     "Zarrar">
+
+
