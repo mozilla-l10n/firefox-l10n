@@ -61,7 +61,7 @@
 <!ENTITY deleteFolder.accesskey "i">
 <!ENTITY renameFolder.label "Dizinin ismini değiştir…">
 <!ENTITY renameFolder.accesskey "i">
-<!ENTITY renameFolder.key "V">
+<!ENTITY renameFolder.key "VK_F2">
 <!ENTITY compactFolders.label "Dizinleri sıkıştır">
 <!ENTITY compactFolders.accesskey    "D">
 <!ENTITY emptyTrashCmd.label "Çöpü boşalt">
