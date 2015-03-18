@@ -341,6 +341,9 @@ size. -->
 <!ENTITY site_settings_no_settings  "Nema postavki za obrisati.">
 
 <!ENTITY reading_list_added "Stranica dodana na popis za čitanje">
+<!ENTITY reading_list_removed "Stranica uklonjena sa popisa za čitanje">
+<!-- Localization note (reading_list_remove) : Used to remove the currently open page from
+     the user's reading list. The opposite of overlay_share_reading_list_btn_label. -->
 <!ENTITY reading_list_duplicate "Stranica je već na popisu za čitanje">
 <!-- Localization note (reading_list_time_minutes2) : This string is used in the "Reading List"
      panel on the home page to give the user an estimate of how many minutes it will take to
