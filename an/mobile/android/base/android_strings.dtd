@@ -366,7 +366,7 @@ size. -->
 <!ENTITY site_settings_no_settings  "No i hai garra opción por limpiar.">
 
 <!ENTITY reading_list_added "S\u0027ha adhibiu a la suya pachina de lectura">
-
+<!ENTITY reading_list_removed "S\u0027ha adhibiu a la suya lista de lectura">
 <!-- Localization note (reading_list_remove) : Used to remove the currently open page from
      the user's reading list. The opposite of overlay_share_reading_list_btn_label. -->
 <!ENTITY reading_list_duplicate "A pachina ya ye present en a suya lista de lectura">
