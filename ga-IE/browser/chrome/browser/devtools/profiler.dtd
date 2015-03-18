@@ -71,10 +71,12 @@
   -  a checkbox that inverts and un-inverts the profiler's call tree. -->
 
 <!ENTITY profilerUI.invertTree             "Inbhéartaigh Crann na nGlaonna">
-
+<!ENTITY profilerUI.invertTree.tooltiptext "Nuair atá crann na nglaonna inbhéartaithe, taispeántar na glaonna is nuaí ar dtús, ansin ag leathnú amach go dtí na cinn níos sine.">
 <!-- LOCALIZATION NOTE (profilerUI.invertFlameGraph): This is the label shown next to
   -  a checkbox that inverts and un-inverts the profiler's flame graph. -->
 
+<!ENTITY profilerUI.invertFlameGraph             "Inbhéartaigh an Bhladhmchairt">
+<!ENTITY profilerUI.invertFlameGraph.tooltiptext "Nuair atá an bhladhmchairt inbhéartaithe, taispeántar na nglaonna ó na frámaí is nuaí, ag leathnú amach go dtí na cinn níos sine.">
 <!-- LOCALIZATION NOTE (profilerUI.showPlatformData): This is the
   -  label for the checkbox that toggles whether or not Gecko platform data
   -  is displayed in the profiler. -->
