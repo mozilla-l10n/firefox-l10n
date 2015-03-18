@@ -6,69 +6,77 @@
 <!ENTITY calendar.calendar.label     "Protyka">
 <!ENTITY calendar.calendar.accesskey "P">
 
+<!ENTITY calendar.newevent.button.tooltip         "Nowy podawk wutworić" >
+<!ENTITY calendar.newtask.button.tooltip          "Nowy nadawk wutworić" >
 
+<!ENTITY calendar.unifinder.todoitems.label       "Nadawki" >
+<!ENTITY calendar.unifinder.showcompletedtodos.label "Dokónčene nadawki pokazać">
 
-
-
+<!ENTITY calendar.today.button.label          "Dźensa">
 <!ENTITY calendar.tomorrow.button.label       "Jutře">
+<!ENTITY calendar.upcoming.button.label       "Přichodne">
 
-
-
-
-
-
-
-
-
-
+<!ENTITY calendar.events.filter.all.label "Wšě podawki">
+<!ENTITY calendar.events.filter.today.label "Dźensniše podawki">
+<!ENTITY calendar.events.filter.future.label "Wšě přichodne podawki">
+<!ENTITY calendar.events.filter.current.label "Tuchwilu wubrany dźeń">
+<!ENTITY calendar.events.filter.currentview.label "Podawki w aktualnym napohledźe">
+<!ENTITY calendar.events.filter.next7Days.label "Podawki w běhu přichodnych 7 dnjow">
+<!ENTITY calendar.events.filter.next14Days.label "Podawki w běhu přichodnych 14 dnjow">
+<!ENTITY calendar.events.filter.next31Days.label "Podawki w běhu přichodnych 31 dnjow">
+<!ENTITY calendar.events.filter.thisCalendarMonth.label "Podawki w tutym protykowym měsacu">
 <!-- LOCALIZATION NOTE(calendar.unifinder.tree.done.tooltip)
    - This label and tooltip is used for the column with the checkbox in the
    - task tree view. -->
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY calendar.unifinder.tree.done.label                "Dokónčene">
+<!ENTITY calendar.unifinder.tree.done.tooltip2             "Po dokónčenju sortěrować">
+<!ENTITY calendar.unifinder.tree.priority.label            "Priorita">
+<!ENTITY calendar.unifinder.tree.priority.tooltip2         "Po prioriće sortěrować">
+<!ENTITY calendar.unifinder.tree.title.label               "Titul">
+<!ENTITY calendar.unifinder.tree.title.tooltip2            "Po titulu sortěrować">
+<!ENTITY calendar.unifinder.tree.percentcomplete.label     "&#037; dokónčene">
+<!ENTITY calendar.unifinder.tree.percentcomplete.tooltip2  "Po &#037; dokónčene sortěrować">
+<!ENTITY calendar.unifinder.tree.startdate.label           "Spočatk">
+<!ENTITY calendar.unifinder.tree.startdate.tooltip2        "Po spočatnym datumje sortěrować">
+<!ENTITY calendar.unifinder.tree.enddate.label             "Kónc">
+<!ENTITY calendar.unifinder.tree.enddate.tooltip2          "Po kónčnym datumje sortěrować">
+<!ENTITY calendar.unifinder.tree.duedate.label             "Termin">
+<!ENTITY calendar.unifinder.tree.duedate.tooltip2          "Po terminje sortěrować">
+<!ENTITY calendar.unifinder.tree.completeddate.label       "Dokónčene">
+<!ENTITY calendar.unifinder.tree.completeddate.tooltip2    "Po datumje dokónčenja sortěrować">
+<!ENTITY calendar.unifinder.tree.categories.label          "Kategorija">
+<!ENTITY calendar.unifinder.tree.categories.tooltip2       "Po kategoriji sortěrować">
+<!ENTITY calendar.unifinder.tree.location.label            "Městno">
+<!ENTITY calendar.unifinder.tree.location.tooltip2         "Po městnje sortěrować">
+<!ENTITY calendar.unifinder.tree.status.label              "Status">
+<!ENTITY calendar.unifinder.tree.status.tooltip2           "Po statusu sortěrować">
+<!ENTITY calendar.unifinder.tree.calendarname.label        "Mjeno protyki">
+<!ENTITY calendar.unifinder.tree.calendarname.tooltip2     "Po protykowym mjenje sortěrować">
+<!ENTITY calendar.unifinder.tree.duration.label            "Termin">
+<!ENTITY calendar.unifinder.tree.duration.tooltip2         "Po času trěbneho dokónčenja sortěrować">
+<!ENTITY calendar.unifinder.close.tooltip                  "Pytanje podawkow a lisćinu podawkow začinić">
 
 <!ENTITY calendar.today.button.tooltip          "K dźensnišemu" >
 
 
+<!ENTITY calendar.day.button.tooltip            "Dnjowy napohlad wužiwać" >
+<!ENTITY calendar.week.button.tooltip           "Tydźenski napohlad wužiwać" >
+<!ENTITY calendar.month.button.tooltip          "Měsačny napohlad wužiwać" >
+<!ENTITY calendar.multiweek.button.tooltip      "Wjacetydźenski napohlad wužiwać" >
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY calendar.nextday.label                 "Přichodny dźeń" >
+<!ENTITY calendar.prevday.label                 "Předchadny dźeń" >
+<!ENTITY calendar.nextday.accesskey             "c" >
+<!ENTITY calendar.prevday.accesskey             "h" >
+<!ENTITY calendar.nextweek.label                "Přichodny tydźeń" >
+<!ENTITY calendar.prevweek.label                "Předchadny tydźeń" >
+<!ENTITY calendar.nextweek.accesskey            "i" >
+<!ENTITY calendar.prevweek.accesskey            "e" >
+<!ENTITY calendar.nextmonth.label               "Přichodny měsac" >
+<!ENTITY calendar.prevmonth.label               "Předchadny měsac" >
+<!ENTITY calendar.nextmonth.accesskey           "i" >
+<!ENTITY calendar.prevmonth.accesskey           "e" >
 
 <!ENTITY calendar.navigation.nextday.tooltip    "Jedyn dźeń doprědka" >
 
@@ -79,44 +87,55 @@
 
 <!ENTITY calendar.newevent.button.label         "Nowy podawk" >
 <!ENTITY calendar.newtask.button.label          "Nowy nadawk" >
-<!ENTITY calendar.print.button.label            "Ćišćeć" >
+<!ENTITY calendar.print.button.label            "Cišćeć" >
 <!ENTITY calendar.print.button.accesskey        "i">
 
+<!ENTITY calendar.day.button.label              "Dźeń" >
+<!ENTITY calendar.week.button.label             "Tydźeń" >
+<!ENTITY calendar.month.button.label            "Měsac" >
+<!ENTITY calendar.multiweek.button.label        "Wjacetydźeń" >
+
+
+
+
+<!ENTITY calendar.completedtasks.checkbox.label     "Dokónčene nadawki pokazać" >
+<!ENTITY calendar.completedtasks.checkbox.accesskey "k" >
 
 
 
 
 
-
-
-
-
-
-
-
-
-<!ENTITY calendar.list.header.label                 "Protyka">
-
-
-
+<!ENTITY calendar.task.filter.all.label             "Wšě">
+<!ENTITY calendar.task.filter.all.accesskey         "W">
 <!ENTITY calendar.task.filter.today.label           "Dźensa">
 <!ENTITY calendar.task.filter.today.accesskey       "D">
 
 
-
-
-
-
-
-
-
-
+<!ENTITY calendar.task.filter.notstarted.label      "Njezapočene nadawki">
+<!ENTITY calendar.task.filter.notstarted.accesskey  "a">
+<!ENTITY calendar.task.filter.overdue.label         "Nadawki, kotrež dyrbjeli hižo sčinjene być">
+<!ENTITY calendar.task.filter.overdue.accesskey     "h">
+<!ENTITY calendar.task.filter.completed.label       "Dokónčene nadawki">
+<!ENTITY calendar.task.filter.completed.accesskey   "k">
+<!ENTITY calendar.task.filter.open.label            "Njedospołne nadawki">
+<!ENTITY calendar.task.filter.open.accesskey        "s">
 <!-- LOCALIZATION NOTE(calendar.task.filter.current.label)
      "Current Tasks" will show all tasks, except those with a start date set
      that is after today and after the selected date. If a task repeats, a
      separate entry will be shown for each of the occurrences that happen on or
      before today (or the selected date, whichever is later). -->
 
+<!ENTITY calendar.task.filter.current.label         "Aktalne nadawki">
+<!ENTITY calendar.task.filter.current.accesskey     "a">
+
+<!ENTITY calendar.task-details.title.label           "titul">
+<!ENTITY calendar.task-details.organizer.label       "wot">
+<!ENTITY calendar.task-details.priority.label        "priorita">
+<!ENTITY calendar.task-details.priority.low.label    "Niska">
+<!ENTITY calendar.task-details.priority.normal.label "Normalna">
+<!ENTITY calendar.task-details.priority.high.label   "Wysoki">
+<!ENTITY calendar.task-details.status.label          "status">
+<!ENTITY calendar.task-details.category.label        "kategorija">
 
 
 
@@ -125,16 +144,9 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
+<!ENTITY calendar.task.text-filter.textbox.emptytext.base            "Nadawki filtrować… #1">
+<!ENTITY calendar.task.text-filter.textbox.emptytext.keylabel.nonmac "&lt;Strg+Umsch+K&gt;">
+<!ENTITY calendar.task.text-filter.textbox.emptytext.keylabel.mac    "&lt;&#x21E7;&#x2318;K&gt;">
 <!-- Context Menu -->
 
 <!ENTITY calendar.context.modifyorviewitem.label      "Wočinić">
@@ -149,7 +161,7 @@
 
 
 
-<!ENTITY calendar.context.cutevent.label              "Wutřihać">
+<!ENTITY calendar.context.cutevent.label              "Wutrihać">
 <!ENTITY calendar.context.cutevent.accesskey          "t">
 <!ENTITY calendar.context.copyevent.label             "Kopěrować">
 <!ENTITY calendar.context.copyevent.accesskey         "K">
@@ -172,8 +184,8 @@
 
 
 
-
-
+<!ENTITY progress.level.25            "25&percnt; dokónčene">
+<!ENTITY progress.level.25.accesskey  "2">
 
 
 
@@ -288,7 +300,7 @@
 
 <!-- Select Calendar Dialog -->
 <!-- Calendar Printing -->
-<!ENTITY calendar.print.title.label "Titul:">
+
 
 
 
