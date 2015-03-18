@@ -5,13 +5,13 @@
 
 <!ENTITY tabCmd.label "Böngészőlap">
 <!ENTITY tabCmd.accesskey "l">
-
+<!ENTITY tabCmd.commandkey "t">
 <!ENTITY openCmd.label "Webcím megnyitása…">
 <!ENTITY openCmd.accesskey "W">
-
+<!ENTITY openCmd.commandkey "l">
 <!ENTITY openFileCmd.label "Fájl megnyitása…">
 <!ENTITY openFileCmd.accesskey "F">
-
+<!ENTITY openFileCmd.commandkey "o">
 
 <!ENTITY closeOtherTabs.label "Többi böngészőlap bezárása">
 <!ENTITY closeOtherTabs.accesskey "b">
@@ -48,10 +48,10 @@
 <!ENTITY bidiSwitchPageDirectionItem.accesskey "l">
 <!ENTITY pageSourceCmd.label "Oldal forrása">
 <!ENTITY pageSourceCmd.accesskey "f">
-
+<!ENTITY pageSourceCmd.commandkey "u">
 <!ENTITY pageInfoCmd.label "Oldal adatai">
 <!ENTITY pageInfoCmd.accesskey "a">
-
+<!ENTITY pageInfoCmd.commandkey "i">
 <!-- Go Menu -->
 
 <!ENTITY goMenu.label "Ugrás">
@@ -60,7 +60,7 @@
 <!ENTITY goHomeCmd.accesskey "K">
 <!ENTITY historyCmd.label "Előzmények">
 <!ENTITY historyCmd.accesskey "l">
-
+<!ENTITY history.commandKey "h">
 <!ENTITY recentTabs.label "Nemrég bezárt lapok">
 <!ENTITY recentTabs.accesskey "N">
 <!ENTITY recentTabs.commandkey "t">
