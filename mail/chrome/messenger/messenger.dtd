@@ -29,13 +29,13 @@
 <!ENTITY newCreateEmailAccountCmd.label "Nieuwe e-mailaccount verkrijgen…">
 <!ENTITY newCreateEmailAccountCmd.accesskey "N">
 <!ENTITY newExistingEmailAccountCmd.label "Bestaande e-mailaccount…">
-<!ENTITY newExistingEmailAccountCmd.accesskey "B">
+<!ENTITY newExistingEmailAccountCmd.accesskey "e">
 <!ENTITY newIMAccountCmd.label "Chataccount…">
 <!ENTITY newIMAccountCmd.accesskey "C">
 <!ENTITY newFeedAccountCmd.label "Feedaccount…">
-<!ENTITY newFeedAccountCmd.accesskey "d">
+<!ENTITY newFeedAccountCmd.accesskey "F">
 <!ENTITY newIMContactCmd.label "Chatcontact…">
-<!ENTITY newIMContactCmd.accesskey "h">
+<!ENTITY newIMContactCmd.accesskey "t">
 <!ENTITY openMessageFileCmd.label "Opgeslagen bericht openen…">
 <!ENTITY openMessageFileCmd.accesskey "O">
 <!ENTITY saveAsMenu.label "Opslaan als">
