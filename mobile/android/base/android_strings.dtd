@@ -366,6 +366,10 @@ size. -->
 <!ENTITY site_settings_no_settings  "没有要清除的设置。">
 
 <!ENTITY reading_list_added "页面已添加到您的阅读列表">
+<!ENTITY reading_list_removed "页面已从您的阅读列表移除">
+<!-- Localization note (reading_list_remove) : Used to remove the currently open page from
+     the user's reading list. The opposite of overlay_share_reading_list_btn_label. -->
+<!ENTITY reading_list_remove "从阅读列表移除">
 <!ENTITY reading_list_duplicate "页面已在您的阅读列表中">
 <!-- Localization note (reading_list_time_minutes2) : This string is used in the "Reading List"
      panel on the home page to give the user an estimate of how many minutes it will take to

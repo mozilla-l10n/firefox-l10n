@@ -52,7 +52,7 @@
 <input id='searchtext' type='search'></input> 
 <button id='searchbutton'>搜索</button> 
 </div> 
-<li>请确认您使用了正斜杠（即 
+<li>请确认您使用的是正斜杠（即 
 <strong>/</strong>）。</li> 
 </ul>">
 
