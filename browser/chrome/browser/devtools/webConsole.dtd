@@ -74,7 +74,7 @@
 <!ENTITY btnConsoleWarnings     "Rabhaidh">
 <!ENTITY btnConsoleLog          "Logáil">
 <!ENTITY btnConsoleXhr          "XHR">
-
+<!ENTITY btnConsoleReflows      "Athsruthú">
 
 <!ENTITY filterOutput.placeholder "Scag an t-aschur">
 <!ENTITY btnClear.label        "Bánaigh">

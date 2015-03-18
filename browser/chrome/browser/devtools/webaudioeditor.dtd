@@ -20,12 +20,16 @@
 <!ENTITY webAudioEditorUI.reloadNotice2   "leathanach chun comhthéacs fuaime a fhéachaint agus a chur in eagar.">
 <!-- LOCALIZATION NOTE (webAudioEditorUI.emptyNotice): This is the label shown
   -  while the page is refreshing and the tool waits for a audio context. -->
+
+<!ENTITY webAudioEditorUI.emptyNotice     "Comhthéacs fuaime á chruthú, fan nóiméad…">
 <!-- LOCALIZATION NOTE (webAudioEditorUI.tab.properties2): This is the label shown
   -  for the properties tab view. -->
 
 <!ENTITY webAudioEditorUI.tab.properties2 "Airíonna">
 <!-- LOCALIZATION NOTE (webAudioEditorUI.tab.automation): This is the label shown
   -  for the automation tab view. -->
+
+<!ENTITY webAudioEditorUI.tab.automation  "Uathoibriú">
 <!-- LOCALIZATION NOTE (webAudioEditorUI.inspectorTitle): This is the title for the
   -  AudioNode inspector view. -->
 
@@ -40,6 +44,10 @@
 <!ENTITY webAudioEditorUI.propertiesEmpty "Níl aon airíonna ag an nód.">
 <!-- LOCALIZATION NOTE (webAudioEditorUI.automationEmpty): This is the title for the
   -  AudioNode inspector view automation tab empty message. -->
+
+<!ENTITY webAudioEditorUI.automationEmpty "Níl aon AudioParams ag an nód.">
 <!-- LOCALIZATION NOTE (webAudioEditorUI.automationNoEvents): This is the title for the
   -  AudioNode inspector view automation tab message when there are no automation
   -  events. -->
+
+<!ENTITY webAudioEditorUI.automationNoEvents "Níl aon teagmhais uathoibrithe ag AudioParam.">
