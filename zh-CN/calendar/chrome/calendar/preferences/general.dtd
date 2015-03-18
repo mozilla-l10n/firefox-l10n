@@ -33,6 +33,10 @@
 <!ENTITY pref.default_task_offset_start.label "相对开始时间的关系">
 <!ENTITY pref.default_task_offset_next_hour.label "相对下个小时的关系">
 
+<!ENTITY pref.calendar.todaypane.agenda.caption "今日面板">
+<!ENTITY pref.soondays.label "“即将到来”区块将显示：">
+<!ENTITY pref.soondays.accesskey "u">
+
 <!ENTITY pref.accessibility.label "可用性" >
 <!ENTITY pref.systemcolors.label "为无障碍使用优化颜色" >
 <!ENTITY pref.systemcolors.accesskey "c">
