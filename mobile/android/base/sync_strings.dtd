@@ -150,6 +150,8 @@
      etc).  The account remains a "Firefox Account". -->
 <!ENTITY fxaccount_create_account_header2 'Направите Firefox налог'>
 <!ENTITY fxaccount_create_account_password_length_restriction 'Мора бити најмање 8 карактера'>
+<!ENTITY fxaccount_create_account_day_of_birth 'Дан'>
+<!ENTITY fxaccount_create_account_month_of_birth 'Месец'>
 <!ENTITY fxaccount_create_account_year_of_birth 'Година рођења'>
 <!-- Localization note: &formatS1; is fxaccount_policy_linktos, &formatS2; is fxaccount_policy_linkprivacy, both hyperlinked. -->
 <!ENTITY fxaccount_create_account_policy_text2 'Ако наставите, слажете се са &formatS1; и &formatS2; Firefox cloud сервиса.'>
@@ -207,7 +209,6 @@
 <!ENTITY fxaccount_status_needs_upgrade 'Морате да надоградите &brandShortName; да би се пријавили.'>
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled '&syncBrand.shortName.label; је подешен, али не синхронизује аутоматски. Активирајте “Auto-sync data” у Android поставкама &gt; Data Usage.'>
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled_v21 '&syncBrand.shortName.label; је подешен, али не синхронизује аутоматски. Активирајте “Auto-sync data” у Android поставкама &gt; Accounts.'>
-<!ENTITY fxaccount_status_needs_account_enabled '&syncBrand.shortName.label; је подешен, али не синхронизује аутоматски. Притисните да бисте започели синхронизацију.'>
 <!ENTITY fxaccount_status_needs_finish_migrating 'Притисните да се пријавите на Ваш нови Firefox налог.'>
 <!ENTITY fxaccount_status_bookmarks 'Забелешке'>
 <!ENTITY fxaccount_status_history 'Историја'>

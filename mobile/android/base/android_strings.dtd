@@ -6,8 +6,8 @@
 <!ENTITY  no_space_to_start_error "Нема довољно простора на располагању за &brandShortName;.">
 <!ENTITY  error_loading_file "Дошло је до грешке приликом покушаја учитавања датотеке потребне за покретање &brandShortName;">
 
-<!ENTITY  onboard_start_message "Добродошли у &brandShortName;!">
-<!ENTITY  onboard_start_subtext "Посвећен Вама, Вашој приватности и отвореном вебу">
+<!ENTITY  onboard_start_message2 "Добродошли у &brandShortName;!">
+<!ENTITY  onboard_start_subtext2 "Више могућности за приватност и начина за прилагођавање.">
 <!ENTITY  onboard_start_button_account "Пријавите се на &brandShortName;">
 <!ENTITY  onboard_start_button_browser "Започните прегледање">
 
@@ -213,6 +213,8 @@ size. -->
 
 <!ENTITY pref_media_autoplay_enabled "Дозволи аутоматску репродукцију">
 <!ENTITY pref_media_autoplay_enabled_summary "Контролишите да ли веб сајтови могу да аутоматски репродукују видео или други медија садржај">
+<!ENTITY pref_zoom_force_enabled "Увек укључи зумирање">
+<!ENTITY pref_zoom_force_enabled_summary "Форсирај могућност увећавања било које странице">
 
 <!ENTITY pref_use_master_password "Користи главну лозинку">
 <!ENTITY pref_sync "Sync">
@@ -269,7 +271,7 @@ size. -->
      (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
 <!ENTITY datareporting_crashreporter_title_short "Извештач о рушењу">
 <!ENTITY datareporting_wifi_title2 "&vendorShortName; Сервис за локацију">
-<!ENTITY datareporting_wifi_geolocation_summary2 "Дели приближну Wi-Fi и мобилну локацију Вашег уређаја са &vendorShortName; да би унапредили сервис геолокације">
+<!ENTITY datareporting_wifi_geolocation_summary3 "Помозите &vendorShortName; да мапира свет! Поделите приближну Wi-Fi и мобилну локацију Вашег уређаја са &vendorShortName; да би унапредили сервис геолокације">
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
      actual notification that an update is available. -->
@@ -364,6 +366,10 @@ size. -->
 <!ENTITY site_settings_no_settings  "Нема поставки за чишћење.">
 
 <!ENTITY reading_list_added "Страница је додата на листу за читање">
+<!ENTITY reading_list_removed "Страница је уклоњена са листе за читање">
+<!-- Localization note (reading_list_remove) : Used to remove the currently open page from
+     the user's reading list. The opposite of overlay_share_reading_list_btn_label. -->
+<!ENTITY reading_list_remove "Уклони са листе за читање">
 <!ENTITY reading_list_duplicate "Страница је већ на листи за читање">
 
 <!-- Localization note (reading_list_time_minutes2) : This string is used in the "Reading List"
@@ -559,6 +565,13 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY actionbar_menu "Мени">
 <!ENTITY actionbar_done "Готово">
 
+<!-- Voice search in the awesome bar -->
+<!ENTITY voicesearch_prompt "Причајте сада">
+<!ENTITY voicesearch_failed_title "&brandShortName; гласовна претрага">
+<!ENTITY voicesearch_failed_message "Тренутно постоји проблем са гласовном претрагом. Покушајте поново касније.">
+<!ENTITY voicesearch_failed_message_recoverable "Жао нам је! Нисмо могли препознати Ваше речи. Покушајте поново касније.">
+<!ENTITY voicesearch_failed_retry "Покушај поново">
+
 <!-- Localization note (remote_tabs_last_synced): the variable is replaced by a
      "relative time span string" produced by Android.  This string describes the
      time the tabs were last synced relative to the current time; examples
@@ -566,6 +579,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      "Last synced" is one of the user's other Sync clients, typically Firefox on
      their desktop or laptop.-->
 <!ENTITY remote_tabs_last_synced "Последња синхронизација: &formatS;">
+<!-- Localization note: Used when the sync has not happend yet, showed in place of a date -->
+<!ENTITY remote_tabs_never_synced "Последња синхронизација: никада">
 
 <!-- Find-In-Page strings -->
 <!-- LOCALIZATION NOTE (find_matchcase): This is meant to appear as an icon that changes color
