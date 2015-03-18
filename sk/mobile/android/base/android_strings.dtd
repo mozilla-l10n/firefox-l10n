@@ -115,6 +115,10 @@
 <!ENTITY overlay_share_no_url "Nebol nájdený žiadny odkaz na zdieľanie">
 <!ENTITY overlay_share_retry "Skúsiť znova">
 <!ENTITY overlay_share_select_device "Zvoľte zariadenie">
+<!-- Localization note (overlay_no_synced_devices) : Used when the menu option
+     to send a tab to a synced device is pressed and no other synced devices
+     are found. -->
+<!ENTITY overlay_no_synced_devices "Nebolo nájdené žiadne zariadenie pripojené k účtu Firefox Account">
 
 <!ENTITY pref_category_search3 "Vyhľadávanie">
 <!ENTITY pref_category_search_summary "Prispôsobte si vyhľadávacie moduly">
