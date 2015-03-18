@@ -47,15 +47,17 @@
 <!ENTITY profilerUI.toolbar.js-calltree "JavaScript">
 <!ENTITY profilerUI.toolbar.memory-calltree "Cuimhne">
 
-
+<!ENTITY profilerUI.toolbar.memory-flamegraph "Bladhmchairt Chuimhne">
 <!-- LOCALIZATION NOTE (profilerUI.table.*): These strings are displayed
   -  in the call tree headers for a recording. -->
 
+<!ENTITY profilerUI.table.totalDuration2  "Am Iomlán">
+<!ENTITY profilerUI.table.selfDuration2   "Féin-Am">
 <!ENTITY profilerUI.table.totalPercentage "Costas Iomlán">
 <!ENTITY profilerUI.table.selfPercentage  "Féinchostas">
 <!ENTITY profilerUI.table.samples         "Samplaí">
-
-
+<!ENTITY profilerUI.table.totalAlloc      "Leithdháiltí Iomlána">
+<!ENTITY profilerUI.table.selfAlloc       "Féin-Leithdháileadh">
 <!ENTITY profilerUI.table.function        "Feidhm">
 <!-- LOCALIZATION NOTE (profilerUI.newtab.tooltiptext): The tooltiptext shown
   -  on the "+" (new tab) button for a profile when a selection is available. -->
@@ -63,8 +65,12 @@
 <!ENTITY profilerUI.newtab.tooltiptext "Oscail cluaisín nua ón roghnúchán">
 <!-- LOCALIZATION NOTE (profilerUI.options.tooltiptext): This is the tooltip
   -  for the options button. -->
+
+<!ENTITY profilerUI.options.tooltiptext "Sainroghanna feidhmíochta.">
 <!-- LOCALIZATION NOTE (profilerUI.invertTree): This is the label shown next to
   -  a checkbox that inverts and un-inverts the profiler's call tree. -->
+
+<!ENTITY profilerUI.invertTree             "Inbhéartaigh Crann na nGlaonna">
 
 <!-- LOCALIZATION NOTE (profilerUI.invertFlameGraph): This is the label shown next to
   -  a checkbox that inverts and un-inverts the profiler's flame graph. -->
