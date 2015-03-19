@@ -10,7 +10,7 @@
 <!ENTITY pasteCmd.accesskey "П">
 <!ENTITY undoCmd.label "Отмяна">
 <!ENTITY undoCmd.accesskey "О">
-<!ENTITY selectAllCmd.label "Маркиране на всичко">
+<!ENTITY selectAllCmd.label "Избиране на всичко">
 <!ENTITY selectAllCmd.accesskey "в">
 <!ENTITY deleteCmd.label "Изтриване">
 <!ENTITY deleteCmd.accesskey "т">

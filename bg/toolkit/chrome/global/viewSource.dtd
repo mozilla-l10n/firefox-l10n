@@ -14,7 +14,7 @@
 
 <!ENTITY fileMenu.label "Файл">
 <!ENTITY fileMenu.accesskey "Ф">
-<!ENTITY savePageCmd.label "Запис на страницата като…">
+<!ENTITY savePageCmd.label "Запазване на страницата като…">
 <!ENTITY savePageCmd.accesskey "к">
 <!ENTITY savePageCmd.commandkey "S">
 <!ENTITY pageSetupCmd.label "Настройка на страницата…">
