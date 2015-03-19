@@ -35,7 +35,7 @@
 <!ENTITY newFeedAccountCmd.label "Feedaccount…">
 <!ENTITY newFeedAccountCmd.accesskey "F">
 <!ENTITY newIMContactCmd.label "Chatcontact…">
-<!ENTITY newIMContactCmd.accesskey "t">
+<!ENTITY newIMContactCmd.accesskey "h">
 <!ENTITY openMessageFileCmd.label "Opgeslagen bericht openen…">
 <!ENTITY openMessageFileCmd.accesskey "O">
 <!ENTITY saveAsMenu.label "Opslaan als">
