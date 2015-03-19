@@ -162,11 +162,7 @@ functionality specific to firefox. -->
 <!ENTITY remoteXUL.title "XUL iš tinklo">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Siūlome susisiekti su svetainės savininkais ar valdytojais ir pranešti jiems apie šią problemą.</li></ul></p>">
 
-<!ENTITY oldSecurityProtocol.title "Nepavyko prisijungti saugiai">
-<!-- LOCALIZATION NOTE (oldSecurityProtocol.longDesc) - Do not translate the
-     <span id='hostname'></span>. -->
-<!ENTITY oldSecurityProtocol.longDesc2 "„&brandShortName;“ negali garantuoti jūsų duomenų saugumo, kai lankotės <span id='hostname'></span>, nes jie naudoja SSLv3, įveiktą saugumo protokolą.">
-<!-- LOCALIZATION NOTE (oldSecurityProtocol.advancedInfo) - Do not translate
-     the <span id='errorcode'></span>. -->
-<!ENTITY oldSecurityProtocol.advancedInfo "Detalesnė informacija: <span id='errorcode'></span>">
-<!ENTITY oldSecurityProtocol.learnMore "Sužinoti daugiau…">
+<!ENTITY sslv3Used.title "Nepavyko prisijungti saugiai">
+<!-- LOCALIZATION NOTE (sslv3Used.longDesc) - Do not translate
+     "ssl_error_unsupported_version". -->
+<!ENTITY sslv3Used.learnMore "Sužinoti daugiau…">

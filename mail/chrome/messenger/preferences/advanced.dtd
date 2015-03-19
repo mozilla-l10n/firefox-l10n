@@ -3,20 +3,21 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY itemGeneral.label       "Bendrosios">
+
 <!ENTITY itemDisplay.label       "Skaitymas ir rodymas">
 <!ENTITY itemUpdate.label        "Atnaujinimas">
 <!ENTITY itemNetworking.label    "Tinklas ir disko atmintis">
 <!ENTITY itemCertificates.label  "Liudijimai">
 <!-- General Settings -->
 
-
-<!ENTITY submitTelemetry.label         "Siųsti našumo ataskaitas">
-<!ENTITY submitTelemetry.accesskey     "n">
-<!ENTITY telemetryInfoLink.label       "Išsamėsnė informacija apie telemetriją">
 <!ENTITY enableGlodaSearch.label       "Įjungti globalią laiškų paiešką ir indeksavimą">
 <!ENTITY enableGlodaSearch.accesskey   "g">
 <!ENTITY allowHWAccel.label            "Jei įmanoma, naudoti aparatinį spartinimą">
 <!ENTITY allowHWAccel.accesskey        "a">
+
+
+
+
 
 <!ENTITY scrolling.label               "Slinkimas">
 <!ENTITY useAutoScroll.label           "Slinkti automatiškai">
@@ -37,6 +38,16 @@
 <!ENTITY returnReceiptsInfo.label      "Parinkite pažymų apie pristatytus laiškus nuostatas">
 <!ENTITY showReturnReceipts.label      "Laiškų pristatymo pažymos…">
 <!ENTITY showReturnReceipts.accesskey  "L">
+<!-- Data Choices -->
+
+
+
+
+
+
+
+
+
 <!-- Display and Reading Settings -->
 
 <!ENTITY reading.caption               "Skaitymas">

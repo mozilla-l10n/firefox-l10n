@@ -12,9 +12,9 @@
 <!ENTITY calendar.unifinder.todoitems.label       "Darbai" >
 <!ENTITY calendar.unifinder.showcompletedtodos.label "Rodyti užbaigtus darbus">
 
-<!ENTITY calendar.today.button.label       "Šiandiena">
+<!ENTITY calendar.today.button.label          "Šiandiena">
 <!ENTITY calendar.tomorrow.button.label       "Rytdiena">
-<!ENTITY calendar.soon.button.label           "Netrukus">
+
 
 <!ENTITY calendar.events.filter.all.label "Visi įvykiai">
 <!ENTITY calendar.events.filter.today.label "Šios dienos įvykiai">
@@ -233,8 +233,15 @@
 <!ENTITY calendar.context.newserver.accesskey          "N">
 <!ENTITY calendar.context.findcalendar.label           "Rasti kalendorių…" >
 <!ENTITY calendar.context.findcalendar.accesskey       "R" >
-<!ENTITY calendar.context.deleteserver.label           "Pašalinti kalendorių">
-<!ENTITY calendar.context.deleteserver.accesskey       "š">
+
+
+<!-- LOCALIZATION NOTE (calendar.context.removeserver.label): Removing the
+      calendar is the general action of removing it, while deleting means to
+      clear the data and unsubscribing means just taking it out of the calendar
+      list. -->
+
+
+
 <!ENTITY calendar.context.synccalendars.label          "Sinchronizuoti kalendorius">
 <!ENTITY calendar.context.synccalendars.accesskey      "S">
 <!ENTITY calendar.context.publish.label                "Publikuoti šį kalendorių">

@@ -6,6 +6,7 @@
 <!ENTITY itemAutoComplete.label              "Laiškų adresavimas">
 <!ENTITY itemSpellCheck.label                "Rašybos tikrinimas">
 
+
 <!ENTITY forwardMsg.label                     "Persiųsti laiškus:">
 <!ENTITY forwardMsg.accesskey                 "P">
 <!ENTITY inline.label                         "tiesiogiai">

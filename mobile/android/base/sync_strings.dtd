@@ -150,6 +150,8 @@
 
 <!ENTITY fxaccount_create_account_header2 "Susikurkite „Firefox“ paskyrą">
 <!ENTITY fxaccount_create_account_password_length_restriction "Turi būti bent 8 simbolių ilgio">
+
+
 <!ENTITY fxaccount_create_account_year_of_birth "Gimimo metai">
 <!-- Localization note: &formatS1; is fxaccount_policy_linktos, &formatS2; is fxaccount_policy_linkprivacy, both hyperlinked. -->
 <!ENTITY fxaccount_create_account_policy_text2 "Tęsdama(s) aš sutinku su „Firefox“ debesijos &formatS1; ir &formatS2;.">
@@ -191,7 +193,7 @@
 
 <!ENTITY fxaccount_finish_migrating_header "Prisijunkite, kad užbaigtumėte atnaujinimą">
 <!ENTITY fxaccount_finish_migrating_button_label "Baigti atnaujinimą">
-<!ENTITY fxaccount_finish_migrating_description "Atnaujinimo metu gali būti perduota daug duomenų, todėl geriausia prisijungti prie „WiFi“ tinklo.">
+
 
 <!ENTITY fxaccount_status_header2 "„Firefox“ paskyra">
 <!ENTITY fxaccount_status_signed_in_as "Prisijungėte kaip">
@@ -207,7 +209,6 @@
 <!ENTITY fxaccount_status_needs_upgrade "Jeigu norite prisijungti, turite atnaujinti „&brandShortName;“.">
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled "„&syncBrand.shortName.label;“ sukonfigūruota, tačiau duomenys nesinchronizuojami automatiškai. Įjunkite automatinį duomenų sinchronizavimą „Android“ nustatymų skiltyje „Duomenų naudojimas“.">
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled_v21 "„&syncBrand.shortName.label;“ sukonfigūruota, tačiau duomenys nesinchronizuojami automatiškai. Įjunkite automatinį duomenų sinchronizavimą „Android“ nustatymų skiltyje „Paskyros“.">
-<!ENTITY fxaccount_status_needs_account_enabled "„&syncBrand.shortName.label;“ sukonfigūruota, tačiau duomenys nesinchronizuojami automatiškai. Bakstelėkite sinchronizavimui pradėti.">
 <!ENTITY fxaccount_status_needs_finish_migrating "Bakstelėkite, norėdami prisijungti prie savo naujosios „Firefox“ paskyros.">
 <!ENTITY fxaccount_status_bookmarks "Adresynas">
 <!ENTITY fxaccount_status_history "Žurnalas">

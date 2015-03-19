@@ -14,8 +14,8 @@
 <!ENTITY playSound.accesskey            "g">
 <!ENTITY systemSound.label              "pyptelėti">
 <!ENTITY systemSound.accesskey          "p">
-
-
+<!ENTITY customSound.label              "parinkti kitą garso failą">
+<!ENTITY customSound.accesskey          "f">
 
 <!ENTITY selectSound.label              "Parinkti…">
 <!ENTITY selectSound.accesskey          "P">

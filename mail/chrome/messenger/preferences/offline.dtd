@@ -11,8 +11,8 @@
 <!ENTITY radioRememberPrevState.accesskey "m">
 <!ENTITY radioAskState.label "Paklausti ryšio būsenos">
 <!ENTITY radioAskState.accesskey "k">
-<!ENTITY radioAlwaysOnline.label "Prijungta">
-<!ENTITY radioAlwaysOnline.accesskey "l">
+<!ENTITY radioAlwaysOnlineState.label "Prijungta">
+<!ENTITY radioAlwaysOnlineState.accesskey "l">
 <!ENTITY radioAlwaysOffline.label "Atjungta">
 <!ENTITY radioAlwaysOffline.accesskey "A">
 

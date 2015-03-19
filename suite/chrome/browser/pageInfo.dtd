@@ -7,14 +7,13 @@
 
 <!ENTITY  pageInfoWindow.dimensions  "width: 100ch; height: 38em;">
 
-<!ENTITY  copy.key               "C">
 <!ENTITY  copy.label             "Kopijuoti">
 <!ENTITY  copy.accesskey         "K">
-<!ENTITY  selectall.key          "A">
+
 <!ENTITY  selectall.label        "Pažymėti viską">
 <!ENTITY  selectall.accesskey    "v">
-<!ENTITY  openHelpMac.key        "?">
-<!ENTITY  closeWindow.key        "w">
+
+
 <!ENTITY  copyLinks.label           "Kopijuoti saitą (-us)">
 <!ENTITY  copyLinks.accesskey       "o">
 <!ENTITY  openInNewTab.label        "Atverti naujoje kortelėje">
@@ -23,7 +22,7 @@
 <!ENTITY  openInNewWindow.accesskey "l">
 
 <!ENTITY  generalTab            "Bendroji">
-<!ENTITY  generalTab.accesskey  "B">
+
 <!ENTITY  generalURL            "URL:">
 <!ENTITY  generalType           "Tipas:">
 <!ENTITY  generalMode           "Atvaizdavimo veiksena:">
@@ -35,14 +34,14 @@
 <!ENTITY  generalMetaName       "Vardas">
 <!ENTITY  generalMetaContent    "Reikšmė">
 <!ENTITY  generalSecurityDetails           "Išsamiau">
-<!ENTITY  generalSecurityDetails.accesskey "I">
+
 
 <!ENTITY  formsTab              "Formos">
-<!ENTITY  formsTab.accesskey    "F">
+
 <!ENTITY  formAction            "Programa">
 <!ENTITY  formMethod            "Metodas">
-<!ENTITY  formName              "Vardas">
-<!ENTITY  formEncoding          "Koduotė:">
+
+
 <!ENTITY  formTarget            "Paskirties objektas:">
 <!ENTITY  formFields            "Laukai">
 <!ENTITY  formLabel             "Pavadinimas">
@@ -51,39 +50,39 @@
 <!ENTITY  formCValue            "Dabartinė reikšmė">
 
 <!ENTITY  linksTab              "Saitai">
-<!ENTITY  linksTab.accesskey    "S">
-<!ENTITY  linkName              "Vardas">
+
+
 <!ENTITY  linkAddress           "Adresas">
-<!ENTITY  linkType              "Tipas">
+
 <!ENTITY  linkTarget            "Paskirties objektas">
 <!ENTITY  linkAccessKey         "Spartusis klavišas">
 
 <!ENTITY  mediaTab              "Įvairialypė terpė">
-<!ENTITY  mediaTab.accesskey    "t">
-<!ENTITY  mediaURL              "URL:">
+
+
 <!ENTITY  mediaAlt              "Alternatyvusis tekstas:">
 <!ENTITY  mediaAltHeader        "Alternatyvus tekstas">
-<!ENTITY  mediaAddress          "Adresas">
-<!ENTITY  mediaType             "Tipas">
+
+
 <!ENTITY  mediaSize             "Dydis">
 <!ENTITY  mediaCount            "Kiekis">
 <!ENTITY  mediaDimensions       "Matmenys:">
 <!ENTITY  mediaPhysDimensions   "Fiziniai matmenys:">
 <!ENTITY  mediaTitle            "Antraštės požymis:">
 <!ENTITY  mediaLongdesc         "Ilgas aprašas:">
-<!ENTITY  mediaBlockImage.accesskey "N">
+
 <!ENTITY  mediaSaveAs           "Įrašyti kaip…">
-<!ENTITY  mediaSaveAs.accesskey "r">
-<!ENTITY  mediaSaveAs2.accesskey "š">
+
+
 <!ENTITY  mediaPreview          "Elemento peržiūra:">
 
 <!ENTITY  feedTab               "Sklaidos kanalai">
-<!ENTITY  feedTab.accesskey     "S">
+
 <!ENTITY  feedSubscribe         "Prenumeruoti">
-<!ENTITY  feedSubscribe.accesskey "P">
+
 
 <!ENTITY  permTab               "Leidimai">
-<!ENTITY  permTab.accesskey     "L">
+
 <!ENTITY  permUseDefault        "Naudoti numatytąsias nuostatas">
 <!ENTITY  permAskAlways         "Visada klausti">
 <!ENTITY  permAllow             "Leisti">
@@ -98,10 +97,10 @@
 <!ENTITY  permGeo               "Jūsų buvimo vietos nustatymas">
 
 <!ENTITY  securityTab           "Saugumas">
-<!ENTITY  securityTab.accesskey "S">
+
 <!ENTITY  securityHeader        "Informacija apie šio tinklalapio saugumą">
 <!ENTITY  securityView.certView "Rodyti liudijimą">
-<!ENTITY  securityView.accesskey "R">
+
 <!ENTITY  securityView.unknown   "Nežinomas">
 
 
@@ -114,9 +113,9 @@
 <!ENTITY  securityView.privacy.history                  "Ar anksčiau jau lankiausi šioje svetainėje?">
 <!ENTITY  securityView.privacy.cookies                  "Ar ši svetainė turi įrašiusi slapukų mano kompiuteryje?">
 <!ENTITY  securityView.privacy.viewCookies              "Rodyti slapukus">
-<!ENTITY  securityView.privacy.viewCookies.accessKey    "R">
+
 <!ENTITY  securityView.privacy.passwords                "Ar turiu įsimintų šios svetainės slaptažodžių?">
 <!ENTITY  securityView.privacy.viewPasswords            "Rodyti slaptažodžius">
-<!ENTITY  securityView.privacy.viewPasswords.accessKey  "o">
+
 
 <!ENTITY  securityView.technical.header                 "Techninė informacija">

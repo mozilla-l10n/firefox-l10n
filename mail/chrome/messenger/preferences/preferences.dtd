@@ -17,3 +17,6 @@
 <!ENTITY panePrivacy.title        "Privatumas">
 <!ENTITY paneSecurity.title       "Saugumas">
 <!ENTITY paneAdvanced.title       "Kitkas">
+<!ENTITY paneAccount.title        "Paskyros">
+
+
