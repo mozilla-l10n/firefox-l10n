@@ -6,6 +6,7 @@
 <!ENTITY  no_space_to_start_error "Nincs elég hely a &brandShortName; elindításához.">
 <!ENTITY  error_loading_file "Hiba történt a &brandShortName; futtatásához szükséges fájlok betöltésekor.">
 
+<!ENTITY  onboard_start_message2 "Üdvözli a &brandShortName;!">
 
 <!ENTITY  onboard_start_button_account "Bejelentkezés &brandShortName;ba">
 <!ENTITY  onboard_start_button_browser "Böngészés megkezdése">
