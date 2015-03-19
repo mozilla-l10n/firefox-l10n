@@ -5,7 +5,7 @@
 
 
 <!ENTITY copyAndFolderTitle.label "Copii și dosare">
-<!ENTITY sendingPrefix.label "La trimiterea unui mesaj:">
+<!ENTITY sendingPrefix.label "La trimiterea unui mesaj, automat: ">
 <!ENTITY fccMailFolder.label "Plasează automat o copie în:">
 <!ENTITY fccMailFolder.accesskey "P">
 <!ENTITY fccReplyFollowsParent.label "Pune răspunsurile în dosarul cu mesajul la care se răspunde">

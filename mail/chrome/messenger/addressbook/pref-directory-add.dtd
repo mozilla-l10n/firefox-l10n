@@ -3,11 +3,11 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY newDirectoryTitle.label           "Proprietăți server LDAP">
-<!ENTITY directoryName.label               "Nume: ">
+<!ENTITY directoryName.label               "Nume: ">
 <!ENTITY directoryName.accesskey           "N">
-<!ENTITY directoryHostname.label           "Nume host: ">
+<!ENTITY directoryHostname.label           "Nume host: ">
 <!ENTITY directoryHostname.accesskey       "o">
-<!ENTITY directoryBaseDN.label             "DN bază:">
+<!ENTITY directoryBaseDN.label             "DN bază: ">
 <!ENTITY directoryBaseDN.accesskey         "b">
 <!ENTITY findButton.label                  "Caută">
 <!ENTITY findButton.accesskey              "C">
@@ -18,11 +18,11 @@
 <!ENTITY General.tab                       "Generalități">
 <!ENTITY Offline.tab                       "Offline">
 <!ENTITY Advanced.tab                      "Avansat">
-<!ENTITY portNumber.label                  "Număr port:">
+<!ENTITY portNumber.label                  "Număr port: ">
 <!ENTITY portNumber.accesskey              "p">
-<!ENTITY searchFilter.label                "Filtru căutare:">
+<!ENTITY searchFilter.label                "Filtru căutare: ">
 <!ENTITY searchFilter.accesskey            "F">
-<!ENTITY scope.label                       "Interval:">
+<!ENTITY scope.label                       "Interval: ">
 <!ENTITY scope.accesskey                   "I">
 <!ENTITY scopeOneLevel.label               "Un nivel">
 <!ENTITY scopeOneLevel.accesskey           "n">

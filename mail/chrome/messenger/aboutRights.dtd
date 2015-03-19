@@ -50,7 +50,7 @@
 
 <!ENTITY rights.webservices-a "&brandFullName; oferă servicii opționale („Servicii”), cum este serviciul de actualizare al suplimentelor, care vă sunt disponibile pentru utilizare împreună cu această versiune binară de &brandShortName; precum este descris mai jos. Dacă nu doriți să folosiți serviciile sau termenii de mai jos vă sunt inacceptabili, puteți dezactiva serviciul de actualizare al extensiilor deschizând preferințele aplicației și selectând ">
 <!ENTITY rights.webservices-b "Avansat">
-<!ENTITY rights.webservices-c " secțiune, urmată de ">
+<!ENTITY rights.webservices-c " secțiune, urmată de ">
 <!ENTITY rights.webservices-d "Actualizare">
 <!ENTITY rights.webservices-e " unde trebuie să nu bifați opțiunile din secțiunea „Caută automat actualizări pentru”.">
 <!-- intro paragraph for unbranded builds -->

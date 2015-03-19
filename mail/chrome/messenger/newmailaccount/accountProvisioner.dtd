@@ -12,7 +12,7 @@
      one line with error.suggest.middle that links to a site which provides download
      of free account alternatives. -->
 
-<!ENTITY error.suggest.before "Puteți încerca și una dintre">
+<!ENTITY error.suggest.before "Puteți încerca și una dintre ">
 <!ENTITY error.suggest.middle "alternativele de conturi gratuite de e-mail">
 <!ENTITY error.suggest.after ".">
 <!-- LOCALIZATION NOTE(success.title.before, success.title.after):
