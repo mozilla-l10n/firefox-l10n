@@ -6,8 +6,7 @@
 <!ENTITY  no_space_to_start_error "Boowal mbeɗu ena ŋakki ngam &brandShortName; waawa hurmude.">
 <!ENTITY  error_loading_file "Juumre waɗii tuma nde piille coklaaɗe etaa looweede ngam hurminde &brandShortName;">
 
-<!ENTITY  onboard_start_message "A jaɓɓaama e &brandShortName;!">
-<!ENTITY  onboard_start_subtext "Ena tiiɗa maa, suturo maa e Geese Udditiiɗe">
+
 <!ENTITY  onboard_start_button_account "Seŋo e &brandShortName;">
 <!ENTITY  onboard_start_button_browser "Fuɗɗo Peeragol">
 <!-- Localization note: These are used as the titles of different pages on the home screen.
@@ -75,7 +74,7 @@
 <!ENTITY switch_button_message "SWITCH">
 
 <!ENTITY settings "Teelte">
-<!ENTITY settings_title "Teelte">
+
 <!ENTITY pref_category_advanced "Ceeɓore">
 <!ENTITY pref_category_customize "Heertin">
 <!ENTITY pref_category_customize_summary "Jaɓɓorgo, yiylo, tabbe, jiggo">
@@ -99,8 +98,6 @@
 <!-- Localization note (overlay_share_bookmark_btn_label) : This string is
      used in the share overlay menu to select an action. It is the verb
      "to bookmark", not the noun "a bookmark". -->
-
-<!ENTITY overlay_share_bookmark_btn_label "Maantoro">
 <!ENTITY overlay_share_reading_list_btn_label "Ɓeydu e Doggol Taro">
 <!ENTITY overlay_share_bookmark_btn_label_already "Koko maantoranoo">
 <!ENTITY overlay_share_reading_list_btn_label_already "Ena e doggol tarol kisa">
@@ -112,10 +109,9 @@
 
 <!ENTITY overlay_share_send_tab_btn_label "Deldu to kaɓirgol goɗngol">
 <!ENTITY overlay_share_no_url "Alaa jokkol tawaa e ngol lollinol">
-<!ENTITY overlay_share_retry "Eto goɗngol">
+
 <!ENTITY overlay_share_select_device "Labo kaɓitgol">
 
-<!ENTITY pref_category_search3 "Yiylo">
 <!ENTITY pref_category_search_summary "Heertin carwinooɓe njiilaw maa">
 <!ENTITY pref_category_display "Jaytino">
 <!ENTITY pref_category_display_summary "Binndol, balal tiitoonde, bangagol njaajeendi-yaynirde">
@@ -129,7 +125,7 @@
 <!ENTITY pref_category_add_search_providers "Ɓeydu carwinooɓe njiilaw woɗɓe">
 <!ENTITY pref_category_search_restore_defaults "Artir jiylorɗe">
 <!ENTITY pref_search_restore_defaults "Artir goowaaɗe">
-<!ENTITY pref_search_restore_defaults_summary "Artir goowaaɗe">
+
 <!-- Localization note (pref_search_hint) : "TIP" as in "hint", "clue" etc. Displayed as an
      advisory message on the customise search providers settings page explaining how to add new
      search providers.
@@ -159,16 +155,14 @@
 <!ENTITY pref_home_suggested_sites_summary "Hollu codorɗe lowe e hello jaɓɓorgo maa ɗe min cikki aɗa foti hatojinde">
 <!-- Localization note: These are shown in the left sidebar on tablets -->
 
-<!ENTITY pref_header_customize "Heertin">
-<!ENTITY pref_header_display "Jaytino">
-<!ENTITY pref_header_privacy_short "Suturo">
+
 <!ENTITY pref_header_help "Ballal">
-<!ENTITY pref_header_language "Ɗemngal">
-<!ENTITY pref_header_vendor "&vendorShortName;">
-<!ENTITY pref_header_devtools "Kuutorɗe topaajo">
+
+
+
 
 <!ENTITY pref_cookies_menu "Kukiije">
-<!ENTITY pref_cookies_accept_all "Daaƴtaaɗo">
+
 <!ENTITY pref_cookies_not_accept_foreign "Daaƴtaaɗo, wondaani e ɓe woɗɓe">
 <!ENTITY pref_cookies_disabled "Daaƴaama">
 
@@ -186,9 +180,9 @@
 <!ENTITY pref_clear_on_exit_summary2 "&brandShortName; maa momtu e jaajol tuma kala nde labi-ɗaa  \0022Yaltu\u0022 e dosol dowrowol ngol">
 <!ENTITY pref_clear_on_exit_dialog_title "Labo keɓe momteteeɗe">
 <!ENTITY pref_plugins "Ceŋe">
-<!ENTITY pref_plugins_enabled "Daaƴtaaɗo">
+
 <!ENTITY pref_plugins_tap_to_play "Fiy ngam tarde">
-<!ENTITY pref_plugins_disabled "Daaƴaama">
+
 <!ENTITY pref_text_size "Ɓetol binndi">
 <!ENTITY pref_reflow_on_zoom4 "Duttagol binndi">
 <!ENTITY pref_restore "Taaɓe">
@@ -205,7 +199,6 @@
 same character/combination is used to increase the preview font size. It should be a concise
 representation of the language it is used in that will help show the text in the preview will change
 size. -->
-<!ENTITY pref_font_size_adjust_char "A">
 <!-- Localization note (pref_font_size_preview_text): This paragraph is used as an example to
     demonstrate the font size setting.  It is meant to be whimsical and fun. -->
 
@@ -213,6 +206,8 @@ size. -->
 
 <!ENTITY pref_media_autoplay_enabled "Yamir tarol jaajol">
 <!ENTITY pref_media_autoplay_enabled_summary "Ƴeewto so lowe geese ena mbaawi tarde widewooji e mejaaje goɗɗe e jaajol">
+
+
 
 <!ENTITY pref_use_master_password "Huutoro finnde baabaare">
 <!ENTITY pref_sync "Sanngoɗin">
@@ -269,22 +264,20 @@ size. -->
      (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
 <!ENTITY datareporting_crashreporter_title_short "Jaŋtorde Kooke">
 <!ENTITY datareporting_wifi_title2 "Carwol Nokkuure &vendorShortName;">
-<!ENTITY datareporting_wifi_geolocation_summary2 "Lollinat nokkuure seluleer Wifi kaɓirgol maa e &vendorShortName; ngam ƴellitde carwol tolnitorde amen">
+
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
      actual notification that an update is available. -->
 <!ENTITY pref_update_autodownload2 "Aawto kesɗitine e jaajol">
-<!ENTITY pref_update_autodownload_wifi "E Wifi tan">
+
 <!ENTITY pref_update_autodownload_never "Hay sahaa">
 <!ENTITY pref_update_autodownload_always "Sahaa kala">
 <!-- Localization note (help_menu) : This string is used in the main menu-->
 
-<!ENTITY help_menu "Ballal">
-
 <!ENTITY quit "Yaltu">
 
 <!ENTITY addons "Ɓeyditte">
-<!ENTITY downloads "Gaawte">
+
 <!ENTITY apps "Jaaɓɗe">
 <!ENTITY char_encoding "Dokkitannde Alkule">
 
@@ -300,7 +293,7 @@ size. -->
 <!ENTITY new_private_tab "Tabbere Suuriinde Hesere">
 <!ENTITY close_all_tabs "Uddu Tabbe Fofo">
 <!ENTITY close_private_tabs "Uddu Tabbe Cuuriiɗe">
-<!ENTITY tabs_normal "Tabbe">
+
 <!ENTITY tabs_private "Cuuriɗum">
 <!ENTITY tabs_synced "Synced">
 <!ENTITY set_image_fail "Horiima suɓaade natal">
@@ -308,31 +301,29 @@ size. -->
 <!ENTITY set_image_chooser_title "Waɗtu Natal Ngal">
 <!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
-
-<!ENTITY find_text "Yiytu e Hello">
 <!ENTITY find_prev "Ɓennuɗo">
 <!ENTITY find_next "Payɗo">
-<!ENTITY find_close "Uddu">
+
 <!-- Localization note (media_sending_to, media_play, media_pause, media_stop) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
 
 <!ENTITY media_sending_to "Nana nelda to Kaɓirgol">
 <!ENTITY media_play "Tar">
 <!ENTITY media_pause "Sabbo">
-<!ENTITY media_stop "Dartin">
+
 
 <!ENTITY contextmenu_open_new_tab "Uddit e Tabbere Hesere">
 <!ENTITY contextmenu_open_private_tab "Uddit e Henorde Suuriinde">
-<!ENTITY contextmenu_remove "Momtu">
+
 <!ENTITY contextmenu_add_to_launcher "Ɓeydu to Hello Jaɓɓorgo">
-<!ENTITY contextmenu_share "Simmin">
+
 <!ENTITY contextmenu_pasteandgo "Ɗakku Njahaa">
 <!ENTITY contextmenu_paste "Ɗakku">
 <!ENTITY contextmenu_copyurl "Natto Ñiiɓirde">
 <!ENTITY contextmenu_edit_bookmark "Taƴto">
 <!ENTITY contextmenu_subscribe "Lulno e Hello">
 <!ENTITY contextmenu_site_settings "Taƴto Teelte Lowre">
-<!ENTITY contextmenu_top_sites_edit "Taƴto">
+
 <!ENTITY contextmenu_top_sites_pin "Ñippu Lowre">
 <!ENTITY contextmenu_top_sites_unpin "Ñippit Lowre">
 <!ENTITY contextmenu_add_search_engine "Ɓeydu Yiilorde">
@@ -359,11 +350,14 @@ size. -->
      dialog that appears after selecting the "Edit Site Settings" context menu item. -->
 
 <!ENTITY site_settings_title3       "Teelte Lowre">
-<!ENTITY site_settings_cancel       "Haaytu">
+
 <!ENTITY site_settings_clear        "Momtu">
 <!ENTITY site_settings_no_settings  "Teelte ngalaa saka momtee.">
 
 <!ENTITY reading_list_added "Hello ɓeydaama e Doggol Taro maa">
+<!ENTITY reading_list_removed "Hello momtaama e Doggol Taro maa">
+<!-- Localization note (reading_list_remove) : Used to remove the currently open page from
+     the user's reading list. The opposite of overlay_share_reading_list_btn_label. -->
 <!ENTITY reading_list_duplicate "Hello ɓeydaanooma e Doggol Taro maa">
 <!-- Localization note (reading_list_time_minutes2) : This string is used in the "Reading List"
      panel on the home page to give the user an estimate of how many minutes it will take to
@@ -382,12 +376,12 @@ size. -->
 <!ENTITY masterpassword_confirm "Teeŋtin finnde">
 
 <!ENTITY button_ok "OK">
-<!ENTITY button_cancel "Haaytu">
+
 <!ENTITY button_yes "Eey">
 <!ENTITY button_no "Alaa">
 <!ENTITY button_clear_data "Momtu keɓe">
-<!ENTITY button_set "Suɓo">
-<!ENTITY button_clear "Momtu">
+
+
 
 <!ENTITY home_top_sites_title "Lowe Dowrowe">
 <!-- Localization note (home_top_sites_add): This string is used as placeholder
@@ -397,7 +391,7 @@ size. -->
      with the page title defined in aboutHome.dtd -->
 
 <!ENTITY home_title "Jaɓɓorgo &brandShortName;">
-<!ENTITY home_history_title "Aslol">
+
 <!ENTITY home_clear_history_button "Momtu aslol peeraagol">
 <!ENTITY home_clear_history_confirm "Aɗa yenanaa yiɗde momtude aslol maa?">
 <!ENTITY home_bookmarks_empty "Maantore ndanndu-ɗaa njaltata ɗoo.">
@@ -459,7 +453,6 @@ size. -->
 
 <!ENTITY pin_site_dialog_hint "Naatnu helmere njiilaw">
 
-<!ENTITY filepicker_title "Labo Fiilde">
 <!ENTITY filepicker_audio_title "Labo walla nanngito ojoo">
 <!ENTITY filepicker_image_title "Labo walla ɓam natal">
 <!ENTITY filepicker_video_title "Labo walla fiil widewoo">
@@ -530,34 +523,32 @@ iwde e Android">
 <!ENTITY updater_downloading_select2 "Mem ɗoo ngam jamminde so aawtaama">
 <!ENTITY updater_downloading_retry2 "Mem ɗoo ngam etaade kadi">
 
-<!ENTITY updater_apply_title2 "Kesɗitinal &brandShortName; ena woodi">
 <!ENTITY updater_apply_select2 "Mem ɗoo ngam hesɗitinde">
 <!-- Guest mode -->
 
 <!ENTITY new_guest_session "Naatannde Koɗo Hesere">
 <!ENTITY exit_guest_session "Yaltu Naatannde Koɗo">
 <!ENTITY guest_session_dialog_continue "Jokku">
-<!ENTITY guest_session_dialog_cancel "Haaytu">
+
 <!ENTITY new_guest_session_title "&brandShortName; maa hurmu jooni">
 <!ENTITY new_guest_session_text "Neɗɗo kuutortooɗo ɗum oo waawataa yiyde hay baɗte e keɓe maa keeriiɗe (wano finndeeji danndaaɗi, aslol walla maantore).\n\n So koɗo haljitii, keɓe banngagol mum maa momte kisa naatannde maa artiree.">
 <!ENTITY guest_browsing_notification_title "Banngagol bismo hurmii">
 <!ENTITY guest_browsing_notification_text "Tappu ngam yaltude">
 
-<!ENTITY exit_guest_session_title "&brandShortName; maa hurmu jooni">
 <!ENTITY exit_guest_session_text "Keɓe banngagol ndee naatannde maa momte.">
 <!-- Miscellaneous -->
 <!-- LOCALIZATION NOTE (ellipsis): This text is appended to a piece of text that does not fit in the
      designated space. Use the unicode ellipsis char, \u2026, or use "..." if \u2026 doesn't suit
      traditions in your locale. -->
 
-<!ENTITY ellipsis "…">
-
-<!ENTITY colon ":">
 <!-- These are only used for accessibility for the done and overflow-menu buttons in the actionbar.
      They are never shown to users -->
-
-<!ENTITY actionbar_menu "Dosol">
 <!ENTITY actionbar_done "Gasii">
+<!-- Voice search in the awesome bar -->
+
+
+
+
 <!-- Localization note (remote_tabs_last_synced): the variable is replaced by a
      "relative time span string" produced by Android.  This string describes the
      time the tabs were last synced relative to the current time; examples
@@ -566,6 +557,7 @@ iwde e Android">
      their desktop or laptop.-->
 
 <!ENTITY remote_tabs_last_synced "Syncaa wattan: &formatS;">
+<!-- Localization note: Used when the sync has not happend yet, showed in place of a date -->
 <!-- Find-In-Page strings -->
 <!-- LOCALIZATION NOTE (find_matchcase): This is meant to appear as an icon that changes color
      if match-case is activated. i.e. No more than two letters, one uppercase, one lowercase. -->
