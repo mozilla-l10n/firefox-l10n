@@ -74,6 +74,7 @@
 <!ENTITY overlay_share_no_url "No se ha encontrado enlace en esta compartición">
 <!ENTITY overlay_share_retry "Reintentar">
 <!ENTITY overlay_share_select_device "Seleccione dispositivo">
+<!ENTITY overlay_no_synced_devices "No se han encontrado dispositivos conectados a Firefox Accounts">
 <!ENTITY pref_category_search3 "Buscar">
 <!ENTITY pref_category_search_summary "Personalizar sus buscadores">
 <!ENTITY pref_category_display "Visualización">
@@ -124,6 +125,8 @@
 <!ENTITY pref_tracking_protection_summary "&brandShortName; impedirá que los sitios le rastreen">
 <!ENTITY pref_donottrack_title "No rastrear">
 <!ENTITY pref_donottrack_summary "&brandShortName; indicará a los sitios que no quiere ser rastreado">
+<!ENTITY tab_queue_toast_message "Abrir más tarde">
+<!ENTITY tab_queue_toast_action "Abrir ahora">
 <!ENTITY pref_char_encoding "Mostrar cod. de caract.">
 <!ENTITY pref_char_encoding_on "Mostrar el menú">
 <!ENTITY pref_char_encoding_off "No mostrar el menú">
