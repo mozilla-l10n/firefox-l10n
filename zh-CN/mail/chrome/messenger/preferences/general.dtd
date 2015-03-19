@@ -35,3 +35,5 @@
 <!ENTITY customsound.accesskey            "U">
 <!ENTITY browse.label                     "浏览…">
 <!ENTITY browse.accesskey                 "B">
+
+<!ENTITY defaultSearchEngine.label        "默认搜索引擎">

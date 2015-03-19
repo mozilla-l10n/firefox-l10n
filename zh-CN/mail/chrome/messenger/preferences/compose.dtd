@@ -6,6 +6,8 @@
 <!ENTITY itemAutoComplete.label              "地址查找">
 <!ENTITY itemSpellCheck.label                "拼写检查">
 
+<!ENTITY dialogCompose.title                 "撰写">
+
 <!ENTITY forwardMsg.label                     "转发消息：">
 <!ENTITY forwardMsg.accesskey                 "F">
 <!ENTITY inline.label                         "内联">

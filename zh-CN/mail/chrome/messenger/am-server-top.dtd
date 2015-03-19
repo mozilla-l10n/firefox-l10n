@@ -84,3 +84,7 @@
 
 <!ENTITY accountTitle.label "帐户设置">
 <!ENTITY accountSettingsDesc.label "以下是特殊帐户。没有相关标识。">
+<!ENTITY storeType.label "消息存储方式：">
+<!ENTITY storeType.accesskey "T">
+<!ENTITY mboxStore.label "单一大文件（mbox）">
+<!ENTITY maildirStore.label "为每条消息创建文件（maildir）">

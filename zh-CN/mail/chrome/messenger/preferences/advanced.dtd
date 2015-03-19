@@ -3,20 +3,21 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY itemGeneral.label       "常规">
+<!ENTITY dataChoicesTab.label    "反馈">
 <!ENTITY itemDisplay.label       "阅读 &amp; 显示">
 <!ENTITY itemUpdate.label        "更新">
 <!ENTITY itemNetworking.label    "网络 &amp; 磁盘空间">
 <!ENTITY itemCertificates.label  "证书">
 <!-- General Settings -->
 
-
-<!ENTITY submitTelemetry.label         "提交性能数据">
-<!ENTITY submitTelemetry.accesskey     "P">
-<!ENTITY telemetryInfoLink.label       "更多有关遥测的信息">
 <!ENTITY enableGlodaSearch.label       "启用全局搜索以及索引">
 <!ENTITY enableGlodaSearch.accesskey   "E">
 <!ENTITY allowHWAccel.label            "自动启用硬件加速">
 <!ENTITY allowHWAccel.accesskey        "h">
+<!ENTITY storeType.label               "新账户的消息存储类型：">
+<!ENTITY storeType.accesskey           "T">
+<!ENTITY mboxStore.label               "一个大文件（邮件容器）">
+<!ENTITY maildirStore.label            "每个消息一个文件（邮件文件夹）">
 
 <!ENTITY scrolling.label               "滚动">
 <!ENTITY useAutoScroll.label           "使用自动滚屏">
@@ -37,6 +38,19 @@
 <!ENTITY returnReceiptsInfo.label      "指定 &brandShortName; 如何处理回执">
 <!ENTITY showReturnReceipts.label      "回执…">
 <!ENTITY showReturnReceipts.accesskey  "R">
+<!-- Data Choices -->
+
+<!ENTITY telemetrySection.label          "遥测">
+<!ENTITY telemetryDesc.label             "与 &vendorShortName; 分享您使用 &vendorShortName; 邮件客户端的工作性能、使用方式、硬件设备和有关自定义的数据，帮助我们改进 &brandShortName;，让它变得更好。">
+<!ENTITY enableTelemetry.label           "启用遥测">
+<!ENTITY enableTelemetry.accesskey       "T">
+<!ENTITY telemetryLearnMore.label        "详细了解">
+
+<!ENTITY crashReporterSection.label      "崩溃报告器">
+<!ENTITY crashReporterDesc.label         "&brandShortName; 提交崩溃报告可以帮助 &vendorShortName; 改进您的邮件客户端，让它变得更加稳定和安全。">
+<!ENTITY enableCrashReporter.label       "启用崩溃报告器">
+<!ENTITY enableCrashReporter.accesskey   "C">
+<!ENTITY crashReporterLearnMore.label    "详细了解">
 <!-- Display and Reading Settings -->
 
 <!ENTITY reading.caption               "阅读">

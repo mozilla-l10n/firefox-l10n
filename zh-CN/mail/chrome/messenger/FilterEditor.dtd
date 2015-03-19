@@ -25,6 +25,8 @@
 <!ENTITY contextAfterCls.label "在垃圾邮件分级之后过滤">
 <!ENTITY contextOutgoing.label "发送后">
 <!ENTITY contextOutgoing.accesskey "S">
+<!ENTITY contextArchive.label "存档">
+<!ENTITY contextArchive.accesskey "A">
 
 <!ENTITY filterActionDesc.label "执行动作:">
 <!ENTITY filterActionDesc.accesskey "P">
