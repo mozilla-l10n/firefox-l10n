@@ -138,7 +138,7 @@
 <!ENTITY monitor_title "Monitor">
 <!ENTITY monitor_help "Aiuto">
 <!ENTITY wifi_auth_header "Identificazione client">
-<!ENTITY wifi_auth_scan_request "Il dispositivo con cui si sta cercando di connettersi richiede ulteriori informazioni per autenticare questa connessione. Effettuare la scansione del codice QR utilizzando l’altro dispositivo.">
+<!ENTITY wifi_auth_scan_request "Il terminale con cui si sta cercando di connettersi richiede ulteriori informazioni per autenticare questa connessione. Effettuare la scansione del codice QR utilizzando l’altro dispositivo.">
 <!ENTITY wifi_auth_no_scanner "Nessuna richiesta di scansione del QR?">
 <!ENTITY wifi_auth_yes_scanner "Viene visualizzata una richiesta di scansione del QR?">
 <!ENTITY wifi_auth_token_request "Se l’altro dispositivo richiede un token invece della scansione di un codice QR, inserire il seguente codice:">
