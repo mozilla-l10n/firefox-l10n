@@ -240,8 +240,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY browserConsoleCmd.commandkey "j">
 <!ENTITY browserConsoleCmd.accesskey  "К">
 
-<!ENTITY inspectContextMenu.label     "Изследване на елемент">
-<!ENTITY inspectContextMenu.accesskey "Q">
+<!ENTITY inspectContextMenu.label     "&amp;Изследване на елемент">
+<!ENTITY inspectContextMenu.accesskey "И">
 
 <!ENTITY responsiveDesignTool.label   "Нагаждащ се дизайн">
 <!ENTITY responsiveDesignTool.accesskey "Н">
@@ -488,7 +488,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY savePageCmd.label            "Запазване на страницата като…">
 <!ENTITY savePageCmd.accesskey        "З">
 <!-- alternate for content area context menu -->
-<!ENTITY savePageCmd.accesskey2       "P">
+<!ENTITY savePageCmd.accesskey2       "с">
 <!ENTITY savePageCmd.commandkey       "s">
 <!ENTITY saveFrameCmd.label           "Запазване на рамката като…">
 <!ENTITY saveFrameCmd.accesskey       "р">
@@ -625,8 +625,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageStyleMenu.accesskey "ф">
 <!ENTITY pageStyleNoStyle.label "Без">
 <!ENTITY pageStyleNoStyle.accesskey "Б">
-<!ENTITY pageStylePersistentOnly.label "Стандартно">
-<!ENTITY pageStylePersistentOnly.accesskey "С">
+<!ENTITY pageStylePersistentOnly.label "Основен стил">
+<!ENTITY pageStylePersistentOnly.accesskey "О">
 
 <!ENTITY pageReportIcon.tooltip            "Промяна на настройките за блокиране на изскачащи прозорци">
 
