@@ -150,6 +150,8 @@
 
 <!ENTITY fxaccount_create_account_header2 "Sos Konte Firefox">
 <!ENTITY fxaccount_create_account_password_length_restriction "Ena foti waɗde alkule 8 so famɗii">
+
+
 <!ENTITY fxaccount_create_account_year_of_birth "Hitaande jibinannde">
 <!-- Localization note: &formatS1; is fxaccount_policy_linktos, &formatS2; is fxaccount_policy_linkprivacy, both hyperlinked. -->
 <!ENTITY fxaccount_create_account_policy_text2 "So mi yawtii ɗoo, mi jaɓorii &formatS1; e&formatS2; carwol ruulde Firefox.">
@@ -191,7 +193,7 @@
 
 <!ENTITY fxaccount_finish_migrating_header "Seŋo ngam timminde kesɗitinal">
 <!ENTITY fxaccount_finish_migrating_button_label "Timmin kesɗitinal">
-<!ENTITY fxaccount_finish_migrating_description "Hesɗitinde ena waawi egginde keɓe keewɗe. Ɓuri moƴƴude ko wonde e laylaytol WiFi.">
+
 
 <!ENTITY fxaccount_status_header2 "Konte Firefox">
 <!ENTITY fxaccount_status_signed_in_as "A naatii e innde">
@@ -207,7 +209,6 @@
 <!ENTITY fxaccount_status_needs_upgrade "Aɗa sokli hasɗitinde &brandShortName; ngam seŋaade.">
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled "&syncBrand.shortName.label; teeltaama, kono wonaa e syncude e jaajol. Toggilo “Auto-sync data” e Teelte Android &gt; Data Usage.">
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled_v21 "&syncBrand.shortName.label; teeltaama, kono wonaani e syncude e jaajol. Toggilo “Auto-sync data” e dosol Teelte Android &gt; Konte.">
-<!ENTITY fxaccount_status_needs_account_enabled "&syncBrand.shortName.label; teeltaama, kono wonaa e syncude e jaajol. Tappu ngam fuɗɗaade syncude.">
 <!ENTITY fxaccount_status_needs_finish_migrating "Tappu ngam seŋaade e Konte Firefox maa kese">
 <!ENTITY fxaccount_status_bookmarks "Maantore">
 <!ENTITY fxaccount_status_history "Aslol">
