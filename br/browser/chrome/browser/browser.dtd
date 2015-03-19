@@ -94,7 +94,7 @@ when there are no windows but Firefox is still running. -->
 
 <!ENTITY pageInfoCmd.label "Stlennoù ar bajennad">
 <!ENTITY pageInfoCmd.accesskey "t">
-
+<!ENTITY pageInfoCmd.commandkey "i">
 <!ENTITY mirrorTabCmd.label "Ivinell Melezour">
 <!ENTITY mirrorTabCmd.accesskey "M">
 <!-- LOCALIZATION NOTE (enterFullScreenCmd.label, exitFullScreenCmd.label):
@@ -105,7 +105,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY exitFullScreenCmd.accesskey "s">
 <!ENTITY fullScreenCmd.label "Skramm a-bezh">
 <!ENTITY fullScreenCmd.accesskey "S">
-
+<!ENTITY fullScreenCmd.macCommandKey "f">
 <!ENTITY showAllTabsCmd.label "Diskouez an holl ivinelloù">
 <!ENTITY showAllTabsCmd.accesskey "a">
 
@@ -307,7 +307,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY editMenu.label         "Embann"> 
 <!ENTITY editMenu.accesskey       "E"> 
 <!ENTITY undoCmd.label            "Dizober ">  
-
+<!ENTITY undoCmd.key            "Z">  
 <!ENTITY undoCmd.accesskey          "D"> 
 <!ENTITY redoCmd.label            "Adober">  
 <!ENTITY redoCmd.key            "Y">  
@@ -362,9 +362,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuCustomizeExit.label "Kuitaat ar personelaat">
 <!ENTITY appMenuCustomizeExit.tooltip "Echuiñ ar personelaat">
 <!ENTITY appMenuHistory.label "Roll istor">
-
-
-
+<!ENTITY appMenuHistory.showAll.label "Diskouez ar roll istor a-bezh">
+<!ENTITY appMenuHistory.clearRecent.label "Skarzhañ ar roll istor nevesañ…">
+<!ENTITY appMenuHistory.restoreSession.label "Assav an estez kent">
 <!ENTITY appMenuHistory.viewSidebar.label "Gwelout barrenn gostez ar roll istor">
 <!ENTITY appMenuHelp.tooltip "Digeriñ al lañser skoazell">
 
@@ -388,8 +388,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY customizeMenu.addMoreItems.label "Ouzhpennañ muioc'h a elfennoù…">
 <!ENTITY customizeMenu.addMoreItems.accesskey "m">
 
+<!ENTITY openCmd.commandkey           "l">
 <!ENTITY urlbar.placeholder2          "Bizskrivit un termen da glask pe ur chomlec'h">
-
+<!ENTITY urlbar.accesskey             "d">
 <!ENTITY urlbar.switchToTab.label     "Mont d'an ivinell :">
 <!-- 
   Comment duplicated from browser-sets.inc:
@@ -411,6 +412,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
   for people to switch to Linux.
 
  -->
+
+<!ENTITY searchFocus.commandkey       "k">
 <!ENTITY searchFocus.commandkey2      "e">
 <!ENTITY searchFocusUnix.commandkey   "j">
 <!-- LOCALIZATION NOTE (searchFor.label, searchWith.label):
@@ -593,7 +596,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY fullZoomResetCmd.label         "Adderaouekaat">
 <!ENTITY fullZoomResetCmd.accesskey     "r">
-
+<!ENTITY fullZoomResetCmd.commandkey    "0">
 <!ENTITY fullZoomResetCmd.commandkey2   "">
 
 <!ENTITY fullZoomToggleCmd.label        "Zoumañ war an destenn hepken">
@@ -605,13 +608,14 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY quitApplicationCmdWin2.label       "Kuitaat">
 <!ENTITY quitApplicationCmdWin2.accesskey   "K">
-
-
-
+<!ENTITY quitApplicationCmdWin2.tooltip     "Kuitaat &brandShorterName;">
+<!ENTITY goBackCmd.commandKey "[">
+<!ENTITY goForwardCmd.commandKey "]">
 <!ENTITY quitApplicationCmd.label       "Kuitaat"> 
 <!ENTITY quitApplicationCmd.accesskey   "K">
-
+<!ENTITY quitApplicationCmdMac2.label   "Kuitaat &brandShorterName;">
 <!-- LOCALIZATION NOTE(quitApplicationCmdUnix.key): This keyboard shortcut is used by both Linux and OSX builds. -->
+<!ENTITY quitApplicationCmdUnix.key     "Q">
 
 <!ENTITY closeCmd.label                 "Serriñ">  
 <!ENTITY closeCmd.key                   "W">  
@@ -633,7 +637,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY editPopupSettingsUnix.label "Embann dibarzhioù an harz diflugelloù…">
 <!ENTITY editPopupSettings.label "Embann an dibarzhioù evit herzel an diflugelloù…">
 <!ENTITY editPopupSettings.accesskey "E">
-
+<!ENTITY dontShowMessage.accesskey "D">
 
 <!ENTITY bidiSwitchPageDirectionItem.label        "Kemmañ tu ar bajenn">
 <!ENTITY bidiSwitchPageDirectionItem.accesskey    "b">
@@ -840,11 +844,12 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY emeNotificationsDontAskAgain.label       "Na c'houlenn diganin en-dro">
 <!ENTITY emeNotificationsDontAskAgain.accesskey   "N">
 
-
-
+<!ENTITY readingList.sidebar.commandKey           "R">
+<!ENTITY readingList.showSidebar.label            "Diskouez barrenn-gostez ar Roll Lennadurioù">
 <!-- Pre-landed string for bug 1124153 -->
 <!ENTITY readingList.sidebar.showMore.label       "Diskouez muioc'h...">
 <!-- Pre-landed string for bug 1133662 -->
+<!ENTITY readingList.sidebar.emptyText            "Ouzhpennañ pennadoù d'ho roll lennadurioù d'o enrollañ evit diwezhatoc'h ha d'o adkavout aes pa vo ezhomm diouto.">
 <!-- Pre-landed string for bug 1123525 -->
 <!-- Pre-landed strings for bug 1123519 -->
 <!ENTITY readingList.sidebar.add.label            "Ouzhpennañ d'ar roll lennadennoù">
