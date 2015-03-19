@@ -2,18 +2,14 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY gdata-provider.label "Google Calendar">
 
-<!ENTITY gdata.privacy.default.label "Predeterminau de Google">
-<!ENTITY gdata.privacy.default.accesskey "d">
 
-<!ENTITY gdata.migration.title "Migrar calandarios de solament lectura">
-<!ENTITY gdata.migration.description "O proveedor de Google Calendar ha detectau que tiene calandarios existents que solament pueden accedir ta Google Calendar en modo de solament lectura. Si le fería goyo d'esviellar belún d'istos calandarios, por favor, trigue-los contino">
-<!ENTITY gdata.migration.upgrade.label "Actualizar">
-<!ENTITY gdata.migration.upgrade.accesskey "u">
-<!ENTITY gdata.migration.showagain.label "Comprebar siempre ">
 
-<!ENTITY gdata.reminder.action.sms.label "Ninviar un mensache de texto">
+
+
+
+
+
 
 
 

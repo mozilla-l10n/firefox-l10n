@@ -6,84 +6,63 @@
    - your editor isn't using UTF-8 encoding and may munge up the document!
   -->
 <!-- Tools menu -->
-
-
-<!ENTITY lightning.preferencesLabel "Calandario">
 <!-- New menu popup in File menu -->
 
-<!ENTITY lightning.menupopup.new.event.label    "Cita…">
-<!ENTITY lightning.menupopup.new.event.accesskey "C">
-<!ENTITY lightning.menupopup.new.task.label     "Quefer…">
-<!ENTITY lightning.menupopup.new.task.accesskey "Q">
-<!ENTITY lightning.menupopup.new.calendar.label "Calandario…">
-<!ENTITY lightning.menupopup.new.calendar.accesskey "C">
+
+
+
+
 <!-- Open menu popup in File menu -->
 
-<!ENTITY lightning.menupopup.open.label               "Ubrir">
-<!ENTITY lightning.menupopup.open.accesskey           "U">
-<!ENTITY lightning.menupopup.open.message.label       "Mensache alzau…">
-<!ENTITY lightning.menupopup.open.message.accesskey   "M">
-<!ENTITY lightning.menupopup.open.calendar.label      "Fichero de calandario…">
-<!ENTITY lightning.menupopup.open.calendar.accesskey  "c">
+
+
+
+
 <!-- View Menu -->
 
-<!ENTITY lightning.menu.view.calendar.label            "Calandario">
-<!ENTITY lightning.menu.view.calendar.accesskey        "C">
-<!ENTITY lightning.menu.view.tasks.label               "Quefers">
-<!ENTITY lightning.menu.view.tasks.accesskey           "Q">
+
+
 <!-- Events and Tasks menu -->
 
-<!ENTITY lightning.menu.eventtask.label                "Citas y quefers">
-<!ENTITY lightning.menu.eventtask.accesskey            "i">
 <!-- properties dialog, calendar creation wizard -->
-
-<!ENTITY lightning.calendarproperties.email.label               "Correu electronico:">
 <!-- iMIP Bar (meeting support) -->
 
-<!ENTITY lightning.imipbar.btnAccept.label                                  "Accept">
-<!ENTITY lightning.imipbar.btnAccept2.tooltiptext                           "Accept event invitation">
-<!ENTITY lightning.imipbar.btnAcceptRecurrences.label                       "Accept all">
-<!ENTITY lightning.imipbar.btnAcceptRecurrences2.tooltiptext                "Accept event invitation for all occurrences of the event">
-<!ENTITY lightning.imipbar.btnAdd.label                                     "Add">
-<!ENTITY lightning.imipbar.btnAdd.tooltiptext                               "Add the event to the calendar">
-<!ENTITY lightning.imipbar.btnDecline.label                                 "Decline">
-<!ENTITY lightning.imipbar.btnDecline2.tooltiptext                          "Decline event invitation">
-<!ENTITY lightning.imipbar.btnDeclineRecurrences.label                      "Decline all">
-<!ENTITY lightning.imipbar.btnDeclineRecurrences2.tooltiptext               "Decline event invitation for all occurrences of the event">
-<!ENTITY lightning.imipbar.btnDelete.label                                  "Delete">
-<!ENTITY lightning.imipbar.btnDelete.tooltiptext                            "Delete from calendar">
-<!ENTITY lightning.imipbar.btnDetails.label                                 "Details…">
-<!ENTITY lightning.imipbar.btnDetails.tooltiptext                           "Show event details">
-<!ENTITY lightning.imipbar.btnMore.label                                    "More">
-<!ENTITY lightning.imipbar.btnMore.tooltiptext                              "Click to show more options">
-<!ENTITY lightning.imipbar.btnReconfirm2.label                              "Reconfirm">
-<!ENTITY lightning.imipbar.btnReconfirm.tooltiptext                         "Sends a reconfirmation to the organizer">
-<!ENTITY lightning.imipbar.btnSaveCopy.label                                "Save a copy">
-<!ENTITY lightning.imipbar.btnSaveCopy.tooltiptext                          "Save a copy of the event to the calendar independently of replying to the organizer. The list of attendees will be cleared.">
-<!ENTITY lightning.imipbar.btnTentative.label                               "Tentative">
-<!ENTITY lightning.imipbar.btnTentative2.tooltiptext                        "Accept event invitation tentatively">
-<!ENTITY lightning.imipbar.btnTentativeRecurrences.label                    "Tentative all">
-<!ENTITY lightning.imipbar.btnTentativeRecurrences2.tooltiptext             "Accept event invitation tentatively for all occurrences of the event">
-<!ENTITY lightning.imipbar.btnUpdate.label                                  "Update">
-<!ENTITY lightning.imipbar.btnUpdate.tooltiptext                            "Update event in calendar">
-<!ENTITY lightning.imipbar.description                                      "Iste mensache contiene una invitación a un cita.">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <!-- Lightning specific keybindings -->
 
-<!ENTITY lightning.keys.event.showCalendar.key "C">
-<!ENTITY lightning.keys.event.showTasks.key "D">
-<!ENTITY lightning.keys.event.new "I">
-<!ENTITY lightning.keys.todo.new "D">
-<!-- Account Central page -->
 
-<!ENTITY lightning.acctCentral.newCalendar.label "Creyar un calandario nuevo">
+
+<!-- Account Central page -->
 <!-- today-pane-specific -->
 
-<!ENTITY todaypane.showMinimonth.label "Amostrar o Mini-mes">
-<!ENTITY todaypane.showMinimonth.accesskey "A">
-<!ENTITY todaypane.showMiniday.label "Amostrar o Mini-día">
-<!ENTITY todaypane.showMiniday.accesskey  "d">
-<!ENTITY todaypane.showNone.label "No amostrar cosa">
-<!ENTITY todaypane.showNone.accesskey "N">
-<!ENTITY todaypane.showTodayPane.label "Amostrar o panel de hue">
-<!ENTITY todaypane.showTodayPane.accesskey "o">
-<!ENTITY todaypane.statusButton.label "Panel de hue">
+
+
+
+
+
+
+

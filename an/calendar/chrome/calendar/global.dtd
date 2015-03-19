@@ -2,51 +2,44 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY time.midnight "Medianoche" >
-<!ENTITY time.noon "Meyodía" >
 <!-- Day Names -->
 <!-- LOCALIZATION NOTE : Accesskeys for day.1.Ddd to day.7.Ddd are currently
      only used in Preferences > Views > Workweek groupbox -->
 
-<!ENTITY day.1.Ddd "Dom" >
-<!ENTITY day.1.Ddd.accesskey "D">
-<!ENTITY day.2.Ddd "Lun" >
-<!ENTITY day.2.Ddd.accesskey "L">
-<!ENTITY day.3.Ddd "Mar" >
-<!ENTITY day.3.Ddd.accesskey "M">
-<!ENTITY day.4.Ddd "Mié" >
-<!ENTITY day.4.Ddd.accesskey "i">
-<!ENTITY day.5.Ddd "Chu" >
-<!ENTITY day.5.Ddd.accesskey "J">
-<!ENTITY day.6.Ddd "Vie" >
-<!ENTITY day.6.Ddd.accesskey "V">
-<!ENTITY day.7.Ddd "Sab" >
-<!ENTITY day.7.Ddd.accesskey "S">
 
-<!ENTITY day.1.name "Domingo" >
-<!ENTITY day.2.name "Luns" >
-<!ENTITY day.3.name "Martes" >
-<!ENTITY day.4.name "Mierques" >
-<!ENTITY day.5.name "Chueves" >
-<!ENTITY day.6.name "Viernes" >
-<!ENTITY day.7.name "Sabado" >
 
-<!ENTITY month.1.name "Chinero" >
-<!ENTITY month.2.name "Febrero" >
-<!ENTITY month.3.name "Marzo" >
-<!ENTITY month.4.name "Abril" >
-<!ENTITY month.5.name "Mayo" >
-<!ENTITY month.6.name "Chunio" >
-<!ENTITY month.7.name "Julio" >
-<!ENTITY month.8.name "Agosto" >
-<!ENTITY month.9.name "Setiembre" >
-<!ENTITY month.10.name "Octubre" >
-<!ENTITY month.11.name "Noviembre" >
-<!ENTITY month.12.name "Aviento" >
 
-<!ENTITY onemonthbackward.tooltip "Un mes enta zaga" >
-<!ENTITY onemonthforward.tooltip "Un mes enta debant" >
-<!ENTITY showToday.tooltip "Ir a hue">
-<!ENTITY onedayforward.tooltip "Un día enta debant">
-<!ENTITY onedaybackward.tooltip "Un día enta zaga">
-<!ENTITY showselectedday.tooltip "Amostrar eventos ta o día trigau">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
