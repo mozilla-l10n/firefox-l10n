@@ -7,30 +7,26 @@
   -->
 
 
-<!ENTITY pref.alarmgoesoff.label "Quan s'activa un aviso:">
-<!ENTITY pref.playasound "Reproducir son">
-<!ENTITY pref.calendar.alarms.playsound.accessKey "R">
-<!ENTITY pref.calendar.alarms.sound.useDefault.label "Usar sonido predeterminau">
-<!ENTITY pref.calendar.alarms.sound.useDefault.accessKey "d">
-<!ENTITY pref.calendar.alarms.sound.browse.label "Yxaminar...">
-<!ENTITY pref.calendar.alarms.sound.browse.accessKey "x">
 
 
-<!ENTITY pref.showalarmbox "Amostrar a finestra d'aviso">
-<!ENTITY pref.calendar.alarms.showAlarmBox.accessKey "M">
-<!ENTITY pref.missedalarms "Amostrar avisos vencius">
-<!ENTITY pref.calendar.alarms.missedAlarms.accessKey "u">
-<!ENTITY pref.calendar.alarms.defaults.label "Valors por omisión ta avisos">
-<!ENTITY pref.defalarm4events.label "Config. predet. d'aviso ta eventos:">
-<!ENTITY pref.defalarm4events.accesskey "C">
-<!ENTITY pref.defalarm4todos.label "Config. predet. d'aviso ta quefers:">
-<!ENTITY pref.defalarm4todos.accesskey "n">
-<!ENTITY pref.alarm.on "Encendiu">
-<!ENTITY pref.alarm.off "Amortau">
-<!ENTITY pref.defalarmlen4events.label "Antelación predet. con el qual un aviso amaneixe antes d'un evento:">
-<!ENTITY pref.defalarmlen4events.accesskey "p">
-<!ENTITY pref.defalarmlen4todos.label "Antelación predet. con el qual un aviso amaneixe antes d'un quefer:">
-<!ENTITY pref.defalarmlen4todos.accesskey "v">
 
-<!ENTITY pref.defaultsnoozelength.label "Default Snooze Length:" >
-<!ENTITY pref.defaultsnoozelength.accesskey "S">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

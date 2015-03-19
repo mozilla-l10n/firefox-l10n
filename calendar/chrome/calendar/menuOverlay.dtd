@@ -3,23 +3,16 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!-- Event Menu -->
 
-<!ENTITY event.new.event                        "Nuevo evento...">
-<!ENTITY event.new.event.accesskey              "N">
 
-<!ENTITY event.new.task                         "Nuevo quefer...">
-<!ENTITY event.new.task.accesskey               "t">
 
-<!ENTITY calendar.import.label                  "Importar...">
-<!ENTITY calendar.import.accesskey              "I">
 
-<!ENTITY calendar.export.label                  "Exportar…">
-<!ENTITY calendar.export.accesskey              "E">
 
-<!ENTITY calendar.publish.label                 "Publicar…">
-<!ENTITY calendar.publish.accesskey             "b">
 
-<!ENTITY calendar.deletecalendar.label          "Eliminar calandario trigau…">
-<!ENTITY calendar.deletecalendar.accesskey      "a">
+
+
+
+
+
 
 
 <!-- LOCALIZATION NOTE (calendar.removecalendar.label): Removing the calendar
@@ -28,20 +21,13 @@
 
 
 
-<!ENTITY calendar.menu.customize.label          "Personalizar…">
-<!ENTITY calendar.menu.customize.accesskey      "P">
 
-<!ENTITY showUnifinderCmd.label                 "Buscar eventos">
-<!ENTITY showUnifinderCmd.accesskey             "B">
 
-<!ENTITY calendar.displaytodos.checkbox.label       "Mostrar quefers en o calandario">
-<!ENTITY calendar.displaytodos.checkbox.accesskey   "t">
 
-<!ENTITY goTodayCmd.label                       "Ir a hue">
-<!ENTITY goTodayCmd.accesskey                   "h">
 
-<!ENTITY showCurrentView.label                  "Vista actual">
-<!ENTITY showCurrentView.accesskey              "V">
 
-<!ENTITY calendar.properties.label              "Propiedatz d'o calandario…">
-<!ENTITY calendar.properties.accesskey          "c">
+
+
+
+
+
