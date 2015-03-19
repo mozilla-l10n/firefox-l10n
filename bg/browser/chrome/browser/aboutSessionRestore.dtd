@@ -13,21 +13,29 @@
 <!ENTITY restorepage.startNew       "Да започнете нова сесия">
 
 <!ENTITY restorepage.tryagainButton "Възстановяване">
-
+<!ENTITY restorepage.restore.access "В">
 <!ENTITY restorepage.closeButton    "Затваряне">
+<!ENTITY restorepage.close.access   "З">
 
-
+<!ENTITY restorepage.restoreHeader  "Възстановяване">
 <!ENTITY restorepage.listHeader     "Прозорци и подпрозорци">
 <!-- LOCALIZATION NOTE: &#37;S will be replaced with a number. -->
-<!ENTITY restorepage.windowLabel    "Прозорец № &#037;S">
+<!ENTITY restorepage.windowLabel    "Прозорец №&#037;S">
 <!-- LOCALIZATION NOTE: The following 'welcomeback2' strings are for about:welcomeback,
      not for about:sessionstore -->
 
 
 
+<!ENTITY welcomeback2.restoreButton  "Напред!">
+<!ENTITY welcomeback2.restoreButton.access "Н">
 
+<!ENTITY welcomeback2.tabtitle      "Успяхме!">
 
+<!ENTITY welcomeback2.pageTitle     "Успяхме!">
+<!ENTITY welcomeback2.pageInfo1     "&brandShortName; е готов.">
 
+<!ENTITY welcomeback2.label.restoreAll  "Възстановяване на всички прозорци и подпрозорци">
+<!ENTITY welcomeback2.label.restoreSome "Възстановяване на избрани">
 <!-- LOCALIZATION NOTE (welcomeback2.beforelink.pageInfo2,
 welcomeback2.afterlink.pageInfo2): these two string are used respectively
 before and after the the "learn more" link (welcomeback2.link.pageInfo2).
