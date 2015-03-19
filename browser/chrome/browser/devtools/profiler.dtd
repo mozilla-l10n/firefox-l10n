@@ -21,8 +21,10 @@
 <!ENTITY profilerUI.table.totalPercentage "Costo totale">
 <!ENTITY profilerUI.table.selfPercentage "Costo individuale">
 <!ENTITY profilerUI.table.samples "Campioni">
-<!ENTITY profilerUI.table.totalAlloc "Allocazioni totali">
-<!ENTITY profilerUI.table.selfAlloc "Allocazioni individuali">
+<!ENTITY profilerUI.table.totalAlloc1 "Allocazioni totali">
+<!ENTITY profilerUI.table.totalAllocTooltip "Il numero di allocazioni di oggetti campionate in questa posizione e in tutte gli elementi chiamati.">
+<!ENTITY profilerUI.table.selfAlloc1 "Allocazioni elemento">
+<!ENTITY profilerUI.table.selfAllocTooltip "Il numero di allocazioni di oggetti campionate in questa posizione.">
 <!ENTITY profilerUI.table.function "Funzione">
 <!ENTITY profilerUI.newtab.tooltiptext "Aggiungi nuova scheda dalla selezione">
 <!ENTITY profilerUI.options.filter.tooltiptext "Seleziona i dati da visualizzare nella sequenza temporale">
