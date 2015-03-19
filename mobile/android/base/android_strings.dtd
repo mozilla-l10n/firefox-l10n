@@ -254,8 +254,8 @@ size. -->
      healthReportDesc.label, telemetrySection.label, telemetryDesc.label,
      crashReporterDesc.label). -->
 
-<!ENTITY datareporting_fhr_title "„&brandShortName;“ sveikatos būklės ataskaitos">
-<!ENTITY datareporting_fhr_summary2 "Padeda jums įvertinti naršyklės našumą ir siunčia „&vendorShortName;i“ duomenis apie naršyklės sveikatos būklę">
+<!ENTITY datareporting_fhr_title "„&brandShortName;“ techninės būklės ataskaitos">
+<!ENTITY datareporting_fhr_summary2 "Padeda jums įvertinti naršyklės našumą ir siunčia „&vendorShortName;i“ duomenis apie naršyklės techninę būklę">
 <!ENTITY datareporting_abouthr_title "Parodyti jūsų naršyklės ataskaitą">
 <!ENTITY datareporting_telemetry_title "Telemetrija">
 <!ENTITY datareporting_telemetry_summary "Naršyklės „&brandShortName;“ tobulinimo tikslais siunčia „&vendorShortName;i“ duomenis apie naršyklės našumą, naudojamas funkcijas, tinkinimą ir įrenginio aparatinę įrangą">
