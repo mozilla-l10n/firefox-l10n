@@ -12,6 +12,21 @@
 <!ENTITY update.updateButton.accesskey            "R">
 <!ENTITY update.applyButtonBillboard.label        "应用更新…">
 <!ENTITY update.applyButtonBillboard.accesskey    "A">
+<!-- LOCALIZATION NOTE (warningDesc.version): This is a warning about the experimental nature of Nightly and Aurora builds. It is only shown in those versions. -->
+
+
+<!ENTITY warningDesc.version        "&brandShortName; 是实验性的版本，可能不稳定。">
+<!-- LOCALIZATION NOTE (warningDesc.telemetryDesc): This is a notification that Nightly/Aurora builds automatically send Telemetry data back to Mozilla. It is only shown in those versions. "It" refers to brandShortName. -->
+<!ENTITY warningDesc.telemetryDesc  "它会自动回传有关性能、硬件、使用及定制情况的信息到 &vendorShortName; 以帮助改善 &brandShortName;。">
+<!-- LOCALIZATION NOTE (community.exp.*) This paragraph is shown in "experimental" builds, i.e. Nightly and Aurora builds, instead of the other "community.*" strings below. -->
+
+<!ENTITY community.exp.start        "">
+<!-- LOCALIZATION NOTE (community.exp.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
+<!ENTITY community.exp.mozillaLink  "&vendorShortName;">
+<!ENTITY community.exp.middle       "是一个">
+<!-- LOCALIZATION NOTE (community.exp.creditslink): This is a link title that links to about:credits. -->
+<!ENTITY community.exp.creditsLink  "全球社区">
+<!ENTITY community.exp.end          "，致力于让互联网保持开放、公开且人人可用。">
 
 <!ENTITY community.start2           "&brandShortName; 诞生于 ">
 <!-- LOCALIZATION NOTE (community.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
@@ -19,12 +34,15 @@
 <!ENTITY community.middle2          "。我们是一个">
 <!-- LOCALIZATION NOTE (community.creditsLink): This is a link title that links to about:credits. -->
 <!ENTITY community.creditsLink      "全球社区">
-<!ENTITY community.end2             "，致力于让互联网变得更好。我们坚信互联网应该开放、公开、人人可用。">
+<!ENTITY community.end3             "，致力于让互联网保持开放、公开且人人可用。">
 
-<!ENTITY contribute.start           "听起来很有趣吧？ ">
-<!-- LOCALIZATION NOTE (contribute.getInvolvedLink): This is a link title that links to http://www.mozilla.org/contribute/. -->
-<!ENTITY contribute.getInvolvedLink "一起来参与！">
-<!ENTITY contribute.end             "">
+<!ENTITY helpus.start               "想帮忙吗？">
+<!-- LOCALIZATION NOTE (helpus.donateLink): This is a link title that links to the thunderbird donation page -->
+<!ENTITY helpus.donateLink          "捐款">
+<!ENTITY helpus.middle              "或者">
+<!-- LOCALIZATION NOTE (helpus.getInvolvedLink): This is a link title that links to http://www.mozilla.org/contribute/. -->
+<!ENTITY helpus.getInvolvedLink     "一起来参与！">
+<!ENTITY helpus.end                 "">
 <!-- LOCALIZATION NOTE (bottomLinks.license): This is a link title that links to about:license. -->
 
 <!ENTITY bottomLinks.license        "授权信息">
@@ -41,6 +59,8 @@
 <!ENTITY update.noUpdatesFound      "&brandShortName; 已是最新">
 <!-- LOCALIZATION NOTE (update.adminDisabled): try to make the localized text short (see bug 596813 for screenshots). -->
 <!ENTITY update.adminDisabled       "更新已被您的系统管理员禁用">
+<!-- LOCALIZATION NOTE (update.otherInstanceHandlingUpdates): try to make the localized text short -->
+<!ENTITY update.otherInstanceHandlingUpdates "&brandShortName; 正在由其他实例更新">
 <!-- LOCALIZATION NOTE (update.failed.start,update.failed.linkText,update.failed.end):
      update.failed.start, update.failed.linkText, and update.failed.end all go into
      one line with linkText being wrapped in an anchor that links to a site to download

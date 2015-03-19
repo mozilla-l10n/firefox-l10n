@@ -32,7 +32,7 @@
 <!ENTITY malformedURI.longDesc "<ul> 
 <li>网页地址通常格式为 
 <strong>http://www.example.com/</strong></li> 
-<li>请确认您使用了正斜杠（即 
+<li>请确认您使用的是正斜杠（即 
 <strong>/</strong>）。</li> 
 </ul>">
 
