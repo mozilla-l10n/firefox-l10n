@@ -7,7 +7,7 @@
 
 <!ENTITY closeCmd.key  "W">
 
-<!ENTITY toolboxCloseButton.tooltip    "Затваряне на инструментите за разработчици">
+<!ENTITY toolboxCloseButton.tooltip    "Затваряне на развойните инструменти">
 <!ENTITY toolboxOptionsButton.key      "O">
 <!ENTITY toolboxNextTool.key           "]">
 <!ENTITY toolboxPreviousTool.key       "[">
@@ -73,13 +73,13 @@
   -  boolean preference in about:config, in the options panel. -->
 
 <!ENTITY options.enableChrome.label4    "Включване дебъгването на хром и добавки">
-<!ENTITY options.enableChrome.tooltip2  "Включването на тази настройка ще позволи да използвате разнообразни инструменти за разработчици в контекста на браузъра и да дебъгвате добавки от Управлението на добавки">
+<!ENTITY options.enableChrome.tooltip2  "Включването на тази настройка ще позволи да използвате разнообразни развойни инструменти в контекста на браузъра и да дебъгвате добавки от Управление на добавки">
 <!-- LOCALIZATION NOTE (options.enableRemote.label3): This is the label for the
   -  checkbox that toggles remote debugging, i.e. devtools.debugger.remote-enabled
   -  boolean preference in about:config, in the options panel. -->
 
 <!ENTITY options.enableRemote.label3    "Включване отдалеченото дебъгване">
-<!ENTITY options.enableRemote.tooltip   "Включването на тази настройка ще ви позволи да използвате инструментите за разработчици за дебъгване на отдалечени инстанции на Firefox, като Firefox OS">
+<!ENTITY options.enableRemote.tooltip   "Включването на тази настройка ще ви позволи да използвате развойните инструменти за дебъгване на отдалечени инстанции на Firefox, като Firefox OS">
 <!-- LOCALIZATION NOTE (options.disableJavaScript.label,
   -  options.disableJavaScript.tooltip): This is the options panel label and
   -  tooltip for the checkbox that toggles JavaScript on or off. -->
@@ -94,13 +94,13 @@
   -  the heading of group of checkboxes corresponding to the default developer
   -  tools. -->
 
-<!ENTITY options.selectDefaultTools.label     "Стандартни инструменти за разработчици на Firefox.">
+<!ENTITY options.selectDefaultTools.label     "Стандартни развойни инструменти на Firefox">
 <!-- LOCALIZATION NOTE (options.selectAdditionalTools.label): This is the label for
   -  the heading of group of checkboxes corresponding to the developer tools
   -  added by add-ons. This heading is hidden when there is no developer tool
   -  installed by add-ons. -->
 
-<!ENTITY options.selectAdditionalTools.label  "Инструменти за разработчици, инсталирани от добавки">
+<!ENTITY options.selectAdditionalTools.label  "Развойни инструменти, инсталирани от добавки">
 <!-- LOCALIZATION NOTE (options.selectEnabledToolboxButtons.label): This is the label for
   -  the heading of group of checkboxes corresponding to the default developer
   -  tool buttons. -->

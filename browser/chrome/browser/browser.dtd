@@ -275,9 +275,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY browserContentToolboxMenu.label     "Инст&amp;рументи за съдържание">
 
-<!ENTITY devToolbarCloseButton.tooltiptext "Затваряне на лента за разработчици">
-<!ENTITY devToolbarMenu.label              "Лента за разработчици">
-<!ENTITY devToolbarMenu.accesskey          "р">
+<!ENTITY devToolbarCloseButton.tooltiptext "Затваряне на развойната лента">
+<!ENTITY devToolbarMenu.label              "Развойна лента">
+<!ENTITY devToolbarMenu.accesskey          "Р">
 <!ENTITY devAppMgrMenu.label               "Управление на приложения">
 <!ENTITY devAppMgrMenu.accesskey           "У">
 <!ENTITY webide.label                      "WebIDE">

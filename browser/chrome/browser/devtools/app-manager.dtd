@@ -8,7 +8,7 @@
 <!ENTITY index.help "Помощ">
 
 <!ENTITY device.debugMainProcess "Дебъгване на главния процес">
-<!ENTITY device.debugMainProcessTooltip "Отваряне на инструментите за разработчици, свързани с главния процес на устройството">
+<!ENTITY device.debugMainProcessTooltip "Отваряне на развойните инструменти, свързани с главния процес на устройството">
 <!ENTITY device.screenshot "Снимка на екрана">
 <!ENTITY device.screenshotTooltip "Отваряне в нов подпрозорец на снимка на екрана на текущото състояние на устройството">
 <!ENTITY device.title "Център за управление на устройство">
@@ -18,7 +18,7 @@
 <!ENTITY device.stopApp "Спиране">
 <!ENTITY device.stopAppTooltip "Спиране на това приложение върху устройството">
 <!ENTITY device.debugApp "Дебъг">
-<!ENTITY device.debugAppTooltip "Отваряне на инструментите за разработчици, свързани с това приложение на устройството">
+<!ENTITY device.debugAppTooltip "Отваряне на развойните инструменти, свързани с това приложение на устройството">
 <!ENTITY device.name "Име">
 <!ENTITY device.plain "Просто (стандартно)">
 <!ENTITY device.privileged "Привилегировано">
@@ -37,7 +37,7 @@
 <!ENTITY device.browserTabs "Подпрозорци на браузъра">
 <!ENTITY device.browserTabsTooltip "Показване на списък с подпрозорците на браузъра на свързаното устройство">
 
-<!ENTITY device.debugBrowserTabTooltip "Отваряне на инструментите за разработчици, свързани с този подпрозореца на браузъра на устройството">
+<!ENTITY device.debugBrowserTabTooltip "Отваряне на развойните инструменти, свързани с този подпрозорец на браузъра на устройството">
 
 
 <!ENTITY connection.connectTooltip "Свързване с устройството">
