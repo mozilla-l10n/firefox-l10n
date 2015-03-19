@@ -79,7 +79,7 @@
 <!ENTITY certmgr.details.accesskey            "R">
 <!ENTITY certmgr.fields.label                 "Luach Réimse">
 <!ENTITY certmgr.fields.accesskey             "L">
-
+<!ENTITY certmgr.hierarchy.label              "Ordlathas na dTeastas">
 <!ENTITY certmgr.hierarchy.accesskey2         "H">
 <!ENTITY certmgr.addException.label           "Cuir Eisceacht Leis…">
 <!ENTITY certmgr.addException.accesskey       "s">
