@@ -21,9 +21,11 @@
 <!ENTITY profilerUI.table.totalPercentage "Coste total">
 <!ENTITY profilerUI.table.selfPercentage "Coste propio">
 <!ENTITY profilerUI.table.samples "Ejemplos">
-<!ENTITY profilerUI.table.totalAlloc "Asignaciones totales">
-<!ENTITY profilerUI.table.selfAlloc "Asignaciones propias">
 <!ENTITY profilerUI.table.function "Función">
+<!ENTITY profilerUI.table.totalAlloc1 "Total de asignaciones de memoria muestreadas">
+<!ENTITY profilerUI.table.totalAllocTooltip "El número total de asignaciones de objetos muestreados en esta ubicación y en las llamadas.">
+<!ENTITY profilerUI.table.selfAlloc1 "Asignaciones de memoria automuestreadas">
+<!ENTITY profilerUI.table.selfAllocTooltip "El número de asignaciones de objetos muestreados en esta ubicación.">
 <!ENTITY profilerUI.newtab.tooltiptext "Añadir nueva pestaña a partir de la selección">
 <!ENTITY profilerUI.options.filter.tooltiptext "Seleccione qué datos mostrar en la línea de tiempos">
 <!ENTITY profilerUI.options.gear.tooltiptext "Configurar preferencias de rendimiento.">
