@@ -22,17 +22,17 @@
 
 <!ENTITY rights.intro-point2a "„Mozilla“ nesuteikia jokių teisių į „Mozilla“ ir „SeaMonkey“ prekės ženklus ar logotipus. Papildomą informaciją apie šiuos prekės ženklus ir jų naudojimą rasite ">
 <!ENTITY rights.intro-point2b "čia">
-<!ENTITY rights.intro-point2c ".">
+
 <!-- point 3 text for official branded builds -->
 
 <!ENTITY rights.intro-point3a "„&vendorShortName;“ programų privatumo politiką rasite ">
-<!ENTITY rights.intro-point3b "čia">
-<!ENTITY rights.intro-point3c ".">
+
+
 <!-- point 4 text for official branded builds -->
 
 <!ENTITY rights2.intro-point4a "„&brandShortName;“ programa suteikia galimybę naudotis papildomomis saityno tarnybų paslaugomis, pavyzdžiui, susijusiomis su programos priedais paslaugomis ir saugiojo naršymo paslauga. Deja, mes negalime užtikrinti, kad šios tarnybos niekada neklysta. Daugiau informacijos apie šias paslaugas ir apie tai, kaip jų atsisakyti, rasite ">
 <!ENTITY rights.intro-point4b "naudojimosi paslaugomis taisyklėse">
-<!ENTITY rights.intro-point4c ".">
+
 
 <!ENTITY rights.webservices-header "„&brandFullName;“ naudojamos saityno tarnybos">
 <!-- Note that this paragraph references entities from extensions.dtd,
@@ -42,7 +42,7 @@
 <!-- intro paragraph for branded builds -->
 
 <!ENTITY rights2.webservices-a "„&brandFullName;“ programa suteikia galimybę naudotis papildomomis saityno tarnybų paslaugomis (toliau – „Paslaugomis“), pavyzdžiui, priedų siūlymo ir naujinimo paslauga bei saugiojo naršymo paslauga. Paslaugų, kurias teikia ši „&brandShortName;“ laida, naudojimosi taisyklės aprašytos žemiau. Jei nenorite naudotis Paslaugomis, arba jūsų netenkina jų naudojimo taisyklės, šių Paslaugų išjungimo instrukcijas rasite ">
-<!ENTITY rights2.webservices-b "čia">
+
 <!ENTITY rights2.webservices-c ". Kitas funkcijas ir tarnybas galite išjungti programos nuostatose">
 <!-- add-on related points for branded builds -->
 
@@ -57,7 +57,7 @@
 
 <!ENTITY rights.safebrowsing-a "Saugusis naršymas: ">
 <!ENTITY rights.safebrowsing-b "Išjungti šios funkcijos nerekomenduojame, nes ją išjungę, galėsite neįspėti patekti į nesaugias saityno svetaines. Jeigu visgi norite šią funkciją visiškai išjungti, darykite tai taip:">
-<!ENTITY rights.safebrowsing-term1 "atverkite programos nuostatas;">
+
 <!ENTITY rights.safebrowsing-term2 "pasirinkite nuostatų kategoriją „&security.label;“;">
 <!ENTITY rights.safebrowsing-term3 "panaikinkite parinkčių „&blockAttackSites.label;“ ir „&blockWebForgeries.label;“ žymėjimus;">
 <!ENTITY rights.safebrowsing-term4 "saugusis naršymas išjungtas.">

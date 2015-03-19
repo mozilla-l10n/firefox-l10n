@@ -48,10 +48,12 @@
 
 <!ENTITY cmd.open.label                  "Atverti">
 <!ENTITY cmd.open.accesskey              "A">
-<!ENTITY cmd.open_window.label           "Atverti naujame lange">
-<!ENTITY cmd.open_window.accesskey       "l">
 <!ENTITY cmd.open_tab.label              "Atverti naujoje kortelėje">
 <!ENTITY cmd.open_tab.accesskey          "o">
+<!ENTITY cmd.open_window.label           "Atverti naujame lange">
+<!ENTITY cmd.open_window.accesskey       "l">
+
+
 <!ENTITY cmd.open_all_in_tabs.label      "Atverti kortelėse">
 <!ENTITY cmd.open_all_in_tabs.accesskey  "A">
 

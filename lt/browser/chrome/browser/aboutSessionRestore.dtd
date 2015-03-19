@@ -13,11 +13,10 @@
 <!ENTITY restorepage.startNew       "pradėti naują naršymo seansą">
 
 <!ENTITY restorepage.tryagainButton "Atkurti">
-<!ENTITY restorepage.restore.access "A">
-<!ENTITY restorepage.closeButton    "Užverti">
-<!ENTITY restorepage.close.access   "v">
 
-<!ENTITY restorepage.restoreHeader  "Atkurti">
+<!ENTITY restorepage.closeButton    "Užverti">
+
+
 <!ENTITY restorepage.listHeader     "Langai ir kortelės">
 <!-- LOCALIZATION NOTE: &#37;S will be replaced with a number. -->
 <!ENTITY restorepage.windowLabel    "Langas nr. &#037;S">
@@ -27,11 +26,10 @@
 
 
 <!ENTITY welcomeback2.restoreButton  "Pirmyn!">
-<!ENTITY welcomeback2.restoreButton.access "m">
+
 
 <!ENTITY welcomeback2.tabtitle      "Pavyko!">
 
-<!ENTITY welcomeback2.pageTitle     "Pavyko!">
 <!ENTITY welcomeback2.pageInfo1     "„&brandShortName;“ jau pasiruošė.">
 
 <!ENTITY welcomeback2.label.restoreAll  "Atkurti visus langus ir korteles">

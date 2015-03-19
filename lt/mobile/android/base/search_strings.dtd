@@ -16,7 +16,7 @@
 <!ENTITY search_plus_content_description "Įtraukti į paieškos lauką">
 
 <!ENTITY search_pref_title "Nuostatos">
-<!ENTITY search_pref_button_content_description "Nuostatos">
+
 
 <!ENTITY pref_clearHistory_confirmation "Istorija išvalyta">
 <!ENTITY pref_clearHistory_dialogMessage "Ištrinti visą šio įrenginio paieškos istoriją?">

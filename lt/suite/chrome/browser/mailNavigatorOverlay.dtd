@@ -4,7 +4,7 @@
 
 <!ENTITY newMessageCmd.label             "Laiškas">
 <!ENTITY newMessageCmd.accesskey         "L">
-<!ENTITY newMessageCmd.key               "M">
+
 
 <!ENTITY newContactCmd.label             "Adresatas…">
 <!ENTITY newContactCmd.accesskey         "A">

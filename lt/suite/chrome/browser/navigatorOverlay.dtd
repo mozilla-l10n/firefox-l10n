@@ -5,13 +5,13 @@
 
 <!ENTITY tabCmd.label "Naršyklės kortelė">
 <!ENTITY tabCmd.accesskey "o">
-<!ENTITY tabCmd.commandkey "T">
+
 <!ENTITY openCmd.label "Atverti tinklavietę…">
 <!ENTITY openCmd.accesskey "v">
-<!ENTITY openCmd.commandkey "l">
+
 <!ENTITY openFileCmd.label "Atverti failą…">
 <!ENTITY openFileCmd.accesskey "A">
-<!ENTITY openFileCmd.commandkey "o">
+
 
 <!ENTITY closeOtherTabs.label "Užverti kitas korteles">
 <!ENTITY closeOtherTabs.accesskey "k">
@@ -48,10 +48,10 @@
 <!ENTITY bidiSwitchPageDirectionItem.accesskey "P">
 <!ENTITY pageSourceCmd.label "Pirminis tekstas">
 <!ENTITY pageSourceCmd.accesskey "t">
-<!ENTITY pageSourceCmd.commandkey "u">
+
 <!ENTITY pageInfoCmd.label "Informacija apie tinklalapį">
 <!ENTITY pageInfoCmd.accesskey "I">
-<!ENTITY pageInfoCmd.commandkey "i">
+
 <!-- Go Menu -->
 
 <!ENTITY goMenu.label "Eiti">
@@ -60,13 +60,13 @@
 <!ENTITY goHomeCmd.accesskey "r">
 <!ENTITY historyCmd.label "Į žurnalą">
 <!ENTITY historyCmd.accesskey "ž">
-<!ENTITY history.commandKey "h">
+
 <!ENTITY recentTabs.label "Paskiausiai užvertos kortelės">
 <!ENTITY recentTabs.accesskey "P">
-<!ENTITY recentTabs.commandkey "t">
+
 <!ENTITY recentWindows.label "Paskiausiai užverti langai">
 <!ENTITY recentWindows.accesskey "l">
-<!ENTITY recentWindows.commandkey "y">
+
 <!ENTITY historyRestoreLastSession.label "Atkurti paskiausiąjį seansą">
 <!ENTITY historyRestoreLastSession.accesskey "A">
 <!ENTITY syncTabsMenu.label "Kortelės iš kitų kompiuterių">
@@ -79,17 +79,17 @@
 <!ENTITY addCurPageCmd.accesskey "r">
 <!ENTITY addCurPageAsCmd.label "Įrašyti į adresyną kaip…">
 <!ENTITY addCurPageAsCmd.accesskey "a">
-<!ENTITY addCurPageAsCmd.commandkey "d">
+
 <!ENTITY addCurTabsAsCmd.label "Įrašyti į adresyną šią kortelių grupę…">
 <!ENTITY addCurTabsAsCmd.accesskey "k">
 <!ENTITY manBookmarksCmd.label "Tvarkyti adresyną…">
 <!ENTITY manBookmarksCmd.accesskey "T">
-<!ENTITY manBookmarksCmd.commandkey "b">
+
 <!-- Tools Menu -->
 
 <!ENTITY searchInternetCmd.label "Paieška internete">
 <!ENTITY searchInternetCmd.accesskey "n">
-<!ENTITY searchInternet.commandKey "s">
+
 <!ENTITY translateMenu.label "Išversti tinklalapį">
 <!ENTITY translateMenu.accesskey "v">
 

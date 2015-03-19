@@ -18,7 +18,7 @@
 
 <!ENTITY editPageCmd.label "Taisyti tinklalapį">
 <!ENTITY editPageCmd.accesskey "T">
-<!ENTITY editPageCmd.commandkey "e">
+
 
 <!ENTITY navbarCmd.label "Naršymo juosta">
 <!ENTITY navbarCmd.accesskey "N">
@@ -57,11 +57,10 @@
 <!ENTITY throbber.tooltip             "Eiti į &vendorShortName; tinklalapį">
 
 <!ENTITY locationBar.tooltip          "Paieškai surinkite žodį, frazę arba interneto adresą">
-<!ENTITY locationBar.accesskey        "A">
+
 <!ENTITY locationBar.title            "Adresas">
 <!ENTITY proxyIcon.tooltip            "Jei norite saitą į tinklalapį įrašyti į asmeninę mygtukų juostą, nuvilkite šį ženkliuką">
 
-<!ENTITY searchItem.title             "Paieška">
 
 <!ENTITY bookmarksButton.label        "Adresynas">
 <!ENTITY bookmarksButton.tooltip      "Įrašytų adresų sąrašas">

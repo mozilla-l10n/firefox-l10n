@@ -11,7 +11,7 @@
 <!ENTITY update.checkForUpdatesButton.label       "Patikrinti ar yra naujinimų">
 <!ENTITY update.checkForUpdatesButton.accesskey   "P">
 <!ENTITY update.updateButton.label2                "Perleiskite „&brandShortName;“, kad būtų įdiegti naujinimai">
-<!ENTITY update.updateButton.accesskey            "P">
+
 <!ENTITY update.applyButtonBillboard.label        "Įdiegti naujinimą…">
 <!ENTITY update.applyButtonBillboard.accesskey    "d">
 <!-- LOCALIZATION NOTE (warningDesc.version): This is a warning about the experimental nature of Nightly and Aurora builds. It is only shown in those versions. -->
@@ -22,7 +22,7 @@
 <!ENTITY warningDesc.telemetryDesc  "Ji automatiškai siunčia informaciją apie našumą, aparatinę įrangą, programos naudojimą ir suasmeninimus „&vendorShortName;i“ programos tobulinimo tikslais.">
 <!-- LOCALIZATION NOTE (community.exp.*) This paragraph is shown in "experimental" builds, i.e. Nightly and Aurora builds, instead of the other "community.*" strings below. -->
 
-<!ENTITY community.exp.start        "Ieškant medijos tipo, aptiktas rezervuotas žodis „&#037;1$S“.">
+<!ENTITY community.exp.start        "">
 <!-- LOCALIZATION NOTE (community.exp.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
 <!ENTITY community.exp.mozillaLink  "„&vendorShortName;“">
 <!ENTITY community.exp.middle       " – tai ">
@@ -32,11 +32,9 @@
 
 <!ENTITY community.start2           "„&brandShortName;“ kuria ir tobulina ">
 <!-- LOCALIZATION NOTE (community.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
-<!ENTITY community.mozillaLink      "„&vendorShortName;“">
 <!ENTITY community.middle2          " – ">
 <!-- LOCALIZATION NOTE (community.creditsLink): This is a link title that links to about:credits. -->
-<!ENTITY community.creditsLink      "pasaulinė bendruomenė">
-<!ENTITY community.end3             ", siekianti, kad saitynas būtų atviras, viešas ir prieinamas kiekvienam.">
+
 
 <!ENTITY helpus.start               "Norite padėti? ">
 <!-- LOCALIZATION NOTE (helpus.donateLink): This is a link title that links to https://sendto.mozilla.org/page/contribute/Give-Now?source=mozillaorg_default_footer&ref=firefox_about&utm_campaign=firefox_about&utm_source=firefox&utm_medium=referral&utm_content=20140929_FireFoxAbout. -->

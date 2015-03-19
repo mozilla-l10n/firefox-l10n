@@ -42,6 +42,8 @@
 <!ENTITY runtimeMenu_showDevicePrefs_label "Įrenginio nuostatos">
 <!ENTITY runtimeMenu_showDevicePrefs_accesskey "n">
 
+
+
 <!ENTITY viewMenu_label "Rodymas">
 <!ENTITY viewMenu_accesskey "R">
 <!ENTITY viewMenu_toggleEditor_label "Rodyti / nerodyti rengyklės">
@@ -92,6 +94,7 @@
 <!ENTITY details_location "Adresas">
 <!ENTITY details_manifestURL "Programos ID">
 <!ENTITY details_removeProject_button "Šalinti projektą">
+
 <!-- New App -->
 
 <!ENTITY newAppWindowTitle "Nauja programa">
@@ -143,21 +146,40 @@
 <!ENTITY runtimedetails_adbIsRoot "„ADB“ vykdoma administratoriaus teisėmis: ">
 <!ENTITY runtimedetails_summonADBRoot "gauti įrenginio administratoriaus teises">
 <!ENTITY runtimedetails_ADBRootWarning "(reikalinga atrakinta paleidyklė)">
-<!ENTITY runtimedetails_restrictedPrivileges "Ribota „DevTools“ prieiga: ">
+
 <!ENTITY runtimedetails_requestPrivileges "prašyti aukštesnių privilegijų">
 <!ENTITY runtimedetails_privilegesWarning "(Įrenginys bus perleistas. Reikalingos „root“ teisės.)">
-<!-- Device Preferences -->
+<!-- Device Preferences and Settings -->
 
-<!ENTITY devicepreferences_title "Įrenginio nuostatos">
-<!ENTITY devicepreferences_search "Paieškos nuostatos">
-<!ENTITY devicepreferences_newname "Naujo nuostatų parametro pavadinimas">
-<!ENTITY devicepreferences_newtext "Parametro reikšmė">
-<!ENTITY devicepreferences_addnew "Pridėti naują nuostatų parametrą">
-<!ENTITY devicepreferences_typeboolean "Loginis">
-<!ENTITY devicepreferences_typenumber "Sveikasis skaičius">
-<!ENTITY devicepreferences_typestring "Simbolių eilutė">
-<!ENTITY devicepreferences_typenone "Parinkite tipą">
+<!ENTITY device_typeboolean "Loginis">
+<!ENTITY device_typenumber "Sveikasis skaičius">
+<!ENTITY device_typestring "Simbolių eilutė">
+<!ENTITY device_typeobject "objektas">
+<!ENTITY device_typenone "Parinkite tipą">
+<!-- Device Preferences -->
+<!ENTITY devicepreference_search "Paieškos nuostatos">
+<!ENTITY devicepreference_newname "Naujo nuostatų parametro pavadinimas">
+<!ENTITY devicepreference_newtext "Parametro reikšmė">
+<!ENTITY devicepreference_addnew "Pridėti naują nuostatų parametrą">
+<!-- Device Settings -->
+
+
+
+
 <!-- Monitor -->
 
 <!ENTITY monitor_title "Stebyklė">
 <!ENTITY monitor_help "Žinynas">
+<!-- WiFi Authentication -->
+<!-- LOCALIZATION NOTE (wifi_auth_header): The header displayed on the dialog
+     that instructs the user to transfer an authentication token to the
+     server. -->
+<!-- LOCALIZATION NOTE (wifi_auth_scan_request): Instructions requesting the
+     user to transfer authentication info by scanning a QR code. -->
+<!-- LOCALIZATION NOTE (wifi_auth_no_scanner): Link text to assist users with
+     devices that can't scan a QR code. -->
+<!-- LOCALIZATION NOTE (wifi_auth_yes_scanner): Link text to assist users with
+     devices that can scan a QR code. -->
+<!-- LOCALIZATION NOTE (wifi_auth_token_request): Instructions requesting the
+     user to transfer authentication info by transferring a token. -->
+<!-- Logs panel -->
