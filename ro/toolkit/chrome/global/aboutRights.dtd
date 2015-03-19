@@ -35,7 +35,7 @@
 <!ENTITY rights.intro-point3-unbranded "Orice politică aplicabilă confidențialității datelor în timp ce folosiți acest produs ar trebui listată aici.">
 <!-- point 4 text for official branded builds -->
 
-<!ENTITY rights2.intro-point4a "Unele funcționalități din &brandShortName; folosesc servicii web, servicii a căror bună funcționare sau acuratețe nu o putem garanta 100&#037;. Mai multe detalii, inclusiv informații despre cum să dezactivați funcționalitățile care folosesc aceste servicii pot fi găsite în ">
+<!ENTITY rights2.intro-point4a "Unele funcționalități din &brandShortName; folosesc servicii web, servicii a căror bună funcționare sau acuratețe nu o putem garanta 100&#037;. Mai multe detalii, inclusiv informații despre cum să dezactivați funcționalitățile care folosesc aceste servicii pot fi găsite în ">
 <!ENTITY rights.intro-point4b "termenii de furnizare a serviciului">
 <!ENTITY rights.intro-point4c ".">
 <!-- point 4 text for unbranded builds -->

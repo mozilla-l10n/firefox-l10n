@@ -146,7 +146,7 @@
 <!ENTITY runtimedetails_adbIsRoot "ADB este root: ">
 <!ENTITY runtimedetails_summonADBRoot "dispozitiv root">
 <!ENTITY runtimedetails_ADBRootWarning "(requires unlocked bootloader)">
-<!ENTITY runtimedetails_unrestrictedPrivileges "Unrestricted DevTools privileges: ">
+<!ENTITY runtimedetails_unrestrictedPrivileges "Unrestricted DevTools privileges: ">
 <!ENTITY runtimedetails_requestPrivileges "solicită privilegii mai mari">
 <!ENTITY runtimedetails_privilegesWarning "(Va reporni dispozitivul. Necesită acces root.)">
 <!-- Device Preferences and Settings -->
