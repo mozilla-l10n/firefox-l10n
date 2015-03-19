@@ -204,11 +204,8 @@ functionality specific to firefox. -->
 <!ENTITY remoteXUL.title "Remote XUL">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Neem contact op met de website-eigenaars om ze over dit probleem te informeren.</li></ul></p>">
 
-<!ENTITY oldSecurityProtocol.title "Kan geen beveiligde verbinding maken">
-<!-- LOCALIZATION NOTE (oldSecurityProtocol.longDesc) - Do not translate the
-     <span id='hostname'></span>. -->
-<!ENTITY oldSecurityProtocol.longDesc2 "&brandShortName; kan de veiligheid van uw gegevens op <span id='hostname'></span> niet garanderen, omdat de website gebruikmaakt van SSLv3, een onbetrouwbaar beveiligingsprotocol.">
-<!-- LOCALIZATION NOTE (oldSecurityProtocol.advancedInfo) - Do not translate
-     the <span id='errorcode'></span>. -->
-<!ENTITY oldSecurityProtocol.advancedInfo "Uitgebreide info: <span id='errorcode'></span>">
-<!ENTITY oldSecurityProtocol.learnMore "Meer info…">
+<!ENTITY sslv3Used.title "Kan geen beveiligde verbinding maken">
+<!-- LOCALIZATION NOTE (sslv3Used.longDesc) - Do not translate
+     "ssl_error_unsupported_version". -->
+<!ENTITY sslv3Used.longDesc "Geavanceerde info: ssl-fout_niet-ondersteunde_versie">
+<!ENTITY sslv3Used.learnMore "Meer info…">
