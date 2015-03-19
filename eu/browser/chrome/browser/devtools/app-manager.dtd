@@ -36,9 +36,9 @@
 <!ENTITY device.permissionsHelpLink "https://developer.mozilla.org/docs/Web/Apps/App_permissions">
 <!ENTITY device.browserTabs "Nabigatzailearen fitxak">
 <!ENTITY device.browserTabsTooltip "Ikusi konektatutako gailuaren nabigatzaileko fitxen zerrenda">
-
+<!ENTITY device.debugBrowserTab "Araztu">
 <!ENTITY device.debugBrowserTabTooltip "Ireki gailuan nabigatzaile-fitxa honetara konektatutako garatzaile-tresnak">
-
+<!ENTITY device.help "Laguntza">
 
 <!ENTITY connection.connectTooltip "Konektatu gailura.">
 <!ENTITY connection.disconnect "Deskonektatu">
@@ -66,19 +66,19 @@
 <!ENTITY connection.startRegisteredSimulator "Abiarazi:">
 
 <!ENTITY projects.localApps "Aplikazio lokalak">
-
+<!ENTITY projects.addApp "Gehitu">
 <!ENTITY projects.addPackaged "Gehitu paketatutako aplikazioa">
 <!ENTITY projects.addPackagedTooltip "Gehitu paketatutako aplikazio berri bat (direktorio bat) zure ordenagailutik.">
 <!ENTITY projects.addHosted "Gehitu ostatatutako aplikazioa">
 <!ENTITY projects.addHostedTooltip "Gehitu ostatatutako aplikazio berri bat (manifest.webapp fitxategi baterako lotura) urruneko webgune batetik.">
-
+<!ENTITY projects.title "Aplikazio lokalak">
 <!ENTITY projects.appDetails "Aplikazioaren xehetasunak">
 <!ENTITY projects.removeAppFromList "Kendu aplikazio hau lanean ari zaren aplikazioen zerrendatik. Honek ez du kenduko gailu edo simulatzailetik.">
 <!ENTITY projects.updateApp "Eguneratu">
 <!ENTITY projects.updateAppTooltip "Exekutatu balidazio-egiaztapenak eta eguneratu aplikazioa konektatutako gailuan">
-
+<!ENTITY projects.debugApp "Araztu">
 <!ENTITY projects.debugAppTooltip "Ireki aplikazio honetara konektatutako garatzaile-tresnak">
-
+<!ENTITY projects.saveManifest "Gorde">
 <!ENTITY projects.saveManifestTooltip "Gorde manifestu-editoreko azpiko edukiak">
 <!ENTITY projects.hostedManifestPlaceHolder2 "http://adibidea.net/app/manifest.webapp">
 <!ENTITY projects.noProjects "Proiekturik ez. Gehitu paketatutako aplikazio bat azpian (direktorio lokala) edo ostatatutako aplikazioa (manifestu-fitxategirako lotura).">
@@ -92,6 +92,7 @@
 <!ENTITY projects.hosted "Ostatatua">
 <!ENTITY projects.packaged "Paketatua">
 
+<!ENTITY help.title "Aplikazio-kudeatzailea">
 <!ENTITY help.close "Itxi">
 <!ENTITY help.intro "Web aplikazioak gailu bateragarrietan (adib. Firefox OS) garatzen eta instalatzen lagunduko dizu tresna honek. <strong>Aplikazioak</strong> fitxak aplikazioaren balidazio- eta instalazio-prozesuan lagunduko dizu. <strong>Gailua</strong> fitxak konektatutako gailuari buruzko informazioa emango dizu. Erabili azpiko tresna-barra gailu batera konektatu edo simulatzailea abiarazteko.">
 <!ENTITY help.usefullLinks "Lotura lagungarriak:">
