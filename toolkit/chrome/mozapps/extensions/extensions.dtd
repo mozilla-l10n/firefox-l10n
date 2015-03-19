@@ -63,7 +63,7 @@
 <!ENTITY updates.updating.label               "Обновяване на добавките">
 <!ENTITY updates.installed.label              "Вашите добавки бяха обновени.">
 <!ENTITY updates.downloaded.label             "Обновяването за вашите добавки е изтеглено.">
-<!ENTITY updates.restart.label                "Рестартирайте сега, за да завършите инсталацията">
+<!ENTITY updates.restart.label                "Рестартирайте, за да завършите инсталацията сега">
 <!ENTITY updates.noneFound.label              "Не бяха намерени обновявания">
 <!ENTITY updates.manualUpdatesFound.label     "Показване на наличните обновявания">
 <!ENTITY updates.updateSelected.label         "Инсталиране на обновявания">
@@ -196,10 +196,10 @@
 <!ENTITY addon.undoAction.tooltip             "Отмяна на това действие">
 <!ENTITY addon.undoRemove.label               "Отмяна">
 <!ENTITY addon.undoRemove.tooltip             "Инсталираната добавка да се задържи така">
-<!ENTITY addon.restartNow.label               "Рестартиране сега">
+<!ENTITY addon.restartNow.label               "Рестартиране">
 <!ENTITY addon.install.label                  "Инсталиране">
 <!ENTITY addon.install.tooltip                "Инсталиране на тази добавка">
-<!ENTITY addon.updateNow.label                "Обновяване сега">
+<!ENTITY addon.updateNow.label                "Обновяване">
 <!ENTITY addon.updateNow.tooltip              "Инсталиране на обновяването на тази добавка">
 <!ENTITY addon.includeUpdate.label            "Включване в обновяване">
 <!ENTITY addon.updateAvailable.label          "Налично е обновяване">
