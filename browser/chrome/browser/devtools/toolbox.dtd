@@ -13,6 +13,7 @@
 <!ENTITY toolboxZoomReset.key "0">
 <!ENTITY toolboxReload.key "r">
 <!ENTITY toolboxFramesTooltip "Seleccione un iframe como documento de destino actual">
+<!ENTITY browserToolboxErrorMessage "Error al abrir la caja de herramientas del navegador:">
 <!ENTITY options.context.advancedSettings "Ajustes avanzados">
 <!ENTITY options.context.inspector "Inspector">
 <!ENTITY options.showUserAgentStyles.label "Mostrar estilos del navegador">
