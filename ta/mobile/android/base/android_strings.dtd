@@ -7,7 +7,7 @@
 <!ENTITY  error_loading_file "&brandShortName; ஐ இயக்க தேவையான கோப்புகளை ஏற்றும் பொழுது ஒரு பிழை ஏற்பட்டுள்ளது">
 
 <!ENTITY  onboard_start_message2 "&brandShortName; நல்வரவு">
-
+<!ENTITY  onboard_start_subtext2 "முன்பைவிட இப்போது கூடுதலான தனியுரிமை அம்சங்களையும் பல்வேறு வழிகளில் தனிப்பயனாக்கலாம்.">
 <!ENTITY  onboard_start_button_account "&brandShortName; உள்நுழை">
 <!ENTITY  onboard_start_button_browser "உலாவ தொடங்கவும்">
 <!-- Localization note: These are used as the titles of different pages on the home screen.
@@ -112,7 +112,7 @@
 
 <!ENTITY overlay_share_send_tab_btn_label "மற்றொரு கருவிக்கு அனுப்பு">
 <!ENTITY overlay_share_no_url "இப்பகிர்வில் எவ்வித தொடுப்பும் இல்லை">
-
+<!ENTITY overlay_share_retry "மீண்டும் முயற்சி">
 <!ENTITY overlay_share_select_device "சாதனத்தை தேர்">
 
 <!ENTITY pref_category_search3 "தேடு">
@@ -213,7 +213,7 @@ size. -->
 
 <!ENTITY pref_media_autoplay_enabled "தானியக்கத்தை அனுமதி">
 <!ENTITY pref_media_autoplay_enabled_summary "வலைத்தளங்கள் தானாக காணொளிகளையும் பிற ஊடங்களையும் இயக்கினால் கட்டுப்படுத்தவும்">
-
+<!ENTITY pref_zoom_force_enabled "அளவுமாற்றதை எப்பொழுதும் செயல்படுத்து">
 
 
 <!ENTITY pref_use_master_password "முதன்மை கடவுச்சொல்">
