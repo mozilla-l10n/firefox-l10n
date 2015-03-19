@@ -4,7 +4,7 @@
 <!ENTITY addons.windowTitle                   "Управление на добавки">
 
 <!ENTITY search.placeholder                   "Търсене на всички добавки">
-
+<!ENTITY search.buttonlabel                   "Търсене">
 <!-- LOCALIZATION NOTE (search.commandKey):
      The search command key should match findOnCmd.commandkey from browser.dtd -->
 <!ENTITY search.commandkey                    "f">
@@ -36,6 +36,8 @@
 <!ENTITY info.plugincheck.label                 "Проверка дали вашите приставки са с последна версия">
 <!ENTITY info.plugincheck.tooltip               "Проверка дали вашите приставки са с последна версия">
 <!-- categories / views -->
+
+<!ENTITY view.search.label                    "Търсене">
 <!ENTITY view.discover.label                  "Изтегляне на добавки">
 <!ENTITY view.recentUpdates.label             "Скорошни обновявания">
 <!ENTITY view.availableUpdates.label          "Налични обновявания">
