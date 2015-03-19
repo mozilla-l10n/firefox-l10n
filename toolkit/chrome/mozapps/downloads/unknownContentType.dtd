@@ -10,7 +10,7 @@
 <!ENTITY  openWith.accesskey          "О">
 <!ENTITY  other.label                 "Друго…">
 
-<!ENTITY  saveFile.label              "Запис на файл">
+<!ENTITY  saveFile.label              "Запазване на файл">
 <!ENTITY  saveFile.accesskey          "З">
 
 <!ENTITY  rememberChoice.label        "Запомняне на операцията за този тип файлове.">

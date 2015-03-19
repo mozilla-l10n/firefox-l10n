@@ -51,13 +51,13 @@
 <!ENTITY  historyHeader.custom.label       "Използва потребителски настройки">
 <!ENTITY  historyHeader.post.label         "">
 
-<!ENTITY  rememberDescription.label      "&brandShortName; ще помни история на сърфирането, изтеглянията, формулярите и търсенията и ще съхранява бисквитките на страниците, които посещавате.">
+<!ENTITY  rememberDescription.label      "&brandShortName; ще помни историята на сърфирането, изтеглянията, формулярите и търсенията и ще съхранява бисквитките на страниците, които посещавате.">
 <!-- LOCALIZATION NOTE (rememberActions.pre.label): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (rememberActions.middle.label): include a starting and trailing space as needed -->
 <!-- LOCALIZATION NOTE (rememberActions.post.label): include a starting space as needed -->
 
-<!ENTITY  rememberActions.pre.label           "Може да искате да ">
-<!ENTITY  rememberActions.clearHistory.label  "изчистите последната история">
+<!ENTITY  rememberActions.pre.label           "Вероятно желаете да ">
+<!ENTITY  rememberActions.clearHistory.label  "изчистите скорошната история">
 <!ENTITY  rememberActions.middle.label        ", или ">
 <!ENTITY  rememberActions.removeCookies.label "да премахнете отделни бисквитки">
 <!ENTITY  rememberActions.post.label          ".">

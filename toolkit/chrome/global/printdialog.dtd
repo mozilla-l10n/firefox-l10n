@@ -8,7 +8,7 @@
 
 <!ENTITY printDialog.title "Отпечатване">
 
-<!ENTITY fpDialog.title "Запис на файл">
+<!ENTITY fpDialog.title "Запазване на файла">
 
 <!ENTITY fileCheck.label "Отпечатване във файл">
 <!ENTITY fileCheck.accesskey "ф">

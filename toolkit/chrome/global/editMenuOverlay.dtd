@@ -21,7 +21,7 @@
 <!ENTITY pasteCmd.accesskey        "П">
 <!ENTITY deleteCmd.label           "Изтриване">
 <!ENTITY deleteCmd.accesskey       "т">
-<!ENTITY selectAllCmd.label        "Маркиране на всичко">
+<!ENTITY selectAllCmd.label        "Избиране на всичко">
 <!ENTITY selectAllCmd.key          "A">
 <!ENTITY selectAllCmd.accesskey    "в">
 <!ENTITY findCmd.label             "Търсене">

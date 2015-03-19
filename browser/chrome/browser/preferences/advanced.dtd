@@ -48,7 +48,7 @@
 <!ENTITY connection.label                "Свързване">
 
 <!ENTITY connectionDesc.label            "Настройване на начина, по който &brandShortName; се свързва с Интернет">
-<!ENTITY connectionSettings.label        "Настройване…">
+<!ENTITY connectionSettings.label        "Настройки…">
 <!ENTITY connectionSettings.accesskey    "Н">
 
 <!ENTITY httpCache.label                 "Кеширано уеб съдържание">

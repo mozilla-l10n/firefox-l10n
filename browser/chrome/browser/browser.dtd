@@ -479,9 +479,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY setDesktopBackgroundCmd.label      "Поставяне като фон на работния плот…">
 <!ENTITY setDesktopBackgroundCmd.accesskey  "П">
 <!ENTITY bookmarkPageCmd2.label       "Отмятане на страницата">
-<!ENTITY bookmarkThisLinkCmd.label      "Отмятане на тази връзка">
-<!ENTITY bookmarkThisLinkCmd.accesskey  "ъ">
-<!ENTITY bookmarkThisFrameCmd.label      "Отмятане на тази рамка">
+<!ENTITY bookmarkThisLinkCmd.label      "Отмятане на връзката">
+<!ENTITY bookmarkThisLinkCmd.accesskey  "О">
+<!ENTITY bookmarkThisFrameCmd.label      "Отмятане на рамката">
 <!ENTITY bookmarkThisFrameCmd.accesskey  "р">
 <!ENTITY emailPageCmd.label           "Изпращане на връзката като мейл…">
 <!ENTITY emailPageCmd.accesskey       "в">
@@ -490,15 +490,15 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- alternate for content area context menu -->
 <!ENTITY savePageCmd.accesskey2       "P">
 <!ENTITY savePageCmd.commandkey       "s">
-<!ENTITY saveFrameCmd.label           "Запис на рамката като…">
+<!ENTITY saveFrameCmd.label           "Запазване на рамката като…">
 <!ENTITY saveFrameCmd.accesskey       "р">
 <!ENTITY printFrameCmd.label          "Отпечатване на рамката…">
 <!ENTITY printFrameCmd.accesskey      "п">
-<!ENTITY saveLinkCmd.label            "Запис на връзката като…">
-<!ENTITY saveLinkCmd.accesskey        "ъ">
-<!ENTITY saveImageCmd.label           "Запис на изображението като…">
+<!ENTITY saveLinkCmd.label            "Запазване на връзката като…">
+<!ENTITY saveLinkCmd.accesskey        "в">
+<!ENTITY saveImageCmd.label           "Запазване на изображението като…">
 <!ENTITY saveImageCmd.accesskey       "ж">
-<!ENTITY saveVideoCmd.label           "Запис на видеото като…">
+<!ENTITY saveVideoCmd.label           "Запазване на видеото като…">
 <!ENTITY saveVideoCmd.accesskey       "в">
 <!ENTITY saveAudioCmd.label           "Запис на аудиото като…">
 <!ENTITY saveAudioCmd.accesskey       "а">
@@ -751,7 +751,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY social.markpageMenu.accesskey "с">
 <!ENTITY social.markpageMenu.label "Запис на страницата…">
 <!ENTITY social.marklinkMenu.accesskey "в">
-<!ENTITY social.marklinkMenu.label "Запис на връзката…">
+<!ENTITY social.marklinkMenu.label "Запазване на връзката…">
 
 <!ENTITY getUserMedia.selectCamera.label "Камера за споделяне:">
 <!ENTITY getUserMedia.selectCamera.accesskey "К">

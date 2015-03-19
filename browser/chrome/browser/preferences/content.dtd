@@ -4,20 +4,20 @@
 
 <!ENTITY  popups.label                "Изскачащи прозорци">
 
-<!ENTITY  blockPopups.label           "Блокиране на изскачащите прозорци">
+<!ENTITY  blockPopups.label           "Блокиране на изскачащи прозорци">
 <!ENTITY  blockPopups.accesskey       "Б">
 <!ENTITY  popupExceptions.label       "Изключения…">
 <!ENTITY  popupExceptions.accesskey   "И">
 
 <!ENTITY  fontsAndColors.label        "Шрифтове и цветове">
 
-<!ENTITY  defaultFont.label           "Подразбиращ се шрифт:">
-<!ENTITY  defaultFont.accesskey       "П">
+<!ENTITY  defaultFont.label           "Стандартен шрифт:">
+<!ENTITY  defaultFont.accesskey       "С">
 <!ENTITY  defaultSize.label           "Размер:">
 <!ENTITY  defaultSize.accesskey       "Р">
 
-<!ENTITY  advancedFonts.label         "Настройване…">
-<!ENTITY  advancedFonts.accesskey     "Н">
+<!ENTITY  advancedFonts.label         "Разширени…">
+<!ENTITY  advancedFonts.accesskey     "Р">
 
 <!ENTITY  colors.label                "Цветове…">
 <!ENTITY  colors.accesskey            "Ц">

@@ -51,7 +51,7 @@
 <!ENTITY connection.startSimulator "Пускане на симулатора">
 <!ENTITY connection.startSimulatorTooltip "Пускане на инстанция на симулатора и свързване с нея">
 <!ENTITY connection.saveConnectionInfo "Запис">
-<!ENTITY connection.saveConnectionInfoTooltip "Запис на хоста и порта">
+<!ENTITY connection.saveConnectionInfoTooltip "Запазване на хоста и порта">
 <!ENTITY connection.connecting "Свързване…">
 <!ENTITY connection.disconnecting "Развързване…">
 <!ENTITY connection.cancel "Прекъсване">
@@ -79,7 +79,7 @@
 
 <!ENTITY projects.debugAppTooltip "Отваряне на инструментите за разработчика, свързани с това приложение">
 
-<!ENTITY projects.saveManifestTooltip "Запис на съдържанието в редактора на манифест, намиращо се по-долу">
+<!ENTITY projects.saveManifestTooltip "Запазване на съдържанието от Редактора за манифести">
 <!ENTITY projects.hostedManifestPlaceHolder2 "http://example.com/app/manifest.webapp">
 <!ENTITY projects.noProjects "Няма проекти. Добавяне на ново пакетирано приложение (локална директория) или на хостнато приложение (връзка към файл с манифест).">
 <!ENTITY projects.manifestEditor "Редактор на манифест">

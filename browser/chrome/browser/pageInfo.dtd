@@ -9,8 +9,8 @@
 <!ENTITY  copy.label            "Копиране">
 <!ENTITY  copy.accesskey        "К">
 <!ENTITY  selectall.key         "A">
-<!ENTITY  selectall.label       "Маркиране на всичко">
-<!ENTITY  selectall.accesskey   "М">
+<!ENTITY  selectall.label       "Избиране на всичко">
+<!ENTITY  selectall.accesskey   "в">
 <!ENTITY  closeWindow.key       "w">
 
 <!ENTITY  generalTab            "Общи">
