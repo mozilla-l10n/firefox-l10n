@@ -208,7 +208,7 @@
 <!-- LOCALIZATION NOTE (netmonitorUI.security.warning.cipher): A tooltip
   -  for warning icon that indicates a connection uses insecure cipher suite. -->
 
-<!ENTITY netmonitorUI.security.warning.cipher     "Cifrul utilizat pentru criptare este învechit și nesigur.">
+<!ENTITY netmonitorUI.security.warning.cipher     "Cifrul folosit pentru criptare este învechit și nesigur.">
 <!-- LOCALIZATION NOTE (netmonitorUI.security.error): This is the label displayed
   -  in the security tab if a security error prevented the connection. -->
 
