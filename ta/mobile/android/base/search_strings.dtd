@@ -16,7 +16,7 @@
 <!ENTITY search_plus_content_description "தேடல் பட்டையில் சேர்">
 
 <!ENTITY search_pref_title "அமைவுகள்">
-
+<!ENTITY search_pref_button_content_description "அமைவுகள்">
 
 <!ENTITY pref_clearHistory_confirmation "வரலாறு துடைக்கப்பட்டது">
 <!ENTITY pref_clearHistory_dialogMessage "இச்சாதனத்திலிருந்து அனைத்து தேடல் வரலாற்றையும் அழி?">

@@ -165,7 +165,7 @@
 <!ENTITY pref_header_help "உதவி">
 <!ENTITY pref_header_language "மொழி">
 <!ENTITY pref_header_vendor "&vendorShortName;">
-<!ENTITY pref_header_devtools "உருவாக்குனர் கருவிகள்">
+<!ENTITY pref_header_devtools "உருவாக்குநர் கருவிகள்">
 
 <!ENTITY pref_cookies_menu "குக்கீகள்">
 <!ENTITY pref_cookies_accept_all "செயல்படுத்தப்பட்டது">
@@ -309,7 +309,7 @@ size. -->
 <!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
 
-<!ENTITY find_text "பக்கத்தில் கண்டுபிடி">
+<!ENTITY find_text "பக்கத்தினுள் கண்டுபிடி">
 <!ENTITY find_prev "முந்தையது">
 <!ENTITY find_next "அடுத்து">
 <!ENTITY find_close "மூடு">
@@ -530,7 +530,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY updater_downloading_select2 "பதிவிறக்கம் முடிந்த உடனே தட்டி மேம்பாட்டை செயல்படுத்தவும்">
 <!ENTITY updater_downloading_retry2 "மறுமுயற்சி செய்ய தொடவும்">
 
-<!ENTITY updater_apply_title2 "&brandShortName;விற்கு புதுபித்தல் கிடைக்கிறது">
+<!ENTITY updater_apply_title2 "&brandShortName; க்கு புதுபித்தல் இருக்கிறது">
 <!ENTITY updater_apply_select2 "புதுப்பிக்க தொடவும்">
 <!-- Guest mode -->
 
@@ -550,7 +550,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      designated space. Use the unicode ellipsis char, \u2026, or use "..." if \u2026 doesn't suit
      traditions in your locale. -->
 
-<!ENTITY ellipsis "...">
+<!ENTITY ellipsis "…">
 
 <!ENTITY colon ":">
 <!-- These are only used for accessibility for the done and overflow-menu buttons in the actionbar.
