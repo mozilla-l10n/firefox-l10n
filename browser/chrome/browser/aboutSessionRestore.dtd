@@ -35,7 +35,7 @@
 <!ENTITY welcomeback2.pageInfo1     "&brandShortName; е готов.">
 
 <!ENTITY welcomeback2.label.restoreAll  "Възстановяване на всички прозорци и подпрозорци">
-<!ENTITY welcomeback2.label.restoreSome "Възстановяване на избрани">
+<!ENTITY welcomeback2.label.restoreSome "Възстановяване на избраните">
 <!-- LOCALIZATION NOTE (welcomeback2.beforelink.pageInfo2,
 welcomeback2.afterlink.pageInfo2): these two string are used respectively
 before and after the the "learn more" link (welcomeback2.link.pageInfo2).
