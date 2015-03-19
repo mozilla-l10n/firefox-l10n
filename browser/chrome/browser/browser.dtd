@@ -389,7 +389,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY customizeMenu.addMoreItems.accesskey "Д">
 
 <!ENTITY openCmd.commandkey           "l">
-<!ENTITY urlbar.placeholder2          "Введіть пошуковий запит або адресу">
+<!ENTITY urlbar.placeholder2          "Введіть пошуковий запит чи адресу">
 <!ENTITY urlbar.accesskey             "с">
 <!ENTITY urlbar.switchToTab.label     "Перемкнутись на вкладку:">
 
