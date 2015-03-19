@@ -170,6 +170,9 @@ selected to be added to the home page. -->
 <!ENTITY pref_donottrack_title "Ograniczanie śledzenia">
 <!ENTITY pref_donottrack_summary "Informuj witryny, że użytkownik nie chce być śledzony">
 
+<!ENTITY tab_queue_toast_message "Otwórz później">
+<!ENTITY tab_queue_toast_action "Otwórz teraz">
+
 <!ENTITY pref_char_encoding "Kodowanie znaków">
 <!ENTITY pref_char_encoding_on "Pokazuj">
 <!ENTITY pref_char_encoding_off "Nie pokazuj">
