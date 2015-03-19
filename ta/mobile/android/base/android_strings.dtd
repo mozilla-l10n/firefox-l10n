@@ -6,6 +6,7 @@
 <!ENTITY  no_space_to_start_error "&brandShortName; ஐத் தொடங்க போதிய இடம் இல்லை.">
 <!ENTITY  error_loading_file "&brandShortName; ஐ இயக்க தேவையான கோப்புகளை ஏற்றும் பொழுது ஒரு பிழை ஏற்பட்டுள்ளது">
 
+<!ENTITY  onboard_start_message2 "&brandShortName; நல்வரவு">
 
 <!ENTITY  onboard_start_button_account "&brandShortName; உள்நுழை">
 <!ENTITY  onboard_start_button_browser "உலாவ தொடங்கவும்">
