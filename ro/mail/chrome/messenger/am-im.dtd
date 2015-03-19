@@ -6,7 +6,7 @@
 <!ENTITY accountWindow.width           "300">
 <!ENTITY account.general               "Generale">
 <!ENTITY account.advanced              "Opțiuni avansate">
-<!ENTITY account.name                  "Nume utilizator: ">
+<!ENTITY account.name                  "Nume utilizator:">
 <!ENTITY account.password              "Parola:">
 <!ENTITY account.alias                 "Alias:">
 <!ENTITY account.newMailNotification   "Anunță-mă la un nou e-mail">

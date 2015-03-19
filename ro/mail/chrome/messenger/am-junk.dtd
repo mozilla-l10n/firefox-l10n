@@ -17,7 +17,7 @@
 <!ENTITY purge1.accesskey "u">
 <!ENTITY purge2.label "zile">
 
-<!ENTITY whitelistHeader.label "Nu marca acest mesaj ca nesolicitat dacă expeditorul este în:  ">
+<!ENTITY whitelistHeader.label "Nu marca acest mesaj ca nesolicitat dacă expeditorul este în: ">
 <!ENTITY whitelistHeader.accesskey "d">
 
 <!ENTITY ispHeadersWarning.label "Dacă este activată, &brandShortName; va considera automat mesajele marcate de clasificarea externă ca și spam.">
