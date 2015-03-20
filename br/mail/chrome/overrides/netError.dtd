@@ -73,7 +73,7 @@ gwiriekait eo aotreet &brandShortName; da dizhout ar web.</li>
 
 <!ENTITY unknownProtocolFound.title "Komenad dianav ">
 <!ENTITY unknownProtocolFound.longDesc "<ul> 
-<li> Marteze ho peus ezhomm da stalian meziantoù all evit digeriñ ar chomlec'h-mañ.</li> 
+<li> Marteze ho peus ezhomm da staliañ meziantoù all evit digeriñ ar chomlec'h-mañ.</li> 
 </ul>">
 
 <!ENTITY proxyConnectFailure.title "Dafariad ar proksi zo o nac'hañ ar c'hennaskañ">
