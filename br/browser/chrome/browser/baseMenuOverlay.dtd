@@ -14,7 +14,7 @@
                        for the help button in the menubar but Gnome does not.   -->
 <!ENTITY helpMenuWin.label        "Skoazell"> 
 <!ENTITY helpMenuWin.accesskey    "S">
-<!ENTITY aboutProduct2.label      "A-zivout &brandShortName;">
+<!ENTITY aboutProduct2.label      "A-zivout &brandShorterName;">
 <!ENTITY aboutProduct2.accesskey  "A">
 <!ENTITY productHelp2.label       "Skoazell &brandShorterName;">
 <!ENTITY productHelp2.accesskey   "o">
@@ -43,7 +43,7 @@
 
 <!ENTITY servicesMenuMac.label          " Gwazerezhioù">
 
-<!ENTITY hideThisAppCmdMac2.label       "Kuzhat &brandShortName;">
+<!ENTITY hideThisAppCmdMac2.label       "Kuzhat &brandShorterName;">
 <!ENTITY hideThisAppCmdMac2.commandkey  "H">
 
 <!ENTITY hideOtherAppsCmdMac.label      "Kuzhat ar re all">
