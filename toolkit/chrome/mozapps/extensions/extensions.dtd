@@ -15,7 +15,7 @@
 <!ENTITY listEmpty.recentUpdates.label        "Скоро не сте обновявали никоя добавка">
 <!ENTITY listEmpty.findUpdates.label          "Проверка за обновявания">
 <!ENTITY listEmpty.search.label               "Няма намерени съвпадащи добавки">
-<!ENTITY listEmpty.button.label               "Научете повече относно добавките">
+<!ENTITY listEmpty.button.label               "Научете повече за добавките">
 <!ENTITY installAddonFromFile.label           "Инсталиране на добавка от файл…">
 <!ENTITY installAddonFromFile.accesskey       "И">
 <!ENTITY toolsMenu.tooltip                    "Инструменти за всички добавки">
@@ -137,7 +137,7 @@
 
 <!ENTITY detail.updateType                    "Автоматични обновявания">
 <!ENTITY detail.updateDefault.label           "По подразбиране">
-<!ENTITY detail.updateDefault.tooltip         "Автоматично инсталиране на обновявания само ако това е по подразбиране">
+<!ENTITY detail.updateDefault.tooltip         "Автоматично инсталиране на обновявания само ако е стандартно">
 <!ENTITY detail.updateAutomatic.label         "Включено">
 <!ENTITY detail.updateAutomatic.tooltip       "Автоматично инсталиране на обновявания">
 <!ENTITY detail.updateManual.label            "Изключено">

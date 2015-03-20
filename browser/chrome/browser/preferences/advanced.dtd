@@ -28,17 +28,17 @@
 
 <!ENTITY dataChoicesTab.label            "Данни">
 
-<!ENTITY healthReportDesc.label          "Помага за разбирането на производителността на браузъра и поделя данни със  &vendorShortName;  за изправността му.">
+<!ENTITY healthReportDesc.label          "Помага за разбирането на производителността на браузъра и поделя данни с &vendorShortName; за изправността му">
 <!ENTITY enableHealthReport.label        "Включване доклада за изправност на &brandShortName;">
 <!ENTITY enableHealthReport.accesskey    "R">
 <!ENTITY healthReportLearnMore.label     "Научете повече">
 
-<!ENTITY telemetryDesc.label             "Споделя анонимни данни за използването, производителността, хардуера, настройките на браузъра ви с  &vendorShortName; за да ни помогне да направим &brandShortName; по-добър ">
-
-
+<!ENTITY telemetryDesc.label             "Споделя анонимни данни за използването, производителността, хардуера, настройките на браузъра ви с &vendorShortName; за да ни помогне да направим &brandShortName; по-добър">
+<!ENTITY enableTelemetryData.label       "Споделяне на допълнителни данни (напр. Телеметрия)">
+<!ENTITY enableTelemetryData.accesskey   "д">
 <!ENTITY telemetryLearnMore.label        "Научете повече">
 
-<!ENTITY crashReporterDesc.label         "&brandShortName;  изпраща информация за сривовете за да помогне на &vendorShortName; да направи този браузър по-добър и по-сигурен.">
+<!ENTITY crashReporterDesc.label         "&brandShortName; изпраща информация за сривовете, за да помогне на &vendorShortName; да направи този браузър по-добър и по-сигурен">
 <!ENTITY enableCrashReporter.label       "Включване на Доклад за срив">
 <!ENTITY enableCrashReporter.accesskey   "Д">
 <!ENTITY crashReporterLearnMore.label    "Научете повече">
@@ -63,7 +63,7 @@
 
 <!ENTITY limitCacheSizeBefore.label      "Ограничаване на кеша до">
 <!ENTITY limitCacheSizeBefore.accesskey  "О">
-<!ENTITY limitCacheSizeAfter.label       "MiB пространство">
+<!ENTITY limitCacheSizeAfter.label       "МБ пространство">
 <!ENTITY clearCacheNow.label             "Изчистване">
 <!ENTITY clearCacheNow.accesskey         "И">
 <!ENTITY clearOfflineAppCacheNow.label   "Изчистване сега">
@@ -89,7 +89,7 @@
 <!ENTITY updateAutoAddonWarn.label       "Предупреждение при възможно изключване на добавки">
 <!ENTITY updateAutoAddonWarn.accesskey   "в">
 
-<!ENTITY updateAutoMetroWarn.label       "(Стилът Windows 8 на &brandShortName; не проверява за съвместимост на добавките)">
+<!ENTITY updateAutoMetroWarn.label       "(Режимът Windows 8 на &brandShortName; не проверява за съвместимост на добавките)">
 
 <!ENTITY updateHistory.label             "История на обновяванията">
 <!ENTITY updateHistory.accesskey         "о">
@@ -118,8 +118,8 @@
 <!ENTITY certs.auto.accesskey            "А">
 <!ENTITY certs.ask                       "Питане всеки път">
 <!ENTITY certs.ask.accesskey             "П">
-
-
+<!ENTITY enableOCSP.label                "Заявка към сървър OCSP responder за потвърждаване валидността на сертификатите">
+<!ENTITY enableOCSP.accesskey            "З">
 <!ENTITY viewCerts.label                 "Показване на сертификатите">
 <!ENTITY viewCerts.accesskey             "с">
 <!ENTITY viewSecurityDevices.label       "Устройства по безопасността">

@@ -6,10 +6,11 @@
 <!ENTITY  window.width                    "38em">
 <!ENTITY  window.macWidth                 "52em">
 
-
+<!ENTITY  overridePageColors.label        "Отменяне на цветовете от страницата за сметка на избраните от мен:">
+<!ENTITY  overridePageColors.accesskey    "О">
 
 <!ENTITY  overridePageColors.always.label "Винаги">
-
+<!ENTITY  overridePageColors.auto.label   "Само с виококонтрастни теми">
 <!ENTITY  overridePageColors.never.label  "Никога">
 
 <!ENTITY  color                           "Текст и фон">

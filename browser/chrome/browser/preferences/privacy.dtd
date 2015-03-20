@@ -6,33 +6,34 @@
 
 <!ENTITY dntTrackingNotOkay.label2      "Изискване от страници и приложения да не бъда проследяван">
 <!ENTITY dntTrackingNotOkay.accesskey   "н">
-
-
-
+<!ENTITY trackingProtection.label       "Забраняване на страниците да ме следят">
+<!ENTITY trackingProtection.accesskey   "З">
+<!ENTITY trackingProtectionLearnMore.label "Научете повече">
 <!ENTITY doNotTrackInfo.label           "Научете повече">
 
 <!ENTITY  history.label                 "История">
 
-<!ENTITY  locationBar.label             "Лента за адрес">
+<!ENTITY  locationBar.label             "Адресна лента">
 
 <!ENTITY  locbar.suggest.label          "При използване на адресната лента, подсказване на:">
 <!ENTITY  locbar.history.label          "История">
 <!ENTITY  locbar.history.accesskey      "И">
 <!ENTITY  locbar.bookmarks.label        "Отметки">
 <!ENTITY  locbar.bookmarks.accesskey    "О">
-
-
+<!ENTITY  locbar.openpage.label         "Отваряне на подпрозорци">
+<!ENTITY  locbar.openpage.accesskey     "О">
 
 <!ENTITY  acceptCookies.label           "Разрешаване на бисквитките">
 <!ENTITY  acceptCookies.accesskey       "Р">
 
-<!ENTITY  acceptThirdParty.pre.label      "Разрешаване на бисквитките от трети страни:">
+<!ENTITY  acceptThirdParty.pre.label      "Разрешаване на бисквитки от трети страни:">
 <!ENTITY  acceptThirdParty.pre.accesskey  "т">
 <!ENTITY  acceptThirdParty.always.label   "Винаги">
 <!ENTITY  acceptThirdParty.never.label    "Никога">
 <!ENTITY  acceptThirdParty.visited.label  "От посетените">
 
-
+<!ENTITY  keepUntil.label               "Пазене докато:">
+<!ENTITY  keepUntil.accesskey           "П">
 
 <!ENTITY  expire.label                  "загуба на валидност">
 <!ENTITY  close.label                   "затваряне на &brandShortName;">
