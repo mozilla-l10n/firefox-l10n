@@ -4,7 +4,7 @@
 <!ENTITY addons.windowTitle                   "Byvoegingbestuurder">
 
 <!ENTITY search.placeholder                   "Deursoek alle byvoegings">
-
+<!ENTITY search.buttonlabel                   "Soek">
 <!-- LOCALIZATION NOTE (search.commandKey):
      The search command key should match findOnCmd.commandkey from browser.dtd -->
 <!ENTITY search.commandkey                    "f">
@@ -36,6 +36,8 @@
 <!ENTITY info.plugincheck.label                 "Kontroleer of al die inproppe op datum is">
 <!ENTITY info.plugincheck.tooltip               "Kontroleer of al die inproppe op datum is">
 <!-- categories / views -->
+
+<!ENTITY view.search.label                    "Soek">
 <!ENTITY view.discover.label                  "Kry byvoegings">
 <!ENTITY view.recentUpdates.label             "Onlangse bywerkings">
 <!ENTITY view.availableUpdates.label          "Beskikbare bywerkings">
@@ -228,3 +230,4 @@ beste en gewildste byvoegings bevat wat jy kan probeer.">
 <!ENTITY experiment.info.changetelemetry "Instellings vir Telemetrie">
 <!ENTITY experiment.info.changetelemetry.accesskey "T">
 
+<!ENTITY setting.learnmore "Meer inligting…">
