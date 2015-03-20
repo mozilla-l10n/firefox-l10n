@@ -848,7 +848,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY readingList.label                        "ಓದುಬೇಕಿರುವ ಪಟ್ಟಿ">
 <!ENTITY readingList.sidebar.commandKey           "R">
-<!-- Pre-landed string for bug 1124400 -->
 <!ENTITY readingList.showSidebar.label            "ಓದಬೇಕಿರುವ ಪಟ್ಟಿಯ ಬದಿಪಟ್ಟಿ ತೋರಿಸು">
 <!-- Pre-landed string for bug 1124153 -->
 <!ENTITY readingList.sidebar.showMore.label       "ಇನ್ನಷ್ಟು ತೋರಿಸು…">
