@@ -193,7 +193,7 @@
 
 <!ENTITY fxaccount_finish_migrating_header "Ingresa para finalizar la actualización">
 <!ENTITY fxaccount_finish_migrating_button_label "Finalizar la actualización">
-
+<!ENTITY fxaccount_finish_migrating_description "La actualización puede consumir muchos datos. Es mejor estar conectado a un red Wi-Fi.">
 
 <!ENTITY fxaccount_status_header2 "Cuenta de Firefox">
 <!ENTITY fxaccount_status_signed_in_as "Conectado como">

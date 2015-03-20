@@ -276,7 +276,7 @@ size. -->
      specifically, since the pref only prevents automatic downloads and not the
      actual notification that an update is available. -->
 <!ENTITY pref_update_autodownload2 "Bajar actualizaciones automáticas">
-
+<!ENTITY pref_update_autodownload_wifi "Sólo mediante Wi-Fi">
 <!ENTITY pref_update_autodownload_never "Nunca">
 <!ENTITY pref_update_autodownload_always "Siempre">
 <!-- Localization note (help_menu) : This string is used in the main menu-->
@@ -556,6 +556,8 @@ desde Android">
      designated space. Use the unicode ellipsis char, \u2026, or use "..." if \u2026 doesn't suit
      traditions in your locale. -->
 
+<!ENTITY ellipsis "…">
+
 <!ENTITY colon ":">
 <!-- These are only used for accessibility for the done and overflow-menu buttons in the actionbar.
      They are never shown to users -->
@@ -564,9 +566,11 @@ desde Android">
 <!ENTITY actionbar_done "Hecho">
 <!-- Voice search in the awesome bar -->
 
-
-
-
+<!ENTITY voicesearch_prompt "Hablar ahora">
+<!ENTITY voicesearch_failed_title "Búsqueda por voz &brandShortName;">
+<!ENTITY voicesearch_failed_message "Tenemos problema con la búsqueda por voz en estos momentos. Por favor, intenta más tarde.">
+<!ENTITY voicesearch_failed_message_recoverable "¡Lo sentimos! No podemos reconocer tus palabras. Por favor, intenta de nuevo.">
+<!ENTITY voicesearch_failed_retry "Intentar de nuevo">
 <!-- Localization note (remote_tabs_last_synced): the variable is replaced by a
      "relative time span string" produced by Android.  This string describes the
      time the tabs were last synced relative to the current time; examples
@@ -576,6 +580,7 @@ desde Android">
 
 <!ENTITY remote_tabs_last_synced "Última sincronización: &formatS;">
 <!-- Localization note: Used when the sync has not happend yet, showed in place of a date -->
+<!ENTITY remote_tabs_never_synced "Última sincronización: nunca">
 <!-- Find-In-Page strings -->
 <!-- LOCALIZATION NOTE (find_matchcase): This is meant to appear as an icon that changes color
      if match-case is activated. i.e. No more than two letters, one uppercase, one lowercase. -->
