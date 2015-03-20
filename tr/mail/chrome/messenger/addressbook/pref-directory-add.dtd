@@ -13,8 +13,8 @@
 <!ENTITY findButton.accesskey              "B">
 <!ENTITY directorySecure.label             "Güvenli bağlantı kullan (SSL)">
 <!ENTITY directorySecure.accesskey         "ü">
-
-
+<!ENTITY directoryLogin.label              "Bind DN: ">
+<!ENTITY directoryLogin.accesskey          "i">
 <!ENTITY General.tab                       "Genel">
 <!ENTITY Offline.tab                       "Çevrim Dışı">
 <!ENTITY Advanced.tab                      "Gelişmiş">
