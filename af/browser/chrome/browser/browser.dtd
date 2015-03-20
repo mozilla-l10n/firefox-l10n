@@ -56,21 +56,21 @@ can reach it easily. -->
 
 <!ENTITY tabCmd.label "Nuwe oortjie">
 <!ENTITY tabCmd.accesskey "o">
-
+<!ENTITY tabCmd.commandkey "t">
 <!-- LOCALIZATION NOTE (openLocationCmd.label): "Open Location" is only
 displayed on OS X, and only on windows that aren't main browser windows, or
 when there are no windows but Firefox is still running. -->
 <!ENTITY openLocationCmd.label "Open ligging…">
 <!ENTITY openFileCmd.label "Open lêer…">
 <!ENTITY openFileCmd.accesskey "O">
-
+<!ENTITY openFileCmd.commandkey "o">
 <!ENTITY printSetupCmd.label "Bladsyopstelling…">
 <!ENTITY printSetupCmd.accesskey "t">
 <!ENTITY printPreviewCmd.label "Drukvoorskou">
 <!ENTITY printPreviewCmd.accesskey "v">
 <!ENTITY printCmd.label "Druk…">
 <!ENTITY printCmd.accesskey "D">
-
+<!ENTITY printCmd.commandkey "p">
 
 <!ENTITY goOfflineCmd.label "Werk vanlyn">
 <!ENTITY goOfflineCmd.accesskey "k">
@@ -175,7 +175,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY reloadCmd.label              "Herlaai">
 <!ENTITY reloadButton.tooltip         "Herlaai huidige bladsy">
 <!ENTITY stopCmd.label                "Stop">
-
+<!ENTITY stopCmd.macCommandKey        ".">
 <!ENTITY stopButton.tooltip           "Hou op om hierdie bladsy te laai">
 <!ENTITY goEndCap.tooltip             "Gaan na die adres in die adresbalk">
 <!ENTITY printButton.label            "Druk">
@@ -190,14 +190,17 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY tabGroupsButton.label        "Oortjie-groepe">
 
 <!ENTITY bookmarksButton.label          "Boekmerke">
+<!ENTITY bookmarksCmd.commandkey "b">
 
-
-
+<!ENTITY bookmarksMenuButton.label          "Boekmerke">
+<!ENTITY bookmarksMenuButton.unsorted.label "Ongeliasseerde boekmerke">
 <!ENTITY viewBookmarksSidebar2.label        "Wys boekmerkkantbalk">
 <!ENTITY viewBookmarksToolbar.label         "Vertoon boekmerknutsbalk">
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
   -  key should not contain the letters A-F, since these are reserved
   -  shortcut keys on Linux. -->
+
+<!ENTITY bookmarksGtkCmd.commandkey "o">
 <!ENTITY bookmarksWinCmd.commandkey "i">
 
 <!ENTITY historyButton.label            "Geskiedenis">
@@ -242,7 +245,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY responsiveDesignTool.label   "Reaktiewe ontwerpsaansig">
 <!ENTITY responsiveDesignTool.accesskey "R">
-<!ENTITY responsiveDesignTool.commandkey "M">
+
 
 <!ENTITY eyedropper.label   "Oogdrupper">
 <!ENTITY eyedropper.accesskey "O">
@@ -294,7 +297,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fileMenu.label         "Lêer"> 
 <!ENTITY fileMenu.accesskey       "L">
 <!ENTITY newNavigatorCmd.label        "Nuwe venster">
-
+<!ENTITY newNavigatorCmd.key        "N">
 <!ENTITY newNavigatorCmd.accesskey      "N">
 <!ENTITY newPrivateWindow.label     "Nuwe privaatvenster">
 <!ENTITY newPrivateWindow.accesskey "v">
@@ -302,25 +305,25 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY editMenu.label         "Redigeer"> 
 <!ENTITY editMenu.accesskey       "e"> 
 <!ENTITY undoCmd.label            "Ontdoen">  
-
+<!ENTITY undoCmd.key            "Z">  
 <!ENTITY undoCmd.accesskey          "O"> 
 <!ENTITY redoCmd.label            "Herdoen">  
-
+<!ENTITY redoCmd.key            "Y">  
 <!ENTITY redoCmd.accesskey          "H"> 
 <!ENTITY cutCmd.label           "Knip">  
-
+<!ENTITY cutCmd.key             "X">  
 <!ENTITY cutCmd.accesskey         "p"> 
 <!ENTITY copyCmd.label            "Kopieer">  
-
+<!ENTITY copyCmd.key            "C">  
 <!ENTITY copyCmd.accesskey          "K"> 
 <!ENTITY pasteCmd.label           "Plak">  
-
+<!ENTITY pasteCmd.key           "V">  
 <!ENTITY pasteCmd.accesskey         "P"> 
 <!ENTITY deleteCmd.label          "Skrap">  
-
+<!ENTITY deleteCmd.key            "D">  
 <!ENTITY deleteCmd.accesskey        "S"> 
 <!ENTITY selectAllCmd.label         "Merk alles">  
-
+<!ENTITY selectAllCmd.key         "A">  
 <!ENTITY selectAllCmd.accesskey       "a"> 
 <!ENTITY preferencesCmd2.label       "Opsies">
 <!ENTITY preferencesCmd2.accesskey     "O">
@@ -329,6 +332,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY clearRecentHistory.label               "Maak onlangse geskiedenis skoon…">
 
+<!ENTITY privateBrowsingCmd.commandkey          "P">
 
 <!ENTITY viewMenu.label         "Bekyk"> 
 <!ENTITY viewMenu.accesskey       "k"> 
@@ -357,8 +361,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuCustomizeExit.tooltip "Klaar met aanpassing">
 <!ENTITY appMenuHistory.label "Geskiedenis">
 <!ENTITY appMenuHistory.showAll.label "Wys hele geskiedenis">
-
-
+<!ENTITY appMenuHistory.clearRecent.label "Maak onlangse geskiedenis skoon…">
+<!ENTITY appMenuHistory.restoreSession.label "Laai vorige sessie terug">
 <!ENTITY appMenuHistory.viewSidebar.label "Wys geskiedeniskantbalk">
 <!ENTITY appMenuHelp.tooltip "Open Hulpkieslys">
 
@@ -426,6 +430,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      consider translating it as if it said only "Search Settings". -->
 <!ENTITY changeSearchSettings.button  "Verander soekinstellings">
 
+<!ENTITY tabView.commandkey           "e">
 
 <!ENTITY openLinkCmdInTab.label       "Open skakel in nuwe oortjie">
 <!ENTITY openLinkCmdInTab.accesskey   "o">
@@ -441,13 +446,14 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openFrameCmd.accesskey       "v">
 <!ENTITY showOnlyThisFrameCmd.label     "Vertoon net hierdie raam">
 <!ENTITY showOnlyThisFrameCmd.accesskey "r">
-
+<!ENTITY reloadCmd.commandkey         "r">
 <!ENTITY reloadFrameCmd.label         "Herlaai raam">
 <!ENTITY reloadFrameCmd.accesskey     "H">
 <!ENTITY viewPartialSourceForSelectionCmd.label "Bekyk bron van gemerkte deel">
 <!ENTITY viewPartialSourceForMathMLCmd.label    "Bekyk MathML-bron">
 <!-- LOCALIZATION NOTE (viewPartialSourceCmd.accesskey): This accesskey is used for both 
          viewPartialSourceForSelectionCmd.label and viewPartialSourceForMathMLCmd.label -->
+<!ENTITY viewPartialSourceCmd.accesskey "e">
 <!ENTITY viewPageSourceCmd.label      "Bekyk bron van bladsy">
 <!ENTITY viewPageSourceCmd.accesskey  "B">
 <!ENTITY viewFrameSourceCmd.label     "Bekyk bron van raam">
@@ -470,7 +476,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewBGImageCmd.accesskey     "k">
 <!ENTITY setDesktopBackgroundCmd.label      "As werkskermagtergrond…">
 <!ENTITY setDesktopBackgroundCmd.accesskey  "A">
-
+<!ENTITY bookmarkPageCmd2.label       "Boekmerk hierdie bladsy">
 <!ENTITY bookmarkThisLinkCmd.label      "Boekmerk hierdie skakel">
 <!ENTITY bookmarkThisLinkCmd.accesskey  "s">
 <!ENTITY bookmarkThisFrameCmd.label      "Boekmerk hierdie raam">
@@ -480,7 +486,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY savePageCmd.label            "Stoor bladsy as…">
 <!ENTITY savePageCmd.accesskey        "a">
 <!-- alternate for content area context menu -->
-
+<!ENTITY savePageCmd.accesskey2       "b">
+<!ENTITY savePageCmd.commandkey       "s">
 <!ENTITY saveFrameCmd.label           "Stoor raam as…">
 <!ENTITY saveFrameCmd.accesskey       "r">
 <!ENTITY printFrameCmd.label          "Druk raam…">
@@ -555,8 +562,8 @@ items are mutually exclusive. -->
 <!ENTITY mediaShowControls.accesskey "W">
 <!ENTITY mediaHideControls.label     "Versteek kontroles">
 <!ENTITY mediaHideControls.accesskey "V">
-
-
+<!ENTITY videoFullScreen.label       "Volskerm">
+<!ENTITY videoFullScreen.accesskey   "V">
 <!ENTITY videoSaveImage.label        "Stoor kiekie as…">
 <!ENTITY videoSaveImage.accesskey    "S">
 <!-- LOCALIZATION NOTE: The access keys for "Show Statistics" and
@@ -575,8 +582,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY fullZoomEnlargeCmd.label       "Zoem in">
 <!ENTITY fullZoomEnlargeCmd.accesskey   "i">
-
+<!ENTITY fullZoomEnlargeCmd.commandkey  "+">
 <!-- + is above this key on many keyboards -->
+<!ENTITY fullZoomEnlargeCmd.commandkey2 "="> 
 <!ENTITY fullZoomEnlargeCmd.commandkey3 "">
 
 <!ENTITY fullZoomReduceCmd.label        "Zoem uit">
@@ -608,7 +616,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY quitApplicationCmdUnix.key     "Q">
 
 <!ENTITY closeCmd.label                 "Sluit">  
-
+<!ENTITY closeCmd.key                   "W">  
 <!ENTITY closeCmd.accesskey             "S">
 
 <!ENTITY pageStyleMenu.label "Bladsystyl">
@@ -620,35 +628,36 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY pageReportIcon.tooltip            "Wysig opspringerblokkering-opstelling vir hierdie webwerf">
 
+<!ENTITY allowPopups.accesskey "p">
 <!-- On Windows we use the term "Options" to describe settings, but
      on Linux and Mac OS X we use "Preferences" - carry that distinction
      over into this string, which is used in the "popup blocked" info bar . -->
 <!ENTITY editPopupSettingsUnix.label "Redigeer opspringerblokkering-voorkeure…">
 <!ENTITY editPopupSettings.label "Redigeer opspringerblokkering-opsies…">
 <!ENTITY editPopupSettings.accesskey "e">
-
+<!ENTITY dontShowMessage.accesskey "D">
 
 <!ENTITY bidiSwitchPageDirectionItem.label        "Verwissel bladsyrigting">
 <!ENTITY bidiSwitchPageDirectionItem.accesskey    "r">
 <!ENTITY bidiSwitchTextDirectionItem.label        "Wissel teksrigting">
 <!ENTITY bidiSwitchTextDirectionItem.accesskey    "i">
-
+<!ENTITY bidiSwitchTextDirectionItem.commandkey   "X">
 
 <!ENTITY findOnCmd.label     "Vind op hierdie bladsy…">
 <!ENTITY findOnCmd.accesskey "V">
-
+<!ENTITY findOnCmd.commandkey "f">
 <!ENTITY findAgainCmd.label  "Vind weer">
 <!ENTITY findAgainCmd.accesskey "e">
-
+<!ENTITY findAgainCmd.commandkey "g">
 <!ENTITY findAgainCmd.commandkey2 "VK_F3">
-
+<!ENTITY findSelectionCmd.commandkey "e">
 
 <!ENTITY spellAddDictionaries.label "Voeg woordeboeke by…">
 <!ENTITY spellAddDictionaries.accesskey "V">
 
 <!ENTITY editBookmark.done.label                     "Klaar">
 <!ENTITY editBookmark.cancel.label                   "Kanselleer">
-
+<!ENTITY editBookmark.removeBookmark.accessKey       "R">
 
 <!ENTITY identity.unverifiedsite2 "Hierdie webwerf verskaf nie identiteitinligting nie.">
 <!ENTITY identity.connectedTo "U is gekoppel aan">
@@ -684,12 +693,12 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY syncBrand.shortName.label    "Sync">
 
 <!ENTITY syncSetup.label              "Stel &syncBrand.shortName.label; op…">
-
+<!ENTITY syncSetup.accesskey          "Y">
 <!ENTITY syncSyncNowItem.label        "Sinkroniseer nou">
 <!ENTITY syncSyncNowItem.accesskey    "S">
 <!ENTITY syncReAuthItem.label         "Herkoppel aan &syncBrand.shortName.label;…">
 <!ENTITY syncReAuthItem.accesskey     "r">
-
+<!ENTITY syncToolbarButton.label      "Sync">
 
 <!ENTITY socialToolbar.title        "Knoppie vir sosiale nutsbalk">
 
@@ -727,9 +736,9 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY customizeMode.lwthemes.myThemes "My temas">
 <!ENTITY customizeMode.lwthemes.recommended "Aanbeveel">
 <!ENTITY customizeMode.lwthemes.menuManage "Bestuur">
-
+<!ENTITY customizeMode.lwthemes.menuManage.accessKey "B">
 <!ENTITY customizeMode.lwthemes.menuGetMore "Kry meer temas">
-
+<!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "K">
 <!ENTITY customizeMode.deveditionTheme.label2 "Gebruik die Ontwikkelaars-uitgawe se tema">
 
 <!ENTITY social.chatBar.commandkey "c">
@@ -762,12 +771,12 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY trackingContentBlocked.message "Monitering">
 <!ENTITY trackingContentBlocked.moreinfo "Dele van die bladsy wat u aanlyn aktiwiteit beloer is geblok.">
-
-
+<!ENTITY trackingContentBlocked.learnMore "Meer inligting">
+<!ENTITY trackingContentBlocked.options "Opsies">
 <!ENTITY trackingContentBlocked.unblock2.label "Deaktiveer beveiliging vir dié werf">
 <!ENTITY trackingContentBlocked.unblock2.accesskey "D">
-
-
+<!ENTITY trackingContentBlocked.block.label "Aktiveer beskerming">
+<!ENTITY trackingContentBlocked.block.accesskey "A">
 
 
 <!ENTITY pointerLock.notification.message "Druk enige tyd ESC om dit weer te wys.">
@@ -787,6 +796,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY pluginNotification.width "28em">
 
+<!ENTITY uiTour.infoPanel.close "Sluit">
 
 <!ENTITY appMenuSidebars.label         "Kantstawe">
 
