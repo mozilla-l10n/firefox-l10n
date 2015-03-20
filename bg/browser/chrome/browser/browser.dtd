@@ -240,7 +240,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY browserConsoleCmd.commandkey "j">
 <!ENTITY browserConsoleCmd.accesskey  "К">
 
-<!ENTITY inspectContextMenu.label     "&amp;Изследване на елемент">
+<!ENTITY inspectContextMenu.label     "Изследване на елемент">
 <!ENTITY inspectContextMenu.accesskey "И">
 
 <!ENTITY responsiveDesignTool.label   "Нагаждащ се дизайн">
@@ -273,7 +273,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
   -  application menu item that opens the browser content toolbox UI in the Tools menu.
   -  This toolbox allows to debug the chrome of the content process in multiprocess builds.  -->
 
-<!ENTITY browserContentToolboxMenu.label     "Инст&amp;рументи за съдържание">
+<!ENTITY browserContentToolboxMenu.label     "Инструменти за съдържание">
 
 <!ENTITY devToolbarCloseButton.tooltiptext "Затваряне на развойната лента">
 <!ENTITY devToolbarMenu.label              "Развойна лента">

@@ -74,7 +74,7 @@
 <!-- Existing Account Page 2: Manual Login -->
 
 <!ENTITY setup.signInPage.title.label "Вписване">
-<!ENTITY existingRecoveryKey.description "Можете да получите копие на вашия ключ за възстановяване като отидете в Настройки на &syncBrand.shortName.label; на вашето друго устройство и изберете „Моят ключ за възстановяване“ под „Управление на акаунта“.">
+<!ENTITY existingRecoveryKey.description "Можете да получите копие на вашия ключ за възстановяване като отидете в Настройки на &syncBrand.shortName.label; на друго ваше устройство и изберете „Моят ключ за възстановяване“ под „Управление на профил“.">
 <!ENTITY verifying.label              "Проверяване…">
 <!ENTITY resetPassword.label          "Нулиране на парола">
 <!ENTITY resetSyncKey.label           "Загубих другото си устройство.">
