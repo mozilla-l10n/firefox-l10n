@@ -166,7 +166,7 @@
 <!-- Device Settings -->
 
 <!ENTITY devicesetting_title "Құрылғы баптаулары">
-
+<!ENTITY devicesetting_search "Іздеу баптаулары">
 <!ENTITY devicesetting_newname "Жаңа баптау аты">
 <!ENTITY devicesetting_newtext "Баптау мәні">
 <!ENTITY devicesetting_addnew "Жаңа баптауды қосу">
