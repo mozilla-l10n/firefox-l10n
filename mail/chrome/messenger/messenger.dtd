@@ -143,10 +143,10 @@
 <!ENTITY messagePaneWide.accesskey "n">
 <!ENTITY messagePaneVertical.label "Dikey görünüm">
 <!ENTITY messagePaneVertical.accesskey "k">
-<!ENTITY showFolderPaneCmd.label "Dizin bölmesi">
+<!ENTITY showFolderPaneCmd.label "Dizin Bölmesi">
 <!ENTITY showFolderPaneCmd.accesskey "D">
-
-
+<!ENTITY showFolderPaneColsCmd.label "Dizin Bölmesi Sütunları">
+<!ENTITY showFolderPaneColsCmd.accesskey "B">
 <!ENTITY showMessageCmd.label "İleti bölmesi">
 <!ENTITY showMessageCmd.accesskey "M">
 
@@ -596,8 +596,8 @@
 <!-- Folder Pane -->
 
 <!ENTITY folderNameColumn.label "İsim">
-
-
+<!ENTITY folderUnreadColumn.label "Okunmadı">
+<!ENTITY folderTotalColumn.label "Toplam">
 <!ENTITY folderSizeColumn.label "Boyut">
 <!-- Folder Pane Context Menu -->
 
@@ -666,8 +666,8 @@
 <!ENTITY statusColumn.label "Durum">
 <!ENTITY sizeColumn.label "Boyut">
 <!ENTITY junkStatusColumn.label "Gereksiz durumu">
-
-
+<!ENTITY unreadColumn.label "Okunmadı">
+<!ENTITY totalColumn.label "Toplam">
 <!ENTITY readColumn.label "Okundu">
 <!ENTITY receivedColumn.label "Alınma tarihi">
 <!ENTITY starredColumn.label "Yıldızlı">
@@ -708,10 +708,10 @@
 <!ENTITY contextOpenNewTab.accesskey "ç">
 <!ENTITY contextOpenConversation.label "İletiyi dizi görünümünde aç">
 <!ENTITY contextOpenConversation.accesskey "d">
-
-
-
-
+<!ENTITY contextOpenContainingFolder.label "İçeren dizindeki iletiyi aç">
+<!ENTITY contextOpenContainingFolder.accesskey "a">
+<!ENTITY contextEditMsgAsNew.label "Yeni ileti olarak düzenle">
+<!ENTITY contextEditMsgAsNew.accesskey "d">
 <!ENTITY contextArchive.label "Arşivle">
 <!ENTITY contextArchive.accesskey "A">
 <!ENTITY contextReplySender.label "Yalnızca göndereni yanıtla">
@@ -724,12 +724,12 @@
 <!ENTITY contextReplyList.accesskey "L">
 <!ENTITY contextForward.label "İlet">
 <!ENTITY contextForward.accesskey "e">
-
-
-
-
-
-
+<!ENTITY contextForwardAsMenu.label "Farklı ilet">
+<!ENTITY contextForwardAsMenu.accesskey "F">
+<!ENTITY contextForwardAsInline.label "İleti içinde">
+<!ENTITY contextForwardAsInline.accesskey "d">
+<!ENTITY contextForwardAsAttachmentItem.label "Ek olarak ilet">
+<!ENTITY contextForwardAsAttachmentItem.accesskey "r">
 <!ENTITY contextMultiForwardAsAttachment.label "Ek olarak ilet">
 <!ENTITY contextMultiForwardAsAttachment.accesskey "o">
 <!ENTITY contextMoveMsgMenu.label "Taşı">
@@ -740,7 +740,7 @@
 <!ENTITY contextCopyMsgMenu.accesskey "B">
 <!ENTITY contextKillThreadMenu.label "Diziyi göz ardı et">
 <!ENTITY contextKillThreadMenu.accesskey "D">
-
+<!ENTITY contextKillSubthreadMenu.label "Alt diziyi göz ardı et">
 <!ENTITY contextWatchThreadMenu.label "Di&amp;ziyi izle">
 <!ENTITY contextSaveAs.label "Farklı kaydet…">
 <!ENTITY contextSaveAs.accesskey "F">
@@ -840,8 +840,8 @@
 <!ENTITY AddToAddressBook.accesskey "d">
 <!ENTITY AddDirectlyToAddressBook.label "Adres defterine ekle">
 <!ENTITY AddDirectlyToAddressBook.accesskey "d">
-
-
+<!ENTITY EditContact1.label "Kişiyi düzenle">
+<!ENTITY EditContact1.accesskey "d">
 <!ENTITY ViewContact.label "Kişiyi göster">
 <!ENTITY ViewContact.accesskey "g">
 <!ENTITY SubscribeToNewsgroup.label "Haber grubuna abone ol">
@@ -905,3 +905,5 @@
 <!ENTITY hideOtherAppsCmdMac.modifiers  "accel,alt">
 <!ENTITY showAllAppsCmdMac.label        "Hepsini göster">
 <!-- Mac OS X Dock Icon pop-up menu -->
+
+<!ENTITY dockOptions.label              "Uygulama simgesi seçenekleri…">
