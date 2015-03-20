@@ -150,6 +150,8 @@
      etc).  The account remains a "Firefox" account. -->
 <!ENTITY fxaccount_create_account_header2 'Firefox-account aanmaken'>
 <!ENTITY fxaccount_create_account_password_length_restriction 'Moet minstens 8 tekens zijn'>
+<!ENTITY fxaccount_create_account_day_of_birth 'Dag'>
+<!ENTITY fxaccount_create_account_month_of_birth 'Maand'>
 <!ENTITY fxaccount_create_account_year_of_birth 'Geboortejaar'>
 <!-- Localization note: &formatS1; is fxaccount_policy_linktos, &formatS2; is fxaccount_policy_linkprivacy, both hyperlinked. -->
 <!ENTITY fxaccount_create_account_policy_text2 'Door verder te gaan accepteer ik de &formatS1; en &formatS2; van de Firefox-cloudservices.'>
@@ -207,7 +209,6 @@
 <!ENTITY fxaccount_status_needs_upgrade 'U dient &brandShortName; te upgraden om u aan te melden.'>
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled '&syncBrand.shortName.label; is ingesteld, maar synchroniseert niet automatisch. Schakel “Automatisch synchroniseren” om in Android-instellingen &gt; Gegevensgebruik.'>
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled_v21 '&syncBrand.shortName.label; is ingesteld, maar synchroniseert niet automatisch. Schakel “Automatisch synchroniseren” om in het menu van Android-instellingen &gt; Accounts.'>
-<!ENTITY fxaccount_status_needs_account_enabled '&syncBrand.shortName.label; is ingesteld, maar synchroniseert niet automatisch. Tik om het synchroniseren te starten.'>
 <!ENTITY fxaccount_status_needs_finish_migrating 'Tik om u aan te melden bij uw nieuwe Firefox-account.'>
 <!ENTITY fxaccount_status_bookmarks 'Bladwijzers'>
 <!ENTITY fxaccount_status_history 'Geschiedenis'>
