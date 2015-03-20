@@ -150,6 +150,8 @@
      etc).  The account remains a "Firefox" account. -->
 <!ENTITY fxaccount_create_account_header2 'Firefox-account oanmeitsje'>
 <!ENTITY fxaccount_create_account_password_length_restriction 'Moat op syn minst 8 tekens wêze'>
+<!ENTITY fxaccount_create_account_day_of_birth 'Dei'>
+<!ENTITY fxaccount_create_account_month_of_birth 'Moanne'>
 <!ENTITY fxaccount_create_account_year_of_birth 'Bertejier'>
 <!-- Localization note: &formatS1; is fxaccount_policy_linktos, &formatS2; is fxaccount_policy_linkprivacy, both hyperlinked. -->
 <!ENTITY fxaccount_create_account_policy_text2 'Troch fierder te gean akseptearje ik de &formatS1; en &formatS2; fan de Firefox-cloudtsjinsten.'>
@@ -207,7 +209,6 @@
 <!ENTITY fxaccount_status_needs_upgrade 'Jo moatte &brandShortName; fernije om jo oan te melden.'>
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled '&syncBrand.shortName.label; is ynsteld, mar syngronisearret net automatysk. Skeakel “Auto-sync gegevens yn Android Instellingen &gt; Gegevengebruik.'>
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled_v21 '&syncBrand.shortName.label; is ynsteld, mar syngronisearret net automatysk. Skeakel “Automatysk syngronisearje” om yn it menu fan Android-ynstellingen &gt; Accounts.'>
-<!ENTITY fxaccount_status_needs_account_enabled '&syncBrand.shortName.label; is ynsteld, mar syngronisearret net automatysk. Tik om syngronisearjen te starten.'>
 <!ENTITY fxaccount_status_needs_finish_migrating 'Tik om jo oan te melden by jo nije Firefox-account.'>
 <!ENTITY fxaccount_status_bookmarks 'Blêdwizers'>
 <!ENTITY fxaccount_status_history 'Skiednis'>
