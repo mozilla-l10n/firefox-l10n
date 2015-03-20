@@ -57,8 +57,8 @@
 <!ENTITY calendar.unifinder.tree.duration.tooltip2         "Po času trěbneho dokónčenja sortěrować">
 <!ENTITY calendar.unifinder.close.tooltip                  "Pytanje podawkow a lisćinu podawkow začinić">
 
-<!ENTITY calendar.today.button.tooltip          "K dźensnišemu" >
-
+<!ENTITY calendar.today.button.tooltip          "K dźensnišemu dnjej" >
+<!ENTITY calendar.todaypane.button.tooltip      "Dźensniši dźeń pokazać" >
 
 <!ENTITY calendar.day.button.tooltip            "Dnjowy napohlad wužiwać" >
 <!ENTITY calendar.week.button.tooltip           "Tydźenski napohlad wužiwać" >
@@ -79,9 +79,9 @@
 <!ENTITY calendar.prevmonth.accesskey           "e" >
 
 <!ENTITY calendar.navigation.nextday.tooltip    "Jedyn dźeń doprědka" >
-
-
-
+<!ENTITY calendar.navigation.prevday.tooltip    "Jedyn dźeń wróćo" >
+<!ENTITY calendar.navigation.nextweek.tooltip   "Jedyn tydźeń doprědka" >
+<!ENTITY calendar.navigation.prevweek.tooltip   "Jedyn tydźeń wróćo" >
 <!ENTITY calendar.navigation.nextmonth.tooltip  "Jedyn měsac doprědka" >
 <!ENTITY calendar.navigation.prevmonth.tooltip  "Jedyn měsac wróćo" >
 
@@ -94,23 +94,27 @@
 <!ENTITY calendar.week.button.label             "Tydźeń" >
 <!ENTITY calendar.month.button.label            "Měsac" >
 <!ENTITY calendar.multiweek.button.label        "Wjacetydźeń" >
-
-
-
-
+<!ENTITY calendar.onlyworkday.checkbox.label    "Jenož dźěłowe dny" >
+<!ENTITY calendar.onlyworkday.checkbox.accesskey  "d" >
+<!ENTITY calendar.displaytodos.checkbox.label   "Nadawki w přehledźe" >
+<!ENTITY calendar.displaytodos.checkbox.accesskey "k" >
 <!ENTITY calendar.completedtasks.checkbox.label     "Dokónčene nadawki pokazać" >
 <!ENTITY calendar.completedtasks.checkbox.accesskey "k" >
 
+<!ENTITY calendar.orientation.label "Pohlad wjerćeć" >
+<!ENTITY calendar.orientation.accesskey "o" >
 
+<!ENTITY calendar.search.options.searchfor " wobsahuje">
 
+<!ENTITY calendar.list.header.label                 "Protyka">
 
-
+<!ENTITY calendar.task.filter.title.label           "Pokazać">
 <!ENTITY calendar.task.filter.all.label             "Wšě">
 <!ENTITY calendar.task.filter.all.accesskey         "W">
 <!ENTITY calendar.task.filter.today.label           "Dźensa">
 <!ENTITY calendar.task.filter.today.accesskey       "D">
-
-
+<!ENTITY calendar.task.filter.next7days.label       "Přichodnych sydom dnjow">
+<!ENTITY calendar.task.filter.next7days.accesskey   "P">
 <!ENTITY calendar.task.filter.notstarted.label      "Njezapočene nadawki">
 <!ENTITY calendar.task.filter.notstarted.accesskey  "a">
 <!ENTITY calendar.task.filter.overdue.label         "Nadawki, kotrež dyrbjeli hižo sčinjene być">
@@ -136,9 +140,9 @@
 <!ENTITY calendar.task-details.priority.high.label   "Wysoki">
 <!ENTITY calendar.task-details.status.label          "status">
 <!ENTITY calendar.task-details.category.label        "kategorija">
-
-
-
+<!ENTITY calendar.task-details.repeat.label          "wospjetowanje">
+<!ENTITY calendar.task-details.attachments.label     "přiwěški">
+<!ENTITY calendar.task-details.start.label           "spočatny datum">
 
 
 
@@ -166,20 +170,24 @@
 <!ENTITY calendar.context.copyevent.label             "Kopěrować">
 <!ENTITY calendar.context.copyevent.accesskey         "K">
 <!ENTITY calendar.context.pasteevent.label            "Zasadźić">
-<!ENTITY calendar.context.pasteevent.accesskey        "s">
-
-
-
-
-
-
+<!ENTITY calendar.context.pasteevent.accesskey        "Z">
+<!ENTITY calendar.context.button.label                "Dźensniši wobłuk" >
+<!ENTITY calendar.context.button.accesskey            "D" >
+<!ENTITY calendar.context.attendance.menu.label       "Wobdźělenje" >
+<!ENTITY calendar.context.attendance.menu.accesskey   "l" >
+<!ENTITY calendar.context.attendance.occurrence.label "Tutón podawk" >
+<!ENTITY calendar.context.attendance.all.label        "Wšě podawki" >
 <!-- Task Context Menu -->
 
-
-
-
-
+<!ENTITY calendar.context.progress.label              "Postup">
+<!ENTITY calendar.context.progress.accesskey          "P">
+<!ENTITY calendar.context.priority.label              "Priorita">
+<!ENTITY calendar.context.priority.accesskey          "r">
+<!ENTITY calendar.context.postpone.label              "Nadawk wotstorčić">
+<!ENTITY calendar.context.postpone.accesskey          "s">
 <!--=percent sign-->
+
+<!ENTITY percnt "&#38;#37;" >
 
 
 
@@ -194,15 +202,16 @@
 
 
 <!ENTITY priority.level.none                "Njepodaty">
+<!ENTITY priority.level.none.accesskey      "o">
+<!ENTITY priority.level.low                 "Niska">
+<!ENTITY priority.level.low.accesskey       "N">
+<!ENTITY priority.level.normal              "Normalna">
+<!ENTITY priority.level.normal.accesskey    "m">
+<!ENTITY priority.level.high                "Wusoka">
+<!ENTITY priority.level.high.accesskey      "W">
 
-
-
-
-
-
-
-
-
+<!ENTITY calendar.context.postpone.1hour.label      "Wo 1 hodźinu">
+<!ENTITY calendar.context.postpone.1hour.accesskey  "h">
 
 
 
@@ -227,22 +236,27 @@
 
 
 
-
-
-
-
-
-
-
-
+<!ENTITY calendar.context.synccalendars.label          "Protyki synchronizować">
+<!ENTITY calendar.context.synccalendars.accesskey      "s">
+<!ENTITY calendar.context.publish.label                "Protyku wozjewić…">
+<!ENTITY calendar.context.publish.accesskey            "z">
+<!ENTITY calendar.context.export.label                 "Protyku eksportować…">
+<!ENTITY calendar.context.export.accesskey             "e">
+<!ENTITY calendar.context.properties.label             "Kajkosće">
+<!ENTITY calendar.context.properties.accesskey         "K">
 <!-- LOCALIZATION NOTE (calendar.context.togglevisible.accesskey)
      This is the access key used for the showCalendar string -->
+
+<!ENTITY calendar.context.togglevisible.accesskey      "t">
 <!-- LOCALIZATION NOTE (calendar.context.showonly.accesskey)
      This is the access key used for the showOnlyCalendar string -->
 
+<!ENTITY calendar.context.showonly.accesskey           "J">
+<!ENTITY calendar.context.showall.label                "Wšě protyki pokazać">
+<!ENTITY calendar.context.showall.accesskey            "W">
 
-
-
+<!ENTITY calendar.context.convertmenu.label              "Konwertować do">
+<!ENTITY calendar.context.convertmenu.accesskey.mail     "n">
 
 <!ENTITY calendar.context.convertmenu.event.label        "Podawk…">
 <!ENTITY calendar.context.convertmenu.event.accesskey    "P">
@@ -257,15 +271,17 @@
 
 
 <!-- Calendar Alarm Dialog -->
+<!ENTITY calendar.alarm.details.label               "Podrobnosće…" >
 
+<!ENTITY calendar.alarm.snoozefor.label             "Hišće raz dopomnić za" >
+<!ENTITY calendar.alarm.snoozeallfor.label          "Na wšě hišće raz dopomnić za" >
+<!ENTITY calendar.alarm.title.label                 "Protykowe dopomnjeća" >
+<!ENTITY calendar.alarm.dismiss.label               "Zaćisnyć" >
+<!ENTITY calendar.alarm.dismissall.label            "Wšě zaćisnyć" >
 
-
-
-
-
-
-
-
+<!ENTITY calendar.alarm.snooze.5minutes.label       "5 mjeńšin" >
+<!ENTITY calendar.alarm.snooze.10minutes.label      "10 mjeńšin" >
+<!ENTITY calendar.alarm.snooze.15minutes.label      "15 mjeńšin" >
 
 
 
@@ -279,15 +295,15 @@
 
 <!-- Calendar Properties -->
 
-
-
-
-
-
-
-
-
-
+<!ENTITY calendarproperties.caldav.label                   "CalDAV">
+<!ENTITY calendarproperties.wcap.label                     "Sun Java System Calendar Server (WCAP)">
+<!ENTITY calendarproperties.format.label                   "Format:">
+<!ENTITY calendarproperties.location.label                 "Městno:">
+<!ENTITY calendarproperties.refreshInterval.label          "Protyku aktualizować:">
+<!ENTITY calendarproperties.refreshInterval.manual.label   "Manuelnje">
+<!ENTITY calendarproperties.name.label                     "Mjeno:">
+<!ENTITY calendarproperties.readonly.label                 "Jenož čitajomny">
+<!ENTITY calendarproperties.firealarms.label               "Dopomnjeća pokazać">
 
 
 
@@ -299,13 +315,17 @@
 
 
 <!-- Select Calendar Dialog -->
+
+<!ENTITY calendar.select.dialog.title    "Protyku wubrać">
 <!-- Calendar Printing -->
 
-
-
-
-
-
+<!ENTITY calendar.print.window.title "Protyku ćišćeć">
+<!ENTITY calendar.print.title.label "Titul:">
+<!ENTITY calendar.print.layout.label "Wuhotowanje:">
+<!ENTITY calendar.print.range.label "Ćišćenski wobłuk">
+<!ENTITY calendar.print.currentView2.label "Aktualny přehlad">
+<!ENTITY calendar.print.selectedEventsAndTasks.label "Wubrane podawki/nadawki">
+<!ENTITY calendar.print.tasks.label "Nadawki">
 <!ENTITY calendar.print.events.label "Podawki">
 
 
@@ -317,8 +337,10 @@
 <!-- Error reporting -->
 
 <!ENTITY calendar.error.description "Wopisanje:">
-
+<!ENTITY calendar.error.title "Zmylk je wustupił">
 <!-- Extract buttons in message header -->
 
+<!ENTITY calendar.extract.event.button         "Jako podawk přidać">
+<!ENTITY calendar.extract.task.button          "Jako nadawk přidać">
 
 
