@@ -26,7 +26,7 @@
 <!ENTITY helpSafeMode.label       "Starta om utan tillägg…">
 <!ENTITY helpSafeMode.accesskey   "S">
 
-<!ENTITY healthReport2.label      "&brandShortName; Hälsorapport">
+<!ENTITY healthReport2.label      "&brandShorterName; Hälsorapport">
 <!ENTITY healthReport2.accesskey  "H">
 
 <!ENTITY helpTroubleshootingInfo.label      "Felsökningsinformation">
