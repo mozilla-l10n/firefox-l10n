@@ -6,8 +6,8 @@
 <!ENTITY  no_space_to_start_error "Er is niet genoeg ruimte beschikbaar om &brandShortName; te starten.">
 <!ENTITY  error_loading_file "Er is een fout opgetreden bij het laden van de benodigde bestanden voor &brandShortName;.">
 
-<!ENTITY  onboard_start_message "Welkom bij &brandShortName;!">
-<!ENTITY  onboard_start_subtext "Toegewijd aan u, uw privacy en een open web">
+<!ENTITY  onboard_start_message2 "Welkom bij &brandShortName;">
+<!ENTITY  onboard_start_subtext2 "Nog meer privacyfuncties en manieren om aan te passen dan ooit.">
 <!ENTITY  onboard_start_button_account "Aanmelden bij &brandShortName;">
 <!ENTITY  onboard_start_button_browser "Navigeren starten">
 
@@ -213,6 +213,8 @@ size. -->
 
 <!ENTITY pref_media_autoplay_enabled "Automatisch afspelen toestaan">
 <!ENTITY pref_media_autoplay_enabled_summary "Automatisch afspelen van video’s en andere media-inhoud door websites beheren">
+<!ENTITY pref_zoom_force_enabled "Zoom altijd inschakelen">
+<!ENTITY pref_zoom_force_enabled_summary "Overschrijven forceren, zodat u elke pagina kunt zoomen">
 
 <!ENTITY pref_use_master_password "Hoofdwachtwoord gebruiken">
 <!ENTITY pref_sync "Sync">
@@ -269,7 +271,7 @@ size. -->
      (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
 <!ENTITY datareporting_crashreporter_title_short "Crashreporter">
 <!ENTITY datareporting_wifi_title2 "&vendorShortName;-locatieservice">
-<!ENTITY datareporting_wifi_geolocation_summary2 "Deelt geschatte wifi- en gsm-locatiegegevens van uw apparaat met &vendorShortName; om onze geolocatieservice te verbeteren">
+<!ENTITY datareporting_wifi_geolocation_summary3 "Help &vendorShortName; de wereld in kaart te brengen! Deel geschatte wifi- en gsm-locatiegegevens van uw apparaat om onze geolocatieservice te verbeteren">
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
      actual notification that an update is available. -->
@@ -364,6 +366,10 @@ size. -->
 <!ENTITY site_settings_no_settings  "Er zijn geen instellingen om te wissen.">
 
 <!ENTITY reading_list_added "Pagina aan uw leeslijst toegevoegd">
+<!ENTITY reading_list_removed "Pagina uit uw leeslijst verwijderd">
+<!-- Localization note (reading_list_remove) : Used to remove the currently open page from
+     the user's reading list. The opposite of overlay_share_reading_list_btn_label. -->
+<!ENTITY reading_list_remove "Uit uw leeslijst verwijderen">
 <!ENTITY reading_list_duplicate "Pagina staat al in uw leeslijst">
 
 <!-- Localization note (reading_list_time_minutes2) : This string is used in the "Reading List"
@@ -559,6 +565,13 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY actionbar_menu "Menu">
 <!ENTITY actionbar_done "Gereed">
 
+<!-- Voice search in the awesome bar -->
+<!ENTITY voicesearch_prompt "Spreek nu">
+<!ENTITY voicesearch_failed_title "&brandShortName;stemzoeken">
+<!ENTITY voicesearch_failed_message "Er is op dit moment een probleem met stemzoeken. Probeer het later opnieuw.">
+<!ENTITY voicesearch_failed_message_recoverable "Sorry! We konden uw woorden niet herkennen. Probeer het nogmaals.">
+<!ENTITY voicesearch_failed_retry "Probeer het nogmaals">
+
 <!-- Localization note (remote_tabs_last_synced): the variable is replaced by a
      "relative time span string" produced by Android.  This string describes the
      time the tabs were last synced relative to the current time; examples
@@ -566,6 +579,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      "Last synced" is one of the user's other Sync clients, typically Firefox on
      their desktop or laptop.-->
 <!ENTITY remote_tabs_last_synced "Laatst gesynchroniseerd: &formatS;">
+<!-- Localization note: Used when the sync has not happend yet, showed in place of a date -->
+<!ENTITY remote_tabs_never_synced "Laatst gesynchroniseerd: nooit">
 
 <!-- Find-In-Page strings -->
 <!-- LOCALIZATION NOTE (find_matchcase): This is meant to appear as an icon that changes color
