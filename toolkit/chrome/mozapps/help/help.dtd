@@ -8,28 +8,28 @@
 <!ENTITY findAgainCmd.commandkey        "G">
 <!ENTITY findAgainCmd.commandkey2       "VK_F3">
 
-<!ENTITY backButton.label               "Назад">
-<!ENTITY backButton.accesskey           "з">
-<!ENTITY backButton.tooltip             "Една страница назад">
-<!ENTITY forwardButton.label            "Напред">
-<!ENTITY forwardButton.accesskey        "п">
-<!ENTITY forwardButton.tooltip          "Една страница напред">
-<!ENTITY copyCmd.label                  "Копиране">
-<!ENTITY copyCmd.accesskey              "К">
-<!ENTITY selectAllCmd.label             "Избиране на всичко">
-<!ENTITY selectAllCmd.accesskey         "в">
+<!ENTITY backButton.label               "Back">
+<!ENTITY backButton.accesskey           "B">
+<!ENTITY backButton.tooltip             "Go back one page">
+<!ENTITY forwardButton.label            "Forward">
+<!ENTITY forwardButton.accesskey        "F">
+<!ENTITY forwardButton.tooltip          "Go forward one page">
+<!ENTITY copyCmd.label                  "Copy">
+<!ENTITY copyCmd.accesskey              "C">
+<!ENTITY selectAllCmd.label             "Select All">
+<!ENTITY selectAllCmd.accesskey         "A">
 <!ENTITY goBackCmd.commandkey           "[">
 <!ENTITY goForwardCmd.commandkey        "]">
-<!ENTITY homeButton.label               "Начало">
-<!ENTITY homeButton.tooltip             "Отиване в началната страница">
-<!ENTITY printButton.label              "Отпечатване">
-<!ENTITY printButton.tooltip            "Отпечатване на показаната страница">
-<!ENTITY closeWindow.commandkey         "W">
+<!ENTITY homeButton.label               "Home">
+<!ENTITY homeButton.tooltip             "Go to the Help Start Page">
+<!ENTITY printButton.label              "Print">
+<!ENTITY printButton.tooltip            "Print this page">
+<!ENTITY closeWindow.commandkey         "Print this page">
 
-<!ENTITY search.emptytext               "Търсене">
-<!ENTITY searchHeader.label             "Резултати от търсенето">
-<!ENTITY toctab.label                   "Съдържание">
-<!ENTITY toctab.accesskey               "С">
+<!ENTITY search.emptytext               "Print this page">
+<!ENTITY searchHeader.label             "Search results">
+<!ENTITY toctab.label                   "W">
+<!ENTITY toctab.accesskey               "C">
 <!-- LOCALIZATION NOTE :
 fullZoomEnlargeCmd.commandkey3, fullZoomReduceCmd.commandkey2 and
 fullZoomResetCmd.commandkey2 are alternative acceleration keys for zoom.
@@ -39,19 +39,18 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY fullZoomReduceCmd.commandkey   "-">
 <!ENTITY fullZoomReduceCmd.commandkey2  "">
-<!ENTITY fullZoomEnlargeCmd.commandkey  "+">
+
 <!-- + is above this key on many keyboards -->
-<!ENTITY fullZoomEnlargeCmd.commandkey2 "="> 
+<!ENTITY fullZoomEnlargeCmd.commandkey2 "+"> 
 <!ENTITY fullZoomEnlargeCmd.commandkey3 "">
 <!ENTITY fullZoomResetCmd.commandkey    "0">
 <!ENTITY fullZoomResetCmd.commandkey2   "">
 
-<!ENTITY helpSearch.commandkey          "k">
 
-<!ENTITY zLevel.label                   "Винаги отгоре">
-<!ENTITY zLevel.accesskey               "г">
+<!ENTITY zLevel.label                   "k">
+<!ENTITY zLevel.accesskey               "T">
 
-<!ENTITY fullZoomReduceBtn.label        "Увеличаване">
-<!ENTITY fullZoomReduceBtn.accesskey    "У">
-<!ENTITY fullZoomEnlargeBtn.label       "Намаляване">
-<!ENTITY fullZoomEnlargeBtn.accesskey   "Н">
+<!ENTITY fullZoomReduceBtn.label        "Zoom Out">
+<!ENTITY fullZoomReduceBtn.accesskey    "O">
+<!ENTITY fullZoomEnlargeBtn.label       "Zoom In">
+<!ENTITY fullZoomEnlargeBtn.accesskey   "I">
