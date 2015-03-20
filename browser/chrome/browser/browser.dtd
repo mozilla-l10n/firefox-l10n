@@ -245,7 +245,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY responsiveDesignTool.label   "Reaktiewe ontwerpsaansig">
 <!ENTITY responsiveDesignTool.accesskey "R">
-
+<!ENTITY responsiveDesignTool.commandkey "M">
 
 <!ENTITY eyedropper.label   "Oogdrupper">
 <!ENTITY eyedropper.accesskey "O">
@@ -276,8 +276,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY devToolbarCloseButton.tooltiptext "Sluit ontwikkelingsnutsbalk">
 <!ENTITY devToolbarMenu.label              "Ontwikkelingsnutsbalk">
 <!ENTITY devToolbarMenu.accesskey          "O">
-
-
+<!ENTITY devAppMgrMenu.label               "Programbestuurder">
+<!ENTITY devAppMgrMenu.accesskey           "P">
 <!ENTITY webide.label                      "WebIDE">
 <!ENTITY webide.accesskey                  "W">
 <!ENTITY webide.keycode                    "VK_F8">
@@ -720,6 +720,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY social.learnMore.accesskey "M">
 <!ENTITY social.closeNotificationItem.label "Nie nou nie">
 
+<!ENTITY social.directory.label "Aktiveringsgids">
 <!ENTITY social.directory.text "Deel-dienste kan vanuit die gids geaktiveer word.">
 <!ENTITY social.directory.button "Laat ek sien!">
 <!ENTITY social.directory.introText "Klik op 'n diens om dit by &brandShortName; te voeg.">
@@ -777,7 +778,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY trackingContentBlocked.unblock2.accesskey "D">
 <!ENTITY trackingContentBlocked.block.label "Aktiveer beskerming">
 <!ENTITY trackingContentBlocked.block.accesskey "A">
-
+<!ENTITY trackingContentBlocked.disabled.message "Volgbeskerming is gedeaktiveer">
 
 <!ENTITY pointerLock.notification.message "Druk enige tyd ESC om dit weer te wys.">
 
@@ -827,17 +828,19 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY panicButton.thankyou.msg2                "Blaai veilig!">
 <!ENTITY panicButton.thankyou.buttonlabel         "Dankie!">
 
+<!ENTITY processHang.terminateScript.label        "Stop skrip">
+<!ENTITY processHang.terminateScript.accessKey    "S">
+<!ENTITY processHang.debugScript.label            "Ontfout skrip">
+<!ENTITY processHang.debugScript.accessKey        "O">
 
 
 
 
 
-
-
-
-
-
-
+<!ENTITY emeLearnMoreContextMenu.label            "Meer inligting oor DRM…">
+<!ENTITY emeLearnMoreContextMenu.accesskey        "D">
+<!ENTITY emeNotificationsNotNow.label             "Nie nou nie">
+<!ENTITY emeNotificationsNotNow.accesskey         "N">
 <!ENTITY emeNotificationsDontAskAgain.label       "Moenie my weer vra nie">
 <!ENTITY emeNotificationsDontAskAgain.accesskey   "M">
 

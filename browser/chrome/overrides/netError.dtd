@@ -172,4 +172,5 @@ functionality specific to firefox. -->
 <!ENTITY sslv3Used.title "Kan nie beveilig koppel nie">
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc) - Do not translate
      "ssl_error_unsupported_version". -->
+<!ENTITY sslv3Used.longDesc "Gevorderde inligting: ssl_error_unsupported_version">
 <!ENTITY sslv3Used.learnMore "Meer inligting…">
