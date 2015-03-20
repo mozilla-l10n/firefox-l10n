@@ -39,3 +39,4 @@
 
 <!ENTITY plugin.file                                         "Bestand">
 <!ENTITY plugin.mimeTypes                                    "MIME-typen">
+<!ENTITY plugin.flashProtectedMode.label                     "Adobe Flash beschermde modus inschakelen">
