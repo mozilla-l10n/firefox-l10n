@@ -79,7 +79,7 @@
 <!ENTITY certmgr.details.accesskey            "П">
 <!ENTITY certmgr.fields.label                 "Стойност на поле">
 <!ENTITY certmgr.fields.accesskey             "С">
-
+<!ENTITY certmgr.hierarchy.label              "Certificate Hierarchy">
 
 <!ENTITY certmgr.addException.label           "Добавяне на изключение…">
 <!ENTITY certmgr.addException.accesskey       "к">
