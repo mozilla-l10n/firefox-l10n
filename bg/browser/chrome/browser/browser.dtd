@@ -483,8 +483,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisLinkCmd.accesskey  "О">
 <!ENTITY bookmarkThisFrameCmd.label      "Отмятане на рамката">
 <!ENTITY bookmarkThisFrameCmd.accesskey  "р">
-<!ENTITY emailPageCmd.label           "Изпращане на връзката като мейл…">
-<!ENTITY emailPageCmd.accesskey       "в">
+<!ENTITY emailPageCmd.label           "Препратка по ел. поща">
+<!ENTITY emailPageCmd.accesskey       "П">
 <!ENTITY savePageCmd.label            "Запазване на страницата като…">
 <!ENTITY savePageCmd.accesskey        "З">
 <!-- alternate for content area context menu -->
@@ -514,8 +514,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY playPluginCmd.accesskey      "т">
 <!ENTITY hidePluginCmd.label          "Скриване на тази приставка">
 <!ENTITY hidePluginCmd.accesskey      "С">
-<!ENTITY copyLinkCmd.label            "Копиране адреса на връзката">
-<!ENTITY copyLinkCmd.accesskey        "К">
+<!ENTITY copyLinkCmd.label            "Копиране на адреса на препратката">
+<!ENTITY copyLinkCmd.accesskey        "а">
 <!ENTITY copyImageCmd.label           "Копиране адреса на изображението">
 <!ENTITY copyImageCmd.accesskey       "п">
 <!ENTITY copyImageContentsCmd.label   "Копиране на изображението">
