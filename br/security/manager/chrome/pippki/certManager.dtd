@@ -79,8 +79,8 @@
 <!ENTITY certmgr.details.accesskey            "n">
 <!ENTITY certmgr.fields.label                 "Gwerzh ar vaezienn">
 <!ENTITY certmgr.fields.accesskey             "v">
-
-
+<!ENTITY certmgr.hierarchy.label              "Urzhaz an testenioù">
+<!ENTITY certmgr.hierarchy.accesskey2         "U">
 <!ENTITY certmgr.addException.label           "Ouzhpennañ un nemedenn…">
 <!ENTITY certmgr.addException.accesskey       "n">
 
