@@ -7,7 +7,7 @@
 <!ENTITY  language.label                          "Tipo de letra para:">
 <!ENTITY  language.accesskey                      "T">
 
-<!ENTITY  size.label                              "Tamanho">
+<!ENTITY  size.label                              "Tamanho:">
 <!ENTITY  proportionalSize.accesskey              "h">
 <!ENTITY  sizeMono.accesskey                      "n">
 
@@ -16,10 +16,8 @@
 
 <!ENTITY  serif.label                             "Serifa:">
 <!ENTITY  serif.accesskey                         "S">
-
 <!ENTITY  sans-serif.label                        "Sem serifa:">
-<!ENTITY  sans-serif.accesskey                    "m">
-
+<!ENTITY  sans-serif.accesskey                    "e">
 <!ENTITY  monospace.label                         "Monoespaço:">
 <!ENTITY  monospace.accesskey                     "M">
 
@@ -64,16 +62,16 @@
 <!ENTITY  fontControl.label                       "Controlo de letras">
 <!ENTITY  useFixedWidthForPlainText.label         "Utilizar largura fixa para mensagens sem formatação">
 <!ENTITY  fixedWidth.accesskey                    "x">
-<!ENTITY  useDocumentFonts.label                  "Permitir que as mensagens usem outros tipos de letra">
+<!ENTITY  useDocumentFonts.label                  "Permitir que as mensagens utilizem outros tipos de letra">
 <!ENTITY  useDocumentFonts.accesskey              "g">
 
 <!-- Language settings -->
 <!ENTITY sendDefaultCharset.label         		 "Mensagens enviadas:">
 <!ENTITY sendDefaultCharset.accesskey            "v">
-<!ENTITY languagesTitle1.label            		 "Codificaçãos pré-definida">
-<!ENTITY composingDescription.label       		 "Defina a codificação pré-definida para receção e envio de mensagens.">
+<!ENTITY languagesTitle2.label            		 "Codificação de texto">
+<!ENTITY composingDescription.label       		 "Defina a codificação de texto para receção e envio de mensagens">
 
 <!ENTITY viewDefaultCharsetList.label     		 "Mensagens recebidas:">
 <!ENTITY viewDefaultCharsetList.accesskey  		 "a">
-<!ENTITY replyInDefaultCharset2.label     		 "Se possível, utilizar a codificação pré-definida nas respostas">
-<!ENTITY replyInDefaultCharset2.accesskey 		 "u">
+<!ENTITY replyInDefaultCharset3.label     		 "Se possível, utilizar codificação pré-definida nas respostas">
+<!ENTITY replyInDefaultCharset3.accesskey 		 "u">
