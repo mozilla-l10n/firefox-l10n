@@ -16,7 +16,7 @@
 <!ENTITY search_plus_content_description "Gehitu bilaketa-barran">
 
 <!ENTITY search_pref_title "Ezarpenak">
-
+<!ENTITY search_pref_button_content_description "Ezarpenak">
 
 <!ENTITY pref_clearHistory_confirmation "Historia garbituta">
 <!ENTITY pref_clearHistory_dialogMessage "Ezabatu bilaketa-historia guztia gailu honetatik?">
