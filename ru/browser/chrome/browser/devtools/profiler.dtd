@@ -21,9 +21,11 @@
 <!ENTITY profilerUI.table.totalPercentage "Общие затраты">
 <!ENTITY profilerUI.table.selfPercentage "Свои затраты">
 <!ENTITY profilerUI.table.samples "Замеры">
-<!ENTITY profilerUI.table.totalAlloc "Всего аллокаций">
-<!ENTITY profilerUI.table.selfAlloc "Свои аллокации">
 <!ENTITY profilerUI.table.function "Функция">
+<!ENTITY profilerUI.table.totalAlloc1 "Обшее число замерянных аллокаций">
+<!ENTITY profilerUI.table.totalAllocTooltip "Общее число замерянных аллокаций Объектов в этом месте и в вызываемых методах.">
+<!ENTITY profilerUI.table.selfAlloc1 "Замерянные у себя аллокации">
+<!ENTITY profilerUI.table.selfAllocTooltip "Число замерянных в этом месте аллокаций Объектов.">
 <!ENTITY profilerUI.newtab.tooltiptext "Добавить из выбора новую вкладку">
 <!ENTITY profilerUI.options.filter.tooltiptext "Выберите данные для отображения на временной шкале">
 <!ENTITY profilerUI.options.gear.tooltiptext "Установить настройки производительности.">

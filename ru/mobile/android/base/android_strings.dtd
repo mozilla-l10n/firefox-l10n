@@ -74,6 +74,7 @@
 <!ENTITY overlay_share_no_url "В отправляемых данных ссылки не найдено">
 <!ENTITY overlay_share_retry "Попробовать снова">
 <!ENTITY overlay_share_select_device "Выбрать устройство">
+<!ENTITY overlay_no_synced_devices "Не найдено устройств, подключенных к Аккаунту Firefox">
 <!ENTITY pref_category_search3 "Поиск">
 <!ENTITY pref_category_search_summary "Настройка ваших поисковых систем">
 <!ENTITY pref_category_display "Отображение">
@@ -124,6 +125,12 @@
 <!ENTITY pref_tracking_protection_summary "&brandShortName; будет не давать сайтам вас отслеживать">
 <!ENTITY pref_donottrack_title "Не отслеживать">
 <!ENTITY pref_donottrack_summary "&brandShortName; будет сообщать сайтам, что вы не хотите, чтобы вас отслеживали">
+<!ENTITY tab_queue_toast_message "Открыть позже">
+<!ENTITY tab_queue_toast_action "Открыть сейчас">
+<!ENTITY tab_queue_notification_text_plural "В очереди &formatD; вкладки(ок)">
+<!ENTITY tab_queue_notification_title_plural "Вкладки в очереди">
+<!ENTITY tab_queue_notification_title_singular "Вкладка в очереди">
+<!ENTITY tab_queue_notification_text_singular "В очереди 1 вкладка">
 <!ENTITY pref_char_encoding "Кодировка">
 <!ENTITY pref_char_encoding_on "Показывать меню">
 <!ENTITY pref_char_encoding_off "Скрывать меню">
