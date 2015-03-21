@@ -73,6 +73,7 @@
 <!ENTITY btnConsoleInfo         "තොරතුරු">
 <!ENTITY btnConsoleWarnings     "අවවාදයන්">
 <!ENTITY btnConsoleLog          "ලොග් සටහන්">
+<!ENTITY btnConsoleXhr          "XHR">
 <!ENTITY btnConsoleReflows      "යළි ගැලීම්">
 
 <!ENTITY filterOutput.placeholder "ප්‍රතිදානය පෙරන්න">
