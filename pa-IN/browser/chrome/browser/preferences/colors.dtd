@@ -6,11 +6,11 @@
 <!ENTITY window.width                     "38em">
 <!ENTITY  window.macWidth                 "41em">
 
-<!ENTITY  overridePageColors.label        "Override the colors specified by the page with my selections above:">
+<!ENTITY  overridePageColors.label        "ਸਫ਼ੇ ਵਲੋਂ ਦਿੱਤੇ ਗਏ ਰੰਗਾਂ ਨੂੰ ਉੱਤੇ ਕੀਤੀ ਮੇਰੀ ਚੋਣਾਂ ਰਾਹੀਂ ਅਣਡਿੱਠਾ ਕਰੋ:">
 <!ENTITY  overridePageColors.accesskey    "O">
 
 <!ENTITY  overridePageColors.always.label "ਹਮੇਸ਼ਾਂ">
-<!ENTITY  overridePageColors.auto.label   "Only with High Contrast themes">
+<!ENTITY  overridePageColors.auto.label   "ਕੇਵਲ ਉੱਚ ਕਨਟਰਾਸਟ ਵਾਲੇ ਥੀਮਾਂ ਨਾਲ ਹੀ">
 <!ENTITY  overridePageColors.never.label  "ਕਦੇ ਨਹੀਂ">
 
 <!ENTITY  color                           "ਟੈਕਸਟ ਅਤੇ ਬੈਕਗਰਾਊਂਡ">
