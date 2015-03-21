@@ -7,7 +7,7 @@
 <!ENTITY  window.width                  "37em">
 <!ENTITY  window.macWidth               "39em">
 
-<!ENTITY  proxyTitle.label              "Configurare proxy-uri pentru acces la internet">
+<!ENTITY  proxyTitle.label              "Configurează proxy-uri pentru accesul la Internet">
 <!ENTITY  noProxyTypeRadio.label        "Fără proxy">
 <!ENTITY  noProxyTypeRadio.accesskey    "y">
 <!ENTITY  systemTypeRadio.label         "Folosește setările proxy ale sistemului">

@@ -81,7 +81,7 @@
 <!-- Sync Options -->
 
 <!ENTITY setup.optionsPage.title      "Opțiuni de sincronizare">
-<!ENTITY syncDeviceName.label       "Nume dispozitiv:">
+<!ENTITY syncDeviceName.label       "Numele dispozitivului:">
 <!ENTITY syncDeviceName.accesskey   "d">
 
 <!ENTITY syncMy.label               "Sincronizează">
