@@ -74,7 +74,7 @@
 <!ENTITY abbreviateOff.label "Nome abreviado (Por exemplo: n.p.m.mail-news)">
 <!ENTITY advancedButton.label "Avançadas...">
 <!ENTITY advancedButton.accesskey "a">
-<!ENTITY serverDefaultCharset.label "Codificação pré-definida:">
+<!ENTITY serverDefaultCharset2.label "Codificação pré-definida:">
 <!ENTITY localPath.label "Diretório local:">
 <!ENTITY localFolderPicker.label "Escolha o diretório">
 <!ENTITY browseFolder.label "Procurar...">
@@ -86,5 +86,5 @@
 <!ENTITY accountSettingsDesc.label "Esta é uma conta especial. Não existem quaisquer identidades associadas.">
 <!ENTITY storeType.label "Tipo de armazenamento das mensagens:">
 <!ENTITY storeType.accesskey "T">
-<!ENTITY mboxStore.label "Uma caixa grande (mbox)">
+<!ENTITY mboxStore2.label "Ficheiro por pasta (mbox)">
 <!ENTITY maildirStore.label "Ficheiro por cada mensagem (maildir)">
