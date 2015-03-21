@@ -9,10 +9,10 @@
 <!ENTITY aboutWarningTitle.label "Това може да прекрати гаранцията!">
 <!ENTITY aboutWarningText.label "Промяната на тези настройки за напреднали може да се окаже вредно за устойчивостта, безопасността и производителността на приложението. Продължете само ако сте уверен в това, което вършите.">
 <!ENTITY aboutWarningButton.label "Ще бъда внимателен, обещавам!">
-<!ENTITY aboutWarningCheckbox.label "Показване на това предупреждение и следващия път">
+<!ENTITY aboutWarningCheckbox.label "Показване на предупреждението и следващия път">
 
-<!ENTITY searchPrefs.label "Search:">
-<!ENTITY searchPrefs.accesskey "r">
+<!ENTITY searchPrefs.label "Търсене:">
+<!ENTITY searchPrefs.accesskey "р">
 <!ENTITY focusSearch.key "r">
 <!-- Columns -->
 
