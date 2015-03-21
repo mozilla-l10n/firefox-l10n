@@ -56,9 +56,11 @@
 <!ENTITY profilerUI.table.totalPercentage "Custo total">
 <!ENTITY profilerUI.table.selfPercentage  "Custo próprio">
 <!ENTITY profilerUI.table.samples         "Amostras">
-<!ENTITY profilerUI.table.totalAlloc      "Alocações totais">
-<!ENTITY profilerUI.table.selfAlloc       "Alocações próprias">
-<!ENTITY profilerUI.table.function    "Função">
+<!ENTITY profilerUI.table.function        "Função">
+<!ENTITY profilerUI.table.totalAlloc1      "Amostragem de alocações totais">
+<!ENTITY profilerUI.table.totalAllocTooltip "O número total de amostragem de alocações de objetos nesta localização e nas chamadas.">
+<!ENTITY profilerUI.table.selfAlloc1       "Amostragem de alocações próprias">
+<!ENTITY profilerUI.table.selfAllocTooltip  "O número total de amostragem de alocações de objetos nesta localização.">
 
 <!-- LOCALIZATION NOTE (profilerUI.newtab.tooltiptext): The tooltiptext shown
   -  on the "+" (new tab) button for a profile when a selection is available. -->
