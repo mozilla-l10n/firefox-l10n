@@ -341,9 +341,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewTabGroups.label            "Групи подпрозорци">
 <!ENTITY viewTabGroups.accesskey        "Г">
 <!ENTITY viewToolbarsMenu.label       "Ленти с инструменти"> 
-<!ENTITY viewToolbarsMenu.accesskey     "Л"> 
+<!ENTITY viewToolbarsMenu.accesskey     "и"> 
 <!ENTITY viewSidebarMenu.label "Странична лента">
-<!ENTITY viewSidebarMenu.accesskey "л">
+<!ENTITY viewSidebarMenu.accesskey "С">
 <!ENTITY viewCustomizeToolbar.label       "Персонализиране…"> 
 <!ENTITY viewCustomizeToolbar.accesskey     "П">
 
