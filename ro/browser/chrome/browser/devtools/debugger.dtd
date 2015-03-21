@@ -13,7 +13,7 @@
 
 
 
-<!ENTITY debuggerUI.closeButton.tooltip "Închidere">
+<!ENTITY debuggerUI.closeButton.tooltip "Închide">
 <!-- LOCALIZATION NOTE (debuggerUI.panesButton.tooltip): This is the tooltip for
   -  the button that toggles the panes visible or hidden in the debugger UI. -->
 
@@ -60,7 +60,7 @@
 <!-- LOCALIZATION NOTE (debuggerUI.clearButton.tooltip): This is the tooltip for
   -  the button that clears the collected tracing data in the tracing tab. -->
 
-<!ENTITY debuggerUI.clearButton.tooltip "Clear the collected traces">
+<!ENTITY debuggerUI.clearButton.tooltip "Curăță urmele colectate">
 <!-- LOCALIZATION NOTE (debuggerUI.pauseExceptions): This is the label for the
   -  checkbox that toggles pausing on exceptions. -->
 

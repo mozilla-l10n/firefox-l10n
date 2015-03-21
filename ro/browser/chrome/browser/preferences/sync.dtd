@@ -40,7 +40,7 @@
 <!ENTITY engine.addons.accesskey    "S">
 <!-- Device Settings -->
 
-<!ENTITY syncDeviceName.label       "Nume dispozitiv:">
+<!ENTITY syncDeviceName.label       "Numele dispozitivului:">
 <!ENTITY syncDeviceName.accesskey   "d">
 <!ENTITY unlinkDevice.label           "Dezasociază acest dispozitiv">
 <!-- Footer stuff -->
@@ -71,8 +71,8 @@ both, to better adapt this sentence to their language.
 <!ENTITY notSignedIn.label           "Nu sunteți autentificat.">
 <!ENTITY signIn.label                "Autentificare">
 <!ENTITY manage.label                "Gestionează">
-<!ENTITY disconnect.label            "Deconectare…">
-<!ENTITY verify.label                "Verifică e-mailul">
+<!ENTITY disconnect.label            "Deconectează-te…">
+<!ENTITY verify.label                "Verificați e-mailul">
 <!ENTITY forget.label                "Uită acest e-mail">
 
 <!ENTITY welcome.description "Accesați filele dumneavoastră, semnele de carte, parolele și altele ori de câte ori folosiți &brandShortName;.">
