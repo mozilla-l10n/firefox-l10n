@@ -137,8 +137,8 @@
      it is applicable. -->
 <!ENTITY pref_search_hint "PONT: Adaugă orice sait în lista motoarelor de căutare prin lunga apăsare pe câmpul de căutare al acestuia iar apoi apăsând iconița &formatI;.">
 <!ENTITY pref_category_devtools "Unelte de dezvoltare">
-<!ENTITY pref_category_devtools_summary "Depanare de la distanță, vopsire intermitentă">
-<!ENTITY pref_developer_paint_flashing "Vopsire intermitentă">
+<!ENTITY pref_category_devtools_summary "Depanare de la distanță, paint flashing">
+<!ENTITY pref_developer_paint_flashing "Paint flashing">
 <!ENTITY pref_developer_remotedebugging "Depanare de la distanță">
 <!ENTITY pref_remember_signons "Reține parolele">
 
