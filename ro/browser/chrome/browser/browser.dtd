@@ -120,7 +120,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 
 <!ENTITY fullScreenMinimize.tooltip "Minimizează">
-<!ENTITY fullScreenRestore.tooltip "Revenire">
+<!ENTITY fullScreenRestore.tooltip "Revino">
 <!ENTITY fullScreenClose.tooltip "Închide">
 <!ENTITY fullScreenAutohide.label "Ascunde barele de unelte">
 <!ENTITY fullScreenAutohide.accesskey "A">
@@ -171,7 +171,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY forwardCmd.label             "Înainte">
 <!ENTITY forwardButton.tooltip        "Mergi cu o pagină înainte">
 <!ENTITY backForwardButtonMenu.tooltip "Clic dreapta sau trageți în jos pentru a vedea istoricul">
-<!ENTITY backForwardButtonMenuMac.tooltip "Trageți în jos pentru a vedea istoricul">
+<!ENTITY backForwardButtonMenuMac.tooltip "Trage în jos pentru a afișa istoricul">
 <!ENTITY reloadCmd.label              "Reîncarcă">
 <!ENTITY reloadButton.tooltip         "Reîncarcă pagina actuală">
 <!ENTITY stopCmd.label                "Oprește">
@@ -608,7 +608,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY quitApplicationCmdWin2.label       "Ieșire">
 <!ENTITY quitApplicationCmdWin2.accesskey   "e">
-<!ENTITY quitApplicationCmdWin2.tooltip     "Ieșire &brandShorterName;">
+<!ENTITY quitApplicationCmdWin2.tooltip     "Ieși din &brandShorterName;">
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY goForwardCmd.commandKey "]">
 <!ENTITY quitApplicationCmd.label       "Ieșiți"> 
@@ -628,7 +628,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageStylePersistentOnly.label "Stil principal">
 <!ENTITY pageStylePersistentOnly.accesskey "p">
 
-<!ENTITY pageReportIcon.tooltip            "Modifică parametrii de blocare a ferestrelor popup pentru acest sait web">
+<!ENTITY pageReportIcon.tooltip            "Modifică parametrii de blocare a popupurilor pentru acest sait">
 
 <!ENTITY allowPopups.accesskey "p">
 <!-- On Windows we use the term "Options" to describe settings, but
@@ -683,7 +683,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      localized title of this SUMO article
      https://support.mozilla.org/kb/how-do-i-tell-if-my-connection-is-secure -->
 
-<!ENTITY identity.help.tooltip "Cum îmi dau seama dacă conexiunea mea la un sait web este sigură?">
+<!ENTITY identity.help.tooltip "Cum îmi dau seama dacă conexiunea mea la un sait este sigură?">
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
 
@@ -854,7 +854,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- Pre-landed string for bug 1133662 -->
 <!ENTITY readingList.sidebar.emptyText            "Adaugă articole la lista dumneavoastră de citit pentru a le salva pentru mai târziu și a le găsi cu ușurință atunci când aveți nevoie de ele.">
 <!-- Pre-landed string for bug 1123525 -->
-<!ENTITY readingList.sidebar.delete.tooltip       "Înlătură aceasta din lista dumneavoastră de citit">
+<!ENTITY readingList.sidebar.delete.tooltip       "Înlătură aceasta din lista de citit">
 <!-- Pre-landed strings for bug 1123519 -->
 <!ENTITY readingList.sidebar.add.label            "Adăugați în lista de citit">
-<!ENTITY readingList.sidebar.add.tooltip          "Adaugă această pagină la lista dumneavoastră de citit">
+<!ENTITY readingList.sidebar.add.tooltip          "Adaugă această pagină la lista de citit">
