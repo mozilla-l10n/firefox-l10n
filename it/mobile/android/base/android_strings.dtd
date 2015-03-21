@@ -128,6 +128,10 @@
 <!ENTITY pref_donottrack_summary "Richiedi ai siti di non effettuare alcun tracciamento">
 <!ENTITY tab_queue_toast_message "Apri più tardi">
 <!ENTITY tab_queue_toast_action "Apri adesso">
+<!ENTITY tab_queue_notification_text_plural "&formatD; schede in coda">
+<!ENTITY tab_queue_notification_title_plural "Schede in coda">
+<!ENTITY tab_queue_notification_title_singular "Scheda in coda">
+<!ENTITY tab_queue_notification_text_singular "1 scheda in coda">
 <!ENTITY pref_char_encoding "Codifica caratteri">
 <!ENTITY pref_char_encoding_on "Visualizza menu">
 <!ENTITY pref_char_encoding_off "Non visualizzare menu">
