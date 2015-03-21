@@ -366,6 +366,9 @@ size. -->
 <!ENTITY site_settings_no_settings  "মুছে ফেলার জন্য কোন সেটিংস নেই।">
 
 <!ENTITY reading_list_added "পঠন তালিকায় পৃষ্ঠাটি যুক্ত করা হল">
+<!ENTITY reading_list_removed "পঠন তালিকা থেকে পৃষ্ঠাটি মুছে ফেলা হল">
+<!-- Localization note (reading_list_remove) : Used to remove the currently open page from
+     the user's reading list. The opposite of overlay_share_reading_list_btn_label. -->
 <!ENTITY reading_list_duplicate "পৃষ্ঠাটি আগে থেকেই আপনার পাঠ তালিকার অন্তর্ভুক্ত করা আছে">
 <!-- Localization note (reading_list_time_minutes2) : This string is used in the "Reading List"
      panel on the home page to give the user an estimate of how many minutes it will take to
