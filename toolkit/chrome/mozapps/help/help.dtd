@@ -11,8 +11,8 @@
 <!ENTITY forwardButton.label            "Напред">
 <!ENTITY forwardButton.accesskey        "п">
 
-
-
+<!ENTITY copyCmd.label                  "Копиране">
+<!ENTITY copyCmd.accesskey              "К">
 
 
 
