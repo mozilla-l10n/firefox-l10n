@@ -213,8 +213,8 @@ size. -->
 
 <!ENTITY pref_media_autoplay_enabled "Дозволити автовідтворення">
 <!ENTITY pref_media_autoplay_enabled_summary "Контроль можливості автоматичного відтворення відео сайтами та іншим медійним вмістом">
-<!ENTITY pref_zoom_force_enabled "Always enable zoom">
-<!ENTITY pref_zoom_force_enabled_summary "Force override so you can zoom any page">
+<!ENTITY pref_zoom_force_enabled "Завжди дозволяти змінювати масштаб">
+<!ENTITY pref_zoom_force_enabled_summary "Ігнорувати налаштування сайтів, щоб ви могли змінювати масштаб будь-якої сторінки">
 
 <!ENTITY pref_use_master_password "Головний пароль">
 <!ENTITY pref_sync "Синхронізація">
@@ -271,7 +271,7 @@ size. -->
      (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
 <!ENTITY datareporting_crashreporter_title_short "Звіти про падіння">
 <!ENTITY datareporting_wifi_title2 "Послуга розташування &vendorShortName;">
-<!ENTITY datareporting_wifi_geolocation_summary3 "Help &vendorShortName; map the world! Share approximate Wi-Fi and cellular location of your device to improve our geolocation service">
+<!ENTITY datareporting_wifi_geolocation_summary3 "Допоможіть &vendorShortName; створити карту світу! Поділіться приблизним розташуванням Wi-Fi та мобільної мережі вашого пристрою, щоб покращити нашу службу визначення місцезнаходження">
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
      actual notification that an update is available. -->
