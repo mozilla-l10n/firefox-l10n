@@ -127,13 +127,15 @@
 
 <!-- Device Preferences and Settings -->
 
+<!ENTITY device_typeboolean "Булева">
+<!ENTITY device_typenumber "Целочислена">
 
 <!ENTITY device_typeobject "Обект">
 
 <!-- Device Preferences -->
 
 
-
+<!ENTITY devicepreference_newtext "Референтна стойност">
 
 <!-- Device Settings -->
 <!ENTITY devicesetting_search "Настройки на търсене">
