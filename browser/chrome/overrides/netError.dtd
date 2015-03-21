@@ -155,11 +155,7 @@ functionality specific to firefox. -->
 <!ENTITY remoteXUL.title "Remote XUL">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>කරුණාකර මෙම ගැටලුව පිළිබද අඩවියේ හිමිකරුට දන්වන්න.</li></ul></p>">
 
-<!ENTITY oldSecurityProtocol.title "ආරක්ෂිතව සබඳවිය නොහැකි විය">
-<!-- LOCALIZATION NOTE (oldSecurityProtocol.longDesc) - Do not translate the
-     <span id='hostname'></span>. -->
-<!ENTITY oldSecurityProtocol.longDesc2 "බිඳුන නාමාවලියක් වන SSLv3 භාවිත කරන බැවින් &brandShortName; හට <span id='hostname'></span> මත පවතින ඔබේ දත්ත ගැන වගකිව නොහැක.">
-<!-- LOCALIZATION NOTE (oldSecurityProtocol.advancedInfo) - Do not translate
-     the <span id='errorcode'></span>. -->
-<!ENTITY oldSecurityProtocol.advancedInfo "උසස් තොරතුරු: <span id='errorcode'></span>">
-<!ENTITY oldSecurityProtocol.learnMore "තවත් දැනගන්න...">
+<!ENTITY sslv3Used.title "ආරක්ෂිතව සබඳවිය නොහැකි විය">
+<!-- LOCALIZATION NOTE (sslv3Used.longDesc) - Do not translate
+     "ssl_error_unsupported_version". -->
+<!ENTITY sslv3Used.learnMore "තවත් දැනගන්න...">
