@@ -170,7 +170,7 @@
 <!ENTITY fxaccount_confirm_account_verification_link_not_sent2 'ਜਾਂਚ ਈਮੇਲ ਭੇਜੀ ਨਹੀਂ ਜਾ ਸਕੀ'>
 <!ENTITY fxaccount_resend_unlock_code_button_label 'ਅਣ-ਲਿੰਕ ਈਮੇਲ ਫ਼ੇਰ ਭੇਜੋ'>
 <!ENTITY fxaccount_unlock_code_sent 'ਖਾਤਾ ਅਣ-ਲਿੰਕ ਈਮੇਲ ਭੇਜੀ'>
-<!ENTITY fxaccount_unlock_code_not_sent 'ਖਾਤਾ ਅਣ-ਲਿੰਕ ਈਠੇਲ ਭੇਜੀ ਨਹੀਂ ਜਾ ਸਕੀ'>
+<!ENTITY fxaccount_unlock_code_not_sent 'ਖਾਤਾ ਅਣ-ਲਿੰਕ ਈਮੇਲ ਭੇਜੀ ਨਹੀਂ ਜਾ ਸਕੀ'>
 
 <!ENTITY fxaccount_sign_in_sub_header 'ਸਾਇਨ ਇਨ'>
 <!ENTITY fxaccount_sign_in_button_label 'ਸਾਇਨ ਇਨ'>
