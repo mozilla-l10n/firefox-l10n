@@ -2,55 +2,47 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY printCmd.commandkey            "p">
 
-<!ENTITY findOnCmd.commandkey           "F">
-<!ENTITY findAgainCmd.commandkey        "G">
 <!ENTITY findAgainCmd.commandkey2       "VK_F3">
 
-<!ENTITY backButton.label               "Back">
-<!ENTITY backButton.accesskey           "B">
-<!ENTITY backButton.tooltip             "Go back one page">
-<!ENTITY forwardButton.label            "Forward">
-<!ENTITY forwardButton.accesskey        "F">
-<!ENTITY forwardButton.tooltip          "Go forward one page">
-<!ENTITY copyCmd.label                  "Copy">
-<!ENTITY copyCmd.accesskey              "C">
-<!ENTITY selectAllCmd.label             "Select All">
-<!ENTITY selectAllCmd.accesskey         "A">
-<!ENTITY goBackCmd.commandkey           "[">
-<!ENTITY goForwardCmd.commandkey        "]">
-<!ENTITY homeButton.label               "Home">
-<!ENTITY homeButton.tooltip             "Go to the Help Start Page">
-<!ENTITY printButton.label              "Print">
-<!ENTITY printButton.tooltip            "Print this page">
-<!ENTITY closeWindow.commandkey         "Print this page">
+<!ENTITY backButton.label               "Назад">
+<!ENTITY backButton.accesskey           "з">
 
-<!ENTITY search.emptytext               "Print this page">
-<!ENTITY searchHeader.label             "Search results">
-<!ENTITY toctab.label                   "W">
-<!ENTITY toctab.accesskey               "C">
+<!ENTITY forwardButton.label            "Напред">
+<!ENTITY forwardButton.accesskey        "п">
+
+
+
+
+
+
+
+<!ENTITY homeButton.label               "Начална страница">
+
+<!ENTITY printButton.label              "Отпечатване">
+<!ENTITY printButton.tooltip            "Отпечатване на тази страница">
+
+
+<!ENTITY search.emptytext               "Търсене">
+
+
+
 <!-- LOCALIZATION NOTE :
 fullZoomEnlargeCmd.commandkey3, fullZoomReduceCmd.commandkey2 and
 fullZoomResetCmd.commandkey2 are alternative acceleration keys for zoom.
 If shift key is needed with your locale popular keyboard for them,
 you can use these alternative items. Otherwise, their values should be empty.  -->
-
-
-<!ENTITY fullZoomReduceCmd.commandkey   "-">
 <!ENTITY fullZoomReduceCmd.commandkey2  "">
 
 <!-- + is above this key on many keyboards -->
-<!ENTITY fullZoomEnlargeCmd.commandkey2 "+"> 
 <!ENTITY fullZoomEnlargeCmd.commandkey3 "">
-<!ENTITY fullZoomResetCmd.commandkey    "0">
+
 <!ENTITY fullZoomResetCmd.commandkey2   "">
 
 
-<!ENTITY zLevel.label                   "k">
-<!ENTITY zLevel.accesskey               "T">
 
-<!ENTITY fullZoomReduceBtn.label        "Zoom Out">
-<!ENTITY fullZoomReduceBtn.accesskey    "O">
-<!ENTITY fullZoomEnlargeBtn.label       "Zoom In">
-<!ENTITY fullZoomEnlargeBtn.accesskey   "I">
+
+<!ENTITY fullZoomReduceBtn.label        "Намаляване">
+<!ENTITY fullZoomReduceBtn.accesskey    "м">
+<!ENTITY fullZoomEnlargeBtn.label       "Увеличаване">
+<!ENTITY fullZoomEnlargeBtn.accesskey   "У">
