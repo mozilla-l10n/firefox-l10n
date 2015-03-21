@@ -14,8 +14,8 @@
 <!ENTITY allowHWAccel.accesskey "м">
 <!ENTITY storeType.label "Тип хранилища сообщений для новых учётных записей:">
 <!ENTITY storeType.accesskey "п">
-<!ENTITY mboxStore.label "Один большой файл (mbox)">
-<!ENTITY maildirStore.label "По файлу на сообщение (maildir)">
+<!ENTITY mboxStore2.label "Каждая папка в отдельном файле (mbox)">
+<!ENTITY maildirStore.label "Каждое сообщение в отдельном файле (maildir)">
 <!ENTITY scrolling.label "Прокрутка">
 <!ENTITY useAutoScroll.label "Использовать автоматическую прокрутку">
 <!ENTITY useAutoScroll.accesskey "в">
