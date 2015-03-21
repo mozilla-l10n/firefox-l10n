@@ -47,9 +47,9 @@
 
 <!ENTITY  historyHeader.pre.label          "&brandShortName; va:">
 <!ENTITY  historyHeader.pre.accesskey      "v">
-<!ENTITY  historyHeader.remember.label     "memora istoricul">
-<!ENTITY  historyHeader.dontremember.label "nu va memora istoricul niciodată">
-<!ENTITY  historyHeader.custom.label       "folosi setări personalizate pentru istoric">
+<!ENTITY  historyHeader.remember.label     "Memora istoricul">
+<!ENTITY  historyHeader.dontremember.label "Nu va memora istoricul niciodată">
+<!ENTITY  historyHeader.custom.label       "Folosi setări personalizate pentru istoric">
 <!ENTITY  historyHeader.post.label         "">
 
 <!ENTITY  rememberDescription.label      "&brandShortName; va memora istoricul navigării, al descărcărilor, al formularelor și al căutărilor și va păstra cookie-urile de la saiturile vizitate.">
