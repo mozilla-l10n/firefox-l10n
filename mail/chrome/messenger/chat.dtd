@@ -30,7 +30,7 @@
 <!ENTITY deleteCmd.accesskey           "t">
 
 <!ENTITY openConversationButton.tooltip  "Pornește o conversație">
-<!ENTITY closeConversationButton.tooltip "Închidere conversație">
+<!ENTITY closeConversationButton.tooltip "Închide conversația">
 
 <!ENTITY addBuddyButton.label          "Adaugă un prieten">
 <!ENTITY joinChatButton.label          "Conectează-te la chat">
