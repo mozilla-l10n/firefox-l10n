@@ -145,6 +145,8 @@
 <!ENTITY messagePaneVertical.accesskey                 "V">
 <!ENTITY showFolderPaneCmd.label                       "Kaustade paneel">
 <!ENTITY showFolderPaneCmd.accesskey                   "a">
+<!ENTITY showFolderPaneColsCmd.label                   "Kaustade paneeli veerud">
+<!ENTITY showFolderPaneColsCmd.accesskey               "u">
 <!ENTITY showMessageCmd.label                          "Kirja teksti paneel">
 <!ENTITY showMessageCmd.accesskey                      "i">
 
@@ -593,7 +595,9 @@
 <!ENTITY manageTags.accesskey                          "H">
 
 <!-- Folder Pane -->
-<!ENTITY folderColumn.label                            "Nimi">
+<!ENTITY folderNameColumn.label                        "Nimi">
+<!ENTITY folderUnreadColumn.label                      "Lugemata">
+<!ENTITY folderTotalColumn.label                       "Kokku">
 <!ENTITY folderSizeColumn.label                        "Suurus">
 
 <!-- Folder Pane Context Menu -->

@@ -35,3 +35,5 @@
 <!ENTITY customsound.accesskey          "e">
 <!ENTITY browse.label                   "Lehitse...">
 <!ENTITY browse.accesskey               "L">
+
+<!ENTITY defaultSearchEngine.label      "Vaikeotsingumootor">

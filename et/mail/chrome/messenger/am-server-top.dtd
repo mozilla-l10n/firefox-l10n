@@ -57,9 +57,9 @@
 <!ENTITY emptyTrashOnExit.accesskey       "r">
 <!ENTITY loginAtStartup.label             "Käivitamisel kontrollitakse uusi kirju">
 <!ENTITY loginAtStartup.accesskey         "K">
-<!-- LOCALIZATION NOTE (maxMessagesStart.label) : translate below 2 lines with grammar dependency 
+<!-- LOCALIZATION NOTE (maxMessagesStart.label) : translate below 2 lines with grammar dependency
     maxMessengerStart.label will be followed by maxMessagesEnd.label with the number
-	 of messages between them
+   of messages between them
 -->
 <!ENTITY maxMessagesStart.label           "Küsitakse, kui tõmmata on rohkem kui">
 <!ENTITY maxMessagesStart.accesskey       "o">
@@ -84,3 +84,7 @@
 
 <!ENTITY accountTitle.label               "Konto sätted">
 <!ENTITY accountSettingsDesc.label        "See on eriline konto, millega pole seotud ühtegi identiteeti.">
+<!ENTITY storeType.label                  "Kirjade salvestamise moodus:">
+<!ENTITY storeType.accesskey              "K">
+<!ENTITY mboxStore.label                  "üks suur fail (mbox)">
+<!ENTITY maildirStore.label               "iga kiri eraldi failina (maildir)">

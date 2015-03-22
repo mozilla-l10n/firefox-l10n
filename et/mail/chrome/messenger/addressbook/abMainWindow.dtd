@@ -3,7 +3,8 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY addressbookWindow.title            "Aadressiraamat">
-
+<!ENTITY blankResultsPaneMessage.label      "See aadressiraamat kuvab kontakte ainult pärast otsimist">
+<!ENTITY localResultsOnlyMessage.label      "Kontakte võrguaadressiraamatutest ei kuvata enne otsimist">
 <!-- File Menu -->
 <!ENTITY fileMenu.label                     "Fail">
 <!ENTITY fileMenu.accesskey                 "F">
@@ -160,6 +161,8 @@ because displayed names don't have the comma in between. -->
 <!ENTITY searchItem.title                   "Kiirotsing">
 
 <!-- Results Pane -->
+<!ENTITY Addrbook.label                     "Aadressiraamat">
+<!ENTITY Addrbook.accesskey                 "r">
 <!ENTITY GeneratedName.label                "Nimi">
 <!ENTITY GeneratedName.accesskey            "N">
 <!ENTITY PrimaryEmail.label                 "E-post">

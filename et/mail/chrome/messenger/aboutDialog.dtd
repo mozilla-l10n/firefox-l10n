@@ -13,18 +13,36 @@
 <!ENTITY update.applyButtonBillboard.label        "Rakenda uuendus…">
 <!ENTITY update.applyButtonBillboard.accesskey    "R">
 
+
+<!-- LOCALIZATION NOTE (warningDesc.version): This is a warning about the experimental nature of Nightly and Aurora builds. It is only shown in those versions. -->
+<!ENTITY warningDesc.version        "&brandShortName; on katsetamiseks ja võib olla ebastabiilne.">
+<!-- LOCALIZATION NOTE (warningDesc.telemetryDesc): This is a notification that Nightly/Aurora builds automatically send Telemetry data back to Mozilla. It is only shown in those versions. "It" refers to brandShortName. -->
+<!ENTITY warningDesc.telemetryDesc  "Et teha &brandShortName; paremaks, saadab see versioon &vendorShortName;le automaatselt tagasisidet kasutatava riistvara, sooritusvõimsuse, funktsionaalsuse kasutatavuse ja brauseri kohandamiste kohta.">
+
+<!-- LOCALIZATION NOTE (community.exp.*) This paragraph is shown in "experimental" builds, i.e. Nightly and Aurora builds, instead of the other "community.*" strings below. -->
+<!ENTITY community.exp.start        "">
+<!-- LOCALIZATION NOTE (community.exp.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
+<!ENTITY community.exp.mozillaLink  "&vendorShortName;">
+<!ENTITY community.exp.middle       " on ">
+<!-- LOCALIZATION NOTE (community.exp.creditslink): This is a link title that links to about:credits. -->
+<!ENTITY community.exp.creditsLink  "üleilmne kogukond">
+<!ENTITY community.exp.end          ", kes töötab koos, et hoida internet avatuna, avalikuna ja ilma igasuguste piiranguteta ligipääsetavana kõigile.">
+
 <!ENTITY community.start2           "&brandShortName; on loodud ">
 <!-- LOCALIZATION NOTE (community.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
 <!ENTITY community.mozillaLink      "&vendorShortName;">
 <!ENTITY community.middle2          " ">
 <!-- LOCALIZATION NOTE (community.creditsLink): This is a link title that links to about:credits. -->
 <!ENTITY community.creditsLink      "üleilmse kogukonna ">
-<!ENTITY community.end2             " poolt, et teha internet paremaks. Me usume, et internet peaks olema avatud, avalik ja ilma igasuguste piiranguteta ligipääsetav kõigile.">
+<!ENTITY community.end3             " poolt, et hoida internet avatud, avalik ja ilma igasuguste piiranguteta ligipääsetav kõigile.">
 
-<!ENTITY contribute.start           "Kõlab huvitavalt? ">
-<!-- LOCALIZATION NOTE (contribute.getInvolvedLink): This is a link title that links to http://www.mozilla.org/contribute/. -->
-<!ENTITY contribute.getInvolvedLink "Löö kaasa!">
-<!ENTITY contribute.end             "">
+<!ENTITY helpus.start               "Soovid aidata? ">
+<!-- LOCALIZATION NOTE (helpus.donateLink): This is a link title that links to the thunderbird donation page -->
+<!ENTITY helpus.donateLink          "Tee annetus">
+<!ENTITY helpus.middle              " või ">
+<!-- LOCALIZATION NOTE (helpus.getInvolvedLink): This is a link title that links to http://www.mozilla.org/contribute/. -->
+<!ENTITY helpus.getInvolvedLink     "löö kaasa!">
+<!ENTITY helpus.end                 "">
 
 <!-- LOCALIZATION NOTE (bottomLinks.license): This is a link title that links to about:license. -->
 <!ENTITY bottomLinks.license        "Litsentsist">
@@ -32,7 +50,7 @@
 <!-- LOCALIZATION NOTE (bottomLinks.rights): This is a link title that links to about:rights. -->
 <!ENTITY bottomLinks.rights         "Kasutaja õigustest">
 
-<!-- LOCALIZATION NOTE (bottomLinks.privacy): This is a link title that links to http://www.mozilla.com/legal/privacy/. -->
+<!-- LOCALIZATION NOTE (bottomLinks.privacy): This is a link title that links to https://www.mozilla.org/legal/privacy/. -->
 <!ENTITY bottomLinks.privacy        "Privaatsusreeglid">
 
 <!-- LOCALIZATION NOTE (update.checkingForUpdates): try to make the localized text short (see bug 596813 for screenshots). -->
@@ -41,6 +59,8 @@
 <!ENTITY update.noUpdatesFound      "Kasutusel on &brandShortName;i uusim versioon">
 <!-- LOCALIZATION NOTE (update.adminDisabled): try to make the localized text short (see bug 596813 for screenshots). -->
 <!ENTITY update.adminDisabled       "Uuendused on süsteemiadministraatori poolt keelatud">
+<!-- LOCALIZATION NOTE (update.otherInstanceHandlingUpdates): try to make the localized text short -->
+<!ENTITY update.otherInstanceHandlingUpdates "&brandShortName;i uuendatakse teise protsessi poolt">
 
 <!-- LOCALIZATION NOTE (update.failed.start,update.failed.linkText,update.failed.end):
      update.failed.start, update.failed.linkText, and update.failed.end all go into

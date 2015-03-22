@@ -6,6 +6,8 @@
 <!ENTITY itemAutoComplete.label              "Adresseerimine">
 <!ENTITY itemSpellCheck.label                "Õigekiri">
 
+<!ENTITY dialogCompose.title                 "Koostamine">
+
 <!ENTITY forwardMsg.label                    "Kirjad edastatakse:">
 <!ENTITY forwardMsg.accesskey                "K">
 <!ENTITY inline.label                        "tekstina">
