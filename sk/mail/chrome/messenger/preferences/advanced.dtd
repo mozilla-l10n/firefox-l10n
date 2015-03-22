@@ -18,7 +18,7 @@
 <!ENTITY storeType.label               "Spôsob ukladania správ pre nové účty:">
 <!ENTITY storeType.accesskey           "b">
 <!ENTITY mboxStore.label               "Jeden veľký súbor (mbox)">
-<!ENTITY maildirStore.label            "Samostný súbor pre každú správu (maildir)">
+<!ENTITY maildirStore.label            "Samostatný súbor pre každú správu (maildir)">
 
 <!ENTITY scrolling.label               "Posúvanie obsahu">
 <!ENTITY useAutoScroll.label           "Použiť automatický posun">
