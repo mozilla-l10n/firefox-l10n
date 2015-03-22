@@ -8,8 +8,8 @@
 <!ENTITY  language.accesskey                      "t">
 
 <!ENTITY  size.label                             "Tamaño:">
-<!ENTITY  proportionalSize.accesskey              "o">
-<!ENTITY  sizeMono.accesskey                      "m">
+<!ENTITY  sizeProportional.accesskey              "a">
+<!ENTITY  sizeMonospace.accesskey                 "m">
 
 <!ENTITY  proportional.label                      "Proporcional:">
 <!ENTITY  proportional.accesskey                  "P">
@@ -21,19 +21,16 @@
 <!ENTITY  monospace.label                         "Monospace:">
 <!ENTITY  monospace.accesskey                     "e">
 
-<!ENTITY  font.langGroup.latin1                   "Occidental">
-<!ENTITY  font.langGroup.latin2                   "Europeo central">
+<!-- LOCALIZATION NOTE (font.langGroup.latin) :
+     Translate "Latin" as the name of Latin (Roman) script, not as the name of the Latin language. -->
+<!ENTITY  font.langGroup.latin                    "Latino">
 <!ENTITY  font.langGroup.japanese                 "Japonés">
 <!ENTITY  font.langGroup.trad-chinese             "Chino tradicional (Taiwan)">
 <!ENTITY  font.langGroup.simpl-chinese            "Chino simplificado">
 <!ENTITY  font.langGroup.trad-chinese-hk          "Chino tradicional (Hong Kong)">
 <!ENTITY  font.langGroup.korean                   "Coreano">
 <!ENTITY  font.langGroup.cyrillic                 "Cirílico">
-<!ENTITY  font.langGroup.baltic                   "Báltico">
 <!ENTITY  font.langGroup.el                       "Griego">
-<!ENTITY  font.langGroup.turkish                  "Turco">
-<!ENTITY  font.langGroup.unicode1                 "Unicode">
-<!ENTITY  font.langGroup.user-def                 "Definido por el usuario">
 <!ENTITY  font.langGroup.thai                     "Thai">
 <!ENTITY  font.langGroup.hebrew                   "Hebreo">
 <!ENTITY  font.langGroup.arabic                   "Árabe">
@@ -48,7 +45,11 @@
 <!ENTITY  font.langGroup.gurmukhi                 "Gurmukhi">
 <!ENTITY  font.langGroup.khmer                    "Khmer">
 <!ENTITY  font.langGroup.malayalam                "Malayo">
-
+<!ENTITY  font.langGroup.oriya                    "Oriya">
+<!ENTITY  font.langGroup.telugu                   "Telugu">
+<!ENTITY  font.langGroup.kannada                  "Kannada">
+<!ENTITY  font.langGroup.sinhala                  "Sinhala">
+<!ENTITY  font.langGroup.tibetan                  "Tibetano">
 <!-- Minimum font size -->
 <!ENTITY minSize.label                            "Tamaño mínimo de fuente:">
 <!ENTITY minSize.accesskey                        "a">

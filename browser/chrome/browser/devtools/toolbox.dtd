@@ -23,6 +23,10 @@
   -  It allows you to switch the context of the whole toolbox. -->
 <!ENTITY toolboxFramesTooltip          "Seleccionar un iframe como el documento señalado actualmente">
 
+<!-- LOCALIZATION NOTE (browserToolboxErrorMessage): This is the label
+  -  shown next to error details when the Browser Toolbox is unable to open. -->
+<!ENTITY browserToolboxErrorMessage          "Error abriendo caja de herramientas del navegador:">
+
 <!-- LOCALIZATION NOTE (options.context.advancedSettings): This is the label for
   -  the heading of the advanced settings group in the options panel. -->
 <!ENTITY options.context.advancedSettings "Opciones avanzadas">

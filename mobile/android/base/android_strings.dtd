@@ -115,6 +115,10 @@
 <!ENTITY overlay_share_no_url "No se encontró un enlace en esta compartición">
 <!ENTITY overlay_share_retry "Intentar nuevamente">
 <!ENTITY overlay_share_select_device "Seleccionar dispositivo">
+<!-- Localization note (overlay_no_synced_devices) : Used when the menu option
+     to send a tab to a synced device is pressed and no other synced devices
+     are found. -->
+<!ENTITY overlay_no_synced_devices "No se encontraron dispositivos conectados a Firefox Account">
 
 <!ENTITY pref_category_search3 "Buscar">
 <!ENTITY pref_category_search_summary "Personalizar buscadores">
@@ -179,6 +183,23 @@
 <!ENTITY pref_tracking_protection_summary "&brandShortName; evitará que los sitios te rastreen">
 <!ENTITY pref_donottrack_title "No rastrear">
 <!ENTITY pref_donottrack_summary "&brandShortName; le dirá a los sitios que no querés ser rastreado">
+
+<!ENTITY tab_queue_toast_message "Abrir después">
+<!ENTITY tab_queue_toast_action "Abrir ahora">
+<!-- Localization note (tab_queue_notification_text_plural) : The
+     formatD is replaced with the number of tabs queued.  The
+     number of tabs queued is always more than one.  We can't use
+     Android plural forms, sadly. See Bug #753859. -->
+<!ENTITY tab_queue_notification_text_plural "&formatD; pestañas en cola">
+<!-- Localization note (tab_queue_notification_title_plural) : This is the
+     title of a notification; we expect more than one tab queued. -->
+<!ENTITY tab_queue_notification_title_plural "Pestañas en cola">
+<!-- Localization note (tab_queue_notification_title_singular) : This is the
+     title of a notification; we expect only one tab queued. -->
+<!ENTITY tab_queue_notification_title_singular "Pestañá en cola">
+<!-- Localization note (tab_queue_notification_text_singular) : This is the
+     text of a notification; we expect only one tab queued. -->
+<!ENTITY tab_queue_notification_text_singular "1 pestaña en cola">
 
 <!ENTITY pref_char_encoding "Codificación de caracteres">
 <!ENTITY pref_char_encoding_on "Mostrar menú">

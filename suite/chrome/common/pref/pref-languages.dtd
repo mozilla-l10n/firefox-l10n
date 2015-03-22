@@ -18,10 +18,10 @@
 <!ENTITY languages.customize.active.accesskey           "I">
 <!ENTITY languages.customize.others.label               "Otros:">
 <!ENTITY languages.customize.others.accesskey           "O">
-<!ENTITY languages.customize.Fallback.grouplabel        "Codificación de caracteres para contenido antiguo">
-<!ENTITY languages.customize.Fallback.label             "Codificación de caracteres de emergencia:">
-<!ENTITY languages.customize.Fallback.accesskey         "C">
-<!ENTITY languages.customize.Fallback.desc              "Usada para contenido antiguo que falla al declarar su codificación.">
+<!ENTITY languages.customize.Fallback2.grouplabel       "Codificación de texto para contenido antiguo">
+<!ENTITY languages.customize.Fallback2.label            "Codificación de texto de emergencia:">
+<!ENTITY languages.customize.Fallback2.accesskey        "C">
+<!ENTITY languages.customize.Fallback2.desc             "Usada para contenido antiguo que falla al declarar su codificación.">
 
 <!-- LOCALIZATION NOTE  Character Encoding Preferences Dialog: Do NOT localize the terms "en-bz, ar-jo"  -->
 <!ENTITY languages.customize.others.examples            "ejem.: en-bz, ar-jo">
