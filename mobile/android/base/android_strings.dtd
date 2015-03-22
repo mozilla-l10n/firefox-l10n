@@ -184,6 +184,9 @@
 <!ENTITY pref_donottrack_title "Funkcia Do not track">
 <!ENTITY pref_donottrack_summary "&brandShortName; požiada webové stránky, aby nesledovali vašu aktivitu">
 
+<!ENTITY tab_queue_toast_message "Otvoriť neskôr">
+<!ENTITY tab_queue_toast_action "Otvoriť teraz">
+
 <!ENTITY pref_char_encoding "Kódovanie znakov">
 <!ENTITY pref_char_encoding_on "Zobrazovať ponuku">
 <!ENTITY pref_char_encoding_off "Nezobrazovať ponuku">
