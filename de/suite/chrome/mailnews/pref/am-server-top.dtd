@@ -55,9 +55,9 @@
 <!ENTITY expungeOnExit.accesskey "x">
 <!ENTITY emptyTrashOnExit.label "Papierkorb beim Verlassen leeren">
 <!ENTITY emptyTrashOnExit.accesskey "o">
-<!ENTITY loginAtStartup.label "Beim Starten auf neue Mail prüfen"> 
+<!ENTITY loginAtStartup.label "Beim Starten auf neue Mail prüfen">
 <!ENTITY loginAtStartup.accesskey "e">
-<!-- LOCALIZATION NOTE (maxMessagesStart.label) : translate below 2 lines with grammar dependency 
+<!-- LOCALIZATION NOTE (maxMessagesStart.label) : translate below 2 lines with grammar dependency
     maxMessengerStart.label will be followed by maxMessagesEnd.label with the number
 	 of messages between them
 -->
@@ -73,7 +73,7 @@
 <!ENTITY abbreviateOn.label "Vollen Namen (zum Beispiel 'netscape.public.mozilla.mail-news')">
 <!ENTITY abbreviateOff.label "Abgekürzten Namen (zum Beispiel 'n.p.m.mail-news')">
 <!ENTITY advancedButton.label "Erweitert…">
-<!ENTITY serverDefaultCharset.label "Standard-Zeichensatz:">
+<!ENTITY serverDefaultCharset2.label "Standard-Textkodierung">
 <!ENTITY advancedButton.accesskey "E">
 <!ENTITY localPath.label "Lokaler Ordner:">
 <!ENTITY localFolderPicker.label "Lokalen Ordner wählen">
@@ -86,5 +86,5 @@
 <!ENTITY accountSettingsDesc.label "Der folgende ist ein spezieller Account. Mit ihm sind keine Identitäten verbunden.">
 <!ENTITY storeType.label "Typ des Nachrichtenspeichers:">
 <!ENTITY storeType.accesskey "T">
-<!ENTITY mboxStore.label "Eine große Datei (mbox)">
+<!ENTITY mboxStore2.label "Datei pro Ordner (mbox)">
 <!ENTITY maildirStore.label "Datei pro Nachricht (maildir)">

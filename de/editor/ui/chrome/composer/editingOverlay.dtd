@@ -15,8 +15,8 @@
 <!ENTITY saveCmd.accesskey "S">
 <!ENTITY saveAsCmd.label "Speichern unter…">
 <!ENTITY saveAsCmd.accesskey "S">
-<!ENTITY saveAsChangeEncodingCmd.label "Zeichensatz speichern und ändern">
-<!ENTITY saveAsChangeEncodingCmd.accesskey "Z">
+<!ENTITY saveAsChangeEncodingCmd2.label "Textkodierung speichern und ändern">
+<!ENTITY saveAsChangeEncodingCmd2.accesskey "T">
 <!ENTITY publishCmd.label "Publizieren">
 <!ENTITY publishCmd.accesskey "P">
 <!ENTITY publishCmd.key "S">

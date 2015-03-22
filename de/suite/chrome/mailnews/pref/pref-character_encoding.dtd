@@ -2,16 +2,16 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY pref.character.encoding.title   "Zeichensatz">
+<!ENTITY pref.character.encoding2.title  "Textkodierung">
 <!ENTITY messageDisplay.caption          "Nachrichtenansicht">
-<!ENTITY viewFallbackCharset.label       "Rückfall-Zeichenkodierung:">
-<!ENTITY viewFallbackCharset.accesskey   "R">
+<!ENTITY viewFallbackCharset2.label      "Rückfall-Textkodierung">
+<!ENTITY viewFallbackCharset2.accesskey  "R">
 <!ENTITY viewFallbackCharset.desc        "(Wird für veraltete Inhalte verwendet, die keine Kodierung deklarieren.)">
 
 <!ENTITY composingMessages.caption       "Nachrichten verfassen">
 <!ENTITY useMIME.label                   "Für Nachrichten, die 8-bit-Zeichen verwenden, &quot;Quoted Printable&quot;-MIME-Kodierung verwenden. Lassen Sie diese Option ausgeschaltet, um die Nachricht wie vorhanden zu senden.">
 <!ENTITY useMIME.accesskey               "F">
-<!ENTITY sendDefaultCharset.label        "Standard-Zeichensatz:">
-<!ENTITY sendDefaultCharset.accesskey    "Z">
-<!ENTITY replyInDefaultCharset2.label    "Wenn möglich, diesen Standard-Zeichensatz in Antworten verwenden. (Wird dies nicht ausgewählt, so verwenden nur neue Nachrichten diesen Standard.)">
-<!ENTITY replyInDefaultCharset2.accesskey "W">
+<!ENTITY sendDefaultCharset2.label       "Standard-Textkodierung:">
+<!ENTITY sendDefaultCharset2.accesskey   "S">
+<!ENTITY replyInDefaultCharset3.label    "Wenn möglich, die Standard-Textkodierung in Antworten verwenden. (Wenn nicht angewählt, verwenden nur neue Nachrichten diesen Standard.)">
+<!ENTITY replyInDefaultCharset3.accesskey "W">

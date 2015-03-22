@@ -7,10 +7,10 @@
 <!-- This button is for the progressive disclosure of additional editing functionality -->
 
 <!-- These strings are for use specifically in the editor's link dialog. -->
-<!ENTITY windowTitle.label "Zeichensatz speichern und ändern">
+<!ENTITY windowTitle2.label "Textkodierung speichern und ändern">
 <!ENTITY documentTitleTitle.label "Seitentitel">
-<!ENTITY documentCharsetTitle.label "Zeichensatz">
-<!ENTITY documentCharsetDesc.label "Wählen Sie den Zeichensatz, in dem ein Dokument gespeichert werden soll:">
+<!ENTITY documentCharsetTitle2.label "Textkodierung">
+<!ENTITY documentCharsetDesc2.label "Wählen Sie die Textkodierung, mit der das Dokument gespeichert werden soll:">
 <!ENTITY documentExportToText.label "Als Text exportieren">
 
 
