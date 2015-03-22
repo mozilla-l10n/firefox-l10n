@@ -149,7 +149,9 @@
      etc).  The account remains a "Firefox" account. -->
 <!ENTITY fxaccount_create_account_header2 'Firefox 계정 만들기'>
 <!ENTITY fxaccount_create_account_password_length_restriction '적어도 8자 이상이어야 함'>
-<!ENTITY fxaccount_create_account_year_of_birth '출생 연도'>
+<!ENTITY fxaccount_create_account_day_of_birth '일'>
+<!ENTITY fxaccount_create_account_month_of_birth '월'>
+<!ENTITY fxaccount_create_account_year_of_birth '출생년도'>
 <!-- Localization note: &formatS1; is fxaccount_policy_linktos, &formatS2; is fxaccount_policy_linkprivacy, both hyperlinked. -->
 <!ENTITY fxaccount_create_account_policy_text2 'Firefox 클라우드 서비스의 &formatS1;과 &formatS2;에 동의합니다.'>
 <!ENTITY fxaccount_create_account_button '다음'>
@@ -206,7 +208,6 @@
 <!ENTITY fxaccount_status_needs_upgrade '로그인 하려면 &brandShortName;를 업그레이드 해야 합니다.'>
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled '&syncBrand.shortName.label;가 설치되었지만 자동으로 동기화되지는 않습니다. 안드로이드 환경 설정 &gt; 데이터 사용에서 \"데이터 자동 동기화\"를 활성화하세요.'>
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled_v21 '&syncBrand.shortName.label;가 설치되었지만, 자동으로 동기화되지는 않습니다. 안드로이드 환경 설정 &gt; 계정에서 “데이터 자동 동기화”를 활성화하세요.'>
-<!ENTITY fxaccount_status_needs_account_enabled '&syncBrand.shortName.label;가 설치되었지만 자동으로 동기화 되지 않았습니다. 동기화를 시작하려면 탭하세요.'>
 <!ENTITY fxaccount_status_needs_finish_migrating '새 Firefox 계정을 로그인하세요.'>
 <!ENTITY fxaccount_status_bookmarks '북마크'>
 <!ENTITY fxaccount_status_history '방문 기록'>
