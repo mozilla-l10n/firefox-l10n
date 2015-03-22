@@ -44,6 +44,8 @@
 <!-- LOCALIZATION NOTE (netmonitorUI.toolbar.transferred): This is the label displayed
   -  in the network table toolbar, above the "transferred" column, which is the
   -  compressed / encoded size. -->
+
+<!ENTITY netmonitorUI.toolbar.transferred "Transferituta">
 <!-- LOCALIZATION NOTE (netmonitorUI.toolbar.size): This is the label displayed
   -  in the network table toolbar, above the "size" column, which is the
   -  uncompressed / decoded size. -->
@@ -201,6 +203,8 @@
 <!ENTITY netmonitorUI.timings.receive     "Jasotzen:">
 <!-- LOCALIZATION NOTE (netmonitorUI.security.warning.protocol): A tooltip
   -  for warning icon that indicates a connection uses insecure protocol. -->
+
+<!ENTITY netmonitorUI.security.warning.sslv3      "SSL 3.0 protokoloa zaharkituta dago eta ez-segurua da.">
 <!-- LOCALIZATION NOTE (netmonitorUI.security.warning.cipher): A tooltip
   -  for warning icon that indicates a connection uses insecure cipher suite. -->
 <!-- LOCALIZATION NOTE (netmonitorUI.security.error): This is the label displayed

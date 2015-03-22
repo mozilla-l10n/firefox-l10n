@@ -35,13 +35,15 @@
 <!ENTITY helpFeedbackPage.label      "Bidali iritzia…">
 <!ENTITY helpFeedbackPage.accesskey  "d">
 
-
+<!ENTITY helpShowTour2.label            "&brandShortName;(r)en itzulia">
+<!ENTITY helpShowTour2.accesskey        "u">
 
 <!ENTITY preferencesCmdMac.label        "Hobespenak…">
 <!ENTITY preferencesCmdMac.commandkey   ",">
 
 <!ENTITY servicesMenuMac.label          "Zerbitzuak">
 
+<!ENTITY hideThisAppCmdMac2.label       "Ezkutatu &brandShortName;">
 <!ENTITY hideThisAppCmdMac2.commandkey  "H">
 
 <!ENTITY hideOtherAppsCmdMac.label      "Ezkutatu besteak">

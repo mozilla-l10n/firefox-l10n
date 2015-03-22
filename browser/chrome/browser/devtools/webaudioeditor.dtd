@@ -44,6 +44,10 @@
 <!ENTITY webAudioEditorUI.propertiesEmpty "Nodoak ez dauka propietaterik.">
 <!-- LOCALIZATION NOTE (webAudioEditorUI.automationEmpty): This is the title for the
   -  AudioNode inspector view automation tab empty message. -->
+
+<!ENTITY webAudioEditorUI.automationEmpty "Nodoak ez dauka 'AudioParam'ik.">
 <!-- LOCALIZATION NOTE (webAudioEditorUI.automationNoEvents): This is the title for the
   -  AudioNode inspector view automation tab message when there are no automation
   -  events. -->
+
+<!ENTITY webAudioEditorUI.automationNoEvents "'AudioParam'ek ez dauka automatizazio-gertaerarik.">
