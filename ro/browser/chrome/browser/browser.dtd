@@ -510,8 +510,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY castVideoCmd.accesskey       "e">
 <!ENTITY emailAudioCmd.label          "Trimite e-mail cu fișierul audio…">
 <!ENTITY emailAudioCmd.accesskey      "a">
-<!ENTITY playPluginCmd.label          "Activați plugin">
-<!ENTITY playPluginCmd.accesskey      "g">
+<!ENTITY playPluginCmd.label          "Activează acest modul">
+<!ENTITY playPluginCmd.accesskey      "c">
 <!ENTITY hidePluginCmd.label          "Ascunde acest modul">
 <!ENTITY hidePluginCmd.accesskey      "l">
 <!ENTITY copyLinkCmd.label            "Copiază adresa legăturii">
@@ -790,7 +790,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY pluginActivateNow.label "Permite acum">
 <!ENTITY pluginActivateAlways.label "Permite și ține minte">
-<!ENTITY pluginBlockNow.label "Blocare plugin">
+<!ENTITY pluginBlockNow.label "Blochează modulul">
 <!-- LOCALIZATION NOTE: (pluginNotification.width): This is used to determine the
      width of the plugin popup notification that can appear if a plugin has been
      blocked on a page. Should be wide enough to fit the pluginActivateNow.label
@@ -834,7 +834,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY processHang.terminateScript.accessKey    "s">
 <!ENTITY processHang.debugScript.label            "Depanare script">
 <!ENTITY processHang.debugScript.accessKey        "D">
-<!ENTITY processHang.terminatePlugin.label        "Oprire modul">
+<!ENTITY processHang.terminatePlugin.label        "Oprește modulul">
 <!ENTITY processHang.terminatePlugin.accessKey    "p">
 <!ENTITY processHang.terminateProcess.label       "Oprește procesul web">
 <!ENTITY processHang.terminateProcess.accessKey   "w">
