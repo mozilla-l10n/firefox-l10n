@@ -13,7 +13,11 @@
 <!ENTITY update.applyButtonBillboard.label        "Կիրառել թարմացումը…">
 <!ENTITY update.applyButtonBillboard.accesskey    "Կ">
 <!-- LOCALIZATION NOTE (warningDesc.version): This is a warning about the experimental nature of Nightly and Aurora builds. It is only shown in those versions. -->
+
+
+<!ENTITY warningDesc.version        "&brandShortName;-ն փորձնական է և կայուն չի աշխատի:">
 <!-- LOCALIZATION NOTE (warningDesc.telemetryDesc): This is a notification that Nightly/Aurora builds automatically send Telemetry data back to Mozilla. It is only shown in those versions. "It" refers to brandShortName. -->
+<!ENTITY warningDesc.telemetryDesc  "Միանգամից ուղարկում է տեղեկատվություն սարքակազմի, օգտագործման և կարգավորումների մասին &vendorShortName;-ին՝ &brandShortName;-ն էլ ավելի լավը դարձնելու համար:">
 <!-- LOCALIZATION NOTE (community.exp.*) This paragraph is shown in "experimental" builds, i.e. Nightly and Aurora builds, instead of the other "community.*" strings below. -->
 
 <!ENTITY community.exp.start        "">
