@@ -3,6 +3,8 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY addressbookWindow.title "Rubrica">
+<!ENTITY blankResultsPaneMessage.label "Questa rubrica mostrerà i contatti solo dopo una ricerca">
+<!ENTITY localResultsOnlyMessage.label "I contatti da rubriche remote non sono mostrati fino a quando non si effettua una ricerca">
 <!ENTITY fileMenu.label "File">
 <!ENTITY fileMenu.accesskey "f">
 <!ENTITY newMenu.label "Nuovo">
@@ -137,6 +139,8 @@
 <!ENTITY advancedButton.tooltip "Ricerca avanzata">
 <!ENTITY quickSearchCmd.key "k">
 <!ENTITY searchItem.title "Ricerca veloce">
+<!ENTITY Addrbook.label "Rubrica">
+<!ENTITY Addrbook.accesskey "u">
 <!ENTITY GeneratedName.label "Nome">
 <!ENTITY GeneratedName.accesskey "N">
 <!ENTITY PrimaryEmail.label "Email">
