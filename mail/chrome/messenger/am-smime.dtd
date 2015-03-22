@@ -7,7 +7,7 @@
 <!ENTITY securityHeading.label "Pentru a trimite și primi mesaje semnate digital sau criptate, ar trebui să specificați un certificat pentru semnătură digitală precum și unul pentru criptare.">
 <!ENTITY encryptionGroupTitle.label "Criptare">
 <!ENTITY encryptionChoiceLabel.label "Modul de criptare implicit la trimiterea mesajelor:">
-<!ENTITY neverEncrypt.label "Nu cripta">
+<!ENTITY neverEncrypt.label "Niciodată (nu folosi criptarea)">
 <!ENTITY neverEncrypt.accesskey "N">
 <!ENTITY alwaysEncryptMessage.label "Criptează întotdeauna (mesajul se trimite doar dacă toți destinatarii au certificate)">
 <!ENTITY alwaysEncryptMessage.accesskey "u">
