@@ -5,6 +5,7 @@
 <!ENTITY itemGeneral.label "Generale">
 <!ENTITY itemAutoComplete.label "Indirizzi">
 <!ENTITY itemSpellCheck.label "Ortografia">
+<!ENTITY dialogCompose.title "Composizione">
 <!ENTITY forwardMsg.label "Inoltra i messaggi:">
 <!ENTITY forwardMsg.accesskey "I">
 <!ENTITY inline.label "nel corpo del messaggio">

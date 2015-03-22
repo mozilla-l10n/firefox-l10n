@@ -5,20 +5,30 @@
 <!ENTITY update.updateButton.accesskey "R">
 <!ENTITY update.applyButtonBillboard.label "Installa aggiornamento…">
 <!ENTITY update.applyButtonBillboard.accesskey "I">
+<!ENTITY warningDesc.version "&brandShortName; è sperimentale e può essere instabile.">
+<!ENTITY warningDesc.telemetryDesc "Invia informazioni sulle prestazioni, sull'hardware, sull'uso e sulle personalizzazioni a &vendorShortName; per contribuire a migliorare &brandShortName;.">
+<!ENTITY community.exp.start "">
+<!ENTITY community.exp.mozillaLink "&vendorShortName;">
+<!ENTITY community.exp.middle " è una ">
+<!ENTITY community.exp.creditsLink "comunità mondiale">
+<!ENTITY community.exp.end " che lavora per mantenere il Web aperto, pubblico e accessibile a tutti.">
 <!ENTITY community.start2 "&brandShortName; è progettato da ">
 <!ENTITY community.mozillaLink "&vendorShortName;">
 <!ENTITY community.middle2 ", una ">
 <!ENTITY community.creditsLink "comunità mondiale">
-<!ENTITY community.end2 " che lavora insieme per rendere Internet migliore. Noi crediamo che Internet debba essere aperto, pubblico e accessibile a tutti senza alcuna restrizione.">
-<!ENTITY contribute.start "Ti sembra interessante? ">
-<!ENTITY contribute.getInvolvedLink "Collabora con noi">
-<!ENTITY contribute.end "">
+<!ENTITY community.end3 " che lavora per mantenere il Web aperto, pubblico e accessibile a tutti.">
+<!ENTITY helpus.start "Desideri aiutare?">
+<!ENTITY helpus.donateLink "Fai una donazione">
+<!ENTITY helpus.middle " o ">
+<!ENTITY helpus.getInvolvedLink "collabora con noi!">
+<!ENTITY helpus.end "">
 <!ENTITY bottomLinks.license "Informazioni sulla licenza">
 <!ENTITY bottomLinks.rights "Diritti dell'utente finale">
 <!ENTITY bottomLinks.privacy "Informativa sulla privacy">
 <!ENTITY update.checkingForUpdates "Controllo aggiornamenti…">
 <!ENTITY update.noUpdatesFound "&brandShortName; è aggiornato">
 <!ENTITY update.adminDisabled "Aggiornamenti disabilitati dall'amministratore di sistema">
+<!ENTITY update.otherInstanceHandlingUpdates "È in corso l'aggiornamento di &brandShortName; da parte di un'altra istanza">
 <!ENTITY update.failed.start "Aggiornamento non riuscito. ">
 <!ENTITY update.failed.linkText "Scaricare l'ultima versione">
 <!ENTITY update.failed.end "">
@@ -31,6 +41,6 @@
 <!ENTITY update.downloading.start "Ricezione aggiornamento — ">
 <!ENTITY update.downloading.end "">
 <!ENTITY update.applying "Installazione aggiornamento…">
-<!ENTITY channel.description.start "Canale di aggiornamento attuale: ">
-<!ENTITY channel.description.end ". ">
+<!ENTITY channel.description.start "Ci si trova nel ">
+<!ENTITY channel.description.end ".  canale di aggiornamento. ">
 <!ENTITY cmdCloseMac.commandKey "w">
