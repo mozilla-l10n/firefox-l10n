@@ -59,7 +59,7 @@
 <!ENTITY menu "Ցանկ">
 <!ENTITY back "Նախորդը">
 <!ENTITY stop "Կանգնեցնել">
-<!ENTITY site_security "Կայքի անվտանգությունը">
+<!ENTITY site_security "Կայքի գաղտնիությունը">
 <!ENTITY edit_mode_cancel "Չեղարկել">
 
 <!ENTITY close_tab "Փակել ներդիրը">
@@ -78,7 +78,7 @@
 <!ENTITY settings_title "Կարգավորումներ">
 <!ENTITY pref_category_advanced "Լրացուցիչ">
 <!ENTITY pref_category_customize "Կարգավորումներ">
-<!ENTITY pref_category_customize_summary "Տուն, որոնել, ներդիրներ, ներմուծել">
+<!ENTITY pref_category_customize_summary "Տուն, որոնում, ներդիրներ, ներմուծում">
 <!-- Localization note (pref_category_language) : This is the preferences
      section in which the user picks the locale in which to display Firefox
      UI. The locale includes both language and region concepts. -->
@@ -117,9 +117,9 @@
 
 <!ENTITY pref_category_search3 "Որոնում">
 <!ENTITY pref_category_search_summary "Կարգավորել որոնիչները">
-<!ENTITY pref_category_display "Տեսքը">
+<!ENTITY pref_category_display "Ցուցադրիչ">
 <!ENTITY pref_category_display_summary "Տեքստ, գլխագիր, լիաէկրան դիտարկում">
-<!ENTITY pref_category_privacy_short "Անվտանգությունը">
+<!ENTITY pref_category_privacy_short "Գաղտնիություն">
 <!ENTITY pref_category_privacy_summary "Կառավարել գաղտնաբառերը, cookie-ները, տվյալները">
 <!ENTITY pref_category_vendor "&vendorShortName;">
 <!ENTITY pref_category_vendor_summary "&brandShortName;-ի մասին, ՀՏՀ, տվյալների ընտրություն">
@@ -151,24 +151,24 @@
      The &formatS; will be replaced with the name of the new panel the user just
      selected to be added to the home page. -->
 <!ENTITY home_add_panel_installed "\u0027&formatS;\u0027 ավելացվել է Գլխավոր էջում">
-<!ENTITY pref_category_home_content_settings "Բովանդակությունը">
+<!ENTITY pref_category_home_content_settings "Բովանդակություն">
 <!ENTITY pref_home_updates "Ինքնաշխատ թարմացումներ">
-<!ENTITY pref_home_updates_enabled "Միացրած">
+<!ENTITY pref_home_updates_enabled "Միացնել">
 <!ENTITY pref_home_updates_wifi "Միայն Wi-Fi-ով">
 <!ENTITY pref_home_suggested_sites "Ցուցադրել կայքի առաջարկները">
 <!ENTITY pref_home_suggested_sites_summary "Ցուցադրե՞լ էկրանին այն կայքերի կարճատները, որոնք կարող են Ձեզ հետաքրքրել:">
 <!-- Localization note: These are shown in the left sidebar on tablets -->
 
 <!ENTITY pref_header_customize "Կարգավորումներ">
-<!ENTITY pref_header_display "Տեսքը">
-<!ENTITY pref_header_privacy_short "Անվտանգությունը">
+<!ENTITY pref_header_display "Ցուցադրիչ">
+<!ENTITY pref_header_privacy_short "Գաղտնիություն">
 <!ENTITY pref_header_help "Օգնություն">
 <!ENTITY pref_header_language "Լեզուն">
 <!ENTITY pref_header_vendor "&vendorShortName;">
 <!ENTITY pref_header_devtools "Ծրագրավորողի գործիքներ">
 
 <!ENTITY pref_cookies_menu "Cookie-ներ">
-<!ENTITY pref_cookies_accept_all "Միացրած">
+<!ENTITY pref_cookies_accept_all "Միացնել">
 <!ENTITY pref_cookies_not_accept_foreign "Միացնել՝ բացառելով կողմնակի կայքերը">
 <!ENTITY pref_cookies_disabled "Անջատել">
 
@@ -186,7 +186,7 @@
 <!ENTITY pref_clear_on_exit_summary2 "&brandShortName;-ը ինքնավար կմաքրի բոլոր տվյալները, երբ հիմնական ցանկից ընտրեք   \u0022Փակել\u0022">
 <!ENTITY pref_clear_on_exit_dialog_title "Նշեք, թե որ տվյալներն են մաքրվելու">
 <!ENTITY pref_plugins "Բաղադիրներ">
-<!ENTITY pref_plugins_enabled "Միացրած">
+<!ENTITY pref_plugins_enabled "Միացնել">
 <!ENTITY pref_plugins_tap_to_play "Ակտիվացնել սեղմելիս">
 <!ENTITY pref_plugins_disabled "Անջատել">
 <!ENTITY pref_text_size "Տեքստի չափը">
@@ -236,7 +236,7 @@ size. -->
 <!ENTITY pref_vendor_faqs "ՀՏՀ">
 <!ENTITY pref_vendor_feedback "Ձեր Արձագանքը">
 
-<!ENTITY pref_dialog_set_default "Օգտագործել լռելյայնը">
+<!ENTITY pref_dialog_set_default "Օգտագործել լռելյայն">
 <!ENTITY pref_dialog_default "Լռելյայն">
 <!ENTITY pref_dialog_remove "Ջնջել">
 
@@ -366,6 +366,10 @@ size. -->
 <!ENTITY site_settings_no_settings  "Մաքրելու համար կարգավորում չկա:">
 
 <!ENTITY reading_list_added "Էջը ավելացվել է Ընթերցացուցակում">
+<!ENTITY reading_list_removed "Էջը հեռացվել է Ընթերցացուցակից">
+<!-- Localization note (reading_list_remove) : Used to remove the currently open page from
+     the user's reading list. The opposite of overlay_share_reading_list_btn_label. -->
+<!ENTITY reading_list_remove "Հեռացնել Ընթերցացուցակից">
 <!ENTITY reading_list_duplicate "Էջը արդեն Ընթերցացուցակում է">
 <!-- Localization note (reading_list_time_minutes2) : This string is used in the "Reading List"
      panel on the home page to give the user an estimate of how many minutes it will take to
@@ -459,7 +463,7 @@ size. -->
 <!ENTITY remote_tabs_panel_moved_desc "Մենք տեղափոխել եք ձեր ներդիրները այլ սարքերից մեկնարկային էջի վահանակ՝ ամեն անգամնոր ներդիր բացելիս դրանց արագ մուտք ունենալու համար: ">
 <!ENTITY remote_tabs_panel_moved_link "Տա՛ր ինձ նոր վանահակ:">
 
-<!ENTITY pin_site_dialog_hint "Գրեք, թե ինչ փնտրել">
+<!ENTITY pin_site_dialog_hint "Գրեք, թե ինչ որոնել">
 
 <!ENTITY filepicker_title "Ընտրել Ֆայլը">
 <!ENTITY filepicker_audio_title "Ընտրեք կամ ձայնագրեք">
@@ -542,7 +546,7 @@ Android-ից">
 <!ENTITY guest_session_dialog_cancel "Չեղարկել">
 <!ENTITY new_guest_session_title "&brandShortName;-ը կվերամեկնարկի">
 <!ENTITY new_guest_session_text "Սա օգտագործող անձը չի կարողանա տեսնել ձեր դիտարկման որևէ տվյալ (օրինակ՝ պահված գաղտնաբառերը, պատմությունը կամ էջանիշերը)։\n\nՀյուրի աշխատանքից հետո դիտարկման բոլոր տվյալները կջնջվեն և ձեր աշխատաշրջանը կվերականգնվի։">
-<!ENTITY guest_browsing_notification_title "Միացրած է Հյուրի աշխատաշրջանը">
+<!ENTITY guest_browsing_notification_title "Միացված է Հյուրի աշխատաշրջանը">
 <!ENTITY guest_browsing_notification_text "Դիպչեք՝ դուրս գալու համար">
 
 <!ENTITY exit_guest_session_title "&brandShortName;-ը կվերամեկնարկի">

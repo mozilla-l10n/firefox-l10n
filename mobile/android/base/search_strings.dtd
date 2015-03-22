@@ -8,7 +8,7 @@
 
 <!ENTITY search_bar_hint "Որոնում &formatS;-ով">
 
-<!ENTITY search_empty_title2 "Սկսել որոնել">
+<!ENTITY search_empty_title2 "Սկսել որոնումը">
 <!ENTITY search_empty_message "Արագորեն գտնել այն, ինչ փնտրում եք">
 <!--  Localization note (search_plus_content_description): This is the content description
       for the "+" icon that appears at the end of search suggestions. -->
