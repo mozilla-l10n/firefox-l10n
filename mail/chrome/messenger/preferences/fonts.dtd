@@ -6,29 +6,25 @@
 <!ENTITY language.label "Шрифты для набора символов:">
 <!ENTITY language.accesskey "ф">
 <!ENTITY size.label "Размер:">
-<!ENTITY proportionalSize.accesskey "м">
-<!ENTITY sizeMono.accesskey "з">
+<!ENTITY sizeProportional.accesskey "з">
+<!ENTITY sizeMonospace.accesskey "м">
 <!ENTITY proportional.label "Пропорциональный:">
 <!ENTITY proportional.accesskey "р">
 <!ENTITY serif.label "С засечками:">
-<!ENTITY serif.accesskey "з">
+<!ENTITY serif.accesskey "а">
 <!ENTITY sans-serif.label "Без засечек:">
 <!ENTITY sans-serif.accesskey "з">
 <!ENTITY monospace.label "Моноширинный:">
-<!ENTITY monospace.accesskey "н">
-<!ENTITY font.langGroup.latin1 "Западноевропейский">
-<!ENTITY font.langGroup.latin2 "Центральноевропейский">
+<!ENTITY monospace.accesskey "ш">
+<!ENTITY font.langGroup.latin "Латиница">
 <!ENTITY font.langGroup.japanese "Японский">
 <!ENTITY font.langGroup.trad-chinese "Традиционный китайский (Тайвань)">
 <!ENTITY font.langGroup.simpl-chinese "Упрощённый китайский">
 <!ENTITY font.langGroup.trad-chinese-hk "Традиционный китайский (Гонконг)">
 <!ENTITY font.langGroup.korean "Корейский">
 <!ENTITY font.langGroup.cyrillic "Кириллица">
-<!ENTITY font.langGroup.baltic "Прибалтийский">
 <!ENTITY font.langGroup.el "Греческий">
-<!ENTITY font.langGroup.turkish "Турецкий">
-<!ENTITY font.langGroup.unicode1 "Юникод">
-<!ENTITY font.langGroup.user-def "Определяется пользователем">
+<!ENTITY font.langGroup.other "Другие системы письменности">
 <!ENTITY font.langGroup.thai "Тайский">
 <!ENTITY font.langGroup.hebrew "Иврит">
 <!ENTITY font.langGroup.arabic "Арабский">
@@ -43,6 +39,11 @@
 <!ENTITY font.langGroup.gurmukhi "Гурмуки">
 <!ENTITY font.langGroup.khmer "Кхмерский">
 <!ENTITY font.langGroup.malayalam "Малайялам">
+<!ENTITY font.langGroup.oriya "Ория">
+<!ENTITY font.langGroup.telugu "Телугу">
+<!ENTITY font.langGroup.kannada "Каннада">
+<!ENTITY font.langGroup.sinhala "Сингальский">
+<!ENTITY font.langGroup.tibetan "Тибетский">
 <!ENTITY minSize.label "Наименьший размер шрифта:">
 <!ENTITY minSize.accesskey "е">
 <!ENTITY minSize.none "Нет">
