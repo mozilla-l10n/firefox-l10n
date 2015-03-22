@@ -101,7 +101,7 @@
      "to bookmark", not the noun "a bookmark". -->
 
 <!ENTITY overlay_share_bookmark_btn_label "Egin laster-marka">
-<!ENTITY overlay_share_reading_list_btn_label "Gehitu irakurketa-zerrendara">
+<!ENTITY overlay_share_reading_list_btn_label "Gehitu irakurketa-zerrendan">
 <!ENTITY overlay_share_bookmark_btn_label_already "Dagoeneko laster-marketan">
 <!ENTITY overlay_share_reading_list_btn_label_already "Dagoeneko irakurketa-zerrendan">
 <!ENTITY overlay_share_send_other "Bidali beste gailuetara">
@@ -135,7 +135,7 @@
      search providers.
      The &formatI; in the string will be replaced by a small image of the icon described, and can be moved to wherever
      it is applicable. -->
-<!ENTITY pref_search_hint "Aholkua: Gehitu edozein webgune bilaketa-hornitzaileen zerrendara denbora luzez bere bilaketa-eremua sakatuz eta ondoren &formatI; ikonoan sakatuz.">
+<!ENTITY pref_search_hint "Aholkua: Gehitu edozein webgune bilaketa-hornitzaileen zerrendan denbora luzez bere bilaketa-eremua sakatuz eta ondoren &formatI; ikonoan sakatuz.">
 <!ENTITY pref_category_devtools "Garatzaile-tresnak">
 <!ENTITY pref_category_devtools_summary "Urruneko arazketa, margoketa distiratzea">
 <!ENTITY pref_developer_paint_flashing "Margoketa keinukaria">
@@ -214,7 +214,7 @@ size. -->
 <!ENTITY pref_media_autoplay_enabled "Baimendu auto-erreprodukzioa">
 <!ENTITY pref_media_autoplay_enabled_summary "Kontrolatu webguneek bideoak eta bestelako multimedia-edukiak automatikoki erreproduzi ditzaketen ala ez">
 <!ENTITY pref_zoom_force_enabled "Gaitu beti zooma">
-
+<!ENTITY pref_zoom_force_enabled_summary "Behartu gainidazketa edozein orritan zooma erabili ahal izateko">
 
 <!ENTITY pref_use_master_password "Erabili pasahitz nagusia">
 <!ENTITY pref_sync "Sync">
@@ -271,7 +271,7 @@ size. -->
      (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
 <!ENTITY datareporting_crashreporter_title_short "Hutsegiteen berriemailea">
 <!ENTITY datareporting_wifi_title2 "&vendorShortName; kokapen-zerbitzuak">
-
+<!ENTITY datareporting_wifi_geolocation_summary3 "Lagundu &vendorShortName;(r)i mundua mapeatzen! Partekatu zure gailuaren Wi-Fi eta mugikorraren kokapena gure geokokapen-zerbitzua hobetzeko">
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
      actual notification that an update is available. -->
@@ -365,7 +365,7 @@ size. -->
 <!ENTITY site_settings_clear        "Garbitu">
 <!ENTITY site_settings_no_settings  "Ez dago garbitzeko ezarpenik.">
 
-<!ENTITY reading_list_added "Orria irakurketa-zerrendara gehituta">
+<!ENTITY reading_list_added "Orria irakurketa-zerrendan gehituta">
 <!ENTITY reading_list_removed "Orria irakurketa-zerrendatik kendu da">
 <!-- Localization note (reading_list_remove) : Used to remove the currently open page from
      the user's reading list. The opposite of overlay_share_reading_list_btn_label. -->
@@ -555,6 +555,8 @@ Android-etik">
 <!-- LOCALIZATION NOTE (ellipsis): This text is appended to a piece of text that does not fit in the
      designated space. Use the unicode ellipsis char, \u2026, or use "..." if \u2026 doesn't suit
      traditions in your locale. -->
+
+<!ENTITY ellipsis "…">
 
 <!ENTITY colon ":">
 <!-- These are only used for accessibility for the done and overflow-menu buttons in the actionbar.
