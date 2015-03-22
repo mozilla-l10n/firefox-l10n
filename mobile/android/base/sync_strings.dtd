@@ -34,7 +34,7 @@
 <!ENTITY sync.input.key.label                'Taastamise võti'>
 <!ENTITY sync.checkbox.server.label          'Kasutatakse kohandatud serverit'>
 <!ENTITY sync.input.server.label             'Serveri URL'>
-  
+
 <!-- Setup Fail -->
 <!ENTITY sync.title.fail.label               '&syncBrand.shortName.label;i pole võimalik seadistada'>
 <!ENTITY sync.subtitle.fail.label            '&syncBrand.fullName.label; ei saanud serveriga ühendust. Kas soovid uuesti proovida?'>
@@ -43,7 +43,7 @@
 <!ENTITY sync.subtitle.nointernet.label      'Internetiühendus puudub.'>
 <!ENTITY sync.subtitle.failaccount.label     'Konto loomine sinu seadmel ebaõnnestus.'>
 <!ENTITY sync.subtitle.failmultiple.label    'Kas oled paigaldanud rohkem kui ühe Firefoxi? Praegu toetab &syncBrand.fullName.label; ainult üht Firefoxi paigaldust korraga. &syncBrand.shortName.label;i kasutamiseks eemalda teised paigaldatud versioonid.'>
-  
+
 <!-- Setup Success -->
 <!ENTITY sync.title.success.label            'Seadistamine lõpetatud'>
 <!ENTITY sync.subtitle.success.label1        'Andmed laaditakse nüüd taustal alla. Võid avada sätted, et hallata oma kontot, või alustada &brandShortName;iga veebilehitsemist.'>
@@ -70,7 +70,7 @@
 <!ENTITY sync.button.cancel.label            'Loobu'>
 <!ENTITY sync.button.connect.label           'Ühenda'>
 <!ENTITY sync.button.ok.label                'Sobib'>
-  
+
 <!-- Account strings -->
 <!ENTITY sync.account.label                  '&syncBrand.fullName.label; (kasutamine taunitud)'>
 
@@ -150,6 +150,8 @@
      etc).  The account remains a "Firefox Account". -->
 <!ENTITY fxaccount_create_account_header2         'Firefoxi konto loomine'>
 <!ENTITY fxaccount_create_account_password_length_restriction 'Peab olema vähemalt 8 tähemärki pikk'>
+<!ENTITY fxaccount_create_account_day_of_birth    'Päev'>
+<!ENTITY fxaccount_create_account_month_of_birth  'Kuu'>
 <!ENTITY fxaccount_create_account_year_of_birth   'Sünniaasta'>
 <!-- Localization note: &formatS1; is fxaccount_policy_linktos, &formatS2; is fxaccount_policy_linkprivacy, both hyperlinked. -->
 <!ENTITY fxaccount_create_account_policy_text2    'Jätkamisega nõustud sa Firefoxi veebiteenuste tingimustega (&formatS1; ja &formatS2;).'>
@@ -207,7 +209,6 @@
 <!ENTITY fxaccount_status_needs_upgrade           'Sisselogimiseks pead uuendama &brandShortName;i.'>
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled '&syncBrand.shortName.label; on seadistatud, aga ei sünkroniseeri automaatselt. Ava Androidi seaded &gt; Andmekasutus ning lülita menüüst sisse “Andmete automaatne sünkroonimine”.'>
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled_v21 '&syncBrand.shortName.label; on seadistatud, aga ei sünkroniseeri automaatselt. Ava Androidi seaded &gt; Kontod ning lülita menüüst sisse “Andmete automaatne sünkroonimine”.'>
-<!ENTITY fxaccount_status_needs_account_enabled   '&syncBrand.shortName.label; on seadistatud, aga ei sünkroniseeri automaatselt. Sünkroniseerimise alustamiseks puuduta.'>
 <!ENTITY fxaccount_status_needs_finish_migrating  'Oma uude Firefoxi kontosse sisselogimiseks puuduta.'>
 <!ENTITY fxaccount_status_bookmarks               'järjehoidjad'>
 <!ENTITY fxaccount_status_history                 'ajalugu'>

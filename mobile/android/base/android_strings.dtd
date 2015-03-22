@@ -6,8 +6,8 @@
 <!ENTITY  no_space_to_start_error        "&brandShortName;i käivitamiseks pole piisavalt vaba ruumi.">
 <!ENTITY  error_loading_file             "Esines viga &brandShortName;i kasutamiseks vajalike failide laadimisel">
 
-<!ENTITY  onboard_start_message          "Tere tulemast &brandShortName;i!">
-<!ENTITY  onboard_start_subtext          "Oleme pühendunud sinule, sinu privaatsusele ja avatud veebile">
+<!ENTITY  onboard_start_message2         "Tere tulemast &brandShortName;i!">
+<!ENTITY  onboard_start_subtext2         "Rohkem privaatsust ja kohandamise võimalusi kui kunagi varem.">
 <!ENTITY  onboard_start_button_account   "Logi &brandShortName;i sisse">
 <!ENTITY  onboard_start_button_browser   "Alusta lehitsemist">
 
@@ -213,6 +213,8 @@ size. -->
 
 <!ENTITY pref_media_autoplay_enabled     "Automaatne esitamine">
 <!ENTITY pref_media_autoplay_enabled_summary "kas veebilehed tohivad videoid ja muud meediat automaatselt esitada?">
+<!ENTITY pref_zoom_force_enabled         "Suurendamine lubatakse alati">
+<!ENTITY pref_zoom_force_enabled_summary "suurendamine tehakse võimalikuks kõigil lehtedel">
 
 <!ENTITY pref_use_master_password        "Kasutatakse ülemparooli">
 <!ENTITY pref_sync                       "Sync">
@@ -269,7 +271,7 @@ size. -->
      (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd .-->
 <!ENTITY datareporting_crashreporter_title_short "Vigade raporteerimine">
 <!ENTITY datareporting_wifi_title2       "&vendorShortName; asukohateenus">
-<!ENTITY datareporting_wifi_geolocation_summary2 "Jagab sinu seadme Wi-Fi ja mobiilsidevõrkude tugijaamade abil tuvastatud umbkaudset asukohta &vendorShortName;ga, et parendada meie asukohateenust">
+<!ENTITY datareporting_wifi_geolocation_summary3 "Aita &vendorShortName;l kaardistada kogu maailm! Jaga oma seadme Wi-Fi ja mobiilsidevõrkude tugijaamade abil tuvastatud umbkaudset asukohta, et parandada meie asukohateenust">
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
      actual notification that an update is available. -->
@@ -344,7 +346,7 @@ size. -->
 <!-- Localization note (pref_scroll_title_bar2): Label for setting that controls
      whether or not the dynamic toolbar is enabled. -->
 <!ENTITY pref_scroll_title_bar2          "Üleekraaniline lehitsemine">
-<!ENTITY pref_scroll_title_bar_summary   "Kerimisel &brandShortName;i tiitliriba peidetakse">
+<!ENTITY pref_scroll_title_bar_summary   "kerimisel &brandShortName;i tiitliriba peidetakse">
 
 <!-- Localization note (page_removed): This string appears in a toast message when
      any page is removed frome about:home. This includes pages that are in history,
@@ -364,6 +366,10 @@ size. -->
 <!ENTITY site_settings_no_settings       "Puuduvad sätted, mida kustutada.">
 
 <!ENTITY reading_list_added              "Leht lisati lugemisnimekirja">
+<!ENTITY reading_list_removed            "Leht eemaldati lugemisnimekirjast">
+<!-- Localization note (reading_list_remove) : Used to remove the currently open page from
+     the user's reading list. The opposite of overlay_share_reading_list_btn_label. -->
+<!ENTITY reading_list_remove             "Eemalda lugemisnimekirjast">
 <!ENTITY reading_list_duplicate          "Leht on juba lugemisnimekirjas">
 
 <!-- Localization note (reading_list_time_minutes2) : This string is used in the "Reading List"
@@ -559,6 +565,13 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY actionbar_menu                  "Menüü">
 <!ENTITY actionbar_done                  "Valmis">
 
+<!-- Voice search in the awesome bar -->
+<!ENTITY voicesearch_prompt              "Räägi nüüd">
+<!ENTITY voicesearch_failed_title        "&brandShortName;i häälotsing">
+<!ENTITY voicesearch_failed_message      "Häälotsinguga esines probleem. Proovi hiljem uuesti.">
+<!ENTITY voicesearch_failed_message_recoverable "Vabandust! Me ei suutnud öeldut tuvastada. Palun proovi uuesti.">
+<!ENTITY voicesearch_failed_retry        "Proovi uuesti">
+
 <!-- Localization note (remote_tabs_last_synced): the variable is replaced by a
      "relative time span string" produced by Android.  This string describes the
      time the tabs were last synced relative to the current time; examples
@@ -566,6 +579,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      "Last synced" is one of the user's other Sync clients, typically Firefox on
      their desktop or laptop.-->
 <!ENTITY remote_tabs_last_synced         "Viimati sünkroniseeritud: &formatS;">
+<!-- Localization note: Used when the sync has not happend yet, showed in place of a date -->
+<!ENTITY remote_tabs_never_synced        "Viimati sünkroniseeritud: mitte kunagi">
 
 <!-- Find-In-Page strings -->
 <!-- LOCALIZATION NOTE (find_matchcase): This is meant to appear as an icon that changes color
