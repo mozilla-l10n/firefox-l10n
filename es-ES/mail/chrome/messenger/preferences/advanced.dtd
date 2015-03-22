@@ -14,7 +14,7 @@
 <!ENTITY allowHWAccel.accesskey "h">
 <!ENTITY storeType.label "Tipo de almacenamiento de mensajes para las nuevas cuentas:">
 <!ENTITY storeType.accesskey "T">
-<!ENTITY mboxStore.label "Un archivo grande (mbox)">
+<!ENTITY mboxStore2.label "Archivo por carpeta (mbox)">
 <!ENTITY maildirStore.label "Archivo por mensaje (maildir)">
 <!ENTITY scrolling.label "Desplazamiento">
 <!ENTITY useAutoScroll.label "Usar desplazamiento automático">
