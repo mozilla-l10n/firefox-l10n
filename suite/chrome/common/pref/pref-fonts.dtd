@@ -44,17 +44,17 @@
 <!ENTITY  font.langGroup.thai                     "泰文">
 <!ENTITY  font.langGroup.hebrew                   "希伯來文">
 <!ENTITY  font.langGroup.arabic                   "阿拉伯文">
-<!ENTITY  font.langGroup.devanagari               "天城體 (梵文)">
-<!ENTITY  font.langGroup.tamil                    "坦米爾語">
-<!ENTITY  font.langGroup.armenian                 "亞美尼亞語">
-<!ENTITY  font.langGroup.bengali                  "孟加拉語">
+<!ENTITY  font.langGroup.devanagari               "天城體（梵文）">
+<!ENTITY  font.langGroup.tamil                    "坦米爾文">
+<!ENTITY  font.langGroup.armenian                 "亞美尼亞文">
+<!ENTITY  font.langGroup.bengali                  "孟加拉文">
 <!ENTITY  font.langGroup.canadian                 "加拿大統一音節字">
-<!ENTITY  font.langGroup.ethiopic                 "衣索比亞語">
-<!ENTITY  font.langGroup.georgian                 "喬治亞語">
-<!ENTITY  font.langGroup.gujarati                 "古吉拉特語">
+<!ENTITY  font.langGroup.ethiopic                 "衣索比亞文">
+<!ENTITY  font.langGroup.georgian                 "喬治亞文">
+<!ENTITY  font.langGroup.gujarati                 "古吉拉特文">
 <!ENTITY  font.langGroup.gurmukhi                 "古魯穆奇字">
-<!ENTITY  font.langGroup.khmer                    "高棉語">
-<!ENTITY  font.langGroup.malayalam                "馬拉亞拉姆語">
+<!ENTITY  font.langGroup.khmer                    "高棉文">
+<!ENTITY  font.langGroup.malayalam                "馬拉亞拉姆文">
 <!-- Minimum font size -->
 <!ENTITY minSize.label                            "最小字型大小:">
 <!ENTITY minSize.accesskey                        "z">
