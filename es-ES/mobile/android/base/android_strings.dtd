@@ -127,6 +127,10 @@
 <!ENTITY pref_donottrack_summary "&brandShortName; indicará a los sitios que no quiere ser rastreado">
 <!ENTITY tab_queue_toast_message "Abrir más tarde">
 <!ENTITY tab_queue_toast_action "Abrir ahora">
+<!ENTITY tab_queue_notification_text_plural "&formatD; pestañas en cola">
+<!ENTITY tab_queue_notification_title_plural "Pestañas en cola">
+<!ENTITY tab_queue_notification_title_singular "Pestaña en cola">
+<!ENTITY tab_queue_notification_text_singular "1 pestaña en cola">
 <!ENTITY pref_char_encoding "Mostrar cod. de caract.">
 <!ENTITY pref_char_encoding_on "Mostrar el menú">
 <!ENTITY pref_char_encoding_off "No mostrar el menú">
