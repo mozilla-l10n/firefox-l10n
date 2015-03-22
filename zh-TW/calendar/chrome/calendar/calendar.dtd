@@ -203,7 +203,7 @@
 <!ENTITY progress.level.100            "已完成 100&percnt;">
 <!ENTITY progress.level.100.accesskey  "1">
 
-<!ENTITY priority.level.none                "尚未指定">
+<!ENTITY priority.level.none                "未指定">
 <!ENTITY priority.level.none.accesskey      "s">
 <!ENTITY priority.level.low                 "低">
 <!ENTITY priority.level.low.accesskey       "L">
