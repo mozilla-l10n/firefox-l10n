@@ -4,7 +4,7 @@
 <!ENTITY addons.windowTitle                   "Հավելումների կառավարում">
 
 <!ENTITY search.placeholder                   "Որոնում բոլոր հավելումներում">
-
+<!ENTITY search.buttonlabel                   "Որոնում">
 <!-- LOCALIZATION NOTE (search.commandKey):
      The search command key should match findOnCmd.commandkey from browser.dtd -->
 <!ENTITY search.commandkey                    "f">
@@ -36,6 +36,8 @@
 <!ENTITY info.plugincheck.label                 "Ստուգեք՝ արդյոք բոլոր բաղադրիչներն են թարմ վիճակում">
 <!ENTITY info.plugincheck.tooltip               "Ստուգեք՝ արդյոք բոլոր բաղադրիչներն են թարմ վիճակում">
 <!-- categories / views -->
+
+<!ENTITY view.search.label                    "Որոնում">
 <!ENTITY view.discover.label                  "Ձեռք բերել հավելումներ">
 <!ENTITY view.recentUpdates.label             "Վերջին Թարմացումները">
 <!ENTITY view.availableUpdates.label          "Առկա Թարմացումները">
@@ -228,3 +230,4 @@
 <!ENTITY experiment.info.changetelemetry "Telemetry-ի կարգավորումները">
 <!ENTITY experiment.info.changetelemetry.accesskey "T">
 
+<!ENTITY setting.learnmore "Մանրամասն">
