@@ -87,7 +87,11 @@
   -  is displayed next to a checkbox determining whether or not memory
   -  measurements are enabled. -->
 
+<!ENTITY profilerUI.enableMemory             "Grabatu memoria">
+<!ENTITY profilerUI.enableMemory.tooltiptext "Grabatu memoriaren erabilpena analisia egiterakoan.">
 <!-- LOCALIZATION NOTE (profilerUI.enableFramerate): This string
   -  is displayed next to a checkbox determining whether or not framerate
   -  is recorded. -->
 
+<!ENTITY profilerUI.enableFramerate             "Grabatu marko-abiadura">
+<!ENTITY profilerUI.enableFramerate.tooltiptext "Grabatu marko-abiadura analisia egiterakoan.">
