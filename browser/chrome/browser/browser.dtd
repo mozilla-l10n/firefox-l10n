@@ -658,7 +658,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY editBookmark.done.label                     "Tamam">
 <!ENTITY editBookmark.cancel.label                   "Vazgeç">
-
+<!ENTITY editBookmark.removeBookmark.accessKey       "s">
 
 <!ENTITY identity.unverifiedsite2 "Bu site kimlik bilgisi sağlamıyor.">
 <!ENTITY identity.connectedTo "Bağlandığınız site">

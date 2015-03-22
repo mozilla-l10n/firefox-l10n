@@ -42,6 +42,8 @@
 <!ENTITY profilerUI.clearButton "Temizle">
 <!-- LOCALIZATION NOTE (profilerUI.toolbar.*): These strings are displayed
   -  in the toolbar on buttons that select which view is currently shown. -->
+
+<!ENTITY profilerUI.toolbar.waterfall "Zaman çizelgesi">
 <!ENTITY profilerUI.toolbar.js-calltree "JavaScript">
 <!ENTITY profilerUI.toolbar.memory-calltree "Bellek">
 
@@ -49,11 +51,13 @@
 <!-- LOCALIZATION NOTE (profilerUI.table.*): These strings are displayed
   -  in the call tree headers for a recording. -->
 
+<!ENTITY profilerUI.table.totalDuration2  "Toplam süre">
+<!ENTITY profilerUI.table.selfDuration2   "Kendi süresi">
 <!ENTITY profilerUI.table.totalPercentage "Toplam maliyet">
 <!ENTITY profilerUI.table.selfPercentage  "Kendi maliyeti">
 <!ENTITY profilerUI.table.samples         "Örnekler">
-
-
+<!ENTITY profilerUI.table.totalAlloc      "Toplam dağıtım">
+<!ENTITY profilerUI.table.selfAlloc       "Kendi dağıtımları">
 <!ENTITY profilerUI.table.function        "Fonksiyon">
 <!-- LOCALIZATION NOTE (profilerUI.newtab.tooltiptext): The tooltiptext shown
   -  on the "+" (new tab) button for a profile when a selection is available. -->
@@ -61,6 +65,8 @@
 <!ENTITY profilerUI.newtab.tooltiptext "Seçimden yeni sekme ekle">
 <!-- LOCALIZATION NOTE (profilerUI.options.tooltiptext): This is the tooltip
   -  for the options button. -->
+
+<!ENTITY profilerUI.options.tooltiptext "Performans tercihlerini yapılandırır.">
 <!-- LOCALIZATION NOTE (profilerUI.invertTree): This is the label shown next to
   -  a checkbox that inverts and un-inverts the profiler's call tree. -->
 
@@ -73,6 +79,8 @@
   -  label for the checkbox that toggles whether or not Gecko platform data
   -  is displayed in the profiler. -->
 
+<!ENTITY profilerUI.showPlatformData             "Gecko platform verilerini göster">
+<!ENTITY profilerUI.showPlatformData.tooltiptext "Platform verilerini göstermek, JavaScript Profilleyici raporlarına Gecko platform sembollerinin dahil edilmesini sağlar.">
 <!-- LOCALIZATION NOTE (profilerUI.flattenTreeRecursion): This is the
   -  label for the checkbox that toggles the flattening of tree recursion in inspected
   -  functions in the profiler. -->
