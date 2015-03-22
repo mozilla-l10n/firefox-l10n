@@ -14,10 +14,10 @@
                        for the help button in the menubar but Gnome does not.   -->
 <!ENTITY helpMenuWin.label        "Laguntza"> 
 <!ENTITY helpMenuWin.accesskey    "L">
-
-
-
-
+<!ENTITY aboutProduct2.label      "&brandShortName;(r)i buruz">
+<!ENTITY aboutProduct2.accesskey  "b">
+<!ENTITY productHelp2.label       "&brandShortName;(r)en laguntza">
+<!ENTITY productHelp2.accesskey   "l">
 <!ENTITY helpMac.commandkey       "?">
 
 <!ENTITY helpKeyboardShortcuts.label     "Laster-teklak">
@@ -26,7 +26,8 @@
 <!ENTITY helpSafeMode.label       "Berrabiarazi gehigarriak desgaituta…">
 <!ENTITY helpSafeMode.accesskey   "r">
 
-
+<!ENTITY healthReport2.label      "&brandShortName; osasun-txostena">
+<!ENTITY healthReport2.accesskey  "o">
 
 <!ENTITY helpTroubleshootingInfo.label      "Arazoak konpontzeko informazioa…">
 <!ENTITY helpTroubleshootingInfo.accesskey  "A">

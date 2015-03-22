@@ -41,8 +41,8 @@
 <!ENTITY runtimeMenu_showMonitor_accesskey "M">
 <!ENTITY runtimeMenu_showDevicePrefs_label "Gailuaren hobespenak">
 <!ENTITY runtimeMenu_showDevicePrefs_accesskey "G">
-
-
+<!ENTITY runtimeMenu_showSettings_label "Gailuaren ezarpenak">
+<!ENTITY runtimeMenu_showSettings_accesskey "z">
 
 <!ENTITY viewMenu_label "Ikusi">
 <!ENTITY viewMenu_accesskey "I">
@@ -157,15 +157,19 @@
 <!ENTITY device_typeobject "Objektua">
 <!ENTITY device_typenone "Hautatu mota">
 <!-- Device Preferences -->
+
+<!ENTITY devicepreference_title "Gailuaren hobespenak">
 <!ENTITY devicepreference_search "Bilaketa-hobespenak">
 <!ENTITY devicepreference_newname "Hobespen-izen berria">
 <!ENTITY devicepreference_newtext "Hobespen-balioa">
 <!ENTITY devicepreference_addnew "Gehitu hobespen berria">
 <!-- Device Settings -->
 
+<!ENTITY devicesetting_title "Gailuaren ezarpenak">
 
-
-
+<!ENTITY devicesetting_newname "Hobespen-izen berria">
+<!ENTITY devicesetting_newtext "Ezarpenaren balioa">
+<!ENTITY devicesetting_addnew "Gehitu ezarpen berria">
 <!-- Monitor -->
 
 <!ENTITY monitor_title "Monitorea">
@@ -174,6 +178,8 @@
 <!-- LOCALIZATION NOTE (wifi_auth_header): The header displayed on the dialog
      that instructs the user to transfer an authentication token to the
      server. -->
+
+<!ENTITY wifi_auth_header "Bezeroaren identifikazioa">
 <!-- LOCALIZATION NOTE (wifi_auth_scan_request): Instructions requesting the
      user to transfer authentication info by scanning a QR code. -->
 <!-- LOCALIZATION NOTE (wifi_auth_no_scanner): Link text to assist users with
