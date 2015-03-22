@@ -8,7 +8,7 @@
 <!ENTITY folderCharsetFallback2.label            "Codificación de texto de emergencia:">
 <!ENTITY folderCharsetFallback2.accesskey        "E">
 <!ENTITY folderCharsetEnforce2.label             "Aplicar la codificación a todos los mensajes en la carpeta (la codificación de texto individual y la detección automática serán ignoradas)">
-<!ENTITY folderCharsetEnforce.accesskey          "A">
+<!ENTITY folderCharsetEnforce2.accesskey         "A">
 <!ENTITY folderRebuildSummaryFileTip2.label      "Reconstruir archivo índice resumen">
 <!ENTITY folderRebuildSummaryFile2.label         "Reparar carpeta">
 <!ENTITY folderRebuildSummaryFile2.accesskey     "R">
