@@ -193,12 +193,12 @@ functionality specific to firefox. -->
 ">
 
 <!ENTITY errorReporting.title "Deze fout rapporteren">
-<!ENTITY errorReporting.longDesc "Het rapporteren van het adres en de certificaatgegevens voor <span id='hostname'></span> helpt ons kwaadwillende websites te identificeren en te blokkeren. Bedankt voor uw hulp bij het maken van een veiliger web!">
+<!ENTITY errorReporting.longDesc "Het rapporteren van het adres en de certificaatgegevens voor <span id='hostname'></span> helpt ons kwaadwillende websites te herkennen en te blokkeren. Bedankt voor uw hulp bij het maken van een veiliger web!">
 <!ENTITY errorReporting.automatic "Fouten in de toekomst automatisch rapporteren">
 <!ENTITY errorReporting.learnMore "Meer info…">
 <!ENTITY errorReporting.sending "Rapport verzenden">
 <!ENTITY errorReporting.sent "Rapport verzonden">
-<!ENTITY errorReporting.report "Rapport">
+<!ENTITY errorReporting.report "Rapporteren">
 <!ENTITY errorReporting.tryAgain "Opnieuw proberen">
 
 <!ENTITY remoteXUL.title "Remote XUL">
@@ -207,5 +207,5 @@ functionality specific to firefox. -->
 <!ENTITY sslv3Used.title "Kan geen beveiligde verbinding maken">
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc) - Do not translate
      "ssl_error_unsupported_version". -->
-<!ENTITY sslv3Used.longDesc "Geavanceerde info: ssl-fout_niet-ondersteunde_versie">
+<!ENTITY sslv3Used.longDesc "Geavanceerde info: ssl_error_unsupported_version">
 <!ENTITY sslv3Used.learnMore "Meer info…">

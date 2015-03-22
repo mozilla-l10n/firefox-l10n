@@ -34,7 +34,7 @@
 <!ENTITY healthReportLearnMore.label     "Meer info">
 
 <!ENTITY telemetryDesc.label             "Deelt gegevens over prestaties, hardware, gebruik en aanpassingen van uw browser met &vendorShortName; om &brandShortName; te helpen verbeteren">
-<!ENTITY enableTelemetryData.label       "Extra gegevens delen (bijv., Telemetry)">
+<!ENTITY enableTelemetryData.label       "Aanvullende gegevens delen (d.w.z. Telemetry)">
 <!ENTITY enableTelemetryData.accesskey   "T">
 <!ENTITY telemetryLearnMore.label        "Meer info">
 
