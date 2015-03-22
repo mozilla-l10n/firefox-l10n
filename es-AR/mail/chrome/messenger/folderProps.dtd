@@ -4,11 +4,11 @@
 
 <!ENTITY folderProps.windowtitle.label "Propiedades">
 
-<!ENTITY generalInfo.label "Información general">
-<!ENTITY folderCharsetFallback.label             "Fallback Character Encoding:">
-<!ENTITY folderCharsetFallback.accesskey         "e">
-<!ENTITY folderCharsetEnforce.label              "Aplicar la codificación a todos los mensajes de la carpeta (la codificación de caracteres de mensajes individuales y la autodetección serán ignoradas)">
-<!ENTITY folderCharsetEnforce.accesskey          "A">
+<!ENTITY generalInfo.label                       "Información general">
+<!ENTITY folderCharsetFallback2.label            "Codificación de texto de emergencia:">
+<!ENTITY folderCharsetFallback2.accesskey        "E">
+<!ENTITY folderCharsetEnforce2.label             "Aplicar la codificación a todos los mensajes de la carpeta (la codificación de texto de mensajes individuales y la autodetección serán ignoradas)">
+<!ENTITY folderCharsetEnforce2.accesskey         "A">
 <!ENTITY folderRebuildSummaryFileTip2.label      "Reconstruir índice de archivo resumen">
 <!ENTITY folderRebuildSummaryFile2.label         "Reparar carpeta">
 <!ENTITY folderRebuildSummaryFile2.accesskey     "R">

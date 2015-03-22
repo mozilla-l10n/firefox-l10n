@@ -56,8 +56,10 @@
 <!ENTITY profilerUI.table.totalPercentage "Costo total">
 <!ENTITY profilerUI.table.selfPercentage  "Costo propio">
 <!ENTITY profilerUI.table.samples     "Muestras">
-<!ENTITY profilerUI.table.totalAlloc      "Asignación total">
-<!ENTITY profilerUI.table.selfAlloc       "Asignación propia">
+<!ENTITY profilerUI.table.totalAlloc1       "Total Sampled Allocations">
+<!ENTITY profilerUI.table.totalAllocTooltip "The total number of Object allocations sampled at this location and in callees.">
+<!ENTITY profilerUI.table.selfAlloc1        "Self Sampled Allocations">
+<!ENTITY profilerUI.table.selfAllocTooltip  "The number of Object allocations sampled at this location.">
 <!ENTITY profilerUI.table.function    "Función">
 
 <!-- LOCALIZATION NOTE (profilerUI.newtab.tooltiptext): The tooltiptext shown
