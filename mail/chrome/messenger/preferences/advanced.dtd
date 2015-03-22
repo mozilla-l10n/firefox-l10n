@@ -3,26 +3,27 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY itemGeneral.label                "Üldine">
+<!ENTITY dataChoicesTab.label             "Saadetavad andmed">
 <!ENTITY itemDisplay.label                "Lugemine ja kuvamine">
 <!ENTITY itemUpdate.label                 "Uuendamine">
 <!ENTITY itemNetworking.label             "Võrk ja kettaruum">
 <!ENTITY itemCertificates.label           "Sertifikaadid">
 
 <!-- General Settings -->
-
-<!ENTITY submitTelemetry.label            "Lubatakse sooritusvõimsuse raportite saatmine">
-<!ENTITY submitTelemetry.accesskey        "u">
-<!ENTITY telemetryInfoLink.label          "Rohkem teavet telemeetria saatmise kohta">
 <!ENTITY enableGlodaSearch.label          "Lubatakse kirjade üldotsing ja indekseerimine">
 <!ENTITY enableGlodaSearch.accesskey      "L">
 <!ENTITY allowHWAccel.label               "Võimalusel kasutatakse riistvaralist kiirendust">
 <!ENTITY allowHWAccel.accesskey           "V">
+<!ENTITY storeType.label                  "Uute kontode kirjade salvestamise moodus:">
+<!ENTITY storeType.accesskey              "U">
+<!ENTITY mboxStore.label                  "üks suur fail (mbox)">
+<!ENTITY maildirStore.label               "iga kiri eraldi failis (maildir)">
 
-<!ENTITY scrolling.label                   "Kerimine">
-<!ENTITY useAutoScroll.label               "Kasutatakse automaatset kerimist">
-<!ENTITY useAutoScroll.accesskey           "u">
-<!ENTITY useSmoothScrolling.label          "Kasutatakse sujuvat kerimist">
-<!ENTITY useSmoothScrolling.accesskey      "s">
+<!ENTITY scrolling.label                  "Kerimine">
+<!ENTITY useAutoScroll.label              "Kasutatakse automaatset kerimist">
+<!ENTITY useAutoScroll.accesskey          "u">
+<!ENTITY useSmoothScrolling.label         "Kasutatakse sujuvat kerimist">
+<!ENTITY useSmoothScrolling.accesskey     "s">
 
 <!ENTITY systemIntegration.label          "Süsteemi integratsioon">
 <!ENTITY alwaysCheckDefault.label         "Käivitumisel kontrollitakse alati, kas &brandShortName; on e-posti vaikeklient">
@@ -37,6 +38,19 @@
 <!ENTITY returnReceiptsInfo.label         "Määra, kuidas &brandShortName; käsitleb kättesaamise kinnitusi">
 <!ENTITY showReturnReceipts.label         "Kättesaamise kinnitused...">
 <!ENTITY showReturnReceipts.accesskey     "M">
+
+<!-- Data Choices -->
+<!ENTITY telemetrySection.label           "Telemeetria">
+<!ENTITY telemetryDesc.label              "Jagab sinu e-posti kliendi sooritusvõimsuse, kasutamise, kohandamiste ja riistvara andmeid &vendorShortName;ga, et aidata meil &brandShortName; paremaks teha">
+<!ENTITY enableTelemetry.label            "Telemeetria lubatakse">
+<!ENTITY enableTelemetry.accesskey        "T">
+<!ENTITY telemetryLearnMore.label         "Rohkem teavet">
+
+<!ENTITY crashReporterSection.label       "Vearaportid">
+<!ENTITY crashReporterDesc.label          "&brandShortName; saadab vearaportid &vendorShortName;le, et aidata meil teha sinu e-posti klient stabiilsemaks ja turvalisemaks">
+<!ENTITY enableCrashReporter.label        "Vearaportite saatmine lubatakse">
+<!ENTITY enableCrashReporter.accesskey    "V">
+<!ENTITY crashReporterLearnMore.label     "Rohkem teavet">
 
 <!-- Display and Reading Settings -->
 <!ENTITY reading.caption                  "Lugemine">

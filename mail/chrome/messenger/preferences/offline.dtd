@@ -11,8 +11,8 @@
 <!ENTITY radioRememberPrevState.accesskey "u">
 <!ENTITY radioAskState.label              "küsitakse võrgurežiimi oleku kohta">
 <!ENTITY radioAskState.accesskey          "k">
-<!ENTITY radioAlwaysOnline.label          "alustatakse alati võrgurežiimis">
-<!ENTITY radioAlwaysOnline.accesskey      "v">
+<!ENTITY radioAlwaysOnlineState.label     "alustatakse alati võrgurežiimis">
+<!ENTITY radioAlwaysOnlineState.accesskey "v">
 <!ENTITY radioAlwaysOffline.label         "alustatakse alati võrguta režiimis">
 <!ENTITY radioAlwaysOffline.accesskey     "r">
 

@@ -17,3 +17,7 @@
 <!ENTITY panePrivacy.title       "Privaatsus">
 <!ENTITY paneSecurity.title      "Turvalisus">
 <!ENTITY paneAdvanced.title      "Muud">
+<!ENTITY paneAccount.title       "Kontod">
+
+<!ENTITY okButton.title          "Sobib">
+<!ENTITY okButton.accesskey      "S">

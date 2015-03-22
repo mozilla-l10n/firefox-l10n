@@ -25,6 +25,8 @@
 <!ENTITY contextAfterCls.label       "pärast rämpsposti filtri rakendumist">
 <!ENTITY contextOutgoing.label       "pärast saatmist">
 <!ENTITY contextOutgoing.accesskey   "p">
+<!ENTITY contextArchive.label        "arhiveerimisel">
+<!ENTITY contextArchive.accesskey    "a">
 
 <!ENTITY filterActionDesc.label      "Sooritatakse järgnev tegevus:">
 <!ENTITY filterActionDesc.accesskey  "R">
