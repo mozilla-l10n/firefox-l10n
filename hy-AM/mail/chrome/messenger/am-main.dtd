@@ -22,7 +22,7 @@
 <!ENTITY signatureText.accesskey "ք">
 <!ENTITY signatureHtml.label "Օգտ. HTML (օր.՝ &lt;b&gt;bold&lt;/b&gt;)">
 <!ENTITY signatureHtml.accesskey "L">
-<!ENTITY signatureFile.label "Կցել ստորագրությունը ֆայլովից (տեքստ, HTML կամ  նկար).">
+<!ENTITY signatureFile.label "Կցել ստորագրությունը ֆայլից (տեքստ, HTML կամ  պատկեր).">
 <!ENTITY signatureFile.accesskey "ց">
 <!ENTITY edit.label "Խմբագրել...">
 <!ENTITY choose.label "Ընտրել…">
