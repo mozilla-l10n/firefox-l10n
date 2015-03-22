@@ -342,7 +342,7 @@
 <!ENTITY replyNewsgroupCmd2.label "Reageren naar nieuwsgroep">
 <!ENTITY replyNewsgroupCmd2.accesskey  "r">
 <!ENTITY replyToAllMsgCmd.label "Allen beantwoorden">
-<!ENTITY replyToAllMsgCmd.accesskey "e">
+<!ENTITY replyToAllMsgCmd.accesskey "d">
 <!ENTITY replyToAllMsgCmd.key "r">
 <!ENTITY replyToListMsgCmd.label "Lijst beantwoorden">
 <!ENTITY replyToListMsgCmd.accesskey  "i">
@@ -427,7 +427,7 @@
 <!ENTITY openConversationCmd.accesskey "s">
 <!ENTITY openConversationCmd.key "o">
 <!ENTITY openAttachmentListCmd.label "Bijlagen">
-<!ENTITY openAttachmentListCmd.accesskey "n">
+<!ENTITY openAttachmentListCmd.accesskey "e">
 <!ENTITY openFeedMessage1.label "Bij het openen van feedberichten">
 <!ENTITY openFeedMessage1.accesskey "o">
 <!ENTITY openFeedWebPage.label "Openen als webpagina">
