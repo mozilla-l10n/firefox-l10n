@@ -21,5 +21,5 @@
 <!ENTITY return.label                     "Empfangsbestätigungen">
 <!ENTITY junk.label                       "Junk-Mail">
 <!ENTITY tags.label                       "Tags">
-<!ENTITY characterEncoding.label          "Zeichensatz">
+<!ENTITY characterEncoding2.label         "Textkodierung">
 <!ENTITY networkStorage.label             "Netzwerk &amp; Speicherung">
