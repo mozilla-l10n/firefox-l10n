@@ -145,6 +145,8 @@
 <!ENTITY messagePaneVertical.accesskey "S">
 <!ENTITY showFolderPaneCmd.label "Konten-/Ordnerliste">
 <!ENTITY showFolderPaneCmd.accesskey "O">
+<!ENTITY showFolderPaneColsCmd.label "Ordnerspalten">
+<!ENTITY showFolderPaneColsCmd.accesskey "p">
 <!ENTITY showMessageCmd.label "Nachrichtenbereich">
 <!ENTITY showMessageCmd.accesskey "c">
 
@@ -593,7 +595,9 @@
 <!ENTITY manageTags.accesskey "S">
 
 <!-- Folder Pane -->
-<!ENTITY folderColumn.label "Name">
+<!ENTITY folderNameColumn.label "Name">
+<!ENTITY folderUnreadColumn.label "Ungelesen">
+<!ENTITY folderTotalColumn.label "Gesamt">
 <!ENTITY folderSizeColumn.label "Größe">
 
 <!-- Folder Pane Context Menu -->

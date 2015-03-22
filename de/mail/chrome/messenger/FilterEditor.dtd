@@ -25,6 +25,8 @@
 <!ENTITY contextAfterCls.label "Nach Junk-Erkennung ausführen">
 <!ENTITY contextOutgoing.label "Versand">
 <!ENTITY contextOutgoing.accesskey "V">
+<!ENTITY contextArchive.label "Archivieren">
+<!ENTITY contextArchive.accesskey "r">
 
 <!ENTITY filterActionDesc.label "Auszuführende Aktionen:">
 <!ENTITY filterActionDesc.accesskey "z">
