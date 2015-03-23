@@ -28,10 +28,10 @@
 <!ENTITY  ssl.accesskey                 "L">
 <!ENTITY  socks.label                   "SOCKS хост:">
 <!ENTITY  socks.accesskey               "C">
-
-
-
-
+<!ENTITY  socks4.label                  "SOCKS v4">
+<!ENTITY  socks4.accesskey              "K">
+<!ENTITY  socks5.label                  "SOCKS v5">
+<!ENTITY  socks5.accesskey              "v">
 <!ENTITY  socksRemoteDNS.label          "Отдалечен DNS">
 <!ENTITY  socksRemoteDNS.accesskey      "D">
 <!ENTITY  port.label                    "Порт:">
