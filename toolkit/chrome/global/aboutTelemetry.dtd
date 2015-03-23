@@ -10,7 +10,7 @@
 
 <!ENTITY aboutTelemetry.generalDataSection "Všeobecné údaje">
 
-<!ENTITY aboutTelemetry.telemetryLogSection "Záznam telemetrie">
+<!ENTITY aboutTelemetry.telemetryLogSection "Záznamy telemetrie">
 
 <!ENTITY aboutTelemetry.slowSqlSection "Pomalé výrazy SQL">
 
