@@ -40,6 +40,7 @@
 <!ENTITY threadColumn.label          "Vlákno">
 <!ENTITY fromColumn.label            "Od">
 <!ENTITY recipientColumn.label       "Adresát">
+<!ENTITY correspondentColumn.label   "Korešpondenti">
 <!ENTITY subjectColumn.label         "Predmet">
 <!ENTITY dateColumn.label            "Dátum">
 <!ENTITY priorityColumn.label        "Priorita">
@@ -60,7 +61,8 @@
 <!ENTITY columnChooser2.tooltip      "Zvoliť stĺpce, ktoré chcete zobraziť">
 <!ENTITY threadColumn2.tooltip       "Zoskupiť správy do vlákien">
 <!ENTITY fromColumn2.tooltip         "Usporiadať podľa odosielateľa">
-<!ENTITY recipientColumn2.tooltip   "Usporiadať podľa adresáta">
+<!ENTITY recipientColumn2.tooltip    "Usporiadať podľa adresáta">
+<!ENTITY correspondentColumn2.tooltip "Usporiadať podľa korešpondentov">
 <!ENTITY subjectColumn2.tooltip      "Usporiadať podľa predmetu">
 <!ENTITY dateColumn2.tooltip         "Usporiadať podľa dátumu">
 <!ENTITY priorityColumn2.tooltip     "Usporiadať podľa priority">
