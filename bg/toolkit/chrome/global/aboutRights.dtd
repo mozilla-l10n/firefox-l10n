@@ -61,11 +61,11 @@
 <!ENTITY rights.safebrowsing-term1 "Отворете настройките на приложението">
 <!ENTITY rights.safebrowsing-term2 "Изберете раздел Сигурност">
 <!ENTITY rights.safebrowsing-term3 "Махнете отметките от „&blockAttackSites.label;“ и „&blockWebForgeries.label;“">
-<!ENTITY rights.safebrowsing-term4 "Махнете отметките от „&blockAttackSites.label;“ и „&blockWebForgeries.label;“">
+<!ENTITY rights.safebrowsing-term4 "Безопасното сърфиране вече е изключено">
 <!-- location aware browsing points for branded builds -->
 
-<!ENTITY rights.locationawarebrowsing-a "Безопасното сърфиране вече е изключено">
-<!ENTITY rights.locationawarebrowsing-b "е винаги по желание. Никога не се изпраща информация за местоположение без ваше съгласие. Ако напълно искате да изключите тази функционалност следвайте тези стъпки:">
+<!ENTITY rights.locationawarebrowsing-a "Определяне на местоположението при сърфиране:">
+<!ENTITY rights.locationawarebrowsing-b "винаги e по желание. Никога не се изпраща информация за местоположение без ваше съгласие. Ако напълно искате да изключите тази функционалност следвайте тези стъпки:">
 <!ENTITY rights.locationawarebrowsing-term1a "В адресната лента въведете ">
 <!ENTITY rights.locationawarebrowsing-term1b "about:config">
 <!ENTITY rights.locationawarebrowsing-term2 "Въведете geo.enabled">
