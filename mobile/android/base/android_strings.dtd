@@ -6,7 +6,8 @@
 <!ENTITY  no_space_to_start_error "เนื้อที่ว่างไม่พอสำหรับให้ &brandShortName; เริ่มทำงาน">
 <!ENTITY  error_loading_file "เกิดข้อผิดพลาดระหว่างการโหลดแฟ้มที่จำเป็นในการทำงานของ &brandShortName;">
 
-
+<!ENTITY  onboard_start_message2 "ยินดีต้อนรับสู่ &brandShortName;">
+<!ENTITY  onboard_start_subtext2 "คุณสมบัติความเป็นส่วนตัวและการปรับแต่งที่มากกว่าเดิม">
 <!ENTITY  onboard_start_button_account "ลงชื่อเข้าใช้เพื่อใช้งาน &brandShortName;">
 <!ENTITY  onboard_start_button_browser "เริ่มต้นเข้าเว็บกันเลย">
 <!-- Localization note: These are used as the titles of different pages on the home screen.
@@ -74,7 +75,7 @@
 <!ENTITY switch_button_message "สลับ">
 
 <!ENTITY settings "การตั้งค่า">
-
+<!ENTITY settings_title "การตั้งค่า">
 <!ENTITY pref_category_advanced "ขั้นสูง">
 <!ENTITY pref_category_customize "กำหนดเอง">
 <!ENTITY pref_category_customize_summary "หน้าแรก ค้นหา แท็บ นำเข้า">
@@ -98,6 +99,8 @@
 <!-- Localization note (overlay_share_bookmark_btn_label) : This string is
      used in the share overlay menu to select an action. It is the verb
      "to bookmark", not the noun "a bookmark". -->
+
+<!ENTITY overlay_share_bookmark_btn_label "ที่คั่นหน้า">
 <!ENTITY overlay_share_reading_list_btn_label "เพิ่มเข้ารายการอ่าน">
 <!ENTITY overlay_share_bookmark_btn_label_already "คั่นหน้าอยู่ก่อนแล้ว">
 <!ENTITY overlay_share_reading_list_btn_label_already "อยู่ใน Reading List แล้ว">
@@ -109,9 +112,10 @@
 
 <!ENTITY overlay_share_send_tab_btn_label "ส่งไปยังอุปกรณ์อื่น">
 <!ENTITY overlay_share_no_url "ไม่พบลิงก์ในการแบ่งปันนี้">
-
+<!ENTITY overlay_share_retry "ลองใหม่">
 <!ENTITY overlay_share_select_device "เลือกอุปกรณ์">
 
+<!ENTITY pref_category_search3 "ค้นหา">
 <!ENTITY pref_category_search_summary "ปรับแต่งผู้จัดการค้นหาของคุณ">
 <!ENTITY pref_category_display "การแสดงผล">
 <!ENTITY pref_category_display_summary "ข้อความ แถบชื่อเรื่อง การท่องเว็บแบบเต็มจอ">
@@ -125,7 +129,7 @@
 <!ENTITY pref_category_add_search_providers "เพิ่มเครื่องมือค้นหา">
 <!ENTITY pref_category_search_restore_defaults "เรียกคืนเครื่องมือค้นหา">
 <!ENTITY pref_search_restore_defaults "เรียกคืนค่าปริยาย">
-
+<!ENTITY pref_search_restore_defaults_summary "เรียกคืนค่าปริยาย">
 <!-- Localization note (pref_search_hint) : "TIP" as in "hint", "clue" etc. Displayed as an
      advisory message on the customise search providers settings page explaining how to add new
      search providers.
@@ -155,14 +159,16 @@
 <!ENTITY pref_home_suggested_sites_summary "แสดงทางลัดไปยังไซต์บนโฮมเพจของคุณที่เราคาดว่าคุณน่าจะพบสิ่งที่น่าสนใจ">
 <!-- Localization note: These are shown in the left sidebar on tablets -->
 
-
+<!ENTITY pref_header_customize "ปรับแต่ง">
+<!ENTITY pref_header_display "แสดง">
+<!ENTITY pref_header_privacy_short "ความเป็นส่วนตัว">
 <!ENTITY pref_header_help "ช่วยเหลือ">
-
-
-
+<!ENTITY pref_header_language "ภาษา">
+<!ENTITY pref_header_vendor "&vendorShortName;">
+<!ENTITY pref_header_devtools "เครื่องมือนักพัฒนา">
 
 <!ENTITY pref_cookies_menu "คุกกี้">
-
+<!ENTITY pref_cookies_accept_all "ถูกเปิดใช้งาน">
 <!ENTITY pref_cookies_not_accept_foreign "เปิดใช้งาน ยกเว้นจากเว็บที่ไม่ได้กำลังเปิด">
 <!ENTITY pref_cookies_disabled "ปิดใช้งาน">
 
@@ -180,7 +186,7 @@
 <!ENTITY pref_clear_on_exit_summary2 "&brandShortName; จะล้างข้อมูลของคุณโดยอัตโนมัติเมื่อใดก็ตามที่คุณเลือก \u0022ออก\u0022 จากเมนูหลัก">
 <!ENTITY pref_clear_on_exit_dialog_title "เลือกข้อมูลที่ต้องการล้าง">
 <!ENTITY pref_plugins "โปรแกรมเสริม">
-
+<!ENTITY pref_plugins_enabled "ถูกเปิดใช้งาน">
 <!ENTITY pref_plugins_tap_to_play "แตะเพื่อเล่น">
 
 <!ENTITY pref_text_size "ขนาดตัวหนังสือ">
@@ -355,6 +361,9 @@ size. -->
 <!ENTITY site_settings_no_settings  "ไม่มีการตั้งค่าให้ล้าง">
 
 <!ENTITY reading_list_added "เพิ่มหน้าเว็บเข้ารายการอ่านของคุณแล้ว">
+<!ENTITY reading_list_removed "ลบหน้าเว็บออกจากรายการอ่านของคุณแล้ว">
+<!-- Localization note (reading_list_remove) : Used to remove the currently open page from
+     the user's reading list. The opposite of overlay_share_reading_list_btn_label. -->
 <!ENTITY reading_list_duplicate "หน้าเว็บนี้มีอยู่ในรายการอ่านแล้ว">
 <!-- Localization note (reading_list_time_minutes2) : This string is used in the "Reading List"
      panel on the home page to give the user an estimate of how many minutes it will take to
