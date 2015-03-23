@@ -28,7 +28,7 @@
 <!ENTITY update.checkingForUpdates "Controllo aggiornamenti…">
 <!ENTITY update.noUpdatesFound "&brandShortName; è aggiornato">
 <!ENTITY update.adminDisabled "Aggiornamenti disabilitati dall'amministratore di sistema">
-<!ENTITY update.otherInstanceHandlingUpdates "È in corso l'aggiornamento di &brandShortName; da parte di un'altra istanza">
+<!ENTITY update.otherInstanceHandlingUpdates "È in corso l'aggiornamento di &brandShortName; in un'altra istanza">
 <!ENTITY update.failed.start "Aggiornamento non riuscito. ">
 <!ENTITY update.failed.linkText "Scaricare l'ultima versione">
 <!ENTITY update.failed.end "">
@@ -41,6 +41,6 @@
 <!ENTITY update.downloading.start "Ricezione aggiornamento — ">
 <!ENTITY update.downloading.end "">
 <!ENTITY update.applying "Installazione aggiornamento…">
-<!ENTITY channel.description.start "Ci si trova nel ">
-<!ENTITY channel.description.end ".  canale di aggiornamento. ">
+<!ENTITY channel.description.start "Canale di aggiornamento attuale: ">
+<!ENTITY channel.description.end ". ">
 <!ENTITY cmdCloseMac.commandKey "w">

@@ -11,6 +11,6 @@
 <!ENTITY cmd.open.label "Apri">
 <!ENTITY cmd.open.accesskey "A">
 <!ENTITY cmd.removeFromHistory.label "Elimina dalla cronologia">
-<!ENTITY cmd.removeFromHistory.accesskey "e">
-<!ENTITY cmd.clearDownloads.label "Cancella i download">
-<!ENTITY cmd.clearDownloads.accesskey "D">
+<!ENTITY cmd.removeFromHistory.accesskey "E">
+<!ENTITY cmd.clearDownloads.label "Elimina i download">
+<!ENTITY cmd.clearDownloads.accesskey "d">

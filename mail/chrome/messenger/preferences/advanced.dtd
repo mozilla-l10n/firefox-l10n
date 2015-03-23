@@ -12,9 +12,9 @@
 <!ENTITY enableGlodaSearch.accesskey "E">
 <!ENTITY allowHWAccel.label "Usa l'accelerazione hardware quando disponibile">
 <!ENTITY allowHWAccel.accesskey "h">
-<!ENTITY storeType.label "Tipo di memorizzazione messaggi per i nuovi account:">
+<!ENTITY storeType.label "Modalità di salvataggio dei messaggi per i nuovi account:">
 <!ENTITY storeType.accesskey "T">
-<!ENTITY mboxStore.label "Un grande file (mbox)">
+<!ENTITY mboxStore.label "Un unico file (mbox)">
 <!ENTITY maildirStore.label "Un file per ogni messaggio (maildir)">
 <!ENTITY scrolling.label "Scrolling">
 <!ENTITY useAutoScroll.label "Utilizza lo scorrimento automatico">
@@ -41,7 +41,7 @@
 <!ENTITY telemetryLearnMore.label "Ulteriori informazioni">
 <!ENTITY crashReporterSection.label "Crash Reporter">
 <!ENTITY crashReporterDesc.label "&brandShortName; invia rapporti di crash per aiutare &vendorShortName; a farlo diventare più stabile e sicuro">
-<!ENTITY enableCrashReporter.label "Abilita il Crash Reporter">
+<!ENTITY enableCrashReporter.label "Abilitare il Crash Reporter">
 <!ENTITY enableCrashReporter.accesskey "C">
 <!ENTITY crashReporterLearnMore.label "Ulteriori informazioni">
 <!ENTITY reading.caption "Lettura">
