@@ -32,8 +32,8 @@
 <!ENTITY helpTroubleshootingInfo.label      "Информация за отстраняване на неизправности">
 <!ENTITY helpTroubleshootingInfo.accesskey  "И">
 
-<!ENTITY helpFeedbackPage.label      "Подаване на обратна връзка…">
-<!ENTITY helpFeedbackPage.accesskey  "П">
+<!ENTITY helpFeedbackPage.label      "Обратна връзка…">
+<!ENTITY helpFeedbackPage.accesskey  "О">
 
 <!ENTITY helpShowTour2.label            "Обиколка на &brandShorterName;">
 <!ENTITY helpShowTour2.accesskey        "б">

@@ -9,6 +9,7 @@
 <!ENTITY refreshProfile.dialog.items.label2  "възстановени стандартните настройки">
 <!ENTITY refreshProfile.dialog.button.label  "Освежаване на &brandShortName;">
 
+<!ENTITY refreshProfile.title                "Летящ старт за &brandShortName;">
 <!ENTITY refreshProfile.button.label         "Освежаване на &brandShortName;…">
 
 <!ENTITY refreshProfile.cleaning.description "Почти е готово…">
