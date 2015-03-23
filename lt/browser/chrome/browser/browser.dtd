@@ -56,7 +56,7 @@ can reach it easily. -->
 
 <!ENTITY tabCmd.label "Nauja kortelė">
 <!ENTITY tabCmd.accesskey "k">
-
+<!ENTITY tabCmd.commandkey "t">
 <!-- LOCALIZATION NOTE (openLocationCmd.label): "Open Location" is only
 displayed on OS X, and only on windows that aren't main browser windows, or
 when there are no windows but Firefox is still running. -->
@@ -141,13 +141,13 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisPageCmd.label "Įrašyti į adresyną">
 <!ENTITY editThisBookmarkCmd.label "Taisyti adresyno įrašą">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
-
+<!ENTITY markPageCmd.commandkey "l">
 <!-- LOCALIZATION NOTE (findShareServices.label):
   -  Use the unicode ellipsis char, \u2026,
   -  or use "..." if \u2026 doesn't suit traditions in your locale. -->
 <!ENTITY findShareServices.label "Rasti daugiau dalinimosi tarnybų...">
 <!ENTITY sharePageCmd.label "Dalintis šiuo tinklalapiu">
-
+<!ENTITY sharePageCmd.commandkey "S">
 <!ENTITY sharePageCmd.accesskey "D">
 <!-- LOCALIZATION NOTE (shareLink.accesskey): must be different than the following share access keys -->
 <!ENTITY shareLink.label "Dalintis šiuo saitu">
@@ -175,7 +175,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY reloadCmd.label              "Atsiųsti iš naujo">
 <!ENTITY reloadButton.tooltip         "Šį tinklalapį atsiųsti iš naujo">
 <!ENTITY stopCmd.label                "Stabdyti">
-
+<!ENTITY stopCmd.macCommandKey        ".">
 <!ENTITY stopButton.tooltip           "Stabdyti šio tinklalapio atsiuntimą">
 <!ENTITY goEndCap.tooltip             "Eiti į adreso lauke surinktą adresą">
 <!ENTITY printButton.label            "Spausdinti">
@@ -190,7 +190,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY tabGroupsButton.label        "Kortelių grupės">
 
 <!ENTITY bookmarksButton.label          "Adresynas">
-
+<!ENTITY bookmarksCmd.commandkey "b">
 
 <!ENTITY bookmarksMenuButton.unsorted.label "Nerūšiuoti adresai">
 <!ENTITY viewBookmarksSidebar2.label        "Rodyti adresyną parankinėje">
@@ -298,7 +298,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fileMenu.label         "Failas"> 
 <!ENTITY fileMenu.accesskey       "F">
 <!ENTITY newNavigatorCmd.label        "Naujas langas">
-
+<!ENTITY newNavigatorCmd.key        "N">
 <!ENTITY newNavigatorCmd.accesskey      "l">
 <!ENTITY newPrivateWindow.label     "Naujas privataus naršymo langas">
 <!ENTITY newPrivateWindow.accesskey "p">
@@ -306,22 +306,22 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY editMenu.label         "Taisa"> 
 <!ENTITY editMenu.accesskey       "T"> 
 <!ENTITY undoCmd.label            "Atšaukti">  
-
+<!ENTITY undoCmd.key            "Z">  
 <!ENTITY undoCmd.accesskey          "A"> 
 <!ENTITY redoCmd.label            "Atstatyti">  
-
+<!ENTITY redoCmd.key            "Y">  
 <!ENTITY redoCmd.accesskey          "t"> 
 <!ENTITY cutCmd.label           "Iškirpti">  
-
+<!ENTITY cutCmd.key             "X">  
 <!ENTITY cutCmd.accesskey         "r"> 
 <!ENTITY copyCmd.label            "Kopijuoti">  
-
+<!ENTITY copyCmd.key            "C">  
 <!ENTITY copyCmd.accesskey          "K"> 
 <!ENTITY pasteCmd.label           "Įdėti">  
-
+<!ENTITY pasteCmd.key           "V">  
 <!ENTITY pasteCmd.accesskey         "d"> 
 <!ENTITY deleteCmd.label          "Pašalinti">  
-
+<!ENTITY deleteCmd.key            "D">  
 <!ENTITY deleteCmd.accesskey        "š"> 
 <!ENTITY selectAllCmd.label         "Pažymėti viską">  
 <!ENTITY selectAllCmd.key         "A">  
@@ -361,9 +361,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuCustomizeExit.label "Baigti tvarkymą">
 <!ENTITY appMenuCustomizeExit.tooltip "Užbaigti tvarkymą">
 <!ENTITY appMenuHistory.label "Žurnalas">
-
-
-
+<!ENTITY appMenuHistory.showAll.label "Rodyti visą žurnalą">
+<!ENTITY appMenuHistory.clearRecent.label "Valyti žurnalą…">
+<!ENTITY appMenuHistory.restoreSession.label "Atkurti paskiausiąjį seansą">
 <!ENTITY appMenuHistory.viewSidebar.label "Rodyti žurnalo parankinę">
 <!ENTITY appMenuHelp.tooltip "Atverti žinyno meniu">
 
@@ -387,8 +387,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY customizeMenu.addMoreItems.label "Pridėti daugiau elementų…">
 <!ENTITY customizeMenu.addMoreItems.accesskey "d">
 
+<!ENTITY openCmd.commandkey           "l">
 <!ENTITY urlbar.placeholder2          "Įveskite adresą arba paieškos žodžius">
-
+<!ENTITY urlbar.accesskey             "d">
 <!ENTITY urlbar.switchToTab.label     "Pereiti į kortelę:">
 <!-- 
   Comment duplicated from browser-sets.inc:
@@ -411,6 +412,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
  -->
 
+<!ENTITY searchFocus.commandkey       "k">
+<!ENTITY searchFocus.commandkey2      "e">
 
 <!-- LOCALIZATION NOTE (searchFor.label, searchWith.label):
      These two strings are used to build the header above the list of one-click
@@ -557,8 +560,8 @@ items are mutually exclusive. -->
 <!ENTITY mediaShowControls.accesskey "m">
 <!ENTITY mediaHideControls.label     "Nerodyti mygtukų">
 <!ENTITY mediaHideControls.accesskey "m">
-
-
+<!ENTITY videoFullScreen.label       "Visame ekrane">
+<!ENTITY videoFullScreen.accesskey   "V">
 <!ENTITY videoSaveImage.label        "Įrašyti kadrą kaip…">
 <!ENTITY videoSaveImage.accesskey    "k">
 <!-- LOCALIZATION NOTE: The access keys for "Show Statistics" and
@@ -577,18 +580,19 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY fullZoomEnlargeCmd.label       "Padidinti">
 <!ENTITY fullZoomEnlargeCmd.accesskey   "d">
-
+<!ENTITY fullZoomEnlargeCmd.commandkey  "+">
 <!-- + is above this key on many keyboards -->
+<!ENTITY fullZoomEnlargeCmd.commandkey2 "="> 
 <!ENTITY fullZoomEnlargeCmd.commandkey3 "">
 
 <!ENTITY fullZoomReduceCmd.label        "Sumažinti">
 <!ENTITY fullZoomReduceCmd.accesskey    "m">
-
+<!ENTITY fullZoomReduceCmd.commandkey   "-">
 <!ENTITY fullZoomReduceCmd.commandkey2  "">
 
 <!ENTITY fullZoomResetCmd.label         "Originalus">
 <!ENTITY fullZoomResetCmd.accesskey     "O">
-
+<!ENTITY fullZoomResetCmd.commandkey    "0">
 <!ENTITY fullZoomResetCmd.commandkey2   "">
 
 <!ENTITY fullZoomToggleCmd.label        "Keisti tik teksto dydį">
@@ -600,16 +604,17 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY quitApplicationCmdWin2.label       "Baigti darbą">
 <!ENTITY quitApplicationCmdWin2.accesskey   "B">
-
-
-
+<!ENTITY quitApplicationCmdWin2.tooltip     "Baigti „&brandShortName;“ darbą">
+<!ENTITY goBackCmd.commandKey "[">
+<!ENTITY goForwardCmd.commandKey "]">
 <!ENTITY quitApplicationCmd.label       "Baigti darbą"> 
 <!ENTITY quitApplicationCmd.accesskey   "B">
-
+<!ENTITY quitApplicationCmdMac2.label   "Baigti „&brandShortName;“ darbą">
 <!-- LOCALIZATION NOTE(quitApplicationCmdUnix.key): This keyboard shortcut is used by both Linux and OSX builds. -->
+<!ENTITY quitApplicationCmdUnix.key     "Q">
 
 <!ENTITY closeCmd.label                 "Užverti">  
-
+<!ENTITY closeCmd.key                   "W">  
 <!ENTITY closeCmd.accesskey             "U">
 
 <!ENTITY pageStyleMenu.label "Tinklalapio stilius">
@@ -633,16 +638,16 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY bidiSwitchPageDirectionItem.accesskey    "a">
 <!ENTITY bidiSwitchTextDirectionItem.label        "Pakeisti teksto kryptį">
 <!ENTITY bidiSwitchTextDirectionItem.accesskey    "k">
-
+<!ENTITY bidiSwitchTextDirectionItem.commandkey   "X">
 
 <!ENTITY findOnCmd.label     "Ieškoti šiame tinklalapyje…">
 <!ENTITY findOnCmd.accesskey "I">
 
 <!ENTITY findAgainCmd.label  "Ieškoti toliau">
 <!ENTITY findAgainCmd.accesskey "e">
-
+<!ENTITY findAgainCmd.commandkey "g">
 <!ENTITY findAgainCmd.commandkey2 "VK_F3">
-
+<!ENTITY findSelectionCmd.commandkey "e">
 
 <!ENTITY spellAddDictionaries.label "Daugiau žodynų…">
 <!ENTITY spellAddDictionaries.accesskey "D">
@@ -690,7 +695,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY syncSyncNowItem.accesskey    "S">
 <!ENTITY syncReAuthItem.label         "Iš naujo jungtis prie „&syncBrand.shortName.label;“…">
 <!ENTITY syncReAuthItem.accesskey     "n">
-
+<!ENTITY syncToolbarButton.label      "Sinchr.">
 
 <!ENTITY socialToolbar.title        "Bendravimo parankinės mygtukas">
 
@@ -734,6 +739,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY customizeMode.deveditionTheme.label2 "Naudoti „Developer Edition“ grafinį apvalkalą">
 
+<!ENTITY social.chatBar.commandkey "c">
 <!ENTITY social.chatBar.label "Fokusuoti pokalbius">
 <!ENTITY social.chatBar.accesskey "k">
 
@@ -763,7 +769,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY trackingContentBlocked.message "Stebėjimas">
 <!ENTITY trackingContentBlocked.moreinfo "Tinklalapio dalys, stebinčios jūsų veiksmus internete, buvo užblokuotos.">
-
+<!ENTITY trackingContentBlocked.learnMore "Sužinoti daugiau">
 
 <!ENTITY trackingContentBlocked.unblock2.label "Išjungti apsaugą šioje svetainėje">
 <!ENTITY trackingContentBlocked.unblock2.accesskey "I">
@@ -823,15 +829,17 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 
 
+<!ENTITY processHang.terminateProcess.label       "Nutraukti procesą">
+<!ENTITY processHang.terminateProcess.accessKey   "N">
 
-
-
-
-
-
+<!ENTITY emeLearnMoreContextMenu.label            "Sužinokite daugiau apie DRM…">
+<!ENTITY emeLearnMoreContextMenu.accesskey        "D">
+<!ENTITY emeNotificationsNotNow.label             "Ne dabar">
+<!ENTITY emeNotificationsNotNow.accesskey         "N">
 <!ENTITY emeNotificationsDontAskAgain.label       "Šio klausimo ateityje nepateikti">
 <!ENTITY emeNotificationsDontAskAgain.accesskey   "k">
 
+<!ENTITY readingList.label                        "Skaitymo sąrašas">
 
 
 <!-- Pre-landed string for bug 1124153 -->

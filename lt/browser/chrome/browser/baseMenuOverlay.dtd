@@ -18,7 +18,7 @@
 <!ENTITY aboutProduct2.accesskey  "A">
 <!ENTITY productHelp2.label       "„&brandShortName;“ žinynas">
 <!ENTITY productHelp2.accesskey   "ž">
-
+<!ENTITY helpMac.commandkey       "?">
 
 <!ENTITY helpKeyboardShortcuts.label     "Spartieji klavišai">
 <!ENTITY helpKeyboardShortcuts.accesskey "k">
@@ -35,16 +35,18 @@
 <!ENTITY helpFeedbackPage.label      "Siųsti atsiliepimą…">
 <!ENTITY helpFeedbackPage.accesskey  "S">
 
-
+<!ENTITY helpShowTour2.label            "Įvadas į „&brandShortName;“">
+<!ENTITY helpShowTour2.accesskey        "v">
 
 <!ENTITY preferencesCmdMac.label        "Nuostatos…">
-
+<!ENTITY preferencesCmdMac.commandkey   ",">
 
 <!ENTITY servicesMenuMac.label          "Paslaugos">
 
-
+<!ENTITY hideThisAppCmdMac2.label       "Nerodyti „&brandShortName;“">
+<!ENTITY hideThisAppCmdMac2.commandkey  "H">
 
 <!ENTITY hideOtherAppsCmdMac.label      "Nerodyti kitų">
-
+<!ENTITY hideOtherAppsCmdMac.commandkey "H">
 
 <!ENTITY showAllAppsCmdMac.label        "Rodyti viską">
