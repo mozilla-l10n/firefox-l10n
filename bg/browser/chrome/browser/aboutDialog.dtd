@@ -43,7 +43,7 @@
 <!ENTITY helpus.donateLink          "Направете дарение">
 <!ENTITY helpus.middle              " или ">
 <!-- LOCALIZATION NOTE (helpus.getInvolvedLink): This is a link title that links to http://www.mozilla.org/contribute/. -->
-<!ENTITY helpus.getInvolvedLink     "включете се и вие!">
+<!ENTITY helpus.getInvolvedLink     "се включете и вие!">
 <!ENTITY helpus.end                 "">
 <!-- LOCALIZATION NOTE (bottomLinks.license): This is a link title that links to about:license. -->
 
@@ -104,4 +104,4 @@
      example: You are currently on the _Stable_ update channel. -->
 
 <!ENTITY channel.description.start  "Сега сте в канал за обновявания ">
-<!ENTITY channel.description.end    " канал за обновявания. ">
+<!ENTITY channel.description.end    ". ">

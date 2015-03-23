@@ -178,7 +178,7 @@
 
 
 
-
-
-
+<!ENTITY options.sourceeditor.keybinding.label          "Клавишни комбинации">
+<!ENTITY options.sourceeditor.keybinding.accesskey      "К">
+<!ENTITY options.sourceeditor.keybinding.default.label  "Стандартни">
 
