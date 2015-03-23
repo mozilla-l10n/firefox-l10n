@@ -188,9 +188,9 @@
 <!ENTITY pref_plugins "โปรแกรมเสริม">
 <!ENTITY pref_plugins_enabled "ถูกเปิดใช้งาน">
 <!ENTITY pref_plugins_tap_to_play "แตะเพื่อเล่น">
-
-<!ENTITY pref_text_size "ขนาดตัวหนังสือ">
-<!ENTITY pref_reflow_on_zoom4 "ปรับการไหลข้อความใหม่เอง">
+<!ENTITY pref_plugins_disabled "ถูกปิดใช้งาน">
+<!ENTITY pref_text_size "ขนาดตัวอักษร">
+<!ENTITY pref_reflow_on_zoom4 "การไหลของข้อความ">
 <!ENTITY pref_restore "แท็บ">
 <!ENTITY pref_restore_always "เรียกคืนเสมอ">
 <!ENTITY pref_restore_quit "ไม่เรียกคืนหลังออกจาก &brandShortName;">
