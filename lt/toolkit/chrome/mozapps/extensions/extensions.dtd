@@ -4,7 +4,7 @@
 <!ENTITY addons.windowTitle                   "Priedų tvarkytuvė">
 
 <!ENTITY search.placeholder                   "Ieškoti priedų">
-
+<!ENTITY search.buttonlabel                   "Paieška">
 <!-- LOCALIZATION NOTE (search.commandKey):
      The search command key should match findOnCmd.commandkey from browser.dtd -->
 <!ENTITY search.commandkey                    "f">
@@ -36,6 +36,8 @@
 <!ENTITY info.plugincheck.label                 "Spustelėkite, kad būtų patikrinta, ar jūsų naudojami papildiniai nepasenę">
 <!ENTITY info.plugincheck.tooltip               "Spustelėkite, kad būtų patikrinta, ar jūsų naudojami papildiniai nepasenę">
 <!-- categories / views -->
+
+<!ENTITY view.search.label                    "Paieška">
 <!ENTITY view.discover.label                  "Parsisiųsti priedų">
 <!ENTITY view.recentUpdates.label             "Paskiausiai atnaujinti">
 <!ENTITY view.availableUpdates.label          "Galimi naujinimai">
@@ -225,3 +227,4 @@
 <!ENTITY experiment.info.changetelemetry "Telemetrijos nuostatos">
 <!ENTITY experiment.info.changetelemetry.accesskey "T">
 
+<!ENTITY setting.learnmore "Sužinoti daugiau…">
