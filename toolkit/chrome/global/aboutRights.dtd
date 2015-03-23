@@ -50,17 +50,21 @@
      the UI, without this page being forgotten every time those strings are
      updated.  -->
 <!-- intro paragraph for branded builds -->
+
+<!ENTITY rights2.webservices-a "&brandShortName; използва информационни услуги достъпни през Интернет („Услуги“), за да предостави някои от възможностите ако решите използвате тази двоична версия на &brandShortName; под условията описани по-долу. Ако не желаете да използвате една или повече от Услугите или условията по-долу са неприемливи можете да изключите тази възможност или Услуга(и). Инструкции как на изключите определена възможност или Услуга може да намерите ">
 <!ENTITY rights2.webservices-b "тук">
-<!ENTITY rights3.webservices-c ". Останалите възможности и услуги, могат да бъдат изключени от настройките на приложението.">
+<!ENTITY rights3.webservices-c ". Останалите възможности и Услуги, могат да бъдат изключени от настройките на приложението.">
 <!-- safe browsing points for branded builds -->
 
-<!ENTITY rights.safebrowsing-a "Поверително сърфиране: ">
-
-
-
-
-
+<!ENTITY rights.safebrowsing-a "Безопасно сърфиране: ">
+<!ENTITY rights.safebrowsing-b "Изключването на възможността Безопасно сърфиране е непрепоръчително, защото може да доведе посещението ви в опасни страници. Ако желаете изцяло да изключите тази функционалност следвайте тези стъпки:">
+<!ENTITY rights.safebrowsing-term1 "Отворете настройките на приложението">
+<!ENTITY rights.safebrowsing-term2 "Изберете раздел Сигурност">
+<!ENTITY rights.safebrowsing-term3 "Махнете отметките от „&blockAttackSites.label;“ и „&blockWebForgeries.label;“">
+<!ENTITY rights.safebrowsing-term4 "Махнете отметките от „&blockAttackSites.label;“ и „&blockWebForgeries.label;“">
 <!-- location aware browsing points for branded builds -->
+
+<!ENTITY rights.locationawarebrowsing-a "Безопасно сърфиране вече е изключено">
 
 
 <!ENTITY rights.locationawarebrowsing-term1b "about:config">
