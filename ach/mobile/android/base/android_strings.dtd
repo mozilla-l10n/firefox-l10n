@@ -6,7 +6,6 @@
 <!ENTITY  no_space_to_start_error "Kabedo tye manok pi &brandShortName; pi cako.">
 <!ENTITY  error_loading_file "Bal otime ikare me temo pango fail mamite pi tic i &brandShortName;">
 
-<!ENTITY  onboard_start_message "Wajoli i &brandShortName;!">
 
 
 
@@ -97,7 +96,7 @@
      either has not set up Sync, or has no other devices to send a tab
      to. -->
 
-<!ENTITY overlay_share_retry "Tem doki">
+
 
 
 
@@ -185,6 +184,8 @@ representation of the language it is used in that will help show the text in the
 size. -->
 <!-- Localization note (pref_font_size_preview_text): This paragraph is used as an example to
     demonstrate the font size setting.  It is meant to be whimsical and fun. -->
+
+
 
 
 
@@ -320,6 +321,9 @@ size. -->
 <!ENTITY site_settings_no_settings  "Ter mo peke me ajwa.">
 
 <!ENTITY reading_list_added "Kimedo woko pot buk ii Nying jami me Akwan mamegi">
+<!ENTITY reading_list_removed "Kikwanyo woko pot nuk ki Nying jami me akwani ni">
+<!-- Localization note (reading_list_remove) : Used to remove the currently open page from
+     the user's reading list. The opposite of overlay_share_reading_list_btn_label. -->
 
 <!-- Localization note (reading_list_time_minutes2) : This string is used in the "Reading List"
      panel on the home page to give the user an estimate of how many minutes it will take to
@@ -474,12 +478,18 @@ ki Android">
 <!-- These are only used for accessibility for the done and overflow-menu buttons in the actionbar.
      They are never shown to users -->
 <!ENTITY actionbar_done "Otum">
+<!-- Voice search in the awesome bar -->
+
+
+
+
 <!-- Localization note (remote_tabs_last_synced): the variable is replaced by a
      "relative time span string" produced by Android.  This string describes the
      time the tabs were last synced relative to the current time; examples
      include "42 minutes ago", "4 days ago", "last week", etc. The subject of
      "Last synced" is one of the user's other Sync clients, typically Firefox on
      their desktop or laptop.-->
+<!-- Localization note: Used when the sync has not happend yet, showed in place of a date -->
 <!-- Find-In-Page strings -->
 <!-- LOCALIZATION NOTE (find_matchcase): This is meant to appear as an icon that changes color
      if match-case is activated. i.e. No more than two letters, one uppercase, one lowercase. -->

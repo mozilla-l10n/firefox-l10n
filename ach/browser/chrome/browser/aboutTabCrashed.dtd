@@ -2,5 +2,8 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY cmd_engineManager.label        "Lo ot me yeny…">
-<!ENTITY searchEndCap.label             "Yeny">
+<!ENTITY tabCrashed.sendReport "Cwal ripot me poto pi konyo gengo lok marac mukene">
+<!ENTITY tabCrashed.reportSent "Ripot me poto dong kicwalo woko; wapwoyo konyo yubo &brandShortName; maber!">
+
+
+

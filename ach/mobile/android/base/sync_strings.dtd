@@ -141,6 +141,8 @@
 
 <!ENTITY fxaccount_create_account_header2 "Cwe akaunt me Firefox">
 <!ENTITY fxaccount_create_account_password_length_restriction "Myero obed olo kit 8">
+
+
 <!ENTITY fxaccount_create_account_year_of_birth "Mwaka me nywal">
 <!-- Localization note: &formatS1; is fxaccount_policy_linktos, &formatS2; is fxaccount_policy_linkprivacy, both hyperlinked. -->
 <!ENTITY fxaccount_create_account_policy_text2 "Me mede anyim, Aye tic me pol &formatS1; ki &formatS2; pa Firefox.">
@@ -161,7 +163,6 @@
 <!ENTITY fxaccount_confirm_account_change_email "Wek wi wil ikom kanonge me email man?">
 <!ENTITY fxaccount_confirm_account_verification_link_sent2 "Kicwalo email me mok">
 <!ENTITY fxaccount_confirm_account_verification_link_not_sent2 "Pe onongo twero cwalo email me mok">
-
 
 
 
