@@ -140,8 +140,8 @@
 </li> 
 </ul>">
 
-<!ENTITY cspFrameAncestorBlocked.title "अंतर्वस्तु सुरक्षा नीति के द्वारा अवरोधित">
-<!ENTITY cspFrameAncestorBlocked.longDesc "<p>&brandShortName; prevented this page from loading in this way because the page has a content security policy that disallows it.</p>">
+<!ENTITY cspBlocked.title "अंतर्वस्तु सुरक्षा नीति के द्वारा अवरोधित">
+<!ENTITY cspBlocked.longDesc "<p>&brandShortName; prevented this page from loading in this way because the page has a content security policy that disallows it.</p>">
 
 <!ENTITY corruptedContentError.title "खराब अंतर्वस्तु त्रुटि">
 <!ENTITY corruptedContentError.longDesc "<p>The page you are trying to view cannot be shown because an error in the data transmission was detected.</p><ul><li>Please contact the website owners to inform them of this problem.</li></ul>">

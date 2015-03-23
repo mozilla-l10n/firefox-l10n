@@ -73,6 +73,7 @@
 <!ENTITY btnConsoleInfo         "सूचना">
 <!ENTITY btnConsoleWarnings     "चेतावनी">
 <!ENTITY btnConsoleLog          "लॉग">
+<!ENTITY btnConsoleXhr          "XHR">
 <!ENTITY btnConsoleReflows      "पुनर्बहाव">
 
 <!ENTITY filterOutput.placeholder "फ़िल्टर आउटपुट">

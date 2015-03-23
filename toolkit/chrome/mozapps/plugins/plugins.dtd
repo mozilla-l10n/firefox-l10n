@@ -39,3 +39,4 @@
 
 <!ENTITY plugin.file                                         "फ़ाइल">
 <!ENTITY plugin.mimeTypes                                    "माइम क़िस्म">
+<!ENTITY plugin.flashProtectedMode.label                     "एडोब फ्लैश सुरक्षित मोड सक्रिय करें">
