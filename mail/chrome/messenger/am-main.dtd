@@ -37,6 +37,6 @@
 <!ENTITY manageIdentities.accesskey "h">
 
 <!-- LOCALIZATION NOTE (smtpName.label) : do not translate "SMTP" in below line -->
-<!ENTITY smtpName.label "Uitgaande (SMTP-)server:">
+<!ENTITY smtpName.label "Uitgaande server (SMTP):">
 <!ENTITY smtpName.accesskey "S">
 <!ENTITY smtpDefaultServer.label "Standaardserver gebruiken">

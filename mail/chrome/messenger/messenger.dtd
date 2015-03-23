@@ -710,7 +710,7 @@
 <!ENTITY contextOpenConversation.accesskey "n">
 <!ENTITY contextOpenContainingFolder.label "Bericht openen in bijbehorende map">
 <!ENTITY contextOpenContainingFolder.accesskey "m">
-<!ENTITY contextEditMsgAsNew.label "Bewerken as nieuw bericht…">
+<!ENTITY contextEditMsgAsNew.label "Bewerken als nieuw bericht…">
 <!ENTITY contextEditMsgAsNew.accesskey "B">
 <!ENTITY contextArchive.label "Archiveren">
 <!ENTITY contextArchive.accesskey "h">
