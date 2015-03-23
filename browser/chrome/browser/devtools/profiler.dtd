@@ -59,6 +59,10 @@
 <!ENTITY profilerUI.table.totalAlloc      "Celkom vyhradení">
 <!ENTITY profilerUI.table.selfAlloc       "Vlastné vyhradenia">
 <!ENTITY profilerUI.table.function        "Funkcia">
+<!ENTITY profilerUI.table.totalAlloc1       "Celkové zozbierané vyhradenia">
+<!ENTITY profilerUI.table.totalAllocTooltip "Celkový počet vyhradení objektu zozbieraných v tejto lokácii a vo volaniach">
+<!ENTITY profilerUI.table.selfAlloc1        "Zozbierané vlastné vyhradenia">
+<!ENTITY profilerUI.table.selfAllocTooltip  "Počet vyhradení objektu zozbieraných v tejto lokácii">
 
 <!-- LOCALIZATION NOTE (profilerUI.newtab.tooltiptext): The tooltiptext shown
   -  on the "+" (new tab) button for a profile when a selection is available. -->
