@@ -64,12 +64,12 @@
 <!ENTITY rights.safebrowsing-term4 "Махнете отметките от „&blockAttackSites.label;“ и „&blockWebForgeries.label;“">
 <!-- location aware browsing points for branded builds -->
 
-<!ENTITY rights.locationawarebrowsing-a "Безопасно сърфиране вече е изключено">
+<!ENTITY rights.locationawarebrowsing-a "Безопасното сърфиране вече е изключено">
 
-
+<!ENTITY rights.locationawarebrowsing-term1a "В адресната лента въведете ">
 <!ENTITY rights.locationawarebrowsing-term1b "about:config">
-
-
+<!ENTITY rights.locationawarebrowsing-term2 "Въведете geo.enabled">
+<!ENTITY rights.locationawarebrowsing-term3 "Щракнете два пъти върху настройката geo.enabled">
 
 <!-- intro paragraph for unbranded builds -->
 
