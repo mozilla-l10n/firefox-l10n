@@ -79,7 +79,7 @@
   -  boolean preference in about:config, in the options panel. -->
 
 <!ENTITY options.enableRemote.label3    "Включване отдалеченото дебъгване">
-<!ENTITY options.enableRemote.tooltip   "Включването на тази настройка ще ви позволи да използвате развойните инструменти за дебъгване на отдалечени инстанции на Firefox, като Firefox OS">
+<!ENTITY options.enableRemote.tooltip   "Включването на тази настройка ще ви позволи да използвате развойните инструменти за дебъгване на отдалечени екземпляри на Firefox, като Firefox OS">
 <!-- LOCALIZATION NOTE (options.disableJavaScript.label,
   -  options.disableJavaScript.tooltip): This is the options panel label and
   -  tooltip for the checkbox that toggles JavaScript on or off. -->

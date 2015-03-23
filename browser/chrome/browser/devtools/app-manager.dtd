@@ -33,12 +33,12 @@
 <!ENTITY device.installedAppsTooltip "Показване на списък на приложенията, инсталирани на устройството. Някои приложения, като сертифицираните, може да не присъстват в списъка.">
 <!ENTITY device.permissions "Права">
 <!ENTITY device.permissionsTooltip "Показване на таблица с правата, достъпни за приложенията от различни видове">
-
+<!ENTITY device.permissionsHelpLink "https://developer.mozilla.org/docs/Web/Apps/App_permissions">
 <!ENTITY device.browserTabs "Подпрозорци на браузъра">
 <!ENTITY device.browserTabsTooltip "Показване на списък с подпрозорците на браузъра на свързаното устройство">
-
+<!ENTITY device.debugBrowserTab "Дебъг">
 <!ENTITY device.debugBrowserTabTooltip "Отваряне на развойните инструменти, свързани с този подпрозорец на браузъра на устройството">
-
+<!ENTITY device.help "Помощ">
 
 <!ENTITY connection.connectTooltip "Свързване с устройството">
 <!ENTITY connection.disconnect "Развързване">
@@ -49,7 +49,7 @@
 <!ENTITY connection.changeHostAndPort "Промяна">
 <!ENTITY connection.changeHostAndPortTooltip "Промяна на хоста и порта, използвани за свързване с устройството (стандартно localhost:6000)">
 <!ENTITY connection.startSimulator "Пускане на симулатора">
-<!ENTITY connection.startSimulatorTooltip "Пускане на инстанция на симулатора и свързване с нея">
+<!ENTITY connection.startSimulatorTooltip "Нов екземпляр на симулатора и свързване с него">
 <!ENTITY connection.saveConnectionInfo "Запис">
 <!ENTITY connection.saveConnectionInfoTooltip "Запазване на хоста и порта">
 <!ENTITY connection.connecting "Свързване…">

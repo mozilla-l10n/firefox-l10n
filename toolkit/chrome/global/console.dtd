@@ -23,7 +23,7 @@
 
 <!ENTITY copyCmd.label       "Копиране">  
 <!ENTITY copyCmd.accesskey   "К"> 
-
+<!ENTITY copyCmd.commandkey  "C"> 
 
 
 

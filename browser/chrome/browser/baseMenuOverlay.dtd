@@ -44,9 +44,9 @@
 <!ENTITY servicesMenuMac.label          "Услуги">
 
 <!ENTITY hideThisAppCmdMac2.label       "Скриване на &brandShorterName;">
-<!ENTITY hideThisAppCmdMac2.commandkey  "С">
+<!ENTITY hideThisAppCmdMac2.commandkey  "H">
 
 <!ENTITY hideOtherAppsCmdMac.label      "Скриване на другите">
-<!ENTITY hideOtherAppsCmdMac.commandkey "С">
+<!ENTITY hideOtherAppsCmdMac.commandkey "H">
 
 <!ENTITY showAllAppsCmdMac.label        "Показване на всички">
