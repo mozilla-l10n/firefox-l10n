@@ -150,6 +150,8 @@
 
 <!ENTITY fxaccount_create_account_header2 "एक फ़ायरफ़ॉक्स खाता बनाएँ">
 <!ENTITY fxaccount_create_account_password_length_restriction "कम से कम 8 वर्ण की होनी चाहिए">
+<!ENTITY fxaccount_create_account_day_of_birth "दिन">
+<!ENTITY fxaccount_create_account_month_of_birth "महिना">
 <!ENTITY fxaccount_create_account_year_of_birth "जन्म का साल">
 <!-- Localization note: &formatS1; is fxaccount_policy_linktos, &formatS2; is fxaccount_policy_linkprivacy, both hyperlinked. -->
 <!ENTITY fxaccount_create_account_policy_text2 "जारी रखते हुए, मैं फ़ायरफ़ॉक्स क्लाउड सेवा के &formatS1; और &formatS2;से सहमत हूँ. ">
@@ -167,8 +169,12 @@
 <!-- Localization note: &formatS; is the Firefox Account's email address. -->
 <!ENTITY fxaccount_confirm_account_verification_link "&formatS; में जाँच कड़ी भेजी गई है">
 <!ENTITY fxaccount_confirm_account_resend_email "ईमेल फिर भेजें">
+<!ENTITY fxaccount_confirm_account_change_email "इस ईमेल पते को भूल जाओ?">
 <!ENTITY fxaccount_confirm_account_verification_link_sent2 "सत्यापन ईमेल भेजा गया">
 <!ENTITY fxaccount_confirm_account_verification_link_not_sent2 "सत्यापित ईमेल भेजा नहीं जा सका">
+<!ENTITY fxaccount_resend_unlock_code_button_label "ईमेल अनलॉक पुन: भेजें">
+<!ENTITY fxaccount_unlock_code_sent "खाता अनलॉक ईमेल भेजा">
+<!ENTITY fxaccount_unlock_code_not_sent "खाता अनलॉक ईमेल नहीं भेजा जा सका">
 
 <!ENTITY fxaccount_sign_in_sub_header "साइन इन">
 <!ENTITY fxaccount_sign_in_button_label "साइन इन">
@@ -179,13 +185,21 @@
 <!ENTITY fxaccount_account_verified_sub_header "खाता सत्यापित किया गया">
 <!ENTITY fxaccount_account_verified_description2 "आपका डाटा कुछ ही क्षणों मे सिंक होने वाला है.">
 
+<!ENTITY fxaccount_migration_finished_header "समाप्त अपग्रेड">
+
 <!ENTITY fxaccount_update_credentials_header "साइन इन">
 <!ENTITY fxaccount_update_credentials_button_label "साइन इन">
 <!ENTITY fxaccount_update_credentials_unknown_error "साइन इन नहीं कर सका">
 
+<!ENTITY fxaccount_finish_migrating_header "उन्नयन समाप्त करने के लिए साइन इन करें">
+<!ENTITY fxaccount_finish_migrating_button_label "समाप्त करें उन्नयन">
+<!ENTITY fxaccount_finish_migrating_description "उन्नयन से बहुत ज्यादा डेटा स्थानांतरित हो सकता है. किसी वाईफाई नेटवर्क में रहना सबसे बेहतर होगा.">
+
 <!ENTITY fxaccount_status_header2 "फ़ायरफ़ॉक्स खाता">
 <!ENTITY fxaccount_status_signed_in_as "ऐसे साइन इन करें">
 <!ENTITY fxaccount_status_auth_server "खाता सर्वर |">
+<!ENTITY fxaccount_status_sync_now "अब सिंक करें">
+<!ENTITY fxaccount_status_syncing2 "सिंक्रनाइज़ किए जा रहे…">
 <!ENTITY fxaccount_status_device_name "उपकरण का नाम ">
 <!ENTITY fxaccount_status_sync_server "सर्वर से सिंक करें ">
 <!ENTITY fxaccount_status_sync "&syncBrand.shortName.label;">
@@ -194,7 +208,8 @@
 <!ENTITY fxaccount_status_needs_credentials "कनेक्ट नहीं कर सका। साइन-इन करने के लिए टैप करें।">
 <!ENTITY fxaccount_status_needs_upgrade "साइन-इन करने के लिए आपको &brandShortName; अद्यतन करने की जरूरत है।">
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled "&syncBrand.shortName.label; सेटअप किया गया है, लेकिन स्वतः सिंक नहीं होता है. “डाटा स्वतःतुल्यकालन” एंड्रायड सेटिंग में टॉगल करें &gt; डाटा प्रयोग.">
-<!ENTITY fxaccount_status_needs_account_enabled "&syncBrand.shortName.label; सेटअप है लेकिन स्वतः तुल्यकालित नहीं होता है. तुल्यकालन के लिए टिपटिपाएँ.">
+<!ENTITY fxaccount_status_needs_master_sync_automatically_enabled_v21 "&syncBrand.shortName.label; स्थापित हैं, लेकिन स्वचालित रूप से सिंक नहीं कर रहा है. एंड्रॉयड &gt; खाता सेटिंग्स में \&quot;ऑटो सिंक डेटा\&quot; टॉगल करें.">
+<!ENTITY fxaccount_status_needs_finish_migrating "अपने नए फ़ायरफ़ॉक्स खाता में साइन इन करने के लिए टैप करें.">
 <!ENTITY fxaccount_status_bookmarks "पुस्तचिह्न">
 <!ENTITY fxaccount_status_history "इतिहास">
 <!ENTITY fxaccount_status_passwords "कूटशब्द">
@@ -242,8 +257,14 @@
 <!ENTITY fxaccount_remote_error_SERVICE_TEMPORARILY_UNAVAILABLE_TO_DUE_HIGH_LOAD "सर्वर व्यस्त है, जल्द ही पुन: प्रयास करें">
 <!ENTITY fxaccount_remote_error_UNKNOWN_ERROR "एक कठिनाई थी">
 <!ENTITY fxaccount_remote_error_COULD_NOT_CONNECT "सर्वर से जुड़ नहीं सका">
+<!ENTITY fxaccount_remote_error_ACCOUNT_LOCKED "खाता बंद कर दिया है. &formatS1;">
 
 <!ENTITY fxaccount_sync_sign_in_error_notification_title2 "&syncBrand.shortName.label; जुड़ा हुआ नहीं है">
 <!-- Localization note: the format string below will be replaced
      with the Firefox Account's email address. -->
 <!ENTITY fxaccount_sync_sign_in_error_notification_text2 "&formatS; के रूप में साइन-इन करने के लिए टैप करें">
+
+<!ENTITY fxaccount_sync_finish_migrating_notification_title "समाप्त करें उन्नयन &syncBrand.shortName.label;?">
+<!-- Localization note: the format string below will be replaced
+     with the Firefox Account's email address. -->
+<!ENTITY fxaccount_sync_finish_migrating_notification_text "&formatS; के रूप में साइन-इन करने के लिए टैप करें">

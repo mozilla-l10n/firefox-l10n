@@ -1,25 +1,80 @@
+<!-- LOCALIZATION NOTE (inspectorHTMLEdit.label): This is the label shown
+     in the inspector contextual-menu for the item that lets users edit the
+     (outer) HTML of the current node -->
 <!ENTITY inspectorHTMLEdit.label       "बतौर HTML संपादित करें (E)">
 <!ENTITY inspectorHTMLEdit.accesskey   "E">
+<!-- LOCALIZATION NOTE (inspectorHTMLCopyInner.label): This is the label shown
+     in the inspector contextual-menu for the item that lets users copy the
+     inner HTML of the current node -->
 
 <!ENTITY inspectorHTMLCopyInner.label       "आंतरिक HTML की नक़ल लें">
 <!ENTITY inspectorHTMLCopyInner.accesskey   "I">
+<!-- LOCALIZATION NOTE (inspectorHTMLCopyOuter.label): This is the label shown
+     in the inspector contextual-menu for the item that lets users copy the
+     outer HTML of the current node -->
 
 <!ENTITY inspectorHTMLCopyOuter.label       "बाहरी HTML की नक़ल लें">
 <!ENTITY inspectorHTMLCopyOuter.accesskey   "O">
+<!-- LOCALIZATION NOTE (inspectorCopyUniqueSelector.label): This is the label
+     shown in the inspector contextual-menu for the item that lets users copy
+     the CSS Selector of the current node -->
 
 <!ENTITY inspectorCopyUniqueSelector.label       "कॉपी और अद्वितीय चयनकर्ता (U)">
 <!ENTITY inspectorCopyUniqueSelector.accesskey   "U">
+<!-- LOCALIZATION NOTE (inspectorHTMLPasteOuter.label): This is the label shown
+     in the inspector contextual-menu for the item that lets users paste outer
+     HTML in the current node -->
 
 <!ENTITY inspectorHTMLPasteOuter.label      "बाहरी HTML चिपकाएँ (P)">
 <!ENTITY inspectorHTMLPasteOuter.accesskey  "P">
+<!-- LOCALIZATION NOTE (inspectorHTMLPasteInner.label): This is the label shown
+     in the inspector contextual-menu for the item that lets users paste inner
+     HTML in the current node -->
+
+<!-- LOCALIZATION NOTE (inspectorHTMLPasteExtraSubmenu.label): This is the label
+     shown in the inspector contextual-menu for the sub-menu of the other Paste
+     items, which allow to paste HTML:
+     - before the current node
+     - after the current node
+     - as the first child of the current node
+     - as the last child of the current node -->
+
+<!-- LOCALIZATION NOTE (inspectorHTMLPasteBefore.label): This is the label shown
+     in the inspector contextual-menu for the item that lets users paste
+     the HTML before the current node -->
+
+<!-- LOCALIZATION NOTE (inspectorHTMLPasteAfter.label): This is the label shown
+     in the inspector contextual-menu for the item that lets users paste
+     the HTML after the current node -->
+
+<!-- LOCALIZATION NOTE (inspectorHTMLPasteFirstChild.label): This is the label
+     shown in the inspector contextual-menu for the item that lets users paste
+     the HTML as the first child the current node -->
+
+<!-- LOCALIZATION NOTE (inspectorHTMLPasteLastChild.label): This is the label
+     shown in the inspector contextual-menu for the item that lets users paste
+     the HTML as the last child the current node -->
+
+<!-- LOCALIZATION NOTE (inspectorHTMLDelete.label): This is the label shown in
+     the inspector contextual-menu for the item that lets users delete the
+     current node -->
+
 
 <!ENTITY inspectorHTMLDelete.label          "नोड मिटाएँ">
 <!ENTITY inspectorHTMLDelete.accesskey      "D">
 
 <!ENTITY inspector.selectButton.tooltip     "माउस से तत्व चुनें">
-
-<!ENTITY inspectorSearchHTML.label          "HTML खोजें">
+<!-- LOCALIZATION NOTE (inspectorSearchHTML.label2): This is the label shown as
+     the placeholder in inspector search box -->
 <!ENTITY inspectorSearchHTML.key            "F">
+<!-- LOCALIZATION NOTE (inspectorCopyImageDataUri.label): This is the label
+     shown in the inspector contextual-menu for the item that lets users copy
+     the URL embedding the image data encoded in Base 64 (what we name
+     here Image Data URL). For more information:
+     https://developer.mozilla.org/en-US/docs/Web/HTTP/data_URIs -->
 
 <!ENTITY inspectorCopyImageDataUri.label       "नक़ल करें छवि डेटा-URL">
-
+<!-- LOCALIZATION NOTE (inspectorShowDOMProperties.label): This is the label
+     shown in the inspector contextual-menu for the item that lets users see
+     the DOM properties of the current node. When triggered, this item
+     opens the split Console and displays the properties in its side panel. -->

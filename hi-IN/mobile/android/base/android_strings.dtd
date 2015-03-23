@@ -6,8 +6,8 @@
 <!ENTITY  no_space_to_start_error "&brandShortName; शुरू करने के लिए यहा पर्याप्त जगह नही है | ">
 <!ENTITY  error_loading_file "&brandShortName; को चालू करने के लिए फाइल को लोड करने की कोशिश करने के दौरान त्रुटि हुई;">
 
-<!ENTITY  onboard_start_message "&brandShortName; में आपका स्वागत है!">
-<!ENTITY  onboard_start_subtext " आप, आपकी गोपनीयता, और खुले वेब के लिए प्रतिबद्ध है">
+<!ENTITY  onboard_start_message2 "&brandShortName; में आपका स्वागत है">
+<!ENTITY  onboard_start_subtext2 "अधिक गोपनीयता सुविधाएँ और ज्यादा अनुकूलित करने के तरीके.">
 <!ENTITY  onboard_start_button_account "&brandShortName; में साइन इन करें">
 <!ENTITY  onboard_start_button_browser "ब्राउजिंग शुरू करें">
 <!-- Localization note: These are used as the titles of different pages on the home screen.
@@ -160,7 +160,7 @@
 <!-- Localization note: These are shown in the left sidebar on tablets -->
 
 <!ENTITY pref_header_customize "मनपसंद बनाएँ">
-<!ENTITY pref_header_display "दिखाएँ">
+<!ENTITY pref_header_display "प्रदर्शित करें">
 <!ENTITY pref_header_privacy_short "गोपनीयता">
 <!ENTITY pref_header_help "मदद">
 <!ENTITY pref_header_language "भाषा">
@@ -172,10 +172,10 @@
 <!ENTITY pref_cookies_not_accept_foreign "सक्षम, तीसरा पक्ष छोड़कर">
 <!ENTITY pref_cookies_disabled "अक्षम">
 
-<!ENTITY pref_donottrack_menu "ट्रैकिंग">
-<!ENTITY pref_donottrack_disallow_tracking "वेबसाइटों को बताएँ कि आपको ट्रैक न करें">
-<!ENTITY pref_donottrack_allow_tracking "वेबसाइटों को बताएँ कि आपको ट्रैक करें">
-<!ENTITY pref_donottrack_no_pref "वेबसाइटों को मेरी ट्रैकिंग वरीयताएँ मत बताएँ">
+<!ENTITY pref_tracking_protection_title "ट्रैकिंग संरक्षण">
+<!ENTITY pref_tracking_protection_summary "&brandShortName; साइट को आपकी ट्रैकिंग से रोकेगा">
+<!ENTITY pref_donottrack_title "पीछा न करें">
+<!ENTITY pref_donottrack_summary "&brandShortName; साइट को बताता है कि आप ट्रैक नाहि होना छह्ते है">
 
 <!ENTITY pref_char_encoding "वर्ण एन्कोडिंग">
 <!ENTITY pref_char_encoding_on "मेन्यू दिखाएँ">
@@ -205,11 +205,16 @@
 same character/combination is used to increase the preview font size. It should be a concise
 representation of the language it is used in that will help show the text in the preview will change
 size. -->
-<!ENTITY pref_font_size_adjust_char "अ">
+<!ENTITY pref_font_size_adjust_char "A">
 <!-- Localization note (pref_font_size_preview_text): This paragraph is used as an example to
     demonstrate the font size setting.  It is meant to be whimsical and fun. -->
 
 <!ENTITY pref_font_size_preview_text "आपकी यह फुर्तीली नारंगी लोमड़ी अब ज़्यादा लोच व सुरक्षा से लैस होकर आपकी उम्मीदों से भी तेज़ दौड़ेगी. लाभ-लोभ से परे हम बग़ैर समझौता किए आपकी सेवा में नवाचार के लिए आज़ाद हैं. आइए, विश्ववव्यापी वेब के उज्ज्वल भविष्य में विचरने का अद्वितीय आनंद उठाएँ.">
+
+<!ENTITY pref_media_autoplay_enabled "ऑटोप्ले की अनुमति दें">
+<!ENTITY pref_media_autoplay_enabled_summary "अगर वेबसाइट स्वत: वीडियो और दूसरी मीडिया सामग्री चलाता है तो यह उसे नियंत्रित करता है">
+<!ENTITY pref_zoom_force_enabled "हमेशा जूम सक्षम करें">
+<!ENTITY pref_zoom_force_enabled_summary "बल ओवरराइड हैं, ताकि आप किसी भी पृष्ठ ज़ूम कर सकते हैं ">
 
 <!ENTITY pref_use_master_password "प्रधान कूटशब्द का उपयोग करें">
 <!ENTITY pref_sync "सिंक">
@@ -266,7 +271,7 @@ size. -->
      (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
 <!ENTITY datareporting_crashreporter_title_short "क्रैश रिपोर्टर">
 <!ENTITY datareporting_wifi_title2 "&vendorShortName; अवस्थिति सेवा">
-<!ENTITY datareporting_wifi_geolocation_summary2 "यह हमारे भौगोलिक सेवा में सुधार करने के लिए अनुमानित वाई-फाई और उपकरण के सेलुलर स्थान &vendorShortName; के साथ साझा करता हैं ">
+<!ENTITY datareporting_wifi_geolocation_summary3 "मदत &vendorShortName; दुनिया को आपस में जोडती है ! हमारे जियोलोकेशन सेवा में सुधार करने के लिए अनुमानित वाई-फाई और अपनी डिवाइस के सेलुलर स्थान साझा करें">
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
      actual notification that an update is available. -->
@@ -276,7 +281,7 @@ size. -->
 <!ENTITY pref_update_autodownload_always "हमेशा">
 <!-- Localization note (help_menu) : This string is used in the main menu-->
 
-<!ENTITY help_menu "मदत ">
+<!ENTITY help_menu "मदद">
 
 <!ENTITY quit "बाहर">
 
@@ -297,7 +302,7 @@ size. -->
 <!ENTITY new_private_tab "नया निजी टैब">
 <!ENTITY close_all_tabs "सभी टैब बन्द करें">
 <!ENTITY close_private_tabs "निजी टैब बंद करें |">
-<!ENTITY tabs_normal "टैब">
+<!ENTITY tabs_normal "टैबस ">
 <!ENTITY tabs_private "निजी">
 <!ENTITY tabs_synced "सिंक किया">
 <!ENTITY set_image_fail "छवि सेट करने में असमर्थ">
@@ -361,8 +366,17 @@ size. -->
 <!ENTITY site_settings_no_settings  "सफ़ाई के लिए कोई सेटिंग नहीं.">
 
 <!ENTITY reading_list_added "पाठ सूची में पृष्ठ जुड़ा">
-<!ENTITY reading_list_failed "पाठ सूची में पृष्ठ जोड़ने में विफल">
+<!ENTITY reading_list_removed "पाठ सूची से पृष्ठ हटाया">
+<!-- Localization note (reading_list_remove) : Used to remove the currently open page from
+     the user's reading list. The opposite of overlay_share_reading_list_btn_label. -->
+<!ENTITY reading_list_remove "पठन सूची से निकालें">
 <!ENTITY reading_list_duplicate "पाठ सूची में पृष्ठ पहले से है">
+<!-- Localization note (reading_list_time_minutes2) : This string is used in the "Reading List"
+     panel on the home page to give the user an estimate of how many minutes it will take to
+     read an article. The word "minute" should be abbreviated if possible. -->
+
+<!ENTITY reading_list_time_minutes2 "&formatD; मिनट">
+<!ENTITY reading_list_time_over_an_hour "एक घंटे से अधिक">
 <!-- Localization note : These strings are used as alternate text for accessibility.
      They are not visible in the UI. -->
 
@@ -385,7 +399,10 @@ size. -->
 <!-- Localization note (home_top_sites_add): This string is used as placeholder
      text underneath empty thumbnails in the Top Sites page on about:home. -->
 <!ENTITY home_top_sites_add "साइट जोड़ें">
+<!-- Localization note (home_title): This string should be kept in sync
+     with the page title defined in aboutHome.dtd -->
 
+<!ENTITY home_title "&brandShortName; घर">
 <!ENTITY home_history_title "इतिहास">
 <!ENTITY home_clear_history_button "ब्राउज़िंग का इतिहास साफ़ करें |">
 <!ENTITY home_clear_history_confirm "क्या आप दृढ़ हैं की आप इतिहास को साफ करना चाहते हैं?">
@@ -395,6 +412,9 @@ size. -->
 <!ENTITY home_last_tabs_empty "हालिया टैब यहाँ दिखते हैं.">
 <!ENTITY home_open_all "सब खोलें |">
 <!ENTITY home_most_recent_empty "आपके देखे हुए सबसे हालिया वेबसाइट यहाँ दिखाए गए हैं.">
+<!-- Localization note (home_most_recent_emptyhint2): "Psst" is a sound that might be used to attract someone's attention unobtrusively, and intended to hint at Private Browsing to the user.
+     The placeholders &formatS1; and &formatS2; are used to mark the location of text underlining. -->
+<!ENTITY home_most_recent_emptyhint2 "अरे: &formatS1; का उपयोग करते हुए नया निजी टैब &formatS2; आपका नक्शे कदम संचय नहि करेगा.">
 <!ENTITY home_reading_list_empty "बाद के लिए सहेजे गए आलेख यहाँ दिखते हैं.">
 <!-- Localization note (home_reading_list_hint): The "TIP" string is synonymous to "hint", "clue", etc. This string is displayed
      as an advisory message on how to add content to the reading list when the reading list empty.
@@ -417,6 +437,8 @@ size. -->
 <!ENTITY home_remote_tabs_empty "अन्य उपकरणों से आपके टैब यहाँ दिखाई देंगी.">
 <!ENTITY home_remote_tabs_unable_to_connect "कनेक्ट करने में असमर्थ">
 <!ENTITY home_remote_tabs_need_to_sign_in "अपने Firefox खाता जोड़ने और समन्वयन जारी रखने के लिए साइन इन करें.">
+<!ENTITY home_remote_tabs_need_to_finish_migrating "आपका नया फ़ायरफ़ॉक्स खाता तैयार है!">
+
 <!ENTITY home_remote_tabs_trouble_verifying "खाते की पुष्टि करने में मुसीबत?">
 <!ENTITY home_remote_tabs_need_to_verify "समन्वयन शुरू करने के लिए अपने Firefox खाता सत्यापित करें.">
 
@@ -462,11 +484,21 @@ substitution variables.  If it is difficult to translate the sense of the string
 with that structure, consider a translation which ignores the preceding domain and
 just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_run_by "जो इसके द्वारा चलता है">
+<!ENTITY identity_no_info "यह वेबसाइट पहचान सूचना नहीं देती है.">
+<!ENTITY identity_not_encrypted "इस वेबसाइट से आपका कनेक्शन एन्क्रिप्टेड नहीं है.">
 <!-- Mixed content notifications in site identity popup -->
 
 <!ENTITY loaded_mixed_content_message "यह पृष्ठ असुरक्षित सामग्री दिखा रहा है.">
 <!ENTITY blocked_mixed_content_message_top "&brandShortName; ने असुरक्षित सामग्री रोक दी है.">
 <!ENTITY blocked_mixed_content_message_bottom "इस सामग्री की रोक-थाम के बावजूद अधिकतर वेबसाइट अच्छे से काम करेंगे.">
+<!-- Tracking content notifications in site identity popup -->
+
+<!ENTITY loaded_tracking_content_message_top "ट्रैकिंग संरक्षण अक्षम किया गया.">
+<!ENTITY loaded_tracking_content_message_bottom "इस पृष्ठ के पार्ट्स आपके ऑनलाइन गतिविधि ट्रैक कर सकते हैं.">
+<!ENTITY blocked_tracking_content_message_top2 "ट्रैकिंग सुरक्षा सक्षम.">
+<!ENTITY blocked_tracking_content_message_bottom2 "आपकी ऑनलाइन गतिविधियों पर नज़र रखने वाले पृष्ठ का उस भाग को अवरुद्ध कर दिया गया है.">
+<!-- Common mixed and tracking content strings in site identity popup -->
+
 <!ENTITY learn_more "अधिक जानें">
 <!ENTITY enable_protection "सुरक्षा सक्रिय करें">
 <!ENTITY disable_protection "सुरक्षा निष्क्रिय करें">
@@ -494,8 +526,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY webapp_generic_name "ऐप्प">
 
 <!ENTITY searchable_description "पुस्तचिह्न और इतिहास">
-
-<!ENTITY devtools_remote_debugging_forward "पोर्ट फ़ॉरवर्डिंग सेटअप करना न भूलें!">
 <!-- Updater notifications --> 
 
 <!ENTITY updater_start_title2 "&brandShortName; के लिए अद्यतन उपलब्ध">
@@ -508,12 +538,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY updater_apply_title2 "&brandShortName; के लिए अद्यतन उपलब्ध">
 <!ENTITY updater_apply_select2 "अद्ययन के लिए छुएँ">
-<!-- New tablet UI -->
-<!-- LOCALIZATION NOTE (new_tablet_restart): Notification displayed after the user toggles the new tablet UI in the settings screen.-->
-
-
-<!ENTITY new_tablet_restart "परिवर्तनों को प्रभावी करने के लिए ब्राउज़र को पुनरारंभ करें">
-<!ENTITY new_tablet_pref "नई टैबलेट यूआई सक्षम करें">
 <!-- Guest mode -->
 
 <!ENTITY new_guest_session "नया अतिथि सत्र">
@@ -535,11 +559,18 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY ellipsis "…">
 
 <!ENTITY colon ":">
-<!-- These are only used for accessiblity for the done and overflow-menu buttons in the actionbar.
+<!-- These are only used for accessibility for the done and overflow-menu buttons in the actionbar.
      They are never shown to users -->
 
 <!ENTITY actionbar_menu "मेन्यू">
 <!ENTITY actionbar_done "संपन्न">
+<!-- Voice search in the awesome bar -->
+
+<!ENTITY voicesearch_prompt "अब बोलें">
+<!ENTITY voicesearch_failed_title "&brandShortName; ध्वनि खोज">
+<!ENTITY voicesearch_failed_message "ध्वनि खोज के साथ एक समस्या  है. बाद में कोशिश करें.">
+<!ENTITY voicesearch_failed_message_recoverable "क्षमा करें हम आपके शब्दों को नहीं पहचान सके. कृपया पुन: प्रयास करें.">
+<!ENTITY voicesearch_failed_retry "फिर कोशिश करें">
 <!-- Localization note (remote_tabs_last_synced): the variable is replaced by a
      "relative time span string" produced by Android.  This string describes the
      time the tabs were last synced relative to the current time; examples
@@ -548,3 +579,10 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      their desktop or laptop.-->
 
 <!ENTITY remote_tabs_last_synced "अाखरी सिंक: &formatS;">
+<!-- Localization note: Used when the sync has not happend yet, showed in place of a date -->
+<!ENTITY remote_tabs_never_synced "अंतिम बार समन्वयित: कभी नहीं">
+<!-- Find-In-Page strings -->
+<!-- LOCALIZATION NOTE (find_matchcase): This is meant to appear as an icon that changes color
+     if match-case is activated. i.e. No more than two letters, one uppercase, one lowercase. -->
+
+<!ENTITY find_matchcase "आ">

@@ -1,0 +1,18 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+
+
+
+
+<!ENTITY oneClickSearchEngines.label           "सर्च इंजन एक क्लिक करें">
+
+
+<!ENTITY engineKeywordColumn.label             "बीजशब्द">
+
+<!ENTITY restoreDefaultSearchEngines.label     "Default सर्च इंजन पुनर्स्थापित करें">
+<!ENTITY restoreDefaultSearchEngines.accesskey "D">
+
+
+

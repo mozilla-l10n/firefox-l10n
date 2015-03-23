@@ -114,11 +114,14 @@
   -  for the target of the toolbox. -->
 
 <!ENTITY options.toolNotSupported.label  "* मौजूदा औज़ारपेटी लक्ष्य के लिए समर्थित नहीं">
-<!-- LOCALIZATION NOTE (options.selectDevToolsTheme.label): This is the label for
+<!-- LOCALIZATION NOTE (options.selectDevToolsTheme.label2): This is the label for
   -  the heading of the radiobox corresponding to the theme of the developer
   -  tools. -->
 
-<!ENTITY options.selectDevToolsTheme.label   "DevTools प्रसंग चुनें:">
+<!ENTITY options.selectDevToolsTheme.label2   "प्रसंग">
+<!-- LOCALIZATION NOTE (options.usedeveditiontheme.*) Options under the
+  -  toolbox for enabling and disabling the Developer Edition browser theme. -->
+
 <!-- LOCALIZATION NOTE (options.webconsole.label): This is the label for the
   -  heading of the group of Web Console preferences in the options panel. -->
 
@@ -148,7 +151,7 @@
   -  panel. -->
 
 <!ENTITY options.profiler.label            "जावास्क्रिप्ट प्रोफाइलर">
-<!-- LOCALICATION NOTE (options.commonprefs): This is the label for the heading
+<!-- LOCALIZATION NOTE (options.commonprefs): This is the label for the heading
       of all preferences that affect both the Web Console and the Network
       Monitor -->
 
@@ -184,3 +187,4 @@
 <!ENTITY options.sourceeditor.keybinding.label          "कीबाइंडिंग (K)">
 <!ENTITY options.sourceeditor.keybinding.accesskey      "K">
 <!ENTITY options.sourceeditor.keybinding.default.label  "तयशुदा">
+
