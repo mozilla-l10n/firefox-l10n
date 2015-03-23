@@ -7,11 +7,10 @@
 <!-- LOCALIZATION NOTE: aboutWarningTitle.label should be attention grabbing and playful -->
 
 
-<!ENTITY aboutWarningCheckbox.label "Показване на предупреждението и следващия път">
 
-<!ENTITY searchPrefs.label "Търсене:">
-<!ENTITY searchPrefs.accesskey "р">
-<!ENTITY focusSearch.key "р">
+
+
+
 <!-- Columns -->
 <!ENTITY lockColumn.label "Състояние">
 
