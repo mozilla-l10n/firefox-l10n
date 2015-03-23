@@ -33,7 +33,7 @@
 <!ENTITY device.installedAppsTooltip "Показване на списък на приложенията, инсталирани на устройството. Някои приложения, като сертифицираните, може да не присъстват в списъка.">
 <!ENTITY device.permissions "Права">
 <!ENTITY device.permissionsTooltip "Показване на таблица с правата, достъпни за приложенията от различни видове">
-<!ENTITY device.permissionsHelpLink "https://developer.mozilla.org/docs/Web/Apps/App_permissions">
+
 <!ENTITY device.browserTabs "Подпрозорци на браузъра">
 <!ENTITY device.browserTabsTooltip "Показване на списък с подпрозорците на браузъра на свързаното устройство">
 
@@ -80,7 +80,7 @@
 <!ENTITY projects.debugAppTooltip "Отваряне на инструментите за разработчика, свързани с това приложение">
 
 <!ENTITY projects.saveManifestTooltip "Запазване на съдържанието от Редактора за манифести">
-<!ENTITY projects.hostedManifestPlaceHolder2 "http://example.com/app/manifest.webapp">
+
 <!ENTITY projects.noProjects "Няма проекти. Добавяне на ново пакетирано приложение (локална директория) или на хостнато приложение (връзка към файл с манифест).">
 <!ENTITY projects.manifestEditor "Редактор на манифест">
 <!ENTITY projects.manifestEditorTooltip "Редактирайте по-долу манифеста на вашето приложение. Бутонът Обновяване ще запише вашите промени и ще обнови приложението.">
