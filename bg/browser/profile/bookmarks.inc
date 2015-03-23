@@ -28,7 +28,7 @@
 # link title for https://www.mozilla.org/en-US/firefox/central/
 
 
-#define getting_started Начални насоки на Firefox
+#define getting_started Първи стъпки
 
 
 # LOCALIZATION NOTE (firefox_heading):
