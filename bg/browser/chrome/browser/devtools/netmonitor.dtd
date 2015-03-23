@@ -113,8 +113,6 @@
 <!ENTITY netmonitorUI.footer.filterMedia  "Медия">
 <!-- LOCALIZATION NOTE (debuggerUI.footer.filterFlash): This is the label displayed
   -  in the network details footer for the "Flash" filtering button. -->
-
-<!ENTITY netmonitorUI.footer.filterFlash  "Flash">
 <!-- LOCALIZATION NOTE (debuggerUI.footer.filterOther): This is the label displayed
   -  in the network details footer for the "Other" filtering button. -->
 
