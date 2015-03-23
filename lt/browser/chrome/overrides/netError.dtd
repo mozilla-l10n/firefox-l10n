@@ -165,4 +165,5 @@ functionality specific to firefox. -->
 <!ENTITY sslv3Used.title "Nepavyko prisijungti saugiai">
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc) - Do not translate
      "ssl_error_unsupported_version". -->
+<!ENTITY sslv3Used.longDesc "Papildoma informacija: ssl_error_unsupported_version">
 <!ENTITY sslv3Used.learnMore "Sužinoti daugiau…">
