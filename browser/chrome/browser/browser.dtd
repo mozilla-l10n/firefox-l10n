@@ -824,11 +824,12 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY panicButton.thankyou.msg2                "Saugaus naršymo!">
 <!ENTITY panicButton.thankyou.buttonlabel         "Ačiū!">
 
-
-
-
-
-
+<!ENTITY processHang.terminateScript.label        "Stabdyti scenarijų">
+<!ENTITY processHang.terminateScript.accessKey    "S">
+<!ENTITY processHang.debugScript.label            "Derinti scenarijų">
+<!ENTITY processHang.debugScript.accessKey        "D">
+<!ENTITY processHang.terminatePlugin.label        "Išjungti įskiepį">
+<!ENTITY processHang.terminatePlugin.accessKey    "į">
 <!ENTITY processHang.terminateProcess.label       "Nutraukti procesą">
 <!ENTITY processHang.terminateProcess.accessKey   "N">
 
@@ -840,10 +841,14 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY emeNotificationsDontAskAgain.accesskey   "k">
 
 <!ENTITY readingList.label                        "Skaitymo sąrašas">
-
-
+<!ENTITY readingList.sidebar.commandKey           "R">
+<!ENTITY readingList.showSidebar.label            "Rodyti skaitinių sąrašo parankinę">
 <!-- Pre-landed string for bug 1124153 -->
+<!ENTITY readingList.sidebar.showMore.label       "Rodyti daugiau…">
 <!-- Pre-landed string for bug 1133662 -->
+<!ENTITY readingList.sidebar.emptyText            "Pridėkite straipsnius į savo skaitinių sąrašą ir vėliau juos galėsite lengvai rasti.">
 <!-- Pre-landed string for bug 1123525 -->
+<!ENTITY readingList.sidebar.delete.tooltip       "Pašalinti iš skaitinių sąrašo">
 <!-- Pre-landed strings for bug 1123519 -->
+<!ENTITY readingList.sidebar.add.label            "Pridėti į skaitinių sąrašą">
 
