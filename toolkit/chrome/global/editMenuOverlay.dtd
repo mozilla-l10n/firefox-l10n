@@ -20,7 +20,7 @@
 <!ENTITY pasteCmd.key              "V">
 <!ENTITY pasteCmd.accesskey        "П">
 <!ENTITY deleteCmd.label           "Изтриване">
-<!ENTITY deleteCmd.accesskey       "т">
+<!ENTITY deleteCmd.accesskey       "н">
 <!ENTITY selectAllCmd.label        "Избиране на всичко">
 <!ENTITY selectAllCmd.key          "A">
 <!ENTITY selectAllCmd.accesskey    "в">
@@ -30,6 +30,6 @@
 <!ENTITY findAgainCmd.label        "Търсене отново">
 <!ENTITY findAgainCmd.key          "G">
 <!ENTITY findAgainCmd.key2         "VK_F3">
-<!ENTITY findAgainCmd.accesskey    "н">
+<!ENTITY findAgainCmd.accesskey    "ъ">
 <!ENTITY findPreviousCmd.label     "Търсене предишен">
 <!ENTITY findPreviousCmd.accesskey "д">
