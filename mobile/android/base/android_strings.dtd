@@ -172,9 +172,10 @@
 <!ENTITY pref_cookies_not_accept_foreign "చేతనం, 3వ పక్షం మినహాయించి">
 <!ENTITY pref_cookies_disabled "అచేతనం">
 
-
-
-
+<!ENTITY pref_tracking_protection_title "ట్రాకింగ్ సంరక్షణ">
+<!ENTITY pref_tracking_protection_summary "వెబ్‌సైట్లు మిమ్మల్ని ట్రాక్ చెయ్యకుండా &brandShortName; అడ్డుకుంటుంది">
+<!ENTITY pref_donottrack_title "ట్రాక్ చెయ్యవద్దు">
+<!ENTITY pref_donottrack_summary "మిమ్మల్ని ట్రాక్ చెయ్యవద్దనుకుంటున్నారని &brandShortName; వెబ్‌సైట్లకు తెలియజేస్తుంది">
 
 <!ENTITY pref_char_encoding "అక్షరాల ఎన్కోడింగు">
 <!ENTITY pref_char_encoding_on "మెను చూపించు">
@@ -491,8 +492,10 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY blocked_mixed_content_message_bottom "ఈ విషయాన్ని నిరోధించినా చాలా వెబ్‌సైట్లు సరిగానే పనిచేస్తాయి.">
 <!-- Tracking content notifications in site identity popup -->
 
-
-
+<!ENTITY loaded_tracking_content_message_top "ట్రాకింగ్ సంరక్షణ అచేతనమయ్యింది.">
+<!ENTITY loaded_tracking_content_message_bottom "ఈ పేజీలోని భాగాలు మీ జాల కార్యకలాపాలను ట్రాక్ చెయ్యవచ్చు.">
+<!ENTITY blocked_tracking_content_message_top2 "ట్రాకింగ్ సంరక్షణ చేతనమయ్యింది.">
+<!ENTITY blocked_tracking_content_message_bottom2 "ఈ పేజీలో మీ జాల కార్యకలాపాలను ట్రాక్ చేసే భాగాలు నిరోధించబడ్డాయి.">
 <!-- Common mixed and tracking content strings in site identity popup -->
 
 <!ENTITY learn_more "మరింత తెలుసుకోండి">
@@ -563,7 +566,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- Voice search in the awesome bar -->
 
 <!ENTITY voicesearch_prompt "ఇప్పుడు మాట్లాడండి">
-
+<!ENTITY voicesearch_failed_title "&brandShortName; మాట్లాడి వెతకడం">
 <!ENTITY voicesearch_failed_message "మాట ద్వారా వెతకడంలో ఇప్పుడు ఏదో సమస్య ఉంది. కాసేపాగి ప్రయత్నించండి.">
 <!ENTITY voicesearch_failed_message_recoverable "క్షమించండి! మీ మాటలను గుర్తించలేకపోయాం. దయచేసి మళ్ళీ పయత్నించండి.">
 <!ENTITY voicesearch_failed_retry "మళ్ళీ ప్రయత్నించండి">
