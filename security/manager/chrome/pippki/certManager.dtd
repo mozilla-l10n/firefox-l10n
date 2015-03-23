@@ -79,8 +79,8 @@
 <!ENTITY certmgr.details.accesskey            "a">
 <!ENTITY certmgr.fields.label                 "Mezőérték">
 <!ENTITY certmgr.fields.accesskey             "e">
-
-
+<!ENTITY certmgr.hierarchy.label              "Tanúsítványhierarchia">
+<!ENTITY certmgr.hierarchy.accesskey2         "H">
 <!ENTITY certmgr.addException.label           "Kivétel hozzáadása…">
 <!ENTITY certmgr.addException.accesskey       "h">
 
