@@ -37,12 +37,12 @@
 <!ENTITY generic.title "Опа.">
 <!ENTITY generic.longDesc "<p>&brandShortName; не може да зареди тази страница.</p>">
 
-<!ENTITY malformedURI.title "Адресът не е валиден">
-<!ENTITY malformedURI.longDesc "<ul> 
-<li>Адресите обикновено изглеждат така: 
-<strong>http://www.example.com/</strong></li> 
-<li>Проверете дали използвате обикновени наклонени черти 
-(т.е. <strong>/</strong>).</li> 
+<!ENTITY malformedURI.title "Адресът е невалиден">
+<!ENTITY malformedURI.longDesc "<ul>
+<li>Обикновено адресите изглеждат така:
+<strong>http://www.example.com/</strong></li>
+<li>Проверете дали използвате наклонени черти
+(т.е. <strong>/</strong>).</li>
 </ul>">
 
 <!ENTITY netInterrupt.title "Връзката беше прекъсната">
