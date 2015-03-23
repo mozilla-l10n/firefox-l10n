@@ -1,6 +1,8 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY minimizeWindow.key       "m">
 <!ENTITY minimizeWindow.label     "Suskleisti">
 <!ENTITY bringAllToFront.label    "Viską į priekinį planą">
 <!ENTITY zoomWindow.label         "Keisti dydį">
@@ -10,11 +12,12 @@
 <!ENTITY helpMenu.accesskey       "Ž"> 
 <!-- LOCALIZATION NOTE some localizations of Windows (ex:french, german) use "?"
                        for the help button in the menubar but Gnome does not.   -->
-
-
-
-
-
+<!ENTITY helpMenuWin.label        "Žinynas"> 
+<!ENTITY helpMenuWin.accesskey    "Ž">
+<!ENTITY aboutProduct2.label      "Apie „&brandShortName;“">
+<!ENTITY aboutProduct2.accesskey  "A">
+<!ENTITY productHelp2.label       "„&brandShortName;“ žinynas">
+<!ENTITY productHelp2.accesskey   "ž">
 
 
 <!ENTITY helpKeyboardShortcuts.label     "Spartieji klavišai">

@@ -32,9 +32,11 @@
 
 <!ENTITY community.start2           "„&brandShortName;“ kuria ir tobulina ">
 <!-- LOCALIZATION NOTE (community.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
+<!ENTITY community.mozillaLink      "„&vendorShortName;“">
 <!ENTITY community.middle2          " – ">
 <!-- LOCALIZATION NOTE (community.creditsLink): This is a link title that links to about:credits. -->
-
+<!ENTITY community.creditsLink      "pasaulinė bendruomenė">
+<!ENTITY community.end3             ", siekianti, kad saitynas būtų atviras, viešas ir prieinamas kiekvienam.">
 
 <!ENTITY helpus.start               "Norite padėti? ">
 <!-- LOCALIZATION NOTE (helpus.donateLink): This is a link title that links to https://sendto.mozilla.org/page/contribute/Give-Now?source=mozillaorg_default_footer&ref=firefox_about&utm_campaign=firefox_about&utm_source=firefox&utm_medium=referral&utm_content=20140929_FireFoxAbout. -->

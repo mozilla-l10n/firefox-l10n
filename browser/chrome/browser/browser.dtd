@@ -63,14 +63,14 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY openLocationCmd.label "Atverti adresą…">
 <!ENTITY openFileCmd.label "Atverti…">
 <!ENTITY openFileCmd.accesskey "A">
-
+<!ENTITY openFileCmd.commandkey "o">
 <!ENTITY printSetupCmd.label "Puslapio nuostatos…">
 <!ENTITY printSetupCmd.accesskey "n">
 <!ENTITY printPreviewCmd.label "Spaudinio peržiūra">
 <!ENTITY printPreviewCmd.accesskey "ž">
 <!ENTITY printCmd.label "Spausdinti…">
 <!ENTITY printCmd.accesskey "S">
-
+<!ENTITY printCmd.commandkey "p">
 
 <!ENTITY goOfflineCmd.label "Atsijungti nuo tinklo">
 <!ENTITY goOfflineCmd.accesskey "t">
@@ -82,18 +82,19 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY personalbarCmd.accesskey "A">
 <!ENTITY bookmarksToolbarItem.label "Adresyno juostos elementai">
 
-
-
-
-
-
+<!ENTITY toolbarContextMenu.reloadAllTabs.label "Iš naujo įkelti visas korteles">
+<!ENTITY toolbarContextMenu.reloadAllTabs.accesskey "v">
+<!ENTITY toolbarContextMenu.bookmarkAllTabs.label "Visas korteles įtraukti į adresyną…">
+<!ENTITY toolbarContextMenu.bookmarkAllTabs.accesskey "k">
+<!ENTITY toolbarContextMenu.undoCloseTab.label "Atšaukti kortelės užvėrimą">
+<!ENTITY toolbarContextMenu.undoCloseTab.accesskey "š">
 
 <!ENTITY pageSourceCmd.label "Pirminis tekstas">
 <!ENTITY pageSourceCmd.accesskey "t">
-
+<!ENTITY pageSourceCmd.commandkey "u">
 <!ENTITY pageInfoCmd.label "Informacija apie tinklalapį">
 <!ENTITY pageInfoCmd.accesskey "I">
-
+<!ENTITY pageInfoCmd.commandkey "i">
 <!ENTITY mirrorTabCmd.label "Kopijuoti kortelę">
 <!ENTITY mirrorTabCmd.accesskey "K">
 <!-- LOCALIZATION NOTE (enterFullScreenCmd.label, exitFullScreenCmd.label):
@@ -104,7 +105,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY exitFullScreenCmd.accesskey "v">
 <!ENTITY fullScreenCmd.label "Visas ekranas">
 <!ENTITY fullScreenCmd.accesskey "V">
-
+<!ENTITY fullScreenCmd.macCommandKey "f">
 <!ENTITY showAllTabsCmd.label "Rodyti visas korteles">
 <!ENTITY showAllTabsCmd.accesskey "k">
 
@@ -139,7 +140,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksMenu.accesskey "A">
 <!ENTITY bookmarkThisPageCmd.label "Įrašyti į adresyną">
 <!ENTITY editThisBookmarkCmd.label "Taisyti adresyno įrašą">
-
+<!ENTITY bookmarkThisPageCmd.commandkey "d">
 
 <!-- LOCALIZATION NOTE (findShareServices.label):
   -  Use the unicode ellipsis char, \u2026,
@@ -191,16 +192,18 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksButton.label          "Adresynas">
 
 
-
+<!ENTITY bookmarksMenuButton.unsorted.label "Nerūšiuoti adresai">
 <!ENTITY viewBookmarksSidebar2.label        "Rodyti adresyną parankinėje">
 <!ENTITY viewBookmarksToolbar.label         "Rodyti adresyno juostą">
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
   -  key should not contain the letters A-F, since these are reserved
   -  shortcut keys on Linux. -->
 
+<!ENTITY bookmarksGtkCmd.commandkey "o">
+<!ENTITY bookmarksWinCmd.commandkey "i">
 
 <!ENTITY historyButton.label            "Žurnalas">
-
+<!ENTITY historySidebarCmd.commandKey   "h">
 
 <!ENTITY toolsMenu.label              "Priemonės">
 <!ENTITY toolsMenu.accesskey          "P"> 
@@ -210,11 +213,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY downloads.label              "Atsiuntimai">
 <!ENTITY downloads.accesskey          "s">
-
-
+<!ENTITY downloads.commandkey         "j">
+<!ENTITY downloadsUnix.commandkey     "y">
 <!ENTITY addons.label                 "Priedai">
 <!ENTITY addons.accesskey             "r">
-
+<!ENTITY addons.commandkey            "A">
 <!ENTITY webapps.label                "Programos">
 <!ENTITY webapps.accesskey            "P">
 
@@ -233,11 +236,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY remoteWebConsoleCmd.label    "Nuotolinis saityno pultas">
 
 <!ENTITY browserConsoleCmd.label      "Naršyklės pultas">
-
+<!ENTITY browserConsoleCmd.commandkey "j">
 <!ENTITY browserConsoleCmd.accesskey  "u">
 
 <!ENTITY inspectContextMenu.label     "Tirti elementą">
-
+<!ENTITY inspectContextMenu.accesskey "Q">
 
 <!ENTITY responsiveDesignTool.label   "Keičiamo dydžio rodinys">
 <!ENTITY responsiveDesignTool.accesskey "K">
@@ -321,7 +324,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY deleteCmd.accesskey        "š"> 
 <!ENTITY selectAllCmd.label         "Pažymėti viską">  
-
+<!ENTITY selectAllCmd.key         "A">  
 <!ENTITY selectAllCmd.accesskey       "v"> 
 <!ENTITY preferencesCmd2.label       "Nuostatos">
 <!ENTITY preferencesCmd2.accesskey     "N">
@@ -330,6 +333,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY clearRecentHistory.label               "Valyti žurnalą…">
 
+<!ENTITY privateBrowsingCmd.commandkey          "P">
 
 <!ENTITY viewMenu.label         "Rodymas"> 
 <!ENTITY viewMenu.accesskey       "R"> 
@@ -350,13 +354,13 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY historyRestoreLastSession.label "Atkurti paskiausiąjį seansą">
 
 <!ENTITY showAllHistoryCmd2.label "Rodyti visą žurnalą">
-
+<!ENTITY showAllHistoryCmd.commandkey "H">
 
 <!ENTITY appMenuCustomize.label "Tvarkyti">
 <!ENTITY appMenuCustomize.tooltip "Tvarkyti meniu ir priemonių juostas">
 <!ENTITY appMenuCustomizeExit.label "Baigti tvarkymą">
 <!ENTITY appMenuCustomizeExit.tooltip "Užbaigti tvarkymą">
-
+<!ENTITY appMenuHistory.label "Žurnalas">
 
 
 
