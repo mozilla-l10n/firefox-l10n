@@ -33,6 +33,7 @@ This is likely the same like id.heading in crashes.dtd. -->
 <!ENTITY aboutSupport.experimentEndDate "Einddatum">
 <!ENTITY aboutSupport.experimentHomepage "Homepage">
 
+
 <!ENTITY aboutSupport.appBasicsTitle "Toepassingsbasics">
 <!ENTITY aboutSupport.appBasicsName "Naam">
 <!ENTITY aboutSupport.appBasicsVersion "Versie">
@@ -97,5 +98,5 @@ variant of aboutSupport.showDir.label. -->
 
 <!ENTITY aboutSupport.sandboxTitle "Sandbox">
 
-<!ENTITY aboutSupport.safeModeTitle "Probeer de veilige modus">
-<!ENTITY aboutSupport.restartInSafeMode.label "Herstart met uitgeschakelde add-ons…">
+<!ENTITY aboutSupport.safeModeTitle "Veilige modus proberen">
+<!ENTITY aboutSupport.restartInSafeMode.label "Herstarten met uitgeschakelde add-ons…">
