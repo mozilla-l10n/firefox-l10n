@@ -18,7 +18,7 @@
 <!ENTITY cmd.retry.label "Riprova">
 <!ENTITY cmd.retry.accesskey "R">
 <!ENTITY cmd.removeFromList.label "Elimina dalla lista">
-<!ENTITY cmd.removeFromList.accesskey "e">
+<!ENTITY cmd.removeFromList.accesskey "E">
 <!ENTITY cmd.close.commandkey "w">
 <!ENTITY cmd.close2.commandkey "j">
 <!ENTITY cmd.close2Unix.commandkey "y">

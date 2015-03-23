@@ -66,7 +66,7 @@
 <!ENTITY unknownProtocolFound.title "Indirizzo non riconosciuto">
 <!ENTITY unknownProtocolFound.longDesc "
 <ul>
-  <li>E' posibile sia necessario installare un altro software per aprire questo indirizzo.</li>
+  <li>È posibile sia necessario installare un altro software per aprire questo indirizzo.</li>
 </ul>
 ">
 <!ENTITY proxyConnectFailure.title "Connessione rifiutata dal server proxy">
@@ -130,4 +130,4 @@
 <button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>
 ">
 <!ENTITY remoteXUL.title "XUL remoto">
-<!ENTITY remoteXUL.longDesc "<p><ul><li>Si prega di contattare i proprietari del sito web per informarli di questo problema.</li></ul></p>">
+<!ENTITY remoteXUL.longDesc "<p><ul><li>Contattare i proprietari del sito web per informarli di questo problema.</li></ul></p>">
