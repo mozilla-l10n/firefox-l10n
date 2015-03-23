@@ -19,7 +19,7 @@
 <!ENTITY search_pref_button_content_description 'Nastavitve'>
 
 <!ENTITY pref_clearHistory_confirmation 'Zgodovina izbrisana'>
-<!ENTITY pref_clearHistory_dialogMessage 'Izbrišem vso zgodovino iskanje iz naprave?'>
+<!ENTITY pref_clearHistory_dialogMessage 'Izbrišem vso zgodovino iskanja iz naprave?'>
 <!ENTITY pref_clearHistory_title 'Počisti zgodovino iskanj'>
 
 <!ENTITY pref_searchProvider_title 'Iskalnik'>
