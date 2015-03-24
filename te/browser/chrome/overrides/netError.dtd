@@ -157,17 +157,18 @@ functionality specific to firefox. -->
 <button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button> 
 <button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>">
 
+<!ENTITY errorReporting.title "ఈ దోషాన్ని నివేదించండి">
 
 
 <!ENTITY errorReporting.learnMore "మరింత తెలుసుకోండి…">
 
 
 
-
+<!ENTITY errorReporting.tryAgain "మళ్ళీ ప్రయత్నించు">
 
 <!ENTITY remoteXUL.title "రిమోట్ XUL">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>ఈ సమస్య గురించి వారికి తెలుపుటకు దయచేసి వెబ్‌సైట్ స్వంతదారులను సంప్రదించండి.</li></ul></p>">
 
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc) - Do not translate
      "ssl_error_unsupported_version". -->
-
+<!ENTITY sslv3Used.learnMore "మరింత తెలుసుకోండి…">
