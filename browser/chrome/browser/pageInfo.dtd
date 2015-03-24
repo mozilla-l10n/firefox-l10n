@@ -19,7 +19,7 @@
 <!ENTITY  generalType           "Тип:">
 <!ENTITY  generalMode           "Изчертаване:">
 <!ENTITY  generalSize           "Големина:">
-<!ENTITY  generalReferrer       "Основен адрес:">
+<!ENTITY  generalReferrer       "Препращащ адрес:">
 <!ENTITY  generalSource         "Кеш:">
 <!ENTITY  generalModified       "Последна промяна:">
 <!ENTITY  generalEncoding       "Кодиране на знаците:">
