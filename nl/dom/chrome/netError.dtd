@@ -23,7 +23,7 @@
 <!ENTITY generic.longDesc "<p>Extra informatie over dit probleem of deze fout is momenteel niet beschikbaar.</p>">
 
 <!ENTITY malformedURI.title "Ongeldig adres">
-<!ENTITY malformedURI.longDesc "<p>Het opgegeven adres heeft geen herkenbaar formaat. Controleer de locatiebalk op fouten en probeer het opnieuw.</p>">
+<!ENTITY malformedURI.longDesc "<p>Het opgegeven adres heeft geen herkenbare indeling. Controleer de locatiebalk op fouten en probeer het opnieuw.</p>">
 
 <!ENTITY netInterrupt.title "Gegevensoverdracht onderbroken">
 <!ENTITY netInterrupt.longDesc "<p>De browser heeft met succes verbinding gemaakt, maar deze werd onderbroken tijdens het overbrengen van gegevens. Probeer het opnieuw.</p><ul><li>Kunt u geen andere websites bezoeken? Controleer de netwerkverbinding van de computer.</li><li>Hebt u nog steeds problemen? Raadpleeg uw netwerkbeheerder of internetprovider voor assistentie.</li></ul>">
