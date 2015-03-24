@@ -271,7 +271,7 @@ size. -->
      (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
 <!ENTITY datareporting_crashreporter_title_short "Crashreporter">
 <!ENTITY datareporting_wifi_title2 "&vendorShortName;-locatieservice">
-<!ENTITY datareporting_wifi_geolocation_summary3 "Help &vendorShortName; de wereld in kaart te brengen! Deel geschatte wifi- en gsm-locatiegegevens van uw apparaat om onze geolocatieservice te verbeteren">
+<!ENTITY datareporting_wifi_geolocation_summary3 "Help &vendorShortName; de wereld in kaart te brengen! Deel de geschatte wifi- en gsm-locatie van uw apparaat om onze geolocatieservice te verbeteren.">
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
      actual notification that an update is available. -->
@@ -369,7 +369,7 @@ size. -->
 <!ENTITY reading_list_removed "Pagina uit uw leeslijst verwijderd">
 <!-- Localization note (reading_list_remove) : Used to remove the currently open page from
      the user's reading list. The opposite of overlay_share_reading_list_btn_label. -->
-<!ENTITY reading_list_remove "Uit uw leeslijst verwijderen">
+<!ENTITY reading_list_remove "Verwijderen van leeslijst">
 <!ENTITY reading_list_duplicate "Pagina staat al in uw leeslijst">
 
 <!-- Localization note (reading_list_time_minutes2) : This string is used in the "Reading List"
@@ -567,10 +567,10 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!-- Voice search in the awesome bar -->
 <!ENTITY voicesearch_prompt "Spreek nu">
-<!ENTITY voicesearch_failed_title "&brandShortName;stemzoeken">
-<!ENTITY voicesearch_failed_message "Er is op dit moment een probleem met stemzoeken. Probeer het later opnieuw.">
-<!ENTITY voicesearch_failed_message_recoverable "Sorry! We konden uw woorden niet herkennen. Probeer het nogmaals.">
-<!ENTITY voicesearch_failed_retry "Probeer het nogmaals">
+<!ENTITY voicesearch_failed_title "&brandShortName;spraakzoeken">
+<!ENTITY voicesearch_failed_message "Er is momenteel een probleem met spraakzoeken. Probeer het later opnieuw.">
+<!ENTITY voicesearch_failed_message_recoverable "Sorry! We konden uw woorden niet herkennen. Probeer het opnieuw.">
+<!ENTITY voicesearch_failed_retry "Opnieuw proberen">
 
 <!-- Localization note (remote_tabs_last_synced): the variable is replaced by a
      "relative time span string" produced by Android.  This string describes the
