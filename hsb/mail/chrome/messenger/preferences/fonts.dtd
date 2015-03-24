@@ -8,8 +8,8 @@
 <!ENTITY  language.accesskey                      "P">
 
 <!ENTITY  size.label                              "Wulkosć:">
-<!ENTITY  proportionalSize.accesskey              "u">
-<!ENTITY  sizeMono.accesskey                      "l">
+
+
 
 <!ENTITY  proportional.label                      "Proporcionalny:">
 <!ENTITY  proportional.accesskey                  "P">
@@ -20,20 +20,16 @@
 <!ENTITY  sans-serif.accesskey                    "n">
 <!ENTITY  monospace.label                         "Monospace:">
 <!ENTITY  monospace.accesskey                     "M">
-
-<!ENTITY  font.langGroup.latin1                   "Zapadne">
-<!ENTITY  font.langGroup.latin2                   "Srjedźnoeuropske">
+<!-- LOCALIZATION NOTE (font.langGroup.latin) :
+     Translate "Latin" as the name of Latin (Roman) script, not as the name of the Latin language. -->
 <!ENTITY  font.langGroup.japanese                 "Japanske">
 <!ENTITY  font.langGroup.trad-chinese             "Chinske tradicionelne (Taiwan)">
 <!ENTITY  font.langGroup.simpl-chinese            "Chinske zjednorjene">
 <!ENTITY  font.langGroup.trad-chinese-hk          "Chinske tradicionelne (Hong Kong)">
 <!ENTITY  font.langGroup.korean                   "Korejske">
 <!ENTITY  font.langGroup.cyrillic                 "Kyriliske">
-<!ENTITY  font.langGroup.baltic                   "Baltiske">
 <!ENTITY  font.langGroup.el                       "Grjekske">
-<!ENTITY  font.langGroup.turkish                  "Turkowske">
-<!ENTITY  font.langGroup.unicode1                 "Unicode">
-<!ENTITY  font.langGroup.user-def                 "Wužiwarja">
+
 <!ENTITY  font.langGroup.thai                     "Thailandske">
 <!ENTITY  font.langGroup.hebrew                   "Hebrejske">
 <!ENTITY  font.langGroup.arabic                   "Arabske">
@@ -48,8 +44,12 @@
 <!ENTITY  font.langGroup.gurmukhi                 "Gurmukhi">
 <!ENTITY  font.langGroup.khmer                    "Khmer">
 <!ENTITY  font.langGroup.malayalam                "Malajalam">
-<!-- Minimum font size -->
 
+
+
+
+
+<!-- Minimum font size -->
 <!ENTITY minSize.label                            "Minimalna wulkosć pisma:">
 <!ENTITY minSize.accesskey                        "M">
 <!ENTITY minSize.none                             "Žana">
