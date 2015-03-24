@@ -6,7 +6,7 @@
 
 <!ENTITY chooseYourDefaultSearchEngine.label   "Изберете стандартна търсеща машина. &brandShortName; я използва за адресната лента, полето за търсене и началната страница.">
 
-<!ENTITY provideSearchSuggestions.label        "Даване на предложения за търсене">
+<!ENTITY provideSearchSuggestions.label        "Предоставяне на предложения при търсене">
 <!ENTITY provideSearchSuggestions.accesskey    "т">
 
 

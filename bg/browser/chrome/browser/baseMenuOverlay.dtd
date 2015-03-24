@@ -24,7 +24,7 @@
 <!ENTITY helpKeyboardShortcuts.accesskey "К">
 
 <!ENTITY helpSafeMode.label       "Рестартиране с изключени добавки…">
-<!ENTITY helpSafeMode.accesskey   "Р">
+<!ENTITY helpSafeMode.accesskey   "д">
 
 <!ENTITY healthReport2.label      "Доклад за изправност на &brandShorterName;">
 <!ENTITY healthReport2.accesskey  "Д">
@@ -33,7 +33,7 @@
 <!ENTITY helpTroubleshootingInfo.accesskey  "И">
 
 <!ENTITY helpFeedbackPage.label      "Обратна връзка…">
-<!ENTITY helpFeedbackPage.accesskey  "О">
+<!ENTITY helpFeedbackPage.accesskey  "в">
 
 <!ENTITY helpShowTour2.label            "Обиколка на &brandShorterName;">
 <!ENTITY helpShowTour2.accesskey        "б">
