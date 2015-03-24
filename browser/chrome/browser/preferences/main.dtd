@@ -17,7 +17,7 @@
 <!ENTITY useMultiple.label         "Текущите страници">
 <!ENTITY chooseBookmark.label      "Отметка…">
 <!ENTITY chooseBookmark.accesskey  "О">
-<!ENTITY restoreDefault.label      "Стандартна страница">
+<!ENTITY restoreDefault.label      "Стандартната страница">
 <!ENTITY restoreDefault.accesskey  "С">
 
 <!ENTITY downloads.label     "Изтегляния">
@@ -31,7 +31,7 @@
 <!ENTITY alwaysAsk.label "Винаги да пита къде да бъдат запазени">
 <!ENTITY alwaysAsk.accesskey "В">
 
-<!ENTITY alwaysCheckDefault2.label        "Проверяване дали &brandShortName; е браузърът по подразбиране">
+<!ENTITY alwaysCheckDefault2.label        "Проверяване дали &brandShortName; е браузър по подразбиране">
 <!ENTITY alwaysCheckDefault2.accesskey    "б">
 <!ENTITY setAsMyDefaultBrowser2.label     "Задаване като стандартен">
 <!ENTITY setAsMyDefaultBrowser2.accesskey "с">
@@ -39,5 +39,5 @@
 <!ENTITY isNotDefault.label               "&brandShortName;  не е вашият стандартен браузър">
 
 <!ENTITY separateProfileMode.label        "Разрешаване на &brandShortName; и Firefox да работят едновременно">
-<!ENTITY useFirefoxSync.label             "Съвет: Така ще бъдат използвани различни профили. Използвайте Sync да споделяте данни между тях.">
+<!ENTITY useFirefoxSync.label             "Съвет: Ще бъдат използвани отделни профили. Използвайте Sync да споделяте данни между тях.">
 <!ENTITY getStarted.label                 "Започнете да използвате Sync…">
