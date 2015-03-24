@@ -16,3 +16,6 @@
 <!ENTITY panePrivacy.title "Privacy">
 <!ENTITY paneSecurity.title "Sicurezza">
 <!ENTITY paneAdvanced.title "Avanzate">
+<!ENTITY paneAccount.title "Account">
+<!ENTITY okButton.title "OK">
+<!ENTITY okButton.accesskey "O">

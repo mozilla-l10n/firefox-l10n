@@ -22,6 +22,8 @@
 <!ENTITY contextAfterCls.label "Dopo il controllo indesiderata">
 <!ENTITY contextOutgoing.label "Dopo l'invio">
 <!ENTITY contextOutgoing.accesskey "D">
+<!ENTITY contextArchive.label "Archiviazione">
+<!ENTITY contextArchive.accesskey "A">
 <!ENTITY filterActionDesc.label "Esegui queste azioni:">
 <!ENTITY filterActionDesc.accesskey "E">
 <!ENTITY filterActionOrderWarning.label "Nota: le azioni del filtro saranno eseguite in un ordine differente.">

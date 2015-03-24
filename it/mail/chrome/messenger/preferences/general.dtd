@@ -31,3 +31,4 @@
 <!ENTITY customsound.accesskey "U">
 <!ENTITY browse.label "Sfoglia…">
 <!ENTITY browse.accesskey "S">
+<!ENTITY defaultSearchEngine.label "Motore di ricerca predefinito">

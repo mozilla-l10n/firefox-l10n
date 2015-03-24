@@ -10,8 +10,8 @@
 <!ENTITY radioRememberPrevState.accesskey "R">
 <!ENTITY radioAskState.label "Chiedi per passare alla modalità in linea">
 <!ENTITY radioAskState.accesskey "C">
-<!ENTITY radioAlwaysOnline.label "In linea">
-<!ENTITY radioAlwaysOnline.accesskey "l">
+<!ENTITY radioAlwaysOnlineState.label "In linea">
+<!ENTITY radioAlwaysOnlineState.accesskey "l">
 <!ENTITY radioAlwaysOffline.label "Non in linea">
 <!ENTITY radioAlwaysOffline.accesskey "N">
 <!ENTITY textGoingOnline "Inviare i messaggi in attesa subito dopo essersi collegati?">
