@@ -13,7 +13,7 @@
 <!ENTITY success.title.before "Ciao ">
 <!ENTITY success.title.after ", sono disponibili le seguenti email:">
 <!ENTITY success.tip "(È anche possibile cercare per soprannome o altri termini per trovare più email)">
-<!ENTITY partnership.description "&brandShortName; è grado di offrire un nuovo account di posta elettronica in collaborazione con diversi provider. Per cominciare è sufficente inserire nome e cognome, o qualsiasi altra parola che si desideri.">
+<!ENTITY partnership.description "&brandShortName; è grado di offrire un nuovo account di posta elettronica in collaborazione con diversi provider. Per cominciare è sufficiente inserire nome e cognome, o qualsiasi altra parola che si desideri.">
 <!ENTITY existing.header "Si dispone già di un indirizzo che si desidera utilizzare?">
 <!ENTITY tinyheader.title "Si dispone di un indirizzo?">
 <!ENTITY tinyheader.existing "Saltare questo passaggio e utilizzare un indirizzo esistente">

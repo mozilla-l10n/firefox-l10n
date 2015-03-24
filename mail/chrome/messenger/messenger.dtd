@@ -103,7 +103,7 @@
 <!ENTITY menuFavoriteFolder.accesskey "f">
 <!ENTITY folderPropsCmd2.label "Proprietà">
 <!ENTITY folderPropsFolderCmd2.label "Proprietà cartella">
-<!ENTITY folderPropsNewsgroupCmd2.label "Proprietà newsgroup">
+<!ENTITY folderPropsNewsgroupCmd2.label "Proprietà gruppi di discussione">
 <!ENTITY folderPropsCmd.accesskey "o">
 <!ENTITY undoDeleteMsgCmd.label "Annulla elimina messaggio">
 <!ENTITY redoDeleteMsgCmd.label "Ripeti elimina messaggio">
@@ -133,6 +133,8 @@
 <!ENTITY messagePaneVertical.accesskey "V">
 <!ENTITY showFolderPaneCmd.label "Riquadro cartelle">
 <!ENTITY showFolderPaneCmd.accesskey "R">
+<!ENTITY showFolderPaneColsCmd.label "Colonne del pannello delle cartelle">
+<!ENTITY showFolderPaneColsCmd.accesskey "P">
 <!ENTITY showMessageCmd.label "Anteprima messaggio">
 <!ENTITY showMessageCmd.accesskey "A">
 <!ENTITY folderView.label "Cartelle">
@@ -546,7 +548,9 @@
 <!ENTITY addNewTag.accesskey "N">
 <!ENTITY manageTags.label "Gestisci le etichette…">
 <!ENTITY manageTags.accesskey "s">
-<!ENTITY folderColumn.label "Nome">
+<!ENTITY folderNameColumn.label "Nome">
+<!ENTITY folderUnreadColumn.label "Non letto">
+<!ENTITY folderTotalColumn.label "Totale">
 <!ENTITY folderSizeColumn.label "Dimensione">
 <!ENTITY folderContextGetMessages.label "Scarica messaggi">
 <!ENTITY folderContextGetMessages.accesskey "c">
@@ -725,7 +729,7 @@
 <!ENTITY saveImageAsCmd.label "Salva con nome…">
 <!ENTITY saveImageAsCmd.accesskey "v">
 <!ENTITY copyLinkCmd.label "Copia link">
-<!ENTITY copyLinkCmd.accesskey "z">
+<!ENTITY copyLinkCmd.accesskey "o">
 <!ENTITY copyImageAllCmd.label "Copia immagine">
 <!ENTITY copyImageAllCmd.accesskey "I">
 <!ENTITY copyEmailCmd.label "Copia indirizzo email">
