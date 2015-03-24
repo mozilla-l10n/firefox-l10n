@@ -10,7 +10,7 @@
 <!ENTITY email.label "E-Mail">
 <!ENTITY newsgroups.label "Gruppi di discussione">
 <!ENTITY feeds.label "Feed">
-<!ENTITY unsetDefault.tooltip "Non è possibile rendere &brandShortName; non predefinito dall'interno di &brandShortName; stesso. Se si desidera che un'altra applicazione sia la predefinita si deve utilizzare la voce  'Rendila predefinita' all'interno della stessa.">
+<!ENTITY unsetDefault.tooltip "Non è possibile rendere &brandShortName; non predefinito dall'interno di &brandShortName; stesso. Se si desidera che un'altra applicazione sia la predefinita si deve utilizzare la voce 'Rendila predefinita' all'interno della stessa.">
 <!ENTITY checkOnStartup.label "Esegui sempre questo controllo all'avvio di &brandShortName;">
 <!ENTITY checkOnStartup.accesskey "A">
 <!ENTITY searchIntegration.label "Permetti a &searchIntegration.engineName; di cercare nei messaggi">

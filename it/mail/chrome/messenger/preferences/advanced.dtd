@@ -99,7 +99,7 @@
 <!ENTITY certs.auto.accesskey "S">
 <!ENTITY certs.ask "Chiedere ogni volta">
 <!ENTITY certs.ask.accesskey "C">
-<!ENTITY enableOCSP.label "Interrogare i risponditori OCSP  per confermare l'attuale validità dei certificati">
+<!ENTITY enableOCSP.label "Interrogare i risponditori OCSP per confermare l'attuale validità dei certificati">
 <!ENTITY enableOCSP.accesskey "e">
 <!ENTITY viewCertificates.label "Mostra certificati">
 <!ENTITY viewCertificates.accesskey "M">
