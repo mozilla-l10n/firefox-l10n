@@ -10,7 +10,7 @@
 <!ENTITY accountManager.close.accesskey "C">
 <!ENTITY accountManager.close.commandkey "a">
 <!ENTITY accountManager.noAccount.title "Nessun account configurato">
-<!ENTITY accountManager.noAccount.description "Fare clic sul pulsante &accountManager.newAccount.label; per utilizzare la procedura guidata di  &brandShortName; per la configurazione di un nuovo account.">
+<!ENTITY accountManager.noAccount.description "Fare clic sul pulsante &accountManager.newAccount.label; per utilizzare la procedura guidata di &brandShortName; per la configurazione di un nuovo account.">
 <!ENTITY account.autoSignOn.label "Autenticazione all'avvio">
 <!ENTITY account.autoSignOn.accesskey "A">
 <!ENTITY account.connect.label "Collega">
