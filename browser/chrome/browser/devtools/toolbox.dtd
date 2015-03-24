@@ -84,7 +84,7 @@
   -  options.disableJavaScript.tooltip): This is the options panel label and
   -  tooltip for the checkbox that toggles JavaScript on or off. -->
 
-<!ENTITY options.disableJavaScript.label     "Деактивиране на JavaScript *">
+<!ENTITY options.disableJavaScript.label     "Изключване на JavaScript *">
 <!ENTITY options.disableJavaScript.tooltip   "Включването на тази настройка ще изключи JavaScript в текущия подпрозорец. Ако подпрозореца или кутията с инструменти се затворят, тази настройка ще бъде забравена.">
 <!-- LOCALIZATION NOTE (options.disableCache.label2,
   -  options.disableCache.tooltip2): This is the options panel label and

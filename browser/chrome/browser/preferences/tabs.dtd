@@ -14,7 +14,7 @@
 <!ENTITY restoreTabsOnDemand.label        "Без зареждане на подпрозорци, докато не бъдат избрани">
 <!ENTITY restoreTabsOnDemand.accesskey    "Б">
 
-<!ENTITY switchToNewTabs.label        "При отваряне на връзка в нов подпрозорец, веднага да се превключи към него">
+<!ENTITY switchToNewTabs.label        "При отваряне на връзка в подпрозорец, веднага да се превключи към него">
 <!ENTITY switchToNewTabs.accesskey    "П">
 
 <!ENTITY showTabsInTaskbar.label          "Показване на съдържанието на подпрозорците в Windows taskbar">
