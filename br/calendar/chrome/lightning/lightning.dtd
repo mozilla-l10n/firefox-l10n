@@ -19,8 +19,6 @@
 
 <!-- Open menu popup in File menu -->
 
-<!ENTITY lightning.menupopup.open.label               "Digeriñ">
-<!ENTITY lightning.menupopup.open.accesskey           "D">
 
 
 
@@ -42,7 +40,7 @@
 
 
 
-<!ENTITY lightning.imipbar.btnDelete.label                                  "Dilemel">
+
 
 
 

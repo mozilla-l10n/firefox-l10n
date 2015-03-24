@@ -8,8 +8,8 @@
 <!ENTITY  language.accesskey                      "r">
 
 <!ENTITY  size.label                              "Ment :">
-<!ENTITY  proportionalSize.accesskey              "e">
-<!ENTITY  sizeMono.accesskey                      "t">
+
+
 
 <!ENTITY  proportional.label                      "Kenfeuriek :">
 <!ENTITY  proportional.accesskey                  "n">
@@ -20,20 +20,18 @@
 <!ENTITY  sans-serif.accesskey                    "H">
 <!ENTITY  monospace.label                         "Unegor :">
 <!ENTITY  monospace.accesskey                     "n">
+<!-- LOCALIZATION NOTE (font.langGroup.latin) :
+     Translate "Latin" as the name of Latin (Roman) script, not as the name of the Latin language. -->
 
-<!ENTITY  font.langGroup.latin1                   "Kornôg">
-<!ENTITY  font.langGroup.latin2                   "Europat Kreiz">
+<!ENTITY  font.langGroup.latin                    "Latin">
 <!ENTITY  font.langGroup.japanese                 "Japaneg">
 <!ENTITY  font.langGroup.trad-chinese             "Sinaeg hengounel (Taiwan)">
 <!ENTITY  font.langGroup.simpl-chinese            "Sinaeg eeunaet">
 <!ENTITY  font.langGroup.trad-chinese-hk          "Sinaeg hengounel (Hong Kong)">
 <!ENTITY  font.langGroup.korean                   "Koreeg">
 <!ENTITY  font.langGroup.cyrillic                 "Kirilleg">
-<!ENTITY  font.langGroup.baltic                   "Balteg">
 <!ENTITY  font.langGroup.el                       "Gresianeg">
-<!ENTITY  font.langGroup.turkish                  "Turkeg">
-<!ENTITY  font.langGroup.unicode1                 "Unicode">
-<!ENTITY  font.langGroup.user-def                 "Despizet gant an arveriad">
+<!ENTITY  font.langGroup.other                    "Reizhiadoù skrivañ all">
 <!ENTITY  font.langGroup.thai                     "Thaieg">
 <!ENTITY  font.langGroup.hebrew                   "Hebraeg">
 <!ENTITY  font.langGroup.arabic                   "Arabeg">
@@ -48,8 +46,12 @@
 <!ENTITY  font.langGroup.gurmukhi                 "Gurmukhieg">
 <!ENTITY  font.langGroup.khmer                    "Khmereg">
 <!ENTITY  font.langGroup.malayalam                "Malayalameg">
-<!-- Minimum font size -->
 
+
+
+
+<!ENTITY  font.langGroup.tibetan                  "Tibetek">
+<!-- Minimum font size -->
 <!ENTITY minSize.label                            "Ment izek an nodrezh :">
 <!ENTITY minSize.accesskey                        "z">
 <!ENTITY minSize.none                             "tra ebet">
