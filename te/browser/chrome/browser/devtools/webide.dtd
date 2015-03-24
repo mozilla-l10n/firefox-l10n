@@ -160,9 +160,11 @@
 
 <!-- Device Settings -->
 
-
-
-
+<!ENTITY devicesetting_title "పరికరపు అమరికలు">
+<!ENTITY devicesetting_search "వెతుకుడు అమరికలు">
+<!ENTITY devicesetting_newname "కొత్త అమరిక పేరు">
+<!ENTITY devicesetting_newtext "అమరిక విలువ">
+<!ENTITY devicesetting_addnew "కొత్త అమరికను చేర్చు">
 <!-- Monitor -->
 
 <!ENTITY monitor_title "మానిటర్">
