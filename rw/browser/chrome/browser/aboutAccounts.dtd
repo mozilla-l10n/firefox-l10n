@@ -2,9 +2,9 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY aboutAccounts.welcome "murakazaneza kuri &syncBrand.shortName.label;">
+<!ENTITY aboutAccounts.welcome "Murakaza neza kuri &syncBrand.shortName.label;">
 
 <!ENTITY aboutAccountsConfig.description "Injira kugirango uhuze tabu yawe, ibyibanze byawe n'ibindi">
 <!ENTITY aboutAccountsConfig.startButton.label "Tangira">
 <!ENTITY aboutAccountsConfig.useOldSync.label "Uri gukoresha uburyo bwo guhuza bwa kare">
-<!ENTITY aboutAccountsConfig.manage.label "tunganya">
+<!ENTITY aboutAccountsConfig.manage.label "Tunganya">
