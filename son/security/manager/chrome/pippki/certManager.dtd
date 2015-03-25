@@ -79,8 +79,8 @@
 <!ENTITY certmgr.details.accesskey            "f">
 <!ENTITY certmgr.fields.label                 "Faari alkadar">
 <!ENTITY certmgr.fields.accesskey             "a">
-
-
+<!ENTITY certmgr.hierarchy.label              "Tabatiyan-tiira kanandi">
+<!ENTITY certmgr.hierarchy.accesskey2         "H">
 <!ENTITY certmgr.addException.label           "Hasaraw tonton…">
 <!ENTITY certmgr.addException.accesskey       "H">
 
