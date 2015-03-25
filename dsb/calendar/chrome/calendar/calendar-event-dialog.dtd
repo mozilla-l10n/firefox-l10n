@@ -142,7 +142,7 @@
 
 
 
-
+<!ENTITY event.attendees.label                            "Wobźělniki:" >
 
 
 
@@ -314,15 +314,15 @@
 <!-- Timezone dialog -->
 
 <!-- Read-Only dialog -->
+<!ENTITY read.only.title.label           "Titel:">
 
 
 
 
 
+<!ENTITY read.only.location.label        "Městno:">
 
-
-
-
+<!ENTITY read.only.organizer.label       "Organizator:">
 
 
 

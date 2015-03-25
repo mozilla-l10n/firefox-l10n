@@ -285,7 +285,7 @@
 
 <!-- Select Calendar Dialog -->
 <!-- Calendar Printing -->
-
+<!ENTITY calendar.print.title.label "Titel:">
 
 
 
@@ -301,7 +301,7 @@
 
 <!-- Error reporting -->
 
-
+<!ENTITY calendar.error.description "Wopisanje:">
 
 <!-- Extract buttons in message header -->
 
