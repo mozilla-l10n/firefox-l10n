@@ -8,8 +8,8 @@
 <!ENTITY language.accesskey "Z">
 
 <!ENTITY size.label "Velikost">
-<!ENTITY proportionalSize.accesskey "e">
-<!ENTITY sizeMono.accesskey "i">
+<!ENTITY sizeProportional.accesskey              "e">
+<!ENTITY sizeMonospace.accesskey                 "l">
 
 <!ENTITY proportional.label "Proporcionální:">
 <!ENTITY proportional.accesskey "c">
@@ -21,19 +21,17 @@
 <!ENTITY monospace.label "Neproporcionální:">
 <!ENTITY monospace.accesskey "N">
 
-<!ENTITY font.langGroup.latin1 "Západní jazyky">
-<!ENTITY font.langGroup.latin2 "Středoevropské jazyky">
+<!-- LOCALIZATION NOTE (font.langGroup.latin) :
+     Translate "Latin" as the name of Latin (Roman) script, not as the name of the Latin language. -->
+<!ENTITY font.langGroup.latin                    "Latinka">
 <!ENTITY font.langGroup.japanese "Japonština">
 <!ENTITY font.langGroup.trad-chinese "Tradiční čínština (Taiwan)">
 <!ENTITY font.langGroup.simpl-chinese "Zjednodušená čínština">
 <!ENTITY font.langGroup.trad-chinese-hk "Tradiční čínština (Hong Kong)">
 <!ENTITY font.langGroup.korean "Korejština">
 <!ENTITY font.langGroup.cyrillic "Azbuka">
-<!ENTITY font.langGroup.baltic "Baltské jazyky">
 <!ENTITY font.langGroup.el "Řečtina">
-<!ENTITY font.langGroup.turkish "Turecká">
-<!ENTITY font.langGroup.unicode1 "Unicode">
-<!ENTITY font.langGroup.user-def "Definovaná uživatelem">
+<!ENTITY font.langGroup.other                    "Jiné typy písma">
 <!ENTITY font.langGroup.thai "Thajština">
 <!ENTITY font.langGroup.hebrew "Hebrejština">
 <!ENTITY font.langGroup.arabic "Arabština">
@@ -48,7 +46,11 @@
 <!ENTITY font.langGroup.gurmukhi "Gurmukhi">
 <!ENTITY font.langGroup.khmer "Khmerština">
 <!ENTITY font.langGroup.malayalam "Malajština">
-
+<!ENTITY font.langGroup.oriya                    "Oriyaština">
+<!ENTITY font.langGroup.telugu                   "Telugština">
+<!ENTITY font.langGroup.kannada                  "Kannadština">
+<!ENTITY font.langGroup.sinhala                  "Sinhalština">
+<!ENTITY font.langGroup.tibetan                  "Tibetština">
 <!-- Minimum font size -->
 <!ENTITY minSize.label "Minimální velikost písma:">
 <!ENTITY minSize.accesskey "M">
