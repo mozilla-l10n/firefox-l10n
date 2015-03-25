@@ -51,7 +51,6 @@
 
 
 
-<!ENTITY calendar.today.button.tooltip          "K źinsajšnemu" >
 
 
 
@@ -70,11 +69,12 @@
 
 
 
+<!ENTITY calendar.navigation.nextday.tooltip    "Jaden źeń doprědka" >
 
 
 
-
-
+<!ENTITY calendar.navigation.nextmonth.tooltip  "Jaden mjasec doprědka" >
+<!ENTITY calendar.navigation.prevmonth.tooltip  "Jaden mjasec slědk" >
 
 
 
