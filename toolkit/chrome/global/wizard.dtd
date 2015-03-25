@@ -3,17 +3,17 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY  button-back-mac.label        "Gusubira Inyuma">
-<!ENTITY  button-back-mac.accesskey    "y">
-<!ENTITY  button-next-mac.label        "Gukomeza">
-<!ENTITY  button-next-mac.accesskey    "k">
+<!ENTITY  button-back-mac.accesskey    "B">
+<!ENTITY  button-next-mac.label        "Komeza">
+<!ENTITY  button-next-mac.accesskey    "C">
 <!ENTITY  button-finish-mac.label      "Byakozwe">
 <!ENTITY  button-cancel-mac.label      "Kureka">
 
-<!ENTITY  button-back-unix.label       "Inyuma">
-<!ENTITY  button-back-unix.accesskey   "y">
-<!ENTITY  button-next-unix.label       "Imbere">
-<!ENTITY  button-next-unix.accesskey   "b">
-<!ENTITY  button-finish-unix.label     "Kurangiza">
+<!ENTITY  button-back-unix.label       "Garuka">
+<!ENTITY  button-back-unix.accesskey   "B">
+<!ENTITY  button-next-unix.label       "Ibikurikira">
+<!ENTITY  button-next-unix.accesskey   "N">
+<!ENTITY  button-finish-unix.label     "Gusoza.">
 <!ENTITY  button-cancel-unix.label     "Kureka">
 
 <!ENTITY  button-back-win.label        "&lt; Inyuma">
