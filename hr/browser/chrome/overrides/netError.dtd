@@ -166,4 +166,5 @@ functionality specific to firefox. -->
 <!ENTITY sslv3Used.title "Uspostava sigurne veze nije uspjela">
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc) - Do not translate
      "ssl_error_unsupported_version". -->
+<!ENTITY sslv3Used.longDesc "Napredne informacije: ssl_error_unsupported_version">
 <!ENTITY sslv3Used.learnMore "Saznajte više…">

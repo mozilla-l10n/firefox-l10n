@@ -34,8 +34,8 @@
 <!ENTITY healthReportLearnMore.label     "Saznajte više">
 
 <!ENTITY telemetryDesc.label             "Dijeli podatke o performansama, korištenju hardveru i prilagodbama vašeg preglednika, kako bi &vendorShortName; mogla unaprijediti &brandShortName;">
-
-
+<!ENTITY enableTelemetryData.label       "Dijeli dodatne podatke (npr. Telemetriju)">
+<!ENTITY enableTelemetryData.accesskey   "T">
 <!ENTITY telemetryLearnMore.label        "Saznajte više">
 
 <!ENTITY crashReporterDesc.label         "&brandShortName; šalje izvještaje o rušenju kako bi &vendorShortName; mogla vaš preglednik učiniti stabilnijim i sigurnijim">
