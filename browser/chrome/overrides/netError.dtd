@@ -161,11 +161,7 @@ functionality specific to firefox. -->
 <!ENTITY remoteXUL.title "XUL بعيد">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>الرجاء التواصل مع مالك الموقع لإبلاغه بهذه المشكلة.</li></ul></p>">
 
-<!ENTITY oldSecurityProtocol.title "تعذّر الاتصال بأمان">
-<!-- LOCALIZATION NOTE (oldSecurityProtocol.longDesc) - Do not translate the
-     <span id='hostname'></span>. -->
-<!ENTITY oldSecurityProtocol.longDesc2 "يتعذّر على &brandShortName; التأكد من تأمين بياناتك على <span id='hostname'></span> لأنه يستخدم SSLv3، و هو بروتوكول تأمين معطوب.">
-<!-- LOCALIZATION NOTE (oldSecurityProtocol.advancedInfo) - Do not translate
-     the <span id='errorcode'></span>. -->
-<!ENTITY oldSecurityProtocol.advancedInfo "معلومات تفصيلية: <span id='errorcode'></span>">
-<!ENTITY oldSecurityProtocol.learnMore "اطّلع على المزيد…">
+<!ENTITY sslv3Used.title "تعذّر الاتصال بأمان">
+<!-- LOCALIZATION NOTE (sslv3Used.longDesc) - Do not translate
+     "ssl_error_unsupported_version". -->
+<!ENTITY sslv3Used.learnMore "اطّلع على المزيد…">

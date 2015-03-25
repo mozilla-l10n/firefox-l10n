@@ -8,8 +8,8 @@
 <!ENTITY  language.accesskey                      "خ">
 
 <!ENTITY  size.label                              "الحجم:">
-<!ENTITY  proportionalSize.accesskey              "ح">
-<!ENTITY  sizeMono.accesskey                      "ت">
+
+
 
 <!ENTITY  proportional.label                      "نسبي:">
 <!ENTITY  proportional.accesskey                  "ن">
@@ -20,20 +20,16 @@
 <!ENTITY  sans-serif.accesskey                    "ر">
 <!ENTITY  monospace.label                         "ثابت العرض:">
 <!ENTITY  monospace.accesskey                     "ث">
-
-<!ENTITY  font.langGroup.latin1                   "غربي">
-<!ENTITY  font.langGroup.latin2                   "وسط أوروبي">
+<!-- LOCALIZATION NOTE (font.langGroup.latin) :
+     Translate "Latin" as the name of Latin (Roman) script, not as the name of the Latin language. -->
 <!ENTITY  font.langGroup.japanese                 "ياباني">
 <!ENTITY  font.langGroup.trad-chinese             "صيني تقليدي (تايوان)">
 <!ENTITY  font.langGroup.simpl-chinese            "صيني مبسّط">
 <!ENTITY  font.langGroup.trad-chinese-hk          "صيني تقليدي (هونج كونج)">
 <!ENTITY  font.langGroup.korean                   "كوري">
 <!ENTITY  font.langGroup.cyrillic                 "سريلي">
-<!ENTITY  font.langGroup.baltic                   "بلطيقي">
 <!ENTITY  font.langGroup.el                       "يوناني">
-<!ENTITY  font.langGroup.turkish                  "تركي">
-<!ENTITY  font.langGroup.unicode1                 "يونيكود">
-<!ENTITY  font.langGroup.user-def                 "معرّف من المستخدم">
+
 <!ENTITY  font.langGroup.thai                     "تايلندي">
 <!ENTITY  font.langGroup.hebrew                   "عبري">
 <!ENTITY  font.langGroup.arabic                   "عربي">
@@ -48,8 +44,12 @@
 <!ENTITY  font.langGroup.gurmukhi                 "گورموخي">
 <!ENTITY  font.langGroup.khmer                    "خميري">
 <!ENTITY  font.langGroup.malayalam                "ملايلام">
-<!-- Minimum font size -->
 
+
+
+
+
+<!-- Minimum font size -->
 <!ENTITY minSize.label                            "أقل حجم للخط:">
 <!ENTITY minSize.accesskey                        "ح">
 <!ENTITY minSize.none                             "لا شيء">

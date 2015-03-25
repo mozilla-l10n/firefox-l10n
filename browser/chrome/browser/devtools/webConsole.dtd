@@ -74,6 +74,7 @@
 <!ENTITY btnConsoleLog          "سجل">
 
 
+
 <!ENTITY btnClear.label        "امسح">
 <!ENTITY btnClear.tooltip      "امسح محتوى مِعراض الوب">
 <!ENTITY btnClear.accesskey    "م">

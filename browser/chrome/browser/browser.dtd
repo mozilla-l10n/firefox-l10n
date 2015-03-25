@@ -215,7 +215,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY downloads.label              "التنزيلات">
 <!ENTITY downloads.accesskey          "ز">
 <!ENTITY downloads.commandkey         "j">
-<!ENTITY downloadsUnix.commandkey     "y">
+<!ENTITY downloadsUnix.commandkey     "‬y">
 <!ENTITY addons.label                 "الإضافات">
 <!ENTITY addons.accesskey             "ض">
 <!ENTITY addons.commandkey            "A">
@@ -241,7 +241,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY browserConsoleCmd.accesskey  "م">
 
 <!ENTITY inspectContextMenu.label     "افحص العنصر">
-<!ENTITY inspectContextMenu.accesskey "ص">
+<!ENTITY inspectContextMenu.accesskey "ح">
 
 <!ENTITY responsiveDesignTool.label   "منظور التصميم المُستجيب">
 <!ENTITY responsiveDesignTool.accesskey "ص">
@@ -288,7 +288,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY devToolbar.keytext                "F2">
 <!ENTITY devToolboxMenuItem.label          "فعّل الأدوات">
 <!ENTITY devToolboxMenuItem.accesskey      "ع">
-<!ENTITY devToolboxMenuItem.keytext        "ص">
+<!ENTITY devToolboxMenuItem.keytext        "I">
 
 <!ENTITY devToolbarToolsButton.tooltip     "فعّل أدوات المُطورين">
 <!ENTITY devToolbarOtherToolsButton.label  "المزيد من الأدوات">
@@ -390,7 +390,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY openCmd.commandkey           "l">
 <!ENTITY urlbar.placeholder2          "ابحث أو أدخل عنوانا">
-<!ENTITY urlbar.accesskey             "و">
+<!ENTITY urlbar.accesskey             "d">
 <!ENTITY urlbar.switchToTab.label     "انتقل إلى اللسان:">
 <!-- 
   Comment duplicated from browser-sets.inc:
@@ -427,6 +427,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      searchFor.label and searchWith.label. This string will be used instead of
      them when the user has not typed any keyword. -->
 <!ENTITY searchWithHeader.label       "ابحث مستخدمًا:">
+<!-- LOCALIZATION NOTE (changeSearchSettings.button):
+     This string won't wrap, so if the translated string is longer,
+     consider translating it as if it said only "Search Settings". -->
 <!ENTITY changeSearchSettings.button  "غيّر إعدادات البحث">
 
 <!ENTITY tabView.commandkey           "e">
@@ -452,7 +455,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewPartialSourceForMathMLCmd.label    "اعرض مصدر MathML">
 <!-- LOCALIZATION NOTE (viewPartialSourceCmd.accesskey): This accesskey is used for both 
          viewPartialSourceForSelectionCmd.label and viewPartialSourceForMathMLCmd.label -->
-<!ENTITY viewPartialSourceCmd.accesskey "ص">
+<!ENTITY viewPartialSourceCmd.accesskey "e">
 <!ENTITY viewPageSourceCmd.label      "اعرض مصدر هذه الصفحة">
 <!ENTITY viewPageSourceCmd.accesskey  "ص">
 <!ENTITY viewFrameSourceCmd.label     "اعرض مصدر هذا الإطار">
@@ -485,7 +488,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY savePageCmd.label            "احفظ الصفحة ك‍…">
 <!ENTITY savePageCmd.accesskey        "ك">
 <!-- alternate for content area context menu -->
-<!ENTITY savePageCmd.accesskey2       "ص">
+<!ENTITY savePageCmd.accesskey2       "P">
 <!ENTITY savePageCmd.commandkey       "s">
 <!ENTITY saveFrameCmd.label           "احفظ الإطار ك‍…">
 <!ENTITY saveFrameCmd.accesskey       "ط">
@@ -561,8 +564,8 @@ items are mutually exclusive. -->
 <!ENTITY mediaShowControls.accesskey "ز">
 <!ENTITY mediaHideControls.label     "أخفِ أزرار التحكم">
 <!ENTITY mediaHideControls.accesskey "ك">
-<!ENTITY videoFullScreen.label       "ملء الشاشة">
-<!ENTITY videoFullScreen.accesskey   "ء">
+
+
 <!ENTITY videoSaveImage.label        "احفظ لقطة شاشة ك‍…">
 <!ENTITY videoSaveImage.accesskey    "ط">
 <!-- LOCALIZATION NOTE: The access keys for "Show Statistics" and
@@ -581,19 +584,18 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY fullZoomEnlargeCmd.label       "قرّب">
 <!ENTITY fullZoomEnlargeCmd.accesskey   "ق">
-<!ENTITY fullZoomEnlargeCmd.commandkey  "+">
+
 <!-- + is above this key on many keyboards -->
-<!ENTITY fullZoomEnlargeCmd.commandkey2 "="> 
 <!ENTITY fullZoomEnlargeCmd.commandkey3 "">
 
 <!ENTITY fullZoomReduceCmd.label        "بعّد">
 <!ENTITY fullZoomReduceCmd.accesskey    "ب">
-<!ENTITY fullZoomReduceCmd.commandkey   "-">
+
 <!ENTITY fullZoomReduceCmd.commandkey2  "">
 
 <!ENTITY fullZoomResetCmd.label         "صفّر">
 <!ENTITY fullZoomResetCmd.accesskey     "ص">
-<!ENTITY fullZoomResetCmd.commandkey    "0">
+
 <!ENTITY fullZoomResetCmd.commandkey2   "">
 
 <!ENTITY fullZoomToggleCmd.label        "قرّب النص فقط">
@@ -603,19 +605,18 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY sidebarCloseButton.tooltip     "أغلِق الشريط الجانبي">
 
-<!ENTITY quitApplicationCmdWin.label       "اخرج"> 
-<!ENTITY quitApplicationCmdWin.accesskey   "خ">
-<!ENTITY quitApplicationCmdWin.tooltip     "أغلق &brandShortName;">
-<!ENTITY goBackCmd.commandKey "[">
-<!ENTITY goForwardCmd.commandKey "]">
+<!ENTITY quitApplicationCmdWin2.label       "اخرج">
+<!ENTITY quitApplicationCmdWin2.accesskey   "خ">
+<!ENTITY quitApplicationCmdWin2.tooltip     "أغلق &brandShorterName;">
+
+
 <!ENTITY quitApplicationCmd.label       "أغلق"> 
 <!ENTITY quitApplicationCmd.accesskey   "غ">
-<!ENTITY quitApplicationCmdMac.label    "أغلق &brandShortName;">
+<!ENTITY quitApplicationCmdMac2.label   "أغلق &brandShorterName;">
 <!-- LOCALIZATION NOTE(quitApplicationCmdUnix.key): This keyboard shortcut is used by both Linux and OSX builds. -->
-<!ENTITY quitApplicationCmdUnix.key     "Q">
 
 <!ENTITY closeCmd.label                 "أغلق">  
-<!ENTITY closeCmd.key                   "W">  
+
 <!ENTITY closeCmd.accesskey             "غ">
 
 <!ENTITY pageStyleMenu.label "طراز الصفحة">
@@ -627,36 +628,35 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY pageReportIcon.tooltip            "غيّر إعدادات منع النوافذ المنبثقة لهذا الموقع">
 
-<!ENTITY allowPopups.accesskey "س">
 <!-- On Windows we use the term "Options" to describe settings, but
      on Linux and Mac OS X we use "Preferences" - carry that distinction
      over into this string, which is used in the "popup blocked" info bar . -->
 <!ENTITY editPopupSettingsUnix.label "حرّر تفضيلات منع النوافذ المنبثقة…">
 <!ENTITY editPopupSettings.label "حرّر خيارات منع النوافذ المنبثقة…">
 <!ENTITY editPopupSettings.accesskey "ح">
-<!ENTITY dontShowMessage.accesskey "ل">
+
 
 <!ENTITY bidiSwitchPageDirectionItem.label        "بدِّل اتجاه الصفحة">
 <!ENTITY bidiSwitchPageDirectionItem.accesskey    "ل">
 <!ENTITY bidiSwitchTextDirectionItem.label        "بدِّل اتجاه النص">
 <!ENTITY bidiSwitchTextDirectionItem.accesskey    "ن">
-<!ENTITY bidiSwitchTextDirectionItem.commandkey   "X">
+
 
 <!ENTITY findOnCmd.label     "ابحث في هذه الصفحة…">
 <!ENTITY findOnCmd.accesskey "ب">
-<!ENTITY findOnCmd.commandkey "f">
+
 <!ENTITY findAgainCmd.label  "ابحث مجددًا">
 <!ENTITY findAgainCmd.accesskey "ب">
-<!ENTITY findAgainCmd.commandkey "g">
+
 <!ENTITY findAgainCmd.commandkey2 "VK_F3">
-<!ENTITY findSelectionCmd.commandkey "e">
+
 
 <!ENTITY spellAddDictionaries.label "أضِف قواميس…">
 <!ENTITY spellAddDictionaries.accesskey "ض">
 
 <!ENTITY editBookmark.done.label                     "تمّ">
 <!ENTITY editBookmark.cancel.label                   "ألغِ">
-<!ENTITY editBookmark.removeBookmark.accessKey       "ل">
+
 
 <!ENTITY identity.unverifiedsite2 "لا يوفّر هذا الموقع معلومات الهويّة.">
 <!ENTITY identity.connectedTo "تتصل ب‍">
@@ -692,12 +692,12 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY syncBrand.shortName.label    "تزامُن">
 
 <!ENTITY syncSetup.label              "اضبط &syncBrand.shortName.label;…">
-<!ENTITY syncSetup.accesskey          "د">
+
 <!ENTITY syncSyncNowItem.label        "زامِن الآن">
 <!ENTITY syncSyncNowItem.accesskey    "ز">
 <!ENTITY syncReAuthItem.label         "أعِد الاتصال مع &syncBrand.shortName.label;…">
 <!ENTITY syncReAuthItem.accesskey     "ع">
-<!ENTITY syncToolbarButton.label      "زامِن">
+
 
 <!ENTITY socialToolbar.title        "زر شريط الأدوات الاجتماعي">
 
@@ -736,12 +736,11 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY customizeMode.lwthemes.myThemes "سِماتي">
 <!ENTITY customizeMode.lwthemes.recommended "مُزكَّاة">
 <!ENTITY customizeMode.lwthemes.menuManage "أدِر">
-<!ENTITY customizeMode.lwthemes.menuManage.accessKey "ر">
+
 <!ENTITY customizeMode.lwthemes.menuGetMore "احصل على مزيد من السِمات">
-<!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "ح">
+
 <!ENTITY customizeMode.deveditionTheme.label2 "استخدم سمة إصدارة المطورين">
 
-<!ENTITY social.chatBar.commandkey "c">
 <!ENTITY social.chatBar.label "ركّز على الدردشات">
 <!ENTITY social.chatBar.accesskey "ك">
 
@@ -771,7 +770,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY trackingContentBlocked.message "التعقب">
 <!ENTITY trackingContentBlocked.moreinfo "منعت بعض أجزاء من الصفحة تحاول تتبع نشاطك على الإنترنت.">
-<!ENTITY trackingContentBlocked.learnMore "اطّلع على المزيد">
+
 <!ENTITY trackingContentBlocked.options "الخيارات">
 <!ENTITY trackingContentBlocked.unblock2.label "أوقف الحماية لهذا الموقع">
 <!ENTITY trackingContentBlocked.unblock2.accesskey "ق">
@@ -795,11 +794,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      a CSS length value. -->
 
 <!ENTITY pluginNotification.width "32em">
-
-<!ENTITY tabCrashed.header "انهار اللسان">
-<!ENTITY tabCrashed.message "هذا محرِج. لقد حاولنا عرض هذه الصفحة لكنها لا تستجيب.">
-<!ENTITY tabCrashed.checkSendReport "أطلع &vendorShortName; على هذا الانهيار ليتسنّى لهم إصلاحه.">
-<!ENTITY tabCrashed.tryAgain "حاول مجددًا">
 
 <!ENTITY uiTour.infoPanel.close "أغلق">
 
@@ -832,3 +826,31 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY panicButton.thankyou.msg2                "التصفح الآمن!">
 <!ENTITY panicButton.thankyou.buttonlabel         "شكرًا!">
 
+<!ENTITY processHang.terminateScript.label        "أوقف النّص البرمجي">
+<!ENTITY processHang.terminateScript.accessKey    "ق">
+<!ENTITY processHang.debugScript.label            "نقّح النص البرمجي">
+<!ENTITY processHang.debugScript.accessKey        "ن">
+<!ENTITY processHang.terminatePlugin.label        "اقتل الملحقة">
+<!ENTITY processHang.terminatePlugin.accessKey    "ح">
+<!ENTITY processHang.terminateProcess.label       "اقتل سيرورة الوِب">
+<!ENTITY processHang.terminateProcess.accessKey   "س">
+
+<!ENTITY emeLearnMoreContextMenu.label            "اطلع أكثر عن إدارة الحقوق الرقمية">
+<!ENTITY emeLearnMoreContextMenu.accesskey        "د">
+<!ENTITY emeNotificationsNotNow.label             "ليس الآن">
+<!ENTITY emeNotificationsNotNow.accesskey         "س">
+<!ENTITY emeNotificationsDontAskAgain.label       "لا تسألني ثانيا">
+<!ENTITY emeNotificationsDontAskAgain.accesskey   "ل">
+
+<!ENTITY readingList.label                        "قائمة القراءة">
+<!ENTITY readingList.sidebar.commandKey           "R">
+<!ENTITY readingList.showSidebar.label            "أظهر شريط قائمة القراءة الجانبي">
+<!-- Pre-landed string for bug 1124153 -->
+<!ENTITY readingList.sidebar.showMore.label       "اعرض المزيد…">
+<!-- Pre-landed string for bug 1133662 -->
+<!ENTITY readingList.sidebar.emptyText            "أضف المقالات إلى قائمة القراءة لحفظهم إلى وقت لاحق و العثور عليهم بسهولة عندما تحتاجهم.">
+<!-- Pre-landed string for bug 1123525 -->
+<!ENTITY readingList.sidebar.delete.tooltip       "أزل هذا من قائمة القراءة">
+<!-- Pre-landed strings for bug 1123519 -->
+<!ENTITY readingList.sidebar.add.label            "أضِف إلى قائمة القراءة">
+<!ENTITY readingList.sidebar.add.tooltip          "أضف هذه الصفحة إلى قائمة القراءة">
