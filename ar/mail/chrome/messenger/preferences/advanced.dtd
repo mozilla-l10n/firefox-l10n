@@ -3,18 +3,19 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY itemGeneral.label       "عام">
+
 <!ENTITY itemDisplay.label       "القراءة و العرض">
 <!ENTITY itemUpdate.label        "التحديث">
 <!ENTITY itemNetworking.label    "الشبكة و مساحة القرص">
 <!ENTITY itemCertificates.label  "الشهادات">
 <!-- General Settings -->
 
-
-<!ENTITY submitTelemetry.label         "أرسِل بيانات الأداء">
-<!ENTITY submitTelemetry.accesskey     "د">
-<!ENTITY telemetryInfoLink.label       "مزيد من المعلومات عن قياسات الأداء">
 <!ENTITY enableGlodaSearch.label       "فعّل البحث العمومي والفهرسة">
 <!ENTITY enableGlodaSearch.accesskey   "ف">
+
+
+
+
 
 
 
@@ -37,6 +38,16 @@
 <!ENTITY returnReceiptsInfo.label      "حدد كيف يتعامل &brandShortName;  مع إعلامات الوصول">
 <!ENTITY showReturnReceipts.label      "إعلامات الوصول…">
 <!ENTITY showReturnReceipts.accesskey  "ع">
+<!-- Data Choices -->
+
+
+
+
+
+
+
+
+
 <!-- Display and Reading Settings -->
 
 <!ENTITY reading.caption               "القراءة">

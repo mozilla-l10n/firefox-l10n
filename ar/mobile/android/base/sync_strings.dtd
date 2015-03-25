@@ -148,6 +148,8 @@
 
 <!ENTITY fxaccount_create_account_header2 "أنشئ حسابَ فَيَرفُكس">
 <!ENTITY fxaccount_create_account_password_length_restriction "يجب أن يكون طوله 8 محارف على الأقل">
+
+
 <!ENTITY fxaccount_create_account_year_of_birth "سنة الميلاد">
 <!-- Localization note: &formatS1; is fxaccount_policy_linktos, &formatS2; is fxaccount_policy_linkprivacy, both hyperlinked. -->
 <!ENTITY fxaccount_create_account_policy_text2 "بالمواصلة أوافق على &formatS1; و &formatS2; خدمات فَيَرفُكس السحابية.">
@@ -203,7 +205,6 @@
 <!ENTITY fxaccount_status_needs_upgrade "تحتاج لترقية &brandShortName; لتتمكن من تسجيل الدخول.">
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled "‏&syncBrand.shortName.label; مُعدّ، لكن لا يُزامن تلقائيًا. انقر على ”مزامنة البيانات تلقائيًا“ في إعدادات أندرويد ← استخدام البيانات.">
 
-<!ENTITY fxaccount_status_needs_account_enabled "‏&syncBrand.shortName.label; مُعدّ، لكن لا يُزامن تلقائيًا. انقر لبدء المزامنة.">
 
 <!ENTITY fxaccount_status_bookmarks "العلامات">
 <!ENTITY fxaccount_status_history "التأريخ">

@@ -33,9 +33,9 @@ This is likely the same like id.heading in crashes.dtd. -->
 <!ENTITY aboutSupport.appBasicsTitle "أساسيات التطبيق">
 <!ENTITY aboutSupport.appBasicsName "الاسم">
 <!ENTITY aboutSupport.appBasicsVersion "النسخة">
-<!-- LOCALIZATION NOTE (aboutSupport.appBasicsUpdateHistory, aboutSupport.appBasicsShowUpdateHistory):
-"Update" is a noun here, not a verb. -->
 
+<!-- LOCALIZATION NOTE (aboutSupport.appBasicsUpdateChannel, aboutSupport.appBasicsUpdateHistory, aboutSupport.appBasicsShowUpdateHistory):
+"Update" is a noun here, not a verb. -->
 <!ENTITY aboutSupport.appBasicsUpdateHistory "تأريخ التحديث">
 <!ENTITY aboutSupport.appBasicsShowUpdateHistory "أظهر تأريخ التحديث">
 
@@ -91,3 +91,5 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.copyRawDataToClipboard.label "انسخ البيانات الخام إلى الحافظة">
 
 <!ENTITY aboutSupport.sandboxTitle "العزل">
+
+

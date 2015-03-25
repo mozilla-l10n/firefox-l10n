@@ -36,9 +36,9 @@
 
 <!ENTITY device.browserTabs "ألسنة المتصفح">
 
-<!ENTITY device.debugBrowserTab "نقّح">
+
 <!ENTITY device.debugBrowserTabTooltip "افتح أدوات المطور المتصلة بهذا المتصفح على الجهاز">
-<!ENTITY device.help "مساعدة">
+
 
 <!ENTITY connection.connectTooltip "اتصل بالجهاز">
 <!ENTITY connection.disconnect "اقطع الاتصال">
@@ -65,7 +65,7 @@
 
 <!ENTITY connection.startRegisteredSimulator "ابدأ:">
 
-<!ENTITY projects.addApp "أضف">
+
 
 
 
@@ -75,9 +75,9 @@
 
 <!ENTITY projects.updateApp "حدِّث">
 
-<!ENTITY projects.debugApp "نقّح">
 
-<!ENTITY projects.saveManifest "احفظ">
+
+
 
 
 
@@ -91,7 +91,6 @@
 
 
 
-<!ENTITY help.title "مدير التطبيقات">
 <!ENTITY help.close "أغلق">
 
 

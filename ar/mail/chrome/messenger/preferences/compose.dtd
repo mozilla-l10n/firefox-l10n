@@ -6,6 +6,7 @@
 <!ENTITY itemAutoComplete.label              "العنونة">
 <!ENTITY itemSpellCheck.label                "الإملاء">
 
+
 <!ENTITY forwardMsg.label                     "مرّر الرسائل:">
 <!ENTITY forwardMsg.accesskey                 "م">
 <!ENTITY inline.label                         "ضمن السّياق">
