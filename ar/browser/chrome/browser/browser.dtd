@@ -564,8 +564,8 @@ items are mutually exclusive. -->
 <!ENTITY mediaShowControls.accesskey "ز">
 <!ENTITY mediaHideControls.label     "أخفِ أزرار التحكم">
 <!ENTITY mediaHideControls.accesskey "ك">
-
-
+<!ENTITY videoFullScreen.label       "ملء الشاشة">
+<!ENTITY videoFullScreen.accesskey   "ش">
 <!ENTITY videoSaveImage.label        "احفظ لقطة شاشة ك‍…">
 <!ENTITY videoSaveImage.accesskey    "ط">
 <!-- LOCALIZATION NOTE: The access keys for "Show Statistics" and
@@ -584,18 +584,19 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY fullZoomEnlargeCmd.label       "قرّب">
 <!ENTITY fullZoomEnlargeCmd.accesskey   "ق">
-
+<!ENTITY fullZoomEnlargeCmd.commandkey  "+">
 <!-- + is above this key on many keyboards -->
+<!ENTITY fullZoomEnlargeCmd.commandkey2 "="> 
 <!ENTITY fullZoomEnlargeCmd.commandkey3 "">
 
 <!ENTITY fullZoomReduceCmd.label        "بعّد">
 <!ENTITY fullZoomReduceCmd.accesskey    "ب">
-
+<!ENTITY fullZoomReduceCmd.commandkey   "-">
 <!ENTITY fullZoomReduceCmd.commandkey2  "">
 
 <!ENTITY fullZoomResetCmd.label         "صفّر">
 <!ENTITY fullZoomResetCmd.accesskey     "ص">
-
+<!ENTITY fullZoomResetCmd.commandkey    "0">
 <!ENTITY fullZoomResetCmd.commandkey2   "">
 
 <!ENTITY fullZoomToggleCmd.label        "قرّب النص فقط">
@@ -608,15 +609,16 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY quitApplicationCmdWin2.label       "اخرج">
 <!ENTITY quitApplicationCmdWin2.accesskey   "خ">
 <!ENTITY quitApplicationCmdWin2.tooltip     "أغلق &brandShorterName;">
-
-
+<!ENTITY goBackCmd.commandKey "[">
+<!ENTITY goForwardCmd.commandKey "]">
 <!ENTITY quitApplicationCmd.label       "أغلق"> 
 <!ENTITY quitApplicationCmd.accesskey   "غ">
 <!ENTITY quitApplicationCmdMac2.label   "أغلق &brandShorterName;">
 <!-- LOCALIZATION NOTE(quitApplicationCmdUnix.key): This keyboard shortcut is used by both Linux and OSX builds. -->
+<!ENTITY quitApplicationCmdUnix.key     "Q">
 
 <!ENTITY closeCmd.label                 "أغلق">  
-
+<!ENTITY closeCmd.key                   "W">  
 <!ENTITY closeCmd.accesskey             "غ">
 
 <!ENTITY pageStyleMenu.label "طراز الصفحة">
@@ -628,35 +630,36 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY pageReportIcon.tooltip            "غيّر إعدادات منع النوافذ المنبثقة لهذا الموقع">
 
+<!ENTITY allowPopups.accesskey "ن">
 <!-- On Windows we use the term "Options" to describe settings, but
      on Linux and Mac OS X we use "Preferences" - carry that distinction
      over into this string, which is used in the "popup blocked" info bar . -->
 <!ENTITY editPopupSettingsUnix.label "حرّر تفضيلات منع النوافذ المنبثقة…">
 <!ENTITY editPopupSettings.label "حرّر خيارات منع النوافذ المنبثقة…">
 <!ENTITY editPopupSettings.accesskey "ح">
-
+<!ENTITY dontShowMessage.accesskey "ت">
 
 <!ENTITY bidiSwitchPageDirectionItem.label        "بدِّل اتجاه الصفحة">
 <!ENTITY bidiSwitchPageDirectionItem.accesskey    "ل">
 <!ENTITY bidiSwitchTextDirectionItem.label        "بدِّل اتجاه النص">
 <!ENTITY bidiSwitchTextDirectionItem.accesskey    "ن">
-
+<!ENTITY bidiSwitchTextDirectionItem.commandkey   "X">
 
 <!ENTITY findOnCmd.label     "ابحث في هذه الصفحة…">
 <!ENTITY findOnCmd.accesskey "ب">
-
+<!ENTITY findOnCmd.commandkey "f">
 <!ENTITY findAgainCmd.label  "ابحث مجددًا">
 <!ENTITY findAgainCmd.accesskey "ب">
-
+<!ENTITY findAgainCmd.commandkey "g">
 <!ENTITY findAgainCmd.commandkey2 "VK_F3">
-
+<!ENTITY findSelectionCmd.commandkey "e">
 
 <!ENTITY spellAddDictionaries.label "أضِف قواميس…">
 <!ENTITY spellAddDictionaries.accesskey "ض">
 
 <!ENTITY editBookmark.done.label                     "تمّ">
 <!ENTITY editBookmark.cancel.label                   "ألغِ">
-
+<!ENTITY editBookmark.removeBookmark.accessKey       "ع">
 
 <!ENTITY identity.unverifiedsite2 "لا يوفّر هذا الموقع معلومات الهويّة.">
 <!ENTITY identity.connectedTo "تتصل ب‍">
@@ -692,12 +695,12 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY syncBrand.shortName.label    "تزامُن">
 
 <!ENTITY syncSetup.label              "اضبط &syncBrand.shortName.label;…">
-
+<!ENTITY syncSetup.accesskey          "ز">
 <!ENTITY syncSyncNowItem.label        "زامِن الآن">
 <!ENTITY syncSyncNowItem.accesskey    "ز">
 <!ENTITY syncReAuthItem.label         "أعِد الاتصال مع &syncBrand.shortName.label;…">
 <!ENTITY syncReAuthItem.accesskey     "ع">
-
+<!ENTITY syncToolbarButton.label      "زامن">
 
 <!ENTITY socialToolbar.title        "زر شريط الأدوات الاجتماعي">
 
@@ -736,11 +739,12 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY customizeMode.lwthemes.myThemes "سِماتي">
 <!ENTITY customizeMode.lwthemes.recommended "مُزكَّاة">
 <!ENTITY customizeMode.lwthemes.menuManage "أدِر">
-
+<!ENTITY customizeMode.lwthemes.menuManage.accessKey "ر">
 <!ENTITY customizeMode.lwthemes.menuGetMore "احصل على مزيد من السِمات">
-
+<!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "ح">
 <!ENTITY customizeMode.deveditionTheme.label2 "استخدم سمة إصدارة المطورين">
 
+<!ENTITY social.chatBar.commandkey "c">
 <!ENTITY social.chatBar.label "ركّز على الدردشات">
 <!ENTITY social.chatBar.accesskey "ك">
 
@@ -770,7 +774,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY trackingContentBlocked.message "التعقب">
 <!ENTITY trackingContentBlocked.moreinfo "منعت بعض أجزاء من الصفحة تحاول تتبع نشاطك على الإنترنت.">
-
+<!ENTITY trackingContentBlocked.learnMore "اطّلع على المزيد">
 <!ENTITY trackingContentBlocked.options "الخيارات">
 <!ENTITY trackingContentBlocked.unblock2.label "أوقف الحماية لهذا الموقع">
 <!ENTITY trackingContentBlocked.unblock2.accesskey "ق">

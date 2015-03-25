@@ -34,8 +34,8 @@
 <!ENTITY healthReportLearnMore.label     "اطّلع على المزيد">
 
 <!ENTITY telemetryDesc.label             "شارك بيانات المتصفح فيما يتعلق بالأداء و الاستخدام و العتاد و التخصيصات مع &vendorShortName; لمساعدتنا في جعل &brandShortName; أفضل">
-
-
+<!ENTITY enableTelemetryData.label       "شارك بيانات إضافية (تليميتري)">
+<!ENTITY enableTelemetryData.accesskey   "ت">
 <!ENTITY telemetryLearnMore.label        "اطّلع على المزيد">
 
 <!ENTITY crashReporterDesc.label         "يُرسل &brandShortName; بلاغات الانهيار إلى &vendorShortName; للمساعدة في تحسين أداء متصفحك و استقراره">
