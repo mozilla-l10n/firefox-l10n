@@ -41,7 +41,7 @@
 <!ENTITY runtimeMenu_showMonitor_accesskey "S">
 <!ENTITY runtimeMenu_showDevicePrefs_label "Įrenginio nuostatos">
 <!ENTITY runtimeMenu_showDevicePrefs_accesskey "n">
-
+<!ENTITY runtimeMenu_showSettings_label "Įrenginio nustatymai">
 
 
 <!ENTITY viewMenu_label "Rodymas">
@@ -94,7 +94,7 @@
 <!ENTITY details_location "Adresas">
 <!ENTITY details_manifestURL "Programos ID">
 <!ENTITY details_removeProject_button "Šalinti projektą">
-
+<!ENTITY details_showPrepackageLog_button "Rodyti paruošimo žurnalą">
 <!-- New App -->
 
 <!ENTITY newAppWindowTitle "Nauja programa">
@@ -146,7 +146,7 @@
 <!ENTITY runtimedetails_adbIsRoot "„ADB“ vykdoma administratoriaus teisėmis: ">
 <!ENTITY runtimedetails_summonADBRoot "gauti įrenginio administratoriaus teises">
 <!ENTITY runtimedetails_ADBRootWarning "(reikalinga atrakinta paleidyklė)">
-
+<!ENTITY runtimedetails_unrestrictedPrivileges "Neapribotos „DevTools“ privilegijos: ">
 <!ENTITY runtimedetails_requestPrivileges "prašyti aukštesnių privilegijų">
 <!ENTITY runtimedetails_privilegesWarning "(Įrenginys bus perleistas. Reikalingos „root“ teisės.)">
 <!-- Device Preferences and Settings -->
@@ -163,9 +163,11 @@
 <!ENTITY devicepreference_addnew "Pridėti naują nuostatų parametrą">
 <!-- Device Settings -->
 
+<!ENTITY devicesetting_title "Įrenginio nustatymai">
 
-
-
+<!ENTITY devicesetting_newname "Naujo nustatymo pavadinimas">
+<!ENTITY devicesetting_newtext "Nustatymo reikšmė">
+<!ENTITY devicesetting_addnew "Pridėti naują nustatymą">
 <!-- Monitor -->
 
 <!ENTITY monitor_title "Stebyklė">

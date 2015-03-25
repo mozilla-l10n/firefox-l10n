@@ -841,7 +841,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY emeNotificationsDontAskAgain.label       "Šio klausimo ateityje nepateikti">
 <!ENTITY emeNotificationsDontAskAgain.accesskey   "k">
 
-<!ENTITY readingList.label                        "Skaitymo sąrašas">
+<!ENTITY readingList.label                        "Skaitinių sąrašas">
 <!ENTITY readingList.sidebar.commandKey           "R">
 <!ENTITY readingList.showSidebar.label            "Rodyti skaitinių sąrašo parankinę">
 <!-- Pre-landed string for bug 1124153 -->
