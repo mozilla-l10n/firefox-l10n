@@ -8,8 +8,8 @@
 <!ENTITY  language.accesskey                      "P">
 
 <!ENTITY  size.label                              "Wjelikosć:">
-<!ENTITY  proportionalSize.accesskey              "W">
-<!ENTITY  sizeMono.accesskey                      "l">
+<!ENTITY  sizeProportional.accesskey              "o">
+<!ENTITY  sizeMonospace.accesskey                 "n">
 
 <!ENTITY  proportional.label                      "Proporcionalne:">
 <!ENTITY  proportional.accesskey                  "r">
@@ -20,20 +20,18 @@
 <!ENTITY  sans-serif.accesskey                    "n">
 <!ENTITY  monospace.label                         "Monospace:">
 <!ENTITY  monospace.accesskey                     "M">
+<!-- LOCALIZATION NOTE (font.langGroup.latin) :
+     Translate "Latin" as the name of Latin (Roman) script, not as the name of the Latin language. -->
 
-<!ENTITY  font.langGroup.latin1                   "Pódwjacorne">
-<!ENTITY  font.langGroup.latin2                   "Srjejźnoeuropejske">
+<!ENTITY  font.langGroup.latin                    "Łatyńske">
 <!ENTITY  font.langGroup.japanese                 "Japanske">
 <!ENTITY  font.langGroup.trad-chinese             "Chinske tradicionelne (Taiwan)">
 <!ENTITY  font.langGroup.simpl-chinese            "Chinske zjadnorjone">
 <!ENTITY  font.langGroup.trad-chinese-hk          "Chinske tradicionelne (Hong Kong)">
 <!ENTITY  font.langGroup.korean                   "Korejske">
 <!ENTITY  font.langGroup.cyrillic                 "Kyriliske">
-<!ENTITY  font.langGroup.baltic                   "Baltiske">
 <!ENTITY  font.langGroup.el                       "Grichiske">
-<!ENTITY  font.langGroup.turkish                  "Turkowske">
-<!ENTITY  font.langGroup.unicode1                 "Unicode">
-<!ENTITY  font.langGroup.user-def                 "Swójske">
+<!ENTITY  font.langGroup.other                    "Druge pismow systemy">
 <!ENTITY  font.langGroup.thai                     "Thailandske">
 <!ENTITY  font.langGroup.hebrew                   "Hebrejske">
 <!ENTITY  font.langGroup.arabic                   "Arabiske">
@@ -48,8 +46,12 @@
 <!ENTITY  font.langGroup.gurmukhi                 "Gurmukhi">
 <!ENTITY  font.langGroup.khmer                    "Khmer">
 <!ENTITY  font.langGroup.malayalam                "Malajalam">
+<!ENTITY  font.langGroup.oriya                    "Orija">
+<!ENTITY  font.langGroup.telugu                   "Telugu">
+<!ENTITY  font.langGroup.kannada                  "Kannada">
+<!ENTITY  font.langGroup.sinhala                  "Singaleziske">
+<!ENTITY  font.langGroup.tibetan                  "Tibetiske">
 <!-- Minimum font size -->
-
 <!ENTITY minSize.label                            "Minimalna pismowa wjelikosć:">
 <!ENTITY minSize.accesskey                        "i">
 <!ENTITY minSize.none                             "Žedna">
