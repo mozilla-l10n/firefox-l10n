@@ -8,8 +8,8 @@
 <!ENTITY  language.accesskey                      "P">
 
 <!ENTITY  size.label                              "Wulkosć:">
-
-
+<!ENTITY  sizeProportional.accesskey              "o">
+<!ENTITY  sizeMonospace.accesskey                 "n">
 
 <!ENTITY  proportional.label                      "Proporcionalny:">
 <!ENTITY  proportional.accesskey                  "P">
@@ -22,6 +22,8 @@
 <!ENTITY  monospace.accesskey                     "M">
 <!-- LOCALIZATION NOTE (font.langGroup.latin) :
      Translate "Latin" as the name of Latin (Roman) script, not as the name of the Latin language. -->
+
+<!ENTITY  font.langGroup.latin                    "Łaćonske">
 <!ENTITY  font.langGroup.japanese                 "Japanske">
 <!ENTITY  font.langGroup.trad-chinese             "Chinske tradicionelne (Taiwan)">
 <!ENTITY  font.langGroup.simpl-chinese            "Chinske zjednorjene">
@@ -29,7 +31,7 @@
 <!ENTITY  font.langGroup.korean                   "Korejske">
 <!ENTITY  font.langGroup.cyrillic                 "Kyriliske">
 <!ENTITY  font.langGroup.el                       "Grjekske">
-
+<!ENTITY  font.langGroup.other                    "Druhe pismowe systemy">
 <!ENTITY  font.langGroup.thai                     "Thailandske">
 <!ENTITY  font.langGroup.hebrew                   "Hebrejske">
 <!ENTITY  font.langGroup.arabic                   "Arabske">
@@ -44,11 +46,11 @@
 <!ENTITY  font.langGroup.gurmukhi                 "Gurmukhi">
 <!ENTITY  font.langGroup.khmer                    "Khmer">
 <!ENTITY  font.langGroup.malayalam                "Malajalam">
-
-
-
-
-
+<!ENTITY  font.langGroup.oriya                    "Orija">
+<!ENTITY  font.langGroup.telugu                   "Telugu">
+<!ENTITY  font.langGroup.kannada                  "Kannada">
+<!ENTITY  font.langGroup.sinhala                  "Singaleziske">
+<!ENTITY  font.langGroup.tibetan                  "Tibetiske">
 <!-- Minimum font size -->
 <!ENTITY minSize.label                            "Minimalna wulkosć pisma:">
 <!ENTITY minSize.accesskey                        "M">
