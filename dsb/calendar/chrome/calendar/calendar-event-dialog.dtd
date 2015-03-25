@@ -303,14 +303,14 @@
 <!ENTITY event.freebusy.legend.busy_tentative   "Nachylu" >
 
 
-
-
-
-
-
-
-
-
+<!ENTITY event.attendee.role.required           "Trěbny wobźělnik">
+<!ENTITY event.attendee.role.optional           "Móžny wobźělnik">
+<!ENTITY event.attendee.role.chair              "Wjednistwo">
+<!ENTITY event.attendee.role.nonparticipant     "Žeden wobźělnik">
+<!ENTITY event.attendee.usertype.individual     "Jadnotliwc">
+<!ENTITY event.attendee.usertype.group          "Kupka">
+<!ENTITY event.attendee.usertype.resource       "Resursa">
+<!ENTITY event.attendee.usertype.room           "Rumnosć">
 <!-- Timezone dialog -->
 
 <!-- Read-Only dialog -->
