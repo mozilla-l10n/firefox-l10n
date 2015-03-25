@@ -14,9 +14,9 @@
                        for the help button in the menubar but Gnome does not.   -->
 <!ENTITY helpMenuWin.label        "Hjælp">
 <!ENTITY helpMenuWin.accesskey    "H">
-<!ENTITY aboutProduct2.label       "Om &brandShortName;">
+<!ENTITY aboutProduct2.label       "Om &brandShorterName;">
 <!ENTITY aboutProduct2.accesskey   "O">
-<!ENTITY productHelp2.label        "Hjælp til &brandShortName;">
+<!ENTITY productHelp2.label        "Hjælp til &brandShorterName;">
 <!ENTITY productHelp2.accesskey    "H">
 <!ENTITY helpMac.commandkey       "?">
 
@@ -26,7 +26,7 @@
 <!ENTITY helpSafeMode.label       "Genstart med tilføjelser deaktiveret…">
 <!ENTITY helpSafeMode.accesskey   "G">
 
-<!ENTITY healthReport2.label       "&brandShortName; sundhedsrapport">
+<!ENTITY healthReport2.label       "&brandShorterName; sundhedsrapport">
 <!ENTITY healthReport2.accesskey   "s">
 
 <!ENTITY helpTroubleshootingInfo.label      "Teknisk information…">
@@ -35,7 +35,7 @@
 <!ENTITY helpFeedbackPage.label      "Indsend feedback…">
 <!ENTITY helpFeedbackPage.accesskey  "I">
 
-<!ENTITY helpShowTour2.label             "Rundvisning i &brandShortName;">
+<!ENTITY helpShowTour2.label             "Rundvisning i &brandShorterName;">
 <!ENTITY helpShowTour2.accesskey         "R">
 
 <!ENTITY preferencesCmdMac.label        "Indstillinger…">
@@ -43,7 +43,7 @@
 
 <!ENTITY servicesMenuMac.label          "Tjenester">
 
-<!ENTITY hideThisAppCmdMac2.label        "Skjul &brandShortName;">
+<!ENTITY hideThisAppCmdMac2.label        "Skjul &brandShorterName;">
 <!ENTITY hideThisAppCmdMac2.commandkey   "H">
 
 <!ENTITY hideOtherAppsCmdMac.label      "Skjul andre">

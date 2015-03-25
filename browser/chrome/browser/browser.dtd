@@ -607,12 +607,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY quitApplicationCmdWin2.label       "Afslut">
 <!ENTITY quitApplicationCmdWin2.accesskey   "A">
-<!ENTITY quitApplicationCmdWin2.tooltip     "Afslut &brandShortName;">
+<!ENTITY quitApplicationCmdWin2.tooltip     "Afslut &brandShorterName;">
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY goForwardCmd.commandKey "]">
 <!ENTITY quitApplicationCmd.label       "Afslut">
 <!ENTITY quitApplicationCmd.accesskey   "A">
-<!ENTITY quitApplicationCmdMac2.label    "Afslut &brandShortName;">
+<!ENTITY quitApplicationCmdMac2.label    "Afslut &brandShorterName;">
 <!-- LOCALIZATION NOTE(quitApplicationCmdUnix.key): This keyboard shortcut is used by both Linux and OSX builds. -->
 <!ENTITY quitApplicationCmdUnix.key      "Q">
 
@@ -847,7 +847,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY readingList.label                        "Læseliste">
 <!ENTITY readingList.sidebar.commandKey           "L">
-<!ENTITY readingList.showSidebar.label            "Vis sidebjælke til læseliste">
+<!ENTITY readingList.showSidebar.label            "Vis sidepanel til læseliste">
 <!-- Pre-landed string for bug 1124153 -->
 <!ENTITY readingList.sidebar.showMore.label       "Vis mere…">
 <!-- Pre-landed string for bug 1133662 -->
