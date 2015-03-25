@@ -7,15 +7,18 @@
   -->
 
 
-
-
-
+<!ENTITY pref.categories.add.title "Kategoriju pśidaś">
+<!ENTITY pref.categories.addButton.label "Pśidaś…">
+<!ENTITY pref.categories.addButton.accesskey "P">
+<!ENTITY pref.categories.edit.title "Kategoriju wobźěłaś">
+<!ENTITY pref.categories.editButton.label "Wobźěłaś…">
+<!ENTITY pref.categories.editButton.accesskey "b">
 <!ENTITY pref.categories.removeButton.label "Wótpóraś">
-<!ENTITY pref.categories.removeButton.accesskey "W">
-
-
-
-
-
-
-
+<!ENTITY pref.categories.removeButton.accesskey "t">
+<!ENTITY pref.categories.name.label "Mě">
+<!ENTITY pref.categories.color.label "Barwa">
+<!ENTITY pref.categories.usecolor.label "Barwu wužywaś">
+<!ENTITY pref.categories.none.label "(žedna)">
+<!ENTITY pref.categories.overwrite "Kategorija z toś tym mjenim južo eksistěrujo. \n Cośo ju pśepisowaś?">
+<!ENTITY pref.categories.overwrite.title "Warnowanje: Dwójne mě">
+<!ENTITY pref.categories.noBlankCategories "Musyśo kategorijowe mě zapódaś.">

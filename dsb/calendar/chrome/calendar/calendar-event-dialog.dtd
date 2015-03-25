@@ -170,8 +170,8 @@
 
 
 
-<!ENTITY event.attachments.popup.remove.label             "Wótpóraś" >
-<!ENTITY event.attachments.popup.remove.accesskey         "W" >
+
+
 <!ENTITY event.attachments.popup.open.label               "Wócyniś" >
 <!ENTITY event.attachments.popup.open.accesskey           "c" >
 
@@ -314,6 +314,8 @@
 <!-- Timezone dialog -->
 
 <!-- Read-Only dialog -->
+
+<!ENTITY read.only.general.label         "Powšykny">
 <!ENTITY read.only.title.label           "Titel:">
 
 
