@@ -26,14 +26,15 @@
 <!ENTITY day.1.name "Njeźela" >
 <!ENTITY day.2.name "Pónźele" >
 <!ENTITY day.3.name "Wałtora" >
+<!ENTITY day.4.name "Srjoda" >
+<!ENTITY day.5.name "Stwórtk" >
+<!ENTITY day.6.name "Pětk" >
+<!ENTITY day.7.name "Sobota" >
 
-
-
-
-
-
-
-
+<!ENTITY month.1.name "Januar" >
+<!ENTITY month.2.name "Februar" >
+<!ENTITY month.3.name "Měrc" >
+<!ENTITY month.4.name "Apryl" >
 <!ENTITY month.5.name "Maj" >
 <!ENTITY month.6.name "Junij" >
 <!ENTITY month.7.name "Julij" >

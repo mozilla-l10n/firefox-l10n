@@ -1,16 +1,22 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY wizard.title             "Nowy kalender napóraś" >
 <!ENTITY wizard.label             "Nowy kalender napóraś" >
+<!ENTITY wizard.description       "Waš kalender lokalizěrowaś" >
 
+<!ENTITY initialpage.description    "Waš kalender dajo se na wašom licadle abo na serweru składowaś, aby na njen zdaloka pśistup měł abo jen z wašymi pśijaśelami abo sobuźěłaśerjami źělił." >
+<!ENTITY initialpage.computer.label  "Na mójom licadle">
+<!ENTITY initialpage.network.label  "W seśi">
 
+<!ENTITY locationpage.description         "Stajśo informacije wó tom k dispoziciji, což jo trěbne, aby pśistup na waš daloki kalender měło" >
+<!ENTITY locationpage.login.description   "Na žycenje: zapódajśo wužywarske mě a gronidło" >
+<!ENTITY locationpage.username.label      "Wužywarske mě:" >
+<!ENTITY locationpage.password.label      "Gronidło:" >
 
+<!ENTITY custompage.shortdescription  "Waš kalender pśiměriś" >
+<!ENTITY custompage.longdescription   "Móžośo swójomu kalenderoju pśimě daś a tšojenja z kalendera zabarwiś." >
 
-
-
-
-
-
-
-
-
+<!ENTITY finishpage.shortdescription  "Kalender jo se napórał" >
+<!ENTITY finishpage.longdescription   "Waš kalender jo se napórał." >
