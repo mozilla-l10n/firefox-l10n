@@ -8,8 +8,8 @@
 <!ENTITY  language.accesskey                      "K">
 
 <!ENTITY  size.label                              "Dydis:">
-<!ENTITY  proportionalSize.accesskey              "D">
-<!ENTITY  sizeMono.accesskey                      "y">
+
+
 
 <!ENTITY  proportional.label                      "Įvairiaplotis:">
 <!ENTITY  proportional.accesskey                  "v">
@@ -20,20 +20,16 @@
 <!ENTITY  sans-serif.accesskey                    "B">
 <!ENTITY  monospace.label                         "Lygiaplotis:">
 <!ENTITY  monospace.accesskey                     "L">
-
-<!ENTITY  font.langGroup.latin1                   "Vakarų Europos">
-<!ENTITY  font.langGroup.latin2                   "Vidurio Europos">
+<!-- LOCALIZATION NOTE (font.langGroup.latin) :
+     Translate "Latin" as the name of Latin (Roman) script, not as the name of the Latin language. -->
 <!ENTITY  font.langGroup.japanese                 "Japonų">
 <!ENTITY  font.langGroup.trad-chinese             "Tradicinė kinų (Taivanis)">
 <!ENTITY  font.langGroup.simpl-chinese            "Supaprastintoji kinų">
 <!ENTITY  font.langGroup.trad-chinese-hk          "Tradicinė kinų (Honkongas)">
 <!ENTITY  font.langGroup.korean                   "Korėjiečių">
 <!ENTITY  font.langGroup.cyrillic                 "Kirilica">
-<!ENTITY  font.langGroup.baltic                   "Baltijos šalių">
 <!ENTITY  font.langGroup.el                       "Graikų">
-<!ENTITY  font.langGroup.turkish                  "Turkų">
-<!ENTITY  font.langGroup.unicode1                 "Unikodas">
-<!ENTITY  font.langGroup.user-def                 "Naudotojo apibrėžta">
+
 <!ENTITY  font.langGroup.thai                     "Tajų">
 <!ENTITY  font.langGroup.hebrew                   "Hebrajų">
 <!ENTITY  font.langGroup.arabic                   "Arabų">
@@ -48,8 +44,12 @@
 <!ENTITY  font.langGroup.gurmukhi                 "Gurmukų">
 <!ENTITY  font.langGroup.khmer                    "Chmerų">
 <!ENTITY  font.langGroup.malayalam                "Malajų">
-<!-- Minimum font size -->
 
+
+
+
+
+<!-- Minimum font size -->
 <!ENTITY minSize.label                            "Minimalus šrifto dydis:">
 <!ENTITY minSize.accesskey                        "M">
 <!ENTITY minSize.none                             "Nenurodytas">

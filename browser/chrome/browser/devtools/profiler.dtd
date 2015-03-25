@@ -54,8 +54,8 @@
 <!ENTITY profilerUI.table.totalPercentage "Bendri kaštai">
 <!ENTITY profilerUI.table.selfPercentage  "Vidiniai kaštai">
 <!ENTITY profilerUI.table.samples         "Pavyzdžiai">
-
-
+<!ENTITY profilerUI.table.totalAlloc      "Viso paskirstymų">
+<!ENTITY profilerUI.table.selfAlloc       "Vidinių paskirstymų">
 <!ENTITY profilerUI.table.function        "Funkcija">
 <!-- LOCALIZATION NOTE (profilerUI.newtab.tooltiptext): The tooltiptext shown
   -  on the "+" (new tab) button for a profile when a selection is available. -->
@@ -63,6 +63,8 @@
 <!ENTITY profilerUI.newtab.tooltiptext "Pridėti naują kortelę iš pasirinkto intervalo">
 <!-- LOCALIZATION NOTE (profilerUI.options.tooltiptext): This is the tooltip
   -  for the options button. -->
+
+<!ENTITY profilerUI.options.tooltiptext "Keisti našumo nuostatas.">
 <!-- LOCALIZATION NOTE (profilerUI.invertTree): This is the label shown next to
   -  a checkbox that inverts and un-inverts the profiler's call tree. -->
 
@@ -70,6 +72,8 @@
 <!ENTITY profilerUI.invertTree.tooltiptext "Invertavus kreipimųsi medį yra rodomi profiliuotų kreipimųsi keliai, pradedant jauniausiais kadrais ir plečiantis iki senesnių.">
 <!-- LOCALIZATION NOTE (profilerUI.invertFlameGraph): This is the label shown next to
   -  a checkbox that inverts and un-inverts the profiler's flame graph. -->
+
+<!ENTITY profilerUI.invertFlameGraph             "Invertuoti liepsnų diagramą">
 
 <!-- LOCALIZATION NOTE (profilerUI.showPlatformData): This is the
   -  label for the checkbox that toggles whether or not Gecko platform data

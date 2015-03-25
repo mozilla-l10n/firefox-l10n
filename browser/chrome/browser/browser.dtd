@@ -244,7 +244,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY responsiveDesignTool.label   "Keičiamo dydžio rodinys">
 <!ENTITY responsiveDesignTool.accesskey "K">
-
+<!ENTITY responsiveDesignTool.commandkey "M">
 
 <!ENTITY eyedropper.label   "Spalvos parinkiklis">
 <!ENTITY eyedropper.accesskey "v">
@@ -287,7 +287,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY devToolbar.keytext                "F2">
 <!ENTITY devToolboxMenuItem.label          "Rodyti priemones">
 <!ENTITY devToolboxMenuItem.accesskey      "R">
-
+<!ENTITY devToolboxMenuItem.keytext        "I">
 
 <!ENTITY devToolbarToolsButton.tooltip     "Rodyti programuotojų priemones">
 <!ENTITY devToolbarOtherToolsButton.label  "Kitos priemonės">
@@ -414,7 +414,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY searchFocus.commandkey       "k">
 <!ENTITY searchFocus.commandkey2      "e">
-
+<!ENTITY searchFocusUnix.commandkey   "j">
 <!-- LOCALIZATION NOTE (searchFor.label, searchWith.label):
      These two strings are used to build the header above the list of one-click
      search providers:  "Search for <used typed keywords> with:" -->
@@ -431,6 +431,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      consider translating it as if it said only "Search Settings". -->
 <!ENTITY changeSearchSettings.button  "Keisti paieškos nuostatas">
 
+<!ENTITY tabView.commandkey           "e">
 
 <!ENTITY openLinkCmdInTab.label       "Atverti saitą naujoje kortelėje">
 <!ENTITY openLinkCmdInTab.accesskey   "t">
@@ -446,7 +447,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openFrameCmd.accesskey       "l">
 <!ENTITY showOnlyThisFrameCmd.label     "Rodyti tik šį kadrą">
 <!ENTITY showOnlyThisFrameCmd.accesskey "t">
-
+<!ENTITY reloadCmd.commandkey         "r">
 <!ENTITY reloadFrameCmd.label         "Atsiųsti kadrą iš naujo">
 <!ENTITY reloadFrameCmd.accesskey     "n">
 <!ENTITY viewPartialSourceForSelectionCmd.label "Rodyti atrankos pirminį tekstą">
@@ -485,7 +486,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY savePageCmd.label            "Įrašyti kaip…">
 <!ENTITY savePageCmd.accesskey        "r">
 <!-- alternate for content area context menu -->
-
+<!ENTITY savePageCmd.commandkey       "s">
 <!ENTITY saveFrameCmd.label           "Įrašyti kadrą kaip…">
 <!ENTITY saveFrameCmd.accesskey       "r">
 <!ENTITY printFrameCmd.label          "Spausdinti kadrą…">
@@ -851,4 +852,4 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY readingList.sidebar.delete.tooltip       "Pašalinti iš skaitinių sąrašo">
 <!-- Pre-landed strings for bug 1123519 -->
 <!ENTITY readingList.sidebar.add.label            "Pridėti į skaitinių sąrašą">
-
+<!ENTITY readingList.sidebar.add.tooltip          "Pridėti šį tinklalapį į skaitinių sąrašą">
