@@ -7,7 +7,7 @@
 <!ENTITY  error_loading_file "A intervenit o eroare în timpul încărcării fișierelor necesare pentru a rula &brandShortName;">
 
 <!ENTITY  onboard_start_message2 "Bun venit la &brandShortName;">
-<!ENTITY  onboard_start_subtext2 "Mai multe funcții de intimitate și moduri de personalizare ca niciodată.">
+<!ENTITY  onboard_start_subtext2 "Mai multe funcții de confidențialitate și moduri de personalizare ca niciodată.">
 <!ENTITY  onboard_start_button_account "Autentifică-te în &brandShortName;">
 <!ENTITY  onboard_start_button_browser "Începe navigarea">
 <!-- Localization note: These are used as the titles of different pages on the home screen.
