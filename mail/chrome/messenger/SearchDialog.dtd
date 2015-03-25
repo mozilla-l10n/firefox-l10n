@@ -51,7 +51,7 @@
 <!ENTITY unreadColumn.label "未讀">
 <!ENTITY totalColumn.label "全部">
 <!ENTITY readColumn.label "已讀">
-<!ENTITY receivedColumn.label "已接收">
+<!ENTITY receivedColumn.label "接收時間">
 <!ENTITY starredColumn.label "已標星號">
 <!ENTITY locationColumn.label "地點">
 <!ENTITY idColumn.label "收件順序">
