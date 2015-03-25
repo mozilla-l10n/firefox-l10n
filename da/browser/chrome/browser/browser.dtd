@@ -839,7 +839,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY processHang.terminateProcess.accessKey   "w">
 
 <!ENTITY emeLearnMoreContextMenu.label            "Læs mere om DRM…">
-<!ENTITY emeLearnMoreContextMenu.accesskey        "D">
+<!ENTITY emeLearnMoreContextMenu.accesskey        "æ">
 <!ENTITY emeNotificationsNotNow.label             "Ikke nu">
 <!ENTITY emeNotificationsNotNow.accesskey         "I">
 <!ENTITY emeNotificationsDontAskAgain.label       "Spørg mig ikke igen">
