@@ -6,7 +6,7 @@
 <!ENTITY wizard.label             "Nowu protyku wutworić" >
 <!ENTITY wizard.description       "Wašu protyku lokalizować" >
 
-<!ENTITY initialpage.description    "Waša protyka da so na wašim ličaku abo na serwerje składować, zo by na njón zdaloka přistup měło abo jón z wašimi přećelemi abo sobudźěłaćerjemi dźěliło." >
+<!ENTITY initialpage.description    "Waša protyka da so na wašim ličaku abo na serwerje składować, zo by na nju zdaloka přistup měł abo ju z wašimi přećelemi abo sobudźěłaćerjemi dźělił." >
 <!ENTITY initialpage.computer.label  "Na mojim ličaku">
 <!ENTITY initialpage.network.label  "W syći">
 
