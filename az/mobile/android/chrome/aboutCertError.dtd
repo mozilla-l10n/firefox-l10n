@@ -18,7 +18,7 @@ was trying to connect. -->
 <!ENTITY certerror.introPara1 "&brandShortName; tətbiqindən təhlükəsiz şəkildə <b>#1</b> 
 ünvanına qoşulmasını istədiniz, amma bağlantınızın qorumalı olduğunu təsdiqləyə bilmirik.">
 
-<!ENTITY certerror.whatShouldIDo.heading "Ne yapmalıyım?">
+<!ENTITY certerror.whatShouldIDo.heading "Nə etməliyəm?">
 <!ENTITY certerror.whatShouldIDo.content "Adətən bu sayta heç bir problem 
 olmadan bağlana bilirdinizsə, bu dəfə başqa bir nəfər bu saytın adından 
 istifadə etmiş ola bilər, qısacası davam etməməlisiniz.">
@@ -34,4 +34,4 @@ oynadığını mənasını verə bilər.</b>">
 <!ENTITY certerror.addTemporaryException.label "Baxış tarixi">
 <!ENTITY certerror.addPermanentException.label "Qalıcı istisna əlavə et">
 
-<!ENTITY certerror.technical.heading "Teknik ayrıntılar">
+<!ENTITY certerror.technical.heading "Texniki Təfərrüatlar">
