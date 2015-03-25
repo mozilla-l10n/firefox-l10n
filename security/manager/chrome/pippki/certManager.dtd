@@ -79,8 +79,8 @@
 <!ENTITY certmgr.details.accesskey            "P">
 <!ENTITY certmgr.fields.label                 "Vrijednost polja">
 <!ENTITY certmgr.fields.accesskey             "V">
-
-
+<!ENTITY certmgr.hierarchy.label              "Hijerarhija certifikata">
+<!ENTITY certmgr.hierarchy.accesskey2         "H">
 <!ENTITY certmgr.addException.label           "Dodaj iznimku…">
 <!ENTITY certmgr.addException.accesskey       "D">
 

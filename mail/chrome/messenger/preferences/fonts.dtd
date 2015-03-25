@@ -8,8 +8,8 @@
 <!ENTITY  language.accesskey                      "F">
 
 <!ENTITY  size.label                              "Veličina:">
-<!ENTITY  proportionalSize.accesskey              "e">
-<!ENTITY  sizeMono.accesskey                      "i">
+
+
 
 <!ENTITY  proportional.label                      "Proporcionalan:">
 <!ENTITY  proportional.accesskey                  "P">
@@ -20,20 +20,16 @@
 <!ENTITY  sans-serif.accesskey                    "n">
 <!ENTITY  monospace.label                         "Monospace:">
 <!ENTITY  monospace.accesskey                     "M">
-
-<!ENTITY  font.langGroup.latin1                   "Zapadni">
-<!ENTITY  font.langGroup.latin2                   "Srednjoeuropski">
+<!-- LOCALIZATION NOTE (font.langGroup.latin) :
+     Translate "Latin" as the name of Latin (Roman) script, not as the name of the Latin language. -->
 <!ENTITY  font.langGroup.japanese                 "Japanski">
 <!ENTITY  font.langGroup.trad-chinese             "Tradicionalni kineski (Tajvan)">
 <!ENTITY  font.langGroup.simpl-chinese            "Pojednostavljeni kineski">
 <!ENTITY  font.langGroup.trad-chinese-hk          "Tradicionalni kineski (Hong Kong)">
 <!ENTITY  font.langGroup.korean                   "Korejski">
 <!ENTITY  font.langGroup.cyrillic                 "Ćirilični">
-<!ENTITY  font.langGroup.baltic                   "Baltički">
 <!ENTITY  font.langGroup.el                       "Grčki">
-<!ENTITY  font.langGroup.turkish                  "Turski">
-<!ENTITY  font.langGroup.unicode1                 "Unicode">
-<!ENTITY  font.langGroup.user-def                 "Korisnički određeno">
+
 <!ENTITY  font.langGroup.thai                     "Tajlandski">
 <!ENTITY  font.langGroup.hebrew                   "Hebrejski">
 <!ENTITY  font.langGroup.arabic                   "Arapski">
@@ -48,8 +44,12 @@
 <!ENTITY  font.langGroup.gurmukhi                 "Gurmukhi">
 <!ENTITY  font.langGroup.khmer                    "Khmer">
 <!ENTITY  font.langGroup.malayalam                "Malajalam">
-<!-- Minimum font size -->
 
+
+
+
+
+<!-- Minimum font size -->
 <!ENTITY minSize.label                            "Minimalna veličina fonta:">
 <!ENTITY minSize.accesskey                        "a">
 <!ENTITY minSize.none                             "Ništa">
