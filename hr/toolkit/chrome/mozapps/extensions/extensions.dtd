@@ -4,7 +4,7 @@
 <!ENTITY addons.windowTitle                   "Upravitelj dodacima">
 
 <!ENTITY search.placeholder                   "Pretraži sve dodatke">
-
+<!ENTITY search.buttonlabel                   "Traži">
 <!-- LOCALIZATION NOTE (search.commandKey):
      The search command key should match findOnCmd.commandkey from browser.dtd -->
 <!ENTITY search.commandkey                    "f">
@@ -36,6 +36,8 @@
 <!ENTITY info.plugincheck.label                 "Provjerite jesu li vaši priključci ažurni">
 <!ENTITY info.plugincheck.tooltip               "Provjerite jesu li vaši priključci ažurni">
 <!-- categories / views -->
+
+<!ENTITY view.search.label                    "Traži">
 <!ENTITY view.discover.label                  "Pronađi dopune">
 <!ENTITY view.recentUpdates.label             "Nedavne dopune">
 <!ENTITY view.availableUpdates.label          "Dostupne dopune">
@@ -228,3 +230,4 @@ neke od najboljih i najpopularnijih dodataka koje možete isprobati.">
 <!ENTITY experiment.info.changetelemetry "Postavke telemetrije">
 <!ENTITY experiment.info.changetelemetry.accesskey "t">
 
+<!ENTITY setting.learnmore "Saznajte više…">
