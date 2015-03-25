@@ -8,8 +8,8 @@
 <!ENTITY  language.accesskey                      "r">
 
 <!ENTITY  size.label                              "Ment :">
-
-
+<!ENTITY  sizeProportional.accesskey              "e">
+<!ENTITY  sizeMonospace.accesskey                 "n">
 
 <!ENTITY  proportional.label                      "Kenfeuriek :">
 <!ENTITY  proportional.accesskey                  "n">
@@ -46,10 +46,10 @@
 <!ENTITY  font.langGroup.gurmukhi                 "Gurmukhieg">
 <!ENTITY  font.langGroup.khmer                    "Khmereg">
 <!ENTITY  font.langGroup.malayalam                "Malayalameg">
-
-
-
-
+<!ENTITY  font.langGroup.oriya                    "Oriyeg">
+<!ENTITY  font.langGroup.telugu                   "Telougoueg">
+<!ENTITY  font.langGroup.kannada                  "Kannadaeg">
+<!ENTITY  font.langGroup.sinhala                  "Sinhaleg">
 <!ENTITY  font.langGroup.tibetan                  "Tibetek">
 <!-- Minimum font size -->
 <!ENTITY minSize.label                            "Ment izek an nodrezh :">
