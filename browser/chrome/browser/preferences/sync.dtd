@@ -34,8 +34,12 @@
 <!ENTITY engine.addons.accesskey    "g">
 <!-- Device Settings -->
 
+<!ENTITY syncDeviceName.label       "Izina ry'igikoresho">
+<!ENTITY syncDeviceName.accesskey   "c">
 
 <!-- Footer stuff -->
+
+<!ENTITY prefs.tosLink.label        "Amabwiriza ya serivisi">
 
 <!-- Firefox Accounts stuff -->
 

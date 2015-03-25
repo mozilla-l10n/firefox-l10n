@@ -16,6 +16,8 @@
 
 <!-- LOCALIZATION NOTE (profilerUI.loadingNotice): This is the label shown
   -  in the call list view while loading a profile. -->
+
+<!ENTITY profilerUI.loadingNotice "Gukusanya">
 <!-- LOCALIZATION NOTE (profilerUI.recordButton): This string is displayed
   -  on a button that starts a new profile. -->
 <!-- LOCALIZATION NOTE (profilerUI.importButton): This string is displayed

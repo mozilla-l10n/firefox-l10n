@@ -7,26 +7,26 @@ file names and tall enough to hint that there are more downloads in the list -->
 <!ENTITY window.height                    "300"> 
 
 <!ENTITY starting.label                   "Irimo gutangira...">
-
+<!ENTITY scanning.label                   "Gukuramo ama ibyangiza mudasobwa">
 
 <!ENTITY downloads.title                  "Ibikururwa">
 
 <!ENTITY cmd.pause.label                  "Guhagarara">
-<!ENTITY cmd.pause.accesskey              "h">
-<!ENTITY cmd.resume.label                 "Kongera gutangira ">
-<!ENTITY cmd.resume.accesskey             "g">
+<!ENTITY cmd.pause.accesskey              "P">
+<!ENTITY cmd.resume.label                 "Kongera gukomeza">
+<!ENTITY cmd.resume.accesskey             "R">
 <!ENTITY cmd.cancel.label                 "Kureka">
-<!ENTITY cmd.cancel.accesskey             "r">
+<!ENTITY cmd.cancel.accesskey             "C">
 <!ENTITY cmd.show.label                   "Gufungura Ububiko Burimo">
-<!ENTITY cmd.show.accesskey               "B">
+<!ENTITY cmd.show.accesskey               "F">
 
 
 <!ENTITY cmd.open.label                   "Gufungura">
-<!ENTITY cmd.open.accesskey               "f">
-<!ENTITY cmd.openWith.label               "Gufungura Hifashishijwe...">
-<!ENTITY cmd.openWith.accesskey           "n">
+<!ENTITY cmd.open.accesskey               "O">
+<!ENTITY cmd.openWith.label               "Gufungura Hifashishijwe">
+<!ENTITY cmd.openWith.accesskey           "h">
 <!ENTITY cmd.retry.label                  "Kongera Kugerageza">
-<!ENTITY cmd.retry.accesskey              "o">
+<!ENTITY cmd.retry.accesskey              "R">
 
 
 
