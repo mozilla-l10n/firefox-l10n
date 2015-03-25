@@ -25,10 +25,10 @@ istifadə etmiş ola bilər, qısacası davam etməməlisiniz.">
 <!ENTITY certerror.getMeOutOfHere.label "Məni burdan xilas et!">
 
 <!ENTITY certerror.expert.heading "Təhlükəni anlayıram">
-<!ENTITY certerror.expert.content "Nələr olduğunu bilirsinizsə &brandShortName; proqramına 
-bu saytın kimlik məlumatlarına etibar etməyini söyləyə bilərsiniz. 
+<!ENTITY certerror.expert.content "Səbəbini bilirsizsə &brandShortName; səyyahına 
+bu saytın kimlik məlumatlarına etibar etməsini deyə bilərsiz. 
 <b>Sayta etibar etsəniz belə, bu xəta birisinin bağlantınızla 
-oynadığını mənasını verə bilər.</b>">
+oynadığı mənasını verə bilər.</b>">
 <!ENTITY certerror.expert.contentPara2 "Bu sayta, etibar edilən bir kimlik məlumatı təqdim etməməsi 
 üçün vacib bir səbəb olmadığı müddətcə istisnalıq verməyin.">
 <!ENTITY certerror.addTemporaryException.label "Baxış tarixi">

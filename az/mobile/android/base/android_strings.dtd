@@ -185,7 +185,7 @@
 <!ENTITY pref_clear_on_exit_title2 "Çıxarkən təmizlə">
 <!ENTITY pref_clear_on_exit_summary2 "Əsas menyudan \u0022Çıx\u0022 seçdiyiniz zaman &brandShortName; sizin məlumatlarınız avtomatik təmizləyəcək">
 <!ENTITY pref_clear_on_exit_dialog_title "Hansı məlumatın təmizlənəcəyini seçin">
-<!ENTITY pref_plugins "Əlavə proqramlar">
+<!ENTITY pref_plugins "Qoşmalar">
 <!ENTITY pref_plugins_enabled "Aktiv">
 <!ENTITY pref_plugins_tap_to_play "Oxutmaq üçün ekrana toxunun">
 <!ENTITY pref_plugins_disabled "Söndürülüb">
