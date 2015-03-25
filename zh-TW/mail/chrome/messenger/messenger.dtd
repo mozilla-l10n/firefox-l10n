@@ -170,7 +170,7 @@
 <!ENTITY sortMenu.accesskey "S">
 <!ENTITY sortByDateCmd.label "日期">
 <!ENTITY sortByDateCmd.accesskey "e">
-<!ENTITY sortByReceivedCmd.label "已接收">
+<!ENTITY sortByReceivedCmd.label "接收時間">
 <!ENTITY sortByReceivedCmd.accesskey "v">
 <!ENTITY sortByStarCmd.label "已加星號">
 <!ENTITY sortByStarCmd.accesskey "S">
@@ -669,7 +669,7 @@
 <!ENTITY unreadColumn.label "未讀">
 <!ENTITY totalColumn.label "全部">
 <!ENTITY readColumn.label "已讀">
-<!ENTITY receivedColumn.label "已接收">
+<!ENTITY receivedColumn.label "接收時間">
 <!ENTITY starredColumn.label "已標星號">
 <!ENTITY locationColumn.label "地點">
 <!ENTITY idColumn.label "收件順序">

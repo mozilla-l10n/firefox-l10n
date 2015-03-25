@@ -140,7 +140,7 @@
 
 <!ENTITY sortByDateCmd.label "日期">
 <!ENTITY sortByDateCmd.accesskey "e">
-<!ENTITY sortByReceivedCmd.label "已接收">
+<!ENTITY sortByReceivedCmd.label "接收時間">
 <!ENTITY sortByReceivedCmd.accesskey "v">
 <!ENTITY sortByFlagCmd.label "標示">
 <!ENTITY sortByFlagCmd.accesskey "l">
