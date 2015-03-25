@@ -32,6 +32,7 @@
 <!ENTITY choose_file "Scelta file">
 <!ENTITY url_bar_default_text2 "Cerca o inserisci un indirizzo">
 <!ENTITY bookmark "Segnalibro">
+<!ENTITY bookmark_remove "Elimina segnalibro">
 <!ENTITY bookmark_added "Aggiunto segnalibro">
 <!ENTITY bookmark_removed "Segnalibro eliminato">
 <!ENTITY bookmark_updated "Segnalibro aggiornato">
