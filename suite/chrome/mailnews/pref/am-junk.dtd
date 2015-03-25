@@ -15,7 +15,7 @@
 <!ENTITY otherFolder.accesskey "A">
 <!ENTITY purge1.label "Ongewenste berichten ouder dan">
 <!ENTITY purge1.accesskey "d">
-<!ENTITY purge2.label "dagen automatisch uit deze map verwijderen">
+<!ENTITY purge2.label "dagen automatisch verwijderen">
 
 <!ENTITY whitelistHeader.label "Berichten niet automatisch als ongewenst markeren als de afzender voorkomt in mijn: ">
 <!ENTITY whitelistHeader.accesskey "m">
