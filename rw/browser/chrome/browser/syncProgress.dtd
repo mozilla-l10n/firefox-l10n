@@ -7,6 +7,6 @@
 <!-- These strings are used in the sync progress upload page -->
 
 <!ENTITY syncProgress.closeButton  "Gufunga">
-
+<!ENTITY syncProgress.logoAltText  "&brandShortName;ikirango">
 
 

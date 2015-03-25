@@ -16,9 +16,9 @@
 <!ENTITY  button-finish-unix.label     "Gusoza.">
 <!ENTITY  button-cancel-unix.label     "Kureka">
 
-<!ENTITY  button-back-win.label        "&lt; Inyuma">
-<!ENTITY  button-back-win.accesskey    "y">
-<!ENTITY  button-next-win.label        "Imbere &gt;">
-<!ENTITY  button-next-win.accesskey    "b">
-<!ENTITY  button-finish-win.label      "Kurangiza">
+<!ENTITY  button-back-win.label        "&lt; Garuka">
+<!ENTITY  button-back-win.accesskey    "B">
+<!ENTITY  button-next-win.label        "Ibikurukira &gt;">
+<!ENTITY  button-next-win.accesskey    "N">
+<!ENTITY  button-finish-win.label      "Gusoza">
 <!ENTITY  button-cancel-win.label      "Kureka">

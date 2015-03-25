@@ -30,7 +30,7 @@
   -  translation.translatedToSuffix.label (empty in en-US) is for locales that
   -  need to display some text after the second drop down for the sentence to
   -  be grammatically correct. -->
-
+<!ENTITY translation.translatedTo.label         "ku">
 <!ENTITY translation.translatedToSuffix.label   "">
 
 

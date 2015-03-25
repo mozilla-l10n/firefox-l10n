@@ -7,7 +7,7 @@ file names and tall enough to hint that there are more downloads in the list -->
 <!ENTITY window.height                    "300"> 
 
 <!ENTITY starting.label                   "Irimo gutangira...">
-
+<!ENTITY scanning.label                   "Gukuramo ama ibyangiza mudasobwa">
 
 <!ENTITY downloads.title                  "Ibikururwa">
 
