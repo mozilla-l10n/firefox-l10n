@@ -13,10 +13,11 @@
 <!ENTITY restorepage.startNew       "بدء جلسة تصفح جديدة">
 
 <!ENTITY restorepage.tryagainButton "استعِد">
-
+<!ENTITY restorepage.restore.access "س">
 <!ENTITY restorepage.closeButton    "أغلِق">
+<!ENTITY restorepage.close.access   "غ">
 
-
+<!ENTITY restorepage.restoreHeader  "استعِد">
 <!ENTITY restorepage.listHeader     "النوافذ والألسنة">
 <!-- LOCALIZATION NOTE: &#37;S will be replaced with a number. -->
 <!ENTITY restorepage.windowLabel    "النافذة &#037;S">
@@ -26,10 +27,11 @@
 
 
 <!ENTITY welcomeback2.restoreButton  "هيا بنا">
-
+<!ENTITY welcomeback2.restoreButton.access "ه">
 
 <!ENTITY welcomeback2.tabtitle      "تم">
 
+<!ENTITY welcomeback2.pageTitle     "تم">
 <!ENTITY welcomeback2.pageInfo1     "‏&brandShortName; جاهز.">
 
 <!ENTITY welcomeback2.label.restoreAll  "استعد كل الألسنة و النوافذ">

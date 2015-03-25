@@ -37,7 +37,7 @@
 
 
 
-
+<!ENTITY runtimeMenu_showDevicePrefs_label "تفضيلات الجهاز">
 
 
 
@@ -133,10 +133,14 @@
 
 <!-- Device Preferences and Settings -->
 
-
+<!ENTITY device_typeboolean "عدد منطقي">
+<!ENTITY device_typenumber "عدد صحيح">
+<!ENTITY device_typestring "نصّ">
 <!ENTITY device_typeobject "كائن">
 
 <!-- Device Preferences -->
+
+<!ENTITY devicepreference_title "تفضيلات الجهاز">
 
 
 
