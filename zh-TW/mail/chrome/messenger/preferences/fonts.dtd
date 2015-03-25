@@ -8,8 +8,8 @@
 <!ENTITY  language.accesskey                      "t">
 
 <!ENTITY  size.label                              "大小:">
-<!ENTITY  proportionalSize.accesskey              "e">
-<!ENTITY  sizeMono.accesskey                      "i">
+<!ENTITY  sizeProportional.accesskey              "e">
+<!ENTITY  sizeMonospace.accesskey                 "i">
 
 <!ENTITY  proportional.label                      "比例字型:">
 <!ENTITY  proportional.accesskey                  "P">
@@ -21,19 +21,17 @@
 <!ENTITY  monospace.label                         "等寬字型:">
 <!ENTITY  monospace.accesskey                     "M">
 
-<!ENTITY  font.langGroup.latin1                   "英語／西歐語系">
-<!ENTITY  font.langGroup.latin2                   "中歐語系">
+<!-- LOCALIZATION NOTE (font.langGroup.latin) :
+     Translate "Latin" as the name of Latin (Roman) script, not as the name of the Latin language. -->
+<!ENTITY  font.langGroup.latin                    "拉丁文">
 <!ENTITY  font.langGroup.japanese                 "日文">
 <!ENTITY  font.langGroup.trad-chinese             "正體中文（繁體，臺灣）">
 <!ENTITY  font.langGroup.simpl-chinese            "簡體中文">
 <!ENTITY  font.langGroup.trad-chinese-hk          "正體中文（繁體，香港）">
 <!ENTITY  font.langGroup.korean                   "韓文">
 <!ENTITY  font.langGroup.cyrillic                 "俄文／西里爾文字">
-<!ENTITY  font.langGroup.baltic                   "波羅的語系">
 <!ENTITY  font.langGroup.el                       "希臘文">
-<!ENTITY  font.langGroup.turkish                  "土耳其語">
-<!ENTITY  font.langGroup.unicode1                 "Unicode">
-<!ENTITY  font.langGroup.user-def                 "使用者自訂">
+<!ENTITY  font.langGroup.other                    "其他文字">
 <!ENTITY  font.langGroup.thai                     "泰文">
 <!ENTITY  font.langGroup.hebrew                   "希伯來文">
 <!ENTITY  font.langGroup.arabic                   "阿拉伯文">
@@ -48,7 +46,11 @@
 <!ENTITY  font.langGroup.gurmukhi                 "古魯穆奇字">
 <!ENTITY  font.langGroup.khmer                    "高棉文">
 <!ENTITY  font.langGroup.malayalam                "馬拉亞拉姆文">
-
+<!ENTITY  font.langGroup.oriya                    "奧里亞文">
+<!ENTITY  font.langGroup.telugu                   "泰盧固文">
+<!ENTITY  font.langGroup.kannada                  "康納達文">
+<!ENTITY  font.langGroup.sinhala                  "僧加羅文">
+<!ENTITY  font.langGroup.tibetan                  "藏文">
 <!-- Minimum font size -->
 <!ENTITY minSize.label                            "最小字型大小:">
 <!ENTITY minSize.accesskey                        "z">
