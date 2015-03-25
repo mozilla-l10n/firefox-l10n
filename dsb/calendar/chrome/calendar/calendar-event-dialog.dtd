@@ -81,8 +81,8 @@
 
 
 
-
-
+<!ENTITY  event.menu.view.toolbars.customize.label        "Pśiměriś…">
+<!ENTITY  event.menu.view.toolbars.customize.accesskey    "P">
 
 
 
@@ -170,8 +170,8 @@
 
 
 
-
-
+<!ENTITY event.attachments.popup.remove.label             "Wótpóraś" >
+<!ENTITY event.attachments.popup.remove.accesskey         "W" >
 <!ENTITY event.attachments.popup.open.label               "Wócyniś" >
 <!ENTITY event.attachments.popup.open.accesskey           "c" >
 
