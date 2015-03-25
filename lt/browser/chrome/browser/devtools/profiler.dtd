@@ -78,15 +78,19 @@
 <!-- LOCALIZATION NOTE (profilerUI.showPlatformData): This is the
   -  label for the checkbox that toggles whether or not Gecko platform data
   -  is displayed in the profiler. -->
-
+<!ENTITY profilerUI.showPlatformData.tooltiptext "Platformos duomenų rodymas leidžia „JavaScript“ profiliuoklės ataskaitose atvaizduoti „Gecko“ platformos simbolius.">
 <!-- LOCALIZATION NOTE (profilerUI.flattenTreeRecursion): This is the
   -  label for the checkbox that toggles the flattening of tree recursion in inspected
   -  functions in the profiler. -->
 
+<!ENTITY profilerUI.flattenTreeRecursion             "Suploti medžio rekursiją">
+<!ENTITY profilerUI.flattenTreeRecursion.tooltiptext "Suploti rekursiją tiriant funkcijas">
 <!-- LOCALIZATION NOTE (profilerUI.enableMemory): This string
   -  is displayed next to a checkbox determining whether or not memory
   -  measurements are enabled. -->
 
+<!ENTITY profilerUI.enableMemory             "Įrašyti atmintį">
+<!ENTITY profilerUI.enableMemory.tooltiptext "Įrašinėti atminties sąnaudas profiliuojant.">
 <!-- LOCALIZATION NOTE (profilerUI.enableFramerate): This string
   -  is displayed next to a checkbox determining whether or not framerate
   -  is recorded. -->
