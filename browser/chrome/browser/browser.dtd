@@ -775,8 +775,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY trackingContentBlocked.options "Parinktys">
 <!ENTITY trackingContentBlocked.unblock2.label "Išjungti apsaugą šioje svetainėje">
 <!ENTITY trackingContentBlocked.unblock2.accesskey "I">
-
-
+<!ENTITY trackingContentBlocked.block.label "Įjungti apsaugą">
+<!ENTITY trackingContentBlocked.block.accesskey "Į">
 <!ENTITY trackingContentBlocked.disabled.message "Apsauga nuo stebėjimo yra išjungta">
 
 <!ENTITY pointerLock.notification.message "Jeigu norėsite, kad žymeklis būtų vėl parodytas, spauskite klavišą Gr.">
@@ -796,6 +796,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY pluginNotification.width "28em">
 
+<!ENTITY uiTour.infoPanel.close "Užverti">
 
 <!ENTITY appMenuSidebars.label         "Parankinė">
 

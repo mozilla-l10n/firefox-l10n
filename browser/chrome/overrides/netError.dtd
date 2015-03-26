@@ -121,8 +121,8 @@ laikinas, tad pabandykite prisijungti vėliau.</li>
 <li>Ši svetainė laikinai nepasiekiama arba yra per daug apkrauta. Šiek tiek palaukite ir 
 bandykite prisijungti iš naujo.</li> 
 <li>Jei nepavyksta įkelti ir kitų tinklalapių, tai patikrinkite kompiuterio ryšį su tinklu.</li> 
-<li>Jei jūsų kompiuteris ar tinklas apsaugotas užkarda arba jungiamasi per įgaliotąjį serverį, tai įsitikinkite, kad 
-naršyklei „&brandShortName;“ leidžiama pasiekti saityną.</li> 
+<li>Jei jūsų kompiuteris ar tinklas apsaugotas užkarda arba jungiasi per įgaliotąjį serverį, 
+tai įsitikinkite, kad naršyklei „&brandShortName;“ leidžiama pasiekti saityną.</li> 
 </ul>">
 
 <!ENTITY malwareBlocked.title "Svetainė įtariama kenkėjiškumu!">
