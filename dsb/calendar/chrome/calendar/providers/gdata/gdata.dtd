@@ -2,14 +2,21 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY gdata-provider.label "Google Calendar">
 
+<!ENTITY gdata.privacy.default.label "Standard Google">
+<!ENTITY gdata.privacy.default.accesskey "S">
 
+<!ENTITY gdata.migration.title "Kalendery importěrowaś, kótarež daju se jano cytaś">
+<!ENTITY gdata.migration.description "Póbitowaŕ za Google Calendar ma namakał, až maśo južo kalendery, kótarež maju pśistup na Google Calendar jano w cytańskem modusu. Jolic cośo jaden abo někotare z tych kalenderow aktualizěrowaś, wubjeŕśo je dołojce">
+<!ENTITY gdata.migration.upgrade.label "Aktualizěrowaś">
+<!ENTITY gdata.migration.upgrade.accesskey "A">
+<!ENTITY gdata.migration.showagain.label "Pśecej pśeglědowaś">
 
+<!ENTITY gdata.reminder.default "Standardne dopomnjeśe">
+<!ENTITY gdata.reminder.action.sms.label "Tekstowu powěsć pósłaś">
 
+<!ENTITY gdata.wizard.session.description "Pšosym wubjeŕśo eksistěrujuce pósejźenje abo zapódajó swóju e-mailowu adresu, aby nowe pósejźenje napórał. Trjebaśo jano jadno pósejźenje na konto.">
+<!ENTITY gdata.wizard.calendars.description "Pšosym wubjeŕśo kalendery a lisćiny nadawkow, kótarež cośo aboněrowaś.">
 
-
-
-
-
-
-
+<!ENTITY gdata.wizard.nextstep.description "Pśosym pśejźćo k pśiducemu kšacoju, aby swóje kalendery konfigurěrował.">
