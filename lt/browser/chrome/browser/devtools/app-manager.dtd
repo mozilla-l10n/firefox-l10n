@@ -36,9 +36,9 @@
 <!ENTITY device.permissionsHelpLink "https://developer.mozilla.org/docs/Web/Apps/App_permissions">
 <!ENTITY device.browserTabs "Naršyklės kortelės">
 <!ENTITY device.browserTabsTooltip "Rodyti prijungto įrenginio naršyklėje atvertų kortelių sąrašą">
-
+<!ENTITY device.debugBrowserTab "Derinti">
 <!ENTITY device.debugBrowserTabTooltip "Atverti programuotojų priemones, šios įrenginio naršyklės kortelės kontekste">
-
+<!ENTITY device.help "Žinynas">
 
 <!ENTITY connection.connectTooltip "Prisijungti prie įrenginio.">
 <!ENTITY connection.disconnect "Atsijungti">
@@ -66,19 +66,19 @@
 <!ENTITY connection.startRegisteredSimulator "Paleisti:">
 
 <!ENTITY projects.localApps "Vietinės programos">
-
+<!ENTITY projects.addApp "Pridėti">
 <!ENTITY projects.addPackaged "Pridėti supakuotą programą">
 <!ENTITY projects.addPackagedTooltip "Pridėti supakuotą programą (aplanką) iš šio kompiuterio.">
 <!ENTITY projects.addHosted "Pridėti talpinamą programą">
 <!ENTITY projects.addHostedTooltip "Pridėti talpinamą programą (manifest.webapp failo adresą) iš nutolusios svetainės.">
-
+<!ENTITY projects.title "Vietinės programos">
 <!ENTITY projects.appDetails "Programos savybės">
 <!ENTITY projects.removeAppFromList "Pašalinti šią programą iš programų, su kuriomis dirbate, sąrašo. Programa bus pašalinta iš įrenginio ar simuliatoriaus.">
 <!ENTITY projects.updateApp "Atnaujinti">
 <!ENTITY projects.updateAppTooltip "Atlikti patikrą ir atnaujinti programą prijungtame įrenginyje">
-
+<!ENTITY projects.debugApp "Derinti">
 <!ENTITY projects.debugAppTooltip "Atverti programuotojų priemones šiai programai derinti">
-
+<!ENTITY projects.saveManifest "Įrašyti">
 <!ENTITY projects.saveManifestTooltip "Įrašyti manifestų rengyklės turinį.">
 <!ENTITY projects.hostedManifestPlaceHolder2 "http://example.com/app/manifest.webapp">
 <!ENTITY projects.noProjects "Projektų nėra. Apačioje galite pridėti naują supakuotą programą (vietinį aplanką) arba talpinamą programą (manifesto failo adresą).">
@@ -92,6 +92,7 @@
 <!ENTITY projects.hosted "Talpinama">
 <!ENTITY projects.packaged "Supakuota">
 
+<!ENTITY help.title "Programų tvarkytuvė">
 <!ENTITY help.close "Užverti">
 <!ENTITY help.intro "Šis įrankis padės kurti ir diegti saityno programas suderinamuose (pavyzdžiui, „Firefox OS“) įrenginiuose. Kortelėje „<strong>Programos</strong>“ galite atlikti programų patikrą ir jas diegti į įrenginį. Kortelėje „<strong>Įrenginys</strong>“ rasite informaciją apie prijungtą įrenginį. Pasinaudodakite priemonių juosta apačioje įrenginiui prijungti arba simuliatoriui paleisti.">
 <!ENTITY help.usefullLinks "Naudingi informacijos šaltiniai:">
