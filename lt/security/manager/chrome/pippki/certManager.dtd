@@ -80,7 +80,7 @@
 <!ENTITY certmgr.fields.label                 "Lauko reikšmė">
 <!ENTITY certmgr.fields.accesskey             "r">
 <!ENTITY certmgr.hierarchy.label              "Liudijimų hierarchija">
-
+<!ENTITY certmgr.hierarchy.accesskey2         "H">
 <!ENTITY certmgr.addException.label           "Pritaikyti išimtį…">
 <!ENTITY certmgr.addException.accesskey       "m">
 

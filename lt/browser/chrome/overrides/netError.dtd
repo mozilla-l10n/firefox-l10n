@@ -21,9 +21,10 @@
 <li>Patikrinkite, ar rinkdami adresą nepadarėte klaidų, pavyzdžiui, 
 <strong>ww</strong>.pavyzdys.lt vietoje 
 <strong>www</strong>.pavyzdys.lt</li> 
-<li>Jei nepavyksta įkelti ir kitų tinklalapių, patikrinkite kompiuterio ryšį su tinklu.</li> 
-<li>Jei jūsų kompiuteris ar tinklas apsaugotas užkarda arba jungiamasi per įgaliotąjį serverį, įsitikinkite, kad 
-naršyklei „&brandShortName;“ leidžiama pasiekti saityną.</li> 
+<li>Jei nepavyksta įkelti ir kitų tinklalapių, patikrinkite kompiuterio ryšį su 
+tinklu.</li> 
+<li>Jei jūsų kompiuteris ar tinklas yra apsaugotas užkarda arba jungiasi per įgaliotąjį 
+serverį, įsitikinkite, kad naršyklei „&brandShortName;“ leidžiama pasiekti saityną.</li> 
 </ul>">
 
 <!ENTITY fileNotFound.title "Nerastas failas">
@@ -79,7 +80,8 @@ dešininį brūkšnį <strong>/</strong>).</li>
 <!ENTITY proxyConnectFailure.title "Įgaliotasis serveris atmeta ryšį">
 <!ENTITY proxyConnectFailure.longDesc "<ul> 
 <li>Patikrinkite, ar naršyklėje nurodytos teisingos įgaliotojo serverio nuostatos.</li> 
-<li>Jei norite sužinoti, ar įgaliotasis serveris veikia korektiškai, kreipkitės į sistemos administratorių.</li> 
+<li>Jei norite sužinoti, ar įgaliotasis serveris veikia korektiškai, kreipkitės į sistemos 
+administratorių.</li> 
 </ul>">
 
 <!ENTITY proxyResolveFailure.title "Nerastas įgaliotasis serveris">
@@ -109,8 +111,10 @@ naršyklei „&brandShortName;“ leidžiama pasiekti saityną.</li>
 
 <!ENTITY nssBadCert.title "Saugaus ryšio užmegzti nepavyko">
 <!ENTITY nssBadCert.longDesc2 "<ul> 
-<li>Ši problema gali kilti dėl blogai parinktų serverio nuostatų arba dėl bandymo apsimesti kitu serveriu.</li> 
-<li>Jei prie šio serverio sėkmingai jungtėtės anksčiau, šis nesklandumas gali būti laikinas. Bandykite prisijungti vėliau.</li> 
+<li>Ši problema gali kilti dėl blogai parinktų serverio nuostatų arba dėl 
+kažkieno bandymo apsimesti šiuo serveriu.</li> 
+<li>Jei prie šio serverio sėkmingai jungėtės anksčiau, šis sutrikimas gali būti 
+laikinas, tad pabandykite prisijungti vėliau.</li> 
 </ul>">
 
 <!ENTITY sharedLongDesc "<ul> 

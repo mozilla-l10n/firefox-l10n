@@ -192,6 +192,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksButton.label          "Adresynas">
 <!ENTITY bookmarksCmd.commandkey "b">
 
+<!ENTITY bookmarksMenuButton.label          "Adresynas">
 <!ENTITY bookmarksMenuButton.unsorted.label "Nerūšiuoti adresai">
 <!ENTITY viewBookmarksSidebar2.label        "Rodyti adresyną parankinėje">
 <!ENTITY viewBookmarksToolbar.label         "Rodyti adresyno juostą">
@@ -476,7 +477,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewBGImageCmd.accesskey     "f">
 <!ENTITY setDesktopBackgroundCmd.label      "Naudoti kaip darbastalio fono piešinį…">
 <!ENTITY setDesktopBackgroundCmd.accesskey  "d">
-
+<!ENTITY bookmarkPageCmd2.label       "Įrašyti į adresyną">
 <!ENTITY bookmarkThisLinkCmd.label      "Įtraukti saitą į adresyną">
 <!ENTITY bookmarkThisLinkCmd.accesskey  "d">
 <!ENTITY bookmarkThisFrameCmd.label      "Įtraukti kadrą į adresyną">
@@ -643,7 +644,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY findOnCmd.label     "Ieškoti šiame tinklalapyje…">
 <!ENTITY findOnCmd.accesskey "I">
-
+<!ENTITY findOnCmd.commandkey "f">
 <!ENTITY findAgainCmd.label  "Ieškoti toliau">
 <!ENTITY findAgainCmd.accesskey "e">
 <!ENTITY findAgainCmd.commandkey "g">
@@ -771,7 +772,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY trackingContentBlocked.message "Stebėjimas">
 <!ENTITY trackingContentBlocked.moreinfo "Tinklalapio dalys, stebinčios jūsų veiksmus internete, buvo užblokuotos.">
 <!ENTITY trackingContentBlocked.learnMore "Sužinoti daugiau">
-
+<!ENTITY trackingContentBlocked.options "Parinktys">
 <!ENTITY trackingContentBlocked.unblock2.label "Išjungti apsaugą šioje svetainėje">
 <!ENTITY trackingContentBlocked.unblock2.accesskey "I">
 

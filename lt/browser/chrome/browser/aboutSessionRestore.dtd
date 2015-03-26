@@ -17,6 +17,7 @@
 <!ENTITY restorepage.closeButton    "Užverti">
 
 
+<!ENTITY restorepage.restoreHeader  "Atkurti">
 <!ENTITY restorepage.listHeader     "Langai ir kortelės">
 <!-- LOCALIZATION NOTE: &#37;S will be replaced with a number. -->
 <!ENTITY restorepage.windowLabel    "Langas nr. &#037;S">
@@ -30,6 +31,7 @@
 
 <!ENTITY welcomeback2.tabtitle      "Pavyko!">
 
+<!ENTITY welcomeback2.pageTitle     "Pavyko!">
 <!ENTITY welcomeback2.pageInfo1     "„&brandShortName;“ jau pasiruošė.">
 
 <!ENTITY welcomeback2.label.restoreAll  "Atkurti visus langus ir korteles">
