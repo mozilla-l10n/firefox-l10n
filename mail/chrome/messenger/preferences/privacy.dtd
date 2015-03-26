@@ -13,7 +13,8 @@
 
 <!ENTITY captionWebContent.label "محتوى الوب">
 
-
+<!ENTITY keepHistory.label "تذكر المواقع و الروابط التي زُرتُها">
+<!ENTITY keepHistory.accesskey "ت">
 <!ENTITY acceptCookies.label "اقبل الكعكات من المواقع">
 <!ENTITY acceptCookies.accesskey "ك">
 <!ENTITY acceptThirdParty.pre.label "اقبل الكعكات من أطراف أخرى:">

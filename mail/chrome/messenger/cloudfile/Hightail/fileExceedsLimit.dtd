@@ -2,5 +2,5 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this file,
    - You can obtain one at http://mozilla.org/MPL/2.0/.  -->
 <!ENTITY fileExceedsLimit.title   "Hightail">
-
+<!ENTITY fileExceedsLimit.thatsBigFile3 "إرسال ملفات أكبر من ٥٠ م.بايت غير مدعوم إلا للحسابات المدفوعة.">
 <!ENTITY fileExceedsLimit.style "width: 40em; min-height: 20em;">

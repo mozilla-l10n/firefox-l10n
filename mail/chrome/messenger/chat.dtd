@@ -40,5 +40,5 @@
 <!ENTITY status.unavailable        "غير متفرّغ">
 <!ENTITY status.offline            "غير متصل">
 
-<!ENTITY openLinkCmd.label            "افتح الوصلة…">
-<!ENTITY openLinkCmd.accesskey        "و">
+<!ENTITY openLinkCmd.label            "افتح الرابط…">
+<!ENTITY openLinkCmd.accesskey        "ر">

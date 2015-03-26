@@ -86,5 +86,5 @@
 <!ENTITY accountSettingsDesc.label "التالي حساب مخصوص.  لا ترتبط به أي هويّات.">
 
 
-
-
+<!ENTITY mboxStore.label "ملف واحد كبير (mbox)">
+<!ENTITY maildirStore.label "ملف لكل رسالة (maildir)">

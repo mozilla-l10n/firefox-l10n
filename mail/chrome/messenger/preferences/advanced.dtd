@@ -16,8 +16,8 @@
 
 
 
-
-
+<!ENTITY mboxStore.label               "ملف واحد كبير (mbox)">
+<!ENTITY maildirStore.label            "ملف لكل رسالة (maildir)">
 
 <!ENTITY scrolling.label               "اللف">
 <!ENTITY useAutoScroll.label           "استخدم اللّف الآلي">
