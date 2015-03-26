@@ -7,7 +7,7 @@
 <!ENTITY  language.label                          "قلم‌ها برای:">
 <!ENTITY  language.accesskey                      "ق">
 
-<!ENTITY  proportionalSize.accesskey              "e">
+
 
 
 <!ENTITY  proportional.label                      "مختلف العرض:">
@@ -19,20 +19,16 @@
 <!ENTITY  sans-serif.accesskey                    "ب">
 <!ENTITY  monospace.label                         "تک‌عرض:">
 <!ENTITY  monospace.accesskey                     "ت">
-
-<!ENTITY  font.langGroup.latin1                   "غربی">
-<!ENTITY  font.langGroup.latin2                   "اروپای مرکزی">
+<!-- LOCALIZATION NOTE (font.langGroup.latin) :
+     Translate "Latin" as the name of Latin (Roman) script, not as the name of the Latin language. -->
 <!ENTITY  font.langGroup.japanese                 "ژاپنی">
 <!ENTITY  font.langGroup.trad-chinese             "چینی سنتی (تایوان)‏">
 <!ENTITY  font.langGroup.simpl-chinese            "چینی ساده‌شده">
 <!ENTITY  font.langGroup.trad-chinese-hk          "چینی سنتی (هنگ‌کنگ)‏">
 <!ENTITY  font.langGroup.korean                   "کره‌ای">
 <!ENTITY  font.langGroup.cyrillic                 "سیریلی">
-<!ENTITY  font.langGroup.baltic                   "بالتیک">
 <!ENTITY  font.langGroup.el                       "یونانی">
-<!ENTITY  font.langGroup.turkish                  "ترکی استانبولی">
 
-<!ENTITY  font.langGroup.user-def                 "تعریف شده توسط کاربر">
 <!ENTITY  font.langGroup.thai                     "تایلندی">
 <!ENTITY  font.langGroup.hebrew                   "عبری">
 <!ENTITY  font.langGroup.arabic                   "عربی">
@@ -47,8 +43,12 @@
 <!ENTITY  font.langGroup.gurmukhi                 "گورموخی">
 <!ENTITY  font.langGroup.khmer                    "کامبوجی">
 <!ENTITY  font.langGroup.malayalam                "مالایالامی">
-<!-- Minimum font size -->
 
+
+
+
+
+<!-- Minimum font size -->
 <!ENTITY minSize.label                            "حداقل اندازهٔ قلم:">
 <!ENTITY minSize.accesskey                        "ح">
 <!ENTITY minSize.none                             "هیچ">
