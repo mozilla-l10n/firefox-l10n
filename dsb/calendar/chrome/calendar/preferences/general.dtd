@@ -7,28 +7,36 @@
   -->
 
 
+<!ENTITY pref.mainbox.label "Powšykne nastajenja" >
+<!ENTITY pref.dateformat.label "Datumowy tekstowy format:" >
+<!ENTITY pref.dateformat.accesskey "D">
+<!ENTITY pref.dateformat.long "Dłujki" >
+<!ENTITY pref.dateformat.short "Krotki"  >
 
+<!ENTITY pref.timezones.caption "Casowa cona">
+<!ENTITY pref.timezones.label "Wubjeŕśo nejblše město w swójej casowej conje:">
+<!ENTITY pref.timezones.accesskey "S">
 
-
-
-
-
-
+<!ENTITY pref.defaults.label "Standardne gódnoty za nowe zapiski">
+<!ENTITY pref.events.label "Tšojenja">
 <!ENTITY pref.tasks.label "Nadawki">
 
+<!ENTITY pref.default_event_length.label "Standardna dłujkosć:" >
+<!ENTITY pref.default_event_length.accesskey "d">
 
+<!ENTITY pref.default_task_none.label "Žedna">
+<!ENTITY pref.default_task_start_of_day.label "Zachopjeńk dnja">
+<!ENTITY pref.default_task_end_of_day.label "Kóńc dnja">
+<!ENTITY pref.default_task_tomorrow.label "Witśe">
+<!ENTITY pref.default_task_next_week.label "Pśiducy tyźeń">
+<!ENTITY pref.default_task_offset_current.label "W relaciji k aktualnemu casoju">
+<!ENTITY pref.default_task_offset_start.label "W relaciji k zachopjeńkoju">
+<!ENTITY pref.default_task_offset_next_hour.label "W relaciji k pśiducej góźinje">
 
+<!ENTITY pref.calendar.todaypane.agenda.caption "Źinsnajšny wobcerk">
+<!ENTITY pref.soondays.label "Pśiducy wótrězk pokazujo:">
+<!ENTITY pref.soondays.accesskey "P">
 
-
-
-
-
-
-
-
-<!ENTITY pref.calendar.todaypane.agenda.caption "Źinsajšny wobcerk">
-
-
-
-
-
+<!ENTITY pref.accessibility.label "Bźezbariernosć" >
+<!ENTITY pref.systemcolors.label "Barwy za bźezbariernosć optiměrowaś" >
+<!ENTITY pref.systemcolors.accesskey "B">

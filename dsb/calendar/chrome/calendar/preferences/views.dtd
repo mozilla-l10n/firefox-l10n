@@ -8,27 +8,30 @@
 
 
 <!ENTITY pref.calendar.view.allview.caption "Powšykny">
+<!ENTITY pref.calendar.view.dayandweekviews.caption "Dnjowny a tyźenjowy naglěd">
+<!ENTITY pref.calendar.view.multiweekview.caption "Wěcejtyźenjowy naglěd">
+<!ENTITY pref.calendar.view.workweek.caption "Źěłowy tyźeń">
 
+<!ENTITY pref.weekstarts.label "Źeń, gaž tyźeń ma zachopiś:">
+<!ENTITY pref.weekstarts.accesskey "z">
+<!ENTITY pref.daysoff.label "Toś te dny do źěłowego tyźenja zapśimjeś:">
 
+<!ENTITY pref.calendar.view.daystart.label "Źeń zachopijo:">
+<!ENTITY pref.calendar.view.daystart.accesskey "c">
+<!ENTITY pref.calendar.view.dayend.label "Źeń skóńcyjo:">
+<!ENTITY pref.calendar.view.dayend.accesskey "s">
+<!ENTITY pref.calendar.view.visiblehours.label "Pokazaś:">
+<!ENTITY pref.calendar.view.visiblehours.accesskey "o">
+<!ENTITY pref.calendar.view.visiblehoursend.label "góźin naraz">
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY pref.numberofweeks.label "Licba tyźenjow, kótaraž ma se pokazaś (inkluziwnje pjerwjejšne tyźenje):">
+<!ENTITY pref.numberofweeks.accesskey "e">
+<!ENTITY pref.numberofpreviousweeks.label "Pjerwjejšne tyźenje, kótarež maju se pokazaś:">
+<!ENTITY pref.numberofpreviousweeks.accesskey "P">
+<!ENTITY pref.numberofweeks.0 "žeden">
+<!ENTITY pref.numberofweeks.1 "1 tyźeń">
+<!ENTITY pref.numberofweeks.2 "2 tyźenja">
+<!ENTITY pref.numberofweeks.3 "3 tyźenja">
+<!ENTITY pref.numberofweeks.4 "4 tyźenje">
+<!ENTITY pref.numberofweeks.5 "5 tyźenjow">
+<!ENTITY pref.numberofweeks.6 "6 tyźenjow">
