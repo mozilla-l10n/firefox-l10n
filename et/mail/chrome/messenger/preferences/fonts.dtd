@@ -8,8 +8,8 @@
 <!ENTITY language.accesskey               "F">
 
 <!ENTITY size.label                       "Suurus:">
-<!ENTITY proportionalSize.accesskey       "u">
-<!ENTITY sizeMono.accesskey               "r">
+<!ENTITY sizeProportional.accesskey       "u">
+<!ENTITY sizeMonospace.accesskey          "r">
 
 <!ENTITY proportional.label               "Standardne:">
 <!ENTITY proportional.accesskey           "S">
@@ -21,19 +21,17 @@
 <!ENTITY monospace.label                  "Fikseeritud laiusega:">
 <!ENTITY monospace.accesskey              "k">
 
-<!ENTITY font.langGroup.latin1            "Lääne">
-<!ENTITY font.langGroup.latin2            "Kesk-Euroopa">
+<!-- LOCALIZATION NOTE (font.langGroup.latin) :
+     Translate "Latin" as the name of Latin (Roman) script, not as the name of the Latin language. -->
+<!ENTITY font.langGroup.latin             "Ladina">
 <!ENTITY font.langGroup.japanese          "Jaapani">
 <!ENTITY font.langGroup.trad-chinese      "Traditsiooniline hiina (Taiwan)">
 <!ENTITY font.langGroup.simpl-chinese     "Lihtsustatud hiina">
 <!ENTITY font.langGroup.trad-chinese-hk   "Traditsiooniline hiina (Hongkong)">
 <!ENTITY font.langGroup.korean            "Korea">
 <!ENTITY font.langGroup.cyrillic          "Kirillitsa">
-<!ENTITY font.langGroup.baltic            "Balti">
 <!ENTITY font.langGroup.el                "Kreeka">
-<!ENTITY font.langGroup.turkish           "Türgi">
-<!ENTITY font.langGroup.unicode1          "Unicode">
-<!ENTITY font.langGroup.user-def          "Kasutaja määratud">
+<!ENTITY font.langGroup.other             "Muud kirjasüsteemid">
 <!ENTITY font.langGroup.thai              "Tai">
 <!ENTITY font.langGroup.hebrew            "Heebrea">
 <!ENTITY font.langGroup.arabic            "Araabia">
@@ -48,7 +46,11 @@
 <!ENTITY font.langGroup.gurmukhi          "Gurmukhi">
 <!ENTITY font.langGroup.khmer             "Khmeri">
 <!ENTITY font.langGroup.malayalam         "Malajalami">
-
+<!ENTITY font.langGroup.oriya             "Oria">
+<!ENTITY font.langGroup.telugu            "Telugu">
+<!ENTITY font.langGroup.kannada           "Kannada">
+<!ENTITY font.langGroup.sinhala           "Singali">
+<!ENTITY font.langGroup.tibetan           "Tiibeti">
 <!-- Minimum font size -->
 <!ENTITY minSize.label                    "Vähim kirja suurus:">
 <!ENTITY minSize.accesskey                "V">
