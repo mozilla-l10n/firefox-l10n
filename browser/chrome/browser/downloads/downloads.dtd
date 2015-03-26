@@ -58,8 +58,8 @@
 <!ENTITY cmd.retry.label                  "أعد المحاولة">
 <!ENTITY cmd.goToDownloadPage.label       "اذهب إلى صفحة التنزيل">
 <!ENTITY cmd.goToDownloadPage.accesskey   "ذ">
-<!ENTITY cmd.copyDownloadLink.label       "انسخ وصلة التنزيل">
-<!ENTITY cmd.copyDownloadLink.accesskey   "و">
+<!ENTITY cmd.copyDownloadLink.label       "انسخ رابط التنزيل">
+<!ENTITY cmd.copyDownloadLink.accesskey   "ر">
 <!ENTITY cmd.removeFromHistory.label      "احذف من التأريخ">
 <!ENTITY cmd.removeFromHistory.accesskey  "ح">
 <!ENTITY cmd.clearList.label              "امسح القائمة">
