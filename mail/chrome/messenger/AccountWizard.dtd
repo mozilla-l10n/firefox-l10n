@@ -49,12 +49,12 @@
 <!ENTITY outgoingUsername.label "Nome utente posta in uscita:">
 <!ENTITY outgoingUsername.accesskey "U">
 <!ENTITY modifyOutgoing.suffix "È possibile cambiare il server per la posta in uscita nelle impostazioni account.">
-<!ENTITY haveSmtp1.prefix "Sarà usato il server esistente per la posta in uscita (SMTP), &quot;">
-<!ENTITY haveSmtp1.suffix3 "sarà usato &quot;.">
-<!ENTITY haveSmtp2.prefix "Sarà usato il nome utente esistente, &quot;">
-<!ENTITY haveSmtp2.suffix3 "sarà usato &quot;.">
+<!ENTITY haveSmtp1.prefix "Sarà utilizzato il server esistente per la posta in uscita (SMTP), &quot;">
+<!ENTITY haveSmtp1.suffix3 "sarà utilizzato &quot;.">
+<!ENTITY haveSmtp2.prefix "Sarà utilizzato il nome utente esistente, &quot;">
+<!ENTITY haveSmtp2.suffix3 "sarà utilizzato &quot;.">
 <!ENTITY haveSmtp3.prefix "Il server per la posta in uscita (SMTP), &quot;">
-<!ENTITY haveSmtp3.suffix3 "&quot;, è il tuo server di posta in arrivo per cui il tuo nome utente sarà usato per accedere a esso.">
+<!ENTITY haveSmtp3.suffix3 "&quot;, è il tuo server di posta in arrivo per cui il tuo nome utente sarà utilizzato per accedere a esso.">
 <!ENTITY accnameTitle.label "Nome account">
 <!ENTITY accnameDesc.label "Inserire un nome per questo account (ad esempio, &quot;Lavoro&quot;, &quot;Casa&quot;, oppure &quot;Account gruppi discussione&quot;).">
 <!ENTITY accnameLabel.label "Nome account:">

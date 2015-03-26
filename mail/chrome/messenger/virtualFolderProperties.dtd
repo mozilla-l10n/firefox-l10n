@@ -7,7 +7,7 @@
 <!ENTITY name.accesskey "N">
 <!ENTITY description.label "Crea come sottocartella di:">
 <!ENTITY description.accesskey "e">
-<!ENTITY searchTermCaption.label "Configurare il criterio di ricerca usato per questa cartella di ricerca salvata: ">
+<!ENTITY searchTermCaption.label "Configurare il criterio di ricerca utilizzato per questa cartella di ricerca salvata: ">
 <!ENTITY folderSelectionCaption.label "Selezionare le cartelle in cui cercare: ">
 <!ENTITY chooseFoldersButton.label "Scegli…">
 <!ENTITY chooseFoldersButton.accesskey "c">

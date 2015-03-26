@@ -13,7 +13,7 @@
 <!ENTITY password.label "Password:">
 <!ENTITY password.accesskey "P">
 <!ENTITY password.placeholder "Password">
-<!ENTITY password.text "Opzionale, verrà usata solo per validare il nome utente">
+<!ENTITY password.text "Opzionale, verrà utilizzata solo per validare il nome utente">
 <!ENTITY rememberPassword.label "Ricorda password">
 <!ENTITY rememberPassword.accesskey "w">
 <!ENTITY imapLong.label "IMAP (cartelle remote)">
