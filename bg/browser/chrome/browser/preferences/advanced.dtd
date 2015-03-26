@@ -8,11 +8,11 @@
 
 <!ENTITY accessibility.label             "Достъпност">
 
-<!ENTITY useCursorNavigation.label       "Навигация в страниците чрез курсор">
+<!ENTITY useCursorNavigation.label       "Използване на каретка за придвижване в страниците">
 <!ENTITY useCursorNavigation.accesskey   "к">
 <!ENTITY searchStartTyping.label         "Търсене на текст при започване на въвеждане">
 <!ENTITY searchStartTyping.accesskey     "Т">
-<!ENTITY blockAutoRefresh.label          "Предупреждение, когато сайтовете се опитват да пренасочат или презаредят страницата">
+<!ENTITY blockAutoRefresh.label          "Предупреждение, когато страницата се опитва да пренасочи или презареди">
 <!ENTITY blockAutoRefresh.accesskey      "П">
 
 <!ENTITY browsing.label                  "Сърфиране">
