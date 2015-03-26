@@ -19,7 +19,16 @@
 <!ENTITY calendar.publish.accesskey             "b">
 
 <!ENTITY calendar.deletecalendar.label          "Selektearre aginda fuortsmite…">
-<!ENTITY calendar.deletecalendar.accesskey      "f">
+<!ENTITY calendar.deletecalendar.accesskey      "S">
+<!ENTITY calendar.unsubscribecalendar.label     "Selektearre aginda ôfmelde…">
+<!ENTITY calendar.unsubscribecalendar.accesskey "m">
+
+<!-- LOCALIZATION NOTE (calendar.removecalendar.label): Removing the calendar
+      is the general action of removing it, while deleting means to clear the
+      data and unsubscribing means just taking it out of the calendar list. -->
+<!ENTITY calendar.removecalendar.label          "Selektearre aginda fuortsmite…">
+<!ENTITY calendar.removecalendar.accesskey      "f">
+
 
 <!ENTITY calendar.menu.customize.label          "Oanpasse…">
 <!ENTITY calendar.menu.customize.accesskey      "O">
@@ -33,7 +42,7 @@
 <!ENTITY goTodayCmd.label                       "Hjoed">
 <!ENTITY goTodayCmd.accesskey                   "H">
 
-<!ENTITY showCurrentView.label                  "Aktueel finster">
+<!ENTITY showCurrentView.label                  "Aktuele werjefte">
 <!ENTITY showCurrentView.accesskey              "A">
 
 <!ENTITY calendar.properties.label              "Aginda-eigenskippen…">

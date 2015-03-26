@@ -11,16 +11,16 @@
 <!ENTITY pref.playasound "In lûd ôfspylje">
 <!ENTITY pref.calendar.alarms.playsound.accessKey "p">
 <!ENTITY pref.calendar.alarms.sound.useDefault.label "Standertlûd brûke">
-<!ENTITY pref.calendar.alarms.sound.useDefault.accessKey "">
-<!ENTITY pref.calendar.alarms.sound.browse.label "Blêdzje">
-<!ENTITY pref.calendar.alarms.sound.browse.accessKey "">
-<!ENTITY pref.calendar.alarms.sound.preview.label "Foarbyld">
-<!ENTITY pref.calendar.alarms.sound.preview.accessKey "">
+<!ENTITY pref.calendar.alarms.sound.useDefault.accessKey "S">
+<!ENTITY pref.calendar.alarms.sound.browse.label "Blêdzje…">
+<!ENTITY pref.calendar.alarms.sound.browse.accessKey "B">
+<!ENTITY pref.calendar.alarms.sound.play.label "Ofspylje">
+<!ENTITY pref.calendar.alarms.sound.play.accessKey "O">
 <!ENTITY pref.showalarmbox "In alarmfinster toane">
 <!ENTITY pref.calendar.alarms.showAlarmBox.accessKey "t">
 <!ENTITY pref.missedalarms "Miste alarmen toane">
 <!ENTITY pref.calendar.alarms.missedAlarms.accessKey "M">
-<!ENTITY pref.calendar.alarms.defaults.label "Standert alarmynstellings">
+<!ENTITY pref.calendar.alarms.defaults.label "Standert alarmynstellingen">
 <!ENTITY pref.defalarm4events.label "Standert alarmynstelling foar barren:">
 <!ENTITY pref.defalarm4events.accesskey "l">
 <!ENTITY pref.defalarm4todos.label "Standert alarmynstelling foar taken:">
@@ -30,7 +30,7 @@
 <!ENTITY pref.defalarmlen4events.label "Standert tiid foarôfgeand oan in barren wêrop in alarm ferskynt:">
 <!ENTITY pref.defalarmlen4events.accesskey "b">
 <!ENTITY pref.defalarmlen4todos.label "Standert tiid foarôfgeand oan in taak wêrop in alarm ferskynt:">
-<!ENTITY pref.defalarmlen4todos.accesskey "t">
+<!ENTITY pref.defalarmlen4todos.accesskey "f">
 
 <!ENTITY pref.defaultsnoozelength.label "Standert slommerdjoer:" >
-<!ENTITY pref.defaultsnoozelength.accesskey "S">
+<!ENTITY pref.defaultsnoozelength.accesskey "d">
