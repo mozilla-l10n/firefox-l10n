@@ -567,7 +567,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!-- Voice search in the awesome bar -->
 <!ENTITY voicesearch_prompt "Spreek nu">
-<!ENTITY voicesearch_failed_title "&brandShortName;spraakzoeken">
+<!ENTITY voicesearch_failed_title "&brandShortName; Spraakzoeken">
 <!ENTITY voicesearch_failed_message "Er is momenteel een probleem met spraakzoeken. Probeer het later opnieuw.">
 <!ENTITY voicesearch_failed_message_recoverable "Sorry! We konden uw woorden niet herkennen. Probeer het opnieuw.">
 <!ENTITY voicesearch_failed_retry "Opnieuw proberen">
