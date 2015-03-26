@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY itemGeneral.label       "عام">
-
+<!ENTITY dataChoicesTab.label    "اختيارات البيانات">
 <!ENTITY itemDisplay.label       "القراءة و العرض">
 <!ENTITY itemUpdate.label        "التحديث">
 <!ENTITY itemNetworking.label    "الشبكة و مساحة القرص">
@@ -12,10 +12,10 @@
 
 <!ENTITY enableGlodaSearch.label       "فعّل البحث العمومي والفهرسة">
 <!ENTITY enableGlodaSearch.accesskey   "ف">
-
-
-
-
+<!ENTITY allowHWAccel.label            "استخدم تسريع العتاد إن كان متاحًا">
+<!ENTITY allowHWAccel.accesskey        "ع">
+<!ENTITY storeType.label               "طريقة تخزين الرسائل للحسابات الجديدة:">
+<!ENTITY storeType.accesskey           "خ">
 <!ENTITY mboxStore.label               "ملف واحد كبير (mbox)">
 <!ENTITY maildirStore.label            "ملف لكل رسالة (maildir)">
 
@@ -40,14 +40,17 @@
 <!ENTITY showReturnReceipts.accesskey  "ع">
 <!-- Data Choices -->
 
+<!ENTITY telemetrySection.label          "تليمتري">
+<!ENTITY telemetryDesc.label             "شارك بيانات عميل البريد فيما يتعلق بالأداء و الاستخدام و العتاد و التخصيصات مع &vendorShortName; لمساعدتنا في جعل &brandShortName; أفضل">
+<!ENTITY enableTelemetry.label           "فعّل أداة تليمتري">
+<!ENTITY enableTelemetry.accesskey       "ت">
+<!ENTITY telemetryLearnMore.label        "اطّلع على المزيد">
 
-
-
-
-
-
-
-
+<!ENTITY crashReporterSection.label      "مُبلّغ الانهيار">
+<!ENTITY crashReporterDesc.label         "يُرسل &brandShortName; بلاغات الانهيار إلى &vendorShortName; للمساعدة في تحسين أداء عميل البريد و استقراره">
+<!ENTITY enableCrashReporter.label       "فعّل مبلّغ الانهيار">
+<!ENTITY enableCrashReporter.accesskey   "ن">
+<!ENTITY crashReporterLearnMore.label    "اطّلع على المزيد">
 <!-- Display and Reading Settings -->
 
 <!ENTITY reading.caption               "القراءة">
@@ -121,13 +124,13 @@
 
 <!ENTITY certSelection.description       "عندما يطلب خادوم شهادتي الشخصية:">
 <!ENTITY certs.auto                      "اختر واحدة تلقائيًا">
-
+<!ENTITY certs.auto.accesskey            "خ">
 <!ENTITY certs.ask                       "اسألني كل مرة">
 <!ENTITY certs.ask.accesskey             "ك">
-
-
+<!ENTITY enableOCSP.label                "استعلم من خواديم مستجيبي OCSP عن الصلاحية الحالية للشهادات">
+<!ENTITY enableOCSP.accesskey            "س">
 
 <!ENTITY viewCertificates.label         "اعرض الشهادات">
 <!ENTITY viewCertificates.accesskey     "ش">
-
-
+<!ENTITY viewSecurityDevices.label      "أجهزة الأمن">
+<!ENTITY viewSecurityDevices.accesskey  "م">

@@ -8,8 +8,8 @@
 <!ENTITY  language.accesskey                      "خ">
 
 <!ENTITY  size.label                              "الحجم:">
-
-
+<!ENTITY  sizeProportional.accesskey              "ح">
+<!ENTITY  sizeMonospace.accesskey                 "م">
 
 <!ENTITY  proportional.label                      "نسبي:">
 <!ENTITY  proportional.accesskey                  "ن">
@@ -22,6 +22,8 @@
 <!ENTITY  monospace.accesskey                     "ث">
 <!-- LOCALIZATION NOTE (font.langGroup.latin) :
      Translate "Latin" as the name of Latin (Roman) script, not as the name of the Latin language. -->
+
+<!ENTITY  font.langGroup.latin                    "لاتيني">
 <!ENTITY  font.langGroup.japanese                 "ياباني">
 <!ENTITY  font.langGroup.trad-chinese             "صيني تقليدي (تايوان)">
 <!ENTITY  font.langGroup.simpl-chinese            "صيني مبسّط">
@@ -29,7 +31,7 @@
 <!ENTITY  font.langGroup.korean                   "كوري">
 <!ENTITY  font.langGroup.cyrillic                 "سريلي">
 <!ENTITY  font.langGroup.el                       "يوناني">
-
+<!ENTITY  font.langGroup.other                    "نظم الكتابة الأخرى">
 <!ENTITY  font.langGroup.thai                     "تايلندي">
 <!ENTITY  font.langGroup.hebrew                   "عبري">
 <!ENTITY  font.langGroup.arabic                   "عربي">
@@ -44,11 +46,11 @@
 <!ENTITY  font.langGroup.gurmukhi                 "گورموخي">
 <!ENTITY  font.langGroup.khmer                    "خميري">
 <!ENTITY  font.langGroup.malayalam                "ملايلام">
-
-
-
-
-
+<!ENTITY  font.langGroup.oriya                    "أوريا">
+<!ENTITY  font.langGroup.telugu                   "تلوگو">
+<!ENTITY  font.langGroup.kannada                  "كنّادا">
+<!ENTITY  font.langGroup.sinhala                  "سنهالا">
+<!ENTITY  font.langGroup.tibetan                  "تِبِتي">
 <!-- Minimum font size -->
 <!ENTITY minSize.label                            "أقل حجم للخط:">
 <!ENTITY minSize.accesskey                        "ح">

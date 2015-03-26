@@ -24,11 +24,11 @@ sentence. -->
 <!ENTITY  sendTyping.accesskey          "ك">
 
 <!ENTITY  chatNotifications.label             "عندما تصل الرسائل الموجهة إليك:">
-
-
-
-
-
+<!ENTITY  desktopChatNotifications.label      "أظهر تنبيهًا:">
+<!ENTITY  desktopChatNotifications.accesskey  "ت">
+<!ENTITY  completeNotification.label          "باسم المرسل و معاينة للرسالة">
+<!ENTITY  buddyInfoOnly.label                 "باسم المرسل فقط">
+<!ENTITY  dummyNotification.label             "بدون أي بيانات">
 <!ENTITY  chatSound.accesskey                 "ع">
 <!ENTITY  chatSound.label                     "اعزف صوتًا">
 <!ENTITY  play.label                          "شغّل">
