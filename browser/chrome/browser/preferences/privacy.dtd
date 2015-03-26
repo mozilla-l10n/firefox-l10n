@@ -15,7 +15,7 @@
 
 <!ENTITY  locationBar.label             "Адресна лента">
 
-<!ENTITY  locbar.suggest.label          "При използване на адресната лента, подсказване на:">
+<!ENTITY  locbar.suggest.label          "При въвеждане в адресната лента, подсказване на:">
 <!ENTITY  locbar.history.label          "История">
 <!ENTITY  locbar.history.accesskey      "И">
 <!ENTITY  locbar.bookmarks.label        "Отметки">
@@ -32,7 +32,7 @@
 <!ENTITY  acceptThirdParty.never.label    "Никога">
 <!ENTITY  acceptThirdParty.visited.label  "От посетените">
 
-<!ENTITY  keepUntil.label               "Пазене докато:">
+<!ENTITY  keepUntil.label               "Пазене до:">
 <!ENTITY  keepUntil.accesskey           "П">
 
 <!ENTITY  expire.label                  "загуба на валидност">
