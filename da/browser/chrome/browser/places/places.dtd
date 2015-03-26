@@ -53,7 +53,7 @@
 <!ENTITY cmd.open_window.label           "Åbn i et nyt vindue">
 <!ENTITY cmd.open_window.accesskey       "v">
 <!ENTITY cmd.open_private_window.label     "Åbn i et nyt privat vindue">
-<!ENTITY cmd.open_private_window.accesskey "p">
+<!ENTITY cmd.open_private_window.accesskey "n">
 <!ENTITY cmd.open_tab.label              "Åbn i et nyt faneblad">
 <!ENTITY cmd.open_tab.accesskey          "f">
 <!ENTITY cmd.open_all_in_tabs.label      "Åbn alle i faneblade">
