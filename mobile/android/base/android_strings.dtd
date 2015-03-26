@@ -504,8 +504,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY disable_protection "Вимкнути захист">
 <!ENTITY keep_blocking "Блокувати далі">
 
-<!ENTITY private_data_success "Приватні дані вичищено">
-<!ENTITY private_data_fail "Деякі приватні дані не можна вичистити">
+<!ENTITY private_data_success "Приватні дані видалено">
+<!ENTITY private_data_fail "Деякі приватні дані не можуть бути видалені">
 
 <!ENTITY bookmarkhistory_button_import "Імпорт">
 <!ENTITY bookmarkhistory_import_both "Імпорт закладок та історії
