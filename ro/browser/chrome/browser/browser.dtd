@@ -763,7 +763,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY badContentBlocked.moreinfo "Majoritatea saiturilor web vor funcționa corect chiar dacă acest tip de conținut e blocat.">
 
 <!ENTITY mixedContentBlocked2.message "Conținut nesigur">
-<!ENTITY mixedContentBlocked2.moreinfo "Unele elemente necriptate pe acest sait au fost blocate.">
+<!ENTITY mixedContentBlocked2.moreinfo "Unele elemente necriptate de pe acest sait au fost blocate.">
 <!ENTITY mixedContentBlocked2.learnMore "Aflați mai multe">
 <!ENTITY mixedContentBlocked2.options "Opțiuni">
 <!ENTITY mixedContentBlocked2.unblock.label "Dezactivați protecția deocamdată">

@@ -75,7 +75,7 @@
 <!ENTITY projects.appDetails "Detalii aplicație">
 <!ENTITY projects.removeAppFromList "Remove this app from the list of apps you are working on. This will not remove it from a device or a simulator.">
 <!ENTITY projects.updateApp "Actualizare">
-<!ENTITY projects.updateAppTooltip "Execută verificări de validare și actualizează aplicația la dispozitivul conectat">
+<!ENTITY projects.updateAppTooltip "Execută verificări de validare și actualizează aplicația pe dispozitivul conectat">
 <!ENTITY projects.debugApp "Depanare">
 <!ENTITY projects.debugAppTooltip "Deschide instrumentele de dezvoltare asociate cu această aplicație">
 <!ENTITY projects.saveManifest "Salvează">
