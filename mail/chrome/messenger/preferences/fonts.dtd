@@ -16,19 +16,13 @@
 <!ENTITY  sans-serif.accesskey                    "n">
 <!ENTITY  monospace.label                         "Monospace:">
 <!ENTITY  monospace.accesskey                     "o">
-<!ENTITY  font.langGroup.latin1                   "Perëndimore">
-<!ENTITY  font.langGroup.latin2                   "Europiane Qendrore">
 <!ENTITY  font.langGroup.japanese                 "Japoneze">
 <!ENTITY  font.langGroup.trad-chinese             "Kineze Tradicionale (Tajvan)">
 <!ENTITY  font.langGroup.simpl-chinese            "Kineze Të thjeshtuara">
 <!ENTITY  font.langGroup.trad-chinese-hk          "Kineze Tradicionale (Hong Kong)">
 <!ENTITY  font.langGroup.korean                   "Koreane">
 <!ENTITY  font.langGroup.cyrillic                 "Cirilike">
-<!ENTITY  font.langGroup.baltic                   "Baltike">
 <!ENTITY  font.langGroup.el                       "Greke">
-<!ENTITY  font.langGroup.turkish                  "Turke">
-<!ENTITY  font.langGroup.unicode1                  "Unikod">
-<!ENTITY  font.langGroup.user-def                 "Përcaktuar nga Përdoruesi">
 <!ENTITY  font.langGroup.thai                     "Tajlandeze">
 <!ENTITY  font.langGroup.hebrew                   "Hebraishte">
 <!ENTITY  font.langGroup.arabic                   "Arabike">
@@ -43,7 +37,11 @@
 <!ENTITY  font.langGroup.gurmukhi                 "Gurmukhi">
 <!ENTITY  font.langGroup.khmer                    "Khmere">
 <!ENTITY  font.langGroup.malayalam                "Malajalameze">
-
+<!ENTITY  font.langGroup.oriya                    "Orijase">
+<!ENTITY  font.langGroup.telugu                   "Telugu">
+<!ENTITY  font.langGroup.kannada                  "Kannada">
+<!ENTITY  font.langGroup.sinhala                  "Sinhalezea">
+<!ENTITY  font.langGroup.tibetan                  "Tibetane">
 <!-- Minimum font size -->
 <!ENTITY minSize.label                            "Madhësi më e vogël shkronjash:">
 <!ENTITY minSize.accesskey                        "v">
@@ -54,7 +52,6 @@
 <!ENTITY  useDefaultFontSansSerif.label           "Sans Serif">
 <!ENTITY  useDocumentFonts.label                  "Lejoju mesazheve të përdorin shkronja të tjera">
 <!ENTITY  useDocumentFonts.accesskey              "L">
-<!ENTITY  proportionalSize.accesskey              "d">
 
  
 <!-- Language settings -->
@@ -71,7 +68,8 @@
 
 <!ENTITY  fixedWidth.accesskey                    "f">
 <!ENTITY  fontControl.label                       "Kontroll Shkronjash">
-<!ENTITY  sizeMono.accesskey                      "h">
 <!ENTITY  size.label                              "Madhësi:">
+<!ENTITY  sizeProportional.accesskey              "p">
+<!ENTITY  sizeMonospace.accesskey                 "m">
 <!ENTITY  useFixedWidthForPlainText.label         "Përdor shkronja me gjerësi fikse për mesazhe tekst të thjeshtë">
 
