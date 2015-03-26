@@ -8,29 +8,40 @@
 
 <!ENTITY update.checkForUpdatesButton.label       "التمس التحديثات">
 <!ENTITY update.checkForUpdatesButton.accesskey   "ت">
-
-
+<!ENTITY update.updateButton.label2               "أعِد تشغيل &brandShortName; لتحديثه">
+<!ENTITY update.updateButton.accesskey            "ش">
 <!ENTITY update.applyButtonBillboard.label        "طبّق التحديث…">
 <!ENTITY update.applyButtonBillboard.accesskey    "ط">
 <!-- LOCALIZATION NOTE (warningDesc.version): This is a warning about the experimental nature of Nightly and Aurora builds. It is only shown in those versions. -->
+
+
+<!ENTITY warningDesc.version        "&brandShortName; تجريبي وقد لا يكون مستقرا.">
 <!-- LOCALIZATION NOTE (warningDesc.telemetryDesc): This is a notification that Nightly/Aurora builds automatically send Telemetry data back to Mozilla. It is only shown in those versions. "It" refers to brandShortName. -->
+<!ENTITY warningDesc.telemetryDesc  "يُرسل تلقائيا معلومات عن الأداء والعتاد والاستخدام والتخصيصات إلى &vendorShortName; للمساعدة على تحسين &brandShortName;.">
 <!-- LOCALIZATION NOTE (community.exp.*) This paragraph is shown in "experimental" builds, i.e. Nightly and Aurora builds, instead of the other "community.*" strings below. -->
 
 <!ENTITY community.exp.start        "">
 <!-- LOCALIZATION NOTE (community.exp.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
-
+<!ENTITY community.exp.mozillaLink  "&vendorShortName;">
+<!ENTITY community.exp.middle       " هي ">
 <!-- LOCALIZATION NOTE (community.exp.creditslink): This is a link title that links to about:credits. -->
-
+<!ENTITY community.exp.creditsLink  "مجتمع عالمي">
+<!ENTITY community.exp.end          " يعمل للمحافظة على انفتاح الوب وعموميتها وإتاحتها للجميع.">
 
 <!ENTITY community.start2           "‫&brandShortName; صممه">
 <!-- LOCALIZATION NOTE (community.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
+<!ENTITY community.mozillaLink      "&vendorShortName;">
 <!ENTITY community.middle2          "، ">
 <!-- LOCALIZATION NOTE (community.creditsLink): This is a link title that links to about:credits. -->
+<!ENTITY community.creditsLink      "مجتمع عالمي">
+<!ENTITY community.end3             " يعمل للمحافظة على انفتاح الوب وعموميتها وإتاحتها للجميع.">
 
-
+<!ENTITY helpus.start               "أتريد المساعدة؟ ">
 <!-- LOCALIZATION NOTE (helpus.donateLink): This is a link title that links to the thunderbird donation page -->
-
+<!ENTITY helpus.donateLink          "تبرّع">
+<!ENTITY helpus.middle              " أو ">
 <!-- LOCALIZATION NOTE (helpus.getInvolvedLink): This is a link title that links to http://www.mozilla.org/contribute/. -->
+<!ENTITY helpus.getInvolvedLink     "شارك معنا!">
 <!ENTITY helpus.end                 "">
 <!-- LOCALIZATION NOTE (bottomLinks.license): This is a link title that links to about:license. -->
 
@@ -49,6 +60,7 @@
 <!-- LOCALIZATION NOTE (update.adminDisabled): try to make the localized text short (see bug 596813 for screenshots). -->
 <!ENTITY update.adminDisabled       "عطّل مديرك التحديثات">
 <!-- LOCALIZATION NOTE (update.otherInstanceHandlingUpdates): try to make the localized text short -->
+<!ENTITY update.otherInstanceHandlingUpdates "يجري تحديث &brandShortName; في سيرورة أخرى">
 <!-- LOCALIZATION NOTE (update.failed.start,update.failed.linkText,update.failed.end):
      update.failed.start, update.failed.linkText, and update.failed.end all go into
      one line with linkText being wrapped in an anchor that links to a site to download

@@ -64,10 +64,10 @@
 <!ENTITY borderEditField.accessKey "ص">
 <!-- These controls are in the Link Box -->
 
-<!ENTITY showImageLinkBorder.label "اعرض حدًا حول الصور الروابط">
+<!ENTITY showImageLinkBorder.label "اعرض حدًا حول الصور المربوطة">
 <!ENTITY showImageLinkBorder.accessKey "ح">
-<!ENTITY LinkAdvancedEditButton.label "تحرير الوصلات المتقدم…">
-<!ENTITY LinkAdvancedEditButton.accessKey "و">
+<!ENTITY LinkAdvancedEditButton.label "تحرير الروابط المتقدم…">
+<!ENTITY LinkAdvancedEditButton.accessKey "ر">
 <!ENTITY LinkAdvancedEditButton.tooltip "أضِف أو عدّل صفات HTML وصفات السمت و جافاسكربت">
 <!-- These tabs are currently used in the image input dialog -->
 
@@ -75,4 +75,4 @@
 <!ENTITY imageLocationTab.label "المكان">
 <!ENTITY imageDimensionsTab.label "الأبعاد">
 <!ENTITY imageAppearanceTab.label "المظهر">
-<!ENTITY imageLinkTab.label "الرابط">
+<!ENTITY imageLinkTab.label "رابط">

@@ -145,8 +145,8 @@
 <!ENTITY messagePaneVertical.accesskey "ر">
 <!ENTITY showFolderPaneCmd.label "لوحة المجلدات">
 <!ENTITY showFolderPaneCmd.accesskey "م">
-
-
+<!ENTITY showFolderPaneColsCmd.label "أعمدة لوحة المجلد">
+<!ENTITY showFolderPaneColsCmd.accesskey "ح">
 <!ENTITY showMessageCmd.label "لوح الرسائل">
 <!ENTITY showMessageCmd.accesskey "ح">
 
@@ -596,7 +596,7 @@
 <!-- Folder Pane -->
 
 <!ENTITY folderNameColumn.label "الاسم">
-
+<!ENTITY folderUnreadColumn.label "غير مقروء">
 
 <!ENTITY folderSizeColumn.label "الحجم">
 <!-- Folder Pane Context Menu -->
@@ -868,8 +868,8 @@
 <!ENTITY saveLinkAsCmd.accesskey "ك">
 <!ENTITY saveImageAsCmd.label "احفظ الصورة ك‍…">
 <!ENTITY saveImageAsCmd.accesskey "ظ">
-<!ENTITY copyLinkCmd.label "انسخ مكان الوصلة">
-<!ENTITY copyLinkCmd.accesskey "ص">
+<!ENTITY copyLinkCmd.label "انسخ مكان الرابط">
+<!ENTITY copyLinkCmd.accesskey "ط">
 <!ENTITY copyImageAllCmd.label "انسخ الصورة">
 <!ENTITY copyImageAllCmd.accesskey "ص">
 <!ENTITY copyEmailCmd.label "انسخ البريد الإلكتروني">
@@ -880,8 +880,8 @@
 <!ENTITY reloadCmd.accesskey "ح">
 <!ENTITY openInBrowser.label "افتح في المتصفح">
 <!ENTITY openInBrowser.accesskey "ت">
-<!ENTITY openLinkInBrowser.label "افتح الوصلة في المتصفح">
-<!ENTITY openLinkInBrowser.accesskey "ة">
+<!ENTITY openLinkInBrowser.label "افتح الرابط في المتصفح">
+<!ENTITY openLinkInBrowser.accesskey "ر">
 <!-- Statusbar -->
 
 <!ENTITY statusText.label "تمّ">

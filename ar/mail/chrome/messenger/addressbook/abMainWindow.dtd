@@ -3,8 +3,8 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY addressbookWindow.title                        "دفتر العناوين">
-
-
+<!ENTITY blankResultsPaneMessage.label                  "لا يعرض دفتر العناوين هذا المتراسلين إلا بعد البحث">
+<!ENTITY localResultsOnlyMessage.label                  "المتراسلين من دفاتر العناوين البعيدة لا تظهر إلا بعد البحث">
 <!-- File Menu -->
 <!ENTITY fileMenu.label                                 "ملف">
 <!ENTITY fileMenu.accesskey                             "م">
@@ -161,6 +161,8 @@ because displayed names don't have the comma in between. -->
 <!ENTITY searchItem.title "بحث سريع">
 <!-- Results Pane -->
 
+<!ENTITY Addrbook.label                                 "دفتر العناوين">
+<!ENTITY Addrbook.accesskey                             "د">
 <!ENTITY GeneratedName.label                            "الاسم">
 <!ENTITY GeneratedName.accesskey                        "س">
 <!ENTITY PrimaryEmail.label                             "البريد">

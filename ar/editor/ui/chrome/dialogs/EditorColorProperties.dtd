@@ -14,11 +14,11 @@
 
 <!ENTITY normalText.label "نص عادي">
 <!ENTITY normalText.accessKey "ص">
-<!ENTITY linkText.label "نص الوصلة">
+<!ENTITY linkText.label "نص الرابط">
 <!ENTITY linkText.accessKey "ل">
-<!ENTITY activeLinkText.label "نص الوصلة النشطة">
+<!ENTITY activeLinkText.label "نص الرابط النشط">
 <!ENTITY activeLinkText.accessKey "ط">
-<!ENTITY visitedLinkText.label "نص الوصلة المَزُورة">
+<!ENTITY visitedLinkText.label "نص الرابط المُزار">
 <!ENTITY visitedLinkText.accessKey "ز">
 <!ENTITY background.label "الخلفية:">
 <!ENTITY background.accessKey "خ">
