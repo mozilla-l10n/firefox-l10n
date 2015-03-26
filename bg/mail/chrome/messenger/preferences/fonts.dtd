@@ -8,8 +8,8 @@
 <!ENTITY  language.accesskey                      "Ш">
 
 <!ENTITY  size.label                              "Размер">
-<!ENTITY  proportionalSize.accesskey              "з">
-<!ENTITY  sizeMono.accesskey                      "м">
+
+
 
 <!ENTITY  proportional.label                      "Пропорционален:">
 <!ENTITY  proportional.accesskey                  "П">
@@ -20,20 +20,16 @@
 <!ENTITY  sans-serif.accesskey                    "н">
 <!ENTITY  monospace.label                         "Равноширок:">
 <!ENTITY  monospace.accesskey                     "Р">
-
-<!ENTITY  font.langGroup.latin1                   "Западен">
-<!ENTITY  font.langGroup.latin2                   "Централно Европейски">
+<!-- LOCALIZATION NOTE (font.langGroup.latin) :
+     Translate "Latin" as the name of Latin (Roman) script, not as the name of the Latin language. -->
 <!ENTITY  font.langGroup.japanese                 "Японски">
 <!ENTITY  font.langGroup.trad-chinese             "Традиционен китайски (Тайван)">
 <!ENTITY  font.langGroup.simpl-chinese            "Опростен китайски">
 <!ENTITY  font.langGroup.trad-chinese-hk          "Традиционен китайски (Хонг-Конг)">
 <!ENTITY  font.langGroup.korean                   "Корейски">
 <!ENTITY  font.langGroup.cyrillic                 "Кирилица">
-<!ENTITY  font.langGroup.baltic                   "Балтийски">
 <!ENTITY  font.langGroup.el                       "Гръцки">
-<!ENTITY  font.langGroup.turkish                  "Турски">
-<!ENTITY  font.langGroup.unicode1                 "Уникод">
-<!ENTITY  font.langGroup.user-def                 "Потребителски">
+
 <!ENTITY  font.langGroup.thai                     "Тайлански">
 <!ENTITY  font.langGroup.hebrew                   "Иврит">
 <!ENTITY  font.langGroup.arabic                   "Арабски">
@@ -48,8 +44,12 @@
 <!ENTITY  font.langGroup.gurmukhi                 "Гурмуки">
 <!ENTITY  font.langGroup.khmer                    "Кхмерски">
 <!ENTITY  font.langGroup.malayalam                "Малаялам">
-<!-- Minimum font size -->
 
+
+
+
+
+<!-- Minimum font size -->
 <!ENTITY minSize.label                            "Минимална големина на шрифт:">
 <!ENTITY minSize.accesskey                        "М">
 <!ENTITY minSize.none                             "Без">
