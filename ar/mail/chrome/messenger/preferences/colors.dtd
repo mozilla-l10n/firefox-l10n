@@ -6,10 +6,11 @@
 <!ENTITY  window.width                    "38em">
 <!ENTITY  window.macWidth                 "41em">
 
-
+<!ENTITY  overridePageColors.label        "بدل الألوان التي يحددها المحتوى باختياراتي أعلاه:">
+<!ENTITY  overridePageColors.accesskey    "د">
 
 <!ENTITY  overridePageColors.always.label "دائمًا">
-
+<!ENTITY  overridePageColors.auto.label   "مع السمات عالية التباين فقط">
 <!ENTITY  overridePageColors.never.label  "أبدًا">
 
 <!ENTITY  color                           "النص و الخلفية">

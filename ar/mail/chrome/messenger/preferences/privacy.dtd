@@ -5,7 +5,8 @@
 
 <!ENTITY captionMailContent.label "محتوى البريد">
 
-
+<!ENTITY acceptRemoteContent.label "اسمح بالمحتوى البعيد في الرسائل">
+<!ENTITY acceptRemoteContent.accesskey "س">
 <!ENTITY remoteContentExceptions.label "الاستثناءات…">
 <!ENTITY remoteContentExceptions.accesskey "ث">
 <!ENTITY acceptRemoteContentInfo.label "اطلع على المزيد حول مسائل الخصوصية مع المحتوى البعيد">

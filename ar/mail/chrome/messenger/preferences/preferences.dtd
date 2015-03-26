@@ -6,7 +6,7 @@
 <!ENTITY  prefWindow.titleGNOME   "تفضيلات &brandShortName;">
 <!ENTITY  prefWindow.titleMAC     "التفضيلات">
 <!ENTITY  prefWindow.styleWindows "width: 44em; min-height: 38.5em;">
-
+<!ENTITY  prefWindow.styleMac     "width: 52em;">
 <!ENTITY  prefWindow.styleGNOME   "width: 42em; min-height: 38em;">
 
 <!ENTITY paneGeneral.title        "عام">
@@ -19,4 +19,5 @@
 <!ENTITY paneAdvanced.title       "متقدم">
 <!ENTITY paneAccount.title        "الحسابات">
 
-
+<!ENTITY okButton.title           "موافق">
+<!ENTITY okButton.accesskey       "م">

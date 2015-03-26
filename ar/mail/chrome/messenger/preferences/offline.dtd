@@ -4,16 +4,17 @@
 
 <!ENTITY offlineDialog.title "إعدادات طور اللا اتصال">
 
-
-
+<!ENTITY checkAutoDetect.label "اتبع تلقائيا حالة الاتصال المكتشفة">
+<!ENTITY checkAutoDetect.accesskey "م">
+<!ENTITY titleStartUp "الحالة يدويا عند بدء التشغيل:">
 <!ENTITY radioRememberPrevState.label "تذكر حالة الاتصال السابقة">
 <!ENTITY radioRememberPrevState.accesskey "ذ">
-
-
-
-
-
-
+<!ENTITY radioAskState.label "اسألني عن حالة الاتصال">
+<!ENTITY radioAskState.accesskey "س">
+<!ENTITY radioAlwaysOnlineState.label "متصل">
+<!ENTITY radioAlwaysOnlineState.accesskey "ت">
+<!ENTITY radioAlwaysOffline.label "غير متّصل">
+<!ENTITY radioAlwaysOffline.accesskey "غ">
 
 <!ENTITY textGoingOnline "أأرسل الرسائل غير المرسلة عند الاتصال؟">
 <!ENTITY radioAutoSend.label "نعم">
