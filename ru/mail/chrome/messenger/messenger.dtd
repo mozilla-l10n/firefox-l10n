@@ -162,7 +162,7 @@
 <!ENTITY sortByAttachmentsCmd.label "по вложениям">
 <!ENTITY sortByAttachmentsCmd.accesskey "в">
 <!ENTITY sortByPriorityCmd.label "по важности">
-<!ENTITY sortByPriorityCmd.accesskey "в">
+<!ENTITY sortByPriorityCmd.accesskey "ж">
 <!ENTITY sortBySizeCmd.label "по размеру">
 <!ENTITY sortBySizeCmd.accesskey "р">
 <!ENTITY sortByStatusCmd.label "по состоянию">
@@ -177,6 +177,8 @@
 <!ENTITY sortByFromCmd.accesskey "в">
 <!ENTITY sortByRecipientCmd.label "по адресату">
 <!ENTITY sortByRecipientCmd.accesskey "а">
+<!ENTITY sortByCorrespondentCmd.label "по корреспондентам">
+<!ENTITY sortByCorrespondentCmd.accesskey "о">
 <!ENTITY sortByUnreadCmd.label "по прочитанным">
 <!ENTITY sortByUnreadCmd.accesskey "н">
 <!ENTITY sortByOrderReceivedCmd.label "по порядку получения">
@@ -601,6 +603,7 @@
 <!ENTITY threadColumn.label "Обсуждение">
 <!ENTITY fromColumn.label "От">
 <!ENTITY recipientColumn.label "Адресат">
+<!ENTITY correspondentColumn.label "Корреспонденты">
 <!ENTITY subjectColumn.label "Тема">
 <!ENTITY dateColumn.label "Дата">
 <!ENTITY priorityColumn.label "Важность">
@@ -621,6 +624,7 @@
 <!ENTITY threadColumn2.tooltip "Просмотреть сообщения по обсуждениям">
 <!ENTITY fromColumn2.tooltip "Сортировать по автору">
 <!ENTITY recipientColumn2.tooltip "Сортировать по адресату">
+<!ENTITY correspondentColumn2.tooltip "Сортировать по корреспондентам">
 <!ENTITY subjectColumn2.tooltip "Сортировать по теме">
 <!ENTITY dateColumn2.tooltip "Сортировать по дате отправки">
 <!ENTITY priorityColumn2.tooltip "Сортировать по важности">
