@@ -80,7 +80,7 @@
 <!ENTITY certmgr.fields.label                 "قيمة الحقل">
 <!ENTITY certmgr.fields.accesskey             "م">
 <!ENTITY certmgr.hierarchy.label              "شجريّة الشّهادة">
-
+<!ENTITY certmgr.hierarchy.accesskey2         "ش">
 <!ENTITY certmgr.addException.label           "أضِف استثناءً…">
 <!ENTITY certmgr.addException.accesskey       "ت">
 
