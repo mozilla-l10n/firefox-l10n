@@ -48,11 +48,11 @@
 <!ENTITY viewMenu_accesskey "V">
 <!ENTITY viewMenu_toggleEditor_label "Comută editorul">
 <!ENTITY viewMenu_toggleEditor_accesskey "E">
-<!ENTITY viewMenu_zoomin_label "Apropie">
+<!ENTITY viewMenu_zoomin_label "Mărește">
 <!ENTITY viewMenu_zoomin_accesskey "I">
-<!ENTITY viewMenu_zoomout_label "Depărtează">
+<!ENTITY viewMenu_zoomout_label "Micșorează">
 <!ENTITY viewMenu_zoomout_accesskey "O">
-<!ENTITY viewMenu_resetzoom_label "Reinițializează apropierea">
+<!ENTITY viewMenu_resetzoom_label "Reinițializează scalarea">
 <!ENTITY viewMenu_resetzoom_accesskey "R">
 
 <!ENTITY projectButton_label "Deschide aplicația">

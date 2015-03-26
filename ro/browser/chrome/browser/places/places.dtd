@@ -8,12 +8,12 @@
 <!ENTITY places.library.height "500">
 <!ENTITY organize.label        "Organizare">
 <!ENTITY organize.accesskey    "O">
-<!ENTITY organize.tooltip      "Organizați-vă semnele de carte">
+<!ENTITY organize.tooltip      "Organizează semnele dumneavoastră de carte">
 
 <!ENTITY file.close.label               "Închide">
 <!ENTITY file.close.accesskey           "c">
 <!ENTITY cmd.close.key                  "w">
-<!ENTITY views.label                    "Vederi">
+<!ENTITY views.label                    "Vizualizări">
 <!ENTITY views.accesskey                "V">
 <!ENTITY views.tooltip                  "Schimbați perspectiva">
 <!ENTITY view.columns.label             "Arată coloane">
@@ -84,7 +84,7 @@
 <!ENTITY col.tags.label          "Etichete">
 <!ENTITY col.url.label           "Adresă">
 <!ENTITY col.mostrecentvisit.label "Cele mai recente vizite">
-<!ENTITY col.visitcount.label    "Nr. de vizite">
+<!ENTITY col.visitcount.label    "Număr de vizite">
 <!ENTITY col.keyword.label       "Cuvânt cheie">
 <!ENTITY col.description.label   "Descriere">
 <!ENTITY col.dateadded.label     "Adăugat">

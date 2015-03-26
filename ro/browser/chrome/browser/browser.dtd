@@ -599,7 +599,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fullZoomResetCmd.commandkey    "0">
 <!ENTITY fullZoomResetCmd.commandkey2   "">
 
-<!ENTITY fullZoomToggleCmd.label        "Zoom doar pe text">
+<!ENTITY fullZoomToggleCmd.label        "Scalare doar pe text">
 <!ENTITY fullZoomToggleCmd.accesskey    "t">
 <!ENTITY fullZoom.label                 "Mărime text">
 <!ENTITY fullZoom.accesskey             "M">
@@ -695,7 +695,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY syncBrand.shortName.label    "Sincronizare">
 
 <!ENTITY syncSetup.label              "Setați &syncBrand.shortName.label;…">
-<!ENTITY syncSetup.accesskey          "Y">
+<!ENTITY syncSetup.accesskey          "R">
 <!ENTITY syncSyncNowItem.label        "Sincronizează acum">
 <!ENTITY syncSyncNowItem.accesskey    "S">
 <!ENTITY syncReAuthItem.label         "Reconectare la &syncBrand.shortName.label;…">
