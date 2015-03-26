@@ -434,14 +434,14 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY tabView.commandkey           "e">
 
-<!ENTITY openLinkCmdInTab.label       "افتح الوصلة في لسان جديد">
+<!ENTITY openLinkCmdInTab.label       "افتح الرابط في لسان جديد">
 <!ENTITY openLinkCmdInTab.accesskey   "ل">
-<!ENTITY openLinkCmd.label            "افتح الوصلة في نافذة جديدة">
+<!ENTITY openLinkCmd.label            "افتح الرابط في نافذة جديدة">
 <!ENTITY openLinkCmd.accesskey        "ج">
-<!ENTITY openLinkInPrivateWindowCmd.label "افتح الوصلة في نافذة خاصة جديدة">
+<!ENTITY openLinkInPrivateWindowCmd.label "افتح الرابط في نافذة خاصة جديدة">
 <!ENTITY openLinkInPrivateWindowCmd.accesskey "خ">
-<!ENTITY openLinkCmdInCurrent.label     "افتح الوصلة">
-<!ENTITY openLinkCmdInCurrent.accesskey "و">
+<!ENTITY openLinkCmdInCurrent.label     "افتح الرابط">
+<!ENTITY openLinkCmdInCurrent.accesskey "ر">
 <!ENTITY openFrameCmdInTab.label      "افتح الإطار في لسان جديد">
 <!ENTITY openFrameCmdInTab.accesskey  "ل">
 <!ENTITY openFrameCmd.label           "افتح الإطار في نافذةٍ جديدة">
@@ -458,7 +458,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewPartialSourceCmd.accesskey "e">
 <!ENTITY viewPageSourceCmd.label      "اعرض مصدر هذه الصفحة">
 <!ENTITY viewPageSourceCmd.accesskey  "ص">
-<!ENTITY viewFrameSourceCmd.label     "اعرض مصدر هذا الإطار">
+<!ENTITY viewFrameSourceCmd.label     "اعرض مصدر الإطار">
 <!ENTITY viewFrameSourceCmd.accesskey "ط">
 <!ENTITY viewPageInfoCmd.label        "اعرض معلومات الصفحة">
 <!ENTITY viewPageInfoCmd.accesskey    "ص">
@@ -479,11 +479,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY setDesktopBackgroundCmd.label      "اجعلها خلفية سطح المكتب…">
 <!ENTITY setDesktopBackgroundCmd.accesskey  "ج">
 <!ENTITY bookmarkPageCmd2.label       "علّم هذه الصفحة">
-<!ENTITY bookmarkThisLinkCmd.label      "علِّم هذه الوصلة">
-<!ENTITY bookmarkThisLinkCmd.accesskey  "و">
+<!ENTITY bookmarkThisLinkCmd.label      "علِّم هذا الرابط">
+<!ENTITY bookmarkThisLinkCmd.accesskey  "ر">
 <!ENTITY bookmarkThisFrameCmd.label      "علِّم هذا الإطار">
 <!ENTITY bookmarkThisFrameCmd.accesskey  "ط">
-<!ENTITY emailPageCmd.label           "أرسل الوصلة بالبريد…">
+<!ENTITY emailPageCmd.label           "أرسل الرابط بالبريد…">
 <!ENTITY emailPageCmd.accesskey       "س">
 <!ENTITY savePageCmd.label            "احفظ الصفحة ك‍…">
 <!ENTITY savePageCmd.accesskey        "ك">
@@ -514,7 +514,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY playPluginCmd.accesskey      "ف">
 <!ENTITY hidePluginCmd.label          "أخفِ هذه المُلحقة">
 <!ENTITY hidePluginCmd.accesskey      "خ">
-<!ENTITY copyLinkCmd.label            "انسخ مكان الوصلة">
+<!ENTITY copyLinkCmd.label            "انسخ مكان الرابط">
 <!ENTITY copyLinkCmd.accesskey        "م">
 <!ENTITY copyImageCmd.label           "انسخ مكان الصورة">
 <!ENTITY copyImageCmd.accesskey       "س">
@@ -751,7 +751,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY social.markpageMenu.accesskey "ل">
 <!ENTITY social.markpageMenu.label "احفظ الصفحة إلى…">
 <!ENTITY social.marklinkMenu.accesskey "ل">
-<!ENTITY social.marklinkMenu.label "احفظ الو_صلة إلى…">
+<!ENTITY social.marklinkMenu.label "احفظ الرابط إلى…">
 
 <!ENTITY getUserMedia.selectCamera.label "الكمرة التي ستُشارك:">
 <!ENTITY getUserMedia.selectCamera.accesskey "م">

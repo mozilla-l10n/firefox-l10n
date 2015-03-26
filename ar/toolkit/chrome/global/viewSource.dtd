@@ -80,7 +80,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY goForwardCmd.commandKey "]">
 
-<!ENTITY copyLinkCmd.label "انسخ مكان الوصلة">
+<!ENTITY copyLinkCmd.label "انسخ مكان الرابط">
 <!ENTITY copyLinkCmd.accesskey "م">
 <!ENTITY copyEmailCmd.label "انسخ عنوان البريد الإلكتروني">
 <!ENTITY copyEmailCmd.accesskey "خ">
