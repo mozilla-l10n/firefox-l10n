@@ -183,7 +183,7 @@
 <!ENTITY fxaccount_sign_in_unknown_error "Nu se poate autentifica">
 
 <!ENTITY fxaccount_account_verified_sub_header "Cont verificat">
-<!ENTITY fxaccount_account_verified_description2 "Datele tale vor începe sincronizarea din clipă în clipă.">
+<!ENTITY fxaccount_account_verified_description2 "Datele tale vor începe să se sincronizeze din clipă în clipă.">
 
 <!ENTITY fxaccount_migration_finished_header "Actualizare încheiată">
 

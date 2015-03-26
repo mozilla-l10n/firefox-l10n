@@ -214,7 +214,7 @@ size. -->
 <!ENTITY pref_media_autoplay_enabled "Permite redarea automată">
 <!ENTITY pref_media_autoplay_enabled_summary "Controlează dacă saiturile pot rula automat videoclipuri și alt conținut media">
 <!ENTITY pref_zoom_force_enabled "Activează mereu zoom-ul">
-<!ENTITY pref_zoom_force_enabled_summary "Forțează suprascrierea ca să poți face zoom pe orice pagină">
+<!ENTITY pref_zoom_force_enabled_summary "Forțează suprascrierea ca să poți face focalizare pe orice pagină">
 
 <!ENTITY pref_use_master_password "Folosește parola generală">
 <!ENTITY pref_sync "Sincronizare">
