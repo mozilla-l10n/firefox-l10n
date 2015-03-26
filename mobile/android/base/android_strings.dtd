@@ -31,6 +31,7 @@
 <!ENTITY choose_file "Выбор файла">
 <!ENTITY url_bar_default_text2 "Введите запрос или адрес">
 <!ENTITY bookmark "Закладка">
+<!ENTITY bookmark_remove "Удалить закладку">
 <!ENTITY bookmark_added "Закладка добавлена">
 <!ENTITY bookmark_removed "Закладка удалена">
 <!ENTITY bookmark_updated "Закладка обновлена">
@@ -75,6 +76,7 @@
 <!ENTITY overlay_share_retry "Попробовать снова">
 <!ENTITY overlay_share_select_device "Выбрать устройство">
 <!ENTITY overlay_no_synced_devices "Не найдено устройств, подключенных к Аккаунту Firefox">
+<!ENTITY overlay_share_tab_not_sent "Вкладка не может быть отправлена.\nПожалуйста, повторите попытку позже.">
 <!ENTITY pref_category_search3 "Поиск">
 <!ENTITY pref_category_search_summary "Настройка ваших поисковых систем">
 <!ENTITY pref_category_display "Отображение">

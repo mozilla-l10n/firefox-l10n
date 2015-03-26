@@ -35,6 +35,7 @@
 <!ENTITY threadColumn.label "Обсуждение">
 <!ENTITY fromColumn.label "От">
 <!ENTITY recipientColumn.label "Адресат">
+<!ENTITY correspondentColumn.label "Корреспонденты">
 <!ENTITY subjectColumn.label "Тема">
 <!ENTITY dateColumn.label "Дата">
 <!ENTITY priorityColumn.label "Важность">
@@ -54,6 +55,7 @@
 <!ENTITY threadColumn2.tooltip "Просмотреть сообщения по обсуждениям">
 <!ENTITY fromColumn2.tooltip "Сортировать по автору">
 <!ENTITY recipientColumn2.tooltip "Сортировать по адресату">
+<!ENTITY correspondentColumn2.tooltip "Сортировать по корреспондентам">
 <!ENTITY subjectColumn2.tooltip "Сортировать по теме">
 <!ENTITY dateColumn2.tooltip "Сортировать по дате отправки">
 <!ENTITY priorityColumn2.tooltip "Сортировать по важности">
