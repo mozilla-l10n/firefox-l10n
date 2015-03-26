@@ -80,7 +80,7 @@
   -  is displayed in the profiler. -->
 
 <!ENTITY profilerUI.showPlatformData             "Erakutsi Gecko plataformaren datuak">
-
+<!ENTITY profilerUI.showPlatformData.tooltiptext "Plataformaren datuak erakustearekin bat, Gecko plataformaren sinboloak gaituko dira JavaScript analizatzaileko txostenetan.">
 <!-- LOCALIZATION NOTE (profilerUI.flattenTreeRecursion): This is the
   -  label for the checkbox that toggles the flattening of tree recursion in inspected
   -  functions in the profiler. -->
