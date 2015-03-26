@@ -46,8 +46,8 @@
 <!ENTITY profilerUI.toolbar.waterfall "Denbora-lerroa">
 <!ENTITY profilerUI.toolbar.js-calltree "JavaScript">
 <!ENTITY profilerUI.toolbar.memory-calltree "Memoria">
-
-
+<!ENTITY profilerUI.toolbar.js-flamegraph "JS sugar-diagrama">
+<!ENTITY profilerUI.toolbar.memory-flamegraph "Memoriaren sugar-diagrama">
 <!-- LOCALIZATION NOTE (profilerUI.table.*): These strings are displayed
   -  in the call tree headers for a recording. -->
 
@@ -75,6 +75,8 @@
 <!-- LOCALIZATION NOTE (profilerUI.invertFlameGraph): This is the label shown next to
   -  a checkbox that inverts and un-inverts the profiler's flame graph. -->
 
+<!ENTITY profilerUI.invertFlameGraph             "Alderantzikatu sugar-diagrama">
+<!ENTITY profilerUI.invertFlameGraph.tooltiptext "Sugar-diagrama alderantzikatzean analizatutako dei-bideak marko berrienetatik zaharrenetara bistaratzen ditu.">
 <!-- LOCALIZATION NOTE (profilerUI.showPlatformData): This is the
   -  label for the checkbox that toggles whether or not Gecko platform data
   -  is displayed in the profiler. -->
