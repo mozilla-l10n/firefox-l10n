@@ -157,6 +157,8 @@
 <!ENTITY device_typeobject "objektas">
 <!ENTITY device_typenone "Parinkite tipą">
 <!-- Device Preferences -->
+
+<!ENTITY devicepreference_title "Įrenginio nuostatos">
 <!ENTITY devicepreference_search "Paieškos nuostatos">
 <!ENTITY devicepreference_newname "Naujo nuostatų parametro pavadinimas">
 <!ENTITY devicepreference_newtext "Parametro reikšmė">
@@ -164,7 +166,7 @@
 <!-- Device Settings -->
 
 <!ENTITY devicesetting_title "Įrenginio nustatymai">
-
+<!ENTITY devicesetting_search "Paieškos nustatymai">
 <!ENTITY devicesetting_newname "Naujo nustatymo pavadinimas">
 <!ENTITY devicesetting_newtext "Nustatymo reikšmė">
 <!ENTITY devicesetting_addnew "Pridėti naują nustatymą">
@@ -177,13 +179,19 @@
      that instructs the user to transfer an authentication token to the
      server. -->
 
-<!ENTITY wifi_auth_header "Kliento atpažinimas">
+<!ENTITY wifi_auth_header "Kliento identifikacija">
 <!-- LOCALIZATION NOTE (wifi_auth_scan_request): Instructions requesting the
      user to transfer authentication info by scanning a QR code. -->
+<!ENTITY wifi_auth_scan_request "Galinis taškas, prie kurio jungiatės, reikalauja daugiau informacijos, kad galėtų patvirtinti šio ryšio tapatumą.  Prašome nuskaityti žemiau esantį QR kodą pagal nurodymus kitame įrenginyje.">
 <!-- LOCALIZATION NOTE (wifi_auth_no_scanner): Link text to assist users with
      devices that can't scan a QR code. -->
+<!ENTITY wifi_auth_no_scanner "Nėra QR nuskaitymo galimybės?">
 <!-- LOCALIZATION NOTE (wifi_auth_yes_scanner): Link text to assist users with
      devices that can scan a QR code. -->
+<!ENTITY wifi_auth_yes_scanner "Yra QR nuskaitymo galimybė?">
 <!-- LOCALIZATION NOTE (wifi_auth_token_request): Instructions requesting the
      user to transfer authentication info by transferring a token. -->
+<!ENTITY wifi_auth_token_request "Jei jūsų kitas įrenginys vietoj QR kodo nuskaitymo prašo prieigos rakto, prašome į tą įrenginį nukopijuoti žemiau esančią reikšmę:">
 <!-- Logs panel -->
+
+<!ENTITY logs_title "Paruošimo komandų žurnalas">
