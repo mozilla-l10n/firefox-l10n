@@ -10,4 +10,4 @@
 <!ENTITY privatebrowsingpage.description            "În filele fără urme, &brandShortName; nu va memora istoricul navigării, căutărilor, descărcărilor, formularelor web, cookie-urilor sau fișierelor temporare de internet. Cu toate acestea, fișierele descărcate și semnele de carte vor fi memorate.">
 <!ENTITY privatebrowsingpage.description.private    "&privatebrowsingpage.issueDesc.private; &privatebrowsingpage.description;">
 
-<!ENTITY privatebrowsingpage.moreInfo               "Cu toate că acest dispozitiv nu va reține istoricul navigării, furnizorul de internet poate încă să urmărească paginile pe care le vizitezi.">
+<!ENTITY privatebrowsingpage.moreInfo               "Cu toate că acest dispozitiv nu va păstra istoricul navigării, furnizorul de internet poate încă să urmărească paginile pe care le vizitezi.">
