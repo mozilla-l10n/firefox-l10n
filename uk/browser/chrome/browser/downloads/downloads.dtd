@@ -64,7 +64,7 @@
 <!ENTITY cmd.removeFromHistory.accesskey  "В">
 <!ENTITY cmd.clearList.label              "Очистити список">
 <!ENTITY cmd.clearList.accesskey          "О">
-<!ENTITY cmd.clearDownloads.label         "Вичистити завантаження">
+<!ENTITY cmd.clearDownloads.label         "Очистити завантаження">
 <!ENTITY cmd.clearDownloads.accesskey     "ч">
 <!-- LOCALIZATION NOTE (cmd.unblock.label):
      This command may be shown in the context menu, as a menu button item, or as
