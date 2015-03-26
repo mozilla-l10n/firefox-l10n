@@ -834,10 +834,10 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY processHang.terminateScript.accessKey    "G">
 <!ENTITY processHang.debugScript.label            "Ireki araztailean">
 <!ENTITY processHang.debugScript.accessKey        "a">
-
-
-
-
+<!ENTITY processHang.terminatePlugin.label        "Hil plugina">
+<!ENTITY processHang.terminatePlugin.accessKey    "p">
+<!ENTITY processHang.terminateProcess.label       "Hil web prozesua">
+<!ENTITY processHang.terminateProcess.accessKey   "H">
 
 <!ENTITY emeLearnMoreContextMenu.label            "DRMri buruzko argibide gehiago…">
 <!ENTITY emeLearnMoreContextMenu.accesskey        "D">
@@ -852,6 +852,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- Pre-landed string for bug 1124153 -->
 <!ENTITY readingList.sidebar.showMore.label       "Erakutsi gehiago…">
 <!-- Pre-landed string for bug 1133662 -->
+<!ENTITY readingList.sidebar.emptyText            "Gehitu artikuluak zure irakurketa-zerrendan gerorako gorde eta behar dituzunean erraz aurkitzeko.">
 <!-- Pre-landed string for bug 1123525 -->
 <!ENTITY readingList.sidebar.delete.tooltip       "Kendu hau zure irakurketa-zerrendatik">
 <!-- Pre-landed strings for bug 1123519 -->
