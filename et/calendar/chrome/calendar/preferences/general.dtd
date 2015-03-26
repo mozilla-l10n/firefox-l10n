@@ -33,6 +33,10 @@
 <!ENTITY pref.default_task_offset_start.label "Algusest">
 <!ENTITY pref.default_task_offset_next_hour.label "Järgmise tunni algusest">
 
+<!ENTITY pref.calendar.todaypane.agenda.caption "Tänaste tegemiste paneel">
+<!ENTITY pref.soondays.label "Peatselt saabuvad osas kuvatakse:">
+<!ENTITY pref.soondays.accesskey "P">
+
 <!ENTITY pref.accessibility.label "Hõlbustus">
 <!ENTITY pref.systemcolors.label "Kasutamise hõlbustamiseks optimeeritakse värve">
 <!ENTITY pref.systemcolors.accesskey "v">

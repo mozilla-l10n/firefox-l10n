@@ -14,8 +14,8 @@
 <!ENTITY pref.calendar.alarms.sound.useDefault.accessKey "h">
 <!ENTITY pref.calendar.alarms.sound.browse.label "Vali…">
 <!ENTITY pref.calendar.alarms.sound.browse.accessKey "V">
-<!ENTITY pref.calendar.alarms.sound.preview.label "Proovi">
-<!ENTITY pref.calendar.alarms.sound.preview.accessKey "P">
+<!ENTITY pref.calendar.alarms.sound.play.label "Esita">
+<!ENTITY pref.calendar.alarms.sound.play.accessKey "t">
 <!ENTITY pref.showalarmbox "Meeldetuletuse akna näitamine">
 <!ENTITY pref.calendar.alarms.showAlarmBox.accessKey "a">
 <!ENTITY pref.missedalarms "Aegunud meeldetuletuste näitamine">
