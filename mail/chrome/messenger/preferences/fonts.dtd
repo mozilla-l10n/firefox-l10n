@@ -8,8 +8,8 @@
 <!ENTITY  language.accesskey                      "F">
 
 <!ENTITY  size.label                              "Veličina:">
-
-
+<!ENTITY  sizeProportional.accesskey              "e">
+<!ENTITY  sizeMonospace.accesskey                 "i">
 
 <!ENTITY  proportional.label                      "Proporcionalan:">
 <!ENTITY  proportional.accesskey                  "P">
@@ -22,6 +22,8 @@
 <!ENTITY  monospace.accesskey                     "M">
 <!-- LOCALIZATION NOTE (font.langGroup.latin) :
      Translate "Latin" as the name of Latin (Roman) script, not as the name of the Latin language. -->
+
+<!ENTITY  font.langGroup.latin                    "Latinica">
 <!ENTITY  font.langGroup.japanese                 "Japanski">
 <!ENTITY  font.langGroup.trad-chinese             "Tradicionalni kineski (Tajvan)">
 <!ENTITY  font.langGroup.simpl-chinese            "Pojednostavljeni kineski">
@@ -29,7 +31,7 @@
 <!ENTITY  font.langGroup.korean                   "Korejski">
 <!ENTITY  font.langGroup.cyrillic                 "Ćirilični">
 <!ENTITY  font.langGroup.el                       "Grčki">
-
+<!ENTITY  font.langGroup.other                    "Drugi sustavi pisanja">
 <!ENTITY  font.langGroup.thai                     "Tajlandski">
 <!ENTITY  font.langGroup.hebrew                   "Hebrejski">
 <!ENTITY  font.langGroup.arabic                   "Arapski">
@@ -44,11 +46,11 @@
 <!ENTITY  font.langGroup.gurmukhi                 "Gurmukhi">
 <!ENTITY  font.langGroup.khmer                    "Khmer">
 <!ENTITY  font.langGroup.malayalam                "Malajalam">
-
-
-
-
-
+<!ENTITY  font.langGroup.oriya                    "Oriya">
+<!ENTITY  font.langGroup.telugu                   "Telugu">
+<!ENTITY  font.langGroup.kannada                  "Kannada">
+<!ENTITY  font.langGroup.sinhala                  "Sinhala">
+<!ENTITY  font.langGroup.tibetan                  "Tibetanski">
 <!-- Minimum font size -->
 <!ENTITY minSize.label                            "Minimalna veličina fonta:">
 <!ENTITY minSize.accesskey                        "a">
