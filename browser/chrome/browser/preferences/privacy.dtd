@@ -15,13 +15,13 @@
 
 <!ENTITY  locationBar.label             "Адресна лента">
 
-<!ENTITY  locbar.suggest.label          "При въвеждане в адресната лента, подсказване на:">
+<!ENTITY  locbar.suggest.label          "При въвеждане в адресната лента, подсказване с:">
 <!ENTITY  locbar.history.label          "История">
 <!ENTITY  locbar.history.accesskey      "И">
 <!ENTITY  locbar.bookmarks.label        "Отметки">
 <!ENTITY  locbar.bookmarks.accesskey    "О">
-<!ENTITY  locbar.openpage.label         "Отваряне на подпрозорци">
-<!ENTITY  locbar.openpage.accesskey     "О">
+<!ENTITY  locbar.openpage.label         "Отворените подпрозорци">
+<!ENTITY  locbar.openpage.accesskey     "п">
 
 <!ENTITY  acceptCookies.label           "Разрешаване на бисквитките">
 <!ENTITY  acceptCookies.accesskey       "Р">
