@@ -23,7 +23,7 @@
 
 <!-- LOCALIZATION NOTE (font.langGroup.latin) :
      Translate "Latin" as the name of Latin (Roman) script, not as the name of the Latin language. -->
-<!ENTITY  font.langGroup.latin                    "Latin">
+<!ENTITY  font.langGroup.latin                    "Latijns">
 <!ENTITY  font.langGroup.japanese                 "Japans">
 <!ENTITY  font.langGroup.trad-chinese             "Traditioneel Chinees (Taiwan)">
 <!ENTITY  font.langGroup.simpl-chinese            "Vereenvoudigd Chinees">
@@ -31,7 +31,7 @@
 <!ENTITY  font.langGroup.korean                   "Koreaans">
 <!ENTITY  font.langGroup.cyrillic                 "Cyrillisch">
 <!ENTITY  font.langGroup.el                       "Grieks">
-<!ENTITY  font.langGroup.other                    "Andere schrijfsystemen">
+<!ENTITY  font.langGroup.other                    "Andere schriftsystemen">
 <!ENTITY  font.langGroup.thai                     "Thai">
 <!ENTITY  font.langGroup.hebrew                   "Hebreeuws">
 <!ENTITY  font.langGroup.arabic                   "Arabisch">
