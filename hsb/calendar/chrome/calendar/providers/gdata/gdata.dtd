@@ -16,7 +16,7 @@
 <!ENTITY gdata.reminder.default "Standardne dopomnjeće">
 <!ENTITY gdata.reminder.action.sms.label "Tekstowu powěsć pósłać">
 
-<!ENTITY gdata.wizard.session.description "Prošu wubjerće eksistowace posedźenje abo zapodajće swoju e-mejlowu adresu, zo byšće nowe posedźenje wutworił. Trjebaće jenož jedne posedźenj na konto.">
+<!ENTITY gdata.wizard.session.description "Prošu wubjerće eksistowace posedźenje abo zapodajće swoju e-mejlowu adresu, zo byšće nowe posedźenje wutworił. Trjebaće jenož jedne posedźenje na konto.">
 <!ENTITY gdata.wizard.calendars.description "Prošu wubjerće protyki a lisćiny nadawkow, kotrež chceće abonować.">
 
 <!ENTITY gdata.wizard.nextstep.description "Prošu přeńdźće k přichodnemu krokej, zo byšće swoje protyki konfigurował.">
