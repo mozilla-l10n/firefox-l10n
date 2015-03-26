@@ -84,7 +84,7 @@
 
 <!ENTITY accountTitle.label "إعدادات الحساب">
 <!ENTITY accountSettingsDesc.label "التالي حساب مخصوص.  لا ترتبط به أي هويّات.">
-
-
+<!ENTITY storeType.label "طريقة تخزين الرسائل">
+<!ENTITY storeType.accesskey "س">
 <!ENTITY mboxStore.label "ملف واحد كبير (mbox)">
 <!ENTITY maildirStore.label "ملف لكل رسالة (maildir)">

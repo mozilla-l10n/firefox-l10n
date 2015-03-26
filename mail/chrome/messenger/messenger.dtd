@@ -597,7 +597,7 @@
 
 <!ENTITY folderNameColumn.label "الاسم">
 <!ENTITY folderUnreadColumn.label "غير مقروء">
-
+<!ENTITY folderTotalColumn.label "المجموع">
 <!ENTITY folderSizeColumn.label "الحجم">
 <!-- Folder Pane Context Menu -->
 
@@ -666,8 +666,8 @@
 <!ENTITY statusColumn.label "الحالة">
 <!ENTITY sizeColumn.label "الحجم">
 <!ENTITY junkStatusColumn.label "حالة السخام">
-
-
+<!ENTITY unreadColumn.label "غير مقروء">
+<!ENTITY totalColumn.label "المجموع">
 <!ENTITY readColumn.label "مقروء">
 <!ENTITY receivedColumn.label "مستلَم">
 <!ENTITY starredColumn.label "ذات نجمة">
