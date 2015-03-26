@@ -46,11 +46,13 @@
 <!ENTITY profilerUI.toolbar.waterfall "Laiko juosta">
 <!ENTITY profilerUI.toolbar.js-calltree "„JavaScript“">
 <!ENTITY profilerUI.toolbar.memory-calltree "Atmintis">
-
-
+<!ENTITY profilerUI.toolbar.js-flamegraph "JS liepsnų diagrama">
+<!ENTITY profilerUI.toolbar.memory-flamegraph "Atminties liepsnų diagrama">
 <!-- LOCALIZATION NOTE (profilerUI.table.*): These strings are displayed
   -  in the call tree headers for a recording. -->
 
+<!ENTITY profilerUI.table.totalDuration2  "Visas laikas">
+<!ENTITY profilerUI.table.selfDuration2   "Vidinis laikas">
 <!ENTITY profilerUI.table.totalPercentage "Bendri kaštai">
 <!ENTITY profilerUI.table.selfPercentage  "Vidiniai kaštai">
 <!ENTITY profilerUI.table.samples         "Pavyzdžiai">
@@ -74,10 +76,12 @@
   -  a checkbox that inverts and un-inverts the profiler's flame graph. -->
 
 <!ENTITY profilerUI.invertFlameGraph             "Invertuoti liepsnų diagramą">
-
+<!ENTITY profilerUI.invertFlameGraph.tooltiptext "Invertavus liepsnų diagramą yra rodomi profiliuotų kreipimųsi keliai, pradedant jauniausiais kadrais ir plečiantis iki senesnių.">
 <!-- LOCALIZATION NOTE (profilerUI.showPlatformData): This is the
   -  label for the checkbox that toggles whether or not Gecko platform data
   -  is displayed in the profiler. -->
+
+<!ENTITY profilerUI.showPlatformData             "Rodyti „Gecko“ platformos duomenis">
 <!ENTITY profilerUI.showPlatformData.tooltiptext "Platformos duomenų rodymas leidžia „JavaScript“ profiliuoklės ataskaitose atvaizduoti „Gecko“ platformos simbolius.">
 <!-- LOCALIZATION NOTE (profilerUI.flattenTreeRecursion): This is the
   -  label for the checkbox that toggles the flattening of tree recursion in inspected
@@ -95,3 +99,5 @@
   -  is displayed next to a checkbox determining whether or not framerate
   -  is recorded. -->
 
+<!ENTITY profilerUI.enableFramerate             "Įrašinėti kadrų dažnį">
+<!ENTITY profilerUI.enableFramerate.tooltiptext "Įrašinėti kadrų dažnį profiliuojant.">
