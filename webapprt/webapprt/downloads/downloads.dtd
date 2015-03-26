@@ -11,14 +11,16 @@ file names and tall enough to hint that there are more downloads in the list -->
 <!ENTITY starting.label                   "തുടങ്ങുന്നു">
 <!ENTITY scanning.label                   "വൈറസുകള്‍ക്കു വേണ്ടി സ്കാന്‍ ചെയ്യുന്നു…">
 
+<!ENTITY downloads.title                  "ഡൌണ്‍ലോഡുകള്‍">
 
-
-
-
+<!ENTITY cmd.pause.label                  "തല്‍ക്കാലത്തേക്ക് നിര്‍ത്തുക">
+<!ENTITY cmd.pause.accesskey              "ത">
+<!ENTITY cmd.resume.label                 "വീണ്ടും ആരംഭിയ്ക്കുക">
+<!ENTITY cmd.resume.accesskey             "ആ">
 <!ENTITY cmd.cancel.label                 "റദ്ദാക്കുക">
 <!ENTITY cmd.cancel.accesskey             "C">
-
-
+<!ENTITY cmd.show.label                   "ഇതടങ്ങുന്ന ഫോള്‍ഡര്‍ തുറക്കുക">
+<!ENTITY cmd.show.accesskey               "ഡ">
 <!ENTITY cmd.showMac.label                "തിരച്ചല്‍ സംവിധാനത്തില്‍ കാണിക്കുക">
 <!ENTITY cmd.showMac.accesskey            "F">
 <!ENTITY cmd.open.label                   "തുറക്കുക">
