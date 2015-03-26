@@ -23,13 +23,13 @@
 <!ENTITY useSmoothScrolling.accesskey    "л">
 <!ENTITY allowHWAccel.label              "Използване на хардуерно ускоряване, ако е налично">
 <!ENTITY allowHWAccel.accesskey          "х">
-<!ENTITY checkSpelling.label             "Проверка на правописа по време на въвеждане">
+<!ENTITY checkSpelling.label             "Проверка на правописа при въвеждане">
 <!ENTITY checkSpelling.accesskey         "П">
 
 <!ENTITY dataChoicesTab.label            "Данни">
 
 <!ENTITY healthReportDesc.label          "Помага за разбирането на производителността на браузъра и поделя данни с &vendorShortName; за изправността му">
-<!ENTITY enableHealthReport.label        "Включване доклада за изправност на &brandShortName;">
+<!ENTITY enableHealthReport.label        "Включване на Доклада за изправност на &brandShortName;">
 <!ENTITY enableHealthReport.accesskey    "R">
 <!ENTITY healthReportLearnMore.label     "Научете повече">
 
@@ -47,7 +47,7 @@
 
 <!ENTITY connection.label                "Свързване">
 
-<!ENTITY connectionDesc.label            "Настройване на начина, по който &brandShortName; се свързва с Интернет">
+<!ENTITY connectionDesc.label            "Конфигуриране на начина, по който &brandShortName; се свързва с Интернет">
 <!ENTITY connectionSettings.label        "Настройки…">
 <!ENTITY connectionSettings.accesskey    "Н">
 
