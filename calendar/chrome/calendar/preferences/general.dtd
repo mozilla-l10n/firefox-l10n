@@ -22,7 +22,7 @@
 <!ENTITY pref.tasks.label "Taken">
 
 <!ENTITY pref.default_event_length.label "Standert djoer:" >
-<!ENTITY pref.default_event_length.accesskey "E">
+<!ENTITY pref.default_event_length.accesskey "e">
 
 <!ENTITY pref.default_task_none.label "Gjin">
 <!ENTITY pref.default_task_start_of_day.label "Begjin fan de dei">
@@ -32,6 +32,10 @@
 <!ENTITY pref.default_task_offset_current.label "Relatyf oan aktuele tiid">
 <!ENTITY pref.default_task_offset_start.label "Relatyf oan begjin">
 <!ENTITY pref.default_task_offset_next_hour.label "Relatyf oan folgjende oere">
+
+<!ENTITY pref.calendar.todaypane.agenda.caption "Finster Hjoed">
+<!ENTITY pref.soondays.label "De oansteande seksje toant:">
+<!ENTITY pref.soondays.accesskey "a">
 
 <!ENTITY pref.accessibility.label "Tagonklikheid" >
 <!ENTITY pref.systemcolors.label "Kleuren optimalisearje foar tagonklikheid" >
