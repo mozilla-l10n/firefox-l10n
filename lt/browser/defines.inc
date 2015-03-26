@@ -9,6 +9,6 @@
 
 # variable definition and use the format specified.
 
-#define MOZ_LANGPACK_CONTRIBUTORS <em:contributor>Gintautas Grigas</em:contributor> <em:contributor>Tatjana Jevsikova</em:contributor> <em:contributor>Rimas Kudelis</em:contributor> <em:contributor>Sigita Pedzevičienė</em:contributor>
+#define MOZ_LANGPACK_CONTRIBUTORS <em:contributor>Gintautas Grigas</em:contributor> <em:contributor>Tatjana Jevsikova</em:contributor> <em:contributor>Rimas Kudelis</em:contributor> <em:contributor>Sigita Pedzevičienė</em:contributor> <em:contributor>Paulius Andriekus</em:contributor>
 
 #unfilter emptyLines
