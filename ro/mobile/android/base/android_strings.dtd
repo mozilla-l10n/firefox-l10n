@@ -21,8 +21,8 @@
 <!ENTITY  switch_to_tab "Comută la filă">
 
 <!ENTITY  crash_reporter_title "Raportor de defecte în &brandShortName;">
-<!ENTITY  crash_message2 "&brandShortName; a avut o problemă și s-a închis neașteptat. Filele ar trebui să fie listate pe pagina de start &brandShortName; când repornești navigatorul.">
-<!ENTITY  crash_send_report_message3 "Spune-i lui &vendorShortName; despre această defecțiune astfel să o poată remedia">
+<!ENTITY  crash_message2 "&brandShortName; a avut o problemă și s-a închis neașteptat. Filele ar trebui să fie listate pe pagina de start &brandShortName; după ce repornești navigatorul.">
+<!ENTITY  crash_send_report_message3 "Notifică &vendorShortName; despre această defecțiune astfel încât să o poată remedia">
 <!ENTITY  crash_include_url2 "Include adresa paginii pe care am fost">
 <!ENTITY  crash_sorry "Ne pare rău">
 <!ENTITY  crash_comment "Adaugă un comentariu (comentariile sunt vizibile publicului)">
@@ -111,7 +111,7 @@
      to. -->
 
 <!ENTITY overlay_share_send_tab_btn_label "Trimite către un alt dispozitiv">
-<!ENTITY overlay_share_no_url "Nicio legătură nu a fost găsită">
+<!ENTITY overlay_share_no_url "Nicio legătură nu a fost găsită în această partajare">
 <!ENTITY overlay_share_retry "Încearcă din nou">
 <!ENTITY overlay_share_select_device "Selectează un dispozitiv">
 
