@@ -76,7 +76,8 @@
 <!ENTITY calendar.navigation.nextmonth.tooltip  "Jaden mjasec doprědka" >
 <!ENTITY calendar.navigation.prevmonth.tooltip  "Jaden mjasec slědk" >
 
-
+<!ENTITY calendar.newevent.button.label         "Nowe tšojenje" >
+<!ENTITY calendar.newtask.button.label          "Nowy nadawk" >
 
 
 
