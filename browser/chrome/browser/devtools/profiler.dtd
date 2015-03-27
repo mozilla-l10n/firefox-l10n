@@ -87,6 +87,8 @@
   -  label for the checkbox that toggles the flattening of tree recursion in inspected
   -  functions in the profiler. -->
 
+<!ENTITY profilerUI.flattenTreeRecursion             "Berdindu zuhaitzen errekurtsioa">
+<!ENTITY profilerUI.flattenTreeRecursion.tooltiptext "Berdindu errekurtsioa funtzioak ikuskatzean.">
 <!-- LOCALIZATION NOTE (profilerUI.enableMemory): This string
   -  is displayed next to a checkbox determining whether or not memory
   -  measurements are enabled. -->
