@@ -34,8 +34,8 @@
 <!ENTITY healthReportLearnMore.label     "और जानें">
 
 <!ENTITY telemetryDesc.label             "&vendorShortName; के साथ &brandShortName; को बेहतर बनाने के लिए प्रदर्शन, प्रयोग, हार्डवेयर और पसंदीदाकरण आँकड़े को अपने ब्राउज़र के साथ साझा करते हैं">
-
-
+<!ENTITY enableTelemetryData.label       "अतिरिक्त डाटा साझा करें (यानी, टेलीमिति)">
+<!ENTITY enableTelemetryData.accesskey   "T">
 <!ENTITY telemetryLearnMore.label        "और जानें">
 
 <!ENTITY crashReporterDesc.label         "&brandShortName; क्रैश रिपोर्ट सौंपता है ताकि &vendorShortName; की मदद आपके ब्राउज़र को अधिक स्थायित्व और सुरक्षित बनाने में हो">
