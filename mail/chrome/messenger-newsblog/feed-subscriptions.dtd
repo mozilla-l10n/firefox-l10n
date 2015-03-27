@@ -22,7 +22,7 @@
 <!ENTITY quickMode.accesskey         "ص">
 
 <!ENTITY autotagEnable.label         "أنشئ وسومًا تلقائيًا من أسماء فئات التلقيمات">
-<!ENTITY autotagEnable.accesskey     "c">
+<!ENTITY autotagEnable.accesskey     "ت">
 <!ENTITY autotagUsePrefix.label      "ضع قبل أسماء الوسوم:">
 <!ENTITY autotagUsePrefix.accesskey  "س">
 <!ENTITY autoTagPrefix.placeholder   "أدخل سابقة الوسوم">
