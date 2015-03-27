@@ -8,8 +8,8 @@
 <!ENTITY  language.accesskey                      "t">
 
 <!ENTITY  size.label                              "Meud:">
-
-
+<!ENTITY  sizeProportional.accesskey              "e">
+<!ENTITY  sizeMonospace.accesskey                 "i">
 
 <!ENTITY  proportional.label                      "Co-rèireach:">
 <!ENTITY  proportional.accesskey                  "C">
@@ -22,6 +22,8 @@
 <!ENTITY  monospace.accesskey                     "C">
 <!-- LOCALIZATION NOTE (font.langGroup.latin) :
      Translate "Latin" as the name of Latin (Roman) script, not as the name of the Latin language. -->
+
+<!ENTITY  font.langGroup.latin                    "Laideann">
 <!ENTITY  font.langGroup.japanese                 "Seapanais">
 <!ENTITY  font.langGroup.trad-chinese             "Sìnis thradaiseanta (Taidh-Bhàn)">
 <!ENTITY  font.langGroup.simpl-chinese            "Sìnis shimplichte">
@@ -29,7 +31,7 @@
 <!ENTITY  font.langGroup.korean                   "Coireanais">
 <!ENTITY  font.langGroup.cyrillic                 "Cirilis">
 <!ENTITY  font.langGroup.el                       "Greugais">
-
+<!ENTITY  font.langGroup.other                    "Dòighean-litreachaidh eile">
 <!ENTITY  font.langGroup.thai                     "Tàidh">
 <!ENTITY  font.langGroup.hebrew                   "Eabhra">
 <!ENTITY  font.langGroup.arabic                   "Arabais">
@@ -44,11 +46,11 @@
 <!ENTITY  font.langGroup.gurmukhi                 "Gurmukhi">
 <!ENTITY  font.langGroup.khmer                    "Cmèar">
 <!ENTITY  font.langGroup.malayalam                "Malayalam">
-
-
-
-
-
+<!ENTITY  font.langGroup.oriya                    "Oriya">
+<!ENTITY  font.langGroup.telugu                   "Telugu">
+<!ENTITY  font.langGroup.kannada                  "Kannada">
+<!ENTITY  font.langGroup.sinhala                  "Sinhala">
+<!ENTITY  font.langGroup.tibetan                  "Tibeitis">
 <!-- Minimum font size -->
 <!ENTITY minSize.label                            "Meud as lugha a' chrutha-chlò:">
 <!ENTITY minSize.accesskey                        "M">
