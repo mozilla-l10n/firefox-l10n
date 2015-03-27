@@ -130,7 +130,7 @@ functionality specific to firefox. -->
 <!ENTITY errorReporting.automatic "自动回报未来的错误">
 <!ENTITY errorReporting.learnMore "详细了解…">
 <!ENTITY errorReporting.sending "正在发送报告">
-<!ENTITY errorReporting.sent "已发送的报告">
+<!ENTITY errorReporting.sent "报告已发送">
 <!ENTITY errorReporting.report "报告">
 <!ENTITY errorReporting.tryAgain "重试">
 

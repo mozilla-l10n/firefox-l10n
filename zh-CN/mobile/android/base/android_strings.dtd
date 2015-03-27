@@ -513,7 +513,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY bookmarkhistory_import_history "正在从 Android 导入历史记录">
 <!ENTITY bookmarkhistory_import_wait "请稍候...">
 
-<!ENTITY suggestions_prompt3 "您是否要打开搜索建议？">
+<!ENTITY suggestions_prompt3 "您是否要开启搜索建议？">
 <!-- Localization note (suggestion_for_engine): The placeholder &formatS1; will be
      replaced with the name of the search engine. The placeholder &formatS2; will be
      replaced with the search query. -->
