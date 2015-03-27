@@ -33,6 +33,8 @@
 <!ENTITY options.disableJavaScript.tooltip "Attivando questa opzione JavaScript verrà disattivato per la scheda corrente. Se la scheda o gli strumenti di sviluppo vengono chiusi l’impostazione verrà rimossa.">
 <!ENTITY options.disableCache.label2 "Disattiva cache (quando gli strumenti sono aperti)">
 <!ENTITY options.disableCache.tooltip2 "Attivando questa opzione la cache verrà disattivata per tutte le schede in cui sono aperti gli strumenti di sviluppo.">
+<!ENTITY options.enableServiceWorkersTesting.label "Attiva test Service workers (quando la cassetta degli attrezzi è aperta)">
+<!ENTITY options.enableServiceWorkersTesting.tooltip "Attivando questa opzione verranno attivate le funzionalità di test per Service workers in tutte le schede dove la cassetta degli attrezzi è aperta.">
 <!ENTITY options.selectDefaultTools.label "Strumenti di sviluppo predefiniti di Firefox">
 <!ENTITY options.selectAdditionalTools.label "Strumenti di sviluppo installati da componenti aggiuntivi">
 <!ENTITY options.selectEnabledToolboxButtons.label "Pulsanti disponibili">
