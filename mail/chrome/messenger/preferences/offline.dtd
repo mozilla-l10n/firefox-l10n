@@ -11,8 +11,8 @@
 <!ENTITY radioRememberPrevState.accesskey "h">
 <!ENTITY radioAskState.label "My de onlinetastân freegje">
 <!ENTITY radioAskState.accesskey "M">
-<!ENTITY radioAlwaysOnline.label "Altyd online opstarte">
-<!ENTITY radioAlwaysOnline.accesskey "o">
+<!ENTITY radioAlwaysOnlineState.label "Online">
+<!ENTITY radioAlwaysOnlineState.accesskey "O">
 <!ENTITY radioAlwaysOffline.label "Altyd offline opstarte">
 <!ENTITY radioAlwaysOffline.accesskey "f">
 

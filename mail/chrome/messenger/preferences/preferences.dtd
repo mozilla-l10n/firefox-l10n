@@ -7,7 +7,7 @@
 <!ENTITY  prefWindow.titleMAC     "Foarkarren">
 <!ENTITY prefWindow.styleWindows  "width: 55em; min-height: 41em;">
 <!ENTITY prefWindow.styleMac      "width: 56em;">
-<!ENTITY prefWindow.styleGNOME    "width: 55em; min-height: 38em;">
+<!ENTITY prefWindow.styleGNOME    "width: 60em; min-height: 38em;">
 
 <!ENTITY paneGeneral.title        "Algemien">
 <!ENTITY paneDisplay.title        "Werjefte">
@@ -17,3 +17,7 @@
 <!ENTITY panePrivacy.title        "Privacy">
 <!ENTITY paneSecurity.title       "Feilichheid">
 <!ENTITY paneAdvanced.title       "Avansearre">
+<!ENTITY paneAccount.title        "Accounts">
+
+<!ENTITY okButton.title           "OK">
+<!ENTITY okButton.accesskey       "O">
