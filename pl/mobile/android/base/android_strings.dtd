@@ -172,6 +172,10 @@ selected to be added to the home page. -->
 
 <!ENTITY tab_queue_toast_message "Otwórz później">
 <!ENTITY tab_queue_toast_action "Otwórz teraz">
+<!ENTITY tab_queue_notification_text_plural "Skolejkowanych kart: &formatD;">
+<!ENTITY tab_queue_notification_title_plural "Skolejkowane karty">
+<!ENTITY tab_queue_notification_title_singular "Skolejkowana karta">
+<!ENTITY tab_queue_notification_text_singular "Jedna skolejkowana karta">
 
 <!ENTITY pref_char_encoding "Kodowanie znaków">
 <!ENTITY pref_char_encoding_on "Pokazuj">
