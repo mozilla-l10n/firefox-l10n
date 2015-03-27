@@ -44,6 +44,6 @@
 <!ENTITY  noproxyExplain.label          "Exemplu: .mozilla.org, .net.nz, 192.168.1.0/24">
 <!ENTITY  shareproxy.label              "Folosește acest proxy pentru toate protocoalele">
 <!ENTITY  shareproxy.accesskey          "x">
-<!ENTITY  autologinproxy.label          "Nu se cere pentru autentificarea dacă parola este salvată">
+<!ENTITY  autologinproxy.label          "Nu se cer pentru autentificare dacă parola este salvată">
 <!ENTITY  autologinproxy.accesskey      "i">
 <!ENTITY  autologinproxy.tooltip        "Această opțiune vă autentifică silențios la proxy-uri atunci când ați salvat acreditările pentru ele. Vi se vor solicita dacă autentificarea nu reușește.">
