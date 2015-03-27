@@ -15,8 +15,8 @@
 <!ENTITY allowHWAccel.accesskey "K">
 <!ENTITY storeType.label "Sposób przechowywania wiadomości:">
 <!ENTITY storeType.accesskey "S">
-<!ENTITY mboxStore.label "jeden duży plik (mbox)">
-<!ENTITY maildirStore.label "osobne pliki (maildir)">
+<!ENTITY mboxStore2.label "plik na folder (mbox)">
+<!ENTITY maildirStore.label "plik na wiadomość (maildir)">
 <!ENTITY scrolling.label "Przewijanie">
 <!ENTITY useAutoScroll.label "Używaj automatycznego przewijania">
 <!ENTITY useAutoScroll.accesskey "U">
