@@ -822,7 +822,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY panicButton.thankyou.msg2                "¡Navega con cuidado!">
 <!ENTITY panicButton.thankyou.buttonlabel         "¡Gracias!">
 
-
+<!ENTITY processHang.terminateScript.label        "Detener script">
+<!ENTITY processHang.terminateScript.accessKey    "s">
 <!ENTITY processHang.debugScript.label            "Depurar script">
 <!ENTITY processHang.debugScript.accessKey        "D">
 <!ENTITY processHang.terminatePlugin.label        "Matar Plugin">
@@ -843,6 +844,9 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- Pre-landed string for bug 1124153 -->
 <!ENTITY readingList.sidebar.showMore.label       "Mostrar más…">
 <!-- Pre-landed string for bug 1133662 -->
+<!ENTITY readingList.sidebar.emptyText            "Agrega artículos a tu lista de lectura para leerlos después y encontrarlos fácilmente cuando los necesites.">
 <!-- Pre-landed string for bug 1123525 -->
+<!ENTITY readingList.sidebar.delete.tooltip       "Quitar esto de tu lista de lectura">
 <!-- Pre-landed strings for bug 1123519 -->
-
+<!ENTITY readingList.sidebar.add.label            "Agregar a la lista de lectura">
+<!ENTITY readingList.sidebar.add.tooltip          "Agregar esta página a la lista de lectura">
