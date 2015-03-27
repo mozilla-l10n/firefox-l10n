@@ -41,20 +41,20 @@
 <!ENTITY deleteOnServer2.label "Até eu os eliminar">
 <!ENTITY deleteOnServer2.accesskey "A">
 <!ENTITY downloadOnBiff.label "Transferir novas mensagens automaticamente">
-<!ENTITY downloadOnBiff.accesskey	"r">
+<!ENTITY downloadOnBiff.accesskey "r">
 <!ENTITY username.label "Nome de acesso">
 <!ENTITY deleteMessagePrefix.label "Se eu eliminar uma mensagem:">
 <!ENTITY modelMoveToTrash.label "Mover para esta pasta:">
 <!ENTITY modelMoveToTrash.accesskey "o">
 <!ENTITY modelMarkDeleted.label "Marcar como eliminada">
 <!ENTITY modelMarkDeleted.accesskey	"e">
-<!ENTITY modelDeleteImmediately.label	"Remover imediatamente">
+<!ENTITY modelDeleteImmediately.label "Remover imediatamente">
 <!ENTITY modelDeleteImmediately.accesskey "d">
 <!-- LOCALIZATION NOTE (expungeOnExit.label) : do not translate two of "&quot;" in below line -->
-<!ENTITY expungeOnExit.label	"Limpar mensagens (&quot;eliminadas&quot;) da caixa de entrada ao sair">
+<!ENTITY expungeOnExit.label "Limpar mensagens (&quot;eliminadas&quot;) da caixa de entrada ao sair">
 <!ENTITY expungeOnExit.accesskey "E">
 <!ENTITY emptyTrashOnExit.label "Esvaziar lixo ao sair">
-<!ENTITY emptyTrashOnExit.accesskey	"x">
+<!ENTITY emptyTrashOnExit.accesskey "x">
 <!ENTITY loginAtStartup.label "Procurar novas mensagens ao iniciar">
 <!ENTITY loginAtStartup.accesskey "P">
 <!-- LOCALIZATION NOTE (maxMessagesStart.label) : translate below 2 lines with grammar dependency
@@ -65,18 +65,18 @@
 <!ENTITY maxMessagesStart.accesskey "t">
 <!-- LOCALIZATION NOTE (maxMessagesEnd.label) : see note for maxMessagesStart.label -->
 <!ENTITY maxMessagesEnd.label "mensagens">
-<!ENTITY alwaysAuthenticate.label	"Pedir sempre autenticação ao ligar a este servidor">
+<!ENTITY alwaysAuthenticate.label "Pedir sempre autenticação ao ligar a este servidor">
 <!ENTITY alwaysAuthenticate.accesskey "ç">
 <!ENTITY newsrcFilePath.label "Ficheiro newsrc:">
 <!ENTITY newsrcPicker.label "Selecione o ficheiro newsrc">
 <!ENTITY abbreviate.label "Mostrar nome do grupos de notícias no painel de correio como:">
-<!ENTITY abbreviateOn.label "Nome completo (Por exemplo: netscape.public.mozilla.mail-news)">
-<!ENTITY abbreviateOff.label "Nome abreviado (Por exemplo: n.p.m.mail-news)">
-<!ENTITY advancedButton.label "Avançadas...">
+<!ENTITY abbreviateOn.label "Nome completo (por exemplo: netscape.public.mozilla.mail-news)">
+<!ENTITY abbreviateOff.label "Nome abreviado (por exemplo: n.p.m.mail-news)">
+<!ENTITY advancedButton.label "Avançado...">
 <!ENTITY advancedButton.accesskey "a">
 <!ENTITY serverDefaultCharset2.label "Codificação pré-definida:">
 <!ENTITY localPath.label "Diretório local:">
-<!ENTITY localFolderPicker.label "Escolha o diretório">
+<!ENTITY localFolderPicker.label "Escolha o diretório local">
 <!ENTITY browseFolder.label "Procurar...">
 <!ENTITY browseFolder.accesskey "P">
 <!ENTITY browseNewsrc.label "Procurar...">
@@ -86,5 +86,5 @@
 <!ENTITY accountSettingsDesc.label "Esta é uma conta especial. Não existem quaisquer identidades associadas.">
 <!ENTITY storeType.label "Tipo de armazenamento das mensagens:">
 <!ENTITY storeType.accesskey "T">
-<!ENTITY mboxStore2.label "Ficheiro por pasta (mbox)">
-<!ENTITY maildirStore.label "Ficheiro por cada mensagem (maildir)">
+<!ENTITY mboxStore.label "Ficheiro por pasta (mbox)">
+<!ENTITY maildirStore.label "Ficheiro por mensagem (maildir)">
