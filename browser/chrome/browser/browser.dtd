@@ -241,7 +241,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY browserConsoleCmd.accesskey  "C">
 
 <!ENTITY inspectContextMenu.label     "Inspectează elementul">
-<!ENTITY inspectContextMenu.accesskey "Q">
+<!ENTITY inspectContextMenu.accesskey "S">
 
 <!ENTITY responsiveDesignTool.label   "Vizualizare design receptiv">
 <!ENTITY responsiveDesignTool.accesskey "r">
@@ -430,7 +430,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (changeSearchSettings.button):
      This string won't wrap, so if the translated string is longer,
      consider translating it as if it said only "Search Settings". -->
-<!ENTITY changeSearchSettings.button  "Schimbați setările de căutare">
+<!ENTITY changeSearchSettings.button  "Schimbare setări de căutare">
 
 <!ENTITY tabView.commandkey           "e">
 
@@ -739,10 +739,10 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY customizeMode.lwthemes.myThemes "Temele mele">
 <!ENTITY customizeMode.lwthemes.recommended "Recomandate">
 <!ENTITY customizeMode.lwthemes.menuManage "Gestionează">
-<!ENTITY customizeMode.lwthemes.menuManage.accessKey "M">
+<!ENTITY customizeMode.lwthemes.menuManage.accessKey "G">
 <!ENTITY customizeMode.lwthemes.menuGetMore "Obține mai multe teme">
-<!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "G">
-<!ENTITY customizeMode.deveditionTheme.label2 "Folosiți tema Developer Edition">
+<!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "T">
+<!ENTITY customizeMode.deveditionTheme.label2 "Folosește tema Developer Edition">
 
 <!ENTITY social.chatBar.commandkey "c">
 <!ENTITY social.chatBar.label "Adu discuțiile în față">
@@ -818,16 +818,16 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      The translation should do the same. -->
 
 <!ENTITY panicButton.view.mainActionDesc          "Dacă veți continua:">
-<!ENTITY panicButton.view.deleteCookies           "Ștergeți <html:strong>cookie-urile</html:strong> recente">
-<!ENTITY panicButton.view.deleteHistory           "Ștergeți <html:strong>istoricul</html:strong>recent">
-<!ENTITY panicButton.view.deleteTabsAndWindows    "Închideți toate<html:strong>filele</html:strong> și <html:strong>ferestrele</html:strong>">
-<!ENTITY panicButton.view.openNewWindow           "Deschideți o nouă fereastră goală">
+<!ENTITY panicButton.view.deleteCookies           "Se șterg <html:strong>cookie-urile</html:strong> recente">
+<!ENTITY panicButton.view.deleteHistory           "Se șterge <html:strong>istoricul</html:strong>recent">
+<!ENTITY panicButton.view.deleteTabsAndWindows    "Se închid toate<html:strong>filele</html:strong> și <html:strong>ferestrele</html:strong>">
+<!ENTITY panicButton.view.openNewWindow           "Se deschide o nouă fereastră goală">
 
 <!ENTITY panicButton.view.undoWarning             "Acțiunea este ireversibilă.">
 <!ENTITY panicButton.view.forgetButton            "Uită!">
 
-<!ENTITY panicButton.thankyou.msg1                "Istoricul dumnevoastră recent este șters.">
-<!ENTITY panicButton.thankyou.msg2                "Navigare sigură!">
+<!ENTITY panicButton.thankyou.msg1                "Istoricul dumnevoastră recent a fost șters.">
+<!ENTITY panicButton.thankyou.msg2                "Navigare în siguranță!">
 <!ENTITY panicButton.thankyou.buttonlabel         "Mulțumim!">
 
 <!ENTITY processHang.terminateScript.label        "Oprire script">
