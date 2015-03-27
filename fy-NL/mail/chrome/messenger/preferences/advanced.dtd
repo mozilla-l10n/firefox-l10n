@@ -3,20 +3,21 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY itemGeneral.label       			"Algemien">
-<!ENTITY itemDisplay.label       			"Lêze &amp; Toane">
+<!ENTITY dataChoicesTab.label    			"Gegevenskar">
+<!ENTITY itemDisplay.label       			"Lêze &amp; werjefte">
 <!ENTITY itemUpdate.label        			"Fernijing">
 <!ENTITY itemNetworking.label    			"Netwurk &amp; skiifromte">
 <!ENTITY itemCertificates.label  			"Sertifikaten">
 
 <!-- General Settings -->
-
-<!ENTITY submitTelemetry.label         		"Prestaasjegegevens ferstjoere">
-<!ENTITY submitTelemetry.accesskey     		"P">
-<!ENTITY telemetryInfoLink.label       		"Mear ynformaasje oer Telemetry">
 <!ENTITY enableGlodaSearch.label            "Globaal sykje en yndeksearder ynskeakelje">
 <!ENTITY enableGlodaSearch.accesskey        "y">
 <!ENTITY allowHWAccel.label            		"Hardwarefersnelling brûke wannear beskikber">
 <!ENTITY allowHWAccel.accesskey        		"f">
+<!ENTITY storeType.label               		"Type berjochtenopslach foar nije accounts:">
+<!ENTITY storeType.accesskey           		"b">
+<!ENTITY mboxStore.label              		"Ien grut bestân (mbox)">
+<!ENTITY maildirStore.label           		"Ien bestân per berjocht (maildir)">
 
 <!ENTITY scrolling.label               		"Skowe">
 <!ENTITY useAutoScroll.label           		"Automatysk skowe brûke">
@@ -37,6 +38,19 @@
 <!ENTITY returnReceiptsInfo.label      		"Bepale hoe't &brandShortName; omgiet mei lêsbefestigingen">
 <!ENTITY showReturnReceipts.label      		"Lêsbefestigingen…">
 <!ENTITY showReturnReceipts.accesskey  		"L">
+
+<!-- Data Choices -->
+<!ENTITY telemetrySection.label          "Telemetry">
+<!ENTITY telemetryDesc.label             "Dielt gegevens oer prestaasjes, hardware, gebrûk en oanpassingen fan jo e-mailclient mei &vendorShortName; om &brandShortName; helpe te ferbetterjen">
+<!ENTITY enableTelemetry.label           "Telemetry ynskeakelje">
+<!ENTITY enableTelemetry.accesskey       "T">
+<!ENTITY telemetryLearnMore.label        "Mear ynfo">
+
+<!ENTITY crashReporterSection.label      "Crashreporter">
+<!ENTITY crashReporterDesc.label         "&brandShortName; ferstjoert crashrapporten om &vendorShortName; te helpen jo e-mailclient stabiler en feiliger te meitsjen">
+<!ENTITY enableCrashReporter.label       "Crashreporter ynskeakelje">
+<!ENTITY enableCrashReporter.accesskey   "C">
+<!ENTITY crashReporterLearnMore.label    "Mear ynfo">
 
 <!-- Display and Reading Settings -->
 <!ENTITY reading.caption                	"Lêze">
@@ -74,7 +88,7 @@
 <!ENTITY updateManual.accesskey          "N">
 <!ENTITY updateAutoAddonWarn.label       "Warskôgje my as dit ien fan myn tafoegingen útskeakelje sil">
 <!ENTITY updateAutoAddonWarn.accesskey   "W">
-<!ENTITY updateHistory.label             "Toan fernijingsskiednis">
+<!ENTITY updateHistory.label             "Fernijingsskiednis toane">
 <!ENTITY updateHistory.accesskey         "s">
 
 <!ENTITY useService.label                "In achtergrûntsjinst brûke om fernijingen te ynstallearjen">
@@ -82,7 +96,7 @@
 
 <!-- Networking and Disk Space -->
 <!ENTITY showSettings.label         		"Ynstellingen…">
-<!ENTITY showSettings.accesskey    			"n">
+<!ENTITY showSettings.accesskey    			"Y">
 <!ENTITY proxiesConfigure.label				"Konfigurearje hoe't &brandShortName; ferbining makket mei it ynternet">
 <!ENTITY connectionsInfo.caption			"Ferbining">
 <!ENTITY offlineInfo.caption				"Sûnder ferbining">
@@ -101,9 +115,9 @@
 
   &useCacheBefore.label  [ textbox for cache size in MB ]   &useCacheAfter.label;
 -->
-<!ENTITY useCacheBefore.label            	"Brûk oant">
-<!ENTITY useCacheBefore.accesskey        	"o">
-<!ENTITY useCacheAfter.label             	"MB skiifromte foar de buffer">
+<!ENTITY useCacheBefore.label            	"Oant">
+<!ENTITY useCacheBefore.accesskey        	"O">
+<!ENTITY useCacheAfter.label             	"MB skiifromte brûke foar de buffer">
 <!ENTITY clearCacheNow.label             	"No wiskje">
 <!ENTITY clearCacheNow.accesskey         	"N">
 
@@ -111,12 +125,12 @@
 <!ENTITY certSelection.description       "As in tsjinner freget om myn persoanlike sertifikaat:">
 <!ENTITY certs.auto                      "Selektearje automatysk ien">
 <!ENTITY certs.auto.accesskey            "m">
-<!ENTITY certs.ask                       "Freegje my altyd">
+<!ENTITY certs.ask                       "My altyd freegje">
 <!ENTITY certs.ask.accesskey             "a">
-<!ENTITY enableOCSP.label                "Freegje OCSP-responderservers om de aktuele faliditeit fan sertifikaten te befêstigjen">
+<!ENTITY enableOCSP.label                "OCSP-responderservers freegje om de aktuele faliditeit fan sertifikaten te befêstigjen">
 <!ENTITY enableOCSP.accesskey            "F">
 
-<!ENTITY viewCertificates.label         	"Toan sertifikaten">
+<!ENTITY viewCertificates.label         	"Sertifikaten besjen">
 <!ENTITY viewCertificates.accesskey     	"S">
 <!ENTITY viewSecurityDevices.label      	"Befeiligingsapparaten">
 <!ENTITY viewSecurityDevices.accesskey  	"B">

@@ -21,19 +21,17 @@
 <!ENTITY  monospace.label                         "Monospace:">
 <!ENTITY  monospace.accesskey                     "M">
 
-<!ENTITY  font.langGroup.latin1                   "Westers">
-<!ENTITY  font.langGroup.latin2                   "Sintraal-Europeesk">
+<!-- LOCALIZATION NOTE (font.langGroup.latin) :
+     Translate "Latin" as the name of Latin (Roman) script, not as the name of the Latin language. -->
+<!ENTITY  font.langGroup.latin                    "Latynsk">
 <!ENTITY  font.langGroup.japanese                 "Japansk">
 <!ENTITY  font.langGroup.trad-chinese             "Tradisjoneel Sineesk (Taiwan)">
 <!ENTITY  font.langGroup.simpl-chinese            "Ferienfâldige Sineesk">
 <!ENTITY  font.langGroup.trad-chinese-hk          "Tradisjoneel Sineesk (Hong Kong)">
 <!ENTITY  font.langGroup.korean                   "Koreaansk">
 <!ENTITY  font.langGroup.cyrillic                 "Syrillysk">
-<!ENTITY  font.langGroup.baltic                   "Baltysk">
 <!ENTITY  font.langGroup.el                       "Gryksk">
-<!ENTITY  font.langGroup.turkish                  "Turks">
-<!ENTITY  font.langGroup.unicode1                 "Unikoade">
-<!ENTITY  font.langGroup.user-def                 "Troch brûker definiearre">
+<!ENTITY  font.langGroup.other                    "Oare skriftsystemen">
 <!ENTITY  font.langGroup.thai                     "Taisk">
 <!ENTITY  font.langGroup.hebrew                   "Hebrieusk">
 <!ENTITY  font.langGroup.arabic                   "Arabysk">
@@ -48,7 +46,11 @@
 <!ENTITY  font.langGroup.gurmukhi                 "Gurmukhi">
 <!ENTITY  font.langGroup.khmer                    "Khmer">
 <!ENTITY  font.langGroup.malayalam                "Malayalam">
-
+<!ENTITY  font.langGroup.oriya                    "Oriya">
+<!ENTITY  font.langGroup.telugu                   "Telugu">
+<!ENTITY  font.langGroup.kannada                  "Kannada">
+<!ENTITY  font.langGroup.sinhala                  "Singaleesk">
+<!ENTITY  font.langGroup.tibetan                  "Tibetaansk">
 <!-- Minimum font size -->
 <!ENTITY minSize.label                            "Minimale lettergrutte:">
 <!ENTITY minSize.accesskey                        "n">
@@ -59,9 +61,9 @@
 <!ENTITY  useDefaultFontSansSerif.label           "Skreefleas">
 
 <!-- fonts in message -->
-<!ENTITY  fontControl.label                       "Lettertype ynstellingen">
-<!ENTITY  useFixedWidthForPlainText.label         "Brûk fêstebreedtelettertype foar platte tekstberjochten">
-<!ENTITY  fixedWidth.accesskey                    "f">
+<!ENTITY  fontControl.label                       "Lettertype-ynstellingen">
+<!ENTITY  useFixedWidthForPlainText.label         "Fêstebreedtelettertype brûke foar platte tekstberjochten">
+<!ENTITY  fixedWidth.accesskey                    "F">
 <!ENTITY  useDocumentFonts.label                  "Berjochten tastean om oare lettertypen te brûken">
 <!ENTITY  useDocumentFonts.accesskey              "a">
 

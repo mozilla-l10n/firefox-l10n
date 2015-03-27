@@ -4,7 +4,7 @@
 
 <!-- extracted from am-server-top.xul -->
 
-<!ENTITY messageStorage.label "Berjochtenopslach">
+<!ENTITY messageStorage.label "Berjochteopslach">
 <!ENTITY securitySettings.label "Befeiligingsynstellingen">
 <!ENTITY serverSettings.label "Tsjinnerynstellingen">
 <!ENTITY serverType.label "Tsjinnertype:">
@@ -84,3 +84,7 @@
 
 <!ENTITY accountTitle.label "Accountynstellingen">
 <!ENTITY accountSettingsDesc.label "Dit is in spesjaal account. Der binne gjin identiteiten mei ferbûn.">
+<!ENTITY storeType.label "Type berjochteopslach:">
+<!ENTITY storeType.accesskey "T">
+<!ENTITY mboxStore.label "Ien grut bestân (mbox)">
+<!ENTITY maildirStore.label "Ien bestân per berjocht (maildir)">
