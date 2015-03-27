@@ -15,7 +15,7 @@ This is likely the same like id.heading in crashes.dtd. -->
 <!ENTITY aboutSupport.crashes.id "ID raport">
 <!ENTITY aboutSupport.crashes.sendDate "Trimis">
 <!ENTITY aboutSupport.crashes.allReports "Toate rapoartele de eroare">
-<!ENTITY aboutSupport.crashes.noConfig "Această aplicație nu a fost configurată pentru afișarea rapoartelor de eroare.">
+<!ENTITY aboutSupport.crashes.noConfig "Această aplicație nu a fost configurată pentru afișarea rapoartelor de defecte.">
 
 <!ENTITY aboutSupport.extensionsTitle "Suplimente">
 <!ENTITY aboutSupport.extensionName "Nume">
