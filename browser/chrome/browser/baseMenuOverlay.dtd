@@ -14,9 +14,9 @@
                        for the help button in the menubar but Gnome does not.   -->
 <!ENTITY helpMenuWin.label        "Laguntza"> 
 <!ENTITY helpMenuWin.accesskey    "L">
-<!ENTITY aboutProduct2.label      "&brandShortName;(r)i buruz">
+<!ENTITY aboutProduct2.label      "&brandShorterName;(r)i buruz">
 <!ENTITY aboutProduct2.accesskey  "b">
-<!ENTITY productHelp2.label       "&brandShortName;(r)en laguntza">
+<!ENTITY productHelp2.label       "&brandShorterName;(r)en laguntza">
 <!ENTITY productHelp2.accesskey   "l">
 <!ENTITY helpMac.commandkey       "?">
 
@@ -26,8 +26,8 @@
 <!ENTITY helpSafeMode.label       "Berrabiarazi gehigarriak desgaituta…">
 <!ENTITY helpSafeMode.accesskey   "r">
 
-<!ENTITY healthReport2.label      "&brandShortName; osasun-txostena">
-<!ENTITY healthReport2.accesskey  "o">
+<!ENTITY healthReport2.label      "&brandShorterName; osasun-txostena">
+<!ENTITY healthReport2.accesskey  "e">
 
 <!ENTITY helpTroubleshootingInfo.label      "Arazoak konpontzeko informazioa…">
 <!ENTITY helpTroubleshootingInfo.accesskey  "A">
@@ -35,7 +35,7 @@
 <!ENTITY helpFeedbackPage.label      "Bidali iritzia…">
 <!ENTITY helpFeedbackPage.accesskey  "d">
 
-<!ENTITY helpShowTour2.label            "&brandShortName;(r)en itzulia">
+<!ENTITY helpShowTour2.label            "&brandShorterName;(r)en itzulia">
 <!ENTITY helpShowTour2.accesskey        "u">
 
 <!ENTITY preferencesCmdMac.label        "Hobespenak…">
@@ -43,7 +43,7 @@
 
 <!ENTITY servicesMenuMac.label          "Zerbitzuak">
 
-<!ENTITY hideThisAppCmdMac2.label       "Ezkutatu &brandShortName;">
+<!ENTITY hideThisAppCmdMac2.label       "Ezkutatu &brandShorterName;">
 <!ENTITY hideThisAppCmdMac2.commandkey  "H">
 
 <!ENTITY hideOtherAppsCmdMac.label      "Ezkutatu besteak">
