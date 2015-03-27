@@ -139,7 +139,7 @@
 
 
 <!ENTITY securityOverride.linkText "Или може да добавите изключение…">
-<!ENTITY securityOverride.getMeOutOfHereButton "Махам се от тук!">
+<!ENTITY securityOverride.getMeOutOfHereButton "Махнете ме от тук!">
 <!ENTITY securityOverride.exceptionButtonLabel "Добавяне на изключение…">
 <!-- LOCALIZATION NOTE (securityOverride.warningContent) - Do not translate the
 contents of the <button> tags. It uses strings already defined above. The
