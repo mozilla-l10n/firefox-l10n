@@ -8,8 +8,8 @@
 <!ENTITY  language.accesskey                      "t">
 
 <!ENTITY  size.label                              "Size:">
-<!ENTITY  proportionalSize.accesskey              "e">
-<!ENTITY  sizeMono.accesskey                      "i">
+<!ENTITY  sizeProportional.accesskey              "e">
+<!ENTITY  sizeMonospace.accesskey                 "i">
 
 <!ENTITY  proportional.label                      "Ngolwalamano:">
 <!ENTITY  proportional.accesskey                  "N">
@@ -20,20 +20,18 @@
 <!ENTITY  sans-serif.accesskey                    "n">
 <!ENTITY  monospace.label                         "Isithuba esihamba sodwa:">
 <!ENTITY  monospace.accesskey                     "I">
+<!-- LOCALIZATION NOTE (font.langGroup.latin) :
+     Translate "Latin" as the name of Latin (Roman) script, not as the name of the Latin language. -->
 
-<!ENTITY  font.langGroup.latin1                   "ngokwaseNtshona">
-<!ENTITY  font.langGroup.latin2                   "ngokwaseYurophu eseMbindini">
+<!ENTITY  font.langGroup.latin                    "Latin">
 <!ENTITY  font.langGroup.japanese                 "ngokwesiJapan">
 <!ENTITY  font.langGroup.trad-chinese             "ngokwesiTshayina Somthonyama (Taiwan)">
 <!ENTITY  font.langGroup.simpl-chinese            "isiTshayina Esenziwe Lula">
 <!ENTITY  font.langGroup.trad-chinese-hk          "ngokwesiTshayina Somthonyama (Hong Kong)">
 <!ENTITY  font.langGroup.korean                   "ngokwesiKorea">
 <!ENTITY  font.langGroup.cyrillic                 "ngokwesiCyrillic">
-<!ENTITY  font.langGroup.baltic                   "ngokwesiBaltic">
 <!ENTITY  font.langGroup.el                       "ngokwesiGrike">
-<!ENTITY  font.langGroup.turkish                  "ngokwesiTurkish">
-<!ENTITY  font.langGroup.unicode1                 "Unicode">
-<!ENTITY  font.langGroup.user-def                 "Kuchazelwe Umsebenzisi">
+<!ENTITY  font.langGroup.other                    "Other Writing Systems">
 <!ENTITY  font.langGroup.thai                     "ngokwesiThai">
 <!ENTITY  font.langGroup.hebrew                   "ngokwesiHebheru">
 <!ENTITY  font.langGroup.arabic                   "ngokwesiArab">
@@ -48,8 +46,12 @@
 <!ENTITY  font.langGroup.gurmukhi                 "ngokwesiGurmukhi">
 <!ENTITY  font.langGroup.khmer                    "ngokwesiKhmer">
 <!ENTITY  font.langGroup.malayalam                "ngokwesiMalayalam">
+<!ENTITY  font.langGroup.oriya                    "Oriya">
+<!ENTITY  font.langGroup.telugu                   "Telugu">
+<!ENTITY  font.langGroup.kannada                  "Kannada">
+<!ENTITY  font.langGroup.sinhala                  "Sinhala">
+<!ENTITY  font.langGroup.tibetan                  "Tibetan">
 <!-- Minimum font size -->
-
 <!ENTITY minSize.label                            "Owona mlinganiselo mncinci wefonti:">
 <!ENTITY minSize.accesskey                        "n">
 <!ENTITY minSize.none                             "Akukho">
