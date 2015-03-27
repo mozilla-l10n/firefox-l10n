@@ -351,6 +351,7 @@
 <!ENTITY bookmarkhistory_import_bookmarks "Importazione segnalibri da Android">
 <!ENTITY bookmarkhistory_import_history "Importazione cronologia da Android">
 <!ENTITY bookmarkhistory_import_wait "Attendere…">
+<!ENTITY search_bar_item_desc "Cerca con &formatS;">
 <!ENTITY suggestions_prompt3 "Attivare i suggerimenti di ricerca?">
 <!ENTITY suggestion_for_engine "Cerca &formatS2; in &formatS1;">
 <!ENTITY webapp_generic_name "App">
