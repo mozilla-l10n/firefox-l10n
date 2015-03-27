@@ -216,7 +216,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY downloadsUnix.commandkey     "y">
 <!ENTITY addons.label                 "zongezelelo">
 <!ENTITY addons.accesskey             "z">
-
+<!ENTITY addons.commandkey            "A">
 <!ENTITY webapps.label                "Apps">
 <!ENTITY webapps.accesskey            "p">
 
@@ -486,7 +486,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY savePageCmd.label            "Gcina iphepha njenge…">
 <!ENTITY savePageCmd.accesskey        "n">
 <!-- alternate for content area context menu -->
-
+<!ENTITY savePageCmd.accesskey2       "P">
+<!ENTITY savePageCmd.commandkey       "s">
 <!ENTITY saveFrameCmd.label           "Gcina Isakhelo njenge…">
 <!ENTITY saveFrameCmd.accesskey       "I">
 <!ENTITY printFrameCmd.label          "Printa iSakhelo…">
@@ -581,8 +582,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY fullZoomEnlargeCmd.label       "Sondeza Kufuphi">
 <!ENTITY fullZoomEnlargeCmd.accesskey   "K">
-
+<!ENTITY fullZoomEnlargeCmd.commandkey  "+">
 <!-- + is above this key on many keyboards -->
+<!ENTITY fullZoomEnlargeCmd.commandkey2 "="> 
 <!ENTITY fullZoomEnlargeCmd.commandkey3 "">
 
 <!ENTITY fullZoomReduceCmd.label        "Bhekelisela Kudana">
