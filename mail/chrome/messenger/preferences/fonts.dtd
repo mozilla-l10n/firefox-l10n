@@ -8,8 +8,8 @@
 <!ENTITY  language.accesskey                      "t">
 
 <!ENTITY  size.label                              "Meud:">
-<!ENTITY  proportionalSize.accesskey              "e">
-<!ENTITY  sizeMono.accesskey                      "i">
+
+
 
 <!ENTITY  proportional.label                      "Co-rèireach:">
 <!ENTITY  proportional.accesskey                  "C">
@@ -20,20 +20,16 @@
 <!ENTITY  sans-serif.accesskey                    "n">
 <!ENTITY  monospace.label                         "Clò aon-leud:">
 <!ENTITY  monospace.accesskey                     "C">
-
-<!ENTITY  font.langGroup.latin1                   "Siarach">
-<!ENTITY  font.langGroup.latin2                   "Meadhan-Eòrpach">
+<!-- LOCALIZATION NOTE (font.langGroup.latin) :
+     Translate "Latin" as the name of Latin (Roman) script, not as the name of the Latin language. -->
 <!ENTITY  font.langGroup.japanese                 "Seapanais">
 <!ENTITY  font.langGroup.trad-chinese             "Sìnis thradaiseanta (Taidh-Bhàn)">
 <!ENTITY  font.langGroup.simpl-chinese            "Sìnis shimplichte">
 <!ENTITY  font.langGroup.trad-chinese-hk          "Sìnis thradaiseanta (Hong Kong)">
 <!ENTITY  font.langGroup.korean                   "Coireanais">
 <!ENTITY  font.langGroup.cyrillic                 "Cirilis">
-<!ENTITY  font.langGroup.baltic                   "Baltach">
 <!ENTITY  font.langGroup.el                       "Greugais">
-<!ENTITY  font.langGroup.turkish                  "Turcais">
-<!ENTITY  font.langGroup.unicode1                 "Unicode">
-<!ENTITY  font.langGroup.user-def                 "Roghnadh a' chleachdaiche">
+
 <!ENTITY  font.langGroup.thai                     "Tàidh">
 <!ENTITY  font.langGroup.hebrew                   "Eabhra">
 <!ENTITY  font.langGroup.arabic                   "Arabais">
@@ -48,8 +44,12 @@
 <!ENTITY  font.langGroup.gurmukhi                 "Gurmukhi">
 <!ENTITY  font.langGroup.khmer                    "Cmèar">
 <!ENTITY  font.langGroup.malayalam                "Malayalam">
-<!-- Minimum font size -->
 
+
+
+
+
+<!-- Minimum font size -->
 <!ENTITY minSize.label                            "Meud as lugha a' chrutha-chlò:">
 <!ENTITY minSize.accesskey                        "M">
 <!ENTITY minSize.none                             "Chan eil gin">
