@@ -6,5 +6,5 @@
      should go into netError.dtd -->
 
 
-<!ENTITY securityOverride.linkText "Или може да добавите изключение…">
+<!ENTITY securityOverride.linkText "Или добавете изключение…">
 
