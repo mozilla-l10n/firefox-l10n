@@ -86,5 +86,5 @@
 <!ENTITY accountSettingsDesc.label "Esta é uma conta especial. Não existem quaisquer identidades associadas.">
 <!ENTITY storeType.label "Tipo de armazenamento das mensagens:">
 <!ENTITY storeType.accesskey "T">
-<!ENTITY mboxStor2e.label "Ficheiro por pasta (mbox)">
+<!ENTITY mboxStore2.label "Ficheiro por pasta (mbox)">
 <!ENTITY maildirStore.label "Ficheiro por mensagem (maildir)">
