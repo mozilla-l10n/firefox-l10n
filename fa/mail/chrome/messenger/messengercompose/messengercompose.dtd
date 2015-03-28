@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!--LOCALIZATION NOTE messengercompose.dtd Main UI for message composition -->
 
-<!ENTITY msgComposeWindow.title "Write: (no subject)">
+<!ENTITY msgComposeWindow.title "نوشتن: (بدون موضوع)">
 <!-- File Menu -->
 
 <!ENTITY fileMenu.label "پرونده">
@@ -229,8 +229,8 @@
 <!ENTITY replyAddr.label "Reply-To:">
 <!ENTITY newsgroupsAddr.label "Newsgroup:">
 <!ENTITY followupAddr.label "Followup-To:">
-<!ENTITY subject.label "Subject:">
-<!ENTITY subject.accesskey "S">
+<!ENTITY subject.label "موضوع:">
+<!ENTITY subject.accesskey "م">
 <!-- LOCALIZATION NOTE attachments.accesskey This access key should correspond
      to the strings in attachmentCount in composeMsgs.properties -->
 <!ENTITY attachments.accesskey "c">

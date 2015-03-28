@@ -279,8 +279,8 @@
 <!ENTITY tableJoinCells.accesskey "j">
 <!ENTITY tableSplitCell.label "Split Cell">
 <!ENTITY tableSplitCell.accesskey "C">
-<!ENTITY convertToTable.label "Create Table from Selection">
-<!ENTITY convertToTable.accesskey "r">
+<!ENTITY convertToTable.label "ایجاد جدول از موارد انتخاب شده">
+<!ENTITY convertToTable.accesskey "ج">
 <!ENTITY tableProperties.label "Table Properties…">
 <!ENTITY tableProperties.accesskey "o">
 <!-- Toolbar-only items -->

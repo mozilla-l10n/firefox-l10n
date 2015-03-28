@@ -7,22 +7,22 @@
 <!ENTITY pageColors.label "Page Colors">
 <!ENTITY defaultColorsRadio.label "Reader's default colors (Don't set colors in page)">
 <!ENTITY defaultColorsRadio.accessKey "D">
-<!ENTITY defaultColorsRadio.tooltip "Use the color settings from the viewer (reader's) browser only">
+<!ENTITY defaultColorsRadio.tooltip "فقط استفاده از تنظیمات رنگ از مرورگر بیننده(خواننده)">
 <!ENTITY customColorsRadio.label "Use custom colors:">
 <!ENTITY customColorsRadio.accessKey "c">
 <!ENTITY customColorsRadio.tooltip "These color settings override the viewer's browser settings">
 
 <!ENTITY normalText.label "Normal text">
 <!ENTITY normalText.accessKey "N">
-<!ENTITY linkText.label "Link text">
-<!ENTITY linkText.accessKey "L">
-<!ENTITY activeLinkText.label "Active link text">
-<!ENTITY activeLinkText.accessKey "A">
-<!ENTITY visitedLinkText.label "Visited link text">
-<!ENTITY visitedLinkText.accessKey "V">
+<!ENTITY linkText.label "متن پیوند">
+<!ENTITY linkText.accessKey "پ">
+<!ENTITY activeLinkText.label "متن پیونده فعال">
+<!ENTITY activeLinkText.accessKey "ع">
+<!ENTITY visitedLinkText.label "متن پیوند بازدید شده">
+<!ENTITY visitedLinkText.accessKey "ب">
 <!ENTITY background.label "پس‌زمینه:">
-<!ENTITY background.accessKey "B">
+<!ENTITY background.accessKey "پ">
 <!ENTITY colon.character ":">
-<!ENTITY backgroundImage.label "Background Image:">
-<!ENTITY backgroundImage.accessKey "m">
-<!ENTITY backgroundImage.tooltip "Use an image file as the background for your page">
+<!ENTITY backgroundImage.label "تصویر پس‌زمینه:">
+<!ENTITY backgroundImage.accessKey "ت">
+<!ENTITY backgroundImage.tooltip "استفاده از یک پرونده‌ی تصویری به عنوان پس زمینه برای صفحه‌ی شما">

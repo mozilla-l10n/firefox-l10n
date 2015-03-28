@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY Window.title        "Table of Contents">
-<!ENTITY buildToc.label      "Build table of contents from:">
+<!ENTITY buildToc.label      "ساختن جدول محتویات از:">
 <!ENTITY tag.label           "Tag:">
 <!ENTITY class.label         "Class:">
 <!ENTITY header1.label       "Level 1">
