@@ -38,6 +38,6 @@
 <!ENTITY successful.close "Închideți fereastra.">
 <!ENTITY input.namePlaceholder "Numele sau pseudonimul dumneavoastră">
 <!ENTITY input.search "Căutare">
-<!ENTITY search_engine.title "Alegeți motorul de căutare">
+<!ENTITY search_engine.title "Personalizați-vă motorul de căutare">
 <!ENTITY search_engine.message "Furnizorul dumneavoastră de e-mail poate oferi și căutare pe web.">
 <!ENTITY search_engine.button "Încheiere">
