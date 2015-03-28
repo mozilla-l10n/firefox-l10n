@@ -2,14 +2,19 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY gdata-provider.label "Google Calendar">
 
 
 
+<!ENTITY gdata.migration.title "Emdizhañ an deiziataerioù e mod lenn nemetken ">
+<!ENTITY gdata.migration.description "Ar pourchaser evit Google Calendar en deus dinoet ho peus deiziataerioù n'int gouest da haeziñ Google Calendar e mod lenn nemetken. M'ho peus c'hoant hizivaat unan eus an deiziataerioù-mañ, diuzit anezhe dindan">
+<!ENTITY gdata.migration.upgrade.label "Hizivaat">
+<!ENTITY gdata.migration.upgrade.accesskey "H">
+<!ENTITY gdata.migration.showagain.label "Bepred gwiriekaat  ">
 
+<!ENTITY gdata.reminder.action.sms.label "Kas ur gemennadenn testenn">
 
+<!ENTITY gdata.wizard.session.description "Dibabit un estez a zo diouti pe enlakait ho chomlec'h postel evit krouiñ un estez nevez. N'ho peus ezhomm eus un estez dre gont hepken.">
+<!ENTITY gdata.wizard.calendars.description "Diuzit an deiziataerioù ha listennoù trevell ho peus c'hoant koumanantiñ dezho.">
 
-
-
-
-
-
+<!ENTITY gdata.wizard.nextstep.description "Kit er paz war-lec'h evit arventennañ ho deiziataerioù.">
