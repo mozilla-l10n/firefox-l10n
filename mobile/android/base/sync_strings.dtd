@@ -141,13 +141,15 @@
 <!ENTITY fxaccount_getting_started_welcome_to_sync '&syncBrand.shortName.label; ਲਈ ਜੀ ਆਇਆਂ ਨੂੰ'>
 <!ENTITY fxaccount_getting_started_description 'ਆਪਣੀਆਂ ਟੈਬਾਂ, ਬੁੱਕਮਾਰਕ, ਪਾਸਵਰਡ ਤੇ ਹੋਰਾਂ ਨੂੰ ਸਿੰਕ ਕਰਨ ਲਈ ਸਾਇਨ ਇਨ ਕਰੋ।'>
 <!ENTITY fxaccount_getting_started_get_started 'ਸ਼ੁਰੂ ਕਰੀਏ'>
-<!ENTITY fxaccount_getting_started_old_firefox ' &syncBrand.shortName.label; ਦੇ ਪੁਰਾਣੇ ਵਰਜਨ ਦੀ ਵਰਤੋਂ ਨਾਲ?'>
+<!ENTITY fxaccount_getting_started_old_firefox ' &syncBrand.shortName.label; ਦੇ ਪੁਰਾਣੇ ਵਰਜ਼ਨ ਦੀ ਵਰਤੋਂ ਨਾਲ?'>
 
 <!-- Localization note: the Firefox below should not change with the
      particular version of Firefox installed (Release, Beta, Aurora,
      etc).  The account remains a "Firefox" account. -->
 <!ENTITY fxaccount_create_account_header2 'ਫਾਇਰਫਾਕਸ ਖਾਤਾ ਬਣਾਓ'>
 <!ENTITY fxaccount_create_account_password_length_restriction 'ਘੱਟੋ-ਘੱਟ 8 ਅੱਖਰ ਲੰਮਾ ਹੋਣਾ ਚਾਹੀਦਾ ਹੈ'>
+<!ENTITY fxaccount_create_account_day_of_birth 'ਦਿਨ'>
+<!ENTITY fxaccount_create_account_month_of_birth 'ਮਹੀਨਾ'>
 <!ENTITY fxaccount_create_account_year_of_birth 'ਜਨਮ ਦਾ ਸਾਲ'>
 <!-- Localization note: &formatS1; is fxaccount_policy_linktos, &formatS2; is fxaccount_policy_linkprivacy, both hyperlinked. -->
 <!ENTITY fxaccount_create_account_policy_text2 'ਜਾਰੀ ਰੱਖਣ ਨਾਲ, ਮੈਂ ਫਾਇਰਫਾਕਸ ਕਲਾਉਡ ਸੇਵਾਵਾਂ ਦੀਆਂ &formatS1; ਤੇ &formatS2; ਸਹਿਮਤ ਹਾਂ।'>
@@ -204,7 +206,6 @@
 <!ENTITY fxaccount_status_needs_credentials 'ਕੁਨੈਕਟ ਨਹੀਂ ਕੀਤਾ ਜਾ ਸਕਦਾ। ਸਾਇਨ ਇਨ ਕਰਨ ਲਈ ਛੂਹੋ।'>
 <!ENTITY fxaccount_status_needs_upgrade 'ਤੁਹਾਨੂੰ ਸਾਇਨ ਇਨ ਕਰਨ ਲਈ &brandShortName; ਅੱਪਗਰੇਡ ਕਰਨ ਦੀ ਲੋੜ ਹੈ।'>
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled '&syncBrand.shortName.label; ਤਿਆਰ ਹੈ, ਪਰ ਆਪਣੇ-ਆਪ ਸਿੰਕ ਨਹੀਂ ਕਰ ਰਿਹਾ ਹੈ। ਐਂਡਰਾਇਡ ਸੈਟਿੰਗ &gt; ਡਾਟਾ ਵਰਤੋਂ ਵਿੱਚੋਂ “ਆਟੋ-ਸਿੰਕ ਡਾਟਾ” ਨੂੰ ਚਾਲੂ ਕਰੋ।'>
-<!ENTITY fxaccount_status_needs_account_enabled '&syncBrand.shortName.label; ਤਿਆਰ ਹੈ, ਪਰ ਆਪਣੇ-ਆਪ ਸਿੰਕ ਨਹੀਂ ਕਰ ਰਿਹਾ ਹੈ। ਸਿੰਕ ਕਰਨਾ ਸ਼ੁਰੂ ਕਰਨ ਲਈ ਛੂਹੋ।'>
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled_v21 '&syncBrand.shortName.label; ਸੈਟ ਅਪ ਤਾਂ ਹੈ ਪਰ ਆਟੋਮੈਟਿਕ ਸਿੰਕ ਨਹੀਂ ਕਰ ਰਿਹਾ ਹੈ। ਐਂਡਰਾਇਡ ਸੈਟਿੰਗ &gt; ਖਾਤੇ ਦੇ ਮੀਨੂ ਵਿੱਚ “ਆਟੋ-ਸਿੰਕ ਡਾਟਾ” ਨੂੰ ਬਦਲੋ।'>
 <!ENTITY fxaccount_status_needs_finish_migrating 'ਆਪਣੇ ਨਵੇਂ ਫਾਇਰਫਾਕਸ ਖਆਤੇ ਵਿੱਚ ਸਾਇਨ ਇਨ ਕਰਨ ਲਈ ਛੂਹੋ।'>
 <!ENTITY fxaccount_status_bookmarks 'ਬੁੱਕਮਾਰਕ'>
