@@ -22,7 +22,7 @@
   - displayed to users when they select a black boxed source from the sources
   - list in the debugger. -->
 
-<!ENTITY debuggerUI.blackBoxMessage.label "Сорсът е в черна кутия: всички точки на прекъсване са деактивирани и постъпковото изпълнение прескача този код.">
+<!ENTITY debuggerUI.blackBoxMessage.label "Сорсът е в черна кутия: всички точки на прекъсване са изключени и постъпковото изпълнение прескача този код.">
 <!-- LOCALIZATION NOTE (debuggerUI.blackBoxMessage.unBlackBoxButton): This is
   - the text displayed in the button to stop black boxing the currently selected
   - source. -->

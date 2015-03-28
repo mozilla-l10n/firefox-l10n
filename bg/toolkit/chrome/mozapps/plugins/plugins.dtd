@@ -13,10 +13,10 @@
 
 <!ENTITY missingPlugin                                       "Нужна е приставка, за да се покаже това съдържание.">
 <!-- LOCALIZATION NOTE (tapToPlayPlugin): Mobile (used for touch interfaces) only has one type of plugin possible. -->
-<!ENTITY tapToPlayPlugin                                     "Натиснете тук за активиране на приставка.">
+<!ENTITY tapToPlayPlugin                                     "Натиснете тук за включване на приставка.">
 <!ENTITY clickToActivatePlugin                               "Включване на приставката.">
 <!ENTITY checkForUpdates                                     "Проверка за обновяване…">
-<!ENTITY disabledPlugin                                      "Тази приставка е деактивирана.">
+<!ENTITY disabledPlugin                                      "Тази приставка е изключена.">
 <!ENTITY blockedPlugin.label                                 "Приставката беше блокирана от съобрания за сигурност.">
 <!ENTITY hidePluginBtn.label                                 "Скриване на приставка">
 <!ENTITY managePlugins                                       "Управление на приставки…">
