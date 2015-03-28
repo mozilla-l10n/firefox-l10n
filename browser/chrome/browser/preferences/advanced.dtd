@@ -30,7 +30,7 @@
 
 <!ENTITY healthReportDesc.label          "Помага за разбирането на производителността на браузъра и поделя данни с &vendorShortName; за изправността му">
 <!ENTITY enableHealthReport.label        "Включване на Доклада за изправност на &brandShortName;">
-<!ENTITY enableHealthReport.accesskey    "R">
+<!ENTITY enableHealthReport.accesskey    "Д">
 <!ENTITY healthReportLearnMore.label     "Научете повече">
 
 <!ENTITY telemetryDesc.label             "Споделя анонимни данни за използването, производителността, хардуера, настройките на браузъра ви с &vendorShortName; за да ни помогне да направим &brandShortName; по-добър">

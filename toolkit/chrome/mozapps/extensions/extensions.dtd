@@ -91,11 +91,11 @@
 <!ENTITY cmd.enableTheme.accesskey            "С">
 <!ENTITY cmd.disableTheme.label               "Спиране на сложената тема">
 <!ENTITY cmd.disableTheme.accesskey           "л">
-<!ENTITY cmd.askToActivate.label              "Заявка за активиране">
+<!ENTITY cmd.askToActivate.label              "Питане за включване">
 <!ENTITY cmd.askToActivate.tooltip            "Заявка за използване на тази добавка всеки път">
 <!ENTITY cmd.alwaysActivate.label             "Включване винаги">
 <!ENTITY cmd.alwaysActivate.tooltip           "Винаги използвай тази добавка">
-<!ENTITY cmd.neverActivate.label              "Никога не активирай">
+<!ENTITY cmd.neverActivate.label              "Винаги изключена">
 <!ENTITY cmd.neverActivate.tooltip            "Никога не използвай тази добавка">
 <!ENTITY cmd.stateMenu.tooltip                "Смяна на режима на използване на тази добавка">
 <!ENTITY cmd.installAddon.label               "Инсталиране">
@@ -188,7 +188,7 @@
 <!-- LOCALIZATION NOTE (addon.disabled.postfix): This is used in a normal list
      to signify that an add-on is disabled, in the form
      "<Addon name> <1.0> (disabled)" -->
-<!ENTITY addon.disabled.postfix               "(неактивно)">
+<!ENTITY addon.disabled.postfix               "(изключено)">
 <!-- LOCALIZATION NOTE (addon.update.postfix): This is used in the available
      updates list to signify that an item is an update, in the form
      "<Addon name> <1.1> Update". It is fine to use constructs like brackets if
