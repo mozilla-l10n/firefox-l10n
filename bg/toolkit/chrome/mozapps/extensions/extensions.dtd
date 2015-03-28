@@ -136,7 +136,7 @@
 <!ENTITY detail.contributions.description     "Разработчикът на тази добавка ви моли да поддържате разработката чрез малко дарение.">
 
 <!ENTITY detail.updateType                    "Автоматично обновяване">
-<!ENTITY detail.updateDefault.label           "По подразбиране">
+<!ENTITY detail.updateDefault.label           "Стандартно">
 <!ENTITY detail.updateDefault.tooltip         "Автоматично инсталиране на обновявания само ако е стандартно">
 <!ENTITY detail.updateAutomatic.label         "Включено">
 <!ENTITY detail.updateAutomatic.tooltip       "Автоматично инсталиране на обновявания">
