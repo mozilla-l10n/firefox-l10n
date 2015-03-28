@@ -3,16 +3,13 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY itemGeneral.label       "Général">
+<!ENTITY dataChoicesTab.label    "Données collectées">
 <!ENTITY itemDisplay.label       "Lecture et affichage">
 <!ENTITY itemUpdate.label        "Mise à jour">
 <!ENTITY itemNetworking.label    "Réseau et espace disque">
 <!ENTITY itemCertificates.label  "Certificats">
 
 <!-- General Settings -->
-
-<!ENTITY submitTelemetry.label "Envoyer les rapports de performance">
-<!ENTITY submitTelemetry.accesskey "E">
-<!ENTITY telemetryInfoLink.label "Plus de détails sur la télémétrie">
 <!ENTITY enableGlodaSearch.label "Activer la recherche et l'indexation globales">
 <!ENTITY enableGlodaSearch.accesskey "c">
 <!ENTITY allowHWAccel.label "Utiliser l'accélération graphique matérielle si disponible">
@@ -40,6 +37,19 @@
 <!ENTITY returnReceiptsInfo.label "Gestion des accusés de réception dans &brandShortName;">
 <!ENTITY showReturnReceipts.label "Accusés de réception…">
 <!ENTITY showReturnReceipts.accesskey "A">
+
+<!-- Data Choices -->
+<!ENTITY telemetrySection.label          "Télémétrie">
+<!ENTITY telemetryDesc.label             "Envoie des informations sur les performances, le matériel, l'utilisation et les personnalisations de votre client de messagerie à &vendorShortName; pour aider à améliorer &brandShortName;">
+<!ENTITY enableTelemetry.label           "Activer la télémétrie">
+<!ENTITY enableTelemetry.accesskey       "A">
+<!ENTITY telemetryLearnMore.label        "En savoir plus">
+
+<!ENTITY crashReporterSection.label      "Rapporteur de plantage">
+<!ENTITY crashReporterDesc.label         "&brandShortName; envoie des rapports de plantage pour aider &vendorShortName; à rendre votre client de messagerie plus stable et sécurisé">
+<!ENTITY enableCrashReporter.label       "Activer le rapporteur de plantage">
+<!ENTITY enableCrashReporter.accesskey   "c">
+<!ENTITY crashReporterLearnMore.label    "En savoir plus">
 
 <!-- Display and Reading Settings -->
 <!ENTITY reading.caption "Lecture">

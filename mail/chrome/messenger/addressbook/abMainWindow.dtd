@@ -4,6 +4,9 @@
 
 <!ENTITY addressbookWindow.title                        "Carnet d'adresses">
 
+<!ENTITY blankResultsPaneMessage.label                  "Ce carnet d'adresses affiche uniquement les contacts lorsque vous effectuez une recherche">
+<!ENTITY localResultsOnlyMessage.label                  "Les contacts des carnets d'adresses distants ne sont pas affichés tant que vous n'effectuez pas de recherche">
+
 <!-- File Menu -->
 <!ENTITY fileMenu.label                                 "Fichier">
 <!ENTITY fileMenu.accesskey                             "F">
@@ -163,6 +166,8 @@ because displayed names don't have the comma in between. -->
 <!ENTITY searchItem.title                               "Recherche rapide">
 
 <!-- Results pane -->
+<!ENTITY Addrbook.label                                 "Carnet d'adresses">
+<!ENTITY Addrbook.accesskey                             "a">
 <!ENTITY GeneratedName.label                            "Nom">
 <!ENTITY GeneratedName.accesskey                        "N">
 <!ENTITY PrimaryEmail.label                             "Adresse électronique">

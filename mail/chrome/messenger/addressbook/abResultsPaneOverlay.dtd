@@ -2,12 +2,14 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY Addrbook.label                        "Carnet d'adresses">
+<!ENTITY Addrbook.accesskey                    "C">
 <!ENTITY GeneratedName.label                   "Nom">
 <!ENTITY GeneratedName.accesskey               "N">
 <!ENTITY PrimaryEmail.label                    "Adresse électronique">
 <!ENTITY PrimaryEmail.accesskey                "e">
 <!ENTITY Company.label                         "Société">
-<!ENTITY Company.accesskey                     "c">
+<!ENTITY Company.accesskey                     "i">
 <!ENTITY _PhoneticName.label                   "Nom phonétique">
 <!ENTITY _PhoneticName.accesskey               "o">
 <!ENTITY NickName.label                        "Surnom">

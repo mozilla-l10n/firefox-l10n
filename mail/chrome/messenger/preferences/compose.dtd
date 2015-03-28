@@ -6,6 +6,8 @@
 <!ENTITY itemAutoComplete.label              "Adressage">
 <!ENTITY itemSpellCheck.label                "Orthographe">
 
+<!ENTITY dialogCompose.title                 "Rédaction">
+
 <!ENTITY forwardMsg.label                     "Transférer les messages :">
 <!ENTITY forwardMsg.accesskey                 "T">
 <!ENTITY inline.label                         "intégrés">
