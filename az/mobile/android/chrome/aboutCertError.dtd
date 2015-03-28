@@ -31,7 +31,7 @@ bu saytın kimlik məlumatlarına etibar etməsini deyə bilərsiz.
 oynadığı mənasını verə bilər.</b>">
 <!ENTITY certerror.expert.contentPara2 "Bu sayta, etibar edilən bir kimlik məlumatı təqdim etməməsi 
 üçün vacib bir səbəb olmadığı müddətcə istisnalıq verməyin.">
-<!ENTITY certerror.addTemporaryException.label "Baxış tarixi">
+<!ENTITY certerror.addTemporaryException.label "Saytı ziyarət et">
 <!ENTITY certerror.addPermanentException.label "Qalıcı istisna əlavə et">
 
 <!ENTITY certerror.technical.heading "Texniki Təfərrüatlar">
