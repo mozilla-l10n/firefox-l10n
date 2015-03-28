@@ -852,9 +852,9 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- Pre-landed string for bug 1124153 -->
 <!ENTITY readingList.sidebar.showMore.label       "اعرض المزيد…">
 <!-- Pre-landed string for bug 1133662 -->
-<!ENTITY readingList.sidebar.emptyText            "أضف المقالات إلى قائمة القراءة لحفظهم إلى وقت لاحق و العثور عليهم بسهولة عندما تحتاجهم.">
+<!ENTITY readingList.sidebar.emptyText            "أضف المقالات إلى قائمة قراءتك لحفظهم إلى وقت لاحق و العثور عليهم بسهولة عندما تحتاجهم.">
 <!-- Pre-landed string for bug 1123525 -->
-<!ENTITY readingList.sidebar.delete.tooltip       "أزل هذا من قائمة القراءة">
+<!ENTITY readingList.sidebar.delete.tooltip       "أزل هذا من قائمة قراءتك">
 <!-- Pre-landed strings for bug 1123519 -->
 <!ENTITY readingList.sidebar.add.label            "أضِف إلى قائمة القراءة">
-<!ENTITY readingList.sidebar.add.tooltip          "أضف هذه الصفحة إلى قائمة القراءة">
+<!ENTITY readingList.sidebar.add.tooltip          "أضف هذه الصفحة إلى قائمة قراءتك">
