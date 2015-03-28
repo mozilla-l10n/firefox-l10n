@@ -820,7 +820,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY panicButton.view.mainActionDesc          "Dacă veți continua:">
 <!ENTITY panicButton.view.deleteCookies           "Se șterg <html:strong>cookie-urile</html:strong> recente">
 <!ENTITY panicButton.view.deleteHistory           "Se șterge <html:strong>istoricul</html:strong>recent">
-<!ENTITY panicButton.view.deleteTabsAndWindows    "Se închid toate<html:strong>filele</html:strong> și <html:strong>ferestrele</html:strong>">
+<!ENTITY panicButton.view.deleteTabsAndWindows    "Se închid toate <html:strong>filele</html:strong> și <html:strong>ferestrele</html:strong>">
 <!ENTITY panicButton.view.openNewWindow           "Se deschide o nouă fereastră goală">
 
 <!ENTITY panicButton.view.undoWarning             "Acțiunea este ireversibilă.">
