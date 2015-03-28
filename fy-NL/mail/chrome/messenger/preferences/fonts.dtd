@@ -8,8 +8,8 @@
 <!ENTITY  language.accesskey                      "L">
 
 <!ENTITY  size.label                              "Grutte">
-<!ENTITY  proportionalSize.accesskey              "G">
-<!ENTITY  sizeMono.accesskey                      "e">
+<!ENTITY  sizeProportional.accesskey              "G">
+<!ENTITY  sizeMonospace.accesskey                 "e">
 
 <!ENTITY  proportional.label                      "Proporsjoneel:">
 <!ENTITY  proportional.accesskey                  "P">
