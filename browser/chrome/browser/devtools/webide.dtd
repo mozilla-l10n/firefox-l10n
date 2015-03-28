@@ -94,7 +94,7 @@
 <!ENTITY details_location "Adress">
 <!ENTITY details_manifestURL "App-ID">
 <!ENTITY details_removeProject_button "Ta bort projekt">
-
+<!ENTITY details_showPrepackageLog_button "Visa logg för före paketering">
 <!-- New App -->
 
 <!ENTITY newAppWindowTitle "Ny app">
@@ -146,7 +146,7 @@
 <!ENTITY runtimedetails_adbIsRoot "ADB är root:">
 <!ENTITY runtimedetails_summonADBRoot "Rootenhet">
 <!ENTITY runtimedetails_ADBRootWarning "(kräver upplåst bootloader)">
-
+<!ENTITY runtimedetails_unrestrictedPrivileges "Obegränsade rättigheter till DevTools: ">
 <!ENTITY runtimedetails_requestPrivileges "begär högre rättigheter">
 <!ENTITY runtimedetails_privilegesWarning "(Kommer starta om enheten. Kräver root åtkomst.)">
 <!-- Device Preferences and Settings -->
@@ -193,3 +193,5 @@
      user to transfer authentication info by transferring a token. -->
 <!ENTITY wifi_auth_token_request "Om din andra enhet ber om en symbol istället för att läsa en QR-kod, kopiera då värdet nedan till den andra enheten:">
 <!-- Logs panel -->
+
+<!ENTITY logs_title "Logg med kommandon före paketering">

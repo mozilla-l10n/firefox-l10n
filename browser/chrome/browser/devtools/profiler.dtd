@@ -76,7 +76,7 @@
   -  a checkbox that inverts and un-inverts the profiler's flame graph. -->
 
 <!ENTITY profilerUI.invertFlameGraph             "Invertera Anropsträd">
-
+<!ENTITY profilerUI.invertFlameGraph.tooltiptext "När anropsträdet inverteras visas de inspelade anropssökvägarna med de nyaste ramarna först och expanderar till de äldre ramarna.">
 <!-- LOCALIZATION NOTE (profilerUI.showPlatformData): This is the
   -  label for the checkbox that toggles whether or not Gecko platform data
   -  is displayed in the profiler. -->
