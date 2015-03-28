@@ -12,8 +12,8 @@
 <!ENTITY radioRememberPrevState.accesskey "S">
 <!ENTITY radioAskState.label "Demander à passer en mode en ligne">
 <!ENTITY radioAskState.accesskey "D">
-<!ENTITY radioAlwaysOnline.label "Passer en mode en ligne">
-<!ENTITY radioAlwaysOnline.accesskey "P">
+<!ENTITY radioAlwaysOnlineState.label "Passer en mode en ligne">
+<!ENTITY radioAlwaysOnlineState.accesskey "P">
 <!ENTITY radioAlwaysOffline.label "Passer en mode hors connexion">
 <!ENTITY radioAlwaysOffline.accesskey "a">
 

@@ -35,3 +35,4 @@
 <!ENTITY customsound.accesskey            "U">
 <!ENTITY browse.label                     "Parcourir…">
 <!ENTITY browse.accesskey                 "r">
+<!ENTITY defaultSearchEngine.label        "Moteur de recherche par défaut">
