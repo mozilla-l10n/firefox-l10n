@@ -33,7 +33,7 @@
    - they still fit in. -->
 
 <!ENTITY event.attendees.notify.label               "Wobdźělnikow informować">
-<!ENTITY event.attendees.notifyundisclosed.label    "Dźělene přeporšenje na wobdźělnika">
+<!ENTITY event.attendees.notifyundisclosed.label    "Dźělene přeprošenje na wobdźělnika">
 <!ENTITY event.attendees.notifyundisclosed.tooltip  "Tute nastajenje sćele jedne přeprošensku e-mejlku na wobdźělnika. Kóžde přeprošenje wobsahuje jenož přijimaceho wobdźělnika, tak zo druhe identity wobdźělnikow so njepřeradźuja.">
 <!-- Keyboard Shortcuts -->
 
@@ -293,8 +293,8 @@
 <!ENTITY event.recurrence.pattern.yearly.month.11.label      "nowember" >
 <!ENTITY event.recurrence.pattern.yearly.month.12.label      "december" >
 <!ENTITY event.recurrence.yearly.every.label                 "Kóžde">
-<!ENTITY event.recurrence.yearly.first.label                 "prěni">
-<!ENTITY event.recurrence.yearly.second.label                "druhi">
+<!ENTITY event.recurrence.yearly.first.label                 "prěnje">
+<!ENTITY event.recurrence.yearly.second.label                "druhe">
 <!ENTITY event.recurrence.yearly.third.label                 "třeće">
 <!ENTITY event.recurrence.yearly.fourth.label                "štwórte">
 <!ENTITY event.recurrence.yearly.fifth.label                 "pjate">
