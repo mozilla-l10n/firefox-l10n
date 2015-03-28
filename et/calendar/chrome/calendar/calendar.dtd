@@ -13,8 +13,8 @@
 <!ENTITY calendar.unifinder.showcompletedtodos.label "Näidatakse täidetud ülesandeid">
 
 <!ENTITY calendar.today.button.label       "Täna">
-<!ENTITY calendar.tomorrow.button.label       "Homme">
-<!ENTITY calendar.soon.button.label           "Varsti">
+<!ENTITY calendar.tomorrow.button.label    "Homme">
+<!ENTITY calendar.upcoming.button.label    "Peatselt saabuvad">
 
 <!ENTITY calendar.events.filter.all.label               "Kõik sündmused">
 <!ENTITY calendar.events.filter.today.label             "Tänased sündmused">
@@ -229,8 +229,17 @@
 <!ENTITY calendar.context.newserver.accesskey          "U">
 <!ENTITY calendar.context.findcalendar.label           "Otsi kalendrit…" >
 <!ENTITY calendar.context.findcalendar.accesskey       "O" >
-<!ENTITY calendar.context.deleteserver.label           "Kustuta kalender">
-<!ENTITY calendar.context.deleteserver.accesskey       "K">
+<!ENTITY calendar.context.deleteserver2.label          "Kustuta kalender…">
+<!ENTITY calendar.context.deleteserver2.accesskey      "K">
+
+<!-- LOCALIZATION NOTE (calendar.context.removeserver.label): Removing the
+      calendar is the general action of removing it, while deleting means to
+      clear the data and unsubscribing means just taking it out of the calendar
+      list. -->
+<!ENTITY calendar.context.removeserver.label           "Eemalda kalender…">
+<!ENTITY calendar.context.removeserver.accesskey       "m">
+<!ENTITY calendar.context.unsubscribeserver.label      "Lõpeta tellimine…">
+<!ENTITY calendar.context.unsubscribeserver.accesskey  "p">
 <!ENTITY calendar.context.synccalendars.label          "Sünkroniseeri kalendrid">
 <!ENTITY calendar.context.synccalendars.accesskey      "S">
 <!ENTITY calendar.context.publish.label                "Avalda kalender…">
