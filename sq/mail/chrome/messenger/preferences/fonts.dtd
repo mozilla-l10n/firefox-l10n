@@ -17,12 +17,14 @@
 <!ENTITY  monospace.label                         "Monospace:">
 <!ENTITY  monospace.accesskey                     "o">
 <!ENTITY  font.langGroup.japanese                 "Japoneze">
+<!ENTITY  font.langGroup.latin                    "Latine">
 <!ENTITY  font.langGroup.trad-chinese             "Kineze Tradicionale (Tajvan)">
 <!ENTITY  font.langGroup.simpl-chinese            "Kineze Të thjeshtuara">
 <!ENTITY  font.langGroup.trad-chinese-hk          "Kineze Tradicionale (Hong Kong)">
 <!ENTITY  font.langGroup.korean                   "Koreane">
 <!ENTITY  font.langGroup.cyrillic                 "Cirilike">
 <!ENTITY  font.langGroup.el                       "Greke">
+<!ENTITY  font.langGroup.other                    "Të tjerë Sisteme Shkrimi">
 <!ENTITY  font.langGroup.thai                     "Tajlandeze">
 <!ENTITY  font.langGroup.hebrew                   "Hebraishte">
 <!ENTITY  font.langGroup.arabic                   "Arabike">
