@@ -380,11 +380,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      customizeMenu.moveToPanel are mutually exclusive, so can share access
      keys.  -->
 <!ENTITY customizeMenu.moveToPanel.label "Verplaatsen naar menu">
-<!ENTITY customizeMenu.moveToPanel.accesskey "e">
+<!ENTITY customizeMenu.moveToPanel.accesskey "V">
 <!ENTITY customizeMenu.removeFromToolbar.label "Verwijderen van werkbalk">
-<!ENTITY customizeMenu.removeFromToolbar.accesskey "r">
+<!ENTITY customizeMenu.removeFromToolbar.accesskey "w">
 <!ENTITY customizeMenu.removeFromMenu.label "Verwijderen uit menu">
-<!ENTITY customizeMenu.removeFromMenu.accesskey "r">
+<!ENTITY customizeMenu.removeFromMenu.accesskey "w">
 <!ENTITY customizeMenu.addMoreItems.label "Meer items toevoegen…">
 <!ENTITY customizeMenu.addMoreItems.accesskey "M">
 
