@@ -372,6 +372,15 @@ size. -->
 <!ENTITY contextmenu_top_sites_unpin "Zrušiť pripnutie stránky">
 <!ENTITY contextmenu_add_search_engine "Pridať vyhľadávací modul">
 
+<!-- Localization note (doorhanger_login_no_username): This string is used in the save-login doorhanger
+     where normally a username would be displayed. In this case, no username was found, and this placeholder
+     contains brackets to indicate this is not actually a username, but rather a placeholder -->
+<!ENTITY doorhanger_login_no_username "[nezadané používateľské meno]">
+<!ENTITY doorhanger_login_edit_title "Úprava prihlasovacích údajov">
+<!ENTITY doorhanger_login_edit_username_hint "Používateľské meno">
+<!ENTITY doorhanger_login_edit_password_hint "Heslo">
+<!ENTITY doorhanger_login_edit_toggle "Zobraziť heslo">
+
 <!ENTITY pref_titlebar_mode "Panel s titulkom okna">
 <!ENTITY pref_titlebar_mode_title "Zobrazovať titulok stránky">
 <!ENTITY pref_titlebar_mode_url "Zobrazovať adresu stránky">
@@ -430,6 +439,7 @@ size. -->
 <!ENTITY button_clear_data "Vymazať údaje">
 <!ENTITY button_set "Nastaviť">
 <!ENTITY button_clear "Vymazať">
+<!ENTITY button_remember "Zapamätať">
 
 <!ENTITY home_top_sites_title "Top stránky">
 <!-- Localization note (home_top_sites_add): This string is used as placeholder
