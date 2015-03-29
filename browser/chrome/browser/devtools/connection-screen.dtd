@@ -14,7 +14,7 @@
 <!ENTITY availableTabs "Zikhona i-tabs ezikude:">
 
 <!ENTITY connectionError "Imposiso:">
-
+<!ENTITY errorTimeout "Impazamo: uqhagamshelo luphelelwe lixesha.">
 <!ENTITY errorRefused "Impazamo: uqhagamshelwano aluvunywanga.">
 
 <!-- LOCALIZATION NOTE (remoteHelp, remoteDocumentation, remoteHelpSuffix):
