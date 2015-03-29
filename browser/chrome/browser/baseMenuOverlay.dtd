@@ -1,6 +1,8 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY minimizeWindow.key       "m">
 <!ENTITY minimizeWindow.label     "Kis méret">
 <!ENTITY bringAllToFront.label    "Előtérbe hozás">
 <!ENTITY zoomWindow.label         "Nagyítás">
@@ -10,12 +12,13 @@
 <!ENTITY helpMenu.accesskey       "S"> 
 <!-- LOCALIZATION NOTE some localizations of Windows (ex:french, german) use "?"
                        for the help button in the menubar but Gnome does not.   -->
-
-
-
-
-
-
+<!ENTITY helpMenuWin.label        "Súgó"> 
+<!ENTITY helpMenuWin.accesskey    "S">
+<!ENTITY aboutProduct2.label      "A &brandShorterName; névjegye">
+<!ENTITY aboutProduct2.accesskey  "A">
+<!ENTITY productHelp2.label       "&brandShorterName; súgó">
+<!ENTITY productHelp2.accesskey   "s">
+<!ENTITY helpMac.commandkey       "?">
 
 <!ENTITY helpKeyboardShortcuts.label     "Gyorsbillentyűk">
 <!ENTITY helpKeyboardShortcuts.accesskey "G">
@@ -23,7 +26,8 @@
 <!ENTITY helpSafeMode.label       "Újraindítás letiltott kiegészítőkkel…">
 <!ENTITY helpSafeMode.accesskey   "r">
 
-
+<!ENTITY healthReport2.label      "&brandShorterName; állapotjelentés">
+<!ENTITY healthReport2.accesskey  "e">
 
 <!ENTITY helpTroubleshootingInfo.label      "Hibakeresési információ">
 <!ENTITY helpTroubleshootingInfo.accesskey  "H">
@@ -31,16 +35,18 @@
 <!ENTITY helpFeedbackPage.label      "Visszajelzés beküldése…">
 <!ENTITY helpFeedbackPage.accesskey  "V">
 
-
+<!ENTITY helpShowTour2.label            "&brandShorterName; bemutató">
+<!ENTITY helpShowTour2.accesskey        "u">
 
 <!ENTITY preferencesCmdMac.label        "Beállítások…">
 
 
 <!ENTITY servicesMenuMac.label          "Szolgáltatások">
 
-
+<!ENTITY hideThisAppCmdMac2.label       "A &brandShorterName; elrejtése">
+<!ENTITY hideThisAppCmdMac2.commandkey  "e">
 
 <!ENTITY hideOtherAppsCmdMac.label      "A több elrejtése">
-
+<!ENTITY hideOtherAppsCmdMac.commandkey "t">
 
 <!ENTITY showAllAppsCmdMac.label        "Mindet mutat">

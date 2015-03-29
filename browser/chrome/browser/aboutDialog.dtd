@@ -11,7 +11,7 @@
 <!ENTITY update.checkForUpdatesButton.label       "Frissítések keresése">
 <!ENTITY update.checkForUpdatesButton.accesskey   "F">
 <!ENTITY update.updateButton.label2                "&brandShortName; újraindítása a frissítéshez">
-
+<!ENTITY update.updateButton.accesskey            "R">
 <!ENTITY update.applyButtonBillboard.label        "Frissítés alkalmazása…">
 <!ENTITY update.applyButtonBillboard.accesskey    "a">
 <!-- LOCALIZATION NOTE (warningDesc.version): This is a warning about the experimental nature of Nightly and Aurora builds. It is only shown in those versions. -->
@@ -32,9 +32,11 @@
 
 <!ENTITY community.start2           "A &brandShortName;ot a ">
 <!-- LOCALIZATION NOTE (community.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
+<!ENTITY community.mozillaLink      "&vendorShortName;">
 <!ENTITY community.middle2          " tervezte, egy ">
 <!-- LOCALIZATION NOTE (community.creditsLink): This is a link title that links to about:credits. -->
-
+<!ENTITY community.creditsLink      "nemzetközi közösség">
+<!ENTITY community.end3             " amely a nyílt, nyilvános és mindenki számára elérhető világhálóért dolgozik.">
 
 <!ENTITY helpus.start               "Szeretne segíteni? ">
 <!-- LOCALIZATION NOTE (helpus.donateLink): This is a link title that links to https://sendto.mozilla.org/page/contribute/Give-Now?source=mozillaorg_default_footer&ref=firefox_about&utm_campaign=firefox_about&utm_source=firefox&utm_medium=referral&utm_content=20140929_FireFoxAbout. -->
