@@ -17,3 +17,6 @@
 <!ENTITY panePrivacy.title        "Privadesa">
 <!ENTITY paneSecurity.title       "Seguretat">
 <!ENTITY paneAdvanced.title       "Avançat">
+<!ENTITY paneAccount.title        "Comptes">
+
+

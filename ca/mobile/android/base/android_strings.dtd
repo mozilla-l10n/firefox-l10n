@@ -6,8 +6,7 @@
 <!ENTITY  no_space_to_start_error "No hi ha prou espai lliure per poder iniciar el &brandShortName;.">
 <!ENTITY  error_loading_file "S\u0027ha produït un error en intentar carregar els fitxers necessaris per executar el &brandShortName;">
 
-<!ENTITY  onboard_start_message "Benvingut al &brandShortName;">
-<!ENTITY  onboard_start_subtext "Compromès amb l\u0027usuari, la privadesa i un web obert">
+
 <!ENTITY  onboard_start_button_account "Inicia la sessió al &brandShortName;">
 <!ENTITY  onboard_start_button_browser "Comença a navegar">
 <!-- Localization note: These are used as the titles of different pages on the home screen.
@@ -75,7 +74,7 @@
 <!ENTITY switch_button_message "CANVIA">
 
 <!ENTITY settings "Paràmetres">
-<!ENTITY settings_title "Paràmetres">
+
 <!ENTITY pref_category_advanced "Avançat">
 <!ENTITY pref_category_customize "Personalitza">
 <!ENTITY pref_category_customize_summary "Inici, cerca, pestanyes, importa">
@@ -99,8 +98,6 @@
 <!-- Localization note (overlay_share_bookmark_btn_label) : This string is
      used in the share overlay menu to select an action. It is the verb
      "to bookmark", not the noun "a bookmark". -->
-
-<!ENTITY overlay_share_bookmark_btn_label "Afegeix a les adreces d\u0027interès">
 <!ENTITY overlay_share_reading_list_btn_label "Afegeix a la llista de lectura">
 <!ENTITY overlay_share_bookmark_btn_label_already "Ja és a les adreces d\u0027interès">
 <!ENTITY overlay_share_reading_list_btn_label_already "Ja és a la llista de lectura">
@@ -112,10 +109,9 @@
 
 <!ENTITY overlay_share_send_tab_btn_label "Envia a un altre dispositiu">
 <!ENTITY overlay_share_no_url "No s\u0027ha trobat cap enllaç per compartir">
-<!ENTITY overlay_share_retry "Torna-ho a provar">
+
 <!ENTITY overlay_share_select_device "Seleccioneu el dispositiu">
 
-<!ENTITY pref_category_search3 "Cerca">
 <!ENTITY pref_category_search_summary "Personalitzeu els proveïdors de cerca">
 <!ENTITY pref_category_display "Visualització">
 <!ENTITY pref_category_display_summary "Text, barra de títol, navegació a pantalla completa">
@@ -129,7 +125,7 @@
 <!ENTITY pref_category_add_search_providers "Afegiu més proveïdors de cerca">
 <!ENTITY pref_category_search_restore_defaults "Restaura els motors de cerca">
 <!ENTITY pref_search_restore_defaults "Restaura els motors per defecte">
-<!ENTITY pref_search_restore_defaults_summary "Restaura els motors per defecte">
+
 <!-- Localization note (pref_search_hint) : "TIP" as in "hint", "clue" etc. Displayed as an
      advisory message on the customise search providers settings page explaining how to add new
      search providers.
@@ -159,16 +155,14 @@
 <!ENTITY pref_home_suggested_sites_summary "Mostra a la pàgina d\u0027inici dreceres de llocs que creiem que us poden interessar">
 <!-- Localization note: These are shown in the left sidebar on tablets -->
 
-<!ENTITY pref_header_customize "Personalitza">
-<!ENTITY pref_header_display "Visualització">
-<!ENTITY pref_header_privacy_short "Privadesa">
+
 <!ENTITY pref_header_help "Ajuda">
-<!ENTITY pref_header_language "Llengua">
-<!ENTITY pref_header_vendor "&vendorShortName;">
-<!ENTITY pref_header_devtools "Eines per a desenvolupadors">
+
+
+
 
 <!ENTITY pref_cookies_menu "Galetes">
-<!ENTITY pref_cookies_accept_all "Habilitades">
+
 <!ENTITY pref_cookies_not_accept_foreign "Habilitades, excepte de tercers">
 <!ENTITY pref_cookies_disabled "Inhabilitades">
 
@@ -186,9 +180,9 @@
 <!ENTITY pref_clear_on_exit_summary2 "El &brandShortName; netejarà automàticament les vostres dades quan seleccioneu «Surt» en el menú principal">
 <!ENTITY pref_clear_on_exit_dialog_title "Seleccioneu quines dades cal netejar">
 <!ENTITY pref_plugins "Connectors">
-<!ENTITY pref_plugins_enabled "Habilitats">
+
 <!ENTITY pref_plugins_tap_to_play "Toca per iniciar-los">
-<!ENTITY pref_plugins_disabled "Inhabilitats">
+
 <!ENTITY pref_text_size "Mida del text">
 <!ENTITY pref_reflow_on_zoom4 "Reajusta el text">
 <!ENTITY pref_restore "Pestanyes">
@@ -205,7 +199,6 @@
 same character/combination is used to increase the preview font size. It should be a concise
 representation of the language it is used in that will help show the text in the preview will change
 size. -->
-<!ENTITY pref_font_size_adjust_char "A">
 <!-- Localization note (pref_font_size_preview_text): This paragraph is used as an example to
     demonstrate the font size setting.  It is meant to be whimsical and fun. -->
 
@@ -213,6 +206,8 @@ size. -->
 
 <!ENTITY pref_media_autoplay_enabled "Permet reproduir automàticament">
 <!ENTITY pref_media_autoplay_enabled_summary "Controla si els llocs web poden reproduir automàticament vídeos i altres continguts multimèdia">
+
+
 
 <!ENTITY pref_use_master_password "Contrasenya mestra">
 <!ENTITY pref_sync "Sync">
@@ -269,22 +264,20 @@ size. -->
      (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
 <!ENTITY datareporting_crashreporter_title_short "Informes de fallada">
 <!ENTITY datareporting_wifi_title2 "Serveis d\u0027ubicació de &vendorShortName;">
-<!ENTITY datareporting_wifi_geolocation_summary2 "Comparteix les dades d\u0027ubicació aproximada de xarxes Wi-Fi i mòbils del vostre dispositiu amb &vendorShortName; per millorar el nostre servei de geolocalització">
+
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
      actual notification that an update is available. -->
 <!ENTITY pref_update_autodownload2 "Baixa actualitzacions automàticament">
-<!ENTITY pref_update_autodownload_wifi "Només per Wi-Fi">
+
 <!ENTITY pref_update_autodownload_never "Mai">
 <!ENTITY pref_update_autodownload_always "Sempre">
 <!-- Localization note (help_menu) : This string is used in the main menu-->
 
-<!ENTITY help_menu "Ajuda">
-
 <!ENTITY quit "Surt">
 
 <!ENTITY addons "Complements">
-<!ENTITY downloads "Baixades">
+
 <!ENTITY apps "Aplicacions">
 <!ENTITY char_encoding "Codificació caràcters">
 
@@ -300,7 +293,7 @@ size. -->
 <!ENTITY new_private_tab "Pestanya privada nova">
 <!ENTITY close_all_tabs "Tanca totes les pestanyes">
 <!ENTITY close_private_tabs "Tanca les pestanyes privades">
-<!ENTITY tabs_normal "Pestanyes">
+
 <!ENTITY tabs_private "Privades">
 <!ENTITY tabs_synced "Sincronitzades">
 <!ENTITY set_image_fail "No es pot definir la imatge">
@@ -308,31 +301,29 @@ size. -->
 <!ENTITY set_image_chooser_title "Defineix la imatge com a">
 <!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
-
-<!ENTITY find_text "Cerca a la pàgina">
 <!ENTITY find_prev "Enrere">
 <!ENTITY find_next "Endavant">
-<!ENTITY find_close "Tanca">
+
 <!-- Localization note (media_sending_to, media_play, media_pause, media_stop) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
 
 <!ENTITY media_sending_to "S\u0027està enviant a un dispositiu">
 <!ENTITY media_play "Reprodueix">
 <!ENTITY media_pause "Pausa">
-<!ENTITY media_stop "Atura">
+
 
 <!ENTITY contextmenu_open_new_tab "Obre en una pestanya nova">
 <!ENTITY contextmenu_open_private_tab "Obre en una pestanya privada">
-<!ENTITY contextmenu_remove "Suprimeix">
+
 <!ENTITY contextmenu_add_to_launcher "Afegeix a la pantalla d\u0027inici">
-<!ENTITY contextmenu_share "Comparteix">
+
 <!ENTITY contextmenu_pasteandgo "Enganxa i vés-hi">
 <!ENTITY contextmenu_paste "Enganxa">
 <!ENTITY contextmenu_copyurl "Copia l\u0027adreça">
 <!ENTITY contextmenu_edit_bookmark "Edita">
 <!ENTITY contextmenu_subscribe "Subscriu-me a la pàgina">
 <!ENTITY contextmenu_site_settings "Edita els paràmetres del lloc">
-<!ENTITY contextmenu_top_sites_edit "Edita">
+
 <!ENTITY contextmenu_top_sites_pin "Fixa el lloc">
 <!ENTITY contextmenu_top_sites_unpin "No fixis el lloc">
 <!ENTITY contextmenu_add_search_engine "Afegeix un motor de cerca">
@@ -359,11 +350,14 @@ size. -->
      dialog that appears after selecting the "Edit Site Settings" context menu item. -->
 
 <!ENTITY site_settings_title3       "Paràmetres del lloc">
-<!ENTITY site_settings_cancel       "Cancel·la">
+
 <!ENTITY site_settings_clear        "Neteja">
 <!ENTITY site_settings_no_settings  "No hi ha cap paràmetre per netejar.">
 
 <!ENTITY reading_list_added "La pàgina s\u0027ha afegit a la vostra llista de lectura">
+
+<!-- Localization note (reading_list_remove) : Used to remove the currently open page from
+     the user's reading list. The opposite of overlay_share_reading_list_btn_label. -->
 <!ENTITY reading_list_duplicate "La pàgina ja és a la llista de lectura">
 <!-- Localization note (reading_list_time_minutes2) : This string is used in the "Reading List"
      panel on the home page to give the user an estimate of how many minutes it will take to
@@ -382,12 +376,12 @@ size. -->
 <!ENTITY masterpassword_confirm "Confirmeu la contrasenya">
 
 <!ENTITY button_ok "D\u0027acord">
-<!ENTITY button_cancel "Cancel·la">
+
 <!ENTITY button_yes "Sí">
 <!ENTITY button_no "No">
 <!ENTITY button_clear_data "Neteja les dades">
-<!ENTITY button_set "Defineix">
-<!ENTITY button_clear "Neteja">
+
+
 
 <!ENTITY home_top_sites_title "Destacats">
 <!-- Localization note (home_top_sites_add): This string is used as placeholder
@@ -397,7 +391,7 @@ size. -->
      with the page title defined in aboutHome.dtd -->
 
 <!ENTITY home_title "Inici del &brandShortName;">
-<!ENTITY home_history_title "Historial">
+
 <!ENTITY home_clear_history_button "Neteja l\u0027historial de navegació">
 <!ENTITY home_clear_history_confirm "Esteu segur que voleu netejar l\u0027historial?">
 <!ENTITY home_bookmarks_empty "Aquí es mostren les adreces d\u0027interès que deseu.">
@@ -459,7 +453,6 @@ size. -->
 
 <!ENTITY pin_site_dialog_hint "Escriviu una paraula clau de cerca">
 
-<!ENTITY filepicker_title "Trieu un fitxer">
 <!ENTITY filepicker_audio_title "Trieu o enregistreu un so">
 <!ENTITY filepicker_image_title "Trieu o feu una foto">
 <!ENTITY filepicker_video_title "Trieu o enregistreu un vídeo">
@@ -530,34 +523,32 @@ de l\u0027Android">
 <!ENTITY updater_downloading_select2 "Toqueu per aplicar l\u0027actualització un cop baixada">
 <!ENTITY updater_downloading_retry2 "Toqueu per reintentar-ho">
 
-<!ENTITY updater_apply_title2 "Actualització disponible per al &brandShortName;">
 <!ENTITY updater_apply_select2 "Toqueu per actualitzar">
 <!-- Guest mode -->
 
 <!ENTITY new_guest_session "Sessió de convidat">
 <!ENTITY exit_guest_session "Tanca sessió convidat">
 <!ENTITY guest_session_dialog_continue "Continua">
-<!ENTITY guest_session_dialog_cancel "Cancel·la">
+
 <!ENTITY new_guest_session_title "El &brandShortName; es reiniciarà ara">
 <!ENTITY new_guest_session_text "La persona que l\u0027utilitzi no podrà veure cap de les dades de navegació personals (com les contrasenyes desades, l\u0027historial o les adreces d\u0027interès).\n\nQuan el convidat hagi acabat, se suprimiran les seves dades de navegació i es restaurarà la vostra sessió.">
 <!ENTITY guest_browsing_notification_title "S\u0027ha activat la navegació en mode de convidat">
 <!ENTITY guest_browsing_notification_text "Toqueu per sortir">
 
-<!ENTITY exit_guest_session_title "El &brandShortName; es reiniciarà ara">
 <!ENTITY exit_guest_session_text "Se suprimiran les dades de navegació d\u0027aquesta sessió.">
 <!-- Miscellaneous -->
 <!-- LOCALIZATION NOTE (ellipsis): This text is appended to a piece of text that does not fit in the
      designated space. Use the unicode ellipsis char, \u2026, or use "..." if \u2026 doesn't suit
      traditions in your locale. -->
 
-<!ENTITY ellipsis "…">
-
-<!ENTITY colon ":">
 <!-- These are only used for accessibility for the done and overflow-menu buttons in the actionbar.
      They are never shown to users -->
-
-<!ENTITY actionbar_menu "Menú">
 <!ENTITY actionbar_done "Fet">
+<!-- Voice search in the awesome bar -->
+
+
+
+
 <!-- Localization note (remote_tabs_last_synced): the variable is replaced by a
      "relative time span string" produced by Android.  This string describes the
      time the tabs were last synced relative to the current time; examples
@@ -566,6 +557,7 @@ de l\u0027Android">
      their desktop or laptop.-->
 
 <!ENTITY remote_tabs_last_synced "Última sinc.: &formatS;">
+<!-- Localization note: Used when the sync has not happend yet, showed in place of a date -->
 <!-- Find-In-Page strings -->
 <!-- LOCALIZATION NOTE (find_matchcase): This is meant to appear as an icon that changes color
      if match-case is activated. i.e. No more than two letters, one uppercase, one lowercase. -->

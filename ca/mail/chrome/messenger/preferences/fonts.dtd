@@ -8,8 +8,8 @@
 <!ENTITY  language.accesskey                      "T">
 
 <!ENTITY  size.label                              "Mida:">
-<!ENTITY  proportionalSize.accesskey              "M">
-<!ENTITY  sizeMono.accesskey                      "i">
+
+
 
 <!ENTITY  proportional.label                      "Proporcional:">
 <!ENTITY  proportional.accesskey                  "P">
@@ -20,20 +20,16 @@
 <!ENTITY  sans-serif.accesskey                    "n">
 <!ENTITY  monospace.label                         "Monoespai:">
 <!ENTITY  monospace.accesskey                     "M">
-
-<!ENTITY  font.langGroup.latin1                   "Occidental">
-<!ENTITY  font.langGroup.latin2                   "Centreeuropeu">
+<!-- LOCALIZATION NOTE (font.langGroup.latin) :
+     Translate "Latin" as the name of Latin (Roman) script, not as the name of the Latin language. -->
 <!ENTITY  font.langGroup.japanese                 "Japonès">
 <!ENTITY  font.langGroup.trad-chinese             "Xinès tradicional (Taiwan)">
 <!ENTITY  font.langGroup.simpl-chinese            "Xinès simplificat">
 <!ENTITY  font.langGroup.trad-chinese-hk          "Xinès tradicional (Hong Kong)">
 <!ENTITY  font.langGroup.korean                   "Coreà">
 <!ENTITY  font.langGroup.cyrillic                 "Ciríl·lic">
-<!ENTITY  font.langGroup.baltic                   "Bàltic">
 <!ENTITY  font.langGroup.el                       "Grec">
-<!ENTITY  font.langGroup.turkish                  "Turc">
-<!ENTITY  font.langGroup.unicode1                 "Unicode">
-<!ENTITY  font.langGroup.user-def                 "Definit per l'usuari">
+
 <!ENTITY  font.langGroup.thai                     "Tailandès">
 <!ENTITY  font.langGroup.hebrew                   "Hebreu">
 <!ENTITY  font.langGroup.arabic                   "Àrab">
@@ -48,8 +44,12 @@
 <!ENTITY  font.langGroup.gurmukhi                 "Gurmukhi">
 <!ENTITY  font.langGroup.khmer                    "Khmer">
 <!ENTITY  font.langGroup.malayalam                "Malaiàlam">
-<!-- Minimum font size -->
 
+
+
+
+
+<!-- Minimum font size -->
 <!ENTITY minSize.label                            "Mida mínima de la lletra:">
 <!ENTITY minSize.accesskey                        "d">
 <!ENTITY minSize.none                             "Cap">

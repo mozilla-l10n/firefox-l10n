@@ -3,8 +3,9 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY addressbookWindow.title                        "Llibreta d'adreces">
-<!-- File Menu -->
 
+
+<!-- File Menu -->
 <!ENTITY fileMenu.label                                 "Fitxer">
 <!ENTITY fileMenu.accesskey                             "F">
 <!ENTITY newMenu.label                                  "Nou">
