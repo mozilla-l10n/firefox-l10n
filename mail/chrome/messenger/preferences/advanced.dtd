@@ -14,7 +14,7 @@
 <!ENTITY enableGlodaSearch.accesskey      "L">
 <!ENTITY allowHWAccel.label               "Võimalusel kasutatakse riistvaralist kiirendust">
 <!ENTITY allowHWAccel.accesskey           "V">
-<!ENTITY storeType.label                  "Uute kontode kirjade salvestamise moodus:">
+<!ENTITY storeType.label                  "Uute kontode kirjade salvestamise viis:">
 <!ENTITY storeType.accesskey              "U">
 <!ENTITY mboxStore.label                  "üks suur fail (mbox)">
 <!ENTITY maildirStore.label               "iga kiri eraldi failis (maildir)">

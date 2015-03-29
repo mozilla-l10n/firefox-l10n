@@ -53,7 +53,7 @@
 <!ENTITY escrowWarn.title "Krüptimisvõtme koopia">
 <!ENTITY escrowWarn.message1 "Oluline: see sertifitseerimiskeskus soovib, et teeksid oma privaatsest krüptimisvõtmest varukoopia.">
 <!ENTITY escrowWarn.benefit1 "See on kasulik privaatse krüptimisvõtme kaotamise korral, sest siis saad sa sertifitseerimiskeskuselt küsida sertifikaadi koopiat.">
-<!ENTITY escrowWarn.message2 "Siiski, sinu privaatset krüptimisvõtit hoitakse sel juhul sertifitseerimiskeskuses, ning seda võib olla võimalik kasutada sinu krüptitud kirjade või dokumentide lugemiseks ilma sinu loata.">
+<!ENTITY escrowWarn.message2 "Siiski, sinu privaatset krüptimisvõtit hoitakse sel juhul sertifitseerimiskeskuses ning seda võib olla võimalik kasutada sinu krüptitud kirjade või dokumentide lugemiseks ilma sinu loata.">
 <!ENTITY examineCert.label "Vaata sertifikaati">
 <!ENTITY examineCert.accesskey "V">
 
