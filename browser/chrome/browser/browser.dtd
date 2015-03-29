@@ -94,7 +94,7 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY pageSourceCmd.commandkey "u">
 <!ENTITY pageInfoCmd.label "Oldal adatai">
 <!ENTITY pageInfoCmd.accesskey "O">
-
+<!ENTITY pageInfoCmd.commandkey "i">
 <!ENTITY mirrorTabCmd.label "Lap tükrözése">
 <!ENTITY mirrorTabCmd.accesskey "t">
 <!-- LOCALIZATION NOTE (enterFullScreenCmd.label, exitFullScreenCmd.label):
@@ -105,7 +105,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY exitFullScreenCmd.accesskey "K">
 <!ENTITY fullScreenCmd.label "Teljes képernyő">
 <!ENTITY fullScreenCmd.accesskey "T">
-
+<!ENTITY fullScreenCmd.macCommandKey "f">
 <!ENTITY showAllTabsCmd.label "Az összes böngészőlap megjelenítése">
 <!ENTITY showAllTabsCmd.accesskey "m">
 
@@ -140,7 +140,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksMenu.accesskey "K">
 <!ENTITY bookmarkThisPageCmd.label "Oldal hozzáadása a könyvjelzőkhöz">
 <!ENTITY editThisBookmarkCmd.label "Könyvjelző szerkesztése">
-
+<!ENTITY bookmarkThisPageCmd.commandkey "d">
 
 <!-- LOCALIZATION NOTE (findShareServices.label):
   -  Use the unicode ellipsis char, \u2026,
