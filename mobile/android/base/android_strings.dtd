@@ -271,7 +271,7 @@ size. -->
      (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
 <!ENTITY datareporting_crashreporter_title_short "Crashreporter">
 <!ENTITY datareporting_wifi_title2 "&vendorShortName;-lokaasjetsjinst">
-<!ENTITY datareporting_wifi_geolocation_summary3 "Help &vendorShortName; de wrâld yn kaart te bringen! Diel globale wifi- en gsm-lokaasjegegevens fan jo apparaat om ús geolokaasjetsjinst te ferbetterjen">
+<!ENTITY datareporting_wifi_geolocation_summary3 "Help &vendorShortName; de wrâld yn kaart te bringen! Diel globale wifi- en gsm-lokaasje fan jo apparaat om ús geolokaasjetsjinst te ferbetterjen">
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
      actual notification that an update is available. -->
@@ -369,7 +369,7 @@ size. -->
 <!ENTITY reading_list_removed "Side út jo lêslist fuortsmiten">
 <!-- Localization note (reading_list_remove) : Used to remove the currently open page from
      the user's reading list. The opposite of overlay_share_reading_list_btn_label. -->
-<!ENTITY reading_list_remove "Ut jo lêslist fuortsmiten">
+<!ENTITY reading_list_remove "Fuortsmite fan lêslist">
 <!ENTITY reading_list_duplicate "Side stiet al yn jo lêslist">
 
 <!-- Localization note (reading_list_time_minutes2) : This string is used in the "Reading List"
@@ -567,10 +567,10 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!-- Voice search in the awesome bar -->
 <!ENTITY voicesearch_prompt "Sprek no">
-<!ENTITY voicesearch_failed_title "&brandShortName;stimsykjen">
-<!ENTITY voicesearch_failed_message "Der is op dit stuit in probleem mei stimsykjen. Probearje it letter opnij.">
-<!ENTITY voicesearch_failed_message_recoverable "Sorry! Wy koenen jo wurden net werkenne. Probearje it nochris.">
-<!ENTITY voicesearch_failed_retry "Probearje it nochris">
+<!ENTITY voicesearch_failed_title "&brandShortName;spraaksykjen">
+<!ENTITY voicesearch_failed_message "Der is op dit stuit in probleem mei spraaksykjen. Probearje it letter opnij.">
+<!ENTITY voicesearch_failed_message_recoverable "Sorry! Wy koenen jo wurden net werkenne. Probearje it opnij.">
+<!ENTITY voicesearch_failed_retry "Opnij probearje">
 
 <!-- Localization note (remote_tabs_last_synced): the variable is replaced by a
      "relative time span string" produced by Android.  This string describes the
