@@ -59,7 +59,7 @@
 <!ENTITY btnPageJS.tooltip  "JavaScript istisnolarini ma`lumotlarga qoʻshish">
 <!ENTITY btnPageJS.accesskey  "J">
 <!ENTITY btnPageSecurity.label "Xavfsizlik">
-<!ENTITY btnPageSecurity.tooltip "Xavfsizlik xatorlari va ogohlantirishlarini ma`lumotlarga qoʻshish">
+<!ENTITY btnPageSecurity.tooltip "Xatolar va himoya ogohlantirishlarini jurnalga kiritish">
 <!ENTITY btnPageSecurity.accesskey "X">
 <!-- LOCALIZATION NOTE (btnPageLogging): This is used as the text of the
   -  the toolbar. It shows or hides messages that the web developer inserted on
