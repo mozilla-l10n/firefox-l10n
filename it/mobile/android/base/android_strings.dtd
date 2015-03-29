@@ -256,6 +256,10 @@
 <!ENTITY contextmenu_top_sites_pin "Blocca sito">
 <!ENTITY contextmenu_top_sites_unpin "Sblocca sito">
 <!ENTITY contextmenu_add_search_engine "Aggiungi motore di ricerca">
+<!ENTITY doorhanger_login_edit_title "Modifica accesso">
+<!ENTITY doorhanger_login_edit_username_hint "Nome utente">
+<!ENTITY doorhanger_login_edit_password_hint "Password">
+<!ENTITY doorhanger_login_edit_toggle "Mostra password">
 <!ENTITY pref_titlebar_mode "Barra del titolo">
 <!ENTITY pref_titlebar_mode_title "Visualizza titolo pagina">
 <!ENTITY pref_titlebar_mode_url "Visualizza indirizzo pagina">
@@ -290,6 +294,7 @@
 <!ENTITY button_clear_data "Elimina dati">
 <!ENTITY button_set "Imposta">
 <!ENTITY button_clear "Cancella">
+<!ENTITY button_remember "Ricorda">
 <!ENTITY home_top_sites_title "Siti principali">
 <!ENTITY home_top_sites_add "Aggiungi un sito">
 <!ENTITY home_history_title "Cronologia">
