@@ -846,15 +846,15 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY emeNotificationsDontAskAgain.label       "Изключване на въпроса">
 <!ENTITY emeNotificationsDontAskAgain.accesskey   "И">
 
-<!ENTITY readingList.label                        "Четива">
+<!ENTITY readingList.label                        "Списък за четене">
 <!ENTITY readingList.sidebar.commandKey           "R">
-<!ENTITY readingList.showSidebar.label            "Показване на Четива в страничната лента">
+<!ENTITY readingList.showSidebar.label            "Показване на Списък за четене в страничната лента">
 <!-- Pre-landed string for bug 1124153 -->
 <!ENTITY readingList.sidebar.showMore.label       "Показване на още…">
 <!-- Pre-landed string for bug 1133662 -->
-<!ENTITY readingList.sidebar.emptyText            "Добавете статии към Четива, за да ги запазите за по-късно и при нужда лесно да ги намерите.">
+<!ENTITY readingList.sidebar.emptyText            "Добавете статии към Списък за четене, за да ги запазите за по-късно и при нужда лесно да ги намерите.">
 <!-- Pre-landed string for bug 1123525 -->
-<!ENTITY readingList.sidebar.delete.tooltip       "Премахване от вашите Четива">
+<!ENTITY readingList.sidebar.delete.tooltip       "Премахване от Списък за четене">
 <!-- Pre-landed strings for bug 1123519 -->
-<!ENTITY readingList.sidebar.add.label            "Добавяне към Четива">
-<!ENTITY readingList.sidebar.add.tooltip          "Добавяне на страницата към вашите Четива">
+<!ENTITY readingList.sidebar.add.label            "Добавяне към Списък за четене">
+<!ENTITY readingList.sidebar.add.tooltip          "Добавяне на страницата към Списък за четене">
