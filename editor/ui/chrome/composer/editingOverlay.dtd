@@ -14,8 +14,8 @@
 <!ENTITY saveCmd.accesskey "S">
 <!ENTITY saveAsCmd.label "Salva con nome…">
 <!ENTITY saveAsCmd.accesskey "m">
-<!ENTITY saveAsChangeEncodingCmd.label "Salva e cambia codifica caratteri">
-<!ENTITY saveAsChangeEncodingCmd.accesskey "d">
+<!ENTITY saveAsChangeEncodingCmd2.label "Salva e cambia la codifica del testo">
+<!ENTITY saveAsChangeEncodingCmd2.accesskey "S">
 <!ENTITY publishCmd.label "Pubblica">
 <!ENTITY publishCmd.accesskey "u">
 <!ENTITY publishCmd.key "S">
