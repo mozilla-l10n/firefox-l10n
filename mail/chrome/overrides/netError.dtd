@@ -22,10 +22,10 @@
   <li>Controleer het adres op typefouten, zoals
     <strong>ww</strong>.voorbeeld.com in plaats van
     <strong>www</strong>.voorbeeld.com</li>
-  <li>Controleer uw netwerkverbinding als u geen enkele pagina kunt
-    laden.</li>
-  <li>Verzeker u ervan dat &brandShortName; toegang heeft tot het web als uw 
-    computer of netwerk is beveiligd door een firewall of proxyserver.</li>
+  <li>Als u geen enkele pagina kunt laden, controleer dan de netwerkverbinding
+    van uw computer.</li>
+  <li>Als uw computer of netwerk wordt beveiligd door een firewall of proxy,
+    zorg er dan voor dat &brandShortName; toegang heeft tot het web.</li>
 </ul>
 ">
 
@@ -56,26 +56,26 @@
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
 <!ENTITY notCached.title "Document verlopen">
-<!ENTITY notCached.longDesc "<p>Het opgevraagde document is niet beschikbaar in de buffer.</p><ul><li>Als veiligheidsvoorzorgmaatregel vraagt &brandShortName; gevoelige documenten niet automatisch opnieuw op.</li><li>Klik op Opnieuw proberen om het document opnieuw van de website op te vragen.</li></ul>">
+<!ENTITY notCached.longDesc "<p>Het opgevraagde document is niet beschikbaar in de buffer.</p><ul><li>Als beveiligingsmaatregel vraagt &brandShortName; gevoelige documenten niet automatisch opnieuw op.</li><li>Klik op Opnieuw proberen om het document opnieuw van de website op te vragen.</li></ul>">
 
 <!ENTITY netOffline.title "Offlinemodus">
 <!ENTITY netOffline.longDesc2 "
 <ul>
-  <li>Druk op “Opnieuw proberen” om naar de onlinemodus over te schakelen en vernieuw de pagina.</li>
+  <li>Klik op “Opnieuw proberen” om naar de onlinemodus over te schakelen en vernieuw de pagina.</li>
 </ul>
 ">
 
 <!ENTITY contentEncodingError.title "Inhoudcoderingsfout">
 <!ENTITY contentEncodingError.longDesc "
 <ul>
-  <li>Neem contact op met de website-eigenaars om ze te informeren over dit probleem.</li>
+  <li>Neem contact op met de website-eigenaars om ze over dit probleem te informeren.</li>
 </ul>
 ">
 
 <!ENTITY unsafeContentType.title "Onveilig bestandstype">
 <!ENTITY unsafeContentType.longDesc "
 <ul>
-  <li>Neem contact op met de website-eigenaars om ze te informeren over dit probleem.</li>
+  <li>Neem contact op met de website-eigenaars om ze over dit probleem te informeren.</li>
 </ul>
 ">
 
@@ -105,9 +105,9 @@
 <!ENTITY proxyResolveFailure.longDesc "
 <ul>
   <li>Controleer of uw proxyinstellingen juist zijn.</li>
-  <li>Verzeker u ervan dat uw computer op een werkend netwerk is aangesloten.</li>
-  <li>Verzeker u ervan dat &brandShortName; toegang heeft tot het web als uw 
-    computer of netwerk is beveiligd door een firewall of proxyserver.</li>
+  <li>Controleer of uw computer een werkende netwerkverbinding heeft.</li>
+  <li>Als uw computer of netwerk wordt beveiligd door een firewall of proxy,
+    zorg er dan voor dat &brandShortName; toegang heeft tot het web.</li>
 </ul>
 ">
 
@@ -122,8 +122,8 @@
 <!ENTITY unknownSocketType.title "Onverwacht antwoord van server">
 <!ENTITY unknownSocketType.longDesc "
 <ul>
-  <li>Verzeker u ervan dat de persoonlijke beveiligingsbeheerder is geïnstalleerd op
-    uw systeem.</li>
+  <li>Zorg ervoor dat de persoonlijke beveiligingsbeheerder op uw systeem
+    is geïnstalleerd.</li>
   <li>Dit kan het gevolg zijn van een niet-standaard configuratie van de server.</li>
 </ul>
 ">
@@ -132,7 +132,7 @@
 <!ENTITY nssFailure2.longDesc2 "
 <ul>
   <li>De pagina die u wilt bekijken kan niet worden weergegeven, omdat de echtheid van de ontvangen gegevens niet kon worden geverifieerd.</li>
-  <li>Neem contact op met de website-eigenaars om ze te informeren over dit probleem.</li>
+  <li>Neem contact op met de website-eigenaars om ze over dit probleem te informeren.</li>
 </ul>
 ">
 
@@ -150,9 +150,10 @@
 <ul>
   <li>Misschien is de website tijdelijk niet beschikbaar of overbelast. Probeer het 
     over enkele ogenblikken opnieuw.</li>
-  <li>Controleer uw netwerkverbinding als u geen enkele pagina kunt laden.</li>
-  <li>Verzeker u ervan dat &brandShortName; toegang heeft tot het web als uw 
-    computer of netwerk is beveiligd door een firewall of proxyserver.</li>
+  <li>Als u geen enkele pagina kunt laden, controleer dan de netwerkverbinding
+    van uw computer.</li>
+  <li>Als uw computer of netwerk wordt beveiligd door een firewall of proxy,
+    zorg er dan voor dat &brandShortName; toegang heeft tot het web.</li>
 </ul>
 ">
 
@@ -172,7 +173,7 @@
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; heeft voorkomen dat de pagina op deze manier werd geladen, omdat de pagina een inhoudbeveiligingsbeleid heeft dat dit niet toestaat.</p>">
 
 <!ENTITY corruptedContentError.title "Beschadigde-inhoudsfout">
-<!ENTITY corruptedContentError.longDesc "<p>De inhoud die u wilt bekijken kan niet worden weergegeven, omdat er een fout in de gegevensoverdracht is gedetecteerd.</p><ul><li>Neem contact op met de website-eigenaars om ze te informeren over dit probleem.</li></ul>">
+<!ENTITY corruptedContentError.longDesc "<p>De inhoud die u wilt bekijken kan niet worden weergegeven, omdat er een fout in de gegevensoverdracht is gedetecteerd.</p><ul><li>Neem contact op met de website-eigenaars om ze over dit probleem te informeren.</li></ul>">
 
 <!ENTITY securityOverride.linkText "Of u kunt een uitzondering toevoegen…">
 <!ENTITY securityOverride.getMeOutOfHereButton "Haal me hier vandaan!">
@@ -191,4 +192,4 @@ functionality specific to thunderbird. -->
 ">
 
 <!ENTITY remoteXUL.title "Remote XUL">
-<!ENTITY remoteXUL.longDesc "<p><ul><li>Neem contact op met de website-eigenaars om ze te informeren over dit probleem.</li></ul></p>">
+<!ENTITY remoteXUL.longDesc "<p><ul><li>Neem contact op met de website-eigenaars om ze over dit probleem te informeren.</li></ul></p>">
