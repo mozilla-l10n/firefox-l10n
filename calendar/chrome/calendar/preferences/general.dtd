@@ -33,6 +33,10 @@
 <!ENTITY pref.default_task_offset_start.label "Relativa a l'inici">
 <!ENTITY pref.default_task_offset_next_hour.label "Relativa a la propera hora">
 
+<!ENTITY pref.calendar.todaypane.agenda.caption "Plafó d'avui">
+
+
+
 <!ENTITY pref.accessibility.label "Accessibilitat" >
 <!ENTITY pref.systemcolors.label "Optimitza els colors per a l'accessibilitat" >
 <!ENTITY pref.systemcolors.accesskey "c">

@@ -145,6 +145,8 @@
 <!ENTITY messagePaneVertical.accesskey "v">
 <!ENTITY showFolderPaneCmd.label "Carpetes">
 <!ENTITY showFolderPaneCmd.accesskey "C">
+
+
 <!ENTITY showMessageCmd.label "Subfinestra de missatge">
 <!ENTITY showMessageCmd.accesskey "e">
 
@@ -593,7 +595,9 @@
 <!ENTITY manageTags.accesskey "G">
 <!-- Folder Pane -->
 
-<!ENTITY folderColumn.label "Nom">
+<!ENTITY folderNameColumn.label "Nom">
+
+
 <!ENTITY folderSizeColumn.label "Mida">
 <!-- Folder Pane Context Menu -->
 
@@ -662,8 +666,8 @@
 <!ENTITY statusColumn.label "Estat">
 <!ENTITY sizeColumn.label "Mida">
 <!ENTITY junkStatusColumn.label "Estat de correu brossa">
-<!ENTITY unreadColumn.label "Per llegir">
-<!ENTITY totalColumn.label "Total">
+
+
 <!ENTITY readColumn.label "Llegit">
 <!ENTITY receivedColumn.label "Recepció">
 <!ENTITY starredColumn.label "Destacat">

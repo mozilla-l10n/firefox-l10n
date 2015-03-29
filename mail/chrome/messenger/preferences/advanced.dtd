@@ -3,20 +3,21 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY itemGeneral.label       "General">
+
 <!ENTITY itemDisplay.label       "Lectura i visualització">
 <!ENTITY itemUpdate.label        "Actualització">
 <!ENTITY itemNetworking.label    "Xarxa i espai de disc">
 <!ENTITY itemCertificates.label  "Certificats">
 <!-- General Settings -->
 
-
-<!ENTITY submitTelemetry.label         "Tramet dades del rendiment">
-<!ENTITY submitTelemetry.accesskey     "r">
-<!ENTITY telemetryInfoLink.label       "Més informació sobre la telemesura">
 <!ENTITY enableGlodaSearch.label       "Habilita el cercador i indexador de missatges">
 <!ENTITY enableGlodaSearch.accesskey   "i">
 <!ENTITY allowHWAccel.label            "Utilitza l'acceleració de maquinari quan sigui disponible">
 <!ENTITY allowHWAccel.accesskey        "h">
+
+
+
+
 
 <!ENTITY scrolling.label               "Desplaçament">
 <!ENTITY useAutoScroll.label           "Utilitza el desplaçament automàtic">
@@ -37,6 +38,16 @@
 <!ENTITY returnReceiptsInfo.label      "Determina com el &brandShortName; gestiona les confirmacions de recepció">
 <!ENTITY showReturnReceipts.label      "Confirmacions de recepció…">
 <!ENTITY showReturnReceipts.accesskey  "r">
+<!-- Data Choices -->
+
+
+
+
+
+
+
+
+
 <!-- Display and Reading Settings -->
 
 <!ENTITY reading.caption               "Lectura">

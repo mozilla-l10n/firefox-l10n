@@ -14,8 +14,8 @@
 <!ENTITY pref.calendar.alarms.sound.useDefault.accessKey "d">
 <!ENTITY pref.calendar.alarms.sound.browse.label "Navega…">
 <!ENTITY pref.calendar.alarms.sound.browse.accessKey "N">
-<!ENTITY pref.calendar.alarms.sound.preview.label "Prova">
-<!ENTITY pref.calendar.alarms.sound.preview.accessKey "P">
+
+
 <!ENTITY pref.showalarmbox "Mostra el diàleg del recordatori">
 <!ENTITY pref.calendar.alarms.showAlarmBox.accessKey "g">
 <!ENTITY pref.missedalarms "Mostra els recordatoris perduts">

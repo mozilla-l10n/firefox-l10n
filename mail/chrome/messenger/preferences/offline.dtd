@@ -11,8 +11,8 @@
 <!ENTITY radioRememberPrevState.accesskey "R">
 <!ENTITY radioAskState.label "Pregunta'm l'estat en línia">
 <!ENTITY radioAskState.accesskey "k">
-<!ENTITY radioAlwaysOnline.label "Connectat">
-<!ENTITY radioAlwaysOnline.accesskey "l">
+<!ENTITY radioAlwaysOnlineState.label "Connectat">
+<!ENTITY radioAlwaysOnlineState.accesskey "l">
 
 
 
