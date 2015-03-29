@@ -5,8 +5,8 @@
 <!ENTITY  no_space_to_start_error "&brandShortName; ਸ਼ੁਰੂ ਕਰਨ ਲਈ ਲੋੜੀਦੀ ਥਾਂ ਉਪਲੱਬਧ ਨਹੀਂ ਹੈ">
 <!ENTITY  error_loading_file "&brandShortName; ਨੂੰ ਚਲਾਉਣ ਲਈ ਲੋੜੀਦੀਆਂ ਫਾਈਲਾਂ ਲੋਡ ਕਰਨ ਦੀ ਕੋਸ਼ਿਸ਼ ਦੇ ਦੌਰਾਨ ਗਲਤੀ ਆਈ ਹੈ।">
 
-<!ENTITY  onboard_start_message2 "Welcome to &brandShortName;">
-<!ENTITY  onboard_start_subtext2 "More privacy features and ways to customize than ever.">
+<!ENTITY  onboard_start_message2 "&brandShortName; ਉੱਤੇ ਜੀ ਆਇਆਂ ਨੂੰ">
+<!ENTITY  onboard_start_subtext2 "ਪਰਦੇਦਾਰੀ ਅਤੇ ਪਹਿਲਾਂ ਨਾਲੋਂ ਕਿਤੇ ਵੱਧ ਮਨਪਸੰਦ ਬਣਾਉਣ ਦੇ ਢੰਗਾਂ ਨਾਲ।">
 <!ENTITY  onboard_start_button_account "&brandShortName; ਵਿੱਚ ਸਾਇਨ ਇਨ ਕਰੋ">
 <!ENTITY  onboard_start_button_browser "ਬਰਾਊਜ਼ ਕਰਨਾ ਸ਼ੁਰੂ ਕਰੋ">
 
@@ -200,8 +200,8 @@
 <!ENTITY pref_cookies_disabled "ਬੰਦ ਹਨ">
 
 
-<!ENTITY pref_tracking_protection_title "Tracking protection">
-<!ENTITY pref_tracking_protection_summary "&brandShortName; will prevent sites from tracking you">
+<!ENTITY pref_tracking_protection_title "ਟਰੈਕ ਕਰਨ ਤੋਂ ਸੁਰੱਖਿਆ">
+<!ENTITY pref_tracking_protection_summary "&brandShortName; ਤੁਹਾਨੂੰ ਟਰੈਕ ਕੀਤੇ ਜਾਣ ਤੋਂ ਬਚਾਉਂਦਾ ਹੈ">
 
 <!ENTITY pref_donottrack_title "ਟਰੈਕ ਨਾ ਕਰੋ">
 <!ENTITY pref_donottrack_summary "&brandShortName; ਸਾਈਟਾਂ ਨੂੰ ਦੱਸੇਗਾ ਕਿ ਤੁਸੀਂ ਟਰੈਕ ਨਹੀਂ ਕੀਤੇ ਜਾਣਾ ਚਾਹੁੰਦੇ ਹੋ">
@@ -243,7 +243,7 @@ size. -->
 <!ENTITY pref_media_autoplay_enabled "ਆਪਣੇ-ਆਪ ਚਲਾਉਣ ਦੀ ਇਜਾਜ਼ਤ ਦਿਉ">
 <!ENTITY pref_media_autoplay_enabled_summary "ਕੰਟਰੋਲ ਕਰੋ ਕਿ ਜੇ ਵੈੱਬਸਾਈਟਾਂ ਆਪਣੇ-ਆਪ ਵੀਡੀਓ ਤੇ ਹੋਰ ਮੀਡੀਆ ਸਮੱਗਰੀ ਨੂੰ ਚਲਾ ਸਕਦੀਆਂ ਹਨ">
 
-<!ENTITY pref_zoom_force_enabled "Always enable zoom">
+<!ENTITY pref_zoom_force_enabled "ਹਮੇਸ਼ਾ ਜ਼ੂਮ ਸਮਰੱਥ ਕਰੋ">
 <!ENTITY pref_zoom_force_enabled_summary "Force override so you can zoom any page">
 
 <!ENTITY pref_use_master_password "ਮਾਸਟਰ ਪਾਸਵਰਡ ਵਰਤੋਂ">
@@ -399,10 +399,10 @@ size. -->
 
 
 <!ENTITY reading_list_added "ਸਫ਼ੇ ਨੂੰ ਤੁਹਾਡੀ ਪੜ੍ਹਨ ਸੂਚੀ ਵਿੱਚ ਜੋੜਿਆ ਗਿਆ">
-<!ENTITY reading_list_removed "Page removed from your Reading List">
+<!ENTITY reading_list_removed "ਤੁਹਾਡੀ ਪੜ੍ਹਨ ਸੂਚੀ ਤੋਂ ਸਫ਼ੇ ਨੂੰ ਹਟਾਇਆ">
 <!-- Localization note (reading_list_remove) : Used to remove the currently open page from
      the user's reading list. The opposite of overlay_share_reading_list_btn_label. -->
-<!ENTITY reading_list_remove "Remove from Reading List">
+<!ENTITY reading_list_remove "ਪੜ੍ਹਨ ਸੂਚੀ ਤੋਂ ਹਟਾਓ">
 <!ENTITY reading_list_duplicate "ਸਫਾ ਪਹਿਲਾਂ ਹੀ ਤੁਹਾਡੀ ਪੜ੍ਹਨ ਸੂਚੀ ਵਿੱਚ ਹੈ">
 
 <!-- Localization note (reading_list_time_minutes2) : This string is used in the "Reading List"
@@ -470,7 +470,7 @@ size. -->
 <!ENTITY home_remote_tabs_empty "ਹੋਰ ਯੰਤਰਾਂ ਤੋਂ ਤੁਹਾਡੀਆਂ ਟੈਬਾਂ ਨੂੰ ਇੱਥੇ ਵੇਖਾਇਆ ਜਾਂਦਾ ਹੈ।">
 <!ENTITY home_remote_tabs_unable_to_connect "ਕੁਨੈਕਟ ਕਰਨ ਲਈ ਅਸਮਰੱਥ">
 <!ENTITY home_remote_tabs_need_to_sign_in "ਆਪਣੇ ਫਾਇਰਫਾਕਸ ਨਾਲ ਮੁੜ-ਕੁਨੈਕਟ ਕਰਨ ਤੇ ਸਿੰਕ ਨੂੰ ਜਾਰੀ ਰੱਖਣ ਲਈ ਸਾਇਨ ਇਨ ਕਰੋ।">
-<!ENTITY home_remote_tabs_need_to_finish_migrating "Your new Firefox Account is ready!">
+<!ENTITY home_remote_tabs_need_to_finish_migrating "ਤੁਹਾਡਾ ਨਵਾਂ ਫਾਇਰਫਾਕਸ ਖਾਤਾ ਤਿਆਰ ਹੈ!">
 
 <!ENTITY home_remote_tabs_trouble_verifying "ਆਪਣੇ ਖਾਤੇ ਦੀ ਜਾਂਚ ਲਈ ਸਮੱਸਿਆ ਆ ਰਹੀ ਹੈ?">
 <!ENTITY home_remote_tabs_need_to_verify "ਸਿੰਕ ਕਰਨਾ ਸ਼ੁਰੂ ਕਰਨ ਲਈ ਆਪਣੇ ਫਾਇਰਫਾਕਸ ਖਾਤੇ ਦੀ ਜਾਂਚ ਕਰੋ।">
@@ -597,11 +597,11 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 
 <!-- Voice search in the awesome bar -->
-<!ENTITY voicesearch_prompt "Speak now">
-<!ENTITY voicesearch_failed_title "&brandShortName; Voice Search">
-<!ENTITY voicesearch_failed_message "There is a problem with voice search right now. Please try later.">
-<!ENTITY voicesearch_failed_message_recoverable "Sorry! We could not recognize your words. Please try again.">
-<!ENTITY voicesearch_failed_retry "Try again">
+<!ENTITY voicesearch_prompt "ਹੁਣ ਬੋਲੋ">
+<!ENTITY voicesearch_failed_title "&brandShortName; ਆਵਾਜ਼ ਖੋਜ">
+<!ENTITY voicesearch_failed_message "ਇਸ ਵਲੇੇ ਆਵਾਜ਼ ਖੋਜ ਨਾਲ ਸਮੱਸਿਆ ਹੈ। ਬਾਅਦ ਵਿੱਚ ਕੋਸ਼ਿਸ਼ ਕਰੋ।">
+<!ENTITY voicesearch_failed_message_recoverable "ਅਫਸੋਸੋ! ਸਾਨੂੰ ਤੁਹਾਡੇ ਸ਼ਬਦ ਸਮਝ ਨਹੀਂ ਆਏ। ਫੇਰ ਕੋਸ਼ਿਸ਼ ਕਰੋ।">
+<!ENTITY voicesearch_failed_retry "ਫੇਰ ਕੋਸ਼ਿਸ਼ ਕਰੋ">
 
 <!-- Localization note (remote_tabs_last_synced): the variable is replaced by a
      "relative time span string" produced by Android.  This string describes the
@@ -609,8 +609,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      include "42 minutes ago", "4 days ago", "last week", etc. The subject of
      "Last synced" is one of the user's other Sync clients, typically Firefox on
      their desktop or laptop.-->
-<!ENTITY remote_tabs_last_synced "ਪਿਛਲਾ ਸਿੰਕ: &formatS;">
-<!ENTITY remote_tabs_never_synced "Last synced: never">
+<!ENTITY remote_tabs_last_synced "ਆਖਰੀ ਕੀਤਾ ਸਿੰਕ: &formatS;">
+<!ENTITY remote_tabs_never_synced "ਆਖਰੀ ਕੀਤਾ ਸਿੰਕ: ਕਦੇ ਨਹੀਂ">
 <!-- Find-In-Page strings -->
 <!-- LOCALIZATION NOTE (find_matchcase): This is meant to appear as an icon that changes color
      if match-case is activated. i.e. No more than two letters, one uppercase, one lowercase. -->
