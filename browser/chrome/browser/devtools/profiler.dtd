@@ -56,8 +56,6 @@
 <!ENTITY profilerUI.table.totalPercentage "Celkové vyťaženie">
 <!ENTITY profilerUI.table.selfPercentage  "Vlastné vyťaženie">
 <!ENTITY profilerUI.table.samples         "Vzorky">
-<!ENTITY profilerUI.table.totalAlloc      "Celkom vyhradení">
-<!ENTITY profilerUI.table.selfAlloc       "Vlastné vyhradenia">
 <!ENTITY profilerUI.table.function        "Funkcia">
 <!ENTITY profilerUI.table.totalAlloc1       "Celkové zozbierané vyhradenia">
 <!ENTITY profilerUI.table.totalAllocTooltip "Celkový počet vyhradení objektu zozbieraných v tejto lokácii a vo volaniach">
