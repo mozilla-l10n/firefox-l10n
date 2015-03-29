@@ -122,7 +122,7 @@
 <!ENTITY clearCacheNow.accesskey          "P">
 
 <!-- Certificates -->
-<!ENTITY certSelection.description        "Kui server nõuab kasutaja personaalset sertifikaati:">
+<!ENTITY certSelection.description        "Kui server nõuab kasutaja isiklikku sertifikaati:">
 <!ENTITY certs.auto                       "valitakse üks automaatselt">
 <!ENTITY certs.auto.accesskey             "v">
 <!ENTITY certs.ask                        "küsitakse iga kord">

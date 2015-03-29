@@ -42,9 +42,9 @@
 <!ENTITY certPicker.detailsLabel "Valitud sertifikaadi üksikasjad:">
 
 <!ENTITY pkcs12.setpassword.title "Parooli valimine sertifikaadi varundamiseks">
-<!ENTITY pkcs12.setpassword.message "Sertifikaadi varundamisparool kaitseb sinu sertifikaadi varukoopiat, mida oled loomas.  Parooli määramine on varundamise jätkamiseks vajalik.">
-<!ENTITY pkcs12.setpassword.label1 "Sertifikaadi varundamisparool:">
-<!ENTITY pkcs12.setpassword.label2 "Sertifikaadi varundamisparool (uuesti):">
+<!ENTITY pkcs12.setpassword.message "Sertifikaadi varukoopia parool kaitseb sinu sertifikaadi hetkel loomisel olevat varukoopiat.  Ilma parooli sisestamata pole varundamise jätkamine võimalik.">
+<!ENTITY pkcs12.setpassword.label1 "Sertifikaadi varukoopia parool:">
+<!ENTITY pkcs12.setpassword.label2 "Sertifikaadi varukoopia parool (uuesti):">
 <!ENTITY pkcs12.setpassword.reminder "Tähtis: kui sa unustad varukoopia parooli, ei ole võimalik sertifikaati taastada.  Hoia parooli kindlas kohas.">
 
 <!ENTITY chooseToken.title "Tunnuse valimise dialoog">
@@ -59,7 +59,7 @@
 
 <!-- Strings for the CreateCertInfo dialog  -->
 <!ENTITY createCertInfo.title "Privaatvõtme tekitamine">
-<!ENTITY createCertInfo.msg1 "Genereeritakse võtit... Selleks võib kuluda mõni minut...">
+<!ENTITY createCertInfo.msg1 "Võtme genereerimine... Selleks võib kuluda mõni minut...">
 <!ENTITY createCertInfo.msg2 "Palun oota...">
 
 <!-- Strings for protectedAuth dialog -->
