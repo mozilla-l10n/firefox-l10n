@@ -34,8 +34,8 @@
 <!ENTITY healthReportLearnMore.label     "További információ">
 
 <!ENTITY telemetryDesc.label             "Adatokat küld a &vendorShortName;nak a böngésző teljesítményéről, a hardverről, a felhasználásról és az egyéni beállításokról, hogy a &brandShortName; jobb lehessen.">
-
-
+<!ENTITY enableTelemetryData.label       "További adatok (például Telemetria) megosztása">
+<!ENTITY enableTelemetryData.accesskey   "T">
 <!ENTITY telemetryLearnMore.label        "További információ">
 
 <!ENTITY crashReporterDesc.label         "A &brandShortName; hibajelentéseket küld, hogy a &vendorShortName; stabilabbá és biztonságosabbá tehesse a böngészőjét">
