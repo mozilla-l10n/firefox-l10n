@@ -23,7 +23,7 @@
 <!ENTITY projectMenu_remove_label "Вилучити проект">
 <!ENTITY projectMenu_remove_accesskey "л">
 <!ENTITY projectMenu_showPrefs_label "Налаштування">
-<!ENTITY projectMenu_showPrefs_accesskey "д">
+<!ENTITY projectMenu_showPrefs_accesskey "Н">
 <!ENTITY projectMenu_manageComponents_label "Керувати додатковими компонентами">
 <!ENTITY projectMenu_manageComponents_accesskey "К">
 
