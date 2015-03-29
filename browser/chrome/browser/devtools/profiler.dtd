@@ -93,7 +93,11 @@
   -  is displayed next to a checkbox determining whether or not memory
   -  measurements are enabled. -->
 
+<!ENTITY profilerUI.enableMemory             "Enregistra la memòria">
+<!ENTITY profilerUI.enableMemory.tooltiptext "Enregistra el consum de memòria durant l'anàlisi de rendiment.">
 <!-- LOCALIZATION NOTE (profilerUI.enableFramerate): This string
   -  is displayed next to a checkbox determining whether or not framerate
   -  is recorded. -->
 
+<!ENTITY profilerUI.enableFramerate             "Enregistra els fotogrames per segon">
+<!ENTITY profilerUI.enableFramerate.tooltiptext "Enregistra els fotogrames per segon durant l'anàlisi de rendiment.">
