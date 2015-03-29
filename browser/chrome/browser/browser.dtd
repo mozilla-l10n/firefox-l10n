@@ -648,16 +648,16 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY findOnCmd.commandkey "f">
 <!ENTITY findAgainCmd.label  "Fumana kwakhona">
 <!ENTITY findAgainCmd.accesskey "k">
-
+<!ENTITY findAgainCmd.commandkey "g">
 <!ENTITY findAgainCmd.commandkey2 "VK_F3">
-
+<!ENTITY findSelectionCmd.commandkey "e">
 
 <!ENTITY spellAddDictionaries.label "Yongeza izichazi-magama…">
 <!ENTITY spellAddDictionaries.accesskey "Y">
 
 <!ENTITY editBookmark.done.label                     "Kwenziwe">
 <!ENTITY editBookmark.cancel.label                   "Rhoxisa">
-
+<!ENTITY editBookmark.removeBookmark.accessKey       "R">
 
 <!ENTITY identity.unverifiedsite2 "Le webhusayithi ayinikezeli nkcazelo yesazisi.">
 <!ENTITY identity.connectedTo "Udityanisiwe kwi">
@@ -693,7 +693,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY syncBrand.shortName.label    "Ungqamaniso">
 
 <!ENTITY syncSetup.label              "Seta &syncBrand.shortName.label;…">
-
+<!ENTITY syncSetup.accesskey          "Y">
 <!ENTITY syncSyncNowItem.label        "Ngqamanisa ngoku">
 <!ENTITY syncSyncNowItem.accesskey    "N">
 <!ENTITY syncReAuthItem.label         "Qhagamshelanisa ngokutsha &syncBrand.shortName.label;…">
