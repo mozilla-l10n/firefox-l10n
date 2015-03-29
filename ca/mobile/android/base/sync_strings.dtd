@@ -94,7 +94,7 @@
 <!ENTITY bookmarks.folder.pinned.label "Fixes">
 <!-- Notification strings -->
 
-<!ENTITY sync.notification.oneaccount.label "Només es permet un compte del &syncBrand.fullName.label;">
+<!ENTITY sync.notification.oneaccount.label "Només es permet un compte del &syncBrand.fullName.label;.">
 <!ENTITY sync.notification.configure.saved "Les vostres seleccions s\u0027han desat.">
 <!-- Incorrect settings and changing credentials. -->
 
@@ -150,8 +150,8 @@
 
 <!ENTITY fxaccount_create_account_header2 "Creeu un compte del Firefox">
 <!ENTITY fxaccount_create_account_password_length_restriction "Ha de tenir com a mínim 8 caràcters">
-
-
+<!ENTITY fxaccount_create_account_day_of_birth "Dia">
+<!ENTITY fxaccount_create_account_month_of_birth "Mes">
 <!ENTITY fxaccount_create_account_year_of_birth "Any de naixement">
 <!-- Localization note: &formatS1; is fxaccount_policy_linktos, &formatS2; is fxaccount_policy_linkprivacy, both hyperlinked. -->
 <!ENTITY fxaccount_create_account_policy_text2 "En continuar, accepto les &formatS1; i l\u0027&formatS2; dels serveis al núvol del Firefox.">
@@ -193,7 +193,7 @@
 
 <!ENTITY fxaccount_finish_migrating_header "Inicieu la sessió per acabar l\u0027actualització">
 <!ENTITY fxaccount_finish_migrating_button_label "Acaba l\u0027actualització">
-
+<!ENTITY fxaccount_finish_migrating_description "L\u0027actualització pot fer que es transfereixin moltes dades. És millor ser que ho feu des d\u0027una xarxa Wi-Fi.">
 
 <!ENTITY fxaccount_status_header2 "Compte del Firefox">
 <!ENTITY fxaccount_status_signed_in_as "Sessió iniciada com a">
