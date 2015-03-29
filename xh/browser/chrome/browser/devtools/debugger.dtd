@@ -113,6 +113,8 @@
 <!ENTITY debuggerUI.searchFile.accesskey "P">
 <!-- LOCALIZATION NOTE (debuggerUI.searchGlobal): This is the text that appears
   -  in the source editor's context menu for the global search operation. -->
+
+<!ENTITY debuggerUI.searchGlobal           "Khangela Zonke Iifayile">
 <!ENTITY debuggerUI.searchGlobal.key       "F">
 <!ENTITY debuggerUI.searchGlobal.accesskey "F">
 <!-- LOCALIZATION NOTE (debuggerUI.searchFunction): This is the text that appears
@@ -157,13 +159,15 @@
   -  breakpoint. -->
 
 <!ENTITY debuggerUI.seMenuCondBreak     "Faka i-Breakpoint yeXhomekeko">
-
+<!ENTITY debuggerUI.seMenuCondBreak.key "B">
 <!-- LOCALIZATION NOTE (debuggerUI.tabs.*): This is the text that
   -  appears in the debugger's side pane tabs. -->
 
-
-
-
+<!ENTITY debuggerUI.tabs.sources        "Imithombo">
+<!ENTITY debuggerUI.tabs.traces         "Imikhondo">
+<!ENTITY debuggerUI.tabs.callstack      "Ukubizwa Kobekelelo Lwamaxabiso">
+<!ENTITY debuggerUI.tabs.variables      "Amaxabiso otshintshatshintsho">
+<!ENTITY debuggerUI.tabs.events         "Iziganeko">
 <!-- LOCALIZATION NOTE (debuggerUI.seMenuAddWatch): This is the text that
   -  appears in the source editor context menu for adding an expression. -->
 
@@ -187,6 +191,6 @@
 <!ENTITY debuggerUI.stepping.stepOver1  "VK_F10">
 <!ENTITY debuggerUI.stepping.stepOver2  "VK_QUOTE">
 <!ENTITY debuggerUI.stepping.stepIn1    "VK_F11">
-
+<!ENTITY debuggerUI.stepping.stepIn2    "VK_SEMICOLON">
 <!ENTITY debuggerUI.stepping.stepOut1   "VK_F11">
-
+<!ENTITY debuggerUI.stepping.stepOut2   "VK_SEMICOLON">
