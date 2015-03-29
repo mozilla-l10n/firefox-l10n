@@ -26,8 +26,8 @@
 <!ENTITY syncMy.label               "Sync на моите">
 <!ENTITY engine.bookmarks.label     "Отметки">
 <!ENTITY engine.bookmarks.accesskey "О">
-<!ENTITY engine.readinglist.label   "Четива">
-<!ENTITY engine.readinglist.accesskey "Ч">
+<!ENTITY engine.readinglist.label   "Списък за четене">
+<!ENTITY engine.readinglist.accesskey "ч">
 <!ENTITY engine.tabs.label          "Подпрозорци">
 <!ENTITY engine.tabs.accesskey      "П">
 <!ENTITY engine.history.label       "История">
