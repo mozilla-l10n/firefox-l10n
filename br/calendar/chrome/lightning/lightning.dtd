@@ -13,31 +13,39 @@
 
 <!ENTITY lightning.menupopup.new.event.label    "Darvoud...">
 <!ENTITY lightning.menupopup.new.event.accesskey "D">
-
-
-
-
+<!ENTITY lightning.menupopup.new.task.label     "Trevell...">
+<!ENTITY lightning.menupopup.new.task.accesskey "T">
+<!ENTITY lightning.menupopup.new.calendar.label "Deizataer...">
+<!ENTITY lightning.menupopup.new.calendar.accesskey "D">
 <!-- Open menu popup in File menu -->
 
 <!ENTITY lightning.menupopup.open.label               "Digeriñ">
 <!ENTITY lightning.menupopup.open.accesskey           "D">
-
-
-
-
+<!ENTITY lightning.menupopup.open.message.label       "Kemennadennoù enrollet...">
+<!ENTITY lightning.menupopup.open.message.accesskey   "K">
+<!ENTITY lightning.menupopup.open.calendar.label      "Restr deiziataer...">
+<!ENTITY lightning.menupopup.open.calendar.accesskey  "R">
 <!-- View Menu -->
 
-
-
+<!ENTITY lightning.menu.view.calendar.label            "Deiziataer">
+<!ENTITY lightning.menu.view.calendar.accesskey        "i">
+<!ENTITY lightning.menu.view.tasks.label               "Trevelloù">
+<!ENTITY lightning.menu.view.tasks.accesskey           "e">
 <!-- Events and Tasks menu -->
 
+<!ENTITY lightning.menu.eventtask.label                "Darvoudoù ha trevelloù">
+<!ENTITY lightning.menu.eventtask.accesskey            "h">
 <!-- properties dialog, calendar creation wizard -->
+
+<!ENTITY lightning.calendarproperties.email.label               "Postel :">
 <!-- iMIP Bar (meeting support) -->
 
-
-
-
-
+<!ENTITY lightning.imipbar.btnAccept.label                                  "Asantiñ">
+<!ENTITY lightning.imipbar.btnAccept2.tooltiptext                           "Asantiñ ar bedadenn darvoud">
+<!ENTITY lightning.imipbar.btnAcceptRecurrences.label                       "Asantiñ an holl">
+<!ENTITY lightning.imipbar.btnAcceptRecurrences2.tooltiptext                "Asantiñ ar bedadenn darvoud evit an holl degouezhioù eus an darvoud">
+<!ENTITY lightning.imipbar.btnAdd.label                                     "Ouzhpennañ">
+<!ENTITY lightning.imipbar.btnAdd.tooltiptext                               "Ouzhpennañ un darvoud d'an deiziataer">
 
 
 
@@ -56,9 +64,9 @@
 
 
 
-
-
-
+<!ENTITY lightning.imipbar.btnUpdate.label                                  "Hizivaat">
+<!ENTITY lightning.imipbar.btnUpdate.tooltiptext                            "Hizivaat an darvoud en deiziataer">
+<!ENTITY lightning.imipbar.description                                      "Ur bedadenn d'un darvoud a zo endalc'het gant ar gemennadenn-mañ.">
 <!-- Lightning specific keybindings -->
 
 

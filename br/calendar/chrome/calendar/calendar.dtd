@@ -233,8 +233,8 @@
 <!ENTITY calendar.context.convertmenu.event.accesskey    "D">
 
 
-
-
+<!ENTITY calendar.context.convertmenu.task.label         "Trevell...">
+<!ENTITY calendar.context.convertmenu.task.accesskey     "T">
 
 
 
@@ -285,7 +285,7 @@
 
 <!-- Select Calendar Dialog -->
 <!-- Calendar Printing -->
-
+<!ENTITY calendar.print.title.label "TItl :">
 
 
 
@@ -301,7 +301,7 @@
 
 <!-- Error reporting -->
 
-
+<!ENTITY calendar.error.description "Deskrivadur :">
 
 <!-- Extract buttons in message header -->
 

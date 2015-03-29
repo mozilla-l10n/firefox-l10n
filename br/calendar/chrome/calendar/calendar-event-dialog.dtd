@@ -149,7 +149,7 @@
 
 
 
-
+<!ENTITY event.attendees.label                            "Perzhidi :" >
 
 
 
@@ -327,7 +327,7 @@
 <!-- Read-Only dialog -->
 
 <!ENTITY read.only.general.label         "Hollek">
-
+<!ENTITY read.only.title.label           "TItl :">
 
 
 <!ENTITY read.only.event.end.label       "Deiziad ar fin :">
@@ -335,7 +335,7 @@
 <!ENTITY read.only.repeat.label          "Adlenn :">
 <!ENTITY read.only.location.label        "Lec'hiadur :">
 <!ENTITY read.only.category.label        "Rummad :">
-
+<!ENTITY read.only.organizer.label       "Aozerien :">
 <!ENTITY read.only.reply.label           "Respont :">
 <!ENTITY read.only.accept.label          "Kemer a rin perzh">
 <!ENTITY read.only.decline.label         "Ne gemerin ket perzh">

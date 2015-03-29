@@ -7,9 +7,11 @@
 
 <!-- Calendar Invitations List -->
 
+<!ENTITY calendar.invitations.list.accept.button.label                  "Asantiñ">
 
 
 
 
 
 
+<!ENTITY calendar.invitations.list.none.text                            "Netra">
