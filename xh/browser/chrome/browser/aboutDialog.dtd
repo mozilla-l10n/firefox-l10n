@@ -22,7 +22,7 @@
 <!ENTITY warningDesc.telemetryDesc  "Ithumela ngokwayo inkcazelo engomsebenzi, ihadiwe, usetyenziso nolungiselelo &vendorShortName; ukuze ibe nokwenza &brandShortName; ngcono.">
 <!-- LOCALIZATION NOTE (community.exp.*) This paragraph is shown in "experimental" builds, i.e. Nightly and Aurora builds, instead of the other "community.*" strings below. -->
 
-<!ENTITY community.exp.start        "">
+<!ENTITY community.exp.start        "I-Firefox">
 <!-- LOCALIZATION NOTE (community.exp.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
 <!ENTITY community.exp.mozillaLink  "&vendorShortName;">
 <!ENTITY community.exp.middle       " yi ">
@@ -32,7 +32,7 @@
 
 <!ENTITY community.start2           "&brandShortName; iyilwe ">
 <!-- LOCALIZATION NOTE (community.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
-<!ENTITY community.middle2          ", u">
+<!ENTITY community.middle2          ", a">
 <!-- LOCALIZATION NOTE (community.creditsLink): This is a link title that links to about:credits. -->
 <!ENTITY community.creditsLink      "uluntu lwehlabathi jikelele">
 
