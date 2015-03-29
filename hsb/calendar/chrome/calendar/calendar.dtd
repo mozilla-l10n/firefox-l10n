@@ -101,7 +101,7 @@
 <!ENTITY calendar.completedtasks.checkbox.label     "Dokónčene nadawki pokazać" >
 <!ENTITY calendar.completedtasks.checkbox.accesskey "k" >
 
-<!ENTITY calendar.orientation.label "Pohlad wjerćeć" >
+<!ENTITY calendar.orientation.label "Napohlad wjerćeć" >
 <!ENTITY calendar.orientation.accesskey "o" >
 
 <!ENTITY calendar.search.options.searchfor " wobsahuje">
