@@ -56,7 +56,7 @@ can reach it easily. -->
 
 <!ENTITY tabCmd.label "Új lap">
 <!ENTITY tabCmd.accesskey "l">
-
+<!ENTITY tabCmd.commandkey "t">
 <!-- LOCALIZATION NOTE (openLocationCmd.label): "Open Location" is only
 displayed on OS X, and only on windows that aren't main browser windows, or
 when there are no windows but Firefox is still running. -->
@@ -82,15 +82,16 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY personalbarCmd.accesskey "K">
 <!ENTITY bookmarksToolbarItem.label "Könyvjelző eszköztár elemei">
 
-
-
-
-
-
+<!ENTITY toolbarContextMenu.reloadAllTabs.label "Összes lap újratöltése">
+<!ENTITY toolbarContextMenu.reloadAllTabs.accesskey "r">
+<!ENTITY toolbarContextMenu.bookmarkAllTabs.label "Minden lap könyvjelzőbe…">
+<!ENTITY toolbarContextMenu.bookmarkAllTabs.accesskey "M">
+<!ENTITY toolbarContextMenu.undoCloseTab.label "Lapbezárás visszavonása">
+<!ENTITY toolbarContextMenu.undoCloseTab.accesskey "v">
 
 <!ENTITY pageSourceCmd.label "Oldal forrása">
 <!ENTITY pageSourceCmd.accesskey "r">
-
+<!ENTITY pageSourceCmd.commandkey "u">
 <!ENTITY pageInfoCmd.label "Oldal adatai">
 <!ENTITY pageInfoCmd.accesskey "O">
 
