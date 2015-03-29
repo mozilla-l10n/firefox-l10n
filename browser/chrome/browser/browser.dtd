@@ -612,7 +612,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY goForwardCmd.commandKey  "Ä">
 <!ENTITY quitApplicationCmd.label        "Sulje">
 <!ENTITY quitApplicationCmd.accesskey    "S">
-<!ENTITY quitApplicationCmdMac2.label    "Sulje &brandShortName;">
+<!ENTITY quitApplicationCmdMac2.label   "Sulje &brandShorterName;">
 <!-- LOCALIZATION NOTE(quitApplicationCmdUnix.key): This keyboard shortcut is used by both Linux and OSX builds. -->
 <!ENTITY quitApplicationCmdUnix.key     "Q">
 
