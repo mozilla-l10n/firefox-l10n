@@ -214,11 +214,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY downloads.label              "Letöltések">
 <!ENTITY downloads.accesskey          "L">
-
-
+<!ENTITY downloads.commandkey         "j">
+<!ENTITY downloadsUnix.commandkey     "y">
 <!ENTITY addons.label                 "Kiegészítők">
 <!ENTITY addons.accesskey             "t">
-
+<!ENTITY addons.commandkey            "A">
 <!ENTITY webapps.label                "Appok">
 <!ENTITY webapps.accesskey            "p">
 
@@ -237,15 +237,15 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY remoteWebConsoleCmd.label    "Távoli webkonzol">
 
 <!ENTITY browserConsoleCmd.label      "Böngészőkonzol">
-
+<!ENTITY browserConsoleCmd.commandkey "j">
 <!ENTITY browserConsoleCmd.accesskey  "o">
 
 <!ENTITY inspectContextMenu.label     "Elem vizsgálata">
-
+<!ENTITY inspectContextMenu.accesskey "Q">
 
 <!ENTITY responsiveDesignTool.label   "Alkalmazkodó megjelenés nézet">
 <!ENTITY responsiveDesignTool.accesskey "A">
-
+<!ENTITY responsiveDesignTool.commandkey "M">
 
 <!ENTITY eyedropper.label   "Pipetta">
 <!ENTITY eyedropper.accesskey "P">
