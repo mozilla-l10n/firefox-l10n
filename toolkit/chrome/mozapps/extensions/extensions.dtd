@@ -64,7 +64,7 @@
 <!ENTITY updates.resetUpdatesToManual.accesskey      "R">
 <!ENTITY updates.updating.label               "S'estan actualitzant els complements">
 <!ENTITY updates.installed.label              "S'han actualitzat els vostres complements.">
-<!ENTITY updates.downloaded.label             "S'han baixat les actualitzacions dels vostres complements">
+<!ENTITY updates.downloaded.label             "S'han baixat les actualitzacions dels vostres complements.">
 <!ENTITY updates.restart.label                "Reinicia ara per completar la instal·lació">
 <!ENTITY updates.noneFound.label              "No s'ha trobat cap actualització">
 <!ENTITY updates.manualUpdatesFound.label     "Visualitza les actualitzacions disponibles">
