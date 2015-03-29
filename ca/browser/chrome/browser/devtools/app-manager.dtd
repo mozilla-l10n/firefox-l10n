@@ -36,9 +36,9 @@
 <!ENTITY device.permissionsHelpLink "https://developer.mozilla.org/docs/Web/Apps/App_permissions">
 <!ENTITY device.browserTabs "Pestanyes del navegador">
 <!ENTITY device.browserTabsTooltip "Mostra una llista de les pestanyes del navegador del dispositiu connectat">
-
+<!ENTITY device.debugBrowserTab "Depuració">
 <!ENTITY device.debugBrowserTabTooltip "Obre les eines per a desenvolupadors connectades a aquesta pestanya del navegador del dispositiu">
-
+<!ENTITY device.help "Ajuda">
 
 <!ENTITY connection.connectTooltip "Connecta al dispositiu">
 <!ENTITY connection.disconnect "Desconnecta">
@@ -66,19 +66,19 @@
 <!ENTITY connection.startRegisteredSimulator "Inici:">
 
 <!ENTITY projects.localApps "Aplicacions locals">
-
+<!ENTITY projects.addApp "Afegeix">
 <!ENTITY projects.addPackaged "Afegeix una aplicació empaquetada">
 <!ENTITY projects.addPackagedTooltip "Afegeix una aplicació empaquetada nova (un directori) des de l'ordinador">
 <!ENTITY projects.addHosted "Afegeix una aplicació hostatjada">
 <!ENTITY projects.addHostedTooltip "Afegeix una aplicació hostatjada nova (enllaç a un fitxer manifest.webapp) des d'un lloc web remot">
-
+<!ENTITY projects.title "Aplicacions locals">
 <!ENTITY projects.appDetails "Detalls de l'aplicació">
 <!ENTITY projects.removeAppFromList "Elimina aquesta aplicació de la llista d'aplicacions amb què treballeu. No s'eliminarà d'un dispositiu ni d'un simulador.">
 <!ENTITY projects.updateApp "Actualitza">
 <!ENTITY projects.updateAppTooltip "Executa comprovacions de validació i actualitza l'aplicació al dispositiu connectat">
-
+<!ENTITY projects.debugApp "Depuració">
 <!ENTITY projects.debugAppTooltip "Obre les eines per a desenvolupadors connectades a aquesta aplicació">
-
+<!ENTITY projects.saveManifest "Desa">
 <!ENTITY projects.saveManifestTooltip "Desa el contingut de l'editor de manifest de sota">
 <!ENTITY projects.hostedManifestPlaceHolder2 "http://example.com/app/manifest.webapp">
 <!ENTITY projects.noProjects "No hi ha cap projecte. Afegiu una aplicació empaquetada (directori local) a continuació o una aplicació hostatjada (enllaç a un fitxer manifest).">
@@ -92,6 +92,7 @@
 <!ENTITY projects.hosted "Hostatjada">
 <!ENTITY projects.packaged "Empaquetada">
 
+<!ENTITY help.title "Gestor d'aplicacions">
 <!ENTITY help.close "Tanca">
 <!ENTITY help.intro "Aquesta eina us ajudarà a crear i a instal·lar aplicacions web en dispositius compatibles (és a dir, Firefox OS). La pestanya <strong>Aplicacions</strong> us guiarà pel procés de validació i d'instal·lació de la vostra aplicació. La pestanya <strong>Dispositiu</strong> us donarà informació del dispositiu connectat. Utilitzeu la barra d'eines inferior per connectar a un dispositiu o per iniciar el simulador.">
 <!ENTITY help.usefullLinks "Enllaços útils:">
