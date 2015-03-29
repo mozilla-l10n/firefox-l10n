@@ -70,7 +70,7 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY printPreviewCmd.accesskey "R">
 <!ENTITY printCmd.label "Argraffu…">
 <!ENTITY printCmd.accesskey "A">
-<!ENTITY printCmd.commandkey "A">
+<!ENTITY printCmd.commandkey "p">
 
 <!ENTITY goOfflineCmd.label "Gweithio All-lein">
 <!ENTITY goOfflineCmd.accesskey "w">
