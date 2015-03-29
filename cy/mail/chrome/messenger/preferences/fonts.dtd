@@ -8,8 +8,8 @@
 <!ENTITY  language.accesskey                      "F">
 
 <!ENTITY  size.label                              "Maint:">
-<!ENTITY  proportionalSize.accesskey              "m">
-<!ENTITY  sizeMono.accesskey                      "i">
+
+
 
 <!ENTITY  proportional.label                      "Cyfrannol:">
 <!ENTITY  proportional.accesskey                  "y">
@@ -20,20 +20,16 @@
 <!ENTITY  sans-serif.accesskey                    "n">
 <!ENTITY  monospace.label                         "Monospace:">
 <!ENTITY  monospace.accesskey                     "M">
-
-<!ENTITY  font.langGroup.latin1                   "Gorllewin">
-<!ENTITY  font.langGroup.latin2                   "Canol Ewrop">
+<!-- LOCALIZATION NOTE (font.langGroup.latin) :
+     Translate "Latin" as the name of Latin (Roman) script, not as the name of the Latin language. -->
 <!ENTITY  font.langGroup.japanese                 "Siapanëeg">
 <!ENTITY  font.langGroup.trad-chinese             "Tsieinëeg Traddodiadol (Taiwan)">
 <!ENTITY  font.langGroup.simpl-chinese            "Tsieinëeg Syml">
 <!ENTITY  font.langGroup.trad-chinese-hk          "Tsieinëeg Traddodiadol (Hong Kong)">
 <!ENTITY  font.langGroup.korean                   "Corëeg">
 <!ENTITY  font.langGroup.cyrillic                 "Cyrilig">
-<!ENTITY  font.langGroup.baltic                   "Baltig">
 <!ENTITY  font.langGroup.el                       "Groeg">
-<!ENTITY  font.langGroup.turkish                  "Twrceg">
-<!ENTITY  font.langGroup.unicode1                 "Unicode">
-<!ENTITY  font.langGroup.user-def                 "Defnyddiwr Diffiniedig">
+
 <!ENTITY  font.langGroup.thai                     "Thai">
 <!ENTITY  font.langGroup.hebrew                   "Hebraeg">
 <!ENTITY  font.langGroup.arabic                   "Arabeg">
@@ -48,8 +44,12 @@
 <!ENTITY  font.langGroup.gurmukhi                 "Gurmukhi">
 <!ENTITY  font.langGroup.khmer                    "Khmer">
 <!ENTITY  font.langGroup.malayalam                "Malayalam">
-<!-- Minimum font size -->
 
+
+
+
+
+<!-- Minimum font size -->
 <!ENTITY minSize.label                            "Lleiafswm maint ffont:">
 <!ENTITY minSize.accesskey                        "L">
 <!ENTITY minSize.none                             "Dim">
