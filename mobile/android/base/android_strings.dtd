@@ -202,7 +202,7 @@
 <!ENTITY datareporting_crashreporter_summary "&brandShortName; отправляет сообщения о падениях, чтобы помочь &vendorShortName; сделать ваш браузер более стабильным и безопасным">
 <!ENTITY datareporting_crashreporter_title_short "Сообщения о падениях">
 <!ENTITY datareporting_wifi_title2 "Служба местоположения &vendorShortName;">
-<!ENTITY datareporting_wifi_geolocation_summary3 "Помогите &vendorShortName; составить карту мира! Поделитесь приблизительным местоположением Wi-Fi и сотовой сети вашего устройства, чтобы улучшить нашу службу геолокации">
+<!ENTITY datareporting_wifi_geolocation_summary4 "Помогите &vendorShortName; составить карту мира! Поделитесь приблизительным местоположением Wi-Fi и сотовой сети вашего устройства, чтобы улучшить нашу службу геолокации.">
 <!ENTITY pref_update_autodownload2 "Автоматически загружать обновления">
 <!ENTITY pref_update_autodownload_wifi "Только через Wi-Fi">
 <!ENTITY pref_update_autodownload_never "Никогда">
@@ -255,6 +255,11 @@
 <!ENTITY contextmenu_top_sites_pin "Закрепить сайт">
 <!ENTITY contextmenu_top_sites_unpin "Открепить сайт">
 <!ENTITY contextmenu_add_search_engine "Добавить поисковую систему">
+<!ENTITY doorhanger_login_no_username "[Нет имени пользователя]">
+<!ENTITY doorhanger_login_edit_title "Изменить логин">
+<!ENTITY doorhanger_login_edit_username_hint "Имя пользователя">
+<!ENTITY doorhanger_login_edit_password_hint "Пароль">
+<!ENTITY doorhanger_login_edit_toggle "Показать пароль">
 <!ENTITY pref_titlebar_mode "Панель заголовка">
 <!ENTITY pref_titlebar_mode_title "Отображать заголовок страницы">
 <!ENTITY pref_titlebar_mode_url "Отображать адрес страницы">
@@ -289,6 +294,7 @@
 <!ENTITY button_clear_data "Удалить данные">
 <!ENTITY button_set "Установить">
 <!ENTITY button_clear "Очистить">
+<!ENTITY button_remember "Запомнить">
 <!ENTITY home_top_sites_title "Топ сайтов">
 <!ENTITY home_top_sites_add "Добавить сайт">
 <!ENTITY home_title "Дом &brandShortName;">
@@ -352,6 +358,7 @@
 <!ENTITY bookmarkhistory_import_history "Импорт истории из Android">
 <!ENTITY bookmarkhistory_import_wait "Пожалуйста, подождите…">
 <!ENTITY suggestions_prompt3 "Вы хотите включить поисковые предложения?">
+<!ENTITY search_bar_item_desc "Поиск через &formatS;">
 <!ENTITY suggestion_for_engine "Искать &formatS2; в &formatS1;">
 <!ENTITY webapp_generic_name "Приложение">
 <!ENTITY searchable_description "Закладки и история">
