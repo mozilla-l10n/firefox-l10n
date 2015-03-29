@@ -157,7 +157,7 @@
 <!ENTITY fxaccount_create_account_policy_text2    'Jätkamisega nõustud sa Firefoxi veebiteenuste tingimustega (&formatS1; ja &formatS2;).'>
 <!ENTITY fxaccount_create_account_button          'Edasi'>
 <!ENTITY fxaccount_create_account_choose_what_to_sync 'Kuvatakse sünkroniseeritavate asjade valikut'>
-<!ENTITY fxaccount_create_account_sign_in_instead 'Omad juba kontot? Logi sisse'>
+<!ENTITY fxaccount_create_account_sign_in_instead 'Sul on juba konto? Logi sisse'>
 <!ENTITY fxaccount_create_account_1990_or_earlier '1990 või enne seda'>
 <!ENTITY fxaccount_create_account_unknown_error   'Konto loomine polnud võimalik'>
 

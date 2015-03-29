@@ -831,7 +831,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY processHang.terminateScript.label        "Lõpeta skripti töö">
 <!ENTITY processHang.terminateScript.accessKey    "L">
-<!ENTITY processHang.debugScript.label            "Debugi Skripti">
+<!ENTITY processHang.debugScript.label            "Debugi skripti">
 <!ENTITY processHang.debugScript.accessKey        "D">
 <!ENTITY processHang.terminatePlugin.label        "Lõpeta plugina töö">
 <!ENTITY processHang.terminatePlugin.accessKey    "p">
@@ -842,7 +842,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY emeLearnMoreContextMenu.accesskey        "D">
 <!ENTITY emeNotificationsNotNow.label             "Mitte praegu">
 <!ENTITY emeNotificationsNotNow.accesskey         "M">
-<!ENTITY emeNotificationsDontAskAgain.label       "Rohkem enam ei küsita">
+<!ENTITY emeNotificationsDontAskAgain.label       "Rohkem ei küsita">
 <!ENTITY emeNotificationsDontAskAgain.accesskey   "R">
 
 <!ENTITY readingList.label                        "Lugemisnimekiri">

@@ -14,7 +14,7 @@
 <!ENTITY certmgr.others                      "Sul on järgnevaid inimesi tuvastavaid sertifikaate:">
 <!ENTITY certmgr.websites2                   "Sul on järgnevaid servereid tuvastavaid sertifikaate:">
 <!ENTITY certmgr.cas                         "Sul on järgnevaid sertifitseerimiskeskusi tuvastavaid sertifikaate:">
-<!ENTITY certmgr.orphans                     "Sul on sertifikaate, mis ei sobitu teistesse kategooriatesse:">
+<!ENTITY certmgr.orphans                     "Sul on sertifikaate, mis ei sobi teistesse kategooriatesse:">
 
 <!ENTITY certmgr.detail.general_tab.title    "Üldine">
 <!ENTITY certmgr.detail.general_tab.accesskey "l">
