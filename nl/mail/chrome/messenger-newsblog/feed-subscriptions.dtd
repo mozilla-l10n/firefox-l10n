@@ -21,20 +21,20 @@
 <!ENTITY quickMode.label             "Artikelsamenvatting weergeven i.p.v. de webpagina laden">
 <!ENTITY quickMode.accesskey         "A">
 
-<!ENTITY autotagEnable.label         "Automatisch labels van feed-&lt;categorie&gt;-namen aanmaken">
-<!ENTITY autotagEnable.accesskey     "l">
+<!ENTITY autotagEnable.label         "Automatisch labels van namen van feed &lt;categorie&gt; aanmaken">
+<!ENTITY autotagEnable.accesskey     "u">
 <!ENTITY autotagUsePrefix.label      "Labels laten voorafgaan door:">
-<!ENTITY autotagUsePrefix.accesskey  "v">
+<!ENTITY autotagUsePrefix.accesskey  "L">
 <!ENTITY autoTagPrefix.placeholder   "Voer een labelvoorvoegsel in">
 
 <!ENTITY button.addFeed.label        "Toevoegen">
-<!ENTITY button.addFeed.accesskey    "T">
+<!ENTITY button.addFeed.accesskey    "o">
 <!ENTITY button.editFeed.label       "Bewerken">
 <!ENTITY button.editFeed.accesskey   "w">
 <!ENTITY button.removeFeed.label     "Verwijderen">
 <!ENTITY button.removeFeed.accesskey "V">
 <!ENTITY button.importOPML.label     "Importeren">
-<!ENTITY button.importOPML.accesskey "I">
+<!ENTITY button.importOPML.accesskey "m">
 <!ENTITY button.exportOPML.label     "Exporteren">
 <!ENTITY button.exportOPML.accesskey "X">
 <!ENTITY button.exportOPML.tooltip   "Feeds exporteren met mapstructuur; Ctrl+klikken of Ctrl+Enter om feeds als een lijst te exporteren">
