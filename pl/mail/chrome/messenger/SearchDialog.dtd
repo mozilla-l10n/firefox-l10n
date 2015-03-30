@@ -39,6 +39,7 @@
 <!ENTITY threadColumn.label     "Wątek">
 <!ENTITY fromColumn.label       "Nadawca">
 <!ENTITY recipientColumn.label  "Adresat">
+<!ENTITY correspondentColumn.label "Korespondenci">
 <!ENTITY subjectColumn.label    "Temat">
 <!ENTITY dateColumn.label       "Data">
 <!ENTITY priorityColumn.label   "Priorytet">
@@ -60,6 +61,7 @@
 <!ENTITY threadColumn2.tooltip "Sortowanie według wątków">
 <!ENTITY fromColumn2.tooltip "Sortowanie według nadawcy">
 <!ENTITY recipientColumn2.tooltip "Sortowanie według adresata">
+<!ENTITY correspondentColumn2.tooltip "Sortowanie według korespondentów">
 <!ENTITY subjectColumn2.tooltip "Sortowanie według tematu">
 <!ENTITY dateColumn2.tooltip "Sortowanie według daty">
 <!ENTITY priorityColumn2.tooltip "Sortowanie według priorytetu">
