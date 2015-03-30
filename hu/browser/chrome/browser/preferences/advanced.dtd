@@ -26,7 +26,7 @@
 <!ENTITY checkSpelling.label             "Helyesírás-ellenőrzés beírás közben">
 <!ENTITY checkSpelling.accesskey         "H">
 
-<!ENTITY dataChoicesTab.label            "Adatválasztások">
+<!ENTITY dataChoicesTab.label            "Adatküldések">
 
 <!ENTITY healthReportDesc.label          "Segít megérteni a böngésző teljesítményét és adatokat oszt meg a &vendorShortName;val a böngésző állapotáról">
 <!ENTITY enableHealthReport.label        "A &brandShortName; állapotjelentés bekapcsolása">
