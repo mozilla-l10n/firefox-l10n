@@ -47,17 +47,17 @@
 <!ENTITY profilerUI.toolbar.js-calltree "JavaScript">
 <!ENTITY profilerUI.toolbar.memory-calltree "Hukommelse">
 <!ENTITY profilerUI.toolbar.js-flamegraph "JS Flame Chart">
-<!ENTITY profilerUI.toolbar.memory-flamegraph "Memory Flame Chart">
+<!ENTITY profilerUI.toolbar.memory-flamegraph "Hukommelse Flame Chart">
 
 <!-- LOCALIZATION NOTE (profilerUI.table.*): These strings are displayed
   -  in the call tree headers for a recording. -->
-<!ENTITY profilerUI.table.totalDuration   "Samlet tid (ms)">
-<!ENTITY profilerUI.table.selfDuration    "Self-tid (ms)">
+<!ENTITY profilerUI.table.totalDuration2   "Samlet tid">
+<!ENTITY profilerUI.table.selfDuration2    "Egen tid">
 <!ENTITY profilerUI.table.totalPercentage "Total omkostning">
-<!ENTITY profilerUI.table.selfPercentage  "Self-omkostning">
+<!ENTITY profilerUI.table.selfPercentage  "Egen omkostning">
 <!ENTITY profilerUI.table.samples         "Prøver">
-<!ENTITY profilerUI.table.totalAlloc      "Totale allokationer">
-<!ENTITY profilerUI.table.selfAlloc       "Self-allokationer">
+<!ENTITY profilerUI.table.totalAlloc      "Totale allokeringer">
+<!ENTITY profilerUI.table.selfAlloc       "Egne allokeringer">
 <!ENTITY profilerUI.table.function        "Funktion">
 
 <!-- LOCALIZATION NOTE (profilerUI.newtab.tooltiptext): The tooltiptext shown
