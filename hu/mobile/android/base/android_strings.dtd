@@ -122,9 +122,9 @@
 <!ENTITY pref_category_privacy_short "Adatvédelem">
 <!ENTITY pref_category_privacy_summary "Jelszavak, sütik, követési adatok felügyelete">
 <!ENTITY pref_category_vendor "&vendorShortName;nak,">
-<!ENTITY pref_category_vendor_summary "A &brandShortName; névjegye, GyIK, adatválasztások">
-<!ENTITY pref_category_datareporting "Adatválasztások">
-<!ENTITY pref_learn_more "További információ">
+<!ENTITY pref_category_vendor_summary "A &brandShortName; névjegye, GyIK, adatküldések">
+<!ENTITY pref_category_datareporting "Adatküldések">
+<!ENTITY pref_learn_more "További tudnivalók">
 <!ENTITY pref_category_installed_search_engines "Telepített keresőszolgáltatások">
 <!ENTITY pref_category_add_search_providers "További keresők hozzáadása">
 <!ENTITY pref_category_search_restore_defaults "Keresők visszaállítása">
@@ -499,7 +499,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY blocked_tracking_content_message_bottom2 "Az oldal azon részei, amelyek követhetik az online tevékenységét, blokkolva vannak.">
 <!-- Common mixed and tracking content strings in site identity popup -->
 
-<!ENTITY learn_more "További információ">
+<!ENTITY learn_more "További tudnivalók">
 <!ENTITY enable_protection "Védelem be">
 <!ENTITY disable_protection "Védelem ki">
 <!ENTITY keep_blocking "Blokkolás fenntartása">
