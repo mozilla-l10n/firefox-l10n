@@ -45,11 +45,11 @@
      the UI, without this page being forgotten every time those strings are
      updated.  -->
 <!-- intro paragraph for branded builds -->
-<!ENTITY rights.webservices-a "&brandFullName; biedt optionele diensten (“Diensten”) aan, zoals de add-on-updateservice, die beschikbaar zijn voor uw gebruik met deze binaire versie van &brandShortName;, zoals hieronder beschreven. Als u de Diensten niet wilt gebruiken of de voorwaarden hieronder niet wilt accepteren, kunt u de add-on-updateservice uitschakelen door de voorkeuren van de toepassing te openen, de sectie ">
+<!ENTITY rights.webservices-a "&brandFullName; biedt optionele diensten (‘Diensten’) aan, zoals de add-on-updateservice, die beschikbaar zijn voor uw gebruik met deze binaire versie van &brandShortName;, zoals hieronder beschreven. Als u de Diensten niet wilt gebruiken of de voorwaarden hieronder niet wilt accepteren, kunt u de add-on-updateservice uitschakelen door de voorkeuren van de toepassing te openen, de sectie ">
 <!ENTITY rights.webservices-b "Geavanceerd">
 <!ENTITY rights.webservices-c " te selecteren, gevolgd door het tabblad ">
 <!ENTITY rights.webservices-d "Update">
-<!ENTITY rights.webservices-e ", en de opties voor “Automatisch controleren op updates voor:” uit te vinken.">
+<!ENTITY rights.webservices-e ", en de opties voor ‘Automatisch controleren op updates voor:’ uit te vinken.">
 
 <!-- intro paragraph for unbranded builds -->
 <!ENTITY rights.webservices-unbranded "Een overzicht van de in het product opgenomen websitediensten, samen met instructies over het uitschakelen ervan, indien van toepassing, dienen hier te worden bijgesloten.">

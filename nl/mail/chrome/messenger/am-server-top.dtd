@@ -51,7 +51,7 @@
 <!ENTITY modelDeleteImmediately.label "Het direct verwijderen">
 <!ENTITY modelDeleteImmediately.accesskey "w">
 <!-- LOCALIZATION NOTE (expungeOnExit.label) : do not translate two of "&quot;" in below line -->
-<!ENTITY expungeOnExit.label "Postvak IN opruimen (“Expunge”) bij afsluiten">
+<!ENTITY expungeOnExit.label "Postvak IN opruimen (‘Expunge’) bij afsluiten">
 <!ENTITY expungeOnExit.accesskey "E">
 <!ENTITY emptyTrashOnExit.label "Prullenbak leegmaken bij afsluiten">
 <!ENTITY emptyTrashOnExit.accesskey "f">

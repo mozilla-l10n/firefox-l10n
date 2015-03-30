@@ -24,12 +24,12 @@
 <!ENTITY identityDesc.label "Elke account heeft een identiteit. Dit zijn de gegevens waarmee anderen u herkennen als uw berichten worden ontvangen.">
 
 <!-- LOCALIZATION NOTE (fullnameDesc.label) : do not translate two of "&quot;" in below line -->
-<!ENTITY fullnameDesc.label "Voer de naam in die u wilt gebruiken in het “Van”-veld van uw uitgaande berichten">
+<!ENTITY fullnameDesc.label "Voer de naam in die u wilt gebruiken in het ‘Van’-veld van uw uitgaande berichten">
 <!-- LOCALIZATION NOTE (fullnameExample.label) : use following directions for below line
 	1, do not translate two of "&quot;"
 	2, Use localized full name instead of "John Smith"
 -->
-<!ENTITY fullnameExample.label "(bijvoorbeeld “Jan Smit”).">
+<!ENTITY fullnameExample.label "(bijvoorbeeld ‘Jan Smit’).">
 <!ENTITY fullnameLabel.label "Uw naam:">
 <!ENTITY fullnameLabel.accesskey "U">
 
@@ -53,15 +53,15 @@
 <!ENTITY defaultPortLabel.label "Standaard:">
 <!ENTITY defaultPortValue.label "">
 <!-- LOCALIZATION NOTE (incomingServerNameDesc.label) : Do not translate "&quot;pop.example.net&quot;" in below line -->
-<!ENTITY incomingServer.description "Voer de naam in van uw inkomende server (bijvoorbeeld “mail.example.net”).">
+<!ENTITY incomingServer.description "Voer de naam in van uw inkomende server (bijvoorbeeld ‘mail.example.net’).">
 <!ENTITY incomingServer.label "Inkomende server:">
 <!ENTITY incomingServer.accesskey "o">
 <!-- LOCALIZATION NOTE (incomingUsername.description) : do not translate "&quot;jsmith&quot;" in below line -->
-<!ENTITY incomingUsername.description "Voer de inkomende gebruikersnaam in die u van uw e-mailprovider hebt gekregen (bijvoorbeeld “jsmit”).">
+<!ENTITY incomingUsername.description "Voer de inkomende gebruikersnaam in die u van uw e-mailprovider hebt gekregen (bijvoorbeeld ‘jsmit’).">
 <!ENTITY incomingUsername.label "Gebruikersnaam:">
 <!ENTITY incomingUsername.accesskey "G">
 <!-- LOCALIZATION NOTE (newsServerNameDesc.label) : Do not translate "NNTP" or the "&quot;" entities in below line -->
-<!ENTITY newsServerNameDesc.label "Voer de naam in van uw (NNTP-)nieuwsserver (bijvoorbeeld “news.example.net”).">
+<!ENTITY newsServerNameDesc.label "Voer de naam in van uw (NNTP-)nieuwsserver (bijvoorbeeld ‘news.example.net’).">
 <!ENTITY newsServerLabel.label "Nieuwsgroepserver:">
 <!ENTITY newsServerLabel.accesskey "N">
 
@@ -69,7 +69,7 @@
 
 <!ENTITY outgoingTitle.label "Gegevens van uitgaande server">
 <!-- LOCALIZATION NOTE (outgoingServer.description) : Do not translate "SMTP" and "&quot;smtp.example.net&quot;" in below line -->
-<!ENTITY outgoingServer.description "Voer de naam in van uw uitgaande (SMTP-)server (bijvoorbeeld “smtp.example.net”).">
+<!ENTITY outgoingServer.description "Voer de naam in van uw uitgaande (SMTP-)server (bijvoorbeeld ‘smtp.example.net’).">
 <!ENTITY outgoingServer.label "Uitgaande server:">
 <!ENTITY outgoingServer.accesskey "d">
 <!ENTITY outgoingUsername.description "Voer de uitgaande gebruikersnaam in die u van uw e-mailprovider hebt gekregen (dit is meestal dezelfde als uw inkomende gebruikersnaam).">
@@ -88,27 +88,27 @@
      these variables. Also, translate haveSmtp1.prefix and haveSmtp1.suffix3 as a single sentence, inserting
      text after the "&quot;" entity in haveSmtp1.suffix3, if required grammatically.
 -->
-<!ENTITY haveSmtp1.prefix "Uw bestaande uitgaande (SMTP-)server, “">
-<!ENTITY haveSmtp1.suffix3 "”, zal worden gebruikt.">
+<!ENTITY haveSmtp1.prefix "Uw bestaande uitgaande (SMTP-)server, ‘">
+<!ENTITY haveSmtp1.suffix3 "’, zal worden gebruikt.">
 
 <!-- LOCALIZATION NOTE (haveSmtp2.prefix and haveSmtp2.suffix3) : Do not translate "SMTP" and "&quot;" in
     these variables. Also, translate haveSmtp2.prefix and haveSmtp2.suffix3 as a single sentence, inserting
      text after the "&quot;" entity in haveSmtp2.suffix3, if required grammatically.
 -->
-<!ENTITY haveSmtp2.prefix "Uw bestaande uitgaande (SMTP-)gebruikersnaam, “">
-<!ENTITY haveSmtp2.suffix3 "”, zal worden gebruikt.">
+<!ENTITY haveSmtp2.prefix "Uw bestaande uitgaande (SMTP-)gebruikersnaam, ‘">
+<!ENTITY haveSmtp2.suffix3 "’, zal worden gebruikt.">
 <!-- LOCALIZATION NOTE (haveSmtp3.prefix and haveSmtp3.suffix3) : Do not translate "SMTP" and "&quot;" in
      these variables. Also, translate haveSmtp3.prefix and haveSmtp3.suffix3 as a single sentence, inserting
      text after the "&quot;" entity in haveSmtp3.suffix3, if required grammatically.
 -->
-<!ENTITY haveSmtp3.prefix "Uw uitgaande (SMTP-)server, “">
-<!ENTITY haveSmtp3.suffix3 "”, is identiek aan uw inkomende server, uw inkomende gebruikersnaam zal worden gebruikt om toegang te krijgen.">
+<!ENTITY haveSmtp3.prefix "Uw uitgaande (SMTP-)server, ‘">
+<!ENTITY haveSmtp3.suffix3 "’, is identiek aan uw inkomende server, uw inkomende gebruikersnaam zal worden gebruikt om toegang te krijgen.">
 
 <!-- Entities for Account name page -->
 
 <!ENTITY accnameTitle.label "Accountnaam">
 <!-- LOCALIZATION NOTE (accnameDesc.label) : do not translate any "&quot;" in below line -->
-<!ENTITY accnameDesc.label "Voer de naam in voor deze account (bijvoorbeeld “Werkaccount”, “Thuisaccount” of “Nieuwsaccount”).">
+<!ENTITY accnameDesc.label "Voer de naam in voor deze account (bijvoorbeeld ‘Werkaccount’, ‘Thuisaccount’ of ‘Nieuwsaccount’).">
 <!ENTITY accnameLabel.label "Accountnaam:">
 <!ENTITY accnameLabel.accesskey "A">
 
