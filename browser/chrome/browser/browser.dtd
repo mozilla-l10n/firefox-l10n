@@ -361,10 +361,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuCustomize.tooltip "Qhelanisa iMenyu neeThulbha">
 <!ENTITY appMenuCustomizeExit.label "Phuma kuQhelaniso">
 <!ENTITY appMenuCustomizeExit.tooltip "Igqibile ukuQhelanisa">
-
-
-
-
+<!ENTITY appMenuHistory.label "Imbali">
+<!ENTITY appMenuHistory.showAll.label "Bonisa Yonke iMbali">
+<!ENTITY appMenuHistory.clearRecent.label "Susa iMbali Yakutshanje…">
+<!ENTITY appMenuHistory.restoreSession.label "Buyisela Iseshini yangaPhambili">
 <!ENTITY appMenuHistory.viewSidebar.label "Bona ibha esecaleni yeMbali">
 <!ENTITY appMenuHelp.tooltip "Vula iMenyu yoNcedo">
 
@@ -778,8 +778,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY trackingContentBlocked.options "Ekunokukhethwa kuko">
 <!ENTITY trackingContentBlocked.unblock2.label "Yekisa ukhuseleko kule sayithi">
 <!ENTITY trackingContentBlocked.unblock2.accesskey "Y">
-
-
+<!ENTITY trackingContentBlocked.block.label "Vumela ukhuseleko">
+<!ENTITY trackingContentBlocked.block.accesskey "V">
 <!ENTITY trackingContentBlocked.disabled.message "Ukulandela ukhuselo akusebenzi">
 
 <!ENTITY pointerLock.notification.message "Cofa ESC nangaliphi na ixesha ukuze uphinde uyiveze.">
@@ -799,6 +799,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY pluginNotification.width "28em">
 
+<!ENTITY uiTour.infoPanel.close "Vala">
 
 <!ENTITY appMenuSidebars.label         "Iibha ezisecaleni">
 
@@ -831,8 +832,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY processHang.terminateScript.label        "Yekisa iscript">
 <!ENTITY processHang.terminateScript.accessKey    "Y">
-
-
+<!ENTITY processHang.debugScript.label            "Iskripthi sedebug">
+<!ENTITY processHang.debugScript.accessKey        "I">
 <!ENTITY processHang.terminatePlugin.label        "Bulala iPlugin">
 <!ENTITY processHang.terminatePlugin.accessKey    "i">
 <!ENTITY processHang.terminateProcess.label       "Inkqubo yokubulala iwebhu">
@@ -840,8 +841,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY emeLearnMoreContextMenu.label            "Funda ngakumbi malunga neDRM...">
 <!ENTITY emeLearnMoreContextMenu.accesskey        "D">
-
-
+<!ENTITY emeNotificationsNotNow.label             "Hayi ngoku">
+<!ENTITY emeNotificationsNotNow.accesskey         "H">
 <!ENTITY emeNotificationsDontAskAgain.label       "Ungaphindi undibuze">
 <!ENTITY emeNotificationsDontAskAgain.accesskey   "U">
 
