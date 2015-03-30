@@ -8,8 +8,8 @@
 <!ENTITY dntTrackingNotOkay.accesskey   "N">
 <!ENTITY trackingProtection.label       "Akadályozza meg, hogy az oldalak kövessenek">
 <!ENTITY trackingProtection.accesskey   "k">
-<!ENTITY trackingProtectionLearnMore.label "További információ">
-<!ENTITY doNotTrackInfo.label           "További információ">
+<!ENTITY trackingProtectionLearnMore.label "További tudnivalók">
+<!ENTITY doNotTrackInfo.label           "További tudnivalók">
 
 <!ENTITY  history.label                 "Előzmények">
 

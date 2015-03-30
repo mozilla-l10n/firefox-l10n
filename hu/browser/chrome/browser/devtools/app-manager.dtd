@@ -36,9 +36,9 @@
 <!ENTITY device.permissionsHelpLink "https://developer.mozilla.org/docs/Web/Apps/App_permissions">
 <!ENTITY device.browserTabs "Böngészőlapok">
 <!ENTITY device.browserTabsTooltip "Lapok listájának megjelenítése a csatlakoztatott eszköz böngészőjében">
-
+<!ENTITY device.debugBrowserTab "Hibakeresés">
 <!ENTITY device.debugBrowserTabTooltip "Az eszközön a böngészőlaphoz kapcsolt fejlesztői eszközök megnyitása">
-
+<!ENTITY device.help "Súgó">
 
 <!ENTITY connection.connectTooltip "Kapcsolódás az eszközhöz">
 <!ENTITY connection.disconnect "Leválás">
@@ -66,19 +66,19 @@
 <!ENTITY connection.startRegisteredSimulator "Indítás:">
 
 <!ENTITY projects.localApps "Helyi appok">
-
+<!ENTITY projects.addApp "Hozzáadás">
 <!ENTITY projects.addPackaged "Csomagolt appok hozzáadása">
 <!ENTITY projects.addPackagedTooltip "Új csomagolt app (egy könyvtár) hozzáadása a számítógépéről">
 <!ENTITY projects.addHosted "Kiszolgálóoldali app hozzáadása">
 <!ENTITY projects.addHostedTooltip "Új kiszolgálóoldali app (egy manifest.webapp fájl) hozzáadása távoli weboldalról">
-
+<!ENTITY projects.title "Helyi appok">
 <!ENTITY projects.appDetails "App részletei">
 <!ENTITY projects.removeAppFromList "App eltávolítása a használt appok listájából. Ez nem távolítja el az eszközről vagy szimulátorról.">
 <!ENTITY projects.updateApp "Frissítés">
 <!ENTITY projects.updateAppTooltip "Ellenőrzések végrehajtása és az app frissítése a csatlakoztatott eszközön">
-
+<!ENTITY projects.debugApp "Hibakeresés">
 <!ENTITY projects.debugAppTooltip "Az apphoz kapcsolt fejlesztői eszközök megnyitása">
-
+<!ENTITY projects.saveManifest "Mentés">
 <!ENTITY projects.saveManifestTooltip "Mentse a lenti Manifest szerkesztő tartalmát">
 <!ENTITY projects.hostedManifestPlaceHolder2 "http://example.com/app/manifest.webapp">
 <!ENTITY projects.noProjects "Nincsenek projektek. Vegyen fel új csomagolt appot alább (helyi könyvtár) vagy kiszolgálóoldali appot (hivatkozás manifest fájlra).">
@@ -92,6 +92,7 @@
 <!ENTITY projects.hosted "Kiszolgálóoldali">
 <!ENTITY projects.packaged "Csomagolt">
 
+<!ENTITY help.title "Appkezelő">
 <!ENTITY help.close "Bezárás">
 <!ENTITY help.intro "Ez az eszköz segíteni fog webappok készítésében és telepítésében a kompatibilis eszközökre (azaz Firefox OS-re). Az <strong>Appok</strong> lap segíteni fog az app ellenőrzésében és telepítésében. Az <strong>Eszköz</strong> lap információkat ad a csatlakoztatott eszközről. Használja az alsó eszköztárat az eszközhöz csatlakozásra vagy a szimulátor elindítására.">
 <!ENTITY help.usefullLinks "Hasznos hivatkozások:">
