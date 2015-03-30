@@ -8,9 +8,9 @@
 <!ENTITY cookiename.label                  "Ime piškotka">
 <!ENTITY cookiedomain.label                "Stran">
 <!ENTITY button.removecookie.label         "Odstrani piškotek">
-<!ENTITY button.removecookie.accesskey     "d">
+<!ENTITY button.removecookie.accesskey     "O">
 <!ENTITY button.removeallcookies.label     "Odstrani vse piškotke">
-<!ENTITY button.removeallcookies.accesskey "v">
+<!ENTITY button.removeallcookies.accesskey "d">
 
 <!ENTITY props.name.label                  "Ime:">
 <!ENTITY props.value.label                 "Vsebina:">
@@ -21,11 +21,11 @@
 
 <!ENTITY window.title                      "Piškotki">
 <!ENTITY windowClose.key                   "w">
-<!ENTITY focusSearch1.key                  "D">
+<!ENTITY focusSearch1.key                  "f">
 <!ENTITY focusSearch2.key                  "k">
 
 <!ENTITY filter.label                      "Išči:">
-<!ENTITY filter.accesskey                  "S">
+<!ENTITY filter.accesskey                  "š">
 
 <!ENTITY button.close.label                "Zapri">
 <!ENTITY button.close.accesskey            "Z">

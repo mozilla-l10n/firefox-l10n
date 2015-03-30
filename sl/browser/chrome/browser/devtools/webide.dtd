@@ -24,6 +24,8 @@
 <!ENTITY projectMenu_remove_accesskey "R">
 <!ENTITY projectMenu_showPrefs_label "Nastavitve">
 <!ENTITY projectMenu_showPrefs_accesskey "e">
+<!ENTITY projectMenu_manageComponents_label "Upravljanje dodatnih komponent">
+<!ENTITY projectMenu_manageComponents_accesskey "M">
 
 <!ENTITY runtimeMenu_label "Izvajalnik">
 <!ENTITY runtimeMenu_accesskey "I">
@@ -37,13 +39,21 @@
 <!ENTITY runtimeMenu_showDetails_accesskey "O">
 <!ENTITY runtimeMenu_showMonitor_label "Spremljanje">
 <!ENTITY runtimeMenu_showMonitor_accesskey "M">
+<!ENTITY runtimeMenu_showDevicePrefs_label "Nastavitve naprave">
+<!ENTITY runtimeMenu_showDevicePrefs_accesskey "N">
+<!ENTITY runtimeMenu_showSettings_label "Nastavitve naprave">
+<!ENTITY runtimeMenu_showSettings_accesskey "S">
 
 <!ENTITY viewMenu_label "Pogled">
 <!ENTITY viewMenu_accesskey "G">
 <!ENTITY viewMenu_toggleEditor_label "Preklopi urejevalnik">
 <!ENTITY viewMenu_toggleEditor_accesskey "E">
-<!ENTITY viewMenu_showAddons_label "Upravljanje simulatorjev">
-<!ENTITY viewMenu_showAddons_accesskey "M">
+<!ENTITY viewMenu_zoomin_label "Povečaj">
+<!ENTITY viewMenu_zoomin_accesskey "V">
+<!ENTITY viewMenu_zoomout_label "Pomanjšaj">
+<!ENTITY viewMenu_zoomout_accesskey "M">
+<!ENTITY viewMenu_resetzoom_label "Ponastavi povečavo">
+<!ENTITY viewMenu_resetzoom_accesskey "P">
 
 <!ENTITY projectButton_label "Odpri aplikacijo">
 <!ENTITY runtimeButton_label "Izberi izvajalnik">
@@ -59,14 +69,19 @@
 <!ENTITY key_toggleToolbox "VK_F12">
 <!-- toggle sidebar -->
 <!ENTITY key_toggleEditor "B">
+<!-- zoom -->
+<!ENTITY key_zoomin "+">
+<!ENTITY key_zoomin2 "=">
+<!ENTITY key_zoomout "-">
+<!ENTITY key_resetzoom "0">
 
 <!ENTITY projectPanel_myProjects "Moji projekti">
 <!ENTITY projectPanel_runtimeApps "Aplikacije izvajalnika">
 <!ENTITY projectPanel_tabs "Zavihki">
-<!ENTITY runtimePanel_USBDevices "Naprave USB">
-<!ENTITY runtimePanel_WiFiDevices "Naprave Wi-Fi">
-<!ENTITY runtimePanel_simulators "Simulatorji">
-<!ENTITY runtimePanel_custom "Po meri">
+<!ENTITY runtimePanel_usb "Naprave USB">
+<!ENTITY runtimePanel_wifi "Naprave Wi-Fi">
+<!ENTITY runtimePanel_simulator "Simulatorji">
+<!ENTITY runtimePanel_other "Drugo">
 <!ENTITY runtimePanel_installsimulator "Namesti simulator">
 <!ENTITY runtimePanel_noadbhelper "Namesti ADB Helper">
 <!ENTITY runtimePanel_nousbdevice "Ne vidite vaše naprave?">
@@ -79,6 +94,7 @@
 <!ENTITY details_location "Mesto">
 <!ENTITY details_manifestURL "ID aplikacije">
 <!ENTITY details_removeProject_button "Odstrani projekt">
+<!ENTITY details_showPrepackageLog_button "Prikaži predpripravljen dnevnik">
 
 <!-- New App -->
 <!ENTITY newAppWindowTitle "Nova aplikacija">
@@ -100,9 +116,9 @@
 <!ENTITY prefs_editor_title "Urejevalnik">
 <!ENTITY prefs_general_title "Splošno">
 <!ENTITY prefs_restore "Ponastavi privzeto">
-<!ENTITY prefs_simulators "Upravljaj simulatorje">
-<!ENTITY prefs_options_enablelocalruntime "Omogoči lokalni izvajalnik">
-<!ENTITY prefs_options_enablelocalruntime_tooltip "Dovoli WebIDE, da se poveže z lastnim izvajalnikom (primerkom brskalnika v teku)">
+<!ENTITY prefs_manage_components "Upravljanje dodatnih komponent">
+<!ENTITY prefs_options_autoconnectruntime "Ponovno se poveži na prejšnji izvajalnik">
+<!ENTITY prefs_options_autoconnectruntime_tooltip "Ponovno se poveži na prejšnji izvajalnik ob zagonu WebIDE">
 <!ENTITY prefs_options_rememberlastproject "Zapomni si zadnji projekt">
 <!ENTITY prefs_options_rememberlastproject_tooltip "Ob zagonu WebIDE obnovi prejšnji projekt">
 <!ENTITY prefs_options_templatesurl "URL predlog">
@@ -130,10 +146,52 @@
 <!ENTITY runtimedetails_adbIsRoot "ADB je root: ">
 <!ENTITY runtimedetails_summonADBRoot "naprava root">
 <!ENTITY runtimedetails_ADBRootWarning "(zahteva odklenjen zagonski nalagalnik)">
-<!ENTITY runtimedetails_restrictedPrivileges "Omejena pooblastila razvojnih orodij: ">
+<!ENTITY runtimedetails_unrestrictedPrivileges "Neomejena pooblastila razvojnih orodij: ">
 <!ENTITY runtimedetails_requestPrivileges "zahtevaj višja pooblastila">
 <!ENTITY runtimedetails_privilegesWarning "(Naprava se bo ponovno zagnala. Zahteva dostop root.)">
+
+<!-- Device Preferences and Settings -->
+<!ENTITY device_typeboolean "Logična vrednost">
+<!ENTITY device_typenumber "Celo število">
+<!ENTITY device_typestring "Niz">
+<!ENTITY device_typeobject "Objekt">
+<!ENTITY device_typenone "Izberi vrsto">
+
+<!-- Device Preferences -->
+<!ENTITY devicepreference_title "Nastavitve naprave">
+<!ENTITY devicepreference_search "Iskanje nastavitev">
+<!ENTITY devicepreference_newname "Ime nove nastavitve">
+<!ENTITY devicepreference_newtext "Vrednost nastavitve">
+<!ENTITY devicepreference_addnew "Dodaj novo nastavitev">
+
+<!-- Device Settings -->
+<!ENTITY devicesetting_title "Nastavitve naprave">
+<!ENTITY devicesetting_search "Iskanje nastavitev">
+<!ENTITY devicesetting_newname "Ime nove nastavitve">
+<!ENTITY devicesetting_newtext "Vrednost nastavitve">
+<!ENTITY devicesetting_addnew "Dodaj novo nastavitev">
 
 <!-- Monitor -->
 <!ENTITY monitor_title "Spremljanje">
 <!ENTITY monitor_help "Pomoč">
+
+<!-- WiFi Authentication -->
+<!-- LOCALIZATION NOTE (wifi_auth_header): The header displayed on the dialog
+     that instructs the user to transfer an authentication token to the
+     server. -->
+<!ENTITY wifi_auth_header "Predstavitev odjemalca">
+<!-- LOCALIZATION NOTE (wifi_auth_scan_request): Instructions requesting the
+     user to transfer authentication info by scanning a QR code. -->
+<!ENTITY wifi_auth_scan_request "Končna točka, na katero se povezujete, potrebuje več podatkov za overitev povezave. S pozivom na drugi napravi preberite spodnjo QR-kodo.">
+<!-- LOCALIZATION NOTE (wifi_auth_no_scanner): Link text to assist users with
+     devices that can't scan a QR code. -->
+<!ENTITY wifi_auth_no_scanner "Nimate poziva za branje QR-kod?">
+<!-- LOCALIZATION NOTE (wifi_auth_yes_scanner): Link text to assist users with
+     devices that can scan a QR code. -->
+<!ENTITY wifi_auth_yes_scanner "Imate poziv za branje QR-kod?">
+<!-- LOCALIZATION NOTE (wifi_auth_token_request): Instructions requesting the
+     user to transfer authentication info by transferring a token. -->
+<!ENTITY wifi_auth_token_request "Če vaša druga naprava zahteva žeton namesto QR-kode, uporabite spodnjo vrednost:">
+
+<!-- Logs panel -->
+<!ENTITY logs_title "Predpripravljeni dnevniki ukazov">

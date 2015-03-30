@@ -3,5 +3,5 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!-- Labels -->
 
-<!ENTITY name.label      "Ime adresarja:">
+<!ENTITY name.label      "Ime imenika:">
 <!ENTITY name.accesskey  "I">

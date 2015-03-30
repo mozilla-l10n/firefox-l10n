@@ -37,13 +37,13 @@
 <!ENTITY smiley10Cmd.accesskey "K">
 <!ENTITY smiley10Cmd.tooltip "Vstavi obraz, ki kriči">
 <!ENTITY smiley11Cmd.label "Kul">
-<!ENTITY smiley11Cmd.accesskey "K">
+<!ENTITY smiley11Cmd.accesskey "u">
 <!ENTITY smiley11Cmd.tooltip "Vstavi kul obraz">
 <!ENTITY smiley12Cmd.label "Usta denarja">
 <!ENTITY smiley12Cmd.accesskey "d">
 <!ENTITY smiley12Cmd.tooltip "Vstavi usta denarja">
 <!ENTITY smiley13Cmd.label "Zarečeno">
-<!ENTITY smiley13Cmd.accesskey "č">
+<!ENTITY smiley13Cmd.accesskey "Z">
 <!ENTITY smiley13Cmd.tooltip "Vstavi obraz z nogo v ustih">
 <!ENTITY smiley14Cmd.label "Nedolžen">
 <!ENTITY smiley14Cmd.accesskey "N">
@@ -52,7 +52,7 @@
 <!ENTITY smiley15Cmd.accesskey "k">
 <!ENTITY smiley15Cmd.tooltip "Vstavi objokan obraz">
 <!ENTITY smiley16Cmd.label "Zapečatene ustnice">
-<!ENTITY smiley16Cmd.accesskey "Z">
+<!ENTITY smiley16Cmd.accesskey "a">
 <!ENTITY smiley16Cmd.tooltip "Vstavi zapečatene ustnice">
 <!ENTITY SmileButton.tooltip "Vstavi smeška">
 

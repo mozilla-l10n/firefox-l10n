@@ -4,6 +4,6 @@
 <!--LOCALIZATION NOTE shown while obtaining certificates from a directory -->
 
 
-<!ENTITY title.label "Prenašam potrdila">
-<!ENTITY info.message "Preiskujem imenik za naslovnikova potrdila. To lahko traja nekaj minut.">
-<!ENTITY stop.label "Prekini iskanje">
+<!ENTITY title.label "Prenos potrdil">
+<!ENTITY info.message "Iskanje mape za naslovnikova potrdila. To lahko traja nekaj minut.">
+<!ENTITY stop.label "Ustavi iskanje">

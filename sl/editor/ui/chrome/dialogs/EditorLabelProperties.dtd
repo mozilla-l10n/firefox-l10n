@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY windowTitle.label "Lastnosti nalepk">
+<!ENTITY windowTitle.label "Lastnosti oznak">
 
 <!ENTITY Settings.label "Nastavitve">
 <!ENTITY Settings.accesskey "N">
@@ -14,5 +14,5 @@
 <!ENTITY AccessKey.label "Ključ za dostop:">
 <!ENTITY AccessKey.accesskey "K">
 
-<!ENTITY RemoveLabel.label "Odstrani nalepko">
+<!ENTITY RemoveLabel.label "Odstrani oznako">
 <!ENTITY RemoveLabel.accesskey "O">

@@ -3,14 +3,14 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!-- Window title -->
 
-<!ENTITY siteUrl.label         "URL spletnega mesta:">
-<!ENTITY docSubdir.label       "Podimenik strani:">
-<!ENTITY otherSubdir.label     "Podimenik za slike:">
+<!ENTITY siteUrl.label         "URL spletne strani:">
+<!ENTITY docSubdir.label       "Podmapa strani:">
+<!ENTITY otherSubdir.label     "Podmapa slik:">
 
-<!ENTITY status.label          "Objava …">
-<!ENTITY fileList.label        "Stanje objave">
+<!ENTITY status.label          "Objavljanje …">
+<!ENTITY fileList.label        "Stanje objavljanja">
 <!ENTITY succeeded.label       "Uspešno">
 <!ENTITY failed.label          "Neuspešno">
 
-<!ENTITY keepOpen              "Po končani objavi naj to okno ostane odprto.">
+<!ENTITY keepOpen              "Po končanem objavljanju pusti to okno odprto.">
 <!ENTITY closeButton.label     "Zapri">
