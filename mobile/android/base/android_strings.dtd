@@ -256,6 +256,7 @@
 <!ENTITY contextmenu_top_sites_pin "Blocca sito">
 <!ENTITY contextmenu_top_sites_unpin "Sblocca sito">
 <!ENTITY contextmenu_add_search_engine "Aggiungi motore di ricerca">
+<!ENTITY doorhanger_login_no_username "[nessun nome utente]">
 <!ENTITY doorhanger_login_edit_title "Modifica accesso">
 <!ENTITY doorhanger_login_edit_username_hint "Nome utente">
 <!ENTITY doorhanger_login_edit_password_hint "Password">
