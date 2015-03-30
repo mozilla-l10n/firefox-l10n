@@ -222,9 +222,9 @@
      to cause this tab to appear. -->
 
 <!ENTITY experiment.info.label "Mi ez? A telemetria időről időre kísérleteket telepíthet és futtathat.">
-<!ENTITY experiment.info.learnmore "További információ">
+<!ENTITY experiment.info.learnmore "További tudnivalók">
 <!ENTITY experiment.info.learnmore.accesskey "T">
 <!ENTITY experiment.info.changetelemetry "Telemetria beállításai">
 <!ENTITY experiment.info.changetelemetry.accesskey "b">
 
-<!ENTITY setting.learnmore "További információ…">
+<!ENTITY setting.learnmore "További tudnivalók…">
