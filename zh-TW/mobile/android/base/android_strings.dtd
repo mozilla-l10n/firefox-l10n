@@ -42,6 +42,7 @@
 <!ENTITY url_bar_default_text2 "搜尋或輸入網址">
 
 <!ENTITY bookmark "書籤">
+<!ENTITY bookmark_remove "移除書籤">
 <!ENTITY bookmark_added "已加入書籤">
 <!ENTITY bookmark_removed "已移除書籤">
 <!ENTITY bookmark_updated "已更新書籤">
@@ -79,6 +80,7 @@
 <!ENTITY pref_category_advanced "進階">
 <!ENTITY pref_category_customize "自訂">
 <!ENTITY pref_category_customize_summary "首頁、搜尋、分頁、匯入">
+<!ENTITY pref_category_customize_alt_summary "首頁、搜尋、分頁、稍後再開、匯入">
 
 <!-- Localization note (pref_category_language) : This is the preferences
      section in which the user picks the locale in which to display Firefox
@@ -114,6 +116,17 @@
 <!ENTITY overlay_share_no_url "這個分享中找不到鏈結">
 <!ENTITY overlay_share_retry "重試">
 <!ENTITY overlay_share_select_device "選擇裝置">
+<!-- Localization note (overlay_no_synced_devices) : Used when the menu option
+     to send a tab to a synced device is pressed and no other synced devices
+     are found. -->
+<!ENTITY overlay_no_synced_devices "沒有已連線到 Firefox 帳號的裝置">
+<!-- Localization note (overlay_share_tab_not_sent) : Used when the menu option
+     to send a tab to a synced device is pressed and there is an error
+     connecting to the server so the tab could not be sent. The text should be
+     divided into two lines (use the newline escape character, "\n", between
+     them): the first notifying the user about the failure and the second
+     telling the user what to do about it. -->
+<!ENTITY overlay_share_tab_not_sent "無法傳送您的分頁。\n請稍後再試。">
 
 <!ENTITY pref_category_search3 "搜尋">
 <!ENTITY pref_category_search_summary "自訂您的搜尋引擎">
@@ -140,7 +153,9 @@
 <!ENTITY pref_category_devtools_summary "遠端除錯、閃爍描繪區域">
 <!ENTITY pref_developer_paint_flashing "閃爍描繪區域">
 <!ENTITY pref_developer_remotedebugging "遠端除錯">
+<!ENTITY pref_category_logins "登入">
 <!ENTITY pref_remember_signons "記住密碼">
+<!ENTITY pref_manage_logins "管理登入密碼">
 
 <!ENTITY pref_category_home "首頁">
 <!ENTITY pref_category_home_summary "自訂您的首頁">
@@ -176,6 +191,23 @@
 <!ENTITY pref_tracking_protection_summary "&brandShortName; 將會防止網站追蹤您">
 <!ENTITY pref_donottrack_title "Do not track">
 <!ENTITY pref_donottrack_summary "&brandShortName; 將會告訴網站您不想被追蹤">
+
+<!ENTITY tab_queue_toast_message "稍後再開">
+<!ENTITY tab_queue_toast_action "立刻開啟">
+<!-- Localization note (tab_queue_notification_text_plural) : The
+     formatD is replaced with the number of tabs queued.  The
+     number of tabs queued is always more than one.  We can't use
+     Android plural forms, sadly. See Bug #753859. -->
+<!ENTITY tab_queue_notification_text_plural "已將 &formatD; 個分頁加入佇列">
+<!-- Localization note (tab_queue_notification_title_plural) : This is the
+     title of a notification; we expect more than one tab queued. -->
+<!ENTITY tab_queue_notification_title_plural "已將分頁加入佇列">
+<!-- Localization note (tab_queue_notification_title_singular) : This is the
+     title of a notification; we expect only one tab queued. -->
+<!ENTITY tab_queue_notification_title_singular "已將分頁加入佇列">
+<!-- Localization note (tab_queue_notification_text_singular) : This is the
+     text of a notification; we expect only one tab queued. -->
+<!ENTITY tab_queue_notification_text_singular "已將 1 個分頁加入佇列">
 
 <!ENTITY pref_char_encoding "語言及字元編碼">
 <!ENTITY pref_char_encoding_on "顯示選單">
@@ -271,7 +303,7 @@ size. -->
      (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
 <!ENTITY datareporting_crashreporter_title_short "程式錯誤回報員">
 <!ENTITY datareporting_wifi_title2 "&vendorShortName; Location Service">
-<!ENTITY datareporting_wifi_geolocation_summary3 "幫助 &vendorShortName; 畫出全世界的地圖！分享您的裝置大略的 Wi-Fi 與行動基地台定位位置以幫助我們改善地理位置服務">
+<!ENTITY datareporting_wifi_geolocation_summary4 "一起來幫忙 &vendorShortName; 畫出全世界的地圖！請分享您的裝置的大略 Wi-Fi 與行動基地台位置，以幫助我們改善地理位置定位服務。">
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
      actual notification that an update is available. -->
@@ -286,6 +318,7 @@ size. -->
 <!ENTITY quit "離開">
 
 <!ENTITY addons "附加元件">
+<!ENTITY logins "登入">
 <!ENTITY downloads "下載項目">
 <!ENTITY apps "應用程式">
 <!ENTITY char_encoding "語言及字元編碼">
@@ -339,6 +372,15 @@ size. -->
 <!ENTITY contextmenu_top_sites_unpin "解除釘選網站">
 <!ENTITY contextmenu_add_search_engine "新增搜尋引擎">
 
+<!-- Localization note (doorhanger_login_no_username): This string is used in the save-login doorhanger
+     where normally a username would be displayed. In this case, no username was found, and this placeholder
+     contains brackets to indicate this is not actually a username, but rather a placeholder -->
+<!ENTITY doorhanger_login_no_username "[無使用者名稱]">
+<!ENTITY doorhanger_login_edit_title "編輯登入資訊">
+<!ENTITY doorhanger_login_edit_username_hint "使用者名稱">
+<!ENTITY doorhanger_login_edit_password_hint "密碼">
+<!ENTITY doorhanger_login_edit_toggle "顯示密碼">
+
 <!ENTITY pref_titlebar_mode "標題列">
 <!ENTITY pref_titlebar_mode_title "顯示頁面標題">
 <!ENTITY pref_titlebar_mode_url "顯示頁面地址">
@@ -347,6 +389,9 @@ size. -->
      whether or not the dynamic toolbar is enabled. -->
 <!ENTITY pref_scroll_title_bar2 "全螢幕瀏覽">
 <!ENTITY pref_scroll_title_bar_summary "向下滑動頁面時隱藏 &brandShortName; 的標題列">
+
+<!ENTITY pref_tab_queue_title "稍後再開">
+<!ENTITY pref_tab_queue_summary "讓分頁不要立刻開啟，等下次 &brandShortName; 啟用時再一次打開。">
 
 <!-- Localization note (page_removed): This string appears in a toast message when
      any page is removed frome about:home. This includes pages that are in history,
@@ -394,6 +439,7 @@ size. -->
 <!ENTITY button_clear_data "清除資料">
 <!ENTITY button_set "設定">
 <!ENTITY button_clear "清除">
+<!ENTITY button_remember "記住">
 
 <!ENTITY home_top_sites_title "最常瀏覽">
 <!-- Localization note (home_top_sites_add): This string is used as placeholder
@@ -514,6 +560,13 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY bookmarkhistory_import_wait "請稍候…">
 
 <!ENTITY suggestions_prompt3 "您想要開啟搜尋建議嗎？">
+<!--  Localization note (search_bar_item_desc): When the user clicks the url bar
+      and starts typing, a list of icons of search engines appears at the bottom
+      of the screen. When a user clicks an icon, the entered text will be searched
+      via the search engine that uses the icon they clicked. This text is used
+      for screen reader users when they hover each icon - &formatS; will be
+      replaced with the name of the currently highlighted icon. -->
+<!ENTITY search_bar_item_desc "使用 &formatS; 搜尋">
 
 <!-- Localization note (suggestion_for_engine): The placeholder &formatS1; will be
      replaced with the name of the search engine. The placeholder &formatS2; will be

@@ -70,11 +70,11 @@
 <!-- Language settings -->
 <!ENTITY sendDefaultCharset.label         "外寄的郵件:">
 <!ENTITY sendDefaultCharset.accesskey     "u">
-<!ENTITY languagesTitle1.label            "字元編碼">
-<!ENTITY composingDescription.label       "設定收發信件時的預設字元編碼">
+<!ENTITY languagesTitle2.label            "文字編碼">
+<!ENTITY composingDescription2.label      "指定收發郵件時的預設文字編碼">
 
 <!ENTITY viewDefaultCharsetList.label     "收到的郵件:">
 <!ENTITY viewDefaultCharsetList.accesskey  "I">
-<!ENTITY replyInDefaultCharset2.label     "回信時盡量使用預設字元編碼">
-<!ENTITY replyInDefaultCharset2.accesskey "h">
+<!ENTITY replyInDefaultCharset3.label     "可用時，在回信中使用預設文字編碼">
+<!ENTITY replyInDefaultCharset3.accesskey "h">
 

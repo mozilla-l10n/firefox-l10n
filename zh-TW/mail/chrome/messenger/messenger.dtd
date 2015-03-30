@@ -192,6 +192,8 @@
 <!ENTITY sortByFromCmd.accesskey "F">
 <!ENTITY sortByRecipientCmd.label "收件者">
 <!ENTITY sortByRecipientCmd.accesskey "c">
+<!ENTITY sortByCorrespondentCmd.label "通訊者">
+<!ENTITY sortByCorrespondentCmd.accesskey "e">
 <!ENTITY sortByUnreadCmd.label "已讀">
 <!ENTITY sortByUnreadCmd.accesskey "R">
 <!ENTITY sortByOrderReceivedCmd.label "收件順序">
@@ -658,6 +660,7 @@
 <!ENTITY threadColumn.label "主題">
 <!ENTITY fromColumn.label "從">
 <!ENTITY recipientColumn.label "收件者">
+<!ENTITY correspondentColumn.label "通訊者">
 <!ENTITY subjectColumn.label "主旨">
 <!ENTITY dateColumn.label "日期">
 <!ENTITY priorityColumn.label "重要性">
@@ -680,6 +683,7 @@
 <!ENTITY threadColumn2.tooltip "顯示訊息討論串">
 <!ENTITY fromColumn2.tooltip "依照寄件者排序">
 <!ENTITY recipientColumn2.tooltip "依照收件者排序">
+<!ENTITY correspondentColumn2.tooltip "依照通訊者排序">
 <!ENTITY subjectColumn2.tooltip "依照主旨排序">
 <!ENTITY dateColumn2.tooltip "依照日期排序">
 <!ENTITY priorityColumn2.tooltip "依照優先權排序">

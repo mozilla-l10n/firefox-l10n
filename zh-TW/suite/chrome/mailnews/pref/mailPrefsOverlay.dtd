@@ -21,6 +21,6 @@
 <!ENTITY return.label                     "收件回執">
 <!ENTITY junk.label                       "垃圾與可疑郵件">
 <!ENTITY tags.label                       "標籤">
-<!ENTITY characterEncoding.label          "語言及字元編碼">
+<!ENTITY characterEncoding2.label         "文字編碼">
 <!ENTITY networkStorage.label             "網路與儲存空間">
 

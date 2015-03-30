@@ -16,7 +16,7 @@
 <!ENTITY allowHWAccel.accesskey        "h">
 <!ENTITY storeType.label               "新帳號的訊息儲存方式:">
 <!ENTITY storeType.accesskey           "T">
-<!ENTITY mboxStore.label               "單一大檔案（mbox）">
+<!ENTITY mboxStore2.label              "為每個信件匣建立一個檔案（mbox）">
 <!ENTITY maildirStore.label            "為每封訊息建立檔案（maildir）">
 
 <!ENTITY scrolling.label               "捲動">
