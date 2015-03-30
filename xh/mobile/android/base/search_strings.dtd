@@ -16,7 +16,7 @@
 <!ENTITY search_plus_content_description "Dibanisa kwibha yokukhangela">
 
 <!ENTITY search_pref_title "Iisetingi">
-
+<!ENTITY search_pref_button_content_description "Iisetingi">
 
 <!ENTITY pref_clearHistory_confirmation "Isusiwe imbali">
 <!ENTITY pref_clearHistory_dialogMessage "Icime yonke imbali yokukhangela kwesi sixhobo ">

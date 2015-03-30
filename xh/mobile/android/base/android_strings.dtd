@@ -6,6 +6,7 @@
 <!ENTITY  no_space_to_start_error "Akukho ndawo yaneleyo ifumanekayo ye&brandShortName; ukuqalisa.">
 <!ENTITY  error_loading_file "Impazamo yenzekile xa bekuzanywa ukulayishwa iifayile ezifunekayo ukuhambisa i-&brandShortName;">
 
+<!ENTITY  onboard_start_message2 "Wamkelekile &brandShortName;">
 <!ENTITY  onboard_start_subtext2 "Iimpawu ezininzi zabucala neendlela zokuzenzela kunakuqala.">
 <!ENTITY  onboard_start_button_account "Sayina ungene nebrandShortName">
 <!ENTITY  onboard_start_button_browser "Qala ukubhrawuza">
@@ -74,7 +75,7 @@
 <!ENTITY switch_button_message "ISWITSHI">
 
 <!ENTITY settings "Iisetingi">
-
+<!ENTITY settings_title "Iisetingi">
 <!ENTITY pref_category_advanced "Kwinqanaba eliphambili">
 <!ENTITY pref_category_customize "Lungiselela">
 <!ENTITY pref_category_customize_summary "Ekhaya, khangela, iithebhu, ngenisa">
@@ -98,6 +99,8 @@
 <!-- Localization note (overlay_share_bookmark_btn_label) : This string is
      used in the share overlay menu to select an action. It is the verb
      "to bookmark", not the noun "a bookmark". -->
+
+<!ENTITY overlay_share_bookmark_btn_label "Ibhukhmakhi">
 <!ENTITY overlay_share_reading_list_btn_label "Yongeza Kuluhlu Lokufunda">
 <!ENTITY overlay_share_bookmark_btn_label_already "Sele ibhukmakhiwe">
 <!ENTITY overlay_share_reading_list_btn_label_already "Sele ikuLuhlo lokuFundwa">
@@ -109,9 +112,10 @@
 
 <!ENTITY overlay_share_send_tab_btn_label "Thumela nakwenye idivayisi">
 <!ENTITY overlay_share_no_url "Ayikho ilinki efumanekayo kolulwabelwano">
-
+<!ENTITY overlay_share_retry "Zama kwakhona">
 <!ENTITY overlay_share_select_device "Khetha idivayisi">
 
+<!ENTITY pref_category_search3 "Khangela">
 <!ENTITY pref_category_search_summary "Lungiselela izikhangeli zakho">
 <!ENTITY pref_category_display "Bonisa">
 <!ENTITY pref_category_display_summary "Isiqendu, ibha yesihloko, ukubhrawza isikrini esipheleleyo">
@@ -125,7 +129,7 @@
 <!ENTITY pref_category_add_search_providers "Yongeza iziboneleli zokukhangela ezingakumbi">
 <!ENTITY pref_category_search_restore_defaults "Buyisela iinjini zokukhangela">
 <!ENTITY pref_search_restore_defaults "Buyisela iziseko">
-
+<!ENTITY pref_search_restore_defaults_summary "Buyisela iziseko">
 <!-- Localization note (pref_search_hint) : "TIP" as in "hint", "clue" etc. Displayed as an
      advisory message on the customise search providers settings page explaining how to add new
      search providers.
@@ -155,14 +159,16 @@
 <!ENTITY pref_home_suggested_sites_summary "Bonisa oondlelamfutshane ukuya kwiisayithi kwikhasi lekhaya lakho esicinga ukuba ungalifumana linomdla">
 <!-- Localization note: These are shown in the left sidebar on tablets -->
 
-
+<!ENTITY pref_header_customize "Lungiselela">
+<!ENTITY pref_header_display "Bonisa">
+<!ENTITY pref_header_privacy_short "Okwabucala">
 <!ENTITY pref_header_help "Uncedo">
-
-
-
+<!ENTITY pref_header_language "Ulwimi">
+<!ENTITY pref_header_vendor "I-&vendorShortName;">
+<!ENTITY pref_header_devtools "Izixhobo zabaphuhlisi">
 
 <!ENTITY pref_cookies_menu "Iikhukhi">
-
+<!ENTITY pref_cookies_accept_all "Ezenziwe zasebenza">
 <!ENTITY pref_cookies_not_accept_foreign "Zivunyelwe, ngaphandle kweqela lesi-3">
 <!ENTITY pref_cookies_disabled "Ivaliwe">
 
@@ -180,9 +186,9 @@
 <!ENTITY pref_clear_on_exit_summary2 "&brandShortName; iya kuyisusa ngokwayo ingcombolo yakho xa ukhetha \u0022Quit\u0022 kwimenyu ephambili">
 <!ENTITY pref_clear_on_exit_dialog_title "Khetha ingcombolo emayisuswe">
 <!ENTITY pref_plugins "Izifakelo">
-
+<!ENTITY pref_plugins_enabled "Ezenziwe zasebenza">
 <!ENTITY pref_plugins_tap_to_play "Cofa kancinci uze udlale">
-
+<!ENTITY pref_plugins_disabled "Yenziwe ukuba ingasebenzi">
 <!ENTITY pref_text_size "Ubukhulu bombhalo">
 <!ENTITY pref_reflow_on_zoom4 "Ukulungelelanisa okubhaliweyo">
 <!ENTITY pref_restore "Iithebhu">
@@ -208,7 +214,7 @@ size. -->
 <!ENTITY pref_media_autoplay_enabled "Vumela ukudlala ngokuzenzekelayo">
 <!ENTITY pref_media_autoplay_enabled_summary "Lawula xa iiwebhusayithi zikakho ukuzidlalela ngokuzenzelayo iivido kunye neminye imiba yemidiya">
 <!ENTITY pref_zoom_force_enabled "Ngalo lonke ixesha vula i-zoom">
-
+<!ENTITY pref_zoom_force_enabled_summary "Nyanzela ungananzi ukuze usiondeze naliphi na iphepha">
 
 <!ENTITY pref_use_master_password "Sebenzisa ipasiwedi eyimasta">
 <!ENTITY pref_sync "Ungqamaniso">
@@ -270,10 +276,12 @@ size. -->
      specifically, since the pref only prevents automatic downloads and not the
      actual notification that an update is available. -->
 <!ENTITY pref_update_autodownload2 "Khuphela okwamva ngokuzenzela">
-
+<!ENTITY pref_update_autodownload_wifi "Phezu kwe-Wi-Fi kuphela">
 <!ENTITY pref_update_autodownload_never "Ungaze">
 <!ENTITY pref_update_autodownload_always "Qho">
 <!-- Localization note (help_menu) : This string is used in the main menu-->
+
+<!ENTITY help_menu "Uncedo">
 
 <!ENTITY quit "Yeka">
 
@@ -359,6 +367,7 @@ size. -->
 <!ENTITY reading_list_removed "Ikhasi lisuswe kuludwe lwakho lokufunda">
 <!-- Localization note (reading_list_remove) : Used to remove the currently open page from
      the user's reading list. The opposite of overlay_share_reading_list_btn_label. -->
+<!ENTITY reading_list_remove "Susa kuLuhlu lokuFunda">
 <!ENTITY reading_list_duplicate "Iphepha selikho Kuluhlu Lokufunda lwakho">
 <!-- Localization note (reading_list_time_minutes2) : This string is used in the "Reading List"
      panel on the home page to give the user an estimate of how many minutes it will take to
@@ -377,12 +386,12 @@ size. -->
 <!ENTITY masterpassword_confirm "Qinisekisa ipasiwedi">
 
 <!ENTITY button_ok "Kulungile">
-
+<!ENTITY button_cancel "Rhoxisa">
 <!ENTITY button_yes "Ewe">
 <!ENTITY button_no "Hayi">
 <!ENTITY button_clear_data "Susa iinkcukacha">
-
-
+<!ENTITY button_set "Iseti">
+<!ENTITY button_clear "Susa">
 
 <!ENTITY home_top_sites_title "Iisayithi eziphezulu">
 <!-- Localization note (home_top_sites_add): This string is used as placeholder
@@ -392,7 +401,7 @@ size. -->
      with the page title defined in aboutHome.dtd -->
 
 <!ENTITY home_title "&brandShortName; Ekhaya">
-
+<!ENTITY home_history_title "Imbali">
 <!ENTITY home_clear_history_button "Susa imbali yokubhrawuza">
 <!ENTITY home_clear_history_confirm "Uqinisekile ukuba ufuna ukususa imbali yakho?">
 <!ENTITY home_bookmarks_empty "Ibhukhmakhi ozigcinileyo zibonakala apha.">
@@ -454,6 +463,7 @@ size. -->
 
 <!ENTITY pin_site_dialog_hint "Faka igama eliphambili olikhangelayo">
 
+<!ENTITY filepicker_title "Khetha iFayile">
 <!ENTITY filepicker_audio_title "Khetha okanye rekhoda isandi">
 <!ENTITY filepicker_image_title "Khetha okanye thatha umfanekiso">
 <!ENTITY filepicker_video_title "Khetha okanye rekhoda ividiyo">
@@ -524,18 +534,20 @@ esuka kwi-Android">
 <!ENTITY updater_downloading_select2 "Chukumisa ukwenza uhlaziyo lusakube lukhutshelwe">
 <!ENTITY updater_downloading_retry2 "Chukumisa ukuzama kwakhona">
 
+<!ENTITY updater_apply_title2 "Uhlaziyo olufumanekayo ukulungiselela i-&brandShortName;">
 <!ENTITY updater_apply_select2 "Chukumisa ukuze uhlaziye">
 <!-- Guest mode -->
 
 <!ENTITY new_guest_session "Iseshoni Entsha Yondwendwe">
 <!ENTITY exit_guest_session "Phuma Kwiseshoni Yondwendwe">
 <!ENTITY guest_session_dialog_continue "Qhuba">
-
+<!ENTITY guest_session_dialog_cancel "Rhoxisa">
 <!ENTITY new_guest_session_title "&brandShortName; iza kuqala ngoku">
 <!ENTITY new_guest_session_text "Umntu oyisebenzisayo akayi kukwazi ukubona naziphi na iingcombolo zokubhrawuza kwakho buqu (njengeepasiwedi ezigciniweyo, imbali okanye iibhukhmakhi).\n\nXa undwendwe lwakho lugqibile, imbali yabo yokubhrawuza iza kucinywa kuze kubuyiselwe iseshoni yakho.">
 <!ENTITY guest_browsing_notification_title "Ukubhrawza ulindwendwe kwenziwe kwasebenza">
 <!ENTITY guest_browsing_notification_text "Cofa ukuze uphume">
 
+<!ENTITY exit_guest_session_title "I-&brandShortName; iza kuqalela ngoku">
 <!ENTITY exit_guest_session_text "Iingcombolo zokubhrawuza zale seshoni ziza kucinywa.">
 <!-- Miscellaneous -->
 <!-- LOCALIZATION NOTE (ellipsis): This text is appended to a piece of text that does not fit in the
@@ -547,14 +559,16 @@ esuka kwi-Android">
 <!ENTITY colon ":">
 <!-- These are only used for accessibility for the done and overflow-menu buttons in the actionbar.
      They are never shown to users -->
+
+<!ENTITY actionbar_menu "Imenyu">
 <!ENTITY actionbar_done "Ugqibile">
 <!-- Voice search in the awesome bar -->
 
 <!ENTITY voicesearch_prompt "Thetha ngoku">
-
+<!ENTITY voicesearch_failed_title "I-&brandShortName; Ilizwi lokuKhangela">
 <!ENTITY voicesearch_failed_message "Kukho ingxaki ngokukhangela ilizwi ngoku. Nceda uzame ngelinye ixesha.">
 <!ENTITY voicesearch_failed_message_recoverable "Uxolo! Asikhange sikwazi ukunakana amazwi akho. Nceda uzame ngelinye ixesha.">
-
+<!ENTITY voicesearch_failed_retry "Zama kwakhona">
 <!-- Localization note (remote_tabs_last_synced): the variable is replaced by a
      "relative time span string" produced by Android.  This string describes the
      time the tabs were last synced relative to the current time; examples
