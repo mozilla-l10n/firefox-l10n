@@ -21,7 +21,7 @@
 <!ENTITY saveMessageDlg.label "Bevestiging weergeven als berichten zijn opgeslagen">
 <!ENTITY saveMessageDlg.accesskey "w">
 <!-- LOCALIZATION NOTE (sentFolderOn.label): OK to translate this, bug #57440 -->
-<!ENTITY sentFolderOn.label "Map “Verzonden” in:">
+<!ENTITY sentFolderOn.label "Map ‘Verzonden’ in:">
 <!ENTITY sentFolderOn.accesskey "V">
 <!ENTITY sentInOtherFolder.label "Anders:">
 <!ENTITY sentInOtherFolder.accesskey "A">
@@ -31,20 +31,20 @@
 <!ENTITY keepArchives.accesskey "B">
 <!ENTITY archiveHierarchyButton.label "Archiveringsopties…">
 <!ENTITY archiveHierarchyButton.accesskey "A">
-<!ENTITY archivesFolderOn.label "Map “Archieven” in:">
+<!ENTITY archivesFolderOn.label "Map ‘Archieven’ in:">
 <!ENTITY archivesFolderOn.accesskey "r">
 <!ENTITY archiveInOtherFolder.label "Anders:">
 <!ENTITY archiveInOtherFolder.accesskey "e">
 <!ENTITY specialFolders.label "Concepten en sjablonen">
 <!ENTITY keepDrafts.label "Berichtconcepten bewaren in:">
 <!-- LOCALIZATION NOTE (draftsFolderOn.label): OK to translate this, bug #57440 -->
-<!ENTITY draftsFolderOn.label "Map “Concepten” in:">
+<!ENTITY draftsFolderOn.label "Map ‘Concepten’ in:">
 <!ENTITY draftsFolderOn.accesskey "C">
 <!ENTITY draftInOtherFolder.label "Anders:">
 <!ENTITY draftInOtherFolder.accesskey "n">
 <!ENTITY keepTemplates.label "Berichtsjablonen bewaren in:">
 <!-- LOCALIZATION NOTE (templatesFolderOn.label): OK to translate this, bug #57440 -->
-<!ENTITY templatesFolderOn.label "Map “Sjablonen” in:">
+<!ENTITY templatesFolderOn.label "Map ‘Sjablonen’ in:">
 <!ENTITY templatesFolderOn.accesskey "S">
 <!ENTITY templateInOtherFolder.label "Anders:">
 <!ENTITY templateInOtherFolder.accesskey "d">
