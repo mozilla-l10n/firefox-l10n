@@ -14,8 +14,8 @@
 <!ENTITY pref.dateformat.short "Rövid"  >
 
 <!ENTITY pref.timezones.caption "Időzóna">
-
-
+<!ENTITY pref.timezones.label "Válassza ki a legközelebbi várost az időzónájában:">
+<!ENTITY pref.timezones.accesskey "V">
 
 <!ENTITY pref.defaults.label "Alapértelmezett értékek új elemekhez">
 <!ENTITY pref.events.label "Események">
@@ -34,8 +34,8 @@
 <!ENTITY pref.default_task_offset_next_hour.label "Következő órához képest">
 
 <!ENTITY pref.calendar.todaypane.agenda.caption "Ma panel">
-
-
+<!ENTITY pref.soondays.label "A várakozó szakaszban megjelenik:">
+<!ENTITY pref.soondays.accesskey "v">
 
 <!ENTITY pref.accessibility.label "Kisegítő lehetőségek" >
 <!ENTITY pref.systemcolors.label "Színek optimalizálása" >

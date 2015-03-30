@@ -14,7 +14,7 @@
 
 <!ENTITY calendar.today.button.label          "Ma">
 <!ENTITY calendar.tomorrow.button.label       "Holnap">
-
+<!ENTITY calendar.upcoming.button.label       "Várakozó">
 
 <!ENTITY calendar.events.filter.all.label "Minden esemény">
 <!ENTITY calendar.events.filter.today.label "Mai események">
@@ -233,15 +233,17 @@
 <!ENTITY calendar.context.newserver.accesskey          "n">
 <!ENTITY calendar.context.findcalendar.label           "Naptár keresése…" >
 <!ENTITY calendar.context.findcalendar.accesskey       "k" >
-
-
+<!ENTITY calendar.context.deleteserver2.label          "Naptár törlése…">
+<!ENTITY calendar.context.deleteserver2.accesskey      "t">
 <!-- LOCALIZATION NOTE (calendar.context.removeserver.label): Removing the
       calendar is the general action of removing it, while deleting means to
       clear the data and unsubscribing means just taking it out of the calendar
       list. -->
 
-
-
+<!ENTITY calendar.context.removeserver.label           "Naptár eltávolítása…">
+<!ENTITY calendar.context.removeserver.accesskey       "e">
+<!ENTITY calendar.context.unsubscribeserver.label      "Leiratkozás a naptárról…">
+<!ENTITY calendar.context.unsubscribeserver.accesskey  "L">
 <!ENTITY calendar.context.synccalendars.label          "Naptárak szinkronizálása">
 <!ENTITY calendar.context.synccalendars.accesskey      "s">
 <!ENTITY calendar.context.publish.label                "Naptár közzététele…">
