@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY windowTitle.label "Nastavitve za izbirni seznam">
+<!ENTITY windowTitle.label "Lastnosti izbirnega seznama">
 
 <!ENTITY Select.label "Izbirni seznam">
 <!ENTITY SelectName.label "Ime seznama:">
@@ -13,16 +13,16 @@
 <!ENTITY SelectMultiple.accesskey "e">
 <!ENTITY SelectDisabled.label "Onemogočeno">
 <!ENTITY SelectDisabled.accesskey "O">
-<!ENTITY SelectTabIndex.label "Indeks oznake:">
-<!ENTITY SelectTabIndex.accesskey "I">
+<!ENTITY SelectTabIndex.label "Kazalo zavihkov:">
+<!ENTITY SelectTabIndex.accesskey "K">
 
 <!ENTITY OptGroup.label "Izbirna skupina">
-<!ENTITY OptGroupLabel.label "Nalepka:">
-<!ENTITY OptGroupLabel.accesskey "N">
+<!ENTITY OptGroupLabel.label "Oznaka:">
+<!ENTITY OptGroupLabel.accesskey "O">
 <!ENTITY OptGroupDisabled.label "Onemogočeno">
 <!ENTITY OptGroupDisabled.accesskey "O">
 
-<!ENTITY Option.label "Izbira">
+<!ENTITY Option.label "Možnost">
 <!ENTITY OptionText.label "Besedilo:">
 <!ENTITY OptionText.accesskey "B">
 <!ENTITY OptionValue.label "Vrednost:">
@@ -36,8 +36,8 @@
 <!ENTITY ValueHeader.label "Vrednost">
 <!ENTITY SelectedHeader.label "Izbrano">
 
-<!ENTITY AddOption.label "Dodaj izbiro">
-<!ENTITY AddOption.accesskey "i">
+<!ENTITY AddOption.label "Dodaj možnost">
+<!ENTITY AddOption.accesskey "m">
 <!ENTITY AddOptGroup.label "Dodaj skupino">
 <!ENTITY AddOptGroup.accesskey "s">
 <!ENTITY RemoveElement.label "Odstrani">

@@ -4,17 +4,17 @@
 <!-- Help Menu -->
 
 <!ENTITY helpMenu.label "Pomoč">
-<!ENTITY helpMenu.accesskey "č">
+<!ENTITY helpMenu.accesskey "m">
 <!-- LOCALIZATION NOTE some localizations of Windows use "?"
                        for the help button in the menubar but Gnome does not.   -->
 <!ENTITY helpMenuWin.label "Pomoč">
-<!ENTITY helpMenuWin.accesskey "č">
-<!ENTITY helpTroubleshootingInfo.label     "Informacije o problemu">
-<!ENTITY helpTroubleshootingInfo.accesskey "I">
-<!ENTITY helpSafeMode.label     "Zaženi znova z onemogočenimi dodatki…">
-<!ENTITY helpSafeMode.accesskey "ž">
+<!ENTITY helpMenuWin.accesskey "m">
+<!ENTITY helpTroubleshootingInfo.label     "Reševanje težav">
+<!ENTITY helpTroubleshootingInfo.accesskey "R">
+<!ENTITY helpSafeMode.label     "Ponovno zaženi z onemogočenimi dodatki …">
+<!ENTITY helpSafeMode.accesskey "P">
 <!ENTITY releaseCmd2.label "Opombe ob izdaji">
-<!ENTITY releaseCmd2.accesskey "O">
+<!ENTITY releaseCmd2.accesskey "m">
 <!ENTITY whatsNewCmd.label "Kaj je novega">
 <!ENTITY whatsNewCmd.accesskey "K">
 <!ENTITY openHelp.label "Vsebina pomoči">
@@ -25,4 +25,4 @@
 <!ENTITY openHelpMac2.modifiers    "accel">
 
 <!ENTITY aboutMenuCmd.label "O &brandShortName;u">
-<!ENTITY aboutMenuCmd.accesskey "A">
+<!ENTITY aboutMenuCmd.accesskey "O">

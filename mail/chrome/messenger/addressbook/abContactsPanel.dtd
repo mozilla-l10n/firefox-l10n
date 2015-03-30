@@ -2,8 +2,8 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY addressbookPicker.label            "Adresar:">
-<!ENTITY addressbookPicker.accesskey        "A">
+<!ENTITY addressbookPicker.label            "Imenik:">
+<!ENTITY addressbookPicker.accesskey        "m">
 <!ENTITY searchInput.label                  "Poišči:">
 <!ENTITY searchInput.accesskey              "i">
 <!ENTITY SearchNameOrEmail.label            "Ime ali E-pošta">
@@ -13,15 +13,15 @@
 <!ENTITY addrBookCardProperties.label       "Lastnosti">
 <!ENTITY addrBookCardProperties.accesskey   "L">
 <!ENTITY addtoToFieldMenu.label             "Dodaj v polje Za">
-<!ENTITY addtoToFieldMenu.accesskey         "a">
+<!ENTITY addtoToFieldMenu.accesskey         "Z">
 <!ENTITY addtoCcFieldMenu.label             "Dodaj v polje Kp">
-<!ENTITY addtoCcFieldMenu.accesskey         "C">
+<!ENTITY addtoCcFieldMenu.accesskey         "K">
 <!ENTITY addtoBccFieldMenu.label            "Dodaj v polje Skp">
-<!ENTITY addtoBccFieldMenu.accesskey        "B">
+<!ENTITY addtoBccFieldMenu.accesskey        "S">
 
 <!ENTITY toButton.label                     "Dodaj v Za:">
-<!ENTITY toButton.accesskey                 "a">
+<!ENTITY toButton.accesskey                 "Z">
 <!ENTITY ccButton.label                     "Dodaj v Kp:">
-<!ENTITY ccButton.accesskey                 "C">
+<!ENTITY ccButton.accesskey                 "K">
 <!ENTITY bccButton.label                    "Dodaj v Skp:">
-<!ENTITY bccButton.accesskey                "B">
+<!ENTITY bccButton.accesskey                "S">

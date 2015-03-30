@@ -18,7 +18,7 @@
      whether the quick filter bar is visible.
      -->
 
-<!ENTITY quickFilterBar.toggleBarVisibility.menu.accesskey "Q">
+<!ENTITY quickFilterBar.toggleBarVisibility.menu.accesskey "h">
 <!-- LOCALIZATION NOTE (quickFilterBar.toggleBarVisibility.appmenu.label):
      The label to display for the "App Menu... Preferences..." menu item that
      controls whether the quick filter bar is visible.
@@ -39,7 +39,7 @@
      filters are propagated between folder changes and when opening new tabs.)
      -->
 
-<!ENTITY quickFilterBar.sticky.tooltip "Uporabljene filtre ohrani, ko menjaš v druge mape">
+<!ENTITY quickFilterBar.sticky.tooltip "Ohrani uporabo filtrov ob menjavi map">
 <!-- LOCALIZATION NOTE (quickFilterBar.unread.label):
      The label for the filter button that causes us to filter results to only
      include unread messages.
@@ -77,7 +77,7 @@
      books.
      -->
 
-<!ENTITY quickFilterBar.inaddrbook.tooltip "Prikaži samo sporočila od ljudi v mojem adresarju">
+<!ENTITY quickFilterBar.inaddrbook.tooltip "Prikaži samo sporočila od oseb v mojem imeniku">
 <!-- LOCALIZATION NOTE (quickFilterBar.tags.label):
      The label for the filter button that causes us to filter results to only
      include messages with at least one tag on them.
@@ -89,13 +89,13 @@
      include messages with at least one tag on them.
      -->
 
-<!ENTITY quickFilterBar.tags.tooltip "Prikaži samo sporočila z zaznamki">
+<!ENTITY quickFilterBar.tags.tooltip "Prikaži samo sporočila z oznakami">
 <!-- LOCALIZATION NOTE (quickFilterBar.attachment.label):
      The label for the filter button that causes us to filter results to only
      include messages with attachments.
      -->
 
-<!ENTITY quickFilterBar.attachment.label "Priponka">
+<!ENTITY quickFilterBar.attachment.label "Priponke">
 <!-- LOCALIZATION NOTE (quickFilterBar.attachment.tooltip):
      The tooltip for the filter button that causes us to filter results to only
      include messages with attachments.
@@ -112,7 +112,7 @@
      https://developer.mozilla.org/En/Localization_and_Plurals
      -->
 
-<!ENTITY quickFilterBar.resultsLabel.some.formatString "#1 sporočilo;#1 sporočil">
+<!ENTITY quickFilterBar.resultsLabel.some.formatString "#1 sporočilo;#1 sporočili;#1 sporočila;#1 sporočil">
 <!-- LOCALIZATION NOTE (quickFilterBar.resultsLabel.none):
      The contents of the results box when there is a filter active but there
      are no messages matching the filter.
@@ -139,7 +139,7 @@
      box faster.
      -->
 
-<!ENTITY quickFilterBar.textbox.emptyText.base "Filtriraj ta sporočila …">
+<!ENTITY quickFilterBar.textbox.emptyText.base "Filtriraj ta sporočila … #1">
 <!-- LOCALIZATION NOTE (quickFilterBar.show.key2):
      This is the key used to show the quick filter bar. -->
 
@@ -161,27 +161,27 @@
      Tooltip of the Any of / All of tagging mode selector.
      -->
 
-<!ENTITY quickFilterBar.booleanMode.tooltip "Način filtriranja za označevanje">
+<!ENTITY quickFilterBar.booleanMode.tooltip "Način filtriranja oznak">
 <!-- LOCALIZATION NOTE (quickFilterBar.booleanModeAny.label):
      Tooltip of the Any of / All of tagging mode selector.
      -->
 
-<!ENTITY quickFilterBar.booleanModeAny.label "Vsaj eden">
+<!ENTITY quickFilterBar.booleanModeAny.label "Katerokoli">
 <!-- LOCALIZATION NOTE (quickFilterBar.booleanModeAny.tooltip):
      Tooltip of the Any of / All of tagging mode selector.
      -->
 
-<!ENTITY quickFilterBar.booleanModeAny.tooltip "Vsaj eden izmed izbranih kriterijev mora ustrezati">
+<!ENTITY quickFilterBar.booleanModeAny.tooltip "Ustrezati mora vsaj eno od izbranih meril oznak">
 <!-- LOCALIZATION NOTE (quickFilterBar.booleanModeAll.label):
      Tooltip of the Any of / All of tagging mode selector.
      -->
 
-<!ENTITY quickFilterBar.booleanModeAll.label "Vsi">
+<!ENTITY quickFilterBar.booleanModeAll.label "Vse">
 <!-- LOCALIZATION NOTE (quickFilterBar.booleanModeAll.tooltip):
      Tooltip of the Any of / All of tagging mode selector.
      -->
 
-<!ENTITY quickFilterBar.booleanModeAll.tooltip "Vsi izbrani kriteriji morajo ustrezati">
+<!ENTITY quickFilterBar.booleanModeAll.tooltip "Ustrezati morajo vsa izbrana merila oznak">
 <!-- LOCALIZATION NOTE (quickFilterBar.textbox.idealWidth):
      The number of pixels for the ideal width of the quick filter box textbox.
      Choose this value so that the emptyText fits nicely with a little bit of

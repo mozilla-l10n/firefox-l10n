@@ -6,17 +6,17 @@
 <!ENTITY subscribeButton.label        "Naroči se">
 <!ENTITY subscribeButton.accesskey    "s">
 <!ENTITY unsubscribeButton.label      "Odjavi naročnino">
-<!ENTITY unsubscribeButton.accesskey  "U">
+<!ENTITY unsubscribeButton.accesskey  "O">
 <!ENTITY newGroupsTab.label           "Nove skupine">
 <!ENTITY newGroupsTab.accesskey       "N">
 <!ENTITY refreshButton.label          "Osveži">
 <!ENTITY refreshButton.accesskey      "e">
 <!ENTITY stopButton.label             "Ustavi">
-<!ENTITY stopButton.accesskey         "t">
+<!ENTITY stopButton.accesskey         "U">
 <!ENTITY server.label                 "Račun:">
-<!ENTITY server.accesskey             "A">
+<!ENTITY server.accesskey             "R">
 <!ENTITY subscribedHeader.label       "Naroči se">
 <!-- commenting out until bug 38906 is fixed 
 <!ENTITY messagesHeader.label         "Messages"> -->
-<!ENTITY namefield.label              "Pokaži elemente, ki vsebujejo:">
-<!ENTITY namefield.accesskey          "o">
+<!ENTITY namefield.label              "Pokaži predmete, ki vsebujejo:">
+<!ENTITY namefield.accesskey          "P">

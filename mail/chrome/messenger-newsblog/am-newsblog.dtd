@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY biffStart.label "Poglej za nove članke vsakih ">
+<!ENTITY biffStart.label "Preveri za nove članke vsakih ">
 <!ENTITY biffStart.accesskey "k">
 <!ENTITY biffEnd.label "minut">
 
@@ -20,5 +20,5 @@
 
 <!ENTITY feeds.accountName "Spletni dnevniki in viri novic">
 <!ENTITY feeds.wizardShortName "Viri">
-<!ENTITY feeds.wizardLongName "Spletni dnevniki in viri novic ">
+<!ENTITY feeds.wizardLongName "Spletni dnevniki in viri novic">
 <!ENTITY feeds.wizardLongName.accesskey "V">

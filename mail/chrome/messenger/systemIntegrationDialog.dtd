@@ -2,9 +2,9 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY systemIntegration.title  "Sistemska integracija">
+<!ENTITY systemIntegration.title  "Sistemska povezljivost">
 <!ENTITY acceptIntegration.label  "Nastavi kot privzeto">
-<!ENTITY cancelIntegration.label  "Preskoči integracijo">
+<!ENTITY cancelIntegration.label  "Preskoči povezljivost">
 <!ENTITY cancelIntegration2.label  "Prekliči">
 <!ENTITY defaultClient.intro  "Uporabi &brandShortName; kot privzeti program za:">
 
@@ -12,9 +12,9 @@
 <!ENTITY newsgroups.label "Novičarske skupine">
 <!ENTITY feeds.label "Vire">
 
-<!ENTITY unsetDefault.tooltip "Programa &brandShortName; ni mogoče odstraniti kot privzetega odjemalca znoraj programa &brandShortName;. Če želite privzeto uporabljati drug program, uporabite njegovo pogovorno okno 'Nastavi kot priveto'.">
+<!ENTITY unsetDefault.tooltip "&brandShortName;a ni mogoče odstraniti kot privzetega odjemalca znotraj &brandShortName;a. Če želite privzeto uporabljati drug program, uporabite njegovo pogovorno okno 'Nastavi kot privzeto'.">
 
-<!ENTITY checkOnStartup.label "Vedno preveri ob zagonu &brandShortName;">
+<!ENTITY checkOnStartup.label "Vedno preveri ob zagonu &brandShortName;a">
 <!ENTITY checkOnStartup.accesskey "V">
 
 <!ENTITY searchIntegration.label "Dovoli &searchIntegration.engineName; da preišče sporočila">

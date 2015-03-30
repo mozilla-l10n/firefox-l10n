@@ -5,5 +5,5 @@
 <!ENTITY windowTitle.label "Lastnosti sidra z imenom">
 <!ENTITY anchorNameEditField.label "Ime sidra:">
 <!ENTITY anchorNameEditField.accessKey "I">
-<!ENTITY nameInput.tooltip "Vnesite edinstveno ime za to sidro (cilj)">
+<!ENTITY nameInput.tooltip "Vnesite edinstveno ime za to sidro z imenom (cilj)">
 

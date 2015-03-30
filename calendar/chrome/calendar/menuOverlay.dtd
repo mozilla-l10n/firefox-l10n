@@ -4,37 +4,46 @@
 <!-- Event Menu -->
 
 <!ENTITY event.new.event                        "Nov dogodek …">
-<!ENTITY event.new.event.accesskey              "g">
+<!ENTITY event.new.event.accesskey              "d">
 
-<!ENTITY event.new.task                         "Nov opravek …">
-<!ENTITY event.new.task.accesskey               "o">
+<!ENTITY event.new.task                         "Novo opravilo …">
+<!ENTITY event.new.task.accesskey               "a">
 
 <!ENTITY calendar.import.label                  "Uvozi …">
 <!ENTITY calendar.import.accesskey              "U">
 
 <!ENTITY calendar.export.label                  "Izvozi …">
-<!ENTITY calendar.export.accesskey              "I">
+<!ENTITY calendar.export.accesskey              "z">
 
 <!ENTITY calendar.publish.label                 "Objavi …">
 <!ENTITY calendar.publish.accesskey             "b">
 
 <!ENTITY calendar.deletecalendar.label          "Izbriši izbrani koledar …">
-<!ENTITY calendar.deletecalendar.accesskey      "z">
+<!ENTITY calendar.deletecalendar.accesskey      "b">
+<!ENTITY calendar.unsubscribecalendar.label     "Odjavi se od izbranega koledarja …">
+<!ENTITY calendar.unsubscribecalendar.accesskey "O">
+<!-- LOCALIZATION NOTE (calendar.removecalendar.label): Removing the calendar
+      is the general action of removing it, while deleting means to clear the
+      data and unsubscribing means just taking it out of the calendar list. -->
+
+<!ENTITY calendar.removecalendar.label          "Izbriši izbrani koledar …">
+<!ENTITY calendar.removecalendar.accesskey      "b">
+
 
 <!ENTITY calendar.menu.customize.label          "Prilagodi …">
 <!ENTITY calendar.menu.customize.accesskey      "P">
 
 <!ENTITY showUnifinderCmd.label                 "Najdi dogodke">
-<!ENTITY showUnifinderCmd.accesskey             "i">
+<!ENTITY showUnifinderCmd.accesskey             "N">
 
-<!ENTITY calendar.displaytodos.checkbox.label       "Pokaži opravke v koledarju">
-<!ENTITY calendar.displaytodos.checkbox.accesskey   "T">
+<!ENTITY calendar.displaytodos.checkbox.label       "Prikaži opravila v koledarju">
+<!ENTITY calendar.displaytodos.checkbox.accesskey   "o">
 
-<!ENTITY goTodayCmd.label                       "Danes">
-<!ENTITY goTodayCmd.accesskey                   "s">
+<!ENTITY goTodayCmd.label                       "Današnji dan">
+<!ENTITY goTodayCmd.accesskey                   "D">
 
 <!ENTITY showCurrentView.label                  "Trenutni pogled">
-<!ENTITY showCurrentView.accesskey              "T">
+<!ENTITY showCurrentView.accesskey              "r">
 
 <!ENTITY calendar.properties.label              "Lastnosti koledarja …">
-<!ENTITY calendar.properties.accesskey          "L">
+<!ENTITY calendar.properties.accesskey          "o">

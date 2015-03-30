@@ -19,15 +19,15 @@
 <!ENTITY pref.calendar.view.daystart.label "Dan se začne ob:">
 <!ENTITY pref.calendar.view.daystart.accesskey "D">
 <!ENTITY pref.calendar.view.dayend.label "Dan se konča ob:">
-<!ENTITY pref.calendar.view.dayend.accesskey "n">
-<!ENTITY pref.calendar.view.visiblehours.label "Pokaži:">
-<!ENTITY pref.calendar.view.visiblehours.accesskey "o">
+<!ENTITY pref.calendar.view.dayend.accesskey "a">
+<!ENTITY pref.calendar.view.visiblehours.label "Prikaži:">
+<!ENTITY pref.calendar.view.visiblehours.accesskey "k">
 <!ENTITY pref.calendar.view.visiblehoursend.label "ur naenkrat">
 
-<!ENTITY pref.numberofweeks.label "Skupno število tednov prikaza (s predhodnimi):">
-<!ENTITY pref.numberofweeks.accesskey "e">
-<!ENTITY pref.numberofpreviousweeks.label "Število predhodnih tednov v prikazu:">
-<!ENTITY pref.numberofpreviousweeks.accesskey "p">
+<!ENTITY pref.numberofweeks.label "Skupno število prikazanih tednov (s predhodnimi):">
+<!ENTITY pref.numberofweeks.accesskey "u">
+<!ENTITY pref.numberofpreviousweeks.label "Število prikazanih predhodnih tednov:">
+<!ENTITY pref.numberofpreviousweeks.accesskey "Š">
 <!ENTITY pref.numberofweeks.0 "noben">
 <!ENTITY pref.numberofweeks.1 "1 teden">
 <!ENTITY pref.numberofweeks.2 "2 tedna">

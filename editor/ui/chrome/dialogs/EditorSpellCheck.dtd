@@ -25,7 +25,7 @@
 <!ENTITY userDictionary.label "Osebni slovar:">
 <!ENTITY moreDictionaries.label "Prenesi dodatne slovarje …">
 <!ENTITY addToUserDictionaryButton.label "Dodaj besedo">
-<!ENTITY addToUserDictionaryButton.accessKey "d">
+<!ENTITY addToUserDictionaryButton.accessKey "D">
 <!ENTITY editUserDictionaryButton.label "Uredi ...">
 <!ENTITY editUserDictionaryButton.accessKey "U">
 <!ENTITY recheckButton.label "Ponovno preglej stran">

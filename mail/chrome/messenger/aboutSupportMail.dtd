@@ -2,11 +2,11 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY aboutSupport.appBasicsAppBuildID "ID zgradnje aplikacije">
+<!ENTITY aboutSupport.appBasicsAppBuildID "ID izgradnje programa">
 
-<!ENTITY aboutSupport.accountsTitle "Računi za pošto in novice ">
+<!ENTITY aboutSupport.accountsTitle "Računi za pošto in novice">
 <!ENTITY aboutSupport.showPrivateData.mainText "Vključi imena računov">
-<!ENTITY aboutSupport.showPrivateData.explanationText "(lahko da predstavlja podatke, ki identificirajo) ">
+<!ENTITY aboutSupport.showPrivateData.explanationText "(možni prepoznavni podatki) ">
 <!ENTITY aboutSupport.accountsID "ID">
 <!ENTITY aboutSupport.accountsName "Ime">
 <!ENTITY aboutSupport.accountsIncomingServer "Dohodni strežnik">
