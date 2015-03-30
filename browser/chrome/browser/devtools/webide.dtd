@@ -182,7 +182,7 @@
 <!ENTITY wifi_auth_header "Identifikation af klient">
 <!-- LOCALIZATION NOTE (wifi_auth_scan_request): Instructions requesting the
      user to transfer authentication info by scanning a QR code. -->
-<!ENTITY wifi_auth_scan_request "Netværksplaceringen, som du forbinder til har brug for mere information for at godkende forbindelsen. Skan QR-koden nedenfor via prompt på den anden enhed.">
+<!ENTITY wifi_auth_scan_request "Netværksplaceringen, som du forbinder til, har brug for mere information for at godkende forbindelsen. Skan QR-koden nedenfor via prompt på den anden enhed.">
 <!-- LOCALIZATION NOTE (wifi_auth_no_scanner): Link text to assist users with
      devices that can't scan a QR code. -->
 <!ENTITY wifi_auth_no_scanner "Ingen prompt til QR-skanner?">
