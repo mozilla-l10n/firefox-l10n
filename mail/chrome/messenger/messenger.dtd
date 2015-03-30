@@ -145,8 +145,8 @@
 <!ENTITY messagePaneVertical.accesskey "F">
 <!ENTITY showFolderPaneCmd.label "Mappa ablaktábla">
 <!ENTITY showFolderPaneCmd.accesskey "M">
-
-
+<!ENTITY showFolderPaneColsCmd.label "Mappa ablaktábla oszlopai">
+<!ENTITY showFolderPaneColsCmd.accesskey "o">
 <!ENTITY showMessageCmd.label "Üzenetablak">
 <!ENTITY showMessageCmd.accesskey "Ü">
 
@@ -596,8 +596,8 @@
 <!-- Folder Pane -->
 
 <!ENTITY folderNameColumn.label "Név">
-
-
+<!ENTITY folderUnreadColumn.label "Olvasatlan">
+<!ENTITY folderTotalColumn.label "Összesen">
 <!ENTITY folderSizeColumn.label "Méret">
 <!-- Folder Pane Context Menu -->
 
@@ -666,8 +666,8 @@
 <!ENTITY statusColumn.label "Állapot">
 <!ENTITY sizeColumn.label "Méret">
 <!ENTITY junkStatusColumn.label "Szemét-e">
-
-
+<!ENTITY unreadColumn.label "Olvasatlan">
+<!ENTITY totalColumn.label "Összesen">
 <!ENTITY readColumn.label "Olvasott">
 <!ENTITY receivedColumn.label "Beérkezés">
 <!ENTITY starredColumn.label "Csillagozott">
