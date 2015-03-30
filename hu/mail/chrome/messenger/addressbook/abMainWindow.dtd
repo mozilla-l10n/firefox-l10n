@@ -4,7 +4,7 @@
 
 <!ENTITY addressbookWindow.title                        "Címjegyzék">
 <!ENTITY blankResultsPaneMessage.label                  "Ez a címjegyzék csak keresés után jelenít meg névjegyeket">
-
+<!ENTITY localResultsOnlyMessage.label                  "A távoli címjegyzékekből származó névjegyek nem jelennek meg, amíg nem keres rájuk">
 <!-- File Menu -->
 <!ENTITY fileMenu.label                                 "Fájl">
 <!ENTITY fileMenu.accesskey                             "F">
@@ -161,6 +161,8 @@ because displayed names don't have the comma in between. -->
 <!ENTITY searchItem.title "Gyorskeresés">
 <!-- Results Pane -->
 
+<!ENTITY Addrbook.label                                 "Címjegyzék">
+<!ENTITY Addrbook.accesskey                             "C">
 <!ENTITY GeneratedName.label                            "Név">
 <!ENTITY GeneratedName.accesskey                        "N">
 <!ENTITY PrimaryEmail.label                             "E-mail">

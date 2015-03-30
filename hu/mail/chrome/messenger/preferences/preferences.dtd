@@ -19,4 +19,5 @@
 <!ENTITY paneAdvanced.title       "Speciális">
 <!ENTITY paneAccount.title        "Postafiókok">
 
-
+<!ENTITY okButton.title           "OK">
+<!ENTITY okButton.accesskey       "O">
