@@ -74,7 +74,7 @@
 <!ENTITY abbreviateOff.label "縮寫 (例: 'n.p.m.mail-news')">
 <!ENTITY advancedButton.label "進階…">
 <!ENTITY advancedButton.accesskey "v">
-<!ENTITY serverDefaultCharset.label "預設字元編碼方式:">
+<!ENTITY serverDefaultCharset2.label "預設文字編碼:">
 <!ENTITY localPath.label "本地目錄:">
 <!ENTITY localFolderPicker.label "選取本地目錄">
 <!ENTITY browseFolder.label "瀏覽…">
@@ -86,6 +86,6 @@
 <!ENTITY accountSettingsDesc.label "這是沒有任何身份資訊的特殊帳號。">
 <!ENTITY storeType.label "訊息儲存方式:">
 <!ENTITY storeType.accesskey "T">
-<!ENTITY mboxStore.label "單一大檔案（mbox）">
+<!ENTITY mboxStore2.label "為每個信件匣建立一個檔案（mbox）">
 <!ENTITY maildirStore.label "為每封訊息建立檔案（maildir）">
 

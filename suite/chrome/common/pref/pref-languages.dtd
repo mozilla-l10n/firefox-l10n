@@ -18,10 +18,10 @@
 <!ENTITY languages.customize.active.accesskey           "L">
 <!ENTITY languages.customize.others.label               "其它:">
 <!ENTITY languages.customize.others.accesskey           "O">
-<!ENTITY languages.customize.Fallback.grouplabel        "未指定編碼的古老內容的字元編碼">
-<!ENTITY languages.customize.Fallback.label             "備用字元編碼:">
-<!ENTITY languages.customize.Fallback.accesskey         "C">
-<!ENTITY languages.customize.Fallback.desc              "供無法宣告編碼格式的老舊文件使用。">
+<!ENTITY languages.customize.Fallback2.grouplabel       "開啟老舊內容時使用的文字編碼">
+<!ENTITY languages.customize.Fallback2.label            "備用字元編碼:">
+<!ENTITY languages.customize.Fallback2.accesskey        "T">
+<!ENTITY languages.customize.Fallback2.desc             "供無法宣告編碼格式的老舊文件使用。">
 <!-- LOCALIZATION NOTE  Character Encoding Preferences Dialog: Do NOT localize the terms "en-bz, ar-jo"  -->
 <!ENTITY languages.customize.others.examples            "例如:en-bz, ar-jo">
 <!ENTITY languages.customize.moveUp.label               "上移">

@@ -15,8 +15,8 @@
 <!ENTITY saveCmd.accesskey "S">
 <!ENTITY saveAsCmd.label "另存新檔…">
 <!ENTITY saveAsCmd.accesskey "a">
-<!ENTITY saveAsChangeEncodingCmd.label "另存新檔並修改字元編碼">
-<!ENTITY saveAsChangeEncodingCmd.accesskey "e">
+<!ENTITY saveAsChangeEncodingCmd2.label "儲存並變更文字編碼">
+<!ENTITY saveAsChangeEncodingCmd2.accesskey "E">
 <!ENTITY publishCmd.label "發佈">
 <!ENTITY publishCmd.accesskey "b">
 <!ENTITY publishCmd.key "S">

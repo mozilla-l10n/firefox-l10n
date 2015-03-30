@@ -55,9 +55,9 @@
 <!ENTITY expungeOnExit.accesskey "e">
 <!ENTITY emptyTrashOnExit.label "結束時清空垃圾桶">
 <!ENTITY emptyTrashOnExit.accesskey "x">
-<!ENTITY loginAtStartup.label "啟動時檢查有無新郵件或文章"> 
+<!ENTITY loginAtStartup.label "啟動時檢查有無新郵件或文章">
 <!ENTITY loginAtStartup.accesskey "C">
-<!-- LOCALIZATION NOTE (maxMessagesStart.label) : translate below 2 lines with grammar dependency 
+<!-- LOCALIZATION NOTE (maxMessagesStart.label) : translate below 2 lines with grammar dependency
     maxMessengerStart.label will be followed by maxMessagesEnd.label with the number
 	 of messages between them
 -->
@@ -73,7 +73,7 @@
 <!ENTITY abbreviateOn.label "完整名稱 (例: 'netscape.public.mozilla.mail-news')">
 <!ENTITY abbreviateOff.label "縮寫 (例: 'n.p.m.mail-news')">
 <!ENTITY advancedButton.label "進階…">
-<!ENTITY serverDefaultCharset.label "預設字元編碼方式:">
+<!ENTITY serverDefaultCharset2.label "預設文字編碼:">
 <!ENTITY advancedButton.accesskey "v">
 <!ENTITY localPath.label "本地目錄:">
 <!ENTITY localFolderPicker.label "選取本地目錄">
@@ -86,6 +86,6 @@
 <!ENTITY accountSettingsDesc.label "這是沒有任何身份資訊的特殊帳號。">
 <!ENTITY storeType.label "訊息儲存方式:">
 <!ENTITY storeType.accesskey "T">
-<!ENTITY mboxStore.label "單一大檔案（mbox）">
+<!ENTITY mboxStore2.label "為每個信件匣建立一個檔案（mbox）">
 <!ENTITY maildirStore.label "為每封訊息建立檔案（maildir）">
 
