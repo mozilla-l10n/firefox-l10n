@@ -4,7 +4,7 @@
 <!ENTITY addons.windowTitle                   "UMphathi wezongezelelo">
 
 <!ENTITY search.placeholder                   "Khangela zonke izongezelelo">
-
+<!ENTITY search.buttonlabel                   "Khangela">
 <!-- LOCALIZATION NOTE (search.commandKey):
      The search command key should match findOnCmd.commandkey from browser.dtd -->
 <!ENTITY search.commandkey                    "f">
@@ -36,6 +36,8 @@
 <!ENTITY info.plugincheck.label                 "Khangela ukuba zihlaziyiwe na iisoftwe ezincedisayo">
 <!ENTITY info.plugincheck.tooltip               "Khangela ukuba zihlaziyiwe na iisoftwe ezincedisayo">
 <!-- categories / views -->
+
+<!ENTITY view.search.label                    "Khangela">
 <!ENTITY view.discover.label                  "Fumana izongezelelo">
 <!ENTITY view.recentUpdates.label             "Uhlaziyo lwakutshanje">
 <!ENTITY view.availableUpdates.label          "Uhlaziyo olufumanekayo">
