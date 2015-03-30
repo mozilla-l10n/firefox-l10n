@@ -16,8 +16,8 @@
 <!ENTITY allowHWAccel.accesskey        "H">
 
 
-
-
+<!ENTITY mboxStore.label               "Egy nagy fájl (mbox)">
+<!ENTITY maildirStore.label            "Egy fájl üzenetenként (maildir)">
 
 <!ENTITY scrolling.label               "Görgetés">
 <!ENTITY useAutoScroll.label           "Automatikus görgetés">

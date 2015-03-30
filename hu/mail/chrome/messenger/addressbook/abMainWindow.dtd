@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY addressbookWindow.title                        "Címjegyzék">
-
+<!ENTITY blankResultsPaneMessage.label                  "Ez a címjegyzék csak keresés után jelenít meg névjegyeket">
 
 <!-- File Menu -->
 <!ENTITY fileMenu.label                                 "Fájl">

@@ -3,18 +3,19 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY aboutDownloads.title                      "Mentett fájlok">
-
+<!ENTITY aboutDownloads.empty                      "Nincsenek mentett fájlok">
 <!-- LOCALIZATION NOTE (cmd.show.label, cmd.show.accesskey, cmd.showMac.label,
      cmd.showMac.accesskey):
      The show and showMac commands are never shown together, thus they can share
      the same access key (though the two access keys can also be different).
      -->
-
-
-
+<!ENTITY cmd.show.label                            "Tartalmazó mappa megnyitása">
+<!ENTITY cmd.show.accesskey                        "T">
+<!ENTITY cmd.showMac.label                         "Megjelenítés a Finderben">
+<!ENTITY cmd.showMac.accesskey                     "F">
 <!ENTITY cmd.open.label                            "Megnyitás">
 <!ENTITY cmd.open.accesskey                        "M">
-
-
-
-
+<!ENTITY cmd.removeFromHistory.label               "Eltávolítás az előzményekből">
+<!ENTITY cmd.removeFromHistory.accesskey           "E">
+<!ENTITY cmd.clearDownloads.label                  "Letöltések törlése">
+<!ENTITY cmd.clearDownloads.accesskey              "t">
