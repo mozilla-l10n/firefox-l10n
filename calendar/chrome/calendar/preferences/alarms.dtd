@@ -14,8 +14,8 @@
 <!ENTITY pref.calendar.alarms.sound.useDefault.accessKey "A">
 <!ENTITY pref.calendar.alarms.sound.browse.label "Tallózás…">
 <!ENTITY pref.calendar.alarms.sound.browse.accessKey "T">
-
-
+<!ENTITY pref.calendar.alarms.sound.play.label "Lejátszás">
+<!ENTITY pref.calendar.alarms.sound.play.accessKey "L">
 <!ENTITY pref.showalarmbox "Értesítő párbeszédpanel megjelenítése">
 <!ENTITY pref.calendar.alarms.showAlarmBox.accessKey "r">
 <!ENTITY pref.missedalarms "Az elmulasztott értesítések megjelenítése">

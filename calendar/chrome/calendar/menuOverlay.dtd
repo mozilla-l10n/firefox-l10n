@@ -20,12 +20,14 @@
 
 <!ENTITY calendar.deletecalendar.label          "Kijelölt naptár törlése…">
 <!ENTITY calendar.deletecalendar.accesskey      "K">
-
-
+<!ENTITY calendar.unsubscribecalendar.label     "Leiratkozás a kijelölt naptárról…">
+<!ENTITY calendar.unsubscribecalendar.accesskey "L">
 <!-- LOCALIZATION NOTE (calendar.removecalendar.label): Removing the calendar
       is the general action of removing it, while deleting means to clear the
       data and unsubscribing means just taking it out of the calendar list. -->
 
+<!ENTITY calendar.removecalendar.label          "Kijelölt naptár eltávolítása…">
+<!ENTITY calendar.removecalendar.accesskey      "K">
 
 
 <!ENTITY calendar.menu.customize.label          "Testreszabás…">
