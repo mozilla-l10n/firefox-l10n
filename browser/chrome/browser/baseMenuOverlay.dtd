@@ -12,9 +12,10 @@
 <!ENTITY helpMenu.accesskey       "U"> 
 <!-- LOCALIZATION NOTE some localizations of Windows (ex:french, german) use "?"
                        for the help button in the menubar but Gnome does not.   -->
-
-
-
+<!ENTITY helpMenuWin.label        "Uncedo"> 
+<!ENTITY helpMenuWin.accesskey    "U">
+<!ENTITY aboutProduct2.label      "Malunga ne&brandShortName;">
+<!ENTITY aboutProduct2.accesskey  "M">
 <!ENTITY productHelp2.label       "I-&brandShortName; uncedo">
 <!ENTITY productHelp2.accesskey   "u">
 <!ENTITY helpMac.commandkey       "?">
@@ -34,13 +35,15 @@
 <!ENTITY helpFeedbackPage.label      "Thumela ingxelo…">
 <!ENTITY helpFeedbackPage.accesskey  "T">
 
-
+<!ENTITY helpShowTour2.label            "I-&brandShortName; Ukhenketho">
+<!ENTITY helpShowTour2.accesskey        "k">
 
 <!ENTITY preferencesCmdMac.label        "Izikhethwa…">
 <!ENTITY preferencesCmdMac.commandkey   ",">
 
 <!ENTITY servicesMenuMac.label          "Iinkonzo">
 
+<!ENTITY hideThisAppCmdMac2.label       "Fihla i-&brandShortName;">
 <!ENTITY hideThisAppCmdMac2.commandkey  "H">
 
 <!ENTITY hideOtherAppsCmdMac.label      "Fihla ezinye">

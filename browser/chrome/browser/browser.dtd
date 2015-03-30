@@ -82,11 +82,12 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY personalbarCmd.accesskey "I">
 <!ENTITY bookmarksToolbarItem.label "Iiayithem zethulbha yeebhukhmakhi">
 
-
-
-
-
-
+<!ENTITY toolbarContextMenu.reloadAllTabs.label "Phinda ulayishe zonke iithebhu">
+<!ENTITY toolbarContextMenu.reloadAllTabs.accesskey "z">
+<!ENTITY toolbarContextMenu.bookmarkAllTabs.label "Faka iibhukhmakhi kuzo zonke iithebhu…">
+<!ENTITY toolbarContextMenu.bookmarkAllTabs.accesskey "i">
+<!ENTITY toolbarContextMenu.undoCloseTab.label "Rhoxisa ukuvala ithebhu">
+<!ENTITY toolbarContextMenu.undoCloseTab.accesskey "R">
 
 <!ENTITY pageSourceCmd.label "Umthombo wephepha">
 <!ENTITY pageSourceCmd.accesskey "m">
@@ -191,7 +192,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksButton.label          "Iibhukhmakhi">
 <!ENTITY bookmarksCmd.commandkey "b">
 
-
+<!ENTITY bookmarksMenuButton.label          "Iibhukhmakhi">
+<!ENTITY bookmarksMenuButton.unsorted.label "Iibhukhmakhi ezingalandelelaniswanga">
 <!ENTITY viewBookmarksSidebar2.label        "Bona ibha esecaleni yeeBhukhmakhi">
 <!ENTITY viewBookmarksToolbar.label         "Bona iThulbha Yeebhukhmakhi">
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
@@ -476,7 +478,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewBGImageCmd.accesskey     "g">
 <!ENTITY setDesktopBackgroundCmd.label      "Seta Njengokungasemva eskrinini…">
 <!ENTITY setDesktopBackgroundCmd.accesskey  "S">
-
+<!ENTITY bookmarkPageCmd2.label       "Faka Ibhukhmakhi Kweli Phepha">
 <!ENTITY bookmarkThisLinkCmd.label      "Faka Ibhukhmakhi Kweli Khonkco">
 <!ENTITY bookmarkThisLinkCmd.accesskey  "K">
 <!ENTITY bookmarkThisFrameCmd.label      "Faka Ibhukhmakhi Kwesi Sakhelo">
@@ -562,8 +564,8 @@ items are mutually exclusive. -->
 <!ENTITY mediaShowControls.accesskey "i">
 <!ENTITY mediaHideControls.label     "Tshonisa izixhobo zolawulo">
 <!ENTITY mediaHideControls.accesskey "i">
-
-
+<!ENTITY videoFullScreen.label       "Isikrini esiZeleyo">
+<!ENTITY videoFullScreen.accesskey   "I">
 <!ENTITY videoSaveImage.label        "Gcina isnepshothi njenge…">
 <!ENTITY videoSaveImage.accesskey    "G">
 <!-- LOCALIZATION NOTE: The access keys for "Show Statistics" and
@@ -606,12 +608,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY quitApplicationCmdWin2.label       "Phuma">
 <!ENTITY quitApplicationCmdWin2.accesskey   "h">
-
+<!ENTITY quitApplicationCmdWin2.tooltip     "Phuma kwi-&brandShortName;">
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY goForwardCmd.commandKey "]">
 <!ENTITY quitApplicationCmd.label       "Yeka"> 
 <!ENTITY quitApplicationCmd.accesskey   "Y">
-
+<!ENTITY quitApplicationCmdMac2.label   "Yeka i-&brandShortName;">
 <!-- LOCALIZATION NOTE(quitApplicationCmdUnix.key): This keyboard shortcut is used by both Linux and OSX builds. -->
 <!ENTITY quitApplicationCmdUnix.key     "Q">
 
@@ -698,7 +700,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY syncSyncNowItem.accesskey    "N">
 <!ENTITY syncReAuthItem.label         "Qhagamshelanisa ngokutsha &syncBrand.shortName.label;…">
 <!ENTITY syncReAuthItem.accesskey     "Q">
-
+<!ENTITY syncToolbarButton.label      "Ungqamaniso">
 
 <!ENTITY socialToolbar.title        "Iqhosha lethulbha yokudlala">
 
@@ -772,7 +774,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY trackingContentBlocked.message "Ukulanda umkhondo">
 <!ENTITY trackingContentBlocked.moreinfo "Iindawo zephepha lewebhu ezilanda umsebenzi wakho we-intanethi zithintelwe.">
-
+<!ENTITY trackingContentBlocked.learnMore "Funda ngakumbi">
 <!ENTITY trackingContentBlocked.options "Ekunokukhethwa kuko">
 <!ENTITY trackingContentBlocked.unblock2.label "Yekisa ukhuseleko kule sayithi">
 <!ENTITY trackingContentBlocked.unblock2.accesskey "Y">
