@@ -6,6 +6,7 @@
 <!ENTITY itemAutoComplete.label              "Címzés">
 <!ENTITY itemSpellCheck.label                "Helyesírás">
 
+<!ENTITY dialogCompose.title                 "Szerkesztés">
 
 <!ENTITY forwardMsg.label                     "Levél továbbítása:">
 <!ENTITY forwardMsg.accesskey                 "L">

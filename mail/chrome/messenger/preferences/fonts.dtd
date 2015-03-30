@@ -8,8 +8,8 @@
 <!ENTITY  language.accesskey                      "K">
 
 <!ENTITY  size.label                              "Méret:">
-
-
+<!ENTITY  sizeProportional.accesskey              "M">
+<!ENTITY  sizeMonospace.accesskey                 "r">
 
 <!ENTITY  proportional.label                      "Proporcionális:">
 <!ENTITY  proportional.accesskey                  "P">
@@ -22,6 +22,8 @@
 <!ENTITY  monospace.accesskey                     "F">
 <!-- LOCALIZATION NOTE (font.langGroup.latin) :
      Translate "Latin" as the name of Latin (Roman) script, not as the name of the Latin language. -->
+
+<!ENTITY  font.langGroup.latin                    "Latin">
 <!ENTITY  font.langGroup.japanese                 "Japán">
 <!ENTITY  font.langGroup.trad-chinese             "Hagyományos kínai (Tajvan)">
 <!ENTITY  font.langGroup.simpl-chinese            "Egyszerűsített kínai">
@@ -29,7 +31,7 @@
 <!ENTITY  font.langGroup.korean                   "Koreai">
 <!ENTITY  font.langGroup.cyrillic                 "Cirill">
 <!ENTITY  font.langGroup.el                       "Görög">
-
+<!ENTITY  font.langGroup.other                    "Egyéb írásrendszerek">
 <!ENTITY  font.langGroup.thai                     "Thai">
 <!ENTITY  font.langGroup.hebrew                   "Héber">
 <!ENTITY  font.langGroup.arabic                   "Arab">
@@ -44,11 +46,11 @@
 <!ENTITY  font.langGroup.gurmukhi                 "Gurmukhi">
 <!ENTITY  font.langGroup.khmer                    "Khmer">
 <!ENTITY  font.langGroup.malayalam                "Malayalam">
-
-
-
-
-
+<!ENTITY  font.langGroup.oriya                    "Orija">
+<!ENTITY  font.langGroup.telugu                   "Telugu">
+<!ENTITY  font.langGroup.kannada                  "Kannada">
+<!ENTITY  font.langGroup.sinhala                  "Szingaléz">
+<!ENTITY  font.langGroup.tibetan                  "Tibeti">
 <!-- Minimum font size -->
 <!ENTITY minSize.label                            "Legkisebb betűméret:">
 <!ENTITY minSize.accesskey                        "L">
