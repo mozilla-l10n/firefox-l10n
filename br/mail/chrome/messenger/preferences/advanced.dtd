@@ -16,7 +16,7 @@
 <!ENTITY allowHWAccel.accesskey        "h">
 <!ENTITY storeType.label               "Rizh Kadaviñ Kemennadenn evit kontoù nevez :">
 <!ENTITY storeType.accesskey           "R">
-
+<!ENTITY mboxStore2.label              "Restr dre teuliad (mbox)">
 <!ENTITY maildirStore.label            "Restr dre kemennadenn (kavlec'h postel)">
 
 <!ENTITY scrolling.label               "Dibunañ">
