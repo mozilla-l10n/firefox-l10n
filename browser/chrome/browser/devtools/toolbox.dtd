@@ -77,6 +77,8 @@
   -  checkbox that toggles chrome debugging, i.e. devtools.chrome.enabled
   -  boolean preference in about:config, in the options panel. -->
 
+<!ENTITY options.enableChrome.label5    "Galluogi chrome y porwr ac ychwanegion blychau offer dadfygio">
+<!ENTITY options.enableChrome.tooltip3  "Bydd cychwyn y dewis hwn yn caniatáu i chi ddefnyddio offer datblygwyr amrywiol o fewn cyd-destun porwr (drwy Offer > > Datblygwr Gwe > Blwch Offer y Porwr) a dadfygio ychwanegion o'r Rheolwr Ychwanegion">
 <!-- LOCALIZATION NOTE (options.enableRemote.label3): This is the label for the
   -  checkbox that toggles remote debugging, i.e. devtools.debugger.remote-enabled
   -  boolean preference in about:config, in the options panel. -->
@@ -99,6 +101,8 @@
   -  options.enableServiceWorkersTesting.tooltip): This is the options panel label and
   -  tooltip for the checkbox that toggles the service workers testing features on or off. -->
 
+<!ENTITY options.enableServiceWorkersTesting.label     "Galluogi nodweddion profi Gweithwyr Gwasanaeth (pan fydd y blwch offer ar agor)">
+<!ENTITY options.enableServiceWorkersTesting.tooltip   "Bydd cychwyn y dewis wn yn caniatáu i nodweddion profi gweithwyr gwasanaeth ar gyfer pob tab sydd á blwch offer ar agor.">
 <!-- LOCALIZATION NOTE (options.selectDefaultTools.label): This is the label for
   -  the heading of group of checkboxes corresponding to the default developer
   -  tools. -->
