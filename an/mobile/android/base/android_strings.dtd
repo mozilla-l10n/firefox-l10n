@@ -42,6 +42,7 @@
 <!ENTITY url_bar_default_text2 "Mirar u escribir adreza">
 
 <!ENTITY bookmark "Marcapachinas">
+
 <!ENTITY bookmark_added "S\u0027ha adhibiu o marcapachinas">
 <!ENTITY bookmark_removed "S\u0027ha suprimiu o marcapachinas">
 <!ENTITY bookmark_updated "S\u0027ha esviellau o marcapachinas">
@@ -79,6 +80,7 @@
 <!ENTITY pref_category_advanced "Abanzau">
 <!ENTITY pref_category_customize "Personalización">
 <!ENTITY pref_category_customize_summary "Inicio, busca, pestanyas, importar">
+
 <!-- Localization note (pref_category_language) : This is the preferences
      section in which the user picks the locale in which to display Firefox
      UI. The locale includes both language and region concepts. -->
@@ -114,6 +116,15 @@
 <!ENTITY overlay_share_no_url "No s\u0027i ha trobau garra vinclo">
 <!ENTITY overlay_share_retry "Tornar-lo a prebar">
 <!ENTITY overlay_share_select_device "Seleccionar dispositivo">
+<!-- Localization note (overlay_no_synced_devices) : Used when the menu option
+     to send a tab to a synced device is pressed and no other synced devices
+     are found. -->
+<!-- Localization note (overlay_share_tab_not_sent) : Used when the menu option
+     to send a tab to a synced device is pressed and there is an error
+     connecting to the server so the tab could not be sent. The text should be
+     divided into two lines (use the newline escape character, "\n", between
+     them): the first notifying the user about the failure and the second
+     telling the user what to do about it. -->
 
 <!ENTITY pref_category_search3 "Buscar">
 <!ENTITY pref_category_search_summary "Personalizar os suyos motors de busca">
@@ -140,7 +151,9 @@
 <!ENTITY pref_category_devtools_summary "Depuración remota, parpadeyo en debuixar">
 <!ENTITY pref_developer_paint_flashing "Parpadeyo en debuixar">
 <!ENTITY pref_developer_remotedebugging "Depuración remota">
+
 <!ENTITY pref_remember_signons "Recordar as claus">
+
 
 <!ENTITY pref_category_home "Inicio">
 <!ENTITY pref_category_home_summary "Personalizar a suya pachina d\u0027inicio">
@@ -176,6 +189,18 @@
 <!ENTITY pref_tracking_protection_summary "&brandShortName; priva que os puestos web te puedan fer seguimiento">
 <!ENTITY pref_donottrack_title "No me sigas">
 <!ENTITY pref_donottrack_summary "&brandShortName; indicará a os puestos web que no quiere que le sigan">
+
+
+<!-- Localization note (tab_queue_notification_text_plural) : The
+     formatD is replaced with the number of tabs queued.  The
+     number of tabs queued is always more than one.  We can't use
+     Android plural forms, sadly. See Bug #753859. -->
+<!-- Localization note (tab_queue_notification_title_plural) : This is the
+     title of a notification; we expect more than one tab queued. -->
+<!-- Localization note (tab_queue_notification_title_singular) : This is the
+     title of a notification; we expect only one tab queued. -->
+<!-- Localization note (tab_queue_notification_text_singular) : This is the
+     text of a notification; we expect only one tab queued. -->
 
 <!ENTITY pref_char_encoding "Amostrar a codificación">
 <!ENTITY pref_char_encoding_on "Amostrar o menú">
@@ -271,7 +296,7 @@ size. -->
      (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
 <!ENTITY datareporting_crashreporter_title_short "Informe de fallas">
 <!ENTITY datareporting_wifi_title2 "Servicios d\u0027ubicación de &vendorShortName;">
-<!ENTITY datareporting_wifi_geolocation_summary3 "Aduya a &vendorShortName; a mapiar o mundo! Comparte a posición aproximada Wi-Fi y celular d\u0027o tuyo dispositivo ta amillorar o nuestro servicio de cheolocalización">
+
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
      actual notification that an update is available. -->
@@ -286,6 +311,7 @@ size. -->
 <!ENTITY quit "Salir">
 
 <!ENTITY addons "Complementos">
+
 <!ENTITY downloads "Descargas">
 <!ENTITY apps "Aplicacions">
 <!ENTITY char_encoding "Codificación d\u0027os caracters">
@@ -338,6 +364,13 @@ size. -->
 <!ENTITY contextmenu_top_sites_pin "Clavar o puesto">
 <!ENTITY contextmenu_top_sites_unpin "Desclavar o puesto">
 <!ENTITY contextmenu_add_search_engine "Adhibir un motor de busca">
+<!-- Localization note (doorhanger_login_no_username): This string is used in the save-login doorhanger
+     where normally a username would be displayed. In this case, no username was found, and this placeholder
+     contains brackets to indicate this is not actually a username, but rather a placeholder -->
+
+<!ENTITY doorhanger_login_edit_username_hint "Nombre d\u0027usuario">
+
+
 
 <!ENTITY pref_titlebar_mode "Barra de titol">
 <!ENTITY pref_titlebar_mode_title "Amostrar o titol d\u0027a pachina">
@@ -347,6 +380,8 @@ size. -->
 
 <!ENTITY pref_scroll_title_bar2 "Navegación a pantalla completa">
 <!ENTITY pref_scroll_title_bar_summary "Amagar a barra de titol &brandShortName; quan se desplace enta abaixo en una pachina">
+
+
 <!-- Localization note (page_removed): This string appears in a toast message when
      any page is removed frome about:home. This includes pages that are in history,
      bookmarks, or reading list. -->
@@ -384,7 +419,7 @@ size. -->
 
 <!ENTITY masterpassword_create_title "Creyar una clau mayestra">
 <!ENTITY masterpassword_remove_title "Suprimir a clau mayestra">
-<!ENTITY masterpassword_password "Clau">
+
 <!ENTITY masterpassword_confirm "Confirme a clau">
 
 <!ENTITY button_ok "D\u0027alcuerdo">
@@ -394,6 +429,7 @@ size. -->
 <!ENTITY button_clear_data "Borrar os datos">
 <!ENTITY button_set "Fixar">
 <!ENTITY button_clear "Limpiar">
+
 
 <!ENTITY home_top_sites_title "Mas visitaus">
 <!-- Localization note (home_top_sites_add): This string is used as placeholder
@@ -517,6 +553,13 @@ dende Android">
 <!ENTITY bookmarkhistory_import_wait "Aguarde por favor...">
 
 <!ENTITY suggestions_prompt3 "Quiere activar as sucherencias de busca?">
+<!--  Localization note (search_bar_item_desc): When the user clicks the url bar
+      and starts typing, a list of icons of search engines appears at the bottom
+      of the screen. When a user clicks an icon, the entered text will be searched
+      via the search engine that uses the icon they clicked. This text is used
+      for screen reader users when they hover each icon - &formatS; will be
+      replaced with the name of the currently highlighted icon. -->
+<!ENTITY search_bar_item_desc "Mirar con &formatS;">
 <!-- Localization note (suggestion_for_engine): The placeholder &formatS1; will be
      replaced with the name of the search engine. The placeholder &formatS2; will be
      replaced with the search query. -->
