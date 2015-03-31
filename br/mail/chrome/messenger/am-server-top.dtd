@@ -74,7 +74,7 @@
 <!ENTITY abbreviateOff.label "Anvioù berraet ('n.p.m.mail-news', da skouer)">
 <!ENTITY advancedButton.label "Kempleshoc'h …">
 <!ENTITY advancedButton.accesskey "K">
-
+<!ENTITY serverDefaultCharset2.label "Bonegadur an arouezioù dre ziouer :">
 <!ENTITY localPath.label "Kavlec'hiad lec'hel:">
 <!ENTITY localFolderPicker.label "Diuzañ ar c'havlec'hiadoù lec'hel :">
 <!ENTITY browseFolder.label "Furchal…">
