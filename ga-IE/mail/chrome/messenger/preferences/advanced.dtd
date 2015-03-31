@@ -16,7 +16,7 @@
 <!ENTITY allowHWAccel.accesskey        "l">
 <!ENTITY storeType.label               "Cineál Stórais na dTeachtaireachtaí le haghaidh cuntas nua:">
 <!ENTITY storeType.accesskey           "T">
-<!ENTITY mboxStore.label               "Comhad ollmhór amháin (mbox)">
+
 <!ENTITY maildirStore.label            "Gach teachtaireacht ina comhad féin (maildir)">
 
 <!ENTITY scrolling.label               "Scrollú">
