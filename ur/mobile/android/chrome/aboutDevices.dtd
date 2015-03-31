@@ -3,15 +3,9 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 
-<!ENTITY toolbar.searchPlaceholder     "تلاش کریں">
-
-<!ENTITY newPref.namePlaceholder       "نام">
 
 
 
-
-
-
-<!ENTITY newPref.cancelButton          "منسوخ کریں">
-
+<!-- Localization note (aboutDevices.placeholder): this is the hint shown to the
+     user prompting them to input the IP address of a casting device. -->
 

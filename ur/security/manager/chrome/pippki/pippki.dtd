@@ -14,11 +14,6 @@
 <!ENTITY resetPasswordButtonLabel "پھر سیٹ کریں">
 <!ENTITY resetPassword.title  "ماسٹر پاس ورڈ پھر سیٹ کریں">
 <!ENTITY resetPassword.text  "اگر آپ اپنا ماسٹر پاس ورڈ پھر سیٹ کرتے ہیں تو آپ کے تمام ذخیرہ شدہ ویب اور ای میل پاس ورڈ، فارم کوائف، ذاتی تصدیق نامے اور نجی کلیدیں بھلا دی جائیں گی۔ کیا آپ واقعی اپنا ماسٹر پاس ورڈ پھر سیٹ کرنا چاہتے ہیں؟">
-<!-- Values for getpassword.xul -->
-
-<!ENTITY getPassword.title  "ماسٹر پاس ورڈ داخل کریں">
-<!ENTITY getPassword.tokenName2.label "سلامتی آلہ:">
-<!ENTITY getPassword.password.label "پاس ورڈ:">
 <!-- Downloading a cert -->
 
 <!ENTITY downloadCert.title "تصدیق نامہ ڈاؤن لوڈ کر رہا ہے">
@@ -49,13 +44,6 @@
 
 <!ENTITY chooseToken.title  "ٹوکن مکالمہ انتخاب کریں">
 <!ENTITY chooseToken.message1 "کوئی ٹوکن انتخاب کریں۔">
-
-<!ENTITY escrowWarn.title "خفیہ کاری کلید کی نقل">
-<!ENTITY escrowWarn.message1 "اہم: اس مقتدرہ تصدیق نامے نے آپ کی نجی خفیہ کاری کلید کا پشتارہ بنانے کے لیے پوچھا ہے۔">
-<!ENTITY escrowWarn.benefit1 "فائدہ یہ ہے کہ اگر آپ اپنی نجی خفیہ کاری کلید تک رسائی کھو دیتے ہیں تو اس مقتدرہ تصدیق نامہ سے نقل کی فرمائش کر سکتے ہیں۔">
-<!ENTITY escrowWarn.message2 "تاہم، آپ کی نجی خفیہ کاری کلید مقتدرہ تصدیق نامہ کے پاس ذخیرہ ہو گی، اور آپ کی اجازت کے بغیر آپ کی خفیہ کردہ ای میل یا دستاویز کا مطالعہ کرنے میں استعمال کی جا سکتی ہے۔">
-<!ENTITY examineCert.label "تصدیق نامہ نظارہ کریں">
-<!ENTITY examineCert.accesskey "ن">
 <!-- Strings for the CreateCertInfo dialog  -->
 
 <!ENTITY createCertInfo.title "نجی کلید تخلیق کر رہا ہے">

@@ -8,9 +8,9 @@
 
 
 
-<!ENTITY aboutPage.checkForUpdates.available2   "Download update">
-<!ENTITY aboutPage.checkForUpdates.downloading  "Downloading update…">
-<!ENTITY aboutPage.checkForUpdates.downloaded2  "Install update">
+
+
+
 
 
 <!ENTITY aboutPage.privacyPolicy.label          "پالیسی نجی نوعیت">
@@ -19,5 +19,3 @@
 
 
 <!-- LOCALIZATION NOTE (aboutPage.logoTrademark): The message is explicitly about the word "Firefox" being trademarked, that's why we use it, instead of brandShortName. -->
-
-<!ENTITY aboutPage.logoTrademark                "Firefox and the Firefox logos are trademarks of the Mozilla Foundation.">

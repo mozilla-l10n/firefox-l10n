@@ -22,7 +22,7 @@
 <!ENTITY  generalReferrer       "یو آر ایل کا حوالہ دے رہا ہے:">
 <!ENTITY  generalSource         "کیسہ ماخذ:">
 <!ENTITY  generalModified       "ترمیم شدہ:">
-<!ENTITY  generalEncoding       "ضابطہ بندی:">
+
 <!ENTITY  generalMetaName       "نام">
 <!ENTITY  generalMetaContent    "مشمول">
 
@@ -83,3 +83,5 @@
 <!ENTITY  securityView.privacy.viewPasswords.accessKey  "ن">
 
 <!ENTITY  securityView.technical.header                 "تکنیکی تفاصیل">
+
+<!ENTITY  helpButton.label                              "مدد">

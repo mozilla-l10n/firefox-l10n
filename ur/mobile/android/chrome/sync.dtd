@@ -11,7 +11,7 @@
 
 <!ENTITY sync.syncNow               "ابھی ہمہ وار کریں">
 
-<!ENTITY sync.setup.pair            "عمل میں لانے کے لیے، اپنے دوسرے آلے پر &#x0022;Pair a Device&#x0022; منتخب کریں۔">
+
 
 
 
@@ -25,6 +25,6 @@
 
 
 <!ENTITY sync.pair.title            "آلے کا جوڑا بنائیں">
-<!ENTITY sync.pair.description      "اپنی نیا آلہ عمل میں لانے کے لیے، آلے پر &#x0022;Set Up Sync&#x0022; منتخب کریں۔">
+
 <!ENTITY sync.setup.close           "بند کریں">
 

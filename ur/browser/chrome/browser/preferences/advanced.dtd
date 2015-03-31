@@ -113,6 +113,7 @@
 <!ENTITY offlineAppRemove.confirm        "آف لائن کوائف ہٹائیں">
 
 <!ENTITY certificateTab.label            "تصدیق نامے">
+
 <!ENTITY certSelection.description       "جب پیش کار میرے ذاتی تصدیق نامہ کی درخواست کرے:">
 <!ENTITY certs.auto                      "خودبخود ایک منتخب کریں">
 

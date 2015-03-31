@@ -39,10 +39,6 @@
 <!ENTITY certmgr.editcert.trustssl            "یہ تصدیق نامہ ویب سائٹیں شناخت کر سکتا ہے۔">
 <!ENTITY certmgr.editcert.trustemail          "یہ تصدیق نامہ ڈاک صارفین  شناخت کر سکتا ہے۔">
 <!ENTITY certmgr.editcert.trustobjsign        "یہ تصدیق نامہ سافٹ ویئر ساز شناخت کر سکتا ہے۔">
-<!ENTITY certmgr.editemailcert.title          "ای میل تصدیق نامہ بھروسا سیٹنگیں تدوین کریں">
-<!ENTITY certmgr.editemailcert.edittrust      "تصدیق نامہ بھروسا سیٹنگیں تدوین کریں:">
-<!ENTITY certmgr.editemailcert.dotrust        "اس تصدیق نامے کی توثیق کا بھروسا کریں۔">
-<!ENTITY certmgr.editemailcert.donttrust      "اس تصدیق نامے کی توثیق کا بھروسا مت کریں۔">
 
 <!ENTITY certmgr.deletecert.title             "تصدیق نامہ حذف کریں">
 
@@ -61,8 +57,6 @@
 <!ENTITY certmgr.view2.accesskey              "ن">
 
 
-<!ENTITY certmgr.editca.label                 "CA بھروسا تدوین کریں">
-<!ENTITY certmgr.editca.accesskey             "ت">
 <!ENTITY certmgr.export.label                 "درآمد کریں…">
 <!ENTITY certmgr.export.accesskey             "د">
 <!ENTITY certmgr.delete2.label                "حذف کریں...">

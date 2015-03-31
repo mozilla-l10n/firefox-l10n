@@ -9,6 +9,7 @@
 <!ENTITY aboutTelemetry.telemetryDisabled "  ٹیلیمٹری <span>نا اہل</span> ہے۔">
 
 
+
 <!ENTITY aboutTelemetry.slowSqlSection "  سست SQL سٹیٹمنٹ">
 
 <!ENTITY aboutTelemetry.chromeHangsSection "  براؤزر جاتا ہے">

@@ -3,6 +3,5 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 
-<!ENTITY aboutApps.browseMarketplace "Browse the Firefox Marketplace">
 <!ENTITY aboutApps.uninstall "ناتنصیب کریں">
-<!ENTITY aboutApps.checkForUpdates "Check for Updates">
+<!ENTITY aboutApps.checkForUpdates "تازہ کاریوں کے لیے پڑتال کریں">
