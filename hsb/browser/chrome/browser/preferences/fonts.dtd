@@ -63,8 +63,9 @@
 <!ENTITY  allowPagesToUse.label                   "Stronam dowolić, swoje pisma město horjeka wubranych wužić">
 <!ENTITY  allowPagesToUse.accesskey               "S">
 
-
-
+<!ENTITY languages.customize.Fallback2.grouplabel "Tekstowe kodowanje za zestarjeny wobsah">
+<!ENTITY languages.customize.Fallback2.label      "Narunanje za tekstowe kodowanje:">
+<!ENTITY languages.customize.Fallback2.accesskey  "t">
 
 
 <!ENTITY languages.customize.Fallback.auto        "Standard za aktualnu lokalu">

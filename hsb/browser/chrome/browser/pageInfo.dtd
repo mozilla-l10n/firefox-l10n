@@ -22,7 +22,7 @@
 <!ENTITY  generalReferrer       "Wróćopokazowacy URL:">
 <!ENTITY  generalSource         "Žórło z pufrowaka:">
 <!ENTITY  generalModified       "Změnjeny:">
-
+<!ENTITY  generalEncoding2      "Tekstowe kodowanje:">
 <!ENTITY  generalMetaName       "Mjeno">
 <!ENTITY  generalMetaContent    "Wobsah">
 
