@@ -5,17 +5,17 @@
 <!ENTITY folderProps.windowtitle.label           "Kajkosće">
 
 <!ENTITY generalInfo.label                       "Powšitkowne informacije">
-<!ENTITY folderCharsetFallback.label             "Wuhibne znamješkowe kodowanje:">
-<!ENTITY folderCharsetFallback.accesskey         "u">
-<!ENTITY folderCharsetEnforce.label              "Kodowanje na wšě powěsće w rjadowaku nałožić (indiwiduelne nastajenja kodowanja znamješkow a awtomatiske zwěsćenje budźe so ignorować)">
-<!ENTITY folderCharsetEnforce.accesskey          "K">
+
+
+
+
 <!ENTITY folderRebuildSummaryFileTip2.label      "Indeks zjimanskeje dataje zaso natwarić">
 <!ENTITY folderRebuildSummaryFile2.label         "Rjadowak porjedźić">
 <!ENTITY folderRebuildSummaryFile2.accesskey     "R">
 <!ENTITY folderRebuildSummaryFile.explanation    "Druhdy so dataja rjadowakoweho indeksa (.msf) so poškodźa a powěsće móhli so zhubić abo zhašene powěsće so dale pokazuja; porjedźenje rjadowaka móže tute problemy wotstronić.">
 <!ENTITY folderIncludeInGlobalSearch.label       "Powěsće z tutoho rjadowaka do wuslědki globalneho pytanje zapřijeć">
 <!ENTITY folderIncludeInGlobalSearch.accesskey   "P">
-     
+
 <!ENTITY retention.label "Prawidła wobchowanja">
 <!ENTITY retentionUseAccount.label  "Moje kontowe nastajenja wužiwać">
 <!ENTITY retentionUseAccount.accesskey "k">

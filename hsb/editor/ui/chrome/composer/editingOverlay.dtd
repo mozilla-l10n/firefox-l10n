@@ -15,8 +15,8 @@
 <!ENTITY saveCmd.accesskey "S">
 <!ENTITY saveAsCmd.label "Składować jako…">
 <!ENTITY saveAsCmd.accesskey "k">
-<!ENTITY saveAsChangeEncodingCmd.label "Znamješkowe kodowanje składować a změnić">
-<!ENTITY saveAsChangeEncodingCmd.accesskey "m">
+
+
 <!ENTITY publishCmd.label "Wozjewić">
 <!ENTITY publishCmd.accesskey "z">
 <!ENTITY publishCmd.key "S">

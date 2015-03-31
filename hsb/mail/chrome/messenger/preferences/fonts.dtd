@@ -70,10 +70,10 @@
 
 <!ENTITY sendDefaultCharset.label         "Wuchadźacy póst:">
 <!ENTITY sendDefaultCharset.accesskey     "u">
-<!ENTITY languagesTitle1.label            "Znamješkowe kodowanja">
-<!ENTITY composingDescription.label       "Standardnej znamješkowej kodowani za słanje a přijimanje pósta nastajić">
+
+
 
 <!ENTITY viewDefaultCharsetList.label     "Dochadźacy póst:">
 <!ENTITY viewDefaultCharsetList.accesskey  "D">
-<!ENTITY replyInDefaultCharset2.label     "Jeli móžno, standardne znamješkowe kodowanje we wotmołwach wužiwać">
-<!ENTITY replyInDefaultCharset2.accesskey "J">
+
+

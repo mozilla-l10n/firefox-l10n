@@ -74,7 +74,7 @@
 <!ENTITY abbreviateOff.label "Mjena skrótšić (na přikład 'n.p.m.mail-news')">
 <!ENTITY advancedButton.label "Rozšěrjene…">
 <!ENTITY advancedButton.accesskey "R">
-<!ENTITY serverDefaultCharset.label "Standardne kodowanje znamješkow:">
+
 <!ENTITY localPath.label "Lokalny zapis:">
 <!ENTITY localFolderPicker.label "Lokalny zapis wubrać">
 <!ENTITY browseFolder.label "Přepytać…">
@@ -86,5 +86,5 @@
 <!ENTITY accountSettingsDesc.label "To je wosebite konto. Z nim žane identity zwjazane njejsu.">
 <!ENTITY storeType.label "Składowanski typ powěsće:">
 <!ENTITY storeType.accesskey "t">
-<!ENTITY mboxStore.label "Jedna wulka dataja (mbox)">
+
 <!ENTITY maildirStore.label "Dataja na powěsć (maildir)">

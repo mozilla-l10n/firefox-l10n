@@ -16,7 +16,7 @@
 <!ENTITY allowHWAccel.accesskey        "h">
 <!ENTITY storeType.label               "Sładowanski typ powěsćow za nowe konta:">
 <!ENTITY storeType.accesskey           "t">
-<!ENTITY mboxStore.label               "Jedna wulka dataja (mbox)">
+
 <!ENTITY maildirStore.label            "Dataja na powěsć (maildir)">
 
 <!ENTITY scrolling.label               "Přesuwanje">
