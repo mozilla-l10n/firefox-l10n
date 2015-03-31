@@ -16,6 +16,10 @@
   Општи подаци
 ">
 
+<!ENTITY aboutTelemetry.telemetryLogSection "
+  Дневник телеметрије
+">
+
 <!ENTITY aboutTelemetry.slowSqlSection "
   Прикажи SQL упите
 ">
