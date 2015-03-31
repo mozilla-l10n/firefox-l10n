@@ -4,12 +4,8 @@
 <!-- These strings are generic to all or most of the editor's dialogs. -->
 <!-- This button is for the progressive disclosure of additional editing functionality -->
 <!-- These strings are for use specifically in the editor's link dialog. -->
-
-
-
-<!ENTITY windowTitle.label "Perkodavimas">
 <!ENTITY documentTitleTitle.label "Tinklalapio antraštė">
-<!ENTITY documentCharsetTitle.label "Koduotė">
-<!ENTITY documentCharsetDesc.label "Pasirinkite, į kokią lentelę perkoduoti įrašomą failą:">
+
+
 <!ENTITY documentExportToText.label "Įrašyti grynuoju tekstu">
 
