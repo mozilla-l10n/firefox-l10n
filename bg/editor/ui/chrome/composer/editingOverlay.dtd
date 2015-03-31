@@ -15,8 +15,8 @@
 <!ENTITY saveCmd.accesskey "З">
 <!ENTITY saveAsCmd.label "Запис като…">
 <!ENTITY saveAsCmd.accesskey "к">
-<!ENTITY saveAsChangeEncodingCmd.label "Запис и смяна кодирането на знаците">
-<!ENTITY saveAsChangeEncodingCmd.accesskey "к">
+
+
 <!ENTITY publishCmd.label "Публикуване">
 <!ENTITY publishCmd.accesskey "б">
 <!ENTITY publishCmd.key "S">

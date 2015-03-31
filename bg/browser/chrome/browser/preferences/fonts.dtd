@@ -63,10 +63,9 @@
 <!ENTITY  allowPagesToUse.label                   "Позволяване на страниците да избират собствен шрифт вместо горните">
 <!ENTITY  allowPagesToUse.accesskey               "П">
 
-<!ENTITY languages.customize.Fallback.grouplabel  "Шрифтово кодиране за остаряло съдържание">
-<!ENTITY languages.customize.Fallback.label       "Резервно шрифтово кодиране:">
-<!ENTITY languages.customize.Fallback.accesskey   "ф">
-<!ENTITY languages.customize.Fallback.desc        "Това шрифтово кодиране ще се използва за остаряло съдържание, което не може да определи собственото си кодиране.">
+
+
+
 
 <!ENTITY languages.customize.Fallback.auto        "Текущият локал да стане стандартен">
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.arabic):

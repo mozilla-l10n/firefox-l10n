@@ -68,10 +68,10 @@
 
 <!ENTITY sendDefaultCharset.label         "Изходяща поща:">
 <!ENTITY sendDefaultCharset.accesskey     "х">
-<!ENTITY languagesTitle1.label            "Кодиране на знаци">
-<!ENTITY composingDescription.label       "Установява стандартно кодиране за изпращана и получавана поща">
+
+
 
 <!ENTITY viewDefaultCharsetList.label     "Входяща поща:">
 <!ENTITY viewDefaultCharsetList.accesskey  "щ">
-<!ENTITY replyInDefaultCharset2.label     "Където е възможно, в отговорите да се използва стандартното кодиране">
-<!ENTITY replyInDefaultCharset2.accesskey "ъ">
+
+

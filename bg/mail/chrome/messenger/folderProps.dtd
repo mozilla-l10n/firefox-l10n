@@ -5,17 +5,17 @@
 <!ENTITY folderProps.windowtitle.label           "Свойства">
 
 <!ENTITY generalInfo.label                       "Основна информация">
-<!ENTITY folderCharsetFallback.label             "Резервно кодиране на знаци:">
-<!ENTITY folderCharsetFallback.accesskey         "Р">
-<!ENTITY folderCharsetEnforce.label              "Прилагане подразбиращото се знаковото кодиране за всички писма в папката (индивидуалните настройки и автоматичното разпознаване ще се пренебрегват).">
-<!ENTITY folderCharsetEnforce.accesskey          "П">
+
+
+
+
 <!ENTITY folderRebuildSummaryFileTip2.label      "Възстановяване индекса на файла резюме">
 <!ENTITY folderRebuildSummaryFile2.label         "Поправка на папка">
 <!ENTITY folderRebuildSummaryFile2.accesskey     "П">
 <!ENTITY folderRebuildSummaryFile.explanation    "Понякога файлът с индексите на папките (.msf) се поврежда и това предизвиква писма да иглеждат изчезнали или изтрити писма да продължават да се изобразяват. Поправката на папката би коригирала подобни проблеми.">
 <!ENTITY folderIncludeInGlobalSearch.label       "Включване писмата от тази папка в резултатите от общото търсене">
 <!ENTITY folderIncludeInGlobalSearch.accesskey   "о">
-     
+
 <!ENTITY retention.label "Правила за запазване">
 <!ENTITY retentionUseAccount.label  "Използване настройките на регистрацията">
 <!ENTITY retentionUseAccount.accesskey "И">

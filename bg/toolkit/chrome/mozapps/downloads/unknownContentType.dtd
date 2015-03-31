@@ -13,7 +13,7 @@
 <!ENTITY  saveFile.label              "Запазване на файл">
 <!ENTITY  saveFile.accesskey          "З">
 
-<!ENTITY  rememberChoice.label        "Запомняне на операцията за този тип файлове.">
+<!ENTITY  rememberChoice.label        "Запомняне на действието за този тип файлове.">
 <!ENTITY  rememberChoice.accesskey    "З">
 
 <!ENTITY  whichIs.label              "който е:">
