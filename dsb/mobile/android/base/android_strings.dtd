@@ -42,6 +42,7 @@
 <!ENTITY url_bar_default_text2 "Adresu pytaś abo zapódaś">
 
 <!ENTITY bookmark "Cytańske znamje">
+
 <!ENTITY bookmark_added "Cytańske znamje pśidane">
 <!ENTITY bookmark_removed "Cytańske znamje wótporane">
 <!ENTITY bookmark_updated "Cytańske znamje zaktualizěrowane">
@@ -79,6 +80,7 @@
 <!ENTITY pref_category_advanced "Rozšyrjone">
 <!ENTITY pref_category_customize "Pśiměriś">
 <!ENTITY pref_category_customize_summary "Startowy bok, pytanje, rejtarki, import">
+
 <!-- Localization note (pref_category_language) : This is the preferences
      section in which the user picks the locale in which to display Firefox
      UI. The locale includes both language and region concepts. -->
@@ -114,6 +116,15 @@
 <!ENTITY overlay_share_no_url "Žeden wótkaz w toś tom źělu namakany">
 <!ENTITY overlay_share_retry "Hyšći raz wopytaś">
 <!ENTITY overlay_share_select_device "Rěd wubraś">
+<!-- Localization note (overlay_no_synced_devices) : Used when the menu option
+     to send a tab to a synced device is pressed and no other synced devices
+     are found. -->
+<!-- Localization note (overlay_share_tab_not_sent) : Used when the menu option
+     to send a tab to a synced device is pressed and there is an error
+     connecting to the server so the tab could not be sent. The text should be
+     divided into two lines (use the newline escape character, "\n", between
+     them): the first notifying the user about the failure and the second
+     telling the user what to do about it. -->
 
 <!ENTITY pref_category_search3 "Pytaś">
 <!ENTITY pref_category_search_summary "Pśiměrśo swójich pytańskich póbitowarjow">
@@ -140,7 +151,9 @@
 <!ENTITY pref_category_devtools_summary "Pytanje zmólkow zdaloka, barwny błyskot">
 <!ENTITY pref_developer_paint_flashing "Barwowe wuzwignjenje">
 <!ENTITY pref_developer_remotedebugging "Daloke pytanje za zmólkami">
+
 <!ENTITY pref_remember_signons "Gronidła se spomnjeś">
+
 
 <!ENTITY pref_category_home "Startowy bok">
 <!ENTITY pref_category_home_summary "Pśiměrśo swój startowy bok">
@@ -176,6 +189,18 @@
 <!ENTITY pref_tracking_protection_summary "&brandShortName; buźo slědowanjeju pśez sedła zajźowaś">
 <!ENTITY pref_donottrack_title "Njeslědowaś">
 <!ENTITY pref_donottrack_summary "&brandShortName; dajo sydłam k wěsći, až njocośo, až wam slěduju.">
+
+
+<!-- Localization note (tab_queue_notification_text_plural) : The
+     formatD is replaced with the number of tabs queued.  The
+     number of tabs queued is always more than one.  We can't use
+     Android plural forms, sadly. See Bug #753859. -->
+<!-- Localization note (tab_queue_notification_title_plural) : This is the
+     title of a notification; we expect more than one tab queued. -->
+<!-- Localization note (tab_queue_notification_title_singular) : This is the
+     title of a notification; we expect only one tab queued. -->
+<!-- Localization note (tab_queue_notification_text_singular) : This is the
+     text of a notification; we expect only one tab queued. -->
 
 <!ENTITY pref_char_encoding "Znamuškowe koděrowanje">
 <!ENTITY pref_char_encoding_on "Meni pokazaś">
@@ -271,7 +296,7 @@ size. -->
      (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
 <!ENTITY datareporting_crashreporter_title_short "Wowaleński rozpšawjak">
 <!ENTITY datareporting_wifi_title2 "Stojnišćowa słužba &vendorShortName;">
-<!ENTITY datareporting_wifi_geolocation_summary3 "Pomagajśo &vendorShortName; swět kartografěrowaś! Źělśo pśibližne WLAN-stojnišćo a stojnišćo mobilnego telefona swójogo rěda, aby našu słužbu za póstajenje stojnišćow pólěpšył">
+
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
      actual notification that an update is available. -->
@@ -286,6 +311,7 @@ size. -->
 <!ENTITY quit "Skóńcyś">
 
 <!ENTITY addons "Dodanki">
+
 <!ENTITY downloads "Ześěgnjenja">
 <!ENTITY apps "Nałoženja">
 <!ENTITY char_encoding "Znamuškowe koděrowanje">
@@ -338,6 +364,13 @@ size. -->
 <!ENTITY contextmenu_top_sites_pin "Sedło pśipěś">
 <!ENTITY contextmenu_top_sites_unpin "Sedko wótpěś">
 <!ENTITY contextmenu_add_search_engine "Pytnicu pśidaś">
+<!-- Localization note (doorhanger_login_no_username): This string is used in the save-login doorhanger
+     where normally a username would be displayed. In this case, no username was found, and this placeholder
+     contains brackets to indicate this is not actually a username, but rather a placeholder -->
+
+<!ENTITY doorhanger_login_edit_username_hint "Wužywarske mě">
+
+
 
 <!ENTITY pref_titlebar_mode "Titelowa rědka">
 <!ENTITY pref_titlebar_mode_title "Titel boka pokazaś">
@@ -347,6 +380,8 @@ size. -->
 
 <!ENTITY pref_scroll_title_bar2 "Pśeglědowanje z połneju wobrazowku">
 <!ENTITY pref_scroll_title_bar_summary "Titelowu rědku &brandShortName; schowaś, gaž bok kula se dołoj">
+
+
 <!-- Localization note (page_removed): This string appears in a toast message when
      any page is removed frome about:home. This includes pages that are in history,
      bookmarks, or reading list. -->
@@ -384,7 +419,7 @@ size. -->
 
 <!ENTITY masterpassword_create_title "Głowne gronidło twóriś">
 <!ENTITY masterpassword_remove_title "Głowne gronidło wótpóraś">
-<!ENTITY masterpassword_password "Gronidło">
+
 <!ENTITY masterpassword_confirm "Gronidło wobkšuśiś">
 
 <!ENTITY button_ok "W pórěźe">
@@ -394,6 +429,7 @@ size. -->
 <!ENTITY button_clear_data "Daty lašowaś">
 <!ENTITY button_set "Nastajiś">
 <!ENTITY button_clear "Lašowaś">
+
 
 <!ENTITY home_top_sites_title "Wuběrne sedła">
 <!-- Localization note (home_top_sites_add): This string is used as placeholder
@@ -517,6 +553,13 @@ z Androida">
 <!ENTITY bookmarkhistory_import_wait "Pšošym cakajśo...">
 
 <!ENTITY suggestions_prompt3 "Cośo pytańske naraźenja aktiwěrowaś?">
+<!--  Localization note (search_bar_item_desc): When the user clicks the url bar
+      and starts typing, a list of icons of search engines appears at the bottom
+      of the screen. When a user clicks an icon, the entered text will be searched
+      via the search engine that uses the icon they clicked. This text is used
+      for screen reader users when they hover each icon - &formatS; will be
+      replaced with the name of the currently highlighted icon. -->
+<!ENTITY search_bar_item_desc "z &formatS; pytaś">
 <!-- Localization note (suggestion_for_engine): The placeholder &formatS1; will be
      replaced with the name of the search engine. The placeholder &formatS2; will be
      replaced with the search query. -->

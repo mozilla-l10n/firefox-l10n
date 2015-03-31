@@ -5,17 +5,17 @@
 <!ENTITY folderProps.windowtitle.label           "Kakosći">
 
 <!ENTITY generalInfo.label                       "Powšykne informacije">
-<!ENTITY folderCharsetFallback.label             "Wobijańske znamuškowe koděrowanje:">
-<!ENTITY folderCharsetFallback.accesskey         "b">
-<!ENTITY folderCharsetEnforce.label              "Koděrowanje na wšykne powěsći w zarědniku nałožyś (wósobinske nastajenja koděrowanja znamuškow a awtomatiske zwěsćenje budu se ignorěrowaś)">
-<!ENTITY folderCharsetEnforce.accesskey          "K">
+
+
+
+
 <!ENTITY folderRebuildSummaryFileTip2.label      "Indeks zespóminańskeje dataje wótnowiś">
 <!ENTITY folderRebuildSummaryFile2.label         "Zarědnik pórěźiś">
 <!ENTITY folderRebuildSummaryFile2.accesskey     "Z">
 <!ENTITY folderRebuildSummaryFile.explanation    "Wótergi indeksowa dataja zarědnika (.msf) se wobškóźujo a powěsći by mógli felowaś abo wulašowane powěsći se pokazuju; pórěźowanje zarědnika snaź wótpórajo toś te problemy.">
 <!ENTITY folderIncludeInGlobalSearch.label       "Powěsći w toś tom zarědniku do globalnych pytańskich wuslědkow zapśimjeś">
 <!ENTITY folderIncludeInGlobalSearch.accesskey   "P">
-     
+
 <!ENTITY retention.label "Pšawidła zachowanja">
 <!ENTITY retentionUseAccount.label  "Móje kontowe nastajenja wužywaś">
 <!ENTITY retentionUseAccount.accesskey "M">

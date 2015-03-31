@@ -15,8 +15,8 @@
 <!ENTITY saveCmd.accesskey "S">
 <!ENTITY saveAsCmd.label "Składowaś ako…">
 <!ENTITY saveAsCmd.accesskey "a">
-<!ENTITY saveAsChangeEncodingCmd.label "Znamuškowe koděrowanje składowaś a změniś">
-<!ENTITY saveAsChangeEncodingCmd.accesskey "m">
+
+
 <!ENTITY publishCmd.label "Wózjawiś">
 <!ENTITY publishCmd.accesskey "z">
 <!ENTITY publishCmd.key "S">

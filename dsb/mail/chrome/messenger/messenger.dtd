@@ -192,6 +192,8 @@
 <!ENTITY sortByFromCmd.accesskey "W">
 <!ENTITY sortByRecipientCmd.label "Dostawaŕ">
 <!ENTITY sortByRecipientCmd.accesskey "o">
+
+
 <!ENTITY sortByUnreadCmd.label "Pśecytanych">
 <!ENTITY sortByUnreadCmd.accesskey "e">
 <!ENTITY sortByOrderReceivedCmd.label "Pó pórěźe dostaśa">
@@ -658,6 +660,7 @@
 <!ENTITY threadColumn.label "Nitka">
 <!ENTITY fromColumn.label "Wót">
 <!ENTITY recipientColumn.label "Dostawaŕ">
+
 <!ENTITY subjectColumn.label "Tema">
 <!ENTITY dateColumn.label "Datum">
 <!ENTITY priorityColumn.label "Priorita">
@@ -680,6 +683,7 @@
 <!ENTITY threadColumn2.tooltip "Powěsćowe nitki zwobrazniś">
 <!ENTITY fromColumn2.tooltip "Pó Wót sortěrowaś">
 <!ENTITY recipientColumn2.tooltip "Pó dostawarju sortěrowaś">
+
 <!ENTITY subjectColumn2.tooltip "Pó temje sortěrowaś">
 <!ENTITY dateColumn2.tooltip "Pó datumje sortěrowaś">
 <!ENTITY priorityColumn2.tooltip "Pó prioriśe sortěrowaś">
