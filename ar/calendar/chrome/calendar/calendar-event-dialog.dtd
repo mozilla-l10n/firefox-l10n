@@ -325,14 +325,14 @@
 
 
 
-<!ENTITY event.attendee.role.required           "الحضور إلزامي">
-<!ENTITY event.attendee.role.optional           "الحضور اختياري">
 
-<!ENTITY event.attendee.role.nonparticipant     "غير مشارك">
-<!ENTITY event.attendee.usertype.individual     "فرد">
-<!ENTITY event.attendee.usertype.group          "مجموعة">
-<!ENTITY event.attendee.usertype.resource       "مورِد">
-<!ENTITY event.attendee.usertype.room           "غرفة">
+
+
+
+
+
+
+
 <!-- Timezone dialog -->
 
 <!-- Read-Only dialog -->

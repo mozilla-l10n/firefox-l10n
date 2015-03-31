@@ -74,7 +74,7 @@
 <!ENTITY abbreviateOff.label "أسماء مختصرة (على سبيل المثال، 'n.p.m.mail-news')">
 <!ENTITY advancedButton.label "متقدم…">
 <!ENTITY advancedButton.accesskey "م">
-<!ENTITY serverDefaultCharset.label "ترميز المحارف المبدئي:">
+
 <!ENTITY localPath.label "مجلد محلي:">
 <!ENTITY localFolderPicker.label "اختر دليلًا محلِّيًا">
 <!ENTITY browseFolder.label "تصفّح…">
@@ -86,5 +86,5 @@
 <!ENTITY accountSettingsDesc.label "التالي حساب مخصوص.  لا ترتبط به أي هويّات.">
 <!ENTITY storeType.label "طريقة تخزين الرسائل">
 <!ENTITY storeType.accesskey "س">
-<!ENTITY mboxStore.label "ملف واحد كبير (mbox)">
+
 <!ENTITY maildirStore.label "ملف لكل رسالة (maildir)">

@@ -15,8 +15,8 @@
 <!ENTITY saveCmd.accesskey "ظ">
 <!ENTITY saveAsCmd.label "احفظ ك‍…">
 <!ENTITY saveAsCmd.accesskey "ك">
-<!ENTITY saveAsChangeEncodingCmd.label "احفظ وغيّر ترميز المحارف">
-<!ENTITY saveAsChangeEncodingCmd.accesskey "ت">
+
+
 <!ENTITY publishCmd.label "انشر">
 <!ENTITY publishCmd.accesskey "ش">
 <!ENTITY publishCmd.key "S">
