@@ -79,12 +79,12 @@
 
 
 
-<!ENTITY  event.menu.edit.cut.label                       "Troc'hañ">
-<!ENTITY  event.menu.edit.cut.accesskey                   "T">
-<!ENTITY  event.menu.edit.copy.label                      "Eilañ">
-<!ENTITY  event.menu.edit.copy.accesskey                  "E">
-<!ENTITY  event.menu.edit.paste.label                     "Pegañ">
-<!ENTITY  event.menu.edit.paste.accesskey                 "e">
+
+
+
+
+
+
 
 
 
@@ -324,10 +324,10 @@
 
 
 
-<!ENTITY event.attendee.role.required           "Perzhiad azgoulennet">
-<!ENTITY event.attendee.role.optional           "Perzhiad Diret">
-<!ENTITY event.attendee.role.chair              "Kadoriadañ">
-<!ENTITY event.attendee.role.nonparticipant     "Nann Berzhiad">
+
+
+
+
 <!ENTITY event.attendee.usertype.individual     "Hiniennel">
 <!ENTITY event.attendee.usertype.group          "Strollad">
 
