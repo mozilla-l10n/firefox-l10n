@@ -74,7 +74,7 @@
 <!ENTITY abbreviateOff.label "Izen laburtuak (adibidez, 'n.p.m.mail-news')">
 <!ENTITY advancedButton.label "Aurreratua…">
 <!ENTITY advancedButton.accesskey "u">
-<!ENTITY serverDefaultCharset.label "Karaktere-kodeketa lehenetsia:">
+
 <!ENTITY localPath.label "Direktorio lokala:">
 <!ENTITY localFolderPicker.label "Hautatu direktorio lokala">
 <!ENTITY browseFolder.label "Arakatu…">
