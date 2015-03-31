@@ -14,7 +14,7 @@
 
 <!ENTITY calendar.today.button.label          "Gaur">
 <!ENTITY calendar.tomorrow.button.label       "Bihar">
-
+<!ENTITY calendar.upcoming.button.label       "Hurrengoa">
 
 <!ENTITY calendar.events.filter.all.label "Gertaera guztiak">
 <!ENTITY calendar.events.filter.today.label "Gaurko gertaerak">
@@ -211,7 +211,7 @@
 <!ENTITY priority.level.normal              "Normala">
 <!ENTITY priority.level.normal.accesskey    "N">
 <!ENTITY priority.level.high                "Altua">
-
+<!ENTITY priority.level.high.accesskey      "H">
 
 <!ENTITY calendar.context.postpone.1hour.label      "ordu bat">
 <!ENTITY calendar.context.postpone.1hour.accesskey  "o">
@@ -233,15 +233,17 @@
 <!ENTITY calendar.context.newserver.accesskey          "b">
 <!ENTITY calendar.context.findcalendar.label           "Bilatu egutegia…" >
 <!ENTITY calendar.context.findcalendar.accesskey       "l" >
-
-
+<!ENTITY calendar.context.deleteserver2.label          "Ezabatu egutegia...">
+<!ENTITY calendar.context.deleteserver2.accesskey      "z">
 <!-- LOCALIZATION NOTE (calendar.context.removeserver.label): Removing the
       calendar is the general action of removing it, while deleting means to
       clear the data and unsubscribing means just taking it out of the calendar
       list. -->
 
-
-
+<!ENTITY calendar.context.removeserver.label           "Ezabatu egutegia...">
+<!ENTITY calendar.context.removeserver.accesskey       "z">
+<!ENTITY calendar.context.unsubscribeserver.label      "Egutegi harpidetza ezabatu...">
+<!ENTITY calendar.context.unsubscribeserver.accesskey  "e">
 <!ENTITY calendar.context.synccalendars.label          "Sinkronizatu egutegiak">
 <!ENTITY calendar.context.synccalendars.accesskey      "S">
 <!ENTITY calendar.context.publish.label                "Argitaratu egutegia…">
@@ -252,8 +254,12 @@
 <!ENTITY calendar.context.properties.accesskey         "P">
 <!-- LOCALIZATION NOTE (calendar.context.togglevisible.accesskey)
      This is the access key used for the showCalendar string -->
+
+<!ENTITY calendar.context.togglevisible.accesskey      "H">
 <!-- LOCALIZATION NOTE (calendar.context.showonly.accesskey)
      This is the access key used for the showOnlyCalendar string -->
+
+<!ENTITY calendar.context.showonly.accesskey           "O">
 <!ENTITY calendar.context.showall.label                "Erakutsi egutegi guztiak">
 <!ENTITY calendar.context.showall.accesskey            "g">
 

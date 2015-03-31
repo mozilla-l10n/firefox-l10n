@@ -13,6 +13,7 @@
 <!ENTITY gdata.migration.upgrade.accesskey "B">
 <!ENTITY gdata.migration.showagain.label "Egiaztatu beti">
 
+<!ENTITY gdata.reminder.default "Gogorarazle lehenetsia">
 <!ENTITY gdata.reminder.action.sms.label "Bidali testu-mezu bat">
 
 
