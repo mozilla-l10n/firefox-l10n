@@ -40,6 +40,7 @@
 <!ENTITY threadColumn.label "Snáithe">
 <!ENTITY fromColumn.label "Ó">
 <!ENTITY recipientColumn.label "Faighteoir">
+
 <!ENTITY subjectColumn.label "Ábhar">
 <!ENTITY dateColumn.label "Dáta">
 <!ENTITY priorityColumn.label "Tosaíocht">
@@ -61,6 +62,7 @@
 <!ENTITY threadColumn2.tooltip "Taispeáin snáithe">
 <!ENTITY fromColumn2.tooltip "Sórtáil de réir seoltóra">
 <!ENTITY recipientColumn2.tooltip "Sórtáil de réir faighteora">
+
 <!ENTITY subjectColumn2.tooltip "Sórtáil de réir ábhair">
 <!ENTITY dateColumn2.tooltip "Sórtáil de réir dáta">
 <!ENTITY priorityColumn2.tooltip "Sórtáil de réir tosaíochta">

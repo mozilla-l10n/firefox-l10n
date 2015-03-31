@@ -74,7 +74,7 @@
 <!ENTITY abbreviateOff.label "Ainmneacha giorraithe (m.sh. &quot;n.p.m.mail-news&quot;)">
 <!ENTITY advancedButton.label "Ardroghanna…">
 <!ENTITY advancedButton.accesskey "A">
-<!ENTITY serverDefaultCharset.label "Ionchódú Réamhshocraithe:">
+
 <!ENTITY localPath.label "Comhadlann logánta:">
 <!ENTITY localFolderPicker.label "Roghnaigh Comhadlann Logánta">
 <!ENTITY browseFolder.label "Brabhsáil…">
@@ -86,5 +86,5 @@
 <!ENTITY accountSettingsDesc.label "Cuntas speisialta é seo. Níl aon aitheantas comhcheangailte leis.">
 <!ENTITY storeType.label "Cineál Stórais na dTeachtaireachtaí:">
 <!ENTITY storeType.accesskey "T">
-<!ENTITY mboxStore.label "Comhad ollmhór amháin (mbox)">
+
 <!ENTITY maildirStore.label "Gach teachtaireacht ina comhad féin (maildir)">

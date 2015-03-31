@@ -15,8 +15,8 @@
 <!ENTITY saveCmd.accesskey "S">
 <!ENTITY saveAsCmd.label "Sábháil Mar…">
 <!ENTITY saveAsCmd.accesskey "a">
-<!ENTITY saveAsChangeEncodingCmd.label "Sábháil agus Athraigh Ionchódú na gCarachtar">
-<!ENTITY saveAsChangeEncodingCmd.accesskey "I">
+
+
 <!ENTITY publishCmd.label "Foilsigh">
 <!ENTITY publishCmd.accesskey "s">
 <!ENTITY publishCmd.key "S">
