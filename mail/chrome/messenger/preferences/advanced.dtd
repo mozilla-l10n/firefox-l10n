@@ -16,7 +16,7 @@
 <!ENTITY allowHWAccel.accesskey        "х">
 <!ENTITY storeType.label               "Вид на съхранение на писмата за нови регистрации:">
 <!ENTITY storeType.accesskey           "T">
-<!ENTITY mboxStore.label               "Един голям файл (mbox)">
+
 <!ENTITY maildirStore.label            "Файл за всяко писмо (maildir)">
 
 <!ENTITY scrolling.label               "Плъзгане">

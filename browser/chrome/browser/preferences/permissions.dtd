@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY window.title                 "Изключения">
-<!ENTITY window.width                 "36em">
+
 
 <!ENTITY treehead.sitename.label      "Сайт">
 <!ENTITY treehead.status.label        "Състояние">
@@ -21,6 +21,7 @@
 <!ENTITY allow.accesskey              "Р">
 <!ENTITY windowClose.key              "w">
 
-<!ENTITY button.close.label           "Затваряне">
-<!ENTITY button.close.accesskey       "З">
+
+
+
 

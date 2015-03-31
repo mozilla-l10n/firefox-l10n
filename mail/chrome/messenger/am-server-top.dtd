@@ -74,7 +74,7 @@
 <!ENTITY abbreviateOff.label "Съкратени имена (напр. 'n.p.m.mail-news')">
 <!ENTITY advancedButton.label "Разширени…">
 <!ENTITY advancedButton.accesskey "ш">
-<!ENTITY serverDefaultCharset.label "Подразбиращо се знаково кодиране:">
+
 <!ENTITY localPath.label "Местна директория:">
 <!ENTITY localFolderPicker.label "Изберете директория">
 <!ENTITY browseFolder.label "Избор…">
@@ -86,5 +86,5 @@
 <!ENTITY accountSettingsDesc.label "Това е специална регистрация. Няма идентичности, свързани с нея.">
 <!ENTITY storeType.label "Вид съхранение на писмата:">
 <!ENTITY storeType.accesskey "В">
-<!ENTITY mboxStore.label "Един голям файл (mbox)">
+
 <!ENTITY maildirStore.label "Файл за всяко писмо (maildir)">
