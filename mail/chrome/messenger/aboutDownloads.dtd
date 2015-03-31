@@ -11,8 +11,8 @@
      -->
 <!ENTITY cmd.show.label                            "Atverti aplanką">
 <!ENTITY cmd.show.accesskey                        "A">
-
-
+<!ENTITY cmd.showMac.label                         "Rodyti Finder">
+<!ENTITY cmd.showMac.accesskey                     "F">
 <!ENTITY cmd.open.label                            "Atverti">
 <!ENTITY cmd.open.accesskey                        "A">
 
