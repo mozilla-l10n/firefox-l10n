@@ -10,6 +10,7 @@
 
 <!ENTITY aboutTelemetry.generalDataSection "Powšitkowne daty">
 
+<!ENTITY aboutTelemetry.telemetryLogSection "Telemetrijowy protokol">
 
 <!ENTITY aboutTelemetry.slowSqlSection "  Pomałe SQL-přikazy">
 
