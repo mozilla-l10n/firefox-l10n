@@ -10,6 +10,7 @@
 
 <!ENTITY aboutTelemetry.generalDataSection "  Жалпы деректер">
 
+
 <!ENTITY aboutTelemetry.slowSqlSection "  Баяу SQL сұраныстары">
 
 <!ENTITY aboutTelemetry.chromeHangsSection "  Браузердің тоқталуы">
