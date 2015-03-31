@@ -598,8 +598,8 @@
 <!-- Folder Pane -->
 
 <!ENTITY folderNameColumn.label "Vardas">
-
-
+<!ENTITY folderUnreadColumn.label "Neskaitytas">
+<!ENTITY folderTotalColumn.label "Iš viso">
 <!ENTITY folderSizeColumn.label "Dydis">
 <!-- Folder Pane Context Menu -->
 
@@ -669,8 +669,8 @@
 <!ENTITY statusColumn.label "Būsena">
 <!ENTITY sizeColumn.label "Dydis">
 <!ENTITY junkStatusColumn.label "Brukalo statusas">
-
-
+<!ENTITY unreadColumn.label "Neskaitytas">
+<!ENTITY totalColumn.label "Iš viso">
 <!ENTITY readColumn.label "Skaitytas">
 <!ENTITY receivedColumn.label "Gauta">
 <!ENTITY starredColumn.label "Žvaigždutė">
