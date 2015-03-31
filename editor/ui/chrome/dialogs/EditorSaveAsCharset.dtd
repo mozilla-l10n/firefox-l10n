@@ -4,12 +4,8 @@
 <!-- These strings are generic to all or most of the editor's dialogs. -->
 <!-- This button is for the progressive disclosure of additional editing functionality -->
 <!-- These strings are for use specifically in the editor's link dialog. -->
-
-
-
-<!ENTITY windowTitle.label "Cadw a Newid Amgodiad Nod">
 <!ENTITY documentTitleTitle.label "Teitl y Dudalen">
-<!ENTITY documentCharsetTitle.label "Nodau Amgodio">
-<!ENTITY documentCharsetDesc.label "Dewis yr amgodiad nod rydych eisiau cadw dogfen ynddi:">
+
+
 <!ENTITY documentExportToText.label "Allforio i Destun">
 

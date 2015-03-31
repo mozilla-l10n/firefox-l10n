@@ -192,6 +192,8 @@
 <!ENTITY sortByFromCmd.accesskey "O">
 <!ENTITY sortByRecipientCmd.label "Derbynnydd">
 <!ENTITY sortByRecipientCmd.accesskey "D">
+
+
 <!ENTITY sortByUnreadCmd.label "Darllenwyd">
 <!ENTITY sortByUnreadCmd.accesskey "D">
 <!ENTITY sortByOrderReceivedCmd.label "Trefn Derbyn">
@@ -658,6 +660,7 @@
 <!ENTITY threadColumn.label "Edefyn">
 <!ENTITY fromColumn.label "Oddi wrth">
 <!ENTITY recipientColumn.label "Derbynnydd">
+
 <!ENTITY subjectColumn.label "Pwnc">
 <!ENTITY dateColumn.label "Dyddiad">
 <!ENTITY priorityColumn.label "Blaenoriaeth">
@@ -680,6 +683,7 @@
 <!ENTITY threadColumn2.tooltip "Dangos edafedd negeseuon">
 <!ENTITY fromColumn2.tooltip "Trefnu yn ôl anfonwr">
 <!ENTITY recipientColumn2.tooltip "Trefnu yn ôl derbyniwr">
+
 <!ENTITY subjectColumn2.tooltip "Trefnu yn ôl pwnc">
 <!ENTITY dateColumn2.tooltip "Trefnu yn ôl dyddiad">
 <!ENTITY priorityColumn2.tooltip "Trefnu yn ôl blaenoriaeth">
