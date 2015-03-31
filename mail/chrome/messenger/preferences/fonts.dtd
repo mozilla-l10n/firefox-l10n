@@ -68,10 +68,10 @@
 
 <!ENTITY sendDefaultCharset.label         "Laiškų rašymo:">
 <!ENTITY sendDefaultCharset.accesskey     "r">
-<!ENTITY languagesTitle1.label            "Koduotės">
-<!ENTITY composingDescription.label       "Laiškų rašymo ir skaitymo numatytosios koduotės">
+
+
 
 <!ENTITY viewDefaultCharsetList.label     "Laiškų skaitymo:">
 <!ENTITY viewDefaultCharsetList.accesskey  "s">
-<!ENTITY replyInDefaultCharset2.label     "Kai tai įmanoma, numatytąją koduotę naudoti ir atsakant į laiškus">
-<!ENTITY replyInDefaultCharset2.accesskey "a">
+
+

@@ -74,7 +74,7 @@
 <!ENTITY abbreviateOff.label "sutrumpintus (pvz., „n.p.m.mail-news“)">
 <!ENTITY advancedButton.label "Papildomai…">
 <!ENTITY advancedButton.accesskey "P">
-<!ENTITY serverDefaultCharset.label "Numatytoji koduotė:">
+
 <!ENTITY localPath.label "Aplankas diske, kuriame laikomi šios paskyros laiškai ir kiti duomenys:">
 <!ENTITY localFolderPicker.label "Vietinio aplanko parinkimas">
 <!ENTITY browseFolder.label "Parinkti…">
