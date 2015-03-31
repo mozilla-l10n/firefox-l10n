@@ -25,6 +25,8 @@
 <!ENTITY canvasDebuggerUI.emptyNotice2    "tłóčatko, zo by wołanski stapl animaciskeho wobłuka natočiło.">
 <!-- LOCALIZATION NOTE (canvasDebuggerUI.waitingNotice): This is the label shown
   -  in the call list view while recording a snapshot. -->
+
+<!ENTITY canvasDebuggerUI.waitingNotice   "Animaciski cyklus so natoča…">
 <!-- LOCALIZATION NOTE (canvasDebuggerUI.recordSnapshot): This string is displayed
   -  on a button that starts a new snapshot. -->
 
