@@ -207,7 +207,7 @@
 <!ENTITY tab_queue_notification_title_singular "Rajtark w čakanskim rynku">
 <!-- Localization note (tab_queue_notification_text_singular) : This is the
      text of a notification; we expect only one tab queued. -->
-<!ENTITY tab_queue_notification_text_singular "1 rajtark w čakanskim rajtarku">
+<!ENTITY tab_queue_notification_text_singular "1 rajtark w čakanskim rynku">
 
 <!ENTITY pref_char_encoding "Znamješkowe kodowanje">
 <!ENTITY pref_char_encoding_on "Meni pokazać">
