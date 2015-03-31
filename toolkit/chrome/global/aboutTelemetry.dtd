@@ -10,6 +10,7 @@
 
 <!ENTITY aboutTelemetry.generalDataSection "  Allmän data">
 
+
 <!ENTITY aboutTelemetry.slowSqlSection "  Långsamma SQL-satser">
 
 <!ENTITY aboutTelemetry.chromeHangsSection "  Hängningar i webbläsaren">
