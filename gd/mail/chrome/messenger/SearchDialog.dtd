@@ -40,6 +40,7 @@
 <!ENTITY threadColumn.label "Snàth">
 <!ENTITY fromColumn.label "O">
 <!ENTITY recipientColumn.label "Faightear">
+
 <!ENTITY subjectColumn.label "Cuspair">
 <!ENTITY dateColumn.label "Ceann-là">
 <!ENTITY priorityColumn.label "Prìomhachas">
@@ -61,6 +62,7 @@
 <!ENTITY threadColumn2.tooltip "Taisbean snàithleanan nan teachdaireachd">
 <!ENTITY fromColumn2.tooltip "Seòrsaich a-rèir seòladair">
 <!ENTITY recipientColumn2.tooltip "Seòrsaich a-rèir faighteir">
+
 <!ENTITY subjectColumn2.tooltip "Seòrsaich a-rèir cuspair">
 <!ENTITY dateColumn2.tooltip "Seòrsaich a-rèir cinn-là">
 <!ENTITY priorityColumn2.tooltip "Seòrsaich a-rèir prìomhachais">

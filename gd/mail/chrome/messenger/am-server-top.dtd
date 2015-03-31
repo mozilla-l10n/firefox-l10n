@@ -74,7 +74,7 @@
 <!ENTITY abbreviateOff.label "Ainmean goirid (Mar eisimpleir, 'n.p.m.mail-news')">
 <!ENTITY advancedButton.label "Adhartach…">
 <!ENTITY advancedButton.accesskey "A">
-<!ENTITY serverDefaultCharset.label "Còdachadh charactaran bunaiteach:">
+
 <!ENTITY localPath.label "Am pasgan ionadail:">
 <!ENTITY localFolderPicker.label "Tagh am pasgan ionadail">
 <!ENTITY browseFolder.label "Brabhsaich…">
@@ -86,5 +86,5 @@
 <!ENTITY accountSettingsDesc.label "'S e cunntas sònraichte a tha seo.  Chan eil dearbh-aithne co-cheangailte ris.">
 <!ENTITY storeType.label "Seòrsa stòras nan teachdaireachdan:">
 <!ENTITY storeType.accesskey "t">
-<!ENTITY mboxStore.label "Aon fhaidhle mòr (mbox)">
+
 <!ENTITY maildirStore.label "Faidhle gach teachdaireachd (maildir)">

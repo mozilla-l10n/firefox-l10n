@@ -42,6 +42,7 @@
 <!ENTITY url_bar_default_text2 "Lorg no cuir seòladh ann">
 
 <!ENTITY bookmark "Comharra-lìn">
+
 <!ENTITY bookmark_added "Comharra-lìn air a chur ris">
 <!ENTITY bookmark_removed "Comharra-lìn air a thoirt air falbh">
 <!ENTITY bookmark_updated "Comharra-lìn air ùrachadh">
@@ -79,6 +80,7 @@
 <!ENTITY pref_category_advanced "Adhartach">
 <!ENTITY pref_category_customize "Gnàthaich">
 <!ENTITY pref_category_customize_summary "Dachaidh, lorg, tabaichean, ion-phortadh">
+
 <!-- Localization note (pref_category_language) : This is the preferences
      section in which the user picks the locale in which to display Firefox
      UI. The locale includes both language and region concepts. -->
@@ -114,6 +116,15 @@
 <!ENTITY overlay_share_no_url "Cha deach ceangal a lorg san rud cho-roinnte seo">
 <!ENTITY overlay_share_retry "Feuch ris a-rithist">
 <!ENTITY overlay_share_select_device "Tagh uidheam">
+<!-- Localization note (overlay_no_synced_devices) : Used when the menu option
+     to send a tab to a synced device is pressed and no other synced devices
+     are found. -->
+<!-- Localization note (overlay_share_tab_not_sent) : Used when the menu option
+     to send a tab to a synced device is pressed and there is an error
+     connecting to the server so the tab could not be sent. The text should be
+     divided into two lines (use the newline escape character, "\n", between
+     them): the first notifying the user about the failure and the second
+     telling the user what to do about it. -->
 
 <!ENTITY pref_category_search3 "Lorg">
 <!ENTITY pref_category_search_summary "Gnàthaich na solaraichean luirg agad">
@@ -140,7 +151,9 @@
 <!ENTITY pref_category_devtools_summary "Dì-bhugachadh cèin, paint flashing">
 <!ENTITY pref_developer_paint_flashing "Paint flashing">
 <!ENTITY pref_developer_remotedebugging "Dì-bhugachadh cèin">
+
 <!ENTITY pref_remember_signons "Cum faclan-faire an cuimhne">
+
 
 <!ENTITY pref_category_home "Dhachaigh">
 <!ENTITY pref_category_home_summary "Gnàthaich an duilleag-dhachaigh agad">
@@ -176,6 +189,18 @@
 <!ENTITY pref_tracking_protection_summary "Dìonaidh &brandShortName; thu o làraichean a tha airson do thracadh">
 <!ENTITY pref_donottrack_title "Na tracaich">
 <!ENTITY pref_donottrack_summary "Innsidh &brandShortName; do làraichean nach eil thu ag iarraidh gun tracaich iad thu">
+
+
+<!-- Localization note (tab_queue_notification_text_plural) : The
+     formatD is replaced with the number of tabs queued.  The
+     number of tabs queued is always more than one.  We can't use
+     Android plural forms, sadly. See Bug #753859. -->
+<!-- Localization note (tab_queue_notification_title_plural) : This is the
+     title of a notification; we expect more than one tab queued. -->
+<!-- Localization note (tab_queue_notification_title_singular) : This is the
+     title of a notification; we expect only one tab queued. -->
+<!-- Localization note (tab_queue_notification_text_singular) : This is the
+     text of a notification; we expect only one tab queued. -->
 
 <!ENTITY pref_char_encoding "Còdachadh charactaran">
 <!ENTITY pref_char_encoding_on "Seall an clàr-taice">
@@ -271,7 +296,7 @@ size. -->
      (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
 <!ENTITY datareporting_crashreporter_title_short "Aithrisiche nan tuislidhean">
 <!ENTITY datareporting_wifi_title2 "Seirbheisean ionaid &vendorShortName;">
-<!ENTITY datareporting_wifi_geolocation_summary3 "Cuidich &vendorShortName; a’ mapadh an t-saoghail! Nochd ionad mu thuaiream a’ WiFi ’s an fhòn-làimhe agad ach an urrainn dhuinn an t-seirbheis geò-lorgadh a leasachadh">
+
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
      actual notification that an update is available. -->
@@ -286,6 +311,7 @@ size. -->
 <!ENTITY quit "Fàg an-seo">
 
 <!ENTITY addons "Tuilleadain">
+
 <!ENTITY downloads "Luchdaidhean a-nuas">
 <!ENTITY apps "Aplacaidean">
 <!ENTITY char_encoding "Còdachadh charactaran">
@@ -338,6 +364,13 @@ size. -->
 <!ENTITY contextmenu_top_sites_pin "Prìnich an làrach">
 <!ENTITY contextmenu_top_sites_unpin "Neo-phrìnich an làrach">
 <!ENTITY contextmenu_add_search_engine "Cuir einnsean-luirg ris">
+<!-- Localization note (doorhanger_login_no_username): This string is used in the save-login doorhanger
+     where normally a username would be displayed. In this case, no username was found, and this placeholder
+     contains brackets to indicate this is not actually a username, but rather a placeholder -->
+
+<!ENTITY doorhanger_login_edit_username_hint "Ainm-cleachdaiche">
+
+
 
 <!ENTITY pref_titlebar_mode "Bàr an tiotail">
 <!ENTITY pref_titlebar_mode_title "Seall tiotal na duilleige">
@@ -347,6 +380,8 @@ size. -->
 
 <!ENTITY pref_scroll_title_bar2 "Brabhsadh làn-sgrìn">
 <!ENTITY pref_scroll_title_bar_summary "Falaich bàr-tiotail &brandShortName; nuair a sgrolar sìos air duilleag">
+
+
 <!-- Localization note (page_removed): This string appears in a toast message when
      any page is removed frome about:home. This includes pages that are in history,
      bookmarks, or reading list. -->
@@ -384,7 +419,7 @@ size. -->
 
 <!ENTITY masterpassword_create_title "Cruthaich prìomh fhacal-faire">
 <!ENTITY masterpassword_remove_title "Thoir air falbh am prìomh fhacal-faire">
-<!ENTITY masterpassword_password "Facal-faire">
+
 <!ENTITY masterpassword_confirm "Dearbhaich am facal-faire">
 
 <!ENTITY button_ok "Ceart ma-tha">
@@ -394,6 +429,7 @@ size. -->
 <!ENTITY button_clear_data "Falamhaich an dàta">
 <!ENTITY button_set "Suidhich">
 <!ENTITY button_clear "Falamhaich">
+<!ENTITY button_remember "Cum an cuimhne">
 
 <!ENTITY home_top_sites_title "Sàr-làraichean">
 <!-- Localization note (home_top_sites_add): This string is used as placeholder
@@ -517,6 +553,13 @@ o Android">
 <!ENTITY bookmarkhistory_import_wait "Fuirich ort...">
 
 <!ENTITY suggestions_prompt3 "A bheil thu airson molaidhean luirg a chur air?">
+<!--  Localization note (search_bar_item_desc): When the user clicks the url bar
+      and starts typing, a list of icons of search engines appears at the bottom
+      of the screen. When a user clicks an icon, the entered text will be searched
+      via the search engine that uses the icon they clicked. This text is used
+      for screen reader users when they hover each icon - &formatS; will be
+      replaced with the name of the currently highlighted icon. -->
+<!ENTITY search_bar_item_desc "Lorg le &formatS;">
 <!-- Localization note (suggestion_for_engine): The placeholder &formatS1; will be
      replaced with the name of the search engine. The placeholder &formatS2; will be
      replaced with the search query. -->

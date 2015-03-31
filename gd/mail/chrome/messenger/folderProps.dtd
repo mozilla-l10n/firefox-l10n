@@ -5,17 +5,17 @@
 <!ENTITY folderProps.windowtitle.label           "Roghainnean">
 
 <!ENTITY generalInfo.label                       "Fiosrachadh coitcheann">
-<!ENTITY folderCharsetFallback.label             "Còdachadh charactaran fallback:">
-<!ENTITY folderCharsetFallback.accesskey         "f">
-<!ENTITY folderCharsetEnforce.label              "Cuir an gnìomh an còdachadh airson gach teachdaireachd sa phasgan (thèid roghainnean còdachadh nan teachdaireachdan fa leth agus fèin-mhothachadh a leigeil seachad)">
-<!ENTITY folderCharsetEnforce.accesskey          "a">
+
+
+
+
 <!ENTITY folderRebuildSummaryFileTip2.label      "Ath-thog gearr-chunntas clàr-innse nam faidhle">
 <!ENTITY folderRebuildSummaryFile2.label         "Càraich pasgan">
 <!ENTITY folderRebuildSummaryFile2.accesskey     "r">
 <!ENTITY folderRebuildSummaryFile.explanation    "Thèid faidhle clàr-innse nam pasgan (.msf) a thruailleadh uaireannan 's bidh coltas gu bheil teachdaireachdan air chall no bidh feadhainn a chaidh a sguabadh às ri fhaicinn fhathast; ma chàraicheas tu am pasgan, thèid seo a chur ceart.">
 <!ENTITY folderIncludeInGlobalSearch.label       "Gabh a-steach teachdaireachdan sa phasgan seo ann an toraidhean de lorg uile-choitcheann">
 <!ENTITY folderIncludeInGlobalSearch.accesskey   "G">
-     
+
 <!ENTITY retention.label "Am poileasaidh glèidhidh">
 <!ENTITY retentionUseAccount.label  "Cleachd roghainnean a' chunntais agam">
 <!ENTITY retentionUseAccount.accesskey "u">
