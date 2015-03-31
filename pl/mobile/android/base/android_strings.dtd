@@ -319,6 +319,12 @@ size. -->
 <!ENTITY contextmenu_top_sites_unpin "Odepnij stronę">
 <!ENTITY contextmenu_add_search_engine "Dodaj wyszukiwarkę">
 
+<!ENTITY doorhanger_login_no_username "[brak nazwy użytkownika]">
+<!ENTITY doorhanger_login_edit_title "Edycja danych logowania">
+<!ENTITY doorhanger_login_edit_username_hint "Nazwa użytkownika">
+<!ENTITY doorhanger_login_edit_password_hint "Hasło">
+<!ENTITY doorhanger_login_edit_toggle "Widoczne hasło">
+
 <!ENTITY pref_titlebar_mode "Pasek tytułu">
 <!ENTITY pref_titlebar_mode_title "Pokazywanie tytułu strony">
 <!ENTITY pref_titlebar_mode_url "Pokazywanie adresu strony">
@@ -364,6 +370,7 @@ size. -->
 <!ENTITY button_clear_data "Usuń dane">
 <!ENTITY button_set "Ustaw">
 <!ENTITY button_clear "Usuń">
+<!ENTITY button_remember "Zachowaj">
 
 <!ENTITY home_top_sites_title "Popularne">
 <!-- Localization note (home_top_sites_add): This string is used as placeholder
