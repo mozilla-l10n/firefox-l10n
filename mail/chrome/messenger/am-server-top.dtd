@@ -73,7 +73,7 @@
 <!ENTITY abbreviateOff.label "Afgekorte name (byvoorbeeld 'n.p.m.mail-news')">
 <!ENTITY advancedButton.label "Gevorderd…">
 <!ENTITY advancedButton.accesskey "G">
-<!ENTITY serverDefaultCharset.label "Verstek-karakterenkodering:">
+
 <!ENTITY localPath.label "Plaaslike gids:">
 <!ENTITY localFolderPicker.label "Kies plaaslike gids">
 <!ENTITY browseFolder.label "Blaai…">

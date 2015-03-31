@@ -15,8 +15,8 @@
 <!ENTITY saveCmd.accesskey "S">
 <!ENTITY saveAsCmd.label "Stoor as…">
 <!ENTITY saveAsCmd.accesskey "a">
-<!ENTITY saveAsChangeEncodingCmd.label "Stoor en wysig karakter-enkodering">
-<!ENTITY saveAsChangeEncodingCmd.accesskey "e">
+
+
 <!ENTITY publishCmd.label "Publiseer">
 <!ENTITY publishCmd.accesskey "P">
 
