@@ -42,7 +42,7 @@
 <!ENTITY url_bar_default_text2 "Adresu pytaś abo zapódaś">
 
 <!ENTITY bookmark "Cytańske znamje">
-
+<!ENTITY bookmark_remove "Cytańske znamje wótpóraś">
 <!ENTITY bookmark_added "Cytańske znamje pśidane">
 <!ENTITY bookmark_removed "Cytańske znamje wótporane">
 <!ENTITY bookmark_updated "Cytańske znamje zaktualizěrowane">
@@ -80,7 +80,7 @@
 <!ENTITY pref_category_advanced "Rozšyrjone">
 <!ENTITY pref_category_customize "Pśiměriś">
 <!ENTITY pref_category_customize_summary "Startowy bok, pytanje, rejtarki, import">
-
+<!ENTITY pref_category_customize_alt_summary "Startowy bok, pytanje, rejtarki, pózdźej wócyniś, importěrowaś">
 <!-- Localization note (pref_category_language) : This is the preferences
      section in which the user picks the locale in which to display Firefox
      UI. The locale includes both language and region concepts. -->
@@ -119,12 +119,14 @@
 <!-- Localization note (overlay_no_synced_devices) : Used when the menu option
      to send a tab to a synced device is pressed and no other synced devices
      are found. -->
+<!ENTITY overlay_no_synced_devices "Žedne rědy namakane, kótarež su z kontom Firefox zwězane">
 <!-- Localization note (overlay_share_tab_not_sent) : Used when the menu option
      to send a tab to a synced device is pressed and there is an error
      connecting to the server so the tab could not be sent. The text should be
      divided into two lines (use the newline escape character, "\n", between
      them): the first notifying the user about the failure and the second
      telling the user what to do about it. -->
+<!ENTITY overlay_share_tab_not_sent "Waš rejtark njedajo se pósłaś.\nPšosym wopytajśo pózdźej hyšći raz.">
 
 <!ENTITY pref_category_search3 "Pytaś">
 <!ENTITY pref_category_search_summary "Pśiměrśo swójich pytańskich póbitowarjow">
@@ -151,9 +153,9 @@
 <!ENTITY pref_category_devtools_summary "Pytanje zmólkow zdaloka, barwny błyskot">
 <!ENTITY pref_developer_paint_flashing "Barwowe wuzwignjenje">
 <!ENTITY pref_developer_remotedebugging "Daloke pytanje za zmólkami">
-
+<!ENTITY pref_category_logins "Pśizjawjenja">
 <!ENTITY pref_remember_signons "Gronidła se spomnjeś">
-
+<!ENTITY pref_manage_logins "Pśizjawjenja zastojaś">
 
 <!ENTITY pref_category_home "Startowy bok">
 <!ENTITY pref_category_home_summary "Pśiměrśo swój startowy bok">
@@ -190,17 +192,22 @@
 <!ENTITY pref_donottrack_title "Njeslědowaś">
 <!ENTITY pref_donottrack_summary "&brandShortName; dajo sydłam k wěsći, až njocośo, až wam slěduju.">
 
-
+<!ENTITY tab_queue_toast_message "Pózdźej wócyniś">
+<!ENTITY tab_queue_toast_action "Něnto wócyniś">
 <!-- Localization note (tab_queue_notification_text_plural) : The
      formatD is replaced with the number of tabs queued.  The
      number of tabs queued is always more than one.  We can't use
      Android plural forms, sadly. See Bug #753859. -->
+<!ENTITY tab_queue_notification_text_plural "&formatD; rejtarkow w cakańskem rěźe">
 <!-- Localization note (tab_queue_notification_title_plural) : This is the
      title of a notification; we expect more than one tab queued. -->
+<!ENTITY tab_queue_notification_title_plural "Rejtarki w cakańskem rěźe">
 <!-- Localization note (tab_queue_notification_title_singular) : This is the
      title of a notification; we expect only one tab queued. -->
+<!ENTITY tab_queue_notification_title_singular "Rejtark w cakańskem rěźe">
 <!-- Localization note (tab_queue_notification_text_singular) : This is the
      text of a notification; we expect only one tab queued. -->
+<!ENTITY tab_queue_notification_text_singular "1 rejtark w cakańskem rěźe">
 
 <!ENTITY pref_char_encoding "Znamuškowe koděrowanje">
 <!ENTITY pref_char_encoding_on "Meni pokazaś">
@@ -296,7 +303,7 @@ size. -->
      (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
 <!ENTITY datareporting_crashreporter_title_short "Wowaleński rozpšawjak">
 <!ENTITY datareporting_wifi_title2 "Stojnišćowa słužba &vendorShortName;">
-
+<!ENTITY datareporting_wifi_geolocation_summary4 "Pomagajśo &vendorShortName; swět kartografěrowaś! Źělśo pśibližne WLAN-stojnišćo a stojnišćo mobilnego telefona swójogo rěda, aby našu słužbu za póstajenje stojnišćow pólěpšył.">
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
      actual notification that an update is available. -->
@@ -311,7 +318,7 @@ size. -->
 <!ENTITY quit "Skóńcyś">
 
 <!ENTITY addons "Dodanki">
-
+<!ENTITY logins "Pśizjawjenja">
 <!ENTITY downloads "Ześěgnjenja">
 <!ENTITY apps "Nałoženja">
 <!ENTITY char_encoding "Znamuškowe koděrowanje">
@@ -368,9 +375,11 @@ size. -->
      where normally a username would be displayed. In this case, no username was found, and this placeholder
      contains brackets to indicate this is not actually a username, but rather a placeholder -->
 
+<!ENTITY doorhanger_login_no_username "[Žedno wužywarske mě]">
+<!ENTITY doorhanger_login_edit_title "Pśizjawjenje wobźěłaś">
 <!ENTITY doorhanger_login_edit_username_hint "Wužywarske mě">
-
-
+<!ENTITY doorhanger_login_edit_password_hint "Gronidło">
+<!ENTITY doorhanger_login_edit_toggle "Gronidło pokazaś">
 
 <!ENTITY pref_titlebar_mode "Titelowa rědka">
 <!ENTITY pref_titlebar_mode_title "Titel boka pokazaś">
@@ -381,7 +390,8 @@ size. -->
 <!ENTITY pref_scroll_title_bar2 "Pśeglědowanje z połneju wobrazowku">
 <!ENTITY pref_scroll_title_bar_summary "Titelowu rědku &brandShortName; schowaś, gaž bok kula se dołoj">
 
-
+<!ENTITY pref_tab_queue_title "Pózdźej wócyniś">
+<!ENTITY pref_tab_queue_summary "Rejtarkam ned pśi wócynjanju zajźowaś, ale wšykne rejtarki w cakanskem rěźe pśiducy raz wócyniś, gaž &brandShortName; je zacytujo.">
 <!-- Localization note (page_removed): This string appears in a toast message when
      any page is removed frome about:home. This includes pages that are in history,
      bookmarks, or reading list. -->
@@ -419,7 +429,7 @@ size. -->
 
 <!ENTITY masterpassword_create_title "Głowne gronidło twóriś">
 <!ENTITY masterpassword_remove_title "Głowne gronidło wótpóraś">
-
+<!ENTITY masterpassword_password "Gronidło">
 <!ENTITY masterpassword_confirm "Gronidło wobkšuśiś">
 
 <!ENTITY button_ok "W pórěźe">
@@ -429,7 +439,7 @@ size. -->
 <!ENTITY button_clear_data "Daty lašowaś">
 <!ENTITY button_set "Nastajiś">
 <!ENTITY button_clear "Lašowaś">
-
+<!ENTITY button_remember "Spomnjeś se">
 
 <!ENTITY home_top_sites_title "Wuběrne sedła">
 <!-- Localization note (home_top_sites_add): This string is used as placeholder
