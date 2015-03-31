@@ -42,7 +42,7 @@
 <!ENTITY url_bar_default_text2 "Sök eller skriv in adressen">
 
 <!ENTITY bookmark "Bokmärke">
-
+<!ENTITY bookmark_remove "Ta bort bokmärke">
 <!ENTITY bookmark_added "Bokmärkt">
 <!ENTITY bookmark_removed "Bokmärket borttaget">
 <!ENTITY bookmark_updated "Uppdaterat bokmärke">
@@ -80,7 +80,7 @@
 <!ENTITY pref_category_advanced "Avancerat">
 <!ENTITY pref_category_customize "Anpassa">
 <!ENTITY pref_category_customize_summary "Hem, sök, flikar, importera">
-
+<!ENTITY pref_category_customize_alt_summary "Hem, sök, flikar, öppna senare, importera ">
 <!-- Localization note (pref_category_language) : This is the preferences
      section in which the user picks the locale in which to display Firefox
      UI. The locale includes both language and region concepts. -->
@@ -125,6 +125,7 @@
      divided into two lines (use the newline escape character, "\n", between
      them): the first notifying the user about the failure and the second
      telling the user what to do about it. -->
+<!ENTITY overlay_share_tab_not_sent "Din flik kunde inte bli skickad.\n Snälla försök igen senare.">
 
 <!ENTITY pref_category_search3 "Sök">
 <!ENTITY pref_category_search_summary "Anpassa sökleverantörerna">
@@ -151,9 +152,9 @@
 <!ENTITY pref_category_devtools_summary "Fjärravlusare, visa blinkande">
 <!ENTITY pref_developer_paint_flashing "Färg blixtrande ">
 <!ENTITY pref_developer_remotedebugging "Fjärrfelsökning">
-
+<!ENTITY pref_category_logins "Inloggningar ">
 <!ENTITY pref_remember_signons "Spara lösenord">
-
+<!ENTITY pref_manage_logins "Hantera inloggningar ">
 
 <!ENTITY pref_category_home "Startsida">
 <!ENTITY pref_category_home_summary "Anpassa startsidan">
@@ -190,17 +191,22 @@
 <!ENTITY pref_donottrack_title "Spåra inte">
 <!ENTITY pref_donottrack_summary "&brandShortName; kommer att informera hemsidor att du inte vill bli spårad">
 
-
+<!ENTITY tab_queue_toast_message "Öppna senare ">
+<!ENTITY tab_queue_toast_action "Öppna nu ">
 <!-- Localization note (tab_queue_notification_text_plural) : The
      formatD is replaced with the number of tabs queued.  The
      number of tabs queued is always more than one.  We can't use
      Android plural forms, sadly. See Bug #753859. -->
+<!ENTITY tab_queue_notification_text_plural "&formatD; flikar köade ">
 <!-- Localization note (tab_queue_notification_title_plural) : This is the
      title of a notification; we expect more than one tab queued. -->
+<!ENTITY tab_queue_notification_title_plural "Flikar köade ">
 <!-- Localization note (tab_queue_notification_title_singular) : This is the
      title of a notification; we expect only one tab queued. -->
+<!ENTITY tab_queue_notification_title_singular "Flik köad ">
 <!-- Localization note (tab_queue_notification_text_singular) : This is the
      text of a notification; we expect only one tab queued. -->
+<!ENTITY tab_queue_notification_text_singular "1 flik köad ">
 
 <!ENTITY pref_char_encoding "Teckenkodning">
 <!ENTITY pref_char_encoding_on "Visa meny">
@@ -311,7 +317,7 @@ size. -->
 <!ENTITY quit "Avsluta">
 
 <!ENTITY addons "Tillägg">
-
+<!ENTITY logins "Inloggningar ">
 <!ENTITY downloads "Hämtningar">
 <!ENTITY apps "Appar">
 <!ENTITY char_encoding "Teckenkodning">
@@ -368,9 +374,11 @@ size. -->
      where normally a username would be displayed. In this case, no username was found, and this placeholder
      contains brackets to indicate this is not actually a username, but rather a placeholder -->
 
+<!ENTITY doorhanger_login_no_username "[Inget användarnamn]">
+<!ENTITY doorhanger_login_edit_title "Editera inloggning">
 <!ENTITY doorhanger_login_edit_username_hint "Användarnamn">
-
-
+<!ENTITY doorhanger_login_edit_password_hint "Lösenord">
+<!ENTITY doorhanger_login_edit_toggle "Visa lösenord">
 
 <!ENTITY pref_titlebar_mode "Namnfältet">
 <!ENTITY pref_titlebar_mode_title "Visa sidans namn">
@@ -381,6 +389,7 @@ size. -->
 <!ENTITY pref_scroll_title_bar2 "Fullskärms surfning">
 <!ENTITY pref_scroll_title_bar_summary "Dölj &brandShortName;namnlistan när du bläddrar ner en sida">
 
+<!ENTITY pref_tab_queue_title "Öppna senare ">
 
 <!-- Localization note (page_removed): This string appears in a toast message when
      any page is removed frome about:home. This includes pages that are in history,
@@ -419,7 +428,7 @@ size. -->
 
 <!ENTITY masterpassword_create_title "Skapa ett huvudlösenord">
 <!ENTITY masterpassword_remove_title "Ta bort huvudlösenord">
-
+<!ENTITY masterpassword_password "Lösenord">
 <!ENTITY masterpassword_confirm "Bekräfta lösenord">
 
 <!ENTITY button_ok "OK">
@@ -429,7 +438,7 @@ size. -->
 <!ENTITY button_clear_data "Rensa data">
 <!ENTITY button_set "Ställ in">
 <!ENTITY button_clear "Töm">
-
+<!ENTITY button_remember "Kom ihåg">
 
 <!ENTITY home_top_sites_title "Topplistan">
 <!-- Localization note (home_top_sites_add): This string is used as placeholder
