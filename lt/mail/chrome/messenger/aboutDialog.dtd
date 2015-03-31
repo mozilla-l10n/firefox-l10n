@@ -13,23 +13,31 @@
 <!ENTITY update.applyButtonBillboard.label        "Įdiegti naujinimą…">
 <!ENTITY update.applyButtonBillboard.accesskey    "d">
 <!-- LOCALIZATION NOTE (warningDesc.version): This is a warning about the experimental nature of Nightly and Aurora builds. It is only shown in those versions. -->
+
+
+<!ENTITY warningDesc.version        "&brandShortName; skirta eksperimentams ir tikėtina bus nestabili.">
 <!-- LOCALIZATION NOTE (warningDesc.telemetryDesc): This is a notification that Nightly/Aurora builds automatically send Telemetry data back to Mozilla. It is only shown in those versions. "It" refers to brandShortName. -->
 <!-- LOCALIZATION NOTE (community.exp.*) This paragraph is shown in "experimental" builds, i.e. Nightly and Aurora builds, instead of the other "community.*" strings below. -->
 
 <!ENTITY community.exp.start        "">
 <!-- LOCALIZATION NOTE (community.exp.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
-
+<!ENTITY community.exp.middle       " yra ">
 <!-- LOCALIZATION NOTE (community.exp.creditslink): This is a link title that links to about:credits. -->
-
+<!ENTITY community.exp.creditsLink  "pasaulinė bendruomenė">
+<!ENTITY community.exp.end          " dirbanti tam, kad Žiniatinklis liktų atviras, viešas ir visiems prieinamas.">
 
 <!ENTITY community.start2           "„&brandShortName;“ kuria ir tobulina ">
 <!-- LOCALIZATION NOTE (community.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
+<!ENTITY community.mozillaLink      "„&vendorShortName;“">
 <!ENTITY community.middle2          " – ">
 <!-- LOCALIZATION NOTE (community.creditsLink): This is a link title that links to about:credits. -->
+<!ENTITY community.creditsLink      "pasaulinė bendruomenė">
+<!ENTITY community.end3             " dirbanti tam, kad Žiniatinklis liktų atviras, viešas ir visiems prieinamas. ">
 
-
+<!ENTITY helpus.start               "Nori padėti? ">
 <!-- LOCALIZATION NOTE (helpus.donateLink): This is a link title that links to the thunderbird donation page -->
-
+<!ENTITY helpus.donateLink          "Paaukok">
+<!ENTITY helpus.middle              " arba ">
 <!-- LOCALIZATION NOTE (helpus.getInvolvedLink): This is a link title that links to http://www.mozilla.org/contribute/. -->
 <!ENTITY helpus.end                 "">
 <!-- LOCALIZATION NOTE (bottomLinks.license): This is a link title that links to about:license. -->

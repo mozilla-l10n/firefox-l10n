@@ -22,6 +22,8 @@
 <!ENTITY  monospace.accesskey                     "L">
 <!-- LOCALIZATION NOTE (font.langGroup.latin) :
      Translate "Latin" as the name of Latin (Roman) script, not as the name of the Latin language. -->
+
+<!ENTITY  font.langGroup.latin                    "Lotynų">
 <!ENTITY  font.langGroup.japanese                 "Japonų">
 <!ENTITY  font.langGroup.trad-chinese             "Tradicinė kinų (Taivanis)">
 <!ENTITY  font.langGroup.simpl-chinese            "Supaprastintoji kinų">
@@ -44,11 +46,11 @@
 <!ENTITY  font.langGroup.gurmukhi                 "Gurmukų">
 <!ENTITY  font.langGroup.khmer                    "Chmerų">
 <!ENTITY  font.langGroup.malayalam                "Malajų">
-
-
-
-
-
+<!ENTITY  font.langGroup.oriya                    "Orijų">
+<!ENTITY  font.langGroup.telugu                   "Telugų">
+<!ENTITY  font.langGroup.kannada                  "Kanadų">
+<!ENTITY  font.langGroup.sinhala                  "Singhų">
+<!ENTITY  font.langGroup.tibetan                  "Tibetiečių">
 <!-- Minimum font size -->
 <!ENTITY minSize.label                            "Minimalus šrifto dydis:">
 <!ENTITY minSize.accesskey                        "M">
@@ -68,7 +70,7 @@
 
 <!ENTITY sendDefaultCharset.label         "Laiškų rašymo:">
 <!ENTITY sendDefaultCharset.accesskey     "r">
-
+<!ENTITY languagesTitle2.label            "Teksto koduotė">
 
 
 <!ENTITY viewDefaultCharsetList.label     "Laiškų skaitymo:">

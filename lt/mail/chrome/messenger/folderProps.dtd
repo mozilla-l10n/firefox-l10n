@@ -5,8 +5,8 @@
 <!ENTITY folderProps.windowtitle.label           "Savybės">
 
 <!ENTITY generalInfo.label                       "Bendroji informacija">
-
-
+<!ENTITY folderCharsetFallback2.label            "Atsarginė teksto koduotė:">
+<!ENTITY folderCharsetFallback2.accesskey        "E">
 
 
 <!ENTITY folderRebuildSummaryFileTip2.label      "Perindeksuoti aplanke esančius laiškus">

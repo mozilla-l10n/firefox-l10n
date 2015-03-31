@@ -5,7 +5,7 @@
 <!-- This button is for the progressive disclosure of additional editing functionality -->
 <!-- These strings are for use specifically in the editor's link dialog. -->
 <!ENTITY documentTitleTitle.label "Tinklalapio antraštė">
-
+<!ENTITY documentCharsetTitle2.label "Teksto koduotė">
 
 <!ENTITY documentExportToText.label "Įrašyti grynuoju tekstu">
 
