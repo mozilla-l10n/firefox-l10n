@@ -10,6 +10,7 @@
 
 <!ENTITY aboutTelemetry.generalDataSection "Ingcombolo jikelele">
 
+<!ENTITY aboutTelemetry.telemetryLogSection "  I-Telemetry Log">
 
 <!ENTITY aboutTelemetry.slowSqlSection "  Iingxelo ze-SQL ezicothayo">
 

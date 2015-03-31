@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY window.title                 "Izinxaxhi">
-
+<!ENTITY window.width                 "45em">
 
 <!ENTITY treehead.sitename.label      "Isiza">
 <!ENTITY treehead.status.label        "Isimo">
@@ -23,6 +23,6 @@
 
 <!ENTITY button.cancel.label          "Rhoxisa">
 <!ENTITY button.cancel.accesskey      "R">
-
-
+<!ENTITY button.ok.label              "Gcina Iinguqu">
+<!ENTITY button.ok.accesskey          "G">
 
