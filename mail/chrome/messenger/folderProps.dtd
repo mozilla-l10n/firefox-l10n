@@ -5,17 +5,17 @@
 <!ENTITY folderProps.windowtitle.label           "الخصائص">
 
 <!ENTITY generalInfo.label                       "معلومات عامة">
-<!ENTITY folderCharsetFallback.label             "ترميز المحارف الاحتياط:">
-<!ENTITY folderCharsetFallback.accesskey         "ت">
-<!ENTITY folderCharsetEnforce.label              "طبّق الترميز على كل الرسائل في المجلد (سيتجاهل إعدادات الترميز المستقلة لكل رسالة و كذلك الاكتشاف التلقائي)">
-<!ENTITY folderCharsetEnforce.accesskey          "ط">
+
+
+
+
 <!ENTITY folderRebuildSummaryFileTip2.label      "أعد بناء فهرس ملف الملخص">
 <!ENTITY folderRebuildSummaryFile2.label         "أصلِح المجلد">
 <!ENTITY folderRebuildSummaryFile2.accesskey     "ص">
 <!ENTITY folderRebuildSummaryFile.explanation    "في بعض الأحيان، ملف فهرس المجلد (.msf) يتضرّر مما يؤدي إلى اختفاء بعض الرسائل أو ظهور الرسائل المحذوفة بعد حذفها. إصلاح المجلد قد يحلّ هذه المشكلات.">
 <!ENTITY folderIncludeInGlobalSearch.label       "ضمّن رسائل هذا المجلد في نتائج البحث العمومي">
 <!ENTITY folderIncludeInGlobalSearch.accesskey   "ث">
-     
+
 <!ENTITY retention.label "سياسة الإبقاء">
 <!ENTITY retentionUseAccount.label  "استخدم إعدادات حسابي">
 <!ENTITY retentionUseAccount.accesskey "ت">
