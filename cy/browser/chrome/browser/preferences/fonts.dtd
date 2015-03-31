@@ -65,7 +65,7 @@
 
 
 
-
+<!ENTITY languages.customize.Fallback2.desc       "Mae'r amgodiad nod hwn yn cael ei defnyddio ar gyfer hen gynnwys nad yw'n datgan ei amgodiad.">
 
 <!ENTITY languages.customize.Fallback.auto        "Y Rhagosodedig ar gyfer y Locale Cyfredol">
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.arabic):
