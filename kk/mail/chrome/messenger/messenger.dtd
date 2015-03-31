@@ -192,6 +192,8 @@
 
 
 
+
+
 <!ENTITY sortDescending.label "Кему ретімен">
 <!ENTITY sortDescending.accesskey "К">
 
@@ -632,6 +634,7 @@
 <!ENTITY threadColumn.label "Жіп">
 
 <!ENTITY recipientColumn.label "Қабылдаушысы">
+
 <!ENTITY subjectColumn.label "Тақырыбы">
 
 
@@ -649,6 +652,7 @@
 
 <!ENTITY attachmentColumn.label "Салынымдар">
 <!-- Thread Pane Tooltips -->
+
 
 
 
