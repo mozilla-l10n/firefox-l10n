@@ -170,7 +170,8 @@
 <!ENTITY pref_import_android "Importa da Android">
 <!ENTITY pref_import_android_summary "Importa segnalibri e cronologia dal browser di sistema">
 <!ENTITY pref_private_data_history2 "Cronologia di navigazione">
-<!ENTITY pref_private_data_formdata "Moduli e ricerche">
+<!ENTITY pref_private_data_searchHistory "Cronologia ricerche">
+<!ENTITY pref_private_data_formdata2 "Cronologia moduli">
 <!ENTITY pref_private_data_cookies2 "Cookie e accessi attivi">
 <!ENTITY pref_private_data_passwords "Password salvate">
 <!ENTITY pref_private_data_cache "Cache">
