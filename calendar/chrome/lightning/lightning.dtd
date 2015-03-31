@@ -58,6 +58,8 @@
 <!ENTITY lightning.imipbar.btnMore.tooltiptext                              "Щёлкните чтобы увидеть больше параметров">
 <!ENTITY lightning.imipbar.btnReconfirm2.label                              "Вновь подтвердить">
 <!ENTITY lightning.imipbar.btnReconfirm.tooltiptext                         "Вновь отправить подтверждение организатору">
+<!ENTITY lightning.imipbar.btnSaveCopy.label                                "Сохранить копию">
+<!ENTITY lightning.imipbar.btnSaveCopy.tooltiptext                          "Сохранить копию события в календарь, независимо от ответа организатора. Список участников будет очищен.">
 <!ENTITY lightning.imipbar.btnTentative.label                               "Возможно">
 <!ENTITY lightning.imipbar.btnTentative2.tooltiptext                        "Подтвердить участие в событии как возможное">
 <!ENTITY lightning.imipbar.btnTentativeRecurrences.label                    "Возможно для всех">
