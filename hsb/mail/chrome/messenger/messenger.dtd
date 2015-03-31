@@ -192,8 +192,8 @@
 <!ENTITY sortByFromCmd.accesskey "o">
 <!ENTITY sortByRecipientCmd.label "přijimarje">
 <!ENTITY sortByRecipientCmd.accesskey "j">
-
-
+<!ENTITY sortByCorrespondentCmd.label "Dopisowarjo">
+<!ENTITY sortByCorrespondentCmd.accesskey "i">
 <!ENTITY sortByUnreadCmd.label "přečitanych">
 <!ENTITY sortByUnreadCmd.accesskey "e">
 <!ENTITY sortByOrderReceivedCmd.label "porjedźe přijeća">
@@ -660,7 +660,7 @@
 <!ENTITY threadColumn.label "Nitka">
 <!ENTITY fromColumn.label "Wot">
 <!ENTITY recipientColumn.label "Přijimar">
-
+<!ENTITY correspondentColumn.label "Dopisowarjo">
 <!ENTITY subjectColumn.label "Tema">
 <!ENTITY dateColumn.label "Datum">
 <!ENTITY priorityColumn.label "Priorita">
@@ -683,7 +683,7 @@
 <!ENTITY threadColumn2.tooltip "Powěsćowe nitki zwobraznić">
 <!ENTITY fromColumn2.tooltip "Po Wot sortěrować">
 <!ENTITY recipientColumn2.tooltip "Po přijimarju sortěrować">
-
+<!ENTITY correspondentColumn2.tooltip "Po dopisowarjach sortěrować">
 <!ENTITY subjectColumn2.tooltip "Po temje sortěrować">
 <!ENTITY dateColumn2.tooltip "Po datumje sortěrować">
 <!ENTITY priorityColumn2.tooltip "Po prioriće sortěrować">

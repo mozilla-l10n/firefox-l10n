@@ -5,10 +5,10 @@
 <!ENTITY folderProps.windowtitle.label           "Kajkosće">
 
 <!ENTITY generalInfo.label                       "Powšitkowne informacije">
-
-
-
-
+<!ENTITY folderCharsetFallback2.label            "Narunanje za tekstowe kodowanje:">
+<!ENTITY folderCharsetFallback2.accesskey        "t">
+<!ENTITY folderCharsetEnforce2.label             "Kodowanje na wšě powěsće w rjadowaku nałožić (indiwiduelne nastajenja tekstoweho kodowanja a awtomatiske zwěsćenje budźe so ignorować)">
+<!ENTITY folderCharsetEnforce2.accesskey         "d">
 <!ENTITY folderRebuildSummaryFileTip2.label      "Indeks zjimanskeje dataje zaso natwarić">
 <!ENTITY folderRebuildSummaryFile2.label         "Rjadowak porjedźić">
 <!ENTITY folderRebuildSummaryFile2.accesskey     "R">
