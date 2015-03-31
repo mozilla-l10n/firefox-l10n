@@ -192,6 +192,8 @@
 <!ENTITY sortByFromCmd.accesskey "F">
 <!ENTITY sortByRecipientCmd.label "Umamkeli">
 <!ENTITY sortByRecipientCmd.accesskey "m">
+<!ENTITY sortByCorrespondentCmd.label "Correspondents">
+<!ENTITY sortByCorrespondentCmd.accesskey "e">
 <!ENTITY sortByUnreadCmd.label "Funda">
 <!ENTITY sortByUnreadCmd.accesskey "F">
 <!ENTITY sortByOrderReceivedCmd.label "Ulandelelwano Olwamkelweyo">
@@ -658,6 +660,7 @@
 <!ENTITY threadColumn.label "Umtya">
 <!ENTITY fromColumn.label "From">
 <!ENTITY recipientColumn.label "Umamkeli">
+<!ENTITY correspondentColumn.label "Correspondents">
 <!ENTITY subjectColumn.label "Intloko">
 <!ENTITY dateColumn.label "Umhla">
 <!ENTITY priorityColumn.label "Ngokokubaluleka">
@@ -680,6 +683,7 @@
 <!ENTITY threadColumn2.tooltip "Display message threads">
 <!ENTITY fromColumn2.tooltip "Sort by from">
 <!ENTITY recipientColumn2.tooltip "Sort by recipient">
+<!ENTITY correspondentColumn2.tooltip "Sort by correspondents">
 <!ENTITY subjectColumn2.tooltip "Sort by subject">
 <!ENTITY dateColumn2.tooltip "Sort by date">
 <!ENTITY priorityColumn2.tooltip "Sort by priority">
