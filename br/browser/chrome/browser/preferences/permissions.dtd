@@ -21,7 +21,8 @@
 <!ENTITY allow.accesskey              "A">
 <!ENTITY windowClose.key              "w">
 
-
-
-
+<!ENTITY button.cancel.label          "Nullañ">
+<!ENTITY button.cancel.accesskey      "N">
+<!ENTITY button.ok.label              "Enrollañ ar c'hemmoù">
+<!ENTITY button.ok.accesskey          "E">
 
