@@ -113,6 +113,7 @@
 <!ENTITY offlineAppRemove.confirm        "Verwyder vanlyn data">
 
 <!ENTITY certificateTab.label            "Sertifikate">
+
 <!ENTITY certSelection.description       "Wanneer 'n bediener my persoonlike sertifikaat aanvra:">
 <!ENTITY certs.auto                      "Kies een outomaties">
 <!ENTITY certs.auto.accesskey            "K">

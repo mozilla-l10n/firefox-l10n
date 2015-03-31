@@ -15,7 +15,7 @@
 <!ENTITY folderRebuildSummaryFile.explanation    "Soms raak die vouerindekslêer (.msf) beskadig en boodskappe lyk of dit weg is, of geskrapte boodskappe wys steeds; herstel van die vouer kan dalk sulke probleme oplos.">
 <!ENTITY folderIncludeInGlobalSearch.label       "Sluit boodskappe in dié gids in by die globale soekresultate">
 <!ENTITY folderIncludeInGlobalSearch.accesskey   "g">
-     
+
 <!ENTITY retention.label "Behoubeleid">
 <!ENTITY retentionUseAccount.label  "Gebruik my rekeningopstelling">
 <!ENTITY retentionUseAccount.accesskey "G">

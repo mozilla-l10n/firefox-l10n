@@ -5,9 +5,9 @@
 
 <!ENTITY newtab.pageTitle "Nuwe oortjie">
 <!ENTITY newtab.customize.title "Pasmaak die &quot;Nuwe oortjie&quot;-bladsy">
-<!ENTITY newtab.customize.enhanced "Verbeterde">
-<!ENTITY newtab.customize.classic "Klasieke">
-<!ENTITY newtab.customize.blank "Blanko">
+
+
+
 <!ENTITY newtab.customize.what "Wat is dié bladsy?">
 <!ENTITY newtab.intro.header "Wat is dié bladsy?">
 <!ENTITY newtab.undo.removedLabel "Duimnaelskets is verwyder.">
