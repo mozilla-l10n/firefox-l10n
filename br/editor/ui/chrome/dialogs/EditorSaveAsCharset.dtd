@@ -4,12 +4,8 @@
 <!-- These strings are generic to all or most of the editor's dialogs. -->
 <!-- This button is for the progressive disclosure of additional editing functionality -->
 <!-- These strings are for use specifically in the editor's link dialog. -->
-
-
-
-<!ENTITY windowTitle.label "Enrollañ ha kemmañ bonegadur an arouezennoù">
 <!ENTITY documentTitleTitle.label "Titl ar bajenn">
-<!ENTITY documentCharsetTitle.label "Bonegadur an arouezennoù">
-<!ENTITY documentCharsetDesc.label "Diuzit bonegadur an arouezennoù e fell deoc'h arverañ evit enrollañ an teuliadoù:">
+
+
 <!ENTITY documentExportToText.label "Ezporzhiañ da destenn">
 

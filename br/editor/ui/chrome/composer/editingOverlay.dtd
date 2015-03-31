@@ -15,8 +15,8 @@
 <!ENTITY saveCmd.accesskey "E">
 <!ENTITY saveAsCmd.label "Enrollañ evel…">
 <!ENTITY saveAsCmd.accesskey "E">
-<!ENTITY saveAsChangeEncodingCmd.label "Enrollañ ha kemmañ bonegañ an arouezioù">
-<!ENTITY saveAsChangeEncodingCmd.accesskey "E">
+
+
 <!ENTITY publishCmd.label "Brudañ">
 <!ENTITY publishCmd.accesskey "B">
 <!ENTITY publishCmd.key "S">

@@ -46,13 +46,13 @@
 <!ENTITY lightning.imipbar.btnAcceptRecurrences2.tooltiptext                "Asantiñ ar bedadenn darvoud evit an holl degouezhioù eus an darvoud">
 <!ENTITY lightning.imipbar.btnAdd.label                                     "Ouzhpennañ">
 <!ENTITY lightning.imipbar.btnAdd.tooltiptext                               "Ouzhpennañ un darvoud d'an deiziataer">
-
+<!ENTITY lightning.imipbar.btnDecline.label                                 "Nac'hañ">
 
 
 
 <!ENTITY lightning.imipbar.btnDelete.label                                  "Dilemel">
 
-
+<!ENTITY lightning.imipbar.btnDetails.label                                 "Munudoù...">
 
 
 

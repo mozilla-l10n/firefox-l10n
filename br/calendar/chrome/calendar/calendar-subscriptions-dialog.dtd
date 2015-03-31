@@ -4,9 +4,11 @@
 -->
 <!-- Calendar Subscriptions Dialog -->
 
-
-
-
-
-
+<!ENTITY calendar.subscriptions.dialog.title                            "Koumanantiñ da deiziataerioù">
+<!ENTITY calendar.subscriptions.dialog.search.label.value               "Skrammañ deiziataerioù oc'h enderc'hel :">
+<!ENTITY calendar.subscriptions.dialog.search.button.label              "Klask">
+<!ENTITY calendar.subscriptions.dialog.select.label.value               "Diuzit deiziataerioù evit koumanantin dezho :">
+<!ENTITY calendar.subscriptions.dialog.subscribe.button.label           "Koumanantiñ">
+<!ENTITY calendar.subscriptions.dialog.unsubscribe.button.label         "Digoumanantiñ">
+<!ENTITY calendar.subscriptions.dialog.statusmessage.busy.label         "Klask...">
 

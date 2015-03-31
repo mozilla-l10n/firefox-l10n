@@ -42,6 +42,7 @@
 <!ENTITY url_bar_default_text2 "Bizskrivit un termen da glask pe ur chomlec\u0027h">
 
 <!ENTITY bookmark "Sined">
+
 <!ENTITY bookmark_added "Ouzhpennet eo bet ar sined">
 <!ENTITY bookmark_removed "Sined bet dilamet">
 <!ENTITY bookmark_updated "Sined bet hizivaet">
@@ -79,6 +80,7 @@
 <!ENTITY pref_category_advanced "Kempleshoc\u0027h">
 <!ENTITY pref_category_customize "Personelaat">
 <!ENTITY pref_category_customize_summary "Pennbajenn, enklask, ivinelloù, enporzh">
+
 <!-- Localization note (pref_category_language) : This is the preferences
      section in which the user picks the locale in which to display Firefox
      UI. The locale includes both language and region concepts. -->
@@ -114,6 +116,15 @@
 <!ENTITY overlay_share_no_url "Ere ebet bet kavet evit ar rannadur-mañ.">
 <!ENTITY overlay_share_retry "Klask en-dro">
 <!ENTITY overlay_share_select_device "Diuzañ un drobarzhell">
+<!-- Localization note (overlay_no_synced_devices) : Used when the menu option
+     to send a tab to a synced device is pressed and no other synced devices
+     are found. -->
+<!-- Localization note (overlay_share_tab_not_sent) : Used when the menu option
+     to send a tab to a synced device is pressed and there is an error
+     connecting to the server so the tab could not be sent. The text should be
+     divided into two lines (use the newline escape character, "\n", between
+     them): the first notifying the user about the failure and the second
+     telling the user what to do about it. -->
 
 <!ENTITY pref_category_search3 "Klask">
 <!ENTITY pref_category_search_summary "Personelaat ho pourchaserion glask">
@@ -140,7 +151,9 @@
 <!ENTITY pref_category_devtools_summary "Diveugañ a-bell, usskediñ ar maeziennoù pentet">
 <!ENTITY pref_developer_paint_flashing "Usskediñ ar maeziennoù pentet">
 <!ENTITY pref_developer_remotedebugging "Diveugañ a-bell">
+
 <!ENTITY pref_remember_signons "Derc\u0027hel soñj eus ar gerioù-tremen">
+
 
 <!ENTITY pref_category_home "D\u0027ar gêr">
 <!ENTITY pref_category_home_summary "Personelaat ho pennbajennad">
@@ -176,6 +189,18 @@
 <!ENTITY pref_tracking_protection_summary "&brandShortName; a viro ouzh al lec\u0027hiennoù da heuliañ ac\u0027hanoc\u0027h">
 <!ENTITY pref_donottrack_title "N\u0027am heuilhit ket">
 <!ENTITY pref_donottrack_summary "&brandShortName; a lavaro d\u0027al lec\u0027hiennoù ne fell ket deoc\u0027h bezañ heuliet">
+
+
+<!-- Localization note (tab_queue_notification_text_plural) : The
+     formatD is replaced with the number of tabs queued.  The
+     number of tabs queued is always more than one.  We can't use
+     Android plural forms, sadly. See Bug #753859. -->
+<!-- Localization note (tab_queue_notification_title_plural) : This is the
+     title of a notification; we expect more than one tab queued. -->
+<!-- Localization note (tab_queue_notification_title_singular) : This is the
+     title of a notification; we expect only one tab queued. -->
+<!-- Localization note (tab_queue_notification_text_singular) : This is the
+     text of a notification; we expect only one tab queued. -->
 
 <!ENTITY pref_char_encoding "Bonegadur an arouezennoù">
 <!ENTITY pref_char_encoding_on "Diskouez al lañser">
@@ -271,7 +296,7 @@ size. -->
      (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
 <!ENTITY datareporting_crashreporter_title_short "Daneveller sac\u0027hadenn">
 <!ENTITY datareporting_wifi_title2 "Gwazerezh spislec\u0027hiañ &vendorShortName;">
-<!ENTITY datareporting_wifi_geolocation_summary3 "Roit skoazell da &vendorShortName; da sevel kartenn ar bed ! Roit lec\u0027hiadur arnesadek ho wi-fi hag ho hezougell da wellaat hor gwazerezh douarspislec\u0027hiañ">
+
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
      actual notification that an update is available. -->
@@ -286,6 +311,7 @@ size. -->
 <!ENTITY quit "Kuitaat">
 
 <!ENTITY addons "Askouezhioù">
+
 <!ENTITY downloads "Pellgargadurioù">
 <!ENTITY apps "Arloadoù">
 <!ENTITY char_encoding "Bonegadur an arouezennoù">
@@ -338,6 +364,13 @@ size. -->
 <!ENTITY contextmenu_top_sites_pin "Spilhennañ al lec\u0027hienn">
 <!ENTITY contextmenu_top_sites_unpin "Dispilhennañ al lec\u0027hienn">
 <!ENTITY contextmenu_add_search_engine "Ouzhpennañ ur c\u0027heflusker klask">
+<!-- Localization note (doorhanger_login_no_username): This string is used in the save-login doorhanger
+     where normally a username would be displayed. In this case, no username was found, and this placeholder
+     contains brackets to indicate this is not actually a username, but rather a placeholder -->
+
+<!ENTITY doorhanger_login_edit_username_hint "Anv arveriad">
+
+
 
 <!ENTITY pref_titlebar_mode "Barrenn ditl">
 <!ENTITY pref_titlebar_mode_title "Diskouez titl ar bajenn">
@@ -347,6 +380,8 @@ size. -->
 
 <!ENTITY pref_scroll_title_bar2 "Merdeiñ gant ar skramm a-bezh">
 <!ENTITY pref_scroll_title_bar_summary "Kuzhat barrenn ditl &brandShortName; pa zibuner a-hed ur bajennad">
+
+
 <!-- Localization note (page_removed): This string appears in a toast message when
      any page is removed frome about:home. This includes pages that are in history,
      bookmarks, or reading list. -->
@@ -384,7 +419,7 @@ size. -->
 
 <!ENTITY masterpassword_create_title "Krouiñ ur ger-tremen mestr">
 <!ENTITY masterpassword_remove_title "Dilemel ho ker-tremen mestr">
-<!ENTITY masterpassword_password "Ger-tremen">
+
 <!ENTITY masterpassword_confirm "Kadarnaat ar ger-tremen">
 
 <!ENTITY button_ok "Mat eo">
@@ -394,6 +429,7 @@ size. -->
 <!ENTITY button_clear_data "Skarzhañ ar roadennoù">
 <!ENTITY button_set "Despizet">
 <!ENTITY button_clear "Skarzhañ">
+
 
 <!ENTITY home_top_sites_title "Lec\u0027hiennoù e-touez re wellañ">
 <!-- Localization note (home_top_sites_add): This string is used as placeholder
@@ -517,6 +553,13 @@ diouzh Android">
 <!ENTITY bookmarkhistory_import_wait "Gortozit mar plij...">
 
 <!ENTITY suggestions_prompt3 "Ha fellout a ra deoc\u0027h gweredekaat kinnigoù ar c\u0027hlask ? ">
+<!--  Localization note (search_bar_item_desc): When the user clicks the url bar
+      and starts typing, a list of icons of search engines appears at the bottom
+      of the screen. When a user clicks an icon, the entered text will be searched
+      via the search engine that uses the icon they clicked. This text is used
+      for screen reader users when they hover each icon - &formatS; will be
+      replaced with the name of the currently highlighted icon. -->
+<!ENTITY search_bar_item_desc "Klask gant &formatS;">
 <!-- Localization note (suggestion_for_engine): The placeholder &formatS1; will be
      replaced with the name of the search engine. The placeholder &formatS2; will be
      replaced with the search query. -->
