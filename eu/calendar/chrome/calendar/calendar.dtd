@@ -254,8 +254,8 @@
      This is the access key used for the showCalendar string -->
 <!-- LOCALIZATION NOTE (calendar.context.showonly.accesskey)
      This is the access key used for the showOnlyCalendar string -->
-
-
+<!ENTITY calendar.context.showall.label                "Erakutsi egutegi guztiak">
+<!ENTITY calendar.context.showall.accesskey            "g">
 
 <!ENTITY calendar.context.convertmenu.label              "Bihurtu hona">
 <!ENTITY calendar.context.convertmenu.accesskey.mail     "n">

@@ -40,6 +40,7 @@
 <!ENTITY threadColumn.label "Haria">
 <!ENTITY fromColumn.label "Nork">
 <!ENTITY recipientColumn.label "Hartzailea">
+
 <!ENTITY subjectColumn.label "Gaia">
 <!ENTITY dateColumn.label "Data">
 <!ENTITY priorityColumn.label "Lehentasuna">
@@ -61,6 +62,7 @@
 <!ENTITY threadColumn2.tooltip "Bistaratu mezuen hariak">
 <!ENTITY fromColumn2.tooltip "Ordenatu bidaltzailearen arabera">
 <!ENTITY recipientColumn2.tooltip "Ordenatu hartzailearen arabera">
+
 <!ENTITY subjectColumn2.tooltip "Ordenatu gaiaren arabera">
 <!ENTITY dateColumn2.tooltip "Ordenatu dataren arabera">
 <!ENTITY priorityColumn2.tooltip "Ordenatu lehentasunaren arabera">

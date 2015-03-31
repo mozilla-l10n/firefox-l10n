@@ -10,6 +10,7 @@
 
 <!ENTITY aboutTelemetry.generalDataSection "  Datu orokorrak">
 
+
 <!ENTITY aboutTelemetry.slowSqlSection "  SQL instrukzio motelak">
 
 <!ENTITY aboutTelemetry.chromeHangsSection "  Nabigatzailearen esekitzeak">

@@ -42,6 +42,7 @@
 <!ENTITY url_bar_default_text2 "Bilatu edo idatzi helbidea">
 
 <!ENTITY bookmark "Laster-marka">
+
 <!ENTITY bookmark_added "Laster-marka gehituta">
 <!ENTITY bookmark_removed "Laster-marka kenduta">
 <!ENTITY bookmark_updated "Laster-marka eguneratuta">
@@ -79,6 +80,7 @@
 <!ENTITY pref_category_advanced "Aurreratua">
 <!ENTITY pref_category_customize "Pertsonalizatu">
 <!ENTITY pref_category_customize_summary "Hasiera, bilaketa, fitxak, inportatzea">
+
 <!-- Localization note (pref_category_language) : This is the preferences
      section in which the user picks the locale in which to display Firefox
      UI. The locale includes both language and region concepts. -->
@@ -114,6 +116,15 @@
 <!ENTITY overlay_share_no_url "Ez da loturarik aurkitu partekatze honetan">
 <!ENTITY overlay_share_retry "Saiatu berriro">
 <!ENTITY overlay_share_select_device "Hautatu gailua">
+<!-- Localization note (overlay_no_synced_devices) : Used when the menu option
+     to send a tab to a synced device is pressed and no other synced devices
+     are found. -->
+<!-- Localization note (overlay_share_tab_not_sent) : Used when the menu option
+     to send a tab to a synced device is pressed and there is an error
+     connecting to the server so the tab could not be sent. The text should be
+     divided into two lines (use the newline escape character, "\n", between
+     them): the first notifying the user about the failure and the second
+     telling the user what to do about it. -->
 
 <!ENTITY pref_category_search3 "Bilaketa">
 <!ENTITY pref_category_search_summary "Pertsonalizatu bilaketa-hornitzaileak">
@@ -140,7 +151,9 @@
 <!ENTITY pref_category_devtools_summary "Urruneko arazketa, margoketa distiratzea">
 <!ENTITY pref_developer_paint_flashing "Margoketa keinukaria">
 <!ENTITY pref_developer_remotedebugging "Urruneko arazketa">
+
 <!ENTITY pref_remember_signons "Gogoratu pasahitzak">
+
 
 <!ENTITY pref_category_home "Hasiera">
 <!ENTITY pref_category_home_summary "Pertsonalizatu zure hasiera-orria">
@@ -176,6 +189,18 @@
 <!ENTITY pref_tracking_protection_summary "Guneei zure jarraipena egitea eragotziko die &brandShortName;(e)k">
 <!ENTITY pref_donottrack_title "Do Not Track">
 <!ENTITY pref_donottrack_summary "Zure jarraipenik ez egiteko esango die guneei &brandShortName;(e)k">
+
+
+<!-- Localization note (tab_queue_notification_text_plural) : The
+     formatD is replaced with the number of tabs queued.  The
+     number of tabs queued is always more than one.  We can't use
+     Android plural forms, sadly. See Bug #753859. -->
+<!-- Localization note (tab_queue_notification_title_plural) : This is the
+     title of a notification; we expect more than one tab queued. -->
+<!-- Localization note (tab_queue_notification_title_singular) : This is the
+     title of a notification; we expect only one tab queued. -->
+<!-- Localization note (tab_queue_notification_text_singular) : This is the
+     text of a notification; we expect only one tab queued. -->
 
 <!ENTITY pref_char_encoding "Erakutsi karaktere-kodeketa">
 <!ENTITY pref_char_encoding_on "Erakutsi menua">
@@ -271,7 +296,7 @@ size. -->
      (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
 <!ENTITY datareporting_crashreporter_title_short "Hutsegiteen berriemailea">
 <!ENTITY datareporting_wifi_title2 "&vendorShortName; kokapen-zerbitzuak">
-<!ENTITY datareporting_wifi_geolocation_summary3 "Lagundu &vendorShortName;(r)i mundua mapeatzen! Partekatu zure gailuaren Wi-Fi eta mugikorraren kokapena gure geokokapen-zerbitzua hobetzeko">
+
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
      actual notification that an update is available. -->
@@ -286,6 +311,7 @@ size. -->
 <!ENTITY quit "Irten">
 
 <!ENTITY addons "Gehigarriak">
+
 <!ENTITY downloads "Deskargak">
 <!ENTITY apps "Aplikazioak">
 <!ENTITY char_encoding "Karaktere-kodeketa">
@@ -338,6 +364,13 @@ size. -->
 <!ENTITY contextmenu_top_sites_pin "Ainguratu gunea">
 <!ENTITY contextmenu_top_sites_unpin "Desainguratu gunea">
 <!ENTITY contextmenu_add_search_engine "Gehitu bilaketa-motorra">
+<!-- Localization note (doorhanger_login_no_username): This string is used in the save-login doorhanger
+     where normally a username would be displayed. In this case, no username was found, and this placeholder
+     contains brackets to indicate this is not actually a username, but rather a placeholder -->
+
+<!ENTITY doorhanger_login_edit_username_hint "Erabiltzaile-izena">
+
+
 
 <!ENTITY pref_titlebar_mode "Titulu-barra">
 <!ENTITY pref_titlebar_mode_title "Erakutsi orriaren titulua">
@@ -347,6 +380,8 @@ size. -->
 
 <!ENTITY pref_scroll_title_bar2 "Pantaila osoko nabigatzea">
 <!ENTITY pref_scroll_title_bar_summary "Ezkutatu &brandShortName;(r)en titulu-barra orria behera korritzean">
+
+
 <!-- Localization note (page_removed): This string appears in a toast message when
      any page is removed frome about:home. This includes pages that are in history,
      bookmarks, or reading list. -->
@@ -384,7 +419,7 @@ size. -->
 
 <!ENTITY masterpassword_create_title "Sortu pasahitz nagusia">
 <!ENTITY masterpassword_remove_title "Kendu pasahitz nagusia">
-<!ENTITY masterpassword_password "Pasahitza">
+
 <!ENTITY masterpassword_confirm "Berretsi pasahitza">
 
 <!ENTITY button_ok "Ados">
@@ -394,6 +429,7 @@ size. -->
 <!ENTITY button_clear_data "Garbitu datuak">
 <!ENTITY button_set "Ezarri">
 <!ENTITY button_clear "Garbitu">
+
 
 <!ENTITY home_top_sites_title "Gune erabilienak">
 <!-- Localization note (home_top_sites_add): This string is used as placeholder
@@ -517,6 +553,13 @@ Android-etik">
 <!ENTITY bookmarkhistory_import_wait "Itxaron mesedez...">
 
 <!ENTITY suggestions_prompt3 "Bilaketa-gomendioak gaitu nahi dituzu?">
+<!--  Localization note (search_bar_item_desc): When the user clicks the url bar
+      and starts typing, a list of icons of search engines appears at the bottom
+      of the screen. When a user clicks an icon, the entered text will be searched
+      via the search engine that uses the icon they clicked. This text is used
+      for screen reader users when they hover each icon - &formatS; will be
+      replaced with the name of the currently highlighted icon. -->
+<!ENTITY search_bar_item_desc "Bilatu &formatS; erabiliz">
 <!-- Localization note (suggestion_for_engine): The placeholder &formatS1; will be
      replaced with the name of the search engine. The placeholder &formatS2; will be
      replaced with the search query. -->

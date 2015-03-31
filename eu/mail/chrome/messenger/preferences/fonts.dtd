@@ -68,10 +68,10 @@
 
 <!ENTITY sendDefaultCharset.label         "Irteerako posta:">
 <!ENTITY sendDefaultCharset.accesskey     "r">
-<!ENTITY languagesTitle1.label            "Karaktere-kodeketa">
-<!ENTITY composingDescription.label       "Ezarri lehenetsitako karaktere-kodeketak posta bidali eta jasotzeko">
+
+
 
 <!ENTITY viewDefaultCharsetList.label     "Sarrerakoa posta:">
 <!ENTITY viewDefaultCharsetList.accesskey  "S">
-<!ENTITY replyInDefaultCharset2.label     "Ahal bada, erabili erantzunetan lehenetsitako karaktere-kodeketa">
-<!ENTITY replyInDefaultCharset2.accesskey "h">
+
+

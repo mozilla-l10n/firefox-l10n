@@ -4,12 +4,8 @@
 <!-- These strings are generic to all or most of the editor's dialogs. -->
 <!-- This button is for the progressive disclosure of additional editing functionality -->
 <!-- These strings are for use specifically in the editor's link dialog. -->
-
-
-
-<!ENTITY windowTitle.label "Gorde eta aldatu karaktere-kodeketa">
 <!ENTITY documentTitleTitle.label "Orriaren izenburua">
-<!ENTITY documentCharsetTitle.label "Karaktere-kodeketa">
-<!ENTITY documentCharsetDesc.label "Aukeratu dokumentuan erabili nahi duzun karaktere-kodeketa:">
+
+
 <!ENTITY documentExportToText.label "Esportatu testura">
 
