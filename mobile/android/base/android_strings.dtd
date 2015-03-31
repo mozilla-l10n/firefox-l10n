@@ -42,7 +42,7 @@
 <!ENTITY url_bar_default_text2 "Іздеу үшін сұранымды немесе адресті енгізіңіз">
 
 <!ENTITY bookmark "Бетбелгі">
-
+<!ENTITY bookmark_remove "Бетбелгіні өшіру">
 <!ENTITY bookmark_added "Бетбелгі қосылды">
 <!ENTITY bookmark_removed "Бетбелгі өшірілді">
 <!ENTITY bookmark_updated "Бетбелгі жаңартылды">
@@ -80,7 +80,7 @@
 <!ENTITY pref_category_advanced "Кеңейтілген">
 <!ENTITY pref_category_customize "Баптау">
 <!ENTITY pref_category_customize_summary "Үй, іздеу, беттер, импорт">
-
+<!ENTITY pref_category_customize_alt_summary "Үй, іздеу, беттер, кейінірек ашу, импорт">
 <!-- Localization note (pref_category_language) : This is the preferences
      section in which the user picks the locale in which to display Firefox
      UI. The locale includes both language and region concepts. -->
