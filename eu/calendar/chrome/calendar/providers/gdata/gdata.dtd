@@ -16,5 +16,7 @@
 <!ENTITY gdata.reminder.default "Gogorarazle lehenetsia">
 <!ENTITY gdata.reminder.action.sms.label "Bidali testu-mezu bat">
 
+<!ENTITY gdata.wizard.session.description "Mesedez hautatu sesioa edo sartu posta helbidea sesio berria sortzeko. Kontuko sesio bakarra behar duzu.">
+<!ENTITY gdata.wizard.calendars.description "Harpidetu nahi zaren egutegi eta zeregin zerrenda hautatu.">
 
-
+<!ENTITY gdata.wizard.nextstep.description "Hurrengo urratsera joan zure egutegiak konfiguratzeko.">
