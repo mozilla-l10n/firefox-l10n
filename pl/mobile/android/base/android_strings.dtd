@@ -260,12 +260,12 @@ size. -->
 <!ENTITY datareporting_crashreporter_summary "&brandShortName; może przesyłać zgłoszenia awarii, aby ułatwić organizacji &vendorShortName; poprawianie stabilności i bezpieczeństwa przeglądarki."><!-- check crashReporterDesc.label -->
 <!ENTITY datareporting_crashreporter_title_short "Awarie"><!-- check crashReporterSection.label -->
 <!ENTITY datareporting_wifi_title2 "Usługi lokalizacji organizacji &vendorShortName;">
-<!ENTITY datareporting_wifi_geolocation_summary3 "Pomóż organizacji &vendorShortName; mapować świat! Udostępniaj przybliżone informacje o lokalizacji urządzenia poprzez Wi-Fi i dane sieci komórkowej, aby pomóc ulepszać usługi geolokalizacyjne">
+<!ENTITY datareporting_wifi_geolocation_summary4 "Pomóż organizacji &vendorShortName; mapować świat! Udostępniaj przybliżone informacje o lokalizacji urządzenia poprzez Wi-Fi i dane sieci komórkowej, aby pomóc ulepszać usługi geolokalizacyjne">
 
 <!ENTITY pref_update_autodownload2 "Automatyczne aktualizacje">
 <!ENTITY pref_update_autodownload_wifi "Tylko przez Wi-Fi">
 <!ENTITY pref_update_autodownload_never "Nigdy">
-<!ENTITY pref_update_autodownload_always "Zawsze">   
+<!ENTITY pref_update_autodownload_always "Zawsze">
 
 <!-- Localization note (help_menu) : This string is used in the main menu-->
 <!ENTITY help_menu "Pomoc">
