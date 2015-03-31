@@ -14,11 +14,6 @@
 <!ENTITY resetPasswordButtonLabel "Phinda umisele">
 <!ENTITY resetPassword.title  "Phinda Umisele Igama Lokugqithisa Elingumalathindlela">
 <!ENTITY resetPassword.text  "Ukuba uphinda umisele igama lokugqithisa elingumalathindlela, onke amagama akho okugqithisa othungelwano nawemeyile alondoloziweyo, enza iinkcukacha, izatifikethi zobuqu bomntu, namaqhosha abucala aya kulityalwa. Uqinisekile ufuna ukuphinda umisele igama lakho lokugqithisa elingumalathindlela?">
-<!-- Values for getpassword.xul -->
-
-<!ENTITY getPassword.title  "Ngenisa Igama Lokugqithisa Elingumalathindlela">
-
-<!ENTITY getPassword.password.label "Igama lokugqithisa:">
 <!-- Downloading a cert -->
 
 <!ENTITY downloadCert.title "Kuthotywa Umthwalo Wesatifikethi">
@@ -49,13 +44,6 @@
 
 <!ENTITY chooseToken.title  "Khetha Ingxoxo Yomqondiso">
 <!ENTITY chooseToken.message1 "Nceda khetha umqondiso.">
-
-<!ENTITY escrowWarn.title "Ikopi yeqhosha Loguqulelo Oluntsonkothileyo">
-<!ENTITY escrowWarn.message1 "Okubalulekileyo: Lo gunyaziwe wesatifikethi ucele ukwenza ikopi egcinwayo yeqhosha labucala loguqulelo oluntsonkothileyo lwakho.">
-<!ENTITY escrowWarn.benefit1 "Inzuzo kukuba xa unokulahlekelwa lufikelelo lweqhosha labucala loguqulelo oluntsonkothileyo lwakho, usenokucela ikopi kulo gunyaziwe wesatifikethi.">
-<!ENTITY escrowWarn.message2 "Naxa kunjalo, iqhosha labucala loguqulelo oluntsonkothileyo liya kulondolozwa ngugunyaziwe wesatifikethi, kwaye lisenokusetyenziselwa ukufunda imeyile yakho yoguqulelo oluntsonkothileyo okanye amaxwebhu ngaphandle kwemvume yakho.">
-<!ENTITY examineCert.label "Isatifikethi Sokujonwa">
-<!ENTITY examineCert.accesskey "I">
 <!-- Strings for the CreateCertInfo dialog  -->
 
 <!ENTITY createCertInfo.title "Kudalwa Iqhosha Labucala">

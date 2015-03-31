@@ -37,10 +37,6 @@
 
 <!ENTITY certmgr.editcert.trustemail          "Esi satifikethi sinako ukuchonga abasebenzisi bemeyile.">
 <!ENTITY certmgr.editcert.trustobjsign        "Esi satifikethi sinako ukuchonga abenzi benkqubo ekhohliweyo.">
-<!ENTITY certmgr.editemailcert.title          "Hlela imimiselo yentembeko yesatifikethi semeyile">
-
-
-
 
 <!ENTITY certmgr.deletecert.title             "Cima Isatifikethi">
 
@@ -52,8 +48,6 @@
 <!ENTITY certmgr.expires                      "Iphelelwa Ngeli Xesha">
 <!ENTITY certmgr.email                        "Idilesi Yemeyile">
 <!ENTITY certmgr.serial                       "Inombolo Yolandelelwano">
-
-
 
 
 

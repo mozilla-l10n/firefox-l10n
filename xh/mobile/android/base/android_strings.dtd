@@ -42,6 +42,7 @@
 <!ENTITY url_bar_default_text2 "Khangela okanye ngenisa idilesi">
 
 <!ENTITY bookmark "Ibhukhmakhi">
+
 <!ENTITY bookmark_added "Iibhukhmakhi zongeziwe">
 <!ENTITY bookmark_removed "Iibhukhmakhi zisusiwe">
 <!ENTITY bookmark_updated "Iibhukhmakhi zihlaziyiwe">
@@ -79,6 +80,7 @@
 <!ENTITY pref_category_advanced "Kwinqanaba eliphambili">
 <!ENTITY pref_category_customize "Lungiselela">
 <!ENTITY pref_category_customize_summary "Ekhaya, khangela, iithebhu, ngenisa">
+
 <!-- Localization note (pref_category_language) : This is the preferences
      section in which the user picks the locale in which to display Firefox
      UI. The locale includes both language and region concepts. -->
@@ -114,6 +116,15 @@
 <!ENTITY overlay_share_no_url "Ayikho ilinki efumanekayo kolulwabelwano">
 <!ENTITY overlay_share_retry "Zama kwakhona">
 <!ENTITY overlay_share_select_device "Khetha idivayisi">
+<!-- Localization note (overlay_no_synced_devices) : Used when the menu option
+     to send a tab to a synced device is pressed and no other synced devices
+     are found. -->
+<!-- Localization note (overlay_share_tab_not_sent) : Used when the menu option
+     to send a tab to a synced device is pressed and there is an error
+     connecting to the server so the tab could not be sent. The text should be
+     divided into two lines (use the newline escape character, "\n", between
+     them): the first notifying the user about the failure and the second
+     telling the user what to do about it. -->
 
 <!ENTITY pref_category_search3 "Khangela">
 <!ENTITY pref_category_search_summary "Lungiselela izikhangeli zakho">
@@ -140,7 +151,9 @@
 <!ENTITY pref_category_devtools_summary "Ukususa ibhai ukude, ukuflesha ipeyinti">
 <!ENTITY pref_developer_paint_flashing "Ukukhanya kwepeyinti">
 <!ENTITY pref_developer_remotedebugging "Ukukhupha ibagi kude">
+
 <!ENTITY pref_remember_signons "Khumbula iipasiwedi">
+
 
 <!ENTITY pref_category_home "Ekhaya">
 <!ENTITY pref_category_home_summary "Lungiselela ikhasi lekhaya lakho">
@@ -176,6 +189,18 @@
 <!ENTITY pref_tracking_protection_summary "&brandShortName; iyakuthintela iisayithi ekukhangeleni wena">
 <!ENTITY pref_donottrack_title "Musa ukulanda umkhondo">
 <!ENTITY pref_donottrack_summary "&brandShortName; izakuxelela isayithi ukub akufundi ukulandwa">
+
+
+<!-- Localization note (tab_queue_notification_text_plural) : The
+     formatD is replaced with the number of tabs queued.  The
+     number of tabs queued is always more than one.  We can't use
+     Android plural forms, sadly. See Bug #753859. -->
+<!-- Localization note (tab_queue_notification_title_plural) : This is the
+     title of a notification; we expect more than one tab queued. -->
+<!-- Localization note (tab_queue_notification_title_singular) : This is the
+     title of a notification; we expect only one tab queued. -->
+<!-- Localization note (tab_queue_notification_text_singular) : This is the
+     text of a notification; we expect only one tab queued. -->
 
 <!ENTITY pref_char_encoding "Ukufakwa kwekhowudi kwikharekhtha">
 <!ENTITY pref_char_encoding_on "Bonisa imenyu">
@@ -271,7 +296,7 @@ size. -->
      (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
 <!ENTITY datareporting_crashreporter_title_short "Ingxelo yokonakala">
 <!ENTITY datareporting_wifi_title2 "I-&vendorShortName; Inkonzo yendawo">
-<!ENTITY datareporting_wifi_geolocation_summary3 "Nceda i-&vendorShortName; imephu yehlabathi! Yabelena ngokuma ye-Wi-Fi nendawo yeselula yesixhobo sakho ukuphucula inkonzo yethu ye-geolocation">
+
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
      actual notification that an update is available. -->
@@ -286,6 +311,7 @@ size. -->
 <!ENTITY quit "Yeka">
 
 <!ENTITY addons "Izongezelelo">
+
 
 <!ENTITY apps "Iiaplikheyishini">
 <!ENTITY char_encoding "Ukufakwa kweekhowudi kwikharakhtha">
@@ -336,6 +362,13 @@ size. -->
 <!ENTITY contextmenu_top_sites_pin "Qhobosha isayithi">
 <!ENTITY contextmenu_top_sites_unpin "Khulula isayithi">
 <!ENTITY contextmenu_add_search_engine "Yongeza injini yokukhangela">
+<!-- Localization note (doorhanger_login_no_username): This string is used in the save-login doorhanger
+     where normally a username would be displayed. In this case, no username was found, and this placeholder
+     contains brackets to indicate this is not actually a username, but rather a placeholder -->
+
+<!ENTITY doorhanger_login_edit_username_hint "Igama lomsebenzisi">
+
+
 
 <!ENTITY pref_titlebar_mode "Ibha yesihloko">
 <!ENTITY pref_titlebar_mode_title "Bonisa umxholo wephepha">
@@ -345,6 +378,8 @@ size. -->
 
 <!ENTITY pref_scroll_title_bar2 "Ukubhrawuza iskrini esipheleleyo">
 <!ENTITY pref_scroll_title_bar_summary "Fihla i-&brandShortName; umgca wesihloko xa usihlisa iphepha">
+
+
 <!-- Localization note (page_removed): This string appears in a toast message when
      any page is removed frome about:home. This includes pages that are in history,
      bookmarks, or reading list. -->
@@ -382,7 +417,7 @@ size. -->
 
 <!ENTITY masterpassword_create_title "Yila ipasiwedi eyimasta">
 <!ENTITY masterpassword_remove_title "Susa ipasiwedi esisiseko">
-<!ENTITY masterpassword_password "Ipasiwedi">
+
 <!ENTITY masterpassword_confirm "Qinisekisa ipasiwedi">
 
 <!ENTITY button_ok "Kulungile">
@@ -392,6 +427,7 @@ size. -->
 <!ENTITY button_clear_data "Susa iinkcukacha">
 <!ENTITY button_set "Iseti">
 <!ENTITY button_clear "Susa">
+<!ENTITY button_remember "Khumbula">
 
 <!ENTITY home_top_sites_title "Iisayithi eziphezulu">
 <!-- Localization note (home_top_sites_add): This string is used as placeholder
@@ -515,6 +551,13 @@ esuka kwi-Android">
 <!ENTITY bookmarkhistory_import_wait "Nceda linda...">
 
 <!ENTITY suggestions_prompt3 "Ungathanda ukuvula iingcamango zokukhangela?">
+<!--  Localization note (search_bar_item_desc): When the user clicks the url bar
+      and starts typing, a list of icons of search engines appears at the bottom
+      of the screen. When a user clicks an icon, the entered text will be searched
+      via the search engine that uses the icon they clicked. This text is used
+      for screen reader users when they hover each icon - &formatS; will be
+      replaced with the name of the currently highlighted icon. -->
+<!ENTITY search_bar_item_desc "Khangela nge-&formatS;">
 <!-- Localization note (suggestion_for_engine): The placeholder &formatS1; will be
      replaced with the name of the search engine. The placeholder &formatS2; will be
      replaced with the search query. -->

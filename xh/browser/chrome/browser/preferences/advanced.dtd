@@ -113,6 +113,7 @@
 <!ENTITY offlineAppRemove.confirm        "Shenxisa ingcombolo yangaphandle kweintanethi">
 
 <!ENTITY certificateTab.label            "Izatifikethi">
+
 <!ENTITY certSelection.description       "Xa iseva icela isatifikethi sam:">
 <!ENTITY certs.auto                      "Khetha esinye ngokuzenzekela">
 <!ENTITY certs.auto.accesskey            "S">

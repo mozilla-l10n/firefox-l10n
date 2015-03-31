@@ -63,10 +63,9 @@
 <!ENTITY  allowPagesToUse.label                   "Vumela amakhasi akhethe iifonti zawo endaweni yokukhethwe ndim ngasentla">
 <!ENTITY  allowPagesToUse.accesskey               "V">
 
-<!ENTITY languages.customize.Fallback.grouplabel  "Ukufaka Ikhowudi Kumabinzana Ngenjongo Yokuqulethweyo Okudluliswayo">
-<!ENTITY languages.customize.Fallback.label       "Wela Emva Ukufaka Ikhowudi Kumabinzana:">
-<!ENTITY languages.customize.Fallback.accesskey   "U">
-<!ENTITY languages.customize.Fallback.desc        "Oku kufaka ikhowudi kumabinzana kusetyenziselwa okuluqulethweyo okudluliswayo.">
+
+
+
 
 <!ENTITY languages.customize.Fallback.auto        "Esisiseko yeNdawo okuyo Ngoku">
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.arabic):
