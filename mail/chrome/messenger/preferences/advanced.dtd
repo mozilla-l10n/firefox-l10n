@@ -16,7 +16,7 @@
 <!ENTITY allowHWAccel.accesskey        "m">
 <!ENTITY storeType.label               "Seòrsa stòras nan teachdaireachdan airson cunntasan ùra:">
 <!ENTITY storeType.accesskey           "t">
-<!ENTITY mboxStore.label               "Aon fhaidhle mòr (mbox)">
+
 <!ENTITY maildirStore.label            "Faidhle gach teachdaireachd (maildir)">
 
 <!ENTITY scrolling.label               "Sgroladh">

@@ -70,10 +70,10 @@
 
 <!ENTITY sendDefaultCharset.label         "Post a-mach:">
 <!ENTITY sendDefaultCharset.accesskey     "P">
-<!ENTITY languagesTitle1.label            "Còdachaidhean charactairean">
-<!ENTITY composingDescription.label       "Suidhich an còdachadh charactairean bunaiteach airson post a chur 's fhaighinn">
+
+
 
 <!ENTITY viewDefaultCharsetList.label     "Post a-steach:">
 <!ENTITY viewDefaultCharsetList.accesskey  "P">
-<!ENTITY replyInDefaultCharset2.label     "Ma ghabhas sin a dhèanamh, cleachd an còdachadh charactairean bunaiteach 'nam fhreagairtean">
-<!ENTITY replyInDefaultCharset2.accesskey "h">
+
+
