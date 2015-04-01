@@ -71,9 +71,9 @@
 <!ENTITY sendDefaultCharset.label         "Ríomhphost Amach:">
 <!ENTITY sendDefaultCharset.accesskey     "m">
 <!ENTITY languagesTitle2.label            "Ionchódú Téacs">
-
+<!ENTITY composingDescription2.label      "Roghnaigh ionchódú téacs réamhshocraithe le haghaidh seolta agus glactha ríomhphoist">
 
 <!ENTITY viewDefaultCharsetList.label     "Ríomhphost Isteach:">
 <!ENTITY viewDefaultCharsetList.accesskey  "I">
-
-
+<!ENTITY replyInDefaultCharset3.label     "Más féidir, úsáid ionchódú réamhshocraithe na gcarachtar i bhfreagraí">
+<!ENTITY replyInDefaultCharset3.accesskey "h">
