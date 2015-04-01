@@ -20,8 +20,8 @@
 
 <!ENTITY calendar.deletecalendar.label          "Pašalinti pažymėtą kalendorių…">
 <!ENTITY calendar.deletecalendar.accesskey      "š">
-
-
+<!ENTITY calendar.unsubscribecalendar.label     "Atsisakyti pažymėto kalendoriaus prenumeratos…">
+<!ENTITY calendar.unsubscribecalendar.accesskey "A">
 <!-- LOCALIZATION NOTE (calendar.removecalendar.label): Removing the calendar
       is the general action of removing it, while deleting means to clear the
       data and unsubscribing means just taking it out of the calendar list. -->
