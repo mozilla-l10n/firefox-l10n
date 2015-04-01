@@ -97,6 +97,8 @@
      the panel at all.
      -->
 
+<!ENTITY downloadsHistory.label           "همۀدانلودها را نشان بده">
+<!ENTITY downloadsHistory.accesskey       "ن">
 
 <!ENTITY clearDownloadsButton.label       "پاک کردن دریافتی ها">
 <!ENTITY clearDownloadsButton.tooltip     "دانلودهای کامل شده و صرف نظر شده و شکست خورده را پاک میکند">
@@ -104,6 +106,8 @@
      This string is shown when there are no items in the Downloads view, when it
      is displayed inside a browser tab.
      -->
+
+<!ENTITY downloadsListEmpty.label         "هیچ دانلودی پیدا نشد.">
 <!-- LOCALIZATION NOTE (downloadsPanelEmpty.label):
      This string is shown when there are no items in the Downloads Panel.
      -->
@@ -113,3 +117,5 @@
      This string is shown when some search terms are specified, but there are no
      results in the Downloads view.
      -->
+
+<!ENTITY downloadsListNoMatch.label       "هیچ دانلودی در پاسخ به جست‌وجوی شما پیدا نشد.">

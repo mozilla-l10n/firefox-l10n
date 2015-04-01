@@ -5,8 +5,8 @@
 
 <!ENTITY newtab.pageTitle "زبانهٔ جدید">
 <!ENTITY newtab.customize.title "سفارشی کردن صفحه جدید تب دارتان">
-
-
+<!ENTITY newtab.customize.suggested "نمایش سایت های پیشنهادی و پربازدید شما">
+<!ENTITY newtab.customize.topsites "نمایش سایت های پربازدید شما">
 
 <!ENTITY newtab.customize.what "این صفحه چیست؟">
 <!ENTITY newtab.intro.header "این صفحه چیست؟">
