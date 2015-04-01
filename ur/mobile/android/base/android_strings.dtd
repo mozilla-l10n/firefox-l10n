@@ -3,8 +3,11 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 
-<!ENTITY  onboard_start_message2 "&brandShortName; میں خوش آمدید">
+<!ENTITY  no_space_to_start_error "&brandShortName; شروع کرنے کے لئے دستیاب کافی جگہ نہیں ہے۔">
+<!ENTITY  error_loading_file "&brandShortName; چلانے کے لئے ضروری مسلیں کو لوڈ کرنے کی کوشش کرتے وقت ایک خامی پیش آگئی">
 
+<!ENTITY  onboard_start_message2 "&brandShortName; میں خوش آمدید">
+<!ENTITY  onboard_start_subtext2 "مزید رازداری کی خصوصیات اور پہلے سے زیادہ اپنی مرضی کے مطابق کرنے کے طریقیں۔">
 
 
 <!-- Localization note: These are used as the titles of different pages on the home screen.
