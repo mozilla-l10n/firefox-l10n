@@ -42,7 +42,7 @@
 <!ENTITY url_bar_default_text2 "Caută sau introdu adresa">
 
 <!ENTITY bookmark "Semn de carte">
-
+<!ENTITY bookmark_remove "Elimină semnul de carte">
 <!ENTITY bookmark_added "Semn de carte adăugat">
 <!ENTITY bookmark_removed "Semn de carte șters">
 <!ENTITY bookmark_updated "Semn de carte actualizat">
@@ -80,7 +80,7 @@
 <!ENTITY pref_category_advanced "Avansat">
 <!ENTITY pref_category_customize "Personalizare">
 <!ENTITY pref_category_customize_summary "Pagină de start, căutare, file, importare">
-
+<!ENTITY pref_category_customize_alt_summary "Pagină de start, file, deschidere mai târziu, importare">
 <!-- Localization note (pref_category_language) : This is the preferences
      section in which the user picks the locale in which to display Firefox
      UI. The locale includes both language and region concepts. -->
@@ -119,12 +119,14 @@
 <!-- Localization note (overlay_no_synced_devices) : Used when the menu option
      to send a tab to a synced device is pressed and no other synced devices
      are found. -->
+<!ENTITY overlay_no_synced_devices "Niciun dispozitiv conectat găsit la contul Firefox">
 <!-- Localization note (overlay_share_tab_not_sent) : Used when the menu option
      to send a tab to a synced device is pressed and there is an error
      connecting to the server so the tab could not be sent. The text should be
      divided into two lines (use the newline escape character, "\n", between
      them): the first notifying the user about the failure and the second
      telling the user what to do about it. -->
+<!ENTITY overlay_share_tab_not_sent "Fila nu a putut fi trimisă.\nTe rugsăm să încerci din nou mai târziu.">
 
 <!ENTITY pref_category_search3 "Căutare">
 <!ENTITY pref_category_search_summary "Personalizează motoarele de căutare">
@@ -151,9 +153,9 @@
 <!ENTITY pref_category_devtools_summary "Depanare de la distanță, paint flashing">
 <!ENTITY pref_developer_paint_flashing "Paint flashing">
 <!ENTITY pref_developer_remotedebugging "Depanare de la distanță">
-
+<!ENTITY pref_category_logins "Autentificări">
 <!ENTITY pref_remember_signons "Reține parolele">
-
+<!ENTITY pref_manage_logins "Gestionează autentificările">
 
 <!ENTITY pref_category_home "Pagină de start">
 <!ENTITY pref_category_home_summary "Personalizează pagina de start">
@@ -190,17 +192,22 @@
 <!ENTITY pref_donottrack_title "Nu mă urmări">
 <!ENTITY pref_donottrack_summary "&brandShortName; va spune saiturilor că nu dorești să fi urmărit">
 
-
+<!ENTITY tab_queue_toast_message "Deschide mai târziu">
+<!ENTITY tab_queue_toast_action "Deschide acum">
 <!-- Localization note (tab_queue_notification_text_plural) : The
      formatD is replaced with the number of tabs queued.  The
      number of tabs queued is always more than one.  We can't use
      Android plural forms, sadly. See Bug #753859. -->
+<!ENTITY tab_queue_notification_text_plural "&formatD; file în coadă">
 <!-- Localization note (tab_queue_notification_title_plural) : This is the
      title of a notification; we expect more than one tab queued. -->
+<!ENTITY tab_queue_notification_title_plural "File în coadă">
 <!-- Localization note (tab_queue_notification_title_singular) : This is the
      title of a notification; we expect only one tab queued. -->
+<!ENTITY tab_queue_notification_title_singular "Filă în coadă">
 <!-- Localization note (tab_queue_notification_text_singular) : This is the
      text of a notification; we expect only one tab queued. -->
+<!ENTITY tab_queue_notification_text_singular "1 filă în coadă">
 
 <!ENTITY pref_char_encoding "Codare de caractere">
 <!ENTITY pref_char_encoding_on "Arată meniul">
@@ -296,7 +303,7 @@ size. -->
      (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
 <!ENTITY datareporting_crashreporter_title_short "Raportor de defecte">
 <!ENTITY datareporting_wifi_title2 "Serviciu de localizare &vendorShortName;">
-
+<!ENTITY datareporting_wifi_geolocation_summary4 "Ajută &vendorShortName; să facă harta lumii! Împărtășește locația aproximativă prin Wi-Fi și rețelele celulare ale dispozitivului pentru a îmbunătăți serviciul nostru de geolocalizare.">
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
      actual notification that an update is available. -->
@@ -311,7 +318,7 @@ size. -->
 <!ENTITY quit "Ieși">
 
 <!ENTITY addons "Suplimente">
-
+<!ENTITY logins "Autentificări">
 <!ENTITY downloads "Descărcări">
 <!ENTITY apps "Aplicații">
 <!ENTITY char_encoding "Codare caractere">
@@ -368,9 +375,11 @@ size. -->
      where normally a username would be displayed. In this case, no username was found, and this placeholder
      contains brackets to indicate this is not actually a username, but rather a placeholder -->
 
+<!ENTITY doorhanger_login_no_username "[Niciun nume de utilizator]">
+<!ENTITY doorhanger_login_edit_title "Editează autentificarea">
 <!ENTITY doorhanger_login_edit_username_hint "Utilizator">
-
-
+<!ENTITY doorhanger_login_edit_password_hint "Parolă">
+<!ENTITY doorhanger_login_edit_toggle "Arată parola">
 
 <!ENTITY pref_titlebar_mode "Bară de titlu">
 <!ENTITY pref_titlebar_mode_title "Arată titlul paginii">
@@ -381,7 +390,8 @@ size. -->
 <!ENTITY pref_scroll_title_bar2 "Navigare pe tot ecranul">
 <!ENTITY pref_scroll_title_bar_summary "Ascunde bara de titlu a &brandShortName; când derulezi în josul paginii">
 
-
+<!ENTITY pref_tab_queue_title "Deschide mai târziu">
+<!ENTITY pref_tab_queue_summary "Previne filele din a se deschide imediat, dar deschide toate filele din coadă data viitoare când &brandShortName; se încarcă.">
 <!-- Localization note (page_removed): This string appears in a toast message when
      any page is removed frome about:home. This includes pages that are in history,
      bookmarks, or reading list. -->
@@ -419,7 +429,7 @@ size. -->
 
 <!ENTITY masterpassword_create_title "Creează o parolă generală">
 <!ENTITY masterpassword_remove_title "Elimină parola generală">
-
+<!ENTITY masterpassword_password "Parolă">
 <!ENTITY masterpassword_confirm "Confirmă parola">
 
 <!ENTITY button_ok "Ok">
@@ -429,7 +439,7 @@ size. -->
 <!ENTITY button_clear_data "Curăță datele">
 <!ENTITY button_set "Setează">
 <!ENTITY button_clear "Curăță">
-
+<!ENTITY button_remember "Memorează">
 
 <!ENTITY home_top_sites_title "Saituri de top">
 <!-- Localization note (home_top_sites_add): This string is used as placeholder
