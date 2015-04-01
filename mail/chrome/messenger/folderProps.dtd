@@ -5,17 +5,17 @@
 <!ENTITY folderProps.windowtitle.label           "Lastnosti">
 
 <!ENTITY generalInfo.label                       "Splošni podatki">
-<!ENTITY folderCharsetFallback.label             "Pomožno kodiranje znakov:">
-<!ENTITY folderCharsetFallback.accesskey         "ž">
-<!ENTITY folderCharsetEnforce.label              "Uporabi kodiranje za vsa sporočila v mapi (nastavitve kodiranja znakov posameznih sporočil in samodejno zaznavanje ne bo upoštevano)">
-<!ENTITY folderCharsetEnforce.accesskey          "U">
+<!ENTITY folderCharsetFallback2.label            "Zasilno kodiranje besedila:">
+<!ENTITY folderCharsetFallback2.accesskey        "k">
+<!ENTITY folderCharsetEnforce2.label             "Uporabi kodiranje za vsa sporočila v mapi (nastavitve kodiranja besedila posameznih sporočil in samodejno zaznavanje bo prezrto)">
+<!ENTITY folderCharsetEnforce2.accesskey         "U">
 <!ENTITY folderRebuildSummaryFileTip2.label      "Obnovi kazalo za datoteko povzetkov">
 <!ENTITY folderRebuildSummaryFile2.label         "Popravi mapo">
 <!ENTITY folderRebuildSummaryFile2.accesskey     "P">
 <!ENTITY folderRebuildSummaryFile.explanation    "Včasih se kazalo za mapo (. MSF) poškoduje in je videti, kot da sporočila manjkajo ali pa se izbrisana sporočila zopet pojavijo; če mapo popravite, teh problemov verjetno ne bo več.">
 <!ENTITY folderIncludeInGlobalSearch.label       "Vključi sporočila v tej mapi v rezultate Splošnega iskanja">
 <!ENTITY folderIncludeInGlobalSearch.accesskey   "V">
-     
+
 <!ENTITY retention.label "Pravila zadrževanja">
 <!ENTITY retentionUseAccount.label  "Uporabi moje nastavitve računa">
 <!ENTITY retentionUseAccount.accesskey "U">

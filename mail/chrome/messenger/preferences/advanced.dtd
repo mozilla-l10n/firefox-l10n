@@ -16,7 +16,7 @@
 <!ENTITY allowHWAccel.accesskey        "n">
 <!ENTITY storeType.label               "Vrsta shrambe sporočil za nove račune:">
 <!ENTITY storeType.accesskey           "V">
-<!ENTITY mboxStore.label               "Ena velika datoteka (mbox)">
+<!ENTITY mboxStore2.label              "Ena datoteka na mapo (mbox)">
 <!ENTITY maildirStore.label            "Ena datoteka na sporočilo (maildir)">
 
 <!ENTITY scrolling.label               "Drsenje">

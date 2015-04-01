@@ -7,9 +7,9 @@
 
 
 
-<!ENTITY windowTitle.label "Shrani in spremeni kodiranje znakov">
+<!ENTITY windowTitle2.label "Shrani in spremeni kodiranje besedila">
 <!ENTITY documentTitleTitle.label "Naziv strani">
-<!ENTITY documentCharsetTitle.label "Kodiranje znakov">
-<!ENTITY documentCharsetDesc.label "Izberite kodiranje znakov, s katerim želite shraniti dokument:">
+<!ENTITY documentCharsetTitle2.label "Kodiranje besedila">
+<!ENTITY documentCharsetDesc2.label "Izberite kodiranje besedila, s katerim želite shraniti dokument:">
 <!ENTITY documentExportToText.label "Izvozi v besedilo">
 
