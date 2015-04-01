@@ -70,10 +70,10 @@
 
 <!ENTITY sendDefaultCharset.label         "Odlazna pošta:">
 <!ENTITY sendDefaultCharset.accesskey     "d">
-<!ENTITY languagesTitle1.label            "Kôdne stranice">
-<!ENTITY composingDescription.label       "Postavite zadane kôdne stranice za slanje i primanje pošte">
+
+
 
 <!ENTITY viewDefaultCharsetList.label     "Dolazna pošta:">
 <!ENTITY viewDefaultCharsetList.accesskey  "a">
-<!ENTITY replyInDefaultCharset2.label     "Kada je moguće, koristi zadanu kôdnu stranicu u odgovorima">
-<!ENTITY replyInDefaultCharset2.accesskey "j">
+
+

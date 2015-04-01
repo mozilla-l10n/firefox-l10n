@@ -16,7 +16,7 @@
 <!ENTITY allowHWAccel.accesskey        "h">
 <!ENTITY storeType.label               "Tip pohrane poruka za nove račune:">
 <!ENTITY storeType.accesskey           "T">
-<!ENTITY mboxStore.label               "Jedna velika datoteka (mbox)">
+
 <!ENTITY maildirStore.label            "Datoteka po poruci (maildir)">
 
 <!ENTITY scrolling.label               "Klizanje">
