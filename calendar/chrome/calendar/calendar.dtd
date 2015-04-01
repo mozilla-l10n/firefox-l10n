@@ -14,7 +14,7 @@
 
 <!ENTITY calendar.today.button.label        "오늘" >
 <!ENTITY calendar.tomorrow.button.label       "내일">
-<!ENTITY calendar.soon.button.label           "Soon">
+<!ENTITY calendar.upcoming.button.label           "곧">
 
 <!ENTITY calendar.events.filter.all.label "모든 이벤트">
 <!ENTITY calendar.events.filter.today.label "오늘의 이벤트">
@@ -232,8 +232,17 @@
 <!ENTITY calendar.context.newserver.accesskey          "N">
 <!ENTITY calendar.context.findcalendar.label           "캘린더 찾기" >
 <!ENTITY calendar.context.findcalendar.accesskey       "F" >
-<!ENTITY calendar.context.deleteserver.label			"캘린더 삭제">
-<!ENTITY calendar.context.deleteserver.accesskey		"D">
+<!ENTITY calendar.context.deleteserver2.label			"캘린더 삭제">
+<!ENTITY calendar.context.deleteserver2.accesskey		"D">
+
+<!-- LOCALIZATION NOTE (calendar.context.removeserver.label): Removing the
+      calendar is the general action of removing it, while deleting means to
+      clear the data and unsubscribing means just taking it out of the calendar
+      list. -->
+<!ENTITY calendar.context.removeserver.label           "캘린더 제거…">
+<!ENTITY calendar.context.removeserver.accesskey       "R">
+<!ENTITY calendar.context.unsubscribeserver.label      "캘린더 구독 취소…">
+<!ENTITY calendar.context.unsubscribeserver.accesskey  "U">
 <!ENTITY calendar.context.synccalendars.label		"캘린더 동기화">
 <!ENTITY calendar.context.synccalendars.accesskey	"S">
 <!ENTITY calendar.context.publish.label                "캘린더 게시…">
