@@ -14,7 +14,7 @@
 
 <!ENTITY calendar.today.button.label          "Šiandiena">
 <!ENTITY calendar.tomorrow.button.label       "Rytdiena">
-
+<!ENTITY calendar.upcoming.button.label       "Netrukus">
 
 <!ENTITY calendar.events.filter.all.label "Visi įvykiai">
 <!ENTITY calendar.events.filter.today.label "Šios dienos įvykiai">
