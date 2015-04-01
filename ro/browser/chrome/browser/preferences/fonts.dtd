@@ -64,9 +64,9 @@
 <!ENTITY  allowPagesToUse.accesskey               "a">
 
 <!ENTITY languages.customize.Fallback2.grouplabel "Codare de text pentru conținut moștenit">
-
-
-
+<!ENTITY languages.customize.Fallback2.label      "Codare de rezervă pentru text:">
+<!ENTITY languages.customize.Fallback2.accesskey  "t">
+<!ENTITY languages.customize.Fallback2.desc       "Această codare de text este utilizată pentru conținutul moștenit care nu reușește să declare codificarea sa.">
 
 <!ENTITY languages.customize.Fallback.auto        "Implicit pentru limba curentă">
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.arabic):
