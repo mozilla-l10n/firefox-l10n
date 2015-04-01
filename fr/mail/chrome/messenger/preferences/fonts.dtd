@@ -71,10 +71,10 @@
 <!-- Language settings -->
 <!ENTITY sendDefaultCharset.label                 "Courrier sortant :">
 <!ENTITY sendDefaultCharset.accesskey             "u">
-<!ENTITY languagesTitle1.label                    "Encodage des caractères">
-<!ENTITY composingDescription.label               "Réglage de l'encodage de caractères par défaut pour l'envoi et la réception de courrier">
+<!ENTITY languagesTitle2.label                    "Encodage du texte">
+<!ENTITY composingDescription2.label              "Réglage de l'encodage de texte par défaut pour l'envoi et la réception de courrier">
 
 <!ENTITY viewDefaultCharsetList.label             "Courrier entrant :">
 <!ENTITY viewDefaultCharsetList.accesskey         "i">
-<!ENTITY replyInDefaultCharset2.label             "Quand c'est possible, utiliser l'encodage par défaut dans les réponses">
-<!ENTITY replyInDefaultCharset2.accesskey         "Q">
+<!ENTITY replyInDefaultCharset3.label             "Quand c'est possible, utiliser l'encodage par défaut dans les réponses">
+<!ENTITY replyInDefaultCharset3.accesskey         "Q">

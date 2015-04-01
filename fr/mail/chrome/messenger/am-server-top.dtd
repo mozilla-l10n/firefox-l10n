@@ -74,7 +74,7 @@
 <!ENTITY abbreviateOff.label "des noms abrégés (par exemple « m.d.a.thunderbird »)">
 <!ENTITY advancedButton.label "Avancés…">
 <!ENTITY advancedButton.accesskey "s">
-<!ENTITY serverDefaultCharset.label "Encodage de caractères par défaut :">
+<!ENTITY serverDefaultCharset2.label "Encodage de texte par défaut :">
 <!ENTITY localPath.label "Répertoire local :">
 <!ENTITY localFolderPicker.label "Sélection du répertoire local">
 <!ENTITY browseFolder.label "Parcourir…">
@@ -86,5 +86,5 @@
 <!ENTITY accountSettingsDesc.label "Ce compte est spécial, aucune identité ne lui est associée.">
 <!ENTITY storeType.label "Type de stockage des messages :">
 <!ENTITY storeType.accesskey "k">
-<!ENTITY mboxStore.label "Un seul fichier (mbox)">
+<!ENTITY mboxStore2.label "Un fichier par dossier (mbox)">
 <!ENTITY maildirStore.label "Un fichier par message (maildir)">

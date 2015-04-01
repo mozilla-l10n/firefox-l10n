@@ -40,6 +40,7 @@
 <!ENTITY threadColumn.label "Discussion">
 <!ENTITY fromColumn.label "Expéditeur">
 <!ENTITY recipientColumn.label "Destinataire">
+<!ENTITY correspondentColumn.label "Correspondants">
 <!ENTITY subjectColumn.label "Sujet">
 <!ENTITY dateColumn.label "Date">
 <!ENTITY priorityColumn.label "Priorité">
@@ -61,6 +62,7 @@
 <!ENTITY threadColumn2.tooltip "Afficher les fils de discussion"> 
 <!ENTITY fromColumn2.tooltip "Trier par expéditeur">
 <!ENTITY recipientColumn2.tooltip "Trier par destinataire">
+<!ENTITY correspondentColumn2.tooltip "Trier par correspondants">
 <!ENTITY subjectColumn2.tooltip "Trier par sujet">
 <!ENTITY dateColumn2.tooltip "Trier par date">
 <!ENTITY priorityColumn2.tooltip "Trier par priorité">

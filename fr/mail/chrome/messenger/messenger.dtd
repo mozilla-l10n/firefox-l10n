@@ -194,7 +194,9 @@
 <!ENTITY sortByFromCmd.label "Expéditeur">
 <!ENTITY sortByFromCmd.accesskey "x">
 <!ENTITY sortByRecipientCmd.label "Destinataire">
-<!ENTITY sortByRecipientCmd.accesskey "D">
+<!ENTITY sortByRecipientCmd.accesskey "i">
+<!ENTITY sortByCorrespondentCmd.label "Correspondants">
+<!ENTITY sortByCorrespondentCmd.accesskey "d">
 <!ENTITY sortByUnreadCmd.label "Lu">
 <!ENTITY sortByUnreadCmd.accesskey "L">
 <!ENTITY sortByOrderReceivedCmd.label "Ordre de réception">
@@ -662,6 +664,7 @@
 <!ENTITY threadColumn.label "Discussion">
 <!ENTITY fromColumn.label "Expéditeur">
 <!ENTITY recipientColumn.label "Destinataire">
+<!ENTITY correspondentColumn.label "Correspondants">
 <!ENTITY subjectColumn.label "Sujet">
 <!ENTITY dateColumn.label "Date">
 <!ENTITY priorityColumn.label "Priorité">
@@ -685,6 +688,7 @@
 <!ENTITY threadColumn2.tooltip "Afficher les fils de discussion"> 
 <!ENTITY fromColumn2.tooltip "Trier par expéditeur">
 <!ENTITY recipientColumn2.tooltip "Trier par destinataire">
+<!ENTITY correspondentColumn2.tooltip "Trier par correspondants">
 <!ENTITY subjectColumn2.tooltip "Trier par sujet">
 <!ENTITY dateColumn2.tooltip "Trier par date">
 <!ENTITY priorityColumn2.tooltip "Trier par priorité">

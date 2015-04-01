@@ -21,5 +21,5 @@
 <!ENTITY return.label                     "Accusés de réception">
 <!ENTITY junk.label                       "Indésirables et suspects">
 <!ENTITY tags.label                       "Étiquettes">
-<!ENTITY characterEncoding.label          "Encodage des caractères">
+<!ENTITY characterEncoding2.label         "Encodage du texte">
 <!ENTITY networkStorage.label             "Réseau et stockage">
