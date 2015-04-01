@@ -145,8 +145,8 @@
 <!ENTITY messagePaneVertical.accesskey "V">
 <!ENTITY showFolderPaneCmd.label "Aplankų sąrašas">
 <!ENTITY showFolderPaneCmd.accesskey "A">
-
-
+<!ENTITY showFolderPaneColsCmd.label "Aplankų sąrašo stulpeliai">
+<!ENTITY showFolderPaneColsCmd.accesskey "s">
 <!ENTITY showMessageCmd.label "Laiško teksto polangis">
 <!ENTITY showMessageCmd.accesskey "L">
 
@@ -192,10 +192,10 @@
 <!ENTITY sortByFromCmd.accesskey "n">
 <!ENTITY sortByRecipientCmd.label "Gavėjas">
 <!ENTITY sortByRecipientCmd.accesskey "ė">
-
-
+<!ENTITY sortByCorrespondentCmd.label "Korespondentai">
+<!ENTITY sortByCorrespondentCmd.accesskey "K">
 <!ENTITY sortByUnreadCmd.label "Skaitytas">
-<!ENTITY sortByUnreadCmd.accesskey "k">
+<!ENTITY sortByUnreadCmd.accesskey "S">
 <!ENTITY sortByOrderReceivedCmd.label "Gavimo eilė">
 <!ENTITY sortByOrderReceivedCmd.accesskey "v">
 <!ENTITY sortAscending.label "Didėjančiai">
@@ -660,7 +660,7 @@
 <!ENTITY threadColumn.label "Gija">
 <!ENTITY fromColumn.label "Siuntėjas">
 <!ENTITY recipientColumn.label "Gavėjas">
-
+<!ENTITY correspondentColumn.label "Korespondentai">
 <!ENTITY subjectColumn.label "Tema">
 <!ENTITY dateColumn.label "Data ir laikas">
 <!ENTITY priorityColumn.label "Prioritetas">
@@ -683,7 +683,7 @@
 <!ENTITY threadColumn2.tooltip "Rodyti laiškų gijas">
 <!ENTITY fromColumn2.tooltip "Rikiuoti pagal siuntėją">
 <!ENTITY recipientColumn2.tooltip "Rikiuoti pagal gavėją">
-
+<!ENTITY correspondentColumn2.tooltip "Rikiuoti pagal korespondentus">
 <!ENTITY subjectColumn2.tooltip "Rikiuoti pagal temą">
 <!ENTITY dateColumn2.tooltip "Rikiuoti pagal datą">
 <!ENTITY priorityColumn2.tooltip "Rikiuoti pagal prioritetą">
