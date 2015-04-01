@@ -74,7 +74,7 @@
 <!ENTITY abbreviateOff.label "Zkracovat jména (např.: 'n.p.m.mail-news')">
 <!ENTITY advancedButton.label "Rozšířené…">
 <!ENTITY advancedButton.accesskey "R">
-<!ENTITY serverDefaultCharset.label "Výchozí znaková sada:">
+<!ENTITY serverDefaultCharset.label "Výchozí kódování textu:">
 <!ENTITY localPath.label "Místní adresář:">
 <!ENTITY localFolderPicker.label "Vyberte místní adresář">
 <!ENTITY browseFolder.label "Procházet…">
@@ -86,5 +86,5 @@
 <!ENTITY accountSettingsDesc.label "Toto je speciální účet. Tento účet nemá přiřazeny žádné identity.">
 <!ENTITY storeType.label "Typ úložiště zpráv:">
 <!ENTITY storeType.accesskey "T">
-<!ENTITY mboxStore.label "Jeden velký soubor (mbox)">
+<!ENTITY mboxStore2.label "Soubor pro každou složku (mbox)">
 <!ENTITY maildirStore.label "Soubor pro každou zprávu (maildir)">

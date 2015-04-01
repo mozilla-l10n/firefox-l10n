@@ -5,10 +5,10 @@
 <!ENTITY folderProps.windowtitle.label "Vlastnosti">
 
 <!ENTITY generalInfo.label "Obecné informace">
-<!ENTITY folderCharsetFallback.label             "Výchozí znaková sada:">
-<!ENTITY folderCharsetFallback.accesskey         "s">
-<!ENTITY folderCharsetEnforce.label              "Použít výchozí nastavení pro všechny zprávy (ignorovat znakovou sadu specifikovanou v MIME hlavičce)">
-<!ENTITY folderCharsetEnforce.accesskey          "a">
+<!ENTITY folderCharsetFallback2.label            "Výchozí kódování textu:">
+<!ENTITY folderCharsetFallback2.accesskey        "k">
+<!ENTITY folderCharsetEnforce2.label             "Použít kódování pro všechny zprávy ve složce (individuální kódování textu zprávy nebo automatická detekce bude ignorována)">
+<!ENTITY folderCharsetEnforce2.accesskey         "a">
 <!ENTITY folderRebuildSummaryFileTip2.label "Obnoví indexový soubor">
 <!ENTITY folderRebuildSummaryFile2.label "Opravit složku">
 <!ENTITY folderRebuildSummaryFile2.accesskey "O">

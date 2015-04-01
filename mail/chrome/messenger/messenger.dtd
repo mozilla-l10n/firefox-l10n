@@ -192,6 +192,8 @@
 <!ENTITY sortByFromCmd.accesskey "O">
 <!ENTITY sortByRecipientCmd.label "Příjemce">
 <!ENTITY sortByRecipientCmd.accesskey "c">
+<!ENTITY sortByCorrespondentCmd.label "Korespondenti">
+<!ENTITY sortByCorrespondentCmd.accesskey "K">
 <!ENTITY sortByUnreadCmd.label "Přečtené">
 <!ENTITY sortByUnreadCmd.accesskey "n">
 <!ENTITY sortByOrderReceivedCmd.label "Pořadí přijetí">
@@ -658,6 +660,7 @@
 <!ENTITY threadColumn.label "Vlákno">
 <!ENTITY fromColumn.label "Od">
 <!ENTITY recipientColumn.label "Příjemce">
+<!ENTITY correspondentColumn.label "Korespondenti">
 <!ENTITY subjectColumn.label "Předmět">
 <!ENTITY dateColumn.label "Datum">
 <!ENTITY priorityColumn.label "Priorita">
@@ -680,6 +683,7 @@
 <!ENTITY threadColumn2.tooltip "Zobrazíte vlákna zpráv">
 <!ENTITY fromColumn2.tooltip "Seřadíte podle odesílatele">
 <!ENTITY recipientColumn2.tooltip "Seřadíte podle příjemce">
+<!ENTITY correspondentColumn2.tooltip "Seřadíte podle korespondentů">
 <!ENTITY subjectColumn2.tooltip "Seřadíte podle předmětu">
 <!ENTITY dateColumn2.tooltip "Seřadíte podle data">
 <!ENTITY priorityColumn2.tooltip "Seřadíte podle priority">
