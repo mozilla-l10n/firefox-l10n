@@ -10,6 +10,7 @@
 
 <!ENTITY aboutTelemetry.generalDataSection "  Date generale">
 
+
 <!ENTITY aboutTelemetry.slowSqlSection "  Declarații SQL lente">
 
 <!ENTITY aboutTelemetry.chromeHangsSection "  Blocări navigator">

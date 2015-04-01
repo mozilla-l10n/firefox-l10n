@@ -42,6 +42,7 @@
 <!ENTITY url_bar_default_text2 "Caută sau introdu adresa">
 
 <!ENTITY bookmark "Semn de carte">
+
 <!ENTITY bookmark_added "Semn de carte adăugat">
 <!ENTITY bookmark_removed "Semn de carte șters">
 <!ENTITY bookmark_updated "Semn de carte actualizat">
@@ -79,6 +80,7 @@
 <!ENTITY pref_category_advanced "Avansat">
 <!ENTITY pref_category_customize "Personalizare">
 <!ENTITY pref_category_customize_summary "Pagină de start, căutare, file, importare">
+
 <!-- Localization note (pref_category_language) : This is the preferences
      section in which the user picks the locale in which to display Firefox
      UI. The locale includes both language and region concepts. -->
@@ -114,6 +116,15 @@
 <!ENTITY overlay_share_no_url "Nicio legătură nu a fost găsită în această partajare">
 <!ENTITY overlay_share_retry "Încearcă din nou">
 <!ENTITY overlay_share_select_device "Selectează un dispozitiv">
+<!-- Localization note (overlay_no_synced_devices) : Used when the menu option
+     to send a tab to a synced device is pressed and no other synced devices
+     are found. -->
+<!-- Localization note (overlay_share_tab_not_sent) : Used when the menu option
+     to send a tab to a synced device is pressed and there is an error
+     connecting to the server so the tab could not be sent. The text should be
+     divided into two lines (use the newline escape character, "\n", between
+     them): the first notifying the user about the failure and the second
+     telling the user what to do about it. -->
 
 <!ENTITY pref_category_search3 "Căutare">
 <!ENTITY pref_category_search_summary "Personalizează motoarele de căutare">
@@ -140,7 +151,9 @@
 <!ENTITY pref_category_devtools_summary "Depanare de la distanță, paint flashing">
 <!ENTITY pref_developer_paint_flashing "Paint flashing">
 <!ENTITY pref_developer_remotedebugging "Depanare de la distanță">
+
 <!ENTITY pref_remember_signons "Reține parolele">
+
 
 <!ENTITY pref_category_home "Pagină de start">
 <!ENTITY pref_category_home_summary "Personalizează pagina de start">
@@ -176,6 +189,18 @@
 <!ENTITY pref_tracking_protection_summary "&brandShortName; va împiedica saiturile să te urmărească">
 <!ENTITY pref_donottrack_title "Nu mă urmări">
 <!ENTITY pref_donottrack_summary "&brandShortName; va spune saiturilor că nu dorești să fi urmărit">
+
+
+<!-- Localization note (tab_queue_notification_text_plural) : The
+     formatD is replaced with the number of tabs queued.  The
+     number of tabs queued is always more than one.  We can't use
+     Android plural forms, sadly. See Bug #753859. -->
+<!-- Localization note (tab_queue_notification_title_plural) : This is the
+     title of a notification; we expect more than one tab queued. -->
+<!-- Localization note (tab_queue_notification_title_singular) : This is the
+     title of a notification; we expect only one tab queued. -->
+<!-- Localization note (tab_queue_notification_text_singular) : This is the
+     text of a notification; we expect only one tab queued. -->
 
 <!ENTITY pref_char_encoding "Codare de caractere">
 <!ENTITY pref_char_encoding_on "Arată meniul">
@@ -271,7 +296,7 @@ size. -->
      (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
 <!ENTITY datareporting_crashreporter_title_short "Raportor de defecte">
 <!ENTITY datareporting_wifi_title2 "Serviciu de localizare &vendorShortName;">
-<!ENTITY datareporting_wifi_geolocation_summary3 "Ajută &vendorShortName; să facă harta lumii! Împărtășește locația aproximativă prin Wi-Fi și rețelele celulare ale dispozitivului pentru a îmbunătăți serviciul nostru de geolocalizare">
+
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
      actual notification that an update is available. -->
@@ -286,6 +311,7 @@ size. -->
 <!ENTITY quit "Ieși">
 
 <!ENTITY addons "Suplimente">
+
 <!ENTITY downloads "Descărcări">
 <!ENTITY apps "Aplicații">
 <!ENTITY char_encoding "Codare caractere">
@@ -338,6 +364,13 @@ size. -->
 <!ENTITY contextmenu_top_sites_pin "Fixează saitul">
 <!ENTITY contextmenu_top_sites_unpin "Anulează fixarea saitului">
 <!ENTITY contextmenu_add_search_engine "Adaugă motor de căutare">
+<!-- Localization note (doorhanger_login_no_username): This string is used in the save-login doorhanger
+     where normally a username would be displayed. In this case, no username was found, and this placeholder
+     contains brackets to indicate this is not actually a username, but rather a placeholder -->
+
+<!ENTITY doorhanger_login_edit_username_hint "Utilizator">
+
+
 
 <!ENTITY pref_titlebar_mode "Bară de titlu">
 <!ENTITY pref_titlebar_mode_title "Arată titlul paginii">
@@ -347,6 +380,8 @@ size. -->
 
 <!ENTITY pref_scroll_title_bar2 "Navigare pe tot ecranul">
 <!ENTITY pref_scroll_title_bar_summary "Ascunde bara de titlu a &brandShortName; când derulezi în josul paginii">
+
+
 <!-- Localization note (page_removed): This string appears in a toast message when
      any page is removed frome about:home. This includes pages that are in history,
      bookmarks, or reading list. -->
@@ -384,7 +419,7 @@ size. -->
 
 <!ENTITY masterpassword_create_title "Creează o parolă generală">
 <!ENTITY masterpassword_remove_title "Elimină parola generală">
-<!ENTITY masterpassword_password "Parolă">
+
 <!ENTITY masterpassword_confirm "Confirmă parola">
 
 <!ENTITY button_ok "Ok">
@@ -394,6 +429,7 @@ size. -->
 <!ENTITY button_clear_data "Curăță datele">
 <!ENTITY button_set "Setează">
 <!ENTITY button_clear "Curăță">
+
 
 <!ENTITY home_top_sites_title "Saituri de top">
 <!-- Localization note (home_top_sites_add): This string is used as placeholder
@@ -517,6 +553,13 @@ din Android">
 <!ENTITY bookmarkhistory_import_wait "Te rugăm să aștepți...">
 
 <!ENTITY suggestions_prompt3 "Dorești să pornești sugestiile de căutare?">
+<!--  Localization note (search_bar_item_desc): When the user clicks the url bar
+      and starts typing, a list of icons of search engines appears at the bottom
+      of the screen. When a user clicks an icon, the entered text will be searched
+      via the search engine that uses the icon they clicked. This text is used
+      for screen reader users when they hover each icon - &formatS; will be
+      replaced with the name of the currently highlighted icon. -->
+<!ENTITY search_bar_item_desc "Caută cu &formatS;">
 <!-- Localization note (suggestion_for_engine): The placeholder &formatS1; will be
      replaced with the name of the search engine. The placeholder &formatS2; will be
      replaced with the search query. -->
