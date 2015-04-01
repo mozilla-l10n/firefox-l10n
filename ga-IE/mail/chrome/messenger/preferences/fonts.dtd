@@ -70,7 +70,7 @@
 
 <!ENTITY sendDefaultCharset.label         "Ríomhphost Amach:">
 <!ENTITY sendDefaultCharset.accesskey     "m">
-
+<!ENTITY languagesTitle2.label            "Ionchódú Téacs">
 
 
 <!ENTITY viewDefaultCharsetList.label     "Ríomhphost Isteach:">
