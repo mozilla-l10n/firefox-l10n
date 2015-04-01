@@ -3,20 +3,21 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY itemGeneral.label       "Allgemein">
+<!ENTITY dataChoicesTab.label    "Datenübermittlung">
 <!ENTITY itemDisplay.label       "Lesen &amp; Ansicht">
 <!ENTITY itemUpdate.label        "Update">
 <!ENTITY itemNetworking.label    "Netzwerk &amp; Speicherplatz">
 <!ENTITY itemCertificates.label  "Zertifikate">
 
 <!-- General Settings -->
-
-<!ENTITY submitTelemetry.label         "Performanz-Daten senden">
-<!ENTITY submitTelemetry.accesskey     "P">
-<!ENTITY telemetryInfoLink.label       "Weitere Informationen über Telemetrie">
 <!ENTITY enableGlodaSearch.label       "Globale Suche und Nachrichtenindizierung aktivieren">
 <!ENTITY enableGlodaSearch.accesskey   "N">
 <!ENTITY allowHWAccel.label            "Hardwarebeschleunigung verwenden, wenn verfügbar">
 <!ENTITY allowHWAccel.accesskey        "H">
+<!ENTITY storeType.label               "Speichermethode für neue Konten:">
+<!ENTITY storeType.accesskey           "m">
+<!ENTITY mboxStore.label               "Eine Datei pro Ordner (mbox)">
+<!ENTITY maildirStore.label            "Eine Datei pro Nachricht (maildir)">
 
 <!ENTITY scrolling.label               "Bildlauf">
 <!ENTITY useAutoScroll.label           "Automatischen Bildlauf aktivieren">
@@ -37,6 +38,19 @@
 <!ENTITY returnReceiptsInfo.label      "Den Umgang mit Empfangsbestätigungen (MDN) regeln:">
 <!ENTITY showReturnReceipts.label      "Empfangsbestätigungen…">
 <!ENTITY showReturnReceipts.accesskey  "E">
+
+<!-- Data Choices -->
+<!ENTITY telemetrySection.label          "Telemetrie">
+<!ENTITY telemetryDesc.label             "Übermittelt Anwendungsdaten wie Performanz, Nutzung, Hardware und Benutzeranpassungen des E-Mail-Programms an &vendorShortName;, um &brandShortName; zu verbessern.">
+<!ENTITY enableTelemetry.label           "Telemetrie aktivieren">
+<!ENTITY enableTelemetry.accesskey       "T">
+<!ENTITY telemetryLearnMore.label        "Weitere Informationen">
+
+<!ENTITY crashReporterSection.label      "Absturzmelder">
+<!ENTITY crashReporterDesc.label         "&brandShortName; übermittelt Absturzberichte, um &vendorShortName; dabei zu helfen, das E-Mail-Programm stabiler und sicherer zu machen.">
+<!ENTITY enableCrashReporter.label       "Absturzmelder aktivieren">
+<!ENTITY enableCrashReporter.accesskey   "A">
+<!ENTITY crashReporterLearnMore.label    "Weitere Informationen">
 
 <!-- Display and Reading Settings -->
 <!ENTITY reading.caption                "Lesen">
