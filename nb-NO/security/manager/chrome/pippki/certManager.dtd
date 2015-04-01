@@ -80,7 +80,7 @@
 <!ENTITY certmgr.fields.label                 "Feltverdi">
 <!ENTITY certmgr.fields.accesskey             "F">
 <!ENTITY certmgr.hierarchy.label              "Sertifikathierarki">
-<!ENTITY certmgr.hierarchy.accesskey          "k">
+<!ENTITY certmgr.hierarchy.accesskey2         "k">
 <!ENTITY certmgr.addException.label           "Legg til unntak …">
 <!ENTITY certmgr.addException.accesskey       "e">
 
