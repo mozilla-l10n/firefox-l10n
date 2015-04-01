@@ -74,7 +74,7 @@
 <!ENTITY abbreviateOff.label "Nume abreviate (ex: „n.p.m.mail-news”)">
 <!ENTITY advancedButton.label "Avansat…">
 <!ENTITY advancedButton.accesskey "v">
-
+<!ENTITY serverDefaultCharset2.label "Codarea implicită pentru text:">
 <!ENTITY localPath.label "Director local:">
 <!ENTITY localFolderPicker.label "Alegeți directorul local">
 <!ENTITY browseFolder.label "Răsfoiește…">
@@ -86,5 +86,5 @@
 <!ENTITY accountSettingsDesc.label "Acesta este un cont special. Cu acesta nu sunt asociate identități.">
 <!ENTITY storeType.label "Tipul de stocare al mesajelor:">
 <!ENTITY storeType.accesskey "T">
-
+<!ENTITY mboxStore2.label "Fișier per dosar (mbox)">
 <!ENTITY maildirStore.label "Fișiere per mesaj (maildir)">
