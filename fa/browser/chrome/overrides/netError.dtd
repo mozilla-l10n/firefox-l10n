@@ -17,7 +17,7 @@
 <!ENTITY deniedPortAccess.longDesc "">
 
 <!ENTITY dnsNotFound.title "کارگزار پیدا نشد">
-<!ENTITY dnsNotFound.longDesc "<ul> <li>نشانی را بررسی کنید که مثلاً <span dir='ltr'><strong>ww</strong>.‪example.com‬</span> به طور اشتباه به جای <span dir='ltr'><strong>www</strong>.example.com</span> وارد نشده باشد.</li> <li>اگر نمی‌توانید هیچ صفحه‌ای را مرور کنید، اتصال شبکهٔ رایانه را بررسی کنید.</li> <li>اگر رایانه یا شبکهٔ شما توسط کارگزار یا دیوارآتش محافظت می‌شود مطمئن شوید که &brandShortName; اجازهٔ دسترسی به وب را دارد.</li> </ul>">
+
 
 <!ENTITY fileNotFound.title "پرونده پیدا نشد">
 <!ENTITY fileNotFound.longDesc "<ul> <li>صحتِ نام پرونده را بررسی کنید.</li> <li>بررسی کنید که آیا پرونده جابه‌جا شده، تغییر نام یافته، یا پاک شده است.</li> </ul>">

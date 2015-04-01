@@ -22,7 +22,7 @@
 <!ENTITY  generalReferrer       "نشانی اینترنتی ارجاع کننده:">
 <!ENTITY  generalSource         "متن در حافظهٔ نهان:">
 <!ENTITY  generalModified       "زمان تغییر:">
-
+<!ENTITY  generalEncoding2      "کدگذاری متن:">
 <!ENTITY  generalMetaName       "نام">
 <!ENTITY  generalMetaContent    "محتوا">
 
