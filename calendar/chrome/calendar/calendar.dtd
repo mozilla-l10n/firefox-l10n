@@ -240,8 +240,10 @@
       clear the data and unsubscribing means just taking it out of the calendar
       list. -->
 
-
-
+<!ENTITY calendar.context.removeserver.label           "Pašalinti kalendorių…">
+<!ENTITY calendar.context.removeserver.accesskey       "š">
+<!ENTITY calendar.context.unsubscribeserver.label      "Atsisakyti kalendoriaus prenumeratos…">
+<!ENTITY calendar.context.unsubscribeserver.accesskey  "A">
 <!ENTITY calendar.context.synccalendars.label          "Sinchronizuoti kalendorius">
 <!ENTITY calendar.context.synccalendars.accesskey      "S">
 <!ENTITY calendar.context.publish.label                "Publikuoti šį kalendorių">
