@@ -14,8 +14,8 @@
 <!ENTITY pref.dateformat.short "Laburra"  >
 
 <!ENTITY pref.timezones.caption "Ordu zonaldeak">
-
-
+<!ENTITY pref.timezones.label "Zure ordu zonalde gertueneko hiria hautatu:">
+<!ENTITY pref.timezones.accesskey "Z">
 
 <!ENTITY pref.defaults.label "Elementu berrien balio lehenetsiak">
 <!ENTITY pref.events.label "Gertaerak">
