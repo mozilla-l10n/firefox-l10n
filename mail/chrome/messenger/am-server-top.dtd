@@ -71,7 +71,7 @@
 <!ENTITY abbreviateOff.label "Abbreviate names (For example, 'n.p.m.mail-news')">
 <!ENTITY advancedButton.label "پیشرفته…">
 <!ENTITY advancedButton.accesskey "پ">
-<!ENTITY serverDefaultCharset.label "کدگذاری پیش‌فرض نویسه‌ها:">
+
 <!ENTITY localPath.label "Local directory:">
 <!ENTITY localFolderPicker.label "Select Local Directory">
 <!ENTITY browseFolder.label "مرور…">

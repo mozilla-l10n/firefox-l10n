@@ -188,6 +188,8 @@
 <!ENTITY sortByFromCmd.accesskey "F">
 <!ENTITY sortByRecipientCmd.label "Recipient">
 <!ENTITY sortByRecipientCmd.accesskey "c">
+
+
 <!ENTITY sortByUnreadCmd.label "Read">
 <!ENTITY sortByUnreadCmd.accesskey "R">
 <!ENTITY sortByOrderReceivedCmd.label "Order Received">
@@ -640,6 +642,7 @@
 <!ENTITY threadColumn.label "Thread">
 <!ENTITY fromColumn.label "From">
 <!ENTITY recipientColumn.label "Recipient">
+
 <!ENTITY subjectColumn.label "موضوع">
 <!ENTITY dateColumn.label "تاریخ">
 <!ENTITY priorityColumn.label "Priority">
@@ -657,6 +660,7 @@
 <!ENTITY idColumn.label "Order Received">
 
 <!-- Thread Pane Tooltips -->
+
 
 
 

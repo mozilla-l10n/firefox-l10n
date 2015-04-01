@@ -109,6 +109,7 @@
 <!ENTITY offlineAppRemove.confirm        "حذف اطلاعات غیر متصل">
 
 <!ENTITY certificateTab.label            "گواهی‌ها">
+
 <!ENTITY certSelection.description       "هنگامی که کارگزاری گواهی شخصی من را درخواست می‌کند:">
 <!ENTITY certs.auto                      "به طور خودکار انتخاب شود">
 
