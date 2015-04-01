@@ -15,8 +15,8 @@
 <!ENTITY saveCmd.accesskey "S">
 <!ENTITY saveAsCmd.label "Salvează ca…">
 <!ENTITY saveAsCmd.accesskey "a">
-
-
+<!ENTITY saveAsChangeEncodingCmd2.label "Salvează și schimbă codarea de caractere">
+<!ENTITY saveAsChangeEncodingCmd2.accesskey "e">
 <!ENTITY publishCmd.label "Publică">
 <!ENTITY publishCmd.accesskey "b">
 <!ENTITY publishCmd.key "P">

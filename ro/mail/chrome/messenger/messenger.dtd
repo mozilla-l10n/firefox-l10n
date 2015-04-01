@@ -192,8 +192,8 @@
 <!ENTITY sortByFromCmd.accesskey "E">
 <!ENTITY sortByRecipientCmd.label "Destinatar">
 <!ENTITY sortByRecipientCmd.accesskey "t">
-
-
+<!ENTITY sortByCorrespondentCmd.label "Corespondenți">
+<!ENTITY sortByCorrespondentCmd.accesskey "e">
 <!ENTITY sortByUnreadCmd.label "Citire">
 <!ENTITY sortByUnreadCmd.accesskey "r">
 <!ENTITY sortByOrderReceivedCmd.label "Ordinea primirii">
@@ -660,7 +660,7 @@
 <!ENTITY threadColumn.label "Conversație">
 <!ENTITY fromColumn.label "Expeditor">
 <!ENTITY recipientColumn.label "Destinatar">
-
+<!ENTITY correspondentColumn.label "Corespondenți">
 <!ENTITY subjectColumn.label "Subiect">
 <!ENTITY dateColumn.label "Dată">
 <!ENTITY priorityColumn.label "Prioritate">
