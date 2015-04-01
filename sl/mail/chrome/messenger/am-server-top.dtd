@@ -74,7 +74,7 @@
 <!ENTITY abbreviateOff.label "Skrajšaj imena (Na primer, 'n.p.m.mail-news')">
 <!ENTITY advancedButton.label "Napredno …">
 <!ENTITY advancedButton.accesskey "N">
-<!ENTITY serverDefaultCharset.label "Privzeto kodiranje znakov:">
+<!ENTITY serverDefaultCharset2.label "Privzeto kodiranje besedila:">
 <!ENTITY localPath.label "Krajevni imenik:">
 <!ENTITY localFolderPicker.label "Izberi krajevni imenik">
 <!ENTITY browseFolder.label "Brskaj …">
@@ -86,5 +86,5 @@
 <!ENTITY accountSettingsDesc.label "Naslednje je račun posebne vrste.  Z njim ni povezana nobena identiteta.">
 <!ENTITY storeType.label "Vrsta shrambe sporočil:">
 <!ENTITY storeType.accesskey "V">
-<!ENTITY mboxStore.label "Ena velika datoteka (mbox)">
+<!ENTITY mboxStore2.label "Ena datoteka na mapo (mbox)">
 <!ENTITY maildirStore.label "Ena datoteka na sporočilo (maildir)">
