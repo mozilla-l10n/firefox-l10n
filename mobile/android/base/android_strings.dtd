@@ -391,7 +391,7 @@ size. -->
 <!ENTITY pref_scroll_title_bar_summary "&brandShortName; ನ ಟೈಟಲ್ ಬಾರನ್ನು ಪುಟವೊಂದರಲ್ಲಿ ಸ್ಕ್ರಾಲ್ ಮಾಡುವಾಗ ಅಡಗಿಸು">
 
 <!ENTITY pref_tab_queue_title "ನಂತರ ತೆಗೆ">
-
+<!ENTITY pref_tab_queue_summary "ಹಾಳೆಗಳು ತಕ್ಷಣ ತೆರೆದುಕೊಳ್ಳುವುದನ್ನು ತಡೆಹಿಡಿ, ಆದರೆ ಮುಂದಿನ ಸಲ &brandShortName; ಲೋಡ್ ಆಗುವಾಗ ಎಲ್ಲ ಹಾಳೆಗಳನ್ನು ಸಾಲಾಗಿ ತೆರೆ.">
 <!-- Localization note (page_removed): This string appears in a toast message when
      any page is removed frome about:home. This includes pages that are in history,
      bookmarks, or reading list. -->
