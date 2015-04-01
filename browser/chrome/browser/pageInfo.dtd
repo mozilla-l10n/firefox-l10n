@@ -22,7 +22,7 @@
 <!ENTITY  generalReferrer       "Сілтейтін URL:">
 <!ENTITY  generalSource         "Кэштеу көзі:">
 <!ENTITY  generalModified       "Соңғы өзгерту:">
-
+<!ENTITY  generalEncoding2      "Мәтін кодталуы:">
 <!ENTITY  generalMetaName       "Аты">
 <!ENTITY  generalMetaContent    "Құрамасы">
 
