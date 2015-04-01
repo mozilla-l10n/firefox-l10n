@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!-- extracted from am-server-top.xul -->
 
 <!ENTITY messageStorage.label "Nachrichtenspeicher">
@@ -64,19 +68,23 @@
 <!ENTITY alwaysAuthenticate.label "Beim Verbinden mit diesem Server immer Authentifizierung verlangen">
 <!ENTITY alwaysAuthenticate.accesskey "i">
 <!ENTITY newsrcFilePath.label "newsrc-Datei:">
-<!ENTITY localPath.label "Lokaler Ordner:">
+<!ENTITY newsrcPicker.label "newsrc-Datei auswählen">
 <!ENTITY abbreviate.label "Newsgruppen in der Ordner-Liste anzeigen mit:">
 <!ENTITY abbreviateOn.label "Vollen Namen (zum Beispiel &quot;netscape.public.mozilla.mail-news&quot;)">
 <!ENTITY abbreviateOff.label "Abgekürzten Namen (zum Beispiel &quot;n.p.m.mail-news&quot;)">
 <!ENTITY advancedButton.label "Erweitert…">
 <!ENTITY advancedButton.accesskey "w">
 <!ENTITY serverDefaultCharset.label "Standard-Zeichenkodierung:">
+<!ENTITY localPath.label "Lokaler Ordner:">
 <!ENTITY localFolderPicker.label "Lokalen Ordner wählen:">
 <!ENTITY browseFolder.label "Ordner wählen…">
 <!ENTITY browseFolder.accesskey "ä">
-<!ENTITY newsrcPicker.label "newsrc-Datei auswählen">
 <!ENTITY browseNewsrc.label "Durchsuchen…">
 <!ENTITY browseNewsrc.accesskey "D">
 
 <!ENTITY accountTitle.label "Konto-Einstellungen">
 <!ENTITY accountSettingsDesc.label "Dies ist ein besonderes Konto, da keine Identitäten mit ihm verknüpft sind.">
+<!ENTITY storeType.label "Speichermethode:">
+<!ENTITY storeType.accesskey "S">
+<!ENTITY mboxStore.label "Eine Datei pro Ordner (mbox)">
+<!ENTITY maildirStore.label "Eine Datei pro Nachricht (maildir)">

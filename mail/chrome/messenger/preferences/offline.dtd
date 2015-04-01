@@ -11,8 +11,8 @@
 <!ENTITY radioRememberPrevState.accesskey "V">
 <!ENTITY radioAskState.label "Fragen, ob man online arbeiten möchte">
 <!ENTITY radioAskState.accesskey "F">
-<!ENTITY radioAlwaysOnline.label          "Immer online starten">
-<!ENTITY radioAlwaysOnline.accesskey      "I">
+<!ENTITY radioAlwaysOnlineState.label "Immer online starten">
+<!ENTITY radioAlwaysOnlineState.accesskey "l">
 <!ENTITY radioAlwaysOffline.label "Immer offline starten">
 <!ENTITY radioAlwaysOffline.accesskey "m">
 
