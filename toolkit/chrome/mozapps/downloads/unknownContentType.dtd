@@ -23,4 +23,4 @@
 <!ENTITY  chooseHandler.label         "Разглеждане…">
 <!ENTITY  chooseHandler.accesskey     "Р">
 
-<!ENTITY  unknownPromptText.label     "Да бъде ли записан този файл?">
+<!ENTITY  unknownPromptText.label     "Бихте ли желали този файл да бъде запазен?">
