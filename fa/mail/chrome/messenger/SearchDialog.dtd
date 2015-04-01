@@ -40,6 +40,7 @@
 <!ENTITY threadColumn.label "Thread">
 <!ENTITY fromColumn.label "From">
 <!ENTITY recipientColumn.label "Recipient">
+
 <!ENTITY subjectColumn.label "موضوع">
 <!ENTITY dateColumn.label "تاریخ">
 <!ENTITY priorityColumn.label "Priority">
@@ -56,6 +57,7 @@
 <!ENTITY locationColumn.label "محل">
 <!ENTITY idColumn.label "Order Received">
 <!-- Thread Pane Tooltips -->
+
 
 
 
