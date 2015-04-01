@@ -35,3 +35,5 @@
 <!ENTITY customsound.accesskey            "U">
 <!ENTITY browse.label                     "찾아보기…">
 <!ENTITY browse.accesskey                 "B">
+
+<!ENTITY defaultSearchEngine.label        "기본 검색 엔진">
