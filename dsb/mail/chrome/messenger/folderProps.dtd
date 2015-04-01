@@ -5,10 +5,10 @@
 <!ENTITY folderProps.windowtitle.label           "Kakosći">
 
 <!ENTITY generalInfo.label                       "Powšykne informacije">
-
-
-
-
+<!ENTITY folderCharsetFallback2.label            "Narownanje za tekstowe koděrowanje:">
+<!ENTITY folderCharsetFallback2.accesskey        "t">
+<!ENTITY folderCharsetEnforce2.label             "Koděrowanje na wšykne powěsći w zarědniku nałožyś (wósobinske nastajenja testowego koděrowanja a awtomatiske zwěsćenje budu se ignorěrowaś)">
+<!ENTITY folderCharsetEnforce2.accesskey         "K">
 <!ENTITY folderRebuildSummaryFileTip2.label      "Indeks zespóminańskeje dataje wótnowiś">
 <!ENTITY folderRebuildSummaryFile2.label         "Zarědnik pórěźiś">
 <!ENTITY folderRebuildSummaryFile2.accesskey     "Z">

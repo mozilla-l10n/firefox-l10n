@@ -40,7 +40,7 @@
 <!ENTITY threadColumn.label "Nitka">
 <!ENTITY fromColumn.label "Wót">
 <!ENTITY recipientColumn.label "Dostawaŕ">
-
+<!ENTITY correspondentColumn.label "Listowańske partnarje">
 <!ENTITY subjectColumn.label "Tema">
 <!ENTITY dateColumn.label "Datum">
 <!ENTITY priorityColumn.label "Priorita">
@@ -62,7 +62,7 @@
 <!ENTITY threadColumn2.tooltip "Powěsćowe nitki zwobrazniś">
 <!ENTITY fromColumn2.tooltip "Pó Wót sortěrowaś">
 <!ENTITY recipientColumn2.tooltip "Pó dostawarju sortěrowaś">
-
+<!ENTITY correspondentColumn2.tooltip "Pó listowańskich partnerjach sortěrowaś">
 <!ENTITY subjectColumn2.tooltip "Pó temje sortěrowaś">
 <!ENTITY dateColumn2.tooltip "Pó datumje sortěrowaś">
 <!ENTITY priorityColumn2.tooltip "Pó prioriśe sortěrowaś">

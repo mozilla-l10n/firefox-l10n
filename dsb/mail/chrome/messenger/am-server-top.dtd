@@ -74,7 +74,7 @@
 <!ENTITY abbreviateOff.label "Skrotcone mjenja (na pśikład 'n.p.m.mail-news')">
 <!ENTITY advancedButton.label "Rozšyrjony…">
 <!ENTITY advancedButton.accesskey "R">
-
+<!ENTITY serverDefaultCharset2.label "Standardne tekstowe koděrowanje:">
 <!ENTITY localPath.label "Lokalny zapis:">
 <!ENTITY localFolderPicker.label "Lokalny zapis wubraś">
 <!ENTITY browseFolder.label "Pśepytaś…">
@@ -86,5 +86,5 @@
 <!ENTITY accountSettingsDesc.label "To jo wósebne konto. Z nim žedne identity njejsu zwězane.">
 <!ENTITY storeType.label "Składowański typ powěsći:">
 <!ENTITY storeType.accesskey "t">
-
+<!ENTITY mboxStore2.label "Dataja na zarědnik (mbox)">
 <!ENTITY maildirStore.label "Dataja na powěsć (maildir)">

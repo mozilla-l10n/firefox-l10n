@@ -70,10 +70,10 @@
 
 <!ENTITY sendDefaultCharset.label         "Wuchadajucy post:">
 <!ENTITY sendDefaultCharset.accesskey     "u">
-
-
+<!ENTITY languagesTitle2.label            "Tekstowe koděrowanje">
+<!ENTITY composingDescription2.label      "Standardnej tekstowej koděrowani za słanje a dostawanje e-maile nastajiś">
 
 <!ENTITY viewDefaultCharsetList.label     "Dochadajucy post:">
 <!ENTITY viewDefaultCharsetList.accesskey  "D">
-
-
+<!ENTITY replyInDefaultCharset3.label     "Jolic móžno, standardne tekstowe koděrowanje we wótegronach wužywaś">
+<!ENTITY replyInDefaultCharset3.accesskey "J">
