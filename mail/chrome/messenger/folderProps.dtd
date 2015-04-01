@@ -7,8 +7,8 @@
 <!ENTITY generalInfo.label                       "Eolas Ginearálta">
 
 
-
-
+<!ENTITY folderCharsetEnforce2.label             "Cuir an t-ionchódú i bhfeidhm ar gach teachtaireacht san fhillteán (tabharfar neamhaird ar shocruithe ionchódaithe sna teachtaireachtaí féin agus ar bhrath uathoibríoch)">
+<!ENTITY folderCharsetEnforce2.accesskey         "a">
 <!ENTITY folderRebuildSummaryFileTip2.label      "Atóg an Comhad Achoimre">
 <!ENTITY folderRebuildSummaryFile2.label         "Deisigh an Fillteán">
 <!ENTITY folderRebuildSummaryFile2.accesskey     "D">
