@@ -12,8 +12,8 @@
 <!ENTITY calendar.unifinder.todoitems.label       "Darbai" >
 <!ENTITY calendar.unifinder.showcompletedtodos.label "Rodyti užbaigtus darbus">
 
-<!ENTITY calendar.today.button.label          "Šiandiena">
-<!ENTITY calendar.tomorrow.button.label       "Rytdiena">
+<!ENTITY calendar.today.button.label          "Šiandien">
+<!ENTITY calendar.tomorrow.button.label       "Rytoj">
 <!ENTITY calendar.upcoming.button.label       "Netrukus">
 
 <!ENTITY calendar.events.filter.all.label "Visi įvykiai">
