@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY window.title                 "Iznimke">
-<!ENTITY window.width                 "36em">
+
 
 <!ENTITY treehead.sitename.label      "Stranica">
 <!ENTITY treehead.status.label        "Stanje">
@@ -21,6 +21,7 @@
 <!ENTITY allow.accesskey              "D">
 <!ENTITY windowClose.key              "w">
 
-<!ENTITY button.close.label           "Zatvori">
-<!ENTITY button.close.accesskey       "Z">
+
+
+
 
