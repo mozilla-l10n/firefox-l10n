@@ -56,14 +56,14 @@ can reach it easily. -->
 
 <!ENTITY tabCmd.label "Nueva pestaña">
 <!ENTITY tabCmd.accesskey "t">
-
+<!ENTITY tabCmd.commandkey "t">
 <!-- LOCALIZATION NOTE (openLocationCmd.label): "Open Location" is only
 displayed on OS X, and only on windows that aren't main browser windows, or
 when there are no windows but Firefox is still running. -->
 <!ENTITY openLocationCmd.label "Abrir ubicación…">
 <!ENTITY openFileCmd.label "Abrir archivo…">
 <!ENTITY openFileCmd.accesskey "A">
-
+<!ENTITY openFileCmd.commandkey "o">
 <!ENTITY printSetupCmd.label "Configurar página…">
 <!ENTITY printSetupCmd.accesskey "p">
 <!ENTITY printPreviewCmd.label "Vista preliminar">
@@ -175,7 +175,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY reloadCmd.label              "Recargar">
 <!ENTITY reloadButton.tooltip         "Recargar esta página">
 <!ENTITY stopCmd.label                "Detener">
-
+<!ENTITY stopCmd.macCommandKey        ".">
 <!ENTITY stopButton.tooltip           "Detener la carga de esta página">
 <!ENTITY goEndCap.tooltip             "Ir a la dirección en la Barra de ubicaciones.">
 <!ENTITY printButton.label            "Imprimir">
@@ -190,18 +190,21 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY tabGroupsButton.label        "Pestañas Grupos">
 
 <!ENTITY bookmarksButton.label          "Marcadores">
+<!ENTITY bookmarksCmd.commandkey "b">
 
-
-
+<!ENTITY bookmarksMenuButton.label          "Marcadores">
+<!ENTITY bookmarksMenuButton.unsorted.label "Marcadores sin ordenar">
 <!ENTITY viewBookmarksSidebar2.label        "Ver la barra de marcadores">
 <!ENTITY viewBookmarksToolbar.label         "Ver la barra de marcadores">
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
   -  key should not contain the letters A-F, since these are reserved
   -  shortcut keys on Linux. -->
 
+<!ENTITY bookmarksGtkCmd.commandkey "o">
+<!ENTITY bookmarksWinCmd.commandkey "i">
 
 <!ENTITY historyButton.label            "Historial">
-
+<!ENTITY historySidebarCmd.commandKey   "h">
 
 <!ENTITY toolsMenu.label              "Herramientas">
 <!ENTITY toolsMenu.accesskey          "t"> 
@@ -211,8 +214,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY downloads.label              "Descargas">
 <!ENTITY downloads.accesskey          "D">
-
-
+<!ENTITY downloads.commandkey         "j">
+<!ENTITY downloadsUnix.commandkey     "y">
 <!ENTITY addons.label                 "Complementos">
 <!ENTITY addons.accesskey             "C">
 
@@ -266,6 +269,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY browserToolboxMenu.label     "Caja de herramientas del navegador">
 <!ENTITY browserToolboxMenu.accesskey "e">
+
 <!-- LOCALIZATION NOTE (browserContentToolboxMenu.label): This is the label for the
   -  application menu item that opens the browser content toolbox UI in the Tools menu.
   -  This toolbox allows to debug the chrome of the content process in multiprocess builds.  -->
@@ -331,6 +335,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY clearRecentHistory.label               "Borrar el historial reciente…">
 
+<!ENTITY privateBrowsingCmd.commandkey          "P">
 
 <!ENTITY viewMenu.label         "Ver"> 
 <!ENTITY viewMenu.accesskey       "V"> 
@@ -351,16 +356,16 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY historyRestoreLastSession.label "Restaurar sesión anterior">
 
 <!ENTITY showAllHistoryCmd2.label "Mostrar todo el historial">
-
+<!ENTITY showAllHistoryCmd.commandkey "H">
 
 <!ENTITY appMenuCustomize.label "Personalizar">
 <!ENTITY appMenuCustomize.tooltip "Personalizar el menú y las barras de herrramientas">
 <!ENTITY appMenuCustomizeExit.label "Terminar personalización">
 <!ENTITY appMenuCustomizeExit.tooltip "Terminar personalización">
-
-
-
-
+<!ENTITY appMenuHistory.label "Historial">
+<!ENTITY appMenuHistory.showAll.label "Mostrar todo el historial">
+<!ENTITY appMenuHistory.clearRecent.label "Borrar el historial reciente…">
+<!ENTITY appMenuHistory.restoreSession.label "Restaurar la sesión anterior">
 <!ENTITY appMenuHistory.viewSidebar.label "Ver barra de historial">
 <!ENTITY appMenuHelp.tooltip "Abrir el menú de ayuda">
 
@@ -384,8 +389,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY customizeMenu.addMoreItems.label "Agregar más elementos…">
 <!ENTITY customizeMenu.addMoreItems.accesskey "A">
 
+<!ENTITY openCmd.commandkey           "l">
 <!ENTITY urlbar.placeholder2          "Término de búsqueda o dirección">
-
+<!ENTITY urlbar.accesskey             "d">
 <!ENTITY urlbar.switchToTab.label     "Cambiar a la pestaña:">
 <!-- 
   Comment duplicated from browser-sets.inc:
@@ -579,8 +585,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY fullZoomEnlargeCmd.label       "Aumentar">
 <!ENTITY fullZoomEnlargeCmd.accesskey   "A">
-
+<!ENTITY fullZoomEnlargeCmd.commandkey  "+">
 <!-- + is above this key on many keyboards -->
+<!ENTITY fullZoomEnlargeCmd.commandkey2 "="> 
 <!ENTITY fullZoomEnlargeCmd.commandkey3 "">
 
 <!ENTITY fullZoomReduceCmd.label        "Reducir">
@@ -733,11 +740,12 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY customizeMode.lwthemes.myThemes "Mis temas">
 <!ENTITY customizeMode.lwthemes.recommended "Recomendados">
 <!ENTITY customizeMode.lwthemes.menuManage "Administrar">
-
+<!ENTITY customizeMode.lwthemes.menuManage.accessKey "M">
 <!ENTITY customizeMode.lwthemes.menuGetMore "Obtener más temas">
-
+<!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "G">
 <!ENTITY customizeMode.deveditionTheme.label2 "Usar el tema Developer Edition">
 
+<!ENTITY social.chatBar.commandkey "c">
 <!ENTITY social.chatBar.label "Enfocar chats">
 <!ENTITY social.chatBar.accesskey "c">
 
@@ -767,12 +775,12 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY trackingContentBlocked.message "Rastreo">
 <!ENTITY trackingContentBlocked.moreinfo "Las partes de esta página que rastrean tu actividad en línea han sido bloqueadas.">
-
-
+<!ENTITY trackingContentBlocked.learnMore "Saber más">
+<!ENTITY trackingContentBlocked.options "Opciones">
 <!ENTITY trackingContentBlocked.unblock2.label "Desactivar la protección para este sitio">
 <!ENTITY trackingContentBlocked.unblock2.accesskey "D">
-
-
+<!ENTITY trackingContentBlocked.block.label "Habilitar protección">
+<!ENTITY trackingContentBlocked.block.accesskey "E">
 <!ENTITY trackingContentBlocked.disabled.message "La protección contra rastreo está desactivada">
 
 <!ENTITY pointerLock.notification.message "Press ESC at any time to show it again.">
@@ -792,6 +800,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY pluginNotification.width "28em">
 
+<!ENTITY uiTour.infoPanel.close "Cerrar">
 
 <!ENTITY appMenuSidebars.label         "Barras laterales">
 
@@ -845,7 +854,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY readingList.sidebar.showMore.label       "Mostrar más…">
 <!-- Pre-landed string for bug 1133662 -->
 <!ENTITY readingList.sidebar.emptyText            "Agrega artículos a tu lista de lectura para leerlos después y encontrarlos fácilmente cuando los necesites.">
-<!-- Pre-landed string for bug 1123525 -->
 <!ENTITY readingList.sidebar.delete.tooltip       "Quitar esto de tu lista de lectura">
 <!-- Pre-landed strings for bug 1123519 -->
 <!ENTITY readingList.sidebar.add.label            "Agregar a la lista de lectura">

@@ -5,9 +5,9 @@
 
 <!ENTITY newtab.pageTitle "Nueva pestaña">
 <!ENTITY newtab.customize.title "Personaliza tu página de Nueva pestaña">
-<!ENTITY newtab.customize.enhanced "Mejorada">
-<!ENTITY newtab.customize.classic "Clásica">
-<!ENTITY newtab.customize.blank "En blanco">
+
+
+
 <!ENTITY newtab.customize.what "¿Qué es esta página?">
 <!ENTITY newtab.intro.header "¿Qué es esta página?">
 <!ENTITY newtab.undo.removedLabel "Vista previa eliminada.">

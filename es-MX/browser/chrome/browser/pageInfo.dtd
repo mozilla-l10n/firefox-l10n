@@ -22,7 +22,7 @@
 <!ENTITY  generalReferrer       "Dirección de referencia:">
 <!ENTITY  generalSource         "Origen:">
 <!ENTITY  generalModified       "Modificado:">
-<!ENTITY  generalEncoding       "Codificación:">
+
 <!ENTITY  generalMetaName       "Nombre">
 <!ENTITY  generalMetaContent    "Contenido">
 
@@ -83,3 +83,5 @@
 <!ENTITY  securityView.privacy.viewPasswords.accessKey  "v">
 
 <!ENTITY  securityView.technical.header                 "Detalles técnicos">
+
+<!ENTITY  helpButton.label                              "Ayuda">

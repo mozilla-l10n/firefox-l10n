@@ -113,6 +113,7 @@
 <!ENTITY offlineAppRemove.confirm        "Eliminar datos del modo sin conexión">
 
 <!ENTITY certificateTab.label            "Certificados">
+
 <!ENTITY certSelection.description       "Cuando un servidor solicite mi certificado personal:">
 <!ENTITY certs.auto                      "Seleccionar uno automáticamente">
 <!ENTITY certs.auto.accesskey            "S">
