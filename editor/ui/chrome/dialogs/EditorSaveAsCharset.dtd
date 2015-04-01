@@ -10,6 +10,6 @@
 <!ENTITY windowTitle2.label "Pakeisti teksto koduotę ir įrašyti">
 <!ENTITY documentTitleTitle.label "Tinklalapio antraštė">
 <!ENTITY documentCharsetTitle2.label "Teksto koduotė">
-
+<!ENTITY documentCharsetDesc2.label "Pasirinkite koduotę įrašomam failui:">
 <!ENTITY documentExportToText.label "Įrašyti grynuoju tekstu">
 
