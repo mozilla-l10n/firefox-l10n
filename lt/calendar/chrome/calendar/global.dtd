@@ -46,7 +46,7 @@
 
 <!ENTITY onemonthbackward.tooltip "Ankstesnis mėnuo" >
 <!ENTITY onemonthforward.tooltip "Kitas mėnuo" >
-<!ENTITY showToday.tooltip "Šiandiena">
+<!ENTITY showToday.tooltip "Ši diena">
 <!ENTITY onedayforward.tooltip "Kita diena">
 <!ENTITY onedaybackward.tooltip "Ankstesnė diena">
 <!ENTITY showselectedday.tooltip "Rodyti parinktos dienos įvykius">
