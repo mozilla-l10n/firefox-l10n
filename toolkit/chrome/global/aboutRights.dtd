@@ -21,7 +21,7 @@
 
 <!ENTITY rights.intro-point2-a "شما از حقی در خصوص علائم تجاری بنیاد موزیلا و یا هر شخص ثالثی، از جمله نام یا نشان فایرفاکس برخوردار نیستید. اطلاعات بیشتر در مورد علائم تجاری در ">
 <!ENTITY rights.intro-point2-b "اینجا">
-
+<!ENTITY rights.intro-point2-c ".">
 <!-- point 2.5 text for official branded builds -->
 
 <!ENTITY rights.intro-point2.5 "برخی ویژگی‌ها در &brandShortName;، مانند گزارش‌گر فروپاشی، به شما اختیار ارسال نظر به &vendorShortName; می‌دهند. 
