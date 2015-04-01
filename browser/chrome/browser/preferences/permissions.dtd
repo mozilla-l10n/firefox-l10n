@@ -22,6 +22,6 @@
 <!ENTITY windowClose.key              "w">
 
 
-
-
+<!ENTITY button.ok.label              "Salvează modificările">
+<!ENTITY button.ok.accesskey          "S">
 
