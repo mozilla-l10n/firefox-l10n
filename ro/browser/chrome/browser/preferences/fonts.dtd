@@ -63,10 +63,10 @@
 <!ENTITY  allowPagesToUse.label                   "Permite paginilor să își aleagă propriile fonturi în locul opțiunilor mele de mai sus">
 <!ENTITY  allowPagesToUse.accesskey               "a">
 
-<!ENTITY languages.customize.Fallback.grouplabel  "Codare caracter pentru conținut moștenit">
-<!ENTITY languages.customize.Fallback.label       "Revenire codare caracter:">
-<!ENTITY languages.customize.Fallback.accesskey   "R">
-<!ENTITY languages.customize.Fallback.desc        "Această codificare de caractere este utilizată pentru conținutul moștenit care nu reușește să declare codificarea sa.">
+<!ENTITY languages.customize.Fallback2.grouplabel "Codare de text pentru conținut moștenit">
+
+
+
 
 <!ENTITY languages.customize.Fallback.auto        "Implicit pentru limba curentă">
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.arabic):

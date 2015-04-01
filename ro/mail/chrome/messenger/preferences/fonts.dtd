@@ -70,10 +70,10 @@
 
 <!ENTITY sendDefaultCharset.label         "Mesaje trimise:">
 <!ENTITY sendDefaultCharset.accesskey     "M">
-<!ENTITY languagesTitle1.label            "Codare caractere">
-<!ENTITY composingDescription.label       "Setează codarea implicită a caracterelor pentru trimiterea și primirea mesajelor">
+
+
 
 <!ENTITY viewDefaultCharsetList.label     "Mesaje primite:">
 <!ENTITY viewDefaultCharsetList.accesskey  "i">
-<!ENTITY replyInDefaultCharset2.label     "Când e posibil, folosește în răspunsuri codarea de caractere implicită">
-<!ENTITY replyInDefaultCharset2.accesskey "C">
+
+

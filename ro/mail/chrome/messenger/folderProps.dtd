@@ -5,17 +5,17 @@
 <!ENTITY folderProps.windowtitle.label           "Proprietăți">
 
 <!ENTITY generalInfo.label                       "Informații generale">
-<!ENTITY folderCharsetFallback.label             "Codare alternativă caracter:">
-<!ENTITY folderCharsetFallback.accesskey         "e">
-<!ENTITY folderCharsetEnforce.label              "Aplică codificarea pentru toate mesajele din dosar (setările individuale de codificare a caracterelor din mesaje și auto-detecția vor fi ignorate)">
-<!ENTITY folderCharsetEnforce.accesskey          "A">
+
+
+
+
 <!ENTITY folderRebuildSummaryFileTip2.label      "Reconstruiește indecșii fișierului de sumar">
 <!ENTITY folderRebuildSummaryFile2.label         "Repară dosarul">
 <!ENTITY folderRebuildSummaryFile2.accesskey     "R">
 <!ENTITY folderRebuildSummaryFile.explanation    "Uneori fișierul index de dosar (.msf) se deteriorează și aparent lipsesc mesaje sau apar mesaje care au fost șterse; aceste probleme pot fi rezolvate prin repararea dosarului.">
 <!ENTITY folderIncludeInGlobalSearch.label       "Include mesajele din acest dosar în rezultatele căutării globale">
 <!ENTITY folderIncludeInGlobalSearch.accesskey   "g">
-     
+
 <!ENTITY retention.label "Politica de păstrare">
 <!ENTITY retentionUseAccount.label  "Folosește setările contului meu">
 <!ENTITY retentionUseAccount.accesskey "u">
