@@ -11,8 +11,8 @@
 <!ENTITY radioRememberPrevState.accesskey "H">
 <!ENTITY radioAskState.label "Spør meg om tilkoblingstilstanden">
 <!ENTITY radioAskState.accesskey "r">
-<!ENTITY radioAlwaysOnline.label "Tilkoblet">
-<!ENTITY radioAlwaysOnline.accesskey "T">
+<!ENTITY radioAlwaysOnlineState.label "Tilkoblet">
+<!ENTITY radioAlwaysOnlineState.accesskey "T">
 <!ENTITY radioAlwaysOffline.label "Frakoblet">
 <!ENTITY radioAlwaysOffline.accesskey "F">
 

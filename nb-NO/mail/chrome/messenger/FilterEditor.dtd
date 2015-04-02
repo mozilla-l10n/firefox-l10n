@@ -25,6 +25,8 @@
 <!ENTITY contextAfterCls.label "Filtrer etter søppelpost-klassifisering">
 <!ENTITY contextOutgoing.label "Etter sending">
 <!ENTITY contextOutgoing.accesskey "E">
+<!ENTITY contextArchive.label "Arkivering">
+<!ENTITY contextArchive.accesskey "A">
 
 <!ENTITY filterActionDesc.label "Gjør dette med meldingene:">
 <!ENTITY filterActionDesc.accesskey "G">

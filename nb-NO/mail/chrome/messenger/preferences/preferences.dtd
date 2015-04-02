@@ -17,3 +17,7 @@
 <!ENTITY panePrivacy.title        "Personvern">
 <!ENTITY paneSecurity.title       "Sikkerhet">
 <!ENTITY paneAdvanced.title       "Avansert">
+<!ENTITY paneAccount.title        "Kontoer">
+
+<!ENTITY okButton.title           "OK">
+<!ENTITY okButton.accesskey       "O">

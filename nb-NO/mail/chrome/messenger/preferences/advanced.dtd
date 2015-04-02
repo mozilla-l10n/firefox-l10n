@@ -3,20 +3,21 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY itemGeneral.label       "Generelt">
+<!ENTITY dataChoicesTab.label    "Datavalg">
 <!ENTITY itemDisplay.label       "Lesing og visning">
 <!ENTITY itemUpdate.label        "Oppdatering">
 <!ENTITY itemNetworking.label    "Nettverk og diskplass">
 <!ENTITY itemCertificates.label  "Sertifikater">
 
 <!-- General Settings -->
-
-<!ENTITY submitTelemetry.label         "Send ytelsesdata">
-<!ENTITY submitTelemetry.accesskey     "n">
-<!ENTITY telemetryInfoLink.label       "Informasjon om Telemetry">
 <!ENTITY enableGlodaSearch.label       "Slå på globalt søk og indeksering">
 <!ENTITY enableGlodaSearch.accesskey   "S">
 <!ENTITY allowHWAccel.label            "Bruk maskinvareakselerasjon når tilgjengelig">
 <!ENTITY allowHWAccel.accesskey        "m">
+<!ENTITY storeType.label               "Meldingslagringstype for nye kontoer:">
+<!ENTITY storeType.accesskey           "d">
+<!ENTITY mboxStore.label               "En stor fil (mbox)">
+<!ENTITY maildirStore.label            "Fil per melding (maildir)">
 
 <!ENTITY scrolling.label               "Rulling">
 <!ENTITY useAutoScroll.label           "Bruk autorulling">
@@ -37,6 +38,19 @@
 <!ENTITY returnReceiptsInfo.label      "Bestem hvordan &brandShortName; behandler kvitteringer">
 <!ENTITY showReturnReceipts.label      "Kvitteringer …">
 <!ENTITY showReturnReceipts.accesskey  "K">
+
+<!-- Data Choices -->
+<!ENTITY telemetrySection.label          "Telemetry">
+<!ENTITY telemetryDesc.label             "Deler info om ytelse, bruksmønster, maskinvare, og tilpasninger til e-postklienten med &vendorShortName;, for å hjelpe gjøre &brandShortName; bedre">
+<!ENTITY enableTelemetry.label           "Slå på Telemetry">
+<!ENTITY enableTelemetry.accesskey       "S">
+<!ENTITY telemetryLearnMore.label        "Les mer">
+
+<!ENTITY crashReporterSection.label      "Krasjrapportering">
+<!ENTITY crashReporterDesc.label         "&brandShortName; sender krasjrapporter for å hjelpe &vendorShortName; gjøre e-postklienten mer stabil og sikker">
+<!ENTITY enableCrashReporter.label       "Slå på krasjrapportering">
+<!ENTITY enableCrashReporter.accesskey   "l">
+<!ENTITY crashReporterLearnMore.label    "Les mer">
 
 <!-- Display and Reading Settings -->
 <!ENTITY reading.caption               "Lesing">
