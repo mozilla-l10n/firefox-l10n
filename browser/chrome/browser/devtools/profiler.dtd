@@ -57,7 +57,7 @@
 <!ENTITY profilerUI.table.selfPercentage  "Self Cost">
 <!ENTITY profilerUI.table.samples         "Exemple">
 <!ENTITY profilerUI.table.function        "Funcție">
-
+<!ENTITY profilerUI.table.totalAlloc1       "Total Sampled Allocations">
 
 
 
