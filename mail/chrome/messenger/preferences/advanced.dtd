@@ -16,7 +16,7 @@
 <!ENTITY allowHWAccel.accesskey        "h">
 <!ENTITY storeType.label               "Tipul de stocare al mesajelor pentru conturile noi:">
 <!ENTITY storeType.accesskey           "T">
-<!ENTITY mboxStore2.label              "Fișier per dosar (mbox)">
+
 <!ENTITY maildirStore.label            "Fișiere per mesaj (maildir)">
 
 <!ENTITY scrolling.label               "Derulare">
