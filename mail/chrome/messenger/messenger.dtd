@@ -145,6 +145,8 @@
 <!ENTITY messagePaneVertical.accesskey "V">
 <!ENTITY showFolderPaneCmd.label "Mappepanel">
 <!ENTITY showFolderPaneCmd.accesskey "M">
+<!ENTITY showFolderPaneColsCmd.label "Kolonner i mappepanelet">
+<!ENTITY showFolderPaneColsCmd.accesskey "K">
 <!ENTITY showMessageCmd.label "Meldingsvindu">
 <!ENTITY showMessageCmd.accesskey "M">
 
@@ -593,7 +595,9 @@
 <!ENTITY manageTags.accesskey "B">
 
 <!-- Folder Pane -->
-<!ENTITY folderColumn.label "Navn">
+<!ENTITY folderNameColumn.label "Navn">
+<!ENTITY folderUnreadColumn.label "Ulest">
+<!ENTITY folderTotalColumn.label "Totalt">
 <!ENTITY folderSizeColumn.label "Størrelse">
 
 <!-- Folder Pane Context Menu -->

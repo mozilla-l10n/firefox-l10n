@@ -6,6 +6,8 @@
 <!ENTITY itemAutoComplete.label              "Adresser">
 <!ENTITY itemSpellCheck.label                "Stavekontroll">
 
+<!ENTITY dialogCompose.title                 "Forfatting">
+
 <!ENTITY forwardMsg.label                     "Videresend meldinger:">
 <!ENTITY forwardMsg.accesskey                 "V">
 <!ENTITY inline.label                         "Innbundet">
