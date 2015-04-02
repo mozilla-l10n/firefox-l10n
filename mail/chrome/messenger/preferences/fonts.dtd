@@ -70,11 +70,11 @@
 <!-- Language settings -->
 <!ENTITY sendDefaultCharset.label         "Correo saliente:">
 <!ENTITY sendDefaultCharset.accesskey     "C">
-<!ENTITY languagesTitle1.label            "Codificación de caracteres">
-<!ENTITY composingDescription.label       "Elija la codificación de caracteres predeterminada para enviar y recibir correo">
+<!ENTITY languagesTitle2.label            "Codificación de texto">
+<!ENTITY composingDescription2.label      "Elija la codificación de texto predeterminada para enviar y recibir correo">
 
 <!ENTITY viewDefaultCharsetList.label     "Correo entrante:">
 <!ENTITY viewDefaultCharsetList.accesskey  "r">
-<!ENTITY replyInDefaultCharset2.label     "Usar en las respuestas la codificación de caracteres predeterminada cuando sea posible">
-<!ENTITY replyInDefaultCharset2.accesskey "U">
+<!ENTITY replyInDefaultCharset3.label     "Cuando sea posible, usar en las respuestas la codificación de texto predeterminada">
+<!ENTITY replyInDefaultCharset3.accesskey "u">
 
