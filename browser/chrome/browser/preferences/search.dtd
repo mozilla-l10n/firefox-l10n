@@ -4,6 +4,7 @@
 
 <!ENTITY defaultSearchEngine.label             "موتور جست‌وجو پیش‌فرض">
 
+<!ENTITY chooseYourDefaultSearchEngine.label   "موتور جست‌وجو پیش‌فرض خود را انتخاب کنید. &brandShortName; در نوار مکان، نوار جست‌وجو و صفحه شروع از آن استفاده می‌کند.">
 
 <!ENTITY provideSearchSuggestions.label        "عرضه پیشنهادهای جست‌وجو">
 <!ENTITY provideSearchSuggestions.accesskey    "ج">
@@ -19,5 +20,7 @@
 <!ENTITY restoreDefaultSearchEngines.label     "برگرداندن موتور جست‌وجوی پیش‌فرض">
 <!ENTITY restoreDefaultSearchEngines.accesskey "D">
 
+<!ENTITY removeEngine.label                    "حذف">
+<!ENTITY removeEngine.accesskey                "ح">
 
-
+<!ENTITY addMoreSearchEngines.label            "اضافه‌کردن موتورهای جست‌وجوی بیشتر…">
