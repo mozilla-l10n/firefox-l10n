@@ -63,8 +63,8 @@
 <!ENTITY  allowPagesToUse.label                   "पृष्ठ को उनका अपना फ़ॉन्ट चुनने के लिए स्वीकारें, हमारे चयन के बजाए">
 <!ENTITY  allowPagesToUse.accesskey               "A">
 
-
-
+<!ENTITY languages.customize.Fallback2.label      "फालबैक पाठ एनकोडिंग:">
+<!ENTITY languages.customize.Fallback2.accesskey  "प">
 
 
 <!ENTITY languages.customize.Fallback.auto        "वर्तमान लोकेल के लिए तयशुदा">
