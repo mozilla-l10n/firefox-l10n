@@ -41,3 +41,6 @@
 <!ENTITY profilerUI.enableMemory.tooltiptext "Запись потребления памяти при профилировании.">
 <!ENTITY profilerUI.enableFramerate "Запись частоты кадров">
 <!ENTITY profilerUI.enableFramerate.tooltiptext "Запись частоты кадров при профилировании.">
+<!ENTITY profilerUI.showJITOptimizations "Показать оптимизации JIT">
+<!ENTITY profilerUI.showJITOptimizations.tooltiptext "Показать данные оптимизаций JIT, отобранные в каждом фрейме дерева вызовов JS.">
+<!ENTITY profilerUI.JITOptimizationsTitle "Оптимизации JIT">
