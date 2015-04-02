@@ -25,6 +25,8 @@
 <!ENTITY canvasDebuggerUI.emptyNotice2    "ಆ್ಯನಿಮೇಶನ್ ಚೌಕಟ್ಟಿನ ಕರೆಯ ಸ್ಟ್ಯಾಕ್‌ ರೆಕಾರ್ಡ್ ಮಾಡುವ ಗುಂಡಿ.">
 <!-- LOCALIZATION NOTE (canvasDebuggerUI.waitingNotice): This is the label shown
   -  in the call list view while recording a snapshot. -->
+
+<!ENTITY canvasDebuggerUI.waitingNotice   "ಅನಿಮೇಶನ್ ಚಕ್ರವನ್ನು ಮುದ್ರಿಸಿಕೊಳ್ಳಲಾಗುತ್ತಿದೆ…">
 <!-- LOCALIZATION NOTE (canvasDebuggerUI.recordSnapshot): This string is displayed
   -  on a button that starts a new snapshot. -->
 
