@@ -267,14 +267,14 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (browserToolboxMenu.label): This is the label for the
   -  application menu item that opens the browser toolbox UI in the Tools menu. -->
 
-<!ENTITY browserToolboxMenu.label     "Set de instrumente pentru navigator">
-<!ENTITY browserToolboxMenu.accesskey "S">
+<!ENTITY browserToolboxMenu.label     "Trusa de unelte pentru navigator">
+<!ENTITY browserToolboxMenu.accesskey "e">
 
 <!-- LOCALIZATION NOTE (browserContentToolboxMenu.label): This is the label for the
   -  application menu item that opens the browser content toolbox UI in the Tools menu.
   -  This toolbox allows to debug the chrome of the content process in multiprocess builds.  -->
 
-<!ENTITY browserContentToolboxMenu.label     "Set de instrumente al conținutului pentru navigator">
+<!ENTITY browserContentToolboxMenu.label     "Trusa de unelte a conținutului pentru navigator">
 
 <!ENTITY devToolbarCloseButton.tooltiptext "Închide bara de dezvoltare">
 <!ENTITY devToolbarMenu.label              "Bara de dezvoltare">

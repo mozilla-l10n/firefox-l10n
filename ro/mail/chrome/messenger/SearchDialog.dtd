@@ -40,7 +40,7 @@
 <!ENTITY threadColumn.label "Conversație">
 <!ENTITY fromColumn.label "Expeditor">
 <!ENTITY recipientColumn.label "Destinatar">
-<!ENTITY correspondentColumn.label "Corespondenți">
+
 <!ENTITY subjectColumn.label "Subiect">
 <!ENTITY dateColumn.label "Dată">
 <!ENTITY priorityColumn.label "Prioritate">
