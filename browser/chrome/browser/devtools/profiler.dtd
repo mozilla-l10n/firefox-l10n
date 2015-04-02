@@ -41,3 +41,6 @@
 <!ENTITY profilerUI.enableMemory.tooltiptext "Registra l’utilizzo della memoria durante la profilazione.">
 <!ENTITY profilerUI.enableFramerate "Frequenza registrazione">
 <!ENTITY profilerUI.enableFramerate.tooltiptext "Frequenza con cui viene registrata la profilazione.">
+<!ENTITY profilerUI.showJITOptimizations "Visualizza ottimizzazioni JIT">
+<!ENTITY profilerUI.showJITOptimizations.tooltiptext "Visualizza i dati relativi alle ottimizzazioni JIT rilevate in ogni frame dell’albero di chiamate JS.">
+<!ENTITY profilerUI.JITOptimizationsTitle "Ottimizzazioni JIT">
