@@ -14,10 +14,11 @@
 <!ENTITY removeAllLanguages.accesskey     "ذ">
 
 <!ENTITY noTranslationForSites.label      "ترجمه برای وبسایتهای زیر ارایه نمیشود:">
+<!ENTITY treehead.siteName.label          "سایت‌ها">
+<!ENTITY removeSite.label                 "حذف سایت">
+<!ENTITY removeSite.accesskey             "ح">
+<!ENTITY removeAllSites.label             "حذف همه سایت‌ها">
+<!ENTITY removeAllSites.accesskey         "ه">
 
-
-
-
-
-
-
+<!ENTITY button.close.label               "بستن‌">
+<!ENTITY button.close.accesskey           "ب">
