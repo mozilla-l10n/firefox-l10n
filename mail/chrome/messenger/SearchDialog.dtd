@@ -40,6 +40,7 @@
 <!ENTITY threadColumn.label "Conversación">
 <!ENTITY fromColumn.label "De">
 <!ENTITY recipientColumn.label "Destinatario">
+<!ENTITY correspondentColumn.label "Corresponsales">
 <!ENTITY subjectColumn.label "Asunto">
 <!ENTITY dateColumn.label "Fecha">
 <!ENTITY priorityColumn.label "Prioridad">
@@ -61,6 +62,7 @@
 <!ENTITY threadColumn2.tooltip "Mostrar los mensajes agrupados por conversaciones">
 <!ENTITY fromColumn2.tooltip "Ordenar por remitente">
 <!ENTITY recipientColumn2.tooltip "Ordenar por destinatario">
+<!ENTITY correspondentColumn2.tooltip "Ordenar por corresponsales">
 <!ENTITY subjectColumn2.tooltip "Ordenar por asunto">
 <!ENTITY dateColumn2.tooltip "Ordenar por fecha">
 <!ENTITY priorityColumn2.tooltip "Ordenar por prioridad">
