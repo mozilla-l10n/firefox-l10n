@@ -853,6 +853,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- Pre-landed string for bug 1124153 -->
 <!ENTITY readingList.sidebar.showMore.label       "ಇನ್ನಷ್ಟು ತೋರಿಸು…">
 <!-- Pre-landed string for bug 1133662 -->
+<!ENTITY readingList.sidebar.emptyText            "ಲೇಖನಗಳನ್ನು ನಿಮ್ಮ ಓದುವ ಪಟ್ಟಿಗೆ ಮುಂದೆ ಓದುವ ಸಲುವಾಗಿ ಉಳಿಸಿ ಮತ್ತು ಅವುಗಳನ್ನು ಬೇಕಾದಾಗ ಸುಲಭವಾಗಿ ಹುಡುಕಿ.">
 <!ENTITY readingList.sidebar.delete.tooltip       "ಇದನ್ನು ನಿಮ್ಮ ಓದುವ ಪಟ್ಟಿಯಿಂದ ತೆಗೆಯಿರಿ">
 <!-- Pre-landed strings for bug 1123519 -->
 <!ENTITY readingList.sidebar.add.label            "ಓದುವ ಪಟ್ಟಿಗೆ ಸೇರಿಸು">
