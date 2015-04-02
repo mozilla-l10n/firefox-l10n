@@ -39,10 +39,12 @@
 <!ENTITY translation.translatedToSuffix.label   "">
 
 <!ENTITY translation.showOriginal.button        "نمایش اصل">
+<!ENTITY translation.showTranslation.button     "نمایش ترجمه">
 
-
+<!ENTITY translation.errorTranslating.label     "هنگام ترجمه این صفحه خطایی رخ داد.">
 <!ENTITY translation.tryAgain.button            "تلاش دوباره">
 
+<!ENTITY translation.serviceUnavailable.label   "ترجمه هم‌اکنون در دسترس نمی‌باشد. لطفا بعدا دوباره تلاش کنید.">
 
 <!ENTITY translation.options.menu               "گزینه‌ها">
 <!-- LOCALIZATION NOTE (translation.options.neverForSite.accesskey,
