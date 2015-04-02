@@ -233,8 +233,8 @@
 <!ENTITY calendar.context.newserver.accesskey          "N">
 <!ENTITY calendar.context.findcalendar.label           "Rasti kalendorių…" >
 <!ENTITY calendar.context.findcalendar.accesskey       "R" >
-
-
+<!ENTITY calendar.context.deleteserver2.label          "Naikinti kalendorių…">
+<!ENTITY calendar.context.deleteserver2.accesskey      "N">
 <!-- LOCALIZATION NOTE (calendar.context.removeserver.label): Removing the
       calendar is the general action of removing it, while deleting means to
       clear the data and unsubscribing means just taking it out of the calendar
