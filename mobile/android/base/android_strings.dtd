@@ -126,7 +126,7 @@
      divided into two lines (use the newline escape character, "\n", between
      them): the first notifying the user about the failure and the second
      telling the user what to do about it. -->
-<!ENTITY overlay_share_tab_not_sent "Fila nu a putut fi trimisă.\nTe rugsăm să încerci din nou mai târziu.">
+<!ENTITY overlay_share_tab_not_sent "Fila nu a putut fi trimisă.\nTe rugăm să încerci din nou mai târziu.">
 
 <!ENTITY pref_category_search3 "Căutare">
 <!ENTITY pref_category_search_summary "Personalizează motoarele de căutare">
