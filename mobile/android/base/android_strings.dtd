@@ -20,7 +20,7 @@
 
 <!ENTITY  switch_to_tab "Comută la filă">
 
-<!ENTITY  crash_reporter_title "Raportor de defecte în &brandShortName;">
+<!ENTITY  crash_reporter_title "Raportor de defecțiuni &brandShortName;">
 <!ENTITY  crash_message2 "&brandShortName; a avut o problemă și s-a închis neașteptat. Filele ar trebui să fie listate pe pagina de start &brandShortName; după ce repornești navigatorul.">
 <!ENTITY  crash_send_report_message3 "Notifică &vendorShortName; despre această defecțiune astfel încât să o poată remedia">
 <!ENTITY  crash_include_url2 "Include adresa paginii pe care am fost">
@@ -28,8 +28,8 @@
 <!ENTITY  crash_comment "Adaugă un comentariu (comentariile sunt vizibile publicului)">
 <!ENTITY  crash_allow_contact2 "Permite &vendorShortName; să mă contacteze referitor la acest raport">
 <!ENTITY  crash_email "E-mailul tău">
-<!ENTITY  crash_closing_alert "Ieși fără să trimiți un raport de defect?">
-<!ENTITY  sending_crash_report "Se trimite raportul de defect\u2026">
+<!ENTITY  crash_closing_alert "Ieși fără să trimiți un raport de defecțiune?">
+<!ENTITY  sending_crash_report "Se trimite raportul de defecțiune\u2026">
 <!ENTITY  crash_close_label "Închide">
 <!ENTITY  crash_restart_label "Repornește &brandShortName;">
 <!ENTITY  exit_label "Ieșire">
@@ -298,10 +298,10 @@ size. -->
 <!ENTITY datareporting_abouthr_title "Vezi raportul meu de stare">
 <!ENTITY datareporting_telemetry_title "Telemetrie">
 <!ENTITY datareporting_telemetry_summary "Împărtășește date privind performanța, consumul, hardware-ul și personalizările navigatorului cu &vendorShortName; pentru a ne ajuta să facem &brandShortName; mai bun">
-<!ENTITY datareporting_crashreporter_summary "&brandShortName; trimite rapoarte de defecte pentru a ajuta &vendorShortName; să facă navigatorul mai stabil și sigur">
+<!ENTITY datareporting_crashreporter_summary "&brandShortName; trimite rapoarte de defecțiuni pentru a ajuta &vendorShortName; să facă navigatorul mai stabil și sigur">
 <!-- Localization note (datareporting_crashreporter_title_short) : This string matches
      (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
-<!ENTITY datareporting_crashreporter_title_short "Raportor de defecte">
+<!ENTITY datareporting_crashreporter_title_short "Raportor de defecțiuni">
 <!ENTITY datareporting_wifi_title2 "Serviciu de localizare &vendorShortName;">
 <!ENTITY datareporting_wifi_geolocation_summary4 "Ajută &vendorShortName; să facă harta lumii! Împărtășește locația aproximativă prin Wi-Fi și rețelele celulare ale dispozitivului pentru a îmbunătăți serviciul nostru de geolocalizare.">
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
