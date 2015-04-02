@@ -14,11 +14,11 @@
 <!ENTITY missingPlugin                                       "برای نمایش این محتوا، افزونه مورد نیاز است.">
 <!-- LOCALIZATION NOTE (tapToPlayPlugin): Mobile (used for touch interfaces) only has one type of plugin possible. -->
 <!ENTITY tapToPlayPlugin                                     "برای فعال‌سازی افزونه، فشار دهید.">
-
+<!ENTITY clickToActivatePlugin                               "فعال کردن افزونه.">
 <!ENTITY checkForUpdates                                     "گشتن به دنبال به‌روزرسانی‌ها">
 <!ENTITY disabledPlugin                                      "این افزونه غیرفعال است.">
 <!ENTITY blockedPlugin.label                                 "این متصل‌شونده به منظور محافظت از شما باز داشته شده است.">
-
+<!ENTITY hidePluginBtn.label                                 "مخفی کردن افزونه">
 <!ENTITY managePlugins                                       "مدیریت افزونه‌ها...">
 <!-- LOCALIZATION NOTE (reloadPlugin.pre): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (reloadPlugin.middle): avoid leading/trailing spaces, this text is a link -->
@@ -35,7 +35,8 @@
 <!ENTITY report.failed                                       "ارسال به مشکل برخورد.">
 <!ENTITY report.unavailable                                  "گزارشی وجود ندارد.">
 <!ENTITY report.comment                                      "افزودن یک توضیح (توضیحات در دسترس عموم قرار خواهند گرفت)">
+<!ENTITY report.pageURL                                      "اضافه‌کردن آدرس صفحه‌ها">
 
-
-
-
+<!ENTITY plugin.file                                         "پرونده">
+<!ENTITY plugin.mimeTypes                                    "انواع MIME">
+<!ENTITY plugin.flashProtectedMode.label                     "فعال‌سازی حالت محافظ در Adobe Flash">
