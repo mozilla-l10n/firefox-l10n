@@ -17,7 +17,15 @@
 <!ENTITY deniedPortAccess.longDesc "">
 
 <!ENTITY dnsNotFound.title "کارگزار پیدا نشد">
-
+<!ENTITY dnsNotFound.longDesc "<ul> 
+<li>نشانی را برای اشتباهات تایپی بررسی کنید که مثلا 
+<strong>ww </strong>.example.com به طور اشتباه به جای 
+<strong>www</strong>.example.com وارد نشده باشد.</li> 
+<li>اگر نمی‌توانید هیچ صفحه‌ای را بارگذاری کنید، 
+اتصال شبکه رایانه را بررسی کنید.</li> 
+<li>اگر رایانه یا شبکه شما توسط کارگزار یا دیوارآتش محافظت می‌شود مطمئن شوید 
+که &brandShortName; دسترسی به وب را دارد.</li> 
+</ul>">
 
 <!ENTITY fileNotFound.title "پرونده پیدا نشد">
 <!ENTITY fileNotFound.longDesc "<ul> <li>صحتِ نام پرونده را بررسی کنید.</li> <li>بررسی کنید که آیا پرونده جابه‌جا شده، تغییر نام یافته، یا پاک شده است.</li> </ul>">
@@ -125,6 +133,8 @@ functionality specific to firefox. -->
 <!ENTITY remoteXUL.title "XUL راه دور">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>لطفاً با صاحب این وب‌گاه تماس بگیرید و آنها را در جریان این مشکل قرار دهید.</li></ul></p>">
 
+<!ENTITY sslv3Used.title "قادر به برقراری اتصال امن نمیباشد">
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc) - Do not translate
      "ssl_error_unsupported_version". -->
+<!ENTITY sslv3Used.longDesc "اطلاعات پیشرفته: ssl_error_unsupported_version">
 <!ENTITY sslv3Used.learnMore "بیشتر بدانید…">
