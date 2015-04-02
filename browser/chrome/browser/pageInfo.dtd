@@ -22,7 +22,7 @@
 <!ENTITY  generalReferrer       "संदर्भ URL:">
 <!ENTITY  generalSource         "कैश स्रोत:">
 <!ENTITY  generalModified       "रूपांतरित:">
-<!ENTITY  generalEncoding       "ऐन्कोडिंग:">
+
 <!ENTITY  generalMetaName       "नाम">
 <!ENTITY  generalMetaContent    "अंतर्वस्तु">
 
@@ -83,3 +83,5 @@
 <!ENTITY  securityView.privacy.viewPasswords.accessKey  "w">
 
 <!ENTITY  securityView.technical.header                 "तकनीकी विवरण">
+
+<!ENTITY  helpButton.label                              "मदद">
