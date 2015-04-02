@@ -52,7 +52,7 @@
 <!ENTITY  font.langGroup.sinhala                  "Sinhala">
 <!ENTITY  font.langGroup.tibetan                  "Tibetan">
 <!-- Minimum font size -->
-<!ENTITY minSize.label                            "Mărime minimă font:">
+<!ENTITY minSize.label                            "Mărimea minimă a fontului:">
 <!ENTITY minSize.accesskey                        "M">
 <!ENTITY minSize.none                             "Fără">
 <!-- default font type -->
@@ -70,7 +70,7 @@
 
 <!ENTITY sendDefaultCharset.label         "Mesaje trimise:">
 <!ENTITY sendDefaultCharset.accesskey     "M">
-
+<!ENTITY languagesTitle2.label            "Codare de text">
 
 
 <!ENTITY viewDefaultCharsetList.label     "Mesaje primite:">
