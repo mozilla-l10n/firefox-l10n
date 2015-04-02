@@ -784,7 +784,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY pluginActivateNow.label "این بار اجازه بده">
 <!ENTITY pluginActivateAlways.label "اجازه بده و به خاطر بسپار">
-<!ENTITY pluginBlockNow.label "بلوکه کردن متصل‌شونده">
+<!ENTITY pluginBlockNow.label "مسدودکردن افزایه">
 <!-- LOCALIZATION NOTE: (pluginNotification.width): This is used to determine the
      width of the plugin popup notification that can appear if a plugin has been
      blocked on a page. Should be wide enough to fit the pluginActivateNow.label
