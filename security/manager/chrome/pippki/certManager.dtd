@@ -37,10 +37,6 @@
 <!ENTITY certmgr.editcert.trustssl            "Iki cyemezo gishobora kuranga imbugamakuru.">
 <!ENTITY certmgr.editcert.trustemail          "Iki cyemezo gishobora kuranga abakoresha ubutumwa.">
 <!ENTITY certmgr.editcert.trustobjsign        "Iki cyemezo gishobora kuranga abakora porogaramu mudasobwa.">
-<!ENTITY certmgr.editemailcert.title          "Guhindura amagenamiterere y'icyizere cy'icyemezo cya imiyili">
-
-
-
 
 <!ENTITY certmgr.deletecert.title             "Gusiba Icyemezo">
 
@@ -59,8 +55,6 @@
 
 
 
-<!ENTITY certmgr.editca.label                 "Guhindura Icyizere cya CA">
-<!ENTITY certmgr.editca.accesskey             "d">
 
 
 

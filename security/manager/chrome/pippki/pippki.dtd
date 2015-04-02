@@ -14,11 +14,6 @@
 <!ENTITY resetPasswordButtonLabel "Kugarura">
 <!ENTITY resetPassword.title  "Kugaruraho Ijambobanga Ngenga">
 <!ENTITY resetPassword.text  "Nugaruraho Ijambobanga ngenga ryawe, amagambobanga yawe y'urubuga na imeyili, ibyatanzwe by'imiterere, ibyemezo bwite, n'imfunguzo zihariye bizibagirana. Urashaka koko kugaruraho ijambobanga ngenga ryawe?">
-<!-- Values for getpassword.xul -->
-
-<!ENTITY getPassword.title  "Kwinjiza Ijambobanga Ngenga">
-
-<!ENTITY getPassword.password.label "Ijambobanga:">
 <!-- Downloading a cert -->
 
 <!ENTITY downloadCert.title "Irimo Kwimura Icyemezo">
@@ -49,13 +44,6 @@
 
 <!ENTITY chooseToken.title  "Guhitamo Agasandukukiganiro k'Akamenyetso">
 <!ENTITY chooseToken.message1 "Usabwe guhitamo akamenyetso.">
-
-<!ENTITY escrowWarn.title "Kopi y'Urufunguzo rw'Imisobekere">
-<!ENTITY escrowWarn.message1 "Icyitonderwa: Ubu buyobozi bw'icyemezo bwasabye gukora inyibutsa y'urufunguzo rwawe rw'imisobekere rwihariye.">
-<!ENTITY escrowWarn.benefit1 "Inyungu ni uko nutakaza ubushobozi bwo kugera ku rufunguzo rwawe rw'imisobekere rwihariye, ushobora gusaba kopi itangwa n'ubu buyobozi bw'icyemezo.">
-<!ENTITY escrowWarn.message2 "Nyamara, urufunguzo rwawe rw'imisobekere rwihariye ruzabikwa n'ubuyobozi bw'icyemezo, kandi rugashobora gukoreshwa kugira ngo usome imeyili cyangwa inyandiko zawe zasobetswe nta icyemezo cyawe.">
-<!ENTITY examineCert.label "Kugaragaza Icyemezo">
-<!ENTITY examineCert.accesskey "g">
 <!-- Strings for the CreateCertInfo dialog  -->
 
 <!ENTITY createCertInfo.title "Irimo Gutanga Urufunguzo Rwihariye">

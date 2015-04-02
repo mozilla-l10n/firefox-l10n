@@ -22,7 +22,7 @@
 <!ENTITY  generalReferrer       "URL Iranga:">
 <!ENTITY  generalSource         "Imvano y'Ubwihisho:">
 <!ENTITY  generalModified       "Byahinduwe:">
-<!ENTITY  generalEncoding       "Imisobekere:">
+
 <!ENTITY  generalMetaName       "Izina">
 <!ENTITY  generalMetaContent    "Ibikubiyemo">
 
@@ -76,3 +76,5 @@
 
 
 
+
+<!ENTITY  helpButton.label                              "Ifashayobora">
