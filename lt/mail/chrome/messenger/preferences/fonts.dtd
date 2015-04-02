@@ -8,8 +8,8 @@
 <!ENTITY  language.accesskey                      "K">
 
 <!ENTITY  size.label                              "Dydis:">
-
-
+<!ENTITY  sizeProportional.accesskey              "D">
+<!ENTITY  sizeMonospace.accesskey                 "y">
 
 <!ENTITY  proportional.label                      "Įvairiaplotis:">
 <!ENTITY  proportional.accesskey                  "v">
@@ -31,7 +31,7 @@
 <!ENTITY  font.langGroup.korean                   "Korėjiečių">
 <!ENTITY  font.langGroup.cyrillic                 "Kirilica">
 <!ENTITY  font.langGroup.el                       "Graikų">
-
+<!ENTITY  font.langGroup.other                    "Kitos rašto sistemos">
 <!ENTITY  font.langGroup.thai                     "Tajų">
 <!ENTITY  font.langGroup.hebrew                   "Hebrajų">
 <!ENTITY  font.langGroup.arabic                   "Arabų">
@@ -71,9 +71,9 @@
 <!ENTITY sendDefaultCharset.label         "Laiškų rašymo:">
 <!ENTITY sendDefaultCharset.accesskey     "r">
 <!ENTITY languagesTitle2.label            "Teksto koduotė">
-
+<!ENTITY composingDescription2.label      "Laiškų rašymo ir skaitymo numatytosios koduotės">
 
 <!ENTITY viewDefaultCharsetList.label     "Laiškų skaitymo:">
 <!ENTITY viewDefaultCharsetList.accesskey  "s">
-
-
+<!ENTITY replyInDefaultCharset3.label     "Kai galima, numatytąją koduotę naudoti ir atsakant į laiškus">
+<!ENTITY replyInDefaultCharset3.accesskey "n">

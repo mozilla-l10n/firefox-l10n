@@ -40,7 +40,7 @@
 <!ENTITY threadColumn.label "Gija">
 <!ENTITY fromColumn.label "Siuntėjas">
 <!ENTITY recipientColumn.label "Gavėjas">
-
+<!ENTITY correspondentColumn.label "Korespondentai">
 <!ENTITY subjectColumn.label "Tema">
 <!ENTITY dateColumn.label "Data ir laikas">
 <!ENTITY priorityColumn.label "Prioritetas">
@@ -62,7 +62,7 @@
 <!ENTITY threadColumn2.tooltip "Rodyti laiškų gijas">
 <!ENTITY fromColumn2.tooltip "Rikiuoti pagal siuntėją">
 <!ENTITY recipientColumn2.tooltip "Rikiuoti pagal gavėją">
-
+<!ENTITY correspondentColumn2.tooltip "Rikiuoti pagal korespondentus">
 <!ENTITY subjectColumn2.tooltip "Rikiuoti pagal temą">
 <!ENTITY dateColumn2.tooltip "Rikiuoti pagal datą">
 <!ENTITY priorityColumn2.tooltip "Rikiuoti pagal prioritetą">

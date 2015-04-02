@@ -14,10 +14,10 @@
 <!ENTITY enableGlodaSearch.accesskey   "g">
 <!ENTITY allowHWAccel.label            "Jei įmanoma, naudoti aparatinį spartinimą">
 <!ENTITY allowHWAccel.accesskey        "a">
-
-
-
-
+<!ENTITY storeType.label               "Laiškų saugojimo būdas naujoms paskyroms:">
+<!ENTITY storeType.accesskey           "b">
+<!ENTITY mboxStore2.label              "Atskiras failas kiekvienam aplankui („mbox“)">
+<!ENTITY maildirStore.label            "Atskiras failas kiekvienam laiškui („Maildir“)">
 
 <!ENTITY scrolling.label               "Slinkimas">
 <!ENTITY useAutoScroll.label           "Slinkti automatiškai">
@@ -41,15 +41,16 @@
 <!-- Data Choices -->
 
 <!ENTITY telemetrySection.label          "Telemetrija">
+<!ENTITY telemetryDesc.label             "Programos „&brandShortName;“ tobulinimo tikslais siunčia „&vendorShortName;i“ duomenis apie jos našumą, naudojamas funkcijas, tinkinimą ir kompiuterio aparatinę įrangą">
+<!ENTITY enableTelemetry.label           "Įgalinti telemetriją">
+<!ENTITY enableTelemetry.accesskey       "t">
+<!ENTITY telemetryLearnMore.label        "Sužinoti daugiau">
 
-
-
-
-
-
-
-
-
+<!ENTITY crashReporterSection.label      "Strigčių pranešiklis">
+<!ENTITY crashReporterDesc.label         "„&brandShortName;“ strigčių pranešimus siunčia „&vendorShortName;i“ programos stabilumo ir saugumo gerinimo tikslais">
+<!ENTITY enableCrashReporter.label       "Įgalinti strigčių pranešiklį">
+<!ENTITY enableCrashReporter.accesskey   "p">
+<!ENTITY crashReporterLearnMore.label    "Sužinoti daugiau">
 <!-- Display and Reading Settings -->
 
 <!ENTITY reading.caption               "Skaitymas">
