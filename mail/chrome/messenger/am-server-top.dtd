@@ -74,7 +74,7 @@
 <!ENTITY abbreviateOff.label "Kısa isimler (örnek, 'n.p.m.mail-news')">
 <!ENTITY advancedButton.label "Gelişmiş…">
 <!ENTITY advancedButton.accesskey "G">
-<!ENTITY serverDefaultCharset.label "Varsayılan karakter kodlaması:">
+
 <!ENTITY localPath.label "Yerel dizin:">
 <!ENTITY localFolderPicker.label "Yerel dizin seçin">
 <!ENTITY browseFolder.label "Gözat…">
@@ -86,5 +86,5 @@
 <!ENTITY accountSettingsDesc.label "Bu bir özel hesaptır. Bu hesaba ilişkin kimlik bulunmamaktadır.">
 <!ENTITY storeType.label "İleti Depolama Türü:">
 <!ENTITY storeType.accesskey "T">
-<!ENTITY mboxStore.label "Tek bir büyük dosya (mbox)">
+
 <!ENTITY maildirStore.label "Her ileti için bir dosya (maildir)">
