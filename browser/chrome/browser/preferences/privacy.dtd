@@ -4,31 +4,36 @@
 
 <!ENTITY tracking.label                 "ره‌گیری">
 
+<!ENTITY dntTrackingNotOkay.label2      "به سایت‌ها بگو که نمی‌خواهم ردیابی شوم">
 <!ENTITY dntTrackingNotOkay.accesskey   "n">
-
-
-
+<!ENTITY trackingProtection.label       "از سایت‌ها برای ردیابی من جلوگیری کن">
+<!ENTITY trackingProtection.accesskey   "ر">
+<!ENTITY trackingProtectionLearnMore.label "اطلاعات بیشتر">
 <!ENTITY doNotTrackInfo.label           "بیشتر بدانید">
 
+<!ENTITY  history.label                 "تاریخچه">
 
 <!ENTITY  locationBar.label             "نوار مکان">
 
-
-
-
-
-
-
+<!ENTITY  locbar.suggest.label          "هنگام استفاده از نوار مکان، از میان این موارد پیشنهاد بده:">
+<!ENTITY  locbar.history.label          "تاریخچه">
+<!ENTITY  locbar.history.accesskey      "ت">
+<!ENTITY  locbar.bookmarks.label        "نشانک‌ها">
+<!ENTITY  locbar.bookmarks.accesskey    "ن">
+<!ENTITY  locbar.openpage.label         "باز کردن زبانه‌ها">
+<!ENTITY  locbar.openpage.accesskey     "ب">
 
 <!ENTITY  acceptCookies.label           "به وب‌گاه‌ها اجازهٔ استفاده از کوکی داده شود">
 <!ENTITY  acceptCookies.accesskey       "ج">
 
-
+<!ENTITY  acceptThirdParty.pre.label      "پذیرفتن کوکی‌های شخص ثالث:">
+<!ENTITY  acceptThirdParty.pre.accesskey  "ث">
 <!ENTITY  acceptThirdParty.always.label   "همیشه">
 <!ENTITY  acceptThirdParty.never.label    "هرگز">
 <!ENTITY  acceptThirdParty.visited.label  "از بازدید">
 
-
+<!ENTITY  keepUntil.label               "نگهداری شوند تا:">
+<!ENTITY  keepUntil.accesskey           "ن">
 
 <!ENTITY  expire.label                  "منقضی شوند">
 <!ENTITY  close.label                   "&brandShortName; بسته شود">

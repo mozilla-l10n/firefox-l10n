@@ -2,10 +2,14 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this file,
    - You can obtain one at http://mozilla.org/MPL/2.0/.  -->
 
+<!ENTITY refreshProfile.dialog.title         "بازآوری &brandShortName;">
+<!ENTITY refreshProfile.dialog.description1  "جهت حل مشکلات و بازگرداندن کارایی از نو شروع کن.">
 
+<!ENTITY refreshProfile.dialog.items.label1  "حذف درافزاهای و سفارشی سازی های شما">
+<!ENTITY refreshProfile.dialog.items.label2  "بازگرداندن تنظیمات مرورگر شما به حالت پیش فرض">
+<!ENTITY refreshProfile.dialog.button.label  "بازآوری &brandShortName;">
 
+<!ENTITY refreshProfile.title                "ارائه &brandShortName; جهت بازبینی کلی ">
+<!ENTITY refreshProfile.button.label         "بازآوری &brandShortName;…">
 
-
-
-
-
+<!ENTITY refreshProfile.cleaning.description "تقریبا انجام شده است...">
