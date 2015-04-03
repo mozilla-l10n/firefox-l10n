@@ -12,9 +12,9 @@
 <!ENTITY calendar.unifinder.todoitems.label       "Oppgaver" >
 <!ENTITY calendar.unifinder.showcompletedtodos.label "Vis fullførte oppgaver">
 
-<!ENTITY calendar.today.button.label       "I dag">
+<!ENTITY calendar.today.button.label          "I dag">
 <!ENTITY calendar.tomorrow.button.label       "I morgen">
-<!ENTITY calendar.soon.button.label           "Snart">
+<!ENTITY calendar.upcoming.button.label       "Kommende">
 
 <!ENTITY calendar.events.filter.all.label "Alle hendelser">
 <!ENTITY calendar.events.filter.today.label "Dagens hendelser">
@@ -232,8 +232,17 @@
 <!ENTITY calendar.context.newserver.accesskey          "N">
 <!ENTITY calendar.context.findcalendar.label           "Finn kalender …" >
 <!ENTITY calendar.context.findcalendar.accesskey       "F" >
-<!ENTITY calendar.context.deleteserver.label           "Slett kalender">
-<!ENTITY calendar.context.deleteserver.accesskey       "S">
+<!ENTITY calendar.context.deleteserver2.label          "Slett kalender">
+<!ENTITY calendar.context.deleteserver2.accesskey      "S">
+
+<!-- LOCALIZATION NOTE (calendar.context.removeserver.label): Removing the
+      calendar is the general action of removing it, while deleting means to
+      clear the data and unsubscribing means just taking it out of the calendar
+      list. -->
+<!ENTITY calendar.context.removeserver.label           "Fjern kalender …">
+<!ENTITY calendar.context.removeserver.accesskey       "F">
+<!ENTITY calendar.context.unsubscribeserver.label      "Stopp abonnement på kalender …">
+<!ENTITY calendar.context.unsubscribeserver.accesskey  "S">
 <!ENTITY calendar.context.synccalendars.label          "Synkroniser kalendre">
 <!ENTITY calendar.context.synccalendars.accesskey      "S">
 <!ENTITY calendar.context.publish.label                "Publiser kalender …">
