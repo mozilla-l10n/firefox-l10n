@@ -5,7 +5,7 @@
 <!ENTITY itemGeneral.label       "Splošno">
 <!ENTITY dataChoicesTab.label    "Izbire podatkov">
 <!ENTITY itemDisplay.label       "Branje in prikaz">
-<!ENTITY itemUpdate.label        "Posodobitev">
+<!ENTITY itemUpdate.label        "Posodobitve">
 <!ENTITY itemNetworking.label    "Omrežje in prostor na disku">
 <!ENTITY itemCertificates.label  "Potrdila">
 <!-- General Settings -->
@@ -41,13 +41,13 @@
 <!-- Data Choices -->
 
 <!ENTITY telemetrySection.label          "Telemetrija">
-<!ENTITY telemetryDesc.label             "Deli zmogljivost, uporabo, strojno opremo in podatke o prilagoditvi vašega e-poštnega odjemalca s/z &vendorShortName;om, da nam pomaga narediti &brandShortName; boljšega">
+<!ENTITY telemetryDesc.label             "Deli zmogljivost, uporabo, strojno opremo in podatke o prilagoditvi vašega e-poštnega odjemalca s/z &vendorShortName;, da nam pomaga narediti &brandShortName; boljšega">
 <!ENTITY enableTelemetry.label           "Omogoči telemetrijo">
 <!ENTITY enableTelemetry.accesskey       "e">
 <!ENTITY telemetryLearnMore.label        "Več o tem">
 
 <!ENTITY crashReporterSection.label      "Poročevalec o sesutju">
-<!ENTITY crashReporterDesc.label         "&brandShortName; pošlje poročila o sesutju, da pomaga &vendorShortName;u vašega e-poštnega odjemalca narediti bolj stabilnega in varnega.">
+<!ENTITY crashReporterDesc.label         "&brandShortName; pošlje poročila o sesutju, da pomaga &vendorShortName; vašega e-poštnega odjemalca narediti bolj stabilnega in varnega">
 <!ENTITY enableCrashReporter.label       "Omogoči Poročevalca o sesutju">
 <!ENTITY enableCrashReporter.accesskey   "P">
 <!ENTITY crashReporterLearnMore.label    "Več o tem">
