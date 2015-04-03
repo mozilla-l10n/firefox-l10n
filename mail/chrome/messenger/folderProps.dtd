@@ -5,10 +5,10 @@
 <!ENTITY folderProps.windowtitle.label           "Eigenschappen">
 
 <!ENTITY generalInfo.label                       "Algemene informatie">
-<!ENTITY folderCharsetFallback.label             "Terugvaltekenset:">
-<!ENTITY folderCharsetFallback.accesskey         "e">
-<!ENTITY folderCharsetEnforce.label              "Tekenset op alle berichten in de map toepassen (de in berichten opgegeven tekenset en autodetectie worden genegeerd)">
-<!ENTITY folderCharsetEnforce.accesskey          "a">
+<!ENTITY folderCharsetFallback2.label            "Terugvaltekstcodering:">
+<!ENTITY folderCharsetFallback2.accesskey        "e">
+<!ENTITY folderCharsetEnforce2.label             "Codering op alle berichten in de map toepassen (de in berichten opgegeven tekstcodering en autodetectie worden genegeerd)">
+<!ENTITY folderCharsetEnforce2.accesskey         "a">
 <!ENTITY folderRebuildSummaryFileTip2.label      "Samenvattingsbestand opnieuw opbouwen">      
 <!ENTITY folderRebuildSummaryFile2.label         "Map repareren">
 <!ENTITY folderRebuildSummaryFile2.accesskey     "r">
