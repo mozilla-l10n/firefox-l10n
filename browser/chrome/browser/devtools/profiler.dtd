@@ -107,3 +107,13 @@
   -  is recorded. -->
 <!ENTITY profilerUI.enableFramerate             "Enregistrer la fréquence d'images">
 <!ENTITY profilerUI.enableFramerate.tooltiptext "Enregistrer la fréquence d'images lors du profilage.">
+
+<!-- LOCALIZATION NOTE (profilerUI.showJITOptimizations): This string
+  -  is displayed next to a checkbox determining whether or not JIT optimization data
+  -  should be shown. -->
+<!ENTITY profilerUI.showJITOptimizations             "Afficher les optimisations JIT">
+<!ENTITY profilerUI.showJITOptimizations.tooltiptext "Afficher les données relatives aux optimisations JIT pour chaque intervalle de l'arbre d'appels JS.">
+
+<!-- LOCALIZATION NOTE (profilerUI.JITOptimizationsTitle): This string
+  -  is displayed as the title of the JIT Optimizations panel. -->
+<!ENTITY profilerUI.JITOptimizationsTitle "Optimisations JIT">
