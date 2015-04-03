@@ -16,7 +16,7 @@
 <!ENTITY allowHWAccel.accesskey        "v">
 <!ENTITY storeType.label               "Type berichtenopslag voor nieuwe accounts:">
 <!ENTITY storeType.accesskey           "b">
-<!ENTITY mboxStore.label               "Eén groot bestand (mbox)">
+<!ENTITY mboxStore2.label              "Eén bestand per map (mbox)">
 <!ENTITY maildirStore.label            "Eén bestand per bericht (maildir)">
 
 <!ENTITY scrolling.label               "Scrollen">

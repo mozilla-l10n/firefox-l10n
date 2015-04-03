@@ -40,6 +40,7 @@
 <!ENTITY threadColumn.label "Conversatie">
 <!ENTITY fromColumn.label "Van">
 <!ENTITY recipientColumn.label "Ontvanger">
+<!ENTITY correspondentColumn.label "Correspondenten">
 <!ENTITY subjectColumn.label "Onderwerp">
 <!ENTITY dateColumn.label "Datum">
 <!ENTITY priorityColumn.label "Prioriteit">
@@ -61,6 +62,7 @@
 <!ENTITY threadColumn2.tooltip "Berichtconversaties weergeven">
 <!ENTITY fromColumn2.tooltip "Sorteren op van">
 <!ENTITY recipientColumn2.tooltip "Sorteren op ontvanger">
+<!ENTITY correspondentColumn2.tooltip "Sorteren op correspondenten">
 <!ENTITY subjectColumn2.tooltip "Sorteren op onderwerp">
 <!ENTITY dateColumn2.tooltip "Sorteren op datum">
 <!ENTITY priorityColumn2.tooltip "Sorteren op prioriteit">
