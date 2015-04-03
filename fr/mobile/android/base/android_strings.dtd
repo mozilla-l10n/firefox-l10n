@@ -257,7 +257,8 @@ size. -->
 <!ENTITY pref_import_android "Importer depuis Android">
 <!ENTITY pref_import_android_summary "Importer les marque-pages et l\u0027historique du navigateur d\u0027origine">
 <!ENTITY pref_private_data_history2 "Historique de navigation">
-<!ENTITY pref_private_data_formdata "Historique des formulaires et des recherches">
+<!ENTITY pref_private_data_searchHistory "Historique des recherches">
+<!ENTITY pref_private_data_formdata2 "Historique des formulaires">
 <!ENTITY pref_private_data_cookies2 "Cookies et connexions actives">
 <!ENTITY pref_private_data_passwords "Mots de passe enregistrés">
 <!ENTITY pref_private_data_cache "Cache">
