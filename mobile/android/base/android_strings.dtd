@@ -42,7 +42,7 @@
 <!ENTITY url_bar_default_text2 "Arama yapın veya adres girin">
 
 <!ENTITY bookmark "Yer imi">
-
+<!ENTITY bookmark_remove "Yer imini kaldır">
 <!ENTITY bookmark_added "Yer imi eklendi">
 <!ENTITY bookmark_removed "Yer imi silindi">
 <!ENTITY bookmark_updated "Yer imi güncellendi">
@@ -80,7 +80,7 @@
 <!ENTITY pref_category_advanced "Gelişmiş">
 <!ENTITY pref_category_customize "Özelleştir">
 <!ENTITY pref_category_customize_summary "Başlangıç, arama, sekmeler, içerik alma">
-
+<!ENTITY pref_category_customize_alt_summary "Giriş, arama, sekmeler, daha sonra aç, içe al">
 <!-- Localization note (pref_category_language) : This is the preferences
      section in which the user picks the locale in which to display Firefox
      UI. The locale includes both language and region concepts. -->
@@ -119,12 +119,14 @@
 <!-- Localization note (overlay_no_synced_devices) : Used when the menu option
      to send a tab to a synced device is pressed and no other synced devices
      are found. -->
+<!ENTITY overlay_no_synced_devices "Firefox Hesabı\u0027nıza bağlı hiç cihaz bulunamadı">
 <!-- Localization note (overlay_share_tab_not_sent) : Used when the menu option
      to send a tab to a synced device is pressed and there is an error
      connecting to the server so the tab could not be sent. The text should be
      divided into two lines (use the newline escape character, "\n", between
      them): the first notifying the user about the failure and the second
      telling the user what to do about it. -->
+<!ENTITY overlay_share_tab_not_sent "Sekmeniz gönderilemedi.\nLütfen daha sonra yeniden deneyin.">
 
 <!ENTITY pref_category_search3 "Arama">
 <!ENTITY pref_category_search_summary "Arama sağlayıcılarınızı özelleştirin">
@@ -190,7 +192,8 @@
 <!ENTITY pref_donottrack_title "Beni izleme">
 <!ENTITY pref_donottrack_summary "&brandShortName;sitelere izlenmek istemediğinizi söyleyecek">
 
-
+<!ENTITY tab_queue_toast_message "Daha sonra aç">
+<!ENTITY tab_queue_toast_action "Şimdi aç">
 <!-- Localization note (tab_queue_notification_text_plural) : The
      formatD is replaced with the number of tabs queued.  The
      number of tabs queued is always more than one.  We can't use
@@ -296,7 +299,7 @@ size. -->
      (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
 <!ENTITY datareporting_crashreporter_title_short "Çökme Habercisi">
 <!ENTITY datareporting_wifi_title2 "&vendorShortName; konum servisi">
-
+<!ENTITY datareporting_wifi_geolocation_summary4 "&vendorShortName;\u0027nın dünyayı keşfetmesine yardım edin! Coğrafi konum hizmetimizi geliştirmek için aygıtınızın yaklaşık Wi-Fi ve hücresel konumunu paylaşın.">
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
      actual notification that an update is available. -->
@@ -369,8 +372,8 @@ size. -->
      contains brackets to indicate this is not actually a username, but rather a placeholder -->
 
 <!ENTITY doorhanger_login_edit_username_hint "Kullanıcı adı">
-
-
+<!ENTITY doorhanger_login_edit_password_hint "Parola">
+<!ENTITY doorhanger_login_edit_toggle "Parolayı göster">
 
 <!ENTITY pref_titlebar_mode "Başlık çubuğu">
 <!ENTITY pref_titlebar_mode_title "Sayfa başlığını göster">
@@ -381,6 +384,7 @@ size. -->
 <!ENTITY pref_scroll_title_bar2 "Tam ekran gezinti">
 <!ENTITY pref_scroll_title_bar_summary "Sayfada aşağı kaydırırken &brandShortName; başlık çubuğunu gizle">
 
+<!ENTITY pref_tab_queue_title "Daha sonra aç">
 
 <!-- Localization note (page_removed): This string appears in a toast message when
      any page is removed frome about:home. This includes pages that are in history,
@@ -419,7 +423,7 @@ size. -->
 
 <!ENTITY masterpassword_create_title "Ana parola oluştur">
 <!ENTITY masterpassword_remove_title "Ana parolayı kaldır">
-
+<!ENTITY masterpassword_password "Parola">
 <!ENTITY masterpassword_confirm "Parolayı doğrulayın">
 
 <!ENTITY button_ok "Tamam">
