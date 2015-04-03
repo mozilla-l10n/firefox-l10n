@@ -16,4 +16,4 @@
 <!ENTITY calendar.invitations.list.location.text                        "Lec'hiadur :  ">
 <!ENTITY calendar.invitations.list.organizer.text                       "Aozer :  ">
 <!ENTITY calendar.invitations.list.attendee.text                        "Perzhiad :  ">
-
+<!ENTITY calendar.invitations.list.none.text                            "Netra">

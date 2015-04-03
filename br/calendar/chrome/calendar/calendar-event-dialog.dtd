@@ -23,7 +23,7 @@
 <!ENTITY newevent.status.confirmed.label          "Kadarnaet" >
 <!ENTITY newevent.status.confirmed.accesskey      "K" >
 <!ENTITY newevent.status.needsaction.label        "Gwered dleet" >
-
+<!ENTITY newevent.status.inprogress.label         "En Ardreug" >
 <!ENTITY newevent.status.completed.label          "Klokaet" >
 <!-- The following entity is for New Task dialog only -->
 
@@ -79,20 +79,20 @@
 
 
 
+<!ENTITY  event.menu.edit.cut.label                       "Troc'hañ">
+<!ENTITY  event.menu.edit.cut.accesskey                   "T">
+<!ENTITY  event.menu.edit.copy.label                      "Eilañ">
+<!ENTITY  event.menu.edit.copy.accesskey                  "E">
+<!ENTITY  event.menu.edit.paste.label                     "Pegañ">
+<!ENTITY  event.menu.edit.paste.accesskey                 "e">
 
 
 
 
 
 
-
-
-
-
-
-
-
-
+<!ENTITY  event.menu.view.toolbars.event.label            "Barrenn Degouezhadennoù">
+<!ENTITY  event.menu.view.toolbars.event.accesskey        "B">
 <!ENTITY  event.menu.view.toolbars.customize.label        "Personelaat...">
 <!ENTITY  event.menu.view.toolbars.customize.accesskey    "P">
 <!ENTITY  event.menu.view.showlink.label                  "Skrammañ an ereoù liammet">
@@ -120,23 +120,24 @@
 <!ENTITY  event.menu.options.privacy.public.accesskey         "D">
 <!ENTITY  event.menu.options.privacy.confidential.label       "Diskouez an eur hag an deiziad hepken">
 <!ENTITY  event.menu.options.privacy.confidential.accesskey   "i">
+<!ENTITY  event.menu.options.privacy.private.label            "Degouezhadenn prevez">
+<!ENTITY  event.menu.options.privacy.private.accesskey        "r">
+<!ENTITY  event.menu.options.show.time.label                  "Skrammañ &amp; Eur evel">
+<!ENTITY  event.menu.options.show.time.accesskey              "T">
 
 
 
 
 
-
-
-
-
-
+<!ENTITY event.invite.attendees.label                     "Kouviañ Perzhidi">
+<!ENTITY event.invite.attendees.accesskey                 "K">
 <!ENTITY event.email.attendees.label                      "Skridaozañ ur bostel d'an holl berzhidi...">
 <!ENTITY event.email.attendees.accesskey                  "h">
-
-
+<!ENTITY event.email.tentative.attendees.label            "Sevel Postel evit Perzhidi Arvarus">
+<!ENTITY event.email.tentative.attendees.accesskey        "P">
 <!-- Toolbar -->
 
-
+<!ENTITY  event.toolbar.attendees.label                   "Kouviañ Perzhidi">
 <!ENTITY  event.toolbar.privacy.label                     "Prevezded">
 
 <!ENTITY  event.toolbar.save.tooltip                      "Enrollañ ha serriñ">
@@ -196,16 +197,16 @@
 <!ENTITY event.priority2.label                            "Renk :">
 
 <!ENTITY event.reminder.none.label                        "Adgalv ebet" >
-
-
+<!ENTITY event.reminder.0minutes.before.label             "0 munutenn kent" >
+<!ENTITY event.reminder.5minutes.before.label             "5 munutenn kent" >
 <!ENTITY event.reminder.15minutes.before.label            "15 munutenn a-raok" >
 <!ENTITY event.reminder.30minutes.before.label            "30 munutenn a-raok" >
 <!ENTITY event.reminder.1hour.before.label                "1 eur a-raok" >
 <!ENTITY event.reminder.2hours.before.label               "2 eur a-raok" >
-
-
-
-
+<!ENTITY event.reminder.12hours.before.label              "12 eur kent" >
+<!ENTITY event.reminder.1day.before.label                 "1 devezh kent" >
+<!ENTITY event.reminder.2days.before.label                "2 zevezh kent" >
+<!ENTITY event.reminder.1week.before.label                "1 sizhun kent" >
 
 
 
@@ -233,15 +234,15 @@
 
 <!ENTITY event.recurrence.pattern.weekly.every.label    "Bep" >
 <!ENTITY repeat.units.weeks.both                        "Sizhun(ioù)" >
-
+<!ENTITY event.recurrence.on.label                      "War" >
 
 <!ENTITY event.recurrence.pattern.monthly.every.label   "Bep" >
 <!ENTITY repeat.units.months.both                       "Miz(ioù)" >
 <!ENTITY event.recurrence.monthly.every.label           "Bep" >
 <!ENTITY event.recurrence.monthly.first.label           "An hini kentañ">
-
-
-
+<!ENTITY event.recurrence.monthly.second.label          "An Eil">
+<!ENTITY event.recurrence.monthly.third.label           "An Trede">
+<!ENTITY event.recurrence.monthly.fourth.label          "Ar Pevare">
 
 
 
@@ -282,10 +283,10 @@
 <!ENTITY event.recurrence.yearly.every.label                 "Bep">
 <!ENTITY event.recurrence.yearly.first.label                 "An hini kentañ">
 <!ENTITY event.recurrence.yearly.second.label                "An eil">
-
-
-
-
+<!ENTITY event.recurrence.yearly.third.label                 "An Trede">
+<!ENTITY event.recurrence.yearly.fourth.label                "Ar Pevare">
+<!ENTITY event.recurrence.yearly.fifth.label                 "Ar Pempvet">
+<!ENTITY event.recurrence.yearly.last.label                  "An Diwezhañ">
 <!ENTITY event.recurrence.pattern.yearly.week.1.label        "Sul" >
 <!ENTITY event.recurrence.pattern.yearly.week.2.label        "Lun" >
 <!ENTITY event.recurrence.pattern.yearly.week.3.label        "Meurzh" >
@@ -324,10 +325,10 @@
 
 
 
-
-
-
-
+<!ENTITY event.attendee.role.required           "Perzhiad azgoulennet">
+<!ENTITY event.attendee.role.optional           "Perzhiad diret">
+<!ENTITY event.attendee.role.chair              "Kador">
+<!ENTITY event.attendee.role.nonparticipant     "Nann Berzhiad">
 <!ENTITY event.attendee.usertype.individual     "Hiniennel">
 <!ENTITY event.attendee.usertype.group          "Strollad">
 
