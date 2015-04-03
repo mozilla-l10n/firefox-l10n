@@ -8,7 +8,7 @@
 <!ENTITY muteButton.unmuteLabel "وصل صدا">
 <!ENTITY fullscreenButton.enterfullscreenlabel "تمام‌صفحه">
 <!ENTITY fullscreenButton.exitfullscreenlabel "خروج از تمام‌صفحه">
-
+<!ENTITY castingButton.castingLabel "قالب بر اساس صفحه نمایش">
 
 <!ENTITY stats.media "رسانه">
 <!ENTITY stats.size "اندازه">
