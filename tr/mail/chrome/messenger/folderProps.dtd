@@ -5,17 +5,17 @@
 <!ENTITY folderProps.windowtitle.label           "Özellikler">
 
 <!ENTITY generalInfo.label                       "Genel bilgiler">
-<!ENTITY folderCharsetFallback.label             "Alternatif karakter kodlaması:">
-<!ENTITY folderCharsetFallback.accesskey         "k">
-<!ENTITY folderCharsetEnforce.label              "Dizindeki tüm iletilere kodlamayı uygula (ayrı ileti karakter kodlama ayarları ve otomatik tespit görmezden gelinecek)">
-<!ENTITY folderCharsetEnforce.accesskey          "A">
+
+
+
+
 <!ENTITY folderRebuildSummaryFileTip2.label      "Özet dosyası indeksini yeniden oluştur">
 <!ENTITY folderRebuildSummaryFile2.label         "Dizini onar">
 <!ENTITY folderRebuildSummaryFile2.accesskey     "r">
 <!ENTITY folderRebuildSummaryFile.explanation    "Bazen dizin indeks dosyası (.msf) hasar görebilir ve iletiler eksik görünebilir veya silinmiş iletiler görünmeye devam edebilir. Dizini onarmak bu sorunları çözebilir.">
 <!ENTITY folderIncludeInGlobalSearch.label       "Bu dizindeki iletileri global arama sonuçlarına dâhil et">
 <!ENTITY folderIncludeInGlobalSearch.accesskey   "g">
-     
+
 <!ENTITY retention.label "Kayıt ilkeleri">
 <!ENTITY retentionUseAccount.label  "Hesap ayarlarımı kullan">
 <!ENTITY retentionUseAccount.accesskey "H">

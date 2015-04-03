@@ -8,8 +8,8 @@
 <!ENTITY  language.accesskey                      "D">
 
 <!ENTITY  size.label                              "Boyut:">
-<!ENTITY  proportionalSize.accesskey              "o">
-<!ENTITY  sizeMono.accesskey                      "u">
+
+
 
 <!ENTITY  proportional.label                      "Orantılı:">
 <!ENTITY  proportional.accesskey                  "O">
@@ -20,20 +20,16 @@
 <!ENTITY  sans-serif.accesskey                    "n">
 <!ENTITY  monospace.label                         "Monospace:">
 <!ENTITY  monospace.accesskey                     "M">
-
-<!ENTITY  font.langGroup.latin1                   "Batı Avrupa">
-<!ENTITY  font.langGroup.latin2                   "Orta Avrupa">
+<!-- LOCALIZATION NOTE (font.langGroup.latin) :
+     Translate "Latin" as the name of Latin (Roman) script, not as the name of the Latin language. -->
 <!ENTITY  font.langGroup.japanese                 "Japonca">
 <!ENTITY  font.langGroup.trad-chinese             "Geleneksel Çince (Tayvan)">
 <!ENTITY  font.langGroup.simpl-chinese            "Basitleştirilmiş Çince">
 <!ENTITY  font.langGroup.trad-chinese-hk          "Geleneksel Çince (Hong Kong)">
 <!ENTITY  font.langGroup.korean                   "Korece">
 <!ENTITY  font.langGroup.cyrillic                 "Kiril">
-<!ENTITY  font.langGroup.baltic                   "Baltık">
 <!ENTITY  font.langGroup.el                       "Yunanca">
-<!ENTITY  font.langGroup.turkish                  "Türkçe">
-<!ENTITY  font.langGroup.unicode1                 "Unicode">
-<!ENTITY  font.langGroup.user-def                 "Kullanıcı Tanımlı">
+
 <!ENTITY  font.langGroup.thai                     "Tay Dili">
 <!ENTITY  font.langGroup.hebrew                   "İbranice">
 <!ENTITY  font.langGroup.arabic                   "Arapça">
@@ -48,8 +44,12 @@
 <!ENTITY  font.langGroup.gurmukhi                 "Gurmukhi Dili">
 <!ENTITY  font.langGroup.khmer                    "Kamboçya Dili">
 <!ENTITY  font.langGroup.malayalam                "Malayalam">
-<!-- Minimum font size -->
 
+
+
+
+
+<!-- Minimum font size -->
 <!ENTITY minSize.label                            "En küçük yazı tipi boyutu:">
 <!ENTITY minSize.accesskey                        "z">
 <!ENTITY minSize.none                             "Hiçbiri">
@@ -68,10 +68,10 @@
 
 <!ENTITY sendDefaultCharset.label         "Giden Posta:">
 <!ENTITY sendDefaultCharset.accesskey     "d">
-<!ENTITY languagesTitle1.label            "Karakter Kümeleri">
-<!ENTITY composingDescription.label       "Alınan ve gönderilen e-postalar için varsayılan karakter kodlamalarını ayarla">
+
+
 
 <!ENTITY viewDefaultCharsetList.label     "Gelen Posta:">
 <!ENTITY viewDefaultCharsetList.accesskey  "G">
-<!ENTITY replyInDefaultCharset2.label     "Mümkün olduğunda yanıtlarda varsayılan karakter kodlamasını kullan">
-<!ENTITY replyInDefaultCharset2.accesskey "y">
+
+
