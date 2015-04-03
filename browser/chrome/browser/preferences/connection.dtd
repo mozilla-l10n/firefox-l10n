@@ -31,8 +31,8 @@
 <!ENTITY  socks4.accesskey              "4">
 <!ENTITY  socks5.label                  "پراکسی SOCKS v5">
 <!ENTITY  socks5.accesskey              "5">
-
-
+<!ENTITY  socksRemoteDNS.label          "کارگزاری از را دور DNS">
+<!ENTITY  socksRemoteDNS.accesskey      "D">
 <!ENTITY  port.label                    "درگاه:">
 <!ENTITY  HTTPport.accesskey            "P">
 <!ENTITY  SSLport.accesskey             "o">

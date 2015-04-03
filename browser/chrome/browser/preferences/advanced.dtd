@@ -120,5 +120,5 @@
 
 <!ENTITY viewCerts.label                 "نمایش‌ گواهینامه‌ها">
 <!ENTITY viewCerts.accesskey             "گ">
-
-
+<!ENTITY viewSecurityDevices.label       "امنیت دستگاه‌ها">
+<!ENTITY viewSecurityDevices.accesskey   "د">
