@@ -335,6 +335,8 @@
 <!ENTITY event.attendee.usertype.room           "Sal">
 <!-- Timezone dialog -->
 
+<!ENTITY timezone.title.label            "Erspizait ar Maez Eureier Mar-plij">
+
 <!-- Read-Only dialog -->
 
 <!ENTITY read.only.general.label         "Hollek">
