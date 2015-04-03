@@ -13,24 +13,35 @@
 <!ENTITY update.applyButtonBillboard.label        "Жаңартуды іске асыру…">
 <!ENTITY update.applyButtonBillboard.accesskey    "а">
 <!-- LOCALIZATION NOTE (warningDesc.version): This is a warning about the experimental nature of Nightly and Aurora builds. It is only shown in those versions. -->
+
+
+<!ENTITY warningDesc.version        "&brandShortName; сынама түрі және тұрақсыз болуы мүмкін.">
 <!-- LOCALIZATION NOTE (warningDesc.telemetryDesc): This is a notification that Nightly/Aurora builds automatically send Telemetry data back to Mozilla. It is only shown in those versions. "It" refers to brandShortName. -->
+<!ENTITY warningDesc.telemetryDesc  "Ол автоматты түрде &vendorShortName; адресіне &brandShortName; жақсарту мақсатында өнімділік, құрылғылар, қолданыс пен баптаулар ақпаратын жіберіп отырады.">
 <!-- LOCALIZATION NOTE (community.exp.*) This paragraph is shown in "experimental" builds, i.e. Nightly and Aurora builds, instead of the other "community.*" strings below. -->
 
 <!ENTITY community.exp.start        "">
 <!-- LOCALIZATION NOTE (community.exp.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
+<!ENTITY community.exp.mozillaLink  "&vendorShortName;">
 
 <!-- LOCALIZATION NOTE (community.exp.creditslink): This is a link title that links to about:credits. -->
-
+<!ENTITY community.exp.creditsLink  "глобалды қоғамдастық,">
+<!ENTITY community.exp.end          " Интернетті ашық, ортақ және қолжетерлік қылуға бірге жұмыс істейді.">
 
 <!ENTITY community.start2           "&brandShortName; жасаған ">
 <!-- LOCALIZATION NOTE (community.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
+<!ENTITY community.mozillaLink      "&vendorShortName;">
 <!ENTITY community.middle2          ", ол ">
 <!-- LOCALIZATION NOTE (community.creditsLink): This is a link title that links to about:credits. -->
+<!ENTITY community.creditsLink      "глобалды қоғамдастық,">
+<!ENTITY community.end3             " Интернетті ашық, ортақ және қолжетерлік қылуға бірге жұмыс істейді.">
 
-
+<!ENTITY helpus.start               "Көмектескіңіз келе ме? ">
 <!-- LOCALIZATION NOTE (helpus.donateLink): This is a link title that links to the thunderbird donation page -->
-
+<!ENTITY helpus.donateLink          "Ақшалай көмектесіңіз">
+<!ENTITY helpus.middle              " немесе ">
 <!-- LOCALIZATION NOTE (helpus.getInvolvedLink): This is a link title that links to http://www.mozilla.org/contribute/. -->
+<!ENTITY helpus.getInvolvedLink     "үлесіңізді қосыңыз!">
 <!ENTITY helpus.end                 "">
 <!-- LOCALIZATION NOTE (bottomLinks.license): This is a link title that links to about:license. -->
 
@@ -49,6 +60,7 @@
 <!-- LOCALIZATION NOTE (update.adminDisabled): try to make the localized text short (see bug 596813 for screenshots). -->
 <!ENTITY update.adminDisabled       "Жаңарту мүмкіндігін жүйелік администраторыңыз сөндірген">
 <!-- LOCALIZATION NOTE (update.otherInstanceHandlingUpdates): try to make the localized text short -->
+<!ENTITY update.otherInstanceHandlingUpdates "&brandShortName; басқа экземплярмен жаңартылуда">
 <!-- LOCALIZATION NOTE (update.failed.start,update.failed.linkText,update.failed.end):
      update.failed.start, update.failed.linkText, and update.failed.end all go into
      one line with linkText being wrapped in an anchor that links to a site to download
