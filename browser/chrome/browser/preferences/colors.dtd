@@ -6,8 +6,12 @@
 <!ENTITY  window.width                    "38em">
 <!ENTITY  window.macWidth                 "41em">
 
-<!ENTITY  allowPagesToUse.label           "אפשר לדפים לבחור את הצבעים שלהם במקום בחירתי למעלה">
-<!ENTITY  allowPagesToUse.accesskey       "א">
+<!ENTITY  overridePageColors.label        "שימוש בצבעים הנבחרים מעלה במקום הצבעים שצוינו בדף:">
+<!ENTITY  overridePageColors.accesskey    "צ">
+
+<!ENTITY  overridePageColors.always.label "תמיד">
+<!ENTITY  overridePageColors.auto.label   "רק בערכות נושא עם ניגודיות גבוהה">
+<!ENTITY  overridePageColors.never.label  "לעולם לא">
 
 <!ENTITY  color                           "טקסט ורקע">
 <!ENTITY  textColor.label                 "טקסט:">
@@ -24,4 +28,3 @@
 <!ENTITY  linkColor.accesskey             "ש">
 <!ENTITY  visitedLinkColor.label          "קישורים שביקרתי:">
 <!ENTITY  visitedLinkColor.accesskey      "ב">
-
