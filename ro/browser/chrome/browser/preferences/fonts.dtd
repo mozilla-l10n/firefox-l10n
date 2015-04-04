@@ -52,7 +52,7 @@
 <!ENTITY  font.langGroup.sinhala                  "Singaleză">
 <!ENTITY  font.langGroup.tibetan                  "Tibetană">
 <!-- Minimum font size -->
-<!ENTITY minSize.label                            "Mărime minimă font:">
+<!ENTITY minSize.label                            "Mărime minimă a fontului:">
 <!ENTITY minSize.accesskey                        "o">
 <!ENTITY minSize.none                             "Fără">
 <!-- default font type -->
