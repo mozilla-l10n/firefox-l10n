@@ -10,6 +10,7 @@
 
 <!ENTITY aboutTelemetry.generalDataSection "  Genel Veriler">
 
+<!ENTITY aboutTelemetry.telemetryLogSection "  Temeletry günlüğü">
 
 <!ENTITY aboutTelemetry.slowSqlSection "   Yavaş SQL Deyimleri ">
 
