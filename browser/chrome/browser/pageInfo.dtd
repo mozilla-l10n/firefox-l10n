@@ -22,7 +22,7 @@
 <!ENTITY  generalReferrer       "URL cyfeirio:">
 <!ENTITY  generalSource         "Storfa Ffynhonnell:">
 <!ENTITY  generalModified       "Newidiwyd:">
-
+<!ENTITY  generalEncoding2      "Amgodiad Testun:">
 <!ENTITY  generalMetaName       "Enw">
 <!ENTITY  generalMetaContent    "Cynnwys">
 
