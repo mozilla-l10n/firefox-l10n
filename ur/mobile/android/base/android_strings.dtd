@@ -148,12 +148,13 @@
      search providers.
      The &formatI; in the string will be replaced by a small image of the icon described, and can be moved to wherever
      it is applicable. -->
-
-
-
-
-
-
+<!ENTITY pref_search_hint "ٹوٹکا: کسی بھی ویب سائٹ کو اپنے تلاش مہیا کنندہ کے فہرست میں ڈالنے کے لیے اس کی تلاش قطعہ پر لمبا دبائیں اور پھر &formatI; آئکن پر کلک کریں۔">
+<!ENTITY pref_category_devtools "ڈیولپر ٹول">
+<!ENTITY pref_category_devtools_summary "بعید ٹھیک کارے، پینٹ چمک کاری">
+<!ENTITY pref_developer_paint_flashing "پینٹ چمک کاری ">
+<!ENTITY pref_developer_remotedebugging "بعید ٹھیک کاری">
+<!ENTITY pref_category_logins "لاگ ان">
+<!ENTITY pref_remember_signons "پاس ورڈ یاد رکھیں">
 <!ENTITY pref_manage_logins "لاگ ان بندوبست کریں">
 
 <!ENTITY pref_category_home "گھر">
@@ -169,18 +170,20 @@
 <!ENTITY pref_home_updates "خودکار تازہ کاریاں">
 <!ENTITY pref_home_updates_enabled "اہل">
 <!ENTITY pref_home_updates_wifi "صرف بعظریہ وائی فائی">
-
-
+<!ENTITY pref_home_suggested_sites "سائٹ تجاویز دکھائیں">
+<!ENTITY pref_home_suggested_sites_summary "ان سائٹوں کی تیز راہیں دکھائیں جو ہمارے حساب سے آپ کو پسند آئیں گیں">
 <!-- Localization note: These are shown in the left sidebar on tablets -->
 
-
-
-
-
-
+<!ENTITY pref_header_customize "تخصیص کریں">
+<!ENTITY pref_header_display "نمائش">
+<!ENTITY pref_header_privacy_short "رازداری">
+<!ENTITY pref_header_help "مدد">
+<!ENTITY pref_header_language "زبان">
+<!ENTITY pref_header_vendor "&vendorShortName;">
+<!ENTITY pref_header_devtools "ڈیولپر ٹول">
 
 <!ENTITY pref_cookies_menu "کوکیاں">
-
+<!ENTITY pref_cookies_accept_all "اہل">
 <!ENTITY pref_cookies_not_accept_foreign "اہل، ماسوائے تیسرے فریق">
 <!ENTITY pref_cookies_disabled "نااہل">
 
@@ -201,8 +204,10 @@
 <!ENTITY tab_queue_notification_title_plural "ٹیبیں قطار بند">
 <!-- Localization note (tab_queue_notification_title_singular) : This is the
      title of a notification; we expect only one tab queued. -->
+<!ENTITY tab_queue_notification_title_singular "ٹیب قطار بند">
 <!-- Localization note (tab_queue_notification_text_singular) : This is the
      text of a notification; we expect only one tab queued. -->
+<!ENTITY tab_queue_notification_text_singular "1 ٹیب قطار بند">
 
 
 
@@ -225,17 +230,19 @@
 
 
 
-
+<!ENTITY pref_font_size_set "سیٹ کریں">
 <!-- Localization note (pref_font_size_adjust_char): A button with a small version of this character
 (or combination of characters) is used to decrease the preview font size; a larger version of the
 same character/combination is used to increase the preview font size. It should be a concise
 representation of the language it is used in that will help show the text in the preview will change
 size. -->
+<!ENTITY pref_font_size_adjust_char "A">
 <!-- Localization note (pref_font_size_preview_text): This paragraph is used as an example to
     demonstrate the font size setting.  It is meant to be whimsical and fun. -->
 
+<!ENTITY pref_media_autoplay_enabled "خودکار چلنے کی اجازت دیں">
 
-
+<!ENTITY pref_zoom_force_enabled "زوم ہمیشہ اہل رکھیں">
 
 
 <!ENTITY pref_use_master_password "ماسٹر پاس ورڈ استعمال کریں">
@@ -246,11 +253,11 @@ size. -->
 <!ENTITY pref_import_android_summary "مقامی براؤزر سے نشانیاں اور تاریخ درآمد کریں">
 <!ENTITY pref_private_data_history2 "براؤزنگ سابقات">
 <!ENTITY pref_private_data_formdata "فارم &amp; تلاش سابقات">
-
+<!ENTITY pref_private_data_cookies2 "کوکیاں &amp; متحرک لاگ ان">
 <!ENTITY pref_private_data_passwords "محفوظ شدہ پاس ورڈ">
 <!ENTITY pref_private_data_cache "کیسہ">
-
-
+<!ENTITY pref_private_data_offlineApps "کوکیاں &amp; متحرک لاگ ان">
+<!ENTITY pref_private_data_siteSettings2 "سائٹ سیٹکگیں">
 
 
 
@@ -265,12 +272,13 @@ size. -->
 
 
 
+<!ENTITY pref_panels_move_down "نیچے لائیں">
 
+<!ENTITY datareporting_notification_title "&brandShortName; شماریات &amp; کوائف">
+<!ENTITY datareporting_notification_action_long "شیئر کرنے والی معلومات چنیں">
+<!ENTITY datareporting_notification_action "شیئر کرنے کی چیزیں چنیں">
 
-
-
-
-
+<!ENTITY datareporting_notification_summary_short "اپنا تجربہ بہتر کرنے کے لیے، &brandShortName;…">
 
 <!-- Localization note (datareporting_fhr_title, datareporting_fhr_summary2,
      reporting_telemetry_title, datareporting_telemetry_summary,
@@ -279,7 +287,9 @@ size. -->
      healthReportDesc.label, telemetrySection.label, telemetryDesc.label,
      crashReporterDesc.label). -->
 
+<!ENTITY datareporting_fhr_title "&brandShortName; تندرستی رپورٹ">
 
+<!ENTITY datareporting_abouthr_title "میری تندرستی رپورٹ دکھائیں">
 
 
 
@@ -290,77 +300,86 @@ size. -->
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
      actual notification that an update is available. -->
-
+<!ENTITY pref_update_autodownload_wifi "صرف بعظریہ وائی فائی">
 <!ENTITY pref_update_autodownload_never "کبھی نہیں">
 <!ENTITY pref_update_autodownload_always "ہمیشہ">
 <!-- Localization note (help_menu) : This string is used in the main menu-->
 
 <!ENTITY help_menu "مدد">
 
+<!ENTITY quit "کنارہ کریں">
 
 <!ENTITY addons "ایڈ اون">
 <!ENTITY logins "لاگ ان">
-
+<!ENTITY downloads "ڈاؤن لوڈ">
 <!ENTITY apps "ایپس">
 <!ENTITY char_encoding "کریکٹر ضابطہ بندی">
 
-<!ENTITY share "شیئر">
-
-
-
-
-<!ENTITY desktop_mode "ڈیسک ٹاپ سائٹ">
+<!ENTITY share "شیئر کریں ">
+<!ENTITY share_title "شیئر کریں بذریعہ">
+<!ENTITY share_image_failed "یہ نقش شیئر کرنے میں ناکام">
+<!ENTITY save_as_pdf "بطور PDF محفوظ کریں">
+<!ENTITY find_in_page "صفحہ میں ڈھونڈیں">
+<!ENTITY desktop_mode "ڈیسک ٹاپ سائٹ کی فرمائش کریں">
 <!ENTITY page "صفحہ">
-
+<!ENTITY tools "ٹول">
 <!ENTITY new_tab "نیا ٹیب">
 <!ENTITY new_private_tab "نیا نجی ٹیب">
 <!ENTITY close_all_tabs "تمام ٹیب بند کریں">
 <!ENTITY close_private_tabs "نجی ٹیب بند کریں">
-
+<!ENTITY tabs_normal "ٹیب">
 <!ENTITY tabs_private "نجی">
-
-
-
-
+<!ENTITY tabs_synced "ہمہ وقت ساز">
+<!ENTITY set_image_fail "نقش سیٹ کرنے میں ناکام">
+<!ENTITY set_image_path_fail "نقش محفوظ کرنے میں ناکام">
+<!ENTITY set_image_chooser_title "نقش سیٹ کریں بطور">
 <!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
 
-<!ENTITY find_next "آگے">
-
+<!ENTITY find_text "صفحے میں ڈھونڈیں">
+<!ENTITY find_prev "پچھلا">
+<!ENTITY find_next "اگلا">
+<!ENTITY find_close "بند کریں">
 <!-- Localization note (media_sending_to, media_play, media_pause, media_stop) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
-<!ENTITY media_play "پلے">
-<!ENTITY media_pause "توقف کریں">
 
+<!ENTITY media_sending_to "آلے کو بھیج رہا ہے">
+<!ENTITY media_play "چلائیں">
+<!ENTITY media_pause "توقف">
+<!ENTITY media_stop "رکیں">
 
 <!ENTITY contextmenu_open_new_tab "نئی ٹیب میں کھولیں">
-
-
-
+<!ENTITY contextmenu_open_private_tab "نجی ٹیب میں کھولیں">
+<!ENTITY contextmenu_remove "ہٹائیں">
+<!ENTITY contextmenu_add_to_launcher "ابتدائی سکرین میں ڈالیں">
 <!ENTITY contextmenu_share "شیئر">
-<!ENTITY contextmenu_pasteandgo "چسپاں کریں اور جائیں">
+<!ENTITY contextmenu_pasteandgo "چسپاں کریں &amp; جائیں">
 <!ENTITY contextmenu_paste "جوڑیں">
 <!ENTITY contextmenu_copyurl "پتہ نقل کریں">
-
-
-
-
-<!ENTITY contextmenu_top_sites_pin "پن سائٹ">
-
-
+<!ENTITY contextmenu_edit_bookmark "تدوین">
+<!ENTITY contextmenu_subscribe "اس صفحہ کے ساتھ رکنیت سازی کریں">
+<!ENTITY contextmenu_site_settings "سائٹ سیٹنگیں تدوین کریں">
+<!ENTITY contextmenu_top_sites_edit "تدوین">
+<!ENTITY contextmenu_top_sites_pin "سائٹ پنپن کریں">
+<!ENTITY contextmenu_top_sites_unpin "سائٹ کو اتاریں">
+<!ENTITY contextmenu_add_search_engine "تلاش انجن اضافہ کریں">
 <!-- Localization note (doorhanger_login_no_username): This string is used in the save-login doorhanger
      where normally a username would be displayed. In this case, no username was found, and this placeholder
      contains brackets to indicate this is not actually a username, but rather a placeholder -->
 
-<!ENTITY doorhanger_login_edit_username_hint "نام صارف">
-
-
+<!ENTITY doorhanger_login_no_username "[کوئی نام صارف نہیں]">
+<!ENTITY doorhanger_login_edit_title "لاگ ان تدوین کریں">
+<!ENTITY doorhanger_login_edit_username_hint "صارف نام">
+<!ENTITY doorhanger_login_edit_password_hint "پاس ورڈ">
+<!ENTITY doorhanger_login_edit_toggle "پاس ورڈ دکھائیں">
 
 <!ENTITY pref_titlebar_mode "عنوان بار">
-<!ENTITY pref_titlebar_mode_title "عنوان نمائش کریں">
-
+<!ENTITY pref_titlebar_mode_title "صفحہ عنوان دکھائیں">
+<!ENTITY pref_titlebar_mode_url "صفحہ پتہ دکھائیں">
 <!-- Localization note (pref_scroll_title_bar2): Label for setting that controls
      whether or not the dynamic toolbar is enabled. -->
+
+<!ENTITY pref_scroll_title_bar2 "پوری سکرین براؤزنگ">
 
 
 
