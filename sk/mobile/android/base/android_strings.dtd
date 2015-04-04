@@ -256,7 +256,8 @@ size. -->
 <!ENTITY pref_import_android "Import z Androidu">
 <!ENTITY pref_import_android_summary "Import záložiek a histórie z natívneho prehliadača">
 <!ENTITY pref_private_data_history2 "História prehliadania">
-<!ENTITY pref_private_data_formdata "História vyhľadávania a formulárov">
+<!ENTITY pref_private_data_searchHistory "História vyhľadávania">
+<!ENTITY pref_private_data_formdata2 "Údaje zadané do formulárov">
 <!ENTITY pref_private_data_cookies2 "Cookies a aktívne prihlásenia">
 <!ENTITY pref_private_data_passwords "Uložené heslá">
 <!ENTITY pref_private_data_cache "Vyrovnávacia pamäť">
