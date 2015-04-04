@@ -70,10 +70,10 @@
 <!-- Language settings -->
 <!ENTITY sendDefaultCharset.label         "Odosielaná pošta:">
 <!ENTITY sendDefaultCharset.accesskey     "d">
-<!ENTITY languagesTitle1.label            "Kódovania">
-<!ENTITY composingDescription.label       "Nastaviť predvolené kódovanie pre prichádzajúcu a odosielanú poštu">
+<!ENTITY languagesTitle2.label            "Kódovanie textu">
+<!ENTITY composingDescription2.label      "Nastaviť predvolené kódovanie textu pre prichádzajúcu a odosielanú poštu">
 
 <!ENTITY viewDefaultCharsetList.label     "Doručená pošta:">
 <!ENTITY viewDefaultCharsetList.accesskey "u">
-<!ENTITY replyInDefaultCharset2.label     "Ak je to možné, v odpovediach používať predvolené kódovanie">
-<!ENTITY replyInDefaultCharset2.accesskey "n">
+<!ENTITY replyInDefaultCharset3.label     "Ak je to možné, v odpovediach používať predvolené kódovanie textu">
+<!ENTITY replyInDefaultCharset3.accesskey "n">

@@ -21,5 +21,5 @@
 <!ENTITY return.label                     "Potvrdenie o prečítaní">
 <!ENTITY junk.label                       "Nevyžiadaná a podozrivá pošta">
 <!ENTITY tags.label                       "Popisy">
-<!ENTITY characterEncoding.label          "Kódovanie">
+<!ENTITY characterEncoding2.label         "Kódovanie textu">
 <!ENTITY networkStorage.label             "Sieť a úložisko">

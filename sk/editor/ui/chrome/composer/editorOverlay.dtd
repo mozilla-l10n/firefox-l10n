@@ -314,9 +314,9 @@
 <!-- Editor toolbar -->
 <!ENTITY decreaseFontSizeToolbarCmd.tooltip "Zmenšiť písmo">
 <!ENTITY increaseFontSizeToolbarCmd.tooltip "Zväčšiť písmo">
-<!ENTITY boldToolbarCmd.tooltip "Nastaviť označený alebo nový text ako tučný.">
-<!ENTITY italicToolbarCmd.tooltip "Nastaviť označený alebo nový text ako kurzívu.">
-<!ENTITY underlineToolbarCmd.tooltip "Nastaviť označený alebo nový text ako podčiarknutý.">
+<!ENTITY boldToolbarCmd.tooltip "Nastaviť označený alebo nový text ako tučný">
+<!ENTITY italicToolbarCmd.tooltip "Nastaviť označený alebo nový text ako kurzívu">
+<!ENTITY underlineToolbarCmd.tooltip "Nastaviť označený alebo nový text ako podčiarknutý">
 <!ENTITY bulletListToolbarCmd.tooltip "Použiť formát odrážkového zoznamu">
 <!ENTITY numberListToolbarCmd.tooltip "Použiť formát číslovaného zoznamu">
 <!ENTITY outdentToolbarCmd.tooltip "Odsadiť text doľava">

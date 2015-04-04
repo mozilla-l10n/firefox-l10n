@@ -7,8 +7,8 @@
 <!-- This button is for the progressive disclosure of additional editing functionality -->
 
 <!-- These strings are for use specifically in the editor's link dialog. -->
-<!ENTITY windowTitle.label "Uložiť a zmeniť kódovanie">
+<!ENTITY windowTitle2.label "Uložiť a zmeniť kódovanie textu">
 <!ENTITY documentTitleTitle.label "Titulok stránky">
-<!ENTITY documentCharsetTitle.label "Kódovanie">
-<!ENTITY documentCharsetDesc.label "Vyberte kódovanie pre uloženie:">
+<!ENTITY documentCharsetTitle2.label "Kódovanie textu">
+<!ENTITY documentCharsetDesc2.label "Zvoľte kódovanie textu:">
 <!ENTITY documentExportToText.label "Export do textu">
