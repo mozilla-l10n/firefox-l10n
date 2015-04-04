@@ -76,7 +76,7 @@
 <!-- LOCALIZATION NOTE (options.enableChrome.label4): This is the label for the
   -  checkbox that toggles chrome debugging, i.e. devtools.chrome.enabled
   -  boolean preference in about:config, in the options panel. -->
-<!ENTITY options.enableChrome.label5    "Povolit prohlížet chrome a doplňky ladících nástrojů">
+<!ENTITY options.enableChrome.label5    "Povolit ladící nástroj pro chrome a doplňky">
 <!ENTITY options.enableChrome.tooltip3  "Zapnutí umožní použít nástroje vývojáře v kontextu prohlížeče (přes Nástroje > Vývoj webu > Nástroje prohlížeče) nebo pro ladění doplňků ze Správce doplňků">
  
 <!-- LOCALIZATION NOTE (options.enableRemote.label): This is the label for the
@@ -100,8 +100,8 @@
 <!-- LOCALIZATION NOTE (options.enableServiceWorkersTesting.label,
   -  options.enableServiceWorkersTesting.tooltip): This is the options panel label and
   -  tooltip for the checkbox that toggles the service workers testing features on or off. -->
-<!ENTITY options.enableServiceWorkersTesting.label     "Povolit testování služeb pracovních vlastností (když jsou nástroje otevřeny)">
-<!ENTITY options.enableServiceWorkersTesting.tooltip   "Zapnutí této volby povolí testování služeb pracovních vlastností pro všechny panely do doby, kdy jsou nástroje otevřeny.
+<!ENTITY options.enableServiceWorkersTesting.label     "Povolit testovací funkce Service Workers (když jsou nástroje otevřeny)">
+<!ENTITY options.enableServiceWorkersTesting.tooltip   "Zapnutí této volby povolí testovací funkce Service Workers za situace, kdy budou nástroje otevřeny.">
 
 <!-- LOCALIZATION NOTE (options.selectDefaultTools.label): This is the label for
   -  the heading of group of checkboxes corresponding to the default developer
