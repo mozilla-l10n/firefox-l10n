@@ -65,7 +65,7 @@
 <!ENTITY languages.customize.Fallback2.grouplabel "Kódování textu pro původní obsah">
 <!ENTITY languages.customize.Fallback2.label      "Kódování textu:">
 <!ENTITY languages.customize.Fallback2.accesskey  "T">
-<!ENTITY languages.customize.Fallback2.desc       "Toto kódování textu se používá pro původní obsah, který neobsahuje definici o kódování svého textu.">
+<!ENTITY languages.customize.Fallback2.desc       "Toto kódování textu se používá pro původní obsah, který neobsahuje definici o kódování textu.">
 
 <!ENTITY languages.customize.Fallback.auto        "Výchozí pro aktuální jazyk">
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.arabic):
