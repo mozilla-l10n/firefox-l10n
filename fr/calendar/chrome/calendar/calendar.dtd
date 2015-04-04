@@ -202,8 +202,8 @@
 <!ENTITY priority.level.low.accesskey       "B">
 <!ENTITY priority.level.normal              "Normale">
 <!ENTITY priority.level.normal.accesskey    "N">
-<!ENTITY priority.level.high                "Élevée">
-<!ENTITY priority.level.high.accesskey      "v">
+<!ENTITY priority.level.high                "Haute">
+<!ENTITY priority.level.high.accesskey      "H">
 
 <!ENTITY calendar.context.postpone.1hour.label      "Une heure">
 <!ENTITY calendar.context.postpone.1hour.accesskey  "h">
