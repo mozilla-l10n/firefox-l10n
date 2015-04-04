@@ -209,13 +209,14 @@
      text of a notification; we expect only one tab queued. -->
 <!ENTITY tab_queue_notification_text_singular "1 ٹیب قطار بند">
 
+<!ENTITY pref_char_encoding "کریکٹر ضابطہ بندی">
+<!ENTITY pref_char_encoding_on "مینیو دکھائیں">
 
+<!ENTITY pref_clear_private_data2 "ابھی خالی کریں">
+<!ENTITY pref_clear_private_data_category "نجی کوائف خالی کریں">
+<!ENTITY pref_clear_on_exit_title2 "خروج پر خالی کریں">
 
-
-
-
-
-
+<!ENTITY pref_clear_on_exit_dialog_title "منتخب کریں کون سے کوائف خالی کرنے ہیں">
 <!ENTITY pref_plugins "پلگ ان">
 <!ENTITY pref_plugins_enabled "اہل">
 <!ENTITY pref_plugins_tap_to_play "چلانے کے لیے کلک کریں">
@@ -227,9 +228,9 @@
 <!ENTITY pref_restore_quit "&brandShortName; کو بند کرنے کے بعد بحال نا کریں">
 <!ENTITY pref_font_size_tiny "بہت چھوٹا">
 <!ENTITY pref_font_size_small "چھوٹا">
-
-
-
+<!ENTITY pref_font_size_medium "متوسط">
+<!ENTITY pref_font_size_large "بڑا">
+<!ENTITY pref_font_size_xlarge "بہت زیادہ بڑا">
 <!ENTITY pref_font_size_set "سیٹ کریں">
 <!-- Localization note (pref_font_size_adjust_char): A button with a small version of this character
 (or combination of characters) is used to decrease the preview font size; a larger version of the
@@ -241,7 +242,7 @@ size. -->
     demonstrate the font size setting.  It is meant to be whimsical and fun. -->
 
 <!ENTITY pref_media_autoplay_enabled "خودکار چلنے کی اجازت دیں">
-
+<!ENTITY pref_media_autoplay_enabled_summary "قابو کریں اگر ویب سائٹیں خود وڈیو اور دیگر میڈیا مواد چلاسکتی ہیں">
 <!ENTITY pref_zoom_force_enabled "زوم ہمیشہ اہل رکھیں">
 
 
