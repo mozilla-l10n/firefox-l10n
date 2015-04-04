@@ -164,10 +164,11 @@
 <!-- Localization note (home_add_panel_installed):
      The &formatS; will be replaced with the name of the new panel the user just
      selected to be added to the home page. -->
-
-
-
-
+<!ENTITY home_add_panel_installed "\u0027&formatS;\u0027 ابتدائی صفحہ میں ڈل گیا">
+<!ENTITY pref_category_home_content_settings "مواد سیٹکگیں">
+<!ENTITY pref_home_updates "خودکار تازہ کاریاں">
+<!ENTITY pref_home_updates_enabled "اہل">
+<!ENTITY pref_home_updates_wifi "صرف بعظریہ وائی فائی">
 
 
 <!-- Localization note: These are shown in the left sidebar on tablets -->
@@ -180,14 +181,16 @@
 
 <!ENTITY pref_cookies_menu "کوکیاں">
 
+<!ENTITY pref_cookies_not_accept_foreign "اہل، ماسوائے تیسرے فریق">
+<!ENTITY pref_cookies_disabled "نااہل">
 
+<!ENTITY pref_tracking_protection_title "سراغ کاری حفاظت">
+<!ENTITY pref_tracking_protection_summary "&brandShortName; سائٹوں کو آپ کا سراغ لگانے سے روکے گا">
+<!ENTITY pref_donottrack_title "میرا سراغ نہ لگائیں">
+<!ENTITY pref_donottrack_summary "&brandShortName; سائٹوں کو بتائے گا کہ آپ اپنا سراغ نہیں لگوانا چاہتے">
 
-
-
-
-
-
-
+<!ENTITY tab_queue_toast_message "بعد میں کھولیں">
+<!ENTITY tab_queue_toast_action "ابھی کھولیں">
 <!-- Localization note (tab_queue_notification_text_plural) : The
      formatD is replaced with the number of tabs queued.  The
      number of tabs queued is always more than one.  We can't use
