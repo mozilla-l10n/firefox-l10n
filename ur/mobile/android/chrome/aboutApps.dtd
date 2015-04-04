@@ -2,6 +2,8 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY aboutApps.title2                          "ایپس">
+
 
 <!ENTITY aboutApps.uninstall "ناتنصیب کریں">
 <!ENTITY aboutApps.checkForUpdates "تازہ کاریوں کے لیے پڑتال کریں">

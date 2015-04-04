@@ -13,29 +13,35 @@
 <!-- Localization note: These are used as the titles of different pages on the home screen.
      They are automatically converted to all caps by the Android platform. -->
 
+<!ENTITY  bookmarks_title "نشانیاں">
+<!ENTITY  history_title "سابقات">
 <!ENTITY  reading_list_title "پڑھنے کی فہرست">
 <!ENTITY  recent_tabs_title "حالیہ ٹیب">
 
 <!ENTITY  switch_to_tab "ٹیب پر سوئچ کریں">
 
 <!ENTITY  crash_reporter_title "&brandShortName; کریش رپورٹیں">
-
+<!ENTITY  crash_message2 "&brandShortName; میں مسلہ تھا اور کریش ہوگیا۔ جب آپ دوباره شروع کریں گے تو آپ کے ٹیب &brandShortName; کے ادتدائی صفحہ پر شامل فہرست ہونگے۔">
 <!ENTITY  crash_send_report_message3 "&vendorShortName; کو اس کریش کے بارے میں بتائیں تاکہ وہ اسے ٹھیک کرسکیں">
 <!ENTITY  crash_include_url2 "اُس صفحہ کا پتہ شامل کریں جس پر میں تھا">
-
+<!ENTITY  crash_sorry "ہم معاذرت خواں ہیں">
 <!ENTITY  crash_comment "تبصرہ ڈالیں (تبصرے سب کو نظر آتے ہیں)">
 <!ENTITY  crash_allow_contact2 "&vendorShortName; کو مجھ سے اس رپورٹ کے بارے میں رابطہ کرنے کی اجازت دیں">
 <!ENTITY  crash_email "آپ کا ای میل">
 <!ENTITY  crash_closing_alert "کریش رپورٹ بھیجنے سے پہلے خروج کریں؟">
-
+<!ENTITY  sending_crash_report "کریش رپورٹ بھیج رہا ہے\u2026">
 <!ENTITY  crash_close_label "بند کریں">
-
+<!ENTITY  crash_restart_label "&brandShortName; پھر شروع کریں">
 <!ENTITY  exit_label "خروج">
 
+<!ENTITY  launcher_shortcuts_title "&brandShortName; ویب ایپ">
+<!ENTITY  launcher_shortcuts_empty "کوئی ویب ایپ نہیں ملیں">
 
+<!ENTITY choose_file "مسل منتخب کریں">
 
+<!ENTITY url_bar_default_text2 "پتہ تلاش یا داخل کریں">
 
-
+<!ENTITY bookmark "نشانی">
 <!ENTITY bookmark_remove "نشانی ہٹائیں">
 <!ENTITY bookmark_added "نشانی جمع کردی گئی">
 <!ENTITY bookmark_removed "نشانی ہٹا دی گئی">
@@ -50,18 +56,19 @@
 <!ENTITY go "جائیں">
 <!ENTITY search "تلاش کریں">
 <!ENTITY reload "پھر لوڈ کریں">
-
-
+<!ENTITY forward "آگے">
+<!ENTITY menu "مینیو">
 <!ENTITY back "واپس">
-
-
-
+<!ENTITY stop "رکیں">
+<!ENTITY site_security "سائٹ سلامتی">
+<!ENTITY edit_mode_cancel "منسوخ کریں">
 
 <!ENTITY close_tab "ٹیب بند کر دیں">
-
+<!ENTITY one_tab "۱ ٹیب">
 <!-- Localization note (num_tabs2) : Number of tabs is always more than one.
      We can't use android plural forms, sadly. See bug #753859. -->
-
+<!ENTITY num_tabs2 "&formatD; ٹیبیں">
+<!ENTITY new_tab_opened "نیا ٹیب کھل گیا">
 <!ENTITY new_private_tab_opened "نیا نجی ٹیب کھل گیا">
 <!-- Localization note (switch_button_message): This string should be as short
      as possible because it's shown as a label in a toast.  Ideally, this string
@@ -72,26 +79,32 @@
 <!ENTITY settings_title "سیٹنگیں">
 <!ENTITY pref_category_advanced "اعلٰی">
 <!ENTITY pref_category_customize "تخصیص کریں">
-
-
+<!ENTITY pref_category_customize_summary "گھر، تلاش، ٹیبیں، درآمد">
+<!ENTITY pref_category_customize_alt_summary "گھر، تلاش، ٹیبیں، بعد میں کھولیں، درآمد">
 <!-- Localization note (pref_category_language) : This is the preferences
      section in which the user picks the locale in which to display Firefox
      UI. The locale includes both language and region concepts. -->
 
 <!ENTITY pref_category_language "زبان">
 <!ENTITY pref_category_language_summary "اپنے براؤزر کی زبان تبدیل کریں">
-
+<!ENTITY pref_browser_locale "براؤزر زبان">
 <!-- Localization note (locale_system_default) : This string indicates that
      Firefox will use the locale currently selected in Android's settings
      to display browser chrome. -->
+
+<!ENTITY locale_system_default " نظام طے شدہ">
 <!-- Localization note (overlay_share_label) : This is the label that appears
      in Android's intent chooser when sending a link to Firefox to bookmark,
      send to another device, or add to Reading List. -->
+
+<!ENTITY overlay_share_label "&brandShortName; میں ڈالیں">
 <!-- Localization note (overlay_share_bookmark_btn_label) : This string is
      used in the share overlay menu to select an action. It is the verb
      "to bookmark", not the noun "a bookmark". -->
 
-
+<!ENTITY overlay_share_bookmark_btn_label "نشانی">
+<!ENTITY overlay_share_reading_list_btn_label "پڑھنے کی چیزوں کی فہرست میں ڈالیں">
+<!ENTITY overlay_share_bookmark_btn_label_already "پہلے سے نشان زد">
 <!ENTITY overlay_share_reading_list_btn_label_already "پہلے ہی پڑھنے کی فہرست میں شامل ہے">
 <!ENTITY overlay_share_send_other "دیگر آلات کو بھیجیں">
 <!-- Localization note (overlay_share_send_tab_btn_label) : Used on the
@@ -116,12 +129,12 @@
 <!ENTITY overlay_share_tab_not_sent "آپ کا ٹیب بھیجا نہیں جاسکا۔ \nPlease کچھ دیر بعد پھر کوشش کریں۔">
 
 <!ENTITY pref_category_search3 "تلاش کریں">
-
-
-
-
-
-
+<!ENTITY pref_category_search_summary "اپنے تلاش مہیا کنندہ تخصیص کریں">
+<!ENTITY pref_category_display "دکھائیں">
+<!ENTITY pref_category_display_summary "متن، عنوان بار، پوری سکرین براؤزنگ">
+<!ENTITY pref_category_privacy_short "رازداری">
+<!ENTITY pref_category_privacy_summary "پاس ورڈ، کوکیاں، سراغ کاری، کوائف کنٹرول کریں">
+<!ENTITY pref_category_vendor "&vendorShortName;">
 
 
 
@@ -141,13 +154,13 @@
 
 
 
-
+<!ENTITY pref_manage_logins "لاگ ان بندوبست کریں">
 
 <!ENTITY pref_category_home "گھر">
-
-
-
-
+<!ENTITY pref_category_home_summary "اپنا ابتدائی صفحہ تخصیص کریں">
+<!ENTITY pref_category_home_panels "پینل">
+<!ENTITY home_add_panel_title "نئی پینل ڈالیں">
+<!ENTITY home_add_panel_empty "ہمیں ڈالنے کے لیے کوئی پینل نہیں ملیں۔">
 <!-- Localization note (home_add_panel_installed):
      The &formatS; will be replaced with the name of the new panel the user just
      selected to be added to the home page. -->
@@ -272,30 +285,33 @@ size. -->
      specifically, since the pref only prevents automatic downloads and not the
      actual notification that an update is available. -->
 
-
-
+<!ENTITY pref_update_autodownload_never "کبھی نہیں">
+<!ENTITY pref_update_autodownload_always "ہمیشہ">
 <!-- Localization note (help_menu) : This string is used in the main menu-->
+
+<!ENTITY help_menu "مدد">
 
 
 <!ENTITY addons "ایڈ اون">
+<!ENTITY logins "لاگ ان">
 
-
-
+<!ENTITY apps "ایپس">
 <!ENTITY char_encoding "کریکٹر ضابطہ بندی">
 
+<!ENTITY share "شیئر">
 
 
 
 
-
-
+<!ENTITY desktop_mode "ڈیسک ٹاپ سائٹ">
+<!ENTITY page "صفحہ">
 
 <!ENTITY new_tab "نیا ٹیب">
+<!ENTITY new_private_tab "نیا نجی ٹیب">
+<!ENTITY close_all_tabs "تمام ٹیب بند کریں">
+<!ENTITY close_private_tabs "نجی ٹیب بند کریں">
 
-
-
-
-
+<!ENTITY tabs_private "نجی">
 
 
 
@@ -315,15 +331,15 @@ size. -->
 
 
 
-
+<!ENTITY contextmenu_share "شیئر">
 <!ENTITY contextmenu_pasteandgo "چسپاں کریں اور جائیں">
 <!ENTITY contextmenu_paste "جوڑیں">
+<!ENTITY contextmenu_copyurl "پتہ نقل کریں">
 
 
 
 
-
-
+<!ENTITY contextmenu_top_sites_pin "پن سائٹ">
 
 
 <!-- Localization note (doorhanger_login_no_username): This string is used in the save-login doorhanger
@@ -334,7 +350,8 @@ size. -->
 
 
 
-
+<!ENTITY pref_titlebar_mode "عنوان بار">
+<!ENTITY pref_titlebar_mode_title "عنوان نمائش کریں">
 
 <!-- Localization note (pref_scroll_title_bar2): Label for setting that controls
      whether or not the dynamic toolbar is enabled. -->
@@ -351,6 +368,8 @@ size. -->
 <!-- Localization note (site_settings_*) : These strings are used in the "Site Settings"
      dialog that appears after selecting the "Edit Site Settings" context menu item. -->
 
+<!ENTITY site_settings_title3       "سائٹ سیٹنگیں">
+
 
 
 
@@ -364,6 +383,8 @@ size. -->
 
 <!-- Localization note : These strings are used as alternate text for accessibility.
      They are not visible in the UI. -->
+
+<!ENTITY page_action_dropmarker_description "اضافی اعمال">
 
 
 
@@ -389,7 +410,7 @@ size. -->
 
 
 
-
+<!ENTITY home_open_all "تمام کھولیں">
 
 <!-- Localization note (home_most_recent_emptyhint2): "Psst" is a sound that might be used to attract someone's attention unobtrusively, and intended to hint at Private Browsing to the user.
      The placeholders &formatS1; and &formatS2; are used to mark the location of text underlining. -->
