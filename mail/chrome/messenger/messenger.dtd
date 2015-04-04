@@ -192,6 +192,8 @@
 <!ENTITY sortByFromCmd.accesskey "d">
 <!ENTITY sortByRecipientCmd.label "Adresát">
 <!ENTITY sortByRecipientCmd.accesskey "A">
+<!ENTITY sortByCorrespondentCmd.label "Korešpondenti">
+<!ENTITY sortByCorrespondentCmd.accesskey "K">
 <!ENTITY sortByUnreadCmd.label "Neprečítané">
 <!ENTITY sortByUnreadCmd.accesskey "N">
 <!ENTITY sortByOrderReceivedCmd.label "Poradie doručenia">
@@ -662,6 +664,7 @@
 <!ENTITY threadColumn.label "Vlákno">
 <!ENTITY fromColumn.label "Od">
 <!ENTITY recipientColumn.label "Adresát">
+<!ENTITY correspondentColumn.label "Korešpondenti">
 <!ENTITY subjectColumn.label "Predmet">
 <!ENTITY dateColumn.label "Dátum">
 <!ENTITY priorityColumn.label "Priorita">
@@ -684,6 +687,7 @@
 <!ENTITY threadColumn2.tooltip "Usporiadať správy do vlákien">
 <!ENTITY fromColumn2.tooltip "Usporiadať podľa stĺpca Od">
 <!ENTITY recipientColumn2.tooltip "Usporiadať podľa adresáta">
+<!ENTITY correspondentColumn2.tooltip "Usporiadať podľa korešpondentov">
 <!ENTITY subjectColumn2.tooltip "Usporiadať podľa predmetu">
 <!ENTITY dateColumn2.tooltip "Usporiadať podľa dátumu">
 <!ENTITY priorityColumn2.tooltip "Usporiadať podľa priority">

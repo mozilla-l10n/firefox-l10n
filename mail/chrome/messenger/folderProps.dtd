@@ -5,10 +5,10 @@
 <!ENTITY folderProps.windowtitle.label          "Vlastnosti">
 
 <!ENTITY generalInfo.label                       "Všeobecné informácie">
-<!ENTITY folderCharsetFallback.label             "Štandardné kódovanie:">
-<!ENTITY folderCharsetFallback.accesskey         "a">
-<!ENTITY folderCharsetEnforce.label              "Použiť pre všetky správy v priečinku (ignorovať kódovanie definované v správe)">
-<!ENTITY folderCharsetEnforce.accesskey          "P">
+<!ENTITY folderCharsetFallback2.label            "Štandardné kódovanie textu:">
+<!ENTITY folderCharsetFallback2.accesskey        "a">
+<!ENTITY folderCharsetEnforce2.label             "Použiť pre všetky správy v priečinku (ignorovať kódovanie textu definované v správe)">
+<!ENTITY folderCharsetEnforce2.accesskey         "P">
 <!ENTITY folderRebuildSummaryFileTip2.label      "Vytvorí nový indexový súbor">
 <!ENTITY folderRebuildSummaryFile2.label         "Opraviť priečinok">
 <!ENTITY folderRebuildSummaryFile2.accesskey     "O">

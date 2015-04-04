@@ -42,6 +42,7 @@
 <!ENTITY url_bar_default_text2 "Adresa alebo výraz vyhľadávania">
 
 <!ENTITY bookmark "Záložka">
+<!ENTITY bookmark_remove "Odstrániť záložku">
 <!ENTITY bookmark_added "Záložka pridaná">
 <!ENTITY bookmark_removed "Záložka odstránená">
 <!ENTITY bookmark_updated "Záložka aktualizovaná">
@@ -79,6 +80,7 @@
 <!ENTITY pref_category_advanced "Rozšírené">
 <!ENTITY pref_category_customize "Prispôsobenie">
 <!ENTITY pref_category_customize_summary "Úvodná stránka, vyhľadávanie, karty, import">
+<!ENTITY pref_category_customize_alt_summary "Úvodná stránka, vyhľadávanie, karty, oneskorené otvorenie, import">
 
 <!-- Localization note (pref_category_language) : This is the preferences
      section in which the user picks the locale in which to display Firefox
@@ -114,6 +116,17 @@
 <!ENTITY overlay_share_no_url "Nebol nájdený žiadny odkaz na zdieľanie">
 <!ENTITY overlay_share_retry "Skúsiť znova">
 <!ENTITY overlay_share_select_device "Zvoľte zariadenie">
+<!-- Localization note (overlay_no_synced_devices) : Used when the menu option
+     to send a tab to a synced device is pressed and no other synced devices
+     are found. -->
+<!ENTITY overlay_no_synced_devices "Nebolo nájdené žiadne zariadenie pripojené k účtu Firefox Account">
+<!-- Localization note (overlay_share_tab_not_sent) : Used when the menu option
+     to send a tab to a synced device is pressed and there is an error
+     connecting to the server so the tab could not be sent. The text should be
+     divided into two lines (use the newline escape character, "\n", between
+     them): the first notifying the user about the failure and the second
+     telling the user what to do about it. -->
+<!ENTITY overlay_share_tab_not_sent "Vaša karta nemohla byť odoslaná.\nSkúste to znova neskôr.">
 
 <!ENTITY pref_category_search3 "Vyhľadávanie">
 <!ENTITY pref_category_search_summary "Prispôsobte si vyhľadávacie moduly">
@@ -140,7 +153,9 @@
 <!ENTITY pref_category_devtools_summary "Vzdialené ladenie, zvýrazňovanie prekresľovania">
 <!ENTITY pref_developer_paint_flashing "Zvýrazniť prekresľovanie">
 <!ENTITY pref_developer_remotedebugging "Vzdialené ladenie">
+<!ENTITY pref_category_logins "Heslá">
 <!ENTITY pref_remember_signons "Pamätať si heslá">
+<!ENTITY pref_manage_logins "Správa hesiel">
 
 <!ENTITY pref_category_home "Domov">
 <!ENTITY pref_category_home_summary "Prispôsobte si úvodnú obrazovku">
@@ -176,6 +191,23 @@
 <!ENTITY pref_tracking_protection_summary "&brandShortName; zabráni webovým stránkam sledovať vašu aktivitu">
 <!ENTITY pref_donottrack_title "Funkcia Do not track">
 <!ENTITY pref_donottrack_summary "&brandShortName; požiada webové stránky, aby nesledovali vašu aktivitu">
+
+<!ENTITY tab_queue_toast_message "Otvoriť neskôr">
+<!ENTITY tab_queue_toast_action "Otvoriť teraz">
+<!-- Localization note (tab_queue_notification_text_plural) : The
+     formatD is replaced with the number of tabs queued.  The
+     number of tabs queued is always more than one.  We can't use
+     Android plural forms, sadly. See Bug #753859. -->
+<!ENTITY tab_queue_notification_text_plural "Pridané do fronty: &formatD;">
+<!-- Localization note (tab_queue_notification_title_plural) : This is the
+     title of a notification; we expect more than one tab queued. -->
+<!ENTITY tab_queue_notification_title_plural "Karty pridané do fronty">
+<!-- Localization note (tab_queue_notification_title_singular) : This is the
+     title of a notification; we expect only one tab queued. -->
+<!ENTITY tab_queue_notification_title_singular "Karta pridaná do fronty">
+<!-- Localization note (tab_queue_notification_text_singular) : This is the
+     text of a notification; we expect only one tab queued. -->
+<!ENTITY tab_queue_notification_text_singular "Pridané do fronty: 1">
 
 <!ENTITY pref_char_encoding "Kódovanie znakov">
 <!ENTITY pref_char_encoding_on "Zobrazovať ponuku">
@@ -272,7 +304,7 @@ size. -->
      (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
 <!ENTITY datareporting_crashreporter_title_short "Správy o zlyhaní">
 <!ENTITY datareporting_wifi_title2 "Služba zisťovania polohy &vendorShortName;">
-<!ENTITY datareporting_wifi_geolocation_summary3 "Pomôžte spoločnosti &vendorShortName; mapovať svet. Zdieľajte približnú polohu vášho zariadenia na základe údajov zo siete operátora a Wi-Fi s cieľom vylepšiť presnosť Služby zisťovania polohy.">
+<!ENTITY datareporting_wifi_geolocation_summary4 "Pomôžte spoločnosti &vendorShortName; mapovať svet. Zdieľajte približnú polohu vášho zariadenia na základe údajov zo siete operátora a Wi-Fi s cieľom vylepšiť presnosť Služby zisťovania polohy.">
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
      actual notification that an update is available. -->
@@ -287,6 +319,7 @@ size. -->
 <!ENTITY quit "Ukončiť">
 
 <!ENTITY addons "Doplnky">
+<!ENTITY logins "Heslá">
 <!ENTITY downloads "Prevzaté súbory">
 <!ENTITY apps "Aplikácie">
 <!ENTITY char_encoding "Kódovanie znakov">
@@ -340,6 +373,15 @@ size. -->
 <!ENTITY contextmenu_top_sites_unpin "Zrušiť pripnutie stránky">
 <!ENTITY contextmenu_add_search_engine "Pridať vyhľadávací modul">
 
+<!-- Localization note (doorhanger_login_no_username): This string is used in the save-login doorhanger
+     where normally a username would be displayed. In this case, no username was found, and this placeholder
+     contains brackets to indicate this is not actually a username, but rather a placeholder -->
+<!ENTITY doorhanger_login_no_username "[nezadané používateľské meno]">
+<!ENTITY doorhanger_login_edit_title "Úprava prihlasovacích údajov">
+<!ENTITY doorhanger_login_edit_username_hint "Používateľské meno">
+<!ENTITY doorhanger_login_edit_password_hint "Heslo">
+<!ENTITY doorhanger_login_edit_toggle "Zobraziť heslo">
+
 <!ENTITY pref_titlebar_mode "Panel s titulkom okna">
 <!ENTITY pref_titlebar_mode_title "Zobrazovať titulok stránky">
 <!ENTITY pref_titlebar_mode_url "Zobrazovať adresu stránky">
@@ -348,6 +390,9 @@ size. -->
      whether or not the dynamic toolbar is enabled. -->
 <!ENTITY pref_scroll_title_bar2 "Prehliadanie na celú obrazovku">
 <!ENTITY pref_scroll_title_bar_summary "Skrýva titulok okna &brandShortName;u počas posúvania stránky">
+
+<!ENTITY pref_tab_queue_title "Oneskorené otvorenie">
+<!ENTITY pref_tab_queue_summary "Zabráni okamžitému otvoreniu kariet. Všetky karty budú uložené do fronty a otvorené pri najbližšom spustení prehliadača &brandShortName;.">
 
 <!-- Localization note (page_removed): This string appears in a toast message when
      any page is removed frome about:home. This includes pages that are in history,
@@ -395,6 +440,7 @@ size. -->
 <!ENTITY button_clear_data "Vymazať údaje">
 <!ENTITY button_set "Nastaviť">
 <!ENTITY button_clear "Vymazať">
+<!ENTITY button_remember "Zapamätať">
 
 <!ENTITY home_top_sites_title "Top stránky">
 <!-- Localization note (home_top_sites_add): This string is used as placeholder
@@ -515,6 +561,13 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY bookmarkhistory_import_wait "Čakajte, prosím…">
 
 <!ENTITY suggestions_prompt3 "Chcete zapnúť zobrazovanie návrhov vyhľadávania?">
+<!--  Localization note (search_bar_item_desc): When the user clicks the url bar
+      and starts typing, a list of icons of search engines appears at the bottom
+      of the screen. When a user clicks an icon, the entered text will be searched
+      via the search engine that uses the icon they clicked. This text is used
+      for screen reader users when they hover each icon - &formatS; will be
+      replaced with the name of the currently highlighted icon. -->
+<!ENTITY search_bar_item_desc "Hľadať pomocou &formatS;">
 
 <!-- Localization note (suggestion_for_engine): The placeholder &formatS1; will be
      replaced with the name of the search engine. The placeholder &formatS2; will be

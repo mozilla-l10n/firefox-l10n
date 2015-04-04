@@ -73,7 +73,7 @@
 <!ENTITY abbreviateOff.label "Skratky (napr. 'n.p.m.mail-news')">
 <!ENTITY advancedButton.label "Pokročilé…">
 <!ENTITY advancedButton.accesskey "i">
-<!ENTITY serverDefaultCharset.label "Štandardné kódovanie:">
+<!ENTITY serverDefaultCharset2.label "Štandardné kódovanie textu:">
 <!ENTITY localPath.label "Lokálny priečinok:">
 <!ENTITY localFolderPicker.label "Výber lokálneho priečinka">
 <!ENTITY browseFolder.label "Prehľadávať…">
@@ -86,5 +86,5 @@
 <!ENTITY accountSettingsDesc.label "Toto je špeciálny účet, s ktorým nie sú asociované žiadne identity.">
 <!ENTITY storeType.label "Spôsob ukladania správ:">
 <!ENTITY storeType.accesskey "S">
-<!ENTITY mboxStore.label "Jeden veľký súbor (mbox)">
+<!ENTITY mboxStore2.label "Samostatný súbor pre každý priečinok (mbox)">
 <!ENTITY maildirStore.label "Samostatný súbor pre každú správu (maildir)">
