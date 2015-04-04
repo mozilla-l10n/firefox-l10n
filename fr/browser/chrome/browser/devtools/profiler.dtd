@@ -14,7 +14,7 @@
 <!-- LOCALIZATION NOTE (profilerUI.emptyNotice1/2): This is the label shown
   -  in the call list view when empty. -->
 <!ENTITY profilerUI.emptyNotice1    "Cliquez sur le bouton">
-<!ENTITY profilerUI.emptyNotice2    "pour lancer l'enregistrement des appels de fonction JavaScript.">
+<!ENTITY profilerUI.emptyNotice2    "pour lancer l'enregistrement des appels de fonctions JavaScript.">
 
 <!-- LOCALIZATION NOTE (profilerUI.stopNotice1/2): This is the label shown
   -  in the call list view while recording a profile. -->
@@ -27,7 +27,7 @@
 
 <!-- LOCALIZATION NOTE (profilerUI.recordButton): This string is displayed
   -  on a button that starts a new profile. -->
-<!ENTITY profilerUI.recordButton.tooltip "Enregistrer les appels de fonction JavaScript.">
+<!ENTITY profilerUI.recordButton.tooltip "Enregistrer les appels de fonctions JavaScript.">
 
 <!-- LOCALIZATION NOTE (profilerUI.importButton): This string is displayed
   -  on a button that opens a dialog to import a saved profile data file. -->
