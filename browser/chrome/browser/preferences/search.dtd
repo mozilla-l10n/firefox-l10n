@@ -6,11 +6,11 @@
 
 <!ENTITY chooseYourDefaultSearchEngine.label   "Alege motorul de căutare implicit. &brandShortName; îl folosește în bara de adresă, bara de căutare și pagina de start.">
 
-<!ENTITY provideSearchSuggestions.label        "Oferă sugestii de căutare">
+<!ENTITY provideSearchSuggestions.label        "Furnizează sugestii de căutare">
 <!ENTITY provideSearchSuggestions.accesskey    "s">
 
 
-<!ENTITY oneClickSearchEngines.label           "Motoare de căutare dintr-un clic">
+<!ENTITY oneClickSearchEngines.label           "Motoare de căutare la un singur clic distanță">
 
 <!ENTITY chooseWhichOneToDisplay.label         "Bara de căutare vă permite să căutați direct în diferite motoare de căutare. Alegeți-vă motoarele de căutare cu care să căutați.">
 
