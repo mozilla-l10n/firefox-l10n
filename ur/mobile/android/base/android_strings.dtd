@@ -9,7 +9,7 @@
 <!ENTITY  onboard_start_message2 "&brandShortName; میں خوش آمدید">
 <!ENTITY  onboard_start_subtext2 "مزید رازداری کی خصوصیات اور پہلے سے زیادہ اپنی مرضی کے مطابق کرنے کے طریقیں۔">
 
-
+<!ENTITY  onboard_start_button_browser "براؤزنگ شروع کریں">
 <!-- Localization note: These are used as the titles of different pages on the home screen.
      They are automatically converted to all caps by the Android platform. -->
 
