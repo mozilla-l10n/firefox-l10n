@@ -56,15 +56,15 @@
 <!ENTITY go "جائیں">
 <!ENTITY search "تلاش کریں">
 <!ENTITY reload "پھر لوڈ کریں">
-<!ENTITY forward "آگے">
+<!ENTITY forward "اگے">
 <!ENTITY menu "مینیو">
 <!ENTITY back "واپس">
 <!ENTITY stop "رکیں">
 <!ENTITY site_security "سائٹ سلامتی">
 <!ENTITY edit_mode_cancel "منسوخ کریں">
 
-<!ENTITY close_tab "ٹیب بند کر دیں">
-<!ENTITY one_tab "۱ ٹیب">
+<!ENTITY close_tab "ٹیب بند کردیں">
+<!ENTITY one_tab "1 ٹیب">
 <!-- Localization note (num_tabs2) : Number of tabs is always more than one.
      We can't use android plural forms, sadly. See bug #753859. -->
 <!ENTITY num_tabs2 "&formatD; ٹیبیں">
@@ -92,7 +92,7 @@
      Firefox will use the locale currently selected in Android's settings
      to display browser chrome. -->
 
-<!ENTITY locale_system_default " نظام طے شدہ">
+<!ENTITY locale_system_default "نظام طے شدہ">
 <!-- Localization note (overlay_share_label) : This is the label that appears
      in Android's intent chooser when sending a link to Firefox to bookmark,
      send to another device, or add to Reading List. -->
@@ -105,7 +105,7 @@
 <!ENTITY overlay_share_bookmark_btn_label "نشانی">
 <!ENTITY overlay_share_reading_list_btn_label "پڑھنے کی چیزوں کی فہرست میں ڈالیں">
 <!ENTITY overlay_share_bookmark_btn_label_already "پہلے سے نشان زد">
-<!ENTITY overlay_share_reading_list_btn_label_already "پہلے ہی پڑھنے کی فہرست میں شامل ہے">
+<!ENTITY overlay_share_reading_list_btn_label_already "پہلے سے پڑھنے کی فہرست میں شامل ہے">
 <!ENTITY overlay_share_send_other "دیگر آلات کو بھیجیں">
 <!-- Localization note (overlay_share_send_tab_btn_label) : Used on the
      share overlay menu to represent the "Send Tab" action when the user
@@ -119,7 +119,7 @@
 <!-- Localization note (overlay_no_synced_devices) : Used when the menu option
      to send a tab to a synced device is pressed and no other synced devices
      are found. -->
-<!ENTITY overlay_no_synced_devices "فائر فاکس اکاؤنٹ سے جڑے ہوئے کوئی آلات نہیں ملے">
+<!ENTITY overlay_no_synced_devices "فائر فاکس اکاؤنٹ سے جُڑے ہوئے کوئی آلات نہیں ملے">
 <!-- Localization note (overlay_share_tab_not_sent) : Used when the menu option
      to send a tab to a synced device is pressed and there is an error
      connecting to the server so the tab could not be sent. The text should be
@@ -135,10 +135,10 @@
 <!ENTITY pref_category_privacy_short "رازداری">
 <!ENTITY pref_category_privacy_summary "پاس ورڈ، کوکیاں، سراغ کاری، کوائف کنٹرول کریں">
 <!ENTITY pref_category_vendor "&vendorShortName;">
-
-
-
-
+<!ENTITY pref_category_vendor_summary "&brandShortName;، عمومی سوالات، کوائف پسندوں کے بارے میں">
+<!ENTITY pref_category_datareporting "کوائف پسندیں">
+<!ENTITY pref_learn_more "مزید سیکھیں">
+<!ENTITY pref_category_installed_search_engines "تلاش انجن تنصیب شدہ">
 <!ENTITY pref_category_add_search_providers "تلاش مہیا کنندگان کا مزید اضافہ کریں">
 <!ENTITY pref_category_search_restore_defaults "تلاش انجن بحال کریں">
 <!ENTITY pref_search_restore_defaults "طے شدہ بحال کریں">
@@ -195,8 +195,10 @@
      formatD is replaced with the number of tabs queued.  The
      number of tabs queued is always more than one.  We can't use
      Android plural forms, sadly. See Bug #753859. -->
+<!ENTITY tab_queue_notification_text_plural "&formatD; ٹیبیں قطار بند">
 <!-- Localization note (tab_queue_notification_title_plural) : This is the
      title of a notification; we expect more than one tab queued. -->
+<!ENTITY tab_queue_notification_title_plural "ٹیبیں قطار بند">
 <!-- Localization note (tab_queue_notification_title_singular) : This is the
      title of a notification; we expect only one tab queued. -->
 <!-- Localization note (tab_queue_notification_text_singular) : This is the
@@ -210,16 +212,16 @@
 
 
 <!ENTITY pref_plugins "پلگ ان">
-
-
-
-
-
-
-
-
-
-
+<!ENTITY pref_plugins_enabled "اہل">
+<!ENTITY pref_plugins_tap_to_play "چلانے کے لیے کلک کریں">
+<!ENTITY pref_plugins_disabled "نا اہل">
+<!ENTITY pref_text_size "متن سائز">
+<!ENTITY pref_reflow_on_zoom4 "متن بازروانی">
+<!ENTITY pref_restore "ٹیب">
+<!ENTITY pref_restore_always "ہمیشہ بحال کریں">
+<!ENTITY pref_restore_quit "&brandShortName; کو بند کرنے کے بعد بحال نا کریں">
+<!ENTITY pref_font_size_tiny "بہت چھوٹا">
+<!ENTITY pref_font_size_small "چھوٹا">
 
 
 
@@ -236,13 +238,14 @@ size. -->
 
 
 
+<!ENTITY pref_use_master_password "ماسٹر پاس ورڈ استعمال کریں">
 <!ENTITY pref_sync "ہمہ وار کریں">
-
+<!ENTITY pref_sync_summary "اپنے ٹیب، نشانیاں، پاس ورڈ، سابقات ہمہ وقت ساز کریں">
 <!ENTITY pref_search_suggestions "تلاش تجاویز دکھائیں">
-
-
-
-
+<!ENTITY pref_import_android "اینڈرائڈ سے درآمد کریں">
+<!ENTITY pref_import_android_summary "مقامی براؤزر سے نشانیاں اور تاریخ درآمد کریں">
+<!ENTITY pref_private_data_history2 "براؤزنگ سابقات">
+<!ENTITY pref_private_data_formdata "فارم &amp; تلاش سابقات">
 
 <!ENTITY pref_private_data_passwords "محفوظ شدہ پاس ورڈ">
 <!ENTITY pref_private_data_cache "کیسہ">
