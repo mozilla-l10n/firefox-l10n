@@ -64,8 +64,8 @@
 <!ENTITY  allowPagesToUse.accesskey               "C">
 
 <!ENTITY languages.customize.Fallback2.grouplabel "Amgodiad Nod ar gyfer Hen Gynnwys">
-
-
+<!ENTITY languages.customize.Fallback2.label      "Amgodiad Testun Eilradd:">
+<!ENTITY languages.customize.Fallback2.accesskey  "E">
 <!ENTITY languages.customize.Fallback2.desc       "Mae'r amgodiad nod hwn yn cael ei defnyddio ar gyfer hen gynnwys nad yw'n datgan ei amgodiad.">
 
 <!ENTITY languages.customize.Fallback.auto        "Y Rhagosodedig ar gyfer y Locale Cyfredol">
