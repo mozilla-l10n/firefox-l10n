@@ -8,7 +8,7 @@
 
 <!ENTITY  onboard_start_message2 "&brandShortName; میں خوش آمدید">
 <!ENTITY  onboard_start_subtext2 "مزید رازداری کی خصوصیات اور پہلے سے زیادہ اپنی مرضی کے مطابق کرنے کے طریقیں۔">
-
+<!ENTITY  onboard_start_button_account "&brandShortName; میں سائن ان کریں">
 <!ENTITY  onboard_start_button_browser "براؤزنگ شروع کریں">
 <!-- Localization note: These are used as the titles of different pages on the home screen.
      They are automatically converted to all caps by the Android platform. -->
@@ -20,15 +20,15 @@
 
 <!ENTITY  crash_reporter_title "&brandShortName; کریش رپورٹیں">
 
-<!ENTITY  crash_send_report_message3 "&vendorShortName; کو اس کریش کے بارے میں بتاءیں تاکہ وہ اسے ٹھیک کرسکیں۔">
+<!ENTITY  crash_send_report_message3 "&vendorShortName; کو اس کریش کے بارے میں بتائیں تاکہ وہ اسے ٹھیک کرسکیں">
 <!ENTITY  crash_include_url2 "اُس صفحہ کا پتہ شامل کریں جس پر میں تھا">
 
 <!ENTITY  crash_comment "تبصرہ ڈالیں (تبصرے سب کو نظر آتے ہیں)">
 <!ENTITY  crash_allow_contact2 "&vendorShortName; کو مجھ سے اس رپورٹ کے بارے میں رابطہ کرنے کی اجازت دیں">
 <!ENTITY  crash_email "آپ کا ای میل">
+<!ENTITY  crash_closing_alert "کریش رپورٹ بھیجنے سے پہلے خروج کریں؟">
 
-
-
+<!ENTITY  crash_close_label "بند کریں">
 
 <!ENTITY  exit_label "خروج">
 
@@ -36,19 +36,20 @@
 
 
 
-
-
-
-
+<!ENTITY bookmark_remove "نشانی ہٹائیں">
+<!ENTITY bookmark_added "نشانی جمع کردی گئ">
+<!ENTITY bookmark_removed "نشانی ہٹا دی گئی">
+<!ENTITY bookmark_updated "نشانی تازہ ہوگئ ہے">
 <!ENTITY bookmark_options "اختیارات">
 
 <!ENTITY history_today_section "آج">
 <!ENTITY history_yesterday_section "کل">
+<!ENTITY history_week_section2 "پچھلا ہفتہ">
+<!ENTITY history_older_section2 "پچھلا مہینہ">
 
-
-
-
-
+<!ENTITY go "جائیں">
+<!ENTITY search "تلاش کریں">
+<!ENTITY reload "پھر لوڈ کریں">
 
 
 <!ENTITY back "واپس">
@@ -61,20 +62,24 @@
 <!-- Localization note (num_tabs2) : Number of tabs is always more than one.
      We can't use android plural forms, sadly. See bug #753859. -->
 
-
+<!ENTITY new_private_tab_opened "نیا نجی ٹیب کھل گیا">
 <!-- Localization note (switch_button_message): This string should be as short
      as possible because it's shown as a label in a toast.  Ideally, this string
      is upper-case, to match Google and Android's convention. -->
+<!ENTITY switch_button_message "SWITCH">
 
-
+<!ENTITY settings "سیٹنگیں">
+<!ENTITY settings_title "سیٹنگیں">
 <!ENTITY pref_category_advanced "اعلٰی">
-
+<!ENTITY pref_category_customize "تخصیص کریں">
 
 
 <!-- Localization note (pref_category_language) : This is the preferences
      section in which the user picks the locale in which to display Firefox
      UI. The locale includes both language and region concepts. -->
 
+<!ENTITY pref_category_language "زبان">
+<!ENTITY pref_category_language_summary "اپنے براؤزر کی زبان تبدیل کریں">
 
 <!-- Localization note (locale_system_default) : This string indicates that
      Firefox will use the locale currently selected in Android's settings
@@ -87,15 +92,17 @@
      "to bookmark", not the noun "a bookmark". -->
 
 
-
-
+<!ENTITY overlay_share_reading_list_btn_label_already "پہلے ہی پڑھنے کی فہرست میں شامل ہے">
+<!ENTITY overlay_share_send_other "دیگر آلات کو بھیجیں">
 <!-- Localization note (overlay_share_send_tab_btn_label) : Used on the
      share overlay menu to represent the "Send Tab" action when the user
      either has not set up Sync, or has no other devices to send a tab
      to. -->
 
-
-
+<!ENTITY overlay_share_send_tab_btn_label "دیگر آلہ کو بھیجیں">
+<!ENTITY overlay_share_no_url "اس شیئر میں کوئی ربط نہیں ملا">
+<!ENTITY overlay_share_retry "دوبارہ کوشش کریں">
+<!ENTITY overlay_share_select_device "آلہ منتخب کریں">
 <!-- Localization note (overlay_no_synced_devices) : Used when the menu option
      to send a tab to a synced device is pressed and no other synced devices
      are found. -->
