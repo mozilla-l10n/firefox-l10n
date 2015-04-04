@@ -73,7 +73,7 @@
 <!ENTITY bookmarks.folder.unfiled.label "غیر چھانٹی شدہ نشانیاں">
 
 <!ENTITY bookmarks.folder.mobile.label "متحرک نشانیاں">
-
+<!ENTITY bookmarks.folder.readinglist.label "پڑھنے کی فہرست">
 <!-- Pinned sites on about:home. This folder should never be shown to the user, but we have to give it a string name -->
 <!-- Notification strings -->
 
