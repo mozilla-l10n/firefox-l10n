@@ -15,19 +15,25 @@
 
 <!ENTITY sync.subtitle.pair.label "عمل میں لانے کے لیے، اپنے دوسرے آلے پر “Pair a device” منتخب کریں۔">
 
-
+<!ENTITY sync.pin.oneline.label "...">
 <!ENTITY sync.link.show.label "مجھے دکھائیں کیسے۔">
-
+<!ENTITY sync.link.advancedsetup.label "مخصوص سیٹنگیں">
 <!ENTITY sync.link.nodevice.label "میرے پاس اس وقت آلہ نہیں ہے…">
 <!-- J-PAKE Waiting Screen -->
+
+<!ENTITY sync.jpake.subtitle.waiting.label "دوسرے آلے کا انتظار کر رہا ہے">
 <!-- Account Login Screen -->
 
-
+<!ENTITY sync.subtitle.account.label "اپنی &syncBrand.fullName.label; اکاؤنٹ معلومات داخل کریں">
+<!ENTITY sync.input.username.label "اکاؤنٹ نام">
+<!ENTITY sync.input.password.label "پاس ورڈ">
 <!ENTITY sync.input.key.label "بازیافت کلید">
-
-
+<!ENTITY sync.checkbox.server.label "مخصوص پیش کار استعمال کریں">
+<!ENTITY sync.input.server.label "پیش کار URL">
 <!-- Setup Fail -->
 
+<!ENTITY sync.title.fail.label "&syncBrand.shortName.label; سیٹ اپ نہیں کر سکتا">
+<!ENTITY sync.subtitle.fail.label "&syncBrand.fullName.label; پیش کار سے نہیں جڑ سکا۔ کیا آپ پھر کوشش کرنا چاہیں گے؟">
 <!ENTITY sync.button.tryagain.label "دوبارہ کوشش کریں">
 
 
@@ -49,21 +55,25 @@
 
 <!-- Configure Engines -->
 
-
-
-
-
+<!ENTITY sync.configure.engines.title.bookmarks "نشانیاں">
+<!ENTITY sync.configure.engines.title.passwords "پاس ورڈ">
+<!ENTITY sync.configure.engines.title.history "سابقات">
+<!ENTITY sync.configure.engines.title.tabs "ٹیب">
 <!-- Common text -->
 
 <!ENTITY sync.button.cancel.label "منسوخ کریں">
 <!ENTITY sync.button.connect.label "جڑیں">
 <!ENTITY sync.button.ok.label "ٹھیک ہے">
 <!-- Account strings -->
+
+<!ENTITY sync.account.label "&syncBrand.fullName.label; (فرسودہ)">
 <!-- Localization note (sync.default.client.name): Default string of the "Device
      name" menu item upon setting up Firefox Sync.  The placeholder &formatS1
      will be replaced by the name of the Firefox release channel and &formatS2
      by the model name of the Android device. Examples look like "Aurora on
      GT-I1950" and "Fennec on MI 2S". -->
+
+<!ENTITY sync.default.client.name "&formatS2; پر &formatS1;">
 <!-- Bookmark folder strings -->
 
 <!ENTITY bookmarks.folder.menu.label "نشانیاں مینیو">
@@ -71,10 +81,11 @@
 <!ENTITY bookmarks.folder.tags.label "ٹیگ">
 <!ENTITY bookmarks.folder.toolbar.label "نشانیاں ٹول بار">
 <!ENTITY bookmarks.folder.unfiled.label "غیر چھانٹی شدہ نشانیاں">
-
+<!ENTITY bookmarks.folder.desktop.label "ڈیسک ٹاپ نشانیاں">
 <!ENTITY bookmarks.folder.mobile.label "متحرک نشانیاں">
 <!ENTITY bookmarks.folder.readinglist.label "پڑھنے کی فہرست">
 <!-- Pinned sites on about:home. This folder should never be shown to the user, but we have to give it a string name -->
+<!ENTITY bookmarks.folder.pinned.label "پن شدہ">
 <!-- Notification strings -->
 
 <!-- Incorrect settings and changing credentials. -->
@@ -87,7 +98,7 @@
 
 
 
-
+<!ENTITY sync.text.tab.not.sent.label "آپ کا ٹیب بھیجنے میں مسلہ آ گیا۔">
 <!-- Firefox Account strings. -->
 
 

@@ -517,7 +517,9 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_not_encrypted "آپ کی اس ویب سائٹ کے ساتھ کنکشن خفیہ کردہ نہیں ہے۔">
 <!-- Mixed content notifications in site identity popup -->
 
-
+<!ENTITY loaded_mixed_content_message "یہ صفحہ مواد دکھا رہا ہے جو قابل بھروسا نہیں ہے۔">
+<!ENTITY blocked_mixed_content_message_top "&brandShortName; نے ناقابل بھروسا مواد بلاک کر دیا ہے۔">
+<!ENTITY blocked_mixed_content_message_bottom "اس مواد کے بلاک ہونے کے باوجود زیادہ تر ویب سائٹ ٹھیک چلیں گی۔">
 <!-- Tracking content notifications in site identity popup -->
 
 
@@ -527,24 +529,33 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY learn_more "اور سیکھیں">
 
 
+<!ENTITY keep_blocking "بلاک کرتے رہیں">
 
+<!ENTITY private_data_success "نجی کوائف ہٹا دیئے گئے">
+<!ENTITY private_data_fail "کچھ نجی کوائف ہٹائے نہیں جا سکے">
 
-
-
-
-
-
+<!ENTITY bookmarkhistory_button_import "درآمد کریں">
+<!ENTITY bookmarkhistory_import_both "اینڈروائڈ سے نشانیاں اور سابقات  
+ درآمد کر رہا ہے">
+<!ENTITY bookmarkhistory_import_bookmarks "اینڈروائڈ سے نشانیاں 
+درآمد کر رہا ہے ">
+<!ENTITY bookmarkhistory_import_history "اینڈروائڈ سے سابقات 
+درآمد کر رہا ہے ">
 <!ENTITY bookmarkhistory_import_wait "انتظار کریں...">
 
+<!ENTITY suggestions_prompt3 "کیا آپ تلاش تجاویز آن کرنا چاہیں گے؟">
 <!--  Localization note (search_bar_item_desc): When the user clicks the url bar
       and starts typing, a list of icons of search engines appears at the bottom
       of the screen. When a user clicks an icon, the entered text will be searched
       via the search engine that uses the icon they clicked. This text is used
       for screen reader users when they hover each icon - &formatS; will be
       replaced with the name of the currently highlighted icon. -->
+<!ENTITY search_bar_item_desc "&formatS; سے تلاش کریں">
 <!-- Localization note (suggestion_for_engine): The placeholder &formatS1; will be
      replaced with the name of the search engine. The placeholder &formatS2; will be
      replaced with the search query. -->
+
+<!ENTITY suggestion_for_engine "&formatS1; میں &formatS2; کی تلاش کریں">
 
 
 <!-- Updater notifications -->
@@ -557,20 +568,24 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 
 <!-- Guest mode -->
-
+<!ENTITY exit_guest_session "مہمان سیشن چھوڑیں">
 <!ENTITY guest_session_dialog_continue "جاری رکھیں">
+<!ENTITY guest_session_dialog_cancel "منسوخ کریں">
+<!ENTITY new_guest_session_title "&brandShortName; اب پھر شروع ہو گا">
 
+<!ENTITY guest_browsing_notification_title "مہمان براؤزنگ اہل ہے">
+<!ENTITY guest_browsing_notification_text "خروج کے لیے کلک کریں">
 
-
-
-
-
-
+<!ENTITY exit_guest_session_title "&brandShortName; اب پھر شروع ہو گا">
+<!ENTITY exit_guest_session_text "اس سیشن کے براؤزنگ کوائف حذف کر دیے جائیں گے۔">
 <!-- Miscellaneous -->
 <!-- LOCALIZATION NOTE (ellipsis): This text is appended to a piece of text that does not fit in the
      designated space. Use the unicode ellipsis char, \u2026, or use "..." if \u2026 doesn't suit
      traditions in your locale. -->
 
+<!ENTITY ellipsis "…">
+
+<!ENTITY colon ":">
 <!-- These are only used for accessibility for the done and overflow-menu buttons in the actionbar.
      They are never shown to users -->
 <!ENTITY actionbar_done "ختم">

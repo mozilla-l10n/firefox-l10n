@@ -14,15 +14,15 @@
 
 
 
-
+<!ENTITY sync.account               "اکاؤنٹ نام">
 <!ENTITY sync.password              "پاس ورڈ">
 
 
-
+<!ENTITY sync.serverURL             "پیش کار URL">
 
 <!ENTITY sync.setup.cancel          "منسوخ کریں">
 
-
+<!ENTITY sync.setup.waiting2        "دوسرے آلے کا انتظار کر رہا ہے">
 
 <!ENTITY sync.pair.title            "آلے کا جوڑا بنائیں">
 
