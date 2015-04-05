@@ -172,7 +172,7 @@
 
 
 
-
+<!ENTITY fxaccount_status_sync_server "کارگزار هم‌گام‌سازی">
 
 
 
@@ -196,9 +196,13 @@
 
 <!-- Localization note: format string below will be replaced
      with the Firefox Account's email address. -->
+<!ENTITY fxaccount_remove_account_toast "حساب فایرفاکس &formatS; حذف شد">
 
+<!ENTITY fxaccount_remove_account_menu_item "حذف حساب">
 <!-- Localization note: this is the name shown by the Android system
      itself for a Firefox Account. Don't localize this. -->
+
+<!ENTITY fxaccount_account_type_label "فایرفاکس">
 <!-- Localization note: these are shown by the Android system itself,
      when the user navigates to the Android > Accounts > {Firefox
      Account} Screen. The link takes the user to the Firefox Account
@@ -208,16 +212,19 @@
 <!-- Localization note: these error messages are shown after a request
      has been made to the remote server, and an error of some type has
      been returned. -->
+
+<!ENTITY fxaccount_remote_error_UPGRADE_REQUIRED "فایرفاکس شما نیاز به ارتقا دارد">
 <!-- Localization note: the format string will be fxaccount_sign_in_button_label, linkified. -->
+<!ENTITY fxaccount_remote_error_ATTEMPT_TO_ACCESS_AN_ACCOUNT_THAT_DOES_NOT_EXIST "ایمیل یا گذرواژه نامعتبر است">
+<!ENTITY fxaccount_remote_error_INCORRECT_PASSWORD "ایمیل یا گذرواژه نامعتبر است">
+<!ENTITY fxaccount_remote_error_ATTEMPT_TO_OPERATE_ON_AN_UNVERIFIED_ACCOUNT "حساب کاربری تایید نشده است">
+<!ENTITY fxaccount_remote_error_CLIENT_HAS_SENT_TOO_MANY_REQUESTS "کارگزار مشغول است، اندکی بعد دوباره امتحان کنید">
+
+<!ENTITY fxaccount_remote_error_UNKNOWN_ERROR "مشکلی پیش آمده است">
 
 
 
-
-
-
-
-
-
+<!ENTITY fxaccount_sync_sign_in_error_notification_title2 "&syncBrand.shortName.label; به شبکه وصل نیست">
 <!-- Localization note: the format string below will be replaced
      with the Firefox Account's email address. -->
 
