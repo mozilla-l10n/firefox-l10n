@@ -15,8 +15,8 @@
 <!ENTITY saveCmd.accesskey "S">
 <!ENTITY saveAsCmd.label "Spremi kao…">
 <!ENTITY saveAsCmd.accesskey "a">
-
-
+<!ENTITY saveAsChangeEncodingCmd2.label "Spremi i promijeni kôdnu stranicu">
+<!ENTITY saveAsChangeEncodingCmd2.accesskey "e">
 <!ENTITY publishCmd.label "Objavi">
 <!ENTITY publishCmd.accesskey "b">
 <!ENTITY publishCmd.key "S">
