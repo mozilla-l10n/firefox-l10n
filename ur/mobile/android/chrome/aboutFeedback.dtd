@@ -13,18 +13,25 @@
 <!-- LOCALIZATION NOTE (support.link): Avoid leading/trailing spaces, this text is a link. -->
 <!-- LOCALIZATION NOTE (support.post): Include a starting space as needed. -->
 
+<!ENTITY support.post3             " عام مسائل کے حل کے لیے">
 
-
+<!ENTITY happy.header              "بہت اعلیٰ!">
 <!-- LOCALIZATION NOTE (happy.message): "share the love" — This feels purposely exaggerated in English,
      but essentially it means that we want you to let others know how much you love Firefox. -->
+
+<!ENTITY happy.message             "ہمیں گوگل پلے پر 5 سٹار ریٹنگ دیں گے؟">
 <!-- LOCALIZATION NOTE (happy.finePrint): "feels great" — Another exaggeration where we're trying to
      get people to rate us by playfully telling them there's a benefit in it for them as well. -->
 
+<!ENTITY happy.finePrint           "ایک منٹ سے کم لیتا ہے اور بہت اچھا لگتا ہے۔">
 
+<!ENTITY happy.ratingLink          "جی، گوگل پلے پر جائیں">
+<!ENTITY happy.maybeLater2         "شائد بعد میں">
+<!ENTITY happy.noThanks            "نہیں شکریہ">
 
+<!ENTITY sad.header                "نہیں!">
 
-
-
+<!ENTITY sad.placeholder           "اپنی رائے یہاں دیں">
 
 <!-- LOCALIZATION NOTE (sad.urlPlaceholder): Placeholder text that appears in "Last visited site" input box when there is no text. -->
 

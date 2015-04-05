@@ -215,7 +215,7 @@
 <!ENTITY pref_clear_private_data2 "ابھی خالی کریں">
 <!ENTITY pref_clear_private_data_category "نجی کوائف خالی کریں">
 <!ENTITY pref_clear_on_exit_title2 "خروج پر خالی کریں">
-
+<!ENTITY pref_clear_on_exit_summary2 "&brandShortName; خود بخود آپ کے کوائف صاف کردے گا جب بھی آپ مرکزی مینیو سے \u0022Quit\u0022  منتخب کریں گے">
 <!ENTITY pref_clear_on_exit_dialog_title "منتخب کریں کون سے کوائف خالی کرنے ہیں">
 <!ENTITY pref_plugins "پلگ ان">
 <!ENTITY pref_plugins_enabled "اہل">
@@ -292,16 +292,16 @@ size. -->
      crashReporterDesc.label). -->
 
 <!ENTITY datareporting_fhr_title "&brandShortName; تندرستی رپورٹ">
-
+<!ENTITY datareporting_fhr_summary2 "آپ کے براؤزر کی صحت &vendorShortName; کے ساتھ شیئر کرتا ہے اور آپ کو آپ کے براؤزر کی سرانجام دہی سمجھنے میں مدد کرتا ہے۔">
 <!ENTITY datareporting_abouthr_title "میری تندرستی رپورٹ دکھائیں">
 <!ENTITY datareporting_telemetry_title "ٹیلی میٹری">
-
-
+<!ENTITY datareporting_telemetry_summary "&brandShortName; کو بہتر بنانے میں مدد دینے کے لیے آپ کے براؤزر کے سرانجام دہی، استعمال، ہارڈ ویئر اور تخصیص کاری کوائف &vendorShortName; کو بھیجتا ہے">
+<!ENTITY datareporting_crashreporter_summary "&brandShortName; &vendorShortName; کو آپ کے براوزر کو قابل بھروسا اور محفوظ بنانے میں مدد دینے کے لیے کریش رپورٹیں بھیجتا ہے">
 <!-- Localization note (datareporting_crashreporter_title_short) : This string matches
      (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
 <!ENTITY datareporting_crashreporter_title_short "کریش رپورٹ کار">
 <!ENTITY datareporting_wifi_title2 "&vendorShortName; محل وقوع سروس">
-
+<!ENTITY datareporting_wifi_geolocation_summary4 "دنیا کی نقشہ بندی کرنے میں &vendorShortName; کی مدد کریں۔ ہماری جغرافیائی محل وقوع خدمت بہتر کرنے کے لیے آپنے آلہ کی تقریباً وائی فائی اور سیلولر محل وقوع شیئر کریں۔">
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
      actual notification that an update is available. -->
@@ -389,7 +389,7 @@ size. -->
 <!ENTITY pref_scroll_title_bar_summary "صفحے پر نیچے جاتے وقت &brandShortName; کا عنوان بار چھپائیں">
 
 <!ENTITY pref_tab_queue_title "بعد میں کھولیں">
-
+<!ENTITY pref_tab_queue_summary "ٹیبیں فوراً کھلنے سے بچائیں، لیکن اگلی بار &brandShortName; لوڈ ہو تو تمام قطار بند ٹیبیں کھولیں۔">
 <!-- Localization note (page_removed): This string appears in a toast message when
      any page is removed frome about:home. This includes pages that are in history,
      bookmarks, or reading list. -->
@@ -408,13 +408,17 @@ size. -->
 <!ENTITY site_settings_clear        "صاف کریں">
 <!ENTITY site_settings_no_settings  "صاف کرنے کے لیے کوئی سیٹنگیں نہیں">
 
-
+<!ENTITY reading_list_added "آپ کے پڑھنے والی فہرست میں صفحہ کا اضافہ کردیا گیا">
+<!ENTITY reading_list_removed "آپ کے پڑھنے والی فہرست سے صفحہ ہٹا دیا گیا">
 <!-- Localization note (reading_list_remove) : Used to remove the currently open page from
      the user's reading list. The opposite of overlay_share_reading_list_btn_label. -->
-
+<!ENTITY reading_list_remove "پڑھنے والی فہرست سے ہٹائیں">
+<!ENTITY reading_list_duplicate "آپ کے پڑھنے والی فہرست میں صفحہ پہلے ہی سے موجود ہے">
 <!-- Localization note (reading_list_time_minutes2) : This string is used in the "Reading List"
      panel on the home page to give the user an estimate of how many minutes it will take to
      read an article. The word "minute" should be abbreviated if possible. -->
+
+<!ENTITY reading_list_time_minutes2 "&formatD; منٹ">
 <!ENTITY reading_list_time_over_an_hour "گھنٹے سے اوپر">
 <!-- Localization note : These strings are used as alternate text for accessibility.
      They are not visible in the UI. -->
@@ -442,14 +446,16 @@ size. -->
 <!-- Localization note (home_title): This string should be kept in sync
      with the page title defined in aboutHome.dtd -->
 
-
-
-
-
-
-
+<!ENTITY home_title "&brandShortName; گھر">
+<!ENTITY home_history_title "سابقات">
+<!ENTITY home_clear_history_button "براؤزنگ سابقات خالی کریں">
+<!ENTITY home_clear_history_confirm "کیا آپ کو یقین ہے کہ آپ اپنے سابقات صاف کرنا چاہتے ہیں؟">
+<!ENTITY home_bookmarks_empty "نشانیاں جو آپ محفوظ کرتے ہیں وہ یہاں دکھائی دیتی ہیں۔">
+<!ENTITY home_closed_tabs_title "حالیہ بند کی گئی ٹیبیں">
+<!ENTITY home_last_tabs_title "ٹیبیں پچھلے وقت سے">
+<!ENTITY home_last_tabs_empty "آپ کی حالیہ ٹیبیں ادھر دکھائی دیتی ہیں۔">
 <!ENTITY home_open_all "تمام کھولیں">
-
+<!ENTITY home_most_recent_empty "آپ کی حال ہی میں ملاحظہ کی گئی ویب سائٹیں یہاں نظر آتی ہیں۔">
 <!-- Localization note (home_most_recent_emptyhint2): "Psst" is a sound that might be used to attract someone's attention unobtrusively, and intended to hint at Private Browsing to the user.
      The placeholders &formatS1; and &formatS2; are used to mark the location of text underlining. -->
 <!ENTITY home_reading_list_empty "جو عبارتیں آپ بعد کے لیے محفوظ کرتے ہیں یہاں نظر آتی ہیں۔">
@@ -471,23 +477,27 @@ size. -->
 <!ENTITY home_remote_tabs_title "ہمہ وقت ساز ٹیب">
 <!ENTITY home_remote_tabs_empty "دیگر آلات سے آپ کے ٹیب یہاں نظر آتے ہیں۔">
 <!ENTITY home_remote_tabs_unable_to_connect "جڑنے میں ناکامیاب">
-
+<!ENTITY home_remote_tabs_need_to_sign_in "اپنا فائر فاکس اکاؤنٹ پھر جوڑنے اور ہمہ وقت سازی جاری کرنے کے لیے سائن ان کریں۔">
 <!ENTITY home_remote_tabs_need_to_finish_migrating "آپ کا نیا فائر فاکس اکاؤنٹ تیار ہے!">
 
-
+<!ENTITY home_remote_tabs_trouble_verifying "اکاؤنٹ توثیق کرنے میں مسلہ؟">
+<!ENTITY home_remote_tabs_need_to_verify "ہمہ وقت سازی شروع کرنے کے لیے اپنے اکاؤنٹ کی توثیق کریں۔">
 
 <!-- Localization note (home_remote_tabs_many_hidden_devices) : The
      formatD is replaced with the number of hidden devices.  The
      number of hidden devices is always more than one.  We can't use
      Android plural forms, sadly. See Bug #753859. -->
+<!ENTITY home_remote_tabs_many_hidden_devices "1 پوشیدہ آلہ">
 <!-- Localization note (home_remote_tabs_hidden_devices_title) : This is the
      title of a dialog; we expect more than one device. -->
+<!ENTITY home_remote_tabs_hidden_devices_title "پوشیدہ آلات">
 <!-- Localization note (home_remote_tabs_unhide_selected_devices) : This is
      the text of a button; we expect more than one device. -->
+<!ENTITY home_remote_tabs_unhide_selected_devices "منتخب آلات چھپانا ختم کریں">
 
 <!ENTITY private_browsing_title "نجی براوزنگ">
 
-
+<!ENTITY private_tabs_panel_learn_more "مزید سیکھیں گے؟">
 
 
 <!ENTITY remote_tabs_panel_moved_link "مجھے میری نئی پینل تک لے جائیں۔">
@@ -522,7 +532,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY blocked_mixed_content_message_bottom "اس مواد کے بلاک ہونے کے باوجود زیادہ تر ویب سائٹ ٹھیک چلیں گی۔">
 <!-- Tracking content notifications in site identity popup -->
 
-
+<!ENTITY blocked_tracking_content_message_top2 "سراغ کاری حفاظت اہل">
 
 <!-- Common mixed and tracking content strings in site identity popup -->
 
