@@ -110,7 +110,7 @@
 <!ENTITY offlineAppsList.height          "7em">
 <!ENTITY offlineAppsListRemove.label     "حذف…">
 <!ENTITY offlineAppsListRemove.accesskey "ح">
-
+<!ENTITY offlineAppRemove.confirm        "حذف اطلاعات آفلاین">
 
 <!ENTITY certificateTab.label            "گواهینامه‌ها">
 <!ENTITY certSelection.label             "درخواست‌ها">
