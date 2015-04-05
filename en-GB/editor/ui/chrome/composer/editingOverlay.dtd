@@ -1,8 +1,8 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-<!-- File menu items -->
 
+<!-- File menu items -->
 <!ENTITY openFileCmd.label "Open File…">
 <!ENTITY openFileCmd.accesskey "O">
 <!ENTITY openFileCmd.key "O">
@@ -24,12 +24,12 @@
 <!ENTITY publishAsCmd.accesskey "h">
 <!ENTITY fileRevert.label "Revert">
 <!ENTITY fileRevert.accesskey "t">
-<!-- Edit menu items -->
 
+<!-- Edit menu items -->
 <!ENTITY publishSettings.label "Publishing Site Settings…">
 <!ENTITY publishSettings.accesskey "b">
-<!-- Toolbar buttons/items -->
 
+<!-- Toolbar buttons/items -->
 <!ENTITY newToolbarCmd.label "New">
 <!ENTITY newToolbarCmd.tooltip "Create a new Composer page">
 <!ENTITY openToolbarCmd.label "Open">

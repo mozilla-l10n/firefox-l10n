@@ -1,8 +1,8 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-<!-- Mail Content -->
 
+<!-- Mail Content -->
 <!ENTITY captionMailContent.label "Mail Content">
 
 <!ENTITY acceptRemoteContent.label "Allow remote content in messages">
@@ -10,8 +10,8 @@
 <!ENTITY remoteContentExceptions.label "Exceptions…">
 <!ENTITY remoteContentExceptions.accesskey "x">
 <!ENTITY acceptRemoteContentInfo.label "Learn more about the privacy issues of remote content">
-<!-- Web Content -->
 
+<!-- Web Content -->
 <!ENTITY captionWebContent.label "Web Content">
 
 <!ENTITY keepHistory.label "Remember web sites and links I've visited">
