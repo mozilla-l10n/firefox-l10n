@@ -463,8 +463,10 @@ size. -->
      as an advisory message on how to add content to the reading list when the reading list empty.
      The placeholder &formatI; will be replaced by a small image of the icon described, and can be moved to wherever
      it is applicable. -->
+<!ENTITY home_reading_list_hint2 "TIP: جب &formatI; کی شبیہ عنوان بار میں ظاہر ہوجائے تو اسے دیر تک دبائے رکھنے سے عبارات اپنے پڑھنے کی فہرست میں محفوظ کریں۔">
 <!-- Localization note (home_reading_list_hint_accessible): This string is used
      as alternate text for accessibility. It is not visible in the UI. -->
+<!ENTITY home_reading_list_hint_accessible "TIP: جب پڑھنے والے موڈ کا بٹن عنوان بار میں ظاہر ہوجائے تو اسے دیر تک دبائے رکھنے سے عبارات اپنے پڑھنے کی فہرست میں محفوظ کریں۔">
 <!-- Localization note (home_default_empty): This string is used as the default text when there
      is no data to show in an about:home panel that was created by an add-on. -->
 
@@ -483,6 +485,7 @@ size. -->
 <!ENTITY home_remote_tabs_trouble_verifying "اکاؤنٹ توثیق کرنے میں مسلہ؟">
 <!ENTITY home_remote_tabs_need_to_verify "ہمہ وقت سازی شروع کرنے کے لیے اپنے اکاؤنٹ کی توثیق کریں۔">
 
+<!ENTITY home_remote_tabs_one_hidden_device "1 آلہ پوشیدہ">
 <!-- Localization note (home_remote_tabs_many_hidden_devices) : The
      formatD is replaced with the number of hidden devices.  The
      number of hidden devices is always more than one.  We can't use
@@ -496,9 +499,10 @@ size. -->
 <!ENTITY home_remote_tabs_unhide_selected_devices "منتخب آلات چھپانا ختم کریں">
 
 <!ENTITY private_browsing_title "نجی براوزنگ">
-
+<!ENTITY private_tabs_panel_empty_desc "آپ کی نجی ٹیبیں ادھر دکھائی دیں گی۔ حالانکہ ہم آپ کے کوئی بھی براؤزنگ سابقات اور کوکیاں نہیں رکھتے، نشانیاں اور مسلیں جو آپ ڈاؤن لوڈ کرتے ہیں وہ پھر بھی آپ کے آلہ پر محفوظ ہوںگی،">
 <!ENTITY private_tabs_panel_learn_more "مزید سیکھیں گے؟">
 
+<!ENTITY remote_tabs_panel_moved_title "میرے ٹیب کہاں گئے؟">
 
 <!ENTITY remote_tabs_panel_moved_link "مجھے میری نئی پینل تک لے جائیں۔">
 
@@ -532,13 +536,15 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY blocked_mixed_content_message_bottom "اس مواد کے بلاک ہونے کے باوجود زیادہ تر ویب سائٹ ٹھیک چلیں گی۔">
 <!-- Tracking content notifications in site identity popup -->
 
+<!ENTITY loaded_tracking_content_message_top "سراغ کاری حفاظت نا اہل بنائیں۔">
+<!ENTITY loaded_tracking_content_message_bottom "اس صفحے کے کچھ حصے آپ کی آن لائن سرگرمیوں کا سراغ لگا سکتے ہیں۔">
 <!ENTITY blocked_tracking_content_message_top2 "سراغ کاری حفاظت اہل">
-
+<!ENTITY blocked_tracking_content_message_bottom2 "صفحہ کے کچھ حصے جو آپ کی آن لائن سرگرمیوں کا سراغ لگاتے ہیں انہیں بلاک کردیا گیا ہے۔">
 <!-- Common mixed and tracking content strings in site identity popup -->
 
 <!ENTITY learn_more "اور سیکھیں">
-
-
+<!ENTITY enable_protection "حفاظت اہل بنائیں">
+<!ENTITY disable_protection "حفاظت نا اہل بنائیں">
 <!ENTITY keep_blocking "بلاک کرتے رہیں">
 
 <!ENTITY private_data_success "نجی کوائف ہٹا دیئے گئے">
@@ -567,17 +573,24 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY suggestion_for_engine "&formatS1; میں &formatS2; کی تلاش کریں">
 
+<!ENTITY webapp_generic_name "ایپ">
 
-<!-- Updater notifications -->
+<!ENTITY searchable_description "نشانیاں اور سابقات">
+<!-- Updater notifications --> 
 
+<!ENTITY updater_start_title2 "&brandShortName; کے لیے تازہ کاری دستیاب">
+<!ENTITY updater_start_select2 "ڈاؤن لوڈ کرنے کے لیے چھوئیں">
 
 <!ENTITY updater_downloading_title2 "&brandShortName; ڈاؤن لوڈ کر رہا ہے">
+<!ENTITY updater_downloading_title_failed2 "ڈاؤن لوڈ کریں ناکام">
+<!ENTITY updater_downloading_select2 "ڈاؤن لوڈ کے بعد تازہ کاری لگانے کے لیے چھوئیں">
+<!ENTITY updater_downloading_retry2 "پھر کوشش کرنے کے لیے چھوئیں">
 
-
-
-
-
+<!ENTITY updater_apply_title2 "&brandShortName; کے لیے تازہ کاری دستیاب">
+<!ENTITY updater_apply_select2 "تازہ کرنے کے لیے چھوئیں">
 <!-- Guest mode -->
+
+<!ENTITY new_guest_session "نئی مہمان سیشن">
 <!ENTITY exit_guest_session "مہمان سیشن چھوڑیں">
 <!ENTITY guest_session_dialog_continue "جاری رکھیں">
 <!ENTITY guest_session_dialog_cancel "منسوخ کریں">
@@ -598,19 +611,28 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY colon ":">
 <!-- These are only used for accessibility for the done and overflow-menu buttons in the actionbar.
      They are never shown to users -->
+
+<!ENTITY actionbar_menu "مینیو">
 <!ENTITY actionbar_done "ختم">
 <!-- Voice search in the awesome bar -->
 
-
-
-
+<!ENTITY voicesearch_prompt "ابھی بولیں">
+<!ENTITY voicesearch_failed_title "&brandShortName; آواز تلاش">
+<!ENTITY voicesearch_failed_message "اس وقت آواز تلاش میں کچھ مسلہ ہے۔ بعد میں کوشش کریں۔">
+<!ENTITY voicesearch_failed_message_recoverable "ہم آپ کے الفاظ پہچان نہیں سکے۔ پھر کوشش کریں۔">
+<!ENTITY voicesearch_failed_retry "دوبارہ کوشش کریں">
 <!-- Localization note (remote_tabs_last_synced): the variable is replaced by a
      "relative time span string" produced by Android.  This string describes the
      time the tabs were last synced relative to the current time; examples
      include "42 minutes ago", "4 days ago", "last week", etc. The subject of
      "Last synced" is one of the user's other Sync clients, typically Firefox on
      their desktop or laptop.-->
+
+<!ENTITY remote_tabs_last_synced "آخری ہمہ وقت سازی: &formatS;">
 <!-- Localization note: Used when the sync has not happend yet, showed in place of a date -->
+<!ENTITY remote_tabs_never_synced "آخری ہمہ وقت سازی: کبھی نہیں">
 <!-- Find-In-Page strings -->
 <!-- LOCALIZATION NOTE (find_matchcase): This is meant to appear as an icon that changes color
      if match-case is activated. i.e. No more than two letters, one uppercase, one lowercase. -->
+
+<!ENTITY find_matchcase "Aa">

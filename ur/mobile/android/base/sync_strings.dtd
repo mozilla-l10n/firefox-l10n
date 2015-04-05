@@ -8,10 +8,12 @@
 <!ENTITY syncBrand.shortName.label "ہمہ وار کریں">
 <!-- Main titles. -->
 
-
+<!ENTITY sync.app.name.label "&syncBrand.fullName.label;">
+<!ENTITY sync.title.connect.label "&syncBrand.shortName.label; سے جڑیں">
+<!ENTITY sync.title.adddevice.label "&syncBrand.fullName.label; اکاؤنٹ ڈالیں">
 <!ENTITY sync.title.pair.label "آلے کا جوڑا بنائیں">
 <!-- J-PAKE Key Screen -->
-
+<!ENTITY sync.subtitle.header2.label "اپنے دوسرے آلے پر یہ ضابطہ داخل کریں">
 
 <!ENTITY sync.subtitle.pair.label "عمل میں لانے کے لیے، اپنے دوسرے آلے پر “Pair a device” منتخب کریں۔">
 
@@ -44,7 +46,7 @@
 <!ENTITY sync.title.success.label "سیٹ اپ مکمل">
 
 <!ENTITY sync.settings.label "سیٹنگیں">
-
+<!ENTITY sync.subtitle.manage.label1 "آپ کا &syncBrand.fullName.label; اکاؤنٹ پہلے سے سیٹ ہے۔ آپ اپنا اکاؤنٹ بندوبست کرنے، یا &brandShortName;&brandShortName; کو شروع کرنے کے لیے سیٹکگیوں میں جا سکتے ہیں۔">
 <!-- Pair Device -->
 
 <!ENTITY sync.pair.tryagain.label "پھر کوشش کریں۔">
@@ -52,9 +54,11 @@
 <!-- Firefox SyncAdapter Settings Screen -->
 
 <!ENTITY sync.settings.options.label "اختیارات">
-
+<!ENTITY sync.summary.pair.label "اپنے &syncBrand.shortName.label; اکاؤنٹ کے ساتھ ایک اور آلہ جوڑیں">
 <!-- Configure Engines -->
 
+<!ENTITY sync.configure.engines.title.label "کیا ہمہ وقت ساز کریں">
+<!ENTITY sync.configure.engines.sync.my.title.label "ہمہ وقت ساز کریں…">
 <!ENTITY sync.configure.engines.title.bookmarks "نشانیاں">
 <!ENTITY sync.configure.engines.title.passwords "پاس ورڈ">
 <!ENTITY sync.configure.engines.title.history "سابقات">
@@ -88,16 +92,22 @@
 <!ENTITY bookmarks.folder.pinned.label "پن شدہ">
 <!-- Notification strings -->
 
+<!ENTITY sync.notification.oneaccount.label "صرف ایک &syncBrand.fullName.label; اکاؤنٹ معاونت شدہ ہے۔">
+<!ENTITY sync.notification.configure.saved "آپ کے انتخابات محفوظ کر دیئے گئے ہیں۔">
 <!-- Incorrect settings and changing credentials. -->
+
+<!ENTITY sync.invalidcreds.label "غیر صحیح اکاؤنٹ نام یا پاس ورڈ۔">
 <!ENTITY sync.invalidserver.label "جائز بتدریج یو ار ایل داخل کریں">
 <!ENTITY sync.verifying.label "توثیق کر رہا ہے...">
-
+<!ENTITY sync.new.recoverykey.status.incorrect "بازیافت کلید غیر صحیح۔ پھر کوشش کریں۔">
 <!-- Send tab to device. -->
 
+<!ENTITY sync.title.send.tab.label "ٹیب کو آلات پر بھیجیں">
+<!ENTITY sync.button.send.label "بھیجیں">
+<!ENTITY sync.button.set.up.sync.label "&syncBrand.shortName.label; سیٹ اپ کریں">
+<!ENTITY sync.title.redirect.to.set.up.sync.label "ییب بھیجنے کے لیے &syncBrand.shortName.label; سیٹ اپ کریں">
 
-
-
-
+<!ENTITY sync.text.tab.sent.label "آپ کا ٹیب بھیج دیا گیا!">
 <!ENTITY sync.text.tab.not.sent.label "آپ کا ٹیب بھیجنے میں مسلہ آ گیا۔">
 <!-- Firefox Account strings. -->
 
@@ -126,8 +136,9 @@
      the two uses differently. -->
 
 <!ENTITY fxaccount_policy_linktos "سروس کی اصطلاحات">
+<!ENTITY fxaccount_policy_linkprivacy "رازداری اطلاع نامہ">
 
-
+<!ENTITY fxaccount_getting_started_welcome_to_sync "&syncBrand.shortName.label; میں خوش آمدید">
 
 
 
@@ -135,8 +146,10 @@
      particular version of Firefox installed (Release, Beta, Aurora,
      etc).  The account remains a "Firefox Account". -->
 
-
-
+<!ENTITY fxaccount_create_account_header2 "فائر فاکس اکاؤنٹ بنائیں">
+<!ENTITY fxaccount_create_account_password_length_restriction "کم از کم 8 کریکٹر کا ہو">
+<!ENTITY fxaccount_create_account_day_of_birth "دن">
+<!ENTITY fxaccount_create_account_month_of_birth "ماہ">
 <!ENTITY fxaccount_create_account_year_of_birth "سال پیدائش">
 <!-- Localization note: &formatS1; is fxaccount_policy_linktos, &formatS2; is fxaccount_policy_linkprivacy, both hyperlinked. -->
 <!ENTITY fxaccount_create_account_button "آگے">
@@ -154,12 +167,13 @@
 
 
 
+<!ENTITY fxaccount_confirm_account_verification_link_not_sent2 "توثیق ای میل نہیں بھیج سکا">
+<!ENTITY fxaccount_resend_unlock_code_button_label "تالا کھولنے والی ای میل پھر بھیجیں">
+<!ENTITY fxaccount_unlock_code_sent "اکاؤنٹ کھولنے والی ای میل بھیج دی گئی">
+<!ENTITY fxaccount_unlock_code_not_sent "اکاؤنٹ کھولنے والی ای میل بھیج نہیں سکا">
 
-
-
-
-
-
+<!ENTITY fxaccount_sign_in_sub_header "سائن ان">
+<!ENTITY fxaccount_sign_in_button_label "سائن ان">
 <!ENTITY fxaccount_sign_in_forgot_password "پاس ورڈ بھول گیا؟">
 <!ENTITY fxaccount_sign_in_create_account_instead "اکاؤنٹ بنائیں">
 <!ENTITY fxaccount_sign_in_unknown_error "سائن ان نہیں کر سکا">
@@ -174,10 +188,11 @@
 <!ENTITY fxaccount_update_credentials_unknown_error "سائن ان نہیں کر سکا">
 
 <!ENTITY fxaccount_finish_migrating_header "فزوں کاری مکمل کرنے کے لیے سائن ان کریں">
+<!ENTITY fxaccount_finish_migrating_button_label "فزوں کاری مکمل کریں">
+<!ENTITY fxaccount_finish_migrating_description "فزوں کاری میں کافی کوائف منتقل ہوتے ہیں۔ وائی فائی نیٹ ورک استعمال کرنا بہترین ہو گا۔">
 
-
-
-
+<!ENTITY fxaccount_status_header2 "فائر فاکس اکاؤنٹ">
+<!ENTITY fxaccount_status_signed_in_as "سائن ان بطور">
 
 
 
@@ -193,20 +208,24 @@
 <!ENTITY fxaccount_status_needs_finish_migrating "اپنے نئے فائر فاکس اکاؤنٹ میں سائن ان کرنے کے لیے کلک کریں۔">
 <!ENTITY fxaccount_status_bookmarks "نشانیاں">
 <!ENTITY fxaccount_status_history "سابقات">
-
-
+<!ENTITY fxaccount_status_passwords "پاس ورڈ">
+<!ENTITY fxaccount_status_tabs "ٹیب کھولیے">
 
 <!-- Localization note: when tapped, the following two strings link to
      external web pages.  Compare fxaccount_policy_{linktos,linkprivacy}:
      these strings are separated to accommodate languages that decline
      the two uses differently. -->
+<!ENTITY fxaccount_status_linktos "سروس کی اصطلاحات">
+<!ENTITY fxaccount_status_linkprivacy "رازداری اطلاع نامہ">
+<!ENTITY fxaccount_status_more "مزید&ellipsis;">
 
-
-
-
+<!ENTITY fxaccount_remove_account_dialog_title "فائر فاکس اکاؤنٹ ہٹا دیں؟">
+<!ENTITY fxaccount_remove_account_dialog_message "&brandShortName; آپ ک اکاؤنٹ ہمہ وقت ساز کرنا روک دے گا، لیکن اس آلے پر آپ کے براؤزنگ کوائف حذف نہیں کرے گا۔">
 <!-- Localization note: format string below will be replaced
      with the Firefox Account's email address. -->
+<!ENTITY fxaccount_remove_account_toast "فائر فاکس اکاؤنٹ &formatS; ہٹا دیا۔">
 
+<!ENTITY fxaccount_remove_account_menu_item "اکاؤنٹ ہٹائیں">
 <!-- Localization note: this is the name shown by the Android system
      itself for a Firefox Account. Don't localize this. -->
 
