@@ -4,7 +4,7 @@
 
 <!ENTITY refreshProfile.dialog.title         "بازآوری &brandShortName;">
 <!ENTITY refreshProfile.dialog.description1  "جهت حل مشکلات و بازگرداندن کارایی از نو شروع کن.">
-
+<!ENTITY refreshProfile.dialog.description2  "این:">
 <!ENTITY refreshProfile.dialog.items.label1  "حذف درافزاهای و سفارشی سازی های شما">
 <!ENTITY refreshProfile.dialog.items.label2  "بازگرداندن تنظیمات مرورگر شما به حالت پیش فرض">
 <!ENTITY refreshProfile.dialog.button.label  "بازآوری &brandShortName;">
