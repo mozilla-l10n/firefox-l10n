@@ -23,7 +23,7 @@ This is likely the same like id.heading in crashes.dtd. -->
 <!ENTITY aboutSupport.extensionVersion "Версия">
 <!ENTITY aboutSupport.extensionId "ID">
 
-<!ENTITY aboutSupport.experimentsTitle "Експериментални възможности.">
+<!ENTITY aboutSupport.experimentsTitle "Експериментални възможности">
 <!ENTITY aboutSupport.experimentName "Име">
 <!ENTITY aboutSupport.experimentId "ID">
 <!ENTITY aboutSupport.experimentDescription "Описание">
