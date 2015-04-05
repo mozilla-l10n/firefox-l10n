@@ -25,7 +25,7 @@
 
 <!-- LOCALIZATION NOTE (browserToolboxErrorMessage): This is the label
   -  shown next to error details when the Browser Toolbox is unable to open. -->
-<!ENTITY browserToolboxErrorMessage          "Error opening Browser Toolbox:">
+<!ENTITY browserToolboxErrorMessage          "Помилка відкриття інструментів браузера:">
 
 <!-- LOCALIZATION NOTE (options.context.advancedSettings): This is the label for
   -  the heading of the advanced settings group in the options panel. -->
@@ -76,8 +76,8 @@
 <!-- LOCALIZATION NOTE (options.enableChrome.label4): This is the label for the
   -  checkbox that toggles chrome debugging, i.e. devtools.chrome.enabled
   -  boolean preference in about:config, in the options panel. -->
-<!ENTITY options.enableChrome.label5    "Enable browser chrome and add-on debugging toolboxes">
-<!ENTITY options.enableChrome.tooltip3  "Turning this option on will allow you to use various developer tools in browser context (via Tools > Web Developer > Browser Toolbox) and debug add-ons from the Add-ons Manager">
+<!ENTITY options.enableChrome.label5    "Увімкнути інструменти зневадження browser chrome та додатків">
+<!ENTITY options.enableChrome.tooltip3  "Увімкнення цього параметра дозволить вам використовувати різні інструменти розробника в контексті браузера (Меню > Розробник > Інструменти браузера) та зневаджувати додатки в менеджері додатків">
 
 <!-- LOCALIZATION NOTE (options.enableRemote.label3): This is the label for the
   -  checkbox that toggles remote debugging, i.e. devtools.debugger.remote-enabled
