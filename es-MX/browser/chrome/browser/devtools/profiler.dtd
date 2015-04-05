@@ -45,8 +45,8 @@
 
 <!ENTITY profilerUI.toolbar.waterfall "Línea de tiempo">
 <!ENTITY profilerUI.toolbar.js-calltree "JavaScript">
-
-
+<!ENTITY profilerUI.toolbar.memory-calltree1 "Asignaciones">
+<!ENTITY profilerUI.toolbar.js-flamegraph "Gráfico de llamarada JS">
 <!ENTITY profilerUI.toolbar.memory-flamegraph1 "Asignaciones de la cuadrícula">
 <!-- LOCALIZATION NOTE (profilerUI.table.*): These strings are displayed
   -  in the call tree headers for a recording. -->
