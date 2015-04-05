@@ -92,6 +92,7 @@
      Translate "Korean" as an adjective for an encoding, not as the name of the language. -->
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.thai):
      Translate "Thai" as an adjective for an encoding, not as the name of the language. -->
+<!ENTITY languages.customize.Fallback.thai        "تایلندی">
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.turkish):
      Translate "Turkish" as an adjective for an encoding, not as the name of the language. -->
 <!ENTITY languages.customize.Fallback.turkish     "ترکی">
