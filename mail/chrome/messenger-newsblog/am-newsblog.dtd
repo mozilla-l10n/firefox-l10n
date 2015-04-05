@@ -16,8 +16,8 @@
 <!ENTITY manageSubscriptions.accesskey "M">
 
 <!ENTITY feedWindowTitle.label "Feed Account Wizard">
-<!-- entities from rss.rdf -->
 
+<!-- entities from rss.rdf -->
 <!ENTITY feeds.accountName "Blogs &amp; News Feeds">
 <!ENTITY feeds.wizardShortName "Feeds">
 <!ENTITY feeds.wizardLongName "Blogs &amp; News Feeds">

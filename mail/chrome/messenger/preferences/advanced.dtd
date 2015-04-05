@@ -3,21 +3,20 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY itemGeneral.label       "General">
-
 <!ENTITY itemDisplay.label       "Reading &amp; Display">
 <!ENTITY itemUpdate.label        "Update">
 <!ENTITY itemNetworking.label    "Network &amp; Disc Space">
 <!ENTITY itemCertificates.label  "Certificates">
+
 <!-- General Settings -->
 
+<!ENTITY submitTelemetry.label         "Submit Performance Data">
+<!ENTITY submitTelemetry.accesskey     "P">
+<!ENTITY telemetryInfoLink.label       "More information about Telemetry">
 <!ENTITY enableGlodaSearch.label       "Enable Global Search and Indexer">
 <!ENTITY enableGlodaSearch.accesskey   "E">
-
-
-
-
-
-
+<!ENTITY allowHWAccel.label            "Use hardware acceleration when available">
+<!ENTITY allowHWAccel.accesskey        "h">
 
 <!ENTITY scrolling.label               "Scrolling">
 <!ENTITY useAutoScroll.label           "Use autoscrolling">
@@ -29,7 +28,7 @@
 <!ENTITY alwaysCheckDefault.label      "Always check to see if &brandShortName; is the default mail client on startup">
 <!ENTITY alwaysCheckDefault.accesskey  "A">
 <!ENTITY searchIntegration.label       "Allow &searchIntegration.engineName; to search messages">
-<!ENTITY searchIntegration.accesskey   "s">
+<!ENTITY searchIntegration.accesskey   "S">
 <!ENTITY checkDefaultsNow.label        "Check Now…">
 <!ENTITY checkDefaultsNow.accesskey    "N">
 <!ENTITY configEditDesc.label          "Advanced Configuration">
@@ -38,18 +37,8 @@
 <!ENTITY returnReceiptsInfo.label      "Determine how &brandShortName; handles return receipts">
 <!ENTITY showReturnReceipts.label      "Return Receipts…">
 <!ENTITY showReturnReceipts.accesskey  "R">
-<!-- Data Choices -->
-
-
-
-
-
-
-
-
 
 <!-- Display and Reading Settings -->
-
 <!ENTITY reading.caption               "Reading">
 <!ENTITY display.caption               "Display">
 <!ENTITY showCondensedAddresses.label  "Show only display name for people in my address book">
@@ -74,8 +63,8 @@
 <!ENTITY reuseExpRadio1.accesskey      "e">
 <!ENTITY closeMsgOnMoveOrDelete.label  "Close message window/tab on move or delete">
 <!ENTITY closeMsgOnMoveOrDelete.accesskey "C">
-<!-- Update -->
 
+<!-- Update -->
 <!ENTITY updateApp.label                 "&brandShortName; updates:">
 <!ENTITY updateAuto.label                "Automatically install updates (recommended: improved security)">
 <!ENTITY updateAuto.accesskey            "A">
@@ -90,8 +79,8 @@
 
 <!ENTITY useService.label                "Use a background service to install updates">
 <!ENTITY useService.accesskey            "b">
-<!-- Networking and Disk Space -->
 
+<!-- Networking and Disk Space -->
 <!ENTITY showSettings.label            "Settings…">
 <!ENTITY showSettings.accesskey        "S">
 <!ENTITY proxiesConfigure.label        "Configure how &brandShortName; connects to the Internet">
@@ -105,20 +94,20 @@
 <!ENTITY offlineCompactFolders.label     "Compact all folders when it will save over">
 <!ENTITY offlineCompactFolders.accesskey "m">
 <!ENTITY offlineCompactFoldersMB.label   "MB in total">
+
 <!-- LOCALIZATION NOTE:
   The entities useCacheBefore.label and useCacheAfter.label appear on a single
   line in preferences as follows:
 
   &useCacheBefore.label  [ textbox for cache size in MB ]   &useCacheAfter.label;
 -->
-
 <!ENTITY useCacheBefore.label            "Use up to">
 <!ENTITY useCacheBefore.accesskey        "U">
 <!ENTITY useCacheAfter.label             "MB of space for the cache">
 <!ENTITY clearCacheNow.label             "Clear Now">
 <!ENTITY clearCacheNow.accesskey         "C">
-<!-- Certificates -->
 
+<!-- Certificates -->
 <!ENTITY certSelection.description       "When a server requests my personal certificate:">
 <!ENTITY certs.auto                      "Select one automatically">
 <!ENTITY certs.auto.accesskey            "m">

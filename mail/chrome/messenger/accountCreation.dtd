@@ -28,7 +28,7 @@
 <!ENTITY ssl.label                       "SSL">
 <!ENTITY auth.label                      "Authentication">
 <!ENTITY imap.label                      "IMAP">
-<!ENTITY pop3.label                       "POP3">
+<!ENTITY pop3.label                      "POP3">
 <!ENTITY smtp.label                      "SMTP">
 <!ENTITY autodetect.label                "Autodetect">
 <!-- LOCALIZATION NOTE(noEncryption.label): Neither SSL/TLS nor STARTTLS.

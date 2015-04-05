@@ -4,7 +4,6 @@
 
 <!ENTITY addressbookWindow.title                        "Address Book">
 
-
 <!-- File Menu -->
 <!ENTITY fileMenu.label                                 "File">
 <!ENTITY fileMenu.accesskey                             "F">
@@ -39,8 +38,8 @@
 <!ENTITY printContactCmd.key                            "P">
 <!ENTITY printAddressBook.label                         "Print Address Book…">
 <!ENTITY printAddressBook.accesskey                     "A">
-<!-- Edit Menu -->
 
+<!-- Edit Menu -->
 <!ENTITY editMenu.label                                 "Edit">
 <!ENTITY editMenu.accesskey                             "E">
 <!ENTITY undoCmd.label                                  "Undo">
@@ -78,8 +77,8 @@
 <!ENTITY propertiesCmd2.label                           "Properties…">
 <!ENTITY propertiesCmd2.accesskey                       "i">
 <!ENTITY propertiesCmd.key                              "i">
-<!-- View Menu -->
 
+<!-- View Menu -->
 <!ENTITY viewMenu.label                                 "View">
 <!ENTITY viewMenu.accesskey                             "V">
 <!ENTITY viewToolbarsMenu.label                         "Toolbars">
@@ -110,8 +109,8 @@ because displayed names don't have the comma in between. -->
 <!ENTITY displayNameCmd.accesskey                       "D">
 <!ENTITY sortMenu.label                                 "Sort by">
 <!ENTITY sortMenu.accesskey                             "S">
-<!-- Tools Menu -->
 
+<!-- Tools Menu -->
 <!ENTITY tasksMenu.label                                "Tools">
 <!ENTITY tasksMenu.accesskey                            "T">
 <!ENTITY messengerCmd.label                             "Mail &amp; Newsgroups">
@@ -127,8 +126,8 @@ because displayed names don't have the comma in between. -->
 <!ENTITY preferencesCmd2.accesskey                      "O">
 <!ENTITY preferencesCmdUnix.label                       "Preferences">
 <!ENTITY preferencesCmdUnix.accesskey                   "n">
-<!-- Address Book Toolbar and Context Menus -->  
 
+<!-- Address Book Toolbar and Context Menus -->  
 <!ENTITY newContactButton.label                         "New Contact">
 <!ENTITY newContactButton.accesskey                     "C">
 <!ENTITY newlistButton.label                            "New List">
@@ -141,26 +140,26 @@ because displayed names don't have the comma in between. -->
 <!ENTITY newIM.accesskey                                "I">
 <!ENTITY deleteButton2.label                            "Delete">
 <!ENTITY deleteButton2.accesskey                        "D">
-<!-- Address Book Toolbar Tooltips -->
 
+<!-- Address Book Toolbar Tooltips -->
 <!ENTITY newContactButton.tooltip                       "Create a new address book contact">
 <!ENTITY newlistButton.tooltip                          "Create a new list">
 <!ENTITY editButton2.tooltip                            "Edit the selected item">
 <!ENTITY newmsgButton.tooltip                           "Send a mail message">
 <!ENTITY newIM.tooltip                                  "Send an instant message or chat">
-<!ENTITY deleteButton2.tooltip                           "Delete selected item">
+<!ENTITY deleteButton2.tooltip                          "Delete selected item">
+
 <!-- Dir Tree header -->
-
 <!ENTITY dirTreeHeader.label                            "Address Books">
-<!-- Search Bar -->
 
+<!-- Search Bar -->
 <!ENTITY SearchNameOrEmail.label                        "Name or Email">
 <!ENTITY SearchNameOrEmail.accesskey                    "N">
 <!ENTITY advancedButton.tooltip                         "Advanced address search">
 <!ENTITY quickSearchCmd.key                             "k">
 <!ENTITY searchItem.title "Quick Search">
-<!-- Results Pane -->
 
+<!-- Results Pane -->
 <!ENTITY GeneratedName.label                            "Name">
 <!ENTITY GeneratedName.accesskey                        "N">
 <!ENTITY PrimaryEmail.label                             "Email">
@@ -193,9 +192,9 @@ because displayed names don't have the comma in between. -->
 <!ENTITY sortDescending.accesskey                       "D">
 <!ENTITY _PhoneticName.label                            "Phonetic Name">
 <!ENTITY _PhoneticName.accesskey                        "o">
+
 <!-- Card Summary Pane -->
 <!-- Box Headings -->
-
 <!ENTITY contact.heading                                "Contact">
 <!ENTITY home.heading                                   "Home">
 <!ENTITY other.heading                                  "Other">
@@ -208,11 +207,11 @@ because displayed names don't have the comma in between. -->
 <!-- For Map It! -->
 <!ENTITY mapItButton.label                              "Get Map">
 <!ENTITY mapIt.tooltip                                  "Display a map of this address from the Web">
+
 <!-- Status Bar -->
-
 <!ENTITY statusText.label "">
-<!--  Mac OS X Window Menu -->
 
+<!--  Mac OS X Window Menu -->
 <!ENTITY windowMenu.label "Window">
 <!ENTITY minimizeWindow.label "Minimise">
 <!ENTITY minimizeWindow.key "m">

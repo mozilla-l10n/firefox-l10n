@@ -8,7 +8,7 @@
 <!ENTITY Legend.accesskey "L">
 
 <!ENTITY EditLegendText.label "Edit Legend:">
-<!ENTITY EditLegendText.accesskey "t">
+<!ENTITY EditLegendText.accesskey "T">
 <!ENTITY LegendAlign.label "Align Legend:">
 <!ENTITY LegendAlign.accesskey "A">
 <!ENTITY AlignDefault.label "Default">
