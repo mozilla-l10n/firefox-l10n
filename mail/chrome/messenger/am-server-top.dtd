@@ -86,5 +86,5 @@
 <!ENTITY accountSettingsDesc.label "Sljedeći račun je poseban.  Nijedan identitet nije povezan s njime.">
 <!ENTITY storeType.label "Tip pohrane poruka:">
 <!ENTITY storeType.accesskey "T">
-
+<!ENTITY mboxStore2.label "Datoteka po mapi (mbox)">
 <!ENTITY maildirStore.label "Datoteka po poruci (maildir)">
