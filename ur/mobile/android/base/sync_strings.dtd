@@ -21,11 +21,11 @@
 <!ENTITY sync.pin.default.label "...\n...\n...\n">
 <!ENTITY sync.pin.oneline.label "...">
 <!ENTITY sync.link.show.label "مجھے دکھائیں کیسے۔">
-<!ENTITY sync.link.advancedsetup.label "مخصوص سیٹنگیں">
+<!ENTITY sync.link.advancedsetup.label "اعلٰی سیٹ اپ…">
 <!ENTITY sync.link.nodevice.label "میرے پاس اس وقت آلہ نہیں ہے…">
 <!-- J-PAKE Waiting Screen -->
 
-<!ENTITY sync.jpake.subtitle.waiting.label "دوسرے آلے کا انتظار کر رہا ہے">
+<!ENTITY sync.jpake.subtitle.waiting.label "دوسرے آلے کا انتظار کر رہا ہے…">
 <!-- Account Login Screen -->
 
 <!ENTITY sync.subtitle.account.label "اپنی &syncBrand.fullName.label; اکاؤنٹ معلومات داخل کریں">
@@ -100,7 +100,7 @@
 
 <!ENTITY sync.invalidcreds.label "غیر صحیح اکاؤنٹ نام یا پاس ورڈ۔">
 <!ENTITY sync.invalidserver.label "جائز بتدریج یو ار ایل داخل کریں">
-<!ENTITY sync.verifying.label "توثیق کر رہا ہے...">
+<!ENTITY sync.verifying.label "توثیق کر رہا ہے…">
 <!ENTITY sync.new.recoverykey.status.incorrect "بازیافت کلید غیر صحیح۔ پھر کوشش کریں۔">
 <!-- Send tab to device. -->
 
@@ -161,7 +161,7 @@
 <!ENTITY fxaccount_create_account_1990_or_earlier "1990 یا اس سے پہلے">
 <!ENTITY fxaccount_create_account_unknown_error "اکاؤنٹ نہیں بن سکا">
 
-<!ENTITY fxaccount_account_create_not_allowed "اکاؤنٹ نہیں بنا سکتا ">
+<!ENTITY fxaccount_account_create_not_allowed "اکاؤنٹ نہیں بنا سکتا">
 <!ENTITY fxaccount_account_create_not_allowed_you_must_meet_certain_age_requirements "اکاؤنٹ بنانے کے لیے آپ کو کچھ عمر کی خصوصیات پوری کرنی پڑیں گی۔">
 <!ENTITY fxaccount_account_create_not_allowed_learn_more "اور سیکھیں">
 
@@ -254,7 +254,7 @@
 <!ENTITY fxaccount_remote_error_INCORRECT_PASSWORD "غلط ای میل یا پاس ورڈ">
 <!ENTITY fxaccount_remote_error_ATTEMPT_TO_OPERATE_ON_AN_UNVERIFIED_ACCOUNT "اکاؤنٹ توثیق شدہ نہیں">
 <!ENTITY fxaccount_remote_error_CLIENT_HAS_SENT_TOO_MANY_REQUESTS "پیش کار مصروف، کچھ دیر میں پھر کوشش کریں">
-<!ENTITY fxaccount_remote_error_SERVICE_TEMPORARILY_UNAVAILABLE_TO_DUE_HIGH_LOAD "پیش کار مصروف، کچھ دیر میں پھر کوشش کریں ">
+<!ENTITY fxaccount_remote_error_SERVICE_TEMPORARILY_UNAVAILABLE_TO_DUE_HIGH_LOAD "پیش کار مصروف، کچھ دیر میں پھر کوشش کریں">
 <!ENTITY fxaccount_remote_error_UNKNOWN_ERROR "ایک مسئلہ تھا">
 <!ENTITY fxaccount_remote_error_COULD_NOT_CONNECT "نیٹ ورک سے رابطہ قائم نہیں ہو رہا">
 <!ENTITY fxaccount_remote_error_ACCOUNT_LOCKED "اکاؤنٹ مقفل ہے۔ &formatS1;">

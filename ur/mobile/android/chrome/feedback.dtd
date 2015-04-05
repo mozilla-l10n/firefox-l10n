@@ -10,6 +10,6 @@
 <!ENTITY feedback.feedback.bad          "برا">
 
 <!ENTITY feedback.tools.title           "ٹول">
-<!ENTITY feedback.allowTelemetry.title  "پرفارمنس کوائف بھیجیں ">
+<!ENTITY feedback.allowTelemetry.title  "پرفارمنس کوائف بھیجیں">
 <!ENTITY feedback.forceCompat.title     "ایڈ اون موازنت لازمی کریں">
 <!ENTITY feedback.errorConsole.title    "نقص کنسول اہل بنائیں">

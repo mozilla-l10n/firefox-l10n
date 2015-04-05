@@ -151,9 +151,9 @@
 <!ENTITY corruptedContentError.title "خراب مواد نقص">
 <!ENTITY corruptedContentError.longDesc "<p>جو صفح آپ دیکھنے کی کوشش کر رہے ہیں وہ دکھایا نہیں جاسکتا کیونکہ قوائف کی منتقلی میں نقص پکڑا گیا۔</p><ul><li>برائے مہربانی ویب سائٹ کے مالکان سے رابطہ کریں انہیں اس مسئلے سے آگاہ کرنے کے لیے ۔</li></ul>">
 
-<!ENTITY securityOverride.linkText "یا آپ ایک اکسپشن ڈال سکتے ہیں ...">
+<!ENTITY securityOverride.linkText "یا آپ ایک استثنا کا اضافہ کر سکتے ہیں…">
 <!ENTITY securityOverride.getMeOutOfHereButton "مجھے یہاں سے نکالیں!">
-<!ENTITY securityOverride.exceptionButtonLabel "اکسیپشن اضافہ کریں">
+<!ENTITY securityOverride.exceptionButtonLabel "استثنا اضافہ کریں…">
 <!-- LOCALIZATION NOTE (securityOverride.warningContent) - Do not translate the
 contents of the <xul:button> tags.  The only language content is the label= field,
 which uses strings already defined above. The button is included here (instead of

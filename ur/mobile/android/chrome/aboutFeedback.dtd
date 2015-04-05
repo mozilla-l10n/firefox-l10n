@@ -19,7 +19,7 @@
 
 <!ENTITY support.pre3              "ملاحظہ کریں ہماری ">
 <!ENTITY support.link2             "معاونت سائٹ">
-<!ENTITY support.post3             " عام مسائل کے حل کے لیے">
+<!ENTITY support.post3             " عام مسائل کے حل کے لیے۔">
 
 <!ENTITY happy.header              "بہت اعلیٰ!">
 <!-- LOCALIZATION NOTE (happy.message): "share the love" — This feels purposely exaggerated in English,
@@ -51,7 +51,7 @@
      on Firefox if they don't resolve the user's problem, like "or if they don't fix it, we'll fire them." If this doesn't
      work in your language, you can change it to something like "no matter what" or just remove it entirely. -->
 
-<!ENTITY sad.thanksMessageBottom   "ورنہ-">
+<!ENTITY sad.thanksMessageBottom   "ورنہ۔">
 
 <!ENTITY feedback.privacy2         "اپنی رازداری کے لیے، اپنی رائے میں کوئی ذاتی معلومات شامل نا کریں۔">
 <!ENTITY feedback.send             "رائے بھیجیں">

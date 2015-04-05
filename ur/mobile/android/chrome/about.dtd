@@ -1,7 +1,7 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-<!ENTITY aboutPage.title                        "&brandShortName;  کے متعلق">
+<!ENTITY aboutPage.title                        "&brandShortName; کے متعلق">
 <!ENTITY aboutPage.warningVersion               "&brandShortName; تجرباتی ہے اور غیر مستحکم ہو سکتا ہے۔">
 <!ENTITY aboutPage.telemetryStart               " سرانجام دہی، ہارڈ wویئر، استعمال اور تخصیص کاری کے بارے میں خود بخود معلومات بھیجتا ہے بنام ">
 <!ENTITY aboutPage.telemetryMozillaLink         "&vendorShortName;">
@@ -15,7 +15,7 @@
 <!ENTITY aboutPage.faq.label                    "عمومی سوالات">
 <!ENTITY aboutPage.support.label                "معاونت">
 <!ENTITY aboutPage.privacyPolicy.label          "پالیسی نجی نوعیت">
-<!ENTITY aboutPage.rights.label                 "اپنے  حقوق جانیں">
+<!ENTITY aboutPage.rights.label                 "اپنے حقوق جانیں">
 <!ENTITY aboutPage.relNotes.label               "اجرائی نوٹ">
 <!ENTITY aboutPage.credits.label                "معنونات">
 <!ENTITY aboutPage.license.label                "لائسنس معلومات">

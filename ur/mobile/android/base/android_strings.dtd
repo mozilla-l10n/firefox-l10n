@@ -151,7 +151,7 @@
 <!ENTITY pref_search_hint "ٹوٹکا: کسی بھی ویب سائٹ کو اپنے تلاش مہیا کنندہ کے فہرست میں ڈالنے کے لیے اس کی تلاش قطعہ پر لمبا دبائیں اور پھر &formatI; آئکن پر کلک کریں۔">
 <!ENTITY pref_category_devtools "ڈیولپر ٹول">
 <!ENTITY pref_category_devtools_summary "بعید ٹھیک کر رہا ہے، پینٹ چمک کاری">
-<!ENTITY pref_developer_paint_flashing "پینٹ چمک کاری ">
+<!ENTITY pref_developer_paint_flashing "پینٹ چمک کاری">
 <!ENTITY pref_developer_remotedebugging "بعید ٹھیک کاری">
 <!ENTITY pref_category_logins "لاگ ان">
 <!ENTITY pref_remember_signons "پاس ورڈ یاد رکھیں">
@@ -211,7 +211,7 @@
 
 <!ENTITY pref_char_encoding "کریکٹر ضابطہ بندی">
 <!ENTITY pref_char_encoding_on "مینیو دکھائیں">
-<!ENTITY pref_char_encoding_off "  مینیو مت دکھائیں">
+<!ENTITY pref_char_encoding_off "مینیو مت دکھائیں">
 <!ENTITY pref_clear_private_data2 "ابھی خالی کریں">
 <!ENTITY pref_clear_private_data_category "نجی کوائف خالی کریں">
 <!ENTITY pref_clear_on_exit_title2 "خروج پر خالی کریں">
@@ -241,7 +241,7 @@ size. -->
 <!-- Localization note (pref_font_size_preview_text): This paragraph is used as an example to
     demonstrate the font size setting.  It is meant to be whimsical and fun. -->
 
-<!ENTITY pref_font_size_preview_text "تیز رفتار نارنجی لومڑی زیادہ رفتار، زیادہ لچک، اور زیادہ سلامتی کے ساتھ آپ کی توقعات سے اوپر چھلانگ لگا دیتی ہے۔ ایک غیر منافع بخش کے طور پر، ہم بنا کسی اشتباہ کے آپ کے لیے اختراع کے لیے آزاد ہیں۔ جس کا مطلب آپ کے لیے ایک بہتر تجربہ اور ویب کے لیے زیادہ روشن مستقبل ہے۔ ">
+<!ENTITY pref_font_size_preview_text "تیز رفتار نارنجی لومڑی زیادہ رفتار، زیادہ لچک، اور زیادہ سلامتی کے ساتھ آپ کی توقعات سے اوپر چھلانگ لگا دیتی ہے۔ ایک غیر منافع بخش کے طور پر، ہم بنا کسی اشتباہ کے آپ کے لیے اختراع کے لیے آزاد ہیں۔ جس کا مطلب آپ کے لیے ایک بہتر تجربہ اور ویب کے لیے زیادہ روشن مستقبل ہے۔">
 
 <!ENTITY pref_media_autoplay_enabled "خودکار چلنے کی اجازت دیں">
 <!ENTITY pref_media_autoplay_enabled_summary "قابو کریں اگر ویب سائٹیں خود وڈیو اور دیگر میڈیا مواد چلاسکتی ہیں">
@@ -272,7 +272,7 @@ size. -->
 <!ENTITY pref_dialog_default "طے شدہ">
 <!ENTITY pref_dialog_remove "ہٹائیں">
 
-<!ENTITY pref_search_last_toast "آپ اپنا آخری تلاش انجن ہٹا یا نااہل نہیں کر سکتے۔ ">
+<!ENTITY pref_search_last_toast "آپ اپنا آخری تلاش انجن ہٹا یا نااہل نہیں کر سکتے۔">
 
 <!ENTITY pref_panels_show "دکھائیں">
 <!ENTITY pref_panels_hide "چھپائیں">
@@ -323,7 +323,7 @@ size. -->
 <!ENTITY apps "ایپس">
 <!ENTITY char_encoding "کریکٹر ضابطہ بندی">
 
-<!ENTITY share "شیئر کریں ">
+<!ENTITY share "شیئر کریں">
 <!ENTITY share_title "شیئر کریں بذریعہ">
 <!ENTITY share_image_failed "یہ نقش شیئر کرنے میں ناکام">
 <!ENTITY save_as_pdf "بطور PDF محفوظ کریں">
@@ -430,7 +430,7 @@ size. -->
 <!ENTITY masterpassword_create_title "ماسٹر پاس ورڈ بنائیں">
 <!ENTITY masterpassword_remove_title "ماسٹر پاس ورڈ ہٹائیں">
 <!ENTITY masterpassword_password "پاس ورڈ">
-<!ENTITY masterpassword_confirm "پاس ورڈ &amp;تصدیق کریں">
+<!ENTITY masterpassword_confirm "پاس ورڈ تصدیق کریں">
 
 <!ENTITY button_ok "ٹھیک ہے">
 <!ENTITY button_cancel "منسوخ کریں">
@@ -502,7 +502,7 @@ size. -->
 <!ENTITY home_remote_tabs_unhide_selected_devices "منتخب آلات چھپانا ختم کریں">
 
 <!ENTITY private_browsing_title "نجی براوزنگ">
-<!ENTITY private_tabs_panel_empty_desc "آپ کی نجی ٹیبیں ادھر دکھائی دیں گی۔ حالانکہ ہم آپ کے کوئی بھی براؤزنگ سابقات اور کوکیاں نہیں رکھتے، نشانیاں اور مسلیں جو آپ ڈاؤن لوڈ کرتے ہیں وہ پھر بھی آپ کے آلہ پر محفوظ ہوںگی،">
+<!ENTITY private_tabs_panel_empty_desc "آپ کی نجی ٹیبیں ادھر دکھائی دیں گی۔ حالانکہ ہم آپ کے کوئی بھی براؤزنگ سابقات اور کوکیاں نہیں رکھتے، نشانیاں اور مسلیں جو آپ ڈاؤن لوڈ کرتے ہیں وہ پھر بھی آپ کے آلہ پر محفوظ ہوںگی۔">
 <!ENTITY private_tabs_panel_learn_more "مزید سیکھیں گے؟">
 
 <!ENTITY remote_tabs_panel_moved_title "میرے ٹیب کہاں گئے؟">
@@ -513,8 +513,8 @@ size. -->
 
 <!ENTITY filepicker_title "مسل منتخب کریں">
 <!ENTITY filepicker_audio_title "آواز چنیں یا ریکارڈ کریں">
-<!ENTITY filepicker_image_title "تصویر چنیں یا ریکارڈ کریں ">
-<!ENTITY filepicker_video_title "وڈیو چنیں یا ریکارڈ کریں ">
+<!ENTITY filepicker_image_title "تصویر چنیں یا ریکارڈ کریں">
+<!ENTITY filepicker_video_title "وڈیو چنیں یا ریکارڈ کریں">
 <!-- Site identity popup -->
 
 <!ENTITY identity_connected_to "آپ جڑیں ہوئے ہیں بر">
@@ -541,7 +541,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY loaded_tracking_content_message_top "سراغ کاری حفاظت نا اہل بنائیں۔">
 <!ENTITY loaded_tracking_content_message_bottom "اس صفحے کے کچھ حصے آپ کی آن لائن سرگرمیوں کا سراغ لگا سکتے ہیں۔">
-<!ENTITY blocked_tracking_content_message_top2 "سراغ کاری حفاظت اہل">
+<!ENTITY blocked_tracking_content_message_top2 "سراغ کاری حفاظت اہل۔">
 <!ENTITY blocked_tracking_content_message_bottom2 "صفحہ کے کچھ حصے جو آپ کی آن لائن سرگرمیوں کا سراغ لگاتے ہیں انہیں بلاک کردیا گیا ہے۔">
 <!-- Common mixed and tracking content strings in site identity popup -->
 
@@ -557,9 +557,9 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY bookmarkhistory_import_both "اینڈروائڈ سے نشانیاں اور سابقات  
  درآمد کر رہا ہے">
 <!ENTITY bookmarkhistory_import_bookmarks "اینڈروائڈ سے نشانیاں 
-درآمد کر رہا ہے ">
+درآمد کر رہا ہے">
 <!ENTITY bookmarkhistory_import_history "اینڈروائڈ سے سابقات 
-درآمد کر رہا ہے ">
+درآمد کر رہا ہے">
 <!ENTITY bookmarkhistory_import_wait "انتظار کریں...">
 
 <!ENTITY suggestions_prompt3 "کیا آپ تلاش تجاویز آن کرنا چاہیں گے؟">
@@ -598,7 +598,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY guest_session_dialog_continue "جاری رکھیں">
 <!ENTITY guest_session_dialog_cancel "منسوخ کریں">
 <!ENTITY new_guest_session_title "&brandShortName; اب پھر شروع ہو گا">
-<!ENTITY new_guest_session_text "جو اسے استعمال کر رہا ہو گا وہ آپ کے کوئی ذاتی براؤزنگ کوائف (جیسے کہ محفوظ پاس ورڈ، سابقات یا نشانیاں) نہیں دیکھ سکے گا۔ \n\n آپ کے مہمان کے فارغ ہو نے پر، ان کے براؤزنگ کوائف حذف کر دیئے جائیں گے اور آپ کی سیشن بحال ہو جائے گی۔ ">
+<!ENTITY new_guest_session_text "جو اسے استعمال کر رہا ہو گا وہ آپ کے کوئی ذاتی براؤزنگ کوائف (جیسے کہ محفوظ پاس ورڈ، سابقات یا نشانیاں) نہیں دیکھ سکے گا۔ \n\n آپ کے مہمان کے فارغ ہو نے پر، ان کے براؤزنگ کوائف حذف کر دیئے جائیں گے اور آپ کی سیشن بحال ہو جائے گی۔">
 <!ENTITY guest_browsing_notification_title "مہمان براؤزنگ اہل ہے">
 <!ENTITY guest_browsing_notification_text "خروج کے لیے کلک کریں">
 
