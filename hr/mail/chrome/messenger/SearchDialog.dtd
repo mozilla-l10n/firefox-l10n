@@ -40,7 +40,7 @@
 <!ENTITY threadColumn.label "Tema">
 <!ENTITY fromColumn.label "Šalje">
 <!ENTITY recipientColumn.label "Primatelj">
-
+<!ENTITY correspondentColumn.label "Dopisnici">
 <!ENTITY subjectColumn.label "Naslov">
 <!ENTITY dateColumn.label "Datum">
 <!ENTITY priorityColumn.label "Prioritet">
@@ -62,7 +62,7 @@
 <!ENTITY threadColumn2.tooltip "Prikaži teme poruka">
 <!ENTITY fromColumn2.tooltip "Sortiraj prema pošiljatelju">
 <!ENTITY recipientColumn2.tooltip "Sortiraj prema primatelju">
-
+<!ENTITY correspondentColumn2.tooltip "Sortiraj prema dopisnicima">
 <!ENTITY subjectColumn2.tooltip "Sortiraj prema naslovu">
 <!ENTITY dateColumn2.tooltip "Sortiraj prema datumu">
 <!ENTITY priorityColumn2.tooltip "Sortiraj prema prioritetu">

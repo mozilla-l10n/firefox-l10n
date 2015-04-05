@@ -5,10 +5,10 @@
 <!ENTITY folderProps.windowtitle.label           "Postavke">
 
 <!ENTITY generalInfo.label                       "Opće informacije">
-
-
-
-
+<!ENTITY folderCharsetFallback2.label            "Rezervna kôdna stranica:">
+<!ENTITY folderCharsetFallback2.accesskey        "e">
+<!ENTITY folderCharsetEnforce2.label             "Primjeni kôdnu stranicu na sve poruke u mapi (postavke kôdne stranice pojedinih poruka i automatsko otkrivanje će biti zanemareno)">
+<!ENTITY folderCharsetEnforce2.accesskey         "a">
 <!ENTITY folderRebuildSummaryFileTip2.label      "Ponovno izgradi skupnu indeks datoteku">
 <!ENTITY folderRebuildSummaryFile2.label         "Popravi mapu">
 <!ENTITY folderRebuildSummaryFile2.accesskey     "r">
