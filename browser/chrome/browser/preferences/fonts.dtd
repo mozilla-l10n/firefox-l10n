@@ -29,12 +29,12 @@
 <!ENTITY  font.langGroup.simpl-chinese            "چینی ساده‌شده">
 <!ENTITY  font.langGroup.trad-chinese-hk          "چینی سنتی (هنگ‌کنگ)‏">
 <!ENTITY  font.langGroup.korean                   "کره‌ای">
-
-
-
-
-
-
+<!ENTITY  font.langGroup.cyrillic                 "سیریلیک">
+<!ENTITY  font.langGroup.el                       "یونانی">
+<!ENTITY  font.langGroup.other                    "سیستم‌های نوشتاری دیگر">
+<!ENTITY  font.langGroup.thai                     "تایلندی">
+<!ENTITY  font.langGroup.hebrew                   "عبری">
+<!ENTITY  font.langGroup.arabic                   "عربی">
 <!ENTITY  font.langGroup.devanagari               "دواناگری">
 <!ENTITY  font.langGroup.tamil                    "تامیلی">
 <!ENTITY  font.langGroup.armenian                 "ارمنی">
@@ -80,16 +80,20 @@
 <!ENTITY languages.customize.Fallback.simplified  "چینی، ساده‌شده">
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.traditional):
      Translate "Chinese" as an adjective for an encoding, not as the name of the language. -->
-<!ENTITY languages.customize.Fallback.traditional "چینی, قدیمی">
-
+<!ENTITY languages.customize.Fallback.traditional "چینی، سنتی">
+<!ENTITY languages.customize.Fallback.cyrillic    "سیریلیک">
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.greek):
      Translate "Greek" as an adjective for an encoding, not as the name of the language. -->
+<!ENTITY languages.customize.Fallback.greek       "یونانی">
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.hebrew):
      Translate "Hebrew" as an adjective for an encoding, not as the name of the language. -->
+<!ENTITY languages.customize.Fallback.hebrew      "عبری">
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.japanese):
      Translate "Japanese" as an adjective for an encoding, not as the name of the language. -->
+<!ENTITY languages.customize.Fallback.japanese    "ژاپنی">
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.korean):
      Translate "Korean" as an adjective for an encoding, not as the name of the language. -->
+<!ENTITY languages.customize.Fallback.korean      "کره‌ای">
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.thai):
      Translate "Thai" as an adjective for an encoding, not as the name of the language. -->
 <!ENTITY languages.customize.Fallback.thai        "تایلندی">
