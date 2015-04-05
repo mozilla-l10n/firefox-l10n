@@ -15,7 +15,9 @@
 <!ENTITY aboutPage.support.label                "معاونت">
 <!ENTITY aboutPage.privacyPolicy.label          "پالیسی نجی نوعیت">
 <!ENTITY aboutPage.rights.label                 "اپنے  حقوق جانیں">
-
-
-
+<!ENTITY aboutPage.relNotes.label               "اجرائی نوٹ">
+<!ENTITY aboutPage.credits.label                "معنونات">
+<!ENTITY aboutPage.license.label                "لائسنس معلومات">
 <!-- LOCALIZATION NOTE (aboutPage.logoTrademark): The message is explicitly about the word "Firefox" being trademarked, that's why we use it, instead of brandShortName. -->
+
+<!ENTITY aboutPage.logoTrademark                "فائر فاکس اور فائر فاکس کی لوگو موزیلا فاونڈینشن کے تجارتی نشان ہیں۔">

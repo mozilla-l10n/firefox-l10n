@@ -582,7 +582,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY updater_start_select2 "ڈاؤن لوڈ کرنے کے لیے چھوئیں">
 
 <!ENTITY updater_downloading_title2 "&brandShortName; ڈاؤن لوڈ کر رہا ہے">
-<!ENTITY updater_downloading_title_failed2 "ڈاؤن لوڈ کریں ناکام">
+<!ENTITY updater_downloading_title_failed2 "ڈاؤن لوڈ ناکام">
 <!ENTITY updater_downloading_select2 "ڈاؤن لوڈ کے بعد تازہ کاری لگانے کے لیے چھوئیں">
 <!ENTITY updater_downloading_retry2 "پھر کوشش کرنے کے لیے چھوئیں">
 

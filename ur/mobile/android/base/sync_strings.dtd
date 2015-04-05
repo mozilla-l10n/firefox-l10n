@@ -141,7 +141,7 @@
 <!ENTITY fxaccount_getting_started_welcome_to_sync "&syncBrand.shortName.label; میں خوش آمدید">
 
 
-
+<!ENTITY fxaccount_getting_started_old_firefox "&syncBrand.shortName.label; کا ایک پرانا ورژن استعمال کر رہے ہیں؟">
 <!-- Localization note: the Firefox below should not change with the
      particular version of Firefox installed (Release, Beta, Aurora,
      etc).  The account remains a "Firefox Account". -->
@@ -164,9 +164,10 @@
 
 <!ENTITY fxaccount_confirm_account_header "اپنے اکاؤنٹ کی تصدیق کریں">
 <!-- Localization note: &formatS; is the Firefox Account's email address. -->
-
-
-
+<!ENTITY fxaccount_confirm_account_verification_link "ایک توثیق ربط &formatS; کو مرسلہ بنام کردیا گیا ہے">
+<!ENTITY fxaccount_confirm_account_resend_email "ای میل پھر سے بھیجیں">
+<!ENTITY fxaccount_confirm_account_change_email "یہ ای میل پتہ بھلادیں؟">
+<!ENTITY fxaccount_confirm_account_verification_link_sent2 "توثیق ای میل مرسلہ">
 <!ENTITY fxaccount_confirm_account_verification_link_not_sent2 "توثیق ای میل نہیں بھیج سکا">
 <!ENTITY fxaccount_resend_unlock_code_button_label "تالا کھولنے والی ای میل پھر بھیجیں">
 <!ENTITY fxaccount_unlock_code_sent "اکاؤنٹ کھولنے والی ای میل بھیج دی گئی">
@@ -193,18 +194,18 @@
 
 <!ENTITY fxaccount_status_header2 "فائر فاکس اکاؤنٹ">
 <!ENTITY fxaccount_status_signed_in_as "سائن ان بطور">
+<!ENTITY fxaccount_status_auth_server "اکاؤنٹ پیش کار">
+<!ENTITY fxaccount_status_sync_now "ابھی ہمہ وار کریں">
+<!ENTITY fxaccount_status_syncing2 "ہمو وار کر رہا ہے…">
 
-
-
-
-
+<!ENTITY fxaccount_status_sync_server "ہمہ وار پیش کار">
 <!ENTITY fxaccount_status_sync "&syncBrand.shortName.label;">
 <!ENTITY fxaccount_status_sync_enabled "&syncBrand.shortName.label;: اہل">
 <!ENTITY fxaccount_status_needs_verification2 "آپ کے اکاؤنٹ کو توثیق کی ضرورت ہے۔ توثیق ای میل پھر بھیجنے کے لیے کلک کریں۔">
 <!ENTITY fxaccount_status_needs_credentials "جر نہیں سکتا۔ سائن ان کرنے کے لیے کلک کریں۔">
 <!ENTITY fxaccount_status_needs_upgrade "سائن ان کرنے کے لیے آپ کو &brandShortName; کا درجہ افزوں کرنا ہو گا۔">
-
-
+<!ENTITY fxaccount_status_needs_master_sync_automatically_enabled "&syncBrand.shortName.label; سیٹ کردیا گیا ہے، لیکن خود بخود ہمہ وار نہیں کر رہا ہے۔ “خود-ہمہ وار کوائف” کو انڈروایڈ &gt; کوائف استعمال کی سیٹنگیں میں ٹوگل کریں۔">
+<!ENTITY fxaccount_status_needs_master_sync_automatically_enabled_v21 "&syncBrand.shortName.label; سیٹ کردیا گیا ہے، لیکن خود بخود ہمہ وار نہیں کر رہا ہے۔ “خود-ہمہ وار کوائف” کو مینیو کے انڈروایڈ &gt; اکاؤنٹس کی سیٹنگیں میں ٹوگل کریں۔">
 <!ENTITY fxaccount_status_needs_finish_migrating "اپنے نئے فائر فاکس اکاؤنٹ میں سائن ان کرنے کے لیے کلک کریں۔">
 <!ENTITY fxaccount_status_bookmarks "نشانیاں">
 <!ENTITY fxaccount_status_history "سابقات">

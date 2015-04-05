@@ -6,13 +6,19 @@
      your language and/or locale. More detailed notes below. -->
 
 
+<!ENTITY pageTitle                 "&brandShortName; رائے">
 
-
-
+<!ENTITY intro.header              "ایک منٹ ہو گا؟">
+<!ENTITY intro.message             "ہمیں بتائیں کہ اب تک آپ اینڈروائڈ کے لیے &brandShortName; کے بارے میں کیا سوچتے ہیں۔">
+<!ENTITY intro.happyLink           "مجھے یہ بہت بسند ہے">
+<!ENTITY intro.sadLink             "مجھے کچھ مسائل پیش آئے">
+<!ENTITY intro.maybeLater          "شائد بعد میں">
 <!-- LOCALIZATION NOTE (support.pre): Include a trailing space as needed. -->
 <!-- LOCALIZATION NOTE (support.link): Avoid leading/trailing spaces, this text is a link. -->
 <!-- LOCALIZATION NOTE (support.post): Include a starting space as needed. -->
 
+<!ENTITY support.pre3              "ملاحظہ کریں ہماری ">
+<!ENTITY support.link2             "معاونت سائٹ">
 <!ENTITY support.post3             " عام مسائل کے حل کے لیے">
 
 <!ENTITY happy.header              "بہت اعلیٰ!">
@@ -30,7 +36,7 @@
 <!ENTITY happy.noThanks            "نہیں شکریہ">
 
 <!ENTITY sad.header                "نہیں!">
-
+<!ENTITY sad.message               "ہم معزرت خواہ ہیں کہ آپ کو &brandShortName; کے ساتھ مسائل درپیش آئے۔ ہمیں بتائیں کہ کیا ہوا تاکہ ہم اس کو ٹھیک کر سکیں۔">
 <!ENTITY sad.placeholder           "اپنی رائے یہاں دیں">
 
 <!-- LOCALIZATION NOTE (sad.urlPlaceholder): Placeholder text that appears in "Last visited site" input box when there is no text. -->

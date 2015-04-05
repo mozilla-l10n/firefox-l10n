@@ -16,13 +16,13 @@
 
 <!ENTITY sync.account               "اکاؤنٹ نام">
 <!ENTITY sync.password              "پاس ورڈ">
-
-
+<!ENTITY sync.recoveryKey           "میری بازیافت کلید">
+<!ENTITY sync.customServer          "مخصوص پیش کار استعمال کریں">
 <!ENTITY sync.serverURL             "پیش کار URL">
-
+<!ENTITY sync.setup.connect         "جڑیں">
 <!ENTITY sync.setup.cancel          "منسوخ کریں">
-
-<!ENTITY sync.setup.waiting2        "دوسرے آلے کا انتظار کر رہا ہے">
+<!ENTITY sync.setup.tutorial        "مجھے دکھائیں کیسے">
+<!ENTITY sync.setup.waiting2        "دوسر آلے کا انتظار کر رہا ہے…">
 
 <!ENTITY sync.pair.title            "آلے کا جوڑا بنائیں">
 
