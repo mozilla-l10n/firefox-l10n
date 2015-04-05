@@ -58,7 +58,7 @@
 <!ENTITY  event.menu.item.new.task.accesskey              "T">
 <!ENTITY  event.menu.item.new.message.label               "Kemennadenn">
 <!ENTITY  event.menu.item.new.message.accesskey           "K">
-<!ENTITY  event.menu.item.new.contact.label               "Karned chomlec'hioù Darempredoù">
+<!ENTITY  event.menu.item.new.contact.label               "Darempred Karned chomlec'hioù">
 <!ENTITY  event.menu.item.new.contact.accesskey           "D">
 <!ENTITY  event.menu.item.close.label                     "Serriñ">
 <!ENTITY  event.menu.item.close.accesskey                 "S">
@@ -116,7 +116,7 @@
 <!ENTITY  event.menu.options.priority.high.accesskey          "U">
 <!ENTITY  event.menu.options.privacy.label                    "Buhez prevez">
 <!ENTITY  event.menu.options.privacy.accesskey                "B">
-<!ENTITY  event.menu.options.privacy.public.label             "Degouezh Foran">
+<!ENTITY  event.menu.options.privacy.public.label             "Darvoud Foran">
 <!ENTITY  event.menu.options.privacy.public.accesskey         "D">
 <!ENTITY  event.menu.options.privacy.confidential.label       "Diskouez an eur hag an deiziad hepken">
 <!ENTITY  event.menu.options.privacy.confidential.accesskey   "i">
