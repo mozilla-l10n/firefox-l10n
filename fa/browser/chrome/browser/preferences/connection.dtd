@@ -10,14 +10,14 @@
 <!ENTITY  proxyTitle.label              "پیکربندی پیشکارها جهت دسترسی به اینترنت">
 <!ENTITY  noProxyTypeRadio.label        "بدون پیشکار">
 <!ENTITY  noProxyTypeRadio.accesskey    "y">
-
-
+<!ENTITY  systemTypeRadio.label         "استفاده از تنظیمات پروکسی سیستم">
+<!ENTITY  systemTypeRadio.accesskey     "ا">
 <!ENTITY  WPADTypeRadio.label           "تشخیص خودکار تنظیمات پیشکار برای این شبکه">
 <!ENTITY  WPADTypeRadio.accesskey       "ک">
-
-
-
-
+<!ENTITY  manualTypeRadio.label         "تنظیمات دستی پروکسی:">
+<!ENTITY  manualTypeRadio.accesskey     "ت">
+<!ENTITY  autoTypeRadio.label           "URL پیکربندی خودکار پروکسی:">
+<!ENTITY  autoTypeRadio.accesskey       "خ">
 <!ENTITY  reload.label                  "بارگیری مجدد">
 <!ENTITY  reload.accesskey              "ب">
 <!ENTITY  ftp.label                     "پراکسی FTP:">
