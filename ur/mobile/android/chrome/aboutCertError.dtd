@@ -16,10 +16,11 @@ was trying to connect. -->
 
 <!ENTITY certerror.getMeOutOfHere.label "مجھے یہاں سے نکالیں!">
 
+<!ENTITY certerror.expert.heading "میں خطرات کو سمجھنا ہوں">
 
 <!ENTITY certerror.expert.contentPara2 "استثنیٰ شامل نہ کریں جب تک کہ 
 آپ کے پاس کوئی اچھی دلیل ہو کہ یہ ویب سائٹ قابل اعتبارشناخت استعمال نہیں کرتی۔">
-
-
+<!ENTITY certerror.addTemporaryException.label "مصاحبہ سائٹ">
+<!ENTITY certerror.addPermanentException.label "مستقل استثنیٰ شامل کریں">
 
 <!ENTITY certerror.technical.heading "تکنیکی تفاصیل">

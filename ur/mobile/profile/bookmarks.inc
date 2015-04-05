@@ -25,14 +25,15 @@
 
 
 
+#define bookmarks_title موبائل
+
+
 
 # LOCALIZATION NOTE (bookmarks_aboutBrowser):
 
 
 
-
 # link title for about:fennec
-
 
 
 
@@ -42,9 +43,7 @@
 
 
 
-
 # link title for https://addons.mozilla.org/en-US/mobile
-
 
 
 
@@ -56,10 +55,13 @@
 
 
 
-
 # link title for https://support.mozilla.org/
 
 
+
+
+
+#define bookmarks_support فائر فاکس: معاونت
 
 
 
@@ -71,12 +73,13 @@
 
 
 
-
-
 # link title for https://marketplace.firefox.com
 
 
 
+
+
+#define bookmarks_marketplace فائر فاکس مارکیٹ پلیس
 
 
 

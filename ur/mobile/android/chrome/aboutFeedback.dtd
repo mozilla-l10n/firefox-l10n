@@ -38,7 +38,7 @@
 <!ENTITY sad.header                "نہیں!">
 <!ENTITY sad.message               "ہم معزرت خواہ ہیں کہ آپ کو &brandShortName; کے ساتھ مسائل درپیش آئے۔ ہمیں بتائیں کہ کیا ہوا تاکہ ہم اس کو ٹھیک کر سکیں۔">
 <!ENTITY sad.placeholder           "اپنی رائے یہاں دیں">
-
+<!ENTITY sad.lastSite2             "آخری ملاحظہ کردہ سائٹ شامل کریں">
 <!-- LOCALIZATION NOTE (sad.urlPlaceholder): Placeholder text that appears in "Last visited site" input box when there is no text. -->
 
 <!-- LOCALIZATION NOTE (sad.thanksMessageTop): "real people" — We're stating that an actual human will look at the feedback

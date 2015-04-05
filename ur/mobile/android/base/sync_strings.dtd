@@ -211,7 +211,7 @@
 <!ENTITY fxaccount_status_history "سابقات">
 <!ENTITY fxaccount_status_passwords "پاس ورڈ">
 <!ENTITY fxaccount_status_tabs "ٹیب کھولیے">
-
+<!ENTITY fxaccount_status_legal "قانونی" >
 <!-- Localization note: when tapped, the following two strings link to
      external web pages.  Compare fxaccount_policy_{linktos,linkprivacy}:
      these strings are separated to accommodate languages that decline
@@ -252,12 +252,14 @@
 <!ENTITY fxaccount_remote_error_ATTEMPT_TO_OPERATE_ON_AN_UNVERIFIED_ACCOUNT "اکاؤنٹ توثیق شدہ نہیں">
 <!ENTITY fxaccount_remote_error_CLIENT_HAS_SENT_TOO_MANY_REQUESTS "پیش کار مصروف، کچھ دیر میں پھر کوشش کریں">
 <!ENTITY fxaccount_remote_error_SERVICE_TEMPORARILY_UNAVAILABLE_TO_DUE_HIGH_LOAD "پیش کار مصروف، کچھ دیر میں پھر کوشش کریں ">
+<!ENTITY fxaccount_remote_error_UNKNOWN_ERROR "ایک مسئلہ تھا">
+<!ENTITY fxaccount_remote_error_COULD_NOT_CONNECT "نیٹ ورک سے رابطہ قائم نہیں ہو رہا">
+<!ENTITY fxaccount_remote_error_ACCOUNT_LOCKED "اکاؤنٹ مقفل ہے۔ &formatS1;">
 
-
-
-
+<!ENTITY fxaccount_sync_sign_in_error_notification_title2 "&syncBrand.shortName.label; جڑا ہوا نہیں ہے">
 <!-- Localization note: the format string below will be replaced
      with the Firefox Account's email address. -->
+<!ENTITY fxaccount_sync_sign_in_error_notification_text2 "&formatS; سے سائن ان کرنے کے لیے کلک کریں">
 
 <!-- Localization note: the format string below will be replaced
      with the Firefox Account's email address. -->

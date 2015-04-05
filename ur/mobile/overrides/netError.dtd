@@ -11,7 +11,7 @@
 
 
 <!ENTITY connectionFailure.title "جڑنے میں ناکامیاب">
-
+<!ENTITY connectionFailure.longDesc2 "&sharedLongDesc3;">
 
 <!ENTITY deniedPortAccess.title "یہ پتہ رسٹرکٹڈ ہے">
 <!ENTITY deniedPortAccess.longDesc "">
@@ -35,7 +35,7 @@
      or enabling wifi connections. The text inside the tags should be localized. Do not touch the ids. -->
 
 <!ENTITY netInterrupt.title "کنکشن خراب ہو گیا">
-
+<!ENTITY netInterrupt.longDesc2 "&sharedLongDesc3;">
 
 <!ENTITY notCached.title "دستاویز زائدالمدت">
 <!ENTITY notCached.longDesc "<p> درخواست کردہ دستاویز &brandShortName; کے کیسے میں دستیاب نہیں۔ </p><ul><li> احتیاط کے لیے &brandShortName; حساس دستاویز خود بخود دوبارہ نہیں مانگتا۔ </li><li> ویب سائٹ سے دستاویز پھر مانگنے کے لیے &quot;پھر کوشش کریں&quot; پر کلک کریں۔</li></ul>">
