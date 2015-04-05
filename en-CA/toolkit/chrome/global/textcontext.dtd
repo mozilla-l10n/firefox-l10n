@@ -24,5 +24,3 @@
 <!ENTITY spellNoSuggestions.label "(No Spelling Suggestions)">
 <!ENTITY spellDictionaries.label "Languages">
 <!ENTITY spellDictionaries.accesskey "L">
-
-<!ENTITY searchTextBox.clear.label "Clear">

@@ -1,13 +1,13 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-<!-- Entities for AccountWizard -->
 
+<!-- Entities for AccountWizard -->
 
 <!ENTITY windowTitle.label "Account Wizard">
 <!ENTITY accountWizard.size "width: 40em; height: 38em;">
-<!-- Entities for Account Type page -->
 
+<!-- Entities for Account Type page -->
 
 <!ENTITY accountSetupInfo2.label "In order to receive messages, you first need to set up an account.">
 <!ENTITY accountTypeTitle.label "New Account Setup">
@@ -17,13 +17,13 @@
 <!ENTITY accountTypeMail.accesskey "m">
 <!ENTITY accountTypeNews.label "Newsgroup account">
 <!ENTITY accountTypeNews.accesskey "w">
-<!-- Entities for Identity page -->
 
+<!-- Entities for Identity page -->
 
 <!ENTITY identityTitle.label "Identity">
 <!ENTITY identityDesc.label "Each account has an identity, which is the information that identifies you to others when they receive your messages.">
-<!-- LOCALIZATION NOTE (fullnameDesc.label) : do not translate two of "&quot;" in below line -->
 
+<!-- LOCALIZATION NOTE (fullnameDesc.label) : do not translate two of "&quot;" in below line -->
 <!ENTITY fullnameDesc.label "Enter the name you would like to appear in the &quot;From&quot; field of your outgoing messages">
 <!-- LOCALIZATION NOTE (fullnameExample.label) : use following directions for below line
   1, do not translate two of "&quot;"
@@ -35,8 +35,8 @@
 
 <!ENTITY emailLabel.label "Email Address:">
 <!ENTITY emailLabel.accesskey "E">
-<!-- Entities for Incoming Server page -->
 
+<!-- Entities for Incoming Server page -->
 
 <!ENTITY incomingTitle.label "Incoming Server Information">
 <!ENTITY incomingServerTypeDesc.label "Select the type of incoming server you are using.">
@@ -64,8 +64,8 @@
 <!ENTITY newsServerNameDesc.label "Enter the name of your news server (NNTP) (for example, &quot;news.example.net&quot;).">
 <!ENTITY newsServerLabel.label "Newsgroup Server:">
 <!ENTITY newsServerLabel.accesskey "S">
+ 
 <!-- Entities for Outgoing Server page -->
-
 
 <!ENTITY outgoingTitle.label "Outgoing Server Information">
 <!-- LOCALIZATION NOTE (outgoingServer.description) : Do not translate "SMTP" and "&quot;smtp.example.net&quot;" in below line -->
@@ -75,10 +75,10 @@
 <!ENTITY outgoingUsername.description "Enter the outgoing user name given to you by your email provider (this is typically the same as your incoming user name).">
 <!ENTITY outgoingUsername.label "Outgoing User Name:">
 <!ENTITY outgoingUsername.accesskey "U">
+
 <!-- LOCALIZATION NOTE (modifyOutgoing.suffix) : This string will be appended after each of
      haveSmtp1.suffix3, haveSmtp2.suffix3, haveSmtp3.suffix3 .
 -->
-
 <!ENTITY modifyOutgoing.suffix "You can change outgoing servers in the account settings.">
 <!-- LOCALIZATION NOTE (haveSmtp1.prefix and haveSmtp1.suffix3) : Do not translate "SMTP" and "&quot;" in
      these variables. Also, translate haveSmtp1.prefix and haveSmtp1.suffix3 as a single sentence, inserting
@@ -98,16 +98,16 @@
 -->
 <!ENTITY haveSmtp3.prefix "Your outgoing (SMTP) server, &quot;">
 <!ENTITY haveSmtp3.suffix3 "&quot;, is identical to your incoming server, your incoming user name will be used to access it.">
-<!-- Entities for Account name page -->
 
+<!-- Entities for Account name page -->
 
 <!ENTITY accnameTitle.label "Account Name">
 <!-- LOCALIZATION NOTE (accnameDesc.label) : do not translate any "&quot;" in below line -->
 <!ENTITY accnameDesc.label "Enter the name by which you would like to refer to this account (for example, &quot;Work Account&quot;, &quot;Home Account&quot; or &quot;News Account&quot;).">
 <!ENTITY accnameLabel.label "Account Name:">
 <!ENTITY accnameLabel.accesskey "A">
-<!-- Entities for Done (Congratulations) page -->
 
+<!-- Entities for Done (Congratulations) page -->
 
 <!ENTITY completionTitle.label "Congratulations!">
 <!ENTITY completionText.label "Please verify that the information below is correct.">
