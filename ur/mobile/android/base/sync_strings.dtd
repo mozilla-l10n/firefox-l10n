@@ -102,20 +102,30 @@
 <!-- Firefox Account strings. -->
 
 
+<!ENTITY fxaccount_full_label "فائر فاکس اکاؤنٹس">
+
+<!ENTITY fxaccount_custom_server_account_title "پیش کار پر اکاؤنٹ استعمال کر رہا ہے">
+<!ENTITY fxaccount_custom_server_sync_title "پیش کار پر ہمہ وقت سازی کوائف محفوظ کر رہا ہے">
 <!-- Localization note: these are shown in all screens that query the
      user for an email address and password. Hide and show are button
      labels. -->
 
+<!ENTITY fxaccount_email_hint "ای میل">
+<!ENTITY fxaccount_password_hint "پاس ورڈ">
 <!ENTITY fxaccount_password_hide "چھپائیں">
 <!ENTITY fxaccount_password_show "دکھائیں">
 <!-- Localization note: these are shown in screens after the user has
      created or signed in to an account, and take the user back to
      Firefox. -->
+
+<!ENTITY fxaccount_back_to_browsing "واپس براؤزنگ پر">
 <!-- Localization note: the following two strings are interpolated
      into fxaccount_create_account_policy_text2; see note for that
      string as well.  Compare fxaccount_status_{linktos,linkprivacy}:
      these strings are separated to accommodate languages that decline
      the two uses differently. -->
+
+<!ENTITY fxaccount_policy_linktos "سروس کی اصطلاحات">
 
 
 
@@ -127,17 +137,19 @@
 
 
 
-
+<!ENTITY fxaccount_create_account_year_of_birth "سال پیدائش">
 <!-- Localization note: &formatS1; is fxaccount_policy_linktos, &formatS2; is fxaccount_policy_linkprivacy, both hyperlinked. -->
 <!ENTITY fxaccount_create_account_button "آگے">
+<!ENTITY fxaccount_create_account_choose_what_to_sync "ہمہ وقت سازی کے لیے چنیں">
+<!ENTITY fxaccount_create_account_sign_in_instead "پہلے سے اکاؤنٹ ہے؟ سائن ان کریں">
+<!ENTITY fxaccount_create_account_1990_or_earlier "1990 یا اس سے پہلے">
+<!ENTITY fxaccount_create_account_unknown_error "اکاؤنٹ نہیں بن سکا">
 
+<!ENTITY fxaccount_account_create_not_allowed "اکاؤنٹ نہیں بنا سکتا ">
+<!ENTITY fxaccount_account_create_not_allowed_you_must_meet_certain_age_requirements "اکاؤنٹ بنانے کے لیے آپ کو کچھ عمر کی خصوصیات پوری کرنی پڑیں گی۔">
+<!ENTITY fxaccount_account_create_not_allowed_learn_more "اور سیکھیں">
 
-
-
-
-
-
-
+<!ENTITY fxaccount_confirm_account_header "اپنے اکاؤنٹ کی تصدیق کریں">
 <!-- Localization note: &formatS; is the Firefox Account's email address. -->
 
 
@@ -148,6 +160,20 @@
 
 
 
+<!ENTITY fxaccount_sign_in_forgot_password "پاس ورڈ بھول گیا؟">
+<!ENTITY fxaccount_sign_in_create_account_instead "اکاؤنٹ بنائیں">
+<!ENTITY fxaccount_sign_in_unknown_error "سائن ان نہیں کر سکا">
+
+<!ENTITY fxaccount_account_verified_sub_header "اکاؤنٹ توثیق شدہ">
+<!ENTITY fxaccount_account_verified_description2 "آپ کے کوائف کی ہمہ وقت سازی ابھی شروع ہو جائے گی۔">
+
+<!ENTITY fxaccount_migration_finished_header "درجہ افزوں کاری مکمل">
+
+<!ENTITY fxaccount_update_credentials_header "سائن ان کریں">
+<!ENTITY fxaccount_update_credentials_button_label "سائن ان کریں">
+<!ENTITY fxaccount_update_credentials_unknown_error "سائن ان نہیں کر سکا">
+
+<!ENTITY fxaccount_finish_migrating_header "فزوں کاری مکمل کرنے کے لیے سائن ان کریں">
 
 
 
@@ -157,26 +183,16 @@
 
 
 
+<!ENTITY fxaccount_status_sync "&syncBrand.shortName.label;">
+<!ENTITY fxaccount_status_sync_enabled "&syncBrand.shortName.label;: اہل">
+<!ENTITY fxaccount_status_needs_verification2 "آپ کے اکاؤنٹ کو توثیق کی ضرورت ہے۔ توثیق ای میل پھر بھیجنے کے لیے کلک کریں۔">
+<!ENTITY fxaccount_status_needs_credentials "جر نہیں سکتا۔ سائن ان کرنے کے لیے کلک کریں۔">
+<!ENTITY fxaccount_status_needs_upgrade "سائن ان کرنے کے لیے آپ کو &brandShortName; کا درجہ افزوں کرنا ہو گا۔">
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY fxaccount_status_needs_finish_migrating "اپنے نئے فائر فاکس اکاؤنٹ میں سائن ان کرنے کے لیے کلک کریں۔">
+<!ENTITY fxaccount_status_bookmarks "نشانیاں">
+<!ENTITY fxaccount_status_history "سابقات">
 
 
 
@@ -193,21 +209,29 @@
 
 <!-- Localization note: this is the name shown by the Android system
      itself for a Firefox Account. Don't localize this. -->
+
+<!ENTITY fxaccount_account_type_label "فائر فاکس">
 <!-- Localization note: these are shown by the Android system itself,
      when the user navigates to the Android > Accounts > {Firefox
      Account} Screen. The link takes the user to the Firefox Account
      status activity, which lets them manage their Firefox
      Account. -->
 
+<!ENTITY fxaccount_options_title "&syncBrand.shortName.label; اختیارات">
+<!ENTITY fxaccount_options_configure_title "&syncBrand.shortName.label; تشکیل کریں">
 <!-- Localization note: these error messages are shown after a request
      has been made to the remote server, and an error of some type has
      been returned. -->
+
+<!ENTITY fxaccount_remote_error_UPGRADE_REQUIRED "آپ کو فائر فاکس کا درجہ افزوں کرنے کی ضرورت ہے">
 <!-- Localization note: the format string will be fxaccount_sign_in_button_label, linkified. -->
 
-
-
-
-
+<!ENTITY fxaccount_remote_error_ATTEMPT_TO_CREATE_AN_ACCOUNT_THAT_ALREADY_EXISTS_2 "اکاؤنٹ پہلے سے موجود ہے۔ &formatS1;">
+<!ENTITY fxaccount_remote_error_ATTEMPT_TO_ACCESS_AN_ACCOUNT_THAT_DOES_NOT_EXIST "غلط ای میل یا پاس ورڈ">
+<!ENTITY fxaccount_remote_error_INCORRECT_PASSWORD "غلط ای میل یا پاس ورڈ">
+<!ENTITY fxaccount_remote_error_ATTEMPT_TO_OPERATE_ON_AN_UNVERIFIED_ACCOUNT "اکاؤنٹ توثیق شدہ نہیں">
+<!ENTITY fxaccount_remote_error_CLIENT_HAS_SENT_TOO_MANY_REQUESTS "پیش کار مصروف، کچھ دیر میں پھر کوشش کریں">
+<!ENTITY fxaccount_remote_error_SERVICE_TEMPORARILY_UNAVAILABLE_TO_DUE_HIGH_LOAD "پیش کار مصروف، کچھ دیر میں پھر کوشش کریں ">
 
 
 
