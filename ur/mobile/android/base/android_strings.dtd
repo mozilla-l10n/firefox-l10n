@@ -294,7 +294,7 @@ size. -->
      crashReporterDesc.label). -->
 
 <!ENTITY datareporting_fhr_title "&brandShortName; تندرستی رپورٹ">
-<!ENTITY datareporting_fhr_summary2 "آپ کے براؤزر کی صحت &vendorShortName; کے ساتھ شیئر کرتا ہے اور آپ کو آپ کے براؤزر کی سرانجام دہی سمجھنے میں مدد کرتا ہے۔">
+<!ENTITY datareporting_fhr_summary2 "آپ کے براؤزر کی صحت &vendorShortName; کے ساتھ شیئر کرتا ہے اور آپ کو آپ کے براؤزر کی سرانجام دہی سمجھنے میں مدد کرتا ہے">
 <!ENTITY datareporting_abouthr_title "میری تندرستی رپورٹ دکھائیں">
 <!ENTITY datareporting_telemetry_title "ٹیلی میٹری">
 <!ENTITY datareporting_telemetry_summary "&brandShortName; کو بہتر بنانے میں مدد دینے کے لیے آپ کے براؤزر کے سرانجام دہی، استعمال، ہارڈ ویئر اور تخصیص کاری کوائف &vendorShortName; کو بھیجتا ہے">
@@ -408,7 +408,7 @@ size. -->
 <!ENTITY site_settings_title3       "سائٹ سیٹنگیں">
 <!ENTITY site_settings_cancel       "منسوخ کریں">
 <!ENTITY site_settings_clear        "صاف کریں">
-<!ENTITY site_settings_no_settings  "صاف کرنے کے لیے کوئی سیٹنگیں نہیں">
+<!ENTITY site_settings_no_settings  "صاف کرنے کے لیے کوئی سیٹنگیں نہیں۔">
 
 <!ENTITY reading_list_added "آپ کے پڑھنے والی فہرست میں صفحہ کا اضافہ کردیا گیا">
 <!ENTITY reading_list_removed "آپ کے پڑھنے والی فہرست سے صفحہ ہٹا دیا گیا">
