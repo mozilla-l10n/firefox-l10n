@@ -77,6 +77,8 @@
   -  checkbox that toggles chrome debugging, i.e. devtools.chrome.enabled
   -  boolean preference in about:config, in the options panel. -->
 
+<!ENTITY options.enableChrome.label5    "Activar cajas de herramientas de depuración de chrome del navegador y del complemento">
+<!ENTITY options.enableChrome.tooltip3  "Activar esta opción te permitirá usar varias herramientas de desarrollador en el contexto del navegador (a través de Herramientas > Desarrollador web > Caja de herramientas del navegador) y depurar complementos desde el administrador de complementos">
 <!-- LOCALIZATION NOTE (options.enableRemote.label3): This is the label for the
   -  checkbox that toggles remote debugging, i.e. devtools.debugger.remote-enabled
   -  boolean preference in about:config, in the options panel. -->
@@ -99,6 +101,8 @@
   -  options.enableServiceWorkersTesting.tooltip): This is the options panel label and
   -  tooltip for the checkbox that toggles the service workers testing features on or off. -->
 
+<!ENTITY options.enableServiceWorkersTesting.label     "Habilitar las características de pruebas del Servicio de Trabajadores (cuando la caja de herramientas esté abierta)">
+<!ENTITY options.enableServiceWorkersTesting.tooltip   "Activar esta opción habilitará las características de prueba del servicio de trabajadores para todas las pestañas que tengan la caja de herramientas abierta.">
 <!-- LOCALIZATION NOTE (options.selectDefaultTools.label): This is the label for
   -  the heading of group of checkboxes corresponding to the default developer
   -  tools. -->
