@@ -4,7 +4,7 @@
 
 <!ENTITY sync.title                 "ہمہ وار کریں">
 <!ENTITY sync.notconnected          "جڑا ہوا نہیں">
-
+<!ENTITY sync.connect               "جڑیں">
 <!ENTITY sync.connected             "جڑیں">
 <!ENTITY sync.details               "تفصیلات">
 <!ENTITY sync.deviceName            "یہ آلہ">
@@ -12,7 +12,7 @@
 <!ENTITY sync.syncNow               "ابھی ہمہ وار کریں">
 
 <!ENTITY sync.setup.title           "Sync سے جڑیں">
-
+<!ENTITY sync.setup.pair            "عمل میں لانے کے لیے، اپنے دیگر آلہ پر &quot;آلہ جوڑیں&quot; منتخب کریں۔">
 <!ENTITY sync.fallback              "میں اپنے کمپیوٹر کے پاس نہیں ہوں…">
 <!ENTITY sync.setup.manual          "اپنے Sync اکاؤنٹ کی معلومات داخل کریں">
 <!ENTITY sync.account               "نام اکاؤنٹ">
@@ -26,6 +26,6 @@
 <!ENTITY sync.setup.waiting2        "دوسر آلے کا انتظار کر رہا ہے…">
 
 <!ENTITY sync.pair.title            "آلے کا جوڑا بنائیں">
-
+<!ENTITY sync.pair.description      "اپنا نیا آلہ عمل میں لانے کے لیے، آلہ پر &quot;سیٹ اپ ہمہ وار&quot; منتخب کریں۔">
 <!ENTITY sync.setup.close           "بند کریں">
 <!ENTITY sync.setup.waitingdownload "آپ کے کوائف اپ پس منظر میں ڈاؤن لوڈ ہو رہے ہیں۔ آپ اس دریچے کو کسی بھی وقت بند کر سکتے ہیں۔">

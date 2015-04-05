@@ -598,7 +598,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY guest_session_dialog_continue "جاری رکھیں">
 <!ENTITY guest_session_dialog_cancel "منسوخ کریں">
 <!ENTITY new_guest_session_title "&brandShortName; اب پھر شروع ہو گا">
-
+<!ENTITY new_guest_session_text "جو اسے استعمال کر رہا ہو گا وہ آپ کے کوئی ذاتی براؤزنگ کوائف (جیسے کہ محفوظ پاس ورڈ، سابقات یا نشانیاں) نہیں دیکھ سکے گا۔ \n\n آپ کے مہمان کے فارغ ہو نے پر، ان کے براؤزنگ کوائف حذف کر دیئے جائیں گے اور آپ کی سیشن بحال ہو جائے گی۔ ">
 <!ENTITY guest_browsing_notification_title "مہمان براؤزنگ اہل ہے">
 <!ENTITY guest_browsing_notification_text "خروج کے لیے کلک کریں">
 

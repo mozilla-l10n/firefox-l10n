@@ -16,7 +16,7 @@
 
 <!ENTITY sync.subtitle.connect.label "اپنا نیا آلہ متحرک کرنے کے لیے، آلے پر “Set up &syncBrand.shortName.label;” منتخب کریں۔">
 <!ENTITY sync.subtitle.header2.label "اپنے دوسرے آلے پر یہ ضابطہ داخل کریں">
-
+<!ENTITY sync.subtitle.connectlocation2.label "اپنے دوسرے آلے کی فائر فاکس اختیارات میں &syncBrand.shortName.label; سیکشن میں &sync.title.pair.label; منتخب کریں۔">
 <!ENTITY sync.subtitle.pair.label "عمل میں لانے کے لیے، اپنے دوسرے آلے پر “Pair a device” منتخب کریں۔">
 <!ENTITY sync.pin.default.label "...\n...\n...\n">
 <!ENTITY sync.pin.oneline.label "...">
@@ -52,7 +52,7 @@
 <!-- Pair Device -->
 
 <!ENTITY sync.pair.tryagain.label "پھر کوشش کریں۔">
-
+<!ENTITY sync.pair.connectlocation.label "اپنا نیا آلہ عمل میں لانے کے لیے، آلہ پر \&quot;سیٹ اپ &syncBrand.shortName.label;\&quot; منتخب کریں، اور پھر منتخب کریں \&quot;میرا ایک اکاؤنٹ ہے۔\&quot;">
 <!-- Firefox SyncAdapter Settings Screen -->
 
 <!ENTITY sync.settings.options.label "اختیارات">
