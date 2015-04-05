@@ -3,18 +3,19 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY sync.title                 "ہمہ وار کریں">
+<!ENTITY sync.notconnected          "جڑا ہوا نہیں">
 
-
-
+<!ENTITY sync.connected             "جڑیں">
 <!ENTITY sync.details               "تفصیلات">
-
-
+<!ENTITY sync.deviceName            "یہ آلہ">
+<!ENTITY sync.disconnect            "منقطع کریں">
 <!ENTITY sync.syncNow               "ابھی ہمہ وار کریں">
 
+<!ENTITY sync.setup.title           "Sync سے جڑیں">
 
-
-
-<!ENTITY sync.account               "اکاؤنٹ نام">
+<!ENTITY sync.fallback              "میں اپنے کمپیوٹر کے پاس نہیں ہوں…">
+<!ENTITY sync.setup.manual          "اپنے Sync اکاؤنٹ کی معلومات داخل کریں">
+<!ENTITY sync.account               "نام اکاؤنٹ">
 <!ENTITY sync.password              "پاس ورڈ">
 <!ENTITY sync.recoveryKey           "میری بازیافت کلید">
 <!ENTITY sync.customServer          "مخصوص پیش کار استعمال کریں">
@@ -27,4 +28,4 @@
 <!ENTITY sync.pair.title            "آلے کا جوڑا بنائیں">
 
 <!ENTITY sync.setup.close           "بند کریں">
-
+<!ENTITY sync.setup.waitingdownload "آپ کے کوائف اپ پس منظر میں ڈاؤن لوڈ ہو رہے ہیں۔ آپ اس دریچے کو کسی بھی وقت بند کر سکتے ہیں۔">

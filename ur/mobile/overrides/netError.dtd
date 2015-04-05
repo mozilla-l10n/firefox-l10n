@@ -52,10 +52,10 @@
 
 
 <!ENTITY netReset.title "کنکشن ریسٹ ہو گیا">
-
+<!ENTITY netReset.longDesc2 "&sharedLongDesc3;">
 
 <!ENTITY netTimeout.title "کنکشن ٹائم آوٹ ہو گیا ہے">
-
+<!ENTITY netTimeout.longDesc2 "&sharedLongDesc3;">
 
 <!ENTITY unknownProtocolFound.title "پتہ سمجھ نہیں آیا">
 <!ENTITY unknownProtocolFound.longDesc "<ul> 

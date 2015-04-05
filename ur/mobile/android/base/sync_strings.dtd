@@ -42,7 +42,7 @@
 <!ENTITY sync.button.manual.label "دستی سیٹ اپ">
 <!ENTITY sync.subtitle.nointernet.label "کوئی انٹرنیٹ کنکشن دستیاب نہیں۔">
 <!ENTITY sync.subtitle.failaccount.label "آپ کے آلے پر اکاؤنٹ تخلیق ناکام ہو گئی۔">
-
+<!ENTITY sync.subtitle.failmultiple.label "کیا آپ کے پاس ایک سے زیادہ فائر فاکس تنصیب شدہ ہیں؟ فی الحال، &syncBrand.fullName.label; ایک وقت پر صرف ایک فائر فاکس تنصیب کی معاونت کرتا ہے۔ &syncBrand.shortName.label; استعمال کرنے کے لیے باقی سب ناتنصیب کر دیں۔">
 <!-- Setup Success -->
 
 <!ENTITY sync.title.success.label "سیٹ اپ مکمل">
@@ -267,3 +267,4 @@
 <!ENTITY fxaccount_sync_finish_migrating_notification_title "&syncBrand.shortName.label; کی فزوں کاری مکمل؟">
 <!-- Localization note: the format string below will be replaced
      with the Firefox Account's email address. -->
+<!ENTITY fxaccount_sync_finish_migrating_notification_text "&formatS; کے طور پر سائن ان کرنے کے لیے کلک کریں">

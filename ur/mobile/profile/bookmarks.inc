@@ -37,9 +37,11 @@
 
 
 
+#define bookmarks_aboutBrowser فائر فاکس: آپ کے براؤزر کے بارے میں
+
+
 
 # LOCALIZATION NOTE (bookmarks_addons):
-
 
 
 
@@ -47,11 +49,11 @@
 
 
 
+#define bookmarks_addons فائر فاکس: ایڈ اون سے تخصیص کریں
+
 
 
 # LOCALIZATION NOTE (bookmarks_support):
-
-
 
 
 
@@ -59,11 +61,7 @@
 
 
 
-
-
 #define bookmarks_support فائر فاکس: معاونت
-
-
 
 
 
@@ -71,17 +69,11 @@
 
 
 
-
-
 # link title for https://marketplace.firefox.com
 
 
 
-
-
 #define bookmarks_marketplace فائر فاکس مارکیٹ پلیس
-
-
 
 
 

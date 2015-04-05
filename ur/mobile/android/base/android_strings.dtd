@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 
-<!ENTITY  no_space_to_start_error "&brandShortName; شروع کرنے کے لئے دستیاب کافی جگہ نہیں ہے۔">
+<!ENTITY  no_space_to_start_error "&brandShortName; شروع کرنے کے لئے کافی جگہ دستیاب نہیں ہے۔">
 <!ENTITY  error_loading_file "&brandShortName; چلانے کے لئے ضروری مسلیں کو لوڈ کرنے کی کوشش کرتے وقت ایک خامی پیش آگئی">
 
 <!ENTITY  onboard_start_message2 "&brandShortName; میں خوش آمدید">
@@ -240,6 +240,8 @@ size. -->
 <!ENTITY pref_font_size_adjust_char "A">
 <!-- Localization note (pref_font_size_preview_text): This paragraph is used as an example to
     demonstrate the font size setting.  It is meant to be whimsical and fun. -->
+
+<!ENTITY pref_font_size_preview_text "تیز رفتار نارنجی لومڑی زیادہ رفتار، زیادہ لچک، اور زیادہ سلامتی کے ساتھ آپ کی توقعات سے اوپر چھلانگ لگا دیتی ہے۔ ایک غیر منافع بخش کے طور پر، ہم بنا کسی اشتباہ کے آپ کے لیے اختراع کے لیے آزاد ہیں۔ جس کا مطلب آپ کے لیے ایک بہتر تجربہ اور ویب کے لیے زیادہ روشن مستقبل ہے۔ ">
 
 <!ENTITY pref_media_autoplay_enabled "خودکار چلنے کی اجازت دیں">
 <!ENTITY pref_media_autoplay_enabled_summary "قابو کریں اگر ویب سائٹیں خود وڈیو اور دیگر میڈیا مواد چلاسکتی ہیں">

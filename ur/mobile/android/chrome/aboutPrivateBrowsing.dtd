@@ -5,7 +5,7 @@
 <!ENTITY privatebrowsingpage.title                  "نجی براوزنگ">
 
 <!ENTITY privatebrowsingpage.issueDesc.private      "آپ نے ایک نیا نجی ٹیب کھولا ہے۔">
-
+<!ENTITY privatebrowsingpage.issueDesc.normal       "آپ نجی ٹیب میں نہیں ہیں۔">
 
 <!ENTITY privatebrowsingpage.description            "نجی براؤزنگ سیشن میں &brandShortName; کوئی براؤزر سابقات، تلاش سابقات، ڈاؤن لوڈ سابقات، ویب فارم سابقات، کوکی، یا عارضی انٹرنیٹ مسلیں نہیں رکھے گا۔ تاہم، آپ کی ڈاؤن لوڈ کی گئی مسلیں اور لگائی ہوئی نشانیاں رکھی جائیں گی۔">
 <!ENTITY privatebrowsingpage.description.private    "&privatebrowsingpage.issueDesc.private; &privatebrowsingpage.description;">
