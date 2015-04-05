@@ -95,8 +95,8 @@
      user for an email address and password. Hide and show are button
      labels. -->
 
-
-
+<!ENTITY fxaccount_password_hide "چھپائیں">
+<!ENTITY fxaccount_password_show "دکھائیں">
 <!-- Localization note: these are shown in screens after the user has
      created or signed in to an account, and take the user back to
      Firefox. -->

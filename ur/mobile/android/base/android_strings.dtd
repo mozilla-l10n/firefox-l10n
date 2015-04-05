@@ -175,7 +175,7 @@
 <!-- Localization note: These are shown in the left sidebar on tablets -->
 
 <!ENTITY pref_header_customize "تخصیص کریں">
-<!ENTITY pref_header_display "نمائش">
+<!ENTITY pref_header_display "دکھائیں">
 <!ENTITY pref_header_privacy_short "رازداری">
 <!ENTITY pref_header_help "مدد">
 <!ENTITY pref_header_language "زبان">
@@ -204,14 +204,14 @@
 <!ENTITY tab_queue_notification_title_plural "ٹیبیں قطار بند">
 <!-- Localization note (tab_queue_notification_title_singular) : This is the
      title of a notification; we expect only one tab queued. -->
-<!ENTITY tab_queue_notification_title_singular "ٹیب قطار بند">
+<!ENTITY tab_queue_notification_title_singular "قطار بند ٹیب">
 <!-- Localization note (tab_queue_notification_text_singular) : This is the
      text of a notification; we expect only one tab queued. -->
 <!ENTITY tab_queue_notification_text_singular "1 ٹیب قطار بند">
 
 <!ENTITY pref_char_encoding "کریکٹر ضابطہ بندی">
 <!ENTITY pref_char_encoding_on "مینیو دکھائیں">
-
+<!ENTITY pref_char_encoding_off "  مینیو مت دکھائیں">
 <!ENTITY pref_clear_private_data2 "ابھی خالی کریں">
 <!ENTITY pref_clear_private_data_category "نجی کوائف خالی کریں">
 <!ENTITY pref_clear_on_exit_title2 "خروج پر خالی کریں">
@@ -243,8 +243,8 @@ size. -->
 
 <!ENTITY pref_media_autoplay_enabled "خودکار چلنے کی اجازت دیں">
 <!ENTITY pref_media_autoplay_enabled_summary "قابو کریں اگر ویب سائٹیں خود وڈیو اور دیگر میڈیا مواد چلاسکتی ہیں">
-<!ENTITY pref_zoom_force_enabled "زوم ہمیشہ اہل رکھیں">
-
+<!ENTITY pref_zoom_force_enabled "زوم ہمیشہ اہل بنائیں">
+<!ENTITY pref_zoom_force_enabled_summary "زیر لازمی کریں تاکہ آپ کسی بھی صفحے پر زوم کر سکیں">
 
 <!ENTITY pref_use_master_password "ماسٹر پاس ورڈ استعمال کریں">
 <!ENTITY pref_sync "ہمہ وار کریں">
@@ -259,28 +259,31 @@ size. -->
 <!ENTITY pref_private_data_cache "کیسہ">
 <!ENTITY pref_private_data_offlineApps "کوکیاں &amp; متحرک لاگ ان">
 <!ENTITY pref_private_data_siteSettings2 "سائٹ سیٹکگیں">
-
+<!ENTITY pref_private_data_downloadFiles2 "ڈاؤن لوڈ">
 
 
 <!ENTITY pref_about_firefox "&brandShortName; کے بارے میں">
+<!ENTITY pref_vendor_faqs "عمومی سوالات">
+<!ENTITY pref_vendor_feedback "رائے دیں">
 
-
-
+<!ENTITY pref_dialog_set_default "بطور طے شدہ سیٹ کریں">
 <!ENTITY pref_dialog_default "طے شدہ">
+<!ENTITY pref_dialog_remove "ہٹائیں">
 
+<!ENTITY pref_search_last_toast "آپ اپنا آخری تلاش انجن ہٹا یا نااہل نہیں کر سکتے۔ ">
 
-
-
-
-
+<!ENTITY pref_panels_show "دکھائیں">
+<!ENTITY pref_panels_hide "چھپائیں">
+<!ENTITY pref_panels_reorder "ترتیب تبدیل کریں">
+<!ENTITY pref_panels_move_up "اوپر کریں">
 <!ENTITY pref_panels_move_down "نیچے لائیں">
 
 <!ENTITY datareporting_notification_title "&brandShortName; شماریات &amp; کوائف">
 <!ENTITY datareporting_notification_action_long "شیئر کرنے والی معلومات چنیں">
 <!ENTITY datareporting_notification_action "شیئر کرنے کی چیزیں چنیں">
-
+<!ENTITY datareporting_notification_summary "آپ کا تجربہ بہتر بنانے کے لیے، &brandShortName; خودکار طور پر &vendorShortName; کو کچھ معلومات بھیجتا ہے۔">
 <!ENTITY datareporting_notification_summary_short "اپنا تجربہ بہتر کرنے کے لیے، &brandShortName;…">
-
+<!ENTITY datareporting_notification_ticker_text "&datareporting_notification_title;: &datareporting_notification_action_long;">
 <!-- Localization note (datareporting_fhr_title, datareporting_fhr_summary2,
      reporting_telemetry_title, datareporting_telemetry_summary,
      datareporting_crashreporter_summary) : These match the strings in
@@ -291,11 +294,12 @@ size. -->
 <!ENTITY datareporting_fhr_title "&brandShortName; تندرستی رپورٹ">
 
 <!ENTITY datareporting_abouthr_title "میری تندرستی رپورٹ دکھائیں">
-
+<!ENTITY datareporting_telemetry_title "ٹیلی میٹری">
 
 
 <!-- Localization note (datareporting_crashreporter_title_short) : This string matches
      (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
+<!ENTITY datareporting_crashreporter_title_short "کریش رپورٹ کار">
 
 
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
@@ -372,11 +376,11 @@ size. -->
 <!ENTITY doorhanger_login_edit_title "لاگ ان تدوین کریں">
 <!ENTITY doorhanger_login_edit_username_hint "صارف نام">
 <!ENTITY doorhanger_login_edit_password_hint "پاس ورڈ">
-<!ENTITY doorhanger_login_edit_toggle "پاس ورڈ دکھائیں">
+<!ENTITY doorhanger_login_edit_toggle "پاس ورڈدکھائیں">
 
 <!ENTITY pref_titlebar_mode "عنوان بار">
 <!ENTITY pref_titlebar_mode_title "صفحہ عنوان دکھائیں">
-<!ENTITY pref_titlebar_mode_url "صفحہ پتہ دکھائیں">
+<!ENTITY pref_titlebar_mode_url "صفحہ کا پتہ دکھائیں">
 <!-- Localization note (pref_scroll_title_bar2): Label for setting that controls
      whether or not the dynamic toolbar is enabled. -->
 
