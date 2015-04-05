@@ -169,7 +169,7 @@
 <!ENTITY sortMenu.label "Razvrsti po">
 <!ENTITY sortMenu.accesskey "a">
 <!ENTITY sortByDateCmd.label "Datumu">
-<!ENTITY sortByDateCmd.accesskey "D">
+<!ENTITY sortByDateCmd.accesskey "t">
 <!ENTITY sortByReceivedCmd.label "Prejeto">
 <!ENTITY sortByReceivedCmd.accesskey "P">
 <!ENTITY sortByStarCmd.label "Zvezdici">
@@ -183,16 +183,16 @@
 <!ENTITY sortByStatusCmd.label "Stanju">
 <!ENTITY sortByStatusCmd.accesskey "S">
 <!ENTITY sortByTagsCmd.label "Oznakah">
-<!ENTITY sortByTagsCmd.accesskey "z">
+<!ENTITY sortByTagsCmd.accesskey "a">
 <!ENTITY sortByJunkStatusCmd.label "Stanju za neželeno">
-<!ENTITY sortByJunkStatusCmd.accesskey "a">
+<!ENTITY sortByJunkStatusCmd.accesskey "ž">
 <!ENTITY sortBySubjectCmd.label "Zadevi">
-<!ENTITY sortBySubjectCmd.accesskey "d">
+<!ENTITY sortBySubjectCmd.accesskey "a">
 <!ENTITY sortByFromCmd.label "Od">
 <!ENTITY sortByFromCmd.accesskey "O">
 <!ENTITY sortByRecipientCmd.label "Prejemniku">
 <!ENTITY sortByRecipientCmd.accesskey "e">
-<!ENTITY sortByCorrespondentCmd.label "Dopisniki">
+<!ENTITY sortByCorrespondentCmd.label "Dopisnikih">
 <!ENTITY sortByCorrespondentCmd.accesskey "D">
 <!ENTITY sortByUnreadCmd.label "Prebrano">
 <!ENTITY sortByUnreadCmd.accesskey "n">
@@ -419,7 +419,7 @@
 <!ENTITY markAsJunkCmd.key "n">
 <!ENTITY markAsNotJunkCmd.label "Ne kot neželeno">
 <!ENTITY markAsNotJunkCmd.accesskey "e">
-<!ENTITY markAsNotJunkCmd.key "e">
+<!ENTITY markAsNotJunkCmd.key "n">
 <!ENTITY recalculateJunkScoreCmd.label "Poženi nadzor za neželeno pošto">
 <!ENTITY recalculateJunkScoreCmd.accesskey "P">
 <!ENTITY openMessageWindowCmd.label "Odpri sporočilo">
