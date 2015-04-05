@@ -70,7 +70,7 @@
 
 <!ENTITY sendDefaultCharset.label         "Odlazna pošta:">
 <!ENTITY sendDefaultCharset.accesskey     "d">
-
+<!ENTITY languagesTitle2.label            "Kôdna stranica">
 
 
 <!ENTITY viewDefaultCharsetList.label     "Dolazna pošta:">
