@@ -743,7 +743,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY customizeMode.lwthemes.menuManage.accessKey "У">
 <!ENTITY customizeMode.lwthemes.menuGetMore "Още теми">
 <!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "О">
-<!ENTITY customizeMode.deveditionTheme.label2 "Тема на Развойната версия">
+<!ENTITY customizeMode.deveditionTheme.label2 "Тема на Developer Edition">
 
 <!ENTITY social.chatBar.commandkey "c">
 <!ENTITY social.chatBar.label "Акцентиране върху графиката">
