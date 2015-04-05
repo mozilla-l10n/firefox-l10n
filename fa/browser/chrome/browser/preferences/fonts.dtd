@@ -66,16 +66,18 @@
 <!ENTITY languages.customize.Fallback2.grouplabel "کدگذاری متن برای محتوای قدیمی">
 <!ENTITY languages.customize.Fallback2.label      "کدگذاری متن و جانشین">
 <!ENTITY languages.customize.Fallback2.accesskey  "T">
+<!ENTITY languages.customize.Fallback2.desc       "این کدگذاری متن برای محتوای قدیمی‌ای استفاده می‌شود که قادر به معرفی کدگذاری خود نیست.">
 
-
+<!ENTITY languages.customize.Fallback.auto        "پیش‌فرض برای مکان فعلی">
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.arabic):
      Translate "Arabic" as an adjective for an encoding, not as the name of the language. -->
-
-
-
+<!ENTITY languages.customize.Fallback.arabic      "عربی">
+<!ENTITY languages.customize.Fallback.baltic      "بالتیک">
+<!ENTITY languages.customize.Fallback.ceiso       "اروپای مرکزی، ISO">
+<!ENTITY languages.customize.Fallback.cewindows   "اروپای مرکزی، مایکروسافت">
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.simplified):
      Translate "Chinese" as an adjective for an encoding, not as the name of the language. -->
-<!ENTITY languages.customize.Fallback.simplified  "چینی, ساده‌شده">
+<!ENTITY languages.customize.Fallback.simplified  "چینی، ساده‌شده">
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.traditional):
      Translate "Chinese" as an adjective for an encoding, not as the name of the language. -->
 <!ENTITY languages.customize.Fallback.traditional "چینی, قدیمی">
@@ -92,7 +94,8 @@
      Translate "Thai" as an adjective for an encoding, not as the name of the language. -->
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.turkish):
      Translate "Turkish" as an adjective for an encoding, not as the name of the language. -->
+<!ENTITY languages.customize.Fallback.turkish     "ترکی">
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.vietnamese):
      Translate "Vietnamese" as an adjective for an encoding, not as the name of the language. -->
 <!ENTITY languages.customize.Fallback.vietnamese  "ویتنامی">
-
+<!ENTITY languages.customize.Fallback.other       "موراد دیگر (شامل اروپای شرقی)">
