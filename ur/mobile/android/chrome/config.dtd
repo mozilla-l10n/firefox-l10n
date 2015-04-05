@@ -7,11 +7,14 @@
 
 <!ENTITY newPref.namePlaceholder       "نام">
 
+<!ENTITY newPref.valueBoolean          "بولیائی">
+<!ENTITY newPref.valueString           "سٹرنگ">
+<!ENTITY newPref.valueInteger          "سالم عدد">
 
+<!ENTITY newPref.stringPlaceholder     "ایک سٹرنگ داخل کریں">
+<!ENTITY newPref.numberPlaceholder     "ایک نمبر داخل کریں">
 
-
-
-
+<!ENTITY newPref.toggleButton          "ٹوگل">
 <!ENTITY newPref.cancelButton          "منسوخ کریں">
 
 

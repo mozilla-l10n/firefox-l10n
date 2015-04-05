@@ -13,10 +13,12 @@
 <!ENTITY sync.title.adddevice.label "&syncBrand.fullName.label; اکاؤنٹ ڈالیں">
 <!ENTITY sync.title.pair.label "آلے کا جوڑا بنائیں">
 <!-- J-PAKE Key Screen -->
+
+<!ENTITY sync.subtitle.connect.label "اپنا نیا آلہ متحرک کرنے کے لیے، آلے پر “Set up &syncBrand.shortName.label;” منتخب کریں۔">
 <!ENTITY sync.subtitle.header2.label "اپنے دوسرے آلے پر یہ ضابطہ داخل کریں">
 
 <!ENTITY sync.subtitle.pair.label "عمل میں لانے کے لیے، اپنے دوسرے آلے پر “Pair a device” منتخب کریں۔">
-
+<!ENTITY sync.pin.default.label "...\n...\n...\n">
 <!ENTITY sync.pin.oneline.label "...">
 <!ENTITY sync.link.show.label "مجھے دکھائیں کیسے۔">
 <!ENTITY sync.link.advancedsetup.label "مخصوص سیٹنگیں">
@@ -37,14 +39,14 @@
 <!ENTITY sync.title.fail.label "&syncBrand.shortName.label; سیٹ اپ نہیں کر سکتا">
 <!ENTITY sync.subtitle.fail.label "&syncBrand.fullName.label; پیش کار سے نہیں جڑ سکا۔ کیا آپ پھر کوشش کرنا چاہیں گے؟">
 <!ENTITY sync.button.tryagain.label "دوبارہ کوشش کریں">
-
-
-
+<!ENTITY sync.button.manual.label "دستی سیٹ اپ">
+<!ENTITY sync.subtitle.nointernet.label "کوئی انٹرنیٹ کنکشن دستیاب نہیں۔">
+<!ENTITY sync.subtitle.failaccount.label "آپ کے آلے پر اکاؤنٹ تخلیق ناکام ہو گئی۔">
 
 <!-- Setup Success -->
 
 <!ENTITY sync.title.success.label "سیٹ اپ مکمل">
-
+<!ENTITY sync.subtitle.success.label1 "آپ کے کوائف اب پس منظر میں ڈاؤن لوڈ ہو رہے ہیں۔ اپنے اکاؤنٹ کو بندوبست کرنے، یا &brandShortName; کے ساتھ براؤزنگ شروع کرنے کے لیے آپ سیٹنگوں میں جا سکتے ہیں۔">
 <!ENTITY sync.settings.label "سیٹنگیں">
 <!ENTITY sync.subtitle.manage.label1 "آپ کا &syncBrand.fullName.label; اکاؤنٹ پہلے سے سیٹ ہے۔ آپ اپنا اکاؤنٹ بندوبست کرنے، یا &brandShortName;&brandShortName; کو شروع کرنے کے لیے سیٹکگیوں میں جا سکتے ہیں۔">
 <!-- Pair Device -->
@@ -106,7 +108,7 @@
 <!ENTITY sync.button.send.label "بھیجیں">
 <!ENTITY sync.button.set.up.sync.label "&syncBrand.shortName.label; سیٹ اپ کریں">
 <!ENTITY sync.title.redirect.to.set.up.sync.label "ییب بھیجنے کے لیے &syncBrand.shortName.label; سیٹ اپ کریں">
-
+<!ENTITY sync.text.redirect.to.set.up.sync.label "دیگر آلات پر اپنے ٹیب بھیجنے کے لیے اپنے آلے پر &syncBrand.fullName.label; سیٹ اپ کریں۔">
 <!ENTITY sync.text.tab.sent.label "آپ کا ٹیب بھیج دیا گیا!">
 <!ENTITY sync.text.tab.not.sent.label "آپ کا ٹیب بھیجنے میں مسلہ آ گیا۔">
 <!-- Firefox Account strings. -->
@@ -139,8 +141,8 @@
 <!ENTITY fxaccount_policy_linkprivacy "رازداری اطلاع نامہ">
 
 <!ENTITY fxaccount_getting_started_welcome_to_sync "&syncBrand.shortName.label; میں خوش آمدید">
-
-
+<!ENTITY fxaccount_getting_started_description "اپنے ٹیب، نشانیاں، پاس ورڈ اور مذید اشیا ہمہ وقت ساز کرنے کے لیے سائن ان کریں۔">
+<!ENTITY fxaccount_getting_started_get_started "شروع کریں">
 <!ENTITY fxaccount_getting_started_old_firefox "&syncBrand.shortName.label; کا ایک پرانا ورژن استعمال کر رہے ہیں؟">
 <!-- Localization note: the Firefox below should not change with the
      particular version of Firefox installed (Release, Beta, Aurora,
@@ -152,6 +154,7 @@
 <!ENTITY fxaccount_create_account_month_of_birth "ماہ">
 <!ENTITY fxaccount_create_account_year_of_birth "سال پیدائش">
 <!-- Localization note: &formatS1; is fxaccount_policy_linktos, &formatS2; is fxaccount_policy_linkprivacy, both hyperlinked. -->
+<!ENTITY fxaccount_create_account_policy_text2 "آگے چلنے سے، میں فائر فاکس کلاوڈ خدمات کی &formatS1; اور &formatS2; پر آمادہ ہوں۔">
 <!ENTITY fxaccount_create_account_button "آگے">
 <!ENTITY fxaccount_create_account_choose_what_to_sync "ہمہ وقت سازی کے لیے چنیں">
 <!ENTITY fxaccount_create_account_sign_in_instead "پہلے سے اکاؤنٹ ہے؟ سائن ان کریں">
@@ -197,7 +200,7 @@
 <!ENTITY fxaccount_status_auth_server "اکاؤنٹ پیش کار">
 <!ENTITY fxaccount_status_sync_now "ابھی ہمہ وار کریں">
 <!ENTITY fxaccount_status_syncing2 "ہمو وار کر رہا ہے…">
-
+<!ENTITY fxaccount_status_device_name "آلہ نام">
 <!ENTITY fxaccount_status_sync_server "ہمہ وار پیش کار">
 <!ENTITY fxaccount_status_sync "&syncBrand.shortName.label;">
 <!ENTITY fxaccount_status_sync_enabled "&syncBrand.shortName.label;: اہل">
@@ -261,5 +264,6 @@
      with the Firefox Account's email address. -->
 <!ENTITY fxaccount_sync_sign_in_error_notification_text2 "&formatS; سے سائن ان کرنے کے لیے کلک کریں">
 
+<!ENTITY fxaccount_sync_finish_migrating_notification_title "&syncBrand.shortName.label; کی فزوں کاری مکمل؟">
 <!-- Localization note: the format string below will be replaced
      with the Firefox Account's email address. -->

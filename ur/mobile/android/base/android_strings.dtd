@@ -150,7 +150,7 @@
      it is applicable. -->
 <!ENTITY pref_search_hint "ٹوٹکا: کسی بھی ویب سائٹ کو اپنے تلاش مہیا کنندہ کے فہرست میں ڈالنے کے لیے اس کی تلاش قطعہ پر لمبا دبائیں اور پھر &formatI; آئکن پر کلک کریں۔">
 <!ENTITY pref_category_devtools "ڈیولپر ٹول">
-<!ENTITY pref_category_devtools_summary "بعید ٹھیک کارے، پینٹ چمک کاری">
+<!ENTITY pref_category_devtools_summary "بعید ٹھیک کر رہا ہے، پینٹ چمک کاری">
 <!ENTITY pref_developer_paint_flashing "پینٹ چمک کاری ">
 <!ENTITY pref_developer_remotedebugging "بعید ٹھیک کاری">
 <!ENTITY pref_category_logins "لاگ ان">
@@ -458,6 +458,7 @@ size. -->
 <!ENTITY home_most_recent_empty "آپ کی حال ہی میں ملاحظہ کی گئی ویب سائٹیں یہاں نظر آتی ہیں۔">
 <!-- Localization note (home_most_recent_emptyhint2): "Psst" is a sound that might be used to attract someone's attention unobtrusively, and intended to hint at Private Browsing to the user.
      The placeholders &formatS1; and &formatS2; are used to mark the location of text underlining. -->
+<!ENTITY home_most_recent_emptyhint2 "بات سنیں: &formatS1;نیا نجی ٹیب&formatS2; کا استعمال آپ کے سابقات محفوظ نہیں کرے گا۔">
 <!ENTITY home_reading_list_empty "جو عبارتیں آپ بعد کے لیے محفوظ کرتے ہیں یہاں نظر آتی ہیں۔">
 <!-- Localization note (home_reading_list_hint): The "TIP" string is synonymous to "hint", "clue", etc. This string is displayed
      as an advisory message on how to add content to the reading list when the reading list empty.
@@ -503,7 +504,7 @@ size. -->
 <!ENTITY private_tabs_panel_learn_more "مزید سیکھیں گے؟">
 
 <!ENTITY remote_tabs_panel_moved_title "میرے ٹیب کہاں گئے؟">
-
+<!ENTITY remote_tabs_panel_moved_desc "ہم نے دیگر آلات سے آپ کی ٹیبیں آپ کے ابتدائی صفحہ کے ایک پینل میں منتقل کر دیے ہیں جو کہ آپ کے نئے ٹیب کھولنے پر آسانی سے رسائی پذیر ہے۔">
 <!ENTITY remote_tabs_panel_moved_link "مجھے میری نئی پینل تک لے جائیں۔">
 
 <!ENTITY pin_site_dialog_hint "تلاش کلیدی لفظ داخل کریں">
