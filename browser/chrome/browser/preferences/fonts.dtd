@@ -24,11 +24,11 @@
      Translate "Latin" as the name of Latin (Roman) script, not as the name of the Latin language. -->
 
 <!ENTITY  font.langGroup.latin                    "لاتینی">
-
+<!ENTITY  font.langGroup.japanese                 "ژاپنی">
 <!ENTITY  font.langGroup.trad-chinese             "چینی سنتی (تایوان)‏">
 <!ENTITY  font.langGroup.simpl-chinese            "چینی ساده‌شده">
 <!ENTITY  font.langGroup.trad-chinese-hk          "چینی سنتی (هنگ‌کنگ)‏">
-
+<!ENTITY  font.langGroup.korean                   "کره‌ای">
 
 
 
@@ -63,8 +63,9 @@
 <!ENTITY  allowPagesToUse.label                   "به صفحات اجازه داده شود که قلم‌هایشان را انتخاب کنند و مجبور به استفاده از انتخاب‌های بالا نباشند">
 <!ENTITY  allowPagesToUse.accesskey               "ج">
 
-
-
+<!ENTITY languages.customize.Fallback2.grouplabel "کدگذاری متن برای محتوای قدیمی">
+<!ENTITY languages.customize.Fallback2.label      "کدگذاری متن و جانشین">
+<!ENTITY languages.customize.Fallback2.accesskey  "T">
 
 
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.arabic):

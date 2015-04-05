@@ -7,18 +7,19 @@
 <!ENTITY  window.width                  "37em">
 <!ENTITY  window.macWidth               "39em">
 
+<!ENTITY  proxyTitle.label              "پیکربندی پیشکارها جهت دسترسی به اینترنت">
+<!ENTITY  noProxyTypeRadio.label        "بدون پیشکار">
+<!ENTITY  noProxyTypeRadio.accesskey    "y">
+
+
+<!ENTITY  WPADTypeRadio.label           "تشخیص خودکار تنظیمات پیشکار برای این شبکه">
+<!ENTITY  WPADTypeRadio.accesskey       "ک">
 
 
 
 
-
-
-
-
-
-
-
-
+<!ENTITY  reload.label                  "بارگیری مجدد">
+<!ENTITY  reload.accesskey              "ب">
 <!ENTITY  ftp.label                     "پراکسی FTP:">
 <!ENTITY  ftp.accesskey                 "F">
 <!ENTITY  http.label                    "پراکسی HTTP:">
@@ -43,6 +44,6 @@
 <!ENTITY  noproxyExplain.label          "مثال: ‎.mozilla.org،‏ ‎.net.zv، ‏‬‪192.168.1.0/24‬">
 <!ENTITY  shareproxy.label              "استفاده از این پیشکار برای همهٔ قراردادها">
 <!ENTITY  shareproxy.accesskey          "ه">
-
-
-
+<!ENTITY  autologinproxy.label          "اگر گذرواژه ذخیره شده است، جهت تصدیق‌هویت پیام نده">
+<!ENTITY  autologinproxy.accesskey      "i">
+<!ENTITY  autologinproxy.tooltip        "این گزینه در پس‌زمینه شما را در پیشکارها، زمانی که گذرواژه‌ی آنها را ذخیره کرده باشید، تصدیق‌هویت می‌کند. شما در صورتی که تصدیق‌هویت شکست بخورد مطلع خواهید شد.">
