@@ -34,8 +34,8 @@
 <!ENTITY pref.default_task_offset_next_hour.label "Hurrengo orduarekiko erlatiboa">
 
 <!ENTITY pref.calendar.todaypane.agenda.caption "Gaurko panela">
-
-
+<!ENTITY pref.soondays.label "Hurrengo atalak erakusten du:">
+<!ENTITY pref.soondays.accesskey "u">
 
 <!ENTITY pref.accessibility.label "Erabilerraztasuna" >
 <!ENTITY pref.systemcolors.label "Optimizatu koloreak erabilerraztasunerako" >

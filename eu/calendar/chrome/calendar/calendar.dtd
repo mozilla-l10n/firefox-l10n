@@ -268,7 +268,7 @@
 <!ENTITY calendar.context.convertmenu.accesskey.calendar "v">
 <!ENTITY calendar.context.convertmenu.event.label        "Gertaera…">
 <!ENTITY calendar.context.convertmenu.event.accesskey    "e">
-<!ENTITY calendar.context.convertmenu.message.label      "Mezua">
+<!ENTITY calendar.context.convertmenu.message.label      "Mezua...">
 <!ENTITY calendar.context.convertmenu.message.accesskey  "M">
 <!ENTITY calendar.context.convertmenu.task.label         "Zeregina…">
 <!ENTITY calendar.context.convertmenu.task.accesskey     "Z">

@@ -125,8 +125,8 @@
 <!ENTITY  event.menu.options.privacy.confidential.accesskey   "E">
 <!ENTITY  event.menu.options.privacy.private.label            "Gertaera pribatua">
 <!ENTITY  event.menu.options.privacy.private.accesskey        "p">
-<!ENTITY  event.menu.options.show.time.label                  "Ordua honela erakutsi:">
-<!ENTITY  event.menu.options.show.time.accesskey              "O">
+<!ENTITY  event.menu.options.show.time.label                  "Erakutsi ordua honela:">
+<!ENTITY  event.menu.options.show.time.accesskey              "o">
 <!ENTITY  event.menu.options.show.time.busy.label             "Okupatuta">
 <!ENTITY  event.menu.options.show.time.busy.accesskey         "O">
 <!ENTITY  event.menu.options.show.time.free.label             "Libre">
@@ -241,7 +241,7 @@
 <!ENTITY event.recurrence.year.label                    "urtero" >
 
 <!ENTITY event.recurrence.pattern.every.label           "Errepikatze-aldia" >
-<!ENTITY repeat.units.days.both                         "egunero" >
+<!ENTITY repeat.units.days.both                         "egun" >
 <!ENTITY event.recurrence.pattern.every.weekday.label   "Aste egunero" >
 
 <!ENTITY event.recurrence.pattern.weekly.every.label    "Errepikatze-aldia" >
@@ -265,7 +265,7 @@
 <!ENTITY event.recurrence.pattern.monthly.week.6.label  "Ostirala" >
 <!ENTITY event.recurrence.pattern.monthly.week.7.label  "Larunbata" >
 <!ENTITY event.recurrence.repeat.dayofmonth.label       "Hileko eguna">
-<!ENTITY event.recurrence.repeat.recur.label            "aldiz egune(t)an">
+<!ENTITY event.recurrence.repeat.recur.label            "Aldiz egune(t)an">
 
 <!ENTITY event.recurrence.every.label                        "Maiztasuna:" >
 <!ENTITY repeat.units.years.both                             "Urte" >
