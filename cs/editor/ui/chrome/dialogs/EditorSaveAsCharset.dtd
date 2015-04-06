@@ -5,8 +5,8 @@
 <!-- These strings are generic to all or most of the editor's dialogs. -->
 <!-- This button is for the progressive disclosure of additional editing functionality -->
 <!-- These strings are for use specifically in the editor's link dialog. -->
-<!ENTITY windowTitle.label "Uložit ve znakové sadě">
+<!ENTITY windowTitle2.label "Uložit a změnit kódování textu">
 <!ENTITY documentTitleTitle.label "Nadpis stránky">
-<!ENTITY documentCharsetTitle.label "Znaková sada">
-<!ENTITY documentCharsetDesc.label "Vyberte požadovanou znakovou sadu:">
+<!ENTITY documentCharsetTitle2.label "Kódování textu">
+<!ENTITY documentCharsetDesc2.label "Vyberte kódování textu, ve kterém chcete dokument uložit:">
 <!ENTITY documentExportToText.label "Exportovat jako text">
