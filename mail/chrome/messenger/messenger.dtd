@@ -145,8 +145,8 @@
 <!ENTITY messagePaneVertical.accesskey "B">
 <!ENTITY showFolderPaneCmd.label "Karpeten panela">
 <!ENTITY showFolderPaneCmd.accesskey "K">
-
-
+<!ENTITY showFolderPaneColsCmd.label "Karpeten panelaren zutabeak">
+<!ENTITY showFolderPaneColsCmd.accesskey "P">
 <!ENTITY showMessageCmd.label "Mezuen panela">
 <!ENTITY showMessageCmd.accesskey "M">
 

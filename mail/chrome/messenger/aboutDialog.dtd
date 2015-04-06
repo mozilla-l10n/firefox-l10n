@@ -26,7 +26,7 @@
 <!-- LOCALIZATION NOTE (community.exp.creditslink): This is a link title that links to about:credits. -->
 
 
-<!ENTITY community.start2           "\U200B">
+<!ENTITY community.start2           "&brandShortName; diseinatu duenak: ">
 <!-- LOCALIZATION NOTE (community.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
 <!ENTITY community.middle2          "k diseinatzen du &brandShortName;, Internet toki hobea izan dadin lanean dabilen ">
 <!-- LOCALIZATION NOTE (community.creditsLink): This is a link title that links to about:credits. -->
