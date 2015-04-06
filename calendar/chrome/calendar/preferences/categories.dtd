@@ -18,7 +18,7 @@
 <!ENTITY pref.categories.name.label "Izena">
 <!ENTITY pref.categories.color.label "Kolorea">
 <!ENTITY pref.categories.usecolor.label "Kolorea erabili">
-<!ENTITY pref.categories.none.label "(batez)">
+<!ENTITY pref.categories.none.label "(bat ere ez)">
 <!ENTITY pref.categories.overwrite "Badago izen horretako kategoria bat dagoeneko. \n Gainidatzi nahi al duzu??">
 <!ENTITY pref.categories.overwrite.title "Oharra: Bikoiztutako izena">
 <!ENTITY pref.categories.noBlankCategories "Kategoria izen bat idatzi behar duzu.">

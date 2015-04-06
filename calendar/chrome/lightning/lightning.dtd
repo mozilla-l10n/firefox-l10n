@@ -82,8 +82,8 @@
 <!ENTITY todaypane.showMinimonth.accesskey "m">
 <!ENTITY todaypane.showMiniday.label "Ikusi mini-eguna">
 <!ENTITY todaypane.showMiniday.accesskey  "e">
-<!ENTITY todaypane.showNone.label "Ikusi batez">
-<!ENTITY todaypane.showNone.accesskey "b">
+<!ENTITY todaypane.showNone.label "Erakutsi Bat ere ez">
+<!ENTITY todaypane.showNone.accesskey "B">
 <!ENTITY todaypane.showTodayPane.label "Ikusi gaurko panela">
 <!ENTITY todaypane.showTodayPane.accesskey "u">
 <!ENTITY todaypane.statusButton.label "Gaurko panela">
