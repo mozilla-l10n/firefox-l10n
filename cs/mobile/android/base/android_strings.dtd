@@ -153,7 +153,9 @@
 <!ENTITY pref_category_devtools_summary "Vzdálené ladění, zvýraznění překreslování">
 <!ENTITY pref_developer_paint_flashing "Zvýrazňovat překreslování">
 <!ENTITY pref_developer_remotedebugging "Vzdálené ladění">
+<!ENTITY pref_category_logins "Přihlášení">
 <!ENTITY pref_remember_signons "Pamatovat si hesla">
+<!ENTITY pref_manage_logins "Správa přihlášení">
 
 <!ENTITY pref_category_home "Domů">
 <!ENTITY pref_category_home_summary "Přizpůsobení vaší domovské stránky">
@@ -301,7 +303,7 @@ size. -->
      (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
 <!ENTITY datareporting_crashreporter_title_short "Hlášení pádů">
 <!ENTITY datareporting_wifi_title2 "Geolokační služba od organizace &vendorShortName;">
-<!ENTITY datareporting_wifi_geolocation_summary3 "Pomozte organizaci &vendorShortName; mapovat svět! Sdílejte přibližná umístění mobilních a wi-fi sítí v okolí vašeho zařízení a pomozte tak vylepšit naše geolokační služby">
+<!ENTITY datareporting_wifi_geolocation_summary4 "Pomozte organizaci &vendorShortName; mapovat svět! Sdílejte přibližná umístění mobilních a wi-fi sítí v okolí vašeho zařízení a pomozte tak vylepšit naše geolokační služby.">
 
 
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
