@@ -20,8 +20,8 @@
 
 <!ENTITY calendar.deletecalendar.label          "Ezabatu hautatutako egutegia…">
 <!ENTITY calendar.deletecalendar.accesskey      "E">
-<!ENTITY calendar.unsubscribecalendar.label     "Hautatutako egutegiaren harpidetza kendu">
-<!ENTITY calendar.unsubscribecalendar.accesskey "k">
+<!ENTITY calendar.unsubscribecalendar.label     "Kendu hautatutako egutegiaren harpidetza...">
+<!ENTITY calendar.unsubscribecalendar.accesskey "K">
 <!-- LOCALIZATION NOTE (calendar.removecalendar.label): Removing the calendar
       is the general action of removing it, while deleting means to clear the
       data and unsubscribing means just taking it out of the calendar list. -->

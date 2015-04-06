@@ -16,7 +16,7 @@
 <!ENTITY locationpage.password.label      "Pasahitza:" >
 
 <!ENTITY custompage.shortdescription  "Pertsonalizatu zure egutegia" >
-<!ENTITY custompage.longdescription   "Zure egutegiari ezizen bat eman eta egutegi honen gertaerak koloreztatu ditzakezu" >
+<!ENTITY custompage.longdescription   "Zure egutegiari ezizen bat eman eta egutegi honen gertaerak koloreztatu ditzakezu." >
 
 <!ENTITY finishpage.shortdescription  "Egutegia sortuta" >
-<!ENTITY finishpage.longdescription   "Zure egutegia sortu egin da" >
+<!ENTITY finishpage.longdescription   "Zure egutegia sortu da." >
