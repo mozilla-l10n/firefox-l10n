@@ -2,18 +2,21 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY windowTitle "فایرفاکس WebIDE">
 
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY projectMenu_label "پروژه">
+<!ENTITY projectMenu_accesskey "P">
+<!ENTITY projectMenu_newApp_label "برنامه جدید ...">
+<!ENTITY projectMenu_newApp_accesskey "N">
+<!ENTITY projectMenu_importPackagedApp_label "بازکردن برنامه‌ی بسته بندی شده …">
+<!ENTITY projectMenu_importPackagedApp_accesskey "P">
+<!ENTITY projectMenu_importHostedApp_label "بازکردن برنامه میزبانی شده …">
+<!ENTITY projectMenu_importHostedApp_accesskey "H">
+<!ENTITY projectMenu_selectApp_label "بازکردن برنامه…">
+<!ENTITY projectMenu_selectApp_accesskey "O">
+<!ENTITY projectMenu_play_label "نصب و اجرا">
+<!ENTITY projectMenu_play_accesskey "I">
+<!ENTITY projectMenu_stop_label "توقف برنامه">
 
 
 
