@@ -42,7 +42,7 @@
 <!ENTITY url_bar_default_text2 "Ceeci wala aderesu dam">
 
 <!ENTITY bookmark "Doo-šilbay">
-
+<!ENTITY bookmark_remove "Doo-šilbaa kaa">
 <!ENTITY bookmark_added "Doo-šilbay tontonante">
 <!ENTITY bookmark_removed "Doo-šilbay tuusante">
 <!ENTITY bookmark_updated "Doo-šilbay taagante">
@@ -80,7 +80,7 @@
 <!ENTITY pref_category_advanced "Jinekoyante">
 <!ENTITY pref_category_customize "Hanse boŋše">
 <!ENTITY pref_category_customize_summary "Šintin moo, ceeciyan, nor lokey, zaayan">
-
+<!ENTITY pref_category_customize_alt_summary "Šintin moo, ceeci, nor loku, feeri hiino, zaa">
 <!-- Localization note (pref_category_language) : This is the preferences
      section in which the user picks the locale in which to display Firefox
      UI. The locale includes both language and region concepts. -->
@@ -119,12 +119,14 @@
 <!-- Localization note (overlay_no_synced_devices) : Used when the menu option
      to send a tab to a synced device is pressed and no other synced devices
      are found. -->
+<!ENTITY overlay_no_synced_devices "Firefox kontu dobante kul mana duwandi">
 <!-- Localization note (overlay_share_tab_not_sent) : Used when the menu option
      to send a tab to a synced device is pressed and there is an error
      connecting to the server so the tab could not be sent. The text should be
      divided into two lines (use the newline escape character, "\n", between
      them): the first notifying the user about the failure and the second
      telling the user what to do about it. -->
+<!ENTITY overlay_share_tab_not_sent "War nor lokoo mana hin ka sanbandi.\nPlease ceeci koyne hiino.">
 
 <!ENTITY pref_category_search3 "Ceeci">
 <!ENTITY pref_category_search_summary "War ceeciyan nookey hanse war boŋ še">
@@ -151,9 +153,9 @@
 <!ENTITY pref_category_devtools_summary "Mooray hasaraw kaayan, doo gaayan">
 <!ENTITY pref_developer_paint_flashing "Doo gaayay">
 <!ENTITY pref_developer_remotedebugging "Mooray hasaraw kaakayan">
-
+<!ENTITY pref_category_logins "Huruyan tammaasawey">
 <!ENTITY pref_remember_signons "Honga šennikufaley">
-
+<!ENTITY pref_manage_logins "Huruyan tammaasawey juwal">
 
 <!ENTITY pref_category_home "Šintin">
 <!ENTITY pref_category_home_summary "Šintinmoo hanse war boŋše">
@@ -190,17 +192,22 @@
 <!ENTITY pref_donottrack_title "May ši ay gana">
 <!ENTITY pref_donottrack_summary "&brandShortName; ga har nungey se kaŋ war ši baa boro ma war gana">
 
-
+<!ENTITY tab_queue_toast_message "Feeri hiino">
+<!ENTITY tab_queue_toast_action "Feeri sohõ">
 <!-- Localization note (tab_queue_notification_text_plural) : The
      formatD is replaced with the number of tabs queued.  The
      number of tabs queued is always more than one.  We can't use
      Android plural forms, sadly. See Bug #753859. -->
+<!ENTITY tab_queue_notification_text_plural "Nor loku šettante &formatD;">
 <!-- Localization note (tab_queue_notification_title_plural) : This is the
      title of a notification; we expect more than one tab queued. -->
+<!ENTITY tab_queue_notification_title_plural "Nor loku šettantey">
 <!-- Localization note (tab_queue_notification_title_singular) : This is the
      title of a notification; we expect only one tab queued. -->
+<!ENTITY tab_queue_notification_title_singular "Nor loku šettante">
 <!-- Localization note (tab_queue_notification_text_singular) : This is the
      text of a notification; we expect only one tab queued. -->
+<!ENTITY tab_queue_notification_text_singular "Nor loku šettante 1">
 
 <!ENTITY pref_char_encoding "Harfu hawyan">
 <!ENTITY pref_char_encoding_on "Šilbayboŋoo cebe">
