@@ -4,7 +4,7 @@
 
 <!ENTITY addressbookWindow.title                        "Helbide-liburua">
 <!ENTITY blankResultsPaneMessage.label                  "Helbide liburu honek kontaktuak bilaketa baten ondoren bakarrik erakusten ditu">
-
+<!ENTITY localResultsOnlyMessage.label                  "Urruneko helbide -liburuetako kontaktuak ez dira erakusten zuk bilatu arte">
 <!-- File Menu -->
 <!ENTITY fileMenu.label                                 "Fitxategia">
 <!ENTITY fileMenu.accesskey                             "F">

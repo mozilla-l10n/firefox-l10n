@@ -32,7 +32,7 @@
 <!ENTITY rights.intro-point3-unbranded "Produktu honi aplika dakioken edozein pribatutasun-politika hemen agertu beharko litzateke.">
 <!-- point 4 text for official branded builds -->
 
-<!ENTITY rights.intro-point4a "Baita ere, aukeran, &brandShortName;(e)k aukerazko zerbitzuak eskaintzen ditu; edonola ere, ezin dugu ziurtatu &#037;100 zehatzak edo errorerik gabeak direnik. Xehetasun gehiago, zerbitzuak nola ezgaitu eta bestelako informazioa ">
+<!ENTITY rights.intro-point4a "Baita ere, aukeran, &brandShortName;(e)k aukerazko zerbitzuak eskaintzen ditu; edonola ere, ezin dugu ziurtatu &#037; 100 zehatzak edo errorerik gabeak direnik. Xehetasun gehiago, zerbitzuak nola desgaitu eta bestelako informazioa  ">
 <!ENTITY rights.intro-point4b "zerbitzuaren baldintzetan aurki daiteke">
 <!ENTITY rights.intro-point4c ".">
 <!-- point 4 text for unbranded builds -->

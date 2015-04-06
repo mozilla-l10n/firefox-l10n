@@ -74,7 +74,7 @@
 <!ENTITY abbreviateOff.label "Izen laburtuak (adibidez, 'n.p.m.mail-news')">
 <!ENTITY advancedButton.label "Aurreratua…">
 <!ENTITY advancedButton.accesskey "u">
-
+<!ENTITY serverDefaultCharset2.label "Lehenetsitako testu kodeketa:">
 <!ENTITY localPath.label "Direktorio lokala:">
 <!ENTITY localFolderPicker.label "Hautatu direktorio lokala">
 <!ENTITY browseFolder.label "Arakatu…">
@@ -84,7 +84,7 @@
 
 <!ENTITY accountTitle.label "Kontu-ezarpenak">
 <!ENTITY accountSettingsDesc.label "Ondorengoa kontu berezia da. Ez dago identitaterik honi lotuta.">
-
-
-
-
+<!ENTITY storeType.label "Mezu biltegi mota:">
+<!ENTITY storeType.accesskey "m">
+<!ENTITY mboxStore2.label "Karpeta bakoitzeko fitxategi bat (mbox)">
+<!ENTITY maildirStore.label "Mezu bakoitzeko fitxategi bat (maildir)">

@@ -16,8 +16,8 @@
 
 
 
-
-
+<!ENTITY mboxStore2.label              "Karpeta bakoitzeko fitxategi bat (mbox)">
+<!ENTITY maildirStore.label            "Mezu bakoitzeko fitxategi bat (maildir)">
 
 <!ENTITY scrolling.label               "Korritzea">
 <!ENTITY useAutoScroll.label           "Erabili korritze automatikoa">
