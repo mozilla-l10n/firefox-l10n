@@ -303,7 +303,7 @@ size. -->
      (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
 <!ENTITY datareporting_crashreporter_title_short "Kaŋyan bayrandikaw">
 <!ENTITY datareporting_wifi_title2 "&vendorShortName; gorodoo goymee">
-
+<!ENTITY datareporting_wifi_geolocation_summary4 "Wa &vendorShortName; faaba k\u0027adduɲɲaa wanga! War jinaa Wi-Fi manantaa nda talfon ceedogoo žemni k\u0027ir gorodoo maateyan goyey boryandi ka tonton.">
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
      actual notification that an update is available. -->
@@ -318,7 +318,7 @@ size. -->
 <!ENTITY quit "Fatta">
 
 <!ENTITY addons "Tontoney">
-
+<!ENTITY logins "Huruyan tammaasawey">
 <!ENTITY downloads "Zumandiyaney">
 <!ENTITY apps "Porogaramizey">
 <!ENTITY char_encoding "Harfu hawyan">
@@ -375,9 +375,11 @@ size. -->
      where normally a username would be displayed. In this case, no username was found, and this placeholder
      contains brackets to indicate this is not actually a username, but rather a placeholder -->
 
+<!ENTITY doorhanger_login_no_username "[Goykaw maa kul šii]">
+<!ENTITY doorhanger_login_edit_title "Huruyan tammaasawey fasal">
 <!ENTITY doorhanger_login_edit_username_hint "Goykaw maa">
-
-
+<!ENTITY doorhanger_login_edit_password_hint "Šennikufal">
+<!ENTITY doorhanger_login_edit_toggle "Šennikufaley cebe">
 
 <!ENTITY pref_titlebar_mode "Maa zuu">
 <!ENTITY pref_titlebar_mode_title "Maa zuu cebe">
@@ -388,7 +390,8 @@ size. -->
 <!ENTITY pref_scroll_title_bar2 "Dijikul ceeciyan">
 <!ENTITY pref_scroll_title_bar_summary "&brandShortName; maa zuu tugu nda moɲoo ga cenda ka zunbu">
 
-
+<!ENTITY pref_tab_queue_title "Feeri hiino">
+<!ENTITY pref_tab_queue_summary "Nor lokey ganji i ma feera dogoo ra, amma nor loku šettantey kul feeri hiino kaŋ &brandShortName; ga zumandi.">
 <!-- Localization note (page_removed): This string appears in a toast message when
      any page is removed frome about:home. This includes pages that are in history,
      bookmarks, or reading list. -->
@@ -426,7 +429,7 @@ size. -->
 
 <!ENTITY masterpassword_create_title "Takaddaɲaa šennikufaloo tee">
 <!ENTITY masterpassword_remove_title "Takaddaɲaa šennikufal kaa">
-
+<!ENTITY masterpassword_password "Šennikufal">
 <!ENTITY masterpassword_confirm "Šennikufaloo tabatandi">
 
 <!ENTITY button_ok "Ayyo">
