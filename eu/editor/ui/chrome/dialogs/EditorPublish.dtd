@@ -48,10 +48,10 @@
 <!ENTITY siteName.label               "Gunearen izena:">
 <!ENTITY siteName.accesskey           "e">
 <!ENTITY siteName.tooltip             "Argitaratze gunea identifikatzeko ezizena (adib.: 'NireGunea')">
-<!ENTITY siteUrl.label                "Argitaratze gunea (adib.: 'ftp://ftp.nireisp.com/erabiltzailea'):">
+<!ENTITY siteUrl.label                "Argitaratze helbidea (adib.: 'ftp://ftp.nireisp.com/nireeerabiltzailea'):">
 <!ENTITY siteUrl.accesskey            "A">
 <!ENTITY siteUrl.tooltip              "Zure hornitzaile edo hosting-ak emandako FTP:// edo HTTP:// helbidea">
-<!ENTITY browseUrl.label              "Zure hasiera-orriaren HTTP helbidea (adib.: 'http://www.nireisp.com/erabiltzailea'):">
+<!ENTITY browseUrl.label              "Zure hasiera-orriaren HTTP helbidea (adib.: 'http://www.nireisp.com/nireerabiltzailea'):">
 <!ENTITY browseUrl.accesskey          "T">
 <!ENTITY browseUrl.tooltip            "Zure etxe direktorioaren HTTP:// helbidea (ez jarri fitxategi-izena)">
 <!ENTITY username.label               "Erabiltzaile-izena:">
