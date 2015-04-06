@@ -15,8 +15,8 @@
 <!ENTITY saveCmd.accesskey "U">
 <!ENTITY saveAsCmd.label "Uložit jako…">
 <!ENTITY saveAsCmd.accesskey "l">
-<!ENTITY saveAsChangeEncodingCmd.label "Uložit ve znakové sadě">
-<!ENTITY saveAsChangeEncodingCmd.accesskey "v">
+<!ENTITY saveAsChangeEncodingCmd2.label "Uložit a změnit kódování textu">
+<!ENTITY saveAsChangeEncodingCmd2.accesskey "v">
 <!ENTITY publishCmd.label "Publikovat">
 <!ENTITY publishCmd.accesskey "P">
 <!ENTITY publishCmd.key "S">
