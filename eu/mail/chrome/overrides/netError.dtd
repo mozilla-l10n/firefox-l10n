@@ -33,8 +33,11 @@
 <!ENTITY generic.longDesc "<p>&brandShortName;(e)k ezin du orria kargatu.</p>">
 
 <!ENTITY malformedURI.title "Helbidea ez da baliozkoa">
-<!ENTITY malformedURI.longDesc "<ul> <li>Web helbideak normalean <strong>http://www.adibidez.net/</strong> formatukoak dira</li> 
-<li>Ziurtatu aurrerako barrak erabiltzen dituzula (adib.<strong>/</strong>).</li> 
+<!ENTITY malformedURI.longDesc "<ul> 
+<li>Web helbideek <strong>http://www.adibidea.com/</strong> 
+formatua izan ohi dute</li> 
+<li>Ziurtatu aurrerako barrak erabiltzen ari zarela (hau da, 
+<strong>/</strong>).</li> 
 </ul>">
 
 <!ENTITY netInterrupt.title "Konexioa eten egin da">
@@ -45,7 +48,8 @@
 
 <!ENTITY netOffline.title "Lineaz kanpo">
 <!ENTITY netOffline.longDesc2 "<ul> 
-<li>Sakatu &quot;Saiatu berriro&quot; linean jarri eta orria berritzeko.</li> </ul>">
+<li>Sakatu &quot;Saiatu berriro&quot; linean jarri eta orria berritzeko.</li> 
+</ul>">
 
 <!ENTITY contentEncodingError.title "Edukiaren kodeketa-errorea">
 <!ENTITY contentEncodingError.longDesc "<ul> 
