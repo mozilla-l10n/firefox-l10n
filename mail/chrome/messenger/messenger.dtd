@@ -739,11 +739,11 @@
 <!ENTITY contextMoveCopyMsgRecentMenu.accesskey "R">
 <!ENTITY contextCopyMsgMenu.label "Copier vers">
 <!ENTITY contextCopyMsgMenu.accesskey "c">
-<!ENTITY contextKillThreadMenu.label "Ignorer le sujet">
+<!ENTITY contextKillThreadMenu.label "Ignorer la discussion">
 <!ENTITY contextKillThreadMenu.accesskey "I">
-<!ENTITY contextKillSubthreadMenu.label "Ignorer le sous-sujet">
-<!ENTITY contextWatchThreadMenu.label "Surveiller le sujet">
-<!ENTITY contextSaveAs.label "Enregistrer comme…">
+<!ENTITY contextKillSubthreadMenu.label "Ignorer le sous-fil de discussion">
+<!ENTITY contextWatchThreadMenu.label "Surveiller la discussion">
+<!ENTITY contextSaveAs.label "Enregistrer sous…">
 <!ENTITY contextSaveAs.accesskey "s">
 <!ENTITY contextPrint.label "Imprimer…">
 <!ENTITY contextPrint.accesskey "p">
