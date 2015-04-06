@@ -3,18 +3,19 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY aboutDownloads.title                      "Gordetako fitxategiak">
-
+<!ENTITY aboutDownloads.empty                      "Gordetako fitxategirik ez">
 <!-- LOCALIZATION NOTE (cmd.show.label, cmd.show.accesskey, cmd.showMac.label,
      cmd.showMac.accesskey):
      The show and showMac commands are never shown together, thus they can share
      the same access key (though the two access keys can also be different).
      -->
-
-
-
+<!ENTITY cmd.show.label                            "Ireki dagoen karpeta">
+<!ENTITY cmd.show.accesskey                        "k">
+<!ENTITY cmd.showMac.label                         "Erakutsi Finder-ean">
+<!ENTITY cmd.showMac.accesskey                     "F">
 <!ENTITY cmd.open.label                            "Ireki">
 <!ENTITY cmd.open.accesskey                        "I">
 
 
-
-
+<!ENTITY cmd.clearDownloads.label                  "Garbitu deskargak">
+<!ENTITY cmd.clearDownloads.accesskey              "d">

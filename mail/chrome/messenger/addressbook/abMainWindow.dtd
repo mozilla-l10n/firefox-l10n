@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY addressbookWindow.title                        "Helbide-liburua">
-
+<!ENTITY blankResultsPaneMessage.label                  "Helbide liburu honek kontaktuak bilaketa baten ondoren bakarrik erakusten ditu">
 
 <!-- File Menu -->
 <!ENTITY fileMenu.label                                 "Fitxategia">
