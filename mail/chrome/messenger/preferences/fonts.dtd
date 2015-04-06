@@ -71,10 +71,10 @@
 <!-- Language settings -->
 <!ENTITY sendDefaultCharset.label         "Utgående e-post:">
 <!ENTITY sendDefaultCharset.accesskey     "U">
-<!ENTITY languagesTitle1.label            "Teckenuppsättningar">
-<!ENTITY composingDescription.label       "Ange standardteckenuppsättning för utgående och inkommande e-post">
+<!ENTITY languagesTitle2.label            "Textkodning">
+<!ENTITY composingDescription2.label      "Ange standardtextkodning för att skicka och ta emot e-post">
 
 <!ENTITY viewDefaultCharsetList.label     "Inkommande e-post:">
 <!ENTITY viewDefaultCharsetList.accesskey "e">
-<!ENTITY replyInDefaultCharset2.label     "Använd om möjligt standardteckenuppsättningen för svar">
-<!ENTITY replyInDefaultCharset2.accesskey "d">
+<!ENTITY replyInDefaultCharset3.label     "Använd om möjligt standardtextkodning i svaren">
+<!ENTITY replyInDefaultCharset3.accesskey "n">

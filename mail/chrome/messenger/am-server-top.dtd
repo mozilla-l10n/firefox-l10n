@@ -74,7 +74,7 @@
 <!ENTITY abbreviateOff.label "som förkortning (Exempelvis, ”n.p.m.mail-news”)">
 <!ENTITY advancedButton.label "Avancerat…">
 <!ENTITY advancedButton.accesskey "c">
-<!ENTITY serverDefaultCharset.label "Standardteckenuppsättning:">
+<!ENTITY serverDefaultCharset2.label "Standardtextkodning:">
 <!ENTITY localFolderPicker.label "Välj lokal katalog">
 <!ENTITY browseFolder.label "Bläddra…">
 <!ENTITY browseFolder.accesskey "B">
@@ -86,5 +86,5 @@
 <!ENTITY accountSettingsDesc.label "Detta är ett specialkonto. Det finns ingen identitet knuten till det.">
 <!ENTITY storeType.label "Lagringstyp för meddelande:">
 <!ENTITY storeType.accesskey "t">
-<!ENTITY mboxStore.label "En stor fil (mbox)">
-<!ENTITY maildirStore.label "En fil per meddelande (maildir)">
+<!ENTITY mboxStore2.label "Fil per mapp (mbox)">
+<!ENTITY maildirStore.label "Fil per meddelande (maildir)">

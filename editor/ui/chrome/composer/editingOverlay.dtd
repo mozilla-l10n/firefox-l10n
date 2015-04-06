@@ -15,8 +15,8 @@
 <!ENTITY saveCmd.accesskey "S">
 <!ENTITY saveAsCmd.label "Spara som…">
 <!ENTITY saveAsCmd.accesskey "a">
-<!ENTITY saveAsChangeEncodingCmd.label "Spara och ändra teckenkodning">
-<!ENTITY saveAsChangeEncodingCmd.accesskey "ä">
+<!ENTITY saveAsChangeEncodingCmd2.label "Spara och ändra textkodning">
+<!ENTITY saveAsChangeEncodingCmd2.accesskey "k">
 <!ENTITY publishCmd.label "Publicera">
 <!ENTITY publishCmd.accesskey "b">
 <!ENTITY publishCmd.key "S">

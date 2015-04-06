@@ -16,8 +16,8 @@
 <!ENTITY allowHWAccel.accesskey        "h">
 <!ENTITY storeType.label               "Lagringstyp för meddelande i nya konton:">
 <!ENTITY storeType.accesskey           "t">
-<!ENTITY mboxStore.label               "En stor fil (mbox)">
-<!ENTITY maildirStore.label            "En fil per meddelande (maildir)">
+<!ENTITY mboxStore2.label              "Fil per mapp (mbox)">
+<!ENTITY maildirStore.label            "Fil per meddelande (maildir)">
 
 <!ENTITY scrolling.label               "Scrollning">
 <!ENTITY useAutoScroll.label           "Använd automatisk scrollning">
