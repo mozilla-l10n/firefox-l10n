@@ -10,6 +10,7 @@
 
 <!ENTITY aboutTelemetry.generalDataSection "  Allmän data">
 
+<!ENTITY aboutTelemetry.telemetryLogSection "  Telemetri-logg">
 
 <!ENTITY aboutTelemetry.slowSqlSection "  Långsamma SQL-satser">
 
