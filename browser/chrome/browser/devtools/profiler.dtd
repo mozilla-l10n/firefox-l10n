@@ -45,7 +45,7 @@
 
 <!ENTITY profilerUI.toolbar.waterfall "Zaman çizelgesi">
 <!ENTITY profilerUI.toolbar.js-calltree "JavaScript">
-
+<!ENTITY profilerUI.toolbar.memory-calltree1 "Atamalar">
 
 
 <!-- LOCALIZATION NOTE (profilerUI.table.*): These strings are displayed
