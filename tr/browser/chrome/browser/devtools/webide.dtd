@@ -94,7 +94,7 @@
 <!ENTITY details_location "Konum">
 <!ENTITY details_manifestURL "Uygulama kimliği">
 <!ENTITY details_removeProject_button "Projeyi kaldır">
-
+<!ENTITY details_showPrepackageLog_button "Ön paket günlüğünü göster">
 <!-- New App -->
 
 <!ENTITY newAppWindowTitle "Yeni uygulama">
@@ -146,7 +146,7 @@
 <!ENTITY runtimedetails_adbIsRoot "ADB root mu?: ">
 <!ENTITY runtimedetails_summonADBRoot "root cihaz">
 <!ENTITY runtimedetails_ADBRootWarning "(kilitsiz bootloader gerekir)">
-
+<!ENTITY runtimedetails_unrestrictedPrivileges "Kısıtlamasız DevTools izinleri: ">
 <!ENTITY runtimedetails_requestPrivileges "daha fazla izin iste">
 <!ENTITY runtimedetails_privilegesWarning "(Cihaz yeniden başlatılacaktır. Root erişimi gerekir.)">
 <!-- Device Preferences and Settings -->
@@ -191,4 +191,7 @@
 <!ENTITY wifi_auth_yes_scanner "QR tarayıcı mı görüyorsunuz?">
 <!-- LOCALIZATION NOTE (wifi_auth_token_request): Instructions requesting the
      user to transfer authentication info by transferring a token. -->
+<!ENTITY wifi_auth_token_request "Diğer cihaz QR kodunu taramanız yerine jeton girmenizi isterse lütfen aşağıdaki değeri kopyalayıp diğer cihaza yapıştırın:">
 <!-- Logs panel -->
+
+<!ENTITY logs_title "Ön paketleme komut günlükleri">
