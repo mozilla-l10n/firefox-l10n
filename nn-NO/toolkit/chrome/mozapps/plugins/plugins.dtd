@@ -39,3 +39,4 @@
 
 <!ENTITY plugin.file                                         "Fil">
 <!ENTITY plugin.mimeTypes                                    "MIME-typar">
+<!ENTITY plugin.flashProtectedMode.label                     "Bruk Adobe Flash beskytta-modus">
