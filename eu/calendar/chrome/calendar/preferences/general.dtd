@@ -13,8 +13,8 @@
 <!ENTITY pref.dateformat.long "Luzea" >
 <!ENTITY pref.dateformat.short "Laburra"  >
 
-<!ENTITY pref.timezones.caption "Ordu zonaldeak">
-<!ENTITY pref.timezones.label "Zure ordu zonalde gertueneko hiria hautatu:">
+<!ENTITY pref.timezones.caption "Ordu-zonaldea">
+<!ENTITY pref.timezones.label "Zure ordu-zonaldetik gertueneko hiria hautatu:">
 <!ENTITY pref.timezones.accesskey "Z">
 
 <!ENTITY pref.defaults.label "Elementu berrien balio lehenetsiak">
