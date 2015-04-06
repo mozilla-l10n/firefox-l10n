@@ -44,7 +44,7 @@
 <!ENTITY insertMathCmd.accesskey "M">
 <!ENTITY insertCharsCmd.label "Karaktere eta sinboloak…">
 <!ENTITY insertCharsCmd.accesskey "K">
-<!ENTITY insertBreakAllCmd.label "Irudi azpitik jauzia">
+<!ENTITY insertBreakAllCmd.label "Irudi(ar)en azpitik jauzia egin">
 <!ENTITY insertBreakAllCmd.accesskey "k">
 <!-- Used just in context popup. -->
 

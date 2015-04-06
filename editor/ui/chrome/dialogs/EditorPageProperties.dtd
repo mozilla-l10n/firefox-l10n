@@ -14,4 +14,4 @@
 <!ENTITY descriptionInput.accessKey "A">
 <!ENTITY locationNewPage.label "[Orri berria, oraindik gorde gabe]">
 <!ENTITY EditHEADSource1.label "Erabiltzaile aurreratuak:">
-<!ENTITY EditHEADSource2.label "&lt;head&gt; (goiburua) atalaren edukiak aldatzeko ikusi menuan edo edizio modua tresna-barran, &quot;HTML iturburua&quot; aukeratu.">
+<!ENTITY EditHEADSource2.label "&lt;head&gt; (goiburua) atalaren edukiak editatzeko erabili &quot;HTML iturburua&quot; Ikusi menuan  edo Edizio Modua tresna-barran.">
