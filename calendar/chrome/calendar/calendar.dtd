@@ -246,8 +246,8 @@
 <!ENTITY calendar.context.properties.accesskey         "P">
 
 <!-- LOCALIZATION NOTE (calendar.context.togglevisible.accesskey)
-     This is the access key used for the showCalendar string -->
-<!ENTITY calendar.context.togglevisible.accesskey      "f">
+     This is the access key used for showCalendar and hideCalendar strings -->
+<!ENTITY calendar.context.togglevisible.accesskey      "e">
 
 <!-- LOCALIZATION NOTE (calendar.context.showonly.accesskey)
      This is the access key used for the showOnlyCalendar string -->
