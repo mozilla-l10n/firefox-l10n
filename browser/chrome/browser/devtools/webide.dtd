@@ -17,77 +17,88 @@
 <!ENTITY projectMenu_play_label "نصب و اجرا">
 <!ENTITY projectMenu_play_accesskey "I">
 <!ENTITY projectMenu_stop_label "توقف برنامه">
+<!ENTITY projectMenu_stop_accesskey "S">
+<!ENTITY projectMenu_debug_label "عیب یابی برنامه">
+<!ENTITY projectMenu_debug_accesskey "D">
+<!ENTITY projectMenu_remove_label "حذف پروژه">
+<!ENTITY projectMenu_remove_accesskey "R">
+<!ENTITY projectMenu_showPrefs_label "ترجیحات">
+<!ENTITY projectMenu_showPrefs_accesskey "e">
 
+<!ENTITY projectMenu_manageComponents_accesskey "M">
 
-
-
-
-
-
-
-
-
-
+<!ENTITY runtimeMenu_accesskey "R">
 <!ENTITY runtimeMenu_disconnect_label "قطع ارتباط">
-
-
-
+<!ENTITY runtimeMenu_disconnect_accesskey "D">
+<!ENTITY runtimeMenu_showPermissionTable_label "جدول مجوزها">
+<!ENTITY runtimeMenu_showPermissionTable_accesskey "P">
 <!ENTITY runtimeMenu_takeScreenshot_label "عکس صفحه">
+<!ENTITY runtimeMenu_takeScreenshot_accesskey "S">
 
+<!ENTITY runtimeMenu_showDetails_accesskey "E">
 
+<!ENTITY runtimeMenu_showMonitor_accesskey "M">
 
-
-
-
-
-
-
+<!ENTITY runtimeMenu_showDevicePrefs_accesskey "D">
+<!ENTITY runtimeMenu_showSettings_label "تنظیمات دستگاه">
+<!ENTITY runtimeMenu_showSettings_accesskey "s">
 
 <!ENTITY viewMenu_label "نمایش">
+<!ENTITY viewMenu_accesskey "V">
 
-
-
+<!ENTITY viewMenu_toggleEditor_accesskey "E">
 <!ENTITY viewMenu_zoomin_label "بزرگ‌نمایی">
-
+<!ENTITY viewMenu_zoomin_accesskey "I">
 <!ENTITY viewMenu_zoomout_label "کوچک‌نمایی">
-
+<!ENTITY viewMenu_zoomout_accesskey "O">
 
 
 
 
 <!-- We try to repicate Firefox' bindings: -->
 <!-- quit app -->
+
+<!ENTITY key_quit "ٌW">
 <!-- open menu -->
+<!ENTITY key_showProjectPanel "O">
 <!-- reload app -->
+<!ENTITY key_play "R">
 <!-- show toolbox -->
 <!ENTITY key_toggleToolbox "VK_F12">
 <!-- toggle sidebar -->
+<!ENTITY key_toggleEditor "B">
 <!-- zoom -->
+<!ENTITY key_zoomin "+">
+<!ENTITY key_zoomin2 "=">
+<!ENTITY key_zoomout "-">
+<!ENTITY key_resetzoom "0">
 
-
-
-
+<!ENTITY projectPanel_myProjects "پروژه های من">
 
 <!ENTITY projectPanel_tabs "زبانه‌ها">
 
 
 
-
+<!ENTITY runtimePanel_other "غیره">
 <!ENTITY runtimePanel_installsimulator "نصب شبیه‌ساز">
-
-
+<!ENTITY runtimePanel_noadbhelper "نصب راهنما ADB">
+<!ENTITY runtimePanel_nousbdevice "نمی‌توانید دستگاه های خود را مشاهده کنید؟">
 <!-- Lense -->
 
-
+<!ENTITY details_valid_header "معتبر">
+<!ENTITY details_warning_header "اخطارها">
+<!ENTITY details_error_header "خطاها">
 <!ENTITY details_description "شرح">
 <!ENTITY details_location "مکان">
-
-
-
+<!ENTITY details_manifestURL " شناسه برنامه">
+<!ENTITY details_removeProject_button "حذف پروژه">
+<!ENTITY details_showPrepackageLog_button "نمایش پرونده قبل از بسته‌بندی ">
 <!-- New App -->
 
-
-
+<!ENTITY newAppWindowTitle "برنامه جدید">
+<!ENTITY newAppHeader "انتخاب قالب">
+<!ENTITY newAppLoadingTemplate "بارگذاری قالب ها ...">
+<!ENTITY newAppProjectName "نام پروژه:">
 <!-- Decks -->
 
 
@@ -102,13 +113,13 @@
 
 
 
+<!ENTITY prefs_options_rememberlastproject "به‌خاطر سپردن آخرین پروژه">
+<!ENTITY prefs_options_rememberlastproject_tooltip "برگرداندن آخرین پروژه زمانی که WebIDE در حال اجراست">
+<!ENTITY prefs_options_templatesurl "URL قالب ها ">
 
-
-
-
-
-
-
+<!ENTITY prefs_options_showeditor "نمایش ویرایشگر">
+<!ENTITY prefs_options_showeditor_tooltip "نمایش ویرایشگر داخلی">
+<!ENTITY prefs_options_tabsize "اندازه زبانه">
 
 
 
@@ -120,6 +131,8 @@
 
 <!ENTITY prefs_options_keybindings_default "پیش‌فرض">
 <!-- Permissions Table -->
+
+<!ENTITY permissionstable_title "جدول مجوزها">
 <!ENTITY permissionstable_name_header "نام">
 <!-- Runtime Details -->
 
