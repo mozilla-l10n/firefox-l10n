@@ -337,7 +337,7 @@
 <!ENTITY event.freebusy.zoom                    "Zooma:">
 <!ENTITY event.freebusy.legend.free             "Libre" >
 <!ENTITY event.freebusy.legend.busy             "Okupatuta" >
-<!ENTITY event.freebusy.legend.busy_tentative   "Behin-behinekoa" >
+<!ENTITY event.freebusy.legend.busy_tentative   "Saiakera" >
 <!ENTITY event.freebusy.legend.busy_unavailable "Bulegotik kanpo" >
 <!ENTITY event.freebusy.legend.unknown          "Informaziorik gabe" >
 <!ENTITY event.attendee.role.required           "Beharrezkoa bertaratzea">
@@ -351,7 +351,7 @@
 <!-- Timezone dialog -->
 
 <!ENTITY timezone.title.label            "Mesedez zehaztu ordu-zonaldea">
-<!ENTITY event.timezone.custom.label     "Ordu-zona gehiago…">
+<!ENTITY event.timezone.custom.label     "Ordu-zonalde gehiago…">
 <!-- Read-Only dialog -->
 
 <!ENTITY read.only.general.label         "Orokorra">

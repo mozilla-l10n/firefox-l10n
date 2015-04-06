@@ -213,7 +213,7 @@
 <!ENTITY priority.level.high                "Altua">
 <!ENTITY priority.level.high.accesskey      "H">
 
-<!ENTITY calendar.context.postpone.1hour.label      "ordu bat">
+<!ENTITY calendar.context.postpone.1hour.label      "1 ordu">
 <!ENTITY calendar.context.postpone.1hour.accesskey  "o">
 <!ENTITY calendar.context.postpone.1day.label       "egun bat">
 <!ENTITY calendar.context.postpone.1day.accesskey   "g">
@@ -298,9 +298,9 @@
 <!ENTITY calendar.alarm.snooze.15minutes.label      "15 minutu" >
 <!ENTITY calendar.alarm.snooze.30minutes.label      "30 minutu" >
 <!ENTITY calendar.alarm.snooze.45minutes.label      "45 minutu" >
-<!ENTITY calendar.alarm.snooze.1hour.label          "ordu bat" >
+<!ENTITY calendar.alarm.snooze.1hour.label          "1 ordu" >
 <!ENTITY calendar.alarm.snooze.2hours.label         "2 ordu" >
-<!ENTITY calendar.alarm.snooze.1day.label           "egun bat" >
+<!ENTITY calendar.alarm.snooze.1day.label           "1 egun" >
 <!-- LOCALIZATION NOTE (calendar.alarm.snooze.cancel)
      This string is not seen in the UI, it is read by screen readers when the
      user focuses the "Cancel" button in the "Snooze for..." popup of the alarm

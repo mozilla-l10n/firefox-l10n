@@ -37,6 +37,6 @@
 
 
 
-<!ENTITY pref.accessibility.label "Erabilgarritasuna" >
-<!ENTITY pref.systemcolors.label "Optimizatu koloreak erabilgarritasunerako" >
+<!ENTITY pref.accessibility.label "Erabilerraztasuna" >
+<!ENTITY pref.systemcolors.label "Optimizatu koloreak erabilerraztasunerako" >
 <!ENTITY pref.systemcolors.accesskey "k">
