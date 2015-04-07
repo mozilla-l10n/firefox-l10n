@@ -81,3 +81,4 @@
 <!ENTITY debuggerUI.context.newTab.accesskey "A">
 <!ENTITY debuggerUI.context.copyUrl "Copia URL">
 <!ENTITY debuggerUI.context.copyUrl.accesskey "C">
+<!ENTITY debuggerUI.context.copyUrl.key "C">
