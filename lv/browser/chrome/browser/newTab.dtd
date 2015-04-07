@@ -5,9 +5,9 @@
 
 <!ENTITY newtab.pageTitle "Jauna cilne">
 <!ENTITY newtab.customize.title "Pielāgojiet jaunās cilnes lapu">
-<!ENTITY newtab.customize.enhanced "Uzlabota">
-<!ENTITY newtab.customize.classic "Klasiska">
-<!ENTITY newtab.customize.blank "Tukša">
+
+
+
 <!ENTITY newtab.customize.what "Kas ir šī lapa?">
 <!ENTITY newtab.intro.header "Kas ir šī lapa?">
 <!ENTITY newtab.undo.removedLabel "Bildītes nav.">
