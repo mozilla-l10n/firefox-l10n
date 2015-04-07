@@ -5,14 +5,10 @@
 <!ENTITY aboutPrivateBrowsing.title            "מצב גלישה פרטית מופעל!">
 <!ENTITY aboutPrivateBrowsing.title.normal     "האם לפתוח חלון גלישה פרטית?">
 
-<!ENTITY aboutPrivateBrowsing.description      "
-היסטורית הגלישה, החיפושים, ההורדות וטפסים, עוגיות וקבצים זמניים. למרות זאת, קבצים שהורדו וסימניות שנוצרו ישמרו.">
-
 <!ENTITY aboutPrivateBrowsing.subtitle         "&brandShortName; לא יזכור היסטוריה כלשהי בחלון זה.">
 <!ENTITY aboutPrivateBrowsing.subtitle.normal  "&brandShortName; לא יזכור היסטוריה כלשהי בחלונות פרטיים.">
 
-<!ENTITY privatebrowsingpage.openPrivateWindow.label "פתיחת חלון פרטי">
-<!ENTITY privatebrowsingpage.openPrivateWindow.accesskey "פ">
+<!ENTITY aboutPrivateBrowsing.description      "היסטורית הגלישה, החיפושים, ההורדות וטפסים, עוגיות וקבצים זמניים. למרות זאת, קבצים שהורדו וסימניות שנוצרו ישמרו.">
 
 <!ENTITY aboutPrivateBrowsing.notPrivate       "אינך כעת בחלון גלישה פרטית.">
 
@@ -21,7 +17,3 @@
 
 <!ENTITY privatebrowsingpage.openPrivateWindow.label "פתיחת חלון פרטי">
 <!ENTITY privatebrowsingpage.openPrivateWindow.accesskey "פ">
-
-<!-- TO BE REMOVED POST-AUSTRALIS --> 
-<!-- LOCALIZATION NOTE (privatebrowsingpage.howToStart3): please leave &basePBMenu.label; intact in the translation -->
-<!ENTITY privatebrowsingpage.howToStart3               "כדי להתחיל בגלישה פרטית, ניתן לבחור באפשרות &basePBMenu.label; &gt; &newPrivateWindow.label;.">
