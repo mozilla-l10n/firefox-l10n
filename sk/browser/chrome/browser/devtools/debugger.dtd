@@ -211,3 +211,4 @@
   -  the same as netmonitorUI.context.copyUrl -->
 <!ENTITY debuggerUI.context.copyUrl           "Kopírovať adresu">
 <!ENTITY debuggerUI.context.copyUrl.accesskey "K">
+<!ENTITY debuggerUI.context.copyUrl.key "C">
