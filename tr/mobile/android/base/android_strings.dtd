@@ -153,9 +153,9 @@
 <!ENTITY pref_category_devtools_summary "Uzaktan hata ayıklama, paint flashing">
 <!ENTITY pref_developer_paint_flashing "Paint flashing">
 <!ENTITY pref_developer_remotedebugging "Uzaktan hata ayıklama">
-
+<!ENTITY pref_category_logins "Hesaplar">
 <!ENTITY pref_remember_signons "Parolaları hatırla">
-
+<!ENTITY pref_manage_logins "Hesapları yönet">
 
 <!ENTITY pref_category_home "Başlangıç">
 <!ENTITY pref_category_home_summary "Başlangıç sayfanızı özelleştirin">
@@ -198,12 +198,16 @@
      formatD is replaced with the number of tabs queued.  The
      number of tabs queued is always more than one.  We can't use
      Android plural forms, sadly. See Bug #753859. -->
+<!ENTITY tab_queue_notification_text_plural "&formatD; sekme sıraya alındı">
 <!-- Localization note (tab_queue_notification_title_plural) : This is the
      title of a notification; we expect more than one tab queued. -->
+<!ENTITY tab_queue_notification_title_plural "Sıradaki sekmeler">
 <!-- Localization note (tab_queue_notification_title_singular) : This is the
      title of a notification; we expect only one tab queued. -->
+<!ENTITY tab_queue_notification_title_singular "Sıradaki sekme">
 <!-- Localization note (tab_queue_notification_text_singular) : This is the
      text of a notification; we expect only one tab queued. -->
+<!ENTITY tab_queue_notification_text_singular "1 sekme sıraya alındı">
 
 <!ENTITY pref_char_encoding "Karakter kodlamasını göster">
 <!ENTITY pref_char_encoding_on "Menüyü göster">
@@ -314,7 +318,7 @@ size. -->
 <!ENTITY quit "Çık">
 
 <!ENTITY addons "Eklentiler">
-
+<!ENTITY logins "Hesaplar">
 <!ENTITY downloads "İndirilenler">
 <!ENTITY apps "Uygulamalar">
 <!ENTITY char_encoding "Karakter kodlaması">
@@ -371,6 +375,8 @@ size. -->
      where normally a username would be displayed. In this case, no username was found, and this placeholder
      contains brackets to indicate this is not actually a username, but rather a placeholder -->
 
+<!ENTITY doorhanger_login_no_username "[Kullanıcı adı yok]">
+<!ENTITY doorhanger_login_edit_title "Hesabı düzenle">
 <!ENTITY doorhanger_login_edit_username_hint "Kullanıcı adı">
 <!ENTITY doorhanger_login_edit_password_hint "Parola">
 <!ENTITY doorhanger_login_edit_toggle "Parolayı göster">
@@ -385,7 +391,7 @@ size. -->
 <!ENTITY pref_scroll_title_bar_summary "Sayfada aşağı kaydırırken &brandShortName; başlık çubuğunu gizle">
 
 <!ENTITY pref_tab_queue_title "Daha sonra aç">
-
+<!ENTITY pref_tab_queue_summary "Sekmelerin hemen açılmasını önle, ama &brandShortName; bir daha açıldığında sıradaki tüm sekmeleri aç.">
 <!-- Localization note (page_removed): This string appears in a toast message when
      any page is removed frome about:home. This includes pages that are in history,
      bookmarks, or reading list. -->
