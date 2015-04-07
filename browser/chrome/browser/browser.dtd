@@ -587,6 +587,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fullZoomEnlargeCmd.accesskey   "Y">
 <!ENTITY fullZoomEnlargeCmd.commandkey  "+">
 <!-- + is above this key on many keyboards -->
+<!ENTITY fullZoomEnlargeCmd.commandkey2 "="> 
 <!ENTITY fullZoomEnlargeCmd.commandkey3 "">
 
 <!ENTITY fullZoomReduceCmd.label        "Uzaklaş">
@@ -609,8 +610,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY quitApplicationCmdWin2.label       "Çık">
 <!ENTITY quitApplicationCmdWin2.accesskey   "k">
 <!ENTITY quitApplicationCmdWin2.tooltip     "&brandShorterName; tarayıcısından çık">
-
-
+<!ENTITY goBackCmd.commandKey "[">
+<!ENTITY goForwardCmd.commandKey "]">
 <!ENTITY quitApplicationCmd.label       "Çık"> 
 <!ENTITY quitApplicationCmd.accesskey   "k">
 <!ENTITY quitApplicationCmdMac2.label   "&brandShorterName; uygulamasından çık">
@@ -637,7 +638,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY editPopupSettingsUnix.label "Açılır pencere engelleyici tercihlerini düzenle…">
 <!ENTITY editPopupSettings.label "İstenmeyen pencere seçeneklerini düzenle…">
 <!ENTITY editPopupSettings.accesskey "e">
-
+<!ENTITY dontShowMessage.accesskey "m">
 
 <!ENTITY bidiSwitchPageDirectionItem.label        "Sayfanın yönünü değiştir">
 <!ENTITY bidiSwitchPageDirectionItem.accesskey    "d">

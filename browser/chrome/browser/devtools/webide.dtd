@@ -42,7 +42,7 @@
 <!ENTITY runtimeMenu_showDevicePrefs_label "Cihaz tercihleri">
 <!ENTITY runtimeMenu_showDevicePrefs_accesskey "C">
 <!ENTITY runtimeMenu_showSettings_label "Cihaz ayarları">
-
+<!ENTITY runtimeMenu_showSettings_accesskey "z">
 
 <!ENTITY viewMenu_label "Göster">
 <!ENTITY viewMenu_accesskey "G">
