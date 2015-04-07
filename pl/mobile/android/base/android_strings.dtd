@@ -223,7 +223,8 @@ size. -->
 <!ENTITY pref_import_android "Importuj z Androida">
 <!ENTITY pref_import_android_summary "Importuj zakładki i historię z domyślnej przeglądarki systemu Android">
 <!ENTITY pref_private_data_history2 "Historia przeglądania">
-<!ENTITY pref_private_data_formdata "Historia wyszukiwania i formularzy">
+<!ENTITY pref_private_data_searchHistory "Historia wyszukiwania">
+<!ENTITY pref_private_data_formdata2 "Historia formularzy">
 <!ENTITY pref_private_data_cookies2 "Ciasteczka i aktywne zalogowania">
 <!ENTITY pref_private_data_passwords "Zachowane hasła">
 <!ENTITY pref_private_data_cache "Pamięć podręczna">
