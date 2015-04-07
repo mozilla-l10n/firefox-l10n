@@ -45,7 +45,7 @@
 
 <!ENTITY profilerUI.toolbar.waterfall "Tidslinje">
 <!ENTITY profilerUI.toolbar.js-calltree "JavaScript">
-
+<!ENTITY profilerUI.toolbar.memory-calltree1 "Tilldelningar">
 <!ENTITY profilerUI.toolbar.js-flamegraph "JS Anropsträd">
 
 <!-- LOCALIZATION NOTE (profilerUI.table.*): These strings are displayed
