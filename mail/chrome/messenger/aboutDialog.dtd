@@ -1,4 +1,4 @@
-
+<!ENTITY aboutDialog.title          "Par &brandFullName;">
 <!-- LOCALIZATION NOTE (update.checkForUpdatesButton.*, update.updateButton.*, update.applyButtonBillboard.*):
 # Only one button is present at a time.
 # The button when displayed is located directly under the Thunderbird version in
@@ -6,6 +6,9 @@
 -->
 
 
+<!ENTITY update.checkForUpdatesButton.label       "Pārbaudīt atjauninājumus">
+<!ENTITY update.checkForUpdatesButton.accesskey   "a">
+<!ENTITY update.updateButton.label2               "Pārstartēt &brandShortName; lai atjauninātu">
 
 
 
