@@ -119,12 +119,14 @@
 <!-- Localization note (overlay_no_synced_devices) : Used when the menu option
      to send a tab to a synced device is pressed and no other synced devices
      are found. -->
+<!ENTITY overlay_no_synced_devices "ఫైర్‌ఫాక్స్ ఖాతా సంధానమైవున్న పరికరాలేమీ కనబడలేదు">
 <!-- Localization note (overlay_share_tab_not_sent) : Used when the menu option
      to send a tab to a synced device is pressed and there is an error
      connecting to the server so the tab could not be sent. The text should be
      divided into two lines (use the newline escape character, "\n", between
      them): the first notifying the user about the failure and the second
      telling the user what to do about it. -->
+<!ENTITY overlay_share_tab_not_sent "మీ ట్యాబును పంపించలేకపోయాం.\nదయచేసి కాసేపాగి మళ్ళీ ప్రయత్నించండి.">
 
 <!ENTITY pref_category_search3 "వెతుకు">
 <!ENTITY pref_category_search_summary "మీకు అన్వేషణ అందించువారిని మలచుకొనుము">
@@ -151,9 +153,9 @@
 <!ENTITY pref_category_devtools_summary "రిమోట్ డీబగ్గింగ్, పెయింట్ ఫ్లాషింగ్">
 <!ENTITY pref_developer_paint_flashing "పెయింట్ ఫ్లాషింగ్">
 <!ENTITY pref_developer_remotedebugging "రిమోట్ డీబగ్గింగ్">
-
+<!ENTITY pref_category_logins "ప్రవేశాలు">
 <!ENTITY pref_remember_signons "సంకేతపదాలను గుర్తుంచుకో">
-
+<!ENTITY pref_manage_logins "ప్రవేశాలను నిర్వహించండి">
 
 <!ENTITY pref_category_home "ముంగిలి">
 <!ENTITY pref_category_home_summary "మీ ముంగిలిపుటను మలచుకోండి">
@@ -311,7 +313,7 @@ size. -->
 <!ENTITY quit "నిష్క్రమించు">
 
 <!ENTITY addons "పొడిగింతలు">
-
+<!ENTITY logins "ప్రవేశాలు">
 <!ENTITY downloads "దింపుకోళ్ళు">
 <!ENTITY apps "ఆప్స్">
 <!ENTITY char_encoding "అక్షర సంహితీకరణ">
@@ -368,9 +370,11 @@ size. -->
      where normally a username would be displayed. In this case, no username was found, and this placeholder
      contains brackets to indicate this is not actually a username, but rather a placeholder -->
 
+<!ENTITY doorhanger_login_no_username "[వాడుకరి పేరు లేదు]">
+<!ENTITY doorhanger_login_edit_title "ప్రవేశాన్ని సవరించు">
 <!ENTITY doorhanger_login_edit_username_hint "వాడుకరినామము">
-
-
+<!ENTITY doorhanger_login_edit_password_hint "సంకేతపదం">
+<!ENTITY doorhanger_login_edit_toggle "సంకేతపదాన్ని చూపించు">
 
 <!ENTITY pref_titlebar_mode "శీర్షిక పట్టీ">
 <!ENTITY pref_titlebar_mode_title "పేజీ శీర్షికను చూపించు">
@@ -381,6 +385,7 @@ size. -->
 <!ENTITY pref_scroll_title_bar2 "నిండుతెర విహరణ">
 <!ENTITY pref_scroll_title_bar_summary "పేజీలను క్రిందికి స్ర్కోల్ చేస్తున్నప్పుడు &brandShortName; శీర్షిక పట్టీని దాచిపెట్టు">
 
+<!ENTITY pref_tab_queue_title "తరువాత తెరువు">
 
 <!-- Localization note (page_removed): This string appears in a toast message when
      any page is removed frome about:home. This includes pages that are in history,
@@ -419,7 +424,7 @@ size. -->
 
 <!ENTITY masterpassword_create_title "ప్రధాన సంకేతపదాన్ని సృష్టించండి">
 <!ENTITY masterpassword_remove_title "ప్రధాన సంకేతపదాన్ని తొలగించండి">
-
+<!ENTITY masterpassword_password "సంకేతపదం">
 <!ENTITY masterpassword_confirm "సంకేతపదం నిర్ధారించండి">
 
 <!ENTITY button_ok "సరే">
@@ -429,7 +434,7 @@ size. -->
 <!ENTITY button_clear_data "దత్తాంశాన్ని తుడిచివేయి">
 <!ENTITY button_set "అమర్చు">
 <!ENTITY button_clear "తుడిచివేయి">
-
+<!ENTITY button_remember "గుర్తుంచుకో">
 
 <!ENTITY home_top_sites_title "మేటి సైట్లు">
 <!-- Localization note (home_top_sites_add): This string is used as placeholder

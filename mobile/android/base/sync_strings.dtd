@@ -199,7 +199,7 @@
 <!ENTITY fxaccount_status_signed_in_as "ఇలా ప్రవేశించారు">
 <!ENTITY fxaccount_status_auth_server "ఖాతా సేవకి">
 <!ENTITY fxaccount_status_sync_now "ఇప్పుడే సింక్ చేయి">
-
+<!ENTITY fxaccount_status_syncing2 "సింకవుతోంది…">
 <!ENTITY fxaccount_status_device_name "పరికరం పేరు">
 <!ENTITY fxaccount_status_sync_server "సింక్ సేవిక">
 <!ENTITY fxaccount_status_sync "&syncBrand.shortName.label;">
@@ -208,7 +208,7 @@
 <!ENTITY fxaccount_status_needs_credentials "అనుసంధానం కాలేదు. ప్రవేశించుటకు తట్టండి.">
 <!ENTITY fxaccount_status_needs_upgrade "ప్రవేశించుటకు మీరు &brandShortName; కు నవీకరించాలి.">
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled "&syncBrand.shortName.label; అమర్పు పూర్తయ్యింది; కానీ ఆటోమెటిగ్గా సింక్రనించడంలేదు. ఆండ్రాయిడ్ అమరికలు &gt; డేటా వాడుక వద్ద “ఆటో-సింక్ డేటా”ను ఎంచుకోండి.">
-
+<!ENTITY fxaccount_status_needs_master_sync_automatically_enabled_v21 "&syncBrand.shortName.label; అమర్పు పూర్తయ్యింది; కానీ ఆటోమెటిగ్గా సింక్రనించడంలేదు. ఆండ్రాయిడ్ అమరికలు &gt; ఖాతాలు వద్ద “ఆటో-సింక్ డేటా” ఎంచుకోండి.">
 <!ENTITY fxaccount_status_needs_finish_migrating "మీ కొత్త ఫైర్‌ఫాక్స్ ఖాతా లోనికి ప్రవేశించడానికి తాకండి.">
 <!ENTITY fxaccount_status_bookmarks "ఇష్టాంశాలు">
 <!ENTITY fxaccount_status_history "చరిత్ర">
