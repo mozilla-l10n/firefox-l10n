@@ -3,9 +3,9 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY restorepage.tabtitle       "שחזור הפעלה">
-
 <!-- LOCALIZATION NOTE: The title is intended to be apologetic and disarming, expressing dismay
      and regret that we are unable to restore the session for the user -->
+
 <!ENTITY restorepage.errorTitle     "טוב, זה מביך.">
 <!ENTITY restorepage.problemDesc    "ל־&brandShortName; יש בעיות בשחזור החלונות והלשוניות שלך. דבר זה קורה לרוב בעקבות לשונית שפתחת לאחרונה.">
 <!ENTITY restorepage.tryThis        "באפשרותך לנסות:">
@@ -21,11 +21,10 @@
 <!ENTITY restorepage.listHeader     "חלונות ולשוניות">
 <!-- LOCALIZATION NOTE: &#37;S will be replaced with a number. -->
 <!ENTITY restorepage.windowLabel    "חלון &#37;S">
-
-
-<!-- LOCALIZATION NOTE: The following 'welcomeback' strings are for about:welcomeback,
+<!-- LOCALIZATION NOTE: The following 'welcomeback2' strings are for about:welcomeback,
      not for about:sessionstore -->
-<!ENTITY welcomeback.tabtitle       "ברוך שובך!">
+
+
 
 <!ENTITY welcomeback2.restoreButton  "דרך צלחה!">
 <!ENTITY welcomeback2.restoreButton.access "ד">
