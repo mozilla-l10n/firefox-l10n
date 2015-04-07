@@ -302,7 +302,7 @@ size. -->
      (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
 <!ENTITY datareporting_crashreporter_title_short "Kraschrapportör">
 <!ENTITY datareporting_wifi_title2 "&vendorShortName;s platstjänster">
-
+<!ENTITY datareporting_wifi_geolocation_summary4 "Hjälp &vendorShortName; att kartlägga världen! Dela den ungefärliga Wi-Fi och datatrafikplatsen för din enhet, och hjälp oss att förbättra våra platstjänster.">
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
      actual notification that an update is available. -->
@@ -390,7 +390,7 @@ size. -->
 <!ENTITY pref_scroll_title_bar_summary "Dölj &brandShortName;namnlistan när du bläddrar ner en sida">
 
 <!ENTITY pref_tab_queue_title "Öppna senare ">
-
+<!ENTITY pref_tab_queue_summary "Förhindra flikar från att öppnas omedelbart, men öppna alla köade flikar nästa gång &brandShortName; laddas.">
 <!-- Localization note (page_removed): This string appears in a toast message when
      any page is removed frome about:home. This includes pages that are in history,
      bookmarks, or reading list. -->
