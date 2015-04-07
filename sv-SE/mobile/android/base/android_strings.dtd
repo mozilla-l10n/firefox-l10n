@@ -119,6 +119,7 @@
 <!-- Localization note (overlay_no_synced_devices) : Used when the menu option
      to send a tab to a synced device is pressed and no other synced devices
      are found. -->
+<!ENTITY overlay_no_synced_devices "Inga Firefox-Konto anslutna enheter hittades">
 <!-- Localization note (overlay_share_tab_not_sent) : Used when the menu option
      to send a tab to a synced device is pressed and there is an error
      connecting to the server so the tab could not be sent. The text should be
