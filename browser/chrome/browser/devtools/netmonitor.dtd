@@ -72,7 +72,7 @@
 <!ENTITY netmonitorUI.summary.rawHeaders "Header non elaborati (raw)">
 <!ENTITY netmonitorUI.summary.rawHeaders.requestHeaders "Header richiesta:">
 <!ENTITY netmonitorUI.summary.rawHeaders.responseHeaders "Header risposta:">
-<!ENTITY netmonitorUI.context.newTab "Apri in nuova scheda">
+<!ENTITY netmonitorUI.context.newTab "Apri in una nuova scheda">
 <!ENTITY netmonitorUI.context.newTab.accesskey "A">
 <!ENTITY netmonitorUI.custom.newRequest "Nuova richiesta">
 <!ENTITY netmonitorUI.custom.query "Stringa query:">
