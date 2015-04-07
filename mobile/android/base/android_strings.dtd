@@ -42,7 +42,7 @@
 <!ENTITY url_bar_default_text2 "Lorg no cuir seòladh ann">
 
 <!ENTITY bookmark "Comharra-lìn">
-
+<!ENTITY bookmark_remove "Thoir an comharra-lìn air falbh">
 <!ENTITY bookmark_added "Comharra-lìn air a chur ris">
 <!ENTITY bookmark_removed "Comharra-lìn air a thoirt air falbh">
 <!ENTITY bookmark_updated "Comharra-lìn air ùrachadh">
@@ -80,7 +80,7 @@
 <!ENTITY pref_category_advanced "Adhartach">
 <!ENTITY pref_category_customize "Gnàthaich">
 <!ENTITY pref_category_customize_summary "Dachaidh, lorg, tabaichean, ion-phortadh">
-
+<!ENTITY pref_category_customize_alt_summary "Dachaigh, lorg, tabaichean, fosgail uaireigin eile, ion-phortaich">
 <!-- Localization note (pref_category_language) : This is the preferences
      section in which the user picks the locale in which to display Firefox
      UI. The locale includes both language and region concepts. -->
@@ -119,12 +119,14 @@
 <!-- Localization note (overlay_no_synced_devices) : Used when the menu option
      to send a tab to a synced device is pressed and no other synced devices
      are found. -->
+<!ENTITY overlay_no_synced_devices "Cha deach uidheam a lorg a tha ceangailte ri cunntas Firefox">
 <!-- Localization note (overlay_share_tab_not_sent) : Used when the menu option
      to send a tab to a synced device is pressed and there is an error
      connecting to the server so the tab could not be sent. The text should be
      divided into two lines (use the newline escape character, "\n", between
      them): the first notifying the user about the failure and the second
      telling the user what to do about it. -->
+<!ENTITY overlay_share_tab_not_sent "Cha b’ urrainn dhuinn an taba agad a chur.\nFeuch ris a-rithist às a dhèidh seo.">
 
 <!ENTITY pref_category_search3 "Lorg">
 <!ENTITY pref_category_search_summary "Gnàthaich na solaraichean luirg agad">
@@ -190,17 +192,22 @@
 <!ENTITY pref_donottrack_title "Na tracaich">
 <!ENTITY pref_donottrack_summary "Innsidh &brandShortName; do làraichean nach eil thu ag iarraidh gun tracaich iad thu">
 
-
+<!ENTITY tab_queue_toast_message "Fosgail às a dhèidh seo">
+<!ENTITY tab_queue_toast_action "Fosgail an-dràsta">
 <!-- Localization note (tab_queue_notification_text_plural) : The
      formatD is replaced with the number of tabs queued.  The
      number of tabs queued is always more than one.  We can't use
      Android plural forms, sadly. See Bug #753859. -->
+<!ENTITY tab_queue_notification_text_plural "&formatD; taba(ichean) sa chiutha">
 <!-- Localization note (tab_queue_notification_title_plural) : This is the
      title of a notification; we expect more than one tab queued. -->
+<!ENTITY tab_queue_notification_title_plural "Tabaichean sa chiutha">
 <!-- Localization note (tab_queue_notification_title_singular) : This is the
      title of a notification; we expect only one tab queued. -->
+<!ENTITY tab_queue_notification_title_singular "Tha an taba sa chiutha">
 <!-- Localization note (tab_queue_notification_text_singular) : This is the
      text of a notification; we expect only one tab queued. -->
+<!ENTITY tab_queue_notification_text_singular "Tha taba sa chiutha">
 
 <!ENTITY pref_char_encoding "Còdachadh charactaran">
 <!ENTITY pref_char_encoding_on "Seall an clàr-taice">
@@ -296,7 +303,7 @@ size. -->
      (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
 <!ENTITY datareporting_crashreporter_title_short "Aithrisiche nan tuislidhean">
 <!ENTITY datareporting_wifi_title2 "Seirbheisean ionaid &vendorShortName;">
-
+<!ENTITY datareporting_wifi_geolocation_summary4 "Cuidich &vendorShortName; a’ mapadh an t-saoghail! Nochd ionad mu thuaiream a’ WiFi ’s an fhòn-làimhe agad ach an urrainn dhuinn an t-seirbheis geò-lorgadh againn a leasachadh.">
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
      actual notification that an update is available. -->
@@ -368,9 +375,11 @@ size. -->
      where normally a username would be displayed. In this case, no username was found, and this placeholder
      contains brackets to indicate this is not actually a username, but rather a placeholder -->
 
+<!ENTITY doorhanger_login_no_username "[Gun ainm-cleachdaiche]">
+
 <!ENTITY doorhanger_login_edit_username_hint "Ainm-cleachdaiche">
-
-
+<!ENTITY doorhanger_login_edit_password_hint "Facal-faire">
+<!ENTITY doorhanger_login_edit_toggle "Seall am facal-faire">
 
 <!ENTITY pref_titlebar_mode "Bàr an tiotail">
 <!ENTITY pref_titlebar_mode_title "Seall tiotal na duilleige">
@@ -381,7 +390,8 @@ size. -->
 <!ENTITY pref_scroll_title_bar2 "Brabhsadh làn-sgrìn">
 <!ENTITY pref_scroll_title_bar_summary "Falaich bàr-tiotail &brandShortName; nuair a sgrolar sìos air duilleag">
 
-
+<!ENTITY pref_tab_queue_title "Fosgail às a dhèidh seo">
+<!ENTITY pref_tab_queue_summary "Na fosgail tabaichean sa bhad ach cuir iad ann an ciutha ’s fosgail iad an ath-thuras a dh’fhosglar &brandShortName;.">
 <!-- Localization note (page_removed): This string appears in a toast message when
      any page is removed frome about:home. This includes pages that are in history,
      bookmarks, or reading list. -->
@@ -419,7 +429,7 @@ size. -->
 
 <!ENTITY masterpassword_create_title "Cruthaich prìomh fhacal-faire">
 <!ENTITY masterpassword_remove_title "Thoir air falbh am prìomh fhacal-faire">
-
+<!ENTITY masterpassword_password "Facal-faire">
 <!ENTITY masterpassword_confirm "Dearbhaich am facal-faire">
 
 <!ENTITY button_ok "Ceart ma-tha">
