@@ -17,11 +17,11 @@
 <!-- Downloading a cert -->
 
 <!ENTITY downloadCert.title "Изтегляне на сертификат">
-<!ENTITY downloadCert.message1 "Постъпи заявка за доверяване към нов сертификатен удостоверител (СА).">
-<!ENTITY downloadCert.trustSSL "При идентификацията на уеб сайтове се доверявай на този СА.">
-<!ENTITY downloadCert.trustEmail "При идентификация на потребители на е-поща се довери на този СА.">
-<!ENTITY downloadCert.trustObjSign "При идентификация на разработчици на софтуер се довери на този СА.">
-<!ENTITY downloadCert.message3 "Преди да се доверите на този СА, трябва да изследвате неговия сертификат, както и политиката и процедурите му (ако съществуват).">
+<!ENTITY downloadCert.message1 "You have been asked to trust a new Certificate Authority (CA).">
+<!ENTITY downloadCert.trustSSL "Trust this CA to identify websites.">
+<!ENTITY downloadCert.trustEmail "Trust this CA to identify email users.">
+<!ENTITY downloadCert.trustObjSign "Trust this CA to identify software developers.">
+<!ENTITY downloadCert.message3 "Before trusting this CA for any purpose, you should examine its certificate and its policy and procedures (if available).">
 <!ENTITY downloadCert.viewCert.label "Преглед">
 <!ENTITY downloadCert.viewCert.text "Изследване на сертификат на CA">
 <!-- Strings for the SSL client auth ask dialog -->
