@@ -269,6 +269,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY browserToolboxMenu.label     "ארגז הכלים של הדפדפן">
 <!ENTITY browserToolboxMenu.accesskey "א">
+<!ENTITY browserToolboxCmd.commandkey "i">
 <!-- LOCALIZATION NOTE (browserContentToolboxMenu.label): This is the label for the
   -  application menu item that opens the browser content toolbox UI in the Tools menu.
   -  This toolbox allows to debug the chrome of the content process in multiprocess builds.  -->
@@ -798,11 +799,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      a CSS length value. -->
 
 <!ENTITY pluginNotification.width "28em">
-
-<!ENTITY tabCrashed.header "לשונית קרסה">
-<!ENTITY tabCrashed.message "טוב, זה מביך. אנו מנסים להציג את דף האינטרנט הזה, אבל הוא אינו מגיב.">
-<!ENTITY tabCrashed.checkSendReport "דווח ל־&vendorShortName; על קריסה זו כדי שיוכלו לתקן אותה.">
-<!ENTITY tabCrashed.tryAgain "נסה שוב">
 
 <!ENTITY uiTour.infoPanel.close "סגירה">
 
