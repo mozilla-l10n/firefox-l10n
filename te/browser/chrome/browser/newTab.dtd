@@ -5,9 +5,9 @@
 
 <!ENTITY newtab.pageTitle "కొత్త టాబ్">
 <!ENTITY newtab.customize.title "మీ కొత్త టాబ్ పేజీను మలచుకోండి">
-<!ENTITY newtab.customize.enhanced "విస్తరిత">
-<!ENTITY newtab.customize.classic "క్లాసిక్">
-<!ENTITY newtab.customize.blank "ఖాళీ">
+
+
+
 <!ENTITY newtab.customize.what "ఈ పేజీ ఏంటి?">
 <!ENTITY newtab.intro.header "ఈ పేజీ ఏంటి?">
 <!ENTITY newtab.undo.removedLabel "థంబ్‌నెయిల్ తీసివేయబడింది.">

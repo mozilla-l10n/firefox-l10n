@@ -22,7 +22,7 @@
 <!ENTITY  generalReferrer       "సంప్రదించుచున్న URL:">
 <!ENTITY  generalSource         "క్యాచీ మూలం:">
 <!ENTITY  generalModified       "సవరించిన:">
-<!ENTITY  generalEncoding       "ఎన్కోడింగ్:">
+
 <!ENTITY  generalMetaName       "పేరు">
 <!ENTITY  generalMetaContent    "విషయసంగ్రహం">
 
@@ -83,3 +83,5 @@
 <!ENTITY  securityView.privacy.viewPasswords.accessKey  "w">
 
 <!ENTITY  securityView.technical.header                 "సాంకేతిక వివరములు">
+
+<!ENTITY  helpButton.label                              "సహాయం">
