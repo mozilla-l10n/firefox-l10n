@@ -46,8 +46,8 @@
 <!ENTITY profilerUI.toolbar.waterfall "Zaman çizelgesi">
 <!ENTITY profilerUI.toolbar.js-calltree "JavaScript">
 <!ENTITY profilerUI.toolbar.memory-calltree1 "Atamalar">
-
-
+<!ENTITY profilerUI.toolbar.js-flamegraph "JS Flame Chart'ı">
+<!ENTITY profilerUI.toolbar.memory-flamegraph1 "Atamalar Flame Chart'ı">
 <!-- LOCALIZATION NOTE (profilerUI.table.*): These strings are displayed
   -  in the call tree headers for a recording. -->
 
@@ -57,7 +57,7 @@
 <!ENTITY profilerUI.table.selfPercentage  "Kendi maliyeti">
 <!ENTITY profilerUI.table.samples         "Örnekler">
 <!ENTITY profilerUI.table.function        "Fonksiyon">
-
+<!ENTITY profilerUI.table.totalAlloc1       "Örneklenen toplam atama">
 
 
 
@@ -78,7 +78,7 @@
 <!ENTITY profilerUI.invertTree.tooltiptext "Çağrı ağacını tersine çevirmek, profillenen çağrı yollarını en yeni çerçevelerden eski çerçevelere doğru görüntüler.">
 <!-- LOCALIZATION NOTE (profilerUI.invertFlameGraph): This is the label shown next to
   -  a checkbox that inverts and un-inverts the profiler's flame graph. -->
-
+<!ENTITY profilerUI.invertFlameGraph.tooltiptext "Flame chart'ı tersine çevirmek, profillenen çağrı yollarını en yeni çerçevelerden eski çerçevelere doğru görüntüler.">
 <!-- LOCALIZATION NOTE (profilerUI.showPlatformData): This is the
   -  label for the checkbox that toggles whether or not Gecko platform data
   -  is displayed in the profiler. -->
