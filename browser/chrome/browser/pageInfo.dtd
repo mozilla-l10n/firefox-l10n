@@ -22,7 +22,7 @@
 <!ENTITY  generalReferrer       "Препращащ адрес:">
 <!ENTITY  generalSource         "Кеш:">
 <!ENTITY  generalModified       "Последна промяна:">
-
+<!ENTITY  generalEncoding2      "Кодиране на текста:">
 <!ENTITY  generalMetaName       "Име">
 <!ENTITY  generalMetaContent    "Съдържание">
 
@@ -55,7 +55,7 @@
 <!ENTITY  permAllow             "Разрешаване">
 <!ENTITY  permAllowSession      "Разрешаване за сесията">
 <!ENTITY  permBlock             "Блокиране">
-<!ENTITY  permissionsFor        "Права за:">
+<!ENTITY  permissionsFor        "Правата на:">
 <!ENTITY  permPlugins           "Включване на приставки">
 
 <!ENTITY  permClearStorage           "Изчистване на хранилището">
