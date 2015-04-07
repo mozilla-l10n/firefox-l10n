@@ -67,6 +67,8 @@
 <!ENTITY profilerUI.newtab.tooltiptext "Lägg till flik från markering">
 <!-- LOCALIZATION NOTE (profilerUI.toolbar.filter.tooltiptext): This string
   -  is displayed next to the filter button-->
+
+<!ENTITY profilerUI.options.filter.tooltiptext "Välj vilken data som ska visas i tidslinjen">
 <!-- LOCALIZATION NOTE (profilerUI.options.tooltiptext): This is the tooltip
   -  for the options button. -->
 
