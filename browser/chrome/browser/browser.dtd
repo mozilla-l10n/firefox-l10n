@@ -269,6 +269,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY browserToolboxMenu.label     "విహారిణి పనిముట్లపెట్టె (e)">
 <!ENTITY browserToolboxMenu.accesskey "e">
+
 <!-- LOCALIZATION NOTE (browserContentToolboxMenu.label): This is the label for the
   -  application menu item that opens the browser content toolbox UI in the Tools menu.
   -  This toolbox allows to debug the chrome of the content process in multiprocess builds.  -->
@@ -853,7 +854,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY readingList.sidebar.showMore.label       "మరింత చూపు...">
 <!-- Pre-landed string for bug 1133662 -->
 <!ENTITY readingList.sidebar.emptyText            "తరువాత మీకు అవసరమైనప్పుడు సులువుగా కనుగొనుటకు వ్యాసాలను మీ చదివే జాబితానందు భద్రపరచుకోండి.">
-<!-- Pre-landed string for bug 1123525 -->
 <!ENTITY readingList.sidebar.delete.tooltip       "మీ చదివే జాబితానుండి దీనిని తీసివేయండి">
 <!-- Pre-landed strings for bug 1123519 -->
 <!ENTITY readingList.sidebar.add.label            "చదివే జాబితాకు జతచేయండి">

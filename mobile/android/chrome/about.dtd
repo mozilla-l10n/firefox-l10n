@@ -6,11 +6,11 @@
 <!ENTITY aboutPage.telemetryStart               "పనితనం, హార్డువేర్ మరియు ఇష్టానుసార మలపులకు సంబందించిన సమాచారంను ఇది స్వయంచాలకంగా పంపును">
 <!ENTITY aboutPage.telemetryMozillaLink         "&vendorShortName;">
 <!ENTITY aboutPage.telemetryEnd                 "&brandShortName; ఉత్తంమంగా చేయుటలో సహాయపడుటకు.">
-<!ENTITY aboutPage.checkForUpdates.link         "నవీకరణల కొరకు పరిశీలించుతోంది »">
-<!ENTITY aboutPage.checkForUpdates.checking     "నవీకరణల కొరకు పరిశీలించుచున్నది...">
-<!ENTITY aboutPage.checkForUpdates.none         "ఏ నవీకరణలు అందుబాటులోలేవు">
-<!ENTITY aboutPage.checkForUpdates.available2   "నవీకరణం దింపు">
-<!ENTITY aboutPage.checkForUpdates.downloading  "నవీకరణం దించుతోంది...">
+<!ENTITY aboutPage.checkForUpdates.link         "నవీకరణల కొరకు పరిశీలించు »">
+<!ENTITY aboutPage.checkForUpdates.checking     "నవీకరణల కొరకు చూస్తున్నాం…">
+<!ENTITY aboutPage.checkForUpdates.none         "నవీకరణలేమీ అందుబాటులోలేవు">
+<!ENTITY aboutPage.checkForUpdates.available2   "నవీకరణను దింపు">
+<!ENTITY aboutPage.checkForUpdates.downloading  "నవీకరణను దించుతోంది…">
 <!ENTITY aboutPage.checkForUpdates.downloaded2  "నవీకరణను స్థాపించు">
 <!ENTITY aboutPage.faq.label                    "సందేహాలు">
 <!ENTITY aboutPage.support.label                "తోడ్పాటు">
