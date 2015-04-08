@@ -33,8 +33,8 @@
 <!ENTITY setup.choosePassword.accesskey  "P">
 <!ENTITY setup.confirmPassword.label     "تأیید گذرواژه">
 <!ENTITY setup.confirmPassword.accesskey "ت">
-
-
+<!ENTITY setup.setupMetro.label     "هم‌گام‌سازی با سبک ویندوز ۸ &brandShortName;">
+<!ENTITY setup.setupMetro.accesskey "ه">
 <!-- LOCALIZATION NOTE: tosAgree1, tosLink, tosAgree2, ppLink, tosAgree3 are
      joined with implicit white space, so spaces in the strings aren't necessary -->
 
@@ -63,9 +63,9 @@
 <!ENTITY pairDevice.title.label             "اتصال دستگاه">
 <!ENTITY addDevice.showMeHow.label          "نمایش روش کار">
 <!ENTITY addDevice.dontHaveDevice.label     "هم‌اکنون رایانهٔ مورد نظر همراهم نیست.">
-
+<!ENTITY pairDevice.setup.description.label  "برای فعالسازی، &quot;جفت شدن به دستگاه دیگر&quot; را در آن دستگاه انتخاب کنید.">
 <!ENTITY addDevice.setup.enterCode.label    "سپس این کد را وارد نمایید:">
-
+<!ENTITY pairDevice.dialog.description.label "برای فعال‌کردن دستگاه جدید، &quot;نصب همگام‌سازی&quot; را در دستگاه انتخاب کنید.">
 <!ENTITY addDevice.dialog.enterCode.label   "کدی که رایانهٔ دیگر نشان می‌دهد را در این‌جا وارد کنید:">
 <!ENTITY addDevice.dialog.tryAgain.label    "لطفاً دوباره تلاش کنید.">
 <!ENTITY addDevice.dialog.successful.label  "رایانهٔ جدید با موفقیت افزوده شد. هم‌گام‌سازی اولیه ممکن است چند دقیقه طول بکشد و در پس‌زمینه خاتمه خواهد یافت.">
@@ -74,7 +74,7 @@
 <!-- Existing Account Page 2: Manual Login -->
 
 <!ENTITY setup.signInPage.title.label "ورود">
-
+<!ENTITY existingRecoveryKey.description "برای دریافت کپی از کلید بازیابی خود، به تنظیمات &syncBrand.shortName.label; روی دستگاه خود رفته،   و&quot;کلید بازیابی من&quot;را در زیر&quot;مدیریت حساب&quot; انتخاب کنید.">
 <!ENTITY verifying.label              "در حال وارسی…">
 <!ENTITY resetPassword.label          "پاک‌سازی گذرواژه">
 <!ENTITY resetSyncKey.label           "رایانهٔ دیگر خود را گم کرده‌ام.">

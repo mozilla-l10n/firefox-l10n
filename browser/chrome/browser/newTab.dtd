@@ -10,7 +10,7 @@
 <!ENTITY newtab.customize.blank "جای خالی">
 <!ENTITY newtab.customize.what "این صفحه چیست؟">
 <!ENTITY newtab.intro.header "این صفحه چیست؟">
-
+<!ENTITY newtab.undo.removedLabel "تصویر کوچک حذف شد.">
 <!ENTITY newtab.undo.undoButton "برگردان.">
 <!ENTITY newtab.undo.restoreButton "برگرداندن همه.">
 <!ENTITY newtab.undo.closeTooltip "مخفی کردن">

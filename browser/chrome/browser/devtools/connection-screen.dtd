@@ -6,9 +6,12 @@
   - in the Web Developer menu.
   - -->
 
+
+<!ENTITY title      "اتصال">
+<!ENTITY header     "اتصال به دستگاه دوردست">
 <!ENTITY host       "میزبان:">
 <!ENTITY port       "درگاه:">
-
+<!ENTITY connect    "اتصال">
 <!ENTITY connecting "در حال اتصال…">
 
 
@@ -16,7 +19,7 @@
 <!ENTITY connectionError "خطا:">
 
 
-
+<!ENTITY errorUnexpected "خطای غیرمنتظره.">
 <!-- LOCALIZATION NOTE (remoteHelp, remoteDocumentation, remoteHelpSuffix):
 these strings will be concatenated in a single label, remoteDocumentation will
 be used as text for a link to MDN. -->

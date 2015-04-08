@@ -11,7 +11,7 @@
 <!ENTITY update.checkForUpdatesButton.label       "جستجو برای به‌روزرسانی‌ها">
 <!ENTITY update.checkForUpdatesButton.accesskey   "ج">
 <!ENTITY update.updateButton.label2                "برای انجام به‌روزرسانی، &brandShortName; را دوباره راه‌اندازی کنید">
-
+<!ENTITY update.updateButton.accesskey            "R">
 <!ENTITY update.applyButtonBillboard.label        "اعمال به‌روزرسانی…">
 <!ENTITY update.applyButtonBillboard.accesskey    "ا">
 <!-- LOCALIZATION NOTE (warningDesc.version): This is a warning about the experimental nature of Nightly and Aurora builds. It is only shown in those versions. -->
@@ -35,6 +35,7 @@
 <!ENTITY community.mozillaLink      "&vendorShortName;">
 <!ENTITY community.middle2          "، یک ">
 <!-- LOCALIZATION NOTE (community.creditsLink): This is a link title that links to about:credits. -->
+<!ENTITY community.creditsLink      "جامعه‌ی جهانی">
 <!ENTITY community.end3             "با یک‌دیگر کار می‌کنیم تا وب را باز، عمومی و قابل‌ دسترس برای همگان نگاه‌ داریم.">
 
 <!ENTITY helpus.start               "می خواهید کمک کنید؟ ">

@@ -24,17 +24,17 @@
      Translate "Latin" as the name of Latin (Roman) script, not as the name of the Latin language. -->
 
 <!ENTITY  font.langGroup.latin                    "لاتینی">
-
+<!ENTITY  font.langGroup.japanese                 "ژاپنی">
 <!ENTITY  font.langGroup.trad-chinese             "چینی سنتی (تایوان)‏">
 <!ENTITY  font.langGroup.simpl-chinese            "چینی ساده‌شده">
 <!ENTITY  font.langGroup.trad-chinese-hk          "چینی سنتی (هنگ‌کنگ)‏">
-
-
-
-
-
-
-
+<!ENTITY  font.langGroup.korean                   "کره‌ای">
+<!ENTITY  font.langGroup.cyrillic                 "سیریلیک">
+<!ENTITY  font.langGroup.el                       "یونانی">
+<!ENTITY  font.langGroup.other                    "سیستم‌های نوشتاری دیگر">
+<!ENTITY  font.langGroup.thai                     "تایلندی">
+<!ENTITY  font.langGroup.hebrew                   "عبری">
+<!ENTITY  font.langGroup.arabic                   "عربی">
 <!ENTITY  font.langGroup.devanagari               "دواناگری">
 <!ENTITY  font.langGroup.tamil                    "تامیلی">
 <!ENTITY  font.langGroup.armenian                 "ارمنی">
@@ -63,33 +63,44 @@
 <!ENTITY  allowPagesToUse.label                   "به صفحات اجازه داده شود که قلم‌هایشان را انتخاب کنند و مجبور به استفاده از انتخاب‌های بالا نباشند">
 <!ENTITY  allowPagesToUse.accesskey               "ج">
 
+<!ENTITY languages.customize.Fallback.grouplabel  "کدگذاری متن برای محتوای قدیمی">
+<!ENTITY languages.customize.Fallback.label       "کدگذاری متن جانشین:">
+<!ENTITY languages.customize.Fallback.accesskey   "م">
+<!ENTITY languages.customize.Fallback.desc        "این کدگذاری متن برای محتوای قدیمی‌ای استفاده می‌شود که قادر به معرفی کدگذاری خود نیست.">
 
-
-
-
+<!ENTITY languages.customize.Fallback.auto        "پیش‌فرض برای مکان فعلی">
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.arabic):
      Translate "Arabic" as an adjective for an encoding, not as the name of the language. -->
-
-
-
+<!ENTITY languages.customize.Fallback.arabic      "عربی">
+<!ENTITY languages.customize.Fallback.baltic      "بالتیک">
+<!ENTITY languages.customize.Fallback.ceiso       "اروپای مرکزی، ISO">
+<!ENTITY languages.customize.Fallback.cewindows   "اروپای مرکزی، مایکروسافت">
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.simplified):
      Translate "Chinese" as an adjective for an encoding, not as the name of the language. -->
+<!ENTITY languages.customize.Fallback.simplified  "چینی، ساده‌شده">
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.traditional):
      Translate "Chinese" as an adjective for an encoding, not as the name of the language. -->
-
+<!ENTITY languages.customize.Fallback.traditional "چینی، سنتی">
+<!ENTITY languages.customize.Fallback.cyrillic    "سیریلیک">
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.greek):
      Translate "Greek" as an adjective for an encoding, not as the name of the language. -->
+<!ENTITY languages.customize.Fallback.greek       "یونانی">
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.hebrew):
      Translate "Hebrew" as an adjective for an encoding, not as the name of the language. -->
+<!ENTITY languages.customize.Fallback.hebrew      "عبری">
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.japanese):
      Translate "Japanese" as an adjective for an encoding, not as the name of the language. -->
+<!ENTITY languages.customize.Fallback.japanese    "ژاپنی">
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.korean):
      Translate "Korean" as an adjective for an encoding, not as the name of the language. -->
+<!ENTITY languages.customize.Fallback.korean      "کره‌ای">
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.thai):
      Translate "Thai" as an adjective for an encoding, not as the name of the language. -->
+<!ENTITY languages.customize.Fallback.thai        "تایلندی">
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.turkish):
      Translate "Turkish" as an adjective for an encoding, not as the name of the language. -->
+<!ENTITY languages.customize.Fallback.turkish     "ترکی">
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.vietnamese):
      Translate "Vietnamese" as an adjective for an encoding, not as the name of the language. -->
 <!ENTITY languages.customize.Fallback.vietnamese  "ویتنامی">
-
+<!ENTITY languages.customize.Fallback.other       "موراد دیگر (شامل اروپای شرقی)">

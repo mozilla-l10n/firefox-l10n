@@ -8,11 +8,14 @@
 <!ENTITY warnCloseMultipleTabs.label  "در هنگام بستن بیش از یک زبانه هشدار داده شود">
 <!ENTITY warnCloseMultipleTabs.accesskey  "ب">
 
+<!ENTITY warnOpenManyTabs.label       "در صورتی که باز کردن چند زبانه بتواند باعث کند کردن &brandShortName; بشود، به من هشدار بده">
+<!ENTITY warnOpenManyTabs.accesskey   "ک">
 
+<!ENTITY restoreTabsOnDemand.label        "تا زمانی که زبانه‌ها انتخاب نشده اند، آنها را بارگذاری نکن">
+<!ENTITY restoreTabsOnDemand.accesskey    "ز">
 
-
-
-
+<!ENTITY switchToNewTabs.label        "هنگامی که یک پیوند را در زبانه جدید باز میکنم، بلافاصله آن زبانه نمایش داده شود">
+<!ENTITY switchToNewTabs.accesskey    "ه">
 
 <!ENTITY showTabsInTaskbar.label          "پیش‌نمایش زبانه‌ها در نوار وضعیت ویندوز">
 <!ENTITY showTabsInTaskbar.accesskey      "ز">

@@ -5,7 +5,7 @@
 <!ENTITY index.title "مدیر برنامه">
 <!ENTITY index.projects2 "برنامه‌ها">
 <!ENTITY index.device2 "دستگاه">
-
+<!ENTITY index.help "راهنما">
 
 <!ENTITY device.debugMainProcess "روند اصلی اشکال‌زدایی">
 <!ENTITY device.debugMainProcessTooltip "باز کردن اتصال دهنده ابزار برنامه نویسی به پردازش اصلی در دستگاه">
@@ -18,7 +18,7 @@
 <!ENTITY device.stopApp "ایست">
 <!ENTITY device.stopAppTooltip "ایست برنامه در دستگاه">
 <!ENTITY device.debugApp "اشکال زدایی">
-
+<!ENTITY device.debugAppTooltip "باز کردن ابزارهای برنامه‌نویسی متصل به این برنامه در دستگاه">
 <!ENTITY device.name "نام">
 
 <!ENTITY device.privileged "اختیاردار">
@@ -30,15 +30,15 @@
 <!ENTITY device.deny "رد کردن">
 <!ENTITY device.denyTooltip "این مجوز به برنامه هایی از این نوع داده نمیشود">
 <!ENTITY device.installedApps "برنامه‌های نصب شده">
-<!ENTITY device.installedAppsTooltip "مشاهده‌ لیستی از برنامه‌های نصب شده بر روی دستگاه، بعضی برنامه ها، همانند برنامه‌های تایید شده ممکن است مستثنی شده باشد و نمایش داده نشوند.">
+<!ENTITY device.installedAppsTooltip "مشاهده‌ لیستی از برنامه‌های نصب شده بر روی دستگاه, تعدادی برنامه, همانند برنامه‌های تایید شده ممکن است از این دیدگاه حذف شده باشد.">
 <!ENTITY device.permissions "مجوزها">
 <!ENTITY device.permissionsTooltip "مشاهده جدولی از مجوزهای دسترسی به انواع مختلفی از برنامه‌ها">
 <!ENTITY device.permissionsHelpLink "https://developer.mozilla.org/docs/Web/Apps/App_permissions">
-
+<!ENTITY device.browserTabs "زبانه‌های مرورگر">
 <!ENTITY device.browserTabsTooltip "مشاهده فهرستی از تبهای مرورگر دستگاه متصل">
-
-
-
+<!ENTITY device.debugBrowserTab "اشکال‌زدایی">
+<!ENTITY device.debugBrowserTabTooltip "باز کردن ابزارهای برنامه‌نویسی متصل به این زبانه‌ی مرورگر در دستگاه">
+<!ENTITY device.help "راهنما">
 
 <!ENTITY connection.connectTooltip "اتصال به دستگاه">
 <!ENTITY connection.disconnect "قطع ارتباط">
@@ -50,10 +50,10 @@
 <!ENTITY connection.changeHostAndPortTooltip "تغییر میزبان(Host) یا پورت استفاده شده جهت اتصال به دستگاه(به صورت پیش فرض localhost:6000)">
 <!ENTITY connection.startSimulator "شروع شبیه ساز">
 <!ENTITY connection.startSimulatorTooltip "شروع یک نمونه از شبیه‌ساز و اتصال به آن">
-
+<!ENTITY connection.saveConnectionInfo "ذخیره">
 
 <!ENTITY connection.connecting "در حال اتصال…">
-
+<!ENTITY connection.disconnecting "در حال قطع ارتباط…">
 <!ENTITY connection.cancel "انصراف">
 <!ENTITY connection.cancelConnectTooltip "قطع اتصالی که در جریان است">
 <!ENTITY connection.cancelShowSimulatorTooltip "خروج ازحالت اتصال شبیه‌ساز و بازگشت به حالت اولیه">
@@ -61,24 +61,24 @@
 <!ENTITY connection.noSimulatorInstalled "شبیه‌ساز نصب نشده است.">
 <!ENTITY connection.installOneSimulator "نصب شبیه‌ساز">
 <!ENTITY connection.installOneSimulatorTooltip "نصب یک نسخه از شبیه ساز با دانلود افزونه مرتبط">
-
+<!ENTITY connection.installAnotherSimulator "اضافه‌کردن">
 <!ENTITY connection.installAnotherSimulatorTooltip "نصب یک ورژن اضافه از شبیه ساز با دانلود افزونه مرتبط">
-
+<!ENTITY connection.startRegisteredSimulator "شروع:">
 
 <!ENTITY projects.localApps "برنامه های محلی">
-
+<!ENTITY projects.addApp "اضافه‌کردن">
 <!ENTITY projects.addPackaged "افزودن بسته برنامه">
 <!ENTITY projects.addPackagedTooltip "افزودن یک بسته برنامه جدید (یک فولدر) از روی کامپیوتر">
 <!ENTITY projects.addHosted "افزودن برنامه میزبانی شده">
 
-
+<!ENTITY projects.title "برنامه های محلی">
 
 
 <!ENTITY projects.updateApp "به‌هنگام‌سازی">
 
+<!ENTITY projects.debugApp "اشکال‌زدایی">
 
-
-
+<!ENTITY projects.saveManifest "ذخیره">
 
 <!ENTITY projects.hostedManifestPlaceHolder2 "http://example.com/app/manifest.webapp">
 
@@ -88,15 +88,16 @@
 
 <!ENTITY projects.valid "معتبر">
 <!ENTITY projects.error "خطا">
+<!ENTITY projects.warning "هشدار">
 
 
 
-
+<!ENTITY help.title "مدیر برنامه">
 <!ENTITY help.close "بستن">
 
 
 
 
-
+<!ENTITY help.troubleShooting "عیب‌یابی">
 
 
