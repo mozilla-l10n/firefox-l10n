@@ -153,9 +153,9 @@
 <!ENTITY pref_category_devtools_summary "Dì-bhugachadh cèin, paint flashing">
 <!ENTITY pref_developer_paint_flashing "Paint flashing">
 <!ENTITY pref_developer_remotedebugging "Dì-bhugachadh cèin">
-
+<!ENTITY pref_category_logins "Clàraidhean a-steach">
 <!ENTITY pref_remember_signons "Cum faclan-faire an cuimhne">
-
+<!ENTITY pref_manage_logins "Stiùirich na clàraidhean a-steach">
 
 <!ENTITY pref_category_home "Dhachaigh">
 <!ENTITY pref_category_home_summary "Gnàthaich an duilleag-dhachaigh agad">
@@ -318,7 +318,7 @@ size. -->
 <!ENTITY quit "Fàg an-seo">
 
 <!ENTITY addons "Tuilleadain">
-
+<!ENTITY logins "Clàraidhean a-steach">
 <!ENTITY downloads "Luchdaidhean a-nuas">
 <!ENTITY apps "Aplacaidean">
 <!ENTITY char_encoding "Còdachadh charactaran">
@@ -376,7 +376,7 @@ size. -->
      contains brackets to indicate this is not actually a username, but rather a placeholder -->
 
 <!ENTITY doorhanger_login_no_username "[Gun ainm-cleachdaiche]">
-
+<!ENTITY doorhanger_login_edit_title "Deasaich an clàradh a-steach">
 <!ENTITY doorhanger_login_edit_username_hint "Ainm-cleachdaiche">
 <!ENTITY doorhanger_login_edit_password_hint "Facal-faire">
 <!ENTITY doorhanger_login_edit_toggle "Seall am facal-faire">
