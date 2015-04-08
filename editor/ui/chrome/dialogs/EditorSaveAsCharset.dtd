@@ -7,8 +7,8 @@
 <!-- This button is for the progressive disclosure of additional editing functionality -->
 
 <!-- These strings are for use specifically in the editor's link dialog. -->
-<!ENTITY windowTitle.label "Opslaan en tekenset wijzigen">
+<!ENTITY windowTitle2.label "Opslaan en tekstcodering wijzigen">
 <!ENTITY documentTitleTitle.label "Paginatitel">
-<!ENTITY documentCharsetTitle.label "Tekenset">
-<!ENTITY documentCharsetDesc.label "Selecteer de tekenset waarin u een document wilt opslaan:">
+<!ENTITY documentCharsetTitle2.label "Tekstcodering">
+<!ENTITY documentCharsetDesc2.label "Selecteer de tekstcodering waarin u een document wilt opslaan:">
 <!ENTITY documentExportToText.label "Exporteren naar tekst">
