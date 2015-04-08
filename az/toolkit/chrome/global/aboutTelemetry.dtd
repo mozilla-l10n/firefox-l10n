@@ -10,6 +10,7 @@
 
 <!ENTITY aboutTelemetry.generalDataSection "  Ümumi Məlumat">
 
+
 <!ENTITY aboutTelemetry.slowSqlSection "  Zəif SQL İfadələr">
 
 <!ENTITY aboutTelemetry.chromeHangsSection "  Səyyahın Donması">

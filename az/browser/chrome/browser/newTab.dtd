@@ -5,9 +5,9 @@
 
 <!ENTITY newtab.pageTitle "Yeni Vərəq">
 <!ENTITY newtab.customize.title "Yeni Vərəq səhifənizi Özəlləşdirin">
-<!ENTITY newtab.customize.enhanced "Artırılmış">
-<!ENTITY newtab.customize.classic "Klassik">
-<!ENTITY newtab.customize.blank "Boş">
+<!ENTITY newtab.customize.suggested "Məsləhət görülənləri və tez-tez ziyahət edilən saytları göstər">
+<!ENTITY newtab.customize.topsites "Tez-tez ziyarət etdiyiniz saytları göstər">
+<!ENTITY newtab.customize.blank2 "Boş səhifə göstər">
 <!ENTITY newtab.customize.what "Bu səhifə nədir?">
 <!ENTITY newtab.intro.header "Bu səhifə nədir?">
 <!ENTITY newtab.undo.removedLabel "Eskiz silindi.">
