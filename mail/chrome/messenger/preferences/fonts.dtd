@@ -22,6 +22,8 @@
 <!ENTITY  monospace.accesskey                     "T">
 <!-- LOCALIZATION NOTE (font.langGroup.latin) :
      Translate "Latin" as the name of Latin (Roman) script, not as the name of the Latin language. -->
+
+<!ENTITY  font.langGroup.latin                    "Latina">
 <!ENTITY  font.langGroup.japanese                 "Japoniarra">
 <!ENTITY  font.langGroup.trad-chinese             "Txinatar arrunta (Taiwan)">
 <!ENTITY  font.langGroup.simpl-chinese            "Txinatar soildua">
@@ -29,7 +31,7 @@
 <!ENTITY  font.langGroup.korean                   "Koreera">
 <!ENTITY  font.langGroup.cyrillic                 "Zirilikoa">
 <!ENTITY  font.langGroup.el                       "Grekoa">
-
+<!ENTITY  font.langGroup.other                    "Bestelako idazketa sistemak">
 <!ENTITY  font.langGroup.thai                     "Thailandiera">
 <!ENTITY  font.langGroup.hebrew                   "Hebreera">
 <!ENTITY  font.langGroup.arabic                   "Arabiera">
