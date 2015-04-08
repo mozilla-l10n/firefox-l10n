@@ -68,7 +68,7 @@
 <!-- Localization note (num_tabs2) : Number of tabs is always more than one.
      We can't use android plural forms, sadly. See bug #753859. -->
 <!ENTITY num_tabs2 "&formatD; ಟ್ಯಾಬ್‌ಗಳು">
-<!ENTITY new_tab_opened "ಹೊಸ ಟ್ಯಾಬ್ ತೆರೆಯಲಾಗಿದೆ">
+<!ENTITY new_tab_opened "ಹೊಸ ಹಾಳೆ ತೆರೆಯಲಾಗಿದೆ">
 <!ENTITY new_private_tab_opened "ಹೊಸ ಖಾಸಗಿ ಹಾಳೆ ತೆಗೆಯಲಾಗಿದೆ">
 <!-- Localization note (switch_button_message): This string should be as short
      as possible because it's shown as a label in a toast.  Ideally, this string
@@ -331,7 +331,7 @@ size. -->
 <!ENTITY desktop_mode "ಡೆಸ್ಕ್‌ಟಾಪ್ ತಾಣವನ್ನು ಕೇಳಿ">
 <!ENTITY page "ಪುಟ">
 <!ENTITY tools "ಸಾಧನಗಳು">
-<!ENTITY new_tab "ಹೊಸ ಟ್ಯಾಬ್">
+<!ENTITY new_tab "ಹೊಸ ಹಾಳೆ">
 <!ENTITY new_private_tab "ಹೊಸ ಖಾಸಗಿ ಟ್ಯಾಬ್">
 <!ENTITY close_all_tabs "ಎಲ್ಲ ಟ್ಯಾಬ್‍ಗಳನ್ನು ಮುಚ್ಚು">
 <!ENTITY close_private_tabs "ಖಾಸಗಿ ಹಾಳೆಗಳನ್ನು ಮುಚ್ಚು">
@@ -506,7 +506,7 @@ size. -->
 <!ENTITY private_tabs_panel_learn_more "ಹೆಚ್ಚಿನದನ್ನು ಕಲಿಯಬೇಕೆ?">
 
 <!ENTITY remote_tabs_panel_moved_title "ನನ್ನ ಹಾಳೆಗಳು ಎಲ್ಲಿ ಹೋದವು?">
-<!ENTITY remote_tabs_panel_moved_desc "ನೀವು ಹೊಸ ಟ್ಯಾಬ್ ತೆರೆದಾಗೆಲ್ಲ ಬಳಕೆಗೆ ಲಭ್ಯವಿರುವಂತೆ ನಿಮ್ಮ ಜಾಲ ಪುಟಕ್ಕೆ ಬೇರೆಯ ಸಾಧನಗಳಲ್ಲಿದ್ದ ಟ್ಯಾಬ್‌ಗಳನ್ನು ಜರುಗಿಸಿದ್ದೇವೆ.">
+<!ENTITY remote_tabs_panel_moved_desc "ನೀವು ಹೊಸ ಹಾಳೆ ತೆರೆದಾಗೆಲ್ಲ ಬಳಕೆಗೆ ಲಭ್ಯವಿರುವಂತೆ ನಿಮ್ಮ ಜಾಲ ಪುಟಕ್ಕೆ ಬೇರೆಯ ಸಾಧನಗಳಲ್ಲಿದ್ದ ಹಾಳೆಗಳನ್ನು ಜರುಗಿಸಿದ್ದೇವೆ.">
 <!ENTITY remote_tabs_panel_moved_link "ನನ್ನನ್ನು ನನ್ನ ಹೊಸ ಮುಖ್ಯ ಪಟ್ಟಿಗೆ ಕರೆದುಕೊಂಡು ಹೋಗು.">
 
 <!ENTITY pin_site_dialog_hint "ಹುಡುಕು ಕೀಲಿಪದವೊಂದನ್ನು ನಮೂದಿಸಿ">
