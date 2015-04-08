@@ -113,7 +113,7 @@
 <!ENTITY offlineAppRemove.confirm        "Oflayn məlumatlarını sil">
 
 <!ENTITY certificateTab.label            "Sertifikatlar">
-
+<!ENTITY certSelection.label             "Sorğular">
 <!ENTITY certSelection.description       "Server şəxsi sertifikat istəyəndə:">
 <!ENTITY certs.auto                      "Birini avtomatik seç">
 <!ENTITY certs.auto.accesskey            "S">

@@ -63,9 +63,10 @@
 <!ENTITY  allowPagesToUse.label                   "Səhifələrə mənim seçdiklərimdən əlavə öz yazı tiplərini seçmə icazəsi ver">
 <!ENTITY  allowPagesToUse.accesskey               "S">
 
-
-
-
+<!ENTITY languages.customize.Fallback2.grouplabel "İrsi Məzmun üçün mətn simvol kodlaşdırması">
+<!ENTITY languages.customize.Fallback2.label      "Alternativ Mətn Kodlaşdırması:">
+<!ENTITY languages.customize.Fallback2.accesskey  "M">
+<!ENTITY languages.customize.Fallback2.desc       "Bu simvol kodlaşdırması öz kodlaşdırmasını təyin edə bilməyən irsi məzmun üçün işlədilib.">
 
 <!ENTITY languages.customize.Fallback.auto        "Mövcud məkan üçün əsas dəyər">
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.arabic):
