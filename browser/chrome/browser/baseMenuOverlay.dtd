@@ -16,7 +16,7 @@
 <!ENTITY helpMenuWin.accesskey    "H">
 <!ENTITY aboutProduct2.label      "About &brandShorterName;">
 <!ENTITY aboutProduct2.accesskey  "A">
-<!ENTITY productHelp2.label       "&brandShortName; সহায়তা(H)">
+<!ENTITY productHelp2.label       "&brandShorterName; সহায়তা">
 <!ENTITY productHelp2.accesskey   "H">
 <!ENTITY helpMac.commandkey       "?">
 
@@ -26,7 +26,7 @@
 <!ENTITY helpSafeMode.label       "অতিরিক্ত সামগ্রী নিষ্ক্রিয় করে পুনরারম্ভ করুন…">
 <!ENTITY helpSafeMode.accesskey   "R">
 
-<!ENTITY healthReport2.label      "&brandShortName;  স্বাস্থ্য রিপোর্ট(e)">
+<!ENTITY healthReport2.label      "&brandShorterName; স্বাস্থ্য রিপোর্ট">
 <!ENTITY healthReport2.accesskey  "e">
 
 <!ENTITY helpTroubleshootingInfo.label      "সমস্যা সমাধান সংক্রান্ত তথ্য">

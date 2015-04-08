@@ -45,9 +45,9 @@
 
 <!ENTITY profilerUI.toolbar.waterfall "সময় রেখা">
 <!ENTITY profilerUI.toolbar.js-calltree "JavaScript">
-
+<!ENTITY profilerUI.toolbar.memory-calltree1 "বরাদ্দকরণ">
 <!ENTITY profilerUI.toolbar.js-flamegraph "JS ফ্লেম চার্ট">
-
+<!ENTITY profilerUI.toolbar.memory-flamegraph1 "বরাদ্দকরণ ফ্লেম চার্ট">
 <!-- LOCALIZATION NOTE (profilerUI.table.*): These strings are displayed
   -  in the call tree headers for a recording. -->
 
@@ -57,7 +57,7 @@
 <!ENTITY profilerUI.table.selfPercentage  "নিজস্ব দাম">
 <!ENTITY profilerUI.table.samples         "নমুনা">
 <!ENTITY profilerUI.table.function        "ফাংশন">
-
+<!ENTITY profilerUI.table.totalAlloc1       "সর্বমোট স্যাম্পেল বরাদ্দকরণ">
 
 
 
@@ -67,6 +67,8 @@
 <!ENTITY profilerUI.newtab.tooltiptext "নির্বাচন থেকে নতুন ট্যাব যোগ করুন">
 <!-- LOCALIZATION NOTE (profilerUI.toolbar.filter.tooltiptext): This string
   -  is displayed next to the filter button-->
+
+<!ENTITY profilerUI.options.filter.tooltiptext "টাইমলাইনে কি প্রদর্শন করতে হবে তথ্য নির্বাচন করুন">
 <!-- LOCALIZATION NOTE (profilerUI.options.tooltiptext): This is the tooltip
   -  for the options button. -->
 
