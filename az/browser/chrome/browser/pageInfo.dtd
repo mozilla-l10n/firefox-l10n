@@ -22,7 +22,7 @@
 <!ENTITY  generalReferrer       "Yönləndirən URL:">
 <!ENTITY  generalSource         "Qaynaq:">
 <!ENTITY  generalModified       "Dəyişmə tarixi:">
-
+<!ENTITY  generalEncoding2      "Mətn Kodlaması:">
 <!ENTITY  generalMetaName       "Ad">
 <!ENTITY  generalMetaContent    "Məzmun">
 
