@@ -6,8 +6,8 @@
 <!ENTITY  no_space_to_start_error "Não existe espaço suficiente disponível para iniciar o &brandShortName;.">
 <!ENTITY  error_loading_file "Ocorreu um erro ao tentar carregar ficheiros necessários para executar o &brandShortName;">
 
-<!ENTITY  onboard_start_message "Bem vindo ao &brandShortName;!">
-<!ENTITY  onboard_start_subtext "Comprometido consigo, a sua privacidade e uma web aberta">
+<!ENTITY  onboard_start_message2 "Bem vindo ao &brandShortName;">
+<!ENTITY  onboard_start_subtext2 "Mais funcionalidades e formas de personalização do que nunca.">
 <!ENTITY  onboard_start_button_account "Iniciar sessão no &brandShortName;">
 <!ENTITY  onboard_start_button_browser "Começar a navegar">
 
@@ -172,10 +172,10 @@
 <!ENTITY pref_cookies_not_accept_foreign "Ativado, excluindo os de terceiros">
 <!ENTITY pref_cookies_disabled "Desativado">
 
-<!ENTITY pref_donottrack_menu "Seguimento">
-<!ENTITY pref_donottrack_disallow_tracking "Dizer aos sítios que não quero ser seguido">
-<!ENTITY pref_donottrack_allow_tracking "Dizer aos sítios que quero ser seguido">
-<!ENTITY pref_donottrack_no_pref "Não dizer aos sítios nada sobre as preferências de onde estou">
+<!ENTITY pref_tracking_protection_title "Proteção de monitorização">
+<!ENTITY pref_tracking_protection_summary "O &brandShortName; irá impedir que sítios o monitorizem">
+<!ENTITY pref_donottrack_title "Não monitorizar">
+<!ENTITY pref_donottrack_summary "O &brandShortName; irá informar os sítios web que não quer ser monitorizado">
 
 <!ENTITY pref_char_encoding "Codificação de caracteres">
 <!ENTITY pref_char_encoding_on "Mostrar menu">
@@ -210,6 +210,11 @@ size. -->
 <!-- Localization note (pref_font_size_preview_text): This paragraph is used as an example to
     demonstrate the font size setting.  It is meant to be whimsical and fun. -->
 <!ENTITY pref_font_size_preview_text "A raposa ultrapassa as expetativas com mais velocidade, maior flexibilidade e segurança. Como não lucrativa, somos livres para inovar por si sem pressões ou compromissos. Isto significa uma melhor experiência para si e um futuro brilhante para a web.">
+
+<!ENTITY pref_media_autoplay_enabled "Permitir reprodução automática">
+<!ENTITY pref_media_autoplay_enabled_summary "Define se os sítios web podem reproduzir automaticamente vídeos e outros tipos de media">
+<!ENTITY pref_zoom_force_enabled "Ativar sempre o zoom">
+<!ENTITY pref_zoom_force_enabled_summary "Forçar a ativação do zoom em qualquer página">
 
 <!ENTITY pref_use_master_password "Usar senha mestra">
 <!ENTITY pref_sync "Sync">
@@ -266,7 +271,7 @@ size. -->
      (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
 <!ENTITY datareporting_crashreporter_title_short "Relator de erro">
 <!ENTITY datareporting_wifi_title2 "Serviço de localização do &vendorShortName;">
-<!ENTITY datareporting_wifi_geolocation_summary2 "Partilha a localização aproximada do seu dispositivo com o &vendorShortName; com recurso ao Wi-Fi e rede móvel para melhorar o nosso serviço de geolocalização">
+<!ENTITY datareporting_wifi_geolocation_summary3 "Ajude o &vendorShortName; a mapear o mundo! Partilhe a localização aproximada da rede sem fios e da rede móvel do seu dispositivo para melhorar o nosso serviço de geolocalização">
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
      actual notification that an update is available. -->
@@ -361,8 +366,17 @@ size. -->
 <!ENTITY site_settings_no_settings  "Não existem definições para limpar.">
 
 <!ENTITY reading_list_added "Página adicionada à sua lista de leitura">
-<!ENTITY reading_list_failed "O adicionar da página à sua lista de leitura falhou">
-<!ENTITY reading_list_duplicate "Página já na sua lista de leitura">
+<!ENTITY reading_list_removed "Página removida da sua lista de leitura">
+<!-- Localization note (reading_list_remove) : Used to remove the currently open page from
+     the user's reading list. The opposite of overlay_share_reading_list_btn_label. -->
+<!ENTITY reading_list_remove "Remover da lista de leitura">
+<!ENTITY reading_list_duplicate "A página já existe na sua lista de leitura">
+
+<!-- Localization note (reading_list_time_minutes2) : This string is used in the "Reading List"
+     panel on the home page to give the user an estimate of how many minutes it will take to
+     read an article. The word "minute" should be abbreviated if possible. -->
+<!ENTITY reading_list_time_minutes2 "&formatD; min">
+<!ENTITY reading_list_time_over_an_hour "Mais de uma hora">
 
 <!-- Localization note : These strings are used as alternate text for accessibility.
      They are not visible in the UI. -->
@@ -386,6 +400,9 @@ size. -->
      text underneath empty thumbnails in the Top Sites page on about:home. -->
 <!ENTITY home_top_sites_add "Adicionar um sítio">
 
+<!-- Localization note (home_title): This string should be kept in sync
+     with the page title defined in aboutHome.dtd -->
+<!ENTITY home_title "Página inicial do &brandShortName;">
 <!ENTITY home_history_title "Histórico">
 <!ENTITY home_clear_history_button "Limpar o histórico de navegação">
 <!ENTITY home_clear_history_confirm "Tem a certeza que pretende limpar o seu histórico de navegação?">
@@ -395,6 +412,9 @@ size. -->
 <!ENTITY home_last_tabs_empty "Os seus separadores recentes.">
 <!ENTITY home_open_all "Abrir todos">
 <!ENTITY home_most_recent_empty "Os sítios web mais visitados são aqui apresentados.">
+<!-- Localization note (home_most_recent_emptyhint2): "Psst" is a sound that might be used to attract someone's attention unobtrusively, and intended to hint at Private Browsing to the user.
+     The placeholders &formatS1; and &formatS2; are used to mark the location of text underlining. -->
+<!ENTITY home_most_recent_emptyhint2 "Psst: ao utilizar uma &formatS1;novo separador privado&formatS2; o seu histórico não será guardado.">
 <!ENTITY home_reading_list_empty "Artigos que guarda para ver são apresentados aqui.">
 <!-- Localization note (home_reading_list_hint): The "TIP" string is synonymous to "hint", "clue", etc. This string is displayed
      as an advisory message on how to add content to the reading list when the reading list empty.
@@ -417,7 +437,9 @@ size. -->
 <!ENTITY home_remote_tabs_empty "Os seus separadores de outros dispositivos são apresentados aqui.">
 <!ENTITY home_remote_tabs_unable_to_connect "Não foi possível ligar">
 <!ENTITY home_remote_tabs_need_to_sign_in "Por favor, inicie sessão para restabelecer a ligação à sua Conta Firefox e continuar a sincronizar.">
-<!ENTITY home_remote_tabs_trouble_verifying "Problemas a confirmar a sua conta?">
+<!ENTITY home_remote_tabs_need_to_finish_migrating "A sua nova Conta Firefox está pronta!">
+
+<!ENTITY home_remote_tabs_trouble_verifying "Problemas ao confirmar a sua conta?">
 <!ENTITY home_remote_tabs_need_to_verify "Por favor confirme a sua Conta do Firefox para começar a sincronizar.">
 
 <!ENTITY home_remote_tabs_one_hidden_device "1 dispositivo oculto">
@@ -462,11 +484,21 @@ substitution variables.  If it is difficult to translate the sense of the string
 with that structure, consider a translation which ignores the preceding domain and
 just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_run_by "que é gerido por">
+<!ENTITY identity_no_info "Este sítio web não fornece informações de identidade.">
+<!ENTITY identity_not_encrypted "A sua ligação a este sítio web não é cifrada.">
 
 <!-- Mixed content notifications in site identity popup -->
 <!ENTITY loaded_mixed_content_message "Esta página está a mostrar conteúdo não seguro.">
 <!ENTITY blocked_mixed_content_message_top "O &brandShortName; bloqueou conteúdo não seguro.">
 <!ENTITY blocked_mixed_content_message_bottom "A maioria dos sítios web funciona bem mesmo quando o conteúdo é bloqueado.">
+
+<!-- Tracking content notifications in site identity popup -->
+<!ENTITY loaded_tracking_content_message_top "Proteção de monitorização desativada.">
+<!ENTITY loaded_tracking_content_message_bottom "Partes desta página podem monitorizar a sua atividade na Internet.">
+<!ENTITY blocked_tracking_content_message_top2 "Proteção de monitorização ativada.">
+<!ENTITY blocked_tracking_content_message_bottom2 "As partes desta página que podem monitorizar a sua atividade na Internet foram bloqueadas.">
+
+<!-- Common mixed and tracking content strings in site identity popup -->
 <!ENTITY learn_more "Saber mais">
 <!ENTITY enable_protection "Ativar proteção">
 <!ENTITY disable_protection "Desativar proteção">
@@ -495,8 +527,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY searchable_description "Marcadores e histórico">
 
-<!ENTITY devtools_remote_debugging_forward "Não esquecer de configurar o port forwarding!">
-
  <!-- Updater notifications -->
 <!ENTITY updater_start_title2 "Atualização disponível para o &brandShortName;">
 <!ENTITY updater_start_select2 "Toque para transferir.">
@@ -508,12 +538,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY updater_apply_title2 "Atualização disponível para o &brandShortName;">
 <!ENTITY updater_apply_select2 "Toque para atualizar.">
-
-<!-- New tablet UI -->
-
-<!-- LOCALIZATION NOTE (new_tablet_restart): Notification displayed after the user toggles the new tablet UI in the settings screen.-->
-<!ENTITY new_tablet_restart "Reinicie o navegador para que as alterações surtam efeito">
-<!ENTITY new_tablet_pref "Ativar o novo interface para tablets">
 
 <!-- Guest mode -->
 <!ENTITY new_guest_session "Nova sessão de convidado">
@@ -541,6 +565,13 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY actionbar_menu "Menu">
 <!ENTITY actionbar_done "Feito">
 
+<!-- Voice search in the awesome bar -->
+<!ENTITY voicesearch_prompt "Fale agora">
+<!ENTITY voicesearch_failed_title "Pesquisa de voz do &brandShortName;">
+<!ENTITY voicesearch_failed_message "Neste momento existe um problema com a pesquisa de voz. Por favor tente novamente mais tarde.">
+<!ENTITY voicesearch_failed_message_recoverable "Pedimos desculpa! Não conseguimos reconhecer as suas palavras. Por favor tente novamente.">
+<!ENTITY voicesearch_failed_retry "Tentar novamente">
+
 <!-- Localization note (remote_tabs_last_synced): the variable is replaced by a
      "relative time span string" produced by Android.  This string describes the
      time the tabs were last synced relative to the current time; examples
@@ -548,3 +579,10 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      "Last synced" is one of the user's other Sync clients, typically Firefox on
      their desktop or laptop.-->
 <!ENTITY remote_tabs_last_synced "Última sincronização: &formatS;">
+<!-- Localization note: Used when the sync has not happend yet, showed in place of a date -->
+<!ENTITY remote_tabs_never_synced "Última sincronização: nunca">
+
+<!-- Find-In-Page strings -->
+<!-- LOCALIZATION NOTE (find_matchcase): This is meant to appear as an icon that changes color
+     if match-case is activated. i.e. No more than two letters, one uppercase, one lowercase. -->
+<!ENTITY find_matchcase "Aa">
