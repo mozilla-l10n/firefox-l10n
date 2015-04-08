@@ -150,6 +150,8 @@
      etc).  The account remains a "Firefox Account". -->
 <!ENTITY fxaccount_create_account_header2 'Criar uma Conta do Firefox'>
 <!ENTITY fxaccount_create_account_password_length_restriction 'Tem de ter pelo menos 8 caracteres'>
+<!ENTITY fxaccount_create_account_day_of_birth 'Dia'>
+<!ENTITY fxaccount_create_account_month_of_birth 'Mês'>
 <!ENTITY fxaccount_create_account_year_of_birth 'Data de nascimento'>
 <!-- Localization note: &formatS1; is fxaccount_policy_linktos, &formatS2; is fxaccount_policy_linkprivacy, both hyperlinked. -->
 <!ENTITY fxaccount_create_account_policy_text2 'Ao continuar, eu concordo com a &formatS1; e a &formatS2; dos serviços na nuvem do Firefox.'>
@@ -167,8 +169,12 @@
 <!-- Localization note: &formatS; is the Firefox Account's email address. -->
 <!ENTITY fxaccount_confirm_account_verification_link 'Foi enviada uma ligação de verificação para &formatS;'>
 <!ENTITY fxaccount_confirm_account_resend_email 'Reenviar mensagem de correio'>
+<!ENTITY fxaccount_confirm_account_change_email 'Esquecer este endereço de email?'>
 <!ENTITY fxaccount_confirm_account_verification_link_sent2 'Mensagem de verificação enviada'>
 <!ENTITY fxaccount_confirm_account_verification_link_not_sent2 'Não foi possível enviar a mensagem de verificação'>
+<!ENTITY fxaccount_resend_unlock_code_button_label 'Reenviar email de desbloqueio'>
+<!ENTITY fxaccount_unlock_code_sent 'Email para desbloqueio da conta enviado'>
+<!ENTITY fxaccount_unlock_code_not_sent 'Não foi possível enviar o email para o desbloqueio da conta'>
 
 <!ENTITY fxaccount_sign_in_sub_header 'Iniciar sessão'>
 <!ENTITY fxaccount_sign_in_button_label 'Iniciar sessão'>
@@ -179,13 +185,21 @@
 <!ENTITY fxaccount_account_verified_sub_header 'Conta verificada'>
 <!ENTITY fxaccount_account_verified_description2 'Os seus dados serão sincronizados momentaneamente.'>
 
+<!ENTITY fxaccount_migration_finished_header 'Atualização concluída'>
+
 <!ENTITY fxaccount_update_credentials_header 'Iniciar sessão'>
 <!ENTITY fxaccount_update_credentials_button_label 'Iniciar sessão'>
 <!ENTITY fxaccount_update_credentials_unknown_error 'Não foi possível ligar'>
 
+<!ENTITY fxaccount_finish_migrating_header 'Inicie sessão para concluir a atualização'>
+<!ENTITY fxaccount_finish_migrating_button_label 'Concluir atualização'>
+<!ENTITY fxaccount_finish_migrating_description 'A atualização pode transferir uma quantidade significativa de dados. Recomenda-se a utilização de uma rede sem fios.'>
+
 <!ENTITY fxaccount_status_header2 'Conta Firefox'>
 <!ENTITY fxaccount_status_signed_in_as 'Ligado como'>
 <!ENTITY fxaccount_status_auth_server 'Servidor da conta'>
+<!ENTITY fxaccount_status_sync_now 'Sincronizar agora'>
+<!ENTITY fxaccount_status_syncing2 'A sincronizar…'>
 <!ENTITY fxaccount_status_device_name 'Nome do dispositivo'>
 <!ENTITY fxaccount_status_sync_server 'Servidor de sincronização'>
 <!ENTITY fxaccount_status_sync '&syncBrand.shortName.label;'>
@@ -194,8 +208,9 @@
 <!ENTITY fxaccount_status_needs_credentials 'Não é possível ligar. Toque para iniciar.'>
 <!ENTITY fxaccount_status_needs_upgrade 'Tem de atualizar o &brandShortName; para iniciar sessão.'>
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled '&syncBrand.shortName.label; está configurado, mas não está a sincronizar automaticamente. Ative “Sincronizar dados automaticamente” nas definições do Android e de utilização de dados.'>
-<!ENTITY fxaccount_status_needs_account_enabled '&syncBrand.shortName.label; está configurado, mas não está a sincronizar automaticamente. Toque para iniciar a sincronização.'>
-<!ENTITY fxaccount_status_bookmarks 'Marcadoress'>
+<!ENTITY fxaccount_status_needs_master_sync_automatically_enabled_v21 'O &syncBrand.shortName.label; está configurado, mas não está a sincronizar automaticamente. Ative a opção “Sincronização automática” no menu de Contas e Definições do Android.'>
+<!ENTITY fxaccount_status_needs_finish_migrating 'Toque para iniciar sessão na sua nova Conta Firefox.'>
+<!ENTITY fxaccount_status_bookmarks 'Marcadores'>
 <!ENTITY fxaccount_status_history 'Histórico'>
 <!ENTITY fxaccount_status_passwords 'Senhass'>
 <!ENTITY fxaccount_status_tabs 'Abrir separadores'>
@@ -242,8 +257,14 @@
 <!ENTITY fxaccount_remote_error_SERVICE_TEMPORARILY_UNAVAILABLE_TO_DUE_HIGH_LOAD 'Servidor ocupado, tente mais tarde'>
 <!ENTITY fxaccount_remote_error_UNKNOWN_ERROR 'Houve um problema'>
 <!ENTITY fxaccount_remote_error_COULD_NOT_CONNECT 'Não é possível ligar à rede'>
+<!ENTITY fxaccount_remote_error_ACCOUNT_LOCKED 'A conta está bloqueada. &formatS1;'>
 
 <!ENTITY fxaccount_sync_sign_in_error_notification_title2 '&syncBrand.shortName.label; não está ligado'>
 <!-- Localization note: the format string below will be replaced
      with the Firefox Account's email address. -->
 <!ENTITY fxaccount_sync_sign_in_error_notification_text2 'Toque para iniciar sessão como &formatS;'>
+
+<!ENTITY fxaccount_sync_finish_migrating_notification_title 'Terminar a atualização do &syncBrand.shortName.label;?'>
+<!-- Localization note: the format string below will be replaced
+     with the Firefox Account's email address. -->
+<!ENTITY fxaccount_sync_finish_migrating_notification_text 'Toque para iniciar sessão como &formatS;'>
