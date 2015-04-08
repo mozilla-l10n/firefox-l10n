@@ -42,7 +42,7 @@
 <!ENTITY url_bar_default_text2 "Khangela okanye ngenisa idilesi">
 
 <!ENTITY bookmark "Ibhukhmakhi">
-
+<!ENTITY bookmark_remove "Susa into yokuphawula">
 <!ENTITY bookmark_added "Iibhukhmakhi zongeziwe">
 <!ENTITY bookmark_removed "Iibhukhmakhi zisusiwe">
 <!ENTITY bookmark_updated "Iibhukhmakhi zihlaziyiwe">
@@ -80,7 +80,7 @@
 <!ENTITY pref_category_advanced "Kwinqanaba eliphambili">
 <!ENTITY pref_category_customize "Lungiselela">
 <!ENTITY pref_category_customize_summary "Ekhaya, khangela, iithebhu, ngenisa">
-
+<!ENTITY pref_category_customize_alt_summary "Ekhaya, khangela, ii-tabs, vula ngelinye ixesha, fudusa">
 <!-- Localization note (pref_category_language) : This is the preferences
      section in which the user picks the locale in which to display Firefox
      UI. The locale includes both language and region concepts. -->
@@ -119,12 +119,14 @@
 <!-- Localization note (overlay_no_synced_devices) : Used when the menu option
      to send a tab to a synced device is pressed and no other synced devices
      are found. -->
+<!ENTITY overlay_no_synced_devices "Akukho zixhobo zeAkhawunti ye-Firefox eziqhagmshelweyo zifunyenweyo ">
 <!-- Localization note (overlay_share_tab_not_sent) : Used when the menu option
      to send a tab to a synced device is pressed and there is an error
      connecting to the server so the tab could not be sent. The text should be
      divided into two lines (use the newline escape character, "\n", between
      them): the first notifying the user about the failure and the second
      telling the user what to do about it. -->
+<!ENTITY overlay_share_tab_not_sent "I-tab yakho ayikwazi kuthunyelwa.\nNceda uzame kwakhon ngelinye ixesha.">
 
 <!ENTITY pref_category_search3 "Khangela">
 <!ENTITY pref_category_search_summary "Lungiselela izikhangeli zakho">
@@ -151,9 +153,9 @@
 <!ENTITY pref_category_devtools_summary "Ukususa ibhai ukude, ukuflesha ipeyinti">
 <!ENTITY pref_developer_paint_flashing "Ukukhanya kwepeyinti">
 <!ENTITY pref_developer_remotedebugging "Ukukhupha ibagi kude">
-
+<!ENTITY pref_category_logins "Izinto zokuNgena ekhompyutheni">
 <!ENTITY pref_remember_signons "Khumbula iipasiwedi">
-
+<!ENTITY pref_manage_logins "Lawula izinto zokungena ekhompyutheni">
 
 <!ENTITY pref_category_home "Ekhaya">
 <!ENTITY pref_category_home_summary "Lungiselela ikhasi lekhaya lakho">
@@ -190,17 +192,22 @@
 <!ENTITY pref_donottrack_title "Musa ukulanda umkhondo">
 <!ENTITY pref_donottrack_summary "&brandShortName; izakuxelela isayithi ukub akufundi ukulandwa">
 
-
+<!ENTITY tab_queue_toast_message "Vula ngelinye ixesha">
+<!ENTITY tab_queue_toast_action "Vula ngoku">
 <!-- Localization note (tab_queue_notification_text_plural) : The
      formatD is replaced with the number of tabs queued.  The
      number of tabs queued is always more than one.  We can't use
      Android plural forms, sadly. See Bug #753859. -->
+<!ENTITY tab_queue_notification_text_plural "&formatD; i-tabs ezikrozisiweyo">
 <!-- Localization note (tab_queue_notification_title_plural) : This is the
      title of a notification; we expect more than one tab queued. -->
+<!ENTITY tab_queue_notification_title_plural "I-tabs Ezikrozisiweyo">
 <!-- Localization note (tab_queue_notification_title_singular) : This is the
      title of a notification; we expect only one tab queued. -->
+<!ENTITY tab_queue_notification_title_singular "I-tab Ekrozisiweyo ">
 <!-- Localization note (tab_queue_notification_text_singular) : This is the
      text of a notification; we expect only one tab queued. -->
+<!ENTITY tab_queue_notification_text_singular "1 tab ekrozisiweyo">
 
 <!ENTITY pref_char_encoding "Ukufakwa kwekhowudi kwikharekhtha">
 <!ENTITY pref_char_encoding_on "Bonisa imenyu">
