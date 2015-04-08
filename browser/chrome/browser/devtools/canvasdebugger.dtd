@@ -23,10 +23,8 @@
 
 <!ENTITY canvasDebuggerUI.emptyNotice1    "এটায় ক্লিক করুন">
 <!ENTITY canvasDebuggerUI.emptyNotice2    "অ্যানিমেশন ফ্রেমের কল স্তূপ রেকর্ড করার বোতাম।">
-<!-- LOCALIZATION NOTE (canvasDebuggerUI.reloadNotice1): This is the label shown
-  -  in the call list view while loading a snapshot. -->
-
-<!ENTITY canvasDebuggerUI.importNotice    "লোড করা হচ্ছে…">
+<!-- LOCALIZATION NOTE (canvasDebuggerUI.waitingNotice): This is the label shown
+  -  in the call list view while recording a snapshot. -->
 <!-- LOCALIZATION NOTE (canvasDebuggerUI.recordSnapshot): This string is displayed
   -  on a button that starts a new snapshot. -->
 
