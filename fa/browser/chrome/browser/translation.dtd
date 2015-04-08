@@ -17,6 +17,7 @@
 <!ENTITY translation.translate.button           "ترجمه">
 <!ENTITY translation.notNow.button              "اکنون نه">
 
+<!ENTITY translation.translatingContent.label   "در حال ترجمه محتوای صفحه…">
 <!-- LOCALIZATION NOTE (translation.translatedFrom.label,
   -                     translation.translatedTo.label,
   -                     translation.translatedToSuffix.label):
@@ -32,13 +33,18 @@
   -  translation.translatedToSuffix.label (empty in en-US) is for locales that
   -  need to display some text after the second drop down for the sentence to
   -  be grammatically correct. -->
+
+<!ENTITY translation.translatedFrom.label       "این صفحه ترجمه شده است از زبان">
 <!ENTITY translation.translatedTo.label         "تا">
 <!ENTITY translation.translatedToSuffix.label   "">
 
+<!ENTITY translation.showOriginal.button        "نمایش اصل">
+<!ENTITY translation.showTranslation.button     "نمایش ترجمه">
 
-
+<!ENTITY translation.errorTranslating.label     "هنگام ترجمه این صفحه خطایی رخ داد.">
 <!ENTITY translation.tryAgain.button            "تلاش دوباره">
 
+<!ENTITY translation.serviceUnavailable.label   "ترجمه هم‌اکنون در دسترس نمی‌باشد. لطفا بعدا دوباره تلاش کنید.">
 
 <!ENTITY translation.options.menu               "گزینه‌ها">
 <!-- LOCALIZATION NOTE (translation.options.neverForSite.accesskey,

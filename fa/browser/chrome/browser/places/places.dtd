@@ -52,8 +52,8 @@
 <!ENTITY cmd.open.accesskey              "ب">
 <!ENTITY cmd.open_window.label           "باز کردن در پنجرهٔ جدید">
 <!ENTITY cmd.open_window.accesskey       "پ">
-
-
+<!ENTITY cmd.open_private_window.label     "باز کردن پنجرهٔ ناشناس جدید">
+<!ENTITY cmd.open_private_window.accesskey "ن">
 <!ENTITY cmd.open_tab.label              "باز کردن در زبانهٔ جدید">
 <!ENTITY cmd.open_tab.accesskey          "ج">
 <!ENTITY cmd.open_all_in_tabs.label      "باز کردن همه در زبانه‌های خاص خود">
@@ -83,7 +83,7 @@
 <!ENTITY col.name.label          "نام">
 <!ENTITY col.tags.label          "برچسب‌ها">
 <!ENTITY col.url.label           "مکان">
-
+<!ENTITY col.mostrecentvisit.label "جدیدترین بازدید">
 <!ENTITY col.visitcount.label    "تعداد بازدید">
 <!ENTITY col.keyword.label       "کلیدواژه">
 <!ENTITY col.description.label   "شرح">

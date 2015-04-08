@@ -13,7 +13,7 @@
 
 <!-- LOCALIZATION NOTE (netmonitorUI.reload1/2/3): These are the labels displayed
   -  in the network table when empty to start logging network requests. -->
-
+<!ENTITY netmonitorUI.reloadNotice2       "بارگیری مجدد">
 
 <!-- LOCALIZATION NOTE (netmonitorUI.toolbar.status2): This is the label displayed
   -  in the network table toolbar, above the "status" column. -->
@@ -21,6 +21,8 @@
   -  in the network table toolbar, above the "method" column. -->
 <!-- LOCALIZATION NOTE (netmonitorUI.toolbar.file): This is the label displayed
   -  in the network table toolbar, above the "file" column. -->
+
+<!ENTITY netmonitorUI.toolbar.file        "پرونده">
 <!-- LOCALIZATION NOTE (netmonitorUI.toolbar.domain): This is the label displayed
   -  in the network table toolbar, above the "domain" column. -->
 <!-- LOCALIZATION NOTE (netmonitorUI.toolbar.type): This is the label displayed
@@ -33,6 +35,8 @@
 <!-- LOCALIZATION NOTE (netmonitorUI.toolbar.size): This is the label displayed
   -  in the network table toolbar, above the "size" column, which is the
   -  uncompressed / decoded size. -->
+
+<!ENTITY netmonitorUI.toolbar.size        "اندازه">
 <!-- LOCALIZATION NOTE (netmonitorUI.toolbar.waterfall): This is the label displayed
   -  in the network table toolbar, above the "waterfall" column. -->
 <!-- LOCALIZATION NOTE (debuggerUI.tab.headers): This is the label displayed
@@ -57,6 +61,8 @@
 <!ENTITY netmonitorUI.tab.security        "امنیت">
 <!-- LOCALIZATION NOTE (debuggerUI.footer.filterAll): This is the label displayed
   -  in the network details footer for the "All" filtering button. -->
+
+<!ENTITY netmonitorUI.footer.filterAll    "همه">
 <!-- LOCALIZATION NOTE (debuggerUI.footer.filterHTML): This is the label displayed
   -  in the network details footer for the "HTML" filtering button. -->
 <!-- LOCALIZATION NOTE (debuggerUI.footer.filterCSS): This is the label displayed
@@ -71,6 +77,8 @@
 <!ENTITY netmonitorUI.footer.filterFonts  "قلم‌ها">
 <!-- LOCALIZATION NOTE (debuggerUI.footer.filterImages): This is the label displayed
   -  in the network details footer for the "Images" filtering button. -->
+
+<!ENTITY netmonitorUI.footer.filterImages "تصاویر">
 <!-- LOCALIZATION NOTE (debuggerUI.footer.filterMedia): This is the label displayed
   -  in the network details footer for the "Media" filtering button. -->
 
@@ -79,8 +87,12 @@
   -  in the network details footer for the "Flash" filtering button. -->
 <!-- LOCALIZATION NOTE (debuggerUI.footer.filterOther): This is the label displayed
   -  in the network details footer for the "Other" filtering button. -->
+
+<!ENTITY netmonitorUI.footer.filterOther  "موارد دیگر">
 <!-- LOCALIZATION NOTE (debuggerUI.footer.clear): This is the label displayed
   -  in the network details footer for the "Clear" button. -->
+
+<!ENTITY netmonitorUI.footer.clear  "پاک کردن">
 <!-- LOCALIZATION NOTE (debuggerUI.footer.clear): This is the label displayed
   -  in the network details footer for the performance analysis button. -->
 <!-- LOCALIZATION NOTE (debuggerUI.panesButton.tooltip): This is the tooltip for
@@ -107,6 +119,8 @@
 <!ENTITY netmonitorUI.response.dimensions "ابعاد:">
 <!-- LOCALIZATION NOTE (debuggerUI.response.mime): This is the label displayed
   -  in the network details response tab identifying an image's mime. -->
+
+<!ENTITY netmonitorUI.response.mime       "نوع MIME:">
 <!-- LOCALIZATION NOTE (debuggerUI.response.encoding): This is the label displayed
   -  in the network details response tab identifying an image's encoding. -->
 
@@ -114,18 +128,24 @@
 <!-- LOCALIZATION NOTE (debuggerUI.timings.blocked): This is the label displayed
   -  in the network details timings tab identifying the amount of time spent
   -  in a "blocked" state. -->
+
+<!ENTITY netmonitorUI.timings.blocked     "بلوکه‌شده:">
 <!-- LOCALIZATION NOTE (debuggerUI.timings.dns): This is the label displayed
   -  in the network details timings tab identifying the amount of time spent
   -  in a "dns" state. -->
 <!-- LOCALIZATION NOTE (debuggerUI.timings.connect): This is the label displayed
   -  in the network details timings tab identifying the amount of time spent
   -  in a "connect" state. -->
+
+<!ENTITY netmonitorUI.timings.connect     "در حال اتصال:">
 <!-- LOCALIZATION NOTE (debuggerUI.timings.send): This is the label displayed
   -  in the network details timings tab identifying the amount of time spent
   -  in a "send" state. -->
 <!-- LOCALIZATION NOTE (debuggerUI.timings.wait): This is the label displayed
   -  in the network details timings tab identifying the amount of time spent
   -  in a "wait" state. -->
+
+<!ENTITY netmonitorUI.timings.wait        "در انتظار:">
 <!-- LOCALIZATION NOTE (debuggerUI.timings.receive): This is the label displayed
   -  in the network details timings tab identifying the amount of time spent
   -  in a "receive" state. -->
@@ -146,6 +166,8 @@
 <!-- LOCALIZATION NOTE (netmonitorUI.security.connection): This is the label displayed
   -  in the security tab describing the section containing information related to
   -  the secure connection. -->
+
+<!ENTITY netmonitorUI.security.connection "اتصال:">
 <!-- LOCALIZATION NOTE (netmonitorUI.security.certificate): This is the label displayed
   -  in the security tab describing the server certificate section. -->
 
@@ -176,11 +198,17 @@
      from the currently displayed request -->
 <!-- LOCALIZATION NOTE (debuggerUI.summary.rawHeaders.requestHeaders): This is the label displayed
   -  in the network details headers tab identifying the raw request headers textarea -->
+
+<!ENTITY netmonitorUI.summary.rawHeaders.requestHeaders "سرآیندهای درخواست:">
 <!-- LOCALIZATION NOTE (debuggerUI.summary.rawHeaders.responseHeaders): This is the label displayed
   -  in the network details headers tab identifying the raw response headers textarea -->
+
+<!ENTITY netmonitorUI.summary.rawHeaders.responseHeaders "سرآیندهای پاسخ:">
 <!-- LOCALIZATION NOTE (netmonitorUI.context.newTab):  This is the label
   -  for the Open in New Tab menu item displayed in the context menu of the
   -  network container  -->
+
+<!ENTITY netmonitorUI.context.newTab      "باز کردن در زبانه جدید">
 <!-- LOCALIZATION NOTE (netmonitorUI.context.newTab.accesskey): This is the access key
   -  for the Open in New Tab menu item displayed in the context menu of the
   -  network container -->
@@ -190,10 +218,16 @@
   -  above the query string entry in the custom request form -->
 <!-- LOCALIZATION NOTE (debuggerUI.custom.headers): This is the label displayed
   -  above the request headers entry in the custom request form -->
+
+<!ENTITY netmonitorUI.custom.headers      "سرآیندهای درخواست:">
 <!-- LOCALIZATION NOTE (debuggerUI.custom.postData): This is the label displayed
   -  above the request body entry in the custom request form -->
+
+<!ENTITY netmonitorUI.custom.postData     "متن درخواست:">
 <!-- LOCALIZATION NOTE (debuggerUI.custom.send): This is the label displayed
   -  on the button which sends the custom request -->
+
+<!ENTITY netmonitorUI.custom.send         "ارسال">
 <!-- LOCALIZATION NOTE (debuggerUI.custom.cancel): This is the label displayed
   -  on the button which cancels and closes the custom request form -->
 

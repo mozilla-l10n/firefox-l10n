@@ -13,9 +13,9 @@
 <!ENTITY restorepage.startNew       "شروع یک نشست مرور جدید">
 
 <!ENTITY restorepage.tryagainButton "برگرداندن">
-
+<!ENTITY restorepage.restore.access "R">
 <!ENTITY restorepage.closeButton    "بستن">
-
+<!ENTITY restorepage.close.access   "C">
 
 <!ENTITY restorepage.restoreHeader  "بازگرداندن">
 <!ENTITY restorepage.listHeader     "پنجره‌ها و زبانه‌ها">
@@ -31,6 +31,7 @@
 
 <!ENTITY welcomeback2.tabtitle      "با موفقیت انجام شد!">
 
+<!ENTITY welcomeback2.pageTitle     "با موفقیت انجام شد!">
 <!ENTITY welcomeback2.pageInfo1     "&brandShortName; آماده شروع است.">
 
 <!ENTITY welcomeback2.label.restoreAll  "برگرداندن تمام پنجره ها و زبانه ها">

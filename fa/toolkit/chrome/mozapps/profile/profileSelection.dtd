@@ -27,4 +27,5 @@
 <!ENTITY            offlineState.label    "کار برون‌خط">
 <!ENTITY            offlineState.accesskey "ن">
 
-
+<!ENTITY            useSelected.label       "از پروفایل انتخاب شده بدون پرسش درهنگام‌ راه‌ اندازی استفاده شود">
+<!ENTITY            useSelected.accesskey   "ف">

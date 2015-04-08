@@ -37,10 +37,14 @@
   - the button to start execution tracing. -->
 <!-- LOCALIZATION NOTE (debuggerUI.clearButton): This is the label for
   -  the button that clears the collected tracing data in the tracing tab. -->
+
+<!ENTITY debuggerUI.clearButton "پاک کردن">
 <!-- LOCALIZATION NOTE (debuggerUI.clearButton.tooltip): This is the tooltip for
   -  the button that clears the collected tracing data in the tracing tab. -->
 <!-- LOCALIZATION NOTE (debuggerUI.pauseExceptions): This is the label for the
   -  checkbox that toggles pausing on exceptions. -->
+
+<!ENTITY debuggerUI.pauseExceptions           "توقف در استثناها">
 
 <!-- LOCALIZATION NOTE (debuggerUI.ignoreCaughtExceptions): This is the label for the
   -  checkbox that toggles ignoring caught exceptions. -->
@@ -60,12 +64,16 @@
   -  the checkbox that toggles the display of original or sourcemap-derived
   -  sources. -->
 
+<!ENTITY debuggerUI.showOriginalSource           "نمایش منابع اصلی">
+
 <!-- LOCALIZATION NOTE (debuggerUI.autoBlackBox): This is the label for
   -  the checkbox that toggles whether sources that we suspect are minified are
   -  automatically black boxed or not. -->
 
 <!-- LOCALIZATION NOTE (debuggerUI.searchPanelOperators): This is the text that
   -  appears in the filter panel popup as a header for the operators part. -->
+
+<!ENTITY debuggerUI.searchPanelOperators    "عملگرها:">
 <!-- LOCALIZATION NOTE (debuggerUI.searchFile): This is the text that appears
   -  in the source editor's context menu for the scripts search operation. -->
 
@@ -73,6 +81,8 @@
 
 <!-- LOCALIZATION NOTE (debuggerUI.searchGlobal): This is the text that appears
   -  in the source editor's context menu for the global search operation. -->
+
+<!ENTITY debuggerUI.searchGlobal           "جست‌وجو در تمام پرونده‌ها">
 
 
 <!-- LOCALIZATION NOTE (debuggerUI.searchFunction): This is the text that appears
@@ -87,6 +97,8 @@
 
 <!-- LOCALIZATION NOTE (debuggerUI.searchLine): This is the text that appears
   -  in the source editor's context menu for the line search operation. -->
+
+<!ENTITY debuggerUI.searchGoToLine           "برو به سطر…">
 
 
 <!-- LOCALIZATION NOTE (debuggerUI.searchVariable): This is the text that appears
@@ -128,9 +140,11 @@
   -  control the stepping commands in the debugger (continue, step over,
   -  step in and step out). -->
 
+<!ENTITY debuggerUI.stepping.resume1    "VK_F8">
 
+<!ENTITY debuggerUI.stepping.stepOver1  "VK_F10">
 
+<!ENTITY debuggerUI.stepping.stepIn1    "VK_F11">
 
-
-
+<!ENTITY debuggerUI.stepping.stepOut1   "VK_F11">
 

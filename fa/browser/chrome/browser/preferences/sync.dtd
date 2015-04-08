@@ -26,8 +26,8 @@
 <!ENTITY syncMy.label               "هم‌گام‌سازی موارد زیر">
 <!ENTITY engine.bookmarks.label     "نشانک‌ها">
 <!ENTITY engine.bookmarks.accesskey "ن">
-
-
+<!ENTITY engine.readinglist.label   "فهرست مطالعه">
+<!ENTITY engine.readinglist.accesskey "ف">
 <!ENTITY engine.tabs.label          "زبانه‌ها">
 <!ENTITY engine.tabs.accesskey      "ز">
 <!ENTITY engine.history.label       "تاریخچه">
@@ -49,6 +49,8 @@
 <!ENTITY prefs.ppLink.label         "سیاست حفظ حریم خصوصی">
 <!-- Firefox Accounts stuff -->
 
+<!ENTITY fxaPrivacyNotice.link.label "نکات حفظ حریم خصوصی">
+<!ENTITY determiningAcctStatus.label     "در حال تشخیص وضعیت حساب شما…">
 <!-- LOCALIZATION NOTE (signedInUnverified.beforename.label,
 signedInUnverified.aftername.label): these two string are used respectively
 before and after the account email address. Localizers can use one of them, or
@@ -56,21 +58,25 @@ both, to better adapt this sentence to their language.
 -->
 
 <!ENTITY signedInUnverified.beforename.label "">
-
+<!ENTITY signedInUnverified.aftername.label "تایید نشده است.">
 <!-- LOCALIZATION NOTE (signedInLoginFailure.beforename.label,
 signedInLoginFailure.aftername.label): these two string are used respectively
 before and after the account email address. Localizers can use one of them, or
 both, to better adapt this sentence to their language.
 -->
+
+<!ENTITY signedInLoginFailure.beforename.label "لطفا جهت ارتباط مجدد وارد شوید.">
 <!ENTITY signedInLoginFailure.aftername.label "">
 
-
+<!ENTITY notSignedIn.label           "شما وارد نشده‌اید.">
+<!ENTITY signIn.label                "ورود">
 <!ENTITY manage.label                "مدیریت">
+<!ENTITY disconnect.label            "قطع ارتباط…">
+<!ENTITY verify.label                "تایید پست‌الکترونیکی">
+<!ENTITY forget.label                "این پست‌الکترونیکی را فراموش کن">
 
-
-
-
+<!ENTITY welcome.description "به زبانه‌ها، نشانک‌ها و گذرواژه‌های خود هنگام استفاده از &brandShortName; دسترسی داشته باشید.">
 <!ENTITY welcome.signIn.label "ورود">
-
+<!ENTITY welcome.createAccount.label "ساخت حساب">
 
 <!ENTITY welcome.useOldSync.label "آیا از نسخه قدیمی‌تر هم‌گام‌سازی استفاده می‌کنید؟">
