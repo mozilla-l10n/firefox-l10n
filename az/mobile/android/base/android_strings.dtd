@@ -42,7 +42,7 @@
 <!ENTITY url_bar_default_text2 "Axtar və ya ünvan daxil et">
 
 <!ENTITY bookmark "Əlfəcin">
-
+<!ENTITY bookmark_remove "Əlfəcini sil">
 <!ENTITY bookmark_added "Əlfəcin əlavə olundu">
 <!ENTITY bookmark_removed "Əlfəcin silindi">
 <!ENTITY bookmark_updated "Əlfəcin yeniləndi">
@@ -80,7 +80,7 @@
 <!ENTITY pref_category_advanced "Təkmilləşmiş">
 <!ENTITY pref_category_customize "Fərdiləşdir">
 <!ENTITY pref_category_customize_summary "Ev, axtarış, vərəqlər, idxal etmə">
-
+<!ENTITY pref_category_customize_alt_summary "Ev, axtarış, vərəqlər, daha sonra aç, idxal et">
 <!-- Localization note (pref_category_language) : This is the preferences
      section in which the user picks the locale in which to display Firefox
      UI. The locale includes both language and region concepts. -->
@@ -119,12 +119,14 @@
 <!-- Localization note (overlay_no_synced_devices) : Used when the menu option
      to send a tab to a synced device is pressed and no other synced devices
      are found. -->
+<!ENTITY overlay_no_synced_devices "Firefox Hesabınıza bağlı cihaz tapılmadı">
 <!-- Localization note (overlay_share_tab_not_sent) : Used when the menu option
      to send a tab to a synced device is pressed and there is an error
      connecting to the server so the tab could not be sent. The text should be
      divided into two lines (use the newline escape character, "\n", between
      them): the first notifying the user about the failure and the second
      telling the user what to do about it. -->
+<!ENTITY overlay_share_tab_not_sent "Vərəqiniz göndərilə bilmədi.\nLütfən daha sonra təkrar yoxlayın.">
 
 <!ENTITY pref_category_search3 "Axtar">
 <!ENTITY pref_category_search_summary "Axtarış sistemini xüsusiləşdirin">
@@ -151,9 +153,9 @@
 <!ENTITY pref_category_devtools_summary "Uzaqdan sazlama, paint flashing">
 <!ENTITY pref_developer_paint_flashing "Paint flashing">
 <!ENTITY pref_developer_remotedebugging "Uzaqdan sazlama">
-
+<!ENTITY pref_category_logins "Hesablar">
 <!ENTITY pref_remember_signons "Şifrəni xatırla">
-
+<!ENTITY pref_manage_logins "Hesabları idarə et">
 
 <!ENTITY pref_category_home "Başlanğıc">
 <!ENTITY pref_category_home_summary "Başlanğıc səhifənizi özəlləşdirin">
@@ -190,17 +192,22 @@
 <!ENTITY pref_donottrack_title "Məni izləmə">
 <!ENTITY pref_donottrack_summary "&brandShortName; saytlara izlənmək istəmədiyinizi xəbər edəcək">
 
-
+<!ENTITY tab_queue_toast_message "Daha sonra aç">
+<!ENTITY tab_queue_toast_action "İndi aç">
 <!-- Localization note (tab_queue_notification_text_plural) : The
      formatD is replaced with the number of tabs queued.  The
      number of tabs queued is always more than one.  We can't use
      Android plural forms, sadly. See Bug #753859. -->
+<!ENTITY tab_queue_notification_text_plural "&formatD; vərəq sıraya alındı">
 <!-- Localization note (tab_queue_notification_title_plural) : This is the
      title of a notification; we expect more than one tab queued. -->
+<!ENTITY tab_queue_notification_title_plural "Sıradakı Vərəqlər">
 <!-- Localization note (tab_queue_notification_title_singular) : This is the
      title of a notification; we expect only one tab queued. -->
+<!ENTITY tab_queue_notification_title_singular "Sıradakı Vərəq">
 <!-- Localization note (tab_queue_notification_text_singular) : This is the
      text of a notification; we expect only one tab queued. -->
+<!ENTITY tab_queue_notification_text_singular "1 vərəq sıraya alındı">
 
 <!ENTITY pref_char_encoding "Simvol kodlaşdırması">
 <!ENTITY pref_char_encoding_on "Menyunu göstər">
@@ -296,7 +303,7 @@ size. -->
      (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
 <!ENTITY datareporting_crashreporter_title_short "Çökmə Xəbərçisi">
 <!ENTITY datareporting_wifi_title2 "&vendorShortName; Mövqe Xidməti">
-
+<!ENTITY datareporting_wifi_geolocation_summary4 "&vendorShortName;-ya dünyanın xəritəsini qurmaqda kömək et! Cihazınızın təxmini Wi-Fi və operator lokasiyasını paylaşın və geolokasiya xidmətimizi yaxşılaşdırın.">
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
      actual notification that an update is available. -->
@@ -311,7 +318,7 @@ size. -->
 <!ENTITY quit "Çıx">
 
 <!ENTITY addons "Əlavələr">
-
+<!ENTITY logins "Hesablar">
 <!ENTITY downloads "Endirilənlər">
 <!ENTITY apps "Tətbiqlər">
 <!ENTITY char_encoding "Simvol kodlaşdırması">
@@ -368,9 +375,11 @@ size. -->
      where normally a username would be displayed. In this case, no username was found, and this placeholder
      contains brackets to indicate this is not actually a username, but rather a placeholder -->
 
+<!ENTITY doorhanger_login_no_username "[İstifadəçi adı yoxdur]">
+<!ENTITY doorhanger_login_edit_title "Hesabı düzəlt">
 <!ENTITY doorhanger_login_edit_username_hint "Kullanıcı ismi">
-
-
+<!ENTITY doorhanger_login_edit_password_hint "Şifrə">
+<!ENTITY doorhanger_login_edit_toggle "Şifrəni göstər">
 
 <!ENTITY pref_titlebar_mode "Başlıq sətri">
 <!ENTITY pref_titlebar_mode_title "Səhifə başlığını göstər">
@@ -381,7 +390,8 @@ size. -->
 <!ENTITY pref_scroll_title_bar2 "Tam ekran səyahət">
 <!ENTITY pref_scroll_title_bar_summary "Səhifəni aşağı sürüşdürərkən &brandShortName; başlıq sətrini gizlət">
 
-
+<!ENTITY pref_tab_queue_title "Daha sonra aç">
+<!ENTITY pref_tab_queue_summary "Vərəqlərin dərhal açılmasının qabağını al, amma &brandShortName; bir daha açıldığında sırada olan bütün vərəqləri yüklə.">
 <!-- Localization note (page_removed): This string appears in a toast message when
      any page is removed frome about:home. This includes pages that are in history,
      bookmarks, or reading list. -->
@@ -419,7 +429,7 @@ size. -->
 
 <!ENTITY masterpassword_create_title "Ana Şifrə Yarat">
 <!ENTITY masterpassword_remove_title "Ana Şifrəni Sil">
-
+<!ENTITY masterpassword_password "Şifrə">
 <!ENTITY masterpassword_confirm "Şifrəni təsdiqləyin">
 
 <!ENTITY button_ok "Oldu">
