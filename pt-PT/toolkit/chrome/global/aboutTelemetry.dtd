@@ -16,8 +16,12 @@
   Dados gerais
 ">
 
+<!ENTITY aboutTelemetry.telemetryLogSection "
+  Registo de telemetria
+">
+
 <!ENTITY aboutTelemetry.slowSqlSection "
-  Instruções SQL lentas
+  Instruções de SQL lentas
 ">
 
 <!ENTITY aboutTelemetry.chromeHangsSection "
