@@ -160,7 +160,7 @@
 <!-- Device Preferences -->
 <!ENTITY devicepreference_title "기기 환경 설정">
 <!ENTITY devicepreference_search "환경 설정 찾기">
-<!ENTITY devicepreference_newname "새 환겨 설정 이름">
+<!ENTITY devicepreference_newname "새 환경 설정 이름">
 <!ENTITY devicepreference_newtext "환경 설정 값">
 <!ENTITY devicepreference_addnew "새 환경 설정 추가">
 
