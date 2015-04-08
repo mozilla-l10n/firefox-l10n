@@ -7,23 +7,18 @@
 <!-- LOCALIZATION NOTE: aboutWarningTitle.label should be attention grabbing and playful -->
 
 
-<!ENTITY aboutWarningCheckbox.label "Показване на предупреждението и следващия път">
+
 
 
 
 <!-- Columns -->
 
-<!ENTITY prefColumn.label "Референтна стойност">
-<!ENTITY lockColumn.label "Състояние">
-<!ENTITY typeColumn.label "Вид">
-<!ENTITY valueColumn.label "Стойност">
+
+
 <!-- Tooltips -->
 
 <!-- Context Menu -->
 
-<!ENTITY copyPref.key "К">
-<!ENTITY copyPref.label "Копиране">
-<!ENTITY copyPref.accesskey "К">
 
 
 
@@ -32,8 +27,9 @@
 
 
 
-<!ENTITY reset.label "Нулиране">
-<!ENTITY reset.accesskey "Н">
+
+
+
 
 
 

@@ -10,17 +10,17 @@
      surround the host name of the site to make the header for the permissions page.
      example: "Permissions for mozilla.org" -->
 
-<!ENTITY header.site.start               "Права за">
+<!ENTITY header.site.start               "Правата на">
 <!ENTITY header.site.end                 "">
 
-<!ENTITY header.defaults                 "Подразбиращи се права за всички сайтове">
+<!ENTITY header.defaults                 "Стандартни права на всички страници">
 
 <!ENTITY permissions.forgetSite          "Забравяне за този сайт">
 
-<!ENTITY permission.alwaysAsk            "Питане винаги">
+<!ENTITY permission.alwaysAsk            "Винаги да пита">
 <!ENTITY permission.allow                "Разрешаване">
 <!ENTITY permission.allowForSession      "Разрешаване за сесията">
-<!ENTITY permission.allowFirstPartyOnly  "Разрешаване  само за оригиналния сайт">
+<!ENTITY permission.allowFirstPartyOnly  "Разрешаване само на оригиналната страница">
 <!ENTITY permission.block                "Блокиране">
 
 <!ENTITY password.label                  "Помнене на пароли">
