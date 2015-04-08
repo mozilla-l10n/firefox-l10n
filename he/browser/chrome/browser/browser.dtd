@@ -391,7 +391,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY openCmd.commandkey           "l">
 <!ENTITY urlbar.placeholder2          "חפש או הכנס כתובת">
-<!ENTITY urlbar.accesskey             "ח">
+<!ENTITY urlbar.accesskey             "d">
 <!ENTITY urlbar.switchToTab.label     "עבור ללשונית:">
 <!-- 
   Comment duplicated from browser-sets.inc:
