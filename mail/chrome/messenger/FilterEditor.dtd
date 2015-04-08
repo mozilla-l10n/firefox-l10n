@@ -29,7 +29,7 @@
 
 <!-- New Style Filter Rule Actions -->
 <!ENTITY moveMessage.label "Перемістити повідомлення у">
-<!ENTITY copyMessage.label "Перемістити повідомлення у">
+<!ENTITY copyMessage.label "Копіювати повідомлення у">
 <!ENTITY forwardTo.label "Переслати повідомлення до">
 <!ENTITY replyWithTemplate.label "Відповісти за шаблоном">
 <!ENTITY markMessageRead.label "Позначити як прочитане">
