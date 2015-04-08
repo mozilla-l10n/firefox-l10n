@@ -64,7 +64,7 @@
 <!ENTITY saveAsMenuItem1.label "Uložit jako…">
 <!ENTITY saveAsMenuItem1.accesskey "U">
 <!ENTITY viewSourceMenuItem1.label "Zobrazit zdrojový kód…">
-<!ENTITY viewSourceMenuItem1.accesskey "k">
+<!ENTITY viewSourceMenuItem1.accesskey "r">
 <!ENTITY otherActionsPrint1.label "Tisknout">
 <!ENTITY otherActionsPrint1.accesskey "T">
 
