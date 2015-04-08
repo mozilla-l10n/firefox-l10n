@@ -19,4 +19,5 @@
 <!ENTITY paneAdvanced.title       "Aurreratua">
 <!ENTITY paneAccount.title        "Kontuak">
 
-
+<!ENTITY okButton.title           "Ados">
+<!ENTITY okButton.accesskey       "A">

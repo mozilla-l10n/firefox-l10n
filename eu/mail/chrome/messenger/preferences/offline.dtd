@@ -4,12 +4,13 @@
 
 <!ENTITY offlineDialog.title "Lineaz kanpoko ezarpenak">
 
-
-
+<!ENTITY checkAutoDetect.label "Automatikoki jarraitu atzemandako lineako egoera">
+<!ENTITY checkAutoDetect.accesskey "a">
+<!ENTITY titleStartUp "Eskuzko egoera abiatzean:">
 <!ENTITY radioRememberPrevState.label "Gogoratu aurreko lineako egoera">
 <!ENTITY radioRememberPrevState.accesskey "r">
-
-
+<!ENTITY radioAskState.label "Niri galdetu lineako egoera">
+<!ENTITY radioAskState.accesskey "g">
 
 
 
