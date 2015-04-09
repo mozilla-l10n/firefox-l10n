@@ -74,7 +74,7 @@
 <!ENTITY  privateBrowsingPermanent2.label "Завжди використовувати режим приватного перегляду">
 <!ENTITY  privateBrowsingPermanent2.accesskey "п">
 
-<!ENTITY  rememberHistory2.label      "Пам’ятати мою історію переглядів та завантажень">
+<!ENTITY  rememberHistory2.label      "Пам’ятати історію переглядів та завантажень">
 <!ENTITY  rememberHistory2.accesskey  "і">
 
 <!ENTITY  rememberSearchForm.label       "Пам’ятати історію пошуків та форм">
@@ -84,4 +84,4 @@
 <!ENTITY  clearOnClose.accesskey         "с">
 
 <!ENTITY  clearOnCloseSettings.label     "Налаштування…">
-<!ENTITY  clearOnCloseSettings.accesskey "д">
+<!ENTITY  clearOnCloseSettings.accesskey "Н">
