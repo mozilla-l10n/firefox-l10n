@@ -37,7 +37,7 @@
 <!-- LOCALIZATION NOTE (indexedDB.label): This is describing indexedDB storage
      using the same language used for the permIndexedDB string in browser/pageInfo.dtd -->
 
-<!ENTITY indexedDB.label                 "Поддържане на хранилище за работа без връзка">
+<!ENTITY indexedDB.label                 "Заделяне на хранилище за работа без връзка">
 
 <!ENTITY popup.label                     "Отваряне на изскачащи прозорци">
 

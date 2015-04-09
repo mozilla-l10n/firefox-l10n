@@ -114,7 +114,7 @@
 
 <!ENTITY certificateTab.label            "Сертификати">
 <!ENTITY certSelection.label             "Заявки">
-<!ENTITY certSelection.description       "Когато страница изисква сертификат:">
+<!ENTITY certSelection.description       "Когато сървър изисква моят личен сертификат:">
 <!ENTITY certs.auto                      "Автоматично избиране на някой">
 <!ENTITY certs.auto.accesskey            "А">
 <!ENTITY certs.ask                       "Питане всеки път">
