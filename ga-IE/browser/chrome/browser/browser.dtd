@@ -773,15 +773,15 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY mixedContentBlocked2.block.accesskey "C">
 <!ENTITY mixedContentBlocked2.disabled.message "Tá cosaint díchumasaithe">
 
-<!ENTITY trackingContentBlocked.message "Rianú">
-<!ENTITY trackingContentBlocked.moreinfo "Cuireadh cosc ar chodanna den leathanach a rianaíonn do chuid ghníomhaíochta ar líne.">
+<!ENTITY trackingContentBlocked.message "Lorg">
+<!ENTITY trackingContentBlocked.moreinfo "Cuireadh cosc ar chodanna den leathanach a leanann do chuid ghníomhaíochta ar líne.">
 <!ENTITY trackingContentBlocked.learnMore "Tuilleadh Eolais">
 <!ENTITY trackingContentBlocked.options "Roghanna">
 <!ENTITY trackingContentBlocked.unblock2.label "Díchumasaigh cosaint don suíomh seo">
 <!ENTITY trackingContentBlocked.unblock2.accesskey "D">
 <!ENTITY trackingContentBlocked.block.label "Cumasaigh cosaint">
 <!ENTITY trackingContentBlocked.block.accesskey "C">
-<!ENTITY trackingContentBlocked.disabled.message "Tá cosaint ó rianú díchumasaithe">
+<!ENTITY trackingContentBlocked.disabled.message "Tá cosaint ar lorg díchumasaithe">
 
 <!ENTITY pointerLock.notification.message "Brúigh ESC am ar bith chun é a thaispeáint arís.">
 
