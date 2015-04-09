@@ -609,12 +609,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY quitApplicationCmdWin2.label       "Fatta">
 <!ENTITY quitApplicationCmdWin2.accesskey   "F">
-<!ENTITY quitApplicationCmdWin2.tooltip     "Fatta &brandShortName; ra">
+<!ENTITY quitApplicationCmdWin2.tooltip     "Fatta &brandShorterName; ra">
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY goForwardCmd.commandKey "]">
 <!ENTITY quitApplicationCmd.label       "Fatta"> 
 <!ENTITY quitApplicationCmd.accesskey   "F">
-<!ENTITY quitApplicationCmdMac2.label   "Fatta &brandShortName; ra">
+<!ENTITY quitApplicationCmdMac2.label   "Fatta &brandShorterName; ra">
 <!-- LOCALIZATION NOTE(quitApplicationCmdUnix.key): This keyboard shortcut is used by both Linux and OSX builds. -->
 <!ENTITY quitApplicationCmdUnix.key     "Q">
 
