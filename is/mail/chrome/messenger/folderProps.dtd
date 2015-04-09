@@ -4,18 +4,16 @@
 
 <!ENTITY folderProps.windowtitle.label "Eiginleikar">
 <!ENTITY generalInfo.label "Almennar upplýsingar">
-<!ENTITY folderCharsetFallback.label "Sjálfgefin stafakóðun:">
-<!ENTITY folderCharsetFallback.accesskey "e">
-<!ENTITY folderCharsetEnforce.label "Nota stafakóðun á póst í möppu (stafasett fyrir einstakan póst og sjálfvirk meðhöndlun verður hunsað)">
-<!ENTITY folderCharsetEnforce.accesskey "a">
+<!ENTITY folderCharsetFallback2.label "Sjálfgefin textakóðun:">
+<!ENTITY folderCharsetFallback2.accesskey "e">
+<!ENTITY folderCharsetEnforce2.label "Nota kóðun á allann póst í möppunni (stillingar fyrir hvern einstakan póst og sjálfvirk kóðun verður hunsuð)">
+<!ENTITY folderCharsetEnforce2.accesskey "a">
 <!ENTITY folderRebuildSummaryFileTip2.label "Endurbyggja yfirlitsskrá">
 <!ENTITY folderRebuildSummaryFile2.label "Laga möppu">
 <!ENTITY folderRebuildSummaryFile2.accesskey "L">
 <!ENTITY folderRebuildSummaryFile.explanation "Stundum getur komið fyrir að yfirlitsskrá möppu (.msf) skemmist og póstur virðist vera týndur eða póst sem hefur verið eytt birtist áfram; ef þú endurbyggir möppuna er venjulega hægt að laga þessi vandamál.">
 <!ENTITY folderIncludeInGlobalSearch.label "Nota póst í þessari möppu með í víðtækum leitarniðurstöðum">
 <!ENTITY folderIncludeInGlobalSearch.accesskey "v">
-
-     
 <!ENTITY retention.label "Varðveislureglur">
 <!ENTITY retentionUseAccount.label "Nota sömu stillingar og eru á mínum reikningi">
 <!ENTITY retentionUseAccount.accesskey "N">

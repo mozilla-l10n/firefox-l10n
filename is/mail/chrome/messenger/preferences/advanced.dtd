@@ -15,7 +15,7 @@
 <!ENTITY allowHWAccel.accesskey "h">
 <!ENTITY storeType.label "Tegund geymslu fyrir nýja reikninga:">
 <!ENTITY storeType.accesskey "T">
-<!ENTITY mboxStore.label "Ein stór skrá (mbox)">
+<!ENTITY mboxStore2.label "Skrá per möppu (mbox)">
 <!ENTITY maildirStore.label "Skrá per skilaboð (maildir)">
 <!ENTITY scrolling.label "Skrun">
 <!ENTITY useAutoScroll.label "Nota sjálfvirka skrunun">

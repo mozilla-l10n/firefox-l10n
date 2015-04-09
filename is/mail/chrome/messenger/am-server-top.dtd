@@ -74,7 +74,7 @@
 <!ENTITY abbreviateOff.label "Skammstafa nöfn (Til dæmis, 'n.p.m.mail-news')">
 <!ENTITY advancedButton.label "Frekari stillingar…">
 <!ENTITY advancedButton.accesskey "F">
-<!ENTITY serverDefaultCharset.label "Sjálfgefin stafatafla:">
+<!ENTITY serverDefaultCharset2.label "Sjálfgefin textakóðun:">
 <!ENTITY localPath.label "Staðbundin mappa:">
 <!ENTITY localFolderPicker.label "Veldu staðbundna möppu">
 <!ENTITY browseFolder.label "Velja…">
@@ -85,5 +85,5 @@
 <!ENTITY accountSettingsDesc.label "Eftirfarandi er sérstakur reikningur.  Engin auðkenni eru tengd við hann.">
 <!ENTITY storeType.label "Tegund póstgeymslu:">
 <!ENTITY storeType.accesskey "T">
-<!ENTITY mboxStore.label "Ein stór skrá (mbox)">
+<!ENTITY mboxStore2.label "Skrá per möppu (mbox)">
 <!ENTITY maildirStore.label "Skrá per skilaboð (maildir)">

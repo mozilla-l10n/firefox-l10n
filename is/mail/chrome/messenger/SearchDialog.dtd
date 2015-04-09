@@ -39,6 +39,7 @@
 <!ENTITY threadColumn.label "Umræða">
 <!ENTITY fromColumn.label "Frá">
 <!ENTITY recipientColumn.label "Viðtakandi">
+<!ENTITY correspondentColumn.label "Þátttakendur">
 <!ENTITY subjectColumn.label "Efni">
 <!ENTITY dateColumn.label "Dagsetning">
 <!ENTITY priorityColumn.label "Forgangur">
@@ -59,6 +60,7 @@
 <!ENTITY threadColumn2.tooltip "Sýna póstþræði">
 <!ENTITY fromColumn2.tooltip "Raða eftir frá">
 <!ENTITY recipientColumn2.tooltip "Raða eftir móttakanda">
+<!ENTITY correspondentColumn2.tooltip "Raða eftir þátttakendum">
 <!ENTITY subjectColumn2.tooltip "Flokka eftir efnislínu">
 <!ENTITY dateColumn2.tooltip "Raða eftir dagsetningu">
 <!ENTITY priorityColumn2.tooltip "Raða eftir forgangi">

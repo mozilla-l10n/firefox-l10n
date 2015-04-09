@@ -185,6 +185,8 @@
 <!ENTITY sortByFromCmd.accesskey "F">
 <!ENTITY sortByRecipientCmd.label "Viðtakanda">
 <!ENTITY sortByRecipientCmd.accesskey "V">
+<!ENTITY sortByCorrespondentCmd.label "Þátttakendur">
+<!ENTITY sortByCorrespondentCmd.accesskey "e">
 <!ENTITY sortByUnreadCmd.label "Lesið">
 <!ENTITY sortByUnreadCmd.accesskey "L">
 <!ENTITY sortByOrderReceivedCmd.label "Í móttekinni röð">
@@ -629,6 +631,7 @@
 <!ENTITY threadColumn.label "Umræða">
 <!ENTITY fromColumn.label "Frá">
 <!ENTITY recipientColumn.label "Viðtakandi">
+<!ENTITY correspondentColumn.label "Þátttakendur">
 <!ENTITY subjectColumn.label "Efni">
 <!ENTITY dateColumn.label "Dagsetning">
 <!ENTITY priorityColumn.label "Forgangur">
@@ -650,6 +653,7 @@
 <!ENTITY threadColumn2.tooltip "Birta póstþræði">
 <!ENTITY fromColumn2.tooltip "Raða eftir frá">
 <!ENTITY recipientColumn2.tooltip "Raða eftir móttakanda">
+<!ENTITY correspondentColumn2.tooltip "Raða eftir þátttakendum">
 <!ENTITY subjectColumn2.tooltip "Flokka eftir efnislínu">
 <!ENTITY dateColumn2.tooltip "Raða eftir Dags">
 <!ENTITY priorityColumn2.tooltip "Raða eftir forgangi">

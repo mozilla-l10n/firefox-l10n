@@ -7,8 +7,8 @@
 <!-- This button is for the progressive disclosure of additional editing functionality -->
 
 <!-- These strings are for use specifically in the editor's link dialog. -->
-<!ENTITY windowTitle.label "Vista og breyta stafatöflu">
+<!ENTITY windowTitle2.label "Vista og breyta textakóðun">
 <!ENTITY documentTitleTitle.label "Titill">
-<!ENTITY documentCharsetTitle.label "Stafatöflur">
-<!ENTITY documentCharsetDesc.label "Veldu stafasettið sem þú vilt vista skjalið á:">
+<!ENTITY documentCharsetTitle2.label "Textakóðun">
+<!ENTITY documentCharsetDesc2.label "Veldu þá textakóðun sem þú vilt vista skjalið með:">
 <!ENTITY documentExportToText.label "Flytja út sem texta">
