@@ -4,4 +4,4 @@
 
 #filter substitution
 
-pref("general.useragent.locale", "uk");
+pref("general.useragent.locale", "@AB_CD@");
