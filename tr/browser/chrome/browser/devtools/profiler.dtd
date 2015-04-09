@@ -58,15 +58,17 @@
 <!ENTITY profilerUI.table.samples         "Örnekler">
 <!ENTITY profilerUI.table.function        "Fonksiyon">
 <!ENTITY profilerUI.table.totalAlloc1       "Örneklenen toplam atama">
-
-
-
+<!ENTITY profilerUI.table.totalAllocTooltip "Bu konumda ve arananlarda örneklenen toplam nesne ataması">
+<!ENTITY profilerUI.table.selfAlloc1        "Kendi kendine örneklenen atamalar">
+<!ENTITY profilerUI.table.selfAllocTooltip  "Bu konumda örneklenen nesne atamalarının sayısı.">
 <!-- LOCALIZATION NOTE (profilerUI.newtab.tooltiptext): The tooltiptext shown
   -  on the "+" (new tab) button for a profile when a selection is available. -->
 
 <!ENTITY profilerUI.newtab.tooltiptext "Seçimden yeni sekme ekle">
 <!-- LOCALIZATION NOTE (profilerUI.toolbar.filter.tooltiptext): This string
   -  is displayed next to the filter button-->
+
+<!ENTITY profilerUI.options.filter.tooltiptext "Zaman çizelgesinde gösterilecek verileri seçin">
 <!-- LOCALIZATION NOTE (profilerUI.options.tooltiptext): This is the tooltip
   -  for the options button. -->
 
@@ -93,7 +95,11 @@
   -  is displayed next to a checkbox determining whether or not memory
   -  measurements are enabled. -->
 
+<!ENTITY profilerUI.enableMemory             "Belleği kaydet">
+<!ENTITY profilerUI.enableMemory.tooltiptext "Profilleme yaparken bellek tüketimini kaydet.">
 <!-- LOCALIZATION NOTE (profilerUI.enableFramerate): This string
   -  is displayed next to a checkbox determining whether or not framerate
   -  is recorded. -->
+
+<!ENTITY profilerUI.enableFramerate             "Kare hızını kaydet">
 
