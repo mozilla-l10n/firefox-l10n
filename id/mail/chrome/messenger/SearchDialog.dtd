@@ -40,6 +40,7 @@
 <!ENTITY threadColumn.label "Utas">
 <!ENTITY fromColumn.label "Dari">
 <!ENTITY recipientColumn.label "Penerima">
+
 <!ENTITY subjectColumn.label "Subjek">
 <!ENTITY dateColumn.label "Tanggal">
 <!ENTITY priorityColumn.label "Prioritas">
@@ -56,6 +57,7 @@
 <!ENTITY locationColumn.label "Lokasi">
 <!ENTITY idColumn.label "Urut berdasarkan Diterima">
 <!-- Thread Pane Tooltips -->
+
 
 
 
