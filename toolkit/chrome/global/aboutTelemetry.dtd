@@ -10,6 +10,7 @@
 
 <!ENTITY aboutTelemetry.generalDataSection "  Data Umum">
 
+
 <!ENTITY aboutTelemetry.slowSqlSection "  Pernyataan SQL Lambat">
 
 <!ENTITY aboutTelemetry.chromeHangsSection "  Peramban Macet">

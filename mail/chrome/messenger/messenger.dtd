@@ -192,6 +192,8 @@
 <!ENTITY sortByFromCmd.accesskey "D">
 <!ENTITY sortByRecipientCmd.label "Penerima">
 <!ENTITY sortByRecipientCmd.accesskey "P">
+
+
 <!ENTITY sortByUnreadCmd.label "Dibaca">
 <!ENTITY sortByUnreadCmd.accesskey "b">
 <!ENTITY sortByOrderReceivedCmd.label "Urutan Diterima">
@@ -647,6 +649,7 @@
 <!ENTITY threadColumn.label "Utas">
 <!ENTITY fromColumn.label "Dari">
 <!ENTITY recipientColumn.label "Penerima">
+
 <!ENTITY subjectColumn.label "Subjek">
 <!ENTITY dateColumn.label "Tanggal">
 <!ENTITY priorityColumn.label "Prioritas">
@@ -664,6 +667,7 @@
 <!ENTITY idColumn.label "Urutan Diterima">
 
 <!-- Thread Pane Tooltips -->
+
 
 
 

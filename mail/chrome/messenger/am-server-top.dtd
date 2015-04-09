@@ -74,7 +74,7 @@
 <!ENTITY abbreviateOff.label "Singkatan (Contohnya, 'n.p.m.mail-news')">
 <!ENTITY advancedButton.label "Khusus…">
 <!ENTITY advancedButton.accesskey "K">
-<!ENTITY serverDefaultCharset.label "Pengodean Karakter Default:">
+
 <!ENTITY localPath.label "Direktori lokal:">
 <!ENTITY localFolderPicker.label "Pilih Direktori Lokal">
 <!ENTITY browseFolder.label "Telusuri…">

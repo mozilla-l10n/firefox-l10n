@@ -15,7 +15,7 @@
 <!ENTITY folderRebuildSummaryFile.explanation    "Terkadang berkas indeks folder (.msf) rusak dan pesan mungkin tidak terlihat atau pesan yang dihapus masih tampak; proses perbaikan folder mungkin dapat mengatasi masalah ini.">
 <!ENTITY folderIncludeInGlobalSearch.label       "Sertakan pesan pada folder ini pada hasil Pencarian Global">
 <!ENTITY folderIncludeInGlobalSearch.accesskey   "G">
-     
+
 <!ENTITY retention.label "Kebijakan Penyimpanan">
 <!ENTITY retentionUseAccount.label  "Gunakan pengaturan akun saya">
 <!ENTITY retentionUseAccount.accesskey "a">
