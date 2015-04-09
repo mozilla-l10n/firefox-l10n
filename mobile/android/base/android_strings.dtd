@@ -132,7 +132,7 @@
 <!ENTITY tab_queue_toast_action "Apri adesso">
 <!ENTITY tab_queue_prompt_title "Apertura di più link">
 <!ENTITY tab_queue_prompt_text "Apri i link senza passare a Firefox ogni volta.">
-<!ENTITY tab_queue_prompt_tip_text "È possibile modificare questa scelta in Opzioni">
+<!ENTITY tab_queue_prompt_tip_text "È possibile modificare questa scelta in Impostazioni">
 <!ENTITY tab_queue_prompt_positive_action_button "Attiva">
 <!ENTITY tab_queue_prompt_negative_action_button "Non adesso">
 <!ENTITY tab_queue_notification_text_plural "&formatD; schede in coda">
