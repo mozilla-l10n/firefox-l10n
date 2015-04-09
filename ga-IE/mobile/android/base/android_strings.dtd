@@ -187,10 +187,10 @@
 <!ENTITY pref_cookies_not_accept_foreign "Cumasaithe, seachas tríú páirtí">
 <!ENTITY pref_cookies_disabled "Díchumasaithe">
 
-<!ENTITY pref_tracking_protection_title "Cosaint ó rianú">
-<!ENTITY pref_tracking_protection_summary "Ní ligfidh &brandShortName; do shuímh thú a rianú">
-<!ENTITY pref_donottrack_title "Ná rianaigh">
-<!ENTITY pref_donottrack_summary "Cuirfidh &brandShortName; in iúl do shuímh Ghréasáin gan tusa a rianú">
+<!ENTITY pref_tracking_protection_title "Cosaint ar lorg">
+<!ENTITY pref_tracking_protection_summary "Ní ligfidh &brandShortName; do shuímh thú a lorg ar líne">
+<!ENTITY pref_donottrack_title "Ná lorgtar mé">
+<!ENTITY pref_donottrack_summary "Cuirfidh &brandShortName; in iúl do shuímh Ghréasáin gan tusa a lorg">
 
 <!ENTITY tab_queue_toast_message "Oscail níos déanaí">
 <!ENTITY tab_queue_toast_action "Oscail anois">
@@ -539,10 +539,10 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY blocked_mixed_content_message_bottom "Feidhmíonn suímh Ghréasáin mar is ceart fiú nuair a bhíonn bac ar an ábhar seo.">
 <!-- Tracking content notifications in site identity popup -->
 
-<!ENTITY loaded_tracking_content_message_top "Tá cosaint ó rianú díchumasaithe.">
-<!ENTITY loaded_tracking_content_message_bottom "Tá seans ann go bhfuil an leathanach seo ag rianú do ghníomhaíocht ar líne.">
-<!ENTITY blocked_tracking_content_message_top2 "Tá cosaint ó rianú cumasaithe.">
-<!ENTITY blocked_tracking_content_message_bottom2 "Cuireadh cosc ar chodanna den leathanach a rianaíonn do chuid ghníomhaíochta ar líne.">
+<!ENTITY loaded_tracking_content_message_top "Tá cosaint ar lorg díchumasaithe.">
+<!ENTITY loaded_tracking_content_message_bottom "Tá seans ann go bhfuil do ghníomhaíocht ar líne á lorg ag an leathanach seo.">
+<!ENTITY blocked_tracking_content_message_top2 "Tá cosaint ar lorg cumasaithe.">
+<!ENTITY blocked_tracking_content_message_bottom2 "Cuireadh cosc ar chodanna den leathanach a lorgann do chuid ghníomhaíochta ar líne.">
 <!-- Common mixed and tracking content strings in site identity popup -->
 
 <!ENTITY learn_more "Tuilleadh Eolais">
