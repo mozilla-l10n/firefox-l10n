@@ -74,7 +74,7 @@
 <!ENTITY abbreviateOff.label "Afgekorte namen (bijvoorbeeld ‘n.p.m.mail-news’)">
 <!ENTITY advancedButton.label "Geavanceerd…">
 <!ENTITY advancedButton.accesskey "G">
-<!ENTITY serverDefaultCharset.label "Standaard tekenset:">
+<!ENTITY serverDefaultCharset2.label "Standaard tekstcodering:">
 <!ENTITY localPath.label "Lokale map:">
 <!ENTITY localFolderPicker.label "Lokale map selecteren">
 <!ENTITY browseFolder.label "Bladeren…">
@@ -86,5 +86,5 @@
 <!ENTITY accountSettingsDesc.label "Dit is een speciale account. Er zijn geen identiteiten mee verbonden.">
 <!ENTITY storeType.label "Type berichtenopslag:">
 <!ENTITY storeType.accesskey "T">
-<!ENTITY mboxStore.label "Eén groot bestand (mbox)">
+<!ENTITY mboxStore2.label "Eén bestand per map (mbox)">
 <!ENTITY maildirStore.label "Eén bestand per bericht (maildir)">
