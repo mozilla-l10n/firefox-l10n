@@ -265,6 +265,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY browserToolboxMenu.label     "உலவி கருவிப் பெட்டி">
 <!ENTITY browserToolboxMenu.accesskey "உ">
+
 <!-- LOCALIZATION NOTE (browserContentToolboxMenu.label): This is the label for the
   -  application menu item that opens the browser content toolbox UI in the Tools menu.
   -  This toolbox allows to debug the chrome of the content process in multiprocess builds.  -->
@@ -596,7 +597,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY quitApplicationCmdWin2.label       "வெளியேறு">
 <!ENTITY quitApplicationCmdWin2.accesskey   "x">
-
+<!ENTITY quitApplicationCmdWin2.tooltip     "&brandShorterName; இலிருந்து வெளியேறு">
 
 
 <!ENTITY quitApplicationCmd.label       "வெளியேறு"> 
@@ -832,6 +833,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!-- Pre-landed string for bug 1124153 -->
 <!-- Pre-landed string for bug 1133662 -->
-<!-- Pre-landed string for bug 1123525 -->
+
 <!-- Pre-landed strings for bug 1123519 -->
 
