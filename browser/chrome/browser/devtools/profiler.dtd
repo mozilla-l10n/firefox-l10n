@@ -47,7 +47,7 @@
 <!ENTITY profilerUI.toolbar.js-calltree "JavaScript">
 <!ENTITY profilerUI.toolbar.memory-calltree "Bellek">
 <!ENTITY profilerUI.toolbar.js-flamegraph "JS Flame Chart'ı">
-
+<!ENTITY profilerUI.toolbar.memory-flamegraph "Bellek Flame Chart'ı">
 <!-- LOCALIZATION NOTE (profilerUI.table.*): These strings are displayed
   -  in the call tree headers for a recording. -->
 
@@ -74,6 +74,8 @@
 <!ENTITY profilerUI.invertTree.tooltiptext "Çağrı ağacını tersine çevirmek, profillenen çağrı yollarını en yeni çerçevelerden eski çerçevelere doğru görüntüler.">
 <!-- LOCALIZATION NOTE (profilerUI.invertFlameGraph): This is the label shown next to
   -  a checkbox that inverts and un-inverts the profiler's flame graph. -->
+
+<!ENTITY profilerUI.invertFlameGraph             "Flame chart'ı tersine çevir">
 <!ENTITY profilerUI.invertFlameGraph.tooltiptext "Flame chart'ı tersine çevirmek, profillenen çağrı yollarını en yeni çerçevelerden eski çerçevelere doğru görüntüler.">
 <!-- LOCALIZATION NOTE (profilerUI.showPlatformData): This is the
   -  label for the checkbox that toggles whether or not Gecko platform data
@@ -85,11 +87,17 @@
   -  label for the checkbox that toggles the flattening of tree recursion in inspected
   -  functions in the profiler. -->
 
+<!ENTITY profilerUI.flattenTreeRecursion             "Özyinleme ağacını düzleştir">
+<!ENTITY profilerUI.flattenTreeRecursion.tooltiptext "Fonksiyonları denetlerken özyinelemeyi düzleştir.">
 <!-- LOCALIZATION NOTE (profilerUI.enableMemory): This string
   -  is displayed next to a checkbox determining whether or not memory
   -  measurements are enabled. -->
 
+<!ENTITY profilerUI.enableMemory             "Belleği kaydet">
+<!ENTITY profilerUI.enableMemory.tooltiptext "Profilleme yaparken bellek tüketimini kaydet.">
 <!-- LOCALIZATION NOTE (profilerUI.enableFramerate): This string
   -  is displayed next to a checkbox determining whether or not framerate
   -  is recorded. -->
 
+<!ENTITY profilerUI.enableFramerate             "Kare hızını kaydet">
+<!ENTITY profilerUI.enableFramerate.tooltiptext "Profilleme yaparken kare hızını (framerate) kaydet.">
