@@ -24,7 +24,7 @@
 <!ENTITY projectMenu_remove_accesskey "R">
 <!ENTITY projectMenu_showPrefs_label "ترجیحات">
 <!ENTITY projectMenu_showPrefs_accesskey "e">
-
+<!ENTITY projectMenu_manageComponents_label "مدیریت مولفه‌های بیشتر">
 <!ENTITY projectMenu_manageComponents_accesskey "M">
 
 <!ENTITY runtimeMenu_accesskey "R">
@@ -34,11 +34,11 @@
 <!ENTITY runtimeMenu_showPermissionTable_accesskey "P">
 <!ENTITY runtimeMenu_takeScreenshot_label "عکس صفحه">
 <!ENTITY runtimeMenu_takeScreenshot_accesskey "S">
-
+<!ENTITY runtimeMenu_showDetails_label "اطلاعات زمان‌اجرا">
 <!ENTITY runtimeMenu_showDetails_accesskey "E">
-
+<!ENTITY runtimeMenu_showMonitor_label "پایشگر">
 <!ENTITY runtimeMenu_showMonitor_accesskey "M">
-
+<!ENTITY runtimeMenu_showDevicePrefs_label "ترجیحات دستگاه">
 <!ENTITY runtimeMenu_showDevicePrefs_accesskey "D">
 <!ENTITY runtimeMenu_showSettings_label "تنظیمات دستگاه">
 <!ENTITY runtimeMenu_showSettings_accesskey "s">
@@ -54,7 +54,8 @@
 
 
 
-
+<!ENTITY projectButton_label "بازکردن برنامه">
+<!ENTITY runtimeButton_label "انتخاب زمان اجرا">
 <!-- We try to repicate Firefox' bindings: -->
 <!-- quit app -->
 
@@ -105,12 +106,14 @@
 
 <!ENTITY deck_close "بستن">
 <!-- Addons -->
-
+<!ENTITY addons_aboutaddons "بازکردن مدیر افزونه‌ها">
 <!-- Prefs -->
+
+<!ENTITY prefs_title "ترجیحات">
 
 <!ENTITY prefs_general_title "عمومی">
 
-
+<!ENTITY prefs_manage_components "مدیریت مولفه‌های بیشتر">
 
 
 <!ENTITY prefs_options_rememberlastproject "به‌خاطر سپردن آخرین پروژه">
@@ -136,32 +139,44 @@
 <!ENTITY permissionstable_name_header "نام">
 <!-- Runtime Details -->
 
+<!ENTITY runtimedetails_title "اطلاعات زمان‌اجرا">
 
+<!ENTITY runtimedetails_summonADBRoot "دستگاه کاربر ارشد">
 
 
 
 
 <!-- Device Preferences and Settings -->
 
-
+<!ENTITY device_typeboolean "بولی">
+<!ENTITY device_typenumber "عدد صحیح">
+<!ENTITY device_typestring "رشته">
 <!ENTITY device_typeobject "شیء">
 
 <!-- Device Preferences -->
 
+<!ENTITY devicepreference_title "ترجیحات دستگاه">
 
 
+<!ENTITY devicepreference_newtext "مقدار ترجیحات">
 
 <!-- Device Settings -->
+
+<!ENTITY devicesetting_title "تنظیمات دستگاه">
 
 
 
 
 <!-- Monitor -->
+
+<!ENTITY monitor_title "پایشگر">
 <!ENTITY monitor_help "راهنما">
 <!-- WiFi Authentication -->
 <!-- LOCALIZATION NOTE (wifi_auth_header): The header displayed on the dialog
      that instructs the user to transfer an authentication token to the
      server. -->
+
+<!ENTITY wifi_auth_header "شناسایی کاربر">
 <!-- LOCALIZATION NOTE (wifi_auth_scan_request): Instructions requesting the
      user to transfer authentication info by scanning a QR code. -->
 <!-- LOCALIZATION NOTE (wifi_auth_no_scanner): Link text to assist users with

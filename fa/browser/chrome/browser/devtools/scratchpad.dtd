@@ -114,8 +114,8 @@
 
 <!ENTITY helpMenu.label               "راهنما">
 <!ENTITY helpMenu.accesskey           "ر">
-
-
+<!ENTITY helpMenuWin.label            "راهنما">
+<!ENTITY helpMenuWin.accesskey        "ر">
 
 
 <!-- LOCALIZATION NOTE (resetContext2.label): This command allows the developer
