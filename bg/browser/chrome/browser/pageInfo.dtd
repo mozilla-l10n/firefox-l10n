@@ -55,7 +55,7 @@
 <!ENTITY  permAllow             "Разрешаване">
 <!ENTITY  permAllowSession      "Разрешаване за сесията">
 <!ENTITY  permBlock             "Блокиране">
-<!ENTITY  permissionsFor        "Права за:">
+<!ENTITY  permissionsFor        "Правата на:">
 <!ENTITY  permPlugins           "Включване на приставки">
 
 <!ENTITY  permClearStorage           "Изчистване на хранилището">
