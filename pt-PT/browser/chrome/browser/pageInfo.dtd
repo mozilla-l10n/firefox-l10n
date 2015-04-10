@@ -22,7 +22,7 @@
 <!ENTITY generalReferrer "URL Referente:">
 <!ENTITY generalSource "Fonte da cache:">
 <!ENTITY generalModified "Modificado:">
-<!ENTITY generalEncoding "Codificação:">
+<!ENTITY generalEncoding2 "Codificação do texto:">
 <!ENTITY generalMetaName "Nome">
 <!ENTITY generalMetaContent "Conteúdo">
 
@@ -83,3 +83,5 @@
 <!ENTITY  securityView.privacy.viewPasswords.accessKey  "s">
 
 <!ENTITY  securityView.technical.header                 "Detalhes Técnicos">
+
+<!ENTITY  helpButton.label                              "Ajuda">
