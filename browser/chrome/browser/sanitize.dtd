@@ -64,3 +64,8 @@ that require it.  -->
 <!ENTITY itemActiveLogins.accesskey        "A">
 <!ENTITY itemSitePreferences.label         "Preferenzas per websites">
 <!ENTITY itemSitePreferences.accesskey     "s">
+
+<!-- LOCALIZATION NOTE (sanitizeEverythingUndoWarning): Second warning paragraph
+     that appears when "Time range to clear" is set to "Everything".  See UI
+     mockup at bug 480169 -->
+<!ENTITY sanitizeEverythingUndoWarning     "Attenziun: Ins na po betg revocar questa acziun.">

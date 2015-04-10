@@ -140,11 +140,8 @@ functionality specific to firefox. -->
 <!ENTITY remoteXUL.title "Remote-XUL">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Infurmescha per plaschair il possessur da la website davart quest problem.</li></ul></p>">
 
-<!ENTITY oldSecurityProtocol.title "Impussibel da connectar a moda segira">
-<!-- LOCALIZATION NOTE (oldSecurityProtocol.longDesc) - Do not translate the
-     <span id='hostname'></span>. -->
-<!ENTITY oldSecurityProtocol.longDesc2 "&brandShortName; na po betg garantir la segirezza da tias datas sin <span id='hostname'></span> perquai ch'il protocol malsegir SSLv3 vegn utilisà.">
-<!-- LOCALIZATION NOTE (oldSecurityProtocol.advancedInfo) - Do not translate
-     the <span id='errorcode'></span>. -->
-<!ENTITY oldSecurityProtocol.advancedInfo "Infurmaziuns avanzadas: <span id='errorcode'></span>">
-<!ENTITY oldSecurityProtocol.learnMore "Ulteriuras infurmaziuns…">
+<!ENTITY sslv3Used.title "Impussibel da connectar a moda segira">
+<!-- LOCALIZATION NOTE (sslv3Used.longDesc) - Do not translate
+     "ssl_error_unsupported_version". -->
+<!ENTITY sslv3Used.longDesc "Infurmaziuns avanzadas: ssl_error_unsupported_version">
+<!ENTITY sslv3Used.learnMore "Ulteriuras infurmaziuns…">
