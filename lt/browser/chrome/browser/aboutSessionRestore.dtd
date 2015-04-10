@@ -13,9 +13,9 @@
 <!ENTITY restorepage.startNew       "pradėti naują naršymo seansą">
 
 <!ENTITY restorepage.tryagainButton "Atkurti">
-
+<!ENTITY restorepage.restore.access "A">
 <!ENTITY restorepage.closeButton    "Užverti">
-
+<!ENTITY restorepage.close.access   "v">
 
 <!ENTITY restorepage.restoreHeader  "Atkurti">
 <!ENTITY restorepage.listHeader     "Langai ir kortelės">
@@ -27,7 +27,7 @@
 
 
 <!ENTITY welcomeback2.restoreButton  "Pirmyn!">
-
+<!ENTITY welcomeback2.restoreButton.access "m">
 
 <!ENTITY welcomeback2.tabtitle      "Pavyko!">
 

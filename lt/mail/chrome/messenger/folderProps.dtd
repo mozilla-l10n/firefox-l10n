@@ -5,17 +5,17 @@
 <!ENTITY folderProps.windowtitle.label           "Savybės">
 
 <!ENTITY generalInfo.label                       "Bendroji informacija">
-<!ENTITY folderCharsetFallback2.label            "Surogatinė teksto koduotė:">
-<!ENTITY folderCharsetFallback2.accesskey        "o">
-<!ENTITY folderCharsetEnforce2.label             "Taikyti visiems aplanko laiškams (bus nepaisoma individualių laiškų koduočių ir automatinio koduotės nustatymo)">
-<!ENTITY folderCharsetEnforce2.accesskey         "a">
+<!ENTITY folderCharsetFallback.label             "Surogatinė simbolių koduotė:">
+<!ENTITY folderCharsetFallback.accesskey         "o">
+<!ENTITY folderCharsetEnforce.label              "Laikyti numatytąja visiems aplanko laiškams (bus nepaisoma individualių laiškų koduočių ir automatinio koduotės nustatymo)">
+<!ENTITY folderCharsetEnforce.accesskey          "L">
 <!ENTITY folderRebuildSummaryFileTip2.label      "Perindeksuoti aplanke esančius laiškus">
 <!ENTITY folderRebuildSummaryFile2.label         "Perindeksuoti aplanką">
 <!ENTITY folderRebuildSummaryFile2.accesskey     "r">
 <!ENTITY folderRebuildSummaryFile.explanation    "Kartais aplanko laiškų indeksas (.msf failas) sugenda, ir gali atrodyti, kad iš aplanko dingo kai kurie laiškai (arba rodomi laiškai, kuriuos pašalinote). Galite pabandyti pašalinti šias problemas, perindeksuodami aplanką.">
 <!ENTITY folderIncludeInGlobalSearch.label       "Įtraukti šiame aplanke esančius laiškus į globaliosios paieškos rezultatus">
 <!ENTITY folderIncludeInGlobalSearch.accesskey   "g">
-
+     
 <!ENTITY retention.label "Laiškų šalinimas">
 <!ENTITY retentionUseAccount.label  "Laikytis paskyros nuostatų">
 <!ENTITY retentionUseAccount.accesskey "p">

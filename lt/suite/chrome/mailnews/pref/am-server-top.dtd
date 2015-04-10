@@ -55,9 +55,9 @@
 <!ENTITY expungeOnExit.accesskey "B">
 <!ENTITY emptyTrashOnExit.label "Baigus darbą su pašto programa išvalyti šiukšlinę">
 <!ENTITY emptyTrashOnExit.accesskey "B">
-<!ENTITY loginAtStartup.label "Paleidus pašto programą, patikrinti, ar yra naujų laiškų">
+<!ENTITY loginAtStartup.label "Paleidus pašto programą, patikrinti, ar yra naujų laiškų"> 
 <!ENTITY loginAtStartup.accesskey "P">
-<!-- LOCALIZATION NOTE (maxMessagesStart.label) : translate below 2 lines with grammar dependency
+<!-- LOCALIZATION NOTE (maxMessagesStart.label) : translate below 2 lines with grammar dependency 
     maxMessengerStart.label will be followed by maxMessagesEnd.label with the number
 	 of messages between them
 -->
@@ -73,7 +73,7 @@
 <!ENTITY abbreviateOn.label "pilnus (pvz., „netscape.public.mozilla.mail-news“)">
 <!ENTITY abbreviateOff.label "sutrumpintus (pvz., „n.p.m.mail-news“)">
 <!ENTITY advancedButton.label "Papildomai…">
-
+<!ENTITY serverDefaultCharset.label "Numatytoji koduotė:">
 <!ENTITY advancedButton.accesskey "P">
 <!ENTITY localPath.label "Katalogas diske, kuriame laikomi naujienų grupių laiškai:">
 <!ENTITY localFolderPicker.label "Vietinio katalogo parinkimas">

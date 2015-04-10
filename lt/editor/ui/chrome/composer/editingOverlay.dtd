@@ -15,8 +15,8 @@
 <!ENTITY saveCmd.accesskey "r">
 <!ENTITY saveAsCmd.label "Įrašyti kaip…">
 <!ENTITY saveAsCmd.accesskey "k">
-<!ENTITY saveAsChangeEncodingCmd2.label "Įrašyti ir pakeisti koduotę">
-<!ENTITY saveAsChangeEncodingCmd2.accesskey "k">
+<!ENTITY saveAsChangeEncodingCmd.label "Pakeisti koduotę ir įrašyti…">
+<!ENTITY saveAsChangeEncodingCmd.accesskey "d">
 <!ENTITY publishCmd.label "Publikuoti">
 <!ENTITY publishCmd.accesskey "P">
 <!ENTITY publishCmd.key "S">

@@ -8,8 +8,8 @@
 <!ENTITY  language.accesskey                      "K">
 
 <!ENTITY  size.label                              "Dydis:">
-<!ENTITY  sizeProportional.accesskey              "D">
-<!ENTITY  sizeMonospace.accesskey                 "y">
+
+
 
 <!ENTITY  proportional.label                      "Įvairiaplotis:">
 <!ENTITY  proportional.accesskey                  "v">
@@ -22,8 +22,6 @@
 <!ENTITY  monospace.accesskey                     "L">
 <!-- LOCALIZATION NOTE (font.langGroup.latin) :
      Translate "Latin" as the name of Latin (Roman) script, not as the name of the Latin language. -->
-
-<!ENTITY  font.langGroup.latin                    "Lotynų">
 <!ENTITY  font.langGroup.japanese                 "Japonų">
 <!ENTITY  font.langGroup.trad-chinese             "Tradicinė kinų (Taivanis)">
 <!ENTITY  font.langGroup.simpl-chinese            "Supaprastintoji kinų">
@@ -31,7 +29,7 @@
 <!ENTITY  font.langGroup.korean                   "Korėjiečių">
 <!ENTITY  font.langGroup.cyrillic                 "Kirilica">
 <!ENTITY  font.langGroup.el                       "Graikų">
-<!ENTITY  font.langGroup.other                    "Kitos rašto sistemos">
+
 <!ENTITY  font.langGroup.thai                     "Tajų">
 <!ENTITY  font.langGroup.hebrew                   "Hebrajų">
 <!ENTITY  font.langGroup.arabic                   "Arabų">
@@ -46,11 +44,11 @@
 <!ENTITY  font.langGroup.gurmukhi                 "Gurmukų">
 <!ENTITY  font.langGroup.khmer                    "Chmerų">
 <!ENTITY  font.langGroup.malayalam                "Malajų">
-<!ENTITY  font.langGroup.oriya                    "Orijų">
-<!ENTITY  font.langGroup.telugu                   "Telugų">
-<!ENTITY  font.langGroup.kannada                  "Kanadų">
-<!ENTITY  font.langGroup.sinhala                  "Singhų">
-<!ENTITY  font.langGroup.tibetan                  "Tibetiečių">
+
+
+
+
+
 <!-- Minimum font size -->
 <!ENTITY minSize.label                            "Minimalus šrifto dydis:">
 <!ENTITY minSize.accesskey                        "M">
@@ -70,10 +68,10 @@
 
 <!ENTITY sendDefaultCharset.label         "Laiškų rašymo:">
 <!ENTITY sendDefaultCharset.accesskey     "r">
-<!ENTITY languagesTitle2.label            "Teksto koduotė">
-<!ENTITY composingDescription2.label      "Laiškų rašymo ir skaitymo numatytosios koduotės">
+<!ENTITY languagesTitle1.label            "Koduotės">
+<!ENTITY composingDescription.label       "Laiškų rašymo ir skaitymo numatytosios koduotės">
 
 <!ENTITY viewDefaultCharsetList.label     "Laiškų skaitymo:">
 <!ENTITY viewDefaultCharsetList.accesskey  "s">
-<!ENTITY replyInDefaultCharset3.label     "Kai galima, numatytąją koduotę naudoti ir atsakant į laiškus">
-<!ENTITY replyInDefaultCharset3.accesskey "n">
+<!ENTITY replyInDefaultCharset2.label     "Kai tai įmanoma, numatytąją koduotę naudoti ir atsakant į laiškus">
+<!ENTITY replyInDefaultCharset2.accesskey "a">

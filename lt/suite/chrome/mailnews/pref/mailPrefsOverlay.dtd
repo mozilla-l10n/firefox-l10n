@@ -21,5 +21,5 @@
 <!ENTITY return.label                     "Pranešimai apie išsiųstus laiškus">
 <!ENTITY junk.label                       "Brukalas">
 <!ENTITY tags.label                       "Gairės">
-
+<!ENTITY characterEncoding.label          "Koduotė">
 <!ENTITY networkStorage.label             "Tinklas ir disko atmintis">
