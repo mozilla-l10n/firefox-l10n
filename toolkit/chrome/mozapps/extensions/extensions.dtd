@@ -93,10 +93,10 @@
 <!ENTITY cmd.disableTheme.accesskey           "л">
 <!ENTITY cmd.askToActivate.label              "Питане за включване">
 <!ENTITY cmd.askToActivate.tooltip            "Заявка за използване на тази добавка всеки път">
-<!ENTITY cmd.alwaysActivate.label             "Включване винаги">
-<!ENTITY cmd.alwaysActivate.tooltip           "Винаги използвай тази добавка">
+<!ENTITY cmd.alwaysActivate.label             "Винаги включена">
+<!ENTITY cmd.alwaysActivate.tooltip           "Тази добавка винаги да бъде използвана">
 <!ENTITY cmd.neverActivate.label              "Винаги изключена">
-<!ENTITY cmd.neverActivate.tooltip            "Никога не използвай тази добавка">
+<!ENTITY cmd.neverActivate.tooltip            "Тази добавка никога да не бъде използвана">
 <!ENTITY cmd.stateMenu.tooltip                "Смяна на режима на използване на тази добавка">
 <!ENTITY cmd.installAddon.label               "Инсталиране">
 <!ENTITY cmd.installAddon.accesskey           "И">
