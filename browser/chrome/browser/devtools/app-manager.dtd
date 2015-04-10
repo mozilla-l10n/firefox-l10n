@@ -10,7 +10,7 @@
 <!ENTITY device.debugMainProcess "ದೋಷನಿದಾನ ಮುಖ್ಯ ಪ್ರಕ್ರಿಯೆ">
 <!ENTITY device.debugMainProcessTooltip "ಸಾಧನದಲ್ಲಿನ ಮುಖ್ಯ ಪ್ರಕ್ರಿಯೆಗೆ ಸಂಪರ್ಕಿತಗೊಂಡಿರುವ ವಿಕಸನೆಗಾರ ಉಪಕರಣಗಳನ್ನು ತೆರೆ">
 <!ENTITY device.screenshot "ತೆರೆಚಿತ್ರ">
-<!ENTITY device.screenshotTooltip "ಸಾಧನದ ಪ್ರಸಕ್ತ ಸ್ಥಿತಿಯ ಒಂದು ತೆರೆಚಿತ್ರವನ್ನು ಹೊಸ ಟ್ಯಾಬ್‌ನಲ್ಲಿ ತೆರೆ">
+<!ENTITY device.screenshotTooltip "ಸಾಧನದ ಪ್ರಸಕ್ತ ಸ್ಥಿತಿಯ ಒಂದು ತೆರೆಚಿತ್ರವನ್ನು ಹೊಸ ಹಾಳೆಯಲ್ಲಿ ತೆರೆ">
 <!ENTITY device.title "ಸಾಧನ ನಿಯಂತ್ರಣ ಕೇಂದ್ರ">
 <!ENTITY device.notConnected "ಸಂಪರ್ಕ ಸಾಧ್ಯವಾಗಿಲ್ಲ. ದಯವಿಟ್ಟು ನಿಮ್ಮ ಸಾಧನವನ್ನು ಕೆಳಗೆ ಸಂಪರ್ಕಿಸಿ.">
 <!ENTITY device.startApp "ಆರಂಭ">
