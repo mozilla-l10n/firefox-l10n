@@ -3,8 +3,6 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!-- General -->
 
-<!ENTITY calendar.calendar.label     "Deiziataer">
-<!ENTITY calendar.calendar.accesskey "D">
 
 
 
@@ -51,7 +49,6 @@
 
 
 
-<!ENTITY calendar.today.button.tooltip          "Mont d'an deiz a hiziv" >
 
 
 
@@ -93,7 +90,6 @@
 
 
 
-<!ENTITY calendar.list.header.label                 "Deiziataer">
 
 
 
@@ -135,8 +131,6 @@
 
 <!-- Context Menu -->
 
-<!ENTITY calendar.context.modifyorviewitem.label      "Digeriñ">
-<!ENTITY calendar.context.modifyorviewitem.accesskey  "D">
 
 
 
@@ -197,8 +191,6 @@
 <!-- Task View -->
 <!-- Note that the above *.context.* strings are currently used for the other
      task action buttons -->
-
-<!ENTITY calendar.taskview.delete.label     "Dilemel">
 <!-- Server Context Menu -->
 
 
@@ -229,12 +221,12 @@
 
 
 
-<!ENTITY calendar.context.convertmenu.event.label        "Darvoud...">
-<!ENTITY calendar.context.convertmenu.event.accesskey    "D">
 
 
-<!ENTITY calendar.context.convertmenu.task.label         "Trevell...">
-<!ENTITY calendar.context.convertmenu.task.accesskey     "T">
+
+
+
+
 
 
 
@@ -285,7 +277,7 @@
 
 <!-- Select Calendar Dialog -->
 <!-- Calendar Printing -->
-<!ENTITY calendar.print.title.label "TItl :">
+
 
 
 
@@ -301,7 +293,7 @@
 
 <!-- Error reporting -->
 
-<!ENTITY calendar.error.description "Deskrivadur :">
+
 
 <!-- Extract buttons in message header -->
 
