@@ -15,7 +15,7 @@
 <!ENTITY folderRebuildSummaryFile.explanation    "Soms raakt het mapindexbestand (.msf) beschadigd en kunnen berichten lijken te ontbreken of verwijderde berichten zichtbaar blijven; repareren van de map kan deze problemen oplossen.">
 <!ENTITY folderIncludeInGlobalSearch.label       "Berichten in deze map meenemen in globale zoekresultaten">
 <!ENTITY folderIncludeInGlobalSearch.accesskey   "o">
-     
+
 <!ENTITY retention.label "Behoudbeleid">
 <!ENTITY retentionUseAccount.label  "Mijn accountinstellingen gebruiken">
 <!ENTITY retentionUseAccount.accesskey "M">
