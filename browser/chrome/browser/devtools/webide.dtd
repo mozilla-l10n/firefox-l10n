@@ -8,9 +8,9 @@
 
 
 
-
-
-
+<!ENTITY projectMenu_importHostedApp_accesskey "H">
+<!ENTITY projectMenu_selectApp_label "යෙදුම විවෘත කරන්න...">
+<!ENTITY projectMenu_selectApp_accesskey "O">
 
 
 
@@ -111,12 +111,12 @@
 
 
 
+<!ENTITY prefs_options_tabsize "ටැබ ප්‍රමාණය">
+<!ENTITY prefs_options_expandtab "මෘදු ටැබ්">
 
 
 
-
-
-
+<!ENTITY prefs_options_autocomplete "ස්වයංක්‍රීය නිමාව">
 
 
 

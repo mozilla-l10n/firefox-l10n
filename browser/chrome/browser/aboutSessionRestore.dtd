@@ -13,10 +13,11 @@
 <!ENTITY restorepage.startNew       "සම්පූර්ණයෙන්ම නව ගවේෂණ සැසියක් ඇරඹීමෙන්">
 
 <!ENTITY restorepage.tryagainButton "ප්‍රතිස්ථාපනය">
-
+<!ENTITY restorepage.restore.access "R">
 <!ENTITY restorepage.closeButton    "වසන්න">
+<!ENTITY restorepage.close.access   "C">
 
-
+<!ENTITY restorepage.restoreHeader  "ප්‍රතිස්ථාපනය">
 <!ENTITY restorepage.listHeader     "කවුළු සහ ටැබ්">
 <!-- LOCALIZATION NOTE: &#37;S will be replaced with a number. -->
 <!ENTITY restorepage.windowLabel    "&#037;S වන කවුළුව">
@@ -26,10 +27,11 @@
 
 
 <!ENTITY welcomeback2.restoreButton  "දැන් අරඹමු!">
-
+<!ENTITY welcomeback2.restoreButton.access "L">
 
 <!ENTITY welcomeback2.tabtitle      "සාර්ථකයි!">
 
+<!ENTITY welcomeback2.pageTitle     "සාර්ථකයි!">
 <!ENTITY welcomeback2.pageInfo1     "&brandShortName; ඇරඹීමට සූදානම්.">
 
 <!ENTITY welcomeback2.label.restoreAll  "සියලු කවුළු සහ ටැබ් යළි පිහිටු වීම">

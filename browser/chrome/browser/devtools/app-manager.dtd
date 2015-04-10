@@ -36,9 +36,9 @@
 <!ENTITY device.permissionsHelpLink "https://developer.mozilla.org/docs/Web/Apps/App_permissions">
 <!ENTITY device.browserTabs "ගවේෂක ටැබ්">
 <!ENTITY device.browserTabsTooltip "සබඳකළ උපාංගයේ ගවේශකයේ ටැබ ලැයිස්තුවක් පෙන්වන්න">
-
+<!ENTITY device.debugBrowserTab "දෝෂහරණය">
 <!ENTITY device.debugBrowserTabTooltip "උපාංගය මත මෙම ගවේශක ටැබයට සබැඳි සංවර්ධක මෙවලම් විවෘත කරන්න">
-
+<!ENTITY device.help "උදව්">
 
 <!ENTITY connection.connectTooltip "උපකරණයට සම්බන්ධ වන්න">
 <!ENTITY connection.disconnect "විසන්ධි කරන්න">
@@ -66,19 +66,19 @@
 <!ENTITY connection.startRegisteredSimulator "අරඹන්න:">
 
 <!ENTITY projects.localApps "දේශීය යෙදුම්">
-
+<!ENTITY projects.addApp "එක් කරන්න">
 <!ENTITY projects.addPackaged "පැකේජ කළ යෙදුම එක් කරන්න">
 <!ENTITY projects.addPackagedTooltip "ඔබේ පරිගණකයෙන් නව පැකේජ යෙදුම (නාමාවලියක්) එක්කරන්න">
 <!ENTITY projects.addHosted "ධාරිත යෙදුම එක් කරන්න">
 <!ENTITY projects.addHostedTooltip "දුරස්ථ ජාල අඩවියකින් නව රැඳවූ යෙදුමක් එක් කරන්න (manifest.webapp ගොනුව වෙත සබැඳිය)">
-
+<!ENTITY projects.title "දේශීය යෙදුම්">
 <!ENTITY projects.appDetails "යෙදුම් තොරතුරු">
 <!ENTITY projects.removeAppFromList "ඔබ ක්‍රියාකාකරන යෙදුම් ලැයිස්තුවෙන් මෙම යෙදුම ඉවත් කරන්න. එය උපාංගයෙන් හෝ සමාකෘතිකයෙන් ඉවත් නොවනු ඇත.">
 <!ENTITY projects.updateApp "යාවත් කාළීන:">
 <!ENTITY projects.updateAppTooltip "සබඳකළ උපාංගය වෙත සත්‍යාපන පිරික්සුම් හා යාවත් ක්‍රියාත්මක කරන්න">
-
+<!ENTITY projects.debugApp "දෝෂහරණය">
 <!ENTITY projects.debugAppTooltip "මෙම යෙදුමට සබැඳි සංවර්ධක මෙවලම් විවෘත කරන්න">
-
+<!ENTITY projects.saveManifest "සුරකින්න">
 <!ENTITY projects.saveManifestTooltip "පහත දර්ශක සැකසීමේ අන්තර්ගතයන් සුරකින්න">
 <!ENTITY projects.hostedManifestPlaceHolder2 "http://example.com/app/manifest.webapp">
 <!ENTITY projects.noProjects "කිසිඳු ව්‍යාපෘතියක් නොමැත. පැකේජකල නව යෙදුමක් (දේශීය නාමාවලිය) හෝ රැඳවූ යෙදුමක් (දර්ශක ගොනුවට සබැඳි) එක් එක්කරන්න ">
@@ -92,6 +92,7 @@
 <!ENTITY projects.hosted "ධාරිත">
 <!ENTITY projects.packaged "ඇසුරුම්">
 
+<!ENTITY help.title "යෙදුම් කළමණාකරු">
 <!ENTITY help.close "වසන්න">
 <!ENTITY help.intro "මෙම මෙවලම ඔබට ගැලපෙන උපාංග සඳහා ජාල යෙදුම් නිර්මාණය කර ස්ථාපනයට ඉඩදෙයි (උදා Firefox OS). <strong>යෙදුම්</strong> ටැබය ඔබට ඔබේ යෙදුමේ සත්‍යාපන හා ස්ථාපන ක්‍රියාවලියන්ට සහය දේ. <strong>උපාංග</strong> ටැබය ඔබට සබඳකළ උපාංගය පිළිබඳ තොරතුරු ලබාදේ. පහත මෙවලම්තීරුව උපාංගයට හෝ සමාකෘතිය අරඹයි.">
 <!ENTITY help.usefullLinks "ප්‍රයෝජනවත් සැබැඳි:">
