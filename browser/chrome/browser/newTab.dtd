@@ -5,9 +5,9 @@
 
 <!ENTITY newtab.pageTitle "புதிய கீற்று">
 <!ENTITY newtab.customize.title "உங்களின் புதிய கீற்றுப் பக்கத்தை தனிபயனாக்கவும்">
-<!ENTITY newtab.customize.enhanced "செழுமையான">
-<!ENTITY newtab.customize.classic "தொன்மையான">
-<!ENTITY newtab.customize.blank "வெற்று">
+
+
+
 <!ENTITY newtab.customize.what "இது என்ன பக்கம்?">
 <!ENTITY newtab.intro.header "இது என்ன பக்கம்?">
 <!ENTITY newtab.undo.removedLabel "சிறுபடம் நீக்கப்பட்டது.">

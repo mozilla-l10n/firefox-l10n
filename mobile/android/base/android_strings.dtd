@@ -42,6 +42,7 @@
 <!ENTITY url_bar_default_text2 "தேடு/முகவரியை உள்ளிடு">
 
 <!ENTITY bookmark "புத்தகக்குறி">
+
 <!ENTITY bookmark_added "புத்தகக்குறி சேர்க்கப்பட்டது">
 <!ENTITY bookmark_removed "புத்தகக்குறி நீக்கப்பட்டது">
 <!ENTITY bookmark_updated "புத்தகக்குறி புதுப்பிக்கப்பட்டது">
@@ -79,6 +80,7 @@
 <!ENTITY pref_category_advanced "மேம்பட்டது">
 <!ENTITY pref_category_customize "தனிபயனாக்கு">
 <!ENTITY pref_category_customize_summary "முகப்பு, தேடு, கீற்றுகள், இறக்கு">
+
 <!-- Localization note (pref_category_language) : This is the preferences
      section in which the user picks the locale in which to display Firefox
      UI. The locale includes both language and region concepts. -->
@@ -114,6 +116,15 @@
 <!ENTITY overlay_share_no_url "இப்பகிர்வில் எவ்வித தொடுப்பும் இல்லை">
 <!ENTITY overlay_share_retry "மீண்டும் முயற்சி">
 <!ENTITY overlay_share_select_device "சாதனத்தை தேர்">
+<!-- Localization note (overlay_no_synced_devices) : Used when the menu option
+     to send a tab to a synced device is pressed and no other synced devices
+     are found. -->
+<!-- Localization note (overlay_share_tab_not_sent) : Used when the menu option
+     to send a tab to a synced device is pressed and there is an error
+     connecting to the server so the tab could not be sent. The text should be
+     divided into two lines (use the newline escape character, "\n", between
+     them): the first notifying the user about the failure and the second
+     telling the user what to do about it. -->
 
 <!ENTITY pref_category_search3 "தேடு">
 <!ENTITY pref_category_search_summary "தேடு பொறி வழங்குநர்களை தனிப்பயனாக்கு">
@@ -140,7 +151,9 @@
 <!ENTITY pref_category_devtools_summary "தொலைநிலை வழுநீக்கம், வண்ணப்பூச்சு அடித்தல்">
 <!ENTITY pref_developer_paint_flashing "பளிச்சிடும் வண்ணப்பூச்சு">
 <!ENTITY pref_developer_remotedebugging "தொலைநிலை பிழைதிருத்தம்">
+
 <!ENTITY pref_remember_signons "கடவுச்சொற்களை நினை">
+
 
 <!ENTITY pref_category_home "முகப்பு">
 <!ENTITY pref_category_home_summary "உங்களுன் முகப்பு பக்கத்தை தனிபயனாக்கு">
@@ -176,6 +189,18 @@
 <!ENTITY pref_tracking_protection_summary "உங்களை தடமறியும் தளங்களை &brandShortName; இது தடுக்கிறது">
 <!ENTITY pref_donottrack_title "தடமறிய வேண்டாம்">
 <!ENTITY pref_donottrack_summary "&brandShortName; தளங்களிடம் உங்களை தடமறிய வேண்டாம் என சொல்லவும்">
+
+
+<!-- Localization note (tab_queue_notification_text_plural) : The
+     formatD is replaced with the number of tabs queued.  The
+     number of tabs queued is always more than one.  We can't use
+     Android plural forms, sadly. See Bug #753859. -->
+<!-- Localization note (tab_queue_notification_title_plural) : This is the
+     title of a notification; we expect more than one tab queued. -->
+<!-- Localization note (tab_queue_notification_title_singular) : This is the
+     title of a notification; we expect only one tab queued. -->
+<!-- Localization note (tab_queue_notification_text_singular) : This is the
+     text of a notification; we expect only one tab queued. -->
 
 <!ENTITY pref_char_encoding "எழுத்து குறிமுறை">
 <!ENTITY pref_char_encoding_on "பட்டியலை காட்டு">
@@ -271,7 +296,7 @@ size. -->
      (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
 <!ENTITY datareporting_crashreporter_title_short "நொறுக்கு அறிக்கையாளர்">
 <!ENTITY datareporting_wifi_title2 "&vendorShortName;வின் இடமறியும் சேவை">
-<!ENTITY datareporting_wifi_geolocation_summary3 "&vendorShortName; என்பதற்கு உதவுவதன் மூலம் உலகத்தை வரைலாம்! எங்களுடைய புவியிடம் வழங்கும் சேவை செம்மைப்படுத்த உங்கள் கருவியின் தோராயமான இடத்தை வை-பை மற்றும் செல்லுலார் மூலம் பகிரவும்">
+
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
      actual notification that an update is available. -->
@@ -286,6 +311,7 @@ size. -->
 <!ENTITY quit "வெளியேறு">
 
 <!ENTITY addons "கூடுதல் இணைப்புகள்">
+
 <!ENTITY downloads "பதிவிறக்கங்கள்">
 <!ENTITY apps "பயன்பாடுகள்">
 <!ENTITY char_encoding "எழுத்து குறிமுறை">
@@ -338,6 +364,13 @@ size. -->
 <!ENTITY contextmenu_top_sites_pin "இணையத்தளத்தை சொருகு">
 <!ENTITY contextmenu_top_sites_unpin "இணையத்தள சொருகலை நீக்கு">
 <!ENTITY contextmenu_add_search_engine "தேடும் பொறியைச் சேர்">
+<!-- Localization note (doorhanger_login_no_username): This string is used in the save-login doorhanger
+     where normally a username would be displayed. In this case, no username was found, and this placeholder
+     contains brackets to indicate this is not actually a username, but rather a placeholder -->
+
+<!ENTITY doorhanger_login_edit_username_hint "பயனர் பெயர்">
+
+
 
 <!ENTITY pref_titlebar_mode "தலைப்பு பட்டி">
 <!ENTITY pref_titlebar_mode_title "பக்க தலைப்பை காண்பி">
@@ -347,6 +380,8 @@ size. -->
 
 <!ENTITY pref_scroll_title_bar2 "முழுத்திரை உலாவல்">
 <!ENTITY pref_scroll_title_bar_summary "ஒரு பக்கத்தை கீழே உருட்டும் போது &brandShortName; தலைப்பு பட்டையை மறை">
+
+
 <!-- Localization note (page_removed): This string appears in a toast message when
      any page is removed frome about:home. This includes pages that are in history,
      bookmarks, or reading list. -->
@@ -384,7 +419,7 @@ size. -->
 
 <!ENTITY masterpassword_create_title "முதன்மை கடவுச்சொல்லை அமை">
 <!ENTITY masterpassword_remove_title "முதன்மை கடவுச்சொல் நீக்கு">
-<!ENTITY masterpassword_password "கடவுச்சொல்">
+
 <!ENTITY masterpassword_confirm "கடவுச்சொல்லை உறுதிசெய்">
 
 <!ENTITY button_ok "சரி">
@@ -394,6 +429,7 @@ size. -->
 <!ENTITY button_clear_data "தரவினை அகற்று">
 <!ENTITY button_set "அமை">
 <!ENTITY button_clear "துடை">
+<!ENTITY button_remember "நினைவுகொள்">
 
 <!ENTITY home_top_sites_title "அடிக்கடி பார்த்த இணையத்தளங்கள்">
 <!-- Localization note (home_top_sites_add): This string is used as placeholder
@@ -517,6 +553,13 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY bookmarkhistory_import_wait "தயவு செய்து காத்திருக்கவும்...">
 
 <!ENTITY suggestions_prompt3 "தேடல் பரிந்துரைகளை செயற்படுத்த விருப்பமா?">
+<!--  Localization note (search_bar_item_desc): When the user clicks the url bar
+      and starts typing, a list of icons of search engines appears at the bottom
+      of the screen. When a user clicks an icon, the entered text will be searched
+      via the search engine that uses the icon they clicked. This text is used
+      for screen reader users when they hover each icon - &formatS; will be
+      replaced with the name of the currently highlighted icon. -->
+<!ENTITY search_bar_item_desc "&formatS; மூலம் தேடு">
 <!-- Localization note (suggestion_for_engine): The placeholder &formatS1; will be
      replaced with the name of the search engine. The placeholder &formatS2; will be
      replaced with the search query. -->
