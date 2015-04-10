@@ -23,6 +23,10 @@
   -  It allows you to switch the context of the whole toolbox. -->
 <!ENTITY toolboxFramesTooltip          "Selecione uma iframe como o documento alvo atual">
 
+<!-- LOCALIZATION NOTE (browserToolboxErrorMessage): This is the label
+  -  shown next to error details when the Browser Toolbox is unable to open. -->
+<!ENTITY browserToolboxErrorMessage          "Erro ao abrir a caixa de ferramentas do navegador:">
+
 <!-- LOCALIZATION NOTE (options.context.advancedSettings): This is the label for
   -  the heading of the advanced settings group in the options panel. -->
 <!ENTITY options.context.advancedSettings "Definições avançadas">
@@ -72,8 +76,8 @@
 <!-- LOCALIZATION NOTE (options.enableChrome.label4): This is the label for the
   -  checkbox that toggles chrome debugging, i.e. devtools.chrome.enabled
   -  boolean preference in about:config, in the options panel. -->
-<!ENTITY options.enableChrome.label4   "Ativar chrome e a depuração do extra">
-<!ENTITY options.enableChrome.tooltip2 "Se ativar esta opção pode utilizar várias ferramentas de programação no contexto do navegador">
+<!ENTITY options.enableChrome.label5    "Ativar as caixas de ferramentas de depuração do chrome do navegador e de extras">
+<!ENTITY options.enableChrome.tooltip3  "Ativar esta opção irá permitir que utilize várias ferramentas de programação no contexto no navegador (através das Ferramentas > Programação Web > Caixa de ferramentas do navegador) e depure extras a partir do Gestor de Extras">
 
 <!-- LOCALIZATION NOTE (options.enableRemote.label3): This is the label for the
   -  checkbox that toggles remote debugging, i.e. devtools.debugger.remote-enabled
@@ -92,6 +96,12 @@
   -  tooltip for the checkbox that toggles the cache on or off. -->
 <!ENTITY options.disableCache.label2     "Desativar Cache (quando a caixa de ferramentas está aberta)">
 <!ENTITY options.disableCache.tooltip2   "Se ativar esta opção desativará a cache para todos os separadores que tenham a caixa de ferramentas aberta.">
+
+<!-- LOCALIZATION NOTE (options.enableServiceWorkersTesting.label,
+  -  options.enableServiceWorkersTesting.tooltip): This is the options panel label and
+  -  tooltip for the checkbox that toggles the service workers testing features on or off. -->
+<!ENTITY options.enableServiceWorkersTesting.label     "Ativar funcionalidades de teste dos Service Workers (quando a caixa de ferramentas está aberta)">
+<!ENTITY options.enableServiceWorkersTesting.tooltip   "Ao ativar esta opção, serão ativas as funcionalidades de teste dos service workers em todos os separadores que tenham a caixa de ferramentas aberta.">
 
 <!-- LOCALIZATION NOTE (options.selectDefaultTools.label): This is the label for
   -  the heading of group of checkboxes corresponding to the default developer

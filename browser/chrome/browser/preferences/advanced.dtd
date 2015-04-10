@@ -114,6 +114,7 @@
 <!ENTITY offlineAppRemove.confirm        "Remover dados do modo desligado">
 
 <!ENTITY certificateTab.label            "Certificados">
+<!ENTITY certSelection.label             "Pedidos">
 <!ENTITY certSelection.description       "Se um sítio pedir um certificado pessoal:">
 <!ENTITY certs.auto                      "Selecionar um automaticamente">
 <!ENTITY certs.auto.accesskey            "u">
