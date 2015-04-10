@@ -26,16 +26,16 @@
 <!ENTITY device.allow "اجازه دادن">
 <!ENTITY device.allowTooltip "این مجوز برای برنامه هایی از این نوع داده میشود">
 <!ENTITY device.prompt "پرسش">
-
+<!ENTITY device.promptTooltip "برنامه‌هایی از این دست نیاز به مجوزی دارد که توسط کاربر اعلام شود">
 <!ENTITY device.deny "رد کردن">
-<!ENTITY device.denyTooltip "این مجوز به برنامه هایی از این نوع داده نمیشود">
+<!ENTITY device.denyTooltip "این مجوز برای برنامه هایی از این نوع داده نمی‌شود">
 <!ENTITY device.installedApps "برنامه‌های نصب شده">
-<!ENTITY device.installedAppsTooltip "مشاهده‌ لیستی از برنامه‌های نصب شده بر روی دستگاه, تعدادی برنامه, همانند برنامه‌های تایید شده ممکن است از این دیدگاه حذف شده باشد.">
+<!ENTITY device.installedAppsTooltip "مشاهده‌ لیستی از برنامه‌های نصب شده بر روی دستگاه. تعدادی برنامه, همانند برنامه‌های تایید شده ممکن است از این دیدگاه حذف شده باشد.">
 <!ENTITY device.permissions "مجوزها">
 <!ENTITY device.permissionsTooltip "مشاهده جدولی از مجوزهای دسترسی به انواع مختلفی از برنامه‌ها">
 <!ENTITY device.permissionsHelpLink "https://developer.mozilla.org/docs/Web/Apps/App_permissions">
 <!ENTITY device.browserTabs "زبانه‌های مرورگر">
-<!ENTITY device.browserTabsTooltip "مشاهده فهرستی از تبهای مرورگر دستگاه متصل">
+<!ENTITY device.browserTabsTooltip "مشاهده فهرست زبانه‌ها‌ی مرورگر دستگاه های متصل ">
 <!ENTITY device.debugBrowserTab "اشکال‌زدایی">
 <!ENTITY device.debugBrowserTabTooltip "باز کردن ابزارهای برنامه‌نویسی متصل به این زبانه‌ی مرورگر در دستگاه">
 <!ENTITY device.help "راهنما">

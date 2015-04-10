@@ -54,6 +54,8 @@
   -  options.disableJavaScript.tooltip): This is the options panel label and
   -  tooltip for the checkbox that toggles JavaScript on or off. -->
 
+<!ENTITY options.disableJavaScript.label     "غیرفعال کردن جاوا اسکریپت *">
+
 <!-- LOCALIZATION NOTE (options.disableCache.label2,
   -  options.disableCache.tooltip2): This is the options panel label and
   -  tooltip for the checkbox that toggles the cache on or off. -->
@@ -81,14 +83,20 @@
 
 <!-- LOCALIZATION NOTE (options.webconsole.label): This is the label for the
   -  heading of the group of Web Console preferences in the options panel. -->
+
+<!ENTITY options.webconsole.label            "پیشانه وب">
 <!-- LOCALIZATION NOTE (options.timestampMessages.label): This is the
    - label for the checkbox that toggles timestamps in the Web Console -->
 
 <!-- LOCALIZATION NOTE (options.styleeditor.label): This is the label for the
   -  heading of the group of Style Editor preferences in the options
   -  panel. -->
+
+<!ENTITY options.styleeditor.label            "ویرایشگر سبک">
 <!-- LOCALIZATION NOTE (options.stylesheetSourceMaps.label): This is the
    - label for the checkbox that toggles showing original sources in the Style Editor -->
+
+<!ENTITY options.stylesheetSourceMaps.label      "نمایش منابع اصلی">
 
 <!-- LOCALIZATION NOTE (options.stylesheetAutocompletion.label): This is the
    - label for the checkbox that toggles autocompletion of css in the Style Editor -->
@@ -113,12 +121,15 @@
   -  section. -->
 
 
+<!ENTITY options.sourceeditor.label                     "ترجیحات ویرایشگر">
 
 
 
 
 
 
+<!ENTITY options.sourceeditor.tabsize.label             "اندازه زبانه">
+<!ENTITY options.sourceeditor.tabsize.accesskey         "ز">
 
 
 <!ENTITY options.sourceeditor.keybinding.default.label  "پیش‌فرض">
