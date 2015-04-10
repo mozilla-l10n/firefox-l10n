@@ -113,7 +113,6 @@
 <!ENTITY offlineAppRemove.confirm        "Pašalinti darbui neprisijungus skirtus duomenis">
 
 <!ENTITY certificateTab.label            "Liudijimai">
-
 <!ENTITY certSelection.description       "Svetainei paprašius jūsų liudijimo:">
 <!ENTITY certs.auto                      "parinkti jį automatiškai">
 <!ENTITY certs.auto.accesskey            "a">

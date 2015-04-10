@@ -41,7 +41,6 @@
 <!ENTITY url_bar_default_text2 "Įveskite adresą arba paieškos žodžius">
 
 <!ENTITY bookmark "Įtraukti į adresyną">
-
 <!ENTITY bookmark_added "Tinklalapis įtrauktas į adresyną">
 <!ENTITY bookmark_removed "Tinklalapis pašalintas iš adresyno">
 <!ENTITY bookmark_updated "Adresyno įrašas atnaujintas">
@@ -79,7 +78,6 @@
 <!ENTITY pref_category_advanced "Kitkas">
 <!ENTITY pref_category_customize "Individualizavimas">
 <!ENTITY pref_category_customize_summary "Pradžia, paieška, kortelės, importavimas">
-
 <!-- Localization note (pref_category_language) : This is the preferences
      section in which the user picks the locale in which to display Firefox
      UI. The locale includes both language and region concepts. -->
@@ -113,15 +111,6 @@
 <!ENTITY overlay_share_no_url "Gautame objekte neaptiktas joks saitas">
 
 <!ENTITY overlay_share_select_device "Pasirinkite įrenginį">
-<!-- Localization note (overlay_no_synced_devices) : Used when the menu option
-     to send a tab to a synced device is pressed and no other synced devices
-     are found. -->
-<!-- Localization note (overlay_share_tab_not_sent) : Used when the menu option
-     to send a tab to a synced device is pressed and there is an error
-     connecting to the server so the tab could not be sent. The text should be
-     divided into two lines (use the newline escape character, "\n", between
-     them): the first notifying the user about the failure and the second
-     telling the user what to do about it. -->
 
 <!ENTITY pref_category_search_summary "Ieškyklių tinkinimas">
 <!ENTITY pref_category_display "Rodymas">
@@ -147,9 +136,7 @@
 <!ENTITY pref_category_devtools_summary "Nuotolinis derinimas, piešimo paryškinimas">
 <!ENTITY pref_developer_paint_flashing "Piešiamos srities akcentavimas">
 <!ENTITY pref_developer_remotedebugging "Nuotolinis derinimas">
-
 <!ENTITY pref_remember_signons "Įsiminti slaptažodžius">
-
 
 <!ENTITY pref_category_home "Pradžia">
 <!ENTITY pref_category_home_summary "Pradžios tinklalapio tinkinimas">
@@ -183,18 +170,6 @@
 <!ENTITY pref_tracking_protection_summary "„&brandShortName;“ neleis svetainėms jūsų sekti">
 <!ENTITY pref_donottrack_title "Nestebėti">
 <!ENTITY pref_donottrack_summary "&brandShortName; praneš svetainėms, kad jūs nenorite būti stebimi">
-
-
-<!-- Localization note (tab_queue_notification_text_plural) : The
-     formatD is replaced with the number of tabs queued.  The
-     number of tabs queued is always more than one.  We can't use
-     Android plural forms, sadly. See Bug #753859. -->
-<!-- Localization note (tab_queue_notification_title_plural) : This is the
-     title of a notification; we expect more than one tab queued. -->
-<!-- Localization note (tab_queue_notification_title_singular) : This is the
-     title of a notification; we expect only one tab queued. -->
-<!-- Localization note (tab_queue_notification_text_singular) : This is the
-     text of a notification; we expect only one tab queued. -->
 
 <!ENTITY pref_char_encoding "Simbolių koduotė">
 <!ENTITY pref_char_encoding_on "Rodyti meniu">
@@ -303,7 +278,6 @@ size. -->
 
 <!ENTITY addons "Priedai">
 
-
 <!ENTITY apps "Programos">
 <!ENTITY char_encoding "Simbolių koduotė">
 
@@ -353,13 +327,6 @@ size. -->
 <!ENTITY contextmenu_top_sites_pin "Įsegti svetainę">
 <!ENTITY contextmenu_top_sites_unpin "Išsegti svetainę">
 <!ENTITY contextmenu_add_search_engine "Pridėti ieškyklę">
-<!-- Localization note (doorhanger_login_no_username): This string is used in the save-login doorhanger
-     where normally a username would be displayed. In this case, no username was found, and this placeholder
-     contains brackets to indicate this is not actually a username, but rather a placeholder -->
-
-<!ENTITY doorhanger_login_edit_username_hint "Naudotojo vardas">
-
-
 
 <!ENTITY pref_titlebar_mode "Antraštės juosta">
 <!ENTITY pref_titlebar_mode_title "Rodyti tinklalapio antraštę">
@@ -369,8 +336,6 @@ size. -->
 
 <!ENTITY pref_scroll_title_bar2 "Visaekranis naršymas">
 <!ENTITY pref_scroll_title_bar_summary "Nerodyti „&brandShortName;“ antraštės juostos, slenkant tinklalapį žemyn">
-
-
 <!-- Localization note (page_removed): This string appears in a toast message when
      any page is removed frome about:home. This includes pages that are in history,
      bookmarks, or reading list. -->
@@ -407,7 +372,7 @@ size. -->
 
 <!ENTITY masterpassword_create_title "Sukurti pagrindinį slaptažodį">
 <!ENTITY masterpassword_remove_title "Pašalinti pagrindinį slaptažodį">
-
+<!ENTITY masterpassword_password "Slaptažodis">
 <!ENTITY masterpassword_confirm "Pakartokite slaptažodį">
 
 <!ENTITY button_ok "Gerai">
@@ -415,7 +380,6 @@ size. -->
 <!ENTITY button_yes "Taip">
 <!ENTITY button_no "Ne">
 <!ENTITY button_clear_data "Valyti duomenis">
-
 
 
 
@@ -540,13 +504,6 @@ iš „Android“">
 <!ENTITY bookmarkhistory_import_wait "Luktelėkite…">
 
 <!ENTITY suggestions_prompt3 "Ar norite įgalinti paieškos siūlymus?">
-<!--  Localization note (search_bar_item_desc): When the user clicks the url bar
-      and starts typing, a list of icons of search engines appears at the bottom
-      of the screen. When a user clicks an icon, the entered text will be searched
-      via the search engine that uses the icon they clicked. This text is used
-      for screen reader users when they hover each icon - &formatS; will be
-      replaced with the name of the currently highlighted icon. -->
-<!ENTITY search_bar_item_desc "Ieškoti per „&formatS;“">
 <!-- Localization note (suggestion_for_engine): The placeholder &formatS1; will be
      replaced with the name of the search engine. The placeholder &formatS2; will be
      replaced with the search query. -->
