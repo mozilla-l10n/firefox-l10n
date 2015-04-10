@@ -12,10 +12,10 @@
                        for the help button in the menubar but Gnome does not.   -->
 <!ENTITY helpMenuWin.label        "உதவி"> 
 <!ENTITY helpMenuWin.accesskey    "H">
-<!ENTITY aboutProduct2.label      "&brandShortName; பற்றி">
+<!ENTITY aboutProduct2.label      "&brandShorterName; பற்றி">
 <!ENTITY aboutProduct2.accesskey  "A">
 <!ENTITY productHelp2.label       "&brandShorterName; உதவி">
-<!ENTITY productHelp2.accesskey   "&amp;">
+<!ENTITY productHelp2.accesskey   "H">
 <!ENTITY helpMac.commandkey       "?">
 
 <!ENTITY helpKeyboardShortcuts.label     "விசைப்பலகை குறுக் குவழிகள்">
