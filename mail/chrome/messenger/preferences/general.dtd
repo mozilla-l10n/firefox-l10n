@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY messengerStartPage.label "Úvodní stránka pošty">
+<!ENTITY messengerStartPage.label "Úvodní stránka aplikace &brandShortName;">
 <!ENTITY enableStartPage.label "Při spuštění aplikace &brandShortName; zobrazit úvodní stránku">
 <!ENTITY enableStartPage.accesskey "s">
 <!ENTITY location.label "Adresa:">
