@@ -1,6 +1,8 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY minimizeWindow.key       "m">
 <!ENTITY minimizeWindow.label     "හකුලන්න">
 <!ENTITY bringAllToFront.label    "සියල්ල ඉදිරියට ගෙන එන්න">
 <!ENTITY zoomWindow.label         "විශාලනය">
@@ -10,12 +12,13 @@
 <!ENTITY helpMenu.accesskey       "H"> 
 <!-- LOCALIZATION NOTE some localizations of Windows (ex:french, german) use "?"
                        for the help button in the menubar but Gnome does not.   -->
+<!ENTITY helpMenuWin.label        "උදව්"> 
+<!ENTITY helpMenuWin.accesskey    "උ">
 
 
 
 
-
-
+<!ENTITY helpMac.commandkey       "?">
 
 <!ENTITY helpKeyboardShortcuts.label     "යතුරු පුවරු කෙටිමං">
 <!ENTITY helpKeyboardShortcuts.accesskey "K">
@@ -34,13 +37,13 @@
 
 
 <!ENTITY preferencesCmdMac.label        "අභිරුචීන්...">
-
+<!ENTITY preferencesCmdMac.commandkey   ",">
 
 <!ENTITY servicesMenuMac.label          "සේවා">
 
 
 
 <!ENTITY hideOtherAppsCmdMac.label      "අනෙක්වා සඟවන්න">
-
+<!ENTITY hideOtherAppsCmdMac.commandkey "H">
 
 <!ENTITY showAllAppsCmdMac.label        "සියල්ල ම පෙන්වන්න">
