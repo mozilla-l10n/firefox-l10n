@@ -241,7 +241,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY browserConsoleCmd.accesskey  "b">
 
 <!ENTITY inspectContextMenu.label     "Inspektera element">
-<!ENTITY inspectContextMenu.accesskey "Q">
+<!ENTITY inspectContextMenu.accesskey "e">
 
 <!ENTITY responsiveDesignTool.label   "Responsiv designvy">
 <!ENTITY responsiveDesignTool.accesskey "R">
