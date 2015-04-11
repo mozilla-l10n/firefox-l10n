@@ -213,6 +213,8 @@ size. -->
 
 <!ENTITY pref_media_autoplay_enabled "Tillat autoavspilling">
 <!ENTITY pref_media_autoplay_enabled_summary "Velg om nettsider kan automatisk spille av videoer og annet medieinnhold">
+<!ENTITY pref_zoom_force_enabled "Alltid slå på zoom">
+<!ENTITY pref_zoom_force_enabled_summary "Tving overstyring slik at du kan zoome på alle sider">
 
 <!ENTITY pref_use_master_password "Bruk et hovedpassord">
 <!ENTITY pref_sync "Sync">
@@ -364,6 +366,10 @@ size. -->
 <!ENTITY site_settings_no_settings  "Ingen innstillinger å fjerne.">
 
 <!ENTITY reading_list_added "Siden er lagt til i leselisten">
+<!ENTITY reading_list_removed "Siden er fjernet fra leselisten">
+<!-- Localization note (reading_list_remove) : Used to remove the currently open page from
+     the user's reading list. The opposite of overlay_share_reading_list_btn_label. -->
+<!ENTITY reading_list_remove "Fjern fra leselisten">
 <!ENTITY reading_list_duplicate "Siden er allerede i leselisten">
 
 <!-- Localization note (reading_list_time_minutes2) : This string is used in the "Reading List"
@@ -559,6 +565,13 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY actionbar_menu "Meny">
 <!ENTITY actionbar_done "Ferdig">
 
+<!-- Voice search in the awesome bar -->
+<!ENTITY voicesearch_prompt "Snakk nå">
+<!ENTITY voicesearch_failed_title "&brandShortName; stemmesøk">
+<!ENTITY voicesearch_failed_message "Det er et problem med stemmesøk akkurat nå. Prøv igjen senere">
+<!ENTITY voicesearch_failed_message_recoverable "Beklager! Vi klarte ikke gjenkjenne ordene. Prøv igjen.">
+<!ENTITY voicesearch_failed_retry "Prøv igjen">
+
 <!-- Localization note (remote_tabs_last_synced): the variable is replaced by a
      "relative time span string" produced by Android.  This string describes the
      time the tabs were last synced relative to the current time; examples
@@ -566,6 +579,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      "Last synced" is one of the user's other Sync clients, typically Firefox on
      their desktop or laptop.-->
 <!ENTITY remote_tabs_last_synced "Sist synkronisert: &formatS;">
+<!-- Localization note: Used when the sync has not happend yet, showed in place of a date -->
+<!ENTITY remote_tabs_never_synced "Sist synkronisert: aldri">
 
 <!-- Find-In-Page strings -->
 <!-- LOCALIZATION NOTE (find_matchcase): This is meant to appear as an icon that changes color
