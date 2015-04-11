@@ -345,7 +345,7 @@ size. -->
      where normally a username would be displayed. In this case, no username was found, and this placeholder
      contains brackets to indicate this is not actually a username, but rather a placeholder -->
 
-
+<!ENTITY doorhanger_login_edit_username_hint "Korisničko ime">
 
 
 
@@ -401,7 +401,7 @@ size. -->
 <!ENTITY button_clear_data "Obriši podatke">
 
 
-
+<!ENTITY button_remember "Zapamti">
 
 <!ENTITY home_top_sites_title "Najpopularnije stranice">
 <!-- Localization note (home_top_sites_add): This string is used as placeholder
