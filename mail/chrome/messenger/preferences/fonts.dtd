@@ -70,10 +70,10 @@
 <!-- Language settings -->
 <!ENTITY sendDefaultCharset.label         		 "Mensagens enviadas:">
 <!ENTITY sendDefaultCharset.accesskey            "v">
-<!ENTITY languagesTitle2.label            		 "Codificaçãos pré-definida">
-<!ENTITY composingDescription2.label       		 "Defina a codificação pré-definida para receção e envio de mensagens.">
+<!ENTITY languagesTitle1.label            		 "Codificações de carateres">
+<!ENTITY composingDescription.label       		 "Definir as codificações de carateres por omissão para envio e receção de mensagens">
 
 <!ENTITY viewDefaultCharsetList.label     		 "Mensagens recebidas:">
 <!ENTITY viewDefaultCharsetList.accesskey  		 "a">
-<!ENTITY replyInDefaultCharset3.label     		 "Se possível, utilizar a codificação pré-definida nas respostas">
-<!ENTITY replyInDefaultCharset3.accesskey 		 "u">
+<!ENTITY replyInDefaultCharset2.label     "Quando possível, utilizar a codificação de carateres por omissão em respostas">
+<!ENTITY replyInDefaultCharset2.accesskey "u">
