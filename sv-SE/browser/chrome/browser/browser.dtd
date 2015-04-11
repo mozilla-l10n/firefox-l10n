@@ -95,8 +95,8 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY pageInfoCmd.label "Sidinfo">
 <!ENTITY pageInfoCmd.accesskey "d">
 <!ENTITY pageInfoCmd.commandkey "i">
-<!ENTITY mirrorTabCmd.label "Spegla flik ">
-<!ENTITY mirrorTabCmd.accesskey "M">
+<!ENTITY mirrorTabCmd.label "Spegla flik">
+<!ENTITY mirrorTabCmd.accesskey "g">
 <!-- LOCALIZATION NOTE (enterFullScreenCmd.label, exitFullScreenCmd.label):
 These should match what Safari and other Apple applications use on OS X Lion. -->
 <!ENTITY enterFullScreenCmd.label "Aktivera helskärm">
@@ -389,7 +389,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY customizeMenu.addMoreItems.label "Lägg till fler poster…">
 <!ENTITY customizeMenu.addMoreItems.accesskey "L">
 
-<!ENTITY openCmd.commandkey           "I">
+<!ENTITY openCmd.commandkey           "l">
 <!ENTITY urlbar.placeholder2          "Sök eller ange adress">
 <!ENTITY urlbar.accesskey             "d">
 <!ENTITY urlbar.switchToTab.label     "Växla till fliken:">
