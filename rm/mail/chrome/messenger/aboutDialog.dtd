@@ -8,10 +8,24 @@
 -->
 <!ENTITY update.checkForUpdatesButton.label       "Tschertgar actualisaziuns">
 <!ENTITY update.checkForUpdatesButton.accesskey   "C">
-<!ENTITY update.updateButton.label                "Reaviar per actualisar">
+<!ENTITY update.updateButton.label2               "Reaviar &brandShortName; per actualisar">
 <!ENTITY update.updateButton.accesskey            "R">
 <!ENTITY update.applyButtonBillboard.label        "Applitgar l'actualisaziun…">
 <!ENTITY update.applyButtonBillboard.accesskey    "A">
+
+<!-- LOCALIZATION NOTE (warningDesc.version): This is a warning about the experimental nature of Nightly and Aurora builds. It is only shown in those versions. -->
+<!ENTITY warningDesc.version        "&brandShortName; è experimental e pudess esser instabel.">
+<!-- LOCALIZATION NOTE (warningDesc.telemetryDesc): This is a notification that Nightly/Aurora builds automatically send Telemetry data back to Mozilla. It is only shown in those versions. "It" refers to brandShortName. -->
+<!ENTITY warningDesc.telemetryDesc  "Il program trametta automaticamain infurmaziuns davart la prestaziun, la hardware, l'utilisaziun e la persunalisaziun a &vendorShortName; per gidar a meglierar &brandShortName;.">
+
+<!-- LOCALIZATION NOTE (community.exp.*) This paragraph is shown in "experimental" builds, i.e. Nightly and Aurora builds, instead of the other "community.*" strings below. -->
+<!ENTITY community.exp.start        "">
+<!-- LOCALIZATION NOTE (community.exp.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
+<!ENTITY community.exp.mozillaLink  "&vendorShortName;">
+<!ENTITY community.exp.middle       " è ina ">
+<!-- LOCALIZATION NOTE (community.exp.creditslink): This is a link title that links to about:credits. -->
+<!ENTITY community.exp.creditsLink  "communitad globala">
+<!ENTITY community.exp.end          " che lavura communablamain per che l'internet resta avert, public ed accessibel a tuts.">
 
 <!ENTITY community.start2           "&brandShortName; vegn sviluppà da ">
 <!-- LOCALIZATION NOTE (community.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
@@ -19,12 +33,15 @@
 <!ENTITY community.middle2          ", ina ">
 <!-- LOCALIZATION NOTE (community.creditsLink): This is a link title that links to about:credits. -->
 <!ENTITY community.creditsLink      "communitad globala">
-<!ENTITY community.end2             " che lavura communablamain per meglierar l'internet. Nus essan da l'avis che l'internet duess esser avert, public ed accessibel a mintgin senza restricziuns.">
+<!ENTITY community.end3             " che lavura communablamain per che l'internet resta avert, public ed accessibel a tuts.">
 
-<!ENTITY contribute.start           "Interess? ">
-<!-- LOCALIZATION NOTE (contribute.getInvolvedLink): This is a link title that links to http://www.mozilla.org/contribute/. -->
-<!ENTITY contribute.getInvolvedLink "Ta participescha!">
-<!ENTITY contribute.end             "">
+<!ENTITY helpus.start               "Vuls gidar? ">
+<!-- LOCALIZATION NOTE (helpus.donateLink): This is a link title that links to the thunderbird donation page -->
+<!ENTITY helpus.donateLink          "Fa ina donaziun">
+<!ENTITY helpus.middle              " u ">
+<!-- LOCALIZATION NOTE (helpus.getInvolvedLink): This is a link title that links to http://www.mozilla.org/contribute/. -->
+<!ENTITY helpus.getInvolvedLink     "ta participescha!">
+<!ENTITY helpus.end                 "">
 
 <!-- LOCALIZATION NOTE (bottomLinks.license): This is a link title that links to about:license. -->
 <!ENTITY bottomLinks.license        "Infurmaziuns davart la licenza">
@@ -41,6 +58,8 @@
 <!ENTITY update.noUpdatesFound      "&brandShortName; è actual">
 <!-- LOCALIZATION NOTE (update.adminDisabled): try to make the localized text short (see bug 596813 for screenshots). -->
 <!ENTITY update.adminDisabled       "La funcziun dad actualisaziuns è deactivada da tes administratur da sistem">
+<!-- LOCALIZATION NOTE (update.otherInstanceHandlingUpdates): try to make the localized text short -->
+<!ENTITY update.otherInstanceHandlingUpdates "&brandShortName; vegn actualisà d'ina autra instanza">
 
 <!-- LOCALIZATION NOTE (update.failed.start,update.failed.linkText,update.failed.end):
      update.failed.start, update.failed.linkText, and update.failed.end all go into
