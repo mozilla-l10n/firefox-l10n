@@ -43,10 +43,10 @@
 
 <!ENTITY servicesMenuMac.label          "Tjänster">
 
-<!ENTITY hideThisAppCmdMac2.label       "Göm &brandShorterName;">
+<!ENTITY hideThisAppCmdMac2.label       "Dölj &brandShorterName;">
 <!ENTITY hideThisAppCmdMac2.commandkey  "H">
 
-<!ENTITY hideOtherAppsCmdMac.label      "Göm övriga">
-<!ENTITY hideOtherAppsCmdMac.commandkey "G">
+<!ENTITY hideOtherAppsCmdMac.label      "Dölj övriga">
+<!ENTITY hideOtherAppsCmdMac.commandkey "H">
 
 <!ENTITY showAllAppsCmdMac.label        "Visa alla">
