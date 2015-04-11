@@ -11,18 +11,26 @@
 <!-- Specific error messages -->
 
 <!ENTITY connectionFailure.title "Impossível ligar">
-<!ENTITY connectionFailure.longDesc "&sharedLongDesc2;">
+<!ENTITY connectionFailure.longDesc2 "&sharedLongDesc3;">
 
 <!ENTITY deniedPortAccess.title "Este endereço é restrito">
 <!ENTITY deniedPortAccess.longDesc "">
 
 <!ENTITY dnsNotFound.title "Servidor não encontrado">
-<!ENTITY dnsNotFound.longDesc2 "
+<!-- LOCALIZATION NOTE (dnsNotFound.longDesc4) This string contains markup including widgets for searching
+     or enabling wifi connections. The text inside tags should be localized.  Do not change the ids. -->
+<!ENTITY dnsNotFound.longDesc4 "
 <ul>
-  <li>Verifique se o endereço não tem erros tipo
-      <strong>ww</strong>.exemplo.com em vez de
+  <li>Verifique se o endereço não tem erros como
+    <strong>ww</strong>.exemplo.com em vez de
     <strong>www</strong>.exemplo.com</li>
-  <li>Se não conseguir carregar nenhuma página, verifique os dados do dispositivo ou a ligação Wi-Fi.</li>
+    <div id='searchbox'>
+      <input id='searchtext' type='search'></input>
+      <button id='searchbutton'>Pesquisar</button>
+    </div>
+  <li>Se não conseguir carregar nenhuma página, verifique a ligação de dados ou Wi-Fi do dispositivo.
+    <button id='wifi'>Ativar Wi-Fi</button>
+  </li>
 </ul>
 ">
 
@@ -41,25 +49,35 @@
 ">
 
 <!ENTITY malformedURI.title "O endereço não é válido">
-<!ENTITY malformedURI.longDesc "
+<!-- LOCALIZATION NOTE (malformedURI.longDesc2) This string contains markup including widgets for searching
+     or enabling wifi connections. The text inside the tags should be localized. Do not touch the ids. -->
+<!ENTITY malformedURI.longDesc2 "
 <ul>
-  <li>Os endereços Web são escritos da seguinte forma
+  <li>Os endereços Web são geralmente escritos da seguinte forma
     <strong>http://www.exemplo.com/</strong></li>
-  <li>Verifique se está a usar
-    <strong>/</strong>.</li>
+    <div id='searchbox'>
+      <input id='searchtext' type='search'></input>
+      <button id='searchbutton'>Pesquisar</button>
+    </div>
+  <li>Verifique se está a utilizar a barra à direita (exemplo
+    <strong>/</strong>).</li>
 </ul>
 ">
 
 <!ENTITY netInterrupt.title "A ligação foi interrompida">
-<!ENTITY netInterrupt.longDesc "&sharedLongDesc2;">
+<!ENTITY netInterrupt.longDesc2 "&sharedLongDesc3;">
 
 <!ENTITY notCached.title "Documento expirado">
 <!ENTITY notCached.longDesc "<p>O documento solicitado não está disponível na cache do &brandShortName;.</p><ul><li>Como medida de segurança, o &brandShortName; não volta a pedir automaticamente documentos sensíveis.</li><li>Clique tentar novamente para voltar a pedir o documento do sítio web.</li></ul>">
 
 <!ENTITY netOffline.title "Modo desligado">
-<!ENTITY netOffline.longDesc2 "
+<!-- LOCALIZATION NOTE (netOffline.longDesc3) This string contains markup including widgets enabling wifi connections.
+     The text inside the tags should be localized. Do not touch the ids. -->
+<!ENTITY netOffline.longDesc3 "
 <ul>
-  <li>Tente novamente. O &brandShortName; vai tentar abrir uma ligação e recarregar a página.</li>
+  <li>Tente novamente. O &brandShortName; vai tentar abrir uma ligação e recarregar a página.
+    <button id='wifi'>Ativar Wi-Fi</button>
+  </li>
 </ul>
 ">
 
@@ -78,10 +96,10 @@
 ">
 
 <!ENTITY netReset.title "A ligação foi reiniciada">
-<!ENTITY netReset.longDesc "&sharedLongDesc2;">
+<!ENTITY netReset.longDesc2 "&sharedLongDesc3;">
 
 <!ENTITY netTimeout.title "A ligação expirou">
-<!ENTITY netTimeout.longDesc "&sharedLongDesc2;">
+<!ENTITY netTimeout.longDesc2 "&sharedLongDesc3;">
 
 <!ENTITY unknownProtocolFound.title "O endereço não foi compreendido">
 <!ENTITY unknownProtocolFound.longDesc "
@@ -100,17 +118,21 @@
 ">
 
 <!ENTITY proxyResolveFailure.title "Não é possível encontrar o servidor proxy">
-<!ENTITY proxyResolveFailure.longDesc2 "
+<!-- LOCALIZATION NOTE (proxyResolveFailure.longDesc3) This string contains markup including widgets for enabling wifi connections.
+     The text inside the tags should be localized. Do not touch the ids. -->
+<!ENTITY proxyResolveFailure.longDesc3 "
 <ul>
   <li>Verifique as definições de proxy para confirmar que estão correctas.</li>
-  <li>Verifique se o seu computador tem uma ligação de rede de dados ou Wi-Fi funcional.</li>
+  <li>Verifique se o seu computador tem uma ligação de rede de dados ou Wi-Fi funcional.
+    <button id='wifi'>Ativar Wi-Fi</button>
+  </li>
 </ul>
 ">
 
 <!ENTITY redirectLoop.title "A página não está a redireccionar correctamente">
 <!ENTITY redirectLoop.longDesc "
 <ul>
-  <li>Este problema ás vezes pode ser causado por desactivar ou recusar
+  <li>Este problema às vezes pode ser causado pela desativação ou recusa de
     cookies.</li>
 </ul>
 ">
@@ -125,10 +147,10 @@
 ">
 
 <!ENTITY nssFailure2.title "A ligação segura falhou">
-<!ENTITY nssFailure2.longDesc "
+<!ENTITY nssFailure2.longDesc2 "
 <ul>
-  <li>A página que está a tentar visualizar não pode ser apresentada porque a autenticidade dos dados recebidos não foi verificada.</li>
-  <li>Contacte os donos do sítio web para os informar deste problema. Em alternativa, utilize o comando encontrado no menu ajuda para reportar este sítio.</li>
+  <li>A página que está a tentar visualizar não pode ser apresentada porque a autenticidade dos dados recebidos não pode ser verificada.</li>
+  <li>Contacte os donos do sítio web para os informar deste problema.</li>
 </ul>
 ">
 
@@ -142,15 +164,19 @@ ser temporário, voltando a tentar mais tarde.</li>
 </ul>
 ">
 
-<!ENTITY sharedLongDesc2 "
+<!-- LOCALIZATION NOTE (sharedLongDesc3) This string contains markup including widgets for enabling wifi connections.
+     The text inside the tags should be localized. Do not touch the ids. -->
+<!ENTITY sharedLongDesc3 "
 <ul>
   <li>O sítio pode estar temporariamente indisponível ou muito ocupado. Volte a tentar dentro de alguns momentos.</li>
-  <li>Se não conseguir carregar nenhuma página, verifique os dados do dispositivo ou a ligação Wi-Fi.</li>
+  <li>Se não conseguir carregar nenhuma página, verifique os dados do dispositivo ou a ligação Wi-Fi.
+    <button id='wifi'>Ativar Wi-Fi</button>
+  </li>
 </ul>
 ">
 
-<!ENTITY cspFrameAncestorBlocked.title "Bloqueado pela política de segurança de conteúdos">
-<!ENTITY cspFrameAncestorBlocked.longDesc "<p>O &brandShortName; preveniu o carregamento desta página desta maneira porque a página tem uma política de segurança de conteúdos que a desactivou.</p>">
+<!ENTITY cspBlocked.title "Bloqueado pela política de segurança de conteúdos">
+<!ENTITY cspBlocked.longDesc "<p>&brandShortName; impediu o carregamento desta página deste modo porque esta contém uma política de segurança de conteúdo que a desativou.</p>">
 
 <!ENTITY corruptedContentError.title "Erro de conteúdo corrompido">
 <!ENTITY corruptedContentError.longDesc "<p>A página que está a tentar visualizar não pode ser apresentada porque foi detectado um erro na transmissão de dados.</p><ul><li>Por favor, contacte o dono do sítio web para o informar sobre este problema.</li></ul>">

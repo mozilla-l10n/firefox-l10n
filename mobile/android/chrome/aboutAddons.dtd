@@ -5,7 +5,6 @@
 <!ENTITY aboutAddons.title2                     "Extras">
 <!ENTITY aboutAddons.header2                    "Os seus extras">
 <!ENTITY aboutAddons.options                    "Opções">
-<!ENTITY aboutAddons.browseAll                  "Navegar em todos os extras do Firefox">
 
 <!ENTITY addonAction.enable                     "Ativar">
 <!ENTITY addonAction.disable                    "Desativar">
