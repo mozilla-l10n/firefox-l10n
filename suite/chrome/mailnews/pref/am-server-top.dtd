@@ -34,7 +34,7 @@
 <!ENTITY deleteByAgeFromServer.label "Pelo menos">
 <!ENTITY deleteByAgeFromServer.accesskey "o">
 <!ENTITY daysEnd.label "dias">
-<!ENTITY deleteOnServer2.label "Até eu apagá-los">
+<!ENTITY deleteOnServer2.label "Até que eu as apague">
 <!ENTITY deleteOnServer2.accesskey "g">
 <!ENTITY downloadOnBiff.label "Transferir automaticamente novas mensagens">
 <!ENTITY downloadOnBiff.accesskey "r">
