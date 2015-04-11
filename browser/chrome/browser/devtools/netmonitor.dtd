@@ -35,6 +35,8 @@
 <!ENTITY netmonitorUI.footer.filterMedia  "Medios">
 <!ENTITY netmonitorUI.footer.filterFlash  "Flash">
 <!ENTITY netmonitorUI.footer.filterOther  "Otro">
+<!ENTITY netmonitorUI.footer.filterFreetext.label "Filtrar URLs">
+<!ENTITY netmonitorUI.footer.filterFreetext.key "F">
 <!ENTITY netmonitorUI.footer.clear  "Limpiar">
 <!ENTITY netmonitorUI.footer.perf   "Cambiar análisis de rendimiento…">
 <!ENTITY netmonitorUI.panesButton.tooltip "Alternar información de red">
