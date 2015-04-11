@@ -15,8 +15,8 @@
 <!ENTITY saveCmd.accesskey "G">
 <!ENTITY saveAsCmd.label "Guardar como...">
 <!ENTITY saveAsCmd.accesskey "u">
-<!ENTITY saveAsChangeEncodingCmd.label "Guardar e mudar a codificação de caracteres">
-<!ENTITY saveAsChangeEncodingCmd.accesskey "G">
+<!ENTITY saveAsChangeEncodingCmd2.label "Guardar e alterar a codificação de texto">
+<!ENTITY saveAsChangeEncodingCmd2.accesskey "G">
 <!ENTITY publishCmd.label "Publicar">
 <!ENTITY publishCmd.accesskey "b">
 <!ENTITY publishCmd.key "S">

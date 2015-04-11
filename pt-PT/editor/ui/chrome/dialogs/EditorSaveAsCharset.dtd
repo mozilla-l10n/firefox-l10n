@@ -6,10 +6,9 @@
 <!-- These strings are for use specifically in the editor's link dialog. -->
 
 
-
-<!ENTITY windowTitle.label "Guardar e mudar a codificação de caracteres">
+<!ENTITY windowTitle2.label "Guardar e alterar a codificação do texto">
 <!ENTITY documentTitleTitle.label "Título da Página">
-<!ENTITY documentCharsetTitle.label "Codificação de Caracteres">
-<!ENTITY documentCharsetDesc.label "Seleccione a codificação de caracteres em que quer guardar o documento:">
-<!ENTITY documentExportToText.label "Exportar para Texto">
+<!ENTITY documentCharsetTitle2.label "Codificação do texto">
+<!ENTITY documentCharsetDesc2.label "Selecione a codificação do texto pretende utilizar para guardar o documento:">
+<!ENTITY documentExportToText.label "Exportar para texto">
 
