@@ -129,6 +129,11 @@
 <!ENTITY pref_donottrack_summary "&brandShortName; будет сообщать сайтам, что вы не хотите, чтобы вас отслеживали">
 <!ENTITY tab_queue_toast_message "Открыть позже">
 <!ENTITY tab_queue_toast_action "Открыть сейчас">
+<!ENTITY tab_queue_prompt_title "Открываете много ссылок?">
+<!ENTITY tab_queue_prompt_text "Откройте их, не переключаясь каждый раз в Firefox.">
+<!ENTITY tab_queue_prompt_tip_text "вы можете изменить это позже в Параметрах">
+<!ENTITY tab_queue_prompt_positive_action_button "Включить">
+<!ENTITY tab_queue_prompt_negative_action_button "Не сейчас">
 <!ENTITY tab_queue_notification_text_plural "В очереди &formatD; вкладки(ок)">
 <!ENTITY tab_queue_notification_title_plural "Вкладки в очереди">
 <!ENTITY tab_queue_notification_title_singular "Вкладка в очереди">
@@ -261,6 +266,7 @@
 <!ENTITY doorhanger_login_edit_username_hint "Имя пользователя">
 <!ENTITY doorhanger_login_edit_password_hint "Пароль">
 <!ENTITY doorhanger_login_edit_toggle "Показать пароль">
+<!ENTITY doorhanger_login_edit_toast_error "Не удалось сохранить логин">
 <!ENTITY pref_titlebar_mode "Панель заголовка">
 <!ENTITY pref_titlebar_mode_title "Отображать заголовок страницы">
 <!ENTITY pref_titlebar_mode_url "Отображать адрес страницы">

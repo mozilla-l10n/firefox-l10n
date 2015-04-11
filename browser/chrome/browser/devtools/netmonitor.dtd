@@ -32,6 +32,8 @@
 <!ENTITY netmonitorUI.footer.filterMedia "Медиа">
 <!ENTITY netmonitorUI.footer.filterFlash "Flash">
 <!ENTITY netmonitorUI.footer.filterOther "Прочее">
+<!ENTITY netmonitorUI.footer.filterFreetext.label "Фильтр URL">
+<!ENTITY netmonitorUI.footer.filterFreetext.key "F">
 <!ENTITY netmonitorUI.footer.clear "Очистить">
 <!ENTITY netmonitorUI.footer.perf "Показать/скрыть анализ производительности…">
 <!ENTITY netmonitorUI.panesButton.tooltip "Показать/скрыть информацию сети">
