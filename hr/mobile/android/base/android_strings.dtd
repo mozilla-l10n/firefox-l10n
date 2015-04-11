@@ -6,16 +6,17 @@
 <!ENTITY  no_space_to_start_error "Nema dovoljno prostora za pokretanje &brandShortName;.">
 <!ENTITY  error_loading_file "Došlo je do greške prilikom učitavanja datoteka potrebnih za pokretanje &brandShortName;">
 
-
-
-
+<!ENTITY  onboard_start_message2 "Dobro došli u &brandShortName;">
+<!ENTITY  onboard_start_subtext2 "Više privatnosti i načina za prilagodbu nego ikad.">
+<!ENTITY  onboard_start_button_account "Prijavi se u &brandShortName;">
+<!ENTITY  onboard_start_button_browser "Započni pregledavanje">
 <!-- Localization note: These are used as the titles of different pages on the home screen.
      They are automatically converted to all caps by the Android platform. -->
 
 <!ENTITY  bookmarks_title "Zabilješke">
 <!ENTITY  history_title "Povijest">
 <!ENTITY  reading_list_title "Popis čitanja">
-
+<!ENTITY  recent_tabs_title "Nedavne kartice">
 
 <!ENTITY  switch_to_tab "Prebaci na karticu">
 
@@ -38,8 +39,10 @@
 
 <!ENTITY choose_file "Odaberi datoteku">
 
+<!ENTITY url_bar_default_text2 "Pretražite ili upišite adresu">
 
-
+<!ENTITY bookmark "Zabilješka">
+<!ENTITY bookmark_remove "Ukloni zabilješku">
 <!ENTITY bookmark_added "Zabilješka dodana">
 <!ENTITY bookmark_removed "Zabilješka uklonjena">
 <!ENTITY bookmark_updated "Zabilješka ažurirana">
@@ -47,8 +50,8 @@
 
 <!ENTITY history_today_section "Danas">
 <!ENTITY history_yesterday_section "Jučer">
-
-
+<!ENTITY history_week_section2 "Prošli tjedan">
+<!ENTITY history_older_section2 "Prošli mjesec">
 
 <!ENTITY go "Idi">
 <!ENTITY search "Traži">
@@ -73,17 +76,17 @@
 <!ENTITY switch_button_message "PREBACI">
 
 <!ENTITY settings "Postavke">
-
+<!ENTITY settings_title "Postavke">
 <!ENTITY pref_category_advanced "Napredno">
 <!ENTITY pref_category_customize "Prilagodite">
-
-
+<!ENTITY pref_category_customize_summary "Početna stranica, pretraživanje, kartice, uvoz">
+<!ENTITY pref_category_customize_alt_summary "Početna stranica, pretraživanje, kartice, otvori kasnije, uvoz">
 <!-- Localization note (pref_category_language) : This is the preferences
      section in which the user picks the locale in which to display Firefox
      UI. The locale includes both language and region concepts. -->
 
 <!ENTITY pref_category_language "Jezik">
-
+<!ENTITY pref_category_language_summary "Promijenite jezik svog preglednika">
 <!ENTITY pref_browser_locale "Jezik preglednika">
 <!-- Localization note (locale_system_default) : This string indicates that
      Firefox will use the locale currently selected in Android's settings
@@ -93,33 +96,42 @@
 <!-- Localization note (overlay_share_label) : This is the label that appears
      in Android's intent chooser when sending a link to Firefox to bookmark,
      send to another device, or add to Reading List. -->
+
+<!ENTITY overlay_share_label "Dodaj u &brandShortName;">
 <!-- Localization note (overlay_share_bookmark_btn_label) : This string is
      used in the share overlay menu to select an action. It is the verb
      "to bookmark", not the noun "a bookmark". -->
+
+<!ENTITY overlay_share_bookmark_btn_label "Zabilješka">
 <!ENTITY overlay_share_reading_list_btn_label "Dodaj na popis za čitanje">
-
-
-
+<!ENTITY overlay_share_bookmark_btn_label_already "Već zabilježeno">
+<!ENTITY overlay_share_reading_list_btn_label_already "Već je u popisu za čitanje">
+<!ENTITY overlay_share_send_other "Pošalji na druge uređaje">
 <!-- Localization note (overlay_share_send_tab_btn_label) : Used on the
      share overlay menu to represent the "Send Tab" action when the user
      either has not set up Sync, or has no other devices to send a tab
      to. -->
 
-
-
+<!ENTITY overlay_share_send_tab_btn_label "Pošalji na drugi uređaj">
+<!ENTITY overlay_share_no_url "Poveznica nije pronađena u ovom dijeljenju">
+<!ENTITY overlay_share_retry "Pokušaj ponovno">
+<!ENTITY overlay_share_select_device "Odaberite uređaj">
 <!-- Localization note (overlay_no_synced_devices) : Used when the menu option
      to send a tab to a synced device is pressed and no other synced devices
      are found. -->
+<!ENTITY overlay_no_synced_devices "Nisu pronađeni uređaji povezani na Firefox račun">
 <!-- Localization note (overlay_share_tab_not_sent) : Used when the menu option
      to send a tab to a synced device is pressed and there is an error
      connecting to the server so the tab could not be sent. The text should be
      divided into two lines (use the newline escape character, "\n", between
      them): the first notifying the user about the failure and the second
      telling the user what to do about it. -->
+<!ENTITY overlay_share_tab_not_sent "Vaša kartica nije poslana.\nPokušajte ponovno kasnije.">
 
+<!ENTITY pref_category_search3 "Traži">
 <!ENTITY pref_category_search_summary "Prilagodite svoje pretraživače interneta">
 <!ENTITY pref_category_display "Prikaz">
-
+<!ENTITY pref_category_display_summary "Tekst, naslovna traka, pregledavanje preko cijelog ekrana">
 <!ENTITY pref_category_privacy_short "Privatnost">
 
 <!ENTITY pref_category_vendor "&vendorShortName;">
@@ -345,7 +357,7 @@ size. -->
      where normally a username would be displayed. In this case, no username was found, and this placeholder
      contains brackets to indicate this is not actually a username, but rather a placeholder -->
 
-
+<!ENTITY doorhanger_login_edit_username_hint "Korisničko ime">
 
 
 
@@ -401,7 +413,7 @@ size. -->
 <!ENTITY button_clear_data "Obriši podatke">
 
 
-
+<!ENTITY button_remember "Zapamti">
 
 <!ENTITY home_top_sites_title "Najpopularnije stranice">
 <!-- Localization note (home_top_sites_add): This string is used as placeholder
@@ -499,6 +511,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
       via the search engine that uses the icon they clicked. This text is used
       for screen reader users when they hover each icon - &formatS; will be
       replaced with the name of the currently highlighted icon. -->
+<!ENTITY search_bar_item_desc "Pretražuj sa &formatS;">
 <!-- Localization note (suggestion_for_engine): The placeholder &formatS1; will be
      replaced with the name of the search engine. The placeholder &formatS2; will be
      replaced with the search query. -->
