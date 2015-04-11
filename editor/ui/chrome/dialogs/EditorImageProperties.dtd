@@ -20,7 +20,7 @@
 <!ENTITY altText.accessKey "N">
 <!ENTITY altTextEditField.tooltip "Vnesite besedilo za prikaz namesto slike">
 <!ENTITY noAltText.label "Ne uporabljaj nadomestnega besedila">
-<!ENTITY noAltText.accessKey "N">
+<!ENTITY noAltText.accessKey "e">
 
 <!ENTITY previewBox.label "Predogled slike">
 <!-- These controls are in the Dimensions tab panel -->
