@@ -455,7 +455,7 @@
 <!ENTITY activitymanager.label "Upravitelj dejavnosti">
 <!ENTITY activitymanager.accesskey "v">
 <!ENTITY imAccountsStatus.label "Stanje klepeta">
-<!ENTITY imAccountsStatus.accesskey "n">
+<!ENTITY imAccountsStatus.accesskey "e">
 <!ENTITY imStatus.available          "Dosegljiv">
 <!ENTITY imStatus.unavailable        "Nedosegljiv">
 <!ENTITY imStatus.offline            "Nepovezan">
