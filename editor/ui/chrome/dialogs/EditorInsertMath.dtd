@@ -17,9 +17,5 @@
 <!ENTITY optionRTL.label "Direcziun 'da dretg a sanestra'">
 <!ENTITY optionRTL.accesskey "d">
 
-<!ENTITY example.label "Exempel: ">
-<!-- LOCALIZATION NOTE (exampleText.label): DONT_TRANSLATE. This is a LaTeX example. -->
-<!ENTITY exampleText.label "\sqrt{x_1} + \frac{π^3}{2}">
-
 <!ENTITY insertButton.label "Inserir">
 <!ENTITY insertButton.accesskey "I">

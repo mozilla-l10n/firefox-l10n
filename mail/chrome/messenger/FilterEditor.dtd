@@ -23,6 +23,10 @@
 <!ENTITY contextManual.accesskey "R">
 <!ENTITY contextBeforeCls.label "Filtrar avant la classificaziun sco (nun-)giavischà">
 <!ENTITY contextAfterCls.label "Filtrar suenter la classificaziun sco (nun-)giavischà">
+<!ENTITY contextOutgoing.label "Suenter trametter">
+<!ENTITY contextOutgoing.accesskey "S">
+<!ENTITY contextArchive.label "Archivar">
+<!ENTITY contextArchive.accesskey "A">
 
 <!ENTITY filterActionDesc.label "Exequir questas acziuns:">
 <!ENTITY filterActionDesc.accesskey "E">
