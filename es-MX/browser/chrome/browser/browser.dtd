@@ -139,7 +139,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksMenu.label "Marcadores">
 <!ENTITY bookmarksMenu.accesskey "M">
 <!ENTITY bookmarkThisPageCmd.label "Agregar esta página a marcadores">
-<!ENTITY editThisBookmarkCmd.label "Editar este marcador">
+<!ENTITY editThisBookmarkCmd.label "Modificar este marcador">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
 <!ENTITY markPageCmd.commandkey "l">
 <!-- LOCALIZATION NOTE (findShareServices.label):
@@ -187,14 +187,14 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY homeButton.label             "Inicio">
 
-<!ENTITY tabGroupsButton.label        "Pestañas Grupos">
+<!ENTITY tabGroupsButton.label        "Grupos de pestañas">
 
 <!ENTITY bookmarksButton.label          "Marcadores">
 <!ENTITY bookmarksCmd.commandkey "b">
 
 <!ENTITY bookmarksMenuButton.label          "Marcadores">
-<!ENTITY bookmarksMenuButton.unsorted.label "Marcadores sin ordenar">
-<!ENTITY viewBookmarksSidebar2.label        "Ver la barra de marcadores">
+<!ENTITY bookmarksMenuButton.unsorted.label "Marcadores sin clasificar">
+<!ENTITY viewBookmarksSidebar2.label        "Ver el panel lateral de marcadores">
 <!ENTITY viewBookmarksToolbar.label         "Ver la barra de marcadores">
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
   -  key should not contain the letters A-F, since these are reserved
