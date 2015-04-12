@@ -599,7 +599,7 @@
 
 <!ENTITY folderNameColumn.label "Nom">
 
-
+<!ENTITY folderTotalColumn.label "Total">
 <!ENTITY folderSizeColumn.label "Mida">
 <!-- Folder Pane Context Menu -->
 

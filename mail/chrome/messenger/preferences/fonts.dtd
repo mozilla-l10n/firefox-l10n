@@ -68,7 +68,7 @@
 
 <!ENTITY sendDefaultCharset.label         "Correu de sortida:">
 <!ENTITY sendDefaultCharset.accesskey     "u">
-
+<!ENTITY languagesTitle2.label            "Codificació del text">
 
 
 <!ENTITY viewDefaultCharsetList.label     "Correu d'entrada:">
