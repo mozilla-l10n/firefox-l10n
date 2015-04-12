@@ -4,12 +4,8 @@
 <!-- These strings are generic to all or most of the editor's dialogs. -->
 <!-- This button is for the progressive disclosure of additional editing functionality -->
 <!-- These strings are for use specifically in the editor's link dialog. -->
-
-
-
-<!ENTITY windowTitle.label "Desa i canvia la codificació de caràcters">
 <!ENTITY documentTitleTitle.label "Títol de la pàgina">
-<!ENTITY documentCharsetTitle.label "Codificació de caràcters">
-<!ENTITY documentCharsetDesc.label "Seleccioneu la codificació de caràcters amb què voleu desar un document:">
+
+
 <!ENTITY documentExportToText.label "Exporta a text">
 

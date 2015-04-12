@@ -68,10 +68,10 @@
 
 <!ENTITY sendDefaultCharset.label         "Correu de sortida:">
 <!ENTITY sendDefaultCharset.accesskey     "u">
-<!ENTITY languagesTitle1.label            "Codificacions de caràcters">
-<!ENTITY composingDescription.label       "Definiu les codificacions de caràcters per defecte per enviar i rebre correu">
+
+
 
 <!ENTITY viewDefaultCharsetList.label     "Correu d'entrada:">
 <!ENTITY viewDefaultCharsetList.accesskey  "e">
-<!ENTITY replyInDefaultCharset2.label     "Quan sigui possible, utilitza la codificació de caràcters per defecte en les respostes">
-<!ENTITY replyInDefaultCharset2.accesskey "z">
+
+

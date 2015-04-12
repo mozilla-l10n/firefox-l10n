@@ -74,7 +74,7 @@
 <!ENTITY abbreviateOff.label "Noms abreujats (per exemple, «n.p.m.mail-news»)">
 <!ENTITY advancedButton.label "Avançat…">
 <!ENTITY advancedButton.accesskey "v">
-<!ENTITY serverDefaultCharset.label "Codificació de caràcters per defecte:">
+
 <!ENTITY localPath.label "Directori local:">
 <!ENTITY localFolderPicker.label "Seleccioneu el directori local">
 <!ENTITY browseFolder.label "Navega…">

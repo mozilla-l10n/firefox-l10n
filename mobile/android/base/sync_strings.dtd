@@ -207,8 +207,8 @@
 <!ENTITY fxaccount_status_needs_verification2 "Cal que verifiqueu el compte. Toqueu per reenviar el missatge de verificació.">
 <!ENTITY fxaccount_status_needs_credentials "No es pot connectar. Toqueu per iniciar la sessió.">
 <!ENTITY fxaccount_status_needs_upgrade "Heu d\u0027actualitzar el &brandShortName; per iniciar la sessió.">
-<!ENTITY fxaccount_status_needs_master_sync_automatically_enabled "El &syncBrand.shortName.label; està configurat, però la sincronització automàtica està desactivada. Aneu a Configuració &gt; Ús de dades i marqueu «Sincronització automàtica de dades».">
-<!ENTITY fxaccount_status_needs_master_sync_automatically_enabled_v21 "El &syncBrand.shortName.label; està configurat però la sincronització automàtica està desactivada. Aneu al menú Comptes de la configuració de l\u0027Android i marqueu «Sincronització automàtica de dades».">
+<!ENTITY fxaccount_status_needs_master_sync_automatically_enabled "El &syncBrand.shortName.label; està configurat, però la sincronització automàtica està desactivada. Aneu al menú «Ús de dades» de la configuració de l\u0027Android i marqueu «Sincronitza dades automàticament».">
+<!ENTITY fxaccount_status_needs_master_sync_automatically_enabled_v21 "El &syncBrand.shortName.label; està configurat, però la sincronització automàtica està desactivada. Aneu al menú «Comptes» de la configuració de l\u0027Android i marqueu «Sincronitza dades automàticament».">
 <!ENTITY fxaccount_status_needs_finish_migrating "Toqueu per iniciar la sessió al vostre nou compte del Firefox.">
 <!ENTITY fxaccount_status_bookmarks "Adreces d\u0027interès">
 <!ENTITY fxaccount_status_history "Historial">
@@ -251,7 +251,7 @@
 
 <!ENTITY fxaccount_remote_error_ATTEMPT_TO_CREATE_AN_ACCOUNT_THAT_ALREADY_EXISTS_2 "El compte ja existeix. &formatS1;">
 <!ENTITY fxaccount_remote_error_ATTEMPT_TO_ACCESS_AN_ACCOUNT_THAT_DOES_NOT_EXIST "L\u0027adreça electrònica o la contrasenya no són vàlides">
-<!ENTITY fxaccount_remote_error_INCORRECT_PASSWORD "L\u0027adreça electrònica o la contrasenya no són vàlids">
+<!ENTITY fxaccount_remote_error_INCORRECT_PASSWORD "L\u0027adreça electrònica o la contrasenya no són vàlides">
 <!ENTITY fxaccount_remote_error_ATTEMPT_TO_OPERATE_ON_AN_UNVERIFIED_ACCOUNT "El compte no s\u0027ha verificat">
 <!ENTITY fxaccount_remote_error_CLIENT_HAS_SENT_TOO_MANY_REQUESTS "El servidor està ocupat, torneu-ho a provar">
 <!ENTITY fxaccount_remote_error_SERVICE_TEMPORARILY_UNAVAILABLE_TO_DUE_HIGH_LOAD "El servidor està ocupat, torneu-ho a provar">

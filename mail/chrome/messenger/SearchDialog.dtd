@@ -40,6 +40,7 @@
 <!ENTITY threadColumn.label "Conversa">
 <!ENTITY fromColumn.label "Remitent">
 <!ENTITY recipientColumn.label "Destinatari">
+
 <!ENTITY subjectColumn.label "Assumpte">
 <!ENTITY dateColumn.label "Data">
 <!ENTITY priorityColumn.label "Prioritat">
@@ -61,6 +62,7 @@
 <!ENTITY threadColumn2.tooltip "Mostra les converses de missatges">
 <!ENTITY fromColumn2.tooltip "Ordena per remitent">
 <!ENTITY recipientColumn2.tooltip "Ordena per destinatari">
+
 <!ENTITY subjectColumn2.tooltip "Ordena per assumpte">
 <!ENTITY dateColumn2.tooltip "Ordena per data">
 <!ENTITY priorityColumn2.tooltip "Ordena per prioritat">
