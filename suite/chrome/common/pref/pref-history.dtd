@@ -1,15 +1,19 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY  pref.history.title                "Histórico">
 
 <!ENTITY  pref.history.caption              "Navegar no histórico">
 <!ENTITY  historyPages.label                "O histórico é uma lista de páginas visitadas anteriormente.">
 <!ENTITY  enableHistory.label               "Lembrar páginas visitadas">
 <!ENTITY  enableHistory.accesskey           "L">
-
-
 <!ENTITY  clearHistory.label                "Limpar histórico">
-<!ENTITY  clearHistory.accesskey            "r">
+<!ENTITY  clearHistory.accesskey            "h">
 
 <!ENTITY  locationBarHistory.caption        "Barra de localização do histórico">
+<!ENTITY  urlBarHistoryEnabled.caption      "Ativar histórico da barra de endereço">
+<!ENTITY  urlBarHistoryEnabled.accesskey    "e">
 <!ENTITY  clearLocationBar.label            "Limpar a lista de sítios guardados no menu da barra de localização.">
 <!ENTITY  clearLocationBarButton.label      "Limpar barra de localização">
 <!ENTITY  clearLocationBarButton.accesskey  "b">

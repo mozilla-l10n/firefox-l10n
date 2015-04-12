@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!-- extracted from content/pref-colors.xul -->
 
 <!-- LOCALIZATION NOTE : FILE Color management prefs -->
@@ -27,3 +31,6 @@
 <!-- LOCALIZATION NOTE (ignoreDocColors.label): This is option two, and it appends to 'someProvColors' above.  -->
 <!ENTITY useMyColors.label                 "Usar as minhas cores escolhidas, ignorando as cores e fundo especificados">
 <!ENTITY useMyColors.accesskey             "m">
+
+<!ENTITY automaticColors.label             "Apenas ignorar as cores da página quando estiver a utilizar um tema de elevado contraste">
+<!ENTITY automaticColors.accesskey         "A">
