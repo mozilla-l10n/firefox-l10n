@@ -2,16 +2,16 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY pref.character.encoding.title   "Codificação de caracteres">
+<!ENTITY pref.character.encoding2.title  "Codificação de texto">
 <!ENTITY messageDisplay.caption          "Apresentação da Mensagem">
-<!ENTITY viewFallbackCharset.label       "Codificação de caracteres de reserva:">
-<!ENTITY viewFallbackCharset.accesskey   "e">
+<!ENTITY viewFallbackCharset2.label      "Codificação de texto de recurso:">
+<!ENTITY viewFallbackCharset2.accesskey  "r">
 <!ENTITY viewFallbackCharset.desc        "(Usado para conteúdo legado que não declara qual a codificação.)">
 
 <!ENTITY composingMessages.caption       "Compor Mensagens">
 <!ENTITY useMIME.label                   "Para mensagens que contenham caracteres de 8-bit, usar 'quoted printable' codificação MIME. Não seleccionar para enviar mensagens como estão.">
 <!ENTITY useMIME.accesskey               "a">
-<!ENTITY sendDefaultCharset.label        "Codificação de caracteres pré-definida:">
-<!ENTITY sendDefaultCharset.accesskey    "C">
-<!ENTITY replyInDefaultCharset2.label     "Usar sempre a codificação de caracteres pré-definida em respostas. (Se não estiver seleccionado, apenas as novas mensagens usam esta pré-definição.)">
-<!ENTITY replyInDefaultCharset2.accesskey "U">
+<!ENTITY sendDefaultCharset2.label       "Codificação de texto por omissão:">
+<!ENTITY sendDefaultCharset2.accesskey   "o">
+<!ENTITY replyInDefaultCharset3.label    "Quando for possível, utilizar esta codificação de texto por omissão em respostas. (Quando não marcado, apenas novas mensagens irão utilizar este valor por omissão.)">
+<!ENTITY replyInDefaultCharset3.accesskey "p">
