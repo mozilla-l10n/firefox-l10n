@@ -607,12 +607,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY quitApplicationCmdWin2.label       "Baigti darbą">
 <!ENTITY quitApplicationCmdWin2.accesskey   "B">
-<!ENTITY quitApplicationCmdWin2.tooltip     "Baigti „&brandShortName;“ darbą">
+<!ENTITY quitApplicationCmdWin2.tooltip     "Baigti „&brandShorterName;“ darbą">
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY goForwardCmd.commandKey "]">
 <!ENTITY quitApplicationCmd.label       "Baigti darbą"> 
 <!ENTITY quitApplicationCmd.accesskey   "B">
-<!ENTITY quitApplicationCmdMac2.label   "Baigti „&brandShortName;“ darbą">
+<!ENTITY quitApplicationCmdMac2.label   "Baigti „&brandShorterName;“ darbą">
 <!-- LOCALIZATION NOTE(quitApplicationCmdUnix.key): This keyboard shortcut is used by both Linux and OSX builds. -->
 <!ENTITY quitApplicationCmdUnix.key     "Q">
 
