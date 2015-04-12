@@ -5,17 +5,17 @@
 <!ENTITY folderProps.windowtitle.label           "Propietats">
 
 <!ENTITY generalInfo.label                       "Informació general">
-<!ENTITY folderCharsetFallback.label             "Codificació de caràcters alternativa:">
-<!ENTITY folderCharsetFallback.accesskey         "e">
-<!ENTITY folderCharsetEnforce.label              "Aplica la codificació a tots els missatges de la carpeta (omet la detecció automàtica i la codificació de caràcters específica de cada missatge)">
-<!ENTITY folderCharsetEnforce.accesskey          "A">
+
+
+
+
 <!ENTITY folderRebuildSummaryFileTip2.label      "Reconstrueix l'índex del fitxer resum">
 <!ENTITY folderRebuildSummaryFile2.label         "Repara la carpeta">
 <!ENTITY folderRebuildSummaryFile2.accesskey     "R">
 <!ENTITY folderRebuildSummaryFile.explanation    "De vegades el fitxer de l'índex de la carpeta (.msf) s'espatlla i els missatges sembla que es perdin o bé els missatges esborrats tornen a aparèixer; si es repara la carpeta potser que s'arreglin aquests problemes.">
 <!ENTITY folderIncludeInGlobalSearch.label       "Inclou els missatges d'aquesta carpeta als resultats de la Cerca global">
 <!ENTITY folderIncludeInGlobalSearch.accesskey   "g">
-     
+
 <!ENTITY retention.label "Política de retenció">
 <!ENTITY retentionUseAccount.label  "Utilitza els paràmetres del meu compte">
 <!ENTITY retentionUseAccount.accesskey "U">
