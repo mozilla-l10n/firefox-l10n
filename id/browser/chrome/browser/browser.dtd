@@ -389,7 +389,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY customizeMenu.addMoreItems.label "Tambahkan Item Lainnya…">
 <!ENTITY customizeMenu.addMoreItems.accesskey "L">
 
-<!ENTITY openCmd.commandkey           "I">
+<!ENTITY openCmd.commandkey           "l">
 <!ENTITY urlbar.placeholder2          "Cari atau Buka Situs Web">
 <!ENTITY urlbar.accesskey             "d">
 <!ENTITY urlbar.switchToTab.label     "Pindah ke tab:">
