@@ -5,17 +5,17 @@
 <!ENTITY folderProps.windowtitle.label           "Հատկություններ">
 
 <!ENTITY generalInfo.label                       "Գլխավոր տեղեկությունը">
-<!ENTITY folderCharsetFallback.label             "Վերականգնել Գրանշանների կոդավորումը.">
-<!ENTITY folderCharsetFallback.accesskey         "կ">
-<!ENTITY folderCharsetEnforce.label              "Կիրառել կոդավորումը թղթապանակի բոլոր նամակներին (գրանշանների անհատական կոդավորման կարգավորումները և ինքնորոշումը կանտեսվեն)">
-<!ENTITY folderCharsetEnforce.accesskey          "Կ">
+
+
+
+
 <!ENTITY folderRebuildSummaryFileTip2.label      "Վերակառուցել ֆայլի ինդեքսի արդյունքը">
 <!ENTITY folderRebuildSummaryFile2.label         "Վերականգնել">
 <!ENTITY folderRebuildSummaryFile2.accesskey     "R">
 <!ENTITY folderRebuildSummaryFile.explanation    "Երբեմն թղթապանակի ինդեքսի ֆայլը (.msf) վնասվում է և նամակները կարող են երևալ բացակայող կամ ջնջված, թղթապանակի ուղղումը կարող է ուղղել այս սխալը։">
 <!ENTITY folderIncludeInGlobalSearch.label       "Ներառել նամակները Գլոբալ փնտրման արդյունքում">
 <!ENTITY folderIncludeInGlobalSearch.accesskey   "G">
-     
+
 <!ENTITY retention.label "Անդամակցության Քաղաքականությունը">
 <!ENTITY retentionUseAccount.label  "Օգտ. իմ փոստարկղի կարգավորումները">
 <!ENTITY retentionUseAccount.accesskey "U">

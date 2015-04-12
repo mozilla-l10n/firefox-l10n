@@ -42,6 +42,7 @@
 <!ENTITY url_bar_default_text2 "Որոնում կամ մուտքագրել հասցեն">
 
 <!ENTITY bookmark "Էջանիշ">
+
 <!ENTITY bookmark_added "Էջանիշը ավելացվել է">
 <!ENTITY bookmark_removed "Էջանիշը հեռացվել է">
 <!ENTITY bookmark_updated "Էջանիշը թարմացվել է">
@@ -79,6 +80,7 @@
 <!ENTITY pref_category_advanced "Լրացուցիչ">
 <!ENTITY pref_category_customize "Կարգավորումներ">
 <!ENTITY pref_category_customize_summary "Տուն, որոնում, ներդիրներ, ներմուծում">
+
 <!-- Localization note (pref_category_language) : This is the preferences
      section in which the user picks the locale in which to display Firefox
      UI. The locale includes both language and region concepts. -->
@@ -114,6 +116,15 @@
 <!ENTITY overlay_share_no_url "Որևէ հղում չկա">
 <!ENTITY overlay_share_retry "Կրկին փորձել">
 <!ENTITY overlay_share_select_device "Ընտրեք սարքը">
+<!-- Localization note (overlay_no_synced_devices) : Used when the menu option
+     to send a tab to a synced device is pressed and no other synced devices
+     are found. -->
+<!-- Localization note (overlay_share_tab_not_sent) : Used when the menu option
+     to send a tab to a synced device is pressed and there is an error
+     connecting to the server so the tab could not be sent. The text should be
+     divided into two lines (use the newline escape character, "\n", between
+     them): the first notifying the user about the failure and the second
+     telling the user what to do about it. -->
 
 <!ENTITY pref_category_search3 "Որոնում">
 <!ENTITY pref_category_search_summary "Կարգավորել որոնիչները">
@@ -140,7 +151,9 @@
 <!ENTITY pref_category_devtools_summary "Հեռակա վրիպազերծում, գունազարդում">
 <!ENTITY pref_developer_paint_flashing "Գունազարդում">
 <!ENTITY pref_developer_remotedebugging "Հեռակա վրիպազերծում">
+
 <!ENTITY pref_remember_signons "Հիշել գաղտնաբառերը">
+
 
 <!ENTITY pref_category_home "Գլխավոր էջ">
 <!ENTITY pref_category_home_summary "Կարգավորել Գլխավոր էջը">
@@ -176,6 +189,18 @@
 <!ENTITY pref_tracking_protection_summary "&brandShortName;-ը կարգելի կայքերին հետևել ձեզ">
 <!ENTITY pref_donottrack_title "Չհետևել">
 <!ENTITY pref_donottrack_summary "&brandShortName;-ը կհաղորդի կայքերին, որ դուք չեք ցանկանում, որ ձեզ հետևեն">
+
+
+<!-- Localization note (tab_queue_notification_text_plural) : The
+     formatD is replaced with the number of tabs queued.  The
+     number of tabs queued is always more than one.  We can't use
+     Android plural forms, sadly. See Bug #753859. -->
+<!-- Localization note (tab_queue_notification_title_plural) : This is the
+     title of a notification; we expect more than one tab queued. -->
+<!-- Localization note (tab_queue_notification_title_singular) : This is the
+     title of a notification; we expect only one tab queued. -->
+<!-- Localization note (tab_queue_notification_text_singular) : This is the
+     text of a notification; we expect only one tab queued. -->
 
 <!ENTITY pref_char_encoding "Ցուցադրել գրանշանի կոդավորումը">
 <!ENTITY pref_char_encoding_on "Ցուցադրել">
@@ -271,7 +296,7 @@ size. -->
      (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
 <!ENTITY datareporting_crashreporter_title_short "Վթարի Զեկույց">
 <!ENTITY datareporting_wifi_title2 "&vendorShortName;-ի տեղադրության ծառայությունը">
-<!ENTITY datareporting_wifi_geolocation_summary3 "Օգնեք &vendorShortName;-ին աշխարհի քարտեզը գծելու գործում: Տարածեք ձեր սարքի Wi-Fi և բջջային տեղադրությունը՝ լավարկելու համար տեղորոշման ծառայությունը:">
+
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
      actual notification that an update is available. -->
@@ -286,6 +311,7 @@ size. -->
 <!ENTITY quit "Փակել">
 
 <!ENTITY addons "Հավելումներ">
+
 <!ENTITY downloads "Բեռնումներ">
 <!ENTITY apps "Ծրագրեր">
 <!ENTITY char_encoding "Գրանշանների Կոդավորումը">
@@ -338,6 +364,13 @@ size. -->
 <!ENTITY contextmenu_top_sites_pin "Ամրացնել կայքը">
 <!ENTITY contextmenu_top_sites_unpin "Ապամրացնել կայքը">
 <!ENTITY contextmenu_add_search_engine "Ավելացնել որոնողական հանգույց">
+<!-- Localization note (doorhanger_login_no_username): This string is used in the save-login doorhanger
+     where normally a username would be displayed. In this case, no username was found, and this placeholder
+     contains brackets to indicate this is not actually a username, but rather a placeholder -->
+
+<!ENTITY doorhanger_login_edit_username_hint "Օգտվողի Անունը">
+
+
 
 <!ENTITY pref_titlebar_mode "Գլխագիրը">
 <!ENTITY pref_titlebar_mode_title "Ցուցադրել էջի վերնագիրը">
@@ -347,6 +380,8 @@ size. -->
 
 <!ENTITY pref_scroll_title_bar2 "Լիաէկրան դիտարկում">
 <!ENTITY pref_scroll_title_bar_summary "Էջը իջեցնելիս թաքցնել &brandShortName;-ի գլխագիր">
+
+
 <!-- Localization note (page_removed): This string appears in a toast message when
      any page is removed frome about:home. This includes pages that are in history,
      bookmarks, or reading list. -->
@@ -384,7 +419,7 @@ size. -->
 
 <!ENTITY masterpassword_create_title "Ստեղծել Հիմնական գաղտնաբառ">
 <!ENTITY masterpassword_remove_title "Հեռացնել Հիմնական Գաղտնաբառը">
-<!ENTITY masterpassword_password "Գաղտնաբառը">
+
 <!ENTITY masterpassword_confirm "Կրկնեք գաղտնաբառը">
 
 <!ENTITY button_ok "ԼԱՎ">
@@ -394,6 +429,7 @@ size. -->
 <!ENTITY button_clear_data "Մաքրել տվյալները">
 <!ENTITY button_set "Նշել">
 <!ENTITY button_clear "Մաքրել">
+
 
 <!ENTITY home_top_sites_title "Լավագույն կայքերը">
 <!-- Localization note (home_top_sites_add): This string is used as placeholder
@@ -517,6 +553,13 @@ Android-ից">
 <!ENTITY bookmarkhistory_import_wait "Խնդրում ենք սպասել...">
 
 <!ENTITY suggestions_prompt3 "Միացնե՞լ որոնման առաջարկները:">
+<!--  Localization note (search_bar_item_desc): When the user clicks the url bar
+      and starts typing, a list of icons of search engines appears at the bottom
+      of the screen. When a user clicks an icon, the entered text will be searched
+      via the search engine that uses the icon they clicked. This text is used
+      for screen reader users when they hover each icon - &formatS; will be
+      replaced with the name of the currently highlighted icon. -->
+<!ENTITY search_bar_item_desc "Որոնում &formatS;-ով">
 <!-- Localization note (suggestion_for_engine): The placeholder &formatS1; will be
      replaced with the name of the search engine. The placeholder &formatS2; will be
      replaced with the search query. -->

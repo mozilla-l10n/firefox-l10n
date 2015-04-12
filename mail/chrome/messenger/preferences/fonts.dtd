@@ -8,8 +8,8 @@
 <!ENTITY  language.accesskey                      "t">
 
 <!ENTITY  size.label                              "Չափը.">
-<!ENTITY  proportionalSize.accesskey              "e">
-<!ENTITY  sizeMono.accesskey                      "i">
+
+
 
 <!ENTITY  proportional.label                      "Բաշխված.">
 <!ENTITY  proportional.accesskey                  "P">
@@ -20,20 +20,16 @@
 <!ENTITY  sans-serif.accesskey                    "n">
 <!ENTITY  monospace.label                         "Համաչափ.">
 <!ENTITY  monospace.accesskey                     "M">
-
-<!ENTITY  font.langGroup.latin1                   "Արևմտյան">
-<!ENTITY  font.langGroup.latin2                   "Միջին Եվրոպական">
+<!-- LOCALIZATION NOTE (font.langGroup.latin) :
+     Translate "Latin" as the name of Latin (Roman) script, not as the name of the Latin language. -->
 <!ENTITY  font.langGroup.japanese                 "Ճապոներեն">
 <!ENTITY  font.langGroup.trad-chinese             "Ավանդական Չիներեն (Թայվան)">
 <!ENTITY  font.langGroup.simpl-chinese            "Պարզեցված Չիներեն">
 <!ENTITY  font.langGroup.trad-chinese-hk          "Ավանդական Չիներեն (Հոնգ­Կոնգ)">
 <!ENTITY  font.langGroup.korean                   "Կորեական">
 <!ENTITY  font.langGroup.cyrillic                 "Կիրիլյան">
-<!ENTITY  font.langGroup.baltic                   "Բալթյան">
 <!ENTITY  font.langGroup.el                       "Հունարեն">
-<!ENTITY  font.langGroup.turkish                  "Թրքերեն">
-<!ENTITY  font.langGroup.unicode1                 "Յունիկոդ">
-<!ENTITY  font.langGroup.user-def                 "Ձեր ընտրվածը">
+
 <!ENTITY  font.langGroup.thai                     "Թաի">
 <!ENTITY  font.langGroup.hebrew                   "Եբրայերեն">
 <!ENTITY  font.langGroup.arabic                   "Արաբերեն">
@@ -48,8 +44,12 @@
 <!ENTITY  font.langGroup.gurmukhi                 "Գուրմուխի">
 <!ENTITY  font.langGroup.khmer                    "Խմեր">
 <!ENTITY  font.langGroup.malayalam                "Մալայալամ">
-<!-- Minimum font size -->
 
+
+
+
+
+<!-- Minimum font size -->
 <!ENTITY minSize.label                            "Առնվազն տառաչափը.">
 <!ENTITY minSize.accesskey                        "z">
 <!ENTITY minSize.none                             "Ոչ մեկը">
@@ -68,10 +68,10 @@
 
 <!ENTITY sendDefaultCharset.label         "Ելքային նամակ.">
 <!ENTITY sendDefaultCharset.accesskey     "u">
-<!ENTITY languagesTitle1.label            "Գրանշանների կոդավորումը">
-<!ENTITY composingDescription.label       "Օգտ. գրանշանների ծրագրային կոդավորումը՝ ուղարկվելիք կամ ստանալիք նամակի համար">
+
+
 
 <!ENTITY viewDefaultCharsetList.label     "Մուտքային նամակ.">
 <!ENTITY viewDefaultCharsetList.accesskey  "I">
-<!ENTITY replyInDefaultCharset2.label     "Հնարավորության դեպքում պատասխանելիս օգտ. ծրագրային կոդավորումը.">
-<!ENTITY replyInDefaultCharset2.accesskey "h">
+
+

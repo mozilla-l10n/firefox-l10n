@@ -113,6 +113,7 @@
 <!ENTITY offlineAppRemove.confirm        "Ջնջել անցանց ֆայլերը">
 
 <!ENTITY certificateTab.label            "Վկայագրեր">
+
 <!ENTITY certSelection.description       "Երբ սպասարկիչը հարցնում է իմ սեփական վկայագիրը`">
 <!ENTITY certs.auto                      "Ընտրել ինքնաշխատ">
 <!ENTITY certs.auto.accesskey            "S">
