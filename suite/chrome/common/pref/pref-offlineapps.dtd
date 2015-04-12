@@ -11,11 +11,15 @@
 <!ENTITY clearOfflineAppCache.label         "Limpar">
 <!ENTITY clearOfflineAppCache.accesskey     "L">
 
-<!ENTITY offlineNotify.label                "Notificar-me quando um sítio web quiser guardar dados para o modo desligado.">
-<!ENTITY offlineNotify.accesskey            "N">
+<!ENTITY offlineAlwaysAllow.label           "Permitir que todos os sítios web armazenem dados para utilização em modo desligado">
+<!ENTITY offlineAlwaysAllow.accesskey       "a">
+<!ENTITY offlineExplicit.label              "Apenas permitir sítios web com permissão explicita">
+<!ENTITY offlineExplicit.accesskey          "e">
+<!ENTITY offlineNotifyAsk.label             "Notificar-me quando sítios web pretendem armazenar dados para utilização em modo desligado">
+<!ENTITY offlineNotifyAsk.accesskey         "N">
 <!ENTITY offlineNotifyPermissions.label     "Gerir permissões">
 <!ENTITY offlineNotifyPermissions.accesskey "p">
 
-<!ENTITY offlineAppsList.label              "Os seguintes sítios web têm permissão para guardar dados no modo desligado:">
+<!ENTITY offlineAppsUsage.label             "Os sítios web seguintes estão a utilizar armazenamento em modo desligado:">
 <!ENTITY offlineAppsListRemove.label        "Limpar dados…">
 <!ENTITY offlineAppsListRemove.accesskey    "d">

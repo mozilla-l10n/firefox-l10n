@@ -5,16 +5,23 @@
 <!--LOCALIZATION NOTE : FILE 'Privacy and Security' prefs settings -->
 <!ENTITY pref.security.title              "Privacidade &amp; Segurança">
 
-<!ENTITY tracking.label                   "Localização do utilizador">
-<!ENTITY trackingIntro.label              "Os sítios web +podem seguir a sua utilização neles, reduzindo a sua privacidade.">
+<!ENTITY tracking.label                   "Monitorização do utilizador">
+<!ENTITY trackingIntro.label              "Os sítios web podem monitorizá-lo quando os utilizar, afetando assim a sua privacidade.">
 
-<!ENTITY dntTellSites.label               "Dizer aos sítios web sobre a minha preferência de localização">
-<!ENTITY dntTellSites.accesskey           "T">
-<!ENTITY dntTrackingNotOkay.label         "Não autorizo a ser seguido">
-<!ENTITY dntTrackingNotOkay.accesskey     "N">
-<!ENTITY dntTrackingOkay.label            "Eu autorizo a ser seguido">
-<!ENTITY dntTrackingOkay.accesskey        "s">
+<!ENTITY doNotTrack.label                 "Dar indicação aos sítios web que não pretende ser monitorizado">
+<!ENTITY doNotTrack.accesskey             "D">
+<!ENTITY trackProtect.label               "Impedir atividades de monitorização por sítios conhecidos">
+<!ENTITY trackProtect.accesskey           "I">
+<!ENTITY warnTrackContent.label           "Notificar quando atividades de monitorização conhecidas são detetadas">
+<!ENTITY warnTrackContent.accesskey       "N">
 
+<!ENTITY geoLocation.label                "Navegação com informação de localização">
+<!ENTITY geoIntro.label                   "Os sítios web podem solicitar mais informação sobre a sua localização atual.">
+
+<!ENTITY geoEnabled.label                 "Solicitar permissão se um pedido for feito">
+<!ENTITY geoEnabled.accesskey             "S">
+<!ENTITY geoDisabled.label                "Desativar esta funcionalidade e recusar todos os pedidos">
+<!ENTITY geoDisabled.accesskey            "R">
 
 <!-- LOCALIZATION NOTE (safeBrowsing.label, blockWebForgeries.label, blockAttackSites.label):
   The methods by which forged (phished) and attack sites will be detected by

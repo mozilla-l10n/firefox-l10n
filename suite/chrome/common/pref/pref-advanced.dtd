@@ -17,3 +17,13 @@
 <!ENTITY crashReports.caption       "Relatórios de erro">
 <!ENTITY submitCrashes.label        "Enviar relatórios de erro">
 <!ENTITY submitCrashes.accesskey    "S">
+
+<!ENTITY devTools.caption                 "Ferramentas de desenvolvimento">
+<!ENTITY allowDebugger.label              "Permitir que um depurador se ligue ao &brandShortName;">
+<!ENTITY allowDebugger.accesskey          "P">
+<!ENTITY allowRemoteConnections.label     "Permitir ligações de outros computadores">
+<!ENTITY allowRemoteConnections.accesskey "p">
+<!ENTITY connectionPrompt.label           "Confirmar pedidos de ligação">
+<!ENTITY connectionPrompt.accesskey       "C">
+<!ENTITY remoteDebuggerPort.label         "Número da porta para ligação:">
+<!ENTITY remoteDebuggerPort.accesskey     "N">
