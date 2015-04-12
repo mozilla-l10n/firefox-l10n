@@ -6,6 +6,7 @@
 <!ENTITY itemAutoComplete.label              "Adreçament">
 <!ENTITY itemSpellCheck.label                "Verificació ortogràfica">
 
+<!ENTITY dialogCompose.title                 "Redacció">
 
 <!ENTITY forwardMsg.label                     "Reenvia missatges:">
 <!ENTITY forwardMsg.accesskey                 "n">

@@ -18,7 +18,7 @@
 <!ENTITY nntpNotDownloadRead.accesskey "l">
 <!ENTITY nntpDownloadMsg.label "Missatges de fa més de">
 <!ENTITY nntpDownloadMsg.accesskey "g">
-<!ENTITY retentionCleanup.label "Per recuperar espai de disc, es poden suprimir permanentment els missatges antics">
+<!ENTITY retentionCleanup.label "Per recuperar espai de disc, es poden suprimir permanentment els missatges antics.">
 <!ENTITY retentionCleanupImap.label "Per recuperar espai de disc, es poden suprimir permanentment els missatges antics, tant les còpies locals com els originals del servidor remot.">
 <!ENTITY retentionCleanupPop.label "Per recuperar espai de disc, es poden suprimir permanentment els missatges antics, inclosos els originals del servidor remot.">
 <!ENTITY retentionKeepMsg.label "Suprimeix els missatges de més de">
@@ -48,7 +48,7 @@
 
 <!ENTITY allAutosync.label               "Sincronitza localment tots els missatges tot i la seva antiguitat">
 <!ENTITY allAutosync.accesskey           "c">
-<!ENTITY ageAutosyncBefore.label         "Sincronitza els més recents">
+<!ENTITY ageAutosyncBefore.label         "Sincronitza els més últims">
 <!ENTITY ageAutosync.accesskey           "z">
 <!ENTITY ageAutosyncMiddle.label         "">
 <!ENTITY dayAgeInterval.label            "Dies">

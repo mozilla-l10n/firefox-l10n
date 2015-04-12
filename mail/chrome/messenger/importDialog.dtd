@@ -31,7 +31,7 @@ LOCALIZATION NOTE : Do not translate any of the occurrences of the word
 <!ENTITY importShortDesc.label    "Importa correu, llibretes d'adreces, paràmetres i filtres d'altres programes">
 
 <!ENTITY importDescription1.label "Aquest auxiliar importarà missatges de correu, entrades de llibreta d'adreces, preferències i/o filtres d'altres programes de correu i formats habituals de llibretes d'adreces cap a la Missatgeria del &brandShortName;.">
-<!ENTITY importDescription2.label "Una vegada s'hagin importat, hi podreu accedir des del &brandShortName;">
+<!ENTITY importDescription2.label "Una vegada s'hagin importat, hi podreu accedir des del &brandShortName;.">
 
 <!ENTITY selectDescription.label  "Seleccioneu el tipus de fitxer que voleu importar:">
 <!ENTITY selectDescriptionB.label "Seleccioneu un compte existent o creeu-ne un de nou:">

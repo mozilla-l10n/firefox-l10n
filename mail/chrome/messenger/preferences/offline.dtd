@@ -10,11 +10,11 @@
 <!ENTITY radioRememberPrevState.label "Recorda l'estat en línia anterior">
 <!ENTITY radioRememberPrevState.accesskey "R">
 <!ENTITY radioAskState.label "Pregunta'm l'estat en línia">
-<!ENTITY radioAskState.accesskey "k">
-<!ENTITY radioAlwaysOnlineState.label "Connectat">
+<!ENTITY radioAskState.accesskey "P">
+<!ENTITY radioAlwaysOnlineState.label "En línia">
 <!ENTITY radioAlwaysOnlineState.accesskey "l">
-
-
+<!ENTITY radioAlwaysOffline.label "Fora de línia">
+<!ENTITY radioAlwaysOffline.accesskey "F">
 
 <!ENTITY textGoingOnline "Voleu que s'enviïn els missatges per enviar en posar-se en línia?">
 <!ENTITY radioAutoSend.label "Sí">

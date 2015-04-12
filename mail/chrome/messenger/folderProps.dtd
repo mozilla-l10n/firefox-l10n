@@ -21,14 +21,14 @@
 <!ENTITY retentionUseAccount.accesskey "U">
 <!ENTITY daysOld.label "dies d'antiguitat">
 <!ENTITY message.label "missatges">
-<!ENTITY retentionCleanup.label "Per recuperar espai de disc, es poden suprimir permanentment els missatges antics">
+<!ENTITY retentionCleanup.label "Per recuperar espai de disc, es poden suprimir permanentment els missatges antics.">
 <!ENTITY retentionCleanupImap.label "Per recuperar espai de disc, es poden suprimir permanentment els missatges antics, tant les còpies locals com els originals del servidor remot.">
 <!ENTITY retentionCleanupPop.label "Per recuperar espai de disc, es poden suprimir permanentment els missatges antics, inclosos els originals del servidor remot.">
 <!ENTITY retentionDeleteMsg.label "Suprimeix els missatges de més de">
 <!ENTITY retentionDeleteMsg.accesskey "m">
 <!ENTITY retentionKeepAll.label "No suprimeixis cap missatge">
 <!ENTITY retentionKeepAll.accesskey "a">
-<!ENTITY retentionKeepRecent.label "Suprimeix-los tots excepte els més nous">
+<!ENTITY retentionKeepRecent.label "Suprimeix-ho tot excepte els últims">
 <!ENTITY retentionKeepRecent.accesskey "x">
 <!-- LOCALIZATION NOTE: Unhide with .keepUnreadOnly { display: -moz-box; } -->
 <!ENTITY retentionKeepUnreadHidden.label "Suprimeix sempre els missatges llegits (sobreescriu els paràmetres d'antiguitat)">

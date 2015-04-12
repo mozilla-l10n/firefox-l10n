@@ -3,8 +3,8 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY addressbookWindow.title                        "Llibreta d'adreces">
-
-
+<!ENTITY blankResultsPaneMessage.label                  "Aquesta llibreta d'adreces no mostra cap contacte fins que no feu una cerca">
+<!ENTITY localResultsOnlyMessage.label                  "Els contactes de les llibretes d'adreces remotes no mostren fins que no feu una cerca">
 <!-- File Menu -->
 <!ENTITY fileMenu.label                                 "Fitxer">
 <!ENTITY fileMenu.accesskey                             "F">
@@ -83,7 +83,7 @@
 <!ENTITY viewMenu.label                                 "Visualitza">
 <!ENTITY viewMenu.accesskey                             "V">
 <!ENTITY viewToolbarsMenu.label                         "Barres d'eines">
-<!ENTITY viewToolbarsMenu.accesskey                     "i"> 
+<!ENTITY viewToolbarsMenu.accesskey                     "B"> 
 <!ENTITY menubarCmd.label                               "Barra de menú">
 <!ENTITY menubarCmd.accesskey                           "m">
 <!ENTITY showAbToolbarCmd.label                         "Barra d'eines de la llibreta d'adreces">

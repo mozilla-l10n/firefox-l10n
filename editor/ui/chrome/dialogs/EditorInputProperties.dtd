@@ -27,9 +27,9 @@
 <!ENTITY InputValue.accesskey "V">
 <!ENTITY InitialValue.label "Valor inicial:">
 <!ENTITY InitialValue.accesskey "V">
-<!ENTITY InputChecked.label "Verificat inicialment">
-<!ENTITY InputChecked.accesskey "f">
-<!ENTITY InputSelected.label "Seleccionat al començament">
+<!ENTITY InputChecked.label "Marcat inicialment">
+<!ENTITY InputChecked.accesskey "M">
+<!ENTITY InputSelected.label "Seleccionat inicialment">
 <!ENTITY InputSelected.accesskey "S">
 <!ENTITY InputReadOnly.label "Només de lectura">
 <!ENTITY InputReadOnly.accesskey "l">
