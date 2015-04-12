@@ -8,8 +8,8 @@
 <!ENTITY  language.accesskey                      "t">
 
 <!ENTITY  size.label                              "Չափը.">
-
-
+<!ENTITY  sizeProportional.accesskey              "e">
+<!ENTITY  sizeMonospace.accesskey                 "i">
 
 <!ENTITY  proportional.label                      "Բաշխված.">
 <!ENTITY  proportional.accesskey                  "P">
@@ -22,6 +22,8 @@
 <!ENTITY  monospace.accesskey                     "M">
 <!-- LOCALIZATION NOTE (font.langGroup.latin) :
      Translate "Latin" as the name of Latin (Roman) script, not as the name of the Latin language. -->
+
+<!ENTITY  font.langGroup.latin                    "Լատիներեն">
 <!ENTITY  font.langGroup.japanese                 "Ճապոներեն">
 <!ENTITY  font.langGroup.trad-chinese             "Ավանդական Չիներեն (Թայվան)">
 <!ENTITY  font.langGroup.simpl-chinese            "Պարզեցված Չիներեն">
