@@ -72,4 +72,12 @@
 <!-- Statusbar -->
 <!ENTITY  statusText.label            "Feito">
 
-<!ENTITY popupIcon.tooltiptext      "Desbloquear os popups do sítio">
+
+<!ENTITY popupIcon.tooltiptext      "Unblock this website's popups">
+
+<!ENTITY viewSecurityInfo.label      "Ver informação de segurança">
+<!ENTITY viewSecurityInfo.accesskey  "s">
+<!ENTITY viewCertificate.label       "Ver certificado">
+<!ENTITY viewCertificate.accesskey   "c">
+<!ENTITY viewCertManager.label       "Abrir gestor de certificados">
+<!ENTITY viewCertManager.accesskey   "g">
