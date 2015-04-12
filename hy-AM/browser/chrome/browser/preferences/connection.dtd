@@ -46,4 +46,4 @@
 <!ENTITY  shareproxy.accesskey          "գ">
 <!ENTITY  autologinproxy.label          "Գաղտնաբառը պահպանելիս վավերացում չհարցնել">
 <!ENTITY  autologinproxy.accesskey      "ր">
-
+<!ENTITY  autologinproxy.tooltip        "Այս ընտրանքը լռությամբ իսկորոշում է պրոքսիները, երբ պահպանում եք դրանց հավաստագրերը: Ձախողման դեպքում Ձեզ հարցում կկատարվի:">

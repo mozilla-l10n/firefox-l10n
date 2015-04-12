@@ -660,7 +660,7 @@
 <!ENTITY threadColumn.label "Շղթան">
 <!ENTITY fromColumn.label "Ումից">
 <!ENTITY recipientColumn.label "Ստացողը">
-<!ENTITY correspondentColumn.label "Բաժանորդ">
+
 <!ENTITY subjectColumn.label "Վերնագիրը">
 <!ENTITY dateColumn.label "Ամսաթիվ">
 <!ENTITY priorityColumn.label "Առաջնահերթ-ը">
@@ -683,7 +683,7 @@
 <!ENTITY threadColumn2.tooltip "Ցուցադրել նամակների կապերը">
 <!ENTITY fromColumn2.tooltip "Խմբավորել ըստ՝ ումից">
 <!ENTITY recipientColumn2.tooltip "Խմբավորել ըստ՝ ստացողի">
-<!ENTITY correspondentColumn2.tooltip "Խմբավորել ըստ բաժանորդի">
+
 <!ENTITY subjectColumn2.tooltip "Խմբավորել ըստ՝ վերնագրի">
 <!ENTITY dateColumn2.tooltip "Խմբավորել ըստ՝ ամսաթվի">
 <!ENTITY priorityColumn2.tooltip "Խմբավորել ըստ՝ առաջնահերթության">
