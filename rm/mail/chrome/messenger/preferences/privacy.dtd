@@ -14,6 +14,8 @@
 <!-- Web Content -->
 <!ENTITY captionWebContent.label "Cuntegn dal web">
 
+<!ENTITY keepHistory.label "Memorisar paginas d'internet e colliaziun ch'jau hai visità">
+<!ENTITY keepHistory.accesskey "r">
 <!ENTITY acceptCookies.label "Acceptar ils cookies">
 <!ENTITY acceptCookies.accesskey "c">
 <!ENTITY acceptThirdParty.pre.label "Lubir cookies da terz:">
@@ -31,11 +33,6 @@
 <!ENTITY showCookies.label "Mussar ils cookies…">
 <!ENTITY showCookies.accesskey "o">
 
-<!ENTITY dntTrackingNopref.label2 "Na betg tradir insatge davart mias preferenzas davart suandar fastizs">
-<!ENTITY dntTrackingNopref.accesskey "a">
 <!ENTITY dntTrackingNotOkay.label2 "Infurmar websites ch'jau na vul betg ch'ellas suondan mes fastizs">
 <!ENTITY dntTrackingNotOkay.accesskey "n">
-<!ENTITY dntTrackingOkay.label2 "Infurmar websites ch'jau vul ch'ellas suondan mes fastizs">
-<!ENTITY dntTrackingOkay.accesskey "t">
 <!ENTITY doNotTrackInfo.label "Dapli infurmaziuns">
-

@@ -5,7 +5,7 @@
 <!ENTITY addressbookWindow.title                        "Cudeschet d'adressas">
 
 <!ENTITY blankResultsPaneMessage.label                  "Quest cudeschet d'adressas mussa be contacts suenter ina tschertga">
-<!ENTITY localResultsOnlyMessage.label                  "Contacts da cudeschets d'adressas lontants vegnan be mussads sche ti tschertgas">
+<!ENTITY localResultsOnlyMessage.label                  "Contacts da cudeschets d'adressas lontans vegnan be mussads sche ti tschertgas">
 
 <!-- File Menu -->
 <!ENTITY fileMenu.label                                 "Datoteca">

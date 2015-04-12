@@ -24,10 +24,12 @@ that require it.  -->
 <!ENTITY detailsProgressiveDisclosure.label     "Detagls">
 <!ENTITY detailsProgressiveDisclosure.accesskey "e">
 
+<!ENTITY itemHistory.label                 "Cronologia">
+<!ENTITY itemHistory.accesskey             "C">
 <!ENTITY itemCookies.label                 "Cookies">
-<!ENTITY itemCookies.accesskey             "C">
+<!ENTITY itemCookies.accesskey             "o">
 <!ENTITY itemCache.label                   "Cache">
-<!ENTITY itemCache.accesskey               "A">
+<!ENTITY itemCache.accesskey               "a">
 
 <!-- LOCALIZATION NOTE (sanitizeEverythingUndoWarning): Second warning paragraph
      that appears when "Time range to clear" is set to "Everything".  See UI

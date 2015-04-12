@@ -145,6 +145,8 @@
 <!ENTITY messagePaneVertical.accesskey "3">
 <!ENTITY showFolderPaneCmd.label "Trav dad ordinaturs">
 <!ENTITY showFolderPaneCmd.accesskey "T">
+<!ENTITY showFolderPaneColsCmd.label "Colonnas da la trav dad ordinaturs">
+<!ENTITY showFolderPaneColsCmd.accesskey "v">
 <!ENTITY showMessageCmd.label "Zona da prevista dals messadis">
 <!ENTITY showMessageCmd.accesskey "p">
 
@@ -593,7 +595,9 @@
 <!ENTITY manageTags.accesskey "M">
 
 <!-- Folder Pane -->
-<!ENTITY folderColumn.label "Num">
+<!ENTITY folderNameColumn.label "Num">
+<!ENTITY folderUnreadColumn.label "Nunlegì">
+<!ENTITY folderTotalColumn.label "Total">
 <!ENTITY folderSizeColumn.label "Grondezza">
 
 <!-- Folder Pane Context Menu -->
