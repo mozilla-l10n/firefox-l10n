@@ -194,6 +194,11 @@
 
 <!ENTITY tab_queue_toast_message "Abrir después">
 <!ENTITY tab_queue_toast_action "Abrir ahora">
+<!ENTITY tab_queue_prompt_title "¿Abriendo múltiples enlaces?">
+<!ENTITY tab_queue_prompt_text "Abrilos sin cambiar a Firefox cada vez.">
+<!ENTITY tab_queue_prompt_tip_text "podés cambiar esta opción después en Configuración">
+<!ENTITY tab_queue_prompt_positive_action_button "Habilitar">
+<!ENTITY tab_queue_prompt_negative_action_button "No ahora">
 <!-- Localization note (tab_queue_notification_text_plural) : The
      formatD is replaced with the number of tabs queued.  The
      number of tabs queued is always more than one.  We can't use
@@ -382,6 +387,7 @@ size. -->
 <!ENTITY doorhanger_login_edit_username_hint "Usuario">
 <!ENTITY doorhanger_login_edit_password_hint "Contraseña">
 <!ENTITY doorhanger_login_edit_toggle "Mostrar contraseña">
+<!ENTITY doorhanger_login_edit_toast_error "No se pudo guardar el ingreso">
 
 <!ENTITY pref_titlebar_mode "Barra de título">
 <!ENTITY pref_titlebar_mode_title "Mostrar título de la página">
