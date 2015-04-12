@@ -42,7 +42,7 @@
 <!ENTITY url_bar_default_text2 "Որոնում կամ մուտքագրել հասցեն">
 
 <!ENTITY bookmark "Էջանիշ">
-
+<!ENTITY bookmark_remove "Հեռացնել էջանիշը">
 <!ENTITY bookmark_added "Էջանիշը ավելացվել է">
 <!ENTITY bookmark_removed "Էջանիշը հեռացվել է">
 <!ENTITY bookmark_updated "Էջանիշը թարմացվել է">
@@ -80,7 +80,7 @@
 <!ENTITY pref_category_advanced "Լրացուցիչ">
 <!ENTITY pref_category_customize "Կարգավորումներ">
 <!ENTITY pref_category_customize_summary "Տուն, որոնում, ներդիրներ, ներմուծում">
-
+<!ENTITY pref_category_customize_alt_summary "Տուն, որոնում, ներդիրներ, բացել ավելի ուշ, ներմուծել">
 <!-- Localization note (pref_category_language) : This is the preferences
      section in which the user picks the locale in which to display Firefox
      UI. The locale includes both language and region concepts. -->
@@ -119,12 +119,14 @@
 <!-- Localization note (overlay_no_synced_devices) : Used when the menu option
      to send a tab to a synced device is pressed and no other synced devices
      are found. -->
+<!ENTITY overlay_no_synced_devices "Չի գտնվել Firefox-ի հաշվի այս սարքում">
 <!-- Localization note (overlay_share_tab_not_sent) : Used when the menu option
      to send a tab to a synced device is pressed and there is an error
      connecting to the server so the tab could not be sent. The text should be
      divided into two lines (use the newline escape character, "\n", between
      them): the first notifying the user about the failure and the second
      telling the user what to do about it. -->
+<!ENTITY overlay_share_tab_not_sent "Ներդիրը հնարավոր չէ ուղարկել:\nԽնդրում ենք փորձել ավելի ուշ:">
 
 <!ENTITY pref_category_search3 "Որոնում">
 <!ENTITY pref_category_search_summary "Կարգավորել որոնիչները">
@@ -151,9 +153,9 @@
 <!ENTITY pref_category_devtools_summary "Հեռակա վրիպազերծում, գունազարդում">
 <!ENTITY pref_developer_paint_flashing "Գունազարդում">
 <!ENTITY pref_developer_remotedebugging "Հեռակա վրիպազերծում">
-
+<!ENTITY pref_category_logins "Մուտքանուններ">
 <!ENTITY pref_remember_signons "Հիշել գաղտնաբառերը">
-
+<!ENTITY pref_manage_logins "Կառավարել մուտքանունները">
 
 <!ENTITY pref_category_home "Գլխավոր էջ">
 <!ENTITY pref_category_home_summary "Կարգավորել Գլխավոր էջը">
@@ -190,17 +192,22 @@
 <!ENTITY pref_donottrack_title "Չհետևել">
 <!ENTITY pref_donottrack_summary "&brandShortName;-ը կհաղորդի կայքերին, որ դուք չեք ցանկանում, որ ձեզ հետևեն">
 
-
+<!ENTITY tab_queue_toast_message "Բացել ավելի ուշ">
+<!ENTITY tab_queue_toast_action "Բացել հիմա">
 <!-- Localization note (tab_queue_notification_text_plural) : The
      formatD is replaced with the number of tabs queued.  The
      number of tabs queued is always more than one.  We can't use
      Android plural forms, sadly. See Bug #753859. -->
+<!ENTITY tab_queue_notification_text_plural "&formatD; ներդիր հերթում">
 <!-- Localization note (tab_queue_notification_title_plural) : This is the
      title of a notification; we expect more than one tab queued. -->
+<!ENTITY tab_queue_notification_title_plural "Ներդիր հերթում">
 <!-- Localization note (tab_queue_notification_title_singular) : This is the
      title of a notification; we expect only one tab queued. -->
+<!ENTITY tab_queue_notification_title_singular "Ներդիր հերթում">
 <!-- Localization note (tab_queue_notification_text_singular) : This is the
      text of a notification; we expect only one tab queued. -->
+<!ENTITY tab_queue_notification_text_singular "1 ներդիր հերթում">
 
 <!ENTITY pref_char_encoding "Ցուցադրել գրանշանի կոդավորումը">
 <!ENTITY pref_char_encoding_on "Ցուցադրել">
@@ -296,7 +303,7 @@ size. -->
      (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
 <!ENTITY datareporting_crashreporter_title_short "Վթարի Զեկույց">
 <!ENTITY datareporting_wifi_title2 "&vendorShortName;-ի տեղադրության ծառայությունը">
-
+<!ENTITY datareporting_wifi_geolocation_summary4 "Օգնեք &vendorShortName;-ին աշխարհի քարտեզը գծելու գործում: Տարածեք ձեր սարքի Wi-Fi և բջջային տեղադրությունը՝ լավարկելու համար տեղորոշման ծառայությունը:">
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
      actual notification that an update is available. -->
@@ -311,7 +318,7 @@ size. -->
 <!ENTITY quit "Փակել">
 
 <!ENTITY addons "Հավելումներ">
-
+<!ENTITY logins "Մուտքանուններ">
 <!ENTITY downloads "Բեռնումներ">
 <!ENTITY apps "Ծրագրեր">
 <!ENTITY char_encoding "Գրանշանների Կոդավորումը">
@@ -368,9 +375,11 @@ size. -->
      where normally a username would be displayed. In this case, no username was found, and this placeholder
      contains brackets to indicate this is not actually a username, but rather a placeholder -->
 
+<!ENTITY doorhanger_login_no_username "[Չկա օգտվողի անուն]">
+<!ENTITY doorhanger_login_edit_title "Խմբագրել մուտքանունը">
 <!ENTITY doorhanger_login_edit_username_hint "Օգտվողի Անունը">
-
-
+<!ENTITY doorhanger_login_edit_password_hint "Գաղտնաբառ">
+<!ENTITY doorhanger_login_edit_toggle "Ցուցադրել գաղտնաբառը">
 
 <!ENTITY pref_titlebar_mode "Գլխագիրը">
 <!ENTITY pref_titlebar_mode_title "Ցուցադրել էջի վերնագիրը">
@@ -381,7 +390,8 @@ size. -->
 <!ENTITY pref_scroll_title_bar2 "Լիաէկրան դիտարկում">
 <!ENTITY pref_scroll_title_bar_summary "Էջը իջեցնելիս թաքցնել &brandShortName;-ի գլխագիր">
 
-
+<!ENTITY pref_tab_queue_title "Բացել ավելի ուշ">
+<!ENTITY pref_tab_queue_summary "Կանխում է ներդիրների անմիջական բացումը, բայց բացում է հերթում գտնվող բոլոր ներդիրները &brandShortName;-ը հաջորդ անգամ բեռնելիս:">
 <!-- Localization note (page_removed): This string appears in a toast message when
      any page is removed frome about:home. This includes pages that are in history,
      bookmarks, or reading list. -->
@@ -419,7 +429,7 @@ size. -->
 
 <!ENTITY masterpassword_create_title "Ստեղծել Հիմնական գաղտնաբառ">
 <!ENTITY masterpassword_remove_title "Հեռացնել Հիմնական Գաղտնաբառը">
-
+<!ENTITY masterpassword_password "Գաղտնաբառ">
 <!ENTITY masterpassword_confirm "Կրկնեք գաղտնաբառը">
 
 <!ENTITY button_ok "ԼԱՎ">
@@ -429,7 +439,7 @@ size. -->
 <!ENTITY button_clear_data "Մաքրել տվյալները">
 <!ENTITY button_set "Նշել">
 <!ENTITY button_clear "Մաքրել">
-
+<!ENTITY button_remember "Հիշել">
 
 <!ENTITY home_top_sites_title "Լավագույն կայքերը">
 <!-- Localization note (home_top_sites_add): This string is used as placeholder
