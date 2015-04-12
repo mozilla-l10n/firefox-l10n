@@ -22,7 +22,7 @@
 <!ENTITY  generalReferrer       "Հղվող URL-ն.">
 <!ENTITY  generalSource         "Աղբյուրը.">
 <!ENTITY  generalModified       "Փոփոխված է.">
-
+<!ENTITY  generalEncoding2      "Տեքստի կոդավորումը.">
 <!ENTITY  generalMetaName       "Անվանումը">
 <!ENTITY  generalMetaContent    "Պարունակությունը">
 
