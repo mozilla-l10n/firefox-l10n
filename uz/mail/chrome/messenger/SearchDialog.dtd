@@ -36,6 +36,7 @@
 
 
 
+
 <!ENTITY priorityColumn.label "Muhimlik darajasi">
 <!ENTITY tagsColumn.label "Teglar">
 <!ENTITY accountColumn.label "Hisob">
@@ -50,6 +51,7 @@
 <!ENTITY locationColumn.label "Manzili">
 
 <!-- Thread Pane Tooltips -->
+
 
 
 
