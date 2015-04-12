@@ -16,7 +16,7 @@
 <!ENTITY allowHWAccel.accesskey        "ս">
 <!ENTITY storeType.label               "Հաղորդագրությունների կրիչի տեսակը նոր հաշիվների համար.">
 <!ENTITY storeType.accesskey           "տ">
-<!ENTITY mboxStore.label               "Մեկ մեծ ֆայլ (mbox)">
+
 <!ENTITY maildirStore.label            "Ֆայլ ամեն նամակի համար (maildir)">
 
 <!ENTITY scrolling.label               "Թերթումը">

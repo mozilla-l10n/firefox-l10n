@@ -14,9 +14,9 @@
                        for the help button in the menubar but Gnome does not.   -->
 <!ENTITY helpMenuWin.label        "Օգնություն"> 
 <!ENTITY helpMenuWin.accesskey    "Օ">
-<!ENTITY aboutProduct2.label      "&brandShortName;-ի մասին">
+<!ENTITY aboutProduct2.label      "&brandShorterName;-ի մասին">
 <!ENTITY aboutProduct2.accesskey  "մ">
-<!ENTITY productHelp2.label       "&brandShortName;-ի Օգնությունը">
+<!ENTITY productHelp2.label       "&brandShorterName;-ի Օգնությունը">
 <!ENTITY productHelp2.accesskey   "Օ">
 
 
@@ -26,7 +26,7 @@
 <!ENTITY helpSafeMode.label       "Վերագործարկել հավելումներն անջատած…">
 <!ENTITY helpSafeMode.accesskey   "Վ">
 
-<!ENTITY healthReport2.label      "&brandShortName;-ի Վիճակի Զեկույց">
+<!ENTITY healthReport2.label      "&brandShorterName;-ի Վիճակի Զեկույց">
 <!ENTITY healthReport2.accesskey  "ճ">
 
 <!ENTITY helpTroubleshootingInfo.label      "Անսարքության տեղեկատվություն">
@@ -35,7 +35,7 @@
 <!ENTITY helpFeedbackPage.label      "Ուղարկել արձագանք…">
 <!ENTITY helpFeedbackPage.accesskey  "Ո">
 
-<!ENTITY helpShowTour2.label            "Շրջայց &brandShortName;-ի հետ">
+<!ENTITY helpShowTour2.label            "Շրջայց &brandShorterName;-ի հետ">
 <!ENTITY helpShowTour2.accesskey        "ջ">
 
 <!ENTITY preferencesCmdMac.label        "Կարգավորումներ…">
@@ -43,7 +43,7 @@
 
 <!ENTITY servicesMenuMac.label          "Ծառայություններ">
 
-<!ENTITY hideThisAppCmdMac2.label       "Թաքցնել &brandShortName;-ը">
+<!ENTITY hideThisAppCmdMac2.label       "Թաքցնել &brandShorterName;-ը">
 <!ENTITY hideThisAppCmdMac2.commandkey  "H">
 
 <!ENTITY hideOtherAppsCmdMac.label      "Թաքցնել Մնացածը">

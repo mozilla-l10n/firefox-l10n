@@ -15,8 +15,8 @@
 <!ENTITY saveCmd.accesskey "Պ">
 <!ENTITY saveAsCmd.label "Պահպանել որպես…">
 <!ENTITY saveAsCmd.accesskey "Պ">
-<!ENTITY saveAsChangeEncodingCmd.label "Պահպանել և փոխել գրանշանի կոդավորումը">
-<!ENTITY saveAsChangeEncodingCmd.accesskey "Պ">
+
+
 <!ENTITY publishCmd.label "Հրապարակել">
 <!ENTITY publishCmd.accesskey "Հ">
 <!ENTITY publishCmd.key "Հ">
