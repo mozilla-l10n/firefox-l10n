@@ -5,10 +5,10 @@
 <!ENTITY folderProps.windowtitle.label           "Propietats">
 
 <!ENTITY generalInfo.label                       "Informació general">
-
-
-
-
+<!ENTITY folderCharsetFallback2.label            "Codificació del text alternativa:">
+<!ENTITY folderCharsetFallback2.accesskey        "t">
+<!ENTITY folderCharsetEnforce2.label             "Aplica la codificació a tots els missatges de la carpeta (omet la detecció automàtica i la codificació del text específica de cada missatge)">
+<!ENTITY folderCharsetEnforce2.accesskey         "A">
 <!ENTITY folderRebuildSummaryFileTip2.label      "Reconstrueix l'índex del fitxer resum">
 <!ENTITY folderRebuildSummaryFile2.label         "Repara la carpeta">
 <!ENTITY folderRebuildSummaryFile2.accesskey     "R">

@@ -25,8 +25,8 @@
 <!ENTITY contextAfterCls.label "Filtra després de comprovar si és correu brossa">
 <!ENTITY contextOutgoing.label "Després d'enviar">
 <!ENTITY contextOutgoing.accesskey "S">
-
-
+<!ENTITY contextArchive.label "Arxivament">
+<!ENTITY contextArchive.accesskey "A">
 
 <!ENTITY filterActionDesc.label "Realitza les següents accions:">
 <!ENTITY filterActionDesc.accesskey "z">
