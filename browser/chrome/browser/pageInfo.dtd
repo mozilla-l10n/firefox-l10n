@@ -22,7 +22,7 @@
 <!ENTITY  generalReferrer       "URL referent:">
 <!ENTITY  generalSource         "Origen:">
 <!ENTITY  generalModified       "Modificat:">
-
+<!ENTITY  generalEncoding2      "Codificació del text:">
 <!ENTITY  generalMetaName       "Nom">
 <!ENTITY  generalMetaContent    "Contingut">
 

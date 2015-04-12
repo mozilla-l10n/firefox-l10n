@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY window.title                 "Excepcions">
-
+<!ENTITY window.width                 "48em">
 
 <!ENTITY treehead.sitename.label      "Lloc">
 <!ENTITY treehead.status.label        "Estat">
@@ -23,6 +23,6 @@
 
 <!ENTITY button.cancel.label          "Cancel·la">
 <!ENTITY button.cancel.accesskey      "C">
-
-
+<!ENTITY button.ok.label              "Desa els canvis">
+<!ENTITY button.ok.accesskey          "D">
 
