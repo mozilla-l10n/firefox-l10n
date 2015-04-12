@@ -107,3 +107,13 @@
   -  is recorded. -->
 <!ENTITY profilerUI.enableFramerate             "Gravar taxa de frames">
 <!ENTITY profilerUI.enableFramerate.tooltiptext "Gravar taxa de frames durante a perfilagem.">
+
+<!-- LOCALIZATION NOTE (profilerUI.showJITOptimizations): This string
+  -  is displayed next to a checkbox determining whether or not JIT optimization data
+  -  should be shown. -->
+<!ENTITY profilerUI.showJITOptimizations             "Mostrar otimizações JIT">
+<!ENTITY profilerUI.showJITOptimizations.tooltiptext "Mostrar dados de otimização JIT amostrados a partir de cada frame na árvore de invocação JS.">
+
+<!-- LOCALIZATION NOTE (profilerUI.JITOptimizationsTitle): This string
+  -  is displayed as the title of the JIT Optimizations panel. -->
+<!ENTITY profilerUI.JITOptimizationsTitle "Otimizações JIT">
