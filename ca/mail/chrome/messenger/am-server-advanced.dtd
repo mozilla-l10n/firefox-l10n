@@ -12,11 +12,11 @@
 <!ENTITY dualUseFolders.accesskey "v">
 <!ENTITY useIdle.label "Utilitza l'ordre IDLE si ho permet el servidor">
 <!ENTITY useIdle.accesskey "I">
-<!ENTITY maximumConnectionsNumber.label "Nombre màxim de connexions del servidor per posar a la memòria cau">
+<!ENTITY maximumConnectionsNumber.label "Nombre màxim de connexions del servidor en memòria cau">
 <!ENTITY maximumConnectionsNumber.accesskey "m">
 <!-- LOCALIZATION NOTE (namespaceDesc.label): Do not translate "IMAP" -->
 <!ENTITY namespaceDesc.label "Aquestes preferències indiquen els espais de noms del servidor IMAP">
-<!ENTITY personalNamespace.label "Espai de noms personals:">
+<!ENTITY personalNamespace.label "Espai de noms personal:">
 <!ENTITY personalNamespace.accesskey "p">
 <!ENTITY publicNamespace.label "Públic (compartit):">
 <!ENTITY publicNamespace.accesskey "b">

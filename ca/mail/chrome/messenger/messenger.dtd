@@ -72,7 +72,7 @@
 <!ENTITY offlineGoOfflineCmd.accesskey "T">
 <!ENTITY synchronizeOfflineCmd.label "Baixa/sincronitza ara…">
 <!ENTITY synchronizeOfflineCmd.accesskey "B">
-<!ENTITY settingsOfflineCmd2.label "Paràmetres de fora de línia…">
+<!ENTITY settingsOfflineCmd2.label "Paràmetres de fora de línia">
 <!ENTITY settingsOfflineCmd2.accesskey "e">
 <!ENTITY downloadSelectedCmd.label "Baixa els missatges seleccionats">
 <!ENTITY downloadSelectedCmd.accesskey "m">
@@ -145,8 +145,8 @@
 <!ENTITY messagePaneVertical.accesskey "v">
 <!ENTITY showFolderPaneCmd.label "Carpetes">
 <!ENTITY showFolderPaneCmd.accesskey "C">
-
-
+<!ENTITY showFolderPaneColsCmd.label "Columnes de la subfinestra de carpetes">
+<!ENTITY showFolderPaneColsCmd.accesskey "o">
 <!ENTITY showMessageCmd.label "Subfinestra de missatge">
 <!ENTITY showMessageCmd.accesskey "e">
 
@@ -192,8 +192,8 @@
 <!ENTITY sortByFromCmd.accesskey "t">
 <!ENTITY sortByRecipientCmd.label "Destinatari">
 <!ENTITY sortByRecipientCmd.accesskey "i">
-
-
+<!ENTITY sortByCorrespondentCmd.label "Interlocutors">
+<!ENTITY sortByCorrespondentCmd.accesskey "e">
 <!ENTITY sortByUnreadCmd.label "Pendent de llegir">
 <!ENTITY sortByUnreadCmd.accesskey "l">
 <!ENTITY sortByOrderReceivedCmd.label "Ordre de recepció">
@@ -537,7 +537,7 @@
 <!ENTITY newMsgButton.tooltip "Crea un missatge nou">
 <!ENTITY replyButton.tooltip "Respon el missatge">
 <!ENTITY replyAllButton.tooltip "Respon al remitent i a tots els destinataris">
-<!ENTITY replyListButton.tooltip "Respon a una llista de correu">
+<!ENTITY replyListButton.tooltip "Respon a la llista de correu">
 <!ENTITY forwardButton.tooltip "Reenvia el missatge seleccionat">
 <!ENTITY forwardAsInline.tooltip "Reenvia el missatge seleccionat com text en el cos">
 <!ENTITY forwardAsAttachment.tooltip "Reenvia el missatge seleccionat com adjunció">
@@ -598,7 +598,7 @@
 <!-- Folder Pane -->
 
 <!ENTITY folderNameColumn.label "Nom">
-
+<!ENTITY folderUnreadColumn.label "Per llegir">
 <!ENTITY folderTotalColumn.label "Total">
 <!ENTITY folderSizeColumn.label "Mida">
 <!-- Folder Pane Context Menu -->
@@ -660,7 +660,7 @@
 <!ENTITY threadColumn.label "Conversa">
 <!ENTITY fromColumn.label "Remitent">
 <!ENTITY recipientColumn.label "Destinatari">
-
+<!ENTITY correspondentColumn.label "Interlocutors">
 <!ENTITY subjectColumn.label "Assumpte">
 <!ENTITY dateColumn.label "Data">
 <!ENTITY priorityColumn.label "Prioritat">
@@ -669,8 +669,8 @@
 <!ENTITY statusColumn.label "Estat">
 <!ENTITY sizeColumn.label "Mida">
 <!ENTITY junkStatusColumn.label "Estat de correu brossa">
-
-
+<!ENTITY unreadColumn.label "Per llegir">
+<!ENTITY totalColumn.label "Total">
 <!ENTITY readColumn.label "Llegit">
 <!ENTITY receivedColumn.label "Recepció">
 <!ENTITY starredColumn.label "Destacat">
@@ -683,7 +683,7 @@
 <!ENTITY threadColumn2.tooltip "Mostra les converses de missatges">
 <!ENTITY fromColumn2.tooltip "Ordena per remitent">
 <!ENTITY recipientColumn2.tooltip "Ordena per destinatari">
-
+<!ENTITY correspondentColumn2.tooltip "Ordena per interlocutors">
 <!ENTITY subjectColumn2.tooltip "Ordena per assumpte">
 <!ENTITY dateColumn2.tooltip "Ordena per data">
 <!ENTITY priorityColumn2.tooltip "Ordena per prioritat">

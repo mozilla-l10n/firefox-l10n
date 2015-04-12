@@ -8,8 +8,8 @@
 <!ENTITY  language.accesskey                      "T">
 
 <!ENTITY  size.label                              "Mida:">
-
-
+<!ENTITY  sizeProportional.accesskey              "M">
+<!ENTITY  sizeMonospace.accesskey                 "i">
 
 <!ENTITY  proportional.label                      "Proporcional:">
 <!ENTITY  proportional.accesskey                  "P">
@@ -22,6 +22,8 @@
 <!ENTITY  monospace.accesskey                     "M">
 <!-- LOCALIZATION NOTE (font.langGroup.latin) :
      Translate "Latin" as the name of Latin (Roman) script, not as the name of the Latin language. -->
+
+<!ENTITY  font.langGroup.latin                    "Llatí">
 <!ENTITY  font.langGroup.japanese                 "Japonès">
 <!ENTITY  font.langGroup.trad-chinese             "Xinès tradicional (Taiwan)">
 <!ENTITY  font.langGroup.simpl-chinese            "Xinès simplificat">
@@ -29,7 +31,7 @@
 <!ENTITY  font.langGroup.korean                   "Coreà">
 <!ENTITY  font.langGroup.cyrillic                 "Ciríl·lic">
 <!ENTITY  font.langGroup.el                       "Grec">
-
+<!ENTITY  font.langGroup.other                    "Altres sistemes d'escriptura">
 <!ENTITY  font.langGroup.thai                     "Tailandès">
 <!ENTITY  font.langGroup.hebrew                   "Hebreu">
 <!ENTITY  font.langGroup.arabic                   "Àrab">
@@ -44,11 +46,11 @@
 <!ENTITY  font.langGroup.gurmukhi                 "Gurmukhi">
 <!ENTITY  font.langGroup.khmer                    "Khmer">
 <!ENTITY  font.langGroup.malayalam                "Malaiàlam">
-
-
-
-
-
+<!ENTITY  font.langGroup.oriya                    "Oriya">
+<!ENTITY  font.langGroup.telugu                   "Telugu">
+<!ENTITY  font.langGroup.kannada                  "Kanarès">
+<!ENTITY  font.langGroup.sinhala                  "Singalès">
+<!ENTITY  font.langGroup.tibetan                  "Tibetà">
 <!-- Minimum font size -->
 <!ENTITY minSize.label                            "Mida mínima de la lletra:">
 <!ENTITY minSize.accesskey                        "d">
@@ -68,10 +70,10 @@
 
 <!ENTITY sendDefaultCharset.label         "Correu de sortida:">
 <!ENTITY sendDefaultCharset.accesskey     "u">
-
-
+<!ENTITY languagesTitle2.label            "Codificació del text">
+<!ENTITY composingDescription2.label      "Definiu la codificació del text per defecte per enviar i rebre correu">
 
 <!ENTITY viewDefaultCharsetList.label     "Correu d'entrada:">
 <!ENTITY viewDefaultCharsetList.accesskey  "e">
-
-
+<!ENTITY replyInDefaultCharset3.label     "Quan sigui possible, utilitza la codificació del text per defecte en les respostes">
+<!ENTITY replyInDefaultCharset3.accesskey "z">

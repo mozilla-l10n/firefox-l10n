@@ -74,7 +74,7 @@
 <!ENTITY abbreviateOff.label "Noms abreujats (per exemple, «n.p.m.mail-news»)">
 <!ENTITY advancedButton.label "Avançat…">
 <!ENTITY advancedButton.accesskey "v">
-
+<!ENTITY serverDefaultCharset2.label "Codificació del text per defecte:">
 <!ENTITY localPath.label "Directori local:">
 <!ENTITY localFolderPicker.label "Seleccioneu el directori local">
 <!ENTITY browseFolder.label "Navega…">
@@ -84,7 +84,7 @@
 
 <!ENTITY accountTitle.label "Paràmetres del compte">
 <!ENTITY accountSettingsDesc.label "Aquest és un compte especial. No està associat a cap identitat.">
-
-
-
-
+<!ENTITY storeType.label "Tipus d'emmagatzematge de missatges:">
+<!ENTITY storeType.accesskey "T">
+<!ENTITY mboxStore2.label "Un fitxer per carpeta (mbox)">
+<!ENTITY maildirStore.label "Un fitxer per missatge (maildir)">

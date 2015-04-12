@@ -68,7 +68,7 @@
 <!ENTITY showImageLinkBorder.accessKey "c">
 <!ENTITY LinkAdvancedEditButton.label "Edició avançada de l'enllaç...">
 <!ENTITY LinkAdvancedEditButton.accessKey "v">
-<!ENTITY LinkAdvancedEditButton.tooltip "Afegeix o modifica els atributs HTML, l'estil i el JavaScript">
+<!ENTITY LinkAdvancedEditButton.tooltip "Afegeix o modifica els atributs HTML, els atributs d'estil i el JavaScript">
 <!-- These tabs are currently used in the image input dialog -->
 
 <!ENTITY imageInputTab.label "Formulari">

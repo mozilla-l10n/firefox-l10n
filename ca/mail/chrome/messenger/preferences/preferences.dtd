@@ -19,4 +19,5 @@
 <!ENTITY paneAdvanced.title       "Avançat">
 <!ENTITY paneAccount.title        "Comptes">
 
-
+<!ENTITY okButton.title           "D'acord">
+<!ENTITY okButton.accesskey       "D">
