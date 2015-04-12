@@ -24,8 +24,11 @@ sentence. -->
 <!ENTITY  sendTyping.accesskey          "t">
 
 <!ENTITY  chatNotifications.label             "Sch'in messadi adressà a tai arriva:">
-<!ENTITY  desktopChatNotifications.label      "Mussar in avis">
+<!ENTITY  desktopChatNotifications.label      "Mussar in avis:">
 <!ENTITY  desktopChatNotifications.accesskey  "a">
+<!ENTITY  completeNotification.label          "cun il num dal speditur ed ina prevista dal messadi">
+<!ENTITY  buddyInfoOnly.label                 "be cun il num dal speditur">
+<!ENTITY  dummyNotification.label             "senza infurmaziuns">
 <!ENTITY  chatSound.accesskey                 "t">
 <!ENTITY  chatSound.label                     "Far ir in tun">
 <!ENTITY  play.label                          "Far ir">
