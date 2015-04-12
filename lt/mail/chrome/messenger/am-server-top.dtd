@@ -84,6 +84,10 @@
 
 <!ENTITY accountTitle.label "Paskyros nuostatos">
 <!ENTITY accountSettingsDesc.label "Tai – speciali paskyra. Su ja nesusieti jokie tapatybės (asmeniniai) duomenys.">
+<!ENTITY storeType.label "Laiškų saugojimo būdas">
+<!ENTITY storeType.accesskey "b">
+<!ENTITY mboxStore.label "Atskiras failas kiekvienam aplankui („mbox“)">
+<!ENTITY maildirStore.label "Atskiras failas kiekvienam laiškui („Maildir“)">
 
 
 
