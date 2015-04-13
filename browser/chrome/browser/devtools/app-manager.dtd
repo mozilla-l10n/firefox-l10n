@@ -36,9 +36,9 @@
 <!ENTITY device.permissionsHelpLink "https://developer.mozilla.org/docs/Web/Apps/App_permissions">
 <!ENTITY device.browserTabs "Tab Pelayar">
 <!ENTITY device.browserTabsTooltip "Lihat senarai tab dalam pelayar pada peranti yang disambung">
-
+<!ENTITY device.debugBrowserTab "Debug">
 <!ENTITY device.debugBrowserTabTooltip "Buka Alatan Pembangunan yang bersambung ke aplikasi ini pada peranti">
-
+<!ENTITY device.help "Bantuan">
 
 <!ENTITY connection.connectTooltip "Sambung ke peranti">
 <!ENTITY connection.disconnect "Nyahsambung">
@@ -66,19 +66,19 @@
 <!ENTITY connection.startRegisteredSimulator "Mula:">
 
 <!ENTITY projects.localApps "Aplikasi Tempatan">
-
+<!ENTITY projects.addApp "Tambah">
 <!ENTITY projects.addPackaged "Tambah Pakej Aplikasi">
 <!ENTITY projects.addPackagedTooltip "Tambah aplikasi berpakej baharu (direktori) dari komputer anda">
 <!ENTITY projects.addHosted "Tambah Aplikasi yang dihoskan">
 <!ENTITY projects.addHostedTooltip "Tambah aplikasi baharu yang dihoskan (pautan kepada fail manifest.webapp) daripada tapak web jarak jauh">
-
+<!ENTITY projects.title "Aplikasi Tempatan">
 <!ENTITY projects.appDetails "Butiran Aplikasi">
 <!ENTITY projects.removeAppFromList "Buangkan aplikasi ini daripada senarai aplikasi yang anda sedang bangunkan. Ini tidak akan membuang aplikasi tersebut daripada peranti atau simulasi.">
 <!ENTITY projects.updateApp "Kemaskini">
 <!ENTITY projects.updateAppTooltip "Jalankan semakan pengesahan dan kemaskini apl kepada peranti yang bersambung">
-
+<!ENTITY projects.debugApp "Debug">
 <!ENTITY projects.debugAppTooltip "Buka Alat Pembangun yang tersambung ke aplikasi ini">
-
+<!ENTITY projects.saveManifest "Simpan">
 <!ENTITY projects.saveManifestTooltip "Simpan kandungan daripada Editor Manifest dibawah">
 <!ENTITY projects.hostedManifestPlaceHolder2 "http://example.com/app/manifest.webapp">
 <!ENTITY projects.noProjects "Tiada projek. Tambah aplikasi berpakej yang baru dibawah (direktori lokal) atau aplikasi dihoskan (link kepada fail manifest).">
@@ -92,6 +92,7 @@
 <!ENTITY projects.hosted "Dihoskan">
 <!ENTITY projects.packaged "Dipakejkan">
 
+<!ENTITY help.title "Pengurusan Aplikasi">
 <!ENTITY help.close "Tutup">
 <!ENTITY help.intro "Alat ini akan membantu anda membina dan memasang aplikasi web pada peranti yang serasi (iaitu Firefox OS). Tab <strong>Aplikasi</strong> akan membantu anda dalam pengesahan dan proses pemasangan aplikasi anda. Tab <strong>Alatan</strong> akan memberikan maklumat mengenai peranti yang bersambung. Gunakan bar alatan di bahagian bawah untuk menyambung ke peranti atau memulakan simulasi.">
 <!ENTITY help.usefullLinks "Pautan berguna:">
