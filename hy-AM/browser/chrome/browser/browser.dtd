@@ -608,12 +608,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY quitApplicationCmdWin2.label       "Փակել">
 <!ENTITY quitApplicationCmdWin2.accesskey   "ա">
-<!ENTITY quitApplicationCmdWin2.tooltip     "Փակել &brandShortName;-ը">
+<!ENTITY quitApplicationCmdWin2.tooltip     "Փակել &brandShorterName;-ը">
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY goForwardCmd.commandKey "]">
 <!ENTITY quitApplicationCmd.label       "Փակել"> 
 <!ENTITY quitApplicationCmd.accesskey   "Փ">
-<!ENTITY quitApplicationCmdMac2.label   "Փակել &brandShortName;-ը">
+<!ENTITY quitApplicationCmdMac2.label   "Փակել &brandShorterName;-ը">
 <!-- LOCALIZATION NOTE(quitApplicationCmdUnix.key): This keyboard shortcut is used by both Linux and OSX builds. -->
 <!ENTITY quitApplicationCmdUnix.key     "Q">
 
