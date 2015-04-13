@@ -24,7 +24,7 @@
 <!ENTITY contextBeforeCls.label "Hidlo cyn Dynodi fel Sbam">
 <!ENTITY contextAfterCls.label "Hidlo ar ôl Dynodi fel Sbam">
 <!ENTITY contextOutgoing.label "Ar ôl Anfon">
-<!ENTITY contextOutgoing.accesskey "ô">
+<!ENTITY contextOutgoing.accesskey "n">
 <!ENTITY contextArchive.label "Archifo">
 <!ENTITY contextArchive.accesskey "A">
 

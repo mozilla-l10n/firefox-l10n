@@ -24,7 +24,7 @@
 <!ENTITY otherUsersNamespace.accesskey "D">
 <!ENTITY overrideNamespaces.label "Caniatáu i'r gweinydd i wrth-wneud y bylchau enw">
 <!ENTITY overrideNamespaces.accesskey "C">
-<!ENTITY pop3Desc.label "Wrth lwytho e-byst POP i lawr ar gyfer y gweinydd hwn, defnyddiwch y ffolder canlynol ar gyfer e-byst newydd:" >
+<!ENTITY pop3Desc.label "Wrth lwytho e-byst pop i lawr ar gyfer y gweinydd hwn, defnyddiwch y ffolder canlynol ar gyfer e-byst newydd:" >
 <!ENTITY accountDirectory.label "Blwch Derbyn cyfrif y gweinydd hwn">
 <!ENTITY accountDirectory.accesskey "D">
 <!ENTITY deferToServer.label "Blwch Derbyn cyfrif gwahanol">

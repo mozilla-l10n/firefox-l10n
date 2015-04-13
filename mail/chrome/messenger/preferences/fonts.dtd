@@ -70,10 +70,10 @@
 
 <!ENTITY sendDefaultCharset.label         "Anfon E-bost:">
 <!ENTITY sendDefaultCharset.accesskey     "A">
-
-
+<!ENTITY languagesTitle2.label            "Amgodiad Testun">
+<!ENTITY composingDescription2.label      "Gosod yr amgodiad testun rhagosodedig ar gyfer anfon a derbyn e-bost">
 
 <!ENTITY viewDefaultCharsetList.label     "Derbyn E-bost:">
 <!ENTITY viewDefaultCharsetList.accesskey  "D">
-
-
+<!ENTITY replyInDefaultCharset3.label     "Pan yn bosib, defnyddio'r amgodiad testun rhagosodedig wrth ateb">
+<!ENTITY replyInDefaultCharset3.accesskey "a">

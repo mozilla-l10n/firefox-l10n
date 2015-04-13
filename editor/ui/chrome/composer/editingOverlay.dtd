@@ -15,8 +15,8 @@
 <!ENTITY saveCmd.accesskey "C">
 <!ENTITY saveAsCmd.label "Cadw Fel…">
 <!ENTITY saveAsCmd.accesskey "F">
-
-
+<!ENTITY saveAsChangeEncodingCmd2.label "Cadw a Newid Amgodiad Nod">
+<!ENTITY saveAsChangeEncodingCmd2.accesskey "N">
 <!ENTITY publishCmd.label "Cyhoeddi">
 <!ENTITY publishCmd.accesskey "y">
 <!ENTITY publishCmd.key "S">
