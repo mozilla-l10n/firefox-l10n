@@ -97,11 +97,11 @@
 <!ENTITY options.disableCache.label2     "Desativar Cache (quando a caixa de ferramentas está aberta)">
 <!ENTITY options.disableCache.tooltip2   "Se ativar esta opção desativará a cache para todos os separadores que tenham a caixa de ferramentas aberta.">
 
-<!-- LOCALIZATION NOTE (options.enableServiceWorkersTesting.label,
-  -  options.enableServiceWorkersTesting.tooltip): This is the options panel label and
-  -  tooltip for the checkbox that toggles the service workers testing features on or off. -->
-<!ENTITY options.enableServiceWorkersTesting.label     "Ativar funcionalidades de teste dos Service Workers (quando a caixa de ferramentas está aberta)">
-<!ENTITY options.enableServiceWorkersTesting.tooltip   "Ao ativar esta opção, serão ativas as funcionalidades de teste dos service workers em todos os separadores que tenham a caixa de ferramentas aberta.">
+<!-- LOCALIZATION NOTE (options.enableServiceWorkersHTTP.label,
+  -  options.enableServiceWorkersHTTP.tooltip): This is the options panel label and
+  -  tooltip for the checkbox that toggles the service workers testing features on or off. This option enables service workers over HTTP. -->
+<!ENTITY options.enableServiceWorkersHTTP.label     "Ativar os Service Workers sob HTTP (quando a caixa de ferramentas está aberta)">
+<!ENTITY options.enableServiceWorkersHTTP.tooltip   "Ao ativar esta opção, serão ativos os service workers sob HTTP para todos os separadores que tenham a caixa de ferramentas aberta.">
 
 <!-- LOCALIZATION NOTE (options.selectDefaultTools.label): This is the label for
   -  the heading of group of checkboxes corresponding to the default developer

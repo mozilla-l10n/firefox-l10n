@@ -103,6 +103,7 @@
 <!ENTITY cmd.uninstallAddon.label             "Remover">
 <!ENTITY cmd.uninstallAddon.accesskey         "R">
 <!ENTITY cmd.debugAddon.label                 "Depuração">
+<!ENTITY cmd.debugAddon.accesskey             "p">
 <!ENTITY cmd.showPreferencesWin.label         "Opções">
 <!ENTITY cmd.showPreferencesWin.tooltip       "Mudar opções deste extra">
 <!ENTITY cmd.showPreferencesUnix.label        "Preferências">
