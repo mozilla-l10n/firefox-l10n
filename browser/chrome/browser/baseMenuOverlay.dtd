@@ -1,6 +1,8 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY minimizeWindow.key       "m">
 <!ENTITY minimizeWindow.label     "குறைத்தல்">
 <!ENTITY bringAllToFront.label    "அனைத்தையும் முன்னால் கொண்டுவா">
 <!ENTITY zoomWindow.label         "அளவிடுதல்">
@@ -41,9 +43,9 @@
 <!ENTITY servicesMenuMac.label          "சேவைகள்">
 
 <!ENTITY hideThisAppCmdMac2.label       "&brandShorterName;ஐ மறை">
-
+<!ENTITY hideThisAppCmdMac2.commandkey  "H">
 
 <!ENTITY hideOtherAppsCmdMac.label      "மற்றவற்றை மறை">
-
+<!ENTITY hideOtherAppsCmdMac.commandkey "H">
 
 <!ENTITY showAllAppsCmdMac.label        "அனைத்தையும் காட்டு">

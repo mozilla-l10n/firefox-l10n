@@ -36,9 +36,9 @@
 <!ENTITY device.permissionsHelpLink "https://developer.mozilla.org/docs/Web/Apps/App_permissions">
 <!ENTITY device.browserTabs "உலாவியின் கீற்றுகள்">
 <!ENTITY device.browserTabsTooltip "இணந்துள்ள கருவியின் உலாவியிலுள்ள கீற்றுகளின் பட்டியலை பார்">
-
+<!ENTITY device.debugBrowserTab "வழு நீக்கு">
 <!ENTITY device.debugBrowserTabTooltip "சாதனத்தில் இந்த பயன்பாட்டுடன் இணைக்கப்பட்டுள்ள உருவாக்குநர் கருவிகளைத் திற">
-
+<!ENTITY device.help "உதவி">
 
 <!ENTITY connection.connectTooltip "சாதனத்துடன் இணைக்கவும்">
 <!ENTITY connection.disconnect "துண்டி">
@@ -66,19 +66,19 @@
 <!ENTITY connection.startRegisteredSimulator "தொடங்கு:">
 
 <!ENTITY projects.localApps "உள்ளமை பயன்பாடுகள்">
-
+<!ENTITY projects.addApp "சேர்">
 <!ENTITY projects.addPackaged "தொகுப்பாக்கிய பயன்பாட்டைச் சேர்">
 <!ENTITY projects.addPackagedTooltip "உங்கள் கணினியிலிருந்து ஒரு புதிய தொகுப்பாக்கிய பயன்பாட்டைச் (கோப்பகம்) சேர்க்கவும்">
 <!ENTITY projects.addHosted "வழங்கப்படும் பயன்பாட்டைக் காண்பி">
 <!ENTITY projects.addHostedTooltip "தொலைநிலை வலைத்தளம் ஒன்றிலிருந்து வழங்கப்படும் ஒரு புதிய பயன்பாட்டைச் (manifest.webapp கோப்புக்கான இணைப்பை) சேர்க்கவும்">
-
+<!ENTITY projects.title "உள்ளமை பயன்பாடுகள்">
 <!ENTITY projects.appDetails "பயன்பாட்டு விவரங்கள்">
 <!ENTITY projects.removeAppFromList "நீங்கள் பணிபுரிந்து வரும் பயன்பாடுகளின் பட்டியலில் இருந்து இந்தப் பயன்பாட்டை நீக்கவும். இதனால் பயன்பாடு சாதனம் அல்லது சிமுலேட்டரில் இருந்து நீக்கப்படாது.">
 <!ENTITY projects.updateApp "புதுப்பி">
 <!ENTITY projects.updateAppTooltip "செல்லுபடியாக்க சோதனைகளை மேற்கொண்டு சாதனத்துடன் இணைக்கப்பட்டுள்ள பயன்பாடுகளைப் புதுப்பிக்கவும்.">
-
+<!ENTITY projects.debugApp "வழுநீக்கு">
 <!ENTITY projects.debugAppTooltip "இந்த பயன்பாட்டுடன் இணைந்துள்ள உருவாக்குநர் கருவிகளைத் திற">
-
+<!ENTITY projects.saveManifest "சேமி">
 <!ENTITY projects.saveManifestTooltip "கீழே உள்ள மேனிஃபெஸ்ட் எடிட்டர் உள்ளடக்கங்களை சேமிக்கவும்">
 <!ENTITY projects.hostedManifestPlaceHolder2 "http://example.com/app/manifest.webapp">
 <!ENTITY projects.noProjects "திட்டப்பணிகள் இல்லை. கீழே ஒரு புதிய தொகுப்பாக்கிய பயன்பாட்டு (உள்ளமை கோப்பகம்) அல்லது வழங்கப்படும் (ஹோஸ்ட்டட்) பயன்பாட்டைச் (மேனிஃபெஸ்ட் கோப்புக்கான இணைப்பு) சேர்க்கவும்.">
@@ -92,6 +92,7 @@
 <!ENTITY projects.hosted "நிறுவப்பட்ட புரவலன்">
 <!ENTITY projects.packaged "பொதியாக்கப்பட்டது">
 
+<!ENTITY help.title "பயன்பாடு நிர்வாகி">
 <!ENTITY help.close "மூடு">
 <!ENTITY help.intro "இந்தக் கருவி, இணக்கமான சாதனங்களில் வலைப் பயன்பாடுகளை கட்டமைக்கவும் நிறுவவும் உதவும் (அதாவது Firefox OS). <strong>பயன்பாடுகள்</strong> கீற்று உங்கள் பயன்பாட்டின் செல்லுபடியாக்கம் மற்றும் நிறுவல் செயலில் உதவும். <strong>சாதனங்கள்</strong> கீற்று இணைக்கப்பட்டுள்ள சாதனம் பற்றிய தகவலை வழங்கும். ஒரு சாதனத்துடன் இணைக்க அல்லது ஒரு சிமுலேட்டரைத் தொடங்க அடிப்பகுதி கருவிப்பட்டியைப் பயன்படுத்தவும்.">
 <!ENTITY help.usefullLinks "பயனுள்ள  இணைப்புகள்:">
