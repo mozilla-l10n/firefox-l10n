@@ -187,7 +187,7 @@
 <!ENTITY pref_cookies_not_accept_foreign "Ingeschakeld, behalve van derden">
 <!ENTITY pref_cookies_disabled "Uitgeschakeld">
 
-<!ENTITY pref_tracking_protection_title "Volgbescherming">
+<!ENTITY pref_tracking_protection_title "Bescherming tegen volgen">
 <!ENTITY pref_tracking_protection_summary "&brandShortName; zal voorkomen dat websites u volgen">
 <!ENTITY pref_donottrack_title "Niet volgen">
 <!ENTITY pref_donottrack_summary "&brandShortName; zal websites laten weten dat u niet gevolgd wilt worden">
@@ -539,9 +539,9 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY blocked_mixed_content_message_bottom "De meeste websites zullen nog gewoon werken, zelfs wanneer deze inhoud wordt geblokkeerd.">
 
 <!-- Tracking content notifications in site identity popup -->
-<!ENTITY loaded_tracking_content_message_top "Volgbescherming uitgeschakeld.">
+<!ENTITY loaded_tracking_content_message_top "Bescherming tegen volgen is uitgeschakeld.">
 <!ENTITY loaded_tracking_content_message_bottom "Delen van deze pagina kunnen wellicht uw online-activiteit volgen.">
-<!ENTITY blocked_tracking_content_message_top2 "Volgbescherming ingeschakeld.">
+<!ENTITY blocked_tracking_content_message_top2 "Bescherming tegen volgen is ingeschakeld.">
 <!ENTITY blocked_tracking_content_message_bottom2 "Delen van de pagina die uw online-activiteit volgen zijn geblokkeerd.">
 
 <!-- Common mixed and tracking content strings in site identity popup -->
