@@ -31,11 +31,11 @@
 <!ENTITY pageTitle.label              "Paginatitel:">
 <!ENTITY pageTitle.accesskey          "t">
 <!ENTITY pageTitle.tooltip            "Voer een titel in om de pagina te identificeren in het venster en in bladwijzers">
-<!ENTITY pageTitleExample.label       "bv. “Mijn webpagina”">
+<!ENTITY pageTitleExample.label       "bv. ‘Mijn webpagina’">
 <!ENTITY filename.label               "Bestandsnaam:">
 <!ENTITY filename.accesskey           "B">
 <!ENTITY filename.tooltip             "Voer een naam in voor dit bestand, inclusief ‘html’ voor een webpagina">
-<!ENTITY filenameExample.label        "bv. “mijnpagina.html”">
+<!ENTITY filenameExample.label        "bv. ‘mijnpagina.html’">
 <!ENTITY setDefaultButton.label       "Als standaard instellen">
 <!ENTITY setDefaultButton.accesskey   "d">
 <!ENTITY removeButton.label           "Website verwijderen">

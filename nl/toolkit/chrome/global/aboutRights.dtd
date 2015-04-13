@@ -51,7 +51,7 @@
      the UI, without this page being forgotten every time those strings are
      updated.  -->
 <!-- intro paragraph for branded builds -->
-<!ENTITY rights2.webservices-a "&brandFullName; maakt gebruik van webgebaseerde informatiediensten (“Diensten”) om een aantal functies die met deze binaire versie van &brandShortName; worden meegeleverd onder de onderstaande voorwaarden te gebruiken. Als u de diensten niet wilt gebruiken of de voorwaarden hieronder niet wilt accepteren, kunt u de functie of dienst(en) uitschakelen. Instructies over het uitschakelen van een bepaalde functie of dienst kunt u ">
+<!ENTITY rights2.webservices-a "&brandFullName; maakt gebruik van webgebaseerde informatiediensten (‘Diensten’) om een aantal functies die met deze binaire versie van &brandShortName; worden meegeleverd onder de onderstaande voorwaarden te gebruiken. Als u de diensten niet wilt gebruiken of de voorwaarden hieronder niet wilt accepteren, kunt u de functie of dienst(en) uitschakelen. Instructies over het uitschakelen van een bepaalde functie of dienst kunt u ">
 <!ENTITY rights2.webservices-b "hier">
 <!ENTITY rights3.webservices-c " vinden. Andere onderdelen en diensten kunnen worden uitgeschakeld in de voorkeuren van de applicatie.">
 
@@ -60,7 +60,7 @@
 <!ENTITY rights.safebrowsing-b "Uitschakelen van de functie Veilig surfen wordt niet aanbevolen, omdat dit ervoor kan zorgen dat u onveilige websites bezoekt. Als u de functie volledig wilt uitschakelen, volg dan de volgende stappen:">
 <!ENTITY rights.safebrowsing-term1 "Open de toepassingsvoorkeuren">
 <!ENTITY rights.safebrowsing-term2 "Selecteer de sectie Beveiliging">
-<!ENTITY rights.safebrowsing-term3 "Vink de opties “&blockAttackSites.label;” en “&blockWebForgeries.label;” uit">
+<!ENTITY rights.safebrowsing-term3 "Vink de opties ‘&blockAttackSites.label;’ en ‘&blockWebForgeries.label;’ uit">
 <!ENTITY rights.safebrowsing-term4 "Veilig surfen is nu uitgeschakeld">
 
 <!-- location aware browsing points for branded builds -->
