@@ -74,7 +74,7 @@
 <!ENTITY abbreviateOff.label "Rövidített névvel (például, 'n.p.m.mail-news')">
 <!ENTITY advancedButton.label "Speciális…">
 <!ENTITY advancedButton.accesskey "c">
-<!ENTITY serverDefaultCharset.label "Alapértelmezett karakterkódolás:">
+
 <!ENTITY localPath.label "Helyi könyvtár:">
 <!ENTITY localFolderPicker.label "Helyi könyvtár kiválasztása">
 <!ENTITY browseFolder.label "Tallózás…">
@@ -86,5 +86,5 @@
 <!ENTITY accountSettingsDesc.label "A következő egy különleges postafiók, amelyhez nem tartoznak személyazonosságok.">
 <!ENTITY storeType.label "Üzenettároló típusa:">
 <!ENTITY storeType.accesskey "t">
-<!ENTITY mboxStore.label "Egy nagy fájl (mbox)">
+
 <!ENTITY maildirStore.label "Egy fájl üzenetenként (maildir)">

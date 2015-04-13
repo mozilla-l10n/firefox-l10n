@@ -15,8 +15,8 @@
 <!ENTITY saveCmd.accesskey "M">
 <!ENTITY saveAsCmd.label "Mentés másként…">
 <!ENTITY saveAsCmd.accesskey "e">
-<!ENTITY saveAsChangeEncodingCmd.label "Mentés és a karakterkódolás megváltoztatása">
-<!ENTITY saveAsChangeEncodingCmd.accesskey "a">
+
+
 <!ENTITY publishCmd.label "Közzététel">
 <!ENTITY publishCmd.accesskey "ö">
 <!ENTITY publishCmd.key "S">

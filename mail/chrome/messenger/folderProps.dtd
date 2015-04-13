@@ -5,17 +5,17 @@
 <!ENTITY folderProps.windowtitle.label           "Tulajdonságok">
 
 <!ENTITY generalInfo.label                       "Általános információk">
-<!ENTITY folderCharsetFallback.label             "Tartalék karakterkódolás:">
-<!ENTITY folderCharsetFallback.accesskey         "T">
-<!ENTITY folderCharsetEnforce.label              "A kódolás alkalmazása a mappa összes üzeneténél (az üzenet egyedi karakterkódolás-beállításai és az automatikus felismerés figyelmen kívül hagyása)">
-<!ENTITY folderCharsetEnforce.accesskey          "A">
+
+
+
+
 <!ENTITY folderRebuildSummaryFileTip2.label      "Összefoglaló fájlindex újraépítése">
 <!ENTITY folderRebuildSummaryFile2.label         "Mappa javítása">
 <!ENTITY folderRebuildSummaryFile2.accesskey     "M">
 <!ENTITY folderRebuildSummaryFile.explanation    "Néha a mappaindex (.msf) fájlja megsérül, és az üzenetek nem jelennek meg, vagy a törölt üzenetek megjelennek; a mappa javítása megszüntetheti ezeket a problémákat.">
 <!ENTITY folderIncludeInGlobalSearch.label       "A mappa üzeneteinek megjelenítése a globális keresés eredményei között">
 <!ENTITY folderIncludeInGlobalSearch.accesskey   "g">
-     
+
 <!ENTITY retention.label "Megőrzési házirend">
 <!ENTITY retentionUseAccount.label  "A postafiók beállításainak megfelelően">
 <!ENTITY retentionUseAccount.accesskey "p">
