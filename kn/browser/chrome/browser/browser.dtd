@@ -45,7 +45,7 @@ can reach it easily. -->
 <!ENTITY  moveToNewGroup.label               "ಹೊಸ ಗುಂಪು">
 <!ENTITY  moveToNewWindow.label              "ಹೊಸ ಕಿಟಕಿಗೆ ಜರುಗಿಸು">
 <!ENTITY  moveToNewWindow.accesskey          "W">
-<!ENTITY  bookmarkAllTabs.label              "ಎಲ್ಲಾ Tabs ಪುಟಗುರುತು ಮಾಡು…">
+<!ENTITY  bookmarkAllTabs.label              "ಎಲ್ಲಾ ಹಾಳೆಗಳನ್ನು ಪುಟಗುರುತು ಮಾಡು…">
 <!ENTITY  bookmarkAllTabs.accesskey          "T">
 <!ENTITY  undoCloseTab.label                 "Undo ಟ್ಯಾಬ್ ಮುಚ್ಚು">
 <!ENTITY  undoCloseTab.accesskey             "U">
@@ -54,7 +54,7 @@ can reach it easily. -->
 
 <!ENTITY  listAllTabs.label      "ಎಲ್ಲಾ ಟ್ಯಾಬ್‌ಗಳನ್ನು ಪಟ್ಟಿ ಮಾಡು">
 
-<!ENTITY tabCmd.label "ಹೊಸ Tab">
+<!ENTITY tabCmd.label "ಹೊಸ ಹಾಳೆ">
 <!ENTITY tabCmd.accesskey "T">
 <!ENTITY tabCmd.commandkey "t">
 <!-- LOCALIZATION NOTE (openLocationCmd.label): "Open Location" is only
@@ -84,7 +84,7 @@ when there are no windows but Firefox is still running. -->
 
 <!ENTITY toolbarContextMenu.reloadAllTabs.label "All ಹಾಳೆಗಳನ್ನು ರೀಲೋಡ್ ಮಾಡು">
 <!ENTITY toolbarContextMenu.reloadAllTabs.accesskey "A">
-<!ENTITY toolbarContextMenu.bookmarkAllTabs.label "ಎಲ್ಲಾ Tabs ಪುಟಗುರುತು ಮಾಡು…">
+<!ENTITY toolbarContextMenu.bookmarkAllTabs.label "ಎಲ್ಲಾ ಹಾಳೆಗಳನ್ನು ಪುಟಗುರುತು ಮಾಡು…">
 <!ENTITY toolbarContextMenu.bookmarkAllTabs.accesskey "T">
 <!ENTITY toolbarContextMenu.undoCloseTab.label "Undo ಟ್ಯಾಬ್ ಮುಚ್ಚು">
 <!ENTITY toolbarContextMenu.undoCloseTab.accesskey "U">
@@ -435,17 +435,17 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY tabView.commandkey           "e">
 
-<!ENTITY openLinkCmdInTab.label       "ಹೊಸ Tab ನಲ್ಲಿ ಕೊಂಡಿಯನ್ನು ತೆರೆ">
+<!ENTITY openLinkCmdInTab.label       "ಹೊಸ ಹಾಳೆಯಲ್ಲಿ ಕೊಂಡಿಯನ್ನು ತೆರೆ">
 <!ENTITY openLinkCmdInTab.accesskey   "T">
-<!ENTITY openLinkCmd.label            "ಹೊಸ ಕಿಟಕಿಯಲ್ಲಿ ಕೊಂಡಿಯನ್ನು ತೆರೆ">
+<!ENTITY openLinkCmd.label            "ಹೊಸ Window ಯಲ್ಲಿ ಕೊಂಡಿಯನ್ನು ತೆರೆ">
 <!ENTITY openLinkCmd.accesskey        "W">
-<!ENTITY openLinkInPrivateWindowCmd.label "ಹೊಸ ಖಾಸಗಿ ಕಿಟಕಿಯಲ್ಲಿ ಕೊಂಡಿಯನ್ನು ತೆರೆ">
+<!ENTITY openLinkInPrivateWindowCmd.label "ಹೊಸ Private ಕಿಟಕಿಯಲ್ಲಿ ಕೊಂಡಿಯನ್ನು ತೆರೆ">
 <!ENTITY openLinkInPrivateWindowCmd.accesskey "P">
 <!ENTITY openLinkCmdInCurrent.label     "ಕೊಂಡಿಯನ್ನು ತೆರೆ">
 <!ENTITY openLinkCmdInCurrent.accesskey "O">
-<!ENTITY openFrameCmdInTab.label      "ಚೌಕಟ್ಟನ್ನು ಹೊಸ Tab ನಲ್ಲಿ ತೆರೆಯಿರಿ">
+<!ENTITY openFrameCmdInTab.label      "ಚೌಕಟ್ಟನ್ನು ಹೊಸ ಹಾಳೆಯಲ್ಲಿ ತೆರೆ">
 <!ENTITY openFrameCmdInTab.accesskey  "T">
-<!ENTITY openFrameCmd.label           "ಚೌಕಟ್ಟನ್ನು (ಫ್ರೇಮ್) ಹೊಸ ಕಿಟಕಿಯಲ್ಲಿ ತೆರೆಯಿರಿ">
+<!ENTITY openFrameCmd.label           "ಚೌಕಟ್ಟನ್ನು ಹೊಸ Window ಯಲ್ಲಿ ತೆರೆಯಿರಿ">
 <!ENTITY openFrameCmd.accesskey       "W">
 <!ENTITY showOnlyThisFrameCmd.label     "ಕೇವಲ ಈ ಚೌಕಟ್ಟನ್ನು ಮಾತ್ರ ತೋರಿಸು">
 <!ENTITY showOnlyThisFrameCmd.accesskey "S">
@@ -486,7 +486,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisFrameCmd.accesskey  "m">
 <!ENTITY emailPageCmd.label           "ಕೊಂಡಿಯನ್ನು ಇಮೈಲ್ ಮಾಡು…">
 <!ENTITY emailPageCmd.accesskey       "E">
-<!ENTITY savePageCmd.label            "ಪುಟ ಉಳಿಸು As...">
+<!ENTITY savePageCmd.label            "ಈ ಪುಟವನ್ನು ಹೀಗೆ ಉಳಿಸು...">
 <!ENTITY savePageCmd.accesskey        "A">
 <!-- alternate for content area context menu -->
 <!ENTITY savePageCmd.accesskey2       "P">
