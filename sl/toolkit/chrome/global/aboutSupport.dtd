@@ -6,7 +6,7 @@
 
 <!-- LOCALIZATION NOTE (aboutSupport.pageSubtitle): don't change the 'supportLink' id. -->
 <!ENTITY aboutSupport.pageSubtitle "
-  Ta stran vsebuje tehnične podatke, ki jih boste morda potrebovali pri odpravljanu
+  Ta stran vsebuje tehnične podatke, ki jih boste morda potrebovali pri odpravljanju
   težav. Če iščete odgovore na splošna vprašanja o programu
   &brandShortName;, obiščite <a id='supportLink'>strani za podporo uporabnikom</a>.
 ">
