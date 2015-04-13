@@ -13,9 +13,9 @@
 <!ENTITY restorepage.startNew       "முழுவதும் ஒரு புதிய உலாவும் அமர்வை துவக்குகிறது">
 
 <!ENTITY restorepage.tryagainButton "மறுசேமி">
-
+<!ENTITY restorepage.restore.access "R">
 <!ENTITY restorepage.closeButton    "மூடு">
-
+<!ENTITY restorepage.close.access   "C">
 
 <!ENTITY restorepage.restoreHeader  "மீட்டெடு">
 <!ENTITY restorepage.listHeader     "சாளரங்களும் கீற்றுகளும்">
@@ -27,10 +27,11 @@
 
 
 <!ENTITY welcomeback2.restoreButton  "உடனே பொலாம்!">
-
+<!ENTITY welcomeback2.restoreButton.access "L">
 
 <!ENTITY welcomeback2.tabtitle      "வெற்றி!">
 
+<!ENTITY welcomeback2.pageTitle     "வெற்றி!">
 <!ENTITY welcomeback2.pageInfo1     "போவதற்கு &brandShortName; தயார்.">
 
 <!ENTITY welcomeback2.label.restoreAll  "அனைத்து சாளரங்களையும் கீற்றுகளையும் மீட்டமை">
