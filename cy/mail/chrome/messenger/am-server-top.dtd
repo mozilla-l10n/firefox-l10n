@@ -74,7 +74,7 @@
 <!ENTITY abbreviateOff.label "Enwau byr (e.e. 'n.p.m.mail-news')">
 <!ENTITY advancedButton.label "Uwch…">
 <!ENTITY advancedButton.accesskey "U">
-
+<!ENTITY serverDefaultCharset2.label "Amgodiad Testun Rhagosodedig:">
 <!ENTITY localPath.label "Cyfeiriadur lleol:">
 <!ENTITY localFolderPicker.label "Dewis Cyfeiriadur Lleol">
 <!ENTITY browseFolder.label "Pori…">
@@ -86,5 +86,5 @@
 <!ENTITY accountSettingsDesc.label "Mae hwn yn gyfrif arbennig.  Nid oes hunaniaethau wedi'u cysylltu ag ef.">
 <!ENTITY storeType.label "Math o Storio Negeseuon:">
 <!ENTITY storeType.accesskey "S">
-
+<!ENTITY mboxStore2.label "Ffeil i'r ffolder (mbox)">
 <!ENTITY maildirStore.label "Ffeil y neges (maildir)">

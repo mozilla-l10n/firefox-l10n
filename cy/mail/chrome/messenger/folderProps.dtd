@@ -5,10 +5,10 @@
 <!ENTITY folderProps.windowtitle.label           "Priodweddau">
 
 <!ENTITY generalInfo.label                       "Gwybodaeth Gyffredinol">
-
-
-
-
+<!ENTITY folderCharsetFallback2.label            "Amgodio Testun wrth Gefn:">
+<!ENTITY folderCharsetFallback2.accesskey        "G">
+<!ENTITY folderCharsetEnforce2.label             "Gosod amgodiad i bob neges yn y ffolder (bydd gosodiadau amgodio nodau negeseuon unigol ac awto-ganfod yn cael eu hanwybyddu)">
+<!ENTITY folderCharsetEnforce2.accesskey         "G">
 <!ENTITY folderRebuildSummaryFileTip2.label      "Ailadeiladu'r Mynegai Ffeil Cryno">
 <!ENTITY folderRebuildSummaryFile2.label         "Trwsio'r Ffolder">
 <!ENTITY folderRebuildSummaryFile2.accesskey     "T">

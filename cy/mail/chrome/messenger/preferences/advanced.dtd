@@ -16,7 +16,7 @@
 <!ENTITY allowHWAccel.accesskey        "y">
 <!ENTITY storeType.label               "Math o Storio Negeseuon ar gyfer cyfrifon newydd:">
 <!ENTITY storeType.accesskey           "M">
-
+<!ENTITY mboxStore2.label              "Ffeil i'r ffolder (mbox)">
 <!ENTITY maildirStore.label            "Ffeil y neges (maildir)">
 
 <!ENTITY scrolling.label               "Sgrolio">
