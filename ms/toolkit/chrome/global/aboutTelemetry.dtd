@@ -9,6 +9,7 @@
 <!ENTITY aboutTelemetry.telemetryDisabled "  Telemetri ialah <span>dilumpuhkan</span>.">
 
 
+
 <!ENTITY aboutTelemetry.slowSqlSection "  Penyata SQL Lambat">
 
 <!ENTITY aboutTelemetry.chromeHangsSection "  Pelayar Tergantung">

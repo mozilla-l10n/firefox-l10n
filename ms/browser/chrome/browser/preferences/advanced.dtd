@@ -113,6 +113,7 @@
 <!ENTITY offlineAppRemove.confirm        "Buang data luar talian">
 
 <!ENTITY certificateTab.label            "Sijil">
+
 <!ENTITY certSelection.description       "Bila pelayan meminta sijil peribadi saya:">
 <!ENTITY certs.auto                      "Pilih satu automatik">
 <!ENTITY certs.auto.accesskey            "S">

@@ -1,6 +1,8 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY minimizeWindow.key       "m">
 <!ENTITY minimizeWindow.label     "Pengurangan">
 <!ENTITY bringAllToFront.label    "Bawa Semua ke Hadapan">
 <!ENTITY zoomWindow.label         "Zum">
@@ -10,12 +12,13 @@
 <!ENTITY helpMenu.accesskey       "B"> 
 <!-- LOCALIZATION NOTE some localizations of Windows (ex:french, german) use "?"
                        for the help button in the menubar but Gnome does not.   -->
+<!ENTITY helpMenuWin.label        "Bantuan"> 
+<!ENTITY helpMenuWin.accesskey    "B">
 
 
 
 
-
-
+<!ENTITY helpMac.commandkey       "?">
 
 <!ENTITY helpKeyboardShortcuts.label     "Pintasan Papan Kekunci">
 <!ENTITY helpKeyboardShortcuts.accesskey "K">
@@ -34,13 +37,13 @@
 
 
 <!ENTITY preferencesCmdMac.label        "Keutamaan…">
-
+<!ENTITY preferencesCmdMac.commandkey   ",">
 
 <!ENTITY servicesMenuMac.label          "Servis">
 
-
+<!ENTITY hideThisAppCmdMac2.commandkey  "H">
 
 <!ENTITY hideOtherAppsCmdMac.label      "Sorok yang lain-lain">
-
+<!ENTITY hideOtherAppsCmdMac.commandkey "H">
 
 <!ENTITY showAllAppsCmdMac.label        "Pamer semua">

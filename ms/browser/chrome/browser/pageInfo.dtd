@@ -22,7 +22,7 @@
 <!ENTITY  generalReferrer       "Merujuk URL:">
 <!ENTITY  generalSource         "sumber disorok:">
 <!ENTITY  generalModified       "Diubahsuai:">
-<!ENTITY  generalEncoding       "Pengekodan:">
+
 <!ENTITY  generalMetaName       "Nama">
 <!ENTITY  generalMetaContent    "Kandungan">
 
@@ -83,3 +83,5 @@
 <!ENTITY  securityView.privacy.viewPasswords.accessKey  "P">
 
 <!ENTITY  securityView.technical.header                 "Maklumat Teknikal">
+
+<!ENTITY  helpButton.label                              "Bantuan">
