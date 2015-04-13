@@ -79,6 +79,7 @@
 <!ENTITY cmd.uninstallAddon.label "Rimuovi">
 <!ENTITY cmd.uninstallAddon.accesskey "R">
 <!ENTITY cmd.debugAddon.label "Debug">
+<!ENTITY cmd.debugAddon.accesskey "D">
 <!ENTITY cmd.showPreferencesWin.label "Opzioni">
 <!ENTITY cmd.showPreferencesWin.tooltip "Modifica le opzioni di questo componente aggiuntivo">
 <!ENTITY cmd.showPreferencesUnix.label "Preferenze">
