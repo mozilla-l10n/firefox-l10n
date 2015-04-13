@@ -28,7 +28,7 @@
       <input id='searchtext' type='search'></input>
       <button id='searchbutton'>Zoeken</button>
     </div>
-  <li>Controleer de gegevens- of wifi-verbinding van uw apparaat als u geen enkele pagina kunt laden.
+  <li>Als u geen enkele pagina kunt laden, controleer dan de gegevens- of wifi-verbinding van uw apparaat.
     <button id='wifi'>Wifi inschakelen</button>
   </li>
 </ul>
@@ -45,7 +45,7 @@
 
 <!ENTITY generic.title "Oei.">
 <!ENTITY generic.longDesc "
-<p>&brandShortName; kan om één of andere reden deze pagina niet laden.</p>
+<p>&brandShortName; kan om de een of andere reden deze pagina niet laden.</p>
 ">
 
 <!ENTITY malformedURI.title "Het adres is niet geldig">
@@ -68,7 +68,7 @@
 <!ENTITY netInterrupt.longDesc2 "&sharedLongDesc3;">
 
 <!ENTITY notCached.title "Document verlopen">
-<!ENTITY notCached.longDesc "<p>Het opgevraagde document is niet beschikbaar in de buffer van &brandShortName;.</p><ul><li>Als beveiligingsmaatregel vraagt &brandShortName; gevoelige documenten niet automatisch opnieuw op.</li><li>Klik op Opnieuw proberen om het document opnieuw van de website op te vragen.</li></ul>">
+<!ENTITY notCached.longDesc "<p>Het opgevraagde document is niet beschikbaar in de buffer van &brandShortName;.</p><ul><li>Als beveiligingsmaatregel vraagt &brandShortName; gevoelige documenten niet automatisch opnieuw op.</li><li>Tik op Opnieuw proberen om het document opnieuw van de website op te vragen.</li></ul>">
 
 <!ENTITY netOffline.title "Offlinemodus">
 <!-- LOCALIZATION NOTE (netOffline.longDesc3) This string contains markup including widgets enabling wifi connections.
@@ -123,7 +123,7 @@
 <!ENTITY proxyResolveFailure.longDesc3 "
 <ul>
   <li>Controleer of uw proxyinstellingen juist zijn.</li>
-  <li>Verzeker u ervan dat uw apparaat een werkende gegevens- of wifi-verbinding heeft.
+  <li>Controleer of uw apparaat een werkende gegevens- of wifi-verbinding heeft.
     <button id='wifi'>Wifi inschakelen</button>
   </li>
 </ul>
@@ -140,8 +140,8 @@
 <!ENTITY unknownSocketType.title "Onverwacht antwoord van server">
 <!ENTITY unknownSocketType.longDesc "
 <ul>
-  <li>Verzeker u ervan dat de persoonlijke beveiligingsbeheerder is geïnstalleerd op
-    uw systeem.</li>
+  <li>Zorg ervoor dat de persoonlijke beveiligingsbeheerder op uw systeem
+    is geïnstalleerd.</li>
   <li>Dit kan het gevolg zijn van een niet-standaard configuratie van de server.</li>
 </ul>
 ">
@@ -169,7 +169,7 @@
 <!ENTITY sharedLongDesc3 "
 <ul>
   <li>Misschien is de website tijdelijk niet beschikbaar of overbelast. Probeer het over enkele ogenblikken opnieuw.</li>
-  <li>Controleer de gegevens- of wifi-verbinding van uw apparaat als u geen enkele pagina kunt laden.
+  <li>Als u geen enkele pagina kunt laden, controleer dan de gegevens- of wifi-verbinding van uw apparaat.
     <button id='wifi'>Wifi inschakelen</button>
   </li>
 </ul>

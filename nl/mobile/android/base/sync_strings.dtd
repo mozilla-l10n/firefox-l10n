@@ -14,10 +14,10 @@
 <!ENTITY sync.title.pair.label 'Een apparaat koppelen'>
 
 <!-- J-PAKE Key Screen -->
-<!ENTITY sync.subtitle.connect.label 'Selecteer “&syncBrand.shortName.label; instellen” op uw nieuwe apparaat om het te activeren.'>
+<!ENTITY sync.subtitle.connect.label 'Selecteer ‘&syncBrand.shortName.label; instellen’ op uw nieuwe apparaat om het te activeren.'>
 <!ENTITY sync.subtitle.header2.label 'Voer deze code in op uw andere apparaat'>
-<!ENTITY sync.subtitle.connectlocation2.label 'Selecteer “&sync.title.pair.label;” in de sectie &syncBrand.shortName.label; van de opties van Firefox op uw andere apparaat.'>
-<!ENTITY sync.subtitle.pair.label 'Selecteer “Een apparaat koppelen” op uw andere apparaat om het te activeren.'>
+<!ENTITY sync.subtitle.connectlocation2.label 'Selecteer ‘&sync.title.pair.label;’ in de sectie &syncBrand.shortName.label; van de opties van Firefox op uw andere apparaat.'>
+<!ENTITY sync.subtitle.pair.label 'Selecteer ‘Een apparaat koppelen’ op uw andere apparaat om het te activeren.'>
 <!ENTITY sync.pin.default.label '...\n...\n...\n'>
 <!ENTITY sync.pin.oneline.label '...'>
 <!ENTITY sync.link.show.label 'Tonen hoe.'>
@@ -52,7 +52,7 @@
 
 <!-- Pair Device -->
 <!ENTITY sync.pair.tryagain.label 'Probeer het opnieuw.'>
-<!ENTITY sync.pair.connectlocation.label 'Selecteer “&syncBrand.shortName.label; instellen” en daarna “Ik heb een account” op uw nieuwe apparaat om het te activeren.'>
+<!ENTITY sync.pair.connectlocation.label 'Selecteer ‘&syncBrand.shortName.label; instellen’ en daarna ‘Ik heb een account’ op uw nieuwe apparaat om het te activeren.'>
 
 <!-- Firefox SyncAdapter Settings Screen -->
 <!ENTITY sync.settings.options.label 'Opties'>
@@ -207,8 +207,8 @@
 <!ENTITY fxaccount_status_needs_verification2 'Uw account moet worden geverifieerd. Tik om de verificatie-e-mail opnieuw te verzenden.'>
 <!ENTITY fxaccount_status_needs_credentials 'Kan niet verbinden. Tik om u aan te melden.'>
 <!ENTITY fxaccount_status_needs_upgrade 'U dient &brandShortName; te upgraden om u aan te melden.'>
-<!ENTITY fxaccount_status_needs_master_sync_automatically_enabled '&syncBrand.shortName.label; is ingesteld, maar synchroniseert niet automatisch. Schakel “Automatisch synchroniseren” om in Android-instellingen &gt; Gegevensgebruik.'>
-<!ENTITY fxaccount_status_needs_master_sync_automatically_enabled_v21 '&syncBrand.shortName.label; is ingesteld, maar synchroniseert niet automatisch. Schakel “Automatisch synchroniseren” om in het menu van Android-instellingen &gt; Accounts.'>
+<!ENTITY fxaccount_status_needs_master_sync_automatically_enabled '&syncBrand.shortName.label; is ingesteld, maar synchroniseert niet automatisch. Schakel ‘Automatisch synchroniseren’ om in Android-instellingen &gt; Gegevensgebruik.'>
+<!ENTITY fxaccount_status_needs_master_sync_automatically_enabled_v21 '&syncBrand.shortName.label; is ingesteld, maar synchroniseert niet automatisch. Schakel ‘Automatisch synchroniseren’ om in het menu van Android-instellingen &gt; Accounts.'>
 <!ENTITY fxaccount_status_needs_finish_migrating 'Tik om u aan te melden bij uw nieuwe Firefox-account.'>
 <!ENTITY fxaccount_status_bookmarks 'Bladwijzers'>
 <!ENTITY fxaccount_status_history 'Geschiedenis'>

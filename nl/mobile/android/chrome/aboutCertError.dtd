@@ -17,7 +17,7 @@ by NSS/PSM via netError.xhtml. -->
 be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
 <!ENTITY certerror.introPara1 "U hebt &brandShortName; gevraagd een beveiligde verbinding
-op te zetten met <b>#1</b>, maar we kunnen niet bevestigen dat uw verbinding beveiligd is.">
+te maken met <b>#1</b>, maar we kunnen niet bevestigen dat uw verbinding is beveiligd.">
 
 <!ENTITY certerror.whatShouldIDo.heading "Wat moet ik doen?">
 <!ENTITY certerror.whatShouldIDo.content "Als u doorgaans zonder problemen verbinding
