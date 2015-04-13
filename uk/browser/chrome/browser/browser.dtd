@@ -358,13 +358,13 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllHistoryCmd2.label "Показати всю історію">
 <!ENTITY showAllHistoryCmd.commandkey "H">
 
-<!ENTITY appMenuCustomize.label "Вигляд">
+<!ENTITY appMenuCustomize.label "Пристосування">
 <!ENTITY appMenuCustomize.tooltip "Пристосувати меню та панелі">
 <!ENTITY appMenuCustomizeExit.label "Облишити пристосування">
 <!ENTITY appMenuCustomizeExit.tooltip "Завершити пристосування">
 <!ENTITY appMenuHistory.label "Історія">
 <!ENTITY appMenuHistory.showAll.label "Показати всю історію">
-<!ENTITY appMenuHistory.clearRecent.label "Очистити недавню історію…">
+<!ENTITY appMenuHistory.clearRecent.label "Стерти недавню історію…">
 <!ENTITY appMenuHistory.restoreSession.label "Відновити попередній сеанс">
 <!ENTITY appMenuHistory.viewSidebar.label "Показати панель історії">
 <!ENTITY appMenuHelp.tooltip "Відкрити меню допомоги">
