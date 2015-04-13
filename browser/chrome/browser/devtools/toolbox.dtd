@@ -78,7 +78,7 @@
   -  boolean preference in about:config, in the options panel. -->
 
 <!ENTITY options.enableChrome.label5    "Galluogi chrome y porwr ac ychwanegion blychau offer dadfygio">
-<!ENTITY options.enableChrome.tooltip3  "Bydd cychwyn y dewis hwn yn caniatáu i chi ddefnyddio offer datblygwyr amrywiol o fewn cyd-destun porwr (drwy Offer > > Datblygwr Gwe > Blwch Offer y Porwr) a dadfygio ychwanegion o'r Rheolwr Ychwanegion">
+<!ENTITY options.enableChrome.tooltip3  "Bydd cychwyn y dewis hwn yn caniatáu i chi ddefnyddio offer datblygwyr amrywiol o fewn cyd-destun porwr (drwy Offer > Datblygwr Gwe > Blwch Offer y Porwr) a dadfygio ychwanegion o'r Rheolwr Ychwanegion">
 <!-- LOCALIZATION NOTE (options.enableRemote.label3): This is the label for the
   -  checkbox that toggles remote debugging, i.e. devtools.debugger.remote-enabled
   -  boolean preference in about:config, in the options panel. -->
