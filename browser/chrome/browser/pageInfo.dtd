@@ -22,7 +22,7 @@
 <!ENTITY  generalReferrer       "संदर्भित URL:">
 <!ENTITY  generalSource         "कॅश स्त्रोत:">
 <!ENTITY  generalModified       "बदलेले:">
-<!ENTITY  generalEncoding       "संकेतलिपी:">
+
 <!ENTITY  generalMetaName       "नाव">
 <!ENTITY  generalMetaContent    "मजकुर">
 
@@ -83,3 +83,5 @@
 <!ENTITY  securityView.privacy.viewPasswords.accessKey  "w">
 
 <!ENTITY  securityView.technical.header                 "तांत्रिक तपशील">
+
+<!ENTITY  helpButton.label                              "मदत">

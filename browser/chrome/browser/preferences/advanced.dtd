@@ -113,6 +113,7 @@
 <!ENTITY offlineAppRemove.confirm        "ऑफलाइन माहिती काढूण टाक">
 
 <!ENTITY certificateTab.label            "प्रमाणपत्र">
+
 <!ENTITY certSelection.description       "जेव्हा सर्वर व्यक्तिगत प्रमाणपत्र करीता विनंती करतो:">
 <!ENTITY certs.auto                      "आपोआप निवडा">
 <!ENTITY certs.auto.accesskey            "S">

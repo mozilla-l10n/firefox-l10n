@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY window.title                 "अपवाद">
-<!ENTITY window.width                 "36em">
+
 
 <!ENTITY treehead.sitename.label      "संकेतस्थळ">
 <!ENTITY treehead.status.label        "परीस्थिती">
@@ -21,6 +21,7 @@
 <!ENTITY allow.accesskey              "A">
 <!ENTITY windowClose.key              "w">
 
-<!ENTITY button.close.label           "बंद करा">
-<!ENTITY button.close.accesskey       "C">
+
+
+
 
