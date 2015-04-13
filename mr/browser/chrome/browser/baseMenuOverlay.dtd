@@ -1,6 +1,8 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY minimizeWindow.key       "m">
 <!ENTITY minimizeWindow.label     "लहान करा">
 <!ENTITY bringAllToFront.label    "सर्व समोर आणा">
 <!ENTITY zoomWindow.label         "झूम">
@@ -10,12 +12,13 @@
 <!ENTITY helpMenu.accesskey       "H"> 
 <!-- LOCALIZATION NOTE some localizations of Windows (ex:french, german) use "?"
                        for the help button in the menubar but Gnome does not.   -->
+<!ENTITY helpMenuWin.label        "मदत"> 
+<!ENTITY helpMenuWin.accesskey    "H">
 
 
 
 
-
-
+<!ENTITY helpMac.commandkey       "?">
 
 <!ENTITY helpKeyboardShortcuts.label     "किबोर्ड शार्टकट्स">
 <!ENTITY helpKeyboardShortcuts.accesskey "K">
@@ -34,13 +37,13 @@
 
 
 <!ENTITY preferencesCmdMac.label        "पसंती…">
-
+<!ENTITY preferencesCmdMac.commandkey   ",">
 
 <!ENTITY servicesMenuMac.label          "सेवा">
 
-
+<!ENTITY hideThisAppCmdMac2.commandkey  "H">
 
 <!ENTITY hideOtherAppsCmdMac.label      "इतरांना लपवा">
-
+<!ENTITY hideOtherAppsCmdMac.commandkey "H">
 
 <!ENTITY showAllAppsCmdMac.label        "सर्व दर्शवा">
