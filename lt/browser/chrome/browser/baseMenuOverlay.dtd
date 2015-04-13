@@ -14,9 +14,9 @@
                        for the help button in the menubar but Gnome does not.   -->
 <!ENTITY helpMenuWin.label        "Žinynas"> 
 <!ENTITY helpMenuWin.accesskey    "Ž">
-<!ENTITY aboutProduct2.label      "Apie „&brandShortName;“">
+<!ENTITY aboutProduct2.label      "Apie „&brandShorterName;“">
 <!ENTITY aboutProduct2.accesskey  "A">
-<!ENTITY productHelp2.label       "„&brandShortName;“ žinynas">
+<!ENTITY productHelp2.label       "„&brandShorterName;“ žinynas">
 <!ENTITY productHelp2.accesskey   "ž">
 <!ENTITY helpMac.commandkey       "?">
 
@@ -26,7 +26,7 @@
 <!ENTITY helpSafeMode.label       "Perleisti programą, išjungus priedus…">
 <!ENTITY helpSafeMode.accesskey   "r">
 
-<!ENTITY healthReport2.label      "„&brandShortName;“ techninės būklės ataskaita">
+<!ENTITY healthReport2.label      "„&brandShorterName;“ techninės būklės ataskaita">
 <!ENTITY healthReport2.accesskey  "b">
 
 <!ENTITY helpTroubleshootingInfo.label      "Informacija problemų sprendimui">
@@ -35,7 +35,7 @@
 <!ENTITY helpFeedbackPage.label      "Siųsti atsiliepimą…">
 <!ENTITY helpFeedbackPage.accesskey  "S">
 
-<!ENTITY helpShowTour2.label            "Įvadas į „&brandShortName;“">
+<!ENTITY helpShowTour2.label            "Įvadas į „&brandShorterName;“">
 <!ENTITY helpShowTour2.accesskey        "v">
 
 <!ENTITY preferencesCmdMac.label        "Nuostatos…">
@@ -43,7 +43,7 @@
 
 <!ENTITY servicesMenuMac.label          "Paslaugos">
 
-<!ENTITY hideThisAppCmdMac2.label       "Nerodyti „&brandShortName;“">
+<!ENTITY hideThisAppCmdMac2.label       "Nerodyti „&brandShorterName;“">
 <!ENTITY hideThisAppCmdMac2.commandkey  "H">
 
 <!ENTITY hideOtherAppsCmdMac.label      "Nerodyti kitų">
