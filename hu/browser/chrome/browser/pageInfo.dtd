@@ -22,7 +22,7 @@
 <!ENTITY  generalReferrer       "Hivatkozó URL:">
 <!ENTITY  generalSource         "Gyorsítótárforrás:">
 <!ENTITY  generalModified       "Módosítva:">
-
+<!ENTITY  generalEncoding2      "Szövegkódolás:">
 <!ENTITY  generalMetaName       "Név">
 <!ENTITY  generalMetaContent    "Tartalom">
 
