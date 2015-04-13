@@ -42,6 +42,7 @@
 <!ENTITY url_bar_default_text2 "ค้นหาหรือป้อนที่อยู่">
 
 <!ENTITY bookmark "ที่คั่นหน้า">
+
 <!ENTITY bookmark_added "เพิ่มที่คั่นหน้าแล้ว">
 <!ENTITY bookmark_removed "ลบที่คั่นหน้าแล้ว">
 <!ENTITY bookmark_updated "ปรับปรุงที่คั่นหน้าแล้ว">
@@ -79,6 +80,7 @@
 <!ENTITY pref_category_advanced "ขั้นสูง">
 <!ENTITY pref_category_customize "กำหนดเอง">
 <!ENTITY pref_category_customize_summary "หน้าแรก ค้นหา แท็บ นำเข้า">
+
 <!-- Localization note (pref_category_language) : This is the preferences
      section in which the user picks the locale in which to display Firefox
      UI. The locale includes both language and region concepts. -->
@@ -114,6 +116,15 @@
 <!ENTITY overlay_share_no_url "ไม่พบลิงก์ในการแบ่งปันนี้">
 <!ENTITY overlay_share_retry "ลองใหม่">
 <!ENTITY overlay_share_select_device "เลือกอุปกรณ์">
+<!-- Localization note (overlay_no_synced_devices) : Used when the menu option
+     to send a tab to a synced device is pressed and no other synced devices
+     are found. -->
+<!-- Localization note (overlay_share_tab_not_sent) : Used when the menu option
+     to send a tab to a synced device is pressed and there is an error
+     connecting to the server so the tab could not be sent. The text should be
+     divided into two lines (use the newline escape character, "\n", between
+     them): the first notifying the user about the failure and the second
+     telling the user what to do about it. -->
 
 <!ENTITY pref_category_search3 "ค้นหา">
 <!ENTITY pref_category_search_summary "ปรับแต่งผู้จัดการค้นหาของคุณ">
@@ -140,7 +151,9 @@
 
 
 <!ENTITY pref_developer_remotedebugging "การดีบักผ่านเครือข่าย">
+
 <!ENTITY pref_remember_signons "จำรหัสผ่าน">
+
 
 <!ENTITY pref_category_home "หน้าหลัก">
 <!ENTITY pref_category_home_summary "ปรับแต่งโฮมเพจของคุณ">
@@ -176,6 +189,18 @@
 <!ENTITY pref_tracking_protection_summary "&brandShortName; จะป้องกันเว็บไซต์จากการติดตามคุณ">
 <!ENTITY pref_donottrack_title "ไม่ต้องติดตามการเชื่อมต่อ">
 <!ENTITY pref_donottrack_summary "&brandShortName; จะบอกไซต์ที่คุณไม่ต้องการถูกติดตาม">
+
+
+<!-- Localization note (tab_queue_notification_text_plural) : The
+     formatD is replaced with the number of tabs queued.  The
+     number of tabs queued is always more than one.  We can't use
+     Android plural forms, sadly. See Bug #753859. -->
+<!-- Localization note (tab_queue_notification_title_plural) : This is the
+     title of a notification; we expect more than one tab queued. -->
+<!-- Localization note (tab_queue_notification_title_singular) : This is the
+     title of a notification; we expect only one tab queued. -->
+<!-- Localization note (tab_queue_notification_text_singular) : This is the
+     text of a notification; we expect only one tab queued. -->
 
 <!ENTITY pref_char_encoding "รหัสอักขระ">
 <!ENTITY pref_char_encoding_on "แสดงเมนู">
@@ -284,6 +309,7 @@ size. -->
 
 <!ENTITY addons "ส่วนเสริม">
 
+
 <!ENTITY apps "แอป">
 <!ENTITY char_encoding "รหัสอักขระ">
 
@@ -333,6 +359,13 @@ size. -->
 <!ENTITY contextmenu_top_sites_pin "ตรึงเว็บ">
 <!ENTITY contextmenu_top_sites_unpin "เลิกตรึงเว็บ">
 <!ENTITY contextmenu_add_search_engine "เพิ่มเครื่องมือค้นหา">
+<!-- Localization note (doorhanger_login_no_username): This string is used in the save-login doorhanger
+     where normally a username would be displayed. In this case, no username was found, and this placeholder
+     contains brackets to indicate this is not actually a username, but rather a placeholder -->
+
+<!ENTITY doorhanger_login_edit_username_hint "ชื่อผู้ใช้">
+
+
 
 <!ENTITY pref_titlebar_mode "แถบหัวเรื่อง">
 <!ENTITY pref_titlebar_mode_title "แสดงหัวเรื่องเว็บ">
@@ -342,6 +375,8 @@ size. -->
 
 <!ENTITY pref_scroll_title_bar2 "การท่องเว็บแบบเต็มจอ">
 <!ENTITY pref_scroll_title_bar_summary "ซ่อนแถบชื่อเรื่อง &brandShortName; เมื่อเลื่อนหน้าลงมา">
+
+
 <!-- Localization note (page_removed): This string appears in a toast message when
      any page is removed frome about:home. This includes pages that are in history,
      bookmarks, or reading list. -->
@@ -378,7 +413,7 @@ size. -->
 
 <!ENTITY masterpassword_create_title "สร้างรหัสผ่านหลัก">
 <!ENTITY masterpassword_remove_title "ลบรหัสผ่านหลัก">
-<!ENTITY masterpassword_password "รหัสผ่าน">
+
 <!ENTITY masterpassword_confirm "ยืนยันรหัสผ่าน">
 
 <!ENTITY button_ok "ตกลง">
@@ -388,6 +423,7 @@ size. -->
 <!ENTITY button_clear_data "ล้างข้อมูล">
 
 
+<!ENTITY button_remember "จำ">
 
 <!ENTITY home_top_sites_title "เว็บเด่น">
 <!-- Localization note (home_top_sites_add): This string is used as placeholder
@@ -510,6 +546,13 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY bookmarkhistory_import_wait "โปรดรอ…">
 
 <!ENTITY suggestions_prompt3 "คุณต้องการเปิดใช้งานการแนะนำคำค้นหาหรือไม่?">
+<!--  Localization note (search_bar_item_desc): When the user clicks the url bar
+      and starts typing, a list of icons of search engines appears at the bottom
+      of the screen. When a user clicks an icon, the entered text will be searched
+      via the search engine that uses the icon they clicked. This text is used
+      for screen reader users when they hover each icon - &formatS; will be
+      replaced with the name of the currently highlighted icon. -->
+<!ENTITY search_bar_item_desc "ค้นหาด้วย &formatS;">
 <!-- Localization note (suggestion_for_engine): The placeholder &formatS1; will be
      replaced with the name of the search engine. The placeholder &formatS2; will be
      replaced with the search query. -->

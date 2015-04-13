@@ -22,7 +22,7 @@
 <!ENTITY  generalReferrer       "อ้างอิงจาก URL :">
 <!ENTITY  generalSource         "ตำแหน่งแคช :">
 <!ENTITY  generalModified       "วันที่แก้ไข :">
-<!ENTITY  generalEncoding       "รหัสอักขระ :">
+
 <!ENTITY  generalMetaName       "ชื่อ">
 <!ENTITY  generalMetaContent    "เนื้อหา">
 
@@ -83,3 +83,5 @@
 <!ENTITY  securityView.privacy.viewPasswords.accessKey  "ร">
 
 <!ENTITY  securityView.technical.header                 "ข้อมูลทางเทคนิค">
+
+<!ENTITY  helpButton.label                              "วิธีใช้">
