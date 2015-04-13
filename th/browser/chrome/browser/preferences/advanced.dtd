@@ -113,6 +113,7 @@
 <!ENTITY offlineAppRemove.confirm        "เอาข้อมูลออฟไลน์ออก">
 
 <!ENTITY certificateTab.label            "ใบรับรอง">
+
 <!ENTITY certSelection.description       "เมื่อเซิร์ฟเวอร์ร้องขอใบรับรองส่วนตัว :">
 <!ENTITY certs.auto                      "เลือกอัตโนมัติ">
 <!ENTITY certs.auto.accesskey            "S">

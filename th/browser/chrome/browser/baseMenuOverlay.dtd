@@ -1,6 +1,8 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY minimizeWindow.key       "m">
 <!ENTITY minimizeWindow.label     "ย่อหาย">
 <!ENTITY bringAllToFront.label    "นำทั้งหมดมาข้างหน้า">
 <!ENTITY zoomWindow.label         "ย่อ-ขยาย">
@@ -10,12 +12,13 @@
 <!ENTITY helpMenu.accesskey       "ว"> 
 <!-- LOCALIZATION NOTE some localizations of Windows (ex:french, german) use "?"
                        for the help button in the menubar but Gnome does not.   -->
+<!ENTITY helpMenuWin.label        "ช่วยเหลือ"> 
+<!ENTITY helpMenuWin.accesskey    "ช">
 
 
 
 
-
-
+<!ENTITY helpMac.commandkey       "?">
 
 <!ENTITY helpKeyboardShortcuts.label     "แป้นลัด">
 <!ENTITY helpKeyboardShortcuts.accesskey "K">
@@ -34,13 +37,13 @@
 
 
 <!ENTITY preferencesCmdMac.label        "ปรับแต่ง…">
-
+<!ENTITY preferencesCmdMac.commandkey   ",">
 
 <!ENTITY servicesMenuMac.label          "บริการ">
 
-
+<!ENTITY hideThisAppCmdMac2.commandkey  "H">
 
 <!ENTITY hideOtherAppsCmdMac.label      "ซ่อนโปรแกรมอื่น">
-
+<!ENTITY hideOtherAppsCmdMac.commandkey "H">
 
 <!ENTITY showAllAppsCmdMac.label        "แสดงทั้งหมด">

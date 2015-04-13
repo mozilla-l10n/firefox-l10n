@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY window.title                 "ข้อยกเว้น">
-<!ENTITY window.width                 "36em">
+
 
 <!ENTITY treehead.sitename.label      "ไซต์">
 <!ENTITY treehead.status.label        "สถานะ">
@@ -21,6 +21,8 @@
 <!ENTITY allow.accesskey              "อ">
 <!ENTITY windowClose.key              "w">
 
-<!ENTITY button.close.label           "ปิด">
-<!ENTITY button.close.accesskey       "ป">
+<!ENTITY button.cancel.label          "ยกเลิก">
+<!ENTITY button.cancel.accesskey      "ย">
+
+
 
