@@ -10,7 +10,7 @@
 
 <!ENTITY aboutTelemetry.generalDataSection "  Data Cyffredinol">
 
-<!ENTITY aboutTelemetry.telemetryLogSection " Cofnod Telemetreg">
+<!ENTITY aboutTelemetry.telemetryLogSection " Cofnod Telemetreg">
 
 <!ENTITY aboutTelemetry.slowSqlSection "  Datganiadau SQL Araf">
 
