@@ -213,10 +213,10 @@
 <!ENTITY pref_char_encoding_on "Показувати меню">
 <!ENTITY pref_char_encoding_off "Не показувати меню">
 <!ENTITY pref_clear_private_data2 "Очистити зараз">
-<!ENTITY pref_clear_private_data_category "Очистити приватні дані">
-<!ENTITY pref_clear_on_exit_title2 "Очищати при виході">
-<!ENTITY pref_clear_on_exit_summary2 "&brandShortName; буде завжди автоматично очищати ваші дані, коли ви виберете \u0022Quit\u0022 в головному меню">
-<!ENTITY pref_clear_on_exit_dialog_title "Вибрати, які дані очищати">
+<!ENTITY pref_clear_private_data_category "Стерти приватні дані">
+<!ENTITY pref_clear_on_exit_title2 "Стирати при виході">
+<!ENTITY pref_clear_on_exit_summary2 "&brandShortName; буде завжди автоматично стирати ваші дані при виборі \u0022Вихід\u0022 у головному меню">
+<!ENTITY pref_clear_on_exit_dialog_title "Виберіть, які дані стирати">
 <!ENTITY pref_plugins "Плагіни">
 <!ENTITY pref_plugins_enabled "Увімкнено">
 <!ENTITY pref_plugins_tap_to_play "Торкнутися, щоб грати">
@@ -550,8 +550,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY disable_protection "Вимкнути захист">
 <!ENTITY keep_blocking "Блокувати далі">
 
-<!ENTITY private_data_success "Приватні дані видалено">
-<!ENTITY private_data_fail "Деякі приватні дані не можуть бути видалені">
+<!ENTITY private_data_success "Приватні дані стерто">
+<!ENTITY private_data_fail "Деякі приватні дані не вдалося стерти">
 
 <!ENTITY bookmarkhistory_button_import "Імпорт">
 <!ENTITY bookmarkhistory_import_both "Імпорт закладок та історії

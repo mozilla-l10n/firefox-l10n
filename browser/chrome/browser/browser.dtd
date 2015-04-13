@@ -333,7 +333,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY preferencesCmdUnix.label       "Налаштування">
 <!ENTITY preferencesCmdUnix.accesskey     "Н"> 
 
-<!ENTITY clearRecentHistory.label               "Видалити недавню історію…">
+<!ENTITY clearRecentHistory.label               "Стерти недавню історію…">
 
 <!ENTITY privateBrowsingCmd.commandkey          "P">
 
