@@ -15,11 +15,6 @@
 <!ENTITY resetPassword.title  "Nuligi ĉefan pasvorton">
 <!ENTITY resetPassword.text  "Se vi nuligas vian ĉefan pasvorton ĉiuj viaj konservitaj TTTaj kaj retpoŝtaj pasvortoj estos forgesitaj, kune kun via formulara informo, personaj atestiloj kaj privataj ŝlosiloj. Ĉu vi certe volas nuligi vian ĉefan pasvorton?">
 
-<!-- Values for getpassword.xul -->
-<!ENTITY getPassword.title  "Tajpu ĉefan pasvorton">
-<!ENTITY getPassword.tokenName2.label "Security Device:">
-<!ENTITY getPassword.password.label "Pasvorto:">
-
 <!-- Downloading a cert -->
 <!ENTITY downloadCert.title "Elŝutanta atestilon">
 <!ENTITY downloadCert.message1 "Fido je nova atestila aŭtoritato (CA) estis petita al vi.">
@@ -49,13 +44,6 @@
 
 <!ENTITY chooseToken.title  "Elekti ĵetonan dialogon">
 <!ENTITY chooseToken.message1 "Bonvolu elekti ĵetonon.">
-
-<!ENTITY escrowWarn.title "Kopio de ĉifra ŝlosilo">
-<!ENTITY escrowWarn.message1 "Grava rimarko: Tiu ĉi atestila aŭtoritato petis fari sekurkopion de via ĉifra privata ŝlosilo.">
-<!ENTITY escrowWarn.benefit1 "La avantaĝo estas la jena: se vi perdas la aliron al via ĉifra privata ŝlosilo vi povas mendi kopion al tiu ĉi atestila aŭtoritato.">
-<!ENTITY escrowWarn.message2 "Tamen, via privata ĉifra ŝlosilo estos konservita de la atestila aŭtoritato, kaj povus esti uzata por legi vian ĉifritan retpoŝton aŭ ĉifritajn dokumentojn sen via permeso.">
-<!ENTITY examineCert.label "Vidi atestilon">
-<!ENTITY examineCert.accesskey "V">
 
 <!-- Strings for the CreateCertInfo dialog  -->
 <!ENTITY createCertInfo.title "Kreado de privata ŝlosilo">
