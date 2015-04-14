@@ -42,7 +42,7 @@
 <!ENTITY url_bar_default_text2 "Keresés vagy cím">
 
 <!ENTITY bookmark "Könyvjelző">
-
+<!ENTITY bookmark_remove "Könyvjelző eltávolítása">
 <!ENTITY bookmark_added "Könyvjelző hozzáadva">
 <!ENTITY bookmark_removed "Könyvjelző törölve">
 <!ENTITY bookmark_updated "Könyvjelző frissítve">
@@ -80,7 +80,7 @@
 <!ENTITY pref_category_advanced "Speciális">
 <!ENTITY pref_category_customize "Testreszabás">
 <!ENTITY pref_category_customize_summary "Kezdőlap, keresés, lapok, importálás">
-
+<!ENTITY pref_category_customize_alt_summary "Kezdőoldal, keresés, lapok, megnyitás később, importálás">
 <!-- Localization note (pref_category_language) : This is the preferences
      section in which the user picks the locale in which to display Firefox
      UI. The locale includes both language and region concepts. -->
@@ -119,12 +119,14 @@
 <!-- Localization note (overlay_no_synced_devices) : Used when the menu option
      to send a tab to a synced device is pressed and no other synced devices
      are found. -->
+<!ENTITY overlay_no_synced_devices "Nem található Firefox fiókhoz csatlakoztatott eszköz">
 <!-- Localization note (overlay_share_tab_not_sent) : Used when the menu option
      to send a tab to a synced device is pressed and there is an error
      connecting to the server so the tab could not be sent. The text should be
      divided into two lines (use the newline escape character, "\n", between
      them): the first notifying the user about the failure and the second
      telling the user what to do about it. -->
+<!ENTITY overlay_share_tab_not_sent "A lap nem küldhető el.\nPróbálja újra később.">
 
 <!ENTITY pref_category_search3 "Keresés">
 <!ENTITY pref_category_search_summary "Keresőszolgáltatások beállítása">
@@ -151,9 +153,9 @@
 <!ENTITY pref_category_devtools_summary "Távoli hibakeresés, kirajzolás jelzése">
 <!ENTITY pref_developer_paint_flashing "Rajzolás villogása">
 <!ENTITY pref_developer_remotedebugging "Távoli hibakeresés">
-
+<!ENTITY pref_category_logins "Bejelentkezések">
 <!ENTITY pref_remember_signons "Jelszavak megjegyzése">
-
+<!ENTITY pref_manage_logins "Bejelentkezések kezelése">
 
 <!ENTITY pref_category_home "Home">
 <!ENTITY pref_category_home_summary "Kezdőlap testreszabása">
@@ -190,17 +192,22 @@
 <!ENTITY pref_donottrack_title "Ne kövessenek">
 <!ENTITY pref_donottrack_summary "A &brandShortName; közli a webhelyekkel, hogy Ön nem szeretné, ha követnék">
 
-
+<!ENTITY tab_queue_toast_message "Megnyitás később">
+<!ENTITY tab_queue_toast_action "Megnyitás most">
 <!-- Localization note (tab_queue_notification_text_plural) : The
      formatD is replaced with the number of tabs queued.  The
      number of tabs queued is always more than one.  We can't use
      Android plural forms, sadly. See Bug #753859. -->
+<!ENTITY tab_queue_notification_text_plural "&formatD; lap sorba állítva">
 <!-- Localization note (tab_queue_notification_title_plural) : This is the
      title of a notification; we expect more than one tab queued. -->
+<!ENTITY tab_queue_notification_title_plural "Lapok sorbaállítva">
 <!-- Localization note (tab_queue_notification_title_singular) : This is the
      title of a notification; we expect only one tab queued. -->
+<!ENTITY tab_queue_notification_title_singular "Lap sorbaállítva">
 <!-- Localization note (tab_queue_notification_text_singular) : This is the
      text of a notification; we expect only one tab queued. -->
+<!ENTITY tab_queue_notification_text_singular "1 lap sorbaállítva">
 
 <!ENTITY pref_char_encoding "Karakterkódolás">
 <!ENTITY pref_char_encoding_on "Menü megjelenítése">
@@ -296,7 +303,7 @@ size. -->
      (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
 <!ENTITY datareporting_crashreporter_title_short "Hibajelentő">
 <!ENTITY datareporting_wifi_title2 "&vendorShortName; földrajzihely-szolgáltatás">
-
+<!ENTITY datareporting_wifi_geolocation_summary4 "Segítsen a &vendorShortName;nak feltérképezni a világot! A készülék hozzávetőleges Wi-Fi és mobilhálózati helyének megosztásával hozzájárulhat a helymeghatározási szolgáltatásunk fejlesztéséhez">
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
      actual notification that an update is available. -->
@@ -311,7 +318,7 @@ size. -->
 <!ENTITY quit "Kilépés">
 
 <!ENTITY addons "Kiegészítők">
-
+<!ENTITY logins "Bejelentkezések">
 <!ENTITY downloads "Letöltések">
 <!ENTITY apps "Alkalmazások">
 <!ENTITY char_encoding "Karakterkódolás">
@@ -368,9 +375,11 @@ size. -->
      where normally a username would be displayed. In this case, no username was found, and this placeholder
      contains brackets to indicate this is not actually a username, but rather a placeholder -->
 
+<!ENTITY doorhanger_login_no_username "[Nincs felhasználónév]">
+<!ENTITY doorhanger_login_edit_title "Bejelentkezés szerkesztése">
 <!ENTITY doorhanger_login_edit_username_hint "Felhasználónév">
-
-
+<!ENTITY doorhanger_login_edit_password_hint "Jelszó">
+<!ENTITY doorhanger_login_edit_toggle "Jelszó megjelenítése">
 
 <!ENTITY pref_titlebar_mode "Címsor">
 <!ENTITY pref_titlebar_mode_title "Oldalcím megjelenítése">
@@ -381,7 +390,8 @@ size. -->
 <!ENTITY pref_scroll_title_bar2 "Teljes képernyős böngészés">
 <!ENTITY pref_scroll_title_bar_summary "A &brandShortName; címsorának elrejtése oldal legörgetésekor">
 
-
+<!ENTITY pref_tab_queue_title "Megnyitás később">
+<!ENTITY pref_tab_queue_summary "Lapok azonnali megnyílásának megakadályozása, de minden sorbaállított lap megnyitása a &brandShortName; következő betöltésekor.">
 <!-- Localization note (page_removed): This string appears in a toast message when
      any page is removed frome about:home. This includes pages that are in history,
      bookmarks, or reading list. -->
@@ -419,7 +429,7 @@ size. -->
 
 <!ENTITY masterpassword_create_title "Mesterjelszó létrehozása">
 <!ENTITY masterpassword_remove_title "Mesterjelszó törlése">
-
+<!ENTITY masterpassword_password "Jelszó">
 <!ENTITY masterpassword_confirm "Jelszó megerősítése">
 
 <!ENTITY button_ok "OK">
@@ -429,7 +439,7 @@ size. -->
 <!ENTITY button_clear_data "Adatok törlése">
 <!ENTITY button_set "Beállítás">
 <!ENTITY button_clear "Törlés">
-
+<!ENTITY button_remember "Megjegyzés">
 
 <!ENTITY home_top_sites_title "Népszerű">
 <!-- Localization note (home_top_sites_add): This string is used as placeholder
