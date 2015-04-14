@@ -25,10 +25,10 @@
 <!ENTITY community.exp.start        "">
 <!-- LOCALIZATION NOTE (community.exp.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
 <!ENTITY community.exp.mozillaLink  "&vendorShortName;">
-<!ENTITY community.exp.middle       " es una ">
+
 <!-- LOCALIZATION NOTE (community.exp.creditslink): This is a link title that links to about:credits. -->
-<!ENTITY community.exp.creditsLink  "comunidad global">
-<!ENTITY community.exp.end          " trabajando juntos para mantener la web abierta, pública y accesible para todos.">
+<!ENTITY community.exp.creditsLink  "global community">
+<!ENTITY community.exp.end          " working together to keep the Web open, public and accessible to all.">
 
 <!ENTITY community.start2           "&brandShortName; es diseñado por ">
 <!-- LOCALIZATION NOTE (community.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
