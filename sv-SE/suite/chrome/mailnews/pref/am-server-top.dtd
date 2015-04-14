@@ -73,7 +73,7 @@
 <!ENTITY abbreviateOn.label "Hela namnet (t.ex. 'netscape.public.mozilla.mail-news')">
 <!ENTITY abbreviateOff.label "Förkortat namn (t.ex. 'n.p.m.mail-news')">
 <!ENTITY advancedButton.label "Avancerat…">
-<!ENTITY serverDefaultCharset.label "Förinställd teckenkodning:">
+<!ENTITY serverDefaultCharset2.label "Förinställd teckenkodning:">
 <!ENTITY advancedButton.accesskey "c">
 <!ENTITY localFolderPicker.label "Välj lokal mapp">
 <!ENTITY browseFolder.label "Välj…">
@@ -86,5 +86,5 @@
 <!ENTITY accountSettingsDesc.label "Kontot nedan är ett specialkonto. Inga identiteter har associerats med det.">
 <!ENTITY storeType.label "Meddelandelagring:">
 <!ENTITY storeType.accesskey "M">
-<!ENTITY mboxStore.label "En stor fil (mbox)">
+<!ENTITY mboxStore2.label "En fil per mapp (mbox)">
 <!ENTITY maildirStore.label "En fil per meddelande (maildir)">
