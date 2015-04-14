@@ -55,7 +55,7 @@
 <!ENTITY profilerUI.table.selfDuration2   "自己的時間">
 <!ENTITY profilerUI.table.totalPercentage "總成本">
 <!ENTITY profilerUI.table.selfPercentage  "自己的成本">
-<!ENTITY profilerUI.table.samples         "範本">
+<!ENTITY profilerUI.table.samples         "取樣數">
 <!ENTITY profilerUI.table.function        "函數">
 <!ENTITY profilerUI.table.totalAlloc1       "總取樣到的配置數">
 <!ENTITY profilerUI.table.totalAllocTooltip "在此位置被呼叫項目取樣到的總配置數。">
