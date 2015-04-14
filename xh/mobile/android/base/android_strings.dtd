@@ -354,20 +354,20 @@ size. -->
 <!ENTITY media_sending_to "Thumela kwidivayisi">
 <!ENTITY media_play "Dlala">
 <!ENTITY media_pause "Nqumama">
-
+<!ENTITY media_stop "Yeka">
 
 <!ENTITY contextmenu_open_new_tab "Vula Kwisilungelelanisi Semigca Esitsha">
 <!ENTITY contextmenu_open_private_tab "Vula kwithebhu yangasese">
-
+<!ENTITY contextmenu_remove "Susa">
 <!ENTITY contextmenu_add_to_launcher "Yongeza kwiSkrini sasekhaya">
-
+<!ENTITY contextmenu_share "Yabelana">
 <!ENTITY contextmenu_pasteandgo "Ncamathisela &amp; uhambe">
 <!ENTITY contextmenu_paste "Ncamathelisa">
 <!ENTITY contextmenu_copyurl "Kopa iDilesi">
 <!ENTITY contextmenu_edit_bookmark "Hlela">
 <!ENTITY contextmenu_subscribe "Rhumela Kwiphepha">
 <!ENTITY contextmenu_site_settings "Hlela Iisetingi Zesayithi">
-
+<!ENTITY contextmenu_top_sites_edit "Hlela">
 <!ENTITY contextmenu_top_sites_pin "Qhobosha isayithi">
 <!ENTITY contextmenu_top_sites_unpin "Khulula isayithi">
 <!ENTITY contextmenu_add_search_engine "Yongeza injini yokukhangela">
@@ -375,9 +375,11 @@ size. -->
      where normally a username would be displayed. In this case, no username was found, and this placeholder
      contains brackets to indicate this is not actually a username, but rather a placeholder -->
 
+<!ENTITY doorhanger_login_no_username "[Alikho igama lomsebenzisi]">
+<!ENTITY doorhanger_login_edit_title "Hlela ukungena ekhompyutheni">
 <!ENTITY doorhanger_login_edit_username_hint "Igama lomsebenzisi">
-
-
+<!ENTITY doorhanger_login_edit_password_hint "I-Password">
+<!ENTITY doorhanger_login_edit_toggle "Bonisa i-password">
 
 <!ENTITY pref_titlebar_mode "Ibha yesihloko">
 <!ENTITY pref_titlebar_mode_title "Bonisa umxholo wephepha">
@@ -388,6 +390,7 @@ size. -->
 <!ENTITY pref_scroll_title_bar2 "Ukubhrawuza iskrini esipheleleyo">
 <!ENTITY pref_scroll_title_bar_summary "Fihla i-&brandShortName; umgca wesihloko xa usihlisa iphepha">
 
+<!ENTITY pref_tab_queue_title "Vula ngelinye ixesha">
 <!ENTITY pref_tab_queue_summary "Thintela ii-tabs ekubeni zivule ngokukhawuleza, kodwa vula zonke ii-tabs ezikrozisiweyo kwixesha elizayo&brandShortName; imithwalo.">
 <!-- Localization note (page_removed): This string appears in a toast message when
      any page is removed frome about:home. This includes pages that are in history,
