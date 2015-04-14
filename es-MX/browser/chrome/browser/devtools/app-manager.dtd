@@ -36,9 +36,9 @@
 <!ENTITY device.permissionsHelpLink "https://developer.mozilla.org/docs/Web/Apps/App_permissions">
 <!ENTITY device.browserTabs "Pestañas del navegador">
 <!ENTITY device.browserTabsTooltip "Ver una lista de pestañas en el navegador del dispositivo conectado">
-
+<!ENTITY device.debugBrowserTab "Depurar">
 <!ENTITY device.debugBrowserTabTooltip "Abrir las herramientas de desarrolladores conectadas a esta pestaña del navegador en el dispositivo">
-
+<!ENTITY device.help "Ayuda">
 
 <!ENTITY connection.connectTooltip "Conectar al dispositivo">
 <!ENTITY connection.disconnect "Desconectar">
@@ -66,19 +66,19 @@
 <!ENTITY connection.startRegisteredSimulator "Inicio:">
 
 <!ENTITY projects.localApps "Aplicaciones locales">
-
+<!ENTITY projects.addApp "Agregar">
 <!ENTITY projects.addPackaged "Agregar aplicaciones empaquetadas">
 <!ENTITY projects.addPackagedTooltip "Agregar nuevas aplicaciones empaquetadas (un directorio) de tu computadora">
 <!ENTITY projects.addHosted "Agregar aplicación alojada">
 <!ENTITY projects.addHostedTooltip "Agregar una nueva aplicación alojada (enlace al archivo manifest.webapp) de un sitio web remoto">
-
+<!ENTITY projects.title "Aplicaciones locales">
 <!ENTITY projects.appDetails "Detalles de la aplicación">
 <!ENTITY projects.removeAppFromList "Remover esta aplicacion de la lista de aplicaciones que estás trabajando. Esto no la removerá del dispositivo o el simulador.">
 <!ENTITY projects.updateApp "Actualizar">
 <!ENTITY projects.updateAppTooltip "Ejecutar chequeos de validación y actualización de la aplicación conectada al dispositivo">
-
+<!ENTITY projects.debugApp "Depurar">
 <!ENTITY projects.debugAppTooltip "Abrir herramientas del desarrollador conectado a esta aplicación">
-
+<!ENTITY projects.saveManifest "Guardar">
 <!ENTITY projects.saveManifestTooltip "Guardar el contenido del Editor de Manifiesto de abajo">
 <!ENTITY projects.hostedManifestPlaceHolder2 "http://example.com/app/manifest.webapp">
 <!ENTITY projects.noProjects "No hay proyectos. Añade una nueva aplicación empaquetada (directorio local) más abajo o una aplicación alojada (enlace a un archivo manifest).">
@@ -92,6 +92,7 @@
 <!ENTITY projects.hosted "Alojado">
 <!ENTITY projects.packaged "Empaquetado">
 
+<!ENTITY help.title "Gestor de aplicaciones">
 <!ENTITY help.close "Cerrar">
 <!ENTITY help.intro "Esta herramienta te ayudará a crear e instalar aplicaciones web en dispositivos compatibles (p. ej. Firefox OS). Las pestañas de <strong>aplicaciones</strong> te ayudarán en la validación e instalación de tu aplicación. La pestaña del <strong>dispositivo</strong> te dará información acerca del dispositivo conectado. Usa la barra de herramientas inferior para conectar el dispositivo o iniciar el simulador.">
 <!ENTITY help.usefullLinks "Enlaces de interés:">
