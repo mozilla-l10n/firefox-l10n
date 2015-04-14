@@ -69,7 +69,7 @@
      We can't use android plural forms, sadly. See bug #753859. -->
 <!ENTITY num_tabs2 "&formatD; kartica">
 <!ENTITY new_tab_opened "Nova kartica otvorena">
-<!ENTITY new_private_tab_opened "Novi privatni prozor otvoren">
+<!ENTITY new_private_tab_opened "Nova privatna kartica otvorena">
 <!-- Localization note (switch_button_message): This string should be as short
      as possible because it's shown as a label in a toast.  Ideally, this string
      is upper-case, to match Google and Android's convention. -->
@@ -440,28 +440,36 @@ size. -->
 
 <!ENTITY home_title "&brandShortName; početna stranica">
 <!ENTITY home_history_title "Povijest">
-
-
+<!ENTITY home_clear_history_button "Očisti povijest pregleda stranica">
+<!ENTITY home_clear_history_confirm "Jeste li sigurni da želite očistiti povijest?">
 <!ENTITY home_bookmarks_empty "Zabilješke koje spremite se pojave ovdje.">
-
+<!ENTITY home_closed_tabs_title "Nedavno zatvorene kartice">
 <!ENTITY home_last_tabs_title "Kartice od zadnji puta">
 <!ENTITY home_last_tabs_empty "Nedavno korištene kartice se pojave ovdje.">
-
-
+<!ENTITY home_open_all "Otvori sve">
+<!ENTITY home_most_recent_empty "Ovdje se pojavljuju web stranice koje ste zadnje posjetili.">
 <!-- Localization note (home_most_recent_emptyhint2): "Psst" is a sound that might be used to attract someone's attention unobtrusively, and intended to hint at Private Browsing to the user.
      The placeholders &formatS1; and &formatS2; are used to mark the location of text underlining. -->
-
+<!ENTITY home_most_recent_emptyhint2 "Šššš: korištenjem &formatS1;Nove privatne kartice&formatS2; neće se spremati vaša povijest.">
+<!ENTITY home_reading_list_empty "Članci koje spremite za kasnije će se pojaviti ovdje.">
 <!-- Localization note (home_reading_list_hint): The "TIP" string is synonymous to "hint", "clue", etc. This string is displayed
      as an advisory message on how to add content to the reading list when the reading list empty.
      The placeholder &formatI; will be replaced by a small image of the icon described, and can be moved to wherever
      it is applicable. -->
+<!ENTITY home_reading_list_hint2 "SAVJET: Spremite članke u popis za čitanje tako da dugo pritisnete &formatI; ikonu kada se pojavi u naslovnoj traci.">
 <!-- Localization note (home_reading_list_hint_accessible): This string is used
      as alternate text for accessibility. It is not visible in the UI. -->
+<!ENTITY home_reading_list_hint_accessible "SAVJET: Spremite članke u popis za čitanje tako da dugo pritisnete tipku načina čitanja kada se pojavi u naslovnoj traci.">
 <!-- Localization note (home_default_empty): This string is used as the default text when there
      is no data to show in an about:home panel that was created by an add-on. -->
+
+<!ENTITY home_default_empty "Sadržaj nije pronađen za onaj panel.">
 <!-- Localization note (home_move_up_to_filter): The variable is replaced by the name of the
      previous location in the navigation, such as the previous folder -->
 
+<!ENTITY home_move_up_to_filter "Gore na &formatS;">
+
+<!ENTITY home_remote_tabs_title "Sinkronizirane kartice">
 
 <!ENTITY home_remote_tabs_unable_to_connect "Povezivanje nije moguće">
 
@@ -484,11 +492,15 @@ size. -->
 
 
 
+<!ENTITY pin_site_dialog_hint "Unesite pojam za pretraživanje">
 
-
-
-
+<!ENTITY filepicker_title "Odaberi datoteku">
+<!ENTITY filepicker_audio_title "Odaberite ili snimite zvuk">
+<!ENTITY filepicker_image_title "Odaberite ili snimite sliku">
+<!ENTITY filepicker_video_title "Odaberite ili snimite video">
 <!-- Site identity popup -->
+
+<!ENTITY identity_connected_to "Povezani ste na">
 <!-- Localization note (identity_run_by) : This string appears between a
 domain name (above) and an organization name (below). E.g.
 
@@ -500,12 +512,17 @@ The layout of the identity dialog prevents combining this into a single string w
 substitution variables.  If it is difficult to translate the sense of the string
 with that structure, consider a translation which ignores the preceding domain and
 just addresses the organization to follow, e.g. "This site is run by " -->
-
-
+<!ENTITY identity_run_by "u vlasništvu">
+<!ENTITY identity_no_info "Ova stranica ne pruža informacije o identitetu.">
+<!ENTITY identity_not_encrypted "Vaša veza prema ovoj stranici nije kriptirana.">
 <!-- Mixed content notifications in site identity popup -->
 
-
+<!ENTITY loaded_mixed_content_message "Ova stranica prikazuje sadržaj koji nije siguran.">
+<!ENTITY blocked_mixed_content_message_top "&brandShortName; je blokirao nesiguran sadržaj.">
+<!ENTITY blocked_mixed_content_message_bottom "Većina web stranica će nastaviti ispravno raditi čak i ako je ova vrsta sadržaja blokirana.">
 <!-- Tracking content notifications in site identity popup -->
+
+<!ENTITY loaded_tracking_content_message_top "Zaštita od praćenja je onemogućena.">
 
 
 
