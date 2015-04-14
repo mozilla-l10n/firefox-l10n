@@ -133,16 +133,16 @@
 <!ENTITY pref_category_display "Prikaz">
 <!ENTITY pref_category_display_summary "Tekst, naslovna traka, pregledavanje preko cijelog ekrana">
 <!ENTITY pref_category_privacy_short "Privatnost">
-
+<!ENTITY pref_category_privacy_summary "Upravljanje lozinkama, kolačićima, praćenjem, podacima">
 <!ENTITY pref_category_vendor "&vendorShortName;">
-
+<!ENTITY pref_category_vendor_summary "O &brandShortName;, često postavljana pitanja, odabiri podataka">
 <!ENTITY pref_category_datareporting "Izbori podataka">
 <!ENTITY pref_learn_more "Saznajte više">
 <!ENTITY pref_category_installed_search_engines "Instalirani pretraživači interneta">
 <!ENTITY pref_category_add_search_providers "Dodajte više pretraživača interneta">
 <!ENTITY pref_category_search_restore_defaults "Obnovi pretraživače interneta">
 <!ENTITY pref_search_restore_defaults "Obnovi zadane postavke">
-
+<!ENTITY pref_search_restore_defaults_summary "Obnovi zadane postavke">
 <!-- Localization note (pref_search_hint) : "TIP" as in "hint", "clue" etc. Displayed as an
      advisory message on the customise search providers settings page explaining how to add new
      search providers.
@@ -150,12 +150,12 @@
      it is applicable. -->
 <!ENTITY pref_search_hint "SAVJET: Dodajte bilo koju stranicu na popis pretraživača interneta tako da dugo pritisnete na polje za pretraživanje i onda pritisnete &formatI; ikonu.">
 <!ENTITY pref_category_devtools "Alati za razvijatelje">
-
-
+<!ENTITY pref_category_devtools_summary "Udaljeno uklanjanje grešaka, treperenje boje">
+<!ENTITY pref_developer_paint_flashing "Treperenje boje">
 <!ENTITY pref_developer_remotedebugging "Udaljeno otklanjanje grešaka">
-
+<!ENTITY pref_category_logins "Prijave">
 <!ENTITY pref_remember_signons "Zapamti lozinke">
-
+<!ENTITY pref_manage_logins "Upravljanje prijavama">
 
 <!ENTITY pref_category_home "Početak">
 <!ENTITY pref_category_home_summary "Prilagodite početnu stranicu">
@@ -174,45 +174,53 @@
 <!ENTITY pref_home_suggested_sites_summary "Na početnoj stranici prikaži poveznice na stranice koje mislimo da će vam biti interesantne">
 <!-- Localization note: These are shown in the left sidebar on tablets -->
 
-
+<!ENTITY pref_header_customize "Prilagodi">
+<!ENTITY pref_header_display "Prikaz">
+<!ENTITY pref_header_privacy_short "Privatnost">
 <!ENTITY pref_header_help "Pomoć">
-
-
-
+<!ENTITY pref_header_language "Jezik">
+<!ENTITY pref_header_vendor "&vendorShortName;">
+<!ENTITY pref_header_devtools "Alati za razvijatelje">
 
 <!ENTITY pref_cookies_menu "Kolačići">
-
+<!ENTITY pref_cookies_accept_all "Omogućeno">
 <!ENTITY pref_cookies_not_accept_foreign "Omogućeno, isključujući treće strane">
 <!ENTITY pref_cookies_disabled "Onemogućeno">
 
+<!ENTITY pref_tracking_protection_title "Zaštita od praćenja">
+<!ENTITY pref_tracking_protection_summary "&brandShortName; će spriječiti stranice da vas prate">
+<!ENTITY pref_donottrack_title "Ne prati me">
+<!ENTITY pref_donottrack_summary "&brandShortName; će reći stranicama da ne želite biti praćeni">
 
-
-
-
-
+<!ENTITY tab_queue_toast_message "Otvori kasnije">
+<!ENTITY tab_queue_toast_action "Otvori sada">
 <!-- Localization note (tab_queue_notification_text_plural) : The
      formatD is replaced with the number of tabs queued.  The
      number of tabs queued is always more than one.  We can't use
      Android plural forms, sadly. See Bug #753859. -->
+<!ENTITY tab_queue_notification_text_plural "&formatD; kartica na čekanju">
 <!-- Localization note (tab_queue_notification_title_plural) : This is the
      title of a notification; we expect more than one tab queued. -->
+<!ENTITY tab_queue_notification_title_plural "Kartice na čekanju">
 <!-- Localization note (tab_queue_notification_title_singular) : This is the
      title of a notification; we expect only one tab queued. -->
+<!ENTITY tab_queue_notification_title_singular "Kartica na čekanju">
 <!-- Localization note (tab_queue_notification_text_singular) : This is the
      text of a notification; we expect only one tab queued. -->
+<!ENTITY tab_queue_notification_text_singular "1 kartica na čekanju">
 
 <!ENTITY pref_char_encoding "Kodna stranica">
 <!ENTITY pref_char_encoding_on "Prikaži izbornik">
 <!ENTITY pref_char_encoding_off "Ne prikazuj izbornik">
-
+<!ENTITY pref_clear_private_data2 "Očisti sad">
 <!ENTITY pref_clear_private_data_category "Očisti privatne podatke">
-
-
-
+<!ENTITY pref_clear_on_exit_title2 "Očisti prilikom zatvaranja">
+<!ENTITY pref_clear_on_exit_summary2 "&brandShortName; će automatski očistiti vaše podatke svaki puta kada odaberete \u0022Izlaz\u0022 u glavnom izborniku">
+<!ENTITY pref_clear_on_exit_dialog_title "Odaberite koje podatke očistiti">
 <!ENTITY pref_plugins "Priključci">
-
+<!ENTITY pref_plugins_enabled "Omogućeno">
 <!ENTITY pref_plugins_tap_to_play "Dotakni za pokretanje">
-
+<!ENTITY pref_plugins_disabled "Onemogućeno">
 <!ENTITY pref_text_size "Veličina teksta">
 
 <!ENTITY pref_restore "Kartice">
@@ -301,11 +309,13 @@ size. -->
 <!ENTITY pref_update_autodownload_always "Uvijek">
 <!-- Localization note (help_menu) : This string is used in the main menu-->
 
+<!ENTITY help_menu "Pomoć">
+
 <!ENTITY quit "Izlaz">
 
 <!ENTITY addons "Dodaci">
-
-
+<!ENTITY logins "Prijave">
+<!ENTITY downloads "Preuzimanja">
 <!ENTITY apps "Aplikacije">
 <!ENTITY char_encoding "Kodna stranica">
 
@@ -320,36 +330,40 @@ size. -->
 <!ENTITY new_tab "Nova kartica">
 <!ENTITY new_private_tab "Nova privatna kartica">
 <!ENTITY close_all_tabs "Zatvori sve kartice">
-
-
+<!ENTITY close_private_tabs "Zatvori privatne kartice">
+<!ENTITY tabs_normal "Kartice">
 <!ENTITY tabs_private "Privatno">
 <!ENTITY tabs_synced "Sinkronizirano">
 <!ENTITY set_image_fail "Nije moguće postaviti sliku">
-
+<!ENTITY set_image_path_fail "Nije moguće spremiti sliku">
 <!ENTITY set_image_chooser_title "Postavi sliku kao">
 <!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
+
+<!ENTITY find_text "Pronađi na stranici">
 <!ENTITY find_prev "Prethodni">
 <!ENTITY find_next "Sljedeći">
-
+<!ENTITY find_close "Zatvori">
 <!-- Localization note (media_sending_to, media_play, media_pause, media_stop) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
+
+<!ENTITY media_sending_to "Slanje na uređaj">
 <!ENTITY media_play "Pokreni">
 <!ENTITY media_pause "Pauziraj">
-
+<!ENTITY media_stop "Zaustavi">
 
 <!ENTITY contextmenu_open_new_tab "Otvori u novoj kartici">
 <!ENTITY contextmenu_open_private_tab "Otvori u privatnoj kartici">
-
+<!ENTITY contextmenu_remove "Ukloni">
 <!ENTITY contextmenu_add_to_launcher "Dodaj na početni ekran">
-
+<!ENTITY contextmenu_share "Dijeli">
 <!ENTITY contextmenu_pasteandgo "Zalijepi i kreni">
 <!ENTITY contextmenu_paste "Zalijepi">
 <!ENTITY contextmenu_copyurl "Kopiraj adresu">
 <!ENTITY contextmenu_edit_bookmark "Uredi">
 <!ENTITY contextmenu_subscribe "Pretplati se na stranicu">
 <!ENTITY contextmenu_site_settings "Uredi postavke stranice">
-
+<!ENTITY contextmenu_top_sites_edit "Uredi">
 <!ENTITY contextmenu_top_sites_pin "Prikači stranicu">
 <!ENTITY contextmenu_top_sites_unpin "Otkači stranicu">
 <!ENTITY contextmenu_add_search_engine "Dodaj pretraživač interneta">
@@ -357,6 +371,8 @@ size. -->
      where normally a username would be displayed. In this case, no username was found, and this placeholder
      contains brackets to indicate this is not actually a username, but rather a placeholder -->
 
+<!ENTITY doorhanger_login_no_username "[Nema korisničkog imena]">
+<!ENTITY doorhanger_login_edit_title "Uredi prijavu">
 <!ENTITY doorhanger_login_edit_username_hint "Korisničko ime">
 
 
@@ -422,6 +438,8 @@ size. -->
 <!-- Localization note (home_title): This string should be kept in sync
      with the page title defined in aboutHome.dtd -->
 
+<!ENTITY home_title "&brandShortName; početna stranica">
+<!ENTITY home_history_title "Povijest">
 
 
 <!ENTITY home_bookmarks_empty "Zabilješke koje spremite se pojave ovdje.">
