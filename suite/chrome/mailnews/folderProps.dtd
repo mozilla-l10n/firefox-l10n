@@ -5,10 +5,10 @@
 <!ENTITY folderProps.windowtitle.label  "Egenskaper">
 
 <!ENTITY generalInfo.label            "Allmän information">
-<!ENTITY folderCharsetFallback.label             "Reservteckenkodning:">
-<!ENTITY folderCharsetFallback.accesskey         "t">
-<!ENTITY folderCharsetEnforce.label              "Tillämpa teckenkodningen på alla mappens meddelanden (individuella teckenkodningsinställningar och automatisk avkänning ignoreras)">
-<!ENTITY folderCharsetEnforce.accesskey          "a">
+<!ENTITY folderCharsetFallback2.label             "Reservteckenkodning:">
+<!ENTITY folderCharsetFallback2.accesskey         "t">
+<!ENTITY folderCharsetEnforce2.label              "Tillämpa teckenkodningen på alla mappens meddelanden (individuella teckenkodningsinställningar och automatisk avkänning ignoreras)">
+<!ENTITY folderCharsetEnforce2.accesskey          "a">
 <!ENTITY folderRebuildSummaryFileTip2.label      "Generera sammanställningsfilen på nytt">
 <!ENTITY folderRebuildSummaryFile2.label         "Reparera mapp">
 <!ENTITY folderRebuildSummaryFile2.accesskey     "R">
