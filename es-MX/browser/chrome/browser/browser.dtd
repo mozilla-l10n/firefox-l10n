@@ -597,7 +597,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fullZoomResetCmd.label         "Inicial">
 <!ENTITY fullZoomResetCmd.accesskey     "I">
 <!ENTITY fullZoomResetCmd.commandkey    "0">
-<!ENTITY fullZoomResetCmd.commandkey2   "">
+<!ENTITY fullZoomResetCmd.commandkey2   "0">
 
 <!ENTITY fullZoomToggleCmd.label        "Solo cambiar texto">
 <!ENTITY fullZoomToggleCmd.accesskey    "S">
@@ -739,9 +739,9 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY customizeMode.lwthemes.myThemes "Mis temas">
 <!ENTITY customizeMode.lwthemes.recommended "Recomendados">
 <!ENTITY customizeMode.lwthemes.menuManage "Administrar">
-<!ENTITY customizeMode.lwthemes.menuManage.accessKey "M">
+<!ENTITY customizeMode.lwthemes.menuManage.accessKey "A">
 <!ENTITY customizeMode.lwthemes.menuGetMore "Obtener más temas">
-<!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "G">
+<!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "O">
 <!ENTITY customizeMode.deveditionTheme.label2 "Usar el tema Developer Edition">
 
 <!ENTITY social.chatBar.commandkey "c">
@@ -774,7 +774,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY trackingContentBlocked.message "Rastreo">
 <!ENTITY trackingContentBlocked.moreinfo "Las partes de esta página que rastrean tu actividad en línea han sido bloqueadas.">
-<!ENTITY trackingContentBlocked.learnMore "Aprender más">
+<!ENTITY trackingContentBlocked.learnMore "Aprender más">
 <!ENTITY trackingContentBlocked.options "Opciones">
 <!ENTITY trackingContentBlocked.unblock2.label "Desactivar la protección para este sitio">
 <!ENTITY trackingContentBlocked.unblock2.accesskey "D">
