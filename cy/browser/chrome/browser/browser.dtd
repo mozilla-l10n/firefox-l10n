@@ -63,7 +63,7 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY openLocationCmd.label "Agor Lleoliad…">
 <!ENTITY openFileCmd.label "Agor Ffeil…">
 <!ENTITY openFileCmd.accesskey "F">
-<!ENTITY openFileCmd.commandkey "F">
+<!ENTITY openFileCmd.commandkey "o">
 <!ENTITY printSetupCmd.label "Gosodiad Tudalen…">
 <!ENTITY printSetupCmd.accesskey "o">
 <!ENTITY printPreviewCmd.label "Rhagolwg Argraffu">
@@ -140,7 +140,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksMenu.accesskey "T">
 <!ENTITY bookmarkThisPageCmd.label "Gosod Nod Tudalen i'r Dudalen">
 <!ENTITY editThisBookmarkCmd.label "Golygu'r Nod Tudalen">
-<!ENTITY bookmarkThisPageCmd.commandkey "o">
+<!ENTITY bookmarkThisPageCmd.commandkey "d">
 <!ENTITY markPageCmd.commandkey "l">
 <!-- LOCALIZATION NOTE (findShareServices.label):
   -  Use the unicode ellipsis char, \u2026,
@@ -651,7 +651,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY findOnCmd.commandkey "f">
 <!ENTITY findAgainCmd.label  "Canfod Eto">
 <!ENTITY findAgainCmd.accesskey "E">
-<!ENTITY findAgainCmd.commandkey "e">
+<!ENTITY findAgainCmd.commandkey "g">
 <!ENTITY findAgainCmd.commandkey2 "VK_F3">
 <!ENTITY findSelectionCmd.commandkey "a">
 
