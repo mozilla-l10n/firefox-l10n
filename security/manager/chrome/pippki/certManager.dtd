@@ -39,10 +39,6 @@
 <!ENTITY certmgr.editcert.trustssl            "Tiu ĉi atestilo povas identigi TTTajn retejojn.">
 <!ENTITY certmgr.editcert.trustemail          "Tiu ĉi atestilo povas identigi retpoŝtajn uzantojn.">
 <!ENTITY certmgr.editcert.trustobjsign        "Tiu ĉi atestilo povas identigi produktantojn de programoj.">
-<!ENTITY certmgr.editemailcert.title          "Modifi la fidajn agordojn de rerpoŝta atestilo">
-<!ENTITY certmgr.editemailcert.edittrust      "Modifi la fidajn agordojn de atestilo:">
-<!ENTITY certmgr.editemailcert.dotrust        "Fidi je la aŭtenteco de tiu ĉi atestilo.">
-<!ENTITY certmgr.editemailcert.donttrust      "Ne fidi je la aŭtenteco de tiu ĉi atestilo.">
 
 <!ENTITY certmgr.deletecert.title             "Forigi atestilon">
 
@@ -61,8 +57,6 @@
 <!ENTITY certmgr.view2.accesskey              "V">
 <!ENTITY certmgr.edit3.label                  "Edit Trust…">
 <!ENTITY certmgr.edit3.accesskey              "E">
-<!ENTITY certmgr.editca.label                 "Modifi fidon de CA">
-<!ENTITY certmgr.editca.accesskey             "o">
 <!ENTITY certmgr.export.label                 "Eksporti…">
 <!ENTITY certmgr.export.accesskey             "e">
 <!ENTITY certmgr.delete2.label                "Forviŝi…">

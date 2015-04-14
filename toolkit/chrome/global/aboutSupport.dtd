@@ -95,3 +95,6 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.copyRawDataToClipboard.label "Kopii krudajn datumojn al tondujo">
 
 <!ENTITY aboutSupport.sandboxTitle "Izolejo">
+
+<!ENTITY aboutSupport.safeModeTitle "Provi la sekuran reĝimon">
+<!ENTITY aboutSupport.restartInSafeMode.label "Restartigi kun ĉiuj aldonaĵoj malaktivaj…">

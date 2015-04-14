@@ -269,6 +269,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
   -  application menu item that opens the browser toolbox UI in the Tools menu. -->
 <!ENTITY browserToolboxMenu.label     "Ilarujo de retesplorilo">
 <!ENTITY browserToolboxMenu.accesskey "u">
+<!ENTITY browserToolboxCmd.commandkey "i">
 
 <!-- LOCALIZATION NOTE (browserContentToolboxMenu.label): This is the label for the
   -  application menu item that opens the browser content toolbox UI in the Tools menu.
@@ -741,7 +742,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY customizeMode.lwthemes.menuManage.accessKey "A">
 <!ENTITY customizeMode.lwthemes.menuGetMore "Ricevi pli da etosoj">
 <!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "R">
-<!ENTITY customizeMode.deveditionTheme.label2 "Uzi la etoson de la Developer Edition">
 
 <!ENTITY social.chatBar.commandkey "c">
 <!ENTITY social.chatBar.label "Elekti retbabilojn">
@@ -840,3 +840,19 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY emeLearnMoreContextMenu.label            "Pli da informo pri DRM…">
 <!ENTITY emeLearnMoreContextMenu.accesskey        "i">
+<!ENTITY emeNotificationsNotNow.label             "Ne nun">
+<!ENTITY emeNotificationsNotNow.accesskey         "N">
+<!ENTITY emeNotificationsDontAskAgain.label       "Ne demandi denove">
+<!ENTITY emeNotificationsDontAskAgain.accesskey   "d">
+
+<!ENTITY readingList.label                        "Legolisto">
+<!ENTITY readingList.sidebar.commandKey           "L">
+<!ENTITY readingList.showSidebar.label            "Montri flankan strion de legolisto">
+<!-- Pre-landed string for bug 1124153 -->
+<!ENTITY readingList.sidebar.showMore.label       "Montri pli…">
+<!-- Pre-landed string for bug 1133662 -->
+<!ENTITY readingList.sidebar.emptyText            "Aldoni artikolojn al via legolisto por havi ilin facile atingeblaj poste kiam vi ilin bezonos.">
+<!ENTITY readingList.sidebar.delete.tooltip       "Forigi tion ĉi el via legolisto">
+<!-- Pre-landed strings for bug 1123519 -->
+<!ENTITY readingList.sidebar.add.label            "Aldoni al legolisto">
+<!ENTITY readingList.sidebar.add.tooltip          "Aldoni tiun ĉi paĝon al via legolisto">
