@@ -70,7 +70,7 @@
 
 <!ENTITY sendDefaultCharset.label         "Mesaje trimise:">
 <!ENTITY sendDefaultCharset.accesskey     "M">
-
+<!ENTITY languagesTitle2.label            "Codare de text">
 
 
 <!ENTITY viewDefaultCharsetList.label     "Mesaje primite:">
