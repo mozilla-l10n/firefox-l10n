@@ -42,7 +42,7 @@
 <!ENTITY url_bar_default_text2 "தேடு/முகவரியை உள்ளிடு">
 
 <!ENTITY bookmark "புத்தகக்குறி">
-
+<!ENTITY bookmark_remove "புத்தகக்குறியை நீக்கு">
 <!ENTITY bookmark_added "புத்தகக்குறி சேர்க்கப்பட்டது">
 <!ENTITY bookmark_removed "புத்தகக்குறி நீக்கப்பட்டது">
 <!ENTITY bookmark_updated "புத்தகக்குறி புதுப்பிக்கப்பட்டது">
@@ -119,6 +119,7 @@
 <!-- Localization note (overlay_no_synced_devices) : Used when the menu option
      to send a tab to a synced device is pressed and no other synced devices
      are found. -->
+<!ENTITY overlay_no_synced_devices "Firefox கணக்குடன் இணைக்கப்பட்ட சாதனம் ஏதுமில்லை">
 <!-- Localization note (overlay_share_tab_not_sent) : Used when the menu option
      to send a tab to a synced device is pressed and there is an error
      connecting to the server so the tab could not be sent. The text should be
@@ -151,9 +152,9 @@
 <!ENTITY pref_category_devtools_summary "தொலைநிலை வழுநீக்கம், வண்ணப்பூச்சு அடித்தல்">
 <!ENTITY pref_developer_paint_flashing "பளிச்சிடும் வண்ணப்பூச்சு">
 <!ENTITY pref_developer_remotedebugging "தொலைநிலை பிழைதிருத்தம்">
-
+<!ENTITY pref_category_logins "உள்நுழைவுகள்">
 <!ENTITY pref_remember_signons "கடவுச்சொற்களை நினை">
-
+<!ENTITY pref_manage_logins "உள்நுழைவுகளை நிர்வகி">
 
 <!ENTITY pref_category_home "முகப்பு">
 <!ENTITY pref_category_home_summary "உங்களுன் முகப்பு பக்கத்தை தனிபயனாக்கு">
