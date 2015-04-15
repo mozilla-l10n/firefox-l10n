@@ -47,7 +47,7 @@
 <!ENTITY profilerUI.toolbar.js-calltree "ಜಾವಾಸ್ಕ್ರಿಪ್ಟ್‍">
 <!ENTITY profilerUI.toolbar.memory-calltree1 "ಹಂಚಿಕೆಗಳು">
 <!ENTITY profilerUI.toolbar.js-flamegraph "JS ಪ್ಲೇಮ್ ನಕ್ಷೆ">
-
+<!ENTITY profilerUI.toolbar.memory-flamegraph1 "ಫ್ಲೇಮ್ ನಕ್ಷೆ ಹಂಚಿಕೆಗಳು">
 <!-- LOCALIZATION NOTE (profilerUI.table.*): These strings are displayed
   -  in the call tree headers for a recording. -->
 
@@ -67,6 +67,8 @@
 <!ENTITY profilerUI.newtab.tooltiptext "ಆಯ್ಕೆಗಳನ್ನು ಉಪಯೋಗಿಸಿ ಹೊಸ ಹಾಳೆಯನ್ನು ಸೇರಿಸಿ">
 <!-- LOCALIZATION NOTE (profilerUI.toolbar.filter.tooltiptext): This string
   -  is displayed next to the filter button-->
+
+<!ENTITY profilerUI.options.filter.tooltiptext "ಟೈಮ್‌ಲೈನ್‌ನಲ್ಲಿ ಯಾವ ಡೇಟ ತೋರಿಸಬೇಕು ಆಯ್ಕೆಮಾಡಿ">
 <!-- LOCALIZATION NOTE (profilerUI.options.tooltiptext): This is the tooltip
   -  for the options button. -->
 
