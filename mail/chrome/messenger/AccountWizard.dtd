@@ -96,7 +96,7 @@
      these variables. Also, translate haveSmtp3.prefix and haveSmtp3.suffix3 as a single sentence, inserting
      text after the "&quot;" entity in haveSmtp3.suffix3, if required grammatically.
 -->
-<!ENTITY haveSmtp3.prefix "A kimenő (SMTP) kiszolgálója: „">
+<!ENTITY haveSmtp3.prefix "A levélküldő (SMTP) kiszolgálója: „">
 <!ENTITY haveSmtp3.suffix3 "” ugyanaz, mint a bejövő kiszolgálója, és a bejövő felhasználó neve lesz használva az eléréséhez. ">
 <!-- Entities for Account name page -->
 
