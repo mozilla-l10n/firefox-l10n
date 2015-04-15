@@ -145,6 +145,8 @@
 <!ENTITY netmonitorUI.summary.method      "ಮನವಿ ವಿಧಾನ:">
 <!-- LOCALIZATION NOTE (netmonitorUI.summary.address): This is the label displayed
   -  in the network details headers tab identifying the remote address. -->
+
+<!ENTITY netmonitorUI.summary.address     "ದೂರದ ವಿಳಾಸ:">
 <!-- LOCALIZATION NOTE (netmonitorUI.summary.status): This is the label displayed
   -  in the network details headers tab identifying the status code. -->
 
