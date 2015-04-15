@@ -70,10 +70,10 @@
 
 <!ENTITY sendDefaultCharset.label         "Kimenő levelek:">
 <!ENTITY sendDefaultCharset.accesskey     "K">
-
-
+<!ENTITY languagesTitle2.label            "Szövegkódolás">
+<!ENTITY composingDescription2.label      "A kimenő és bejövő levelek alapértelmezett karakterkódolása">
 
 <!ENTITY viewDefaultCharsetList.label     "Bejövő levelek:">
 <!ENTITY viewDefaultCharsetList.accesskey  "B">
-
-
+<!ENTITY replyInDefaultCharset3.label     "Ha lehet, az alapértelmezett karakterkódolás használata a válasznál">
+<!ENTITY replyInDefaultCharset3.accesskey "h">

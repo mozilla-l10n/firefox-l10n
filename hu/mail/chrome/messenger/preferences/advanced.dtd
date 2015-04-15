@@ -16,7 +16,7 @@
 <!ENTITY allowHWAccel.accesskey        "H">
 <!ENTITY storeType.label               "Üzenettároló és típus új fiókokhoz:">
 <!ENTITY storeType.accesskey           "T">
-
+<!ENTITY mboxStore2.label              "Egy fájl mappánként (mbox)">
 <!ENTITY maildirStore.label            "Egy fájl üzenetenként (maildir)">
 
 <!ENTITY scrolling.label               "Görgetés">
