@@ -93,7 +93,7 @@ că &brandShortName; are permisiunea de a accesa internetul.</li> 
 
 <!ENTITY redirectLoop.title "Pagina nu redirecționează corect">
 <!ENTITY redirectLoop.longDesc "<ul> 
-<li>Problema poate apărea dacă dezactivați sau refuzați să acceptați  
+<li>Problema poate apărea dacă dezactivați sau refuzați să acceptați 
 cookie-uri.</li> 
 </ul>">
 
