@@ -192,8 +192,8 @@
 <!ENTITY sortByFromCmd.accesskey "F">
 <!ENTITY sortByRecipientCmd.label "Címzett">
 <!ENTITY sortByRecipientCmd.accesskey "z">
-
-
+<!ENTITY sortByCorrespondentCmd.label "Szerkesztők">
+<!ENTITY sortByCorrespondentCmd.accesskey "z">
 <!ENTITY sortByUnreadCmd.label "Olvasott">
 <!ENTITY sortByUnreadCmd.accesskey "O">
 <!ENTITY sortByOrderReceivedCmd.label "Érkezési sorrend">
@@ -660,7 +660,7 @@
 <!ENTITY threadColumn.label "Témacsoport">
 <!ENTITY fromColumn.label "Feladó">
 <!ENTITY recipientColumn.label "Címzett">
-
+<!ENTITY correspondentColumn.label "Szerkesztők">
 <!ENTITY subjectColumn.label "Tárgy">
 <!ENTITY dateColumn.label "Dátum">
 <!ENTITY priorityColumn.label "Sürgősség">
@@ -683,7 +683,7 @@
 <!ENTITY threadColumn2.tooltip "Témacsoportok megjelenítése">
 <!ENTITY fromColumn2.tooltip "Rendezés feladó szerint">
 <!ENTITY recipientColumn2.tooltip "Rendezés címzett szerint">
-
+<!ENTITY correspondentColumn2.tooltip "Rendezés szerkesztők szerint">
 <!ENTITY subjectColumn2.tooltip "Rendezés tárgy szerint">
 <!ENTITY dateColumn2.tooltip "Rendezés dátum szerint">
 <!ENTITY priorityColumn2.tooltip "Rendezés sürgősség szerint">
