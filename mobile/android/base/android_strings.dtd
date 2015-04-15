@@ -240,17 +240,18 @@ size. -->
 <!-- Localization note (pref_font_size_preview_text): This paragraph is used as an example to
     demonstrate the font size setting.  It is meant to be whimsical and fun. -->
 
-
-
-
+<!ENTITY pref_media_autoplay_enabled "Dozvoli automatsku reprodukciju">
+<!ENTITY pref_media_autoplay_enabled_summary "Upravljajte da li web stranice mogu automatski reproducirati video i drugi medijski sadržaj">
+<!ENTITY pref_zoom_force_enabled "Uvijek omogući uvećanje">
+<!ENTITY pref_zoom_force_enabled_summary "Prisilno zaobiđi postavke tako da možete uvećati svaku stranicu">
 
 <!ENTITY pref_use_master_password "Koristi glavnu lozinku">
 <!ENTITY pref_sync "Sync">
-
+<!ENTITY pref_sync_summary "Sinkronizirajte svoje kartice, zabilješke, lozinke, povijest">
 <!ENTITY pref_search_suggestions "Prikaži prijedloge pretraživanja">
 <!ENTITY pref_import_android "Uvoz iz Androida">
-
-
+<!ENTITY pref_import_android_summary "Uvezi zabilješke i povijest s izvornog preglednika">
+<!ENTITY pref_private_data_history2 "Povijest pretraživanja">
 <!ENTITY pref_private_data_formdata "Povijest formi i traženja">
 <!ENTITY pref_private_data_cookies2 "Kolačići i aktivne prijave">
 <!ENTITY pref_private_data_passwords "Spremljene lozinke">
@@ -272,9 +273,9 @@ size. -->
 
 <!ENTITY pref_panels_show "Prikaži">
 <!ENTITY pref_panels_hide "Sakrij">
-
-
-
+<!ENTITY pref_panels_reorder "Izmijeni redosljed">
+<!ENTITY pref_panels_move_up "Pomakni gore">
+<!ENTITY pref_panels_move_down "Pomakni dolje">
 
 <!ENTITY datareporting_notification_title "&brandShortName; statistika i podaci">
 <!ENTITY datareporting_notification_action_long "Odaberite koje informacije ćete dijeliti">
@@ -298,13 +299,13 @@ size. -->
 <!-- Localization note (datareporting_crashreporter_title_short) : This string matches
      (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
 <!ENTITY datareporting_crashreporter_title_short "Izvjestitelj rušenja">
-
-
+<!ENTITY datareporting_wifi_title2 "&vendorShortName; lokacijske usluge">
+<!ENTITY datareporting_wifi_geolocation_summary4 "Pomozite &vendorShortName;i ucrtati svijet! Dijelite približnu Wi-Fi i mobilnu lokaciju svojeg uređaja kako biste poboljšali našu geolokacijsku uslugu.">
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
      actual notification that an update is available. -->
 <!ENTITY pref_update_autodownload2 "Automatski preuzmi nadogradnje">
-
+<!ENTITY pref_update_autodownload_wifi "Samo preko Wi-Fi">
 <!ENTITY pref_update_autodownload_never "Nikada">
 <!ENTITY pref_update_autodownload_always "Uvijek">
 <!-- Localization note (help_menu) : This string is used in the main menu-->
@@ -374,8 +375,8 @@ size. -->
 <!ENTITY doorhanger_login_no_username "[Nema korisničkog imena]">
 <!ENTITY doorhanger_login_edit_title "Uredi prijavu">
 <!ENTITY doorhanger_login_edit_username_hint "Korisničko ime">
-
-
+<!ENTITY doorhanger_login_edit_password_hint "Lozinka">
+<!ENTITY doorhanger_login_edit_toggle "Prikaži lozinku">
 
 <!ENTITY pref_titlebar_mode "Naslovna traka">
 <!ENTITY pref_titlebar_mode_title "Prikaži naslov stranice">
@@ -383,8 +384,11 @@ size. -->
 <!-- Localization note (pref_scroll_title_bar2): Label for setting that controls
      whether or not the dynamic toolbar is enabled. -->
 
+<!ENTITY pref_scroll_title_bar2 "Pregledavanje preko cijelog ekrana">
+<!ENTITY pref_scroll_title_bar_summary "Sakrij &brandShortName; naslovnu traku prilikom klizanja dolje po stranici">
 
-
+<!ENTITY pref_tab_queue_title "Otvori kasnije">
+<!ENTITY pref_tab_queue_summary "Spriječi kartice da se otvaraju odmah, ali otvori sve kartice na čekanju prilikom sljedećeg &brandShortName; učitavanja.">
 <!-- Localization note (page_removed): This string appears in a toast message when
      any page is removed frome about:home. This includes pages that are in history,
      bookmarks, or reading list. -->
@@ -399,7 +403,7 @@ size. -->
      dialog that appears after selecting the "Edit Site Settings" context menu item. -->
 
 <!ENTITY site_settings_title3       "Postavke stranice">
-
+<!ENTITY site_settings_cancel       "Odustani">
 <!ENTITY site_settings_clear        "Obriši">
 <!ENTITY site_settings_no_settings  "Nema postavki za obrisati.">
 
@@ -407,11 +411,14 @@ size. -->
 <!ENTITY reading_list_removed "Stranica uklonjena sa popisa za čitanje">
 <!-- Localization note (reading_list_remove) : Used to remove the currently open page from
      the user's reading list. The opposite of overlay_share_reading_list_btn_label. -->
+<!ENTITY reading_list_remove "Ukloni sa popisa za čitanje">
 <!ENTITY reading_list_duplicate "Stranica je već na popisu za čitanje">
 <!-- Localization note (reading_list_time_minutes2) : This string is used in the "Reading List"
      panel on the home page to give the user an estimate of how many minutes it will take to
      read an article. The word "minute" should be abbreviated if possible. -->
 
+<!ENTITY reading_list_time_minutes2 "&formatD; min">
+<!ENTITY reading_list_time_over_an_hour "Više od sata">
 <!-- Localization note : These strings are used as alternate text for accessibility.
      They are not visible in the UI. -->
 
@@ -419,16 +426,16 @@ size. -->
 
 <!ENTITY masterpassword_create_title "Stvorite glavnu lozinku">
 <!ENTITY masterpassword_remove_title "Uklonite glavnu lozinku">
-
+<!ENTITY masterpassword_password "Lozinka">
 <!ENTITY masterpassword_confirm "Potvrdite lozinku">
 
 <!ENTITY button_ok "OK">
-
+<!ENTITY button_cancel "Odustani">
 <!ENTITY button_yes "Da">
 <!ENTITY button_no "Ne">
 <!ENTITY button_clear_data "Obriši podatke">
-
-
+<!ENTITY button_set "Postavi">
+<!ENTITY button_clear "Obriši">
 <!ENTITY button_remember "Zapamti">
 
 <!ENTITY home_top_sites_title "Najpopularnije stranice">
@@ -489,8 +496,9 @@ size. -->
 
 
 
-
-
+<!ENTITY remote_tabs_panel_moved_title "Gdje su nestale moje kartice?">
+<!ENTITY remote_tabs_panel_moved_desc "Premjestili smo vaše kartice sa drugih uređaja u panel na vašoj početnoj stranici, kojemu se može jednostavno pristupiti svaki put kada otvorite novu karticu.">
+<!ENTITY remote_tabs_panel_moved_link "Odvedi me do novog panela.">
 
 <!ENTITY pin_site_dialog_hint "Unesite pojam za pretraživanje">
 
@@ -523,21 +531,26 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- Tracking content notifications in site identity popup -->
 
 <!ENTITY loaded_tracking_content_message_top "Zaštita od praćenja je onemogućena.">
-
-
-
+<!ENTITY loaded_tracking_content_message_bottom "Dijelovi ove stranice mogu pratiti vašu aktivnost na internetu.">
+<!ENTITY blocked_tracking_content_message_top2 "Zaštita od praćenja je omogućena.">
+<!ENTITY blocked_tracking_content_message_bottom2 "Dijelovi stranice koji prate vašu aktivnost na internetu su blokirani.">
 <!-- Common mixed and tracking content strings in site identity popup -->
 
 <!ENTITY learn_more "Saznajte više">
+<!ENTITY enable_protection "Omogući zaštitu">
+<!ENTITY disable_protection "Onemogući zaštitu">
+<!ENTITY keep_blocking "Nastavi blokirati">
 
+<!ENTITY private_data_success "Privatni podaci očišćeni">
+<!ENTITY private_data_fail "Neki privatni podaci nisu mogli biti očišćeni">
 
-
-
-
-
-
-
-
+<!ENTITY bookmarkhistory_button_import "Uvezi">
+<!ENTITY bookmarkhistory_import_both "Uvoz zabilješki i povijesti 
+iz Androida">
+<!ENTITY bookmarkhistory_import_bookmarks "Uvoz zabilješki 
+iz Androida">
+<!ENTITY bookmarkhistory_import_history "Uvoz povijesti 
+iz Androida">
 
 
 <!--  Localization note (search_bar_item_desc): When the user clicks the url bar
@@ -561,35 +574,46 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 
 <!-- Guest mode -->
+<!ENTITY exit_guest_session "Izlaz iz gost sesije">
+<!ENTITY guest_session_dialog_continue "Nastavi">
+<!ENTITY guest_session_dialog_cancel "Odustani">
+<!ENTITY new_guest_session_title "&brandShortName; će se ponovno pokrenuti">
+<!ENTITY new_guest_session_text "Osoba koja koristi uređaj neće moći vidjeti vaše privatne podatke o pregledavanju (kao spremljene lozinke, povijest ili zabilješke).\n\nKada vaš gost završi, njihovi podaci o pregledavanju će biti obrisani, a vaša sesija vraćena.">
+<!ENTITY guest_browsing_notification_title "Gost pregledavanje je omogućeno">
+<!ENTITY guest_browsing_notification_text "Pritisnite za izlaz">
 
-
-
-
-
-
-
-
-
+<!ENTITY exit_guest_session_title "&brandShortName; će se ponovno pokrenuti">
+<!ENTITY exit_guest_session_text "Podaci o pregledavanju iz ove sesije će biti obrisani.">
 <!-- Miscellaneous -->
 <!-- LOCALIZATION NOTE (ellipsis): This text is appended to a piece of text that does not fit in the
      designated space. Use the unicode ellipsis char, \u2026, or use "..." if \u2026 doesn't suit
      traditions in your locale. -->
 
+<!ENTITY ellipsis "…">
+
+<!ENTITY colon ":">
 <!-- These are only used for accessibility for the done and overflow-menu buttons in the actionbar.
      They are never shown to users -->
 
+<!ENTITY actionbar_menu "Izbornik">
+<!ENTITY actionbar_done "Gotovo">
 <!-- Voice search in the awesome bar -->
 
-
-
-
+<!ENTITY voicesearch_prompt "Pričajte sada">
+<!ENTITY voicesearch_failed_title "&brandShortName; glasovno pretraživanje">
+<!ENTITY voicesearch_failed_message "Došlo je trenutnih problema sa glasovnim pretraživanje. Pokušajte ponovno kasnije.">
+<!ENTITY voicesearch_failed_message_recoverable "Žao nam je! Nismo prepoznali vaše riječi. Pokušajte ponovno.">
+<!ENTITY voicesearch_failed_retry "Pokušaj ponovno">
 <!-- Localization note (remote_tabs_last_synced): the variable is replaced by a
      "relative time span string" produced by Android.  This string describes the
      time the tabs were last synced relative to the current time; examples
      include "42 minutes ago", "4 days ago", "last week", etc. The subject of
      "Last synced" is one of the user's other Sync clients, typically Firefox on
      their desktop or laptop.-->
+
+<!ENTITY remote_tabs_last_synced "Zadnja sinkronizacija: &formatS;">
 <!-- Localization note: Used when the sync has not happend yet, showed in place of a date -->
+<!ENTITY remote_tabs_never_synced "Zadnja sinkronizacija: nikada">
 <!-- Find-In-Page strings -->
 <!-- LOCALIZATION NOTE (find_matchcase): This is meant to appear as an icon that changes color
      if match-case is activated. i.e. No more than two letters, one uppercase, one lowercase. -->
