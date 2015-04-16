@@ -17,7 +17,7 @@
 <!ENTITY allowHWAccel.accesskey        "h">
 <!ENTITY storeType.label               "Lagertype for meddelelser for nye konti:">
 <!ENTITY storeType.accesskey           "L">
-<!ENTITY mboxStore.label               "Èn stor fil (mbox)">
+<!ENTITY mboxStore2.label              "En fil pr. mappe (mbox)">
 <!ENTITY maildirStore.label            "En fil pr. meddelelse (maildir)">
 
 <!ENTITY scrolling.label               "Scrolling">

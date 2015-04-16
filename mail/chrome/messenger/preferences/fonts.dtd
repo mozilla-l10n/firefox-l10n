@@ -70,10 +70,10 @@
 <!-- Language settings -->
 <!ENTITY sendDefaultCharset.label                 "Udgående meddelelser:">
 <!ENTITY sendDefaultCharset.accesskey             "u">
-<!ENTITY languagesTitle1.label                    "Tegnkodning">
-<!ENTITY composingDescription.label               "Sæt standardtegnkodning for udgående og indkommende meddelelser">
+<!ENTITY languagesTitle2.label            "Tegnkodning">
+<!ENTITY composingDescription2.label      "Sæt standardtegnkodning for udgående og indkommende meddelelser">
 
 <!ENTITY viewDefaultCharsetList.label             "Indkommende meddelelser:">
 <!ENTITY viewDefaultCharsetList.accesskey         "d">
-<!ENTITY replyInDefaultCharset2.label             "Anvend standardtegnkodning i svar, når det er muligt">
-<!ENTITY replyInDefaultCharset2.accesskey         "O">
+<!ENTITY replyInDefaultCharset3.label     "Anvend standardtegnkodning i svar, når det er muligt">
+<!ENTITY replyInDefaultCharset3.accesskey "o">

@@ -62,7 +62,7 @@
 <!ENTITY abbreviateOn.label "Fulde navne (fx &quot;netscape.public.mozilla.mail-news&quot;)">
 <!ENTITY abbreviateOff.label "Forkortede navne (fx &quot;n.p.m.mail-news&quot;)">
 <!ENTITY advancedButton.label "Avanceret…">
-<!ENTITY serverDefaultCharset.label "Standardtegnkodning:">
+<!ENTITY serverDefaultCharset2.label "Standardtegnkodning:">
 <!ENTITY advancedButton.accesskey "A">
 <!ENTITY localFolderPicker.label "Vælg lokal mappe">
 <!ENTITY browseFolder.label "Gennemse…">
@@ -75,5 +75,5 @@
 <!ENTITY accountSettingsDesc.label "Det følgende er en speciel konto. Der er ingen identiteter knyttet til den.">
 <!ENTITY storeType.label "Lagertype for meddelelser:">
 <!ENTITY storeType.accesskey "L">
-<!ENTITY mboxStore.label "Èn stor fil (mbox)">
+<!ENTITY mboxStore2.label "Fil pr. mappe (mbox)">
 <!ENTITY maildirStore.label "Fil pr. meddelelse (maildir)">

@@ -192,6 +192,8 @@
 <!ENTITY sortByFromCmd.accesskey "n">
 <!ENTITY sortByRecipientCmd.label "Modtager">
 <!ENTITY sortByRecipientCmd.accesskey "M">
+<!ENTITY sortByCorrespondentCmd.label "Korrespondenter">
+<!ENTITY sortByCorrespondentCmd.accesskey "r">
 <!ENTITY sortByUnreadCmd.label "Læst">
 <!ENTITY sortByUnreadCmd.accesskey "æ">
 <!ENTITY sortByOrderReceivedCmd.label "Modtagelsesorden">
@@ -665,6 +667,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY threadColumn.label "Tråd">
 <!ENTITY fromColumn.label "Fra">
 <!ENTITY recipientColumn.label "Til">
+<!ENTITY correspondentColumn.label "Korrespondenter">
 <!ENTITY subjectColumn.label "Emne">
 <!ENTITY dateColumn.label "Dato">
 <!ENTITY priorityColumn.label "Prioritet">
@@ -687,6 +690,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY threadColumn2.tooltip "Vis meddelelser i tråde">
 <!ENTITY fromColumn2.tooltip "Sorter efter afsender">
 <!ENTITY recipientColumn2.tooltip "Sorter efter modtager">
+<!ENTITY correspondentColumn2.tooltip "Sorter efter korrespondenter">
 <!ENTITY subjectColumn2.tooltip "Sorter efter emne">
 <!ENTITY dateColumn2.tooltip "Sorter efter dato">
 <!ENTITY priorityColumn2.tooltip "Sorter efter prioritet">
