@@ -7,9 +7,9 @@
 <!ENTITY  language.label                          "Skrifttypar for:">
 <!ENTITY  language.accesskey                      "t">
 
-<!ENTITY  size.label                              "Størrelse:">
-<!ENTITY  proportionalSize.accesskey              "e">
-<!ENTITY  sizeMono.accesskey                      "i">
+<!ENTITY  size.label                              "Storleik:">
+<!ENTITY  sizeProportional.accesskey              "r">
+<!ENTITY  sizeMonospace.accesskey                 "e">
 
 <!ENTITY  proportional.label                      "Proporsjonal:">
 <!ENTITY  proportional.accesskey                  "P">
@@ -21,19 +21,17 @@
 <!ENTITY  monospace.label                         "Fast teiknavstand:">
 <!ENTITY  monospace.accesskey                     "F">
 
-<!ENTITY  font.langGroup.latin1                   "Vestleg">
-<!ENTITY  font.langGroup.latin2                   "Sentraleuropeisk">
+<!-- LOCALIZATION NOTE (font.langGroup.latin) :
+     Translate "Latin" as the name of Latin (Roman) script, not as the name of the Latin language. -->
+<!ENTITY  font.langGroup.latin                    "Vestleg">
 <!ENTITY  font.langGroup.japanese                 "Japansk">
 <!ENTITY  font.langGroup.trad-chinese             "Tradisjonell kinesisk (Taiwan)">
 <!ENTITY  font.langGroup.simpl-chinese            "Forenkla kinesisk">
 <!ENTITY  font.langGroup.trad-chinese-hk          "Tradisjonell kinesisk (Hong Kong)">
 <!ENTITY  font.langGroup.korean                   "Koreansk">
 <!ENTITY  font.langGroup.cyrillic                 "Kyrillisk">
-<!ENTITY  font.langGroup.baltic                   "Baltisk">
 <!ENTITY  font.langGroup.el                       "Gresk">
-<!ENTITY  font.langGroup.turkish                  "Tyrkisk">
-<!ENTITY  font.langGroup.unicode1                 "Unicode">
-<!ENTITY  font.langGroup.user-def                 "Brukardefinert">
+<!ENTITY  font.langGroup.other                    "Anna skriftsystem">
 <!ENTITY  font.langGroup.thai                     "Thai">
 <!ENTITY  font.langGroup.hebrew                   "Hebraisk">
 <!ENTITY  font.langGroup.arabic                   "Arabisk">
@@ -48,7 +46,11 @@
 <!ENTITY  font.langGroup.gurmukhi                 "Gurmukhi">
 <!ENTITY  font.langGroup.khmer                    "Khmer">
 <!ENTITY  font.langGroup.malayalam                "Malayalam">
-
+<!ENTITY  font.langGroup.oriya                    "Oriya">
+<!ENTITY  font.langGroup.telugu                   "Telugu">
+<!ENTITY  font.langGroup.kannada                  "Kannada">
+<!ENTITY  font.langGroup.sinhala                  "Sinhala">
+<!ENTITY  font.langGroup.tibetan                  "Tibetansk">
 <!-- Minimum font size -->
 <!ENTITY minSize.label                            "Minste skriftstørrelse:">
 <!ENTITY minSize.accesskey                        "M">

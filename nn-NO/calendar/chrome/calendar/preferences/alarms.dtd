@@ -14,8 +14,8 @@
 <!ENTITY pref.calendar.alarms.sound.useDefault.accessKey "r">
 <!ENTITY pref.calendar.alarms.sound.browse.label "Bla gjennom …">
 <!ENTITY pref.calendar.alarms.sound.browse.accessKey "B">
-<!ENTITY pref.calendar.alarms.sound.preview.label "Spel av">
-<!ENTITY pref.calendar.alarms.sound.preview.accessKey "p">
+<!ENTITY pref.calendar.alarms.sound.play.label "Spel av">
+<!ENTITY pref.calendar.alarms.sound.play.accessKey "P">
 <!ENTITY pref.showalarmbox "Vis alarmboks">
 <!ENTITY pref.calendar.alarms.showAlarmBox.accessKey "V">
 <!ENTITY pref.missedalarms "Vis tapte alarmar">

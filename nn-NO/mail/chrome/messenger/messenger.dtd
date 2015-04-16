@@ -145,6 +145,8 @@
 <!ENTITY messagePaneVertical.accesskey "V">
 <!ENTITY showFolderPaneCmd.label "Mappepanel">
 <!ENTITY showFolderPaneCmd.accesskey "M">
+<!ENTITY showFolderPaneColsCmd.label "Kolonner i mappepanelet">
+<!ENTITY showFolderPaneColsCmd.accesskey "K">
 <!ENTITY showMessageCmd.label "Meldingsvindauge">
 <!ENTITY showMessageCmd.accesskey "v">
 
@@ -168,7 +170,7 @@
 <!ENTITY sortMenu.accesskey "o">
 <!ENTITY sortByDateCmd.label "Dato">
 <!ENTITY sortByDateCmd.accesskey "o">
-<!ENTITY sortByReceivedCmd.label "Mottatt">
+<!ENTITY sortByReceivedCmd.label "Motteke">
 <!ENTITY sortByReceivedCmd.accesskey "a">
 <!ENTITY sortByStarCmd.label "Stjerne">
 <!ENTITY sortByStarCmd.accesskey "n">
@@ -593,7 +595,9 @@
 <!ENTITY manageTags.accesskey "H">
 
 <!-- Folder Pane -->
-<!ENTITY folderColumn.label "Namn">
+<!ENTITY folderNameColumn.label "Namn">
+<!ENTITY folderUnreadColumn.label "Ulesne">
+<!ENTITY folderTotalColumn.label "Totalt">
 <!ENTITY folderSizeColumn.label "Storleik">
 
 <!-- Folder Pane Context Menu -->
