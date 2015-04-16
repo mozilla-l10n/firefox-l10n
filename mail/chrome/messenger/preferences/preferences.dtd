@@ -10,10 +10,14 @@
 <!ENTITY  prefWindow.styleGNOME   "width: 47em; min-height: 38em;">
 
 <!ENTITY paneGeneral.title        "Generelt">
-<!ENTITY paneDisplay.title        "Vising">
+<!ENTITY paneDisplay.title        "Utsjånad">
 <!ENTITY paneComposition.title    "Skriving">
 <!ENTITY paneChat.title           "Nettprat">
 <!ENTITY paneAttachments.title    "Vedlegg">
 <!ENTITY panePrivacy.title        "Personvern">
 <!ENTITY paneSecurity.title       "Tryggleik">
 <!ENTITY paneAdvanced.title       "Avansert">
+<!ENTITY paneAccount.title        "Kontoar">
+
+<!ENTITY okButton.title           "OK">
+<!ENTITY okButton.accesskey       "O">

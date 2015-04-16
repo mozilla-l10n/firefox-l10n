@@ -3,20 +3,21 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY itemGeneral.label       "Generelt">
+<!ENTITY dataChoicesTab.label    "Dataval">
 <!ENTITY itemDisplay.label       "Lesing og vising">
 <!ENTITY itemUpdate.label        "Oppdatering">
 <!ENTITY itemNetworking.label    "Nettverk og diskplass">
 <!ENTITY itemCertificates.label  "Sertifikat">
 
 <!-- General Settings -->
-
-<!ENTITY submitTelemetry.label         "Send ytingsdata">
-<!ENTITY submitTelemetry.accesskey     "n">
-<!ENTITY telemetryInfoLink.label       "Informasjon om Telemetry">
 <!ENTITY enableGlodaSearch.label       "Slå på globalt søk og indeksering">
 <!ENTITY enableGlodaSearch.accesskey   "S">
 <!ENTITY allowHWAccel.label            "Bruk maskinvareakselerasjon når tilgjengeleg">
 <!ENTITY allowHWAccel.accesskey        "m">
+<!ENTITY storeType.label               "Lagringstype for meldingar i nye kontoar:">
+<!ENTITY storeType.accesskey           "d">
+<!ENTITY mboxStore.label               "Ei stor fil (mbox)">
+<!ENTITY maildirStore.label            "Fil per melding (maildir)">
 
 <!ENTITY scrolling.label               "Rulling">
 <!ENTITY useAutoScroll.label           "Bruk autorulling">
@@ -29,8 +30,8 @@
 <!ENTITY alwaysCheckDefault.accesskey  "l">
 <!ENTITY searchIntegration.label       "Tillat &searchIntegration.engineName; å søkja i meldingar">
 <!ENTITY searchIntegration.accesskey   "T">
-<!ENTITY checkDefaultsNow.label        "Kontroller no …">
-<!ENTITY checkDefaultsNow.accesskey    "K">
+<!ENTITY checkDefaultsNow.label        "Sjekk no …">
+<!ENTITY checkDefaultsNow.accesskey    "n">
 <!ENTITY configEditDesc.label          "Avanserte innstillingar">
 <!ENTITY configEdit.label              "Konfigurasjonseditor …">
 <!ENTITY configEdit.accesskey          "o">
@@ -38,8 +39,21 @@
 <!ENTITY showReturnReceipts.label      "Kvitteringar …">
 <!ENTITY showReturnReceipts.accesskey  "K">
 
+<!-- Data Choices -->
+<!ENTITY telemetrySection.label          "Telemetri">
+<!ENTITY telemetryDesc.label             "Deler info om yting, bruksmønster, maskinvare, og tilpassinger til e-postklienten med &vendorShortName;, for å hjelpa oss med å gjera &brandShortName; betre">
+<!ENTITY enableTelemetry.label           "Slå på Telemetri">
+<!ENTITY enableTelemetry.accesskey       "T">
+<!ENTITY telemetryLearnMore.label        "Les meir">
+
+<!ENTITY crashReporterSection.label      "Krasrapportering">
+<!ENTITY crashReporterDesc.label         "&brandShortName; sender krasjrapportar for å hjelpa &vendorShortName; med å gjera e-postklienten meir stabil og trygg">
+<!ENTITY enableCrashReporter.label       "Slå på krasjraooprtering">
+<!ENTITY enableCrashReporter.accesskey   "l">
+<!ENTITY crashReporterLearnMore.label    "Les meir">
+
 <!-- Display and Reading Settings -->
-<!ENTITY reading.caption               "Lesing">
+<!ENTITY reading.caption               "Lese">
 <!ENTITY display.caption               "Utsjånad">
 <!ENTITY showCondensedAddresses.label  "Vis berre synleg namn for personar som er i adresseboka">
 <!ENTITY showCondensedAddresses.accesskey "V">

@@ -33,6 +33,10 @@
 <!ENTITY pref.default_task_offset_start.label "I høve til til start">
 <!ENTITY pref.default_task_offset_next_hour.label "I høve til neste time">
 
+<!ENTITY pref.calendar.todaypane.agenda.caption "I dag-ruta">
+<!ENTITY pref.soondays.label "Komande seksjon viser:">
+<!ENTITY pref.soondays.accesskey "K">
+
 <!ENTITY pref.accessibility.label "Tilgjenge" >
 <!ENTITY pref.systemcolors.label "Optimaliser fargar for tilgjenge" >
 <!ENTITY pref.systemcolors.accesskey "O">

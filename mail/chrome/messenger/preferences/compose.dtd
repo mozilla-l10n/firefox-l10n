@@ -6,6 +6,8 @@
 <!ENTITY itemAutoComplete.label              "Adressering">
 <!ENTITY itemSpellCheck.label                "Stavekontroll">
 
+<!ENTITY dialogCompose.title                 "Skrive">
+
 <!ENTITY forwardMsg.label                     "Vidaresend meldingar:">
 <!ENTITY forwardMsg.accesskey                 "V">
 <!ENTITY inline.label                         "Innebygd">
@@ -27,7 +29,7 @@
 
 <!ENTITY spellCheck.label                     "Stavekontroll før meldingar vert sende">
 <!ENTITY spellCheck.accesskey                 "S">
-<!ENTITY spellCheckInline.label               "Stavekontroller medan du skriv">
+<!ENTITY spellCheckInline.label               "Stavekontroll medan du skriv">
 <!ENTITY spellCheckInline1.accesskey          "a">
 <!ENTITY languagePopup.label                  "Språk:">
 <!ENTITY languagePopup.accessKey              "k">
@@ -52,10 +54,10 @@
 <!ENTITY editDirectories.accesskey             "R">
 
 <!ENTITY sendOptionsDescription.label          "Konfigurer åtferda til tekstformatet">
-<!ENTITY sendOptions.label                     "Sendeinnstillingar …">
+<!ENTITY sendOptions.label                     "Sende-innstillingar …">
 <!ENTITY sendOptions.accesskey                 "n">
 
-<!ENTITY attachmentReminder.label              "Åtvar dersom vedlegg manglar">
+<!ENTITY attachmentReminder.label              "Åtvar meg dersom vedlegg manglar">
 <!ENTITY attachmentReminder.accesskey          "Å">
-<!ENTITY attachmentReminderOptions.label       "Nøkkelord …">
+<!ENTITY attachmentReminderOptions.label       "Nykelord …">
 <!ENTITY attachmentReminderOptions.accesskey   "N">
