@@ -297,6 +297,8 @@
 <!ENTITY searchFor.label "Cerca ">
 <!ENTITY searchWith.label " con:">
 <!ENTITY searchWithHeader.label "Cerca con:">
+<!ENTITY search.label "Cerca con ">
+<!ENTITY searchAfter.label "">
 <!ENTITY changeSearchSettings.button "Impostazioni ricerca">
 <!ENTITY tabView.commandkey "e">
 <!ENTITY openLinkCmdInTab.label "Apri link in nuova scheda">
