@@ -41,3 +41,4 @@
   -  in the timeline view while recording. -->
 <!ENTITY timelineUI.stopNotice1    "Click on the">
 <!ENTITY timelineUI.stopNotice2    "button again to stop recording.">
+timeline.markerDetail.asyncStack=(Async: %S)
