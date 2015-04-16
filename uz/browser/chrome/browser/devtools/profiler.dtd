@@ -45,7 +45,7 @@
 
 <!ENTITY profilerUI.toolbar.waterfall "Vaqt qatori">
 <!ENTITY profilerUI.toolbar.js-calltree "JavaScript">
-
+<!ENTITY profilerUI.toolbar.memory-calltree1 "Cheklovlar">
 <!ENTITY profilerUI.toolbar.js-flamegraph "JS olovli grafik">
 
 <!-- LOCALIZATION NOTE (profilerUI.table.*): These strings are displayed
