@@ -26,7 +26,7 @@
 
 <!ENTITY pref.default_task_none.label "Brez">
 <!ENTITY pref.default_task_start_of_day.label "Začetek dneva">
-<!ENTITY pref.default_task_end_of_day.label "Konec dneva">
+<!ENTITY pref.default_task_end_of_day.label "Zaključek dneva">
 <!ENTITY pref.default_task_tomorrow.label "Jutri">
 <!ENTITY pref.default_task_next_week.label "Naslednji teden">
 <!ENTITY pref.default_task_offset_current.label "Glede na trenutni čas">
