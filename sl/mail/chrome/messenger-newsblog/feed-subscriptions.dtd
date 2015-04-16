@@ -21,11 +21,11 @@
 <!ENTITY quickMode.label             "Pokaži povzetek članka namesto nalaganja spletne strani">
 <!ENTITY quickMode.accesskey         "P">
 
-<!ENTITY autotagEnable.label         "Samodejno ustvari oznake iz vira &lt;kategorija&gt; imena">
+<!ENTITY autotagEnable.label         "Samodejno ustvari oznake iz imen &lt;kategorij&gt; vira">
 <!ENTITY autotagEnable.accesskey     "S">
 <!ENTITY autotagUsePrefix.label      "Oznakam dodaj predpono:">
 <!ENTITY autotagUsePrefix.accesskey  "O">
-<!ENTITY autoTagPrefix.placeholder   "Vnesite predpono oznak">
+<!ENTITY autoTagPrefix.placeholder   "Vnes. predpono oznak">
 
 <!ENTITY button.addFeed.label        "Dodaj">
 <!ENTITY button.addFeed.accesskey    "a">
