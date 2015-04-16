@@ -15,7 +15,7 @@
 <!ENTITY saveCmd.accesskey "G">
 <!ENTITY saveAsCmd.label "Gem som…">
 <!ENTITY saveAsCmd.accesskey "m">
-<!ENTITY saveAsChangeEncodingCmd2.label "Gen og udskift tegnkodning">
+<!ENTITY saveAsChangeEncodingCmd2.label "Gem og udskift tegnkodning">
 <!ENTITY saveAsChangeEncodingCmd2.accesskey "U">
 <!ENTITY publishCmd.label "Overfør">
 <!ENTITY publishCmd.accesskey "o">
