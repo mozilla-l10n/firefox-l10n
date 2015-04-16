@@ -9,6 +9,8 @@
 <!ENTITY aboutTelemetry.telemetryDisabled "  ടെലിമെട്രി <span>പ്രവര്‍ത്തന രഹിതം</span>.">
 
 
+<!ENTITY aboutTelemetry.telemetryLogSection " ടെലിമെട്രി ലോഗ്">
+
 <!ENTITY aboutTelemetry.slowSqlSection "  എസ്‌ക്യൂഎല്‍ വാചകങ്ങളുടെ വേഗത കുറയ്ക്കുക">
 
 <!ENTITY aboutTelemetry.chromeHangsSection " ബ്രൌസര്‍ ഹാങ്സ്">
