@@ -29,7 +29,7 @@
 <!ENTITY  generalReferrer       "Odkazujúca adresa URL:">
 <!ENTITY  generalSource         "Zdroj:">
 <!ENTITY  generalModified       "Upravená:">
-<!ENTITY  generalEncoding       "Kódovanie:">
+<!ENTITY  generalEncoding2      "Kódovanie textu:">
 <!ENTITY  generalMetaName       "Názov">
 <!ENTITY  generalMetaContent    "Obsah">
 <!ENTITY  generalSecurityDetails           "Podrobnosti">
@@ -40,7 +40,7 @@
 <!ENTITY  formAction            "Akcia formulára">
 <!ENTITY  formMethod            "Metóda">
 <!ENTITY  formName              "Názov">
-<!ENTITY  formEncoding          "Kódovanie:">
+<!ENTITY  formEncoding2         "Kódovanie textu:">
 <!ENTITY  formTarget            "Cieľ:">
 <!ENTITY  formFields            "Polia:">
 <!ENTITY  formLabel             "Menovka">
