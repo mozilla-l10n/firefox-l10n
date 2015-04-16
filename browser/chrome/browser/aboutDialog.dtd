@@ -32,9 +32,11 @@
 
 <!ENTITY community.start2           "&brandShortName; രൂപകല്‍പ്പന ചെയ്തത് ">
 <!-- LOCALIZATION NOTE (community.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
+<!ENTITY community.mozillaLink      "&vendorShortName;">
 <!ENTITY community.middle2          ", ഇതു് ">
 <!-- LOCALIZATION NOTE (community.creditsLink): This is a link title that links to about:credits. -->
-
+<!ENTITY community.creditsLink      "ആഗോള കൂട്ടായ്മ">
+<!ENTITY community.end3             " വെബ് തുറന്നതും, പൊതുവായതും, എല്ലാര്‍ക്കും ലഭ്യമായതും ആക്കാനായി ഒന്നിച്ചു് ജോലി ചെയ്യുന്നു.">
 
 <!-- LOCALIZATION NOTE (helpus.donateLink): This is a link title that links to https://sendto.mozilla.org/page/contribute/Give-Now?source=mozillaorg_default_footer&ref=firefox_about&utm_campaign=firefox_about&utm_source=firefox&utm_medium=referral&utm_content=20140929_FireFoxAbout. -->
 

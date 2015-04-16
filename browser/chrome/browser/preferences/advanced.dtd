@@ -113,6 +113,7 @@
 <!ENTITY offlineAppRemove.confirm        "ഓഫ്‌ലൈന്‍ ഡേറ്റ മാറ്റുക">
 
 <!ENTITY certificateTab.label            "സര്‍ട്ടിഫിക്കറ്റുകള്‍">
+
 <!ENTITY certSelection.description       "ഒരു സര്‍വര്‍ സര്‍ട്ടിഫിക്കേറ്റ് ആവശ്യപ്പെടുമ്പോള്‍:">
 <!ENTITY certs.auto                      "ഒന്നു് സ്വയം തെരഞ്ഞെടുക്കുക ">
 <!ENTITY certs.auto.accesskey            "S">

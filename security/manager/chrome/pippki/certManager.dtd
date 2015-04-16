@@ -39,10 +39,6 @@
 <!ENTITY certmgr.editcert.trustssl            "ഈ സര്‍ട്ടിഫികറ്റിനു വെബ്-സൈറ്റുകള്‍ തിരിച്ചറിയാന്‍ സാധിക്കും.">
 <!ENTITY certmgr.editcert.trustemail          "ഈ സര്‍ട്ടിഫികറ്റിനു മെയില്‍ ഉപയുക്താക്കളെ തിരിച്ചറിയാന്‍ സാധിക്കും.">
 <!ENTITY certmgr.editcert.trustobjsign        "ഈ സര്‍ട്ടിഫികറ്റിനു സോഫ്റ്റ്വെയര്‍ നിര്‍മ്മാതാക്കളെ തിരിച്ചറിയാന്‍ സാധിക്കും.">
-<!ENTITY certmgr.editemailcert.title          "ഇ-മെയില്‍ സര്‍ട്ടിഫിക്കറ്റ് വിശ്വസ്ഥത സജ്ജീകരണങ്ങള്‍ ചിട്ടപെടുത്തുക">
-<!ENTITY certmgr.editemailcert.edittrust      "സര്‍ട്ടിഫിക്കറ്റ് വിശ്വസ്ഥത സജ്ജീകരണങ്ങള്‍ ചിട്ടപെടുത്തുക:">
-<!ENTITY certmgr.editemailcert.dotrust        "ഈ സര്‍ട്ടിഫിക്കറ്റിന്റെ ആധികാരികത വിശ്വസിക്കക.">
-<!ENTITY certmgr.editemailcert.donttrust      "ഈ സര്‍ട്ടിഫിക്കറ്റിന്റെ ആധികാരികത വിശ്വസിക്കരുത്.">
 
 <!ENTITY certmgr.deletecert.title             "സര്‍ട്ടിഫിക്കറ്റ്‌ മായിക്കുക">
 
@@ -61,8 +57,6 @@
 <!ENTITY certmgr.view2.accesskey              "V">
 <!ENTITY certmgr.edit3.label                  "ട്രസ്റ്റ് ചിട്ടപ്പെടുത്തുക…">
 <!ENTITY certmgr.edit3.accesskey              "E">
-<!ENTITY certmgr.editca.label                 "സിഎ ട്രസ്റ്റ് ചിട്ടപ്പെടുത്തുക">
-<!ENTITY certmgr.editca.accesskey             "d">
 <!ENTITY certmgr.export.label                 "വേറൊരു രൂപത്തില്‍ ഫയല്‍ സംരക്ഷിക്കുക…">
 <!ENTITY certmgr.export.accesskey             "x">
 <!ENTITY certmgr.delete2.label                "നീക്കം ചെയ്യുക…">
