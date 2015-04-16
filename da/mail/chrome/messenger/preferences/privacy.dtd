@@ -29,7 +29,7 @@
 <!ENTITY close.label "Jeg lukker &brandShortName;">
 <!ENTITY askEachTime.label "Spørg mig hver gang">
 <!ENTITY cookieExceptions.label "Undtagelser…">
-<!ENTITY cookieExceptions.accesskey "U">
+<!ENTITY cookieExceptions.accesskey "n">
 <!ENTITY showCookies.label "Vis cookies…">
 <!ENTITY showCookies.accesskey "V">
 
