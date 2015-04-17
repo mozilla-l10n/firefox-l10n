@@ -3,8 +3,8 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY addressbookWindow.title                        "Helbide-liburua">
-
-
+<!ENTITY blankResultsPaneMessage.label                  "Helbide liburu honek kontaktuak bilaketa baten ondoren bakarrik erakusten ditu">
+<!ENTITY localResultsOnlyMessage.label                  "Urruneko helbide -liburuetako kontaktuak ez dira erakusten zuk bilatu arte">
 <!-- File Menu -->
 <!ENTITY fileMenu.label                                 "Fitxategia">
 <!ENTITY fileMenu.accesskey                             "F">
@@ -28,7 +28,7 @@
 <!ENTITY closeCmd.label                                 "Itxi">
 <!ENTITY closeCmd.key                                   "W">
 <!ENTITY closeCmd.accesskey                             "I">
-<!ENTITY printSetupCmd.label                            "Prestatu orria…">
+<!ENTITY printSetupCmd.label                            "Prestatu orrialdea…">
 <!ENTITY printSetupCmd.accesskey                        "s">
 <!ENTITY printPreviewContactCmd.label                   "Kontaktuaren inprimatze-aurrebista">
 <!ENTITY printPreviewContactCmd.accesskey               "r">
@@ -161,6 +161,8 @@ because displayed names don't have the comma in between. -->
 <!ENTITY searchItem.title "Bilaketa azkarra">
 <!-- Results Pane -->
 
+<!ENTITY Addrbook.label                                 "Helbide-liburua…">
+<!ENTITY Addrbook.accesskey                             "l">
 <!ENTITY GeneratedName.label                            "Izena">
 <!ENTITY GeneratedName.accesskey                        "I">
 <!ENTITY PrimaryEmail.label                             "Helbide elektronikoa">

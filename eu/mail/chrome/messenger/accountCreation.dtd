@@ -20,7 +20,7 @@
 <!ENTITY imapLong.label                  "IMAP (urruneko karpetak)">
 <!ENTITY pop3Long.label                  "POP3 (mantendu posta zure ordenagailuan)">
 
-<!ENTITY incoming.label                  "Sarrerakoa:">
+<!ENTITY incoming.label                  "Hartzeko:">
 <!ENTITY outgoing.label                  "Irteerakoa:">
 <!ENTITY username.label                  "Erabiltzaile izena:">
 <!ENTITY hostname.label                  "Zerbitzariaren ostalari-izena">
@@ -58,7 +58,7 @@
 
 
 <!ENTITY warning.label                   "Kontuz!">
-<!ENTITY incomingSettings.label          "Sarrerako ezarpenak:">
+<!ENTITY incomingSettings.label          "Hartzeko ezarpenak:">
 <!ENTITY outgoingSettings.label          "Irteerako ezarpenak:">
 <!ENTITY technicaldetails.label          "Xehetasun teknikoak">
 <!-- LOCALIZATION NOTE (confirmWarning.label): If there is a security

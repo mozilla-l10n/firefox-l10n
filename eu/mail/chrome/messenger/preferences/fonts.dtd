@@ -8,8 +8,8 @@
 <!ENTITY  language.accesskey                      "t">
 
 <!ENTITY  size.label                              "Tamaina:">
-
-
+<!ENTITY  sizeProportional.accesskey              "e">
+<!ENTITY  sizeMonospace.accesskey                 "i">
 
 <!ENTITY  proportional.label                      "Proportzionala:">
 <!ENTITY  proportional.accesskey                  "P">
@@ -22,6 +22,8 @@
 <!ENTITY  monospace.accesskey                     "T">
 <!-- LOCALIZATION NOTE (font.langGroup.latin) :
      Translate "Latin" as the name of Latin (Roman) script, not as the name of the Latin language. -->
+
+<!ENTITY  font.langGroup.latin                    "Latinoa">
 <!ENTITY  font.langGroup.japanese                 "Japoniarra">
 <!ENTITY  font.langGroup.trad-chinese             "Txinatar arrunta (Taiwan)">
 <!ENTITY  font.langGroup.simpl-chinese            "Txinatar soildua">
@@ -29,7 +31,7 @@
 <!ENTITY  font.langGroup.korean                   "Koreera">
 <!ENTITY  font.langGroup.cyrillic                 "Zirilikoa">
 <!ENTITY  font.langGroup.el                       "Grekoa">
-
+<!ENTITY  font.langGroup.other                    "Bestelako idazketa sistemak">
 <!ENTITY  font.langGroup.thai                     "Thailandiera">
 <!ENTITY  font.langGroup.hebrew                   "Hebreera">
 <!ENTITY  font.langGroup.arabic                   "Arabiera">
@@ -44,11 +46,11 @@
 <!ENTITY  font.langGroup.gurmukhi                 "Gurmukhiera">
 <!ENTITY  font.langGroup.khmer                    "Khmerera">
 <!ENTITY  font.langGroup.malayalam                "Malayalera">
-
-
-
-
-
+<!ENTITY  font.langGroup.oriya                    "Oriya">
+<!ENTITY  font.langGroup.telugu                   "Telugu">
+<!ENTITY  font.langGroup.kannada                  "Kannada">
+<!ENTITY  font.langGroup.sinhala                  "Sinhala">
+<!ENTITY  font.langGroup.tibetan                  "Tibetera">
 <!-- Minimum font size -->
 <!ENTITY minSize.label                            "Gutxieneko letra-tamaina:">
 <!ENTITY minSize.accesskey                        "x">

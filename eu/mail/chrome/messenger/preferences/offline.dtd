@@ -4,16 +4,17 @@
 
 <!ENTITY offlineDialog.title "Lineaz kanpoko ezarpenak">
 
-
-
+<!ENTITY checkAutoDetect.label "Automatikoki jarraitu atzemandako lineako egoera">
+<!ENTITY checkAutoDetect.accesskey "a">
+<!ENTITY titleStartUp "Eskuzko egoera abiatzean:">
 <!ENTITY radioRememberPrevState.label "Gogoratu aurreko lineako egoera">
 <!ENTITY radioRememberPrevState.accesskey "r">
-
-
-
-
-
-
+<!ENTITY radioAskState.label "Niri galdetu lineako egoera">
+<!ENTITY radioAskState.accesskey "g">
+<!ENTITY radioAlwaysOnlineState.label "Lineaz kanpo">
+<!ENTITY radioAlwaysOnlineState.accesskey "L">
+<!ENTITY radioAlwaysOffline.label "Lineaz kanpo">
+<!ENTITY radioAlwaysOffline.accesskey "k">
 
 <!ENTITY textGoingOnline "Bidali bidali gabeko mezuak linean jartzean?">
 <!ENTITY radioAutoSend.label "Bai">

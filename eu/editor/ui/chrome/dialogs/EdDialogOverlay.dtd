@@ -9,10 +9,10 @@
 <!ENTITY chooseFileButton.accessKey "f">
 <!ENTITY chooseFileLinkButton.label "Aukeratu fitxategia...">
 <!ENTITY chooseFileLinkButton.accessKey "A">
-<!ENTITY makeUrlRelative.label "URLa orriaren helbidearekiko erlatiboa da">
+<!ENTITY makeUrlRelative.label "URLa orrialdearen helbidearekiko erlatiboa da">
 <!ENTITY makeUrlRelative.accessKey "R">
-<!ENTITY makeUrlRelative.tooltip "URL erlatibo eta absolutuaren artean aldaketak. HAu gordetzeko orria gorde behar duzu lehendabizi.">
+<!ENTITY makeUrlRelative.tooltip "URL erlatibo eta absolutuaren artean aldaketak. Hau gordetzeko orrialdea gorde behar duzu lehendabizi.">
 <!-- Shared by Link and Image dialogs -->
 
-<!ENTITY LinkURLEditField.label "Webgune baten kokalekua edo fitxategi lokal bat idatzi, edo zerrendatik izendatutako aingura edo goiburuko bat aukeratu:">
+<!ENTITY LinkURLEditField.label "Sartu webgune baten kokalekua edo fitxategi lokal bat, edo aukeratu zerrendatik izendatutako aingura edo goiburuko bat:">
 <!ENTITY LinkURLEditField.accessKey "l">

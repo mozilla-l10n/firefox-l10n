@@ -6,7 +6,7 @@
 <!ENTITY requestReceipt.label          "Eskatu beti hartu-agiria mezuak bidaltzean">
 <!ENTITY requestReceipt.accesskey      "h">
 <!ENTITY receiptArrive.label           "Hartu-agiri bat iristean:">
-<!ENTITY leaveIt.label                 "Utzi sarrerako ontzian">
+<!ENTITY leaveIt.label                 "Utzi nire sarrera-ontzian">
 <!ENTITY leaveIt.accesskey             "s">
 <!ENTITY moveToSent.label              "Aldatu lekuz &quot;Bidalitakoak&quot; karpetara">
 <!ENTITY moveToSent.accesskey          "A">

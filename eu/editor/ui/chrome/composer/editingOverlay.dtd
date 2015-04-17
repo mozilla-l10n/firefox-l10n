@@ -31,7 +31,7 @@
 <!-- Toolbar buttons/items -->
 
 <!ENTITY newToolbarCmd.label "Berria">
-<!ENTITY newToolbarCmd.tooltip "Sortu Composer orri berria">
+<!ENTITY newToolbarCmd.tooltip "Sortu Composer orrialde berria">
 <!ENTITY openToolbarCmd.label "Ireki">
 <!ENTITY openToolbarCmd.tooltip "Ireki fitxategi lokala">
 <!ENTITY saveToolbarCmd.tooltip "Gorde fitxategia kokaleku lokalean">

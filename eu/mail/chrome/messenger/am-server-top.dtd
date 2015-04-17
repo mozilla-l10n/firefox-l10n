@@ -51,7 +51,7 @@
 <!ENTITY modelDeleteImmediately.label "Ezabatu berehala">
 <!ENTITY modelDeleteImmediately.accesskey "h">
 <!-- LOCALIZATION NOTE (expungeOnExit.label) : do not translate two of "&quot;" in below line -->
-<!ENTITY expungeOnExit.label "Garbitu (&quot;Hustu&quot;) sarrerako ontzia irtetean">
+<!ENTITY expungeOnExit.label "Garbitu (&quot;Hustu&quot;) sarrera-ontzia irtetean">
 <!ENTITY expungeOnExit.accesskey "e">
 <!ENTITY emptyTrashOnExit.label "Hustu zakarrontzia irtetean">
 <!ENTITY emptyTrashOnExit.accesskey "r">
@@ -84,7 +84,7 @@
 
 <!ENTITY accountTitle.label "Kontu-ezarpenak">
 <!ENTITY accountSettingsDesc.label "Ondorengoa kontu berezia da. Ez dago identitaterik honi lotuta.">
-
-
-
-
+<!ENTITY storeType.label "Mezu biltegi mota:">
+<!ENTITY storeType.accesskey "m">
+<!ENTITY mboxStore.label "Fitxategi bakarra (mbox)">
+<!ENTITY maildirStore.label "Mezu bakoitzeko fitxategi bat (maildir)">

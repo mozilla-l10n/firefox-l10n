@@ -83,7 +83,7 @@
 <!ENTITY printCmd.key "p">
 <!ENTITY printPreviewCmd.label "Inprimatzeko aurrebista">
 <!ENTITY printPreviewCmd.accesskey "b">
-<!ENTITY printSetupCmd.label "Prestatu orria…">
+<!ENTITY printSetupCmd.label "Prestatu orrialdea…">
 <!ENTITY printSetupCmd.accesskey "u">
 <!-- Edit Menu -->
 
@@ -145,8 +145,8 @@
 <!ENTITY messagePaneVertical.accesskey "B">
 <!ENTITY showFolderPaneCmd.label "Karpeten panela">
 <!ENTITY showFolderPaneCmd.accesskey "K">
-
-
+<!ENTITY showFolderPaneColsCmd.label "Karpeten panelaren zutabeak">
+<!ENTITY showFolderPaneColsCmd.accesskey "P">
 <!ENTITY showMessageCmd.label "Mezuen panela">
 <!ENTITY showMessageCmd.accesskey "M">
 
@@ -184,7 +184,7 @@
 <!ENTITY sortByStatusCmd.accesskey "r">
 <!ENTITY sortByTagsCmd.label "Etiketak">
 <!ENTITY sortByTagsCmd.accesskey "E">
-<!ENTITY sortByJunkStatusCmd.label "Zabor-postaren egoera">
+<!ENTITY sortByJunkStatusCmd.label "Zaborraren egoera">
 <!ENTITY sortByJunkStatusCmd.accesskey "Z">
 <!ENTITY sortBySubjectCmd.label "Gaia">
 <!ENTITY sortBySubjectCmd.accesskey "G">
@@ -246,7 +246,7 @@
 
 <!ENTITY bodyMenuFeed.label "Jarioko mezuaren gorputza honela">
 <!ENTITY bodyMenuFeed.accesskey "o">
-<!ENTITY viewFeedWebPage.label "Web orria">
+<!ENTITY viewFeedWebPage.label "Webgunea">
 <!ENTITY viewFeedWebPage.accesskey "W">
 <!ENTITY viewFeedSummary.label "Laburpena">
 <!ENTITY viewFeedSummary.accesskey "n">
@@ -412,10 +412,10 @@
 <!ENTITY markStarredCmd.label "Gehitu izarra">
 <!ENTITY markStarredCmd.accesskey "z">
 <!ENTITY markStarredCmd.key "S">
-<!ENTITY markAsJunkCmd.label "Zabor-posta gisa">
+<!ENTITY markAsJunkCmd.label "Zabor gisa">
 <!ENTITY markAsJunkCmd.accesskey "Z">
 <!ENTITY markAsJunkCmd.key "j">
-<!ENTITY markAsNotJunkCmd.label "Ez zabor-posta gisa">
+<!ENTITY markAsNotJunkCmd.label "Ez zabor gisa">
 <!ENTITY markAsNotJunkCmd.accesskey "E">
 <!ENTITY markAsNotJunkCmd.key "E">
 <!ENTITY recalculateJunkScoreCmd.label "Abiarazi zabor-postaren kontrolak">
@@ -430,11 +430,11 @@
 <!ENTITY openAttachmentListCmd.accesskey "r">
 <!ENTITY openFeedMessage1.label "Jarioen mezuak irekitzean">
 <!ENTITY openFeedMessage1.accesskey "J">
-<!ENTITY openFeedWebPage.label "Ireki web orri gisa">
+<!ENTITY openFeedWebPage.label "Ireki web orrialde gisa">
 <!ENTITY openFeedWebPage.accesskey "w">
 <!ENTITY openFeedSummary.label "Ireki laburpen gisa">
 <!ENTITY openFeedSummary.accesskey "b">
-<!ENTITY openFeedWebPageInMP.label "Txandakatu web orria eta laburpena mezuen penelean">
+<!ENTITY openFeedWebPageInMP.label "Txandakatu web orrialdea eta laburpena mezuen panelean">
 <!ENTITY openFeedWebPageInMP.accesskey "T">
 <!-- Windows Menu -->
 
@@ -473,7 +473,7 @@
 <!ENTITY filtersApplyToMessage.accesskey "m">
 <!ENTITY runJunkControls.label "Aplikatu zabor-postaren kontrolak karpetan">
 <!ENTITY runJunkControls.accesskey "p">
-<!ENTITY deleteJunk.label "Ezabatu karpetako zabor-posta mezuak">
+<!ENTITY deleteJunk.label "Ezabatu karpetako zabor-mezuak">
 <!ENTITY deleteJunk.accesskey "E">
 <!ENTITY importCmd.label "Inportatu…">
 <!ENTITY importCmd.accesskey "I">
@@ -514,8 +514,8 @@
 <!ENTITY printButton.label "Inprimatu">
 <!ENTITY stopButton.label "Gelditu">
 <!ENTITY throbberItem.title "Jarduera-adierazlea">
-<!ENTITY junkItem.title "Zabor-posta">
-<!ENTITY junkButton.label "Zabor-posta">
+<!ENTITY junkItem.title "Zaborra">
+<!ENTITY junkButton.label "Zaborra">
 <!ENTITY notJunkButton.label "Ez da zaborra">
 <!ENTITY addressBookButton.label "Helbide-liburua">
 <!ENTITY chatButton.label "Txata">
@@ -552,8 +552,8 @@
 <!ENTITY markButton.tooltip "Markatu mezuak">
 <!ENTITY printButton.tooltip "Inprimatu mezu hau">
 <!ENTITY stopButton.tooltip "Gelditu uneko transferentzia">
-<!ENTITY junkButton.tooltip "Markatu aukeratutako mezuak zabor-posta gisa">
-<!ENTITY notJunkButton.tooltip "Markatu aukeratutako mezuak ez zabor-posta gisa">
+<!ENTITY junkButton.tooltip "Markatu aukeratutako mezuak zabor gisa">
+<!ENTITY notJunkButton.tooltip "Markatu aukeratutako mezuak ez zabor gisa">
 <!ENTITY addressBookButton.tooltip "Joan helbide-liburura">
 <!ENTITY chatButton.tooltip "Erakutsi txataren fitxa">
 <!ENTITY tagButton.tooltip "Etiketatu mezuak">
@@ -596,8 +596,8 @@
 <!-- Folder Pane -->
 
 <!ENTITY folderNameColumn.label "Izena">
-
-
+<!ENTITY folderUnreadColumn.label "Irakurri gabeak">
+<!ENTITY folderTotalColumn.label "Guztira">
 <!ENTITY folderSizeColumn.label "Tamaina">
 <!-- Folder Pane Context Menu -->
 
@@ -617,8 +617,8 @@
 <!ENTITY folderContextCompact.accesskey "T">
 <!ENTITY folderContextEmptyTrash.label "Hustu zakarrontzia">
 <!ENTITY folderContextEmptyTrash.accesskey "H">
-<!ENTITY folderContextEmptyJunk.label "Hustu zabor-posta">
-<!ENTITY folderContextEmptyJunk.accesskey "z">
+<!ENTITY folderContextEmptyJunk.label "Hustu Zaborra">
+<!ENTITY folderContextEmptyJunk.accesskey "Z">
 <!ENTITY folderContextSendUnsentMessages.label "Bidali bidali gabeko mezuak">
 <!ENTITY folderContextSendUnsentMessages.accesskey "d">
 <!ENTITY folderContextUnsubscribe.label "Kendu harpidetza">
@@ -665,9 +665,9 @@
 <!ENTITY accountColumn.label "Kontua">
 <!ENTITY statusColumn.label "Egoera">
 <!ENTITY sizeColumn.label "Tamaina">
-<!ENTITY junkStatusColumn.label "Zabor-postaren egoera">
-
-
+<!ENTITY junkStatusColumn.label "Zaborraren egoera">
+<!ENTITY unreadColumn.label "Irakurri gabeak">
+<!ENTITY totalColumn.label "Guztira">
 <!ENTITY readColumn.label "Irakurriak">
 <!ENTITY receivedColumn.label "Jasoa">
 <!ENTITY starredColumn.label "Izarduna">
@@ -895,14 +895,14 @@
 
 <!ENTITY preferencesCmdMac2.label       "Hobespenak">
 <!ENTITY preferencesCmdMac.commandkey   ",">
-<!ENTITY preferencesCmdMac.modifiers    "accel">
+<!ENTITY preferencesCmdMac.modifiers    "azel">
 <!ENTITY servicesMenuMac.label          "Zerbitzuak">
 <!ENTITY hideThisAppCmdMac.label        "Ezkutatu &brandShortName;">
 <!ENTITY hideThisAppCmdMac.commandkey   "H">
-<!ENTITY hideThisAppCmdMac.modifiers    "accel">
+<!ENTITY hideThisAppCmdMac.modifiers    "azel">
 <!ENTITY hideOtherAppsCmdMac.label      "Ezkutatu besteak">
 <!ENTITY hideOtherAppsCmdMac.commandkey "H">
-<!ENTITY hideOtherAppsCmdMac.modifiers  "accel,alt">
+<!ENTITY hideOtherAppsCmdMac.modifiers  "azel,alt">
 <!ENTITY showAllAppsCmdMac.label        "Erakutsi denak">
 <!-- Mac OS X Dock Icon pop-up menu -->
 

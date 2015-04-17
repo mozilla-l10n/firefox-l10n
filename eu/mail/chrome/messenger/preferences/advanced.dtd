@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY itemGeneral.label       "Orokorra">
-
+<!ENTITY dataChoicesTab.label    "Datu aukerak">
 <!ENTITY itemDisplay.label       "Irakurtzea eta bistaratzea">
 <!ENTITY itemUpdate.label        "Eguneraketak">
 <!ENTITY itemNetworking.label    "Sarea eta diskoko lekua">
@@ -12,12 +12,12 @@
 
 <!ENTITY enableGlodaSearch.label       "Gaitu bilaketa orokorra eta indexatzailea">
 <!ENTITY enableGlodaSearch.accesskey   "i">
-
-
-
-
-
-
+<!ENTITY allowHWAccel.label            "Erabili hardware azelerazioa erabilgarri dagoenean">
+<!ENTITY allowHWAccel.accesskey        "h">
+<!ENTITY storeType.label               "Mezuen biltegiratze mota kontu berrientzako:">
+<!ENTITY storeType.accesskey           "m">
+<!ENTITY mboxStore.label               "Fitxategi bakarra (mbox)">
+<!ENTITY maildirStore.label            "Fitxategia mezuko (maildir)">
 
 <!ENTITY scrolling.label               "Korritzea">
 <!ENTITY useAutoScroll.label           "Erabili korritze automatikoa">
@@ -40,14 +40,17 @@
 <!ENTITY showReturnReceipts.accesskey  "r">
 <!-- Data Choices -->
 
+<!ENTITY telemetrySection.label          "Telemetria">
+<!ENTITY telemetryDesc.label             "Zure e-posta bezeroko errendimendu, erabilera, hardware eta pertsonalizazio datuak &vendorShortName;(e)rekin &brandShortName; hobetzen laguntzeko">
+<!ENTITY enableTelemetry.label           "Gaitu telemetria">
+<!ENTITY enableTelemetry.accesskey       "t">
+<!ENTITY telemetryLearnMore.label        "Ikasi gehiago">
 
-
-
-
-
-
-
-
+<!ENTITY crashReporterSection.label      "Kraskadura berriemailea">
+<!ENTITY crashReporterDesc.label         "&brandShortName;(e)k kraskadura txostenak bidaltzen ditu &vendorShortName;(e)ri zure e-posta bezeroa egonkorragoa eta seguruagoa egiten laguntzeko">
+<!ENTITY enableCrashReporter.label       "Gaitu Kraskadura berriemailea">
+<!ENTITY enableCrashReporter.accesskey   "K">
+<!ENTITY crashReporterLearnMore.label    "Ikasi gehiago">
 <!-- Display and Reading Settings -->
 
 <!ENTITY reading.caption               "Irakurketa">

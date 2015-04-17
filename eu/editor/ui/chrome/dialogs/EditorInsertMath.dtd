@@ -5,7 +5,7 @@
 
 <!ENTITY windowTitle.label "Txertatu matematika">
 
-<!ENTITY sourceEditField.label "Idatzi LaTeX iturburu-kodea:">
+<!ENTITY sourceEditField.label "Sartu LaTeX iturburu-kodea:">
 
 <!ENTITY options.label "Aukerak">
 <!ENTITY optionInline.label "Barneko modua">

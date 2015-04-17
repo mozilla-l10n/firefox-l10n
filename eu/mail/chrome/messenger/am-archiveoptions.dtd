@@ -20,4 +20,4 @@
 <!ENTITY archiveFolderName.label "Artxiboak">
 <!-- LOCALIZATION NOTE (inboxFolderName.label): this should match the default
      name for the "Inbox" folder -->
-<!ENTITY inboxFolderName.label "Sarrera">
+<!ENTITY inboxFolderName.label "Sarrera-ontzia">
