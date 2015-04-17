@@ -22,7 +22,7 @@
 <!ENTITY  generalReferrer       "Nosūtītāja URL:">
 <!ENTITY  generalSource         "Kešatmiņas avots:">
 <!ENTITY  generalModified       "Mainīts:">
-
+<!ENTITY  generalEncoding2      "Teksta kodējums:">
 <!ENTITY  generalMetaName       "Nosaukums">
 <!ENTITY  generalMetaContent    "Saturs">
 
