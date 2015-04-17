@@ -8,12 +8,15 @@
 <!ENTITY gdata.privacy.default.accesskey "l">
 
 <!ENTITY gdata.migration.title "Irakurtzeko soilik diren egutegiak migratu">
-<!ENTITY gdata.migration.description "Google Calendar hornitzaileak irakurtzeko soilik gaitasuna duten hainbat egutegi dituzula detektatu du. Hauetako edozein egutegi eguneratu nahi baduzu, aukeratu itzazu azpian">
+<!ENTITY gdata.migration.description "Google Calendar hornitzaileak irakurtzeko soilik gaitasuna duten hainbat egutegi dituzula detektatu du. Hauetako edozein egutegi eguneratu nahi bazenu, aukeratu itzazu azpian">
 <!ENTITY gdata.migration.upgrade.label "Bertsio-berritzea">
 <!ENTITY gdata.migration.upgrade.accesskey "B">
-<!ENTITY gdata.migration.showagain.label "Egiaztatu beti">
+<!ENTITY gdata.migration.showagain.label "Egiaztatu beti ">
 
+<!ENTITY gdata.reminder.default "Gogorarazle lehenetsia">
 <!ENTITY gdata.reminder.action.sms.label "Bidali testu-mezu bat">
 
+<!ENTITY gdata.wizard.session.description "Mesedez hautatu sesioa edo sartu posta helbidea sesio berria sortzeko. Kontuko sesio bakarra behar duzu.">
+<!ENTITY gdata.wizard.calendars.description "Harpidetu nahi zaren egutegi eta zeregin zerrenda hautatu.">
 
-
+<!ENTITY gdata.wizard.nextstep.description "Hurrengo urratsera joan zure egutegiak konfiguratzeko.">

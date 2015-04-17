@@ -11,12 +11,12 @@
 <!ENTITY initialpage.network.label  "Sarean">
 
 <!ENTITY locationpage.description         "Ezarri zure urruneko egutegia eskuratzeko behar diren argibideak" >
-<!ENTITY locationpage.login.description   "Aukerakoa: idatzi erabiltzaile-izena eta pasahitza" >
+<!ENTITY locationpage.login.description   "Aukerakoa: sartu erabiltzaile-izena eta pasahitza" >
 <!ENTITY locationpage.username.label      "Erabiltzaile-izena:" >
 <!ENTITY locationpage.password.label      "Pasahitza:" >
 
 <!ENTITY custompage.shortdescription  "Pertsonalizatu zure egutegia" >
-<!ENTITY custompage.longdescription   "Zure egutegiari ezizen bat eman eta egutegi honen gertaerak koloreztatu ditzakezu" >
+<!ENTITY custompage.longdescription   "Zure egutegiari ezizen bat eman eta egutegi honen gertaerak koloreztatu ditzakezu." >
 
 <!ENTITY finishpage.shortdescription  "Egutegia sortuta" >
-<!ENTITY finishpage.longdescription   "Zure egutegia sortu egin da" >
+<!ENTITY finishpage.longdescription   "Zure egutegia sortu da." >

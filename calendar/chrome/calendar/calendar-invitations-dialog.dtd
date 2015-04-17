@@ -5,7 +5,7 @@
 <!-- Calendar Invitations Dialog -->
 
 <!ENTITY calendar.invitations.dialog.invitations.text                   "Gonbidapenak">
-<!ENTITY calendar.invitations.dialog.statusmessage.updating.text        "Gonbidapenen zerrenda eguneratzen">
+<!ENTITY calendar.invitations.dialog.statusmessage.updating.text        "Gonbidapenen zerrenda eguneratzen.">
 <!ENTITY calendar.invitations.dialog.statusmessage.noinvitations.text   "Ez da berretsi gabeko gonbidapenik aurkitu.">
 <!-- Calendar Invitations List -->
 
