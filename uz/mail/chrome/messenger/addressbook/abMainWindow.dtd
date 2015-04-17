@@ -4,9 +4,10 @@
 
 
 <!-- File Menu -->
-
-
-
+<!ENTITY fileMenu.label                                 "Fayl">
+<!ENTITY fileMenu.accesskey                             "F">
+<!ENTITY newMenu.label                                  "Yangi">
+<!ENTITY newMenu.accesskey                              "Y">
 
 
 
@@ -21,9 +22,9 @@
 
 <!-- LOCALIZATION NOTE (osxAddressBook) : These entities are only used on Mac -->
 
+<!ENTITY closeCmd.label                                 "Yopish">
 
-
-
+<!ENTITY closeCmd.accesskey                             "Y">
 
 
 
@@ -37,6 +38,23 @@
 
 <!-- Edit Menu -->
 
+<!ENTITY editMenu.label                                 "Tahrirlash">
+<!ENTITY editMenu.accesskey                             "T">
+<!ENTITY undoCmd.label                                  "Amalni bekor qilish">
+
+<!ENTITY undoCmd.accesskey                              "b">
+<!ENTITY redoCmd.label                                  "Amalni qaytarish">
+
+<!ENTITY redoCmd.accesskey                              "q">
+<!ENTITY cutCmd.label                                   "Kesish">
+
+<!ENTITY cutCmd.accesskey                               "K">
+<!ENTITY copyCmd.label                                  "Nusxa olish">
+
+<!ENTITY copyCmd.accesskey                              "N">
+<!ENTITY pasteCmd.label                                 "Qo‘yish">
+
+<!ENTITY pasteCmd.accesskey                             "Q">
 
 
 
@@ -45,25 +63,10 @@
 
 
 
+<!ENTITY selectAllCmd.label                             "Barchasini tanlash">
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY selectAllCmd.accesskey                         "a">
 
 
 <!-- LOCALIZATION NOTE (hideSwapFnLnUI) : DONT_TRANSLATE -->
@@ -74,8 +77,10 @@
 
 <!-- View Menu -->
 
-
-
+<!ENTITY viewMenu.label                                 "Ko‘rinishi">
+<!ENTITY viewMenu.accesskey                             "K">
+<!ENTITY viewToolbarsMenu.label                         "Asboblar paneli">
+<!ENTITY viewToolbarsMenu.accesskey                     "A"> 
 
 
 
@@ -112,10 +117,10 @@ because displayed names don't have the comma in between. -->
 
 
 
-
-
-
-
+<!ENTITY preferencesCmd2.label                          "Tanlamalar">
+<!ENTITY preferencesCmd2.accesskey                      "T">
+<!ENTITY preferencesCmdUnix.label                       "Parametrlar">
+<!ENTITY preferencesCmdUnix.accesskey                   "m">
 <!-- Address Book Toolbar and Context Menus -->
 
 

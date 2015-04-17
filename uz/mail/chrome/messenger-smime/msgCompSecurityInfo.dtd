@@ -7,8 +7,8 @@
 
 
 
-
-
+<!ENTITY view.label "Ko‘rinishi">
+<!ENTITY view.accesskey "K">
 
 <!ENTITY tree.status "Holati">
 

@@ -13,4 +13,5 @@
 
 
 
-
+<!ENTITY CloseButton.label "Yopish">
+<!ENTITY CloseButton.accessKey "Y">

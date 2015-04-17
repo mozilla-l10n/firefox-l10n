@@ -41,7 +41,8 @@
 
 
 
-
+<!ENTITY folderProps.name.label                  "Nomi:">
+<!ENTITY folderProps.name.accesskey              "N">
 
 
 

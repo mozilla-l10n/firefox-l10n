@@ -4,8 +4,10 @@
 <!--LOCALIZATION NOTE messengercompose.dtd Main UI for message composition -->
 <!-- File Menu -->
 
-
-
+<!ENTITY fileMenu.label "Fayl">
+<!ENTITY fileMenu.accesskey "F">
+<!ENTITY newMenu.label "Yangi">
+<!ENTITY newMenu.accesskey "Y">
 
 
 
@@ -25,9 +27,9 @@
 
 
 
+<!ENTITY closeCmd.label "Yopish">
 
-
-
+<!ENTITY closeCmd.accesskey "Y">
 
 
 
@@ -54,12 +56,14 @@
 
 <!-- Edit Menu -->
 
+<!ENTITY editMenu.label "Tahrirlash">
+<!ENTITY editMenu.accesskey "T">
 
 
 
+<!ENTITY redoCmd.label "Amalni qaytarish">
 
-
-
+<!ENTITY redoCmd.accesskey "q">
 
 
 
@@ -97,8 +101,10 @@
 
 <!-- View Menu -->
 
-
-
+<!ENTITY viewMenu.label "Ko‘rinishi">
+<!ENTITY viewMenu.accesskey "K">
+<!ENTITY viewToolbarsMenuNew.label "Asboblar paneli">
+<!ENTITY viewToolbarsMenuNew.accesskey "A">
 
 
 
@@ -166,10 +172,10 @@
 
 
 
-
-
-
-
+<!ENTITY preferencesCmd2.label "Tanlamalar">
+<!ENTITY preferencesCmd2.accesskey "T">
+<!ENTITY preferencesCmdUnix.label "Parametrlar">
+<!ENTITY preferencesCmdUnix.accesskey "m">
 <!--  Mac OS X Window Menu -->
 
 

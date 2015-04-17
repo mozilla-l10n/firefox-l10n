@@ -34,8 +34,8 @@
 
 
 
-
-
+<!ENTITY saveAsFileCmd.label "Fayl">
+<!ENTITY saveAsFileCmd.accesskey "F">
 
 
 
@@ -114,10 +114,10 @@
 
 
 
-
-
-
-
+<!ENTITY undoDefaultCmd.label "Amalni bekor qilish">
+<!ENTITY undoDefaultCmd.accesskey "b">
+<!ENTITY redoDefaultCmd.label "Amalni qaytarish">
+<!ENTITY redoDefaultCmd.accesskey "q">
 <!-- View Menu -->
 
 

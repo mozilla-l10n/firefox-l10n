@@ -8,17 +8,24 @@ If shift key is needed with your locale popular keyboard for them,
 you can use these alternative items. Otherwise, their values should be empty.  -->
 
 
+<!ENTITY fullZoomEnlargeCmd.label       "Kattalashtirish">
+<!ENTITY fullZoomEnlargeCmd.accesskey   "l">
+<!ENTITY fullZoomEnlargeCmd.commandkey  "+">
 <!-- + is above this key on many keyboards -->
+<!ENTITY fullZoomEnlargeCmd.commandkey2 "="> 
 <!ENTITY fullZoomEnlargeCmd.commandkey3 "">
 
-
-
+<!ENTITY fullZoomReduceCmd.label        "Kichiklashtirish">
+<!ENTITY fullZoomReduceCmd.accesskey    "K">
+<!ENTITY fullZoomReduceCmd.commandkey   "-">
 <!ENTITY fullZoomReduceCmd.commandkey2  "">
 
-
-
+<!ENTITY fullZoomResetCmd.label         "Tiklash">
+<!ENTITY fullZoomResetCmd.accesskey     "T">
+<!ENTITY fullZoomResetCmd.commandkey    "0">
 <!ENTITY fullZoomResetCmd.commandkey2   "">
 
-
-
-
+<!ENTITY fullZoomToggleCmd.label        "Faqat matnni kattalashtirish">
+<!ENTITY fullZoomToggleCmd.accesskey    "m">
+<!ENTITY fullZoom.label                 "Masshtab">
+<!ENTITY fullZoom.accesskey             "M">

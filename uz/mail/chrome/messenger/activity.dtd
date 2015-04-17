@@ -12,8 +12,8 @@ file names and tall enough to hint that there are more activities in the list --
 
 
 
-
-
+<!ENTITY cmd.undo.label                   "Amalni bekor qilish">
+<!ENTITY cmd.undo.accesskey               "b">
 
 
 

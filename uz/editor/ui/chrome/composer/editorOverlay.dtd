@@ -291,8 +291,8 @@
 
 <!-- TOC manipulation -->
 
-
-
+<!ENTITY updateTOC.label          "Yangilash">
+<!ENTITY updateTOC.accesskey      "Y">
 
 
 
