@@ -16,8 +16,8 @@
 <!ENTITY saveCmd.accesskey "B">
 <!ENTITY saveAsCmd.label "Bewarje as…">
 <!ENTITY saveAsCmd.accesskey "s">
-<!ENTITY saveAsChangeEncodingCmd.label "Bewarje en tekstkodearring wizigje">
-<!ENTITY saveAsChangeEncodingCmd.accesskey "k">
+<!ENTITY saveAsChangeEncodingCmd2.label "Bewarje en tekstkodearring wizigje">
+<!ENTITY saveAsChangeEncodingCmd2.accesskey "k">
 <!ENTITY publishCmd.label "Publisearje">
 <!ENTITY publishCmd.accesskey "u">
 <!ENTITY publishCmd.key "S">
