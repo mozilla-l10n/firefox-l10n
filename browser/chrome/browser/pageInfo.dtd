@@ -22,7 +22,7 @@
 <!ENTITY  generalReferrer       "URL យោង ៖">
 <!ENTITY  generalSource         "ប្រភព​ឃ្លាំង​សម្ងាត់ ៖">
 <!ENTITY  generalModified       "បាន​កែប្រែ ៖">
-<!ENTITY  generalEncoding       "ការ​អ៊ិនកូដ ៖">
+
 <!ENTITY  generalMetaName       "ឈ្មោះ">
 <!ENTITY  generalMetaContent    "មាតិកា">
 
@@ -83,3 +83,5 @@
 <!ENTITY  securityView.privacy.viewPasswords.accessKey  "w">
 
 <!ENTITY  securityView.technical.header                 "សេចក្តី​​លម្អិត​អំពី​​បច្ចេកទេស">
+
+<!ENTITY  helpButton.label                              "ជំនួយ">

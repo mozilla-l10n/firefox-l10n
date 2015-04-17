@@ -42,6 +42,7 @@
 <!ENTITY url_bar_default_text2 "ស្វែងរក ឬ​បញ្ចូល​អាសយដ្ឋាន">
 
 <!ENTITY bookmark "ចំណាំ">
+
 <!ENTITY bookmark_added "បាន​បន្ថែម​ចំណាំ">
 <!ENTITY bookmark_removed "បាន​យក​ចំណាំ​ចេញ">
 <!ENTITY bookmark_updated "បាន​ធ្វើ​បច្ចុប្បន្នភាព​ចំណាំ">
@@ -79,6 +80,7 @@
 <!ENTITY pref_category_advanced "កម្រិត​ខ្ពស់">
 <!ENTITY pref_category_customize "ប្ដូរ​តាម​តម្រូវ​ការ">
 <!ENTITY pref_category_customize_summary "ដើម ស្វែងរក ផ្ទាំង នាំចូល">
+
 <!-- Localization note (pref_category_language) : This is the preferences
      section in which the user picks the locale in which to display Firefox
      UI. The locale includes both language and region concepts. -->
@@ -114,6 +116,15 @@
 <!ENTITY overlay_share_no_url "រក​មិន​ឃើញ​តំណ​ក្នុង​ការ​ចែករំលែក​នេះ">
 <!ENTITY overlay_share_retry "ព្យាយាម​ម្ដងទៀត">
 <!ENTITY overlay_share_select_device "ជ្រើស​ឧបករណ៍">
+<!-- Localization note (overlay_no_synced_devices) : Used when the menu option
+     to send a tab to a synced device is pressed and no other synced devices
+     are found. -->
+<!-- Localization note (overlay_share_tab_not_sent) : Used when the menu option
+     to send a tab to a synced device is pressed and there is an error
+     connecting to the server so the tab could not be sent. The text should be
+     divided into two lines (use the newline escape character, "\n", between
+     them): the first notifying the user about the failure and the second
+     telling the user what to do about it. -->
 
 <!ENTITY pref_category_search3 "ស្វែងរក">
 <!ENTITY pref_category_search_summary "ប្ដូរ​ក្រុមហ៊ុន​ផ្ដល់​របស់​អ្នក​តាម​តម្រូវ​ការ">
@@ -140,7 +151,9 @@
 <!ENTITY pref_category_devtools_summary "ការ​កែ​កំហុស​ពី​ចម្ងាយ ពន្លឺ​គំនូរ">
 <!ENTITY pref_developer_paint_flashing "ពន្លឺ​គំនូរ">
 <!ENTITY pref_developer_remotedebugging "ការ​បំបាត់​កំហុស​ពី​ចម្ងាយ">
+
 <!ENTITY pref_remember_signons "ចងចាំ​ពាក្យសម្ងាត់">
+
 
 <!ENTITY pref_category_home "ដើម">
 <!ENTITY pref_category_home_summary "ប្ដូរ​គេហទំព័រ​​របស់​អ្នក​តាម​តម្រូវ​ការ">
@@ -176,6 +189,18 @@
 <!ENTITY pref_tracking_protection_summary "&brandShortName; នឹង​រារាំង​តំបន់បណ្ដាញ​ពី​ការ​តាមដាន​អ្នក">
 <!ENTITY pref_donottrack_title "កុំ​តាមដាន">
 <!ENTITY pref_donottrack_summary "&brandShortName; នឹង​ប្រាប់​តំបន់បណ្ដាញ​ថា​អ្នក​មិន​ចង់​ឲ្យ​តាមដាន​ទេ">
+
+
+<!-- Localization note (tab_queue_notification_text_plural) : The
+     formatD is replaced with the number of tabs queued.  The
+     number of tabs queued is always more than one.  We can't use
+     Android plural forms, sadly. See Bug #753859. -->
+<!-- Localization note (tab_queue_notification_title_plural) : This is the
+     title of a notification; we expect more than one tab queued. -->
+<!-- Localization note (tab_queue_notification_title_singular) : This is the
+     title of a notification; we expect only one tab queued. -->
+<!-- Localization note (tab_queue_notification_text_singular) : This is the
+     text of a notification; we expect only one tab queued. -->
 
 <!ENTITY pref_char_encoding "ការ​អ៊ិនកូដ​តួអក្សរ">
 <!ENTITY pref_char_encoding_on "បង្ហាញ​ម៉ឺនុយ">
@@ -271,7 +296,7 @@ size. -->
      (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
 <!ENTITY datareporting_crashreporter_title_short "កម្មវិធី​របាយការណ៍​គាំង">
 <!ENTITY datareporting_wifi_title2 "&vendorShortName; សេវាកម្ម​ទីតាំង">
-<!ENTITY datareporting_wifi_geolocation_summary3 "ជួយ​ឲ្យ &vendorShortName; មាន​នៅ​ក្នុង​ផែនទី​ពិភពលោក! ចែករំលែក​វ៉ាយហ្វាយ​ប្រហាក់ប្រហែល និង​ទីតាំង​ឧបករណ៍​របស់​អ្នក​ដើម្បី​ធ្វើឲ្យ​សេវាកម្ម​ភូមិសាស្ត្រ​របស់​យើង​ប្រសើរ​ឡើង">
+
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
      actual notification that an update is available. -->
@@ -286,6 +311,7 @@ size. -->
 <!ENTITY quit "ចេញ">
 
 <!ENTITY addons "កម្មវិធី​បន្ថែម">
+
 <!ENTITY downloads "ទាញ​យក">
 <!ENTITY apps "កម្មវិធី">
 <!ENTITY char_encoding "ការ​អ៊ិនកូដ​តួអក្សរ">
@@ -338,6 +364,13 @@ size. -->
 <!ENTITY contextmenu_top_sites_pin "ខ្ទាស់​តំបន់​បណ្ដាញ">
 <!ENTITY contextmenu_top_sites_unpin "មិន​ខ្ទាស់​តំបន់​បណ្ដាញ">
 <!ENTITY contextmenu_add_search_engine "បន្ថែម​ម៉ាស៊ីន​ស្វែងរក">
+<!-- Localization note (doorhanger_login_no_username): This string is used in the save-login doorhanger
+     where normally a username would be displayed. In this case, no username was found, and this placeholder
+     contains brackets to indicate this is not actually a username, but rather a placeholder -->
+
+<!ENTITY doorhanger_login_edit_username_hint "ឈ្មោះ​អ្នក​ប្រើ">
+
+
 
 <!ENTITY pref_titlebar_mode "របារ​ចំណង​ជើង">
 <!ENTITY pref_titlebar_mode_title "បង្ហាញ​ចំណងជើង​ទំព័រ">
@@ -347,6 +380,8 @@ size. -->
 
 <!ENTITY pref_scroll_title_bar2 "ការ​រុករក​ពេញ​អេក្រង់">
 <!ENTITY pref_scroll_title_bar_summary "លាក់​របារ​ចំណង​ជើង &brandShortName; ពេល​រមូរ​ទំព័រ​ចុះក្រោម">
+
+
 <!-- Localization note (page_removed): This string appears in a toast message when
      any page is removed frome about:home. This includes pages that are in history,
      bookmarks, or reading list. -->
@@ -366,6 +401,9 @@ size. -->
 <!ENTITY site_settings_no_settings  "មិន​មាន​ការ​កំណត់​ដែល​ត្រូវ​សម្អាត​ទេ។">
 
 <!ENTITY reading_list_added "បាន​បន្ថែម​ទំព័រ​ទៅ​បញ្ជី​អាន​របស់​អ្នក">
+<!ENTITY reading_list_removed "បាន​យក​ទំព័រ​ចេញពី​បញ្ជី​អាន​របស់​អ្នក">
+<!-- Localization note (reading_list_remove) : Used to remove the currently open page from
+     the user's reading list. The opposite of overlay_share_reading_list_btn_label. -->
 <!ENTITY reading_list_duplicate "ទំព័រ​គឺ​នៅ​ក្នុង​បញ្ជី​អាន​របស់​អ្នក​រួចហើយ">
 <!-- Localization note (reading_list_time_minutes2) : This string is used in the "Reading List"
      panel on the home page to give the user an estimate of how many minutes it will take to
@@ -380,7 +418,7 @@ size. -->
 
 <!ENTITY masterpassword_create_title "បង្កើត​ពាក្យសម្ងាត់​មេ">
 <!ENTITY masterpassword_remove_title "យក​ពាក្យ​សម្ងាត់​មេ​ចេញ">
-<!ENTITY masterpassword_password "ពាក្យសម្ងាត់">
+
 <!ENTITY masterpassword_confirm "អះអាង​ពាក្យសម្ងាត់">
 
 <!ENTITY button_ok "យល់ព្រម">
@@ -390,6 +428,7 @@ size. -->
 <!ENTITY button_clear_data "សម្អាត​ទិន្នន័យ">
 <!ENTITY button_set "កំណត់">
 <!ENTITY button_clear "សម្អាត">
+<!ENTITY button_remember "ចងចាំ">
 
 <!ENTITY home_top_sites_title "តំបន់បណ្ដាញ​ពេញនិយម">
 <!-- Localization note (home_top_sites_add): This string is used as placeholder
@@ -513,6 +552,13 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY bookmarkhistory_import_wait "សូម​រង់ចាំ...">
 
 <!ENTITY suggestions_prompt3 "តើ​អ្នក​ចង់​បើក​ការ​ស្នើ​ការ​ស្វែងរក​ឬ?">
+<!--  Localization note (search_bar_item_desc): When the user clicks the url bar
+      and starts typing, a list of icons of search engines appears at the bottom
+      of the screen. When a user clicks an icon, the entered text will be searched
+      via the search engine that uses the icon they clicked. This text is used
+      for screen reader users when they hover each icon - &formatS; will be
+      replaced with the name of the currently highlighted icon. -->
+<!ENTITY search_bar_item_desc "ស្វែងរក​ជាមួយ &formatS;">
 <!-- Localization note (suggestion_for_engine): The placeholder &formatS1; will be
      replaced with the name of the search engine. The placeholder &formatS2; will be
      replaced with the search query. -->

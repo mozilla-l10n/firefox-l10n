@@ -5,17 +5,17 @@
 <!ENTITY folderProps.windowtitle.label           "Properties">
 
 <!ENTITY generalInfo.label                       "General Information">
-<!ENTITY folderCharsetFallback.label             "ការ​អ៊ិនកូដ តួអក្សរ​ត្រឡប់​ក្រោយ៖">
-<!ENTITY folderCharsetFallback.accesskey         "ត">
-<!ENTITY folderCharsetEnforce.label              "អនុវត្ត​ការ​អ៊ិនកូដ​សារ​ទាំងអស់​ក្នុង​ថត (ការកំណត់​អ៊ិនកូដ​តួអក្សរ​សារ​នីមួយៗ និង​ការ​រក​ឃើញ​ស្វ័យ​ប្រវត្តិ​នឹង​ត្រូវ​បាន​មិន​អើពើ)">
-<!ENTITY folderCharsetEnforce.accesskey          "A">
+
+
+
+
 <!ENTITY folderRebuildSummaryFileTip2.label      "Rebuild Summary File Index">
 <!ENTITY folderRebuildSummaryFile2.label         "Վերականգնել">
 <!ENTITY folderRebuildSummaryFile2.accesskey     "R">
 <!ENTITY folderRebuildSummaryFile.explanation    "Sometimes the folder index (.msf) file becomes damaged and messages may appear missing or deleted messages continue showing; repairing the folder may fix these issues.">
 <!ENTITY folderIncludeInGlobalSearch.label       "Ներառել նամակները Գլոբալ փնտրման արդյունքում">
 <!ENTITY folderIncludeInGlobalSearch.accesskey   "G">
-     
+
 <!ENTITY retention.label "Retention Policy">
 <!ENTITY retentionUseAccount.label  "Օգտ. իմ փոստարկղի կարգավորումները">
 <!ENTITY retentionUseAccount.accesskey "U">
