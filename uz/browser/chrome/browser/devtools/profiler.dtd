@@ -47,7 +47,7 @@
 <!ENTITY profilerUI.toolbar.js-calltree "JavaScript">
 <!ENTITY profilerUI.toolbar.memory-calltree1 "Cheklovlar">
 <!ENTITY profilerUI.toolbar.js-flamegraph "JS olovli grafik">
-
+<!ENTITY profilerUI.toolbar.memory-flamegraph1 "Olovli diagramma cheklovlari">
 <!-- LOCALIZATION NOTE (profilerUI.table.*): These strings are displayed
   -  in the call tree headers for a recording. -->
 
@@ -57,7 +57,7 @@
 <!ENTITY profilerUI.table.selfPercentage  "O‘z narxi">
 <!ENTITY profilerUI.table.samples         "Namunalar">
 <!ENTITY profilerUI.table.function        "Funksiya">
-
+<!ENTITY profilerUI.table.totalAlloc1       "Umumiy soddalashtirilgan cheklovlar">
 
 
 
