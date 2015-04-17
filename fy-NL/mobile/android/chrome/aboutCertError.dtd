@@ -16,8 +16,8 @@ by NSS/PSM via netError.xhtml. -->
 <!-- Localization note (certerror.introPara1) - The string "#1" will
 be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
-<!ENTITY certerror.introPara1 "Jo hawwe &brandShortName; frege om feilich 
-te ferbinen mei <b>#1</b>, mar wy kinne net befestigje dat de ferbining feilich is.">
+<!ENTITY certerror.introPara1 "Jo hawwe &brandShortName; frege in feilige 
+ferbining te meitsjen mei <b>#1</b>, mar wy kinne net befêstigje dat jo ferbining befeilige is.">
 
 <!ENTITY certerror.whatShouldIDo.heading "Wat moat ik dwaan?">
 <!ENTITY certerror.whatShouldIDo.content "As jo normaal ferbine mei
@@ -29,7 +29,7 @@ om de side nei te meitsjen, en jo soene dan net trochgean.">
 <!ENTITY certerror.expert.content "As jo begripe wat der bart, kinne jo
 &brandShortName; fertelle om dizze side syn identifikaasje te fertrouwen.
 <b>Ek al fertrouwe jo de side, dizze flater kin betsjutte dat in oar
-tampering mei jo ferbining.</b>">
+mei jo ferbining oan it prutsen is.</b>">
 <!ENTITY certerror.expert.contentPara2 "Foegje gjin útsûndering ta allinnich as
 jo witte dat der in goede reden is wêrom't dizze side net fertroude identifikaasje brûkt.">
 <!ENTITY certerror.addTemporaryException.label "Webstee besykje">

@@ -7,7 +7,7 @@
 <!ENTITY privatebrowsingpage.issueDesc.private      "Jo hawwe in nij priveeljepblêd iepene.">
 <!ENTITY privatebrowsingpage.issueDesc.normal       "Jo binne net yn in priveeljepblêd.">
 
-<!ENTITY privatebrowsingpage.description            "Yn priveeljepblêden sil &brandShortName; gjin navigaasjeskiednis, sykskiednis, downloadskiednis, webformulierskiednis, cookies of tydlike ynternetbestannen bewarje. Bestannen dy't jo downloade of blêdwizers dy't jo oanmeitsje sille lykwols wol bewarre wurde.">
+<!ENTITY privatebrowsingpage.description            "Yn priveeljepblêden sil &brandShortName; gjin navigaasjeskiednis, sykskiednis, downloadskiednis, webformulierskiednis, cookies of tydlike ynternetbestannen bewarje. Bestannen dy't jo downloade of blêdwizers dy't jo oanmeitsje bliuwe lykwols wol bewarre.">
 <!ENTITY privatebrowsingpage.description.private    "&privatebrowsingpage.issueDesc.private; &privatebrowsingpage.description;">
 
 <!ENTITY privatebrowsingpage.moreInfo               "Hoewol't dit apparaat gjin navigaasjeskiednis fan jo bewarje sil, kin jo ynternetserviceprovider dochs folgje hokker siden jo besykje.">
