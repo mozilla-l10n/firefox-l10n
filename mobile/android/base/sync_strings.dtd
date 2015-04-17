@@ -14,10 +14,10 @@
 <!ENTITY sync.title.pair.label 'In apparaat keppelje'>
 
 <!-- J-PAKE Key Screen -->
-<!ENTITY sync.subtitle.connect.label 'Selektearje &syncBrand.shortName.label; ynstelle” op it apparaat om jo nije apparaat te aktivearjen.'>
+<!ENTITY sync.subtitle.connect.label 'Selektearje ‘&syncBrand.shortName.label; ynstelle’ op it apparaat om jo nije apparaat te aktivearjen.'>
 <!ENTITY sync.subtitle.header2.label 'Fier dizze koade yn op jo oare apparaat'>
-<!ENTITY sync.subtitle.connectlocation2.label 'Selektearje “&sync.title.pair.label;” yn de &syncBrand.shortName.label; seksje fa de opsjes fan Firefox op jo oare appaaraat.'>
-<!ENTITY sync.subtitle.pair.label 'Selektearje “In apparaat keppelje” op jo oare apparaat om te aktivearjen.'>
+<!ENTITY sync.subtitle.connectlocation2.label 'Selektearje ‘&sync.title.pair.label;’ yn de &syncBrand.shortName.label; seksje fa de opsjes fan Firefox op jo oare appaaraat.'>
+<!ENTITY sync.subtitle.pair.label 'Selektearje ‘In apparaat keppelje’ op jo oare apparaat om te aktivearjen.'>
 <!ENTITY sync.pin.default.label '...\n...\n...\n'>
 <!ENTITY sync.pin.oneline.label '...'>
 <!ENTITY sync.link.show.label 'Toane hoe.'>
@@ -52,7 +52,7 @@
 
 <!-- Pair Device -->
 <!ENTITY sync.pair.tryagain.label 'Probearje it opnij.'>
-<!ENTITY sync.pair.connectlocation.label 'Selektearje “&syncBrand.shortName.label; ynstelle” op jo nije apparaat en dan  “Ik haw in account.” om it te aktivearjen'>
+<!ENTITY sync.pair.connectlocation.label 'Selektearje ‘&syncBrand.shortName.label; ynstelle’ op jo nije apparaat en dan  ‘Ik haw in account.’ om it te aktivearjen'>
 
 <!-- Firefox SyncAdapter Settings Screen -->
 <!ENTITY sync.settings.options.label 'Opsjes'>
@@ -207,8 +207,8 @@
 <!ENTITY fxaccount_status_needs_verification2 'Jo account moat ferifiearre wurde. Tik om de ferifikaasje-e-mail opnij te ferstjoeren.'>
 <!ENTITY fxaccount_status_needs_credentials 'Kin net ferbine. Tik om jo oan te melden.'>
 <!ENTITY fxaccount_status_needs_upgrade 'Jo moatte &brandShortName; fernije om jo oan te melden.'>
-<!ENTITY fxaccount_status_needs_master_sync_automatically_enabled '&syncBrand.shortName.label; is ynsteld, mar syngronisearret net automatysk. Skeakel “Auto-sync gegevens yn Android Instellingen &gt; Gegevengebruik.'>
-<!ENTITY fxaccount_status_needs_master_sync_automatically_enabled_v21 '&syncBrand.shortName.label; is ynsteld, mar syngronisearret net automatysk. Skeakel “Automatysk syngronisearje” om yn it menu fan Android-ynstellingen &gt; Accounts.'>
+<!ENTITY fxaccount_status_needs_master_sync_automatically_enabled '&syncBrand.shortName.label; is ynsteld, mar syngronisearret net automatysk. Skeakel ‘Automatysk syngronisearje’ om yn Android-instellingen &gt; Gegevensgebruik.'>
+<!ENTITY fxaccount_status_needs_master_sync_automatically_enabled_v21 '&syncBrand.shortName.label; is ynsteld, mar syngronisearret net automatysk. Skeakel ‘Automatysk syngronisearje’ om yn it menu fan Android-instellingen &gt; Accounts.'>
 <!ENTITY fxaccount_status_needs_finish_migrating 'Tik om jo oan te melden by jo nije Firefox-account.'>
 <!ENTITY fxaccount_status_bookmarks 'Blêdwizers'>
 <!ENTITY fxaccount_status_history 'Skiednis'>
