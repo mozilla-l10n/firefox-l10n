@@ -25,6 +25,8 @@
 <!ENTITY toolboxFramesTooltip          "Välj den iframe som ska vara det aktiva dokumentet ">
 <!-- LOCALIZATION NOTE (browserToolboxErrorMessage): This is the label
   -  shown next to error details when the Browser Toolbox is unable to open. -->
+
+<!ENTITY browserToolboxErrorMessage          "Misslyckades att öppna webbläsarens verktygslåda:">
 <!-- LOCALIZATION NOTE (options.context.advancedSettings): This is the label for
   -  the heading of the advanced settings group in the options panel. -->
 
