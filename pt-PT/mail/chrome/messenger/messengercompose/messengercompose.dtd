@@ -14,11 +14,11 @@
 <!ENTITY newMessage.key "M">
 <!ENTITY newMessageCmd2.key "N">
 <!ENTITY newMessage.accesskey "M">
-<!ENTITY newContact.label "Contacto do livro de endereços">
+<!ENTITY newContact.label "Contacto do livro de endereços...">
 <!ENTITY newContact.accesskey "C">
 <!ENTITY attachMenu.label "Anexar">
 <!ENTITY attachMenu.accesskey "x">
-<!ENTITY attachFileCmd.label "Ficheiro(s)">
+<!ENTITY attachFileCmd.label "Ficheiro(s)...">
 <!ENTITY attachFileCmd.accesskey "F">
 <!ENTITY attachFileCmd.key "A">
 <!ENTITY attachCloudCmd.label "Filelink">
@@ -38,7 +38,7 @@
 <!ENTITY saveCmd.accesskey "G">
 <!ENTITY saveAsCmd.label "Guardar como">
 <!ENTITY saveAsCmd.accesskey "a">
-<!ENTITY saveAsFileCmd.label "Ficheiro">
+<!ENTITY saveAsFileCmd.label "Ficheiro...">
 <!ENTITY saveAsFileCmd.accesskey "F">
 <!ENTITY saveAsDraftCmd.label "Rascunho">
 <!ENTITY saveAsDraftCmd.accesskey "R">
@@ -50,11 +50,11 @@
 <!ENTITY sendLaterCmd.label "Enviar depois">
 <!ENTITY sendLaterCmd.keycode "VK_RETURN">
 <!ENTITY sendLaterCmd.accesskey "L">
-<!ENTITY printSetupCmd.label "Configurar página">
+<!ENTITY printSetupCmd.label "Configurar página...">
 <!ENTITY printSetupCmd.accesskey "u">
 <!ENTITY printPreviewCmd.label "Pré-visualizar impressão">
 <!ENTITY printPreviewCmd.accesskey "v">
-<!ENTITY printCmd.label "Imprimir">
+<!ENTITY printCmd.label "Imprimir...">
 <!ENTITY printCmd.key "p">
 <!ENTITY printCmd.accesskey "I">
 
@@ -81,9 +81,9 @@
 <!ENTITY editRewrapCmd.accesskey "w">
 <!ENTITY deleteCmd.label "Eliminar">
 <!ENTITY deleteCmd.accesskey "l">
-<!ENTITY editRewrapCmd.label "Reformatar quebras de linha">
+<!ENTITY editRewrapCmd.label "Moldar novamente">
 <!ENTITY editRewrapCmd.key "R">
-<!ENTITY renameAttachmentCmd.label "Mudar nome do anexo">
+<!ENTITY renameAttachmentCmd.label "Mudar nome do anexo...">
 <!ENTITY renameAttachmentCmd.accesskey "e">
 <!ENTITY selectAllCmd.label "Selecionar tudo">
 <!ENTITY selectAllCmd.key "a">
@@ -117,7 +117,7 @@
 <!ENTITY showFormattingBarCmd.accesskey "f">
 <!ENTITY showTaskbarCmd.label "Barra de estado">
 <!ENTITY showTaskbarCmd.accesskey "s">
-<!ENTITY customizeToolbar.label "Personalizar">
+<!ENTITY customizeToolbar.label "Personalizar...">
 <!ENTITY customizeToolbar.accesskey "P">
 
 <!ENTITY addressSidebar.label "Painel de contactos">
@@ -130,7 +130,7 @@
 <!-- Options Menu -->
 <!ENTITY optionsMenu.label "Opções">
 <!ENTITY optionsMenu.accesskey "p">
-<!ENTITY checkSpellingCmd2.label "Verificar ortografia">
+<!ENTITY checkSpellingCmd2.label "Verificar ortografia...">
 <!ENTITY checkSpellingCmd2.key "i">
 <!ENTITY checkSpellingCmd2.key2 "VK_F7">
 <!ENTITY checkSpellingCmd2.accesskey "h">
@@ -151,7 +151,7 @@
 <!ENTITY deliveryFormatMenu.accesskey "F">
 <!ENTITY autoFormatCmd.label "Deteção automática">
 <!ENTITY autoFormatCmd.accesskey "a">
-<!ENTITY plainTextFormatCmd.label "Sem formatação">
+<!ENTITY plainTextFormatCmd.label "Texto simples">
 <!ENTITY plainTextFormatCmd.accesskey "e">
 <!ENTITY htmlFormatCmd.label "Formatação HTML">
 <!ENTITY htmlFormatCmd.accesskey "r">
@@ -159,6 +159,8 @@
 <!ENTITY bothFormatCmd.accesskey "f">
 <!ENTITY priorityMenu.label "Prioridade">
 <!ENTITY priorityMenu.accesskey "P">
+<!ENTITY priorityButton.title "Prioridade">
+<!ENTITY priorityButton.tooltiptext "Alterar prioridade da mensagem">
 <!ENTITY priorityButton.label "Prioridade:">
 <!ENTITY lowestPriorityCmd.label "Muito baixa">
 <!ENTITY lowestPriorityCmd.accesskey "x">
@@ -170,8 +172,8 @@
 <!ENTITY highPriorityCmd.accesskey "A">
 <!ENTITY highestPriorityCmd.label "Muito alta">
 <!ENTITY highestPriorityCmd.accesskey "u">
-<!ENTITY fileCarbonCopyCmd.label "Guardar cópia em">
-<!ENTITY fileCarbonCopyCmd.accesskey "d">
+<!ENTITY fileCarbonCopyCmd.label "Enviar cópia para">
+<!ENTITY fileCarbonCopyCmd.accesskey "v">
 <!ENTITY fileHereMenu.label "Nesta pasta">
 
 <!-- Tools Menu -->
@@ -208,12 +210,12 @@
 <!ENTITY printButton.label "Imprimir">
 
 <!-- Mail Toolbar Tooltips -->
-<!ENTITY sendButton.tooltip "Enviar mensagem agora">
-<!ENTITY sendlaterButton.tooltip "Enviar mensagem mais tarde">
+<!ENTITY sendButton.tooltip "Enviar esta mensagem agora">
+<!ENTITY sendlaterButton.tooltip "Enviar esta mensagem mais tarde">
 <!ENTITY quoteButton.tooltip "Citar mensagem anterior">
-<!ENTITY addressButton.tooltip "Selecionar destinatário do livro de endereços">
+<!ENTITY addressButton.tooltip "Selecionar um destinatário do livro de endereços">
 <!ENTITY attachButton.tooltip "Incluir um anexo">
-<!ENTITY spellingButton.tooltip "Verificar ortografia da selecção ou mensagem">
+<!ENTITY spellingButton.tooltip "Verificar ortografia da selecção ou da mensagem">
 <!ENTITY saveButton.tooltip "Guardar esta mensagem">
 <!ENTITY cutButton.tooltip "Cortar">
 <!ENTITY copyButton.tooltip "Copiar">
@@ -239,7 +241,7 @@ to the strings in attachmentCount in composeMsgs.properties -->
 <!ENTITY attachments.accesskey "n">
 
 <!-- Format Toolbar, imported from editorAppShell.xul -->
-<!ENTITY SmileButton.tooltip "Inserir um ícone emotico">
+<!ENTITY SmileButton.tooltip "Inserir um ícone emotivo">
 <!ENTITY smiley1Cmd.label "Alegre">
 <!ENTITY smiley2Cmd.label "Triste">
 <!ENTITY smiley3Cmd.label "Piscadela">
@@ -258,7 +260,7 @@ to the strings in attachmentCount in composeMsgs.properties -->
 <!ENTITY smiley16Cmd.label "Boca fechada">
 
 <!-- Message Pane Context Menu -->
-<!ENTITY spellCheckNoSuggestions.label "Sem sugestões">
+<!ENTITY spellCheckNoSuggestions.label "Não existem sugestões">
 <!ENTITY spellCheckIgnoreWord.label "Ignorar palavra">
 <!ENTITY spellCheckIgnoreWord.accesskey "I">
 <!ENTITY spellCheckAddToDictionary.label "Adicionar ao dicionário">
@@ -280,11 +282,11 @@ to the strings in attachmentCount in composeMsgs.properties -->
 <!ENTITY delete.accesskey "l">
 <!ENTITY removeAttachment.label "Remover anexo">
 <!ENTITY removeAttachment.accesskey "m">
-<!ENTITY renameAttachment.label "Mudar nome">
+<!ENTITY renameAttachment.label "Mudar nome...">
 <!ENTITY renameAttachment.accesskey "r">
 <!ENTITY selectAll.label "Selecionar tudo">
 <!ENTITY selectAll.accesskey "a">
-<!ENTITY attachFile.label "Anexar ficheiro(s)">
+<!ENTITY attachFile.label "Anexar ficheiro(s)...">
 <!ENTITY attachFile.accesskey "f">
 <!ENTITY attachCloud.label "Filelink...">
 <!ENTITY attachCloud.accesskey "i">
