@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!-- Window title -->
 
-<!ENTITY windowTitle.label            "Argitaratu orria">
+<!ENTITY windowTitle.label            "Argitaratu orrialdea">
 <!ENTITY windowTitleSettings.label    "Argitaratze ezarpenak">
 <!ENTITY publishTab.label             "Argitaratu">
 <!ENTITY settingsTab.label            "Ezarpenak">
@@ -15,26 +15,26 @@
 <!ENTITY siteList.tooltip             "Argitaratu nahi duzun gunea aukeratu">
 <!ENTITY newSiteButton.label          "Gune berria">
 <!ENTITY newSiteButton.accesskey      "n">
-<!ENTITY docDirList.label             "Orri honen gune azpidirektorioa:">
+<!ENTITY docDirList.label             "Orrialde honen gune azpidirektorioa:">
 <!ENTITY docDirList.accesskey         "g">
-<!ENTITY docDirList.tooltip           "Hautatu edo idatzi orri honen urruneko azpidirektorioaren izena">
+<!ENTITY docDirList.tooltip           "Hautatu edo sartu orrialde honen urruneko azpidirektorioaren izena">
 <!ENTITY publishImgCheckbox.label     "Irudiak eta beste fitxategiak sartu">
 <!ENTITY publishImgCheckbox.accesskey "b">
-<!ENTITY publishImgCheckbox.tooltip   "Orri honek erabilitako irudi eta beste fitxategiak argitaratu">
-<!ENTITY sameLocationRadio.label      "Orriaren kokapen berdina erabili">
+<!ENTITY publishImgCheckbox.tooltip   "Orrialde honek erabilitako irudi eta beste fitxategiak argitaratu">
+<!ENTITY sameLocationRadio.label      "Orrialdearen kokapen berdina erabili">
 <!ENTITY sameLocationRadio.accesskey  "b">
-<!ENTITY sameLocationRadio.tooltip    "Fitxategiak orriaren kokaleku berdinean argitaratu">
+<!ENTITY sameLocationRadio.tooltip    "Fitxategiak orrialdearen kokaleku berdinean argitaratu">
 <!ENTITY useSubdirRadio.label         "Gune azpidirektorio hau erabili:">
 <!ENTITY useSubdirRadio.accesskey     "d">
 <!ENTITY useSubdirRadio.tooltip       "Argitaratu fitxategiak hautaturiko urruneko direktorioan">
-<!ENTITY otherDirList.tooltip         "Hautatu edo idatzi fitxategiak argitaratzeko urruneko azpidirektorioaren izena">
-<!ENTITY pageTitle.label              "Orriaren izenburua:">
+<!ENTITY otherDirList.tooltip         "Hautatu edo sartu fitxategiak argitaratzeko urruneko azpidirektorioaren izena">
+<!ENTITY pageTitle.label              "Orrialdearen izenburua:">
 <!ENTITY pageTitle.accesskey          "i">
-<!ENTITY pageTitle.tooltip            "Leihoan eta laster-marketan orriak erabiltzeko izenburua idatzi">
-<!ENTITY pageTitleExample.label       "adib.: &quot;Nire web orria&quot;">
+<!ENTITY pageTitle.tooltip            "Sartu izenburu bat leihoan eta laster-marketan orrialdea desberdintzeko">
+<!ENTITY pageTitleExample.label       "adib.: &quot;Nire webgunea&quot;">
 <!ENTITY filename.label               "Fitxategi-izena:">
 <!ENTITY filename.accesskey           "F">
-<!ENTITY filename.tooltip             "Idatzi fitxategiaren izena, web orrientzat '.html' ere">
+<!ENTITY filename.tooltip             "Sartu fitxategiaren izena, web orrialde batentzako '.html' ere">
 <!ENTITY filenameExample.label        "adib,: &quot;nireorria.html&quot;">
 <!ENTITY setDefaultButton.label       "Ezarri lehenetsi gisa">
 <!ENTITY setDefaultButton.accesskey   "l">

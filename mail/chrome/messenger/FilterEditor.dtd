@@ -23,10 +23,10 @@
 <!ENTITY contextManual.accesskey "E">
 <!ENTITY contextBeforeCls.label "Iragazi zaborra sailkatu aurretik">
 <!ENTITY contextAfterCls.label "Iragazi zaborra sailkatu ondoren">
-
-
-
-
+<!ENTITY contextOutgoing.label "Bidali ostean">
+<!ENTITY contextOutgoing.accesskey "o">
+<!ENTITY contextArchive.label "Artxibatzen">
+<!ENTITY contextArchive.accesskey "A">
 
 <!ENTITY filterActionDesc.label "Burutu ekintza hauek:">
 <!ENTITY filterActionDesc.accesskey "B">

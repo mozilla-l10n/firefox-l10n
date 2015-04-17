@@ -23,7 +23,7 @@
 <!ENTITY attachFileCmd.key "A">
 <!ENTITY attachCloudCmd.label "Filelink">
 <!ENTITY attachCloudCmd.accesskey "i">
-<!ENTITY attachPageCmd.label "Web orria…">
+<!ENTITY attachPageCmd.label "Webgunea…">
 <!ENTITY attachPageCmd.accesskey "W">
 <!--LOCALIZATION NOTE attachVCardCmd.label Don't translate the term 'vCard' -->
 <!ENTITY attachVCardCmd.label "Txartel pertsonala (vCard)">
@@ -50,7 +50,7 @@
 <!ENTITY sendLaterCmd.label "Bidali geroago">
 <!ENTITY sendLaterCmd.keycode "VK_RETURN">
 <!ENTITY sendLaterCmd.accesskey "l">
-<!ENTITY printSetupCmd.label "Prestatu orria…">
+<!ENTITY printSetupCmd.label "Prestatu orrialdea…">
 <!ENTITY printSetupCmd.accesskey "u">
 <!ENTITY printPreviewCmd.label "Inprimatzeko aurrebista">
 <!ENTITY printPreviewCmd.accesskey "b">
@@ -293,7 +293,7 @@
 <!ENTITY cancelUpload.accesskey "t">
 <!ENTITY convertRegularAttachment.label "Eranskin arrunta">
 <!ENTITY convertRegularAttachment.accesskey "E">
-<!ENTITY attachPage.label "Erantsi web orria…">
+<!ENTITY attachPage.label "Erantsi webgunea…">
 <!ENTITY attachPage.accesskey "w">
 <!-- Spell checker context menu items -->
 

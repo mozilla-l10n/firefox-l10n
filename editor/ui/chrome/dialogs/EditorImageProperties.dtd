@@ -32,7 +32,7 @@
 <!ENTITY actualSizeRadio.tooltip "Itzuli irudiaren uneko tamainara">
 <!ENTITY customSizeRadio.label "Tamaina pertsonalizatua">
 <!ENTITY customSizeRadio.accessKey "s">
-<!ENTITY customSizeRadio.tooltip "Aldatu irudiaren tamaina orrian bistaratu bezala">
+<!ENTITY customSizeRadio.tooltip "Aldatu irudiaren tamaina orrialdean bistaratu bezala">
 <!ENTITY heightEditField.label "Altuera:">
 <!ENTITY heightEditField.accessKey "t">
 <!ENTITY widthEditField.label "Zabalera:">

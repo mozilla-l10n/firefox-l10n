@@ -9,7 +9,7 @@
 <!ENTITY loginAtStartup.label "Egiaztatu artikulu berriak dauden abiaraztean"> 
 <!ENTITY loginAtStartup.accesskey "g">
 
-<!ENTITY useQuickMode.label "Lehenetsita, erakutsi artikuluaren laburpena web orria kargatu ordez"> 
+<!ENTITY useQuickMode.label "Lehenetsita, erakutsi artikuluaren laburpena web orrialdea kargatu ordez"> 
 <!ENTITY useQuickMode.accesskey "L">
 
 <!ENTITY manageSubscriptions.label "Kudeatu harpidetzak…"> 

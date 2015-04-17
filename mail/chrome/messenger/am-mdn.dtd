@@ -12,7 +12,7 @@
 <!ENTITY requestReceipt.label         "Eskatu beti hartu-agiria mezuak bidaltzean">
 <!ENTITY requestReceipt.accesskey     "h">
 <!ENTITY receiptArrive.label          "Hartu-agiri bat iristean:">
-<!ENTITY leaveIt.label                "Utzi sarrerako ontzian">
+<!ENTITY leaveIt.label                "Utzi sarrera-ontzian">
 <!ENTITY leaveIt.accesskey            "s">
 <!-- LOCALIZATION NOTE moveToSent.label Translate: 'Sent' according to Netscape glossary -->
 <!ENTITY moveToSent.label             "Mugitu &quot;Bidalitakoak&quot; karpetara">

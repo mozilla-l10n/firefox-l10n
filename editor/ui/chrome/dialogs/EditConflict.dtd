@@ -4,7 +4,7 @@
 <!-- Window title -->
 
 <!ENTITY windowTitle.label "Hautatu edizio aldaketak">
-<!ENTITY conflictWarning.label "Orri hau beste programa batek eraldatu du, baina gorde gabeko aldaketak dituzu mezu-prestatzailean.">
+<!ENTITY conflictWarning.label "Orrialde hau beste programa batek eraldatu du, baina gorde gabeko aldaketak dituzu mezu-prestatzailean.">
 <!ENTITY conflictResolve.label "Hautatu zein bertsio mantendu behar den:">
-<!ENTITY keepCurrentPageButton.label "Mantendu uneko orriaren aldaketak">
-<!ENTITY useOtherPageButton.label "Aldatu uneko orria bestearen aldaketekin">
+<!ENTITY keepCurrentPageButton.label "Mantendu uneko orrialdearen aldaketak">
+<!ENTITY useOtherPageButton.label "Ordeztu uneko orrialdea beste aldaketa batzuekin">

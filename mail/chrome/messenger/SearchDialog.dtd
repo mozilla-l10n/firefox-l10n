@@ -47,7 +47,7 @@
 <!ENTITY accountColumn.label "Kontua">
 <!ENTITY statusColumn.label "Egoera">
 <!ENTITY sizeColumn.label "Tamaina">
-<!ENTITY junkStatusColumn.label "Zabor-postaren egoera">
+<!ENTITY junkStatusColumn.label "Zabor-egoera">
 <!ENTITY unreadColumn.label "Irakurri gabeak">
 <!ENTITY totalColumn.label "Guztira">
 <!ENTITY readColumn.label "Irakurrita">

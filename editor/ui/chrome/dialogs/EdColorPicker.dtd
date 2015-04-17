@@ -6,7 +6,7 @@
 <!ENTITY lastPickedColor.label "Azkenez hautatutako kolorea">
 <!ENTITY lastPickedColor.accessKey "A">
 <!ENTITY setColor1.label "Egin klik kolore batean edo">
-<!ENTITY setColor2.label "idatzi HTML kolore-kate bat">
+<!ENTITY setColor2.label "sartu HTML kolore-kate bat">
 <!ENTITY setColor2.accessKey "H">
 <!ENTITY setColorExample.label "(adib.: &quot;#0000ff&quot; edo &quot;urdin&quot;):">
 <!ENTITY default.label "Lehenetsia">
