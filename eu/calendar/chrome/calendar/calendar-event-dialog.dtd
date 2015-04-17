@@ -241,7 +241,7 @@
 <!ENTITY event.recurrence.year.label                    "urtero" >
 
 <!ENTITY event.recurrence.pattern.every.label           "Errepikatze-aldia" >
-<!ENTITY repeat.units.days.both                         "egunero" >
+<!ENTITY repeat.units.days.both                         "Egun" >
 <!ENTITY event.recurrence.pattern.every.weekday.label   "Aste egunero" >
 
 <!ENTITY event.recurrence.pattern.weekly.every.label    "Errepikatze-aldia" >
@@ -306,7 +306,7 @@
 <!ENTITY event.recurrence.pattern.yearly.week.5.label        "Osteguna" >
 <!ENTITY event.recurrence.pattern.yearly.week.6.label        "Ostirala" >
 <!ENTITY event.recurrence.pattern.yearly.week.7.label        "Larunbata" >
-
+<!ENTITY event.recurrence.pattern.yearly.day.label           "egun" >
 <!ENTITY event.recurrence.of.label                           "-" >
 <!ENTITY event.recurrence.pattern.yearly.month2.1.label      "Urtarrila" >
 <!ENTITY event.recurrence.pattern.yearly.month2.2.label      "Otsaila" >
@@ -350,7 +350,7 @@
 <!ENTITY event.attendee.usertype.room           "Gela">
 <!-- Timezone dialog -->
 
-<!ENTITY timezone.title.label            "Mesedez zehaztu ordu-zonaldea">
+<!ENTITY timezone.title.label            "Zehaztu ordu-zonaldea">
 <!ENTITY event.timezone.custom.label     "Ordu-zona gehiago…">
 <!-- Read-Only dialog -->
 
