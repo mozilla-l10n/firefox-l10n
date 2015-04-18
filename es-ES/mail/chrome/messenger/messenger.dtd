@@ -177,6 +177,8 @@
 <!ENTITY sortByFromCmd.accesskey "R">
 <!ENTITY sortByRecipientCmd.label "Destinatario">
 <!ENTITY sortByRecipientCmd.accesskey "i">
+<!ENTITY sortByCorrespondentCmd.label "Participantes">
+<!ENTITY sortByCorrespondentCmd.accesskey "P">
 <!ENTITY sortByUnreadCmd.label "Leídos">
 <!ENTITY sortByUnreadCmd.accesskey "L">
 <!ENTITY sortByOrderReceivedCmd.label "Orden de recepción">
@@ -601,6 +603,7 @@
 <!ENTITY threadColumn.label "Conversación">
 <!ENTITY fromColumn.label "Remitente">
 <!ENTITY recipientColumn.label "Destinatario">
+<!ENTITY correspondentColumn.label "Participantes">
 <!ENTITY subjectColumn.label "Asunto">
 <!ENTITY dateColumn.label "Fecha">
 <!ENTITY priorityColumn.label "Prioridad">
@@ -621,6 +624,7 @@
 <!ENTITY threadColumn2.tooltip "Mostrar conversaciones de mensajes">
 <!ENTITY fromColumn2.tooltip "Ordenar por remitente">
 <!ENTITY recipientColumn2.tooltip "Ordenar por destinatario">
+<!ENTITY correspondentColumn2.tooltip "Ordenar por participantes">
 <!ENTITY subjectColumn2.tooltip "Ordenar por asunto">
 <!ENTITY dateColumn2.tooltip "Ordenar por fecha">
 <!ENTITY priorityColumn2.tooltip "Ordenar por prioridad">
