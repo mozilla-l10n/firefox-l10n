@@ -72,6 +72,8 @@
 <!ENTITY saveFrameAsCmd.label         "Guardar frame como…">
 <!ENTITY saveFrameCmd.label           "Guardar frame">
 <!ENTITY saveFrameCmd.accesskey       "G">
+<!ENTITY printFrameCmd.label          "Imprimir frame…">
+<!ENTITY printFrameCmd.accesskey      "I">
 <!ENTITY saveLinkAsCmd.label          "Guardar ligação como…">
 <!ENTITY saveLinkCmd.label            "Guardar ligação">
 <!ENTITY saveLinkCmd.accesskey        "r">
