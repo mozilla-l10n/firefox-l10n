@@ -10,7 +10,7 @@
 
 <!ENTITY update.checkForUpdatesButton.label       "പുതുക്കലുകള്‍ക്കായി പരിശോധിക്കൂ">
 <!ENTITY update.checkForUpdatesButton.accesskey   "പ">
-
+<!ENTITY update.updateButton.label2                "&brandShortName; പുതുക്കാൻ വീണ്ടും ആരംഭിയ്ക്കുക">
 
 <!ENTITY update.applyButtonBillboard.label        "പുതുക്കല്‍ പ്രാവര്‍ത്തികമാക്കൂ...">
 <!ENTITY update.applyButtonBillboard.accesskey    "പ">
@@ -38,7 +38,9 @@
 <!ENTITY community.creditsLink      "ആഗോള കൂട്ടായ്മ">
 <!ENTITY community.end3             " വെബ് തുറന്നതും, പൊതുവായതും, എല്ലാര്‍ക്കും ലഭ്യമായതും ആക്കാനായി ഒന്നിച്ചു് ജോലി ചെയ്യുന്നു.">
 
+<!ENTITY helpus.start               "സഹായം?">
 <!-- LOCALIZATION NOTE (helpus.donateLink): This is a link title that links to https://sendto.mozilla.org/page/contribute/Give-Now?source=mozillaorg_default_footer&ref=firefox_about&utm_campaign=firefox_about&utm_source=firefox&utm_medium=referral&utm_content=20140929_FireFoxAbout. -->
+<!ENTITY helpus.donateLink          "സംഭാവന നൽക്കുക">
 
 <!-- LOCALIZATION NOTE (helpus.getInvolvedLink): This is a link title that links to http://www.mozilla.org/contribute/. -->
 <!ENTITY helpus.end                 "">

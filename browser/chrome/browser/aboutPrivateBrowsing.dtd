@@ -2,10 +2,13 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY aboutPrivateBrowsing.title            "നിങ്ങൾ സ്വകാര്യമായി ബ്രൗസ്സ് ചെയ്യുന്നു">
+
 
 <!ENTITY aboutPrivateBrowsing.subtitle         "&brandShortName;-ല്‍ ഈ സെഷന്റെ ഒരു ചരിത്രവും ഓര്‍ത്തു് വയ്ക്കുകയില്ല.">
 
 
+<!ENTITY aboutPrivateBrowsing.description      "ബ്രൗസ്സിങ് നാൾവഴി, തിരയൽ നാൾവഴി, ഡൗൺലോഡ് നാൾവഴി, വെബ് രൂപത്തിലുള്ള നാൾവഴി, കുക്കീസ്സ്, താത്കാലിക ഇന്റര്‍നെറ്റ് ഫയലുകൾ എന്നിവ അവയിൽ ഉൽപ്പെടും. ഡൗൺലോഡ് ചെയ്യുന്നവയും അടയാളക്കുറിപ്പു് വെക്കുന്നവയും സൂക്ഷിക്കും. ">
 
 
 
