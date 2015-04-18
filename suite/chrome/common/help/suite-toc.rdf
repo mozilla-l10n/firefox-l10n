@@ -95,7 +95,7 @@
   <rdf:Description about="#nav-doc-language">
     <nc:subheadings>
       <rdf:Seq>
-        <rdf:li> <rdf:Description ID="nav-doc-charencode" nc:name="Seleccionar codificaciones  de caracteres y tipos de letra" nc:link="nav_help.xhtml#selecting_character_encodings_and_fonts"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="nav-doc-charencode" nc:name="Seleccionar codificaciones de texto y tipos de letra" nc:link="nav_help.xhtml#selecting_text_encodings_and_fonts"/> </rdf:li>
         <rdf:li> <rdf:Description ID="nav-doc-languagepref" nc:name="Configurar las preferencias del  idioma" nc:link="nav_help.xhtml#setting_language_preferences"/> </rdf:li>
         <rdf:li> <rdf:Description ID="nav-doc-webcontent" nc:name="Buscar una versión de &brandShortName; en su  propio idioma" nc:link="nav_help.xhtml#finding_localized_version"/> </rdf:li>
       </rdf:Seq>
@@ -506,7 +506,7 @@
         <rdf:li> <rdf:Description ID="mail-prefs-junk" nc:name="Correo basura y sospechoso (preferencias de correo y grupos de noticias)" nc:link="mailnews_preferences.xhtml#junk_and_suspect_preferences"/> </rdf:li>
         <rdf:li> <rdf:Description ID="mail-prefs-tags" nc:name="Etiquetas (preferencias de correo y grupos de noticias)" nc:link="mailnews_preferences.xhtml#tags"/> </rdf:li>
         <rdf:li> <rdf:Description ID="mail-prefs-receipts" nc:name="Acuse de recibo (preferencias de  correo y grupos de noticias)" nc:link="mailnews_preferences.xhtml#return_receipts_preferences"/> </rdf:li>
-        <rdf:li> <rdf:Description ID="mail_prefs_character_encoding" nc:name="Codificación de caracteres (preferencias de  correo y grupos de noticias)" nc:link="mailnews_preferences.xhtml#character_encoding"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="mail_prefs_text_encoding" nc:name="Codificación de texto (preferencias de  correo y grupos de noticias)" nc:link="mailnews_preferences.xhtml#text_encoding"/> </rdf:li>
         <rdf:li> <rdf:Description ID="mail_prefs_offline" nc:name="Red y almacenamiento (preferencias de correo y grupos de noticias)" nc:link="mailnews_preferences.xhtml#network_and_storage_preferences"/> </rdf:li>
       </rdf:Seq>
     </nc:subheadings>

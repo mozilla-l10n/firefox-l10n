@@ -49,14 +49,15 @@
   web y un navegador y el cifrado de la información que fluye entre ambos.
   También se usa para la comunicación segura en otros protocolos, p.e., para
   la protección de información confidencial intercambiada con servidores de
-  correo, calendario o directorio. El más reciente protocolo de la Seguridad
+  correo, calendario o directorio. Los protocolos SSL 2.0 y SSL 3.0 son
+  inseguros y por tanto obsoletos. El más reciente protocolo de Seguridad
   de la Capa de Transporte (TLS) es un estándar IEF basado en SSL pero con su
   propia numeración de versiones. TLS 1.0 puede ser considerado equivalente a
-  SSL 3.1, TLS 1.1 es a su vez una actualización de TLS 1.0, etc. Los protocolos
-  más recientes son preferidos a los más antiguos, ya que proporcionan mejor
+  SSL 3.1, TLS 1.1 es a su vez una actualización de TLS 1.0, etc. Se prefieren
+  los protocolos más recientes a los más antiguos, ya que proporcionan mejor
   seguridad y más características. Los protocolos más antiguos se admiten para
   asegurar la compatibilidad.</p>
-    
+
 <p>Por defecto, &brandShortName; seleccionará la versión más segura admitida
   con carácter general para conectar al servidor. Si ese intento no tiene
   éxito, intentará conectar con la versión inmediatamente anterior, y así
@@ -67,10 +68,10 @@
   las siguientes opciones:</p>
 
 <ul>
-  <li><strong>Activar</strong>: marque las casillas <strong>SSL 3.0</strong>,
-    <strong>TLS 1.0</strong>, <strong>TLS 1.1</strong> y/o
-    <strong>TLS 1.2</strong> para indicar qué versiones del protocolo pueden
-    ser usadas para una conexión segura al servidor.</li>
+  <li><strong>Activar</strong>: marque las casillas <strong>TLS 1.0</strong>,
+    <strong>TLS 1.1</strong> y/o <strong>TLS 1.2</strong> para indicar qué
+    versiones del protocolo se pueden usar para una conexión segura al
+    servidor.</li>
 </ul>
 
 <p><strong>Notas</strong>:</p>
@@ -79,12 +80,12 @@
   <li>Debe seleccionarse al menos una versión del protocolo, por lo que no es
     posible desmarcar la última casilla marcada.</li>
   <li>Además, la selección debe ser consecutiva. No es posible seleccionar
-    SSL 3.0 y TLS 1.1 pero excluir la versión intermedia TLS 1.0.</li>
+    TLS 1.0 y TLS 1.2 pero excluir la versión intermedia TLS 1.1.</li>
   <li>Puede extender el rango en múltiples versiones. Por ejemplo, si sólo
-    está marcada SSL 3.0 y se selecciona TLS 1.2, se seleccionarán también
-    automáticamente las versiones TLS 1.0 y TLS 1.1.</li>
+    está marcada TLS 1.0 y se selecciona TLS 1.2, se seleccionará también
+    automáticamente la versión TLS 1.1.</li>
   <li>Las casillas pueden aparecer marcadas pero desactivadas si no se pueden
-    desmarcar sin violar estas reglas. Desmarque las casillas de los extermos
+    desmarcar sin violar estas reglas. Desmarque las casillas de los extremos
     para poder acceder a las versiones intermedias.</li>
 </ul>
 
