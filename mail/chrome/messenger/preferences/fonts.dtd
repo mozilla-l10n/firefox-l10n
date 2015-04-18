@@ -56,9 +56,9 @@
 <!ENTITY useDocumentFonts.accesskey "o">
 <!ENTITY sendDefaultCharset.label "Correo saliente:">
 <!ENTITY sendDefaultCharset.accesskey "e">
-<!ENTITY languagesTitle1.label "Codificaciones de caracteres">
-<!ENTITY composingDescription.label "Establecer las codificaciones predeterminadas para enviar y recibir mensajes">
+<!ENTITY languagesTitle2.label "Codificación de texto">
+<!ENTITY composingDescription2.label "Configurar la codificación de texto por defecto para enviar y recibir mensajes">
 <!ENTITY viewDefaultCharsetList.label "Correo entrante:">
 <!ENTITY viewDefaultCharsetList.accesskey "C">
-<!ENTITY replyInDefaultCharset2.label "Si es posible, usar la codif. caracteres por defecto en las respuestas">
-<!ENTITY replyInDefaultCharset2.accesskey "S">
+<!ENTITY replyInDefaultCharset3.label "Cuando sea posible, usar la codificación de texto predeterminada en las respuestas">
+<!ENTITY replyInDefaultCharset3.accesskey "b">
