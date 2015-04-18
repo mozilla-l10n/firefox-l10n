@@ -222,7 +222,7 @@
 <!ENTITY pref_plugins_tap_to_play "Dotakni za pokretanje">
 <!ENTITY pref_plugins_disabled "Onemogućeno">
 <!ENTITY pref_text_size "Veličina teksta">
-
+<!ENTITY pref_reflow_on_zoom4 "Tijek teksta">
 <!ENTITY pref_restore "Kartice">
 <!ENTITY pref_restore_always "Uvijek vrati">
 <!ENTITY pref_restore_quit "Ne vraćaj nakon izlaza iz &brandShortName;">
@@ -237,8 +237,11 @@
 same character/combination is used to increase the preview font size. It should be a concise
 representation of the language it is used in that will help show the text in the preview will change
 size. -->
+<!ENTITY pref_font_size_adjust_char "A">
 <!-- Localization note (pref_font_size_preview_text): This paragraph is used as an example to
     demonstrate the font size setting.  It is meant to be whimsical and fun. -->
+
+<!ENTITY pref_font_size_preview_text "Brza narančasta lisica preskače vaša očekivanja sa još više brzine, više fleksibilnosti i više sigurnosti. Kao neprofitna organizacija, slobodni smo inovirati u vaše ime bez pritiska za kompromisima. To znači bolje iskustvo za vas i svijetlija budućnost za Web.">
 
 <!ENTITY pref_media_autoplay_enabled "Dozvoli automatsku reprodukciju">
 <!ENTITY pref_media_autoplay_enabled_summary "Upravljajte da li web stranice mogu automatski reproducirati video i drugi medijski sadržaj">
@@ -477,24 +480,30 @@ size. -->
 <!ENTITY home_move_up_to_filter "Gore na &formatS;">
 
 <!ENTITY home_remote_tabs_title "Sinkronizirane kartice">
-
+<!ENTITY home_remote_tabs_empty "Vaše kartice sa drugih uređaja se pojavljuju ovdje.">
 <!ENTITY home_remote_tabs_unable_to_connect "Povezivanje nije moguće">
+<!ENTITY home_remote_tabs_need_to_sign_in "Prijavite se kako biste ponovno povezali vaš Firefox račun i nastavili sinkronizaciju.">
+<!ENTITY home_remote_tabs_need_to_finish_migrating "Vaš novi Firefox račun je spreman!">
 
+<!ENTITY home_remote_tabs_trouble_verifying "Problemi u potvrđivanju vašeg računa?">
+<!ENTITY home_remote_tabs_need_to_verify "Potvrdite vaš Firefox račun za početak sinkronizacije.">
 
-
-
-
+<!ENTITY home_remote_tabs_one_hidden_device "1 skriveni uređaj">
 <!-- Localization note (home_remote_tabs_many_hidden_devices) : The
      formatD is replaced with the number of hidden devices.  The
      number of hidden devices is always more than one.  We can't use
      Android plural forms, sadly. See Bug #753859. -->
+<!ENTITY home_remote_tabs_many_hidden_devices "&formatD; skrivenih uređaja">
 <!-- Localization note (home_remote_tabs_hidden_devices_title) : This is the
      title of a dialog; we expect more than one device. -->
+<!ENTITY home_remote_tabs_hidden_devices_title "Skriveni uređaji">
 <!-- Localization note (home_remote_tabs_unhide_selected_devices) : This is
      the text of a button; we expect more than one device. -->
+<!ENTITY home_remote_tabs_unhide_selected_devices "Prikaži odabrane uređaje">
 
-
-
+<!ENTITY private_browsing_title "Privatno pretraživanje">
+<!ENTITY private_tabs_panel_empty_desc "Vaše privatne kartice će se pojaviti ovdje. Iako ne bilježimo povijest vašeg pretraživanja ili kolačiće, zabilješke ili datoteke koje preuzmete će i dalje biti spremljeni na vašem uređaju.">
+<!ENTITY private_tabs_panel_learn_more "Želite li saznati više?">
 
 <!ENTITY remote_tabs_panel_moved_title "Gdje su nestale moje kartice?">
 <!ENTITY remote_tabs_panel_moved_desc "Premjestili smo vaše kartice sa drugih uređaja u panel na vašoj početnoj stranici, kojemu se može jednostavno pristupiti svaki put kada otvorite novu karticu.">
@@ -551,29 +560,40 @@ iz Androida">
 iz Androida">
 <!ENTITY bookmarkhistory_import_history "Uvoz povijesti 
 iz Androida">
+<!ENTITY bookmarkhistory_import_wait "Pričekajte...">
 
-
+<!ENTITY suggestions_prompt3 "Želite li uključiti prijedloge pretraživanja?">
 <!--  Localization note (search_bar_item_desc): When the user clicks the url bar
       and starts typing, a list of icons of search engines appears at the bottom
       of the screen. When a user clicks an icon, the entered text will be searched
       via the search engine that uses the icon they clicked. This text is used
       for screen reader users when they hover each icon - &formatS; will be
       replaced with the name of the currently highlighted icon. -->
-<!ENTITY search_bar_item_desc "Pretražuj sa &formatS;">
+<!ENTITY search_bar_item_desc "Traži s &formatS;">
 <!-- Localization note (suggestion_for_engine): The placeholder &formatS1; will be
      replaced with the name of the search engine. The placeholder &formatS2; will be
      replaced with the search query. -->
 
+<!ENTITY suggestion_for_engine "Pretraži &formatS1; za &formatS2;">
 
-<!-- Updater notifications -->
+<!ENTITY webapp_generic_name "Aplikacija">
 
+<!ENTITY searchable_description "Zabilješke i povijest">
+<!-- Updater notifications --> 
 
+<!ENTITY updater_start_title2 "Ažuriranje dostupno za &brandShortName;">
+<!ENTITY updater_start_select2 "Pritisnite za preuzimanje">
 
+<!ENTITY updater_downloading_title2 "Preuzimanje &brandShortName;">
+<!ENTITY updater_downloading_title_failed2 "Preuzimanje nije uspjelo">
+<!ENTITY updater_downloading_select2 "Pritisnite za primjenu ažuriranja nakon što se preuzme">
+<!ENTITY updater_downloading_retry2 "Pritisnite za ponovni pokušaj">
 
-
-
-
+<!ENTITY updater_apply_title2 "Ažuriranje dostupno za &brandShortName;">
+<!ENTITY updater_apply_select2 "Pritisnite za ažuriranje">
 <!-- Guest mode -->
+
+<!ENTITY new_guest_session "Nova gost sesija">
 <!ENTITY exit_guest_session "Izlaz iz gost sesije">
 <!ENTITY guest_session_dialog_continue "Nastavi">
 <!ENTITY guest_session_dialog_cancel "Odustani">
