@@ -11,7 +11,7 @@
 <!ENTITY startingNumber.label "Započni na:">
 <!ENTITY startingNumber.accessKey "Z">
 <!ENTITY none.value "Niti jedan">
-<!ENTITY bulletList.value "Popis sa grafička oznaka (bez brojeva)">
+<!ENTITY bulletList.value "Popis grafičkih oznaka (bez brojeva)">
 <!ENTITY numberList.value "Numerički popis">
 <!ENTITY definitionList.value "Popis definicija">
 <!ENTITY changeEntireListRadio.label "Promjeni cijeli popis">

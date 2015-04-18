@@ -22,7 +22,7 @@
 <!ENTITY success.title.before "Pozdrav ">
 <!ENTITY success.title.after ", sljedeće adrese e-pošte su vam dostupne:">
 <!ENTITY success.tip "(Možete pokušati tražiti prema nadimku ili nekom drugom pojmu kako bi našli više adresa e-pošte)">
-<!ENTITY partnership.description "U suradnji sa više pružatelja usluga, &brandShortName; vam može ponuditi novi račun e-pošte. Unesite svoje ime i prezime ili bilo koji drugi pojam koji želite u polja iznad kako bi zapčeli.">
+<!ENTITY partnership.description "U suradnji s više pružatelja usluga, &brandShortName; vam može ponuditi novi račun e-pošte. Unesite svoje ime i prezime ili bilo koji drugi pojam koji želite u polja iznad kako bi zapčeli.">
 <!ENTITY existing.header "Već imate adresu e-pošte koju želite koristiti?">
 <!ENTITY tinyheader.title "Imate li adresu e-pošte?">
 <!ENTITY tinyheader.existing "Preskočite ovo i koristite postojeću adresu e-pošte">
@@ -31,7 +31,7 @@
 <!ENTITY successful.successMessage "Uspješno ste postavili svoj račun.">
 <!ENTITY successful.write "Napišite poruku">
 <!ENTITY successful.write.desc "Obavjestite vaše prijatelje i obitelj o vašoj novoj adresi e-pošte.<br/> Zbog toga ste i napravili ovaj novi račun, zar nije?">
-<!ENTITY successful.customize "Prilagodite &brandShortName; sa odličnim dodacima">
+<!ENTITY successful.customize "Prilagodite &brandShortName; s odličnim dodacima">
 <!ENTITY successful.customize.desc "Postoje tisuće dodataka koji vam dopuštaju prilagodbu &brandShortName;a kako bi odgovarao vašim potrebama.">
 <!ENTITY successful.attach "Dodajte osobni potpis vašim porukama">
 <!ENTITY successful.attach.desc "Možete automatski dodati citat ili neke informacije o sebi na kraj svake poslane poruke.">

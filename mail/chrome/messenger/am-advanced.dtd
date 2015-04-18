@@ -8,7 +8,7 @@
 <!ENTITY smtpServer.label "Postavke odlaznog (SMTP) poslužitelja">
 <!-- LOCALIZATION NOTE (smtpDescription.label): do not translate "SMTP" in below line -->
 
-<!ENTITY smtpDescription.label "Prilikom upravljanja vašim identitetima možete koristiti poslužitelj sa ovog popisa odabirući ga kao Odlazni poslužitelj (SMTP), ili možete koristiti zadani poslužitelj sa ovog popisa tako da odaberete &quot;Koristi zadani poslužitelj&quot;.">
+<!ENTITY smtpDescription.label "Prilikom upravljanja vašim identitetima možete koristiti poslužitelj s ovog popisa odabirući ga kao Odlazni poslužitelj (SMTP), ili možete koristiti zadani poslužitelj s ovog popisa tako da odaberete &quot;Koristi zadani poslužitelj&quot;.">
 
 <!ENTITY smtpListAdd.label  "Dodaj…">
 <!ENTITY smtpListAdd.accesskey  "D">

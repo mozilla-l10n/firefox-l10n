@@ -10,7 +10,7 @@
 <!ENTITY MsgSyncDirections.label "Preuzmi i/ili sinkroniziraj sljedeće:">
 <!ENTITY syncTypeMail.label "Poruke e-pošte">
 <!ENTITY syncTypeMail.accesskey "P">
-<!ENTITY syncTypeNews.label "Poruke sa interesnih grupa">
+<!ENTITY syncTypeNews.label "Poruke s interesnih grupa">
 <!ENTITY syncTypeNews.accesskey "n">
 <!ENTITY sendMessage.label "Pošalji neposlane poruke">
 <!ENTITY sendMessage.accesskey "s">

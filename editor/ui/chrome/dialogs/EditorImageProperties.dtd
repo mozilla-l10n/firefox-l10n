@@ -64,7 +64,7 @@
 <!ENTITY borderEditField.accessKey "b">
 <!-- These controls are in the Link Box -->
 
-<!ENTITY showImageLinkBorder.label "Prikaži obrub oko slike sa poveznicom">
+<!ENTITY showImageLinkBorder.label "Prikaži obrub oko slike s poveznicom">
 <!ENTITY showImageLinkBorder.accessKey "b">
 <!ENTITY LinkAdvancedEditButton.label "Napredno uređivanje poveznice…">
 <!ENTITY LinkAdvancedEditButton.accessKey "N">

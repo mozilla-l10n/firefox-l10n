@@ -7,7 +7,7 @@
 <!ENTITY replaceDialog.title "Pronađi i zamjeni">
 <!ENTITY findField.label "Pronađi tekst:">
 <!ENTITY findField.accesskey "n">
-<!ENTITY replaceField.label "Zamjeni sa:">
+<!ENTITY replaceField.label "Zamjeni s:">
 <!ENTITY replaceField.accesskey "e">
 <!ENTITY caseSensitiveCheckbox.label "Pazi na velika/mala slova">
 <!ENTITY caseSensitiveCheckbox.accesskey "P">
