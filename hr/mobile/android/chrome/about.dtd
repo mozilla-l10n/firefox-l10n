@@ -2,11 +2,11 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!ENTITY aboutPage.title                        "O &brandShortName;">
-
-
+<!ENTITY aboutPage.warningVersion               "&brandShortName; je eksperimentalna inačica i može biti nestabilna.">
+<!ENTITY aboutPage.telemetryStart               " Automatski šalje informacije o performansama, hardveru, korištenju i prilagodbama nazad u ">
 <!ENTITY aboutPage.telemetryMozillaLink         "&vendorShortName;">
-
-
+<!ENTITY aboutPage.telemetryEnd                 " kako bi učinili &brandShortName; boljim.">
+<!ENTITY aboutPage.checkForUpdates.link         "Provjeri dostupnost dopuna »">
 
 
 
