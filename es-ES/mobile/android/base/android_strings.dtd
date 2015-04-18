@@ -31,6 +31,7 @@
 <!ENTITY choose_file "Elegir archivo">
 <!ENTITY url_bar_default_text2 "Término de búsqueda o dirección">
 <!ENTITY bookmark "Marcador">
+<!ENTITY bookmark_remove "Elminar marcador">
 <!ENTITY bookmark_added "Marcador añadido">
 <!ENTITY bookmark_removed "Marcador eliminado">
 <!ENTITY bookmark_updated "Marcador añadido">
@@ -75,6 +76,7 @@
 <!ENTITY overlay_share_retry "Reintentar">
 <!ENTITY overlay_share_select_device "Seleccione dispositivo">
 <!ENTITY overlay_no_synced_devices "No se han encontrado dispositivos conectados a Firefox Accounts">
+<!ENTITY overlay_share_tab_not_sent "No se ha podido enviar su pestaña.\nVuelva a intentarlo más tarde.">
 <!ENTITY pref_category_search3 "Buscar">
 <!ENTITY pref_category_search_summary "Personalizar sus buscadores">
 <!ENTITY pref_category_display "Visualización">
@@ -200,7 +202,7 @@
 <!ENTITY datareporting_crashreporter_summary "&brandShortName; envía informes de fallo para ayudar a &vendorShortName; a crear un navegador más estable y seguro">
 <!ENTITY datareporting_crashreporter_title_short "Informe de fallos">
 <!ENTITY datareporting_wifi_title2 "Servicio de localización de &vendorShortName;">
-<!ENTITY datareporting_wifi_geolocation_summary3 "¡Ayude a &vendorShortName; a mapear el mundo! Comparta la ubicación aproximada wifi o móvil de su dispositivo para ayudar a mejorar nuestro servicio de geolocalización">
+<!ENTITY datareporting_wifi_geolocation_summary4 "¡Ayude a &vendorShortName; a mapear el mundo! Comparta la ubicación wifi y móvil aproximada de su dispositivo para mejorar nuestro servicio de geolocalización.">
 <!ENTITY pref_update_autodownload2 "Descargar actualizaciones automáticamente">
 <!ENTITY pref_update_autodownload_wifi "Sólo bajo Wi-Fi">
 <!ENTITY pref_update_autodownload_never "Nunca">
@@ -253,6 +255,11 @@
 <!ENTITY contextmenu_top_sites_pin "Fijar sitio">
 <!ENTITY contextmenu_top_sites_unpin "Soltar sitio">
 <!ENTITY contextmenu_add_search_engine "Añadir un buscador">
+<!ENTITY doorhanger_login_no_username "[Sin nombre]">
+<!ENTITY doorhanger_login_edit_title "Editar credencial">
+<!ENTITY doorhanger_login_edit_username_hint "Nombre de usuario">
+<!ENTITY doorhanger_login_edit_password_hint "Contraseña">
+<!ENTITY doorhanger_login_edit_toggle "Mostrar contraseña">
 <!ENTITY pref_titlebar_mode "Barra de título">
 <!ENTITY pref_titlebar_mode_title "Mostrar el título de la página">
 <!ENTITY pref_titlebar_mode_url "Mostrar la dirección de la página">
@@ -287,6 +294,7 @@
 <!ENTITY button_clear_data "Limpiar datos">
 <!ENTITY button_set "Configurar">
 <!ENTITY button_clear "Limpiar">
+<!ENTITY button_remember "Recordar">
 <!ENTITY home_top_sites_title "Frecuentes">
 <!ENTITY home_top_sites_add "Añadir un sitio">
 <!ENTITY home_title "Página de inicio de &brandShortName;">
@@ -353,6 +361,7 @@
                                       desde Android">
 <!ENTITY bookmarkhistory_import_wait "Espere…">
 <!ENTITY suggestions_prompt3 "¿Le gustaría activar las sugerencias de búsqueda?">
+<!ENTITY search_bar_item_desc "Buscar con &formatS;">
 <!ENTITY suggestion_for_engine "Buscar &formatS2; en &formatS1;">
 <!ENTITY webapp_generic_name "Aplicaciones">
 <!ENTITY searchable_description "Marcadores e historial">
