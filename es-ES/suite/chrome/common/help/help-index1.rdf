@@ -777,9 +777,9 @@
          nc:link="mailnews_preferences.xhtml#address_autocompletion"/>
      </rdf:li>
      <rdf:li>
-       <rdf:Description ID="Mail_and_Newsgroups:Character_Encoding"
-         nc:name="Codificaci&#243;n de caracteres"
-         nc:link="mailnews_preferences.xhtml#character_encoding"/>
+       <rdf:Description ID="Mail_and_Newsgroups:Text_Encoding"
+         nc:name="Codificaci&#243;n de texto"
+         nc:link="mailnews_preferences.xhtml#text_encoding"/>
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="Mail_and_Newsgroups:addressing_messages"
