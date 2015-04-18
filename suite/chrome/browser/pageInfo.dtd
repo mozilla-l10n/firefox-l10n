@@ -31,7 +31,7 @@
 <!ENTITY  generalReferrer       "URL de referência:">
 <!ENTITY  generalSource         "Origem da cache:">
 <!ENTITY  generalModified       "Modificado:">
-<!ENTITY  generalEncoding       "Codificação:">
+<!ENTITY  generalEncoding2      "Codificação de texto:">
 <!ENTITY  generalMetaName       "Nome">
 <!ENTITY  generalMetaContent    "Conteúdo">
 <!ENTITY  generalSecurityDetails   "Detalhes">
@@ -39,10 +39,10 @@
 
 <!ENTITY  formsTab              "Formulários">
 <!ENTITY  formsTab.accesskey    "F">
-<!ENTITY  formAction            "Acção do formulário">
+<!ENTITY  formAction            "Ação do formulário">
 <!ENTITY  formMethod            "Método">
 <!ENTITY  formName              "Nome">
-<!ENTITY  formEncoding          "Codificação:">
+<!ENTITY  formEncoding2         "Codificação de texto:">
 <!ENTITY  formTarget            "Destino:">
 <!ENTITY  formFields            "Campos:">
 <!ENTITY  formLabel             "Etiqueta">
@@ -100,7 +100,7 @@
 <!ENTITY  securityTab           "Segurança">
 <!ENTITY  securityTab.accesskey "S">
 <!ENTITY  securityHeader        "Informação de segurança para esta página">
-<!ENTITY  securityView.certView "Ver ceritificado">
+<!ENTITY  securityView.certView "Ver certificado">
 <!ENTITY  securityView.accesskey "V">
 <!ENTITY  securityView.unknown   "Desconhecido">
 
@@ -110,7 +110,7 @@
 <!ENTITY  securityView.identity.domain   "Sítio web:">
 <!ENTITY  securityView.identity.verifier "Verificado por:">
 
-<!ENTITY  securityView.privacy.header                   "Privacidade &amp; Histórico">
+<!ENTITY  securityView.privacy.header                   "Privacidade e Histórico">
 <!ENTITY  securityView.privacy.history                  "Já visitei este sítio hoje?">
 <!ENTITY  securityView.privacy.cookies                  "Este sítio web está a guardar informação (cookies) no meu computador?">
 <!ENTITY  securityView.privacy.viewCookies              "Mostrar as cookies">
