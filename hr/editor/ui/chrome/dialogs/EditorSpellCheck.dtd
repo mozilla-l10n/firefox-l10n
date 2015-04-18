@@ -6,7 +6,7 @@
 <!ENTITY windowTitle.label "Provjera pravopisa">
 
 <!ENTITY misspelledWord.label "Pogrešno napisana riječ:">
-<!ENTITY wordEditField.label "Zamjeni sa:">
+<!ENTITY wordEditField.label "Zamjeni s:">
 <!ENTITY wordEditField.accessKey "Z">
 <!ENTITY checkwordButton.label "Provjeri riječ">
 <!ENTITY checkwordButton.accessKey "r">

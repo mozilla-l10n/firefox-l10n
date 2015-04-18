@@ -17,7 +17,7 @@
 <!ENTITY returnSome.accesskey          "r">
 <!ENTITY notInToCc.label               "Ako nisam u Prima ili Cc dijelu poruke:">
 <!ENTITY notInToCc.accesskey           "k">
-<!ENTITY outsideDomain.label           "Ako pošiljatelj nije sa moje domene:">
+<!ENTITY outsideDomain.label           "Ako pošiljatelj nije s moje domene:">
 <!ENTITY outsideDomain.accesskey       "t">
 <!ENTITY otherCases.label              "U svim ostalim slučajevima:">
 <!ENTITY otherCases.accesskey          "a">

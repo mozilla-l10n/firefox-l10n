@@ -2,8 +2,6 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY privatebrowsingpage.title                  "Privatno pretraživanje">
-
 <!ENTITY privatebrowsingpage.issueDesc.normal       "Niste u privatnoj kartici.">
 
 <!ENTITY privatebrowsingpage.description            "U privatnim karticama, &brandShortName; neće čuvati nikakve podatke o posjećenim stranicama, povijest pretraživanja, povijest preuzimanja, podatke unesene u obrascima, kolačiće ili privremene podatke. Međutim, datoteke koje preuzmete i stranice koje spremite u zabilješke će biti zadržane.">

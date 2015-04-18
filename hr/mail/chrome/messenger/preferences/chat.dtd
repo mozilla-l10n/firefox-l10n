@@ -17,7 +17,7 @@ sentence. -->
 <!ENTITY  reportIdleAfter.accesskey     "i">
 <!ENTITY  idleTime                      "minuta neaktivnosti">
 
-<!ENTITY  andSetStatusToAway.label      "i postavi moj status na Odsutan sa ovom porukom:">
+<!ENTITY  andSetStatusToAway.label      "i postavi moj status na Odsutan s ovom porukom:">
 <!ENTITY  andSetStatusToAway.accesskey  "a">
 
 <!ENTITY  sendTyping.label              "Šalji obavjest o tipkanju u razgovorima">
@@ -26,8 +26,8 @@ sentence. -->
 <!ENTITY  chatNotifications.label             "Kada stignu poruke naslovljene na vas:">
 <!ENTITY  desktopChatNotifications.label      "Prikaži obavijest:">
 <!ENTITY  desktopChatNotifications.accesskey  "k">
-<!ENTITY  completeNotification.label          "sa imenom pošiljatelja i pregledom poruke">
-<!ENTITY  buddyInfoOnly.label                 "samo sa imenom pošiljatelja">
+<!ENTITY  completeNotification.label          "s imenom pošiljatelja i pregledom poruke">
+<!ENTITY  buddyInfoOnly.label                 "samo s imenom pošiljatelja">
 <!ENTITY  dummyNotification.label             "bez bilo kakvih informacija">
 <!ENTITY  chatSound.accesskey                 "d">
 <!ENTITY  chatSound.label                     "Reproduciraj zvuk">

@@ -12,4 +12,4 @@
 <!ENTITY showAllUnreadMessagesCount.label      "Broj nepročitanih poruka">
 <!ENTITY showAllUnreadMessagesCount.accesskey  "u">
 <!ENTITY dockIconBadge.label                   "Značka aplikacijske ikone">
-<!ENTITY dockIconShow.label                    "Označi aplikacijsku ikonu sa:">
+<!ENTITY dockIconShow.label                    "Označi aplikacijsku ikonu s:">

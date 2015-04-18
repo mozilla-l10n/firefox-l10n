@@ -48,7 +48,7 @@ ima li &brandShortName; omogućen pristup Webu.</li>
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
 <!ENTITY notCached.title "Dokument istekao">
-<!ENTITY notCached.longDesc "<p>Traženi dokument nije dostupan u privremenoj memoriji.</p><ul><li>Kao mjeru predostrožnosti, &brandShortName; ne traži automatski nanovo povjerljive dokument.</li><li>Kliknite Pokušaj ponovno kako biste ponovno zatražili dokument sa web stranice.</li></ul>">
+<!ENTITY notCached.longDesc "<p>Traženi dokument nije dostupan u privremenoj memoriji.</p><ul><li>Kao mjeru predostrožnosti, &brandShortName; ne traži automatski nanovo povjerljive dokument.</li><li>Kliknite Pokušaj ponovno kako biste ponovno zatražili dokument s web stranice.</li></ul>">
 
 <!ENTITY netOffline.title "Izvanmrežni način rada">
 <!ENTITY netOffline.longDesc2 "<ul> 
