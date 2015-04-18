@@ -716,9 +716,9 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY social.closeNotificationItem.label "ഇപ്പോള്‍ അല്ല ">
 
 
-
-
-
+<!ENTITY social.directory.button "എന്നെ അവിടെ എത്തികൂ">
+<!ENTITY social.directory.introText "&brandShortName; ലേക്ക് ഒരു സേവനം ഉൾപെടുത്താൻ ക്ലിക്ക് ചെയ്യുക">
+<!ENTITY social.directory.viewmore.text "കൂടുതൽ കാണുക">
 
 <!ENTITY customizeMode.tabTitle "&brandShortName; യഥേഷ്ടമാക്കുക">
 <!ENTITY customizeMode.menuAndToolbars.header2 "കൂടുതല്‍ വിശേഷതകളും പ്രയോഗങ്ങളും">
@@ -727,11 +727,11 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY customizeMode.restoreDefaults "സ്വതവേയുള്ളവ പുനഃസ്ഥാപിക്കുക">
 <!ENTITY customizeMode.toolbars "ടൂള്‍ബാറുകള്‍ കാണിയ്ക്കുക/അദൃശ്യമാക്കുക">
 <!ENTITY customizeMode.titlebar "തലക്കെട്ട് പട്ട">
+<!ENTITY customizeMode.lwthemes "പ്രമേയങ്ങള്‍">
 
 
-
-
-
+<!ENTITY customizeMode.lwthemes.menuManage "ക്രമീകരിക്കൂ">
+<!ENTITY customizeMode.lwthemes.menuManage.accessKey "M">
 
 
 
@@ -796,14 +796,14 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- LOCALIZATION NOTE: (panicButton.view.mainTimeframeDesc, panicButton.view.5min, panicButton.view.2hr, panicButton.view.day):
      The .mainTimeframeDesc string combined with any of the 3 others is meant to form a complete sentence, e.g. "Forget the last: Five minutes".
      Please ensure that this remains the case in the translation. -->
-
-
-
+<!ENTITY panicButton.view.5min                    "അഞ്ച് മിനിറ്റ്">
+<!ENTITY panicButton.view.2hr                     "രണ്ട് മണിക്കൂർ">
+<!ENTITY panicButton.view.day                     "24മണിക്കൂര്‍">
 <!-- LOCALIZATION NOTE: (panicButton.view.mainLabel, panicButton.view.deleteCookies, panicButton.view.deleteHistory, panicButton.view.deleteTabsAndWindows, panicButton.view.openNewWindow):
      The .mainActionDesc string combined with any of the 4 others is meant to form a complete sentence, e.g. "Proceeding will: Delete Recent Cookies".
      Note also that the deleteCookies, deleteHistory and deleteTabsAndWindows strings include <html:strong> tags for emphasis on the words "Cookies", "History", "Tabs" and "Windows".
      The translation should do the same. -->
-
+<!ENTITY panicButton.view.deleteCookies           "ഈയിടെയുള്ള<html:strong> ഉം </html:strong> ഉം നീക്കുക">
 
 
 
@@ -812,7 +812,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 
 
-
+<!ENTITY panicButton.thankyou.buttonlabel         "നന്ദി!">
 
 
 
