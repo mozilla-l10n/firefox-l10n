@@ -2,5 +2,5 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY settingsChangePreferences.label "La configuración puede cambiarse usando la pestaña Adjuntos en las preferencias de &brandShortName;.">
-<!ENTITY settingsChangeOptions.label "La configuración puede cambiarse usando la pestaña Adjuntos en las opciones de &brandShortName;.">
+<!ENTITY settingsChangePreferences.label "La configuración se puede cambiar usando la pestaña Adjuntos en las preferencias de &brandShortName;.">
+<!ENTITY settingsChangeOptions.label "La configuración se puede cambiar usando la pestaña Adjuntos en las opciones de &brandShortName;.">
