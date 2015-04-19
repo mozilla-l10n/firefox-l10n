@@ -6,15 +6,22 @@
      your language and/or locale. More detailed notes below. -->
 
 
+<!ENTITY pageTitle                 "&brandShortName; povratna informacija">
 
-
-
+<!ENTITY intro.header              "Imate li trenutak?">
+<!ENTITY intro.message             "Recite nam što mislite o &brandShortName; za Android do sada.">
+<!ENTITY intro.happyLink           "Sviđa mi se">
+<!ENTITY intro.sadLink             "Naišao sam na neke probleme">
+<!ENTITY intro.maybeLater          "Možda kasnije">
 <!-- LOCALIZATION NOTE (support.pre): Include a trailing space as needed. -->
 <!-- LOCALIZATION NOTE (support.link): Avoid leading/trailing spaces, this text is a link. -->
 <!-- LOCALIZATION NOTE (support.post): Include a starting space as needed. -->
 
+<!ENTITY support.pre3              "Posjetite našu ">
+<!ENTITY support.link2             "Stranicu za podršku">
+<!ENTITY support.post3             " kako biste dobili odgovore na uobičajene probleme.">
 
-
+<!ENTITY happy.header              "Drago nam je to čuti!">
 <!-- LOCALIZATION NOTE (happy.message): "share the love" — This feels purposely exaggerated in English,
      but essentially it means that we want you to let others know how much you love Firefox. -->
 
