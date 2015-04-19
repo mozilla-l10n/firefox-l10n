@@ -31,7 +31,7 @@
 <!ENTITY  generalReferrer       "URL referente:">
 <!ENTITY  generalSource         "Caché fuente:">
 <!ENTITY  generalModified       "Modificado:">
-<!ENTITY  generalEncoding       "Codificación:">
+<!ENTITY  generalEncoding2      "Codificación de texto:">
 <!ENTITY  generalMetaName       "Nombre">
 <!ENTITY  generalMetaContent    "Contenido">
 <!ENTITY  generalSecurityDetails           "Detalles">
@@ -42,7 +42,7 @@
 <!ENTITY  formAction            "Acción">
 <!ENTITY  formMethod            "Método">
 <!ENTITY  formName              "Nombre">
-<!ENTITY  formEncoding          "Codificación:">
+<!ENTITY  formEncoding2         "Codificación de texto:">
 <!ENTITY  formTarget            "Destino:">
 <!ENTITY  formFields            "Campos:">
 <!ENTITY  formLabel             "Etiqueta">
