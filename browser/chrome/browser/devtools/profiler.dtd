@@ -41,3 +41,6 @@
 <!ENTITY profilerUI.enableMemory.tooltiptext "Grabar el consumo de memoria durante el análisis.">
 <!ENTITY profilerUI.enableFramerate "Grabar tasa de refresco">
 <!ENTITY profilerUI.enableFramerate.tooltiptext "Grabar tasa de refresco durante el análisis.">
+<!ENTITY profilerUI.showJITOptimizations "Mostrar optimizaciones JIT">
+<!ENTITY profilerUI.showJITOptimizations.tooltiptext "Mostrar datos de optimización JIT tomados en cada imagen del árbol de llamadas de JS.">
+<!ENTITY profilerUI.JITOptimizationsTitle "Optimizaciones JIT">
