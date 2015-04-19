@@ -135,6 +135,8 @@
      etc).  The account remains a "Firefox Account". -->
 
 
+
+
 <!-- Localization note: &formatS1; is fxaccount_policy_linktos, &formatS2; is fxaccount_policy_linkprivacy, both hyperlinked. -->
 <!ENTITY fxaccount_create_account_button "Seguent">
 <!ENTITY fxaccount_create_account_choose_what_to_sync "Causir çò que mandi">
@@ -175,7 +177,6 @@
 
 
 <!ENTITY fxaccount_status_sync "&syncBrand.fullName.label;">
-
 
 
 

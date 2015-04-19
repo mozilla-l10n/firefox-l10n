@@ -10,9 +10,6 @@
 <!ENTITY certmgr.tab.ca                       "Autoritats">
 <!ENTITY certmgr.tab.orphan2                  "Autres">
 
-<!ENTITY certmgr.ca.builtins                  "Certificats embarcats">
-<!ENTITY certmgr.ca.mycas                     "Certificats que gerissètz">
-
 <!ENTITY certmgr.mine                         "Avètz de certificats d'aquestas organizacions que vos identifican :">
 <!ENTITY certmgr.others                       "Avètz de certificats enregistrats qu'identifican aquestas personas :">
 <!ENTITY certmgr.websites2                    "Avètz de certificats enregistrats qu'identifican aquestes servidors :">
@@ -37,23 +34,13 @@
 <!ENTITY certmgr.certdetail.sha256fingerprint "Emprencha numerica SHA-256 ">
 <!ENTITY certmgr.certdetail.sha1fingerprint   "Emprencha numerica SHA1">
 
-<!ENTITY certmgr.editcert.title               "Edicion dels paramètres dels certificats de seguretat">
 <!ENTITY certmgr.editcacert.title             "Edicion dels paramètres de fisança de l'autoritat de certificacion (CA)">
 <!ENTITY certmgr.editcert.edittrust           "Modificar los paramètres de fisança :">
 <!ENTITY certmgr.editcert.trustssl            "Aqueste certificat pòt identifcar de sites Web.">
 <!ENTITY certmgr.editcert.trustemail          "Aqueste certificat pòt identifcar d'utilizaires de corrièr electronic.">
 <!ENTITY certmgr.editcert.trustobjsign        "Aqueste certificat pòt identifcar de creators de logicials.">
-<!ENTITY certmgr.editemailcert.title          "Edicion dels paramètres de fisança d'un certificat de corrièr">
-<!ENTITY certmgr.editemailcert.edittrust      "Edicion dels paramètres de fisança d'un certificat de corrièr :">
-<!ENTITY certmgr.editemailcert.dotrust        "Far fisança a l'autenticitat d'aqueste certificat.">
-<!ENTITY certmgr.editemailcert.donttrust      "Far pas fisança a l'autenticitat d'aqueste certificat.">
 
 <!ENTITY certmgr.deletecert.title             "Suprimir un certificat">
-<!ENTITY certmgr.deletecert.beforename        "Avètz demandat de suprimir aqueste certificat :">
-<!ENTITY certmgr.deletecert.aftername         "Sètz segur(a) que volètz suprimir aqueste certificat ?">
-<!ENTITY certmgr.deleteusercert.title         "Suprimir vòstre certificat">
-<!ENTITY certmgr.deleteusercert.beforename    "Avètz demandat de suprimir lo certificat :">
-<!ENTITY certmgr.deleteusercert.aftername     "Un còp lo certificat suprimit, poiretz pas mai legir lo corrièr chifrat amb aqueste certificat.">
 
 <!ENTITY certmgr.certname                     "Nom del certificat">
 <!ENTITY certmgr.certserver                   "Servidor">
@@ -70,10 +57,6 @@
 <!ENTITY certmgr.view2.accesskey              "V">
 <!ENTITY certmgr.edit3.label                  "Modificar la fisança…">
 <!ENTITY certmgr.edit3.accesskey              "M">
-<!ENTITY certmgr.editca.label                 "Modificar lo nivèl de fisança de l'AC">
-<!ENTITY certmgr.editca.accesskey             "o">
-<!ENTITY certmgr.add.label                    "Apondre">
-<!ENTITY certmgr.add.accesskey                "A">
 <!ENTITY certmgr.export.label                 "Exportar…">
 <!ENTITY certmgr.export.accesskey             "x">
 <!ENTITY certmgr.delete2.label                "Suprimir…">
@@ -90,8 +73,8 @@
 <!ENTITY certmgr.details.accesskey            "C">
 <!ENTITY certmgr.fields.label                 "Valor del camp">
 <!ENTITY certmgr.fields.accesskey             "V">
-<!ENTITY certmgr.hierarchy.label              "Ierarquia dels certificats">
-<!ENTITY certmgr.hierarchy.accesskey          "I">
+
+
 <!ENTITY certmgr.addException.label           "Apondre una excepcion…">
 <!ENTITY certmgr.addException.accesskey       "x">
 

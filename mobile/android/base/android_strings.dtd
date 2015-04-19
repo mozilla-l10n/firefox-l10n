@@ -39,6 +39,7 @@
 <!ENTITY choose_file "Causir un fichièr">
 
 
+
 <!ENTITY bookmark_added "Marcapaginas apondut">
 <!ENTITY bookmark_removed "Marcapaginas suprimit">
 <!ENTITY bookmark_updated "Marcapaginas mes a jorn">
@@ -71,9 +72,10 @@
      is upper-case, to match Google and Android's convention. -->
 
 <!ENTITY settings "Paramètres">
-<!ENTITY settings_title "Paramètres">
+
 <!ENTITY pref_category_advanced "Avançat">
 <!ENTITY pref_category_customize "Personalizar">
+
 
 <!-- Localization note (pref_category_language) : This is the preferences
      section in which the user picks the locale in which to display Firefox
@@ -100,8 +102,16 @@
 
 
 
+<!-- Localization note (overlay_no_synced_devices) : Used when the menu option
+     to send a tab to a synced device is pressed and no other synced devices
+     are found. -->
+<!-- Localization note (overlay_share_tab_not_sent) : Used when the menu option
+     to send a tab to a synced device is pressed and there is an error
+     connecting to the server so the tab could not be sent. The text should be
+     divided into two lines (use the newline escape character, "\n", between
+     them): the first notifying the user about the failure and the second
+     telling the user what to do about it. -->
 
-<!ENTITY pref_category_search3 "Recercar">
 
 <!ENTITY pref_category_display "Afichar">
 
@@ -115,7 +125,7 @@
 <!ENTITY pref_category_add_search_providers "Apondre de motors de recèrca">
 <!ENTITY pref_category_search_restore_defaults "Restablir los motors de recèrca">
 <!ENTITY pref_search_restore_defaults "Restablir los paramètres per defaut">
-<!ENTITY pref_search_restore_defaults_summary "Restablir los paramètres per defaut">
+
 <!-- Localization note (pref_search_hint) : "TIP" as in "hint", "clue" etc. Displayed as an
      advisory message on the customise search providers settings page explaining how to add new
      search providers.
@@ -125,7 +135,9 @@
 
 
 <!ENTITY pref_developer_remotedebugging "Desbugatge distant">
+
 <!ENTITY pref_remember_signons "Enreg. los senhals :">
+
 
 <!ENTITY pref_category_home "Acuèlh">
 <!ENTITY pref_category_home_summary "Personalizatz vòstra pagina d\u0027acuèlh">
@@ -143,22 +155,32 @@
 
 <!-- Localization note: These are shown in the left sidebar on tablets -->
 
-<!ENTITY pref_header_customize "Personalizar">
-<!ENTITY pref_header_display "Afichar">
-<!ENTITY pref_header_privacy_short "Vida privada">
 
 
-<!ENTITY pref_header_vendor "&vendorShortName;">
-<!ENTITY pref_header_devtools "Aisinas de desvolopament">
+
+
+
 
 <!ENTITY pref_cookies_menu "Cookies">
-<!ENTITY pref_cookies_accept_all "Activat">
+
 <!ENTITY pref_cookies_not_accept_foreign "Autorizats, levat cookies tèrces">
 <!ENTITY pref_cookies_disabled "Desactivat">
 
 
 
 
+
+
+<!-- Localization note (tab_queue_notification_text_plural) : The
+     formatD is replaced with the number of tabs queued.  The
+     number of tabs queued is always more than one.  We can't use
+     Android plural forms, sadly. See Bug #753859. -->
+<!-- Localization note (tab_queue_notification_title_plural) : This is the
+     title of a notification; we expect more than one tab queued. -->
+<!-- Localization note (tab_queue_notification_title_singular) : This is the
+     title of a notification; we expect only one tab queued. -->
+<!-- Localization note (tab_queue_notification_text_singular) : This is the
+     text of a notification; we expect only one tab queued. -->
 
 <!ENTITY pref_char_encoding "Encodatge de caractèrs">
 <!ENTITY pref_char_encoding_on "Afichar lo menú">
@@ -169,9 +191,9 @@
 
 
 <!ENTITY pref_plugins "Empeutons (Plugins)">
-<!ENTITY pref_plugins_enabled "Activat">
+
 <!ENTITY pref_plugins_tap_to_play "Tocar per aviar la lectura">
-<!ENTITY pref_plugins_disabled "Desactivat">
+
 <!ENTITY pref_text_size "Talha del tèxte">
 <!ENTITY pref_reflow_on_zoom4 "Encadenaments de tèxte">
 <!ENTITY pref_restore "Onglets">
@@ -188,11 +210,12 @@
 same character/combination is used to increase the preview font size. It should be a concise
 representation of the language it is used in that will help show the text in the preview will change
 size. -->
-<!ENTITY pref_font_size_adjust_char "A">
 <!-- Localization note (pref_font_size_preview_text): This paragraph is used as an example to
     demonstrate the font size setting.  It is meant to be whimsical and fun. -->
 
 <!ENTITY pref_font_size_preview_text "Lo pandà rós, rapid coma un  lhauç, rebombís de delà de vòstras espèras amb mai de velocitat, mai de soplesa e mai de seguretat. En tant que fondacion de tòca non lucrativa, sèm liures d\u0027innovar per vos sens cap de pression ni cap de compromés. Aquò significa una melhora experiéncia per vos e un melhor avenidor pel Web.">
+
+
 
 
 
@@ -255,7 +278,7 @@ size. -->
      specifically, since the pref only prevents automatic downloads and not the
      actual notification that an update is available. -->
 <!ENTITY pref_update_autodownload2 "Telecargar automaticament las mesas a jorn">
-<!ENTITY pref_update_autodownload_wifi "Solament per Wi-Fi">
+
 <!ENTITY pref_update_autodownload_never "Pas jamai">
 <!ENTITY pref_update_autodownload_always "Totjorn">
 <!-- Localization note (help_menu) : This string is used in the main menu-->
@@ -263,6 +286,7 @@ size. -->
 <!ENTITY quit "Quitar">
 
 <!ENTITY addons "Moduls complementaris">
+
 
 <!ENTITY apps "Apps">
 <!ENTITY char_encoding "Encodatge de caractèr">
@@ -279,7 +303,7 @@ size. -->
 <!ENTITY new_private_tab "Onglet de nav. privada">
 <!ENTITY close_all_tabs "Tampar totes los onglets">
 
-<!ENTITY tabs_normal "Onglets">
+
 <!ENTITY tabs_private "Privats">
 <!ENTITY tabs_synced "Sincronizats">
 <!ENTITY set_image_fail "Impossible de partejar aqueste imatge">
@@ -287,38 +311,45 @@ size. -->
 <!ENTITY set_image_chooser_title "Enregistrar l\u0027imatge jos">
 <!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
-
-<!ENTITY find_text "Recercar dins la pagina">
 <!ENTITY find_prev "Precedent">
 <!ENTITY find_next "Seguent">
-<!ENTITY find_close "Tampar">
+
 <!-- Localization note (media_sending_to, media_play, media_pause, media_stop) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
 <!ENTITY media_play "Lectura">
 <!ENTITY media_pause "Pausa">
-<!ENTITY media_stop "Arrestar">
+
 
 <!ENTITY contextmenu_open_new_tab "Dobrir dins un onglet novèl">
 <!ENTITY contextmenu_open_private_tab "Dobrir en navigacion privada">
-<!ENTITY contextmenu_remove "Suprimir">
+
 <!ENTITY contextmenu_add_to_launcher "Apondre a l\u0027ecran d\u0027acuèlh">
-<!ENTITY contextmenu_share "Partejar">
+
 
 <!ENTITY contextmenu_paste "Empegar">
 <!ENTITY contextmenu_copyurl "Copiar l\u0027adreça">
 <!ENTITY contextmenu_edit_bookmark "Modificar">
 <!ENTITY contextmenu_subscribe "S\u0027abonar a aquesta pagina">
 <!ENTITY contextmenu_site_settings "Editar los paramètres del Site">
-<!ENTITY contextmenu_top_sites_edit "Modificar">
+
 <!ENTITY contextmenu_top_sites_pin "Espingolar aqueste Site">
 <!ENTITY contextmenu_top_sites_unpin "Despingolar aqueste Site ">
 <!ENTITY contextmenu_add_search_engine "Apondre un motor de recèrca">
+<!-- Localization note (doorhanger_login_no_username): This string is used in the save-login doorhanger
+     where normally a username would be displayed. In this case, no username was found, and this placeholder
+     contains brackets to indicate this is not actually a username, but rather a placeholder -->
+
+<!ENTITY doorhanger_login_edit_username_hint "Nom d\u0027utilizaire">
+
+
 
 <!ENTITY pref_titlebar_mode "Barra de títol">
 <!ENTITY pref_titlebar_mode_title "Afichar lo títol de la pagina">
 
 <!-- Localization note (pref_scroll_title_bar2): Label for setting that controls
      whether or not the dynamic toolbar is enabled. -->
+
+
 
 <!-- Localization note (page_removed): This string appears in a toast message when
      any page is removed frome about:home. This includes pages that are in history,
@@ -334,11 +365,14 @@ size. -->
      dialog that appears after selecting the "Edit Site Settings" context menu item. -->
 
 <!ENTITY site_settings_title3       "Paramètres del site">
-<!ENTITY site_settings_cancel       "Anullar">
+
 <!ENTITY site_settings_clear        "Escafar">
 <!ENTITY site_settings_no_settings  "I a pas de paramètre d\u0027escafar.">
 
 <!ENTITY reading_list_added "Pagina aponduda a vòstra lista de lectura">
+<!ENTITY reading_list_removed "Pagina levada de vòstra lista de lectura">
+<!-- Localization note (reading_list_remove) : Used to remove the currently open page from
+     the user's reading list. The opposite of overlay_share_reading_list_btn_label. -->
 <!ENTITY reading_list_duplicate "Pagina ja aponduda a vòstra lista de lectura">
 <!-- Localization note (reading_list_time_minutes2) : This string is used in the "Reading List"
      panel on the home page to give the user an estimate of how many minutes it will take to
@@ -349,16 +383,17 @@ size. -->
 
 <!ENTITY masterpassword_create_title "Crear un senhal principal">
 <!ENTITY masterpassword_remove_title "Supression del senhal principal">
-<!ENTITY masterpassword_password "Senhal">
+
 <!ENTITY masterpassword_confirm "Confirmar lo senhal :">
 
 <!ENTITY button_ok "D\u0027acòrdi">
-<!ENTITY button_cancel "Anullar">
+
 <!ENTITY button_yes "Òc">
 <!ENTITY button_no "Non">
 <!ENTITY button_clear_data "Escafar las donadas">
-<!ENTITY button_set "Definir">
-<!ENTITY button_clear "Escafar">
+
+
+<!ENTITY button_remember "Memorizar">
 
 <!ENTITY home_top_sites_title "Sites favorits">
 <!-- Localization note (home_top_sites_add): This string is used as placeholder
@@ -366,7 +401,7 @@ size. -->
 <!ENTITY home_top_sites_add "Apondre un site">
 <!-- Localization note (home_title): This string should be kept in sync
      with the page title defined in aboutHome.dtd -->
-<!ENTITY home_history_title "Istoric">
+
 
 
 
@@ -414,7 +449,6 @@ size. -->
 
 
 
-<!ENTITY filepicker_title "Causir un fichièr">
 <!ENTITY filepicker_audio_title "Causir o enregistrar un son">
 <!ENTITY filepicker_image_title "Causir un imatge o far una còpia d\u0027ecran">
 <!ENTITY filepicker_video_title "Causir o enregistrar una vidèo">
@@ -461,6 +495,12 @@ dempuèi Android">
 dempuèi Android">
 <!ENTITY bookmarkhistory_import_wait "Esperatz...">
 
+<!--  Localization note (search_bar_item_desc): When the user clicks the url bar
+      and starts typing, a list of icons of search engines appears at the bottom
+      of the screen. When a user clicks an icon, the entered text will be searched
+      via the search engine that uses the icon they clicked. This text is used
+      for screen reader users when they hover each icon - &formatS; will be
+      replaced with the name of the currently highlighted icon. -->
 <!-- Localization note (suggestion_for_engine): The placeholder &formatS1; will be
      replaced with the name of the search engine. The placeholder &formatS2; will be
      replaced with the search query. -->
@@ -478,12 +518,11 @@ dempuèi Android">
 <!ENTITY updater_downloading_select2 "Tocar per aplicar la mesa a jorn un còp telecargada">
 <!ENTITY updater_downloading_retry2 "Tocar per tornar ensajar">
 
-<!ENTITY updater_apply_title2 "Mesa a jorn disponibla per &brandShortName;">
 <!ENTITY updater_apply_select2 "Tocar per metre a jorn">
 <!-- Guest mode -->
 
 <!ENTITY guest_session_dialog_continue "Contunhar">
-<!ENTITY guest_session_dialog_cancel "Anullar">
+
 
 
 
@@ -497,15 +536,19 @@ dempuèi Android">
 
 <!-- These are only used for accessibility for the done and overflow-menu buttons in the actionbar.
      They are never shown to users -->
-
-<!ENTITY actionbar_menu "Menú">
 <!ENTITY actionbar_done "Acabat">
+<!-- Voice search in the awesome bar -->
+
+
+
+
 <!-- Localization note (remote_tabs_last_synced): the variable is replaced by a
      "relative time span string" produced by Android.  This string describes the
      time the tabs were last synced relative to the current time; examples
      include "42 minutes ago", "4 days ago", "last week", etc. The subject of
      "Last synced" is one of the user's other Sync clients, typically Firefox on
      their desktop or laptop.-->
+<!-- Localization note: Used when the sync has not happend yet, showed in place of a date -->
 <!-- Find-In-Page strings -->
 <!-- LOCALIZATION NOTE (find_matchcase): This is meant to appear as an icon that changes color
      if match-case is activated. i.e. No more than two letters, one uppercase, one lowercase. -->

@@ -9,6 +9,7 @@
 <!ENTITY aboutTelemetry.telemetryDisabled "  La telemetria es <span>desactivada</span>.">
 
 
+
 <!ENTITY aboutTelemetry.slowSqlSection "  Requèstas SQL lentas">
 
 <!ENTITY aboutTelemetry.chromeHangsSection "  Blocatges del navigador">

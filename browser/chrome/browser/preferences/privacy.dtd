@@ -11,15 +11,17 @@
 <!ENTITY trackingProtectionLearnMore.label "Ne saber mai">
 <!ENTITY doNotTrackInfo.label           "Ne saber mai…">
 
+<!ENTITY  history.label                 "Istoric">
 
 <!ENTITY  locationBar.label             "Barra d'adreça">
 
+<!ENTITY  locbar.suggest.label          "Quand utilizi la barra d'adreça, suggerir :">
 <!ENTITY  locbar.history.label          "Istoric">
 <!ENTITY  locbar.history.accesskey      "I">
 <!ENTITY  locbar.bookmarks.label        "Favorits">
 <!ENTITY  locbar.bookmarks.accesskey    "F">
-
-
+<!ENTITY  locbar.openpage.label         "Dobrir los onglets">
+<!ENTITY  locbar.openpage.accesskey     "D">
 
 <!ENTITY  acceptCookies.label           "Acceptar de cookies de sites">
 <!ENTITY  acceptCookies.accesskey       "c">
@@ -30,7 +32,8 @@
 <!ENTITY  acceptThirdParty.never.label    "Pas jamai">
 <!ENTITY  acceptThirdParty.visited.label  "dempuèi los sites visitats">
 
-
+<!ENTITY  keepUntil.label               "Los conservar fins a :">
+<!ENTITY  keepUntil.accesskey           "L">
 
 <!ENTITY  expire.label                  "lor expiracion">
 <!ENTITY  close.label                   "la tampadura de &brandShortName;">
