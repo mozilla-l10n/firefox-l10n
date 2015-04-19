@@ -11,7 +11,7 @@ file names and tall enough to hint that there are more downloads in the list -->
 <!ENTITY downloads.title "Transferências">
 <!ENTITY cmd.pause.label "Pausa">
 <!ENTITY cmd.pause.accesskey "P">
-<!ENTITY cmd.resume.label "Retomar">
+<!ENTITY cmd.resume.label "Continuar">
 <!ENTITY cmd.resume.accesskey "R">
 <!ENTITY cmd.cancel.label "Cancelar">
 <!ENTITY cmd.cancel.accesskey "C">

@@ -39,13 +39,11 @@
 <!ENTITY folderSynchronizationTab.label          "Sincronização">
 <!ENTITY folderCheckForNewMessages2.label        "Ao receber novas mensagens nesta conta, analisar sempre esta pasta">
 <!ENTITY folderCheckForNewMessages2.accesskey    "n">
-
-<!ENTITY offlineFolder.check.label               "Selecionar esta pasta para utilização offline">
+<!ENTITY offlineFolder.check.label "Selecionar esta pasta para utilizar no modo desligado">
 <!ENTITY offlineFolder.check.accesskey           "S">
 <!ENTITY offlineFolder.button.label              "Transferir agora">
 <!ENTITY offlineFolder.button.accesskey          "T">
-
-<!ENTITY selectofflineNewsgroup.check.label      "Selecionar este grupo de notícias para utilização offline">
+<!ENTITY selectofflineNewsgroup.check.label "Selecionar este grupo de notícias para utilizar no modo desligado">
 <!ENTITY selectofflineNewsgroup.check.accesskey  "o">
 <!ENTITY offlineNewsgroup.button.label           "Transferir agora">
 <!ENTITY offlineNewsgroup.button.accesskey       "T">
@@ -58,11 +56,10 @@
 <!ENTITY folderSharingTab.label                  "Partilha">
 <!ENTITY privileges.button.label                 "Privilégios...">
 <!ENTITY privileges.button.accesskey             "P">
-<!ENTITY permissionsDesc.label                   "Você tem estas permissões:">
+<!ENTITY permissionsDesc.label "Tem estas permissões:">
 <!ENTITY folderType.label                        "Tipo de pasta:">
-
-<!ENTITY folderQuotaTab.label                    "Quota">
-<!ENTITY folderQuotaRoot.label                   "Quota de root:">
+<!ENTITY folderQuotaTab.label "Cota">
+<!ENTITY folderQuotaRoot.label "Cota de root:">
 <!ENTITY folderQuotaUsage.label                  "Utilização:">
 <!ENTITY folderQuotaStatus.label                 "Estado:">
 

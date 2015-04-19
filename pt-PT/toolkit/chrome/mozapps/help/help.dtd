@@ -6,9 +6,10 @@
 <!ENTITY findOnCmd.commandkey "F">
 <!ENTITY findAgainCmd.commandkey "G">
 <!ENTITY findAgainCmd.commandkey2 "VK_F3">
-<!ENTITY backButton.label "Recuar">
+
+<!ENTITY backButton.label "Retroceder">
 <!ENTITY backButton.accesskey "R">
-<!ENTITY backButton.tooltip "Recura uma página">
+<!ENTITY backButton.tooltip "Retroceder uma página">
 <!ENTITY forwardButton.label "Avançar">
 <!ENTITY forwardButton.accesskey "A">
 <!ENTITY forwardButton.tooltip "Avançar uma página">
@@ -23,10 +24,11 @@
 <!ENTITY printButton.label "Imprimir">
 <!ENTITY printButton.tooltip "Imprimir esta página">
 <!ENTITY closeWindow.commandkey "W">
-<!ENTITY search.emptytext "Procurar">
-<!ENTITY searchHeader.label "Resultados da procura">
-<!ENTITY toctab.label "Conteúdo">
-<!ENTITY toctab.accesskey "C">
+
+<!ENTITY search.emptytext "Pesquisar">
+<!ENTITY searchHeader.label             "Resultados da pesquisa">
+<!ENTITY toctab.label "Conteúdos">
+<!ENTITY toctab.accesskey "O">
 
 <!-- LOCALIZATION NOTE :
 fullZoomEnlargeCmd.commandkey3, fullZoomReduceCmd.commandkey2 and
@@ -41,9 +43,11 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fullZoomResetCmd.commandkey "0">
 <!ENTITY fullZoomResetCmd.commandkey2 "">
 <!ENTITY helpSearch.commandkey "k">
-<!ENTITY zLevel.label "Sempre na frente">
+
+<!ENTITY zLevel.label "Sempre por cima">
 <!ENTITY zLevel.accesskey "S">
-<!ENTITY fullZoomReduceBtn.label "Diminuir tamanho do texto">
+
+<!ENTITY fullZoomReduceBtn.label "Diminuir o tamanho do texto">
 <!ENTITY fullZoomReduceBtn.accesskey "D">
-<!ENTITY fullZoomEnlargeBtn.label "Aumentar tamanho do texto">
+<!ENTITY fullZoomEnlargeBtn.label "Aumentar o tamanho do texto">
 <!ENTITY fullZoomEnlargeBtn.accesskey "A">

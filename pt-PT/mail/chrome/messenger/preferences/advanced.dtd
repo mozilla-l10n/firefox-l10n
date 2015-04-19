@@ -53,23 +53,23 @@
 <!ENTITY crashReporterLearnMore.label    "Saber mais">
 
 <!-- Display and Reading Settings -->
-<!ENTITY reading.caption               "Leitura">
-<!ENTITY display.caption               "Exibição">
-<!ENTITY showCondensedAddresses.label  "Mostrar apenas o nome para pessoas nos meus contactos">
+<!ENTITY reading.caption "Leitura">
+<!ENTITY display.caption "Exibição">
+<!ENTITY showCondensedAddresses.label "Mostrar apenas o nome para pessoas nos meus contactos">
 <!ENTITY showCondensedAddresses.accesskey "m">
 
-<!ENTITY autoMarkAsRead.label          "Marcar mensagens como lidas automaticamente">
-<!ENTITY autoMarkAsRead.accesskey      "a">
-<!ENTITY markAsReadNoDelay.label       "Logo após a exibição">
-<!ENTITY markAsReadNoDelay.accesskey   "g">
+<!ENTITY autoMarkAsRead.label "Marcar mensagens como lidas automaticamente">
+<!ENTITY autoMarkAsRead.accesskey "a">
+<!ENTITY markAsReadNoDelay.label "Logo após a exibição">
+<!ENTITY markAsReadNoDelay.accesskey "g">
 <!-- LOCALIZATION NOTE (markAsReadDelay.label): This will concatenate to
      "After displaying for [___] seconds",
      using (markAsReadDelay.label) and a number (secondsLabel.label). -->
-<!ENTITY markAsReadDelay.label         "Logo após a exibição durante">
-<!ENTITY markAsReadDelay.accesskey     "e">
-<!ENTITY secondsLabel.label            "segundos">
-<!ENTITY openMsgIn.label               "Abrir mensagens em:">
-<!ENTITY openMsgInNewTab.label         "Novo separador">
+<!ENTITY markAsReadDelay.label "Logo após a exibição durante">
+<!ENTITY markAsReadDelay.accesskey "e">
+<!ENTITY secondsLabel.label "segundos">
+<!ENTITY openMsgIn.label "Abrir mensagens em:">
+<!ENTITY openMsgInNewTab.label "Novo separador">
 <!ENTITY openMsgInNewTab.accesskey "s">
 <!ENTITY reuseExpRadio0.label "Nova janela">
 <!ENTITY reuseExpRadio0.accesskey "v">
@@ -95,19 +95,19 @@
 <!ENTITY useService.accesskey            "z">
 
 <!-- Networking and Disk Space -->
-<!ENTITY showSettings.label            "Definições...">
-<!ENTITY showSettings.accesskey        "s">
-<!ENTITY proxiesConfigure.label        "Configure o modo de ligãção do &brandShortName; à Internet.">
-<!ENTITY connectionsInfo.caption       "Ligação">
-<!ENTITY offlineInfo.caption           "Modo desligado">
-<!ENTITY offlineInfo.label             "Configurar o modo desligado">
-<!ENTITY showOffline.label             "Desligado...">
-<!ENTITY showOffline.accesskey         "D">
+<!ENTITY showSettings.label "Definições...">
+<!ENTITY showSettings.accesskey "s">
+<!ENTITY proxiesConfigure.label "Configure o modo de ligãção do &brandShortName; à Internet.">
+<!ENTITY connectionsInfo.caption "Ligação">
+<!ENTITY offlineInfo.caption "Modo desligado">
+<!ENTITY offlineInfo.label "Configurar o modo desligado">
+<!ENTITY showOffline.label "Desligado...">
+<!ENTITY showOffline.accesskey "D">
 
-<!ENTITY Diskspace                       "Espaço em disco">
-<!ENTITY offlineCompactFolders.label     "Compactar todas as pastas quando se puder libertar pelo menos">
+<!ENTITY Diskspace "Espaço em disco">
+<!ENTITY offlineCompactFolders.label "Compactar todas as pastas quando se puder libertar pelo menos">
 <!ENTITY offlineCompactFolders.accesskey "a">
-<!ENTITY offlineCompactFoldersMB.label   "MB no total">
+<!ENTITY offlineCompactFoldersMB.label "MB no total">
 
 <!-- LOCALIZATION NOTE:
   The entities useCacheBefore.label and useCacheAfter.label appear on a single
@@ -115,22 +115,22 @@
 
   &useCacheBefore.label  [ textbox for cache size in MB ]   &useCacheAfter.label;
 -->
-<!ENTITY useCacheBefore.label            "Utilizar até">
-<!ENTITY useCacheBefore.accesskey        "U">
-<!ENTITY useCacheAfter.label             "MB de espaço para cache">
-<!ENTITY clearCacheNow.label             "Limpar agora">
-<!ENTITY clearCacheNow.accesskey         "L">
+<!ENTITY useCacheBefore.label "Utilizar até">
+<!ENTITY useCacheBefore.accesskey "U">
+<!ENTITY useCacheAfter.label "MB de espaço para cache">
+<!ENTITY clearCacheNow.label "Limpar agora">
+<!ENTITY clearCacheNow.accesskey "L">
 
 <!-- Certificates -->
-<!ENTITY certSelection.description       "Se um servidor pede o meu certificado pessoal:">
-<!ENTITY certs.auto                      "Selecionar automaticamente">
-<!ENTITY certs.auto.accesskey            "m">
-<!ENTITY certs.ask                       "Perguntar de cada vez">
-<!ENTITY certs.ask.accesskey             "P">
+<!ENTITY certSelection.description "Se um servidor pede o meu certificado pessoal:">
+<!ENTITY certs.auto "Selecionar automaticamente">
+<!ENTITY certs.auto.accesskey "m">
+<!ENTITY certs.ask "Perguntar de cada vez">
+<!ENTITY certs.ask.accesskey "P">
 <!ENTITY enableOCSP.label                "Pedir aos servidores OCSP para confirmar a validade dos certificados">
 <!ENTITY enableOCSP.accesskey            "v">
 
-<!ENTITY viewCertificates.label         "Ver certificados">
-<!ENTITY viewCertificates.accesskey     "c">
-<!ENTITY viewSecurityDevices.label      "Dispositivos de segurança">
-<!ENTITY viewSecurityDevices.accesskey  "s">
+<!ENTITY viewCertificates.label "Ver certificados">
+<!ENTITY viewCertificates.accesskey "c">
+<!ENTITY viewSecurityDevices.label "Dispositivos de segurança">
+<!ENTITY viewSecurityDevices.accesskey "s">

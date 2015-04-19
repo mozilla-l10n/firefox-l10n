@@ -7,7 +7,7 @@
 <!ENTITY setPassword.tokenName.label "Dispositivo de segurança">
 <!ENTITY setPassword.oldPassword.label "Senha atual:">
 <!ENTITY setPassword.newPassword.label "Nova senha:">
-<!ENTITY setPassword.reenterPassword.label "Nova senha (repetição):">
+<!ENTITY setPassword.reenterPassword.label "Nova senha (repetir):">
 <!ENTITY setPassword.meter.label "Indicador de qualidade da senha">
 
 <!-- Values for resetpassword.xul -->
@@ -20,8 +20,8 @@
 <!ENTITY downloadCert.message1 "Foi-lhe pedido para confiar numa nova autoridade certificadora (CA).">
 <!ENTITY downloadCert.trustSSL "Confiar nesta CA para identificar sítios.">
 <!ENTITY downloadCert.trustEmail "Confiar nesta CA para identificar utilizadores de correio electrónico.">
-<!ENTITY downloadCert.trustObjSign "Confiar nesta CA para identificar criadores de aplicações.">
-<!ENTITY downloadCert.message3 "Antes de confiar nesta CA deve examinar o seu certificado, a sua política e os seus procedimentos (se disponíveis).">
+<!ENTITY downloadCert.trustObjSign "Confiar nesta CA para identificar fabricantes de software.">
+<!ENTITY downloadCert.message3 "Antes de confiar nesta CA para qualquer fim, deve examinar o seu certificado, a sua política e os seus procedimentos (se disponíveis).">
 <!ENTITY downloadCert.viewCert.label "Ver">
 <!ENTITY downloadCert.viewCert.text "Examinar o certificado da CA">
 

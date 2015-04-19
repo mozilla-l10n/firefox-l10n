@@ -4,12 +4,12 @@
 
 <!-- Help Menu -->
 <!ENTITY helpMenu.label                     "Ajuda">
-<!ENTITY helpMenu.accesskey                 "u">
+<!ENTITY helpMenu.accesskey "A">
 <!-- LOCALIZATION NOTE some localizations of Windows use "?"
                        for the help button in the menubar but Gnome does not.   -->
 <!ENTITY helpMenuWin.label                  "Ajuda">
-<!ENTITY helpMenuWin.accesskey              "u">
-<!ENTITY helpTroubleshootingInfo.label      "Informações de suporte">
+<!ENTITY helpMenuWin.accesskey "A">
+<!ENTITY helpTroubleshootingInfo.label     "Informação de suporte">
 <!ENTITY helpTroubleshootingInfo.accesskey  "I">
 <!ENTITY helpSafeMode.label                 "Reiniciar com os extras desativados…">
 <!ENTITY helpSafeMode.accesskey             "R">

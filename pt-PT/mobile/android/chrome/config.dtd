@@ -7,14 +7,14 @@
 
 <!ENTITY newPref.namePlaceholder       "Nome">
 
-<!ENTITY newPref.valueBoolean          "Boleano">
-<!ENTITY newPref.valueString           "String">
+<!ENTITY newPref.valueBoolean          "Booleano">
+<!ENTITY newPref.valueString           "Texto">
 <!ENTITY newPref.valueInteger          "Inteiro">
 
-<!ENTITY newPref.stringPlaceholder     "Escrever um string">
-<!ENTITY newPref.numberPlaceholder     "Escrever um número">
+<!ENTITY newPref.stringPlaceholder     "Introduza um texto">
+<!ENTITY newPref.numberPlaceholder     "Introduza um número">
 
-<!ENTITY newPref.toggleButton          "Trocar">
+<!ENTITY newPref.toggleButton          "Alternar">
 <!ENTITY newPref.cancelButton          "Cancelar">
 
 <!ENTITY contextMenu.copyPrefName      "Copiar nome">

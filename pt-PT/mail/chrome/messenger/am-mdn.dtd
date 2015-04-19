@@ -7,7 +7,7 @@
 <!ENTITY useGlobalPrefs.accesskey 	"U">
 <!ENTITY globalReceipts.label       "Preferências gerais…">
 <!ENTITY globalReceipts.accesskey   "g">
-<!ENTITY useCustomPrefs.label 		  "Personalizar recibos de leitura desta conta">
+<!ENTITY useCustomPrefs.label "Personalizar recibos de leitura para esta conta">
 <!ENTITY useCustomPrefs.accesskey 	"P">
 <!ENTITY requestReceipt.label 		  "Ao enviar mensagens, pedir sempre um recibo de leitura">
 <!ENTITY requestReceipt.accesskey 	"A">

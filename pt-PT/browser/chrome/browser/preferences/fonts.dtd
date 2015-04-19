@@ -14,11 +14,11 @@
 <!ENTITY  proportional.label                      "Proporcional:">
 <!ENTITY  proportional.accesskey                  "P">
 
-<!ENTITY  serif.label                             "Serifa:">
+<!ENTITY  serif.label                             "Serifada:">
 <!ENTITY  serif.accesskey                         "S">
 <!ENTITY  sans-serif.label                        "Sem serifa:">
 <!ENTITY  sans-serif.accesskey                    "n">
-<!ENTITY  monospace.label                         "Monoespaço:">
+<!ENTITY  monospace.label                         "Monoespaçada:">
 <!ENTITY  monospace.accesskey                     "M">
 
 <!-- LOCALIZATION NOTE (font.langGroup.latin) :
@@ -57,8 +57,8 @@
 <!ENTITY minSize.none                             "Nenhum">
 
 <!-- default font type -->
-<!ENTITY  useDefaultFontSerif.label               "Serifa">
-<!ENTITY  useDefaultFontSansSerif.label           "Sem serifa">
+<!ENTITY  useDefaultFontSerif.label               "Serifada">
+<!ENTITY  useDefaultFontSansSerif.label           "Não serifada">
 
 <!ENTITY  allowPagesToUse.label                   "Permitir às páginas a escolha do seu tipo de letra em vez das escolhas acima.">
 <!ENTITY  allowPagesToUse.accesskey               "r">
