@@ -1,5 +1,5 @@
 <!ENTITY filterListDialog.title "Filtros de mensagens">
-<!ENTITY nameColumn.label "Nome do Filtro">
+<!ENTITY nameColumn.label "Nome do filtro">
 <!ENTITY activeColumn.label "Ligado">
 <!ENTITY newButton.label "Novo...">
 <!ENTITY newButton.accesskey "n">
@@ -14,13 +14,13 @@
 <!ENTITY filterHeader.label "Os filtros ligados estão a funcionar automaticamente na ordem mostrada em baixo.">
 <!ENTITY filtersForPrefix.label "Filtros para:">
 <!ENTITY filtersForPrefix.accesskey "o">
-<!ENTITY viewLogButton.label "Registo do Filtro">
+<!ENTITY viewLogButton.label "Registo do filtro">
 <!ENTITY viewLogButton.accesskey "l">
-<!ENTITY runFilters.label "Ligar Agora">
+<!ENTITY runFilters.label "Ligar agora">
 <!ENTITY runFilters.accesskey "r">
 <!ENTITY stopFilters.label "Parar">
 <!ENTITY stopFilters.accesskey "P">
-<!ENTITY folderPickerPrefix.label "Ligar o(s) filtro(s) seleccionado(s) para:">
+<!ENTITY folderPickerPrefix.label "Ligar o(s) filtro(s) selecionado(s) para:">
 <!ENTITY folderPickerPrefix.accesskey "f">
 <!ENTITY choosethis.label "Escolher esta pasta">
 <!ENTITY choosethisnewsserver.label "escolher este servidor de notícias">

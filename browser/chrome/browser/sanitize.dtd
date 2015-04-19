@@ -60,7 +60,7 @@ that require it.  -->
 <!ENTITY itemCache.accesskey "a">
 <!ENTITY itemOfflineApps.label        "Dados do Sítio web do modo Desligado">
 <!ENTITY itemOfflineApps.accesskey    "O">
-<!ENTITY itemActiveLogins.label "Inícios de sessão activos">
+<!ENTITY itemActiveLogins.label "Inícios de sessão ativos">
 <!ENTITY itemActiveLogins.accesskey "I">
 <!ENTITY itemSitePreferences.label       "Preferências do sítio">
 <!ENTITY itemSitePreferences.accesskey   "s">
@@ -68,4 +68,4 @@ that require it.  -->
 <!-- LOCALIZATION NOTE (sanitizeEverythingUndoWarning): Second warning paragraph
      that appears when "Time range to clear" is set to "Everything".  See UI
      mockup at bug 480169 -->
-<!ENTITY sanitizeEverythingUndoWarning     "Esta acção não pode ser anulada.">
+<!ENTITY sanitizeEverythingUndoWarning     "Esta ação não pode ser anulada.">

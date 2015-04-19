@@ -8,7 +8,7 @@
 <!ENTITY archiveYearly.accesskey "n">
 <!ENTITY archiveMonthly.label "Pastas arquivadas por mês">
 <!ENTITY archiveMonthly.accesskey "m">
-<!ENTITY keepFolderStructure.label "Manter a estrutura actual das mensagens arquivadas na pasta">
+<!ENTITY keepFolderStructure.label "Manter a estrutura atual das mensagens arquivadas na pasta">
 <!ENTITY keepFolderStructure.accesskey "K">
 <!ENTITY archiveExample.label "Exemplo">
 <!-- LOCALIZATION NOTE (archiveFolderName.label): this should match the default

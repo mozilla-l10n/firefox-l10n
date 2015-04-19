@@ -152,6 +152,6 @@
 <!ENTITY BrowsePhoto.accesskey          "N">
 <!ENTITY PhotoURL.label                 "Na web">
 <!ENTITY PhotoURL.accesskey             "b">
-<!ENTITY PhotoURL.placeholder           "Escreva ou coler o endereço web da fotografia">
+<!ENTITY PhotoURL.placeholder           "Escreva ou cole o endereço web da fotografia">
 <!ENTITY UpdatePhoto.label              "Atualizar">
 <!ENTITY UpdatePhoto.accesskey          "u">

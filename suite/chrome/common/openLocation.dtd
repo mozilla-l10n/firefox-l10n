@@ -14,7 +14,7 @@
 <!ENTITY newPrivate.label "Nova janela privada">
 <!ENTITY newWindow.label "Nova janela do navegador">
 <!ENTITY newTab.label "Novo separador do navegador">
-<!ENTITY currentTab.label "Separador da navegação actual">
+<!ENTITY currentTab.label "Separador da navegação atual">
 <!ENTITY editNewWindow.label "Nova janela de mensagem">
 <!ENTITY open.label "Abrir">
 <!ENTITY caption.label "Abrir endereço Web">

@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY Contact.tab                     "Contato"> 
+<!ENTITY Contact.tab                     "Contacto"> 
 <!ENTITY Contact.accesskey               "C">
 <!ENTITY Name.box                        "Nome"> 
 
@@ -24,7 +24,7 @@
 <!ENTITY PhoneticField2.id              "PhoneticLastName">
 
 <!ENTITY NameField1.label               "Primeiro:">
-<!ENTITY NameField1.accesskey           "p">
+<!ENTITY NameField1.accesskey           "P">
 <!ENTITY NameField2.label               "Último:">
 <!ENTITY NameField2.accesskey           "l">
 <!ENTITY PhoneticField1.label           "Fonético:">
@@ -36,9 +36,9 @@
 <!ENTITY NickName.label                 "Alcunha:">
 <!ENTITY NickName.accesskey             "u">
 
-<!ENTITY PrimaryEmail.label             "Correio Electrónico:">
+<!ENTITY PrimaryEmail.label             "Correio eletrónico:">
 <!ENTITY PrimaryEmail.accesskey         "E">
-<!ENTITY SecondEmail.label              "Correio Electrónico alternativo:">
+<!ENTITY SecondEmail.label              "Correio eletrónico alternativo:">
 <!ENTITY SecondEmail.accesskey          "n">
 <!ENTITY PreferMailFormat.label         "Prefere receber mensagens formatadas como:">
 <!ENTITY PreferMailFormat.accesskey     "a">
@@ -77,8 +77,8 @@ mensagens HTML deste contacto.">
 <!ENTITY HomeCity.accesskey             "i">
 <!ENTITY HomeState.label                "Estado/Província:"> 
 <!ENTITY HomeState.accesskey            "s">
-<!ENTITY HomeZipCode.label              "Código Postal:"> 
-<!ENTITY HomeZipCode.accesskey          "P">
+<!ENTITY HomeZipCode.label              "Código postal:"> 
+<!ENTITY HomeZipCode.accesskey          "p">
 <!ENTITY HomeCountry.label              "País:">
 <!ENTITY HomeCountry.accesskey          "s">
 <!ENTITY HomeWebPage.label              "Página Web:"> 
@@ -107,8 +107,8 @@ mensagens HTML deste contacto.">
 <!ENTITY WorkCity.accesskey             "i">
 <!ENTITY WorkState.label                "Estado/Província:"> 
 <!ENTITY WorkState.accesskey            "v">
-<!ENTITY WorkZipCode.label              "Código Postal:"> 
-<!ENTITY WorkZipCode.accesskey          "P">
+<!ENTITY WorkZipCode.label              "Código postal:"> 
+<!ENTITY WorkZipCode.accesskey          "p">
 <!ENTITY WorkCountry.label              "País:">
 <!ENTITY WorkCountry.accesskey          "s">
 <!ENTITY WorkWebPage.label              "Página Web:"> 
@@ -140,5 +140,5 @@ mensagens HTML deste contacto.">
 <!ENTITY PhotoURL.label                 "Na Web">
 <!ENTITY PhotoURL.accesskey             "b">
 <!ENTITY PhotoURL.placeholder           "Escrever ou colar o endereço web de uma fotografia">
-<!ENTITY UpdatePhoto.label              "Actualizar">
+<!ENTITY UpdatePhoto.label              "Atualizar">
 <!ENTITY UpdatePhoto.accesskey          "u">

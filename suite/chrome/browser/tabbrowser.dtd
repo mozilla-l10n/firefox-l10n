@@ -14,5 +14,5 @@
 <!ENTITY  closeTabButton.tooltip   "Fechar separador actual">
 <!ENTITY  newTabButton.tooltip   "Abrir um novo separador">
 <!ENTITY  listAllTabs.tooltip    "Listar todos os separadores">
-<!ENTITY  undoCloseTab.label    "Anular fechar separador">
+<!ENTITY  undoCloseTab.label    "Anular fecho de separador">
 <!ENTITY  undoCloseTab.accesskey  "u">

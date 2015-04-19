@@ -41,8 +41,8 @@
 <!ENTITY forwardMsg.label                     "Reencaminhamento de mensagens:">
 <!ENTITY inline.label                         "Em linha">
 <!ENTITY inline.accesskey                     "n">
-<!ENTITY asAttachment.label                   "Como Anexo">
-<!ENTITY asAttachment.accesskey               "A">
+<!ENTITY asAttachment.label                   "Como anexo">
+<!ENTITY asAttachment.accesskey               "a">
 
 <!ENTITY replyQuoteInline.label               "Citar anexos visualizados em linha nas respostas">
 <!ENTITY replyQuoteInline.accesskey           "C">

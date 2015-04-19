@@ -18,7 +18,7 @@
 <!ENTITY  clearLocationBarButton.label      "Limpar barra de localização">
 <!ENTITY  clearLocationBarButton.accesskey  "b">
 <!ENTITY  formfillHistory.caption           "Histórico de pesquisas e formulários">
-<!ENTITY  enableFormfill.label              "Activar histórico de pesquisas e formulários">
+<!ENTITY  enableFormfill.label              "Ativar histórico de pesquisas e formulários">
 <!ENTITY  enableFormfill.accesskey          "c">
 <!ENTITY  formfillExpire.label              "Lembrar histórico de pesquisas e formulários durante">
 <!ENTITY  formfillExpire.accesskey          "f">

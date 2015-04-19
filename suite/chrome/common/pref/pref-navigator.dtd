@@ -6,7 +6,7 @@
 
 <!ENTITY navRadio.label                 "Mostrar ao">
 <!ENTITY navRadio.accesskey             "o">
-<!ENTITY navStartPageMenu.label         "Iníciar o navegador">
+<!ENTITY navStartPageMenu.label         "Iniciar o navegador">
 <!ENTITY newWinPageMenu.label           "Nova janela">
 <!ENTITY newTabPageMenu.label           "Novo separador">
 
@@ -32,9 +32,9 @@
 <!ENTITY restoreDeferred.accesskey      "O">
 
 <!ENTITY homePageIntro.label            "Clicar no botão da página inicial leva-o para este grupo de páginas:">
-<!ENTITY useCurrent.label               "Usar página actual">
+<!ENTITY useCurrent.label               "Usar página atual">
 <!ENTITY useCurrent.accesskey           "U">
-<!ENTITY useCurrentGroup.label          "Usar grupo actual">
+<!ENTITY useCurrentGroup.label          "Usar grupo atual">
 <!ENTITY useCurrentGroup.accesskey      "g">
 <!ENTITY browseFile.label               "Escolher ficheiro…">
 <!ENTITY browseFile.accesskey           "c">

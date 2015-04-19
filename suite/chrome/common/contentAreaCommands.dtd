@@ -15,13 +15,13 @@
 <!ENTITY openLinkCmdInPrivateWindow.accesskey "d">
 <!ENTITY openLinkInWindowCmd.label    "Abrir">
 <!ENTITY openLinkInWindowCmd.accesskey "b">
-<!ENTITY openFrameCmd.label           "Abrir Frame em nova janela">
+<!ENTITY openFrameCmd.label           "Abrir moldura em nova janela">
 <!ENTITY openFrameCmd.accesskey       "j">
-<!ENTITY openFrameCmdInTab.label      "Abrir Frame em novo separador">
+<!ENTITY openFrameCmdInTab.label      "Abrir moldura em novo separador">
 <!ENTITY openFrameCmdInTab.accesskey  "s">
 <!ENTITY keywordfield.label           "Adicionar palavra-chave a esta pesquisa…">
 <!ENTITY keywordfield.accesskey       "q">
-<!ENTITY showOnlyThisFrameCmd.label     "Mostrar apenas esta frame">
+<!ENTITY showOnlyThisFrameCmd.label     "Mostrar apenas esta moldura">
 <!ENTITY showOnlyThisFrameCmd.accesskey "a">
 <!ENTITY goBackCmd.label              "Retroceder">
 <!ENTITY goBackCmd.accesskey          "R">
@@ -34,26 +34,26 @@
 <!ENTITY reloadCmd.commandkey         "r">
 <!ENTITY stopCmd.label                "Parar">
 <!ENTITY stopCmd.accesskey            "P">
-<!ENTITY reloadFrameCmd.label         "Recarregar Frame">
+<!ENTITY reloadFrameCmd.label         "Recarregar moldura">
 <!ENTITY reloadFrameCmd.accesskey     "c">
 <!ENTITY viewPartialSourceForSelectionCmd.label "Ver fonte da selecção">
 <!ENTITY viewPartialSourceForMathMLCmd.label    "Ver fonte MathML">
 <!ENTITY viewPartialSourceCmd.accesskey "e">
 <!ENTITY viewPageSourceCmd.label      "Ver código fonte da página">
 <!ENTITY viewPageSourceCmd.accesskey  "o">
-<!ENTITY viewFrameSourceCmd.label     "Ver código fonte da frame">
+<!ENTITY viewFrameSourceCmd.label     "Ver código fonte da moldura">
 <!ENTITY viewFrameSourceCmd.accesskey "i">
-<!ENTITY viewPageInfoCmd.label        "Ver info da página">
+<!ENTITY viewPageInfoCmd.label        "Ver informação da página">
 <!ENTITY viewPageInfoCmd.accesskey    "i">
-<!ENTITY viewFrameInfoCmd.label       "Ver info da Frame">
+<!ENTITY viewFrameInfoCmd.label       "Ver informação da moldura">
 <!ENTITY viewFrameInfoCmd.accesskey   "i">
 <!ENTITY fitImageCmd.label            "Adequar imagem à janela">
 <!ENTITY fitImageCmd.accesskey        "j">
 <!ENTITY reloadImageCmd.label         "Recarregar imagem">
 <!ENTITY reloadImageCmd.accesskey     "e">
-<!ENTITY viewImageCmd.label           "Ver Imagem">
+<!ENTITY viewImageCmd.label           "Ver imagem">
 <!ENTITY viewImageCmd.accesskey       "V">
-<!ENTITY viewVideoCmd.label           "Ver Vídeo">
+<!ENTITY viewVideoCmd.label           "Ver vídeo">
 <!ENTITY viewVideoCmd.accesskey       "d">
 <!ENTITY viewBGImageCmd.label         "Ver imagem de fundo">
 <!ENTITY viewBGImageCmd.accesskey     "f">
@@ -63,16 +63,16 @@
 <!ENTITY bookmarkPageCmd.accesskey    "m">
 <!ENTITY bookmarkLinkCmd.label        "Adicionar ligação aos marcadores">
 <!ENTITY bookmarkLinkCmd.accesskey    "l">
-<!ENTITY bookmarkFrameCmd.label       "Adicionar frame aos marcadores">
+<!ENTITY bookmarkFrameCmd.label       "Adicionar moldura aos marcadores">
 <!ENTITY bookmarkFrameCmd.accesskey   "m">
 <!ENTITY savePageAsCmd.label          "Guardar página como…">
 <!ENTITY savePageCmd.label            "Guardar página">
 <!ENTITY savePageCmd.accesskey        "p">
 <!ENTITY savePageCmd.commandkey       "s">
-<!ENTITY saveFrameAsCmd.label         "Guardar frame como…">
-<!ENTITY saveFrameCmd.label           "Guardar frame">
+<!ENTITY saveFrameAsCmd.label         "Guardar moldura como…">
+<!ENTITY saveFrameCmd.label           "Guardar moldura">
 <!ENTITY saveFrameCmd.accesskey       "G">
-<!ENTITY printFrameCmd.label          "Imprimir frame…">
+<!ENTITY printFrameCmd.label          "Imprimir moldura…">
 <!ENTITY printFrameCmd.accesskey      "I">
 <!ENTITY saveLinkAsCmd.label          "Guardar ligação como…">
 <!ENTITY saveLinkCmd.label            "Guardar ligação">
@@ -96,8 +96,8 @@
 <!ENTITY metadataCmd.accesskey        "P">
 <!ENTITY copyEmailCmd.label           "Copiar endereço de correio">
 <!ENTITY copyEmailCmd.accesskey       "e">
-<!ENTITY thisFrameMenu.label          "Esta frame">
-<!ENTITY thisFrameMenu.accesskey      "f">
+<!ENTITY thisFrameMenu.label          "Esta moldura">
+<!ENTITY thisFrameMenu.accesskey      "o">
 <!ENTITY mediaPlay.label              "Reproduzir">
 <!ENTITY mediaPlay.accesskey          "P">
 <!ENTITY mediaPause.label             "Pausar">
@@ -108,7 +108,7 @@
 <!ENTITY mediaUnmute.accesskey        "m">
 <!ENTITY mediaPlaybackRate.label        "Velocidade de reprodução">
 <!ENTITY mediaPlaybackRate.accesskey    "b">
-<!ENTITY mediaPlaybackRate050.label     "Slow Motion (½×)">
+<!ENTITY mediaPlaybackRate050.label     "Slow motion (½×)">
 <!ENTITY mediaPlaybackRate050.accesskey "S">
 <!ENTITY mediaPlaybackRate100.label     "Velocidade normal">
 <!ENTITY mediaPlaybackRate100.accesskey "n">
@@ -119,9 +119,9 @@
 <!-- LOCALIZATION NOTE: The access keys for "Show Controls" and
 "Hide Controls" are the same because the two context-menu
 items are mutually exclusive. -->
-<!ENTITY mediaShowControls.label      "Mostrar controlos de média">
+<!ENTITY mediaShowControls.label      "Mostrar controlos de media">
 <!ENTITY mediaShowControls.accesskey  "a">
-<!ENTITY mediaHideControls.label      "Ocultar controlos de média">
+<!ENTITY mediaHideControls.label      "Ocultar controlos de media">
 <!ENTITY mediaHideControls.accesskey  "a">
 <!ENTITY videoFullScreen.label        "Ecrã inteiro">
 <!ENTITY videoFullScreen.accesskey    "n">
@@ -132,9 +132,9 @@ items are mutually exclusive. -->
 <!ENTITY videoHideStats.label         "Ocultar estatísticas">
 <!ENTITY videoHideStats.accesskey     "t">
 <!ENTITY search.accesskey             "c">
-<!ENTITY bidiSwitchPageDirectionItem.label        "Mudar direcção da página">
+<!ENTITY bidiSwitchPageDirectionItem.label        "Mudar direção da página">
 <!ENTITY bidiSwitchPageDirectionItem.accesskey    "g">
-<!ENTITY bidiSwitchTextDirectionItem.label        "Mudar direcção do texto">
+<!ENTITY bidiSwitchTextDirectionItem.label        "Mudar direção do texto">
 <!ENTITY bidiSwitchTextDirectionItem.accesskey    "x">
 <!ENTITY spellAddToDictionary.label     "Adicionar ao dicionário">
 <!ENTITY spellAddToDictionary.accesskey "o">
