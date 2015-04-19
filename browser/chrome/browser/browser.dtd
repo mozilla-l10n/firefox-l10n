@@ -329,9 +329,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY selectAllCmd.key         "A">  
 <!ENTITY selectAllCmd.accesskey       "i"> 
 <!ENTITY preferencesCmd2.label       "Beállítások">
-<!ENTITY preferencesCmd2.accesskey     "B">
+<!ENTITY preferencesCmd2.accesskey     "e">
 <!ENTITY preferencesCmdUnix.label       "Beállítások">
-<!ENTITY preferencesCmdUnix.accesskey     "B"> 
+<!ENTITY preferencesCmdUnix.accesskey     "e"> 
 
 <!ENTITY clearRecentHistory.label               "Előzmények törlése…">
 
