@@ -1,15 +1,15 @@
 <!ENTITY linksHeader.label "Comportamento da ligação">
 <!ENTITY newWindow.label "Comportamento da abertura da ligação">
 <!ENTITY newWindowDescription.label "Abrir ligações que deviam abrir numa nova janela">
-<!ENTITY newWindowRestriction.label "Quando os scriptsquerem abrir uma nova janela:">
+<!ENTITY newWindowRestriction.label "Quando os scripts querem abrir uma nova janela:">
 <!ENTITY external.label "Ligações de outras aplicações">
 <!ENTITY externalDescription.label "Abrir ligações de outras aplicações">
 
-<!ENTITY openCurrent.label "No separador/janela actual">
-<!ENTITY newWindowGroupCurrent.accesskey "c">
+<!ENTITY openCurrent.label "No separador/janela atual">
+<!ENTITY newWindowGroupCurrent.accesskey "cj">
 <!ENTITY externalGroupCurrent.accesskey "u">
 
-<!ENTITY openTab.label "Num novo separador na janela actual">
+<!ENTITY openTab.label "Num novo separador na janela atual">
 <!ENTITY newWindowGroupTab.accesskey "t">
 <!ENTITY externalGroupTab.accesskey "a">
 

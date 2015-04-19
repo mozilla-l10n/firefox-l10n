@@ -5,7 +5,7 @@
 <!ENTITY openCmd.label "Abrir localização Web…">
 <!ENTITY openCmd.accesskey "l">
 <!ENTITY openCmd.commandkey "l">
-<!ENTITY openFileCmd.label "Abrir Ficheiro…">
+<!ENTITY openFileCmd.label "Abrir ficheiro…">
 <!ENTITY openFileCmd.accesskey "o">
 <!ENTITY openFileCmd.commandkey "o">
 
@@ -13,7 +13,7 @@
 <!ENTITY closeOtherTabs.accesskey "t">
 
 <!ENTITY uploadFile.label "Carregar ficheiro…">
-<!ENTITY uploadFile.accesskey "F">
+<!ENTITY uploadFile.accesskey "f">
 
 <!ENTITY printSetupCmd.label "Configuração de página…">
 <!ENTITY printSetupCmd.accesskey "u">
@@ -22,10 +22,10 @@
 <!ENTITY findOnCmd.label "Procurar nesta página…">
 
 <!-- View Menu -->
-<!ENTITY toolbarsCmd.label "Mostrar/Ocultar">
+<!ENTITY toolbarsCmd.label "Mostrar/ocultar">
 <!ENTITY toolbarsCmd.accesskey "c">
-<!ENTITY tabbarCmd.label "Barra de Separadores">
-<!ENTITY tabbarCmd.accesskey "S">
+<!ENTITY tabbarCmd.label "Barra de separadores">
+<!ENTITY tabbarCmd.accesskey "s">
 <!ENTITY taskbarCmd.label "Barra de estado">
 <!ENTITY taskbarCmd.accesskey "B">
 <!ENTITY componentbarCmd.label "Barra de componentes">
@@ -45,7 +45,7 @@
 <!ENTITY pageSourceCmd.label "Fonte da página">
 <!ENTITY pageSourceCmd.accesskey "o">
 <!ENTITY pageSourceCmd.commandkey "u">
-<!ENTITY pageInfoCmd.label "Info da página">
+<!ENTITY pageInfoCmd.label "Informação da página">
 <!ENTITY pageInfoCmd.accesskey "I">
 <!ENTITY pageInfoCmd.commandkey "i">
 
@@ -108,7 +108,7 @@
 <!ENTITY cookieImageMessageTitle.label "Permissões da imagem alteradas">
 <!ENTITY cookieDisplayImagesCmd.label "Gerir permissões da imagem">
 <!ENTITY cookieDisplayImagesCmd.accesskey "M">
-<!ENTITY cookieAllowImagesCmd.label "Permitir imagens deste sítio web Website">
+<!ENTITY cookieAllowImagesCmd.label "Permitir imagens deste sítio web">
 <!ENTITY cookieAllowImagesCmd.accesskey "A">
 <!ENTITY cookieAllowImagesMsg.label "As imagens deste sítio web serão sempre transferidas.">
 <!ENTITY cookieImagesDefaultCmd.label "Usar as permissões de imagem pré-definidas">
@@ -120,7 +120,7 @@
 
 <!ENTITY cookieAllowPopupsCmd.label "Permitir popups deste sítio web">
 <!ENTITY cookieAllowPopupsCmd.accesskey "A">
-<!ENTITY cookieManagePopups.label "Gerir Popups">
+<!ENTITY cookieManagePopups.label "Gerir popups">
 <!ENTITY cookieManagePopups.accesskey "G">
 
 <!ENTITY cookieCookieManager.label "Gestor de cookie">

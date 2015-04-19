@@ -36,20 +36,20 @@
  ***** END LICENSE BLOCK ***** -->
 
 <!ENTITY pref.addressing.title                 "Endereçamento">
-<!ENTITY emailCollectiontitle.label            "Colecção de Endereços de Correio Electrónico">
+<!ENTITY emailCollectiontitle.label            "Coleção de endereços de correio eletrónico">
 <!ENTITY emailCollectionPicker.label           "Adicionar endereços de correio ao meu:">
 <!ENTITY emailCollectionPicker.accesskey       "d">
-<!ENTITY emailCollectiontext.label             "Endereços de Correio de mensagens enviadas podem ser adicionadas automaticamente ao livro de endereços local.">
+<!ENTITY emailCollectiontext.label             "Endereços de correio de mensagens enviadas podem ser adicionadas automaticamente ao livro de endereços local.">
 
 <!-- Autocompletion -->
-<!ENTITY addressingTitle.label                 "Auto-Completar endereços">
-<!ENTITY highlightNonMatches.label             "Realçar endereços que não auto-completam">
+<!ENTITY addressingTitle.label                 "Auto-completar endereços">
+<!ENTITY highlightNonMatches.label             "Realçar endereços que não se auto-completam">
 <!ENTITY highlightNonMatches.accesskey         "a">
-<!ENTITY addressingEnable.label                "Livro de Endereços Local">
+<!ENTITY addressingEnable.label                "Livro de endereços local">
 <!ENTITY addressingEnable.accesskey            "L">
 <!ENTITY autocompleteText.label                "Ao endereçar mensagens, procurar por equivalências na:">
-<!ENTITY directories.label                     "Directoria do Servidor:">
-<!ENTITY directories.accesskey                 "D">
+<!ENTITY directories.label                     "Pasta do servidor:">
+<!ENTITY directories.accesskey                 "P">
 <!ENTITY directoriesNone.label                 "Nenhuma">
-<!ENTITY editDirectories.label                 "Editar Directorias...">
+<!ENTITY editDirectories.label                 "Editar pastas...">
 <!ENTITY editDirectories.accesskey             "E">

@@ -1,18 +1,18 @@
 <!-- LOCALIZATION NOTE (tabs.otherComputers.label): Keep this in sync with syncTabsMenu.label from navigator.dtd -->
-<!ENTITY tabs.otherComputers.label               "Separadores de Outros Computadores">
+<!ENTITY tabs.otherComputers.label               "Separadores de outros computadores">
 
 <!ENTITY tabs.searchText.label                   "Escreva aqui para encontrar separadores...">
 
 <!-- LOCALIZATION NOTE (tabs.context.openTab.accesskey, tabs.context.openMultipleTabs.accesskey;
      tabs.context.bookmarkSingleTab.accesskey, tabs.context.bookmarkMultipleTabs.accesskey):
      Only one of each of these pairs will show at a time (based on selection), so reusing accesskey is ok. -->
-<!ENTITY tabs.context.openTab.label                   "Abrir Este Separador">
+<!ENTITY tabs.context.openTab.label                   "Abrir este separador">
 <!ENTITY tabs.context.openTab.accesskey               "A">
-<!ENTITY tabs.context.openMultipleTabs.label          "Abrir Separadores Seleccionados">
+<!ENTITY tabs.context.openMultipleTabs.label          "Abrir separadores selecionados">
 <!ENTITY tabs.context.openMultipleTabs.accesskey      "A">
-<!ENTITY tabs.context.bookmarkSingleTab.label         "Tornar Separador em Marcador...">
-<!ENTITY tabs.context.bookmarkSingleTab.accesskey     "M">
-<!ENTITY tabs.context.bookmarkMultipleTabs.label      "Tornar Separadores Seleccionados em Marcadores...">
-<!ENTITY tabs.context.bookmarkMultipleTabs.accesskey  "M">
-<!ENTITY tabs.context.refreshList.label               "Actualizar Lista">
-<!ENTITY tabs.context.refreshList.accesskey           "L">
+<!ENTITY tabs.context.bookmarkSingleTab.label         "Tornar separador em marcador...">
+<!ENTITY tabs.context.bookmarkSingleTab.accesskey     "m">
+<!ENTITY tabs.context.bookmarkMultipleTabs.label      "Tornar separadores selecionados em marcadores...">
+<!ENTITY tabs.context.bookmarkMultipleTabs.accesskey  "m">
+<!ENTITY tabs.context.refreshList.label               "Atualizar lista">
+<!ENTITY tabs.context.refreshList.accesskey           "l">

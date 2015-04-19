@@ -16,7 +16,7 @@
 
 <!ENTITY mainWindow.titleprivate "Navegação privada">
 
-<!ENTITY editPageCmd.label "Editar Página">
+<!ENTITY editPageCmd.label "Editar página">
 <!ENTITY editPageCmd.accesskey "E">
 <!ENTITY editPageCmd.commandkey "e">
 
@@ -34,7 +34,7 @@
 <!ENTITY feedsMenu.label "Subscrever esta página">
 <!ENTITY feedsMenu.accesskey "S">
 
-<!ENTITY menuBar.tooltip                  "Barra de Menus">
+<!ENTITY menuBar.tooltip                  "Barra de menus">
 <!ENTITY bookmarksToolbar.tooltip         "Barra de ferramentas dos marcadores">
 <!ENTITY navigationToolbar.tooltip        "Barra de ferramentas de navegação">
 
@@ -74,9 +74,9 @@
 
 <!ENTITY popupIcon.tooltiptext      "Desbloquear os popups do sítio">
 
-<!ENTITY viewSecurityInfo.label      "Ver info de segurança">
+<!ENTITY viewSecurityInfo.label      "Ver informação de segurança">
 <!ENTITY viewSecurityInfo.accesskey  "s">
 <!ENTITY viewCertificate.label       "Ver certificado">
 <!ENTITY viewCertificate.accesskey   "s">
 <!ENTITY viewCertManager.label       "Abrir gestor de certificados">
-<!ENTITY viewCertManager.accesskey   "b">
+<!ENTITY viewCertManager.accesskey   "g">

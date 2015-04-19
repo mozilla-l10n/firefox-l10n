@@ -4,7 +4,7 @@
 <!ENTITY typeColumn.label        "Tipo de conteúdo">
 <!ENTITY typeColumn.accesskey    "T">
 
-<!ENTITY actionColumn2.label     "Acção">
+<!ENTITY actionColumn2.label     "Ação">
 <!ENTITY actionColumn2.accesskey "A">
 
-<!ENTITY search.placeholder      "Procurar tipos e acções">
+<!ENTITY search.placeholder      "Procurar tipos e ações">

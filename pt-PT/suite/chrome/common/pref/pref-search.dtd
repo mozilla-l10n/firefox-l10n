@@ -4,7 +4,7 @@
 
 <!ENTITY pref.search.title                "Pesquisa na Internet">
 <!ENTITY legendHeader                     "Motor de pesquisa pré-definido">
-<!ENTITY defaultSearchEngine.label        "Pesquisar usando:">
+<!ENTITY defaultSearchEngine.label        "Pesquisar utilizando:">
 <!ENTITY defaultSearchEngine.accesskey    "S">
 
 <!-- Will be used by bug 595246 -->
@@ -12,7 +12,7 @@
 
 <!ENTITY searchResults.label              "Resultados da pesquisa">
 
-<!ENTITY openInTab.label                  "Abrir novos separador para os resultados da barra lateral">
+<!ENTITY openInTab.label                  "Abrir novos separadores para os resultados da barra lateral">
 <!ENTITY openInTab.accesskey              "n">
 <!ENTITY openContextSearchTab.label       "Abrir um separador em vez de uma janela para o menu de contexto da pesquisa web">
 <!ENTITY openContextSearchTab.accesskey   "t">

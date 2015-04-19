@@ -5,7 +5,7 @@
 <!ENTITY newContactCmd.label             "Contacto…">
 <!ENTITY newContactCmd.accesskey         "C">
 
-<!ENTITY sendPage.label                  "Enviar Página…">
+<!ENTITY sendPage.label                  "Enviar página…">
 <!ENTITY sendPage.accesskey              "v">
 
 <!ENTITY contextSendThisPage.label       "Enviar esta página…">
@@ -18,7 +18,7 @@
 <!ENTITY contextSendVideo.accesskey      "i">
 <!ENTITY contextSendAudio.label          "Enviar áudio…">
 <!ENTITY contextSendAudio.accesskey      "i">
-<!ENTITY contextSendFrame.label          "Enviar Frame…">
+<!ENTITY contextSendFrame.label          "Enviar moldura…">
 <!ENTITY contextSendFrame.accesskey      "v">
 
 <!ENTITY sendLinkCmd.label               "Enviar ligação…"> 

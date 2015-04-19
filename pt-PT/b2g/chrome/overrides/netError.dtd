@@ -94,7 +94,7 @@
 <!ENTITY proxyResolveFailure.longDesc2 "
 <ul>
   <li>Verifique as definições de proxy para confirmar se estão corretas.</li>
-  <li>Verifique se o seu computador tem uma ligação de rede de dados ou Wi-Fi funcional.</li>
+  <li>Verifique se o seu computador tem uma ligação de rede de dados ou sem fios funcional.</li>
 </ul>
 ">
 

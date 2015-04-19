@@ -1,17 +1,17 @@
 <!-- Entities for AccountWizard -->
 
-<!ENTITY windowTitle.label "Assistente de criação de Conta">
+<!ENTITY windowTitle.label "Assistente de criação de conta">
 <!ENTITY accountWizard.size "width: 55em; height: 44em;">
 
 <!-- Entities for Account Type page -->
 
-<!ENTITY accountSetupInfo2.label "Para poder receber mensagens,tem que configurar primeiro uma conta de correio ou de um Grupo de Discussão.">
-<!ENTITY accountTypeTitle.label "Configurar Nova Conta">
-<!ENTITY accountTypeDesc2.label "Este Assistente vai reunir as informações necessárias para configurar uma conta de correio ou de um Grupo de Discussão. Se não souber a informação necessária, contacte o seu administrador de Sistema ou Fornecedor de Serviço Internet.">
-<!ENTITY accountTypeDirections.label "Seleccione o tipo de conta que você deseja configurar:">
-<!ENTITY accountTypeMail.label "Conta de Correio Eletrónico">
+<!ENTITY accountSetupInfo2.label "Para poder receber mensagens,tem que configurar primeiro uma conta de correio ou de um grupo de discussão.">
+<!ENTITY accountTypeTitle.label "Configurar nova conta">
+<!ENTITY accountTypeDesc2.label "Este assistente vai reunir as informações necessárias para configurar uma conta de correio ou de um grupo de discussão. Se não souber a informação necessária, contacte o seu administrador de sistema ou fornecedor de serviço Internet.">
+<!ENTITY accountTypeDirections.label "Selecione o tipo de conta que você deseja configurar:">
+<!ENTITY accountTypeMail.label "Conta de correio eletrónico">
 <!ENTITY accountTypeMail.accesskey "c">
-<!ENTITY accountTypeNews.label "Conta de Grupo de Discussão">
+<!ENTITY accountTypeNews.label "Conta de grupo de discussão">
 <!ENTITY accountTypeNews.accesskey "n">
 
 <!-- Entities for Identity page -->
@@ -25,17 +25,17 @@
   1, do not translate two of "&quot;"
   2, Use localized full name instead of "John Smith"
 -->
-<!ENTITY fullnameExample.label "(exemplo: &quot;Sem Nome&quot;).">
+<!ENTITY fullnameExample.label "(exemplo: &quot;Seu Nome&quot;).">
 <!ENTITY fullnameLabel.label "O seu Nome:">
 <!ENTITY fullnameLabel.accesskey "N">
 
-<!ENTITY emailLabel.label "Endereço de Correio Eletrónico:">
+<!ENTITY emailLabel.label "Endereço de correio eletrónico:">
 <!ENTITY emailLabel.accesskey "E">
 
 <!-- Entities for Server page -->
 
-<!ENTITY incomingTitle.label "Informação do Servidor">
-<!ENTITY incomingServerTypeDesc.label "Seleccione o tipo de servidor de recepção que está a usar.">
+<!ENTITY incomingTitle.label "Informação do servidor">
+<!ENTITY incomingServerTypeDesc.label "Selecione o tipo de servidor de receção que está a usar.">
 <!-- LOCALIZATION NOTE (imapType.label) : Do not translate "IMAP" in below line -->
 <!ENTITY imapType.label "IMAP">
 <!ENTITY imapType.accesskey "I">
@@ -106,15 +106,15 @@
 <!-- Entities for Done (Congratulations) page -->
 
 <!ENTITY completionTitle.label "Parabéns!">
-<!ENTITY completionText.label "Verifique se a informação em baixo está correcta.">
-<!ENTITY serverTypePrefix.label "Tipo de Servidor de Receção:">
-<!ENTITY serverNamePrefix.label "Nome do Servidor de Receção:">
-<!ENTITY smtpServerNamePrefix.label "Nome de correio a Enviar(SMTP):">
-<!ENTITY newsServerNamePrefix.label "Nome do Servidor de Notícias (NNTP):">
+<!ENTITY completionText.label "Verifique se a informação em baixo está correta.">
+<!ENTITY serverTypePrefix.label "Tipo de servidor de receção:">
+<!ENTITY serverNamePrefix.label "Nome do servidor de receção:">
+<!ENTITY smtpServerNamePrefix.label "Nome de correio a enviar (SMTP):">
+<!ENTITY newsServerNamePrefix.label "Nome do servidor de notícias (NNTP):">
 <!ENTITY downloadOnLogin.label "Transferir as mensagem agora">
 <!ENTITY downloadOnLogin.accesskey "T">
-<!ENTITY deferStorageDesc.label "Desseleccione a caixa de confirmação para guardar o correio desta conta na sua própria pasta. Isto vai tornar a sua conta como uma conta principal. De outra maneira, fará parte da Pasta Geral do Correio a receber.">
-<!ENTITY deferStorage.label "Usar a Caixa de Correio a Receber Geral (Guardar o correio em Pastas Locais)">
-<!ENTITY deferStorage.accesskey "G">
-<!ENTITY clickFinish.label "Clique Terminar para guardar estas configurações e Sair do Assistente.">
-<!ENTITY clickFinish.labelMac "Clique Terminar para guardar estas configurações e Sair do Assistente.">
+<!ENTITY deferStorageDesc.label "Desselecione a caixa de confirmação para guardar o correio desta conta na sua própria pasta. Isto vai tornar a sua conta como uma conta principal. De outra maneira, fará parte da pasta geral do correio a receber.">
+<!ENTITY deferStorage.label "Usar a caixa de correio a receber geral (guardar o correio em pastas locais)">
+<!ENTITY deferStorage.accesskey "g">
+<!ENTITY clickFinish.label "Clique em terminar para guardar estas configurações e sair do assistente.">
+<!ENTITY clickFinish.labelMac "Clique em terminar para guardar estas configurações e sair do assistente.">
