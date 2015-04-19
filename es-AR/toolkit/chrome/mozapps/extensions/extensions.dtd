@@ -105,6 +105,7 @@
 <!ENTITY cmd.uninstallAddon.label             "Eliminar">
 <!ENTITY cmd.uninstallAddon.accesskey         "r">
 <!ENTITY cmd.debugAddon.label                 "Depurar">
+<!ENTITY cmd.debugAddon.accesskey             "u">
 <!ENTITY cmd.showPreferencesWin.label         "Opciones">
 <!ENTITY cmd.showPreferencesWin.tooltip       "Cambiar las opciones de este complemento">
 <!ENTITY cmd.showPreferencesUnix.label        "Preferencias">
