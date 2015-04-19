@@ -71,6 +71,8 @@
 <!ENTITY saveFrameAsCmd.label "Сохранить фрейм как…">
 <!ENTITY saveFrameCmd.label "Сохранить фрейм">
 <!ENTITY saveFrameCmd.accesskey "р">
+<!ENTITY printFrameCmd.label "Печатать фрейм…">
+<!ENTITY printFrameCmd.accesskey "е">
 <!ENTITY saveLinkAsCmd.label "Сохранить объект как…">
 <!ENTITY saveLinkCmd.label "Сохранить объект">
 <!ENTITY saveLinkCmd.accesskey "о">

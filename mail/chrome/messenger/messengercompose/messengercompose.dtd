@@ -142,6 +142,8 @@
 <!ENTITY bothFormatCmd.accesskey "б">
 <!ENTITY priorityMenu.label "Важность">
 <!ENTITY priorityMenu.accesskey "ж">
+<!ENTITY priorityButton.title "Важность">
+<!ENTITY priorityButton.tooltiptext "Изменить важность сообщения">
 <!ENTITY priorityButton.label "Важность:">
 <!ENTITY lowestPriorityCmd.label "Самая низкая">
 <!ENTITY lowestPriorityCmd.accesskey "с">

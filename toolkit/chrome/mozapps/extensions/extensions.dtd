@@ -79,6 +79,7 @@
 <!ENTITY cmd.uninstallAddon.label "Удалить">
 <!ENTITY cmd.uninstallAddon.accesskey "д">
 <!ENTITY cmd.debugAddon.label "Отладка">
+<!ENTITY cmd.debugAddon.accesskey "а">
 <!ENTITY cmd.showPreferencesWin.label "Настройки">
 <!ENTITY cmd.showPreferencesWin.tooltip "Изменить настройки этого дополнения">
 <!ENTITY cmd.showPreferencesUnix.label "Настройки">
