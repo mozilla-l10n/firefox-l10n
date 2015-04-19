@@ -6,7 +6,8 @@
 <!ENTITY  no_space_to_start_error "&brandShortName; सुरु होण्यासाठी पुरेशी जागा उपलब्ध नाही.">
 <!ENTITY  error_loading_file "&brandShortName; चालवण्यासाठी आवश्यक फाइली चढवताना चूक आढळली">
 
-
+<!ENTITY  onboard_start_message2 "&brandShortName; मध्ये आपले स्वागत आहे">
+<!ENTITY  onboard_start_subtext2 "पहिले पासुन अधिक स्वपसंतीचे मार्ग व गुप्ततेचे आकर्षण.">
 <!ENTITY  onboard_start_button_account "&brandShortName; मध्ये साईन इन करा">
 <!ENTITY  onboard_start_button_browser "ब्राउझिंगला सुरुवात करा">
 <!-- Localization note: These are used as the titles of different pages on the home screen.
@@ -41,7 +42,7 @@
 <!ENTITY url_bar_default_text2 "पत्ता शोधा किंवा द्या">
 
 <!ENTITY bookmark "वाचनखूण">
-
+<!ENTITY bookmark_remove "वाचनखूण काढा">
 <!ENTITY bookmark_added "वाचनखूण समाविष्ट">
 <!ENTITY bookmark_removed "वाचनखूण काढले">
 <!ENTITY bookmark_updated "वाचनखूण अद्ययावत केले">
@@ -75,11 +76,11 @@
 <!ENTITY switch_button_message "SWITCH">
 
 <!ENTITY settings "सेटिंग">
-
+<!ENTITY settings_title "सेटिंग">
 <!ENTITY pref_category_advanced "प्रगत">
 <!ENTITY pref_category_customize "स्वपसंती करा">
 <!ENTITY pref_category_customize_summary "मुखपृष्ठ, शोध, टॅब, आयात">
-
+<!ENTITY pref_category_customize_alt_summary "मुख्य पटल, शोध, टॅब, नंतर उघडा, आयात">
 <!-- Localization note (pref_category_language) : This is the preferences
      section in which the user picks the locale in which to display Firefox
      UI. The locale includes both language and region concepts. -->
@@ -100,6 +101,8 @@
 <!-- Localization note (overlay_share_bookmark_btn_label) : This string is
      used in the share overlay menu to select an action. It is the verb
      "to bookmark", not the noun "a bookmark". -->
+
+<!ENTITY overlay_share_bookmark_btn_label "वाचनखूण">
 <!ENTITY overlay_share_reading_list_btn_label "वाचन यादीत जोडा">
 <!ENTITY overlay_share_bookmark_btn_label_already "अगोदरचे वाचनखूण">
 <!ENTITY overlay_share_reading_list_btn_label_already "वाचानायादीत आधीच समाविष्ट">
@@ -111,18 +114,21 @@
 
 <!ENTITY overlay_share_send_tab_btn_label "दुसऱ्या उपकरणावर पाठवा">
 <!ENTITY overlay_share_no_url "ह्या शेअरमध्ये दुवा सापडला नाही">
-
+<!ENTITY overlay_share_retry "पुनःप्रयत्न करा">
 <!ENTITY overlay_share_select_device "उपकरण निवडा">
 <!-- Localization note (overlay_no_synced_devices) : Used when the menu option
      to send a tab to a synced device is pressed and no other synced devices
      are found. -->
+<!ENTITY overlay_no_synced_devices "कुटलाही जोडलेला Firefox Account खातं सापडलं नाही">
 <!-- Localization note (overlay_share_tab_not_sent) : Used when the menu option
      to send a tab to a synced device is pressed and there is an error
      connecting to the server so the tab could not be sent. The text should be
      divided into two lines (use the newline escape character, "\n", between
      them): the first notifying the user about the failure and the second
      telling the user what to do about it. -->
+<!ENTITY overlay_share_tab_not_sent "तुमची टॅब पाठवली जाऊ शकली नाही. \nकृपया नंतर प्रयत्न करा.">
 
+<!ENTITY pref_category_search3 "शोध">
 <!ENTITY pref_category_search_summary "शोध पुरविणारे स्वपसंत करा">
 <!ENTITY pref_category_display "दृश्य">
 <!ENTITY pref_category_display_summary "मजकूर, शीर्षक पट्टी, पूर्ण स्क्रीन ब्राउजिंग">
@@ -136,7 +142,7 @@
 <!ENTITY pref_category_add_search_providers "आणखी शोध पुरविणारे समाविष्ट करा">
 <!ENTITY pref_category_search_restore_defaults "शोध इंजिन पुनःस्थापित करा">
 <!ENTITY pref_search_restore_defaults "पूर्वनिर्धारित सेटींग्स् पूर्वस्थित करा">
-
+<!ENTITY pref_search_restore_defaults_summary "पूर्वनिर्धारित पूर्वस्थित">
 <!-- Localization note (pref_search_hint) : "TIP" as in "hint", "clue" etc. Displayed as an
      advisory message on the customise search providers settings page explaining how to add new
      search providers.
@@ -147,9 +153,9 @@
 <!ENTITY pref_category_devtools_summary "दुरस्थ डिबगिंग,पेंट फ्लॅशिंग">
 <!ENTITY pref_developer_paint_flashing "पेंट फ्लॅशिंग">
 <!ENTITY pref_developer_remotedebugging "दूरस्थ डीबग करणे">
-
+<!ENTITY pref_category_logins "लॉगिन्स">
 <!ENTITY pref_remember_signons "पासवर्ड लक्षात ठेवा">
-
+<!ENTITY pref_manage_logins "लॉगिन्स व्यवस्थापित करा">
 
 <!ENTITY pref_category_home "मुख्य पटल">
 <!ENTITY pref_category_home_summary "घरपानाची स्वपसंती करा">
@@ -168,14 +174,16 @@
 <!ENTITY pref_home_suggested_sites_summary "आपल्याला आवडु शकतील अशा साइटस् आपल्या मुखपृष्ठावर ठेवा">
 <!-- Localization note: These are shown in the left sidebar on tablets -->
 
-
+<!ENTITY pref_header_customize "स्वपसंती">
+<!ENTITY pref_header_display "दृश्य">
+<!ENTITY pref_header_privacy_short "गुप्तता">
 <!ENTITY pref_header_help "मदत">
-
-
-
+<!ENTITY pref_header_language "भाषा">
+<!ENTITY pref_header_vendor "&vendorShortName;">
+<!ENTITY pref_header_devtools "डेवलपर साधने">
 
 <!ENTITY pref_cookies_menu "कुकीज">
-
+<!ENTITY pref_cookies_accept_all "कार्यान्वीत">
 <!ENTITY pref_cookies_not_accept_foreign "तिसरा पक्ष सोडुन, सक्षम">
 <!ENTITY pref_cookies_disabled "निष्क्रिय">
 
@@ -184,17 +192,22 @@
 <!ENTITY pref_donottrack_title "मागोवा घेऊ नका">
 <!ENTITY pref_donottrack_summary "&brandShortName; हे साइट्सना कळवेल की आपण मागोवा घेऊ इच्छित नाही">
 
-
+<!ENTITY tab_queue_toast_message "नंतर उघडा">
+<!ENTITY tab_queue_toast_action "आता उघडा">
 <!-- Localization note (tab_queue_notification_text_plural) : The
      formatD is replaced with the number of tabs queued.  The
      number of tabs queued is always more than one.  We can't use
      Android plural forms, sadly. See Bug #753859. -->
+<!ENTITY tab_queue_notification_text_plural "&formatD; टॅब रांगेत">
 <!-- Localization note (tab_queue_notification_title_plural) : This is the
      title of a notification; we expect more than one tab queued. -->
+<!ENTITY tab_queue_notification_title_plural "टॅब रांगेत">
 <!-- Localization note (tab_queue_notification_title_singular) : This is the
      title of a notification; we expect only one tab queued. -->
+<!ENTITY tab_queue_notification_title_singular "टॅब रांगेत">
 <!-- Localization note (tab_queue_notification_text_singular) : This is the
      text of a notification; we expect only one tab queued. -->
+<!ENTITY tab_queue_notification_text_singular "१ टॅब रांगेत">
 
 <!ENTITY pref_char_encoding "कॅरेक्टर एनकोडींग">
 <!ENTITY pref_char_encoding_on "मेनु दाखवा">
@@ -205,9 +218,9 @@
 <!ENTITY pref_clear_on_exit_summary2 "जेव्हा तुम्ही मुख्य मेनू मधून \u0022बंद\u0022 निवडाल तेव्हा &brandShortName; आपोआप आपली माहिती पुसेल">
 <!ENTITY pref_clear_on_exit_dialog_title "कोणती माहिती पुसायची ते निवडा">
 <!ENTITY pref_plugins "प्लगइन्स">
-
+<!ENTITY pref_plugins_enabled "कार्यान्वीत">
 <!ENTITY pref_plugins_tap_to_play "चालवण्यासाठी टिचकी मारा">
-
+<!ENTITY pref_plugins_disabled "निष्क्रिय">
 <!ENTITY pref_text_size "मजकूर आकार">
 <!ENTITY pref_reflow_on_zoom4 "मजकूर पुनःप्रवाह">
 <!ENTITY pref_restore "टॅब्स">
@@ -224,6 +237,7 @@
 same character/combination is used to increase the preview font size. It should be a concise
 representation of the language it is used in that will help show the text in the preview will change
 size. -->
+<!ENTITY pref_font_size_adjust_char "अ">
 <!-- Localization note (pref_font_size_preview_text): This paragraph is used as an example to
     demonstrate the font size setting.  It is meant to be whimsical and fun. -->
 
@@ -231,7 +245,7 @@ size. -->
 
 <!ENTITY pref_media_autoplay_enabled "अाॅटोप्ले स्वीकारा">
 <!ENTITY pref_media_autoplay_enabled_summary "वेबसाइट्स स्वत:हून चित्रफिती आणि इतर मीडीया सामग्री चालवणे नियंत्रित करा">
-
+<!ENTITY pref_zoom_force_enabled "झूम कायम सक्रीय">
 
 
 <!ENTITY pref_use_master_password "मास्टर पासवर्ड वापरा">
@@ -294,16 +308,18 @@ size. -->
      specifically, since the pref only prevents automatic downloads and not the
      actual notification that an update is available. -->
 <!ENTITY pref_update_autodownload2 "सुधारणा स्वयं डाऊनलोड करा">
-
+<!ENTITY pref_update_autodownload_wifi "फक्त वाय-फायवर">
 <!ENTITY pref_update_autodownload_never "कधीच नाही">
 <!ENTITY pref_update_autodownload_always "नेहमी">
 <!-- Localization note (help_menu) : This string is used in the main menu-->
 
+<!ENTITY help_menu "मदत">
+
 <!ENTITY quit "बाहेर पडा">
 
 <!ENTITY addons "ॲड-ऑन्स">
-
-
+<!ENTITY logins "लॉगिन्स">
+<!ENTITY downloads "डाउनलोडस्">
 <!ENTITY apps "ॲप्स">
 <!ENTITY char_encoding "कॅरेक्टर एनकोडिंग">
 
@@ -319,7 +335,7 @@ size. -->
 <!ENTITY new_private_tab "नवीन खाजगी टॅब">
 <!ENTITY close_all_tabs "सर्व टॅब बंद करा">
 <!ENTITY close_private_tabs "खाजगी टॅब बंद करा">
-
+<!ENTITY tabs_normal "टॅब">
 <!ENTITY tabs_private "खाजगी">
 <!ENTITY tabs_synced "ताळमेळीत">
 <!ENTITY set_image_fail "प्रतिमा सेट करण्यात असमर्थ">
@@ -327,29 +343,31 @@ size. -->
 <!ENTITY set_image_chooser_title "या साठी प्रतिमा वापरा">
 <!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
+
+<!ENTITY find_text "पानात शोधा">
 <!ENTITY find_prev "मागील">
 <!ENTITY find_next "पुढील">
-
+<!ENTITY find_close "बंद">
 <!-- Localization note (media_sending_to, media_play, media_pause, media_stop) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
 
 <!ENTITY media_sending_to "उपकरणात संचरण होत आहे">
 <!ENTITY media_play "चालू करा">
 <!ENTITY media_pause "थोडा वेळ थांबवा">
-
+<!ENTITY media_stop "थांबा">
 
 <!ENTITY contextmenu_open_new_tab "नवीन टॅब मध्ये उघडा">
 <!ENTITY contextmenu_open_private_tab "खाजगी टॅब मध्ये उघडा">
 
 <!ENTITY contextmenu_add_to_launcher "मुख्य पटलावर जोडा">
-
+<!ENTITY contextmenu_share "शेअर">
 <!ENTITY contextmenu_pasteandgo "चिकटवा आणि चला">
 <!ENTITY contextmenu_paste "चिकटवा">
 <!ENTITY contextmenu_copyurl "पत्ता कॉपी करा">
 <!ENTITY contextmenu_edit_bookmark "संपादन करा">
 <!ENTITY contextmenu_subscribe "पानास सबस्क्राइब करा">
 <!ENTITY contextmenu_site_settings "साइट सेटिंगचे संपादन करा">
-
+<!ENTITY contextmenu_top_sites_edit "संपादन">
 <!ENTITY contextmenu_top_sites_pin "साइट पिन करा">
 <!ENTITY contextmenu_top_sites_unpin "साइट अनपिन करा">
 <!ENTITY contextmenu_add_search_engine "शोध इंजिन जोडा">
@@ -359,7 +377,7 @@ size. -->
 
 <!ENTITY doorhanger_login_edit_username_hint "वापरकर्त्याचे नाव">
 
-
+<!ENTITY doorhanger_login_edit_toggle "पासवर्ड दाखवा">
 
 <!ENTITY pref_titlebar_mode "शीर्षक पट्टी">
 <!ENTITY pref_titlebar_mode_title "पानाचे शीर्षक दाखवा">
@@ -370,6 +388,7 @@ size. -->
 <!ENTITY pref_scroll_title_bar2 "पूर्ण स्क्रीन ब्राउझिंग">
 <!ENTITY pref_scroll_title_bar_summary "पान खाली स्क्रोल करताना &brandShortName; शीर्ष पट्टी लपवा">
 
+<!ENTITY pref_tab_queue_title "नंतर उघडा">
 
 <!-- Localization note (page_removed): This string appears in a toast message when
      any page is removed frome about:home. This includes pages that are in history,
@@ -385,7 +404,7 @@ size. -->
      dialog that appears after selecting the "Edit Site Settings" context menu item. -->
 
 <!ENTITY site_settings_title3       "साइट सेटिंग">
-
+<!ENTITY site_settings_cancel       "रद्द">
 <!ENTITY site_settings_clear        "पुसा">
 <!ENTITY site_settings_no_settings  "पुसण्यासाठी सेटिंग नाहीत.">
 
@@ -393,6 +412,7 @@ size. -->
 <!ENTITY reading_list_removed "पान तुमच्या वाचन यादीतून काढले गेले">
 <!-- Localization note (reading_list_remove) : Used to remove the currently open page from
      the user's reading list. The opposite of overlay_share_reading_list_btn_label. -->
+<!ENTITY reading_list_remove "वाचन यादीतून काढा">
 <!ENTITY reading_list_duplicate "पान अगोदरच तुमच्या वाचन यादीत">
 <!-- Localization note (reading_list_time_minutes2) : This string is used in the "Reading List"
      panel on the home page to give the user an estimate of how many minutes it will take to
@@ -411,13 +431,13 @@ size. -->
 <!ENTITY masterpassword_confirm "पासवर्डची खात्री करा">
 
 <!ENTITY button_ok "ठीक आहे">
-
+<!ENTITY button_cancel "रद्द">
 <!ENTITY button_yes "होय">
 <!ENTITY button_no "नाही">
 <!ENTITY button_clear_data "माहिती पुसा">
-
-
-
+<!ENTITY button_set "निश्चित">
+<!ENTITY button_clear "पुसा">
+<!ENTITY button_remember "लक्षात ठेवा">
 
 <!ENTITY home_top_sites_title "खास साईट्स">
 <!-- Localization note (home_top_sites_add): This string is used as placeholder
@@ -578,20 +598,28 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY guest_browsing_notification_title "अतिथी ब्राउझिंग सक्रीय.">
 <!ENTITY guest_browsing_notification_text "बाहेर जाण्यासाठी टिचकी">
 
+<!ENTITY exit_guest_session_title "&brandShortName; आता पुनःसुरु होईल">
 <!ENTITY exit_guest_session_text "या सत्राची ब्राउझिंग माहिती काढून टाकली जाईल.">
 <!-- Miscellaneous -->
 <!-- LOCALIZATION NOTE (ellipsis): This text is appended to a piece of text that does not fit in the
      designated space. Use the unicode ellipsis char, \u2026, or use "..." if \u2026 doesn't suit
      traditions in your locale. -->
 
+<!ENTITY ellipsis "…">
+
+<!ENTITY colon ":">
 <!-- These are only used for accessibility for the done and overflow-menu buttons in the actionbar.
      They are never shown to users -->
+
+<!ENTITY actionbar_menu "मेनू">
 <!ENTITY actionbar_done "पूर्ण">
 <!-- Voice search in the awesome bar -->
 
-
-
-
+<!ENTITY voicesearch_prompt "आता बोला">
+<!ENTITY voicesearch_failed_title "&brandShortName; आवाज शोध">
+<!ENTITY voicesearch_failed_message "सद्या आवाज शोध इंजिनमध्ये काही समस्या आहे. कृपया नंतर प्रयत्न करा.">
+<!ENTITY voicesearch_failed_message_recoverable "क्षमस्व! आम्ही आपले शब्द ओळखू शकलो नाही. कृपया पुन्हा प्रयत्न करा.">
+<!ENTITY voicesearch_failed_retry "पुनःप्रयत्न करा">
 <!-- Localization note (remote_tabs_last_synced): the variable is replaced by a
      "relative time span string" produced by Android.  This string describes the
      time the tabs were last synced relative to the current time; examples
@@ -601,6 +629,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY remote_tabs_last_synced "शेवटचा ताळमेळ:&formatS;">
 <!-- Localization note: Used when the sync has not happend yet, showed in place of a date -->
+<!ENTITY remote_tabs_never_synced "शेवटचा ताळमेळ: कधीच नाही">
 <!-- Find-In-Page strings -->
 <!-- LOCALIZATION NOTE (find_matchcase): This is meant to appear as an icon that changes color
      if match-case is activated. i.e. No more than two letters, one uppercase, one lowercase. -->

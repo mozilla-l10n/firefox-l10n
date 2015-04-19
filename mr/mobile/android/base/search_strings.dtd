@@ -16,7 +16,7 @@
 <!ENTITY search_plus_content_description "शोध पट्टीवर समाविष्ट करा">
 
 <!ENTITY search_pref_title "सेटिंग्स">
-
+<!ENTITY search_pref_button_content_description "सेटिंग">
 
 <!ENTITY pref_clearHistory_confirmation "इतिहास पुसला">
 <!ENTITY pref_clearHistory_dialogMessage "ह्या उपकरणावरून सर्व इतिहास पुसायचा का?">
