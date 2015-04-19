@@ -129,6 +129,11 @@
 <!ENTITY pref_donottrack_summary "&brandShortName; indicará a los sitios que no quiere ser rastreado">
 <!ENTITY tab_queue_toast_message "Abrir más tarde">
 <!ENTITY tab_queue_toast_action "Abrir ahora">
+<!ENTITY tab_queue_prompt_title "¿Abrir múltiples enlaces?">
+<!ENTITY tab_queue_prompt_text "Abrirlos sin cambiar a Firefox cada vez.">
+<!ENTITY tab_queue_prompt_tip_text "puede cambiar esto más tarde en los ajustes">
+<!ENTITY tab_queue_prompt_positive_action_button "Activar">
+<!ENTITY tab_queue_prompt_negative_action_button "Ahora no">
 <!ENTITY tab_queue_notification_text_plural "&formatD; pestañas en cola">
 <!ENTITY tab_queue_notification_title_plural "Pestañas en cola">
 <!ENTITY tab_queue_notification_title_singular "Pestaña en cola">
@@ -169,7 +174,8 @@
 <!ENTITY pref_import_android "Importar desde Android">
 <!ENTITY pref_import_android_summary "Importar marcadores e historial del navegador nativo">
 <!ENTITY pref_private_data_history2 "Historial de navegación">
-<!ENTITY pref_private_data_formdata "Formularios e historial de búsquedas">
+<!ENTITY pref_private_data_searchHistory "Buscar en historial">
+<!ENTITY pref_private_data_formdata2 "Historial de formularios">
 <!ENTITY pref_private_data_cookies2 "Cookies y sesiones activas">
 <!ENTITY pref_private_data_passwords "Contraseñas guardadas">
 <!ENTITY pref_private_data_cache "Caché">
@@ -260,6 +266,7 @@
 <!ENTITY doorhanger_login_edit_username_hint "Nombre de usuario">
 <!ENTITY doorhanger_login_edit_password_hint "Contraseña">
 <!ENTITY doorhanger_login_edit_toggle "Mostrar contraseña">
+<!ENTITY doorhanger_login_edit_toast_error "No se ha podido guardar la credencial">
 <!ENTITY pref_titlebar_mode "Barra de título">
 <!ENTITY pref_titlebar_mode_title "Mostrar el título de la página">
 <!ENTITY pref_titlebar_mode_url "Mostrar la dirección de la página">
