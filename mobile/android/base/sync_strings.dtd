@@ -150,8 +150,8 @@
 
 <!ENTITY fxaccount_create_account_header2 "नवीन Firefox खातं बनवा">
 <!ENTITY fxaccount_create_account_password_length_restriction "किमान ८ अक्षर असायला हवे">
-
-
+<!ENTITY fxaccount_create_account_day_of_birth "दिवस">
+<!ENTITY fxaccount_create_account_month_of_birth "महीना">
 <!ENTITY fxaccount_create_account_year_of_birth "जन्म वर्ष">
 <!-- Localization note: &formatS1; is fxaccount_policy_linktos, &formatS2; is fxaccount_policy_linkprivacy, both hyperlinked. -->
 <!ENTITY fxaccount_create_account_policy_text2 "पुढे जातोय, याचा अर्थ, मी Firefox क्लाउड सेवांच्या &formatS1; आणि &formatS2; अटी मान्य करतो.">
@@ -193,7 +193,7 @@
 
 <!ENTITY fxaccount_finish_migrating_header "अद्ययावत संपवण्यासाठी साइन इन करा">
 <!ENTITY fxaccount_finish_migrating_button_label "अद्ययावत संपवा">
-
+<!ENTITY fxaccount_finish_migrating_description "अद्ययावत करताना खूप डेटा वापरला जाऊ शकतो. म्हणून वाय-फाय नेटवर्क वर असणे उत्कृष्ठ ठरेल.">
 
 <!ENTITY fxaccount_status_header2 "Firefox खातं">
 <!ENTITY fxaccount_status_signed_in_as "असे प्रवेश केले">
