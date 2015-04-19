@@ -294,9 +294,11 @@
 <!ENTITY searchFocus.commandkey "k">
 <!ENTITY searchFocus.commandkey2 "e">
 <!ENTITY searchFocusUnix.commandkey "j">
-<!ENTITY searchFor.label "Поиск ">
-<!ENTITY searchWith.label " через:">
-<!ENTITY searchWithHeader.label "Поиск через:">
+<!ENTITY searchFor.label "Искать ">
+<!ENTITY searchWith.label " в:">
+<!ENTITY search.label "Искать в ">
+<!ENTITY searchAfter.label "">
+<!ENTITY searchWithHeader.label "Искать в:">
 <!ENTITY changeSearchSettings.button "Изменить настройки поиска">
 <!ENTITY tabView.commandkey "e">
 <!ENTITY openLinkCmdInTab.label "Открыть ссылку в новой вкладке">

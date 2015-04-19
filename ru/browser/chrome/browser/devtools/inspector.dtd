@@ -3,7 +3,7 @@
 <!ENTITY inspectorHTMLCopyInner.label "Копировать внутренний HTML">
 <!ENTITY inspectorHTMLCopyInner.accesskey "п">
 <!ENTITY inspectorHTMLCopyOuter.label "Копировать внешний HTML">
-<!ENTITY inspectorHTMLCopyOuter.accesskey "о">
+<!ENTITY inspectorHTMLCopyOuter.accesskey "ш">
 <!ENTITY inspectorCopyUniqueSelector.label "Копировать уникальный селектор">
 <!ENTITY inspectorCopyUniqueSelector.accesskey "ь">
 <!ENTITY inspectorHTMLPasteOuter.label "Вставить внешний HTML">
@@ -20,6 +20,8 @@
 <!ENTITY inspectorHTMLPasteFirstChild.accesskey "м">
 <!ENTITY inspectorHTMLPasteLastChild.label "Как последнего потомка">
 <!ENTITY inspectorHTMLPasteLastChild.accesskey "к">
+<!ENTITY inspectorScrollNodeIntoView.label "Прокрутить в вид">
+<!ENTITY inspectorScrollNodeIntoView.accesskey "о">
 <!ENTITY inspectorHTMLDelete.label "Удалить узел">
 <!ENTITY inspectorHTMLDelete.accesskey "л">
 <!ENTITY inspector.selectButton.tooltip "Выберите элемент мышью">

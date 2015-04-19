@@ -302,6 +302,7 @@
 <!ENTITY button_set "Установить">
 <!ENTITY button_clear "Очистить">
 <!ENTITY button_remember "Запомнить">
+<!ENTITY firstrun_panel_title_welcome "Добро пожаловать">
 <!ENTITY home_top_sites_title "Топ сайтов">
 <!ENTITY home_top_sites_add "Добавить сайт">
 <!ENTITY home_title "Дом &brandShortName;">

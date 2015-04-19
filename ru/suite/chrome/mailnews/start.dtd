@@ -18,4 +18,4 @@
 <!ENTITY dict_intro.label "Словари используются для проверки орфографии в ваших почтовых сообщениях.">
 <!ENTITY dict_info.label 'Множество словарей для разных языков могут быть установлены из раздела <a id="dictURL" href="">словарей</a> на веб-сайте <a href="https://addons.mozilla.org/seamonkey/">дополнений Mozilla</a>.'>
 <!ENTITY info.title "Более подробная информация">
-<!ENTITY info_bugs.label '<a href="http://www.mozilla.org/mailnews/">Мы</a> с радостью примем ваши пожелания и замечания, но сначала прочитайте, пожалуйста, <a id="releaseNotesURL" href="">примечания к выпуску</a> и попробуйте поискать свою ошибку в <a href="https://bugzilla.mozilla.org/query.cgi">Bugzilla</a>.'>
+<!ENTITY info_bugs.label '<a href="https://developer.mozilla.org/docs/Mozilla/Projects/MailNews">Мы</a> с радостью примем ваши пожелания и замечания, но сначала прочитайте, пожалуйста, <a id="releaseNotesURL" href="">примечания к выпуску</a> и попробуйте поискать свою ошибку в <a href="https://bugzilla.mozilla.org/query.cgi">Bugzilla</a>.'>
