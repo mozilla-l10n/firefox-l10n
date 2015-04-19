@@ -9,30 +9,11 @@
 <!ENTITY setPassword.newPassword.label "Khunololamoraba e ntšhwa:">
 <!ENTITY setPassword.reenterPassword.label "Khunololamoraba e ntšhwa (gape):">
 <!ENTITY setPassword.meter.label "Tekanyetso ya boleng jwa khunololamoraba">
-<!ENTITY setPassword.meter.loading "E a la isa">
 <!-- Values for resetpassword.xul -->
 
 <!ENTITY resetPasswordButtonLabel "Tlhoma sešwa">
 <!ENTITY resetPassword.title  "Tlhoma Khunololamoraba e Kgolo sešwa">
 <!ENTITY resetPassword.text  "Fa o tlhoma khunololamoraba ya gago e kgolo sešwa, dikhunololamoraba tsa gago tsotlhe tse di bolokilweng tsa inthanete le poso ya eleketoroniki, tshedimosetso ya diforomo, ditifikeiti tsa sebele, le dinotlolo tsa poraefete di tla lebalwa. A o totobetse gore o batla go tlhoma khunololamoraba ya gago e kgolo sešwa?">
-<!-- Values for getpassword.xul -->
-
-<!ENTITY getPassword.title  "Tsenya Khunololamoraba e Kgolo">
-
-<!ENTITY getPassword.password.label "Khunololamoraba:">
-<!-- These should be common -->
-
-<!ENTITY piperror.title "Phoso">
-<!ENTITY pipalert.title "Phoso - ga e kgone go busetsa">
-<!-- Prefs panel strings -->
-
-<!ENTITY pref.security.general.lHeader "Pabalesego">
-<!ENTITY pref.security.general.rHeader "Boalo jwa pabalesego ya kakaretso">
-<!ENTITY pref.security.general.header "Boalo jwa pabalesego ya kakaretso">
-<!ENTITY pref.security.general.level.title "Seelo sa Pabalesego">
-<!ENTITY pref.security.general.paranoid.label "Dirisa boalo jwa pabalesego jwa dipelaelo">
-<!ENTITY pref.security.general.certificates.title "Ditifikeiti">
-<!ENTITY pref.security.general.manageCert.label "Tsamaisa Ditifikeiti">
 <!-- Downloading a cert -->
 
 <!ENTITY downloadCert.title "E kopolola Setifikeiti">
@@ -42,9 +23,7 @@
 <!ENTITY downloadCert.trustObjSign "Ikanye CA eno go supa batlhabolodi ba dirweboleta.">
 <!ENTITY downloadCert.message3 "Pele ga o ka ikanya CA eno mo mabakeng ape, o tshwanetse go tlhatlhoba setifikeiti sa jona ga mmogo le dipholesi le ditsamaiso tsa jona (fa di le gona).">
 <!ENTITY downloadCert.viewCert.label "Leba">
-<!ENTITY downloadCert.viewPolicy.label "Pholesi">
 <!ENTITY downloadCert.viewCert.text "Tlhatlhoba Setifikeiti sa CA">
-<!ENTITY downloadCert.viewPolicy.text "Tlhatlhoba dipholesi le ditsamaiso tsa CA">
 <!-- Strings for the SSL client auth ask dialog -->
 
 <!ENTITY clientAuthAsk.title "Kopo ya Boitshupo jwa Modirisi">
@@ -63,18 +42,8 @@
 <!ENTITY pkcs12.setpassword.label2 "Khunololamoraba ya poloko ya setifikeiti (gape):">
 <!ENTITY pkcs12.setpassword.reminder "Go botlhokwa: Fa o lebala khunololamoraba ya gago ya poloko ya setifikeiti, o ka seke wa kgona go busetsa poloko eno kgantele.  Tsweetswee e rekote mo lefelong le le babalesegileng.">
 
-<!ENTITY pkcs12.getpassword.title  "Puisano ya Khunololamoraba ya go Tsena">
-<!ENTITY pkcs12.getpassword.message "Tsweetswee tsenya khunololamoraba e e dirisitsweng go sireletsa poloko eno ya setifikeiti.">
-
 <!ENTITY chooseToken.title  "Tlhopha Puisano ya Sesupo">
 <!ENTITY chooseToken.message1 "Tsweetswee tlhopha jaaka sesupo.">
-
-<!ENTITY escrowWarn.title "Khopi ya Senotlolo sa Tsireletso">
-<!ENTITY escrowWarn.message1 "Go botlhokwa: Bothati jono jwa setifikeiti bo nkopile go dira poloko ya senotlolo sa gago sa poraefete sa mokgwatshireletso.">
-<!ENTITY escrowWarn.benefit1 "Mosola ke gore fa o latlhegelwa ke senotlolo sa gago sa poraefete sa mokgwatshireletso, o ka kopa khopi go tswa mo bothating jono jwa setifikeiti.">
-<!ENTITY escrowWarn.message2 "Le gale, senotlolo sa gago sa poraefete sa mokgwatshireletso se tla bolokwa ke bothati jwa setifikeiti, mme se ka dirisiwa go buisa dikwalo gongwe poso ya gago ya eleketoroniki e e sireleditsweng ntle le tetla ya gago.">
-<!ENTITY examineCert.label "Leba Setifikeiti">
-<!ENTITY examineCert.accesskey "L">
 <!-- Strings for the CreateCertInfo dialog  -->
 
 <!ENTITY createCertInfo.title "E dira Senotlolo sa Poraefete">

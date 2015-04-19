@@ -10,9 +10,6 @@
 <!ENTITY certmgr.tab.ca                       "Beng ba Dithata">
 
 
-<!ENTITY certmgr.ca.builtins                  "Di-CA tse di Ageletsweng teng">
-<!ENTITY certmgr.ca.mycas                     "Di-CA tse di Tsamaisiwang Ke Wena">
-
 <!ENTITY certmgr.mine                         "O na le ditifikeiti go tswa kwa ditlamong tseno tse di go supang:">
 <!ENTITY certmgr.others                       "O na le ditifikeiti mo faeleng tse di supang batho bano:">
 
@@ -35,23 +32,13 @@
 
 <!ENTITY certmgr.certdetail.sha1fingerprint   "Kgatiso ya monwana ya SHA1">
 
-<!ENTITY certmgr.editcert.title               "Tseleganya Boalo jwa Setifikeiti sa Pabalesego">
 <!ENTITY certmgr.editcacert.title             "Tseleganya boalo jwa boikanyego jwa setifikeiti sa CA">
 <!ENTITY certmgr.editcert.edittrust           "Tseleganya boalo jwa boikanyego:">
 
 <!ENTITY certmgr.editcert.trustemail          "Setifikeiti seno se ka supa badirisi ba poso.">
 <!ENTITY certmgr.editcert.trustobjsign        "Setifikeiti seno se ka supa badiri ba dirweboleta.">
-<!ENTITY certmgr.editemailcert.title          "Tseleganya boalo jwa boikanyego jwa setifikeiti sa poso ye eleketoroniki">
-
-
-
 
 <!ENTITY certmgr.deletecert.title             "Phimola Setifikeiti">
-<!ENTITY certmgr.deletecert.beforename        "O kopile go phimola setifikeiti seno:">
-<!ENTITY certmgr.deletecert.aftername         "A o totobetse gore o batla go phimola setifikeiti seno?">
-<!ENTITY certmgr.deleteusercert.title         "Phimola Setifikeiti sa Gago">
-<!ENTITY certmgr.deleteusercert.beforename    "O kopile go phimola setifikeiti:">
-<!ENTITY certmgr.deleteusercert.aftername     "Fa o sena go phimola setifikeiti seno, o ka seke wa tlhola o kgona go buisa poso e e kwadilweng ka khoutu ya sona.">
 
 <!ENTITY certmgr.certname                     "Leina la Setifikeiti">
 
@@ -61,10 +48,6 @@
 <!ENTITY certmgr.expires                      "Khutla go dira ka La">
 <!ENTITY certmgr.email                        "Aterese ya Poso ya Eleketoroniki">
 <!ENTITY certmgr.serial                       "Palotatelano">
-
-
-
-
 
 
 
