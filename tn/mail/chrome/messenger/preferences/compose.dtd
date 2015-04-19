@@ -6,6 +6,8 @@
 <!ENTITY itemAutoComplete.label              "Go ateresa">
 <!ENTITY itemSpellCheck.label                "Mopeleto">
 
+<!ENTITY dialogCompose.title                 "Composing">
+
 <!ENTITY forwardMsg.label                     "Fetisa melaetsa:">
 <!ENTITY forwardMsg.accesskey                 "F">
 <!ENTITY inline.label                         "Go lebagana">

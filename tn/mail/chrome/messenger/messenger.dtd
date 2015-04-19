@@ -145,6 +145,8 @@
 <!ENTITY messagePaneVertical.accesskey "T">
 <!ENTITY showFolderPaneCmd.label "Folder Pane">
 <!ENTITY showFolderPaneCmd.accesskey "F">
+<!ENTITY showFolderPaneColsCmd.label "Folder Pane Columns">
+<!ENTITY showFolderPaneColsCmd.accesskey "P">
 <!ENTITY showMessageCmd.label "Seokomedisi sa Molaetsa">
 <!ENTITY showMessageCmd.accesskey "S">
 
@@ -190,6 +192,8 @@
 <!ENTITY sortByFromCmd.accesskey "F">
 <!ENTITY sortByRecipientCmd.label "Moamogedi">
 <!ENTITY sortByRecipientCmd.accesskey "a">
+<!ENTITY sortByCorrespondentCmd.label "Correspondents">
+<!ENTITY sortByCorrespondentCmd.accesskey "e">
 <!ENTITY sortByUnreadCmd.label "Buisa">
 <!ENTITY sortByUnreadCmd.accesskey "B">
 <!ENTITY sortByOrderReceivedCmd.label "Tatelano e go Amogetsweng ka yona">
@@ -593,7 +597,9 @@
 <!ENTITY manageTags.accesskey "M">
 <!-- Folder Pane -->
 
-<!ENTITY folderColumn.label "Leina">
+<!ENTITY folderNameColumn.label "Name">
+<!ENTITY folderUnreadColumn.label "Unread">
+<!ENTITY folderTotalColumn.label "Total">
 <!ENTITY folderSizeColumn.label "Bogolo">
 <!-- Folder Pane Context Menu -->
 
@@ -654,6 +660,7 @@
 <!ENTITY threadColumn.label "Tlhale">
 <!ENTITY fromColumn.label "From">
 <!ENTITY recipientColumn.label "Moamogedi">
+<!ENTITY correspondentColumn.label "Correspondents">
 <!ENTITY subjectColumn.label "Temakgang">
 <!ENTITY dateColumn.label "Letlha">
 <!ENTITY priorityColumn.label "Setlapele">
@@ -676,6 +683,7 @@
 <!ENTITY threadColumn2.tooltip "Display message threads">
 <!ENTITY fromColumn2.tooltip "Sort by from">
 <!ENTITY recipientColumn2.tooltip "Sort by recipient">
+<!ENTITY correspondentColumn2.tooltip "Sort by correspondents">
 <!ENTITY subjectColumn2.tooltip "Sort by subject">
 <!ENTITY dateColumn2.tooltip "Sort by date">
 <!ENTITY priorityColumn2.tooltip "Sort by priority">

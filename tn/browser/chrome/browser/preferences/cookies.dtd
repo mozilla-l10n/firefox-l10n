@@ -5,11 +5,12 @@
 <!ENTITY     cookiesonsystem.label          "Dikhuki tse di latelang di bolokilwe mo khomphiutareng ya gago:">
 <!ENTITY     cookiename.label               "Leina la Khuki">
 <!ENTITY     cookiedomain.label             "Setsha"> 
+<!-- LOCALIZATION NOTE (button.removeSelectedCookies.accesskey):
+  The label associated with this accesskey can be found in 
+  preferences.properties as removeSelectedCookies.
+-->
 
-<!ENTITY     button.removecookie.label      "Tlosa Khuki">
-<!ENTITY     button.removecookie.accesskey  "T">
-<!ENTITY     button.removeallcookies.label  "Tlosa Dikhoki Tsotlhe">
-<!ENTITY     button.removeallcookies.accesskey "T">
+
 
 <!ENTITY     props.name.label               "Leina:">
 <!ENTITY     props.value.label              "Diteng:">

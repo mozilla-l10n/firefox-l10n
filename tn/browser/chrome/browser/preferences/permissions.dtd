@@ -21,6 +21,8 @@
 
 <!ENTITY windowClose.key              "w">
 
-<!ENTITY button.close.label           "Tswala">
-<!ENTITY button.close.accesskey       "T">
+<!ENTITY button.cancel.label          "Khansela">
+<!ENTITY button.cancel.accesskey      "K">
+
+
 

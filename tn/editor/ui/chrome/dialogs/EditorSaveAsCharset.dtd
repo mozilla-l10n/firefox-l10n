@@ -7,9 +7,9 @@
 
 
 
-<!ENTITY windowTitle.label "Boloka Le go Fetola Khoutufatso ya Matshwao">
+<!ENTITY windowTitle2.label "Save And Change Text Encoding">
 <!ENTITY documentTitleTitle.label "Setlhogo sa Tsebe">
-<!ENTITY documentCharsetTitle.label "Khoutufatso ya Matshwao">
-<!ENTITY documentCharsetDesc.label "Tlhopha khoutufatso ya matshwao e o batlang go boloka tokumente ka yona:">
+<!ENTITY documentCharsetTitle2.label "Text Encoding">
+<!ENTITY documentCharsetDesc2.label "Select the text encoding you want to save a document in:">
 <!ENTITY documentExportToText.label "Romelantle go Mafoko">
 

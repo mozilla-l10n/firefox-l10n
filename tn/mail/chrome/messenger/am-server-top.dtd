@@ -74,7 +74,7 @@
 <!ENTITY abbreviateOff.label "Khutshwafatsa maina (Sekai, 'n.p.m.mail-news')">
 <!ENTITY advancedButton.label "Tsweletseng...">
 <!ENTITY advancedButton.accesskey "w">
-<!ENTITY serverDefaultCharset.label "Default Character Encoding:">
+<!ENTITY serverDefaultCharset2.label "Default Text Encoding:">
 <!ENTITY localPath.label "Lenanefaele la Selegae:">
 <!ENTITY localFolderPicker.label "Tlhopha Lenanefaele la Selegae">
 <!ENTITY browseFolder.label "Batla...">
@@ -84,3 +84,7 @@
 
 <!ENTITY accountTitle.label "Account Settings">
 <!ENTITY accountSettingsDesc.label "The following is a special account.  There are no identities associated with it.">
+<!ENTITY storeType.label "Message Store Type:">
+<!ENTITY storeType.accesskey "T">
+<!ENTITY mboxStore2.label "File per folder (mbox)">
+<!ENTITY maildirStore.label "File per message (maildir)">
