@@ -46,7 +46,7 @@
 <!ENTITY  showCookies.accesskey         "S">
 
 <!ENTITY  historyHeader.pre.label          "A &brandShortName;:">
-<!ENTITY  historyHeader.pre.accesskey      "w">
+<!ENTITY  historyHeader.pre.accesskey      "A">
 <!ENTITY  historyHeader.remember.label     "Megjegyzi az előzményeket">
 <!ENTITY  historyHeader.dontremember.label "Nem jegyzi meg az előzményeket">
 <!ENTITY  historyHeader.custom.label       "Egyéni beállításokat használ az előzményekhez">
