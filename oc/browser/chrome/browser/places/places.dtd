@@ -52,6 +52,8 @@
 <!ENTITY cmd.open.accesskey              "o">
 <!ENTITY cmd.open_window.label           "Dobrir dins una fenèstra novèla">
 <!ENTITY cmd.open_window.accesskey       "n">
+
+
 <!ENTITY cmd.open_tab.label              "Dobrir dins un onglet novèl">
 <!ENTITY cmd.open_tab.accesskey          "v">
 <!ENTITY cmd.open_all_in_tabs.label      "Tot dobrir dins d'onglets">

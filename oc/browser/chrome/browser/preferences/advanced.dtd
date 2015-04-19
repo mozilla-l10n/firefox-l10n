@@ -28,19 +28,16 @@
 
 <!ENTITY dataChoicesTab.label            "Donadas">
 
-<!ENTITY healthReportSection.label       "Bilanç de santat de &brandShortName;">
 <!ENTITY healthReportDesc.label          "Vos ajuda a comprene las performàncias de vòstre navigador e manda a &vendorShortName; d'informacions a prepaus de la santat de vòstre navigador">
 <!ENTITY enableHealthReport.label        "Activar lo bilanç de santat de &brandShortName;">
 <!ENTITY enableHealthReport.accesskey    "c">
 <!ENTITY healthReportLearnMore.label     "Ne saber mai">
 
-<!ENTITY telemetrySection.label          "Telemetria">
 <!ENTITY telemetryDesc.label             "Manda d'informacions sus las performàncias, lo material, l'utilizacion e las personalizacions a &vendorShortName; per ajudar a melhorar &brandShortName;">
-<!ENTITY enableTelemetry.label           "Activar la telemetria">
-<!ENTITY enableTelemetry.accesskey       "A">
+
+
 <!ENTITY telemetryLearnMore.label        "Ne saber mai">
 
-<!ENTITY crashReporterSection.label      "Raportador de plantatge">
 <!ENTITY crashReporterDesc.label         "&brandShortName; manda de rapòrts de plantatge per ajudar &vendorShortName; a rendre vòstre navigador mai estable e securizat">
 <!ENTITY enableCrashReporter.label       "Activar los rapòrts de plantatge">
 <!ENTITY enableCrashReporter.accesskey   "t">
@@ -116,6 +113,7 @@
 <!ENTITY offlineAppRemove.confirm        "Suprimir las donadas fòra connexion">
 
 <!ENTITY certificateTab.label            "Certificats">
+
 <!ENTITY certSelection.description       "Quand un servidor demanda mon certificat personal :">
 <!ENTITY certs.auto                      "ne seleccionar un automaticament">
 <!ENTITY certs.auto.accesskey            "S">
