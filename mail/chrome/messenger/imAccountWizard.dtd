@@ -12,7 +12,8 @@
 <!ENTITY accountPasswordTitle.label "Senha">
 <!ENTITY accountPasswordInfo.label "Por favor introduza a senha na caixa abaixo.">
 <!ENTITY accountPasswordField.label "Senha:">
-<!ENTITY accountPasswordManager.label "A senha introduzida será guardada pelo gestor de senhas. Deixe esta caixa vazia se quiser que seja pedida a sua senha de cada vez que se ligar com esta conta.">
+<!ENTITY accountPasswordManager.label "A senha aqui introduzida será guardada no Gestor de senhas. Deixe esta caixa vazia se quiser que seja pedida a sua senha de cada vez que se ligar com esta conta.">
+
 <!ENTITY accountAdvancedTitle.label "Opções avançadas">
 <!ENTITY accountAdvancedInfo.label "Se quiser, pode ignorar esta etapa.">
 <!ENTITY accountAdvanced.newMailNotification.label "Notificar ao receber mensagens">

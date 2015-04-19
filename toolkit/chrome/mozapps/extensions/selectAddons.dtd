@@ -2,10 +2,11 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!ENTITY upgrade.style               "width: 93ch; height: 448px;">
-<!ENTITY checking.heading            "Análise de extras">
-<!ENTITY checking.progress.label     "A verificar compatibilidade dos seus extras com esta versão do &brandShortName;.">
-<!ENTITY select.heading              "Selecione os seus extras">
 
+<!ENTITY checking.heading            "A verificar os seus extras">
+<!ENTITY checking.progress.label     "A verificar os seus extras por compatibilidade com esta versão do &brandShortName;.">
+
+<!ENTITY select.heading              "Selecione os seus extras">
 <!-- LOCALIZATION NOTE (select.description): The term used for "third parties"
      here should match the string source.other in selectAddons.properties. -->
 <!ENTITY select.description          "Torne o &brandShortName; ainda mais rápido desativando os extras que não utiliza. Os extras  instalados por terceiros serão desativados automaticamente a menos que os selecione em baixo.">
@@ -41,6 +42,6 @@
 <!ENTITY errors.description          "A instalação de algumas atualizações dos seus extras falhou. O &brandShortName; irá tentar atualizá-los automaticamente mais tarde.">
 <!ENTITY footer.label                "Pode sempre alterar os seus extras acedendo ao gestor de extras.">
 <!ENTITY cancel.label                "Cancelar">
-<!ENTITY back.label                  "Recuar">
-<!ENTITY next.label                  "Avançar">
-<!ENTITY done.label                  "Terminado">
+<!ENTITY back.label                  "Anterior">
+<!ENTITY next.label                  "Seguinte">
+<!ENTITY done.label                  "Feito">

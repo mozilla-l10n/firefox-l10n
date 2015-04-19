@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY linksHeader.label "Comportamento da ligação">
 <!ENTITY newWindow.label "Comportamento da abertura da ligação">
 <!ENTITY newWindowDescription.label "Abrir ligações que deviam abrir numa nova janela">
@@ -6,7 +10,7 @@
 <!ENTITY externalDescription.label "Abrir ligações de outras aplicações">
 
 <!ENTITY openCurrent.label "No separador/janela atual">
-<!ENTITY newWindowGroupCurrent.accesskey "cj">
+<!ENTITY newWindowGroupCurrent.accesskey "j">
 <!ENTITY externalGroupCurrent.accesskey "u">
 
 <!ENTITY openTab.label "Num novo separador na janela atual">
