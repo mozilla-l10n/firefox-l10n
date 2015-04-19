@@ -2,32 +2,32 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY pane.title "Recibos de Leitura">
-<!ENTITY useGlobalPrefs.label "Usar as minhas preferências gerais para os recibos de leitura para esta conta">
-<!ENTITY useGlobalPrefs.accesskey "A">
-<!ENTITY globalReceipts.label         "Preferências globais…">
-<!ENTITY globalReceipts.accesskey     "g">
+<!ENTITY pane.title 				        "Recibos de leitura">
+<!ENTITY useGlobalPrefs.label 		  "Utilizar preferências gerais para os recibos de leitura desta conta">
+<!ENTITY useGlobalPrefs.accesskey 	"U">
+<!ENTITY globalReceipts.label       "Preferências gerais…">
+<!ENTITY globalReceipts.accesskey   "g">
 <!ENTITY useCustomPrefs.label "Personalizar recibos de leitura para esta conta">
-<!ENTITY useCustomPrefs.accesskey "P">
-<!ENTITY requestReceipt.label "Ao enviar mensagens, pedir sempre um recibo de leitura">
-<!ENTITY requestReceipt.accesskey "O">
-<!ENTITY receiptArrive.label "Quando chega um recibo:">
-<!ENTITY leaveIt.label "Deixar na caixa de entrada">
-<!ENTITY leaveIt.accesskey "D">
+<!ENTITY useCustomPrefs.accesskey 	"P">
+<!ENTITY requestReceipt.label 		  "Ao enviar mensagens, pedir sempre um recibo de leitura">
+<!ENTITY requestReceipt.accesskey 	"A">
+<!ENTITY receiptArrive.label 		    "Ao receber um recibo:">
+<!ENTITY leaveIt.label 				      "Manter na caixa de entrada">
+<!ENTITY leaveIt.accesskey 			    "M">
 <!-- LOCALIZATION NOTE moveToSent.label Translate: 'Sent' according to Netscape glossary -->
-<!ENTITY moveToSent.label "Mover para a minha pasta &quot;Enviados&quot;">
-<!ENTITY moveToSent.accesskey "V">
-<!ENTITY requestMDN.label "Quando recebo um pedido de um recibo de leitura:">
-<!ENTITY returnSome.label "Permitir Recibos de Leitura para algumas mensagens">
-<!ENTITY returnSome.accesskey "r">
-<!ENTITY never.label "Nunca enviar um recibo de leitura">
-<!ENTITY never.accesskey "N">
-<!ENTITY notInToCc.label "Se eu não estiver no campo Para ou Cc da mensagem:">
-<!ENTITY notInToCc.accesskey "U">
-<!ENTITY outsideDomain.label "Se o remetente está fora do meu domínio:">
-<!ENTITY outsideDomain.accesskey "m">
-<!ENTITY otherCases.label "Nos outros casos:">
-<!ENTITY otherCases.accesskey "o">
-<!ENTITY askMe.label "Perguntar-me">
-<!ENTITY alwaysSend.label "Enviar sempre">
-<!ENTITY neverSend.label "Nunca Enviar">
+<!ENTITY moveToSent.label 			    "Mover para a pasta de &quot;Enviadas&quot;">
+<!ENTITY moveToSent.accesskey 		  "v">
+<!ENTITY requestMDN.label 			    "Ao receber um pedido de um recibo de leitura:">
+<!ENTITY returnSome.label 			    "Permitir recibos de leitura para algumas mensagens">
+<!ENTITY returnSome.accesskey 		  "r">
+<!ENTITY never.label 				        "Nunca enviar um recibo de leitura">
+<!ENTITY never.accesskey 			      "N">
+<!ENTITY notInToCc.label 			      "Se eu não estiver no campo Para ou Cc da mensagem:">
+<!ENTITY notInToCc.accesskey 		    "S">
+<!ENTITY outsideDomain.label 		    "Se o remetente não estiver no meu domínio:">
+<!ENTITY outsideDomain.accesskey 	  "e">
+<!ENTITY otherCases.label 			    "Nos outros casos:">
+<!ENTITY otherCases.accesskey 		  "o">
+<!ENTITY askMe.label 				        "Perguntar">
+<!ENTITY alwaysSend.label 			    "Enviar sempre">
+<!ENTITY neverSend.label 			      "Nunca enviar">

@@ -3,15 +3,15 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY pref.character.encoding.title   "Codificação de caracteres">
-<!ENTITY messageDisplay.caption          "Apresentação da Mensagem">
-<!ENTITY viewFallbackCharset.label       "Codificação de caracteres de reserva:">
+<!ENTITY messageDisplay.caption          "Apresentação da mensagem">
+<!ENTITY viewFallbackCharset.label       "Codificação de caracteres de recurso:">
 <!ENTITY viewFallbackCharset.accesskey   "e">
 <!ENTITY viewFallbackCharset.desc        "(Usado para conteúdo legado que não declara qual a codificação.)">
 
-<!ENTITY composingMessages.caption       "Compor Mensagens">
-<!ENTITY useMIME.label                   "Para mensagens que contenham caracteres de 8-bit, usar 'quoted printable' codificação MIME. Não seleccionar para enviar mensagens como estão.">
+<!ENTITY composingMessages.caption       "Compor mensagens">
+<!ENTITY useMIME.label                   "Para mensagens que contenham caracteres de 8-bit, usar 'quoted printable' codificação MIME. Não selecionar para enviar mensagens como estão.">
 <!ENTITY useMIME.accesskey               "a">
 <!ENTITY sendDefaultCharset.label        "Codificação de caracteres pré-definida:">
 <!ENTITY sendDefaultCharset.accesskey    "C">
-<!ENTITY replyInDefaultCharset2.label     "Usar sempre a codificação de caracteres pré-definida em respostas. (Se não estiver seleccionado, apenas as novas mensagens usam esta pré-definição.)">
+<!ENTITY replyInDefaultCharset2.label     "Usar sempre a codificação de caracteres pré-definida em respostas. (Se não estiver selecionado, apenas as novas mensagens usam esta pré-definição.)">
 <!ENTITY replyInDefaultCharset2.accesskey "U">

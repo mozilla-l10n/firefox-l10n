@@ -10,7 +10,7 @@
 <!ENTITY  language.label                          "Tipos de letra para:">
 <!ENTITY  language.accesskey                      "t">
 
-<!ENTITY  typefaces.label                         "Typeface">
+<!ENTITY  typefaces.label                         "Tipo de fonte">
 <!ENTITY  sizes.label                             "Tamanho (pixéis)">
 
 <!ENTITY  proportional.label                      "Proporcional:">
@@ -20,7 +20,7 @@
 <!ENTITY  serif.accesskey                         "s">
 <!ENTITY  sans-serif.label                        "Sem-serifa:">
 <!ENTITY  sans-serif.accesskey                    "e">
-<!ENTITY  monospace.label                         "Monoespaçada:">
+<!ENTITY  monospace.label                         "Mono-espaçada:">
 <!ENTITY  monospace.accesskey                     "m">
 <!-- LOCALIZATION NOTE (fantasy.label): 'Fantasy' means 'Ornate' -->
 <!ENTITY  fantasy.label                           "Fantasia:">
@@ -36,25 +36,25 @@
 <!ENTITY  font.langGroup.trad-chinese-hk          "Chinês Tradicional(Hong Kong)">
 <!ENTITY  font.langGroup.korean                   "Coreano">
 <!ENTITY  font.langGroup.cyrillic                 "Cirílico">
-<!ENTITY  font.langGroup.baltic                   "Baltic">
+<!ENTITY  font.langGroup.baltic                   "Báltico">
 <!ENTITY  font.langGroup.el                       "Grego">
 <!ENTITY  font.langGroup.turkish                  "Turco">
 <!ENTITY  font.langGroup.unicode1                 "Unicode">
 <!ENTITY  font.langGroup.user-def                 "Definido pelo utilizador">
-<!ENTITY  font.langGroup.thai                     "Thai">
-<!ENTITY  font.langGroup.hebrew                   "Hebrew">
-<!ENTITY  font.langGroup.arabic                   "Arabic">
+<!ENTITY  font.langGroup.thai                     "Tailandês">
+<!ENTITY  font.langGroup.hebrew                   "Hebreu">
+<!ENTITY  font.langGroup.arabic                   "Arábico">
 <!ENTITY  font.langGroup.devanagari               "Devanagari">
 <!ENTITY  font.langGroup.tamil                    "Tamil">
-<!ENTITY  font.langGroup.armenian                 "Armenian">
+<!ENTITY  font.langGroup.armenian                 "Arménio">
 <!ENTITY  font.langGroup.bengali                  "Bengali">
-<!ENTITY  font.langGroup.canadian                 "Unified Canadian Syllabary">
-<!ENTITY  font.langGroup.ethiopic                 "Ethiopic">
-<!ENTITY  font.langGroup.georgian                 "Georgian">
+<!ENTITY  font.langGroup.canadian                 "Silabário Canadense Unificado">
+<!ENTITY  font.langGroup.ethiopic                 "Etíope">
+<!ENTITY  font.langGroup.georgian                 "Georgiano">
 <!ENTITY  font.langGroup.gujarati                 "Gujarati">
 <!ENTITY  font.langGroup.gurmukhi                 "Gurmukhi">
 <!ENTITY  font.langGroup.khmer                    "Khmer">
-<!ENTITY  font.langGroup.malayalam                "Malayalam">
+<!ENTITY  font.langGroup.malayalam                "Malaiala">
 <!-- Minimum font size -->
 <!ENTITY minSize.label                            "Tamanho mínimo da letra:">
 <!ENTITY minSize.accesskey                        "m">
@@ -62,7 +62,7 @@
 
 <!-- default font type -->
 <!ENTITY  useDefaultFontSerif.label               "Serifa">
-<!ENTITY  useDefaultFontSansSerif.label           "Sem Serifa">
+<!ENTITY  useDefaultFontSansSerif.label           "Sem-serifa">
 
 <!ENTITY  useDocumentFonts.label                  "Permitir que o documento use outros tipos de letra">
 <!ENTITY  useDocumentFonts.accesskey              "o">

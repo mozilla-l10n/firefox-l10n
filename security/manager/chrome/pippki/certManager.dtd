@@ -34,55 +34,55 @@
 <!ENTITY certmgr.certdetail.sha256fingerprint "Assinatura SHA-256">
 <!ENTITY certmgr.certdetail.sha1fingerprint   "Assinatura SHA1">
 
-<!ENTITY certmgr.editcacert.title 			  "Editar definições de confiança do certificado CA">
-<!ENTITY certmgr.editcert.edittrust 		  "Editar definições de confiança:">
-<!ENTITY certmgr.editcert.trustssl   		  "Este certificado pode identificar sítios web.">
-<!ENTITY certmgr.editcert.trustemail 		  "Este certificado pode identificar utilizadores de correio eletrónico.">
+<!ENTITY certmgr.editcacert.title             "Editar definições de confiança do certificado CA">
+<!ENTITY certmgr.editcert.edittrust           "Editar definições de confiança:">
+<!ENTITY certmgr.editcert.trustssl            "Este certificado pode identificar sítios web.">
+<!ENTITY certmgr.editcert.trustemail          "Este certificado pode identificar utilizadores de correio eletrónico.">
 <!ENTITY certmgr.editcert.trustobjsign 		  "Este certificado pode identificar produtores de aplicações.">
 <!ENTITY certmgr.editemailcert.title 		  "Editar definições de confiança do certificado de correio eletrónico">
 <!ENTITY certmgr.editemailcert.edittrust 	  "Editar definições de confiança do certificado:">
 <!ENTITY certmgr.editemailcert.dotrust 		  "Confiar na autenticidade deste certificado.">
 <!ENTITY certmgr.editemailcert.donttrust 	  "Não confiar na autenticidade deste certificado.">
 
-<!ENTITY certmgr.deletecert.title 			  "Eliminar certificado">
+<!ENTITY certmgr.deletecert.title             "Eliminar certificado">
 
-<!ENTITY certmgr.certname 					  "Nome do certificado">
-<!ENTITY certmgr.certserver 				  "Servidor">
-<!ENTITY certmgr.override_lifetime 			  "Tempo de vida">
-<!ENTITY certmgr.tokenname 					  "Dispositivo de segurança">
-<!ENTITY certmgr.begins 				   	  "Inicia a">
-<!ENTITY certmgr.expires 					  "Expira a">
-<!ENTITY certmgr.email 					      "Endereço eletrónico">
-<!ENTITY certmgr.serial 				   	  "Número de série">
+<!ENTITY certmgr.certname                     "Nome do certificado">
+<!ENTITY certmgr.certserver                   "Servidor">
+<!ENTITY certmgr.override_lifetime            "Validade">
+<!ENTITY certmgr.tokenname                    "Dispositivo de segurança">
+<!ENTITY certmgr.begins                       "Inicia a">
+<!ENTITY certmgr.expires                      "Expira a">
+<!ENTITY certmgr.email                        "Endereço eletrónico">
+<!ENTITY certmgr.serial                       "Número de série">
 
-<!ENTITY certmgr.close.label 				  "Fechar">
-<!ENTITY certmgr.close.accesskey 			  "c">
-<!ENTITY certmgr.view2.label 				  "Ver...">
-<!ENTITY certmgr.view2.accesskey 			  "V">
-<!ENTITY certmgr.edit3.label 				  "Editar confiança...">
-<!ENTITY certmgr.edit3.accesskey 			  "E">
+<!ENTITY certmgr.close.label                  "Fechar">
+<!ENTITY certmgr.close.accesskey              "c">
+<!ENTITY certmgr.view2.label                  "Ver...">
+<!ENTITY certmgr.view2.accesskey              "V">
+<!ENTITY certmgr.edit3.label                  "Editar confiança...">
+<!ENTITY certmgr.edit3.accesskey              "E">
 <!ENTITY certmgr.editca.label 				  "Editar confiança na CA">
 <!ENTITY certmgr.editca.accesskey 			  "d">
-<!ENTITY certmgr.export.label 				  "Exportar...">
-<!ENTITY certmgr.export.accesskey 			  "x">
-<!ENTITY certmgr.delete2.label 				  "Eliminar...">
-<!ENTITY certmgr.delete2.accesskey 			  "l">
+<!ENTITY certmgr.export.label                 "Exportar...">
+<!ENTITY certmgr.export.accesskey             "x">
+<!ENTITY certmgr.delete2.label                "Eliminar...">
+<!ENTITY certmgr.delete2.accesskey            "l">
 <!ENTITY certmgr.delete_builtin.label         "Eliminar ou remover confiança...">
 <!ENTITY certmgr.delete_builtin.accesskey     "m">
-<!ENTITY certmgr.backup2.label 				  "Cópia de segurança...">
-<!ENTITY certmgr.backup2.accesskey 			  "s">
-<!ENTITY certmgr.backupall2.label 			  "Copiar todos...">
-<!ENTITY certmgr.backupall2.accesskey 		  "t">
-<!ENTITY certmgr.restore2.label 			  "Importar...">
-<!ENTITY certmgr.restore2.accesskey 		  "I">
-<!ENTITY certmgr.details.label 				  "Campos do certificado">
-<!ENTITY certmgr.details.accesskey 			  "f">
-<!ENTITY certmgr.fields.label 				  "Valor do campo">
-<!ENTITY certmgr.fields.accesskey 			  "o">
-<!ENTITY certmgr.hierarchy.label 			  "Hierarquia do certificado">
-<!ENTITY certmgr.hierarchy.accesskey2 		  "H">
-<!ENTITY certmgr.addException.label 		  "Adicionar exceção...">
-<!ENTITY certmgr.addException.accesskey 	  "i">
+<!ENTITY certmgr.backup2.label                "Cópia de segurança...">
+<!ENTITY certmgr.backup2.accesskey            "s">
+<!ENTITY certmgr.backupall2.label             "Copiar todos...">
+<!ENTITY certmgr.backupall2.accesskey         "t">
+<!ENTITY certmgr.restore2.label               "Importar...">
+<!ENTITY certmgr.restore2.accesskey           "I">
+<!ENTITY certmgr.details.label                "Campos do certificado">
+<!ENTITY certmgr.details.accesskey            "f">
+<!ENTITY certmgr.fields.label                 "Valor do campo">
+<!ENTITY certmgr.fields.accesskey             "o">
+<!ENTITY certmgr.hierarchy.label              "Hierarquia do certificado">
+<!ENTITY certmgr.hierarchy.accesskey2         "H">
+<!ENTITY certmgr.addException.label           "Adicionar exceção...">
+<!ENTITY certmgr.addException.accesskey       "A">
 
 <!ENTITY exceptionMgr.title                   "Adicionar exceção de segurança">
 <!ENTITY exceptionMgr.exceptionButton.label   "Confirmar exceção de segurança">

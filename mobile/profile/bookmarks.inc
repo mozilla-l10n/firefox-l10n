@@ -28,6 +28,6 @@
 
 # LOCALIZATION NOTE (bookmarks_marketplace):
 # link title for https://marketplace.firefox.com
-#define bookmarks_marketplace Marketplace do Firefox
+#define bookmarks_marketplace Firefox Marketplace
 
 #unfilter emptyLines

@@ -3,13 +3,13 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!-- File menu items -->
-<!ENTITY openFileCmd.label "Abrir Ficheiro...">
+<!ENTITY openFileCmd.label "Abrir ficheiro...">
 <!ENTITY openFileCmd.accesskey "o">
 <!ENTITY openFileCmd.key "o">
 <!ENTITY openRemoteCmd.label "Abrir local da web...">
 <!ENTITY openRemoteCmd.accesskey "l">
 <!ENTITY openRemoteCmd.key "l">
-<!ENTITY fileRecentMenu.label "Páginas Recentes">
+<!ENTITY fileRecentMenu.label "Páginas recentes">
 <!ENTITY fileRecentMenu.accesskey "r">
 <!ENTITY saveCmd.label "Guardar">
 <!ENTITY saveCmd.accesskey "G">
@@ -26,13 +26,13 @@
 <!ENTITY fileRevert.accesskey "v">
 
 <!-- Edit menu items -->
-<!ENTITY publishSettings.label "Configurações do sítio de publicação...">
+<!ENTITY publishSettings.label "Definições de publicação do sítio...">
 <!ENTITY publishSettings.accesskey "b">
 
 <!-- Toolbar buttons/items -->
 <!ENTITY newToolbarCmd.label "Novo">
 <!ENTITY newToolbarCmd.tooltip "Criar nova página de Composição">
 <!ENTITY openToolbarCmd.label "Abrir">
-<!ENTITY openToolbarCmd.tooltip "Abrir um ficheiro Local">
+<!ENTITY openToolbarCmd.tooltip "Abrir ficheiro local">
 <!ENTITY saveToolbarCmd.tooltip "Guardar ficheiro para uma localização remota">
 <!ENTITY publishToolbarCmd.tooltip "Carregar ficheiro para uma localização remota">

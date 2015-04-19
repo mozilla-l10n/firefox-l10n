@@ -4,16 +4,16 @@
 <!-- Window title -->
 
 
-<!ENTITY windowTitle.label "Inserir Caractere">
+<!ENTITY windowTitle.label "Inserir carácter">
 <!ENTITY category.label "Categoria">
 <!ENTITY letter.label "Carta:">
 <!ENTITY letter.accessKey "A">
-<!ENTITY character.label "Caractere:">
+<!ENTITY character.label "Carácter:">
 <!ENTITY character.accessKey "C">
-<!ENTITY accentUpper.label "Acentuar Uppercase">
-<!ENTITY accentLower.label "Acentuar Lowercase">
-<!ENTITY otherUpper.label "Outros Uppercase">
-<!ENTITY otherLower.label "Outros Lowercase">
-<!ENTITY commonSymbols.label "Símbolos Comuns">
+<!ENTITY accentUpper.label "Acentuar maiúsculas">
+<!ENTITY accentLower.label "Acentuar minúsculas">
+<!ENTITY otherUpper.label "Outras maiúsculas">
+<!ENTITY otherLower.label "Outras minúsculas">
+<!ENTITY commonSymbols.label "Símbolos comuns">
 <!ENTITY insertButton.label "Inserir">
 <!ENTITY closeButton.label "Fechar">

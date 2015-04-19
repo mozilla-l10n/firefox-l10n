@@ -7,17 +7,13 @@
 
 <!ENTITY editContactName.label "Nome:">
 <!ENTITY editContactName.accesskey "N">
-
-<!ENTITY editContactEmail.label "Correio electrónico:">
+<!ENTITY editContactEmail.label "Correio eletrónico:">
 <!ENTITY editContactEmail.accesskey "e">
 
 <!ENTITY editContactAddressBook.label "Livro de endereços:">
-<!ENTITY editContactAddressBook.accesskey "ç">
-
+<!ENTITY editContactAddressBook.accesskey "L">
 <!ENTITY editContactPanelCancel.label "Cancelar">
 <!ENTITY editContactPanelCancel.accesskey "C">
-
-<!ENTITY editContactPanelDone.label "Feito">
-<!ENTITY editContactPanelDone.accesskey "F">
-
-<!ENTITY contactMoveDisabledWarning.description "Não pode mudar o livro de endereços porque o contacto está numa lista de correio.">
+<!ENTITY editContactPanelDone.label "Terminado">
+<!ENTITY editContactPanelDone.accesskey "T">
+<!ENTITY contactMoveDisabledWarning.description "Não pode alterar o livro de endereços porque o contacto pertence a uma lista de correio.">

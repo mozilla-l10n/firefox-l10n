@@ -6,257 +6,129 @@
 
 <!ENTITY msgComposeWindow.title "Nova mensagem: (sem assunto)">
 
-
-
 <!ENTITY fromAddr.label "De:">
-
 <!ENTITY fromAddr.accesskey "D">
-
 <!ENTITY subject.label  "Assunto:">
-
 <!ENTITY subject.accesskey "s">
-
 <!ENTITY attachments.label "Anexos:">
-
 <!ENTITY attachments.accesskey "x">
-
-
 
 <!-- menu items:  the . means that the menu item isn't implemented yet -->
 
-
-
 <!-- File menu items -->
-
 <!ENTITY saveCmd.label "Guardar">
-
 <!ENTITY saveCmd.accesskey "G">
-
 <!ENTITY saveAsCmd.label "Guardar como">
-
 <!ENTITY saveAsCmd.accesskey "u">
-
 <!ENTITY saveAsFileCmd.label "Ficheiro...">
-
 <!ENTITY saveAsFileCmd.accesskey "h">
-
 <!ENTITY saveAsDraftCmd.label "Rascunho">
-
 <!ENTITY saveAsDraftCmd.accesskey "R">
-
 <!ENTITY saveAsTemplateCmd.label "Modelo">
-
 <!ENTITY saveAsTemplateCmd.accesskey "M">
-
 <!ENTITY attachMenu.label "Anexar">
-
 <!ENTITY attachMenu.accesskey "x">
-
 <!ENTITY attachFileCmd.label "Ficheiro(s)...">
-
 <!ENTITY attachFileCmd.accesskey "F">
-
 <!ENTITY attachPageCmd.label "Página Web...">
-
 <!ENTITY attachPageCmd.accesskey "W">
-
 <!--LOCALIZATION NOTE attachVCardCmd.label Don't translate the term 'vCard' -->
-
 <!ENTITY attachVCardCmd.label "Cartão Pessoal (vCard)">
-
 <!ENTITY attachVCardCmd.accesskey "v">
-
 <!ENTITY sendNowCmd.label "Enviar agora">
-
 <!ENTITY sendCmd.keycode "VK_RETURN">
-
 <!ENTITY sendNowCmd.accesskey "E">
-
 <!ENTITY sendLaterCmd.label "Enviar depois">
-
 <!ENTITY sendLaterCmd.keycode "VK_RETURN">
-
 <!ENTITY sendLaterCmd.accesskey "d">
 
-
-
 <!-- Edit menu items -->
-
 <!ENTITY editRewrapCmd.label "Rewrap">
-
 <!ENTITY editRewrapCmd.key "R">
-
 <!ENTITY editRewrapCmd.accesskey  "w">
-
-<!ENTITY accountManagerCmd.label "Definições da conta de correio &amp; Newsgroups…">
-
+<!ENTITY accountManagerCmd.label "Definições da conta de correio e newsgroups…">
 <!ENTITY accountManagerCmd.accesskey "ç">
 
-
-
 <!-- View menu items -->
-
-<!ENTITY showComposeToolbarCmd.label "Barra de Ferramentas do Correio">
-
+<!ENTITY showComposeToolbarCmd.label "Barra de ferramentas do correio">
 <!ENTITY showComposeToolbarCmd.accesskey "C">
-
-<!ENTITY showFormatToolbarCmd.label "Barra de Ferramentas de Formatação">
-
-<!ENTITY showFormatToolbarCmd.accesskey "F">
-
-
+<!ENTITY showFormatToolbarCmd.label "Barra de ferramentas de formatação">
+<!ENTITY showFormatToolbarCmd.accesskey "f">
 
 <!-- Format menu items -->
-
 <!ENTITY formatMenu.label "Formatar">
-
 <!ENTITY formatMenu.accesskey "m">
 
-
-
 <!-- Options menu items -->
-
 <!ENTITY optionsMenu.label "Opções">
-
 <!ENTITY optionsMenu.accesskey "o">
 
-
-
-<!ENTITY quoteCmd.label "Citar Mensagem">
-
+<!ENTITY quoteCmd.label "Citar mensagem">
 <!ENTITY quoteCmd.accesskey "C">
-
-<!ENTITY selectAddressCmd.label "Escolha os Endereços...">
-
+<!ENTITY selectAddressCmd.label "Escolha os endereços...">
 <!ENTITY selectAddressCmd.key "">
-
-<!ENTITY selectAddressCmd.accesskey "E">
-
-
+<!ENTITY selectAddressCmd.accesskey "e">
 
 <!ENTITY priorityMenu.label "Prioridade">
-
 <!ENTITY priorityMenu.accesskey "p">
-
 <!ENTITY lowestPriorityCmd.label "Baixíssima">
-
 <!ENTITY lowestPriorityCmd.accesskey "x">
-
 <!ENTITY lowPriorityCmd.label "Baixa">
-
 <!ENTITY lowPriorityCmd.accesskey "B">
-
 <!ENTITY normalPriorityCmd.label "Normal">
-
 <!ENTITY normalPriorityCmd.accesskey "n">
-
 <!ENTITY highPriorityCmd.label "Alta">
-
 <!ENTITY highPriorityCmd.accesskey "A">
-
 <!ENTITY highestPriorityCmd.label "Altíssima">
-
 <!ENTITY highestPriorityCmd.accesskey "s">
 
-
-
 <!ENTITY returnReceiptMenu.label "Recibo de leitura">
-
 <!ENTITY returnReceiptMenu.accesskey "o">
-
-<!ENTITY dsnMenu.label "Notificação do Estado da Entrega">
-
+<!ENTITY dsnMenu.label "Notificação do estado da entrega">
 <!ENTITY dsnMenu.accesskey "N">
-
 <!ENTITY outputFormatMenu.label "Formatação">
-
 <!ENTITY outputFormatMenu.accesskey  "r">
-
-<!ENTITY autoFormatCmd.label "Seleccionar automaticamente">
-
+<!ENTITY autoFormatCmd.label "Selecionar automaticamente">
 <!ENTITY autoFormatCmd.accesskey "a">
-
 <!ENTITY plainTextFormatCmd.label "Sem formatação">
-
 <!ENTITY plainTextFormatCmd.accesskey "e">
-
-<!ENTITY htmlFormatCmd.label "Apenas Formatação HTML">
-
-<!ENTITY htmlFormatCmd.accesskey "F">
-
+<!ENTITY htmlFormatCmd.label "Apenas formatação HTML">
+<!ENTITY htmlFormatCmd.accesskey "f">
 <!ENTITY bothFormatCmd.label "Ambos os formatos">
-
 <!ENTITY bothFormatCmd.accesskey "A">
 
-
-
-<!ENTITY fileCarbonCopyCmd.label "Enviar Uma Cópia para">
-
+<!ENTITY fileCarbonCopyCmd.label "Enviar uma cópia para">
 <!ENTITY fileCarbonCopyCmd.accesskey "v">
-
-<!ENTITY fileHereMenu.label "O Ficheiro Aqui">
-
-
+<!ENTITY fileHereMenu.label "O ficheiro aqui">
 
 <!--LOCALIZATION NOTE Toolbar items Don't change any "chrome://" URLs -->
-
 <!-- Toolbar items -->
-
 <!ENTITY sendButton.label "Enviar agora">
-
 <!ENTITY addressButton.label "Contactos">
-
 <!ENTITY attachButton.label "Anexar">
-
 <!ENTITY spellingButton.label "Ortografia">
-
 <!ENTITY saveButton.label "Guardar">
-
 <!ENTITY stopButton.label "Parar">
 
-
-
 <!--tooltips-->
-
 <!-- We already inherit &menuBar.tooltip and &mailToolbar.tooltip from messenger.dtd -->
-
-<!ENTITY addressBar.tooltip "Barra de Endereço">
-
-<!ENTITY formatToolbar.tooltip "Barra de ferramentas de Formatação">
-
+<!ENTITY addressBar.tooltip "Barra de endereço">
+<!ENTITY formatToolbar.tooltip "Barra de ferramentas de formatação">
 <!ENTITY sendButton.tooltip "Enviar esta mensagem agora"> 
-
 <!ENTITY sendlaterButton.tooltip "Enviar esta mensagem mais tarde"> 
-
-<!ENTITY addressButton.tooltip "Seleccione um destinatário de um dos Livros de Endereços"> 
-
+<!ENTITY addressButton.tooltip "Selecione um destinatário de um dos livros de endereços"> 
 <!ENTITY attachButton.tooltip "Incluir um anexo"> 
-
 <!ENTITY saveButton.tooltip "Guardar esta mensagem"> 
-
-<!ENTITY stopButton.tooltip "Parar a transferência actual"> 
-
-
+<!ENTITY stopButton.tooltip "Parar a transferência atual"> 
 
 <!-- context menu items -->
-
 <!ENTITY openAttachment.label "Abrir">
-
 <!ENTITY openAttachment.accesskey "A">
-
 <!ENTITY renameAttachment.label "Mudar Nome…">
-
 <!ENTITY renameAttachment.accesskey "M">
-
 <!ENTITY deleteAttachment.accesskey "l">
-
 <!ENTITY selectAllAttachments.accesskey "t">
-
 <!ENTITY attachFile.label "Anexar ficheiros...">
-
 <!ENTITY attachFile.accesskey "n">
-
 <!ENTITY attachPage.label "Anexar página da web...">
-
-<!ENTITY attachPage.accesskey "w">
-
+<!ENTITY attachPage.accesskey "x">

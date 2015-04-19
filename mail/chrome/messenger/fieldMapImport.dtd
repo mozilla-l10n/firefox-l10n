@@ -2,19 +2,19 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY fieldMapImport.title "Importar Livro de Endereços">
+<!ENTITY fieldMapImport.title "Importar livro de endereços">
 <!ENTITY fieldMapImport.size "width: 58em; height: 35em;">
 <!ENTITY fieldMapImport.recordNumber "Dados importados para o registo: ">
 <!ENTITY fieldMapImport.next.label "Seguinte">
 <!ENTITY fieldMapImport.next.accesskey "S">
 <!ENTITY fieldMapImport.previous.label "Anterior">
 <!ENTITY fieldMapImport.previous.accesskey "A">
-<!ENTITY fieldMapImport.text "Use Mover para Cima e Mover para Baixo para igualar os dados correctos dos campos do livro de endereços à esquerda para importar para a direita. Desseleccione os items que não deseja importar.">
-<!ENTITY fieldMapImport.up.label "Mover para Cima">
-<!ENTITY fieldMapImport.up.accesskey "C">
-<!ENTITY fieldMapImport.down.label "Mover para Baixo">
-<!ENTITY fieldMapImport.down.accesskey "B">
-<!ENTITY fieldMapImport.fieldListTitle "Campos do Livro de Endereços ">
-<!ENTITY fieldMapImport.dataTitle "Dados do registo a importar">
-<!ENTITY fieldMapImport.skipFirstRecord.label "O primeiro registo contém o campo dos nomes">
+<!ENTITY fieldMapImport.text "Utilize Mover para cima e Mover para baixo para criar a correspondência entre os campos do livro de endereços à esquerda e da direita. Desmarque os itens que não quer importar.">
+<!ENTITY fieldMapImport.up.label "Mover para cima">
+<!ENTITY fieldMapImport.up.accesskey "c">
+<!ENTITY fieldMapImport.down.label "Mover para baixo">
+<!ENTITY fieldMapImport.down.accesskey "b">
+<!ENTITY fieldMapImport.fieldListTitle "Campos do livro de endereços ">
+<!ENTITY fieldMapImport.dataTitle "Dados a importar">
+<!ENTITY fieldMapImport.skipFirstRecord.label "O primeiro registo contém o nome dos campos">
 <!ENTITY fieldMapImport.skipFirstRecord.accessKey "O">
