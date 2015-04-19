@@ -4,9 +4,9 @@
 <!-- LOCALIZATION NOTE This file is very similar to the one in Firefox from browser/locales/en-US/chrome/browser/aboutRights.dtd so you can use that file as a starting point -->
 <!-- rights.locale-direction instead of the usual local.dir entity, so RTL can skip translating page. -->
 <!ENTITY rights.locale-direction "ltr">
-<!ENTITY rights.pagetitle       "about:direitos">
+<!ENTITY rights.pagetitle       "about:rights">
 <!ENTITY rights.intro-header    "Sobre os seus direitos">
-<!ENTITY rights.intro "O &brandFullName; é livre e é um software open source, construído por uma comunidade de centenas de pessoas de todo o mundo. Existem algumas coisas que deve saber:">
+<!ENTITY rights.intro "O &brandFullName; é livre e é um software de código aberto, construído por uma comunidade de centenas de pessoas de todo o mundo. Existem algumas coisas que deve saber:">
 
 <!-- Note on pointa / pointb / pointc form:
      These points each have an embedded link in the HTML, so each point is
@@ -18,7 +18,7 @@
      deliberate for formatting around the embedded links. -->
 <!ENTITY rights.intro-point1a "O &brandShortName; é-lhe disponibilizado sobre os termos da ">
 <!ENTITY rights.intro-point1b "Mozilla Public License">
-<!ENTITY rights.intro-point1c ". Isto significa que pode usar, copiar e distribuir o &brandShortName; para outras pessoas.  Também é bem-vindo para modificar o código fonte do &brandShortName; conforme as suas necessidades. A Mozilla Public License também lhe dá o direito de distribuir as suas versões modificadas.">
+<!ENTITY rights.intro-point1c ". Isto significa que pode usar, copiar e distribuir o &brandShortName; para outras pessoas.  Também é bem-vindo para modificar o código fonte do &brandShortName; conforme as suas necessidades. A licença pública da Mozilla também lhe dá o direito de distribuir as suas versões modificadas.">
 
 <!ENTITY rights.intro-point2a "A Mozilla não lhe dá nenhum direito às marcas registadas ou logótipos da Mozilla e do Firefox. Encontra mais informação adicional sobre marcas registadas ">
 <!ENTITY rights.intro-point2b "aqui">

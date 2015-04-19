@@ -88,7 +88,7 @@
 <!ENTITY bookmarks.folder.toolbar.label 'Barra de ferramentas dos marcadores'>
 <!ENTITY bookmarks.folder.unfiled.label 'Marcadores desorganizados'>
 <!ENTITY bookmarks.folder.desktop.label 'Marcadores do computador'>
-<!ENTITY bookmarks.folder.mobile.label 'Marcadores do Mobile'>
+<!ENTITY bookmarks.folder.mobile.label 'Marcadores do dispositivo móvel'>
 <!ENTITY bookmarks.folder.readinglist.label 'Lista de leitura'>
 <!-- Pinned sites on about:home. This folder should never be shown to the user, but we have to give it a string name -->
 <!ENTITY bookmarks.folder.pinned.label 'Afixado'>

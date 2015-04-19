@@ -9,27 +9,23 @@
 <!ENTITY junkSettings.label "Configurações do Lixo Electrónico">
 <!ENTITY trainingDescription.label "Se activado, tem primeiro de treinar o &brandShortName; para identificar o lixo electrónico utilizando o botão lixo na barra de ferramentas para marcar a mensagem como sendo lixo ou não. Tem de identificar as mensagens como sendo lixo ou não. A partir daí o &brandShortName; poderá marcar o lixo automaticamente">
 <!ENTITY level.label "Activar os controlos de lixo adaptativos para esta conta">
-<!ENTITY level.accesskey "A">
+<!ENTITY level.accesskey 			      "A">
+<!ENTITY move.label 				        "Mover mensagens de lixo electrónico para:">
+<!ENTITY move.accesskey 			      "M">
+<!ENTITY junkFolderOn.label 		    "Pasta &quot;Lixo eletrónico&quot; em:">
+<!ENTITY junkFolderOn.accesskey 	  "x">
+<!ENTITY otherFolder.label 			    "Outra:">
+<!ENTITY otherFolder.accesskey 		  "r">
+<!ENTITY purge1.label 				      "Eliminar automaticamente o lixo eletrónico com mais de">
+<!ENTITY purge1.accesskey 			    "E">
+<!ENTITY purge2.label 				      "dias">
+<!ENTITY whitelistHeader.label 		  "Não marcar mensagem como lixo eletrónico se o remetente estiver no: ">
+<!ENTITY whitelistHeader.accesskey 	"N">
+<!ENTITY ispHeadersWarning.label 	  "Se ativa, o &brandShortName; vai considerar automaticamente as mensagens marcadas por este classificador externo como lixo.">
+<!ENTITY ispHeaders.label 			    "Confiar nos dados de de lixo electrónico do: ">
+<!ENTITY ispHeaders.accesskey 		  "C">
 
-<!ENTITY move.label "Mover as novas mensagens de lixo electrónico para:">
-<!ENTITY move.accesskey "M">
-<!ENTITY junkFolderOn.label "A Pasta &quot;Lixo&quot; em:">
-<!ENTITY junkFolderOn.accesskey "x">
-<!ENTITY otherFolder.label "Outro:">
-<!ENTITY otherFolder.accesskey "r">
-<!ENTITY purge1.label "Apagar automaticamente o lixo electrónico com mais de">
-<!ENTITY purge1.accesskey "g">
-<!ENTITY purge2.label "dias">
-
-<!ENTITY whitelistHeader.label "Não marcar a mensagem como lixo electrónico se o remetente estiver no: ">
-<!ENTITY whitelistHeader.accesskey "N">
-
-<!ENTITY ispHeadersWarning.label "Se ativado, o &brandShortName; vai considerar automaticamente as mensagens marcadas por este classificador externo como lixo.">
-<!ENTITY ispHeaders.label "Confiar nos cabeçalhos de lixo electrónico do: ">
-<!ENTITY ispHeaders.accesskey "C">
-
-<!ENTITY junkClassification.label "Seleção">
-<!ENTITY junkActions.label "Destino e Retenção">
-
-<!ENTITY globalJunkPrefs.label "Preferências globais do lixo…">
-<!ENTITY globalJunkPrefs.accesskey "g">
+<!ENTITY junkClassification.label   "Seleção">
+<!ENTITY junkActions.label 			    "Destino e retenção">
+<!ENTITY globalJunkPrefs.label 		  "Preferências gerais de lixo eletrónico…">
+<!ENTITY globalJunkPrefs.accesskey 	"P">

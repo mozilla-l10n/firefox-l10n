@@ -6,26 +6,26 @@
 
 <!--LOCALIZATION NOTE : FILE Cache prefs dialog -->
 <!ENTITY pref.cache.title                "Cache">
-<!ENTITY pref.cache.caption              "Aplicar Opções de Cache">
+<!ENTITY pref.cache.caption              "Aplicar opções de cache">
 <!ENTITY cachePara                       "A cache mantém cópias das páginas web visitadas frequentemente no seu disco rígido. (Clicar em Recarregar mostra sempre a última versão da página.)">
 <!ENTITY cacheCheck.label                "Deixar o &brandShortName; gerir o tamanho da cache.">
 <!ENTITY cacheCheck.accesskey            "D">
 <!ENTITY diskCacheUpTo.label             "Usar até">
 <!ENTITY diskCacheUpTo.accesskey         "U">
 <!ENTITY spaceMbytes                     "MB de espaço em disco para a cache.">
-<!ENTITY diskCacheFolder.label           "Localização da pasta da Cache:">
-<!ENTITY clearDiskCache.label            "Limpar Cache">
+<!ENTITY diskCacheFolder.label           "Localização da pasta da cache:">
+<!ENTITY clearDiskCache.label            "Limpar cache">
 <!ENTITY clearDiskCache.accesskey        "L">
 <!ENTITY chooseDiskCacheFolder.label     "Escolher pasta…">
 <!ENTITY chooseDiskCacheFolder.accesskey "p">
-<!ENTITY diskCacheFolderExplanation      "Os ficheiros da Cache serão guardados numa sub-pasta com o nome &quot;Cache&quot; na directoria que especificou. Reinicie o &brandShortName; para que as alterações tenham efeito.">
+<!ENTITY diskCacheFolderExplanation      "Os ficheiros da cache serão guardados numa sub-pasta com o nome &quot;cache&quot; na pasta que especificou. Reinicie o &brandShortName; para que as alterações surtam efeito.">
 <!ENTITY docCache.label                  "Comparar a página da cache com a página na rede:">
 <!ENTITY docCache.accesskey              "m">
 <!ENTITY checkOncePerSession.label       "Uma vez por sessão">
 <!ENTITY checkEveryTime.label            "Sempre que vejo esta página">
 <!ENTITY checkNever.label                "Nunca">
-<!ENTITY checkAutomatically.label        "Quando a página estiver desactualizada">
+<!ENTITY checkAutomatically.label        "Quando a página estiver desatualizada">
 
-<!ENTITY prefetchTitle.label             "Ligação de Prefetching">
-<!ENTITY enablePrefetch.label            "Fazer Prefetch a páginas web quando estiver em espera, para que ligações em páginas web desenhadas para prefetching possam ser carregadas mais rapidamente">
-<!ENTITY enablePrefetch.accesskey        "P">
+<!ENTITY prefetchTitle.label             "Ligação de pré-carregamento">
+<!ENTITY enablePrefetch.label            "Fazer pré-carregamento de páginas web quando estiver em espera, para que ligações em páginas web desenhadas para pré-carregamento possam ser carregadas mais rapidamente">
+<!ENTITY enablePrefetch.accesskey        "p">

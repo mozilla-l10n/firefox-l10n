@@ -2,21 +2,18 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY virtualFolderProperties.title "Nova Pasta de Pesquisa Guardada">
+<!ENTITY virtualFolderProperties.title "Pasta da nova pesquisa guardada">
 <!ENTITY name.label "Nome:">
 <!ENTITY name.accesskey "N">
-<!ENTITY description.label "Criar como sub-pasta de:">
+<!ENTITY description.label "Criar como subpasta de:">
 <!ENTITY description.accesskey "C">
-
-<!ENTITY searchTermCaption.label "Configura o critério de pesquisa usado por esta pesquisa guardada: ">
-
-<!ENTITY folderSelectionCaption.label "Seleccione as Pastas a Pesquisar: ">
-<!ENTITY chooseFoldersButton.label "Seleccionar...">
-<!ENTITY chooseFoldersButton.accesskey "s">
-
-<!ENTITY searchOnline.label "Pesquisar Ligado (Dá resultados actualizados para as pastas IMAP e notícias mas aumenta o tempo de abertura da pasta)">
+<!ENTITY searchTermCaption.label "Configurar critério de pesquisa utilizado para esta pesquisa guardada: ">
+<!ENTITY folderSelectionCaption.label "Selecione as pastas a pesquisar: ">
+<!ENTITY chooseFoldersButton.label "Selecionar...">
+<!ENTITY chooseFoldersButton.accesskey "S">
+<!ENTITY searchOnline.label "Pesquisar ligado (resultados atualizados para as pastas IMAP e de notícias mas aumenta o tempo de abertura da pasta)">
 <!ENTITY searchOnline.accesskey "P">
-<!ENTITY newFolderButton.label         "Criar">
-<!ENTITY newFolderButton.accesskey     "r">
-<!ENTITY editFolderButton.label        "Actualizar">
-<!ENTITY editFolderButton.accesskey    "u">
+<!ENTITY newFolderButton.label "Criar">
+<!ENTITY newFolderButton.accesskey "r">
+<!ENTITY editFolderButton.label "Atualizar">
+<!ENTITY editFolderButton.accesskey "u">

@@ -5,18 +5,18 @@
 <!ENTITY subscribeDialog.title "Subscrever">
 <!ENTITY subscribeButton.label "Subscrever">
 <!ENTITY subscribeButton.accesskey "S">
-<!ENTITY unsubscribeButton.label "Não subscrever">
-<!ENTITY unsubscribeButton.accesskey "U">
-<!ENTITY newGroupsTab.label "Novos Grupos">
+<!ENTITY unsubscribeButton.label "Cancelar subscrição">
+<!ENTITY unsubscribeButton.accesskey "u">
+<!ENTITY newGroupsTab.label "Novos grupos">
 <!ENTITY newGroupsTab.accesskey "N">
-<!ENTITY refreshButton.label "Actualizar">
-<!ENTITY refreshButton.accesskey "A">
+<!ENTITY refreshButton.label "Atualizar">
+<!ENTITY refreshButton.accesskey "r">
 <!ENTITY stopButton.label "Parar">
-<!ENTITY stopButton.accesskey "A">
+<!ENTITY stopButton.accesskey "P">
 <!ENTITY server.label "Conta:">
-<!ENTITY server.accesskey "T">
+<!ENTITY server.accesskey "a">
 <!ENTITY subscribedHeader.label "Subscrever">
 <!-- commenting out until bug 38906 is fixed 
-<!ENTITY messagesHeader.label         "Mensagens"> -->
+<!ENTITY messagesHeader.label "Mensagens"> -->
 <!ENTITY namefield.label "Mostrar itens que contenham:">
 <!ENTITY namefield.accesskey "S">

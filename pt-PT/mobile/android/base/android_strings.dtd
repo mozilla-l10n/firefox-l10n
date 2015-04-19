@@ -146,7 +146,7 @@
 <!ENTITY pref_category_home_summary "Personalizar a sua página inicial">
 <!ENTITY pref_category_home_panels "Painéis">
 <!ENTITY home_add_panel_title "Adicionar novo painel">
-<!ENTITY home_add_panel_empty "Sorry, we couldn\'t find any panels for you to add.">
+<!ENTITY home_add_panel_empty "Lamentamos, mas não conseguimos encontrar quaisquer painéis que possa adicionar.">
 <!-- Localization note (home_add_panel_installed):
      The &formatS; will be replaced with the name of the new panel the user just
      selected to be added to the home page. -->

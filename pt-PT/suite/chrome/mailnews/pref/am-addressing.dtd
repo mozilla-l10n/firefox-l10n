@@ -4,7 +4,7 @@
 
 <!-- extracted from am-addressing.xul -->
 
-<!ENTITY addressing.label          "Endereçamento e Composição">
+<!ENTITY addressing.label          "Endereçamento e composição">
 <!ENTITY addressingGroupTitle.label "Endereçamento">
 <!ENTITY autocompleteToMyDomain.label     "Adicionar automaticamente o meu domínio ao endereço">
 <!ENTITY autocompleteToMyDomain.accesskey "u">
@@ -32,7 +32,7 @@
 <!ENTITY then.accesskey                       "t">
 <!ENTITY aboveQuote.label                     "iniciar a minha resposta acima da citação">
 <!ENTITY belowQuote.label                     "iniciar a minha resposta abaixo da citação">
-<!ENTITY selectAndQuote.label                 "seleccione a citação">
+<!ENTITY selectAndQuote.label                 "selecione a citação">
 <!ENTITY place.label                          "e coloque a minha assinatura">
 <!ENTITY place.accesskey                      "u">
 <!ENTITY belowText.label                      "abaixo da citação (recomendado)">

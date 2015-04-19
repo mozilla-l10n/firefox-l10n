@@ -2,31 +2,27 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY windowTitle.label            "Assistente de conta de chat">
-
-<!ENTITY accountProtocolTitle.label   "Rede de chat">
-<!ENTITY accountProtocolInfo.label    "Por favor escolha a rede da sua conta de chat.">
-<!ENTITY accountProtocolField.label   "Rede:">
+<!ENTITY windowTitle.label "Assistente de conta de conversação">
+<!ENTITY accountProtocolTitle.label "Rede de conversação">
+<!ENTITY accountProtocolInfo.label "Por favor escolha a rede da conta de conversação.">
+<!ENTITY accountProtocolField.label "Rede:">
 <!ENTITY accountProtocolGetMore.label "Obter mais…">
-
-<!ENTITY accountUsernameTitle.label   "Nome de utilizador">
+<!ENTITY accountUsernameTitle.label "Nome de utilizador">
 <!ENTITY accountUsernameDuplicate.label "Esta conta já está configurada!">
-
-<!ENTITY accountPasswordTitle.label   "Senha">
-<!ENTITY accountPasswordInfo.label    "Por favor escreva a sua senha na caixa abaixo.">
-<!ENTITY accountPasswordField.label   "Senha:">
+<!ENTITY accountPasswordTitle.label "Senha">
+<!ENTITY accountPasswordInfo.label "Por favor introduza a senha na caixa abaixo.">
+<!ENTITY accountPasswordField.label "Senha:">
 <!ENTITY accountPasswordManager.label "A senha aqui introduzida será guardada no Gestor de senhas. Deixe esta caixa vazia se quiser que seja pedida a sua senha de cada vez que se ligar com esta conta.">
 
-<!ENTITY accountAdvancedTitle.label   "Opções avançadas">
-<!ENTITY accountAdvancedInfo.label    "Se desejar esteja à vontade para saltar este passo.">
-<!ENTITY accountAdvanced.newMailNotification.label   "Notificar novas mensagens de correio">
+<!ENTITY accountAdvancedTitle.label "Opções avançadas">
+<!ENTITY accountAdvancedInfo.label "Se quiser, pode ignorar esta etapa.">
+<!ENTITY accountAdvanced.newMailNotification.label "Notificar ao receber mensagens">
 <!ENTITY accountAliasGroupbox.caption "Alcunha local">
-<!ENTITY accountAliasField.label      "Alcuha:">
-<!ENTITY accountAliasInfo.label       "Isto apenas é mostrado nas suas conversas quando fala, os contatos remotos não o vêem.">
+<!ENTITY accountAliasField.label "Alcuha:">
+<!ENTITY accountAliasInfo.label "Isto só será exibido nas conversas efetuadas. Os contactos remotos não o vêem.">
 <!ENTITY accountProxySettings.caption "Definições de Proxy">
-<!ENTITY accountProxySettings.change.label     "Alterar…">
+<!ENTITY accountProxySettings.change.label "Alterar…">
 <!ENTITY accountProxySettings.change.accessKey "t">
-
-<!ENTITY accountSummaryTitle.label   "Sumário">
-<!ENTITY accountSummaryInfo.label    "Um sumário da informação que escreveu é apresentado em baixo. Por favor, verifique-a antes de criar a conta.">
-<!ENTITY accountSummary.connectNow.label "Ligar agora esta conta.">
+<!ENTITY accountSummaryTitle.label "Resumo">
+<!ENTITY accountSummaryInfo.label "O resumo das informações introduzidas pode ser visto abaixo. Por favor confirme os dados antes de criar a conta.">
+<!ENTITY accountSummary.connectNow.label "Ligar a esta conta agora.">

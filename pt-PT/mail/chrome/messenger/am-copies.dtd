@@ -6,45 +6,45 @@
 
 <!ENTITY copyAndFolderTitle.label "Cópias e pastas">
 <!ENTITY sendingPrefix.label "Ao enviar mensagens, automaticamente: ">
-<!ENTITY fccMailFolder.label "Guardar uma cópia em:">
+<!ENTITY fccMailFolder.label "Guardar cópia em:">
 <!ENTITY fccMailFolder.accesskey "G">
-<!ENTITY fccReplyFollowsParent.label "Guardar respostas na pasta da mensagem a ser respondida para">
+<!ENTITY fccReplyFollowsParent.label "Guardar respostas na pasta da mensagem que é respondida">
 <!ENTITY fccReplyFollowsParent.accesskey "d">
 <!-- LOCALIZATION NOTE (ccAddress.label): do not translate "Cc" in below line -->
-<!ENTITY ccAddress.label "Cc estes endereços de correio:">
+<!ENTITY ccAddress.label "Cc para estes endereços eletrónicos:">
 <!ENTITY ccAddress.accesskey "C">
-<!ENTITY ccAddressList.placeholder  "Separar endereços com vírgulas">
+<!ENTITY ccAddressList.placeholder "Separar endereços com vírgulas">
 <!-- LOCALIZATION NOTE (bccAddress.label): do not translate "Bcc" in below line -->
-<!ENTITY bccAddress.label "Bcc para estes endereços de correio:">
+<!ENTITY bccAddress.label "Bcc para estes endereços eletrónicos:">
 <!ENTITY bccAddress.accesskey "B">
-<!ENTITY bccAddressList.placeholder  "Separar endereços com vírgulas">
-<!ENTITY saveMessageDlg.label "Mostrar diálogo de confirmação quando as mensagens são guardadas">
+<!ENTITY bccAddressList.placeholder "Separar endereços com vírgulas">
+<!ENTITY saveMessageDlg.label "Mostrar diálogo de confirmação ao guardar as mensagens">
 <!ENTITY saveMessageDlg.accesskey "s">
 <!-- LOCALIZATION NOTE (sentFolderOn.label): OK to translate this, bug #57440 -->
-<!ENTITY sentFolderOn.label "Pasta &quot;Enviados&quot; em:">
-<!ENTITY sentFolderOn.accesskey "A">
-<!ENTITY sentInOtherFolder.label "Outro:">
+<!ENTITY sentFolderOn.label "Pasta &quot;Enviadas&quot; em:">
+<!ENTITY sentFolderOn.accesskey "E">
+<!ENTITY sentInOtherFolder.label "Outra:">
 <!ENTITY sentInOtherFolder.accesskey "O">
 <!-- LOCALIZATION NOTE (archivesFolderOn.label): OK to translate this, bug #57440 -->
 <!ENTITY archivesTitle.label "Arquivos de mensagens">
 <!ENTITY keepArchives.label "Manter arquivos de mensagens em:">
-<!ENTITY keepArchives.accesskey "M">
-<!ENTITY archiveHierarchyButton.label "Opções do arquivo…">
-<!ENTITY archiveHierarchyButton.accesskey "q">
-<!ENTITY archivesFolderOn.label "Pasta &quot;Arquivos em&quot; em:">
-<!ENTITY archivesFolderOn.accesskey "n">
-<!ENTITY archiveInOtherFolder.label "Outro:">
+<!ENTITY keepArchives.accesskey "e">
+<!ENTITY archiveHierarchyButton.label "Opções de arquivos…">
+<!ENTITY archiveHierarchyButton.accesskey "a">
+<!ENTITY archivesFolderOn.label "Pasta de &quot;Arquivos&quot; em:">
+<!ENTITY archivesFolderOn.accesskey "u">
+<!ENTITY archiveInOtherFolder.label "Outra:">
 <!ENTITY archiveInOtherFolder.accesskey "r">
 <!ENTITY specialFolders.label "Rascunhos e modelos">
-<!ENTITY keepDrafts.label "Manter rascunho de mensagens em:">
+<!ENTITY keepDrafts.label "Guardar rascunhos em:">
 <!-- LOCALIZATION NOTE (draftsFolderOn.label): OK to translate this, bug #57440 -->
 <!ENTITY draftsFolderOn.label "Pasta &quot;Rascunhos&quot; em:">
 <!ENTITY draftsFolderOn.accesskey "c">
-<!ENTITY draftInOtherFolder.label "Outro:">
+<!ENTITY draftInOtherFolder.label "Outra:">
 <!ENTITY draftInOtherFolder.accesskey "t">
-<!ENTITY keepTemplates.label "Guardar os papéis de carta em:">
+<!ENTITY keepTemplates.label "Guardar modelos em:">
 <!-- LOCALIZATION NOTE (templatesFolderOn.label): OK to translate this, bug #57440 -->
 <!ENTITY templatesFolderOn.label "Pasta &quot;Modelos&quot; em:">
 <!ENTITY templatesFolderOn.accesskey "m">
-<!ENTITY templateInOtherFolder.label "Outro:">
-<!ENTITY templateInOtherFolder.accesskey "u">
+<!ENTITY templateInOtherFolder.label "Outra:">
+<!ENTITY templateInOtherFolder.accesskey "O">

@@ -2,11 +2,11 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY viewLog.title "Registo dos Filtros">
-<!ENTITY viewLogInfo.text "O Registo do Filtro documenta os filtros que funcionaram nesta conta. Use a caixa de verificação abaixo para activar a entrada.">
-<!ENTITY clearLog.label "Limpar Registo">
+<!ENTITY viewLog.title "Registo dos filtragem">
+<!ENTITY viewLogInfo.text "O registo do filtros documenta os filtros que foram executados nesta conta. Utilize a caixa de verificação abaixo para ativar o serviço.">
+<!ENTITY clearLog.label "Limpar registo">
 <!ENTITY clearLog.accesskey "L">
-<!ENTITY enableLog.label "Activar o Registo do Filtro">
+<!ENTITY enableLog.label "Ativar registo">
 <!ENTITY enableLog.accesskey "A">
 <!ENTITY closeLog.label "Fechar">
-<!ENTITY closeLog.accesskey "f">
+<!ENTITY closeLog.accesskey "F">

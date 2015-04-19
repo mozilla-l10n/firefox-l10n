@@ -3,17 +3,17 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!-- Message Header View Popup -->
-<!ENTITY AddToAddressBook.label            "Adicionar ao Livro de Endereços...">
+<!ENTITY AddToAddressBook.label            "Adicionar ao livro de endereços...">
 <!ENTITY AddToAddressBook.accesskey        "A">
-<!ENTITY EditContact.label                 "Editar contato…">
+<!ENTITY EditContact.label                 "Editar contacto…">
 <!ENTITY EditContact.accesskey             "E">
-<!ENTITY ViewContact.label                 "Ver contato">
+<!ENTITY ViewContact.label                 "Ver contacto">
 <!ENTITY ViewContact.accesskey             "V">
-<!ENTITY SendMailTo.label                  "Criar Mensagem Para...">
+<!ENTITY SendMailTo.label                  "Criar mensagem para...">
 <!ENTITY SendMailTo.accesskey              "s">
-<!ENTITY CopyEmailAddress.label            "Copiar Endereços de Correio Electrónico">
+<!ENTITY CopyEmailAddress.label            "Copiar endereços de correio eletrónico">
 <!ENTITY CopyEmailAddress.accesskey        "C">
-<!ENTITY CreateFilterFrom.label            "Criar Filtro De...">
+<!ENTITY CreateFilterFrom.label            "Criar filtro de...">
 <!ENTITY CreateFilterFrom.accesskey        "F">
 <!ENTITY openInBrowser.label               "Abrir no navegador">
 <!ENTITY openInBrowser.accesskey           "o">
@@ -21,9 +21,9 @@
 <!ENTITY bookmarkLinkCmd.accesskey         "ç">
 <!ENTITY copyLinkCmd.label                 "Copiar localização da ligação">
 <!ENTITY copyLinkCmd.accesskey             "C">
-<!ENTITY CopyMessageId.label               "Copiar o ID da Mensagem">
+<!ENTITY CopyMessageId.label               "Copiar o ID da mensagem">
 <!ENTITY CopyMessageId.accesskey           "C">
-<!ENTITY OpenMessageForMsgId.label         "Abrir Mensagem para o ID">
+<!ENTITY OpenMessageForMsgId.label         "Abrir mensagem para o ID">
 <!ENTITY OpenMessageForMsgId.accesskey     "o">
-<!ENTITY OpenBrowserWithMsgId.label        "Abrir o Navegador com o ID da Mensagem">
-<!ENTITY OpenBrowserWithMsgId.accesskey    "b">
+<!ENTITY OpenBrowserWithMsgId.label        "Abrir o navegador com o ID da mensagem">
+<!ENTITY OpenBrowserWithMsgId.accesskey    "n">

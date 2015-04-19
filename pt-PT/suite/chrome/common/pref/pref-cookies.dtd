@@ -25,7 +25,7 @@
 <!ENTITY acceptNormally.label           "Aceitar cookies normalmente">
 <!ENTITY acceptNormally.accesskey       "n">
 
-<!ENTITY acceptForSession.label         "Aceitar apenas para a sessão actual">
+<!ENTITY acceptForSession.label         "Aceitar apenas para a sessão atual">
 <!ENTITY acceptForSession.accesskey     "s">
 
 <!ENTITY acceptforNDays.label           "Aceitar cookies para">
@@ -34,7 +34,7 @@
 
 <!ENTITY warnAboutCookies.label         "Perguntar para cada cookie">
 <!ENTITY warnAboutCookies.accesskey     "A">
-<!ENTITY forCurrentSession.label        "excepto para cookies de sessão">
+<!ENTITY forCurrentSession.label        "exceto para cookies de sessão">
 <!ENTITY forCurrentSession.accesskey    "e">
 
 <!ENTITY manageCookies.label            "Gerir Cookies e sítios">
