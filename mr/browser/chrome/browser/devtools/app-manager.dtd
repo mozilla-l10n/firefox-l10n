@@ -36,9 +36,9 @@
 <!ENTITY device.permissionsHelpLink "https://developer.mozilla.org/docs/Web/Apps/App_permissions">
 <!ENTITY device.browserTabs "ब्राउजर टॅब्स">
 <!ENTITY device.browserTabsTooltip "जुळलेल्या साधनाच्या ब्राउजरमध्ये टॅब्जच्या सूचीचे दृष्य">
-
+<!ENTITY device.debugBrowserTab "डिबग">
 <!ENTITY device.debugBrowserTabTooltip "साधनवारील ह्या ब्राउजर टॅबशी जुळलेले डेव्हलपर साधने उघडा">
-
+<!ENTITY device.help "मदत">
 
 <!ENTITY connection.connectTooltip "साधनाशी जोडणी करा">
 <!ENTITY connection.disconnect "खंडीत करा">
@@ -66,19 +66,19 @@
 <!ENTITY connection.startRegisteredSimulator "सुरु करा:">
 
 <!ENTITY projects.localApps "स्थानीय ॲप्स">
-
+<!ENTITY projects.addApp "समाविष्ट करा">
 <!ENTITY projects.addPackaged "संकुलित ॲप समाविष्ट करा">
 <!ENTITY projects.addPackagedTooltip "संगणकपासून नवीन संकुलित ॲप (एक डिरेक्ट्री) समाविष्ट करा">
 <!ENTITY projects.addHosted "होस्ट केलेले ॲप समाविष्ट करा">
 <!ENTITY projects.addHostedTooltip "दूरस्त संकेतस्थळापासून नवीन होस्टेड ॲपचे (manifest.webapp फाइल करिता दुवा) समावेश करा">
-
+<!ENTITY projects.title "स्थानीय ॲप्स">
 <!ENTITY projects.appDetails "ॲप तपशील">
 <!ENTITY projects.removeAppFromList "ह्या ॲपला कार्यरत ॲप्सची सूचीतून काढून टाका. यामुळे त्यास साधन किंवा सिम्युलेटरपासून काढून टाकले जाणार नाही.">
 <!ENTITY projects.updateApp "अद्यावत">
 <!ENTITY projects.updateAppTooltip "वैधता तपासणी सुरू करा आणि ॲपला जुळलेल्या साधनाशी अद्यावत करा">
-
+<!ENTITY projects.debugApp "डिबग">
 <!ENTITY projects.debugAppTooltip "ह्या ॲपशी जुळलेले डेव्हलपर साधने उघडा">
-
+<!ENTITY projects.saveManifest "साठवा">
 <!ENTITY projects.saveManifestTooltip "खालील मॅनिफेस्ट एडिटरची अंतर्भुत माहिती साठवा">
 <!ENTITY projects.hostedManifestPlaceHolder2 "http://example.com/app/manifest.webapp">
 <!ENTITY projects.noProjects "प्रकल्प नाही. नवीन संकुलीत ॲप खालील (स्थानीय डिरेक्ट्री) किंवा होस्टेड ॲपमध्ये (मॅनिफेस्ट फाइलकरिता दुवा) समाविष्ट करा.">
@@ -92,6 +92,7 @@
 <!ENTITY projects.hosted "होस्टेड">
 <!ENTITY projects.packaged "संकुलीत केले">
 
+<!ENTITY help.title "ॲप व्यवस्थापक">
 <!ENTITY help.close "बंद करा">
 <!ENTITY help.intro "हे साधन सहत्व साधनांवरील (म्हणजेच Firefox OS) वेब ॲप्स बिल्ड करेल आणि इंस्टॉल करेल. <strong>ॲप्स</strong> टॅब तुम्हाला ॲपची वैधता आणि इंस्टॉलेशनमध्ये मदत पुरवेल. <strong>साधन</strong> टॅब तुम्हाला जुळलेल्या साधनाची माहिती पुरवेल. साधनाशी जोडणीकरिता किंवा सिम्युलेटर सुरू करण्यासाठी तळातील साधनपट्टीचा वापर करा.">
 <!ENTITY help.usefullLinks "उपयोगी दुवा:">
