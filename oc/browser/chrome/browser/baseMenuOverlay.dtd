@@ -14,10 +14,10 @@
                        for the help button in the menubar but Gnome does not.   -->
 <!ENTITY helpMenuWin.label        "Ajuda"> 
 <!ENTITY helpMenuWin.accesskey    "A">
-
-
-
-
+<!ENTITY aboutProduct2.label      "A prepaus de &brandShorterName;">
+<!ENTITY aboutProduct2.accesskey  "A">
+<!ENTITY productHelp2.label       "Ajuda de &brandShorterName;">
+<!ENTITY productHelp2.accesskey   "j">
 <!ENTITY helpMac.commandkey       "?">
 
 <!ENTITY helpKeyboardShortcuts.label     "Acorchis de clavièr">
@@ -26,7 +26,8 @@
 <!ENTITY helpSafeMode.label       "Reaviar amb los moduls desactivats…">
 <!ENTITY helpSafeMode.accesskey   "R">
 
-
+<!ENTITY healthReport2.label      "Bilanç de santat de &brandShorterName;">
+<!ENTITY healthReport2.accesskey  "B">
 
 <!ENTITY helpTroubleshootingInfo.label      "Entresenhas de depanatge">
 <!ENTITY helpTroubleshootingInfo.accesskey  "d">
@@ -34,13 +35,15 @@
 <!ENTITY helpFeedbackPage.label      "Balhar vòstre vejaire…">
 <!ENTITY helpFeedbackPage.accesskey  "B">
 
-
+<!ENTITY helpShowTour2.label            "Visita guidada de &brandShorterName;">
+<!ENTITY helpShowTour2.accesskey        "V">
 
 <!ENTITY preferencesCmdMac.label        "Preferéncias...">
-<!ENTITY preferencesCmdMac.commandkey   "Preferéncias...">
+<!ENTITY preferencesCmdMac.commandkey   ",">
 
 <!ENTITY servicesMenuMac.label          "Servicis">
 
+<!ENTITY hideThisAppCmdMac2.label       "Amagar &brandShorterName;">
 <!ENTITY hideThisAppCmdMac2.commandkey  "H">
 
 <!ENTITY hideOtherAppsCmdMac.label      "Amagar los autres">

@@ -17,10 +17,10 @@
 <!ENTITY engine.bookmarks.accesskey       "M">
 
 
-<!ENTITY engine.history.label             "l'istoric">
+<!ENTITY engine.history.label             "Istoric">
 <!ENTITY engine.history.accesskey         "r">
-<!ENTITY engine.tabs.label                "los onglets">
-<!ENTITY engine.tabs.accesskey            "o">
+<!ENTITY engine.tabs.label                "Onglets">
+<!ENTITY engine.tabs.accesskey            "O">
 <!ENTITY engine.passwords.label           "Los senhals">
 <!ENTITY engine.passwords.accesskey       "h">
 <!ENTITY engine.addons.label              "Los moduls complementaris (ordenador)">

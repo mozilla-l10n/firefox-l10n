@@ -77,9 +77,9 @@
 <!ENTITY btnConsoleReflows      "Reflows">
 
 <!ENTITY filterOutput.placeholder "Filtre de sortida">
-<!ENTITY btnClear.label        "Netejar">
+<!ENTITY btnClear.label        "Voidar la consòla">
 <!ENTITY btnClear.tooltip      "Voidar la Consòla Web">
-<!ENTITY btnClear.accesskey    "r">
+<!ENTITY btnClear.accesskey    "V">
 
 <!ENTITY fullZoomEnlargeCmd.commandkey  "+">
 <!-- + is above this key on many keyboards -->

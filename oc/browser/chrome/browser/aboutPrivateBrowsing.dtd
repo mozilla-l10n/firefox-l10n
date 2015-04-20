@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY aboutPrivateBrowsing.title            "Sètz a navigar d'un biais privat">
-<!ENTITY aboutPrivateBrowsing.title.normal     "Dobrir una fenèstra de navigacion &amp;privada ?">
+<!ENTITY aboutPrivateBrowsing.title.normal     "Dobrir una fenèstra de navigacion privada ?">
 
 <!ENTITY aboutPrivateBrowsing.subtitle         "&brandShortName; memorizarà pas pus l'istoric d'aqueste sesilha.">
 <!ENTITY aboutPrivateBrowsing.subtitle.normal  "&brandShortName; memorizarà pas pus l'istoric d'aqueste sesilha.">

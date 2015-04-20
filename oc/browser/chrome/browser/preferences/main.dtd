@@ -35,7 +35,7 @@
 
 
 <!ENTITY isDefault.label                  "&brandShortName; es actualament vòstre navigador per defaut">
-<!ENTITY isNotDefault.label               "Actualament, &brandShortName; es pas vòstre navigador per defaut">
+<!ENTITY isNotDefault.label               "&brandShortName; es pas vòstre navigador per defaut">
 
 
 
