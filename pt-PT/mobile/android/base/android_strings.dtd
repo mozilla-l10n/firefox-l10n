@@ -168,7 +168,7 @@
 <!ENTITY home_add_panel_installed "\u0027&formatS;\u0027 adicionado à sua página inicial">
 <!ENTITY pref_category_home_content_settings "Definições de conteúdo">
 <!ENTITY pref_home_updates "Atualizações automáticas">
-
+<!ENTITY pref_home_updates_enabled "Ativadas">
 <!ENTITY pref_home_updates_wifi "Apenas sobre Wi-Fi">
 <!ENTITY pref_home_suggested_sites "Mostrar sugestões de sítios">
 <!ENTITY pref_home_suggested_sites_summary "Apresentar atalhos para sítios na sua página inicial que achamos que pode considerar interessantes">
