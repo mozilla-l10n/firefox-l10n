@@ -84,10 +84,10 @@ when there are no windows but Firefox is still running. -->
 
 <!ENTITY toolbarContextMenu.reloadAllTabs.label "Recargar todas as pestanyas">
 <!ENTITY toolbarContextMenu.reloadAllTabs.accesskey "R">
-<!ENTITY toolbarContextMenu.bookmarkAllTabs.label "Anyader todas as pestanyas en marcapachinas…">
-<!ENTITY toolbarContextMenu.bookmarkAllTabs.accesskey "A">
-<!ENTITY toolbarContextMenu.undoCloseTab.label "Desfer a zarradura d'a zaguera pestanya">
-<!ENTITY toolbarContextMenu.undoCloseTab.accesskey "D">
+<!ENTITY toolbarContextMenu.bookmarkAllTabs.label "Anyader as pestanyas a marcapachinas…">
+<!ENTITY toolbarContextMenu.bookmarkAllTabs.accesskey "t">
+<!ENTITY toolbarContextMenu.undoCloseTab.label "Desfer o zarramiento d'a zaguera pestanya">
+<!ENTITY toolbarContextMenu.undoCloseTab.accesskey "f">
 
 <!ENTITY pageSourceCmd.label "Codigo fuent d'a pachina">
 <!ENTITY pageSourceCmd.accesskey "o">
@@ -363,7 +363,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuCustomizeExit.tooltip "Rematar a personalización">
 <!ENTITY appMenuHistory.label "Historial">
 <!ENTITY appMenuHistory.showAll.label "Amostrar tot lo historial">
-<!ENTITY appMenuHistory.clearRecent.label "Borrar o historial recient…">
+<!ENTITY appMenuHistory.clearRecent.label "Limpiar o historial recient...">
 <!ENTITY appMenuHistory.restoreSession.label "Recuperar a sesión anterior">
 <!ENTITY appMenuHistory.viewSidebar.label "Amostrar a barra lateral de l'historial">
 <!ENTITY appMenuHelp.tooltip "Ubrir o menú d'aduya">
@@ -565,7 +565,7 @@ items are mutually exclusive. -->
 <!ENTITY mediaHideControls.label     "Amagar os controls">
 <!ENTITY mediaHideControls.accesskey "c">
 <!ENTITY videoFullScreen.label       "Pantalla completa">
-<!ENTITY videoFullScreen.accesskey   "P">
+<!ENTITY videoFullScreen.accesskey   "c">
 <!ENTITY videoSaveImage.label        "Alzar a captura de pantalla como…">
 <!ENTITY videoSaveImage.accesskey    "z">
 <!-- LOCALIZATION NOTE: The access keys for "Show Statistics" and
@@ -739,7 +739,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY customizeMode.lwthemes.myThemes "Os míos temas">
 <!ENTITY customizeMode.lwthemes.recommended "Recomendau">
 <!ENTITY customizeMode.lwthemes.menuManage "Chestionar">
-<!ENTITY customizeMode.lwthemes.menuManage.accessKey "M">
+<!ENTITY customizeMode.lwthemes.menuManage.accessKey "N">
 <!ENTITY customizeMode.lwthemes.menuGetMore "Aconseguir mas temas">
 <!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "G">
 <!ENTITY customizeMode.deveditionTheme.label2 "Usar o tema d'a Developer Edition">
