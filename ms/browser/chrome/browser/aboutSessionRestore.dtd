@@ -13,10 +13,11 @@
 <!ENTITY restorepage.startNew       "Memulakan keseluruhan sesi pelungsuran">
 
 <!ENTITY restorepage.tryagainButton "Baik pulih">
-
+<!ENTITY restorepage.restore.access "R">
 <!ENTITY restorepage.closeButton    "Tutup">
+<!ENTITY restorepage.close.access   "C">
 
-
+<!ENTITY restorepage.restoreHeader  "Baik pulih">
 <!ENTITY restorepage.listHeader     "Tetingkap dan Tab">
 <!-- LOCALIZATION NOTE: &#37;S will be replaced with a number. -->
 <!ENTITY restorepage.windowLabel    "Tetingkap &#037;S">
@@ -25,6 +26,12 @@
 
 
 
+<!ENTITY welcomeback2.restoreButton  "Jom!">
+<!ENTITY welcomeback2.restoreButton.access "L">
+
+<!ENTITY welcomeback2.tabtitle      "Berjaya!">
+
+<!ENTITY welcomeback2.pageTitle     "Berjaya!">
 
 
 

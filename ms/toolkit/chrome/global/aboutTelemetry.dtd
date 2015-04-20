@@ -8,6 +8,7 @@
 
 <!ENTITY aboutTelemetry.telemetryDisabled "  Telemetri ialah <span>dilumpuhkan</span>.">
 
+<!ENTITY aboutTelemetry.generalDataSection "     Data Umum">
 
 <!ENTITY aboutTelemetry.slowSqlSection "  Penyata SQL Lambat">
 

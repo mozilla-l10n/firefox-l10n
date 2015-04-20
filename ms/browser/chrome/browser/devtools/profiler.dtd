@@ -14,6 +14,8 @@
 <!-- LOCALIZATION NOTE (profilerUI.stopNotice1/2): This is the label shown
   -  in the call list view while recording a profile. -->
 
+<!ENTITY profilerUI.stopNotice1    "Klik pada">
+
 <!-- LOCALIZATION NOTE (profilerUI.loadingNotice): This is the label shown
   -  in the call list view while loading a profile. -->
 
@@ -37,7 +39,7 @@
 
 <!ENTITY profilerUI.toolbar.waterfall "Garis masa">
 <!ENTITY profilerUI.toolbar.js-calltree "JavaSkrip">
-
+<!ENTITY profilerUI.toolbar.memory-calltree "Memori">
 
 
 <!-- LOCALIZATION NOTE (profilerUI.table.*): These strings are displayed

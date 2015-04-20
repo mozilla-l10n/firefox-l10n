@@ -39,4 +39,4 @@
 
 <!ENTITY plugin.file                                         "Fail">
 <!ENTITY plugin.mimeTypes                                    "Jenis MIME">
-
+<!ENTITY plugin.flashProtectedMode.label                     "Hidupkan mod perlindungan Adobe Flash">
