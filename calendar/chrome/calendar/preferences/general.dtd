@@ -13,6 +13,10 @@
 <!ENTITY pref.dateformat.long "長い形式" >
 <!ENTITY pref.dateformat.short "短い形式"  >
 
+<!ENTITY pref.timezones.caption "タイムゾーン">
+<!ENTITY pref.timezones.label "現在位置のタイムゾーンにもっとも近い都市を選択してください:">
+<!ENTITY pref.timezones.accesskey "S">
+
 <!ENTITY pref.defaults.label "新しい予定または ToDo のデフォルト値">
 <!ENTITY pref.events.label "予定">
 <!ENTITY pref.tasks.label "ToDo">
@@ -28,6 +32,10 @@
 <!ENTITY pref.default_task_offset_current.label "現在時刻から">
 <!ENTITY pref.default_task_offset_start.label "着手から">
 <!ENTITY pref.default_task_offset_next_hour.label "次の 0 分から">
+
+<!ENTITY pref.calendar.todaypane.agenda.caption "Today ペイン">
+<!ENTITY pref.soondays.label "近日中セクションの表示期間:">
+<!ENTITY pref.soondays.accesskey "u">
 
 <!ENTITY pref.accessibility.label "アクセシビリティ" >
 <!ENTITY pref.systemcolors.label "システムのカラーに最適化する" >
