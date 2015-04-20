@@ -145,6 +145,8 @@
 <!ENTITY messagePaneVertical.accesskey  "s">
 <!ENTITY showFolderPaneCmd.label "Kansiopaneeli">
 <!ENTITY showFolderPaneCmd.accesskey "K">
+<!ENTITY showFolderPaneColsCmd.label "Kansiopaneelin sarakkeet">
+<!ENTITY showFolderPaneColsCmd.accesskey "s">
 <!ENTITY showMessageCmd.label  "Viestipaneeli">
 <!ENTITY showMessageCmd.accesskey  "V">
 
@@ -593,8 +595,10 @@
 <!ENTITY manageTags.accesskey "M">
 
 <!-- Folder Pane -->
-<!ENTITY folderColumn.label  "Nimi">
-<!ENTITY folderSizeColumn.label  "Koko">
+<!ENTITY folderNameColumn.label "Nimi">
+<!ENTITY folderUnreadColumn.label "Lukematta">
+<!ENTITY folderTotalColumn.label "Yhteensä">
+<!ENTITY folderSizeColumn.label "Koko">
 
 <!-- Folder Pane Context Menu -->
 <!ENTITY folderContextGetMessages.label "Hae viestit">
