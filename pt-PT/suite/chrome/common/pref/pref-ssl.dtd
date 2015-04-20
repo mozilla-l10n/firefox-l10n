@@ -5,7 +5,7 @@
 <!ENTITY  SSLProtocolVersions.caption       "Versões do protocolo SSL">
 <!ENTITY  SSLWarnings.caption               "Avisos SSL">
 <!ENTITY  SSLMixedContent.caption           "Conteúdo misto">
-<!ENTITY  SSLClientAuthMethod.caption       "Selecção do certificado de cliente">
+<!ENTITY  SSLClientAuthMethod.caption       "Seleção do certificado de cliente">
 
 <!ENTITY pref.ssl.title                     "Secure Sockets Layer (SSL)">
 <!ENTITY limit.description                  "Pode indicar que protocolos de cifra usar para ligações seguras. Escolha apenas uma versão ou um intervalo de versões.">
@@ -19,7 +19,7 @@
 <!ENTITY limit.tls12.label                  "TLS 1.2">
 <!ENTITY limit.tls12.accesskey              "2">
 
-<!ENTITY warn.description2                  "O &brandShortName; pode alertá-lo do estado de segurança da página web que está a visualizar. Configure o &brandShortName; para mostrar um aviso quando:">
+<!ENTITY warn.description2                  "O &brandShortName; pode alertar do estado de segurança da página web que está a visualizar. Configure o &brandShortName; para mostrar um aviso quando:">
 <!ENTITY warn.enteringsecure                "Carregar uma página que suporte cifra">
 <!ENTITY warn.enteringsecure.accesskey      "C">
 <!ENTITY warn.insecurepost                  "Enviar dados de um formulário de uma página não cifrada para outra página não cifrada">
@@ -34,11 +34,11 @@
 <!ENTITY block.activecontent.accesskey      "g">
 <!ENTITY warn.mixeddisplaycontent           "Avisar-me quando páginas cifradas contêm outros tipos de conteúdo misto">
 <!ENTITY warn.mixeddisplaycontent.accesskey "c">
-<!ENTITY block.displaycontent               "Não carregar outro tipo de conteúdo msito ou páginas cifradas">
+<!ENTITY block.displaycontent               "Não carregar outro tipo de conteúdo misto ou páginas cifradas">
 <!ENTITY block.displaycontent.accesskey     "m">
 
-<!ENTITY certselect.description             "Decide como é que o &brandShortName; selecciona um certificado de segurança para apresentar em sítios web que necessitam:">
-<!ENTITY certselect.auto                    "Seleccionar automaticamente">
+<!ENTITY certselect.description             "Decide como é que o &brandShortName; seleciona um certificado de segurança para apresentar em sítios web que necessitam:">
+<!ENTITY certselect.auto                    "Selecionar automaticamente">
 <!ENTITY certselect.auto.accesskey          "e">
 <!ENTITY certselect.ask                     "Pedir sempre">
 <!ENTITY certselect.ask.accesskey           "d">

@@ -3,23 +3,23 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!-- These are added to the Advanced - Scripts & Plug-ins panel -->
-<!ENTITY enbPluginCheckMailNews.label     "Correio &amp; Grupos de Discussão">
+<!ENTITY enbPluginCheckMailNews.label     "Correio e grupos de discussão">
 <!ENTITY enbPluginCheckMailNews.accesskey "o">
 
 <!-- These are added to the Window menu -->
-<!ENTITY mail.label                       "Correio &amp; Grupos de Discussão">
+<!ENTITY mail.label                       "Correio e grupos de discussão">
 <!ENTITY mail.accesskey                   "C">
-<!ENTITY addressbook.label                "Livro de Endereços">
+<!ENTITY addressbook.label                "Livro de endereços">
 <!ENTITY addressbook.accesskey            "L">
 
 <!-- These are added to Preferences dialog -->
-<!ENTITY viewingMessages.label            "Apresentação da Mensagem">
+<!ENTITY viewingMessages.label            "Apresentação da mensagem">
 <!ENTITY notifications.label              "Notificações">
 <!ENTITY address.label                    "Endereçamento">
 <!ENTITY composingMessages.label          "Composição">
-<!ENTITY format.label                     "Formato de Envio">
-<!ENTITY return.label                     "Recibos de Leitura">
-<!ENTITY junk.label                       "Lixo electrónico">
+<!ENTITY format.label                     "Formato de envio">
+<!ENTITY return.label                     "Recibos de leitura">
+<!ENTITY junk.label                       "Lixo eletrónico">
 <!ENTITY tags.label                       "Etiquetas">
 <!ENTITY characterEncoding2.label         "Codificação de texto">
-<!ENTITY networkStorage.label             "Rede &amp; Armazenamento">
+<!ENTITY networkStorage.label             "Rede e armazenamento">

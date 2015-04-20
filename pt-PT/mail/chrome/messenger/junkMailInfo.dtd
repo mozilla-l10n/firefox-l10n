@@ -2,10 +2,10 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY window.title "Sobre o Lixo Electrónico">
+<!ENTITY window.title "Sobre o lixo eletrónico">
 <!ENTITY window.width "450">
-<!ENTITY info1a.label "O &brandShortName; detecta automaticamente as mensagens que chegam e que parecem lixo electrónico (também conhecidas como spam). mensagens que o &brandShortName; pense que é lixo electrónico apresentam um ícone Lixo">
+<!ENTITY info1a.label "O &brandShortName; deteta as mensagens recebidas e que parecem lixo eletrónico (também conhecidas como spam). As mensagens que o &brandShortName; considere lixo eletrónico exibem um ícone identificativo">
 <!ENTITY info1b.label ".">
-<!ENTITY info2.label "Primeiro, tem de treinar o &brandShortName; e identificar o lixo electrónico usando o botão Lixo na barra de ferramentas para marcar mensagens como lixo electrónico ou não.">
-<!ENTITY info3.label "Uma vez que o &brandShortName; está a identificar correctamente o lixo electrónico, pode usar os controlos de Lixo Electrónico para automaticamente mover o lixo electrónico que chega para a pasta Lixo.">
+<!ENTITY info2.label "Para que o &brandShortName; identifique o lixo eletrónico, deve utilizar o botão Lixo eletrónico na barra de ferramentas para marcar se as mensagens são lixo eletrónico ou não.">
+<!ENTITY info3.label "Assim que o &brandShortName; consiga identificar corretamente o lixo eletrónico, pode utilizar os controlos de lixo eletrónico para enviar automaticamente essas mensagens para a pasta de lixo eletrónico.">
 <!ENTITY info4.label "Para mais informações, clique em Ajuda.">

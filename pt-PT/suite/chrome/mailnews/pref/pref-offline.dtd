@@ -5,7 +5,7 @@
 <!-- extracted from content/pref-offline.xul -->
 
 <!--LOCALIZATION NOTE : FILE The 'Offline' preferences dialog -->
-<!ENTITY pref.network.title               "Rede &amp; Armazenamento">
+<!ENTITY pref.network.title               "Rede e armazenamento">
 <!ENTITY pref.offline.caption             "Desligado">
 <!ENTITY textStartUp                      "Ao iniciar:">
 <!ENTITY textStartUp.accesskey            "o">
@@ -13,7 +13,7 @@
 <!ENTITY menuitemAskMe                    "Perguntar-me pelo estado ao iniciar">
 <!ENTITY menuitemAlwaysOnline             "Iniciar sempre ligado">
 <!ENTITY menuitemAlwaysOffline            "Iniciar sempre desligado">
-<!ENTITY menuitemAutomatic                "Detectar automaticamente (se disponível)">
+<!ENTITY menuitemAutomatic                "Detetar automaticamente (se disponível)">
 <!ENTITY textGoingOnline                  "Enviar mensagens não enviadas quando ficar ligado?">
 <!ENTITY radioAutoSend                    "Sim">
 <!ENTITY radioAutoSend.accesskey          "S">

@@ -1,4 +1,4 @@
-﻿<!--
+<!--
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
@@ -39,7 +39,7 @@
 
 <!ENTITY  formsTab              "Formulários">
 <!ENTITY  formsTab.accesskey    "F">
-<!ENTITY  formAction            "Acção do formulário">
+<!ENTITY  formAction            "Ação do formulário">
 <!ENTITY  formMethod            "Método">
 <!ENTITY  formName              "Nome">
 <!ENTITY  formEncoding          "Codificação:">
@@ -100,7 +100,7 @@
 <!ENTITY  securityTab           "Segurança">
 <!ENTITY  securityTab.accesskey "S">
 <!ENTITY  securityHeader        "Informação de segurança para esta página">
-<!ENTITY  securityView.certView "Ver ceritificado">
+<!ENTITY  securityView.certView "Ver certificado">
 <!ENTITY  securityView.accesskey "V">
 <!ENTITY  securityView.unknown   "Desconhecido">
 
@@ -110,7 +110,7 @@
 <!ENTITY  securityView.identity.domain   "Sítio web:">
 <!ENTITY  securityView.identity.verifier "Verificado por:">
 
-<!ENTITY  securityView.privacy.header                   "Privacidade &amp; Histórico">
+<!ENTITY  securityView.privacy.header                   "Privacidade e Histórico">
 <!ENTITY  securityView.privacy.history                  "Já visitei este sítio hoje?">
 <!ENTITY  securityView.privacy.cookies                  "Este sítio web está a guardar informação (cookies) no meu computador?">
 <!ENTITY  securityView.privacy.viewCookies              "Mostrar as cookies">
