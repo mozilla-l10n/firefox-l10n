@@ -33,9 +33,10 @@ LOCALIZATION NOTE : Do not translate any of the occurrences of the word
 <!ENTITY selectDescription.accesskey "P">
 <!ENTITY acctName.label "Nome:">
 <!ENTITY acctName.accesskey "N">
-<!ENTITY back.label "&lt; Recuar">
-<!ENTITY forward.label "Avançar &gt;">
-<!ENTITY finish.label "Terminar">
+
+<!ENTITY back.label "&lt; Retroceder">
+<!ENTITY forward.label "Seguinte &gt;">
+<!ENTITY finish.label "Concluir">
 <!ENTITY cancel.label "Cancelar">
 <!ENTITY select.label "ou selecione o tipo de dados a importar:">
 <!ENTITY title.label "Título">

@@ -66,7 +66,7 @@
 <!-- LOCALIZATION NOTE (maxMessagesEnd.label) : see note for maxMessagesStart.label -->
 <!ENTITY maxMessagesEnd.label "mensagens">
 <!ENTITY alwaysAuthenticate.label "Pedir sempre autenticação ao ligar a este servidor">
-<!ENTITY alwaysAuthenticate.accesskey "ç">
+<!ENTITY alwaysAuthenticate.accesskey "u">
 <!ENTITY newsrcFilePath.label "Ficheiro newsrc:">
 <!ENTITY newsrcPicker.label "Selecione o ficheiro newsrc">
 <!ENTITY abbreviate.label "Mostrar nome dos grupos de notícias no painel de correio como:">
