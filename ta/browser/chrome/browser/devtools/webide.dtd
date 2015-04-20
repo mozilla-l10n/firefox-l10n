@@ -41,8 +41,8 @@
 <!ENTITY runtimeMenu_showMonitor_accesskey "M">
 <!ENTITY runtimeMenu_showDevicePrefs_label "சாதன முன்னுரிமைகள்">
 <!ENTITY runtimeMenu_showDevicePrefs_accesskey "D">
-
-
+<!ENTITY runtimeMenu_showSettings_label "சாதன அமைவுகள்">
+<!ENTITY runtimeMenu_showSettings_accesskey "s">
 
 <!ENTITY viewMenu_label "பார்">
 <!ENTITY viewMenu_accesskey "V">
@@ -163,6 +163,8 @@
 <!ENTITY devicepreference_addnew "புதிய முன்னுரிமையைச் சேர்">
 <!-- Device Settings -->
 
+<!ENTITY devicesetting_title "சாதன அமைவுகள்">
+<!ENTITY devicesetting_search "தேடல் அமைவுகள்">
 
 
 
