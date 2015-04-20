@@ -3,18 +3,22 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY itemGeneral.label       "General">
+<!ENTITY dataChoicesTab.label    "Decisiuns da datas">
 <!ENTITY itemDisplay.label       "Leger &amp; vista">
 <!ENTITY itemUpdate.label        "Exequir l'actualisaziun">
 <!ENTITY itemNetworking.label    "Rait &amp; capacitad da memorisar">
 <!ENTITY itemCertificates.label  "Certificats">
 
 <!-- General Settings -->
-
-<!ENTITY submitTelemetry.label         "Trametter datas da prestaziun">
-<!ENTITY submitTelemetry.accesskey     "P">
-<!ENTITY telemetryInfoLink.label       "Dapli infurmaziuns davart telemetria">
 <!ENTITY enableGlodaSearch.label       "Activar la tschertga globala e l'indexaziun da messadis">
 <!ENTITY enableGlodaSearch.accesskey   "E">
+<!ENTITY allowHWAccel.label            "Utilisar sche pussaivel l'acceleraziun cun hardware da grafica">
+<!ENTITY allowHWAccel.accesskey        "h">
+
+<!ENTITY storeType.label               "Message Store Type for new accounts:">
+<!ENTITY storeType.accesskey           "T">
+<!ENTITY mboxStore.label               "Ina datoteca gronda (mbox)">
+<!ENTITY maildirStore.label            "Ina datoteca per messadi (maildir)">
 
 <!ENTITY scrolling.label               "Defilada">
 <!ENTITY useAutoScroll.label           "Activar la defilada automatica">
@@ -35,6 +39,19 @@
 <!ENTITY returnReceiptsInfo.label      "Reglar co tractar confermas da retschavida (MDN)">
 <!ENTITY showReturnReceipts.label      "Confermas da retschavida…">
 <!ENTITY showReturnReceipts.accesskey  "R">
+
+<!-- Data Choices -->
+<!ENTITY telemetrySection.label          "Telemetria">
+<!ENTITY telemetryDesc.label             "Cundivida infurmaziuns davart la prestaziun, l'utilisaziun, la hardware e la persunalisaziun dal program dad e-mails cun &vendorShortName; per gidar da meglierar &brandShortName; ">
+<!ENTITY enableTelemetry.label           "Activar la telemetria">
+<!ENTITY enableTelemetry.accesskey       "T">
+<!ENTITY telemetryLearnMore.label        "Ulteriuras infurmaziuns">
+
+<!ENTITY crashReporterSection.label      "Rapportader da collaps">
+<!ENTITY crashReporterDesc.label         "&brandShortName; trametta rapports davart collaps per gidar &vendorShortName; da render pli stabel e segir tes program dad e-mails">
+<!ENTITY enableCrashReporter.label       "Activar il rapportader da collaps">
+<!ENTITY enableCrashReporter.accesskey   "c">
+<!ENTITY crashReporterLearnMore.label    "Ulteriuras infurmaziuns">
 
 <!-- Display and Reading Settings -->
 <!ENTITY reading.caption               "Leger">
@@ -108,13 +125,13 @@
 <!-- Certificates -->
 <!ENTITY certSelection.description       "Sch'ina website dumonda il certificat da segirezza persunal:">
 <!ENTITY certs.auto                      "Tscherner automaticamain in">
-<!ENTITY certs.auto.accesskey            "m">
+<!ENTITY certs.auto.accesskey            "S">
 <!ENTITY certs.ask                       "Dumandar mintga giada">
 <!ENTITY certs.ask.accesskey             "A">
+<!ENTITY enableOCSP.label                "Laschar confermar la validitad da certificats entras dumandar servers da OCSP">
+<!ENTITY enableOCSP.accesskey            "O">
 
 <!ENTITY viewCertificates.label         "Mussar ils certificats">
 <!ENTITY viewCertificates.accesskey     "C">
-<!ENTITY validation.label               "Validaziun">
-<!ENTITY validation.accesskey           "V">
 <!ENTITY viewSecurityDevices.label      "Moduls da criptadi">
-<!ENTITY viewSecurityDevices.accesskey  "S">
+<!ENTITY viewSecurityDevices.accesskey  "c">
