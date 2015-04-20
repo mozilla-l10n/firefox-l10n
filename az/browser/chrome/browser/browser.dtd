@@ -86,7 +86,7 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY toolbarContextMenu.reloadAllTabs.accesskey "B">
 <!ENTITY toolbarContextMenu.bookmarkAllTabs.label "Bütün Vərəqləri Əlfəcinlə…">
 <!ENTITY toolbarContextMenu.bookmarkAllTabs.accesskey "V">
-<!ENTITY toolbarContextMenu.undoCloseTab.label "Qapatılan vərəqləri geri al">
+<!ENTITY toolbarContextMenu.undoCloseTab.label "Qapanmış vərəqləri geri al">
 <!ENTITY toolbarContextMenu.undoCloseTab.accesskey "g">
 
 <!ENTITY pageSourceCmd.label "Səhifə qaynağı">
@@ -363,7 +363,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuCustomizeExit.tooltip "Şəxsiləşdirməni Bitir">
 <!ENTITY appMenuHistory.label "Tarixçə">
 <!ENTITY appMenuHistory.showAll.label "Bütün Tarixçəni Göstər">
-<!ENTITY appMenuHistory.clearRecent.label "Son Tarixçəni Təmizlə…">
+<!ENTITY appMenuHistory.clearRecent.label "Son Tarixçəni Sil…">
 <!ENTITY appMenuHistory.restoreSession.label "Əvvəlki Seansı Bərpa et">
 <!ENTITY appMenuHistory.viewSidebar.label "Tarixçə yan panelini göstər">
 <!ENTITY appMenuHelp.tooltip "Kömək Menyusunu Aç">
@@ -779,7 +779,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY trackingContentBlocked.unblock2.label "Bu səhifə üçün qorumanı söndür">
 <!ENTITY trackingContentBlocked.unblock2.accesskey "s">
 <!ENTITY trackingContentBlocked.block.label "Qorumanı aktivləşdir">
-<!ENTITY trackingContentBlocked.block.accesskey "k">
+<!ENTITY trackingContentBlocked.block.accesskey "a">
 <!ENTITY trackingContentBlocked.disabled.message "İzləmə qoruması sönülüdür">
 
 <!ENTITY pointerLock.notification.message "İstənilən vaxt bunu bir daha göstərmək üçün ESC düyməsinə basın.">
