@@ -1,15 +1,7 @@
-<!-- This Source Code Form is subject to the terms of the Mozilla Public
-   - License, v. 2.0. If a copy of the MPL was not distributed with this
-   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+﻿<!-- extracted from am-main.xul -->
 
-<!-- extracted from am-main.xul -->
-
-
-
-<!ENTITY accountTitle.label "Configurações da Conta">
-
-<!ENTITY accountName.label "Nome da Conta:">
-
+<!ENTITY accountTitle.label "Configurações da conta">
+<!ENTITY accountName.label "Nome da conta:">
 <!ENTITY accountName.accesskey "n">
 <!ENTITY identityTitle.label "Identidade pré-definida">
 <!ENTITY identityDesc.label "Cada conta tem uma identidade, que é a informação que as outras pessoas veem quando leem as suas mensagens.">

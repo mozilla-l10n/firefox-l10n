@@ -12,11 +12,10 @@
 
 <!ENTITY serverName.accesskey "S">
 <!ENTITY userName.label "Nome de utilizador:">
-<!ENTITY userName.accesskey "e">
+<!ENTITY userName.accesskey "u">
 <!ENTITY port.label "Porta:">
 <!ENTITY port.accesskey "P">
-<!ENTITY serverPortDefault.label "Por omissão:">
-
+<!ENTITY serverPortDefault.label "Pré-definida:">
 <!-- LOCALIZATION NOTE (biffStart.label) : translate below 2 line with grammer dependency
         For example, in Japanese cases:
                 biffStart.label "every"
@@ -43,12 +42,12 @@
 <!ENTITY deleteByAgeFromServer.label "Durante">
 <!ENTITY deleteByAgeFromServer.accesskey "D">
 <!ENTITY daysEnd.label "dias">
-<!ENTITY deleteOnServer2.label "Até que eu as apague">
-<!ENTITY deleteOnServer2.accesskey "g">
-<!ENTITY downloadOnBiff.label "Transferir automaticamente novas mensagens">
+<!ENTITY deleteOnServer2.label "Até eu as eliminar">
+<!ENTITY deleteOnServer2.accesskey "A">
+<!ENTITY downloadOnBiff.label "Transferir novas mensagens automaticamente">
 <!ENTITY downloadOnBiff.accesskey "r">
-<!ENTITY username.label "O seu nome de entrada">
-<!ENTITY deleteMessagePrefix.label "Quando eu apagar uma mensagem:">
+<!ENTITY username.label "Nome de acesso">
+<!ENTITY deleteMessagePrefix.label "Se eu eliminar uma mensagem:">
 <!ENTITY modelMoveToTrash.label "Mover para esta pasta:">
 <!ENTITY modelMoveToTrash.accesskey "o">
 <!ENTITY modelMarkDeleted.label "Marcar como eliminada">
@@ -71,7 +70,7 @@
 <!-- LOCALIZATION NOTE (maxMessagesEnd.label) : see note for maxMessagesStart.label -->
 <!ENTITY maxMessagesEnd.label "mensagens">
 <!ENTITY alwaysAuthenticate.label "Pedir sempre autenticação ao ligar a este servidor">
-<!ENTITY alwaysAuthenticate.accesskey "ç">
+<!ENTITY alwaysAuthenticate.accesskey "u">
 <!ENTITY newsrcFilePath.label "Ficheiro newsrc:">
 <!ENTITY newsrcPicker.label "Selecione o ficheiro newsrc">
 <!ENTITY abbreviate.label "Mostrar nome dos grupos de notícias no painel de correio como:">

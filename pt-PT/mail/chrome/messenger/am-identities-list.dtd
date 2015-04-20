@@ -7,8 +7,8 @@
 <!ENTITY identitiesListAdd.accesskey 	  "A">
 <!ENTITY identitiesListEdit.label 		  "Editar...">
 <!ENTITY identitiesListEdit.accesskey 	"E">
-<!ENTITY identitiesListDefault.label "Definir padrão">
-<!ENTITY identitiesListDefault.accesskey "D">
+<!ENTITY identitiesListDefault.label 	  "Pré-definida">
+<!ENTITY identitiesListDefault.accesskey "P">
 <!ENTITY identitiesListDelete.label 	  "Eliminar">
 <!ENTITY identitiesListDelete.accesskey "l">
 <!ENTITY identitiesListClose.label 		  "Fechar">

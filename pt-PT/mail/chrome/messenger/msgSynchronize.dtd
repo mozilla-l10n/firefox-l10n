@@ -20,4 +20,4 @@
 <!ENTITY selectButton.accesskey "S">
 <!ENTITY MsgSelectDesc.label "Escolha a pasta de correio e grupos de discussão para o modo desligado.">
 <!ENTITY MsgSelectInd.label "Transferir">
-<!ENTITY MsgSelectItems.label "Pastas e grupos de notícias">
+<!ENTITY MsgSelectItems.label "Pastas e Grupos de Discussão">

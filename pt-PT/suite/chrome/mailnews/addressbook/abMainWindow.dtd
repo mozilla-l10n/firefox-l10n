@@ -16,7 +16,7 @@
 <!ENTITY newListCmd.accesskey                           "L">  
 <!ENTITY newAddressBookCmd.label                        "Livro de Endereços..."> 
 <!ENTITY newAddressBookCmd.accesskey                    "i">  
-<!ENTITY newLDAPDirectoryCmd.label                      "Pasta LDAP...">
+<!ENTITY newLDAPDirectoryCmd.label                      "Diretório LDAP...">
 <!-- LOCALIZATION NOTE (newLDAPDirectoryCmd.accesskey) : DONT_TRANSLATE -->
 <!ENTITY newLDAPDirectoryCmd.accesskey                  "t">
 <!ENTITY newIM.label                                    "IM">
@@ -49,7 +49,7 @@
 <!ENTITY showAbToolbarCmd.accesskey                     "a">  
 <!ENTITY layoutMenu.label                               "Esquema">
 <!ENTITY layoutMenu.accesskey                           "E">
-<!ENTITY showDirectoryPane.label                        "Painel de pasta">
+<!ENTITY showDirectoryPane.label                        "Painel de diretório">
 <!ENTITY showDirectoryPane.accesskey                    "d">
 <!ENTITY showContactPane2.label                         "Painel de contactos">
 <!ENTITY showContactPane2.accesskey                     "c">

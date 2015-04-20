@@ -10,7 +10,7 @@
 <!ENTITY options.label "Opções">
 <!ENTITY optionInline.label "Modo em linha">
 <!ENTITY optionInline.accesskey "n">
-<!ENTITY optionDisplay.label "Modo de exibição">
+<!ENTITY optionDisplay.label "Modo de apresentação">
 <!ENTITY optionDisplay.accesskey "d">
 <!ENTITY optionLTR.label "Da esquerda para a direita">
 <!ENTITY optionLTR.accesskey "e">
