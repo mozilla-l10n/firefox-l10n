@@ -106,7 +106,10 @@ vòstre sistèma.</li>
 </ul>">
 
 <!ENTITY nssFailure2.title "La connexion segura a pas capitat">
-
+<!ENTITY nssFailure2.longDesc2 "<ul> 
+<li>La pagina qu'ensajatz de consultar pòt pas èsser afichada perque l'autenticitat de las donadas recebudas pòt pas èsser verificada.</li> 
+<li>Contactatz los proprietaris del sit Web per los n'assabentar. Tanben podètz utilizar la comanda dins lo menú d'ajuda per senhalar un site pas foncional.</li> 
+</ul>">
 
 <!ENTITY nssBadCert.title "La connexion segura a pas capitat">
 <!ENTITY nssBadCert.longDesc2 "<ul>
@@ -126,10 +129,8 @@ que &brandShortName; a l'autorizacion d'accedir al Web.</li>
 </ul>">
 
 <!ENTITY malwareBlocked.title "Suspicion de site malvolent !">
-<!ENTITY malwareBlocked.longDesc "<p>Los sites malvolents ensajan d'installar de programas que panan las 
-entresenhas personalas, qu'utilizan vòstre ordenador per n'atacar d'autres o que damatjan vòstre sistèma.</p> 
-<p>Los proprietaris de sites Web que pensan que lor sit es estat raportat a tòrt coma malvolent pòdon <a href='http://www.stopbadware.org/home/reviewinfo' >demandar
- una revision</a>.</p>">
+<!ENTITY malwareBlocked.longDesc "<p>Los sites malvolents ensajan d'installar de programas que panan las entresenhas personalas, qu'utilizan vòstre ordenador per n'atacar d'autres o que damatjan vòstre sistèma.</p> 
+<p>Los proprietaris de sites Web que pensan que lor sit es estat raportat a tòrt coma malvolent pòdon <a href='http://www.stopbadware.org/home/reviewinfo' >demandar una revision</a>.</p>">
 
 <!ENTITY phishingBlocked.title "Suspicion de site contrefach !">
 <!ENTITY phishingBlocked.longDesc "<p>Picar d'entresenhas personalas sus aquesta pagina pòt menair a una raubariá d'identitat o a una autra fraudariá.</p> 
@@ -159,14 +160,14 @@ functionality specific to firefox. -->
 
 
 <!ENTITY errorReporting.learnMore "Ne saber mai…">
+<!ENTITY errorReporting.sending "Mandadís del rapòrt">
 
 
-
-
+<!ENTITY errorReporting.tryAgain "Ensajatz tornarmai">
 
 <!ENTITY remoteXUL.title "XUL distant">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Contactatz lo webmèstre del sit per l'assabentar d'aqueste problèma.</li></ul></p>">
 
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc) - Do not translate
      "ssl_error_unsupported_version". -->
-
+<!ENTITY sslv3Used.learnMore "Ne saber mai…">

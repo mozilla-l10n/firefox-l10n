@@ -46,18 +46,8 @@
 <!ENTITY netReset.longDesc "<p>The network link was interrupted while negotiating a connection. Please try again.</p>">
 
 <!ENTITY netTimeout.title "Network Timeout">
-<!ENTITY netTimeout.longDesc "<p>Lo navigador a esperat tròp longtemps al moment de la connexion al site e a 
-arrestat d'esperar una responsa.</p> 
-<ul> 
-<li>Benlèu que lo servidor es en suscarga o es temporàriament en pana ? 
-ensajatz pus tard.</li> 
-<li>D'autres sites son tanben inaccessibles ? Verificatz la connexion a la 
-ret de vòstre ordenador.</li> 
-<li>Vòstre ordenador o vòstra ret es protegida per un parafuòc o un 
-proxy ? De paramètres incorrèctes pòdon interferir amb la navigacion sus 
-lo Web.</li> 
-<li>Avètz totjorn de problèmas ? Consultatz vòstre administrator de la ret o vòstre provesidor d'accès a Internet per obténer de l'ajuda.</li> 
-</ul>">
+<!ENTITY netTimeout.longDesc "<p>Lo navigador a esperat tròp longtemps al moment de la connexion al site e a arrestat d'esperar una responsa.</p> <ul> <li>Benlèu que lo servidor es en suscarga o es temporàriament en pana ?  Ensajatz pus tard.</li><li>D'autres sites son tanben inaccessibles ? Verificatz la connexion a la ret de vòstre ordenador.</li> <li>Vòstre ordenador o vòstra ret es protegida per un parafuòc o un proxy ? De paramètres incorrèctes pòdon interferir amb la navigacion sus 
+lo Web.</li> <li>Avètz totjorn de problèmas ? Consultatz vòstre administrator de la ret o vòstre provesidor d'accès a Internet per obténer de l'ajuda.</li></ul>">
 
 <!ENTITY unknownProtocolFound.title "Unknown Protocol">
 <!ENTITY unknownProtocolFound.longDesc "<p>L'adreça indica un protocòl (per ex. <q>wxyz://</q>) desconegut del navigador que doncas se pòt pas connectar corrèctament al site.</p><ul><li>Ensajatz d'accedir a de contengut multimèdia o d'autres servicis que son pas de tèxte ? Verificatz los prerequesits logicials del site.</li><li>D'unes protocòls pòdon necessitar un logiciel tèrç o de plugins per que lo navigador los pòsca reconéisser.</li></ul>">
@@ -78,11 +68,9 @@ lo Web.</li>
 <!ENTITY nssFailure2.longDesc2 "<p>La pagina qu'ensajatz de consultar pòt pas èsser afichada perque l'autenticitat de las donadas recebudas pò pas èsser verificada.</p><ul><li>Contactatz los proprietaris del site Web per los n'assabentar.</li></ul>">
 
 <!ENTITY nssBadCert.title "La connexion segura a pas capitat">
-<!ENTITY nssBadCert.longDesc2 "<ul>
-<li>Aquò pòt èsser degut a un problèma de configuracion del servidor 
-o a una persona qu'ensaja d'usurpar l'identitat del servidor.</li> 
-<li>Se ja sètz connectat(ada) amb succès a aqueste servidor, benlèu l'error 
-es temporària e podètz ensajar tornamai pus tard.</li> 
+<!ENTITY nssBadCert.longDesc2 "<ul> 
+<li>Aquò pòt èsser degut a un problèma de configuracion del servidor o a una persona qu'ensaja d'usurpar l'identitat del servidor.</li> 
+<li>Se ja sètz connectat(ada) amb succès a aqueste servidor, benlèu l'error es temporària e podètz ensajar tornamai pus tard.</li> 
 </ul>">
 
 <!ENTITY malwareBlocked.title "Suspicion de site malvolent !">
@@ -90,12 +78,8 @@ es temporària e podètz ensajar tornamai pus tard.</li>
 <p>Los proprietaris de sites Web que pensan que lor sit es estat raportat a tòrt coma malvolent pòdon <a href='http://www.stopbadware.org/home/reviewinfo'>demandar una revision</a>.</p>">
 
 <!ENTITY phishingBlocked.title "Suspicion de site contrefach !">
-<!ENTITY phishingBlocked.longDesc "<p>Picar d'entresenhas personalas sus aquesta pagina pòt menair a una raubariá d'identitat o a una autra fraudariá.</p>
-<p>Aquestes tipes de contrefaiçon de sites son utilizats dins de corrièrs electronics 
-frauduloses concebuts per d'atacs per anquetatage (o phishing), dins las qualas 
-las paginas Web e los corrièrs frauduloses son utilizats per imitar de fonts dins 
-las qualas avètz fisança.</p>
-">
+<!ENTITY phishingBlocked.longDesc "<p>Picar d'entresenhas personalas sus aquesta pagina pòt menair a una raubariá d'identitat o a una autra fraudariá.</p> 
+<p>Aquestes tipes de contrefaiçon de sites son utilizats dins de corrièrs electronics frauduloses concebuts per d'atacs per anquetatage (o phishing), dins las qualas las paginas Web e los corrièrs frauduloses son utilizats per imitar de fonts dins las qualas avètz fisança.</p>">
 
 <!ENTITY cspBlocked.title "Blocat per Content Security Policy">
 <!ENTITY cspBlocked.longDesc "<p>Lo navigador a empachat lo cargament d'aquesta pagina d'aqueste biais perque la pagina a una estrategia de seguretat de contengut que lo permet pas.</p>">

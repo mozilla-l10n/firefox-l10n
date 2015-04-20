@@ -45,11 +45,11 @@
 <!ENTITY  showCookies.label             "Afichar los cookies…">
 <!ENTITY  showCookies.accesskey         "k">
 
-<!ENTITY  historyHeader.pre.label          "Règlas de conservacion de &brandShortName; :">
+<!ENTITY  historyHeader.pre.label          "Règlas de conservacion :">
 <!ENTITY  historyHeader.pre.accesskey      "R">
-<!ENTITY  historyHeader.remember.label     "conservar l'istoric">
-<!ENTITY  historyHeader.dontremember.label "conservar pas jamai l'istoric">
-<!ENTITY  historyHeader.custom.label       "utilizar los paramètres personalizats per l'istoric">
+<!ENTITY  historyHeader.remember.label     "Conservar l'istoric">
+<!ENTITY  historyHeader.dontremember.label "Conservar pas jamai l'istoric">
+<!ENTITY  historyHeader.custom.label       "Utilizar los paramètres personalizats per l'istoric">
 <!ENTITY  historyHeader.post.label         "">
 
 <!ENTITY  rememberDescription.label      "&brandShortName; conservarà las donadas de navigacion, los telecargaments, los formularis e l'istoric recèrca e los cookies dels sites web que visitaretz.">

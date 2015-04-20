@@ -43,7 +43,7 @@
 
 <!ENTITY profilerUI.toolbar.waterfall "Cronologia">
 <!ENTITY profilerUI.toolbar.js-calltree "JavaScript">
-
+<!ENTITY profilerUI.toolbar.memory-calltree1 "Assignacions">
 
 
 <!-- LOCALIZATION NOTE (profilerUI.table.*): These strings are displayed
@@ -72,6 +72,8 @@
 <!-- LOCALIZATION NOTE (profilerUI.showPlatformData): This is the
   -  label for the checkbox that toggles whether or not Gecko platform data
   -  is displayed in the profiler. -->
+
+<!ENTITY profilerUI.showPlatformData             "Afichar las donadas de la plataforma Gecko">
 
 <!-- LOCALIZATION NOTE (profilerUI.flattenTreeRecursion): This is the
   -  label for the checkbox that toggles the flattening of tree recursion in inspected

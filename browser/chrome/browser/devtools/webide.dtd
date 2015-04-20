@@ -17,9 +17,9 @@
 
 
 
+<!ENTITY projectMenu_remove_label "Suprimir lo projècte">
 
-
-
+<!ENTITY projectMenu_showPrefs_label "Preferéncias">
 
 
 
@@ -35,7 +35,7 @@
 
 
 
-
+<!ENTITY runtimeMenu_showDevicePrefs_label "Preferéncias del periferic">
 
 
 
@@ -114,7 +114,7 @@
 
 
 
-
+<!ENTITY prefs_options_autocomplete "Autocomplecion">
 
 
 
@@ -131,16 +131,20 @@
 
 <!-- Device Preferences and Settings -->
 
-
+<!ENTITY device_typeboolean "Valor booleana">
+<!ENTITY device_typenumber "Nombre entièr">
+<!ENTITY device_typestring "Cadena">
 <!ENTITY device_typeobject "Objècte">
-
+<!ENTITY device_typenone "Seleccionatz lo tipe">
 <!-- Device Preferences -->
 
+<!ENTITY devicepreference_title "Preferéncias del periferic">
 
 
+<!ENTITY devicepreference_newtext "Valor de la preferéncia">
 
 <!-- Device Settings -->
-
+<!ENTITY devicesetting_search "Paramètres de recèrca">
 
 
 

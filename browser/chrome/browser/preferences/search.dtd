@@ -7,10 +7,13 @@
 
 
 
+<!ENTITY engineNameColumn.label                "Motor de recèrca">
 <!ENTITY engineKeywordColumn.label             "Mot clau">
 
-
+<!ENTITY restoreDefaultSearchEngines.label     "Restablir los motors de recèrca per defaut">
+<!ENTITY restoreDefaultSearchEngines.accesskey "d">
 
 <!ENTITY removeEngine.label                    "Suprimir">
 <!ENTITY removeEngine.accesskey                "S">
 
+<!ENTITY addMoreSearchEngines.label            "Apondre d'autres motors de recèrca...">

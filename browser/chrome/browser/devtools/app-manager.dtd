@@ -58,7 +58,7 @@
 <!ENTITY connection.cancelConnectTooltip "Anullar la connexion en cors">
 <!ENTITY connection.cancelShowSimulatorTooltip "Quitar lo mòde de connexion al simulator e tornar al formulari de despart">
 <!ENTITY connection.or "o">
-<!ENTITY connection.noSimulatorInstalled "o">
+<!ENTITY connection.noSimulatorInstalled "Cap de simulator pas installat.">
 <!ENTITY connection.installOneSimulator "Installar lo Simulator">
 <!ENTITY connection.installOneSimulatorTooltip "Installar una version del simulator en telecargant un modul complementari">
 <!ENTITY connection.installAnotherSimulator "Apondre">

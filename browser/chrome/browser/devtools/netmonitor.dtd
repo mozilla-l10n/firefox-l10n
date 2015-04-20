@@ -77,6 +77,8 @@
 <!ENTITY netmonitorUI.tab.preview         "Apercebut">
 <!-- LOCALIZATION NOTE (netmonitorUI.tab.security): This is the label displayed
   -  in the network details pane identifying the security tab. -->
+
+<!ENTITY netmonitorUI.tab.security        "Seguretat">
 <!-- LOCALIZATION NOTE (netmonitorUI.footer.filterAll): This is the label displayed
   -  in the network details footer for the "All" filtering button. -->
 
@@ -214,6 +216,8 @@
 <!-- LOCALIZATION NOTE (netmonitorUI.security.connection): This is the label displayed
   -  in the security tab describing the section containing information related to
   -  the secure connection. -->
+
+<!ENTITY netmonitorUI.security.connection "Connexion :">
 <!-- LOCALIZATION NOTE (netmonitorUI.security.certificate): This is the label displayed
   -  in the security tab describing the server certificate section. -->
 
@@ -262,8 +266,12 @@
      from the currently displayed request -->
 <!-- LOCALIZATION NOTE (netmonitorUI.summary.rawHeaders.requestHeaders): This is the label displayed
   -  in the network details headers tab identifying the raw request headers textarea -->
+
+<!ENTITY netmonitorUI.summary.rawHeaders.requestHeaders "Entèstas de la requèsta :">
 <!-- LOCALIZATION NOTE (netmonitorUI.summary.rawHeaders.responseHeaders): This is the label displayed
   -  in the network details headers tab identifying the raw response headers textarea -->
+
+<!ENTITY netmonitorUI.summary.rawHeaders.responseHeaders "Entèstas de la responsa :">
 <!-- LOCALIZATION NOTE (netmonitorUI.context.newTab):  This is the label
   -  for the Open in New Tab menu item displayed in the context menu of the
   -  network container  -->

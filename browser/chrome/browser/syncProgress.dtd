@@ -10,5 +10,5 @@
 <!ENTITY syncProgress.textBlurb    "Vòstras donadas son ara chifradas e mandadas en rèire plan. Podètz tampar aqueste onglet e contunhar d'utilizar &brandShortName;.">
 <!ENTITY syncProgress.closeButton  "Tampar">
 <!ENTITY syncProgress.logoAltText  "&brandShortName;">
-<!ENTITY syncProgress.diffText     "&brandShortName; serà d'ara enlà sincronizat automaticament en rèire plan. Podètz tampar aqueste onglet e contunhar d'utilizar &brandShortName;.">
+<!ENTITY syncProgress.diffText     "&brandShortName; serà d'ara enlà sincronizat automaticament en rèire plan.  Podètz tampar aqueste onglet e contunhar d'utilizar &brandShortName;.">
 

@@ -4,7 +4,7 @@
 <!ENTITY addons.windowTitle                   "Gestionari de moduls complementaris">
 
 <!ENTITY search.placeholder                   "Recercar dins totes los moduls">
-
+<!ENTITY search.buttonlabel                   "Recercar">
 <!-- LOCALIZATION NOTE (search.commandKey):
      The search command key should match findOnCmd.commandkey from browser.dtd -->
 <!ENTITY search.commandkey                    "f">
@@ -36,6 +36,8 @@
 <!ENTITY info.plugincheck.label                 "Verificar se los plugins son a jorn">
 <!ENTITY info.plugincheck.tooltip               "Verificar se los plugins son a jorn">
 <!-- categories / views -->
+
+<!ENTITY view.search.label                    "Recercar">
 <!ENTITY view.discover.label                  "Obténer de moduls complementaris">
 <!ENTITY view.recentUpdates.label             "Mes a jorn">
 <!ENTITY view.availableUpdates.label          "De metre a jorn">
@@ -228,3 +230,4 @@ certans dels melhors moduls complementaris e tanben los mai populars.">
 <!ENTITY experiment.info.changetelemetry "Paramètres de Telemetria">
 <!ENTITY experiment.info.changetelemetry.accesskey "T">
 
+<!ENTITY setting.learnmore "Ne saber mai…">

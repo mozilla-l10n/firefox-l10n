@@ -8,6 +8,7 @@
 
 <!ENTITY aboutTelemetry.telemetryDisabled "  La telemetria es <span>desactivada</span>.">
 
+<!ENTITY aboutTelemetry.generalDataSection "  Donadas generalas">
 
 
 <!ENTITY aboutTelemetry.slowSqlSection "  Requèstas SQL lentas">
@@ -18,6 +19,7 @@
 
 <!ENTITY aboutTelemetry.histogramsSection "  Istogramas">
 
+<!ENTITY aboutTelemetry.keyedHistogramsSection "  Istogramas amb clau">
 
 <!ENTITY aboutTelemetry.simpleMeasurementsSection "  Mesuras simplas">
 
@@ -39,4 +41,4 @@
 
 <!ENTITY aboutTelemetry.hideSymbols "  Afichar las donadas brutas dels blocatges">
 
-<!ENTITY aboutTelemetry.filterText "  Filtrar (cadena de caractèrs o expression regulara)">
+<!ENTITY aboutTelemetry.filterText "  Filtrar (cadena de caractèrs o expression regulara)">

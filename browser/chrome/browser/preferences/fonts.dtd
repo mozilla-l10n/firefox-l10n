@@ -63,9 +63,10 @@
 <!ENTITY  allowPagesToUse.label                   "Autorizar las paginas a causir lors pròpias colors al luòc de mas causidas çai-sus">
 <!ENTITY  allowPagesToUse.accesskey               "A">
 
+<!ENTITY languages.customize.Fallback2.grouplabel "Encodatge del tèxte pel contengut obsolèt">
 
 
-
+<!ENTITY languages.customize.Fallback2.desc       "Aqueste encodatge del tèxte es utilizat pel contengut obsolèt que declara pas corrèctament son encodatge.">
 
 <!ENTITY languages.customize.Fallback.auto        "Valor per defaut per la lenga correnta">
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.arabic):
