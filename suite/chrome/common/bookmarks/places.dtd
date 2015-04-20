@@ -24,8 +24,8 @@
 
 <!ENTITY cmd.findInBookmarks.label      "Encontrar nos marcadores...">
 <!ENTITY cmd.findInBookmarks.accesskey  "n">
-<!ENTITY cmd.findCurrent.label          "Encontrar na colecção actual...">
-<!ENTITY cmd.findCurrent.accesskey      "c">
+<!ENTITY cmd.findCurrent.label          "Encontrar na coleção atual...">
+<!ENTITY cmd.findCurrent.accesskey      "ç">
 
 <!ENTITY cmd.exportHTML.label      "Exportar HTML...">
 <!ENTITY cmd.exportHTML.accesskey  "E">
@@ -68,7 +68,7 @@
 <!ENTITY cmd.new_folder.label              "Nova pasta...">
 <!ENTITY cmd.new_folder.accesskey          "a">
 <!ENTITY cmd.context_new_folder.accesskey  "P">
-<!ENTITY cmd.new_separator.label           "Novo Separador">
+<!ENTITY cmd.new_separator.label           "Novo separador">
 <!ENTITY cmd.new_separator.accesskey       "S">
 
 <!ENTITY cmd.reloadLivebookmark.label      "Recarregar marcador dinâmico">

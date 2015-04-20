@@ -3,13 +3,13 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY doNotDownloadPop3Movemail.label "Para ter espaço em disco, não transferir:">
-<!ENTITY doNotDownloadNntp.label "Para ter espaço em disco, não transferir para usar no modo desligado:">
-<!ENTITY doNotDownloadImap.label "Para ter espaço em disco, transferir mensagens do servidor e manter cópias locais para uso em modo desligado pode ser restringido por idade ou tamanho.">
-<!ENTITY allFoldersOffline.label "manter mensagens desta conta no computador">
+<!ENTITY doNotDownloadNntp.label "Para economizar espaço em disco, não transferir no modo desligado:">
+<!ENTITY doNotDownloadImap.label "Para economizar espaço em disco, a transferência e manutenção de cópias locais de mensagens do servidor pode ser restringida por idade ou tamanho.">
+<!ENTITY allFoldersOffline.label "Manter mensagens desta conta no computador">
 <!ENTITY allFoldersOffline.accesskey "o">
-<!ENTITY offlineNotDownload.label "Mensagens maiores que ">
-<!ENTITY offlineNotDownload.accesskey "q">
-<!ENTITY autosyncNotDownload.label "Não transferir mensagens maiores que">
+<!ENTITY offlineNotDownload.label "Mensagens superiores a">
+<!ENTITY offlineNotDownload.accesskey "s">
+<!ENTITY autosyncNotDownload.label "Não transferir mensagens superiores a">
 <!ENTITY autosyncNotDownload.accesskey "f">
 <!ENTITY kb.label "KB">
 <!ENTITY daysOld.label "dias de idade">
@@ -18,28 +18,27 @@
 <!ENTITY nntpNotDownloadRead.accesskey "L">
 <!ENTITY nntpDownloadMsg.label "Mais mensagens que">
 <!ENTITY nntpDownloadMsg.accesskey "u">
-<!ENTITY retentionCleanup.label "Para ganhar espaço em disco, as mensagens antigas podem ser permanentemente eliminadas">
-<!ENTITY retentionCleanupImap.label "Para ganhar espaço em disco, as mensagens antigas podem ser permanentemente eliminadas, tanto as cópias locais como os originais no servidor remoto.">
-<!ENTITY retentionCleanupPop.label "Para ganhar espaço em disco, as mensagens antigas podem ser permanentemente eliminadas, incluindo os originais no servidor remoto.">
-<!ENTITY retentionKeepMsg.label "Apagar mensagens com mais de">
+<!ENTITY retentionCleanup.label "Para economizar espaço em disco, as mensagens antigas podem ser eliminadas permanentemente">
+<!ENTITY retentionCleanupImap.label "Para economizar espaço em disco, as mensagens antigas podem ser eliminadas permanentemente, tanto as cópias locais como os originais no servidor remoto.">
+<!ENTITY retentionCleanupPop.label "Para economizar espaço em disco, as mensagens antigas podem ser eliminadas permanentemente, incluindo as originais no servidor remoto.">
+<!ENTITY retentionKeepMsg.label "Eliminar mensagens com mais de">
 <!ENTITY retentionKeepMsg.accesskey "m">
-<!ENTITY retentionKeepAll.label "Não apagar nenhuma mensagem">
-<!ENTITY retentionKeepAll.accesskey "g">
-<!ENTITY retentionKeepRecent.label "Apagar todas menos as últimas">
+<!ENTITY retentionKeepAll.label "Não eliminar qualquer mensagem">
+<!ENTITY retentionKeepAll.accesskey "u">
+<!ENTITY retentionKeepRecent.label "Eliminar todas menos as mais recentes">
 <!ENTITY retentionKeepRecent.accesskey "t">
 <!-- LOCALIZATION NOTE: Unhide with .keepUnreadOnly { display: -moz-box; } -->
-<!ENTITY retentionKeepUnreadHidden.label "Apagar sempre todas as mensagens lidas (sobrepõe-se às definições de idade)">
+<!ENTITY retentionKeepUnreadHidden.label "Eliminar sempre as mensagens lidas (sobrepõe as definições de idade)">
 <!ENTITY retentionApplyToFlagged.label "Manter sempre mensagens com estrela">
 <!ENTITY retentionApplyToFlagged.accesskey "e">
 <!ENTITY nntpRemoveMsgBody.label "Remover corpo das mensagens maiores que">
 <!ENTITY nntpRemoveMsgBody.accesskey "p">
-<!ENTITY offlineSelectNntp.label "Seleccione grupos de discussão para usar no modo desligado...">
+<!ENTITY offlineSelectNntp.label "Selecione os grupos de notícias a utilizar no modo desligado...">
 <!ENTITY offlineSelectNntp.accesskey "S">
 <!ENTITY offlineImapAdvancedOffline.label "Avançado…">
 <!ENTITY offlineImapAdvancedOffline.accesskey "A">
-<!ENTITY syncGroupTitle.label "Sincronização de mensagem">
-<!ENTITY diskspaceGroupTitle.label "Espaço em Disco">
-
+<!ENTITY syncGroupTitle.label "Sincronização de mensagens">
+<!ENTITY diskspaceGroupTitle.label "Espaço em disco">
 <!-- LOCALIZATION NOTE: (ageAutosyncBefore.label, ageAutosyncMiddle.label, ageAutosyncAfter.label):
   The entities ageAutosyncBefore.label, ageAutosyncMiddle.label, and ageAutosyncAfter.label appear
   on a single line within the scope of useAutosync.ByAge as follows:

@@ -5,8 +5,8 @@
 <!-- These strings are used in the about:newtab page -->
 <!ENTITY newtab.pageTitle "Novo separador">
 <!ENTITY newtab.customize.title "Personalizar a página de novo separador">
-<!ENTITY newtab.customize.suggested "Mostrar os seus sítios preferidos e sugeridos">
-<!ENTITY newtab.customize.topsites "Mostrar os seus sítios preferidos">
+<!ENTITY newtab.customize.suggested "Mostrar sugestões e os seus sítios mais visitados">
+<!ENTITY newtab.customize.topsites "Mostrar os sítios mais visitados">
 <!ENTITY newtab.customize.blank2 "Mostrar página em branco">
 <!ENTITY newtab.customize.what "O que é esta página?">
 <!ENTITY newtab.intro.header "O que é esta página?">

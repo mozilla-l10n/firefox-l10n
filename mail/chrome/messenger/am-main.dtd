@@ -3,40 +3,37 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!-- extracted from am-main.xul -->
-
-<!ENTITY accountTitle.label "Configuração de Conta">
-<!ENTITY accountName.label "Nome da Conta:">
+<!ENTITY accountTitle.label "Definições da Conta">
+<!ENTITY accountName.label "Nome da conta:">
 <!ENTITY accountName.accesskey "N">
-<!ENTITY identityTitle.label "Identidade Pré-Definida">
-<!ENTITY identityDesc.label "Cada conta tem uma identidade, que é a informação que as outras pessoas vêem quando lêem as suas mensagens.">
-<!ENTITY name.label "O seu Nome:">
-<!ENTITY name.accesskey "u">
-<!ENTITY email.label "Endereço de Correio Eletrónico:">
+<!ENTITY identityTitle.label "Identidade pré-definida">
+<!ENTITY identityDesc.label "Cada conta tem uma identidade, que é a informação enviada a terceiros leem as suas mensagens.">
+<!ENTITY name.label "O seu nome:">
+<!ENTITY name.accesskey "O">
+<!ENTITY email.label "Endereço eletrónico:">
 <!ENTITY email.accesskey "E">
-<!ENTITY replyTo.label "Responder ao Endereço:">
+<!ENTITY replyTo.label "Endereço de resposta:">
 <!ENTITY replyTo.accesskey "r">
 <!ENTITY replyTo.placeholder "Os destinatários respondem para este outro endereço">
 <!ENTITY organization.label "Organização:">
 <!ENTITY organization.accesskey "O">
 <!ENTITY signatureText.label "Texto da assinatura:">
 <!ENTITY signatureText.accesskey "x">
-<!ENTITY signatureHtml.label "Usar HTML (ex:, &lt;b&gt;bold&lt;/b&gt;)">
-<!ENTITY signatureHtml.accesskey "L">
-<!ENTITY signatureFile.label "Anexar assinatura de um ficheiro (texto, HTML, ou imagem):">
+<!ENTITY signatureHtml.label "Utilizar HTML (ex:, &lt;b&gt;bold&lt;/b&gt;)">
+<!ENTITY signatureHtml.accesskey "l">
+<!ENTITY signatureFile.label "Anexar assinatura de um ficheiro (texto, HTML ou imagem):">
 <!ENTITY signatureFile.accesskey "t">
 <!ENTITY edit.label "Editar...">
 <!ENTITY choose.label "Escolher...">
 <!ENTITY choose.accesskey "h">
-<!ENTITY editVCard.label "Editar Cartão...">
+<!ENTITY editVCard.label "Editar cartão...">
 <!ENTITY editVCard.accesskey "d">
 <!-- LOCALIZATION NOTE (attachVCard.label) : do not translate "vCard" in below line -->
 <!ENTITY attachVCard.label "Anexar o meu vCard à mensagem">
 <!ENTITY attachVCard.accesskey "v">
-
-<!ENTITY manageIdentities.label "Gerir Identidades...">
-<!ENTITY manageIdentities.accesskey "I">
-
+<!ENTITY manageIdentities.label "Gerir identidades...">
+<!ENTITY manageIdentities.accesskey "i">
 <!-- LOCALIZATION NOTE (smtpName.label) : do not translate "SMTP" in below line -->
-<!ENTITY smtpName.label "Servidor de Envio (SMTP):">
-<!ENTITY smtpName.accesskey "s">
-<!ENTITY smtpDefaultServer.label "Usar servidor pré-definido">
+<!ENTITY smtpName.label "Servidor de envio (SMTP):">
+<!ENTITY smtpName.accesskey "S">
+<!ENTITY smtpDefaultServer.label "Utilizar servidor pré-definido">

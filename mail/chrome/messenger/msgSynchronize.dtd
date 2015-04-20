@@ -4,20 +4,20 @@
 
 <!-- extracted from MsgSynchronize.xul and msgSelectOffline.xul-->
 
-<!ENTITY MsgSynchronize.label "Transferir e Sincronizar Mensagens">
-<!ENTITY MsgSelect.label "Itens para uso no Modo Desligado">
-<!ENTITY MsgSyncDesc.label "Se já seleccionou as pastas de correio ou de grupos de Discussão para uso no Modo Desligado, pode transferi-los e/ou sincronizá-los agora. De outra maneira, use o botão &quot;Seleccionar&quot; para escolher as pastas de correio e grupos de discussão para uso no modo desligado.">
-<!ENTITY MsgSyncDirections.label "Transferir e/ou sincronizar o seguinte:">
-<!ENTITY syncTypeMail.label "Mensagens de Correio">
-<!ENTITY syncTypeMail.accesskey "E">
-<!ENTITY syncTypeNews.label "Mensagens de Grupos de Discussão">
+<!ENTITY MsgSynchronize.label "Transferir e sincronizar mensagens">
+<!ENTITY MsgSelect.label "Itens para utilização no modo desligado">
+<!ENTITY MsgSyncDesc.label "Se já selecionou as pastas de correio ou grupos de notícias para utilizar no modo desligado, pode transferir e sincronizar as mensagens. Se ainda não o fez, utilize o botão &quot;Selecionar&quot; para escolher os itens que devem ser utilizados neste modo.">
+<!ENTITY MsgSyncDirections.label "Transferir e/ou sincronizar estes itens:">
+<!ENTITY syncTypeMail.label "Mensagens eletrónicas">
+<!ENTITY syncTypeMail.accesskey "e">
+<!ENTITY syncTypeNews.label "Mensagens de grupos de notícias">
 <!ENTITY syncTypeNews.accesskey "N">
-<!ENTITY sendMessage.label "Enviar mensagens por Enviar">
+<!ENTITY sendMessage.label "Enviar mensagens não enviadas">
 <!ENTITY sendMessage.accesskey "E">
-<!ENTITY workOffline.label "Trabalhar no modo desligado uma vez transferido e/ou sincronização completa">
-<!ENTITY workOffline.accesskey "M">
-<!ENTITY selectButton.label "Seleccione...">
+<!ENTITY workOffline.label "Trabalhar no modo desligado ao terminar a transferência e/ou sincronização">
+<!ENTITY workOffline.accesskey "m">
+<!ENTITY selectButton.label "Selecionar...">
 <!ENTITY selectButton.accesskey "S">
-<!ENTITY MsgSelectDesc.label "Escolha a pasta de correio e grupos de discussão para usar quando desligado.">
+<!ENTITY MsgSelectDesc.label "Escolha a pasta de correio e grupos de discussão para o modo desligado.">
 <!ENTITY MsgSelectInd.label "Transferir">
 <!ENTITY MsgSelectItems.label "Pastas e Grupos de Discussão">

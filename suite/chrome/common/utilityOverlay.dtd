@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!-- these things need to move into utilityOverlay.xul -->
-<!ENTITY  offlineGoOfflineCmd.label                 "Trabalhar Desligado">
+<!ENTITY  offlineGoOfflineCmd.label                 "Trabalhar desligado">
 <!ENTITY  offlineGoOfflineCmd.accesskey             "h">
 
 <!-- LOCALIZATION NOTE : FILE This file contains the global menu items --> 
@@ -19,9 +19,9 @@
 <!ENTITY newPageFromTemplateCmd.accesskey "m">
 <!ENTITY newPageFromDraftCmd.label        "Página usando rascunho">
 <!ENTITY newPageFromDraftCmd.accesskey    "d">
-<!ENTITY newNavigatorCmd.label            "Janela do Navegador">
-<!ENTITY newNavigatorCmd.key              "N">
-<!ENTITY newNavigatorCmd.accesskey        "N">
+<!ENTITY newNavigatorCmd.label            "Janela do navegador">
+<!ENTITY newNavigatorCmd.key              "n">
+<!ENTITY newNavigatorCmd.accesskey        "n">
 <!ENTITY newPrivateWindowCmd.label "Janela privada">
 <!ENTITY newPrivateWindowCmd.key "P">
 <!ENTITY newPrivateWindowCmd.accesskey "W">
@@ -50,16 +50,16 @@
 <!ENTITY pasteCmd.label "Colar">
 <!ENTITY pasteCmd.key "v">
 <!ENTITY pasteCmd.accesskey "o">
-<!ENTITY pasteGoCmd.label					"Colar &amp; Ir">
-<!ENTITY pasteGoCmd.accesskey				"I">
+<!ENTITY pasteGoCmd.label					"Colar e ir">
+<!ENTITY pasteGoCmd.accesskey				"i">
 
 <!-- LOCALIZATION NOTE (pasteSearchCmd): "Search" is a verb, this is the
      search bar equivalent to the url bar's "Paste & Go"  --> 
-<!ENTITY pasteSearchCmd.label             "Copiar &amp; pesquisar">
+<!ENTITY pasteSearchCmd.label             "Colar e pesquisar">
 <!ENTITY pasteSearchCmd.accesskey         "e">
 <!ENTITY deleteCmd.label                  "Eliminar">
 <!ENTITY deleteCmd.accesskey              "l">
-<!ENTITY selectAllCmd.label               "Seleccionar tudo">
+<!ENTITY selectAllCmd.label               "Selecionar tudo">
 <!ENTITY selectAllCmd.key                 "a">
 <!ENTITY selectAllCmd.accesskey           "s">
 <!ENTITY clearHistoryCmd.label				"Limpar histórico da pesquisa">  
@@ -90,9 +90,9 @@
 
 <!ENTITY viewMenu.label					"Ver">
 <!ENTITY viewMenu.accesskey "v">
-<!ENTITY viewToolbarsMenu.label "Mostrar/Ocultar">
+<!ENTITY viewToolbarsMenu.label "Mostrar/ocultar">
 <!ENTITY viewToolbarsMenu.accesskey          "M">
-<!ENTITY showTaskbarCmd.label                     "Barra de Estado">
+<!ENTITY showTaskbarCmd.label                     "Barra de estado">
 <!ENTITY showTaskbarCmd.accesskey                 "S">
 
 <!ENTITY helpMenu.label					"Ajuda"> 
@@ -102,13 +102,13 @@
 <!ENTITY helpTroubleshootingInfo.accesskey  "ç">
 <!ENTITY releaseCmd.label                   "Notas de lançamento">
 <!ENTITY releaseCmd.accesskey               "N">
-<!ENTITY helpSafeMode.label                 "Reiniciar com extras desactivados">
+<!ENTITY helpSafeMode.label                 "Reiniciar com extras desativados">
 <!ENTITY helpSafeMode.accesskey             "R">
-<!ENTITY updateCmd.label                    "Procurar por actualizações…">
+<!ENTITY updateCmd.label                    "Procurar por atualizações…">
 <!ENTITY updateCmd.accesskey                "p">
 <!ENTITY aboutCmd.label					"Sobre o &brandShortName;">
 <!ENTITY aboutCmd.accesskey				"S">
-<!ENTITY aboutCommPluginsCmd.label			"Sobre os Plugins">
+<!ENTITY aboutCommPluginsCmd.label			"Sobre os plugins">
 <!ENTITY aboutCommPluginsCmd.accesskey			"p">
 
 <!ENTITY direct.label                                   "Ligado (proxy: nenhum)">
@@ -125,7 +125,7 @@
 <!ENTITY proxy.label                                    "Configuração de proxy...">
 <!ENTITY proxy.accesskey                                "C">
 
-<!ENTITY bidiSwitchTextDirectionItem.label        "Mudar direcção do texto">
+<!ENTITY bidiSwitchTextDirectionItem.label        "Mudar direção do texto">
 <!ENTITY bidiSwitchTextDirectionItem.accesskey    "d">
 <!ENTITY bidiSwitchTextDirectionItem.commandkey   "X">
 
@@ -149,7 +149,7 @@
 
 <!-- Popup Blocked notification menu -->
 <!ENTITY allowPopups.accesskey        "p">
-<!ENTITY showPopupManager.label       "Gerir Popups">
+<!ENTITY showPopupManager.label       "Gerir popups">
 <!ENTITY showPopupManager.accesskey   "G">
 <!ENTITY dontShowMessage.label        "Não mostrar esta mensagem quando os popups são bloqueados">
 <!ENTITY dontShowMessage.accesskey    "m">

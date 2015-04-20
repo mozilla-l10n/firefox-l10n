@@ -8,7 +8,7 @@
 <!--LOCALIZATION NOTE (pref.composer.title): DONT_TRANSLATE -->
 <!ENTITY pref.composer.title "Compositor">
 <!ENTITY recentFiles.title "Menu de páginas recentes">
-<!ENTITY documentsInMenu.label "Número páximo de páginas na lista:">
+<!ENTITY documentsInMenu.label "Número máximo de páginas na lista:">
 <!ENTITY documentsInMenu.accesskey "n">
 <!ENTITY savingFiles.title "Ao guardar ou publicar páginas">
 <!ENTITY preserveExisting.label "Preservar a formatação original">
@@ -16,7 +16,7 @@
 <!ENTITY preserveExisting.tooltip "Manter quebras de linha e formatação original da página">
 <!ENTITY saveAssociatedFiles.label "Gravar imagens e conteúdo associado ao gravar páginas">
 <!ENTITY saveAssociatedFiles.accesskey "G">
-<!ENTITY showPublishDialog.label "Mostrar sempre o diálogo de publicação ao publicar páginas">
+<!ENTITY showPublishDialog.label "Mostrar sempre a janela de publicação ao publicar páginas">
 <!ENTITY showPublishDialog.accesskey "o">
 <!ENTITY composerEditing.label "Editar">
 <!ENTITY maintainStructure.label "Manter esquema da tabela ao inserir ou eliminar células">

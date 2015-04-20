@@ -6,7 +6,7 @@
 <!ENTITY style.label                      "Estilo:">
 <!ENTITY style.accesskey                  "s">
 <!ENTITY regular.label                    "Regular">
-<!ENTITY bold.label                       "Bold">
+<!ENTITY bold.label                       "Negrito">
 <!ENTITY italic.label                     "Itálico">
 <!ENTITY boldItalic.label                 "Itálico Negrito">
 <!ENTITY size.label                       "Tamanho:">
@@ -22,7 +22,7 @@
 <!ENTITY wrapInMsg.label                  "Cortar texto para caber na largura da janela">
 <!ENTITY wrapInMsg.accesskey              "x">
 <!-- LOCALIZATION NOTE : (convertEmoticons.label) 'Emoticons' are also known as 'Smileys', e.g. :-)   -->
-<!ENTITY convertEmoticons.label           "Mostrar emoticons como gráficos">
+<!ENTITY convertEmoticons.label           "Mostrar ícones expressivos como gráficos">
 <!ENTITY convertEmoticons.accesskey       "o">
 <!ENTITY generalMessageDisplay.caption    "Geral">
 <!ENTITY autoMarkAsRead.label             "Marcar mensagens como lidas automaticamente">
@@ -34,7 +34,7 @@
 <!ENTITY markAsReadAfter.accesskey        "t">
 <!ENTITY secondsLabel.label               "segundos">
 
-<!ENTITY openingMessages.label            "Ao abrir mensagens apresentá-las em:">
+<!ENTITY openingMessages.label            "Ao abrir mensagens apresentar as mesmas em:">
 <!ENTITY newWindowRadio.label             "Uma nova janela">
 <!ENTITY newWindowRadio.accesskey         "n">
 <!ENTITY existingWindowRadio.label        "Uma janela existente">

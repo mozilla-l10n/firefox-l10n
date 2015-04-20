@@ -14,7 +14,7 @@
 <!ENTITY userName.accesskey "u">
 <!ENTITY port.label "Porta:">
 <!ENTITY port.accesskey "P">
-<!ENTITY serverPortDefault.label  "Pré-definido:">
+<!ENTITY serverPortDefault.label "Pré-definida:">
 <!-- LOCALIZATION NOTE (biffStart.label) : translate below 2 line with grammer dependency
         For example, in Japanese cases:
                 biffStart.label "every"
@@ -34,11 +34,11 @@
 <!ENTITY leaveOnServer.label "Manter mensagens no servidor">
 <!ENTITY leaveOnServer.accesskey "v">
 <!ENTITY headersOnly.label "Obter apenas os cabeçalhos">
-<!ENTITY headersOnly.accesskey  "h">
+<!ENTITY headersOnly.accesskey "h">
 <!ENTITY deleteByAgeFromServer.label "Durante">
-<!ENTITY deleteByAgeFromServer.accesskey	"D">
+<!ENTITY deleteByAgeFromServer.accesskey "D">
 <!ENTITY daysEnd.label "dias">
-<!ENTITY deleteOnServer2.label "Até eu os eliminar">
+<!ENTITY deleteOnServer2.label "Até eu as eliminar">
 <!ENTITY deleteOnServer2.accesskey "A">
 <!ENTITY downloadOnBiff.label "Transferir novas mensagens automaticamente">
 <!ENTITY downloadOnBiff.accesskey "r">
@@ -47,7 +47,7 @@
 <!ENTITY modelMoveToTrash.label "Mover para esta pasta:">
 <!ENTITY modelMoveToTrash.accesskey "o">
 <!ENTITY modelMarkDeleted.label "Marcar como eliminada">
-<!ENTITY modelMarkDeleted.accesskey	"e">
+<!ENTITY modelMarkDeleted.accesskey "e">
 <!ENTITY modelDeleteImmediately.label "Remover imediatamente">
 <!ENTITY modelDeleteImmediately.accesskey "d">
 <!-- LOCALIZATION NOTE (expungeOnExit.label) : do not translate two of "&quot;" in below line -->
@@ -66,10 +66,10 @@
 <!-- LOCALIZATION NOTE (maxMessagesEnd.label) : see note for maxMessagesStart.label -->
 <!ENTITY maxMessagesEnd.label "mensagens">
 <!ENTITY alwaysAuthenticate.label "Pedir sempre autenticação ao ligar a este servidor">
-<!ENTITY alwaysAuthenticate.accesskey "ç">
+<!ENTITY alwaysAuthenticate.accesskey "u">
 <!ENTITY newsrcFilePath.label "Ficheiro newsrc:">
 <!ENTITY newsrcPicker.label "Selecione o ficheiro newsrc">
-<!ENTITY abbreviate.label "Mostrar nome do grupos de notícias no painel de correio como:">
+<!ENTITY abbreviate.label "Mostrar nome dos grupos de notícias no painel de correio como:">
 <!ENTITY abbreviateOn.label "Nome completo (por exemplo: netscape.public.mozilla.mail-news)">
 <!ENTITY abbreviateOff.label "Nome abreviado (por exemplo: n.p.m.mail-news)">
 <!ENTITY advancedButton.label "Avançado...">
@@ -86,5 +86,5 @@
 <!ENTITY accountSettingsDesc.label "Esta é uma conta especial. Não existem quaisquer identidades associadas.">
 <!ENTITY storeType.label "Tipo de armazenamento das mensagens:">
 <!ENTITY storeType.accesskey "T">
-<!ENTITY mboxStore2.label "Ficheiro por pasta (mbox)">
-<!ENTITY maildirStore.label "Ficheiro por mensagem (maildir)">
+<!ENTITY mboxStore2.label "Um ficheiro por pasta (mbox)">
+<!ENTITY maildirStore.label "Um ficheiro por mensagem (maildir)">

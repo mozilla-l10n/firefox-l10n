@@ -23,7 +23,7 @@
 <!ENTITY helpKeyboardShortcuts.label     "Atalhos do teclado">
 <!ENTITY helpKeyboardShortcuts.accesskey "h">
 
-<!ENTITY helpSafeMode.label       "Reiniciar com os extras desactivados…">
+<!ENTITY helpSafeMode.label       "Reiniciar com os extras desativados…">
 <!ENTITY helpSafeMode.accesskey   "R">
 
 <!ENTITY healthReport2.label      "Relatório de estado do &brandShorterName;">
@@ -32,7 +32,7 @@
 <!ENTITY helpTroubleshootingInfo.label      "Informação sobre resolução de problemas">
 <!ENTITY helpTroubleshootingInfo.accesskey  "I">
 
-<!ENTITY helpFeedbackPage.label      "Submeter Feedback…">
+<!ENTITY helpFeedbackPage.label      "Submeter feedback…">
 <!ENTITY helpFeedbackPage.accesskey  "S">
 
 <!ENTITY helpShowTour2.label            "Visita ao &brandShorterName;">

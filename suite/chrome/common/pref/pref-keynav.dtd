@@ -6,15 +6,15 @@
 <!ENTITY tabNavigationBehavior.label "Tecla de navegação por separadores">
 <!ENTITY tabNavigationLinks.label "Ligações">
 <!ENTITY tabNavigationLinks.accesskey "L">
-<!ENTITY tabNavigationForms.label "Botões, botões de rádio, caixas de selecção e listas de selecção">
+<!ENTITY tabNavigationForms.label "Botões, botões de rádio, caixas de seleção e listas de seleção">
 <!ENTITY tabNavigationForms.accesskey "B">
 <!ENTITY tabNavigationTextboxes.label "Nota: caixas de texto e regiões deslocáveis fazem sempre parte da ordem dos separadores.">
 <!ENTITY tabNavigationDesc.label "Quando Tab ou Shift+Tab é carregado, mover entre:">
 <!ENTITY accessibilityBrowseWithCaret.label "Navegar com Caret">
-<!ENTITY browseWithCaretDesc.label "Navegação por caret permite-lhe navegar e seleccionar entre páginas usando as teclas do cursorpara mover um caret visível.">
+<!ENTITY browseWithCaretDesc.label "Navegação por caret permite-lhe navegar e selecionar entre páginas usando as teclas do cursor para mover um caret visível.">
 <!ENTITY browseWithCaretUse.label "Usar navegação caret">
 <!ENTITY browseWithCaretUse.accesskey "U">
 <!ENTITY browseWithCaretShortCut.label "Usar o atalho F7 para trocar a navegação por caret">
 <!ENTITY browseWithCaretShortCut.accesskey "F">
-<!ENTITY browseWithCaretWarn.label "Avisar-me antes de activar a navegação por caret">
+<!ENTITY browseWithCaretWarn.label "Avisar-me antes de ativar a navegação por caret">
 <!ENTITY browseWithCaretWarn.accesskey "m">

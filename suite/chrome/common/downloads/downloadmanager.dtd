@@ -4,7 +4,7 @@
 
 <!ENTITY downloadManager.title           "Gestor de transferências">
 
-<!ENTITY menuBar.tooltip                 "Barra de Menu">
+<!ENTITY menuBar.tooltip                 "Barra de menu">
 <!ENTITY searchBar.tooltip               "Barra de pesquisa">
 
 <!ENTITY search.placeholder              "Pesquisar transferências">
@@ -22,12 +22,12 @@
 <!ENTITY col.status.label                "Estado">
 <!ENTITY col.status.accesskey            "s">
 <!ENTITY col.status.tooltip              "Estado">
-<!ENTITY col.actionPlay.label            "Pausa/Resumir/Tentar de novo">
+<!ENTITY col.actionPlay.label            "Pausa/resumir/tentar novamente">
 <!ENTITY col.actionPlay.accesskey        "u">
-<!ENTITY col.actionPlay.tooltip          "Pausa/Resumir/Tentar de novo">
-<!ENTITY col.actionStop.label            "Cancelar/Remover">
+<!ENTITY col.actionPlay.tooltip          "Pausa/resumir/tentar novamente">
+<!ENTITY col.actionStop.label            "Cancelar/remover">
 <!ENTITY col.actionStop.accesskey        "C">
-<!ENTITY col.actionStop.tooltip          "Cancelar/Remover">
+<!ENTITY col.actionStop.tooltip          "Cancelar/remover">
 <!ENTITY col.progress.label              "Progresso">
 <!ENTITY col.progress.accesskey          "P">
 <!ENTITY col.progress.tooltip            "Progresso">
@@ -46,9 +46,9 @@
 <!ENTITY col.starttime.label             "Iniciado a">
 <!ENTITY col.starttime.accesskey         "a">
 <!ENTITY col.starttime.tooltip           "Iniciado a">
-<!ENTITY col.endtime.label               "Terminado a">
-<!ENTITY col.endtime.accesskey           "i">
-<!ENTITY col.endtime.tooltip             "Terminado a">
+<!ENTITY col.endtime.label               "Concluído a">
+<!ENTITY col.endtime.accesskey           "u">
+<!ENTITY col.endtime.tooltip             "Concluído a">
 <!ENTITY col.progresstext.label          "&#37;">
 <!ENTITY col.progresstext.accesskey      "&#37;">
 <!ENTITY col.progresstext.tooltip        "Progresso (&#37;)">
@@ -80,7 +80,7 @@
 <!ENTITY cmd.remove.accesskey            "e">
 <!ENTITY cmd.open.label                  "Abrir">
 <!ENTITY cmd.open.accesskey              "b">
-<!ENTITY cmd.show.label                  "Abrir pasta respectiva">
+<!ENTITY cmd.show.label                  "Abrir pasta respetiva">
 <!ENTITY cmd.show.accesskey              "A">
 <!ENTITY cmd.goToDownloadPage.label      "Ir para a página de transferência">
 <!ENTITY cmd.goToDownloadPage.accesskey  "I">

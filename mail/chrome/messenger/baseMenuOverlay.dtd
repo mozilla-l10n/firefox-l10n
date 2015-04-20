@@ -3,26 +3,25 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!-- Help Menu -->
-<!ENTITY helpMenu.label "Ajuda">
+<!ENTITY helpMenu.label                     "Ajuda">
 <!ENTITY helpMenu.accesskey "A">
 <!-- LOCALIZATION NOTE some localizations of Windows use "?"
                        for the help button in the menubar but Gnome does not.   -->
-<!ENTITY helpMenuWin.label "Ajuda">
+<!ENTITY helpMenuWin.label                  "Ajuda">
 <!ENTITY helpMenuWin.accesskey "A">
 <!ENTITY helpTroubleshootingInfo.label     "Informação de suporte">
-<!ENTITY helpTroubleshootingInfo.accesskey "I">
-<!ENTITY helpSafeMode.label     "Reiniciar com os extras desactivados…">
-<!ENTITY helpSafeMode.accesskey "R">
-<!ENTITY releaseCmd2.label "Notas de lançamento">
-<!ENTITY releaseCmd2.accesskey "N">
-<!ENTITY whatsNewCmd.label "O que há de novo">
-<!ENTITY whatsNewCmd.accesskey "h">
-<!ENTITY openHelp.label "Tópicos de ajuda">
-<!ENTITY openHelp.accesskey "T">
-<!ENTITY openHelp.commandkey "VK_F1">
-<!ENTITY openHelpMac.label "Ajuda do &brandShortName;">
-<!ENTITY openHelpMac2.commandkey "?">
-<!ENTITY openHelpMac2.modifiers "accel">
-
-<!ENTITY aboutMenuCmd.label "Sobre o &brandShortName;">
-<!ENTITY aboutMenuCmd.accesskey "S">
+<!ENTITY helpTroubleshootingInfo.accesskey  "I">
+<!ENTITY helpSafeMode.label                 "Reiniciar com os extras desativados…">
+<!ENTITY helpSafeMode.accesskey             "R">
+<!ENTITY releaseCmd2.label                  "Notas da versão">
+<!ENTITY releaseCmd2.accesskey              "v">
+<!ENTITY whatsNewCmd.label                  "Novidades">
+<!ENTITY whatsNewCmd.accesskey              "N">
+<!ENTITY openHelp.label                     "Tópicos de ajuda">
+<!ENTITY openHelp.accesskey                 "T">
+<!ENTITY openHelp.commandkey                "VK_F1">
+<!ENTITY openHelpMac.label                  "Ajuda do &brandShortName;">
+<!ENTITY openHelpMac2.commandkey            "?">
+<!ENTITY openHelpMac2.modifiers             "accel">
+<!ENTITY aboutMenuCmd.label                 "Sobre o &brandShortName;">
+<!ENTITY aboutMenuCmd.accesskey             "S">

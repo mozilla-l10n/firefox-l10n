@@ -5,12 +5,12 @@
 <!--LOCALIZATION NOTE : FILE UI for Software Updates prefs -->
 <!ENTITY pref.smartUpdate.title               "Instalação de Software">
 <!ENTITY addOnsTitle.label                    "Extras">
-<!ENTITY addOnsAllow.label                    "Permitir sítios web de instalar actualizações de extras">
+<!ENTITY addOnsAllow.label                    "Permitir sítios web de instalar atualizações de extras">
 <!ENTITY addOnsAllow.accesskey                "b">
 <!ENTITY allowedSitesLink.label               "Sítios web permitidos">
-<!ENTITY autoAddOnsUpdates.label              "Procurar actualizações automaticamente">
+<!ENTITY autoAddOnsUpdates.label              "Procurar atualizações automaticamente">
 <!ENTITY autoAddOnsUpdates.accesskey          "o">
-<!ENTITY daily.label                          "diáriamente">
+<!ENTITY daily.label                          "diariamente">
 <!ENTITY addOnsDaily.accesskey                "d">
 <!ENTITY weekly.label                         "semanalmente">
 <!ENTITY addOnsWeekly.accesskey               "l">
@@ -21,13 +21,13 @@
 <!ENTITY addonManagerLink.label               "Gerir extras">
 
 <!ENTITY appUpdates.caption                   "&brandShortName;">
-<!ENTITY autoAppUpdates.label                 "Procurar actualizações automaticamente">
+<!ENTITY autoAppUpdates.label                 "Procurar atualizações automaticamente">
 <!ENTITY autoAppUpdates.accesskey             "t">
 <!ENTITY appDaily.accesskey                   "a">
 <!ENTITY appWeekly.accesskey                  "e">
 <!ENTITY appModeAutomatic.label               "Transferir automaticamente e instalar a actualização">
 <!ENTITY appModeAutomatic.accesskey           "c">
-<!ENTITY appModeAutoAddonWarn.label           "Avisar-me caso desactive algum dos meus extras">
+<!ENTITY appModeAutoAddonWarn.label           "Avisar-me caso desative algum dos meus extras">
 <!ENTITY appModeAutoAddonWarn.accesskey       "v">
-<!ENTITY updateHistoryButton.label            "Mostrar histórico de actualizações">
+<!ENTITY updateHistoryButton.label            "Mostrar histórico de atualizações">
 <!ENTITY updateHistoryButton.accesskey        "u">

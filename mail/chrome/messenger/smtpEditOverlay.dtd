@@ -3,15 +3,15 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY settings.caption "Definições">
-<!ENTITY security.caption "Autenticação e Segurança">
+<!ENTITY security.caption "Autenticação e segurança">
 <!ENTITY serverName.label "Nome do servidor:">
-<!ENTITY serverName.accesskey "S">
+<!ENTITY serverName.accesskey "s">
 <!ENTITY serverDescription.label "Descrição:">
 <!ENTITY serverDescription.accesskey "D">
 <!ENTITY serverPort.label "Porta:">
 <!ENTITY serverPort.accesskey "P">
 <!ENTITY userName.label "Nome de utilizador:">
-<!ENTITY userName.accesskey "u">
+<!ENTITY userName.accesskey "m">
 <!ENTITY connectionSecurity.label "Segurança da ligação:">
 <!ENTITY connectionSecurity.accesskey "n">
 <!ENTITY connectionSecurityType-0.label "Nenhuma">
