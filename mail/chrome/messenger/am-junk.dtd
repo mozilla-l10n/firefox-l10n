@@ -17,8 +17,9 @@
 <!ENTITY purge2.label 				      "dias">
 <!ENTITY whitelistHeader.label 		  "Não marcar mensagem como lixo eletrónico se o remetente estiver no: ">
 <!ENTITY whitelistHeader.accesskey 	"N">
-<!ENTITY ispHeadersWarning.label 	  "Se ativa, o &brandShortName; vai considerar automaticamente as mensagens marcadas por este classificador externo como lixo.">
-<!ENTITY ispHeaders.label 			    "Confiar nos dados de de lixo electrónico do: ">
+
+<!ENTITY ispHeadersWarning.label "Se ativado, o &brandShortName; vai considerar automaticamente as mensagens marcadas por este classificador externo como lixo.">
+<!ENTITY ispHeaders.label "Confiar nos cabeçalhos de lixo electrónico do: ">
 <!ENTITY ispHeaders.accesskey 		  "C">
 <!ENTITY junkClassification.label   "Seleção">
 <!ENTITY junkActions.label 			    "Destino e retenção">

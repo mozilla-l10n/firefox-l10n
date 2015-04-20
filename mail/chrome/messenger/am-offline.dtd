@@ -45,7 +45,7 @@
 
   &ageAutosyncBefore.label [textbox for autosync value] &ageAutosyncMiddle.label; [dropdown for autosync interval] &ageAutosyncAfter.label;
 -->
-<!ENTITY allAutosync.label               "Sincronizar todas as mensagens locais independentemente a idade">
+<!ENTITY allAutosync.label               "Sincronizar localmente todas as mensagens ignorando a idade">
 <!ENTITY allAutosync.accesskey           "c">
 <!ENTITY ageAutosyncBefore.label         "Sincronizar as mais recentes">
 <!ENTITY ageAutosync.accesskey           "z">

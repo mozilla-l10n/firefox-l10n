@@ -35,7 +35,7 @@ file names and tall enough to hint that there are more downloads in the list -->
 <!ENTITY cmd.close2.commandKey "j">
 <!ENTITY cmd.close2Unix.commandKey "y">
 <!ENTITY cmd.clearList.label "Limpar lista">
-<!ENTITY cmd.clearList.tooltip "Remove, da lista, as transferências completadas, canceladas e falhadas">
+<!ENTITY cmd.clearList.tooltip "Remove da lista as transferências concluídas, canceladas e falhadas">
 <!ENTITY cmd.clearList.accesskey "L">
 <!ENTITY cmd.find.commandKey "f">
 <!ENTITY cmd.search.commandKey "k">

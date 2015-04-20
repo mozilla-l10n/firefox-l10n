@@ -3,8 +3,9 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!-- extracted from am-archiveoptions.xul -->
-<!ENTITY dialogTitle.label "Opções de arquivo">
-<!ENTITY archiveGranularityPrefix.label "Ao arquivar mensagens, colocar em:">
+
+<!ENTITY dialogTitle.label "Opções de arquivamento">
+<!ENTITY archiveGranularityPrefix.label "Ao arquivar mensagens, colocá-las em:">
 <!ENTITY archiveFlat.label "Uma única pasta">
 <!ENTITY archiveFlat.accesskey "s">
 <!ENTITY archiveYearly.label "Pastas arquivadas por ano">
