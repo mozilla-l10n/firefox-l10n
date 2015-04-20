@@ -15,13 +15,13 @@
 <!-- LOCALIZATION NOTE (NameField1.id) : DONT_TRANSLATE -->
 
 
-<!ENTITY NameField1.id                  "LastName">
+<!ENTITY NameField1.id                  "FirstName">
 <!-- LOCALIZATION NOTE (NameField2.id) : DONT_TRANSLATE -->
-<!ENTITY NameField2.id                  "FirstName">
+<!ENTITY NameField2.id                  "LastName">
 <!-- LOCALIZATION NOTE (PhoneticField1.id) : DONT_TRANSLATE -->
-<!ENTITY PhoneticField1.id              "PhoneticLastName">
+<!ENTITY PhoneticField1.id              "PhoneticFirstName">
 <!-- LOCALIZATION NOTE (PhoneticField2.id) : DONT_TRANSLATE -->
-<!ENTITY PhoneticField2.id              "PhoneticFirstName">
+<!ENTITY PhoneticField2.id              "PhoneticLastName">
 
 <!ENTITY NameField1.label               "Vezetéknév:">
 <!ENTITY NameField1.accesskey           "V">
@@ -77,13 +77,13 @@
 <!ENTITY Birthday.label                 "Születési dátum:">
 <!ENTITY Birthday.accesskey             "S">
 <!ENTITY In.label                       "">
-<!ENTITY Year.placeholder               "évente">
+<!ENTITY Year.placeholder               "Év">
 <!ENTITY Or.value                       "vagy">
 <!ENTITY Age.placeholder                "Kor">
 <!ENTITY YearsOld.label                 "">
 
 <!ENTITY Work.tab                       "Munkahely">
-<!ENTITY Work.accesskey                 "M">
+<!ENTITY Work.accesskey                 "h">
 <!ENTITY JobTitle.label                 "Beosztás:">
 <!ENTITY JobTitle.accesskey             "B">
 <!ENTITY Department.label               "Osztály:">
