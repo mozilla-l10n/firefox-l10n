@@ -2,8 +2,8 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY adaptiveJunkLog.title "Registo do lixo eletrónico inteligente">
-<!ENTITY adaptiveJunkLogInfo.label "Registo de atividade do lixo eletrónico inteligente.">
+<!ENTITY adaptiveJunkLog.title "Registo inteligente de lixo eletrónico">
+<!ENTITY adaptiveJunkLogInfo.label "Registo inteligente de atividade do lixo eletrónico.">
 <!ENTITY clearLog.label "Limpar registo">
 <!ENTITY clearLog.accesskey "L">
 <!ENTITY closeLog.label "Fechar">

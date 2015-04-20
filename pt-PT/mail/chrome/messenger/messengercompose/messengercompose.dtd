@@ -241,7 +241,7 @@ to the strings in attachmentCount in composeMsgs.properties -->
 <!ENTITY attachments.accesskey "n">
 
 <!-- Format Toolbar, imported from editorAppShell.xul -->
-<!ENTITY SmileButton.tooltip "Inserir um ícone emotivo">
+<!ENTITY SmileButton.tooltip "Inserir um ícone expressivo">
 <!ENTITY smiley1Cmd.label "Alegre">
 <!ENTITY smiley2Cmd.label "Triste">
 <!ENTITY smiley3Cmd.label "Piscadela">

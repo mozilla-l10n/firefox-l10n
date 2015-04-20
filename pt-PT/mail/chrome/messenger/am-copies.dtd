@@ -3,6 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!-- extracted from am-copies.xul -->
+
 <!ENTITY copyAndFolderTitle.label "Cópias e pastas">
 <!ENTITY sendingPrefix.label "Ao enviar mensagens, automaticamente: ">
 <!ENTITY fccMailFolder.label "Guardar cópia em:">
@@ -10,14 +11,14 @@
 <!ENTITY fccReplyFollowsParent.label "Guardar respostas na pasta da mensagem que é respondida">
 <!ENTITY fccReplyFollowsParent.accesskey "d">
 <!-- LOCALIZATION NOTE (ccAddress.label): do not translate "Cc" in below line -->
-<!ENTITY ccAddress.label "Cc para estes endereços eletrónicos:">
+<!ENTITY ccAddress.label "Cc estes endereços de correio:">
 <!ENTITY ccAddress.accesskey "C">
 <!ENTITY ccAddressList.placeholder "Separar endereços com vírgulas">
 <!-- LOCALIZATION NOTE (bccAddress.label): do not translate "Bcc" in below line -->
-<!ENTITY bccAddress.label "Bcc para estes endereços eletrónicos:">
+<!ENTITY bccAddress.label "Bcc para estes endereços de correio:">
 <!ENTITY bccAddress.accesskey "B">
 <!ENTITY bccAddressList.placeholder "Separar endereços com vírgulas">
-<!ENTITY saveMessageDlg.label "Mostrar diálogo de confirmação ao guardar as mensagens">
+<!ENTITY saveMessageDlg.label "Mostrar janela de confirmação ao guardar as mensagens">
 <!ENTITY saveMessageDlg.accesskey "s">
 <!-- LOCALIZATION NOTE (sentFolderOn.label): OK to translate this, bug #57440 -->
 <!ENTITY sentFolderOn.label "Pasta &quot;Enviadas&quot; em:">

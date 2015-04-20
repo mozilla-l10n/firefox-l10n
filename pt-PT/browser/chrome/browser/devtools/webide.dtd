@@ -185,10 +185,10 @@
 <!ENTITY wifi_auth_scan_request "O ponto a que está a ligar necessita de mais informação para autenticar esta ligação. Por favor analise ao código QR abaixo através da linha de comandos do outro dispositivo.">
 <!-- LOCALIZATION NOTE (wifi_auth_no_scanner): Link text to assist users with
      devices that can't scan a QR code. -->
-<!ENTITY wifi_auth_no_scanner "Nenhum analisador QR preparado?">
+<!ENTITY wifi_auth_no_scanner "Nenhum digitalizador de QR pronto?">
 <!-- LOCALIZATION NOTE (wifi_auth_yes_scanner): Link text to assist users with
      devices that can scan a QR code. -->
-<!ENTITY wifi_auth_yes_scanner "Tem um analisador QR preparado?">
+<!ENTITY wifi_auth_yes_scanner "Tem um digitalizador de pronto?">
 <!-- LOCALIZATION NOTE (wifi_auth_token_request): Instructions requesting the
      user to transfer authentication info by transferring a token. -->
 <!ENTITY wifi_auth_token_request "Se o seu outro dispositivo pede por um token em vez de um código QR, copie o valor abaixo para o seu outro dispositivo:">

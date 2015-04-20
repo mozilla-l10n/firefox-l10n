@@ -15,8 +15,8 @@
 <!ENTITY saveCmd.accesskey "G">
 <!ENTITY saveAsCmd.label "Guardar como...">
 <!ENTITY saveAsCmd.accesskey "u">
-<!ENTITY saveAsChangeEncodingCmd2.label "Guardar e mudar a codificação de caracteres">
-<!ENTITY saveAsChangeEncodingCmd2.accesskey "e">
+<!ENTITY saveAsChangeEncodingCmd2.label "Guardar e alterar a codificação de texto">
+<!ENTITY saveAsChangeEncodingCmd2.accesskey "G">
 <!ENTITY publishCmd.label "Publicar">
 <!ENTITY publishCmd.accesskey "b">
 <!ENTITY publishCmd.key "S">
@@ -26,7 +26,7 @@
 <!ENTITY fileRevert.accesskey "v">
 
 <!-- Edit menu items -->
-<!ENTITY publishSettings.label "Definições de publicação do sítio...">
+<!ENTITY publishSettings.label "Configurações do sítio de publicação...">
 <!ENTITY publishSettings.accesskey "b">
 
 <!-- Toolbar buttons/items -->
