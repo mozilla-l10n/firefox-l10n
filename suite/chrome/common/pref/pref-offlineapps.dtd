@@ -1,10 +1,9 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-
 <!-- extracted from content/pref-offlineapps.xul -->
-
 <!--LOCALIZATION NOTE : FILE Offline Apps prefs dialog -->
+
 <!ENTITY pref.offlineapps.title             "Aplicações web no modo desligado">
 <!ENTITY pref.offlineCache.caption          "Conteúdo web no modo desligado e dados de utilizador">
 

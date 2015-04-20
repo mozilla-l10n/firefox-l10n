@@ -12,7 +12,7 @@
 <!ENTITY cmd.show.label                            "Abrir pasta">
 <!ENTITY cmd.show.accesskey                        "F">
 <!ENTITY cmd.showMac.label                         "Mostrar no finder">
-<!ENTITY cmd.showMac.accesskey                     "F">
+<!ENTITY cmd.showMac.accesskey                     "f">
 <!ENTITY cmd.open.label                            "Abrir">
 <!ENTITY cmd.open.accesskey                        "A">
 <!ENTITY cmd.removeFromHistory.label               "Remover do histórico">

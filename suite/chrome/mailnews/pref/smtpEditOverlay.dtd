@@ -5,7 +5,7 @@
 <!ENTITY settings.caption "Definições">
 <!ENTITY security.caption "Autenticação e Segurança">
 <!ENTITY serverName.label "Nome do servidor:">
-<!ENTITY serverName.accesskey "S">
+<!ENTITY serverName.accesskey "s">
 <!ENTITY serverDescription.label "Descrição:">
 <!ENTITY serverDescription.accesskey "D">
 <!ENTITY serverPort.label "Porta:">

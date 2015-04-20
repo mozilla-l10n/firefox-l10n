@@ -11,7 +11,7 @@
 <!ENTITY alwaysCheckSpelling.label            "Rodas as caixas">
 <!ENTITY spellForMailAndNews.label            "Correio &amp; Grupos de discussão">
 <!ENTITY checkSpellingBeforeSend.label        "Verificar escrita antes de enviar">
-<!ENTITY checkSpellingBeforeSend.accesskey    "C">
+<!ENTITY checkSpellingBeforeSend.accesskey    "c">
 <!ENTITY spellCheckInline.label               "Verificr escrita ao escrever">
 <!ENTITY spellCheckInline.accesskey           "e">
 <!ENTITY languagePopup.label                  "Idioma:">

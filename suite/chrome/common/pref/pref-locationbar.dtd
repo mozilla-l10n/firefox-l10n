@@ -2,6 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!--LOCALIZATION NOTE : FILE The Location Bar prefs panel -->
+
 <!ENTITY pref.locationBar.title                "Barra de localização">
 
 <!ENTITY autoComplete.label                    "Conclusão automática">
@@ -31,7 +32,6 @@
 <!ENTITY formatting.label                      "Formatação">
 <!ENTITY domainFormatting.label                "Destacar domínio efetivo para os sítios web e servidores FTP">
 <!ENTITY domainFormatting.accesskey            "D">
-
 <!ENTITY highlightSecure.label                 "Destaca páginas web com um nível de segurança alto">
 <!ENTITY highlightSecure.accesskey             "c">
 

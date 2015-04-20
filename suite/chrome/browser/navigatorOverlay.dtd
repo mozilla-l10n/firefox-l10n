@@ -1,8 +1,8 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-
 <!-- File Menu -->
+
 <!ENTITY tabCmd.label "Separador de navegação">
 <!ENTITY tabCmd.accesskey "S">
 <!ENTITY tabCmd.commandkey "t">
@@ -21,11 +21,11 @@
 
 <!ENTITY printSetupCmd.label "Configuração de página…">
 <!ENTITY printSetupCmd.accesskey "u">
-
 <!-- Edit Menu -->
-<!ENTITY findOnCmd.label "Procurar nesta página…">
 
+<!ENTITY findOnCmd.label "Procurar nesta página…">
 <!-- View Menu -->
+
 <!ENTITY toolbarsCmd.label "Mostrar/ocultar">
 <!ENTITY toolbarsCmd.accesskey "c">
 <!ENTITY tabbarCmd.label "Barra de separadores">
@@ -52,8 +52,8 @@
 <!ENTITY pageInfoCmd.label "Informação da página">
 <!ENTITY pageInfoCmd.accesskey "I">
 <!ENTITY pageInfoCmd.commandkey "i">
-
 <!-- Go Menu -->
+
 <!ENTITY goMenu.label "Ir">
 <!ENTITY goMenu.accesskey "I">
 <!ENTITY goHomeCmd.label "Página inicial">
@@ -71,8 +71,8 @@
 <!ENTITY historyRestoreLastSession.accesskey "R">
 <!ENTITY syncTabsMenu.label "Separadores de outros computadores">
 <!ENTITY syncTabsMenu.accesskey "o">
-
 <!-- Bookmarks Menu -->
+
 <!ENTITY bookmarksMenu.label "Marcadores">
 <!ENTITY bookmarksMenu.accesskey "M">
 <!ENTITY addCurPageCmd.label "Adicionar aos marcadores">
@@ -85,10 +85,10 @@
 <!ENTITY manBookmarksCmd.label "Gerir marcadores…">
 <!ENTITY manBookmarksCmd.accesskey "m">
 <!ENTITY manBookmarksCmd.commandkey "b">
-
 <!-- Tools Menu -->
+
 <!ENTITY searchInternetCmd.label "Pesquisar na Web">
-<!ENTITY searchInternetCmd.accesskey "S">
+<!ENTITY searchInternetCmd.accesskey "s">
 <!ENTITY searchInternet.commandKey "s">
 <!ENTITY translateMenu.label "Traduzir página">
 <!ENTITY translateMenu.accesskey "T">
@@ -111,9 +111,9 @@
 
 <!ENTITY cookieImageMessageTitle.label "Permissões da imagem alteradas">
 <!ENTITY cookieDisplayImagesCmd.label "Gerir permissões da imagem">
-<!ENTITY cookieDisplayImagesCmd.accesskey "M">
+<!ENTITY cookieDisplayImagesCmd.accesskey "m">
 <!ENTITY cookieAllowImagesCmd.label "Permitir imagens deste sítio web">
-<!ENTITY cookieAllowImagesCmd.accesskey "A">
+<!ENTITY cookieAllowImagesCmd.accesskey "a">
 <!ENTITY cookieAllowImagesMsg.label "As imagens deste sítio web serão sempre transferidas.">
 <!ENTITY cookieImagesDefaultCmd.label "Usar as permissões de imagem pré-definidas">
 <!ENTITY cookieImagesDefaultCmd.accesskey "U">
@@ -128,9 +128,9 @@
 <!ENTITY cookieManagePopups.accesskey "G">
 
 <!ENTITY cookieCookieManager.label "Gestor de cookie">
-<!ENTITY cookieCookieManager.accesskey "C">
+<!ENTITY cookieCookieManager.accesskey "c">
 <!ENTITY cookieImageManager.label "Gestor de imagens">
-<!ENTITY cookieImageManager.accesskey "I">
+<!ENTITY cookieImageManager.accesskey "i">
 <!ENTITY cookiePopupManager.label "Gestor de popup">
 <!ENTITY cookiePopupManager.accesskey "o">
 

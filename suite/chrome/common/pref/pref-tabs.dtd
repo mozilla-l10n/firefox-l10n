@@ -11,7 +11,7 @@
 <!ENTITY warnOnClose.label "Avisar-me quando fechar uma janela com múltiplos separadores">
 <!ENTITY warnOnClose.accesskey "n">
 <!ENTITY relatedAfterCurrent.label "Abrir separadores relacionados depois do separador atual">
-<!ENTITY relatedAfterCurrent.accesskey "O">
+<!ENTITY relatedAfterCurrent.accesskey "o">
 <!ENTITY loadGroup.label "Ao abrir um grupo de marcadores">
 <!ENTITY loadGroupAppend.label "Adicionar separadores">
 <!ENTITY loadGroupAppend.accesskey "A">

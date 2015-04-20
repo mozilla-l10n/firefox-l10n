@@ -2,6 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!-- New Tag Dialog -->
-<!ENTITY newTagDialog.title "Criar nova etiqueta">
-<!ENTITY name.label "Nome da etiqueta:">
-<!ENTITY name.accesskey "t">
+
+<!ENTITY newTagDialog.title      "Criar nova etiqueta">
+<!ENTITY name.label              "Nome da etiqueta:">
+<!ENTITY name.accesskey          "t">

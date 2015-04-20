@@ -38,7 +38,3 @@
      Translate "Vietnamese" as an adjective for an encoding, not as the name of the language. -->
 <!ENTITY FallbackCharset.vietnamese   "Vietnamita">
 <!ENTITY FallbackCharset.other        "Outro (incluindo Europa Ocidental)">
-
-
-
-   

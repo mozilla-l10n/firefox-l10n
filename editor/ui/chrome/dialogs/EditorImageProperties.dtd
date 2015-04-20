@@ -1,15 +1,15 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-
 <!-- These strings are for use specifically in the editor's image and form image dialogs. -->
-
 <!-- Window title -->
+
+
 <!ENTITY windowTitle.label "Propriedades da imagem">
 
 <!ENTITY pixelsPopup.value "pixeis">
-
 <!-- These are in the Location tab panel -->
+
 <!ENTITY locationEditField.label "Localização da imagem:">
 <!ENTITY locationEditField.accessKey "L">
 <!ENTITY locationEditField.tooltip "Escreva o nome ou a localização da imagem">
@@ -23,9 +23,9 @@
 <!ENTITY noAltText.accessKey "u">
 
 <!ENTITY previewBox.label "Pré-visualizar imagem">
-
 <!-- These controls are in the Dimensions tab panel -->
 <!-- actualSize.label should be same as actualSizeRadio.label + ":" -->
+
 <!ENTITY actualSize.label "Tamanho atual:">
 <!ENTITY actualSizeRadio.label "Tamanho atual">
 <!ENTITY actualSizeRadio.accessKey "a">
@@ -40,21 +40,21 @@
 <!ENTITY constrainCheckbox.label "Contrair">
 <!ENTITY constrainCheckbox.accessKey "C">
 <!ENTITY constrainCheckbox.tooltip "Manter a razão de apresentação da imagem">
-
 <!-- These controls are in the Image Map box of the expanded area -->
+
 <!ENTITY imagemapBox.label "Mapa de imagem">
 <!ENTITY removeImageMapButton.label "Remover">
 <!ENTITY removeImageMapButton.accessKey "R">
-
 <!-- These are the options for image alignment -->
+
 <!ENTITY alignment.label "Alinhar o texto à imagem">
 <!ENTITY bottomPopup.value "No fundo">
 <!ENTITY topPopup.value "No topo">
 <!ENTITY centerPopup.value "No centro">
 <!ENTITY wrapRightPopup.value "Moldar à direita">
 <!ENTITY wrapLeftPopup.value "Moldar à esquerda">
-
 <!-- These controls are in the Spacing Box -->
+
 <!ENTITY spacingBox.label "Espaçamento">
 <!ENTITY leftRightEditField.label "Esquerda e direita:">
 <!ENTITY leftRightEditField.accessKey "E">
@@ -62,15 +62,15 @@
 <!ENTITY topBottomEditField.accessKey "T">
 <!ENTITY borderEditField.label "Limite sólido:">
 <!ENTITY borderEditField.accessKey "L">
-
 <!-- These controls are in the Link Box -->
+
 <!ENTITY showImageLinkBorder.label "Mostrar limite ao redor da ligação à imagem">
 <!ENTITY showImageLinkBorder.accessKey "M">
 <!ENTITY LinkAdvancedEditButton.label "Ligar à edição avançada…">
 <!ENTITY LinkAdvancedEditButton.accessKey "L">
 <!ENTITY LinkAdvancedEditButton.tooltip "Adicionar ou modificar atributos HTML, atributos de estilo e JavaScript">
-
 <!-- These tabs are currently used in the image input dialog -->
+
 <!ENTITY imageInputTab.label "Formulário">
 <!ENTITY imageLocationTab.label "Localização">
 <!ENTITY imageDimensionsTab.label "Dimensões">

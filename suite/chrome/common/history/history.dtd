@@ -1,8 +1,8 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-
 <!-- history.xul, history-panel.xul, placesOverlay.xul -->
+
 
 <!ENTITY historyWindowTitle.label       "Histórico">
 <!ENTITY menuBar.tooltip                "Barra de Menu">
@@ -15,7 +15,7 @@
 <!ENTITY view.columns.label             "Mostrar colunas">
 <!ENTITY view.columns.accesskey         "c">
 <!ENTITY view.sortBy.label              "Ordenar por">
-<!ENTITY view.sortBy.accesskey            "O">
+<!ENTITY view.sortBy.accesskey          "O">
 <!ENTITY view.groupBy.label             "Agrupar por">
 <!ENTITY view.groupBy.accesskey         "g">
 

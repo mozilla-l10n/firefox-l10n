@@ -1,8 +1,8 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-
 <!-- extracted from MsgSynchronize.xul and msgSelectOffline.xul-->
+
 
 <!ENTITY MsgSynchronize.label "Transferir e sincronizar mensagens">
 <!ENTITY MsgSelect.label "Itens para utilização no modo desligado">
@@ -11,7 +11,7 @@
 <!ENTITY syncTypeMail.label "Mensagens eletrónicas">
 <!ENTITY syncTypeMail.accesskey "e">
 <!ENTITY syncTypeNews.label "Mensagens de grupos de notícias">
-<!ENTITY syncTypeNews.accesskey "N">
+<!ENTITY syncTypeNews.accesskey "n">
 <!ENTITY sendMessage.label "Enviar mensagens não enviadas">
 <!ENTITY sendMessage.accesskey "E">
 <!ENTITY workOffline.label "Trabalhar no modo desligado ao terminar a transferência e/ou sincronização">

@@ -32,8 +32,8 @@
 <!ENTITY tab.storage.label "Armazenamento">
 <!ENTITY tab.formdata.label "Formulário de dados">
 <!ENTITY tab.forget.label "Esquecer">
-
 <!-- cookies -->
+
 <!ENTITY cookies.description "Este domínio guardou os seguintes cookies no seu computador:">
 
 <!ENTITY cookies.tree.host.label "Sítio web">
@@ -60,8 +60,8 @@
 
 <!ENTITY cookies.blockOnRemove.label "Ao remover, bloquear os sítios web listados de instalar cookies no futuro">
 <!ENTITY cookies.blockOnRemove.accesskey "o">
-
 <!-- permissions -->
+
 <!ENTITY perm.UseDefault "Usar pré-definição">
 <!ENTITY perm.AskAlways "Perguntar sempre">
 <!ENTITY perm.NeverSave "Nunca guardar">
@@ -73,8 +73,8 @@
 <!ENTITY perm.host.placeholder "Escreva o nome do servidor">
 <!ENTITY perm.button.add.label "Adicionar">
 <!ENTITY perm.button.add.accesskey "A">
-
 <!-- preferences -->
+
 <!ENTITY prefs.description "As preferências de conteúdo são uma maneira do &brandShortName; guardar as suas definições, como os níveis de zoom, para um determinado sítio web.">
 
 <!ENTITY prefs.tree.host.label "Sítio web">
@@ -88,8 +88,8 @@
 
 <!ENTITY prefs.button.remove.label "Remover">
 <!ENTITY prefs.button.remove.accesskey "R">
-
 <!-- passwords -->
+
 <!ENTITY pwd.description "Tem as seguintes senhas guardadas para este domínio:">
 
 <!ENTITY pwd.tree.host.label "Sítio web">
@@ -104,9 +104,9 @@
 <!ENTITY pwd.ctx.selectAll.accesskey "a">
 
 <!ENTITY pwd.button.remove.label "Remove">
-<!ENTITY pwd.button.remove.accesskey "r">
-
+<!ENTITY pwd.button.remove.accesskey "R">
 <!-- storage -->
+
 <!ENTITY storage.description "This domain uses the following web storages on your computer:">
 
 <!ENTITY storage.tree.host.label "Sítio web">
@@ -120,8 +120,8 @@
 
 <!ENTITY storage.button.remove.label "Remover">
 <!ENTITY storage.button.remove.accesskey "R">
-
 <!-- form data -->
+
 <!ENTITY fdata.search.placeholder "Pesquisar o campo de dados">
 
 <!ENTITY fdata.tree.fieldname.label "Nome do campo">
@@ -137,8 +137,8 @@
 
 <!ENTITY fdata.button.remove.label "Remover">
 <!ENTITY fdata.button.remove.accesskey "R">
-
 <!-- forget -->
+
 <!ENTITY forget.cookies.label "Cookies">
 <!ENTITY forget.cookies.accesskey "C">
 <!ENTITY forget.permissions.label "Permissões">

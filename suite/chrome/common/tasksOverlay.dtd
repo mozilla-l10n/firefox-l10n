@@ -1,19 +1,19 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-
 <!-- extracted from tasksOverlay.xul -->
+
 <!ENTITY navigatorCmd.label "Navegador">
 <!ENTITY navigatorCmd.accesskey "N">
 <!ENTITY navigatorCmd.commandkey "1">
 <!-- LOCALIZATION NOTE (editorCmd.label): DONT_TRANSLATE -->
-<!ENTITY editorCmd.label					"Compositor">
-<!ENTITY editorCmd.accesskey				"c">
-<!ENTITY editorCmd.commandkey				"4">
+<!ENTITY editorCmd.label     "Composer">
+
+<!ENTITY editorCmd.commandkey    "4">
 
 <!ENTITY errorConsoleCmd.label                                  "Consola de erro">
-<!ENTITY errorConsoleCmd.accesskey				"C">
-<!ENTITY errorConsoleCmd.commandkey				"j">
+<!ENTITY errorConsoleCmd.accesskey    "C">
+<!ENTITY errorConsoleCmd.commandkey    "j">
 
 <!ENTITY taskNavigator.tooltip  "Navegador">
 <!ENTITY taskComposer.tooltip  "Compositor">

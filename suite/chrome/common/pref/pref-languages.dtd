@@ -3,7 +3,8 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!-- LOCALIZATION NOTE : FILE 'Languages' preferences dialog -->
 
-<!ENTITY  languages.customize.prefLangDescript          "Algumas páginas web estão disponíveis em diversos idiomas. Escolha os idiomas para as páginas web, por ordem de preferência.">
+
+<!ENTITY languages.customize.prefLangDescript           "Algumas páginas web estão disponíveis em diversos idiomas. Escolha os idiomas para as páginas web, por ordem de preferência.">
 <!ENTITY languages.customize.title                      "Idiomas">
 <!ENTITY langtitle.label                                "idiomas para páginas web">
 <!ENTITY languages.customize.prefAddLangDescript        "Selecione o(s) idiomas) que deseja adicionar.">

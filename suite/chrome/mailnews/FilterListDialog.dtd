@@ -6,9 +6,9 @@
 <!ENTITY nameColumn.label "Nome do filtro">
 <!ENTITY activeColumn.label "Ligado">
 <!ENTITY newButton.label "Novo...">
-<!ENTITY newButton.accesskey "n">
+<!ENTITY newButton.accesskey "N">
 <!ENTITY editButton.label "Editar...">
-<!ENTITY editButton.accesskey "e">
+<!ENTITY editButton.accesskey "E">
 <!ENTITY deleteButton.label "Apagar">
 <!ENTITY deleteButton.accesskey "A">
 <!ENTITY reorderUpButton.label "Para cima">

@@ -39,11 +39,11 @@
 <!ENTITY  close.label                   "Fechar o &brandShortName;">
 <!ENTITY  askEachTime.label             "perguntar sempre que necessário">
 
-<!ENTITY cookieExceptions.label "Exceções...">
-<!ENTITY cookieExceptions.accesskey "x">
+<!ENTITY  cookieExceptions.label        "Exceções...">
+<!ENTITY  cookieExceptions.accesskey    "x">
 
-<!ENTITY showCookies.label "Mostrar as cookies...">
-<!ENTITY showCookies.accesskey "S">
+<!ENTITY  showCookies.label             "Mostrar as cookies...">
+<!ENTITY  showCookies.accesskey         "s">
 
 <!ENTITY  historyHeader.pre.label          "O &brandShortName; irá:">
 <!ENTITY  historyHeader.pre.accesskey      "i">
@@ -53,10 +53,10 @@
 <!ENTITY  historyHeader.post.label         "">
 
 <!ENTITY  rememberDescription.label      "O &brandShortName; irá lembrar-se da sua navegação, transferências, formulários e histórico de pesquisa e manter cookies dos sítios web que visita.">
-
 <!-- LOCALIZATION NOTE (rememberActions.pre.label): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (rememberActions.middle.label): include a starting and trailing space as needed -->
 <!-- LOCALIZATION NOTE (rememberActions.post.label): include a starting space as needed -->
+
 <!ENTITY  rememberActions.pre.label           "Poderá querer ">
 <!ENTITY  rememberActions.clearHistory.label  "limpar os seu histórico recente">
 <!ENTITY  rememberActions.middle.label        ", ou ">
@@ -64,9 +64,9 @@
 <!ENTITY  rememberActions.post.label          ".">
 
 <!ENTITY  dontrememberDescription.label  "O &brandShortName; irá usar as mesmas definições para a navegação privada e não irá lembrar-se de qualquer histórico de navegação na web.">
-
 <!-- LOCALIZATION NOTE (dontrememberActions.pre.label): include a trailing space as needed -->
-<!-- LOCALIZATION NOTE (dontrememberActions.post.label): irememberHistory.post.labelnclude a starting space as needed -->
+<!-- LOCALIZATION NOTE (dontrememberActions.post.label): include a starting space as needed -->
+
 <!ENTITY  dontrememberActions.pre.label          "Poderá também querer ">
 <!ENTITY  dontrememberActions.clearHistory.label "limpar todo o seu histórico actual">
 <!ENTITY  dontrememberActions.post.label         ".">

@@ -1,6 +1,10 @@
-<!ENTITY pref.http.title                     "Rede HTTP">
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY pref.http.title                     "Rede HTTP">
 <!-- Network-->
+
 <!ENTITY prefDirect.label                    "Opções de ligação direta">
 <!ENTITY prefProxy.label                     "Opções de ligação Proxy">
 <!ENTITY prefEnableHTTP10.label              "Usar HTTP 1.0">

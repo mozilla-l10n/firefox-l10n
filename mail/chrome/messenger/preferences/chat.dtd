@@ -2,26 +2,26 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY  startupAction.label "Ao iniciar o &brandShortName;:">
-<!ENTITY  startupAction.accesskey "c">
-<!ENTITY  startupOffline.label "Manter a minha conta de conversação desligada">
-<!ENTITY  startupConnectAuto.label "Ligar às minhas contas de conversação automaticamente">
-
+<!ENTITY  startupAction.label         "Ao iniciar o &brandShortName;:">
+<!ENTITY  startupAction.accesskey     "c">
+<!ENTITY  startupOffline.label        "Manter a minha conta de conversação desligada">
+<!ENTITY  startupConnectAuto.label    "Ligar às minhas contas de conversação automaticamente">
 <!-- LOCALIZATION NOTE: reportIdleAfter.label is displayed first, then
 there's a field where the user can enter a number, and itemTime is
 displayed at the end of the line. The translations of the
 reportIdleAfter.label and idleTime parts don't have to mean the exact
 same thing as in English; please try instead to translate the whole
 sentence. -->
-<!ENTITY  reportIdleAfter.label "Informar os meus contactos que estou ausente após">
-<!ENTITY  reportIdleAfter.accesskey "I">
-<!ENTITY  idleTime "minutos de inatividade">
 
-<!ENTITY  andSetStatusToAway.label "e definir o meu estado para ausente com esta mensagem:">
-<!ENTITY  andSetStatusToAway.accesskey "a">
+<!ENTITY  reportIdleAfter.label         "Informar os meus contactos que estou ausente após">
+<!ENTITY  reportIdleAfter.accesskey     "I">
+<!ENTITY  idleTime                      "minutos de inatividade">
 
-<!ENTITY  sendTyping.label "Enviar notificações de escrita nas conversações">
-<!ENTITY  sendTyping.accesskey "t">
+<!ENTITY  andSetStatusToAway.label      "e definir o meu estado para ausente com esta mensagem:">
+<!ENTITY  andSetStatusToAway.accesskey  "a">
+
+<!ENTITY  sendTyping.label              "Enviar notificações de escrita nas conversações">
+<!ENTITY  sendTyping.accesskey          "t">
 
 <!ENTITY  chatNotifications.label             "Qando chegar uma mensagem para si:">
 <!ENTITY  desktopChatNotifications.label      "Mostrar notificação:">
@@ -30,7 +30,7 @@ sentence. -->
 <!ENTITY  buddyInfoOnly.label                 "apenas com o nome do remetente">
 <!ENTITY  dummyNotification.label             "sem informação nenhuma">
 <!ENTITY  chatSound.accesskey                 "d">
-<!ENTITY  chatSound.label                     "Tocar um som">
+<!ENTITY  chatSound.label                     "d">
 <!ENTITY  play.label                          "Tocar">
 <!ENTITY  play.accesskey                      "r">
 <!ENTITY  systemSound.label                   "Som pré-definido para novo correio">

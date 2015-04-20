@@ -3,18 +3,18 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 -->
-
 <!-- Note to localizers, don't localize the strings 'width' or 'height' -->
+
 <!ENTITY  pageInfoWindow.dimensions  "width: 100ch; height: 30em;">
 
-<!ENTITY  copy.key              "C">
-<!ENTITY  copy.label            "Copiar">
-<!ENTITY  copy.accesskey        "C">
-<!ENTITY  selectall.key         "A">
-<!ENTITY  selectall.label       "Selecionar tudo">
-<!ENTITY  selectall.accesskey   "t">
-<!ENTITY  openHelpMac.key       "?">
-<!ENTITY  closeWindow.key       "w">
+<!ENTITY  copy.key               "C">
+<!ENTITY  copy.label             "Copiar">
+<!ENTITY  copy.accesskey         "C">
+<!ENTITY  selectall.key          "A">
+<!ENTITY  selectall.label        "Selecionar tudo">
+<!ENTITY  selectall.accesskey    "t">
+<!ENTITY  openHelpMac.key        "?">
+<!ENTITY  closeWindow.key        "w">
 <!ENTITY  copyLinks.label           "Copiar ligação(ões)">
 <!ENTITY  copyLinks.accesskey       "l">
 <!ENTITY  openInNewTab.label        "Abrir num novo separador">
@@ -34,7 +34,7 @@
 <!ENTITY  generalEncoding       "Codificação:">
 <!ENTITY  generalMetaName       "Nome">
 <!ENTITY  generalMetaContent    "Conteúdo">
-<!ENTITY  generalSecurityDetails   "Detalhes">
+<!ENTITY  generalSecurityDetails           "Detalhes">
 <!ENTITY  generalSecurityDetails.accesskey "a">
 
 <!ENTITY  formsTab              "Formulários">

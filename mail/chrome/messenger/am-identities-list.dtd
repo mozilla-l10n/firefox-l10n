@@ -3,13 +3,13 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY identitiesListManageDesc.label "Gerir identidades para esta conta. A primeira identidade é utilizada como pré-definida.">
-<!ENTITY identitiesListAdd.label 		    "Adicionar...">
-<!ENTITY identitiesListAdd.accesskey 	  "A">
-<!ENTITY identitiesListEdit.label 		  "Editar...">
-<!ENTITY identitiesListEdit.accesskey 	"E">
-<!ENTITY identitiesListDefault.label 	  "Pré-definida">
+<!ENTITY identitiesListAdd.label  "Adicionar...">
+<!ENTITY identitiesListAdd.accesskey  "A">
+<!ENTITY identitiesListEdit.label "Editar...">
+<!ENTITY identitiesListEdit.accesskey "E">
+<!ENTITY identitiesListDefault.label "Pré-definida">
 <!ENTITY identitiesListDefault.accesskey "P">
-<!ENTITY identitiesListDelete.label 	  "Eliminar">
+<!ENTITY identitiesListDelete.label "Eliminar">
 <!ENTITY identitiesListDelete.accesskey "l">
-<!ENTITY identitiesListClose.label 		  "Fechar">
-<!ENTITY identitiesListClose.accesskey 	"c">
+<!ENTITY identitiesListClose.label "Fechar">
+<!ENTITY identitiesListClose.accesskey "c">

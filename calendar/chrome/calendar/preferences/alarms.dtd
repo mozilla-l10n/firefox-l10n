@@ -1,11 +1,11 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-
 <!-- WARNING! This file contains UTF-8 encoded characters!
    - If this ==> … <== doesn't look like an ellipsis (three dots in a row),
    - your editor isn't using UTF-8 encoding and may munge up the document!
   -->
+
 
 <!ENTITY pref.alarmgoesoff.label "Se o lembrete estiver vencido:">
 <!ENTITY pref.playasound "Tocar um som">
@@ -15,7 +15,7 @@
 <!ENTITY pref.calendar.alarms.sound.browse.label "Escolher...">
 <!ENTITY pref.calendar.alarms.sound.browse.accessKey "E">
 <!ENTITY pref.calendar.alarms.sound.play.label "Reproduzir">
-<!ENTITY pref.calendar.alarms.sound.play.accessKey "P">
+<!ENTITY pref.calendar.alarms.sound.play.accessKey "p">
 <!ENTITY pref.showalarmbox "Mostrar uma caixa de alarme">
 <!ENTITY pref.calendar.alarms.showAlarmBox.accessKey "M">
 <!ENTITY pref.missedalarms "Mostrar alarmes perdidos">

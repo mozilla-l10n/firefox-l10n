@@ -1,13 +1,13 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-
 <!-- Entities for AccountWizard -->
+
 
 <!ENTITY windowTitle.label "Assistente de criação de contas">
 <!ENTITY accountWizard.size "width: 55em; height: 44em;">
-
 <!-- Entities for Account Type page -->
+
 
 <!ENTITY accountSetupInfo2.label "Para poder receber mensagens, tem que configurar uma conta de correio.">
 <!ENTITY accountTypeTitle.label "Configuração de conta">
@@ -17,13 +17,13 @@
 <!ENTITY accountTypeMail.accesskey "C">
 <!ENTITY accountTypeNews.label "Conta de grupo de notícias">
 <!ENTITY accountTypeNews.accesskey "n">
-
 <!-- Entities for Identity page -->
+
 
 <!ENTITY identityTitle.label "Identidade">
 <!ENTITY identityDesc.label "Cada conta tem uma identidade, que é o seu identificador perante terceiros quando estes recebem as suas mensagens.">
-
 <!-- LOCALIZATION NOTE (fullnameDesc.label) : do not translate two of "&quot;" in below line -->
+
 <!ENTITY fullnameDesc.label "Introduza o nome que gostaria de exibir no campo &quot;De&quot; ao enviar mensagens">
 <!-- LOCALIZATION NOTE (fullnameExample.label) : use following directions for below line
   1, do not translate two of "&quot;"
@@ -35,8 +35,8 @@
 
 <!ENTITY emailLabel.label "Endereço eletrónico:">
 <!ENTITY emailLabel.accesskey "E">
+<!-- Entities for Incoming Server page -->
 
-<!-- Entities for Server page -->
 
 <!ENTITY incomingTitle.label "Informações do servidor de receção">
 <!ENTITY incomingServerTypeDesc.label "Selecione o tipo de servidor de receção que vai utilizar.">
@@ -64,8 +64,8 @@
 <!ENTITY newsServerNameDesc.label "Introduza o nome do servidor de notícias (NNTP) (por exemplo, &quot;notícias.exemplo.net&quot;).">
 <!ENTITY newsServerLabel.label "Servidor do grupo de notícias:">
 <!ENTITY newsServerLabel.accesskey "S">
-
 <!-- Entities for Outgoing Server page -->
+
 
 <!ENTITY outgoingTitle.label "Outgoing Server Information">
 <!-- LOCALIZATION NOTE (outgoingServer.description) : Do not translate "SMTP" and "&quot;smtp.example.net&quot;" in below line -->
@@ -75,10 +75,10 @@
 <!ENTITY outgoingUsername.description "Introduza o nome de utilizador disponibilizado pelo fornecedor de correio (normalmente, é o mesmo que o utilizador de receção).">
 <!ENTITY outgoingUsername.label "Nome de utilizador de envio:">
 <!ENTITY outgoingUsername.accesskey "u">
-
 <!-- LOCALIZATION NOTE (modifyOutgoing.suffix) : This string will be appended after each of
      haveSmtp1.suffix3, haveSmtp2.suffix3, haveSmtp3.suffix3 .
 -->
+
 <!ENTITY modifyOutgoing.suffix "Pode alterar os servidores de envio nas definições da conta.">
 <!-- LOCALIZATION NOTE (haveSmtp1.prefix and haveSmtp1.suffix3) : Do not translate "SMTP" and "&quot;" in
      these variables. Also, translate haveSmtp1.prefix and haveSmtp1.suffix3 as a single sentence, inserting
@@ -92,22 +92,22 @@
 -->
 <!ENTITY haveSmtp2.prefix "O nome de utilizador do servidor SMTP, &quot;">
 <!ENTITY haveSmtp2.suffix3 "&quot;, será utilizado.">
-<!-- LOCALIZATION NOTE (haveSmtp3.prefix and haveSmtp3.suffix) : Do not translate "SMTP" and "&quot;" in
-     these variables. Also, translate haveSmtp3.prefix and haveSmtp3.suffix as a single sentence, inserting
-     text after the "&quot;" entity in haveSmtp3.suffix, if required grammatically.
+<!-- LOCALIZATION NOTE (haveSmtp3.prefix and haveSmtp3.suffix3) : Do not translate "SMTP" and "&quot;" in
+     these variables. Also, translate haveSmtp3.prefix and haveSmtp3.suffix3 as a single sentence, inserting
+     text after the "&quot;" entity in haveSmtp3.suffix3, if required grammatically.
 -->
 <!ENTITY haveSmtp3.prefix "O servidor de envio SMTP, &quot;">
 <!ENTITY haveSmtp3.suffix3 "&quot;, é idêntico ao servidor de receção. O nome de utilizador de receção será utilizado.">
-
 <!-- Entities for Account name page -->
+
 
 <!ENTITY accnameTitle.label "Nome da conta">
 <!-- LOCALIZATION NOTE (accnameDesc.label) : do not translate any "&quot;" in below line -->
 <!ENTITY accnameDesc.label "Introduza o nome que identifica esta conta (por exemplo: &quot;Conta profissional&quot;, &quot;Conta pessoal&quot; ou &quot;Conta de notícias&quot;).">
 <!ENTITY accnameLabel.label "Nome da conta:">
 <!ENTITY accnameLabel.accesskey "a">
-
 <!-- Entities for Done (Congratulations) page -->
+
 
 <!ENTITY completionTitle.label "Parabéns!">
 <!ENTITY completionText.label "Verifique se a informações estão corretas.">

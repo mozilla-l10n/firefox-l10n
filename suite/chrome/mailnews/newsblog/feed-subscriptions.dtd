@@ -1,12 +1,12 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-
 <!-- Subscription Dialog -->
-<!ENTITY feedSubscriptions.label 	 "Subscrição de fontes">
+
+<!ENTITY feedSubscriptions.label     "Subscrição de fontes">
 <!ENTITY learnMore.label             "Saber mais sobre fontes">
 
-<!ENTITY feedTitle.label 			 "Título:">
+<!ENTITY feedTitle.label             "Título:">
 <!ENTITY feedTitle.accesskey         "T">
 
 <!ENTITY feedLocation.label          "URL da fonte:">
@@ -27,17 +27,17 @@
 <!ENTITY autotagUsePrefix.accesskey  "p">
 <!ENTITY autoTagPrefix.placeholder   "Introduza um prefixo para as etiquetas">
 
-<!ENTITY button.addFeed.label "Adicionar">
-<!ENTITY button.addFeed.accesskey "A">
-<!ENTITY button.editFeed.label "Editar">
-<!ENTITY button.editFeed.accesskey "E">
-<!ENTITY button.removeFeed.label "Remover">
+<!ENTITY button.addFeed.label        "Adicionar">
+<!ENTITY button.addFeed.accesskey    "A">
+<!ENTITY button.editFeed.label       "Editar">
+<!ENTITY button.editFeed.accesskey   "E">
+<!ENTITY button.removeFeed.label     "Remover">
 <!ENTITY button.removeFeed.accesskey "R">
-<!ENTITY button.importOPML.label "Importar">
+<!ENTITY button.importOPML.label     "Importar">
 <!ENTITY button.importOPML.accesskey "I">
-<!ENTITY button.exportOPML.label "Exportar">
-<!ENTITY button.exportOPML.accesskey "T">
+<!ENTITY button.exportOPML.label     "Exportar">
+<!ENTITY button.exportOPML.accesskey "t">
 <!ENTITY button.exportOPML.tooltip   "Exporta fontes com a estrutura da pasta; ctrl clique ou ctrl enter para exportar fontes como uma lista">
 
-<!ENTITY cmd.close.commandKey "W">
+<!ENTITY cmd.close.commandKey        "W">
 <!ENTITY button.close.label          "Fechar">

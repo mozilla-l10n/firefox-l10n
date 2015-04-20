@@ -2,18 +2,22 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!-- Title -->
-<!ENTITY mailListWindow.title 			"Lista de correio">
+
+<!ENTITY mailListWindow.title           "Lista de correio">
 <!-- Labels -->
-<!ENTITY addToAddressBook.label 		"Adicionar a: ">
-<!ENTITY ListName.label 				    "Listar nomes: ">
-<!ENTITY ListNickName.label 			  "Listar alcunhas: ">
-<!ENTITY ListDescription.label 			"Descrição: ">
+<!ENTITY addToAddressBook.label         "Adicionar a: ">
+
+<!ENTITY ListName.label                 "Listar nomes: ">
+<!ENTITY ListNickName.label             "Listar alcunhas: ">
+<!ENTITY ListDescription.label          "Descrição: ">
 <!-- See bug 58485, when we implement drag and drop, add 'or drag addresses' back in -->
-<!ENTITY AddressTitle.label 			  "Escreva os endereços eletrónicos para os adicionar à lista de correio:">
-<!ENTITY UpButton.label 				    "Mover para cima">
-<!ENTITY DownButton.label 				  "Mover para baixo">
+<!ENTITY AddressTitle.label             "Escreva os endereços eletrónicos para os adicionar à lista de correio:">
+<!ENTITY UpButton.label                 "Mover para cima">
+<!ENTITY DownButton.label               "Mover para baixo">
 <!-- Access Keys -->
-<!ENTITY addToAddressBook.accesskey "A">
-<!ENTITY ListName.accesskey 			  "n">
-<!ENTITY ListNickName.accesskey 		"L">
-<!ENTITY ListDescription.accesskey	"e">
+
+<!ENTITY addToAddressBook.accesskey     "A">
+<!ENTITY ListName.accesskey             "n">
+<!ENTITY ListNickName.accesskey         "L">
+<!ENTITY ListDescription.accesskey      "e">
+

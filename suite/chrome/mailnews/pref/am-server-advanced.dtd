@@ -1,7 +1,11 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY serverAdvanced.label "Configurações Avançadas da Conta">
 <!-- LOCALIZATION NOTE (serverDirectory.label): DONT_TRANSLATE "IMAP" -->
-<!ENTITY serverDirectory.label "Pasta do servidor IMAP:">
-<!ENTITY serverDirectory.accesskey "d">
+<!ENTITY serverDirectory.label "IMAP server directory:">
+
 <!ENTITY usingSubscription.label "Mostrar apenas pastas subscritas">
 <!ENTITY usingSubscription.accesskey "r">
 <!ENTITY dualUseFolders.label "O servidor suporta pastas que contenham Sub-pastas e mensagens">
@@ -11,7 +15,7 @@
 <!ENTITY maximumConnectionsNumber.label "Número máximo de ligações para a cache">
 <!ENTITY maximumConnectionsNumber.accesskey "m">
 <!-- LOCALIZATION NOTE (namespaceDesc.label): DONT_TRANSLATE "IMAP" -->
-<!ENTITY namespaceDesc.label "Estas configurações especificam os namespaces on your IMAP server">
+<!ENTITY namespaceDesc.label "These preferences specify the namespaces on your IMAP server">
 <!ENTITY personalNamespace.label "Namespace Pessoal:">
 <!ENTITY personalNamespace.accesskey "P">
 <!ENTITY publicNamespace.label "Pública (partilhada):">

@@ -1,8 +1,8 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-
 <!-- extracted from am-server-top.xul -->
+
 
 <!ENTITY messageStorage.label "Armazenamento de mensagens">
 <!ENTITY securitySettings.label "Definições de segurança">
@@ -52,7 +52,7 @@
 <!ENTITY modelDeleteImmediately.accesskey "d">
 <!-- LOCALIZATION NOTE (expungeOnExit.label) : do not translate two of "&quot;" in below line -->
 <!ENTITY expungeOnExit.label "Limpar mensagens (&quot;eliminadas&quot;) da caixa de entrada ao sair">
-<!ENTITY expungeOnExit.accesskey "E">
+<!ENTITY expungeOnExit.accesskey "e">
 <!ENTITY emptyTrashOnExit.label "Esvaziar lixo ao sair">
 <!ENTITY emptyTrashOnExit.accesskey "x">
 <!ENTITY loginAtStartup.label "Procurar novas mensagens ao iniciar">

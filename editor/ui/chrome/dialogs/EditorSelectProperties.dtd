@@ -11,8 +11,8 @@
 <!ENTITY SelectSize.accesskey "A">
 <!ENTITY SelectMultiple.label "Seleção múltipla">
 <!ENTITY SelectMultiple.accesskey "m">
-<!ENTITY SelectDisabled.label "Inativo">
-<!ENTITY SelectDisabled.accesskey "v">
+
+
 <!ENTITY SelectTabIndex.label "Índice de tabulação:">
 <!ENTITY SelectTabIndex.accesskey "i">
 

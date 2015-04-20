@@ -1,9 +1,9 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-
-
 <!-- Window title -->
+
+
 <!ENTITY windowTitle.label "Listar Propriedades">
 
 <!ENTITY ListType.label "Listar Tipo">
@@ -17,4 +17,4 @@
 <!ENTITY changeEntireListRadio.label "Alterar a lista inteira">
 <!ENTITY changeEntireListRadio.accessKey "A">
 <!ENTITY changeSelectedRadio.label "Alterar apenas os itens seleciondos">
-<!ENTITY changeSelectedRadio.accessKey "L">
+<!ENTITY changeSelectedRadio.accessKey "l">
