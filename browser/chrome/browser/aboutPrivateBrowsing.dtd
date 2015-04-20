@@ -11,6 +11,7 @@
 
 <!ENTITY aboutPrivateBrowsing.notPrivate       "आपण सध्या वैयक्तिक पटलात नाही.">
 
+<!ENTITY aboutPrivateBrowsing.moreInfo         "ह्या संगणकावर आपल्या संचरण इतिहासची नोंद नसेल, आपला इंटरनेट सेवा प्रदाता आपण भेट दिलेल्या पानांची नोंद ठेवू शकतो.">
 <!ENTITY aboutPrivateBrowsing.learnMore        "आणखी जाणा.">
 
 <!ENTITY privatebrowsingpage.openPrivateWindow.label "प्राइव्हेट पटल उघडा">
