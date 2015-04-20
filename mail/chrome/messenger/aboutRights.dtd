@@ -52,7 +52,7 @@
 <!ENTITY rights.webservices-b "Avansert">
 <!ENTITY rights.webservices-c "-seksjonen, og deretter ">
 <!ENTITY rights.webservices-d "Oppdatering">
-<!ENTITY rights.webservices-e "-fana og så fjerna avkryssinga frå innstillingane i «Automatisk søk etter oppdateringar for».">
+<!ENTITY rights.webservices-e "-fana og så fjerna avkryssinga frå innstillingane i «Automatisk sjå etter oppdateringar for».">
 
 <!-- intro paragraph for unbranded builds -->
 <!ENTITY rights.webservices-unbranded "Ei oversikt over informasjonstenestene som dette produktet inneheld, samt informasjon om korleis du kan slå dei av, bør inkluderast her.">
