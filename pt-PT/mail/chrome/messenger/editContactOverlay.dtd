@@ -4,14 +4,20 @@
 
 <!ENTITY editContactPanelDeleteContact.label "Eliminar">
 <!ENTITY editContactPanelDeleteContact.accesskey "l">
+
 <!ENTITY editContactName.label "Nome:">
 <!ENTITY editContactName.accesskey "N">
+
 <!ENTITY editContactEmail.label "Correio eletrónico:">
 <!ENTITY editContactEmail.accesskey "e">
+
 <!ENTITY editContactAddressBook.label "Livro de endereços:">
 <!ENTITY editContactAddressBook.accesskey "L">
+
 <!ENTITY editContactPanelCancel.label "Cancelar">
 <!ENTITY editContactPanelCancel.accesskey "C">
+
 <!ENTITY editContactPanelDone.label "Terminado">
 <!ENTITY editContactPanelDone.accesskey "T">
+
 <!ENTITY contactMoveDisabledWarning.description "Não pode alterar o livro de endereços porque o contacto pertence a uma lista de correio.">

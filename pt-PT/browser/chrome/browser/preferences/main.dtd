@@ -5,7 +5,7 @@
 <!ENTITY startup.label             "Início">
 
 <!ENTITY startupPage.label         "Quando o &brandShortName; inicia:">
-<!ENTITY startupPage.accesskey     "I">
+<!ENTITY startupPage.accesskey     "i">
 <!ENTITY startupHomePage.label     "Mostrar a minha página inicial">
 <!ENTITY startupBlankPage.label    "Mostrar uma página em branco">
 <!ENTITY startupLastSession.label  "Mostrar as minhas janelas e separadores abertos da última vez">

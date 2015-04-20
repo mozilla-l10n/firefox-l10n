@@ -1,8 +1,8 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-
 <!-- Context Menu -->
+
 <!ENTITY popupWindowRejectCmd.label     "Rejeitar janelas de popup deste sítio">
 <!ENTITY popupWindowRejectCmd.accesskey "o">
 <!ENTITY popupWindowAllowCmd.label      "Permitir janelas de popup deste sítio">
@@ -57,8 +57,8 @@
 <!ENTITY viewVideoCmd.accesskey       "d">
 <!ENTITY viewBGImageCmd.label         "Ver imagem de fundo">
 <!ENTITY viewBGImageCmd.accesskey     "f">
-<!ENTITY setDesktopBackgroundCmd.label        "Definir como imagem de fundo do ambiente de trabalho">
-<!ENTITY setDesktopBackgroundCmd.accesskey    "D">
+<!ENTITY setDesktopBackgroundCmd.label     "Definir como imagem de fundo do ambiente de trabalho">
+<!ENTITY setDesktopBackgroundCmd.accesskey "D">
 <!ENTITY bookmarkPageCmd.label        "Adicionar página aos marcadores">
 <!ENTITY bookmarkPageCmd.accesskey    "m">
 <!ENTITY bookmarkLinkCmd.label        "Adicionar ligação aos marcadores">
@@ -97,7 +97,7 @@
 <!ENTITY thisFrameMenu.label          "Esta moldura">
 <!ENTITY thisFrameMenu.accesskey      "o">
 <!ENTITY mediaPlay.label              "Reproduzir">
-<!ENTITY mediaPlay.accesskey          "P">
+<!ENTITY mediaPlay.accesskey          "p">
 <!ENTITY mediaPause.label             "Pausar">
 <!ENTITY mediaPause.accesskey         "P">
 <!ENTITY mediaMute.label              "Sem som">

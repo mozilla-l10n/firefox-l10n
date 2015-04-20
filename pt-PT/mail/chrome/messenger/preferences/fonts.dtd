@@ -20,9 +20,9 @@
 <!ENTITY  sans-serif.accesskey                    "e">
 <!ENTITY  monospace.label                         "Monoespaço:">
 <!ENTITY  monospace.accesskey                     "M">
-
 <!-- LOCALIZATION NOTE (font.langGroup.latin) :
      Translate "Latin" as the name of Latin (Roman) script, not as the name of the Latin language. -->
+
 <!ENTITY  font.langGroup.latin                    "Latino">
 <!ENTITY  font.langGroup.japanese                 "Japonês">
 <!ENTITY  font.langGroup.trad-chinese             "Mandarim tradicional (Taiwan)">
@@ -55,25 +55,25 @@
 <!ENTITY minSize.label                            "Tamanho mínimo da letra:">
 <!ENTITY minSize.accesskey                        "i">
 <!ENTITY minSize.none                             "Nenhum">
-
 <!-- default font type -->
+
 <!ENTITY  useDefaultFontSerif.label               "Serifa">
 <!ENTITY  useDefaultFontSansSerif.label           "Sem serifa">
-
 <!-- fonts in message -->
+
 <!ENTITY  fontControl.label                       "Controlo de letras">
 <!ENTITY  useFixedWidthForPlainText.label         "Utilizar largura fixa para mensagens sem formatação">
 <!ENTITY  fixedWidth.accesskey                    "x">
 <!ENTITY  useDocumentFonts.label                  "Permitir que as mensagens utilizem outros tipos de letra">
 <!ENTITY  useDocumentFonts.accesskey              "g">
-
 <!-- Language settings -->
-<!ENTITY sendDefaultCharset.label         		 "Mensagens enviadas:">
-<!ENTITY sendDefaultCharset.accesskey            "v">
-<!ENTITY languagesTitle2.label            		 "Codificação de texto">
-<!ENTITY composingDescription2.label       		 "Defina a codificação de texto para receção e envio de mensagens">
 
-<!ENTITY viewDefaultCharsetList.label     		 "Mensagens recebidas:">
-<!ENTITY viewDefaultCharsetList.accesskey  		 "a">
-<!ENTITY replyInDefaultCharset3.label     		 "Se possível, utilizar codificação pré-definida nas respostas">
-<!ENTITY replyInDefaultCharset3.accesskey 		 "u">
+<!ENTITY sendDefaultCharset.label         "Mensagens enviadas:">
+<!ENTITY sendDefaultCharset.accesskey     "v">
+<!ENTITY languagesTitle2.label            "Codificação de texto">
+<!ENTITY composingDescription2.label      "Defina a codificação de texto para receção e envio de mensagens">
+
+<!ENTITY viewDefaultCharsetList.label     "Mensagens recebidas:">
+<!ENTITY viewDefaultCharsetList.accesskey  "a">
+<!ENTITY replyInDefaultCharset3.label     "Se possível, utilizar codificação pré-definida nas respostas">
+<!ENTITY replyInDefaultCharset3.accesskey "u">

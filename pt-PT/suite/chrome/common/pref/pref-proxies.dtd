@@ -1,10 +1,10 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-
 <!-- extracted from content/pref-proxies.xul -->
-
 <!--LOCALIZATION NOTE : FILE The Proxies preferences dialog -->
+
+
 <!ENTITY  pref.proxies.title            "Proxies">
 <!ENTITY  pref.proxies.desc             "Um proxy é um serviço de rede que pode filtrar e acelerar a sua ligação à Internet.">
 <!ENTITY  proxyTitle.label              "Configurar proxies para aceder à Internet">

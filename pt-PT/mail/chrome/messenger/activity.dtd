@@ -4,9 +4,12 @@
 <!-- LOCALIZATION NOTE (window.width2, window.height): These values should be
 close to the golden ratio (1.618:1) while making sure it's wide enough for long
 file names and tall enough to hint that there are more activities in the list -->
+
 <!ENTITY window.width2                    "485">
 <!ENTITY window.height                    "300">
+
 <!ENTITY activity.title                  "Gestor de atividades">
+
 <!ENTITY cmd.pause.label                  "Pausa">
 <!ENTITY cmd.pause.accesskey              "P">
 <!ENTITY cmd.resume.label                 "Retomar">
@@ -21,6 +24,7 @@ file names and tall enough to hint that there are more activities in the list --
 <!ENTITY cmd.retry.accesskey              "T">
 <!ENTITY cmd.removeFromList.label         "Remover da lista">
 <!ENTITY cmd.removeFromList.accesskey     "e">
+
 <!ENTITY cmd.close.commandkey             "w">
 <!ENTITY cmd.close2.commandkey            "j">
 <!ENTITY cmd.close2Unix.commandkey        "y">
@@ -29,4 +33,5 @@ file names and tall enough to hint that there are more activities in the list --
 <!ENTITY cmd.clearList.accesskey          "L">
 <!ENTITY cmd.find.commandkey              "f">
 <!ENTITY cmd.search.commandkey            "k">
+
 <!ENTITY searchBox.label                  "Procurar…">

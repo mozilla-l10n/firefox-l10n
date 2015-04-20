@@ -28,11 +28,11 @@
 <!ENTITY InitialValue.label "Valor inicial:">
 <!ENTITY InitialValue.accesskey "V">
 <!ENTITY InputChecked.label "Inicialmente verificado">
-<!ENTITY InputChecked.accesskey "E">
+<!ENTITY InputChecked.accesskey "e">
 <!ENTITY InputSelected.label "Inicialmente selecionado">
 <!ENTITY InputSelected.accesskey "s">
 <!ENTITY InputReadOnly.label "Apenas de leitura">
-<!ENTITY InputReadOnly.accesskey "L">
+<!ENTITY InputReadOnly.accesskey "l">
 <!ENTITY InputDisabled.label "Desativado">
 <!ENTITY InputDisabled.accesskey "D">
 <!ENTITY tabIndex.label "Índice do separador:">

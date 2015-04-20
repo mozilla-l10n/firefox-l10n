@@ -2,25 +2,32 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY migrationWizard.title "Assistente de importação">
-<!ENTITY importFromWin.label "Opcões de importação, definições de contas, livros de endereços, filtros e outros dados a partir de:">
-<!ENTITY importFromNonWin.label "Importar preferências, definições de contas, livros de endereços, filtros e outros dados a partir de:">
-<!ENTITY importFromNothing.label "Não importar">
-<!ENTITY importFromNothing.accesskey "N">
-<!ENTITY importFromSeamonkey3.label "SeaMonkey 2 ou mais recente">
+
+<!ENTITY migrationWizard.title          "Assistente de importação">
+
+<!ENTITY importFromWin.label            "Opcões de importação, definições de contas, livros de endereços, filtros e outros dados a partir de:">
+<!ENTITY importFromNonWin.label         "Importar preferências, definições de contas, livros de endereços, filtros e outros dados a partir de:">
+
+<!ENTITY importFromNothing.label        "Não importar">
+<!ENTITY importFromNothing.accesskey    "N">
+<!ENTITY importFromSeamonkey3.label     "SeaMonkey 2 ou mais recente">
 <!ENTITY importFromSeamonkey3.accesskey "S">
-<!ENTITY importFromOExpress.label "Outlook Express">
-<!ENTITY importFromOExpress.accesskey "u">
-<!ENTITY importFromOutlook.label "Outlook">
-<!ENTITY importFromOutlook.accesskey "O">
-<!ENTITY importFromEudora.label "Eudora">
-<!ENTITY importFromEudora.accesskey "E">
-<!ENTITY importSource.title "Importar definições e pastas de correio">
-<!ENTITY importItems.title "Itens a importar">
-<!ENTITY importItems.label "Selecione os itens a importar:">
-<!ENTITY migrating.title "A importar...">
-<!ENTITY migrating.label "Estes itens estão a ser importados...">
-<!ENTITY selectProfile.title "Selecione o perfil">
-<!ENTITY selectProfile.label "Estes perfis estão disponíveis para importação:">
-<!ENTITY done.title "Importação terminada">
-<!ENTITY done.label "Estes itens foram importados com sucesso:">
+<!ENTITY importFromOExpress.label       "Outlook Express">
+<!ENTITY importFromOExpress.accesskey   "u">
+<!ENTITY importFromOutlook.label        "Outlook">
+<!ENTITY importFromOutlook.accesskey    "O">
+<!ENTITY importFromEudora.label         "Eudora">
+<!ENTITY importFromEudora.accesskey     "E">
+
+<!ENTITY importSource.title             "Importar definições e pastas de correio">
+<!ENTITY importItems.title              "Itens a importar">
+<!ENTITY importItems.label              "Selecione os itens a importar:">
+
+<!ENTITY migrating.title                "A importar...">
+<!ENTITY migrating.label                "Estes itens estão a ser importados...">
+
+<!ENTITY selectProfile.title            "Selecione o perfil">
+<!ENTITY selectProfile.label            "Estes perfis estão disponíveis para importação:">
+
+<!ENTITY done.title                     "Importação terminada">
+<!ENTITY done.label                     "Estes itens foram importados com sucesso:">

@@ -7,7 +7,6 @@
 <!ENTITY rights.pagetitle       "about:rights">
 <!ENTITY rights.intro-header    "Sobre os seus direitos">
 <!ENTITY rights.intro "O &brandFullName; é livre e é um software de código aberto, construído por uma comunidade de centenas de pessoas de todo o mundo. Existem algumas coisas que deve saber:">
-
 <!-- Note on pointa / pointb / pointc form:
      These points each have an embedded link in the HTML, so each point is
      split into chunks for text before the link, the link text, and the text
@@ -16,6 +15,7 @@
 
      Also note the leading/trailing whitespace in strings here, which is
      deliberate for formatting around the embedded links. -->
+
 <!ENTITY rights.intro-point1a "O &brandShortName; é-lhe disponibilizado sobre os termos da ">
 <!ENTITY rights.intro-point1b "Mozilla Public License">
 <!ENTITY rights.intro-point1c ". Isto significa que pode usar, copiar e distribuir o &brandShortName; para outras pessoas.  Também é bem-vindo para modificar o código fonte do &brandShortName; conforme as suas necessidades. A licença pública da Mozilla também lhe dá o direito de distribuir as suas versões modificadas.">
@@ -23,46 +23,47 @@
 <!ENTITY rights.intro-point2a "A Mozilla não lhe dá nenhum direito às marcas registadas ou logótipos da Mozilla e do Firefox. Encontra mais informação adicional sobre marcas registadas ">
 <!ENTITY rights.intro-point2b "aqui">
 <!ENTITY rights.intro-point2c ".">
-
 <!-- point 3 text for official branded builds -->
+
 <!ENTITY rights.intro-point3a "A política de privacidade dos produtos da &vendorShortName; pode ser encontrada ">
 <!ENTITY rights.intro-point3b "aqui">
 <!ENTITY rights.intro-point3c ".">
-
 <!-- point 4 text for official branded builds -->
-<!ENTITY rights2.intro-point4a "O &brandShortName; oferece serviços de informação opcionais sobre sítios web, tais como serviços de Extras ou de navegação segura; no entanto, não podemos garantir que estes são 100&#37; fiáveis ou livres de erros. Para mais detalhes, incluindo informação sobre como desativar os serviços, podem ser encontrados nos ">
+
+<!ENTITY rights2.intro-point4a "O &brandShortName; oferece serviços de informação opcionais sobre sítios web, tais como serviços de Extras ou de navegação segura; no entanto, não podemos garantir que estes são 100&#037; fiáveis ou livres de erros. Para mais detalhes, incluindo informação sobre como desativar os serviços, podem ser encontrados nos ">
 <!ENTITY rights.intro-point4b "termos do serviço">
 <!ENTITY rights.intro-point4c ".">
 
 <!ENTITY rights.webservices-header "Serviços web do &brandFullName;">
-
 <!-- Note that this paragraph references entities from extensions.dtd,
      preferences.dtd, pref-smartupdate.dtd, and pref-security.dtd,
      so that we can refer to text the user sees in the UI, without
      this page being forgotten every time those strings are updated.  -->
 <!-- intro paragraph for branded builds -->
+
 <!ENTITY rights2.webservices-a "O &brandFullName; oferece serviços opcionais (&quot;Serviços&quot;), tais como serviços de sugestão de Extras e de atualizações ou a funcionalidade de navegação segura, que estão disponíveis para serem utilizadas por si nesta versão binária do &brandShortName; tal como é descrito em baixo. Estes serviços estão ativos por omissão. Se não quiser utilizar os serviços ou se os termos em baixo não são aceitáveis, instruções sobre como desativar determinada funcionalidade ou serviço podem ser encontradas ">
 <!ENTITY rights2.webservices-b "aqui">
 <!ENTITY rights2.webservices-c ". Outras funcionalidades e serviços podem ser desativados nas preferências da aplicação.">
-
 <!-- add-on related points for branded builds -->
+
 <!ENTITY rights.addons-a "Serviços de Extras: ">
 <!ENTITY rights.addons-b "Por omissão, o &brandShortName; irá sugerir extras na página &view.discover.label; e procurar por atualizações em intervalos regulares. Se quiser desativar estas funcionalidades para evitar a comunicação de informação sobre extras instalados para o servidor, siga estes passos:">
 <!ENTITY rights.addons-term1 "Abrir as preferências da aplicação">
 <!ENTITY rights.addons-term2 "Selecionar o painel &smart.label; na categoria &advance.label;">
 <!ENTITY rights.addons-term3 "Desmarcar as opções para &quot;&autoAddOnsUpdates.label;&quot; e &quot;&enablePersonalized.label;&quot;">
 <!ENTITY rights.addons-term4 "Os serviços de extras estão agora desativados">
-
-
 <!-- safe browsing points for branded builds -->
+
+
 <!ENTITY rights.safebrowsing-a "Navegação segura: ">
 <!ENTITY rights.safebrowsing-b "A desativação da funcionalidade de navegação segura não é recomendável dado que pode resultar na visita de sítios inseguros. Se quiser desativar completamente a funcionalidade, siga estes passos:">
 <!ENTITY rights.safebrowsing-term1 "Abrir as preferências da aplicação">
 <!ENTITY rights.safebrowsing-term2 "Selecionar o painel principal &security.label;">
 <!ENTITY rights.safebrowsing-term3 "Desmarcar as opções para &quot;&blockAttackSites.label;&quot; e &quot;&blockWebForgeries.label;&quot;">
 <!ENTITY rights.safebrowsing-term4 "A navegadação segura está agora desativa">
-
 <!-- points 1-6 text for branded builds -->
+
+
 <!ENTITY rights.webservices-term1 "A &vendorShortName; os seus contribuintes, licenciadores e associados trabalham para fornecer a informação mais precisa e actualizada sobre phishing e malware. No entanto, não podemos garantir que esta informação é de fácil compreensão e livre de erros: alguns sítios problemáticos poderão ser identificados e alguns sítios seguros poderão ser identificados com erros.">
 <!ENTITY rights.webservices-term2 "É convidado a usar os Serviços que acompanham a versão do &brandShortName;, e tem todos os direitos necessários para o fazer. A &vendorShortName; e os seus licenciadores reservam todos os outros direitos nos Serviços.  Estes termos não têm a intenção de limitar quaisquer direitos dados sobre as licenças de open source aplicáveis ao &brandShortName; e às correspondentes versões dos códigos fonte do &brandShortName;.">
 <!ENTITY rights.webservices-term3 "Os serviços são fornecidos &quot;tal como estão.&quot; a &vendorShortName;, os seus contribuintes, licenciadores e distribuidores, renunciam a todas as garantias, sejam elas expressas ou implícitas, incluindo sem limites, garantias que o serviço é comercial e serve para os seus objectivos pessoais.  Você é responsável por seleccionar os Serviços para os seus propósitos assim como a qualidade e o desempenho dos Serviços. Algumas jurisdições não permitem a exclusão ou a limitação de garantias implícitas, como tal este aviso poderá não ser adequado para si.">

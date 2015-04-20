@@ -3,19 +3,19 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY virtualFolderProperties.title "Nova Pasta de Pesquisa Guardada">
-<!ENTITY name.label                 "Nome:">
-<!ENTITY name.accesskey             "N">
-<!ENTITY description.label          "Criar como sub-pasta de:">
-<!ENTITY description.accesskey      "c">
+<!ENTITY name.label                    "Nome:">
+<!ENTITY name.accesskey                "N">
+<!ENTITY description.label             "Criar como sub-pasta de:">
+<!ENTITY description.accesskey         "c">
 
-<!ENTITY searchTermCaption.label "Configura o critério de pesquisa usado por esta pesquisa guardada: ">
+<!ENTITY searchTermCaption.label       "Configura o critério de pesquisa usado por esta pesquisa guardada: ">
 
-<!ENTITY folderSelectionCaption.label "Selecione as Pastas a Pesquisar: ">
-<!ENTITY chooseFoldersButton.label "Selecionar...">
+<!ENTITY folderSelectionCaption.label  "Selecione as Pastas a Pesquisar: ">
+<!ENTITY chooseFoldersButton.label     "Selecionar...">
 <!ENTITY chooseFoldersButton.accesskey "S">
 
-<!ENTITY searchOnline.label "Pesquisa ligada (fornece resultados atualizados para as pastas IMAP e notícias mas aumenta o tempo de leitura da pasta)">
-<!ENTITY searchOnline.accesskey "P">
+<!ENTITY searchOnline.label            "Pesquisa ligada (fornece resultados atualizados para as pastas IMAP e notícias mas aumenta o tempo de leitura da pasta)">
+<!ENTITY searchOnline.accesskey        "P">
 <!ENTITY newFolderButton.label         "Criar">
 <!ENTITY newFolderButton.accesskey     "r">
 <!ENTITY editFolderButton.label        "Atualizar">

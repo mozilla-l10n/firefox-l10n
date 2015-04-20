@@ -4,82 +4,42 @@
 
 <!ENTITY aboutTelemetry.pageTitle "Dados de telemetria">
 
-<!ENTITY aboutTelemetry.telemetryEnabled "
-  A telemetria está <span>ativada</span>.
-">
+<!ENTITY aboutTelemetry.telemetryEnabled "  A telemetria está <span>ativada</span>.">
 
-<!ENTITY aboutTelemetry.telemetryDisabled "
-  A telemetria está <span>desativada</span>.
-">
+<!ENTITY aboutTelemetry.telemetryDisabled "  A telemetria está <span>desativada</span>.">
 
-<!ENTITY aboutTelemetry.generalDataSection "
-  Dados gerais
-">
+<!ENTITY aboutTelemetry.generalDataSection "  Dados gerais">
 
-<!ENTITY aboutTelemetry.telemetryLogSection "
-  Registo de telemetria
-">
+<!ENTITY aboutTelemetry.telemetryLogSection "  Registo de telemetria">
 
-<!ENTITY aboutTelemetry.slowSqlSection "
-  Instruções de SQL lentas
-">
+<!ENTITY aboutTelemetry.slowSqlSection "  Instruções de SQL lentas">
 
-<!ENTITY aboutTelemetry.chromeHangsSection "
-  O navegador bloqueia
-">
+<!ENTITY aboutTelemetry.chromeHangsSection "  O navegador bloqueia">
 
-<!ENTITY aboutTelemetry.threadHangStatsSection "
-  Tópico bloqueia
-">
+<!ENTITY aboutTelemetry.threadHangStatsSection "  Tópico bloqueia">
 
-<!ENTITY aboutTelemetry.histogramsSection "
-  Histogramas
-">
+<!ENTITY aboutTelemetry.histogramsSection "  Histogramas">
 
-<!ENTITY aboutTelemetry.keyedHistogramsSection "
-  Histogramas teclados
-">
+<!ENTITY aboutTelemetry.keyedHistogramsSection "  Histogramas teclados">
 
-<!ENTITY aboutTelemetry.simpleMeasurementsSection "
-  Medições simples
-">
+<!ENTITY aboutTelemetry.simpleMeasurementsSection "  Medições simples">
 
-<!ENTITY aboutTelemetry.addonDetailsSection "
-  Detalhes do extra
-">
+<!ENTITY aboutTelemetry.addonDetailsSection "  Detalhes do extra">
 
-<!ENTITY aboutTelemetry.lateWritesSection "
-  Escritas atrasadas
-">
+<!ENTITY aboutTelemetry.lateWritesSection "  Escritas atrasadas">
 
-<!ENTITY aboutTelemetry.systemInfoSection "
-  Informações do sistema
-">
+<!ENTITY aboutTelemetry.systemInfoSection "  Informações do sistema">
 
-<!ENTITY aboutTelemetry.addonHistogramsSection "
-  Histogramas obtidos por extras
-">
+<!ENTITY aboutTelemetry.addonHistogramsSection "  Histogramas obtidos por extras">
 
-<!ENTITY aboutTelemetry.toggle "
-  Clique para expandir a secção
-">
+<!ENTITY aboutTelemetry.toggle "  Clique para expandir a secção">
 
-<!ENTITY aboutTelemetry.emptySection "
-  (Nenhuns dados obtidos)
-">
+<!ENTITY aboutTelemetry.emptySection "  (Nenhuns dados obtidos)">
 
-<!ENTITY aboutTelemetry.fullSqlWarning "
-  NOTA: a depuração de SQL lento está ativa. As linhas SQL completas poderão ser mostradas abaixo mas não serão submetidas à telemetria.
-">
+<!ENTITY aboutTelemetry.fullSqlWarning "  NOTA: a depuração de SQL lento está ativa. As linhas SQL completas poderão ser mostradas abaixo mas não serão submetidas à telemetria.">
 
-<!ENTITY aboutTelemetry.fetchSymbols "
-  Obter nome das funções para conjuntos de bloqueios
-">
+<!ENTITY aboutTelemetry.fetchSymbols "  Obter nome das funções para conjuntos de bloqueios">
 
-<!ENTITY aboutTelemetry.hideSymbols "
-  Mostrar dados em bruto dos bloqueios
-">
+<!ENTITY aboutTelemetry.hideSymbols "  Mostrar dados em bruto dos bloqueios">
 
-<!ENTITY aboutTelemetry.filterText "
-  Filtro (strings ou /regexp/)
-">
+<!ENTITY aboutTelemetry.filterText "  Filtro (strings ou /regexp/)">

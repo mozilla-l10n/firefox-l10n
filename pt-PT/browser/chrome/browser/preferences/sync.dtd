@@ -1,19 +1,19 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-
 <!-- The page shown when not logged in... -->
+
 <!ENTITY setupButton.label          "Configurar o &syncBrand.fullName.label;">
 <!ENTITY setupButton.accesskey      "S">
 <!ENTITY weaveDesc.label            "O &syncBrand.fullName.label; permite-lhe aceder ao seu histórico, marcadores, senhas e separadores abertos em todos os seus dispositivos.">
-
 <!-- The page shown when logged in... -->
-
 <!-- Login error feedback -->
+
+
 <!ENTITY updatePass.label             "Atualizar">
 <!ENTITY resetPass.label              "Reiniciar">
-
 <!-- Manage Account -->
+
 <!ENTITY manageAccount.label          "Gerir conta">
 <!ENTITY manageAccount.accesskey      "a">
 <!ENTITY viewQuota.label              "Ver quota">
@@ -38,33 +38,33 @@
 <!ENTITY engine.prefs.accesskey     "s">
 <!ENTITY engine.addons.label        "Extras">
 <!ENTITY engine.addons.accesskey    "a">
-
 <!-- Device Settings -->
+
 <!ENTITY syncDeviceName.label       "Nome do dispositivo:">
 <!ENTITY syncDeviceName.accesskey   "s">
-<!ENTITY unlinkDevice.label         "Desvincular este dispositivo">
-
+<!ENTITY unlinkDevice.label           "Desvincular este dispositivo">
 <!-- Footer stuff -->
+
 <!ENTITY prefs.tosLink.label        "Termos do serviço">
 <!ENTITY prefs.ppLink.label         "Política de privacidade">
-
 <!-- Firefox Accounts stuff -->
-<!ENTITY fxaPrivacyNotice.link.label "Aviso de privacidade">
-<!ENTITY determiningAcctStatus.label "A determinar o estado da sua conta...">
 
+<!ENTITY fxaPrivacyNotice.link.label "Aviso de privacidade">
+<!ENTITY determiningAcctStatus.label     "A determinar o estado da sua conta...">
 <!-- LOCALIZATION NOTE (signedInUnverified.beforename.label,
 signedInUnverified.aftername.label): these two string are used respectively
 before and after the account email address. Localizers can use one of them, or
 both, to better adapt this sentence to their language.
 -->
+
 <!ENTITY signedInUnverified.beforename.label "">
 <!ENTITY signedInUnverified.aftername.label "não está verificada.">
-
 <!-- LOCALIZATION NOTE (signedInLoginFailure.beforename.label,
 signedInLoginFailure.aftername.label): these two string are used respectively
 before and after the account email address. Localizers can use one of them, or
 both, to better adapt this sentence to their language.
 -->
+
 <!ENTITY signedInLoginFailure.beforename.label "Inicie sessão para uma nova ligação">
 <!ENTITY signedInLoginFailure.aftername.label "">
 

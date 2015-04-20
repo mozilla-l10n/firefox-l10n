@@ -1,10 +1,10 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-
 <!-- extracted from content/pref-cache.xul -->
-
 <!--LOCALIZATION NOTE : FILE Cache prefs dialog -->
+
+
 <!ENTITY pref.cache.title                "Cache">
 <!ENTITY pref.cache.caption              "Aplicar opções de cache">
 <!ENTITY cachePara                       "A cache mantém cópias das páginas web visitadas frequentemente no seu disco rígido. (Clicar em Recarregar mostra sempre a última versão da página.)">

@@ -7,7 +7,7 @@
 <!ENTITY windowTitle.label "Inserir carácter">
 <!ENTITY category.label "Categoria">
 <!ENTITY letter.label "Carta:">
-<!ENTITY letter.accessKey "A">
+<!ENTITY letter.accessKey "a">
 <!ENTITY character.label "Carácter:">
 <!ENTITY character.accessKey "C">
 <!ENTITY accentUpper.label "Acentuar maiúsculas">

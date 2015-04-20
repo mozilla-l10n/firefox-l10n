@@ -2,29 +2,29 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY search_app_name 'Pesquisa do &brandShortName;'>
-
+<!ENTITY search_app_name "Pesquisa do &brandShortName;">
 <!--  Localization note (search_bar_hint): The &formatS; will be replaced with the name of
       the currently selected search engine. -->
-<!ENTITY search_bar_hint 'Pesquisar com &formatS;'>
 
-<!ENTITY search_empty_title2 'Começar a pesquisar'>
-<!ENTITY search_empty_message 'Pesquise rapidamente por qualquer coisa que queira'>
+<!ENTITY search_bar_hint "Pesquisar com &formatS;">
 
+<!ENTITY search_empty_title2 "Começar a pesquisar">
+<!ENTITY search_empty_message "Pesquise rapidamente por qualquer coisa que queira">
 <!--  Localization note (search_plus_content_description): This is the content description
       for the "+" icon that appears at the end of search suggestions. -->
-<!ENTITY search_plus_content_description 'Adicionar à barra de pesquisa'>
 
-<!ENTITY search_pref_title 'Definições'>
-<!ENTITY search_pref_button_content_description 'Definições'>
+<!ENTITY search_plus_content_description "Adicionar à barra de pesquisa">
 
-<!ENTITY pref_clearHistory_confirmation 'Histórico limpo'>
-<!ENTITY pref_clearHistory_dialogMessage 'Eliminar todo o histórico de pesquisa deste dispositivo?'>
-<!ENTITY pref_clearHistory_title 'Limpar histórico de pesquisa'>
+<!ENTITY search_pref_title "Definições">
+<!ENTITY search_pref_button_content_description "Definições">
 
-<!ENTITY pref_searchProvider_title 'Motor de pesquisa'>
+<!ENTITY pref_clearHistory_confirmation "Histórico limpo">
+<!ENTITY pref_clearHistory_dialogMessage "Eliminar todo o histórico de pesquisa deste dispositivo?">
+<!ENTITY pref_clearHistory_title "Limpar histórico de pesquisa">
 
-<!ENTITY search_widget_button_label 'Pesquisar'>
+<!ENTITY pref_searchProvider_title "Motor de pesquisa">
 
-<!ENTITY network_error_title 'Sem ligação à Internet'>
-<!ENTITY network_error_message 'Toque aqui para verificar as suas definições de rede'>
+<!ENTITY search_widget_button_label "Pesquisar">
+
+<!ENTITY network_error_title "Sem ligação à Internet">
+<!ENTITY network_error_message "Toque aqui para verificar as suas definições de rede">

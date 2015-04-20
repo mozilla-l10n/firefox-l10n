@@ -2,15 +2,15 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY emailSectionHdr.label "Correio eletrónico">
-<!ENTITY readMsgsLink.label "Ler mensagens">
-<!ENTITY composeMsgLink.label "Escrever nova mensagem">
+<!ENTITY emailSectionHdr.label        "Correio eletrónico">
+<!ENTITY readMsgsLink.label           "Ler mensagens">
+<!ENTITY composeMsgLink.label         "Escrever nova mensagem">
 
-<!ENTITY newsSectionHdr.label "Grupos de notícias">
-<!ENTITY subscribeNewsLink.label "Gerir subscrições de grupos de notícias">
+<!ENTITY newsSectionHdr.label         "Grupos de notícias">
+<!ENTITY subscribeNewsLink.label      "Gerir subscrições de grupos de notícias">
 
-<!ENTITY feedsSectionHdr.label "Fontes">
-<!ENTITY subscribeFeeds.label "Gerir subscrições">
+<!ENTITY feedsSectionHdr.label        "Fontes">
+<!ENTITY subscribeFeeds.label         "Gerir subscrições">
 
 <!ENTITY chat.label                   "Chat">
 <!ENTITY movemail.label               "Movemail">
@@ -21,8 +21,8 @@
 <!ENTITY newAcctLink.label            "Criar uma nova conta">
 <!ENTITY newAcct.label                "Cria uma nova conta:">
 
-<!ENTITY advFeaturesSectionHdr.label "Configurações avançadas">
-<!ENTITY searchMsgsLink.label "Procurar mensagens">
-<!ENTITY filtersLink.label "Gerir filtros de mensagens">
-<!ENTITY junkSettings.label "Definições de lixo eletrónico">
-<!ENTITY offlineLink.label "Definições do modo desligado">
+<!ENTITY advFeaturesSectionHdr.label  "Configurações avançadas">
+<!ENTITY searchMsgsLink.label         "Procurar mensagens">
+<!ENTITY filtersLink.label            "Gerir filtros de mensagens">
+<!ENTITY junkSettings.label           "Definições de lixo eletrónico">
+<!ENTITY offlineLink.label            "Definições do modo desligado">

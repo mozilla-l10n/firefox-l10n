@@ -3,8 +3,8 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY pref.cookies.title             "Cookies">
-
 <!-- cookies -->
+
 
 <!ENTITY cookiePolicy.label             "Política para aceitar Cookie">
 
@@ -33,7 +33,7 @@
 <!ENTITY days.label                     "dias">
 
 <!ENTITY warnAboutCookies.label         "Perguntar para cada cookie">
-<!ENTITY warnAboutCookies.accesskey     "A">
+<!ENTITY warnAboutCookies.accesskey     "a">
 <!ENTITY forCurrentSession.label        "exceto para cookies de sessão">
 <!ENTITY forCurrentSession.accesskey    "e">
 

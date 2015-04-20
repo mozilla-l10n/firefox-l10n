@@ -1,12 +1,12 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-
 <!-- these things need to move into utilityOverlay.xul -->
+
 <!ENTITY  offlineGoOfflineCmd.label                 "Trabalhar desligado">
 <!ENTITY  offlineGoOfflineCmd.accesskey             "h">
-
 <!-- LOCALIZATION NOTE : FILE This file contains the global menu items --> 
+
 
 <!ENTITY fileMenu.label                   "Ficheiro">
 <!ENTITY fileMenu.accesskey               "F">
@@ -15,13 +15,13 @@
 <!ENTITY newBlankPageCmd.label            "Página do compositor">
 <!ENTITY newBlankPageCmd.accesskey        "P">
 <!ENTITY newBlankPageCmd.key              "n">
-<!ENTITY newPageFromTemplateCmd.label     "Página usando modelo">
+<!ENTITY newPageFromTemplateCmd.label "Página usando modelo">
 <!ENTITY newPageFromTemplateCmd.accesskey "m">
-<!ENTITY newPageFromDraftCmd.label        "Página usando rascunho">
-<!ENTITY newPageFromDraftCmd.accesskey    "d">
-<!ENTITY newNavigatorCmd.label            "Janela do navegador">
-<!ENTITY newNavigatorCmd.key              "n">
-<!ENTITY newNavigatorCmd.accesskey        "n">
+<!ENTITY newPageFromDraftCmd.label "Página usando rascunho">
+<!ENTITY newPageFromDraftCmd.accesskey "d">
+<!ENTITY newNavigatorCmd.label "Janela do navegador">
+<!ENTITY newNavigatorCmd.key "n">
+<!ENTITY newNavigatorCmd.accesskey "n">
 <!ENTITY newPrivateWindowCmd.label "Janela privada">
 <!ENTITY newPrivateWindowCmd.key "P">
 <!ENTITY newPrivateWindowCmd.accesskey "W">
@@ -33,42 +33,42 @@
 <!ENTITY printCmd.accesskey "p">
 <!ENTITY printCmd.key "P">
 
-<!ENTITY editMenu.label "Editar">
-<!ENTITY editMenu.accesskey "e">
-<!ENTITY undoCmd.label "Anular">
-<!ENTITY undoCmd.key "z">
-<!ENTITY undoCmd.accesskey "u">
-<!ENTITY redoCmd.label "Refazer">
-<!ENTITY redoCmd.key "y">
-<!ENTITY redoCmd.accesskey "r">
-<!ENTITY cutCmd.label "Cortar">
-<!ENTITY cutCmd.key "x">
-<!ENTITY cutCmd.accesskey "t">
-<!ENTITY copyCmd.label "Copiar">
-<!ENTITY copyCmd.key "c">
-<!ENTITY copyCmd.accesskey "c">
-<!ENTITY pasteCmd.label "Colar">
-<!ENTITY pasteCmd.key "v">
-<!ENTITY pasteCmd.accesskey "o">
-<!ENTITY pasteGoCmd.label					"Colar e ir">
-<!ENTITY pasteGoCmd.accesskey				"i">
-
+<!ENTITY editMenu.label                   "Editar">
+<!ENTITY editMenu.accesskey               "E">
+<!ENTITY undoCmd.label                    "Anular">
+<!ENTITY undoCmd.key                      "z">
+<!ENTITY undoCmd.accesskey                "u">
+<!ENTITY redoCmd.label                    "Refazer">
+<!ENTITY redoCmd.key                      "y">
+<!ENTITY redoCmd.accesskey                "r">
+<!ENTITY cutCmd.label                     "Cortar">
+<!ENTITY cutCmd.key                       "x">
+<!ENTITY cutCmd.accesskey                 "t">
+<!ENTITY copyCmd.label                    "Copiar">
+<!ENTITY copyCmd.key                      "c">
+<!ENTITY copyCmd.accesskey                "C">
+<!ENTITY pasteCmd.label                   "Colar">
+<!ENTITY pasteCmd.key                     "v">
+<!ENTITY pasteCmd.accesskey               "o">
+<!ENTITY pasteGoCmd.label                 "Colar e ir">
+<!ENTITY pasteGoCmd.accesskey             "i">
 <!-- LOCALIZATION NOTE (pasteSearchCmd): "Search" is a verb, this is the
-     search bar equivalent to the url bar's "Paste & Go"  --> 
+     search bar equivalent to the url bar's "Paste & Go"  -->
+
 <!ENTITY pasteSearchCmd.label             "Colar e pesquisar">
 <!ENTITY pasteSearchCmd.accesskey         "e">
 <!ENTITY deleteCmd.label                  "Eliminar">
 <!ENTITY deleteCmd.accesskey              "l">
 <!ENTITY selectAllCmd.label               "Selecionar tudo">
 <!ENTITY selectAllCmd.key                 "a">
-<!ENTITY selectAllCmd.accesskey           "s">
-<!ENTITY clearHistoryCmd.label				"Limpar histórico da pesquisa">  
-<!ENTITY clearHistoryCmd.accesskey			"h"> 
-<!ENTITY showSuggestionsCmd.label			"Mostrar sugestões">  
-<!ENTITY showSuggestionsCmd.accesskey		"s"> 
-<!ENTITY preferencesCmd.label				"Opções...">
-<!ENTITY preferencesCmd.key					"e"> 
-<!ENTITY preferencesCmd.accesskey			"e">
+<!ENTITY selectAllCmd.accesskey           "S">
+<!ENTITY clearHistoryCmd.label    "Limpar histórico da pesquisa">  
+<!ENTITY clearHistoryCmd.accesskey   "h"> 
+<!ENTITY showSuggestionsCmd.label   "Mostrar sugestões">  
+<!ENTITY showSuggestionsCmd.accesskey  "s"> 
+<!ENTITY preferencesCmd.label    "Opções...">
+<!ENTITY preferencesCmd.key     "e">  
+<!ENTITY preferencesCmd.accesskey   "e"> 
 <!ENTITY findBarCmd.key "F">
 <!-- LOCALIZATION NOTE (findBarCmd.accesskey): This accesskey should be within
      findBarCmd.label found in editorOverlay.dtd, findCmd.label in messenger.dtd
@@ -88,15 +88,15 @@
 <!ENTITY findTypeLinksCmd.label "Localizar ligações ao escrever">
 <!ENTITY findTypeLinksCmd.accesskey "g">
 
-<!ENTITY viewMenu.label					"Ver">
-<!ENTITY viewMenu.accesskey "v">
-<!ENTITY viewToolbarsMenu.label "Mostrar/ocultar">
-<!ENTITY viewToolbarsMenu.accesskey          "M">
-<!ENTITY showTaskbarCmd.label                     "Barra de estado">
-<!ENTITY showTaskbarCmd.accesskey                 "S">
+<!ENTITY viewMenu.label     "Ver"> 
+<!ENTITY viewMenu.accesskey               "V">
+<!ENTITY viewToolbarsMenu.label    "Mostrar/ocultar"> 
+<!ENTITY viewToolbarsMenu.accesskey   "M"> 
+<!ENTITY showTaskbarCmd.label     "Barra de estado">  
+<!ENTITY showTaskbarCmd.accesskey    "s"> 
 
-<!ENTITY helpMenu.label					"Ajuda"> 
-<!ENTITY helpMenu.accesskey				"A"> 
+<!ENTITY helpMenu.label     "Ajuda"> 
+<!ENTITY helpMenu.accesskey    "A"> 
 
 <!ENTITY helpTroubleshootingInfo.label      "Informação sobre erros">
 <!ENTITY helpTroubleshootingInfo.accesskey  "ç">
@@ -106,10 +106,10 @@
 <!ENTITY helpSafeMode.accesskey             "R">
 <!ENTITY updateCmd.label                    "Procurar por atualizações…">
 <!ENTITY updateCmd.accesskey                "p">
-<!ENTITY aboutCmd.label					"Sobre o &brandShortName;">
-<!ENTITY aboutCmd.accesskey				"S">
-<!ENTITY aboutCommPluginsCmd.label			"Sobre os plugins">
-<!ENTITY aboutCommPluginsCmd.accesskey			"p">
+<!ENTITY aboutCmd.label     "Sobre o &brandShortName;">
+<!ENTITY aboutCmd.accesskey    "S">
+<!ENTITY aboutCommPluginsCmd.label   "Sobre os plugins">
+<!ENTITY aboutCommPluginsCmd.accesskey   "p">
 
 <!ENTITY direct.label                                   "Ligado (proxy: nenhum)">
 <!ENTITY direct.accesskey                               "n">
@@ -146,8 +146,8 @@
 <!ENTITY customizeToolbar.labelAlignEnd.accesskey "b">
 <!ENTITY customizeToolbar.useDefault.label        "Usar pré-definições">
 <!ENTITY customizeToolbar.useDefault.accesskey    "ç">
-
 <!-- Popup Blocked notification menu -->
+
 <!ENTITY allowPopups.accesskey        "p">
 <!ENTITY showPopupManager.label       "Gerir popups">
 <!ENTITY showPopupManager.accesskey   "G">

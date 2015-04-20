@@ -49,9 +49,9 @@
 <!ENTITY col.endtime.label               "Concluído a">
 <!ENTITY col.endtime.accesskey           "u">
 <!ENTITY col.endtime.tooltip             "Concluído a">
-<!ENTITY col.progresstext.label          "&#37;">
-<!ENTITY col.progresstext.accesskey      "&#37;">
-<!ENTITY col.progresstext.tooltip        "Progresso (&#37;)">
+<!ENTITY col.progresstext.label          "&#037;">
+<!ENTITY col.progresstext.accesskey      "&#037;">
+<!ENTITY col.progresstext.tooltip        "Progresso (&#037;)">
 <!ENTITY col.source.label                "Fonte">
 <!ENTITY col.source.accesskey            "o">
 <!ENTITY col.source.tooltip              "Fonte">

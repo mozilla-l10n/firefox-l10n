@@ -1,10 +1,10 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-
 <!-- LOCALIZATION NOTE: where ".private" and ".normal" variants exist,
    - the former is shown in a private browsing window and the latter in
    - a regular (non-private) browsing window. -->
+
 
 <!ENTITY privatebrowsingpage.title.private       "Está numa janela de navegação privada">
 <!ENTITY privatebrowsingpage.title.normal        "Gostaria de iniciar a navegação privada?">

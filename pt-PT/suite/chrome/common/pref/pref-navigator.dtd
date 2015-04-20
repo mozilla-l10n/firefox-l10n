@@ -29,7 +29,7 @@
 <!ENTITY restoreTabs.accesskey          "s">
 <!ENTITY restoreTabsAtATime.label       "separador(es) de uma vez">
 <!ENTITY restoreDeferred.label          "Apenas restaurar separadores quando precisar deles">
-<!ENTITY restoreDeferred.accesskey      "O">
+<!ENTITY restoreDeferred.accesskey      "o">
 
 <!ENTITY homePageIntro.label            "Clicar no botão da página inicial leva-o para este grupo de páginas:">
 <!ENTITY useCurrent.label               "Usar página atual">

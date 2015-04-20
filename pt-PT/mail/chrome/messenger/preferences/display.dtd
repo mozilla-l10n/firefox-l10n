@@ -2,44 +2,45 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY itemFormatting.label "Formatação">
-<!ENTITY itemTags.label "Etiquetas">
-<!ENTITY style.label "Estilo:">
-<!ENTITY style.accesskey "E">
-<!ENTITY regularStyle.label "Normal">
-<!ENTITY bold.label "Negrito">
-<!ENTITY italic.label "Itálico">
-<!ENTITY boldItalic.label "Negrito itálico">
-<!ENTITY size.label "Tamanho:">
-<!ENTITY size.accesskey "h">
-<!ENTITY regularSize.label "Normal">
-<!ENTITY bigger.label "Maior">
-<!ENTITY smaller.label "Menor">
-<!ENTITY quotedTextColor.label "Cor:">
-<!ENTITY quotedTextColor.accesskey "C">
-<!ENTITY displayWidth.label "Mensagens sem formatação">
-<!ENTITY displayText.label "Ao mostrar texto citado:">
+<!ENTITY itemFormatting.label             "Formatação">
+<!ENTITY itemTags.label                   "Etiquetas">
 
+<!ENTITY style.label                      "Estilo:">
+<!ENTITY style.accesskey                  "E">
+<!ENTITY regularStyle.label               "Normal">
+<!ENTITY bold.label                       "Negrito">
+<!ENTITY italic.label                     "Itálico">
+<!ENTITY boldItalic.label                 "Negrito itálico">
+<!ENTITY size.label                       "Tamanho:">
+<!ENTITY size.accesskey                   "h">
+<!ENTITY regularSize.label                "Normal">
+<!ENTITY bigger.label                     "Maior">
+<!ENTITY smaller.label                    "Menor">
+<!ENTITY quotedTextColor.label            "Cor:">
+<!ENTITY quotedTextColor.accesskey        "C">
+<!ENTITY displayWidth.label               "Mensagens sem formatação">
+<!ENTITY displayText.label                "Ao mostrar texto citado:">
 <!-- LOCALIZATION NOTE : (emoticonsAndStructs.label) 'Emoticons' are also known as 'Smileys', e.g. :-)   -->
-<!ENTITY convertEmoticons.label "Mostrar ícones emotivos como imagens">
-<!ENTITY convertEmoticons.accesskey "M">
 
+<!ENTITY convertEmoticons.label        "Mostrar ícones emotivos como imagens">
+<!ENTITY convertEmoticons.accesskey    "M">
 <!-- labels -->
-<!ENTITY displayTagsText.label "As etiquetas podem ser utilizadas para categorizar ou dar prioridade às mensagens.">
-<!ENTITY addTagButton.label "Adicionar">
-<!ENTITY addTagButton.accesskey "A">
-<!ENTITY editTagButton.label "Editar">
-<!ENTITY editTagButton.accesskey "E">
-<!ENTITY removeTagButton.label "Eliminar">
-<!ENTITY removeTagButton.accesskey "l">
 
-<!-- Fonts -->
-<!ENTITY fontsAndColors1.label "Tipos de letra">
-<!ENTITY defaultFont.label "Letra pré-definida:">
-<!ENTITY defaultFont.accesskey "d">
-<!ENTITY defaultSize.label "Tamanho:">
-<!ENTITY defaultSize.accesskey "T">
-<!ENTITY fontOptions.accesskey "A">
-<!ENTITY fontOptions.label "Avançado...">
-<!ENTITY colorButton.label "Cores…">
-<!ENTITY colorButton.accesskey "C">
+<!ENTITY displayTagsText.label     "As etiquetas podem ser utilizadas para categorizar ou dar prioridade às mensagens.">
+<!ENTITY addTagButton.label        "Adicionar">
+<!ENTITY addTagButton.accesskey    "A">
+<!ENTITY editTagButton.label       "Editar">
+<!ENTITY editTagButton.accesskey   "E">
+<!ENTITY removeTagButton.label     "Eliminar">
+<!ENTITY removeTagButton.accesskey "l">
+<!-- Fonts and Colors -->
+
+<!ENTITY fontsAndColors1.label   "Tipos de letra">
+<!ENTITY defaultFont.label       "Letra pré-definida:">
+<!ENTITY defaultFont.accesskey   "d">
+<!ENTITY defaultSize.label       "Tamanho:">
+<!ENTITY defaultSize.accesskey   "T">
+<!ENTITY fontOptions.accesskey   "A">
+<!ENTITY fontOptions.label       "Avançado...">
+<!ENTITY colorButton.label       "Cores…">
+<!ENTITY colorButton.accesskey   "C">

@@ -1,4 +1,4 @@
-﻿<!-- This Source Code Form is subject to the terms of the Mozilla Public
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
@@ -21,10 +21,10 @@
 <!ENTITY flagColumn.label "Com Marca">
 <!ENTITY locationColumn.label "Localização">
 <!ENTITY idColumn.label "Por ordem recebido">
-
 <!--Tooltips-->
+
 <!ENTITY columnChooser2.tooltip "Seleccionar as colunas a mostrar">
-<!ENTITY threadColumn2.tooltip "Mostrar os tópicos da mensagem"> 
+<!ENTITY threadColumn2.tooltip "Mostrar os tópicos da mensagem">
 <!ENTITY fromColumn2.tooltip "Ordenar por de">
 <!ENTITY recipientColumn2.tooltip "Ordenar por destinatário">
 <!ENTITY attachmentColumn2.tooltip "Ordenar por anexos">

@@ -17,10 +17,7 @@
 <!ENTITY folderIncludeInGlobalSearch.accesskey   "I">
 
 <!ENTITY retention.label "Política de retenção">
-<!ENTITY retentionUseAccount.label "Utilizar definições da minha conta">
-<!ENTITY retentionUseAccount.accesskey "d">
-<!ENTITY retention.label "Política de retenção">
-<!ENTITY retentionUseAccount.label "Utilizar definições da minha conta">
+<!ENTITY retentionUseAccount.label  "Utilizar definições da minha conta">
 <!ENTITY retentionUseAccount.accesskey "d">
 <!ENTITY daysOld.label "dias de antiguidade">
 <!ENTITY message.label "mensagens">
@@ -32,21 +29,22 @@
 <!ENTITY retentionKeepAll.label "Não eliminar mensagens">
 <!ENTITY retentionKeepAll.accesskey "a">
 <!ENTITY retentionKeepRecent.label "Eliminar todas menos as mais recentes">
-<!ENTITY retentionKeepRecent.accesskey	"l">
-
+<!ENTITY retentionKeepRecent.accesskey "l">
 <!-- LOCALIZATION NOTE: Unhide with .keepUnreadOnly { display: -moz-box; } -->
 <!ENTITY retentionKeepUnreadHidden.label "Eliminar sempre todas as mensagens lidas (sobrepor as definições de idade)">
 <!ENTITY retentionApplyToFlagged.label "Manter sempre mensagens com estrela">
 <!ENTITY retentionApplyToFlagged.accesskey "e">
 
 <!ENTITY folderSynchronizationTab.label          "Sincronização">
-<!ENTITY folderCheckForNewMessages2.label        "Ao receber novas mensagens nesta conta, analisar sempre esta pasta">
-<!ENTITY folderCheckForNewMessages2.accesskey    "n">
-<!ENTITY offlineFolder.check.label "Selecionar esta pasta para utilizar no modo desligado">
+<!ENTITY folderCheckForNewMessages2.label         "Ao receber novas mensagens nesta conta, analisar sempre esta pasta">
+<!ENTITY folderCheckForNewMessages2.accesskey     "n">
+
+<!ENTITY offlineFolder.check.label               "Selecionar esta pasta para utilizar no modo desligado">
 <!ENTITY offlineFolder.check.accesskey           "S">
 <!ENTITY offlineFolder.button.label              "Transferir agora">
 <!ENTITY offlineFolder.button.accesskey          "T">
-<!ENTITY selectofflineNewsgroup.check.label "Selecionar este grupo de notícias para utilizar no modo desligado">
+
+<!ENTITY selectofflineNewsgroup.check.label      "Selecionar este grupo de notícias para utilizar no modo desligado">
 <!ENTITY selectofflineNewsgroup.check.accesskey  "o">
 <!ENTITY offlineNewsgroup.button.label           "Transferir agora">
 <!ENTITY offlineNewsgroup.button.accesskey       "T">
@@ -59,10 +57,11 @@
 <!ENTITY folderSharingTab.label                  "Partilha">
 <!ENTITY privileges.button.label                 "Privilégios...">
 <!ENTITY privileges.button.accesskey             "P">
-<!ENTITY permissionsDesc.label "Tem estas permissões:">
+<!ENTITY permissionsDesc.label                   "Tem estas permissões:">
 <!ENTITY folderType.label                        "Tipo de pasta:">
-<!ENTITY folderQuotaTab.label "Cota">
-<!ENTITY folderQuotaRoot.label "Cota de root:">
+
+<!ENTITY folderQuotaTab.label                    "Cota">
+<!ENTITY folderQuotaRoot.label                   "Cota de root:">
 <!ENTITY folderQuotaUsage.label                  "Utilização:">
 <!ENTITY folderQuotaStatus.label                 "Estado:">
 
@@ -70,6 +69,5 @@
 <!-- LOCALIZATION NOTE: When the number of messages can't be determined, this string is displayed as the number -->
 <!ENTITY numberUnknown.label                     "desconhecido">
 <!ENTITY sizeOnDisk.label                        "Tamanho em disco:">
-
 <!-- LOCALIZATION NOTE: When the size can't be determined, this string is displayed as the size -->
 <!ENTITY sizeUnknown.label                       "desconhecido">

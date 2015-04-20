@@ -7,8 +7,8 @@
 <!ENTITY     div.bannedservers.label        "Gerir os sítios que podem ou não guardar cookies no seu computador.">
 <!ENTITY     div.cookiesonsystem.label      "Ver e remover cookies guardados no seu computador.">
 <!ENTITY     treehead.cookiename.label      "Nome do Cookie">
-<!ENTITY     treehead.cookiedomain.label    "Sítio"> 
-<!ENTITY     treehead.cookieexpires.label   "Expira"> 
+<!ENTITY     treehead.cookiedomain.label    "Sítio">
+<!ENTITY     treehead.cookieexpires.label   "Expira">
 <!ENTITY     treehead.infoselected.label    "Informação sobre o cookie seleccionado">
 <!ENTITY     button.removecookie.label      "Remover cookie">
 <!ENTITY     button.removecookie.accesskey  "R">

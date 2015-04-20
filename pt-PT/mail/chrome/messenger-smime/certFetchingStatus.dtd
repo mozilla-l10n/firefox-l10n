@@ -3,6 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!--LOCALIZATION NOTE shown while obtaining certificates from a directory -->
 
-<!ENTITY title.label  "Transferir certificados">
+
+<!ENTITY title.label "Transferir certificados">
 <!ENTITY info.message "A procurar o diretório de destinatários certificados. Pode demorar alguns minutos.">
-<!ENTITY stop.label   "Parar de procurar">
+<!ENTITY stop.label "Parar de procurar">

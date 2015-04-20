@@ -1,8 +1,8 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-
 <!--LOCALIZATION NOTE : FILE UI for Software Updates prefs -->
+
 <!ENTITY pref.smartUpdate.title               "Instalação de Software">
 <!ENTITY addOnsTitle.label                    "Extras">
 <!ENTITY addOnsAllow.label                    "Permitir sítios web de instalar atualizações de extras">
@@ -17,7 +17,7 @@
 <!ENTITY addOnsModeAutomatic.label            "Transferir e instalar automaticamente as actualizações">
 <!ENTITY addOnsModeAutomatic.accesskey        "m">
 <!ENTITY enablePersonalized.label             "Recomendação de personalização de extras">
-<!ENTITY enablePersonalized.accesskey         "P">
+<!ENTITY enablePersonalized.accesskey         "p">
 <!ENTITY addonManagerLink.label               "Gerir extras">
 
 <!ENTITY appUpdates.caption                   "&brandShortName;">

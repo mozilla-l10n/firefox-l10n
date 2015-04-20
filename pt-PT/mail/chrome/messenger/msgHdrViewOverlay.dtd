@@ -67,39 +67,39 @@
 <!ENTITY viewSourceMenuItem1.accesskey "V">
 <!ENTITY otherActionsPrint1.label "Imprimir…">
 <!ENTITY otherActionsPrint1.accesskey "p">
-
 <!-- Attachment bar context menu items -->
-<!ENTITY startExpandedCmd.label "Inicialmente, mostrar painel de anexos">
-<!ENTITY startExpandedCmd.accesskey "s">
 
+<!ENTITY startExpandedCmd.label    "Inicialmente, mostrar painel de anexos">
+<!ENTITY startExpandedCmd.accesskey    "s">
 <!-- Attachment context menu items -->
-<!ENTITY openAttachmentCmd.label "Abrir">
-<!ENTITY openAttachmentCmd.accesskey "A">
-<!ENTITY saveAsAttachmentCmd.label "Guardar como...">
-<!ENTITY saveAsAttachmentCmd.accesskey "G">
-<!ENTITY detachAttachmentCmd.label "Separar…">
-<!ENTITY detachAttachmentCmd.accesskey "S">
-<!ENTITY deleteAttachmentCmd.label "Eliminar">
-<!ENTITY deleteAttachmentCmd.accesskey "l">
-<!ENTITY openAllAttachmentsCmd.label "Abrir tudo…">
-<!ENTITY openAllAttachmentsCmd.accesskey "o">
-<!ENTITY saveAllAttachmentsCmd.label "Guardar tudo...">
-<!ENTITY saveAllAttachmentsCmd.accesskey "U">
-<!ENTITY detachAllAttachmentsCmd.label "Separar tudo...">
-<!ENTITY detachAllAttachmentsCmd.accesskey "E">
-<!ENTITY deleteAllAttachmentsCmd.label "Eliminar tudo...">
-<!ENTITY deleteAllAttachmentsCmd.accesskey "l">
+
+<!ENTITY openAttachmentCmd.label    "Abrir">
+<!ENTITY openAttachmentCmd.accesskey    "A">
+<!ENTITY saveAsAttachmentCmd.label    "Guardar como...">
+<!ENTITY saveAsAttachmentCmd.accesskey    "G">
+<!ENTITY detachAttachmentCmd.label    "Separar…">
+<!ENTITY detachAttachmentCmd.accesskey    "S">
+<!ENTITY deleteAttachmentCmd.label    "Eliminar">
+<!ENTITY deleteAttachmentCmd.accesskey    "l">
+<!ENTITY openAllAttachmentsCmd.label    "Abrir tudo…">
+<!ENTITY openAllAttachmentsCmd.accesskey    "o">
+<!ENTITY saveAllAttachmentsCmd.label    "Guardar tudo...">
+<!ENTITY saveAllAttachmentsCmd.accesskey    "u">
+<!ENTITY detachAllAttachmentsCmd.label    "Separar tudo...">
+<!ENTITY detachAllAttachmentsCmd.accesskey    "e">
+<!ENTITY deleteAllAttachmentsCmd.label    "Eliminar tudo...">
+<!ENTITY deleteAllAttachmentsCmd.accesskey    "l">
 
 <!ENTITY openAttachment.tooltip "Abrir ficheiro anexo">
-
 <!-- Attachment toolbar items -->
-<!ENTITY saveAttachmentButton1.label "Guardar">
-<!ENTITY saveAttachmentButton1.tooltip "Guardar ficheiro anexo">
-<!ENTITY saveAllAttachmentsButton1.label "Guardar tudo">
+
+<!ENTITY saveAttachmentButton1.label       "Guardar">
+<!ENTITY saveAttachmentButton1.tooltip     "Guardar ficheiro anexo">
+<!ENTITY saveAllAttachmentsButton1.label   "Guardar tudo">
 <!ENTITY saveAllAttachmentsButton1.tooltip "Guardar todos os ficheiros em anexo">
 
-<!ENTITY copyLinkCmd.label "Copiar localização da ligação">
-<!ENTITY copyLinkCmd.accesskey "p">
+<!ENTITY copyLinkCmd.label        "Copiar localização da ligação">
+<!ENTITY copyLinkCmd.accesskey    "p">
 
 <!ENTITY CopyMessageId.label "Copiar ID da mensagem">
 <!ENTITY CopyMessageId.accesskey "C">

@@ -7,18 +7,18 @@
 <!ENTITY other.languages "Apenas estamos a mostrar os fornecedores que disponibilizam endereços na sua área. Clique aqui para mostrar todos os fornecedores.">
 <!ENTITY error.line1 "Desculpe mas não conseguimos encontrar uma sugestão de endereço eletrónico.">
 <!ENTITY error.line2 "Pode experimentar procurar alcunhas ou outros termos para encontrar mais nomes">
-
 <!-- LOCALIZATION NOTE(error.suggest.before, error.suggest.middle, error.suggest.after):
      error.suggest.before, error.suggest.middle, and error.suggest.after all go into
      one line with error.suggest.middle that links to a site which provides download
      of free account alternatives. -->
+
 <!ENTITY error.suggest.before "Também pode experimentar uma das ">
 <!ENTITY error.suggest.middle "contas de correio gratuitas">
 <!ENTITY error.suggest.after ".">
-
 <!-- LOCALIZATION NOTE(success.title.before, success.title.after):
      success.title.before and success.title.after all go into one line, wrapping
      around the name that the user has typed in to the search input. -->
+
 <!ENTITY success.title.before "Olá ">
 <!ENTITY success.title.after ", estes endereços eletrónicos estão disponíveis para si:">
 <!ENTITY success.tip "(Também pode procurar alcunhas ou outros termos para encontrar mais nomes)">
