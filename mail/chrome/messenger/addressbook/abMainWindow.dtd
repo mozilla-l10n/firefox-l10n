@@ -4,6 +4,9 @@
 
 <!ENTITY addressbookWindow.title                        "Cudeschet d'adressas">
 
+<!ENTITY blankResultsPaneMessage.label                  "Quest cudeschet d'adressas mussa be contacts suenter ina tschertga">
+<!ENTITY localResultsOnlyMessage.label                  "Contacts da cudeschets d'adressas lontans vegnan be mussads sche ti tschertgas">
+
 <!-- File Menu -->
 <!ENTITY fileMenu.label                                 "Datoteca">
 <!ENTITY fileMenu.accesskey                             "D">
@@ -160,6 +163,8 @@ because displayed names don't have the comma in between. -->
 <!ENTITY searchItem.title                               "Tschertga svelta">
 
 <!-- Results Pane -->
+<!ENTITY Addrbook.label                                 "Cudeschet d'adressas">
+<!ENTITY Addrbook.accesskey                             "C">
 <!ENTITY GeneratedName.label                            "Num">
 <!ENTITY GeneratedName.accesskey                        "N">
 <!ENTITY PrimaryEmail.label                             "E-mail">

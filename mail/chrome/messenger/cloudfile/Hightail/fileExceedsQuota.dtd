@@ -3,9 +3,5 @@
    - You can obtain one at http://mozilla.org/MPL/2.0/.  -->
 <!ENTITY fileExceedsQuota.title   "Hightail">
 <!ENTITY fileExceedsQuota.storageLimitReached   "Cuntanschì la limita da memoria">
-<!ENTITY fileExceedsQuota.accept "Cumprar">
-<!ENTITY fileExceedsQuota.cancel "Interrumper">
 <!ENTITY fileExceedsQuota.description "Ti has cuntanschì tia limita da memoria dal conto da 2GB.">
 <!ENTITY fileExceedsQuota.description1 "Actualmain dovras ti #XXX GB.">
-<!ENTITY fileExceedsQuota.description2 "Cumpra ussa in conto da Pro Plus per avair dapli memoria.">
-<!ENTITY fileExceedsQuota.description3 "Ti pos era stizzar datotecas da tes conto per puspè avair memoria disponibla.">

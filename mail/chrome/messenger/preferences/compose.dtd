@@ -6,6 +6,8 @@
 <!ENTITY itemAutoComplete.label              "Adressar">
 <!ENTITY itemSpellCheck.label                "Ortografia">
 
+<!ENTITY dialogCompose.title                 "Scriver">
+
 <!ENTITY forwardMsg.label                     "Trametter vinavant messadis:">
 <!ENTITY forwardMsg.accesskey                 "v">
 <!ENTITY inline.label                         "Incorporà">

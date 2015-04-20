@@ -3,40 +3,35 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY  fontsAndEncodingsDialog.title           "Scrittiras &amp; codaziuns">
-<!ENTITY  window.width                            "39em">
-<!ENTITY  window.macWidth                         "47em">
-<!ENTITY  window.unixWidth                        "41em">
 
 <!ENTITY  language.label                          "Scrittiras per:">
 <!ENTITY  language.accesskey                      "t">
 
 <!ENTITY  size.label                              "Grondezza">
-<!ENTITY  proportionalSize.accesskey              "G">
-<!ENTITY  sizeMono.accesskey                      "r">
+<!ENTITY  sizeProportional.accesskey              "e">
+<!ENTITY  sizeMonospace.accesskey                 "i">
 
 <!ENTITY  proportional.label                      "Proporziunal:">
 <!ENTITY  proportional.accesskey                  "P">
 
 <!ENTITY  serif.label                             "Cun serifas:">
-<!ENTITY  serif.accesskey                         "S">
+<!ENTITY  serif.accesskey                         "s">
 <!ENTITY  sans-serif.label                        "Senza serifas">
 <!ENTITY  sans-serif.accesskey                    "n">
 <!ENTITY  monospace.label                         "Largezza fixa:">
 <!ENTITY  monospace.accesskey                     "L">
 
-<!ENTITY  font.langGroup.latin1                   "Occidental (dal Vest)">
-<!ENTITY  font.langGroup.latin2                   "Da l'Europa Centrala">
+<!-- LOCALIZATION NOTE (font.langGroup.latin) :
+     Translate "Latin" as the name of Latin (Roman) script, not as the name of the Latin language. -->
+<!ENTITY  font.langGroup.latin                    "Scrittira latina">
 <!ENTITY  font.langGroup.japanese                 "Gipunais">
 <!ENTITY  font.langGroup.trad-chinese             "Chinais tradiziunal (Taiwan)">
 <!ENTITY  font.langGroup.simpl-chinese            "Chinais simplifitgà">
 <!ENTITY  font.langGroup.trad-chinese-hk          "Chinais tradiziunal (Hong Kong)">
 <!ENTITY  font.langGroup.korean                   "Curd">
 <!ENTITY  font.langGroup.cyrillic                 "Cirillic ">
-<!ENTITY  font.langGroup.baltic                   "Baltic">
 <!ENTITY  font.langGroup.el                       "Grec">
-<!ENTITY  font.langGroup.turkish                  "Tirc">
-<!ENTITY  font.langGroup.unicode1                 "Unicode">
-<!ENTITY  font.langGroup.user-def                 "Definì da l'utilisader">
+<!ENTITY  font.langGroup.other                    "Auters sistems da scrittira">
 <!ENTITY  font.langGroup.thai                     "Tailandais">
 <!ENTITY  font.langGroup.hebrew                   "Ebaric">
 <!ENTITY  font.langGroup.arabic                   "Arab">
@@ -51,6 +46,12 @@
 <!ENTITY  font.langGroup.gurmukhi                 "Gurmukhi">
 <!ENTITY  font.langGroup.khmer                    "Khmer">
 <!ENTITY  font.langGroup.malayalam                "Malajalam">
+
+<!ENTITY  font.langGroup.oriya                    "Oriya">
+<!ENTITY  font.langGroup.telugu                   "Telugu">
+<!ENTITY  font.langGroup.kannada                  "Cannada">
+<!ENTITY  font.langGroup.sinhala                  "Singalais">
+<!ENTITY  font.langGroup.tibetan                  "Tibetan">
 
 <!-- Minimum font size -->
 <!ENTITY minSize.label                            "Grondezza minimala da la scrittira:">
