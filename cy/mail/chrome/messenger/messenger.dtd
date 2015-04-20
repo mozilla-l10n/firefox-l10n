@@ -120,7 +120,7 @@
 <!ENTITY redoMoveMsgCmd.label "Ailwneud Symud Neges">
 <!ENTITY undoCopyMsgCmd.label "Dadwneud Copïo Neges">
 <!ENTITY redoCopyMsgCmd.label "Ail-wneud Copïo Neges">
-<!ENTITY undoMarkAllCmd.label "Dadwneud Marcio Pob Un Wedi Darllen">
+<!ENTITY undoMarkAllCmd.label "Dadwneud Marcio Pob Un Wedi ei Ddarllen">
 <!ENTITY redoMarkAllCmd.label "Ail-wneud Marcio Popeth Wedi'i Ddarllen">
 <!ENTITY undoDefaultCmd.label "Dadwneud">
 <!ENTITY undoDefaultCmd.accesskey "u">
@@ -156,7 +156,7 @@
 <!ENTITY unifiedFolders.accesskey "U">
 <!ENTITY allFolders.label "Popeth">
 <!ENTITY allFolders.accesskey "P">
-<!ENTITY unreadFolders.label "Heb Ddarllen">
+<!ENTITY unreadFolders.label "Heb ei Ddarllen">
 <!ENTITY unreadFolders.accesskey "H">
 <!ENTITY favoriteFolders.label "Ffefryn">
 <!ENTITY favoriteFolders.accesskey "F">
@@ -220,7 +220,7 @@
 <!ENTITY collapseAllThreadsCmd.label "Cau Pob Edefyn">
 <!ENTITY collapseAllThreadsCmd.accesskey "C">
 <!ENTITY collapseAllThreadsCmd.key "\">
-<!ENTITY unreadMsgsCmd.label "Heb Ddarllen">
+<!ENTITY unreadMsgsCmd.label "Heb ei Ddarllen">
 <!ENTITY unreadMsgsCmd.accesskey "H">
 <!ENTITY threadsWithUnreadCmd.label "Edafedd gyda rhai Heb eu Darllen">
 <!ENTITY threadsWithUnreadCmd.accesskey "H">
@@ -398,9 +398,9 @@
 <!ENTITY markMenu.label "Marcio">
 <!ENTITY markMenu.accesskey "M">
 <!ENTITY toggleReadCmd.key "m">
-<!ENTITY markAsReadCmd.label "Wedi Darllen">
+<!ENTITY markAsReadCmd.label "Wedi ei Ddarllen">
 <!ENTITY markAsReadCmd.accesskey "W">
-<!ENTITY markAsUnreadCmd.label "Heb Ddarllen">
+<!ENTITY markAsUnreadCmd.label "Heb ei Ddarllen">
 <!ENTITY markAsUnreadCmd.accesskey "H">
 <!ENTITY markThreadAsReadCmd.label "Edefyn wedi'i Ddarllen">
 <!ENTITY markThreadAsReadCmd.accesskey "D">
@@ -598,7 +598,7 @@
 <!-- Folder Pane -->
 
 <!ENTITY folderNameColumn.label "Enw">
-<!ENTITY folderUnreadColumn.label "Heb Ddarllen">
+<!ENTITY folderUnreadColumn.label "Heb ei Ddarllen">
 <!ENTITY folderTotalColumn.label "Cyfanswm">
 <!ENTITY folderSizeColumn.label "Maint">
 <!-- Folder Pane Context Menu -->
@@ -669,7 +669,7 @@
 <!ENTITY statusColumn.label "Statws">
 <!ENTITY sizeColumn.label "Maint">
 <!ENTITY junkStatusColumn.label "Statws Sbam">
-<!ENTITY unreadColumn.label "Heb Ddarllen">
+<!ENTITY unreadColumn.label "Heb ei Ddarllen">
 <!ENTITY totalColumn.label "Cyfanswm">
 <!ENTITY readColumn.label "Darllenwyd">
 <!ENTITY receivedColumn.label "Derbyniwyd">
