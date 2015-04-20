@@ -7,7 +7,7 @@
 <!ENTITY printJobOptions.title "Proprietats de l'imprimenta">
 
 <!ENTITY paperInput.label "Talha del papièr :">
-<!ENTITY paperInput.accesskey "T">
+<!ENTITY paperInput.accesskey "p">
 
 <!ENTITY plexInput.label "Mòde de distribucion :">
 <!ENTITY plexInput.accesskey "M">

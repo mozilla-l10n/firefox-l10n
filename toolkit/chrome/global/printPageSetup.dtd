@@ -21,7 +21,7 @@
 <!ENTITY scalePercent        "&#037;">
 
 <!ENTITY shrinkToFit.label   "Adaptar a la talha de la pagina">
-<!ENTITY shrinkToFit.accesskey "d">
+<!ENTITY shrinkToFit.accesskey "t">
 
 <!ENTITY optionsGroup.label  "Opcions">
 

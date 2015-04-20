@@ -14,7 +14,7 @@
 <!ENTITY  defaultFont.label           "Poliça per defaut :">
 <!ENTITY  defaultFont.accesskey       "d">
 <!ENTITY  defaultSize.label           "Talha :">
-<!ENTITY  defaultSize.accesskey       "h">
+<!ENTITY  defaultSize.accesskey       "T">
 
 <!ENTITY  advancedFonts.label         "Avançat…">
 <!ENTITY  advancedFonts.accesskey     "A">
