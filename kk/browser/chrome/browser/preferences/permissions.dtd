@@ -21,7 +21,8 @@
 <!ENTITY allow.accesskey              "б">
 <!ENTITY windowClose.key              "w">
 
-
-
-
+<!ENTITY button.cancel.label          "Бас тарту">
+<!ENTITY button.cancel.accesskey      "т">
+<!ENTITY button.ok.label              "Өзгерістерді сақтау">
+<!ENTITY button.ok.accesskey          "с">
 
