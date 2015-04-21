@@ -83,7 +83,7 @@
 <!-- Bookmark folder strings -->
 
 <!ENTITY bookmarks.folder.menu.label "Menu de marcadores">
-<!ENTITY bookmarks.folder.places.label "Sítios">
+<!ENTITY bookmarks.folder.places.label ''>
 <!ENTITY bookmarks.folder.tags.label "Etiquetas">
 <!ENTITY bookmarks.folder.toolbar.label "Barra de ferramentas dos marcadores">
 <!ENTITY bookmarks.folder.unfiled.label "Marcadores desorganizados">
