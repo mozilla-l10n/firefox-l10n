@@ -4,10 +4,10 @@
 <!-- These strings are used in the about:newtab page -->
 
 <!ENTITY newtab.pageTitle "ಹೊಸ ಹಾಳೆ">
-<!ENTITY newtab.customize.title "ಹೊಸ ಹಾಳೆಯಲ್ಲಿನ ಪುಟವನ್ನು ಅಗತ್ಯಾನುಗುಣಗೊಳಿಸಿ">
+<!ENTITY newtab.customize.title "ಹೊಸ ಹಾಳೆಯ ಪುಟವನ್ನು ಅಗತ್ಯಾನುಗುಣಗೊಳಿಸಿ">
 
 
-
+<!ENTITY newtab.customize.blank2 "ಖಾಲಿ ಪುಟವನ್ನು ತೋರಿಸು">
 <!ENTITY newtab.customize.what "ಈ ಪುಟದಲ್ಲಿ ಏನಿದೆ?">
 <!ENTITY newtab.intro.header "ಈ ಪುಟದಲ್ಲಿ ಏನಿದೆ?">
 <!ENTITY newtab.undo.removedLabel "ಅಡಕಚಿತ್ರವನ್ನು (ತಂಬ್‌ನೇಲ್) ಅನ್ನು ತೆಗೆದುಹಾಕಲಾಗಿದೆ.">
