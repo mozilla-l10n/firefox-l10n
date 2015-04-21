@@ -5,7 +5,7 @@
 <!ENTITY windowTitle "WebIDE do Firefox">
 
 <!ENTITY projectMenu_label "Projeto">
-
+<!ENTITY projectMenu_accesskey "P">
 <!ENTITY projectMenu_newApp_label "Nova aplicação...">
 <!ENTITY projectMenu_newApp_accesskey "N">
 <!ENTITY projectMenu_importPackagedApp_label "Abrir aplicação empacotada...">
@@ -13,7 +13,7 @@
 <!ENTITY projectMenu_importHostedApp_label "Abrir aplicação alojada...">
 <!ENTITY projectMenu_importHostedApp_accesskey "j">
 <!ENTITY projectMenu_selectApp_label "Abrir aplicação...">
-
+<!ENTITY projectMenu_selectApp_accesskey "A">
 <!ENTITY projectMenu_play_label "Instalar executar">
 <!ENTITY projectMenu_play_accesskey "I">
 <!ENTITY projectMenu_stop_label "Parar aplicação">
@@ -21,7 +21,7 @@
 <!ENTITY projectMenu_debug_label "Depurar aplicação">
 <!ENTITY projectMenu_debug_accesskey "D">
 <!ENTITY projectMenu_remove_label "Remover projeto">
-
+<!ENTITY projectMenu_remove_accesskey "R">
 <!ENTITY projectMenu_showPrefs_label "Preferências">
 <!ENTITY projectMenu_showPrefs_accesskey "e">
 <!ENTITY projectMenu_manageComponents_label "Gerir componentes extra">
