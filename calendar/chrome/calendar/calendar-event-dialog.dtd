@@ -278,7 +278,7 @@
      Edit recurrence window -> Recurrence pattern -> Repeat yearly
 -->
 
-<!ENTITY event.recurrence.pattern.yearly.of.label            "" >
+<!ENTITY event.recurrence.pattern.yearly.of.label            " de " >
 
 <!ENTITY event.recurrence.pattern.yearly.month.1.label       "janeiro" >
 <!ENTITY event.recurrence.pattern.yearly.month.2.label       "fevereiro" >
