@@ -39,7 +39,7 @@
   -  for the checkbox option to show user agent styles in the Inspector
   -  panel. -->
 
-<!ENTITY options.showUserAgentStyles.label "Visa Webläsar stilar ">
+<!ENTITY options.showUserAgentStyles.label "Visa webbläsarstilar">
 <!ENTITY options.showUserAgentStyles.tooltip "Slå på detta kommer att visa standard stilar som är laddade av webbläsaren.">
 <!-- LOCALIZATION NOTE (options.defaultColorUnit.label): This is the label for a
   -  dropdown list that controls the default color unit used in the inspector.
@@ -78,7 +78,7 @@
   -  boolean preference in about:config, in the options panel. -->
 
 <!ENTITY options.enableChrome.label5    "Aktivera webbläsare chrome och felsökningsverktyg för tillägg">
-
+<!ENTITY options.enableChrome.tooltip3  "Med det här alternativet kan du använda olika utvecklingsverktyg i webbläsaren (via Verktyg> Webbutvecklare> Webbläsarverktyg) och felsöka tillägg från tilläggshanteraren.">
 <!-- LOCALIZATION NOTE (options.enableRemote.label3): This is the label for the
   -  checkbox that toggles remote debugging, i.e. devtools.debugger.remote-enabled
   -  boolean preference in about:config, in the options panel. -->
@@ -101,6 +101,8 @@
   -  options.enableServiceWorkersTesting.tooltip): This is the options panel label and
   -  tooltip for the checkbox that toggles the service workers testing features on or off. -->
 
+<!ENTITY options.enableServiceWorkersTesting.label     "Aktivera &quot;Service Workers&quot; testfunktioner (när verktygslådan är öppen)">
+<!ENTITY options.enableServiceWorkersTesting.tooltip   "Med det här alternativet aktiveras testfunktioner för &quot;service workers&quot; för alla flikar som har verktygslådan öppen.">
 <!-- LOCALIZATION NOTE (options.selectDefaultTools.label): This is the label for
   -  the heading of group of checkboxes corresponding to the default developer
   -  tools. -->
