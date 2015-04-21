@@ -5,7 +5,7 @@
 <!ENTITY serverAdvanced.label "Configurações Avançadas da Conta">
 <!-- LOCALIZATION NOTE (serverDirectory.label): DONT_TRANSLATE "IMAP" -->
 <!ENTITY serverDirectory.label "IMAP server directory:">
-
+<!ENTITY serverDirectory.accesskey "d">
 <!ENTITY usingSubscription.label "Mostrar apenas pastas subscritas">
 <!ENTITY usingSubscription.accesskey "r">
 <!ENTITY dualUseFolders.label "O servidor suporta pastas que contenham Sub-pastas e mensagens">

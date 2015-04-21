@@ -14,7 +14,7 @@
 <!ENTITY preferencesCmd.modifiers       "accel">
 <!ENTITY servicesMenu.label             "Serviços">
 <!ENTITY hideThisAppCmd.label           "Ocultar o &brandShortName;">
-
+<!ENTITY hideThisAppCmd.key             "O">
 <!ENTITY hideThisAppCmd.modifiers       "accel">
 <!ENTITY hideOtherAppsCmd.label         "Ocultar outros">
 <!ENTITY hideOtherAppsCmd.key           "H">
