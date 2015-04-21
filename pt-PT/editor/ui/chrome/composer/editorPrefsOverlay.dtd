@@ -5,7 +5,7 @@
 
 
 <!ENTITY editorCheck.label "Composer">
-
+<!ENTITY editorCheck.accesskey "c">
 
 <!ENTITY compose.label "Compositor">
 <!ENTITY editing.label "Definições da nova página">
