@@ -25,6 +25,8 @@
 <!ENTITY toolboxFramesTooltip          "Ағымдағы мақсат құжаты ретінде iframe таңдаңыз">
 <!-- LOCALIZATION NOTE (browserToolboxErrorMessage): This is the label
   -  shown next to error details when the Browser Toolbox is unable to open. -->
+
+<!ENTITY browserToolboxErrorMessage          "Браузердің саймандар панелін ашу сәтсіз аяқталды:">
 <!-- LOCALIZATION NOTE (options.context.advancedSettings): This is the label for
   -  the heading of the advanced settings group in the options panel. -->
 
@@ -74,6 +76,8 @@
 <!-- LOCALIZATION NOTE (options.enableChrome.label4): This is the label for the
   -  checkbox that toggles chrome debugging, i.e. devtools.chrome.enabled
   -  boolean preference in about:config, in the options panel. -->
+
+<!ENTITY options.enableChrome.label5    "Браузердің chrome және қосымшаларды жөндеу саймандар панельдерін іске қосу">
 
 <!-- LOCALIZATION NOTE (options.enableRemote.label3): This is the label for the
   -  checkbox that toggles remote debugging, i.e. devtools.debugger.remote-enabled
