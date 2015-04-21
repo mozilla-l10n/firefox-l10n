@@ -7,8 +7,8 @@
 <!ENTITY generalInfo.label                       "Általános információk">
 
 
-
-
+<!ENTITY folderCharsetEnforce2.label             "A kódolás alkalmazása a mappa összes üzeneténél (az üzenet egyedi karakterkódolás-beállításai és az automatikus felismerés figyelmen kívül hagyása)">
+<!ENTITY folderCharsetEnforce2.accesskey         "A">
 <!ENTITY folderRebuildSummaryFileTip2.label      "Összefoglaló fájlindex újraépítése">
 <!ENTITY folderRebuildSummaryFile2.label         "Mappa javítása">
 <!ENTITY folderRebuildSummaryFile2.accesskey     "M">
