@@ -86,5 +86,5 @@
 <!ENTITY accountSettingsDesc.label "Ez egy speciális fiók. Nincs hozzá személyazonosság társítva.">
 <!ENTITY storeType.label "Üzenettároló típusa:">
 <!ENTITY storeType.accesskey "t">
-
+<!ENTITY mboxStore2.label "Minden mappa külön fájlba (mbox)">
 <!ENTITY maildirStore.label "Minden üzenet külön fájlba (maildir)">
