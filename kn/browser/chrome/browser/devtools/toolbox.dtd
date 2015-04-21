@@ -25,6 +25,8 @@
 <!ENTITY toolboxFramesTooltip          "ಪ್ರಸಕ್ತ iframe ಅನ್ನು ಗುರಿಯ ದಸ್ತಾವೇಜಾಗಿ ಆರಿಸಿ">
 <!-- LOCALIZATION NOTE (browserToolboxErrorMessage): This is the label
   -  shown next to error details when the Browser Toolbox is unable to open. -->
+
+<!ENTITY browserToolboxErrorMessage          "ವೀಕ್ಷಕ ಉಪಕರಣಪಟ್ಟಿ ತೆರೆಯುವಲ್ಲಿ ದೋಷವುಂಟಾಗಿದೆ:">
 <!-- LOCALIZATION NOTE (options.context.advancedSettings): This is the label for
   -  the heading of the advanced settings group in the options panel. -->
 
