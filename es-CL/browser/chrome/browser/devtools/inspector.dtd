@@ -31,6 +31,9 @@
 <!ENTITY inspectorHTMLPasteLastChild.label       "Como último hijo">
 <!ENTITY inspectorHTMLPasteLastChild.accesskey   "L">
 
+<!ENTITY inspectorScrollNodeIntoView.label       "Pasar a la vista">
+<!ENTITY inspectorScrollNodeIntoView.accesskey   "S">
+
 <!ENTITY inspectorHTMLDelete.label          "Eliminar nodo">
 <!ENTITY inspectorHTMLDelete.accesskey      "E">
 
