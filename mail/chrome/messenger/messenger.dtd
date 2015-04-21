@@ -101,8 +101,8 @@
 <!ENTITY unsubscribeNewsgroupCmd.accesskey "c">
 <!ENTITY selectMenu.label "Selecionar">
 <!ENTITY selectMenu.accesskey "S">
-
-
+<!ENTITY all.label "Tudo">
+<!ENTITY all.accesskey "T">
 <!ENTITY selectThreadCmd.label "Tópico">
 <!ENTITY selectThreadCmd.accesskey "c">
 <!ENTITY selectThreadCmd.key "a">
@@ -113,7 +113,7 @@
 <!ENTITY folderPropsCmd2.label "Propriedades">
 <!ENTITY folderPropsFolderCmd2.label "Propriedades da pasta">
 <!ENTITY folderPropsNewsgroupCmd2.label "Propriedades do grupo de notícias">
-
+<!ENTITY folderPropsCmd.accesskey "e">
 <!ENTITY undoDeleteMsgCmd.label "Anular (excluir mensagem)">
 <!ENTITY redoDeleteMsgCmd.label "Refazer (excluir mensagem)">
 <!ENTITY undoMoveMsgCmd.label "Anular (mover mensagem)">
@@ -160,8 +160,8 @@
 <!ENTITY unreadFolders.accesskey "N">
 <!ENTITY favoriteFolders.label "Favoritas">
 <!ENTITY favoriteFolders.accesskey "F">
-
-
+<!ENTITY recentFolders.label "Recente">
+<!ENTITY recentFolders.accesskey "R">
 <!ENTITY compactVersion.label "Vista compacta">
 <!ENTITY compactVersion.accesskey "c">
 <!-- Sort Menu -->
@@ -269,7 +269,7 @@
 <!ENTITY findMenu.accesskey "o">
 <!ENTITY findCmd.label "Localizar nesta mensagem...">
 <!ENTITY findCmd.accesskey "o">
-
+<!ENTITY findCmd.key "o">
 <!ENTITY findAgainCmd.label "Localizar novamente">
 <!ENTITY findAgainCmd.accesskey "L">
 <!ENTITY findAgainCmd.key "l">
@@ -306,8 +306,8 @@
 <!ENTITY prevUnreadMsgCmd.label "Mensagem não lida">
 <!ENTITY prevUnreadMsgCmd.accesskey "l">
 <!ENTITY prevUnreadMsgCmd.key "P">
-
-
+<!ENTITY goForwardCmd.label "Avançar">
+<!ENTITY goForwardCmd.accesskey "ç">
 <!ENTITY goForwardCmd.commandKey "]">
 <!ENTITY goBackCmd.label "Recuar">
 <!ENTITY goBackCmd.accesskey "R">
