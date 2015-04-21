@@ -119,12 +119,14 @@
 <!-- Localization note (overlay_no_synced_devices) : Used when the menu option
      to send a tab to a synced device is pressed and no other synced devices
      are found. -->
+<!ENTITY overlay_no_synced_devices "Firefox тіркелгісімен байланысқан құрылғылар табылмады">
 <!-- Localization note (overlay_share_tab_not_sent) : Used when the menu option
      to send a tab to a synced device is pressed and there is an error
      connecting to the server so the tab could not be sent. The text should be
      divided into two lines (use the newline escape character, "\n", between
      them): the first notifying the user about the failure and the second
      telling the user what to do about it. -->
+<!ENTITY overlay_share_tab_not_sent "Браузер бетін жіберу мүмкін емес.\nКейінірек қайталап көріңіз.">
 
 <!ENTITY pref_category_search3 "Іздеу">
 <!ENTITY pref_category_search_summary "Іздеу қызметтерін баптаңыз">
@@ -151,9 +153,9 @@
 <!ENTITY pref_category_devtools_summary "Қашықтан жөндеу, суреттелетінді жыпылықтау">
 <!ENTITY pref_developer_paint_flashing "Жыпылықтауды салу">
 <!ENTITY pref_developer_remotedebugging "Қашықтан жөндеу">
-
+<!ENTITY pref_category_logins "Логиндер">
 <!ENTITY pref_remember_signons "Парольдерді еске сақтау">
-
+<!ENTITY pref_manage_logins "Логиндерді басқару">
 
 <!ENTITY pref_category_home "Үй">
 <!ENTITY pref_category_home_summary "Үй парағыңызды баптау">
@@ -190,17 +192,22 @@
 <!ENTITY pref_donottrack_title "Бақыламау">
 <!ENTITY pref_donottrack_summary "&brandShortName; сайттарға сіз өзіңізді бақыламауды қалайтыныңыз туралы айтады">
 
-
+<!ENTITY tab_queue_toast_message "Кейінірек ашу">
+<!ENTITY tab_queue_toast_action "Қазір ашу">
 <!-- Localization note (tab_queue_notification_text_plural) : The
      formatD is replaced with the number of tabs queued.  The
      number of tabs queued is always more than one.  We can't use
      Android plural forms, sadly. See Bug #753859. -->
+<!ENTITY tab_queue_notification_text_plural "&formatD; бет кезекте">
 <!-- Localization note (tab_queue_notification_title_plural) : This is the
      title of a notification; we expect more than one tab queued. -->
+<!ENTITY tab_queue_notification_title_plural "Кезекте беттер бар">
 <!-- Localization note (tab_queue_notification_title_singular) : This is the
      title of a notification; we expect only one tab queued. -->
+<!ENTITY tab_queue_notification_title_singular "Кезекте бет бар">
 <!-- Localization note (tab_queue_notification_text_singular) : This is the
      text of a notification; we expect only one tab queued. -->
+<!ENTITY tab_queue_notification_text_singular "1 бет кезекте">
 
 <!ENTITY pref_char_encoding "Кодталуы">
 <!ENTITY pref_char_encoding_on "Мәзірді көрсету">
@@ -296,7 +303,7 @@ size. -->
      (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
 <!ENTITY datareporting_crashreporter_title_short "Құлау хабаршысы">
 <!ENTITY datareporting_wifi_title2 "&vendorShortName; орналасу қызметтері">
-
+<!ENTITY datareporting_wifi_geolocation_summary4 "&vendorShortName; ұйымына дүниежүзін картаға салуды көмектесіңіз! Біздің геолокация қызметтерін жақсарту үшін, өз құрылғыңыздың Wi-Fi және ұялы желісінің жуықталған орналасуымен бөлісіңіз.">
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
      actual notification that an update is available. -->
@@ -311,7 +318,7 @@ size. -->
 <!ENTITY quit "Шығу">
 
 <!ENTITY addons "Қосымшалар">
-
+<!ENTITY logins "Логиндер">
 <!ENTITY downloads "Жүктемелер">
 <!ENTITY apps "Қолданбалар">
 <!ENTITY char_encoding "Кодталуы">
@@ -368,9 +375,11 @@ size. -->
      where normally a username would be displayed. In this case, no username was found, and this placeholder
      contains brackets to indicate this is not actually a username, but rather a placeholder -->
 
+<!ENTITY doorhanger_login_no_username "[Пайдаланушы аты жоқ]">
+<!ENTITY doorhanger_login_edit_title "Логинді түзету">
 <!ENTITY doorhanger_login_edit_username_hint "Пайдаланушы аты">
-
-
+<!ENTITY doorhanger_login_edit_password_hint "Пароль">
+<!ENTITY doorhanger_login_edit_toggle "Парольді көрсету">
 
 <!ENTITY pref_titlebar_mode "Атау жолағы">
 <!ENTITY pref_titlebar_mode_title "Парақ атауын көрсету">
@@ -381,7 +390,8 @@ size. -->
 <!ENTITY pref_scroll_title_bar2 "Толық экранды шолу">
 <!ENTITY pref_scroll_title_bar_summary "Парақ астына айналдыру кезінде &brandShortName; атау жолағын жасыру">
 
-
+<!ENTITY pref_tab_queue_title "Кейінірек ашу">
+<!ENTITY pref_tab_queue_summary "Беттердің лезде ашылуын болдырмау, бірақ, кезектегі барлық бетті &brandShortName; келесі рет жүктелген кезде ашу.">
 <!-- Localization note (page_removed): This string appears in a toast message when
      any page is removed frome about:home. This includes pages that are in history,
      bookmarks, or reading list. -->
@@ -419,7 +429,7 @@ size. -->
 
 <!ENTITY masterpassword_create_title "Мастер парольді жасау">
 <!ENTITY masterpassword_remove_title "Мастер парольді өшіру">
-
+<!ENTITY masterpassword_password "Пароль">
 <!ENTITY masterpassword_confirm "Парольді растау">
 
 <!ENTITY button_ok "ОК">
@@ -429,7 +439,7 @@ size. -->
 <!ENTITY button_clear_data "Мәліметті өшіру">
 <!ENTITY button_set "Орнату">
 <!ENTITY button_clear "Тазарту">
-
+<!ENTITY button_remember "Есте сақтау">
 
 <!ENTITY home_top_sites_title "Топ сайттар">
 <!-- Localization note (home_top_sites_add): This string is used as placeholder
