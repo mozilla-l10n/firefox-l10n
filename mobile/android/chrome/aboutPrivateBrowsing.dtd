@@ -7,7 +7,7 @@
 <!ENTITY privatebrowsingpage.issueDesc.private      "Þú hefur opnað nýjan einkaflipa.">
 <!ENTITY privatebrowsingpage.issueDesc.normal       "Þú ert ekki í einkaflipa.">
 
-<!ENTITY privatebrowsingpage.description            "&brandShortName; mun ekki halda utan um vafra ferli, leitarsögu, niðurhal, vefeyðublaða sögu, smákökur eða tímabundna internetsskrár í eiknaflipa. Hins vegar munu skrár og bókarmerki sem þú nærð í og festir verða haldin til haga.">
+<!ENTITY privatebrowsingpage.description            "&brandShortName; mun ekki halda utan um vafraferil, leitarsögu, niðurhal, vefeyðublaða sögu, smákökur eða tímabundnar internetsskrár í einkaflipa. Hins vegar munu skrár og bókarmerki sem þú nærð í og setur sem bókamerki verða haldin til haga.">
 <!ENTITY privatebrowsingpage.description.private    "&privatebrowsingpage.issueDesc.private; &privatebrowsingpage.description;">
 
 <!ENTITY privatebrowsingpage.moreInfo               "Þrátt fyrir að þetta tæki muni ekki skrásetja vafrasögu þína þá gæti internet þjónustuaðili þinn haldið til haga þeim síðum sem þú heimsækir.">
