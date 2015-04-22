@@ -598,7 +598,7 @@
 <!-- Folder Pane -->
 
 <!ENTITY folderNameColumn.label "Ime">
-<!ENTITY folderUnreadColumn.label "Neprebrano">
+<!ENTITY folderUnreadColumn.label "Neprebranih">
 <!ENTITY folderTotalColumn.label "Skupaj">
 <!ENTITY folderSizeColumn.label "Velikost">
 <!-- Folder Pane Context Menu -->
@@ -669,7 +669,7 @@
 <!ENTITY statusColumn.label "Stanje">
 <!ENTITY sizeColumn.label "Velikost">
 <!ENTITY junkStatusColumn.label "Stanje za neželeno">
-<!ENTITY unreadColumn.label "Neprebrano">
+<!ENTITY unreadColumn.label "Neprebranih">
 <!ENTITY totalColumn.label "Skupaj">
 <!ENTITY readColumn.label "Prebrano">
 <!ENTITY receivedColumn.label "Prejeto">
