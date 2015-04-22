@@ -13,7 +13,7 @@
 
 <!ENTITY quitApplicationCmdWin.label        "बाहर">
 <!ENTITY quitApplicationCmdWin.accesskey    "x">
-<!ENTITY quitApplicationCmd.label           "बाहर जाएँ (Q)">
+<!ENTITY quitApplicationCmd.label           "बाहर जाएँ">
 <!ENTITY quitApplicationCmd.accesskey       "Q">
 <!-- On Mac, we create the Quit and Hide command labels dynamically,
    - using properties in window.properties, in order to include the name
@@ -26,26 +26,26 @@
 
 <!ENTITY quitApplicationCmdUnix.key          "Q">
 
-<!ENTITY editMenu.label                     "संपादन (E )">
+<!ENTITY editMenu.label                     "संपादन">
 <!ENTITY editMenu.accesskey                 "E">
-<!ENTITY undoCmd.label                      "पहले जैसा (U)">
+<!ENTITY undoCmd.label                      "पहले जैसा">
 <!ENTITY undoCmd.key                        "Z">
 <!ENTITY undoCmd.accesskey                  "U">
-<!ENTITY redoCmd.label                      "दोहराएँ (R)">
+<!ENTITY redoCmd.label                      "दोहराएँ">
 <!ENTITY redoCmd.key                        "Y">
 <!ENTITY redoCmd.accesskey                  "R">
-<!ENTITY cutCmd.label                       "काटें (t)">
+<!ENTITY cutCmd.label                       "काटें">
 <!ENTITY cutCmd.key                         "X">
 <!ENTITY cutCmd.accesskey                   "t">
-<!ENTITY copyCmd.label                      "नक़ल लें (C)">
+<!ENTITY copyCmd.label                      "नक़ल लें">
 <!ENTITY copyCmd.key                        "C">
 <!ENTITY copyCmd.accesskey                  "C">
-<!ENTITY pasteCmd.label                     "चिपकाएँ (P)">
+<!ENTITY pasteCmd.label                     "चिपकाएँ">
 <!ENTITY pasteCmd.key                       "V">
 <!ENTITY pasteCmd.accesskey                 "P">
-<!ENTITY deleteCmd.label                    "मिटाएँ (D)">
+<!ENTITY deleteCmd.label                    "मिटाएँ">
 <!ENTITY deleteCmd.key                      "D">
 <!ENTITY deleteCmd.accesskey                "D">
-<!ENTITY selectAllCmd.label                 "सभी चुनें (A)">
+<!ENTITY selectAllCmd.label                 "सभी चुनें">
 <!ENTITY selectAllCmd.key                   "A">
 <!ENTITY selectAllCmd.accesskey             "A">

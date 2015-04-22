@@ -11,7 +11,7 @@
 
 <!ENTITY importFromIE.label             "Microsoft इंटरनेट एक्सप्लोरर">
 <!ENTITY importFromIE.accesskey         "M">
-<!ENTITY importFromNothing.label        "कुछ भी आयात न करें (D)">
+<!ENTITY importFromNothing.label        "कुछ भी आयात न करें">
 <!ENTITY importFromNothing.accesskey    "D">
 <!ENTITY importFromSafari.label         "सफारी">
 <!ENTITY importFromSafari.accesskey     "S">

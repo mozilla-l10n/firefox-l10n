@@ -23,7 +23,7 @@
 <!ENTITY engine.tabs.accesskey            "T">
 <!ENTITY engine.passwords.label           "कूटशब्द">
 <!ENTITY engine.passwords.accesskey       "P">
-<!ENTITY engine.addons.label              "डेस्कटॉप ऐड-ऑन्स (A)">
+<!ENTITY engine.addons.label              "डेस्कटॉप ऐड-ऑन्स">
 <!ENTITY engine.addons.accesskey          "A">
-<!ENTITY engine.prefs.label               "डेस्कटॉप वरीयता (s)">
+<!ENTITY engine.prefs.label               "डेस्कटॉप वरीयता">
 <!ENTITY engine.prefs.accesskey           "s">
