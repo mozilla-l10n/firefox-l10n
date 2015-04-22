@@ -26,7 +26,7 @@
 
 <!ENTITY quitApplicationCmdUnix.key          "Q">
 
-<!ENTITY editMenu.label                     "संपादन (E )">
+<!ENTITY editMenu.label                     "संपादन">
 <!ENTITY editMenu.accesskey                 "E">
 <!ENTITY undoCmd.label                      "पहले जैसा">
 <!ENTITY undoCmd.key                        "Z">
