@@ -9,7 +9,6 @@
 <!ENTITY setPassword.newPassword.label "Nova pasvorto:">
 <!ENTITY setPassword.reenterPassword.label "Nova pasvorto (denove):">
 <!ENTITY setPassword.meter.label "Mezurilo de pasvorta kvalito">
-<!ENTITY setPassword.meter.loading "Ŝarganta">
 
 <!-- Values for resetpassword.xul -->
 <!ENTITY resetPasswordButtonLabel "Rekomenci">
@@ -21,19 +20,6 @@
 <!ENTITY getPassword.tokenName2.label "Security Device:">
 <!ENTITY getPassword.password.label "Pasvorto:">
 
-<!-- These should be common -->
-<!ENTITY piperror.title "Eraro">
-<!ENTITY pipalert.title "Eraro - ne eblas ĝin superi">
-
-<!-- Prefs panel strings -->
-<!ENTITY pref.security.general.lHeader "Sekureco">
-<!ENTITY pref.security.general.rHeader "Agordoj por ĝenerala sekureco">
-<!ENTITY pref.security.general.header "Agordoj por ĝenerala sekureco">
-<!ENTITY pref.security.general.level.title "Sekureca nivelo">
-<!ENTITY pref.security.general.paranoid.label "Uzi paranojajn sekurecajn agordojn">
-<!ENTITY pref.security.general.certificates.title "Atestiloj">
-<!ENTITY pref.security.general.manageCert.label "Administri atestilojn">
-
 <!-- Downloading a cert -->
 <!ENTITY downloadCert.title "Elŝutanta atestilon">
 <!ENTITY downloadCert.message1 "Fido je nova atestila aŭtoritato (CA) estis petita al vi.">
@@ -42,9 +28,7 @@
 <!ENTITY downloadCert.trustObjSign "Fidi tiun ĉi CAn por identigi programistojn.">
 <!ENTITY downloadCert.message3 "Antaŭ ol fidi je tiu ĉi CA por ĉiuj celoj vi devus ekzameni ĝian atestilon kaj ĝiajn politikojn kaj procedurojn (se tio disponeblas).">
 <!ENTITY downloadCert.viewCert.label "Vidi">
-<!ENTITY downloadCert.viewPolicy.label "Politiko">
 <!ENTITY downloadCert.viewCert.text "Ekzameni CAan atestilon">
-<!ENTITY downloadCert.viewPolicy.text "Ekzameni CAajn politikojn kaj procedurojn">
 
 <!-- Strings for the SSL client auth ask dialog -->
 <!ENTITY clientAuthAsk.title "Peto por identigo de uzanto">
@@ -62,9 +46,6 @@
 <!ENTITY pkcs12.setpassword.label1 "Pasvorto por atestila sekurkopio:">
 <!ENTITY pkcs12.setpassword.label2 "Pasvorto por atestila sekurkopio (denove):">
 <!ENTITY pkcs12.setpassword.reminder "Grava rimarko: Se vi forgesas la pasvorton  de via atestila sekurkopio vi ne povos uzi la sekurkopion poste. Bonvolu registri la pasvorton en sekuran lokon.">
-
-<!ENTITY pkcs12.getpassword.title  "Dialogo por tajpado de pasvorto">
-<!ENTITY pkcs12.getpassword.message "Bonvolu tajpi la pasvorton kiu estis uzita por ĉifri ĉi tiun sekurkopion de atestilo.">
 
 <!ENTITY chooseToken.title  "Elekti ĵetonan dialogon">
 <!ENTITY chooseToken.message1 "Bonvolu elekti ĵetonon.">
