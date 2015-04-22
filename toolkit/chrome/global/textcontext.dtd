@@ -24,3 +24,5 @@
 <!ENTITY spellNoSuggestions.label "(pas de mot suggerit)">
 <!ENTITY spellDictionaries.label "Lengas">
 <!ENTITY spellDictionaries.accesskey "g">
+
+<!ENTITY searchTextBox.clear.label "Escafar">

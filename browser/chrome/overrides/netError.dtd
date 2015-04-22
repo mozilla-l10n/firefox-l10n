@@ -106,7 +106,10 @@ vòstre sistèma.</li>
 </ul>">
 
 <!ENTITY nssFailure2.title "La connexion segura a pas capitat">
-
+<!ENTITY nssFailure2.longDesc2 "<ul> 
+<li>La pagina qu'ensajatz de consultar pòt pas èsser afichada perque l'autenticitat de las donadas recebudas pòt pas èsser verificada.</li> 
+<li>Contactatz los proprietaris del sit Web per los n'assabentar. Tanben podètz utilizar la comanda dins lo menú d'ajuda per senhalar un site pas foncional.</li> 
+</ul>">
 
 <!ENTITY nssBadCert.title "La connexion segura a pas capitat">
 <!ENTITY nssBadCert.longDesc2 "<ul>
@@ -159,16 +162,14 @@ functionality specific to firefox. -->
 
 
 <!ENTITY errorReporting.learnMore "Ne saber mai…">
+<!ENTITY errorReporting.sending "Mandadís del rapòrt">
 
 
-
-
+<!ENTITY errorReporting.tryAgain "Ensajatz tornarmai">
 
 <!ENTITY remoteXUL.title "XUL distant">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Contactatz lo webmèstre del sit per l'assabentar d'aqueste problèma.</li></ul></p>">
 
-<!-- LOCALIZATION NOTE (oldSecurityProtocol.longDesc) - Do not translate the
-     <span id='hostname'></span>. -->
-<!-- LOCALIZATION NOTE (oldSecurityProtocol.advancedInfo) - Do not translate
-     the <span id='errorcode'></span>. -->
+<!-- LOCALIZATION NOTE (sslv3Used.longDesc) - Do not translate
+     "ssl_error_unsupported_version". -->
 

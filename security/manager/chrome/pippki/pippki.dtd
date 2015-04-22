@@ -9,7 +9,6 @@
 <!ENTITY setPassword.newPassword.label "Picatz lo senhal actual :">
 <!ENTITY setPassword.reenterPassword.label "Tornatz picatz lo senhal :">
 <!ENTITY setPassword.meter.label "Mesura de la qualitat del senhal">
-<!ENTITY setPassword.meter.loading "Cargament">
 <!-- Values for resetpassword.xul -->
 
 <!ENTITY resetPasswordButtonLabel "Escafar">
@@ -20,19 +19,6 @@
 <!ENTITY getPassword.title  "Picar lo senhal principal">
 <!ENTITY getPassword.tokenName2.label "Periferic de seguretat">
 <!ENTITY getPassword.password.label "Senhal :">
-<!-- These should be common -->
-
-<!ENTITY piperror.title "Error">
-<!ENTITY pipalert.title "Error - impossible de recuperar">
-<!-- Prefs panel strings -->
-
-<!ENTITY pref.security.general.lHeader "Seguretat">
-<!ENTITY pref.security.general.rHeader "Paramètres generals de seguretat">
-<!ENTITY pref.security.general.header "Paramètres generals de seguretat">
-<!ENTITY pref.security.general.level.title "Nivèl de seguretat">
-<!ENTITY pref.security.general.paranoid.label "Utilizar lo nivèl de seguretat paranoiac">
-<!ENTITY pref.security.general.certificates.title "Certificats">
-<!ENTITY pref.security.general.manageCert.label "Gerir los certificats">
 <!-- Downloading a cert -->
 
 <!ENTITY downloadCert.title "Telecargament del certificat">
@@ -42,9 +28,7 @@
 <!ENTITY downloadCert.trustObjSign "Confirmar aquesta AC per identificar los desvolopaires de logicials.">
 <!ENTITY downloadCert.message3 "Abans de confirmar aquesta AC per quina rason que siá, la deuriatz examinar, ela, sos metòdes e sas proceduras (se possible).">
 <!ENTITY downloadCert.viewCert.label "Veire">
-<!ENTITY downloadCert.viewPolicy.label "Politica">
 <!ENTITY downloadCert.viewCert.text "Examinar lo certificat d'AC">
-<!ENTITY downloadCert.viewPolicy.text "Examinar la politica d'AC e sas proceduras">
 <!-- Strings for the SSL client auth ask dialog -->
 
 <!ENTITY clientAuthAsk.title "Requèsta d'identificacion d'utilizaire">
@@ -62,9 +46,6 @@
 <!ENTITY pkcs12.setpassword.label1 "Senhal de salvament del certificat :">
 <!ENTITY pkcs12.setpassword.label2 "Senhal de salvament del certificat (encara) :">
 <!ENTITY pkcs12.setpassword.reminder "Important : s'avètz doblidat vòstre senhal de seguretat, poiretz pas pus importar aqueste salvament mai tard. Conservatz-lo en luòc segur.">
-
-<!ENTITY pkcs12.getpassword.title  "Fenèstra d'entrada del senhal">
-<!ENTITY pkcs12.getpassword.message "Picatz lo senhal portable de seguretat que protegís aqueste certificat de seguretat e la clau privada.">
 
 <!ENTITY chooseToken.title  "Causida del geton">
 <!ENTITY chooseToken.message1 "Causissètz un geton">

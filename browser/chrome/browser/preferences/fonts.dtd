@@ -5,21 +5,21 @@
 <!ENTITY  fontsDialog.title                       "Poliças">
 
 <!ENTITY  language.label                          "Poliças per :">
-<!ENTITY  language.accesskey                      "P">
+<!ENTITY  language.accesskey                      "o">
 
 <!ENTITY  size.label                              "Talha :">
 <!ENTITY  sizeProportional.accesskey              "T">
 <!ENTITY  sizeMonospace.accesskey                 "e">
 
 <!ENTITY  proportional.label                      "Proporcionala :">
-<!ENTITY  proportional.accesskey                  "o">
+<!ENTITY  proportional.accesskey                  "P">
 
 <!ENTITY  serif.label                             "Serif :">
 <!ENTITY  serif.accesskey                         "S">
 <!ENTITY  sans-serif.label                        "Sens-serif :">
 <!ENTITY  sans-serif.accesskey                    "n">
-<!ENTITY  monospace.label                         "Monospace :">
-<!ENTITY  monospace.accesskey                     "s">
+<!ENTITY  monospace.label                         "Largor fixa :">
+<!ENTITY  monospace.accesskey                     "L">
 <!-- LOCALIZATION NOTE (font.langGroup.latin) :
      Translate "Latin" as the name of Latin (Roman) script, not as the name of the Latin language. -->
 
@@ -52,13 +52,13 @@
 <!ENTITY  font.langGroup.sinhala                  "Sinhala">
 <!ENTITY  font.langGroup.tibetan                  "Tibetan">
 <!-- Minimum font size -->
-<!ENTITY minSize.label                            "Talha minimal de la poliça :">
+<!ENTITY minSize.label                            "Talha minimala de la poliça :">
 <!ENTITY minSize.accesskey                        "m">
 <!ENTITY minSize.none                             "Pas cap">
 <!-- default font type -->
 
 <!ENTITY  useDefaultFontSerif.label               "Serif">
-<!ENTITY  useDefaultFontSansSerif.label           "Sens Serif">
+<!ENTITY  useDefaultFontSansSerif.label           "Sans serif">
 
 <!ENTITY  allowPagesToUse.label                   "Autorizar las paginas a causir lors pròpias colors al luòc de mas causidas çai-sus">
 <!ENTITY  allowPagesToUse.accesskey               "A">

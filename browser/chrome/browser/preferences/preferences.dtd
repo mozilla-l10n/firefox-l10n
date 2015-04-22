@@ -15,7 +15,7 @@
 
 <!ENTITY  paneGeneral.title       "General">
 <!ENTITY  paneTabs.title          "Onglets">
-
+<!ENTITY  paneSearch.title        "Recercar">
 <!ENTITY  paneContent.title       "Contengut">
 <!ENTITY  paneApplications.title  "Aplicacions">
 <!ENTITY  panePrivacy.title       "Vida privada">

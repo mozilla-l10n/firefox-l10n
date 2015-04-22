@@ -175,8 +175,8 @@
 
 
 
-
-
+<!ENTITY options.sourceeditor.tabsize.label             "Talha de l'onglet">
+<!ENTITY options.sourceeditor.tabsize.accesskey         "T">
 
 
 <!ENTITY options.sourceeditor.keybinding.default.label  "Per defaut">

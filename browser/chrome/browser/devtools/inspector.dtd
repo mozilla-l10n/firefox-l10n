@@ -62,10 +62,8 @@
 <!ENTITY inspectorHTMLDelete.accesskey      "S">
 
 <!ENTITY inspector.selectButton.tooltip     "Seleccionar l'element amb la mirga">
-<!-- LOCALIZATION NOTE (inspectorSearchHTML.label): This is the label shown as
+<!-- LOCALIZATION NOTE (inspectorSearchHTML.label2): This is the label shown as
      the placeholder in inspector search box -->
-
-<!ENTITY inspectorSearchHTML.label          "Recercar dins lo HTML">
 <!ENTITY inspectorSearchHTML.key            "F">
 <!-- LOCALIZATION NOTE (inspectorCopyImageDataUri.label): This is the label
      shown in the inspector contextual-menu for the item that lets users copy
