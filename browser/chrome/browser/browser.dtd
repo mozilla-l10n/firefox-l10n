@@ -56,7 +56,7 @@ can reach it easily. -->
 
 <!ENTITY tabCmd.label "Nýr flipi">
 <!ENTITY tabCmd.accesskey "f">
-<!ENTITY tabCmd.commandkey "f">
+<!ENTITY tabCmd.commandkey "t">
 <!-- LOCALIZATION NOTE (openLocationCmd.label): "Open Location" is only
 displayed on OS X, and only on windows that aren't main browser windows, or
 when there are no windows but Firefox is still running. -->
@@ -140,7 +140,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksMenu.accesskey "B">
 <!ENTITY bookmarkThisPageCmd.label "Setja síðu í bókamerki">
 <!ENTITY editThisBookmarkCmd.label "Breyta bókamerki">
-<!ENTITY bookmarkThisPageCmd.commandkey "B">
+<!ENTITY bookmarkThisPageCmd.commandkey "d">
 <!ENTITY markPageCmd.commandkey "l">
 <!-- LOCALIZATION NOTE (findShareServices.label):
   -  Use the unicode ellipsis char, \u2026,
@@ -241,7 +241,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY browserConsoleCmd.accesskey  "V">
 
 <!ENTITY inspectContextMenu.label     "Skoða einindi">
-<!ENTITY inspectContextMenu.accesskey "Q">
+<!ENTITY inspectContextMenu.accesskey "ð">
 
 <!ENTITY responsiveDesignTool.label   "Svartíma sýn">
 <!ENTITY responsiveDesignTool.accesskey "r">
@@ -455,7 +455,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewPartialSourceForMathMLCmd.label    "Sýna MathML frumkóða">
 <!-- LOCALIZATION NOTE (viewPartialSourceCmd.accesskey): This accesskey is used for both 
          viewPartialSourceForSelectionCmd.label and viewPartialSourceForMathMLCmd.label -->
-<!ENTITY viewPartialSourceCmd.accesskey "e">
+<!ENTITY viewPartialSourceCmd.accesskey "k">
 <!ENTITY viewPageSourceCmd.label      "Sýna frumkóða síðu">
 <!ENTITY viewPageSourceCmd.accesskey  "k">
 <!ENTITY viewFrameSourceCmd.label     "Sýna frumkóða ramma">
@@ -630,7 +630,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY pageReportIcon.tooltip            "Breyta stillingum sprettigluggabana fyrir þennan vef">
 
-<!ENTITY allowPopups.accesskey "p">
+<!ENTITY allowPopups.accesskey "L">
 <!-- On Windows we use the term "Options" to describe settings, but
      on Linux and Mac OS X we use "Preferences" - carry that distinction
      over into this string, which is used in the "popup blocked" info bar . -->
