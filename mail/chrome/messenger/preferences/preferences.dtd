@@ -17,3 +17,7 @@
 <!ENTITY panePrivacy.title        "Tietosuoja">
 <!ENTITY paneSecurity.title       "Turvallisuus">
 <!ENTITY paneAdvanced.title        "Lisäasetukset">
+<!ENTITY paneAccount.title        "Tilit">
+
+<!ENTITY okButton.title           "OK">
+<!ENTITY okButton.accesskey       "O">
