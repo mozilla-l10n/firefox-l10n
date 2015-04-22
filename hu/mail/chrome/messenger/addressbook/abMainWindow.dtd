@@ -102,7 +102,7 @@
 <!ENTITY menu_ShowNameAs.accesskey                      "N"> 
 <!-- LOCALIZATION NOTE (firstLastCmd2.label): We're not including a comma here
 because displayed names don't have the comma in between. -->
-<!ENTITY firstLastCmd2.label                            "Utónév, vezetéknév">
+<!ENTITY firstLastCmd2.label                            "Utónév vezetéknév">
 <!ENTITY firstLastCmd2.accesskey                        "U"> 
 <!ENTITY lastFirstCmd.label                             "Vezetéknév, utónév">
 <!ENTITY lastFirstCmd.accesskey                         "V">
