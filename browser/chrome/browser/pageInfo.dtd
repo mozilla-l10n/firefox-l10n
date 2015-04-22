@@ -22,7 +22,7 @@
 <!ENTITY  generalReferrer       "URL de provenença :">
 <!ENTITY  generalSource         "Font de l'escondedor :">
 <!ENTITY  generalModified       "Modificat :">
-
+<!ENTITY  generalEncoding2      "Encodatge del tèxte :">
 <!ENTITY  generalMetaName       "Nom">
 <!ENTITY  generalMetaContent    "Contengut">
 
