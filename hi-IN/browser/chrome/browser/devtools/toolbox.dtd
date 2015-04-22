@@ -43,7 +43,7 @@
   -  dropdown list that controls the default color unit used in the inspector.
   -  This label is visible in the options panel. -->
 
-<!ENTITY options.defaultColorUnit.label "तयशुदा रंग इकाई (u)">
+<!ENTITY options.defaultColorUnit.label "तयशुदा रंग इकाई">
 <!-- LOCALIZATION NOTE (options.defaultColorUnit.accesskey): This is the access
   -  key for a dropdown list that controls the default color unit used in the
   -  inspector. This is visible in the options panel. -->
@@ -188,9 +188,9 @@
 <!ENTITY options.sourceeditor.autoclosebrackets.tooltip "बंद कोष्ठक स्वतः डालें">
 <!ENTITY options.sourceeditor.expandtab.label           "स्थान के उपयोग से हाशिया">
 <!ENTITY options.sourceeditor.expandtab.tooltip         "टैब वर्ण के बदले स्थान का उपयोग करें">
-<!ENTITY options.sourceeditor.tabsize.label             "टैब आकार (T)">
+<!ENTITY options.sourceeditor.tabsize.label             "टैब आकार">
 <!ENTITY options.sourceeditor.tabsize.accesskey         "T">
-<!ENTITY options.sourceeditor.keybinding.label          "कीबाइंडिंग (K)">
+<!ENTITY options.sourceeditor.keybinding.label          "कीबाइंडिंग">
 <!ENTITY options.sourceeditor.keybinding.accesskey      "K">
 <!ENTITY options.sourceeditor.keybinding.default.label  "तयशुदा">
 
