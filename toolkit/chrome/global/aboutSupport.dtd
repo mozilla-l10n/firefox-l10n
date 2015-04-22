@@ -52,6 +52,7 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 <!ENTITY aboutSupport.appBasicsUserAgent "Agent utilizaire">
 <!ENTITY aboutSupport.appBasicsMemoryUse "Utilizacion memòria">
 
+<!ENTITY aboutSupport.appBasicsMultiProcessSupport "Fenèstras multiprocessus">
 
 <!ENTITY aboutSupport.showDir.label "Dobrir lo dorsièr correspondent">
 <!-- LOCALIZATION NOTE (aboutSupport.showMac.label): This is the Mac-specific
