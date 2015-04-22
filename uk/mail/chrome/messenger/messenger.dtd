@@ -32,7 +32,12 @@
 <!ENTITY newExistingEmailAccountCmd.accesskey "І">
 <!ENTITY newIMAccountCmd.label "Чатовий запис…">
 <!ENTITY newIMAccountCmd.accesskey "Ч">
-
+<!ENTITY newFeedAccountCmd.label "Feed Account…">
+<!ENTITY newFeedAccountCmd.accesskey "d">
+<!ENTITY newIMContactCmd.label "Chat Contact…">
+<!ENTITY newIMContactCmd.accesskey "h">
+<!ENTITY openMessageFileCmd.label "Open Saved Message…">
+<!ENTITY openMessageFileCmd.accesskey "O">
 <!ENTITY saveAsMenu.label "Зберегти як">
 <!ENTITY saveAsMenu.accesskey "я">
 <!ENTITY saveAsFileCmd.label "Файл">
@@ -140,6 +145,8 @@
 <!ENTITY messagePaneVertical.accesskey "В">
 <!ENTITY showFolderPaneCmd.label "Панель тек">
 <!ENTITY showFolderPaneCmd.accesskey "т">
+<!ENTITY showFolderPaneColsCmd.label "Folder Pane Columns">
+<!ENTITY showFolderPaneColsCmd.accesskey "P">
 <!ENTITY showMessageCmd.label "Область перегляду листів">
 <!ENTITY showMessageCmd.accesskey "О">
 
@@ -155,6 +162,8 @@
 <!ENTITY favoriteFolders.accesskey "О">
 <!ENTITY recentFolders.label "Недавні">
 <!ENTITY recentFolders.accesskey "д">
+<!ENTITY compactVersion.label "Compact View">
+<!ENTITY compactVersion.accesskey "C">
 
 <!-- Sort Menu -->
 <!ENTITY sortMenu.label "Сортування">
@@ -183,6 +192,8 @@
 <!ENTITY sortByFromCmd.accesskey "В">
 <!ENTITY sortByRecipientCmd.label "за адресатом">
 <!ENTITY sortByRecipientCmd.accesskey "д">
+<!ENTITY sortByCorrespondentCmd.label "Correspondents">
+<!ENTITY sortByCorrespondentCmd.accesskey "e">
 <!ENTITY sortByUnreadCmd.label "за прочитаністю">
 <!ENTITY sortByUnreadCmd.accesskey "ч">
 <!ENTITY sortByOrderReceivedCmd.label "за порядком отримання">
@@ -417,6 +428,14 @@
 <!ENTITY openConversationCmd.label "Відкрити у Бесіді">
 <!ENTITY openConversationCmd.accesskey "Б">
 <!ENTITY openConversationCmd.key "o">
+<!ENTITY openAttachmentListCmd.label "Attachments">
+<!ENTITY openAttachmentListCmd.accesskey "h">
+<!ENTITY openFeedMessage1.label "When Opening Feed Messages">
+<!ENTITY openFeedMessage1.accesskey "O">
+<!ENTITY openFeedWebPage.label "Open as Web Page">
+<!ENTITY openFeedWebPage.accesskey "W">
+<!ENTITY openFeedSummary.label "Open as Summary">
+<!ENTITY openFeedSummary.accesskey "S">
 <!ENTITY openFeedWebPageInMP.label "Перемкнути веб сторінку і підсумок у панелі повідомлень">
 <!ENTITY openFeedWebPageInMP.accesskey "м">
 
@@ -470,6 +489,8 @@
 <!-- LOCALIZATION NOTE (accountManagerCmdUnix2.accesskey): belongs to accountManagerCmd2.label,
         which is placed under the Edit menu on Unix systems -->
 <!ENTITY accountManagerCmdUnix2.accesskey "м">
+<!ENTITY allowRemoteDebugging.label "Allow Remote Debugging">
+<!ENTITY allowRemoteDebugging.accesskey "g">
 
 <!-- Mail Toolbar -->
 <!ENTITY getMsgButton1.label "Отримати">
@@ -518,6 +539,8 @@
 <!ENTITY replyAllButton.tooltip "Відповісти відправнику та всім адресатам">
 <!ENTITY replyListButton.tooltip "Відповісти списку розсилки">
 <!ENTITY forwardButton.tooltip "Переслати вибраний лист">
+<!ENTITY forwardAsInline.tooltip "Forward selected message as inline text">
+<!ENTITY forwardAsAttachment.tooltip "Forward selected message as an attachment">
 <!ENTITY fileButton.tooltip "Помістити вибраний лист в потрібну теку">
 <!ENTITY archiveButton.tooltip "Архівувати вибрані листи">
 <!ENTITY nextButton.tooltip "Перейти до наступного непрочитаного листа">
@@ -539,11 +562,33 @@
 <!ENTITY compactButton.tooltip "Усунути вилучені листи з вибраної теки">
 <!ENTITY appmenuButton1.tooltip "Показати меню програми">
 
+<!-- Toolbar Button Popup -->
+<!ENTITY buttonMenuForwardAsInline.label "Forward Inline">
+<!ENTITY buttonMenuForwardAsAttachment.label "Forward As Attachment">
+
+<!-- Remote Content Button Popup -->
+<!ENTITY remoteContentOptionsAllowForMsg.label "Show remote content in this message">
+<!ENTITY remoteContentOptionsAllowForMsg.accesskey "S">
+<!ENTITY editRemoteContentSettings.label "Edit remote content options…">
+<!ENTITY editRemoteContentSettings.accesskey "E">
+<!ENTITY editRemoteContentSettingsUnix.label "Edit remote content preferences…">
+<!ENTITY editRemoteContentSettingsUnix.accesskey "E">
+
+<!-- Phishing Button Popup -->
+<!ENTITY phishingOptionIgnore.label "Ignore warning for this message">
+<!ENTITY phishingOptionIgnore.accesskey "n">
+<!ENTITY phishingOptionSettings.label "Edit scam detection options…">
+<!ENTITY phishingOptionSettings.accesskey "d">
+<!ENTITY phishingOptionSettingsUnix.label "Edit scam detection preferences…">
+<!ENTITY phishingOptionSettingsUnix.accesskey "d">
+
 <!-- AppMenu Popup -->
 <!ENTITY appmenuNewMsgCmd.label "Новий лист">
 <!ENTITY appmenuNewContactCmd.label "Контакт адресної книги…">
 <!ENTITY appmenuEditMenu.label "Редагувати">
 <!ENTITY appmenuToolbarLayout.label "Розклад панелей…">
+<!ENTITY appmenuSelectThread.label "Select Thread">
+<!ENTITY appmenuSelectFlagged.label "Select Starred Messages">
 
 <!-- Tags Menu Popup -->
 <!ENTITY addNewTag.label "Нова мітка…">
@@ -552,7 +597,9 @@
 <!ENTITY manageTags.accesskey "К">
 
 <!-- Folder Pane -->
-<!ENTITY folderColumn.label "Назва">
+<!ENTITY folderNameColumn.label "Назва">
+<!ENTITY folderUnreadColumn.label "Unread">
+<!ENTITY folderTotalColumn.label "Total">
 <!ENTITY folderSizeColumn.label "Розмір">
 
 <!-- Folder Pane Context Menu -->
@@ -613,6 +660,7 @@
 <!ENTITY threadColumn.label "Гілка">
 <!ENTITY fromColumn.label "Від">
 <!ENTITY recipientColumn.label "Одержувачі">
+<!ENTITY correspondentColumn.label "Correspondents">
 <!ENTITY subjectColumn.label "Тема">
 <!ENTITY dateColumn.label "Дата">
 <!ENTITY priorityColumn.label "Важливість">
@@ -631,6 +679,28 @@
 <!ENTITY attachmentColumn.label "Вкладення">
 
 <!-- Thread Pane Tooltips -->
+<!ENTITY columnChooser2.tooltip "Select columns to display">
+<!ENTITY threadColumn2.tooltip "Display message threads">
+<!ENTITY fromColumn2.tooltip "Sort by from">
+<!ENTITY recipientColumn2.tooltip "Sort by recipient">
+<!ENTITY correspondentColumn2.tooltip "Sort by correspondents">
+<!ENTITY subjectColumn2.tooltip "Sort by subject">
+<!ENTITY dateColumn2.tooltip "Sort by date">
+<!ENTITY priorityColumn2.tooltip "Sort by priority">
+<!ENTITY tagsColumn2.tooltip "Sort by tags">
+<!ENTITY accountColumn2.tooltip "Sort by account">
+<!ENTITY statusColumn2.tooltip "Sort by status">
+<!ENTITY sizeColumn2.tooltip "Sort by size">
+<!ENTITY junkStatusColumn2.tooltip "Sort by junk status">
+<!ENTITY unreadColumn2.tooltip "Number of unread messages in thread">
+<!ENTITY totalColumn2.tooltip "Total number of messages in thread">
+<!ENTITY readColumn2.tooltip "Sort by read">
+<!ENTITY receivedColumn2.tooltip "Sort by date received">
+<!ENTITY starredColumn2.tooltip "Sort by star">
+<!ENTITY locationColumn2.tooltip "Sort by location">
+<!ENTITY idColumn2.tooltip "Sort by order received">
+<!ENTITY attachmentColumn2.tooltip "Sort by attachments">
+
 <!-- Thread Pane Context Menu -->
 <!ENTITY contextOpenNewWindow.label "Відкрити лист в новому вікні">
 <!ENTITY contextOpenNewWindow.accesskey "н">
@@ -642,6 +712,10 @@
 <!ENTITY contextOpenNewTab.accesskey "к">
 <!ENTITY contextOpenConversation.label "Відкрити лист в бесіді">
 <!ENTITY contextOpenConversation.accesskey "б">
+<!ENTITY contextOpenContainingFolder.label "Open Message in Containing Folder">
+<!ENTITY contextOpenContainingFolder.accesskey "n">
+<!ENTITY contextEditMsgAsNew.label "Edit As New Message">
+<!ENTITY contextEditMsgAsNew.accesskey "E">
 <!ENTITY contextArchive.label "Архівувати">
 <!ENTITY contextArchive.accesskey "х">
 <!ENTITY contextReplySender.label "Відповісти відправнику">
@@ -654,14 +728,24 @@
 <!ENTITY contextReplyList.accesskey "с">
 <!ENTITY contextForward.label "Переслати">
 <!ENTITY contextForward.accesskey "П">
-<!ENTITY contextForwardAsAttachment.label "Переслати як вкладення">
-<!ENTITY contextForwardAsAttachment.accesskey "к">
+<!ENTITY contextForwardAsMenu.label "Forward As">
+<!ENTITY contextForwardAsMenu.accesskey "o">
+<!ENTITY contextForwardAsInline.label "Inline">
+<!ENTITY contextForwardAsInline.accesskey "I">
+<!ENTITY contextForwardAsAttachmentItem.label "Attachment">
+<!ENTITY contextForwardAsAttachmentItem.accesskey "A">
+<!ENTITY contextMultiForwardAsAttachment.label "Переслати як вкладення">
+<!ENTITY contextMultiForwardAsAttachment.accesskey "к">
 <!ENTITY contextMoveMsgMenu.label "Перемістити у">
 <!ENTITY contextMoveMsgMenu.accesskey "е">
 <!ENTITY contextMoveCopyMsgRecentMenu.label "Недавні">
 <!ENTITY contextMoveCopyMsgRecentMenu.accesskey "д">
 <!ENTITY contextCopyMsgMenu.label "Копіювати в">
 <!ENTITY contextCopyMsgMenu.accesskey "о">
+<!ENTITY contextKillThreadMenu.label "Ignore Thread">
+<!ENTITY contextKillThreadMenu.accesskey "I">
+<!ENTITY contextKillSubthreadMenu.label "Ignore Subthread">
+<!ENTITY contextWatchThreadMenu.label "Watch Thread">
 <!ENTITY contextSaveAs.label "Зберегти як…">
 <!ENTITY contextSaveAs.accesskey "б">
 <!ENTITY contextPrint.label "Друк…">
@@ -724,6 +808,7 @@
 <!ENTITY contextMute.label "Вимкнути звук">
 <!ENTITY contextMute.accesskey "и">
 <!ENTITY contextUnmute.label "Увімкнути звук">
+
 
 <!-- Quick Search Bar -->
 <!-- LOCALIZATION NOTE (quickSearchCmd.key):
@@ -823,3 +908,6 @@
 <!ENTITY hideOtherAppsCmdMac.commandkey "H">
 <!ENTITY hideOtherAppsCmdMac.modifiers  "accel,alt">
 <!ENTITY showAllAppsCmdMac.label        "Показати всі">
+
+<!-- Mac OS X Dock Icon pop-up menu -->
+<!ENTITY dockOptions.label              "App Icon Options…">

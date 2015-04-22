@@ -35,9 +35,12 @@
 <!ENTITY removeTagButton.accesskey "В">
 
 <!-- Fonts and Colors -->
+<!ENTITY fontsAndColors1.label   "Fonts &amp; Colors">
 <!ENTITY defaultFont.label       "Типовий шрифт:">
 <!ENTITY defaultFont.accesskey   "Т">
 <!ENTITY defaultSize.label       "Розмір:">
 <!ENTITY defaultSize.accesskey   "Р">
 <!ENTITY fontOptions.accesskey   "Ш">
 <!ENTITY fontOptions.label       "Шрифти…">
+<!ENTITY colorButton.label       "Colors…">
+<!ENTITY colorButton.accesskey   "C">

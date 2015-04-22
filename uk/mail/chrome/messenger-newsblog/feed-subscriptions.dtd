@@ -4,6 +4,7 @@
 
 <!-- Subscription Dialog -->
 <!ENTITY feedSubscriptions.label     "Підписки на стрічки">
+<!ENTITY learnMore.label             "Learn more about Feeds">
 
 <!ENTITY feedTitle.label             "Заголовок:">
 <!ENTITY feedTitle.accesskey         "T">
@@ -11,12 +12,20 @@
 <!ENTITY feedLocation.label          "URL стрічки:">
 <!ENTITY feedLocation.accesskey      "U">
 <!ENTITY feedLocation.placeholder    "Введіть дійсну адресу стрічки, котру треба додати">
+<!ENTITY locationValidate.label      "Validate">
+<!ENTITY validateText.label          "Check validation and retrieve a valid url.">
 
 <!ENTITY feedFolder.label            "Зберігати статті в:">
 <!ENTITY feedFolder.accesskey        "з">
 
 <!ENTITY quickMode.label             "Показувати короткий опис статті замість завантаження веб-сторінки">
 <!ENTITY quickMode.accesskey         "к">
+
+<!ENTITY autotagEnable.label         "Automatically create tags from feed &lt;category&gt; names">
+<!ENTITY autotagEnable.accesskey     "c">
+<!ENTITY autotagUsePrefix.label      "Prefix tags with:">
+<!ENTITY autotagUsePrefix.accesskey  "P">
+<!ENTITY autoTagPrefix.placeholder   "Enter a tag prefix">
 
 <!ENTITY button.addFeed.label        "Додати">
 <!ENTITY button.addFeed.accesskey    "Д">
@@ -31,3 +40,4 @@
 <!ENTITY button.exportOPML.tooltip   "Експортувати стрічки з структурою тек; Ctrl+клаць чи Ctrl+Enter щоб експортувати стрічки як список">
 
 <!ENTITY cmd.close.commandKey        "w">
+<!ENTITY button.close.label          "Close">
