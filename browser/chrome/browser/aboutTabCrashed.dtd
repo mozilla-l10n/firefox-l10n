@@ -4,6 +4,6 @@
 
 
 
-
-
-
+<!ENTITY tabCrashed.closeTab "ഈ ടാബ് അടക്കൂ">
+<!ENTITY tabCrashed.restoreTab "ഈ ടാബ് പുനഃസ്ഥാപിക്കൂ">
+<!ENTITY tabCrashed.restoreAll "ക്രാഷായ എല്ലാ ടാബുകളും പുനഃസ്ഥാപിക്കൂ">

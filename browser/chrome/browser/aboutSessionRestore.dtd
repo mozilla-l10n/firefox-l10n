@@ -13,10 +13,11 @@
 <!ENTITY restorepage.startNew       "ഒരു പുതിയ ബ്രൗസിങ്ങ് സെഷന്‍ ആരംഭിക്കുന്നു.">
 
 <!ENTITY restorepage.tryagainButton "പൂര്‍വ്വസ്ഥിതിയിലാക്കുക">
-
+<!ENTITY restorepage.restore.access "R">
 <!ENTITY restorepage.closeButton    "അടയ്ക്കുക">
+<!ENTITY restorepage.close.access   "C">
 
-
+<!ENTITY restorepage.restoreHeader  "വീണ്ടെടുക്കുക">
 <!ENTITY restorepage.listHeader     "ടാബുകളും ജാലകങ്ങളും">
 <!-- LOCALIZATION NOTE: &#37;S will be replaced with a number. -->
 <!ENTITY restorepage.windowLabel    "ജാലകം &#037;S">
@@ -25,9 +26,16 @@
 
 
 
+<!ENTITY welcomeback2.restoreButton  "നമ്മുക്കു പോകാം!">
+<!ENTITY welcomeback2.restoreButton.access "L">
 
+<!ENTITY welcomeback2.tabtitle      "വിജയം!">
 
+<!ENTITY welcomeback2.pageTitle     "വിജയം!">
+<!ENTITY welcomeback2.pageInfo1     "&brandShortName; പോകാൻ തയ്യാറായി">
 
+<!ENTITY welcomeback2.label.restoreAll  "എല്ലാ ജാലകങ്ങളൂം ടാബുകളും പുനസ്ഥാപ്പിക്കുക">
+<!ENTITY welcomeback2.label.restoreSome "നിങ്ങൾ ഉപയോഗിച്ചവ മാത്രം പുനസ്ഥാപിക്കുക">
 <!-- LOCALIZATION NOTE (welcomeback2.beforelink.pageInfo2,
 welcomeback2.afterlink.pageInfo2): these two string are used respectively
 before and after the the "learn more" link (welcomeback2.link.pageInfo2).
@@ -36,3 +44,4 @@ their language.
 -->
 <!ENTITY welcomeback2.afterlink.pageInfo2   "">
 
+<!ENTITY welcomeback2.link.pageInfo2        "നിങ്ങള്‍ക്കെന്തെല്ലാം ചെയ്യാനാവും എന്നറിയൂ.">

@@ -2,13 +2,17 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY aboutPrivateBrowsing.title            "നിങ്ങൾ സ്വകാര്യമായി ബ്രൗസ് ചെയ്യുന്നു">
+<!ENTITY aboutPrivateBrowsing.title.normal     "ഒരു സ്വകാര്യ ജാലകം തുറക്കണോ?">
 
 <!ENTITY aboutPrivateBrowsing.subtitle         "&brandShortName;-ല്‍ ഈ സെഷന്റെ ഒരു ചരിത്രവും ഓര്‍ത്തു് വയ്ക്കുകയില്ല.">
+<!ENTITY aboutPrivateBrowsing.subtitle.normal  "&brandShortName;  ഈ സെഷന്റെ ഒരു ചരിത്രവും ഓര്‍ത്തുവെക്കുയില്ല.">
 
 
+<!ENTITY aboutPrivateBrowsing.notPrivate       "നിങ്ങള്‍ നിലവില്‍ ഒരു സ്വകാര്യ ജാലകത്തിലല്ല.">
 
-
-
+<!ENTITY aboutPrivateBrowsing.moreInfo         "നിങ്ങള്‍ ബ്രൗസ് ചെയ്യുന്ന വെബ്സൈറ്റുകളുടെ വിവരങ്ങള്‍ ഈ കമ്പ്യൂട്ടറില്‍ സൂക്ഷിക്കുന്നില്ല, എങ്കിലും നിങ്ങളുടെ സ്ഥാപത്തിനോ അല്ലെങ്കില്‍ ഇന്റര്‍നെറ്റ് സേവനദാതാവിനോ ഈ വിവരങ്ങള്‍ ലഭിച്ചേക്കാം.">
+<!ENTITY aboutPrivateBrowsing.learnMore        "കൂടുതല്‍ അറിയുക.">
 
 <!ENTITY privatebrowsingpage.openPrivateWindow.label "ഒരു സ്വകാര്യ ജാലകം തുറക്കുക">
 <!ENTITY privatebrowsingpage.openPrivateWindow.accesskey "ക">
