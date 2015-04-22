@@ -14,9 +14,9 @@
                        for the help button in the menubar but Gnome does not.   -->
 <!ENTITY helpMenuWin.label        "सहायता"> 
 <!ENTITY helpMenuWin.accesskey    "स">
-<!ENTITY aboutProduct2.label      "About &brandShortName;">
+<!ENTITY aboutProduct2.label      "About &brandShorterName;">
 <!ENTITY aboutProduct2.accesskey  "A">
-<!ENTITY productHelp2.label       "&brandShortName; Help">
+<!ENTITY productHelp2.label       "&brandShorterName; Help">
 <!ENTITY productHelp2.accesskey   "H">
 <!ENTITY helpMac.commandkey       "?">
 
@@ -26,7 +26,7 @@
 <!ENTITY helpSafeMode.label       "सहयुक्तियों के साथ फिर आरंभ करना निष्क्रिय…">
 <!ENTITY helpSafeMode.accesskey   "R">
 
-<!ENTITY healthReport2.label      "&brandShortName; स्वास्थ्य रिपोर्ट">
+<!ENTITY healthReport2.label      "&brandShorterName; स्वास्थ्य रिपोर्ट">
 <!ENTITY healthReport2.accesskey  "e">
 
 <!ENTITY helpTroubleshootingInfo.label      "विघ्ननिवारण सूचना">
@@ -35,7 +35,7 @@
 <!ENTITY helpFeedbackPage.label      "प्रतिक्रिया दें…">
 <!ENTITY helpFeedbackPage.accesskey  "S">
 
-<!ENTITY helpShowTour2.label            "&brandShortName; दौरा">
+<!ENTITY helpShowTour2.label            "&brandShorterName; दौरा">
 <!ENTITY helpShowTour2.accesskey        "o">
 
 <!ENTITY preferencesCmdMac.label        "वरीयताएँ…">
@@ -43,7 +43,7 @@
 
 <!ENTITY servicesMenuMac.label          "सेवाएँ">
 
-<!ENTITY hideThisAppCmdMac2.label       "&brandShortName; छिपाएँ">
+<!ENTITY hideThisAppCmdMac2.label       "&brandShorterName; छिपाएँ">
 <!ENTITY hideThisAppCmdMac2.commandkey  "H">
 
 <!ENTITY hideOtherAppsCmdMac.label      "अन्य छिपाएँ">
