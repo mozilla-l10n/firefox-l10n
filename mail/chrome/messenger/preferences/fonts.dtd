@@ -21,19 +21,17 @@
 <!ENTITY  monospace.label                         "Моноширний:">
 <!ENTITY  monospace.accesskey                     "М">
 
-<!ENTITY  font.langGroup.latin1                   "Західноєвропейський">
-<!ENTITY  font.langGroup.latin2                   "Центральноєвропейський">
+<!-- LOCALIZATION NOTE (font.langGroup.latin) :
+     Translate "Latin" as the name of Latin (Roman) script, not as the name of the Latin language. -->
+<!ENTITY  font.langGroup.latin                    "Latin">
 <!ENTITY  font.langGroup.japanese                 "Японський">
 <!ENTITY  font.langGroup.trad-chinese             "Традиційний китайський (Тайвань)">
 <!ENTITY  font.langGroup.simpl-chinese            "Спрощений китайський">
 <!ENTITY  font.langGroup.trad-chinese-hk          "Традиційний китайський (Гонконг)">
 <!ENTITY  font.langGroup.korean                   "Корейський">
 <!ENTITY  font.langGroup.cyrillic                 "Кирилиця">
-<!ENTITY  font.langGroup.baltic                   "Прибалтійський">
 <!ENTITY  font.langGroup.el                       "Грецький">
-<!ENTITY  font.langGroup.turkish                  "Турецький">
-<!ENTITY  font.langGroup.unicode1                 "Юнікод">
-<!ENTITY  font.langGroup.user-def                 "Визначена користувачем">
+<!ENTITY  font.langGroup.other                    "Other Writing Systems">
 <!ENTITY  font.langGroup.thai                     "Тайський">
 <!ENTITY  font.langGroup.hebrew                   "Іврит">
 <!ENTITY  font.langGroup.arabic                   "Арабський">
@@ -48,7 +46,11 @@
 <!ENTITY  font.langGroup.gurmukhi                 "Гурмуки">
 <!ENTITY  font.langGroup.khmer                    "Кхмерський">
 <!ENTITY  font.langGroup.malayalam                "Малайялам">
-
+<!ENTITY  font.langGroup.oriya                    "Oriya">
+<!ENTITY  font.langGroup.telugu                   "Telugu">
+<!ENTITY  font.langGroup.kannada                  "Kannada">
+<!ENTITY  font.langGroup.sinhala                  "Sinhala">
+<!ENTITY  font.langGroup.tibetan                  "Tibetan">
 <!-- Minimum font size -->
 <!ENTITY minSize.label                            "Найменший розмір шрифту:">
 <!ENTITY minSize.accesskey                        "Н">
@@ -68,10 +70,10 @@
 <!-- Language settings -->
 <!ENTITY sendDefaultCharset.label         "Вихідна пошта:">
 <!ENTITY sendDefaultCharset.accesskey     "и">
-<!ENTITY languagesTitle1.label            "Набори символів">
-<!ENTITY composingDescription.label       "Виберіть стандартні кодування листів для відісланої та отриманої пошти">
+<!ENTITY languagesTitle2.label            "Набори символів">
+<!ENTITY composingDescription2.label      "Виберіть стандартні кодування листів для відісланої та отриманої пошти">
 
 <!ENTITY viewDefaultCharsetList.label     "Вхідна пошта:">
 <!ENTITY viewDefaultCharsetList.accesskey  "і">
-<!ENTITY replyInDefaultCharset2.label     "Вживати стандартне кодування символів у відповідях на листи, коли це можливо">
-<!ENTITY replyInDefaultCharset2.accesskey "с">
+<!ENTITY replyInDefaultCharset3.label     "Вживати стандартне кодування символів у відповідях на листи, коли це можливо">
+<!ENTITY replyInDefaultCharset3.accesskey "с">

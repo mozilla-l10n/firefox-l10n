@@ -10,6 +10,10 @@
 <!ENTITY useDefault.label                 "Відновити">
 <!ENTITY useDefault.accesskey             "н">
 
+<!ENTITY changeDockIconOptions.label      "Change preferences for the app icon">
+<!ENTITY dockOptions.label                "App Icon Options…">
+<!ENTITY dockOptions.accesskey            "n">
+
 <!ENTITY newMessagesArrive.label          "При появі нових листів:">
 <!ENTITY playSound.label                  "Подати звуковий сигнал">
 <!ENTITY playSound1.accesskey              "з">
@@ -17,6 +21,9 @@
 <!ENTITY showAnimatedAlert.accesskey      "с">
 <!ENTITY customizeMailAlert.label         "Налаштувати…">
 <!ENTITY customizeMailAlert.accesskey     "л">
+
+<!ENTITY showTrayIcon.label               "Show a tray icon">
+<!ENTITY showTrayIcon.accesskey           "t">
 
 <!ENTITY play.label                       "Програти">
 <!ENTITY play.accesskey                   "П">
@@ -28,3 +35,5 @@
 <!ENTITY customsound.accesskey            "В">
 <!ENTITY browse.label                     "Огляд…">
 <!ENTITY browse.accesskey                 "О">
+
+<!ENTITY defaultSearchEngine.label        "Default Search Engine">

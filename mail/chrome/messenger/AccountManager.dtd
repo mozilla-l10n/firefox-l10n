@@ -12,6 +12,8 @@
 <!ENTITY addMailAccountButton.accesskey "п">
 <!ENTITY addIMAccountButton.label "Додати чатовий запис…">
 <!ENTITY addIMAccountButton.accesskey "Ч">
+<!ENTITY addFeedAccountButton.label "Add Feed Account…">
+<!ENTITY addFeedAccountButton.accesskey "F">
 <!ENTITY addOtherAccountButton.label "Додати інший запис…">
 <!ENTITY addOtherAccountButton.accesskey "і">
 <!ENTITY setDefaultButton.label "За умовчанням">

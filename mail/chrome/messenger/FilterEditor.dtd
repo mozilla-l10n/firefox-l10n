@@ -23,9 +23,16 @@
 <!ENTITY contextManual.accesskey "р">
 <!ENTITY contextBeforeCls.label "(перед перевіркою чи не спам)">
 <!ENTITY contextAfterCls.label "(по перевірці чи не спам)">
+<!ENTITY contextOutgoing.label "After Sending">
+<!ENTITY contextOutgoing.accesskey "S">
+<!ENTITY contextArchive.label "Archiving">
+<!ENTITY contextArchive.accesskey "A">
 
 <!ENTITY filterActionDesc.label "Виконувати наступні дії:">
 <!ENTITY filterActionDesc.accesskey "и">
+
+<!ENTITY filterActionOrderWarning.label "Note: Filter actions will be run in a different order.">
+<!ENTITY filterActionOrder.label "See execution order">
 
 <!-- New Style Filter Rule Actions -->
 <!ENTITY moveMessage.label "Перемістити повідомлення у">
