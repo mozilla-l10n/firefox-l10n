@@ -14,8 +14,8 @@
 <!ENTITY pref.calendar.alarms.sound.useDefault.accessKey "n">
 <!ENTITY pref.calendar.alarms.sound.browse.label "Parinkti…">
 <!ENTITY pref.calendar.alarms.sound.browse.accessKey "r">
-<!ENTITY pref.calendar.alarms.sound.play.label "Leisti">
-<!ENTITY pref.calendar.alarms.sound.play.accessKey "L">
+
+
 <!ENTITY pref.showalarmbox "Parodyti priminimo dialogą">
 <!ENTITY pref.calendar.alarms.showAlarmBox.accessKey "P">
 <!ENTITY pref.missedalarms "Rodyti praleistus priminimus">
