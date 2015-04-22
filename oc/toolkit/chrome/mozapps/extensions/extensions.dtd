@@ -4,6 +4,7 @@
 <!ENTITY addons.windowTitle                   "Gestionari de moduls complementaris">
 
 <!ENTITY search.placeholder                   "Recercar dins totes los moduls">
+<!ENTITY search.buttonlabel                   "Recercar">
 <!-- LOCALIZATION NOTE (search.commandKey):
      The search command key should match findOnCmd.commandkey from browser.dtd -->
 <!ENTITY search.commandkey                    "f">
@@ -228,3 +229,5 @@ certans dels melhors moduls complementaris e tanben los mai populars.">
 <!ENTITY experiment.info.learnmore.accesskey "L">
 <!ENTITY experiment.info.changetelemetry "Paramètres de Telemetria">
 <!ENTITY experiment.info.changetelemetry.accesskey "T">
+
+<!ENTITY setting.learnmore "Ne saber mai…">

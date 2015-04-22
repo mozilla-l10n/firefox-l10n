@@ -35,9 +35,9 @@ This is likely the same like id.heading in crashes.dtd. -->
 <!ENTITY aboutSupport.appBasicsTitle "Application Basics">
 <!ENTITY aboutSupport.appBasicsName "Nome">
 <!ENTITY aboutSupport.appBasicsVersion "Version">
-<!-- LOCALIZATION NOTE (aboutSupport.appBasicsUpdateHistory, aboutSupport.appBasicsShowUpdateHistory):
-"Update" is a noun here, not a verb. -->
 
+<!-- LOCALIZATION NOTE (aboutSupport.appBasicsUpdateChannel, aboutSupport.appBasicsUpdateHistory, aboutSupport.appBasicsShowUpdateHistory):
+"Update" is a noun here, not a verb. -->
 <!ENTITY aboutSupport.appBasicsUpdateHistory "Istoric de las mesas a jorn">
 <!ENTITY aboutSupport.appBasicsShowUpdateHistory "Afichar l'istoric de las mesas a jorn">
 
@@ -89,4 +89,6 @@ variant of aboutSupport.showDir.label. -->
 
 <!ENTITY aboutSupport.copyTextToClipboard.label "Copiar lo tèxte dins lo quichapapièrs">
 <!ENTITY aboutSupport.copyRawDataToClipboard.label "Copiar las informacions brutas dins lo quichapapièrs">
+
+
 

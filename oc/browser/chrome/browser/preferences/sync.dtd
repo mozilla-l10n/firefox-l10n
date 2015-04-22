@@ -26,6 +26,8 @@
 <!ENTITY syncMy.label               "Sincronizar">
 <!ENTITY engine.bookmarks.label     "los marcapaginas">
 <!ENTITY engine.bookmarks.accesskey "m">
+
+
 <!ENTITY engine.tabs.label          "los onglets">
 <!ENTITY engine.tabs.accesskey      "o">
 <!ENTITY engine.history.label       "l'istoric">
