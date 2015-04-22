@@ -4,12 +4,12 @@
 <!-- These strings are used in the about:newtab page -->
 
 <!ENTITY newtab.pageTitle "പുതിയ റ്റാബ്">
-
-
-
-
-
-
+<!ENTITY newtab.customize.title "നിങ്ങളുടെ പുതിയ ടാബ് താള്‍ യഥേഷ്ടമാക്കുക">
+<!ENTITY newtab.customize.enhanced "മെച്ചപ്പെടുത്തിയതു്">
+<!ENTITY newtab.customize.classic "ക്ലാസ്സിക്">
+<!ENTITY newtab.customize.blank "ശൂന്യം">
+<!ENTITY newtab.customize.what "എന്താണു് ഈ താള്‍? ">
+<!ENTITY newtab.intro.header "എന്താണു് ഈ താള്‍?">
 <!ENTITY newtab.undo.removedLabel "പ്രതിരൂപം നീക്കം ചെയ്തിരിയ്ക്കുന്നു.">
 <!ENTITY newtab.undo.undoButton "വേണ്ട.">
 <!ENTITY newtab.undo.restoreButton "എല്ലാം വീണ്ടെടുക്കുക.">

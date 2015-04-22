@@ -6,7 +6,8 @@
 <!ENTITY  window.width                    "38em">
 <!ENTITY  window.macWidth                 "41em">
 
-
+<!ENTITY  overridePageColors.label        "തെരഞ്ഞെടുത്ത നിറങ്ങളുപയോഗിച്ചു് ഈ താളിലുള്ള നിറങ്ങള്‍ മാറ്റുക:">
+<!ENTITY  overridePageColors.accesskey    "ക">
 
 <!ENTITY  overridePageColors.always.label "എപ്പോഴും">
 

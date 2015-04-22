@@ -6,20 +6,22 @@
 
 <!ENTITY dntTrackingNotOkay.label2      "നിരീക്ഷണത്തിന്റെ ആവശ്യമില്ലെന്നു് വെബ് സൈറ്റുകളെ അറിയിയ്ക്കുക">
 <!ENTITY dntTrackingNotOkay.accesskey   "n">
-
-
-
+<!ENTITY trackingProtection.label       "സൈറ്റുകള്‍ എന്നെ നിരീക്ഷിയ്ക്കരുതു്">
+<!ENTITY trackingProtection.accesskey   "എ">
+<!ENTITY trackingProtectionLearnMore.label "കൂടുതല്‍ അറിയുക">
 <!ENTITY doNotTrackInfo.label           "കൂടുതല്‍ അറിയുക">
 
+<!ENTITY  history.label                 "നാള്‍വഴി">
 
 <!ENTITY  locationBar.label             "സ്ഥാന തട്ട്">
 
-
-
-
-
-
-
+<!ENTITY  locbar.suggest.label          "സ്ഥാന പട്ട ഉപയോഗിക്കുമ്പോള്‍, നിര്‍ദ്ദേശിക്കേണ്ടവ:">
+<!ENTITY  locbar.history.label          "നാള്‍വഴി">
+<!ENTITY  locbar.history.accesskey      "വ">
+<!ENTITY  locbar.bookmarks.label        "അടയാളക്കുറിപ്പുകള്‍">
+<!ENTITY  locbar.bookmarks.accesskey    "അ">
+<!ENTITY  locbar.openpage.label         "ടാബുകള്‍ തുറക്കുക">
+<!ENTITY  locbar.openpage.accesskey     "റ">
 
 <!ENTITY  acceptCookies.label           "സൈറ്റുകളില്‍ നിന്നും കുക്കികള്‍ അംഗീകരിക്കുക ">
 <!ENTITY  acceptCookies.accesskey       "A">
@@ -30,7 +32,8 @@
 <!ENTITY  acceptThirdParty.never.label    "ഒരിക്കലും ഇല്ല">
 <!ENTITY  acceptThirdParty.visited.label  "സന്ദര്‍ശനം മുതല്‍">
 
-
+<!ENTITY  keepUntil.label               "എപ്പോള്‍ വരെ വയ്ക്കണം:">
+<!ENTITY  keepUntil.accesskey           "വ">
 
 <!ENTITY  expire.label                  "അവയുടെ കാലാവധി കഴിയും വരെ">
 <!ENTITY  close.label                   "&brandShortName; അടയ്ക്കുന്നു ">

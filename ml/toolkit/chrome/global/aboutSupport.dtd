@@ -35,9 +35,11 @@ This is likely the same like id.heading in crashes.dtd. -->
 <!ENTITY aboutSupport.appBasicsTitle "പ്രയോഗത്തിന്റെ അടിസ്ഥാന വിശേഷതകള്‍">
 <!ENTITY aboutSupport.appBasicsName "പേരു്">
 <!ENTITY aboutSupport.appBasicsVersion "പതിപ്പു്">
-
+<!ENTITY aboutSupport.appBasicsBuildID "ബില്‍ഡ് ഐഡി">
 <!-- LOCALIZATION NOTE (aboutSupport.appBasicsUpdateChannel, aboutSupport.appBasicsUpdateHistory, aboutSupport.appBasicsShowUpdateHistory):
 "Update" is a noun here, not a verb. -->
+
+<!ENTITY aboutSupport.appBasicsUpdateChannel "ചാനല്‍ പുതുക്കുക">
 <!ENTITY aboutSupport.appBasicsUpdateHistory "നാള്‍വഴി പുതുക്കുക">
 <!ENTITY aboutSupport.appBasicsShowUpdateHistory "പരിഷ്കരണ നാള്‍വഴി കാണിക്കുക ">
 
@@ -92,5 +94,7 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.copyTextToClipboard.label "ക്ലിപ്പ്ബോര്‍ഡിലേക്കു് വാചകം പകര്‍ത്തുക">
 <!ENTITY aboutSupport.copyRawDataToClipboard.label "ക്ലിപ്പ്ബോര്‍ഡിലേക്കു് ഡേറ്റാ പകര്‍ത്തുക">
 
+<!ENTITY aboutSupport.sandboxTitle "പരീക്ഷണശാല">
 
-
+<!ENTITY aboutSupport.safeModeTitle "സുരക്ഷിത രീതി ഉപയോഗിക്കുക">
+<!ENTITY aboutSupport.restartInSafeMode.label "ആഡ്-ഓണുകള്‍ പ്രവര്‍ത്തന രഹിതമാക്കി വീണ്ടും ആരംഭിയ്ക്കുക...">
