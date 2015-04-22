@@ -36,7 +36,7 @@
 <!-- LOCALIZATION NOTE (openURL.label): You can see this string in the Web
    - Console context menu. -->
 
-<!ENTITY openURL.label     "नए टैब में यूआरएल खोलें (T)">
+<!ENTITY openURL.label     "नए टैब में यूआरएल खोलें">
 <!ENTITY openURL.accesskey "T">
 <!-- LOCALIZATION NOTE (btnPageNet.label): This string is used for the menu
   -  button that allows users to toggle the network logging output.
@@ -77,7 +77,7 @@
 <!ENTITY btnConsoleReflows      "पुनर्बहाव">
 
 <!ENTITY filterOutput.placeholder "फ़िल्टर आउटपुट">
-<!ENTITY btnClear.label        "साफ़ करें (r)">
+<!ENTITY btnClear.label        "साफ़ करें">
 <!ENTITY btnClear.tooltip      "वेब कंसोल आउटपुट को साफ़ करें">
 <!ENTITY btnClear.accesskey    "r">
 
