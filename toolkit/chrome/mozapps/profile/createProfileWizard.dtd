@@ -19,7 +19,7 @@
 <!ENTITY profilePrompt.accesskey        "E">
 <!ENTITY profileDirectoryExplanation.text   "आपकी उपयोक्ता सेटिंग, वरीयता और दूसरी उपयोक्ता संंबंधित आंकड़ा को जमा किया जाएगा:">
 <!ENTITY profileDefaultName             "तयशुदा उपयोक्ता">
-<!ENTITY button.choosefolder.label      "सेल चुनें...">
+<!ENTITY button.choosefolder.label      "सेल चुनें…">
 <!ENTITY button.choosefolder.accesskey  "C">
-<!ENTITY button.usedefault.label        "तयशुदा कोष्ठ का उपयोग करें ">
+<!ENTITY button.usedefault.label        "तयशुदा कोष्ठ का उपयोग करें">
 <!ENTITY button.usedefault.accesskey    "U">

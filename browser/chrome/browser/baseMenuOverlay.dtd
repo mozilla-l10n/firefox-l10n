@@ -12,8 +12,8 @@
 <!ENTITY helpMenu.accesskey       "स"> 
 <!-- LOCALIZATION NOTE some localizations of Windows (ex:french, german) use "?"
                        for the help button in the menubar but Gnome does not.   -->
-<!ENTITY helpMenuWin.label        "सहायता"> 
-<!ENTITY helpMenuWin.accesskey    "स">
+<!ENTITY helpMenuWin.label        "मदद"> 
+<!ENTITY helpMenuWin.accesskey    "म">
 <!ENTITY aboutProduct2.label      "About &brandShorterName;">
 <!ENTITY aboutProduct2.accesskey  "A">
 <!ENTITY productHelp2.label       "&brandShorterName; Help">
