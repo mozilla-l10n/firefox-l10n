@@ -4,31 +4,31 @@
 
 <!ENTITY startup.label             "आरंभन">
 
-<!ENTITY startupPage.label         "जब &brandShortName; आरंभ होता है:">
+<!ENTITY startupPage.label         "जब &brandShortName; आरंभ होता है: (s)">
 <!ENTITY startupPage.accesskey     "s">
 <!ENTITY startupHomePage.label     "मेरा होम पेज दिखाएँ">
 <!ENTITY startupBlankPage.label    "खाली पृष्ठ दिखाएँ">
 <!ENTITY startupLastSession.label  "पिछले समय से मेरा विंडो और टैब दिखाएँ ">
 
-<!ENTITY homepage.label            "मुख्य पृष्ठ:">
+<!ENTITY homepage.label            "मुख्य पृष्ठ: (P)">
 <!ENTITY homepage.accesskey        "P">
-<!ENTITY useCurrentPage.label      "मौजूदा पृष्ठ का उपयोग करें">
+<!ENTITY useCurrentPage.label      "मौजूदा पृष्ठ का उपयोग करें (C)">
 <!ENTITY useCurrentPage.accesskey  "C">
 <!ENTITY useMultiple.label         "मौजूदा पृष्ठों का उपयोग करें">
-<!ENTITY chooseBookmark.label      "पुस्तचिह्न का उपयोग करें…">
+<!ENTITY chooseBookmark.label      "पुस्तचिह्न का उपयोग करें… (B)">
 <!ENTITY chooseBookmark.accesskey  "B">
-<!ENTITY restoreDefault.label      "डिफ़ॉल्ट पुनर्स्थापित करें">
+<!ENTITY restoreDefault.label      "डिफ़ॉल्ट पुनर्स्थापित करें (R)">
 <!ENTITY restoreDefault.accesskey  "R">
 
 <!ENTITY downloads.label     "डाउनलोड">
 
-<!ENTITY saveTo.label "यहाँ फ़ाइल सहेजें">
+<!ENTITY saveTo.label "यहाँ फ़ाइल सहेजें (v)">
 <!ENTITY saveTo.accesskey "v">
-<!ENTITY chooseFolderWin.label        "ब्राउज करें…">
+<!ENTITY chooseFolderWin.label        "ब्राउज करें… (o)">
 <!ENTITY chooseFolderWin.accesskey    "o">
-<!ENTITY chooseFolderMac.label        "चुनें…">
+<!ENTITY chooseFolderMac.label        "चुनें… (e)">
 <!ENTITY chooseFolderMac.accesskey    "e">
-<!ENTITY alwaysAsk.label "हमेशा मुझसे पूछें कि फ़ाइल कहाँ सहेजनी है">
+<!ENTITY alwaysAsk.label "हमेशा मुझसे पूछें कि फ़ाइल कहाँ सहेजनी है (A)">
 <!ENTITY alwaysAsk.accesskey "A">
 
 <!ENTITY alwaysCheckDefault2.label        "जाँचें कि &brandShortName; आपका तयशुदा ब्राउज़र है">

@@ -15,5 +15,5 @@
 <!ENTITY aboutPrivateBrowsing.moreInfo         "हालंकि इस कंप्यूटर के पास अापके ब्राउज़िंग इतिहास का रिकॉर्ड नहीं होगा, पर आपके इंटरनेट सेवा प्रदाता या आपके नियोक्ता अभी भी उन पृष्ठों जिन पर आप जातें है को ट्रैक कर सकते हैं">
 <!ENTITY aboutPrivateBrowsing.learnMore        "अधिक जानें">
 
-<!ENTITY privatebrowsingpage.openPrivateWindow.label "निजी विंडो खोलें">
+<!ENTITY privatebrowsingpage.openPrivateWindow.label "निजी विंडो खोलें (P)">
 <!ENTITY privatebrowsingpage.openPrivateWindow.accesskey "P">
