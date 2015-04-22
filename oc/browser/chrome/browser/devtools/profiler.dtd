@@ -14,7 +14,7 @@
 
 
 <!ENTITY profilerUI.emptyNotice1    "Clicatz sul boton">
-
+<!ENTITY profilerUI.emptyNotice2    "per començar a enregistrar los apèls de foncion JavaScript.">
 <!-- LOCALIZATION NOTE (profilerUI.stopNotice1/2): This is the label shown
   -  in the call list view while recording a profile. -->
 
@@ -49,7 +49,9 @@
 <!-- LOCALIZATION NOTE (profilerUI.table.*): These strings are displayed
   -  in the call tree headers for a recording. -->
 
-
+<!ENTITY profilerUI.table.totalDuration2  "Temps total">
+<!ENTITY profilerUI.table.selfDuration2   "Temps pròpri">
+<!ENTITY profilerUI.table.totalPercentage "Còst total">
 
 <!ENTITY profilerUI.table.samples         "Exemples">
 
@@ -82,6 +84,8 @@
 <!-- LOCALIZATION NOTE (profilerUI.enableMemory): This string
   -  is displayed next to a checkbox determining whether or not memory
   -  measurements are enabled. -->
+
+<!ENTITY profilerUI.enableMemory             "Enregistrar la memòria">
 
 <!-- LOCALIZATION NOTE (profilerUI.enableFramerate): This string
   -  is displayed next to a checkbox determining whether or not framerate

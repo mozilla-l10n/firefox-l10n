@@ -23,6 +23,6 @@
 
 <!ENTITY button.cancel.label          "Anullar">
 <!ENTITY button.cancel.accesskey      "A">
-
-
+<!ENTITY button.ok.label              "Enregistrar las modificacions">
+<!ENTITY button.ok.accesskey          "E">
 

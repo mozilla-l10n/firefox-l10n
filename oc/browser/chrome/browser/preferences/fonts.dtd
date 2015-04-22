@@ -31,7 +31,7 @@
 <!ENTITY  font.langGroup.korean                   "Corean">
 <!ENTITY  font.langGroup.cyrillic                 "Cirillic">
 <!ENTITY  font.langGroup.el                       "Grèc">
-
+<!ENTITY  font.langGroup.other                    "Autres sistèmas d'escritura">
 <!ENTITY  font.langGroup.thai                     "Tai">
 <!ENTITY  font.langGroup.hebrew                   "Ebrieu">
 <!ENTITY  font.langGroup.arabic                   "Arabi">
