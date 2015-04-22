@@ -42,7 +42,7 @@
 <!ENTITY url_bar_default_text2 "ស្វែងរក ឬ​បញ្ចូល​អាសយដ្ឋាន">
 
 <!ENTITY bookmark "ចំណាំ">
-
+<!ENTITY bookmark_remove "លុប​ចំណាំ​ចេញ">
 <!ENTITY bookmark_added "បាន​បន្ថែម​ចំណាំ">
 <!ENTITY bookmark_removed "បាន​យក​ចំណាំ​ចេញ">
 <!ENTITY bookmark_updated "បាន​ធ្វើ​បច្ចុប្បន្នភាព​ចំណាំ">
@@ -80,7 +80,7 @@
 <!ENTITY pref_category_advanced "កម្រិត​ខ្ពស់">
 <!ENTITY pref_category_customize "ប្ដូរ​តាម​តម្រូវ​ការ">
 <!ENTITY pref_category_customize_summary "ដើម ស្វែងរក ផ្ទាំង នាំចូល">
-
+<!ENTITY pref_category_customize_alt_summary "ដើម, ស្វែងរក, ថេប, បើក​បន្ទាប់, នាំចូល">
 <!-- Localization note (pref_category_language) : This is the preferences
      section in which the user picks the locale in which to display Firefox
      UI. The locale includes both language and region concepts. -->
@@ -119,12 +119,14 @@
 <!-- Localization note (overlay_no_synced_devices) : Used when the menu option
      to send a tab to a synced device is pressed and no other synced devices
      are found. -->
+<!ENTITY overlay_no_synced_devices "រក​មិន​ឃើញ​ឧបករណ៍​ដែល​បាន​ភ្ជាប់​សម្រាប់​គណនី Firefox">
 <!-- Localization note (overlay_share_tab_not_sent) : Used when the menu option
      to send a tab to a synced device is pressed and there is an error
      connecting to the server so the tab could not be sent. The text should be
      divided into two lines (use the newline escape character, "\n", between
      them): the first notifying the user about the failure and the second
      telling the user what to do about it. -->
+<!ENTITY overlay_share_tab_not_sent "ផ្ទាំង​របស់​អ្នក​មិន​អាច​ត្រូវ​បាន​ផ្ញើ។\n​សូមព្យាយាម​ម្ដងទៀត​ពេលក្រោយ។">
 
 <!ENTITY pref_category_search3 "ស្វែងរក">
 <!ENTITY pref_category_search_summary "ប្ដូរ​ក្រុមហ៊ុន​ផ្ដល់​របស់​អ្នក​តាម​តម្រូវ​ការ">
@@ -151,9 +153,9 @@
 <!ENTITY pref_category_devtools_summary "ការ​កែ​កំហុស​ពី​ចម្ងាយ ពន្លឺ​គំនូរ">
 <!ENTITY pref_developer_paint_flashing "ពន្លឺ​គំនូរ">
 <!ENTITY pref_developer_remotedebugging "ការ​បំបាត់​កំហុស​ពី​ចម្ងាយ">
-
+<!ENTITY pref_category_logins "ចូល">
 <!ENTITY pref_remember_signons "ចងចាំ​ពាក្យសម្ងាត់">
-
+<!ENTITY pref_manage_logins "គ្រប់គ្រង​ការ​ចូល">
 
 <!ENTITY pref_category_home "ដើម">
 <!ENTITY pref_category_home_summary "ប្ដូរ​គេហទំព័រ​​របស់​អ្នក​តាម​តម្រូវ​ការ">
