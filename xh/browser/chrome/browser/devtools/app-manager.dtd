@@ -38,7 +38,7 @@
 <!ENTITY device.browserTabsTooltip "Bona uluhlu lwethubhu kwibhrawza yesixhobo esinxibeleleneyo">
 
 <!ENTITY device.debugBrowserTabTooltip "Vula iziXhobo zoMvelisi onxibelelene kule thebhu yebhrawza kwisixhobo">
-
+<!ENTITY device.help "Uncedo">
 
 <!ENTITY connection.connectTooltip "Nxibelelana kwisixhobo">
 <!ENTITY connection.disconnect "Khupha kunxibelelo">
@@ -66,12 +66,12 @@
 <!ENTITY connection.startRegisteredSimulator "Qala:">
 
 <!ENTITY projects.localApps "Ii-Apps zoMmandla">
-
+<!ENTITY projects.addApp "Yongeza">
 <!ENTITY projects.addPackaged "Dibanisa i-App ePakishiweyo">
 <!ENTITY projects.addPackagedTooltip "Dibanisa i-app epakishiweyo entsha (uluhlu) kwikhompyutha yakho">
 <!ENTITY projects.addHosted "Dibanisa i-App eHlinzekiweyo">
 <!ENTITY projects.addHostedTooltip "Dibanisa i-app entsha ehlinzekiweyo (nxibelelana kwifayile ye-manifest.webapp)">
-
+<!ENTITY projects.title "Ii-Apps zoMmandla">
 <!ENTITY projects.appDetails "Iingcombolo ze-App">
 <!ENTITY projects.removeAppFromList "Susa le app kuluhlu lwee-apps osebenza kuzo. Oku akuzuyisusa kwisixhobo okanye kwisixhobo esakhelwe ukulinganisa.">
 <!ENTITY projects.updateApp "Hlaziya">
@@ -92,6 +92,7 @@
 <!ENTITY projects.hosted "Ihlinzekiwe">
 <!ENTITY projects.packaged "Ipakishiwe">
 
+<!ENTITY help.title "Umphathi We-App">
 <!ENTITY help.close "Vala">
 <!ENTITY help.intro "Esi sixhobo siza kunceda wakhe ze ufakele ii-apps zewebhu lwizixhobo ezidibanayo (umz. Firefox OS). I <strong>Apps</strong> thebhu iza kukunceda kwinkqubo yokuqinisekiseni nokufakela i-app yakho. I <strong>Device</strong> thebhu iza kunika inkcazelo emalunga nesixhobo esinxibeleleneyo. Sebenzisa ithulbha engezantsi ukunxibelelanisa isixhobo okanye uqale isixhobo esakhelwe ukulinganisa.">
 <!ENTITY help.usefullLinks "Amakhonkco aluncedo:">
