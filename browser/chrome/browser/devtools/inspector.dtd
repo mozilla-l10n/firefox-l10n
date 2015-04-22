@@ -20,6 +20,8 @@
 <!ENTITY inspectorHTMLPasteFirstChild.accesskey "C">
 <!ENTITY inspectorHTMLPasteLastChild.label "Como último hijo">
 <!ENTITY inspectorHTMLPasteLastChild.accesskey "m">
+<!ENTITY inspectorScrollNodeIntoView.label "Desplazar y hacer visible">
+<!ENTITY inspectorScrollNodeIntoView.accesskey "v">
 <!ENTITY inspectorHTMLDelete.label "Eliminar nodo">
 <!ENTITY inspectorHTMLDelete.accesskey "D">
 <!ENTITY inspector.selectButton.tooltip "Seleccionar un elemento con el ratón">
