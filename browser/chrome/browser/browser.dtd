@@ -564,7 +564,7 @@ items are mutually exclusive. -->
 <!ENTITY mediaShowControls.accesskey "C">
 <!ENTITY mediaHideControls.label     "మీటలు దాచు">
 <!ENTITY mediaHideControls.accesskey "C">
-<!ENTITY videoFullScreen.label       "పూర్తి తెర">
+<!ENTITY videoFullScreen.label       "నిండుతెర (F)">
 <!ENTITY videoFullScreen.accesskey   "F">
 <!ENTITY videoSaveImage.label        "స్నాప్‌షాట్ యిలా దాయి…">
 <!ENTITY videoSaveImage.accesskey    "S">
