@@ -74,7 +74,6 @@
 <!ENTITY overlay_share_send_other "Invia a altri dispositivi">
 <!ENTITY overlay_share_send_tab_btn_label "Invia a un altro dispositivo">
 <!ENTITY overlay_share_no_url "Nessun link disponibile in questa condivisione">
-<!ENTITY overlay_share_retry "Riprova">
 <!ENTITY overlay_share_select_device "Seleziona dispositivo">
 <!ENTITY overlay_no_synced_devices "Non è disponibile alcun dispositivo connesso a Firefox Account">
 <!ENTITY overlay_share_tab_not_sent "Impossibile inviare la scheda.\nRiprovare più tardi.">
