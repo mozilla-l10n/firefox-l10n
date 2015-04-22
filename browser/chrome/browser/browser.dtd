@@ -613,7 +613,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY goForwardCmd.commandKey "]">
 <!ENTITY quitApplicationCmd.label       "Salir"> 
 <!ENTITY quitApplicationCmd.accesskey   "S">
-<!ENTITY quitApplicationCmdMac2.label   "Salir de &brandShortName;">
+<!ENTITY quitApplicationCmdMac2.label   "Salir de &brandShorterName;">
 <!-- LOCALIZATION NOTE(quitApplicationCmdUnix.key): This keyboard shortcut is used by both Linux and OSX builds. -->
 <!ENTITY quitApplicationCmdUnix.key     "Q">
 
