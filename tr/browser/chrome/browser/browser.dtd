@@ -488,7 +488,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY savePageCmd.label            "Sayfayı farklı kaydet…">
 <!ENTITY savePageCmd.accesskey        "f">
 <!-- alternate for content area context menu -->
-<!ENTITY savePageCmd.accesskey2       "P">
+<!ENTITY savePageCmd.accesskey2       "f">
 <!ENTITY savePageCmd.commandkey       "s">
 <!ENTITY saveFrameCmd.label           "Çerçeveyi farklı kaydet…">
 <!ENTITY saveFrameCmd.accesskey       "f">
