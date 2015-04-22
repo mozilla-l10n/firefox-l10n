@@ -33,7 +33,7 @@
 <!ENTITY openFileCmd.accesskey        "O">
 <!ENTITY openFileCmd.commandkey       "o">
 
-<!ENTITY openRecentMenu.label         "हालिया खोलें">
+<!ENTITY openRecentMenu.label         "हालिया खोलें ">
 <!ENTITY openRecentMenu.accesskey     "R">
 
 <!ENTITY revertCmd.label              "उलटें…">

@@ -25,7 +25,7 @@
 
 <!ENTITY languages.label              "भाषाएँ">
 <!ENTITY chooseLanguage.label         "पृष्ठ प्रदर्शन के लिए अपनी पसंदीदा भाषा का चयन करें">
-<!ENTITY chooseButton.label           "चयन करें...">
+<!ENTITY chooseButton.label           "चयन करें…">
 <!ENTITY chooseButton.accesskey       "o">
 
 <!ENTITY translateWebPages.label      "वेब पृष्ठ का अनुवाद करें">
