@@ -86,5 +86,5 @@
 <!ENTITY accountSettingsDesc.label "Seuraava tili on erikoistapaus. Siihen ei liity käyttäjätietoja.">
 <!ENTITY storeType.label "Viestisäilötyyppi:">
 <!ENTITY storeType.accesskey "T">
-<!ENTITY mboxStore.label "Yksi iso tiedosto (mbox)">
+<!ENTITY mboxStore.label "Yksi suuri tiedosto (mbox)">
 <!ENTITY maildirStore.label "Tiedosto per viesti (maildir)">

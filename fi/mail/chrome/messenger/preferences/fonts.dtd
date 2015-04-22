@@ -8,8 +8,8 @@
 <!ENTITY  language.accesskey                       "M">
 
 <!ENTITY  size.label                              "Koko:">
-<!ENTITY  proportionalSize.accesskey              "K">
-<!ENTITY  sizeMono.accesskey                      "o">
+<!ENTITY  sizeProportional.accesskey              "K">
+<!ENTITY  sizeMonospace.accesskey                 "o">
 
 <!ENTITY  proportional.label                       "Suhteellinen:">
 <!ENTITY  proportional.accesskey                   "S">
@@ -21,19 +21,17 @@
 <!ENTITY  monospace.label                          "Tasavälinen:">
 <!ENTITY  monospace.accesskey                      "T">
 
-<!ENTITY  font.langGroup.latin1                    "Länsimainen">
-<!ENTITY  font.langGroup.latin2                    "Keskieurooppalainen">
+<!-- LOCALIZATION NOTE (font.langGroup.latin) :
+     Translate "Latin" as the name of Latin (Roman) script, not as the name of the Latin language. -->
+<!ENTITY  font.langGroup.latin                    "Latinalainen">
 <!ENTITY  font.langGroup.japanese                  "Japanilainen">
 <!ENTITY  font.langGroup.trad-chinese              "Perinteinen kiinalainen (Taiwan)">
 <!ENTITY  font.langGroup.simpl-chinese             "Yksinkertaistettu kiinalainen">
 <!ENTITY  font.langGroup.trad-chinese-hk           "Perinteinen kiinalainen (Hongkong)">
 <!ENTITY  font.langGroup.korean                    "Korealainen">
 <!ENTITY  font.langGroup.cyrillic                  "Kyrillinen">
-<!ENTITY  font.langGroup.baltic                    "Balttilainen">
 <!ENTITY  font.langGroup.el                        "Kreikkalainen">
-<!ENTITY  font.langGroup.turkish                   "Turkkilainen">
-<!ENTITY  font.langGroup.unicode1                  "Unicode">
-<!ENTITY  font.langGroup.user-def                  "Käyttäjän määrittelemä">
+<!ENTITY  font.langGroup.other                    "Muu kirjoitusjärjestelmä">
 <!ENTITY  font.langGroup.thai                      "Thaimaalainen">
 <!ENTITY  font.langGroup.hebrew                    "Heprealainen">
 <!ENTITY  font.langGroup.arabic                    "Arabialainen">
@@ -48,7 +46,11 @@
 <!ENTITY  font.langGroup.gurmukhi                  "Gurmukhi">
 <!ENTITY  font.langGroup.khmer                     "Khmer">
 <!ENTITY  font.langGroup.malayalam                 "Malaiji">
-
+<!ENTITY  font.langGroup.oriya                    "Orijalainen">
+<!ENTITY  font.langGroup.telugu                   "Telugulainen">
+<!ENTITY  font.langGroup.kannada                  "Kannadalainen">
+<!ENTITY  font.langGroup.sinhala                  "Singalilainen">
+<!ENTITY  font.langGroup.tibetan                  "Tiibettiläinen">
 <!-- Minimum font size -->
 <!ENTITY minSize.label                             "Pienin kirjasinkoko:">
 <!ENTITY minSize.accesskey                         "e">
@@ -61,7 +63,7 @@
 <!-- fonts in message -->
 <!ENTITY  fontControl.label                       "Kirjasinten hallinta">
 <!ENTITY  useFixedWidthForPlainText.label         "Käytä tasalevyistä kirjasinta pelkkä teksti viesteille">
-<!ENTITY  fixedWidth.accesskey                    "x">
+<!ENTITY  fixedWidth.accesskey                    "y">
 <!ENTITY  useDocumentFonts.label                   "Sivut saavat käyttää omia kirjasinlajejaan oletusten sijaan">
 <!ENTITY  useDocumentFonts.accesskey               "i">
 
