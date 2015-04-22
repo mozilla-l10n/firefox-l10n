@@ -145,8 +145,8 @@
 <!ENTITY messagePaneVertical.accesskey "V">
 <!ENTITY showFolderPaneCmd.label "Aplankų sąrašas">
 <!ENTITY showFolderPaneCmd.accesskey "A">
-
-
+<!ENTITY showFolderPaneColsCmd.label "Aplankų sąrašo stulpeliai">
+<!ENTITY showFolderPaneColsCmd.accesskey "s">
 <!ENTITY showMessageCmd.label "Laiško teksto polangis">
 <!ENTITY showMessageCmd.accesskey "L">
 
@@ -193,7 +193,7 @@
 <!ENTITY sortByRecipientCmd.label "Gavėjas">
 <!ENTITY sortByRecipientCmd.accesskey "ė">
 <!ENTITY sortByUnreadCmd.label "Skaitytas">
-<!ENTITY sortByUnreadCmd.accesskey "k">
+<!ENTITY sortByUnreadCmd.accesskey "S">
 <!ENTITY sortByOrderReceivedCmd.label "Gavimo eilė">
 <!ENTITY sortByOrderReceivedCmd.accesskey "v">
 <!ENTITY sortAscending.label "Didėjančiai">
@@ -596,8 +596,8 @@
 <!-- Folder Pane -->
 
 <!ENTITY folderNameColumn.label "Vardas">
-
-
+<!ENTITY folderUnreadColumn.label "Neskaitytas">
+<!ENTITY folderTotalColumn.label "Iš viso">
 <!ENTITY folderSizeColumn.label "Dydis">
 <!-- Folder Pane Context Menu -->
 
@@ -666,8 +666,8 @@
 <!ENTITY statusColumn.label "Būsena">
 <!ENTITY sizeColumn.label "Dydis">
 <!ENTITY junkStatusColumn.label "Brukalo statusas">
-
-
+<!ENTITY unreadColumn.label "Neskaitytas">
+<!ENTITY totalColumn.label "Iš viso">
 <!ENTITY readColumn.label "Skaitytas">
 <!ENTITY receivedColumn.label "Gauta">
 <!ENTITY starredColumn.label "Žvaigždutė">

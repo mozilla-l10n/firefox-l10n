@@ -3,8 +3,8 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY addressbookWindow.title                        "Adresų knyga">
-
-
+<!ENTITY blankResultsPaneMessage.label                  "Adresatai iš šios adresų knygos rodomi tik po paieškos">
+<!ENTITY localResultsOnlyMessage.label                  "Adresatai iš nutolusių adresų knygų rodomi tik po paieškos">
 <!-- File Menu -->
 <!ENTITY fileMenu.label                                 "Failas">
 <!ENTITY fileMenu.accesskey                             "F">
@@ -161,6 +161,8 @@ because displayed names don't have the comma in between. -->
 <!ENTITY searchItem.title "Sparčioji paieška">
 <!-- Results Pane -->
 
+<!ENTITY Addrbook.label                                 "Adresų knyga…">
+<!ENTITY Addrbook.accesskey                             "k">
 <!ENTITY GeneratedName.label                            "Asmenvardis">
 <!ENTITY GeneratedName.accesskey                        "v">
 <!ENTITY PrimaryEmail.label                             "El. pašto adresas">
