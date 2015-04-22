@@ -74,7 +74,7 @@
 <!ENTITY swapFirstNameLastNameCmd.accesskey             "U">
 <!-- LOCALIZATION NOTE (hideSwapFnLnUI) : DONT_TRANSLATE -->
 <!-- Swap FN/LN UI  Set to "false" to show swap fn/ln UI -->
-<!ENTITY hideSwapFnLnUI "true">
+<!ENTITY hideSwapFnLnUI "false">
 <!ENTITY propertiesCmd2.label                           "Tulajdonságok…">
 <!ENTITY propertiesCmd2.accesskey                       "T">
 <!ENTITY propertiesCmd.key                              "i">
