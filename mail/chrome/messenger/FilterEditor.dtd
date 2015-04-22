@@ -25,8 +25,8 @@
 <!ENTITY contextAfterCls.label "atrinkus brukalą">
 <!ENTITY contextOutgoing.label "Išsiuntus">
 <!ENTITY contextOutgoing.accesskey "s">
-
-
+<!ENTITY contextArchive.label "Archyvavimas">
+<!ENTITY contextArchive.accesskey "A">
 
 <!ENTITY filterActionDesc.label "atlikti šiuos veiksmus:">
 <!ENTITY filterActionDesc.accesskey "v">
