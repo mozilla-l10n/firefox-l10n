@@ -192,7 +192,7 @@
 <!ENTITY pref_donottrack_title "កុំ​តាមដាន">
 <!ENTITY pref_donottrack_summary "&brandShortName; នឹង​ប្រាប់​តំបន់បណ្ដាញ​ថា​អ្នក​មិន​ចង់​ឲ្យ​តាមដាន​ទេ">
 
-
+<!ENTITY tab_queue_toast_action "បើក​ឥឡូវ​នេះ">
 <!-- Localization note (tab_queue_notification_text_plural) : The
      formatD is replaced with the number of tabs queued.  The
      number of tabs queued is always more than one.  We can't use
@@ -313,7 +313,7 @@ size. -->
 <!ENTITY quit "ចេញ">
 
 <!ENTITY addons "កម្មវិធី​បន្ថែម">
-
+<!ENTITY logins "ចូល">
 <!ENTITY downloads "ទាញ​យក">
 <!ENTITY apps "កម្មវិធី">
 <!ENTITY char_encoding "ការ​អ៊ិនកូដ​តួអក្សរ">
@@ -370,9 +370,11 @@ size. -->
      where normally a username would be displayed. In this case, no username was found, and this placeholder
      contains brackets to indicate this is not actually a username, but rather a placeholder -->
 
+<!ENTITY doorhanger_login_no_username "[គ្មាន​ឈ្មោះ​អ្នក​ប្រើ]">
+<!ENTITY doorhanger_login_edit_title "កែសម្រួល​ការ​ចូល">
 <!ENTITY doorhanger_login_edit_username_hint "ឈ្មោះ​អ្នក​ប្រើ">
-
-
+<!ENTITY doorhanger_login_edit_password_hint "ពាក្យសម្ងាត់">
+<!ENTITY doorhanger_login_edit_toggle "បង្ហាញ​ពាក្យសម្ងាត់">
 
 <!ENTITY pref_titlebar_mode "របារ​ចំណង​ជើង">
 <!ENTITY pref_titlebar_mode_title "បង្ហាញ​ចំណងជើង​ទំព័រ">
@@ -420,7 +422,7 @@ size. -->
 
 <!ENTITY masterpassword_create_title "បង្កើត​ពាក្យសម្ងាត់​មេ">
 <!ENTITY masterpassword_remove_title "យក​ពាក្យ​សម្ងាត់​មេ​ចេញ">
-
+<!ENTITY masterpassword_password "ពាក្យសម្ងាត់">
 <!ENTITY masterpassword_confirm "អះអាង​ពាក្យសម្ងាត់">
 
 <!ENTITY button_ok "យល់ព្រម">
