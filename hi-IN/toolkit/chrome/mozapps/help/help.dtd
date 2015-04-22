@@ -48,10 +48,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY helpSearch.commandkey          "k">
 
-<!ENTITY zLevel.label                   "हमेशा ऊपर (T)">
+<!ENTITY zLevel.label                   "हमेशा ऊपर">
 <!ENTITY zLevel.accesskey               "T">
 
-<!ENTITY fullZoomReduceBtn.label        "छोटा करें (O)">
+<!ENTITY fullZoomReduceBtn.label        "छोटा करें">
 <!ENTITY fullZoomReduceBtn.accesskey    "O">
-<!ENTITY fullZoomEnlargeBtn.label       "बड़ा करें (I)">
+<!ENTITY fullZoomEnlargeBtn.label       "बड़ा करें">
 <!ENTITY fullZoomEnlargeBtn.accesskey   "I">
