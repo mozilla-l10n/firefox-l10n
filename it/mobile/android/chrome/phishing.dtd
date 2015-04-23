@@ -12,3 +12,6 @@
 <!ENTITY safeb.blocked.phishingPage.title2 "Sospetto sito contraffatto">
 <!ENTITY safeb.blocked.phishingPage.shortDesc2 "L’inserimento di informazioni personali in questa pagina può dare origine a furti d’identità o altre frodi.">
 <!ENTITY safeb.blocked.phishingPage.longDesc2 "<p>Questo tipo di contraffazione viene utilizzato in attacchi noti con il nome di “phishing”, in cui siti web o email contraffatti cercano di imitare fonti di cui solitamente ci si fida.</p>">
+<!ENTITY safeb.blocked.unwantedPage.title "Segnalato sito contenente software indesiderato">
+<!ENTITY safeb.blocked.unwantedPage.shortDesc "Il sito web <span id='unwanted_sitename'/> è stato segnalato come sito contenente software indesiderato ed è stato bloccato sulla base delle impostazioni di sicurezza correnti.">
+<!ENTITY safeb.blocked.unwantedPage.longDesc "<p>Questo tipo di siti cerca di installare programmi che possono risultare ingannevoli e avere conseguenze inaspettate sul sistema.</p>">
