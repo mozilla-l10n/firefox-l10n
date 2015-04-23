@@ -112,7 +112,7 @@
 <!ENTITY menuFavoriteFolder.accesskey "У">
 <!ENTITY folderPropsCmd2.label "Властивості…">
 <!ENTITY folderPropsFolderCmd2.label "Властивості теки…">
-<!ENTITY folderPropsNewsgroupCmd.label "Властивості групи новин…">
+<!ENTITY folderPropsNewsgroupCmd2.label "Властивості групи новин…">
 <!ENTITY folderPropsCmd.accesskey "т">
 <!ENTITY undoDeleteMsgCmd.label "Скасувати вилучення листа">
 <!ENTITY redoDeleteMsgCmd.label "Повторити вилучення листа">
@@ -808,7 +808,7 @@
 <!ENTITY contextMute.label "Вимкнути звук">
 <!ENTITY contextMute.accesskey "и">
 <!ENTITY contextUnmute.label "Увімкнути звук">
-
+<!ENTITY contextUnmute.accesskey "m">
 
 <!-- Quick Search Bar -->
 <!-- LOCALIZATION NOTE (quickSearchCmd.key):
