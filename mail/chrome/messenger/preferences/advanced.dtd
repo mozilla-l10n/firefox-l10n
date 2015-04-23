@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY itemGeneral.label       "Geral">
-
+<!ENTITY dataChoicesTab.label    "Escolhas de dados">
 <!ENTITY itemDisplay.label       "Leitura e exibição">
 <!ENTITY itemUpdate.label        "Atualizações">
 <!ENTITY itemNetworking.label    "Rede e espaço em disco">
@@ -12,12 +12,12 @@
 
 <!ENTITY enableGlodaSearch.label       "Ativar pesquisa global e indexação">
 <!ENTITY enableGlodaSearch.accesskey   "A">
-
-
+<!ENTITY allowHWAccel.label            "Usar aceleração de hardware quando disponível">
+<!ENTITY allowHWAccel.accesskey        "h">
 
 
 <!ENTITY mboxStore2.label              "Arquivo por pasta (mbox)">
-<!ENTITY maildirStore.label            "Arquivo por mensagem (maildir)">
+<!ENTITY maildirStore.label            "Um arquivo por mensagem (maildir)">
 
 <!ENTITY scrolling.label               "Navegação">
 <!ENTITY useAutoScroll.label           "Autorolagem">
@@ -40,10 +40,13 @@
 <!ENTITY showReturnReceipts.accesskey  "C">
 <!-- Data Choices -->
 
+<!ENTITY telemetrySection.label          "Telemetria">
+
+<!ENTITY enableTelemetry.label           "Ativar telemetria">
+<!ENTITY enableTelemetry.accesskey       "t">
 
 
-
-
+<!ENTITY crashReporterSection.label      "Relatório de travamento">
 
 
 

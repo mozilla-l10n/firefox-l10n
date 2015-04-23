@@ -4,7 +4,7 @@
 
 <!ENTITY addressbookWindow.title                        "Catálogo de endereços">
 <!ENTITY blankResultsPaneMessage.label                  "Esse catálogo de endereços mostra os contatos só depois de uma pesquisa">
-
+<!ENTITY localResultsOnlyMessage.label                  "Contatos do catálogo de endereços remotos não são mostradas até que você pesquise">
 <!-- File Menu -->
 <!ENTITY fileMenu.label                                 "Arquivo">
 <!ENTITY fileMenu.accesskey                             "A">
@@ -70,8 +70,8 @@
 <!ENTITY selectAllCmd.key                               "a">
 <!ENTITY searchAddressesCmd.key                         "F">
 <!ENTITY selectAllCmd.accesskey                         "S">
-<!ENTITY swapFirstNameLastNameCmd.label                 "Trocar primeiro e último nome">
-<!ENTITY swapFirstNameLastNameCmd.accesskey             "T">
+<!ENTITY swapFirstNameLastNameCmd.label                 "Inverter Nome/Sobrenome">
+<!ENTITY swapFirstNameLastNameCmd.accesskey             "I">
 <!-- LOCALIZATION NOTE (hideSwapFnLnUI) : DONT_TRANSLATE -->
 <!-- Swap FN/LN UI  Set to "false" to show swap fn/ln UI -->
 <!ENTITY hideSwapFnLnUI "true">

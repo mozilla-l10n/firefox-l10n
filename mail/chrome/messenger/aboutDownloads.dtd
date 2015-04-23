@@ -9,12 +9,13 @@
      The show and showMac commands are never shown together, thus they can share
      the same access key (though the two access keys can also be different).
      -->
-
-
-
+<!ENTITY cmd.show.label                            "Abrir pasta do arquivo">
+<!ENTITY cmd.show.accesskey                        "p">
+<!ENTITY cmd.showMac.label                         "Mostrar no Finder">
+<!ENTITY cmd.showMac.accesskey                     "F">
 <!ENTITY cmd.open.label                            "Abrir">
 <!ENTITY cmd.open.accesskey                        "A">
 
 
-
-
+<!ENTITY cmd.clearDownloads.label                  "Limpar Downloads">
+<!ENTITY cmd.clearDownloads.accesskey              "D">
