@@ -10,6 +10,7 @@
 
 <!ENTITY aboutTelemetry.generalDataSection "  Dados gerais">
 
+
 <!ENTITY aboutTelemetry.slowSqlSection "Instruções SQL lentas">
 
 <!ENTITY aboutTelemetry.chromeHangsSection "Congelamentos do navegador">
