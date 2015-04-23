@@ -104,6 +104,7 @@
 <!ENTITY cmd.installAddon.label               "Zainstaluj">
 <!ENTITY cmd.installAddon.accesskey           "Z">
 <!ENTITY cmd.debugAddon.label "Debuguj">
+<!ENTITY cmd.debugAddon.accesskey "D">
 <!ENTITY cmd.uninstallAddon.label             "Usuń">
 <!ENTITY cmd.uninstallAddon.accesskey         "U">
 <!ENTITY cmd.showPreferencesWin.label         "Opcje">
