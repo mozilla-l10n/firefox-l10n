@@ -36,3 +36,4 @@
 <!ENTITY browse.label                     "Procurar…">
 <!ENTITY browse.accesskey                 "P">
 
+<!ENTITY defaultSearchEngine.label        "Mecanismo de pesquisa padrão">

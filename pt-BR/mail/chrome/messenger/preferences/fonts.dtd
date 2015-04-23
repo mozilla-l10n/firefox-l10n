@@ -29,7 +29,7 @@
 <!ENTITY  font.langGroup.korean                   "Coreano">
 <!ENTITY  font.langGroup.cyrillic                 "Cirílico">
 <!ENTITY  font.langGroup.el                       "Grego">
-
+<!ENTITY  font.langGroup.other                    "Outros sistemas de escrita">
 <!ENTITY  font.langGroup.thai                     "Tailandês">
 <!ENTITY  font.langGroup.hebrew                   "Hebraico">
 <!ENTITY  font.langGroup.arabic                   "Árabe">
@@ -44,11 +44,11 @@
 <!ENTITY  font.langGroup.gurmukhi                 "Gurmuqui">
 <!ENTITY  font.langGroup.khmer                    "Khmer">
 <!ENTITY  font.langGroup.malayalam                "Malaiala">
-
-
-
-
-
+<!ENTITY  font.langGroup.oriya                    "Oriya">
+<!ENTITY  font.langGroup.telugu                   "Telugu">
+<!ENTITY  font.langGroup.kannada                  "Kannada">
+<!ENTITY  font.langGroup.sinhala                  "Sinhala">
+<!ENTITY  font.langGroup.tibetan                  "Tibetano">
 <!-- Minimum font size -->
 <!ENTITY minSize.label                            "Tamanho mínimo permitido:">
 <!ENTITY minSize.accesskey                        "m">
@@ -68,7 +68,7 @@
 
 <!ENTITY sendDefaultCharset.label         "Para mensagens enviadas:">
 <!ENTITY sendDefaultCharset.accesskey     "r">
-
+<!ENTITY languagesTitle2.label            "Codificação do texto">
 
 
 <!ENTITY viewDefaultCharsetList.label     "Para mensagens recebidas:">

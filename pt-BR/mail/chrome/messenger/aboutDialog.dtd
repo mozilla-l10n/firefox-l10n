@@ -13,6 +13,9 @@
 <!ENTITY update.applyButtonBillboard.label        "Aplicar atualização…">
 <!ENTITY update.applyButtonBillboard.accesskey    "A">
 <!-- LOCALIZATION NOTE (warningDesc.version): This is a warning about the experimental nature of Nightly and Aurora builds. It is only shown in those versions. -->
+
+
+<!ENTITY warningDesc.version        "O &brandShortName; é experimental e pode ser instável.">
 <!-- LOCALIZATION NOTE (warningDesc.telemetryDesc): This is a notification that Nightly/Aurora builds automatically send Telemetry data back to Mozilla. It is only shown in those versions. "It" refers to brandShortName. -->
 <!ENTITY warningDesc.telemetryDesc  "Ele envia automaticamente informações sobre desempenho, hardware, uso e personalizações para &vendorShortName; para tornar o &brandShortName; melhor.">
 <!-- LOCALIZATION NOTE (community.exp.*) This paragraph is shown in "experimental" builds, i.e. Nightly and Aurora builds, instead of the other "community.*" strings below. -->
@@ -87,7 +90,7 @@
      the "em dash" (long dash).
      example: Downloading update — 111 KB of 13 MB -->
 
-<!ENTITY update.downloading.start   "Recebendo atualização — ">
+<!ENTITY update.downloading.start   "Baixando atualização — ">
 <!ENTITY update.downloading.end     "">
 
 <!ENTITY update.applying            "Aplicando atualização…">
