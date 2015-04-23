@@ -87,11 +87,13 @@
 
 <!ENTITY netmonitorUI.context.perfTools "Rozpocznij analizowanie wydajności…">
 <!ENTITY netmonitorUI.context.perfTools.accesskey "R">
-<!ENTITY netmonitorUI.context.copyUrl "Kopiuj URL">
+<!ENTITY netmonitorUI.context.copyUrl "Kopiuj adres URL">
 <!ENTITY netmonitorUI.context.copyAsCurl "Kopiuj jako komendę programu cURL">
 <!ENTITY netmonitorUI.context.copyUrl.accesskey "K">
 <!ENTITY netmonitorUI.context.copyImageAsDataUri "Kopiuj obrazek jako Data URI">
 <!ENTITY netmonitorUI.context.copyImageAsDataUri.accesskey "D">
+<!ENTITY netmonitorUI.context.copyResponse "Kopiuj odpowiedź">
+<!ENTITY netmonitorUI.context.copyResponse.accesskey "u">
 <!ENTITY netmonitorUI.context.newTab "Otwórz w nowej karcie">
 <!ENTITY netmonitorUI.context.newTab.accesskey "O">
 <!ENTITY netmonitorUI.summary.editAndResend "Edytuj i wyślij ponownie">
