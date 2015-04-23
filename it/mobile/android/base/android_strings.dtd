@@ -134,10 +134,9 @@
 <!ENTITY tab_queue_prompt_tip_text "È possibile modificare questa scelta in Impostazioni">
 <!ENTITY tab_queue_prompt_positive_action_button "Attiva">
 <!ENTITY tab_queue_prompt_negative_action_button "Non adesso">
-<!ENTITY tab_queue_notification_text_plural "&formatD; schede in coda">
-<!ENTITY tab_queue_notification_title_plural "Schede in coda">
-<!ENTITY tab_queue_notification_title_singular "Scheda in coda">
-<!ENTITY tab_queue_notification_text_singular "1 scheda in coda">
+<!ENTITY tab_queue_notification_title "&brandShortName;">
+<!ENTITY tab_queue_notification_text_plural2 "&formatD; schede in attesa">
+<!ENTITY tab_queue_notification_text_singular2 "1 scheda in attesa">
 <!ENTITY pref_char_encoding "Codifica caratteri">
 <!ENTITY pref_char_encoding_on "Visualizza menu">
 <!ENTITY pref_char_encoding_off "Non visualizzare menu">
