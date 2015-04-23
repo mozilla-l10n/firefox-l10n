@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY aboutPrivateBrowsing.title            "നിങ്ങൾ സ്വകാര്യമായി ബ്രൗസ്സ് ചെയ്യുന്നു">
-
+<!ENTITY aboutPrivateBrowsing.title.normal     "ഒരു സ്വകാര്യ ജാലകം തുറക്കണോ?">
 
 <!ENTITY aboutPrivateBrowsing.subtitle         "&brandShortName;-ല്‍ ഈ സെഷന്റെ ഒരു ചരിത്രവും ഓര്‍ത്തു് വയ്ക്കുകയില്ല.">
 
