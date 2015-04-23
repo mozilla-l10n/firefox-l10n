@@ -74,7 +74,7 @@
 <!ENTITY abbreviateOff.label "Абревіатури (наприклад, «n.p.m.mail-news»)">
 <!ENTITY advancedButton.label "Додатково…">
 <!ENTITY advancedButton.accesskey "Д">
-<!ENTITY serverDefaultCharset.label "Кодування за умовчанням:">
+<!ENTITY serverDefaultCharset2.label "Кодування за умовчанням:">
 <!ENTITY localPath.label "Локальна тека:">
 <!ENTITY localFolderPicker.label "Розташування локальних тек">
 <!ENTITY browseFolder.label "Огляд…">

@@ -8,8 +8,8 @@
 <!ENTITY  language.accesskey                      "Ш">
 
 <!ENTITY  size.label                              "Розмір:">
-<!ENTITY  proportionalSize.accesskey              "Р">
-<!ENTITY  sizeMono.accesskey                      "м">
+<!ENTITY  sizeProportional.accesskey              "Р">
+<!ENTITY  sizeMonospace.accesskey                      "м">
 
 <!ENTITY  proportional.label                      "Пропорційний:">
 <!ENTITY  proportional.accesskey                  "П">

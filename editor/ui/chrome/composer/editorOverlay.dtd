@@ -16,6 +16,8 @@
 <!ENTITY pasteAsQuotationCmd.label "Вставити як цитату">
 <!ENTITY pasteAsQuotationCmd.accesskey "ц">
 <!ENTITY pasteAsQuotationCmd.key "o">
+<!ENTITY findBarCmd.label "Find…">
+<!ENTITY findReplaceCmd.label "Find and Replace…">
 <!ENTITY enableInlineSpellChecker.label "Перевірка орфографії під час набору">
 <!ENTITY enableInlineSpellChecker.accesskey "ч">
 <!ENTITY checkSpellingCmd2.label "Перевірити правопис">
@@ -38,6 +40,8 @@
 <!ENTITY insertTableCmd.accesskey "Т">
 <!ENTITY insertHTMLCmd.label "HTML…">
 <!ENTITY insertHTMLCmd.accesskey "H">
+<!ENTITY insertMathCmd.label "Math…">
+<!ENTITY insertMathCmd.accesskey "M">
 <!ENTITY insertCharsCmd.label "Літери і символи…">
 <!ENTITY insertCharsCmd.accesskey "Л">
 <!ENTITY insertBreakAllCmd.label "Розрив під зображеннями">

@@ -17,7 +17,8 @@
 <!ENTITY deleteButton.accesskey      "ч">
 <!ENTITY searchDialogTitle.label     "Пошук листів…">
 <!ENTITY results.label               "Результати">
-
+<!ENTITY moveButton.label            "Move To">
+<!ENTITY moveButton.accesskey        "T">
 <!ENTITY closeCmd.key                "W"> 
 <!ENTITY openInFolder.label          "Відкрити у теці">
 <!ENTITY openInFolder.accesskey      "т">
@@ -31,12 +32,15 @@
 <!ENTITY propertiesButton.accesskey  "л">
 <!ENTITY composeButton.label         "Написати">
 <!ENTITY composeButton.accesskey     "Н">
+<!ENTITY deleteCardButton.label      "Delete">
+<!ENTITY deleteCardButton.accesskey  "D">
 <!ENTITY abSearchDialogTitle.label   "Розширений режим пошуку в адресній книзі">
 
 <!-- Thread Pane -->
 <!ENTITY threadColumn.label "Гілка">
 <!ENTITY fromColumn.label "Відправник">
 <!ENTITY recipientColumn.label "Адресат">
+<!ENTITY correspondentColumn.label "Correspondents">
 <!ENTITY subjectColumn.label "Тема">
 <!ENTITY dateColumn.label "Дата">
 <!ENTITY priorityColumn.label "Важливість">
@@ -54,4 +58,23 @@
 <!ENTITY idColumn.label "Порядок отримання">
 
 <!-- Thread Pane Tooltips -->
-
+<!ENTITY columnChooser2.tooltip "Select columns to display">
+<!ENTITY threadColumn2.tooltip "Display message threads">
+<!ENTITY fromColumn2.tooltip "Sort by from">
+<!ENTITY recipientColumn2.tooltip "Sort by recipient">
+<!ENTITY correspondentColumn2.tooltip "Sort by correspondents">
+<!ENTITY subjectColumn2.tooltip "Sort by subject">
+<!ENTITY dateColumn2.tooltip "Sort by date">
+<!ENTITY priorityColumn2.tooltip "Sort by priority">
+<!ENTITY tagsColumn2.tooltip "Sort by tags">
+<!ENTITY accountColumn2.tooltip "Sort by account">
+<!ENTITY statusColumn2.tooltip "Sort by status">
+<!ENTITY sizeColumn2.tooltip "Sort by size">
+<!ENTITY junkStatusColumn2.tooltip "Sort by junk status">
+<!ENTITY unreadColumn2.tooltip "Number of unread messages in thread">
+<!ENTITY totalColumn2.tooltip "Total number of messages in thread">
+<!ENTITY readColumn2.tooltip "Sort by read">
+<!ENTITY receivedColumn2.tooltip "Sort by date received">
+<!ENTITY starredColumn2.tooltip "Sort by star">
+<!ENTITY locationColumn2.tooltip "Sort by location">
+<!ENTITY idColumn2.tooltip "Sort by order received">
