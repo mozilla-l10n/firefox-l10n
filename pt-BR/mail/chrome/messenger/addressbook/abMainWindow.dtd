@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY addressbookWindow.title                        "Catálogo de endereços">
-
+<!ENTITY blankResultsPaneMessage.label                  "Esse catálogo de endereços mostra os contatos só depois de uma pesquisa">
 
 <!-- File Menu -->
 <!ENTITY fileMenu.label                                 "Arquivo">
@@ -148,7 +148,7 @@ because displayed names don't have the comma in between. -->
 <!ENTITY editButton2.tooltip                            "Editar o item selecionado">
 <!ENTITY newmsgButton.tooltip                           "Nova mensagem">
 <!ENTITY newIM.tooltip                                  "Enviar uma mensagem instantânea ou de bate-papo">
-<!ENTITY deleteButton2.tooltip                           "Excluir item selecionado">
+<!ENTITY deleteButton2.tooltip                           "Excluir o item selecionado">
 <!-- Dir Tree header -->
 
 <!ENTITY dirTreeHeader.label                            "Catálogos de endereços">
@@ -158,7 +158,7 @@ because displayed names don't have the comma in between. -->
 <!ENTITY SearchNameOrEmail.accesskey                    "z">
 <!ENTITY advancedButton.tooltip                         "Mais opções de pesquisa">
 <!ENTITY quickSearchCmd.key                             "K">
-<!ENTITY searchItem.title "Campo de pesquisa">
+<!ENTITY searchItem.title "Busca Rápida">
 <!-- Results Pane -->
 
 <!ENTITY GeneratedName.label                            "Nome">

@@ -74,7 +74,7 @@
 <!ENTITY abbreviateOff.label "Nomes abreviados (exemplo: n.p.m.mail-news)">
 <!ENTITY advancedButton.label "Avançado…">
 <!ENTITY advancedButton.accesskey "A">
-<!ENTITY serverDefaultCharset.label "Codificação padrão:">
+<!ENTITY serverDefaultCharset2.label "Codificação padrão do texto:">
 <!ENTITY localPath.label "Pasta local:">
 <!ENTITY localFolderPicker.label "Selecione a localização da pasta local:">
 <!ENTITY browseFolder.label "Procurar…">
@@ -84,7 +84,7 @@
 
 <!ENTITY accountTitle.label "Configurações da conta">
 <!ENTITY accountSettingsDesc.label "Esta é uma conta especial. Não há identidades associadas a ela.">
-
-
-
-
+<!ENTITY storeType.label "Tipo armazenamento de mensagem:">
+<!ENTITY storeType.accesskey "T">
+<!ENTITY mboxStore2.label "Arquivo por pasta (mbox)">
+<!ENTITY maildirStore.label "Arquivo por mensagem (maildir)">
