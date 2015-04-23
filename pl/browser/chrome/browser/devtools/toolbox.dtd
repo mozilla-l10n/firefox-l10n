@@ -79,5 +79,5 @@
 <!ENTITY options.disableCache.label2 "Wyłącz pamięć podręczną (gdy otworzone są narzędzia)">
 <!ENTITY options.disableCache.tooltip2 "Wyłącza pamięć podręczną we wszystkich kartach, dla których narzędzia są otwarte.">
 
-<!ENTITY options.enableServiceWorkersTesting.label "Eksperymentalne funkcje Service workerów (gdy narzędzia są otwarte)">
-<!ENTITY options.enableServiceWorkersTesting.tooltip "Umożliwia testowanie eksperymentalnych funkcji Service workerów dla wszystkich kart z otwartymi narzędziami">
+<!ENTITY options.enableServiceWorkersHTTP.label "Service workery przez HTTP (gdy narzędzia są otwarte)">
+<!ENTITY options.enableServiceWorkersHTTP.tooltip "Kontroluje dostępność Service workerów przez HTTP w kartach z otwartymi narzędziami">
