@@ -185,9 +185,9 @@ Gecko platform symbols">
 
 <!ENTITY options.sourceeditor.label                     "Preferințele pentru editor">
 <!ENTITY options.sourceeditor.detectindentation.label   "Detenctează indentarea">
-
-
-
+<!ENTITY options.sourceeditor.detectindentation.tooltip "Ghicește indentarea bazată pe conținutul sursei">
+<!ENTITY options.sourceeditor.autoclosebrackets.label   "Închide automat parantezele">
+<!ENTITY options.sourceeditor.autoclosebrackets.tooltip "Inserează automat paranteze închise">
 <!ENTITY options.sourceeditor.expandtab.label           "Indentare folosind spații">
 <!ENTITY options.sourceeditor.expandtab.tooltip         "Use spaces instead of the tab character">
 <!ENTITY options.sourceeditor.tabsize.label             "Mărimea filei">
