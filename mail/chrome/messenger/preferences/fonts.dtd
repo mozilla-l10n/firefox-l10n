@@ -8,8 +8,8 @@
 <!ENTITY  language.accesskey                      "F">
 
 <!ENTITY  size.label                              "Tam.:">
-<!ENTITY  proportionalSize.accesskey              "T">
-<!ENTITY  sizeMono.accesskey                      "a">
+
+
 
 <!ENTITY  proportional.label                      "Proporcional:">
 <!ENTITY  proportional.accesskey                  "P">
@@ -20,20 +20,16 @@
 <!ENTITY  sans-serif.accesskey                    "S">
 <!ENTITY  monospace.label                         "Monoespaçada:">
 <!ENTITY  monospace.accesskey                     "o">
-
-<!ENTITY  font.langGroup.latin1                   "Ocidental">
-<!ENTITY  font.langGroup.latin2                   "Europeu central">
+<!-- LOCALIZATION NOTE (font.langGroup.latin) :
+     Translate "Latin" as the name of Latin (Roman) script, not as the name of the Latin language. -->
 <!ENTITY  font.langGroup.japanese                 "Japonês">
 <!ENTITY  font.langGroup.trad-chinese             "Chinês tradicional (Taiwan)">
 <!ENTITY  font.langGroup.simpl-chinese            "Chinês simplificado">
 <!ENTITY  font.langGroup.trad-chinese-hk          "Chinês tradicional (Hong Kong)">
 <!ENTITY  font.langGroup.korean                   "Coreano">
 <!ENTITY  font.langGroup.cyrillic                 "Cirílico">
-<!ENTITY  font.langGroup.baltic                   "Báltico">
 <!ENTITY  font.langGroup.el                       "Grego">
-<!ENTITY  font.langGroup.turkish                  "Turco">
-<!ENTITY  font.langGroup.unicode1                 "Unicode">
-<!ENTITY  font.langGroup.user-def                 "Definido pelo usuário">
+
 <!ENTITY  font.langGroup.thai                     "Tailandês">
 <!ENTITY  font.langGroup.hebrew                   "Hebraico">
 <!ENTITY  font.langGroup.arabic                   "Árabe">
@@ -48,8 +44,12 @@
 <!ENTITY  font.langGroup.gurmukhi                 "Gurmuqui">
 <!ENTITY  font.langGroup.khmer                    "Khmer">
 <!ENTITY  font.langGroup.malayalam                "Malaiala">
-<!-- Minimum font size -->
 
+
+
+
+
+<!-- Minimum font size -->
 <!ENTITY minSize.label                            "Tamanho mínimo permitido:">
 <!ENTITY minSize.accesskey                        "m">
 <!ENTITY minSize.none                             "Nenhum">
@@ -68,10 +68,10 @@
 
 <!ENTITY sendDefaultCharset.label         "Para mensagens enviadas:">
 <!ENTITY sendDefaultCharset.accesskey     "r">
-<!ENTITY languagesTitle1.label            "Codificações padrão">
-<!ENTITY composingDescription.label       "Defina as codificações padrão para receber e enviar mensagens.">
+
+
 
 <!ENTITY viewDefaultCharsetList.label     "Para mensagens recebidas:">
 <!ENTITY viewDefaultCharsetList.accesskey  "e">
-<!ENTITY replyInDefaultCharset2.label     "Quando possível, usar a codificação padrão ao responder">
-<!ENTITY replyInDefaultCharset2.accesskey "Q">
+
+

@@ -16,8 +16,8 @@
 
 
 
-
-
+<!ENTITY mboxStore2.label              "Arquivo por pasta (mbox)">
+<!ENTITY maildirStore.label            "Arquivo por mensagem (maildir)">
 
 <!ENTITY scrolling.label               "Navegação">
 <!ENTITY useAutoScroll.label           "Autorolagem">
