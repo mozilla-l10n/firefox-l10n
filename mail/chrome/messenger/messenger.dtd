@@ -121,7 +121,7 @@
 <!ENTITY undoCopyMsgCmd.label "Razveljavi kopiranje sporočila">
 <!ENTITY redoCopyMsgCmd.label "Uveljavi kopiranje sporočila">
 <!ENTITY undoMarkAllCmd.label "Razveljavi označitev vseh kot prebrane">
-<!ENTITY redoMarkAllCmd.label "Uveljavi označitev vseh kot prebrane">
+<!ENTITY redoMarkAllCmd.label "Uveljavi označitev vseh kot prebranih">
 <!ENTITY undoDefaultCmd.label "Razveljavi">
 <!ENTITY undoDefaultCmd.accesskey "R">
 <!ENTITY redoDefaultCmd.label "Uveljavi">
