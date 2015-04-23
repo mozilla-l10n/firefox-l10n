@@ -22,7 +22,7 @@
 <!ENTITY  generalReferrer       "URL igorlea:">
 <!ENTITY  generalSource         "Iturria:">
 <!ENTITY  generalModified       "Aldatuta:">
-
+<!ENTITY  generalEncoding2      "Testuaren kodeketa:">
 <!ENTITY  generalMetaName       "Izena">
 <!ENTITY  generalMetaContent    "Edukia">
 
