@@ -28,10 +28,10 @@
 <!ENTITY community.exp.creditsLink  "komunitate globala">
 <!ENTITY community.exp.end          " da.">
 
-<!ENTITY community.start2           "&brandShortName; diseinatu duena: ">
+<!ENTITY community.start2           "">
 <!-- LOCALIZATION NOTE (community.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
-<!ENTITY community.mozillaLink      "&brandShortName; diseinatu duena: ">
-<!ENTITY community.middle2          "k diseinatzen du &brandShortName;, weba ireki, publiko eta guztiontzat atzigarri mantentzeko lanean dabilen">
+<!ENTITY community.mozillaLink      "&vendorShortName;">
+<!ENTITY community.middle2          "k diseinatzen du &brandShortName;, weba ireki, publiko eta guztiontzat atzigarri mantentzeko lanean dabilen ">
 <!-- LOCALIZATION NOTE (community.creditsLink): This is a link title that links to about:credits. -->
 <!ENTITY community.creditsLink      "komunitate globalak">
 <!ENTITY community.end3             ".">
