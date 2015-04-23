@@ -4,6 +4,7 @@
 
 <!ENTITY  prefWindow.titleWin     "Налаштування">
 <!ENTITY  prefWindow.titleGNOME   "Налаштування &brandShortName;">
+<!ENTITY  prefWindow.titleMAC     "Preferences">
 <!ENTITY  prefWindow.styleWindows "width: 60em; min-height: 41em;">
 <!ENTITY  prefWindow.styleMac     "width: 65em;">
 <!ENTITY  prefWindow.styleGNOME   "width: 60em; min-height: 41em;">
@@ -13,5 +14,10 @@
 <!ENTITY paneComposition.title    "Створення">
 <!ENTITY paneChat.title           "Чат">
 <!ENTITY paneAttachments.title    "Вкладення">
+<!ENTITY panePrivacy.title        "Privacy">
+<!ENTITY paneSecurity.title       "Security">
 <!ENTITY paneSecurity.title       "Безпека">
 <!ENTITY paneAdvanced.title       "Додатково">
+
+<!ENTITY okButton.title           "OK">
+<!ENTITY okButton.accesskey       "O">

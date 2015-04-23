@@ -17,17 +17,25 @@
 <!ENTITY deniedPortAccess.longDesc "">
 
 <!ENTITY dnsNotFound.title "Сервер не знайдено">
-<!ENTITY dnsNotFound.longDesc "<ul>
-<li>Перевірте, чи не допущена помилка при наборі адреси, наприклад <strong>ww</strong>.example.com замість <strong>www</strong>.example.com</li>
-<li>Якщо жодна сторінка не завантажується — перевірте налаштування з’єднання з інтернетом.</li>
-<li>Якщо комп’ютер або мережа захищені фаєрволом або проксі-сервером — переконайтеся, що &brandShortName; дозволено виходити в інтернет.</li>
-</ul>">
+<!ENTITY dnsNotFound.longDesc "
+<ul>
+<li>Перевірте, чи не допущена помилка при наборі адреси, наприклад
+<strong>ww</strong>.example.com замість
+<strong>www</strong>.example.com</li>
+<li>Якщо жодна сторінка не завантажується — перевірте налаштування з’єднання
+з інтернетом.</li>
+<li>Якщо комп’ютер або мережа захищені фаєрволом або проксі-сервером — переконайтеся, що
+&brandShortName; дозволено виходити в інтернет.</li>
+</ul>
+">
 
 <!ENTITY fileNotFound.title "Файл не знайдено">
-<!ENTITY fileNotFound.longDesc "<ul>
+<!ENTITY fileNotFound.longDesc "
+<ul>
 <li>Перевірте правильність введеного імені файлу, відповідність регістру і відсутність інших помилок в імені файлу.</li>
 <li>Перевірте, чи не було перейменовано, знищено або переміщено файл.</li>
-</ul>">
+</ul>
+">
 
 <!ENTITY generic.title "Ой.">
 <!ENTITY generic.longDesc "
