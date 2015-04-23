@@ -15,8 +15,8 @@
 <!ENTITY saveCmd.accesskey "S">
 <!ENTITY saveAsCmd.label "រក្សាទុក​ជា...">
 <!ENTITY saveAsCmd.accesskey "A">
-
-
+<!ENTITY saveAsChangeEncodingCmd2.label "រក្សាទុក ហើយ​​ផ្លាស់ប្ដូរ​អត្ថបទ តួអក្សរ">
+<!ENTITY saveAsChangeEncodingCmd2.accesskey "ត">
 <!ENTITY publishCmd.label "បោះពុម្ព​ផ្សាយ">
 <!ENTITY publishCmd.accesskey "b">
 <!ENTITY publishCmd.key "S">
