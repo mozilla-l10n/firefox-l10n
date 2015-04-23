@@ -174,6 +174,11 @@ selected to be added to the home page. -->
 
 <!ENTITY tab_queue_toast_message "Otwórz później">
 <!ENTITY tab_queue_toast_action "Otwórz teraz">
+<!ENTITY tab_queue_prompt_title "Otwieranie wielu odnośników">
+<!ENTITY tab_queue_prompt_text "Otwieranie odnośników w tle, bez przłączania się do Firefoksa za każdym razem.">
+<!ENTITY tab_queue_prompt_tip_text "Można to zmienić później w ustawieniach">
+<!ENTITY tab_queue_prompt_positive_action_button "Włącz">
+<!ENTITY tab_queue_prompt_negative_action_button "Nie teraz">
 <!ENTITY tab_queue_notification_text_plural "Skolejkowanych kart: &formatD;">
 <!ENTITY tab_queue_notification_title_plural "Skolejkowane karty">
 <!ENTITY tab_queue_notification_title_singular "Skolejkowana karta">
