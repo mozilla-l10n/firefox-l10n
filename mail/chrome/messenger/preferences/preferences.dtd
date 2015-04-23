@@ -15,9 +15,9 @@
 <!ENTITY paneChat.title           "Чат">
 <!ENTITY paneAttachments.title    "Вкладення">
 <!ENTITY panePrivacy.title        "Privacy">
-<!ENTITY paneSecurity.title       "Security">
 <!ENTITY paneSecurity.title       "Безпека">
 <!ENTITY paneAdvanced.title       "Додатково">
+<!ENTITY paneAccount.title        "Accounts">
 
 <!ENTITY okButton.title           "OK">
 <!ENTITY okButton.accesskey       "O">

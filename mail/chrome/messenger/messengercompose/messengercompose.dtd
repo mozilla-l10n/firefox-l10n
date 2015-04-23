@@ -28,6 +28,8 @@
 <!--LOCALIZATION NOTE attachVCardCmd.label Don't translate the term 'vCard' -->
 <!ENTITY attachVCardCmd.label "Візитну картку (vCard)">
 <!ENTITY attachVCardCmd.accesskey "з">
+<!ENTITY remindLater.label "Remind Me Later">
+<!ENTITY remindLater.accesskey "L">
 <!ENTITY closeCmd.label "Закрити">
 <!ENTITY closeCmd.key "W">
 <!ENTITY closeCmd.accesskey "З">
@@ -50,6 +52,8 @@
 <!ENTITY sendLaterCmd.accesskey "з">
 <!ENTITY printSetupCmd.label "Параметри сторінки…">
 <!ENTITY printSetupCmd.accesskey "а">
+<!ENTITY printPreviewCmd.label "Print Preview">
+<!ENTITY printPreviewCmd.accesskey "v">
 <!ENTITY printCmd.label "Друк…">
 <!ENTITY printCmd.key "P">
 <!ENTITY printCmd.accesskey "Д">
@@ -84,10 +88,18 @@
 <!ENTITY selectAllCmd.label "Виділити все">
 <!ENTITY selectAllCmd.key "A">
 <!ENTITY selectAllCmd.accesskey "с">
+<!ENTITY findBarCmd.label "Find…">
+<!ENTITY findBarCmd.accesskey "F">
+<!ENTITY findBarCmd.key "F">
+<!ENTITY findReplaceCmd.label "Find and Replace…">
+<!ENTITY findReplaceCmd.accesskey "l">
+<!ENTITY findReplaceCmd.key "H">
+<!ENTITY findAgainCmd.label "Find Again">
 <!ENTITY findAgainCmd.label "Знайти наступне">
 <!ENTITY findAgainCmd.key "G">
 <!ENTITY findAgainCmd.key2 "VK_F3">
 <!ENTITY findPrevCmd.label "Знайти попереднє">
+<!ENTITY findPrevCmd.accesskey "v">
 <!ENTITY findPrevCmd.key "G">
 <!ENTITY findPrevCmd.key2 "VK_F3">
 
@@ -192,6 +204,7 @@
 <!ENTITY attachButton.label "Вкладення">
 <!ENTITY spellingButton.label "Орфографія">
 <!ENTITY saveButton.label "Зберегти">
+<!ENTITY printButton.label "Print">
 
 <!-- Mail Toolbar Tooltips -->
 <!ENTITY sendButton.tooltip "Відіслати цього листа зараз">
@@ -204,6 +217,7 @@
 <!ENTITY cutButton.tooltip              "Вирізати">
 <!ENTITY copyButton.tooltip             "Копіювати">
 <!ENTITY pasteButton.tooltip            "Вставити">
+<!ENTITY printButton.tooltip "Print this message">
 
 <!-- Headers -->
 <!--LOCALIZATION NOTE headersSpace.style is for aligning  the From:, To: and

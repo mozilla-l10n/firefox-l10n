@@ -4,3 +4,6 @@
 
 <!ENTITY  closeTab.label           "Закрити вкладку">
 <!ENTITY  listAllTabs.label        "Показати всі вкладки">
+<!-- LOCALIZATION NOTE(defaultTabTitle.label): This is the default tab
+     title to show when the tab has no title. -->
+<!ENTITY  defaultTabTitle.label    "Home">
