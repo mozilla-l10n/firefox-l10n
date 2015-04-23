@@ -192,8 +192,8 @@
 <!ENTITY sortByFromCmd.accesskey "F">
 <!ENTITY sortByRecipientCmd.label "Ստացողը">
 <!ENTITY sortByRecipientCmd.accesskey "c">
-
-
+<!ENTITY sortByCorrespondentCmd.label "អ្នក​ឆ្លើយឆ្លង">
+<!ENTITY sortByCorrespondentCmd.accesskey "e">
 <!ENTITY sortByUnreadCmd.label "Կարդալ">
 <!ENTITY sortByUnreadCmd.accesskey "R">
 <!ENTITY sortByOrderReceivedCmd.label "Ստացված՝">
@@ -660,7 +660,7 @@
 <!ENTITY threadColumn.label "Թեմատիկա">
 <!ENTITY fromColumn.label "From">
 <!ENTITY recipientColumn.label "Ստացողը">
-
+<!ENTITY correspondentColumn.label "អ្នក​ឆ្លើយឆ្លង">
 <!ENTITY subjectColumn.label "Subject">
 <!ENTITY dateColumn.label "Date">
 <!ENTITY priorityColumn.label "Priority">

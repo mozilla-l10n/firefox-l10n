@@ -40,7 +40,7 @@
 <!ENTITY threadColumn.label "Թեմատիկա">
 <!ENTITY fromColumn.label "From">
 <!ENTITY recipientColumn.label "Ստացողը">
-
+<!ENTITY correspondentColumn.label "អ្នក​ឆ្លើយឆ្លង">
 <!ENTITY subjectColumn.label "Subject">
 <!ENTITY dateColumn.label "Date">
 <!ENTITY priorityColumn.label "Priority">

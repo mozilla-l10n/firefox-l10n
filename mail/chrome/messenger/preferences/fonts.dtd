@@ -8,8 +8,8 @@
 <!ENTITY  language.accesskey                      "t">
 
 <!ENTITY  size.label                              "Size:">
-
-
+<!ENTITY  sizeProportional.accesskey              "e">
+<!ENTITY  sizeMonospace.accesskey                 "i">
 
 <!ENTITY  proportional.label                      "Proportional:">
 <!ENTITY  proportional.accesskey                  "P">
@@ -45,7 +45,7 @@
 <!ENTITY  font.langGroup.khmer                    "Khmer">
 <!ENTITY  font.langGroup.malayalam                "Malayalam">
 
-
+<!ENTITY  font.langGroup.telugu                   "តេលូហ្គូ​">
 
 
 
@@ -68,10 +68,10 @@
 
 <!ENTITY sendDefaultCharset.label         "Outgoing Mail:">
 <!ENTITY sendDefaultCharset.accesskey     "u">
-
-
+<!ENTITY languagesTitle2.label            "ការ​អ៊ិនកូដ​អត្ថបទ​​">
+<!ENTITY composingDescription2.label      "កំណត់​ការ​អ៊ិនកូដ​អត្ថបទ​លំនាំដើម​សម្រាប់​ការ​ផ្ញើ និង​ទទួល​អ៊ីមែល">
 
 <!ENTITY viewDefaultCharsetList.label     "Incoming Mail:">
 <!ENTITY viewDefaultCharsetList.accesskey  "I">
-
-
+<!ENTITY replyInDefaultCharset3.label     "នៅពេល​ដែល​អាច, ប្រើ​ការ​អ៊ិនកូដ​តួអក្សរ​លំនាំដើម​ក្នុង​ការ​ឆ្លើយតប">
+<!ENTITY replyInDefaultCharset3.accesskey "h">

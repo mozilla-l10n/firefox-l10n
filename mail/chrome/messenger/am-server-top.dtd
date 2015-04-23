@@ -74,7 +74,7 @@
 <!ENTITY abbreviateOff.label "Կրճատ անունները (օրինակ՝  'n.p.m.mail-news')">
 <!ENTITY advancedButton.label "Ընդլայնված...">
 <!ENTITY advancedButton.accesskey "v">
-
+<!ENTITY serverDefaultCharset2.label "ការ​អ៊ិនកូដ​អត្ថបទ​លំនាំដើម៖">
 <!ENTITY localPath.label "Լոկալ թղթապանակը.">
 <!ENTITY localFolderPicker.label "Ընտրեք լոկալ թղթապանակը">
 <!ENTITY browseFolder.label "Browse…">
