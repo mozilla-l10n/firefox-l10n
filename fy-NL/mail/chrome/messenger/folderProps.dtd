@@ -5,10 +5,10 @@
 <!ENTITY folderProps.windowtitle.label           "Eigenskippen">
 
 <!ENTITY generalInfo.label                       "Algemiene ynformaasje">
-<!ENTITY folderCharsetFallback.label             "Reserve karakterkodearring:">
-<!ENTITY folderCharsetFallback.accesskey         "E">
-<!ENTITY folderCharsetEnforce.label              "Kodearring tapasse op alle berjochten yn de map (yndividuele ynstellingen berjochtkarakterkodearring en auto-deteksje sille negearre wurde)">
-<!ENTITY folderCharsetEnforce.accesskey          "K">
+<!ENTITY folderCharsetFallback2.label             "Tebekfaltekstkodearring:">
+<!ENTITY folderCharsetFallback2.accesskey         "e">
+<!ENTITY folderCharsetEnforce2.label              "Kodearring tapasse op alle berjochten yn de map (yndividuele ynstellingen tekstkodearring en autodeteksje sille negearre wurde)">
+<!ENTITY folderCharsetEnforce2.accesskey          "K">
 <!ENTITY folderRebuildSummaryFileTip2.label      "Gearfettingsbestân op 'e nij meitsje">      
 <!ENTITY folderRebuildSummaryFile2.label         "Map reparearje">
 <!ENTITY folderRebuildSummaryFile2.accesskey     "r">
