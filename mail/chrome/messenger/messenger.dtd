@@ -192,6 +192,8 @@
 <!ENTITY sortByFromCmd.accesskey "n">
 <!ENTITY sortByRecipientCmd.label "Untfanger">
 <!ENTITY sortByRecipientCmd.accesskey "t">
+<!ENTITY sortByCorrespondentCmd.label "Korrespondinten">
+<!ENTITY sortByCorrespondentCmd.accesskey "e">
 <!ENTITY sortByUnreadCmd.label "Lêzen">
 <!ENTITY sortByUnreadCmd.accesskey "z">
 <!ENTITY sortByOrderReceivedCmd.label "Folchoarder fan ûntfangst">
@@ -658,6 +660,7 @@
 <!ENTITY threadColumn.label "Petear">
 <!ENTITY fromColumn.label "Fan">
 <!ENTITY recipientColumn.label "Untfanger">
+<!ENTITY correspondentColumn.label "Korrespondinten">
 <!ENTITY subjectColumn.label "Underwerp">
 <!ENTITY dateColumn.label "Datum">
 <!ENTITY priorityColumn.label "Prioriteit">
@@ -680,6 +683,7 @@
 <!ENTITY threadColumn2.tooltip "Berjochtpetearen toane">
 <!ENTITY fromColumn2.tooltip "Sortearje op fan">
 <!ENTITY recipientColumn2.tooltip "Sortearje op ûntfanger">
+<!ENTITY correspondentColumn2.tooltip "Sortearje op korrespondinten">
 <!ENTITY subjectColumn2.tooltip "Sortearje op ûnderwerp">
 <!ENTITY dateColumn2.tooltip "Sortearje op datum">
 <!ENTITY priorityColumn2.tooltip "Sortearje op prioriteit">

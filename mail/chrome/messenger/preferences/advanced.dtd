@@ -16,7 +16,7 @@
 <!ENTITY allowHWAccel.accesskey        		"f">
 <!ENTITY storeType.label               		"Type berjochtenopslach foar nije accounts:">
 <!ENTITY storeType.accesskey           		"b">
-<!ENTITY mboxStore.label              		"Ien grut bestân (mbox)">
+<!ENTITY mboxStore2.label              		"Ien bestân per map (mbox)">
 <!ENTITY maildirStore.label           		"Ien bestân per berjocht (maildir)">
 
 <!ENTITY scrolling.label               		"Skowe">

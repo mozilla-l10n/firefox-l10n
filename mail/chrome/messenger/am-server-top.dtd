@@ -73,7 +73,7 @@
 <!ENTITY abbreviateOn.label "Folsleine nammen (bygelyks ‘netscape.public.mozilla.mail-news’)">
 <!ENTITY abbreviateOff.label "Ofkoarte nammen (bygelyks ‘n.p.m.mail-news’)">
 <!ENTITY advancedButton.label "Avansearre…">
-<!ENTITY serverDefaultCharset.label "Standert tekenset:">
+<!ENTITY serverDefaultCharset2.label "Standert tekenkodearing:">
 <!ENTITY advancedButton.accesskey "A">
 <!ENTITY localFolderPicker.label "Selektearje lokale map">
 <!ENTITY browseFolder.label "Blêdzje…">
@@ -86,5 +86,5 @@
 <!ENTITY accountSettingsDesc.label "Dit is in spesjaal account. Der binne gjin identiteiten mei ferbûn.">
 <!ENTITY storeType.label "Type berjochteopslach:">
 <!ENTITY storeType.accesskey "T">
-<!ENTITY mboxStore.label "Ien grut bestân (mbox)">
+<!ENTITY mboxStore2.label "Ien bestân per map (mbox)">
 <!ENTITY maildirStore.label "Ien bestân per berjocht (maildir)">

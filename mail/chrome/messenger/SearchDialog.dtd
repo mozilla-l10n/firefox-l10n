@@ -40,6 +40,7 @@
 <!ENTITY threadColumn.label "Petear">
 <!ENTITY fromColumn.label "Fan">
 <!ENTITY recipientColumn.label "Untfanger">
+<!ENTITY correspondentColumn.label "Korrespondinten">
 <!ENTITY subjectColumn.label "Underwerp">
 <!ENTITY dateColumn.label "Datum">
 <!ENTITY priorityColumn.label "Prioriteit">
@@ -61,6 +62,7 @@
 <!ENTITY threadColumn2.tooltip "Berjochtpetear werjaan">
 <!ENTITY fromColumn2.tooltip "Sortearje op fan">
 <!ENTITY recipientColumn2.tooltip "Sortearje op ûntfanger">
+<!ENTITY correspondentColumn2.tooltip "Sortearje op korrespondinten">
 <!ENTITY subjectColumn2.tooltip "Sortearje op ûnderwerp">
 <!ENTITY dateColumn2.tooltip "Sortearje op datum">
 <!ENTITY priorityColumn2.tooltip "Sortearje op prioriteit">
