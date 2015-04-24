@@ -12,7 +12,7 @@
 <!ENTITY forwardMsg.accesskey                 "P">
 <!ENTITY inline.label                         "Umetnute">
 <!ENTITY asAttachment.label                   "Kao privitak">
-<!ENTITY addExtension.label                   "dodaj nastavak na ime datoteke">
+<!ENTITY addExtension.label                   "dodaj nastavak nazivu datoteke">
 <!ENTITY addExtension.accesskey               "e">
 
 <!ENTITY htmlComposeHeader.label              "HTML">
