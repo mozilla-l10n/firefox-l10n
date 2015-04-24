@@ -7,7 +7,7 @@
 <!-- This button is for the progressive disclosure of additional editing functionality -->
 
 <!-- These strings are for use specifically in the editor's link dialog. -->
-<!ENTITY windowTitle.label "Bewarje en tekstkodearing wizigje">
+<!ENTITY windowTitle2.label "Bewarje en tekstkodearing wizigje">
 <!ENTITY documentTitleTitle.label "Sidetitel">
 <!ENTITY documentCharsetTitle2.label "Tekstkodearing">
 <!ENTITY documentCharsetDesc2.label "Selektearje de tekstkodearing wêryn jo in dokumint bewarje wolle:">
