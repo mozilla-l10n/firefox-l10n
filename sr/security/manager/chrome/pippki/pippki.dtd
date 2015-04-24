@@ -13,17 +13,17 @@
 <!-- Values for resetpassword.xul -->
 <!ENTITY resetPasswordButtonLabel "Ресетуј">
 <!ENTITY resetPassword.title  "Ресетуј главну лозинку">
-<!ENTITY resetPassword.text  "Ако ресетујете главну лозинку, све сачуване лозинке за интернет и е-пошту, садржаји формулара, лични сертификати и кључеви биће &quot;изгубљени&quot;. Да ли заиста желите обновити своју главну лозинку?">
+<!ENTITY resetPassword.text  "Ако ресетујете главну лозинку, све сачуване лозинке за интернет и е-пошту, садржаји формулара, лични сертификати и кључеви биће &quot;изгубљени&quot;. Да ли заиста желите ресетовати своју главну лозинку?">
 
 <!-- Downloading a cert -->
 <!ENTITY downloadCert.title "Пријем сертификата">
 <!ENTITY downloadCert.message1 "Тражено је од Вас да верујете новом сертификационом телу (СА).">
-<!ENTITY downloadCert.trustSSL "Веруј овој компанији о идентитету веб сајтова.">
-<!ENTITY downloadCert.trustEmail "Веруј овој компанији за избор е-поште корисника.">
-<!ENTITY downloadCert.trustObjSign "Веруј овој компанији за избор развоја програма.">
-<!ENTITY downloadCert.message3 "Пре указивања поверења овој компанији за било коју намену испитај њен сертификат и њене полисе и процедуре (ако постоје).">
+<!ENTITY downloadCert.trustSSL "Веруј овом сертификационом телу (CA) да идентификује веб сајтова.">
+<!ENTITY downloadCert.trustEmail "Веруј овом сертификационом телу (CA) да идентификује е-поште корисника.">
+<!ENTITY downloadCert.trustObjSign "Веруј овом сертификационом телу (CA) да идентификује програмере.">
+<!ENTITY downloadCert.message3 "Пре указивања поверења овој компанији за било коју намену испитајте њен сертификат и њене полисе и процедуре (ако постоје).">
 <!ENTITY downloadCert.viewCert.label "Преглед">
-<!ENTITY downloadCert.viewCert.text "Испитај сертификат компаније">
+<!ENTITY downloadCert.viewCert.text "Испитај сертификат сертификационог тела">
 
 <!-- Strings for the SSL client auth ask dialog -->
 <!ENTITY clientAuthAsk.title "Захтев за идентификацију корисника">
