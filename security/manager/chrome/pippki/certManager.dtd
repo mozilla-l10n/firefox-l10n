@@ -34,7 +34,7 @@
 <!ENTITY certmgr.certdetail.sha256fingerprint "SHA-256 отисак кључа">
 <!ENTITY certmgr.certdetail.sha1fingerprint   "SHA1 отисак кључа">
 
-<!ENTITY certmgr.editcacert.title             "Измени поставке поверења центра сертификата">
+<!ENTITY certmgr.editcacert.title             "Измени поставке поверења сертификационог тела">
 <!ENTITY certmgr.editcert.edittrust           "Измени поставке поверења:">
 <!ENTITY certmgr.editcert.trustssl            "Овај сертификат може да идентификује веб сајтове.">
 <!ENTITY certmgr.editcert.trustemail          "Овај сертификат може да идентификује кориснике е-поште.">
