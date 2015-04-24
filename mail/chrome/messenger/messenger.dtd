@@ -379,7 +379,7 @@
 <!ENTITY killThreadMenu.key "u">
 <!ENTITY killSubthreadMenu.label "Prezri podnit">
 <!ENTITY killSubthreadMenu.accesskey "t">
-<!ENTITY killSubthreadMenu.key "k">
+<!ENTITY killSubthreadMenu.key "u">
 <!ENTITY watchThreadMenu.label "Spremljaj nit">
 <!ENTITY watchThreadMenu.accesskey "l">
 <!ENTITY watchThreadMenu.key "s">
