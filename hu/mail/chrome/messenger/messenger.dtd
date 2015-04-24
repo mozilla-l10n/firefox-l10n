@@ -46,7 +46,7 @@
 <!ENTITY saveAsTemplateCmd.label "Sablon">
 <!ENTITY saveAsTemplateCmd.accesskey "S">
 <!ENTITY getNewMsgForCmd.label "Új üzenetek letöltése a következőről">
-<!ENTITY getNewMsgForCmd.accesskey "k">
+<!ENTITY getNewMsgForCmd.accesskey "z">
 <!ENTITY getAllNewMsgCmdPopupMenu.label "Minden postafiók">
 <!ENTITY getAllNewMsgCmdPopupMenu.accesskey "M">
 <!ENTITY getNewMsgCurrentAccountCmdPopupMenu.label "Aktuális postafiók">
@@ -63,17 +63,17 @@
 <!ENTITY renameFolder.accesskey "a">
 <!ENTITY renameFolder.key "VK_F2">
 <!ENTITY compactFolders.label "Mappák tömörítése">
-<!ENTITY compactFolders.accesskey    "t">
+<!ENTITY compactFolders.accesskey    "s">
 <!ENTITY emptyTrashCmd.label "Törölt elemek mappa ürítése">
 <!ENTITY emptyTrashCmd.accesskey    "r">
 <!ENTITY offlineMenu.label "Kapcsolat nélkül">
-<!ENTITY offlineMenu.accesskey "p">
+<!ENTITY offlineMenu.accesskey "c">
 <!ENTITY offlineGoOfflineCmd.label "Kapcsolat nélküli munka">
 <!ENTITY offlineGoOfflineCmd.accesskey "p">
 <!ENTITY synchronizeOfflineCmd.label "Letöltés/szinkronizálás most…">
 <!ENTITY synchronizeOfflineCmd.accesskey "s">
 <!ENTITY settingsOfflineCmd2.label "Kapcsolat nélküli beállítások">
-<!ENTITY settingsOfflineCmd2.accesskey "K">
+<!ENTITY settingsOfflineCmd2.accesskey "b">
 <!ENTITY downloadSelectedCmd.label "Kijelölt üzenetek letöltése">
 <!ENTITY downloadSelectedCmd.accesskey "K">
 <!ENTITY downloadStarredCmd.label "Csillagozott üzenetek letöltése">
@@ -84,7 +84,7 @@
 <!ENTITY printPreviewCmd.label "Nyomtatási kép">
 <!ENTITY printPreviewCmd.accesskey "t">
 <!ENTITY printSetupCmd.label "Oldalbeállítás…">
-<!ENTITY printSetupCmd.accesskey "l">
+<!ENTITY printSetupCmd.accesskey "O">
 <!-- Edit Menu -->
 
 <!ENTITY deleteMsgCmd.label "Üzenet törlése">
@@ -453,9 +453,9 @@
 <!ENTITY addons.label "Kiegészítők">
 <!ENTITY addons.accesskey "t">
 <!ENTITY activitymanager.label "Tevékenységkezelő">
-<!ENTITY activitymanager.accesskey "T">
+<!ENTITY activitymanager.accesskey "k">
 <!ENTITY imAccountsStatus.label "Csevegési állapot">
-<!ENTITY imAccountsStatus.accesskey "C">
+<!ENTITY imAccountsStatus.accesskey "s">
 <!ENTITY imStatus.available          "Elérhető">
 <!ENTITY imStatus.unavailable        "Elfoglalt">
 <!ENTITY imStatus.offline            "Kapcsolat nélkül">
@@ -472,9 +472,9 @@
 <!ENTITY filtersApplyToSelection.label "Szűrők futtatása a kijelölt üzeneteken">
 <!ENTITY filtersApplyToSelection.accesskey "k">
 <!ENTITY filtersApplyToMessage.label "Szűrők futtatása az üzeneten">
-<!ENTITY filtersApplyToMessage.accesskey "z">
+<!ENTITY filtersApplyToMessage.accesskey "n">
 <!ENTITY runJunkControls.label "A levélszemétgyűjtő futtatása a mappán">
-<!ENTITY runJunkControls.accesskey "f">
+<!ENTITY runJunkControls.accesskey "m">
 <!ENTITY deleteJunk.label "Szemétnek jelöltek törlése a mappából">
 <!ENTITY deleteJunk.accesskey "a">
 <!ENTITY importCmd.label "Importálás…">
