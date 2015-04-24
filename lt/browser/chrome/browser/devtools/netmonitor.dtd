@@ -54,7 +54,7 @@
 <!-- LOCALIZATION NOTE (netmonitorUI.toolbar.waterfall): This is the label displayed
   -  in the network table toolbar, above the "waterfall" column. -->
 
-<!ENTITY netmonitorUI.toolbar.waterfall   "Laiko juosta">
+<!ENTITY netmonitorUI.toolbar.waterfall   "Laiko grafikas">
 <!-- LOCALIZATION NOTE (netmonitorUI.tab.headers): This is the label displayed
   -  in the network details pane identifying the headers tab. -->
 
@@ -145,6 +145,8 @@
 <!ENTITY netmonitorUI.summary.method      "Užklausos metodas:">
 <!-- LOCALIZATION NOTE (netmonitorUI.summary.address): This is the label displayed
   -  in the network details headers tab identifying the remote address. -->
+
+<!ENTITY netmonitorUI.summary.address     "Nuotolinis adresas:">
 <!-- LOCALIZATION NOTE (netmonitorUI.summary.status): This is the label displayed
   -  in the network details headers tab identifying the status code. -->
 
