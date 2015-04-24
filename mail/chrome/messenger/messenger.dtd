@@ -206,7 +206,7 @@
 <!ENTITY sortThreaded.accesskey "P">
 <!ENTITY sortUnthreaded.label "Gjin petearen">
 <!ENTITY sortUnthreaded.accesskey "e">
-<!ENTITY groupBySort.label "Groepearre op soarte">
+<!ENTITY groupBySort.label "Groepearre op sortearing">
 <!ENTITY groupBySort.accesskey "G">
 <!ENTITY msgsMenu.label "Berjochten">
 <!ENTITY msgsMenu.accesskey "B">
