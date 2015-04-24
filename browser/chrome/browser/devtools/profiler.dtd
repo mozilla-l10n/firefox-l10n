@@ -43,11 +43,11 @@
 <!-- LOCALIZATION NOTE (profilerUI.toolbar.*): These strings are displayed
   -  in the toolbar on buttons that select which view is currently shown. -->
 
-<!ENTITY profilerUI.toolbar.waterfall "Laiko juosta">
+<!ENTITY profilerUI.toolbar.waterfall "Laiko grafikas">
 <!ENTITY profilerUI.toolbar.js-calltree "„JavaScript“">
-
+<!ENTITY profilerUI.toolbar.memory-calltree1 "Išskyrimai">
 <!ENTITY profilerUI.toolbar.js-flamegraph "JS liepsnų diagrama">
-
+<!ENTITY profilerUI.toolbar.memory-flamegraph1 "Išskyrimų liepsnų diagrama">
 <!-- LOCALIZATION NOTE (profilerUI.table.*): These strings are displayed
   -  in the call tree headers for a recording. -->
 
@@ -57,16 +57,18 @@
 <!ENTITY profilerUI.table.selfPercentage  "Vidiniai kaštai">
 <!ENTITY profilerUI.table.samples         "Pavyzdžiai">
 <!ENTITY profilerUI.table.function        "Funkcija">
-
-
-
-
+<!ENTITY profilerUI.table.totalAlloc1       "Viso atrinktų išskyrimų">
+<!ENTITY profilerUI.table.totalAllocTooltip "Bendras atrinktų objekto išskyrimų skaičius šioje vietoje ir kreipiniuose.">
+<!ENTITY profilerUI.table.selfAlloc1        "Vidiniai atrinkti išskyrimai">
+<!ENTITY profilerUI.table.selfAllocTooltip  "Atrinktų objekto išskyrimų skaičius šioje vietoje.">
 <!-- LOCALIZATION NOTE (profilerUI.newtab.tooltiptext): The tooltiptext shown
   -  on the "+" (new tab) button for a profile when a selection is available. -->
 
 <!ENTITY profilerUI.newtab.tooltiptext "Pridėti naują kortelę iš pasirinkto intervalo">
 <!-- LOCALIZATION NOTE (profilerUI.toolbar.filter.tooltiptext): This string
   -  is displayed next to the filter button-->
+
+<!ENTITY profilerUI.options.filter.tooltiptext "Pasirinkite, kokius duomenis rodyti laiko grafike">
 <!-- LOCALIZATION NOTE (profilerUI.options.tooltiptext): This is the tooltip
   -  for the options button. -->
 
