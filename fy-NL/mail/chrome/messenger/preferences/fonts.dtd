@@ -71,7 +71,7 @@
 <!ENTITY sendDefaultCharset.label         "Utgeande e-mailberjochten:">
 <!ENTITY sendDefaultCharset.accesskey     "U">
 <!ENTITY languagesTitle2.label            "Tekstkodearing">
-<!ENTITY composingDescriptio2n.label       "Standert tekstkodearing foar ferstjoeren en ûntfangen fan e-mailberjochten">
+<!ENTITY composingDescription2.label       "Standert tekstkodearing foar ferstjoeren en ûntfangen fan e-mailberjochten">
 
 <!ENTITY viewDefaultCharsetList.label     "Ynkommende e-mailberjochten:">
 <!ENTITY viewDefaultCharsetList.accesskey "Y">
