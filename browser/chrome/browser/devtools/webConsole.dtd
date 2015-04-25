@@ -43,7 +43,7 @@
   -  This string and the following strings toggle various kinds of output
   -  filters. -->
 
-<!ENTITY btnPageNet.label   "Net">
+<!ENTITY btnPageNet.label   "Rede">
 <!ENTITY btnPageNet.tooltip "Registar acesso à rede">
 <!ENTITY btnPageNet.accesskey "e">
 <!-- LOCALIZATION NOTE (btnPageNet.accesskeyMacOSX): This string is used as

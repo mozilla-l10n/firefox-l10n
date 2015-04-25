@@ -219,7 +219,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY addons.label                 "Extras">
 <!ENTITY addons.accesskey             "E">
 <!ENTITY addons.commandkey            "A">
-<!ENTITY webapps.label                "Apps">
+<!ENTITY webapps.label                "Aplicações">
 <!ENTITY webapps.accesskey            "p">
 
 <!ENTITY webDeveloperMenu.label       "Programador web">
@@ -278,7 +278,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY devToolbarCloseButton.tooltiptext "Fechar barra de ferramentas do programador">
 <!ENTITY devToolbarMenu.label              "Barra de ferramentas do programador">
-<!ENTITY devToolbarMenu.accesskey          "v">
+<!ENTITY devToolbarMenu.accesskey          "g">
 <!ENTITY devAppMgrMenu.label               "Gestor de aplicações">
 <!ENTITY devAppMgrMenu.accesskey           "a">
 <!ENTITY webide.label                      "WebIDE">
