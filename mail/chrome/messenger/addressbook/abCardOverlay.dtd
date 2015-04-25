@@ -39,7 +39,7 @@
 <!ENTITY FaxNumber.accesskey "к">
 <!ENTITY PagerNumber.label "Пейджер:">
 <!ENTITY PagerNumber.accesskey "й">
-<!ENTITY CellularNumber.label "Сотовый:">
+<!ENTITY CellularNumber.label "Мобильный:">
 <!ENTITY CellularNumber.accesskey "т">
 <!ENTITY Home.tab "Личное">
 <!ENTITY Home.accesskey "ч">
