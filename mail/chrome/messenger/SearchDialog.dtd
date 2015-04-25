@@ -62,7 +62,7 @@
 <!ENTITY threadColumn2.tooltip "Afișează mesajele grupate">
 <!ENTITY fromColumn2.tooltip "Sortează după expeditor">
 <!ENTITY recipientColumn2.tooltip "Sortează după destinatar">
-
+<!ENTITY correspondentColumn2.tooltip "Sortare după corespondenți">
 <!ENTITY subjectColumn2.tooltip "Sortează după subiect">
 <!ENTITY dateColumn2.tooltip "Sortează după dată">
 <!ENTITY priorityColumn2.tooltip "Sortează după prioritate">
