@@ -177,6 +177,8 @@
 <!ENTITY sortByFromCmd.accesskey "D">
 <!ENTITY sortByRecipientCmd.label "Destinatario">
 <!ENTITY sortByRecipientCmd.accesskey "e">
+<!ENTITY sortByCorrespondentCmd.label "Corrispondenti">
+<!ENTITY sortByCorrespondentCmd.accesskey "C">
 <!ENTITY sortByUnreadCmd.label "Letto">
 <!ENTITY sortByUnreadCmd.accesskey "L">
 <!ENTITY sortByOrderReceivedCmd.label "Ordine di ricezione">
@@ -601,6 +603,7 @@
 <!ENTITY threadColumn.label "Discussione">
 <!ENTITY fromColumn.label "Mittente">
 <!ENTITY recipientColumn.label "Destinatario">
+<!ENTITY correspondentColumn.label "Corrispondenti">
 <!ENTITY subjectColumn.label "Oggetto">
 <!ENTITY dateColumn.label "Data">
 <!ENTITY priorityColumn.label "Priorità">
@@ -621,6 +624,7 @@
 <!ENTITY threadColumn2.tooltip "Mostra le discussioni">
 <!ENTITY fromColumn2.tooltip "Ordina per campo 'da'">
 <!ENTITY recipientColumn2.tooltip "Ordina per destinatario">
+<!ENTITY correspondentColumn2.tooltip "Ordina per corrispondenti">
 <!ENTITY subjectColumn2.tooltip "Ordina per oggetto">
 <!ENTITY dateColumn2.tooltip "Ordina per data">
 <!ENTITY priorityColumn2.tooltip "Ordina per priorità">
