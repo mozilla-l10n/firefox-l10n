@@ -5,10 +5,10 @@
 <!ENTITY folderProps.windowtitle.label           "الخصائص">
 
 <!ENTITY generalInfo.label                       "معلومات عامة">
-
-
-
-
+<!ENTITY folderCharsetFallback2.label            "ترميز النص الاحتياطي:">
+<!ENTITY folderCharsetFallback2.accesskey        "ت">
+<!ENTITY folderCharsetEnforce2.label             "طبّق الترميز على كل الرسائل في المجلد (سيتجاهل إعدادات الترميز المستقلة لكل رسالة و كذلك الاكتشاف التلقائي)">
+<!ENTITY folderCharsetEnforce2.accesskey         "ط">
 <!ENTITY folderRebuildSummaryFileTip2.label      "أعد بناء فهرس ملف الملخص">
 <!ENTITY folderRebuildSummaryFile2.label         "أصلِح المجلد">
 <!ENTITY folderRebuildSummaryFile2.accesskey     "ص">
