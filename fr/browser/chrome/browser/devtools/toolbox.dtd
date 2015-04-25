@@ -188,8 +188,8 @@
 <!ENTITY options.sourceeditor.label                     "Préférences de l'éditeur">
 <!ENTITY options.sourceeditor.detectindentation.label   "Détecter l'indentation">
 <!ENTITY options.sourceeditor.detectindentation.tooltip "Déduire l'indentation d'après le contenu source">
-<!ENTITY options.sourceeditor.autoclosebrackets.label   "Fermer automatiquement les parenthèses">
-<!ENTITY options.sourceeditor.autoclosebrackets.tooltip "Insérer automatiquement les parenthèses fermantes">
+<!ENTITY options.sourceeditor.autoclosebrackets.label   "Fermer automatiquement les parenthèses et les accolades">
+<!ENTITY options.sourceeditor.autoclosebrackets.tooltip "Insérer automatiquement les parenthèses et les accolades fermantes">
 <!ENTITY options.sourceeditor.expandtab.label           "Indenter à l'aide d'espaces">
 <!ENTITY options.sourceeditor.expandtab.tooltip         "Utiliser des espaces à la place du caractère tabulation">
 <!ENTITY options.sourceeditor.tabsize.label             "Taille de la tabulation">
