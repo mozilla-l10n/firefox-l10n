@@ -571,7 +571,6 @@
 <!ENTITY pluginNotification.width "30em">
 <!ENTITY uiTour.infoPanel.close "Закрыть">
 <!ENTITY appMenuSidebars.label "Боковые панели">
-<!ENTITY switchToMetroCmd2.label "Перезапустить &brandShortName; в стиле Windows 8">
 <!ENTITY panicButton.view.mainTimeframeDesc "Забыть о последних:">
 <!ENTITY panicButton.view.5min "Пяти минутах">
 <!ENTITY panicButton.view.2hr "Двух часах">

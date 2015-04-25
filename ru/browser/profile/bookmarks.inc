@@ -37,9 +37,4 @@
 # link title for http://www.mozilla.com/ru/firefox/about/
 #define firefox_about О нас
 
-# LOCALIZATION NOTE (firefox_feedback):
-# link title for browser feedback page
-# currently used by Metro only: https://input.mozilla.org/feedback/metrofirefox
-#define firefox_feedback Отправить отзыв
-
 #unfilter emptyLines
