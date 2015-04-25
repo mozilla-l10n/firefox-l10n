@@ -40,7 +40,7 @@
 <!ENTITY PagerNumber.label "Пейджер:">
 <!ENTITY PagerNumber.accesskey "й">
 <!ENTITY CellularNumber.label "Мобильный:">
-<!ENTITY CellularNumber.accesskey "т">
+<!ENTITY CellularNumber.accesskey "ы">
 <!ENTITY Home.tab "Личное">
 <!ENTITY Home.accesskey "ч">
 <!ENTITY HomeAddress.label "Адрес:">
