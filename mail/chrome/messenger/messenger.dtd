@@ -192,8 +192,8 @@
 <!ENTITY sortByFromCmd.accesskey "م">
 <!ENTITY sortByRecipientCmd.label "المُستقبِل">
 <!ENTITY sortByRecipientCmd.accesskey "ق">
-
-
+<!ENTITY sortByCorrespondentCmd.label "المراسلين">
+<!ENTITY sortByCorrespondentCmd.accesskey "س">
 <!ENTITY sortByUnreadCmd.label "مقروء">
 <!ENTITY sortByUnreadCmd.accesskey "ق">
 <!ENTITY sortByOrderReceivedCmd.label "ترتيب التلقي">
@@ -660,7 +660,7 @@
 <!ENTITY threadColumn.label "نقاش">
 <!ENTITY fromColumn.label "مِن">
 <!ENTITY recipientColumn.label "المستلِم">
-
+<!ENTITY correspondentColumn.label "المراسلين">
 <!ENTITY subjectColumn.label "الموضوع">
 <!ENTITY dateColumn.label "التاريخ">
 <!ENTITY priorityColumn.label "الأولويّة">
@@ -683,7 +683,7 @@
 <!ENTITY threadColumn2.tooltip "اعرض سلاسل الرسائل">
 <!ENTITY fromColumn2.tooltip "رتّب حسب المُرسِل">
 <!ENTITY recipientColumn2.tooltip "رتّب حسب المستقبِل">
-
+<!ENTITY correspondentColumn2.tooltip "رتب حسب المراسلين">
 <!ENTITY subjectColumn2.tooltip "رتّب حسب الموضوع">
 <!ENTITY dateColumn2.tooltip "رتّب حسب التاريخ">
 <!ENTITY priorityColumn2.tooltip "رتّب حسب الأولوية">

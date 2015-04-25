@@ -16,7 +16,7 @@
 <!ENTITY allowHWAccel.accesskey        "ع">
 <!ENTITY storeType.label               "طريقة تخزين الرسائل للحسابات الجديدة:">
 <!ENTITY storeType.accesskey           "خ">
-
+<!ENTITY mboxStore2.label              "ملف لكل مجلد (mbox)">
 <!ENTITY maildirStore.label            "ملف لكل رسالة (maildir)">
 
 <!ENTITY scrolling.label               "اللف">

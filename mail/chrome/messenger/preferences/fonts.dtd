@@ -70,10 +70,10 @@
 
 <!ENTITY sendDefaultCharset.label         "البريد الصادر:">
 <!ENTITY sendDefaultCharset.accesskey     "ص">
-
-
+<!ENTITY languagesTitle2.label            "ترميز النص">
+<!ENTITY composingDescription2.label      "حدد ترميز النص المبدئي لإرسال واستقبال البريد">
 
 <!ENTITY viewDefaultCharsetList.label     "البريد الوارد:">
 <!ENTITY viewDefaultCharsetList.accesskey  "و">
-
-
+<!ENTITY replyInDefaultCharset3.label     "استخدم ترميز النص المبدئي في الردود عند الإمكان">
+<!ENTITY replyInDefaultCharset3.accesskey "ز">
