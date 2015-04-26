@@ -113,7 +113,7 @@
 <!ENTITY offlineAppRemove.confirm        "Oflayn ma`lumotlarni oʻchirish">
 
 <!ENTITY certificateTab.label            "Sertifikatlar">
-
+<!ENTITY certSelection.label             "So‘rovlar">
 <!ENTITY certSelection.description       "Server mening shaxsiy sertifikatimni soʻraganda:">
 <!ENTITY certs.auto                      "Avtomatik bittasini tanlash">
 <!ENTITY certs.auto.accesskey            "S">

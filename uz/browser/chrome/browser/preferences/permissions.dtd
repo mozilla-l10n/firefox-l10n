@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY window.title                 "Istisnolar">
-
+<!ENTITY window.width                 "45em">
 
 <!ENTITY treehead.sitename.label      "Sayt">
 <!ENTITY treehead.status.label        "Holati">
@@ -23,6 +23,6 @@
 
 <!ENTITY button.cancel.label          "Bekor qilish">
 <!ENTITY button.cancel.accesskey      "B">
-
-
+<!ENTITY button.ok.label              "O‘zgarishlarni saqlash">
+<!ENTITY button.ok.accesskey          "s">
 

@@ -63,9 +63,10 @@
 <!ENTITY  allowPagesToUse.label                   "Sahifalarga oʻzlarining shriftlarini tanlashga ruxst berish">
 <!ENTITY  allowPagesToUse.accesskey               "t">
 
-
-
-
+<!ENTITY languages.customize.Fallback2.grouplabel "Legacy Content uchun matnni kodlash usuli">
+<!ENTITY languages.customize.Fallback2.label      "Kodlash usulini zahiraga olish:">
+<!ENTITY languages.customize.Fallback2.accesskey  "z">
+<!ENTITY languages.customize.Fallback2.desc       "Ushbu kodlash kodlash usuli noma’lum bo‘lgan holatlar uchun ishlatiladi.">
 
 <!ENTITY languages.customize.Fallback.auto        "Joriy til uchun standart">
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.arabic):

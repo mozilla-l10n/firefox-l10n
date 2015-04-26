@@ -22,7 +22,7 @@
 <!ENTITY  generalReferrer       "Keltirilgan URL:">
 <!ENTITY  generalSource         "Kesh manbasi:">
 <!ENTITY  generalModified       "O‘zgartirilgan:">
-
+<!ENTITY  generalEncoding2      "Matnni kodlash usuli:">
 <!ENTITY  generalMetaName       "Nomi">
 <!ENTITY  generalMetaContent    "Tarkibi">
 

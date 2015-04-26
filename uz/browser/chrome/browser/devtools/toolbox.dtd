@@ -25,6 +25,8 @@
 <!ENTITY toolboxFramesTooltip          "Joriy mo‘ljaldagi hujjat sifatida iframe’ni tanlang">
 <!-- LOCALIZATION NOTE (browserToolboxErrorMessage): This is the label
   -  shown next to error details when the Browser Toolbox is unable to open. -->
+
+<!ENTITY browserToolboxErrorMessage          "Brauzer asboblar panelini ochishda xatolik:">
 <!-- LOCALIZATION NOTE (options.context.advancedSettings): This is the label for
   -  the heading of the advanced settings group in the options panel. -->
 
@@ -75,6 +77,8 @@
   -  checkbox that toggles chrome debugging, i.e. devtools.chrome.enabled
   -  boolean preference in about:config, in the options panel. -->
 
+<!ENTITY options.enableChrome.label5    "Brauzer xromi va  asboblar panelini tuzatish qo‘shimcha dasturlarini yoqing">
+<!ENTITY options.enableChrome.tooltip3  "Ushbu moslamani yoqish brauzer kontektstida turli xil dasturlar vositalaridan foydalanish (Asboblar > Veb dasturchi > Brazuer asboblar paneli orqali) va &quot;Qo‘shimcha dasturlarni boshqarish&quot;dan qo‘shimcha dasturlarni tuzatishga ruxsat beradi">
 <!-- LOCALIZATION NOTE (options.enableRemote.label3): This is the label for the
   -  checkbox that toggles remote debugging, i.e. devtools.debugger.remote-enabled
   -  boolean preference in about:config, in the options panel. -->
@@ -96,6 +100,8 @@
 <!-- LOCALIZATION NOTE (options.enableServiceWorkersTesting.label,
   -  options.enableServiceWorkersTesting.tooltip): This is the options panel label and
   -  tooltip for the checkbox that toggles the service workers testing features on or off. -->
+
+<!ENTITY options.enableServiceWorkersTesting.label     "Xizmat ishchilari sinash xususiyatlarini yoqib qo‘yadi (asboblar paneli ochiq bo‘lganda)">
 
 <!-- LOCALIZATION NOTE (options.selectDefaultTools.label): This is the label for
   -  the heading of group of checkboxes corresponding to the default developer

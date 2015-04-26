@@ -5,9 +5,9 @@
 
 <!ENTITY newtab.pageTitle "Yangi ichki oyna">
 <!ENTITY newtab.customize.title "Yangi ichki oyna sahifasini qulaylashtirish">
-
-
-
+<!ENTITY newtab.customize.suggested "Tavsiya qilingan va yuqori reytingli saytlaringizni ko‘rsatish">
+<!ENTITY newtab.customize.topsites "Yuqori reytingli saytlarigizni ko‘rsatish">
+<!ENTITY newtab.customize.blank2 "Bo‘sh sahifa ko‘rsatilsin">
 <!ENTITY newtab.customize.what "Bu qanday sahifa?">
 <!ENTITY newtab.intro.header "Bu qanday sahifa?">
 <!ENTITY newtab.undo.removedLabel "Nishoncha olib tashlandi.">
