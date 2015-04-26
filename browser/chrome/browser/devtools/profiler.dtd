@@ -67,6 +67,8 @@
 <!ENTITY profilerUI.newtab.tooltiptext "Gehitu fitxa berria hautapenetik">
 <!-- LOCALIZATION NOTE (profilerUI.toolbar.filter.tooltiptext): This string
   -  is displayed next to the filter button-->
+
+<!ENTITY profilerUI.options.filter.tooltiptext "Hautatu denbora-lerroan bistaratu beharreko datuak">
 <!-- LOCALIZATION NOTE (profilerUI.options.tooltiptext): This is the tooltip
   -  for the options button. -->
 
