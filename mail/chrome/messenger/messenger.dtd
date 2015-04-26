@@ -29,7 +29,7 @@
 <!ENTITY newCreateEmailAccountCmd.label "Új postafiók létrehozása…">
 <!ENTITY newCreateEmailAccountCmd.accesskey "o">
 <!ENTITY newExistingEmailAccountCmd.label "Meglévő postafiók…">
-<!ENTITY newExistingEmailAccountCmd.accesskey "M">
+<!ENTITY newExistingEmailAccountCmd.accesskey "a">
 <!ENTITY newIMAccountCmd.label "Csevegőfiók…">
 <!ENTITY newIMAccountCmd.accesskey "C">
 <!ENTITY newFeedAccountCmd.label "Hírforrásfiók…">
@@ -148,7 +148,7 @@
 <!ENTITY showFolderPaneColsCmd.label "Mappa ablaktábla oszlopai">
 <!ENTITY showFolderPaneColsCmd.accesskey "o">
 <!ENTITY showMessageCmd.label "Üzenetablak">
-<!ENTITY showMessageCmd.accesskey "Ü">
+<!ENTITY showMessageCmd.accesskey "z">
 
 <!ENTITY folderView.label "Mappák">
 <!ENTITY folderView.accesskey "a">
@@ -163,7 +163,7 @@
 <!ENTITY recentFolders.label "Nemrég használt">
 <!ENTITY recentFolders.accesskey "N">
 <!ENTITY compactVersion.label "Tömör nézet">
-<!ENTITY compactVersion.accesskey "C">
+<!ENTITY compactVersion.accesskey "T">
 <!-- Sort Menu -->
 
 <!ENTITY sortMenu.label "Rendezés">
