@@ -571,7 +571,6 @@
 <!ENTITY pluginNotification.width "28em">
 <!ENTITY uiTour.infoPanel.close "Cerrar">
 <!ENTITY appMenuSidebars.label "Barras laterales">
-<!ENTITY switchToMetroCmd2.label "Relanzar en &brandShortName; para Windows 8 táctil">
 <!ENTITY panicButton.view.mainTimeframeDesc "Olvidar:">
 <!ENTITY panicButton.view.5min "últimos 5 minutos">
 <!ENTITY panicButton.view.2hr "últimas 2 horas">
