@@ -42,6 +42,7 @@
 <!ENTITY url_bar_default_text2 "검색어 또는 주소를 입력하세요">
 
 <!ENTITY bookmark "북마크">
+<!ENTITY bookmark_remove "북마크 삭제">
 <!ENTITY bookmark_added "북마크 추가">
 <!ENTITY bookmark_removed "북마크 삭제">
 <!ENTITY bookmark_updated "북마크 업데이트">
@@ -79,6 +80,7 @@
 <!ENTITY pref_category_advanced "고급">
 <!ENTITY pref_category_customize "사용자 설정">
 <!ENTITY pref_category_customize_summary "홈, 검색, 탭, 가져오기">
+<!ENTITY pref_category_customize_alt_summary "홈, 검색, 탭, 나중에 열기, 가져오기">
 
 <!-- Localization note (pref_category_language) : This is the preferences
      section in which the user picks the locale in which to display Firefox
@@ -114,6 +116,17 @@
 <!ENTITY overlay_share_no_url "공유 할 링크가 없음">
 <!ENTITY overlay_share_retry "다시 시도">
 <!ENTITY overlay_share_select_device "기기 선택">
+<!-- Localization note (overlay_no_synced_devices) : Used when the menu option
+     to send a tab to a synced device is pressed and no other synced devices
+     are found. -->
+<!ENTITY overlay_no_synced_devices "Firefox 계정에 연결 된 기기 없음">
+<!-- Localization note (overlay_share_tab_not_sent) : Used when the menu option
+     to send a tab to a synced device is pressed and there is an error
+     connecting to the server so the tab could not be sent. The text should be
+     divided into two lines (use the newline escape character, "\n", between
+     them): the first notifying the user about the failure and the second
+     telling the user what to do about it. -->
+<!ENTITY overlay_share_tab_not_sent "탭을 보낼 수 없습니다.\n다시 시도해보시기 바랍니다.">
 
 <!ENTITY pref_category_search3 "검색">
 <!ENTITY pref_category_search_summary "검색 엔진 커스터마이즈">
@@ -140,7 +153,9 @@
 <!ENTITY pref_category_devtools_summary "원격 디버깅, 그려진 자리 보이기">
 <!ENTITY pref_developer_paint_flashing "그려진 자리 보이기">
 <!ENTITY pref_developer_remotedebugging "원격 디버깅">
+<!ENTITY pref_category_logins "로그인">
 <!ENTITY pref_remember_signons "암호 저장">
+<!ENTITY pref_manage_logins "로그인 관리">
 
 <!ENTITY pref_category_home "홈">
 <!ENTITY pref_category_home_summary "홈페이지 커스터마이즈">
@@ -178,6 +193,23 @@
 <!ENTITY pref_tracking_protection_summary "&brandShortName;가 사이트의 추적을 차단합니다">
 <!ENTITY pref_donottrack_title "추적 중지">
 <!ENTITY pref_donottrack_summary "&brandShortName;가 사이트들에 방문자 추적 중지 요청을 합니다.">
+
+<!ENTITY tab_queue_toast_message "나중에 열기">
+<!ENTITY tab_queue_toast_action "지금 열기">
+<!-- Localization note (tab_queue_notification_text_plural) : The
+     formatD is replaced with the number of tabs queued.  The
+     number of tabs queued is always more than one.  We can't use
+     Android plural forms, sadly. See Bug #753859. -->
+<!ENTITY tab_queue_notification_text_plural "&formatD;개 탭 예약">
+<!-- Localization note (tab_queue_notification_title_plural) : This is the
+     title of a notification; we expect more than one tab queued. -->
+<!ENTITY tab_queue_notification_title_plural "예약된 탭">
+<!-- Localization note (tab_queue_notification_title_singular) : This is the
+     title of a notification; we expect only one tab queued. -->
+<!ENTITY tab_queue_notification_title_singular "예약된 탭">
+<!-- Localization note (tab_queue_notification_text_singular) : This is the
+     text of a notification; we expect only one tab queued. -->
+<!ENTITY tab_queue_notification_text_singular "1개 탭 예약">
 
 <!ENTITY pref_char_encoding "문자 인코딩 표시">
 <!ENTITY pref_char_encoding_on "메뉴 보기">
@@ -273,7 +305,7 @@ demonstrate the font size setting.  It is meant to be whimsical and fun. -->
      (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
 <!ENTITY datareporting_crashreporter_title_short "오류 보고서">
 <!ENTITY datareporting_wifi_title2 "&vendorShortName; 위치 기반 서비스">
-<!ENTITY datareporting_wifi_geolocation_summary3 "&vendorShortName;가 더 나은 지도를 만들고자 합니다! 위치 기반 서비스 품질 향상을 위해 대략적인 Wi-Fi와 셀룰러 위치 데이터를 공유해주세요">
+<!ENTITY datareporting_wifi_geolocation_summary4 "&vendorShortName;가 더 나은 지도를 만들고자 합니다! 위치 기반 서비스 품질 향상을 위해 대략적인 Wi-Fi와 셀룰러 위치 데이터를 공유해주세요.">
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
      actual notification that an update is available. -->
@@ -288,6 +320,7 @@ demonstrate the font size setting.  It is meant to be whimsical and fun. -->
 <!ENTITY quit "종료">
 
 <!ENTITY addons "부가 기능">
+<!ENTITY logins "로그인">
 <!ENTITY downloads "다운로드">
 <!ENTITY apps "앱">
 <!ENTITY char_encoding "문자 인코딩">
@@ -341,6 +374,16 @@ demonstrate the font size setting.  It is meant to be whimsical and fun. -->
 <!ENTITY contextmenu_top_sites_unpin "사이트 고정 해제">
 <!ENTITY contextmenu_add_search_engine "검색엔진 추가">
 
+
+<!-- Localization note (doorhanger_login_no_username): This string is used in the save-login doorhanger
+     where normally a username would be displayed. In this case, no username was found, and this placeholder
+     contains brackets to indicate this is not actually a username, but rather a placeholder -->
+<!ENTITY doorhanger_login_no_username "[사용자명 없음]">
+<!ENTITY doorhanger_login_edit_title "로그인 수정">
+<!ENTITY doorhanger_login_edit_username_hint "사용자명">
+<!ENTITY doorhanger_login_edit_password_hint "암호">
+<!ENTITY doorhanger_login_edit_toggle "암호 보이기">
+
 <!ENTITY pref_titlebar_mode "제목창">
 <!ENTITY pref_titlebar_mode_title "페이지 제목 표시">
 <!ENTITY pref_titlebar_mode_url "페이지 주소 표시">
@@ -349,6 +392,9 @@ demonstrate the font size setting.  It is meant to be whimsical and fun. -->
      whether or not the dynamic toolbar is enabled. -->
 <!ENTITY pref_scroll_title_bar2 "전체 화면 브라우징">
 <!ENTITY pref_scroll_title_bar_summary "페이지를 스크롤 할 때 &brandShortName; 제목창을 숨깁니다">
+
+<!ENTITY pref_tab_queue_title "나중에 열기">
+<!ENTITY pref_tab_queue_summary "탭을 지금 열지 않고, 예약된 탭들을 다음번 &brandShortName;가 실행 될 때 한번에 엽니다.">
 
 <!-- Localization note (page_removed): This string appears in a toast message when
      any page is removed frome about:home. This includes pages that are in history,
@@ -396,6 +442,7 @@ demonstrate the font size setting.  It is meant to be whimsical and fun. -->
 <!ENTITY button_clear_data "데이터 삭제">
 <!ENTITY button_set "설정">
 <!ENTITY button_clear "지우기">
+<!ENTITY button_remember "기억하기">
 
 <!ENTITY home_top_sites_title "상위 사이트">
 <!-- Localization note (home_top_sites_add): This string is used as placeholder
@@ -513,6 +560,14 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY bookmarkhistory_import_wait "잠시 기다리세요…">
 
 <!ENTITY suggestions_prompt3 "검색 자동완성을 사용하시겠습니까?">
+
+<!--  Localization note (search_bar_item_desc): When the user clicks the url bar
+      and starts typing, a list of icons of search engines appears at the bottom
+      of the screen. When a user clicks an icon, the entered text will be searched
+      via the search engine that uses the icon they clicked. This text is used
+      for screen reader users when they hover each icon - &formatS; will be
+      replaced with the name of the currently highlighted icon. -->
+<!ENTITY search_bar_item_desc "&formatS;에서 검색">
 
 <!-- Localization note (suggestion_for_engine): The placeholder &formatS1; will be
      replaced with the name of the search engine. The placeholder &formatS2; will be
