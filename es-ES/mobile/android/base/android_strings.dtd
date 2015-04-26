@@ -73,7 +73,6 @@
 <!ENTITY overlay_share_send_other "Enviar a otros dispositivos">
 <!ENTITY overlay_share_send_tab_btn_label "Enviar a otro dispositivo">
 <!ENTITY overlay_share_no_url "No se ha encontrado enlace en esta compartición">
-<!ENTITY overlay_share_retry "Reintentar">
 <!ENTITY overlay_share_select_device "Seleccione dispositivo">
 <!ENTITY overlay_no_synced_devices "No se han encontrado dispositivos conectados a Firefox Accounts">
 <!ENTITY overlay_share_tab_not_sent "No se ha podido enviar su pestaña.\nVuelva a intentarlo más tarde.">
@@ -127,17 +126,16 @@
 <!ENTITY pref_tracking_protection_summary "&brandShortName; impedirá que los sitios le rastreen">
 <!ENTITY pref_donottrack_title "No rastrear">
 <!ENTITY pref_donottrack_summary "&brandShortName; indicará a los sitios que no quiere ser rastreado">
-<!ENTITY tab_queue_toast_message "Abrir más tarde">
+<!ENTITY tab_queue_toast_message2 "Pestaña encolada en &brandShortName;">
 <!ENTITY tab_queue_toast_action "Abrir ahora">
 <!ENTITY tab_queue_prompt_title "¿Abrir múltiples enlaces?">
-<!ENTITY tab_queue_prompt_text "Abrirlos sin cambiar a Firefox cada vez.">
+<!ENTITY tab_queue_prompt_text2 "Abrirlos sin cambiar a &brandShortName; cada vez.">
 <!ENTITY tab_queue_prompt_tip_text "puede cambiar esto más tarde en los ajustes">
 <!ENTITY tab_queue_prompt_positive_action_button "Activar">
 <!ENTITY tab_queue_prompt_negative_action_button "Ahora no">
-<!ENTITY tab_queue_notification_text_plural "&formatD; pestañas en cola">
-<!ENTITY tab_queue_notification_title_plural "Pestañas en cola">
-<!ENTITY tab_queue_notification_title_singular "Pestaña en cola">
-<!ENTITY tab_queue_notification_text_singular "1 pestaña en cola">
+<!ENTITY tab_queue_notification_title "&brandShortName;">
+<!ENTITY tab_queue_notification_text_plural2 "&formatD; pestañas en espera">
+<!ENTITY tab_queue_notification_text_singular2 "1 pestaña en espera">
 <!ENTITY pref_char_encoding "Mostrar cod. de caract.">
 <!ENTITY pref_char_encoding_on "Mostrar el menú">
 <!ENTITY pref_char_encoding_off "No mostrar el menú">
@@ -272,8 +270,8 @@
 <!ENTITY pref_titlebar_mode_url "Mostrar la dirección de la página">
 <!ENTITY pref_scroll_title_bar2 "Navegación en pantalla completa">
 <!ENTITY pref_scroll_title_bar_summary "Ocultar la barra de título de &brandShortName; al bajar por una página">
-<!ENTITY pref_tab_queue_title "Abrir más tarde">
-<!ENTITY pref_tab_queue_summary "Evitar que las pestañas se abran inmediatamente, pero abrir todas las pestañas en secuencia la próxima vez que se cargue &brandShortName;.">
+<!ENTITY pref_tab_queue_title2 "Abrir múltiples enlaces">
+<!ENTITY pref_tab_queue_summary2 "Poner en cola los enlaces para más tarde, en lugar de cambiar a &brandShortName; cada vez">
 <!ENTITY page_removed "Página eliminada">
 <!ENTITY bookmark_edit_title "Editar marcador">
 <!ENTITY bookmark_edit_name "Nombre">
@@ -302,6 +300,7 @@
 <!ENTITY button_set "Configurar">
 <!ENTITY button_clear "Limpiar">
 <!ENTITY button_remember "Recordar">
+<!ENTITY firstrun_panel_title_welcome "Bienvenido">
 <!ENTITY home_top_sites_title "Frecuentes">
 <!ENTITY home_top_sites_add "Añadir un sitio">
 <!ENTITY home_title "Página de inicio de &brandShortName;">
