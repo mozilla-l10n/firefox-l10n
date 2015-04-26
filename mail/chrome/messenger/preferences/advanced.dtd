@@ -14,7 +14,7 @@
 <!ENTITY allowHWAccel.accesskey "h">
 <!ENTITY storeType.label "Modalità di salvataggio dei messaggi per i nuovi account:">
 <!ENTITY storeType.accesskey "T">
-<!ENTITY mboxStore.label "Un unico file (mbox)">
+<!ENTITY mboxStore2.label "File per folder (mbox)">
 <!ENTITY maildirStore.label "Un file per ogni messaggio (maildir)">
 <!ENTITY scrolling.label "Scrolling">
 <!ENTITY useAutoScroll.label "Utilizza lo scorrimento automatico">
