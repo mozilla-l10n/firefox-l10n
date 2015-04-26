@@ -59,7 +59,7 @@
 <p>Los sitios atacantes intentan instalar programas que roban información privada, usan su equipo para atacar a otros, o dañan su sistema.</p>
 <p>Los propietarios de sitios web que creen que su sitio ha sido identificado erróneamente como sitio atacante pueden <a href='http://www.stopbadware.org/home/reviewinfo' >solicitar una revisión</a>.</p>
 ">
-<!ENTITY unwantedBlocked.title "¡Sitio sospecho de software no deseado!">
+<!ENTITY unwantedBlocked.title "¡Sitio sospechoso de servir software no deseado!">
 <!ENTITY unwantedBlocked.longDesc "
 <p>Las páginas con software no deseado intentan instalar software que puede aparentar hacer algo diferente a lo que hace y afectar a su sistema de manera no esperada.</p>
 ">
