@@ -25,6 +25,8 @@
 <!ENTITY toolboxFramesTooltip          "Hautatu iframe bat uneko helburu-dokumentu gisa">
 <!-- LOCALIZATION NOTE (browserToolboxErrorMessage): This is the label
   -  shown next to error details when the Browser Toolbox is unable to open. -->
+
+<!ENTITY browserToolboxErrorMessage          "Errorea nabigatzailearen tresna-kutxa irekitzean">
 <!-- LOCALIZATION NOTE (options.context.advancedSettings): This is the label for
   -  the heading of the advanced settings group in the options panel. -->
 
@@ -74,6 +76,8 @@
 <!-- LOCALIZATION NOTE (options.enableChrome.label4): This is the label for the
   -  checkbox that toggles chrome debugging, i.e. devtools.chrome.enabled
   -  boolean preference in about:config, in the options panel. -->
+
+<!ENTITY options.enableChrome.label5    "Gaitu nabigatzailearen interfazea eta gehigarriak arazteko tresna-kutxak">
 
 <!-- LOCALIZATION NOTE (options.enableRemote.label3): This is the label for the
   -  checkbox that toggles remote debugging, i.e. devtools.debugger.remote-enabled
