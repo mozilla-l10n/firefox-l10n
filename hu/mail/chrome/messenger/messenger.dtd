@@ -88,7 +88,7 @@
 <!-- Edit Menu -->
 
 <!ENTITY deleteMsgCmd.label "Üzenet törlése">
-<!ENTITY deleteMsgCmd.accesskey "r">
+<!ENTITY deleteMsgCmd.accesskey "z">
 <!ENTITY undeleteMsgCmd.label "Törölt üzenet visszaállítása">
 <!ENTITY undeleteMsgCmd.accesskey "v">
 <!ENTITY deleteMsgsCmd.label "Kijelölt üzenetek törlése">
@@ -266,7 +266,7 @@
 <!-- Search Menu -->
 
 <!ENTITY findMenu.label "Keresés">
-<!ENTITY findMenu.accesskey "e">
+<!ENTITY findMenu.accesskey "s">
 <!ENTITY findCmd.label "Keresés ebben az üzenetben…">
 <!ENTITY findCmd.accesskey "K">
 <!ENTITY findCmd.key "f">
