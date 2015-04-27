@@ -10,6 +10,7 @@
 
 <!ENTITY aboutTelemetry.generalDataSection "  Roadennoù hollek">
 
+<!ENTITY aboutTelemetry.telemetryLogSection "  Kerzhlevr Telemetry">
 
 <!ENTITY aboutTelemetry.slowSqlSection "  Azgoulennoù SQL gorrek">
 
