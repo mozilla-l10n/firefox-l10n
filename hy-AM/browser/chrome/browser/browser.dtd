@@ -86,7 +86,7 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY toolbarContextMenu.reloadAllTabs.accesskey "բ">
 <!ENTITY toolbarContextMenu.bookmarkAllTabs.label "Էջանշել բոլոր ներդիրները...">
 <!ENTITY toolbarContextMenu.bookmarkAllTabs.accesskey "ն">
-<!ENTITY toolbarContextMenu.undoCloseTab.label "Հետարկել փակված ներդիրը">
+<!ENTITY toolbarContextMenu.undoCloseTab.label "Հետարկել փակված էջը">
 <!ENTITY toolbarContextMenu.undoCloseTab.accesskey "Հ">
 
 <!ENTITY pageSourceCmd.label "Դիտել Էջի Կոդը">
@@ -564,8 +564,8 @@ items are mutually exclusive. -->
 <!ENTITY mediaShowControls.accesskey "Ց">
 <!ENTITY mediaHideControls.label     "Թաքցնել ղեկավարիչները">
 <!ENTITY mediaHideControls.accesskey "Թ">
-<!ENTITY videoFullScreen.label       "Բացել Լիաէկրան ">
-<!ENTITY videoFullScreen.accesskey   "Բ">
+<!ENTITY videoFullScreen.label       "Լիաէկրան ռեժիմ">
+<!ENTITY videoFullScreen.accesskey   "Լ">
 <!ENTITY videoSaveImage.label        "Պահպանել մանրապատկերը որպես...">
 <!ENTITY videoSaveImage.accesskey    "Պ">
 <!-- LOCALIZATION NOTE: The access keys for "Show Statistics" and
@@ -597,7 +597,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fullZoomResetCmd.label         "Վերակայել">
 <!ENTITY fullZoomResetCmd.accesskey     "Վ">
 <!ENTITY fullZoomResetCmd.commandkey    "0">
-<!ENTITY fullZoomResetCmd.commandkey2   "">
+<!ENTITY fullZoomResetCmd.commandkey2   "0">
 
 <!ENTITY fullZoomToggleCmd.label        "Խոշորացնել Միայն Տեքստը">
 <!ENTITY fullZoomToggleCmd.accesskey    "Մ">
