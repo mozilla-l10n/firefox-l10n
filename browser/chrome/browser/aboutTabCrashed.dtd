@@ -2,7 +2,9 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-
+<!ENTITY tabCrashed.header "മോശം വാര്‍ത്ത ആദ്യം: ഈ ടാബ് ക്രാഷായിരിക്കുന്നു">
+<!ENTITY tabCrashed.message "ഇനി ശുഭവാര്‍ത്ത: നിങ്ങള്‍ക്ക് ഈ ടാബ് അടച്ചതിനു ശേഷം, ഈ ടാബ് മാത്രമായോ എല്ലാ ക്രാഷായ ടാബുകളും ചേര്‍ത്തോ പുനഃസ്ഥാപിക്കാം.">
+<!ENTITY tabCrashed.sendReport "ഒരു ക്രാഷ് റിപ്പോര്‍ട്ട് നല്‍കിയാല്‍ മോശം വാര്‍ത്തകള്‍ ഇനി കുറക്കാം">
 
 <!ENTITY tabCrashed.closeTab "ഈ ടാബ് അടക്കൂ">
 <!ENTITY tabCrashed.restoreTab "ഈ ടാബ് പുനഃസ്ഥാപിക്കൂ">

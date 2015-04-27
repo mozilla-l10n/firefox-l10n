@@ -30,6 +30,8 @@
 <!ENTITY profilerUI.exportButton "സൂക്ഷിക്കുക">
 <!-- LOCALIZATION NOTE (profilerUI.clearButton): This string is displayed
   -  on a button that remvoes all the recordings. -->
+
+<!ENTITY profilerUI.clearButton "വൃത്തിയാക്കുക">
 <!-- LOCALIZATION NOTE (profilerUI.toolbar.*): These strings are displayed
   -  in the toolbar on buttons that select which view is currently shown. -->
 
@@ -43,9 +45,9 @@
 
 <!ENTITY profilerUI.table.totalDuration2  "മൊത്തം സമയം">
 
+<!ENTITY profilerUI.table.totalPercentage "മൊത്തം വില">
 
-
-
+<!ENTITY profilerUI.table.samples         "മാതൃകകള്‍">
 
 
 

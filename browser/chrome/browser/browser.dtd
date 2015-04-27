@@ -145,6 +145,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (findShareServices.label):
   -  Use the unicode ellipsis char, \u2026,
   -  or use "..." if \u2026 doesn't suit traditions in your locale. -->
+<!ENTITY findShareServices.label "കൂടുതല്‍ പങ്കിടല്‍ സേവനങ്ങള്‍ കണ്ടെത്തൂ...">
 <!ENTITY sharePageCmd.label "ഈ താള്‍ പങ്കു് വയ്ക്കുക">
 <!ENTITY sharePageCmd.commandkey "S">
 <!ENTITY sharePageCmd.accesskey "ഈ">
@@ -717,9 +718,9 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY social.learnMore.accesskey "ത">
 <!ENTITY social.closeNotificationItem.label "ഇപ്പോള്‍ അല്ല ">
 
-
+<!ENTITY social.directory.text "ഈ ഡയറക്ടറിയില്‍ നിന്നും പങ്കിടല്‍ സേവനങ്ങള്‍ സജ്ജമാക്കാവുന്നതാണ്.">
 <!ENTITY social.directory.button "എന്നെ അവിടേക്ക് കൊണ്ടുപോകൂ!">
-
+<!ENTITY social.directory.introText "&brandShortName; എന്നതിലേക്ക് ഒരു സേവനം ചേര്‍ക്കാന്‍ ക്ലിക്ക് ചെയ്യൂ.">
 <!ENTITY social.directory.viewmore.text "കൂടുതല്‍ കാണൂ">
 
 <!ENTITY customizeMode.tabTitle "&brandShortName; യഥേഷ്ടമാക്കുക">
@@ -732,7 +733,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY customizeMode.lwthemes "രൂപഭാവങ്ങള്‍">
 <!ENTITY customizeMode.lwthemes.myThemes "എന്റെ രൂപഭാവങ്ങള്‍">
 <!ENTITY customizeMode.lwthemes.recommended "ശുപാര്‍ശ ചെയ്യപ്പെട്ടത്">
-
+<!ENTITY customizeMode.lwthemes.menuManage "കൈകാര്യം ചെയ്യൂ">
 
 
 
@@ -757,7 +758,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY badContentBlocked.moreinfo "ഈ ഉള്ളടക്കം തടസ്സപ്പെടുത്തിയാലും മിക്ക വെബ്സൈറ്റുകളും ശരിയായി പ്രവര്‍ത്തിയ്ക്കും.">
 
 <!ENTITY mixedContentBlocked2.message "സുരക്ഷിതമല്ലാത്ത ഉള്ളടക്കം">
-
+<!ENTITY mixedContentBlocked2.moreinfo "ഈ വെബ്സൈറ്റിലെ ചില എന്‍ക്രിപ്റ്റ് ചെയ്യാത്ത ഘടകങ്ങള്‍ തടഞ്ഞിട്ടുണ്ട്.">
 <!ENTITY mixedContentBlocked2.learnMore "കൂടുതലറിയാം">
 
 
@@ -768,7 +769,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY trackingContentBlocked.message "നിരീക്ഷണം">
 
-
+<!ENTITY trackingContentBlocked.learnMore "കൂടുതലറിയാം">
 
 
 
@@ -810,12 +811,13 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      The translation should do the same. -->
 
 
-
-
+<!ENTITY panicButton.view.deleteTabsAndWindows    "എല്ലാ <html:strong>ടാബുകളും</html:strong><html:strong>ജാലകങ്ങളും</html:strong>അടക്കൂ">
+<!ENTITY panicButton.view.openNewWindow           "ഒരു പുതിയ ഒഴിഞ്ഞ ജാലകം തുറക്കൂ">
 
 <!ENTITY panicButton.view.undoWarning             "ഈ പ്രവര്‍ത്തനം ചെയ്തു കഴിഞ്ഞാല്‍ പിന്നെ മാറ്റാന്‍ സാദ്ധ്യമല്ല.">
+<!ENTITY panicButton.view.forgetButton            "മറന്നേക്കൂ!">
 
-
+<!ENTITY panicButton.thankyou.msg1                "സമീപകാല ചരിത്രം മായ്ച്ചിരിക്കുന്നു.">
 <!ENTITY panicButton.thankyou.msg2                "സുരക്ഷിത ബ്രൗസിങ്ങ്!">
 <!ENTITY panicButton.thankyou.buttonlabel         "നന്ദി!">
 
@@ -837,8 +839,10 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 
 <!-- Pre-landed string for bug 1124153 -->
+<!ENTITY readingList.sidebar.showMore.label       "കൂടുതല്‍ കാണിക്കൂ...">
 <!-- Pre-landed string for bug 1133662 -->
 <!-- Pre-landed string for bug 1123525 -->
+<!ENTITY readingList.sidebar.delete.tooltip       "വായനാ പട്ടികയില്‍ നിന്ന് ഇതൊഴിവാക്കൂ">
 <!-- Pre-landed strings for bug 1123519 -->
 <!ENTITY readingList.sidebar.add.label            "വായനാ പട്ടികയിലേക്ക് ചേര്‍ക്കൂ">
-
+<!ENTITY readingList.sidebar.add.tooltip          "വായനാ പട്ടികയിലേക്ക് ഈ താള്‍ ചേര്‍ക്കൂ">
