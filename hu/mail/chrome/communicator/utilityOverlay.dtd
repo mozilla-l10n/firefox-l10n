@@ -41,7 +41,7 @@
 <!ENTITY viewToolbarsMenu.label        "Eszköztárak">
 <!ENTITY viewToolbarsMenu.accesskey      "E">
 <!ENTITY showTaskbarCmd.label          "Állapotsor">
-<!ENTITY showTaskbarCmd.accesskey        "l">
+<!ENTITY showTaskbarCmd.accesskey        "o">
 
 <!ENTITY closeCmd.label      "Bezárás">
 <!ENTITY closeCmd.key      "W">
