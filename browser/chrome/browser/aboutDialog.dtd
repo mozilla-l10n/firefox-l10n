@@ -36,7 +36,7 @@
 <!ENTITY community.middle2          ", o ">
 <!-- LOCALIZATION NOTE (community.creditsLink): This is a link title that links to about:credits. -->
 <!ENTITY community.creditsLink      "comunitate globală">
-<!ENTITY community.end3             " care lucrează împreună pentru a păstra internetul deschis, public și accesibil tuturor.">
+<!ENTITY community.end3             " care lucrează împreună pentru a păstra Internetul deschis, public și accesibil pentru toți.">
 
 <!ENTITY helpus.start               "Doriți să ajutați? ">
 <!-- LOCALIZATION NOTE (helpus.donateLink): This is a link title that links to https://sendto.mozilla.org/page/contribute/Give-Now?source=mozillaorg_default_footer&ref=firefox_about&utm_campaign=firefox_about&utm_source=firefox&utm_medium=referral&utm_content=20140929_FireFoxAbout. -->

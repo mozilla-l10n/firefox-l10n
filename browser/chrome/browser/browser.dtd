@@ -565,7 +565,7 @@ items are mutually exclusive. -->
 <!ENTITY mediaHideControls.label     "Ascunde controalele">
 <!ENTITY mediaHideControls.accesskey "c">
 <!ENTITY videoFullScreen.label       "Pe tot ecranul">
-<!ENTITY videoFullScreen.accesskey   "n">
+<!ENTITY videoFullScreen.accesskey   "P">
 <!ENTITY videoSaveImage.label        "Salvează captura ca…">
 <!ENTITY videoSaveImage.accesskey    "S">
 <!-- LOCALIZATION NOTE: The access keys for "Show Statistics" and
