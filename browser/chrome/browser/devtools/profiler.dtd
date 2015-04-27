@@ -13,7 +13,22 @@
 <!ENTITY profilerUI.emptyNotice1 "Primi nel botón">
 <!ENTITY profilerUI.clearButton "Llimpiar">
 <!ENTITY profilerUI.table.totalPercentage "Coste total">
-<!ENTITY profilerUI.table.totalDuration "Tiempu total (ms)">
 <!ENTITY profilerUI.table.selfPercentage "Coste propiu">
-<!ENTITY profilerUI.table.selfDuration "Tiempu propiu (ms)">
 <!ENTITY profilerUI.table.samples "Exemplos">
+<!ENTITY profilerUI.toolbar.waterfall "Llinia de tiempos">
+<!ENTITY profilerUI.toolbar.memory-flamegraph1 "Gráficu de llaparaes d'asignaciones de memoria">
+<!ENTITY profilerUI.toolbar.memory-calltree1 "Asignaciones de memoria">
+<!ENTITY profilerUI.toolbar.js-flamegraph "Graficu de llaparada JS">
+<!ENTITY profilerUI.toolbar.js-calltree "JavaScript">
+<!ENTITY profilerUI.table.totalDuration2 "Tiempu total">
+<!ENTITY profilerUI.table.totalAllocTooltip "El númberu total d'asignaciones d'oxetos muestreaos nesti allugamientu y nes llamaes.">
+<!ENTITY profilerUI.table.totalAlloc1 "Total d'asignaciones de memoria muestreaes">
+<!ENTITY profilerUI.table.selfDuration2 "Tiempu propiu">
+<!ENTITY profilerUI.table.selfAllocTooltip "El númberu d'asignaciones d'oxetos muestreaos nesti allugamientu.">
+<!ENTITY profilerUI.table.selfAlloc1 "Asignaciones de memoria automuestreaes">
+<!ENTITY profilerUI.showPlatformData.tooltiptext "Amosar los datos de plataforma permite que los informes de analizador de JavaScript incluyan los símbolos de la plataforma Gecko.">
+<!ENTITY profilerUI.showPlatformData "Amosar datos de la plataforma Gecko">
+<!ENTITY profilerUI.options.gear.tooltiptext "Configurar preferencies de rindimientu.">
+<!ENTITY profilerUI.options.filter.tooltiptext "Seleiciona qué datos amosar na llinia de tiempos">
+<!ENTITY profilerUI.invertTree.tooltiptext "Invertir l'árbol de llamaes amuesa los caminos de llamaes analizaos empecipiando dende los marcos más recientes y espandiéndose hasta los más vieyos.">
+<!ENTITY profilerUI.invertTree "Invertir árbol de llamaes">
