@@ -66,7 +66,7 @@
 <!ENTITY connection.startRegisteredSimulator "Start:">
 
 <!ENTITY projects.localApps "Aplicații locale">
-<!ENTITY projects.addApp "Adaugă">
+<!ENTITY projects.addApp "Adăugare">
 <!ENTITY projects.addPackaged "Add Packaged App">
 <!ENTITY projects.addPackagedTooltip "Add a new packaged app (a directory) from your computer.">
 <!ENTITY projects.addHosted "Add Hosted App">
@@ -92,7 +92,7 @@
 <!ENTITY projects.hosted "Găzduit">
 <!ENTITY projects.packaged "Împachetat">
 
-<!ENTITY help.title "Gestionar aplicații">
+<!ENTITY help.title "Gestionar aplicație">
 <!ENTITY help.close "Închide">
 <!ENTITY help.intro "This tool will help you build and install web apps on compatible devices (i.e. Firefox OS). The <strong>Apps</strong> tab will assist you in the validation and installation process of your app. The <strong>Device</strong> tab will give you information about the connected device. Use the bottom toolbar to connect to a device or start the simulator.">
 <!ENTITY help.usefullLinks "Legături utile:">

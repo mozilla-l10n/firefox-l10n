@@ -13,7 +13,7 @@
 <!-- LOCALIZATION NOTE some localizations of Windows (ex:french, german) use "?"
                        for the help button in the menubar but Gnome does not.   -->
 <!ENTITY helpMenuWin.label        "Ajutor"> 
-<!ENTITY helpMenuWin.accesskey    "j">
+<!ENTITY helpMenuWin.accesskey    "u">
 <!ENTITY aboutProduct2.label      "Despre &brandShorterName;">
 <!ENTITY aboutProduct2.accesskey  "D">
 <!ENTITY productHelp2.label       "Manual &brandShorterName;">
