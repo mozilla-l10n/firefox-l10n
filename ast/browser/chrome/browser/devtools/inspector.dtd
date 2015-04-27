@@ -9,7 +9,6 @@
 <!ENTITY inspectorHTMLDelete.label "Desaniciar nodu">
 <!ENTITY inspectorHTMLDelete.accesskey "D">
 <!ENTITY inspector.selectButton.tooltip "Seleicionar un elementu col mur">
-<!ENTITY inspectorSearchHTML.label "Guetar HTML">
 <!ENTITY inspectorSearchHTML.key "F">
 <!ENTITY inspectorCopyUniqueSelector.label "Copiar seleutor únicu">
 <!ENTITY inspectorCopyUniqueSelector.accesskey "s">
@@ -19,3 +18,16 @@
 <!ENTITY inspectorHTMLPasteOuter.label "Apegar HTML esterior">
 <!ENTITY inspectorHTMLPasteOuter.accesskey "H">
 <!ENTITY inspectorShowDOMProperties.label "Amosar propiedaes DOM">
+<!ENTITY inspectorSearchHTML.label2 "Guetar con seleutores CSS">
+<!ENTITY inspectorHTMLPasteLastChild.label "Como postrer fíu">
+<!ENTITY inspectorHTMLPasteLastChild.accesskey "m">
+<!ENTITY inspectorHTMLPasteInner.label "Apegar HTML internu">
+<!ENTITY inspectorHTMLPasteInner.accesskey "L">
+<!ENTITY inspectorHTMLPasteFirstChild.label "Como primer fíu">
+<!ENTITY inspectorHTMLPasteFirstChild.accesskey "C">
+<!ENTITY inspectorHTMLPasteExtraSubmenu.label "Apegar…">
+<!ENTITY inspectorHTMLPasteExtraSubmenu.accesskey "A">
+<!ENTITY inspectorHTMLPasteBefore.label "Enantes">
+<!ENTITY inspectorHTMLPasteBefore.accesskey "E">
+<!ENTITY inspectorHTMLPasteAfter.label "Tres de">
+<!ENTITY inspectorHTMLPasteAfter.accesskey "T">
