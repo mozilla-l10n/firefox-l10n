@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY aboutDownloads.title                      "Arquivos salvos">
-
+<!ENTITY aboutDownloads.empty                      "Sem arquivos salvos">
 <!-- LOCALIZATION NOTE (cmd.show.label, cmd.show.accesskey, cmd.showMac.label,
      cmd.showMac.accesskey):
      The show and showMac commands are never shown together, thus they can share
@@ -15,7 +15,7 @@
 <!ENTITY cmd.showMac.accesskey                     "F">
 <!ENTITY cmd.open.label                            "Abrir">
 <!ENTITY cmd.open.accesskey                        "A">
-
-
+<!ENTITY cmd.removeFromHistory.label               "Remover do histórico">
+<!ENTITY cmd.removeFromHistory.accesskey           "e">
 <!ENTITY cmd.clearDownloads.label                  "Limpar Downloads">
 <!ENTITY cmd.clearDownloads.accesskey              "D">
