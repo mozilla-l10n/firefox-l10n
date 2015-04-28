@@ -14,8 +14,8 @@
 <!ENTITY pref.dateformat.short "Curto"  >
 
 <!ENTITY pref.timezones.caption "Fuso horário">
-
-
+<!ENTITY pref.timezones.label "Selecione a cidade mais próxima do seu fuso horário:">
+<!ENTITY pref.timezones.accesskey "S">
 
 <!ENTITY pref.defaults.label "Valores padrão para novos itens">
 <!ENTITY pref.events.label "Eventos">
