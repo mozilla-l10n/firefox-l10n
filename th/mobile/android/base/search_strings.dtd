@@ -16,7 +16,7 @@
 <!ENTITY search_plus_content_description "เพิ่มไปยังแถบค้นหา">
 
 <!ENTITY search_pref_title "การตั้งค่า">
-
+<!ENTITY search_pref_button_content_description "การตั้งค่า">
 
 <!ENTITY pref_clearHistory_confirmation "ล้างประวัติการเข้าชมแล้ว">
 <!ENTITY pref_clearHistory_dialogMessage "ลบประวัติการค้นหาทั้งหมดจากอุปกรณ์นี้?">
