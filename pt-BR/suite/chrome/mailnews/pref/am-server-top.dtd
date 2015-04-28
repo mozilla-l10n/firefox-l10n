@@ -55,9 +55,9 @@
 <!ENTITY expungeOnExit.accesskey "z">
 <!ENTITY emptyTrashOnExit.label "Esvaziar a lixeira ao sair">
 <!ENTITY emptyTrashOnExit.accesskey "z">
-<!ENTITY loginAtStartup.label "Verificar novas mensagens ao iniciar"> 
+<!ENTITY loginAtStartup.label "Verificar novas mensagens ao iniciar">
 <!ENTITY loginAtStartup.accesskey "n">
-<!-- LOCALIZATION NOTE (maxMessagesStart.label) : translate below 2 lines with grammar dependency 
+<!-- LOCALIZATION NOTE (maxMessagesStart.label) : translate below 2 lines with grammar dependency
     maxMessengerStart.label will be followed by maxMessagesEnd.label with the number
 	 of messages between them
 -->
@@ -73,7 +73,7 @@
 <!ENTITY abbreviateOn.label "Nome completo (por exemplo, &quot;netscape.public.mozilla.mail-news&quot;)">
 <!ENTITY abbreviateOff.label "Nomes abreviados (por exemplo, &quot;n.p.m.mail-news&quot;)">
 <!ENTITY advancedButton.label "Avançado...">
-<!ENTITY serverDefaultCharset.label "Codificação de caracteres padrão:">
+
 <!ENTITY advancedButton.accesskey "v">
 <!ENTITY localPath.label "Pasta local:">
 <!ENTITY localFolderPicker.label "Selecione a localização da pasta local:">
@@ -86,5 +86,5 @@
 <!ENTITY accountSettingsDesc.label "Esta é uma conta especial. Não há identidades associadas a ela.">
 
 
-
-
+<!ENTITY mboxStore2.label "Um arquivo por pasta (mbox)">
+<!ENTITY maildirStore.label "Um arquivo por mensagem (maildir)">
