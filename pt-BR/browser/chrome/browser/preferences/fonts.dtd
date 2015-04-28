@@ -63,6 +63,7 @@
 <!ENTITY  allowPagesToUse.label                   "Páginas podem usar outras fontes">
 <!ENTITY  allowPagesToUse.accesskey               "n">
 
+<!ENTITY languages.customize.Fallback2.grouplabel "Codificação de texto para conteúdo legado">
 
 
 
