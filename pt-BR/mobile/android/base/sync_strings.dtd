@@ -150,8 +150,8 @@
 
 <!ENTITY fxaccount_create_account_header2 "Criar uma conta Firefox">
 <!ENTITY fxaccount_create_account_password_length_restriction "Deve ter no mínimo 8 caracteres">
-
-
+<!ENTITY fxaccount_create_account_day_of_birth "Dia">
+<!ENTITY fxaccount_create_account_month_of_birth "Mês">
 <!ENTITY fxaccount_create_account_year_of_birth "Ano de nascimento">
 <!-- Localization note: &formatS1; is fxaccount_policy_linktos, &formatS2; is fxaccount_policy_linkprivacy, both hyperlinked. -->
 <!ENTITY fxaccount_create_account_policy_text2 "Ao prosseguir, eu concordo com os &formatS1; e &formatS2; dos serviços em nuvem do Firefox.">
@@ -172,9 +172,9 @@
 <!ENTITY fxaccount_confirm_account_change_email "Esquecer este endereço de email?">
 <!ENTITY fxaccount_confirm_account_verification_link_sent2 "Email de confirmação enviado">
 <!ENTITY fxaccount_confirm_account_verification_link_not_sent2 "Não foi possível enviar o email de confirmação">
-
-
-
+<!ENTITY fxaccount_resend_unlock_code_button_label "Reenviar e-mail de desbloqueio">
+<!ENTITY fxaccount_unlock_code_sent "E-mail para desbloqueio da conta enviado">
+<!ENTITY fxaccount_unlock_code_not_sent "Não foi possível enviar o e-mail para o desbloqueio da conta">
 
 <!ENTITY fxaccount_sign_in_sub_header "Identificar-se">
 <!ENTITY fxaccount_sign_in_button_label "Identificar-se">
@@ -185,18 +185,20 @@
 <!ENTITY fxaccount_account_verified_sub_header "Conta verificada">
 <!ENTITY fxaccount_account_verified_description2 "Sua dados começarão a sincronizar em instantes.">
 
+<!ENTITY fxaccount_migration_finished_header "Atualização concluída">
 
 <!ENTITY fxaccount_update_credentials_header "Identificar-se">
 <!ENTITY fxaccount_update_credentials_button_label "Identificar-se">
 <!ENTITY fxaccount_update_credentials_unknown_error "Não foi possível identificar-se">
 
-
-
+<!ENTITY fxaccount_finish_migrating_header "Entre para concluir a atualização">
+<!ENTITY fxaccount_finish_migrating_button_label "Concluir atualização">
+<!ENTITY fxaccount_finish_migrating_description "A atualização pode transferir uma grande quantidade de dados. É melhor estar em uma rede Wi-Fi.">
 
 <!ENTITY fxaccount_status_header2 "Conta Firefox">
 <!ENTITY fxaccount_status_signed_in_as "Conectado como">
 <!ENTITY fxaccount_status_auth_server "Servidor da conta">
-
+<!ENTITY fxaccount_status_sync_now "Sincronizar agora">
 <!ENTITY fxaccount_status_syncing2 "Sincronizando…">
 <!ENTITY fxaccount_status_device_name "Nome do dispositivo">
 <!ENTITY fxaccount_status_sync_server "Servidor do Sync">
@@ -207,7 +209,7 @@
 <!ENTITY fxaccount_status_needs_upgrade "Você precisa atualizar o &brandShortName; para identificar-se.">
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled "O &syncBrand.shortName.label; está configurado, mas não está sincronizando automaticamente. Ative a opção “Sincronizar dados automaticamente” em Configurações do Android &gt; Uso de dados.">
 
-
+<!ENTITY fxaccount_status_needs_finish_migrating "Toque para entrar na sua nova conta Firefox.">
 <!ENTITY fxaccount_status_bookmarks "Favoritos">
 <!ENTITY fxaccount_status_history "Histórico">
 <!ENTITY fxaccount_status_passwords "Senhas">
@@ -255,11 +257,14 @@
 <!ENTITY fxaccount_remote_error_SERVICE_TEMPORARILY_UNAVAILABLE_TO_DUE_HIGH_LOAD "Servidor ocupado. Por favor, tente de novo">
 <!ENTITY fxaccount_remote_error_UNKNOWN_ERROR "Houve um problema">
 <!ENTITY fxaccount_remote_error_COULD_NOT_CONNECT "Não foi possível conectar-se à rede">
-
+<!ENTITY fxaccount_remote_error_ACCOUNT_LOCKED "Conta bloqueada. &FormatS1;">
 
 <!ENTITY fxaccount_sync_sign_in_error_notification_title2 "O &syncBrand.shortName.label; não está conectado">
 <!-- Localization note: the format string below will be replaced
      with the Firefox Account's email address. -->
+<!ENTITY fxaccount_sync_sign_in_error_notification_text2 "Toque para entrar como &formatS;">
 
+<!ENTITY fxaccount_sync_finish_migrating_notification_title "Concluir a atualização do &SyncBrand.shortName.label;?">
 <!-- Localization note: the format string below will be replaced
      with the Firefox Account's email address. -->
+<!ENTITY fxaccount_sync_finish_migrating_notification_text "Toque para entrar como &formatS;">
