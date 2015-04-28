@@ -240,8 +240,8 @@
       clear the data and unsubscribing means just taking it out of the calendar
       list. -->
 
-
-
+<!ENTITY calendar.context.unsubscribeserver.label      "Cancelar subscrição do calendário…">
+<!ENTITY calendar.context.unsubscribeserver.accesskey  "u">
 <!ENTITY calendar.context.synccalendars.label          "Sincronizar calendários">
 <!ENTITY calendar.context.synccalendars.accesskey      "S">
 <!ENTITY calendar.context.publish.label                "Publicar calendário…">
@@ -296,9 +296,9 @@
 <!ENTITY calendar.alarm.snooze.15minutes.label      "15 Minutos" >
 <!ENTITY calendar.alarm.snooze.30minutes.label      "30 Minutos" >
 <!ENTITY calendar.alarm.snooze.45minutes.label      "45 Minutos" >
-
+<!ENTITY calendar.alarm.snooze.1hour.label          "1 hora" >
 <!ENTITY calendar.alarm.snooze.2hours.label         "2 Horas" >
-
+<!ENTITY calendar.alarm.snooze.1day.label           "1 dia" >
 <!-- LOCALIZATION NOTE (calendar.alarm.snooze.cancel)
      This string is not seen in the UI, it is read by screen readers when the
      user focuses the "Cancel" button in the "Snooze for..." popup of the alarm

@@ -142,11 +142,12 @@
 
 <!ENTITY  event.toolbar.save.label                        "Salvar e fechar">
 <!ENTITY  event.toolbar.delete.label                      "Excluir">
-
+<!ENTITY  event.toolbar.attendees.label                   "Convidar participantes">
 <!ENTITY  event.toolbar.privacy.label                     "Privacidade">
 
-
-
+<!ENTITY  event.toolbar.save.tooltip                      "Salvar e fechar">
+<!ENTITY  event.toolbar.delete.tooltip                    "Excluir">
+<!ENTITY  event.toolbar.attendees.tooltip                 "Convidar participantes">
 <!ENTITY  event.toolbar.attachments.tooltip               "Adicionar anexos">
 <!ENTITY  event.toolbar.privacy.tooltip                   "Alterar privacidade">
 <!ENTITY  event.toolbar.priority.tooltip                  "Alterar prioridade">
@@ -304,7 +305,7 @@
 <!ENTITY event.recurrence.pattern.yearly.week.5.label        "Quinta" >
 <!ENTITY event.recurrence.pattern.yearly.week.6.label        "Sexta" >
 <!ENTITY event.recurrence.pattern.yearly.week.7.label        "Sábado" >
-
+<!ENTITY event.recurrence.pattern.yearly.day.label           "dia" >
 <!ENTITY event.recurrence.of.label                           "de" >
 <!ENTITY event.recurrence.pattern.yearly.month2.1.label      "janeiro" >
 <!ENTITY event.recurrence.pattern.yearly.month2.2.label      "fevereiro" >
