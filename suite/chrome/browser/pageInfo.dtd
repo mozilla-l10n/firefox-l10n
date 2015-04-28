@@ -83,7 +83,7 @@
 
 
 <!ENTITY  permTab               "Permissões">
-
+<!ENTITY  permTab.accesskey     "P">
 <!ENTITY  permUseDefault        "Usar padrão">
 <!ENTITY  permAskAlways         "Sempre perguntar">
 <!ENTITY  permAllow             "Permitir">
@@ -98,10 +98,10 @@
 <!ENTITY  permGeo               "Compartilhar localização">
 
 <!ENTITY  securityTab           "Segurança">
-
+<!ENTITY  securityTab.accesskey "S">
 <!ENTITY  securityHeader        "Informações de segurança para esta página">
 <!ENTITY  securityView.certView "Ver certificado">
-
+<!ENTITY  securityView.accesskey "V">
 <!ENTITY  securityView.unknown   "Desconhecido">
 
 
@@ -114,7 +114,7 @@
 <!ENTITY  securityView.privacy.history                  "Eu visitei este site hoje mais cedo?">
 <!ENTITY  securityView.privacy.cookies                  "Este site está armazenando informações (cookies) no meu computador?">
 <!ENTITY  securityView.privacy.viewCookies              "Ver cookies">
-
+<!ENTITY  securityView.privacy.viewCookies.accessKey    "k">
 <!ENTITY  securityView.privacy.passwords                "Eu tenho alguma senha salva para este site?">
 <!ENTITY  securityView.privacy.viewPasswords            "Ver senhas armazenadas">
 
