@@ -190,9 +190,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY tabGroupsButton.label        "Grupos de abas">
 
 <!ENTITY bookmarksButton.label          "Favoritos">
+<!ENTITY bookmarksCmd.commandkey "b">
 
-
-
+<!ENTITY bookmarksMenuButton.label          "Favoritos">
+<!ENTITY bookmarksMenuButton.unsorted.label "Favoritos não organizados">
 <!ENTITY viewBookmarksSidebar2.label        "Exibir painel dos favoritos">
 <!ENTITY viewBookmarksToolbar.label         "Barra dos favoritos">
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
@@ -699,7 +700,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY syncSyncNowItem.accesskey    "n">
 <!ENTITY syncReAuthItem.label         "Reconectar-se ao &syncBrand.shortName.label;…">
 <!ENTITY syncReAuthItem.accesskey     "R">
-
+<!ENTITY syncToolbarButton.label      "Sync">
 
 <!ENTITY socialToolbar.title        "Botão da barra de ferramentas social">
 
@@ -773,8 +774,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY trackingContentBlocked.message "Rastreamento">
 <!ENTITY trackingContentBlocked.moreinfo "Partes desta página que rastreiam sua atividade online foram bloqueadas.">
-
-
+<!ENTITY trackingContentBlocked.learnMore "Saiba mais">
+<!ENTITY trackingContentBlocked.options "Opções">
 <!ENTITY trackingContentBlocked.unblock2.label "Desativar proteção para este site">
 <!ENTITY trackingContentBlocked.unblock2.accesskey "D">
 
@@ -798,6 +799,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY pluginNotification.width "28em">
 
+<!ENTITY uiTour.infoPanel.close "Fechar">
 
 <!ENTITY appMenuSidebars.label         "Painéis">
 
