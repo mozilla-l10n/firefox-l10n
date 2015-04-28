@@ -31,5 +31,5 @@
 <!-- LOCALIZATION NOTE (ignoreDocColors.label): This is option two, and it appends to 'someProvColors' above.  -->
 <!ENTITY useMyColors.label                 "Sempre usar as cores padrão">
 <!ENTITY useMyColors.accesskey             "m">
-
-
+<!ENTITY automaticColors.label             "Somente ignorar as cores da página ao usar um tema de alto contraste">
+<!ENTITY automaticColors.accesskey         "o">
