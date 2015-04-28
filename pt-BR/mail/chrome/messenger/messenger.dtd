@@ -598,8 +598,8 @@
 <!-- Folder Pane -->
 
 <!ENTITY folderNameColumn.label "Nome">
-
-
+<!ENTITY folderUnreadColumn.label "Não lida">
+<!ENTITY folderTotalColumn.label "Total">
 <!ENTITY folderSizeColumn.label "Tamanho">
 <!-- Folder Pane Context Menu -->
 
@@ -669,8 +669,8 @@
 <!ENTITY statusColumn.label "Status">
 <!ENTITY sizeColumn.label "Tamanho">
 <!ENTITY junkStatusColumn.label "Spam">
-
-
+<!ENTITY unreadColumn.label "Não lida">
+<!ENTITY totalColumn.label "Total">
 <!ENTITY readColumn.label "Lida">
 <!ENTITY receivedColumn.label "Recebimento">
 <!ENTITY starredColumn.label "Com estrela">
