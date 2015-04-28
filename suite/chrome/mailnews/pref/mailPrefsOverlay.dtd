@@ -21,5 +21,5 @@
 <!ENTITY return.label                     "Confirmações">
 <!ENTITY junk.label                       "Spam">
 <!ENTITY tags.label                       "Rótulos">
-<!ENTITY characterEncoding.label          "Codificação">
+
 <!ENTITY networkStorage.label             "Armazenamento &amp; rede">

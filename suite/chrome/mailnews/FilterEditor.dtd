@@ -27,8 +27,8 @@
 <!ENTITY contextAfterCls.label "Filtrar depois de aplicar o Antispam">
 
 
-
-
+<!ENTITY contextArchive.label "Arquivando">
+<!ENTITY contextArchive.accesskey "A">
 
 <!ENTITY filterActionDesc.label "Executar estas ações:">
 <!ENTITY filterActionDesc.accesskey "x">

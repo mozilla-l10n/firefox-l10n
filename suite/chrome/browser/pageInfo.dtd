@@ -7,7 +7,7 @@
 
 <!ENTITY  pageInfoWindow.dimensions  "width: 100ch; height: 40em;">
 
-<!ENTITY  copy.key               "c">
+<!ENTITY  copy.key               "C">
 <!ENTITY  copy.label             "Copiar">
 <!ENTITY  copy.accesskey         "C">
 <!ENTITY  selectall.key          "A">
@@ -73,17 +73,17 @@
 <!ENTITY  mediaLongdesc         "Descrição longa:">
 <!ENTITY  mediaBlockImage.accesskey "B">
 <!ENTITY  mediaSaveAs           "Salvar como...">
-<!ENTITY  mediaSaveAs.accesskey "S">
-<!ENTITY  mediaSaveAs2.accesskey "r">
+
+
 <!ENTITY  mediaPreview          "Visualizar mídia:">
 
 <!ENTITY  feedTab               "RSS">
-<!ENTITY  feedTab.accesskey     "R">
+
 <!ENTITY  feedSubscribe         "Se inscrever">
-<!ENTITY  feedSubscribe.accesskey "i">
+
 
 <!ENTITY  permTab               "Permissões">
-<!ENTITY  permTab.accesskey     "P">
+
 <!ENTITY  permUseDefault        "Usar padrão">
 <!ENTITY  permAskAlways         "Sempre perguntar">
 <!ENTITY  permAllow             "Permitir">
@@ -98,10 +98,10 @@
 <!ENTITY  permGeo               "Compartilhar localização">
 
 <!ENTITY  securityTab           "Segurança">
-<!ENTITY  securityTab.accesskey "S">
+
 <!ENTITY  securityHeader        "Informações de segurança para esta página">
 <!ENTITY  securityView.certView "Ver certificado">
-<!ENTITY  securityView.accesskey "V">
+
 <!ENTITY  securityView.unknown   "Desconhecido">
 
 
@@ -114,9 +114,9 @@
 <!ENTITY  securityView.privacy.history                  "Eu visitei este site hoje mais cedo?">
 <!ENTITY  securityView.privacy.cookies                  "Este site está armazenando informações (cookies) no meu computador?">
 <!ENTITY  securityView.privacy.viewCookies              "Ver cookies">
-<!ENTITY  securityView.privacy.viewCookies.accessKey    "k">
+
 <!ENTITY  securityView.privacy.passwords                "Eu tenho alguma senha salva para este site?">
 <!ENTITY  securityView.privacy.viewPasswords            "Ver senhas armazenadas">
-<!ENTITY  securityView.privacy.viewPasswords.accessKey  "a">
+
 
 <!ENTITY  securityView.technical.header                 "Detalhes técnicos">
