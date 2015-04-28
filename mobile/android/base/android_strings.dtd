@@ -7,7 +7,7 @@
 <!ENTITY  error_loading_file "Ocorreu um erro ao tentar carregar os arquivos necessários para executar o &brandShortName;">
 
 <!ENTITY  onboard_start_message2 "Bem-vindo ao &brandShortName;">
-
+<!ENTITY  onboard_start_subtext2 "Mais recursos de privacidade e maneiras de personalizar do que nunca.">
 <!ENTITY  onboard_start_button_account "Entrar no &brandShortName;">
 <!ENTITY  onboard_start_button_browser "Iniciar a navegação">
 <!-- Localization note: These are used as the titles of different pages on the home screen.
@@ -187,6 +187,7 @@
 <!ENTITY pref_cookies_not_accept_foreign "Permitir somente os do site atual">
 <!ENTITY pref_cookies_disabled "Desativar">
 
+<!ENTITY pref_tracking_protection_title "Proteção contra rastreamento">
 <!ENTITY pref_tracking_protection_summary "O &brandShortName; vai impedir que sites o monitorem">
 <!ENTITY pref_donottrack_title "Não rastrear">
 <!ENTITY pref_donottrack_summary "O &brandShortName; informará aos sites que você não quer ser rastreado">
@@ -236,6 +237,7 @@
 same character/combination is used to increase the preview font size. It should be a concise
 representation of the language it is used in that will help show the text in the preview will change
 size. -->
+<!ENTITY pref_font_size_adjust_char "A">
 <!-- Localization note (pref_font_size_preview_text): This paragraph is used as an example to
     demonstrate the font size setting.  It is meant to be whimsical and fun. -->
 
@@ -617,7 +619,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY voicesearch_prompt "Fale agora">
 <!ENTITY voicesearch_failed_title "Pesquisa de voz do &brandShortName;">
 <!ENTITY voicesearch_failed_message "Há um problema com a pesquisa de voz agora. Por favor, tente mais tarde.">
-
+<!ENTITY voicesearch_failed_message_recoverable "Desculpa! Não conseguimos reconhecer as suas palavras. Por favor tente novamente.">
 <!ENTITY voicesearch_failed_retry "Tentar novamente">
 <!-- Localization note (remote_tabs_last_synced): the variable is replaced by a
      "relative time span string" produced by Android.  This string describes the
