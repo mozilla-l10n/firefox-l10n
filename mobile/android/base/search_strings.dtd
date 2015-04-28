@@ -15,7 +15,8 @@
 
 <!ENTITY search_plus_content_description "Adicionar à barra de pesquisa">
 
-
+<!ENTITY search_pref_title "Configurações">
+<!ENTITY search_pref_button_content_description "Configurações">
 
 <!ENTITY pref_clearHistory_confirmation "Histórico limpo">
 <!ENTITY pref_clearHistory_dialogMessage "Excluir todo o histórico de pesquisa deste dispositivo?">
