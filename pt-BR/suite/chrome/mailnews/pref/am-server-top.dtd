@@ -73,7 +73,7 @@
 <!ENTITY abbreviateOn.label "Nome completo (por exemplo, &quot;netscape.public.mozilla.mail-news&quot;)">
 <!ENTITY abbreviateOff.label "Nomes abreviados (por exemplo, &quot;n.p.m.mail-news&quot;)">
 <!ENTITY advancedButton.label "Avançado...">
-
+<!ENTITY serverDefaultCharset2.label "Codificação de texto padrão:">
 <!ENTITY advancedButton.accesskey "v">
 <!ENTITY localPath.label "Pasta local:">
 <!ENTITY localFolderPicker.label "Selecione a localização da pasta local:">
@@ -84,7 +84,7 @@
 
 <!ENTITY accountTitle.label "Configurações de contas">
 <!ENTITY accountSettingsDesc.label "Esta é uma conta especial. Não há identidades associadas a ela.">
-
-
+<!ENTITY storeType.label "Tipo de armazenamento das mensagens:">
+<!ENTITY storeType.accesskey "T">
 <!ENTITY mboxStore2.label "Um arquivo por pasta (mbox)">
 <!ENTITY maildirStore.label "Um arquivo por mensagem (maildir)">
