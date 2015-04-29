@@ -34,8 +34,8 @@
 <!ENTITY pref.default_task_offset_next_hour.label "Relativo à próxima hora">
 
 <!ENTITY pref.calendar.todaypane.agenda.caption "Painel hoje">
-
-
+<!ENTITY pref.soondays.label "A seção seguinte mostra:">
+<!ENTITY pref.soondays.accesskey "g">
 
 <!ENTITY pref.accessibility.label "Acessibilidade" >
 <!ENTITY pref.systemcolors.label "Otimizar as cores para acessibilidade" >

@@ -49,7 +49,7 @@
 <!ENTITY event.dialog.cut.key                     "X">
 <!ENTITY event.dialog.copy.key                    "C">
 <!ENTITY event.dialog.paste.key                   "V">
-
+<!ENTITY event.dialog.select.all.key              "t">
 <!-- Menubar -->
 
 <!ENTITY  event.menu.item.new.label                       "Novo">
@@ -218,6 +218,7 @@
 
 <!ENTITY event.reminder.multiple.label                    "Lembretes múltiplos…" >
 
+<!ENTITY event.statusbarpanel.freebusy.label              "Duração:">
 <!ENTITY event.statusbarpanel.privacy.label               "Privacidade:">
 <!-- Recurrence dialog -->
 
