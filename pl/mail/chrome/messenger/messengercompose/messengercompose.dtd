@@ -154,6 +154,9 @@
 <!ENTITY bothFormatCmd.accesskey            "z">
 <!ENTITY priorityMenu.label                 "Priorytet">
 <!ENTITY priorityMenu.accesskey             "e">
+<!ENTITY priorityButton.title "Priorytet">
+<!ENTITY priorityButton.tooltiptext "Określ priorytet wiadomości">
+<!ENTITY priorityButton.label "Priorytet:">
 <!ENTITY highestPriorityCmd.label           "Najwyższy">
 <!ENTITY highestPriorityCmd.accesskey       "N">
 <!ENTITY highPriorityCmd.label              "Wysoki">
@@ -167,8 +170,6 @@
 <!ENTITY fileCarbonCopyCmd.label            "Zachowaj kopię wiadomości w folderze">
 <!ENTITY fileCarbonCopyCmd.accesskey        "a">
 <!ENTITY fileHereMenu.label                 "Zachowaj tutaj">
-
-<!ENTITY priorityButton.label "Priorytet:">
 
 <!-- Tools Menu -->
 <!ENTITY tasksMenu.label                 "Narzędzia">
