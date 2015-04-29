@@ -70,10 +70,10 @@
 <!-- Language settings -->
 <!ENTITY sendDefaultCharset.label         "Utgåande e-post:">
 <!ENTITY sendDefaultCharset.accesskey     "U">
-<!ENTITY languagesTitle1.label            "Teiknkoding">
-<!ENTITY composingDescription.label       "Vel standard teiknkoding for sending og mottak av e-post">
+<!ENTITY languagesTitle2.label            "Tekstkoding">
+<!ENTITY composingDescription2.label      "Vel standard tekstkoding for sending og mottak av e-post">
 
 <!ENTITY viewDefaultCharsetList.label     "Innkomande e-post:">
 <!ENTITY viewDefaultCharsetList.accesskey  "I">
-<!ENTITY replyInDefaultCharset2.label     "Når mogleg, bruk standard teiknkoding i svar">
-<!ENTITY replyInDefaultCharset2.accesskey "N">
+<!ENTITY replyInDefaultCharset3.label     "Når mogleg, bruk standard tekstkoding i svar">
+<!ENTITY replyInDefaultCharset3.accesskey "N">

@@ -74,7 +74,7 @@
 <!ENTITY abbreviateOff.label "forkorta namn (til dømes «n.p.m.mail-news»)">
 <!ENTITY advancedButton.label "Avansert …">
 <!ENTITY advancedButton.accesskey "A">
-<!ENTITY serverDefaultCharset.label "Standard teiknkoding:">
+<!ENTITY serverDefaultCharset2.label "Standard tekstkoding:">
 <!ENTITY localPath.label "Lokal mappe:">
 <!ENTITY localFolderPicker.label "Vel lokal mappe:">
 <!ENTITY browseFolder.label "Bla gjennom …">
@@ -86,5 +86,5 @@
 <!ENTITY accountSettingsDesc.label "Dette er ein spesiell konto. Ingen identitetar er knytte til han.">
 <!ENTITY storeType.label "Meldingslagertype:">
 <!ENTITY storeType.accesskey "t">
-<!ENTITY mboxStore.label "Ei stor fil (mbox)">
+<!ENTITY mboxStore2.label "Fil per mappe (mbox)">
 <!ENTITY maildirStore.label "Ei fil per melding (maildir)">

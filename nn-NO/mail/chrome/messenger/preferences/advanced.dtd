@@ -16,7 +16,7 @@
 <!ENTITY allowHWAccel.accesskey        "m">
 <!ENTITY storeType.label               "Lagringstype for meldingar i nye kontoar:">
 <!ENTITY storeType.accesskey           "d">
-<!ENTITY mboxStore.label               "Ei stor fil (mbox)">
+<!ENTITY mboxStore2.label              "Fil per mappe (mbox)">
 <!ENTITY maildirStore.label            "Fil per melding (maildir)">
 
 <!ENTITY scrolling.label               "Rulling">

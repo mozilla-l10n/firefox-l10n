@@ -40,6 +40,7 @@
 <!ENTITY threadColumn.label "Tråd">
 <!ENTITY fromColumn.label "Frå">
 <!ENTITY recipientColumn.label "Mottakar">
+<!ENTITY correspondentColumn.label "Correspondents">
 <!ENTITY subjectColumn.label "Emne">
 <!ENTITY dateColumn.label "Dato">
 <!ENTITY priorityColumn.label "Prioritet">
@@ -61,13 +62,14 @@
 <!ENTITY threadColumn2.tooltip "Vis meldingstrådar">
 <!ENTITY fromColumn2.tooltip "Sorter etter frå">
 <!ENTITY recipientColumn2.tooltip "Sorter etter mottakar">
+<!ENTITY correspondentColumn2.tooltip "Sorter etter korrespondentar">
 <!ENTITY subjectColumn2.tooltip "Sorter etter emne">
 <!ENTITY dateColumn2.tooltip "Sorter etter dato">
 <!ENTITY priorityColumn2.tooltip "Sorter etter prioritet">
 <!ENTITY tagsColumn2.tooltip "Sorter etter stikkord">
 <!ENTITY accountColumn2.tooltip "Sorter etter konto">
 <!ENTITY statusColumn2.tooltip "Sorter etter status">
-<!ENTITY sizeColumn2.tooltip "Sorter etter størrelse">
+<!ENTITY sizeColumn2.tooltip "Sorter etter storleik">
 <!ENTITY junkStatusColumn2.tooltip "Sorter etter uønskt-status">
 <!ENTITY unreadColumn2.tooltip "Tal på ulesne meldingar i tråden">
 <!ENTITY totalColumn2.tooltip "Totalt tal på meldingar i tråden">

@@ -192,6 +192,8 @@
 <!ENTITY sortByFromCmd.accesskey "F">
 <!ENTITY sortByRecipientCmd.label "Mottakar">
 <!ENTITY sortByRecipientCmd.accesskey "M">
+<!ENTITY sortByCorrespondentCmd.label "Korrespondentar">
+<!ENTITY sortByCorrespondentCmd.accesskey "K">
 <!ENTITY sortByUnreadCmd.label "Lesen">
 <!ENTITY sortByUnreadCmd.accesskey "L">
 <!ENTITY sortByOrderReceivedCmd.label "Mottekne-rekkjefølgje">
@@ -658,6 +660,7 @@
 <!ENTITY threadColumn.label "Tråd">
 <!ENTITY fromColumn.label "Frå">
 <!ENTITY recipientColumn.label "Mottakar">
+<!ENTITY correspondentColumn.label "Korrespondentar">
 <!ENTITY subjectColumn.label "Emne">
 <!ENTITY dateColumn.label "Dato">
 <!ENTITY priorityColumn.label "Prioritet">
@@ -680,6 +683,7 @@
 <!ENTITY threadColumn2.tooltip "Vis meldingstrådar">
 <!ENTITY fromColumn2.tooltip "Sorter etter: Frå">
 <!ENTITY recipientColumn2.tooltip "Sorter etter: Mottakar">
+<!ENTITY correspondentColumn2.tooltip "Sorter etter korrespondentar">
 <!ENTITY subjectColumn2.tooltip "Sorter etter: Emne">
 <!ENTITY dateColumn2.tooltip "Sorter etter: Dato">
 <!ENTITY priorityColumn2.tooltip "Sorter etter: Prioritet">
