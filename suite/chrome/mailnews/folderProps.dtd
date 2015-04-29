@@ -5,8 +5,8 @@
 <!ENTITY folderProps.windowtitle.label           "Propriedades">
 
 <!ENTITY generalInfo.label                       "Geral">
-
-
+<!ENTITY folderCharsetFallback2.label            "Codificação de texto reserva:">
+<!ENTITY folderCharsetFallback2.accesskey        "e">
 <!ENTITY folderCharsetEnforce2.label             "Aplicar codificação a todas as mensagens da pasta (as configurações individuais de codificação de texto das mensagens e a detecção automática serão ignoradas)">
 <!ENTITY folderCharsetEnforce2.accesskey         "A">
 <!ENTITY folderRebuildSummaryFileTip2.label      "Recriar arquivo de índice">

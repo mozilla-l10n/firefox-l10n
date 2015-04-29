@@ -25,8 +25,8 @@
 <!ENTITY contextManual.accesskey "m">
 <!ENTITY contextBeforeCls.label "Filtrar antes de aplicar o Antispam">
 <!ENTITY contextAfterCls.label "Filtrar depois de aplicar o Antispam">
-
-
+<!ENTITY contextOutgoing.label "Após enviado">
+<!ENTITY contextOutgoing.accesskey "s">
 <!ENTITY contextArchive.label "Arquivando">
 <!ENTITY contextArchive.accesskey "A">
 

@@ -73,14 +73,14 @@
 <!ENTITY  mediaLongdesc         "Descrição longa:">
 <!ENTITY  mediaBlockImage.accesskey "B">
 <!ENTITY  mediaSaveAs           "Salvar como...">
-
+<!ENTITY  mediaSaveAs.accesskey "a">
 
 <!ENTITY  mediaPreview          "Visualizar mídia:">
 
-<!ENTITY  feedTab               "RSS">
-
-<!ENTITY  feedSubscribe         "Se inscrever">
-
+<!ENTITY  feedTab               "Fontes">
+<!ENTITY  feedTab.accesskey     "F">
+<!ENTITY  feedSubscribe         "Subscrever">
+<!ENTITY  feedSubscribe.accesskey "u">
 
 <!ENTITY  permTab               "Permissões">
 <!ENTITY  permTab.accesskey     "P">

@@ -56,8 +56,8 @@
 
 <!ENTITY throbber.tooltip             "Abrir o site do &vendorShortName;">
 
-<!ENTITY locationBar.tooltip          "Forneça um endereço, a palavra-chave de um marcador ou um termo de busca">
-
+<!ENTITY locationBar.tooltip          "Digite o termo pesquisado, palavra-chave ou o endereço web">
+<!ENTITY locationBar.accesskey        "d">
 <!ENTITY locationBar.title            "Endereço">
 <!ENTITY proxyIcon.tooltip            "Para salvar arraste para dentro do menu &quot;Marcadores&quot;">
 
