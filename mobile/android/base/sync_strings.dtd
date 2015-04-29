@@ -122,7 +122,7 @@
      user for an email address and password. Hide and show are button
      labels. -->
 
-<!ENTITY fxaccount_email_hint "Email">
+<!ENTITY fxaccount_email_hint "E-mail">
 <!ENTITY fxaccount_password_hint "Senha">
 <!ENTITY fxaccount_password_hide "Ocultar">
 <!ENTITY fxaccount_password_show "Exibir">
@@ -253,8 +253,8 @@
 <!ENTITY fxaccount_remote_error_ATTEMPT_TO_ACCESS_AN_ACCOUNT_THAT_DOES_NOT_EXIST "Email ou senha inválida">
 <!ENTITY fxaccount_remote_error_INCORRECT_PASSWORD "Email ou senha inválida">
 <!ENTITY fxaccount_remote_error_ATTEMPT_TO_OPERATE_ON_AN_UNVERIFIED_ACCOUNT "A conta não está verificada.">
-<!ENTITY fxaccount_remote_error_CLIENT_HAS_SENT_TOO_MANY_REQUESTS "Servidor ocupado. Por favor, tente de novo">
-<!ENTITY fxaccount_remote_error_SERVICE_TEMPORARILY_UNAVAILABLE_TO_DUE_HIGH_LOAD "Servidor ocupado. Por favor, tente de novo">
+<!ENTITY fxaccount_remote_error_CLIENT_HAS_SENT_TOO_MANY_REQUESTS "Servidor ocupado, tente novamente mais tarde">
+<!ENTITY fxaccount_remote_error_SERVICE_TEMPORARILY_UNAVAILABLE_TO_DUE_HIGH_LOAD "Servidor ocupado, tente novamente mais tarde">
 <!ENTITY fxaccount_remote_error_UNKNOWN_ERROR "Houve um problema">
 <!ENTITY fxaccount_remote_error_COULD_NOT_CONNECT "Não foi possível conectar-se à rede">
 <!ENTITY fxaccount_remote_error_ACCOUNT_LOCKED "Conta bloqueada. &formatS1;">

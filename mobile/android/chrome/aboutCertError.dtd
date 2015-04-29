@@ -15,10 +15,13 @@ by NSS/PSM via netError.xhtml. -->
 be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
 
-<!ENTITY certerror.introPara1 "Você solicitou que o &brandShortName; conecte-se de forma segura a <b>#1</b>. Porém, não foi possível confirmar a segurança da sua conexão.">
+<!ENTITY certerror.introPara1 "Você solicitou que o &brandShortName; conecte-se 
+de forma segura a <b>#1</b>, mas não podemos confirmar se sua conexão é segura.">
 
 <!ENTITY certerror.whatShouldIDo.heading "O que devo fazer?">
-<!ENTITY certerror.whatShouldIDo.content "Se você habitualmente conecta-se sem problemas a este site, este erro pode significar que alguém está tentando se passar por ele. Você não deve continuar.">
+<!ENTITY certerror.whatShouldIDo.content "se costuma conecta-se a este site 
+sem problemas, este erro pode significar que alguém está tentando 
+se passar pelo site e você não deve continuar.">
 <!ENTITY certerror.getMeOutOfHere.label "Me tire daqui!">
 
 <!ENTITY certerror.expert.heading "Entendo os riscos">
