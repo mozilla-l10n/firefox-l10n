@@ -161,6 +161,8 @@ because displayed names don't have the comma in between. -->
 <!ENTITY searchItem.title "Busca Rápida">
 <!-- Results Pane -->
 
+<!ENTITY Addrbook.label                                 "Catálogo de endereços">
+<!ENTITY Addrbook.accesskey                             "e">
 <!ENTITY GeneratedName.label                            "Nome">
 <!ENTITY GeneratedName.accesskey                        "N">
 <!ENTITY PrimaryEmail.label                             "E-mail">
