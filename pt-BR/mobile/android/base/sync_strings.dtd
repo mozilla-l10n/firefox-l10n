@@ -257,14 +257,14 @@
 <!ENTITY fxaccount_remote_error_SERVICE_TEMPORARILY_UNAVAILABLE_TO_DUE_HIGH_LOAD "Servidor ocupado. Por favor, tente de novo">
 <!ENTITY fxaccount_remote_error_UNKNOWN_ERROR "Houve um problema">
 <!ENTITY fxaccount_remote_error_COULD_NOT_CONNECT "Não foi possível conectar-se à rede">
-<!ENTITY fxaccount_remote_error_ACCOUNT_LOCKED "Conta bloqueada. &FormatS1;">
+<!ENTITY fxaccount_remote_error_ACCOUNT_LOCKED "Conta bloqueada. &formatS1;">
 
 <!ENTITY fxaccount_sync_sign_in_error_notification_title2 "O &syncBrand.shortName.label; não está conectado">
 <!-- Localization note: the format string below will be replaced
      with the Firefox Account's email address. -->
 <!ENTITY fxaccount_sync_sign_in_error_notification_text2 "Toque para entrar como &formatS;">
 
-<!ENTITY fxaccount_sync_finish_migrating_notification_title "Concluir a atualização do &SyncBrand.shortName.label;?">
+<!ENTITY fxaccount_sync_finish_migrating_notification_title "Concluir a atualização do &syncBrand.shortName.label;?">
 <!-- Localization note: the format string below will be replaced
      with the Firefox Account's email address. -->
 <!ENTITY fxaccount_sync_finish_migrating_notification_text "Toque para entrar como &formatS;">
