@@ -150,6 +150,8 @@
 
 <!ENTITY fxaccount_create_account_header2 "এটা Firefox একাউন্ট সৃষ্টি কৰক">
 <!ENTITY fxaccount_create_account_password_length_restriction "অন্তত ৮ আখৰৰ হব লাগিব">
+
+
 <!ENTITY fxaccount_create_account_year_of_birth "জন্মবৰ্ষ">
 <!-- Localization note: &formatS1; is fxaccount_policy_linktos, &formatS2; is fxaccount_policy_linkprivacy, both hyperlinked. -->
 <!ENTITY fxaccount_create_account_policy_text2 "আগবাঢ়ি, মই Firefox cloud সেৱাসমূহৰ &formatS1; আৰু &formatS2; মানি লৈছো">
@@ -171,6 +173,9 @@
 <!ENTITY fxaccount_confirm_account_verification_link_sent2 "সত্যাপন ইমেইল পঠোৱা হ\u0027ল">
 <!ENTITY fxaccount_confirm_account_verification_link_not_sent2 "সত্যাপন ইমেইল পঠাব পৰা নগ\u0027ল">
 
+
+
+
 <!ENTITY fxaccount_sign_in_sub_header "ছাইন ইন">
 <!ENTITY fxaccount_sign_in_button_label "ছাইন ইন">
 <!ENTITY fxaccount_sign_in_forgot_password "পাছৱৰ্ড পাহৰিলে নেকি?">
@@ -180,9 +185,13 @@
 <!ENTITY fxaccount_account_verified_sub_header "একাউণ্ট সতাসত্য নিৰূপণ কৰা হল">
 <!ENTITY fxaccount_account_verified_description2 "আপোনাৰ তথ্য কিছু সময়ত সংমিহলি আৰম্ভ কৰিব">
 
+
 <!ENTITY fxaccount_update_credentials_header "ছাইন ইন কৰক">
 <!ENTITY fxaccount_update_credentials_button_label "ছাইন ইন কৰক">
 <!ENTITY fxaccount_update_credentials_unknown_error "ছাইন ইন কৰিব পৰা নগল">
+
+<!ENTITY fxaccount_finish_migrating_button_label "উন্নয়ন সমাপ্ত কৰক">
+<!ENTITY fxaccount_finish_migrating_description "উন্নয়নে অধিক পৰিমাণ তথ্য স্থানান্তৰ কৰিব পাৰে। এটা Wi-Fi নেটৱৰ্কত থকাটো উত্তম হ\u0027ব।">
 
 <!ENTITY fxaccount_status_header2 "Firefox একাউণ্ট">
 <!ENTITY fxaccount_status_signed_in_as "এই ধৰণে ছাইন ইন কৰক">
@@ -197,7 +206,8 @@
 <!ENTITY fxaccount_status_needs_credentials "সংযোগ কৰিব নোৱাৰি। ছাইন ইন কৰিবলে টেপ কৰক।">
 <!ENTITY fxaccount_status_needs_upgrade "ছাইন ইন কৰিবলৈ আপুনি &brandShortName; ক উন্নত কৰিব লাগিব।">
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled "&syncBrand.shortName.label; সংস্থাপিত, কিন্তু স্বচালিতভাৱে সংমিহলি কৰা নাই। Android সংহতিসমূহ &gt; তথ্য ব্যৱহাৰত “তথ্য স্ব-সংমিহলি কৰক” টগল কৰক।">
-<!ENTITY fxaccount_status_needs_account_enabled "&syncBrand.shortName.label; সংস্থাপিত, কিন্তু স্বচালিতভাৱে সংমিহলি কৰা নাই। সংমিহলি আৰম্ভ কৰিবলে টেপ কৰক।">
+<!ENTITY fxaccount_status_needs_master_sync_automatically_enabled_v21 "&syncBrand.shortName.label; সংস্থাপিত, কিন্তু স্বচালিতভাৱে সংমিহলি কৰা নাই। Android সংহতিসমূহ &gt; একাওণ্টসমূহত “তথ্য স্ব-সংমিহলি কৰক” টগল কৰক।">
+<!ENTITY fxaccount_status_needs_finish_migrating "আপোনাৰ নতুন Firefox একাওণ্টত ছাইন ইন কৰিবলে টেপ কৰক।">
 <!ENTITY fxaccount_status_bookmarks "পত্ৰচিহ্নসমূহ">
 <!ENTITY fxaccount_status_history "ইতিহাস">
 <!ENTITY fxaccount_status_passwords "পাছৱৰ্ডসমূহ">
@@ -245,8 +255,14 @@
 <!ENTITY fxaccount_remote_error_SERVICE_TEMPORARILY_UNAVAILABLE_TO_DUE_HIGH_LOAD "চাৰ্ভাৰ ব্যস্ত, ক্ষন্তেক পিছত পুনৰ চেষ্টা কৰক">
 <!ENTITY fxaccount_remote_error_UNKNOWN_ERROR "এটা সমস্যা হৈছিল">
 <!ENTITY fxaccount_remote_error_COULD_NOT_CONNECT "নেটৱৰ্কলৈ সংযোগ কৰিব নোৱাৰি">
+<!ENTITY fxaccount_remote_error_ACCOUNT_LOCKED "একাওণ্ট লক কৰা আছে। &formatS1;">
 
 <!ENTITY fxaccount_sync_sign_in_error_notification_title2 "&syncBrand.shortName.label; সংযুক্ত নহয়">
 <!-- Localization note: the format string below will be replaced
      with the Firefox Account's email address. -->
 <!ENTITY fxaccount_sync_sign_in_error_notification_text2 "&formatS; ৰূপে ছাইন ইন কৰিবলে টেপ কৰক">
+
+<!ENTITY fxaccount_sync_finish_migrating_notification_title "&syncBrand.shortName.label; উন্নয়ন কৰা সমাপ্ত কৰিব নে?">
+<!-- Localization note: the format string below will be replaced
+     with the Firefox Account's email address. -->
+<!ENTITY fxaccount_sync_finish_migrating_notification_text "&formatS; ৰূপে ছাইন ইন কৰিবলে টেপ কৰক">
