@@ -4,8 +4,8 @@
 
 <!ENTITY no_space_to_start_error "Spazio libero insufficiente per avviare &brandShortName;.">
 <!ENTITY error_loading_file "Si è verificato un errore durante il caricamento di un file necessario per l’esecuzione di &brandShortName;">
-<!ENTITY onboard_start_message2 "Benvenuto in &brandShortName;">
-<!ENTITY onboard_start_subtext2 "Più strumenti per la privacy e possibilità di personalizzazione che mai.">
+<!ENTITY onboard_start_message3 "Naviga con &brandShortName;">
+<!ENTITY onboard_start_subtext3 "Un’esperienza di navigazione che si adatta alle tue esigenze.">
 <!ENTITY onboard_start_button_account "Accedi a &brandShortName;">
 <!ENTITY onboard_start_button_browser "Inizia a navigare">
 <!ENTITY bookmarks_title "Segnalibri">
