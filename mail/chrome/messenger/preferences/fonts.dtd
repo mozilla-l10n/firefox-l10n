@@ -7,9 +7,9 @@
 <!ENTITY  language.label                          "Fontes padrão para:">
 <!ENTITY  language.accesskey                      "F">
 
-<!ENTITY  size.label                              "Tam.:">
-
-
+<!ENTITY  size.label                              "Tamanho:">
+<!ENTITY  sizeProportional.accesskey              "h">
+<!ENTITY  sizeMonospace.accesskey                 "n">
 
 <!ENTITY  proportional.label                      "Proporcional:">
 <!ENTITY  proportional.accesskey                  "P">
