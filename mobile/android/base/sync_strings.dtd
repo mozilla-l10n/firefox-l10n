@@ -150,8 +150,8 @@
 
 <!ENTITY fxaccount_create_account_header2 "এটা Firefox একাউন্ট সৃষ্টি কৰক">
 <!ENTITY fxaccount_create_account_password_length_restriction "অন্তত ৮ আখৰৰ হব লাগিব">
-
-
+<!ENTITY fxaccount_create_account_day_of_birth "দিন">
+<!ENTITY fxaccount_create_account_month_of_birth "মাহ">
 <!ENTITY fxaccount_create_account_year_of_birth "জন্মবৰ্ষ">
 <!-- Localization note: &formatS1; is fxaccount_policy_linktos, &formatS2; is fxaccount_policy_linkprivacy, both hyperlinked. -->
 <!ENTITY fxaccount_create_account_policy_text2 "আগবাঢ়ি, মই Firefox cloud সেৱাসমূহৰ &formatS1; আৰু &formatS2; মানি লৈছো">
@@ -172,9 +172,9 @@
 <!ENTITY fxaccount_confirm_account_change_email "এই ইমেইল ঠিকনা পাহৰিম নে?">
 <!ENTITY fxaccount_confirm_account_verification_link_sent2 "সত্যাপন ইমেইল পঠোৱা হ\u0027ল">
 <!ENTITY fxaccount_confirm_account_verification_link_not_sent2 "সত্যাপন ইমেইল পঠাব পৰা নগ\u0027ল">
-
-
-
+<!ENTITY fxaccount_resend_unlock_code_button_label "ইমেইল আনলকৰ ক\u0027ড পুনৰ পঠিয়াওক">
+<!ENTITY fxaccount_unlock_code_sent "একাওণ্ট আনলক ইমেইল পঠিওয়া হল">
+<!ENTITY fxaccount_unlock_code_not_sent "একাওণ্ট আনলক ইমেইল পঠিয়াব পৰা নগল">
 
 <!ENTITY fxaccount_sign_in_sub_header "ছাইন ইন">
 <!ENTITY fxaccount_sign_in_button_label "ছাইন ইন">
@@ -185,11 +185,13 @@
 <!ENTITY fxaccount_account_verified_sub_header "একাউণ্ট সতাসত্য নিৰূপণ কৰা হল">
 <!ENTITY fxaccount_account_verified_description2 "আপোনাৰ তথ্য কিছু সময়ত সংমিহলি আৰম্ভ কৰিব">
 
+<!ENTITY fxaccount_migration_finished_header "উন্নয়ন সমাপ্ত">
 
 <!ENTITY fxaccount_update_credentials_header "ছাইন ইন কৰক">
 <!ENTITY fxaccount_update_credentials_button_label "ছাইন ইন কৰক">
 <!ENTITY fxaccount_update_credentials_unknown_error "ছাইন ইন কৰিব পৰা নগল">
 
+<!ENTITY fxaccount_finish_migrating_header "উন্নয়ন সম্পূৰ্ণ কৰিবলে ছাইন ইন কৰক">
 <!ENTITY fxaccount_finish_migrating_button_label "উন্নয়ন সমাপ্ত কৰক">
 <!ENTITY fxaccount_finish_migrating_description "উন্নয়নে অধিক পৰিমাণ তথ্য স্থানান্তৰ কৰিব পাৰে। এটা Wi-Fi নেটৱৰ্কত থকাটো উত্তম হ\u0027ব।">
 
