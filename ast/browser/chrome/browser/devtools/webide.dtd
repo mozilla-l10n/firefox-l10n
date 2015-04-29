@@ -39,8 +39,6 @@
 <!ENTITY viewMenu_accesskey "V">
 <!ENTITY viewMenu_toggleEditor_label "Alternar editor">
 <!ENTITY viewMenu_toggleEditor_accesskey "E">
-<!ENTITY viewMenu_showAddons_label "Alministrar simuladores">
-<!ENTITY viewMenu_showAddons_accesskey "M">
 <!ENTITY projectButton_label "Abrir aplicación">
 <!ENTITY runtimeButton_label "Esbillar entornu d'execución">
 <!ENTITY key_quit "W">
@@ -51,10 +49,6 @@
 <!ENTITY projectPanel_myProjects "Los mios proyeutos">
 <!ENTITY projectPanel_runtimeApps "Aplicaciones en tiempu d'execución">
 <!ENTITY projectPanel_tabs "Llingüetes">
-<!ENTITY runtimePanel_USBDevices "Preseos USB">
-<!ENTITY runtimePanel_WiFiDevices "Preseos Wi-Fi">
-<!ENTITY runtimePanel_simulators "Simuladores">
-<!ENTITY runtimePanel_custom "Personalizáu">
 <!ENTITY runtimePanel_installsimulator "Instalar Simulador">
 <!ENTITY runtimePanel_noadbhelper "Instalar encontu ADB">
 <!ENTITY runtimePanel_nousbdevice "¿Nun pues ver el preséu?">
@@ -76,9 +70,6 @@
 <!ENTITY prefs_editor_title "Editor">
 <!ENTITY prefs_general_title "Xeneral">
 <!ENTITY prefs_restore "Restaurar predeterminaos">
-<!ENTITY prefs_simulators "Alministrar simuladores">
-<!ENTITY prefs_options_enablelocalruntime "Activar entornu d'execución llocal">
-<!ENTITY prefs_options_enablelocalruntime_tooltip "Permitir a WebIDE coneutase al so propiu entornu d'execución (executando instancia del restolador web)">
 <!ENTITY prefs_options_rememberlastproject "Recordar el postrer proyeutu">
 <!ENTITY prefs_options_rememberlastproject_tooltip "Restaurar el proyeutu anterior cuando s'anicie WebIDE">
 <!ENTITY prefs_options_templatesurl "URL de plantíes">
@@ -102,8 +93,53 @@
 <!ENTITY runtimedetails_adbIsRoot "ADB ye root: ">
 <!ENTITY runtimedetails_summonADBRoot "preséu raigañu">
 <!ENTITY runtimedetails_ADBRootWarning "(requier un cargador desbloquiáu)">
-<!ENTITY runtimedetails_restrictedPrivileges "Privilexos restrinxíos de DevTools: ">
 <!ENTITY runtimedetails_requestPrivileges "solicita más privilexos">
 <!ENTITY runtimedetails_privilegesWarning "(va reaniciase'l preséu. Requier accesu root).">
 <!ENTITY monitor_title "Monitor">
 <!ENTITY monitor_help "Ayuda">
+<!ENTITY wifi_auth_yes_scanner "¿Tienes un analizador QR?">
+<!ENTITY wifi_auth_token_request "Si l'otru preséu solicita un token en cuenta d'analizar un códigu QR, copia'l valor de debaxo nel otru preséu:">
+<!ENTITY wifi_auth_scan_request "L'estremu al que tas coneutándote necesita más información pa identificar esta conexón. Analiza'l códigu QR de debaxu per aciu de la solicitú que tienes nel otru preséu.">
+<!ENTITY wifi_auth_no_scanner "¿Nun tienes un analizador QR?">
+<!ENTITY wifi_auth_header "Identificación del veceru">
+<!ENTITY viewMenu_zoomout_label "Amenorgar">
+<!ENTITY viewMenu_zoomout_accesskey "A">
+<!ENTITY viewMenu_zoomin_label "Aumentar">
+<!ENTITY viewMenu_zoomin_accesskey "m">
+<!ENTITY viewMenu_resetzoom_label "Restablecer tamañu">
+<!ENTITY viewMenu_resetzoom_accesskey "R">
+<!ENTITY runtimedetails_unrestrictedPrivileges "Privilexos non restrinxíos de DevTools:">
+<!ENTITY runtimePanel_wifi "Preséu Wi-Fi">
+<!ENTITY runtimePanel_usb "Preseos USB">
+<!ENTITY runtimePanel_simulator "Simuladores">
+<!ENTITY runtimePanel_other "Otros">
+<!ENTITY runtimeMenu_showSettings_label "Axustes de preséu">
+<!ENTITY runtimeMenu_showSettings_accesskey "x">
+<!ENTITY runtimeMenu_showDevicePrefs_label "Preferencies de preséu">
+<!ENTITY runtimeMenu_showDevicePrefs_accesskey "P">
+<!ENTITY projectMenu_manageComponents_label "Alministrar componentes estra">
+<!ENTITY projectMenu_manageComponents_accesskey "l">
+<!ENTITY prefs_options_autoconnectruntime_tooltip "Reconeutar al entornu d'execución anterior cuando s'anicie WebIDE">
+<!ENTITY prefs_options_autoconnectruntime "Reconeutar al entornu d'execución anterior">
+<!ENTITY prefs_manage_components "Alministrar componentes estra">
+<!ENTITY logs_title "Rexistros d'órdenes previos al empaquetáu">
+<!ENTITY key_zoomout "-">
+<!ENTITY key_zoomin2 "=">
+<!ENTITY key_zoomin "+">
+<!ENTITY key_resetzoom "0">
+<!ENTITY devicesetting_title "Configuración de preséu">
+<!ENTITY devicesetting_search "Configuración de busques">
+<!ENTITY devicesetting_newtext "Valor de configuración">
+<!ENTITY devicesetting_newname "Nome de configuración nueva">
+<!ENTITY devicesetting_addnew "Amestar configuración nueva">
+<!ENTITY devicepreference_title "Preferencies de preséu">
+<!ENTITY devicepreference_search "Guetar preferencies">
+<!ENTITY devicepreference_newtext "Valor de la preferencia">
+<!ENTITY devicepreference_newname "Nome de la preferencia nueva">
+<!ENTITY devicepreference_addnew "Amestar preferencia nueva">
+<!ENTITY device_typestring "Cadena">
+<!ENTITY device_typeobject "Oxetu">
+<!ENTITY device_typenumber "Enteru">
+<!ENTITY device_typenone "Seleiciona un tipu">
+<!ENTITY device_typeboolean "sí/non">
+<!ENTITY details_showPrepackageLog_button "Amosar rexistru previu al empaquetáu">
