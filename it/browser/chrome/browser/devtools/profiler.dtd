@@ -17,15 +17,21 @@
 <!ENTITY profilerUI.toolbar.js-flamegraph "Flame chart JS">
 <!ENTITY profilerUI.toolbar.memory-flamegraph1 "Flame chart allocazioni">
 <!ENTITY profilerUI.table.totalDuration2 "Tempo totale">
+<!ENTITY profilerUI.table.totalDuration.tooltip "Il tempo trascorso in questa funzione e nelle funzioni chiamate.">
 <!ENTITY profilerUI.table.selfDuration2 "Tempo individuale">
+<!ENTITY profilerUI.table.selfDuration.tooltip "Il tempo trascorso esclusivamente in questa funzione.">
 <!ENTITY profilerUI.table.totalPercentage "Costo totale">
+<!ENTITY profilerUI.table.totalPercentage.tooltip "La percentuale di tempo trascorso in questa funzione e nelle funzioni chiamate.">
 <!ENTITY profilerUI.table.selfPercentage "Costo individuale">
+<!ENTITY profilerUI.table.selfPercentage.tooltip "La percentuale di tempo trascorso esclusivamente in questa funzione.">
 <!ENTITY profilerUI.table.samples "Campioni">
-<!ENTITY profilerUI.table.totalAlloc1 "Allocazioni totali">
-<!ENTITY profilerUI.table.totalAllocTooltip "Il numero di allocazioni di oggetti campionate in questa posizione e in tutte gli elementi chiamati.">
-<!ENTITY profilerUI.table.selfAlloc1 "Allocazioni elemento">
-<!ENTITY profilerUI.table.selfAllocTooltip "Il numero di allocazioni di oggetti campionate in questa posizione.">
+<!ENTITY profilerUI.table.samples.tooltip "Quante volte questa funzione è stata rilevata nello stack durante il campionamento.">
 <!ENTITY profilerUI.table.function "Funzione">
+<!ENTITY profilerUI.table.function.tooltip "Il nome e la posizione nel sorgente della funzione campionata.">
+<!ENTITY profilerUI.table.totalAlloc1 "Allocazioni totali">
+<!ENTITY profilerUI.table.totalAlloc.tooltip "Il numero di allocazioni di oggetti campionate in questa posizione e in tutti gli elementi chiamati.">
+<!ENTITY profilerUI.table.selfAlloc1 "Allocazioni elemento">
+<!ENTITY profilerUI.table.selfAlloc.tooltip "Il numero di allocazioni di oggetti campionate in questa posizione.">
 <!ENTITY profilerUI.newtab.tooltiptext "Aggiungi nuova scheda dalla selezione">
 <!ENTITY profilerUI.options.filter.tooltiptext "Seleziona i dati da visualizzare nella sequenza temporale">
 <!ENTITY profilerUI.options.gear.tooltiptext "Configura preferenze prestazioni.">
