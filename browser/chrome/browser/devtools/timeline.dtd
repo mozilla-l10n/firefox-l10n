@@ -8,3 +8,6 @@
 <!ENTITY timelineUI.emptyNotice2 "pa entamar a grabar eventos de la llinia de tiempos.">
 <!ENTITY timelineUI.stopNotice1 "Primi nel botón">
 <!ENTITY timelineUI.stopNotice2 "otra vegada pa dexar de grabar.">
+<!ENTITY timelineUI.memoryCheckbox.tooltip "Activar mediciones de memoria">
+<!ENTITY timelineUI.memoryCheckbox.label "Memoria">
+<!ENTITY timelineUI.filterButton.tooltip "Seleicionar qué datos amosar">

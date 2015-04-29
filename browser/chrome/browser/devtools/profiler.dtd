@@ -32,3 +32,12 @@
 <!ENTITY profilerUI.options.filter.tooltiptext "Seleiciona qué datos amosar na llinia de tiempos">
 <!ENTITY profilerUI.invertTree.tooltiptext "Invertir l'árbol de llamaes amuesa los caminos de llamaes analizaos empecipiando dende los marcos más recientes y espandiéndose hasta los más vieyos.">
 <!ENTITY profilerUI.invertTree "Invertir árbol de llamaes">
+<!ENTITY profilerUI.invertFlameGraph.tooltiptext "Invertir el gráficu de llaparaes amuesa los caminos de llamaes analizaes entamando dende los marcos más recientes y espandiéndose hasta los más vieyos.">
+<!ENTITY profilerUI.invertFlameGraph "Invertir gráficu de llaparaes">
+<!ENTITY profilerUI.flattenTreeRecursion.tooltiptext "Allanar recursión al inspeicionar funciones.">
+<!ENTITY profilerUI.flattenTreeRecursion "Allanar recursión n'árbol">
+<!ENTITY profilerUI.exportButton "Guardar">
+<!ENTITY profilerUI.enableMemory.tooltiptext "Grabar el consumu de memoria mientres l'análisis.">
+<!ENTITY profilerUI.enableMemory "Grabar usu de memoria">
+<!ENTITY profilerUI.enableFramerate.tooltiptext "Grabar tasa de refrescu mientres l'análisis.">
+<!ENTITY profilerUI.enableFramerate "Grabar tasa de refrescu">
