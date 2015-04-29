@@ -184,7 +184,7 @@
 
 <!ENTITY pref_cookies_menu "Cookies">
 <!ENTITY pref_cookies_accept_all "Ativa">
-<!ENTITY pref_cookies_not_accept_foreign "Permitir somente os do site atual">
+<!ENTITY pref_cookies_not_accept_foreign "Ativado, excluindo os de terceiros">
 <!ENTITY pref_cookies_disabled "Desativar">
 
 <!ENTITY pref_tracking_protection_title "Proteção contra rastreamento">
@@ -215,7 +215,7 @@
 <!ENTITY pref_clear_private_data2 "Limpar agora">
 <!ENTITY pref_clear_private_data_category "Limpar dados de navegação">
 <!ENTITY pref_clear_on_exit_title2 "Limpar ao sair">
-<!ENTITY pref_clear_on_exit_summary2 "O &brandShortName; irá limpar automaticamente seus dados sempre que você selecionar “Sair” no menu principal">
+<!ENTITY pref_clear_on_exit_summary2 "&brandShortName; irá limpar automaticamente os seus dados sempre que selecionar \u0022Sair\u0022 no menu principal">
 <!ENTITY pref_clear_on_exit_dialog_title "Selecione quais dados limpar">
 <!ENTITY pref_plugins "Plugins">
 <!ENTITY pref_plugins_enabled "Ativa">
@@ -554,9 +554,12 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY private_data_fail "Alguns dados de navegação podem não ter sido limpos">
 
 <!ENTITY bookmarkhistory_button_import "Importar">
-<!ENTITY bookmarkhistory_import_both "Importando favoritos e histórico do Android">
-<!ENTITY bookmarkhistory_import_bookmarks "Importando favoritos do Android">
-<!ENTITY bookmarkhistory_import_history "Importando histórico do Android">
+<!ENTITY bookmarkhistory_import_both "Importando favoritos e histórico 
+do Android">
+<!ENTITY bookmarkhistory_import_bookmarks "Importando favoritos 
+do Android">
+<!ENTITY bookmarkhistory_import_history "Importando histórico 
+do Android">
 <!ENTITY bookmarkhistory_import_wait "Por favor, aguarde…">
 
 <!ENTITY suggestions_prompt3 "Deseja ativar as sugestões de pesquisa?">
