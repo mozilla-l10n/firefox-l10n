@@ -360,7 +360,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY appMenuCustomize.label "Прилагођавање">
 <!ENTITY appMenuCustomize.tooltip "Прилагоди мени и траку са алаткама">
-<!ENTITY appMenuCustomizeExit.label "Излаз из прилагођавања">
+<!ENTITY appMenuCustomizeExit.label "Изађи из прилагођавања">
 <!ENTITY appMenuCustomizeExit.tooltip "Завршите прилагођавање">
 <!ENTITY appMenuHistory.label "Историјат">
 <!ENTITY appMenuHistory.showAll.label "Прикажи целу историју">
