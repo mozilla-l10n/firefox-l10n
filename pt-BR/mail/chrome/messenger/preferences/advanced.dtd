@@ -14,8 +14,8 @@
 <!ENTITY enableGlodaSearch.accesskey   "A">
 <!ENTITY allowHWAccel.label            "Usar aceleração de hardware quando disponível">
 <!ENTITY allowHWAccel.accesskey        "h">
-
-
+<!ENTITY storeType.label               "Tipo de armazenamento de mensagem para contas novas:">
+<!ENTITY storeType.accesskey           "T">
 <!ENTITY mboxStore2.label              "Arquivo por pasta (mbox)">
 <!ENTITY maildirStore.label            "Um arquivo por mensagem (maildir)">
 
@@ -41,16 +41,16 @@
 <!-- Data Choices -->
 
 <!ENTITY telemetrySection.label          "Telemetria">
-
+<!ENTITY telemetryDesc.label             "Compartilha o desempenho, a utilização, o hardware e os dados de personalização sobre o cliente de e-mail com a &vendorShortName; para ajudar a melhorar o &brandShortName;">
 <!ENTITY enableTelemetry.label           "Ativar telemetria">
 <!ENTITY enableTelemetry.accesskey       "t">
 
 
 <!ENTITY crashReporterSection.label      "Relatório de travamento">
 
-
-
-
+<!ENTITY enableCrashReporter.label       "Ativar o Crash Reporter">
+<!ENTITY enableCrashReporter.accesskey   "C">
+<!ENTITY crashReporterLearnMore.label    "Saiba mais">
 <!-- Display and Reading Settings -->
 
 <!ENTITY reading.caption               "Leitura">

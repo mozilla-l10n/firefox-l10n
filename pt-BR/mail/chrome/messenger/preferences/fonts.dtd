@@ -22,6 +22,8 @@
 <!ENTITY  monospace.accesskey                     "o">
 <!-- LOCALIZATION NOTE (font.langGroup.latin) :
      Translate "Latin" as the name of Latin (Roman) script, not as the name of the Latin language. -->
+
+<!ENTITY  font.langGroup.latin                    "Latino">
 <!ENTITY  font.langGroup.japanese                 "Japonês">
 <!ENTITY  font.langGroup.trad-chinese             "Chinês tradicional (Taiwan)">
 <!ENTITY  font.langGroup.simpl-chinese            "Chinês simplificado">
@@ -69,9 +71,9 @@
 <!ENTITY sendDefaultCharset.label         "Para mensagens enviadas:">
 <!ENTITY sendDefaultCharset.accesskey     "r">
 <!ENTITY languagesTitle2.label            "Codificação do texto">
-
+<!ENTITY composingDescription2.label      "Defina a codificação de texto para recebimento e envio de mensagens">
 
 <!ENTITY viewDefaultCharsetList.label     "Para mensagens recebidas:">
 <!ENTITY viewDefaultCharsetList.accesskey  "e">
-
-
+<!ENTITY replyInDefaultCharset3.label     "Quando possível, use a codificação de texto padrão nas respostas">
+<!ENTITY replyInDefaultCharset3.accesskey "Q">
