@@ -16,7 +16,7 @@
 <!ENTITY radioAlwaysOffline.label "Desconectado">
 <!ENTITY radioAlwaysOffline.accesskey "D">
 
-<!ENTITY textGoingOnline "Ao sair do modo off-line enviar as mensagens da pasta “Saída”?">
+<!ENTITY textGoingOnline "Ao sair do modo off-line enviar as mensagens não enviadas?">
 <!ENTITY radioAutoSend.label "Sim">
 <!ENTITY radioAutoSend.accesskey "S">
 <!ENTITY radioNotSend.label "Não">

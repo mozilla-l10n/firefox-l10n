@@ -208,7 +208,7 @@
 <!-- Mail Toolbar Tooltips -->
 
 <!ENTITY sendButton.tooltip "Enviar esta mensagem agora">
-<!ENTITY sendlaterButton.tooltip "Armazenar a mensagem na pasta “Saída”">
+<!ENTITY sendlaterButton.tooltip "Enviar esta mensagem mais tarde">
 <!ENTITY quoteButton.tooltip "Citar a mensagem anterior">
 <!ENTITY addressButton.tooltip "Selecionar destinatários no catálogo de endereços">
 <!ENTITY attachButton.tooltip "Anexar arquivos">
