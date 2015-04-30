@@ -40,7 +40,7 @@
 <!ENTITY  askEachTime.label             "perguntar sempre que necessário">
 
 <!ENTITY  cookieExceptions.label        "Exceções...">
-<!ENTITY  cookieExceptions.accesskey    "x">
+<!ENTITY  cookieExceptions.accesskey    "E">
 
 <!ENTITY  showCookies.label             "Mostrar as cookies...">
 <!ENTITY  showCookies.accesskey         "s">

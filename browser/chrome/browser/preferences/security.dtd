@@ -21,7 +21,7 @@
 <!ENTITY  blockWebForgeries.accesskey "B">
 
 <!ENTITY  addonExceptions.label         "Exceções...">
-<!ENTITY  addonExceptions.accesskey     "x">
+<!ENTITY  addonExceptions.accesskey     "E">
 
 
 <!ENTITY  passwords.label               "Palavras-passe">

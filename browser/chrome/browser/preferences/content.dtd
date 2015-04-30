@@ -7,7 +7,7 @@
 <!ENTITY  blockPopups.label           "Bloquear janelas emergentes">
 <!ENTITY  blockPopups.accesskey       "B">
 <!ENTITY  popupExceptions.label       "Exceções...">
-<!ENTITY  popupExceptions.accesskey   "x">
+<!ENTITY  popupExceptions.accesskey   "E">
 
 <!ENTITY  fontsAndColors.label        "Tipo de letra e cores">
 
