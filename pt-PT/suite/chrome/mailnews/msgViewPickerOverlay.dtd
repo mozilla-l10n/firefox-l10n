@@ -10,7 +10,7 @@
 <!ENTITY viewAll.accesskey "T">
 <!ENTITY viewUnread.label "Não Lidas">
 <!ENTITY viewUnread.accesskey "N">
-<!ENTITY viewNotDeleted.label "Não apagadas">
+<!ENTITY viewNotDeleted.label "Não eliminadas">
 <!ENTITY viewNotDeleted.accesskey "d">
 <!ENTITY viewTags.label "Etiquetas">
 <!ENTITY viewTags.accesskey "E">

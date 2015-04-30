@@ -34,7 +34,7 @@
 <!ENTITY markAsReadAfter.accesskey        "t">
 <!ENTITY secondsLabel.label               "segundos">
 
-<!ENTITY openingMessages.label            "Ao abrir mensagens apresentar as mesmas em:">
+<!ENTITY openingMessages.label            "Ao abrir as mensagens, mostrar em:">
 <!ENTITY newWindowRadio.label             "Uma nova janela">
 <!ENTITY newWindowRadio.accesskey         "n">
 <!ENTITY existingWindowRadio.label        "Uma janela existente">
@@ -43,5 +43,5 @@
 <!ENTITY disableContent.accesskey         "B">
 <!ENTITY showCondensedAddresses.label     "Apresentar apenas os nomes para pessoas da minha lista de contactos">
 <!ENTITY showCondensedAddresses.accesskey "o">
-<!ENTITY closeMsgWindowOnDelete.label     "Fechar a janela de mensagem ao apagar a mensagem">
-<!ENTITY closeMsgWindowOnDelete.accesskey "h">
+<!ENTITY closeMsgWindowOnDelete.label     "Fechar janela de mensagem ao eliminar a mensagem">
+<!ENTITY closeMsgWindowOnDelete.accesskey "l">

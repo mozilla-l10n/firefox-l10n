@@ -47,8 +47,8 @@
 <!ENTITY setPriority.label "Configurar prioridade para">
 <!ENTITY addTag.label "Etiquetar mensagem">
 <!ENTITY setJunkScore.label "Configurar o estado do lixo eletrónico para">
-<!ENTITY deleteMessage.label "Apagar mensagem">
-<!ENTITY deleteFromPOP.label "Apagar do servidor POP">
+<!ENTITY deleteMessage.label "Eliminar mensagem">
+<!ENTITY deleteFromPOP.label "Eliminar do servidor POP">
 <!ENTITY fetchFromPOP.label "Procurar a partir do servidor POP">
 <!ENTITY ignoreThread.label "Ignorar tópico">
 <!ENTITY ignoreSubthread.label "Ignorar sub-tópico">

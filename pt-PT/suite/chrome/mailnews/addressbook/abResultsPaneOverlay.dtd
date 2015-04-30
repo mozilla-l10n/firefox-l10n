@@ -40,8 +40,8 @@
 <!ENTITY composeEmail.accesskey                "C">
 <!ENTITY copyAddress.label                     "Copiar endereço de Correio">
 <!ENTITY copyAddress.accesskey                 "o">
-<!ENTITY deleteAddrBookCard.label              "Apagar">
-<!ENTITY deleteAddrBookCard.accesskey          "A">
+<!ENTITY deleteAddrBookCard.label              "Eliminar">
+<!ENTITY deleteAddrBookCard.accesskey          "E">
 <!ENTITY newAddrBookCard.label                 "Novo cartão...">
 <!ENTITY newAddrBookCard.accesskey             "N">
 <!ENTITY newAddrBookMailingList.label          "Nova Mailing List...">

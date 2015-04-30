@@ -24,7 +24,7 @@
 <!ENTITY retentionCleanup.label "Guardar mensagens:">
 <!ENTITY retentionCleanupImap.label "Guardar mensagens, sejam as cópias locais ou as originais no servidor:">
 <!ENTITY retentionCleanupPop.label "Guardar mensagens, incluindo os originais no servidor:">
-<!ENTITY retentionDeleteMsg.label "Apagar mensagens maiores que">
+<!ENTITY retentionDeleteMsg.label "Eliminar mensagens maiores que">
 <!ENTITY retentionDeleteMsg.accesskey "m">
 <!ENTITY retentionKeepAll.label "Não eliminar mensagens">
 <!ENTITY retentionKeepAll.accesskey "a">

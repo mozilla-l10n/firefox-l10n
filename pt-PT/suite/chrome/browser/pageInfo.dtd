@@ -94,7 +94,7 @@
 <!ENTITY  permPopup             "Abrir janelas de popup">
 <!ENTITY  permCookie            "Definir Cookies">
 <!ENTITY  permNotifications     "Mostrar notificações">
-<!ENTITY  permInstall           "Instalar Extensões e Temas">
+<!ENTITY  permInstall           "Instalar extensões ou temas">
 <!ENTITY  permGeo               "Partilhar localização">
 
 <!ENTITY  securityTab           "Segurança">

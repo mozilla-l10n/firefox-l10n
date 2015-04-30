@@ -13,7 +13,7 @@
 <!ENTITY accountColumn.label "Conta">
 <!ENTITY statusColumn.label "Estado">
 <!ENTITY sizeColumn.label "Tamanho">
-<!ENTITY junkStatusColumn.label "Estado do Lixo">
+<!ENTITY junkStatusColumn.label "Estado do lixo eletrónico">
 <!ENTITY unreadColumn.label "Não lidas no tópico">
 <!ENTITY totalColumn.label "Totais no tópico">
 <!ENTITY readColumn.label "Ler">
