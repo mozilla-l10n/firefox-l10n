@@ -22,6 +22,8 @@
 <!ENTITY inspectorHTMLPasteFirstChild.accesskey "J">
 <!ENTITY inspectorHTMLPasteLastChild.label "Jako ostatni potomny">
 <!ENTITY inspectorHTMLPasteLastChild.accesskey "o">
+<!ENTITY inspectorScrollNodeIntoView.label "Przewiń stronę do zaznaczonego elementu">
+<!ENTITY inspectorScrollNodeIntoView.accesskey "P">
 <!ENTITY inspectorHTMLDelete.label "Usuń węzeł">
 <!ENTITY inspectorHTMLDelete.accesskey "U">
 
