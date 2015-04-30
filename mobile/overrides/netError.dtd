@@ -151,16 +151,16 @@ ser temporário, voltando a tentar mais tarde.</li>
 <!ENTITY corruptedContentError.title "Erro de conteúdo corrompido">
 <!ENTITY corruptedContentError.longDesc "<p>A página que está a tentar visualizar não pode ser apresentada porque foi detectado um erro na transmissão de dados.</p><ul><li>Por favor, contacte o dono do sítio web para o informar sobre este problema.</li></ul>">
 
-<!ENTITY securityOverride.linkText "Ou pode adicionar excepção…">
+<!ENTITY securityOverride.linkText "Ou pode adicionar exceção…">
 <!ENTITY securityOverride.getMeOutOfHereButton "Tirem-me daqui!">
-<!ENTITY securityOverride.exceptionButtonLabel "Adicionar excepção…">
+<!ENTITY securityOverride.exceptionButtonLabel "Adicionar exceção…">
 <!-- LOCALIZATION NOTE (securityOverride.warningContent) - Do not translate the
 contents of the <xul:button> tags.  The only language content is the label= field,
 which uses strings already defined above. The button is included here (instead of
 netError.xhtml) because it exposes functionality specific to firefox. -->
 
 
-<!ENTITY securityOverride.warningContent "<p>Não deve adicionar uma excepção se estiver a utilizar uma ligação à internet em que não confia ou se não estiver habituado a ver avisos deste servidor.</p> 
+<!ENTITY securityOverride.warningContent "<p>Não deve adicionar uma exceção se estiver a utilizar uma ligação à internet em que não confia plenamente ou se não estiver habituado a ver avisos neste servidor.</p> 
  
 <button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button> 
 <button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>">
