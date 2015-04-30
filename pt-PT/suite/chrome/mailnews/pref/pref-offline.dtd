@@ -9,7 +9,7 @@
 <!ENTITY pref.offline.caption             "Desligado">
 <!ENTITY textStartUp                      "Ao iniciar:">
 <!ENTITY textStartUp.accesskey            "o">
-<!ENTITY menuitemRememberPrevState        "Lembrar o estado anterior">
+<!ENTITY menuitemRememberPrevState        "Memorizar estado anterior">
 <!ENTITY menuitemAskMe                    "Perguntar-me pelo estado ao iniciar">
 <!ENTITY menuitemAlwaysOnline             "Iniciar sempre ligado">
 <!ENTITY menuitemAlwaysOffline            "Iniciar sempre desligado">
