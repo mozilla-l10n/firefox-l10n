@@ -11,7 +11,7 @@
 <!ENTITY openLinkCmdInTab.accesskey   "s">
 <!ENTITY openLinkCmd.label            "Abrir ligação em nova janela">
 <!ENTITY openLinkCmd.accesskey        "j">
-<!ENTITY openLinkCmdInPrivateWindow.label     "Abrir ligação numa janela privada">
+<!ENTITY openLinkCmdInPrivateWindow.label     "Abrir ligação em janela privada">
 <!ENTITY openLinkCmdInPrivateWindow.accesskey "d">
 <!ENTITY openLinkInWindowCmd.label    "Abrir">
 <!ENTITY openLinkInWindowCmd.accesskey "b">
