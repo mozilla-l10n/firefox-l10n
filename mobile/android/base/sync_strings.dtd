@@ -98,7 +98,7 @@
 <!ENTITY sync.notification.configure.saved "As suas seleções foram guardadas.">
 <!-- Incorrect settings and changing credentials. -->
 
-<!ENTITY sync.invalidcreds.label "Nome da conta ou senha incorretos.">
+<!ENTITY sync.invalidcreds.label "Nome da conta ou palavra-passe incorreta.">
 <!ENTITY sync.invalidserver.label "Por favor escreva um URL de servidor válido">
 <!ENTITY sync.verifying.label "A verificar…">
 <!ENTITY sync.new.recoverykey.status.incorrect "Chave de recuperação incorreta. Tente novamente.">
@@ -123,7 +123,7 @@
      labels. -->
 
 <!ENTITY fxaccount_email_hint "Endereço de correio">
-<!ENTITY fxaccount_password_hint "Senha">
+<!ENTITY fxaccount_password_hint "Palavra-passe">
 <!ENTITY fxaccount_password_hide "Ocultar">
 <!ENTITY fxaccount_password_show "Mostrar">
 <!-- Localization note: these are shown in screens after the user has
@@ -141,7 +141,7 @@
 <!ENTITY fxaccount_policy_linkprivacy "Informação sobre a privacidade">
 
 <!ENTITY fxaccount_getting_started_welcome_to_sync "Bem vindo ao &syncBrand.shortName.label;">
-<!ENTITY fxaccount_getting_started_description "Inicie sessão para sincronizar separadores, marcadores, senhas e muito mais.">
+<!ENTITY fxaccount_getting_started_description "Inicie sessão para sincronizar separadores, marcadores, palavras-passe e mais.">
 <!ENTITY fxaccount_getting_started_get_started "Começar">
 <!ENTITY fxaccount_getting_started_old_firefox "A usar uma versão antiga do &syncBrand.shortName.label;?">
 <!-- Localization note: the Firefox below should not change with the
@@ -178,7 +178,7 @@
 
 <!ENTITY fxaccount_sign_in_sub_header "Iniciar sessão">
 <!ENTITY fxaccount_sign_in_button_label "Iniciar sessão">
-<!ENTITY fxaccount_sign_in_forgot_password "Esqueceu a senha?">
+<!ENTITY fxaccount_sign_in_forgot_password "Esqueceu-se da palavra-passe?">
 <!ENTITY fxaccount_sign_in_create_account_instead "Criar uma conta">
 <!ENTITY fxaccount_sign_in_unknown_error "Não foi possível ligar">
 
@@ -212,7 +212,7 @@
 <!ENTITY fxaccount_status_needs_finish_migrating "Toque para iniciar sessão na sua nova Conta Firefox.">
 <!ENTITY fxaccount_status_bookmarks "Marcadores">
 <!ENTITY fxaccount_status_history "Histórico">
-<!ENTITY fxaccount_status_passwords "Senhass">
+<!ENTITY fxaccount_status_passwords "Palavras-passe">
 <!ENTITY fxaccount_status_tabs "Abrir separadores">
 <!ENTITY fxaccount_status_legal "Jurídico" >
 <!-- Localization note: when tapped, the following two strings link to
@@ -250,8 +250,8 @@
 <!-- Localization note: the format string will be fxaccount_sign_in_button_label, linkified. -->
 
 <!ENTITY fxaccount_remote_error_ATTEMPT_TO_CREATE_AN_ACCOUNT_THAT_ALREADY_EXISTS_2 "A conta já existe. &formatS1;">
-<!ENTITY fxaccount_remote_error_ATTEMPT_TO_ACCESS_AN_ACCOUNT_THAT_DOES_NOT_EXIST "Endereço de correio ou senha inválidos">
-<!ENTITY fxaccount_remote_error_INCORRECT_PASSWORD "Endereço de correio ou senha inválidos">
+<!ENTITY fxaccount_remote_error_ATTEMPT_TO_ACCESS_AN_ACCOUNT_THAT_DOES_NOT_EXIST "Endereço de correio ou palavra-passe inválida">
+<!ENTITY fxaccount_remote_error_INCORRECT_PASSWORD "Endereço de correio ou palavra-passe inválida">
 <!ENTITY fxaccount_remote_error_ATTEMPT_TO_OPERATE_ON_AN_UNVERIFIED_ACCOUNT "Conta não verificada">
 <!ENTITY fxaccount_remote_error_CLIENT_HAS_SENT_TOO_MANY_REQUESTS "Servidor ocupado, tente mais tarde">
 <!ENTITY fxaccount_remote_error_SERVICE_TEMPORARILY_UNAVAILABLE_TO_DUE_HIGH_LOAD "Servidor ocupado, tente mais tarde">
