@@ -94,8 +94,8 @@
 
 <!ENTITY proxyConnectFailure.title "O servidor proxy está a recusar ligações">
 <!ENTITY proxyConnectFailure.longDesc "<ul> 
-<li>Verifique as definições de proxy para confirmar que estão correctas.</li> 
-<li>Contacte o seu administrador de sistema para verificar se o servidor proxy 
+<li>Verifique as definições de proxy para confirmar que estão corretas.</li> 
+<li>Contacte o seu administrador de sistemas para verificar se o servidor proxy 
 está a funcionar.</li> 
 </ul>">
 
@@ -103,13 +103,13 @@ está a funcionar.</li>
 <!-- LOCALIZATION NOTE (proxyResolveFailure.longDesc3) This string contains markup including widgets for enabling wifi connections.
      The text inside the tags should be localized. Do not touch the ids. -->
 <!ENTITY proxyResolveFailure.longDesc3 "<ul> 
-<li>Verifique as definições de proxy para confirmar que estão correctas.</li> 
+<li>Verifique as definições de proxy para confirmar que estão corretas.</li> 
 <li>Verifique se o seu computador tem uma ligação de rede de dados ou Wi-Fi funcional. 
 <button id='wifi'>Ativar Wi-Fi</button> 
 </li> 
 </ul>">
 
-<!ENTITY redirectLoop.title "A página não está a redireccionar correctamente">
+<!ENTITY redirectLoop.title "A página não está a redirecionar corretamente">
 <!ENTITY redirectLoop.longDesc "<ul> 
 <li>Este problema às vezes pode ser causado pela desativação ou recusa de 
 cookies.</li> 
