@@ -16,8 +16,8 @@
 <!ENTITY newButton.accesskey                 "N"> 
 <!ENTITY editButton.label                    "Editar..."> 
 <!ENTITY editButton.accesskey                "E">
-<!ENTITY removeButton.label                  "Apagar"> 
-<!ENTITY removeButton.accesskey              "A"> 
+<!ENTITY removeButton.label                  "Remover"> 
+<!ENTITY removeButton.accesskey              "R"> 
 <!ENTITY lookIn.label                        "Procurar em:"> 
 <!ENTITY lookIn.accesskey                    "r"> 
 <!ENTITY for.label                           "para:"> 

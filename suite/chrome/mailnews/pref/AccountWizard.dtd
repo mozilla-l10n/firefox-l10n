@@ -117,7 +117,7 @@
 <!ENTITY newsServerNamePrefix.label "Nome do servidor de notícias (NNTP):">
 <!ENTITY downloadOnLogin.label "Transferir as mensagem agora">
 <!ENTITY downloadOnLogin.accesskey "T">
-<!ENTITY deferStorageDesc.label "Desselecione a caixa de confirmação para guardar o correio desta conta na sua própria pasta. Isto vai tornar a sua conta como uma conta principal. De outra maneira, fará parte da pasta geral do correio a receber.">
+<!ENTITY deferStorageDesc.label "Desmarque a caixa de confirmação para guardar o correio desta conta na sua própria pasta. Isto vai tornar a sua conta como uma conta principal. De outra maneira, fará parte da pasta geral do correio a receber.">
 <!ENTITY deferStorage.label "Usar a caixa de correio a receber geral (guardar o correio em pastas locais)">
 <!ENTITY deferStorage.accesskey "g">
 <!ENTITY clickFinish.label "Clique em terminar para guardar estas configurações e sair do assistente.">

@@ -89,7 +89,7 @@
 # link title for https://addons.mozilla.org/en-US/seamonkey/themes
 
 
-#define seamonkey_themes SeaMonkey Themes
+#define seamonkey_themes Temas SeaMonkey
 
 
 # LOCALIZATION NOTE (seamonkey_dictionaries):

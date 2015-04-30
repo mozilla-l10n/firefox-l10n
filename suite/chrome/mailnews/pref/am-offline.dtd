@@ -21,14 +21,14 @@
 <!ENTITY retentionCleanup.label "Para ganhar espaço em disco, as mensagens antigas podem ser permanentemente eliminadas.">
 <!ENTITY retentionCleanupImap.label "Para ganhar espaço em disco, as mensagens antigas podem ser permanentemente eliminadas, tanto as cópias locais como os originais no servidor remoto.">
 <!ENTITY retentionCleanupPop.label "Para ganhar espaço em disco, as mensagens antigas podem ser permanentemente eliminadas, incluindo os originais no servidor remoto.">
-<!ENTITY retentionKeepMsg.label "Apagar mensagens com mais de">
+<!ENTITY retentionKeepMsg.label "Eliminar mensagens com mais de">
 <!ENTITY retentionKeepMsg.accesskey "m">
 <!ENTITY retentionKeepAll.label "Não apagar nenhuma mensagem">
 <!ENTITY retentionKeepAll.accesskey "g">
-<!ENTITY retentionKeepRecent.label "Apagar todas menos as últimas">
-<!ENTITY retentionKeepRecent.accesskey "l">
+<!ENTITY retentionKeepRecent.label "Eliminar todas menos as mais recentes">
+<!ENTITY retentionKeepRecent.accesskey "r">
 <!-- LOCALIZATION NOTE: Unhide with .keepUnreadOnly { display: -moz-box; } -->
-<!ENTITY retentionKeepUnreadHidden.label "Apagar sempre todas as mensagens lidas (sobrepõe-se às definições de idade)">
+<!ENTITY retentionKeepUnreadHidden.label "Eliminar sempre todas as mensagens lidas (sobrepõe as definições de iantiguidade)">
 <!ENTITY retentionApplyToFlagged.label "Manter sempre mensagens com estrela">
 <!ENTITY retentionApplyToFlagged.accesskey "e">
 <!ENTITY nntpRemoveMsgBody.label "Remover corpo das mensagens maiores que">

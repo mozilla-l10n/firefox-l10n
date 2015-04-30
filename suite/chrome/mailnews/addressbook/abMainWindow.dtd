@@ -31,12 +31,12 @@
 <!ENTITY printPreviewAddressBook.accesskey              "i">
 <!-- Edit Menu -->
 
-<!ENTITY deleteAbCmd.label                              "Apagar livro de endereços">  
-<!ENTITY deleteContactCmd.label                         "Apagar contacto">
-<!ENTITY deleteContactsCmd.label                        "Apagar contactos selecionados">
-<!ENTITY deleteListCmd.label                            "Apagar lista">
-<!ENTITY deleteListsCmd.label                           "Apagar listas selecionadas">
-<!ENTITY deleteItemsCmd.label                           "Apagar itens selecionados">
+<!ENTITY deleteAbCmd.label                              "Eliminar livro de endereços">  
+<!ENTITY deleteContactCmd.label                         "Eliminar contacto">
+<!ENTITY deleteContactsCmd.label                        "Eliminar contactos selecionados">
+<!ENTITY deleteListCmd.label                            "Eliminar lista">
+<!ENTITY deleteListsCmd.label                           "Eliminar listas selecionadas">
+<!ENTITY deleteItemsCmd.label                           "Eliminar itens selecionados">
 <!ENTITY swapFirstNameLastNameCmd.label                 "Trocar primeiro e último nome">
 <!ENTITY swapFirstNameLastNameCmd.accesskey             "T">  
 <!ENTITY propertiesCmd.label                            "Propriedades...">
@@ -91,7 +91,7 @@
 <!ENTITY editItemButton.tooltip                         "Editar o cartão selecionado">
 <!ENTITY newmsgButton.tooltip                           "Enviar uma mensagem de correio"> 
 <!ENTITY newIM.tooltip                                  "Enviar uma mensagem instantânea ou de chat"> 
-<!ENTITY deleteItemButton.tooltip                       "Apagar o o item selecionado">
+<!ENTITY deleteItemButton.tooltip                       "Eliminar item selecionado">
 <!ENTITY throbber.tooltip                               "Ir para a página inicial do &vendorShortName;">
 <!ENTITY advancedButton.tooltip                         "Pesquisa avançada de endereços">
 <!-- Dir Tree header -->
