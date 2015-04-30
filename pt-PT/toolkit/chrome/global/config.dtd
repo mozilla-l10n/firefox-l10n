@@ -23,7 +23,7 @@
 <!-- Tooltips -->
 
 <!ENTITY prefColumnHeader.tooltip "Clique para ordenar"> 
-<!ENTITY columnChooser.tooltip "Clique para seleccionar as colunas a mostrar"> 
+<!ENTITY columnChooser.tooltip "Clique para selecionar as colunas a mostrar"> 
 <!-- Context Menu -->
 
 <!ENTITY copyPref.key "C">

@@ -10,8 +10,8 @@
 <!ENTITY pasteCmd.accesskey "o">
 <!ENTITY undoCmd.label "Anular">
 <!ENTITY undoCmd.accesskey "u">
-<!ENTITY selectAllCmd.label "Seleccionar tudo">
-<!ENTITY selectAllCmd.accesskey "t">
+<!ENTITY selectAllCmd.label "Selecionar tudo">
+<!ENTITY selectAllCmd.accesskey "a">
 <!ENTITY deleteCmd.label "Apagar">
 <!ENTITY deleteCmd.accesskey "p">
 

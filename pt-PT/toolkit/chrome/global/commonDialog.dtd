@@ -9,5 +9,5 @@
 <!ENTITY checkbox.label   "verificar">
 <!ENTITY copyCmd.label    "Copiar">
 <!ENTITY copyCmd.accesskey "C">
-<!ENTITY selectAllCmd.label "Seleccionar tudo">
-<!ENTITY selectAllCmd.accesskey "t">
+<!ENTITY selectAllCmd.label "Selecionar tudo">
+<!ENTITY selectAllCmd.accesskey "a">
