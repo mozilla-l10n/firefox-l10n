@@ -94,8 +94,6 @@
 <!ENTITY pref_search_restore_defaults_summary "Ripristina predefiniti">
 <!ENTITY pref_search_hint "Suggerimento: è possibile aggiungere qualunque sito tenendo premuto a lungo sul campo di ricerca e poi toccando l’icona &formatI;.">
 <!ENTITY pref_category_devtools "Strumenti di sviluppo">
-<!ENTITY pref_category_devtools_summary "Debug remoto, evidenziazione aree disegnate">
-<!ENTITY pref_developer_paint_flashing "Evidenzia aree disegnate">
 <!ENTITY pref_developer_remotedebugging "Debug remoto">
 <!ENTITY pref_category_logins "Accessi">
 <!ENTITY pref_remember_signons "Ricorda password">
