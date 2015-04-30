@@ -49,7 +49,7 @@
 <!ENTITY siteName.accesskey           "e">
 <!ENTITY siteName.tooltip             "Uma alcunha que identifique este sítio de publicação (ex.: 'MeuSítio')">
 <!ENTITY siteUrl.label                "Endereço de publicação (ex.: 'ftp://ftp.meuisp.com/meunodedeutilizador'):">
-<!ENTITY siteUrl.accesskey            "u">
+<!ENTITY siteUrl.accesskey            "a">
 <!ENTITY siteUrl.tooltip              "O endereço FTP:// ou HTTP:// fornecido pelo seu ISP ou servidor web">
 <!ENTITY browseUrl.label              "Endereço HTTP da sua página pessoal (ex.: 'http://www.meuisp.com/meunodedeutilizador'):">
 <!ENTITY browseUrl.accesskey          "T">

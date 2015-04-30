@@ -197,7 +197,7 @@
 <!ENTITY sortByUnreadCmd.label "Lida">
 <!ENTITY sortByUnreadCmd.accesskey "i">
 <!ENTITY sortByOrderReceivedCmd.label "Ordem de receção">
-<!ENTITY sortByOrderReceivedCmd.accesskey "ç">
+<!ENTITY sortByOrderReceivedCmd.accesskey "O">
 <!ENTITY sortAscending.label "Ascendente">
 <!ENTITY sortAscending.accesskey "c">
 <!ENTITY sortDescending.label "Descendente">
@@ -307,7 +307,7 @@
 <!ENTITY prevUnreadMsgCmd.accesskey "l">
 <!ENTITY prevUnreadMsgCmd.key "P">
 <!ENTITY goForwardCmd.label "Avançar">
-<!ENTITY goForwardCmd.accesskey "ç">
+<!ENTITY goForwardCmd.accesskey "n">
 <!ENTITY goForwardCmd.commandKey "]">
 <!ENTITY goBackCmd.label "Recuar">
 <!ENTITY goBackCmd.accesskey "R">

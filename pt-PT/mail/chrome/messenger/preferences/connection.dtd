@@ -34,7 +34,7 @@
 <!ENTITY  SOCKSport.label               "Porta:">
 <!ENTITY  SOCKSport.accesskey           "t">
 <!ENTITY  noproxy.label                 "Sem proxy para:">
-<!ENTITY  noproxy.accesskey             "N">
+<!ENTITY  noproxy.accesskey             "m">
 <!ENTITY  noproxyExplain.label          "Exemplo: .mozilla.org, .net.nz, 192.168.1.0/24">
 <!ENTITY  shareproxy.label              "Utilizar este proxy para todos os protocolos">
 <!ENTITY  shareproxy.accesskey          "x">

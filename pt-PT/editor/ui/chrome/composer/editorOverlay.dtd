@@ -9,7 +9,7 @@
 <!-- Edit menu items -->
 
 <!ENTITY pasteNoFormatting.label "Colar sem formatação">
-<!ENTITY pasteNoFormatting.accesskey "ç">
+<!ENTITY pasteNoFormatting.accesskey "o">
 <!ENTITY pasteNoFormatting.key "V">
 <!ENTITY pasteAs.label "Colar como">
 <!ENTITY pasteAs.accesskey "a">
@@ -49,7 +49,7 @@
 <!-- Used just in context popup. -->
 
 <!ENTITY createLinkCmd.label "Criar ligação...">
-<!ENTITY createLinkCmd.accesskey "ç">
+<!ENTITY createLinkCmd.accesskey "C">
 <!ENTITY editLinkCmd.label "Editar ligação em novo compositor">
 <!ENTITY editLinkCmd.accesskey "i">
 <!-- Font Face SubMenu -->
@@ -164,7 +164,7 @@
 <!ENTITY heading6Cmd.label "Título 6">
 <!ENTITY heading6Cmd.accesskey "6">
 <!ENTITY paragraphAddressCmd.label "Endereço">
-<!ENTITY paragraphAddressCmd.accesskey "ç">
+<!ENTITY paragraphAddressCmd.accesskey "E">
 <!ENTITY paragraphPreformatCmd.label "Pré-formatação">
 <!ENTITY paragraphPreformatCmd.accesskey "r">
 <!-- List menu items -->
@@ -209,7 +209,7 @@
 <!ENTITY alignJustify.tooltip "Alinhar justificado">
 <!-- Layer toolbar items -->
 
-<!ENTITY layer.tooltip "Layer">
+<!ENTITY layer.tooltip "Camada">
 <!ENTITY layerSendToBack.tooltip "Enviar para trás">
 <!ENTITY layerBringToFront.tooltip "Trazer para a frente">
 

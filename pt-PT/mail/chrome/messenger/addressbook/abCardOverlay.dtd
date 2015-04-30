@@ -61,7 +61,7 @@
 <!ENTITY Home.tab                       "Privado">
 <!ENTITY Home.accesskey                 "i">
 <!ENTITY HomeAddress.label              "Endereço:">
-<!ENTITY HomeAddress.accesskey          "ç">
+<!ENTITY HomeAddress.accesskey          "d">
 <!ENTITY HomeAddress2.label             "">
 <!ENTITY HomeAddress2.accesskey         "">
 <!ENTITY HomeCity.label                 "Cidade:">
@@ -91,7 +91,7 @@
 <!ENTITY Company.label                  "Organização:">
 <!ENTITY Company.accesskey              "z">
 <!ENTITY WorkAddress.label              "Endereço:">
-<!ENTITY WorkAddress.accesskey          "ç">
+<!ENTITY WorkAddress.accesskey          "d">
 <!ENTITY WorkAddress2.label             "">
 <!ENTITY WorkAddress2.accesskey         "">
 <!ENTITY WorkCity.label                 "Cidade:">
