@@ -19,7 +19,7 @@
 #define bookmarks_toolbarfolder Pasta da barra de ferramentas de marcadores
 
 
-#define bookmarks_toolbarfolder_description Ponha os marcadores nesta pasta se os quiser ver na Barra de Ferramentas de Marcadores
+#define bookmarks_toolbarfolder_description Ponha os marcadores nesta pasta se os quiser ver na barra de marcadores
 
 
 # LOCALIZATION NOTE (getting_started):

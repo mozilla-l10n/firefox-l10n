@@ -29,7 +29,7 @@
 <!ENTITY confirm.heading             "Selecione os seus extras">
 <!-- LOCALIZATION NOTE (confirm.description): The term used for "third parties"
      here should match the string source.other in selectAddons.properties. -->
-<!ENTITY confirm.description         "Torne o &brandShortName; ainda mais rápido desativando os extras que não utiliza. Os extras  instalados por terceiros serão desativados automaticamente a menos que os selecione em baixo.">
+<!ENTITY confirm.description         "Torne o &brandShortName; ainda mais rápido desativando os extras que não utiliza. Os extras instalados por terceiros serão desativados automaticamente, a menos que os selecione em baixo.">
 
 <!ENTITY action.disable.heading      "Estes extras serão desativados:">
 <!ENTITY action.incompatible.heading "Estes extras serão desativados, mas serão ativados assim que fiquem compatíveis:">

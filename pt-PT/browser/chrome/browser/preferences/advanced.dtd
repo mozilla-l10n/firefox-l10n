@@ -81,8 +81,8 @@
 <!ENTITY updateAuto1.accesskey           "m">
 <!ENTITY updateAutoMetro.label           "Instalar automaticamente a partir do ambiente de trabalho e do estilo do Windows 8 do &brandShortName;">
 <!ENTITY updateAutoMetro.accesskey       "s">
-<!ENTITY updateCheck.label               "Procurar atualizações mas não instalar">
-<!ENTITY updateCheck.accesskey           "z">
+<!ENTITY updateCheck.label               "Procurar atualizações, mas eu escolho as que quero instalar">
+<!ENTITY updateCheck.accesskey           "c">
 <!ENTITY updateManual.label              "Não procurar atualizações (não recomendado: riscos de segurança)">
 <!ENTITY updateManual.accesskey          "N">
 
