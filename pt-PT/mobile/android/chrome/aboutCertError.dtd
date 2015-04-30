@@ -32,6 +32,6 @@ a usar a sua ligação.</b>">
 <!ENTITY certerror.expert.contentPara2 "Não adicione uma exceção a menos que 
 saiba de uma boa razão para o sítio não ter uma identificação segura.">
 <!ENTITY certerror.addTemporaryException.label "Visitar sítio">
-<!ENTITY certerror.addPermanentException.label "Adicionar excepção permanente">
+<!ENTITY certerror.addPermanentException.label "Adicionar exceção permanente">
 
 <!ENTITY certerror.technical.heading "Detalhes técnicos">
