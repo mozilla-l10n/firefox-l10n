@@ -550,7 +550,7 @@
 <!ENTITY goForwardButton.tooltip "Avançar uma mensagem">
 <!ENTITY goBackButton.tooltip "Recuar uma mensagem">
 <!ENTITY deleteButton.tooltip "Eliminar mensagem ou pasta selecionada">
-<!ENTITY undeleteButton.tooltip "Não eliminar a mensagem seleccionada">
+<!ENTITY undeleteButton.tooltip "Restaurar mensagem selecionada">
 <!ENTITY markButton.tooltip "Marcar mensagens">
 <!ENTITY printButton.tooltip "Imprimir esta mensagem">
 <!ENTITY stopButton.tooltip "Parar transferência atual">
