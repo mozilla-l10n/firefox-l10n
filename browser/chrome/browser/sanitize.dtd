@@ -52,8 +52,8 @@ that require it.  -->
 <!ENTITY itemHistoryAndDownloads.accesskey "H">
 <!ENTITY itemFormSearchHistory.label       "Histórico de pesquisa">
 <!ENTITY itemFormSearchHistory.accesskey   "q">
-<!ENTITY itemPasswords.label               "Senhas guardadas">
-<!ENTITY itemPasswords.accesskey           "g">
+<!ENTITY itemPasswords.label               "Palavras-passe guardadas">
+<!ENTITY itemPasswords.accesskey           "P">
 <!ENTITY itemCookies.label                 "Cookies">
 <!ENTITY itemCookies.accesskey             "C">
 <!ENTITY itemCache.label                   "Cache">

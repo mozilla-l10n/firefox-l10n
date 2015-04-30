@@ -5,7 +5,7 @@
 
 <!ENTITY setupButton.label          "Configurar o &syncBrand.fullName.label;">
 <!ENTITY setupButton.accesskey      "S">
-<!ENTITY weaveDesc.label            "O &syncBrand.fullName.label; permite-lhe aceder ao seu histórico, marcadores, senhas e separadores abertos em todos os seus dispositivos.">
+<!ENTITY weaveDesc.label            "O &syncBrand.fullName.label; permite-lhe aceder ao seu histórico, marcadores, palavras-passe e separadores abertos em todos os seus dispositivos.">
 <!-- The page shown when logged in... -->
 <!-- Login error feedback -->
 
@@ -17,7 +17,7 @@
 <!ENTITY manageAccount.label          "Gerir conta">
 <!ENTITY manageAccount.accesskey      "a">
 <!ENTITY viewQuota.label              "Ver quota">
-<!ENTITY changePassword2.label        "Mudar senha...">
+<!ENTITY changePassword2.label        "Mudar palavra-passe...">
 <!ENTITY myRecoveryKey.label          "A minha chave de recuperação">
 <!ENTITY resetSync2.label             "Reiniciar o Sync">
 
@@ -75,7 +75,7 @@ both, to better adapt this sentence to their language.
 <!ENTITY verify.label                "Verificar endereço">
 <!ENTITY forget.label                "Descartar esta mensagem">
 
-<!ENTITY welcome.description "Aceda aos seus separadores, marcadores, senhas e muito mais com o &brandShortName;.">
+<!ENTITY welcome.description "Aceda aos seus separadores, marcadores, palavras-passe e muito mais com o &brandShortName;.">
 <!ENTITY welcome.signIn.label "Iniciar sessão">
 <!ENTITY welcome.createAccount.label "Criar conta">
 

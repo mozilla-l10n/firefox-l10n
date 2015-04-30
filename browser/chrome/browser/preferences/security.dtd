@@ -24,17 +24,17 @@
 <!ENTITY  addonExceptions.accesskey     "x">
 
 
-<!ENTITY  passwords.label               "Senhas">
+<!ENTITY  passwords.label               "Palavras-passe">
 
-<!ENTITY  rememberPasswords.label       "Memorizar as senhas para sítios">
+<!ENTITY  rememberPasswords.label       "Memorizar palavras-passe dos sítios web">
 <!ENTITY  rememberPasswords.accesskey   "r">
 <!ENTITY  passwordExceptions.label      "Exceções...">
 <!ENTITY  passwordExceptions.accesskey  "c">
 
-<!ENTITY  useMasterPassword.label        "Utilizar uma senha mestra">
+<!ENTITY  useMasterPassword.label        "Utilizar uma palavra-passe mestra">
 <!ENTITY  useMasterPassword.accesskey    "U">
-<!ENTITY  changeMasterPassword.label     "Alterar a senha mestra...">
+<!ENTITY  changeMasterPassword.label     "Alterar a palavra-passe mestra...">
 <!ENTITY  changeMasterPassword.accesskey "m">
 
-<!ENTITY  savedPasswords.label            "Senhas guardadas...">
-<!ENTITY  savedPasswords.accesskey        "S">
+<!ENTITY  savedPasswords.label            "Palavras-passe guardadas...">
+<!ENTITY  savedPasswords.accesskey        "P">
