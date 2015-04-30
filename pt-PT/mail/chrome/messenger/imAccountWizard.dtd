@@ -12,10 +12,10 @@
 <!ENTITY accountUsernameTitle.label   "Nome de utilizador">
 <!ENTITY accountUsernameDuplicate.label "Esta conta já está configurada!">
 
-<!ENTITY accountPasswordTitle.label   "Senha">
-<!ENTITY accountPasswordInfo.label    "Por favor introduza a senha na caixa abaixo.">
-<!ENTITY accountPasswordField.label   "Senha:">
-<!ENTITY accountPasswordManager.label "A senha aqui introduzida será guardada no Gestor de senhas. Deixe esta caixa vazia se quiser que seja pedida a sua senha de cada vez que se ligar com esta conta.">
+<!ENTITY accountPasswordTitle.label   "Palavra-passe">
+<!ENTITY accountPasswordInfo.label    "Por favor introduza a palavra-passe na caixa abaixo.">
+<!ENTITY accountPasswordField.label   "Palavra-passe:">
+<!ENTITY accountPasswordManager.label "A palavra-passe aqui introduzida será guardada no gestor de palavras-passe. Deixe esta caixa vazia se quiser que seja pedida a sua palavra-passe sempre que se ligar a esta conta.">
 
 <!ENTITY accountAdvancedTitle.label   "Opções avançadas">
 <!ENTITY accountAdvancedInfo.label    "Se quiser, pode ignorar esta etapa.">

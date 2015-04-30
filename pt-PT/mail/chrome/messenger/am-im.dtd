@@ -7,7 +7,7 @@
 <!ENTITY account.general               "Geral">
 <!ENTITY account.advanced              "Opções avançadas">
 <!ENTITY account.name                  "Nome de utilizador:">
-<!ENTITY account.password              "Senha:">
+<!ENTITY account.password              "Palavra-passe:">
 <!ENTITY account.alias                 "Alcunha:">
 <!ENTITY account.newMailNotification   "Notificar ao receber mensagens">
 <!ENTITY account.autojoin              "Entrada automática nos canais:">

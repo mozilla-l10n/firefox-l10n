@@ -59,7 +59,7 @@
 <!ENTITY username.tooltip             "O nome de utilizador que usa para iniciar sessão no seu ISP ou servidor web">
 <!ENTITY password.label               "Senha:">
 <!ENTITY password.accesskey           "n">
-<!ENTITY password.tooltip             "A senha associada ao nome de utilizador">
-<!ENTITY savePassword.label           "Guardar senha">
+<!ENTITY password.tooltip             "A palavra-passe associada ao nome de utilizador">
+<!ENTITY savePassword.label           "Guardar palavra-passe">
 <!ENTITY savePassword.accesskey       "s">
-<!ENTITY savePassword.tooltip         "Selecione isto para proteger a sua senha com o gestor de senhas">
+<!ENTITY savePassword.tooltip         "Selecione isto para proteger a sua palavra-passe com o gestor de palavras-passe">
