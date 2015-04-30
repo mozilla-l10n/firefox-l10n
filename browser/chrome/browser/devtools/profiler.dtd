@@ -68,7 +68,7 @@
 
 <!-- LOCALIZATION NOTE (profilerUI.toolbar.filter.tooltiptext): This string
   -  is displayed next to the filter button-->
-<!ENTITY profilerUI.options.filter.tooltiptext "Seleceren welke gegevens in de tijdlijn worden weergegeven">
+<!ENTITY profilerUI.options.filter.tooltiptext "Selecteren welke gegevens in de tijdlijn worden weergegeven">
 
 <!-- LOCALIZATION NOTE (profilerUI.options.tooltiptext): This is the tooltip
   -  for the options button. -->
