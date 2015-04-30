@@ -4,7 +4,7 @@
 
 <!ENTITY pref.junk.title "Lixo eletrónico">
 <!ENTITY junkSettings.caption "Definições globais de Lixo eletrónico">
-<!ENTITY junkMail.intro "Vá a configurar contas para configurar definições especiais de lixo electrónico na conta.">
+<!ENTITY junkMail.intro "Aceda às definições da conta para configurar definições especiais de lixo electrónico.">
 <!-- Junk Mail Controls -->
 
 <!ENTITY manualMark.label               "Quando marcar mensagens como lixo:">
