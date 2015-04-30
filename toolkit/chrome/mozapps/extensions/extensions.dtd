@@ -30,7 +30,7 @@
 <!ENTITY warning.checkcompatibility.enable.tooltip "Ativar verificação de compatibilidade de extras">
 <!ENTITY warning.updatesecurity.label              "A verificação de compatibilidade de extras está inativa. Poderá estar comprometido com atualizações.">
 <!ENTITY warning.updatesecurity.enable.label       "Ativar">
-<!ENTITY warning.updatesecurity.enable.tooltip     "Ativar verificação de actualização de segurança do extra">
+<!ENTITY warning.updatesecurity.enable.tooltip     "Ativar verificação de segurança de atualização do extra">
 <!-- global informations -->
 
 <!ENTITY info.plugincheck.label                 "Verificar se os plugins estão atualizados">

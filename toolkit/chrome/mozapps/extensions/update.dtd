@@ -14,7 +14,7 @@
 <!ENTITY  mismatch.bottom.label           "O &brandShortName; pode verificar se há versões compatíveis para estes extras.">
 
 <!ENTITY  checking.wizard.title           "A verificar se existem extras compatíveis">
-<!ENTITY  checking.top.label              "A verificar se existem actualizações para os seus extras incompatíveis...">
+<!ENTITY  checking.top.label              "A verificar se existem atualizações para os extras incompatíveis...">
 <!ENTITY  checking.status                 "Isto poderá demorar alguns minutos...">
 
 <!ENTITY  found.wizard.title               "Encontrados extras compatíveis">

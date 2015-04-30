@@ -17,5 +17,5 @@
 <!ENTITY tabs.context.bookmarkSingleTab.accesskey     "m">
 <!ENTITY tabs.context.bookmarkMultipleTabs.label      "Adicionar separadores seleccionados aos marcadores…">
 <!ENTITY tabs.context.bookmarkMultipleTabs.accesskey  "m">
-<!ENTITY tabs.context.refreshList.label               "Actualizar lista">
+<!ENTITY tabs.context.refreshList.label               "Atualizar lista">
 <!ENTITY tabs.context.refreshList.accesskey           "r">
