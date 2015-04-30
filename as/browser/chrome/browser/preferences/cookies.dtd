@@ -7,11 +7,12 @@
 <!ENTITY     cookiesonsystem.label          "নিম্নলিখিত কুকি আপোনাৰ কম্পিউটাৰত আছে:">
 <!ENTITY     cookiename.label               "কুকিৰ নাম">
 <!ENTITY     cookiedomain.label             "ছাইট"> 
-<!ENTITY     button.removecookies.label     "কুকিসমূহ আতৰাওক">
-<!ENTITY     button.removecookie.label      "কুকি আঁতৰাওক">
-<!ENTITY     button.removecookie.accesskey  "R">
-<!ENTITY     button.removeallcookies.label  "সকলো কুকি আঁতৰাওক">
-<!ENTITY     button.removeallcookies.accesskey "A">
+<!-- LOCALIZATION NOTE (button.removeSelectedCookies.accesskey):
+  The label associated with this accesskey can be found in 
+  preferences.properties as removeSelectedCookies.
+-->
+<!ENTITY     button.removeAllCookies.label "সকলো আতৰাওক">
+<!ENTITY     button.removeAllCookies.accesskey "A">
 
 <!ENTITY     props.name.label               "নাম:">
 <!ENTITY     props.value.label              "সমল:">

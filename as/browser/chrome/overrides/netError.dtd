@@ -169,11 +169,7 @@ functionality specific to firefox. -->
 <!ENTITY remoteXUL.title "দূৰৱৰ্তী XUL">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>এই সমস্যাৰ বিষয়ে জনাবলে অনুগ্ৰহ কৰি ৱেবছাইটৰ গৰাকীক যোগাযোগ কৰক।</li></ul></p>">
 
-<!ENTITY oldSecurityProtocol.title "সুৰক্ষিতভাৱে সংযোগ কৰাত অক্ষম">
-<!-- LOCALIZATION NOTE (oldSecurityProtocol.longDesc) - Do not translate the
-     <span id='hostname'></span>. -->
-<!ENTITY oldSecurityProtocol.longDesc2 "&brandShortName; এ <span id='hostname'></span> ত আপোনাৰ তথ্যৰ সুৰক্ষাৰ প্ৰত্যাভূতি দিব নোৱাৰিব কাৰণ ই SSLv3 ব্যৱহাৰ কৰে, এটা ভগ্ন সুৰক্ষা প্ৰটোকল।">
-<!-- LOCALIZATION NOTE (oldSecurityProtocol.advancedInfo) - Do not translate
-     the <span id='errorcode'></span>. -->
-<!ENTITY oldSecurityProtocol.advancedInfo "উন্নত তথ্য: <span id='errorcode'></span>">
-<!ENTITY oldSecurityProtocol.learnMore "অধিক জানক…">
+<!ENTITY sslv3Used.title "সুৰক্ষিতভাৱে সংযোগ কৰাত অক্ষম">
+<!-- LOCALIZATION NOTE (sslv3Used.longDesc) - Do not translate
+     "ssl_error_unsupported_version". -->
+<!ENTITY sslv3Used.learnMore "অধিক জানক…">
