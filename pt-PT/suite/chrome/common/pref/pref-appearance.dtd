@@ -22,7 +22,7 @@
 <!ENTITY showHideTooltips.accesskey             "t">
 
 <!ENTITY pref.locales.title                     "Idioma do interface de utilizador">
-<!ENTITY selectLocale.label                     "Seleccione o idioma para o texto que aparece nas caixas de diálogo, menus, barras de ferramentas e nomes de botões:">
+<!ENTITY selectLocale.label                     "Selecione o idioma para o texto que aparece nas caixas de diálogo, menus, barras de ferramentas e nomes de botões:">
 <!--LOCALIZATION NOTE (restartOnLangChange.label): Don't translate "&brandShortName;".
     Place &brandShortName; in the phrase where the name of the application should appear
 -->

@@ -40,11 +40,11 @@
 <!ENTITY cookies.tree.name.label "Nome do cookie">
 <!ENTITY cookies.tree.expires.label "Expira em">
 
-<!ENTITY cookies.infobox.label "Informação sobre o cookie seleccionado">
+<!ENTITY cookies.infobox.label "Detalhes do cookie selecionado">
 
 <!ENTITY cookies.info.name.label "Nome:">
 <!ENTITY cookies.info.value.label "Conteúdo:">
-<!ENTITY cookies.info.host.label "Anfitrião:">
+<!ENTITY cookies.info.host.label "Servidor:">
 <!ENTITY cookies.info.domain.label "Domínio:">
 <!ENTITY cookies.info.path.label "Caminho:">
 <!ENTITY cookies.info.sendtype.label "Enviar para:">
@@ -52,7 +52,7 @@
 
 <!ENTITY cookies.ctx.remove.label "Remover">
 <!ENTITY cookies.ctx.remove.accesskey "R">
-<!ENTITY cookies.ctx.selectAll.label "Seleccionar tudo">
+<!ENTITY cookies.ctx.selectAll.label "Selecionar tudo">
 <!ENTITY cookies.ctx.selectAll.accesskey "a">
 
 <!ENTITY cookies.button.remove.label "Remover">
@@ -83,7 +83,7 @@
 
 <!ENTITY prefs.ctx.remove.label "Remover">
 <!ENTITY prefs.ctx.remove.accesskey "R">
-<!ENTITY prefs.ctx.selectAll.label "Seleccionar tudo">
+<!ENTITY prefs.ctx.selectAll.label "Selecionar tudo">
 <!ENTITY prefs.ctx.selectAll.accesskey "a">
 
 <!ENTITY prefs.button.remove.label "Remover">
@@ -100,7 +100,7 @@
 <!ENTITY pwd.ctx.remove.accesskey "R">
 <!ENTITY pwd.ctx.copyPasswordCmd.label "Copiar palavra-passe">
 <!ENTITY pwd.ctx.copyPasswordCmd.accesskey "C">
-<!ENTITY pwd.ctx.selectAll.label "Seleccionar tudo">
+<!ENTITY pwd.ctx.selectAll.label "Selecionar tudo">
 <!ENTITY pwd.ctx.selectAll.accesskey "a">
 
 <!ENTITY pwd.button.remove.label "Remove">
@@ -132,7 +132,7 @@
 
 <!ENTITY fdata.ctx.remove.label "Remover">
 <!ENTITY fdata.ctx.remove.accesskey "R">
-<!ENTITY fdata.ctx.selectAll.label "Seleccionar tudo">
+<!ENTITY fdata.ctx.selectAll.label "Selecionar tudo">
 <!ENTITY fdata.ctx.selectAll.accesskey "a">
 
 <!ENTITY fdata.button.remove.label "Remover">

@@ -11,7 +11,7 @@
 <!ENTITY addressBookCmd.accesskey   "i">
 <!ENTITY addressBookCmd.commandkey   "5">
 
-<!ENTITY taskMessenger.tooltip  "Correio &amp; Grupos de Discussão">
+<!ENTITY taskMessenger.tooltip  "Correio e grupos de notícias">
 <!ENTITY taskAddressBook.tooltip  "Livro de Endereços">
 <!-- searchAddressesCmd is also used by addressbook -->
 

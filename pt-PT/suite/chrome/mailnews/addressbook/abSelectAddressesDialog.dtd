@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!-- Title -->
 
-<!ENTITY selectAddressWindow.title           "Seleccionar destinatários">
+<!ENTITY selectAddressWindow.title           "Selecionar destinatários">
 <!-- Buttons -->
 
 <!ENTITY toButton.label                      "Para->"> 
@@ -27,5 +27,5 @@
 <!-- Tooltips items -->  
 
 <!ENTITY addressPickerNewButton.tooltip      "Criar um novo cartão no livro de endereços"> 
-<!ENTITY addressPickerEditButton.tooltip     "Editar o cartão seleccionado"> 
+<!ENTITY addressPickerEditButton.tooltip     "Editar cartão selecionado"> 
 

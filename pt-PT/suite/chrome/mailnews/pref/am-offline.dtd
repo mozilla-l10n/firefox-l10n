@@ -33,7 +33,7 @@
 <!ENTITY retentionApplyToFlagged.accesskey "e">
 <!ENTITY nntpRemoveMsgBody.label "Remover corpo das mensagens maiores que">
 <!ENTITY nntpRemoveMsgBody.accesskey "p">
-<!ENTITY offlineSelectNntp.label "Seleccione grupos de discussão para usar no modo desligado...">
+<!ENTITY offlineSelectNntp.label "Selecione os grupos de notícias para utilizar no modo desligado…">
 <!ENTITY offlineSelectNntp.accesskey "S">
 <!ENTITY offlineImapAdvancedOffline.label "Avançado…">
 <!ENTITY offlineImapAdvancedOffline.accesskey "A">

@@ -7,7 +7,7 @@
 
 <!ENTITY browser.label "Navegador">
 <!ENTITY email.label "Correio">
-<!ENTITY newsgroups.label "Grupos de discussão">
+<!ENTITY newsgroups.label "Grupos de notícias">
 <!ENTITY feeds.label "Fontes">
 
 <!ENTITY checkOnStartup.label "Verificar sempre ao iniciar o &brandShortName;">
