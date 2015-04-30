@@ -48,7 +48,7 @@
 <!ENTITY  formLabel             "Etiqueta">
 <!ENTITY  formFName             "Nome do campo">
 <!ENTITY  formType              "Tipo">
-<!ENTITY  formCValue            "Valor actual">
+<!ENTITY  formCValue            "Valor atual">
 
 <!ENTITY  linksTab              "Ligações">
 <!ENTITY  linksTab.accesskey    "L">
@@ -68,7 +68,7 @@
 <!ENTITY  mediaSize             "Tamanho">
 <!ENTITY  mediaCount            "Contar">
 <!ENTITY  mediaDimensions       "Dimensões especificadas:">
-<!ENTITY  mediaPhysDimensions   "Dimensões actuais:">
+<!ENTITY  mediaPhysDimensions   "Dimensões reais:">
 <!ENTITY  mediaTitle            "Titúlo:">
 <!ENTITY  mediaLongdesc         "Descrição longa:">
 <!ENTITY  mediaBlockImage.accesskey "B">
@@ -115,8 +115,8 @@
 <!ENTITY  securityView.privacy.cookies                  "Este sítio web está a guardar informação (cookies) no meu computador?">
 <!ENTITY  securityView.privacy.viewCookies              "Mostrar as cookies">
 <!ENTITY  securityView.privacy.viewCookies.accessKey    "k">
-<!ENTITY  securityView.privacy.passwords                "Guardei algumas senhas para este sítio web?">
-<!ENTITY  securityView.privacy.viewPasswords            "Ver senhas guardadas">
+<!ENTITY  securityView.privacy.passwords                "Guardei algumas palavras-passe para este sítio web?">
+<!ENTITY  securityView.privacy.viewPasswords            "Ver palavras-passe guardadas">
 <!ENTITY  securityView.privacy.viewPasswords.accessKey  "u">
 
 <!ENTITY  securityView.technical.header                 "Detalhes técnicos">

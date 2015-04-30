@@ -101,7 +101,7 @@
 <!ENTITY cookieAllowCookiesMsg.label "Cookies deste sítio web serão sempre permitidos.">
 <!ENTITY cookieAllowSessionCookiesCmd.label "Permitir cookies de sessão deste sítio web">
 <!ENTITY cookieAllowSessionCookiesCmd.accesskey "s">
-<!ENTITY cookieAllowSessionCookiesMsg.label "Este sítio web pode definir cookies apenas para a sessão actual.">
+<!ENTITY cookieAllowSessionCookiesMsg.label "Este sítio web apenas pode definir cookies para a sessão atual.">
 <!ENTITY cookieCookiesDefaultCmd.label "Usar as permissões de cookies pré-definidas">
 <!ENTITY cookieCookiesDefaultCmd.accesskey "U">
 <!ENTITY cookieCookiesDefaultMsg.label "Cookies deste sítio web serão aceites ou rejeitados baseado nas pré-definições.">
