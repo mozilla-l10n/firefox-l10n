@@ -356,8 +356,8 @@ size. -->
 <!ENTITY media_pause "Pausar">
 <!ENTITY media_stop "Parar">
 
-<!ENTITY contextmenu_open_new_tab "Abrir num novo separador">
-<!ENTITY contextmenu_open_private_tab "Abrir num separador privado">
+<!ENTITY contextmenu_open_new_tab "Abrir em novo separador">
+<!ENTITY contextmenu_open_private_tab "Abrir em separador privado">
 <!ENTITY contextmenu_remove "Remover">
 <!ENTITY contextmenu_add_to_launcher "Adicionar ecrã inicial">
 <!ENTITY contextmenu_share "Partilhar">
