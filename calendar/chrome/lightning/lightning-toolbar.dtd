@@ -7,7 +7,7 @@
 <!ENTITY lightning.toolbar.task.name "Orodna vrstica za opravila">
 <!ENTITY lightning.toolbar.task.name.accesskey "O">
 
-<!ENTITY lightning.toolbar.sync.label "Uskladi">
+<!ENTITY lightning.toolbar.sync.label "Sinhroniziraj">
 <!ENTITY lightning.toolbar.delete.label "Izbriši">
 <!ENTITY lightning.toolbar.edit.label "Uredi">
 <!ENTITY lightning.toolbar.gototoday.label "Pojdi na današnji dan">
