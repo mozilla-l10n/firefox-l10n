@@ -119,3 +119,11 @@ pue tar caducada.</li><li>¿Nun yes quien a navegar per otros sitios? Comprueba 
 <!ENTITY unknownProtocolFound.title "La direición nun resulta entendible">
 <!ENTITY unknownProtocolFound.longDesc "">
 <!ENTITY nssFailure2.longDesc2 "">
+<!ENTITY sslv3Used.title "Nun ye dable coneutar de mou seguru">
+<!ENTITY sslv3Used.longDesc "Información avanzao: ssl_error_unsupported_version">
+<!ENTITY sslv3Used.learnMore "Deprender más…">
+<!ENTITY errorReporting.tryAgain "Vuelvi a intentalo">
+<!ENTITY errorReporting.title "Informar d'esti fallu">
+<!ENTITY errorReporting.sent "Unvióse l'informe">
+<!ENTITY errorReporting.sending "Unviando informe">
+<!ENTITY errorReporting.report "Informar">

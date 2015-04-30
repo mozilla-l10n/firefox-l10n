@@ -30,3 +30,6 @@
 
 <!ENTITY     button.close.label             "Zarrar">
 <!ENTITY     button.close.accesskey         "Z">
+<!ENTITY button.removeSelectedCookies.accesskey "R">
+<!ENTITY button.removeAllCookies.label "Desaniciar toes">
+<!ENTITY button.removeAllCookies.accesskey "D">

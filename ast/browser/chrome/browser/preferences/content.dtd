@@ -33,3 +33,7 @@
 <!ENTITY translateWebPages.accesskey "d">
 <!ENTITY translateExceptions.label "Esceiciones…">
 <!ENTITY translateExceptions.accesskey "s">
+<!ENTITY playDRMContent.learnMore.label "Deprender más">
+<!ENTITY playDRMContent.label "Reproducir conteníu DRM">
+<!ENTITY playDRMContent.accesskey "P">
+<!ENTITY drmContent.label "Conteníu DRM">
