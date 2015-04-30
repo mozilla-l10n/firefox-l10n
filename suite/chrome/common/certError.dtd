@@ -33,8 +33,8 @@ uma exceção para este certificado.">
 dizer ao &brandShortName; para começar a confiar na identificação deste sítio. 
 <b>Mesmo que confie no sítio, este erro pode significar que alguém está a monitorizar 
 a sua ligação.</b>">
-<!ENTITY certerror.expert.contentPara2 "Não adicione uma excepção a menos que 
-saiba que existe uma boa razão porque é que este sítio não tem uma identificação de confiança.">
-<!ENTITY certerror.addException.label "Adicionar excepção…">
+<!ENTITY certerror.expert.contentPara2 "Não adicione uma excepção a menos que saiba de
+uma boa razão para este sítio não ter uma identificação de confiança.">
+<!ENTITY certerror.addException.label "Adicionar exceção…">
 
 <!ENTITY certerror.technical.heading "Detalhes técnicos">
