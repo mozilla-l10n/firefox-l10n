@@ -47,15 +47,17 @@
 <!ENTITY profilerUI.toolbar.js-calltree "JavaScript">
 <!ENTITY profilerUI.toolbar.memory-calltree "Memoria">
 
-
+<!ENTITY profilerUI.toolbar.memory-flamegraph "Memoria de árbol de llamadas">
 <!-- LOCALIZATION NOTE (profilerUI.table.*): These strings are displayed
   -  in the call tree headers for a recording. -->
 
+<!ENTITY profilerUI.table.totalDuration2  "Tiempo total">
+<!ENTITY profilerUI.table.selfDuration2   "Tiempo propio">
 <!ENTITY profilerUI.table.totalPercentage "Costo total">
 <!ENTITY profilerUI.table.selfPercentage  "Costo propio">
 <!ENTITY profilerUI.table.samples         "Muestras">
-
-
+<!ENTITY profilerUI.table.totalAlloc      "Ubicaciones totales">
+<!ENTITY profilerUI.table.selfAlloc       "Ubicaciones propias">
 <!ENTITY profilerUI.table.function        "Función">
 <!-- LOCALIZATION NOTE (profilerUI.newtab.tooltiptext): The tooltiptext shown
   -  on the "+" (new tab) button for a profile when a selection is available. -->
@@ -63,6 +65,8 @@
 <!ENTITY profilerUI.newtab.tooltiptext "Añadir nueva pestaña a partir de la selección">
 <!-- LOCALIZATION NOTE (profilerUI.options.tooltiptext): This is the tooltip
   -  for the options button. -->
+
+<!ENTITY profilerUI.options.tooltiptext "Configurar preferencias de rendimiento.">
 <!-- LOCALIZATION NOTE (profilerUI.invertTree): This is the label shown next to
   -  a checkbox that inverts and un-inverts the profiler's call tree. -->
 
@@ -71,10 +75,14 @@
 <!-- LOCALIZATION NOTE (profilerUI.invertFlameGraph): This is the label shown next to
   -  a checkbox that inverts and un-inverts the profiler's flame graph. -->
 
+<!ENTITY profilerUI.invertFlameGraph             "Invertir árbol de llamadas">
+<!ENTITY profilerUI.invertFlameGraph.tooltiptext "Invertir el árbol de llamadas muestra las rutas de llamadas analizadas comenzando desde los marcos más recientes y expandiéndose hasta los más antiguos.">
 <!-- LOCALIZATION NOTE (profilerUI.showPlatformData): This is the
   -  label for the checkbox that toggles whether or not Gecko platform data
   -  is displayed in the profiler. -->
 
+<!ENTITY profilerUI.showPlatformData             "Mostrar plataforma de datos de Gecko">
+<!ENTITY profilerUI.showPlatformData.tooltiptext "Mostrar los datos de plataforma permite que los informes del analizador de JavaScript incluyan los símbolos de la plataforma Gecko.">
 <!-- LOCALIZATION NOTE (profilerUI.flattenTreeRecursion): This is the
   -  label for the checkbox that toggles the flattening of tree recursion in inspected
   -  functions in the profiler. -->
