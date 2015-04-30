@@ -30,7 +30,7 @@
 
 <!ENTITY sync.subtitle.account.label "Escreva a informação da sua conta do &syncBrand.fullName.label;">
 <!ENTITY sync.input.username.label "Nome da conta">
-<!ENTITY sync.input.password.label "Senha">
+<!ENTITY sync.input.password.label "Palavra-passe">
 <!ENTITY sync.input.key.label "Chave de recuperação">
 <!ENTITY sync.checkbox.server.label "Usar servidor personalizado">
 <!ENTITY sync.input.server.label "URL do servidor">
@@ -62,7 +62,7 @@
 <!ENTITY sync.configure.engines.title.label "O que sincronizar">
 <!ENTITY sync.configure.engines.sync.my.title.label "Sincronizar…">
 <!ENTITY sync.configure.engines.title.bookmarks "Marcadores">
-<!ENTITY sync.configure.engines.title.passwords "Senhas">
+<!ENTITY sync.configure.engines.title.passwords "Palavras-passe">
 <!ENTITY sync.configure.engines.title.history "Histórico">
 <!ENTITY sync.configure.engines.title.tabs "Separadores">
 <!-- Common text -->
