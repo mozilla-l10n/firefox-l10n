@@ -13,7 +13,7 @@
 <!ENTITY FormMethod.label "Método:">
 <!ENTITY FormMethod.accesskey "M">
 <!ENTITY FormEncType.label "Codificação:">
-<!ENTITY FormEncType.accesskey "ç">
+<!ENTITY FormEncType.accesskey "C">
 <!ENTITY FormTarget.label "Moldura de destino:">
 <!ENTITY FormTarget.accesskey "t">
 

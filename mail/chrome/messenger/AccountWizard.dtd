@@ -67,7 +67,7 @@
 <!-- Entities for Outgoing Server page -->
 
 
-<!ENTITY outgoingTitle.label "Outgoing Server Information">
+<!ENTITY outgoingTitle.label "Informações do servidor de envio">
 <!-- LOCALIZATION NOTE (outgoingServer.description) : Do not translate "SMTP" and "&quot;smtp.example.net&quot;" in below line -->
 <!ENTITY outgoingServer.description "Introduza o nome do servidor de envio (SMTP) (por exemplo, &quot;smtp.exemplo.pt&quot;).">
 <!ENTITY outgoingServer.label "Servidor de envio:">

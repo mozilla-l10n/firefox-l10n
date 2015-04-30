@@ -14,7 +14,7 @@
 <!ENTITY download.label     "Transferir">
 <!ENTITY download.accesskey "e">
 <!--LOCALIZATION NOTE (headers.label): see note for download.label -->
-<!ENTITY headers.label      "Cabeçalhos">
-<!ENTITY headers.accesskey  "ç">
+<!ENTITY headers.label      "cabeçalhos">
+<!ENTITY headers.accesskey  "h">
 <!ENTITY mark.label         "Marcar os cabeçalhos restantes como lidos">
 <!ENTITY mark.accesskey     "M">

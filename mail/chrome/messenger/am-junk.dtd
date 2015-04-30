@@ -7,7 +7,7 @@
 <!ENTITY level.label "Ativar controlos de lixo nesta conta">
 <!ENTITY level.accesskey "A">
 
-<!ENTITY move.label "Mover mensagens de lixo electrónico para:">
+<!ENTITY move.label "Mover lixo eletrónico para:">
 <!ENTITY move.accesskey "M">
 <!ENTITY junkFolderOn.label "Pasta &quot;Lixo eletrónico&quot; em:">
 <!ENTITY junkFolderOn.accesskey "x">
@@ -21,7 +21,7 @@
 <!ENTITY whitelistHeader.accesskey "N">
 
 <!ENTITY ispHeadersWarning.label "Se ativado, o &brandShortName; vai considerar automaticamente as mensagens marcadas por este classificador externo como lixo.">
-<!ENTITY ispHeaders.label "Confiar nos cabeçalhos de lixo electrónico do: ">
+<!ENTITY ispHeaders.label "Confiar nos dados de lixo eletrónico definidos em: ">
 <!ENTITY ispHeaders.accesskey "C">
 
 <!ENTITY junkClassification.label "Seleção">
