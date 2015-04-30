@@ -133,7 +133,7 @@
 <!ENTITY pref_category_display "Mostrar">
 <!ENTITY pref_category_display_summary "Texto, barra de título, navegação em ecrã inteiro">
 <!ENTITY pref_category_privacy_short "Privacidade">
-<!ENTITY pref_category_privacy_summary "Senhas de controlo, cookies, monitorização, dados">
+<!ENTITY pref_category_privacy_summary "Palavra-passe de controlo, cookies, monitorização, dados">
 <!ENTITY pref_category_vendor "&vendorShortName;">
 <!ENTITY pref_category_vendor_summary "Sobre o &brandShortName;, FAQs, e escolhas de dados">
 <!ENTITY pref_category_datareporting "Escolhas de dados">
@@ -154,7 +154,7 @@
 <!ENTITY pref_developer_paint_flashing "Destaque da pintura">
 <!ENTITY pref_developer_remotedebugging "Depuração remota">
 <!ENTITY pref_category_logins "Credenciais">
-<!ENTITY pref_remember_signons "Memorizar senhas">
+<!ENTITY pref_remember_signons "Memorizar palavras-passe">
 <!ENTITY pref_manage_logins "Gerir credenciais">
 
 <!ENTITY pref_category_home "Página inicial">
@@ -248,16 +248,16 @@ size. -->
 <!ENTITY pref_zoom_force_enabled "Ativar sempre o zoom">
 <!ENTITY pref_zoom_force_enabled_summary "Forçar a ativação do zoom em qualquer página">
 
-<!ENTITY pref_use_master_password "Usar senha mestra">
+<!ENTITY pref_use_master_password "Utilizar palavra-passe mestra">
 <!ENTITY pref_sync "Sync">
-<!ENTITY pref_sync_summary "Sincronize os seus separadores, marcadores, senhas, histórico">
+<!ENTITY pref_sync_summary "Sincronize os seus separadores, marcadores, palavra-passe e histórico">
 <!ENTITY pref_search_suggestions "Mostrar sugestões de pesquisa">
 <!ENTITY pref_import_android "Importar do Android">
 <!ENTITY pref_import_android_summary "Importar marcadores e histórico do navegador nativo">
 <!ENTITY pref_private_data_history2 "Histórico de navegação">
 <!ENTITY pref_private_data_formdata "Formulário &amp; histórico de pesquisa">
 <!ENTITY pref_private_data_cookies2 "Cookies &amp; inícios de sessão">
-<!ENTITY pref_private_data_passwords "Senhas guardadas">
+<!ENTITY pref_private_data_passwords "Palavras-passe guardadas">
 <!ENTITY pref_private_data_cache "Cache">
 <!ENTITY pref_private_data_offlineApps "Dados do sítio web offline">
 <!ENTITY pref_private_data_siteSettings2 "Preferências do sítio">
@@ -378,8 +378,8 @@ size. -->
 <!ENTITY doorhanger_login_no_username "[Sem nome de utilizador]">
 <!ENTITY doorhanger_login_edit_title "Editar credenciais">
 <!ENTITY doorhanger_login_edit_username_hint "Nome de utilizador">
-<!ENTITY doorhanger_login_edit_password_hint "Senha">
-<!ENTITY doorhanger_login_edit_toggle "Mostrar senha">
+<!ENTITY doorhanger_login_edit_password_hint "Palavra-passe">
+<!ENTITY doorhanger_login_edit_toggle "Mostrar palavra-passe">
 
 <!ENTITY pref_titlebar_mode "Barra de título">
 <!ENTITY pref_titlebar_mode_title "Mostrar título da página">
@@ -427,10 +427,10 @@ size. -->
 
 <!ENTITY page_action_dropmarker_description "Ações adicionais">
 
-<!ENTITY masterpassword_create_title "Criar senha mestra">
-<!ENTITY masterpassword_remove_title "Remover senha mestra">
-<!ENTITY masterpassword_password "Senha">
-<!ENTITY masterpassword_confirm "Confirmar senha">
+<!ENTITY masterpassword_create_title "Criar palavra-passe mestra">
+<!ENTITY masterpassword_remove_title "Remover palavra-passe mestra">
+<!ENTITY masterpassword_password "Palavra-passe">
+<!ENTITY masterpassword_confirm "Confirmar palavra-passe">
 
 <!ENTITY button_ok "OK">
 <!ENTITY button_cancel "Cancelar">
@@ -598,7 +598,7 @@ do Android">
 <!ENTITY guest_session_dialog_continue "Continuar">
 <!ENTITY guest_session_dialog_cancel "Cancelar">
 <!ENTITY new_guest_session_title "O &brandShortName; vai reiniciar">
-<!ENTITY new_guest_session_text "A pessoa que o visualizar não poderá ver nenhuns dados de navegação pessoais (como senhas guardadas, histórico ou marcadores).\n\nQuando o seu convidado tiver terminado, os dados da navegação serão eliminados e a sua sessão será restaurada.">
+<!ENTITY new_guest_session_text "A pessoa que o visualizar não poderá ver quaisquer dados de navegação pessoais (como palavra-passe guardadas, histórico ou marcadores).\n\nQuando o seu convidado tiver terminado, os dados da navegação serão eliminados e a sua sessão será restaurada.">
 <!ENTITY guest_browsing_notification_title "A navegação para convidados está ativa">
 <!ENTITY guest_browsing_notification_text "Toque para sair">
 
