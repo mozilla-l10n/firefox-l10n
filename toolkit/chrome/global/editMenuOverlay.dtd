@@ -21,9 +21,9 @@
 <!ENTITY pasteCmd.accesskey        "o">
 <!ENTITY deleteCmd.label           "Apagar">
 <!ENTITY deleteCmd.accesskey       "p">
-<!ENTITY selectAllCmd.label        "Seleccionar tudo">
+<!ENTITY selectAllCmd.label        "Selecionar tudo">
 <!ENTITY selectAllCmd.key          "A">
-<!ENTITY selectAllCmd.accesskey    "t">
+<!ENTITY selectAllCmd.accesskey    "a">
 <!ENTITY findCmd.label             "Procurar">
 <!ENTITY findCmd.key               "F">
 <!ENTITY findCmd.accesskey         "P">

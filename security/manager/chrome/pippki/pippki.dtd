@@ -29,7 +29,7 @@
 <!ENTITY clientAuthAsk.title "Pedido de identificação do utilizador">
 <!ENTITY clientAuthAsk.message1 "Este sítio pediu que se identificasse com um certificado:">
 <!ENTITY clientAuthAsk.message2 "Escolher um certificado para utilizar como identificação:">
-<!ENTITY clientAuthAsk.message3 "Detalhes do certificado seleccionado:">
+<!ENTITY clientAuthAsk.message3 "Detalhes do certificado selecionado:">
 <!-- Strings for the cert picker dialog -->
 
 <!ENTITY certPicker.title "Selecionar certificado">
