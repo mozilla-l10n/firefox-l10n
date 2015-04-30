@@ -193,7 +193,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksCmd.commandkey "b">
 
 <!ENTITY bookmarksMenuButton.label          "पुस्तकचिह्न">
-<!ENTITY bookmarksMenuButton.unsorted.label "बिनु छाँटल पुस्तकचिह्न">
+<!ENTITY bookmarksMenuButton.unsorted.label "बिन छाँटल पुस्तकचिह्न">
 <!ENTITY viewBookmarksSidebar2.label        "पुस्तकचिह्न अओजारपट्टी देखू">
 <!ENTITY viewBookmarksToolbar.label         "पुस्तकचिह्न अओजारपट्टी देखू">
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
@@ -608,12 +608,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY quitApplicationCmdWin2.label       "बाहर">
 <!ENTITY quitApplicationCmdWin2.accesskey   "x">
-<!ENTITY quitApplicationCmdWin2.tooltip     "&brandShortName; सँ बाहर">
+<!ENTITY quitApplicationCmdWin2.tooltip     "सँ बाहर &brandShorterName;">
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY goForwardCmd.commandKey "]">
 <!ENTITY quitApplicationCmd.label       "बाहर जाउ"> 
 <!ENTITY quitApplicationCmd.accesskey   "Q">
-<!ENTITY quitApplicationCmdMac2.label   "&brandShortName; सँ बाहर जाउ">
+<!ENTITY quitApplicationCmdMac2.label   "छो़ड़ू &brandShorterName;">
 <!-- LOCALIZATION NOTE(quitApplicationCmdUnix.key): This keyboard shortcut is used by both Linux and OSX builds. -->
 <!ENTITY quitApplicationCmdUnix.key     "Q">
 
@@ -700,7 +700,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY syncSyncNowItem.accesskey    "S">
 <!ENTITY syncReAuthItem.label         "&syncBrand.shortName.label; मे फेर कनेक्ट करू (R)…">
 <!ENTITY syncReAuthItem.accesskey     "R">
-<!ENTITY syncToolbarButton.label      "Sync">
+<!ENTITY syncToolbarButton.label      "तुल्यकालित करू">
 
 <!ENTITY socialToolbar.title        "सामाजिक अओजारपट्टी बटन">
 
@@ -850,8 +850,11 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY readingList.sidebar.commandKey           "R">
 <!ENTITY readingList.showSidebar.label            "पठन सूची स्लाइडबार देखाबू">
 <!-- Pre-landed string for bug 1124153 -->
+<!ENTITY readingList.sidebar.showMore.label       "बेसी देखाउ…">
 <!-- Pre-landed string for bug 1133662 -->
+<!ENTITY readingList.sidebar.emptyText            "अपन पठन सूची मे आलेख जोड़ू ताकि ओकरा फेर बाद कलेल सहेजल जाए सकै आओर ओकरा फेर पता कएल जाए सकै जखन अहाँक एकर जरूरत हाएत.">
 <!-- Pre-landed string for bug 1123525 -->
+<!ENTITY readingList.sidebar.delete.tooltip       "अपन पठन सूची सँ एकरा हटाबू">
 <!-- Pre-landed strings for bug 1123519 -->
 <!ENTITY readingList.sidebar.add.label            "पढ़बाक सूची मे जोड़ू">
-
+<!ENTITY readingList.sidebar.add.tooltip          "ई पृष्ठ अपन पठन सूची मे जोड़ू">

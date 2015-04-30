@@ -4,21 +4,24 @@
 
 <!ENTITY tracking.label                 "ट्रैकिंग">
 
+<!ENTITY dntTrackingNotOkay.label2      "वेबसाइट केँ बताउ जे हम नहि चाहैत छी हमरा ट्रैक कएल जाएनाइ चाही">
 <!ENTITY dntTrackingNotOkay.accesskey   "n">
-
-
-
+<!ENTITY trackingProtection.label       "हमरा ट्रैक करबाक लेल साइट केँ रोकू">
+<!ENTITY trackingProtection.accesskey   "m">
+<!ENTITY trackingProtectionLearnMore.label "आओर जानू">
 <!ENTITY doNotTrackInfo.label           "आओर जानू">
 
+<!ENTITY  history.label                 "इतिहास">
 
 <!ENTITY  locationBar.label             "स्थान पट्टी">
 
-
-
-
-
-
-
+<!ENTITY  locbar.suggest.label          "जखन स्थान पट्टीक प्रयोग कएल जाए हुए, सलाह दिअ':">
+<!ENTITY  locbar.history.label          "इतिहास">
+<!ENTITY  locbar.history.accesskey      "H">
+<!ENTITY  locbar.bookmarks.label        "पुस्तकचिह्न">
+<!ENTITY  locbar.bookmarks.accesskey    "k">
+<!ENTITY  locbar.openpage.label         "टैब खोलू">
+<!ENTITY  locbar.openpage.accesskey     "O">
 
 <!ENTITY  acceptCookies.label           "साइट सँ कुकीज स्वीकारू">
 <!ENTITY  acceptCookies.accesskey       "A">
@@ -29,7 +32,8 @@
 <!ENTITY  acceptThirdParty.never.label    "कखनो नहि">
 <!ENTITY  acceptThirdParty.visited.label  "भ्रमण कएलसँ">
 
-
+<!ENTITY  keepUntil.label               "जारी राखू जखनतक:">
+<!ENTITY  keepUntil.accesskey           "u">
 
 <!ENTITY  expire.label                  "हुनकर मियाद पूर्ण होइछ">
 <!ENTITY  close.label                   "हम &brandShortName; बन्न करैत छी">
