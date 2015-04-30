@@ -39,4 +39,4 @@
 
 <!ENTITY plugin.file                                         "ഫയല്‍">
 <!ENTITY plugin.mimeTypes                                    "MIME തരങ്ങള്‍">
-
+<!ENTITY plugin.flashProtectedMode.label                     "അഡോബി ഫ്ലാഷ് സംരക്ഷിത രീതി സജ്ജമാക്കു">

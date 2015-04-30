@@ -2,10 +2,14 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this file,
    - You can obtain one at http://mozilla.org/MPL/2.0/.  -->
 
+<!ENTITY refreshProfile.dialog.title         "&brandShortName; പുതുക്കുക">
+<!ENTITY refreshProfile.dialog.description1  "പ്രശ്നങ്ങള്‍ പരിഹരിച്ചു് പ്രവര്‍ത്തനം വീണ്ടെടുക്കുന്നതിനു് പുതുതായി തുടങ്ങുക.">
+<!ENTITY refreshProfile.dialog.description2  "ഇതു്:">
+<!ENTITY refreshProfile.dialog.items.label1  "നിങ്ങളുടെ ആഡ്-ഓണുകളും യഥേഷ്ടം തയ്യാറാക്കിയവും നീക്കം ചെയ്യുക">
+<!ENTITY refreshProfile.dialog.items.label2  "നിങ്ങളുടെ ബ്രൌസറിന്റെ സജ്ജീകരണങ്ങള്‍ സ്വതവേയാക്കുക.">
+<!ENTITY refreshProfile.dialog.button.label  "&brandShortName; പുതുക്കുക">
 
+<!ENTITY refreshProfile.title                "&brandShortName; സജ്ജമാക്കുക">
+<!ENTITY refreshProfile.button.label         "&brandShortName; പുതുക്കുക...">
 
-
-
-
-
-
+<!ENTITY refreshProfile.cleaning.description "ഏകദേശം പൂര്‍ത്തിയായി...">

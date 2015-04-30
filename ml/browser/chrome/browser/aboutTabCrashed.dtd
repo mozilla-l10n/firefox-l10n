@@ -5,7 +5,7 @@
 <!ENTITY tabCrashed.header "മോശം വാര്‍ത്ത ആദ്യം: ഈ ടാബ് ക്രാഷായിരിക്കുന്നു">
 <!ENTITY tabCrashed.message "ഇനി ശുഭവാര്‍ത്ത: നിങ്ങള്‍ക്ക് ഈ ടാബ് അടച്ചതിനു ശേഷം, ഈ ടാബ് മാത്രമായോ എല്ലാ ക്രാഷായ ടാബുകളും ചേര്‍ത്തോ പുനഃസ്ഥാപിക്കാം.">
 <!ENTITY tabCrashed.sendReport "ഒരു ക്രാഷ് റിപ്പോര്‍ട്ട് നല്‍കിയാല്‍ മോശം വാര്‍ത്തകള്‍ ഇനി കുറക്കാം">
-
+<!ENTITY tabCrashed.reportSent "ക്രാഷ് റിപോര്‍ട്ട് നിലവില്‍ രേഖപ്പെടുത്തിയിരിയ്ക്കുന്നു; &brandShortName; ഉത്തമമാക്കുവാന്‍ സഹായിയ്ക്കുന്നതിനു് നന്ദി!">
 <!ENTITY tabCrashed.closeTab "ഈ ടാബ് അടക്കൂ">
 <!ENTITY tabCrashed.restoreTab "ഈ ടാബ് പുനഃസ്ഥാപിക്കൂ">
 <!ENTITY tabCrashed.restoreAll "ക്രാഷായ എല്ലാ ടാബുകളും പുനഃസ്ഥാപിക്കൂ">
