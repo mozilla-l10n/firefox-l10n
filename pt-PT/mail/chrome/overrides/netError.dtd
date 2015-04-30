@@ -33,7 +33,7 @@ se o &brandShortName; tem permissão para aceder à web.</li>
 <li>Verifique se o ficheiro foi movido, renomeado ou eliminado.</li> 
 </ul>">
 
-<!ENTITY generic.title "Oops.">
+<!ENTITY generic.title "Bolas">
 <!ENTITY generic.longDesc "<p>O &brandShortName; não conseguiu carregar a página por algum motivo.</p> ">
 
 <!ENTITY malformedURI.title "O endereço não é válido">
