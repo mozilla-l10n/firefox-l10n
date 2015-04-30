@@ -8,7 +8,7 @@
 <!ENTITY InputType.label "Tipo">
 <!ENTITY InputType.accesskey "T">
 <!ENTITY text.value "Texto">
-<!ENTITY password.value "Senha">
+<!ENTITY password.value "Palavra-passe">
 <!ENTITY checkbox.value "Caixa de verificação">
 <!ENTITY radio.value "Botão rádio">
 <!ENTITY submit.value "Botão submeter">

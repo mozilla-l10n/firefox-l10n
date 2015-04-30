@@ -4,7 +4,7 @@
 
 <!ENTITY itemJunk.label          "Lixo eletrónico">
 <!ENTITY itemPhishing.label      "Mensagens de engodo">
-<!ENTITY itemPasswords.label     "Senhas">
+<!ENTITY itemPasswords.label     "Palavras-passe">
 <!ENTITY itemAntiVirus.label     "Anti-vírus">
 <!-- Junk Mail Controls -->
 
@@ -32,14 +32,14 @@
 <!ENTITY useDownloadedList.accesskey "U">
 <!-- Passwords -->
 
-<!ENTITY savedPasswords.intro           "O &brandShortName; pode guardar as senhas de todas as suas contas.">
-<!ENTITY useMasterPassword.label        "Utilizar uma senha-mestre">
+<!ENTITY savedPasswords.intro           "O &brandShortName; pode guardar as palavras-passe de todas as suas contas.">
+<!ENTITY useMasterPassword.label        "Utilizar uma palavra-passe mestra">
 <!ENTITY useMasterPassword.accesskey    "U">
-<!ENTITY masterPassword.intro           "A senha-mestre protege todas as suas senhas, mas terá que a indicar uma vez por sessão.">
-<!ENTITY changeMasterPassword.label     "Mudar senha-mestre...">
+<!ENTITY masterPassword.intro           "A palavra-passe mestra protege todas as suas palavras-passe, mas terá que a indicar uma vez por sessão.">
+<!ENTITY changeMasterPassword.label     "Mudar palavra-passe mestra...">
 <!ENTITY changeMasterPassword.accesskey "M">
-<!ENTITY savedPasswords.label           "Senhas guardadas...">
-<!ENTITY savedPasswords.accesskey       "S">
+<!ENTITY savedPasswords.label           "Palavras-passe guardadas...">
+<!ENTITY savedPasswords.accesskey       "s">
 <!-- Anti Virus -->
 
 <!ENTITY antiVirus.intro      "O &brandShortName; pode facilitar a análise de novas mensagens por programas anti-vírus antes que estas sejam guardadas localmente.">
