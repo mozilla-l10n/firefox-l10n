@@ -6,9 +6,9 @@
 <!ENTITY aboutPage.telemetryStart               " Envia informação automaticamente sobre o desempenho, hardware, utilização e personalizações para a ">
 <!ENTITY aboutPage.telemetryMozillaLink         "&vendorShortName;">
 <!ENTITY aboutPage.telemetryEnd                 " para ajudar a tornar &brandShortName; melhor.">
-<!ENTITY aboutPage.checkForUpdates.link         "Procurar actualizações »">
-<!ENTITY aboutPage.checkForUpdates.checking     "A procurar actualizações…">
-<!ENTITY aboutPage.checkForUpdates.none         "Nenhuma actualização disponível">
+<!ENTITY aboutPage.checkForUpdates.link         "Procurar atualizações »">
+<!ENTITY aboutPage.checkForUpdates.checking     "A procurar atualizações…">
+<!ENTITY aboutPage.checkForUpdates.none         "Não existem atualizações.">
 <!ENTITY aboutPage.checkForUpdates.available2   "Transferir atualização">
 <!ENTITY aboutPage.checkForUpdates.downloading  "A transferir atualização…">
 <!ENTITY aboutPage.checkForUpdates.downloaded2  "Instalar atualização">
