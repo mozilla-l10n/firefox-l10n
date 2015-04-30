@@ -75,8 +75,8 @@
 <!ENTITY advancedButton.label "Napredno …">
 <!ENTITY advancedButton.accesskey "N">
 <!ENTITY serverDefaultCharset2.label "Privzeto kodiranje besedila:">
-<!ENTITY localPath.label "Krajevni imenik:">
-<!ENTITY localFolderPicker.label "Izberi krajevni imenik">
+<!ENTITY localPath.label "Lokalni imenik:">
+<!ENTITY localFolderPicker.label "Izberi lokalni imenik">
 <!ENTITY browseFolder.label "Brskaj …">
 <!ENTITY browseFolder.accesskey "B">
 <!ENTITY browseNewsrc.label "Brskaj …">
