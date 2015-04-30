@@ -42,7 +42,7 @@
 <!ENTITY runtimeMenu_showDevicePrefs_label "Preferência do dispositivo">
 <!ENTITY runtimeMenu_showDevicePrefs_accesskey "D">
 <!ENTITY runtimeMenu_showSettings_label "Configurações do dispositivo">
-
+<!ENTITY runtimeMenu_showSettings_accesskey "s">
 
 <!ENTITY viewMenu_label "Exibir">
 <!ENTITY viewMenu_accesskey "x">

@@ -51,12 +51,14 @@
 <!-- LOCALIZATION NOTE (profilerUI.table.*): These strings are displayed
   -  in the call tree headers for a recording. -->
 
+<!ENTITY profilerUI.table.totalDuration2  "Tempo total">
+
 <!ENTITY profilerUI.table.totalPercentage "Custo total">
 <!ENTITY profilerUI.table.selfPercentage  "Custo interno">
 <!ENTITY profilerUI.table.samples         "Amostras">
 <!ENTITY profilerUI.table.function        "Função">
 
-
+<!ENTITY profilerUI.table.totalAllocTooltip "O número total de amostragem de alocações de objetos nesta localização e nas chamadas.">
 
 
 <!-- LOCALIZATION NOTE (profilerUI.newtab.tooltiptext): The tooltiptext shown
