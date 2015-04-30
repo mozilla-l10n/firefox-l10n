@@ -74,7 +74,7 @@
 <!ENTITY  mediaBlockImage.accesskey "B">
 <!ENTITY  mediaSaveAs           "Salvar como...">
 <!ENTITY  mediaSaveAs.accesskey "a">
-
+<!ENTITY  mediaSaveAs2.accesskey "c">
 <!ENTITY  mediaPreview          "Visualizar mídia:">
 
 <!ENTITY  feedTab               "Fontes">
