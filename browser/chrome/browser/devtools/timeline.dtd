@@ -10,6 +10,10 @@
   - documentation on web development on the web. -->
 <!-- LOCALIZATION NOTE (timelineUI.recordButton): This string is displayed
   -  on a button that starts a new recording. -->
+
+
+
+<!ENTITY timelineUI.recordButton.tooltip "ടൈംലൈന്‍ പ്രക്രിയകള്‍ റികോര്‍ഡ് ചെയ്യുക">
 <!-- LOCALIZATION NOTE (timelineUI.recordLabel): This string is displayed
   -  as a label to signal that a recording is in progress. -->
 
@@ -17,13 +21,23 @@
 <!-- LOCALIZATION NOTE (timelineUI.memoryCheckbox.label): This string
   -  is displayed next to a checkbox determining whether or not memory
   -  measurements are enabled. -->
+
+<!ENTITY timelineUI.memoryCheckbox.label "മെമ്മറി">
 <!-- LOCALIZATION NOTE (timelineUI.memoryCheckbox.tooltip): This string
   -  is displayed next to the memory checkbox -->
+
+<!ENTITY timelineUI.memoryCheckbox.tooltip "മെമ്മറി അളവുകള്‍ പ്രവര്‍ത്തന സജ്ജമാക്കുക">
 <!-- LOCALIZATION NOTE (timelineUI.filterButton.tooltip): This string
   -  is displayed next to the filter button-->
+
+<!ENTITY timelineUI.filterButton.tooltip "പ്രദര്‍ശിപ്പിയ്ക്കേണ്ട ഡേറ്റാ തെരഞ്ഞെടുക്കുക">
 <!-- LOCALIZATION NOTE (timelineUI.emptyNotice1/2): This is the label shown
   -  in the timeline view when empty. -->
 
+<!ENTITY timelineUI.emptyNotice1    "ടൈംലൈന്‍ ഇവന്റുകള്‍ റിക്കോര്‍ഡിങ്">
+<!ENTITY timelineUI.emptyNotice2    "ആരംഭിയ്ക്കുന്നതിനു് ഈ ബട്ടണില്‍ ക്ലിക്ക് ചെയ്യുക.">
 <!-- LOCALIZATION NOTE (timelineUI.stopNotice1/2): This is the label shown
   -  in the timeline view while recording. -->
 
+<!ENTITY timelineUI.stopNotice1    "റിക്കോര്‍ഡിങ് നിര്‍ത്തുന്നതിനു്">
+<!ENTITY timelineUI.stopNotice2    "ബട്ടണില്‍ ക്ലിക്ക് ചെയ്യുക.">

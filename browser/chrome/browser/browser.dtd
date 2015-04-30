@@ -95,8 +95,8 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY pageInfoCmd.label "താള്‍ വിവരങ്ങള്‍">
 <!ENTITY pageInfoCmd.accesskey "I">
 <!ENTITY pageInfoCmd.commandkey "i">
-
-
+<!ENTITY mirrorTabCmd.label "മിറര്‍ റ്റാബ്">
+<!ENTITY mirrorTabCmd.accesskey "റ">
 <!-- LOCALIZATION NOTE (enterFullScreenCmd.label, exitFullScreenCmd.label):
 These should match what Safari and other Apple applications use on OS X Lion. -->
 <!ENTITY enterFullScreenCmd.label "സ്ക്രീന്‍ പൂര്‍ണ്ണവലിപ്പത്തില്‍">
@@ -150,13 +150,14 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY sharePageCmd.commandkey "S">
 <!ENTITY sharePageCmd.accesskey "ഈ">
 <!-- LOCALIZATION NOTE (shareLink.accesskey): must be different than the following share access keys -->
-
-
-
-
-
-
-
+<!ENTITY shareLink.label "ഈ കണ്ണി  പങ്കിടുക">
+<!ENTITY shareLink.accesskey "ഈ">
+<!ENTITY shareImage.label "ഈ ചിത്രം പങ്കിടുക">
+<!ENTITY shareImage.accesskey "പ">
+<!ENTITY shareSelect.label "തെരഞ്ഞെടുത്തതു് പങ്കിടുക">
+<!ENTITY shareSelect.accesskey "പ">
+<!ENTITY shareVideo.label "ഈ വീഡിയോ പങ്കിടുക">
+<!ENTITY shareVideo.accesskey "ക">
 <!ENTITY feedsMenu.label "അംഗമാകുക">
 <!ENTITY subscribeToPageMenupopup.label "ഈ താളില്‍ അംഗമാകുക">
 <!ENTITY subscribeToPageMenuitem.label "ഈ താളില്‍ അംഗമാകുക...">
@@ -218,8 +219,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY addons.label                 "ആഡ്‌-ഓണുകള്‍">
 <!ENTITY addons.accesskey             "A">
 <!ENTITY addons.commandkey            "A">
-
-
+<!ENTITY webapps.label                "പ്രയോഗങ്ങള്‍">
+<!ENTITY webapps.accesskey            "ഗ">
 
 <!ENTITY webDeveloperMenu.label       "വെബ് ഡവലപ്പര്‍">
 <!ENTITY webDeveloperMenu.accesskey   "W">
@@ -244,7 +245,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY responsiveDesignTool.label   "റസ്പോണ്‍സീവ് രീതിയിലുള്ള കാഴ്ച">
 <!ENTITY responsiveDesignTool.accesskey "R">
-
+<!ENTITY responsiveDesignTool.commandkey "M">
 
 <!ENTITY eyedropper.label   "ഐഡ്രോപ്പര്‍">
 <!ENTITY eyedropper.accesskey "ഐ">
@@ -271,6 +272,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (browserContentToolboxMenu.label): This is the label for the
   -  application menu item that opens the browser content toolbox UI in the Tools menu.
   -  This toolbox allows to debug the chrome of the content process in multiprocess builds.  -->
+
+<!ENTITY browserContentToolboxMenu.label     "ബ്രൌസര്‍ കണ്ടന്റ് ടൂള്‍ബോക്സ്">
 
 <!ENTITY devToolbarCloseButton.tooltiptext "ഡവലപ്പര്‍ ടൂള്‍ബാര്‍ അടയ്ക്കുക">
 <!ENTITY devToolbarMenu.label              "ഡവലപ്പര്‍ ടൂള്‍ബാര്‍">
@@ -423,6 +426,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      The wording of this string should be as close as possible to
      searchFor.label and searchWith.label. This string will be used instead of
      them when the user has not typed any keyword. -->
+<!ENTITY searchWithHeader.label       "ഇതുമായി തെരയുക:">
 <!-- LOCALIZATION NOTE (changeSearchSettings.button):
      This string won't wrap, so if the translated string is longer,
      consider translating it as if it said only "Search Settings". -->
@@ -502,8 +506,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY emailImageCmd.accesskey      "g">
 <!ENTITY emailVideoCmd.label          "വീഡിയോ ഈമെയില്‍ അയയ്ക്കുക…">
 <!ENTITY emailVideoCmd.accesskey      "a">
-
-
+<!ENTITY castVideoCmd.label           "ഡിവൈസിലേക്കു് വീഡിയോ അയയ്ക്കുക">
+<!ENTITY castVideoCmd.accesskey       "അ">
 <!ENTITY emailAudioCmd.label          "ഓഡിയോ ഈമെയില്‍ അയയ്ക്കുക…">
 <!ENTITY emailAudioCmd.accesskey      "ഈ">
 <!ENTITY playPluginCmd.label          "ഈ പ്ലഗിന്‍ സജീവമാക്കുക">
@@ -604,12 +608,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY quitApplicationCmdWin2.label       "പുറത്തു കടക്കുക">
 <!ENTITY quitApplicationCmdWin2.accesskey   "x">
-
+<!ENTITY quitApplicationCmdWin2.tooltip     "&brandShortName;-ല്‍ നിന്നും പുറത്ത് കടക്കുക">
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY goForwardCmd.commandKey "]">
 <!ENTITY quitApplicationCmd.label       "പുറത്തേക്ക്‌"> 
 <!ENTITY quitApplicationCmd.accesskey   "Q">
-
+<!ENTITY quitApplicationCmdMac2.label   "&brandShorterName;-ല്‍ നിന്നും പുറത്ത് കടക്കുക">
 <!-- LOCALIZATION NOTE(quitApplicationCmdUnix.key): This keyboard shortcut is used by both Linux and OSX builds. -->
 <!ENTITY quitApplicationCmdUnix.key     "Q">
 
@@ -718,6 +722,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY social.learnMore.accesskey "ത">
 <!ENTITY social.closeNotificationItem.label "ഇപ്പോള്‍ അല്ല ">
 
+<!ENTITY social.directory.label "ആക്ടിവേഷന്‍ ഡയറക്ടറി">
 <!ENTITY social.directory.text "ഈ ഡയറക്ടറിയില്‍ നിന്നും പങ്കിടല്‍ സേവനങ്ങള്‍ സജ്ജമാക്കാവുന്നതാണ്.">
 <!ENTITY social.directory.button "എന്നെ അവിടേക്ക് കൊണ്ടുപോകൂ!">
 <!ENTITY social.directory.introText "&brandShortName; എന്നതിലേക്ക് ഒരു സേവനം ചേര്‍ക്കാന്‍ ക്ലിക്ക് ചെയ്യൂ.">
@@ -734,10 +739,10 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY customizeMode.lwthemes.myThemes "എന്റെ രൂപഭാവങ്ങള്‍">
 <!ENTITY customizeMode.lwthemes.recommended "ശുപാര്‍ശ ചെയ്യപ്പെട്ടത്">
 <!ENTITY customizeMode.lwthemes.menuManage "കൈകാര്യം ചെയ്യൂ">
-
-
-
-
+<!ENTITY customizeMode.lwthemes.menuManage.accessKey "M">
+<!ENTITY customizeMode.lwthemes.menuGetMore "കൂടുതല്‍ പ്രമേയങ്ങള്‍ ലഭ്യമാക്കുക">
+<!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "G">
+<!ENTITY customizeMode.deveditionTheme.label2 "ഡവലപ്പര്‍ എഡിഷന്‍ പ്രമേയം ഉപയോഗിയ്ക്കുക">
 
 <!ENTITY social.chatBar.commandkey "c">
 <!ENTITY social.chatBar.label "ചാറ്റുകള്‍ ശ്രദ്ധിയ്ക്കുക">
@@ -760,22 +765,22 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY mixedContentBlocked2.message "സുരക്ഷിതമല്ലാത്ത ഉള്ളടക്കം">
 <!ENTITY mixedContentBlocked2.moreinfo "ഈ വെബ്സൈറ്റിലെ ചില എന്‍ക്രിപ്റ്റ് ചെയ്യാത്ത ഘടകങ്ങള്‍ തടഞ്ഞിട്ടുണ്ട്.">
 <!ENTITY mixedContentBlocked2.learnMore "കൂടുതലറിയാം">
-
-
-
-
-
-
+<!ENTITY mixedContentBlocked2.options "ഐച്ഛികങ്ങള്‍">
+<!ENTITY mixedContentBlocked2.unblock.label "ഇപ്പോഴത്തേക്ക് സുരക്ഷ പ്രവര്‍ത്തന രഹിതമാക്കുക">
+<!ENTITY mixedContentBlocked2.unblock.accesskey "വ">
+<!ENTITY mixedContentBlocked2.block.label "സുരക്ഷ പ്രവര്‍ത്തന സജ്ജമാക്കുക">
+<!ENTITY mixedContentBlocked2.block.accesskey "ന">
+<!ENTITY mixedContentBlocked2.disabled.message "സുരക്ഷ പ്രവര്‍ത്തന രഹിതമാക്കിയിരിയ്ക്കുന്നു">
 
 <!ENTITY trackingContentBlocked.message "നിരീക്ഷണം">
-
+<!ENTITY trackingContentBlocked.moreinfo "നിങ്ങളുടെ ഓണ്‍ലൈന്‍ പ്രവര്‍ത്തനം നിരീക്ഷിയ്ക്കുന്ന താളിന്റെ ഭാഗങ്ങള്‍ തടഞ്ഞിരിയ്ക്കുന്നു.">
 <!ENTITY trackingContentBlocked.learnMore "കൂടുതലറിയാം">
-
-
-
-
-
-
+<!ENTITY trackingContentBlocked.options "ഐച്ഛികങ്ങള്‍">
+<!ENTITY trackingContentBlocked.unblock2.label "ഈ താളില്‍ സുരക്ഷ പ്രവര്‍ത്തന രഹിതമാക്കുക">
+<!ENTITY trackingContentBlocked.unblock2.accesskey "ര">
+<!ENTITY trackingContentBlocked.block.label "സുരക്ഷ പ്രവര്‍ത്തന സജ്ജമാക്കുക">
+<!ENTITY trackingContentBlocked.block.accesskey "വ">
+<!ENTITY trackingContentBlocked.disabled.message "ട്രാക്കിങ് സംരക്ഷണം പ്രവര്‍ത്തന രഹിതമാക്കുക">
 
 <!ENTITY pointerLock.notification.message "ഇതു് വീണ്ടും കാണിയ്ക്കുന്നതിനായി എപ്പോള്‍ വേണമെങ്കിലും ESC അമര്‍ത്തുക">
 
@@ -802,6 +807,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- LOCALIZATION NOTE: (panicButton.view.mainTimeframeDesc, panicButton.view.5min, panicButton.view.2hr, panicButton.view.day):
      The .mainTimeframeDesc string combined with any of the 3 others is meant to form a complete sentence, e.g. "Forget the last: Five minutes".
      Please ensure that this remains the case in the translation. -->
+
+<!ENTITY panicButton.view.mainTimeframeDesc       "അവസാനത്തേതു് മറക്കുക:">
 <!ENTITY panicButton.view.5min                    "അഞ്ചു മിനുട്ട്">
 <!ENTITY panicButton.view.2hr                     "രണ്ടു മണിക്കൂര്‍">
 <!ENTITY panicButton.view.day                     "24 മണിക്കൂര്‍">
@@ -810,7 +817,9 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      Note also that the deleteCookies, deleteHistory and deleteTabsAndWindows strings include <html:strong> tags for emphasis on the words "Cookies", "History", "Tabs" and "Windows".
      The translation should do the same. -->
 
-
+<!ENTITY panicButton.view.mainActionDesc          "മുമ്പോട്ടുള്ള സമ്മതം:">
+<!ENTITY panicButton.view.deleteCookies           "അടുത്തിടെയുള്ള <html:strong>കുക്കികള്‍</html:strong> വെട്ടി നീക്കുക">
+<!ENTITY panicButton.view.deleteHistory           "അടുത്തിടെയുള്ള <html:strong>നാള്‍വഴി</html:strong> വെട്ടി നീക്കുക">
 <!ENTITY panicButton.view.deleteTabsAndWindows    "എല്ലാ <html:strong>ടാബുകളും</html:strong><html:strong>ജാലകങ്ങളും</html:strong>അടക്കൂ">
 <!ENTITY panicButton.view.openNewWindow           "ഒരു പുതിയ ഒഴിഞ്ഞ ജാലകം തുറക്കൂ">
 
@@ -821,26 +830,29 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY panicButton.thankyou.msg2                "സുരക്ഷിത ബ്രൗസിങ്ങ്!">
 <!ENTITY panicButton.thankyou.buttonlabel         "നന്ദി!">
 
+<!ENTITY processHang.terminateScript.label        "സ്ക്രിപ്റ്റ് നിര്‍ത്തുക">
+<!ENTITY processHang.terminateScript.accessKey    "ക">
+<!ENTITY processHang.debugScript.label            "സ്ക്രിപ്റ്റ് ഡീബഗ്ഗ് ചെയ്യുക">
+<!ENTITY processHang.debugScript.accessKey        "ബ">
+<!ENTITY processHang.terminatePlugin.label        "പ്ലഗിന്‍ ഇല്ലാതാക്കുക">
+<!ENTITY processHang.terminatePlugin.accessKey    "ഇ">
+<!ENTITY processHang.terminateProcess.label       "വെബ് പ്രക്രിയ ഇല്ലാതാക്കുക">
+<!ENTITY processHang.terminateProcess.accessKey   "ക">
 
-
-
-
-
-
-
-
-
-
-
+<!ENTITY emeLearnMoreContextMenu.label            "ഡിആര്‍എമിനെപ്പറ്റി കൂടുതല്‍ അറിയുക...">
+<!ENTITY emeLearnMoreContextMenu.accesskey        "ആ">
+<!ENTITY emeNotificationsNotNow.label             "ഇപ്പോള്‍ അല്ല ">
+<!ENTITY emeNotificationsNotNow.accesskey         "ഇ">
 <!ENTITY emeNotificationsDontAskAgain.label       "ഇനി ചോദിക്കരുതു് (D)">
 <!ENTITY emeNotificationsDontAskAgain.accesskey   "D">
 
 <!ENTITY readingList.label                        "വായന പട്ടിക">
-
-
+<!ENTITY readingList.sidebar.commandKey           "R">
+<!ENTITY readingList.showSidebar.label            "വായനാ പട്ടികയുള്ള വശത്തുള്ള ബാര്‍ കാണുക">
 <!-- Pre-landed string for bug 1124153 -->
 <!ENTITY readingList.sidebar.showMore.label       "കൂടുതല്‍ കാണിക്കൂ...">
 <!-- Pre-landed string for bug 1133662 -->
+<!ENTITY readingList.sidebar.emptyText            "പിന്നീടു് വായിയ്ക്കുന്നതിനായി വായനാപട്ടികയിലേക്കു് ലേഖനങ്ങള്‍ ചേര്‍ക്കുക. ഇവ പിന്നീടു് നിങ്ങള്‍ക്കാവശ്യമുള്ളപ്പോള്‍ എളുപ്പത്തില്‍ ലഭ്യമാക്കാം.">
 <!-- Pre-landed string for bug 1123525 -->
 <!ENTITY readingList.sidebar.delete.tooltip       "വായനാ പട്ടികയില്‍ നിന്ന് ഇതൊഴിവാക്കൂ">
 <!-- Pre-landed strings for bug 1123519 -->
