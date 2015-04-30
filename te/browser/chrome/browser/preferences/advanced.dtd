@@ -34,8 +34,8 @@
 <!ENTITY healthReportLearnMore.label     "మరింత నేర్చుకోండి">
 
 <!ENTITY telemetryDesc.label             "&brandShortName; ను మెరుగుగా చేయుటలో మాకు దోహదపడుటకు, మీ బ్రౌజర్ పనితనం, వినియోగం, హార్డువేరు మరియు తగురీతిన మలచిన వాటి గురించిన దత్తాంశం &vendorShortName; తో పంచుకొనును">
-
-
+<!ENTITY enableTelemetryData.label       "అదనపు డేటాను పంచుకో (అనగా, టెలిమెట్రీ)">
+<!ENTITY enableTelemetryData.accesskey   "T">
 <!ENTITY telemetryLearnMore.label        "మరింత తెలుసుకోండి">
 
 <!ENTITY crashReporterDesc.label         "మీ బ్రౌజర్ మరింత స్థిరంగా మరియు సురక్షితంగా చేయుటకు &brandShortName; క్రాష్ నివేదికలను &vendorShortName; కు అప్పగించును.">
