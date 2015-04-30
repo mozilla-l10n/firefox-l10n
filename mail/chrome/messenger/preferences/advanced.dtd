@@ -44,7 +44,7 @@
 <!ENTITY telemetryDesc.label             "Compartilha o desempenho, a utilização, o hardware e os dados de personalização sobre o cliente de e-mail com a &vendorShortName; para ajudar a melhorar o &brandShortName;">
 <!ENTITY enableTelemetry.label           "Ativar telemetria">
 <!ENTITY enableTelemetry.accesskey       "t">
-
+<!ENTITY telemetryLearnMore.label        "Saiba mais">
 
 <!ENTITY crashReporterSection.label      "Relatório de travamento">
 <!ENTITY crashReporterDesc.label         "O &brandShortName; envia relatório de erros para ajudar a &vendorShortName; a tornar o seu cliente de e-mail mais estável e seguro">
