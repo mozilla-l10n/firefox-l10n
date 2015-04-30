@@ -103,4 +103,4 @@
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.vietnamese):
      Translate "Vietnamese" as an adjective for an encoding, not as the name of the language. -->
 <!ENTITY languages.customize.Fallback.vietnamese  "वियतनामी">
-
+<!ENTITY languages.customize.Fallback.other       "आन (पश्चिमी यूरोपीय सहित)">

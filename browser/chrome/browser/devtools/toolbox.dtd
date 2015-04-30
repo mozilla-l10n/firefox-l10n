@@ -92,7 +92,7 @@
   -  tooltip for the checkbox that toggles the cache on or off. -->
 
 <!ENTITY options.disableCache.label2     "कैश निष्क्रिय करू (जखन अओज़ारपेटी खुलल अछि)">
-
+<!ENTITY options.disableCache.tooltip2   "ई विकल्प केँ बंद कएनाइ सभ टैब केर कैश केँ निष्क्रिय कए देत जकर अओजारपेटी खुलल अछि.">
 <!-- LOCALIZATION NOTE (options.selectDefaultTools.label): This is the label for
   -  the heading of group of checkboxes corresponding to the default developer
   -  tools. -->
@@ -122,6 +122,8 @@
 <!-- LOCALIZATION NOTE (options.usedeveditiontheme.*) Options under the
   -  toolbox for enabling and disabling the Developer Edition browser theme. -->
 
+<!ENTITY options.usedeveditiontheme.label   "डेवलेपर संस्करण ब्राउज प्रसंग केर उपयोग करू">
+<!ENTITY options.usedeveditiontheme.tooltip "डेवलेपर संस्करण ब्राउजर थीम टॉगल करू.">
 <!-- LOCALIZATION NOTE (options.webconsole.label): This is the label for the
   -  heading of the group of Web Console preferences in the options panel. -->
 

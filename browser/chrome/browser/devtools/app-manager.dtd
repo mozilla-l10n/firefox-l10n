@@ -36,9 +36,9 @@
 <!ENTITY device.permissionsHelpLink "https://developer.mozilla.org/docs/Web/Apps/App_permissions">
 <!ENTITY device.browserTabs "ब्राउजर टैब">
 <!ENTITY device.browserTabsTooltip "कनेक्टेड डिवाइस केर ब्राउज़र मे टैब केर सूची देखाउ">
-
+<!ENTITY device.debugBrowserTab "डिबग">
 <!ENTITY device.debugBrowserTabTooltip "डिवाइस पर एहि ऐप्पस सँ जुड़ल डेवलपर उपकरण केँ खोलू.">
-
+<!ENTITY device.help "मदति ">
 
 <!ENTITY connection.connectTooltip "दूरस्थ सर्वर सँ कनेक्ट करू">
 <!ENTITY connection.disconnect "डिसकनेक्ट करू">
@@ -66,19 +66,19 @@
 <!ENTITY connection.startRegisteredSimulator "आरंभ">
 
 <!ENTITY projects.localApps "स्थानीय ऐप्पस">
-
+<!ENTITY projects.addApp "जोड़ू">
 <!ENTITY projects.addPackaged "पैक कएल ऐप्प जोड़ू">
 <!ENTITY projects.addPackagedTooltip "अपन कंप्यूटर सँ एकटा नव पैकेजयुक्त ऐप्प (एकटा निर्देशिका) जोड़ू">
 <!ENTITY projects.addHosted "होस्ट कएल गेल ऐप्प जोड़ू">
 <!ENTITY projects.addHostedTooltip "एकटा दूरस्थ वेबसाइट सँ एकटा नव मेजबानी अनुप्रयोग (manifest.webapp फाइल सँ लिंक करबाक लेल) जोड़ू.">
-
+<!ENTITY projects.title "स्थानीय ऐप्पस">
 <!ENTITY projects.appDetails "ऐप्प विवरण">
 <!ENTITY projects.removeAppFromList "अहाँ जकरा पर काज कए रहल छी अनुप्रयोग केर सूची सँ एहि अनुप्रयोग केँ हटाउ. ईकोनो उपकरण अथवा सिम्युलेटर सँ एकरा हटाएल नहि जाए सकैत अछि.">
 <!ENTITY projects.updateApp "अद्यतन  करू">
 <!ENTITY projects.updateAppTooltip "सत्यापन चेक निष्पादित आओर जुड़ल डिवाइस कलेल एप्लिकेशन केँ अपडेट करू।">
-
+<!ENTITY projects.debugApp "डिबग">
 <!ENTITY projects.debugAppTooltip "ओपन डेवलपर उपकरण एहि अनुप्रयोग सँ जुड़ल अछि">
-
+<!ENTITY projects.saveManifest "सहेजू">
 <!ENTITY projects.saveManifestTooltip "नीच्चाँ प्रकट मैनिफेस्ट संपादक केर सामग्री केँ सहेजू">
 <!ENTITY projects.hostedManifestPlaceHolder2 "http://example.com/app/manifest.webapp">
 <!ENTITY projects.noProjects "कोनो परियोजना नहि. नीच्चाँ एकटा नव पैकेजयुक्त अनुप्रयोग (स्थानीय निर्देशिका) अथवा एकटा होस्ट अनुप्रयोग (एकटा प्रकट फाइल केँ लिंक करबाक लेल) जोड़ू.">
@@ -92,8 +92,9 @@
 <!ENTITY projects.hosted "होस्ट">
 <!ENTITY projects.packaged "पैकेज">
 
+<!ENTITY help.title "अनुप्रयोग प्रबंधक">
 <!ENTITY help.close "बन्न करू">
-<!ENTITY help.intro "ई उपकरण सँ अहाँक संगत उपकरण (यानी फ़ायरफ़ॉक्स OS) पर वेब एप्प केर निर्माण आओर स्थापित करए मे मदति भेटत. <strong>अनुप्रयोग</strong> टैब अपन अनुप्रयोग केर सत्यापन आओर स्थापना केर प्रक्रिया मे मदति करत. <strong>डिवाइस</strong> टैब अहाँ जुड़ल डिवाइस केर संबंधमे जानकारी देब. </strong>डिवाइस</strong>सँ कनेक्ट अथवा सिम्युलेटर शुरू करबाक लेल नीच्चाँ उपकरण पट्टीक उपयोग करू.">
+<!ENTITY help.intro "ई उपकरण सँ अहाँक संगत उपकरण (यानी फ़ायरफ़ॉक्स OS) पर वेब एप्प केर निर्माण आओर स्थापित करए मे मदति भेटत. <strong>अनुप्रयोग</strong> टैब अपन अनुप्रयोग केर सत्यापन आओर स्थापना केर प्रक्रिया मे मदति करत. <strong>डिवाइस</strong> टैब अहाँ जुड़ल डिवाइस केर संबंधमे जानकारी देब. कनेक्ट अथवा सिम्युलेटर शुरू करबाक लेल नीच्चाँ उपकरण पट्टीक उपयोग करू.">
 <!ENTITY help.usefullLinks "उपयोगी कड़ी:">
 <!ENTITY help.appMgrDoc "दस्तावेजीकरण: अनुप्रयोग प्रबंधक क' उपयोग कए क'">
 <!ENTITY help.configuringDevice "अपन फ़ायरफ़ॉक्स OS डिवाइस स्थापित कओन तरहें करब">
