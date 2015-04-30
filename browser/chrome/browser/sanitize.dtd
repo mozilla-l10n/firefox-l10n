@@ -57,5 +57,8 @@ that require it.  -->
      mockup at bug 480169 -->
 <!ENTITY sanitizeEverythingUndoWarning     "Esta aición nun puede desfacese.">
 
-<!ENTITY dialog.width2 "34em">
-<!ENTITY column.width2 "17em">
+<!ENTITY sanitizePrefs2.modal.width "34em">
+<!ENTITY sanitizePrefs2.inContent.dialog.width "34em">
+<!ENTITY sanitizePrefs2.inContent.column.width "24em">
+<!ENTITY sanitizePrefs2.column.width "17em">
+<!ENTITY sanitizeDialog2.width "34em">
