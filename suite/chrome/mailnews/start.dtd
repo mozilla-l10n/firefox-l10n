@@ -5,7 +5,7 @@
 <!ENTITY startpage.title "Bem-vindo ao &brandShortName; Correio e grupos de discussão">
 <!--# LOCALIZATION NOTE (headline.label): the URL for <a id="vendorURL"> is fetched from brand.properties -->
 <!ENTITY headline.label 'Bem-Vindo ao <a id="vendorURL" href="">&brandShortName;</a> Correio e grupos de discussão!'>
-<!ENTITY description.label "O &brandShortName;  é uma aplicação open-source de correio e de grupos de notícias,
+<!ENTITY description.label "O &brandShortName; é uma aplicação open-source de correio e de grupos de notícias,
 com suporte a deteção avançada de lixo eletrónico e outras funcionalidade úteis.">
 <!ENTITY features.title "Funcionalidades">
 <!ENTITY feat_multiacc.label "Suporte para múltiplas contas">

@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY messengerWindow.title "Correio e grupos de discussão">
+<!ENTITY messengerWindow.title "Correio e grupos de notícias">
 <!ENTITY titleModifier.label "&brandShortName;">
 <!ENTITY titleSeparator.label " - ">
 <!-- tabmail -->
@@ -96,9 +96,9 @@
 <!ENTITY selectFlaggedCmd.accesskey "a">
 <!ENTITY folderPropsCmd.label "Propriedades...">
 <!ENTITY folderPropsFolderCmd.label "Propriedades da pasta...">
-<!ENTITY folderPropsNewsgroupCmd.label "Propriedades do grupo de discussão">
+<!ENTITY folderPropsNewsgroupCmd.label "Propriedades do grupo de notícias...">
 <!ENTITY folderPropsCmd.accesskey "o">
-<!ENTITY accountManagerCmd.label "Definições de contas e grupos de discussão">
+<!ENTITY accountManagerCmd.label "Definições da conta de correio e grupos de notícias...">
 <!ENTITY accountManagerCmd.accesskey "c">
 <!ENTITY undoDeleteMsgCmd.label "Anular eliminação da mensagem">
 <!ENTITY redoDeleteMsgCmd.label "Refazer eliminação de mensagem">

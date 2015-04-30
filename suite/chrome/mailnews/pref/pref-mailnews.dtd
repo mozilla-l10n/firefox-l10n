@@ -2,13 +2,13 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY pref.mailnews.title              "Correio e Grupos de Discussão">
+<!ENTITY pref.mailnews.title              "Correio e grupos de notícias">
 <!ENTITY generalSettings.caption          "Definições Gerais">
 <!ENTITY confirmMove.label                "Confirmar ao mover pastas para o Lixo">
 <!ENTITY confirmMove.accesskey            "C">
 <!ENTITY preserveThreading.label          "Preservar tópicos ao ordenar as mensagens">
 <!ENTITY preserveThreading.accesskey      "v">
-<!ENTITY mailBiffOnNewWindow.label        "Verificar por novo correio apenas depois de abrir o Correio &amp; Grupos de discussão">
+<!ENTITY mailBiffOnNewWindow.label        "Verificar por novo correio apenas depois de abrir o correio e os grupos de notícias">
 <!ENTITY mailBiffOnNewWindow.accesskey    "V">
 
 <!ENTITY defaultMailSettings.description  "Tornar o &brandShortName; a aplicação pré-definida de:">
@@ -32,5 +32,5 @@
 <!ENTITY location.accesskey               "L">
 <!ENTITY useDefault.label                 "Restaurar Pré-Definições">
 <!ENTITY useDefault.accesskey             "D">
-<!ENTITY rememberLastMsg.label            "Lembrar a última mensagem seleccionada">
-<!ENTITY rememberLastMsg.accesskey        "e">
+<!ENTITY rememberLastMsg.label            "Memorizar a última mensagem selecionada">
+<!ENTITY rememberLastMsg.accesskey        "M">

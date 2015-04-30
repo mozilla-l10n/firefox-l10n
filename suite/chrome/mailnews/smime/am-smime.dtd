@@ -12,11 +12,11 @@
 <!ENTITY alwaysEncryptMessage.label "Requerido (impossível enviar mensagens a menos que os receptores tenham um certificado)">
 <!ENTITY alwaysEncryptMessage.accesskey "u">
 <!ENTITY encryptionCert.message "Usar este Certificado para cifrar/decifrar mensagens enviadas para si:">
-<!ENTITY digitalSign.certificate.button "Seleccionar...">
+<!ENTITY digitalSign.certificate.button "Selecionar...">
 <!ENTITY digitalSign.certificate.accesskey "S">
 <!ENTITY digitalSign.certificate_clear.button "Limpar">
 <!ENTITY digitalSign.certificate_clear.accesskey "L">
-<!ENTITY encryption.certificate.button "Seleccionar...">
+<!ENTITY encryption.certificate.button "Selecionar...">
 <!ENTITY encryption.certificate.accesskey "S">
 <!ENTITY encryption.certificate_clear.button "Limpar">
 <!ENTITY encryption.certificate_clear.accesskey "r">

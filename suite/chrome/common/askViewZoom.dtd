@@ -3,4 +3,4 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY askViewZoom.title "Zoom">
-<!ENTITY selectZoom.label "Seleccionar zoom (&#037;):">
+<!ENTITY selectZoom.label "Tamanho (&#037;):">

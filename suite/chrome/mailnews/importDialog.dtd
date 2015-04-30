@@ -25,7 +25,7 @@
 <!ENTITY importDescription1.label "Este assistente vai importar mensagens de correio, entradas do Livro de Endereços, e/ou personalizações de outros programas de correio e formatos de livros de endereços comuns para o Correio do &brandShortName;.">
 <!ENTITY importDescription2.label "Ao serem importadas, poderá aceder a elas a partir do Correio e/ou Livro de Endereços do &brandShortName;.">
 
-<!ENTITY selectDescription.label  "Por favor seleccione o programa do qual deseja importar:">
+<!ENTITY selectDescription.label  "Por favor selecione o tipo de ficheiro que deseja importar:">
 <!ENTITY selectDescriptionB.label "Por favor selecione uma conta existente ou crie uma nova:">
 <!ENTITY selectDescription.accesskey "P">
 <!ENTITY acctName.label           "Nome:">
@@ -36,7 +36,7 @@
 <!ENTITY finish.label             "Terminar">
 <!ENTITY cancel.label             "Cancelar">
 
-<!ENTITY select.label             "Seleccione o tipo e material a importar:">
+<!ENTITY select.label             "Selecione o tipo de material a importar:">
 
 <!ENTITY title.label              "Título">
 <!ENTITY processing.label         "A Importar...">

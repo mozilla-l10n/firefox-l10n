@@ -16,9 +16,9 @@
 
 <!ENTITY importSource.title              "Importar definições e dados">
 <!ENTITY importItems.title               "Items a Importar">
-<!ENTITY importItems.label               "Seleccione quais os itens a importar:">
+<!ENTITY importItems.label               "Selecione os itens a importar:">
 
-<!ENTITY selectProfile.title             "Seleccione Perfil">
+<!ENTITY selectProfile.title             "Selecionar perfil">
 <!ENTITY selectProfile.label             "Os seguintes perfis estão disponíveis para importar de:">
 
 <!ENTITY migrating.title                 "A Importar…">

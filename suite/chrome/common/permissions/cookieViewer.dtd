@@ -9,7 +9,7 @@
 <!ENTITY     treehead.cookiename.label      "Nome do Cookie">
 <!ENTITY     treehead.cookiedomain.label    "Sítio">
 <!ENTITY     treehead.cookieexpires.label   "Expira">
-<!ENTITY     treehead.infoselected.label    "Informação sobre o cookie seleccionado">
+<!ENTITY     treehead.infoselected.label    "Detalhes do cookie selecionado">
 <!ENTITY     button.removecookie.label      "Remover cookie">
 <!ENTITY     button.removecookie.accesskey  "R">
 <!ENTITY     button.removeallcookies.label  "Remover todos os cookies">

@@ -53,7 +53,7 @@
 <!ENTITY allowRemoteContent1.tooltip    "Em mensagens  HTML é possível 
 incluir imagens de origens remotas. Abrir assim uma mensagem irá abrir 
 uma ligação a uma fonte externa. Isto pode levar a um seguimento da mensagem 
-ao ser lida. Ao seleccionar esta caixa irá permitir imagens remotas em 
+ao ser lida. Ao selecionar esta caixa irá permitir imagens remotas em 
 mensagens HTML deste contacto.">
 
 <!ENTITY WorkPhone.label                "Trabalho:">
