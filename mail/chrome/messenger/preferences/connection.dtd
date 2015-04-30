@@ -21,8 +21,8 @@
 <!ENTITY  http.accesskey                "T">
 <!ENTITY  ssl.label                     "Proxy SSL:">
 <!ENTITY  ssl.accesskey                 "S">
-<!ENTITY  socks.label                   "SOCKS Host:">
-<!ENTITY  socks.accesskey               "C">
+<!ENTITY  socks.label                   "SOCKS:">
+<!ENTITY  socks.accesskey               "K">
 <!ENTITY  socks4.label                  "SOCKS v4">
 <!ENTITY  socks4.accesskey              "K">
 <!ENTITY  socks5.label                  "SOCKS v5">
