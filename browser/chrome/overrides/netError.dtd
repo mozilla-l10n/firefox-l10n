@@ -49,7 +49,7 @@ ligação do seu computador à rede.</li>
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
 <!ENTITY notCached.title "Documento expirado">
-<!ENTITY notCached.longDesc "<p>O documento pedido não está disponível na cache do &brandShortName;.</p><ul><li>Como precaução de segurança, o navegador não pede de novo de forma automática documentos sensíveis.</li><li>Clique voltar a tentar para voltar a pedir o documento do sítio web.</li></ul>">
+<!ENTITY notCached.longDesc "<p>O documento pedido não está disponível na cache do &brandShortName;.</p><ul><li>Como precaução de segurança, o &brandShortName; não pede de forma automática os documentos sensíveis.</li><li>Clique Tentar novamente para voltar a pedir o documento do sítio web.</li></ul>">
 
 <!ENTITY netOffline.title "Modo desligado">
 <!ENTITY netOffline.longDesc2 "<ul> 

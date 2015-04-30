@@ -14,4 +14,4 @@
 <!ENTITY refreshProfileInstead.label  "Pode também saltar a análise do problema e tentar renovar o &brandShortName;.">
 <!-- LOCALIZATION NOTE (autoSafeModeDescription3.label): Shown on the safe mode dialog after multiple startup crashes. See also chrome/global/resetProfile.dtd -->
 
-<!ENTITY autoSafeModeDescription3.label "O &brandShortName; encerrou inesperadamente ao iniciar. Poderá ter sido causado por extras ou outros problemas. Pode tentar resolver o problema reiniciando o &brandShortName; para o seu estado pré-definido ou resolver os problemas no modo de segurança.">
+<!ENTITY autoSafeModeDescription3.label "O &brandShortName; encerrou inesperadamente ao iniciar. Poderá ter sido causado por extras ou outros problemas. Pode tentar resolver o seu problema no modo de segurança.">
