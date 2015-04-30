@@ -23,8 +23,8 @@
 <!ENTITY permission.allowFirstPartyOnly  "Permitir apenas a primeira festa">
 <!ENTITY permission.block                "Bloquear">
 
-<!ENTITY password.label                  "Gerir senhas">
-<!ENTITY password.manage                 "Gerir senhas…">
+<!ENTITY password.label                  "Armazenar palavras-passe">
+<!ENTITY password.manage                 "Gerir palavras-passe…">
 
 <!ENTITY cookie.label                    "Definir cookies">
 <!ENTITY cookie.remove                   "Remover cookies">

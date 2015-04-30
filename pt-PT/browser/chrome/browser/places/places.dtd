@@ -52,7 +52,7 @@
 <!ENTITY cmd.open.accesskey              "A">
 <!ENTITY cmd.open_window.label           "Abrir em nova janela">
 <!ENTITY cmd.open_window.accesskey       "n">
-<!ENTITY cmd.open_private_window.label     "Abrir numa nova janela privada">
+<!ENTITY cmd.open_private_window.label     "Abrir em nova janela privada">
 <!ENTITY cmd.open_private_window.accesskey "p">
 <!ENTITY cmd.open_tab.label              "Abrir em novo separador">
 <!ENTITY cmd.open_tab.accesskey          "s">
