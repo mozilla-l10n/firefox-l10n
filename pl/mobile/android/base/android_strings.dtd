@@ -102,7 +102,6 @@ The locale includes both language and region concepts. -->
 
 <!ENTITY overlay_share_send_tab_btn_label "Przekaż do innego urządzenia">
 <!ENTITY overlay_share_no_url "Nie znaleziono odnośnika do udostępnienia">
-<!ENTITY overlay_share_retry "Spróbuj ponownie">
 <!ENTITY overlay_share_select_device "Wybierz urządzenie">
 <!ENTITY overlay_no_synced_devices "Brak urządzeń połączonych z kontem Firefoksa">
 <!ENTITY overlay_share_tab_not_sent "Karta nie mogła zostać wysłana.\nProszę spróbować ponownie później.">
