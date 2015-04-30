@@ -736,14 +736,14 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY customizeMode.restoreDefaults "Restaurar pré-definições">
 <!ENTITY customizeMode.toolbars "Mostrar/Ocultar barra de ferramentas">
 <!ENTITY customizeMode.titlebar "Barra de título">
-<!ENTITY customizeMode.lwthemes "Temass">
+<!ENTITY customizeMode.lwthemes "Temas">
 <!ENTITY customizeMode.lwthemes.myThemes "Os meus temas">
 <!ENTITY customizeMode.lwthemes.recommended "Recomendado">
 <!ENTITY customizeMode.lwthemes.menuManage "Gerir">
 <!ENTITY customizeMode.lwthemes.menuManage.accessKey "G">
 <!ENTITY customizeMode.lwthemes.menuGetMore "Obter mais temas">
 <!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "O">
-<!ENTITY customizeMode.deveditionTheme.label2 "Usar edição do tema do desenvolvedor">
+<!ENTITY customizeMode.deveditionTheme.label2 "Utilizar tema da edição de programador">
 
 <!ENTITY social.chatBar.commandkey "c">
 <!ENTITY social.chatBar.label "Focar salas de conversação">

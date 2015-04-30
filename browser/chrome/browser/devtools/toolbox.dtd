@@ -132,8 +132,8 @@
 <!-- LOCALIZATION NOTE (options.usedeveditiontheme.*) Options under the
   -  toolbox for enabling and disabling the Developer Edition browser theme. -->
 
-<!ENTITY options.usedeveditiontheme.label   "Usar tema do navegador da edição do desenvolvedor">
-<!ENTITY options.usedeveditiontheme.tooltip "Trocar o tema do navegador da edição do desenvolvedor.">
+<!ENTITY options.usedeveditiontheme.label   "Utilizar tema da edição de programador">
+<!ENTITY options.usedeveditiontheme.tooltip "Alterna o tema da edição de programador.">
 <!-- LOCALIZATION NOTE (options.webconsole.label): This is the label for the
   -  heading of the group of Web Console preferences in the options panel. -->
 
