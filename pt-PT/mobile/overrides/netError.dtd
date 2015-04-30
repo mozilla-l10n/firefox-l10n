@@ -45,15 +45,15 @@
 <!ENTITY malformedURI.title "O endereço não é válido">
 <!-- LOCALIZATION NOTE (malformedURI.longDesc2) This string contains markup including widgets for searching
      or enabling wifi connections. The text inside the tags should be localized. Do not touch the ids. -->
-<!ENTITY malformedURI.longDesc2 "<ul> 
-<li>Os endereços Web são geralmente escritos da seguinte forma 
-<strong>http://www.exemplo.com/</strong></li> 
-<div id='searchbox'> 
-<input id='searchtext' type='search'></input> 
-<button id='searchbutton'>Pesquisar</button> 
-</div> 
-<li>Verifique se está a utilizar a barra à direita (exemplo 
-<strong>/</strong>).</li> 
+<!ENTITY malformedURI.longDesc2 "<ul> 
+<li>Normalmente, os endereços web são escritos como
+<strong>http://www.example.com/</strong></li> 
+<div id='searchbox'> 
+<input id='searchtext' type='search'></input> 
+<button id='searchbutton'>Search</button> 
+</div> 
+<li>Certifique-se que está a utilizar as barras corretamente (i.e. 
+<strong>/</strong>).</li> 
 </ul>">
 
 <!ENTITY netInterrupt.title "A ligação foi interrompida">
