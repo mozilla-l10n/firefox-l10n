@@ -37,9 +37,9 @@
 
 <!ENTITY cmd.open.label                 "Abrir">
 <!ENTITY cmd.open.accesskey             "A">
-<!ENTITY cmd.open_window.label          "Abrir ligação numa nova janela">
+<!ENTITY cmd.open_window.label          "Abrir ligação em nova janela">
 <!ENTITY cmd.open_window.accesskey      "j">
-<!ENTITY cmd.open_tab.label             "Abrir ligação num novo separador">
+<!ENTITY cmd.open_tab.label             "Abrir ligação em novo separador">
 <!ENTITY cmd.open_tab.accesskey         "s">
 
 <!ENTITY bookmarkLinkCmd.label          "Adicionar ligação aos marcadores…">

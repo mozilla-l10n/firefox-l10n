@@ -48,11 +48,11 @@
 
 <!ENTITY cmd.open.label                  "Abrir">
 <!ENTITY cmd.open.accesskey              "A">
-<!ENTITY cmd.open_tab.label              "Abrir num novo separador">
+<!ENTITY cmd.open_tab.label              "Abrir em novo separador">
 <!ENTITY cmd.open_tab.accesskey          "s">
-<!ENTITY cmd.open_window.label           "Abrir numa nova janela">
+<!ENTITY cmd.open_window.label           "Abrir em nova janela">
 <!ENTITY cmd.open_window.accesskey       "n">
-<!ENTITY cmd.open_private.label          "Abrir numa janela privada">
+<!ENTITY cmd.open_private.label          "Abrir em janela privada">
 <!ENTITY cmd.open_private.accesskey      "v">
 <!ENTITY cmd.open_all_in_tabs.label      "Abrir todas em separadores">
 <!ENTITY cmd.open_all_in_tabs.accesskey  "s">
