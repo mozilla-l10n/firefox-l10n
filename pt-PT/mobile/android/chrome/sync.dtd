@@ -16,7 +16,7 @@
 <!ENTITY sync.fallback              "Não estou perto do meu computador…">
 <!ENTITY sync.setup.manual          "Escreva a informação da sua conta Sync">
 <!ENTITY sync.account               "Nome da conta">
-<!ENTITY sync.password              "Senha">
+<!ENTITY sync.password              "Palavra-passe">
 <!ENTITY sync.recoveryKey           "Chave de recuperação">
 <!ENTITY sync.customServer          "Usar servidor personalizado">
 <!ENTITY sync.serverURL             "URL do servidor">
