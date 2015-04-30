@@ -20,7 +20,7 @@
 <!ENTITY accountAdvancedTitle.label   "Dodatne možnosti">
 <!ENTITY accountAdvancedInfo.label    "Če želite, ta korak lahko preskočite.">
 <!ENTITY accountAdvanced.newMailNotification.label   "Obveščaj o novi pošti">
-<!ENTITY accountAliasGroupbox.caption "Krajevni vzdevek">
+<!ENTITY accountAliasGroupbox.caption "Lokalni vzdevek">
 <!ENTITY accountAliasField.label      "Vzdevek:">
 <!ENTITY accountAliasInfo.label       "Videti bo le med pogovori ob klepetu, oddaljeni stiki ga ne bodo videli.">
 <!ENTITY accountProxySettings.caption "Nastavitve za posrednika:">
