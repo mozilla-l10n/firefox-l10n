@@ -207,8 +207,8 @@
 <!ENTITY fxaccount_status_needs_verification2 "A sua conta tem de ser verificada. Toque para reenviar mensagem de verificação.">
 <!ENTITY fxaccount_status_needs_credentials "Não é possível ligar. Toque para iniciar.">
 <!ENTITY fxaccount_status_needs_upgrade "Tem de atualizar o &brandShortName; para iniciar sessão.">
-<!ENTITY fxaccount_status_needs_master_sync_automatically_enabled "&syncBrand.shortName.label; está configurado, mas não está a sincronizar automaticamente. Ative “Sincronizar dados automaticamente” nas definições do Android e de utilização de dados.">
-<!ENTITY fxaccount_status_needs_master_sync_automatically_enabled_v21 "O &syncBrand.shortName.label; está configurado, mas não está a sincronizar automaticamente. Ative a opção “Sincronização automática” no menu de Contas e Definições do Android.">
+<!ENTITY fxaccount_status_needs_master_sync_automatically_enabled "&syncBrand.shortName.label; está configurado, mas não está a sincronizar automaticamente. Ative “Sincronizar dados automaticamente” nas definições do Android &gt; Utilização de dados.">
+<!ENTITY fxaccount_status_needs_master_sync_automatically_enabled_v21 "O &syncBrand.shortName.label; está configurado, mas não está a sincronizar automaticamente. Ative a opção “Sincronização automática” no menu Definições do Android &gt; Contas.">
 <!ENTITY fxaccount_status_needs_finish_migrating "Toque para iniciar sessão na sua nova Conta Firefox.">
 <!ENTITY fxaccount_status_bookmarks "Marcadores">
 <!ENTITY fxaccount_status_history "Histórico">

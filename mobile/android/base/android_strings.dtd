@@ -29,7 +29,7 @@
 <!ENTITY  crash_allow_contact2 "Autorizar a &vendorShortName; a contactar-me sobre este erro">
 <!ENTITY  crash_email "O seu endereço de correio">
 <!ENTITY  crash_closing_alert "Sair sem enviar um relatório de erro?">
-<!ENTITY  sending_crash_report "A enviar relatório de erro...">
+<!ENTITY  sending_crash_report "A enviar relatório de erro\u2026">
 <!ENTITY  crash_close_label "Fechar">
 <!ENTITY  crash_restart_label "Reiniciar o &brandShortName;">
 <!ENTITY  exit_label "Sair">
@@ -148,7 +148,7 @@
      search providers.
      The &formatI; in the string will be replaced by a small image of the icon described, and can be moved to wherever
      it is applicable. -->
-<!ENTITY pref_search_hint "DICA: Adicione qualquer sítio web à sua lista de fornecedores com um toque longo no seu campo de pesquisa.">
+<!ENTITY pref_search_hint "DICA: adicione qualquer sítio web à sua lista de fornecedores de pesquisa com um toque longo no no ícone &formatI;.">
 <!ENTITY pref_category_devtools "Ferramentas do desenvolvedor">
 <!ENTITY pref_category_devtools_summary "Depuração remota, destaque da pintura">
 <!ENTITY pref_developer_paint_flashing "Destaque da pintura">
