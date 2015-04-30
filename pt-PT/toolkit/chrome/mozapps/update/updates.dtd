@@ -63,7 +63,7 @@ agora o pacote completo da atualização.">
 
 <!ENTITY  details.link                    "Detalhes">
 
-<!ENTITY  error.title                     "A actualização falhou">
+<!ENTITY  error.title                     "Falha ao atualizar">
 
 <!ENTITY  error.label                     "Ocorreram problemas na verificação, transferência ou na instalação da atualização. O 
 &brandShortName; não pode ser atualizado porque:">
