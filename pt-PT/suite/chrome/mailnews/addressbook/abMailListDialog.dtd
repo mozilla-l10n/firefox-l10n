@@ -11,7 +11,7 @@
 <!ENTITY ListNickName.label             "Listar Alcunha: ">
 <!ENTITY ListDescription.label          "Descrição: ">
 <!-- See bug 58485, when we implement drag and drop, add 'or drag addresses' back in -->
-<!ENTITY AddressTitle.label             "Escreva os endereços de correio electrónico para os adicionar à mailing list:">
+<!ENTITY AddressTitle.label             "Escreva os endereços de correio eletrónico para os adicionar à lista de correio:">
 <!-- Access Keys -->
 
 <!ENTITY addToAddressBook.accesskey     "A">

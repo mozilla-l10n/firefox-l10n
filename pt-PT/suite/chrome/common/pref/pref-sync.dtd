@@ -5,7 +5,7 @@
 
 <!ENTITY setupButton.label          "Configurar &syncBrand.fullName.label;">
 <!ENTITY setupButton.accesskey      "C">
-<!ENTITY weaveDesc.label            "O &syncBrand.fullName.label; permite-lhe aceder ao seu histórico, marcadores, senhas e separadores abertos em todos os seus dispositivos.">
+<!ENTITY weaveDesc.label            "O &syncBrand.fullName.label; permite-lhe aceder ao seu histórico, marcadores, palavras-passe e separadores em todos os seus dispositivos.">
 <!-- The page shown when logged in... -->
 
 <!ENTITY accountGroupboxCaption.label "Conta &syncBrand.fullName.label;">
@@ -22,9 +22,9 @@
 <!ENTITY manageAccount.accesskey      "a">
 <!ENTITY viewQuota.label              "Ver Quota">
 <!ENTITY viewQuota.accesskey          "V">
-<!ENTITY changePassword.label         "Mudar Senha">
+<!ENTITY changePassword.label         "Mudar palavra-passe">
 <!ENTITY changePassword.accesskey     "M">
-<!ENTITY myRecoveryKey.label          "A Minha senha de recuperação">
+<!ENTITY myRecoveryKey.label          "Minha chave de recuperação">
 <!ENTITY myRecoveryKey.accesskey      "c">
 <!ENTITY resetSync.label              "Reiniciar Sync">
 <!ENTITY resetSync.accesskey          "e">

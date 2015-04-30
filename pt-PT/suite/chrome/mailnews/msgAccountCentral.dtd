@@ -17,7 +17,7 @@
 <!ENTITY advFeaturesSectionHdr.label  "Configurações Avançadas"> 
 <!ENTITY searchMsgsLink.label         "Procurar mensagens"> 
 <!ENTITY filtersLink.label            "Gerir filtros de mensagens">
-<!ENTITY junkSettings.label           "Configurações de lixo electrónico">
+<!ENTITY junkSettings.label           "Definições de lixo eletrónico">
 <!ENTITY offlineLink.label            "Configurações quando Desligado">
 
 <!ENTITY feedsSectionHdr.label        "Fontes">

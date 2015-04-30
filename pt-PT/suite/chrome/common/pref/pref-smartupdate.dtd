@@ -14,7 +14,7 @@
 <!ENTITY addOnsDaily.accesskey                "d">
 <!ENTITY weekly.label                         "semanalmente">
 <!ENTITY addOnsWeekly.accesskey               "l">
-<!ENTITY addOnsModeAutomatic.label            "Transferir e instalar automaticamente as actualizações">
+<!ENTITY addOnsModeAutomatic.label            "Transferir e instalar atualizações automaticamente">
 <!ENTITY addOnsModeAutomatic.accesskey        "m">
 <!ENTITY enablePersonalized.label             "Recomendação de personalização de extras">
 <!ENTITY enablePersonalized.accesskey         "p">
@@ -25,8 +25,8 @@
 <!ENTITY autoAppUpdates.accesskey             "t">
 <!ENTITY appDaily.accesskey                   "a">
 <!ENTITY appWeekly.accesskey                  "e">
-<!ENTITY appModeAutomatic.label               "Transferir automaticamente e instalar a actualização">
-<!ENTITY appModeAutomatic.accesskey           "c">
+<!ENTITY appModeAutomatic.label               "Transferir e instalar atualização automaticamente">
+<!ENTITY appModeAutomatic.accesskey           "m">
 <!ENTITY appModeAutoAddonWarn.label           "Avisar-me caso desative algum dos meus extras">
 <!ENTITY appModeAutoAddonWarn.accesskey       "v">
 <!ENTITY updateHistoryButton.label            "Mostrar histórico de atualizações">

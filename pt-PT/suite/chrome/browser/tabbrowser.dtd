@@ -15,7 +15,7 @@
 <!ENTITY  reloadTab.accesskey         "R">
 <!ENTITY  bookmarkGroup.label    "Adicionar este grupo de separadores aos marcadores">
 <!ENTITY  bookmarkGroup.accesskey  "i">
-<!ENTITY  closeTabButton.tooltip   "Fechar separador actual">
+<!ENTITY  closeTabButton.tooltip   "Fechar separador atual">
 <!ENTITY  newTabButton.tooltip   "Abrir um novo separador">
 <!ENTITY  listAllTabs.tooltip    "Listar todos os separadores">
 <!ENTITY  undoCloseTab.label    "Anular fecho de separador">

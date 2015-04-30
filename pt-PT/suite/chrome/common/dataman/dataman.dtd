@@ -10,7 +10,7 @@
 <!ENTITY select.cookies.label "Apenas cookies">
 <!ENTITY select.permissions.label "Apenas permissões">
 <!ENTITY select.preferences.label "Apenas preferências">
-<!ENTITY select.passwords.label "Apenas senhas">
+<!ENTITY select.passwords.label "Apenas palavras-passe">
 <!ENTITY select.storage.label "Apenas armazenamento">
 
 <!ENTITY domain.search.placeholder "Pesquisar domínios">
@@ -28,7 +28,7 @@
 <!ENTITY tab.cookies.label "Cookies">
 <!ENTITY tab.permissions.label "Permissões">
 <!ENTITY tab.preferences.label "Preferências">
-<!ENTITY tab.passwords.label "Senhass">
+<!ENTITY tab.passwords.label "Palavras-passe">
 <!ENTITY tab.storage.label "Armazenamento">
 <!ENTITY tab.formdata.label "Formulário de dados">
 <!ENTITY tab.forget.label "Esquecer">
@@ -90,15 +90,15 @@
 <!ENTITY prefs.button.remove.accesskey "R">
 <!-- passwords -->
 
-<!ENTITY pwd.description "Tem as seguintes senhas guardadas para este domínio:">
+<!ENTITY pwd.description "Tem as seguintes palavras-passe guardadas para este domínio:">
 
 <!ENTITY pwd.tree.host.label "Sítio web">
 <!ENTITY pwd.tree.username.label "Nome de utilizador">
-<!ENTITY pwd.tree.password.label "Senha">
+<!ENTITY pwd.tree.password.label "Palavra-passe">
 
 <!ENTITY pwd.ctx.remove.label "Remover">
 <!ENTITY pwd.ctx.remove.accesskey "R">
-<!ENTITY pwd.ctx.copyPasswordCmd.label "Copiar senha">
+<!ENTITY pwd.ctx.copyPasswordCmd.label "Copiar palavra-passe">
 <!ENTITY pwd.ctx.copyPasswordCmd.accesskey "C">
 <!ENTITY pwd.ctx.selectAll.label "Seleccionar tudo">
 <!ENTITY pwd.ctx.selectAll.accesskey "a">

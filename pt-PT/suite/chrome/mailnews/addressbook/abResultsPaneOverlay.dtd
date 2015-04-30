@@ -4,16 +4,16 @@
 
 <!ENTITY GeneratedName.label                   "Nome">
 <!ENTITY GeneratedName.accesskey               "N">
-<!ENTITY PrimaryEmail.label                    "Correio Electrónico">
-<!ENTITY PrimaryEmail.accesskey                "E">
+<!ENTITY PrimaryEmail.label                    "Correio eletrónico">
+<!ENTITY PrimaryEmail.accesskey                "e">
 <!ENTITY Company.label                         "Empresa">
 <!ENTITY Company.accesskey                     "m">
 <!ENTITY _PhoneticName.label                   "Nome Fonético">
 <!ENTITY _PhoneticName.accesskey               "F">
 <!ENTITY NickName.label                        "Alcunha">
 <!ENTITY NickName.accesskey                    "A">
-<!ENTITY SecondEmail.label                     "Correio Electrónico alternativo">
-<!ENTITY SecondEmail.accesskey                 "r">
+<!ENTITY SecondEmail.label                     "Correio eletrónico alternativo">
+<!ENTITY SecondEmail.accesskey                 "l">
 <!ENTITY Department.label                      "Departamento">
 <!ENTITY Department.accesskey                  "r">
 <!ENTITY JobTitle.label                        "Cargo">
@@ -36,7 +36,7 @@
 <!ENTITY sortDescending.accesskey              "r">
 <!-- context menu -->
 
-<!ENTITY composeEmail.label                    "Compor Correio Electrónico Para">
+<!ENTITY composeEmail.label                    "Criar nova mensagem para">
 <!ENTITY composeEmail.accesskey                "C">
 <!ENTITY copyAddress.label                     "Copiar endereço de Correio">
 <!ENTITY copyAddress.accesskey                 "o">
