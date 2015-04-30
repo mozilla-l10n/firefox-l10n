@@ -25,6 +25,8 @@
 <!ENTITY toolboxFramesTooltip          "Selecionar um iframe como o documento alvo atual">
 <!-- LOCALIZATION NOTE (browserToolboxErrorMessage): This is the label
   -  shown next to error details when the Browser Toolbox is unable to open. -->
+
+<!ENTITY browserToolboxErrorMessage          "Erro ao abrir a caixa de ferramentas do navegador:">
 <!-- LOCALIZATION NOTE (options.context.advancedSettings): This is the label for
   -  the heading of the advanced settings group in the options panel. -->
 
@@ -96,7 +98,7 @@
 <!-- LOCALIZATION NOTE (options.enableServiceWorkersTesting.label,
   -  options.enableServiceWorkersTesting.tooltip): This is the options panel label and
   -  tooltip for the checkbox that toggles the service workers testing features on or off. -->
-
+<!ENTITY options.enableServiceWorkersTesting.tooltip   "Ao ativar esta opção, serão ativas as funcionalidades de teste dos service workers em todas as abas que tenham a caixa de ferramentas aberta.">
 <!-- LOCALIZATION NOTE (options.selectDefaultTools.label): This is the label for
   -  the heading of group of checkboxes corresponding to the default developer
   -  tools. -->

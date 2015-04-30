@@ -227,6 +227,8 @@
   -  in the security tab describing the usage of HTTP Strict Transport Security. -->
 <!-- LOCALIZATION NOTE (netmonitorUI.security.hpkp): This is the label displayed
   -  in the security tab describing the usage of Public Key Pinning. -->
+
+<!ENTITY netmonitorUI.security.hpkp "Chave pública:">
 <!-- LOCALIZATION NOTE (netmonitorUI.security.connection): This is the label displayed
   -  in the security tab describing the section containing information related to
   -  the secure connection. -->
