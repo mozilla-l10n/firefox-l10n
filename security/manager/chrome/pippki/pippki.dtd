@@ -9,7 +9,6 @@
 <!ENTITY setPassword.newPassword.label "নতুন পাছৱাৰ্ড:">
 <!ENTITY setPassword.reenterPassword.label "নতুন পাছৱাৰ্ড (আকৌ):">
 <!ENTITY setPassword.meter.label "পাছৱাৰ্ড গুণৰ একক">
-<!ENTITY setPassword.meter.loading "ল'ড কৰা হৈছে">
 <!-- Values for resetpassword.xul -->
 
 <!ENTITY resetPasswordButtonLabel "পুনঃ স্থাপন">
@@ -20,19 +19,6 @@
 <!ENTITY getPassword.title  "প্ৰমূখ পাছৱাৰ্ড দিয়ক">
 <!ENTITY getPassword.tokenName2.label "সুৰক্ষাৰ ডিভাইচ:">
 <!ENTITY getPassword.password.label "পাছৱাৰ্ড:">
-<!-- These should be common -->
-
-<!ENTITY piperror.title "ত্ৰুটি">
-<!ENTITY pipalert.title "ত্ৰুটি - উদ্ধাৰ কৰিব নোৱাৰি">
-<!-- Prefs panel strings -->
-
-<!ENTITY pref.security.general.lHeader "সুৰক্ষা">
-<!ENTITY pref.security.general.rHeader "সাধাৰণ সুৰক্ষাৰ পছন্দ">
-<!ENTITY pref.security.general.header "সাধাৰণ সুৰক্ষাৰ পছন্দ">
-<!ENTITY pref.security.general.level.title "সুৰক্ষাৰ স্তৰ">
-<!ENTITY pref.security.general.paranoid.label "paranoid সুৰক্ষাৰ পছন্দ ব্যৱহাৰ কৰক">
-<!ENTITY pref.security.general.certificates.title "প্ৰমাণপত্ৰ">
-<!ENTITY pref.security.general.manageCert.label "প্ৰমাণপত্ৰ ব্যৱস্থাপনা কৰক">
 <!-- Downloading a cert -->
 
 <!ENTITY downloadCert.title "প্ৰমাণপত্ৰ ডাউনল'ড কৰা হৈছে">
@@ -42,9 +28,7 @@
 <!ENTITY downloadCert.trustObjSign "চফ্টৱেৰৰ উন্নয়নকাৰীসকলৰ পৰিচয়ৰ কাৰণে এই CA ক বিশ্বাস কৰক।">
 <!ENTITY downloadCert.message3 "কোনো কামৰ কাৰণে এই CA বিশ্বাস কৰাৰ আগতে, আপুনি তাৰ প্ৰমাণপত্ৰ আৰু নীতি আৰু পদ্ধতি পৰীক্ষা কৰিব লাগিব (যদি আছে)।">
 <!ENTITY downloadCert.viewCert.label "দৰ্শন কৰক">
-<!ENTITY downloadCert.viewPolicy.label "নীতি">
 <!ENTITY downloadCert.viewCert.text "CA প্ৰমাণপত্ৰ পৰীক্ষা কৰক">
-<!ENTITY downloadCert.viewPolicy.text "CA নীতি আৰু পদ্ধতি পৰীক্ষা কৰক">
 <!-- Strings for the SSL client auth ask dialog -->
 
 <!ENTITY clientAuthAsk.title "ব্যৱহাৰকাৰীৰ পৰিচয়ৰ অনুৰোধ">
@@ -62,9 +46,6 @@
 <!ENTITY pkcs12.setpassword.label1 "প্ৰমাণপত্ৰ সংৰক্ষণৰ পাছৱাৰ্ড:">
 <!ENTITY pkcs12.setpassword.label2 "প্ৰমাণপত্ৰ সংৰক্ষণৰ পাছৱাৰ্ড (আকৌ):">
 <!ENTITY pkcs12.setpassword.reminder "গুৰুত্বপূৰ্ণ: প্ৰমাণপত্ৰ সংৰক্ষণৰ পাছৱাৰ্ড পাহৰিলে, পিছত আপুনি এই বেক-আপ পুনঃ স্থাপন কৰিব নোৱাৰে।  অনুগ্ৰহ কৰি ইয়াক এটা সুৰক্ষিত স্থানত ৰাখক।">
-
-<!ENTITY pkcs12.getpassword.title  "পাছৱাৰ্ড দিয়াৰ সম্বাদ">
-<!ENTITY pkcs12.getpassword.message "এই প্ৰমাণপত্ৰৰ বেক-আপ এনক্ৰিপ্ট কৰিবলৈ ব্যৱহাৰ কৰা পাছৱাৰ্ড দিয়ক।">
 
 <!ENTITY chooseToken.title  "টোকপন সম্বাদ নিৰ্ব্বাচন কৰক">
 <!ENTITY chooseToken.message1 "এটা টোকেন বাছক।">

@@ -15,6 +15,8 @@
 
 <!ENTITY engine.bookmarks.label           "পত্ৰচিহ্নসমূহ">
 <!ENTITY engine.bookmarks.accesskey       "m">
+
+
 <!ENTITY engine.history.label             "ইতিহাস">
 <!ENTITY engine.history.accesskey         "r">
 <!ENTITY engine.tabs.label                "টেবসমূহ">
