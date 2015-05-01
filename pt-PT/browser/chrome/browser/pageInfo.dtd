@@ -78,7 +78,7 @@
 <!ENTITY  securityView.privacy.cookies                  "Este sítio web está a guardar cookies no meu computador?">
 <!ENTITY  securityView.privacy.viewCookies              "Ver Cookies">
 <!ENTITY  securityView.privacy.viewCookies.accessKey    "k">
-<!ENTITY  securityView.privacy.passwords                "Gravei alguma palavra-passe para este sítio web?">
+<!ENTITY  securityView.privacy.passwords                "Guardei alguma palavra-passe para este sítio web?">
 <!ENTITY  securityView.privacy.viewPasswords            "Ver palavras-passe guardadas">
 <!ENTITY  securityView.privacy.viewPasswords.accessKey  "s">
 
