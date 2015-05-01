@@ -13,7 +13,7 @@
 <!ENTITY requestMDN.label              "Ao receber um pedido de um recibo de leitura:">
 <!ENTITY never.label                   "Nunca enviar um recibo">
 <!ENTITY never.accesskey               "N">
-<!ENTITY returnSome.label              "Permitir recibo para algumas mensagens">
+<!ENTITY returnSome.label              "Permitir recibo de leitura para algumas mensagens">
 <!ENTITY returnSome.accesskey          "P">
 <!ENTITY notInToCc.label               "Se eu não estiver nos campos Para ou Cc da mensagem:">
 <!ENTITY notInToCc.accesskey           "S">

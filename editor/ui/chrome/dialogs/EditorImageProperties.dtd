@@ -15,10 +15,10 @@
 <!ENTITY locationEditField.tooltip "Escreva o nome ou a localização da imagem">
 <!ENTITY title.label "Dica:">
 <!ENTITY title.accessKey "D">
-<!ENTITY title.tooltip "O atributo 'título' HTML que é apresentado como dica">
+<!ENTITY title.tooltip "O atributo 'title' que será exibido como dica">
 <!ENTITY altText.label "Texto alternativo:">
 <!ENTITY altText.accessKey "a">
-<!ENTITY altTextEditField.tooltip "Escrever texto a mostrar em substituição da imagem">
+<!ENTITY altTextEditField.tooltip "Escrever texto a mostrar no local da imagem">
 <!ENTITY noAltText.label "Não usar texto alternativo">
 <!ENTITY noAltText.accessKey "u">
 
@@ -32,7 +32,7 @@
 <!ENTITY actualSizeRadio.tooltip "Reverter imagem para o tamanho real">
 <!ENTITY customSizeRadio.label "Tamanho personalizado">
 <!ENTITY customSizeRadio.accessKey "p">
-<!ENTITY customSizeRadio.tooltip "Alterar o tamanho da imagem como apresentado na página">
+<!ENTITY customSizeRadio.tooltip "Alterar como o tamanho da imagem é mostrado na página">
 <!ENTITY heightEditField.label "Altura:">
 <!ENTITY heightEditField.accessKey "l">
 <!ENTITY widthEditField.label "Largura:">

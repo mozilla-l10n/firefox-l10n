@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY pane.title                   "Recibos de leitura">
-<!ENTITY useGlobalPrefs.label         "Utilizar preferências gerais para os recibos de leitura desta conta">
+<!ENTITY useGlobalPrefs.label         "Utilizar preferências gerais dos recibos de leitura para esta conta">
 <!ENTITY useGlobalPrefs.accesskey     "U">
 <!ENTITY globalReceipts.label         "Preferências gerais…">
 <!ENTITY globalReceipts.accesskey     "g">
