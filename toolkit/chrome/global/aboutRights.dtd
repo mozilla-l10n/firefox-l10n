@@ -65,7 +65,7 @@
 <!-- location aware browsing points for branded builds -->
 
 <!ENTITY rights.locationawarebrowsing-a "Navegação com conhecimento da localização: ">
-<!ENTITY rights.locationawarebrowsing-b "está sempre ativa por omissão.  Nenhuma informação de localização é enviada sem a sua autorização.  Se desejar desativar completamente a funcionalidade, siga este passos:">
+<!ENTITY rights.locationawarebrowsing-b "É sempre opcional. Não será enviada quaisquer informações de localização sem a sua permissão. Se quiser desativar completamente a funcionalidade, siga este passos:">
 <!ENTITY rights.locationawarebrowsing-term1a "Na barra de URL, escreva ">
 <!ENTITY rights.locationawarebrowsing-term1b "about:config">
 <!ENTITY rights.locationawarebrowsing-term2 "Escreva geo.enabled">

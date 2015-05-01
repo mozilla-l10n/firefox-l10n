@@ -25,5 +25,5 @@
 <!ENTITY  enableSuggest.label       "Mostrar sugestões de pesquisa">
 <!ENTITY  enableSuggest.accesskey   "s">
 
-<!ENTITY  restoreDefaults.label     "Restaurar Valores por Omissão">
+<!ENTITY  restoreDefaults.label     "Restaurar predefinições">
 <!ENTITY  restoreDefaults.accesskey "e">
