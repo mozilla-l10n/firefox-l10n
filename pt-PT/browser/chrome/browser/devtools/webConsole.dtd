@@ -70,7 +70,7 @@
 <!ENTITY btnPageLogging.tooltip "Registar mensagens enviadas para objeto window.console">
 <!ENTITY btnPageLogging.accesskey3 "g">
 <!ENTITY btnConsoleErrors       "Erros">
-<!ENTITY btnConsoleInfo         "Info">
+<!ENTITY btnConsoleInfo         "Informações">
 <!ENTITY btnConsoleWarnings     "Avisos">
 <!ENTITY btnConsoleLog          "Registo">
 <!ENTITY btnConsoleXhr          "XHR">
