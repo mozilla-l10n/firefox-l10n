@@ -21,8 +21,8 @@
 <!ENTITY engine.history.accesskey         "H">
 <!ENTITY engine.tabs.label                "Separadores">
 <!ENTITY engine.tabs.accesskey            "S">
-<!ENTITY engine.passwords.label           "Senhas">
-<!ENTITY engine.passwords.accesskey       "a">
+<!ENTITY engine.passwords.label           "Palavras-passe:">
+<!ENTITY engine.passwords.accesskey       "P">
 <!ENTITY engine.addons.label              "Extras do ambiente de trabalho">
 <!ENTITY engine.addons.accesskey          "E">
 <!ENTITY engine.prefs.label               "Preferências do ambiente de trabalho">
