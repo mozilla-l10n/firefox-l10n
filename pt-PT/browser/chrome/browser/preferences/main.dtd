@@ -31,12 +31,12 @@
 <!ENTITY alwaysAsk.label "Perguntar sempre onde gravar os ficheiros">
 <!ENTITY alwaysAsk.accesskey "s">
 
-<!ENTITY alwaysCheckDefault2.label        "Confirmar sempre se &brandShortName; é o navegador por omissão no arranque">
-<!ENTITY alwaysCheckDefault2.accesskey    "C">
+<!ENTITY alwaysCheckDefault2.label        "Ao arrancar, verificar se o &brandShortName; é o navegador pré-definido">
+<!ENTITY alwaysCheckDefault2.accesskey    "w">
 <!ENTITY setAsMyDefaultBrowser2.label     "Tornar pré-definido">
 <!ENTITY setAsMyDefaultBrowser2.accesskey "T">
-<!ENTITY isDefault.label                  "O &brandShortName; é atualmente o seu navegador por omissão">
-<!ENTITY isNotDefault.label               "O &brandShortName; não é o seu navegador por omissão">
+<!ENTITY isDefault.label                  "Atualmente, o &brandShortName; é o navegador pré-definido">
+<!ENTITY isNotDefault.label               "Atualmente, o &brandShortName; não é o navegador pré-definido">
 
 <!ENTITY separateProfileMode.label        "Permitir ao &brandShortName; e Firefox executarem ao mesmo tempo">
 <!ENTITY useFirefoxSync.label             "Dica: este utiliza perfis separados. Utilize o Sync para partilhar dados entre eles.">

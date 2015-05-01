@@ -198,5 +198,5 @@ símbolos da plataforma Gecko">
 <!ENTITY options.sourceeditor.tabsize.accesskey         "T">
 <!ENTITY options.sourceeditor.keybinding.label          "Combinações de teclas">
 <!ENTITY options.sourceeditor.keybinding.accesskey      "C">
-<!ENTITY options.sourceeditor.keybinding.default.label  "Por omissão">
+<!ENTITY options.sourceeditor.keybinding.default.label  "Predefinição">
 
