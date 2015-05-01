@@ -12,7 +12,7 @@
 
 <!ENTITY homepage.label            "Página Inicial:">
 <!ENTITY homepage.accesskey        "P">
-<!ENTITY useCurrentPage.label      "Utilizar a página actual">
+<!ENTITY useCurrentPage.label      "Utilizar a página atual">
 <!ENTITY useCurrentPage.accesskey  "u">
 <!ENTITY useMultiple.label         "Utilizar as páginas atuais">
 <!ENTITY chooseBookmark.label      "Utilizar marcador">
@@ -28,7 +28,7 @@
 <!ENTITY chooseFolderWin.accesskey    "N">
 <!ENTITY chooseFolderMac.label        "Escolher...">
 <!ENTITY chooseFolderMac.accesskey    "E">
-<!ENTITY alwaysAsk.label "Perguntar sempre onde gravar os ficheiros">
+<!ENTITY alwaysAsk.label "Perguntar sempre onde guardar os ficheiros">
 <!ENTITY alwaysAsk.accesskey "s">
 
 <!ENTITY alwaysCheckDefault2.label        "Ao arrancar, verificar se o &brandShortName; é o navegador pré-definido">

@@ -23,4 +23,4 @@
 <!ENTITY  chooseHandler.label         "Navegar...">
 <!ENTITY  chooseHandler.accesskey     "N">
 
-<!ENTITY  unknownPromptText.label     "Guardar este ficheiro?">
+<!ENTITY  unknownPromptText.label     "Gostaria de guardar este ficheiro?">
