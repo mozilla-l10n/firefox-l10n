@@ -22,7 +22,7 @@
      -->
 <!ENTITY moveToNewWindow.label "Mover para nova janela">
 <!ENTITY moveToNewWindow.accesskey "j">
-<!ENTITY newVirtualFolderCmd.label "Pesquisa gravada...">
+<!ENTITY newVirtualFolderCmd.label "Pesquisa guardada…">
 <!ENTITY newVirtualFolderCmd.accesskey "s">
 <!ENTITY newOtherAccountsCmd.label "Outras contas...">
 <!ENTITY newOtherAccountsCmd.accesskey "t">
@@ -654,7 +654,7 @@
 <!ENTITY searchRecipient.label "Para ou Cc">
 <!ENTITY searchSubjectOrRecipientMenu.label "Assunto, Para ou Cc">
 <!ENTITY searchMessageBody.label "Mensagem completa">
-<!ENTITY saveAsVirtualFolderMenu.label "Guardar procura como pasta...">
+<!ENTITY saveAsVirtualFolderMenu.label "Guardar pesquisa como pasta…">
 <!-- Thread Pane -->
 
 <!ENTITY threadColumn.label "Tópico">
@@ -746,7 +746,7 @@
 <!ENTITY contextKillThreadMenu.accesskey "I">
 <!ENTITY contextKillSubthreadMenu.label "Ignorar subtópico">
 <!ENTITY contextWatchThreadMenu.label "Monitorizar tópico">
-<!ENTITY contextSaveAs.label "Guardar como...">
+<!ENTITY contextSaveAs.label "Guardar como…">
 <!ENTITY contextSaveAs.accesskey "u">
 <!ENTITY contextPrint.label "Imprimir...">
 <!ENTITY contextPrint.accesskey "p">
@@ -868,7 +868,7 @@
 <!ENTITY spellAddDictionaries.accesskey "A">
 <!-- Content Pane Context Menu -->
 
-<!ENTITY saveLinkAsCmd.label "Guardar ligação como...">
+<!ENTITY saveLinkAsCmd.label "Guardar ligação como…">
 <!ENTITY saveLinkAsCmd.accesskey "G">
 <!ENTITY saveImageAsCmd.label "Guardar imagem como...">
 <!ENTITY saveImageAsCmd.accesskey "u">

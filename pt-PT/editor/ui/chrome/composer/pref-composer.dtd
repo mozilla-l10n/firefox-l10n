@@ -15,8 +15,8 @@
 <!ENTITY  preserveExisting.label        "Preservar a formatação original">
 <!ENTITY  preserveExisting.accesskey    "P">
 <!ENTITY  preserveExisting.tooltip      "Manter quebras de linha e formatação original da página">
-<!ENTITY  saveAssociatedFiles.label     "Gravar imagens e conteúdo associado ao gravar páginas">
-<!ENTITY  saveAssociatedFiles.accesskey "G">
+<!ENTITY  saveAssociatedFiles.label     "Guardar imagens e conteúdo associado ao guardar páginas">
+<!ENTITY  saveAssociatedFiles.accesskey "s">
 <!ENTITY  showPublishDialog.label       "Mostrar sempre a janela de publicação ao publicar páginas">
 <!ENTITY  showPublishDialog.accesskey   "o">
 <!ENTITY  composerEditing.label         "Editar">
