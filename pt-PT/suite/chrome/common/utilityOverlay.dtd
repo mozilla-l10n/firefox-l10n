@@ -24,7 +24,7 @@
 <!ENTITY newNavigatorCmd.accesskey "n">
 <!ENTITY newPrivateWindowCmd.label "Janela privada">
 <!ENTITY newPrivateWindowCmd.key "P">
-<!ENTITY newPrivateWindowCmd.accesskey "W">
+<!ENTITY newPrivateWindowCmd.accesskey "p">
 <!ENTITY printSetupCmd.label "Configurar página…">
 <!ENTITY printSetupCmd.accesskey "u">
 <!ENTITY printPreviewCmd.label "Pré-visualizar impressão">
@@ -75,9 +75,9 @@
      and messengercompose.dtd and findOnCmd.label found in navigatorOverlay.dtd -->
 <!ENTITY findBarCmd.accesskey "F">
 <!ENTITY findReplaceCmd.accesskey "l">
-<!ENTITY findAgainCmd.label "Procurar de novo">
+<!ENTITY findAgainCmd.label "Localizar novamente">
 <!ENTITY findAgainCmd.key "G">
-<!ENTITY findAgainCmd.accesskey "g">
+<!ENTITY findAgainCmd.accesskey "n">
 <!ENTITY findAgainCmd.key2 "VK_F3">
 <!ENTITY findPrevCmd.label "Procurar anterior">
 <!ENTITY findPrevCmd.key "G">
@@ -98,8 +98,8 @@
 <!ENTITY helpMenu.label     "Ajuda"> 
 <!ENTITY helpMenu.accesskey    "A"> 
 
-<!ENTITY helpTroubleshootingInfo.label      "Informação sobre erros">
-<!ENTITY helpTroubleshootingInfo.accesskey  "ç">
+<!ENTITY helpTroubleshootingInfo.label      "Informação para suporte">
+<!ENTITY helpTroubleshootingInfo.accesskey  "I">
 <!ENTITY releaseCmd.label                   "Notas de lançamento">
 <!ENTITY releaseCmd.accesskey               "N">
 <!ENTITY helpSafeMode.label                 "Reiniciar com extras desativados">
@@ -144,8 +144,8 @@
 <!ENTITY customizeToolbar.useSmallIcons.accesskey "s">
 <!ENTITY customizeToolbar.labelAlignEnd.label     "Mostrar texto debaixo do ícone">
 <!ENTITY customizeToolbar.labelAlignEnd.accesskey "b">
-<!ENTITY customizeToolbar.useDefault.label        "Usar pré-definições">
-<!ENTITY customizeToolbar.useDefault.accesskey    "ç">
+<!ENTITY customizeToolbar.useDefault.label        "Utilizar pré-definições">
+<!ENTITY customizeToolbar.useDefault.accesskey    "U">
 <!-- Popup Blocked notification menu -->
 
 <!ENTITY allowPopups.accesskey        "p">

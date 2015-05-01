@@ -20,7 +20,7 @@
 <!ENTITY linkColor.label                   "Ligações não visitadas:">
 <!ENTITY linkColor.accesskey               "L">
 <!ENTITY activeLinkColor.label             "Ligações ativas:">
-<!ENTITY activeLinkColor.accesskey         "c">
+<!ENTITY activeLinkColor.accesskey         "t">
 <!ENTITY visitedLinkColor.label            "Ligações visitadas:">
 <!ENTITY visitedLinkColor.accesskey        "v">
 <!-- LOCALIZATION NOTE (someProvColors): This is the start of a sentence and will be followed by the following radio buttons. -->

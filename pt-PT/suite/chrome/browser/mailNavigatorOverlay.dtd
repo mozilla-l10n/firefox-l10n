@@ -26,5 +26,5 @@
 <!ENTITY contextSendFrame.accesskey      "v">
 
 <!ENTITY sendLinkCmd.label               "Enviar ligação…"> 
-<!ENTITY sendLinkCmd.accesskey           "ç">
+<!ENTITY sendLinkCmd.accesskey           "n">
 

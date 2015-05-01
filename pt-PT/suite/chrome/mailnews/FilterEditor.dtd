@@ -49,7 +49,7 @@
 <!ENTITY setJunkScore.label "Configurar o estado do lixo eletrónico para">
 <!ENTITY deleteMessage.label "Eliminar mensagem">
 <!ENTITY deleteFromPOP.label "Eliminar do servidor POP">
-<!ENTITY fetchFromPOP.label "Procurar a partir do servidor POP">
+<!ENTITY fetchFromPOP.label "Transferir do servidor POP">
 <!ENTITY ignoreThread.label "Ignorar tópico">
 <!ENTITY ignoreSubthread.label "Ignorar sub-tópico">
 <!ENTITY watchThread.label "Ver tópico">

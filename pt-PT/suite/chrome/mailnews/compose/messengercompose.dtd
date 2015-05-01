@@ -46,7 +46,7 @@
 <!ENTITY editRewrapCmd.key "R">
 <!ENTITY editRewrapCmd.accesskey  "w">
 <!ENTITY accountManagerCmd.label "Definições da conta de correio e grupos de notícias...">
-<!ENTITY accountManagerCmd.accesskey "M">
+<!ENTITY accountManagerCmd.accesskey "n">
 <!-- View menu items -->
 
 <!ENTITY showComposeToolbarCmd.label "Barra de ferramentas do correio">

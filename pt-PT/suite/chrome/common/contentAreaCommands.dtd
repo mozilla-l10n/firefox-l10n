@@ -105,7 +105,7 @@
 <!ENTITY mediaUnmute.label            "Com som">
 <!ENTITY mediaUnmute.accesskey        "m">
 <!ENTITY mediaPlaybackRate.label        "Velocidade de reprodução">
-<!ENTITY mediaPlaybackRate.accesskey    "b">
+<!ENTITY mediaPlaybackRate.accesskey    "o">
 <!ENTITY mediaPlaybackRate050.label     "Slow motion (½×)">
 <!ENTITY mediaPlaybackRate050.accesskey "S">
 <!ENTITY mediaPlaybackRate100.label     "Velocidade normal">
@@ -141,7 +141,7 @@ items are mutually exclusive. -->
 <!ENTITY spellIgnoreWord.label          "Ignorar palavra">
 <!ENTITY spellIgnoreWord.accesskey      "v">
 <!ENTITY spellCheckEnable.label         "Verificação ortográfica">
-<!ENTITY spellCheckEnable.accesskey     "ç">
+<!ENTITY spellCheckEnable.accesskey     "o">
 <!ENTITY spellNoSuggestions.label       "(nenhuma sugestão)">
 <!ENTITY spellDictionaries.label        "Idiomas">
 <!ENTITY spellDictionaries.accesskey    "I">
