@@ -16,5 +16,5 @@
 <!--LOCALIZATION NOTE (headers.label): see note for download.label -->
 <!ENTITY headers.label      "cabeçalhos">
 <!ENTITY headers.accesskey  "h">
-<!ENTITY mark.label         "Marcar os cabeçalhos restantes como lidos">
+<!ENTITY mark.label         "Marcar cabeçalhos restantes como lidos">
 <!ENTITY mark.accesskey     "M">
