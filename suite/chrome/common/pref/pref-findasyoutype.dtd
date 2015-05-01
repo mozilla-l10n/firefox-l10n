@@ -6,7 +6,7 @@
 <!ENTITY findAsYouTypeBehavior.label "Procurar ao escrever">
 <!ENTITY findAsYouTypeTip.label "Dica: Para iniciar manualmente Procurar ao escrever, escreva / para procurar texto ou ' para procurar ligações, seguido do texto que deseja encontrar.">
 <!ENTITY findAsYouTypeTimeout.label "Limpar a pesquisa atual após alguns segundos de inatividade">
-<!ENTITY findAsYouTypeTimeout.accesskey "C">
+<!ENTITY findAsYouTypeTimeout.accesskey "d">
 <!ENTITY findAsYouTypeSound.label "Tocar um som quando o texto escrito não for encontrado">
 <!ENTITY findAsYouTypeSound.accesskey "T">
 <!ENTITY findAsYouTypeEnableAuto.label "Procurar automaticamente ao escrever numa página web:">
@@ -14,7 +14,7 @@
 <!ENTITY findAsYouTypeAutoText.label "Qualquer texto na página">
 <!ENTITY findAsYouTypeAutoText.accesskey "a">
 <!ENTITY findAsYouTypeAutoLinks.label "Apenas ligações">
-<!ENTITY findAsYouTypeAutoLinks.accesskey "ç">
+<!ENTITY findAsYouTypeAutoLinks.accesskey "l">
 
 <!ENTITY findAsYouTypeFindbarEnable.label "Mostrar  barra de pesquisa durante a pesquisa ao escrever">
 <!ENTITY findAsYouTypeFindbarEnable.accesskey "M">

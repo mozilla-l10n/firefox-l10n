@@ -123,7 +123,7 @@
 <!ENTITY cookieBlockImagesMsg.label "As imagens deste sítio web nunca serão transferidas.">
 
 <!ENTITY cookieAllowPopupsCmd.label "Permitir popups deste sítio web">
-<!ENTITY cookieAllowPopupsCmd.accesskey "A">
+<!ENTITY cookieAllowPopupsCmd.accesskey "s">
 <!ENTITY cookieManagePopups.label "Gerir popups">
 <!ENTITY cookieManagePopups.accesskey "G">
 

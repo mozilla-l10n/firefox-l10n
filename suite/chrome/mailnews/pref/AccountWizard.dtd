@@ -54,8 +54,8 @@
 <!ENTITY incomingServer.description "Escreva o nome do seu servidor de receção (por exemplo, &quot;mail.example.net&quot;).">
 <!ENTITY incomingServer.label "Servidor de receção:">
 <!ENTITY incomingServer.accesskey "S">
-<!ENTITY leaveMsgsOnSrvr.label "Deixar mensagens no servidor">
-<!ENTITY leaveMsgsOnSrvr.accesskey "L">
+<!ENTITY leaveMsgsOnSrvr.label "Manter mensagens no servidor">
+<!ENTITY leaveMsgsOnSrvr.accesskey "M">
 <!-- LOCALIZATION NOTE (incomingUsername.description) : do not translate "&quot;jsmith&quot;" in below line -->
 <!ENTITY incomingUsername.description "Escreva o nome de utilizador de receção que lhe foi dado pelo seu fornecedor de correio (por exemplo, &quot;jsmith&quot;).">
 <!ENTITY incomingUsername.label "Nome de utilizador:">
