@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
    
 <!ENTITY renameFolderDialog.title          "Mudar nome da pasta">
-<!ENTITY rename.label                      "Introduza o novo nome:">
-<!ENTITY rename.accesskey                  "I">
+<!ENTITY rename.label                      "Introduza o novo nome para a sua pasta:">
+<!ENTITY rename.accesskey                  "e">
 <!ENTITY accept.label                      "Renomear">
 <!ENTITY accept.accesskey                  "R">
