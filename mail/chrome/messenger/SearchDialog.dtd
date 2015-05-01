@@ -40,6 +40,7 @@
 <!ENTITY threadColumn.label         "Lõim">
 <!ENTITY fromColumn.label           "Saatja">
 <!ENTITY recipientColumn.label      "Saaja">
+<!ENTITY correspondentColumn.label  "Kirjavahetajad">
 <!ENTITY subjectColumn.label        "Teema">
 <!ENTITY dateColumn.label           "Kuupäev">
 <!ENTITY priorityColumn.label       "Tähtsus">
@@ -61,6 +62,7 @@
 <!ENTITY threadColumn2.tooltip      "Kuva kirju lõimedena">
 <!ENTITY fromColumn2.tooltip        "Sordi saatja järgi">
 <!ENTITY recipientColumn2.tooltip   "Sordi saaja järgi">
+<!ENTITY correspondentColumn2.tooltip "Sordi kirjavahetajate järgi">
 <!ENTITY subjectColumn2.tooltip     "Sordi teema järgi">
 <!ENTITY dateColumn2.tooltip        "Sordi kuupäeva järgi">
 <!ENTITY priorityColumn2.tooltip    "Sordi tähtsuse järgi">

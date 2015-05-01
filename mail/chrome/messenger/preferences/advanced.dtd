@@ -16,7 +16,7 @@
 <!ENTITY allowHWAccel.accesskey           "V">
 <!ENTITY storeType.label                  "Uute kontode kirjade salvestamise viis:">
 <!ENTITY storeType.accesskey              "U">
-<!ENTITY mboxStore.label                  "üks suur fail (mbox)">
+<!ENTITY mboxStore2.label                 "üks fail kausta kohta (mbox)">
 <!ENTITY maildirStore.label               "iga kiri eraldi failis (maildir)">
 
 <!ENTITY scrolling.label                  "Kerimine">

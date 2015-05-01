@@ -15,8 +15,8 @@
 <!ENTITY saveCmd.accesskey                   "S">
 <!ENTITY saveAsCmd.label                     "Salvesta kui…">
 <!ENTITY saveAsCmd.accesskey                 "u">
-<!ENTITY saveAsChangeEncodingCmd.label       "Salvesta ja muuda kodeeringut">
-<!ENTITY saveAsChangeEncodingCmd.accesskey   "i">
+<!ENTITY saveAsChangeEncodingCmd2.label      "Salvesta ja muuda teksti kodeeringut">
+<!ENTITY saveAsChangeEncodingCmd2.accesskey  "i">
 <!ENTITY publishCmd.label                    "Avalda">
 <!ENTITY publishCmd.accesskey                "d">
 <!ENTITY publishCmd.key                      "s">

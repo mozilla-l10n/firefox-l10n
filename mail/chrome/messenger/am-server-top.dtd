@@ -74,7 +74,7 @@
 <!ENTITY abbreviateOff.label              "lühendatult (näiteks 'n.p.m.mail-news')">
 <!ENTITY advancedButton.label             "Täpsemalt...">
 <!ENTITY advancedButton.accesskey         "T">
-<!ENTITY serverDefaultCharset.label       "Vaikimisi kodeering:">
+<!ENTITY serverDefaultCharset2.label      "Vaikimisi kodeering:">
 <!ENTITY localPath.label                  "Kohalik kaust:">
 <!ENTITY localFolderPicker.label          "Kohaliku kausta valimine">
 <!ENTITY browseFolder.label               "Lehitse...">
@@ -86,5 +86,5 @@
 <!ENTITY accountSettingsDesc.label        "See on eriline konto, millega pole seotud ühtegi identiteeti.">
 <!ENTITY storeType.label                  "Kirjade salvestamise viis:">
 <!ENTITY storeType.accesskey              "K">
-<!ENTITY mboxStore.label                  "üks suur fail (mbox)">
+<!ENTITY mboxStore2.label                 "üks fail kausta kohta (mbox)">
 <!ENTITY maildirStore.label               "iga kiri eraldi failina (maildir)">
