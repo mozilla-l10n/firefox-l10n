@@ -171,7 +171,7 @@
 <!ENTITY pref_home_updates_enabled "Ativadas">
 <!ENTITY pref_home_updates_wifi "Apenas sobre Wi-Fi">
 <!ENTITY pref_home_suggested_sites "Mostrar sugestões de sítios">
-<!ENTITY pref_home_suggested_sites_summary "Apresentar atalhos para sítios na sua página inicial que achamos que pode considerar interessantes">
+<!ENTITY pref_home_suggested_sites_summary "Mostrar atalhos para sítios na sua página inicial, que achamos que pode considerar interessantes">
 <!-- Localization note: These are shown in the left sidebar on tablets -->
 
 <!ENTITY pref_header_customize "Personalizar">
