@@ -12,7 +12,7 @@
 <!ENTITY sync.syncNow               "Sincronizar agora">
 
 <!ENTITY sync.setup.title           "Ligar ao Sync">
-<!ENTITY sync.setup.pair            "Para ativar selecione &quot;emparelhar um dispositivo&quot; no seu outro dispositivo">
+<!ENTITY sync.setup.pair            "Para ativar selecione &quot;Emparelhar um dispositivo&quot; no seu outro dispositivo.">
 <!ENTITY sync.fallback              "Não estou perto do meu computador…">
 <!ENTITY sync.setup.manual          "Escreva a informação da sua conta Sync">
 <!ENTITY sync.account               "Nome da conta">
