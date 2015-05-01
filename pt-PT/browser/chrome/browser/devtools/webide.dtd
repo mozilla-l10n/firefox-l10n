@@ -160,14 +160,14 @@
 
 <!ENTITY devicepreference_title "Preferências do dispositivo">
 <!ENTITY devicepreference_search "Preferências da pesquisa">
-<!ENTITY devicepreference_newname "Novo nome da preferência">
+<!ENTITY devicepreference_newname "Nome da nova preferência">
 <!ENTITY devicepreference_newtext "Valor da preferência">
 <!ENTITY devicepreference_addnew "Adicionar nova preferência">
 <!-- Device Settings -->
 
 <!ENTITY devicesetting_title "Definições do dispositivo">
 <!ENTITY devicesetting_search "Definições da pesquisa">
-<!ENTITY devicesetting_newname "Novo nome da definição">
+<!ENTITY devicesetting_newname "Nome da nova definição">
 <!ENTITY devicesetting_newtext "Valor da definição">
 <!ENTITY devicesetting_addnew "Adicionar nova definição">
 <!-- Monitor -->

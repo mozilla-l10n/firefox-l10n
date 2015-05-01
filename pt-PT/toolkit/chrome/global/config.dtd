@@ -40,7 +40,7 @@
 <!ENTITY reset.label "Voltar ao início">
 <!ENTITY reset.accesskey "V">
 <!ENTITY new.label "Novo">
-<!ENTITY new.accesskey "N">
+<!ENTITY new.accesskey "v">
 <!ENTITY string.label "String">
 <!ENTITY string.accesskey "S">
 <!ENTITY integer.label "Inteiro">

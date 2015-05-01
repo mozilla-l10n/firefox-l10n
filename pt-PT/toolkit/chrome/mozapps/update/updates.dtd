@@ -27,7 +27,7 @@ não tem espaço disponível para a instalar.">
 
 <!ENTITY  unsupported.title               "Sistema não suportado">
 <!ENTITY  unsupported.label               "O &brandShortName; está desatualizado mas o seu sistema operativo 
-não possui suporte à versão mais recente. Atualize o sistema e tente novamente. 
+não possui suporte à versão mais recente. Atualize o seu sistema e tente novamente. 
 Este aviso não será mostrado de novo, mas pode obter">
 <!ENTITY  unsupportedLink.label           "mais informações..">
 
@@ -94,7 +94,7 @@ reiniciar agora o &brandShortName; ou continuar a trabalhar e reiniciar mais tar
 
 <!ENTITY  installed.title                 "Atualização instalada">
 <!ENTITY  installed.intro                 "A atualização foi instalada com sucesso.">
-<!ENTITY  whatsnew.label                  "Ler mais sobre o que há de novo...">
+<!ENTITY  whatsnew.label                  "Saber mais sobre as novidades…">
 
 <!ENTITY  update.details.label            "Detalhes">
 <!ENTITY  update.installedOn.label        "Instalado em:">

@@ -783,7 +783,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY trackingContentBlocked.block.accesskey "e">
 <!ENTITY trackingContentBlocked.disabled.message "Proteção do seguimento desativado">
 
-<!ENTITY pointerLock.notification.message "Pressione ESC a qualquer momento para mostrar de novo.">
+<!ENTITY pointerLock.notification.message "Prima ESC para o mostrar novamente.">
 
 <!ENTITY pluginNotification.showAll.label "Mostrar tudo">
 <!ENTITY pluginNotification.showAll.accesskey "s">
