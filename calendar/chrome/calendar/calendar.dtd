@@ -104,7 +104,7 @@
 <!ENTITY calendar.orientation.label "Rodar vista" >
 <!ENTITY calendar.orientation.accesskey "o" >
 
-<!ENTITY calendar.search.options.searchfor "que possuam">
+<!ENTITY calendar.search.options.searchfor " contém">
 
 <!ENTITY calendar.list.header.label                 "Calendário">
 
