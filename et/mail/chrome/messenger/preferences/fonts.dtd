@@ -70,10 +70,10 @@
 <!-- Language settings -->
 <!ENTITY sendDefaultCharset.label         "Väljuvad kirjad:">
 <!ENTITY sendDefaultCharset.accesskey     "j">
-<!ENTITY languagesTitle1.label            "Kodeeringud">
-<!ENTITY composingDescription.label       "Määra vaikimisi kodeering kirjade saamiseks ja saatmiseks">
+<!ENTITY languagesTitle2.label            "Teksti kodeering">
+<!ENTITY composingDescription2.label      "Määra vaikimisi kodeering kirjade saamiseks ja saatmiseks">
 
 <!ENTITY viewDefaultCharsetList.label     "Saabuvad kirjad:">
 <!ENTITY viewDefaultCharsetList.accesskey "k">
-<!ENTITY replyInDefaultCharset2.label     "Võimalusel kasutatakse vastustes vaikimisi kodeeringut">
-<!ENTITY replyInDefaultCharset2.accesskey "d">
+<!ENTITY replyInDefaultCharset3.label     "Võimalusel kasutatakse vastustes vaikimisi teksti kodeeringut">
+<!ENTITY replyInDefaultCharset3.accesskey "d">

@@ -192,6 +192,8 @@
 <!ENTITY sortByFromCmd.accesskey                       "S">
 <!ENTITY sortByRecipientCmd.label                      "Adressaat">
 <!ENTITY sortByRecipientCmd.accesskey                  "d">
+<!ENTITY sortByCorrespondentCmd.label                  "Kirjavahetajad">
+<!ENTITY sortByCorrespondentCmd.accesskey              "r">
 <!ENTITY sortByUnreadCmd.label                         "Loetus">
 <!ENTITY sortByUnreadCmd.accesskey                     "o">
 <!ENTITY sortByOrderReceivedCmd.label                  "Saabumise järjekord">
@@ -658,6 +660,7 @@
 <!ENTITY threadColumn.label                            "Lõim">
 <!ENTITY fromColumn.label                              "Saatja">
 <!ENTITY recipientColumn.label                         "Saaja">
+<!ENTITY correspondentColumn.label                     "Kirjavahetajad">
 <!ENTITY subjectColumn.label                           "Teema">
 <!ENTITY dateColumn.label                              "Kuupäev">
 <!ENTITY priorityColumn.label                          "Prioriteet">
@@ -680,6 +683,7 @@
 <!ENTITY threadColumn2.tooltip                         "Kuva kirju lõimedena">
 <!ENTITY fromColumn2.tooltip                           "Sordi saatja järgi">
 <!ENTITY recipientColumn2.tooltip                      "Sordi adressaadi järgi">
+<!ENTITY correspondentColumn2.tooltip                  "Sordi kirjavahetajate järgi">
 <!ENTITY subjectColumn2.tooltip                        "Sordi teema järgi">
 <!ENTITY dateColumn2.tooltip                           "Sordi kuupäeva järgi">
 <!ENTITY priorityColumn2.tooltip                       "Sordi prioriteedi järgi">
