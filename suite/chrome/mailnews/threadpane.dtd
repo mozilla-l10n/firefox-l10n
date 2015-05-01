@@ -24,7 +24,7 @@
 <!--Tooltips-->
 
 <!ENTITY columnChooser2.tooltip "Selecione as colunas a mostrar">
-<!ENTITY threadColumn2.tooltip "Mostrar os tópicos da mensagem">
+<!ENTITY threadColumn2.tooltip "Mostrar tópicos da mensagem">
 <!ENTITY fromColumn2.tooltip "Ordenar por de">
 <!ENTITY recipientColumn2.tooltip "Ordenar por destinatário">
 <!ENTITY attachmentColumn2.tooltip "Ordenar por anexos">

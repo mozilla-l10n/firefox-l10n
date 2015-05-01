@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY pref.character.encoding2.title  "Codificação de texto">
-<!ENTITY messageDisplay.caption          "Apresentação da mensagem">
+<!ENTITY messageDisplay.caption          "Exibição da mensagem">
 <!ENTITY viewFallbackCharset2.label      "Codificação de texto de recurso:">
 <!ENTITY viewFallbackCharset2.accesskey  "r">
 <!ENTITY viewFallbackCharset.desc        "(Usado para conteúdo legado que não declara qual a codificação.)">

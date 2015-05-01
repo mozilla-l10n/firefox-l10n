@@ -2,8 +2,8 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY pane.title                   "Recibos de Leitura">
-<!ENTITY useGlobalPrefs.label         "Usar as minhas preferências gerais para os recibos de leitura para esta conta">
+<!ENTITY pane.title                   "Recibos de leitura">
+<!ENTITY useGlobalPrefs.label         "Usar as minhas preferências gerais dos recibos de leitura para esta conta">
 <!ENTITY useGlobalPrefs.accesskey     "a">
 <!ENTITY globalReceipts.label         "Preferências globais…">
 <!ENTITY globalReceipts.accesskey     "g">
@@ -18,8 +18,8 @@
 <!ENTITY moveToSent.label             "Movê-lo para a pasta &quot;Enviados&quot;">
 <!ENTITY moveToSent.accesskey         "v">
 <!ENTITY requestMDN.label             "Quando recebo um pedido de um recibo de leitura:">
-<!ENTITY returnSome.label             "Permitir Recibos de Leitura para algumas mensagens">
-<!ENTITY returnSome.accesskey         "r">
+<!ENTITY returnSome.label             "Permitir recibos de leitura para algumas mensagens">
+<!ENTITY returnSome.accesskey         "e">
 <!ENTITY never.label                  "Nunca enviar um recibo de leitura">
 <!ENTITY never.accesskey              "N">
 <!ENTITY notInToCc.label              "Se eu não estiver no campo Para ou Cc da mensagem:">

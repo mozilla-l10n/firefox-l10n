@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY tabHeader.label "Navegação por separadores">
-<!ENTITY tabDisplay.label "Mostrar separador">
+<!ENTITY tabDisplay.label "Exibição de separadores">
 <!ENTITY autoHide.label "Ocultar a barra de separadores se apenas um separador estiver aberto">
 <!ENTITY autoHide.accesskey "c">
 <!ENTITY background.label "Mudar para novos separadores abertos a partir de ligações">

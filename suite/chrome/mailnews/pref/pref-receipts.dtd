@@ -3,8 +3,8 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!-- LOCALIZATION NOTE pref-receipts.dtd: UI for Mail/News Return Receipts prefs -->
 
-<!ENTITY pref.receipts.title          "Recibos de Leitura">
-<!ENTITY prefReceipts.caption         "Recibos de Leitura">
+<!ENTITY pref.receipts.title          "Recibo de leitura">
+<!ENTITY prefReceipts.caption         "Recibo de leitura">
 <!ENTITY requestReceipt.label         "Ao enviar mensagens, pedir sempre um recibo de leitura">
 <!ENTITY requestReceipt.accesskey     "o">
 <!ENTITY receiptArrive.label          "Quando chega um recibo:">
@@ -13,7 +13,7 @@
 <!ENTITY moveToSent.label             "Mover para a minha pasta &quot;Enviados&quot;">
 <!ENTITY moveToSent.accesskey         "v">
 <!ENTITY requestMDN.label             "Quando recebo um pedido de um recibo de leitura:">
-<!ENTITY returnSome.label             "Permitir Recibos de Leitura para algumas mensagens">
+<!ENTITY returnSome.label             "Permitir recibos de leitura para algumas mensagens">
 <!ENTITY returnSome.accesskey         "e">
 <!ENTITY never.label                  "Nunca enviar um recibo de leitura">
 <!ENTITY never.accesskey              "n">

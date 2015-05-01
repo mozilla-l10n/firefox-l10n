@@ -8,7 +8,7 @@
 <!ENTITY askMe.accesskey              "g">
 <!ENTITY convertPlain.label           "Converter a mensagem para texto simples (poderá perder-se alguma formatação)">
 <!ENTITY convertPlain.accesskey       "C">
-<!ENTITY sendHTML.label               "Enviar a mensagem como texto formatado (HTML) de qualquer maneira (alguns programas de correio não a apresentarão)">
+<!ENTITY sendHTML.label               "Enviar mensagem como texto formatado (HTML) (alguns programas de correio não a conseguirão mostrar)">
 <!ENTITY sendHTML.accesskey           "v">
 <!ENTITY sendBoth.label               "Enviar a mensagem tanto em texto simples como em HTML (maior tamanho da mensagem)">
 <!ENTITY sendBoth.accesskey           "n">

@@ -13,7 +13,7 @@
 <!ENTITY addressbook.accesskey            "L">
 <!-- These are added to Preferences dialog -->
 
-<!ENTITY viewingMessages.label            "Apresentação da mensagem">
+<!ENTITY viewingMessages.label            "Exibição da mensagem">
 <!ENTITY notifications.label              "Notificações">
 <!ENTITY address.label                    "Endereçamento">
 <!ENTITY composingMessages.label          "Composição">
