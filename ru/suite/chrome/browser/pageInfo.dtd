@@ -38,7 +38,7 @@
 <!ENTITY formAction "Обработчик">
 <!ENTITY formMethod "Метод">
 <!ENTITY formName "Имя">
-<!ENTITY formEncoding2 "Тип содержимого:">
+<!ENTITY formEncoding "Тип содержимого:">
 <!ENTITY formTarget "Целевой объект:">
 <!ENTITY formFields "Поля:">
 <!ENTITY formLabel "Метка">
