@@ -47,3 +47,6 @@
 <!ENTITY aboutTelemetry.threadHangStatsSection "">
 <!ENTITY aboutTelemetry.filterText "">
 <!ENTITY aboutTelemetry.addonDetailsSection "">
+<!ENTITY aboutTelemetry.telemetryLogSection "">
+<!ENTITY aboutTelemetry.keyedHistogramsSection "">
+<!ENTITY aboutTelemetry.generalDataSection "">

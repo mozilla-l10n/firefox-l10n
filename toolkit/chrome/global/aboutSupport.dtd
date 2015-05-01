@@ -55,3 +55,8 @@
 <!ENTITY aboutSupport.lockedPrefsName "Nome">
 <!ENTITY aboutSupport.lockedKeyPrefsTitle "Preferencies importantes bloquiaes">
 <!ENTITY aboutSupport.appBasicsMultiProcessSupport "Ventanes multiprocesu">
+<!ENTITY aboutSupport.sandboxTitle "Entornu de pruebes">
+<!ENTITY aboutSupport.safeModeTitle "Probar de mou seguru">
+<!ENTITY aboutSupport.restartInSafeMode.label "Reaniciar con complementos desactivaos…">
+<!ENTITY aboutSupport.appBasicsUpdateChannel "Canal d'anovamientu">
+<!ENTITY aboutSupport.appBasicsBuildID "ID de compilación">
