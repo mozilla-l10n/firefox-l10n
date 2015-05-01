@@ -137,7 +137,7 @@
      these strings are separated to accommodate languages that decline
      the two uses differently. -->
 
-<!ENTITY fxaccount_policy_linktos "సేవా నిభందనలు">
+<!ENTITY fxaccount_policy_linktos "సేవా నియమాలు">
 <!ENTITY fxaccount_policy_linkprivacy "గోప్యతా గమనిక">
 
 <!ENTITY fxaccount_getting_started_welcome_to_sync "&syncBrand.shortName.label;కి స్వాగతం">
