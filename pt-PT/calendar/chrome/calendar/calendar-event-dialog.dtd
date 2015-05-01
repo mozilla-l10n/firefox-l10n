@@ -185,7 +185,7 @@
 <!ENTITY event.reminder.label                             "Lembrete:" >
 <!ENTITY event.reminder.accesskey                         "m">
 <!ENTITY event.description.label                          "Descrição:" >
-<!ENTITY event.description.accesskey                      "ç">
+<!ENTITY event.description.accesskey                      "c">
 <!ENTITY event.attachments.label                          "Anexos:" >
 <!ENTITY event.attachments.accesskey                      "x" >
 <!ENTITY event.attachments.menubutton.label               "Anexar">
