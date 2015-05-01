@@ -2,9 +2,9 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY doNotDownloadPop3Movemail.label "Para ter espaço em disco, não transferir:">
-<!ENTITY doNotDownloadNntp.label "Para ter espaço em disco, não transferir para usar no modo desligado:">
-<!ENTITY doNotDownloadImap.label "Para ter espaço em disco, transferir mensagens do servidor e manter cópias locais para uso em modo desligado pode ser restringido por idade ou tamanho.">
+<!ENTITY doNotDownloadPop3Movemail.label "Para poupar espaço em disco, não transferir:">
+<!ENTITY doNotDownloadNntp.label "Para poupar espaço em disco, não transferir para usar no modo desligado:">
+<!ENTITY doNotDownloadImap.label "Para poupar espaço em disco, pode restringir a transferência de mensagens e as cópias locais para uso em modo desligado pode ser restringido, por idade ou tamanho.">
 <!ENTITY allFoldersOffline.label "manter mensagens desta conta no computador">
 <!ENTITY allFoldersOffline.accesskey "o">
 <!ENTITY offlineNotDownload.label "Mensagens maiores que ">

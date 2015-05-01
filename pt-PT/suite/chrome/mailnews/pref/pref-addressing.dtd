@@ -15,8 +15,8 @@
 <!ENTITY addressingEnable.label                "Livro de endereços local">
 <!ENTITY addressingEnable.accesskey            "L">
 <!ENTITY autocompleteText.label                "Ao endereçar mensagens, procurar por equivalências na:">
-<!ENTITY directories.label                     "Pasta do servidor:">
-<!ENTITY directories.accesskey                 "P">
+<!ENTITY directories.label                     "Diretório do servidor:">
+<!ENTITY directories.accesskey                 "D">
 <!ENTITY directoriesNone.label                 "Nenhuma">
 <!ENTITY editDirectories.label                 "Editar pastas...">
 <!ENTITY editDirectories.accesskey             "E">

@@ -22,7 +22,7 @@
 <!ENTITY sidebar.no-panels.state     "A barra lateral está vazia.">
 <!ENTITY sidebar.no-panels.add       "Pode adicionar separadores clicando no botão &quot;Separadores&quot; acima.">
 <!ENTITY sidebar.no-panels.hide      "Se desejar ocultar completamente a barra lateral, clique no menu &quot;Ver&quot;, e selecione &quot;Barra lateral&quot; a partir do submenu &quot;Mostrar/Ocultar&quot;.">
-<!ENTITY sidebar.sbDirectory.label   "Directoria da barra lateral…">
+<!ENTITY sidebar.sbDirectory.label   "Diretório da barra lateral…">
 
 <!ENTITY sidebar.pagenotfound.label  "Este separador não está disponível de momento.">
 <!ENTITY sidebar.close.tooltip       "Fechar barra lateral">

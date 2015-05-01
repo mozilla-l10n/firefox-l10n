@@ -18,7 +18,7 @@
 <!ENTITY clearDiskCache.accesskey        "L">
 <!ENTITY chooseDiskCacheFolder.label     "Escolher pasta…">
 <!ENTITY chooseDiskCacheFolder.accesskey "p">
-<!ENTITY diskCacheFolderExplanation      "Os ficheiros da cache serão guardados numa sub-pasta com o nome &quot;cache&quot; na pasta que especificou. Reinicie o &brandShortName; para que as alterações surtam efeito.">
+<!ENTITY diskCacheFolderExplanation      "Os ficheiros em cache serão guardados numa subpasta com o nome &quot;cache&quot; na pasta especificada. Reinicie o &brandShortName; para que as alterações produzam efeito.">
 <!ENTITY docCache.label                  "Comparar a página da cache com a página na rede:">
 <!ENTITY docCache.accesskey              "m">
 <!ENTITY checkOncePerSession.label       "Uma vez por sessão">

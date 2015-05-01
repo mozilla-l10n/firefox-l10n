@@ -38,7 +38,7 @@
 <!ENTITY detachAttachmentCmd.accesskey     "p">
 <!ENTITY deleteAttachmentCmd.label         "Apagar">
 <!ENTITY deleteAttachmentCmd.accesskey     "g">
-<!ENTITY saveAllAttachmentsCmd.label       "Guardar Tudo...">
+<!ENTITY saveAllAttachmentsCmd.label       "Guardar tudo…">
 <!ENTITY saveAllAttachmentsCmd.accesskey   "u">
 <!ENTITY detachAllAttachmentsCmd.label     "Separar todos...">
 <!ENTITY detachAllAttachmentsCmd.accesskey "e">
