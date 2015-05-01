@@ -17,7 +17,7 @@
 <!ENTITY  serif.label                             "Serifada:">
 <!ENTITY  serif.accesskey                         "S">
 <!ENTITY  sans-serif.label                        "Sem serifa:">
-<!ENTITY  sans-serif.accesskey                    "n">
+<!ENTITY  sans-serif.accesskey                    "m">
 <!ENTITY  monospace.label                         "Monoespaçada:">
 <!ENTITY  monospace.accesskey                     "M">
 <!-- LOCALIZATION NOTE (font.langGroup.latin) :

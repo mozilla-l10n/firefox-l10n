@@ -17,6 +17,6 @@
 <!ENTITY switchToNewTabs.label        "Mostrar imediatamente o separador ao abrir uma nova ligação">
 <!ENTITY switchToNewTabs.accesskey    "s">
 
-<!ENTITY showTabsInTaskbar.label          "Mostrar pré-visualização dos separadores na barra de tarefas do Windows">
-<!ENTITY showTabsInTaskbar.accesskey      "ç">
+<!ENTITY showTabsInTaskbar.label          "Pré-visualizar separadores na barra de tarefas do Windows">
+<!ENTITY showTabsInTaskbar.accesskey      "s">
 <!ENTITY tabsGroup.label          "Separadores">

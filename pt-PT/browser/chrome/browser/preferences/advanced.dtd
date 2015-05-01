@@ -94,8 +94,8 @@
 <!ENTITY updateHistory.label             "Mostrar o histórico das atualizações">
 <!ENTITY updateHistory.accesskey         "h">
 
-<!ENTITY useService.label                "Utilizar serviço de manutenção para instalar atualizações">
-<!ENTITY useService.accesskey            "b">
+<!ENTITY useService.label                "Utilizar o serviço de manutenção para instalar atualizações">
+<!ENTITY useService.accesskey            "t">
 
 <!ENTITY updateOthers.label              "Atualizar automaticamente:">
 <!ENTITY enableSearchUpdate.label        "Motores de pesquisa">

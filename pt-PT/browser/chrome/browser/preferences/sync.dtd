@@ -4,7 +4,7 @@
 <!-- The page shown when not logged in... -->
 
 <!ENTITY setupButton.label          "Configurar o &syncBrand.fullName.label;">
-<!ENTITY setupButton.accesskey      "S">
+<!ENTITY setupButton.accesskey      "C">
 <!ENTITY weaveDesc.label            "O &syncBrand.fullName.label; permite-lhe aceder ao seu histórico, marcadores, palavras-passe e separadores abertos em todos os seus dispositivos.">
 <!-- The page shown when logged in... -->
 <!-- Login error feedback -->

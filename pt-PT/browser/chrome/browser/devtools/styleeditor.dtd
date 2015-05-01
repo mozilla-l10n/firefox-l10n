@@ -22,7 +22,7 @@
 
 <!ENTITY saveButton.label           "Guardar">
 <!ENTITY saveButton.tooltip         "Guardar esta folha de estilo para um ficheiro">
-<!ENTITY saveButton.accesskey       "S">
+<!ENTITY saveButton.accesskey       "G">
 
 <!ENTITY optionsButton.tooltip      "Opções do editor de estilos">
 <!-- LOCALIZATION NOTE  (showOriginalSources.label): This is the label on the context
