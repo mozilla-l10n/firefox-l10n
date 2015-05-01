@@ -25,8 +25,8 @@
      in the inspector contextual-menu for the item that lets users paste outer
      HTML in the current node -->
 
-<!ENTITY inspectorHTMLPasteOuter.label      "Colar HTML exterior">
-<!ENTITY inspectorHTMLPasteOuter.accesskey  "P">
+<!ENTITY inspectorHTMLPasteOuter.label      "Colar HTML externo">
+<!ENTITY inspectorHTMLPasteOuter.accesskey  "e">
 <!-- LOCALIZATION NOTE (inspectorHTMLPasteInner.label): This is the label shown
      in the inspector contextual-menu for the item that lets users paste inner
      HTML in the current node -->
@@ -66,7 +66,7 @@
      the HTML as the last child the current node -->
 
 <!ENTITY inspectorHTMLPasteLastChild.label       "Como último filho">
-<!ENTITY inspectorHTMLPasteLastChild.accesskey   "L">
+<!ENTITY inspectorHTMLPasteLastChild.accesskey   "l">
 <!-- LOCALIZATION NOTE (inspectorHTMLDelete.label): This is the label shown in
      the inspector contextual-menu for the item that lets users delete the
      current node -->

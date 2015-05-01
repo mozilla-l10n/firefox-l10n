@@ -23,7 +23,7 @@
 <!ENTITY signIn.password.label      "Palavra-passe">
 <!ENTITY signIn.password.accesskey  "P">
 <!ENTITY signIn.recoveryKey.label       "Chave de recuperação">
-<!ENTITY signIn.recoveryKey.accesskey   "ç">
+<!ENTITY signIn.recoveryKey.accesskey   "h">
 <!-- New Account Page 1: Basic Account Info -->
 
 <!ENTITY setup.newAccountDetailsPage.title.label "Detalhes da conta">
