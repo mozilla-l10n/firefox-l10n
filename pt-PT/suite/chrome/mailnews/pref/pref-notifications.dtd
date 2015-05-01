@@ -33,8 +33,8 @@
 <!ENTITY playSound.accesskey              "c">
 <!ENTITY playButton.label                 "Reproduzir">
 <!ENTITY playButton.accesskey             "z">
-<!ENTITY systemsound.label                "Som pré-definido do Sistema de Novo Correio">
-<!ENTITY systemsound.accesskey            "S">
+<!ENTITY systemsound.label                "Som pré-definido do sistema">
+<!ENTITY systemsound.accesskey            "m">
 <!ENTITY customsound.label                "Usar este ficheiro de som">
 <!ENTITY customsound.accesskey            "U">
 <!ENTITY browse.label                     "Navegar...">

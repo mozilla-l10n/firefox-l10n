@@ -7,7 +7,7 @@
 <!ENTITY subscribeButton.accesskey    "S">
 <!ENTITY unsubscribeButton.label      "Não subscrever">
 <!ENTITY unsubscribeButton.accesskey  "u">
-<!ENTITY newGroupsTab.label           "Novos Grupos">
+<!ENTITY newGroupsTab.label           "Novos grupos">
 <!ENTITY newGroupsTab.accesskey       "N">
 <!ENTITY refreshButton.label          "Atualizar">
 <!ENTITY refreshButton.accesskey      "A">
