@@ -22,15 +22,15 @@
 <!ENTITY serverType.custom2.label   "Usar um servidor específico">
 <!ENTITY signIn.account2.label      "Conta">
 <!ENTITY signIn.account2.accesskey  "a">
-<!ENTITY signIn.password.label      "Senha">
-<!ENTITY signIn.password.accesskey  "S">
+<!ENTITY signIn.password.label      "Palavra-passe">
+<!ENTITY signIn.password.accesskey  "P">
 <!ENTITY signIn.recoveryKey.label     "Chave de recuperação">
 <!ENTITY signIn.recoveryKey.accesskey "h">
 <!-- New Account Page 1: Basic Account Info -->
 
 <!ENTITY setup.newAccountDetailsPage.title.label "Detalhes da conta">
-<!ENTITY setup.confirmPassword.label             "Confirmar senha">
-<!ENTITY setup.confirmPassword.accesskey         "m">
+<!ENTITY setup.confirmPassword.label             "Confirmar palavra-passe">
+<!ENTITY setup.confirmPassword.accesskey         "C">
 <!ENTITY setup.emailAddress.label                "Endereço de correio">
 <!ENTITY setup.emailAddress.accesskey            "E">
 <!-- LOCALIZATION NOTE: tosAgree1, tosLink, tosAgree2, ppLink, tosAgree3 are
@@ -76,7 +76,7 @@
 <!ENTITY setup.signInPage.title.label "Iniciar sessão">
 <!ENTITY existingRecoveryKey.description "Pode obter uma cópia da sua chave do Sync indo às opções do &syncBrand.shortName.label; do seu outro dispositivo, e selecionar  &quot;A minha chave do Sync&quot; em &quot;Gerir conta&quot;.">
 <!ENTITY verifying.label              "A verificar…">
-<!ENTITY resetPassword.label          "Reiniciar senha">
+<!ENTITY resetPassword.label          "Reiniciar palavra-passe">
 <!ENTITY resetSyncKey.label           "Perdi o meu outro dispositivo.">
 <!-- Sync Options -->
 
@@ -93,8 +93,8 @@
 <!ENTITY engine.tabs.accesskey      "e">
 <!ENTITY engine.history.label       "Histórico">
 <!ENTITY engine.history.accesskey   "H">
-<!ENTITY engine.passwords.label     "Senhas">
-<!ENTITY engine.passwords.accesskey "S">
+<!ENTITY engine.passwords.label     "Palavras-passe">
+<!ENTITY engine.passwords.accesskey "P">
 <!ENTITY engine.prefs.label         "Preferências">
 <!ENTITY engine.prefs.accesskey     "P">
 

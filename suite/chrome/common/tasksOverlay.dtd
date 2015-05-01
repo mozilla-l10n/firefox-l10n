@@ -30,11 +30,11 @@
 <!ENTITY datamanCmd.label "Gestor de dados">
 <!ENTITY datamanCmd.accesskey "a">
 
-<!ENTITY passwordManagerCmd.label "Gestor de senhas">
+<!ENTITY passwordManagerCmd.label "Gestor de palavras-passe">
 <!ENTITY passwordManagerCmd.accesskey "G">
 
-<!ENTITY passwordDisplayCmd.label "Gerir senhas guardadas">
-<!ENTITY passwordDisplayCmd.accesskey "s">
+<!ENTITY passwordDisplayCmd.label "Gerir palavras-passe guardadas">
+<!ENTITY passwordDisplayCmd.accesskey "p">
 
 <!ENTITY passwordExpireCmd.label "Sair">
 <!ENTITY passwordExpireCmd.accesskey "S">
