@@ -123,8 +123,8 @@ items are mutually exclusive. -->
 <!ENTITY mediaHideControls.accesskey  "a">
 <!ENTITY videoFullScreen.label        "Ecrã inteiro">
 <!ENTITY videoFullScreen.accesskey    "n">
-<!ENTITY videoSaveImage.label         "Guardar instantâneo como…">
-<!ENTITY videoSaveImage.accesskey     "s">
+<!ENTITY videoSaveImage.label         "Guardar captura como…">
+<!ENTITY videoSaveImage.accesskey     "G">
 <!ENTITY videoShowStats.label         "Mostrar estatísticas">
 <!ENTITY videoShowStats.accesskey     "t">
 <!ENTITY videoHideStats.label         "Ocultar estatísticas">

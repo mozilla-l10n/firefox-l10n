@@ -53,7 +53,7 @@
 
 <!ENTITY button.syncKeyBackup.print.label     "Imprimir...">
 <!ENTITY button.syncKeyBackup.print.accesskey "I">
-<!ENTITY button.syncKeyBackup.save.label      "Gravar...">
+<!ENTITY button.syncKeyBackup.save.label      "Guardar…">
 <!ENTITY button.syncKeyBackup.save.accesskey  "G">
 <!-- New Account Page 3: Captcha -->
 
