@@ -65,12 +65,15 @@
 <!ENTITY netmonitorUI.context.perfTools "Запустить анализ производительности…">
 <!ENTITY netmonitorUI.context.perfTools.accesskey "а">
 <!ENTITY netmonitorUI.context.copyUrl "Копировать URL">
-<!ENTITY netmonitorUI.context.copyAsCurl "Копировать как cURL">
 <!ENTITY netmonitorUI.context.copyUrl.accesskey "п">
+<!ENTITY netmonitorUI.context.copyAsCurl "Копировать как cURL">
 <!ENTITY netmonitorUI.context.copyImageAsDataUri "Копировать изображение как URL данных">
 <!ENTITY netmonitorUI.context.copyImageAsDataUri.accesskey "о">
 <!ENTITY netmonitorUI.context.copyResponse "Копировать ответ">
 <!ENTITY netmonitorUI.context.copyResponse.accesskey "и">
+<!ENTITY netmonitorUI.context.copyRequestHeaders "Копировать заголовки запроса">
+<!ENTITY netmonitorUI.context.copyRequestHeaders.accesskey "в">
+<!ENTITY netmonitorUI.context.copyResponseHeaders "Копировать заголовки ответа">
 <!ENTITY netmonitorUI.summary.editAndResend "Изменить и снова отправить">
 <!ENTITY netmonitorUI.summary.editAndResend.accesskey "м">
 <!ENTITY netmonitorUI.summary.rawHeaders "Необработанные заголовки">

@@ -4,8 +4,8 @@
 
 <!ENTITY no_space_to_start_error "Недостаточно свободного места для запуска &brandShortName;.">
 <!ENTITY error_loading_file "При попытке загрузки файлов, требуемых для запуска &brandShortName;, произошла ошибка.">
-<!ENTITY onboard_start_message2 "Добро пожаловать в &brandShortName;">
-<!ENTITY onboard_start_subtext2 "Ещё больше функций обеспечения приватности и способов настройки.">
+<!ENTITY onboard_start_message3 "Браузер &brandShortName;">
+<!ENTITY onboard_start_subtext3 "Делает ваш мобильный веб-сёрфинг по-настоящему уникальным.">
 <!ENTITY onboard_start_button_account "Войти в &brandShortName;">
 <!ENTITY onboard_start_button_browser "Начать веб-сёрфинг">
 <!ENTITY bookmarks_title "Закладки">
@@ -93,8 +93,6 @@
 <!ENTITY pref_search_restore_defaults_summary "Восстановить по умолчанию">
 <!ENTITY pref_search_hint "СОВЕТ: Добавьте любой веб-сайт в ваш список поисковых систем, произведя долгое нажатие на его поле поиска и затем нажав на значок &formatI;.">
 <!ENTITY pref_category_devtools "Инструменты разработки">
-<!ENTITY pref_category_devtools_summary "Удалённый отладчик, подсветка прорисовки">
-<!ENTITY pref_developer_paint_flashing "Подсветка прорисовки">
 <!ENTITY pref_developer_remotedebugging "Удалённый отладчик">
 <!ENTITY pref_category_logins "Пароли">
 <!ENTITY pref_remember_signons "Запоминать пароли">
