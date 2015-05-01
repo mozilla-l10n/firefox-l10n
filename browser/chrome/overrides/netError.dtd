@@ -6,7 +6,7 @@
 %brandDTD;
 
 <!ENTITY loadError.label "Ocorreu um problema ao carregar a página">
-<!ENTITY retry.label "Tentar de novo">
+<!ENTITY retry.label "Tentar novamente">
 <!-- Specific error messages -->
 
 
@@ -164,7 +164,7 @@ functionality specific to firefox. -->
 <!ENTITY errorReporting.sending "A enviar relatório">
 <!ENTITY errorReporting.sent "Relatório enviado">
 <!ENTITY errorReporting.report "Reportar">
-<!ENTITY errorReporting.tryAgain "Tentar de novo">
+<!ENTITY errorReporting.tryAgain "Tentar novamente">
 
 <!ENTITY remoteXUL.title "XUL remoto">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Por favor contacte os responsáveis do sítio web para os informar sobre este problema.</li></ul></p>">
