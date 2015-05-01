@@ -250,7 +250,7 @@ size. -->
 
 <!ENTITY pref_use_master_password "Utilizar palavra-passe mestra">
 <!ENTITY pref_sync "Sync">
-<!ENTITY pref_sync_summary "Sincronize os seus separadores, marcadores, palavra-passe e histórico">
+<!ENTITY pref_sync_summary "Sincronize os seus separadores, marcadores, palavras-passe e histórico">
 <!ENTITY pref_search_suggestions "Mostrar sugestões de pesquisa">
 <!ENTITY pref_import_android "Importar do Android">
 <!ENTITY pref_import_android_summary "Importar marcadores e histórico do navegador nativo">
