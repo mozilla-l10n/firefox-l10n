@@ -34,7 +34,7 @@
 <!ENTITY leaveOnServer.label "Manter mensagens no servidor">
 <!ENTITY leaveOnServer.accesskey "v">
 <!ENTITY headersOnly.label "Obter apenas os cabeçalhos">
-<!ENTITY headersOnly.accesskey "h">
+<!ENTITY headersOnly.accesskey "e">
 <!ENTITY deleteByAgeFromServer.label "Durante">
 <!ENTITY deleteByAgeFromServer.accesskey "D">
 <!ENTITY daysEnd.label "dias">
