@@ -11,7 +11,7 @@
 <!ENTITY composingMessages.caption       "Compor mensagens">
 <!ENTITY useMIME.label                   "Para mensagens que contenham caracteres de 8-bit, usar 'quoted printable' codificação MIME. Não selecionar para enviar mensagens como estão.">
 <!ENTITY useMIME.accesskey               "a">
-<!ENTITY sendDefaultCharset2.label       "Codificação de texto por omissão:">
-<!ENTITY sendDefaultCharset2.accesskey   "o">
-<!ENTITY replyInDefaultCharset3.label    "Quando for possível, utilizar esta codificação de texto por omissão em respostas. (Quando não marcado, apenas novas mensagens irão utilizar este valor por omissão.)">
-<!ENTITY replyInDefaultCharset3.accesskey "p">
+<!ENTITY sendDefaultCharset2.label       "Codificação de texto:">
+<!ENTITY sendDefaultCharset2.accesskey   "e">
+<!ENTITY replyInDefaultCharset3.label    "Sempre que for possível, utilizar esta codificação de texto nas respostas. (Se desativada, apenas as novas mensagens irão utilizar este valor.)">
+<!ENTITY replyInDefaultCharset3.accesskey "S">

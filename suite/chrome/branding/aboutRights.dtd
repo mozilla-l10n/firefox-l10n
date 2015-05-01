@@ -41,13 +41,13 @@
      this page being forgotten every time those strings are updated.  -->
 <!-- intro paragraph for branded builds -->
 
-<!ENTITY rights2.webservices-a "O &brandFullName; oferece serviços opcionais (&quot;Serviços&quot;), tais como serviços de sugestão de Extras e de atualizações ou a funcionalidade de navegação segura, que estão disponíveis para serem utilizadas por si nesta versão binária do &brandShortName; tal como é descrito em baixo. Estes serviços estão ativos por omissão. Se não quiser utilizar os serviços ou se os termos em baixo não são aceitáveis, instruções sobre como desativar determinada funcionalidade ou serviço podem ser encontradas ">
+<!ENTITY rights2.webservices-a "O &brandFullName; disponibiliza serviços opcionais (&quot;Serviços&quot;), tais como serviços de sugestão de extras e de atualizações ou a funcionalidade de navegação segura, que estão disponíveis para serem utilizadas por si nesta versão binária do &brandShortName; tal como descrito em baixo. Por definição, estes estão ativos. Se não quiser utilizar os serviços ou se os termos em baixo não são aceitáveis, pode encontrar informações sobre como os desativar ">
 <!ENTITY rights2.webservices-b "aqui">
 <!ENTITY rights2.webservices-c ". Outras funcionalidades e serviços podem ser desativados nas preferências da aplicação.">
 <!-- add-on related points for branded builds -->
 
 <!ENTITY rights.addons-a "Serviços de Extras: ">
-<!ENTITY rights.addons-b "Por omissão, o &brandShortName; irá sugerir extras na página &view.discover.label; e procurar por atualizações em intervalos regulares. Se quiser desativar estas funcionalidades para evitar a comunicação de informação sobre extras instalados para o servidor, siga estes passos:">
+<!ENTITY rights.addons-b "Por definição, o &brandShortName; irá sugerir extras na página &view.discover.label; e procurar por atualizações em intervalos regulares. Se quiser desativar estas funcionalidades para evitar a comunicação de informação sobre extras instalados para o servidor, siga estes passos:">
 <!ENTITY rights.addons-term1 "Abrir as preferências da aplicação">
 <!ENTITY rights.addons-term2 "Selecionar o painel &smart.label; na categoria &advance.label;">
 <!ENTITY rights.addons-term3 "Desmarcar as opções para &quot;&autoAddOnsUpdates.label;&quot; e &quot;&enablePersonalized.label;&quot;">
