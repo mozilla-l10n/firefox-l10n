@@ -30,7 +30,7 @@
 <!-- LOCALIZATION NOTE (timelineUI.filterButton.tooltip): This string
   -  is displayed next to the filter button-->
 
-<!ENTITY timelineUI.filterButton.tooltip "Selecione que dados mostrar">
+<!ENTITY timelineUI.filterButton.tooltip "Selecione os dados a mostrar">
 <!-- LOCALIZATION NOTE (timelineUI.emptyNotice1/2): This is the label shown
   -  in the timeline view when empty. -->
 
