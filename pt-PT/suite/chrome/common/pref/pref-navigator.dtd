@@ -4,7 +4,7 @@
 
 <!ENTITY pref.navigator.title           "Navegador">
 
-<!ENTITY navRadio.label                 "Mostrar ao">
+<!ENTITY navRadio.label                 "Mostrar em">
 <!ENTITY navRadio.accesskey             "o">
 <!ENTITY navStartPageMenu.label         "Iniciar o navegador">
 <!ENTITY newWinPageMenu.label           "Nova janela">
