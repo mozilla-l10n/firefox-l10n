@@ -97,7 +97,7 @@
 <!ENTITY help.intro "Esta ferramenta ajuda-o a criar e instalar aplicações web nos dispositivos compatíveis (ex: Firefox OS). O separador <strong>Aplicações</strong> ajuda-o no processo de validação e instalação da aplicação. O separador <strong>Dispositivo</strong> mostra as informações do dispositivo ligado. Utilize a barra de ferramentas inferior para ligar a um dispositivo ou iniciar o simulador.">
 <!ENTITY help.usefullLinks "Ligações úteis:">
 <!ENTITY help.appMgrDoc "Documentação: utilizar o gestor de aplicações">
-<!ENTITY help.configuringDevice "Configuração do dispositivo Firefox OS">
+<!ENTITY help.configuringDevice "Configurar o seu dispositivo Firefox OS">
 <!ENTITY help.troubleShooting "Deteção de erros">
 <!ENTITY help.simulatorAddon "Instalar o extra Simulator">
 <!ENTITY help.adbHelperAddon "Instalar o extra Adb Helper">
