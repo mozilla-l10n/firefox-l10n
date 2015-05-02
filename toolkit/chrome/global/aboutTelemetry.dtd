@@ -8,12 +8,15 @@
 
 <!ENTITY aboutTelemetry.telemetryDisabled "  Telemetry đã <span>tắt</span>.">
 
+
+
 <!ENTITY aboutTelemetry.slowSqlSection "Lệnh SQL Chậm">
 
 <!ENTITY aboutTelemetry.chromeHangsSection "  Trình Duyệt Bị Treo">
 
 
 <!ENTITY aboutTelemetry.histogramsSection "  Đường tần số">
+
 
 <!ENTITY aboutTelemetry.simpleMeasurementsSection "   Các phép đo Đơn giản ">
 

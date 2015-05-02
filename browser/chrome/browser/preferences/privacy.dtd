@@ -4,28 +4,22 @@
 
 <!ENTITY tracking.label                 "Theo dõi">
 
-<!ENTITY dntTrackingNopref.label2       "Không thông báo với các trang web bất kỳ điều gì liên quan đến các tùy chọn theo dõi của tôi.">
-<!ENTITY dntTrackingNopref.accesskey    "o">
 <!ENTITY dntTrackingNotOkay.label2      "Nói với các trang web rằng tôi không muốn bị theo dõi">
 <!ENTITY dntTrackingNotOkay.accesskey   "n">
-<!ENTITY dntTrackingOkay.label2         "Thông báo với các trang web rằng tôi muốn được theo dõi">
-
 
 
 
 <!ENTITY doNotTrackInfo.label           "Tìm hiểu Thêm">
 
-<!ENTITY  history.label                 "Lịch sử">
 
 <!ENTITY  locationBar.label             "Thanh Địa Chỉ">
 
-<!ENTITY  locbar.pre.label              "Khi sử dụng thanh địa chỉ, đề nghị:">
-<!ENTITY  locbar.pre.accessKey          "a">
-<!ENTITY  locbar.post.label             "Khi sử dụng thanh địa chỉ, đề nghị: (&amp;u)">
-<!ENTITY  locbar.both.label             "Lược sử và Đánh dấu">
-<!ENTITY  locbar.history.label          "Lịch sử">
-<!ENTITY  locbar.bookmarks.label        "Trang ưa thích">
-<!ENTITY  locbar.nothing.label          "Không đề nghị">
+
+
+
+
+
+
 
 <!ENTITY  acceptCookies.label           "Cho phép cookie từ các trang">
 <!ENTITY  acceptCookies.accesskey       "C">
@@ -36,8 +30,7 @@
 <!ENTITY  acceptThirdParty.never.label    "Không bao giờ">
 <!ENTITY  acceptThirdParty.visited.label  "Từ các trang đã truy cập">
 
-<!ENTITY  keepUntil.label               "Lưu cho tới khi:">
-<!ENTITY  keepUntil.accesskey           "k">
+
 
 <!ENTITY  expire.label                  "chúng hết hạn">
 <!ENTITY  close.label                   "tôi thoát &brandShortName;">

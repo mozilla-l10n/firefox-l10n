@@ -27,7 +27,13 @@
 
 
 
+
+
 <!ENTITY runtimeMenu_takeScreenshot_label "Chụp màn hình">
+
+
+
+
 
 
 
@@ -37,6 +43,10 @@
 <!ENTITY viewMenu_label "Xem">
 
 
+
+<!ENTITY viewMenu_zoomin_label "Phóng to">
+
+<!ENTITY viewMenu_zoomout_label "Thu nhỏ">
 
 
 
@@ -49,6 +59,10 @@
 <!-- show toolbox -->
 <!ENTITY key_toggleToolbox "VK_F12">
 <!-- toggle sidebar -->
+<!-- zoom -->
+
+
+
 
 
 <!ENTITY projectPanel_tabs "Thẻ">
@@ -64,6 +78,7 @@
 
 <!ENTITY details_description "Mô tả">
 <!ENTITY details_location "Địa chỉ">
+
 
 
 <!-- New App -->
@@ -110,5 +125,33 @@
 
 
 
+<!-- Device Preferences and Settings -->
+
+
+<!ENTITY device_typeobject "Đối tượng">
+
+<!-- Device Preferences -->
+
+
+
+
+<!-- Device Settings -->
+
+
+
+
 <!-- Monitor -->
 <!ENTITY monitor_help "Trợ giúp">
+<!-- WiFi Authentication -->
+<!-- LOCALIZATION NOTE (wifi_auth_header): The header displayed on the dialog
+     that instructs the user to transfer an authentication token to the
+     server. -->
+<!-- LOCALIZATION NOTE (wifi_auth_scan_request): Instructions requesting the
+     user to transfer authentication info by scanning a QR code. -->
+<!-- LOCALIZATION NOTE (wifi_auth_no_scanner): Link text to assist users with
+     devices that can't scan a QR code. -->
+<!-- LOCALIZATION NOTE (wifi_auth_yes_scanner): Link text to assist users with
+     devices that can scan a QR code. -->
+<!-- LOCALIZATION NOTE (wifi_auth_token_request): Instructions requesting the
+     user to transfer authentication info by transferring a token. -->
+<!-- Logs panel -->

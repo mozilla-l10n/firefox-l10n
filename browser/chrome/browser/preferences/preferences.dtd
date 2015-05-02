@@ -15,6 +15,7 @@
 
 <!ENTITY  paneGeneral.title       "Tổng quát">
 <!ENTITY  paneTabs.title          "Thẻ">
+<!ENTITY  paneSearch.title        "Tìm kiếm">
 <!ENTITY  paneContent.title       "Nội dung">
 <!ENTITY  paneApplications.title  "Chương trình">
 <!ENTITY  panePrivacy.title       "Riêng tư">
@@ -23,7 +24,5 @@
 <!-- LOCALIZATION NOTE (paneSync.title): This should match syncBrand.shortName.label in ../syncBrand.dtd -->
 
 <!ENTITY  paneSync.title          "Đồng bộ">
-<!ENTITY  buttonForward.tooltip   "Tiến tới trang sau">
-<!ENTITY  buttonBack.tooltip      "Trở lại trang trước">
 
 <!ENTITY  helpButton.label        "Trợ giúp">
