@@ -48,9 +48,9 @@
 <!ENTITY viewMenu_accesskey "V">
 <!ENTITY viewMenu_toggleEditor_label "Trocar editor">
 <!ENTITY viewMenu_toggleEditor_accesskey "e">
-<!ENTITY viewMenu_zoomin_label "Aumentar">
+<!ENTITY viewMenu_zoomin_label "Ampliar">
 <!ENTITY viewMenu_zoomin_accesskey "u">
-<!ENTITY viewMenu_zoomout_label "Diminuir">
+<!ENTITY viewMenu_zoomout_label "Reduzir">
 <!ENTITY viewMenu_zoomout_accesskey "i">
 <!ENTITY viewMenu_resetzoom_label "Reiniciar">
 <!ENTITY viewMenu_resetzoom_accesskey "R">
