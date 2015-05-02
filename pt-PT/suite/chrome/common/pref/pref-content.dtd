@@ -17,9 +17,9 @@
 <!ENTITY useSmoothScroll.accesskey              "U">
 <!ENTITY allowHWAccel.label                     "Usar aceleração por hardware quando disponível">
 <!ENTITY allowHWAccel.accesskey                 "e">
-<!ENTITY textZoomOnly.label                     "Aumentar apenas o texto em vez das páginas completas">
+<!ENTITY textZoomOnly.label                     "Ampliar apenas o texto em vez de toda a página">
 <!ENTITY textZoomOnly.accesskey                 "A">
 <!ENTITY blockAutoRefresh.label                 "Avisar-me quando a página tenta redireccionar ou recarregar a página">
 <!ENTITY blockAutoRefresh.accesskey             "v">
-<!ENTITY siteSpecific.label                     "Lembrar nível de zoom com base no sítio">
-<!ENTITY siteSpecific.accesskey                 "m">
+<!ENTITY siteSpecific.label                     "Memorizar nível de ampliação por sítio">
+<!ENTITY siteSpecific.accesskey                 "M">

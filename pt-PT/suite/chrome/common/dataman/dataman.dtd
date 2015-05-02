@@ -75,7 +75,7 @@
 <!ENTITY perm.button.add.accesskey "A">
 <!-- preferences -->
 
-<!ENTITY prefs.description "As preferências de conteúdo são uma maneira do &brandShortName; guardar as suas definições, como os níveis de zoom, para um determinado sítio web.">
+<!ENTITY prefs.description "As preferências de conteúdo são uma forma do &brandShortName; guardar as suas definições, como os níveis de ampliação, para um determinado sítio web.">
 
 <!ENTITY prefs.tree.host.label "Sítio web">
 <!ENTITY prefs.tree.name.label "Nome da preferência">
