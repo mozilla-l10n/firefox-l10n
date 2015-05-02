@@ -48,7 +48,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY helpSearch.commandkey          "k">
 
-<!ENTITY zLevel.label                   "Sempre por cima">
+<!ENTITY zLevel.label                   "Sempre visível">
 <!ENTITY zLevel.accesskey               "S">
 
 <!ENTITY fullZoomReduceBtn.label        "Reduzir">
