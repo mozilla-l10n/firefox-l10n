@@ -23,8 +23,8 @@
 <!ENTITY history.label                   "Mover para trás e para a frente o histórico de navegação">
 <!ENTITY history.accesskey               "M">
 <!ENTITY historyHoriz.accesskey          "ç">
-<!ENTITY zoom.label                      "Aumentar ou diminuir a página">
-<!ENTITY zoom.accesskey                  "u">
+<!ENTITY zoom.label                      "Ampliar ou reduzir a página">
+<!ENTITY zoom.accesskey                  "A">
 <!ENTITY zoomHoriz.accesskey             "o">
 <!ENTITY wheelSpeed.label                "Velocidade da roda do rato:">
 <!ENTITY wheelSpeed.accesskey            "r">
