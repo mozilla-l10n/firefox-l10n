@@ -10,6 +10,7 @@
 
 <!ENTITY aboutTelemetry.generalDataSection "  Dados gerais">
 
+<!ENTITY aboutTelemetry.telemetryLogSection "  Registro de telemetria">
 
 <!ENTITY aboutTelemetry.slowSqlSection "Instruções SQL lentas">
 
