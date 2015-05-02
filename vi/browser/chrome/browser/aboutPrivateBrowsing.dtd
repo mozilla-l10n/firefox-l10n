@@ -12,7 +12,3 @@
 
 <!ENTITY privatebrowsingpage.openPrivateWindow.label "Mở một cửa sổ riêng tư">
 <!ENTITY privatebrowsingpage.openPrivateWindow.accesskey "P">
-<!-- TO BE REMOVED POST-AUSTRALIS --> 
-<!-- LOCALIZATION NOTE (privatebrowsingpage.howToStart3): please leave &basePBMenu.label; intact in the translation -->
-
-<!ENTITY privatebrowsingpage.howToStart3               "Để bắt đầu Duyệt web Riêng tư, bạn cũng có thể chọn &basePBMenu.label; &gt; &newPrivateWindow.label;.">

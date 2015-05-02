@@ -28,19 +28,16 @@
 
 <!ENTITY dataChoicesTab.label            "Lựa chọn dữ liệu">
 
-<!ENTITY healthReportSection.label       "Trình báo cáo lỗi &brandShortName;">
 <!ENTITY healthReportDesc.label          "Giúp bạn nắm được hiệu suất trình duyệt của bạn và chia sẻ dữ liệu với &vendorShortName; về trạng thái của trình duyệt">
 <!ENTITY enableHealthReport.label        "Trình báo cáo lỗi &brandShortName; (R)">
 <!ENTITY enableHealthReport.accesskey    "R">
 <!ENTITY healthReportLearnMore.label     "Tìm hiểu thêm">
 
-<!ENTITY telemetrySection.label          "Telemetry">
 <!ENTITY telemetryDesc.label             "Chia sẻ hiệu năng, cách sử dụng, phần cứng và dữ liệu tùy biến liên quan đến trình duyệt của bạn với &vendorShortName; để giúp chúng tôi tạo ra &brandShortName; tốt hơn">
-<!ENTITY enableTelemetry.label           "Kích hoạt Telemetry">
-<!ENTITY enableTelemetry.accesskey       "T">
+
+
 <!ENTITY telemetryLearnMore.label        "Tìm hiểu thêm">
 
-<!ENTITY crashReporterSection.label      "Trình Báo Lỗi">
 <!ENTITY crashReporterDesc.label         "&brandShortName; gửi báo cáo sự cố giúp &vendorShortName; cải thiện trình duyệt ổn định và an toàn hơn">
 <!ENTITY enableCrashReporter.label       "Bật Trình Báo Lỗi (C)">
 <!ENTITY enableCrashReporter.accesskey   "C">
@@ -116,6 +113,7 @@
 <!ENTITY offlineAppRemove.confirm        "Xóa dữ liệu ngoại tuyến">
 
 <!ENTITY certificateTab.label            "Chứng thư">
+
 <!ENTITY certSelection.description       "Khi một máy chủ yêu cầu chứng thư cá nhân của tôi:">
 <!ENTITY certs.auto                      "Tự động chọn một cái">
 

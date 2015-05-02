@@ -33,9 +33,9 @@ This is likely the same like id.heading in crashes.dtd. -->
 <!ENTITY aboutSupport.appBasicsTitle "Cơ bản về Chương trình">
 <!ENTITY aboutSupport.appBasicsName "Tên">
 <!ENTITY aboutSupport.appBasicsVersion "Phiên bản">
-<!-- LOCALIZATION NOTE (aboutSupport.appBasicsUpdateHistory, aboutSupport.appBasicsShowUpdateHistory):
-"Update" is a noun here, not a verb. -->
 
+<!-- LOCALIZATION NOTE (aboutSupport.appBasicsUpdateChannel, aboutSupport.appBasicsUpdateHistory, aboutSupport.appBasicsShowUpdateHistory):
+"Update" is a noun here, not a verb. -->
 <!ENTITY aboutSupport.appBasicsUpdateHistory "Lịch sử cập nhật">
 <!ENTITY aboutSupport.appBasicsShowUpdateHistory "Hiển thị lịch sử cập nhật">
 
@@ -87,3 +87,6 @@ variant of aboutSupport.showDir.label. -->
 
 <!ENTITY aboutSupport.copyTextToClipboard.label "Sao chép đoạn chữ vào clipboard">
 <!ENTITY aboutSupport.copyRawDataToClipboard.label "Sao chép dữ liệu thô vào clipboard">
+
+
+

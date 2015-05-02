@@ -4,6 +4,7 @@
 <!ENTITY addons.windowTitle                   "Quản lí Tiện ích">
 
 <!ENTITY search.placeholder                   "Tìm tất cả các tiện ích">
+
 <!-- LOCALIZATION NOTE (search.commandKey):
      The search command key should match findOnCmd.commandkey from browser.dtd -->
 <!ENTITY search.commandkey                    "f">
@@ -35,8 +36,6 @@
 <!ENTITY info.plugincheck.label                 "Kiểm tra xem phần bổ trợ của bạn đã là mới nhất chưa">
 <!ENTITY info.plugincheck.tooltip               "Kiểm tra xem phần bổ trợ của bạn đã là mới nhất chưa">
 <!-- categories / views -->
-
-<!ENTITY view.search.label                    "Tìm kiếm">
 <!ENTITY view.discover.label                  "Lấy thêm Tiện ích">
 <!ENTITY view.recentUpdates.label             "Cập nhật Gần đây">
 <!ENTITY view.availableUpdates.label          "Cập nhật Khả thi">
@@ -223,6 +222,7 @@ một số tiện ích tốt nhất và thông dụng nhất để bạn thử."
      Install https://people.mozilla.org/~gszorc/dummy-experiment-addon.xpi
      to cause this tab to appear. -->
 <!ENTITY experiment.info.learnmore "Tìm hiểu thêm">
+
 
 
 

@@ -22,7 +22,7 @@
 <!ENTITY  generalReferrer       "URL liên quan:">
 <!ENTITY  generalSource         "Nguồn Đệm:">
 <!ENTITY  generalModified       "Được chỉnh sửa:">
-<!ENTITY  generalEncoding       "Bảng mã:">
+
 <!ENTITY  generalMetaName       "Tên">
 <!ENTITY  generalMetaContent    "Nội dung">
 
@@ -82,3 +82,5 @@
 <!ENTITY  securityView.privacy.viewPasswords.accessKey  "M">
 
 <!ENTITY  securityView.technical.header                 "Chi tiết Kĩ thuật">
+
+<!ENTITY  helpButton.label                              "Trợ giúp">
