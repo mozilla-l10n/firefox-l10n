@@ -9,7 +9,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 
 <!ENTITY fullZoomEnlargeCmd.label       "Ampliar">
-<!ENTITY fullZoomEnlargeCmd.accesskey   "A">
+<!ENTITY fullZoomEnlargeCmd.accesskey   "i">
 <!ENTITY fullZoomEnlargeCmd.commandkey  "+">
 <!-- + is above this key on many keyboards -->
 <!ENTITY fullZoomEnlargeCmd.commandkey2 "="> 
