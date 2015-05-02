@@ -44,7 +44,7 @@ their language.
 -->
 
 
-<!ENTITY welcomeback2.beforelink.pageInfo2  "Os seus extras e as personalizações foram removidas e as suas definições do navegador foram restauradas para as pré-definidas. Se isto não resolveu o seu problema, ">
+<!ENTITY welcomeback2.beforelink.pageInfo2  "Os seus extras e personalizações foram removidos e as definições do navegador foram restauradas para as pré-definidas. Se isto não resolveu o seu problema, ">
 <!ENTITY welcomeback2.afterlink.pageInfo2   "">
 
 <!ENTITY welcomeback2.link.pageInfo2        "saiba mais sobre o que pode fazer.">
