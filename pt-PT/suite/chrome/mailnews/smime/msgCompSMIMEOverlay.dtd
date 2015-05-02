@@ -14,7 +14,7 @@
 <!ENTITY menu_securityStatus.accesskey "I">
 
 <!ENTITY securityButton.label "Segurança">
-<!ENTITY securityButton.tooltip "Ver ou Alterar as configurações de segurança">
+<!ENTITY securityButton.tooltip "Ver ou alterar as definições de segurança">
 
 <!ENTITY menu_viewSecurityStatus.label "Mensagem de Informação sobre a Segurança">
 <!ENTITY menu_viewSecurityStatus.accesskey "n">

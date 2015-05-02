@@ -11,14 +11,14 @@
 
 <!ENTITY accountsSectionHdr.label     "Contas"> 
 <!ENTITY subscribeImapFolders.label   "Gerir Pasta de subscrições"> 
-<!ENTITY settingsLink.label           "Ver configurações para esta conta"> 
+<!ENTITY settingsLink.label           "Ver definições desta conta"> 
 <!ENTITY newAcctLink.label            "Criar uma nova conta"> 
 
-<!ENTITY advFeaturesSectionHdr.label  "Configurações Avançadas"> 
+<!ENTITY advFeaturesSectionHdr.label  "Definições avançadas"> 
 <!ENTITY searchMsgsLink.label         "Procurar mensagens"> 
 <!ENTITY filtersLink.label            "Gerir filtros de mensagens">
 <!ENTITY junkSettings.label           "Definições de lixo eletrónico">
-<!ENTITY offlineLink.label            "Configurações quando Desligado">
+<!ENTITY offlineLink.label            "Definições do modo desligado">
 
 <!ENTITY feedsSectionHdr.label        "Fontes">
 <!ENTITY subscribeFeeds.label         "Gerir subscrições">

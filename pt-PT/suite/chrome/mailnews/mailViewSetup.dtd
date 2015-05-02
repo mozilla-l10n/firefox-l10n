@@ -4,7 +4,7 @@
 <!--LOCALIZATION NOTE msgViewPickerOverlay.dtd UI for showing various views on a folder -->
 
 
-<!ENTITY mailViewSetupTitle.label "Configuração da visualização da Mensagem">
+<!ENTITY mailViewSetupTitle.label "Configuração da vista de mensagens">
 <!ENTITY mailViewHeading.label "Nome da visualização da Mensagem :">
 <!ENTITY mailViewHeading.accesskey "N">
 <!ENTITY searchTermCaption.label "Ao selecionar esta vista, mostrar apenas mensagens que:">

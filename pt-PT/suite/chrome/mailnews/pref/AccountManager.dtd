@@ -4,7 +4,7 @@
 <!-- extracted from AccountManager.xul -->
 
 
-<!ENTITY accountManagerTitle.label "Configuração de conta">
+<!ENTITY accountManagerTitle.label "Definições da conta de correio e grupo de notícias">
 
 <!ENTITY addAccountButton.label "Adicionar conta...">
 <!ENTITY addAccountButton.accesskey "A">
