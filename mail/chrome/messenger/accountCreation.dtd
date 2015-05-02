@@ -37,8 +37,8 @@
 <!ENTITY starttls.label                  "STARTTLS">
 <!ENTITY sslTls.label                    "SSL/TLS">
 
-<!ENTITY advancedSetup.label             "Configuração avançada…">
-<!ENTITY advancedSetup.accesskey         "v">
+<!ENTITY advancedSetup.label             "Configuração avançada">
+<!ENTITY advancedSetup.accesskey         "a">
 <!ENTITY cancel.label                    "Cancelar">
 <!ENTITY cancel.accesskey                "a">
 <!ENTITY continue.label                  "Continuar">
