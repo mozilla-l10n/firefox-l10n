@@ -18,7 +18,7 @@
 <!ENTITY image.value "Imagem">
 <!ENTITY button.value "Botão">
 
-<!ENTITY InputSettings.label "Configurações do campo">
+<!ENTITY InputSettings.label "Definições de campo">
 <!ENTITY InputName.label "Nome do campo:">
 <!ENTITY InputName.accesskey "N">
 <!ENTITY GroupName.label "Nome do grupo:">
