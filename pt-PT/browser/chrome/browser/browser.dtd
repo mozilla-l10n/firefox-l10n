@@ -584,7 +584,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 
 <!ENTITY fullZoomEnlargeCmd.label       "Ampliar">
-<!ENTITY fullZoomEnlargeCmd.accesskey   "A">
+<!ENTITY fullZoomEnlargeCmd.accesskey   "i">
 <!ENTITY fullZoomEnlargeCmd.commandkey  "+">
 <!-- + is above this key on many keyboards -->
 <!ENTITY fullZoomEnlargeCmd.commandkey2 "="> 
@@ -600,10 +600,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fullZoomResetCmd.commandkey    "0">
 <!ENTITY fullZoomResetCmd.commandkey2   "">
 
-<!ENTITY fullZoomToggleCmd.label        "Aumentar apenas o texto">
+<!ENTITY fullZoomToggleCmd.label        "Ampliar apenas o texto">
 <!ENTITY fullZoomToggleCmd.accesskey    "t">
 <!ENTITY fullZoom.label                 "Ampliação">
-<!ENTITY fullZoom.accesskey             "i">
+<!ENTITY fullZoom.accesskey             "A">
 
 <!ENTITY sidebarCloseButton.tooltip     "Fechar barra lateral">
 

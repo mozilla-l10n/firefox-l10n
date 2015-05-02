@@ -51,7 +51,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY zLevel.label                   "Sempre por cima">
 <!ENTITY zLevel.accesskey               "S">
 
-<!ENTITY fullZoomReduceBtn.label        "Diminuir o tamanho do texto">
-<!ENTITY fullZoomReduceBtn.accesskey    "D">
-<!ENTITY fullZoomEnlargeBtn.label       "Aumentar o tamanho do texto">
-<!ENTITY fullZoomEnlargeBtn.accesskey   "A">
+<!ENTITY fullZoomReduceBtn.label        "Reduzir">
+<!ENTITY fullZoomReduceBtn.accesskey    "R">
+<!ENTITY fullZoomEnlargeBtn.label       "Ampliar">
+<!ENTITY fullZoomEnlargeBtn.accesskey   "i">
