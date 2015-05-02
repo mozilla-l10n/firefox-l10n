@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY pref.junk.title "Lixo eletrónico">
+<!ENTITY pref.junk.title "Lixo e correio suspeito">
 <!ENTITY junkSettings.caption "Definições globais de lixo eletrónico">
 <!ENTITY junkMail.intro "Aceda às definições da conta para configurar definições especiais de lixo eletrónico.">
 <!-- Junk Mail Controls -->
@@ -21,7 +21,7 @@
 <!ENTITY manualMarkAsRead.accesskey     "m">
 
 <!ENTITY enableJunkLogging.label        "Ativar registo do lixo eletrónico">
-<!ENTITY enableJunkLogging.accesskey    "r">
+<!ENTITY enableJunkLogging.accesskey    "e">
 <!ENTITY openJunkLog.label              "Mostrar registo">
 <!ENTITY openJunkLog.accesskey          "s">
 <!ENTITY resetTrainingData.label        "Reiniciar dados de treino">

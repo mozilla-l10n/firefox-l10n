@@ -46,7 +46,7 @@
 <!ENTITY markMessageStarred.label "Adicionar estrela">
 <!ENTITY setPriority.label "Configurar prioridade para">
 <!ENTITY addTag.label "Etiquetar mensagem">
-<!ENTITY setJunkScore.label "Configurar o estado do lixo eletrónico para">
+<!ENTITY setJunkScore.label "Configurar estado do lixo eletrónico para">
 <!ENTITY deleteMessage.label "Eliminar mensagem">
 <!ENTITY deleteFromPOP.label "Eliminar do servidor POP">
 <!ENTITY fetchFromPOP.label "Transferir do servidor POP">
