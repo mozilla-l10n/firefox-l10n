@@ -245,8 +245,8 @@ size. -->
 
 <!ENTITY pref_media_autoplay_enabled "Permitir reprodução automática">
 <!ENTITY pref_media_autoplay_enabled_summary "Define se os sítios web podem reproduzir automaticamente vídeos e outros tipos de media">
-<!ENTITY pref_zoom_force_enabled "Ativar sempre o zoom">
-<!ENTITY pref_zoom_force_enabled_summary "Forçar a ativação do zoom em qualquer página">
+<!ENTITY pref_zoom_force_enabled "Ativar sempre ampliação">
+<!ENTITY pref_zoom_force_enabled_summary "Forçar a ativação de ampliação em qualquer página">
 
 <!ENTITY pref_use_master_password "Utilizar palavra-passe mestra">
 <!ENTITY pref_sync "Sync">
