@@ -15,8 +15,8 @@
 <!ENTITY saveCmd.accesskey "T">
 <!ENTITY saveAsCmd.label "Tallenna nimellä…">
 <!ENTITY saveAsCmd.accesskey "a">
-<!ENTITY saveAsChangeEncodingCmd.label "Tallenna ja muuta merkistökoodausta">
-<!ENTITY saveAsChangeEncodingCmd.accesskey "e">
+<!ENTITY saveAsChangeEncodingCmd2.label "Tallenna ja muuta merkistökoodausta">
+<!ENTITY saveAsChangeEncodingCmd2.accesskey "e">
 <!ENTITY publishCmd.label "Julkaise">
 <!ENTITY publishCmd.accesskey "J">
 <!ENTITY publishCmd.key "S">
