@@ -119,7 +119,7 @@ cookies.</li>
 <!ENTITY unknownSocketType.longDesc "<ul> 
 <li>Verifique se o seu sistema tem instalado o Personal Security 
 Manager.</li> 
-<li>Isto pode ser devido a uma configuração não-standard do servidor.</li> 
+<li>Isto pode ser devido a uma configuração não padrão do servidor.</li> 
 </ul>">
 
 <!ENTITY nssFailure2.title "A ligação segura falhou">
