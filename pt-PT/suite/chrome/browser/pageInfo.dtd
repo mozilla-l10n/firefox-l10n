@@ -58,7 +58,7 @@
 <!ENTITY  linkTarget            "Destino">
 <!ENTITY  linkAccessKey         "Chave de acesso">
 
-<!ENTITY  mediaTab              "Média">
+<!ENTITY  mediaTab              "Multimédia">
 <!ENTITY  mediaTab.accesskey    "M">
 <!ENTITY  mediaURL              "Endereço:">
 <!ENTITY  mediaAlt              "Texto alternativo:">
@@ -75,7 +75,7 @@
 <!ENTITY  mediaSaveAs           "Guardar como…">
 <!ENTITY  mediaSaveAs.accesskey "G">
 <!ENTITY  mediaSaveAs2.accesskey "c">
-<!ENTITY  mediaPreview          "Pré-visualizar média:">
+<!ENTITY  mediaPreview          "Pré-visualizar multimédia:">
 
 <!ENTITY  feedTab               "Fontes">
 <!ENTITY  feedTab.accesskey     "F">

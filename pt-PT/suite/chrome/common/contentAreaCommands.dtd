@@ -117,9 +117,9 @@
 <!-- LOCALIZATION NOTE: The access keys for "Show Controls" and
 "Hide Controls" are the same because the two context-menu
 items are mutually exclusive. -->
-<!ENTITY mediaShowControls.label      "Mostrar controlos de media">
+<!ENTITY mediaShowControls.label      "Mostrar controlos multimédia">
 <!ENTITY mediaShowControls.accesskey  "a">
-<!ENTITY mediaHideControls.label      "Ocultar controlos de media">
+<!ENTITY mediaHideControls.label      "Ocultar controlos multimédia">
 <!ENTITY mediaHideControls.accesskey  "a">
 <!ENTITY videoFullScreen.label        "Ecrã inteiro">
 <!ENTITY videoFullScreen.accesskey    "n">
