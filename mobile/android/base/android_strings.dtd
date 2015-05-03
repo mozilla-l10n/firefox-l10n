@@ -42,7 +42,7 @@
 <!ENTITY url_bar_default_text2 "Bilatu edo idatzi helbidea">
 
 <!ENTITY bookmark "Laster-marka">
-
+<!ENTITY bookmark_remove "Kendu laster-marka">
 <!ENTITY bookmark_added "Laster-marka gehituta">
 <!ENTITY bookmark_removed "Laster-marka kenduta">
 <!ENTITY bookmark_updated "Laster-marka eguneratuta">
@@ -80,7 +80,7 @@
 <!ENTITY pref_category_advanced "Aurreratua">
 <!ENTITY pref_category_customize "Pertsonalizatu">
 <!ENTITY pref_category_customize_summary "Hasiera, bilaketa, fitxak, inportatzea">
-
+<!ENTITY pref_category_customize_alt_summary "Hasiera, bilaketa, fitxak, ireki gerorako, inportatu">
 <!-- Localization note (pref_category_language) : This is the preferences
      section in which the user picks the locale in which to display Firefox
      UI. The locale includes both language and region concepts. -->
@@ -119,12 +119,15 @@
 <!-- Localization note (overlay_no_synced_devices) : Used when the menu option
      to send a tab to a synced device is pressed and no other synced devices
      are found. -->
+<!ENTITY overlay_no_synced_devices "Ez da aurkitu Firefox kontura konektatutako gailurik">
 <!-- Localization note (overlay_share_tab_not_sent) : Used when the menu option
      to send a tab to a synced device is pressed and there is an error
      connecting to the server so the tab could not be sent. The text should be
      divided into two lines (use the newline escape character, "\n", between
      them): the first notifying the user about the failure and the second
      telling the user what to do about it. -->
+<!ENTITY overlay_share_tab_not_sent "Ezin izan da zure fitxa bidali.
+Saiatu geroago mesedez.">
 
 <!ENTITY pref_category_search3 "Bilaketa">
 <!ENTITY pref_category_search_summary "Pertsonalizatu bilaketa-hornitzaileak">
@@ -151,9 +154,9 @@
 <!ENTITY pref_category_devtools_summary "Urruneko arazketa, margoketa distiratzea">
 <!ENTITY pref_developer_paint_flashing "Margoketa keinukaria">
 <!ENTITY pref_developer_remotedebugging "Urruneko arazketa">
-
+<!ENTITY pref_category_logins "Saio-hasierak">
 <!ENTITY pref_remember_signons "Gogoratu pasahitzak">
-
+<!ENTITY pref_manage_logins "Kudeatu saio-hasierak">
 
 <!ENTITY pref_category_home "Hasiera">
 <!ENTITY pref_category_home_summary "Pertsonalizatu zure hasiera-orria">
@@ -190,17 +193,22 @@
 <!ENTITY pref_donottrack_title "Do Not Track">
 <!ENTITY pref_donottrack_summary "Zure jarraipenik ez egiteko esango die guneei &brandShortName;(e)k">
 
-
+<!ENTITY tab_queue_toast_message "Ireki geroago">
+<!ENTITY tab_queue_toast_action "Ireki orain">
 <!-- Localization note (tab_queue_notification_text_plural) : The
      formatD is replaced with the number of tabs queued.  The
      number of tabs queued is always more than one.  We can't use
      Android plural forms, sadly. See Bug #753859. -->
+<!ENTITY tab_queue_notification_text_plural "&formatD; fitxa ilaran">
 <!-- Localization note (tab_queue_notification_title_plural) : This is the
      title of a notification; we expect more than one tab queued. -->
+<!ENTITY tab_queue_notification_title_plural "Fitxak ilaratuta">
 <!-- Localization note (tab_queue_notification_title_singular) : This is the
      title of a notification; we expect only one tab queued. -->
+<!ENTITY tab_queue_notification_title_singular "Fitxa ilaratuta">
 <!-- Localization note (tab_queue_notification_text_singular) : This is the
      text of a notification; we expect only one tab queued. -->
+<!ENTITY tab_queue_notification_text_singular "Fitxa bat ilaratuta">
 
 <!ENTITY pref_char_encoding "Erakutsi karaktere-kodeketa">
 <!ENTITY pref_char_encoding_on "Erakutsi menua">
@@ -296,7 +304,7 @@ size. -->
      (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
 <!ENTITY datareporting_crashreporter_title_short "Hutsegiteen berriemailea">
 <!ENTITY datareporting_wifi_title2 "&vendorShortName; kokapen-zerbitzuak">
-
+<!ENTITY datareporting_wifi_geolocation_summary4 "Lagundu &vendorShortName;(r)i mundua mapeatzen! Partekatu zure gailuaren Wi-Fi eta mugikorraren kokapena gure geokokapen-zerbitzua hobetzeko.">
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
      actual notification that an update is available. -->
@@ -311,7 +319,7 @@ size. -->
 <!ENTITY quit "Irten">
 
 <!ENTITY addons "Gehigarriak">
-
+<!ENTITY logins "Saio-hasierak">
 <!ENTITY downloads "Deskargak">
 <!ENTITY apps "Aplikazioak">
 <!ENTITY char_encoding "Karaktere-kodeketa">
@@ -368,9 +376,11 @@ size. -->
      where normally a username would be displayed. In this case, no username was found, and this placeholder
      contains brackets to indicate this is not actually a username, but rather a placeholder -->
 
+<!ENTITY doorhanger_login_no_username "[Erabiltzaile-izenik ez]">
+<!ENTITY doorhanger_login_edit_title "Editatu saio-hasiera">
 <!ENTITY doorhanger_login_edit_username_hint "Erabiltzaile-izena">
-
-
+<!ENTITY doorhanger_login_edit_password_hint "Pasahitza">
+<!ENTITY doorhanger_login_edit_toggle "Erakutsi pasahitza">
 
 <!ENTITY pref_titlebar_mode "Titulu-barra">
 <!ENTITY pref_titlebar_mode_title "Erakutsi orriaren titulua">
@@ -381,7 +391,8 @@ size. -->
 <!ENTITY pref_scroll_title_bar2 "Pantaila osoko nabigatzea">
 <!ENTITY pref_scroll_title_bar_summary "Ezkutatu &brandShortName;(r)en titulu-barra orria behera korritzean">
 
-
+<!ENTITY pref_tab_queue_title "Ireki geroago">
+<!ENTITY pref_tab_queue_summary "Saihestu fitxak berehala irekitzea, baina ireki ilaratutako fitxa guztiak &brandShortName; abiatzen den hurrengo aldian.">
 <!-- Localization note (page_removed): This string appears in a toast message when
      any page is removed frome about:home. This includes pages that are in history,
      bookmarks, or reading list. -->
@@ -419,7 +430,7 @@ size. -->
 
 <!ENTITY masterpassword_create_title "Sortu pasahitz nagusia">
 <!ENTITY masterpassword_remove_title "Kendu pasahitz nagusia">
-
+<!ENTITY masterpassword_password "Pasahitza">
 <!ENTITY masterpassword_confirm "Berretsi pasahitza">
 
 <!ENTITY button_ok "Ados">
@@ -429,7 +440,7 @@ size. -->
 <!ENTITY button_clear_data "Garbitu datuak">
 <!ENTITY button_set "Ezarri">
 <!ENTITY button_clear "Garbitu">
-
+<!ENTITY button_remember "Gogoratu">
 
 <!ENTITY home_top_sites_title "Gune erabilienak">
 <!-- Localization note (home_top_sites_add): This string is used as placeholder
