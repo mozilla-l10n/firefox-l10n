@@ -16,3 +16,7 @@
 <!ENTITY safeb.blocked.phishingPage.shortDesc2 "Ingresando cualquier información personal en esta ágina puede resultar en robo de identidad o algún otro fraude.">
 <!ENTITY safeb.blocked.phishingPage.longDesc2 "<p>Este tipo de fraudes web se usan en estafas conocidas como phishing, en las que páginas web y correos electrónicos fraudulentos son usados para imitar fuentes en las que vos podés confiar.</p>">
 
+<!ENTITY safeb.blocked.unwantedPage.title "¡Sitio de software no deseado informado!">
+<!-- Localization note (safeb.blocked.unwanted.shortDesc) - Please don't translate the contents of the <span id="unwanted_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
+<!ENTITY safeb.blocked.unwantedPage.shortDesc "Esta página web en <span id='unwanted_sitename'/> ha sido infromada que contiene software no deseado y ha sido bloqueada basada en tus preferencias de seguridad.">
+<!ENTITY safeb.blocked.unwantedPage.longDesc "Páginas de software no deseado tratan de instalar software que puede ser engañoso y afectar a tu sistema en formas inesperadas.">
