@@ -14,9 +14,9 @@
                        for the help button in the menubar but Gnome does not.   -->
 <!ENTITY helpMenuWin.label        "Trợ giúp"> 
 <!ENTITY helpMenuWin.accesskey    "T">
-<!ENTITY aboutProduct2.label      "Thông tin về &brandShortName;">
+<!ENTITY aboutProduct2.label      "Thông tin về &brandShorterName;">
 <!ENTITY aboutProduct2.accesskey  "v">
-<!ENTITY productHelp2.label       "Trợ giúp từ &brandShortName;">
+<!ENTITY productHelp2.label       "Trợ giúp từ &brandShorterName;">
 <!ENTITY productHelp2.accesskey   "T">
 <!ENTITY helpMac.commandkey       "?">
 
@@ -26,7 +26,7 @@
 <!ENTITY helpSafeMode.label       "Khởi động lại và vô hiệu hóa Tiện ích…">
 <!ENTITY helpSafeMode.accesskey   "K">
 
-<!ENTITY healthReport2.label      "Các thông số của &brandShortName;">
+<!ENTITY healthReport2.label      "Các thông số của &brandShorterName;">
 <!ENTITY healthReport2.accesskey  "s">
 
 <!ENTITY helpTroubleshootingInfo.label      "Thông tin xử lý sự cố">
@@ -35,7 +35,7 @@
 <!ENTITY helpFeedbackPage.label      "Gửi phản hồi…">
 <!ENTITY helpFeedbackPage.accesskey  "G">
 
-<!ENTITY helpShowTour2.label            "Hướng dẫn nhanh về &brandShortName;">
+<!ENTITY helpShowTour2.label            "Hướng dẫn nhanh về &brandShorterName;">
 <!ENTITY helpShowTour2.accesskey        "H">
 
 <!ENTITY preferencesCmdMac.label        "Tùy chỉnh…">
@@ -43,7 +43,7 @@
 
 <!ENTITY servicesMenuMac.label          "Dịch vụ">
 
-<!ENTITY hideThisAppCmdMac2.label       "Ẩn &brandShortName;">
+<!ENTITY hideThisAppCmdMac2.label       "Ẩn &brandShorterName;">
 <!ENTITY hideThisAppCmdMac2.commandkey  "H">
 
 <!ENTITY hideOtherAppsCmdMac.label      "Ẩn các chương trình khác">

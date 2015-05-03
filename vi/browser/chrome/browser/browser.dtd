@@ -605,12 +605,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY quitApplicationCmdWin2.label       "Thoát">
 <!ENTITY quitApplicationCmdWin2.accesskey   "o">
-<!ENTITY quitApplicationCmdWin2.tooltip     "Thoát &brandShortName;">
+<!ENTITY quitApplicationCmdWin2.tooltip     "Thoát &brandShorterName;">
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY goForwardCmd.commandKey "]">
 <!ENTITY quitApplicationCmd.label       "Thoát"> 
 <!ENTITY quitApplicationCmd.accesskey   "o">
-<!ENTITY quitApplicationCmdMac2.label   "Thoát &brandShortName;">
+<!ENTITY quitApplicationCmdMac2.label   "Thoát &brandShorterName;">
 <!-- LOCALIZATION NOTE(quitApplicationCmdUnix.key): This keyboard shortcut is used by both Linux and OSX builds. -->
 <!ENTITY quitApplicationCmdUnix.key     "Q">
 
@@ -814,7 +814,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      Note also that the deleteCookies, deleteHistory and deleteTabsAndWindows strings include <html:strong> tags for emphasis on the words "Cookies", "History", "Tabs" and "Windows".
      The translation should do the same. -->
 
-<!ENTITY panicButton.view.mainActionDesc          "Nếu tiếp tục, &brandShortName; sẽ:">
+<!ENTITY panicButton.view.mainActionDesc          "Nếu tiếp tục, chương trình sẽ:">
 <!ENTITY panicButton.view.deleteCookies           "Xóa <html:strong>những cookie gần đây</html:strong>">
 <!ENTITY panicButton.view.deleteHistory           "Xóa <html:strong>nhật ký duyệt web gần đây</html:strong>">
 <!ENTITY panicButton.view.deleteTabsAndWindows    "Đóng tất cả các <html:strong>tab</html:strong> và <html:strong>cửa sổ</html:strong>">
