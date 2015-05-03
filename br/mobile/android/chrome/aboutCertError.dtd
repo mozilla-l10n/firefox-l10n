@@ -15,7 +15,8 @@ by NSS/PSM via netError.xhtml. -->
 be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
 
-<!ENTITY certerror.introPara1 "Goulennet hoc'h eus digant &brandShortName; kennaskañ diarvar ouzh <b>#1</b>, met n'hallomp ket kadarnaat ez eo ho kennask diogel.">
+<!ENTITY certerror.introPara1 "Goulennet hoc'h eus digant &brandShortName; kennaskañ 
+diarvar ouzh <b>#1</b>, met n'hallomp ket kadarnaat ez eo ho kennask diogel.">
 
 <!ENTITY certerror.whatShouldIDo.heading "Petra e rankfen ober?">
 <!ENTITY certerror.whatShouldIDo.content "Mar kennaskit dre voaz ouzh al lec'hienn-mañ gant berzh, e talfe ar fazi-mañ ez eus un den bennak o klask kemer pivelezh al lec'hienn, ha ne rankfec'h ket kenderc'hel.">
