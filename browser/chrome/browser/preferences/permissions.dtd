@@ -23,6 +23,6 @@
 
 <!ENTITY button.cancel.label          "Atsisakyti">
 <!ENTITY button.cancel.accesskey      "A">
-
-
+<!ENTITY button.ok.label              "Išsaugoti pakeitimus">
+<!ENTITY button.ok.accesskey          "s">
 
