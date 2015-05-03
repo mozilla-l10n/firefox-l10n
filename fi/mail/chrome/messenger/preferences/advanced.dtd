@@ -3,20 +3,21 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY itemGeneral.label        "Yleiset">
+<!ENTITY dataChoicesTab.label    "Data Choices">
 <!ENTITY itemDisplay.label       "Lukeminen ja näyttö">
 <!ENTITY itemUpdate.label         "Päivitys">
 <!ENTITY itemNetworking.label    "Verkkoyhteys ja levytila">
 <!ENTITY itemCertificates.label  "Varmenteet">
 
 <!-- General Settings -->
-
-<!ENTITY submitTelemetry.label         "Lähetä suorityskykytietoja">
-<!ENTITY submitTelemetry.accesskey     "s">
-<!ENTITY telemetryInfoLink.label       "Lue lisää lähetyistä tiedoista">
 <!ENTITY enableGlodaSearch.label       "Ota käyttöön viestien yleishaku ja indeksoija">
 <!ENTITY enableGlodaSearch.accesskey   "O">
 <!ENTITY allowHWAccel.label            "Käytä laitteistokiihdytystä jos mahdollista">
 <!ENTITY allowHWAccel.accesskey        "l">
+<!ENTITY storeType.label               "Viestisäily uusilla tileillä:">
+<!ENTITY storeType.accesskey           "V">
+<!ENTITY mboxStore2.label              "Tiedosto jokaiselle kansiolle (mbox)">
+<!ENTITY maildirStore.label            "Tiedosto jokaiselle viestille (maildir)">
 
 <!ENTITY scrolling.label               "Vieritys">
 <!ENTITY useAutoScroll.label           "Vieritä sivua automaattisesti">
@@ -37,6 +38,19 @@
 <!ENTITY returnReceiptsInfo.label      "Aseta kuinka &brandShortName; käsittelee vastaanottokuittauksia">
 <!ENTITY showReturnReceipts.label      "Vastaanottokuittaukset…">
 <!ENTITY showReturnReceipts.accesskey  "V">
+
+<!-- Data Choices -->
+<!ENTITY telemetrySection.label          "Kaukomittaustiedot">
+<!ENTITY telemetryDesc.label             "Lähetä &vendorShortName;lle tietoja sähköpostiohjelman suorituskyvystä, käytöstä, muokkauksista ja käytetystä laitteistosta auttaaksesi meitä kehittämään &brandShortName;iä">
+<!ENTITY enableTelemetry.label           "Kaukomittaus päällä">
+<!ENTITY enableTelemetry.accesskey       "k">
+<!ENTITY telemetryLearnMore.label        "Lue lisää">
+
+<!ENTITY crashReporterSection.label      "Crash Reporter">
+<!ENTITY crashReporterDesc.label         "&brandShortName; lähettää tiedot kaatumisista &vendorShortName;lle, jotta voimme tehdä sähköpostiohjelmastasi vakaamman ja turvallisen">
+<!ENTITY enableCrashReporter.label       "Kaatumisilmoitukset käytössä">
+<!ENTITY enableCrashReporter.accesskey   "i">
+<!ENTITY crashReporterLearnMore.label    "Lue lisää">
 
 <!-- Display and Reading Settings -->
 <!ENTITY reading.caption               "Lukeminen">

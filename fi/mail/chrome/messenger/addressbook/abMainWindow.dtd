@@ -3,7 +3,8 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY addressbookWindow.title                         "Osoitekirja">
-
+<!ENTITY blankResultsPaneMessage.label                  "Tämä osoitekirja näyttää vain yhteystietoja vain haun jälkeen">
+<!ENTITY localResultsOnlyMessage.label                  "Yhteystietoja etäosoitekirjoista ei näytetä ennen hakua">
 <!-- File Menu -->
 <!ENTITY fileMenu.label                                  "Tiedosto">
 <!ENTITY fileMenu.accesskey                              "T">
@@ -160,6 +161,8 @@ because displayed names don't have the comma in between. -->
 <!ENTITY searchItem.title 				 "Pikahaku">
 
 <!-- Results Pane -->
+<!ENTITY Addrbook.label                                 "Osoitekirja">
+<!ENTITY Addrbook.accesskey                             "k">
 <!ENTITY GeneratedName.label                             "Nimi">
 <!ENTITY GeneratedName.accesskey                         "N">
 <!ENTITY PrimaryEmail.label                              "Sähköpostiosoite">
