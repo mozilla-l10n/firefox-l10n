@@ -26,7 +26,7 @@
 <!ENTITY  generalMetaName       "Nome">
 <!ENTITY  generalMetaContent    "Conteúdo">
 
-<!ENTITY  mediaTab              "Média">
+<!ENTITY  mediaTab              "Multimédia">
 <!ENTITY  mediaTab.accesskey    "M">
 <!ENTITY  mediaLocation         "Localização:">
 <!ENTITY  mediaText             "Texto Associado:">
@@ -41,7 +41,7 @@
 <!ENTITY  mediaSaveAs           "Guardar como...">
 <!ENTITY  mediaSaveAs.accesskey "G">
 <!ENTITY  mediaSaveAs2.accesskey "e">
-<!ENTITY  mediaPreview          "Pré-visualização de média:">
+<!ENTITY  mediaPreview          "Pré-visualização multimédia:">
 
 <!ENTITY  feedTab               "Fontes">
 <!ENTITY  feedTab.accesskey     "F">

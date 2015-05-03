@@ -36,7 +36,7 @@
 <!-- LOCALIZATION NOTE  (showMediaSidebar.label): This is the label on the context
      menu item to toggle showing @media rule shortcuts in a sidebar. -->
 
-<!ENTITY showMediaSidebar.label     "Mostrar barra lateral @media">
+<!ENTITY showMediaSidebar.label     "Mostrar barra lateral de @multimédia">
 <!-- LOCALIZATION NOTE  (showMediaSidebar.accesskey): This is the access key for
      the menu item to toggle showing the @media sidebar. -->
 
@@ -44,7 +44,7 @@
 <!-- LOCALICATION NOTE  (mediaRules.label): This is shown above the list of @media rules
      in each stylesheet editor sidebar. -->
 
-<!ENTITY mediaRules.label           "regras @media">
+<!ENTITY mediaRules.label           "Regras @media">
 
 <!ENTITY editorTextbox.placeholder  "Escreva o CSS aqui.">
 <!-- LOCALICATION NOTE  (noStyleSheet.label): This is shown when a page has no
