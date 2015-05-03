@@ -64,8 +64,8 @@
 <!ENTITY  allowPagesToUse.accesskey               "t">
 
 <!ENTITY languages.customize.Fallback2.grouplabel "Simbolių koduotė senam turiniui">
-
-
+<!ENTITY languages.customize.Fallback2.label      "Atsarginė teksto koduotė:">
+<!ENTITY languages.customize.Fallback2.accesskey  "t">
 <!ENTITY languages.customize.Fallback2.desc       "Ši simbolių koduotė bus naudojama atvaizduojant turinį, kuris neturi nurodytos koduotės.">
 
 <!ENTITY languages.customize.Fallback.auto        "Numatytoji šiai lokalei">
