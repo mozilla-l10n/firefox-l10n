@@ -244,7 +244,7 @@ size. -->
 <!ENTITY pref_font_size_preview_text "A raposa ultrapassa as expetativas com mais velocidade, maior flexibilidade e segurança. Como não lucrativa, somos livres para inovar por si sem pressões ou compromissos. Isto significa uma melhor experiência para si e um futuro brilhante para a web.">
 
 <!ENTITY pref_media_autoplay_enabled "Permitir reprodução automática">
-<!ENTITY pref_media_autoplay_enabled_summary "Define se os sítios web podem reproduzir automaticamente vídeos e outros tipos de media">
+<!ENTITY pref_media_autoplay_enabled_summary "Define se os sítios web podem reproduzir automaticamente vídeos e outros tipos de multimédia">
 <!ENTITY pref_zoom_force_enabled "Ativar sempre ampliação">
 <!ENTITY pref_zoom_force_enabled_summary "Forçar a ativação de ampliação em qualquer página">
 
