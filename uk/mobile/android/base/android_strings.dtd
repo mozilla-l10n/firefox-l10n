@@ -161,7 +161,7 @@
 <!ENTITY pref_category_home_summary "Налаштувати початкову сторінку">
 <!ENTITY pref_category_home_panels "Панелі">
 <!ENTITY home_add_panel_title "Додати нову панель">
-<!ENTITY home_add_panel_empty "Нажаль ми не знайшли жодних панелей, які можна було б додати.">
+<!ENTITY home_add_panel_empty "На жаль, ми не знайшли жодних панелей, які можна було б додати.">
 <!-- Localization note (home_add_panel_installed):
      The &formatS; will be replaced with the name of the new panel the user just
      selected to be added to the home page. -->
