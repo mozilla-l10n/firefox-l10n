@@ -25,6 +25,8 @@
 <!ENTITY contextAfterCls.label "Suodata roskapostiluokituksen jälkeen">
 <!ENTITY contextOutgoing.label "Lähettämisen jälkeen">
 <!ENTITY contextOutgoing.accesskey "L">
+<!ENTITY contextArchive.label "Arkistoitaessa">
+<!ENTITY contextArchive.accesskey "A">
 
 <!ENTITY filterActionDesc.label "Suorita nämä toiminnot:">
 <!ENTITY filterActionDesc.accesskey "o">
