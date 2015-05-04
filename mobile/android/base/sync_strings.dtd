@@ -150,6 +150,8 @@
      etc).  The account remains a "Firefox Account". -->
 <!ENTITY fxaccount_create_account_header2 'Krei konton de Firefox'>
 <!ENTITY fxaccount_create_account_password_length_restriction 'Ĝi devas enhavi minimume 8 signojn'>
+<!ENTITY fxaccount_create_account_day_of_birth 'Tago'>
+<!ENTITY fxaccount_create_account_month_of_birth 'Monato'>
 <!ENTITY fxaccount_create_account_year_of_birth 'Naskiĝjaro'>
 <!-- Localization note: &formatS1; is fxaccount_policy_linktos, &formatS2; is fxaccount_policy_linkprivacy, both hyperlinked. -->
 <!ENTITY fxaccount_create_account_policy_text2 'Se vi daŭrigas, vi konsentas kun la &formatS1; kaj &formatS2; de la nubaj servoj de Firefox.'>
