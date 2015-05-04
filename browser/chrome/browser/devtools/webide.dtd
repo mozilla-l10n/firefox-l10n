@@ -94,7 +94,7 @@
 <!ENTITY details_location "Localização">
 <!ENTITY details_manifestURL "ID do aplicativo">
 <!ENTITY details_removeProject_button "Excluir projeto">
-
+<!ENTITY details_showPrepackageLog_button "Mostrar registro do pré-pacote">
 <!-- New App -->
 
 <!ENTITY newAppWindowTitle "Novo aplicativo">
@@ -193,3 +193,5 @@
      user to transfer authentication info by transferring a token. -->
 <!ENTITY wifi_auth_token_request "Se o seu outro dispositivo pede por um token em vez de um código QR, copie o valor abaixo para o seu outro dispositivo:">
 <!-- Logs panel -->
+
+<!ENTITY logs_title "Registros de comandos pré-empacotamento">
