@@ -489,6 +489,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY savePageCmd.label            "Salvar como…">
 <!ENTITY savePageCmd.accesskey        "v">
 <!-- alternate for content area context menu -->
+<!ENTITY savePageCmd.accesskey2       "P">
 <!ENTITY savePageCmd.commandkey       "s">
 <!ENTITY saveFrameCmd.label           "Salvar frame como…">
 <!ENTITY saveFrameCmd.accesskey       "l">
@@ -778,8 +779,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY trackingContentBlocked.options "Opções">
 <!ENTITY trackingContentBlocked.unblock2.label "Desativar proteção para este site">
 <!ENTITY trackingContentBlocked.unblock2.accesskey "D">
-
-
+<!ENTITY trackingContentBlocked.block.label "Ativar proteção">
+<!ENTITY trackingContentBlocked.block.accesskey "e">
 <!ENTITY trackingContentBlocked.disabled.message "A proteção antirrastreamento está desativada">
 
 <!ENTITY pointerLock.notification.message "Tecle ESC quando quiser exibi-lo.">
@@ -836,8 +837,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY processHang.debugScript.accessKey        "D">
 <!ENTITY processHang.terminatePlugin.label        "Interromper plugin">
 <!ENTITY processHang.terminatePlugin.accessKey    "p">
-
-
+<!ENTITY processHang.terminateProcess.label       "Parar processo web">
+<!ENTITY processHang.terminateProcess.accessKey   "w">
 
 <!ENTITY emeLearnMoreContextMenu.label            "Saiba mais sobre DRM…">
 <!ENTITY emeLearnMoreContextMenu.accesskey        "D">
