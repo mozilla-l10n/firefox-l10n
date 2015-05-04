@@ -6,7 +6,7 @@
 <!ENTITY addAccountDialog.style "width: 40em; min-height: 20em;">
 <!ENTITY addAccountDialog.accountName.label "Accountnaam:">
 <!ENTITY addAccountDialog.noAccountText "Het spijt ons, maar de huidige versie van &brandShortName; staat maar één account per online opslagservice toe.">
-<!ENTITY addAccountDialog.createAccountText2 "U kunt grote bijlagen verzenden via één van de vele online opslagservices. Stel een bestaande account in of maak een nieuwe aan.">
+<!ENTITY addAccountDialog.createAccountText2 "U kunt grote bijlagen verzenden via een van de vele online opslagservices. Stel een bestaande account in of maak een nieuwe aan.">
 <!ENTITY addAccountDialog.authorizing "Autorisatie controleren…">
 <!ENTITY addAccountDialog.error "Er is een fout opgetreden bij het instellen van de account!">
 <!ENTITY addAccountDialog.acceptButton.label "Account instellen">

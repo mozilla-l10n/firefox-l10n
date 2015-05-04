@@ -2,7 +2,7 @@
 <!ENTITY rights.locale-direction "ltr">
 <!ENTITY rights.title            "Over uw rechten">
 <!ENTITY rights.intro-header     "Over uw rechten">
-<!ENTITY rights.intro "&brandFullName; is gratis en opensourcesoftware, gebouwd door een gemeenschap van duizenden mensen over de hele wereld. Er zijn een paar zaken die u moet weten:">
+<!ENTITY rights.intro "&brandFullName; is vrije en opensourcesoftware, gebouwd door een gemeenschap van duizenden mensen over de hele wereld. Er zijn een paar zaken die u moet weten:">
 
 <!-- Note on pointa / pointb / pointc form:
      These points each have an embedded link in the HTML, so each point is
@@ -52,15 +52,15 @@
 <!ENTITY rights.webservices-e ", en de opties voor ‘Automatisch controleren op updates voor:’ uit te vinken.">
 
 <!-- intro paragraph for unbranded builds -->
-<!ENTITY rights.webservices-unbranded "Een overzicht van de in het product opgenomen websitediensten, samen met instructies over het uitschakelen ervan, indien van toepassing, dienen hier te worden bijgesloten.">
+<!ENTITY rights.webservices-unbranded "Een overzicht van de in het product opgenomen websitediensten, samen met instructies over het uitschakelen ervan, wanneer van toepassing, dienen hier te worden bijgesloten.">
 
 <!-- point 1 text for unbranded builds -->
 <!ENTITY rights.webservices-term1-unbranded "Servicevoorwaarden die van toepassing zijn op dit product dienen hier te worden genoemd.">
 
 <!-- points 1-7 text for branded builds -->
 <!ENTITY rights.webservices-term1 "&vendorShortName; kan de Diensten naar eigen goeddunken discontinueren of wijzigen.">
-<!ENTITY rights.webservices-term2 "U kunt deze Diensten gebruiken met de bijgeleverde versie van &brandShortName;, en hebt alle benodigde rechten om dit te doen. &vendorShortName; en zijn licentiegevers behouden alle overige rechten in de Diensten. Deze voorwaarden zijn niet bedoeld om enige rechten die zijn verleend onder opensourcelicenties welke van toepassing zijn op &brandShortName; en overeenkomende broncodeversies van &brandShortName; te beperken.">
+<!ENTITY rights.webservices-term2 "U kunt deze Diensten gebruiken met de bijgeleverde versie van &brandShortName;, en u hebt alle benodigde rechten om dit te doen. &vendorShortName; en zijn licentiegevers behouden alle overige rechten in de Diensten. Deze voorwaarden zijn niet bedoeld om enige rechten die zijn verleend onder opensourcelicenties welke van toepassing zijn op &brandShortName; en overeenkomende broncodeversies van &brandShortName; te beperken.">
 <!ENTITY rights.webservices-term3 "De Diensten worden aangeboden zonder enige garantie. &vendorShortName;, zijn medewerkers, licentiegevers en distributeurs wijzen alle uitdrukkelijke of impliciete garanties af, met inbegrip van, maar niet beperkt tot garanties van verhandelbaarheid en geschiktheid van de Diensten voor een bepaald doel. U draagt de volledige verantwoordelijkheid wat betreft het selecteren van de Diensten voor uw doeleinden en wat betreft de kwaliteit en prestaties van de Diensten. Sommige wetgevingen staan uitsluitingen of beperkingen van impliciete garanties niet toe, dus deze disclaimer is op u misschien niet van toepassing.">
 <!ENTITY rights.webservices-term4 "Behoudens zoals vereist bij de wet zijn &vendorShortName;, zijn medewerkers, licentiegevers en distributeurs niet aansprakelijk voor enige indirecte, speciale, incidentele, straffende of gevolgschade voortvloeiend uit of op enige manier verband houdend met het gebruik van &brandShortName; en de Diensten. De collectieve aansprakelijkheid onder deze voorwaarden zal het bedrag van $500 (vijfhonderd dollar) niet overschrijden. Sommige wetgevingen staan uitsluitingen of beperkingen van bepaalde garanties niet toe, dus deze uitsluiting en beperking is op u misschien niet van toepassing.">
 <!ENTITY rights.webservices-term5 "&vendorShortName; is te allen tijde gerechtigd deze voorwaarden te wijzigen. Deze voorwaarden mogen niet worden gewijzigd of geannuleerd zonder schriftelijke toestemming van &vendorShortName;.">
-<!ENTITY rights.webservices-term6 "Deze voorwaarden vallen onder de wetten van de staat Californië, U.S.A., met uitzondering van zijn bepalingen van internationaal privaatrecht. Indien één of meer van deze voorwaarden als ongeldig of onafdwingbaar worden beschouwd, blijven de overige bepalingen onverminderd van kracht. In geval van strijdigheid tussen een vertaalde versie van deze voorwaarden en de Engelse versie prevaleert de Engelse versie.">
+<!ENTITY rights.webservices-term6 "Deze voorwaarden vallen onder de wetten van de staat Californië, U.S.A., met uitzondering van zijn bepalingen van internationaal privaatrecht. Als een of meer van deze voorwaarden als ongeldig of onafdwingbaar worden beschouwd, blijven de overige bepalingen onverminderd van kracht. In geval van strijdigheid tussen een vertaalde versie van deze voorwaarden en de Engelse versie prevaleert de Engelse versie.">

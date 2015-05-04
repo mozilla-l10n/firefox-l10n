@@ -39,7 +39,7 @@
 
 <!ENTITY generic.title "Oei.">
 <!ENTITY generic.longDesc "
-<p>&brandShortName; kan om één of andere reden deze pagina niet laden.</p>
+<p>&brandShortName; kan om de een of andere reden deze pagina niet laden.</p>
 ">
 
 <!ENTITY malformedURI.title "Het adres is niet geldig">
