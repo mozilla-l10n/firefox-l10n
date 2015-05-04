@@ -6,8 +6,8 @@
 <!ENTITY calendar.calendar.label     "Agenda">
 <!ENTITY calendar.calendar.accesskey "A">
 
-<!ENTITY calendar.newevent.button.tooltip         "Een nieuwe gebeurtenis creëren" >
-<!ENTITY calendar.newtask.button.tooltip          "Een nieuwe taak creëren" >
+<!ENTITY calendar.newevent.button.tooltip         "Een nieuwe gebeurtenis maken" >
+<!ENTITY calendar.newtask.button.tooltip          "Een nieuwe taak maken" >
 
 <!ENTITY calendar.unifinder.todoitems.label       "Taken" >
 <!ENTITY calendar.unifinder.showcompletedtodos.label "Voltooide taken tonen">
