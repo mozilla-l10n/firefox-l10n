@@ -75,7 +75,7 @@
 <!ENTITY lightning.keys.todo.new "D">
 
 <!-- Account Central page -->
-<!ENTITY lightning.acctCentral.newCalendar.label "Een nieuwe agenda creëren">
+<!ENTITY lightning.acctCentral.newCalendar.label "Een nieuwe agenda maken">
 
 <!-- today-pane-specific -->
 <!ENTITY todaypane.showMinimonth.label "Minimaand tonen">

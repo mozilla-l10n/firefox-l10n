@@ -2,8 +2,8 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY wizard.title             "Nieuwe agenda creëren" >
-<!ENTITY wizard.label             "Een nieuwe agenda creëren" >
+<!ENTITY wizard.title             "Nieuwe agenda maken" >
+<!ENTITY wizard.label             "Een nieuwe agenda maken" >
 <!ENTITY wizard.description       "Uw agenda lokaliseren" >
 
 <!ENTITY initialpage.description    "Uw agenda kan op uw eigen computer of op een andere computer worden opgeslagen, zodat deze op afstand te bereiken is door bijvoorbeeld vrienden of collega’s." >
@@ -18,5 +18,5 @@
 <!ENTITY custompage.shortdescription  "Uw agenda aanpassen" >
 <!ENTITY custompage.longdescription   "U kunt uw agenda een eigen naam geven, en de gebeurtenissen in deze agenda een eigen kleur." >
 
-<!ENTITY finishpage.shortdescription  "Agenda gecreëerd" >
-<!ENTITY finishpage.longdescription   "Uw agenda is gecreëerd." >
+<!ENTITY finishpage.shortdescription  "Agenda gemaakt" >
+<!ENTITY finishpage.longdescription   "Uw agenda is gemaakt." >
