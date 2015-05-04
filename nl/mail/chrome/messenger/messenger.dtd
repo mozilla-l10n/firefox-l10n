@@ -171,7 +171,7 @@
 <!ENTITY sortByDateCmd.label "Datum">
 <!ENTITY sortByDateCmd.accesskey "D">
 <!ENTITY sortByReceivedCmd.label "Ontvangen">
-<!ENTITY sortByReceivedCmd.accesskey "v">
+<!ENTITY sortByReceivedCmd.accesskey "a">
 <!ENTITY sortByStarCmd.label "Ster">
 <!ENTITY sortByStarCmd.accesskey "S">
 <!ENTITY sortByAttachmentsCmd.label "Bijlagen">
@@ -185,7 +185,7 @@
 <!ENTITY sortByTagsCmd.label "Labels">
 <!ENTITY sortByTagsCmd.accesskey "L">
 <!ENTITY sortByJunkStatusCmd.label "Ongewenstberichtstatus">
-<!ENTITY sortByJunkStatusCmd.accesskey "i">
+<!ENTITY sortByJunkStatusCmd.accesskey "h">
 <!ENTITY sortBySubjectCmd.label "Onderwerp">
 <!ENTITY sortBySubjectCmd.accesskey "w">
 <!ENTITY sortByFromCmd.label "Van">
@@ -199,12 +199,12 @@
 <!ENTITY sortAscending.label "Oplopend">
 <!ENTITY sortAscending.accesskey "O">
 <!ENTITY sortDescending.label "Aflopend">
-<!ENTITY sortDescending.accesskey "A">
+<!ENTITY sortDescending.accesskey "f">
 <!ENTITY sortThreaded.label "Conversaties">
 <!ENTITY sortThreaded.accesskey "C">
 <!ENTITY sortUnthreaded.label "Geen conversaties">
 <!ENTITY sortUnthreaded.accesskey "e">
-<!ENTITY groupBySort.label "Gegroepeerd op soort">
+<!ENTITY groupBySort.label "Gegroepeerd op sortering">
 <!ENTITY groupBySort.accesskey "G">
 <!ENTITY msgsMenu.label "Berichten">
 <!ENTITY msgsMenu.accesskey "B">

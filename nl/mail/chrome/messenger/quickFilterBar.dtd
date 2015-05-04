@@ -194,7 +194,7 @@
 <!-- LOCALIZATION NOTE (quickFilterBar.booleanModeAny.tooltip):
      Tooltip of the Any of / All of tagging mode selector.
      -->
-<!ENTITY quickFilterBar.booleanModeAny.tooltip "Minstens één van de geselecteerde labelcriteria moet overeenkomen">
+<!ENTITY quickFilterBar.booleanModeAny.tooltip "Minstens een van de geselecteerde labelcriteria moet overeenkomen">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.booleanModeAll.label):
      Tooltip of the Any of / All of tagging mode selector.
