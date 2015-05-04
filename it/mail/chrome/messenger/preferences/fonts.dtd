@@ -60,5 +60,5 @@
 <!ENTITY composingDescription2.label "Impostare la codifica di testo predefinita per inviare e ricevere la posta">
 <!ENTITY viewDefaultCharsetList.label "Posta in arrivo:">
 <!ENTITY viewDefaultCharsetList.accesskey "a">
-<!ENTITY replyInDefaultCharset3.label "Se possibile utilizzare la codifica del testo di default nelle risposte">
+<!ENTITY replyInDefaultCharset3.label "Se possibile utilizzare la codifica del testo predefinita nelle risposte">
 <!ENTITY replyInDefaultCharset3.accesskey "S">
