@@ -386,6 +386,7 @@
 <!ENTITY exit_guest_session_text "I dati relativi a questa sessione di navigazione verranno eliminati.">
 <!ENTITY ellipsis "…">
 <!ENTITY colon ":">
+<!ENTITY percent "&formatS;&#37;&#37;">
 <!ENTITY actionbar_menu "Menu">
 <!ENTITY actionbar_done "Fatto">
 <!ENTITY voicesearch_prompt "Parla ora">
