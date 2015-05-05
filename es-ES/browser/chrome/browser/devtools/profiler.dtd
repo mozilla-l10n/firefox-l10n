@@ -17,15 +17,21 @@
 <!ENTITY profilerUI.toolbar.js-flamegraph "Gráfico de llamarada JS">
 <!ENTITY profilerUI.toolbar.memory-flamegraph1 "Gráfico de llamaradas de asignaciones de memoria">
 <!ENTITY profilerUI.table.totalDuration2 "Tiempo total">
+<!ENTITY profilerUI.table.totalDuration.tooltip "La cantidad de tiempo empleada en esta función y las funciones a las que llama.">
 <!ENTITY profilerUI.table.selfDuration2 "Tiempo propio">
+<!ENTITY profilerUI.table.selfDuration.tooltip "La cantidad de tiempo empleada solo dentro de esta función.">
 <!ENTITY profilerUI.table.totalPercentage "Coste total">
+<!ENTITY profilerUI.table.totalPercentage.tooltip "El porcentaje de tiempo empleado en esta función y las funciones a las que llama.">
 <!ENTITY profilerUI.table.selfPercentage "Coste propio">
+<!ENTITY profilerUI.table.selfPercentage.tooltip "El porcentaje de tiempo empleado solo dentro de esta función.">
 <!ENTITY profilerUI.table.samples "Ejemplos">
+<!ENTITY profilerUI.table.samples.tooltip "El número de veces que esta función estaba en la pila cuando el analizador tomó una muestra.">
 <!ENTITY profilerUI.table.function "Función">
+<!ENTITY profilerUI.table.function.tooltip "El nombre y dirección de origen de la función muestreada.">
 <!ENTITY profilerUI.table.totalAlloc1 "Total de asignaciones de memoria muestreadas">
-<!ENTITY profilerUI.table.totalAllocTooltip "El número total de asignaciones de objetos muestreados en esta ubicación y en las llamadas.">
+<!ENTITY profilerUI.table.totalAlloc.tooltip "El número total de asignaciones de objeto recogidas en esta ubicación y sus objetos llamados.">
 <!ENTITY profilerUI.table.selfAlloc1 "Asignaciones de memoria automuestreadas">
-<!ENTITY profilerUI.table.selfAllocTooltip "El número de asignaciones de objetos muestreados en esta ubicación.">
+<!ENTITY profilerUI.table.selfAlloc.tooltip "El número de asignaciones de objeto recogidos en esta ubicación.">
 <!ENTITY profilerUI.newtab.tooltiptext "Añadir nueva pestaña a partir de la selección">
 <!ENTITY profilerUI.options.filter.tooltiptext "Seleccione qué datos mostrar en la línea de tiempos">
 <!ENTITY profilerUI.options.gear.tooltiptext "Configurar preferencias de rendimiento.">
