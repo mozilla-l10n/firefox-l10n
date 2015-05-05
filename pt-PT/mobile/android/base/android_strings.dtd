@@ -482,11 +482,11 @@ size. -->
 <!ENTITY home_remote_tabs_title "Separadores sincronizados">
 <!ENTITY home_remote_tabs_empty "Os seus separadores de outros dispositivos são apresentados aqui.">
 <!ENTITY home_remote_tabs_unable_to_connect "Não foi possível ligar">
-<!ENTITY home_remote_tabs_need_to_sign_in "Por favor, inicie sessão para restabelecer a ligação à sua Conta Firefox e continuar a sincronizar.">
+<!ENTITY home_remote_tabs_need_to_sign_in "Por favor inicie sessão para estabelecer a ligação à sua conta Firefox e continuar a sincronizar.">
 <!ENTITY home_remote_tabs_need_to_finish_migrating "A sua nova Conta Firefox está pronta!">
 
 <!ENTITY home_remote_tabs_trouble_verifying "Problemas ao confirmar a sua conta?">
-<!ENTITY home_remote_tabs_need_to_verify "Por favor confirme a sua Conta do Firefox para começar a sincronizar.">
+<!ENTITY home_remote_tabs_need_to_verify "Por favor confirme a sua conta do Firefox para começar a sincronizar.">
 
 <!ENTITY home_remote_tabs_one_hidden_device "1 dispositivo oculto">
 <!-- Localization note (home_remote_tabs_many_hidden_devices) : The
