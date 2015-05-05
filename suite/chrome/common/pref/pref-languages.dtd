@@ -18,10 +18,10 @@
 <!ENTITY languages.customize.active.accesskey           "L">
 <!ENTITY languages.customize.others.label               "其他：">
 <!ENTITY languages.customize.others.accesskey           "O">
-<!ENTITY languages.customize.Fallback.grouplabel        "老式内容的字符编码">
-<!ENTITY languages.customize.Fallback.label             "后备字符编码：">
-<!ENTITY languages.customize.Fallback.accesskey         "C">
-<!ENTITY languages.customize.Fallback.desc              "为没有或声明编码失败的内容使用。">
+<!ENTITY languages.customize.Fallback2.grouplabel       "旧式内容的文字编码">
+<!ENTITY languages.customize.Fallback2.label            "后备文字编码：">
+<!ENTITY languages.customize.Fallback2.accesskey        "T">
+<!ENTITY languages.customize.Fallback2.desc             "为没有或声明编码失败的内容使用。">
 <!-- LOCALIZATION NOTE  Character Encoding Preferences Dialog: Do NOT localize the terms "en-bz, ar-jo"  -->
 <!ENTITY languages.customize.others.examples            "如：en-bz，ar-jo">
 <!ENTITY languages.customize.moveUp.label               "上移">

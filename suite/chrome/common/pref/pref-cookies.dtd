@@ -14,7 +14,7 @@
 <!ENTITY accNo3rdPartyCookies.label     "只接受来自本网站的 Cookie （不接受第三方 Cookie）">
 <!ENTITY accNo3rdPartyCookies.accesskey "o">
 
-<!ENTITY acc3rdPartyVisited.label       "只允许之前访问过的网站保留第三方cookies">
+<!ENTITY acc3rdPartyVisited.label       "只允许之前访问过的网站保留第三方 Cookie">
 <!ENTITY acc3rdPartyVisited.accesskey   "v">
 
 <!ENTITY accAllCookies.label            "接受所有 cookie">

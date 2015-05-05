@@ -28,7 +28,7 @@
 <!ENTITY messengerStartPage.caption       "邮件起始页">
 <!ENTITY enableStartPage.label            "在登录邮箱后，在信息区域显示开始页面">
 <!ENTITY enableStartPage.accesskey        "W">
-<!ENTITY location.label                   "地点：">
+<!ENTITY location.label                   "位置：">
 <!ENTITY location.accesskey               "L">
 <!ENTITY useDefault.label                 "恢复默认值">
 <!ENTITY useDefault.accesskey             "D">

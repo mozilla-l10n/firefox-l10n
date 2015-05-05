@@ -48,10 +48,12 @@
 
 <!ENTITY cmd.open.label                  "打开">
 <!ENTITY cmd.open.accesskey              "O">
-<!ENTITY cmd.open_window.label           "在新窗口中打开">
-<!ENTITY cmd.open_window.accesskey       "N">
 <!ENTITY cmd.open_tab.label              "在新标签页中打开">
 <!ENTITY cmd.open_tab.accesskey          "w">
+<!ENTITY cmd.open_window.label           "在新窗口中打开">
+<!ENTITY cmd.open_window.accesskey       "N">
+<!ENTITY cmd.open_private.label          "在新隐身窗口中打开">
+<!ENTITY cmd.open_private.accesskey      "v">
 <!ENTITY cmd.open_all_in_tabs.label      "在标签页中打开书签组">
 <!ENTITY cmd.open_all_in_tabs.accesskey  "O">
 
@@ -77,7 +79,7 @@
 
 <!ENTITY col.title.label         "名称">
 <!ENTITY col.tags.label          "标签">
-<!ENTITY col.url.label           "位置">
+<!ENTITY col.url.label           "地址">
 <!ENTITY col.lastvisit.label     "访问日期">
 <!ENTITY col.visitcount.label    "访问次数">
 <!ENTITY col.keyword.label       "关键字">
