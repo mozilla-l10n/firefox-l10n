@@ -10,4 +10,4 @@
 <!ENTITY privatebrowsingpage.description            "在隐私浏览标签页，&brandShortName; 不会保存任何浏览历史、搜索历史、下载历史、表单历史、cookie 或者挽留过临时文件。但是，下载的文件和添加的书签将会保存下来。">
 <!ENTITY privatebrowsingpage.description.private    "&privatebrowsingpage.issueDesc.private; &privatebrowsingpage.description;">
 
-<!ENTITY privatebrowsingpage.moreInfo               "尽管设备本身不记录你的浏览历史，但你的互联网服务提供商仍然可以跟踪到你访问的页面。">
+<!ENTITY privatebrowsingpage.moreInfo               "尽管本设备不会记录您的浏览历史，但您的互联网服务提供商仍然可以跟踪到您访问过的页面。">
