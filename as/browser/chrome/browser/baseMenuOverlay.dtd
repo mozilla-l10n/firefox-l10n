@@ -14,10 +14,10 @@
                        for the help button in the menubar but Gnome does not.   -->
 <!ENTITY helpMenuWin.label        "সহায়"> 
 <!ENTITY helpMenuWin.accesskey    "H">
-
-
-
-
+<!ENTITY aboutProduct2.label      "&brandShorterName; ৰ বিষয়ে">
+<!ENTITY aboutProduct2.accesskey  "A">
+<!ENTITY productHelp2.label       "&brandShorterName; সহায়">
+<!ENTITY productHelp2.accesskey   "H">
 <!ENTITY helpMac.commandkey       "?">
 
 <!ENTITY helpKeyboardShortcuts.label     "কিবৰ্ড চৰ্টকাটসমূহ">
@@ -26,7 +26,8 @@
 <!ENTITY helpSafeMode.label       "এড-অন সমূহ অসামৰ্থবান থকাকে পুনৰাম্ভ কৰক…">
 <!ENTITY helpSafeMode.accesskey   "R">
 
-
+<!ENTITY healthReport2.label      "&brandShorterName; স্বাস্থ্য সংবাদ">
+<!ENTITY healthReport2.accesskey  "e">
 
 <!ENTITY helpTroubleshootingInfo.label      "সমস্যামুক্তিৰ তথ্য">
 <!ENTITY helpTroubleshootingInfo.accesskey  "T">
@@ -34,13 +35,15 @@
 <!ENTITY helpFeedbackPage.label      "সঁহাৰি জমা দিয়ক…">
 <!ENTITY helpFeedbackPage.accesskey  "S">
 
-
+<!ENTITY helpShowTour2.label            "&brandShorterName; ভ্ৰমণ">
+<!ENTITY helpShowTour2.accesskey        "o">
 
 <!ENTITY preferencesCmdMac.label        "পছন্দসমূহ…">
 <!ENTITY preferencesCmdMac.commandkey   ",">
 
 <!ENTITY servicesMenuMac.label          "সেৱাসমূহ">
 
+<!ENTITY hideThisAppCmdMac2.label       "&brandShorterName; লুকাওক">
 <!ENTITY hideThisAppCmdMac2.commandkey  "H">
 
 <!ENTITY hideOtherAppsCmdMac.label      "অন্য লুকাওক">

@@ -6,9 +6,12 @@
 <!ENTITY window.maxWidth              "400">
 
 <!ENTITY startSafeMode.label          "সুৰক্ষিত অৱস্থাত আৰম্ভ কৰক">
-
+<!ENTITY refreshProfile.label         "&brandShortName; সতেজ কৰক">
 
 <!ENTITY safeModeDescription3.label   "সুৰক্ষিত অৱস্থা &brandShortName; ৰ এটা বিশেষ অৱস্থা যাক সমস্যাসমূহ সমস্যামুক্তি কৰিবলে ব্যৱহাৰ কৰিব পাৰি।">
 <!ENTITY safeModeDescription4.label   "আপোনাৰ এড-অনসমূহ আৰু স্বনিৰ্বাচিত সংহতিসমূহ অস্থায়ীভাৱে অসামৰ্থবান কৰা হব।">
 
+<!ENTITY refreshProfileInstead.label  "আপুনি সমস্যামুক্তি বাদ দি &brandShortName; সতেজ কৰাৰ চেষ্টা কৰিব পাৰে।">
 <!-- LOCALIZATION NOTE (autoSafeModeDescription3.label): Shown on the safe mode dialog after multiple startup crashes. See also chrome/global/resetProfile.dtd -->
+
+<!ENTITY autoSafeModeDescription3.label "&brandShortName; আৰম্ভ হওতে অপ্ৰত্যাশিতভাৱে বন্ধ হল। ই এড-অনসমূহ অথবা অন্য সমস্যাৰ বাবে হব পাৰে। আপুনি সুৰক্ষিত অৱস্থাত সমস্যামুক্তি কৰি সমস্যাৰ সমাধান কৰিবলে চেষ্টা কৰিব পাৰে।">

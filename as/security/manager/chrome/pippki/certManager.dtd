@@ -79,8 +79,8 @@
 <!ENTITY certmgr.details.accesskey            "F">
 <!ENTITY certmgr.fields.label                 "ক্ষেত্ৰৰ মান">
 <!ENTITY certmgr.fields.accesskey             "V">
-
-
+<!ENTITY certmgr.hierarchy.label              "প্ৰমাণপত্ৰৰ অধিক্ৰম">
+<!ENTITY certmgr.hierarchy.accesskey2         "H">
 <!ENTITY certmgr.addException.label           "ব্যতিক্ৰম যোগ কৰক…">
 <!ENTITY certmgr.addException.accesskey       "x">
 

@@ -31,11 +31,13 @@
 <!ENTITY alwaysAsk.label "ফাইলসমূহ ক'ত সংৰক্ষণ কৰা হব মোক সদায় সোধিব">
 <!ENTITY alwaysAsk.accesskey "A">
 
-
-
-
+<!ENTITY alwaysCheckDefault2.label        "&brandShortName; আপোনাৰ অবিকল্পিত ব্ৰাউছাৰ হয় নে সদায় নিৰীক্ষণ কৰিব">
+<!ENTITY alwaysCheckDefault2.accesskey    "w">
+<!ENTITY setAsMyDefaultBrowser2.label     "অবিকল্পিত বনাওক">
+<!ENTITY setAsMyDefaultBrowser2.accesskey "D">
 <!ENTITY isDefault.label                  "&brandShortName; বৰ্তমানে আপোনাৰ অবিকল্পিত ব্ৰাউছাৰ">
 <!ENTITY isNotDefault.label               "&brandShortName; বৰ্তমানে আপোনাৰ অবিকল্পিত ব্ৰাউছাৰ নহয়">
 
-
-
+<!ENTITY separateProfileMode.label        "&brandShortName; আৰু Firefox ক একে সময়তে চলাৰ অনুমতি দিয়ক">
+<!ENTITY useFirefoxSync.label             "সহায়: ই বিভিন্ন আলেখ্যসমূহ ব্যৱহাৰ কৰে। সিহতৰ মাজত তথ্য অংশীদাৰী কৰিবলে সংমিহলি ব্যৱহাৰ কৰক।">
+<!ENTITY getStarted.label                 "সংমিহলি ব্যৱহাৰ কৰা আৰম্ভ কৰক…">
