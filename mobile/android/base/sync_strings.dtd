@@ -140,7 +140,7 @@
 <!ENTITY fxaccount_policy_linktos "Termos do serviço">
 <!ENTITY fxaccount_policy_linkprivacy "Informação sobre a privacidade">
 
-<!ENTITY fxaccount_getting_started_welcome_to_sync "Bem vindo ao &syncBrand.shortName.label;">
+<!ENTITY fxaccount_getting_started_welcome_to_sync "Bem-vindo ao &syncBrand.shortName.label;">
 <!ENTITY fxaccount_getting_started_description "Inicie sessão para sincronizar separadores, marcadores, palavras-passe e mais.">
 <!ENTITY fxaccount_getting_started_get_started "Começar">
 <!ENTITY fxaccount_getting_started_old_firefox "A usar uma versão antiga do &syncBrand.shortName.label;?">
@@ -203,11 +203,11 @@
 <!ENTITY fxaccount_status_device_name "Nome do dispositivo">
 <!ENTITY fxaccount_status_sync_server "Servidor de sincronização">
 <!ENTITY fxaccount_status_sync "&syncBrand.shortName.label;">
-<!ENTITY fxaccount_status_sync_enabled "&syncBrand.shortName.label;: ativado">
+<!ENTITY fxaccount_status_sync_enabled "&syncBrand.shortName.label;: ativo">
 <!ENTITY fxaccount_status_needs_verification2 "A sua conta tem de ser verificada. Toque para reenviar mensagem de verificação.">
 <!ENTITY fxaccount_status_needs_credentials "Não é possível ligar. Toque para iniciar.">
 <!ENTITY fxaccount_status_needs_upgrade "Tem de atualizar o &brandShortName; para iniciar sessão.">
-<!ENTITY fxaccount_status_needs_master_sync_automatically_enabled "&syncBrand.shortName.label; está configurado, mas não está a sincronizar automaticamente. Ative “Sincronizar dados automaticamente” nas definições do Android &gt; Utilização de dados.">
+<!ENTITY fxaccount_status_needs_master_sync_automatically_enabled "O &syncBrand.shortName.label; está configurado, mas não está a sincronizar automaticamente. Ative “Sincronizar dados automaticamente” nas definições do Android &gt; Utilização de dados.">
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled_v21 "O &syncBrand.shortName.label; está configurado, mas não está a sincronizar automaticamente. Ative a opção “Sincronização automática” no menu Definições do Android &gt; Contas.">
 <!ENTITY fxaccount_status_needs_finish_migrating "Toque para iniciar sessão na sua nova Conta Firefox.">
 <!ENTITY fxaccount_status_bookmarks "Marcadores">
@@ -264,7 +264,7 @@
      with the Firefox Account's email address. -->
 <!ENTITY fxaccount_sync_sign_in_error_notification_text2 "Toque para iniciar sessão como &formatS;">
 
-<!ENTITY fxaccount_sync_finish_migrating_notification_title "Terminar a atualização do &syncBrand.shortName.label;?">
+<!ENTITY fxaccount_sync_finish_migrating_notification_title "Terminar atualização do &syncBrand.shortName.label;?">
 <!-- Localization note: the format string below will be replaced
      with the Firefox Account's email address. -->
 <!ENTITY fxaccount_sync_finish_migrating_notification_text "Toque para iniciar sessão como &formatS;">
