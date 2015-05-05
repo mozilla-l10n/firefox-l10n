@@ -22,7 +22,7 @@
 <!ENTITY  generalReferrer       "อ้างอิงจาก URL :">
 <!ENTITY  generalSource         "ตำแหน่งแคช :">
 <!ENTITY  generalModified       "วันที่แก้ไข :">
-
+<!ENTITY  generalEncoding2      "รหัสอักขระ:">
 <!ENTITY  generalMetaName       "ชื่อ">
 <!ENTITY  generalMetaContent    "เนื้อหา">
 
