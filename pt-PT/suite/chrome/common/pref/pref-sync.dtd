@@ -25,7 +25,7 @@
 <!ENTITY changePassword.label         "Mudar palavra-passe">
 <!ENTITY changePassword.accesskey     "M">
 <!ENTITY myRecoveryKey.label          "Minha chave de recuperação">
-<!ENTITY myRecoveryKey.accesskey      "c">
+<!ENTITY myRecoveryKey.accesskey      "M">
 <!ENTITY resetSync.label              "Reiniciar Sync">
 <!ENTITY resetSync.accesskey          "e">
 <!ENTITY unlinkDevice.label           "Desassociar este dispositivo">

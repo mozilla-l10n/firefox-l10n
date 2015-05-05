@@ -16,7 +16,7 @@
 <!ENTITY closeOtherTabs.label "Fechar outros separadores">
 <!ENTITY closeOtherTabs.accesskey "t">
 
-<!ENTITY uploadFile.label "Carregar ficheiro…">
+<!ENTITY uploadFile.label "Enviar ficheiro…">
 <!ENTITY uploadFile.accesskey "f">
 
 <!ENTITY printSetupCmd.label "Configuração de página…">
