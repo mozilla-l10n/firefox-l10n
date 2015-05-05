@@ -111,8 +111,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY fxaSignIn.label "Iniciar sessão no &syncBrand.shortName.label;">
 <!ENTITY fxaSignInError.label "Ligar novamente ao &syncBrand.shortName.label;">
-<!ENTITY syncStartPanel2.heading "&syncBrand.shortName.label; ativada">
-<!ENTITY syncStartPanel2.subTitle "O &brandShortName; vai iniciar a sincronização em breve.">
+<!ENTITY syncStartPanel2.heading "&syncBrand.shortName.label; ativo">
+<!ENTITY syncStartPanel2.subTitle "O &brandShortName; iniciará a sincronização brevemente.">
 <!ENTITY syncErrorPanel.heading "Não é possível ligar ao &syncBrand.shortName.label;">
 <!ENTITY syncErrorPanel.subTitle "Inicie sessão para continuar a sincronização.">
 <!ENTITY syncErrorPanel.signInButton.label "Iniciar sessão">
@@ -693,15 +693,15 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY syncTabsMenu2.label     "Separadores de outros dispositivos">
 
-<!ENTITY syncBrand.shortName.label    "Sincronizar">
+<!ENTITY syncBrand.shortName.label    "Sync">
 
 <!ENTITY syncSetup.label              "Configurar o &syncBrand.shortName.label;">
 <!ENTITY syncSetup.accesskey          "C">
 <!ENTITY syncSyncNowItem.label        "Sincronizar agora">
 <!ENTITY syncSyncNowItem.accesskey    "S">
-<!ENTITY syncReAuthItem.label         "Religar ao &syncBrand.shortName.label;…">
-<!ENTITY syncReAuthItem.accesskey     "R">
-<!ENTITY syncToolbarButton.label      "Sincronizar">
+<!ENTITY syncReAuthItem.label         "Estabelecer nova ligação ao &syncBrand.shortName.label;…">
+<!ENTITY syncReAuthItem.accesskey     "r">
+<!ENTITY syncToolbarButton.label      "Sync">
 
 <!ENTITY socialToolbar.title        "Botão da barra de ferramentas social">
 

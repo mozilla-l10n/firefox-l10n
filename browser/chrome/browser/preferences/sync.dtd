@@ -19,7 +19,7 @@
 <!ENTITY viewQuota.label              "Ver quota">
 <!ENTITY changePassword2.label        "Mudar palavra-passe...">
 <!ENTITY myRecoveryKey.label          "A minha chave de recuperação">
-<!ENTITY resetSync2.label             "Reiniciar o Sync">
+<!ENTITY resetSync2.label             "Redefinir o Sync…">
 
 <!ENTITY pairDevice.label             "Emparelhar um dispositivo">
 
