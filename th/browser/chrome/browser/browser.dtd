@@ -844,7 +844,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY emeNotificationsDontAskAgain.label       "ไม่ต้องถามฉันอีก">
 <!ENTITY emeNotificationsDontAskAgain.accesskey   "ม">
 
-
+<!ENTITY readingList.label                        "รายการอ่าน">
+<!ENTITY readingList.sidebar.commandKey           "R">
 
 <!-- Pre-landed string for bug 1124153 -->
 <!-- Pre-landed string for bug 1133662 -->
