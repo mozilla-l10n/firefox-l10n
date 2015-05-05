@@ -8,14 +8,8 @@
 
 <!ENTITY  locationBar.label             "Barra de direiciones">
 
-<!ENTITY  locbar.pre.label              "Cuando s'use la barra de direiciones, suxerir:">
-<!ENTITY  locbar.pre.accessKey          "u">
-<!ENTITY  locbar.post.label             "">
-<!ENTITY  locbar.both.label             "Historial y Marcadores">
 <!ENTITY  locbar.history.label          "Historial">
 <!ENTITY  locbar.bookmarks.label        "Marcadores">
-<!ENTITY  locbar.nothing.label          "Nada">
-
 
 <!ENTITY  acceptCookies.label           "Aceutar cookies de les webs">
 <!ENTITY  acceptCookies.accesskey       "c">
