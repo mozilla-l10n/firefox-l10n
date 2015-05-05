@@ -234,7 +234,7 @@
 <!ENTITY headersAllCmd.label "Todos">
 <!ENTITY headersAllCmd.accesskey "T">
 <!ENTITY headersNormalCmd.label "Normal">
-<!ENTITY headersNormalCmd.accesskey "m">
+<!ENTITY headersNormalCmd.accesskey "N">
 <!ENTITY bodyMenu.label "Texto da mensagem como">
 <!ENTITY bodyMenu.accesskey "o">
 <!ENTITY bodyAllowHTML.label "Formato HTML">
