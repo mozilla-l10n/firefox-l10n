@@ -70,10 +70,10 @@
 
 <!ENTITY sendDefaultCharset.label         "发送邮件：">
 <!ENTITY sendDefaultCharset.accesskey     "u">
-<!ENTITY languagesTitle1.label            "字符编码">
-<!ENTITY composingDescription.label       "设置发送和接收邮件时的默认字符编码">
+<!ENTITY languagesTitle2.label            "文字编码">
+<!ENTITY composingDescription2.label      "设置发送和接收邮件时的默认文字编码">
 
 <!ENTITY viewDefaultCharsetList.label     "接收邮件：">
 <!ENTITY viewDefaultCharsetList.accesskey  "I">
-<!ENTITY replyInDefaultCharset2.label     "尽可能使用默认字符编码回复">
-<!ENTITY replyInDefaultCharset2.accesskey "h">
+<!ENTITY replyInDefaultCharset3.label     "尽可能使用默认的文字编码进行回复">
+<!ENTITY replyInDefaultCharset3.accesskey "h">
