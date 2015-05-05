@@ -10,7 +10,7 @@
 <!ENTITY  overridePageColors.accesskey    "ക">
 
 <!ENTITY  overridePageColors.always.label "എപ്പോഴും">
-
+<!ENTITY  overridePageColors.auto.label   "കൂടിയ തീവ്രതയുള്ള പ്രമേയുങ്ങളില്‍ മാത്രം">
 <!ENTITY  overridePageColors.never.label  "ഒരിക്കലും ഇല്ല">
 
 <!ENTITY  color                           "ടെക്സ്റ്റും പശ്ചാത്തലവും">
