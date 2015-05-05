@@ -7,9 +7,9 @@
 
 
 
-<!ENTITY windowTitle.label "保存并改变字符编码">
+<!ENTITY windowTitle2.label "保存并更改文字编码">
 <!ENTITY documentTitleTitle.label "页面标题">
-<!ENTITY documentCharsetTitle.label "字符编码">
-<!ENTITY documentCharsetDesc.label "选择保存文档所用的字符编码:">
+<!ENTITY documentCharsetTitle2.label "文字编码">
+<!ENTITY documentCharsetDesc2.label "选择您保存文档所要用的文字编码：">
 <!ENTITY documentExportToText.label "导出至文本">
 

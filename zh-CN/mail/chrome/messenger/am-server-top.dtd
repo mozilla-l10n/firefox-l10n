@@ -74,7 +74,7 @@
 <!ENTITY abbreviateOff.label "缩写名（例如，'n.p.m.mail-news'）">
 <!ENTITY advancedButton.label "高级…">
 <!ENTITY advancedButton.accesskey "v">
-<!ENTITY serverDefaultCharset.label "默认字符编码:">
+<!ENTITY serverDefaultCharset2.label "默认文字编码：">
 <!ENTITY localPath.label "本地目录：">
 <!ENTITY localFolderPicker.label "选择本地文件夹">
 <!ENTITY browseFolder.label "浏览…">
@@ -86,5 +86,5 @@
 <!ENTITY accountSettingsDesc.label "以下是特殊帐户。没有相关标识。">
 <!ENTITY storeType.label "消息存储方式：">
 <!ENTITY storeType.accesskey "T">
-<!ENTITY mboxStore.label "单一大文件（mbox）">
+<!ENTITY mboxStore2.label "为每个文件夹创建文件 (mbox)">
 <!ENTITY maildirStore.label "为每条消息创建文件（maildir）">

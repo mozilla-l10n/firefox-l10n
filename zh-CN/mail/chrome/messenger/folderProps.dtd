@@ -5,17 +5,17 @@
 <!ENTITY folderProps.windowtitle.label           "属性">
 
 <!ENTITY generalInfo.label                       "基本信息">
-<!ENTITY folderCharsetFallback.label             "后备字符编码：">
-<!ENTITY folderCharsetFallback.accesskey         "E">
-<!ENTITY folderCharsetEnforce.label              "将编码应用到文件夹中的所有邮件（单独的邮件字符编码设置和自动检测结果将被忽略）">
-<!ENTITY folderCharsetEnforce.accesskey          "A">
+<!ENTITY folderCharsetFallback2.label            "后备文字编码：">
+<!ENTITY folderCharsetFallback2.accesskey        "E">
+<!ENTITY folderCharsetEnforce2.label             "应用编码到该文件夹中的所有消息（个别消息的文字编码设置和自动检测将被忽略）">
+<!ENTITY folderCharsetEnforce2.accesskey         "A">
 <!ENTITY folderRebuildSummaryFileTip2.label      "重建概要文件索引">
 <!ENTITY folderRebuildSummaryFile2.label         "修复文件夹">
 <!ENTITY folderRebuildSummaryFile2.accesskey     "R">
 <!ENTITY folderRebuildSummaryFile.explanation    "有时候文件夹索引文件(.msf)被损坏并且出现邮件丢失或者已删除的邮件又重新出现的现象，修复此文件夹可以修复这类问题。">
 <!ENTITY folderIncludeInGlobalSearch.label       "在全局搜索结果中包含这个文件夹的邮件">
 <!ENTITY folderIncludeInGlobalSearch.accesskey   "G">
-     
+
 <!ENTITY retention.label "保留策略">
 <!ENTITY retentionUseAccount.label  "使用我的帐户设置">
 <!ENTITY retentionUseAccount.accesskey "U">

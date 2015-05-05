@@ -40,6 +40,7 @@
 <!ENTITY threadColumn.label "话题">
 <!ENTITY fromColumn.label "发件人">
 <!ENTITY recipientColumn.label "收件人">
+<!ENTITY correspondentColumn.label "通信者">
 <!ENTITY subjectColumn.label "主题">
 <!ENTITY dateColumn.label "日期">
 <!ENTITY priorityColumn.label "优先级">
@@ -61,6 +62,7 @@
 <!ENTITY threadColumn2.tooltip "显示消息话题">
 <!ENTITY fromColumn2.tooltip "按发件人排序">
 <!ENTITY recipientColumn2.tooltip "按收件人排序">
+<!ENTITY correspondentColumn2.tooltip "按通信者排序">
 <!ENTITY subjectColumn2.tooltip "按主题排序">
 <!ENTITY dateColumn2.tooltip "按日期排序">
 <!ENTITY priorityColumn2.tooltip "按优先级排序">

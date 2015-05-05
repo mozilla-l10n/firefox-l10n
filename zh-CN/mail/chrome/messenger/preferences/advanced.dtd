@@ -16,7 +16,7 @@
 <!ENTITY allowHWAccel.accesskey        "h">
 <!ENTITY storeType.label               "新账户的消息存储类型：">
 <!ENTITY storeType.accesskey           "T">
-<!ENTITY mboxStore.label               "一个大文件（邮件容器）">
+<!ENTITY mboxStore2.label              "每个文件夹一个文件 (mbox)">
 <!ENTITY maildirStore.label            "每个消息一个文件（邮件文件夹）">
 
 <!ENTITY scrolling.label               "滚动">
