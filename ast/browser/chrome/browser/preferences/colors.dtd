@@ -6,9 +6,6 @@
 <!ENTITY  window.width                    "38em">
 <!ENTITY  window.macWidth                 "41em">
 
-<!ENTITY  allowPagesToUse.label           "Permitir a les páxines escoyer los sos propios colores, en cuenta de la mio seleición anterior.">
-<!ENTITY  allowPagesToUse.accesskey       "P">
-
 <!ENTITY  color                           "Testu y fondu">
 <!ENTITY  textColor.label                 "Testu:">
 <!ENTITY  textColor.accesskey             "T">
