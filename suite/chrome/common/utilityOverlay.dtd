@@ -115,7 +115,7 @@
 <!ENTITY direct.accesskey                               "n">
 <!ENTITY manual.label                                   "Ligado (proxy: manual)">
 <!ENTITY manual.accesskey                               "m">
-<!ENTITY pac.label                                      "Ligado (proxy: auto)">
+<!ENTITY pac.label                                      "Ligado (servidor proxy automático)">
 <!ENTITY pac.accesskey                                  "a">
 <!ENTITY wpad.label                                     "Ligado (Proxy: Auto Descobrir)">
 <!ENTITY wpad.accesskey                                 "D">
