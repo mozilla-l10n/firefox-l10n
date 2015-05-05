@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!-- The page shown when not logged in... -->
 
-<!ENTITY setupButton.label          "Configurar &syncBrand.fullName.label;">
+<!ENTITY setupButton.label          "Configurar o &syncBrand.fullName.label;">
 <!ENTITY setupButton.accesskey      "C">
 <!ENTITY weaveDesc.label            "O &syncBrand.fullName.label; permite-lhe aceder ao seu histórico, marcadores, palavras-passe e separadores em todos os seus dispositivos.">
 <!-- The page shown when logged in... -->
@@ -26,8 +26,8 @@
 <!ENTITY changePassword.accesskey     "M">
 <!ENTITY myRecoveryKey.label          "Minha chave de recuperação">
 <!ENTITY myRecoveryKey.accesskey      "M">
-<!ENTITY resetSync.label              "Reiniciar Sync">
-<!ENTITY resetSync.accesskey          "e">
+<!ENTITY resetSync.label              "Redefinir o Sync">
+<!ENTITY resetSync.accesskey          "R">
 <!ENTITY unlinkDevice.label           "Desassociar este dispositivo">
 <!ENTITY unlinkDevice.accesskey       "D">
 <!ENTITY addDevice.label              "Adicionar dispositivo">
@@ -37,7 +37,7 @@
 <!ENTITY syncComputerName.label       "Nome do Computador:">
 <!ENTITY syncComputerName.accesskey   "N">
 
-<!ENTITY syncMy2.label              "Sincronizar">
+<!ENTITY syncMy2.label              "Sincronizar:">
 <!ENTITY engine.addons.label        "Extras">
 <!ENTITY engine.addons.accesskey    "a">
 <!ENTITY engine.bookmarks.label     "Marcadores">

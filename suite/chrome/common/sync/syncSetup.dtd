@@ -6,19 +6,19 @@
 <!-- First page of the wizard -->
 
 
-<!ENTITY setup.pickSetupType.description "Bem-vindo, se nunca usou o &syncBrand.fullName.label; antes, precisa de criar uma noca conta.">
+<!ENTITY setup.pickSetupType.description "Bem-vindo, se nunca usou o &syncBrand.fullName.label; antes, precisa de criar uma nova conta.">
 <!ENTITY button.createNewAccount.label "Criar uma Nova Conta">
 <!ENTITY setup.haveAccount.label "Já tenho uma conta do &syncBrand.fullName.label;.">
 <!ENTITY button.connect.label "Ligar">
 
-<!ENTITY setup.choicePage.title.label     "Já usou o  &syncBrand.fullName.label; antes?">
-<!ENTITY setup.choicePage.new.label       "Nunca usei o &syncBrand.shortName.label; antes">
+<!ENTITY setup.choicePage.title.label     "Já usou o &syncBrand.fullName.label; antes?">
+<!ENTITY setup.choicePage.new.label       "Nunca usei o &syncBrand.shortName.label;">
 <!ENTITY setup.choicePage.existing.label  "Já estou a usar o &syncBrand.shortName.label; noutro computador">
 <!-- New Account AND Existing Account -->
 
 <!ENTITY server.label               "Servidor">
 <!ENTITY server.accesskey           "S">
-<!ENTITY serverType.main.label      "Servidor &syncBrand.fullName.label;">
+<!ENTITY serverType.main.label      "Servidor do &syncBrand.fullName.label;">
 <!ENTITY serverType.custom2.label   "Usar um servidor específico">
 <!ENTITY signIn.account2.label      "Conta">
 <!ENTITY signIn.account2.accesskey  "a">

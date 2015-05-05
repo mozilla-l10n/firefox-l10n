@@ -63,8 +63,8 @@
 <!ENTITY emptyTrashCmd.accesskey  "x">
 <!ENTITY offlineMenu.label "Modo desligado">
 <!ENTITY offlineMenu.accesskey "l">
-<!ENTITY synchronizeOfflineCmd.label "Transferir/Sincronizar...">
-<!ENTITY synchronizeOfflineCmd.accesskey "S">
+<!ENTITY synchronizeOfflineCmd.label "Transferir/sincronizar agora...">
+<!ENTITY synchronizeOfflineCmd.accesskey "s">
 <!ENTITY settingsOfflineCmd.label "Definições do modo desligado...">
 <!ENTITY settingsOfflineCmd.accesskey "e">
 <!ENTITY downloadSelectedCmd.label "Obter mensagens selecionadas">
