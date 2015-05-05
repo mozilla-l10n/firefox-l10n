@@ -82,7 +82,7 @@
 <!-- LOCALIZATION NOTE (netmonitorUI.tab.security): This is the label displayed
   -  in the network details pane identifying the security tab. -->
 
-<!ENTITY netmonitorUI.tab.security        "Diogelroez">
+<!ENTITY netmonitorUI.tab.security        "Security">
 <!-- LOCALIZATION NOTE (netmonitorUI.footer.filterAll): This is the label displayed
   -  in the network details footer for the "All" filtering button. -->
 
@@ -241,7 +241,7 @@
 <!-- LOCALIZATION NOTE (netmonitorUI.security.certificate): This is the label displayed
   -  in the security tab describing the server certificate section. -->
 
-<!ENTITY netmonitorUI.security.certificate "Testeni :">
+<!ENTITY netmonitorUI.security.certificate "Certificate:">
 <!-- LOCALIZATION NOTE (netmonitorUI.context.perfTools): This is the label displayed
   -  on the context menu that shows the performance analysis tools -->
 
