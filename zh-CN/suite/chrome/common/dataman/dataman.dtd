@@ -7,7 +7,7 @@
 <!ENTITY selectAll.key "a">
 
 <!ENTITY select.all.label "所有数据类型">
-<!ENTITY select.cookies.label "仅 Cookies">
+<!ENTITY select.cookies.label "仅 Cookie">
 <!ENTITY select.permissions.label "仅权限">
 <!ENTITY select.preferences.label "仅首选项">
 <!ENTITY select.passwords.label "仅密码">

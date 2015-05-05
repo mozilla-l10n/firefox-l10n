@@ -12,7 +12,7 @@
 <!ENTITY  prefWindow.size             "width: 58em; height: 41em;">
 <!-- pref-tabs.xul -->
 
-<!ENTITY urlbar.label                 "在地址栏按&#8984;+Return">
+<!ENTITY urlbar.label                 "在地址栏中按 &#8984;+Return">
 <!ENTITY urlbar.accesskey             "L">
 <!ENTITY middleClick.label            "在链接上单击鼠标中键，或 &#8984;+单击 或 &#8984;+Return">
 <!ENTITY middleClick.accesskey        "M">

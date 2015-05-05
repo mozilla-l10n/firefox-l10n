@@ -47,9 +47,9 @@
 <!ENTITY bookmarkLinksCmd.label         "将这些链接加为书签">
 <!ENTITY bookmarkLinksCmd.accesskey     "B">
 
-<!ENTITY col.title.label                "职位">
+<!ENTITY col.title.label                "标题">
 <!ENTITY col.title.accesskey            "T">
-<!ENTITY col.url.label                  "地点">
+<!ENTITY col.url.label                  "地址">
 <!ENTITY col.url.accesskey              "L">
 <!ENTITY col.lastvisit.label            "最后访问时间">
 <!ENTITY col.lastvisit.accesskey        "V">

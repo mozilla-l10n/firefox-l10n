@@ -55,9 +55,9 @@
 <!ENTITY expungeOnExit.accesskey "E">
 <!ENTITY emptyTrashOnExit.label "退出时清空“废件箱”">
 <!ENTITY emptyTrashOnExit.accesskey "x">
-<!ENTITY loginAtStartup.label "启动时检查新消息"> 
+<!ENTITY loginAtStartup.label "启动时检查新消息">
 <!ENTITY loginAtStartup.accesskey "C">
-<!-- LOCALIZATION NOTE (maxMessagesStart.label) : translate below 2 lines with grammar dependency 
+<!-- LOCALIZATION NOTE (maxMessagesStart.label) : translate below 2 lines with grammar dependency
     maxMessengerStart.label will be followed by maxMessagesEnd.label with the number
 	 of messages between them
 -->
@@ -73,7 +73,7 @@
 <!ENTITY abbreviateOn.label "全名（例如，'netscape.public.mozilla.mail-news'）">
 <!ENTITY abbreviateOff.label "缩写名（例如，'n.p.m.mail-news'）">
 <!ENTITY advancedButton.label "高级…">
-<!ENTITY serverDefaultCharset.label "默认字符编码:">
+<!ENTITY serverDefaultCharset2.label "默认文字编码：">
 <!ENTITY advancedButton.accesskey "v">
 <!ENTITY localPath.label "本地目录：">
 <!ENTITY localFolderPicker.label "选择本地文件夹">
@@ -84,3 +84,7 @@
 
 <!ENTITY accountTitle.label "帐户设置">
 <!ENTITY accountSettingsDesc.label "如下为特殊账户。它未和任何标识关联。">
+<!ENTITY storeType.label "消息存储方式：">
+<!ENTITY storeType.accesskey "T">
+<!ENTITY mboxStore2.label "每个文件夹一个文件 (mbox)">
+<!ENTITY maildirStore.label "每条消息一个文件 (maildir)">
