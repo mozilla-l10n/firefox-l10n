@@ -52,7 +52,7 @@
   -  in the call tree headers for a recording. -->
 
 <!ENTITY profilerUI.table.totalDuration2  "മൊത്തം സമയം">
-
+<!ENTITY profilerUI.table.selfDuration2   "സ്വന്തം സമയം">
 <!ENTITY profilerUI.table.totalPercentage "മൊത്തം വില">
 <!ENTITY profilerUI.table.selfPercentage  "മൊത്തം വില">
 <!ENTITY profilerUI.table.samples         "മാതൃകകള്‍">
@@ -71,18 +71,24 @@
   -  a checkbox that inverts and un-inverts the profiler's call tree. -->
 
 <!ENTITY profilerUI.invertTree             "കോള്‍ ട്രീ തിരിയ്ക്കുക">
-
+<!ENTITY profilerUI.invertTree.tooltiptext "കോള്‍ ട്രീ തിരിയ്ക്കുന്നതു്, ഏറ്റവും ചെറിയ ഫ്രെയിമുകള്‍ മുതല്‍ പഴയ ഫ്രെയിമുകള്‍ വരെയുള്ള പ്രൊഫൈല്‍ ചെയ്ത കോള്‍ പാഥുകള്‍ ലഭ്യമാക്കുന്നു.">
 <!-- LOCALIZATION NOTE (profilerUI.invertFlameGraph): This is the label shown next to
   -  a checkbox that inverts and un-inverts the profiler's flame graph. -->
 
+<!ENTITY profilerUI.invertFlameGraph             "ഫ്ലെയിം ചാര്‍ട്ട് തിരിയ്ക്കുക">
+<!ENTITY profilerUI.invertFlameGraph.tooltiptext "കോള്‍ ട്രീ തിരിയ്ക്കുന്നതു്, ഏറ്റവും ചെറിയ ഫ്രെയിമുകള്‍ മുതല്‍ പഴയ ഫ്രെയിമുകള്‍ വരെയുള്ള പ്രൊഫൈല്‍ ചെയ്ത കോള്‍ പാഥുകള്‍ ലഭ്യമാക്കുന്നു.">
 <!-- LOCALIZATION NOTE (profilerUI.showPlatformData): This is the
   -  label for the checkbox that toggles whether or not Gecko platform data
   -  is displayed in the profiler. -->
 
+<!ENTITY profilerUI.showPlatformData             "ജക്കോ പ്ലാറ്റ്ഫോ പ്ലാറ്റ്ഫോം കാണിയ്ക്കുക">
+<!ENTITY profilerUI.showPlatformData.tooltiptext "ജക്കോ പ്ലാറ്റ്ഫോ ഡേറ്റാ കാണിയ്ക്കുക">
 <!-- LOCALIZATION NOTE (profilerUI.flattenTreeRecursion): This is the
   -  label for the checkbox that toggles the flattening of tree recursion in inspected
   -  functions in the profiler. -->
 
+<!ENTITY profilerUI.flattenTreeRecursion             "ട്രീ റിക്കേര്‍ഷന്‍ ഇല്ലാതാക്കുക">
+<!ENTITY profilerUI.flattenTreeRecursion.tooltiptext "ഫംഗ്ഷനുകള്‍ നിരീക്ഷിയ്ക്കുമ്പോള്‍ റിക്കേര്‍ഷന്‍ ഇല്ലാതാക്കുക.">
 <!-- LOCALIZATION NOTE (profilerUI.enableMemory): This string
   -  is displayed next to a checkbox determining whether or not memory
   -  measurements are enabled. -->
