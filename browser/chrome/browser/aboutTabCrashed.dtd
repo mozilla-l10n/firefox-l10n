@@ -2,8 +2,10 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-
-
-
-
-
+<!ENTITY tabCrashed.header "বেয়া খবৰ প্ৰথমে: এই টেবৰ স্খলন হৈছে">
+<!ENTITY tabCrashed.message "এতিয়া ভাল খবৰ: আপুনি এই টেবক বন্ধ কৰিব পাৰে, ইয়াক পুনৰুদ্ধাৰ কৰিব পাৰে অথবা আপোনাৰ সকলো স্খলিত টেব পুনৰুদ্ধাৰ কৰিব পাৰে।">
+<!ENTITY tabCrashed.sendReport "অধিক বেয়া খবৰ প্ৰতিৰোধ কৰিবলে এটা স্খলন সংবাদ জমা দিয়ক">
+<!ENTITY tabCrashed.reportSent "স্খলন সংবাদ ইতিমধ্যে জমা দিয়া হৈছে; &brandShortName; ক উন্নত কৰাত সহায় কৰা বাবে ধন্যবাদ!">
+<!ENTITY tabCrashed.closeTab "এই টেব বন্ধ কৰক">
+<!ENTITY tabCrashed.restoreTab "এই টেব পুনৰুদ্ধাৰ কৰক">
+<!ENTITY tabCrashed.restoreAll "সকলো স্খলিত টেব পুনৰুদ্ধাৰ কৰক">

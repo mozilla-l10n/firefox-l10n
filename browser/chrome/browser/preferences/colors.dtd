@@ -6,10 +6,11 @@
 <!ENTITY  window.width                    "38em">
 <!ENTITY  window.macWidth                 "41em">
 
-
+<!ENTITY  overridePageColors.label        "পৃষ্ঠা দ্বাৰা ধাৰ্য্য কৰা ৰঙবোৰক ওপৰত দিয়া মোৰ নিৰ্বাচনৰ সৈতে অভাৰৰাইড কৰক:">
+<!ENTITY  overridePageColors.accesskey    "O">
 
 <!ENTITY  overridePageColors.always.label "সদায়">
-
+<!ENTITY  overridePageColors.auto.label   "কেৱল উচ্চ কনট্ৰাস্ট থীমসমূহৰ সৈতে">
 <!ENTITY  overridePageColors.never.label  "কেতিয়াও নহয়">
 
 <!ENTITY  color                           "আখৰ আৰু পৃষ্ঠভূমি">

@@ -34,8 +34,8 @@
 <!ENTITY healthReportLearnMore.label     "অধিক জানক">
 
 <!ENTITY telemetryDesc.label             "আপোনাৰ ব্ৰাউছাৰৰ বিষয়ে পৰিৱেশন, ব্যৱহাৰ, হাৰ্ডৱেৰ আৰু স্বনিৰ্বাচন তথ্য &vendorShortName; ৰ সৈতে অংশীদাৰী কৰে যাতে আমি &brandShortName; উন্নত কৰিব পাৰো">
-
-
+<!ENTITY enableTelemetryData.label       "অতিৰিক্ত তথ্য অংশীদাৰী কৰক (অৰ্থাত, টেলিমেট্ৰি)">
+<!ENTITY enableTelemetryData.accesskey   "T">
 <!ENTITY telemetryLearnMore.label        "অধিক জানক">
 
 <!ENTITY crashReporterDesc.label         "&brandShortName; এ স্খলন সংবাদসমূহ জমা দিয়ে যাতে &vendorShortName; এ আপোনাৰ ব্ৰাউছাৰ অধিক স্থিৰ আৰু সুৰক্ষিত কৰিব পাৰে">

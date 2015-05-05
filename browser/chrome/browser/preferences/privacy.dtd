@@ -11,15 +11,17 @@
 <!ENTITY trackingProtectionLearnMore.label "অধিক জানক">
 <!ENTITY doNotTrackInfo.label           "অধিক জানক">
 
+<!ENTITY  history.label                 "ইতিহাস">
 
 <!ENTITY  locationBar.label             "অৱস্থান বাৰ">
 
-
-
-
-
-
-
+<!ENTITY  locbar.suggest.label          "অৱস্থান বাৰ ব্যৱহাৰ কৰি থাকোতে, উপদেশ দিয়ক:">
+<!ENTITY  locbar.history.label          "ইতিহাস">
+<!ENTITY  locbar.history.accesskey      "H">
+<!ENTITY  locbar.bookmarks.label        "পত্ৰচিহ্নসমূহ">
+<!ENTITY  locbar.bookmarks.accesskey    "k">
+<!ENTITY  locbar.openpage.label         "টেবসমূহ খোলক">
+<!ENTITY  locbar.openpage.accesskey     "O">
 
 <!ENTITY  acceptCookies.label           "ছাইটসমূহৰ পৰা কুকি গ্ৰহণ কৰক">
 <!ENTITY  acceptCookies.accesskey       "A">
@@ -30,7 +32,8 @@
 <!ENTITY  acceptThirdParty.never.label    "কেতিয়াও নহয়">
 <!ENTITY  acceptThirdParty.visited.label  "ভ্ৰমণ কৰা ছাইটসমূহৰ পৰা">
 
-
+<!ENTITY  keepUntil.label               "ৰাখক যেতিয়ালৈকে:">
+<!ENTITY  keepUntil.accesskey           "u">
 
 <!ENTITY  expire.label                  "তেওলোক অস্তিত্বহীন হয়">
 <!ENTITY  close.label                   "মই বন্ধ কৰো &brandShortName;">
