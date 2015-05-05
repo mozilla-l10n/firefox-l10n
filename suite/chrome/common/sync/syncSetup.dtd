@@ -46,8 +46,8 @@
 
 <!ENTITY setup.newRecoveryKeyPage.title.label "O &brandShortName; Respeita a Sua Privacidade">
 <!ENTITY setup.newRecoveryKeyPage.description.label "Para assegurar a sua privacidade total, toda a sua informação é cifrada antes de ser enviada. A chave de recuperação necessária para decifrar a informação não é enviada.">
-<!ENTITY recoveryKeyEntry.label        "A Sua Chave de recuperação">
-<!ENTITY recoveryKeyEntry.accesskey    "C">
+<!ENTITY recoveryKeyEntry.label        "A sua chave de recuperação">
+<!ENTITY recoveryKeyEntry.accesskey    "c">
 <!ENTITY recoveryGenerateNewKey.label  "Criar uma nova chave">
 <!ENTITY recoveryKeyBackup.description "A sua chave de recuperação é necessária para aceder ao &syncBrand.fullName.label; noutras máquinas. Por favor crie uma cópia de segurança. Não podemos ajudá-lo a recuperar a sua chave de recuperação.">
 
@@ -74,7 +74,7 @@
 <!-- Existing Account Page 2: Manual Login -->
 
 <!ENTITY setup.signInPage.title.label "Iniciar sessão">
-<!ENTITY existingRecoveryKey.description "Pode obter uma cópia da sua chave do Sync indo às opções do &syncBrand.shortName.label; do seu outro dispositivo, e selecionar  &quot;A minha chave do Sync&quot; em &quot;Gerir conta&quot;.">
+<!ENTITY existingRecoveryKey.description "Pode obter uma cópia da sua chave de recuperação acedendo às preferências/opções do &syncBrand.shortName.label; do seu outro dispositivo e selecionar &quot;A minha chave de recuperação&quot; em &quot;Gerir conta&quot;.">
 <!ENTITY verifying.label              "A verificar…">
 <!ENTITY resetPassword.label          "Reiniciar palavra-passe">
 <!ENTITY resetSyncKey.label           "Perdi o meu outro dispositivo.">
