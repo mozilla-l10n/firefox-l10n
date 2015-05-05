@@ -99,9 +99,9 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY mirrorTabCmd.accesskey "D">
 <!-- LOCALIZATION NOTE (enterFullScreenCmd.label, exitFullScreenCmd.label):
 These should match what Safari and other Apple applications use on OS X Lion. -->
-<!ENTITY enterFullScreenCmd.label "Entrar em tela cheia">
+<!ENTITY enterFullScreenCmd.label "Entrar em tela inteira">
 <!ENTITY enterFullScreenCmd.accesskey "t">
-<!ENTITY exitFullScreenCmd.label "Sair da tela cheia">
+<!ENTITY exitFullScreenCmd.label "Sair da tela inteira">
 <!ENTITY exitFullScreenCmd.accesskey "t">
 <!ENTITY fullScreenCmd.label "Tela inteira">
 <!ENTITY fullScreenCmd.accesskey "T">
@@ -565,8 +565,8 @@ items are mutually exclusive. -->
 <!ENTITY mediaShowControls.accesskey "n">
 <!ENTITY mediaHideControls.label     "Ocultar controles">
 <!ENTITY mediaHideControls.accesskey "n">
-
-
+<!ENTITY videoFullScreen.label       "Tela inteira">
+<!ENTITY videoFullScreen.accesskey   "T">
 <!ENTITY videoSaveImage.label        "Salvar quadro atual como…">
 <!ENTITY videoSaveImage.accesskey    "S">
 <!-- LOCALIZATION NOTE: The access keys for "Show Statistics" and

@@ -76,6 +76,8 @@
 <!-- LOCALIZATION NOTE (options.enableChrome.label4): This is the label for the
   -  checkbox that toggles chrome debugging, i.e. devtools.chrome.enabled
   -  boolean preference in about:config, in the options panel. -->
+
+<!ENTITY options.enableChrome.label5    "Ativar as caixas de ferramentas de depuração do chrome do navegador e de complementos">
 <!ENTITY options.enableChrome.tooltip3  "Ativar esta opção irá permitir que use várias ferramentas de desenvolvimento no contexto no navegador (via Ferramentas > Desenvolvimento Web > Caixa de ferramentas do navegador) e depure complemento a partir do Gerenciador de complementos">
 <!-- LOCALIZATION NOTE (options.enableRemote.label3): This is the label for the
   -  checkbox that toggles remote debugging, i.e. devtools.debugger.remote-enabled
