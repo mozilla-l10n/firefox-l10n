@@ -22,7 +22,7 @@
 <!ENTITY sync.serverURL             "URL do servidor">
 <!ENTITY sync.setup.connect         "Ligar">
 <!ENTITY sync.setup.cancel          "Cancelar">
-<!ENTITY sync.setup.tutorial        "Ver como fazer">
+<!ENTITY sync.setup.tutorial        "Mostrar-me como">
 <!ENTITY sync.setup.waiting2        "A esperar pelo ouro dispositivo…">
 
 <!ENTITY sync.pair.title            "Emparelhar um dispositivo">
