@@ -22,7 +22,7 @@
 <!ENTITY  generalReferrer       "An t-URL on dàinigear:">
 <!ENTITY  generalSource         "Bun-tùs an tasgadain:">
 <!ENTITY  generalModified       "Air atharrachadh:">
-
+<!ENTITY  generalEncoding2      "Còdachadh an teacsa:">
 <!ENTITY  generalMetaName       "Ainm">
 <!ENTITY  generalMetaContent    "Susbaint">
 
