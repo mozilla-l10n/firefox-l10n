@@ -598,7 +598,7 @@
 <!-- Folder Pane -->
 
 <!ENTITY folderNameColumn.label "Ime">
-<!ENTITY folderUnreadColumn.label "Neprebranih">
+<!ENTITY folderUnreadColumn.label "Neprebrano">
 <!ENTITY folderTotalColumn.label "Skupaj">
 <!ENTITY folderSizeColumn.label "Velikost">
 <!-- Folder Pane Context Menu -->
@@ -669,7 +669,7 @@
 <!ENTITY statusColumn.label "Stanje">
 <!ENTITY sizeColumn.label "Velikost">
 <!ENTITY junkStatusColumn.label "Stanje za neželeno">
-<!ENTITY unreadColumn.label "Neprebranih">
+<!ENTITY unreadColumn.label "Neprebrano">
 <!ENTITY totalColumn.label "Skupaj">
 <!ENTITY readColumn.label "Prebrano">
 <!ENTITY receivedColumn.label "Prejeto">
@@ -869,15 +869,15 @@
 <!-- Content Pane Context Menu -->
 
 <!ENTITY saveLinkAsCmd.label "Shrani povezavo kot …">
-<!ENTITY saveLinkAsCmd.accesskey "k">
+<!ENTITY saveLinkAsCmd.accesskey "S">
 <!ENTITY saveImageAsCmd.label "Shrani sliko kot …">
-<!ENTITY saveImageAsCmd.accesskey "v">
+<!ENTITY saveImageAsCmd.accesskey "S">
 <!ENTITY copyLinkCmd.label "Kopiraj mesto povezave">
-<!ENTITY copyLinkCmd.accesskey "z">
+<!ENTITY copyLinkCmd.accesskey "K">
 <!ENTITY copyImageAllCmd.label "Kopiraj sliko">
-<!ENTITY copyImageAllCmd.accesskey "i">
+<!ENTITY copyImageAllCmd.accesskey "K">
 <!ENTITY copyEmailCmd.label "Kopiraj e-poštni naslov">
-<!ENTITY copyEmailCmd.accesskey "e">
+<!ENTITY copyEmailCmd.accesskey "K">
 <!ENTITY stopCmd.label "Ustavi">
 <!ENTITY stopCmd.accesskey "s">
 <!ENTITY reloadCmd.label "Ponovno naloži">
