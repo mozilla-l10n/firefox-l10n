@@ -6,8 +6,8 @@
 <!ENTITY  no_space_to_start_error "Det er ikke nok ledig plass for at &brandShortName; kan starte.">
 <!ENTITY  error_loading_file "En feil oppstod ved forsøk på å laste nødvendige filer for å kjøre &brandShortName;">
 
-<!ENTITY  onboard_start_message "Velkommen til &brandShortName;!">
-<!ENTITY  onboard_start_subtext "Forpliktet til deg, ditt personvern og en åpen web">
+<!ENTITY  onboard_start_message2 "Velkommen til &brandShortName;">
+<!ENTITY  onboard_start_subtext2 "Flere personvernfunksjoner og tilpassingsmuligheter enn før.">
 <!ENTITY  onboard_start_button_account "Logg inn på &brandShortName;">
 <!ENTITY  onboard_start_button_browser "Start nettlesing">
 
@@ -271,7 +271,7 @@ size. -->
      (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
 <!ENTITY datareporting_crashreporter_title_short "Krasjrapportering">
 <!ENTITY datareporting_wifi_title2 "&vendorShortName; stedstjeneste">
-<!ENTITY datareporting_wifi_geolocation_summary2 "Deler omtrentlig Wi-Fi og mobilnett-posisjon for enheten din med &vendorShortName; for å forbedre vår geolokasjon-tjeneste">
+<!ENTITY datareporting_wifi_geolocation_summary3 "Hjelp &vendorShortName; med å kartlegge verden! Del omtrentlig Wi-Fi og mobilnett-posisjon for enheten din for å forbedre vår geolokasjon-tjeneste">
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
      actual notification that an update is available. -->

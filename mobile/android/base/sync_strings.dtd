@@ -150,6 +150,8 @@
      etc).  The account remains a "Firefox Account". -->
 <!ENTITY fxaccount_create_account_header2 'Lag en Firefox-konto'>
 <!ENTITY fxaccount_create_account_password_length_restriction 'Må være minst 8 tegn'>
+<!ENTITY fxaccount_create_account_day_of_birth 'Dag'>
+<!ENTITY fxaccount_create_account_month_of_birth 'Måned'>
 <!ENTITY fxaccount_create_account_year_of_birth 'Fødselsår'>
 <!-- Localization note: &formatS1; is fxaccount_policy_linktos, &formatS2; is fxaccount_policy_linkprivacy, both hyperlinked. -->
 <!ENTITY fxaccount_create_account_policy_text2 'Ved å fortsette, godtar jeg &formatS1; og &formatS2; for Firefox sky-tjenester.'>
@@ -207,7 +209,6 @@
 <!ENTITY fxaccount_status_needs_upgrade 'Du må oppgradere &brandShortName; for å logge inn.'>
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled '&syncBrand.shortName.label; er satt opp, men synkroniserer ikke automatisk. Slå av/på “Auto-synkroniser data” i Android-innstillinger &gt; Databruk.'>
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled_v21 '&syncBrand.shortName.label; er konfigurert, men synkroniserer ikke automatisk. Velg “Auto-synk data” i menyen Android-innstillinger &gt; Kontoer.'>
-<!ENTITY fxaccount_status_needs_account_enabled '&syncBrand.shortName.label; er satt opp, men synkroniserer ikke automatisk. Trykk for å starte synkronisering.'>
 <!ENTITY fxaccount_status_needs_finish_migrating 'Trykk for å logge inn med din nye Firefox-konto.'>
 <!ENTITY fxaccount_status_bookmarks 'Bokmerker'>
 <!ENTITY fxaccount_status_history 'Historikk'>
