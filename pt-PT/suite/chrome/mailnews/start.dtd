@@ -2,9 +2,9 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY startpage.title "Bem-vindo ao &brandShortName; Correio e grupos de discussão">
+<!ENTITY startpage.title "Bem-vindo ao correio e listas de discussão do &brandShortName;">
 <!--# LOCALIZATION NOTE (headline.label): the URL for <a id="vendorURL"> is fetched from brand.properties -->
-<!ENTITY headline.label 'Bem-Vindo ao <a id="vendorURL" href="">&brandShortName;</a> Correio e grupos de discussão!'>
+<!ENTITY headline.label 'Bem-vindo ao correio e listas de discussão do <a id="vendorURL" href="">&brandShortName;</a>!'>
 <!ENTITY description.label "O &brandShortName; é uma aplicação open-source de correio e de grupos de notícias,
 com suporte a deteção avançada de lixo eletrónico e outras funcionalidade úteis.">
 <!ENTITY features.title "Funcionalidades">
@@ -24,6 +24,6 @@ com suporte a deteção avançada de lixo eletrónico e outras funcionalidade ú
 <a href="https://addons.mozilla.org/seamonkey/">Extras da Mozilla</a>.'>
 <!ENTITY info.title "Mais informação">
 <!--# LOCALIZATION NOTE (info_bugs.label): the URL for <a id="releaseNotesURL"> is fetched from brand.properties -->
-<!ENTITY info_bugs.label '<a href="http://www.mozilla.org/mailnews/">Nós</a> agradecemos os bug reports e pedidos 
-de funcionalidades, mas por favor leia as <a id="releaseNotesURL" href="">notas da versão</a> e procure 
-primeiro no <a href="https://bugzilla.mozilla.org/query.cgi">Bugzilla</a>.'>
+<!ENTITY info_bugs.label '<a href="http://www.mozilla.org/mailnews/">Nós</a> agradecemos os relatórios de erros e pedidos
+de funcionalidades, mas por favor leia as <a id="releaseNotesURL" href="">notas da versão</a> e
+ procure primeiro no <a href="https://bugzilla.mozilla.org/query.cgi">Bugzilla</a>.'>

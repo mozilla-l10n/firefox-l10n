@@ -27,5 +27,5 @@
 <!ENTITY checkAutomatically.label        "Quando a página estiver desatualizada">
 
 <!ENTITY prefetchTitle.label             "Ligação de pré-carregamento">
-<!ENTITY enablePrefetch.label            "Fazer pré-carregamento de páginas web quando estiver em espera, para que ligações em páginas web desenhadas para pré-carregamento possam ser carregadas mais rapidamente">
-<!ENTITY enablePrefetch.accesskey        "p">
+<!ENTITY enablePrefetch.label            "Pré-carregar páginas web quando estiver em espera, para que ligações em páginas web passíveis de pré-carregamento possam ser carregadas mais rapidamente">
+<!ENTITY enablePrefetch.accesskey        "P">

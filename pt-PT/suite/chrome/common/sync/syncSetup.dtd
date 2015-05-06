@@ -6,7 +6,7 @@
 <!-- First page of the wizard -->
 
 
-<!ENTITY setup.pickSetupType.description "Bem-vindo, se nunca usou o &syncBrand.fullName.label; antes, precisa de criar uma nova conta.">
+<!ENTITY setup.pickSetupType.description "Bem-vindo. Se nunca usou o &syncBrand.fullName.label; antes, precisa de criar uma nova conta.">
 <!ENTITY button.createNewAccount.label "Criar uma Nova Conta">
 <!ENTITY setup.haveAccount.label "Já tenho uma conta do &syncBrand.fullName.label;.">
 <!ENTITY button.connect.label "Ligar">
