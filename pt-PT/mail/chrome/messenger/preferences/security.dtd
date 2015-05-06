@@ -21,7 +21,7 @@
 <!ENTITY enableAdaptiveJunkLogging.accesskey "x">
 <!ENTITY openJunkLog.label "Mostrar registo">
 <!ENTITY openJunkLog.accesskey "s">
-<!ENTITY resetTrainingData.label "Reiniciar dados de treino">
+<!ENTITY resetTrainingData.label "Repor dados de treino">
 <!ENTITY resetTrainingData.accesskey "R">
 <!-- Phishing Detector -->
 
