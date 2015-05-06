@@ -11,7 +11,7 @@
 <!ENTITY disableAddons.label              "Desativar todos os extras">
 <!ENTITY disableAddons.accesskey          "D">
 
-<!ENTITY resetToolbars.label              "Reiniciar barras de ferramentas e controlos">
+<!ENTITY resetToolbars.label              "Repor barras de ferramentas e controlos">
 <!ENTITY resetToolbars.accesskey          "R">
 
 <!ENTITY changeAndRestartButton.label     "Aplicar e reiniciar">
