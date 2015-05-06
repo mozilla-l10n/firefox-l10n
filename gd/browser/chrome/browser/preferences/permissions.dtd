@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY window.title                 "Eisgeachdan">
-
+<!ENTITY window.width                 "49em">
 
 <!ENTITY treehead.sitename.label      "Seòladh">
 <!ENTITY treehead.status.label        "Staid">
