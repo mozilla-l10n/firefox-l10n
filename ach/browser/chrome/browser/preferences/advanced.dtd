@@ -113,6 +113,7 @@
 <!ENTITY offlineAppRemove.confirm        "Kwany tic ma nongo pe okube iwi yamo">
 
 <!ENTITY certificateTab.label            "Waraga">
+
 <!ENTITY certSelection.description       "Kace lapok tic okwayo pi waraga mamega:">
 <!ENTITY certs.auto                      "Yer acel pire kene">
 <!ENTITY certs.auto.accesskey            "S">

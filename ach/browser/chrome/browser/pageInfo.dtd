@@ -22,7 +22,7 @@
 <!ENTITY  generalReferrer       "URL ma tiko:">
 <!ENTITY  generalSource         "Kama kakano nonge iye:">
 <!ENTITY  generalModified       "Kiyubu:">
-<!ENTITY  generalEncoding       "Kit me pwonyo ne:">
+
 <!ENTITY  generalMetaName       "Nying">
 <!ENTITY  generalMetaContent    "Gin manonge iye">
 
@@ -83,3 +83,5 @@
 <!ENTITY  securityView.privacy.viewPasswords.accessKey  "w">
 
 <!ENTITY  securityView.technical.header                 "Lok matut pi ludiro ne">
+
+<!ENTITY  helpButton.label                              "Kony">

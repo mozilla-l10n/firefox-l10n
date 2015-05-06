@@ -14,10 +14,10 @@
                        for the help button in the menubar but Gnome does not.   -->
 <!ENTITY helpMenuWin.label        "Kony"> 
 <!ENTITY helpMenuWin.accesskey    "K">
-
-
-
-
+<!ENTITY aboutProduct2.label      "Ikom &brandShorterName;">
+<!ENTITY aboutProduct2.accesskey  "I">
+<!ENTITY productHelp2.label       "Kony me &brandShorterName;">
+<!ENTITY productHelp2.accesskey   "K">
 <!ENTITY helpMac.commandkey       "?">
 
 <!ENTITY helpKeyboardShortcuts.label     "Yo macego me keyboard">
@@ -26,7 +26,8 @@
 <!ENTITY helpSafeMode.label       "Cak odoco ki med-ikome gi ma kijuko woko…">
 <!ENTITY helpSafeMode.accesskey   "C">
 
-
+<!ENTITY healthReport2.label      "Ripot me yot kom me &brandShorterName;">
+<!ENTITY healthReport2.accesskey  "i">
 
 <!ENTITY helpTroubleshootingInfo.label      "Ngec me yubu bal">
 <!ENTITY helpTroubleshootingInfo.accesskey  "N">
@@ -34,13 +35,15 @@
 <!ENTITY helpFeedbackPage.label      "Cwal adwogi ne…">
 <!ENTITY helpFeedbackPage.accesskey  "C">
 
-
+<!ENTITY helpShowTour2.label            "Wot me &brandShorterName;">
+<!ENTITY helpShowTour2.accesskey        "o">
 
 <!ENTITY preferencesCmdMac.label        "Ma imaro…">
 <!ENTITY preferencesCmdMac.commandkey   ",">
 
 <!ENTITY servicesMenuMac.label          "Tic">
 
+<!ENTITY hideThisAppCmdMac2.label       "Kan &brandShorterName;">
 <!ENTITY hideThisAppCmdMac2.commandkey  "H">
 
 <!ENTITY hideOtherAppsCmdMac.label      "Kan mukene">
