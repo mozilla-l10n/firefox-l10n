@@ -37,8 +37,8 @@
 <!ENTITY modify.accesskey "M">
 <!ENTITY toggle.label "Alternar">
 <!ENTITY toggle.accesskey "A">
-<!ENTITY reset.label "Voltar ao início">
-<!ENTITY reset.accesskey "V">
+<!ENTITY reset.label "Repor">
+<!ENTITY reset.accesskey "R">
 <!ENTITY new.label "Novo">
 <!ENTITY new.accesskey "v">
 <!ENTITY string.label "String">

@@ -58,9 +58,9 @@
      update checking behavior for all add-ons to the default global behavior
      (which itself is either "Automatically" or "Manually", controlled by the
      updates.updateAddonsAutomatically.label menu item). -->
-<!ENTITY updates.resetUpdatesToAutomatic.label       "Redefinir atualização automática para todos os extras">
+<!ENTITY updates.resetUpdatesToAutomatic.label       "Repor atualização automática para todos os extras">
 <!ENTITY updates.resetUpdatesToAutomatic.accesskey   "R">
-<!ENTITY updates.resetUpdatesToManual.label          "Redefinir atualização manual para todos os extras">
+<!ENTITY updates.resetUpdatesToManual.label          "Repor atualização manual para todos os extras">
 <!ENTITY updates.resetUpdatesToManual.accesskey      "R">
 <!ENTITY updates.updating.label               "A atualizar extras">
 <!ENTITY updates.installed.label              "Os seus extras foram atualizados.">
