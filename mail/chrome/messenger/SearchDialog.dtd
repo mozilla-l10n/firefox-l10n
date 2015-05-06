@@ -49,7 +49,7 @@
 <!ENTITY statusColumn.label "Stanje">
 <!ENTITY sizeColumn.label "Velikost">
 <!ENTITY junkStatusColumn.label "Stanje za neželeno">
-<!ENTITY unreadColumn.label "Neprebranih">
+<!ENTITY unreadColumn.label "Neprebrano">
 <!ENTITY totalColumn.label "Skupaj">
 <!ENTITY readColumn.label "Prebrano">
 <!ENTITY receivedColumn.label "Prejeto">
