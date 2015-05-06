@@ -24,8 +24,8 @@
 <!ENTITY enableJunkLogging.accesskey    "e">
 <!ENTITY openJunkLog.label              "Mostrar registo">
 <!ENTITY openJunkLog.accesskey          "s">
-<!ENTITY resetTrainingData.label        "Reiniciar dados de treino">
-<!ENTITY resetTrainingData.accesskey    "t">
+<!ENTITY resetTrainingData.label        "Repor dados de treino">
+<!ENTITY resetTrainingData.accesskey    "R">
 
 <!ENTITY pref.suspectMail.caption       "Correio suspeito">
 <!-- Phishing Detector -->

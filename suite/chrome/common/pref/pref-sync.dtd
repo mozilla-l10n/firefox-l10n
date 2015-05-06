@@ -14,8 +14,8 @@
 
 <!ENTITY updatePass.label             "Atualizar">
 <!ENTITY updatePass.accesskey         "A">
-<!ENTITY resetPass.label              "Limpar">
-<!ENTITY resetPass.accesskey          "L">
+<!ENTITY resetPass.label              "Repor">
+<!ENTITY resetPass.accesskey          "R">
 <!-- Manage Account -->
 
 <!ENTITY manageAccount.label          "Gerir Conta">
@@ -26,7 +26,7 @@
 <!ENTITY changePassword.accesskey     "M">
 <!ENTITY myRecoveryKey.label          "Minha chave de recuperação">
 <!ENTITY myRecoveryKey.accesskey      "M">
-<!ENTITY resetSync.label              "Redefinir o Sync">
+<!ENTITY resetSync.label              "Repor o Sync">
 <!ENTITY resetSync.accesskey          "R">
 <!ENTITY unlinkDevice.label           "Desassociar este dispositivo">
 <!ENTITY unlinkDevice.accesskey       "D">
