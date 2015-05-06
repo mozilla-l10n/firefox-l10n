@@ -14,8 +14,8 @@
 <!ENTITY mouseWheelHorizGroup.label      "Deslocamento horizontal">
 <!ENTITY sameAsVertical.label            "O mesmo que o deslocamento vertical">
 <!ENTITY sameAsVertical.accesskey        "v">
-<!ENTITY doNothing.label                 "Não fazer nada">
-<!ENTITY doNothing.accesskey             "N">
+<!ENTITY doNothing.label                 "Nada fazer">
+<!ENTITY doNothing.accesskey             "d">
 <!ENTITY doNothingHoriz.accesskey        "z">
 <!ENTITY scrollDocument.label            "Deslocar documento">
 <!ENTITY scrollDocument.accesskey        "s">

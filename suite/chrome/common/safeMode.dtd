@@ -6,7 +6,7 @@
 <!ENTITY window.width                 "40em">
 
 <!ENTITY safeModeDescription.label    "O &brandShortName; está a executar em modo de segurança, o que desactivou temporáriamente as suas definições personalizadas, temas e extensões.">
-<!ENTITY safeModeDescription2.label   "Pode fazer algumas ou todas estas alterações de forma permanente:">
+<!ENTITY safeModeDescription2.label   "Pode alterar algumas ou todas as alterações permanentes:">
 
 <!ENTITY disableAddons.label          "Desativar todos os extras">
 <!ENTITY disableAddons.accesskey      "D">
@@ -20,7 +20,7 @@
 <!ENTITY resetUserPrefs.label         "Repor todas as preferências para as pré-definições do &brandShortName;">
 <!ENTITY resetUserPrefs.accesskey     "p">
 
-<!ENTITY restoreSearch.label          "Fazer alterações e reiniciar">
+<!ENTITY restoreSearch.label          "Restaurar mecanismo de pesquisa pré-definidos">
 <!ENTITY restoreSearch.accesskey      "s">
 
 <!ENTITY changeAndRestartButton.label "Make Changes and Restart">
