@@ -113,6 +113,7 @@
 <!ENTITY offlineAppRemove.confirm        "Allontanar las datas offline">
 
 <!ENTITY certificateTab.label            "Certificats">
+<!ENTITY certSelection.label             "Dumondas">
 <!ENTITY certSelection.description       "Sch'ina website dumonda il certificat da segirezza persunal:">
 <!ENTITY certs.auto                      "Tscherner automaticamain in">
 <!ENTITY certs.auto.accesskey            "T">
