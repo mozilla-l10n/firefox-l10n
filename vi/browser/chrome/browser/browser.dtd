@@ -162,8 +162,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY subscribeToPageMenupopup.label "Đăng kí theo dõi trang này">
 <!ENTITY subscribeToPageMenuitem.label "Đăng kí theo dõi trang này…">
 <!ENTITY addCurPagesCmd.label "Đánh dấu tất cả các tab…">
-<!ENTITY showAllBookmarks2.label "Hiển thị tất cả các trang đánh dấu">
-<!ENTITY unsortedBookmarksCmd.label "Các đánh dấu chưa sắp xếp">
+<!ENTITY showAllBookmarks2.label "Các trang đã đánh dấu">
+<!ENTITY unsortedBookmarksCmd.label "Các đánh dấu chưa phân loại">
 <!ENTITY bookmarksToolbarChevron.tooltip "Hiện thêm các trang đánh dấu">
 
 <!ENTITY backCmd.label                "Lùi">
@@ -329,7 +329,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY preferencesCmdUnix.label       "Tùy chỉnh">
 <!ENTITY preferencesCmdUnix.accesskey     "y"> 
 
-<!ENTITY clearRecentHistory.label               "Xóa nhật ký duyệt web gần đây…">
+<!ENTITY clearRecentHistory.label               "Xóa dữ liệu gần đây…">
 
 <!ENTITY privateBrowsingCmd.commandkey          "P">
 
@@ -351,7 +351,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY historyUndoWindowMenu.label "Các cửa sổ mới đóng">
 <!ENTITY historyRestoreLastSession.label "Khôi phục phiên làm việc trước">
 
-<!ENTITY showAllHistoryCmd2.label "Toàn bộ nhật ký duyệt web">
+<!ENTITY showAllHistoryCmd2.label "Toàn bộ nhật ký">
 <!ENTITY showAllHistoryCmd.commandkey "H">
 
 <!ENTITY appMenuCustomize.label "Tùy biến">
@@ -359,8 +359,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuCustomizeExit.label "Thoát chế độ tùy biến">
 <!ENTITY appMenuCustomizeExit.tooltip "Chấp nhận tùy biến">
 <!ENTITY appMenuHistory.label "Nhật ký duyệt web">
-<!ENTITY appMenuHistory.showAll.label "Toàn bộ nhật ký duyệt web">
-<!ENTITY appMenuHistory.clearRecent.label "Xóa nhật ký duyệt web gần đây…">
+<!ENTITY appMenuHistory.showAll.label "Toàn bộ nhật ký">
+<!ENTITY appMenuHistory.clearRecent.label "Xóa dữ liệu gần đây…">
 <!ENTITY appMenuHistory.restoreSession.label "Khôi phục phiên làm việc trước">
 <!ENTITY appMenuHistory.viewSidebar.label "Hiển thị thanh lề nhật ký">
 <!ENTITY appMenuHelp.tooltip "Mở menu trợ giúp">
@@ -386,7 +386,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY customizeMenu.addMoreItems.accesskey "A">
 
 <!ENTITY openCmd.commandkey           "l">
-<!ENTITY urlbar.placeholder2          "Tìm hoặc nhập địa chỉ">
+<!ENTITY urlbar.placeholder2          "Nhập địa chỉ hoặc từ khóa tìm kiếm">
 <!ENTITY urlbar.accesskey             "d">
 <!ENTITY urlbar.switchToTab.label     "Chuyển qua thẻ:">
 <!-- 
@@ -823,7 +823,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY panicButton.view.undoWarning             "Thao tác này không thể hoàn lại được.">
 <!ENTITY panicButton.view.forgetButton            "Xóa!">
 
-<!ENTITY panicButton.thankyou.msg1                "Nhật ký duyệt web gần đây của bạn đã bị xóa.">
+<!ENTITY panicButton.thankyou.msg1                "Dữ liệu gần đây đã bị xóa.">
 <!ENTITY panicButton.thankyou.msg2                "Duyệt web an toàn!">
 <!ENTITY panicButton.thankyou.buttonlabel         "Cảm ơn!">
 

@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!-- These strings are used in the about:newtab page -->
 
-<!ENTITY newtab.pageTitle "Tab Mới">
+<!ENTITY newtab.pageTitle "Tab mới">
 <!ENTITY newtab.customize.title "Tùy biến trang Tab mới">
 <!ENTITY newtab.customize.suggested "Hiện các trang thường dùng cùng các trang được giới thiệu">
 <!ENTITY newtab.customize.topsites "Hiện các trang thường dùng">
