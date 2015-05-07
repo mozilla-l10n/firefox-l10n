@@ -16,8 +16,8 @@
 <!ENTITY helpMenuWin.accesskey    "T">
 <!ENTITY aboutProduct2.label      "Thông tin về &brandShorterName;">
 <!ENTITY aboutProduct2.accesskey  "v">
-<!ENTITY productHelp2.label       "Trợ giúp từ &brandShorterName;">
-<!ENTITY productHelp2.accesskey   "T">
+<!ENTITY productHelp2.label       "Hướng dẫn dùng &brandShorterName;">
+<!ENTITY productHelp2.accesskey   "H">
 <!ENTITY helpMac.commandkey       "?">
 
 <!ENTITY helpKeyboardShortcuts.label     "Phím tắt">
@@ -35,8 +35,8 @@
 <!ENTITY helpFeedbackPage.label      "Gửi phản hồi…">
 <!ENTITY helpFeedbackPage.accesskey  "G">
 
-<!ENTITY helpShowTour2.label            "Hướng dẫn nhanh về &brandShorterName;">
-<!ENTITY helpShowTour2.accesskey        "H">
+<!ENTITY helpShowTour2.label            "Các tính năng cơ bản của &brandShorterName;">
+<!ENTITY helpShowTour2.accesskey        "n">
 
 <!ENTITY preferencesCmdMac.label        "Tùy chỉnh…">
 <!ENTITY preferencesCmdMac.commandkey   ",">

@@ -5,12 +5,12 @@
 <!-- LOCALIZATION NOTE : FILE use the Find Bar. --> 
 
 
-<!ENTITY next.tooltip "Tìm cụm từ ở phần sau">
+<!ENTITY next.tooltip "sau Tìm cụm từ ở phần">
 <!ENTITY previous.tooltip "Tìm cụm từ ở phần trước">
-
-
-
+<!ENTITY findCloseButton.tooltip "Đóng thanh Tìm kiếm">
+<!ENTITY highlightAll.label "Tô sáng tất cả">
+<!ENTITY highlightAll.accesskey "s">
 <!ENTITY highlightAll.tooltiptext "Tô sáng tất cả các cụm từ tìm thấy">
-
-
-
+<!ENTITY caseSensitive.label "Phân biệt HOA-thường">
+<!ENTITY caseSensitive.accesskey "A">
+<!ENTITY caseSensitive.tooltiptext "Tìm kiếm có phân biệt chữ hoa và chữ thường">

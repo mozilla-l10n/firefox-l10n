@@ -1,1 +1,1 @@
-#define MOZ_LANG_TITLE Tiếng Việt (VN)
+#define MOZ_LANG_TITLE Tiếng Việt
