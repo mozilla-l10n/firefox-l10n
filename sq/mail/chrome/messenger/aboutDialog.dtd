@@ -14,9 +14,9 @@
 <!ENTITY update.applyButtonBillboard.accesskey    "Z">
 
 <!-- LOCALIZATION NOTE (warningDesc.version): This is a warning about the experimental nature of Nightly and Aurora builds. It is only shown in those versions. -->
-<!ENTITY warningDesc.version        "&brandShortName; është eksperimental dhe mund të jetë i paqëndrueshëm.">
+<!ENTITY warningDesc.version        "&brandShortName;-i është eksperimental dhe mund të jetë i paqëndrueshëm.">
 <!-- LOCALIZATION NOTE (warningDesc.telemetryDesc): This is a notification that Nightly/Aurora builds automatically send Telemetry data back to Mozilla. It is only shown in those versions. "It" refers to brandShortName. -->
-<!ENTITY warningDesc.telemetryDesc  "Dërgon vetvetiu të dhëna rreth punimit, hardware-it, përdorimit dhe personalizimeve te &vendorShortName; që të ndihmohet për ta bërë &brandShortName;-in më të mirë.">
+<!ENTITY warningDesc.telemetryDesc  "Dërgon vetvetiu te &vendorShortName; të dhëna rreth punimit, hardware-it, përdorimit dhe personalizimeve, që të ndihmohet për ta bërë &brandShortName;-in më të mirë.">
 
 <!-- LOCALIZATION NOTE (community.exp.*) This paragraph is shown in "experimental" builds, i.e. Nightly and Aurora builds, instead of the other "community.*" strings below. -->
 <!ENTITY community.exp.start        "">
