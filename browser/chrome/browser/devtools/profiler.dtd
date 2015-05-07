@@ -13,13 +13,13 @@
 
 <!-- LOCALIZATION NOTE (profilerUI.emptyNotice1/2): This is the label shown
   -  in the call list view when empty. -->
-<!ENTITY profilerUI.emptyNotice1    "Натисніть на">
-<!ENTITY profilerUI.emptyNotice2    "кнопку, щоб почати запис викликів функції JavaScript.">
+<!ENTITY profilerUI.emptyNotice1    "Натисніть на кнопку">
+<!ENTITY profilerUI.emptyNotice2    "для початку запису викликів функції JavaScript.">
 
 <!-- LOCALIZATION NOTE (profilerUI.stopNotice1/2): This is the label shown
   -  in the call list view while recording a profile. -->
-<!ENTITY profilerUI.stopNotice1    "Натисніть на">
-<!ENTITY profilerUI.stopNotice2    "кнопку знову, щоб зупинити запис.">
+<!ENTITY profilerUI.stopNotice1    "Натисніть на кнопку">
+<!ENTITY profilerUI.stopNotice2    "знову, щоб зупинити запис.">
 
 <!-- LOCALIZATION NOTE (profilerUI.loadingNotice): This is the label shown
   -  in the call list view while loading a profile. -->
