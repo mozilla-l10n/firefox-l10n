@@ -13,8 +13,8 @@
 
 <!-- LOCALIZATION NOTE (netmonitorUI.perfNotice1/2): These are the labels displayed
   -  in the network table when empty to start performance analysis. -->
-<!ENTITY netmonitorUI.perfNotice1         "• Клацніть по">
-<!ENTITY netmonitorUI.perfNotice2         "кнопці щоб почати аналіз швидкодії.">
+<!ENTITY netmonitorUI.perfNotice1         "• Натисніть на кнопку">
+<!ENTITY netmonitorUI.perfNotice2         "для початку аналізу швидкодії.">
 
 <!-- LOCALIZATION NOTE (netmonitorUI.reload1/2/3): These are the labels displayed
   -  in the network table when empty to start logging network requests. -->
@@ -232,7 +232,7 @@
 
 <!-- LOCALIZATION NOTE (netmonitorUI.security.hpkp): This is the label displayed
   -  in the security tab describing the usage of Public Key Pinning. -->
-<!ENTITY netmonitorUI.security.hpkp "Public Key Pinning:">
+<!ENTITY netmonitorUI.security.hpkp "Прикріплення публічного ключа:">
 
 <!-- LOCALIZATION NOTE (netmonitorUI.security.connection): This is the label displayed
   -  in the security tab describing the section containing information related to
