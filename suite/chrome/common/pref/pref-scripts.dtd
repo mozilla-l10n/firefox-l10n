@@ -19,7 +19,7 @@
 <!ENTITY allowWindowStatusChange.label   "Mudar o texto da barra de estado">
 <!ENTITY allowWindowImageSrcChange.label "mudar imagens">
 <!ENTITY allowContextmenuDisable.label   "Desativar ou substituir menus de contexto">
-<!ENTITY allowHideStatusBar.label        "Ocultar a barra de estado">
+<!ENTITY allowHideStatusBar.label        "Ocultar barra de estado">
 
 <!ENTITY enablePlugins.label             "Ativar plugins para">
 <!ENTITY enablePluginForSuite.label      "Suite">
