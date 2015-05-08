@@ -10,6 +10,7 @@
 
 <!ENTITY aboutTelemetry.generalDataSection "  ข้อมูลทั่วไป">
 
+<!ENTITY aboutTelemetry.telemetryLogSection "  บันทึกการวัดและส่งข้อมูลทางไกล">
 
 <!ENTITY aboutTelemetry.slowSqlSection "  คำสั่ง SQL ที่ทำงานช้า">
 

@@ -856,5 +856,5 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY readingList.sidebar.emptyText            "เพิ่มบทความไปยังรายการอ่านของคุณเพื่อบันทึกไว้อ่านทีหลังและค้นหาได้อย่างง่ายดายเมื่อคุณต้องการ">
 <!ENTITY readingList.sidebar.delete.tooltip       "เอาออกจากรายการอ่าน">
 <!-- Pre-landed strings for bug 1123519 -->
-<!ENTITY readingList.sidebar.add.label            "เพิ่งเข้ารายการอ่าน">
+<!ENTITY readingList.sidebar.add.label            "เพิ่มเข้ารายการอ่าน">
 <!ENTITY readingList.sidebar.add.tooltip          "เพิ่มหน้านี้เข้ารายการอ่านของคุณ">
