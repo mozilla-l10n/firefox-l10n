@@ -87,5 +87,5 @@
 
 <!ENTITY storeType.label "Metoda per memorisar messadis:">
 <!ENTITY storeType.accesskey "T">
-<!ENTITY mboxStore.label "Ina datoteca per ordinatur (mbox)">
+<!ENTITY mboxStore2.label "Ina datoteca per ordinatur (mbox)">
 <!ENTITY maildirStore.label "Ina datoteca per messadi (maildir)">
