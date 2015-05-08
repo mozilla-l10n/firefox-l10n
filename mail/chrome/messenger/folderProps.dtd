@@ -5,10 +5,10 @@
 <!ENTITY folderProps.windowtitle.label           "Caracteristicas">
 
 <!ENTITY generalInfo.label                       "Infurmaziuns generalas">
-<!ENTITY folderCharsetFallback.label             "Codaziun da caracters da standard:">
-<!ENTITY folderCharsetFallback.accesskey         "C">
-<!ENTITY folderCharsetEnforce.label              "Applitgar il standard a tut ils messadis en l'ordinatur (la codaziun da caracters definida individualmain e la determinaziun automatica vegnan ignoradas)">
-<!ENTITY folderCharsetEnforce.accesskey          "s">
+<!ENTITY folderCharsetFallback2.label            "Codaziun da text predefinida:">
+<!ENTITY folderCharsetFallback2.accesskey        "C">
+<!ENTITY folderCharsetEnforce2.label             "Applitgar il standard a tut ils messadis en l'ordinatur (la codaziun da text definida individualmain e la determinaziun automatica vegnan ignoradas)">
+<!ENTITY folderCharsetEnforce2.accesskey         "s">
 <!ENTITY folderRebuildSummaryFileTip2.label      "Reconstruir l'index da la datoteca da resumaziun">
 <!ENTITY folderRebuildSummaryFile2.label         "Reparar l'ordinatur">
 <!ENTITY folderRebuildSummaryFile2.accesskey     "R">
