@@ -6,7 +6,7 @@
 
 <!-- Network-->
 <!ENTITY prefDirect.label                    "直接連線選項">
-<!ENTITY prefProxy.label                     "Proxy 連線設定">
+<!ENTITY prefProxy.label                     "Proxy 連線選項">
 <!ENTITY prefEnableHTTP10.label              "使用 HTTP 1.0">
 <!ENTITY prefEnableHTTP10.accesskey          "U">
 <!ENTITY prefEnableHTTP10Proxy.accesskey     "S">
@@ -16,9 +16,9 @@
 <!ENTITY prefEnablePipelining.label          "使用 Pipelining">
 <!ENTITY prefEnablePipelining.accesskey      "P">
 <!ENTITY prefEnablePipeliningProxy.accesskey "N">
-<!ENTITY prefPara                            "HTTP 連線方式可經由這些選項來微調效能或相容性。像有些 Proxy 代理伺服器就要使用 HTTP/1.0。（請看版本資訊以獲得進一步資訊）">
-<!ENTITY prefPipeWarning                     "注意:pipelining 是實驗中的功能，可增進載入網頁的效率，不過有些網站伺服器或Proxy不支援。">
+<!ENTITY prefPara                            "可經由這些選項來微調 HTTP 連線的效能或相容性。像有些 Proxy 代理伺服器就需要使用 HTTP/1.0。（請看版本資訊以獲得進一步資訊）">
+<!ENTITY prefPipeWarning                     "警告: pipelining 是實驗中的功能，可用來增進網頁載入的性能，不過有些網頁伺服器或 Proxy 不支援此功能。">
 <!ENTITY prefUseragent.label                 "使用者代理字串">
-<!ENTITY prefFirefoxCompat.label             "使用 Firefox 相容性">
+<!ENTITY prefFirefoxCompat.label             "宣告 Firefox 相容性">
 <!ENTITY prefFirefoxCompat.accesskey         "F">
 
