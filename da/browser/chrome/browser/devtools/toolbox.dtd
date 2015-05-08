@@ -25,7 +25,7 @@
 
 <!-- LOCALIZATION NOTE (browserToolboxErrorMessage): This is the label
   -  shown next to error details when the Browser Toolbox is unable to open. -->
-<!ENTITY browserToolboxErrorMessage          "Fejl under åbning af Værktøjer:">
+<!ENTITY browserToolboxErrorMessage          "Fejl under åbning af Browserværktøjer:">
 
 <!-- LOCALIZATION NOTE (options.context.advancedSettings): This is the label for
   -  the heading of the advanced settings group in the options panel. -->
@@ -77,7 +77,7 @@
   -  checkbox that toggles chrome debugging, i.e. devtools.chrome.enabled
   -  boolean preference in about:config, in the options panel. -->
 <!ENTITY options.enableChrome.label5    "Slå chrome- og tilføjelses-debuggingsværktøjer til">
-<!ENTITY options.enableChrome.tooltip2  "Gør dig i stand til at bruge diverse udviklerværktøjer i en browser-kontekst (via Funktioner > Udviklerværktøjer > Vis værktøjer) og debugge tilføjelser fra fanebladet Tilføjelser">
+<!ENTITY options.enableChrome.tooltip3  "Aktiverer du denne funktion, kan du bruge diverse udviklerværktøjer i en browser-kontekst (via Funktioner > Udviklerværktøjer > Vis værktøjer) og debugge tilføjelser fra fanebladet Tilføjelser">
 
 <!-- LOCALIZATION NOTE (options.enableRemote.label): This is the label for the
   -  checkbox that toggles remote debugging, i.e. devtools.debugger.remote-enabled
@@ -100,8 +100,8 @@
 <!-- LOCALIZATION NOTE (options.enableServiceWorkersTesting.label,
   -  options.enableServiceWorkersTesting.tooltip): This is the options panel label and
   -  tooltip for the checkbox that toggles the service workers testing features on or off. -->
-<!ENTITY options.enableServiceWorkersTesting.label     "Enable Service Workers testing features (when toolbox is open)">
-<!ENTITY options.enableServiceWorkersTesting.tooltip   "Turning this option on will enable the service workers testing features for all tabs that have the toolbox open.">
+<!ENTITY options.enableServiceWorkersTesting.label     "Aktiver testfunktioner for service workers (når værktøjerne er åbnet)">
+<!ENTITY options.enableServiceWorkersTesting.tooltip   "Aktiverer du denne funktion, vil du aktivere testfunktioner for service workers i alle faneblade, hvor værktøjerne er åbnet.">
 
 <!-- LOCALIZATION NOTE (options.selectDefaultTools.label): This is the label for
   -  the heading of group of checkboxes corresponding to the default developer
