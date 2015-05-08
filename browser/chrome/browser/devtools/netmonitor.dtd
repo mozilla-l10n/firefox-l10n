@@ -66,6 +66,7 @@
 <!ENTITY netmonitorUI.context.perfTools.accesskey "I">
 <!ENTITY netmonitorUI.context.copyUrl "Copia URL">
 <!ENTITY netmonitorUI.context.copyAsCurl "Copia con cURL">
+<!ENTITY netmonitorUI.context.copyAsCurl.accesskey "U">
 <!ENTITY netmonitorUI.context.copyUrl.accesskey "C">
 <!ENTITY netmonitorUI.context.copyUrlParams "Copia parametri URL">
 <!ENTITY netmonitorUI.context.copyUrlParams.accesskey "m">
@@ -76,6 +77,7 @@
 <!ENTITY netmonitorUI.context.copyRequestHeaders "Copia header richiesta">
 <!ENTITY netmonitorUI.context.copyRequestHeaders.accesskey "h">
 <!ENTITY netmonitorUI.context.copyResponseHeaders "Copia header risposta">
+<!ENTITY netmonitorUI.context.copyResponseHeaders.accesskey "s">
 <!ENTITY netmonitorUI.summary.editAndResend "Modifica e reinvia">
 <!ENTITY netmonitorUI.summary.editAndResend.accesskey "r">
 <!ENTITY netmonitorUI.summary.rawHeaders "Header non elaborati (raw)">
