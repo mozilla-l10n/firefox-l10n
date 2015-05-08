@@ -27,7 +27,7 @@
 
 <!ENTITY rights.intro-point3a "单击">
 <!ENTITY rights.intro-point3b "此处">
-<!ENTITY rights.intro-point3c "了解 &vendorShortName; 的隐私条款。">
+<!ENTITY rights.intro-point3c "了解 &brandShortName; 的隐私条款。">
 <!-- point 4 text for official branded builds -->
 
 <!ENTITY rights2.intro-point4a "&brandShortName; 也提供了可选的网站信息服务，例如附加组件或安全浏览服务；然而，我们不能保证它们始终运行地 100&#037; 准确、无错。更多信息请点击">
