@@ -10,6 +10,7 @@
 
 <!ENTITY aboutTelemetry.generalDataSection "  Dàta coitcheann">
 
+<!ENTITY aboutTelemetry.telemetryLogSection " Loga telemeatraidh">
 
 <!ENTITY aboutTelemetry.slowSqlSection "  SQL Statements slaodach">
 
