@@ -17,7 +17,7 @@
 
 <!ENTITY storeType.label               "Message Store Type for new accounts:">
 <!ENTITY storeType.accesskey           "T">
-<!ENTITY mboxStore.label               "Ina datoteca gronda (mbox)">
+<!ENTITY mboxStore2.label              "Ina datoteca per ordinatur (mbox)">
 <!ENTITY maildirStore.label            "Ina datoteca per messadi (maildir)">
 
 <!ENTITY scrolling.label               "Defilada">

@@ -72,10 +72,10 @@
 <!-- Language settings -->
 <!ENTITY sendDefaultCharset.label         "E-mails che sortan:">
 <!ENTITY sendDefaultCharset.accesskey     "m">
-<!ENTITY languagesTitle1.label            "Codaziun da caracters">
-<!ENTITY composingDescription.label       "Codaziun da caracters predefinida per retschaiver e trametter e-mails">
+<!ENTITY languagesTitle2.label            "Codaziun dal text">
+<!ENTITY composingDescription2.label      "Codaziun da text predefinida per retschaiver e trametter e-mails">
 
 <!ENTITY viewDefaultCharsetList.label     "E-mails che entran:">
 <!ENTITY viewDefaultCharsetList.accesskey  "I">
-<!ENTITY replyInDefaultCharset2.label     "Utilisar per respostas sche pussaivel la codaziun da caracters predefinida">
-<!ENTITY replyInDefaultCharset2.accesskey "h">
+<!ENTITY replyInDefaultCharset3.label     "Utilisar per respostas sche pussaivel la codaziun da text predefinida">
+<!ENTITY replyInDefaultCharset3.accesskey "h">
