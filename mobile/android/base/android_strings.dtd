@@ -29,7 +29,7 @@
 <!ENTITY  crash_comment "Ajouter un commentaire (les commentaires sont visibles par tout le monde)">
 <!ENTITY  crash_allow_contact2 "Permettre à &vendorShortName; de vous contacter à propos de ce rapport">
 <!ENTITY  crash_email "Votre adresse électronique">
-<!ENTITY  crash_closing_alert "Quitter sans envoyer de rapport de plantage ?">
+<!ENTITY  crash_closing_alert "Quitter sans envoyer de rapport de plantage ?">
 <!ENTITY  sending_crash_report "Envoi du rapport de plantage\u2026">
 <!ENTITY  crash_close_label "Fermer">
 <!ENTITY  crash_restart_label "Redémarrer &brandShortName;">
@@ -455,7 +455,7 @@ size. -->
 <!ENTITY home_title "Accueil de &brandShortName;">
 <!ENTITY home_history_title "Historique">
 <!ENTITY home_clear_history_button "Effacer l\u0027historique de navigation">
-<!ENTITY home_clear_history_confirm "Voulez-vous vraiment effacer votre historique ?">
+<!ENTITY home_clear_history_confirm "Voulez-vous vraiment effacer votre historique ?">
 <!ENTITY home_bookmarks_empty "Les marque-pages enregistrés s\u0027affichent ici.">
 <!ENTITY home_closed_tabs_title "Onglets récemment fermés">
 <!ENTITY home_last_tabs_title "Onglets de la session précédente">
@@ -563,7 +563,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY bookmarkhistory_import_history "Importation de l\u0027historique depuis Android">
 <!ENTITY bookmarkhistory_import_wait "Veuillez patienter…">
 
-<!ENTITY suggestions_prompt3 "Voulez-vous activer les suggestions de recherche ?">
+<!ENTITY suggestions_prompt3 "Voulez-vous activer les suggestions de recherche ?">
 <!--  Localization note (search_bar_item_desc): When the user clicks the url bar
       and starts typing, a list of icons of search engines appears at the bottom
       of the screen. When a user clicks an icon, the entered text will be searched
