@@ -4,7 +4,7 @@
 
 <!ENTITY pageTitle                 "Retours d'utilisation de &brandShortName;">
 
-<!ENTITY intro.header              "Avez-vous une minute ?">
+<!ENTITY intro.header              "Avez-vous une minute ?">
 <!ENTITY intro.message             "Dites-nous ce que vous pensez jusque-là de &brandShortName; pour Android.">
 <!ENTITY intro.happyLink           "Je l'adore">
 <!ENTITY intro.sadLink             "Je rencontre quelques problèmes">
@@ -17,8 +17,8 @@
 <!ENTITY support.link2             "site d'assistance">
 <!ENTITY support.post3             " pour obtenir des réponses aux problèmes les plus fréquents.">
 
-<!ENTITY happy.header              "Merci de votre soutien !">
-<!ENTITY happy.message             "Voulez-vous nous aider encore plus en nous attribuant une note de 5 étoiles sur Google Play ?">
+<!ENTITY happy.header              "Merci de votre soutien !">
+<!ENTITY happy.message             "Voulez-vous nous aider encore plus en nous attribuant une note de 5 étoiles sur Google Play ?">
 <!ENTITY happy.finePrint           "C'est très rapide et vous ferez une bonne action.">
 <!ENTITY happy.ratingLink          "Oui, ouvrir Google Play">
 <!ENTITY happy.maybeLater2         "Plus tard, peut-être">
