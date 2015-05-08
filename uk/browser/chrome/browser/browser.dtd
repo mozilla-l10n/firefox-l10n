@@ -440,7 +440,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openLinkCmd.label            "Відкрити посилання в новому вікні">
 <!ENTITY openLinkCmd.accesskey        "к">
 <!ENTITY openLinkInPrivateWindowCmd.label "Відкрити у новому приватному вікні">
-<!ENTITY openLinkInPrivateWindowCmd.accesskey "P">
+<!ENTITY openLinkInPrivateWindowCmd.accesskey "и">
 <!ENTITY openLinkCmdInCurrent.label     "Відкрити посилання">
 <!ENTITY openLinkCmdInCurrent.accesskey "В">
 <!ENTITY openFrameCmdInTab.label      "Відкрити фрейм в новій вкладці">
