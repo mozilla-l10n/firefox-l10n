@@ -15,8 +15,8 @@
 <!ENTITY saveCmd.accesskey "M">
 <!ENTITY saveAsCmd.label "Memorisar sut…">
 <!ENTITY saveAsCmd.accesskey "s">
-<!ENTITY saveAsChangeEncodingCmd.label "Memorisar e midar la codaziun da caracters">
-<!ENTITY saveAsChangeEncodingCmd.accesskey "c">
+<!ENTITY saveAsChangeEncodingCmd2.label "Memorisar e midar la codaziun dal text">
+<!ENTITY saveAsChangeEncodingCmd2.accesskey "c">
 <!ENTITY publishCmd.label "Publitgar">
 <!ENTITY publishCmd.accesskey "P">
 <!ENTITY publishCmd.key "S">

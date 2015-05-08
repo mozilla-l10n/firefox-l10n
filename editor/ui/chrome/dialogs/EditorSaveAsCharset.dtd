@@ -7,10 +7,10 @@
 <!-- This button is for the progressive disclosure of additional editing functionality -->
 
 <!-- These strings are for use specifically in the editor's link dialog. -->
-<!ENTITY windowTitle.label "Memorisar e midar la codaziun da caracters">
+<!ENTITY windowTitle2.label "Memorisar e midar la codaziun dal text">
 <!ENTITY documentTitleTitle.label "Titel da la pagina">
-<!ENTITY documentCharsetTitle.label "Codaziun da caracters">
-<!ENTITY documentCharsetDesc.label "Tscherner il set da caracters che duai vegnir utilisà per memorisar il document:">
+<!ENTITY documentCharsetTitle2.label "Codaziun dal text">
+<!ENTITY documentCharsetDesc2.label "Tscherner il set da caracters che duai vegnir utilisà per memorisar il document:">
 <!ENTITY documentExportToText.label "Exportar a text">
 
 
