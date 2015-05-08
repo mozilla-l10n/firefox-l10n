@@ -141,7 +141,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisPageCmd.label "Ket alama buk i pot buk man">
 <!ENTITY editThisBookmarkCmd.label "Yub alama buk man">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
-<!ENTITY markPageCmd.commandkey "I">
+<!ENTITY markPageCmd.commandkey "l">
 <!-- LOCALIZATION NOTE (findShareServices.label):
   -  Use the unicode ellipsis char, \u2026,
   -  or use "..." if \u2026 doesn't suit traditions in your locale. -->
@@ -193,7 +193,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksCmd.commandkey "b">
 
 <!ENTITY bookmarksMenuButton.label          "Alama buk">
-<!ENTITY bookmarksMenuButton.unsorted.label "Alama buk ma pe ki yeko">
+<!ENTITY bookmarksMenuButton.unsorted.label "Alama pot buk ma pe kiyeko">
 <!ENTITY viewBookmarksSidebar2.label        "Nen gintic alama buk ma inget">
 <!ENTITY viewBookmarksToolbar.label         "Nen gintic alama buk">
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
@@ -388,7 +388,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY customizeMenu.addMoreItems.label "Med jami mukene…">
 <!ENTITY customizeMenu.addMoreItems.accesskey "M">
 
-<!ENTITY openCmd.commandkey           "I">
+<!ENTITY openCmd.commandkey           "l">
 <!ENTITY urlbar.placeholder2          "Yeny onyo ket kanonge">
 <!ENTITY urlbar.accesskey             "d">
 <!ENTITY urlbar.switchToTab.label     "Lokke bot dirica matidi:">
@@ -778,7 +778,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY trackingContentBlocked.options "Gin ayera">
 <!ENTITY trackingContentBlocked.unblock2.label "Juk gwokke pi pot buk man">
 <!ENTITY trackingContentBlocked.unblock2.accesskey "J">
-<!ENTITY trackingContentBlocked.block.label "Cak gwoke">
+<!ENTITY trackingContentBlocked.block.label "Cak gwokke">
 <!ENTITY trackingContentBlocked.block.accesskey "C">
 <!ENTITY trackingContentBlocked.disabled.message "Kijuko woko gwokke me lubo kor">
 
