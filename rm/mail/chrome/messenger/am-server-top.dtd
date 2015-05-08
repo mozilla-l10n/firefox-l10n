@@ -74,7 +74,7 @@
 <!ENTITY abbreviateOff.label "Nums abreviads (Per exempel: 'n.p.m.mail-news')">
 <!ENTITY advancedButton.label "Extendì…">
 <!ENTITY advancedButton.accesskey "x">
-<!ENTITY serverDefaultCharset.label "Codaziun da caracters da standard:">
+<!ENTITY serverDefaultCharset2.label "Codaziun da text predefinida:">
 <!ENTITY localPath.label "Ordinatur local:">
 <!ENTITY localFolderPicker.label "Tscherner in ordinatur local">
 <!ENTITY browseFolder.label "Tschertgar en…">
@@ -87,5 +87,5 @@
 
 <!ENTITY storeType.label "Metoda per memorisar messadis:">
 <!ENTITY storeType.accesskey "T">
-<!ENTITY mboxStore.label "Ina datoteca gronda (mbox)">
+<!ENTITY mboxStore.label "Ina datoteca per ordinatur (mbox)">
 <!ENTITY maildirStore.label "Ina datoteca per messadi (maildir)">
