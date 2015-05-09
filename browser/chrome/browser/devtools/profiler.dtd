@@ -51,16 +51,23 @@
 
 <!-- LOCALIZATION NOTE (profilerUI.table.*): These strings are displayed
   -  in the call tree headers for a recording. -->
-<!ENTITY profilerUI.table.totalDuration2  "Durée totale">
-<!ENTITY profilerUI.table.selfDuration2   "Durée individuelle">
-<!ENTITY profilerUI.table.totalPercentage "Coût total">
-<!ENTITY profilerUI.table.selfPercentage  "Coût individuel">
-<!ENTITY profilerUI.table.samples         "Échantillons">
-<!ENTITY profilerUI.table.function        "Fonctions">
-<!ENTITY profilerUI.table.totalAlloc1       "Allocations totales">
-<!ENTITY profilerUI.table.totalAllocTooltip "Le nombre total d'allocations d'objets échantillonnés à cet endroit et dans les appels.">
-<!ENTITY profilerUI.table.selfAlloc1        "Allocations individuelles">
-<!ENTITY profilerUI.table.selfAllocTooltip  "Le nombre d'allocations d'objets échantillonnés à cet endroit.">
+<!ENTITY profilerUI.table.totalDuration2           "Durée totale">
+<!ENTITY profilerUI.table.totalDuration.tooltip    "Le temps passé dans cette fonction et dans celles qu'elle a appelé.">
+<!ENTITY profilerUI.table.selfDuration2            "Durée individuelle">
+<!ENTITY profilerUI.table.selfDuration.tooltip     "Le temps passé dans cette fonction uniquement.">
+<!ENTITY profilerUI.table.totalPercentage          "Coût total">
+<!ENTITY profilerUI.table.totalPercentage.tooltip  "Le pourcentage de temps passé dans cette fonction et dans les fonctions qu'elle a appelé.">
+<!ENTITY profilerUI.table.selfPercentage           "Coût individuel">
+<!ENTITY profilerUI.table.selfPercentage.tooltip   "Le pourcentage de temps passé dans cette fonction et dans celles qu'elle a appelé.">
+<!ENTITY profilerUI.table.samples                  "Échantillons">
+<!ENTITY profilerUI.table.samples.tooltip          "Le nombre de fois où cette fonction était sur la pile lorsque le profileur a capturé un échantillon.">
+<!ENTITY profilerUI.table.function                 "Fonction">
+<!ENTITY profilerUI.table.function.tooltip         "Le nom et l'emplacement de la source de la fonction échantillonnée.">
+<!ENTITY profilerUI.table.totalAlloc1              "Allocations totales">
+<!ENTITY profilerUI.table.totalAlloc.tooltip       "Le nombre total d'allocations d'objets échantillonnés à cet endroit et dans les appels.">
+<!ENTITY profilerUI.table.selfAlloc1               "Allocations individuelles">
+<!ENTITY profilerUI.table.selfAlloc.tooltip        "Le nombre d'allocations d'objets échantillonnés à cet endroit.">
+
 
 <!-- LOCALIZATION NOTE (profilerUI.newtab.tooltiptext): The tooltiptext shown
   -  on the "+" (new tab) button for a profile when a selection is available. -->
