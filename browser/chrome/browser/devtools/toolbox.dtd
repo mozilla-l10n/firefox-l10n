@@ -77,7 +77,7 @@
   -  checkbox that toggles chrome debugging, i.e. devtools.chrome.enabled
   -  boolean preference in about:config, in the options panel. -->
 <!ENTITY options.enableChrome.label5    "Slå chrome- og tilføjelses-debuggingsværktøjer til">
-<!ENTITY options.enableChrome.tooltip3  "Aktiverer du denne funktion, kan du bruge diverse udviklerværktøjer i en browser-kontekst (via Funktioner > Udviklerværktøjer > Vis værktøjer) og debugge tilføjelser fra fanebladet Tilføjelser">
+<!ENTITY options.enableChrome.tooltip3  "Aktiverer du denne funktion, kan du bruge diverse udviklerværktøjer i en browser-kontekst (via Funktioner > Webudvikler > Browserværktøjer) og debugge tilføjelser fra fanebladet Tilføjelser">
 
 <!-- LOCALIZATION NOTE (options.enableRemote.label): This is the label for the
   -  checkbox that toggles remote debugging, i.e. devtools.debugger.remote-enabled
