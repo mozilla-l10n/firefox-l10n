@@ -63,7 +63,7 @@
 <!ENTITY options.sourceeditor.autoclosebrackets.tooltip "Автоматически вставлять закрывающие скобки">
 <!ENTITY options.sourceeditor.expandtab.label "Отступ с помощью пробелов">
 <!ENTITY options.sourceeditor.expandtab.tooltip "Использовать пробелы вместо символа табуляции">
-<!ENTITY options.sourceeditor.tabsize.label "Размер вкладки">
+<!ENTITY options.sourceeditor.tabsize.label "Ширина табуляции">
 <!ENTITY options.sourceeditor.tabsize.accesskey "а">
 <!ENTITY options.sourceeditor.keybinding.label "Сочетания клавиш">
 <!ENTITY options.sourceeditor.keybinding.accesskey "о">
