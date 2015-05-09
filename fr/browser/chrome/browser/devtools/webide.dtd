@@ -196,7 +196,7 @@
 <!-- Logs panel -->
 <!ENTITY logs_title "Journaux de la commande de pré-empaquetage">
 
-+<!-- Simulator Options -->
+<!-- Simulator Options -->
 <!ENTITY simulator_title "Options du simulateur">
 <!ENTITY simulator_remove "Supprimer le simulateur">
 <!ENTITY simulator_reset "Réinitialiser">
