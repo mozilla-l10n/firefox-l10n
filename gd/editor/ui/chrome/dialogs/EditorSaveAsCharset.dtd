@@ -4,8 +4,12 @@
 <!-- These strings are generic to all or most of the editor's dialogs. -->
 <!-- This button is for the progressive disclosure of additional editing functionality -->
 <!-- These strings are for use specifically in the editor's link dialog. -->
+
+
+
+<!ENTITY windowTitle2.label "Sàbhail is atharraich còdachadh an teacsa">
 <!ENTITY documentTitleTitle.label "Tiotal na duilleige">
-
-
+<!ENTITY documentCharsetTitle2.label "Còdachadh an teacsa">
+<!ENTITY documentCharsetDesc2.label "Tagh an còdachadh teacsa san dèid an sgrìobhainn a shàbhaladh:">
 <!ENTITY documentExportToText.label "Às-phortaich gu teacsa">
 
