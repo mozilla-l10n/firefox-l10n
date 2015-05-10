@@ -219,7 +219,7 @@
 <!ENTITY expandAllThreadsCmd.key "*">
 <!ENTITY collapseAllThreadsCmd.label "Strni vse niti">
 <!ENTITY collapseAllThreadsCmd.accesskey "S">
-<!ENTITY collapseAllThreadsCmd.key "\">
+<!ENTITY collapseAllThreadsCmd.key "/">
 <!ENTITY unreadMsgsCmd.label "Neprebrane">
 <!ENTITY unreadMsgsCmd.accesskey "e">
 <!ENTITY threadsWithUnreadCmd.label "Niti z neprebranimi">
@@ -278,7 +278,7 @@
 <!ENTITY findPrevCmd.key2 "VK_F3">
 <!ENTITY searchMailCmd.label "Išči po sporočilih …">
 <!ENTITY searchMailCmd.accesskey "s">
-<!ENTITY searchMailCmd.key "i">
+<!ENTITY searchMailCmd.key "f">
 <!ENTITY searchAddressesCmd.label "Išči po naslovih …">
 <!ENTITY searchAddressesCmd.accesskey "n">
 <!-- Go Menu -->
@@ -289,23 +289,23 @@
 <!ENTITY nextMenu.accesskey "N">
 <!ENTITY nextMsgCmd.label "Sporočilo">
 <!ENTITY nextMsgCmd.accesskey "S">
-<!ENTITY nextMsgCmd.key "n">
+<!ENTITY nextMsgCmd.key "l">
 <!ENTITY nextUnreadMsgCmd.label "Neprebrano sporočilo">
 <!ENTITY nextUnreadMsgCmd.accesskey "N">
-<!ENTITY nextUnreadMsgCmd.key "E">
+<!ENTITY nextUnreadMsgCmd.key "e">
 <!ENTITY nextStarredMsgCmd.label "Sporočilo z zvezdico">
 <!ENTITY nextStarredMsgCmd.accesskey "z">
 <!ENTITY nextUnreadThread.label "Neprebrana nit">
 <!ENTITY nextUnreadThread.accesskey "e">
-<!ENTITY nextUnreadThread.key "R">
+<!ENTITY nextUnreadThread.key "i">
 <!ENTITY prevMenu.label "Prejšnje">
 <!ENTITY prevMenu.accesskey "P">
 <!ENTITY prevMsgCmd.label "Sporočilo">
 <!ENTITY prevMsgCmd.accesskey "S">
-<!ENTITY prevMsgCmd.key "b">
+<!ENTITY prevMsgCmd.key "j">
 <!ENTITY prevUnreadMsgCmd.label "Neprebrano sporočilo">
 <!ENTITY prevUnreadMsgCmd.accesskey "N">
-<!ENTITY prevUnreadMsgCmd.key "N">
+<!ENTITY prevUnreadMsgCmd.key "š">
 <!ENTITY goForwardCmd.label "Naprej">
 <!ENTITY goForwardCmd.accesskey "a">
 <!ENTITY goForwardCmd.commandKey "]">
@@ -382,7 +382,7 @@
 <!ENTITY killSubthreadMenu.key "u">
 <!ENTITY watchThreadMenu.label "Spremljaj nit">
 <!ENTITY watchThreadMenu.accesskey "l">
-<!ENTITY watchThreadMenu.key "s">
+<!ENTITY watchThreadMenu.key "r">
 <!ENTITY tagMenu.label "Dodaj oznako">
 <!ENTITY tagMenu.accesskey "a">
 <!ENTITY tagCmd0.key "0">
@@ -397,7 +397,7 @@
 <!ENTITY tagCmd9.key "9">
 <!ENTITY markMenu.label "Označi">
 <!ENTITY markMenu.accesskey "č">
-<!ENTITY toggleReadCmd.key "m">
+<!ENTITY toggleReadCmd.key "s">
 <!ENTITY markAsReadCmd.label "Kot prebrano">
 <!ENTITY markAsReadCmd.accesskey "r">
 <!ENTITY markAsUnreadCmd.label "Kot neprebrano">
@@ -410,7 +410,7 @@
 <!ENTITY markReadByDateCmd.key "d">
 <!ENTITY markAllReadCmd.label "Vse kot prebrano">
 <!ENTITY markAllReadCmd.accesskey "V">
-<!ENTITY markAllReadCmd.key "v">
+<!ENTITY markAllReadCmd.key "d">
 <!ENTITY markStarredCmd.label "Dodaj zvezdico">
 <!ENTITY markStarredCmd.accesskey "D">
 <!ENTITY markStarredCmd.key "Z">
@@ -481,7 +481,7 @@
 <!ENTITY importCmd.accesskey "U">
 <!ENTITY errorConsoleCmd.label "Konzola za napake">
 <!ENTITY errorConsoleCmd.accesskey "K">
-<!ENTITY errorConsoleCmd.commandkey "e">
+<!ENTITY errorConsoleCmd.commandkey "j">
 <!ENTITY clearRecentHistory.label "Počisti nedavno zgodovino …">
 <!ENTITY clearRecentHistory.accesskey "P">
 <!ENTITY accountManagerCmd2.label "Nastavitve računa">
