@@ -25,6 +25,8 @@
 <!ENTITY canvasDebuggerUI.emptyNotice2    "tipku za snimanje animacije stoga poziva okvira.">
 <!-- LOCALIZATION NOTE (canvasDebuggerUI.waitingNotice): This is the label shown
   -  in the call list view while recording a snapshot. -->
+
+<!ENTITY canvasDebuggerUI.waitingNotice   "Snimanje ciklusa animacije…">
 <!-- LOCALIZATION NOTE (canvasDebuggerUI.recordSnapshot): This string is displayed
   -  on a button that starts a new snapshot. -->
 

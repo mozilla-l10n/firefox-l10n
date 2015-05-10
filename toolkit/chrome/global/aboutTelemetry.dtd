@@ -10,6 +10,7 @@
 
 <!ENTITY aboutTelemetry.generalDataSection "  Opći podaci">
 
+<!ENTITY aboutTelemetry.telemetryLogSection "  Zapisnik telemetrije">
 
 <!ENTITY aboutTelemetry.slowSqlSection "  Spori SQL upiti">
 
