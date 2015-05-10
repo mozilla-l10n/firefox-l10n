@@ -195,7 +195,7 @@
 <!ENTITY tab_queue_toast_action "Ouvrir">
 <!ENTITY tab_queue_prompt_title "Ouvrir plusieurs liens ?">
 <!ENTITY tab_queue_prompt_text2 "Ils seront ouverts sans avoir à rebasculer sur &brandShortName; à chaque fois.">
-<!ENTITY tab_queue_prompt_tip_text "vous pouvez modifier ce choix depuis les Paramètres">
+<!ENTITY tab_queue_prompt_tip_text "Vous pouvez modifier ce choix depuis les paramètres">
 <!ENTITY tab_queue_prompt_positive_action_button "Activer">
 <!ENTITY tab_queue_prompt_negative_action_button "Plus tard">
 <!ENTITY tab_queue_notification_title "&brandShortName;">
