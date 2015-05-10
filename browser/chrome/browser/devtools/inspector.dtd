@@ -31,5 +31,6 @@
 <!ENTITY inspector.selectButton.tooltip "Seleziona un elemento con il mouse">
 <!ENTITY inspectorSearchHTML.label2 "Cerca selettore CSS">
 <!ENTITY inspectorSearchHTML.key "F">
+<!ENTITY inspectorSearchHTML.label3 "Cerca in HTML">
 <!ENTITY inspectorCopyImageDataUri.label "Copia Data-URL dell’immagine">
 <!ENTITY inspectorShowDOMProperties.label "Visualizza proprietà DOM">
