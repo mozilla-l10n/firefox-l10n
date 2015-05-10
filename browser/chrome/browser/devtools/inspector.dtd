@@ -27,5 +27,6 @@
 <!ENTITY inspector.selectButton.tooltip "Seleccionar un elemento con el ratón">
 <!ENTITY inspectorSearchHTML.label2 "Buscar con selectores CSS">
 <!ENTITY inspectorSearchHTML.key "F">
+<!ENTITY inspectorSearchHTML.label3 "Buscar en HTML">
 <!ENTITY inspectorCopyImageDataUri.label "Copiar Data-URL de la imagen">
 <!ENTITY inspectorShowDOMProperties.label "Mostrar propiedades DOM">
