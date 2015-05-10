@@ -148,7 +148,7 @@
      search providers.
      The &formatI; in the string will be replaced by a small image of the icon described, and can be moved to wherever
      it is applicable. -->
-<!ENTITY pref_search_hint                "Vihje: otsingumootoriks võib lisada iga veebisaidi, lihtsalt puuduta ja hoia näppu selle otsinguväljal ning puuduta siis ikooni &formatI;.">
+<!ENTITY pref_search_hint                "Vihje: otsingumootoriks võib lisada iga veebisaidi. Lihtsalt puuduta ja hoia näppu selle otsinguväljal ning puuduta siis ikooni &formatI;.">
 <!ENTITY pref_category_devtools          "Arendajale">
 <!ENTITY pref_category_devtools_summary  "Remote debugging, paint flashing">
 <!ENTITY pref_developer_paint_flashing   "Paint flashing">
