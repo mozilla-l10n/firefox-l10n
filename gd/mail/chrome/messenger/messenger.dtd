@@ -192,8 +192,8 @@
 <!ENTITY sortByFromCmd.accesskey "A">
 <!ENTITY sortByRecipientCmd.label "An fhaighteir">
 <!ENTITY sortByRecipientCmd.accesskey "A">
-
-
+<!ENTITY sortByCorrespondentCmd.label "Co-sgrìobhaichean">
+<!ENTITY sortByCorrespondentCmd.accesskey "e">
 <!ENTITY sortByUnreadCmd.label "Na h-inbhe leughaidh">
 <!ENTITY sortByUnreadCmd.accesskey "N">
 <!ENTITY sortByOrderReceivedCmd.label "An òrduigh san d' fhuaradh iad">
@@ -660,7 +660,7 @@
 <!ENTITY threadColumn.label "Snàth">
 <!ENTITY fromColumn.label "O">
 <!ENTITY recipientColumn.label "Faightear">
-
+<!ENTITY correspondentColumn.label "Co-sgrìobhaichean">
 <!ENTITY subjectColumn.label "A' chuspair">
 <!ENTITY dateColumn.label "Ceann-là">
 <!ENTITY priorityColumn.label "Prìomhachas">
@@ -683,7 +683,7 @@
 <!ENTITY threadColumn2.tooltip "Seall snàithleanan nan teachdaireachdan">
 <!ENTITY fromColumn2.tooltip "Seòrsaich a-rèir seòladair">
 <!ENTITY recipientColumn2.tooltip "Seòrsaich a-rèir faighteir">
-
+<!ENTITY correspondentColumn2.tooltip "Seòrsaich a-rèir cho-sgrìobhaichean">
 <!ENTITY subjectColumn2.tooltip "Seòrsaich a-rèir cuspair">
 <!ENTITY dateColumn2.tooltip "Seòrsaich a-rèir cinn-là">
 <!ENTITY priorityColumn2.tooltip "Seòrsaich a-rèir prìomhachais">

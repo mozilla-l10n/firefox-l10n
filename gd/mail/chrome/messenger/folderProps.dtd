@@ -5,10 +5,10 @@
 <!ENTITY folderProps.windowtitle.label           "Roghainnean">
 
 <!ENTITY generalInfo.label                       "Fiosrachadh coitcheann">
-
-
-
-
+<!ENTITY folderCharsetFallback2.label            "Còdachadh teacsa fallback:">
+<!ENTITY folderCharsetFallback2.accesskey        "f">
+<!ENTITY folderCharsetEnforce2.label             "Cuir an gnìomh an còdachadh anns gach teachdaireachd sa phasgan (thèid roghainnean còdachadh teacsa nan teachdaireachdan fa leth agus fèin-mhothachadh a leigeil seachad)">
+<!ENTITY folderCharsetEnforce2.accesskey         "a">
 <!ENTITY folderRebuildSummaryFileTip2.label      "Ath-thog gearr-chunntas clàr-innse nam faidhle">
 <!ENTITY folderRebuildSummaryFile2.label         "Càraich pasgan">
 <!ENTITY folderRebuildSummaryFile2.accesskey     "r">
