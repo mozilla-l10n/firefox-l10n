@@ -21,6 +21,14 @@
 <!ENTITY profilerUI.stopNotice1    "Cliquez à nouveau sur le bouton">
 <!ENTITY profilerUI.stopNotice2    "pour arrêter le profilage.">
 
+<!-- LOCALIZATION NOTE (profilerUI.bufferStatusTooltip): This string
+  -  is displayed as the tooltip for the buffer capacity during a recording. -->
+<!ENTITY profilerUI.bufferStatusTooltip "Le profileur stocke les échantillons dans un tampon circulaire. Une fois que la limite de ce tampon est atteinte lors d'un enregistrement, les nouveaux échantillons commencent à remplacer les premiers échantillons de l'enregistrement.">
+
+<!-- LOCALIZATION NOTE (profilerUI.bufferStatusFull): This string
+  -  is displayed when the profiler's circular buffer has started to overlap. -->
+<!ENTITY profilerUI.bufferStatusFull "Le tampon est plein. Les échantillons les plus anciens vont être écrasés.">
+
 <!-- LOCALIZATION NOTE (profilerUI.loadingNotice): This is the label shown
   -  in the call list view while loading a profile. -->
 <!ENTITY profilerUI.loadingNotice "Chargement…">
