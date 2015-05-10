@@ -72,6 +72,8 @@
 <!ENTITY saveFrameAsCmd.label         "Enregistrer le cadre sous…">
 <!ENTITY saveFrameCmd.label           "Enregistrer le cadre">
 <!ENTITY saveFrameCmd.accesskey       "s">
+<!ENTITY printFrameCmd.label          "Imprimer le cadre…">
+<!ENTITY printFrameCmd.accesskey      "l">
 <!ENTITY saveLinkAsCmd.label          "Enregistrer le lien sous…">
 <!ENTITY saveLinkCmd.label            "Enregistrer le lien">
 <!ENTITY saveLinkCmd.accesskey        "s">

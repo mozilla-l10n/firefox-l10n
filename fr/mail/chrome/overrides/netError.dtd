@@ -165,6 +165,11 @@ Vous pouvez également utiliser la commande dans le menu d'aide pour signaler un
 <p>Les propriétaires de sites web qui pensent que leur site a été rapporté à tort comme malveillant peuvent <a href='http://www.stopbadware.org/home/reviewinfo'>demander une révision</a>.</p>
 ">
 
+<!ENTITY unwantedBlocked.title "Suspicion de site comportant des logiciels indésirables !">
+<!ENTITY unwantedBlocked.longDesc "
+<p>Les pages comportant des logiciels indésirables tentent d'installer des logiciels qui peuvent être trompeurs et nuire à votre système de manière inattendue.</p>
+">
+
 <!ENTITY phishingBlocked.title "Suspicion de site contrefait !">
 <!ENTITY phishingBlocked.longDesc "
 <p>Saisir des informations personnelles sur cette page peut aboutir à un vol d'identité ou à une autre fraude.</p>
