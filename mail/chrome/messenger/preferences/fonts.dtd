@@ -70,7 +70,7 @@
 
 <!ENTITY sendDefaultCharset.label         "Post a-mach:">
 <!ENTITY sendDefaultCharset.accesskey     "P">
-
+<!ENTITY languagesTitle2.label            "Còdachadh an teacsa">
 
 
 <!ENTITY viewDefaultCharsetList.label     "Post a-steach:">

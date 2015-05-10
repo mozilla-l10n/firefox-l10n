@@ -15,8 +15,8 @@
 <!ENTITY saveCmd.accesskey "S">
 <!ENTITY saveAsCmd.label "Sàbhail mar…">
 <!ENTITY saveAsCmd.accesskey "m">
-
-
+<!ENTITY saveAsChangeEncodingCmd2.label "Sàbhail e is atharraich còdachadh an teacsa">
+<!ENTITY saveAsChangeEncodingCmd2.accesskey "e">
 <!ENTITY publishCmd.label "Foillsich">
 <!ENTITY publishCmd.accesskey "c">
 <!ENTITY publishCmd.key "S">
