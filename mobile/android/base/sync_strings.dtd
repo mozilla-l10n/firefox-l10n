@@ -150,8 +150,8 @@
 
 <!ENTITY fxaccount_create_account_header2 "Susikurkite „Firefox“ paskyrą">
 <!ENTITY fxaccount_create_account_password_length_restriction "Turi būti bent 8 simbolių ilgio">
-
-
+<!ENTITY fxaccount_create_account_day_of_birth "Diena">
+<!ENTITY fxaccount_create_account_month_of_birth "Mėnuo">
 <!ENTITY fxaccount_create_account_year_of_birth "Gimimo metai">
 <!-- Localization note: &formatS1; is fxaccount_policy_linktos, &formatS2; is fxaccount_policy_linkprivacy, both hyperlinked. -->
 <!ENTITY fxaccount_create_account_policy_text2 "Tęsdama(s) aš sutinku su „Firefox“ debesijos &formatS1; ir &formatS2;.">
@@ -193,7 +193,7 @@
 
 <!ENTITY fxaccount_finish_migrating_header "Prisijunkite, kad užbaigtumėte atnaujinimą">
 <!ENTITY fxaccount_finish_migrating_button_label "Baigti atnaujinimą">
-
+<!ENTITY fxaccount_finish_migrating_description "Atnaujinimo metu gali būti perduota daug duomenų, todėl geriausia prisijungti prie „Wi-Fi“ tinklo.">
 
 <!ENTITY fxaccount_status_header2 "„Firefox“ paskyra">
 <!ENTITY fxaccount_status_signed_in_as "Prisijungėte kaip">
