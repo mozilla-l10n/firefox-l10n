@@ -180,10 +180,10 @@
 <!ENTITY pref_header_help "Pagalba">
 <!ENTITY pref_header_language "Kalba">
 <!ENTITY pref_header_vendor "„&vendorShortName;“">
-
+<!ENTITY pref_header_devtools "Programuotojų priemonės">
 
 <!ENTITY pref_cookies_menu "Slapukai">
-
+<!ENTITY pref_cookies_accept_all "Įjungta">
 <!ENTITY pref_cookies_not_accept_foreign "Leidžiami, išskyrus trečiųjų šalių">
 <!ENTITY pref_cookies_disabled "Neleidžiami">
 
@@ -192,17 +192,22 @@
 <!ENTITY pref_donottrack_title "Nestebėti">
 <!ENTITY pref_donottrack_summary "&brandShortName; praneš svetainėms, kad jūs nenorite būti stebimi">
 
-
+<!ENTITY tab_queue_toast_message "Atverti vėliau">
+<!ENTITY tab_queue_toast_action "Atverti dabar">
 <!-- Localization note (tab_queue_notification_text_plural) : The
      formatD is replaced with the number of tabs queued.  The
      number of tabs queued is always more than one.  We can't use
      Android plural forms, sadly. See Bug #753859. -->
+<!ENTITY tab_queue_notification_text_plural "Laukiančių kortelių: &formatD;">
 <!-- Localization note (tab_queue_notification_title_plural) : This is the
      title of a notification; we expect more than one tab queued. -->
+<!ENTITY tab_queue_notification_title_plural "Laukiančios kortelės">
 <!-- Localization note (tab_queue_notification_title_singular) : This is the
      title of a notification; we expect only one tab queued. -->
+<!ENTITY tab_queue_notification_title_singular "Laukianti kortelė">
 <!-- Localization note (tab_queue_notification_text_singular) : This is the
      text of a notification; we expect only one tab queued. -->
+<!ENTITY tab_queue_notification_text_singular "Laukia 1 kortelė">
 
 <!ENTITY pref_char_encoding "Simbolių koduotė">
 <!ENTITY pref_char_encoding_on "Rodyti meniu">
@@ -213,9 +218,9 @@
 <!ENTITY pref_clear_on_exit_summary2 "„&brandShortName;“ automatiškai išvalys privačius duomenis kaskart jums pasirinkus pagrindinio meniu punktą „Baigti darbą“">
 <!ENTITY pref_clear_on_exit_dialog_title "Pasirinkite, kuriuos duomenis reikia valyti">
 <!ENTITY pref_plugins "Papildiniai">
-
+<!ENTITY pref_plugins_enabled "Įjungta">
 <!ENTITY pref_plugins_tap_to_play "Leidžiami bakstelėjus">
-
+<!ENTITY pref_plugins_disabled "Išjungta">
 <!ENTITY pref_text_size "Šriftų dydžiai">
 <!ENTITY pref_reflow_on_zoom4 "Teksto pločio prisitaikymas">
 <!ENTITY pref_restore "Kortelės">
@@ -313,8 +318,8 @@ size. -->
 <!ENTITY quit "Baigti darbą">
 
 <!ENTITY addons "Priedai">
-
-
+<!ENTITY logins "Prisijungimai">
+<!ENTITY downloads "Atsiuntimai">
 <!ENTITY apps "Programos">
 <!ENTITY char_encoding "Simbolių koduotė">
 
@@ -330,7 +335,7 @@ size. -->
 <!ENTITY new_private_tab "Nauja privačioji kortelė">
 <!ENTITY close_all_tabs "Užverti visas korteles">
 <!ENTITY close_private_tabs "Užverti privačiąsias korteles">
-
+<!ENTITY tabs_normal "Kortelės">
 <!ENTITY tabs_private "Privačiosios">
 <!ENTITY tabs_synced "Sinchronizuojamos">
 <!ENTITY set_image_fail "Nepavyko naudoti paveikslo">
@@ -353,16 +358,16 @@ size. -->
 
 <!ENTITY contextmenu_open_new_tab "Atverti naujoje kortelėje">
 <!ENTITY contextmenu_open_private_tab "Atverti privačiojoje kortelėje">
-
+<!ENTITY contextmenu_remove "Pašalinti">
 <!ENTITY contextmenu_add_to_launcher "Įtraukti į pradžios ekraną">
-
+<!ENTITY contextmenu_share "Dalintis">
 <!ENTITY contextmenu_pasteandgo "Įdėti ir atverti">
 <!ENTITY contextmenu_paste "Įdėti">
 <!ENTITY contextmenu_copyurl "Kopijuoti adresą">
 <!ENTITY contextmenu_edit_bookmark "Taisyti">
 <!ENTITY contextmenu_subscribe "Prenumeruoti tinklalapį">
 <!ENTITY contextmenu_site_settings "Keisti svetainės nuostatas">
-
+<!ENTITY contextmenu_top_sites_edit "Taisyti">
 <!ENTITY contextmenu_top_sites_pin "Įsegti svetainę">
 <!ENTITY contextmenu_top_sites_unpin "Išsegti svetainę">
 <!ENTITY contextmenu_add_search_engine "Pridėti ieškyklę">
@@ -370,8 +375,10 @@ size. -->
      where normally a username would be displayed. In this case, no username was found, and this placeholder
      contains brackets to indicate this is not actually a username, but rather a placeholder -->
 
+<!ENTITY doorhanger_login_no_username "[Nėra vardo]">
+<!ENTITY doorhanger_login_edit_title "Keisti prisijungimą">
 <!ENTITY doorhanger_login_edit_username_hint "Naudotojo vardas">
-
+<!ENTITY doorhanger_login_edit_password_hint "Slaptažodis">
 <!ENTITY doorhanger_login_edit_toggle "Rodyti slaptažodį">
 
 <!ENTITY pref_titlebar_mode "Antraštės juosta">
@@ -407,6 +414,7 @@ size. -->
 <!ENTITY reading_list_removed "Tinklalapis pašalintas iš skaitinių sąrašo">
 <!-- Localization note (reading_list_remove) : Used to remove the currently open page from
      the user's reading list. The opposite of overlay_share_reading_list_btn_label. -->
+<!ENTITY reading_list_remove "Pašalinti iš skaitymo sąrašo">
 <!ENTITY reading_list_duplicate "Tinklalapis jau yra skaitinių sąraše">
 <!-- Localization note (reading_list_time_minutes2) : This string is used in the "Reading List"
      panel on the home page to give the user an estimate of how many minutes it will take to
@@ -421,11 +429,11 @@ size. -->
 
 <!ENTITY masterpassword_create_title "Sukurti pagrindinį slaptažodį">
 <!ENTITY masterpassword_remove_title "Pašalinti pagrindinį slaptažodį">
-
+<!ENTITY masterpassword_password "Slaptažodis">
 <!ENTITY masterpassword_confirm "Pakartokite slaptažodį">
 
 <!ENTITY button_ok "Gerai">
-
+<!ENTITY button_cancel "Atsisakyti">
 <!ENTITY button_yes "Taip">
 <!ENTITY button_no "Ne">
 <!ENTITY button_clear_data "Valyti duomenis">
@@ -581,24 +589,29 @@ iš „Android“">
 <!ENTITY updater_downloading_select2 "Bakstelėkite, kad parsiuntus, naujinimas būtų įdiegtas">
 <!ENTITY updater_downloading_retry2 "Bakstelėkite, kad būtų pabandyta iš naujo">
 
+<!ENTITY updater_apply_title2 "Yra „&brandShortName;“ naujinimas">
 <!ENTITY updater_apply_select2 "Bakstelėkite, kad naujinimas būtų įdiegtas">
 <!-- Guest mode -->
 
 <!ENTITY new_guest_session "Naujas svečio seansas">
 <!ENTITY exit_guest_session "Užbaigti svečio seansą">
 <!ENTITY guest_session_dialog_continue "Tęsti">
-
+<!ENTITY guest_session_dialog_cancel "Atsisakyti">
 <!ENTITY new_guest_session_title "Dabar „&brandShortName;“ bus paleista iš naujo">
 <!ENTITY new_guest_session_text "Asmuo, kuris ja naudosis, nematys jokių jūsų asmeninių naršymo duomenų (įrašytų slaptažodžių, žurnalo, adresyno ir kitų).\n\nJūsų svečiui baigus naršymą, bus pašalinti jo naršymo duomenys ir atkurtas, jūsų naršymo seansas.">
 <!ENTITY guest_browsing_notification_title "Svečio naršymas įjungtas">
 <!ENTITY guest_browsing_notification_text "Bakstelėkite, norėdami išeiti">
 
+<!ENTITY exit_guest_session_title "Dabar „&brandShortName;“ bus paleista iš naujo">
 <!ENTITY exit_guest_session_text "Šio naršymo seanso duomenys bus pašalinti.">
 <!-- Miscellaneous -->
 <!-- LOCALIZATION NOTE (ellipsis): This text is appended to a piece of text that does not fit in the
      designated space. Use the unicode ellipsis char, \u2026, or use "..." if \u2026 doesn't suit
      traditions in your locale. -->
 
+<!ENTITY ellipsis "…">
+
+<!ENTITY colon ":">
 <!-- These are only used for accessibility for the done and overflow-menu buttons in the actionbar.
      They are never shown to users -->
 
@@ -609,8 +622,8 @@ iš „Android“">
 <!ENTITY voicesearch_prompt "Kalbėkite dabar">
 <!ENTITY voicesearch_failed_title "„&brandShortName;“ paieška balsu">
 <!ENTITY voicesearch_failed_message "Šiuo metu yra problemų su paieška balsu. Prašome pabandyti vėliau.">
-
-
+<!ENTITY voicesearch_failed_message_recoverable "Atsiprašome! Mums nepavyko suprasti jūsų žodžių. Pabandykite dar kartą.">
+<!ENTITY voicesearch_failed_retry "Bandyti vėl">
 <!-- Localization note (remote_tabs_last_synced): the variable is replaced by a
      "relative time span string" produced by Android.  This string describes the
      time the tabs were last synced relative to the current time; examples
@@ -620,6 +633,7 @@ iš „Android“">
 
 <!ENTITY remote_tabs_last_synced "Paskiausiai sinchronizuota: &formatS;">
 <!-- Localization note: Used when the sync has not happend yet, showed in place of a date -->
+<!ENTITY remote_tabs_never_synced "Paskutinė sinchronizacija: niekada">
 <!-- Find-In-Page strings -->
 <!-- LOCALIZATION NOTE (find_matchcase): This is meant to appear as an icon that changes color
      if match-case is activated. i.e. No more than two letters, one uppercase, one lowercase. -->
