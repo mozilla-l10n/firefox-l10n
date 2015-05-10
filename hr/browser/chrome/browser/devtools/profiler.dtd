@@ -45,9 +45,9 @@
 
 <!ENTITY profilerUI.toolbar.waterfall "Vremenska crta">
 <!ENTITY profilerUI.toolbar.js-calltree "JavaScript">
-
+<!ENTITY profilerUI.toolbar.memory-calltree1 "Alokacije">
 <!ENTITY profilerUI.toolbar.js-flamegraph "JS Flame Chart">
-
+<!ENTITY profilerUI.toolbar.memory-flamegraph1 "Flame grafikon alokacija">
 <!-- LOCALIZATION NOTE (profilerUI.table.*): These strings are displayed
   -  in the call tree headers for a recording. -->
 
@@ -57,16 +57,18 @@
 <!ENTITY profilerUI.table.selfPercentage  "Vlastiti trošak">
 <!ENTITY profilerUI.table.samples         "Uzorci">
 <!ENTITY profilerUI.table.function        "Funkcija">
-
-
-
-
+<!ENTITY profilerUI.table.totalAlloc1       "Ukupne uzorkovane alokacije">
+<!ENTITY profilerUI.table.totalAllocTooltip "Ukupan broj Object alokacija uzorkovanih na ovoj lokaciji i u pozivateljima.">
+<!ENTITY profilerUI.table.selfAlloc1        "Samo-uzorkovane alokacije">
+<!ENTITY profilerUI.table.selfAllocTooltip  "Broj Object alokacija uzorkovanih na ovoj lokaciji.">
 <!-- LOCALIZATION NOTE (profilerUI.newtab.tooltiptext): The tooltiptext shown
   -  on the "+" (new tab) button for a profile when a selection is available. -->
 
 <!ENTITY profilerUI.newtab.tooltiptext "Dodaj novu karticu iz odabira">
 <!-- LOCALIZATION NOTE (profilerUI.toolbar.filter.tooltiptext): This string
   -  is displayed next to the filter button-->
+
+<!ENTITY profilerUI.options.filter.tooltiptext "Odaberite koji podaci trebaju biti prikazani na vremenskoj crti">
 <!-- LOCALIZATION NOTE (profilerUI.options.tooltiptext): This is the tooltip
   -  for the options button. -->
 
