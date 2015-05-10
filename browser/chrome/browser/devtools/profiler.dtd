@@ -6,6 +6,8 @@
 <!ENTITY profilerUI.emptyNotice2 "per avviare la registrazione delle chiamate di funzione JavaScript.">
 <!ENTITY profilerUI.stopNotice1 "Fai clic nuovamente sul pulsante">
 <!ENTITY profilerUI.stopNotice2 "per interrompere la profilazione.">
+<!ENTITY profilerUI.bufferStatusTooltip "Le informazioni del Profiler vengono salvate in un buffer circolare: una volta raggiunto il limite di registrazione, i dati sovrascrivono i campioni all’inizio della registrazione.">
+<!ENTITY profilerUI.bufferStatusFull "Il buffer è pieno. I campioni più vecchi verranno sovrascritti.">
 <!ENTITY profilerUI.loadingNotice "Caricamento…">
 <!ENTITY profilerUI.recordButton.tooltip "Registra le chiamate di funzione JavaScript.">
 <!ENTITY profilerUI.importButton "Importa…">
