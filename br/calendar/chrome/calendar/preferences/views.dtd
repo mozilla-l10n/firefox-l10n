@@ -12,6 +12,14 @@
 <!ENTITY pref.calendar.view.multiweekview.caption "Gwel liessizhun">
 <!ENTITY pref.calendar.view.workweek.caption "Sizhun labour">
 
+<!ENTITY pref.weekstarts.label "Kregiñ ar sizhun d'ar/al :">
+<!ENTITY pref.weekstarts.accesskey "K">
+<!ENTITY pref.daysoff.label "Enkorfañ an devezhioù-mañ er sizhun labour :">
+
+<!ENTITY pref.calendar.view.daystart.label "An devezh a grog da :">
+<!ENTITY pref.calendar.view.daystart.accesskey "d">
+<!ENTITY pref.calendar.view.dayend.label "An devezh a echu da :">
+<!ENTITY pref.calendar.view.dayend.accesskey "z">
 
 
 
@@ -20,15 +28,9 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY pref.numberofweeks.1 "1 sizhun">
+<!ENTITY pref.numberofweeks.2 "2 sizhun">
+<!ENTITY pref.numberofweeks.3 "3 sizhun">
+<!ENTITY pref.numberofweeks.4 "4 sizhun">
+<!ENTITY pref.numberofweeks.5 "5 sizhun">
+<!ENTITY pref.numberofweeks.6 "6 sizhun">
