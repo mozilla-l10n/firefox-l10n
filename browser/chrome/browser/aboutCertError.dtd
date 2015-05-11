@@ -28,9 +28,9 @@ etotooɗo jamfaade lowre ndee, te a fotaani jokkude.">
 <!ENTITY certerror.whatShouldIDo.badStsCertExplanation "Ndee lowre huutortoo ko HTTP 
 Strict Transport Security (HSTS) ngam joopaade yoo &brandShortName; seŋo tan e mayre e mbaydi kisndi. Ɗuum jibinta ko horaade ɓeydude heen paltol nguu 
 seedamfaagu.">
-<!ENTITY certerror.getMeOutOfHere.label "Yaltin am ɗoo, a haalii bone!">
+<!ENTITY certerror.getMeOutOfHere.label "Yaltin am ɗoo!">
 
-<!ENTITY certerror.expert.heading "Miɗo Faami Ñawooje ɗee">
+<!ENTITY certerror.expert.heading "Miɗo Faami Semmuuji ɗii">
 <!ENTITY certerror.expert.content "So aɗa faami ko yahetee, aɗa 
 waawi wiyde &brandShortName; yoo fuɗɗo hoolaade innital ndee lowre. 
 <b>Hay so aɗa hoolii lowre ndee, ndeen juumre ena waawi firde wonde won 
