@@ -37,7 +37,7 @@
 <!ENTITY lightning.menu.eventtask.accesskey            "r">
 <!-- properties dialog, calendar creation wizard -->
 
-<!ENTITY lightning.calendarproperties.email.label               "e-posta:">
+<!ENTITY lightning.calendarproperties.email.label               "E-posta:">
 <!-- iMIP Bar (meeting support) -->
 
 <!ENTITY lightning.imipbar.btnAccept.label                                  "Onartu">
@@ -60,9 +60,9 @@
 <!ENTITY lightning.imipbar.btnReconfirm.tooltiptext                         "Birberrespena bidaltzen dio antolatzaileari">
 <!ENTITY lightning.imipbar.btnSaveCopy.label                                "Gorde kopia bat">
 <!ENTITY lightning.imipbar.btnSaveCopy.tooltiptext                          "Gorde gertaeraren kopia egutegian antolatzaileari erantzutea ala ez alde batera utzita. Partaideen zerrenda aditzera emango da.">
-<!ENTITY lightning.imipbar.btnTentative.label                               "Saiakera">
+<!ENTITY lightning.imipbar.btnTentative.label                               "Behin-behinekoa">
 <!ENTITY lightning.imipbar.btnTentative2.tooltiptext                        "Onartu gonbidapena behin-behinean">
-<!ENTITY lightning.imipbar.btnTentativeRecurrences.label                    "Saiakera guztiak">
+<!ENTITY lightning.imipbar.btnTentativeRecurrences.label                    "Behin-behinekoak guztiak">
 <!ENTITY lightning.imipbar.btnTentativeRecurrences2.tooltiptext             "Onartu behin-behinean gonbidapena gertaeraren agerpen guztietarako">
 <!ENTITY lightning.imipbar.btnUpdate.label                                  "Eguneratu">
 <!ENTITY lightning.imipbar.btnUpdate.tooltiptext                            "Eguneratu gertaera egutegian">
@@ -82,8 +82,8 @@
 <!ENTITY todaypane.showMinimonth.accesskey "m">
 <!ENTITY todaypane.showMiniday.label "Ikusi mini-eguna">
 <!ENTITY todaypane.showMiniday.accesskey  "e">
-<!ENTITY todaypane.showNone.label "Erakutsi Bat ere ez">
-<!ENTITY todaypane.showNone.accesskey "B">
+<!ENTITY todaypane.showNone.label "Ikusi batez">
+<!ENTITY todaypane.showNone.accesskey "b">
 <!ENTITY todaypane.showTodayPane.label "Ikusi gaurko panela">
 <!ENTITY todaypane.showTodayPane.accesskey "u">
 <!ENTITY todaypane.statusButton.label "Gaurko panela">

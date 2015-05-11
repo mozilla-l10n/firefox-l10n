@@ -11,7 +11,7 @@
 
 <!ENTITY calendar.invitations.list.accept.button.label                  "Onartu">
 <!ENTITY calendar.invitations.list.decline.button.label                 "Ukatu">
-<!ENTITY calendar.invitations.list.recurrentevent.text                  "Gertaera errepikakorra">
+<!ENTITY calendar.invitations.list.recurrentevent.text                  "Errepikatuko den gertaera">
 <!ENTITY calendar.invitations.list.alldayevent.text                     "Egun osoko gertaera">
 <!ENTITY calendar.invitations.list.location.text                        "Kokapena: ">
 <!ENTITY calendar.invitations.list.organizer.text                       "Antolatzailea: ">

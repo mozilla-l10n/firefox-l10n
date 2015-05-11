@@ -10,5 +10,5 @@
 <!ENTITY calendar.subscriptions.dialog.select.label.value               "Aukeratu egutegiak harpidetzeko:">
 <!ENTITY calendar.subscriptions.dialog.subscribe.button.label           "Harpidetu">
 <!ENTITY calendar.subscriptions.dialog.unsubscribe.button.label         "Harpidetza kendu">
-<!ENTITY calendar.subscriptions.dialog.statusmessage.busy.label         "Bilatu...">
+<!ENTITY calendar.subscriptions.dialog.statusmessage.busy.label         "Bilatu…">
 <!ENTITY calendar.subscriptions.dialog.statusmessage.nomatches.label    "Ez da aurkitu bat datorrenik.">
