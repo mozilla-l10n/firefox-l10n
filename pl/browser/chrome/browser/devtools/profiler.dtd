@@ -17,15 +17,21 @@
 <!ENTITY profilerUI.toolbar.js-flamegraph "Diagram JS">
 <!ENTITY profilerUI.toolbar.memory-flamegraph1 "Diagram alokacji">
 <!ENTITY profilerUI.table.totalDuration2 "Całkowity czas">
+<!ENTITY profilerUI.table.totalDuration.tooltip "Czas spędzony podczas wykonywania tej funkcji i funkcji przez nią wywołanych">
 <!ENTITY profilerUI.table.selfDuration2 "Własny czas">
+<!ENTITY profilerUI.table.selfDuration.tooltip "Czas spędzony tylko podczas wykonywania tej funkcji">
 <!ENTITY profilerUI.table.totalPercentage "Całkowity koszt">
+<!ENTITY profilerUI.table.totalPercentage.tooltip "Procent czasu spędzonego podczas wykonywania tej funkcji i funkcji przez nią wywołanych">
 <!ENTITY profilerUI.table.selfPercentage "Własny koszt">
+<!ENTITY profilerUI.table.selfPercentage.tooltip "Procent czasu spędzonego podczas wykonywania tylko tej funkcji">
 <!ENTITY profilerUI.table.samples "Próbki">
+<!ENTITY profilerUI.table.samples.tooltip "Wystąpienia funkcji na stosie podczas próbkowania przez profiler">
 <!ENTITY profilerUI.table.function "Funkcja">
+<!ENTITY profilerUI.table.function.tooltip "Nazwa i położenie kodu próbkowanej funkcji">
 <!ENTITY profilerUI.table.totalAlloc1 "Wszystkie próbki alokacji">
-<!ENTITY profilerUI.table.totalAllocTooltip "Całkowita liczba alokowanych obiektów próbkowanych dla tego położenia oraz w wywołaniach">
+<!ENTITY profilerUI.table.totalAlloc.tooltip "Całkowita liczba alokowanych obiektów próbkowanych dla tego położenia oraz w wywołaniach">
 <!ENTITY profilerUI.table.selfAlloc1 "Własne próbki alokacji">
-<!ENTITY profilerUI.table.selfAllocTooltip "Liczba alokowanych obiektów próbkowanych dla tego położenia">
+<!ENTITY profilerUI.table.selfAlloc.tooltip "Liczba alokowanych obiektów próbkowanych dla tego położenia">
 <!ENTITY profilerUI.newtab.tooltiptext "Dodaj nową kartę z zaznaczeniem">
 <!ENTITY profilerUI.options.filter.tooltiptext "Wybierz, jakie dane wyświetlać na osi czasu">
 <!ENTITY profilerUI.options.gear.tooltiptext "Skonfiguruj ustawienia wydajności">
