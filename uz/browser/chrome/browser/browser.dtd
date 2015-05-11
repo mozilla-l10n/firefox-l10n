@@ -609,12 +609,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY quitApplicationCmdWin2.label       "Chiqish">
 <!ENTITY quitApplicationCmdWin2.accesskey   "h">
-<!ENTITY quitApplicationCmdWin2.tooltip     "&brandShortName;dan chiqish">
+<!ENTITY quitApplicationCmdWin2.tooltip     "&brandShorterName;dan chiqish">
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY goForwardCmd.commandKey "]">
 <!ENTITY quitApplicationCmd.label       "Chiqish"> 
 <!ENTITY quitApplicationCmd.accesskey   "C">
-<!ENTITY quitApplicationCmdMac2.label   "&brandShortName;dan chiqish">
+<!ENTITY quitApplicationCmdMac2.label   "&brandShorterName;dan chiqish">
 <!-- LOCALIZATION NOTE(quitApplicationCmdUnix.key): This keyboard shortcut is used by both Linux and OSX builds. -->
 <!ENTITY quitApplicationCmdUnix.key     "Q">
 
