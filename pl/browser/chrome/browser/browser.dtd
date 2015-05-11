@@ -741,7 +741,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY uiTour.infoPanel.close "Zamknij">
 
 <!ENTITY appMenuSidebars.label "Panele boczne">
-<!ENTITY switchToMetroCmd2.label "Przejdź do programu &brandShortName; w stylu Windows 8 Touch">
 
 <!ENTITY panicButton.view.mainTimeframeDesc "Wyczyść historię przeglądania ostatnich:">
 <!ENTITY panicButton.view.5min "Pięciu minut">
