@@ -178,10 +178,9 @@ selected to be added to the home page. -->
 <!ENTITY tab_queue_prompt_tip_text "Można to zmienić później w ustawieniach">
 <!ENTITY tab_queue_prompt_positive_action_button "Włącz">
 <!ENTITY tab_queue_prompt_negative_action_button "Nie teraz">
-<!ENTITY tab_queue_notification_text_plural "Skolejkowanych kart: &formatD;">
-<!ENTITY tab_queue_notification_title_plural "Skolejkowane karty">
-<!ENTITY tab_queue_notification_title_singular "Skolejkowana karta">
-<!ENTITY tab_queue_notification_text_singular "Jedna skolejkowana karta">
+<!ENTITY tab_queue_notification_title "&brandShortName;">
+<!ENTITY tab_queue_notification_text_plural2 "Oczekujące karty: &formatD;">
+<!ENTITY tab_queue_notification_text_singular2 "Jedna oczekująca karta">
 
 <!ENTITY pref_char_encoding "Kodowanie znaków">
 <!ENTITY pref_char_encoding_on "Pokazuj">
