@@ -11,10 +11,10 @@
 <!ENTITY radioRememberPrevState.accesskey "r">
 <!ENTITY radioAskState.label "Niri galdetu lineako egoera">
 <!ENTITY radioAskState.accesskey "g">
-
-
-
-
+<!ENTITY radioAlwaysOnlineState.label "Lineaz kanpo">
+<!ENTITY radioAlwaysOnlineState.accesskey "L">
+<!ENTITY radioAlwaysOffline.label "Lineaz kanpo">
+<!ENTITY radioAlwaysOffline.accesskey "k">
 
 <!ENTITY textGoingOnline "Bidali bidali gabeko mezuak linean jartzean?">
 <!ENTITY radioAutoSend.label "Bai">

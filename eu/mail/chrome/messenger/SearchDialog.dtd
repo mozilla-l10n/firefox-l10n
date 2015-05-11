@@ -40,7 +40,7 @@
 <!ENTITY threadColumn.label "Haria">
 <!ENTITY fromColumn.label "Nork">
 <!ENTITY recipientColumn.label "Hartzailea">
-<!ENTITY correspondentColumn.label "Parte-hartzaileak">
+
 <!ENTITY subjectColumn.label "Gaia">
 <!ENTITY dateColumn.label "Data">
 <!ENTITY priorityColumn.label "Lehentasuna">
@@ -48,7 +48,7 @@
 <!ENTITY accountColumn.label "Kontua">
 <!ENTITY statusColumn.label "Egoera">
 <!ENTITY sizeColumn.label "Tamaina">
-<!ENTITY junkStatusColumn.label "Zabor-postaren egoera">
+<!ENTITY junkStatusColumn.label "Zabor-egoera">
 <!ENTITY unreadColumn.label "Irakurri gabeak">
 <!ENTITY totalColumn.label "Guztira">
 <!ENTITY readColumn.label "Irakurrita">
@@ -62,7 +62,7 @@
 <!ENTITY threadColumn2.tooltip "Bistaratu mezuen hariak">
 <!ENTITY fromColumn2.tooltip "Ordenatu bidaltzailearen arabera">
 <!ENTITY recipientColumn2.tooltip "Ordenatu hartzailearen arabera">
-<!ENTITY correspondentColumn2.tooltip "Ordenatu parte-hartzaileen arabera">
+
 <!ENTITY subjectColumn2.tooltip "Ordenatu gaiaren arabera">
 <!ENTITY dateColumn2.tooltip "Ordenatu dataren arabera">
 <!ENTITY priorityColumn2.tooltip "Ordenatu lehentasunaren arabera">

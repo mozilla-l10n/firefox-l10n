@@ -2,13 +2,13 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY  pref.editing.title        "Orri berriaren ezarpenak">
+<!ENTITY  pref.editing.title        "Orrialde berriaren ezarpenak">
 
 <!ENTITY  authorName.label          "Egilea:">
 <!ENTITY  authorName.accesskey      "g">
-<!ENTITY  pageColorHeader           "Lehenetsitako orriaren itxura">
+<!ENTITY  pageColorHeader           "Lehenetsitako orrialdearen itxura">
 
-<!ENTITY defaultColors.label        "Irakurlearen kolore lehenetsiak (ez ezarri koloreak orrian)">
+<!ENTITY defaultColors.label        "Irakurlearen kolore lehenetsiak (ez ezarri kolorerik orrialdean)">
 <!ENTITY defaultColors.accesskey    "z">
 <!ENTITY customColors.label         "Erabili kolore pertsonalizatuak:">
 <!ENTITY customColors.accesskey     "p">

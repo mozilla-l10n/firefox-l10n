@@ -22,21 +22,25 @@
 
 <!ENTITY community.exp.start        "">
 <!-- LOCALIZATION NOTE (community.exp.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
-<!ENTITY community.exp.middle       "ondokoa da:">
+<!ENTITY community.exp.mozillaLink  "&vendorShortName;">
+<!ENTITY community.exp.middle       " weba ireki, publiko eta guztiontzat atzigarri mantentzeko lanean dabilen ">
 <!-- LOCALIZATION NOTE (community.exp.creditslink): This is a link title that links to about:credits. -->
+<!ENTITY community.exp.creditsLink  "komunitate globala">
+<!ENTITY community.exp.end          " da.">
 
-
-<!ENTITY community.start2           "&brandShortName; diseinatu duenak: ">
 <!-- LOCALIZATION NOTE (community.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
-<!ENTITY community.middle2          "k diseinatzen du &brandShortName;, Internet toki hobea izan dadin lanean dabilen ">
+<!ENTITY community.mozillaLink      "&vendorShortName;">
+<!ENTITY community.middle2          "k diseinatzen du &brandShortName;, weba ireki, publiko eta guztiontzat atzigarri mantentzeko lanean dabilen ">
 <!-- LOCALIZATION NOTE (community.creditsLink): This is a link title that links to about:credits. -->
-<!ENTITY community.end3             " Weba irekia, publikoa eta denontzat erabilerraza mantentzeko elkarrekin lanean.">
+<!ENTITY community.creditsLink      "komunitate globalak">
+<!ENTITY community.end3             ".">
 
 <!ENTITY helpus.start               "Lagundu nahi? ">
 <!-- LOCALIZATION NOTE (helpus.donateLink): This is a link title that links to the thunderbird donation page -->
 <!ENTITY helpus.donateLink          "Dohaintza bat egin">
 <!ENTITY helpus.middle              " edo ">
 <!-- LOCALIZATION NOTE (helpus.getInvolvedLink): This is a link title that links to http://www.mozilla.org/contribute/. -->
+<!ENTITY helpus.getInvolvedLink     "Hartu parte!">
 <!ENTITY helpus.end                 "">
 <!-- LOCALIZATION NOTE (bottomLinks.license): This is a link title that links to about:license. -->
 
@@ -62,7 +66,7 @@
      the latest version of Firefox (e.g. http://www.firefox.com). As this is all in
      one line, try to make the localized text short (see bug 596813 for screenshots). -->
 
-<!ENTITY update.failed.start        "Eguneraketak huts egin du.">
+<!ENTITY update.failed.start        "Eguneraketak huts egin du. ">
 <!ENTITY update.failed.linkText     "Deskargatu azken bertsioa">
 <!ENTITY update.failed.end          "">
 <!-- LOCALIZATION NOTE (update.manual.start,update.manual.end): update.manual.start and update.manual.end
@@ -70,7 +74,7 @@
      to download the latest version of Firefox (e.g. http://www.firefox.com). As this is all in one line,
      try to make the localized text short (see bug 596813 for screenshots). -->
 
-<!ENTITY update.manual.start        "Deskargatu">
+<!ENTITY update.manual.start        "Deskargatu ">
 <!ENTITY update.manual.linkText     "azken bertsioa">
 <!ENTITY update.manual.end          "">
 <!-- LOCALIZATION NOTE (update.unsupported.start,update.unsupported.linkText,update.unsupported.end):
@@ -80,7 +84,7 @@
      why the system is no longer supported. As this is all in one line, try to
      make the localized text short (see bug 843497 for screenshots). -->
 
-<!ENTITY update.unsupported.start    "Ezin duzu eguneraketa gehiago burutu sistema honetan.">
+<!ENTITY update.unsupported.start    "Ezin duzu eguneraketa gehiago burutu sistema honetan. ">
 <!ENTITY update.unsupported.linkText "Argibide gehiago">
 <!ENTITY update.unsupported.end      "">
 <!-- LOCALIZATION NOTE (update.downloading.start,update.downloading.end): update.downloading.start and 
@@ -89,7 +93,7 @@
      the "em dash" (long dash).
      example: Downloading update — 111 KB of 13 MB -->
 
-<!ENTITY update.downloading.start   "Eguneraketa deskargatzen —">
+<!ENTITY update.downloading.start   "Eguneraketa deskargatzen — ">
 <!ENTITY update.downloading.end     "">
 
 <!ENTITY update.applying            "Eguneraketa aplikatzen…">
@@ -98,6 +102,6 @@
      example: You are currently on the _Stable_ update channel. -->
 
 <!ENTITY channel.description.start  "Une honetan ">
-<!ENTITY channel.description.end    " eguneraketa-kanalean zaude.">
+<!ENTITY channel.description.end    "  eguneraketa-kanalean zaude. ">
 
 <!ENTITY cmdCloseMac.commandKey "w">

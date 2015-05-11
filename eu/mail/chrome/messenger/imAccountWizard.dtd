@@ -13,9 +13,9 @@
 <!ENTITY accountUsernameDuplicate.label "Kontu hau jadanik konfiguratuta dago!">
 
 <!ENTITY accountPasswordTitle.label   "Pasahitza">
-<!ENTITY accountPasswordInfo.label    "Idatzi zure pasahitza beheko kutxan.">
+<!ENTITY accountPasswordInfo.label    "Sartu zure pasahitza beheko kutxan.">
 <!ENTITY accountPasswordField.label   "Pasahitza:">
-<!ENTITY accountPasswordManager.label "Hemen idatzitako pasahitza pasahitzen kudeatzailean gordeko da. Utzi kutxa hau hutsik kontura konektatzen den aldiro pasahitza galdetzeko.">
+<!ENTITY accountPasswordManager.label "Hemen sartutako pasahitza, pasahitzen kudeatzailean gordeko da. Utzi kutxa hau hutsik kontura konektatzen den aldiro pasahitza galdetzeko.">
 
 <!ENTITY accountAdvancedTitle.label   "Aukera aurreratuak">
 <!ENTITY accountAdvancedInfo.label    "Nahi baduzu urrats hau salta dezakezu.">

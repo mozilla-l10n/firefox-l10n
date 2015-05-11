@@ -5,8 +5,8 @@
 <!ENTITY folderProps.windowtitle.label           "Propietateak">
 
 <!ENTITY generalInfo.label                       "Argibide orokorrak">
-<!ENTITY folderCharsetFallback2.label            "Erreserbako testu kodeketa:">
-<!ENTITY folderCharsetFallback2.accesskey        "E">
+
+
 
 
 <!ENTITY folderRebuildSummaryFileTip2.label      "Berreraiki laburpen-fitxategiaren indizea">
