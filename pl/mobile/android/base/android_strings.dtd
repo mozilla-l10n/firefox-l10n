@@ -128,8 +128,6 @@ The locale includes both language and region concepts. -->
      it is applicable. -->
 <!ENTITY pref_search_hint "RADA: Możesz dodać każdą witrynę do swojej listy wyszukiwarek, przytrzymując na niej pole wyszukiwania, a następnie stukając ikonę &formatI;.">
 <!ENTITY pref_category_devtools "Narzędzia dla programistów">
-<!ENTITY pref_category_devtools_summary "Zdalne debugowanie, migotanie malowania">
-<!ENTITY pref_developer_paint_flashing "Migotanie malowania">
 <!ENTITY pref_developer_remotedebugging "Zdalne debugowanie">
 <!ENTITY pref_category_logins "Dane logowania">
 <!ENTITY pref_remember_signons "Pamiętaj hasła">
