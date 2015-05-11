@@ -42,7 +42,7 @@
 <!ENTITY markMessageRead.label "標示為已讀">
 <!ENTITY markMessageUnread.label "標示為未讀">
 <!ENTITY markMessageStarred.label "加上星號">
-<!ENTITY setPriority.label "設定優先順序為">
+<!ENTITY setPriority.label "設定重要性為">
 <!ENTITY addTag.label "加上標籤">
 <!ENTITY setJunkScore.label "設定垃圾信狀態為">
 <!ENTITY deleteMessage.label "刪除郵件">

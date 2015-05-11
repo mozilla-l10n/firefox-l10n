@@ -158,6 +158,8 @@
 <!ENTITY bothFormatCmd.accesskey "L">
 <!ENTITY priorityMenu.label "重要性">
 <!ENTITY priorityMenu.accesskey "P">
+<!ENTITY priorityButton.title "重要性">
+<!ENTITY priorityButton.tooltiptext "變更訊息重要性">
 <!ENTITY priorityButton.label "重要性:">
 <!ENTITY lowestPriorityCmd.label "最低">
 <!ENTITY lowestPriorityCmd.accesskey "L">

@@ -686,7 +686,7 @@
 <!ENTITY correspondentColumn2.tooltip "依照通訊者排序">
 <!ENTITY subjectColumn2.tooltip "依照主旨排序">
 <!ENTITY dateColumn2.tooltip "依照日期排序">
-<!ENTITY priorityColumn2.tooltip "依照優先權排序">
+<!ENTITY priorityColumn2.tooltip "依照重要性排序">
 <!ENTITY tagsColumn2.tooltip "依照標籤排序">
 <!ENTITY accountColumn2.tooltip "依照帳號排序">
 <!ENTITY statusColumn2.tooltip "依照狀態排序">

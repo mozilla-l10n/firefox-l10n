@@ -16,3 +16,8 @@
 <!ENTITY safeb.blocked.phishingPage.shortDesc2 "在此網頁上輸入任何個人資訊可能會導致身分被盜用或遭受其他詐騙行為。">
 <!ENTITY safeb.blocked.phishingPage.longDesc2 "<p>這些類型的偽造網頁含有常見的詐騙攻擊特徵，可能是罪犯所製作用來模仿您信任的合法來源之詐騙網頁。</p>">
 
+<!ENTITY safeb.blocked.unwantedPage.title "已回報為不安全的軟體網站！">
+<!-- Localization note (safeb.blocked.unwanted.shortDesc) - Please don't translate the contents of the <span id="unwanted_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
+<!ENTITY safeb.blocked.unwantedPage.shortDesc "此網頁 <span id='unwanted_sitename'/> 已被回報為疑似提供不安全的軟體。依照您的安全性偏好設定已封鎖此網頁。">
+<!ENTITY safeb.blocked.unwantedPage.longDesc "提供不安全軟體的網站可能會嘗試安裝詐騙軟體，並以您預期外的方式影響系統。">
+
