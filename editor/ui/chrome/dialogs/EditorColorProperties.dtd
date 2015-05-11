@@ -3,9 +3,9 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!-- Window title -->
 
-<!ENTITY windowTitle.label "Orri koloreak eta atzeko planoa">
-<!ENTITY pageColors.label "Orri koloreak">
-<!ENTITY defaultColorsRadio.label "Irakurlearen kolore lehenetsiak (ez ezarri koloreak orrian)">
+<!ENTITY windowTitle.label "Orrialde koloreak eta atzeko planoa">
+<!ENTITY pageColors.label "Orrialde koloreak">
+<!ENTITY defaultColorsRadio.label "Irakurlearen kolore lehenetsiak (ez ezarri koloreak orrialdean)">
 <!ENTITY defaultColorsRadio.accessKey "z">
 <!ENTITY defaultColorsRadio.tooltip "Erabili soilik ikustailearen (irakurlearen) arakatzailearen kolore-ezarpenak">
 <!ENTITY customColorsRadio.label "Erabili kolore pertsonalizatuak:">
@@ -25,4 +25,4 @@
 <!ENTITY colon.character ":">
 <!ENTITY backgroundImage.label "Atzeko planoko irudia:">
 <!ENTITY backgroundImage.accessKey "r">
-<!ENTITY backgroundImage.tooltip "Erabili irudi-fitxategi bat zure orriaren atzeko plano gisa">
+<!ENTITY backgroundImage.tooltip "Erabili irudi-fitxategi bat zure orrialdearen atzeko plano gisa">

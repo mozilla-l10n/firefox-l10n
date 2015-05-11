@@ -6,6 +6,6 @@
 
 # variable definition and use the format specified.
 
-#define MOZ_LANGPACK_CONTRIBUTORS <em:contributor>Librezale.org</em:contributor>
+#define MOZ_LANGPACK_CONTRIBUTORS <em:contributor>Librezale.eus</em:contributor>
 
 #unfilter emptyLines

@@ -9,11 +9,11 @@
 <!ENTITY aboutSupport.showPrivateData.explanationText "(identifikatzeko informazio posiblea)">
 <!ENTITY aboutSupport.accountsID "IDa">
 <!ENTITY aboutSupport.accountsName "Izena">
-<!ENTITY aboutSupport.accountsIncomingServer "Posta jasotzeko zerbitzaria">
+<!ENTITY aboutSupport.accountsIncomingServer "Hartzeko zerbitzaria">
 <!ENTITY aboutSupport.accountsOutgoingServers "Posta bidaltzeko zerbitzariak">
 <!ENTITY aboutSupport.accountsServerName "Izena">
 <!ENTITY aboutSupport.accountsConnSecurity "Konexioaren segurtasuna">
-<!ENTITY aboutSupport.accountsAuthMethod "Autentifikazio metodoa">
+<!ENTITY aboutSupport.accountsAuthMethod "Autentifikazio-metodoa">
 <!ENTITY aboutSupport.accountsDefault "Lehenetsia?">
 
 <!ENTITY aboutSupport.sendViaEmail.label "Bidali posta elektronikoz">

@@ -35,8 +35,8 @@
 <!ENTITY hdrMenuForwardButton.label "Birbidali honela">
 <!ENTITY hdrForwardButton1.label "Birbidali">
 <!ENTITY hdrForwardButton1.tooltip "Birbidali mezua">
-<!ENTITY hdrJunkButton1.label "Zabor-posta">
-<!ENTITY hdrJunkButton1.tooltip "Markatu mezua zabor gisa">
+<!ENTITY hdrJunkButton1.label "Zaborra">
+<!ENTITY hdrJunkButton1.tooltip "Markatu mezu hau zabor gisa">
 <!ENTITY hdrTrashButton1.label "Ezabatu">
 <!ENTITY hdrTrashButton1.tooltip "Ezabatu mezua">
 
@@ -46,7 +46,7 @@
 <!ENTITY hdrViewToolbarShowIcons.accesskey "i">
 <!ENTITY hdrViewToolbarShowText.label "Erakutsi testua soilik">
 <!ENTITY hdrViewToolbarShowText.accesskey "t">
-<!ENTITY hdrViewToolbarAlwaysReplySender.label "Erakutsi beti 'erantzun bidaltzaileari'">
+<!ENTITY hdrViewToolbarAlwaysReplySender.label "Beti erakutsi 'Erantzun bidaltzaileari'">
 <!ENTITY hdrViewToolbarAlwaysReplySender.accesskey "r">
 
 <!ENTITY otherActionsButton2.label "Gehiago">

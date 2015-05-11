@@ -2,14 +2,14 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY junkSettings.label "Zabor-postaren ezarpenak">
+<!ENTITY junkSettings.label "Zabor-ezarpenak">
 <!ENTITY trainingDescription.label "Gaituta badago, &brandShortName; entrenatu behar duzu lehenik zabor-posta identifika dezan zabor-postaren tresna-barrako botoia erabiliz mezuak zabor gisa edo ez markatzeko. Zaborra diren eta ez diren mezuak identifikatu behar dituzu. Horren ondoren, &brandShortName; gai izango da zaborra automatikoki markatzeko.">
 <!ENTITY level.label "Gaitu zabor-posta kontrol moldakorrak kontu honentzat">
 <!ENTITY level.accesskey "G">
 
 <!ENTITY move.label "Eraman zabor mezu berriak hona:">
 <!ENTITY move.accesskey "m">
-<!ENTITY junkFolderOn.label "&quot;Zabor-posta&quot; karpeta hemen:">
+<!ENTITY junkFolderOn.label "&quot;Zaborra&quot; karpeta hemen:">
 <!ENTITY junkFolderOn.accesskey "o">
 <!ENTITY otherFolder.label "Beste bat:">
 <!ENTITY otherFolder.accesskey "s">
@@ -27,5 +27,5 @@
 <!ENTITY junkClassification.label "Aukera">
 <!ENTITY junkActions.label "Helburua eta atxikipena">
 
-<!ENTITY globalJunkPrefs.label "Zabor-postaren hobespen orokorrak…">
+<!ENTITY globalJunkPrefs.label "Zabor hobespen orokorrak…">
 <!ENTITY globalJunkPrefs.accesskey "o">

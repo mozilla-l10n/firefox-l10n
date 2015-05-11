@@ -16,7 +16,7 @@
 <!ENTITY allowHWAccel.accesskey        "h">
 <!ENTITY storeType.label               "Mezuen biltegiratze mota kontu berrientzako:">
 <!ENTITY storeType.accesskey           "m">
-<!ENTITY mboxStore2.label              "Fitxategia karpetako (mbox)">
+
 <!ENTITY maildirStore.label            "Fitxategia mezuko (maildir)">
 
 <!ENTITY scrolling.label               "Korritzea">
@@ -41,15 +41,16 @@
 <!-- Data Choices -->
 
 <!ENTITY telemetrySection.label          "Telemetria">
-
+<!ENTITY telemetryDesc.label             "Zure e-posta bezeroko errendimendu, erabilera, hardware eta pertsonalizazio datuak &vendorShortName;(e)rekin &brandShortName; hobetzen laguntzeko">
 <!ENTITY enableTelemetry.label           "Gaitu telemetria">
 <!ENTITY enableTelemetry.accesskey       "t">
+<!ENTITY telemetryLearnMore.label        "Ikasi gehiago">
 
-
-
-
-
-
+<!ENTITY crashReporterSection.label      "Kraskadura berriemailea">
+<!ENTITY crashReporterDesc.label         "&brandShortName;(e)k kraskadura txostenak bidaltzen ditu &vendorShortName;(e)ri zure e-posta bezeroa egonkorragoa eta seguruagoa egiten laguntzeko">
+<!ENTITY enableCrashReporter.label       "Gaitu Kraskadura berriemailea">
+<!ENTITY enableCrashReporter.accesskey   "K">
+<!ENTITY crashReporterLearnMore.label    "Ikasi gehiago">
 <!-- Display and Reading Settings -->
 
 <!ENTITY reading.caption               "Irakurketa">
