@@ -5,8 +5,8 @@
 <!ENTITY no_space_to_start_error "Na dysku jest za mało wolnego miejsca, aby uruchomić program &brandShortName;">
 <!ENTITY  error_loading_file "Podczas wczytywania plików wymaganych do uruchomienia programu &brandShortName; wystąpił błąd.">
 
-<!ENTITY onboard_start_message2 "Witaj w przeglądarce &brandShortName;">
-<!ENTITY onboard_start_subtext2 "Więcej prywatności i sposobów na dostosowywanie.">
+<!ENTITY onboard_start_message3 "Przeglądaj z programem &brandShortName;">
+<!ENTITY onboard_start_subtext3 "Spraw, aby przeglądanie mobilne stało się prawdziwie Twoim.">
 <!ENTITY  onboard_start_button_account "Zaloguj się do przeglądarki &brandShortName;">
 <!ENTITY  onboard_start_button_browser "Zacznij przeglądać Internet">
 
