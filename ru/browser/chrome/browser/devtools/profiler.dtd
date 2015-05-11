@@ -6,8 +6,13 @@
 <!ENTITY profilerUI.emptyNotice2 "кнопке, чтобы начать записывать вызовы функций JavaScript.">
 <!ENTITY profilerUI.stopNotice1 "Щёлкните по">
 <!ENTITY profilerUI.stopNotice2 "кнопке снова, чтобы остановить профилирование.">
+<!ENTITY profilerUI.startRecording "Начать запись профайлера">
+<!ENTITY profilerUI.stopRecording "Остановить запись профайлера">
+<!ENTITY profilerUI.bufferStatusTooltip "Профайлер хранит замеры в кольцевом буфере, и как только заполнение буфера достигает лимита для записи, новые замеры начинают перезаписывать замеры в начале записи.">
+<!ENTITY profilerUI.bufferStatusFull "Буфер заполнен полностью. Старые замеры теперь будут перезаписываться.">
 <!ENTITY profilerUI.loadingNotice "Загрузка…">
 <!ENTITY profilerUI.recordButton.tooltip "Запись вызовов функций JavaScript.">
+<!ENTITY profilerUI.recordButton2.tooltip "Переключает режим записи для записи профайлера.">
 <!ENTITY profilerUI.importButton "Импорт…">
 <!ENTITY profilerUI.exportButton "Сохранить">
 <!ENTITY profilerUI.clearButton "Очистить">
@@ -50,3 +55,7 @@
 <!ENTITY profilerUI.showJITOptimizations "Показать оптимизации JIT">
 <!ENTITY profilerUI.showJITOptimizations.tooltiptext "Показать данные оптимизаций JIT, отобранные в каждом фрейме дерева вызовов JS.">
 <!ENTITY profilerUI.JITOptimizationsTitle "Оптимизации JIT">
+<!ENTITY profilerUI.console.recordingNoticeStart "Сейчас идёт запись через">
+<!ENTITY profilerUI.console.recordingNoticeEnd "">
+<!ENTITY profilerUI.console.stopCommandStart "Остановите запись, введя">
+<!ENTITY profilerUI.console.stopCommandEnd "в консоль.">
