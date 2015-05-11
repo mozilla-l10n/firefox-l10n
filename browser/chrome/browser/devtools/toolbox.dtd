@@ -102,7 +102,7 @@
   -  tooltip for the checkbox that toggles the service workers testing features on or off. -->
 
 <!ENTITY options.enableServiceWorkersTesting.label     "Aktifkan fitur uji Service Worker (saat kotak alat terbuka)">
-
+<!ENTITY options.enableServiceWorkersTesting.tooltip   "Mengaktifkan opsi ini akan mengaktifkan fitur uji Service Worker untuk semua tab yang kotak alatnya terbuka.">
 <!-- LOCALIZATION NOTE (options.selectDefaultTools.label): This is the label for
   -  the heading of group of checkboxes corresponding to the default developer
   -  tools. -->

@@ -45,9 +45,9 @@
 
 <!ENTITY profilerUI.toolbar.waterfall "Kronologi">
 <!ENTITY profilerUI.toolbar.js-calltree "JavaScript">
-
+<!ENTITY profilerUI.toolbar.memory-calltree1 "Alokasi">
 <!ENTITY profilerUI.toolbar.js-flamegraph "Bagan Flame JS">
-
+<!ENTITY profilerUI.toolbar.memory-flamegraph1 "Bagan Flame Alokasi">
 <!-- LOCALIZATION NOTE (profilerUI.table.*): These strings are displayed
   -  in the call tree headers for a recording. -->
 
@@ -57,7 +57,7 @@
 <!ENTITY profilerUI.table.selfPercentage  "Beban Item">
 <!ENTITY profilerUI.table.samples         "Sampling">
 <!ENTITY profilerUI.table.function        "Fungsi">
-
+<!ENTITY profilerUI.table.totalAlloc1       "Jumlah Alokasi Sampel">
 <!ENTITY profilerUI.table.totalAllocTooltip "Jumlah total alokasi Objek yang di-samping pada lokasi ini dan pemanggilnya.">
 <!ENTITY profilerUI.table.selfAlloc1        "Alokasi Sampling Mandiri">
 <!ENTITY profilerUI.table.selfAllocTooltip  "Jumlah alokasi Objek yang di-samping pada lokasi ini.">
