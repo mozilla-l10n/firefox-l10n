@@ -113,6 +113,7 @@
 <!ENTITY offlineAppRemove.confirm        "Momtu keɓe ceŋtol ɗee">
 
 <!ENTITY certificateTab.label            "Seedamfaaji">
+
 <!ENTITY certSelection.description       "So sarworde ɗaɓɓitii seedamfaagu am heeriingu:">
 <!ENTITY certs.auto                      "Labo gootal e jaajol">
 <!ENTITY certs.auto.accesskey            "L">
