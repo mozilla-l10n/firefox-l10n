@@ -161,7 +161,7 @@ because displayed names don't have the comma in between. -->
 <!ENTITY searchItem.title "Bilaketa azkarra">
 <!-- Results Pane -->
 
-<!ENTITY Addrbook.label                                 "Helbide-liburua…">
+<!ENTITY Addrbook.label                                 "Helbide-liburua">
 <!ENTITY Addrbook.accesskey                             "l">
 <!ENTITY GeneratedName.label                            "Izena">
 <!ENTITY GeneratedName.accesskey                        "I">
