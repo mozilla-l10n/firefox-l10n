@@ -27,5 +27,6 @@
 <!ENTITY inspector.selectButton.tooltip "Выберите элемент мышью">
 <!ENTITY inspectorSearchHTML.label2 "Поиск CSS-селекторов">
 <!ENTITY inspectorSearchHTML.key "F">
+<!ENTITY inspectorSearchHTML.label3 "Поиск в HTML">
 <!ENTITY inspectorCopyImageDataUri.label "Копировать URL данных изображения">
 <!ENTITY inspectorShowDOMProperties.label "Показать свойства DOM">
