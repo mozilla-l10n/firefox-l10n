@@ -6,8 +6,8 @@
 <!ENTITY  no_space_to_start_error "空間不足，無法啟動 &brandShortName;。">
 <!ENTITY  error_loading_file "嘗試讀取 &brandShortName; 執行所必需的檔案時發生錯誤。">
 
-<!ENTITY  onboard_start_message2 "歡迎使用 &brandShortName;">
-<!ENTITY  onboard_start_subtext2 "更多隱私保護功能與自訂瀏覽器的方式。">
+<!ENTITY  onboard_start_message3 "使用 &brandShortName; 瀏覽">
+<!ENTITY  onboard_start_subtext3 "讓您的行動網頁瀏覽體驗能有您自己的風格。">
 <!ENTITY  onboard_start_button_account "登入至 &brandShortName;">
 <!ENTITY  onboard_start_button_browser "開始瀏覽">
 
@@ -114,7 +114,6 @@
      to. -->
 <!ENTITY overlay_share_send_tab_btn_label "傳送至另一台裝置">
 <!ENTITY overlay_share_no_url "這個分享中找不到鏈結">
-<!ENTITY overlay_share_retry "重試">
 <!ENTITY overlay_share_select_device "選擇裝置">
 <!-- Localization note (overlay_no_synced_devices) : Used when the menu option
      to send a tab to a synced device is pressed and no other synced devices
@@ -150,8 +149,6 @@
      it is applicable. -->
 <!ENTITY pref_search_hint "秘訣: 長按網頁中的搜尋欄位，然後點擊 &formatI; 圖示來將任何網站新增至您的搜尋服務提供者清單。">
 <!ENTITY pref_category_devtools "開發者工具">
-<!ENTITY pref_category_devtools_summary "遠端除錯、閃爍描繪區域">
-<!ENTITY pref_developer_paint_flashing "閃爍描繪區域">
 <!ENTITY pref_developer_remotedebugging "遠端除錯">
 <!ENTITY pref_category_logins "登入">
 <!ENTITY pref_remember_signons "記住密碼">
@@ -192,22 +189,22 @@
 <!ENTITY pref_donottrack_title "Do not track">
 <!ENTITY pref_donottrack_summary "&brandShortName; 將會告訴網站您不想被追蹤">
 
-<!ENTITY tab_queue_toast_message "稍後再開">
+<!ENTITY tab_queue_toast_message2 "在 &brandShortName; 等待開啟中的分頁">
 <!ENTITY tab_queue_toast_action "立刻開啟">
-<!-- Localization note (tab_queue_notification_text_plural) : The
+<!ENTITY tab_queue_prompt_title "開啟多個鏈結？">
+<!ENTITY tab_queue_prompt_text2 "不用一直切換到 &brandShortName;，之後再一次開啟。">
+<!ENTITY tab_queue_prompt_tip_text "您之後也可以在設定中修改此行為">
+<!ENTITY tab_queue_prompt_positive_action_button "啟用">
+<!ENTITY tab_queue_prompt_negative_action_button "現在不要">
+<!ENTITY tab_queue_notification_title "&brandShortName;">
+<!-- Localization note (tab_queue_notification_text_plural2) : The
      formatD is replaced with the number of tabs queued.  The
      number of tabs queued is always more than one.  We can't use
      Android plural forms, sadly. See Bug #753859. -->
-<!ENTITY tab_queue_notification_text_plural "已將 &formatD; 個分頁加入佇列">
-<!-- Localization note (tab_queue_notification_title_plural) : This is the
-     title of a notification; we expect more than one tab queued. -->
-<!ENTITY tab_queue_notification_title_plural "已將分頁加入佇列">
-<!-- Localization note (tab_queue_notification_title_singular) : This is the
-     title of a notification; we expect only one tab queued. -->
-<!ENTITY tab_queue_notification_title_singular "已將分頁加入佇列">
-<!-- Localization note (tab_queue_notification_text_singular) : This is the
+<!ENTITY tab_queue_notification_text_plural2 "等待開啟 &formatD; 個分頁中">
+<!-- Localization note (tab_queue_notification_text_singular2) : This is the
      text of a notification; we expect only one tab queued. -->
-<!ENTITY tab_queue_notification_text_singular "已將 1 個分頁加入佇列">
+<!ENTITY tab_queue_notification_text_singular2 "等待開啟 1 個分頁中">
 
 <!ENTITY pref_char_encoding "語言及字元編碼">
 <!ENTITY pref_char_encoding_on "顯示選單">
@@ -255,7 +252,8 @@ size. -->
 <!ENTITY pref_import_android "自 Android 匯入">
 <!ENTITY pref_import_android_summary "自內建瀏覽器匯入書籤與瀏覽紀錄">
 <!ENTITY pref_private_data_history2 "瀏覽歷史紀錄">
-<!ENTITY pref_private_data_formdata "表單與搜尋紀錄">
+<!ENTITY pref_private_data_searchHistory "搜尋紀錄">
+<!ENTITY pref_private_data_formdata2 "表單填寫紀錄">
 <!ENTITY pref_private_data_cookies2 "Cookie 與目前的登入狀況">
 <!ENTITY pref_private_data_passwords "已存密碼">
 <!ENTITY pref_private_data_cache "快取">
@@ -380,6 +378,7 @@ size. -->
 <!ENTITY doorhanger_login_edit_username_hint "使用者名稱">
 <!ENTITY doorhanger_login_edit_password_hint "密碼">
 <!ENTITY doorhanger_login_edit_toggle "顯示密碼">
+<!ENTITY doorhanger_login_edit_toast_error "登入資訊儲存失敗">
 
 <!ENTITY pref_titlebar_mode "標題列">
 <!ENTITY pref_titlebar_mode_title "顯示頁面標題">
@@ -390,8 +389,8 @@ size. -->
 <!ENTITY pref_scroll_title_bar2 "全螢幕瀏覽">
 <!ENTITY pref_scroll_title_bar_summary "向下滑動頁面時隱藏 &brandShortName; 的標題列">
 
-<!ENTITY pref_tab_queue_title "稍後再開">
-<!ENTITY pref_tab_queue_summary "讓分頁不要立刻開啟，等下次 &brandShortName; 啟用時再一次打開。">
+<!ENTITY pref_tab_queue_title2 "開啟多個鏈結">
+<!ENTITY pref_tab_queue_summary2 "不用一直切換到 &brandShortName;，之後再一次開啟。">
 
 <!-- Localization note (page_removed): This string appears in a toast message when
      any page is removed frome about:home. This includes pages that are in history,
@@ -440,6 +439,8 @@ size. -->
 <!ENTITY button_set "設定">
 <!ENTITY button_clear "清除">
 <!ENTITY button_remember "記住">
+
+<!ENTITY firstrun_panel_title_welcome "歡迎">
 
 <!ENTITY home_top_sites_title "最常瀏覽">
 <!-- Localization note (home_top_sites_add): This string is used as placeholder
@@ -609,6 +610,14 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY ellipsis "…">
 
 <!ENTITY colon ":">
+
+<!-- LOCALIZATION NOTE (percent): The percent sign is appended after a number to
+     display a percentage value. formatS is the number, #37 is the code to display a percent sign.
+     This format string is typically used by getString method, in such method the percent sign
+     is a reserved caracter. In order to display one percent sign in the result of getString,
+     double percent signs must be inserted in the format string.
+     This entity is used in the zoomed view to display the zoom factor-->
+<!ENTITY percent "&formatS;&#37;&#37;">
 
 <!-- These are only used for accessibility for the done and overflow-menu buttons in the actionbar.
      They are never shown to users -->

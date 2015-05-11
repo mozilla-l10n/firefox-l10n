@@ -72,6 +72,8 @@
 <!ENTITY saveFrameAsCmd.label         "頁框另存新檔…">
 <!ENTITY saveFrameCmd.label           "儲存頁框">
 <!ENTITY saveFrameCmd.accesskey       "a">
+<!ENTITY printFrameCmd.label          "列印此頁框…">
+<!ENTITY printFrameCmd.accesskey      "P">
 <!ENTITY saveLinkAsCmd.label          "鏈結目標另存新檔…">
 <!ENTITY saveLinkCmd.label            "儲存連結目標">
 <!ENTITY saveLinkCmd.accesskey        "S">
