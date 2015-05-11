@@ -47,7 +47,7 @@
 <!ENTITY profilerUI.toolbar.js-calltree "JavaScript">
 <!ENTITY profilerUI.toolbar.memory-calltree1 "Dodelitve">
 <!ENTITY profilerUI.toolbar.js-flamegraph "Plameneč graf JS">
-<!ENTITY profilerUI.toolbar.memory-flamegraph "Plameneč graf dodelitev">
+<!ENTITY profilerUI.toolbar.memory-flamegraph1 "Plameneč graf dodelitev">
 
 <!-- LOCALIZATION NOTE (profilerUI.table.*): These strings are displayed
   -  in the call tree headers for a recording. -->
