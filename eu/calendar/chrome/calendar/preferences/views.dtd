@@ -28,7 +28,7 @@
 <!ENTITY pref.numberofweeks.accesskey "k">
 <!ENTITY pref.numberofpreviousweeks.label "Ikusiko diren aurreko asteak:">
 <!ENTITY pref.numberofpreviousweeks.accesskey "a">
-<!ENTITY pref.numberofweeks.0 "bat ere ez">
+<!ENTITY pref.numberofweeks.0 "batez">
 <!ENTITY pref.numberofweeks.1 "aste 1">
 <!ENTITY pref.numberofweeks.2 "2 aste">
 <!ENTITY pref.numberofweeks.3 "3 aste">

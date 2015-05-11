@@ -11,7 +11,7 @@
 <!ENTITY initialpage.network.label  "Sarean">
 
 <!ENTITY locationpage.description         "Ezarri zure urruneko egutegia eskuratzeko behar diren argibideak" >
-<!ENTITY locationpage.login.description   "Aukerakoa: idatzi erabiltzaile-izena eta pasahitza" >
+<!ENTITY locationpage.login.description   "Aukerakoa: sartu erabiltzaile-izena eta pasahitza" >
 <!ENTITY locationpage.username.label      "Erabiltzaile-izena:" >
 <!ENTITY locationpage.password.label      "Pasahitza:" >
 

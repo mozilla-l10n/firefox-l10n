@@ -211,13 +211,13 @@
 <!ENTITY priority.level.normal              "Normala">
 <!ENTITY priority.level.normal.accesskey    "N">
 <!ENTITY priority.level.high                "Altua">
-<!ENTITY priority.level.high.accesskey      "H">
+<!ENTITY priority.level.high.accesskey      "A">
 
 <!ENTITY calendar.context.postpone.1hour.label      "1 ordu">
 <!ENTITY calendar.context.postpone.1hour.accesskey  "o">
-<!ENTITY calendar.context.postpone.1day.label       "egun bat">
+<!ENTITY calendar.context.postpone.1day.label       "1 egun">
 <!ENTITY calendar.context.postpone.1day.accesskey   "g">
-<!ENTITY calendar.context.postpone.1week.label      "aste bat">
+<!ENTITY calendar.context.postpone.1week.label      "1 aste">
 <!ENTITY calendar.context.postpone.1week.accesskey  "a">
 
 <!ENTITY calendar.copylink.label       "Kopiatu loturaren helbidea">
@@ -233,16 +233,16 @@
 <!ENTITY calendar.context.newserver.accesskey          "b">
 <!ENTITY calendar.context.findcalendar.label           "Bilatu egutegia…" >
 <!ENTITY calendar.context.findcalendar.accesskey       "l" >
-<!ENTITY calendar.context.deleteserver2.label          "Ezabatu egutegia...">
+<!ENTITY calendar.context.deleteserver2.label          "Ezabatu egutegia…">
 <!ENTITY calendar.context.deleteserver2.accesskey      "z">
 <!-- LOCALIZATION NOTE (calendar.context.removeserver.label): Removing the
       calendar is the general action of removing it, while deleting means to
       clear the data and unsubscribing means just taking it out of the calendar
       list. -->
 
-<!ENTITY calendar.context.removeserver.label           "Ezabatu egutegia...">
+<!ENTITY calendar.context.removeserver.label           "Ezabatu egutegia…">
 <!ENTITY calendar.context.removeserver.accesskey       "z">
-<!ENTITY calendar.context.unsubscribeserver.label      "Egutegi harpidetza ezabatu...">
+<!ENTITY calendar.context.unsubscribeserver.label      "Egutegi harpidetza ezabatu…">
 <!ENTITY calendar.context.unsubscribeserver.accesskey  "e">
 <!ENTITY calendar.context.synccalendars.label          "Sinkronizatu egutegiak">
 <!ENTITY calendar.context.synccalendars.accesskey      "S">
@@ -268,7 +268,7 @@
 <!ENTITY calendar.context.convertmenu.accesskey.calendar "v">
 <!ENTITY calendar.context.convertmenu.event.label        "Gertaera…">
 <!ENTITY calendar.context.convertmenu.event.accesskey    "e">
-<!ENTITY calendar.context.convertmenu.message.label      "Mezua...">
+<!ENTITY calendar.context.convertmenu.message.label      "Mezua…">
 <!ENTITY calendar.context.convertmenu.message.accesskey  "M">
 <!ENTITY calendar.context.convertmenu.task.label         "Zeregina…">
 <!ENTITY calendar.context.convertmenu.task.accesskey     "Z">
@@ -326,7 +326,7 @@
 <!ENTITY calendarproperties.firealarms.label               "Erakutsi gogorarazleak">
 <!ENTITY calendarproperties.cache3.label                   "Lineaz kanpoko laguntza">
 <!ENTITY calendarproperties.enabled.label                  "Aldatu egutegi hau:">
-<!ENTITY calendarproperties.forceDisabled.label            "Egutegi honen hornitzailea ezin da aurkitu. Gehigarri jakin batzuk ezgaitu edo desintalatu dituzulako izan daiteke.">
+<!ENTITY calendarproperties.forceDisabled.label            "Egutegi honen hornitzailea ezin da aurkitu. Gehigarri jakin batzuk ezgaitu edo desinstalatu dituzulako izan daiteke.">
 <!ENTITY calendarproperties.unsubscribe.label              "Eten harpidetza">
 <!ENTITY calendarproperties.unsubscribe.accesskey          "E">
 <!-- Calendar Publish Dialog -->
@@ -355,7 +355,7 @@
 <!ENTITY calendar.print.to.label "Nora:">
 <!ENTITY calendar.print.settingsGroup.label "Inprimatzeko ezarpenak">
 <!ENTITY calendar.print.optionsGroup.label "Aukerak">
-<!ENTITY calendar.print.taskswithnoduedate.label "Muga-egunik gabeko Zeregina">
+<!ENTITY calendar.print.taskswithnoduedate.label "Muga-egunik gabeko zeregina">
 <!ENTITY calendar.print.completedtasks.label "Osatutako zereginak">
 <!-- Error reporting -->
 

@@ -12,7 +12,7 @@
 <!ENTITY reminder.action.label                             "Aukeratu gogoratze ekintza">
 
 <!ENTITY reminder.action.alert.label                       "Abisua ikusi">
-<!ENTITY reminder.action.email.label                       "Bidali ePosta">
+<!ENTITY reminder.action.email.label                       "Bidali e-posta bat">
 
 <!ENTITY alarm.units.minutes                               "minutu" >
 <!ENTITY alarm.units.hours                                 "ordu" >
