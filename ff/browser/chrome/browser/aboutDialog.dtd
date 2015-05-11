@@ -35,8 +35,8 @@
 <!ENTITY community.mozillaLink      "&vendorShortName;">
 <!ENTITY community.middle2          ", ko ">
 <!-- LOCALIZATION NOTE (community.creditsLink): This is a link title that links to about:credits. -->
-<!ENTITY community.creditsLink      "renndo huuɓngo">
-<!ENTITY community.end3             "  gollotoove ngam Geese oo udditanoo, renndee kadi newanoo winndere ndee fof.">
+<!ENTITY community.creditsLink      "renndo adunayaŋkeewo">
+<!ENTITY community.end3             "  gollotooɓe ngam ñiiɓnude udditaango Geese oo, renndee kadi newanoo winndere ndee fof.">
 
 <!ENTITY helpus.start               "Aɗa yiɗi wallude?   ">
 <!-- LOCALIZATION NOTE (helpus.donateLink): This is a link title that links to https://sendto.mozilla.org/page/contribute/Give-Now?source=mozillaorg_default_footer&ref=firefox_about&utm_campaign=firefox_about&utm_source=firefox&utm_medium=referral&utm_content=20140929_FireFoxAbout. -->
@@ -50,17 +50,17 @@
 <!ENTITY bottomLinks.license        "Humpito yamiroore">
 <!-- LOCALIZATION NOTE (bottomLinks.rights): This is a link title that links to about:rights. -->
 
-<!ENTITY bottomLinks.rights         "Jojjanɗe Kuutoro">
+<!ENTITY bottomLinks.rights         "Jojjanɗe Kuutorooɗo">
 <!-- LOCALIZATION NOTE (bottomLinks.privacy): This is a link title that links to https://www.mozilla.org/legal/privacy/. -->
 
 <!ENTITY bottomLinks.privacy        "Dawirgol Suturo">
 <!-- LOCALIZATION NOTE (update.checkingForUpdates): try to make the localized text short (see bug 596813 for screenshots). -->
 
-<!ENTITY update.checkingForUpdates  "Nana yiyloo kesɗitine…">
+<!ENTITY update.checkingForUpdates  "Nana yiyloo ɓeyditte…">
 <!-- LOCALIZATION NOTE (update.noUpdatesFound): try to make the localized text short (see bug 596813 for screenshots). -->
 <!ENTITY update.noUpdatesFound      "&brandShortName; hesɗitii">
 <!-- LOCALIZATION NOTE (update.adminDisabled): try to make the localized text short (see bug 596813 for screenshots). -->
-<!ENTITY update.adminDisabled       "Kesɗitine ɗe, jiiloowo yuɓɓo maa, ko daaƴɗo ɗe">
+<!ENTITY update.adminDisabled       "Kesɗitine ɗe, jiiloowo yuɓɓo maa, ko o daaƴɗo ɗe">
 <!-- LOCALIZATION NOTE (update.otherInstanceHandlingUpdates): try to make the localized text short -->
 <!ENTITY update.otherInstanceHandlingUpdates "&brandShortName; woni ko e hesɗitineede e cilol goɗngol">
 <!-- LOCALIZATION NOTE (update.failed.start,update.failed.linkText,update.failed.end):
@@ -86,7 +86,7 @@
      why the system is no longer supported. As this is all in one line, try to
      make the localized text short (see bug 843497 for screenshots). -->
 
-<!ENTITY update.unsupported.start    "A waawaa yuɓɓinde kesɗitine goɗɗe e ngoo yuɓɓo. ">
+<!ENTITY update.unsupported.start    "Yamre wattiniinde waawaa heɓaade e ngoo yuɓɓo. ">
 <!ENTITY update.unsupported.linkText "Ɓeydu humpito">
 <!ENTITY update.unsupported.end      "">
 <!-- LOCALIZATION NOTE (update.downloading.start,update.downloading.end): update.downloading.start and 
@@ -95,7 +95,7 @@
      the "em dash" (long dash).
      example: Downloading update — 111 KB of 13 MB -->
 
-<!ENTITY update.downloading.start   "Gaawtagol hesɗitinal — ">
+<!ENTITY update.downloading.start   "Gaawtagol kesɗitinal — ">
 <!ENTITY update.downloading.end     "">
 
 <!ENTITY update.applying            "Nana tabitina kesɗitinal…">
