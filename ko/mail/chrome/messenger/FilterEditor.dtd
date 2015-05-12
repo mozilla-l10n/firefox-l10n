@@ -25,6 +25,8 @@
 <!ENTITY contextAfterCls.label "스팸 분류 후에 적용">
 <!ENTITY contextOutgoing.label "발송 이후에 적용">
 <!ENTITY contextOutgoing.accesskey "S">
+<!ENTITY contextArchive.label "보관">
+<!ENTITY contextArchive.accesskey "A">
 
 <!ENTITY filterActionDesc.label "다음 방식으로 처리:">
 <!ENTITY filterActionDesc.accesskey "P">

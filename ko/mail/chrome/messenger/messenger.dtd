@@ -145,6 +145,8 @@
 <!ENTITY messagePaneVertical.accesskey "V">
 <!ENTITY showFolderPaneCmd.label "폴더 창">
 <!ENTITY showFolderPaneCmd.accesskey "F">
+<!ENTITY showFolderPaneColsCmd.label "폴더 열">
+<!ENTITY showFolderPaneColsCmd.accesskey "P">
 <!ENTITY showMessageCmd.label "메시지 창">
 <!ENTITY showMessageCmd.accesskey "M">
 
@@ -593,7 +595,9 @@
 <!ENTITY manageTags.accesskey "M">
 
 <!-- Folder Pane -->
-<!ENTITY folderColumn.label "이름">
+<!ENTITY folderNameColumn.label "이름">
+<!ENTITY folderUnreadColumn.label "읽지 않음">
+<!ENTITY folderTotalColumn.label "전체">
 <!ENTITY folderSizeColumn.label "크기">
 
 <!-- Folder Pane Context Menu -->
