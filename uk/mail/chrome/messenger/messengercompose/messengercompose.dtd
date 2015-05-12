@@ -158,6 +158,8 @@
 <!ENTITY bothFormatCmd.accesskey "і">
 <!ENTITY priorityMenu.label "Важливість">
 <!ENTITY priorityMenu.accesskey "ж">
+<!ENTITY priorityButton.title "Priority">
+<!ENTITY priorityButton.tooltiptext "Change the message priority">
 <!ENTITY priorityButton.label "Важливість:">
 <!ENTITY lowestPriorityCmd.label "Найнижча">
 <!ENTITY lowestPriorityCmd.accesskey "й">
