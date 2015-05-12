@@ -85,7 +85,6 @@
 <!ENTITY col.url.label           "Địa chỉ">
 
 <!ENTITY col.visitcount.label    "Số lần Xem">
-<!ENTITY col.keyword.label       "Từ khóa">
 <!ENTITY col.description.label   "Mô tả">
 <!ENTITY col.dateadded.label     "Ngày Thêm">
 <!ENTITY col.lastmodified.label  "Lần sửa Cuối">

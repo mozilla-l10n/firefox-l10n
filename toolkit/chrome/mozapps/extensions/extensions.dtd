@@ -22,6 +22,8 @@
 
 <!ENTITY cmd.back.tooltip                     "Trở lại trang trước">
 <!ENTITY cmd.forward.tooltip                  "Tiến tới trang sau">
+
+
 <!-- global warnings -->
 
 <!ENTITY warning.safemode.label                    "Tất cả tiện ích đã bị vô hiệu hóa bởi chế độ an toàn.">
@@ -100,7 +102,8 @@
 <!ENTITY cmd.installAddon.accesskey           "i">
 <!ENTITY cmd.uninstallAddon.label             "Xóa">
 <!ENTITY cmd.uninstallAddon.accesskey         "X">
-<!ENTITY cmd.debugAddon.label                 "Gỡ lỗi">
+
+
 <!ENTITY cmd.showPreferencesWin.label         "Tùy chọn">
 <!ENTITY cmd.showPreferencesWin.tooltip       "Thay đổi tùy chọn của tiện ích này">
 <!ENTITY cmd.showPreferencesUnix.label        "Tùy chỉnh">
@@ -224,5 +227,17 @@ một số tiện ích tốt nhất và thông dụng nhất để bạn thử."
 <!ENTITY experiment.info.learnmore "Tìm hiểu thêm">
 
 
+
+
+
+<!-- LOCALIZATION NOTE (disabledUnsigned.description.start, disabledUnsigned.description.findAddonsLink, disabledUnsigned.description.end):
+     These entities form a sentence, with
+     disabledUnsigned.description.findAddonsLink being a link to an external site. -->
+
+
+
+<!-- LOCALIZATION NOTE (disabledUnsigned.devInfo.start, disabledUnsigned.devInfo.linkToManual, disabledUnsigned.devInfo.end):
+     These entities form a sentence, with disabledUnsigned.devInfo.linkToManual
+     being a link to an external site. -->
 
 
