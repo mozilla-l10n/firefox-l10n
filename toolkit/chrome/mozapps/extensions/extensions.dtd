@@ -23,6 +23,9 @@
 <!ENTITY cmd.back.tooltip                     "На одну сторінку назад">
 <!ENTITY cmd.forward.tooltip                  "На сторінку вперед">
 
+<!ENTITY showUnsignedExtensions.button.label  "Some extensions could not be verified">
+<!ENTITY showAllExtensions.button.label       "Show all extensions">
+
 <!-- global warnings -->
 <!ENTITY warning.safemode.label                    "В безпечному режимі всі додатки вимкнено.">
 <!ENTITY warning.checkcompatibility.label          "Перевірка сумісності додатків вимкнена. У вас можуть бути несумісні додатки.">
@@ -103,6 +106,7 @@
 <!ENTITY cmd.uninstallAddon.label             "Вилучити">
 <!ENTITY cmd.uninstallAddon.accesskey         "л">
 <!ENTITY cmd.debugAddon.label                 "Debug">
+<!ENTITY cmd.debugAddon.accesskey             "B">
 <!ENTITY cmd.showPreferencesWin.label         "Налаштування">
 <!ENTITY cmd.showPreferencesWin.tooltip       "Змінити налаштування цього додатку">
 <!ENTITY cmd.showPreferencesUnix.label        "Налаштування">
@@ -231,3 +235,18 @@
 <!ENTITY experiment.info.changetelemetry.accesskey "Н">
 
 <!ENTITY setting.learnmore "Докладніше…">
+
+<!ENTITY disabledUnsigned.heading "Some add-ons have been disabled">
+<!-- LOCALIZATION NOTE (disabledUnsigned.description.start, disabledUnsigned.description.findAddonsLink, disabledUnsigned.description.end):
+     These entities form a sentence, with
+     disabledUnsigned.description.findAddonsLink being a link to an external site. -->
+<!ENTITY disabledUnsigned.description.start "The following add-ons have not been verified for use in &brandShortName;. You can ">
+<!ENTITY disabledUnsigned.description.findAddonsLink "find replacements">
+<!ENTITY disabledUnsigned.description.end " or ask the developer to get them verified.">
+<!ENTITY disabledUnsigned.learnMore "Learn more about our efforts to help keep you safe online.">
+<!-- LOCALIZATION NOTE (disabledUnsigned.devInfo.start, disabledUnsigned.devInfo.linkToManual, disabledUnsigned.devInfo.end):
+     These entities form a sentence, with disabledUnsigned.devInfo.linkToManual
+     being a link to an external site. -->
+<!ENTITY disabledUnsigned.devInfo.start "Developers interested in getting their add-ons verified can continue by reading our ">
+<!ENTITY disabledUnsigned.devInfo.linkToManual "manual">
+<!ENTITY disabledUnsigned.devInfo.end ".">
