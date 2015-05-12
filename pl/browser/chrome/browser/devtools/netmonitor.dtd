@@ -89,6 +89,8 @@
 <!ENTITY netmonitorUI.context.perfTools.accesskey "R">
 <!ENTITY netmonitorUI.context.copyUrl "Kopiuj adres URL">
 <!ENTITY netmonitorUI.context.copyUrl.accesskey "K">
+<!ENTITY netmonitorUI.context.copyUrlParams "Kopiuj parametry adresu URL">
+<!ENTITY netmonitorUI.context.copyUrlParams.accesskey "L">
 <!ENTITY netmonitorUI.context.copyAsCurl "Kopiuj jako komendę programu cURL">
 <!ENTITY netmonitorUI.context.copyImageAsDataUri "Kopiuj obrazek jako Data URI">
 <!ENTITY netmonitorUI.context.copyImageAsDataUri.accesskey "D">
