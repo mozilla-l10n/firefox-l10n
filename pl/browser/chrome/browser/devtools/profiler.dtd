@@ -6,6 +6,8 @@
 <!ENTITY profilerUI.emptyNotice2 ", aby rozpocząć rejestrowanie wywołań funkcji JavaScript.">
 <!ENTITY profilerUI.stopNotice1 "Kliknij ponownie przycisk">
 <!ENTITY profilerUI.stopNotice2 ", aby zatrzymać profilowanie.">
+<!ENTITY profilerUI.bufferStatusTooltip "Profiler przechowuje próbki w buforze cyklicznym i gdy zostanie osiągnięty limit pojemności zapisu, nowe próbki zaczynają nadpisywać próbki z początku rejestrowania.">
+<!ENTITY profilerUI.bufferStatusFull "Bufor jest pełny. Starsze próbki będą od teraz nadpisywane.">
 <!ENTITY profilerUI.loadingNotice "Wczytywanie…">
 <!ENTITY profilerUI.recordButton.tooltip "Rejestrowanie wywołań funkcji JavaScript">
 <!ENTITY profilerUI.importButton "Importuj…">
