@@ -11,8 +11,8 @@
 <!ENTITY radioRememberPrevState.accesskey "R">
 <!ENTITY radioAskState.label "시작할 온라인 상태 묻기">
 <!ENTITY radioAskState.accesskey "k">
-<!ENTITY radioAlwaysOnline.label "시작할 때 항상 온라인">
-<!ENTITY radioAlwaysOnline.accesskey "l">
+<!ENTITY radioAlwaysOnlineState.label "시작할 때 항상 온라인">
+<!ENTITY radioAlwaysOnlineState.accesskey "l">
 <!ENTITY radioAlwaysOffline.label "시작할 때 항상 오프라인">
 <!ENTITY radioAlwaysOffline.accesskey "f">
 

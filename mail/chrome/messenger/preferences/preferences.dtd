@@ -9,11 +9,15 @@
 <!ENTITY prefWindow.styleMac "width: 47em;">
 <!ENTITY prefWindow.styleGNOME "width: 42em; min-height: 38em;">
 
-<!ENTITY paneGeneral.title "일반">
-<!ENTITY paneDisplay.title "표시">
-<!ENTITY paneComposition.title "쓰기">
-<!ENTITY paneChat.title		"채팅">
-<!ENTITY paneAttachments.title "첨부">
-<!ENTITY panePrivacy.title   "개인정보">
-<!ENTITY paneSecurity.title "보안">
-<!ENTITY paneAdvanced.title "고급">
+<!ENTITY paneGeneral.title        "일반">
+<!ENTITY paneDisplay.title        "표시">
+<!ENTITY paneComposition.title    "쓰기">
+<!ENTITY paneChat.title		        "채팅">
+<!ENTITY paneAttachments.title    "첨부">
+<!ENTITY panePrivacy.title        "개인정보">
+<!ENTITY paneSecurity.title       "보안">
+<!ENTITY paneAdvanced.title       "고급">
+<!ENTITY paneAccount.title        "계정">
+
+<!ENTITY okButton.title           "확인">
+<!ENTITY okButton.accesskey       "O">

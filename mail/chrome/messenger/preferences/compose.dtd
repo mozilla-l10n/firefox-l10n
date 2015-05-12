@@ -6,6 +6,8 @@
 <!ENTITY itemAutoComplete.label "주소">
 <!ENTITY itemSpellCheck.label "맞춤법 검사">
 
+<!ENTITY dialogCompose.title                 "작성">
+
 <!ENTITY forwardMsg.label "전달 메시지:">
 <!ENTITY forwardMsg.accesskey "F">
 <!ENTITY inline.label "본문">
