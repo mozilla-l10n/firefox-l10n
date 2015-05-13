@@ -25,6 +25,8 @@
 
 <!ENTITY helpSafeMode.label       "Reiniciar com extensões desativadas…">
 <!ENTITY helpSafeMode.accesskey   "R">
+<!ENTITY helpSafeMode.stop.label       "Reiniciar com os complementos ativados">
+<!ENTITY helpSafeMode.stop.accesskey   "R">
 
 <!ENTITY healthReport2.label      "Relatório de Integridade do &brandShorterName;">
 <!ENTITY healthReport2.accesskey  "I">
