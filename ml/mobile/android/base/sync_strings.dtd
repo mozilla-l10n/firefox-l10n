@@ -188,15 +188,15 @@
 <!ENTITY fxaccount_update_credentials_button_label "പ്രവേശിയ്ക്കുക">
 <!ENTITY fxaccount_update_credentials_unknown_error "പ്രവേശിക്കാൻ സാധ്യമായില്ല">
 
-
+<!ENTITY fxaccount_finish_migrating_button_label "നവീകരണം അവസാനിപ്പിക്കുക">
 
 
 <!ENTITY fxaccount_status_header2 "ഫയർഫോക്സ് അക്കൗണ്ട്">
 <!ENTITY fxaccount_status_signed_in_as "ഇങ്ങനെ പ്രവേശിച്ചിരിയ്ക്കുന്നു">
 <!ENTITY fxaccount_status_auth_server "അക്കൌണ്ട് സര്‍വര്‍">
 
-
-<!ENTITY fxaccount_status_device_name "ഉപകരണം">
+<!ENTITY fxaccount_status_syncing2 "സിന്‍ക് ചെയ്യുന്നു...">
+<!ENTITY fxaccount_status_device_name "ഉപകരണത്തിന്റെ പേരു്">
 <!ENTITY fxaccount_status_sync_server "സിന്‍ക് സര്‍വര്‍">
 <!ENTITY fxaccount_status_sync "&syncBrand.shortName.label;">
 <!ENTITY fxaccount_status_sync_enabled "&syncBrand.shortName.label;: പ്രവര്‍ത്തന സജ്ജം">
@@ -205,7 +205,7 @@
 <!ENTITY fxaccount_status_needs_upgrade "പ്രവേശിയ്ക്കന്നതിനു് &brandShortName; പരിഷ്കരിയ്ക്കണം.">
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled "&syncBrand.shortName.label; സജ്ജമാണു്, പക്ഷേ ഓട്ടോമാറ്റിയ്ക്കായി സിന്‍ക് ചെയ്യുന്നില്ല. ആന്‍ഡ്രോയിഡ് സജ്ജീകരണങ്ങള്‍ &gt; ഡേറ്റാ ഉപയോഗത്തിലുള്ള “Auto-sync data”മാറ്റുക.">
 
-
+<!ENTITY fxaccount_status_needs_finish_migrating "താങ്കളുടെ പുതിയ ഫയര്‍ഫോക്സ് അക്കൌണ്ടില്‍ പ്രവേശിക്കാന്‍ സ്ക്രീനില്‍ തൊടുക.">
 <!ENTITY fxaccount_status_bookmarks "അടയാളക്കുറിപ്പുകള്‍">
 <!ENTITY fxaccount_status_history "നാള്‍വഴി">
 <!ENTITY fxaccount_status_passwords "രഹസ്യവാക്കുകള്‍">
