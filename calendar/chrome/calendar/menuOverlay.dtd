@@ -20,6 +20,15 @@
 
 <!ENTITY calendar.deletecalendar.label          "선택한 캘린더 삭제…">
 <!ENTITY calendar.deletecalendar.accesskey      "D">
+<!ENTITY calendar.unsubscribecalendar.label     "선택한 캘린더 구독 취소…">
+<!ENTITY calendar.unsubscribecalendar.accesskey "U">
+
+<!-- LOCALIZATION NOTE (calendar.removecalendar.label): Removing the calendar
+      is the general action of removing it, while deleting means to clear the
+      data and unsubscribing means just taking it out of the calendar list. -->
+<!ENTITY calendar.removecalendar.label          "선택한 캘린더 제거…">
+<!ENTITY calendar.removecalendar.accesskey      "R">
+
 
 <!ENTITY calendar.menu.customize.label          "사용자 설정…">
 <!ENTITY calendar.menu.customize.accesskey      "C">

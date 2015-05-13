@@ -3,7 +3,8 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY addressbookWindow.title "주소록">
-
+<!ENTITY blankResultsPaneMessage.label "이 주소록은 검색된 연락처만 보여줍니다">
+<!ENTITY localResultsOnlyMessage.label "원격 주소록의 연락처는 검색하기 전에는 볼 수 없습니다">
 <!-- File Menu -->
 <!ENTITY fileMenu.label "파일">
 <!ENTITY fileMenu.accesskey "f">
@@ -160,6 +161,8 @@ because displayed names don't have the comma in between. -->
 <!ENTITY searchItem.title "빠른 검색">
 
 <!-- Results Pane -->
+<!ENTITY Addrbook.label                                 "주소록">
+<!ENTITY Addrbook.accesskey                             "B">
 <!ENTITY GeneratedName.label "이름">
 <!ENTITY GeneratedName.accesskey "N">
 <!ENTITY PrimaryEmail.label "기본 메일">

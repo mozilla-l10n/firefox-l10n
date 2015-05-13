@@ -33,6 +33,10 @@
 <!ENTITY pref.default_task_offset_start.label "시작 시간 부터">
 <!ENTITY pref.default_task_offset_next_hour.label "다음 시간 부터">
 
+<!ENTITY pref.calendar.todaypane.agenda.caption "오늘 창">
+<!ENTITY pref.soondays.label "다가오는 이벤트 섹션:">
+<!ENTITY pref.soondays.accesskey "u">
+
 <!ENTITY pref.accessibility.label "접근성" >
 <!ENTITY pref.systemcolors.label "시스템 색상 최적화" >
 <!ENTITY pref.systemcolors.accesskey "c">
