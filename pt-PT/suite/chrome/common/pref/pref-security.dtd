@@ -32,7 +32,7 @@
 <!ENTITY safeBrowsing.label               "Navegação segura">
 <!ENTITY safeBrowsingIntro.label          "O &brandShortName; pode bloquear os sítios web indicados como contendo conteúdo malicioso.">
 
-<!ENTITY blockAttackSites.label           "Bloquear os sítios de ataque indicados (malware, virús)">
+<!ENTITY blockAttackSites.label           "Bloquear os sítios de ataque reportados (malware, vírus)">
 <!ENTITY blockAttackSites.accesskey       "B">
 
 <!ENTITY blockWebForgeries.label          "Bloquear os sítios de engodo web indicados (Phishing)">

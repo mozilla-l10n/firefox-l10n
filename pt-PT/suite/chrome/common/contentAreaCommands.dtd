@@ -72,6 +72,8 @@
 <!ENTITY saveFrameAsCmd.label         "Guardar moldura como…">
 <!ENTITY saveFrameCmd.label           "Guardar moldura">
 <!ENTITY saveFrameCmd.accesskey       "G">
+<!ENTITY printFrameCmd.label          "Imprimir moldura...">
+<!ENTITY printFrameCmd.accesskey      "p">
 <!ENTITY saveLinkAsCmd.label          "Guardar ligação como…">
 <!ENTITY saveLinkCmd.label            "Guardar ligação">
 <!ENTITY saveLinkCmd.accesskey        "r">

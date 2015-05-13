@@ -24,7 +24,7 @@
 <!ENTITY identityDesc.label "Cada conta tem uma identidade, que é a informação que o identifica quando outros recebem as suas mensagens.">
 <!-- LOCALIZATION NOTE (fullnameDesc.label) : do not translate two of "&quot;" in below line -->
 
-<!ENTITY fullnameDesc.label "Introduza o nome que quer que apareça no campo &quot;De&quot; quando envia mensagens">
+<!ENTITY fullnameDesc.label "Introduza o nome a mostrar no campo &quot;De&quot; das mensagens enviadas">
 <!-- LOCALIZATION NOTE (fullnameExample.label) : use following directions for below line
   1, do not translate two of "&quot;"
   2, Use localized full name instead of "John Smith"
@@ -38,7 +38,7 @@
 <!-- Entities for Incoming Server page -->
 
 
-<!ENTITY incomingTitle.label "Informação do servidor">
+<!ENTITY incomingTitle.label "Informação do servidor de receção">
 <!ENTITY incomingServerTypeDesc.label "Selecione o tipo de servidor de receção que está a usar.">
 <!-- LOCALIZATION NOTE (imapType.label) : Do not translate "IMAP" in below line -->
 <!ENTITY imapType.label "IMAP">
@@ -51,7 +51,7 @@
 <!ENTITY defaultPortLabel.label "Pré-definido:">
 <!ENTITY defaultPortValue.label "">
 <!-- LOCALIZATION NOTE (incomingServerNameDesc.label) : Do not translate "&quot;pop.example.net&quot;" in below line -->
-<!ENTITY incomingServer.description "Escreva o nome do seu servidor de receção (por exemplo, &quot;mail.example.net&quot;).">
+<!ENTITY incomingServer.description "Escreva o nome do seu servidor de receção (por exemplo, &quot;mail.exemplo.pt&quot;).">
 <!ENTITY incomingServer.label "Servidor de receção:">
 <!ENTITY incomingServer.accesskey "S">
 <!ENTITY leaveMsgsOnSrvr.label "Manter mensagens no servidor">
@@ -67,37 +67,37 @@
 <!-- Entities for Outgoing Server page -->
 
 
-<!ENTITY outgoingTitle.label "Outgoing Server Information">
+<!ENTITY outgoingTitle.label "Informações do servidor de envio">
 <!-- LOCALIZATION NOTE (outgoingServer.description) : Do not translate "SMTP" and "&quot;smtp.example.net&quot;" in below line -->
-<!ENTITY outgoingServer.description "Enter the name of your outgoing server (SMTP) (por exemplo, &quot;smtp.example.net&quot;).">
+<!ENTITY outgoingServer.description "Introduza o nome do servidor de envio (SMTP) (por exemplo, &quot;smtp.exemplo.pt&quot;).">
 <!ENTITY outgoingServer.label "Servidor de envio:">
 <!ENTITY outgoingServer.accesskey "S">
-<!ENTITY outgoingUsername.description "Escreva o nome de utilizador usado para enviar que lhe foi dado pelo seu fornecedor de correio (normalmente é o mesmo que o nome de receção).">
-<!ENTITY outgoingUsername.label "Nome de utilizador para enviar:">
+<!ENTITY outgoingUsername.description "Escreva o nome de utilizador de envio que lhe foi dado pelo seu fornecedor de correio eletrónico (normalmente, é igual ao nome de receção).">
+<!ENTITY outgoingUsername.label "Nome de utilizador do servidor de envio:">
 <!ENTITY outgoingUsername.accesskey "u">
 <!-- LOCALIZATION NOTE (modifyOutgoing.suffix) : This string will be appended after each of
      haveSmtp1.suffix3, haveSmtp2.suffix3, haveSmtp3.suffix3 .
 -->
 
-<!ENTITY modifyOutgoing.suffix "You can change outgoing servers in the account settings.">
+<!ENTITY modifyOutgoing.suffix "Pode alterar as definições do servidor de envio nas definições da conta de correio e grupos de notícias.">
 <!-- LOCALIZATION NOTE (haveSmtp1.prefix and haveSmtp1.suffix3) : Do not translate "SMTP" and "&quot;" in
      these variables. Also, translate haveSmtp1.prefix and haveSmtp1.suffix3 as a single sentence, inserting
      text after the "&quot;" entity in haveSmtp1.suffix3, if required grammatically.
 -->
-<!ENTITY haveSmtp1.prefix "O servidor SMTP atual, &quot;">
+<!ENTITY haveSmtp1.prefix "O servidor de envio existente (SMTP), &quot;">
 <!ENTITY haveSmtp1.suffix3 "&quot;, será usado.">
 <!-- LOCALIZATION NOTE (haveSmtp2.prefix and haveSmtp2.suffix3) : Do not translate "SMTP" and "&quot;" in
      these variables. Also, translate haveSmtp2.prefix and haveSmtp2.suffix3 as a single sentence, inserting
      text after the "&quot;" entity in haveSmtp2.suffix3, if required grammatically.
 -->
-<!ENTITY haveSmtp2.prefix "O nome de utilizador do servidor SMTP, &quot;">
+<!ENTITY haveSmtp2.prefix "O nome de utilizador do servidor de envio (SMTP), &quot;">
 <!ENTITY haveSmtp2.suffix3 "&quot;, será usado.">
 <!-- LOCALIZATION NOTE (haveSmtp3.prefix and haveSmtp3.suffix3) : Do not translate "SMTP" and "&quot;" in
      these variables. Also, translate haveSmtp3.prefix and haveSmtp3.suffix3 as a single sentence, inserting
      text after the "&quot;" entity in haveSmtp3.suffix3, if required grammatically.
 -->
-<!ENTITY haveSmtp3.prefix "O servidor SMTP (usado para enviar mensagens), &quot;">
-<!ENTITY haveSmtp3.suffix3 "&quot;, é o mesmo servidor usado para receber mensagens. Será usado o mesmo nome de utilizador.">
+<!ENTITY haveSmtp3.prefix "O servidor de envio (SMTP), &quot;">
+<!ENTITY haveSmtp3.suffix3 "&quot;, é idêntico ao do servidor de receção. Será usado o mesmo nome de utilizador.">
 <!-- Entities for Account name page -->
 
 
@@ -111,9 +111,9 @@
 
 <!ENTITY completionTitle.label "Parabéns!">
 <!ENTITY completionText.label "Verifique se a informação em baixo está correta.">
-<!ENTITY serverTypePrefix.label "Tipo de servidor de receção:">
+<!ENTITY serverTypePrefix.label "Tipo do servidor de receção:">
 <!ENTITY serverNamePrefix.label "Nome do servidor de receção:">
-<!ENTITY smtpServerNamePrefix.label "Nome de correio a enviar (SMTP):">
+<!ENTITY smtpServerNamePrefix.label "Nome do servidor de envio (SMTP):">
 <!ENTITY newsServerNamePrefix.label "Nome do servidor de notícias (NNTP):">
 <!ENTITY downloadOnLogin.label "Transferir as mensagem agora">
 <!ENTITY downloadOnLogin.accesskey "T">

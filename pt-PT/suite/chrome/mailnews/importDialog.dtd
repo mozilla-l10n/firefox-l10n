@@ -20,7 +20,7 @@
 <!ENTITY  window.macWidth         "45em">
 
 <!ENTITY importTitle.label        "&brandShortName; Assistente de Importação do Correio">
-<!ENTITY importShortDesc.label    "Importar Correio, Livro de Endereços e Configurações de outros programas">
+<!ENTITY importShortDesc.label    "Importar correio, livro de endereços, definições e filtros de outros programas">
 
 <!ENTITY importDescription1.label "Este assistente vai importar mensagens de correio, entradas do Livro de Endereços, e/ou personalizações de outros programas de correio e formatos de livros de endereços comuns para o Correio do &brandShortName;.">
 <!ENTITY importDescription2.label "Ao serem importadas, poderá aceder a elas a partir do Correio e/ou Livro de Endereços do &brandShortName;.">
