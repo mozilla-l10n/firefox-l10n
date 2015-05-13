@@ -6,8 +6,8 @@
 <!ENTITY  no_space_to_start_error "N\u0027eus ket plas a-walc\u0027h war ar gantenn evit loc\u0027hañ &brandShortName;.">
 <!ENTITY  error_loading_file "Degouezhet ez eus bet ur fazi e-pad ma oa o klask pellgargañ restroù azgoulennet da loc\u0027hañ &brandShortName;">
 
-<!ENTITY  onboard_start_message2 "Donemat e &brandShortName;">
-<!ENTITY  onboard_start_subtext2 "Muioc\u0027h a geweriusterioù evit ho puhez prevez ha muioc\u0027h a zoareoù da personelaat eget biskoazh.">
+<!ENTITY  onboard_start_message3 "Merdeiñ gant &brandShortName;">
+<!ENTITY  onboard_start_subtext3 "Lakait ho merdeiñ web hezoug da vezañ deoc\u0027h ho-unan.">
 <!ENTITY  onboard_start_button_account "Kennaskañ ouzh &brandShortName;">
 <!ENTITY  onboard_start_button_browser "Krog da verdeiñ">
 <!-- Localization note: These are used as the titles of different pages on the home screen.
@@ -114,7 +114,6 @@
 
 <!ENTITY overlay_share_send_tab_btn_label "Kas d\u0027un drobarzhell all">
 <!ENTITY overlay_share_no_url "Ere ebet bet kavet evit ar rannadur-mañ.">
-<!ENTITY overlay_share_retry "Klask en-dro">
 <!ENTITY overlay_share_select_device "Diuzañ un drobarzhell">
 <!-- Localization note (overlay_no_synced_devices) : Used when the menu option
      to send a tab to a synced device is pressed and no other synced devices
@@ -150,8 +149,6 @@
      it is applicable. -->
 <!ENTITY pref_search_hint "TUN : Ouzhpennit ne vern pe lec\u0027hienn war ho roll pourchaserion glask en ur bouezañ hir war ar vaezienn glask ha pouezit war an arlun &formatI;">
 <!ENTITY pref_category_devtools "Ostilhoù an diorroer">
-<!ENTITY pref_category_devtools_summary "Diveugañ a-bell, usskediñ ar maeziennoù pentet">
-<!ENTITY pref_developer_paint_flashing "Usskediñ ar maeziennoù pentet">
 <!ENTITY pref_developer_remotedebugging "Diveugañ a-bell">
 <!ENTITY pref_category_logins "Titouroù kennaskañ">
 <!ENTITY pref_remember_signons "Derc\u0027hel soñj eus ar gerioù-tremen">
@@ -192,22 +189,22 @@
 <!ENTITY pref_donottrack_title "N\u0027am heuilhit ket">
 <!ENTITY pref_donottrack_summary "&brandShortName; a lavaro d\u0027al lec\u0027hiennoù ne fell ket deoc\u0027h bezañ heuliet">
 
-<!ENTITY tab_queue_toast_message "Digeriñ diwezhatoc\u0027h">
+<!ENTITY tab_queue_toast_message2 "Ivinell lakaet el lost e &brandShortName;">
 <!ENTITY tab_queue_toast_action "Digeriñ bremañ">
-<!-- Localization note (tab_queue_notification_text_plural) : The
+<!ENTITY tab_queue_prompt_title "Digeriñ meur a ereoù ?">
+<!ENTITY tab_queue_prompt_text2 "Digeriñ anezhe hep distreiñ da &brandShortName; bewech.">
+<!ENTITY tab_queue_prompt_tip_text "tu a vo deoc\u0027h kemmañ se en Arventennoù diwezhatoc\u0027h">
+<!ENTITY tab_queue_prompt_positive_action_button "Gweredekaat">
+<!ENTITY tab_queue_prompt_negative_action_button "Ket bremañ">
+<!ENTITY tab_queue_notification_title "&brandShortName;">
+<!-- Localization note (tab_queue_notification_text_plural2) : The
      formatD is replaced with the number of tabs queued.  The
      number of tabs queued is always more than one.  We can't use
      Android plural forms, sadly. See Bug #753859. -->
-<!ENTITY tab_queue_notification_text_plural "&formatD; ivinell lakaet el lost">
-<!-- Localization note (tab_queue_notification_title_plural) : This is the
-     title of a notification; we expect more than one tab queued. -->
-<!ENTITY tab_queue_notification_title_plural "Ivinelloù lakaet el lost">
-<!-- Localization note (tab_queue_notification_title_singular) : This is the
-     title of a notification; we expect only one tab queued. -->
-<!ENTITY tab_queue_notification_title_singular "Ivinell lakaet el lost">
-<!-- Localization note (tab_queue_notification_text_singular) : This is the
+<!ENTITY tab_queue_notification_text_plural2 "&formatD; ivinell o c\u0027hortoz">
+<!-- Localization note (tab_queue_notification_text_singular2) : This is the
      text of a notification; we expect only one tab queued. -->
-<!ENTITY tab_queue_notification_text_singular "1 ivinell lakaet el lost">
+<!ENTITY tab_queue_notification_text_singular2 "1 ivinell o c\u0027hortoz">
 
 <!ENTITY pref_char_encoding "Bonegadur an arouezennoù">
 <!ENTITY pref_char_encoding_on "Diskouez al lañser">
@@ -255,7 +252,8 @@ size. -->
 <!ENTITY pref_import_android "Enporzhiañ diouzh Android">
 <!ENTITY pref_import_android_summary "Enporzhiañ ar sinedoù hag ar roll istor adalek ar merdeer genidik">
 <!ENTITY pref_private_data_history2 "Roll istor merdeiñ">
-<!ENTITY pref_private_data_formdata "Furmskrid ha klask ar roll istor">
+<!ENTITY pref_private_data_searchHistory "Roll istor klask">
+<!ENTITY pref_private_data_formdata2 "Roll istor furmskridoù">
 <!ENTITY pref_private_data_cookies2 "Toupinoù ha kennaskoù oberiant">
 <!ENTITY pref_private_data_passwords "Gerioù-tremen enrollet">
 <!ENTITY pref_private_data_cache "Krubuilh">
@@ -380,6 +378,7 @@ size. -->
 <!ENTITY doorhanger_login_edit_username_hint "Anv arveriad">
 <!ENTITY doorhanger_login_edit_password_hint "Ger-tremen">
 <!ENTITY doorhanger_login_edit_toggle "Skrammañ ar ger-tremen">
+<!ENTITY doorhanger_login_edit_toast_error "C\u0027hwitet war enrollañ an naoudi">
 
 <!ENTITY pref_titlebar_mode "Barrenn ditl">
 <!ENTITY pref_titlebar_mode_title "Diskouez titl ar bajenn">
@@ -390,8 +389,8 @@ size. -->
 <!ENTITY pref_scroll_title_bar2 "Merdeiñ gant ar skramm a-bezh">
 <!ENTITY pref_scroll_title_bar_summary "Kuzhat barrenn ditl &brandShortName; pa zibuner a-hed ur bajennad">
 
-<!ENTITY pref_tab_queue_title "Digeriñ diwezhatoc\u0027h">
-<!ENTITY pref_tab_queue_summary "Mirout an ivinelloù da zigeriñ diouzhtu, met digeriñ an holl ivinelloù el lost ar wech a-zeu ma kargo &brandShortName;.">
+<!ENTITY pref_tab_queue_title2 "Digeriñ meur a ereoù">
+<!ENTITY pref_tab_queue_summary2 "Lakaat an ereoù el lost kentoc\u0027h ha distreiñ da &brandShortName; bewech">
 <!-- Localization note (page_removed): This string appears in a toast message when
      any page is removed frome about:home. This includes pages that are in history,
      bookmarks, or reading list. -->
@@ -440,6 +439,8 @@ size. -->
 <!ENTITY button_set "Despizet">
 <!ENTITY button_clear "Skarzhañ">
 <!ENTITY button_remember "Derc\u0027hel soñj">
+
+<!ENTITY firstrun_panel_title_welcome "Degemer mat">
 
 <!ENTITY home_top_sites_title "Lec\u0027hiennoù e-touez re wellañ">
 <!-- Localization note (home_top_sites_add): This string is used as placeholder
@@ -612,6 +613,14 @@ diouzh Android">
 <!ENTITY ellipsis "…">
 
 <!ENTITY colon ":">
+<!-- LOCALIZATION NOTE (percent): The percent sign is appended after a number to
+     display a percentage value. formatS is the number, #37 is the code to display a percent sign.
+     This format string is typically used by getString method, in such method the percent sign
+     is a reserved caracter. In order to display one percent sign in the result of getString,
+     double percent signs must be inserted in the format string.
+     This entity is used in the zoomed view to display the zoom factor-->
+
+<!ENTITY percent "&formatS;&#037;&#037;">
 <!-- These are only used for accessibility for the done and overflow-menu buttons in the actionbar.
      They are never shown to users -->
 
