@@ -170,3 +170,13 @@
 <!ENTITY experiment.info.changetelemetry.accesskey "T">
 
 <!ENTITY setting.learnmore "Aprender más…">
+
+<!ENTITY disabledUnsigned.heading "Algunos complementos han sido desactivados">
+<!ENTITY disabledUnsigned.description.start "Los siguientes complementos no han sido verificados para ser usados en &brandShortName;. Puede ">
+<!ENTITY disabledUnsigned.description.findAddonsLink "buscar reemplazos">
+<!ENTITY disabledUnsigned.description.end " o solicitarle al desarrollador que los haga verificar.">
+<!ENTITY disabledUnsigned.learnMore "Aprenda más sobre nuestros esfuerzos para ayudarle a mantenerse seguro en línea.">
+<!ENTITY disabledUnsigned.devInfo.start "Los desarrolladores interesados en tener sus complementos verificados pueden continuar leyendo nuestro ">
+<!ENTITY disabledUnsigned.devInfo.linkToManual "manual">
+<!ENTITY disabledUnsigned.devInfo.end ".">
+
