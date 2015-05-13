@@ -6,8 +6,8 @@
 <!ENTITY  no_space_to_start_error "Chan eil àite gu leòr ann airson leigeil le &brandShortName; tòiseachadh.">
 <!ENTITY  error_loading_file "Thachair mearachd fhad ’s a dh’fheuchar na faidhlichean a luchdadh a dh’fheumas &brandShortName;">
 
-<!ENTITY  onboard_start_message2 "Fàilte gu &brandShortName;">
-<!ENTITY  onboard_start_subtext2 "Barrachd ghleusan prìobhaideachd is dòighean gus a chur air gleus na bha ann a-riamh roimhe.">
+<!ENTITY  onboard_start_message3 "Brabhsaich le &brandShortName;">
+<!ENTITY  onboard_start_subtext3 "Dèan brabhsadh mobile air an lìon gu tur a-rèir do thoil fhèin.">
 <!ENTITY  onboard_start_button_account "Clàraich a-steach gu &brandShortName;">
 <!ENTITY  onboard_start_button_browser "Tòisich air brabhsadh">
 <!-- Localization note: These are used as the titles of different pages on the home screen.
@@ -114,7 +114,6 @@
 
 <!ENTITY overlay_share_send_tab_btn_label "Cuir gu uidheam eile">
 <!ENTITY overlay_share_no_url "Cha deach ceangal a lorg san rud cho-roinnte seo">
-<!ENTITY overlay_share_retry "Feuch ris a-rithist">
 <!ENTITY overlay_share_select_device "Tagh uidheam">
 <!-- Localization note (overlay_no_synced_devices) : Used when the menu option
      to send a tab to a synced device is pressed and no other synced devices
@@ -150,8 +149,6 @@
      it is applicable. -->
 <!ENTITY pref_search_hint "GLIOCAS: ’S urrainn dhut làrach-lìn sam bith a chur ri liosta nan solaraichean luirg ma nì thu brùthadh fada air an raon luirg aige ’s a\u0027 toirt gnogag air an ìomhaigheag &formatI; an uairsin.">
 <!ENTITY pref_category_devtools "Innealan an luchd-leasachaidh">
-<!ENTITY pref_category_devtools_summary "Dì-bhugachadh cèin, paint flashing">
-<!ENTITY pref_developer_paint_flashing "Paint flashing">
 <!ENTITY pref_developer_remotedebugging "Dì-bhugachadh cèin">
 <!ENTITY pref_category_logins "Clàraidhean a-steach">
 <!ENTITY pref_remember_signons "Cum faclan-faire an cuimhne">
@@ -192,22 +189,22 @@
 <!ENTITY pref_donottrack_title "Na tracaich">
 <!ENTITY pref_donottrack_summary "Innsidh &brandShortName; do làraichean nach eil thu ag iarraidh gun tracaich iad thu">
 
-<!ENTITY tab_queue_toast_message "Fosgail às a dhèidh seo">
+<!ENTITY tab_queue_toast_message2 "Taba sa chiutha ann am &brandShortName;">
 <!ENTITY tab_queue_toast_action "Fosgail an-dràsta">
-<!-- Localization note (tab_queue_notification_text_plural) : The
+<!ENTITY tab_queue_prompt_title "A bheil thu airson iomadh ceangal fhosgladh?">
+<!ENTITY tab_queue_prompt_text2 "Fosgail iad gun &brandShortName; fhosgladh gach turas.">
+<!ENTITY tab_queue_prompt_tip_text "’s urrainn dhut seo atharrachadh sna roghainnean às a dhèidh seo">
+<!ENTITY tab_queue_prompt_positive_action_button "Cuir an comas">
+<!ENTITY tab_queue_prompt_negative_action_button "Chan ann an-dràsta">
+<!ENTITY tab_queue_notification_title "&brandShortName;">
+<!-- Localization note (tab_queue_notification_text_plural2) : The
      formatD is replaced with the number of tabs queued.  The
      number of tabs queued is always more than one.  We can't use
      Android plural forms, sadly. See Bug #753859. -->
-<!ENTITY tab_queue_notification_text_plural "&formatD; taba(ichean) sa chiutha">
-<!-- Localization note (tab_queue_notification_title_plural) : This is the
-     title of a notification; we expect more than one tab queued. -->
-<!ENTITY tab_queue_notification_title_plural "Tabaichean sa chiutha">
-<!-- Localization note (tab_queue_notification_title_singular) : This is the
-     title of a notification; we expect only one tab queued. -->
-<!ENTITY tab_queue_notification_title_singular "Tha an taba sa chiutha">
-<!-- Localization note (tab_queue_notification_text_singular) : This is the
+<!ENTITY tab_queue_notification_text_plural2 "&formatD; taba(ichean) a’ feitheamh">
+<!-- Localization note (tab_queue_notification_text_singular2) : This is the
      text of a notification; we expect only one tab queued. -->
-<!ENTITY tab_queue_notification_text_singular "Tha taba sa chiutha">
+<!ENTITY tab_queue_notification_text_singular2 "1 taba a’ feitheamh">
 
 <!ENTITY pref_char_encoding "Còdachadh charactaran">
 <!ENTITY pref_char_encoding_on "Seall an clàr-taice">
@@ -255,7 +252,8 @@ size. -->
 <!ENTITY pref_import_android "Ion-phortaich o Android">
 <!ENTITY pref_import_android_summary "Ion-phortaich comharran-lìn is an eachdraidh on bhrabhsair tùsail aig an uidheam">
 <!ENTITY pref_private_data_history2 "An eachdraidh brabhsaidh">
-<!ENTITY pref_private_data_formdata "Eachdraidh nam foirm ⁊ nan lorg">
+<!ENTITY pref_private_data_searchHistory "Eachdraidh nan lorg">
+<!ENTITY pref_private_data_formdata2 "Eachdraidh na foirm">
 <!ENTITY pref_private_data_cookies2 "Briosgaidean ⁊ clàraidhean beò">
 <!ENTITY pref_private_data_passwords "Faclan-faire air an sàbhaladh">
 <!ENTITY pref_private_data_cache "An tasgadan">
@@ -380,6 +378,7 @@ size. -->
 <!ENTITY doorhanger_login_edit_username_hint "Ainm-cleachdaiche">
 <!ENTITY doorhanger_login_edit_password_hint "Facal-faire">
 <!ENTITY doorhanger_login_edit_toggle "Seall am facal-faire">
+<!ENTITY doorhanger_login_edit_toast_error "Dh\u0027fhàillig an clàradh a-steach">
 
 <!ENTITY pref_titlebar_mode "Bàr an tiotail">
 <!ENTITY pref_titlebar_mode_title "Seall tiotal na duilleige">
@@ -390,8 +389,8 @@ size. -->
 <!ENTITY pref_scroll_title_bar2 "Brabhsadh làn-sgrìn">
 <!ENTITY pref_scroll_title_bar_summary "Falaich bàr-tiotail &brandShortName; nuair a sgrolar sìos air duilleag">
 
-<!ENTITY pref_tab_queue_title "Fosgail às a dhèidh seo">
-<!ENTITY pref_tab_queue_summary "Na fosgail tabaichean sa bhad ach cuir iad ann an ciutha ’s fosgail iad an ath-thuras a dh’fhosglar &brandShortName;.">
+<!ENTITY pref_tab_queue_title2 "Fosgail iomadh ceangal">
+<!ENTITY pref_tab_queue_summary2 "Cuir ceanglaichean sa chiutha agus thoir sùil uaireigin eile seach &brandShortName; fhosgladh gach turas">
 <!-- Localization note (page_removed): This string appears in a toast message when
      any page is removed frome about:home. This includes pages that are in history,
      bookmarks, or reading list. -->
@@ -440,6 +439,8 @@ size. -->
 <!ENTITY button_set "Suidhich">
 <!ENTITY button_clear "Falamhaich">
 <!ENTITY button_remember "Cum an cuimhne">
+
+<!ENTITY firstrun_panel_title_welcome "Fàilte">
 
 <!ENTITY home_top_sites_title "Sàr-làraichean">
 <!-- Localization note (home_top_sites_add): This string is used as placeholder
@@ -612,6 +613,14 @@ o Android">
 <!ENTITY ellipsis "…">
 
 <!ENTITY colon ":">
+<!-- LOCALIZATION NOTE (percent): The percent sign is appended after a number to
+     display a percentage value. formatS is the number, #37 is the code to display a percent sign.
+     This format string is typically used by getString method, in such method the percent sign
+     is a reserved caracter. In order to display one percent sign in the result of getString,
+     double percent signs must be inserted in the format string.
+     This entity is used in the zoomed view to display the zoom factor-->
+
+<!ENTITY percent "&formatS;&#037;&#037;">
 <!-- These are only used for accessibility for the done and overflow-menu buttons in the actionbar.
      They are never shown to users -->
 

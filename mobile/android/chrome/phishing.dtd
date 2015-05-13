@@ -15,3 +15,8 @@
 <!ENTITY safeb.blocked.phishingPage.title2 "Amharas gur e fallsaidheachd-lìn a tha seo!">
 <!ENTITY safeb.blocked.phishingPage.shortDesc2 "Ma chuireas tu a-steach dàta pearsanta sam bith air an duilleag seo, faodaidh gun goidear do dhearbh-aithne ort no gum feuch cuideigin do mhealladh.">
 <!ENTITY safeb.blocked.phishingPage.longDesc2 "<p>Tha a leithid seo de dh’fhallsaidheachd-lìn ’ga chleachdadh ann am foill air a bheil fiasgach, le duilleagan-lìn no puist-dhealain a’ toirt creidsinn gu bheil iad ’nan tùsan earbsach air a bheil thu eòlach.</p>">
+
+<!ENTITY safeb.blocked.unwantedPage.title "Làrach a sgaoileas bathar-bog gun iarrtas!">
+<!-- Localization note (safeb.blocked.unwanted.shortDesc) - Please don't translate the contents of the <span id="unwanted_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
+<!ENTITY safeb.blocked.unwantedPage.shortDesc "Chaidh aithris gur e duilleag a sgaoileas bathar-bog gun iarrtas a tha ann an <span id='unwanted_sitename'/> agus chaidh bacadh a chur air a-rèir do roghainnean tèarainteachd.">
+<!ENTITY safeb.blocked.unwantedPage.longDesc "Feuchaidh duilleagan mar seo bathar-bog a stàladh air am bi coltas foilleil agus a mì-ghnàthaicheas an siostam agam air dòighean nach iarradh tu.">
