@@ -22,6 +22,8 @@
 
 <!ENTITY cmd.back.tooltip                     "عُد للخلف صفحة واحدة">
 <!ENTITY cmd.forward.tooltip                  "تقدم للأمام صفحة واحدة">
+
+
 <!-- global warnings -->
 
 <!ENTITY warning.safemode.label                    "النمط الآمن عطّل جميع الإضافات.">
@@ -102,7 +104,8 @@
 <!ENTITY cmd.installAddon.accesskey           "ث">
 <!ENTITY cmd.uninstallAddon.label             "أزِل">
 <!ENTITY cmd.uninstallAddon.accesskey         "ل">
-<!ENTITY cmd.debugAddon.label                 "نقّح">
+
+
 <!ENTITY cmd.showPreferencesWin.label         "خيارات">
 <!ENTITY cmd.showPreferencesWin.tooltip       "غيّر خيارات هذه الإضافة">
 <!ENTITY cmd.showPreferencesUnix.label        "تفضيلات">
@@ -230,3 +233,15 @@
 <!ENTITY experiment.info.changetelemetry.accesskey "ت">
 
 <!ENTITY setting.learnmore "اطّلع على المزيد…">
+
+<!-- LOCALIZATION NOTE (disabledUnsigned.description.start, disabledUnsigned.description.findAddonsLink, disabledUnsigned.description.end):
+     These entities form a sentence, with
+     disabledUnsigned.description.findAddonsLink being a link to an external site. -->
+
+
+
+<!-- LOCALIZATION NOTE (disabledUnsigned.devInfo.start, disabledUnsigned.devInfo.linkToManual, disabledUnsigned.devInfo.end):
+     These entities form a sentence, with disabledUnsigned.devInfo.linkToManual
+     being a link to an external site. -->
+
+
