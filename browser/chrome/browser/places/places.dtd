@@ -85,7 +85,6 @@
 <!ENTITY col.url.label           "অবস্থান">
 <!ENTITY col.mostrecentvisit.label "সাম্প্রতিক ভিজিট">
 <!ENTITY col.visitcount.label    "পরিদর্শনের সংখ্যা">
-<!ENTITY col.keyword.label       "নির্দেশক শব্দ">
 <!ENTITY col.description.label   "বর্ণনা">
 <!ENTITY col.dateadded.label     "যোগ হওয়ার তারিখ">
 <!ENTITY col.lastmodified.label  "সর্বশেষ পরিবর্তনের সময়">

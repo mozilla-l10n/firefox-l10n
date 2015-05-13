@@ -25,6 +25,8 @@
 
 <!ENTITY helpSafeMode.label       "অতিরিক্ত সামগ্রী নিষ্ক্রিয় করে পুনরারম্ভ করুন…">
 <!ENTITY helpSafeMode.accesskey   "R">
+<!ENTITY helpSafeMode.stop.label       "অ্যাড-অন সক্রিয় করে পুনরায় চালু করুন(R)">
+<!ENTITY helpSafeMode.stop.accesskey   "R">
 
 <!ENTITY healthReport2.label      "&brandShorterName; স্বাস্থ্য রিপোর্ট">
 <!ENTITY healthReport2.accesskey  "e">
