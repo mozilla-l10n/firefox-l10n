@@ -41,7 +41,7 @@
 <!ENTITY autoSave.accesskey                   "a">
 <!ENTITY autoSaveEnd.label                    "minutos">
 
-<!ENTITY emailCollectionPicker.label           "Ao enviar, adicionar endereços automaticamente ao:">
+<!ENTITY emailCollectionPicker.label           "Ao enviar, adicionar endereços de correio eletrónico ao:">
 <!ENTITY emailCollectionPicker.accesskey       "A">
 <!ENTITY addressingTitle.label                 "Conclusão automática de endereços">
 <!ENTITY autocompleteText.label                "Ao endereçar mensagens, procurar equivalências no:">
