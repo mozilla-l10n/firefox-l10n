@@ -22,6 +22,8 @@
 
 <!ENTITY cmd.back.tooltip                     "সর্বশেষ পূর্ববর্তী পৃষ্ঠায় প্রত্যাবর্তন">
 <!ENTITY cmd.forward.tooltip                  "প্রদর্শিত পৃষ্ঠার অনুক্রমে, পরবর্তী পৃষ্ঠায় এগিয়ে চলুন">
+
+
 <!-- global warnings -->
 
 <!ENTITY warning.safemode.label                    "নিরাপদ মোডে সকল অতিরিক্ত সামগ্রী নিষ্ক্রিয় করা হয়েছে।">
@@ -102,7 +104,8 @@
 <!ENTITY cmd.installAddon.accesskey           "I">
 <!ENTITY cmd.uninstallAddon.label             "মুছে ফেলুন">
 <!ENTITY cmd.uninstallAddon.accesskey         "R">
-<!ENTITY cmd.debugAddon.label                 "ডিবাগ করুন">
+
+
 <!ENTITY cmd.showPreferencesWin.label         "বিকল্প">
 <!ENTITY cmd.showPreferencesWin.tooltip       "চিহ্নিত অতিরিক্ত সামগ্রীর বিকল্প মান পরিবর্তন করুন">
 <!ENTITY cmd.showPreferencesUnix.label        "পছন্দ">
@@ -228,3 +231,15 @@
 <!ENTITY experiment.info.changetelemetry.accesskey "T">
 
 <!ENTITY setting.learnmore "আরও জানুন...">
+
+<!-- LOCALIZATION NOTE (disabledUnsigned.description.start, disabledUnsigned.description.findAddonsLink, disabledUnsigned.description.end):
+     These entities form a sentence, with
+     disabledUnsigned.description.findAddonsLink being a link to an external site. -->
+
+
+
+<!-- LOCALIZATION NOTE (disabledUnsigned.devInfo.start, disabledUnsigned.devInfo.linkToManual, disabledUnsigned.devInfo.end):
+     These entities form a sentence, with disabledUnsigned.devInfo.linkToManual
+     being a link to an external site. -->
+
+

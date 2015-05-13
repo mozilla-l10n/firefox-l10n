@@ -53,6 +53,7 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 <!ENTITY aboutSupport.appBasicsBuildConfig "বিল্ডের কনফিগারেশন">
 <!ENTITY aboutSupport.appBasicsUserAgent "ইউজার এজেন্ট">
 <!ENTITY aboutSupport.appBasicsMemoryUse "মেমরির ব্যবহার">
+<!-- LOCALIZATION NOTE the term "Service Workers" should not be translated. -->
 
 <!ENTITY aboutSupport.appBasicsMultiProcessSupport "মাল্টিপ্রসেস উইন্ডো গুলি">
 

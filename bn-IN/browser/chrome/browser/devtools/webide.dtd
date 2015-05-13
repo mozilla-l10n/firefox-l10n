@@ -115,7 +115,7 @@
 <!ENTITY prefs_title "পছন্দসমূহ">
 <!ENTITY prefs_editor_title "সম্পাদক">
 <!ENTITY prefs_general_title "সাধারণ">
-<!ENTITY prefs_restore "ডিফল্ট মান পুনরায় স্থাপন করা হবে">
+
 <!ENTITY prefs_manage_components "বাড়তি কম্পোনেন্টসমূহ পরিচালনা করুন">
 <!ENTITY prefs_options_autoconnectruntime "পূর্ববর্তী রানটাইমের সাথে পুনঃসংযোগ করুন">
 <!ENTITY prefs_options_autoconnectruntime_tooltip "পূর্ববর্তী রানটাইমের সাথে পুনঃসংযোগ করুন যখন WebIDE শুরু হচ্ছে">
@@ -139,7 +139,7 @@
 <!-- Permissions Table -->
 
 <!ENTITY permissionstable_title "অনুমতি টেবিল">
-<!ENTITY permissionstable_name_header "নাম">
+
 <!-- Runtime Details -->
 
 <!ENTITY runtimedetails_title "রানটাইম তথ্য">
@@ -195,3 +195,14 @@
 <!-- Logs panel -->
 
 <!ENTITY logs_title "পুনঃ-প্যাকেজ কম্যান্ড লগসমূহ">
+<!-- Simulator Options -->
+
+
+
+
+<!ENTITY simulator_version "সংস্করণ">
+
+
+<!ENTITY simulator_device "ডিভাইস">
+
+
