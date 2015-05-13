@@ -22,6 +22,8 @@
 
 <!ENTITY cmd.back.tooltip                     "Til baka um eina síðu">
 <!ENTITY cmd.forward.tooltip                  "Áfram um eina síðu">
+
+
 <!-- global warnings -->
 
 <!ENTITY warning.safemode.label                    "Allar viðbætur hafa verið gerðar óvirkar vegna öryggishams.">
@@ -102,7 +104,8 @@
 <!ENTITY cmd.installAddon.accesskey           "t">
 <!ENTITY cmd.uninstallAddon.label             "Fjarlægja">
 <!ENTITY cmd.uninstallAddon.accesskey         "r">
-<!ENTITY cmd.debugAddon.label                 "Kemba">
+
+
 <!ENTITY cmd.showPreferencesWin.label         "Valkostir">
 <!ENTITY cmd.showPreferencesWin.tooltip       "Breyta stillingum fyrir þessa viðbót">
 <!ENTITY cmd.showPreferencesUnix.label        "Valkostir">
@@ -231,3 +234,15 @@ bestu og vinsælustu viðbætur fyrir þig að prófa.">
 <!ENTITY experiment.info.changetelemetry.accesskey "t">
 
 <!ENTITY setting.learnmore "Fræðast meira…">
+
+<!-- LOCALIZATION NOTE (disabledUnsigned.description.start, disabledUnsigned.description.findAddonsLink, disabledUnsigned.description.end):
+     These entities form a sentence, with
+     disabledUnsigned.description.findAddonsLink being a link to an external site. -->
+
+
+
+<!-- LOCALIZATION NOTE (disabledUnsigned.devInfo.start, disabledUnsigned.devInfo.linkToManual, disabledUnsigned.devInfo.end):
+     These entities form a sentence, with disabledUnsigned.devInfo.linkToManual
+     being a link to an external site. -->
+
+
