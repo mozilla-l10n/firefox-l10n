@@ -158,6 +158,8 @@
 <!ENTITY bothFormatCmd.accesskey "L">
 <!ENTITY priorityMenu.label "Prìomhachas">
 <!ENTITY priorityMenu.accesskey "P">
+
+
 <!ENTITY priorityButton.label "Prìomhachas:">
 <!ENTITY lowestPriorityCmd.label "As ìsle">
 <!ENTITY lowestPriorityCmd.accesskey "l">
