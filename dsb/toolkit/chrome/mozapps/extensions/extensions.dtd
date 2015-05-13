@@ -22,6 +22,8 @@
 
 <!ENTITY cmd.back.tooltip                     "Jaden bok slědk">
 <!ENTITY cmd.forward.tooltip                  "Jaden bok doprědka">
+
+
 <!-- global warnings -->
 
 <!ENTITY warning.safemode.label                    "Wšykne dodanki su se pśez wěsty modus znjemóžnili.">
@@ -102,7 +104,8 @@
 <!ENTITY cmd.installAddon.accesskey           "I">
 <!ENTITY cmd.uninstallAddon.label             "Wótpóraś">
 <!ENTITY cmd.uninstallAddon.accesskey         "W">
-<!ENTITY cmd.debugAddon.label                 "Pytanje za zmólkami">
+
+
 <!ENTITY cmd.showPreferencesWin.label         "Nastajenja">
 <!ENTITY cmd.showPreferencesWin.tooltip       "Nastajenja toś togo dodanka změniś">
 <!ENTITY cmd.showPreferencesUnix.label        "Nastajenja">
@@ -231,3 +234,15 @@ někotare z lěpšych a nejpopularnjejšych dodankow za wopytowanje póbitowaś.
 <!ENTITY experiment.info.changetelemetry.accesskey "T">
 
 <!ENTITY setting.learnmore "Dalšne informacije…">
+
+<!-- LOCALIZATION NOTE (disabledUnsigned.description.start, disabledUnsigned.description.findAddonsLink, disabledUnsigned.description.end):
+     These entities form a sentence, with
+     disabledUnsigned.description.findAddonsLink being a link to an external site. -->
+
+
+
+<!-- LOCALIZATION NOTE (disabledUnsigned.devInfo.start, disabledUnsigned.devInfo.linkToManual, disabledUnsigned.devInfo.end):
+     These entities form a sentence, with disabledUnsigned.devInfo.linkToManual
+     being a link to an external site. -->
+
+
