@@ -7,7 +7,6 @@
 #define bookmarks_title Marcadores
 #define bookmarks_heading Marcadores
 
-
 #define bookmarks_toolbarfolder Barra de herramientas de la carpeta de Marcadores
 #define bookmarks_toolbarfolder_description Agregar los marcadores a esta carpeta para verlos en la barra de herramientas de Marcadores
 
@@ -34,10 +33,5 @@
 # LOCALIZATION NOTE (firefox_about):
 # link title for http://en-US.www.mozilla.com/en-US/firefox/about/
 #define firefox_about Acerca de nosotros
-
-# LOCALIZATION NOTE (firefox_feedback):
-# link title for browser feedback page
-# currently used by Metro only: https://input.mozilla.org/feedback/metrofirefox
-#define firefox_feedback Enviar opinión
 
 #unfilter emptyLines
