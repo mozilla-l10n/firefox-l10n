@@ -72,6 +72,8 @@
 <!ENTITY saveFrameAsCmd.label         "Salvar quadro como...">
 <!ENTITY saveFrameCmd.label           "Salvar quadro como...">
 <!ENTITY saveFrameCmd.accesskey       "v">
+<!ENTITY printFrameCmd.label          "Imprimir quadro…">
+<!ENTITY printFrameCmd.accesskey      "p">
 <!ENTITY saveLinkAsCmd.label          "Salvar link como...">
 <!ENTITY saveLinkCmd.label            "Salvar link como...">
 <!ENTITY saveLinkCmd.accesskey        "c">
