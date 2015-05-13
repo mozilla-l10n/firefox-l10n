@@ -84,19 +84,19 @@
      these variables. Also, translate haveSmtp1.prefix and haveSmtp1.suffix3 as a single sentence, inserting
      text after the "&quot;" entity in haveSmtp1.suffix3, if required grammatically.
 -->
-<!ENTITY haveSmtp1.prefix "O servidor SMTP existente, &quot;">
+<!ENTITY haveSmtp1.prefix "O servidor de envio (SMTP) existente, &quot;">
 <!ENTITY haveSmtp1.suffix3 "&quot;, será utilizado.">
 <!-- LOCALIZATION NOTE (haveSmtp2.prefix and haveSmtp2.suffix3) : Do not translate "SMTP" and "&quot;" in
      these variables. Also, translate haveSmtp2.prefix and haveSmtp2.suffix3 as a single sentence, inserting
      text after the "&quot;" entity in haveSmtp2.suffix3, if required grammatically.
 -->
-<!ENTITY haveSmtp2.prefix "O nome de utilizador do servidor SMTP, &quot;">
+<!ENTITY haveSmtp2.prefix "O nome de utilizador do servidor de envio (SMTP), &quot;">
 <!ENTITY haveSmtp2.suffix3 "&quot;, será utilizado.">
 <!-- LOCALIZATION NOTE (haveSmtp3.prefix and haveSmtp3.suffix3) : Do not translate "SMTP" and "&quot;" in
      these variables. Also, translate haveSmtp3.prefix and haveSmtp3.suffix3 as a single sentence, inserting
      text after the "&quot;" entity in haveSmtp3.suffix3, if required grammatically.
 -->
-<!ENTITY haveSmtp3.prefix "O servidor de envio SMTP, &quot;">
+<!ENTITY haveSmtp3.prefix "O servidor de envio (SMTP), &quot;">
 <!ENTITY haveSmtp3.suffix3 "&quot;, é idêntico ao servidor de receção. O nome de utilizador de receção será utilizado.">
 <!-- Entities for Account name page -->
 
@@ -113,7 +113,7 @@
 <!ENTITY completionText.label "Verifique se a informações estão corretas.">
 <!ENTITY serverTypePrefix.label "Tipo de servidor de receção:">
 <!ENTITY serverNamePrefix.label "Nome do servidor de receção:">
-<!ENTITY smtpServerNamePrefix.label "Nome do seridor de envio(SMTP):">
+<!ENTITY smtpServerNamePrefix.label "Nome do servidor de envio (SMTP):">
 <!ENTITY newsServerNamePrefix.label "Nome do servidor de notícias (NNTP):">
 <!ENTITY downloadOnLogin.label "Transferir mensagem agora">
 <!ENTITY downloadOnLogin.accesskey "T">

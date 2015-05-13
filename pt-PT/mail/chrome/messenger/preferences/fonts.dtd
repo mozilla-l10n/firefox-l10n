@@ -74,6 +74,6 @@
 <!ENTITY composingDescription2.label      "Defina a codificação de texto para receção e envio de mensagens">
 
 <!ENTITY viewDefaultCharsetList.label     "Mensagens recebidas:">
-<!ENTITY viewDefaultCharsetList.accesskey  "a">
+<!ENTITY viewDefaultCharsetList.accesskey  "i">
 <!ENTITY replyInDefaultCharset3.label     "Se possível, utilizar codificação pré-definida nas respostas">
 <!ENTITY replyInDefaultCharset3.accesskey "u">

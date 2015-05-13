@@ -20,8 +20,8 @@
 <!ENTITY imapLong.label                  "IMAP (pastas remotas)">
 <!ENTITY pop3Long.label                  "POP3 (guardar correio no computador)">
 
-<!ENTITY incoming.label                  "A receber:">
-<!ENTITY outgoing.label                  "A enviar:">
+<!ENTITY incoming.label                  "Receção:">
+<!ENTITY outgoing.label                  "Envio:">
 <!ENTITY username.label                  "Nome de utilizador:">
 <!ENTITY hostname.label                  "Nome do servidor">
 <!ENTITY port.label                      "Porta">
