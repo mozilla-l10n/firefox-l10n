@@ -13,7 +13,7 @@
 <!ENTITY safeb.blocked.malwarePage.shortDesc "Este sitio web en <span id='malware_sitename'/> ha sido reportado como un sitio malicioso y ha sido bloqueado en base a sus preferencias de seguridad.">
 <!ENTITY safeb.blocked.malwarePage.longDesc "<p>Los sitios maliciosos tratan de instalar programas que roban información privada, utilizan su computador para atacar otros o dañan su sistema.</p><p>Algunos sitios maliciosos distribuyen intencionalmente software dañino, pero muchos son utilizados sin el conocimiento o permiso de sus dueños.</p>">
 
-<!ENTITY safeb.blocked.unwantedPage.title ¡Sitio sospechoso de software indeseable!">
+<!ENTITY safeb.blocked.unwantedPage.title "¡Sitio sospechoso de software indeseable!">
 <!ENTITY safeb.blocked.unwantedPage.shortDesc "Este sitio web en <span id='unwanted_sitename'/> ha sido reportado como un sitio que contiene software no deseado y ha sido bloqueado en base a sus preferencias de seguridad.">
 <!ENTITY safeb.blocked.unwantedPage.longDesc "<p>Las páginas de software no deseado intentan instalar software que puede ser engañoso y afectar su sistema de formas inesperadas.</p>">
 
