@@ -6,8 +6,8 @@
 <!ENTITY  no_space_to_start_error "Det saknas utrymme för &brandShortName; att starta.">
 <!ENTITY  error_loading_file "Ett fel uppstod vid inläsning av filer som krävs för att köra &brandShortName;">
 
-<!ENTITY  onboard_start_message2 "Välkommen till &brandShortName;">
-<!ENTITY  onboard_start_subtext2 "Fler sekretess funktioner och sätt att anpassa än någonsin.">
+<!ENTITY  onboard_start_message3 "Surfa med &brandShortName;">
+
 <!ENTITY  onboard_start_button_account "Logga in till &brandShortName;">
 <!ENTITY  onboard_start_button_browser "Börja surfa">
 <!-- Localization note: These are used as the titles of different pages on the home screen.
@@ -114,7 +114,6 @@
 
 <!ENTITY overlay_share_send_tab_btn_label "Skicka till en annan enhet">
 <!ENTITY overlay_share_no_url "Ingen länk funnen på denna delning">
-<!ENTITY overlay_share_retry "Försök igen">
 <!ENTITY overlay_share_select_device "Välj enhet">
 <!-- Localization note (overlay_no_synced_devices) : Used when the menu option
      to send a tab to a synced device is pressed and no other synced devices
@@ -150,8 +149,6 @@
      it is applicable. -->
 <!ENTITY pref_search_hint "TIPS: Lägg till en webbplats till din lista på söktjänster genom att långtrycka på dess sökfält och trycka på ikonen &formatI;.">
 <!ENTITY pref_category_devtools "Utvecklarverktyg">
-<!ENTITY pref_category_devtools_summary "Fjärravlusare, visa blinkande">
-<!ENTITY pref_developer_paint_flashing "Färg blixtrande ">
 <!ENTITY pref_developer_remotedebugging "Fjärrfelsökning">
 <!ENTITY pref_category_logins "Inloggningar ">
 <!ENTITY pref_remember_signons "Spara lösenord">
@@ -192,22 +189,22 @@
 <!ENTITY pref_donottrack_title "Spåra inte">
 <!ENTITY pref_donottrack_summary "&brandShortName; kommer att informera hemsidor att du inte vill bli spårad">
 
-<!ENTITY tab_queue_toast_message "Öppna senare ">
+<!ENTITY tab_queue_toast_message2 "Flik köad i &brandShortName;">
 <!ENTITY tab_queue_toast_action "Öppna nu ">
-<!-- Localization note (tab_queue_notification_text_plural) : The
+
+<!ENTITY tab_queue_prompt_text2 "Öppna dom utan att byta till &brandShortName; varje gång.">
+<!ENTITY tab_queue_prompt_tip_text "du kan ändra detta senare i Inställningarna">
+<!ENTITY tab_queue_prompt_positive_action_button "Aktivera">
+<!ENTITY tab_queue_prompt_negative_action_button "Inte nu ">
+<!ENTITY tab_queue_notification_title "&brandShortName;">
+<!-- Localization note (tab_queue_notification_text_plural2) : The
      formatD is replaced with the number of tabs queued.  The
      number of tabs queued is always more than one.  We can't use
      Android plural forms, sadly. See Bug #753859. -->
-<!ENTITY tab_queue_notification_text_plural "&formatD; flikar köade ">
-<!-- Localization note (tab_queue_notification_title_plural) : This is the
-     title of a notification; we expect more than one tab queued. -->
-<!ENTITY tab_queue_notification_title_plural "Flikar köade ">
-<!-- Localization note (tab_queue_notification_title_singular) : This is the
-     title of a notification; we expect only one tab queued. -->
-<!ENTITY tab_queue_notification_title_singular "Flik köad ">
-<!-- Localization note (tab_queue_notification_text_singular) : This is the
+<!ENTITY tab_queue_notification_text_plural2 "&formatD; flikar väntar ">
+<!-- Localization note (tab_queue_notification_text_singular2) : This is the
      text of a notification; we expect only one tab queued. -->
-<!ENTITY tab_queue_notification_text_singular "1 flik köad ">
+<!ENTITY tab_queue_notification_text_singular2 "1 flik väntar ">
 
 <!ENTITY pref_char_encoding "Teckenkodning">
 <!ENTITY pref_char_encoding_on "Visa meny">
@@ -255,7 +252,8 @@ size. -->
 <!ENTITY pref_import_android "Importera från Android">
 <!ENTITY pref_import_android_summary "Importera bokmärken och historia från Androids standardwebläsare">
 <!ENTITY pref_private_data_history2 "Bläddra i historiken">
-<!ENTITY pref_private_data_formdata "Formulär- och sökhistorik">
+<!ENTITY pref_private_data_searchHistory "Sökhistorik">
+
 <!ENTITY pref_private_data_cookies2 "Kakor och aktiva inloggningar">
 <!ENTITY pref_private_data_passwords "Sparade lösenord">
 <!ENTITY pref_private_data_cache "Cache">
@@ -380,6 +378,7 @@ size. -->
 <!ENTITY doorhanger_login_edit_username_hint "Användarnamn">
 <!ENTITY doorhanger_login_edit_password_hint "Lösenord">
 <!ENTITY doorhanger_login_edit_toggle "Visa lösenord">
+<!ENTITY doorhanger_login_edit_toast_error "Misslyckades med att spara login">
 
 <!ENTITY pref_titlebar_mode "Namnfältet">
 <!ENTITY pref_titlebar_mode_title "Visa sidans namn">
@@ -390,8 +389,8 @@ size. -->
 <!ENTITY pref_scroll_title_bar2 "Fullskärms surfning">
 <!ENTITY pref_scroll_title_bar_summary "Dölj &brandShortName;namnlistan när du bläddrar ner en sida">
 
-<!ENTITY pref_tab_queue_title "Öppna senare ">
-<!ENTITY pref_tab_queue_summary "Förhindra flikar från att öppnas omedelbart, men öppna alla köade flikar nästa gång &brandShortName; laddas.">
+<!ENTITY pref_tab_queue_title2 "Öppna flera länkar ">
+
 <!-- Localization note (page_removed): This string appears in a toast message when
      any page is removed frome about:home. This includes pages that are in history,
      bookmarks, or reading list. -->
@@ -440,6 +439,8 @@ size. -->
 <!ENTITY button_set "Ställ in">
 <!ENTITY button_clear "Töm">
 <!ENTITY button_remember "Kom ihåg">
+
+<!ENTITY firstrun_panel_title_welcome "Välkommen">
 
 <!ENTITY home_top_sites_title "Topplistan">
 <!-- Localization note (home_top_sites_add): This string is used as placeholder
@@ -612,6 +613,14 @@ från Android">
 <!ENTITY ellipsis "…">
 
 <!ENTITY colon ":">
+<!-- LOCALIZATION NOTE (percent): The percent sign is appended after a number to
+     display a percentage value. formatS is the number, #37 is the code to display a percent sign.
+     This format string is typically used by getString method, in such method the percent sign
+     is a reserved caracter. In order to display one percent sign in the result of getString,
+     double percent signs must be inserted in the format string.
+     This entity is used in the zoomed view to display the zoom factor-->
+
+<!ENTITY percent "&formatS;&#037;&#037;">
 <!-- These are only used for accessibility for the done and overflow-menu buttons in the actionbar.
      They are never shown to users -->
 
