@@ -15,13 +15,13 @@
 <!ENTITY saveCmd.accesskey "S">
 <!ENTITY saveAsCmd.label "다른 이름으로 저장…">
 <!ENTITY saveAsCmd.accesskey "A">
+<!ENTITY saveAsChangeEncodingCmd2.label "문자 인코딩 변경 및 저장">
+<!ENTITY saveAsChangeEncodingCmd2.accesskey "E">
 <!ENTITY publishCmd.label "공개">
 <!ENTITY publishCmd.accesskey "b">
 <!ENTITY publishCmd.key "S">
 <!ENTITY publishAsCmd.label "다른 이름으로 공개…">
 <!ENTITY publishAsCmd.accesskey "h">
-<!ENTITY saveAsChangeEncodingCmd.label "문자 인코딩 변경 및 저장">
-<!ENTITY saveAsChangeEncodingCmd.accesskey "E">
 <!ENTITY fileRevert.label "변환">
 <!ENTITY fileRevert.accesskey "t">
 
