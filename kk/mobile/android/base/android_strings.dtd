@@ -6,8 +6,8 @@
 <!ENTITY  no_space_to_start_error "&brandShortName; іске қосу үшін бос орын жеткіліксіз.">
 <!ENTITY  error_loading_file "&brandShortName; іске қосылу үшін керек файларды жүктеу кезінде қате орын алды">
 
-<!ENTITY  onboard_start_message2 "&brandShortName; өніміне қош келдіңіз">
-<!ENTITY  onboard_start_subtext2 "Бұрыннан да көп жекелік мүмкіндіктері және баптау тәсілдері.">
+<!ENTITY  onboard_start_message3 "&brandShortName; көмегімен шолу">
+
 <!ENTITY  onboard_start_button_account "&brandShortName; ішіне кіріңіз">
 <!ENTITY  onboard_start_button_browser "Шолуды бастау">
 <!-- Localization note: These are used as the titles of different pages on the home screen.
@@ -114,7 +114,6 @@
 
 <!ENTITY overlay_share_send_tab_btn_label "Басқа құрылғыға жіберу ">
 <!ENTITY overlay_share_no_url "Бұл бөлісуде сілтемелер табылмады">
-<!ENTITY overlay_share_retry "Қайталап көріңіз">
 <!ENTITY overlay_share_select_device "Құрылғыны таңдау">
 <!-- Localization note (overlay_no_synced_devices) : Used when the menu option
      to send a tab to a synced device is pressed and no other synced devices
@@ -150,8 +149,6 @@
      it is applicable. -->
 <!ENTITY pref_search_hint "КЕҢЕС: Кез-келген веб-сайтты іздеу жүйелеріне қосу үшін оның іздеу өрісінен ұзақ басып, &formatI; таңбашасына басу керек.">
 <!ENTITY pref_category_devtools "Өндіруші саймандары">
-<!ENTITY pref_category_devtools_summary "Қашықтан жөндеу, суреттелетінді жыпылықтау">
-<!ENTITY pref_developer_paint_flashing "Жыпылықтауды салу">
 <!ENTITY pref_developer_remotedebugging "Қашықтан жөндеу">
 <!ENTITY pref_category_logins "Логиндер">
 <!ENTITY pref_remember_signons "Парольдерді еске сақтау">
@@ -192,22 +189,21 @@
 <!ENTITY pref_donottrack_title "Бақыламау">
 <!ENTITY pref_donottrack_summary "&brandShortName; сайттарға сіз өзіңізді бақыламауды қалайтыныңыз туралы айтады">
 
-<!ENTITY tab_queue_toast_message "Кейінірек ашу">
 <!ENTITY tab_queue_toast_action "Қазір ашу">
-<!-- Localization note (tab_queue_notification_text_plural) : The
+
+
+
+<!ENTITY tab_queue_prompt_positive_action_button "Іске қосу">
+<!ENTITY tab_queue_prompt_negative_action_button "Қазір емес">
+<!ENTITY tab_queue_notification_title "&brandShortName;">
+<!-- Localization note (tab_queue_notification_text_plural2) : The
      formatD is replaced with the number of tabs queued.  The
      number of tabs queued is always more than one.  We can't use
      Android plural forms, sadly. See Bug #753859. -->
-<!ENTITY tab_queue_notification_text_plural "&formatD; бет кезекте">
-<!-- Localization note (tab_queue_notification_title_plural) : This is the
-     title of a notification; we expect more than one tab queued. -->
-<!ENTITY tab_queue_notification_title_plural "Кезекте беттер бар">
-<!-- Localization note (tab_queue_notification_title_singular) : This is the
-     title of a notification; we expect only one tab queued. -->
-<!ENTITY tab_queue_notification_title_singular "Кезекте бет бар">
-<!-- Localization note (tab_queue_notification_text_singular) : This is the
+<!ENTITY tab_queue_notification_text_plural2 "&formatD; бет күтуде">
+<!-- Localization note (tab_queue_notification_text_singular2) : This is the
      text of a notification; we expect only one tab queued. -->
-<!ENTITY tab_queue_notification_text_singular "1 бет кезекте">
+<!ENTITY tab_queue_notification_text_singular2 "1 бет күтуде">
 
 <!ENTITY pref_char_encoding "Кодталуы">
 <!ENTITY pref_char_encoding_on "Мәзірді көрсету">
@@ -255,7 +251,8 @@ size. -->
 <!ENTITY pref_import_android "Android-тан импорттау">
 <!ENTITY pref_import_android_summary "Жүйелік браузерден бетбелгілер және шолу тарихын импорттау">
 <!ENTITY pref_private_data_history2 "Шолу тарихы">
-<!ENTITY pref_private_data_formdata "Формалар және іздеу тарихы">
+<!ENTITY pref_private_data_searchHistory "Іздеулер тарихы">
+<!ENTITY pref_private_data_formdata2 "Формалар тарихы">
 <!ENTITY pref_private_data_cookies2 "Cookies және белсенді сеанстар">
 <!ENTITY pref_private_data_passwords "Сақталған парольдер">
 <!ENTITY pref_private_data_cache "Кэш">
@@ -380,6 +377,7 @@ size. -->
 <!ENTITY doorhanger_login_edit_username_hint "Пайдаланушы аты">
 <!ENTITY doorhanger_login_edit_password_hint "Пароль">
 <!ENTITY doorhanger_login_edit_toggle "Парольді көрсету">
+<!ENTITY doorhanger_login_edit_toast_error "Логинді сақтау сәтсіз аяқталды">
 
 <!ENTITY pref_titlebar_mode "Атау жолағы">
 <!ENTITY pref_titlebar_mode_title "Парақ атауын көрсету">
@@ -390,8 +388,8 @@ size. -->
 <!ENTITY pref_scroll_title_bar2 "Толық экранды шолу">
 <!ENTITY pref_scroll_title_bar_summary "Парақ астына айналдыру кезінде &brandShortName; атау жолағын жасыру">
 
-<!ENTITY pref_tab_queue_title "Кейінірек ашу">
-<!ENTITY pref_tab_queue_summary "Беттердің лезде ашылуын болдырмау, бірақ, кезектегі барлық бетті &brandShortName; келесі рет жүктелген кезде ашу.">
+<!ENTITY pref_tab_queue_title2 "Бірнеше сілтемені ашу">
+
 <!-- Localization note (page_removed): This string appears in a toast message when
      any page is removed frome about:home. This includes pages that are in history,
      bookmarks, or reading list. -->
@@ -440,6 +438,8 @@ size. -->
 <!ENTITY button_set "Орнату">
 <!ENTITY button_clear "Тазарту">
 <!ENTITY button_remember "Есте сақтау">
+
+<!ENTITY firstrun_panel_title_welcome "Қош келдіңіз">
 
 <!ENTITY home_top_sites_title "Топ сайттар">
 <!-- Localization note (home_top_sites_add): This string is used as placeholder
@@ -610,6 +610,14 @@ Android-тан импорттау">
 <!ENTITY ellipsis "…">
 
 <!ENTITY colon ":">
+<!-- LOCALIZATION NOTE (percent): The percent sign is appended after a number to
+     display a percentage value. formatS is the number, #37 is the code to display a percent sign.
+     This format string is typically used by getString method, in such method the percent sign
+     is a reserved caracter. In order to display one percent sign in the result of getString,
+     double percent signs must be inserted in the format string.
+     This entity is used in the zoomed view to display the zoom factor-->
+
+<!ENTITY percent "&formatS;&#037;&#037;">
 <!-- These are only used for accessibility for the done and overflow-menu buttons in the actionbar.
      They are never shown to users -->
 
