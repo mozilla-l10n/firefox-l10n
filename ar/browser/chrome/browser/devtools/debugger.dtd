@@ -166,3 +166,15 @@
 
 <!ENTITY debuggerUI.stepping.stepOut1   "VK_F11">
 
+<!-- LOCALIZATION NOTE (debuggerUI.context.newTab):  This is the label
+  -  for the Open in New Tab menu item displayed in the context menu of the
+  -  debugger sources side menu. This should be the same as
+  -  netmonitorUI.context.newTab  -->
+
+<!ENTITY debuggerUI.context.newTab           "افتح في لسان جديد">
+
+<!-- LOCALIZATION NOTE (debuggerUI.context.copyUrl): This is the label displayed
+  -  on the context menu that copies the selected request's url. This should be
+  -  the same as netmonitorUI.context.copyUrl -->
+
+

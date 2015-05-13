@@ -101,7 +101,7 @@
 <!ENTITY prefs_title "التفضيلات">
 
 <!ENTITY prefs_general_title "عام">
-<!ENTITY prefs_restore "استعد الإعدادات المبدئية">
+
 
 
 
@@ -123,7 +123,7 @@
 
 <!ENTITY prefs_options_keybindings_default "المبدئي">
 <!-- Permissions Table -->
-<!ENTITY permissionstable_name_header "الاسم">
+
 <!-- Runtime Details -->
 
 
@@ -165,3 +165,14 @@
 <!-- LOCALIZATION NOTE (wifi_auth_token_request): Instructions requesting the
      user to transfer authentication info by transferring a token. -->
 <!-- Logs panel -->
+<!-- Simulator Options -->
+
+
+
+
+<!ENTITY simulator_version "النسخة">
+
+
+<!ENTITY simulator_device "جهاز">
+
+
