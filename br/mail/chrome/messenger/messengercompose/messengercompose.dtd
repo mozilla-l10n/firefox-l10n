@@ -158,6 +158,8 @@
 <!ENTITY bothFormatCmd.accesskey "H">
 <!ENTITY priorityMenu.label "Tevet">
 <!ENTITY priorityMenu.accesskey "T">
+<!ENTITY priorityButton.title "Tevet">
+<!ENTITY priorityButton.tooltiptext "Kemmañ tevet ar gemennadenn">
 <!ENTITY priorityButton.label "Tevet :">
 <!ENTITY lowestPriorityCmd.label "Izelañ">
 <!ENTITY lowestPriorityCmd.accesskey "l">
