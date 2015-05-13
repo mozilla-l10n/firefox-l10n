@@ -6,9 +6,10 @@
 <!ENTITY  no_space_to_start_error "&brandShortName; തുടങ്ങുന്നതിനാവശ്യമായ സ്ഥലമില്ല.">
 <!ENTITY  error_loading_file "&brandShortName; പ്രവര്‍ത്തിപ്പിക്കുന്നതാവശ്യമായ ഫയലുകള്‍ ലഭ്യമാക്കുന്നതില്‍ പിശക്.">
 
-
-
-
+<!ENTITY  onboard_start_message3 "&brandShortName; ഉപയോഗിച്ചു് പരതുക">
+<!ENTITY  onboard_start_subtext3 "താങ്കളുടെ മൊബൈല്‍ ബ്രൗസിങ്ങ് അനുഭവത്തെ തികച്ചും സ്വന്തമാക്കി മാറ്റൂ.">
+<!ENTITY  onboard_start_button_account "&brandShortName; - ഇതിലേക്ക് പ്രവേശിക്കുക">
+<!ENTITY  onboard_start_button_browser "ബ്രൌസിങ് തുടങ്ങാം">
 <!-- Localization note: These are used as the titles of different pages on the home screen.
      They are automatically converted to all caps by the Android platform. -->
 
@@ -38,8 +39,10 @@
 
 <!ENTITY choose_file "ഫയല്‍ തിരഞ്ഞെടുക്കുക">
 
+<!ENTITY url_bar_default_text2 "തിരയുകയോ വിലാസം നല്‍കുകയോ ചെയ്യൂ">
 
-
+<!ENTITY bookmark "അടയാളം">
+<!ENTITY bookmark_remove "അടയാളം നീക്കൂ">
 <!ENTITY bookmark_added "അടയാളം ചേര്‍ത്തു">
 <!ENTITY bookmark_removed "അടയാളം നീക്കി">
 <!ENTITY bookmark_updated "അടയാളം പുതുക്കി">
@@ -70,21 +73,21 @@
 <!-- Localization note (switch_button_message): This string should be as short
      as possible because it's shown as a label in a toast.  Ideally, this string
      is upper-case, to match Google and Android's convention. -->
-<!ENTITY switch_button_message "SWITCH">
+<!ENTITY switch_button_message "മാറുക">
 
 <!ENTITY settings "സജ്ജീകരണങ്ങള്‍">
-
+<!ENTITY settings_title "ക്രമീകരണങ്ങള്‍">
 <!ENTITY pref_category_advanced "സങ്കീര്‍ണ്ണമായവ...">
 <!ENTITY pref_category_customize "ഇഷ്ടാനുസൃതമാക്കുക">
-
-
+<!ENTITY pref_category_customize_summary "പൂമുഖം, തിരച്ചില്‍, ടാബുകള്‍, ഇറക്കുമതി">
+<!ENTITY pref_category_customize_alt_summary "പൂമുഖം, തിരച്ചില്‍, ടാബുകള്‍, പിന്നീട് തുറക്കുക, ഇറക്കുമതി">
 <!-- Localization note (pref_category_language) : This is the preferences
      section in which the user picks the locale in which to display Firefox
      UI. The locale includes both language and region concepts. -->
 
 <!ENTITY pref_category_language "ഭാഷ">
-
-<!ENTITY pref_browser_locale "ബ്രൗസറിനുള്ള ഭാഷ">
+<!ENTITY pref_category_language_summary "താങ്കളുടെ ബ്രൗസറിന്റെ ഭാഷ മാറ്റൂ">
+<!ENTITY pref_browser_locale "ബ്രൗസറിന്റെ ഭാഷ">
 <!-- Localization note (locale_system_default) : This string indicates that
      Firefox will use the locale currently selected in Android's settings
      to display browser chrome. -->
@@ -93,23 +96,29 @@
 <!-- Localization note (overlay_share_label) : This is the label that appears
      in Android's intent chooser when sending a link to Firefox to bookmark,
      send to another device, or add to Reading List. -->
+
+<!ENTITY overlay_share_label "&brandShortName; - ഇതിലേക്ക് ചേര്‍ക്കൂ">
 <!-- Localization note (overlay_share_bookmark_btn_label) : This string is
      used in the share overlay menu to select an action. It is the verb
      "to bookmark", not the noun "a bookmark". -->
+
+<!ENTITY overlay_share_bookmark_btn_label "അടയാളം">
 <!ENTITY overlay_share_reading_list_btn_label "വായനാ പട്ടികയിലേക്ക് ചേര്‍ക്കുക">
-
-
-
+<!ENTITY overlay_share_bookmark_btn_label_already "നേരത്തെതന്നെ അടയാളപ്പെടുത്തിയിട്ടുണ്ടു്">
+<!ENTITY overlay_share_reading_list_btn_label_already "നേരത്തെ തന്നെ വായനപ്പട്ടികയിലുണ്ടു്">
+<!ENTITY overlay_share_send_other "മറ്റു് ഉപകരണങ്ങളിലേക്ക് അയയ്ക്കുക">
 <!-- Localization note (overlay_share_send_tab_btn_label) : Used on the
      share overlay menu to represent the "Send Tab" action when the user
      either has not set up Sync, or has no other devices to send a tab
      to. -->
 
-
-
+<!ENTITY overlay_share_send_tab_btn_label "മറ്റൊരു ഉപകരണത്തിലേക്ക് അയയ്ക്കുക">
+<!ENTITY overlay_share_no_url "ഈ പങ്കിടലിനുള്ള കണ്ണിയൊന്നും കണ്ടെത്തിയില്ല">
+<!ENTITY overlay_share_select_device "ഉപകരണം തിരഞ്ഞെടുക്കൂ">
 <!-- Localization note (overlay_no_synced_devices) : Used when the menu option
      to send a tab to a synced device is pressed and no other synced devices
      are found. -->
+<!ENTITY overlay_no_synced_devices "ഫയര്‍ഫോക്സ് അക്കൗണ്ടുമായി ബന്ധിപ്പിച്ചിട്ടുള്ള ഉപകരണങ്ങളൊന്നും കണ്ടെത്തിയില്ല">
 <!-- Localization note (overlay_share_tab_not_sent) : Used when the menu option
      to send a tab to a synced device is pressed and there is an error
      connecting to the server so the tab could not be sent. The text should be
@@ -130,7 +139,7 @@
 <!ENTITY pref_category_add_search_providers "കൂടുതല്‍ തിരയല്‍ സേവന ദാതാക്കളെ ചേര്‍ക്കുക">
 <!ENTITY pref_category_search_restore_defaults "തിരയല്‍ യന്ത്രങ്ങള്‍ പഴയപടിയാക്കുക">
 <!ENTITY pref_search_restore_defaults "സ്വതേയുള്ളവ പഴയപടിയാക്കുക">
-
+<!ENTITY pref_search_restore_defaults_summary "തനിമട്ടിലാക്കുക">
 <!-- Localization note (pref_search_hint) : "TIP" as in "hint", "clue" etc. Displayed as an
      advisory message on the customise search providers settings page explaining how to add new
      search providers.
@@ -138,12 +147,10 @@
      it is applicable. -->
 <!ENTITY pref_search_hint "സഹായി: തിരച്ചില്‍ സഹായികളുടെ പട്ടികയിലേക്ക് ഏത് വെബ്സൈറ്റ് ചേര്‍ക്കണമെങ്കിലും തിരച്ചിലിനുള്ള ഫീല്‍ഡില്‍ ദീര്‍ഘനേരം അമര്‍ത്തിപിടിച്ച് &formatI; ഐക്കണില്‍ ഞെക്കുക.">
 <!ENTITY pref_category_devtools "ഡെവലപ്പര്‍ ഉപകരണങ്ങള്‍">
-
-<!ENTITY pref_developer_paint_flashing "പെയിന്റ് ഫ്ലാഷിങ്">
 <!ENTITY pref_developer_remotedebugging "വിദൂര ഡീബഗ്ഗിങ്">
-
+<!ENTITY pref_category_logins "പ്രവേശനങ്ങള്‍">
 <!ENTITY pref_remember_signons "രഹസ്യവാക്കുകള്‍ ഓര്‍ത്തിരിക്കുക">
-
+<!ENTITY pref_manage_logins "പ്രവേശനങ്ങള്‍ കൈകാര്യം ചെയ്യുക">
 
 <!ENTITY pref_category_home "ആസ്ഥാനം">
 <!ENTITY pref_category_home_summary "നിങ്ങളുടെ ഹോംപേജ്  ഇഷ്ടാനുസൃതമാക്കുക">
@@ -158,9 +165,11 @@
 <!ENTITY pref_home_updates "ഓട്ടോമാറ്റിക്ക് പരിഷ്കരണങ്ങള്‍">
 <!ENTITY pref_home_updates_enabled "പ്രവര്‍ത്തനക്ഷമമാക്കി">
 <!ENTITY pref_home_updates_wifi "വൈ-ഫൈ വഴി മാത്രം">
-<!ENTITY pref_home_suggested_sites "സൈറ്റ് നിര്‍ദ്ദേശങ്ങള്‍ കാണിക്കൂ">
-<!ENTITY pref_home_suggested_sites_summary "താങ്കൾക്ക് ഇഷ്ടപ്പെടും എന്ന് ഞങ്ങൾ കരുതുന്ന സൈറ്റുകളിലേക്കുള്ള കുറുക്കുവഴികൾ പൂമുഖത്ത് കാണിക്കൂ">
+<!ENTITY pref_home_suggested_sites "സൈറ്റ് നിര്‍ദ്ദേശങ്ങള്‍ കാണിക്കുക">
+<!ENTITY pref_home_suggested_sites_summary "താങ്കൾക്ക് ഇഷ്ടപ്പെടും എന്ന് ഞങ്ങൾ കരുതുന്ന സൈറ്റുകളിലേക്കുള്ള കുറുക്കുവഴികൾ പൂമുഖത്താളില്‍ കാണിക്കൂ">
 <!-- Localization note: These are shown in the left sidebar on tablets -->
+
+<!ENTITY pref_header_customize "യഥേഷ്ടമാക്കുക">
 
 
 <!ENTITY pref_header_help "സഹായം">
@@ -174,19 +183,21 @@
 <!ENTITY pref_cookies_disabled "പ്രവര്‍ത്തനരഹിതമാക്കി">
 
 
+<!ENTITY pref_donottrack_title "നിരീക്ഷിയ്ക്കേണ്ട">
+
+
+<!ENTITY tab_queue_toast_action "ഇപ്പോൾ തുറക്കുക">
 
 
 
 
-<!-- Localization note (tab_queue_notification_text_plural) : The
+
+
+<!-- Localization note (tab_queue_notification_text_plural2) : The
      formatD is replaced with the number of tabs queued.  The
      number of tabs queued is always more than one.  We can't use
      Android plural forms, sadly. See Bug #753859. -->
-<!-- Localization note (tab_queue_notification_title_plural) : This is the
-     title of a notification; we expect more than one tab queued. -->
-<!-- Localization note (tab_queue_notification_title_singular) : This is the
-     title of a notification; we expect only one tab queued. -->
-<!-- Localization note (tab_queue_notification_text_singular) : This is the
+<!-- Localization note (tab_queue_notification_text_singular2) : This is the
      text of a notification; we expect only one tab queued. -->
 
 <!ENTITY pref_char_encoding "അക്ഷരങ്ങളുടെ എന്‍കോഡിംഗ്‌">
@@ -222,6 +233,7 @@ size. -->
 
 <!ENTITY pref_font_size_preview_text "നിങ്ങളുടെ പ്രതീക്ഷകള്‍ക്കതീതമായി കൂടുതല്‍ വേകതയോടുകൂടെ, കൂടുതല്‍ വിധേയത്വത്തോടുകൂടെ, കൂടുതല്‍ സുരക്ഷിതത്വത്തോടുകൂടെ ഈ ഓറഞ്ച് കുറിക്കന്‍ കുതിയ്ക്കുന്നു. ലാഭേച്ചയില്ലാത്തതിനാല്‍ ഒരുതരത്തിലുള്ള ഒത്തുതീര്‍പ്പുകളില്ലാതെ നിങ്ങള്‍ക്ക് വേണ്ടി നവീകരിക്കാന്‍ ഞങ്ങള്‍ക്ക് സാധിക്കും. അതായത് നിങ്ങള്‍ക്ക് മെച്ചപെട്ട ഒരനുഭവവും വെബിന് ശോഭയാര്‍ന്ന് ഒരു ഭാവിയും.">
 
+<!ENTITY pref_media_autoplay_enabled "ഓട്ടോപ്ലേ അനുവദിക്കുക">
 
 
 
@@ -233,7 +245,8 @@ size. -->
 <!ENTITY pref_import_android "ആന്‍ഡ്രോയിഡില്‍ നിന്ന് ഇറക്കുമതി ചെയ്യുക">
 
 <!ENTITY pref_private_data_history2 "ബ്രൌസ് ചെയ്ത വെബ്സൈറ്റുകള്‍">
-<!ENTITY pref_private_data_formdata "ഫോം, തിരയല്‍ നാള്‍വഴി">
+
+
 <!ENTITY pref_private_data_cookies2 "സജീവമായ ലോഗിനുകളും  കൂക്കികളും">
 <!ENTITY pref_private_data_passwords "സൂക്ഷിച്ചിട്ടുള്ള രഹസ്യവാക്കുകള്‍">
 <!ENTITY pref_private_data_cache "കാഷ്">
@@ -254,7 +267,7 @@ size. -->
 
 <!ENTITY pref_panels_show "പ്രദര്‍ശിപ്പിക്കുക">
 <!ENTITY pref_panels_hide "ഒളിപ്പിക്കുക">
-<!ENTITY pref_panels_reorder "ക്രമം  മാറ്റുക">
+<!ENTITY pref_panels_reorder "ക്രമം മാറ്റുക">
 <!ENTITY pref_panels_move_up "മുകളിലേക്കു് നീക്കൂ">
 <!ENTITY pref_panels_move_down "താഴേക്കു് നീക്കൂ">
 
@@ -351,6 +364,7 @@ size. -->
 
 
 
+
 <!ENTITY pref_titlebar_mode "തലക്കെട്ട് പട്ട">
 <!ENTITY pref_titlebar_mode_title "പേജിന്റെ തലക്കെട്ട് കാണിക്കുക">
 <!ENTITY pref_titlebar_mode_url "താളിന്റെ വിലാസം കാണിക്കുക">
@@ -381,11 +395,14 @@ size. -->
 <!ENTITY reading_list_removed "താൾ നിങ്ങളുടെ വായനാ പട്ടികയിൽ നിന്നും നീക്കം ചെയ്തു">
 <!-- Localization note (reading_list_remove) : Used to remove the currently open page from
      the user's reading list. The opposite of overlay_share_reading_list_btn_label. -->
+<!ENTITY reading_list_remove "വായനാ പട്ടികയില്‍ നിന്നും ഒഴിവാക്കുക">
 <!ENTITY reading_list_duplicate "താൾ നിങ്ങളുടെ വായനാ പട്ടികയിൽ നേരത്തെതന്നെ ഉണ്ട്">
 <!-- Localization note (reading_list_time_minutes2) : This string is used in the "Reading List"
      panel on the home page to give the user an estimate of how many minutes it will take to
      read an article. The word "minute" should be abbreviated if possible. -->
 
+<!ENTITY reading_list_time_minutes2 "&formatD; നിമിഷം">
+<!ENTITY reading_list_time_over_an_hour "ഒരു മണിക്കൂറിലധികം">
 <!-- Localization note : These strings are used as alternate text for accessibility.
      They are not visible in the UI. -->
 
@@ -405,25 +422,28 @@ size. -->
 
 
 
+<!ENTITY firstrun_panel_title_welcome "സ്വാഗതം">
+
 <!ENTITY home_top_sites_title "മുഖ്യ സൈറ്റുക‌‌ൾ">
 <!-- Localization note (home_top_sites_add): This string is used as placeholder
      text underneath empty thumbnails in the Top Sites page on about:home. -->
-<!ENTITY home_top_sites_add "ഒരു സൈറ്റ് ചേർക്കുക">
+<!ENTITY home_top_sites_add "ഒരു സൈറ്റ് ചേര്‍ക്കുാം">
 <!-- Localization note (home_title): This string should be kept in sync
      with the page title defined in aboutHome.dtd -->
 
 <!ENTITY home_title "&brandShortName; ആസ്ഥാനം">
 
-<!ENTITY home_clear_history_button "ബ്രൗസിങ്ങ് നാൾവഴി വെടിപ്പാക്കൂ">
-<!ENTITY home_clear_history_confirm "താങ്കളുടെ നാൾ‌വഴി വെടിപ്പാക്കണമെന്നുറപ്പാണോ?">
+<!ENTITY home_clear_history_button "ബ്രൗസിങ്ങ് നാൾവഴി വെടിപ്പാക്കുക">
+<!ENTITY home_clear_history_confirm "നാള്‍വഴി മായ്ക്കട്ടെ?">
 <!ENTITY home_bookmarks_empty "നിങ്ങൾ സൂക്ഷിച്ച അടയാളക്കുറിപ്പുകള്‍ ഇവിടെ കാണിക്കുക">
 <!ENTITY home_closed_tabs_title "അടുത്തിടെ അടച്ച റ്റാബുകള്‍">
 <!ENTITY home_last_tabs_title "ഒടുവിലത്തെ ടാബുകള്‍">
-<!ENTITY home_last_tabs_empty "നിങ്ങളുടെ ഒടുവിലത്തെ ടാബുകള്‍ ഇവിടെ കാണിക്കുക">
+<!ENTITY home_last_tabs_empty "നിങ്ങളുടെ ഒടുവിലത്തെ ടാബുകള്‍ ഇവിടെ കാണിക്കുക.">
 <!ENTITY home_open_all "എല്ലാം തുറക്കൂ">
 <!ENTITY home_most_recent_empty "അടുത്തിടെ സന്ദര്‍ശിച്ച വെബ്സ്റ്റൈറ്റുകള്‍ ഇവിടെ കാണാം.">
 <!-- Localization note (home_most_recent_emptyhint2): "Psst" is a sound that might be used to attract someone's attention unobtrusively, and intended to hint at Private Browsing to the user.
      The placeholders &formatS1; and &formatS2; are used to mark the location of text underlining. -->
+<!ENTITY home_most_recent_emptyhint2 "ഏയ്, &formatS1;പുതിയ സ്വകാര്യ ടാബ്&formatS2; ഉപയോഗിയ്ക്കുന്നത് താങ്കളുടെ നാള്‍വഴി സൂക്ഷിക്കില്ല.">
 <!ENTITY home_reading_list_empty "പിന്നീട് കാണാൻ നിങ്ങൾ സൂക്ഷിച്ച ലേഖനങ്ങൾ ഇവിടെ കാണിക്കുന്നു.">
 <!-- Localization note (home_reading_list_hint): The "TIP" string is synonymous to "hint", "clue", etc. This string is displayed
      as an advisory message on how to add content to the reading list when the reading list empty.
@@ -442,6 +462,7 @@ size. -->
 
 <!ENTITY home_move_up_to_filter "&formatS; വരെ">
 
+<!ENTITY home_remote_tabs_title "സിന്‍ക് ചെയ്ത ടാബുകള്‍">
 
 <!ENTITY home_remote_tabs_unable_to_connect "കണക്ട്‌ ചെയ്യുവാന്‍ സാധിച്ചില്ല">
 
@@ -465,7 +486,7 @@ size. -->
 
 
 
-<!ENTITY pin_site_dialog_hint "ഒരു സൂചകപദം അടിക്കുക">
+<!ENTITY pin_site_dialog_hint "സൂചകപദം നല്‍കു">
 
 <!ENTITY filepicker_audio_title "ഒരു ഒച്ച തിരഞ്ഞെടുക്കുകയോ റിക്കാര്‍ഡാക്കുകയോ ചെയ്യുക">
 <!ENTITY filepicker_image_title "ഒരു ചിത്രം തിരഞ്ഞെടുക്കുകയോ എടുക്കുകയോ ചെയ്യുക">
@@ -559,6 +580,12 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      designated space. Use the unicode ellipsis char, \u2026, or use "..." if \u2026 doesn't suit
      traditions in your locale. -->
 
+<!-- LOCALIZATION NOTE (percent): The percent sign is appended after a number to
+     display a percentage value. formatS is the number, #37 is the code to display a percent sign.
+     This format string is typically used by getString method, in such method the percent sign
+     is a reserved caracter. In order to display one percent sign in the result of getString,
+     double percent signs must be inserted in the format string.
+     This entity is used in the zoomed view to display the zoom factor-->
 <!-- These are only used for accessibility for the done and overflow-menu buttons in the actionbar.
      They are never shown to users -->
 <!ENTITY actionbar_done "ചെയ്തു">
