@@ -4,6 +4,10 @@
 <!-- These strings are used in the about:newtab page -->
 
 <!ENTITY newtab.pageTitle "Nova aba">
+<!ENTITY newtab.customize.classic "Mostrar os sites mais visitados">
+<!ENTITY newtab.customize.cog.enhanced "Incluir sites sugeridos">
+
+
 <!ENTITY newtab.customize.title "Personalize sua página de nova aba">
 <!ENTITY newtab.customize.suggested "Mostrar sugestões e os sites mais visitados">
 <!ENTITY newtab.customize.topsites "Mostrar os sites mais visitados">

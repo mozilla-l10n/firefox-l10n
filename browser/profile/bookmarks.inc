@@ -76,16 +76,4 @@
 #define firefox_about Sobre nós
 
 
-# LOCALIZATION NOTE (firefox_feedback):
-
-
-# link title for browser feedback page
-
-
-# currently used by Metro only: https://input.mozilla.org/feedback/metrofirefox
-
-
-#define firefox_feedback Dê a sua opinião
-
-
 #unfilter emptyLines
