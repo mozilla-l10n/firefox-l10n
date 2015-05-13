@@ -3,19 +3,21 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY itemGeneral.label "일반">
+<!ENTITY dataChoicesTab.label    "데이터 선택">
 <!ENTITY itemDisplay.label "읽기 및 표시">
 <!ENTITY itemUpdate.label "업데이트">
 <!ENTITY itemNetworking.label "네트워크 및 디스크 용량">
 <!ENTITY itemCertificates.label "인증서">
 
 <!-- General Settings -->
-<!ENTITY submitTelemetry.label         "성능 데이터 보내기">
-<!ENTITY submitTelemetry.accesskey     "P">
-<!ENTITY telemetryInfoLink.label       "Telemetry에 대한 자세한 정보">
 <!ENTITY enableGlodaSearch.label       "전체 검색 및 색인 사용함">
 <!ENTITY enableGlodaSearch.accesskey   "E">
 <!ENTITY allowHWAccel.label            "하드웨어 가속 사용하기">
 <!ENTITY allowHWAccel.accesskey        "h">
+<!ENTITY storeType.label               "새 계정에 대한 메시지 저장 타입:">
+<!ENTITY storeType.accesskey           "T">
+<!ENTITY mboxStore.label               "큰 파일 하나 (mbox)">
+<!ENTITY maildirStore.label            "메시지 당 파일 하나 (maildir)">
 
 <!ENTITY scrolling.label               "스크롤">
 <!ENTITY useAutoScroll.label           "자동스크롤 사용하기">
@@ -36,6 +38,19 @@
 <!ENTITY returnReceiptsInfo.label      "수신 확인 메시지 설정">
 <!ENTITY showReturnReceipts.label      "수신 확인…">
 <!ENTITY showReturnReceipts.accesskey  "R">
+
+<!-- Data Choices -->
+<!ENTITY telemetrySection.label          "Telemetry">
+<!ENTITY telemetryDesc.label             "여러분의 이메일 클라이언트에 대한 성능, 사용량, 하드웨어, 맞춤 기능 정보를 &vendorShortName;에 공유하고 &brandShortName;를 더 좋게 만들도록 도와주세요">
+<!ENTITY enableTelemetry.label           "Telemetry 활성화">
+<!ENTITY enableTelemetry.accesskey       "T">
+<!ENTITY telemetryLearnMore.label        "더 알아보기">
+
+<!ENTITY crashReporterSection.label      "오류 보고서">
+<!ENTITY crashReporterDesc.label         "여러분의 이메일 클라이언트를 더 안전하고 안정하게 만들기 위해 &brandShortName;이 오류 보고서를 &vendorShortName;로 보냅니다">
+<!ENTITY enableCrashReporter.label       "오류 보고서 활성화">
+<!ENTITY enableCrashReporter.accesskey   "C">
+<!ENTITY crashReporterLearnMore.label    "더 알아보기">
 
 <!-- Display and Reading Settings -->
 <!ENTITY reading.caption               "읽기">
