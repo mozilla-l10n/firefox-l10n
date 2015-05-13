@@ -22,6 +22,8 @@
 
 <!ENTITY cmd.back.tooltip                     "Ir entazaga una pachina">
 <!ENTITY cmd.forward.tooltip                  "Ir una pachina enta debant">
+
+
 <!-- global warnings -->
 
 <!ENTITY warning.safemode.label                    "O modo seguro ha desactivau totz os complementos.">
@@ -102,7 +104,8 @@
 <!ENTITY cmd.installAddon.accesskey           "I">
 <!ENTITY cmd.uninstallAddon.label             "Eliminar">
 <!ENTITY cmd.uninstallAddon.accesskey         "E">
-<!ENTITY cmd.debugAddon.label                 "Depuración">
+
+
 <!ENTITY cmd.showPreferencesWin.label         "Opcions">
 <!ENTITY cmd.showPreferencesWin.tooltip       "Cambiar as opciones d'iste complemento">
 <!ENTITY cmd.showPreferencesUnix.label        "Preferencias">
@@ -231,3 +234,15 @@ beluns d'os millors y mas populars complementos ta que los prebe.">
 <!ENTITY experiment.info.changetelemetry.accesskey "T">
 
 <!ENTITY setting.learnmore "Ta saber-ne mas…">
+
+<!-- LOCALIZATION NOTE (disabledUnsigned.description.start, disabledUnsigned.description.findAddonsLink, disabledUnsigned.description.end):
+     These entities form a sentence, with
+     disabledUnsigned.description.findAddonsLink being a link to an external site. -->
+
+
+
+<!-- LOCALIZATION NOTE (disabledUnsigned.devInfo.start, disabledUnsigned.devInfo.linkToManual, disabledUnsigned.devInfo.end):
+     These entities form a sentence, with disabledUnsigned.devInfo.linkToManual
+     being a link to an external site. -->
+
+

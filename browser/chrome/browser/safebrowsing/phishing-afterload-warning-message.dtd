@@ -12,6 +12,9 @@
 <!ENTITY safeb.blocked.malwarePage.shortDesc "S'ha informau que o puesto web en <span id='malware_sitename'/> sería una web atacant y s'ha blocau seguntes as suyas preferencias de seguranza.">
 <!ENTITY safeb.blocked.malwarePage.longDesc "<p>Os puestos atacants miran d'instalar programas que pueden rapar información privada, fer servir o suyo ordinador ta atacar atros u danyar o suyo sistema.</p><p>Qualques puestos atacants distribuyen intencionalmente software nocivo, tot y que muitos son compromesos sin a conoixencia u permiso d'os suyos propietarios.</p>">
 
+<!-- Localization note (safeb.blocked.malware.shortDesc) - Please don't translate the contents of the <span id="unwanted_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
+<!ENTITY safeb.blocked.unwantedPage.longDesc "<p>As pachinas de software no desesyau mirar d'instalar softare que puede estar enganyosos y afectar a o suyo sistema de trazas no asperadas.</p>">
+
 <!ENTITY safeb.blocked.phishingPage.title "S'ha informau que iste puesto web ye una falsificación!">
 <!-- Localization note (safeb.blocked.phishing.shortDesc) - Please don't translate the contents of the <span id="phishing_sitename"/> tag. It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
 <!ENTITY safeb.blocked.phishingPage.shortDesc "S'ha informau que o puesto web en <span id='phishing_sitename'/> sería una falsificación web y ha estau blocau seguntes as suyas preferencias de seguranza.">
