@@ -76,6 +76,8 @@
 <!ENTITY malwareBlocked.longDesc "<p>Sítios de ataque tentam instalar programas que roubam a sua informação pessoal, usam o seu computador para atacar outros ou causam danos ao seus sistema.</p> 
 <p>Os donos de sítios web que acreditam que os seus sítios foram reportados erroneamente como um sítio de ataque pode <a href='http://www.stopbadware.org/home/reviewinfo' >pedir uma revisão da situação</a>.</p>">
 
+
+
 <!ENTITY phishingBlocked.title "Suspeita de engodo!">
 <!ENTITY phishingBlocked.longDesc "<p>Introduzir qualquer informação pessoal nesta página pode resultar em roubo de identidade ou outro tipo de fraude.</p> 
 <p>Este tipo de falsificações web são usadas em esquemas conhecidos como ataques de engodo, em que páginas web fraudulentas e mensagens de correio eletrónico são utilizadas para imitar fontes em que confia.</p>">

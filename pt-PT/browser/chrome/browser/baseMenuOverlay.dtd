@@ -25,6 +25,8 @@
 
 <!ENTITY helpSafeMode.label       "Reiniciar com os extras desativados…">
 <!ENTITY helpSafeMode.accesskey   "R">
+<!ENTITY helpSafeMode.stop.label       "Reiniciar com os extras ativados…">
+<!ENTITY helpSafeMode.stop.accesskey   "R">
 
 <!ENTITY healthReport2.label      "Relatório de estado do &brandShorterName;">
 <!ENTITY healthReport2.accesskey  "e">
