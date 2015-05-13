@@ -22,6 +22,8 @@
 
 <!ENTITY cmd.back.tooltip                     "Recuar uma página">
 <!ENTITY cmd.forward.tooltip                  "Avançar uma página">
+
+
 <!-- global warnings -->
 
 <!ENTITY warning.safemode.label                    "Todos os extras foram desativados pelo modo de segurança.">
@@ -102,7 +104,8 @@
 <!ENTITY cmd.installAddon.accesskey           "I">
 <!ENTITY cmd.uninstallAddon.label             "Remover">
 <!ENTITY cmd.uninstallAddon.accesskey         "R">
-<!ENTITY cmd.debugAddon.label                 "Depuração">
+
+
 <!ENTITY cmd.showPreferencesWin.label         "Opções">
 <!ENTITY cmd.showPreferencesWin.tooltip       "Mudar opções deste extra">
 <!ENTITY cmd.showPreferencesUnix.label        "Preferências">
@@ -231,3 +234,15 @@ mais populares extras para que os possa experimentar.">
 <!ENTITY experiment.info.changetelemetry.accesskey "t">
 
 <!ENTITY setting.learnmore "Saber mais...">
+
+<!-- LOCALIZATION NOTE (disabledUnsigned.description.start, disabledUnsigned.description.findAddonsLink, disabledUnsigned.description.end):
+     These entities form a sentence, with
+     disabledUnsigned.description.findAddonsLink being a link to an external site. -->
+
+
+
+<!-- LOCALIZATION NOTE (disabledUnsigned.devInfo.start, disabledUnsigned.devInfo.linkToManual, disabledUnsigned.devInfo.end):
+     These entities form a sentence, with disabledUnsigned.devInfo.linkToManual
+     being a link to an external site. -->
+
+

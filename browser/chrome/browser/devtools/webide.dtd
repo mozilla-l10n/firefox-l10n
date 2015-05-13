@@ -115,7 +115,7 @@
 <!ENTITY prefs_title "Preferências">
 <!ENTITY prefs_editor_title "Editor">
 <!ENTITY prefs_general_title "Geral">
-<!ENTITY prefs_restore "Restaurar pré-definições">
+
 <!ENTITY prefs_manage_components "Gerir componentes extra">
 <!ENTITY prefs_options_autoconnectruntime "Estabelecer nova ligação ao runtime anterior">
 <!ENTITY prefs_options_autoconnectruntime_tooltip "Estabelecer nova ligação ao runtime anterior ao iniciar o WebIDE">
@@ -195,3 +195,16 @@
 <!-- Logs panel -->
 
 <!ENTITY logs_title "Registo de comandos de pré-pacotes">
+<!-- Simulator Options -->
+
+<!ENTITY simulator_title "Opções do simulador">
+<!ENTITY simulator_remove "Eliminar simulador">
+<!ENTITY simulator_reset "Restaurar predefinições">
+<!ENTITY simulator_name "Nome">
+<!ENTITY simulator_software "Software">
+<!ENTITY simulator_version "Versão">
+<!ENTITY simulator_profile "Perfil">
+<!ENTITY simulator_hardware "Hardware">
+<!ENTITY simulator_device "Dispositivo">
+<!ENTITY simulator_screenSize "Ecrã">
+<!ENTITY simulator_pixelRatio "Rácio do pixel">

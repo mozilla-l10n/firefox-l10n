@@ -85,7 +85,6 @@
 <!ENTITY col.url.label           "Localização">
 <!ENTITY col.mostrecentvisit.label "Acesso mais recente">
 <!ENTITY col.visitcount.label    "Número de acessos">
-<!ENTITY col.keyword.label       "Palavra-chave">
 <!ENTITY col.description.label   "Descrição">
 <!ENTITY col.dateadded.label     "Adicionado">
 <!ENTITY col.lastmodified.label  "Última modificação">

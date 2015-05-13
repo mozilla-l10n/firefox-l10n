@@ -132,6 +132,8 @@ se o &brandShortName; tem permissão para aceder à Web.</li>
 <!ENTITY malwareBlocked.longDesc "<p>Os sítios de ataque tentam instalar programas que roubam informações pessoais, usam o seu computador para atacar outros ou causam danos ao seu sistema.</p> 
 <p>Os detentores de sítios web que acreditam que os seus sítios foram reportados erradamente podem <a href='http://www.stopbadware.org/home/reviewinfo' >pedir uma revisão da situação</a>.</p>">
 
+
+
 <!ENTITY phishingBlocked.title "Suspeita de wngodo!">
 <!ENTITY phishingBlocked.longDesc "<p>A introdução de qualquer informação pessoal nesta página pode resultar em roubo de identidade ou outro tipo de fraude.</p> 
 <p>Este tipo de fraudes web são utilizadas em esquemas conhecidos como ataques phising, em que as páginas web e mensagens fraudulentas são utilizadas para replicar fontes fiáveis.</p>">
@@ -158,9 +160,9 @@ functionality specific to firefox. -->
 <button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>">
 
 <!ENTITY errorReporting.title "Reportar este erro">
-<!ENTITY errorReporting.longDesc "A reportar o endereço e a informação do certificado para <span id='hostname'></span> ajuda-nos a identificar e bloquear sítios maliciosos. Obrigado por ajudar a criar uma web mais segura!">
+<!ENTITY errorReporting.longDesc "Ao reportar o endereço e a informação do certificado para <span id='hostname'></span> ajuda-nos a identificar e bloquear sítios maliciosos. Obrigado por ajudar a criar uma web mais segura!">
 <!ENTITY errorReporting.automatic "No futuro reportar erros automaticamente">
-<!ENTITY errorReporting.learnMore "Saber maisâ€¦">
+<!ENTITY errorReporting.learnMore "Saber mais...">
 <!ENTITY errorReporting.sending "A enviar relatório">
 <!ENTITY errorReporting.sent "Relatório enviado">
 <!ENTITY errorReporting.report "Reportar">
