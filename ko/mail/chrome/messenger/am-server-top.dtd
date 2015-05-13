@@ -57,7 +57,7 @@
 <!ENTITY abbreviateOn.label "뉴스 그룹 이름 (예: 'netscape.public.mozilla.mail-news')">
 <!ENTITY abbreviateOff.label "약어 이름 (예: 'n.p.m.mail-news')">
 <!ENTITY advancedButton.label "고급…">
-<!ENTITY serverDefaultCharset.label "기본 문자 인코딩:">
+<!ENTITY serverDefaultCharset2.label "기본 문자 인코딩:">
 <!ENTITY advancedButton.accesskey "v">
 <!ENTITY localFolderPicker.label "로컬 디렉터리 위치">
 <!ENTITY browseFolder.label "찾아보기…">
@@ -73,6 +73,6 @@
 <!ENTITY accountSettingsDesc.label	"이는 특수한 계정으로 특정 정보가 없습니다.">
 <!ENTITY storeType.label "메시지 저장 타입:">
 <!ENTITY storeType.accesskey "T">
-<!ENTITY mboxStore.label "큰 파일 하나에 저장 (mbox)">
+<!ENTITY mboxStore2.label "큰 파일 하나에 저장 (mbox)">
 <!ENTITY maildirStore.label "메시지별 파일로 저장 (maildir)">
 

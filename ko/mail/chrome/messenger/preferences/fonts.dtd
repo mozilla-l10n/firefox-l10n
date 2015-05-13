@@ -70,10 +70,10 @@
 <!-- Language settings -->
 <!ENTITY sendDefaultCharset.label "보내는 메일:">
 <!ENTITY sendDefaultCharset.accesskey "u">
-<!ENTITY languagesTitle1.label "문자 인코딩">
-<!ENTITY composingDescription.label "메일을 보내고 받을 때 사용할 문자 인코딩 설정">
+<!ENTITY languagesTitle2.label "문자 인코딩">
+<!ENTITY composingDescription2.label "메일을 보내고 받을 때 사용할 문자 인코딩 설정">
 
 <!ENTITY viewDefaultCharsetList.label "받는 메일:">
 <!ENTITY viewDefaultCharsetList.accesskey "I">
-<!ENTITY replyInDefaultCharset2.label "가능하면 회신할 때 기본 문자 인코딩 사용">
-<!ENTITY replyInDefaultCharset2.accesskey "h">
+<!ENTITY replyInDefaultCharset3.label "가능하면 회신할 때 기본 문자 인코딩 사용">
+<!ENTITY replyInDefaultCharset3.accesskey "h">

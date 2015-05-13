@@ -16,7 +16,7 @@
 <!ENTITY allowHWAccel.accesskey        "h">
 <!ENTITY storeType.label               "새 계정에 대한 메시지 저장 타입:">
 <!ENTITY storeType.accesskey           "T">
-<!ENTITY mboxStore.label               "큰 파일 하나 (mbox)">
+<!ENTITY mboxStore2.label               "큰 파일 하나 (mbox)">
 <!ENTITY maildirStore.label            "메시지 당 파일 하나 (maildir)">
 
 <!ENTITY scrolling.label               "스크롤">
