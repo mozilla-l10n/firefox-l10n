@@ -6,8 +6,8 @@
 <!ENTITY  no_space_to_start_error "Dosć ruma k dispoziciji njeje, zo by &brandShortName; startowało.">
 <!ENTITY  error_loading_file "Při pospyće datajow začitować, kotrež su trěbne za fungowanje &brandShortName;, je zmylk wustupił">
 
-<!ENTITY  onboard_start_message2 "Witajće do &brandShortName;">
-<!ENTITY  onboard_start_subtext2 "Wjace funkcijow priwatnosće a móžnosćow přiměrjenja hač hdy prjedy.">
+<!ENTITY  onboard_start_message3 "Z &brandShortName; přehladować">
+<!ENTITY  onboard_start_subtext3 "Čińće swoje mobilne webpřehladowanske dožiwjenje woprawdźe k swojemu.">
 <!ENTITY  onboard_start_button_account "Pola &brandShortName; přizjewić">
 <!ENTITY  onboard_start_button_browser "Přehladowanje startować">
 <!-- Localization note: These are used as the titles of different pages on the home screen.
@@ -114,7 +114,6 @@
 
 <!ENTITY overlay_share_send_tab_btn_label "Druhemu gratej pósłać">
 <!ENTITY overlay_share_no_url "Žadyn wotkaz w tutym dźělu namakany">
-<!ENTITY overlay_share_retry "Hišće raz spytać">
 <!ENTITY overlay_share_select_device "Grat wubrać">
 <!-- Localization note (overlay_no_synced_devices) : Used when the menu option
      to send a tab to a synced device is pressed and no other synced devices
@@ -150,8 +149,6 @@
      it is applicable. -->
 <!ENTITY pref_search_hint "POKIW: Přidajće swojej lisćinje pytanskich poskićowarjow websydło, tłóčo dołho na jeho pytanske polo a podótkńće so potom symbol &formatI;.">
 <!ENTITY pref_category_devtools "Wuwiwarske nastroje">
-<!ENTITY pref_category_devtools_summary "Zdalene pytanje zmylkow, barbny błyskot">
-<!ENTITY pref_developer_paint_flashing "Barbne wuzběhnjenje">
 <!ENTITY pref_developer_remotedebugging "Zdalene pytanje za zmylkami">
 <!ENTITY pref_category_logins "Přizjewjenja">
 <!ENTITY pref_remember_signons "Hesła sej spomjatkować">
@@ -192,22 +189,22 @@
 <!ENTITY pref_donottrack_title "Njeslědować">
 <!ENTITY pref_donottrack_summary "&brandShortName; zdźěli sydłam, zo nochceće, zo wam slěduja.">
 
-<!ENTITY tab_queue_toast_message "Pozdźišo wočinić">
+<!ENTITY tab_queue_toast_message2 "Rajtark je w &brandShortName; w čakanskim rynku">
 <!ENTITY tab_queue_toast_action "Nětko wočinić">
-<!-- Localization note (tab_queue_notification_text_plural) : The
+<!ENTITY tab_queue_prompt_title "Wjacore wotkazy wočinić?">
+<!ENTITY tab_queue_prompt_text2 "Wočińće je, bjeztoho zo kóždy raz k &brandShortName; přepinał.">
+<!ENTITY tab_queue_prompt_tip_text "móžeće to pozdźišo w nastajenjach změnić">
+<!ENTITY tab_queue_prompt_positive_action_button "Zmóžnić">
+<!ENTITY tab_queue_prompt_negative_action_button "Nic nětko">
+<!ENTITY tab_queue_notification_title "&brandShortName;">
+<!-- Localization note (tab_queue_notification_text_plural2) : The
      formatD is replaced with the number of tabs queued.  The
      number of tabs queued is always more than one.  We can't use
      Android plural forms, sadly. See Bug #753859. -->
-<!ENTITY tab_queue_notification_text_plural "&formatD; rajtarkow w čakanskim rynku">
-<!-- Localization note (tab_queue_notification_title_plural) : This is the
-     title of a notification; we expect more than one tab queued. -->
-<!ENTITY tab_queue_notification_title_plural "Rajtarki w čakanskim rynku">
-<!-- Localization note (tab_queue_notification_title_singular) : This is the
-     title of a notification; we expect only one tab queued. -->
-<!ENTITY tab_queue_notification_title_singular "Rajtark w čakanskim rynku">
-<!-- Localization note (tab_queue_notification_text_singular) : This is the
+<!ENTITY tab_queue_notification_text_plural2 "&formatD; rajtarkow čaka">
+<!-- Localization note (tab_queue_notification_text_singular2) : This is the
      text of a notification; we expect only one tab queued. -->
-<!ENTITY tab_queue_notification_text_singular "1 rajtark w čakanskim rynku">
+<!ENTITY tab_queue_notification_text_singular2 "1 rajtark čaka">
 
 <!ENTITY pref_char_encoding "Znamješkowe kodowanje">
 <!ENTITY pref_char_encoding_on "Meni pokazać">
@@ -255,7 +252,8 @@ size. -->
 <!ENTITY pref_import_android "Z Androida importować">
 <!ENTITY pref_import_android_summary "Importujće zapołožki a historiju z prěnjotneho wobhladowaka">
 <!ENTITY pref_private_data_history2 "Přehladowanska historija">
-<!ENTITY pref_private_data_formdata "Formularna a pytanska historija">
+<!ENTITY pref_private_data_searchHistory "Pytanska historija">
+<!ENTITY pref_private_data_formdata2 "Formularna historija">
 <!ENTITY pref_private_data_cookies2 "Placki a aktiwne přizjewjenja">
 <!ENTITY pref_private_data_passwords "Składowane hesła">
 <!ENTITY pref_private_data_cache "Pufrowak">
@@ -380,6 +378,7 @@ size. -->
 <!ENTITY doorhanger_login_edit_username_hint "Wužiwarske mjeno">
 <!ENTITY doorhanger_login_edit_password_hint "Hesło">
 <!ENTITY doorhanger_login_edit_toggle "Hesło pokazać">
+<!ENTITY doorhanger_login_edit_toast_error "Přizjewjenje njeda so składować">
 
 <!ENTITY pref_titlebar_mode "Titulna lajsta">
 <!ENTITY pref_titlebar_mode_title "Titul strony pokazać">
@@ -390,8 +389,8 @@ size. -->
 <!ENTITY pref_scroll_title_bar2 "Přehladowanje z połnej wobrazowku">
 <!ENTITY pref_scroll_title_bar_summary "Titulnu lajstu &brandShortName; schować, hdyž so strona dele kula">
 
-<!ENTITY pref_tab_queue_title "Pozdźišo wočinić">
-<!ENTITY pref_tab_queue_summary "Rajtarki hnydom při wočinjenju haćić, ale wšě rajtarki w čakanskim rynku přichodny raz wočinić, hdyž je &brandShortName; začituje.">
+<!ENTITY pref_tab_queue_title2 "Wjacore wotkazy wočinić">
+<!ENTITY pref_tab_queue_summary2 "Stajće wotkazy za pozdźišo do čakanskeho rynka, město zo kóždy raz k &brandShortName; přepinał">
 <!-- Localization note (page_removed): This string appears in a toast message when
      any page is removed frome about:home. This includes pages that are in history,
      bookmarks, or reading list. -->
@@ -440,6 +439,8 @@ size. -->
 <!ENTITY button_set "Nastajić">
 <!ENTITY button_clear "Zhašeć">
 <!ENTITY button_remember "Spomjatkować sej">
+
+<!ENTITY firstrun_panel_title_welcome "Witajće">
 
 <!ENTITY home_top_sites_title "Wuběrne sydła">
 <!-- Localization note (home_top_sites_add): This string is used as placeholder
@@ -612,6 +613,14 @@ z Androida">
 <!ENTITY ellipsis "…">
 
 <!ENTITY colon ":">
+<!-- LOCALIZATION NOTE (percent): The percent sign is appended after a number to
+     display a percentage value. formatS is the number, #37 is the code to display a percent sign.
+     This format string is typically used by getString method, in such method the percent sign
+     is a reserved caracter. In order to display one percent sign in the result of getString,
+     double percent signs must be inserted in the format string.
+     This entity is used in the zoomed view to display the zoom factor-->
+
+<!ENTITY percent "&formatS;&#037;&#037;">
 <!-- These are only used for accessibility for the done and overflow-menu buttons in the actionbar.
      They are never shown to users -->
 
