@@ -115,7 +115,7 @@
 <!ENTITY prefs_title "Inställningar">
 <!ENTITY prefs_editor_title "Editor">
 <!ENTITY prefs_general_title "Allmänt">
-<!ENTITY prefs_restore "Återställ standard">
+
 <!ENTITY prefs_manage_components "Hantera extra komponenter">
 <!ENTITY prefs_options_autoconnectruntime "Återanslut till föregående runtime">
 <!ENTITY prefs_options_autoconnectruntime_tooltip "Återanslut till föregående runtime när WebIDE startar">
@@ -139,7 +139,7 @@
 <!-- Permissions Table -->
 
 <!ENTITY permissionstable_title "Rättighetstabell">
-<!ENTITY permissionstable_name_header "Namn">
+
 <!-- Runtime Details -->
 
 <!ENTITY runtimedetails_title "Runtimeinformation">
@@ -195,3 +195,14 @@
 <!-- Logs panel -->
 
 <!ENTITY logs_title "Logg med kommandon före paketering">
+<!-- Simulator Options -->
+
+
+
+
+<!ENTITY simulator_version "Version">
+
+
+<!ENTITY simulator_device "Enhet">
+
+
