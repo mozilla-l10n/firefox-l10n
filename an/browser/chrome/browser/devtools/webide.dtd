@@ -115,7 +115,7 @@
 <!ENTITY prefs_title "Preferencias">
 <!ENTITY prefs_editor_title "Editor">
 <!ENTITY prefs_general_title "Cheneral">
-
+<!ENTITY prefs_restore "Restaurar valuras por defecto">
 <!ENTITY prefs_manage_components "Chestionar components extra">
 <!ENTITY prefs_options_autoconnectruntime "Tornar a connectar a lo runtime anterior">
 <!ENTITY prefs_options_autoconnectruntime_tooltip "Tornar a connectar a lo runtime anterior quan WebIDE empecipie">
@@ -139,7 +139,7 @@
 <!-- Permissions Table -->
 
 <!ENTITY permissionstable_title "Tabla de permisos">
-
+<!ENTITY permissionstable_name_header "Nombre">
 <!-- Runtime Details -->
 
 <!ENTITY runtimedetails_title "Información de tiempo d'execución">
@@ -197,12 +197,14 @@
 <!ENTITY logs_title "Pre-empaquetar os rechistros de comando">
 <!-- Simulator Options -->
 
-
-
-
+<!ENTITY simulator_title "Opcions d'o simulador">
+<!ENTITY simulator_remove "Borrar o simulador">
+<!ENTITY simulator_reset "Restaurar valuras por defecto">
+<!ENTITY simulator_name "Nombre">
+<!ENTITY simulator_software "Software">
 <!ENTITY simulator_version "Versión">
-
-
+<!ENTITY simulator_profile "Perfil">
+<!ENTITY simulator_hardware "Hardware">
 <!ENTITY simulator_device "Dispositivo">
-
-
+<!ENTITY simulator_screenSize "Pantalla">
+<!ENTITY simulator_pixelRatio "Ratio de pixels">
