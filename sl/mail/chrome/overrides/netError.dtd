@@ -131,7 +131,8 @@ da ima &brandShortName; pravico dostopati do omrežja.</li>
 <!ENTITY malwareBlocked.longDesc "<p>Napadalne strani poskušajo namestiti programe, s katerimi kradejo osebne podatke, uporabljajo vaš računalnik za napade na druge in lahko tudi vaš sistem poškodujejo.</p> 
 <p>Lastniki spletnih strani, ki menijo, da se je njihova spletna stran po krivem razglasila za napadalno stran, lahko na naslovu <a href='http://www.stopbadware.org/home/reviewinfo'> zahtevajo ponovno obravnavo</a>.</p>">
 
-
+<!ENTITY unwantedBlocked.title "Morebitna stran z neželeno programsko opremo!">
+<!ENTITY unwantedBlocked.longDesc "<p>Strani z neželeno programsko opremo poskušajo namestiti programsko opremo, ki je lahko zavajajoča in lahko neželeno vpliva na vaš sistem.</p>">
 
 <!ENTITY phishingBlocked.title "Morebitna spletna prevara!">
 <!ENTITY phishingBlocked.longDesc "<p>Vnos osebnih podatkov na tej strani lahko pripelje do kraje identitete ali drugih zlorab.</p> 
