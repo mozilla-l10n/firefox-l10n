@@ -17,9 +17,9 @@ atualizações regularmente.">
 ou ative a procura automática de atualizações do &brandShortName;.">
 
 <!ENTITY  manualUpdate.title              "Não é possível atualizar">
-<!ENTITY  manualUpdate.desc               "Está disponível uma atualização de segurança e estabilidade, mas você 
-não tem as permissões necessárias para a instalar. Contacte o administrador 
-de sistemas  ou tente novamente a partir de uma conta que tenha 
+<!ENTITY  manualUpdate.desc               "Está disponível uma atualização de segurança e estabilidade, mas você 
+não tem as permissões necessárias para a instalar. Contacte o administrador 
+de sistemas ou tente novamente a partir de uma conta que tenha 
 permissões de instalação neste computador.">
 <!ENTITY  manualUpdate.space.desc         "Está disponível um atualização de segurança e estabilidade, mas você 
 não tem espaço disponível para a instalar.">

@@ -10,7 +10,7 @@
 <!ENTITY select.heading              "Selecione os seus extras">
 <!-- LOCALIZATION NOTE (select.description): The term used for "third parties"
      here should match the string source.other in selectAddons.properties. -->
-<!ENTITY select.description          "Torne o &brandShortName; ainda mais rápido desativando os extras que não utiliza. Os extras  instalados por terceiros serão desativados automaticamente a menos que os selecione em baixo.">
+<!ENTITY select.description          "Torne o &brandShortName; ainda mais rápido desativando os extras que não utiliza. Os extras instalados por terceiros serão desativados automaticamente a menos que os selecione em baixo.">
 <!ENTITY select.keep                 "Manter">
 <!-- LOCALIZATION NOTE (select.keep.style): Should be a width wide enough for
      the string in select.keep above. -->
