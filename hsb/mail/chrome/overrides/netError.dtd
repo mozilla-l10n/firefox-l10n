@@ -131,6 +131,9 @@ zo &brandShortName; smě z webom zwjazać.</li> 
 <!ENTITY malwareBlocked.longDesc "<p>Napadne sydła pospytuja programy instalować, zo bychu priwatne daty kradnyli, waš ličak wužiwali, zo bychu druhe napadnyli abo waš system wobškodźili.</p> 
 <p>Wobsedźerjo websydła, kotřiž wěrja, zo jich websydło je so zmylnje jako napadne sydło zdźěliło, móža <a href='http://www.stopbadware.org/home/reviewinfo'>přepruwowanje požadać</a>.</p>">
 
+<!ENTITY unwantedBlocked.title "Podhladne sydło z njewitanu softwaru!">
+<!ENTITY unwantedBlocked.longDesc "<p>Strony z njewitanej softwaru pospytuja softwaru instalować, kotraž móže wobšudna być a kotraž móže waš system na njewočakowane wašnja wobwliwować.</p>">
+
 <!ENTITY phishingBlocked.title "Podhladna webfalšowanka!">
 <!ENTITY phishingBlocked.longDesc "<p>Zapodawanje wosobinskich informacijow na tutej stronje móža ke kradnjenju identity abo druhemu wobsudstwu wjesć.</p> 
 <p>Tute typy webwobšudstwow wužiwaja so w jebanstwach jako čušlace nadpady, w kotrychž wobšudne webstrony a e-mejle so wužiwaja, zo bychu žórła imitowali, kotrymž dowěrjeće.</p>">
