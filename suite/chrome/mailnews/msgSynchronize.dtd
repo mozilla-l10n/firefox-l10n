@@ -5,8 +5,8 @@
 
 
 <!ENTITY MsgSynchronize.label "Transferir e sincronizar mensagens">
-<!ENTITY MsgSelect.label "Itens para utilização no modo desligado">
-<!ENTITY MsgSyncDesc.label "Se já selecionou as pastas de correio ou de grupos de notícias para serem utilizados no modo desligado, pode transferir e/ou sincronizar os mesmos agora. Caso contrário, utilize o botão &quot;Selecionar&quot; para escolher as pastas de correio e grupos de discussão para serem utilizados no modo desligado.">
+<!ENTITY MsgSelect.label "Itens para utilização offline">
+<!ENTITY MsgSyncDesc.label "Se já selecionou as pastas de correio ou de grupos de notícias para serem utilizados no modo offline, pode transferir e/ou sincronizar os itens. Caso contrário, utilize o botão &quot;Selecionar&quot; para escolher as pastas de correio e grupos de discussão para utilização offline.">
 <!ENTITY MsgSyncDirections.label "Transferir e/ou sincronizar o seguinte:">
 <!ENTITY syncTypeMail.label "Mensagens de correio">
 <!ENTITY syncTypeMail.accesskey "e">
@@ -14,10 +14,10 @@
 <!ENTITY syncTypeNews.accesskey "n">
 <!ENTITY sendMessage.label "Enviar mensagens por enviar">
 <!ENTITY sendMessage.accesskey "e">
-<!ENTITY workOffline.label "Trabalhar no modo desligado uma vez transferido e/ou sincronização completa">
-<!ENTITY workOffline.accesskey "m">
+<!ENTITY workOffline.label "Trabalhar offline assim que terminar de transferir e/ou sincronizar">
+<!ENTITY workOffline.accesskey "o">
 <!ENTITY selectButton.label "Selecione...">
 <!ENTITY selectButton.accesskey "S">
-<!ENTITY MsgSelectDesc.label "Escolha a pasta de correio e grupos de notícias para usar no modo desligado.">
+<!ENTITY MsgSelectDesc.label "Escolha as pastas de correio e grupos de notícias para utilização offline.">
 <!ENTITY MsgSelectInd.label "Transferir">
 <!ENTITY MsgSelectItems.label "Pastas e grupos de notícias">
