@@ -5,7 +5,7 @@
 
 <!ENTITY tabs.otherComputers.label               "Separadores de outros computadores">
 
-<!ENTITY tabs.searchText.label                   "Escreva aqui para encontrar separadores...">
+<!ENTITY tabs.searchText.label                   "Escreva aqui para localizar separadores…">
 <!-- LOCALIZATION NOTE (tabs.context.openTab.accesskey, tabs.context.openMultipleTabs.accesskey;
      tabs.context.bookmarkSingleTab.accesskey, tabs.context.bookmarkMultipleTabs.accesskey):
      Only one of each of these pairs will show at a time (based on selection), so reusing accesskey is ok. -->

@@ -11,7 +11,7 @@
 <!ENTITY syncKey.keepItSafe2.description  " Nós não mantemos uma cópia da sua chave (isso não seria mantê-la secreta!) portanto ">
 <!ENTITY syncKey.keepItSafe3.description  "não podemos recuperá-la">
 <!ENTITY syncKey.keepItSafe4.description  " se a perder. Precisa desta chave sempre que quiser ligar um novo computador ou dispositivo ao &syncBrand.fullName.label;.">
-<!ENTITY syncKey.findOutMore1.label       "Aprenda mais sobre o &syncBrand.fullName.label; e a sua privacidade em ">
+<!ENTITY syncKey.findOutMore1.label       "Saber mais sobre o &syncBrand.fullName.label; e a sua privacidade em ">
 <!ENTITY syncKey.findOutMore2.label       ".">
 <!ENTITY syncKey.footer1.label            "Os Termos de Serviço do &syncBrand.fullName.label; estão disponiveis em ">
 <!ENTITY syncKey.footer2.label            ". A Política de Privacidade está disponível em ">

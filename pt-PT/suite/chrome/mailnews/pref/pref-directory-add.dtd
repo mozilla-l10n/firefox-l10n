@@ -9,8 +9,8 @@
 <!ENTITY directoryHostname.accesskey       "o">
 <!ENTITY directoryBaseDN.label             "Base DN: ">
 <!ENTITY directoryBaseDN.accesskey         "B">
-<!ENTITY findButton.label                  "Procurar">
-<!ENTITY findButton.accesskey              "r">
+<!ENTITY findButton.label                  "Localizar">
+<!ENTITY findButton.accesskey              "L">
 <!ENTITY directorySecure.label             "Usar ligação segura (SSL)">
 <!ENTITY directorySecure.accesskey         "U">
 <!ENTITY directoryLogin.label              "Bind DN: ">
