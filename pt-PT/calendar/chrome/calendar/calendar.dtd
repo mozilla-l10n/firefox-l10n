@@ -231,7 +231,7 @@
 
 <!ENTITY calendar.context.newserver.label              "Novo calendário...">
 <!ENTITY calendar.context.newserver.accesskey          "N">
-<!ENTITY calendar.context.findcalendar.label           "Localizar calendário..." >
+<!ENTITY calendar.context.findcalendar.label           "Localizar calendário…" >
 <!ENTITY calendar.context.findcalendar.accesskey       "o" >
 <!ENTITY calendar.context.deleteserver2.label          "Eliminar calendário">
 <!ENTITY calendar.context.deleteserver2.accesskey      "a">
