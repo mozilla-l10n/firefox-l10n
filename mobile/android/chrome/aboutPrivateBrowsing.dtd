@@ -10,4 +10,4 @@
 <!ENTITY privatebrowsingpage.description            "Nos separadores privados, o &brandShortName; não guarda qualquer histórico de navegação, histórico de pesquisa, histórico de transferências, histórico de formulários web, cookies, ou ficheiros temporários da internet. No entanto, os ficheiros que transferir ou adicionar aos marcadores serão mantidos.">
 <!ENTITY privatebrowsingpage.description.private    "&privatebrowsingpage.issueDesc.private; &privatebrowsingpage.description;">
 
-<!ENTITY privatebrowsingpage.moreInfo               "Embora este dispositivo não tenha uma gravação do seu histórico de navegação, o seu fornecedor de internet pode ainda assim seguir as páginas que visitou.">
+<!ENTITY privatebrowsingpage.moreInfo               "Apesar do dispositivo não guardar o seu histórico de navegação, o seu fornecedor de serviços pode rastrear as páginas visitadas.">
