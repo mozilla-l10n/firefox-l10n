@@ -115,7 +115,7 @@
 <!ENTITY prefs_title "Preferências">
 <!ENTITY prefs_editor_title "Editor">
 <!ENTITY prefs_general_title "Geral">
-
+<!ENTITY prefs_restore "Restaurar predefinições">
 <!ENTITY prefs_manage_components "Gerir componentes extra">
 <!ENTITY prefs_options_autoconnectruntime "Estabelecer nova ligação ao runtime anterior">
 <!ENTITY prefs_options_autoconnectruntime_tooltip "Estabelecer nova ligação ao runtime anterior ao iniciar o WebIDE">
