@@ -14,7 +14,7 @@
 
 <!ENTITY safeb.blocked.unwantedPage.title "Tudalen Meddalwedd Digroeso Hysbys!">
 <!-- Localization note (safeb.blocked.malware.shortDesc) - Please don't translate the contents of the <span id="unwanted_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
-<!ENTITY safeb.blocked.unwantedPage.shortDesc "Mae'r dudalen hon <span id='malware_sitename'/> wedi ei chofnodi ei bod yn cynnwys meddalwedd digroeso ac mae wedi ei rhwystro yn seiliedig ar eich dewisiadau diogelwch.">
+<!ENTITY safeb.blocked.unwantedPage.shortDesc "Mae'r dudalen hon <span id='unwanted_sitename'/> wedi ei chofnodi ei bod yn cynnwys meddalwedd digroeso ac mae wedi ei rhwystro yn seiliedig ar eich dewisiadau diogelwch.">
 <!ENTITY safeb.blocked.unwantedPage.longDesc "<p>Mae tudalennau meddalwedd digroeso yn ceisio gosod meddalwedd all fod yn dwyllodrus ac effeithio ar eich system mewn ffyrdd annisgwyl.</p>">
 
 <!ENTITY safeb.blocked.phishingPage.title "Ffugiad Gwe Hysbys!">

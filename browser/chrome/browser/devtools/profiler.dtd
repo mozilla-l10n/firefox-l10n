@@ -156,3 +156,5 @@
   -  Indicates how to stop the recording, wrapping the command, like
   -  "Stop recording by entering console.profilEnd("label") into the console." -->
 
+<!ENTITY profilerUI.console.stopCommandStart "Atal recordio drwy gyflwyno">
+<!ENTITY profilerUI.console.stopCommandEnd   "i'r consol.">

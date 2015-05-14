@@ -206,5 +206,5 @@
 <!ENTITY simulator_profile "Proffil">
 <!ENTITY simulator_hardware "Caledwedd">
 <!ENTITY simulator_device "Dyfais">
-
-
+<!ENTITY simulator_screenSize "Sgrin">
+<!ENTITY simulator_pixelRatio "Graddfa Picsel">
