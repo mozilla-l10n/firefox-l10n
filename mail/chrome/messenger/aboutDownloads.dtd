@@ -11,8 +11,8 @@
      -->
 <!ENTITY cmd.show.label                            "Abrir pasta do ficheiro">
 <!ENTITY cmd.show.accesskey                        "b">
-<!ENTITY cmd.showMac.label                         "Mostrar no finder">
-<!ENTITY cmd.showMac.accesskey                     "f">
+<!ENTITY cmd.showMac.label                         "Mostrar no Finder">
+<!ENTITY cmd.showMac.accesskey                     "F">
 <!ENTITY cmd.open.label                            "Abrir">
 <!ENTITY cmd.open.accesskey                        "A">
 <!ENTITY cmd.removeFromHistory.label               "Remover do histórico">
