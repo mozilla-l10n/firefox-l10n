@@ -158,6 +158,8 @@
 <!ENTITY bothFormatCmd.accesskey "n">
 <!ENTITY priorityMenu.label "Tosaíocht">
 <!ENTITY priorityMenu.accesskey "T">
+<!ENTITY priorityButton.title "Tosaíocht">
+<!ENTITY priorityButton.tooltiptext "Athraigh tosaíocht na teachtaireachta">
 <!ENTITY priorityButton.label "Tosaíocht:">
 <!ENTITY lowestPriorityCmd.label "Is Ísle">
 <!ENTITY lowestPriorityCmd.accesskey "l">
