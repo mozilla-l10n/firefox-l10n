@@ -83,7 +83,7 @@ se o &brandShortName; tem permissão para aceder à web.</li>
 a funcionar.</li> 
 </ul>">
 
-<!ENTITY proxyResolveFailure.title "Não é possível encontrar o servidor proxy">
+<!ENTITY proxyResolveFailure.title "Servidor proxy não encontrado">
 <!ENTITY proxyResolveFailure.longDesc "<ul> 
 <li>Verifique se as definições proxy estão corretas.</li> 
 <li>Verifique se o seu computador tem uma ligação de rede ativa.</li> 
