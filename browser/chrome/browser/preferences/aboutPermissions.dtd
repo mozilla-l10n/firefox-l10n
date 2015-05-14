@@ -37,11 +37,12 @@
 <!-- LOCALIZATION NOTE (indexedDB.label): This is describing indexedDB storage
      using the same language used for the permIndexedDB string in browser/pageInfo.dtd -->
 
-<!ENTITY indexedDB.label                 "Manter armazenamento desligado">
+<!ENTITY indexedDB.label                 "Manter armazenamento offline">
 
 <!ENTITY popup.label                     "Abrir janelas de Pop-up">
 
 <!ENTITY fullscreen.label                "Ecrã inteiro">
 
+<!ENTITY push.label                      "Receber notificações">
 <!ENTITY camera.label                    "Usar a câmara">
 <!ENTITY microphone.label                "Usar o microfone">
