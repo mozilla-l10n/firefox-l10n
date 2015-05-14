@@ -64,10 +64,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY menu_textReset.label "Normal">
 <!ENTITY menu_textReset.accesskey "N">
 
-<!ENTITY findOnCmd.label     "Procurar nesta página...">
-<!ENTITY findOnCmd.accesskey "P">
+<!ENTITY findOnCmd.label     "Localizar nesta página…">
+<!ENTITY findOnCmd.accesskey "L">
 <!ENTITY findOnCmd.commandkey "f">
-<!ENTITY findAgainCmd.label  "Procurar novamente">
+<!ENTITY findAgainCmd.label  "Localizar novamente">
 <!ENTITY findAgainCmd.accesskey "n">
 <!ENTITY findAgainCmd.commandkey "g">
 <!ENTITY findAgainCmd.commandkey2 "VK_F3">

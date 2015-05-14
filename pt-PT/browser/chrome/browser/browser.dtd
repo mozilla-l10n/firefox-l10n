@@ -145,7 +145,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (findShareServices.label):
   -  Use the unicode ellipsis char, \u2026,
   -  or use "..." if \u2026 doesn't suit traditions in your locale. -->
-<!ENTITY findShareServices.label "Procurar mais serviços de partilha…">
+<!ENTITY findShareServices.label "Localizar mais serviços de partilha…">
 <!ENTITY sharePageCmd.label "Partilhar esta página">
 <!ENTITY sharePageCmd.commandkey "s">
 <!ENTITY sharePageCmd.accesskey "s">
@@ -656,11 +656,11 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY bidiSwitchTextDirectionItem.accesskey    "x">
 <!ENTITY bidiSwitchTextDirectionItem.commandkey   "X">
 
-<!ENTITY findOnCmd.label     "Localizar nesta página...">
-<!ENTITY findOnCmd.accesskey "p">
+<!ENTITY findOnCmd.label     "Localizar nesta página…">
+<!ENTITY findOnCmd.accesskey "n">
 <!ENTITY findOnCmd.commandkey "f">
 <!ENTITY findAgainCmd.label  "Localizar novamente">
-<!ENTITY findAgainCmd.accesskey "n">
+<!ENTITY findAgainCmd.accesskey "v">
 <!ENTITY findAgainCmd.commandkey "g">
 <!ENTITY findAgainCmd.commandkey2 "VK_F3">
 <!ENTITY findSelectionCmd.commandkey "e">
