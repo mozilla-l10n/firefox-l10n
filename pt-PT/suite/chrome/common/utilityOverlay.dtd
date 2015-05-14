@@ -115,12 +115,12 @@
 <!ENTITY direct.accesskey                               "n">
 <!ENTITY manual.label                                   "Ligado (proxy: manual)">
 <!ENTITY manual.accesskey                               "m">
-<!ENTITY pac.label                                      "Ligado (servidor proxy automático)">
+<!ENTITY pac.label                                      "Ligado (proxy: URL automático)">
 <!ENTITY pac.accesskey                                  "a">
-<!ENTITY wpad.label                                     "Ligado (Proxy: Auto Descobrir)">
+<!ENTITY wpad.label                                     "Ligado (proxy: descobrir automaticamente)">
 <!ENTITY wpad.accesskey                                 "D">
-<!ENTITY system.label                                   "Ligado (Proxy: Sistema Proxy)">
-<!ENTITY system.accesskey                               "S">
+<!ENTITY system.label                                   "Ligado (proxy: proxy do sistema)">
+<!ENTITY system.accesskey                               "s">
 
 <!ENTITY proxy.label                                    "Configuração de proxy...">
 <!ENTITY proxy.accesskey                                "C">
