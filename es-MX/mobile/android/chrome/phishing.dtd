@@ -18,4 +18,5 @@
 
 <!ENTITY safeb.blocked.unwantedPage.title "¡Sitio reportado que contiene software malicioso!">
 <!-- Localization note (safeb.blocked.unwanted.shortDesc) - Please don't translate the contents of the <span id="unwanted_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
-
+<!ENTITY safeb.blocked.unwantedPage.shortDesc "Esta página hospedada en <span id='unwanted_sitename'/> ha sido reportada porque contiene software malicioso y se bloqueó con base en tus preferencias de seguridad.">
+<!ENTITY safeb.blocked.unwantedPage.longDesc "Páginas con software malicioso intentan instalar software que puede afectar tu sistema de diversas formas.">
