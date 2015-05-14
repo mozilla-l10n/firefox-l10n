@@ -132,6 +132,8 @@ ulanishini tekshirib ko‘ring.</li>
 <!ENTITY malwareBlocked.longDesc "<p>Hujumkor saytlar shaxsiy ma’lumotlaringizni o‘g‘irlaydigan dasturlarni o‘rnatishga urinadi, kompyuteringizdan boshqalarga hujum qilish uchun foydalanishga yoki tizimingizni buzishga harakat qiladi.</p> 
 <p>Saytlarini xato tufayli hujumkor sayt deb xabar berilgan deb hisoblovchi sayt egalari <a href='http://www.stopbadware.org/home/reviewinfo' >qayta ko‘rib chiqish</a>ni so‘rashlari mumkin.</p>">
 
+
+
 <!ENTITY phishingBlocked.title "Veb qalloblik aniqlandi!">
 <!ENTITY phishingBlocked.longDesc "<p>Ushbu sahifaga shaxsiy ma’lumotlarni kiritish, ularni o‘g‘irlanishiga yoki boshqa tovlamachiliklarga sabab bo‘lishi mumkin.</p> 
 <p>Ushbu turdagi veb qalloblikdan, odatda, fishing hujumida foydalaniladi, yolg‘on vebsahifa va e-pochtalar ishonchingizga kirish uchun ishlatiladi.</p>">
