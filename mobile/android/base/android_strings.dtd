@@ -6,8 +6,8 @@
 <!ENTITY  no_space_to_start_error "Kapasitas ruang tidak mencukupi untuk memulai &brandShortName;.">
 <!ENTITY  error_loading_file "Galat terjadi saat memuat berkas yang diperlukan untuk menjalankan &brandShortName;">
 
-<!ENTITY  onboard_start_message2 "Selamat datang di &brandShortName;">
-<!ENTITY  onboard_start_subtext2 "Lebih banyak fitur privasi dan lebih banyak cara untuk mengubahsuai.">
+<!ENTITY  onboard_start_message3 "Jelajahi dengan &brandShortName;">
+<!ENTITY  onboard_start_subtext3 "Jelajahi Web dengan cara Anda sendiri.">
 <!ENTITY  onboard_start_button_account "Masuk ke &brandShortName;">
 <!ENTITY  onboard_start_button_browser "Mulai Menjelajah">
 <!-- Localization note: These are used as the titles of different pages on the home screen.
@@ -114,7 +114,6 @@
 
 <!ENTITY overlay_share_send_tab_btn_label "Kirim ke perangkat lainnya">
 <!ENTITY overlay_share_no_url "Tidak ada tautan yang ada di pembagian ini">
-<!ENTITY overlay_share_retry "Coba lagi">
 <!ENTITY overlay_share_select_device "Pilih perangkat">
 <!-- Localization note (overlay_no_synced_devices) : Used when the menu option
      to send a tab to a synced device is pressed and no other synced devices
@@ -150,8 +149,6 @@
      it is applicable. -->
 <!ENTITY pref_search_hint "KIAT: Tambahkan situs apa saja ke daftar mesin pencari dengan menekan lama pada bidang pencarian lalu mengetuk ikon &formatI;.">
 <!ENTITY pref_category_devtools "Alat pengembang">
-<!ENTITY pref_category_devtools_summary "Pendebugan daring, paint flash">
-<!ENTITY pref_developer_paint_flashing "Paint flash">
 <!ENTITY pref_developer_remotedebugging "Pendebugan daring">
 <!ENTITY pref_category_logins "Info masuk">
 <!ENTITY pref_remember_signons "Ingat sandi">
@@ -192,22 +189,22 @@
 <!ENTITY pref_donottrack_title "Jangan lacak">
 <!ENTITY pref_donottrack_summary "&brandShortName; akan memberi tahu situs bahwa Anda tidak ingin dilacak">
 
-<!ENTITY tab_queue_toast_message "Buka nanti">
+<!ENTITY tab_queue_toast_message2 "Tab diantrikan di &brandShortName;">
 <!ENTITY tab_queue_toast_action "Buka sekarang juga">
-<!-- Localization note (tab_queue_notification_text_plural) : The
+<!ENTITY tab_queue_prompt_title "Buka beberapa tautan?">
+<!ENTITY tab_queue_prompt_text2 "Buka tautannya tanpa perlu setiap kali berpindah-pindah ke &brandShortName;">
+<!ENTITY tab_queue_prompt_tip_text "Anda dapat mengubahnya nanti di Pengaturan">
+<!ENTITY tab_queue_prompt_positive_action_button "Aktif">
+<!ENTITY tab_queue_prompt_negative_action_button "Jangan sekarang">
+<!ENTITY tab_queue_notification_title "&brandShortName;">
+<!-- Localization note (tab_queue_notification_text_plural2) : The
      formatD is replaced with the number of tabs queued.  The
      number of tabs queued is always more than one.  We can't use
      Android plural forms, sadly. See Bug #753859. -->
-<!ENTITY tab_queue_notification_text_plural "&formatD; tab dalam antrian">
-<!-- Localization note (tab_queue_notification_title_plural) : This is the
-     title of a notification; we expect more than one tab queued. -->
-<!ENTITY tab_queue_notification_title_plural "Tab Dalam Antrian">
-<!-- Localization note (tab_queue_notification_title_singular) : This is the
-     title of a notification; we expect only one tab queued. -->
-<!ENTITY tab_queue_notification_title_singular "Tab Dalam Antrian">
-<!-- Localization note (tab_queue_notification_text_singular) : This is the
+<!ENTITY tab_queue_notification_text_plural2 "&formatD; tab menunggu">
+<!-- Localization note (tab_queue_notification_text_singular2) : This is the
      text of a notification; we expect only one tab queued. -->
-<!ENTITY tab_queue_notification_text_singular "1 tab dalam antrian">
+<!ENTITY tab_queue_notification_text_singular2 "1 tab menunggu">
 
 <!ENTITY pref_char_encoding "Pengodean karakter">
 <!ENTITY pref_char_encoding_on "Tampilkan menu">
@@ -255,7 +252,8 @@ size. -->
 <!ENTITY pref_import_android "Impor dari Android">
 <!ENTITY pref_import_android_summary "Impor markah dan riwayat dari peramban sistem">
 <!ENTITY pref_private_data_history2 "Riwayat penjelajahan">
-<!ENTITY pref_private_data_formdata "Riwayat pencarian dan isian formulir">
+<!ENTITY pref_private_data_searchHistory "Riwayat pencarian">
+<!ENTITY pref_private_data_formdata2 "Riwayat formulir">
 <!ENTITY pref_private_data_cookies2 "Kuki dan info masuk aktif">
 <!ENTITY pref_private_data_passwords "Sandi tersimpan">
 <!ENTITY pref_private_data_cache "Tembolok">
@@ -380,6 +378,7 @@ size. -->
 <!ENTITY doorhanger_login_edit_username_hint "Name Pengguna">
 <!ENTITY doorhanger_login_edit_password_hint "Sandi">
 <!ENTITY doorhanger_login_edit_toggle "Tampilkan sandi">
+<!ENTITY doorhanger_login_edit_toast_error "Gagal menyimpan info masuk">
 
 <!ENTITY pref_titlebar_mode "Bilah judul">
 <!ENTITY pref_titlebar_mode_title "Tampilkan judul laman">
@@ -390,8 +389,8 @@ size. -->
 <!ENTITY pref_scroll_title_bar2 "Penjelajahan layar penuh">
 <!ENTITY pref_scroll_title_bar_summary "Sembunyikan bilah judul &brandShortName; saat menggulir laman ke bawah">
 
-<!ENTITY pref_tab_queue_title "Buka nanti">
-<!ENTITY pref_tab_queue_summary "Cegah tab langsung terbuka, tetapi buka semua tab dalam antrian ketika &brandShortName; membuka lagi.">
+<!ENTITY pref_tab_queue_title2 "Buka beberapa tautan">
+<!ENTITY pref_tab_queue_summary2 "Antrikan tautan alih-alih langsung berpindah setiap kali ke &brandShortName;">
 <!-- Localization note (page_removed): This string appears in a toast message when
      any page is removed frome about:home. This includes pages that are in history,
      bookmarks, or reading list. -->
@@ -440,6 +439,8 @@ size. -->
 <!ENTITY button_set "Setel">
 <!ENTITY button_clear "Bersihkan">
 <!ENTITY button_remember "Ingat">
+
+<!ENTITY firstrun_panel_title_welcome "Selamat Datang">
 
 <!ENTITY home_top_sites_title "Situs Populer">
 <!-- Localization note (home_top_sites_add): This string is used as placeholder
@@ -612,6 +613,14 @@ dari Android">
 <!ENTITY ellipsis "…">
 
 <!ENTITY colon ":">
+<!-- LOCALIZATION NOTE (percent): The percent sign is appended after a number to
+     display a percentage value. formatS is the number, #37 is the code to display a percent sign.
+     This format string is typically used by getString method, in such method the percent sign
+     is a reserved caracter. In order to display one percent sign in the result of getString,
+     double percent signs must be inserted in the format string.
+     This entity is used in the zoomed view to display the zoom factor-->
+
+<!ENTITY percent "&formatS;&#037;&#037;">
 <!-- These are only used for accessibility for the done and overflow-menu buttons in the actionbar.
      They are never shown to users -->
 
