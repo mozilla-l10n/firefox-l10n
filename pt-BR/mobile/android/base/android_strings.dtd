@@ -390,7 +390,7 @@ size. -->
 <!ENTITY pref_scroll_title_bar_summary "Ocultar a barra de título do &brandShortName; ao rolar a tela para baixo">
 
 <!ENTITY pref_tab_queue_title2 "Abir múltiplos links">
-
+<!ENTITY pref_tab_queue_summary2 "Colocar links em fila em vez de trocar para o &brandShortName; sempre">
 <!-- Localization note (page_removed): This string appears in a toast message when
      any page is removed frome about:home. This includes pages that are in history,
      bookmarks, or reading list. -->
