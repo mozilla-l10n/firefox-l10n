@@ -132,7 +132,7 @@
 <!ENTITY pref_category_display "Mostrar">
 <!ENTITY pref_category_display_summary "Texto, barra de título, navegação em ecrã inteiro">
 <!ENTITY pref_category_privacy_short "Privacidade">
-<!ENTITY pref_category_privacy_summary "Palavra-passe de controlo, cookies, monitorização, dados">
+<!ENTITY pref_category_privacy_summary "Palavras-passe, cookies, rastreio, dados">
 <!ENTITY pref_category_vendor "&vendorShortName;">
 <!ENTITY pref_category_vendor_summary "Sobre o &brandShortName;, FAQs, e escolhas de dados">
 <!ENTITY pref_category_datareporting "Escolhas de dados">
@@ -184,10 +184,10 @@
 <!ENTITY pref_cookies_not_accept_foreign "Ativado, excluindo os de terceiros">
 <!ENTITY pref_cookies_disabled "Desativado">
 
-<!ENTITY pref_tracking_protection_title "Proteção de monitorização">
-<!ENTITY pref_tracking_protection_summary "O &brandShortName; irá impedir que sítios o monitorizem">
-<!ENTITY pref_donottrack_title "Não monitorizar">
-<!ENTITY pref_donottrack_summary "O &brandShortName; irá informar os sítios web que não quer ser monitorizado">
+<!ENTITY pref_tracking_protection_title "Proteção contra rastreio">
+<!ENTITY pref_tracking_protection_summary "O &brandShortName; irá impedir que sítios o rastreiem">
+<!ENTITY pref_donottrack_title "Do not track">
+<!ENTITY pref_donottrack_summary "O &brandShortName; irá informar os sítios web que você não quer ser rastreado">
 
 <!ENTITY tab_queue_toast_message2 "Separador colocado no &brandShortName;">
 <!ENTITY tab_queue_toast_action "Abrir agora">
@@ -540,10 +540,10 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY blocked_mixed_content_message_bottom "A maioria dos sítios web funciona bem mesmo quando o conteúdo é bloqueado.">
 <!-- Tracking content notifications in site identity popup -->
 
-<!ENTITY loaded_tracking_content_message_top "Proteção de monitorização desativada.">
-<!ENTITY loaded_tracking_content_message_bottom "Partes desta página podem monitorizar a sua atividade na Internet.">
-<!ENTITY blocked_tracking_content_message_top2 "Proteção de monitorização ativada.">
-<!ENTITY blocked_tracking_content_message_bottom2 "As partes desta página que podem monitorizar a sua atividade na Internet foram bloqueadas.">
+<!ENTITY loaded_tracking_content_message_top "Proteção contra rastreio desativada.">
+<!ENTITY loaded_tracking_content_message_bottom "Partes desta página podem rastrear a sua atividade na Internet.">
+<!ENTITY blocked_tracking_content_message_top2 "Proteção contra rastreio ativada.">
+<!ENTITY blocked_tracking_content_message_bottom2 "Partes da página que podem rastrear a sua atividade na Internet foram bloqueadas.">
 <!-- Common mixed and tracking content strings in site identity popup -->
 
 <!ENTITY learn_more "Saber mais">
