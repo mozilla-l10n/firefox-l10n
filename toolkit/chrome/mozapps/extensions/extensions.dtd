@@ -241,7 +241,7 @@ mais populares extras para que os possa experimentar.">
      These entities form a sentence, with
      disabledUnsigned.description.findAddonsLink being a link to an external site. -->
 <!ENTITY disabledUnsigned.description.start "Os seguintes extras não foram verificados para utilização no &brandShortName;. Você pode ">
-<!ENTITY disabledUnsigned.description.findAddonsLink "procurar substitutos">
+<!ENTITY disabledUnsigned.description.findAddonsLink "localizar substitutos">
 <!ENTITY disabledUnsigned.description.end " ou solicitar que o programador peça a sua verificação.">
 <!ENTITY disabledUnsigned.learnMore "Saber mais sobre o nosso esforço para manter os utilizadores seguros.">
 <!-- LOCALIZATION NOTE (disabledUnsigned.devInfo.start, disabledUnsigned.devInfo.linkToManual, disabledUnsigned.devInfo.end):
