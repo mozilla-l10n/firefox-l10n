@@ -52,7 +52,7 @@ se o &brandShortName; tem permissão para aceder à web.</li>
 
 <!ENTITY netOffline.title "Modo offline">
 <!ENTITY netOffline.longDesc2 "<ul> 
-<li>>Prima &quot;Tentar novamente&quot; para ficar ligado e recarregar a página.</li> 
+<li>>Prima &quot;Tentar novamente&quot; para ativar o modo online e recarregar a página.</li> 
 </ul>">
 
 <!ENTITY contentEncodingError.title "Erro de codificação do conteúdo">
