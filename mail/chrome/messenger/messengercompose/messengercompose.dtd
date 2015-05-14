@@ -158,6 +158,8 @@
 <!ENTITY bothFormatCmd.accesskey "G">
 <!ENTITY priorityMenu.label "Prednost">
 <!ENTITY priorityMenu.accesskey "r">
+<!ENTITY priorityButton.title "Prednost">
+<!ENTITY priorityButton.tooltiptext "Spremeni prednost sporočila">
 <!ENTITY priorityButton.label "Prednost:">
 <!ENTITY lowestPriorityCmd.label "Najnižja">
 <!ENTITY lowestPriorityCmd.accesskey "ž">
