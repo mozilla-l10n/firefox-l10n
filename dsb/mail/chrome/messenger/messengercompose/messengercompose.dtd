@@ -158,6 +158,8 @@
 <!ENTITY bothFormatCmd.accesskey "k">
 <!ENTITY priorityMenu.label "Priorita">
 <!ENTITY priorityMenu.accesskey "P">
+
+
 <!ENTITY priorityButton.label "Priorita:">
 <!ENTITY lowestPriorityCmd.label "Nejniša">
 <!ENTITY lowestPriorityCmd.accesskey "N">
