@@ -115,7 +115,7 @@
 <!ENTITY prefs_title "Sainroghanna">
 <!ENTITY prefs_editor_title "Eagarthóir">
 <!ENTITY prefs_general_title "Ginearálta">
-<!ENTITY prefs_restore "Athchóirigh na Réamhshocruithe">
+
 <!ENTITY prefs_manage_components "Bainistigh Comhpháirteanna Breise">
 <!ENTITY prefs_options_autoconnectruntime "Athcheangail leis an gcóras am-rite roimhe seo">
 <!ENTITY prefs_options_autoconnectruntime_tooltip "Athcheangail leis an gcóras am-rite roimhe seo nuair a thosaíonn WebIDE">
@@ -139,7 +139,7 @@
 <!-- Permissions Table -->
 
 <!ENTITY permissionstable_title "Ceadanna">
-<!ENTITY permissionstable_name_header "Ainm">
+
 <!-- Runtime Details -->
 
 <!ENTITY runtimedetails_title "Faoin Chóras Ama Rite">
@@ -195,3 +195,14 @@
 <!-- Logs panel -->
 
 <!ENTITY logs_title "Logchomhad Réamhphacáistithe">
+<!-- Simulator Options -->
+
+
+
+
+<!ENTITY simulator_version "Leagan">
+
+
+<!ENTITY simulator_device "Gléas">
+
+

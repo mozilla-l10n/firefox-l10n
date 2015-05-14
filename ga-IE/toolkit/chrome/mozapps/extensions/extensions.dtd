@@ -22,6 +22,8 @@
 
 <!ENTITY cmd.back.tooltip                     "Leathanach amháin siar">
 <!ENTITY cmd.forward.tooltip                  "Leathanach amháin ar aghaidh">
+
+
 <!-- global warnings -->
 
 <!ENTITY warning.safemode.label                    "Tá gach Breiseán díchumasaithe sa Mhód Sábháilteachta.">
@@ -102,7 +104,8 @@
 <!ENTITY cmd.installAddon.accesskey           "S">
 <!ENTITY cmd.uninstallAddon.label             "Bain">
 <!ENTITY cmd.uninstallAddon.accesskey         "B">
-<!ENTITY cmd.debugAddon.label                 "Dífhabhtaigh">
+
+
 <!ENTITY cmd.showPreferencesWin.label         "Roghanna">
 <!ENTITY cmd.showPreferencesWin.tooltip       "Athraigh roghanna an bhreiseáin seo">
 <!ENTITY cmd.showPreferencesUnix.label        "Sainroghanna">
@@ -229,3 +232,15 @@ na breiseáin is fearr agus is mó éilimh orthu sa phána seo.">
 <!ENTITY experiment.info.changetelemetry.accesskey "T">
 
 <!ENTITY setting.learnmore "Tuilleadh Eolais…">
+
+<!-- LOCALIZATION NOTE (disabledUnsigned.description.start, disabledUnsigned.description.findAddonsLink, disabledUnsigned.description.end):
+     These entities form a sentence, with
+     disabledUnsigned.description.findAddonsLink being a link to an external site. -->
+
+
+
+<!-- LOCALIZATION NOTE (disabledUnsigned.devInfo.start, disabledUnsigned.devInfo.linkToManual, disabledUnsigned.devInfo.end):
+     These entities form a sentence, with disabledUnsigned.devInfo.linkToManual
+     being a link to an external site. -->
+
+
