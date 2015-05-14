@@ -115,7 +115,7 @@
 <!ENTITY prefs_title "Preferencias">
 <!ENTITY prefs_editor_title "Editor">
 <!ENTITY prefs_general_title "General">
-<!ENTITY prefs_restore "Restaurar los valores predeterminados">
+
 <!ENTITY prefs_manage_components "Administrar los componentes extras">
 <!ENTITY prefs_options_autoconnectruntime "Reconectar al entorno de ejecución anterior">
 <!ENTITY prefs_options_autoconnectruntime_tooltip "Reconectar al entorno de ejecución anterior cuando se inicie WebIDE">
@@ -139,7 +139,7 @@
 <!-- Permissions Table -->
 
 <!ENTITY permissionstable_title "Tabla de permisos">
-<!ENTITY permissionstable_name_header "Nombre">
+
 <!-- Runtime Details -->
 
 <!ENTITY runtimedetails_title "Información de tiempo de ejecución">
@@ -191,3 +191,14 @@
 <!-- Logs panel -->
 
 <!ENTITY logs_title "Registros de órdenes previos al empaquetado">
+<!-- Simulator Options -->
+
+
+
+
+<!ENTITY simulator_version "Versión">
+
+
+<!ENTITY simulator_device "Dispositivo">
+
+

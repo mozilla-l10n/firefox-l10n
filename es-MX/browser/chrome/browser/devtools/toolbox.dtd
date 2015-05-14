@@ -7,6 +7,9 @@
 
 <!ENTITY closeCmd.key  "W">
 
+<!ENTITY toggleToolboxF12.keycode          "VK_F12">
+<!ENTITY toggleToolboxF12.keytext          "F12">
+
 <!ENTITY toolboxCloseButton.tooltip    "Cerrar herramientas para desarrolladores">
 <!ENTITY toolboxOptionsButton.key      "O">
 <!ENTITY toolboxNextTool.key           "]">
@@ -97,12 +100,10 @@
 
 <!ENTITY options.disableCache.label2     "Desactivar caché (cuando la caja de herramientas está abierta)">
 <!ENTITY options.disableCache.tooltip2   "Activar esta opción desactivará el caché en todas las pestañas que tengan abierta la caja de herramientas.">
-<!-- LOCALIZATION NOTE (options.enableServiceWorkersTesting.label,
-  -  options.enableServiceWorkersTesting.tooltip): This is the options panel label and
-  -  tooltip for the checkbox that toggles the service workers testing features on or off. -->
+<!-- LOCALIZATION NOTE (options.enableServiceWorkersHTTP.label,
+  -  options.enableServiceWorkersHTTP.tooltip): This is the options panel label and
+  -  tooltip for the checkbox that toggles the service workers testing features on or off. This option enables service workers over HTTP. -->
 
-<!ENTITY options.enableServiceWorkersTesting.label     "Habilitar las características de pruebas del Servicio de Trabajadores (cuando la caja de herramientas esté abierta)">
-<!ENTITY options.enableServiceWorkersTesting.tooltip   "Activar esta opción habilitará las características de prueba del servicio de trabajadores para todas las pestañas que tengan la caja de herramientas abierta.">
 <!-- LOCALIZATION NOTE (options.selectDefaultTools.label): This is the label for
   -  the heading of group of checkboxes corresponding to the default developer
   -  tools. -->

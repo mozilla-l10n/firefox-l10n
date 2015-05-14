@@ -74,13 +74,8 @@
 <!ENTITY updateTab.label                 "Actualizar">
 
 <!ENTITY updateApp.label                 "Actualizaciones de &brandShortName; :">
-<!-- Note either updateAuto1 is used or (updateAutoMetro and updateAutoDesktop),
-     so re-using accesss key in updateAuto1 is OK. updateAutoDesktop can be found
-     in preferences.properties -->
 <!ENTITY updateAuto1.label               "Instalar actualizaciones automáticamente (recomendado: mejora la seguridad)">
 <!ENTITY updateAuto1.accesskey           "a">
-<!ENTITY updateAutoMetro.label           "Actualizar automáticamente desde &brandShortName; de escritorio y del estilo Windows 8">
-<!ENTITY updateAutoMetro.accesskey       "u">
 <!ENTITY updateCheck.label               "Comprobar si hay actualizaciones, pero permitirme elegir si serán instaladas">
 <!ENTITY updateCheck.accesskey           "C">
 <!ENTITY updateManual.label              "No buscar actualizaciones (no recomendado: riesgo de seguridad)">
@@ -88,8 +83,6 @@
 
 <!ENTITY updateAutoAddonWarn.label       "Avisarme si esto deshabilitará cualquiera de mis complementos">
 <!ENTITY updateAutoAddonWarn.accesskey   "A">
-
-<!ENTITY updateAutoMetroWarn.label       "(Windows 8 estilo &brandShortName; no puede revisar la compatibilidad de los complementos)">
 
 <!ENTITY updateHistory.label             "Mostrar historial de actualizaciones">
 <!ENTITY updateHistory.accesskey         "M">
