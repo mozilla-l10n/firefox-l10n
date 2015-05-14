@@ -4,6 +4,10 @@
 <!-- These strings are used in the about:newtab page -->
 
 <!ENTITY newtab.pageTitle "Nueva pestaña">
+
+
+
+
 <!ENTITY newtab.customize.title "Personaliza tu página de Nueva pestaña">
 
 
