@@ -76,7 +76,7 @@
 <!ENTITY malwareBlocked.longDesc "<p>Mae gwefannau ymosod yn ceisio gosod rhaglenni sy'n dwyn data personol defnyddio eich cyfrifiadur i ymosod ar eraill neu'n difrodi eich system.</p> 
 <p>Gall perchnogion gwefannau sy'n teimlo fod eu gwefan wedi eu pardduo ar gam wneud cais am <a href='http://www.stopbadware.org/home/reviewinfo' >adolygiad</a>.</p>">
 
-<!ENTITY unwantedBlocked.title "Amheuaeth o Wefan Meddalwedd Digroeso!">
+<!ENTITY unwantedBlocked.title "Gwefan Meddalwedd Digroeso Tybiedig!">
 <!ENTITY unwantedBlocked.longDesc "<p>Mae tudalennau meddalwedd digroeso yn ceisio gosod meddalwedd all fod yn dwyllodrus ac effeithio ar eich system mewn ffyrdd annisgwyl.</p>">
 
 <!ENTITY phishingBlocked.title "Ffugiad Gwe Hysbys!">

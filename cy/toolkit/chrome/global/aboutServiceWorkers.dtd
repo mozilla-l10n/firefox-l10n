@@ -7,4 +7,6 @@
 <!-- LOCALIZATION NOTE the term "Service Workers" should not be translated. -->
 <!ENTITY aboutServiceWorkers.maintitle                 "Service Workers Cofrestredig">
 <!-- LOCALIZATION NOTE the term "Service Workers" should not be translated. -->
+<!ENTITY aboutServiceWorkers.warning_not_enabled       "Nid yw Service Workers wedi eu galluogi.">
 <!-- LOCALIZATION NOTE the term "Service Workers" should not be translated. -->
+<!ENTITY aboutServiceWorkers.warning_no_serviceworkers "Does dim Service Workers wedi eu cofrestru.">
