@@ -115,7 +115,7 @@
 <!ENTITY prefs_title "Nastajenja">
 <!ENTITY prefs_editor_title "Editor">
 <!ENTITY prefs_general_title "Powšitkowne">
-
+<!ENTITY prefs_restore "Standard wobnowić">
 <!ENTITY prefs_manage_components "Ekstrakomponenty zrjadować">
 <!ENTITY prefs_options_autoconnectruntime "Z předchadnym běžnym časom znowa zwjazać">
 <!ENTITY prefs_options_autoconnectruntime_tooltip "Z předchadnym běžnym časom znowa zwjazać, hdyž WebIDE startuje">
@@ -139,7 +139,7 @@
 <!-- Permissions Table -->
 
 <!ENTITY permissionstable_title "Tabela prawow">
-
+<!ENTITY permissionstable_name_header "Mjeno">
 <!-- Runtime Details -->
 
 <!ENTITY runtimedetails_title "Informacije běžneho časa">
@@ -197,12 +197,14 @@
 <!ENTITY logs_title "Přikazowe protokole za předpakowanje">
 <!-- Simulator Options -->
 
-
-
-
+<!ENTITY simulator_title "Simulatorowe nastajenja">
+<!ENTITY simulator_remove "Simulator zhašeć">
+<!ENTITY simulator_reset "Standard wobnowić">
+<!ENTITY simulator_name "Mjeno">
+<!ENTITY simulator_software "Softwara">
 <!ENTITY simulator_version "Wersija">
-
-
+<!ENTITY simulator_profile "Analyza běžneho časa">
+<!ENTITY simulator_hardware "Hardwara">
 <!ENTITY simulator_device "Grat">
-
-
+<!ENTITY simulator_screenSize "Wobrazowka">
+<!ENTITY simulator_pixelRatio "Pikselowy poměr">
