@@ -31,7 +31,7 @@
 <!ENTITY return.label                      "Não dar mais do que">
 <!ENTITY return.accesskey                  "r">
 <!ENTITY results.label                     "resultados">
-<!ENTITY offlineText.label                 "Pode transferir uma cópia deste diretório para que esteja disponível quando está desligado.">
+<!ENTITY offlineText.label                 "Pode transferir uma cópia deste diretório para que esteja disponível no modo offline.">
 <!ENTITY saslMechanism.label               "Método de início de sessão: ">
 <!ENTITY saslMechanism.accesskey           "M">
 <!ENTITY saslOff.label                     "Simples">

@@ -30,7 +30,7 @@
 <!ENTITY advance.label "Avançado">
 <!ENTITY down.label "Transferir">
 <!ENTITY cache.label "Cache">
-<!ENTITY offlineApps.label "Aplicações no modo desligado">
+<!ENTITY offlineApps.label "Aplicações offline">
 <!ENTITY proxies.label "Proxies">
 <!ENTITY httpnetworking.label "Rde HTTP">
 <!ENTITY smart.label "Instalação de Software">
