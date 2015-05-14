@@ -6,8 +6,8 @@
 <!ENTITY  no_space_to_start_error "No hay suficiente espacio para que &brandShortName; pueda iniciarse.">
 <!ENTITY  error_loading_file "Ocurrió un error mientras se intentaba cargar los archivos para usar &brandShortName;">
 
-<!ENTITY  onboard_start_message2 "Bienvenido a &brandShortName;">
-<!ENTITY  onboard_start_subtext2 "Más características de privacidad y maneras de personalizar que antes.">
+<!ENTITY  onboard_start_message3 "Navegar con &brandShortName;">
+<!ENTITY  onboard_start_subtext3 "Haz que la experiencia de navegación Web en tu teléfono sea verdaderamente tuya.">
 <!ENTITY  onboard_start_button_account "Iniciar sesión con &brandShortName;">
 <!ENTITY  onboard_start_button_browser "Comenzar a navegar">
 <!-- Localization note: These are used as the titles of different pages on the home screen.
@@ -114,7 +114,6 @@
 
 <!ENTITY overlay_share_send_tab_btn_label "Enviar a otro dispositivo">
 <!ENTITY overlay_share_no_url "No se ha encontrado el enlace para esta compartición">
-<!ENTITY overlay_share_retry "Intentar de nuevo">
 <!ENTITY overlay_share_select_device "Seleccionar dispositivo">
 <!-- Localization note (overlay_no_synced_devices) : Used when the menu option
      to send a tab to a synced device is pressed and no other synced devices
@@ -150,8 +149,6 @@
      it is applicable. -->
 <!ENTITY pref_search_hint "Consejo: Agrega cualquier sitio web a tu lista de proveedores de búsqueda haciendo pulsación larga en su campo de búsqueda y tocando despúes el icono &formatI;. ">
 <!ENTITY pref_category_devtools "Herramientas de desarrollador">
-<!ENTITY pref_category_devtools_summary "Depuración remota, parpadear dibujado">
-<!ENTITY pref_developer_paint_flashing "Resaltador de pintado">
 <!ENTITY pref_developer_remotedebugging "Depuración remota">
 <!ENTITY pref_category_logins "Inicios de sesión">
 <!ENTITY pref_remember_signons "Recordar contraseñas">
@@ -192,22 +189,22 @@
 <!ENTITY pref_donottrack_title "No rastrear">
 <!ENTITY pref_donottrack_summary "&brandShortName; le dirá a los sitios que no quiero ser rastreado">
 
-<!ENTITY tab_queue_toast_message "Abrir después">
+<!ENTITY tab_queue_toast_message2 "Pestaña enfilada en &brandShortName;">
 <!ENTITY tab_queue_toast_action "Abrir ahora">
-<!-- Localization note (tab_queue_notification_text_plural) : The
+<!ENTITY tab_queue_prompt_title "¿Abrir múltiples enlaces?">
+<!ENTITY tab_queue_prompt_text2 "Abrir sin cambiar a &brandShortName; cada vez.">
+<!ENTITY tab_queue_prompt_tip_text "puedes cambiar esto después en Configuraciones">
+<!ENTITY tab_queue_prompt_positive_action_button "Habilitar">
+<!ENTITY tab_queue_prompt_negative_action_button "Ahora no">
+<!ENTITY tab_queue_notification_title "&brandShortName;">
+<!-- Localization note (tab_queue_notification_text_plural2) : The
      formatD is replaced with the number of tabs queued.  The
      number of tabs queued is always more than one.  We can't use
      Android plural forms, sadly. See Bug #753859. -->
-<!ENTITY tab_queue_notification_text_plural "&formatD; pestañas en fila">
-<!-- Localization note (tab_queue_notification_title_plural) : This is the
-     title of a notification; we expect more than one tab queued. -->
-<!ENTITY tab_queue_notification_title_plural "Pestañas en fila">
-<!-- Localization note (tab_queue_notification_title_singular) : This is the
-     title of a notification; we expect only one tab queued. -->
-<!ENTITY tab_queue_notification_title_singular "Pestañas enfilada">
-<!-- Localization note (tab_queue_notification_text_singular) : This is the
+<!ENTITY tab_queue_notification_text_plural2 "pestañas esperando &formatD;">
+<!-- Localization note (tab_queue_notification_text_singular2) : This is the
      text of a notification; we expect only one tab queued. -->
-<!ENTITY tab_queue_notification_text_singular "1 pestañas enfilada">
+<!ENTITY tab_queue_notification_text_singular2 "1 pestaña esperando">
 
 <!ENTITY pref_char_encoding "Character encoding">
 <!ENTITY pref_char_encoding_on "Show menu">
@@ -255,7 +252,8 @@ size. -->
 <!ENTITY pref_import_android "Import from Android">
 <!ENTITY pref_import_android_summary "Importa los marcadores e historial del navegador nativo">
 <!ENTITY pref_private_data_history2 "Historial de navegación">
-<!ENTITY pref_private_data_formdata "Historial de formularios y búsquedas">
+<!ENTITY pref_private_data_searchHistory "Historial de búsqueda">
+<!ENTITY pref_private_data_formdata2 "Historial de formularios">
 <!ENTITY pref_private_data_cookies2 "Cookies y sesiones activas">
 <!ENTITY pref_private_data_passwords "Saved passwords">
 <!ENTITY pref_private_data_cache "Cache">
@@ -380,6 +378,7 @@ size. -->
 <!ENTITY doorhanger_login_edit_username_hint "Nombre de usuario">
 <!ENTITY doorhanger_login_edit_password_hint "Contraseña">
 <!ENTITY doorhanger_login_edit_toggle "Mostrar contraseña">
+<!ENTITY doorhanger_login_edit_toast_error "No se pudo guardar el inicio de sesión">
 
 <!ENTITY pref_titlebar_mode "Barra de título">
 <!ENTITY pref_titlebar_mode_title "Mostrar título de la página">
@@ -390,8 +389,8 @@ size. -->
 <!ENTITY pref_scroll_title_bar2 "Navegación en pantalla completa">
 <!ENTITY pref_scroll_title_bar_summary "Esconder la barra de título de &brandShortName; al bajar en una página">
 
-<!ENTITY pref_tab_queue_title "Abrir después">
-<!ENTITY pref_tab_queue_summary "Evitar que las pestañas se abran inmediatamente, pero abrirlas en fila la siguiente vez que &brandShortName; inicie.">
+<!ENTITY pref_tab_queue_title2 "Abrir múltiples enlaces">
+<!ENTITY pref_tab_queue_summary2 "Poner en fila los enlaces para después evitar cambiar a &brandShortName; en cada momento">
 <!-- Localization note (page_removed): This string appears in a toast message when
      any page is removed frome about:home. This includes pages that are in history,
      bookmarks, or reading list. -->
@@ -440,6 +439,8 @@ size. -->
 <!ENTITY button_set "Establecer">
 <!ENTITY button_clear "Limpiar">
 <!ENTITY button_remember "Remember">
+
+<!ENTITY firstrun_panel_title_welcome "Bienvenido">
 
 <!ENTITY home_top_sites_title "Sitios frecuentes">
 <!-- Localization note (home_top_sites_add): This string is used as placeholder
@@ -612,6 +613,14 @@ desde Android">
 <!ENTITY ellipsis "…">
 
 <!ENTITY colon ":">
+<!-- LOCALIZATION NOTE (percent): The percent sign is appended after a number to
+     display a percentage value. formatS is the number, #37 is the code to display a percent sign.
+     This format string is typically used by getString method, in such method the percent sign
+     is a reserved caracter. In order to display one percent sign in the result of getString,
+     double percent signs must be inserted in the format string.
+     This entity is used in the zoomed view to display the zoom factor-->
+
+<!ENTITY percent "&formatS;&#037;&#037;">
 <!-- These are only used for accessibility for the done and overflow-menu buttons in the actionbar.
      They are never shown to users -->
 
@@ -623,7 +632,7 @@ desde Android">
 <!ENTITY voicesearch_failed_title "Búsqueda por voz &brandShortName;">
 <!ENTITY voicesearch_failed_message "Tenemos problema con la búsqueda por voz en estos momentos. Por favor, intenta más tarde.">
 <!ENTITY voicesearch_failed_message_recoverable "¡Lo sentimos! No podemos reconocer tus palabras. Por favor, intenta de nuevo.">
-<!ENTITY voicesearch_failed_retry "Intentar de nuevo">
+<!ENTITY voicesearch_failed_retry "Intenta de nuevo">
 <!-- Localization note (remote_tabs_last_synced): the variable is replaced by a
      "relative time span string" produced by Android.  This string describes the
      time the tabs were last synced relative to the current time; examples
