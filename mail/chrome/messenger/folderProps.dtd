@@ -39,12 +39,12 @@
 <!ENTITY folderCheckForNewMessages2.label         "Ao receber novas mensagens nesta conta, analisar sempre esta pasta">
 <!ENTITY folderCheckForNewMessages2.accesskey     "n">
 
-<!ENTITY offlineFolder.check.label               "Selecionar esta pasta para utilizar no modo desligado">
+<!ENTITY offlineFolder.check.label               "Selecionar esta pasta para utilização offline">
 <!ENTITY offlineFolder.check.accesskey           "S">
 <!ENTITY offlineFolder.button.label              "Transferir agora">
 <!ENTITY offlineFolder.button.accesskey          "T">
 
-<!ENTITY selectofflineNewsgroup.check.label      "Selecionar este grupo de notícias para utilizar no modo desligado">
+<!ENTITY selectofflineNewsgroup.check.label      "Selecionar este grupo de notícias para utilização offline">
 <!ENTITY selectofflineNewsgroup.check.accesskey  "o">
 <!ENTITY offlineNewsgroup.button.label           "Transferir agora">
 <!ENTITY offlineNewsgroup.button.accesskey       "T">

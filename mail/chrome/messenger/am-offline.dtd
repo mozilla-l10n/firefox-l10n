@@ -3,8 +3,8 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY doNotDownloadPop3Movemail.label "Para poupar espaço em disco, não transferir:">
-<!ENTITY doNotDownloadNntp.label "Para poupar espaço em disco, não transferir no modo desligado:">
-<!ENTITY doNotDownloadImap.label "Para economizar espaço em disco, a transferência e manutenção de cópias locais de mensagens do servidor pode ser restringida por idade ou tamanho.">
+<!ENTITY doNotDownloadNntp.label "Para poupar espaço em disco, não transferir para utilização offline:">
+<!ENTITY doNotDownloadImap.label "Para poupar espaço em disco, a transferência e manutenção de cópias locais de mensagens do servidor pode ser restringida por idade ou tamanho.">
 <!ENTITY allFoldersOffline.label "Manter mensagens desta conta no computador">
 <!ENTITY allFoldersOffline.accesskey "o">
 <!ENTITY offlineNotDownload.label "Mensagens superiores a">
@@ -33,7 +33,7 @@
 <!ENTITY retentionApplyToFlagged.accesskey "e">
 <!ENTITY nntpRemoveMsgBody.label "Remover corpo das mensagens maiores que">
 <!ENTITY nntpRemoveMsgBody.accesskey "p">
-<!ENTITY offlineSelectNntp.label "Selecione os grupos de notícias a utilizar no modo desligado...">
+<!ENTITY offlineSelectNntp.label "Selecionar grupos de notícias para utilização offline...">
 <!ENTITY offlineSelectNntp.accesskey "S">
 <!ENTITY offlineImapAdvancedOffline.label "Avançado…">
 <!ENTITY offlineImapAdvancedOffline.accesskey "A">

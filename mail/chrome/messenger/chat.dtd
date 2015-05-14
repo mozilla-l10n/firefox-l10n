@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY onlineContactsHeader.label    "Contactos ligados">
-<!ENTITY offlineContactsHeader.label   "Contactos desligados">
+<!ENTITY offlineContactsHeader.label   "Contactos offline">
 <!ENTITY conversationsHeader.label     "Conversas">
 <!ENTITY searchResultConversation.label "Resultado da procura">
 <!ENTITY chat.noConv.title             "As conversas serão mostradas aqui.">
@@ -38,7 +38,7 @@
 
 <!ENTITY status.available          "Disponível">
 <!ENTITY status.unavailable        "Indisponível">
-<!ENTITY status.offline            "Desligado">
+<!ENTITY status.offline            "Offline">
 
 <!ENTITY openLinkCmd.label            "Abrir ligação…">
 <!ENTITY openLinkCmd.accesskey        "A">

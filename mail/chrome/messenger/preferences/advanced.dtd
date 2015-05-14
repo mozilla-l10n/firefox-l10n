@@ -99,10 +99,10 @@
 <!ENTITY showSettings.accesskey        "s">
 <!ENTITY proxiesConfigure.label        "Configure o modo de ligãção do &brandShortName; à Internet.">
 <!ENTITY connectionsInfo.caption       "Ligação">
-<!ENTITY offlineInfo.caption           "Modo desligado">
-<!ENTITY offlineInfo.label             "Configurar o modo desligado">
-<!ENTITY showOffline.label             "Desligado...">
-<!ENTITY showOffline.accesskey         "D">
+<!ENTITY offlineInfo.caption           "Offline">
+<!ENTITY offlineInfo.label             "Configurar o modo offline">
+<!ENTITY showOffline.label             "Offline...">
+<!ENTITY showOffline.accesskey         "O">
 
 <!ENTITY Diskspace                       "Espaço em disco">
 <!ENTITY offlineCompactFolders.label     "Compactar todas as pastas quando se puder libertar pelo menos">
