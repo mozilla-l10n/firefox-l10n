@@ -105,7 +105,7 @@
   -  tooltip for the checkbox that toggles the service workers testing features on or off. This option enables service workers over HTTP. -->
 
 <!ENTITY options.enableServiceWorkersHTTP.label     "Ativar Service Workers sobre HTTP (se a caixa de ferramentas estiver aberta)">
-
+<!ENTITY options.enableServiceWorkersHTTP.tooltip   "Ao ativar esta opção, serão ativados os service workers sob HTTP em todos os separadores que tenham a caixa de ferramentas aberta.">
 <!-- LOCALIZATION NOTE (options.selectDefaultTools.label): This is the label for
   -  the heading of group of checkboxes corresponding to the default developer
   -  tools. -->

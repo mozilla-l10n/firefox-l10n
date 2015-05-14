@@ -4,7 +4,7 @@
 
 <!ENTITY defaultSearchEngine.label             "Motor de pesquisa pré-definido">
 
-<!ENTITY chooseYourDefaultSearchEngine.label   "Escolha o seu motor de pesquisa  pré-definido. O &brandShortName; usa-o na barra de localização, barra de pesquisa e página inicial.">
+<!ENTITY chooseYourDefaultSearchEngine.label   "Escolha o seu motor de pesquisa predefinido. O &brandShortName; utiliza o mesmo na barra de localização, barra de pesquisa e página inicial.">
 
 <!ENTITY provideSearchSuggestions.label        "Fornecer sugestões de pesquisa">
 <!ENTITY provideSearchSuggestions.accesskey    "s">
