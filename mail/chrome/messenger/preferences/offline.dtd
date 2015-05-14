@@ -16,7 +16,7 @@
 <!ENTITY radioAlwaysOffline.label "Desligado">
 <!ENTITY radioAlwaysOffline.accesskey "g">
 
-<!ENTITY textGoingOnline "Enviar mensagens não enviadas ao ligar?">
+<!ENTITY textGoingOnline "Enviar mensagens não enviadas ao ficar online?">
 <!ENTITY radioAutoSend.label "Sim">
 <!ENTITY radioAutoSend.accesskey "S">
 <!ENTITY radioNotSend.label "Não">
