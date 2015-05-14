@@ -10,7 +10,7 @@
 <!ENTITY device.debugMainProcess "Depurar processo principal">
 <!ENTITY device.debugMainProcessTooltip "Abrir as ferramentas do desenvolvedor ligado ao processo principal no dispositivo">
 <!ENTITY device.screenshot "Captura de ecrã">
-<!ENTITY device.screenshotTooltip "Mostra a captura de ecrã do atual estado do dispositivo num novo separador.">
+<!ENTITY device.screenshotTooltip "Mostra a captura de ecrã do atual estado do dispositivo num novo separador">
 <!ENTITY device.title "Centro de controlo do dispositivo">
 <!ENTITY device.notConnected "Não ligado. Por favor ligue o seu dispositivo em baixo.">
 <!ENTITY device.startApp "Iniciar">

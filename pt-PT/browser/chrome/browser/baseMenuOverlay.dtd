@@ -25,7 +25,7 @@
 
 <!ENTITY helpSafeMode.label       "Reiniciar com os extras desativados…">
 <!ENTITY helpSafeMode.accesskey   "R">
-<!ENTITY helpSafeMode.stop.label       "Reiniciar com os extras ativados…">
+<!ENTITY helpSafeMode.stop.label       "Reiniciar com os extras ativado">
 <!ENTITY helpSafeMode.stop.accesskey   "R">
 
 <!ENTITY healthReport2.label      "Relatório de estado do &brandShorterName;">
@@ -40,7 +40,7 @@
 <!ENTITY helpShowTour2.label            "Visita ao &brandShorterName;">
 <!ENTITY helpShowTour2.accesskey        "o">
 
-<!ENTITY preferencesCmdMac.label        "Preferências...">
+<!ENTITY preferencesCmdMac.label        "Preferências…">
 <!ENTITY preferencesCmdMac.commandkey   ",">
 
 <!ENTITY servicesMenuMac.label          "Serviços">

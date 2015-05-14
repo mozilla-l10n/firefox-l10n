@@ -16,7 +16,7 @@
 <!ENTITY mainWindow.titlePrivateBrowsingSuffix "(Navegação privada)">
 
 <!ENTITY appmenu.tooltip                     "Abrir menu">
-<!ENTITY navbarOverflow.label                "Mais ferramentas">
+<!ENTITY navbarOverflow.label                "Mais ferramentas…">
 <!-- Tab context menu -->
 
 <!ENTITY  reloadTab.label                    "Recarregar separador">
@@ -45,7 +45,7 @@ can reach it easily. -->
 <!ENTITY  moveToNewGroup.label               "Novo grupo">
 <!ENTITY  moveToNewWindow.label              "Mover para nova janela">
 <!ENTITY  moveToNewWindow.accesskey          "j">
-<!ENTITY  bookmarkAllTabs.label              "Criar marcadores para todos os separadores">
+<!ENTITY  bookmarkAllTabs.label              "Criar marcadores para todos os separadores…">
 <!ENTITY  bookmarkAllTabs.accesskey          "t">
 <!ENTITY  undoCloseTab.label                 "Anular fecho de separador">
 <!ENTITY  undoCloseTab.accesskey             "a">
@@ -61,14 +61,14 @@ can reach it easily. -->
 displayed on OS X, and only on windows that aren't main browser windows, or
 when there are no windows but Firefox is still running. -->
 <!ENTITY openLocationCmd.label "Abrir localização…">
-<!ENTITY openFileCmd.label "Abrir ficheiro...">
+<!ENTITY openFileCmd.label "Abrir ficheiro…">
 <!ENTITY openFileCmd.accesskey "A">
 <!ENTITY openFileCmd.commandkey "o">
-<!ENTITY printSetupCmd.label "Configurar página...">
+<!ENTITY printSetupCmd.label "Configurar página…">
 <!ENTITY printSetupCmd.accesskey "C">
 <!ENTITY printPreviewCmd.label "Pré-visualizar impressão">
 <!ENTITY printPreviewCmd.accesskey "v">
-<!ENTITY printCmd.label "Imprimir...">
+<!ENTITY printCmd.label "Imprimir…">
 <!ENTITY printCmd.accesskey "p">
 <!ENTITY printCmd.commandkey "p">
 
@@ -160,8 +160,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY shareVideo.accesskey "s">
 <!ENTITY feedsMenu.label "Subscrever">
 <!ENTITY subscribeToPageMenupopup.label "Subscrever esta página">
-<!ENTITY subscribeToPageMenuitem.label "Subscrever esta página...">
-<!ENTITY addCurPagesCmd.label "Criar marcadores de todos os separadores">
+<!ENTITY subscribeToPageMenuitem.label "Subscrever esta página…">
+<!ENTITY addCurPagesCmd.label "Criar marcadores de todos os separadores…">
 <!ENTITY showAllBookmarks2.label "Mostrar todos os marcadores">
 <!ENTITY unsortedBookmarksCmd.label "Marcadores desorganizados">
 <!ENTITY bookmarksToolbarChevron.tooltip "Mostrar mais marcadores">
@@ -209,7 +209,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY toolsMenu.label              "Ferramentas">
 <!ENTITY toolsMenu.accesskey          "t"> 
 
-<!ENTITY keywordfield.label           "Adicione uma palavra-chave para esta procura...">
+<!ENTITY keywordfield.label           "Adicionar palavra-chave para esta pesquisa…">
 <!ENTITY keywordfield.accesskey       "A">
 
 <!ENTITY downloads.label              "Transferências">
@@ -228,7 +228,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY devToolsCmd.keycode          "VK_F12">
 <!ENTITY devToolsCmd.keytext          "F12">
 
-<!ENTITY devtoolsConnect.label        "Ligar...">
+<!ENTITY devtoolsConnect.label        "Ligar…">
 <!ENTITY devtoolsConnect.accesskey    "g">
 
 <!ENTITY errorConsoleCmd.label        "Consola de erros">
@@ -333,7 +333,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY preferencesCmdUnix.label       "Preferências">
 <!ENTITY preferencesCmdUnix.accesskey     "f"> 
 
-<!ENTITY clearRecentHistory.label               "Limpar histórico recente">
+<!ENTITY clearRecentHistory.label               "Limpar histórico recente…">
 
 <!ENTITY privateBrowsingCmd.commandkey          "P">
 
@@ -345,7 +345,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewToolbarsMenu.accesskey     "t"> 
 <!ENTITY viewSidebarMenu.label "Barra lateral">
 <!ENTITY viewSidebarMenu.accesskey "l">
-<!ENTITY viewCustomizeToolbar.label       "Personalizar"> 
+<!ENTITY viewCustomizeToolbar.label       "Personalizar…"> 
 <!ENTITY viewCustomizeToolbar.accesskey     "P">
 
 <!ENTITY historyMenu.label "Histórico">
@@ -364,7 +364,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuCustomizeExit.tooltip "Terminar personalização">
 <!ENTITY appMenuHistory.label "Histórico">
 <!ENTITY appMenuHistory.showAll.label "Mostrar todo o histórico">
-<!ENTITY appMenuHistory.clearRecent.label "Limpar histórico recente">
+<!ENTITY appMenuHistory.clearRecent.label "Limpar histórico recente…">
 <!ENTITY appMenuHistory.restoreSession.label "Restaurar sessão anterior">
 <!ENTITY appMenuHistory.viewSidebar.label "Ver barra lateral do histórico">
 <!ENTITY appMenuHelp.tooltip "Abrir menu de ajuda">
@@ -386,7 +386,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY customizeMenu.removeFromToolbar.accesskey "R">
 <!ENTITY customizeMenu.removeFromMenu.label "Remover do menu">
 <!ENTITY customizeMenu.removeFromMenu.accesskey "R">
-<!ENTITY customizeMenu.addMoreItems.label "Adicionar mais itens">
+<!ENTITY customizeMenu.addMoreItems.label "Adicionar mais itens…">
 <!ENTITY customizeMenu.addMoreItems.accesskey "A">
 
 <!ENTITY openCmd.commandkey           "l">
@@ -487,39 +487,39 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewVideoCmd.accesskey       "e">
 <!ENTITY viewBGImageCmd.label         "Ver imagem de fundo">
 <!ENTITY viewBGImageCmd.accesskey     "m">
-<!ENTITY setDesktopBackgroundCmd.label      "Definir como fundo do ambiente de trabalho...">
+<!ENTITY setDesktopBackgroundCmd.label      "Definir como fundo do ambiente de trabalho…">
 <!ENTITY setDesktopBackgroundCmd.accesskey  "e">
 <!ENTITY bookmarkPageCmd2.label       "Criar marcador desta página">
 <!ENTITY bookmarkThisLinkCmd.label      "Criar marcador para esta ligação">
 <!ENTITY bookmarkThisLinkCmd.accesskey  "l">
 <!ENTITY bookmarkThisFrameCmd.label      "Criar marcador para esta moldura">
 <!ENTITY bookmarkThisFrameCmd.accesskey  "m">
-<!ENTITY emailPageCmd.label           "Enviar ligação">
+<!ENTITY emailPageCmd.label           "Enviar ligação…">
 <!ENTITY emailPageCmd.accesskey       "E">
-<!ENTITY savePageCmd.label            "Guardar página como...">
-<!ENTITY savePageCmd.accesskey        "G">
+<!ENTITY savePageCmd.label            "Guardar página como…">
+<!ENTITY savePageCmd.accesskey        "a">
 <!-- alternate for content area context menu -->
 <!ENTITY savePageCmd.accesskey2       "P">
 <!ENTITY savePageCmd.commandkey       "s">
-<!ENTITY saveFrameCmd.label           "Guardar moldura como...">
+<!ENTITY saveFrameCmd.label           "Guardar moldura como…">
 <!ENTITY saveFrameCmd.accesskey       "m">
-<!ENTITY printFrameCmd.label          "Imprimir moldura...">
+<!ENTITY printFrameCmd.label          "Imprimir moldura…">
 <!ENTITY printFrameCmd.accesskey      "p">
-<!ENTITY saveLinkCmd.label            "Guardar ligação como...">
+<!ENTITY saveLinkCmd.label            "Guardar ligação como…">
 <!ENTITY saveLinkCmd.accesskey        "l">
-<!ENTITY saveImageCmd.label           "Guardar imagem como...">
+<!ENTITY saveImageCmd.label           "Guardar imagem como…">
 <!ENTITY saveImageCmd.accesskey       "g">
-<!ENTITY saveVideoCmd.label           "Guardar vídeo como...">
-<!ENTITY saveVideoCmd.accesskey       "G">
-<!ENTITY saveAudioCmd.label           "Guardar áudio como...">
+<!ENTITY saveVideoCmd.label           "Guardar vídeo como…">
+<!ENTITY saveVideoCmd.accesskey       "v">
+<!ENTITY saveAudioCmd.label           "Guardar áudio como…">
 <!ENTITY saveAudioCmd.accesskey       "G">
-<!ENTITY emailImageCmd.label          "Enviar imagem...">
+<!ENTITY emailImageCmd.label          "Enviar imagem…">
 <!ENTITY emailImageCmd.accesskey      "n">
-<!ENTITY emailVideoCmd.label          "Enviar vídeo...">
+<!ENTITY emailVideoCmd.label          "Enviar vídeo…">
 <!ENTITY emailVideoCmd.accesskey      "a">
 <!ENTITY castVideoCmd.label           "Enviar vídeo para o dispositivo">
 <!ENTITY castVideoCmd.accesskey       "e">
-<!ENTITY emailAudioCmd.label          "Enviar áudio...">
+<!ENTITY emailAudioCmd.label          "Enviar áudio…">
 <!ENTITY emailAudioCmd.accesskey      "a">
 <!ENTITY playPluginCmd.label          "Ativar este plugin">
 <!ENTITY playPluginCmd.accesskey      "t">
@@ -577,7 +577,7 @@ items are mutually exclusive. -->
 <!ENTITY mediaHideControls.accesskey "c">
 <!ENTITY videoFullScreen.label       "Ecrã completo">
 <!ENTITY videoFullScreen.accesskey   "E">
-<!ENTITY videoSaveImage.label        "Guardar captura como...">
+<!ENTITY videoSaveImage.label        "Guardar captura como…">
 <!ENTITY videoSaveImage.accesskey    "G">
 <!-- LOCALIZATION NOTE: The access keys for "Show Statistics" and
 "Hide Statistics" are the same because the two context-menu
@@ -645,8 +645,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- On Windows we use the term "Options" to describe settings, but
      on Linux and Mac OS X we use "Preferences" - carry that distinction
      over into this string, which is used in the "popup blocked" info bar . -->
-<!ENTITY editPopupSettingsUnix.label "Editar preferências do bloqueador de janelas...">
-<!ENTITY editPopupSettings.label "Editar opções do bloqueador de janelas...">
+<!ENTITY editPopupSettingsUnix.label "Editar preferências do bloqueador de janelas…">
+<!ENTITY editPopupSettings.label "Editar opções do bloqueador de janelas…">
 <!ENTITY editPopupSettings.accesskey "E">
 <!ENTITY dontShowMessage.accesskey "D">
 
@@ -665,7 +665,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY findAgainCmd.commandkey2 "VK_F3">
 <!ENTITY findSelectionCmd.commandkey "e">
 
-<!ENTITY spellAddDictionaries.label "Adicionar dicionários...">
+<!ENTITY spellAddDictionaries.label "Adicionar dicionários…">
 <!ENTITY spellAddDictionaries.accesskey "A">
 
 <!ENTITY editBookmark.done.label                     "Concluir">
@@ -687,7 +687,7 @@ with that structure, consider a translation which ignores the preceding domain a
 just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity.runBy "que é operado por">
 
-<!ENTITY identity.moreInfoLinkText "Mais informação">
+<!ENTITY identity.moreInfoLinkText "Mais informação…">
 
 <!ENTITY identity.permissions "Permissões">
 <!-- LOCALIZATION NOTE (identity.help.tooltip) : This string should be the
@@ -705,7 +705,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY syncBrand.shortName.label    "Sync">
 
-<!ENTITY syncSetup.label              "Configurar o &syncBrand.shortName.label;">
+<!ENTITY syncSetup.label              "Configurar o &syncBrand.shortName.label;…">
 <!ENTITY syncSetup.accesskey          "C">
 <!ENTITY syncSyncNowItem.label        "Sincronizar agora">
 <!ENTITY syncSyncNowItem.accesskey    "S">
@@ -721,7 +721,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY social.toggleSidebar.label "Mostrar barra lateral">
 <!ENTITY social.toggleSidebar.accesskey "s">
 
-<!ENTITY social.addons.label "Gerir serviços...">
+<!ENTITY social.addons.label "Gerir serviços…">
 
 <!ENTITY social.toggleNotifications.label "Mostrar notificações no ambiente de trabalho">
 <!ENTITY social.toggleNotifications.accesskey "n">
@@ -729,7 +729,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY social.activated.description "Os serviços de <label/> foram ativados. Pode alterar as definições dos serviços no <label class='text-link'>Gestor de extras</label>.">
 <!ENTITY social.activated.undo.label "Cancelar!">
 <!ENTITY social.activated.undo.accesskey "n">
-<!ENTITY social.learnMore.label "Saber mais">
+<!ENTITY social.learnMore.label "Saber mais…">
 <!ENTITY social.learnMore.accesskey "b">
 <!ENTITY social.closeNotificationItem.label "Agora não">
 
@@ -759,9 +759,9 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY social.chatBar.accesskey "c">
 
 <!ENTITY social.markpageMenu.accesskey "p">
-<!ENTITY social.markpageMenu.label "Guardar página em...">
+<!ENTITY social.markpageMenu.label "Guardar página em…">
 <!ENTITY social.marklinkMenu.accesskey "l">
-<!ENTITY social.marklinkMenu.label "Guardar ligação em...">
+<!ENTITY social.marklinkMenu.label "Guardar ligação em…">
 
 <!ENTITY getUserMedia.selectCamera.label "Equipamento a partilhar:">
 <!ENTITY getUserMedia.selectCamera.accesskey "h">
