@@ -158,6 +158,8 @@
 <!ENTITY bothFormatCmd.accesskey "P">
 <!ENTITY priorityMenu.label "Blaenoriaeth">
 <!ENTITY priorityMenu.accesskey "B">
+<!ENTITY priorityButton.title "Blaenoriaeth">
+<!ENTITY priorityButton.tooltiptext "Newid blaenoriaethau negeseuon">
 <!ENTITY priorityButton.label "Blaenoriaeth:">
 <!ENTITY lowestPriorityCmd.label "Isaf">
 <!ENTITY lowestPriorityCmd.accesskey "I">
