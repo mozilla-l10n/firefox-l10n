@@ -12,11 +12,11 @@
 <!ENTITY safeb.blocked.malwarePage.shortDesc "Esta página web <span id='malware_sitename'/> foi indicada como uma página de ataque e foi bloqueada com base nas suas preferências de segurança.">
 <!ENTITY safeb.blocked.malwarePage.longDesc "<p>As páginas de ataque tentam instalar programas que roubam a sua informação privada, que usam o seu computador para atacar outros ou para danificar o seu sistema.</p><p>Algumas páginas de ataque distribuem de forma intencional software malicioso, mas muitos não pedem autorização aos seus donos.</p>">
 
-<!ENTITY safeb.blocked.phishingPage.title2 "Reportado engôdo web!">
+<!ENTITY safeb.blocked.phishingPage.title2 "Reportado engodo web!">
 <!ENTITY safeb.blocked.phishingPage.shortDesc2 "A introdução de quaisquer informações pessoais nesta página podem resultar no roubo de identidade ou outra fraude.">
 <!ENTITY safeb.blocked.phishingPage.longDesc2 "<p>Estes tipos de fraudes web são utilizados em esquemas conhecidos como ataques de phising, em que as páginas web fraudulentas são utilizadas para replicar as fontes em que você confia.</p>">
 
-<!ENTITY safeb.blocked.unwantedPage.title "Sítio de software não-solicitado reportado!">
+<!ENTITY safeb.blocked.unwantedPage.title "Sítio suspeito de software não-solicitado!">
 <!-- Localization note (safeb.blocked.unwanted.shortDesc) - Please don't translate the contents of the <span id="unwanted_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
 <!ENTITY safeb.blocked.unwantedPage.shortDesc "Esta página web <span id='unwanted_sitename'/> foi indicada como uma página de software não-solicitado e foi bloqueada com base nas suas preferências de segurança.">
 <!ENTITY safeb.blocked.unwantedPage.longDesc "As páginas de software não solicitado tentam instalar software que pode ser decetivo e afetar o seu sistema de formas inesperadas.">
