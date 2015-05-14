@@ -6,8 +6,8 @@
 <!ENTITY  no_space_to_start_error "Nid oes digon o le i &brandShortName; gychwyn.">
 <!ENTITY  error_loading_file "Digwyddodd gwall wrth geisio llwytho ffeiliau ar gyfer rhedeg &brandShortName;">
 
-<!ENTITY  onboard_start_message2 "Croeso i &brandShortName;">
-<!ENTITY  onboard_start_subtext2 "Mwy o nodweddion preifatrwydd a ffyrdd i gyfaddasu nag erioed o\u0027r blaen.">
+<!ENTITY  onboard_start_message3 "Pori gyda &brandShortName;">
+<!ENTITY  onboard_start_subtext3 "Gwnewch eich profiad pori ar y we yn un cartrefol.">
 <!ENTITY  onboard_start_button_account "Mewngofnodi i &brandShortName;">
 <!ENTITY  onboard_start_button_browser "Cychwyn Pori">
 <!-- Localization note: These are used as the titles of different pages on the home screen.
@@ -114,7 +114,6 @@
 
 <!ENTITY overlay_share_send_tab_btn_label "Anfon i ddyfais arall">
 <!ENTITY overlay_share_no_url "Dim dolen yn y rhaniad">
-<!ENTITY overlay_share_retry "Ceisio eto">
 <!ENTITY overlay_share_select_device "Dewis dyfais">
 <!-- Localization note (overlay_no_synced_devices) : Used when the menu option
      to send a tab to a synced device is pressed and no other synced devices
@@ -150,8 +149,6 @@
      it is applicable. -->
 <!ENTITY pref_search_hint "Awgrym: Ychwanegwch unrhyw wefan i\u0027ch rhestr o ddarparwyr chwilio drwy bwyso\u0027n hir ar y maes chwilio ac yna tapio ar yr eicon &formatI;.">
 <!ENTITY pref_category_devtools "Offer datblygwyr">
-<!ENTITY pref_category_devtools_summary "Dadfygio pell, fflasio paent">
-<!ENTITY pref_developer_paint_flashing "Fflachio paent">
 <!ENTITY pref_developer_remotedebugging "Dadfygio pell">
 <!ENTITY pref_category_logins "Mewngofnodion">
 <!ENTITY pref_remember_signons "Cofio cyfrineiriau">
@@ -192,22 +189,22 @@
 <!ENTITY pref_donottrack_title "Dim tracio">
 <!ENTITY pref_donottrack_summary "Bydd &brandShortName; yn dweud wrth wefannau nad ydych am gael eich tracio">
 
-<!ENTITY tab_queue_toast_message "Agor yn hwyrach">
+<!ENTITY tab_queue_toast_message2 "Tabiau mewn ciw yn &brandShortName;">
 <!ENTITY tab_queue_toast_action "Agor nawr">
-<!-- Localization note (tab_queue_notification_text_plural) : The
+<!ENTITY tab_queue_prompt_title "Agor dolenni lluosog?">
+<!ENTITY tab_queue_prompt_text2 "Agorwch nhw heb newid i &brandShortName; bob tro.">
+<!ENTITY tab_queue_prompt_tip_text "gallwch newid hyn yn y Gosodiadau">
+<!ENTITY tab_queue_prompt_positive_action_button "Galluogwyd">
+<!ENTITY tab_queue_prompt_negative_action_button "Nid nawr">
+<!ENTITY tab_queue_notification_title "&brandShortName;">
+<!-- Localization note (tab_queue_notification_text_plural2) : The
      formatD is replaced with the number of tabs queued.  The
      number of tabs queued is always more than one.  We can't use
      Android plural forms, sadly. See Bug #753859. -->
-<!ENTITY tab_queue_notification_text_plural "&formatD; tab mewn ciw">
-<!-- Localization note (tab_queue_notification_title_plural) : This is the
-     title of a notification; we expect more than one tab queued. -->
-<!ENTITY tab_queue_notification_title_plural "Tabiau mewn Ciw">
-<!-- Localization note (tab_queue_notification_title_singular) : This is the
-     title of a notification; we expect only one tab queued. -->
-<!ENTITY tab_queue_notification_title_singular "Tabiau mewn Ciw">
-<!-- Localization note (tab_queue_notification_text_singular) : This is the
+<!ENTITY tab_queue_notification_text_plural2 "&formatD; tab yn aros">
+<!-- Localization note (tab_queue_notification_text_singular2) : This is the
      text of a notification; we expect only one tab queued. -->
-<!ENTITY tab_queue_notification_text_singular "1 tab mewn ciw">
+<!ENTITY tab_queue_notification_text_singular2 "1 tab yn aros">
 
 <!ENTITY pref_char_encoding "Amgodiad nod">
 <!ENTITY pref_char_encoding_on "Dangos dewislen">
@@ -255,7 +252,8 @@ size. -->
 <!ENTITY pref_import_android "Mewnforio o Android">
 <!ENTITY pref_import_android_summary "Mewnforio nodau tudalen a hanes o\u0027r porwr cynhenid">
 <!ENTITY pref_private_data_history2 "Hanes pori">
-<!ENTITY pref_private_data_formdata "Hanes ffurflenni a chwilio">
+<!ENTITY pref_private_data_searchHistory "Hanes chwilio">
+<!ENTITY pref_private_data_formdata2 "Hanes ffurflen">
 <!ENTITY pref_private_data_cookies2 "Cwcis a mewngofnodi gweithredol">
 <!ENTITY pref_private_data_passwords "Cyfrineiriau a gadwyd">
 <!ENTITY pref_private_data_cache "Storfa">
@@ -380,6 +378,7 @@ size. -->
 <!ENTITY doorhanger_login_edit_username_hint "Enw Defnyddiwr">
 <!ENTITY doorhanger_login_edit_password_hint "Cyfrinair">
 <!ENTITY doorhanger_login_edit_toggle "Dangos cyfrinair">
+<!ENTITY doorhanger_login_edit_toast_error "Methu cadw\u0027r mewngofnd">
 
 <!ENTITY pref_titlebar_mode "Bar teitl">
 <!ENTITY pref_titlebar_mode_title "Dangos teitl tudalen">
@@ -390,8 +389,8 @@ size. -->
 <!ENTITY pref_scroll_title_bar2 "Pori sgrin lawn">
 <!ENTITY pref_scroll_title_bar_summary "Cuddio bar teitl &brandShortName; wrth sgrolio lawr tudalen">
 
-<!ENTITY pref_tab_queue_title "Agor yn hwyrach">
-<!ENTITY pref_tab_queue_summary "Rhwystro tabiau rhag agor yn syth, ond agor pob tab sydd mewn ciw y tro nesaf y bydd &brandShortName; yn llwytho.">
+<!ENTITY pref_tab_queue_title2 "Agor dolenni lluosog">
+<!ENTITY pref_tab_queue_summary2 "Rhowch y doleni mewn ciw yn lle newid i &brandShortName; bob tro">
 <!-- Localization note (page_removed): This string appears in a toast message when
      any page is removed frome about:home. This includes pages that are in history,
      bookmarks, or reading list. -->
@@ -440,6 +439,8 @@ size. -->
 <!ENTITY button_set "Gosod">
 <!ENTITY button_clear "Clirio">
 <!ENTITY button_remember "Cofio">
+
+<!ENTITY firstrun_panel_title_welcome "Croeso">
 
 <!ENTITY home_top_sites_title "Hoff Wefannau">
 <!-- Localization note (home_top_sites_add): This string is used as placeholder
@@ -612,6 +613,14 @@ o Android">
 <!ENTITY ellipsis "…">
 
 <!ENTITY colon ":">
+<!-- LOCALIZATION NOTE (percent): The percent sign is appended after a number to
+     display a percentage value. formatS is the number, #37 is the code to display a percent sign.
+     This format string is typically used by getString method, in such method the percent sign
+     is a reserved caracter. In order to display one percent sign in the result of getString,
+     double percent signs must be inserted in the format string.
+     This entity is used in the zoomed view to display the zoom factor-->
+
+<!ENTITY percent "&formatS;&#037;&#037;">
 <!-- These are only used for accessibility for the done and overflow-menu buttons in the actionbar.
      They are never shown to users -->
 
