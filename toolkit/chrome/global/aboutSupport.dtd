@@ -55,6 +55,8 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 <!ENTITY aboutSupport.appBasicsMemoryUse "Uso de memória">
 <!-- LOCALIZATION NOTE the term "Service Workers" should not be translated. -->
 
+<!ENTITY aboutSupport.appBasicsServiceWorkers "Service Workers registrados">
+
 <!ENTITY aboutSupport.appBasicsMultiProcessSupport "Janelas multiprocesso">
 
 <!ENTITY aboutSupport.showDir.label "Abrir pasta">
