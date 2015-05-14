@@ -105,8 +105,8 @@
 <!ENTITY cmd.installAddon.accesskey           "I">
 <!ENTITY cmd.uninstallAddon.label             "Remover">
 <!ENTITY cmd.uninstallAddon.accesskey         "R">
-
-
+<!ENTITY cmd.debugAddon.label                 "Depuração">
+<!ENTITY cmd.debugAddon.accesskey             "u">
 <!ENTITY cmd.showPreferencesWin.label         "Opções">
 <!ENTITY cmd.showPreferencesWin.tooltip       "Modificar as opções deste complemento">
 <!ENTITY cmd.showPreferencesUnix.label        "Preferências">
@@ -233,14 +233,17 @@
 
 <!ENTITY setting.learnmore "Saiba mais…">
 
+<!ENTITY disabledUnsigned.heading "Alguns complementos foram desativados">
 <!-- LOCALIZATION NOTE (disabledUnsigned.description.start, disabledUnsigned.description.findAddonsLink, disabledUnsigned.description.end):
      These entities form a sentence, with
      disabledUnsigned.description.findAddonsLink being a link to an external site. -->
-
-
-
+<!ENTITY disabledUnsigned.description.start "Os seguintes conplementos não foram verificados para uso no &brandShortName;. Você pode ">
+<!ENTITY disabledUnsigned.description.findAddonsLink "procurar substitutos">
+<!ENTITY disabledUnsigned.description.end " ou solicitar que o desenvolvedor peça a sua verificação.">
+<!ENTITY disabledUnsigned.learnMore "Saber mais sobre o nosso esforço para manter os usuários seguros.">
 <!-- LOCALIZATION NOTE (disabledUnsigned.devInfo.start, disabledUnsigned.devInfo.linkToManual, disabledUnsigned.devInfo.end):
      These entities form a sentence, with disabledUnsigned.devInfo.linkToManual
      being a link to an external site. -->
+<!ENTITY disabledUnsigned.devInfo.start "Os desenvolvedores interessados que seus complementos sejam verificados, devem ler o nosso ">
 <!ENTITY disabledUnsigned.devInfo.linkToManual "manual">
 <!ENTITY disabledUnsigned.devInfo.end ".">
