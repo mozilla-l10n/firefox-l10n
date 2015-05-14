@@ -6,8 +6,8 @@
 <!ENTITY  no_space_to_start_error "Нема довољно простора на располагању за &brandShortName;.">
 <!ENTITY  error_loading_file "Дошло је до грешке приликом покушаја учитавања датотеке потребне за покретање &brandShortName;">
 
-<!ENTITY  onboard_start_message2 "Добродошли у &brandShortName;!">
-<!ENTITY  onboard_start_subtext2 "Више могућности за приватност и начина за прилагођавање.">
+<!ENTITY  onboard_start_message3 "Прегледавајте са &brandShortName;!">
+<!ENTITY  onboard_start_subtext3 "Учините искуство мобилног прегледања Вашим.">
 <!ENTITY  onboard_start_button_account "Пријавите се на &brandShortName;">
 <!ENTITY  onboard_start_button_browser "Започните прегледање">
 
@@ -114,7 +114,6 @@
      to. -->
 <!ENTITY overlay_share_send_tab_btn_label "Пошаљи другом уређају">
 <!ENTITY overlay_share_no_url "Ни једна веза није пронађена у овом дељењу">
-<!ENTITY overlay_share_retry "Покушај поново">
 <!ENTITY overlay_share_select_device "Одабери уређај">
 <!-- Localization note (overlay_no_synced_devices) : Used when the menu option
      to send a tab to a synced device is pressed and no other synced devices
@@ -150,8 +149,6 @@
      it is applicable. -->
 <!ENTITY pref_search_hint "САВЕТ: Додајте било који сајт на листу провајдера претраге тако што ћете дуго притиснути поље за претрагу и затим притиснути &formatI; иконицу.">
 <!ENTITY pref_category_devtools "Алати за развој">
-<!ENTITY pref_category_devtools_summary "Удаљено отклањање грешака, трепћућа боја">
-<!ENTITY pref_developer_paint_flashing "Трепћућа боја">
 <!ENTITY pref_developer_remotedebugging "Отклањање грешака">
 <!ENTITY pref_category_logins "Пријаве">
 <!ENTITY pref_remember_signons "Запамти лозинку">
@@ -192,22 +189,22 @@
 <!ENTITY pref_donottrack_title "Не желим да ме прате">
 <!ENTITY pref_donottrack_summary "&brandShortName; ће рећи сајтовима да не желите да будете праћени">
 
-<!ENTITY tab_queue_toast_message "Отвори касније">
+<!ENTITY tab_queue_toast_message2 "Језичак је на чекању за &brandShortName;">
 <!ENTITY tab_queue_toast_action "Отвори сада">
+<!ENTITY tab_queue_prompt_title "Отворити више веза?">
+<!ENTITY tab_queue_prompt_text2 "Отворите их без пребацивања на &brandShortName; сваки пут.">
+<!ENTITY tab_queue_prompt_tip_text "ово можете променити касније у Поставкама">
+<!ENTITY tab_queue_prompt_positive_action_button "Омогући">
+<!ENTITY tab_queue_prompt_negative_action_button "Не сада">
+<!ENTITY tab_queue_notification_title "&brandShortName;">
 <!-- Localization note (tab_queue_notification_text_plural) : The
      formatD is replaced with the number of tabs queued.  The
      number of tabs queued is always more than one.  We can't use
      Android plural forms, sadly. See Bug #753859. -->
-<!ENTITY tab_queue_notification_text_plural "&formatD; језичака на чекању">
-<!-- Localization note (tab_queue_notification_title_plural) : This is the
-     title of a notification; we expect more than one tab queued. -->
-<!ENTITY tab_queue_notification_title_plural "Језичака на чекању">
-<!-- Localization note (tab_queue_notification_title_singular) : This is the
-     title of a notification; we expect only one tab queued. -->
-<!ENTITY tab_queue_notification_title_singular "Језичак на чекању">
-<!-- Localization note (tab_queue_notification_text_singular) : This is the
+<!ENTITY tab_queue_notification_text_plural2 "&formatD; језичака на чекању">
+<!-- Localization note (tab_queue_notification_text_singular2) : This is the
      text of a notification; we expect only one tab queued. -->
-<!ENTITY tab_queue_notification_text_singular "1 језичак је убачен на чекање">
+<!ENTITY tab_queue_notification_text_singular2 "1 језичак на чекању">
 
 <!ENTITY pref_char_encoding "Кодирање карактера">
 <!ENTITY pref_char_encoding_on "Прикажи мени">
@@ -255,7 +252,8 @@ size. -->
 <!ENTITY pref_import_android "Увези са Android-а">
 <!ENTITY pref_import_android_summary "Увезите забелешке и историју са нативног прегледача">
 <!ENTITY pref_private_data_history2 "Историја прегледа">
-<!ENTITY pref_private_data_formdata "Форма и  истрорија претраге">
+<!ENTITY pref_private_data_searchHistory "Историја претраге">
+<!ENTITY pref_private_data_formdata2 "Историја форми">
 <!ENTITY pref_private_data_cookies2 "Колачићи и пријаве">
 <!ENTITY pref_private_data_passwords "Сачуване лозинке">
 <!ENTITY pref_private_data_cache "Кеш">
@@ -380,6 +378,7 @@ size. -->
 <!ENTITY doorhanger_login_edit_username_hint "Корисничко име">
 <!ENTITY doorhanger_login_edit_password_hint "Лозинка">
 <!ENTITY doorhanger_login_edit_toggle "Прикажи лозинку">
+<!ENTITY doorhanger_login_edit_toast_error "Неуспешно снимање пријаве">
 
 <!ENTITY pref_titlebar_mode "Наслована трака">
 <!ENTITY pref_titlebar_mode_title "Прикажи наслов странице">
@@ -390,8 +389,8 @@ size. -->
 <!ENTITY pref_scroll_title_bar2 "Режим целог екрана">
 <!ENTITY pref_scroll_title_bar_summary "Сакрива &brandShortName; насловну траку док скролујете">
 
-<!ENTITY pref_tab_queue_title "Отвори касније">
-<!ENTITY pref_tab_queue_summary "Спречи језичке од тренутног отварања, али отворите све језичке који су на чекању следећу пут када се &brandShortName; учита.">
+<!ENTITY pref_tab_queue_title2 "Отвори више веза">
+<!ENTITY pref_tab_queue_summary2 "Стави везе на чекање за касније уместо пребацивања на &brandShortName; сваки пут">
 
 <!-- Localization note (page_removed): This string appears in a toast message when
      any page is removed frome about:home. This includes pages that are in history,
@@ -440,6 +439,8 @@ size. -->
 <!ENTITY button_set "Постави">
 <!ENTITY button_clear "Очисти">
 <!ENTITY button_remember "Запамти">
+
+<!ENTITY firstrun_panel_title_welcome "Добро дошли">
 
 <!ENTITY home_top_sites_title "Популарни сајтови">
 <!-- Localization note (home_top_sites_add): This string is used as placeholder
@@ -612,6 +613,14 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY ellipsis "…">
 
 <!ENTITY colon ":">
+
+<!-- LOCALIZATION NOTE (percent): The percent sign is appended after a number to
+     display a percentage value. formatS is the number, #37 is the code to display a percent sign.
+     This format string is typically used by getString method, in such method the percent sign
+     is a reserved caracter. In order to display one percent sign in the result of getString,
+     double percent signs must be inserted in the format string.
+     This entity is used in the zoomed view to display the zoom factor-->
+<!ENTITY percent "&formatS;&#37;&#37;">
 
 <!-- These are only used for accessiblity for the done and overflow-menu buttons in the actionbar.
      They are never shown to users -->
