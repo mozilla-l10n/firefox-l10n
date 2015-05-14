@@ -5,7 +5,7 @@
 <!ENTITY  updateWizard.title              "Atualização do &brandShortName;">
 
 <!ENTITY  offline.title                   "O &brandShortName; está no modo offline">
-<!ENTITY  offline.description             "Tem que ativar o modo ligado para que o &brandShortName;
+<!ENTITY  offline.description             "Tem que ativar o modo onlinepara que o &brandShortName;
 se ligue à rede e procure atualizações dos seus extras para
 os tornar compatíveis com esta versão.">
 <!ENTITY  offline.toggleOffline.label     "Ativar agora.">
