@@ -325,7 +325,7 @@ size. -->
 <!ENTITY share_title "Partilhar através">
 <!ENTITY share_image_failed "Não é possível partilhar esta imagem">
 <!ENTITY save_as_pdf "Guardar como PDF">
-<!ENTITY find_in_page "Procurar na página">
+<!ENTITY find_in_page "Localizar na página">
 <!ENTITY desktop_mode "Pedir sítio do Desktop">
 <!ENTITY page "Página">
 <!ENTITY tools "Ferramentas">
@@ -342,7 +342,7 @@ size. -->
 <!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
 
-<!ENTITY find_text "Procurar na página">
+<!ENTITY find_text "Localizar na página">
 <!ENTITY find_prev "Anterior">
 <!ENTITY find_next "Seguinte">
 <!ENTITY find_close "Fechar">

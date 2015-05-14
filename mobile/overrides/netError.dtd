@@ -99,7 +99,7 @@
 está a funcionar.</li> 
 </ul>">
 
-<!ENTITY proxyResolveFailure.title "Não é possível encontrar o servidor proxy">
+<!ENTITY proxyResolveFailure.title "Servidor proxy não encontrado">
 <!-- LOCALIZATION NOTE (proxyResolveFailure.longDesc3) This string contains markup including widgets for enabling wifi connections.
      The text inside the tags should be localized. Do not touch the ids. -->
 <!ENTITY proxyResolveFailure.longDesc3 "<ul> 
