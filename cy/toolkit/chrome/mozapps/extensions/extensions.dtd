@@ -23,7 +23,8 @@
 <!ENTITY cmd.back.tooltip                     "Nôl un tudalen">
 <!ENTITY cmd.forward.tooltip                  "Ymlaen un tudalen">
 
-
+<!ENTITY showUnsignedExtensions.button.label  "Nid oedd modd dilysu rhai estyniadau">
+<!ENTITY showAllExtensions.button.label       "Dangos pob estyniad">
 <!-- global warnings -->
 
 <!ENTITY warning.safemode.label                    "Mae pob ychwanegyn wedi eu hanalluogi gan y modd diogel.">
@@ -104,8 +105,8 @@
 <!ENTITY cmd.installAddon.accesskey           "G">
 <!ENTITY cmd.uninstallAddon.label             "Tynnu">
 <!ENTITY cmd.uninstallAddon.accesskey         "T">
-
-
+<!ENTITY cmd.debugAddon.label                 "Dadfygio">
+<!ENTITY cmd.debugAddon.accesskey             "D">
 <!ENTITY cmd.showPreferencesWin.label         "Dewisiadau">
 <!ENTITY cmd.showPreferencesWin.tooltip       "Newid dewisiadau'r ychwanegyn">
 <!ENTITY cmd.showPreferencesUnix.label        "Dewisiadau">
@@ -235,6 +236,7 @@ cynnwys rhai o'r ychwanegion gorau a mwyaf poblogaidd i chi eu dewis.">
 
 <!ENTITY setting.learnmore "Dysgu Rhagor…">
 
+<!ENTITY disabledUnsigned.heading "Mae rhai ychwanegion wedi eu hanablu">
 <!-- LOCALIZATION NOTE (disabledUnsigned.description.start, disabledUnsigned.description.findAddonsLink, disabledUnsigned.description.end):
      These entities form a sentence, with
      disabledUnsigned.description.findAddonsLink being a link to an external site. -->

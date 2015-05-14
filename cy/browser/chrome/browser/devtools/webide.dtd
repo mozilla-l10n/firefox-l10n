@@ -203,8 +203,8 @@
 <!ENTITY simulator_name "Enw">
 <!ENTITY simulator_software "Meddalwedd">
 <!ENTITY simulator_version "Fersiwn">
-
-
+<!ENTITY simulator_profile "Proffil">
+<!ENTITY simulator_hardware "Caledwedd">
 <!ENTITY simulator_device "Dyfais">
 
 
