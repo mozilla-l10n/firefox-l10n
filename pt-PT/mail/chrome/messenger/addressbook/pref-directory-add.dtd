@@ -16,7 +16,7 @@
 <!ENTITY directoryLogin.label              "Associar DN: ">
 <!ENTITY directoryLogin.accesskey          "i">
 <!ENTITY General.tab                       "Geral">
-<!ENTITY Offline.tab                       "Desligado">
+<!ENTITY Offline.tab                       "Offline">
 <!ENTITY Advanced.tab                      "Avançado">
 <!ENTITY portNumber.label                  "Porta: ">
 <!ENTITY portNumber.accesskey              "P">
@@ -31,7 +31,7 @@
 <!ENTITY return.label                      "Não devolver mais do que">
 <!ENTITY return.accesskey                  "r">
 <!ENTITY results.label                     "resultados">
-<!ENTITY offlineText.label                 "Pode transferir uma cópia deste diretório para que fique disponível se estver no modo desligado.">
+<!ENTITY offlineText.label                 "Pode transferir uma cópia deste diretório para que fique disponível no modo offline.">
 <!ENTITY saslMechanism.label               "Método de início de sessão: ">
 <!ENTITY saslMechanism.accesskey           "M">
 <!ENTITY saslOff.label                     "Simples">

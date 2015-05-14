@@ -68,7 +68,7 @@
 <!ENTITY emptyTrashCmd.accesskey    "x">
 <!ENTITY offlineMenu.label "Modo desligado">
 <!ENTITY offlineMenu.accesskey "l">
-<!ENTITY offlineGoOfflineCmd.label "Trabalhar no modo desligado">
+<!ENTITY offlineGoOfflineCmd.label "Trabalhar offline">
 <!ENTITY offlineGoOfflineCmd.accesskey "T">
 <!ENTITY synchronizeOfflineCmd.label "Transferir/sincronizar agora...">
 <!ENTITY synchronizeOfflineCmd.accesskey "s">
@@ -458,7 +458,7 @@
 <!ENTITY imAccountsStatus.accesskey "c">
 <!ENTITY imStatus.available          "Disponível">
 <!ENTITY imStatus.unavailable        "Indisponível">
-<!ENTITY imStatus.offline            "Desligado">
+<!ENTITY imStatus.offline            "Offline">
 <!ENTITY imStatus.showAccounts       "Mostrar contas...">
 <!ENTITY joinChatCmd.label "Entrar na conversa...">
 <!ENTITY joinChatCmd.accesskey "t">

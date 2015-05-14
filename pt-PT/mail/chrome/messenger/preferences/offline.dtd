@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY offlineDialog.title "Definições do modo desligado">
+<!ENTITY offlineDialog.title "Definições do modo offline">
 
 <!ENTITY checkAutoDetect.label "Seguir automaticamente o estado detetado">
 <!ENTITY checkAutoDetect.accesskey "d">
@@ -23,7 +23,7 @@
 <!ENTITY radioNotSend.accesskey "N">
 <!ENTITY radioAskUnsent.label "Perguntar">
 <!ENTITY radioAskUnsent.accesskey "P">
-<!ENTITY textGoingOffline "Receber mensagens para utilizar no modo desligado?">
+<!ENTITY textGoingOffline "Receber mensagens para utilização offline?">
 <!ENTITY radioAutoDownload.label "Sim">
 <!ENTITY radioAutoDownload.accesskey "i">
 <!ENTITY radioNotDownload.label "Não">

@@ -4,7 +4,7 @@
 
 <!ENTITY  startupAction.label         "Ao iniciar o &brandShortName;:">
 <!ENTITY  startupAction.accesskey     "c">
-<!ENTITY  startupOffline.label        "Manter a minha conta de conversação desligada">
+<!ENTITY  startupOffline.label        "Manter a minha conta de conversação offline">
 <!ENTITY  startupConnectAuto.label    "Ligar às minhas contas de conversação automaticamente">
 <!-- LOCALIZATION NOTE: reportIdleAfter.label is displayed first, then
 there's a field where the user can enter a number, and itemTime is
