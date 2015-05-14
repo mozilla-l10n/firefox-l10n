@@ -233,7 +233,7 @@
 <!ENTITY pageSourceCmd.accesskey "f">
 <!ENTITY pageSourceCmd.key "u">
 
-<!ENTITY findCmd.label "Procurar nesta mensagem...">
+<!ENTITY findCmd.label "Localizar nesta mensagem…">
 <!-- LOCALIZATION NOTE (quickFilterBar.show.key2):
      This is the key used to show the Lightning quick filter bar. -->
 

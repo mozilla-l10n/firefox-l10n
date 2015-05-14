@@ -79,10 +79,10 @@
 <!ENTITY findAgainCmd.key "G">
 <!ENTITY findAgainCmd.accesskey "n">
 <!ENTITY findAgainCmd.key2 "VK_F3">
-<!ENTITY findPrevCmd.label "Procurar anterior">
+<!ENTITY findPrevCmd.label "Localizar anterior">
 <!ENTITY findPrevCmd.key "G">
 <!ENTITY findPrevCmd.key2 "VK_F3">
-<!ENTITY findPrevCmd.accesskey "o">
+<!ENTITY findPrevCmd.accesskey "a">
 <!ENTITY findTypeTextCmd.label "Localizar texto ao escrever">
 <!ENTITY findTypeTextCmd.accesskey "e">
 <!ENTITY findTypeLinksCmd.label "Localizar ligações ao escrever">

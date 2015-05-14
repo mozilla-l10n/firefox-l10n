@@ -22,8 +22,8 @@
 <!ENTITY view.sortDescending.label      "Ordenado de Z a A">
 <!ENTITY view.sortDescending.accesskey  "Z">
 
-<!ENTITY cmd.findInBookmarks.label      "Encontrar nos marcadores...">
-<!ENTITY cmd.findInBookmarks.accesskey  "n">
+<!ENTITY cmd.findInBookmarks.label      "Localizar nos marcadores…">
+<!ENTITY cmd.findInBookmarks.accesskey  "L">
 <!ENTITY cmd.findCurrent.label          "Localizar na coleção atual…">
 <!ENTITY cmd.findCurrent.accesskey      "i">
 

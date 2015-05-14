@@ -23,5 +23,5 @@
 <!ENTITY sidebar.customize.up.accesskey         "c">
 <!ENTITY sidebar.customize.down.label           "Mover para baixo">
 <!ENTITY sidebar.customize.down.accesskey       "b">
-<!ENTITY sidebar.more.label                     "Procurar mais separadores…">
-<!ENTITY sidebar.more.accesskey                 "o">
+<!ENTITY sidebar.more.label                     "Localizar mais separadores…">
+<!ENTITY sidebar.more.accesskey                 "L">
