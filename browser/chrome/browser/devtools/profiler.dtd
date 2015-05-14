@@ -27,6 +27,8 @@
 <!-- LOCALIZATION NOTE (profilerUI.startRecording/profilerUI.stopRecording): These are
   -  the labels shown on the main recording buttons to start/stop recording. -->
 
+<!ENTITY profilerUI.startRecording "Cychwyn Recordio Perfformiad">
+<!ENTITY profilerUI.stopRecording  "Atal Recordio Perfformiad">
 <!-- LOCALIZATION NOTE (profilerUI.bufferStatusTooltip): This string
   -  is displayed as the tooltip for the buffer capacity during a recording. -->
 
@@ -74,7 +76,7 @@
 <!ENTITY profilerUI.table.totalDuration2           "Cyfanswm Amser">
 <!ENTITY profilerUI.table.totalDuration.tooltip    "Maint yr amser sy'n cael ei dreulio yn y swyddogaeth yma a'r swyddogaethau mae'n eu galw.">
 <!ENTITY profilerUI.table.selfDuration2            "Eich Amser Chi">
-
+<!ENTITY profilerUI.table.selfDuration.tooltip     "Y maint o amser a dreuliwyd dim ond gyda'r swyddogaeth hon.">
 <!ENTITY profilerUI.table.totalPercentage          "Cyfanswm Cost">
 <!ENTITY profilerUI.table.totalPercentage.tooltip  "Maint yr amser sy'n cael ei dreulio yn y swyddogaeth yma a'r swyddogaethau mae'n eu galw.">
 <!ENTITY profilerUI.table.selfPercentage           "Cost Hunan">
@@ -137,11 +139,17 @@
   -  is displayed next to a checkbox determining whether or not JIT optimization data
   -  should be shown. -->
 
+<!ENTITY profilerUI.showJITOptimizations             "Dangos Optimeiddiadau JIT">
+<!ENTITY profilerUI.showJITOptimizations.tooltiptext "Dangos data optimeiddio JIT samplwyd ym mhob ffrâm o goeden galw JS.">
 <!-- LOCALIZATION NOTE (profilerUI.JITOptimizationsTitle): This string
   -  is displayed as the title of the JIT Optimizations panel. -->
+
+<!ENTITY profilerUI.JITOptimizationsTitle "Optimeiddiadau JIT">
 <!-- LOCALIZATION NOTE (profilerUI.console.recordingNoticeStart/recordingNoticeEnd):
   -  This string is displayed when a recording is selected that started via console.profile.
   -  Wraps the command used to start, like "Currently recording via console.profile("label")" -->
+
+<!ENTITY profilerUI.console.recordingNoticeStart "Wrthi'n recordio drwy">
 <!ENTITY profilerUI.console.recordingNoticeEnd   "">
 <!-- LOCALIZATION NOTE (profilerUI.console.stopCommandStart/stopCommandEnd):
   -  This string is displayed when a recording is selected that started via console.profile.
