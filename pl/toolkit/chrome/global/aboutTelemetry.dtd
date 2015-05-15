@@ -2,15 +2,11 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY aboutTelemetry.pageTitle "Dane Telemetrii">
-
-<!ENTITY aboutTelemetry.telemetryEnabled "
-  Telemetria jest <span>włączona</span>.
-">
-
-<!ENTITY aboutTelemetry.telemetryDisabled "
-  Telemetria jest <span>wyłączona</span>.
-">
+<!ENTITY aboutTelemetry.pageTitle "Dane telemetrii">
+<!ENTITY aboutTelemetry.uploadEnabled "Wysyłanie danych o zdrowiu Firefoksa jest <span>włączone</span>.">
+<!ENTITY aboutTelemetry.uploadDisabled "Wysyłanie danych o zdrowiu Firefoksa jest <span>wyłączone</span>.">
+<!ENTITY aboutTelemetry.extendedRecordingEnabled "Rejestrowanie rozszerzonych danych telemertrii jest <span>włączone</span>.">
+<!ENTITY aboutTelemetry.extendedRecordingDisabled "Rejestrowanie rozszerzonych danych telemertrii jest <span>wyłączone</span>.">
 
 <!ENTITY aboutTelemetry.generalDataSection "Ogólne">
 <!ENTITY aboutTelemetry.environmentDataSection "Dane środowiska">
