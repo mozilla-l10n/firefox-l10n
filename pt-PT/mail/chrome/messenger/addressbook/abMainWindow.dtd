@@ -10,14 +10,14 @@
 <!ENTITY fileMenu.accesskey                             "F">
 <!ENTITY newMenu.label                                  "Novo">
 <!ENTITY newMenu.accesskey                              "N">
-<!ENTITY newContact.label                               "Contato do livro de endereços...">
+<!ENTITY newContact.label                               "Contacto do livro de endereços…">
 <!ENTITY newContact.accesskey                           "C">
 <!ENTITY newContact.key                                 "N">
-<!ENTITY newListCmd.label                               "Lista de correio...">
+<!ENTITY newListCmd.label                               "Lista de correio…">
 <!ENTITY newListCmd.accesskey                           "L">
-<!ENTITY newAddressBookCmd.label                        "Livro de endereços...">
+<!ENTITY newAddressBookCmd.label                        "Livro de endereços…">
 <!ENTITY newAddressBookCmd.accesskey                    "e">
-<!ENTITY newLDAPDirectoryCmd.label                      "Diretório LDAP...">
+<!ENTITY newLDAPDirectoryCmd.label                      "Diretório LDAP…">
 <!ENTITY newLDAPDirectoryCmd.accesskey                  "D">
 <!ENTITY newMessageCmd.label                            "Mensagem">
 <!ENTITY newMessageCmd.key                              "M">
@@ -28,16 +28,16 @@
 <!ENTITY closeCmd.label                                 "Fechar">
 <!ENTITY closeCmd.key                                   "W">
 <!ENTITY closeCmd.accesskey                             "F">
-<!ENTITY printSetupCmd.label                            "Configurar página...">
-<!ENTITY printSetupCmd.accesskey                        "C">
+<!ENTITY printSetupCmd.label                            "Configurar página…">
+<!ENTITY printSetupCmd.accesskey                        "u">
 <!ENTITY printPreviewContactCmd.label                   "Pré-visualizar contacto">
 <!ENTITY printPreviewContactCmd.accesskey               "v">
 <!ENTITY printPreviewAddressBook.label                  "Pré-visualizar livro de endereços">
 <!ENTITY printPreviewAddressBook.accesskey              "e">
-<!ENTITY printContactCmd.label                          "Imprimir contacto...">
-<!ENTITY printContactCmd.accesskey                      "I">
+<!ENTITY printContactCmd.label                          "Imprimir contacto…">
+<!ENTITY printContactCmd.accesskey                      "p">
 <!ENTITY printContactCmd.key                            "P">
-<!ENTITY printAddressBook.label                         "Imprimir livro de endereços...">
+<!ENTITY printAddressBook.label                         "Imprimir livro de endereços…">
 <!ENTITY printAddressBook.accesskey                     "l">
 <!-- Edit Menu -->
 
@@ -90,7 +90,7 @@
 <!ENTITY showAbToolbarCmd.accesskey                     "a">
 <!ENTITY showTaskbarCmd.label                           "Barra de estado">
 <!ENTITY showTaskbarCmd.accesskey                       "s">
-<!ENTITY customizeToolbar.label                         "Personalizar...">
+<!ENTITY customizeToolbar.label                         "Personalizar…">
 <!ENTITY customizeToolbar.accesskey                     "P">
 <!ENTITY layoutMenu.label                               "Esquema">
 <!ENTITY layoutMenu.accesskey                           "q">
@@ -117,8 +117,8 @@ because displayed names don't have the comma in between. -->
 <!ENTITY messengerCmd.label                             "Correio e grupos de notícias">
 <!ENTITY messengerCmd.accesskey                         "g">
 <!ENTITY messengerCmd.commandkey                        "1">
-<!ENTITY searchAddressesCmd.label                       "Procurar endereços...">
-<!ENTITY searchAddressesCmd.accesskey                   "e">
+<!ENTITY searchAddressesCmd.label                       "Pesquisar endereços…">
+<!ENTITY searchAddressesCmd.accesskey                   "s">
 <!ENTITY importCmd.label                                "Importar...">
 <!ENTITY importCmd.accesskey                            "I">
 <!ENTITY exportCmd.label                                "Exportar...">

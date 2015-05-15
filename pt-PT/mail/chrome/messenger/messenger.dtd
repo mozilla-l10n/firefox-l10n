@@ -276,11 +276,11 @@
 <!ENTITY findAgainCmd.key2 "VK_F3">
 <!ENTITY findPrevCmd.key "g">
 <!ENTITY findPrevCmd.key2 "VK_F3">
-<!ENTITY searchMailCmd.label "Procurar mensagens...">
-<!ENTITY searchMailCmd.accesskey "P">
+<!ENTITY searchMailCmd.label "Pesquisar mensagens…">
+<!ENTITY searchMailCmd.accesskey "m">
 <!ENTITY searchMailCmd.key "f">
-<!ENTITY searchAddressesCmd.label "Procurar endereços...">
-<!ENTITY searchAddressesCmd.accesskey "e">
+<!ENTITY searchAddressesCmd.label "Pesquisar endereços…">
+<!ENTITY searchAddressesCmd.accesskey "s">
 <!-- Go Menu -->
 
 <!ENTITY goMenu.label "Ir">
@@ -846,7 +846,7 @@
 <!ENTITY AddDirectlyToAddressBook.accesskey "v">
 <!ENTITY EditContact1.label "Editar contacto...">
 <!ENTITY EditContact1.accesskey "E">
-<!ENTITY ViewContact.label "Ver contato">
+<!ENTITY ViewContact.label "Ver contacto">
 <!ENTITY ViewContact.accesskey "V">
 <!ENTITY SubscribeToNewsgroup.label "Subscrever grupo de notícias">
 <!ENTITY SubscribeToNewsgroup.accesskey "n">

@@ -16,39 +16,39 @@
 <!ENTITY pasteAsQuotationCmd.label "Colar como citação">
 <!ENTITY pasteAsQuotationCmd.accesskey "m">
 <!ENTITY pasteAsQuotationCmd.key "o">
-<!ENTITY findBarCmd.label "Localizar">
-<!ENTITY findReplaceCmd.label "Localizar e substituir...">
+<!ENTITY findBarCmd.label "Localizar…">
+<!ENTITY findReplaceCmd.label "Localizar e substituir…">
 <!ENTITY enableInlineSpellChecker.label "Verificar escrita ao escrever">
 <!ENTITY enableInlineSpellChecker.accesskey "s">
-<!ENTITY checkSpellingCmd2.label "Verificar escrita...">
+<!ENTITY checkSpellingCmd2.label "Verificar ortografia…">
 <!ENTITY checkSpellingCmd2.accesskey "c">
 <!ENTITY checkSpellingCmd2.key "k">
 <!-- Insert menu items -->
 
 <!ENTITY insertMenu.label "Inserir">
 <!ENTITY insertMenu.accesskey "i">
-<!ENTITY insertLinkCmd.label "Ligação...">
+<!ENTITY insertLinkCmd.label "Ligação…">
 <!ENTITY insertLinkCmd.accesskey "L">
 <!ENTITY insertLinkCmd.key "l">
-<!ENTITY insertAnchorCmd.label "Âncora com nome...">
-<!ENTITY insertAnchorCmd.accesskey "n">
-<!ENTITY insertImageCmd.label "Imagem...">
+<!ENTITY insertAnchorCmd.label "Âncora com nome…">
+<!ENTITY insertAnchorCmd.accesskey "a">
+<!ENTITY insertImageCmd.label "Imagem…">
 <!ENTITY insertImageCmd.accesskey "I">
 <!ENTITY insertHLineCmd.label "Linha horizontal">
 <!ENTITY insertHLineCmd.accesskey "o">
-<!ENTITY insertTableCmd.label "Tabela...">
+<!ENTITY insertTableCmd.label "Tabela…">
 <!ENTITY insertTableCmd.accesskey "T">
-<!ENTITY insertHTMLCmd.label "HTML...">
+<!ENTITY insertHTMLCmd.label "HTML…">
 <!ENTITY insertHTMLCmd.accesskey "H">
 <!ENTITY insertMathCmd.label "Math…">
 <!ENTITY insertMathCmd.accesskey "M">
-<!ENTITY insertCharsCmd.label "Caracteres e símbolos...">
+<!ENTITY insertCharsCmd.label "Caracteres e símbolos…">
 <!ENTITY insertCharsCmd.accesskey "C">
 <!ENTITY insertBreakAllCmd.label "Quebra abaixo da(s) imagem(s)">
 <!ENTITY insertBreakAllCmd.accesskey "Q">
 <!-- Used just in context popup. -->
 
-<!ENTITY createLinkCmd.label "Criar ligação...">
+<!ENTITY createLinkCmd.label "Criar ligação…">
 <!ENTITY createLinkCmd.accesskey "C">
 <!ENTITY editLinkCmd.label "Editar ligação em novo compositor">
 <!ENTITY editLinkCmd.accesskey "i">
@@ -136,9 +136,9 @@
 <!ENTITY styleVar.label "Variável">
 <!ENTITY styleVar.accesskey "v">
 
-<!ENTITY formatFontColor.label "Cor do texto...">
-<!ENTITY formatFontColor.accesskey "o">
-<!ENTITY tableOrCellColor.label "Cor de fundo da tabela ou célula...">
+<!ENTITY formatFontColor.label "Cor do texto…">
+<!ENTITY formatFontColor.accesskey "C">
+<!ENTITY tableOrCellColor.label "Cor de fundo de tabela ou célula…">
 <!ENTITY tableOrCellColor.accesskey "C">
 
 <!ENTITY formatRemoveStyles.key "y">
@@ -181,7 +181,7 @@
 <!ENTITY listTermCmd.accesskey "T">
 <!ENTITY listDefinitionCmd.label "Definição">
 <!ENTITY listDefinitionCmd.accesskey "D">
-<!ENTITY listPropsCmd.label "Propriedades da lista...">
+<!ENTITY listPropsCmd.label "Propriedades da lista…">
 <!ENTITY listPropsCmd.accesskey "s">
 
 <!ENTITY ParagraphSelect.tooltip "Escolha um formato de parágrafo">
@@ -283,7 +283,7 @@
 <!ENTITY tableSplitCell.accesskey "c">
 <!ENTITY convertToTable.label "Criar tabela da seleção">
 <!ENTITY convertToTable.accesskey "r">
-<!ENTITY tableProperties.label "Propriedades da tabela...">
+<!ENTITY tableProperties.label "Propriedades da tabela…">
 <!ENTITY tableProperties.accesskey "o">
 <!-- Toolbar-only items -->
 
@@ -345,5 +345,5 @@
 <!ENTITY updateTOC.accesskey      "a">
 <!ENTITY removeTOC.label          "Remover">
 <!ENTITY removeTOC.accesskey      "r">
-<!ENTITY tocMenu.label            "Índice...">
+<!ENTITY tocMenu.label            "Índice…">
 <!ENTITY tocMenu.accesskey        "n">

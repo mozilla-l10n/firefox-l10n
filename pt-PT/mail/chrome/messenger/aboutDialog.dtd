@@ -10,7 +10,7 @@
 <!ENTITY update.checkForUpdatesButton.accesskey   "c">
 <!ENTITY update.updateButton.label2               "Reinicie o &brandShortName; para atualizar">
 <!ENTITY update.updateButton.accesskey            "R">
-<!ENTITY update.applyButtonBillboard.label        "Aplicar atualização...">
+<!ENTITY update.applyButtonBillboard.label        "Aplicar atualização…">
 <!ENTITY update.applyButtonBillboard.accesskey    "A">
 <!-- LOCALIZATION NOTE (warningDesc.version): This is a warning about the experimental nature of Nightly and Aurora builds. It is only shown in those versions. -->
 
@@ -54,7 +54,7 @@
 <!ENTITY bottomLinks.privacy        "Política de privacidade">
 <!-- LOCALIZATION NOTE (update.checkingForUpdates): try to make the localized text short (see bug 596813 for screenshots). -->
 
-<!ENTITY update.checkingForUpdates  "Procurar atualizações...">
+<!ENTITY update.checkingForUpdates  "Procurar atualizações…">
 <!-- LOCALIZATION NOTE (update.noUpdatesFound): try to make the localized text short (see bug 596813 for screenshots). -->
 <!ENTITY update.noUpdatesFound      "O &brandShortName; está atualizado">
 <!-- LOCALIZATION NOTE (update.adminDisabled): try to make the localized text short (see bug 596813 for screenshots). -->
@@ -97,7 +97,7 @@
 <!ENTITY update.downloading.start   "A transferir atualização — ">
 <!ENTITY update.downloading.end     "">
 
-<!ENTITY update.applying            "A aplicar atualização...">
+<!ENTITY update.applying            "A aplicar atualização…">
 <!-- LOCALIZATION NOTE (channel.description.start,channel.description.end): channel.description.start and
      channel.description.end create one sentence, with the current channel label inserted in between.
      example: You are currently on the _Stable_ update channel. -->
