@@ -11,6 +11,7 @@
 <!ENTITY aboutTelemetry.pingDataSource "Sorgente ping dati:">
 <!ENTITY aboutTelemetry.showCurrentPingData "Ping dati corrente">
 <!ENTITY aboutTelemetry.showArchivedPingData "Ping dati archiviati">
+<!ENTITY aboutTelemetry.showSubsessionData "Visualizza dati sottosessione">
 <!ENTITY aboutTelemetry.choosePing "Scegli ping:">
 <!ENTITY aboutTelemetry.showPreviousPing "&lt;&lt; Ping precedente">
 <!ENTITY aboutTelemetry.showNextPing "Ping successivo &gt;&gt;">
