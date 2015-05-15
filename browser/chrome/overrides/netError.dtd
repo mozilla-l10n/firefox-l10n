@@ -132,6 +132,8 @@ ukuba &brandShortName; ivunyelwe ukufikelela kwiWebhu.</li>
 <!ENTITY malwareBlocked.longDesc "<p>Iisayithi zohlaselo zizama ukufakela iiprogram eziba inkcazelo yangasese, zisebenzise ikhompyutha yakho ukuhlazela ezinye okanye zonakalise ikhompyutha yakho.</p> 
 <p>Abanini bewebhusayithi abakholelwa ukuba isayithi yabo ichazwe njengesayithi yohlaselo ngempazamo <a href='http://www.stopbadware.org/home/reviewinfo' >bangacela ukuba ijongwe kwakhona</a>.</p>">
 
+
+
 <!ENTITY phishingBlocked.title "Inkohliso yewebhu ekrokrelekayo!">
 <!ENTITY phishingBlocked.longDesc "<p>Ukungenisa naziphi na iinkcukacha kweli khasi kungakhokelela ekubiweni kwazo okanye kobunye ubuqhetseba.</p> 
 <p>Ezi ndidi zenkohliso zewebhu zisetyenziswa kwiqhinga elaziwa njengeqhinga lokufumana iinkcukacha apho amakhasi ewebhu neeimeyile zisetyenziswa ngokufana nemithombo onokuyithemba.</p>">

@@ -22,6 +22,8 @@
 
 <!ENTITY cmd.back.tooltip                     "Buya umva ngekhasi elinye">
 <!ENTITY cmd.forward.tooltip                  "Yiya phambili ngekhasi elinye">
+
+
 <!-- global warnings -->
 
 <!ENTITY warning.safemode.label                    "Zonke izongezelelo ziqhwalelisiwe ngemo ekhuselekileyo.">
@@ -102,7 +104,8 @@
 <!ENTITY cmd.installAddon.accesskey           "F">
 <!ENTITY cmd.uninstallAddon.label             "Susa">
 <!ENTITY cmd.uninstallAddon.accesskey         "S">
-<!ENTITY cmd.debugAddon.label                 "Khupha ibhagi">
+
+
 <!ENTITY cmd.showPreferencesWin.label         "Ekunokukhethwa kuko">
 <!ENTITY cmd.showPreferencesWin.tooltip       "Tshintsha okunokukhethwa kuko kwesongezelelo">
 <!ENTITY cmd.showPreferencesUnix.label        "Iipriferensi">
@@ -231,3 +234,15 @@ ezingcono nezibalulekileyo ukuba ulinge zona.">
 <!ENTITY experiment.info.changetelemetry.accesskey "T">
 
 <!ENTITY setting.learnmore "Funda ngaphezulu...">
+
+<!-- LOCALIZATION NOTE (disabledUnsigned.description.start, disabledUnsigned.description.findAddonsLink, disabledUnsigned.description.end):
+     These entities form a sentence, with
+     disabledUnsigned.description.findAddonsLink being a link to an external site. -->
+
+
+
+<!-- LOCALIZATION NOTE (disabledUnsigned.devInfo.start, disabledUnsigned.devInfo.linkToManual, disabledUnsigned.devInfo.end):
+     These entities form a sentence, with disabledUnsigned.devInfo.linkToManual
+     being a link to an external site. -->
+
+
