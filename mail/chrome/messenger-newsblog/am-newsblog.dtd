@@ -12,7 +12,7 @@
 <!ENTITY useQuickMode.label "Por definição, mostrar resumo do artigo em vez de carregar a página web"> 
 <!ENTITY useQuickMode.accesskey "d">
 
-<!ENTITY manageSubscriptions.label "Gerir subscrições..."> 
+<!ENTITY manageSubscriptions.label "Gerir subscrições…"> 
 <!ENTITY manageSubscriptions.accesskey "G">
 
 <!ENTITY feedWindowTitle.label "Assistente de conta de feed">

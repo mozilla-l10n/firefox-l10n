@@ -23,10 +23,10 @@
 <!ENTITY stopButton.label "Parar">
 <!ENTITY stopButton.accessKey "a">
 <!ENTITY userDictionary.label "Dicionário pessoal:">
-<!ENTITY moreDictionaries.label "Transferir mais dicionários...">
+<!ENTITY moreDictionaries.label "Transferir mais dicionários…">
 <!ENTITY addToUserDictionaryButton.label "Adicionar palavra">
 <!ENTITY addToUserDictionaryButton.accessKey "d">
-<!ENTITY editUserDictionaryButton.label "Editar...">
+<!ENTITY editUserDictionaryButton.label "Editar…">
 <!ENTITY editUserDictionaryButton.accessKey "E">
 <!ENTITY recheckButton.label "Verificar novamente">
 <!ENTITY recheckButton.accessKey "V">

@@ -17,7 +17,7 @@
 <!ENTITY print.label            "Imprimir">
 <!ENTITY find.label             "Localizar">
 <!ENTITY image.label            "Imagem">
-<!ENTITY hline.label            "Linha hor.">
+<!ENTITY hline.label            "Linha horizontal">
 <!ENTITY table.label            "Tabela">
 <!ENTITY link.label             "Ligação">
 <!ENTITY anchor.label           "Âncora">

@@ -3,24 +3,24 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!-- File menu items -->
 
-<!ENTITY openFileCmd.label "Abrir ficheiro...">
+<!ENTITY openFileCmd.label "Abrir ficheiro…">
 <!ENTITY openFileCmd.accesskey "o">
 <!ENTITY openFileCmd.key "o">
-<!ENTITY openRemoteCmd.label "Abrir local da web...">
+<!ENTITY openRemoteCmd.label "Abrir local da web…">
 <!ENTITY openRemoteCmd.accesskey "l">
 <!ENTITY openRemoteCmd.key "l">
 <!ENTITY fileRecentMenu.label "Páginas recentes">
 <!ENTITY fileRecentMenu.accesskey "r">
 <!ENTITY saveCmd.label "Guardar">
 <!ENTITY saveCmd.accesskey "G">
-<!ENTITY saveAsCmd.label "Guardar como...">
-<!ENTITY saveAsCmd.accesskey "u">
+<!ENTITY saveAsCmd.label "Guardar como…">
+<!ENTITY saveAsCmd.accesskey "a">
 <!ENTITY saveAsChangeEncodingCmd2.label "Guardar e alterar a codificação de texto">
 <!ENTITY saveAsChangeEncodingCmd2.accesskey "G">
 <!ENTITY publishCmd.label "Publicar">
 <!ENTITY publishCmd.accesskey "b">
 <!ENTITY publishCmd.key "S">
-<!ENTITY publishAsCmd.label "Publicar como...">
+<!ENTITY publishAsCmd.label "Publicar como…">
 <!ENTITY publishAsCmd.accesskey "i">
 <!ENTITY fileRevert.label "Reverter">
 <!ENTITY fileRevert.accesskey "v">

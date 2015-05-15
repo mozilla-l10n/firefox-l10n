@@ -4,7 +4,7 @@
 <!-- Subscription Dialog -->
 
 <!ENTITY feedSubscriptions.label     "Subscrições de fontes">
-<!ENTITY learnMore.label             "Saber mais sobre fontes.">
+<!ENTITY learnMore.label             "Saber mais sobre fontes">
 
 <!ENTITY feedTitle.label             "Título:">
 <!ENTITY feedTitle.accesskey         "T">
