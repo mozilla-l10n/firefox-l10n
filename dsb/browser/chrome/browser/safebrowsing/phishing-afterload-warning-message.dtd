@@ -13,7 +13,7 @@
 <!ENTITY safeb.blocked.malwarePage.longDesc "<p>Napadujuce boki wopytuju programy instalěrowaś, kótarež kšadnu priwatne informacije, wužywaju wašo licadło, aby druge napadnuli abo waš system škódowali.</p><p>Někotare napadujuce boki rozdźěluju z wótglědom škódnu softwaru, ale wjele z nich wobgrozujo se bźez wěźenja abo dowólenja jich wobsejźarjow.</p>">
 
 <!-- Localization note (safeb.blocked.malware.shortDesc) - Please don't translate the contents of the <span id="unwanted_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
-
+<!ENTITY safeb.blocked.unwantedPage.longDesc "<p>Boki z njewitaneju softwaru wopytuju softwaru instalěrowaś, kótaraž móžo wobšudna byś a kótaraž móžo waš system na njewótcakane nałogi wobwliwowaś.</p>">
 
 <!ENTITY safeb.blocked.phishingPage.title "Jo se webwobšuda k wěsći dała!">
 <!-- Localization note (safeb.blocked.phishing.shortDesc) - Please don't translate the contents of the <span id="phishing_sitename"/> tag. It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
