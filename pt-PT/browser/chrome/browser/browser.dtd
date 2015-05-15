@@ -182,7 +182,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY printButton.tooltip          "Imprimir esta página">
 
 <!ENTITY locationItem.title           "Localização">
-<!ENTITY searchItem.title             "Procurar">
+<!ENTITY searchItem.title             "Pesquisar">
 <!-- Toolbar items --> 
 
 <!ENTITY homeButton.label             "Página inicial">
@@ -390,7 +390,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY customizeMenu.addMoreItems.accesskey "A">
 
 <!ENTITY openCmd.commandkey           "l">
-<!ENTITY urlbar.placeholder2          "Procurar ou introduzir endereço">
+<!ENTITY urlbar.placeholder2          "Pesquisar ou introduzir endereço">
 <!ENTITY urlbar.accesskey             "a">
 <!ENTITY urlbar.switchToTab.label     "Mudar para o separador:">
 <!-- 

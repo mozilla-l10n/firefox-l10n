@@ -89,8 +89,8 @@
 <!ENTITY col.dateadded.label     "Adicionado">
 <!ENTITY col.lastmodified.label  "Última modificação">
 
-<!ENTITY search.label                              "Procurar:">
-<!ENTITY search.accesskey                          "P">
+<!ENTITY search.label                              "Pesquisar:">
+<!ENTITY search.accesskey                          "s">
 
 <!ENTITY cmd.find.key  "f">
 
@@ -108,8 +108,8 @@
 <!ENTITY detailsPane.less.accesskey "o">
 <!ENTITY detailsPane.selectAnItemText.description "Escolha o item para ver e editar as suas propriedades">
 
-<!ENTITY find.label               "Procurar:">
-<!ENTITY find.accesskey           "P">
+<!ENTITY find.label               "Pesquisar:">
+<!ENTITY find.accesskey           "s">
 <!ENTITY view.label               "Ver">
 <!ENTITY view.accesskey           "V">
 <!ENTITY byDate.label             "Por data">
