@@ -3,6 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY aboutTelemetry.pageTitle "Dane telemetrii">
+<!ENTITY aboutTelemetry.changeDataChoices "Zmień">
 <!ENTITY aboutTelemetry.uploadEnabled "Wysyłanie danych o zdrowiu Firefoksa jest <span>włączone</span>.">
 <!ENTITY aboutTelemetry.uploadDisabled "Wysyłanie danych o zdrowiu Firefoksa jest <span>wyłączone</span>.">
 <!ENTITY aboutTelemetry.extendedRecordingEnabled "Rejestrowanie rozszerzonych danych telemertrii jest <span>włączone</span>.">
