@@ -16,5 +16,7 @@
 <!ENTITY safeb.blocked.phishingPage.shortDesc2 "Осы парақта жеке мәліметтерді енгізу олардың ұрланып қалуына не алаяқтық мақсаттарда қолданылуға әкеп соғуы мүмкін.">
 <!ENTITY safeb.blocked.phishingPage.longDesc2 "<p>Осы түрдегі жалған веб-сайттар фишингтік шабуылдар деп аталатын алаяқтықтың түрінде қолданылады. Жалған веб сайттар не эл. пошта хаттары өзіңіз сенетін көзден шыққандай жасалынады.</p>">
 
+<!ENTITY safeb.blocked.unwantedPage.title "Осы сайт ұнамсыз бағдарламалық қамтаманы тарататыны туралы ақпарат бар!">
 <!-- Localization note (safeb.blocked.unwanted.shortDesc) - Please don't translate the contents of the <span id="unwanted_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
-
+<!ENTITY safeb.blocked.unwantedPage.shortDesc "Бұл веб <span id='malware_sitename'/> парағы ұнамсыз бағдарламалық қамтаманы тарататыны ретінде белгілі, және сіздің қауіпсіздік баптауларыңызға сәйкес блокталған.">
+<!ENTITY safeb.blocked.unwantedPage.longDesc "Ұнамсыз бағдарламалық қамтамасы бар беттер жүйеге зақым келтіре алатын және жүйенінің күтпеген жақтарына жағымсыз әсерін тигізетін БҚ-ны орнатқысы келеді.">

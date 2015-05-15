@@ -7,7 +7,7 @@
 <!ENTITY  error_loading_file "&brandShortName; іске қосылу үшін керек файларды жүктеу кезінде қате орын алды">
 
 <!ENTITY  onboard_start_message3 "&brandShortName; көмегімен шолу">
-
+<!ENTITY  onboard_start_subtext3 "Мобильді интернетті қолдануды өздік қылыңыз.">
 <!ENTITY  onboard_start_button_account "&brandShortName; ішіне кіріңіз">
 <!ENTITY  onboard_start_button_browser "Шолуды бастау">
 <!-- Localization note: These are used as the titles of different pages on the home screen.
@@ -189,10 +189,11 @@
 <!ENTITY pref_donottrack_title "Бақыламау">
 <!ENTITY pref_donottrack_summary "&brandShortName; сайттарға сіз өзіңізді бақыламауды қалайтыныңыз туралы айтады">
 
+<!ENTITY tab_queue_toast_message2 "&brandShortName; ішіндегі кезектегі беттер">
 <!ENTITY tab_queue_toast_action "Қазір ашу">
-
-
-
+<!ENTITY tab_queue_prompt_title "Бірнеше сілтемені ашу керек пе?">
+<!ENTITY tab_queue_prompt_text2 "Оларды әр рет &brandShortName; өніміне ауысусыз ашу.">
+<!ENTITY tab_queue_prompt_tip_text "бұны сіз кейін де Баптаулар ішінде өзгерте аласыз">
 <!ENTITY tab_queue_prompt_positive_action_button "Іске қосу">
 <!ENTITY tab_queue_prompt_negative_action_button "Қазір емес">
 <!ENTITY tab_queue_notification_title "&brandShortName;">
@@ -389,7 +390,7 @@ size. -->
 <!ENTITY pref_scroll_title_bar_summary "Парақ астына айналдыру кезінде &brandShortName; атау жолағын жасыру">
 
 <!ENTITY pref_tab_queue_title2 "Бірнеше сілтемені ашу">
-
+<!ENTITY pref_tab_queue_summary2 "Сілтемелерді әр рет &brandShortName; өніміне ауысу орнына кейінірек үшін кезекке қойыңыз">
 <!-- Localization note (page_removed): This string appears in a toast message when
      any page is removed frome about:home. This includes pages that are in history,
      bookmarks, or reading list. -->
