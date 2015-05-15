@@ -20,7 +20,7 @@
 <!ENTITY Advanced.tab                      "Avançado">
 <!ENTITY portNumber.label                  "Porta: ">
 <!ENTITY portNumber.accesskey              "P">
-<!ENTITY searchFilter.label                "Filtro de procura: ">
+<!ENTITY searchFilter.label                "Filtro de pesquisa: ">
 <!ENTITY searchFilter.accesskey            "F">
 <!ENTITY scope.label                       "Âmbito: ">
 <!ENTITY scope.accesskey                   "b">

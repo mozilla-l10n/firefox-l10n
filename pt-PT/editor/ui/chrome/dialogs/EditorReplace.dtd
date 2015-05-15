@@ -13,7 +13,7 @@
 <!ENTITY caseSensitiveCheckbox.accesskey "i">
 <!ENTITY wrapCheckbox.label "Translineação">
 <!ENTITY wrapCheckbox.accesskey "T">
-<!ENTITY backwardsCheckbox.label "Procurar para trás">
+<!ENTITY backwardsCheckbox.label "Pesquisar para trás">
 <!ENTITY backwardsCheckbox.accesskey "t">
 <!ENTITY findNextButton.label "Localizar seguinte">
 <!ENTITY findNextButton.accesskey "L">

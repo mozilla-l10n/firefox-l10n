@@ -5,5 +5,5 @@
 
 
 <!ENTITY title.label "Transferir certificados">
-<!ENTITY info.message "A procurar o diretório dos certificados dos destinatários. Pode demorar alguns minutos.">
-<!ENTITY stop.label "Parar de procurar">
+<!ENTITY info.message "A pesquisar diretório dos certificados dos destinatários. Pode demorar alguns minutos.">
+<!ENTITY stop.label "Parar pesquisa">

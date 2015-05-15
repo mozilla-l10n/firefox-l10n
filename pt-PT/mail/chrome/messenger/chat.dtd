@@ -5,7 +5,7 @@
 <!ENTITY onlineContactsHeader.label    "Contactos online">
 <!ENTITY offlineContactsHeader.label   "Contactos offline">
 <!ENTITY conversationsHeader.label     "Conversas">
-<!ENTITY searchResultConversation.label "Resultado da procura">
+<!ENTITY searchResultConversation.label "Resultado da pesquisa">
 <!ENTITY chat.noConv.title             "As conversas serão mostradas aqui.">
 <!ENTITY chat.noConv.description       "Utilize a lista de contactos no painel da esquerda para iniciar uma conversa.">
 <!ENTITY chat.noPreviousConv.description       "Atualmente, o &brandShortName; não tem qualquer conversa guardada para este contacto.">
