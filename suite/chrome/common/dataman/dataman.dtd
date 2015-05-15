@@ -13,7 +13,7 @@
 <!ENTITY select.passwords.label "Apenas palavras-passe">
 <!ENTITY select.storage.label "Apenas armazenamento">
 
-<!ENTITY domain.search.placeholder "Pesquisar domínios">
+<!ENTITY domain.search.placeholder "Domínios de pesquisa">
 <!ENTITY domain.search.key "q">
 
 <!ENTITY domain.tree.domain.label "Domínio">

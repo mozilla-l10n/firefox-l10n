@@ -6,9 +6,9 @@
 
 <!ENTITY historyWindowTitle.label       "Histórico">
 <!ENTITY menuBar.tooltip                "Barra de Menu">
-<!ENTITY searchBar.tooltip              "Barra de Pesquisa">
+<!ENTITY searchBar.tooltip              "Barra de pesquisa">
 
-<!ENTITY search.placeholder             "Pesquisar Histórico">
+<!ENTITY search.placeholder             "Pesquisar no histórico">
 <!ENTITY search.key                     "P">
 <!ENTITY view.label                     "Ver">
 

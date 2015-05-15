@@ -15,9 +15,9 @@
 <!ENTITY taskAddressBook.tooltip  "Livro de Endereços">
 <!-- searchAddressesCmd is also used by addressbook -->
 
-<!ENTITY searchAddressesCmd.label                       "Procurar Endereços...">
-<!ENTITY searchAddressesCmd.accesskey                   "P">
+<!ENTITY searchAddressesCmd.label                       "Pesquisar endereços…">
+<!ENTITY searchAddressesCmd.accesskey                   "a">
 
-<!ENTITY searchMailCmd.label "Procurar  Mensagens...">
-<!ENTITY searchMailCmd.accesskey "M">
+<!ENTITY searchMailCmd.label "Pesquisar mensagens…">
+<!ENTITY searchMailCmd.accesskey "m">
 <!ENTITY searchMailCmd.key "f">

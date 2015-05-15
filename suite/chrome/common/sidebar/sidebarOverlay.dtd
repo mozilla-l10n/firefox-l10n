@@ -28,7 +28,7 @@
 <!ENTITY sidebar.close.tooltip       "Fechar barra lateral">
 <!ENTITY sidebar.open.tooltip        "Abrir barra lateral">
 
-<!ENTITY sidebar.search.label         "Procurar">
+<!ENTITY sidebar.search.label         "Pesquisar">
 <!ENTITY sidebar.client-bookmarks.label     "Marcadores">
 <!ENTITY sidebar.client-history.label       "Histórico">
 <!ENTITY sidebar.client-addressbook.label   "Livro de endereços">

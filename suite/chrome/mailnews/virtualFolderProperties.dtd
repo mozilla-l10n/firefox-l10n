@@ -10,7 +10,7 @@
 
 <!ENTITY searchTermCaption.label       "Configura o critério de pesquisa usado por esta pesquisa guardada: ">
 
-<!ENTITY folderSelectionCaption.label  "Selecione as Pastas a Pesquisar: ">
+<!ENTITY folderSelectionCaption.label  "Selecione as pastas a pesquisar: ">
 <!ENTITY chooseFoldersButton.label     "Selecionar...">
 <!ENTITY chooseFoldersButton.accesskey "S">
 

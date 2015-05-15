@@ -7,9 +7,9 @@
 <!ENTITY menuBar.tooltip                 "Barra de menu">
 <!ENTITY searchBar.tooltip               "Barra de pesquisa">
 
-<!ENTITY search.placeholder              "Pesquisar transferências">
-<!ENTITY search.label                    "Pesquisar transferências">
-<!ENTITY search.accesskey                "P">
+<!ENTITY search.placeholder              "Pesquisar nas transferências">
+<!ENTITY search.label                    "Pesquisar nas transferências">
+<!ENTITY search.accesskey                "s">
 <!ENTITY search.key                      "f">
 
 <!ENTITY cmd.clearList.label             "Limpar lista">
