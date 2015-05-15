@@ -50,7 +50,7 @@
 <strong>http://www.example.com/</strong></li> 
 <div id='searchbox'> 
 <input id='searchtext' type='search'></input> 
-<button id='searchbutton'>Search</button> 
+<button id='searchbutton'>Pesquisa</button> 
 </div> 
 <li>Certifique-se que está a utilizar as barras corretamente (i.e. 
 <strong>/</strong>).</li> 
