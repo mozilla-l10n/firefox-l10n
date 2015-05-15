@@ -114,13 +114,13 @@
 <!-- LOCALIZATION NOTE (debuggerUI.searchGlobal): This is the text that appears
   -  in the source editor's context menu for the global search operation. -->
 
-<!ENTITY debuggerUI.searchGlobal           "Procurar em todos os ficheiros">
+<!ENTITY debuggerUI.searchGlobal           "Pesquisar em todos os ficheiros">
 <!ENTITY debuggerUI.searchGlobal.key       "F">
 <!ENTITY debuggerUI.searchGlobal.accesskey "f">
 <!-- LOCALIZATION NOTE (debuggerUI.searchFunction): This is the text that appears
   -  in the source editor's context menu for the function search operation. -->
 
-<!ENTITY debuggerUI.searchFunction           "Procurar por definição da pesquisa">
+<!ENTITY debuggerUI.searchFunction           "Pesquisar por definição de função">
 <!ENTITY debuggerUI.searchFunction.key       "D">
 <!ENTITY debuggerUI.searchFunction.accesskey "D">
 <!-- LOCALIZATION NOTE (debuggerUI.searchToken): This is the text that appears

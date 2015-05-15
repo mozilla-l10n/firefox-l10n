@@ -159,7 +159,7 @@
 <!-- Device Preferences -->
 
 <!ENTITY devicepreference_title "Preferências do dispositivo">
-<!ENTITY devicepreference_search "Preferências da pesquisa">
+<!ENTITY devicepreference_search "Preferências de pesquisa">
 <!ENTITY devicepreference_newname "Nome da nova preferência">
 <!ENTITY devicepreference_newtext "Valor da preferência">
 <!ENTITY devicepreference_addnew "Adicionar nova preferência">
