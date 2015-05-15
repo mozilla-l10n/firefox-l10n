@@ -6,8 +6,8 @@
 <!ENTITY  no_space_to_start_error "Недостатньо місця для запуску &brandShortName;.">
 <!ENTITY  error_loading_file "Сталась помилка під час завантаження файлів, необхідних для запуску &brandShortName;">
 
-<!ENTITY  onboard_start_message3 "Browse with &brandShortName;">
-<!ENTITY  onboard_start_subtext3 "Make your mobile Web browsing experience truly your own.">
+<!ENTITY  onboard_start_message3 "Переглядайте з &brandShortName;">
+<!ENTITY  onboard_start_subtext3 "Зробіть свій мобільний перегляд Інтернету дійсно унікальним.">
 <!ENTITY  onboard_start_button_account "Увійти до &brandShortName;">
 <!ENTITY  onboard_start_button_browser "Почати перегляд">
 
@@ -189,13 +189,13 @@
 <!ENTITY pref_donottrack_title "Не стежити">
 <!ENTITY pref_donottrack_summary "&brandShortName; буде повідомляти сайти, що ви не хочете, щоб за вами стежили">
 
-<!ENTITY tab_queue_toast_message2 "Tab queued in &brandShortName;">
+<!ENTITY tab_queue_toast_message2 "Вкладка поставлена в чергу в &brandShortName;">
 <!ENTITY tab_queue_toast_action "Відкрити зараз">
-<!ENTITY tab_queue_prompt_title "Opening multiple links?">
-<!ENTITY tab_queue_prompt_text2 "Open them without switching to &brandShortName; each time.">
-<!ENTITY tab_queue_prompt_tip_text "you can change this later in Settings">
-<!ENTITY tab_queue_prompt_positive_action_button "Enable">
-<!ENTITY tab_queue_prompt_negative_action_button "Not now">
+<!ENTITY tab_queue_prompt_title "Відкриваєте багато посилань?">
+<!ENTITY tab_queue_prompt_text2 "Відкривайте їх, не перемикаючись щоразу в &brandShortName;.">
+<!ENTITY tab_queue_prompt_tip_text "ви можете пізніше змінити це в налаштуваннях">
+<!ENTITY tab_queue_prompt_positive_action_button "Увімкнути">
+<!ENTITY tab_queue_prompt_negative_action_button "Не зараз">
 <!ENTITY tab_queue_notification_title "&brandShortName;">
 <!-- Localization note (tab_queue_notification_text_plural2) : The
      formatD is replaced with the number of tabs queued.  The
@@ -252,8 +252,8 @@ size. -->
 <!ENTITY pref_import_android "Імпорт з Android">
 <!ENTITY pref_import_android_summary "Імпорт закладок та історії з вбудованого браузера">
 <!ENTITY pref_private_data_history2 "Історія перегляду">
-<!ENTITY pref_private_data_searchHistory "Search history">
-<!ENTITY pref_private_data_formdata2 "Form history">
+<!ENTITY pref_private_data_searchHistory "Історія пошуку">
+<!ENTITY pref_private_data_formdata2 "Історія форм">
 <!ENTITY pref_private_data_cookies2 "Куки та активні сеанси">
 <!ENTITY pref_private_data_passwords "Збережені паролі">
 <!ENTITY pref_private_data_cache "Кеш">
@@ -378,7 +378,7 @@ size. -->
 <!ENTITY doorhanger_login_edit_username_hint "Ім’я користувача">
 <!ENTITY doorhanger_login_edit_password_hint "Пароль">
 <!ENTITY doorhanger_login_edit_toggle "Показати пароль">
-<!ENTITY doorhanger_login_edit_toast_error "Failed to save login">
+<!ENTITY doorhanger_login_edit_toast_error "Не вдалося зберегти логін">
 
 <!ENTITY pref_titlebar_mode "Панель заголовка">
 <!ENTITY pref_titlebar_mode_title "Показувати заголовок сторінки">
@@ -389,8 +389,8 @@ size. -->
 <!ENTITY pref_scroll_title_bar2 "Повноекранний перегляд">
 <!ENTITY pref_scroll_title_bar_summary "Приховує панель заголовка &brandShortName; при прокрутці сторінки вниз">
 
-<!ENTITY pref_tab_queue_title2 "Open multiple links">
-<!ENTITY pref_tab_queue_summary2 "Queue links for later instead of switching to &brandShortName; each time">
+<!ENTITY pref_tab_queue_title2 "Відкриття багатьох посилань">
+<!ENTITY pref_tab_queue_summary2 "Ставити посилання в чергу на відкриття замість того, щоб перемикатися щоразу в &brandShortName;">
 
 <!-- Localization note (page_removed): This string appears in a toast message when
      any page is removed frome about:home. This includes pages that are in history,
@@ -440,7 +440,7 @@ size. -->
 <!ENTITY button_clear "Очистити">
 <!ENTITY button_remember "Запам’ятати">
 
-<!ENTITY firstrun_panel_title_welcome "Welcome">
+<!ENTITY firstrun_panel_title_welcome "Вітаємо">
 
 <!ENTITY home_top_sites_title "Часті сайти">
 <!-- Localization note (home_top_sites_add): This string is used as placeholder
