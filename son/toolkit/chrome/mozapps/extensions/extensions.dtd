@@ -22,6 +22,8 @@
 
 <!ENTITY cmd.back.tooltip                     "Yee banda nda moo foo">
 <!ENTITY cmd.forward.tooltip                  "Koy jine nda moo foo">
+
+
 <!-- global warnings -->
 
 <!ENTITY warning.safemode.label                    "Saajaw alhaalooo na tontoney kul kayandi.">
@@ -102,7 +104,8 @@
 <!ENTITY cmd.installAddon.accesskey           "S">
 <!ENTITY cmd.uninstallAddon.label             "Kaa">
 <!ENTITY cmd.uninstallAddon.accesskey         "K">
-<!ENTITY cmd.debugAddon.label                 "Hanse">
+
+
 <!ENTITY cmd.showPreferencesWin.label         "Suubarey">
 <!ENTITY cmd.showPreferencesWin.tooltip       "Tontonoo woo suubarey barmay">
 <!ENTITY cmd.showPreferencesUnix.label        "Ibaayey">
@@ -230,3 +233,15 @@ tontoni kul ihenney nda bayrantey war šiiyanoo še.">
 <!ENTITY experiment.info.changetelemetry.accesskey "T">
 
 <!ENTITY setting.learnmore "Bay ka tonton…">
+
+<!-- LOCALIZATION NOTE (disabledUnsigned.description.start, disabledUnsigned.description.findAddonsLink, disabledUnsigned.description.end):
+     These entities form a sentence, with
+     disabledUnsigned.description.findAddonsLink being a link to an external site. -->
+
+
+
+<!-- LOCALIZATION NOTE (disabledUnsigned.devInfo.start, disabledUnsigned.devInfo.linkToManual, disabledUnsigned.devInfo.end):
+     These entities form a sentence, with disabledUnsigned.devInfo.linkToManual
+     being a link to an external site. -->
+
+
