@@ -3,8 +3,10 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY aboutTelemetry.pageTitle "Dati telemetria">
-<!ENTITY aboutTelemetry.telemetryEnabled "La telemetria è <span>attiva</span>.">
-<!ENTITY aboutTelemetry.telemetryDisabled "La telemetria è <span>disattivata</span>.">
+<!ENTITY aboutTelemetry.uploadEnabled "L’invio dei dati FHR è <span>attivo</span>.">
+<!ENTITY aboutTelemetry.uploadDisabled "L’invio dei dati FHR è <span>disattivato</span>.">
+<!ENTITY aboutTelemetry.extendedRecordingEnabled "La registrazione della telemetria estesa è <span>attiva</span>.">
+<!ENTITY aboutTelemetry.extendedRecordingDisabled "La registrazione della telemetria estesa è <span>disattivata</span>.">
 <!ENTITY aboutTelemetry.generalDataSection "Dati generali">
 <!ENTITY aboutTelemetry.environmentDataSection "Dati ambiente">
 <!ENTITY aboutTelemetry.telemetryLogSection "Registro telemetria">
