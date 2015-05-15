@@ -80,7 +80,7 @@
 <!ENTITY pref_category_advanced "उन्नत">
 <!ENTITY pref_category_customize "मनपसंद बनाएँ">
 <!ENTITY pref_category_customize_summary "मुखपृष्ठ, खोज, टैब, आयात">
-
+<!ENTITY pref_category_customize_alt_summary "होम, खोज, टैब, बाद में खोलें, आयात ">
 <!-- Localization note (pref_category_language) : This is the preferences
      section in which the user picks the locale in which to display Firefox
      UI. The locale includes both language and region concepts. -->
@@ -124,6 +124,7 @@
      divided into two lines (use the newline escape character, "\n", between
      them): the first notifying the user about the failure and the second
      telling the user what to do about it. -->
+<!ENTITY overlay_share_tab_not_sent "आपका टैब नहीं भेजा जा सकता।\nPlease बाद में प्रयास करें।">
 
 <!ENTITY pref_category_search3 "खोजें">
 <!ENTITY pref_category_search_summary "खोज प्रदाता को मनपसंद बनाएँ">
@@ -148,7 +149,7 @@
 <!ENTITY pref_search_hint "सुझाव : खोज प्रदाता की सूची में किसी भी वेबसाइट को जोड़ने के लिए खोज क्षेत्र को देर तक दबाएँ और &formatI; प्रतीक को टिपटिपाएँ.">
 <!ENTITY pref_category_devtools "डेवलेपर औज़ार">
 <!ENTITY pref_developer_remotedebugging "दूरस्थ डिबगिंग">
-
+<!ENTITY pref_category_logins "लॉगिन">
 <!ENTITY pref_remember_signons "कूटशब्द याद रखें">
 <!ENTITY pref_manage_logins "लॉगिन प्रबंधित करें…">
 
@@ -187,13 +188,14 @@
 <!ENTITY pref_donottrack_title "पीछा न करें">
 <!ENTITY pref_donottrack_summary "&brandShortName; साइट को बताता है कि आप ट्रैक नाहि होना छह्ते है">
 
+<!ENTITY tab_queue_toast_message2 "टैब में पंक्तिबद्ध &brandShortName;">
+<!ENTITY tab_queue_toast_action "अभी खोलें">
+<!ENTITY tab_queue_prompt_title "एकाधिक लिंक खोलें?">
 
+<!ENTITY tab_queue_prompt_tip_text "आप सेटिंग में बाद में बदल सकते हैं">
+<!ENTITY tab_queue_prompt_positive_action_button "सक्षम करें">
 
-
-
-
-
-
+<!ENTITY tab_queue_notification_title "&brandShortName;">
 <!-- Localization note (tab_queue_notification_text_plural2) : The
      formatD is replaced with the number of tabs queued.  The
      number of tabs queued is always more than one.  We can't use
@@ -247,8 +249,8 @@ size. -->
 <!ENTITY pref_import_android "ऐंड्रॉयड से आयात करें">
 <!ENTITY pref_import_android_summary "देशी ब्राउज़र से बुकमार्क और इतिहास आयात करें">
 <!ENTITY pref_private_data_history2 "ब्राउज़िंग इतिहास">
-
-
+<!ENTITY pref_private_data_searchHistory "खोज इतिहास">
+<!ENTITY pref_private_data_formdata2 "फॉर्म इतिहास">
 <!ENTITY pref_private_data_cookies2 "कुकीज़ व सक्रिय लॉगिन">
 <!ENTITY pref_private_data_passwords "सहेजा गया कूटशब्द">
 <!ENTITY pref_private_data_cache "कैशे">
@@ -296,7 +298,7 @@ size. -->
      (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
 <!ENTITY datareporting_crashreporter_title_short "क्रैश रिपोर्टर">
 <!ENTITY datareporting_wifi_title2 "&vendorShortName; अवस्थिति सेवा">
-
+<!ENTITY datareporting_wifi_geolocation_summary4 "मदत &vendorShortName; दुनिया को आपस में जोडती है ! हमारे जियोलोकेशन सेवा में सुधार करने के लिए अनुमानित वाई-फाई और अपनी डिवाइस के सेलुलर स्थान साझा करें।">
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
      actual notification that an update is available. -->
