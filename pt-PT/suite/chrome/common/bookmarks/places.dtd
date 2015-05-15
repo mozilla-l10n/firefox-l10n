@@ -87,10 +87,10 @@
 <!ENTITY col.dateadded.label     "Adicionado">
 <!ENTITY col.lastmodified.label  "Última modificação">
 
-<!ENTITY search.label                              "Procurar:">
-<!ENTITY search.placeholder                        "Procurar marcadores">
+<!ENTITY search.label                              "Pesquisar:">
+<!ENTITY search.placeholder                        "Pesquisar nos marcadores">
 
-<!ENTITY search.in.label                           "Procurar em:">
+<!ENTITY search.in.label                           "Pesquisar em:">
 <!ENTITY search.scopeFolder.label                  "Pasta escolhida">
 <!ENTITY search.scopeFolder.accesskey              "P">
 <!ENTITY search.scopeBookmarks.label               "Marcadores">

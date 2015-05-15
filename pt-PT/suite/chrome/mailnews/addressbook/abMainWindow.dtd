@@ -81,8 +81,8 @@
 <!ENTITY deleteItemButton.accesskey                     "a">
 <!ENTITY newimButton.label                              "Mensagem instantânea">  
 <!ENTITY newimButton.accesskey                          "i">  
-<!ENTITY searchNameAndEmail.placeholder                 "Procurar nome e correio">
-<!ENTITY searchBox.title                                "Procurar">
+<!ENTITY searchNameAndEmail.placeholder                 "Pesquisar nome e correio">
+<!ENTITY searchBox.title                                "Pesquisar">
 <!-- Tooltips -->
 
 <!ENTITY addressbookToolbar.tooltip                     "Barra de ferramentas do livro de endereços">

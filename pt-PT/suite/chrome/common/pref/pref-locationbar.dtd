@@ -26,7 +26,7 @@
 <!ENTITY autoCompleteMatchWordsFirst           "Em qualquer lado mas preferencialmente nos limites da palavra">
 <!ENTITY autoCompleteMatchWords                "Apenas nos limites da palavra">
 <!ENTITY autoCompleteMatchStart                "Apenas no início da localização ou título">
-<!ENTITY showInternetSearch.label              "Mostrar motor de busca pré-definido Internet">
+<!ENTITY showInternetSearch.label              "Mostrar motor de pesquisa pré-definido">
 <!ENTITY showInternetSearch.accesskey          "e">
 
 <!ENTITY formatting.label                      "Formatação">
@@ -38,5 +38,5 @@
 <!ENTITY unknownLocations.label                "Localizações desconhecidas">
 <!ENTITY domainGuessing.label                  "Adicionar &quot;www.&quot; e &quot;.com&quot; à localização se a página web não for encontrada">
 <!ENTITY domainGuessing.accesskey              "w">
-<!ENTITY keywords.label                        "Efetuar uma procura web se o texto introduzido não for um endereço">
-<!ENTITY keywords.accesskey                    "f">
+<!ENTITY keywords.label                        "Efetuar uma pesquisa web se o texto introduzido não for um endereço">
+<!ENTITY keywords.accesskey                    "p">
