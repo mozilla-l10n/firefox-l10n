@@ -53,6 +53,7 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 <!ENTITY aboutSupport.appBasicsBuildConfig "Жинау баптаулары">
 <!ENTITY aboutSupport.appBasicsUserAgent "User Agent">
 <!ENTITY aboutSupport.appBasicsMemoryUse "Жады қолданылуы">
+<!-- LOCALIZATION NOTE the term "Service Workers" should not be translated. -->
 
 <!ENTITY aboutSupport.appBasicsMultiProcessSupport "Мультипроцесс терезелері">
 

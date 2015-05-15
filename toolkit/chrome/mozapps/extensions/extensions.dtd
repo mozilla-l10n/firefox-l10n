@@ -22,6 +22,8 @@
 
 <!ENTITY cmd.back.tooltip                     "Бір параққа қайту">
 <!ENTITY cmd.forward.tooltip                  "Бір параққа алға бару">
+
+
 <!-- global warnings -->
 
 <!ENTITY warning.safemode.label                    "Барлық кеңейтулер қауіпсіз режимімен сөндірілген.">
@@ -102,7 +104,8 @@
 <!ENTITY cmd.installAddon.accesskey           "н">
 <!ENTITY cmd.uninstallAddon.label             "Өшіру">
 <!ENTITY cmd.uninstallAddon.accesskey         "ш">
-<!ENTITY cmd.debugAddon.label                 "Жөндеу">
+
+
 <!ENTITY cmd.showPreferencesWin.label         "Опциялар">
 <!ENTITY cmd.showPreferencesWin.tooltip       "Бұл кеңейтудің опцияларын өзгерту">
 <!ENTITY cmd.showPreferencesUnix.label        "Баптаулар">
@@ -231,3 +234,15 @@
 <!ENTITY experiment.info.changetelemetry.accesskey "т">
 
 <!ENTITY setting.learnmore "Көбірек білу…">
+
+<!-- LOCALIZATION NOTE (disabledUnsigned.description.start, disabledUnsigned.description.findAddonsLink, disabledUnsigned.description.end):
+     These entities form a sentence, with
+     disabledUnsigned.description.findAddonsLink being a link to an external site. -->
+
+
+
+<!-- LOCALIZATION NOTE (disabledUnsigned.devInfo.start, disabledUnsigned.devInfo.linkToManual, disabledUnsigned.devInfo.end):
+     These entities form a sentence, with disabledUnsigned.devInfo.linkToManual
+     being a link to an external site. -->
+
+
