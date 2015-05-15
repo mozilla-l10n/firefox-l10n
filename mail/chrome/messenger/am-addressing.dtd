@@ -8,13 +8,13 @@
 <!ENTITY addressingGroupTitle.label "Naslavljanje">
 <!ENTITY addressingText.label      "Med iskanjem naslovov:">
 <!-- LOCALIZATION NOTE (override.label) : do not translate "LDAP" in below line -->
-<!ENTITY useGlobal.label           "Uporabi splošne nastavitve strežnika LDAP za ta račun">
-<!ENTITY useGlobal.accesskey       "U">
+<!ENTITY useGlobal.label           "uporabi splošne nastavitve strežnika LDAP za ta račun">
+<!ENTITY useGlobal.accesskey       "š">
 <!ENTITY editDirectories.label     "Uredi imenike …">
 <!ENTITY editDirectories.accesskey "U">
 <!-- LOCALIZATION NOTE (directories.label) : do not translate "LDAP" in below line -->
-<!ENTITY directories.label         "Uporabi drug strežnik LDAP:">
-<!ENTITY directories.accesskey     "P">
+<!ENTITY directories.label         "uporabi drug strežnik LDAP:">
+<!ENTITY directories.accesskey     "d">
 <!ENTITY directoriesNone.label     "Brez">
 <!-- am-addressing.xul -->
 
@@ -44,4 +44,4 @@
 <!ENTITY globalComposingPrefs.accesskey       "e">
 
 <!ENTITY globalAddressingPrefs.label          "Splošne nastavitve za naslavljanje …">
-<!ENTITY globalAddressingPrefs.accesskey      "n">
+<!ENTITY globalAddressingPrefs.accesskey      "a">
