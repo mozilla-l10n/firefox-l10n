@@ -13,6 +13,7 @@
 ">
 
 <!ENTITY aboutTelemetry.generalDataSection "Ogólne">
+<!ENTITY aboutTelemetry.environmentDataSection "Dane środowiska">
 <!ENTITY aboutTelemetry.telemetryLogSection "Dziennik telemetrii">
 <!ENTITY aboutTelemetry.slowSqlSection "
   Powolne polecenia SQL
