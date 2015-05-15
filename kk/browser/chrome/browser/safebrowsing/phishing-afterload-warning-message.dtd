@@ -12,6 +12,9 @@
 <!ENTITY safeb.blocked.malwarePage.shortDesc "Бұл веб <span id='malware_sitename'/> парағы шабуылшы ретінде белгілі, және сіздің қауіпсіздік баптауларыңызға сәйкес блокталған.">
 <!ENTITY safeb.blocked.malwarePage.longDesc "<p>Шабуылшы парақтар жеке ақпаратты ұрлайтын, компьютеріңізді басқа компьютерлерге шабуыл жасауға қолданатын, не жүйеңізді зақымдайтын бағдарламаларды орнатқысы келеді.</p><p>Кейбір шабуылшы парақтар зиянды бағдарламаларды әдейі таратады, бірақ, кейбір парақтар өздерінің иелері білмейтіндей және олардың рұқсаты жоқ жағдайға әдейі келтірілген.</p>">
 
+<!-- Localization note (safeb.blocked.malware.shortDesc) - Please don't translate the contents of the <span id="unwanted_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
+
+
 <!ENTITY safeb.blocked.phishingPage.title "Хабарланған веб алаяқтылық!">
 <!-- Localization note (safeb.blocked.phishing.shortDesc) - Please don't translate the contents of the <span id="phishing_sitename"/> tag. It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
 <!ENTITY safeb.blocked.phishingPage.shortDesc "Бұл веб <span id='phishing_sitename'/> парағы алаяқты ретінде белгілі, және сіздің қауіпсіздік баптауларыңызға сәйкес блокталған.">
