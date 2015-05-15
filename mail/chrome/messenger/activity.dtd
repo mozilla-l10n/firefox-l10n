@@ -34,4 +34,4 @@ file names and tall enough to hint that there are more activities in the list --
 <!ENTITY cmd.find.commandkey              "f">
 <!ENTITY cmd.search.commandkey            "k">
 
-<!ENTITY searchBox.label                  "Procurar…">
+<!ENTITY searchBox.label                  "Pesquisar…">

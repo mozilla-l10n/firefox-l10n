@@ -14,7 +14,7 @@
 <!ENTITY folderRebuildSummaryFile2.accesskey     "R">
 <!ENTITY folderRebuildSummaryFile.explanation    "Por vezes, o índice da pasta (.msf) fica danificado e as mensagens poderão desaparecer ou as já eliminadas continuam a aparecer. A reparação de pasta poderá resolver este problema.">
 <!ENTITY folderIncludeInGlobalSearch.label       "Incluir mensagens desta pasta nos resultados de pesquisa global">
-<!ENTITY folderIncludeInGlobalSearch.accesskey   "I">
+<!ENTITY folderIncludeInGlobalSearch.accesskey   "g">
 
 <!ENTITY retention.label "Política de retenção">
 <!ENTITY retentionUseAccount.label  "Utilizar definições da minha conta">

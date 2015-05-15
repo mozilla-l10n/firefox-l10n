@@ -17,5 +17,5 @@
 <!ENTITY checkOnStartup.label "Efetuar sempre esta verificação ao iniciar o &brandShortName;">
 <!ENTITY checkOnStartup.accesskey "a">
 
-<!ENTITY searchIntegration.label "Permitir que &searchIntegration.engineName; procure as mensagens">
+<!ENTITY searchIntegration.label "Permitir que &searchIntegration.engineName; pesquise as mensagens">
 <!ENTITY searchIntegration.accesskey "P">

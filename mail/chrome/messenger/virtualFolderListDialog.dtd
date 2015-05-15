@@ -3,5 +3,5 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY virtualFolderListTitle.title        "Escolha a(s) pasta(s)">
-<!ENTITY virtualFolderDesc.label       "Escolha as pastas a procurar:">
+<!ENTITY virtualFolderDesc.label       "Escolha as pastas a pesquisar:">
 

@@ -35,5 +35,5 @@
 <!ENTITY helpButton.label "Ajuda">
 <!ENTITY helpButton.accesskey "u">
 <!ENTITY closeCmd.key "W"> 
-<!ENTITY searchBox.emptyText "Procurar filtros por nome…">
+<!ENTITY searchBox.emptyText "Pesquisar filtros por nome…">
 

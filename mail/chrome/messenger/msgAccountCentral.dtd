@@ -22,7 +22,7 @@
 <!ENTITY newAcct.label                "Cria uma nova conta:">
 
 <!ENTITY advFeaturesSectionHdr.label  "Definições avançadas">
-<!ENTITY searchMsgsLink.label         "Procurar mensagens">
+<!ENTITY searchMsgsLink.label         "Pesquisar mensagens">
 <!ENTITY filtersLink.label            "Gerir filtros de mensagens">
 <!ENTITY junkSettings.label           "Definições de lixo eletrónico">
 <!ENTITY offlineLink.label            "Definições do modo offline">

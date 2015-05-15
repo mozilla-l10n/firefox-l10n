@@ -521,8 +521,8 @@
 <!ENTITY notJunkButton.label "Não é lixo eletrónico">
 <!ENTITY addressBookButton.label "Livro de endereços">
 <!ENTITY chatButton.label "Conversação">
-<!ENTITY glodaSearch.title "Procura global">
-<!ENTITY searchItem.title "Procura rápida">
+<!ENTITY glodaSearch.title "Pesquisa global">
+<!ENTITY searchItem.title "Pesquisa rápida">
 <!ENTITY mailViewsToolbarItem.title "Vistas do correio">
 <!ENTITY folderLocationToolbarItem.title "Localização da pasta">
 <!ENTITY tagButton.label "Etiqueta">
@@ -530,7 +530,7 @@
 <!ENTITY appmenuButton.label "Menu de aplicações">
 <!-- Mail Toolbar Tooltips-->
 
-<!ENTITY advancedButton.tooltip "Procura avançada de mensagens">
+<!ENTITY advancedButton.tooltip "Pesquisa avançada de mensagens">
 <!ENTITY getMsgButton.tooltip "Obter novas mensagens">
 <!ENTITY getAllNewMsgCmd.label "Obter todas as novas mensagens">
 <!ENTITY getAllNewMsgCmd.accesskey "g">
@@ -631,7 +631,7 @@
 <!ENTITY folderContextMarkMailFolderRead.accesskey "c">
 <!ENTITY folderContextSubscribe.label "Subscrever...">
 <!ENTITY folderContextSubscribe.accesskey "b">
-<!ENTITY folderContextSearchForMessages.label "Procurar mensagens...">
+<!ENTITY folderContextSearchForMessages.label "Pesquisar mensagens…">
 <!ENTITY folderContextSearchForMessages.accesskey "s">
 <!ENTITY folderContextProperties2.label "Propriedades">
 <!ENTITY folderContextProperties2.accesskey "P">
@@ -645,7 +645,7 @@
 <!ENTITY SearchNameOrEmail.accesskey "n">
 <!-- Gloda Search Bar -->
 
-<!ENTITY glodaSearchBar.placeholder "Procurar mensagens...">
+<!ENTITY glodaSearchBar.placeholder "Pesquisar mensagens…">
 <!-- Quick Search Menu Bar -->
 
 <!ENTITY searchSubjectMenu.label "Assunto">
@@ -825,7 +825,7 @@
      to get to the box faster.  If the global indexer is disabled, the search
      box will be collapsed and the user will never see this message.
      -->
-<!ENTITY search.label.base "Procurar #1">
+<!ENTITY search.label.base "Pesquisar… #1">
 <!-- LOCALIZATION NOTE (search.keyLabel.nonmac):
      The description of the key-binding to get into the global search box on
      windows and linux (which use the control key).  We use the key defined in
