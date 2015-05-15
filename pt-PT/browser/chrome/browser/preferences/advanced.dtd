@@ -10,7 +10,7 @@
 
 <!ENTITY useCursorNavigation.label       "Utilizar sempre as teclas do cursor para navegar nas páginas">
 <!ENTITY useCursorNavigation.accesskey   "c">
-<!ENTITY searchStartTyping.label         "Procurar texto ao escrever">
+<!ENTITY searchStartTyping.label         "Localizar texto ao escrever">
 <!ENTITY searchStartTyping.accesskey     "e">
 <!ENTITY blockAutoRefresh.label          "Avisar se os sítios web que visito tentam redirecionar ou recarregar a página">
 <!ENTITY blockAutoRefresh.accesskey      "r">

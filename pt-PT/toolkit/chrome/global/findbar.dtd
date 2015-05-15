@@ -13,4 +13,4 @@
 <!ENTITY highlightAll.tooltiptext "Realçar todas as ocorrências da frase">
 <!ENTITY caseSensitive.label "Diferenciar maiúsculas de minúsculas">
 <!ENTITY caseSensitive.accesskey "c">
-<!ENTITY caseSensitive.tooltiptext "Procurar diferenciando o tipo de letra">
+<!ENTITY caseSensitive.tooltiptext "Pesquisar diferenciando maiúsculas/minúsculas">
