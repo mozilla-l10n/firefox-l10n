@@ -22,6 +22,8 @@
 
 <!ENTITY cmd.back.tooltip                     "Vés enrere una pàgina">
 <!ENTITY cmd.forward.tooltip                  "Vés endavant una pàgina">
+
+
 <!-- global warnings -->
 
 <!ENTITY warning.safemode.label                    "El mode segur ha inhabilitat tots els complements.">
@@ -102,7 +104,8 @@
 <!ENTITY cmd.installAddon.accesskey           "I">
 <!ENTITY cmd.uninstallAddon.label             "Suprimeix">
 <!ENTITY cmd.uninstallAddon.accesskey         "r">
-<!ENTITY cmd.debugAddon.label                 "Depuració">
+
+
 <!ENTITY cmd.showPreferencesWin.label         "Opcions">
 <!ENTITY cmd.showPreferencesWin.tooltip       "Canvia les opcions del complement">
 <!ENTITY cmd.showPreferencesUnix.label        "Preferències">
@@ -228,3 +231,15 @@
 <!ENTITY experiment.info.changetelemetry.accesskey "t">
 
 <!ENTITY setting.learnmore "Més informació…">
+
+<!-- LOCALIZATION NOTE (disabledUnsigned.description.start, disabledUnsigned.description.findAddonsLink, disabledUnsigned.description.end):
+     These entities form a sentence, with
+     disabledUnsigned.description.findAddonsLink being a link to an external site. -->
+
+
+
+<!-- LOCALIZATION NOTE (disabledUnsigned.devInfo.start, disabledUnsigned.devInfo.linkToManual, disabledUnsigned.devInfo.end):
+     These entities form a sentence, with disabledUnsigned.devInfo.linkToManual
+     being a link to an external site. -->
+
+

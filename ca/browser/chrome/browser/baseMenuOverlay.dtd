@@ -26,6 +26,8 @@
 <!ENTITY helpSafeMode.label       "Reinicia amb els complements inhabilitats…">
 <!ENTITY helpSafeMode.accesskey   "R">
 
+
+
 <!ENTITY healthReport2.label      "Informe de salut del &brandShorterName;">
 <!ENTITY healthReport2.accesskey  "e">
 

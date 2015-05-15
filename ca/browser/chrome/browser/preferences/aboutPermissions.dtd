@@ -42,5 +42,6 @@
 <!ENTITY popup.label                     "Obrir finestres emergents">
 
 <!ENTITY fullscreen.label                "Pantalla completa">
+
 <!ENTITY camera.label                    "Utilitzar la càmera">
 <!ENTITY microphone.label                "Utilitzar el micròfon">
