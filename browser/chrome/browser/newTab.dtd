@@ -4,9 +4,13 @@
 <!-- These strings are used in the about:newtab page -->
 
 <!ENTITY newtab.pageTitle "Pestanya nova">
+
+
+
+
 <!ENTITY newtab.customize.title "Personalitzeu la pàgina de pestanya nova">
 <!ENTITY newtab.customize.suggested "Mostra els llocs recomanats i destacats">
-<!ENTITY newtab.customize.topsites "Mostra els llocs destacats">
+
 <!ENTITY newtab.customize.blank2 "Mostra una pàgina en blanc">
 <!ENTITY newtab.customize.what "Què és aquesta pàgina?">
 <!ENTITY newtab.intro.header "Què és aquesta pàgina? ">
