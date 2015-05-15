@@ -49,4 +49,4 @@ file names and tall enough to hint that there are more downloads in the list -->
 <!ENTITY closeWhenDone.tooltip            "Fecha a janela de transferências quando todas as transferências tiverem terminado">
 
 <!ENTITY showFolder.label                 "Mostrar esta pasta">
-<!ENTITY searchBox.label                  "Procurar...">
+<!ENTITY searchBox.label                  "Pesquisar…">

@@ -3,8 +3,8 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!ENTITY addons.windowTitle                   "Gestor de extras">
 
-<!ENTITY search.placeholder                   "Procurar todos os extras">
-<!ENTITY search.buttonlabel                   "Procurar">
+<!ENTITY search.placeholder                   "Pesquisar todos os extras">
+<!ENTITY search.buttonlabel                   "Pesquisar">
 <!-- LOCALIZATION NOTE (search.commandKey):
      The search command key should match findOnCmd.commandkey from browser.dtd -->
 <!ENTITY search.commandkey                    "f">
@@ -40,7 +40,7 @@
 <!ENTITY info.plugincheck.tooltip               "Verificar se os plugins estão atualizados">
 <!-- categories / views -->
 
-<!ENTITY view.search.label                    "Procurar">
+<!ENTITY view.search.label                    "Pesquisar">
 <!ENTITY view.discover.label                  "Obter extras">
 <!ENTITY view.recentUpdates.label             "Atualizações recentes">
 <!ENTITY view.availableUpdates.label          "Atualizações disponíveis">
@@ -179,7 +179,7 @@ mais populares extras para que os possa experimentar.">
 <!ENTITY sort.price.label                     "Preço">
 <!ENTITY sort.price.tooltip                   "Ordenar por preço">
 
-<!ENTITY search.filter2.label                 "Procurar:">
+<!ENTITY search.filter2.label                 "Pesquisar:">
 <!ENTITY search.filter2.installed.label       "Os meus extras">
 <!ENTITY search.filter2.installed.tooltip     "Mostra os extras instalados">
 <!ENTITY search.filter2.available.label       "Extras disponíveis">
