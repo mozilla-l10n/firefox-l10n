@@ -265,6 +265,8 @@
 <!ENTITY doorhanger_login_edit_toggle "Mostra password">
 <!ENTITY doorhanger_login_edit_toast_error "Impossibile salvare accesso">
 <!ENTITY doorhanger_login_select_message "Copiare la password da &formatS;?">
+<!ENTITY doorhanger_login_select_toast_copy "Password copiata negli appunti">
+<!ENTITY doorhanger_login_select_toast_copy_error "Impossibile copiare la password">
 <!ENTITY pref_titlebar_mode "Barra del titolo">
 <!ENTITY pref_titlebar_mode_title "Visualizza titolo pagina">
 <!ENTITY pref_titlebar_mode_url "Visualizza indirizzo pagina">
