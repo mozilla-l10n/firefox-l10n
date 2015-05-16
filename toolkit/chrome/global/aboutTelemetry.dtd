@@ -18,6 +18,9 @@
   ਆਮ ਡਾਟਾ
 ">
 
+<!ENTITY aboutTelemetry.telemetryLogSection "
+  ਟੈਲੀਮੈਂਟਰੀ ਡਾਟਾ
+">
 
 <!ENTITY aboutTelemetry.slowSqlSection "
   ਹੌਲੀ SQL ਸਟੇਟਮੈਂਟ
