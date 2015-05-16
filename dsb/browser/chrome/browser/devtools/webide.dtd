@@ -115,7 +115,7 @@
 <!ENTITY prefs_title "Nastajenja">
 <!ENTITY prefs_editor_title "Editor">
 <!ENTITY prefs_general_title "Powšykne">
-
+<!ENTITY prefs_restore "Standard wótnowiś">
 <!ENTITY prefs_manage_components "Ekstrakomponenty zastojaś">
 <!ENTITY prefs_options_autoconnectruntime "Z pjerwjejšnym běžnym casom znowego zwězaś">
 <!ENTITY prefs_options_autoconnectruntime_tooltip "Z pjerwjejšnym běžnym casom znowego zwězaś, gaž WebIDE startujo">
@@ -139,7 +139,7 @@
 <!-- Permissions Table -->
 
 <!ENTITY permissionstable_title "Tabela pšawow">
-
+<!ENTITY permissionstable_name_header "Mě">
 <!-- Runtime Details -->
 
 <!ENTITY runtimedetails_title "Informacije běžnego casa">
@@ -197,12 +197,14 @@
 <!ENTITY logs_title "Pśikazowe protokole za pśedpakowanje">
 <!-- Simulator Options -->
 
-
-
-
+<!ENTITY simulator_title "Simulatorowe nastajenja">
+<!ENTITY simulator_remove "Simulator lašowaś">
+<!ENTITY simulator_reset "Standard wótnowiś">
+<!ENTITY simulator_name "Mě">
+<!ENTITY simulator_software "Software">
 <!ENTITY simulator_version "Wersija">
-
-
+<!ENTITY simulator_profile "Analyza běžnego casa">
+<!ENTITY simulator_hardware "Hardware">
 <!ENTITY simulator_device "Rěd">
-
-
+<!ENTITY simulator_screenSize "Wobrazowka">
+<!ENTITY simulator_pixelRatio "Pikselowy poměr">
