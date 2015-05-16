@@ -65,7 +65,7 @@
 <!ENTITY offlineMenu.accesskey "i">
 <!ENTITY synchronizeOfflineCmd.label "Hämta/Synkronisera nu…">
 <!ENTITY synchronizeOfflineCmd.accesskey "S">
-<!ENTITY settingsOfflineCmd.label "Inställnigar för att arbeta i nedkopplat läge">
+<!ENTITY settingsOfflineCmd.label "Inställningar för att arbeta i nedkopplat läge">
 <!ENTITY settingsOfflineCmd.accesskey "I">
 <!ENTITY downloadSelectedCmd.label "Hämta markerade meddelanden">
 <!ENTITY downloadSelectedCmd.accesskey "H">

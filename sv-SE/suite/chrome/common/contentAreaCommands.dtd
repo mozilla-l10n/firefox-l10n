@@ -72,7 +72,9 @@
 <!ENTITY saveFrameAsCmd.label         "Spara ram som…">
 <!ENTITY saveFrameCmd.label           "Spara ram">
 <!ENTITY saveFrameCmd.accesskey       "r">
-<!ENTITY saveLinkAsCmd.label            "Spara länk som…">
+<!ENTITY printFrameCmd.label          "Skriv ut ram…">
+<!ENTITY printFrameCmd.accesskey      "u">
+<!ENTITY saveLinkAsCmd.label          "Spara länk som…">
 <!ENTITY saveLinkCmd.label            "Spara länk">
 <!ENTITY saveLinkCmd.accesskey        "l">
 <!ENTITY saveImageAsCmd.label         "Spara bild som…">
