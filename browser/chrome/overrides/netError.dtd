@@ -132,6 +132,8 @@ dumneavoastră.</li>
 <!ENTITY malwareBlocked.longDesc "<p>Saiturile de atac încearcă să instaleze programe sau să fure informații private, folosind calculatorul dumneavoastră pentru a ataca altele sau provocând pagube calculatorului dumneavoastră.</p> 
 <p>Proprietarii saiturilor web care cred că saitul lor a fost raportat ca unul de atac dintr-o greșeală pot <a href='http://www.stopbadware.org/home/reviewinfo' >cere o recenzie</a>.</p>">
 
+
+
 <!ENTITY phishingBlocked.title "Sait suspectat de fals!">
 <!ENTITY phishingBlocked.longDesc "<p>Introducerea de informații personale pe această pagină ar putea rezulta în furt de identitate sau altă fraudă.</p> 
 <p>Aceste tipuri de falsuri web sunt folosite în păcăleli cunoscute ca atacuri de tip „phishing”, în care pagini și e-mailuri frauduloase sunt folosite pentru a imita surse în care aveți încredere.</p>">

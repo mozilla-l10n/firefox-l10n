@@ -115,7 +115,7 @@
 <!ENTITY prefs_title "Preferințe">
 <!ENTITY prefs_editor_title "Editor">
 <!ENTITY prefs_general_title "General">
-<!ENTITY prefs_restore "Restaurează setările implicite">
+
 <!ENTITY prefs_manage_components "Gestionează componentele suplimentare">
 <!ENTITY prefs_options_autoconnectruntime "Reconnect to previous runtime">
 <!ENTITY prefs_options_autoconnectruntime_tooltip "Reconnect to previous runtime when WebIDE starts">
@@ -139,7 +139,7 @@
 <!-- Permissions Table -->
 
 <!ENTITY permissionstable_title "Tabelă de permisiuni">
-<!ENTITY permissionstable_name_header "Nume">
+
 <!-- Runtime Details -->
 
 <!ENTITY runtimedetails_title "Informații despre timpul de execuție">
@@ -195,3 +195,14 @@
 <!-- Logs panel -->
 
 <!ENTITY logs_title "Pre-packaging Command Logs">
+<!-- Simulator Options -->
+
+
+
+
+<!ENTITY simulator_version "Versiune">
+
+
+<!ENTITY simulator_device "Dispozitiv">
+
+
