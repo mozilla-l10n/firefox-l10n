@@ -8,7 +8,9 @@
 
 <!ENTITY aboutTelemetry.telemetryDisabled "  Telemetry <span>बंद आहे</span>.">
 
+<!ENTITY aboutTelemetry.generalDataSection "एकंदर माहिती">
 
+<!ENTITY aboutTelemetry.telemetryLogSection "  Telemetry नोंद">
 
 <!ENTITY aboutTelemetry.slowSqlSection "  हळू SQL विधाने">
 
@@ -18,6 +20,7 @@
 
 <!ENTITY aboutTelemetry.histogramsSection "  हिस्टोग्राम्स">
 
+<!ENTITY aboutTelemetry.keyedHistogramsSection "भडक रंग असलेला स्तंभालेख">
 
 <!ENTITY aboutTelemetry.simpleMeasurementsSection "  सोपे मापन">
 
