@@ -51,6 +51,7 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 <!ENTITY aboutSupport.appBasicsBuildConfig "बिल्ड् संरचना">
 <!ENTITY aboutSupport.appBasicsUserAgent "युजर एजेंट">
 <!ENTITY aboutSupport.appBasicsMemoryUse "मेमरिचा वापर">
+<!-- LOCALIZATION NOTE the term "Service Workers" should not be translated. -->
 
 <!ENTITY aboutSupport.appBasicsMultiProcessSupport "मल्टिप्रोसेस पटल">
 

@@ -95,7 +95,7 @@
 <!-- Prefs -->
 
 
-<!ENTITY prefs_restore "पूर्वनिर्धारित पुनःस्थापीत करा">
+
 
 
 
@@ -117,7 +117,7 @@
 
 
 <!-- Permissions Table -->
-<!ENTITY permissionstable_name_header "नाव">
+
 <!-- Runtime Details -->
 
 
@@ -155,3 +155,14 @@
 <!-- LOCALIZATION NOTE (wifi_auth_token_request): Instructions requesting the
      user to transfer authentication info by transferring a token. -->
 <!-- Logs panel -->
+<!-- Simulator Options -->
+
+
+
+
+<!ENTITY simulator_version "आवृत्ती">
+
+
+<!ENTITY simulator_device "साधन">
+
+
