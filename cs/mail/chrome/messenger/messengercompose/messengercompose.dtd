@@ -158,6 +158,8 @@
 <!ENTITY bothFormatCmd.accesskey "P">
 <!ENTITY priorityMenu.label "Priorita">
 <!ENTITY priorityMenu.accesskey "P">
+<!ENTITY priorityButton.title "Priorita">
+<!ENTITY priorityButton.tooltiptext "Změní prioritu zprávy">
 <!ENTITY priorityButton.label "Priorita:">
 <!ENTITY lowestPriorityCmd.label "Nejnižší">
 <!ENTITY lowestPriorityCmd.accesskey "N">
