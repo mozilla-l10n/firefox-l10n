@@ -196,7 +196,7 @@
 <!ENTITY tab_queue_prompt_tip_text "सेटिंग्समधुन आपण हे नंतर बद्लु शकता">
 <!ENTITY tab_queue_prompt_positive_action_button "कार्यान्वित">
 <!ENTITY tab_queue_prompt_negative_action_button "सध्या नाही">
-
+<!ENTITY tab_queue_notification_title "&brandShortName;">
 <!-- Localization note (tab_queue_notification_text_plural2) : The
      formatD is replaced with the number of tabs queued.  The
      number of tabs queued is always more than one.  We can't use
@@ -301,7 +301,7 @@ size. -->
      (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
 <!ENTITY datareporting_crashreporter_title_short "क्रॅश रिपोर्टर">
 <!ENTITY datareporting_wifi_title2 "&vendorShortName; स्थान सेवा">
-
+<!ENTITY datareporting_wifi_geolocation_summary4 "जगाचा नकाशा करण्यात &vendorShortName; ला मदत करा! आमची जिओलोकेशन सेवा सुधारण्यासाठी आपल्या वाय-फाय आणि सेल्युलरची अंदाजे ठिकाण शेअर करा.">
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
      actual notification that an update is available. -->
@@ -376,9 +376,9 @@ size. -->
 <!ENTITY doorhanger_login_no_username "[वापरकर्तानाव नाही]">
 <!ENTITY doorhanger_login_edit_title "लॉगइन संपादन">
 <!ENTITY doorhanger_login_edit_username_hint "वापरकर्त्याचे नाव">
-
+<!ENTITY doorhanger_login_edit_password_hint "पासवर्ड">
 <!ENTITY doorhanger_login_edit_toggle "पासवर्ड दाखवा">
-
+<!ENTITY doorhanger_login_edit_toast_error "लॉगइन साठवण्यात असफल">
 
 <!ENTITY pref_titlebar_mode "शीर्षक पट्टी">
 <!ENTITY pref_titlebar_mode_title "पानाचे शीर्षक दाखवा">
@@ -389,7 +389,8 @@ size. -->
 <!ENTITY pref_scroll_title_bar2 "पूर्ण स्क्रीन ब्राउझिंग">
 <!ENTITY pref_scroll_title_bar_summary "पान खाली स्क्रोल करताना &brandShortName; शीर्ष पट्टी लपवा">
 
-
+<!ENTITY pref_tab_queue_title2 "अनेक दुवे उघडा">
+<!ENTITY pref_tab_queue_summary2 "प्रत्येक वेळी &brandShortName; वर न जाता नंतरसाठी दुवे रांगेत ठेवा">
 <!-- Localization note (page_removed): This string appears in a toast message when
      any page is removed frome about:home. This includes pages that are in history,
      bookmarks, or reading list. -->
@@ -427,7 +428,7 @@ size. -->
 
 <!ENTITY masterpassword_create_title "मास्टर पासवर्ड बनवा">
 <!ENTITY masterpassword_remove_title "मास्टर पासवर्ड काढा">
-
+<!ENTITY masterpassword_password "पासवर्ड">
 <!ENTITY masterpassword_confirm "पासवर्डची खात्री करा">
 
 <!ENTITY button_ok "ठीक आहे">
@@ -439,6 +440,7 @@ size. -->
 <!ENTITY button_clear "पुसा">
 <!ENTITY button_remember "लक्षात ठेवा">
 
+<!ENTITY firstrun_panel_title_welcome "स्वागत">
 
 <!ENTITY home_top_sites_title "खास साईट्स">
 <!-- Localization note (home_top_sites_add): This string is used as placeholder
@@ -448,7 +450,7 @@ size. -->
      with the page title defined in aboutHome.dtd -->
 
 <!ENTITY home_title "&brandShortName; मुख्यपृष्ठ">
-
+<!ENTITY home_history_title "इतिहास">
 <!ENTITY home_clear_history_button "ब्राऊजिंग इतिहास पुसा">
 <!ENTITY home_clear_history_confirm "आपला इतिहास पुसण्याबद्दल आपली खात्री आहे का?">
 <!ENTITY home_bookmarks_empty "तुम्ही साठवलेले वाचनखूणा येथे दिसतील.">
@@ -510,6 +512,7 @@ size. -->
 
 <!ENTITY pin_site_dialog_hint "शोधशब्द टाका">
 
+<!ENTITY filepicker_title "फाइल निवडा">
 <!ENTITY filepicker_audio_title "ध्वनी निवडा किंवा रेकॉर्ड करा">
 <!ENTITY filepicker_image_title "फोटो काढा किंवा निवडा">
 <!ENTITY filepicker_video_title "ध्वनी निवडा किंवा रेकॉर्ड करा">
@@ -587,6 +590,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY updater_downloading_select2 "डाउनलोड झाल्यावर अद्ययावत सक्रीय करण्यासाठी स्पर्श करा">
 <!ENTITY updater_downloading_retry2 "पुनःप्रयत्नासाठी स्पर्श करा">
 
+<!ENTITY updater_apply_title2 "&brandShortName;साठी अद्ययावत उपलब्ध">
 <!ENTITY updater_apply_select2 "अद्ययावतासाठी स्पर्श करा">
 <!-- Guest mode -->
 
