@@ -6,8 +6,8 @@
 <!ENTITY  no_space_to_start_error "&brandShortName;’ni ishga tushirish uchun bo‘sh joy yetarli emas.">
 <!ENTITY  error_loading_file "&brandShortName;ni ishga tushirish uchun kerakli fayllar yuklanayotganda xato yuz berdi.">
 
-<!ENTITY  onboard_start_message2 "&brandShortName;ga xush kelibsiz!">
-<!ENTITY  onboard_start_subtext2 "Moslash uchun har doimgidan ko‘proq maxfiylik xususiyatlari va yo‘llari.">
+<!ENTITY  onboard_start_message3 "&brandShortName; bilan ko‘rish">
+<!ENTITY  onboard_start_subtext3 "Mobil telefon brauzeri orqali tajriba orttiring.">
 <!ENTITY  onboard_start_button_account "&brandShortName;ga kirish">
 <!ENTITY  onboard_start_button_browser "Ko‘rishni boshlash">
 <!-- Localization note: These are used as the titles of different pages on the home screen.
@@ -114,7 +114,6 @@
 
 <!ENTITY overlay_share_send_tab_btn_label "Boshqa qurilmaga jo‘natish">
 <!ENTITY overlay_share_no_url "Ushbu bo‘lishishda link topilmadi">
-<!ENTITY overlay_share_retry "Yana urinib ko‘rish">
 <!ENTITY overlay_share_select_device "Qurilmani tanlash">
 <!-- Localization note (overlay_no_synced_devices) : Used when the menu option
      to send a tab to a synced device is pressed and no other synced devices
@@ -150,8 +149,6 @@
      it is applicable. -->
 <!ENTITY pref_search_hint "MASLAHAT: birorta veb sahifani izlash xizmatlari ro‘yxatiga qo‘shmoqchi bo‘lsangiz, o‘sha saytning izlash maydonchasiga barmog‘ingizni bosib turing, so‘ngra &formatI; nishonchasiga bosing.">
 <!ENTITY pref_category_devtools "Dasturlash asboblari">
-<!ENTITY pref_category_devtools_summary "Masofadan tuzatish, bo‘yash">
-<!ENTITY pref_developer_paint_flashing "Bo‘yash">
 <!ENTITY pref_developer_remotedebugging "Masofadan tuzatish">
 <!ENTITY pref_category_logins "Taxalluslar">
 <!ENTITY pref_remember_signons "Parollarni eslab qolish">
@@ -192,25 +189,24 @@
 <!ENTITY pref_donottrack_title "Kuzatmang">
 <!ENTITY pref_donottrack_summary "&brandShortName; saytlarga sizni kuzatishlarini xohlamsaligingiz aytiladi.">
 
-<!ENTITY tab_queue_toast_message "Keyinroq ochish">
 <!ENTITY tab_queue_toast_action "Hozir ochish">
-<!-- Localization note (tab_queue_notification_text_plural) : The
+<!ENTITY tab_queue_prompt_title "Bir nechta vazifalar ochilsinmi">
+
+<!ENTITY tab_queue_prompt_tip_text "siz uni keyinroq \&quot;Sozlamalar\&quot;dan o‘zgartirishingiz mumkin">
+<!ENTITY tab_queue_prompt_positive_action_button "Yoqib qo‘yilgan">
+<!ENTITY tab_queue_prompt_negative_action_button "Hozir emas">
+<!ENTITY tab_queue_notification_title "&brandShortName;">
+<!-- Localization note (tab_queue_notification_text_plural2) : The
      formatD is replaced with the number of tabs queued.  The
      number of tabs queued is always more than one.  We can't use
      Android plural forms, sadly. See Bug #753859. -->
-<!ENTITY tab_queue_notification_text_plural "&formatD; ichki oynalari navbatga qo‘shildi">
-<!-- Localization note (tab_queue_notification_title_plural) : This is the
-     title of a notification; we expect more than one tab queued. -->
-<!ENTITY tab_queue_notification_title_plural "Navbatga qo‘yilgan ichki oynalar">
-<!-- Localization note (tab_queue_notification_title_singular) : This is the
-     title of a notification; we expect only one tab queued. -->
-<!ENTITY tab_queue_notification_title_singular "Navbatga qo‘yilgan ichki oyna">
-<!-- Localization note (tab_queue_notification_text_singular) : This is the
+<!ENTITY tab_queue_notification_text_plural2 "&formatD; ta ichki oyna kutmoqda">
+<!-- Localization note (tab_queue_notification_text_singular2) : This is the
      text of a notification; we expect only one tab queued. -->
-<!ENTITY tab_queue_notification_text_singular "1 ta ichki oyna navbatga qo‘yildi">
+<!ENTITY tab_queue_notification_text_singular2 "1 tab kutmoqda">
 
 <!ENTITY pref_char_encoding "Kodlash usuli">
-<!ENTITY pref_char_encoding_on "Menyu ko‘rsatilsin">
+<!ENTITY pref_char_encoding_on "Menyuni ko‘rsatish">
 <!ENTITY pref_char_encoding_off "Menyu ko‘rsatilmasin">
 <!ENTITY pref_clear_private_data2 "Hozir tozalash">
 <!ENTITY pref_clear_private_data_category "Menyu ko‘rsatilmasin">
@@ -255,7 +251,8 @@ size. -->
 <!ENTITY pref_import_android "Androiddan emport qilish">
 <!ENTITY pref_import_android_summary "Asosiy brauzerdan xatcho‘plar va tarixni import qilish">
 <!ENTITY pref_private_data_history2 "Ko‘rish tarixi">
-<!ENTITY pref_private_data_formdata "Shakl va izlash tarixi">
+
+
 <!ENTITY pref_private_data_cookies2 "Kukilar va faol kirishlar">
 <!ENTITY pref_private_data_passwords "Saqlangan parollar">
 <!ENTITY pref_private_data_cache "Kesh">
@@ -381,6 +378,7 @@ size. -->
 <!ENTITY doorhanger_login_edit_password_hint "Parol">
 <!ENTITY doorhanger_login_edit_toggle "Parolni ko‘rsatish">
 
+
 <!ENTITY pref_titlebar_mode "Sahifa nomi paneli">
 <!ENTITY pref_titlebar_mode_title "Sahifa nomini ko‘rsatish">
 <!ENTITY pref_titlebar_mode_url "Sahifa manzilini ko‘rsatish">
@@ -390,8 +388,7 @@ size. -->
 <!ENTITY pref_scroll_title_bar2 "Butun ekranda ko‘rish">
 <!ENTITY pref_scroll_title_bar_summary "Sahifa pastga o‘tayotganda &brandShortName;ning sarlavha paneli yashirilsin">
 
-<!ENTITY pref_tab_queue_title "Keyinroq ochish">
-<!ENTITY pref_tab_queue_summary "Ichki oynalarni tezda ochilishdan to‘silsin, ammo barcha navbatga qo‘yilgan ichki oynalar keyingi safar &brandShortName; yuklanishlarida ochilsin.">
+
 <!-- Localization note (page_removed): This string appears in a toast message when
      any page is removed frome about:home. This includes pages that are in history,
      bookmarks, or reading list. -->
@@ -440,6 +437,7 @@ size. -->
 <!ENTITY button_set "O‘rnatish">
 <!ENTITY button_clear "Tozalash">
 <!ENTITY button_remember "Eslab qolish">
+
 
 <!ENTITY home_top_sites_title "Yuqori reytingli saytlar">
 <!-- Localization note (home_top_sites_add): This string is used as placeholder
@@ -612,6 +610,12 @@ import qilinmoqda">
 <!ENTITY ellipsis "…">
 
 <!ENTITY colon ":">
+<!-- LOCALIZATION NOTE (percent): The percent sign is appended after a number to
+     display a percentage value. formatS is the number, #37 is the code to display a percent sign.
+     This format string is typically used by getString method, in such method the percent sign
+     is a reserved caracter. In order to display one percent sign in the result of getString,
+     double percent signs must be inserted in the format string.
+     This entity is used in the zoomed view to display the zoom factor-->
 <!-- These are only used for accessibility for the done and overflow-menu buttons in the actionbar.
      They are never shown to users -->
 
@@ -623,7 +627,7 @@ import qilinmoqda">
 <!ENTITY voicesearch_failed_title "&brandShortName; ovoz yordamida izlash">
 <!ENTITY voicesearch_failed_message "Hozirda ovoz yordamida izlashda mammo bor. Uzr, keyinroq urinib ko‘ring.">
 <!ENTITY voicesearch_failed_message_recoverable "Kechirasiz! Biz ovozingizni ajrata olmadik. Uzr, yana urinib ko‘ring.">
-<!ENTITY voicesearch_failed_retry "Yana urinib ko‘rish">
+
 <!-- Localization note (remote_tabs_last_synced): the variable is replaced by a
      "relative time span string" produced by Android.  This string describes the
      time the tabs were last synced relative to the current time; examples
