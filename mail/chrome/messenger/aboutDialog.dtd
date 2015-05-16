@@ -38,7 +38,7 @@
 
 <!ENTITY helpus.start               "Vil du hjelpa til?">
 <!-- LOCALIZATION NOTE (helpus.donateLink): This is a link title that links to the thunderbird donation page -->
-<!ENTITY helpus.donateLink          "Doner pengar">
+<!ENTITY helpus.donateLink          "Gje ei pengegåve">
 <!ENTITY helpus.middle              " eller ">
 <!-- LOCALIZATION NOTE (helpus.getInvolvedLink): This is a link title that links to http://www.mozilla.org/contribute/. -->
 <!ENTITY helpus.getInvolvedLink     "ver med!">
