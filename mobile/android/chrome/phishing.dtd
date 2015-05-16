@@ -15,3 +15,6 @@
 <!ENTITY safeb.blocked.phishingPage.title2 "संशयास्पद वेब बनवाबनवी!">
 <!ENTITY safeb.blocked.phishingPage.shortDesc2 "या पानावर वैयक्तिक माहिती टाकल्यास ओळख चोरी किंवा इतर घोटाळे होऊ शकतात.">
 <!ENTITY safeb.blocked.phishingPage.longDesc2 "<p>या प्रकारच्या वेब बनवाबनवी फिशिंग आक्रमणा सारख्या घोटाळ्यांमध्ये वापारल्या जाऊ शकतात, ज्यामध्ये घोटाळेबाज वेब पाने आणि इमेल यांचा उपयोग आपण विश्वास ठेवता अश्या स्त्रोतांची नक्कल करण्यासाठी केला जातो.</p>">
+
+<!-- Localization note (safeb.blocked.unwanted.shortDesc) - Please don't translate the contents of the <span id="unwanted_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
+
