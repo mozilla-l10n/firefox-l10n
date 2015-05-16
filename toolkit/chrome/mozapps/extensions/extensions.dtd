@@ -22,6 +22,8 @@
 
 <!ENTITY cmd.back.tooltip                     "एक पान मागे जा">
 <!ENTITY cmd.forward.tooltip                  "एक पान पुढे जा">
+
+
 <!-- global warnings -->
 
 <!ENTITY warning.safemode.label                    "सेफ मोडद्वारे सर्व ॲडऑन्स् बंद केले आहे.">
@@ -100,7 +102,8 @@
 <!ENTITY cmd.installAddon.accesskey           "I">
 <!ENTITY cmd.uninstallAddon.label             "काढून टाका">
 <!ENTITY cmd.uninstallAddon.accesskey         "R">
-<!ENTITY cmd.debugAddon.label                 "डिबग">
+
+
 <!ENTITY cmd.showPreferencesWin.label         "पर्याय">
 <!ENTITY cmd.showPreferencesWin.tooltip       "या ॲडऑनचे पर्याय बदला">
 <!ENTITY cmd.showPreferencesUnix.label        "पसंती">
@@ -227,4 +230,16 @@
 <!ENTITY experiment.info.learnmore.accesskey "L">
 <!ENTITY experiment.info.changetelemetry "टेलिमेट्रि सेटिंग्ज">
 <!ENTITY experiment.info.changetelemetry.accesskey "T">
+
+
+<!-- LOCALIZATION NOTE (disabledUnsigned.description.start, disabledUnsigned.description.findAddonsLink, disabledUnsigned.description.end):
+     These entities form a sentence, with
+     disabledUnsigned.description.findAddonsLink being a link to an external site. -->
+
+
+
+<!-- LOCALIZATION NOTE (disabledUnsigned.devInfo.start, disabledUnsigned.devInfo.linkToManual, disabledUnsigned.devInfo.end):
+     These entities form a sentence, with disabledUnsigned.devInfo.linkToManual
+     being a link to an external site. -->
+
 
