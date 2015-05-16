@@ -6,8 +6,8 @@
 <!ENTITY  no_space_to_start_error "Nu există spațiu disponibil suficient pentru ca &brandShortName; să pornească.">
 <!ENTITY  error_loading_file "A intervenit o eroare în timpul încărcării fișierelor necesare pentru a rula &brandShortName;">
 
-<!ENTITY  onboard_start_message2 "Bun venit la &brandShortName;">
-<!ENTITY  onboard_start_subtext2 "Mai multe funcții de confidențialitate și moduri de personalizare ca niciodată.">
+<!ENTITY  onboard_start_message3 "Navighează cu &brandShortName;">
+<!ENTITY  onboard_start_subtext3 "Fă ca experiența de navigare mobilă pe Web să fie cu adevărat unică.">
 <!ENTITY  onboard_start_button_account "Autentifică-te în &brandShortName;">
 <!ENTITY  onboard_start_button_browser "Începe navigarea">
 <!-- Localization note: These are used as the titles of different pages on the home screen.
@@ -114,7 +114,6 @@
 
 <!ENTITY overlay_share_send_tab_btn_label "Trimite către un alt dispozitiv">
 <!ENTITY overlay_share_no_url "Nicio legătură nu a fost găsită în această partajare">
-<!ENTITY overlay_share_retry "Încearcă din nou">
 <!ENTITY overlay_share_select_device "Selectează un dispozitiv">
 <!-- Localization note (overlay_no_synced_devices) : Used when the menu option
      to send a tab to a synced device is pressed and no other synced devices
@@ -150,8 +149,6 @@
      it is applicable. -->
 <!ENTITY pref_search_hint "PONT: Adaugă orice sait în lista motoarelor de căutare prin lunga apăsare pe câmpul de căutare al acestuia iar apoi apăsând iconița &formatI;.">
 <!ENTITY pref_category_devtools "Unelte de dezvoltare">
-<!ENTITY pref_category_devtools_summary "Depanare de la distanță, paint flashing">
-<!ENTITY pref_developer_paint_flashing "Paint flashing">
 <!ENTITY pref_developer_remotedebugging "Depanare de la distanță">
 <!ENTITY pref_category_logins "Autentificări">
 <!ENTITY pref_remember_signons "Reține parolele">
@@ -192,22 +189,22 @@
 <!ENTITY pref_donottrack_title "Nu mă urmări">
 <!ENTITY pref_donottrack_summary "&brandShortName; va spune saiturilor că nu dorești să fi urmărit">
 
-<!ENTITY tab_queue_toast_message "Deschide mai târziu">
+<!ENTITY tab_queue_toast_message2 "Filă în coadă în &brandShortName;">
 <!ENTITY tab_queue_toast_action "Deschide acum">
-<!-- Localization note (tab_queue_notification_text_plural) : The
+<!ENTITY tab_queue_prompt_title "Deschizi multiple legături?">
+<!ENTITY tab_queue_prompt_text2 "Deschide-le fără a comuta la &brandShortName; de fiecare dată.">
+<!ENTITY tab_queue_prompt_tip_text "poți modifica acest lucru mai târziu din Setări">
+<!ENTITY tab_queue_prompt_positive_action_button "Activează">
+<!ENTITY tab_queue_prompt_negative_action_button "Nu acum">
+<!ENTITY tab_queue_notification_title "&brandShortName;">
+<!-- Localization note (tab_queue_notification_text_plural2) : The
      formatD is replaced with the number of tabs queued.  The
      number of tabs queued is always more than one.  We can't use
      Android plural forms, sadly. See Bug #753859. -->
-<!ENTITY tab_queue_notification_text_plural "&formatD; file în coadă">
-<!-- Localization note (tab_queue_notification_title_plural) : This is the
-     title of a notification; we expect more than one tab queued. -->
-<!ENTITY tab_queue_notification_title_plural "File în coadă">
-<!-- Localization note (tab_queue_notification_title_singular) : This is the
-     title of a notification; we expect only one tab queued. -->
-<!ENTITY tab_queue_notification_title_singular "Filă în coadă">
-<!-- Localization note (tab_queue_notification_text_singular) : This is the
+<!ENTITY tab_queue_notification_text_plural2 "&formatD; file în așteptare">
+<!-- Localization note (tab_queue_notification_text_singular2) : This is the
      text of a notification; we expect only one tab queued. -->
-<!ENTITY tab_queue_notification_text_singular "1 filă în coadă">
+<!ENTITY tab_queue_notification_text_singular2 "1 filă în așteptare">
 
 <!ENTITY pref_char_encoding "Codare de caractere">
 <!ENTITY pref_char_encoding_on "Arată meniul">
@@ -255,7 +252,8 @@ size. -->
 <!ENTITY pref_import_android "Importă din Android">
 <!ENTITY pref_import_android_summary "Importă semnele de carte și istoricul din navigatorul nativ">
 <!ENTITY pref_private_data_history2 "Istoricul navigării">
-<!ENTITY pref_private_data_formdata "Istoric de formulare și căutări">
+<!ENTITY pref_private_data_searchHistory "Istoricul căutărilor">
+<!ENTITY pref_private_data_formdata2 "Istoricul formularelor">
 <!ENTITY pref_private_data_cookies2 "Cookie-uri și autentificări active">
 <!ENTITY pref_private_data_passwords "Parole salvate">
 <!ENTITY pref_private_data_cache "Cache">
@@ -328,7 +326,7 @@ size. -->
 <!ENTITY share_image_failed "Nu se poate partaja această imagine">
 <!ENTITY save_as_pdf "Salvează ca PDF">
 <!ENTITY find_in_page "Găsește în pagină">
-<!ENTITY desktop_mode "Cere versiunea de desktop">
+<!ENTITY desktop_mode "Cere versiune de desktop">
 <!ENTITY page "Pagină">
 <!ENTITY tools "Unelte">
 <!ENTITY new_tab "Filă nouă">
@@ -380,6 +378,7 @@ size. -->
 <!ENTITY doorhanger_login_edit_username_hint "Utilizator">
 <!ENTITY doorhanger_login_edit_password_hint "Parolă">
 <!ENTITY doorhanger_login_edit_toggle "Arată parola">
+<!ENTITY doorhanger_login_edit_toast_error "Eșec la salvarea autentificării">
 
 <!ENTITY pref_titlebar_mode "Bară de titlu">
 <!ENTITY pref_titlebar_mode_title "Arată titlul paginii">
@@ -390,8 +389,8 @@ size. -->
 <!ENTITY pref_scroll_title_bar2 "Navigare pe tot ecranul">
 <!ENTITY pref_scroll_title_bar_summary "Ascunde bara de titlu a &brandShortName; când derulezi în josul paginii">
 
-<!ENTITY pref_tab_queue_title "Deschide mai târziu">
-<!ENTITY pref_tab_queue_summary "Previne filele din a se deschide imediat, dar deschide toate filele din coadă data viitoare când &brandShortName; se încarcă.">
+<!ENTITY pref_tab_queue_title2 "Deschide multiple legături">
+<!ENTITY pref_tab_queue_summary2 "Pune în coadă legăturile pentru mai târziu în loc să comuți la &brandShortName; de fiecare dată">
 <!-- Localization note (page_removed): This string appears in a toast message when
      any page is removed frome about:home. This includes pages that are in history,
      bookmarks, or reading list. -->
@@ -440,6 +439,8 @@ size. -->
 <!ENTITY button_set "Setează">
 <!ENTITY button_clear "Curăță">
 <!ENTITY button_remember "Memorează">
+
+<!ENTITY firstrun_panel_title_welcome "Bun venit">
 
 <!ENTITY home_top_sites_title "Saituri de top">
 <!-- Localization note (home_top_sites_add): This string is used as placeholder
@@ -612,6 +613,14 @@ din Android">
 <!ENTITY ellipsis "…">
 
 <!ENTITY colon ":">
+<!-- LOCALIZATION NOTE (percent): The percent sign is appended after a number to
+     display a percentage value. formatS is the number, #37 is the code to display a percent sign.
+     This format string is typically used by getString method, in such method the percent sign
+     is a reserved caracter. In order to display one percent sign in the result of getString,
+     double percent signs must be inserted in the format string.
+     This entity is used in the zoomed view to display the zoom factor-->
+
+<!ENTITY percent "&formatS;&#037;&#037;">
 <!-- These are only used for accessibility for the done and overflow-menu buttons in the actionbar.
      They are never shown to users -->
 

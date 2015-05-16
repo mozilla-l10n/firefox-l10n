@@ -15,3 +15,8 @@
 <!ENTITY safeb.blocked.phishingPage.title2 "Sait suspectat de fals!">
 <!ENTITY safeb.blocked.phishingPage.shortDesc2 "Introducerea oricărei informații personale pe această pagină ar putea rezulta în furt de identitate sau fraudă.">
 <!ENTITY safeb.blocked.phishingPage.longDesc2 "<p>Aceste tipuri de falsuri web sunt folosite în păcăleli cunoscute ca atacuri de tip „phishing”, în care pagini și e-mailuri frauduloase sunt folosite pentru a imita surse în care ai încredere.</p>">
+
+<!ENTITY safeb.blocked.unwantedPage.title "Sait cu programe nedorite raportat!">
+<!-- Localization note (safeb.blocked.unwanted.shortDesc) - Please don't translate the contents of the <span id="unwanted_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
+<!ENTITY safeb.blocked.unwantedPage.shortDesc "Această pagină de la <span id='unwanted_sitename'/> a fost raportată că conține programe nedorite și a fost blocată pe baza preferințelor tale de securitate.">
+<!ENTITY safeb.blocked.unwantedPage.longDesc "Paginile cu programe nedorite încearcă să instaleze programe care pot fi înșelătoare și îți afectează sistemul în moduri neașteptate.">
