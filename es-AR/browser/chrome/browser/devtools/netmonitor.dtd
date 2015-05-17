@@ -259,6 +259,14 @@
   -  on the context menu that copies the selected request's url -->
 <!ENTITY netmonitorUI.context.copyUrl      "Copiar URL">
 
+<!-- LOCALIZATION NOTE (netmonitorUI.context.copyUrlParams): This is the label displayed
+  -  on the context menu that copies the selected request's url parameters -->
+<!ENTITY netmonitorUI.context.copyUrlParams     "Copiar parámetros URL">
+
+<!-- LOCALIZATION NOTE (netmonitorUI.context.copyUrlParams.accesskey): This is the access key
+  -  for the Copy URL Parameters menu item displayed in the context menu for a request -->
+<!ENTITY netmonitorUI.context.copyUrlParams.accesskey "P">
+
 <!-- LOCALIZATION NOTE (netmonitorUI.context.copyAsCurl): This is the label displayed
   -  on the context menu that copies the selected request as a cURL command.
   -  The capitalization is part of the official name and should be used throughout all languages.
@@ -284,6 +292,16 @@
 <!-- LOCALIZATION NOTE (netmonitorUI.context.copyImageAsDataUri.accesskey): This is the access key
   -  for the Copy Response menu item displayed in the context menu for a request -->
 <!ENTITY netmonitorUI.context.copyResponse.accesskey  "r">
+
+<!-- LOCALIZATION NOTE (netmonitorUI.context.copyAsCurl): This is the label displayed
+  -  on the context menu that copies the selected request as a cURL command.
+  -  The capitalization is part of the official name and should be used throughout all languages.
+  -  http://en.wikipedia.org/wiki/CURL -->
+<!ENTITY netmonitorUI.context.copyAsCurl    "Copiar como cURL">
+
+<!-- LOCALIZATION NOTE (netmonitorUI.context.copyAsCUrl.accesskey): This is the access key
+  -  for the Copy as cURL menu item displayed in the context menu for a request -->
+<!ENTITY netmonitorUI.context.copyAsCurl.accesskey "C">
 
 <!-- LOCALIZATION NOTE (netmonitorUI.context.copyRequestHeaders): This is the label displayed
   -  on the context menu that copies the selected item's request headers -->
