@@ -263,6 +263,11 @@
 <!ENTITY doorhanger_login_edit_password_hint "Пароль">
 <!ENTITY doorhanger_login_edit_toggle "Показать пароль">
 <!ENTITY doorhanger_login_edit_toast_error "Не удалось сохранить логин">
+<!ENTITY doorhanger_login_select_message "Скопировать пароль из &formatS;?">
+<!ENTITY doorhanger_login_select_toast_copy "Пароль скопирован в буфер обмена">
+<!ENTITY doorhanger_login_select_toast_copy_error "Не удалось скопировать пароль">
+<!ENTITY doorhanger_login_select_action_text "Выбрать другой логин">
+<!ENTITY doorhanger_login_select_title "Копирование пароля из">
 <!ENTITY pref_titlebar_mode "Панель заголовка">
 <!ENTITY pref_titlebar_mode_title "Отображать заголовок страницы">
 <!ENTITY pref_titlebar_mode_url "Отображать адрес страницы">
@@ -298,6 +303,7 @@
 <!ENTITY button_set "Установить">
 <!ENTITY button_clear "Очистить">
 <!ENTITY button_remember "Запомнить">
+<!ENTITY button_copy "Копировать">
 <!ENTITY firstrun_panel_title_welcome "Добро пожаловать">
 <!ENTITY home_top_sites_title "Топ сайтов">
 <!ENTITY home_top_sites_add "Добавить сайт">
