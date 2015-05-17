@@ -40,7 +40,7 @@
 <!ENTITY  formAction            "Akcia formulára">
 <!ENTITY  formMethod            "Metóda">
 <!ENTITY  formName              "Názov">
-<!ENTITY  formEncoding2         "Kódovanie textu:">
+<!ENTITY  formEncoding          "Kódovanie:">
 <!ENTITY  formTarget            "Cieľ:">
 <!ENTITY  formFields            "Polia:">
 <!ENTITY  formLabel             "Menovka">
