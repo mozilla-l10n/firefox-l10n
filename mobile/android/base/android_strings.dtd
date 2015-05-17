@@ -6,8 +6,8 @@
 <!ENTITY  no_space_to_start_error "No hay suficiente espacio para que &brandShortName; pueda iniciarse.">
 <!ENTITY  error_loading_file "Ha ocurrido un error mientras se trataban de cargar los archivos necesarios para ejecutar &brandShortName;">
 
-<!ENTITY  onboard_start_message2 "Bienvenido &brandShortName;">
-<!ENTITY  onboard_start_subtext2 "Más características de privacidad y formas de personalizar que nunca.">
+<!ENTITY  onboard_start_message3 "Navegar con &brandShortName;">
+<!ENTITY  onboard_start_subtext3 "Hacé que tu experiencia de navegación web móvil sea verdaderamente tuya.">
 <!ENTITY  onboard_start_button_account "Ingresar a &brandShortName;">
 <!ENTITY  onboard_start_button_browser "Iniciar navegación">
 
@@ -114,7 +114,6 @@
      to. -->
 <!ENTITY overlay_share_send_tab_btn_label "Enviar a otro dispositivo">
 <!ENTITY overlay_share_no_url "No se encontró un enlace en esta compartición">
-<!ENTITY overlay_share_retry "Intentar nuevamente">
 <!ENTITY overlay_share_select_device "Seleccionar dispositivo">
 <!-- Localization note (overlay_no_synced_devices) : Used when the menu option
      to send a tab to a synced device is pressed and no other synced devices
@@ -150,8 +149,6 @@
      it is applicable. -->
 <!ENTITY pref_search_hint "CONSEJO: Agregá cualquier sitio web a la lista de buscadores con una presión larga en su campo de búsqueda y luego tocando el ícono &formatI;.">
 <!ENTITY pref_category_devtools "Herramientas de desarrollador">
-<!ENTITY pref_category_devtools_summary "Depuración remota, parpadear dibujo">
-<!ENTITY pref_developer_paint_flashing "Parpadear dibujo">
 <!ENTITY pref_developer_remotedebugging "Depuración remota">
 <!ENTITY pref_category_logins "Ingresos">
 <!ENTITY pref_remember_signons "Recordar contraseñas">
@@ -192,22 +189,22 @@
 <!ENTITY pref_donottrack_title "No rastrear">
 <!ENTITY pref_donottrack_summary "&brandShortName; le dirá a los sitios que no querés ser rastreado">
 
-<!ENTITY tab_queue_toast_message "Abrir después">
+<!ENTITY tab_queue_toast_message2 "Pestaña en cola en &brandShortName;">
 <!ENTITY tab_queue_toast_action "Abrir ahora">
-<!-- Localization note (tab_queue_notification_text_plural) : The
+<!ENTITY tab_queue_prompt_title "¿Abriendo múltiples enlaces?">
+<!ENTITY tab_queue_prompt_text2 "Abrilos sin cambiar a &brandShortName; cada vez.">
+<!ENTITY tab_queue_prompt_tip_text "podés cambiar esta opción después en Configuración">
+<!ENTITY tab_queue_prompt_positive_action_button "Habilitar">
+<!ENTITY tab_queue_prompt_negative_action_button "No ahora">
+<!ENTITY tab_queue_notification_title "&brandShortName;">
+<!-- Localization note (tab_queue_notification_text_plural2) : The
      formatD is replaced with the number of tabs queued.  The
      number of tabs queued is always more than one.  We can't use
      Android plural forms, sadly. See Bug #753859. -->
-<!ENTITY tab_queue_notification_text_plural "&formatD; pestañas en cola">
-<!-- Localization note (tab_queue_notification_title_plural) : This is the
-     title of a notification; we expect more than one tab queued. -->
-<!ENTITY tab_queue_notification_title_plural "Pestañas en cola">
-<!-- Localization note (tab_queue_notification_title_singular) : This is the
-     title of a notification; we expect only one tab queued. -->
-<!ENTITY tab_queue_notification_title_singular "Pestañá en cola">
-<!-- Localization note (tab_queue_notification_text_singular) : This is the
+<!ENTITY tab_queue_notification_text_plural2 "&formatD; pestañas esperando">
+<!-- Localization note (tab_queue_notification_text_singular2) : This is the
      text of a notification; we expect only one tab queued. -->
-<!ENTITY tab_queue_notification_text_singular "1 pestaña en cola">
+<!ENTITY tab_queue_notification_text_singular2 "1 pestañá esperando">
 
 <!ENTITY pref_char_encoding "Codificación de caracteres">
 <!ENTITY pref_char_encoding_on "Mostrar menú">
@@ -256,7 +253,8 @@ size. -->
 <!ENTITY pref_import_android "Importar desde Android">
 <!ENTITY pref_import_android_summary "Importar marcadores e historial desde el navegador nativo">
 <!ENTITY pref_private_data_history2 "Historial de navegación">
-<!ENTITY pref_private_data_formdata "Historial de navegación y búsqueda">
+<!ENTITY pref_private_data_searchHistory "Historial de búsqueda">
+<!ENTITY pref_private_data_formdata2 "Historial de formularios">
 <!ENTITY pref_private_data_cookies2 "Cookies e ingresos activos">
 <!ENTITY pref_private_data_passwords "Contraseñas guardadas">
 <!ENTITY pref_private_data_cache "Caché">
@@ -381,6 +379,7 @@ size. -->
 <!ENTITY doorhanger_login_edit_username_hint "Usuario">
 <!ENTITY doorhanger_login_edit_password_hint "Contraseña">
 <!ENTITY doorhanger_login_edit_toggle "Mostrar contraseña">
+<!ENTITY doorhanger_login_edit_toast_error "No se pudo guardar el ingreso">
 
 <!ENTITY pref_titlebar_mode "Barra de título">
 <!ENTITY pref_titlebar_mode_title "Mostrar título de la página">
@@ -391,8 +390,8 @@ size. -->
 <!ENTITY pref_scroll_title_bar2 "Navegación a pantalla completa">
 <!ENTITY pref_scroll_title_bar_summary "Oculta la barra de título de &brandShortName; cuando se desplace la página hacia abajo">
 
-<!ENTITY pref_tab_queue_title "Abrir después">
-<!ENTITY pref_tab_queue_summary "Evita que las pestañas se abran inmediatamente, pero abre todas las pestañas en cola la próxima vez que se vargue &brandShortName;.">
+<!ENTITY pref_tab_queue_title2 "Abrir enlaces múltiples">
+<!ENTITY pref_tab_queue_summary2 "Poner elnaces en cola para más tarde en luvar de cambiar a &brandShortName; cada vez">
 
 <!-- Localization note (page_removed): This string appears in a toast message when
      any page is removed frome about:home. This includes pages that are in history,
@@ -441,6 +440,8 @@ size. -->
 <!ENTITY button_set "Establecer">
 <!ENTITY button_clear "Limpiar">
 <!ENTITY button_remember "Recordar">
+
+<!ENTITY firstrun_panel_title_welcome "Bienvenido">
 
 <!ENTITY home_top_sites_title "Más visitados">
 <!-- Localization note (home_top_sites_add): This string is used as placeholder

@@ -52,15 +52,21 @@
 <!-- LOCALIZATION NOTE (profilerUI.table.*): These strings are displayed
   -  in the call tree headers for a recording. -->
 <!ENTITY profilerUI.table.totalDuration2  "Tiempo total">
+<!ENTITY profilerUI.table.totalDuration.tooltip    "El monto de tiempo pasado en esta función y las funciones que llama.">
 <!ENTITY profilerUI.table.selfDuration2   "Tiempo propio">
+<!ENTITY profilerUI.table.selfDuration.tooltip     "El monto de tiempo pasado solamente dentro de esta función.">
 <!ENTITY profilerUI.table.totalPercentage "Costo total">
+<!ENTITY profilerUI.table.totalPercentage.tooltip  "El porcentaje de tiempo pasado en esta función y las funciones que llama.">
 <!ENTITY profilerUI.table.selfPercentage  "Costo propio">
+<!ENTITY profilerUI.table.selfPercentage.tooltip   "El porcentaje de tiempo pasado solamente dentro de esta función.">
 <!ENTITY profilerUI.table.samples     "Muestras">
-<!ENTITY profilerUI.table.totalAlloc1       "Total Sampled Allocations">
-<!ENTITY profilerUI.table.totalAllocTooltip "The total number of Object allocations sampled at this location and in callees.">
-<!ENTITY profilerUI.table.selfAlloc1        "Self Sampled Allocations">
-<!ENTITY profilerUI.table.selfAllocTooltip  "The number of Object allocations sampled at this location.">
+<!ENTITY profilerUI.table.samples.tooltip          "El número de veces que esta función estaba en la pila cuando el perfilador tomó una muestra.">
 <!ENTITY profilerUI.table.function    "Función">
+<!ENTITY profilerUI.table.function.tooltip         "The name and source location of the sampled function.">
+<!ENTITY profilerUI.table.totalAlloc1       "Total Sampled Allocations">
+<!ENTITY profilerUI.table.totalAlloc.tooltip       "The total number of Object allocations sampled at this location and in callees.">
+<!ENTITY profilerUI.table.selfAlloc1        "Self Sampled Allocations">
+<!ENTITY profilerUI.table.selfAlloc.tooltip        "The number of Object allocations sampled at this location.">
 
 <!-- LOCALIZATION NOTE (profilerUI.newtab.tooltiptext): The tooltiptext shown
   -  on the "+" (new tab) button for a profile when a selection is available. -->
@@ -110,3 +116,13 @@
   -  is recorded. -->
 <!ENTITY profilerUI.enableFramerate             "Registrar velocidad de video">
 <!ENTITY profilerUI.enableFramerate.tooltiptext "Registrar velocidad de video al perfilar.">
+
+<!-- LOCALIZATION NOTE (profilerUI.showJITOptimizations): This string
+  -  is displayed next to a checkbox determining whether or not JIT optimization data
+  -  should be shown. -->
+<!ENTITY profilerUI.showJITOptimizations             "Mostrar optimizaciones JIT">
+<!ENTITY profilerUI.showJITOptimizations.tooltiptext "Show JIT optimization data sampled in each frame of the JS call tree.">
+
+<!-- LOCALIZATION NOTE (profilerUI.JITOptimizationsTitle): This string
+  -  is displayed as the title of the JIT Optimizations panel. -->
+<!ENTITY profilerUI.JITOptimizationsTitle "Optimizaciones JIT">
