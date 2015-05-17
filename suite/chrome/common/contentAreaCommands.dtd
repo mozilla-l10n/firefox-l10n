@@ -72,6 +72,8 @@
 <!ENTITY saveFrameAsCmd.label "Uložit rám jako…">
 <!ENTITY saveFrameCmd.label "Uložit rám jako…">
 <!ENTITY saveFrameCmd.accesskey "r">
+<!ENTITY printFrameCmd.label "Tisknout rám…">
+<!ENTITY printFrameCmd.accesskey "T">
 <!ENTITY saveLinkAsCmd.label "Uložit odkaz jako…">
 <!ENTITY saveLinkCmd.label "Uložit odkaz jako…">
 <!ENTITY saveLinkCmd.accesskey "U">
