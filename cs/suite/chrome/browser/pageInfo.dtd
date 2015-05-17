@@ -29,7 +29,7 @@
 <!ENTITY generalReferrer "Odkazující URL:">
 <!ENTITY generalSource "Zdroj:">
 <!ENTITY generalModified "Změněno:">
-<!ENTITY generalEncoding "Kódování:">
+<!ENTITY  generalEncoding2      "Kódování textu:">
 <!ENTITY generalMetaName "Název">
 <!ENTITY generalMetaContent "Obsah">
 <!ENTITY generalSecurityDetails "Podrobnosti">
