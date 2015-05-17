@@ -18,8 +18,23 @@
 
 <!-- LOCALIZATION NOTE (profilerUI.stopNotice1/2): This is the label shown
   -  in the call list view while recording a profile. -->
+<!-- TODO remove -->
 <!ENTITY profilerUI.stopNotice1    "Clic en el">
+<!-- TODO remove -->
 <!ENTITY profilerUI.stopNotice2    "botón de nuevo para dejar de perfilar.">
+
+<!-- LOCALIZATION NOTE (profilerUI.startRecording/profilerUI.stopRecording): These are
+  -  the labels shown on the main recording buttons to start/stop recording. -->
+<!ENTITY profilerUI.startRecording "Iniciar grabación de rendimiento">
+<!ENTITY profilerUI.stopRecording  "Detener grabación de rendimiento">
+
+<!-- LOCALIZATION NOTE (profilerUI.bufferStatusTooltip): This string
+  -  is displayed as the tooltip for the buffer capacity during a recording. -->
+<!ENTITY profilerUI.bufferStatusTooltip "El perfilador guarda muestras en un buffer circular y una vez que el buffer alcanza el límite de la grabación, las nuevas muestras comienzan a sobreescribir las del principio de la grabación.">
+
+<!-- LOCALIZATION NOTE (profilerUI.bufferStatusFull): This string
+  -  is displayed when the profiler's circular buffer has started to overlap. -->
+<!ENTITY profilerUI.bufferStatusFull "El buffer está lleno. Las muestras antiguas están siendo sobreescritas.">
 
 <!-- LOCALIZATION NOTE (profilerUI.loadingNotice): This is the label shown
   -  in the call list view while loading a profile. -->
@@ -27,6 +42,7 @@
 
 <!-- LOCALIZATION NOTE (profilerUI.recordButton): This string is displayed
   -  on a button that starts a new profile. -->
+<!-- TODO remove -->
 <!ENTITY profilerUI.recordButton.tooltip "Registrar llamadas a funciones de JavaScript.">
 
 <!-- LOCALIZATION NOTE (profilerUI.importButton): This string is displayed
@@ -126,3 +142,16 @@
 <!-- LOCALIZATION NOTE (profilerUI.JITOptimizationsTitle): This string
   -  is displayed as the title of the JIT Optimizations panel. -->
 <!ENTITY profilerUI.JITOptimizationsTitle "Optimizaciones JIT">
+
+<!-- LOCALIZATION NOTE (profilerUI.console.recordingNoticeStart/recordingNoticeEnd):
+  -  This string is displayed when a recording is selected that started via console.profile.
+  -  Wraps the command used to start, like "Currently recording via console.profile("label")" -->
+<!ENTITY profilerUI.console.recordingNoticeStart "Actualmente grabado vía">
+<!ENTITY profilerUI.console.recordingNoticeEnd   "">
+
+<!-- LOCALIZATION NOTE (profilerUI.console.stopCommandStart/stopCommandEnd):
+  -  This string is displayed when a recording is selected that started via console.profile.
+  -  Indicates how to stop the recording, wrapping the command, like
+  -  "Stop recording by entering console.profilEnd("label") into the console." -->
+<!ENTITY profilerUI.console.stopCommandStart "Detener la grabación ingresando">
+<!ENTITY profilerUI.console.stopCommandEnd   "en la consola.">
