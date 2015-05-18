@@ -6,8 +6,8 @@
 <!ENTITY  no_space_to_start_error "&brandShortName;-ը սկսելու համար բավարար ազատ տեղ չկա։">
 <!ENTITY  error_loading_file "Սխալ՝ &brandShortName;-ը բացելու համար պահանջվող ֆայլերը բեռնելիս">
 
-<!ENTITY  onboard_start_message2 "Բարի գալուստ &brandShortName;">
-<!ENTITY  onboard_start_subtext2 "Ավելի անվտանգ և կազմաձևելի, քան երբևէ:">
+<!ENTITY  onboard_start_message3 "Բացել &brandShortName;-ով">
+<!ENTITY  onboard_start_subtext3 "Դարձրեք բջջայինով վեբ դիտարկումները իսկապես Ձերը:">
 <!ENTITY  onboard_start_button_account "Մուտք գործել &brandShortName;">
 <!ENTITY  onboard_start_button_browser "Սկսել">
 <!-- Localization note: These are used as the titles of different pages on the home screen.
@@ -114,7 +114,6 @@
 
 <!ENTITY overlay_share_send_tab_btn_label "Ուղարկել այլ սարքի">
 <!ENTITY overlay_share_no_url "Որևէ հղում չկա">
-<!ENTITY overlay_share_retry "Կրկին փորձել">
 <!ENTITY overlay_share_select_device "Ընտրեք սարքը">
 <!-- Localization note (overlay_no_synced_devices) : Used when the menu option
      to send a tab to a synced device is pressed and no other synced devices
@@ -150,8 +149,6 @@
      it is applicable. -->
 <!ENTITY pref_search_hint "Հուշում. Նոր որոնիչը կարող եք ավելացնել սեղմած պահելով որոնման դաշտի վրա, ապա կտտացնելով &formatI; պատկերակին:">
 <!ENTITY pref_category_devtools "Ծրագրավորողի գործիքներ">
-<!ENTITY pref_category_devtools_summary "Հեռակա վրիպազերծում, գունազարդում">
-<!ENTITY pref_developer_paint_flashing "Գունազարդում">
 <!ENTITY pref_developer_remotedebugging "Հեռակա վրիպազերծում">
 <!ENTITY pref_category_logins "Մուտքանուններ">
 <!ENTITY pref_remember_signons "Հիշել գաղտնաբառերը">
@@ -192,22 +189,22 @@
 <!ENTITY pref_donottrack_title "Չհետևել">
 <!ENTITY pref_donottrack_summary "&brandShortName;-ը կհաղորդի կայքերին, որ դուք չեք ցանկանում, որ ձեզ հետևեն">
 
-<!ENTITY tab_queue_toast_message "Բացել ավելի ուշ">
+<!ENTITY tab_queue_toast_message2 "Ներդիրների հերթը &brandShortName;-ում">
 <!ENTITY tab_queue_toast_action "Բացել հիմա">
-<!-- Localization note (tab_queue_notification_text_plural) : The
+<!ENTITY tab_queue_prompt_title "Բացե՞լ բազմակի հղումները">
+<!ENTITY tab_queue_prompt_text2 "Բացել դրանք՝ առանց ամեն անգամ &brandShortName;-ին անցնելու:">
+<!ENTITY tab_queue_prompt_tip_text "կարող եք սա փոխել հետագայում՝ Կարգավորումներում">
+<!ENTITY tab_queue_prompt_positive_action_button "Միացնել">
+<!ENTITY tab_queue_prompt_negative_action_button "Ոչ հիմա">
+<!ENTITY tab_queue_notification_title "&brandShortName;">
+<!-- Localization note (tab_queue_notification_text_plural2) : The
      formatD is replaced with the number of tabs queued.  The
      number of tabs queued is always more than one.  We can't use
      Android plural forms, sadly. See Bug #753859. -->
-<!ENTITY tab_queue_notification_text_plural "&formatD; ներդիր հերթում">
-<!-- Localization note (tab_queue_notification_title_plural) : This is the
-     title of a notification; we expect more than one tab queued. -->
-<!ENTITY tab_queue_notification_title_plural "Ներդիր հերթում">
-<!-- Localization note (tab_queue_notification_title_singular) : This is the
-     title of a notification; we expect only one tab queued. -->
-<!ENTITY tab_queue_notification_title_singular "Ներդիր հերթում">
-<!-- Localization note (tab_queue_notification_text_singular) : This is the
+<!ENTITY tab_queue_notification_text_plural2 "&formatD; ներդիր կա հերթում">
+<!-- Localization note (tab_queue_notification_text_singular2) : This is the
      text of a notification; we expect only one tab queued. -->
-<!ENTITY tab_queue_notification_text_singular "1 ներդիր հերթում">
+<!ENTITY tab_queue_notification_text_singular2 "1 ներդիր է առկա">
 
 <!ENTITY pref_char_encoding "Ցուցադրել գրանշանի կոդավորումը">
 <!ENTITY pref_char_encoding_on "Ցուցադրել">
@@ -255,7 +252,8 @@ size. -->
 <!ENTITY pref_import_android "Ներմուծել Android-ից">
 <!ENTITY pref_import_android_summary "Ներմուծել էջանիշեր և պատմություն հիմնական դիտարկիչից">
 <!ENTITY pref_private_data_history2 "Դիտարկումների պատմությունը">
-<!ENTITY pref_private_data_formdata "Որոնման ձևերի պատմությունը">
+<!ENTITY pref_private_data_searchHistory "Որոնման պատմություն">
+<!ENTITY pref_private_data_formdata2 "Ձևերի պատմություն">
 <!ENTITY pref_private_data_cookies2 "Cookie-ներ և ակտիվ մուտքեր">
 <!ENTITY pref_private_data_passwords "Պահպանված գաղտնաբառեր">
 <!ENTITY pref_private_data_cache "Պահոցը">
@@ -380,6 +378,7 @@ size. -->
 <!ENTITY doorhanger_login_edit_username_hint "Օգտվողի Անունը">
 <!ENTITY doorhanger_login_edit_password_hint "Գաղտնաբառ">
 <!ENTITY doorhanger_login_edit_toggle "Ցուցադրել գաղտնաբառը">
+<!ENTITY doorhanger_login_edit_toast_error "Հնարավոր չեղավ պահպանել մուտքագրումը">
 
 <!ENTITY pref_titlebar_mode "Գլխագիրը">
 <!ENTITY pref_titlebar_mode_title "Ցուցադրել էջի վերնագիրը">
@@ -390,8 +389,8 @@ size. -->
 <!ENTITY pref_scroll_title_bar2 "Լիաէկրան դիտարկում">
 <!ENTITY pref_scroll_title_bar_summary "Էջը իջեցնելիս թաքցնել &brandShortName;-ի գլխագիր">
 
-<!ENTITY pref_tab_queue_title "Բացել ավելի ուշ">
-<!ENTITY pref_tab_queue_summary "Կանխում է ներդիրների անմիջական բացումը, բայց բացում է հերթում գտնվող բոլոր ներդիրները &brandShortName;-ը հաջորդ անգամ բեռնելիս:">
+<!ENTITY pref_tab_queue_title2 "Բացել բազմակի հղումները">
+<!ENTITY pref_tab_queue_summary2 "Հերթում պահել հղումները՝ ամեն անգամ &brandShortName;-ին անցնելու փոխարեն">
 <!-- Localization note (page_removed): This string appears in a toast message when
      any page is removed frome about:home. This includes pages that are in history,
      bookmarks, or reading list. -->
@@ -440,6 +439,8 @@ size. -->
 <!ENTITY button_set "Նշել">
 <!ENTITY button_clear "Մաքրել">
 <!ENTITY button_remember "Հիշել">
+
+<!ENTITY firstrun_panel_title_welcome "Բարի գալուստ">
 
 <!ENTITY home_top_sites_title "Լավագույն կայքերը">
 <!-- Localization note (home_top_sites_add): This string is used as placeholder
@@ -612,6 +613,14 @@ Android-ից">
 <!ENTITY ellipsis "…">
 
 <!ENTITY colon ":">
+<!-- LOCALIZATION NOTE (percent): The percent sign is appended after a number to
+     display a percentage value. formatS is the number, #37 is the code to display a percent sign.
+     This format string is typically used by getString method, in such method the percent sign
+     is a reserved caracter. In order to display one percent sign in the result of getString,
+     double percent signs must be inserted in the format string.
+     This entity is used in the zoomed view to display the zoom factor-->
+
+<!ENTITY percent "&formatS;&#037;&#037;">
 <!-- These are only used for accessibility for the done and overflow-menu buttons in the actionbar.
      They are never shown to users -->
 
