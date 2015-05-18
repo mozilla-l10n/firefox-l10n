@@ -149,8 +149,6 @@
      it is applicable. -->
 <!ENTITY pref_search_hint "Tip: akúkoľvek stránku pridáte dlhým podržaním jej vyhľadávacieho poľa a následne ťuknutím na ikonu &formatI;.">
 <!ENTITY pref_category_devtools "Vývojárske nástroje">
-<!ENTITY pref_category_devtools_summary "Vzdialené ladenie, zvýrazňovanie prekresľovania">
-<!ENTITY pref_developer_paint_flashing "Zvýrazniť prekresľovanie">
 <!ENTITY pref_developer_remotedebugging "Vzdialené ladenie">
 <!ENTITY pref_category_logins "Heslá">
 <!ENTITY pref_remember_signons "Pamätať si heslá">
