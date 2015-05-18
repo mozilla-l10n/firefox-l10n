@@ -2,8 +2,15 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY aboutNetworking.title                 "About Networking">
+<!ENTITY aboutNetworking.warning               "This is very experimental. Do not use without adult supervision.">
 <!ENTITY aboutNetworking.showNextTime          "Hiện cảnh báo này vào lần sau">
 <!ENTITY aboutNetworking.ok                    "OK">
+<!ENTITY aboutNetworking.http                  "Http">
+<!ENTITY aboutNetworking.sockets               "Sockets">
+<!ENTITY aboutNetworking.dns                   "DNS">
+<!ENTITY aboutNetworking.websockets            "WebSockets">
+<!ENTITY aboutNetworking.refresh               "Cập nhật">
 
 
 
@@ -13,17 +20,12 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY aboutNetworking.sent                  "Đã gửi">
+<!ENTITY aboutNetworking.received              "Đã nhận">
+<!ENTITY aboutNetworking.family                "Nhóm">
+<!ENTITY aboutNetworking.addresses             "Địa chỉ">
+<!ENTITY aboutNetworking.expires               "Expires (Seconds)">
+<!ENTITY aboutNetworking.messagesSent          "Tin nhắn đã gửi">
+<!ENTITY aboutNetworking.messagesReceived      "Tin nhắn đã nhận">
+<!ENTITY aboutNetworking.bytesSent             "Byte đã gửi">
+<!ENTITY aboutNetworking.bytesReceived         "Byte đã nhận">
