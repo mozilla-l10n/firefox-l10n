@@ -192,10 +192,10 @@
 <!ENTITY pref_donottrack_title "Funkcia Do not track">
 <!ENTITY pref_donottrack_summary "&brandShortName; požiada webové stránky, aby nesledovali vašu aktivitu">
 
-<!ENTITY tab_queue_toast_message "Otvoriť neskôr">
+<!ENTITY tab_queue_toast_message "Fronta kariet v &brandShortName;">
 <!ENTITY tab_queue_toast_action "Otvoriť teraz">
 <!ENTITY tab_queue_prompt_title "Otvoriť viaceré odkazy?">
-<!ENTITY tab_queue_prompt_text "Otvoriť bez prepínania na Firefox po každom odkaze.">
+<!ENTITY tab_queue_prompt_text "Otvoriť bez prepínania na &brandShortName; po každom odkaze.">
 <!ENTITY tab_queue_prompt_tip_text "Toto nastavenie môžete neskôr zmeniť v Nastaveniach">
 <!ENTITY tab_queue_prompt_positive_action_button "Povoliť">
 <!ENTITY tab_queue_prompt_negative_action_button "Teraz nie">
@@ -398,8 +398,8 @@ size. -->
 <!ENTITY pref_scroll_title_bar2 "Prehliadanie na celú obrazovku">
 <!ENTITY pref_scroll_title_bar_summary "Skrýva titulok okna &brandShortName;u počas posúvania stránky">
 
-<!ENTITY pref_tab_queue_title "Oneskorené otvorenie">
-<!ENTITY pref_tab_queue_summary "Zabráni okamžitému otvoreniu kariet. Všetky karty budú uložené do fronty a otvorené pri najbližšom spustení prehliadača &brandShortName;.">
+<!ENTITY pref_tab_queue_title "Otvorenie viacerých odkazov naraz">
+<!ENTITY pref_tab_queue_summary "Odkazy ukladá do fronty namiesto prepnutia do prehliadača &brandShortName; po každom odkaze.">
 
 <!-- Localization note (page_removed): This string appears in a toast message when
      any page is removed frome about:home. This includes pages that are in history,
