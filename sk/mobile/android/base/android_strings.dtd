@@ -114,7 +114,6 @@
      to. -->
 <!ENTITY overlay_share_send_tab_btn_label "Odoslať do ďalšieho zariadenia">
 <!ENTITY overlay_share_no_url "Nebol nájdený žiadny odkaz na zdieľanie">
-<!ENTITY overlay_share_retry "Skúsiť znova">
 <!ENTITY overlay_share_select_device "Zvoľte zariadenie">
 <!-- Localization note (overlay_no_synced_devices) : Used when the menu option
      to send a tab to a synced device is pressed and no other synced devices
