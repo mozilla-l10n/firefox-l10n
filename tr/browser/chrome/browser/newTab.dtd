@@ -4,9 +4,13 @@
 <!-- These strings are used in the about:newtab page -->
 
 <!ENTITY newtab.pageTitle "Yeni sekme">
+
+
+
+
 <!ENTITY newtab.customize.title "Yeni Sekme sayfanızı özelleştirin">
 <!ENTITY newtab.customize.suggested "Önerilenleri ve sık ziyaret edilenleri göster">
-<!ENTITY newtab.customize.topsites "Sık ziyaret edilenleri göster">
+
 <!ENTITY newtab.customize.blank2 "Boş bir sayfa göster">
 <!ENTITY newtab.customize.what "Bu sayfa nedir?">
 <!ENTITY newtab.intro.header "Bu sayfa nedir?">
