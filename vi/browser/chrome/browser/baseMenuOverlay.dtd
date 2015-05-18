@@ -25,8 +25,8 @@
 
 <!ENTITY helpSafeMode.label       "Khởi động lại và vô hiệu hóa Tiện ích…">
 <!ENTITY helpSafeMode.accesskey   "K">
-
-
+<!ENTITY helpSafeMode.stop.label       "Khởi động lại và vô hiệu hóa Tiện ích">
+<!ENTITY helpSafeMode.stop.accesskey   "K">
 
 <!ENTITY healthReport2.label      "Các thông số của &brandShorterName;">
 <!ENTITY healthReport2.accesskey  "s">
