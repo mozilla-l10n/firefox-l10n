@@ -6,8 +6,8 @@
 <!ENTITY  no_space_to_start_error "Ekki er nægjanleg rýmd til að ræsa &brandShortName;.">
 <!ENTITY  error_loading_file "Villa átti sér stað við keyrslu skráa sem tengjast &brandShortName;">
 
-<!ENTITY  onboard_start_message2 "Vertu velkomin í &brandShortName;!">
-<!ENTITY  onboard_start_subtext2 "Fleiri möguleikar og leiðir til að sérsníða en áður.">
+<!ENTITY  onboard_start_message3 "Vafra með &brandShortName;">
+<!ENTITY  onboard_start_subtext3 "Gerðu vef upplifunina á handhæga tækinu virkilega þína eigin.">
 <!ENTITY  onboard_start_button_account "Innskráning í &brandShortName;">
 <!ENTITY  onboard_start_button_browser "Fara að vafra">
 <!-- Localization note: These are used as the titles of different pages on the home screen.
@@ -114,7 +114,6 @@
 
 <!ENTITY overlay_share_send_tab_btn_label "Senda yfir í annað tæki">
 <!ENTITY overlay_share_no_url "Engin hlekkur fundinn á þessu svæði">
-<!ENTITY overlay_share_retry "Reyndu aftur">
 <!ENTITY overlay_share_select_device "Veldu tæki">
 <!-- Localization note (overlay_no_synced_devices) : Used when the menu option
      to send a tab to a synced device is pressed and no other synced devices
@@ -150,8 +149,6 @@
      it is applicable. -->
 <!ENTITY pref_search_hint "Ábending: Bættu fleiri leitarvélum við með því að halda lengi niðri á leitarsvæðið og snerta síðan &formatI; merkið.">
 <!ENTITY pref_category_devtools "Verkfærakista forritarans">
-<!ENTITY pref_category_devtools_summary "Kembun með fjartengingu, paint flössun">
-<!ENTITY pref_developer_paint_flashing "Paint flashing">
 <!ENTITY pref_developer_remotedebugging "Villuleit með fjartengingu">
 <!ENTITY pref_category_logins "Innskráningar">
 <!ENTITY pref_remember_signons "Muna lykilorð">
@@ -192,22 +189,20 @@
 <!ENTITY pref_donottrack_title "Ekki leyfa að fylgjast með">
 <!ENTITY pref_donottrack_summary "&brandShortName; mun láta vefsvæði vita að þú vilt ekki láta fylgjast með þér">
 
-<!ENTITY tab_queue_toast_message "Opna síðar">
+<!ENTITY tab_queue_toast_message2 "Flipi settur í röð í &brandShortName;">
 <!ENTITY tab_queue_toast_action "Opna núna">
-<!-- Localization note (tab_queue_notification_text_plural) : The
+<!ENTITY tab_queue_prompt_title "Opna marga hlekki?">
+
+
+
+
+
+<!-- Localization note (tab_queue_notification_text_plural2) : The
      formatD is replaced with the number of tabs queued.  The
      number of tabs queued is always more than one.  We can't use
      Android plural forms, sadly. See Bug #753859. -->
-<!ENTITY tab_queue_notification_text_plural "&formatD; flipar settir í röð">
-<!-- Localization note (tab_queue_notification_title_plural) : This is the
-     title of a notification; we expect more than one tab queued. -->
-<!ENTITY tab_queue_notification_title_plural "Flipar í röð">
-<!-- Localization note (tab_queue_notification_title_singular) : This is the
-     title of a notification; we expect only one tab queued. -->
-<!ENTITY tab_queue_notification_title_singular "Flipi í röð">
-<!-- Localization note (tab_queue_notification_text_singular) : This is the
+<!-- Localization note (tab_queue_notification_text_singular2) : This is the
      text of a notification; we expect only one tab queued. -->
-<!ENTITY tab_queue_notification_text_singular "1 flipi í röð">
 
 <!ENTITY pref_char_encoding "Dulkóðun">
 <!ENTITY pref_char_encoding_on "Sýna valmynd">
@@ -255,7 +250,8 @@ size. -->
 <!ENTITY pref_import_android "Flytja inn frá Android">
 <!ENTITY pref_import_android_summary "Flytja inn bókarmerki og sögu frá innbyggðum vafra">
 <!ENTITY pref_private_data_history2 "Ferill">
-<!ENTITY pref_private_data_formdata "Eyðublað &amp; leitarferill">
+
+
 <!ENTITY pref_private_data_cookies2 "Smákökur &amp; virkar innskráningar">
 <!ENTITY pref_private_data_passwords "Vistuð lykilorð">
 <!ENTITY pref_private_data_cache "Flýtiminni">
@@ -381,6 +377,7 @@ size. -->
 <!ENTITY doorhanger_login_edit_password_hint "Lykilorð">
 <!ENTITY doorhanger_login_edit_toggle "Sýna lykilorð">
 
+
 <!ENTITY pref_titlebar_mode "Titilslá">
 <!ENTITY pref_titlebar_mode_title "Sýna titil síðunnar">
 <!ENTITY pref_titlebar_mode_url "Sýna vistfang síðunnar">
@@ -390,8 +387,7 @@ size. -->
 <!ENTITY pref_scroll_title_bar2 "Vafra í fullum skjá">
 <!ENTITY pref_scroll_title_bar_summary "Fela &brandShortName; titilstöng þegar skrunað er niður síðu">
 
-<!ENTITY pref_tab_queue_title "Opna síðar">
-<!ENTITY pref_tab_queue_summary "Koma í veg fyrir að flipar opnist strax en opna alla flipa í röðinni næst þegar &brandShortName; ræsir.">
+
 <!-- Localization note (page_removed): This string appears in a toast message when
      any page is removed frome about:home. This includes pages that are in history,
      bookmarks, or reading list. -->
@@ -440,6 +436,7 @@ size. -->
 <!ENTITY button_set "Stilla">
 <!ENTITY button_clear "Hreinsa">
 <!ENTITY button_remember "Muna eftir">
+
 
 <!ENTITY home_top_sites_title "Vinsælustu svæðin">
 <!-- Localization note (home_top_sites_add): This string is used as placeholder
@@ -612,6 +609,12 @@ frá Android">
 <!ENTITY ellipsis "…">
 
 <!ENTITY colon ":">
+<!-- LOCALIZATION NOTE (percent): The percent sign is appended after a number to
+     display a percentage value. formatS is the number, #37 is the code to display a percent sign.
+     This format string is typically used by getString method, in such method the percent sign
+     is a reserved caracter. In order to display one percent sign in the result of getString,
+     double percent signs must be inserted in the format string.
+     This entity is used in the zoomed view to display the zoom factor-->
 <!-- These are only used for accessibility for the done and overflow-menu buttons in the actionbar.
      They are never shown to users -->
 
@@ -623,7 +626,7 @@ frá Android">
 <!ENTITY voicesearch_failed_title "&brandShortName; tal leit">
 <!ENTITY voicesearch_failed_message "Tal leitin virkar ekki núna. Vinsamlega reyndu síðar.">
 <!ENTITY voicesearch_failed_message_recoverable "Fyrirgefðu! Við skildum ekki það sem þú sagðir. Vinsamlega reyndu aftur.">
-<!ENTITY voicesearch_failed_retry "Reyndu aftur">
+
 <!-- Localization note (remote_tabs_last_synced): the variable is replaced by a
      "relative time span string" produced by Android.  This string describes the
      time the tabs were last synced relative to the current time; examples
