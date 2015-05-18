@@ -124,7 +124,7 @@ Manager.</li>
 
 <!ENTITY nssFailure2.title "A ligação segura falhou">
 <!ENTITY nssFailure2.longDesc2 "<ul> 
-<li>A página que está a tentar visualizar não pode ser apresentada porque a autenticidade dos dados recebidos não pode ser verificada.</li> 
+<li>A página que está a tentar visualizar não pode ser mostrada porque a autenticidade dos dados recebidos não pode ser verificada.</li> 
 <li>Contacte os donos do sítio web para os informar deste problema.</li> 
 </ul>">
 
@@ -149,7 +149,7 @@ ser temporário, voltando a tentar mais tarde.</li>
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; impediu o carregamento desta página deste modo porque esta contém uma política de segurança de conteúdo que a desativou.</p>">
 
 <!ENTITY corruptedContentError.title "Erro de conteúdo corrompido">
-<!ENTITY corruptedContentError.longDesc "<p>A página que está a tentar visualizar não pode ser apresentada porque foi detectado um erro na transmissão de dados.</p><ul><li>Por favor, contacte o dono do sítio web para o informar sobre este problema.</li></ul>">
+<!ENTITY corruptedContentError.longDesc "<p>A página que está a tentar visualizar não pode ser mostrada porque foi detetado um erro na transmissão de dados.</p><ul><li>Por favor contacte o dono do sítio web para o informar sobre este problema.</li></ul>">
 
 <!ENTITY securityOverride.linkText "Ou pode adicionar exceção…">
 <!ENTITY securityOverride.getMeOutOfHereButton "Tirem-me daqui!">

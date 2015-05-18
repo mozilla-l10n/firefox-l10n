@@ -458,7 +458,7 @@ size. -->
 <!ENTITY home_last_tabs_title "Separadores da última vez">
 <!ENTITY home_last_tabs_empty "Os seus separadores recentes.">
 <!ENTITY home_open_all "Abrir todos">
-<!ENTITY home_most_recent_empty "Os sítios web mais visitados são aqui apresentados.">
+<!ENTITY home_most_recent_empty "Os sítios web mais visitados são mostrados aqui.">
 <!-- Localization note (home_most_recent_emptyhint2): "Psst" is a sound that might be used to attract someone's attention unobtrusively, and intended to hint at Private Browsing to the user.
      The placeholders &formatS1; and &formatS2; are used to mark the location of text underlining. -->
 <!ENTITY home_most_recent_emptyhint2 "Psst: se utilizar um &formatS1;Novo separador privado&formatS2;, o seu histórico não será guardado.">
@@ -481,7 +481,7 @@ size. -->
 <!ENTITY home_move_up_to_filter "Subir para &formatS;">
 
 <!ENTITY home_remote_tabs_title "Separadores sincronizados">
-<!ENTITY home_remote_tabs_empty "Os seus separadores de outros dispositivos são apresentados aqui.">
+<!ENTITY home_remote_tabs_empty "Os separadores de outros dispositivos são mostrados aqui.">
 <!ENTITY home_remote_tabs_unable_to_connect "Não foi possível ligar">
 <!ENTITY home_remote_tabs_need_to_sign_in "Por favor inicie sessão para estabelecer a ligação à sua conta Firefox e continuar a sincronizar.">
 <!ENTITY home_remote_tabs_need_to_finish_migrating "A sua nova Conta Firefox está pronta!">
