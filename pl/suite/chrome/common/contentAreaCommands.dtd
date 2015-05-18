@@ -72,6 +72,8 @@
 <!ENTITY saveFrameAsCmd.label "Zapisz ramkę jako…">
 <!ENTITY saveFrameCmd.label "Zapisz ramkę">
 <!ENTITY saveFrameCmd.accesskey "Z">
+<!ENTITY printFrameCmd.label "Drukuj ramkę…">
+<!ENTITY printFrameCmd.accesskey "u">
 <!ENTITY saveLinkAsCmd.label "Zapisz element docelowy jako…">
 <!ENTITY saveLinkCmd.label "Zapisz element docelowy">
 <!ENTITY saveLinkCmd.accesskey "s">
