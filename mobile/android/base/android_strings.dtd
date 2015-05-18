@@ -192,17 +192,19 @@
 <!ENTITY tab_queue_toast_message2 "Flipi settur í röð í &brandShortName;">
 <!ENTITY tab_queue_toast_action "Opna núna">
 <!ENTITY tab_queue_prompt_title "Opna marga hlekki?">
-
-
-
-
-
+<!ENTITY tab_queue_prompt_text2 "Opna án þessa að skipta yfir í &brandShortName; í sérhvert sinn.">
+<!ENTITY tab_queue_prompt_tip_text "þú getur breytt þessu síðar í Stillingum">
+<!ENTITY tab_queue_prompt_positive_action_button "Virkja">
+<!ENTITY tab_queue_prompt_negative_action_button "Ekki núna">
+<!ENTITY tab_queue_notification_title "&brandShortName;">
 <!-- Localization note (tab_queue_notification_text_plural2) : The
      formatD is replaced with the number of tabs queued.  The
      number of tabs queued is always more than one.  We can't use
      Android plural forms, sadly. See Bug #753859. -->
+<!ENTITY tab_queue_notification_text_plural2 "&formatD; flipar sem bíða">
 <!-- Localization note (tab_queue_notification_text_singular2) : This is the
      text of a notification; we expect only one tab queued. -->
+<!ENTITY tab_queue_notification_text_singular2 "1 flipi sem bíður">
 
 <!ENTITY pref_char_encoding "Dulkóðun">
 <!ENTITY pref_char_encoding_on "Sýna valmynd">
@@ -250,8 +252,8 @@ size. -->
 <!ENTITY pref_import_android "Flytja inn frá Android">
 <!ENTITY pref_import_android_summary "Flytja inn bókarmerki og sögu frá innbyggðum vafra">
 <!ENTITY pref_private_data_history2 "Ferill">
-
-
+<!ENTITY pref_private_data_searchHistory "Yfirlit ferils">
+<!ENTITY pref_private_data_formdata2 "Yfirlit eyðublaðs">
 <!ENTITY pref_private_data_cookies2 "Smákökur &amp; virkar innskráningar">
 <!ENTITY pref_private_data_passwords "Vistuð lykilorð">
 <!ENTITY pref_private_data_cache "Flýtiminni">
@@ -376,7 +378,7 @@ size. -->
 <!ENTITY doorhanger_login_edit_username_hint "Notendanafn">
 <!ENTITY doorhanger_login_edit_password_hint "Lykilorð">
 <!ENTITY doorhanger_login_edit_toggle "Sýna lykilorð">
-
+<!ENTITY doorhanger_login_edit_toast_error "Ekki tókst að vista innskráningu">
 
 <!ENTITY pref_titlebar_mode "Titilslá">
 <!ENTITY pref_titlebar_mode_title "Sýna titil síðunnar">
@@ -387,7 +389,8 @@ size. -->
 <!ENTITY pref_scroll_title_bar2 "Vafra í fullum skjá">
 <!ENTITY pref_scroll_title_bar_summary "Fela &brandShortName; titilstöng þegar skrunað er niður síðu">
 
-
+<!ENTITY pref_tab_queue_title2 "Opna marga hlekki">
+<!ENTITY pref_tab_queue_summary2 "Setja hlekki í biðröð í stað þess að skipta yfir í &brandShortName; í sérhvert sinn">
 <!-- Localization note (page_removed): This string appears in a toast message when
      any page is removed frome about:home. This includes pages that are in history,
      bookmarks, or reading list. -->
@@ -437,6 +440,7 @@ size. -->
 <!ENTITY button_clear "Hreinsa">
 <!ENTITY button_remember "Muna eftir">
 
+<!ENTITY firstrun_panel_title_welcome "Velkomin(n)">
 
 <!ENTITY home_top_sites_title "Vinsælustu svæðin">
 <!-- Localization note (home_top_sites_add): This string is used as placeholder
@@ -615,6 +619,8 @@ frá Android">
      is a reserved caracter. In order to display one percent sign in the result of getString,
      double percent signs must be inserted in the format string.
      This entity is used in the zoomed view to display the zoom factor-->
+
+<!ENTITY percent "&formatS;&#037;&#037;">
 <!-- These are only used for accessibility for the done and overflow-menu buttons in the actionbar.
      They are never shown to users -->
 
@@ -626,7 +632,7 @@ frá Android">
 <!ENTITY voicesearch_failed_title "&brandShortName; tal leit">
 <!ENTITY voicesearch_failed_message "Tal leitin virkar ekki núna. Vinsamlega reyndu síðar.">
 <!ENTITY voicesearch_failed_message_recoverable "Fyrirgefðu! Við skildum ekki það sem þú sagðir. Vinsamlega reyndu aftur.">
-
+<!ENTITY voicesearch_failed_retry "Reyndu aftur">
 <!-- Localization note (remote_tabs_last_synced): the variable is replaced by a
      "relative time span string" produced by Android.  This string describes the
      time the tabs were last synced relative to the current time; examples
