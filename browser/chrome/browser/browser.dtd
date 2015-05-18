@@ -267,10 +267,14 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (browserToolboxMenu.label): This is the label for the
   -  application menu item that opens the browser toolbox UI in the Tools menu. -->
 
+<!ENTITY browserToolboxMenu.label     "Browser Toolbox">
+<!ENTITY browserToolboxMenu.accesskey "e">
 <!ENTITY browserToolboxCmd.commandkey "i">
 <!-- LOCALIZATION NOTE (browserContentToolboxMenu.label): This is the label for the
   -  application menu item that opens the browser content toolbox UI in the Tools menu.
   -  This toolbox allows to debug the chrome of the content process in multiprocess builds.  -->
+
+<!ENTITY browserContentToolboxMenu.label     "Browser Content Toolbox">
 
 <!ENTITY devToolbarCloseButton.tooltiptext "Đóng thanh công cụ lập trình">
 <!ENTITY devToolbarMenu.label              "Thanh công cụ lập trình">
@@ -425,6 +429,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      intentionally left empty for en-US and can be used by other localizations to
      display a string after the search engine name.  This string will be displayed
      as:  "Search <selected engine name><searchAfter.label text>" -->
+
+<!ENTITY search.label                 "Tìm với ">
 <!ENTITY searchAfter.label            "">
 <!-- LOCALIZATION NOTE (searchWithHeader.label):
      The wording of this string should be as close as possible to
@@ -749,8 +755,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "T">
 
 <!ENTITY social.chatBar.commandkey "c">
-
-
+<!ENTITY social.chatBar.label "Chuyển sang trò chuyện">
+<!ENTITY social.chatBar.accesskey "C">
 
 <!ENTITY social.markpageMenu.accesskey "P">
 <!ENTITY social.markpageMenu.label "Lưu trang này…">
