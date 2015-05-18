@@ -16,5 +16,7 @@
 <!ENTITY safeb.blocked.phishingPage.shortDesc2 "Möguleg hætta er á því að auðkenni þínu verði stolið eða það misnotað ef þú skráir inn persónulegar upplýsingar á þessa síðu.">
 <!ENTITY safeb.blocked.phishingPage.longDesc2 "<p>Þessi tegund af vef fölsun eru notuð í svindli þekktu sem &quot;phishing,&quot; þar sem gervi vefsíður og tölvupóstföng eru notuð til að líkja eftir fyrirtækjum sem þú ef til vill treystir.</p>">
 
+<!ENTITY safeb.blocked.unwantedPage.title "Láta vita af óæskilegu hugbúnaðarsvæði!">
 <!-- Localization note (safeb.blocked.unwanted.shortDesc) - Please don't translate the contents of the <span id="unwanted_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
-
+<!ENTITY safeb.blocked.unwantedPage.shortDesc "Tilkynnt hefur verið að þessi vefsíða hér <span id='malware_sitename'/> innihaldi óæskilegan hugbúnaða og hefur því verið lokað á hana samkvæmt á öryggisstillingum þínum.">
+<!ENTITY safeb.blocked.unwantedPage.longDesc "Síður með óæskilegum hugbúnaði reyna að innsetja hugbúnað á tækið þitt sem getur verið villandi og haft óvænt áhrif á kerfið þitt.">
