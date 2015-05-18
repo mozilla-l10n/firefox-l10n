@@ -87,7 +87,7 @@
 <!ENTITY cspBlocked.longDesc "<p>O navegador preveniu esta página de carregar desta maneira porque a página tem uma política de segurança de conteúdos que a desativa.</p>">
 
 <!ENTITY corruptedContentError.title "Erro de conteúdo corrompido">
-<!ENTITY corruptedContentError.longDesc "<p>A página que está a tentar visualizar não pode ser apresentada porque foi detetado um erro na transmissão de dados.</p><ul><li>Por favor, contacte o dono do sítio web para o informar sobre este problema.</li></ul>">
+<!ENTITY corruptedContentError.longDesc "<p>A página que está a tentar visualizar não pode ser mostrada porque foi detetado um erro na transmissão de dados.</p><ul><li>Por favor contacte o dono do sítio web para o informar sobre este problema.</li></ul>">
 
 <!ENTITY remoteXUL.title "XUL remoto">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Por favor contacte os responsáveis do sítio web para os informar sobre este problema.</li></ul></p>">
