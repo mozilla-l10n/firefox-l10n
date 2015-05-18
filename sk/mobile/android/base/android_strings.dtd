@@ -381,6 +381,8 @@ size. -->
 <!ENTITY doorhanger_login_edit_toggle "Zobraziť heslo">
 <!ENTITY doorhanger_login_edit_toast_error "Prihlasovacie údaje sa nepodarilo uložiť">
 <!ENTITY doorhanger_login_select_message "Kopírovať heslo z &formatS;?">
+<!ENTITY doorhanger_login_select_toast_copy "Heslo bolo skopírované do schránky">
+<!ENTITY doorhanger_login_select_toast_copy_error "Heslo nebolo možné skopírovať">
 
 <!ENTITY pref_titlebar_mode "Panel s titulkom okna">
 <!ENTITY pref_titlebar_mode_title "Zobrazovať titulok stránky">
