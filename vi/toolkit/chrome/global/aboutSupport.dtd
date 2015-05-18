@@ -26,16 +26,18 @@ This is likely the same like id.heading in crashes.dtd. -->
 
 <!ENTITY aboutSupport.experimentDescription "Mô tả">
 
-
+<!ENTITY aboutSupport.experimentEndDate "Ngày kết thúc">
 <!ENTITY aboutSupport.experimentHomepage "Trang chủ">
 
 
 <!ENTITY aboutSupport.appBasicsTitle "Cơ bản về Chương trình">
 <!ENTITY aboutSupport.appBasicsName "Tên">
 <!ENTITY aboutSupport.appBasicsVersion "Phiên bản">
-
+<!ENTITY aboutSupport.appBasicsBuildID "Build ID">
 <!-- LOCALIZATION NOTE (aboutSupport.appBasicsUpdateChannel, aboutSupport.appBasicsUpdateHistory, aboutSupport.appBasicsShowUpdateHistory):
 "Update" is a noun here, not a verb. -->
+
+<!ENTITY aboutSupport.appBasicsUpdateChannel "Kênh cập nhật">
 <!ENTITY aboutSupport.appBasicsUpdateHistory "Lịch sử cập nhật">
 <!ENTITY aboutSupport.appBasicsShowUpdateHistory "Hiển thị lịch sử cập nhật">
 
@@ -51,6 +53,9 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 <!ENTITY aboutSupport.appBasicsMemoryUse "Sử dụng Bộ nhớ">
 <!-- LOCALIZATION NOTE the term "Service Workers" should not be translated. -->
 
+<!ENTITY aboutSupport.appBasicsServiceWorkers "Các service worker đã đăng ký">
+
+<!ENTITY aboutSupport.appBasicsMultiProcessSupport "Các cửa sổ đa tiến trình">
 
 <!ENTITY aboutSupport.showDir.label "Mở Thư mục">
 <!-- LOCALIZATION NOTE (aboutSupport.showMac.label): This is the Mac-specific
@@ -63,14 +68,15 @@ variant of aboutSupport.showDir.label. -->
 
 <!ENTITY aboutSupport.modifiedKeyPrefsTitle "Các tùy chọn quan trọng đã được sửa đổi">
 <!ENTITY aboutSupport.modifiedPrefsName "Tên">
-
+<!ENTITY aboutSupport.modifiedPrefsValue "Giá trị">
 <!-- LOCALIZATION NOTE (aboutSupport.userJSTitle, aboutSupport.userJSDescription): user.js is the name of the preference override file being checked. -->
 
 <!ENTITY aboutSupport.userJSTitle "Tinh chỉnh user.js">
 <!ENTITY aboutSupport.userJSDescription "Thư mục hồ sơ của bạn chứa một tệp <a id='prefs-user-js-link'>user.js</a>, bao gồm các tùy chỉnh không được tạo bởi &brandShortName;.">
 
-
-
+<!ENTITY aboutSupport.lockedKeyPrefsTitle "Các tùy chọn quan trọng đã khóa">
+<!ENTITY aboutSupport.lockedPrefsName "Tên">
+<!ENTITY aboutSupport.lockedPrefsValue "Giá trị">
 
 <!ENTITY aboutSupport.graphicsTitle "Đồ họa">
 
