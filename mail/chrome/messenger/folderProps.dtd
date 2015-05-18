@@ -15,7 +15,7 @@
 <!ENTITY folderIncludeInGlobalSearch.label "Includi i messaggi di questa cartella nei risultati di Ricerca globale">
 <!ENTITY folderIncludeInGlobalSearch.accesskey "I">
 <!ENTITY retention.label "Politica di conservazione">
-<!ENTITY retentionUseAccount.label "Usa le impostazioni dell'account">
+<!ENTITY retentionUseAccount.label "Utilizza le impostazioni dell'account">
 <!ENTITY retentionUseAccount.accesskey "U">
 <!ENTITY daysOld.label "giorni">
 <!ENTITY message.label "messaggi più recenti">
