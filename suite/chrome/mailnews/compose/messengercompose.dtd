@@ -88,7 +88,7 @@
 
 <!ENTITY outputFormatMenu.label "Formatação">
 <!ENTITY outputFormatMenu.accesskey  "r">
-<!ENTITY autoFormatCmd.label "Selecionar automaticamente">
+<!ENTITY autoFormatCmd.label "Detetar automaticamente">
 <!ENTITY autoFormatCmd.accesskey "a">
 <!ENTITY plainTextFormatCmd.label "Sem formatação">
 <!ENTITY plainTextFormatCmd.accesskey "e">
