@@ -198,20 +198,15 @@
 <!ENTITY tab_queue_prompt_tip_text "Toto nastavenie môžete neskôr zmeniť v Nastaveniach">
 <!ENTITY tab_queue_prompt_positive_action_button "Povoliť">
 <!ENTITY tab_queue_prompt_negative_action_button "Teraz nie">
-<!-- Localization note (tab_queue_notification_text_plural) : The
+<!ENTITY tab_queue_notification_title "&brandShortName;">
+<!-- Localization note (tab_queue_notification_text_plural2) : The
      formatD is replaced with the number of tabs queued.  The
      number of tabs queued is always more than one.  We can't use
      Android plural forms, sadly. See Bug #753859. -->
-<!ENTITY tab_queue_notification_text_plural "Pridané do fronty: &formatD;">
-<!-- Localization note (tab_queue_notification_title_plural) : This is the
-     title of a notification; we expect more than one tab queued. -->
-<!ENTITY tab_queue_notification_title_plural "Karty pridané do fronty">
-<!-- Localization note (tab_queue_notification_title_singular) : This is the
-     title of a notification; we expect only one tab queued. -->
-<!ENTITY tab_queue_notification_title_singular "Karta pridaná do fronty">
-<!-- Localization note (tab_queue_notification_text_singular) : This is the
+<!ENTITY tab_queue_notification_text_plural2 "Čakajúce karty: &formatD;">
+<!-- Localization note (tab_queue_notification_text_singular2) : This is the
      text of a notification; we expect only one tab queued. -->
-<!ENTITY tab_queue_notification_text_singular "Pridané do fronty: 1">
+<!ENTITY tab_queue_notification_text_singular2 "Čakajúce karty: 1">
 
 <!ENTITY pref_char_encoding "Kódovanie znakov">
 <!ENTITY pref_char_encoding_on "Zobrazovať ponuku">
