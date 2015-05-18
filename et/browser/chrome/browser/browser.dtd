@@ -478,7 +478,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewBGImageCmd.label                    "Vaata taustapilti">
 <!ENTITY viewBGImageCmd.accesskey                "s">
 <!ENTITY setDesktopBackgroundCmd.label           "Määra taustapildiks…">
-<!ENTITY setDesktopBackgroundCmd.accesskey       "e">
+<!ENTITY setDesktopBackgroundCmd.accesskey       "M">
 <!ENTITY bookmarkPageCmd2.label                  "Pane see veebileht järjehoidjatesse">
 <!ENTITY bookmarkThisLinkCmd.label               "Pane see link järjehoidjatesse">
 <!ENTITY bookmarkThisLinkCmd.accesskey           "n">
