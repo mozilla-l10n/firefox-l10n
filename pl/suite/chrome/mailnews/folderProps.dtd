@@ -6,7 +6,7 @@
 
 <!ENTITY generalInfo.label "Informacje ogólne">
 <!ENTITY folderCharsetFallback2.label "Rezerwowe kodowanie tekstu:">
-<!ENTITY folderCharsetFallback2.accesskey "E">
+<!ENTITY folderCharsetFallback2.accesskey "e">
 <!ENTITY folderCharsetEnforce2.label "Stosuj wybrane kodowanie dla wszystkich wiadomości w folderze (indywidualne ustawienia i automatyczne wykrywanie kodowania tekstu będą pomijane)">
 <!ENTITY folderCharsetEnforce2.accesskey "a">
 <!ENTITY folderRebuildSummaryFileTip2.label "Przebuduj indeks w pliku podsumowania">

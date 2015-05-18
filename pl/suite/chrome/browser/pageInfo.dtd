@@ -31,7 +31,7 @@
 <!ENTITY generalReferrer "Odsyłający URL:">
 <!ENTITY generalSource "Źródło:">
 <!ENTITY generalModified "Zmodyfikowany:">
-<!ENTITY generalEncoding "Kodowanie:">
+<!ENTITY generalEncoding2 "Kodowanie tekstu:">
 <!ENTITY generalMetaName "Nazwa">
 <!ENTITY generalMetaContent "Treść">
 <!ENTITY generalSecurityDetails "Szczegóły">
