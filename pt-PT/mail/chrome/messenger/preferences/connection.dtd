@@ -9,7 +9,7 @@
 <!ENTITY  noProxyTypeRadio.accesskey    "y">
 <!ENTITY  systemTypeRadio.label         "Utilizar definições de proxy do sistema">
 <!ENTITY  systemTypeRadio.accesskey     "U">
-<!ENTITY  WPADTypeRadio.label           "Deteção automática para esta rede">
+<!ENTITY  WPADTypeRadio.label           "Deteção automática de proxy para esta rede">
 <!ENTITY  WPADTypeRadio.accesskey       "D">
 <!ENTITY  manualTypeRadio.label         "Configuração manual do proxy:">
 <!ENTITY  manualTypeRadio.accesskey     "m">
