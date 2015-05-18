@@ -21,5 +21,5 @@
 <!ENTITY return.label "Potwierdzenia">
 <!ENTITY junk.label "Niechciane i podejrzane wiadomości">
 <!ENTITY tags.label "Etykiety">
-<!ENTITY characterEncoding.label "Kodowanie znaków">
+<!ENTITY characterEncoding2.label "Kodowanie tekstu">
 <!ENTITY networkStorage.label "Sieć i miejsce na dysku">

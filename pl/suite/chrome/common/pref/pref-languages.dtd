@@ -18,10 +18,10 @@
 <!ENTITY languages.customize.active.accesskey "L">
 <!ENTITY languages.customize.others.label "Inne:">
 <!ENTITY languages.customize.others.accesskey "I">
-<!ENTITY languages.customize.Fallback.grouplabel "Zestaw znaków dla przestarzałych treści">
-<!ENTITY languages.customize.Fallback.label "Rezerwowy zestaw znaków:">
-<!ENTITY languages.customize.Fallback.accesskey "z">
-<!ENTITY languages.customize.Fallback.desc "Używany na stronach, które same nie określają zestawu znaków.">
+<!ENTITY languages.customize.Fallback2.grouplabel "Kodowanie tekstu dla przestarzałych treści">
+<!ENTITY languages.customize.Fallback2.label "Rezerwowe kodowanie tekstu:">
+<!ENTITY languages.customize.Fallback2.accesskey "z">
+<!ENTITY languages.customize.Fallback2.desc "Kodowanie tekstu używane w przypadku treści, które same go nie określają.">
 <!-- LOCALIZATION NOTE  Character Encoding Preferences Dialog: Do NOT localize the terms "en-bz, ar-jo"  -->
 <!ENTITY languages.customize.others.examples "(wprowadź kod języka, np.: en-bz, ar-jo)">
 <!ENTITY languages.customize.moveUp.label "Przenieś w górę">
