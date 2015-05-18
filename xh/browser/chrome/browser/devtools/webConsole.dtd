@@ -8,6 +8,7 @@
   - documentation on web development on the web. -->
 <!ENTITY browserConsole.title "Ikhonsoli Yebhrawuza">
 
+<!ENTITY networkPanel.requestURLColon             "Cela i-URL:">
 
 
 
@@ -15,6 +16,7 @@
 
 
 
+<!ENTITY networkPanel.responseHeaders             "Impendulo yombhalo ophezulu ephepheni">
 
 
 

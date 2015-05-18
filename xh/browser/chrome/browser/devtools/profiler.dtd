@@ -44,6 +44,8 @@
 <!ENTITY profilerUI.clearButton "Sula">
 <!-- LOCALIZATION NOTE (profilerUI.toolbar.*): These strings are displayed
   -  in the toolbar on buttons that select which view is currently shown. -->
+
+<!ENTITY profilerUI.toolbar.waterfall "I-Timeline">
 <!ENTITY profilerUI.toolbar.js-calltree "I-JavaScript">
 
 
