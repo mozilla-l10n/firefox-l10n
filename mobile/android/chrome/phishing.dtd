@@ -16,7 +16,7 @@
 <!ENTITY safeb.blocked.phishingPage.shortDesc2 "Надання будь-якої інформації цій сторінці може призвести до крадіжки ваших особистих даних чи інших шахрайств.">
 <!ENTITY safeb.blocked.phishingPage.longDesc2 "<p>Веб-підробки (фішінг) створюють для того, щоб видурити у вас інформацію імітуючи джерела, яким ви, можливо, довіряєте.</p>">
 
-<!ENTITY safeb.blocked.unwantedPage.title "Reported Unwanted Software Site!">
+<!ENTITY safeb.blocked.unwantedPage.title "Відомий сайт з небажаним програмним забезпеченням!">
 <!-- Localization note (safeb.blocked.unwanted.shortDesc) - Please don't translate the contents of the <span id="unwanted_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
-<!ENTITY safeb.blocked.unwantedPage.shortDesc "This web page at <span id='unwanted_sitename'/> has been reported to contain unwanted software and has been blocked based on your security preferences.">
-<!ENTITY safeb.blocked.unwantedPage.longDesc "Unwanted software pages try to install software that can be deceptive and affect your system in unexpected ways.">
+<!ENTITY safeb.blocked.unwantedPage.shortDesc "Веб-сторінка <span id='unwanted_sitename'/> відома як така, що розповсюджує небажане програмне забезпечення, і тому була заблокована згідно з вашими вподобаннями безпеки.">
+<!ENTITY safeb.blocked.unwantedPage.longDesc "Сторінки такого типу намагаються встановити програмне забезпечення, яке може вас ввести в оману та призвести до непередбачуваних змін у системі.">
