@@ -194,6 +194,11 @@
 
 <!ENTITY tab_queue_toast_message "Otvoriť neskôr">
 <!ENTITY tab_queue_toast_action "Otvoriť teraz">
+<!ENTITY tab_queue_prompt_title "Otvoriť viaceré odkazy?">
+<!ENTITY tab_queue_prompt_text "Otvoriť bez prepínania na Firefox po každom odkaze.">
+<!ENTITY tab_queue_prompt_tip_text "Toto nastavenie môžete neskôr zmeniť v Nastaveniach">
+<!ENTITY tab_queue_prompt_positive_action_button "Povoliť">
+<!ENTITY tab_queue_prompt_negative_action_button "Teraz nie">
 <!-- Localization note (tab_queue_notification_text_plural) : The
      formatD is replaced with the number of tabs queued.  The
      number of tabs queued is always more than one.  We can't use
