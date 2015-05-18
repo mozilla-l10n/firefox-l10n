@@ -36,7 +36,7 @@
 <!ENTITY retentionApplyToFlagged.accesskey "u">
 
 <!ENTITY folderSynchronizationTab.label "Synchronizace">
-<!ENTITY folderCheckForNewMessages2.label "Při přijímání zpráv pro tento účet, kontrolovat tuto složku na nové zprávy">
+<!ENTITY folderCheckForNewMessages2.label "Při přijímání zpráv pro tento účet kontrolovat tuto složku na nové zprávy">
 <!ENTITY folderCheckForNewMessages2.accesskey "k">
 
 <!ENTITY offlineFolder.check.label "Označit složku pro použití v režimu offline">
