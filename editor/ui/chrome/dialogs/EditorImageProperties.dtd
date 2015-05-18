@@ -39,7 +39,7 @@
 <!ENTITY widthEditField.accessKey "L">
 <!ENTITY constrainCheckbox.label "Contrair">
 <!ENTITY constrainCheckbox.accessKey "C">
-<!ENTITY constrainCheckbox.tooltip "Manter a razão de apresentação da imagem">
+<!ENTITY constrainCheckbox.tooltip "Manter tamanho da imagem">
 <!-- These controls are in the Image Map box of the expanded area -->
 
 <!ENTITY imagemapBox.label "Mapa de imagem">
