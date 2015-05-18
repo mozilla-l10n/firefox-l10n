@@ -61,5 +61,5 @@
 
 <!ENTITY profilerUI.console.recordingNoticeStart "Rejestrowanie poprzez">
 <!ENTITY profilerUI.console.recordingNoticeEnd "">
-<!ENTITY profilerUI.console.stopCommandStart "Zatrzymaj rejestrowanie wprowadzając „">
+<!ENTITY profilerUI.console.stopCommandStart "Zatrzymaj rejestrowanie, wprowadzając „">
 <!ENTITY profilerUI.console.stopCommandEnd "” w konsoli.">
