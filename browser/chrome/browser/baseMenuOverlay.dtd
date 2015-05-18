@@ -26,6 +26,8 @@
 <!ENTITY helpSafeMode.label       "Eklentileri devre dışı bırakıp başlat…">
 <!ENTITY helpSafeMode.accesskey   "E">
 
+
+
 <!ENTITY healthReport2.label      "&brandShorterName; Sağlık Raporu">
 <!ENTITY healthReport2.accesskey  "R">
 
