@@ -126,14 +126,20 @@
 <!ENTITY netmonitorUI.summary.method      "Cela indlela:">
 <!-- LOCALIZATION NOTE (netmonitorUI.summary.address): This is the label displayed
   -  in the network details headers tab identifying the remote address. -->
+
+<!ENTITY netmonitorUI.summary.address     "Idilesi ekude:">
 <!-- LOCALIZATION NOTE (netmonitorUI.summary.status): This is the label displayed
   -  in the network details headers tab identifying the status code. -->
+
+<!ENTITY netmonitorUI.summary.status      "Isimo sekhowudi:">
 <!-- LOCALIZATION NOTE (netmonitorUI.summary.version): This is the label displayed
   -  in the network details headers tab identifying the http version. -->
 
 <!ENTITY netmonitorUI.summary.version     "Uguqulelo:">
 <!-- LOCALIZATION NOTE (netmonitorUI.summary.size): This is the label displayed
   -  in the network details headers tab identifying the headers size. -->
+
+<!ENTITY netmonitorUI.summary.size        "Ubukhulu bokubhalwa emantla epepheni">
 <!-- LOCALIZATION NOTE (netmonitorUI.response.name): This is the label displayed
   -  in the network details response tab identifying an image's file name. -->
 
@@ -154,18 +160,24 @@
 <!-- LOCALIZATION NOTE (netmonitorUI.timings.dns): This is the label displayed
   -  in the network details timings tab identifying the amount of time spent
   -  in a "dns" state. -->
+
+<!ENTITY netmonitorUI.timings.dns         "DNS ubungakanani:">
 <!-- LOCALIZATION NOTE (netmonitorUI.timings.connect): This is the label displayed
   -  in the network details timings tab identifying the amount of time spent
   -  in a "connect" state. -->
 <!-- LOCALIZATION NOTE (netmonitorUI.timings.send): This is the label displayed
   -  in the network details timings tab identifying the amount of time spent
   -  in a "send" state. -->
+
+<!ENTITY netmonitorUI.timings.send        "Iyathumela:">
 <!-- LOCALIZATION NOTE (netmonitorUI.timings.wait): This is the label displayed
   -  in the network details timings tab identifying the amount of time spent
   -  in a "wait" state. -->
 <!-- LOCALIZATION NOTE (netmonitorUI.timings.receive): This is the label displayed
   -  in the network details timings tab identifying the amount of time spent
   -  in a "receive" state. -->
+
+<!ENTITY netmonitorUI.timings.receive     "Iyamkela:">
 <!-- LOCALIZATION NOTE (netmonitorUI.security.warning.protocol): A tooltip
   -  for warning icon that indicates a connection uses insecure protocol. -->
 <!-- LOCALIZATION NOTE (netmonitorUI.security.warning.cipher): A tooltip
@@ -195,24 +207,42 @@
   -  for the Copy URL menu item displayed in the context menu for a request -->
 <!-- LOCALIZATION NOTE (netmonitorUI.context.copyUrlParams): This is the label displayed
   -  on the context menu that copies the selected request's url parameters -->
+
+<!ENTITY netmonitorUI.context.copyUrlParams     "Kopa URL iiParamitha">
 <!-- LOCALIZATION NOTE (netmonitorUI.context.copyUrlParams.accesskey): This is the access key
   -  for the Copy URL Parameters menu item displayed in the context menu for a request -->
+
+<!ENTITY netmonitorUI.context.copyUrlParams.accesskey "P">
 <!-- LOCALIZATION NOTE (netmonitorUI.context.copyAsCurl): This is the label displayed
   -  on the context menu that copies the selected request as a cURL command.
   -  The capitalization is part of the official name and should be used throughout all languages.
   -  http://en.wikipedia.org/wiki/CURL -->
+
+<!ENTITY netmonitorUI.context.copyAsCurl    "Kopa njenge-cURL">
 <!-- LOCALIZATION NOTE (netmonitorUI.context.copyAsCUrl.accesskey): This is the access key
   -  for the Copy as cURL menu item displayed in the context menu for a request -->
+
+<!ENTITY netmonitorUI.context.copyAsCurl.accesskey "C">
 <!-- LOCALIZATION NOTE (netmonitorUI.context.copyRequestHeaders): This is the label displayed
   -  on the context menu that copies the selected item's request headers -->
+
+<!ENTITY netmonitorUI.context.copyRequestHeaders     "Kopa Isicelo sokuBhalwa emantla ephepha">
 <!-- LOCALIZATION NOTE (netmonitorUI.context.copyRequestHeaders.accesskey): This is the access key
   -  for the Copy Request Headers menu item displayed in the context menu for a request -->
+
+<!ENTITY netmonitorUI.context.copyRequestHeaders.accesskey  "Q">
 <!-- LOCALIZATION NOTE (netmonitorUI.context.copyResponseHeaders): This is the label displayed
   -  on the context menu that copies the selected item's response headers -->
+
+<!ENTITY netmonitorUI.context.copyResponseHeaders     "Kopa Impendulo yokuBhalwa emantla ephepha">
 <!-- LOCALIZATION NOTE (netmonitorUI.context.copyResponseHeaders.accesskey): This is the access key
   -  for the Copy Response Headers menu item displayed in the context menu for a response -->
+
+<!ENTITY netmonitorUI.context.copyResponseHeaders.accesskey  "S">
 <!-- LOCALIZATION NOTE (netmonitorUI.context.copyResponse): This is the label displayed
   -  on the context menu that copies the selected response as a string -->
+
+<!ENTITY netmonitorUI.context.copyResponse "Kopa Impendulo">
 <!-- LOCALIZATION NOTE (netmonitorUI.context.copyRespose.accesskey): This is the access key
   -  for the Copy Response menu item displayed in the context menu for a request -->
 <!-- LOCALIZATION NOTE (netmonitorUI.context.copyImageAsDataUri): This is the label displayed
@@ -241,16 +271,28 @@
   -  network container -->
 <!-- LOCALIZATION NOTE (netmonitorUI.context.perfTools): This is the label displayed
   -  on the context menu that shows the performance analysis tools -->
+
+<!ENTITY netmonitorUI.context.perfTools   "Qalisa Ukwenziwa koHlalutyo...">
 <!-- LOCALIZATION NOTE (netmonitorUI.context.perfTools.accesskey): This is the access key
   -  for the performance analysis menu item displayed in the context menu for a request -->
+
+<!ENTITY netmonitorUI.context.perfTools.accesskey "A">
 <!-- LOCALIZATION NOTE (netmonitorUI.custom.newRequest): This is the label displayed
   -  as the title of the new custom request form -->
+
+<!ENTITY netmonitorUI.custom.newRequest   "Isicelo Esitsha">
 <!-- LOCALIZATION NOTE (netmonitorUI.custom.query): This is the label displayed
   -  above the query string entry in the custom request form -->
+
+<!ENTITY netmonitorUI.custom.query        "Query String:">
 <!-- LOCALIZATION NOTE (netmonitorUI.custom.headers): This is the label displayed
   -  above the request headers entry in the custom request form -->
+
+<!ENTITY netmonitorUI.custom.headers      "Isicelo sokubhalwa emantla ephephaIsicelo:">
 <!-- LOCALIZATION NOTE (netmonitorUI.custom.postData): This is the label displayed
   -  above the request body entry in the custom request form -->
+
+<!ENTITY netmonitorUI.custom.postData     "Isicelo sesiqu:">
 <!-- LOCALIZATION NOTE (netmonitorUI.custom.send): This is the label displayed
   -  on the button which sends the custom request -->
 <!-- LOCALIZATION NOTE (netmonitorUI.custom.cancel): This is the label displayed
