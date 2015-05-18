@@ -42,4 +42,4 @@
 <!ENTITY useFirefoxSync.label             "Cyngor: Mae'n defnyddio proffiliau gwahanol. Defnyddiwch Sync i rannu data rhyngddynt.">
 <!ENTITY getStarted.label                 "Cychwyn defnyddio Sync…">
 
-<!ENTITY e10sEnabled.label                "Galluogi prosesu lluosog &brandShortName;">
+<!ENTITY e10sEnabled.label                "Galluogi &brandShortName; prosesu lluosog">
