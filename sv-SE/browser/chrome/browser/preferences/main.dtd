@@ -42,3 +42,4 @@
 <!ENTITY useFirefoxSync.label             "Tips: Detta använder separata profiler. Använd Sync för att dela data mellan dem.">
 <!ENTITY getStarted.label                 "Börja använda Sync…">
 
+<!ENTITY e10sEnabled.label                "Aktivera multi-process &brandShortName;">
