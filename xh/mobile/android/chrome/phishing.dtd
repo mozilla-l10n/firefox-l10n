@@ -18,4 +18,5 @@
 
 <!ENTITY safeb.blocked.unwantedPage.title "Isayithi ye-Software Engafunekiyo eChaziweyo!">
 <!-- Localization note (safeb.blocked.unwanted.shortDesc) - Please don't translate the contents of the <span id="unwanted_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
+<!ENTITY safeb.blocked.unwantedPage.shortDesc "Eli phepha lewebhu kwi-<span id='unwanted_sitename'/> lichazwe ukuba liqulethe i-software engafunekiyo kwaye lithintelwe ngokusekelwe kwiipriferensi zakho zokhuseleko.">
 <!ENTITY safeb.blocked.unwantedPage.longDesc "Amaphepha e-software angafuneki azama ukufakela i-software enganako ukuqhatha kwaye achaphazele isistim yakho ngeendlela ezingalindelekanga.">
