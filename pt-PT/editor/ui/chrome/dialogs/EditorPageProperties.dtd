@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!-- Window title -->
 
-<!ENTITY windowTitle.label "Propriedades da Página">
+<!ENTITY windowTitle.label "Propriedades da página">
 <!ENTITY location.label "Localização:">
 <!ENTITY lastModified.label "Última alteração:">
 <!ENTITY titleInput.label "Título:">

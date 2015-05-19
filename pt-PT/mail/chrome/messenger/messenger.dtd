@@ -66,7 +66,7 @@
 <!ENTITY compactFolders.accesskey    "t">
 <!ENTITY emptyTrashCmd.label "Esvaziar lixo">
 <!ENTITY emptyTrashCmd.accesskey    "x">
-<!ENTITY offlineMenu.label "Modo desligado">
+<!ENTITY offlineMenu.label "Offline">
 <!ENTITY offlineMenu.accesskey "l">
 <!ENTITY offlineGoOfflineCmd.label "Trabalhar offline">
 <!ENTITY offlineGoOfflineCmd.accesskey "T">

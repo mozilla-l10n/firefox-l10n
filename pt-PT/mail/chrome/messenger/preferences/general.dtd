@@ -31,7 +31,7 @@
 <!ENTITY systemsoundMac.label             "Som do sistema">
 <!ENTITY systemsoundMac.accesskey         "S">
 <!ENTITY systemsound.accesskey            "S">
-<!ENTITY customsound.label                "Utilizar este ficheiro:">
+<!ENTITY customsound.label                "Utilizar este ficheiro">
 <!ENTITY customsound.accesskey            "U">
 <!ENTITY browse.label                     "Procurar...">
 <!ENTITY browse.accesskey                 "u">
