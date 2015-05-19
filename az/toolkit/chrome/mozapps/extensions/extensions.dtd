@@ -22,6 +22,8 @@
 
 <!ENTITY cmd.back.tooltip                     "Əvvəlki səhifəyə qayıt">
 <!ENTITY cmd.forward.tooltip                  "Sonrakı səhifəyə keç">
+
+
 <!-- global warnings -->
 
 <!ENTITY warning.safemode.label                    "Bütün əlavələr təhlükəsizlik rejimdə söndürüldü.">
@@ -102,7 +104,8 @@
 <!ENTITY cmd.installAddon.accesskey           "u">
 <!ENTITY cmd.uninstallAddon.label             "Sil">
 <!ENTITY cmd.uninstallAddon.accesskey         "R">
-<!ENTITY cmd.debugAddon.label                 "Sazlama">
+
+
 <!ENTITY cmd.showPreferencesWin.label         "Nizamlar">
 <!ENTITY cmd.showPreferencesWin.tooltip       "Bu əlavənin seçimlərini dəyiş">
 <!ENTITY cmd.showPreferencesUnix.label        "Nizamlamalar">
@@ -231,3 +234,15 @@ havanın vəziyyətini göstərən və ya &brandShortName; tətbiqinin istədiyi
 <!ENTITY experiment.info.changetelemetry.accesskey "T">
 
 <!ENTITY setting.learnmore "Ətraflı Öyrən…">
+
+<!-- LOCALIZATION NOTE (disabledUnsigned.description.start, disabledUnsigned.description.findAddonsLink, disabledUnsigned.description.end):
+     These entities form a sentence, with
+     disabledUnsigned.description.findAddonsLink being a link to an external site. -->
+
+
+
+<!-- LOCALIZATION NOTE (disabledUnsigned.devInfo.start, disabledUnsigned.devInfo.linkToManual, disabledUnsigned.devInfo.end):
+     These entities form a sentence, with disabledUnsigned.devInfo.linkToManual
+     being a link to an external site. -->
+
+
