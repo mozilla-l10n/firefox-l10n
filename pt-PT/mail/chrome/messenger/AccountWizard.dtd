@@ -120,5 +120,5 @@
 <!ENTITY deferStorageDesc.label "Desmarque a caixa de confirmação para guardar o correio desta conta na sua própria pasta. Isto vai tornar a sua conta como uma conta principal. De outra maneira, fará parte da caixa de entrada nas pastas locais.">
 <!ENTITY deferStorage.label "Utilizar caixa de entrada global (guardar correio nas pastas locais)">
 <!ENTITY deferStorage.accesskey "U">
-<!ENTITY clickFinish.label "Clique Terminar para guardar estas definições e sair do assistente.">
-<!ENTITY clickFinish.labelMac "Clique Terminar para guardar estas definições e sair do assistente.">
+<!ENTITY clickFinish.label "Clique em Terminar para guardar estas definições e sair do assistente.">
+<!ENTITY clickFinish.labelMac "Clique em Terminar para guardar estas definições e sair do assistente.">

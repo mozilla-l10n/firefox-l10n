@@ -23,7 +23,7 @@
 <!ENTITY accountAliasGroupbox.caption "Alcunha local">
 <!ENTITY accountAliasField.label      "Alcuha:">
 <!ENTITY accountAliasInfo.label       "Isto só será exibido nas conversas efetuadas. Os contactos remotos não o vêem.">
-<!ENTITY accountProxySettings.caption "Definições de Proxy">
+<!ENTITY accountProxySettings.caption "Definições de proxy">
 <!ENTITY accountProxySettings.change.label     "Alterar…">
 <!ENTITY accountProxySettings.change.accessKey "t">
 
