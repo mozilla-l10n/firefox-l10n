@@ -12,8 +12,10 @@
 <!ENTITY safeb.blocked.malwarePage.shortDesc "Eli khasi lewebhu kwi-<span id='malware_sitename'/> lichazwe njengekhasi lohlaselo kwaye lithintelwe ngokweepriferensi zakho zokhuseleko.">
 <!ENTITY safeb.blocked.malwarePage.longDesc "<p>Amakhasi ohlaselo azama ukufaka iiprogram eziba inkcazelo yangasese, zisebenzise ikhompyutha yakho ukuhlasela ezinye okanye ukonakalisa ikhompyutha yakho.</p><p>Amanye amakhasi ohlaselo asasaza ngenjongo isoftwe enobungozi, kodwa amaninzi ayadlelelelwa ngaphandle kolwazi okanye imvume yabaniniwo.</p>">
 
+<!ENTITY safeb.blocked.unwantedPage.title "Iphepha le-Software Elingafuneki Elichaziweyo! ">
 <!-- Localization note (safeb.blocked.malware.shortDesc) - Please don't translate the contents of the <span id="unwanted_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
-<!ENTITY safeb.blocked.unwantedPage.longDesc "<p>Amaphepha e-software engafuneki azama ukufakela i-software enganokuqhatha yaye ichaphazele isistim yakho ngeendlela ezikrokrelekayo.</p>">
+<!ENTITY safeb.blocked.unwantedPage.shortDesc "Eli phepha lewebhu kwi-<span id='unwanted_sitename'/> lichazwe ukuba liqulethe i-software engafunekiyo kwaye lithintelwe ngokweepriferensi zakho zokhuseleko.">
+<!ENTITY safeb.blocked.unwantedPage.longDesc "<p>Amaphepha e-software angafunekiyo zama ukufakela i-software enganako ukuqhatha kwaye ichaphazele isistim yakho ngeendlela ezingalindelekanga.</p>">
 
 <!ENTITY safeb.blocked.phishingPage.title "Inkohliso yewebhu exeliweyo!">
 <!-- Localization note (safeb.blocked.phishing.shortDesc) - Please don't translate the contents of the <span id="phishing_sitename"/> tag. It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
