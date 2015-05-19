@@ -23,7 +23,8 @@
 <!ENTITY cmd.back.tooltip                     "Buya umva ngekhasi elinye">
 <!ENTITY cmd.forward.tooltip                  "Yiya phambili ngekhasi elinye">
 
-
+<!ENTITY showUnsignedExtensions.button.label  "Ezinye izongezelelo azinaku ukuqinisekiswa">
+<!ENTITY showAllExtensions.button.label       "Bonisa zonke izandiso">
 <!-- global warnings -->
 
 <!ENTITY warning.safemode.label                    "Zonke izongezelelo ziqhwalelisiwe ngemo ekhuselekileyo.">
@@ -104,8 +105,8 @@
 <!ENTITY cmd.installAddon.accesskey           "F">
 <!ENTITY cmd.uninstallAddon.label             "Susa">
 <!ENTITY cmd.uninstallAddon.accesskey         "S">
-
-
+<!ENTITY cmd.debugAddon.label                 "Khuphaibhagi">
+<!ENTITY cmd.debugAddon.accesskey             "i">
 <!ENTITY cmd.showPreferencesWin.label         "Ekunokukhethwa kuko">
 <!ENTITY cmd.showPreferencesWin.tooltip       "Tshintsha okunokukhethwa kuko kwesongezelelo">
 <!ENTITY cmd.showPreferencesUnix.label        "Iipriferensi">
@@ -235,9 +236,11 @@ ezingcono nezibalulekileyo ukuba ulinge zona.">
 
 <!ENTITY setting.learnmore "Funda ngaphezulu...">
 
+<!ENTITY disabledUnsigned.heading "Ezinye izongezelelo zenziwe azasebenza">
 <!-- LOCALIZATION NOTE (disabledUnsigned.description.start, disabledUnsigned.description.findAddonsLink, disabledUnsigned.description.end):
      These entities form a sentence, with
      disabledUnsigned.description.findAddonsLink being a link to an external site. -->
+<!ENTITY disabledUnsigned.description.start "Izongezelelo ezilandelayo ziqinisekisiwe ukusetyenziswa kwi-&brandShortName;. Unganako">
 
 
 
