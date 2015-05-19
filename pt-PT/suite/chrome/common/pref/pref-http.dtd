@@ -6,7 +6,7 @@
 <!-- Network-->
 
 <!ENTITY prefDirect.label                    "Opções de ligação direta">
-<!ENTITY prefProxy.label                     "Opções de ligação Proxy">
+<!ENTITY prefProxy.label                     "Opções de ligação proxy">
 <!ENTITY prefEnableHTTP10.label              "Usar HTTP 1.0">
 <!ENTITY prefEnableHTTP10.accesskey          "U">
 <!ENTITY prefEnableHTTP10Proxy.accesskey     "S">

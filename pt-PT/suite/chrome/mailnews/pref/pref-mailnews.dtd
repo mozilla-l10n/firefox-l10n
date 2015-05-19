@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY pref.mailnews.title              "Correio e grupos de notícias">
-<!ENTITY generalSettings.caption          "Definições Gerais">
+<!ENTITY generalSettings.caption          "Definições gerais">
 <!ENTITY confirmMove.label                "Confirmar ao mover pastas para o Lixo">
 <!ENTITY confirmMove.accesskey            "C">
 <!ENTITY preserveThreading.label          "Preservar tópicos ao ordenar as mensagens">

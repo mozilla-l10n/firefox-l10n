@@ -11,8 +11,8 @@
 <!ENTITY importFeeds.accesskey    "o">
 <!ENTITY importAddressbook.label  "Livro de Endereços">
 <!ENTITY importAddressbook.accesskey "L">
-<!ENTITY importSettings.label     "Configurações">
-<!ENTITY importSettings.accesskey "o">
+<!ENTITY importSettings.label     "Definições">
+<!ENTITY importSettings.accesskey "s">
 <!ENTITY importFilters.label      "Filtros">
 <!ENTITY importFilters.accesskey  "F">
 
