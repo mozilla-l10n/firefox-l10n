@@ -17,7 +17,7 @@
 <!ENTITY quickMode.accesskey "r">
 <!ENTITY autotagEnable.label "Creare automaticamente le etichette usando i nomi delle &lt;categorie&gt; dei feed">
 <!ENTITY autotagEnable.accesskey "c">
-<!ENTITY autotagUsePrefix.label "Usa questo prefisso per le etichette:">
+<!ENTITY autotagUsePrefix.label "Utilizza questo prefisso per le etichette:">
 <!ENTITY autotagUsePrefix.accesskey "U">
 <!ENTITY autoTagPrefix.placeholder "Fornire il prefisso dell'etichetta">
 <!ENTITY button.addFeed.label "Aggiungi">

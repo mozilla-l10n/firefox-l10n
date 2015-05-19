@@ -50,7 +50,7 @@
 <!ENTITY useDefaultFontSerif.label "Con grazie">
 <!ENTITY useDefaultFontSansSerif.label "Senza grazie">
 <!ENTITY fontControl.label "Controllo carattere">
-<!ENTITY useFixedWidthForPlainText.label "Usa caratteri a larghezza fissa per i messaggi in testo semplice">
+<!ENTITY useFixedWidthForPlainText.label "Utilizza caratteri a larghezza fissa per i messaggi in testo semplice">
 <!ENTITY fixedWidth.accesskey "U">
 <!ENTITY useDocumentFonts.label "Consenti ai messaggi di utilizzare altri caratteri">
 <!ENTITY useDocumentFonts.accesskey "o">
