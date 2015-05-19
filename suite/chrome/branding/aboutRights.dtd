@@ -50,7 +50,7 @@
 <!ENTITY rights.addons-b "Por definição, o &brandShortName; irá sugerir extras na página &view.discover.label; e procurar por atualizações em intervalos regulares. Se quiser desativar estas funcionalidades para evitar a comunicação de informação sobre extras instalados para o servidor, siga estes passos:">
 <!ENTITY rights.addons-term1 "Abrir as preferências da aplicação">
 <!ENTITY rights.addons-term2 "Selecionar o painel &smart.label; na categoria &advance.label;">
-<!ENTITY rights.addons-term3 "Desmarcar as opções para &quot;&autoAddOnsUpdates.label;&quot; e &quot;&enablePersonalized.label;&quot;">
+<!ENTITY rights.addons-term3 "Desmarque as opções para &quot;&autoAddOnsUpdates.label;&quot; e &quot;&enablePersonalized.label;&quot;">
 <!ENTITY rights.addons-term4 "Os serviços de extras estão agora desativados">
 <!-- safe browsing points for branded builds -->
 
@@ -59,7 +59,7 @@
 <!ENTITY rights.safebrowsing-b "A desativação da funcionalidade de navegação segura não é recomendável dado que pode resultar na visita de sítios inseguros. Se quiser desativar completamente a funcionalidade, siga estes passos:">
 <!ENTITY rights.safebrowsing-term1 "Abrir as preferências da aplicação">
 <!ENTITY rights.safebrowsing-term2 "Selecionar o painel principal &security.label;">
-<!ENTITY rights.safebrowsing-term3 "Desmarcar as opções para &quot;&blockAttackSites.label;&quot; e &quot;&blockWebForgeries.label;&quot;">
+<!ENTITY rights.safebrowsing-term3 "Desmarque as opções para &quot;&blockAttackSites.label;&quot; e &quot;&blockWebForgeries.label;&quot;">
 <!ENTITY rights.safebrowsing-term4 "A navegadação segura está agora desativa">
 <!-- points 1-6 text for branded builds -->
 

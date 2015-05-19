@@ -10,7 +10,7 @@
 <!ENTITY  proxyTitle.label              "Configurar proxies para aceder à Internet">
 <!ENTITY  directTypeRadio.label         "Ligação direta à Internet">
 <!ENTITY  directTypeRadio.accesskey     "d">
-<!ENTITY  systemTypeRadio.label         "Usar as definições proxy do sistema">
+<!ENTITY  systemTypeRadio.label         "Usar definições do proxy do sistema">
 <!ENTITY  systemTypeRadio.accesskey     "U">
 <!ENTITY  manualTypeRadio.label         "Configuração manual do proxy:">
 <!ENTITY  manualTypeRadio.accesskey     "m">

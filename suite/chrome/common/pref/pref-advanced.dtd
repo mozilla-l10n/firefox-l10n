@@ -11,8 +11,8 @@
 <!ENTITY systemPref.desc                  "Com esta opção, o &brandShortName; utiliza as preferências do sistema. Estas definições do sistema sobrepõem-se às preferências do &brandShortName;.">
 
 <!ENTITY prefCheckDefault.caption         "Integração do sistema">
-<!ENTITY prefCheckDefaultClient.label     "Verificar definições pré-definidas no arranque">
-<!ENTITY prefCheckDefaultClient.accesskey "V">
+<!ENTITY prefCheckDefaultClient.label     "Verificar definições da aplicação ao iniciar">
+<!ENTITY prefCheckDefaultClient.accesskey "c">
 
 <!ENTITY crashReports.caption             "Relatórios de erro">
 <!ENTITY submitCrashes.label              "Enviar relatórios de erro">
