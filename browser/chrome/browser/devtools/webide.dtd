@@ -60,9 +60,9 @@
 <!-- We try to repicate Firefox' bindings: -->
 <!-- quit app -->
 
-<!ENTITY key_quit "R">
+<!ENTITY key_quit "W">
 <!-- open menu -->
-<!ENTITY key_showProjectPanel "A">
+<!ENTITY key_showProjectPanel "O">
 <!-- reload app -->
 <!ENTITY key_play "A">
 <!-- show toolbox -->

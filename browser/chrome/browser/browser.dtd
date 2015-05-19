@@ -326,7 +326,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY deleteCmd.key            "D">  
 <!ENTITY deleteCmd.accesskey        "i"> 
 <!ENTITY selectAllCmd.label         "Dewis Popeth">  
-<!ENTITY selectAllCmd.key         "P">  
+<!ENTITY selectAllCmd.key         "A">  
 <!ENTITY selectAllCmd.accesskey       "P"> 
 <!ENTITY preferencesCmd2.label       "Dewisiadau">
 <!ENTITY preferencesCmd2.accesskey     "e">
