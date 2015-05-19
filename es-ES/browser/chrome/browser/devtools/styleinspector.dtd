@@ -4,6 +4,7 @@
 
 <!ENTITY browserStylesLabel "Ver estilos">
 <!ENTITY filterStylesPlaceholder "Filtrar estilos">
+<!ENTITY addRuleButtonTooltip "Añadir regla nueva">
 <!ENTITY selectedElementLabel "Elemento seleccionado:">
 <!ENTITY noPropertiesFound "No se han encontrado propiedades CSS.">
 <!ENTITY computedViewTitle "Computada">
