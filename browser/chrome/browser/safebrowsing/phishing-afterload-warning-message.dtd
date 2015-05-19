@@ -13,7 +13,7 @@
 <!ENTITY safeb.blocked.malwarePage.longDesc "<p>Amakhasi ohlaselo azama ukufaka iiprogram eziba inkcazelo yangasese, zisebenzise ikhompyutha yakho ukuhlasela ezinye okanye ukonakalisa ikhompyutha yakho.</p><p>Amanye amakhasi ohlaselo asasaza ngenjongo isoftwe enobungozi, kodwa amaninzi ayadlelelelwa ngaphandle kolwazi okanye imvume yabaniniwo.</p>">
 
 <!-- Localization note (safeb.blocked.malware.shortDesc) - Please don't translate the contents of the <span id="unwanted_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
-
+<!ENTITY safeb.blocked.unwantedPage.longDesc "<p>Amaphepha e-software engafuneki azama ukufakela i-software enganokuqhatha yaye ichaphazele isistim yakho ngeendlela ezikrokrelekayo.</p>">
 
 <!ENTITY safeb.blocked.phishingPage.title "Inkohliso yewebhu exeliweyo!">
 <!-- Localization note (safeb.blocked.phishing.shortDesc) - Please don't translate the contents of the <span id="phishing_sitename"/> tag. It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->

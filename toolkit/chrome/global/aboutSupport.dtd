@@ -55,6 +55,8 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 <!ENTITY aboutSupport.appBasicsMemoryUse "Ukusetyenziswa kwememori">
 <!-- LOCALIZATION NOTE the term "Service Workers" should not be translated. -->
 
+<!ENTITY aboutSupport.appBasicsServiceWorkers "Abasebenzisi beNkonzo Ababhalisiweyo ">
+
 <!ENTITY aboutSupport.appBasicsMultiProcessSupport "IWindows yeenkqubo ezininzi">
 
 <!ENTITY aboutSupport.showDir.label "Isalathiso esivulekileyo">
