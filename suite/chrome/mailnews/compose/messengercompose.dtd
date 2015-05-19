@@ -64,7 +64,7 @@
 
 <!ENTITY quoteCmd.label "Citar mensagem">
 <!ENTITY quoteCmd.accesskey "C">
-<!ENTITY selectAddressCmd.label "Escolha os endereços...">
+<!ENTITY selectAddressCmd.label "Selecione os endereços…">
 <!ENTITY selectAddressCmd.key "">
 <!ENTITY selectAddressCmd.accesskey "e">
 

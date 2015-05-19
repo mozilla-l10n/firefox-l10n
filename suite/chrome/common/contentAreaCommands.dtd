@@ -108,8 +108,8 @@
 <!ENTITY mediaUnmute.accesskey        "m">
 <!ENTITY mediaPlaybackRate.label        "Velocidade de reprodução">
 <!ENTITY mediaPlaybackRate.accesskey    "o">
-<!ENTITY mediaPlaybackRate050.label     "Slow motion (½×)">
-<!ENTITY mediaPlaybackRate050.accesskey "S">
+<!ENTITY mediaPlaybackRate050.label     "Câmara lenta (½×)">
+<!ENTITY mediaPlaybackRate050.accesskey "C">
 <!ENTITY mediaPlaybackRate100.label     "Velocidade normal">
 <!ENTITY mediaPlaybackRate100.accesskey "n">
 <!ENTITY mediaPlaybackRate150.label     "Alta velocidade (1½×)">

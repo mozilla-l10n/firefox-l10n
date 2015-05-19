@@ -35,8 +35,8 @@
 <!ENTITY playButton.accesskey             "z">
 <!ENTITY systemsound.label                "Som pré-definido do sistema">
 <!ENTITY systemsound.accesskey            "m">
-<!ENTITY customsound.label                "Usar este ficheiro de som">
-<!ENTITY customsound.accesskey            "U">
+<!ENTITY customsound.label                "Ficheiro áudio personalizado">
+<!ENTITY customsound.accesskey            "F">
 <!ENTITY browse.label                     "Navegar...">
 <!ENTITY browse.accesskey                 "g">
 <!ENTITY browse.title                     "Escolher Ficheiro">

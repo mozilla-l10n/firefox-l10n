@@ -14,8 +14,8 @@
 <!ENTITY newListCmd.label                               "Lista de correio...">
 <!-- LOCALIZATION NOTE (newListCmd.accesskey) : DONT_TRANSLATE -->  
 <!ENTITY newListCmd.accesskey                           "L">  
-<!ENTITY newAddressBookCmd.label                        "Livro de Endereços..."> 
-<!ENTITY newAddressBookCmd.accesskey                    "i">  
+<!ENTITY newAddressBookCmd.label                        "Livro de endereços…"> 
+<!ENTITY newAddressBookCmd.accesskey                    "o">  
 <!ENTITY newLDAPDirectoryCmd.label                      "Diretório LDAP…">
 <!-- LOCALIZATION NOTE (newLDAPDirectoryCmd.accesskey) : DONT_TRANSLATE -->
 <!ENTITY newLDAPDirectoryCmd.accesskey                  "D">
@@ -25,7 +25,7 @@
 <!ENTITY printPreviewContactViewCmd.label               "Pré-visualizar contacto">
 <!ENTITY printPreviewContactViewCmd.accesskey           "z">
 <!ENTITY printContactViewCmd.key                        "P">
-<!ENTITY printAddressBook.label                         "Imprimir livro de endereços..."> 
+<!ENTITY printAddressBook.label                         "Imprimir livro de endereços…"> 
 <!ENTITY printAddressBook.accesskey                     "l"> 
 <!ENTITY printPreviewAddressBook.label                  "Pré-visualizar livro de endereços"> 
 <!ENTITY printPreviewAddressBook.accesskey              "i">
@@ -39,7 +39,7 @@
 <!ENTITY deleteItemsCmd.label                           "Eliminar itens selecionados">
 <!ENTITY swapFirstNameLastNameCmd.label                 "Trocar primeiro e último nome">
 <!ENTITY swapFirstNameLastNameCmd.accesskey             "T">  
-<!ENTITY propertiesCmd.label                            "Propriedades...">
+<!ENTITY propertiesCmd.label                            "Propriedades…">
 <!-- LOCALIZATION NOTE (propertiesCmd.accesskey) : DONT_TRANSLATE -->  
 <!ENTITY propertiesCmd.accesskey                        "i">  
 <!ENTITY propertiesCmd.key                              "i">  

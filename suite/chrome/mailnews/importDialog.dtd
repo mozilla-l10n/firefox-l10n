@@ -9,7 +9,7 @@
 <!ENTITY importMail.accesskey     "C">
 <!ENTITY importFeeds.label        "Fontes subscritas">
 <!ENTITY importFeeds.accesskey    "o">
-<!ENTITY importAddressbook.label  "Livro de Endereços">
+<!ENTITY importAddressbook.label  "Livro de endereços">
 <!ENTITY importAddressbook.accesskey "L">
 <!ENTITY importSettings.label     "Definições">
 <!ENTITY importSettings.accesskey "s">

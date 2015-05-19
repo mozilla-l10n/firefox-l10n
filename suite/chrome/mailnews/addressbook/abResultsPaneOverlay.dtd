@@ -38,7 +38,7 @@
 
 <!ENTITY composeEmail.label                    "Criar nova mensagem para">
 <!ENTITY composeEmail.accesskey                "C">
-<!ENTITY copyAddress.label                     "Copiar endereço de Correio">
+<!ENTITY copyAddress.label                     "Copiar endereço de correio">
 <!ENTITY copyAddress.accesskey                 "o">
 <!ENTITY deleteAddrBookCard.label              "Eliminar">
 <!ENTITY deleteAddrBookCard.accesskey          "E">
