@@ -7,7 +7,7 @@
 <!ENTITY  error_loading_file "Ett fel uppstod vid inläsning av filer som krävs för att köra &brandShortName;">
 
 <!ENTITY  onboard_start_message3 "Surfa med &brandShortName;">
-
+<!ENTITY  onboard_start_subtext3 "Gör den mobila webbupplevelsen verkligen din egen.">
 <!ENTITY  onboard_start_button_account "Logga in till &brandShortName;">
 <!ENTITY  onboard_start_button_browser "Börja surfa">
 <!-- Localization note: These are used as the titles of different pages on the home screen.
@@ -191,7 +191,7 @@
 
 <!ENTITY tab_queue_toast_message2 "Flik köad i &brandShortName;">
 <!ENTITY tab_queue_toast_action "Öppna nu ">
-
+<!ENTITY tab_queue_prompt_title "Öppnar flera länkar?">
 <!ENTITY tab_queue_prompt_text2 "Öppna dom utan att byta till &brandShortName; varje gång.">
 <!ENTITY tab_queue_prompt_tip_text "du kan ändra detta senare i Inställningarna">
 <!ENTITY tab_queue_prompt_positive_action_button "Aktivera">
@@ -253,7 +253,7 @@ size. -->
 <!ENTITY pref_import_android_summary "Importera bokmärken och historia från Androids standardwebläsare">
 <!ENTITY pref_private_data_history2 "Bläddra i historiken">
 <!ENTITY pref_private_data_searchHistory "Sökhistorik">
-
+<!ENTITY pref_private_data_formdata2 "Formulär historia ">
 <!ENTITY pref_private_data_cookies2 "Kakor och aktiva inloggningar">
 <!ENTITY pref_private_data_passwords "Sparade lösenord">
 <!ENTITY pref_private_data_cache "Cache">
@@ -390,7 +390,7 @@ size. -->
 <!ENTITY pref_scroll_title_bar_summary "Dölj &brandShortName;namnlistan när du bläddrar ner en sida">
 
 <!ENTITY pref_tab_queue_title2 "Öppna flera länkar ">
-
+<!ENTITY pref_tab_queue_summary2 "Köa länkar för senare istället för att byta till &brandShortName; varje gång ">
 <!-- Localization note (page_removed): This string appears in a toast message when
      any page is removed frome about:home. This includes pages that are in history,
      bookmarks, or reading list. -->
