@@ -278,7 +278,7 @@ size. -->
 <!ENTITY pref_panels_move_up "Mover para cima">
 <!ENTITY pref_panels_move_down "Mover para baixo">
 
-<!ENTITY datareporting_notification_title "Estatísticas &amp; dados do &brandShortName;">
+<!ENTITY datareporting_notification_title "Estatísticas e dados do &brandShortName;">
 <!ENTITY datareporting_notification_action_long "Escolha que informação partilhar">
 <!ENTITY datareporting_notification_action "Escolha o que partilhar">
 <!ENTITY datareporting_notification_summary "Para melhorar a sua experiência, o &brandShortName; envia automaticamente alguma informação para a &vendorShortName;.">
@@ -359,7 +359,7 @@ size. -->
 <!ENTITY contextmenu_remove "Remover">
 <!ENTITY contextmenu_add_to_launcher "Adicionar ecrã inicial">
 <!ENTITY contextmenu_share "Partilhar">
-<!ENTITY contextmenu_pasteandgo "Colar &amp; ir">
+<!ENTITY contextmenu_pasteandgo "Colar e ir">
 <!ENTITY contextmenu_paste "Colar">
 <!ENTITY contextmenu_copyurl "Copiar endereço">
 <!ENTITY contextmenu_edit_bookmark "Editar">
