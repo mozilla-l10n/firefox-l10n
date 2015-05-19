@@ -52,7 +52,7 @@
 <!ENTITY rights.webservices-b "a secção">
 <!ENTITY rights.webservices-c " Avançado, seguido do ">
 <!ENTITY rights.webservices-d "separador">
-<!ENTITY rights.webservices-e " Atualizão, e desmarcando as opções para &quot;Procurar atualizações automaticamente&quot;.">
+<!ENTITY rights.webservices-e " Atualização, e desmarque a opçção &quot;Procurar atualizações automaticamente&quot;.">
 <!-- intro paragraph for unbranded builds -->
 
 <!ENTITY rights.webservices-unbranded "O resumo dos serviços web que o produto incorpora, assim como as instruções de desativação, se necessário, devem ser colocados aqui.">

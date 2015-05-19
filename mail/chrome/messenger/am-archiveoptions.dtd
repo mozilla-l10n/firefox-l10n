@@ -4,7 +4,7 @@
 <!-- extracted from am-archiveoptions.xul -->
 
 
-<!ENTITY dialogTitle.label "Opções de arquivamento">
+<!ENTITY dialogTitle.label "Opções de arquivos">
 <!ENTITY archiveGranularityPrefix.label "Ao arquivar mensagens, colocá-las em:">
 <!ENTITY archiveFlat.label "Uma única pasta">
 <!ENTITY archiveFlat.accesskey "s">

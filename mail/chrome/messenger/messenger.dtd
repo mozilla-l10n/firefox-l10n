@@ -72,7 +72,7 @@
 <!ENTITY offlineGoOfflineCmd.accesskey "T">
 <!ENTITY synchronizeOfflineCmd.label "Transferir/sincronizar agora...">
 <!ENTITY synchronizeOfflineCmd.accesskey "s">
-<!ENTITY settingsOfflineCmd2.label "Definições do modo desligado...">
+<!ENTITY settingsOfflineCmd2.label "Definições do modo offline">
 <!ENTITY settingsOfflineCmd2.accesskey "d">
 <!ENTITY downloadSelectedCmd.label "Transferir mensagens selecionadas">
 <!ENTITY downloadSelectedCmd.accesskey "m">
@@ -569,7 +569,7 @@
 
 <!ENTITY remoteContentOptionsAllowForMsg.label "Mostrar conteúdo remoto desta mensagem">
 <!ENTITY remoteContentOptionsAllowForMsg.accesskey "s">
-<!ENTITY editRemoteContentSettings.label "Editar opções de conteúdo remoto...">
+<!ENTITY editRemoteContentSettings.label "Editar opções de conteúdo remoto…">
 <!ENTITY editRemoteContentSettings.accesskey "E">
 <!ENTITY editRemoteContentSettingsUnix.label "Editar preferências de conteúdo remoto...">
 <!ENTITY editRemoteContentSettingsUnix.accesskey "E">
@@ -577,7 +577,7 @@
 
 <!ENTITY phishingOptionIgnore.label "Ignorar aviso para esta mensagem">
 <!ENTITY phishingOptionIgnore.accesskey "n">
-<!ENTITY phishingOptionSettings.label "Editar opções da deteção de fraudes...">
+<!ENTITY phishingOptionSettings.label "Editar opções da deteção de fraudes…">
 <!ENTITY phishingOptionSettings.accesskey "d">
 <!ENTITY phishingOptionSettingsUnix.label "Editar preferências da deteção de fraudes...">
 <!ENTITY phishingOptionSettingsUnix.accesskey "d">
@@ -858,7 +858,7 @@
 <!ENTITY CopyNewsgroupName.accesskey "C">
 <!ENTITY CopyNewsgroupURL.label "Copiar URL do grupo de notícias">
 <!ENTITY CopyNewsgroupURL.accesskey "U">
-<!ENTITY CreateFilterFrom.label "Criar filtro de...">
+<!ENTITY CreateFilterFrom.label "Criar filtro de…">
 <!ENTITY CreateFilterFrom.accesskey "f">
 <!ENTITY reportPhishingURL.label "Reportar tentativa de fraude">
 <!ENTITY reportPhishingURL.accesskey "d">
@@ -910,4 +910,4 @@
 <!ENTITY showAllAppsCmdMac.label        "Mostrar tudo">
 <!-- Mac OS X Dock Icon pop-up menu -->
 
-<!ENTITY dockOptions.label              "Opções do ícone...">
+<!ENTITY dockOptions.label              "Opções do ícone…">

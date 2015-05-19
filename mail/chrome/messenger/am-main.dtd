@@ -4,7 +4,7 @@
 <!-- extracted from am-main.xul -->
 
 
-<!ENTITY accountTitle.label "Definições da Conta">
+<!ENTITY accountTitle.label "Definições da conta">
 <!ENTITY accountName.label "Nome da conta:">
 <!ENTITY accountName.accesskey "N">
 <!ENTITY identityTitle.label "Identidade pré-definida">
