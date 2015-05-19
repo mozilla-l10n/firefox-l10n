@@ -16,8 +16,8 @@
 <!ENTITY locationBar.label "Barra de localização">
 <!ENTITY tabWindows.label "Navegação por separadores">
 <!ENTITY links.label "Comportamento da ligação">
-<!ENTITY offline.label "Desligado">
-<!ENTITY security.label "Privacidade &amp; Segurança">
+<!ENTITY offline.label "Offline">
+<!ENTITY security.label "Privacidade e segurança">
 <!ENTITY privatedata.label "Dados privados">
 <!ENTITY cookies.label "Cookies">
 <!ENTITY images.label "Imagens">
@@ -40,7 +40,7 @@
 <!ENTITY search.label "Pesquisa na Internet">
 <!ENTITY policies.label "Políticas de segurança">
 <!ENTITY mousewheel.label "Roda do rato">
-<!ENTITY scriptsAndWindows.label "Scripts &amp; Plugins">
+<!ENTITY scriptsAndWindows.label "Scripts e plugins">
 <!ENTITY spellingPane.label  "Escrita">
 
 <!ENTITY focusSearch.key "f">

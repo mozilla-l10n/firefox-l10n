@@ -26,7 +26,7 @@ fazer-se passar por este sítio e como tal não deve continuar.">
 Strict Transport Security (HSTS) para especificar que o &brandShortName; apenas
 pode estabelecer uma ligação segura. Como resultado, não é possível adicionar
 uma exceção para este certificado.">
-<!ENTITY certerror.getMeOutOfHere.label "Tirem-me daqui!">
+<!ENTITY certerror.getMeOutOfHere.label "Isto parece estranho e quero voltar para a página inicial">
 
 <!ENTITY certerror.expert.heading "Eu compreendo os riscos">
 <!ENTITY certerror.expert.content "Se compreender o que se está a passar, pode 

@@ -56,7 +56,7 @@
 
 <!ENTITY throbber.tooltip             "Ir para a página inicial do &vendorShortName;">
 
-<!ENTITY locationBar.tooltip          "Escrever o termo da pesquisa, palavra chave, ou endereço web">
+<!ENTITY locationBar.tooltip          "Introduza o termo da pesquisa, palavra chave, ou endereço web">
 <!ENTITY locationBar.accesskey        "d">
 <!ENTITY locationBar.title            "Localização">
 <!ENTITY proxyIcon.tooltip            "Arraste e largue este ícone para criar uma ligação para esta página">

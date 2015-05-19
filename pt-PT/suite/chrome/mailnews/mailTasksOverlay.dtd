@@ -7,12 +7,12 @@
 <!ENTITY messengerCmd.label     "Mail &amp; Newsgroups">
 <!ENTITY messengerCmd.accesskey    "m">
 <!ENTITY messengerCmd.commandkey   "2">
-<!ENTITY addressBookCmd.label    "Livro de Endereços">  
+<!ENTITY addressBookCmd.label    "Livro de endereços">  
 <!ENTITY addressBookCmd.accesskey   "i">
 <!ENTITY addressBookCmd.commandkey   "5">
 
 <!ENTITY taskMessenger.tooltip  "Correio e grupos de notícias">
-<!ENTITY taskAddressBook.tooltip  "Livro de Endereços">
+<!ENTITY taskAddressBook.tooltip  "Livro de endereços">
 <!-- searchAddressesCmd is also used by addressbook -->
 
 <!ENTITY searchAddressesCmd.label                       "Pesquisar endereços…">

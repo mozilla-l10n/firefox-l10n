@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY fieldMapImport.title "Importar Livro de Endereços">
+<!ENTITY fieldMapImport.title "Importar livro de endereços">
 <!ENTITY fieldMapImport.size "width: 58em; height: 35em;">
 <!ENTITY fieldMapImport.recordNumber "Dados importados para o registo: ">
 <!ENTITY fieldMapImport.next.label "Próxima">
@@ -14,7 +14,7 @@
 <!ENTITY fieldMapImport.up.accesskey "c">
 <!ENTITY fieldMapImport.down.label "Mover para baixo">
 <!ENTITY fieldMapImport.down.accesskey "b">
-<!ENTITY fieldMapImport.fieldListTitle "Campos do Livro de Endereços ">
+<!ENTITY fieldMapImport.fieldListTitle "Campos do livro de endereços ">
 <!ENTITY fieldMapImport.dataTitle "Dados do registo a importar">
 <!ENTITY fieldMapImport.skipFirstRecord.label "O primeiro registo contém o campo dos nomes">
 <!ENTITY fieldMapImport.skipFirstRecord.accessKey "O">

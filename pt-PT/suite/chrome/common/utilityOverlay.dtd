@@ -118,7 +118,7 @@
 <!ENTITY pac.label                                      "Ligado (proxy: URL automático)">
 <!ENTITY pac.accesskey                                  "a">
 <!ENTITY wpad.label                                     "Ligado (proxy: descobrir automaticamente)">
-<!ENTITY wpad.accesskey                                 "D">
+<!ENTITY wpad.accesskey                                 "d">
 <!ENTITY system.label                                   "Ligado (proxy: proxy do sistema)">
 <!ENTITY system.accesskey                               "s">
 

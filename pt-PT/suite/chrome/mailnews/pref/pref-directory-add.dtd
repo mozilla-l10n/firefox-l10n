@@ -16,7 +16,7 @@
 <!ENTITY directoryLogin.label              "Bind DN: ">
 <!ENTITY directoryLogin.accesskey          "i">
 <!ENTITY General.tab                       "Geral">
-<!ENTITY Offline.tab                       "Desligado">
+<!ENTITY Offline.tab                       "Offline">
 <!ENTITY Advanced.tab                      "Avançado">
 <!ENTITY portNumber.label                  "Porta: ">
 <!ENTITY portNumber.accesskey              "P">

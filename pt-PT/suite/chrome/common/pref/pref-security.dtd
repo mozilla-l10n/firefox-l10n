@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!--LOCALIZATION NOTE : FILE 'Privacy and Security' prefs settings -->
 
-<!ENTITY pref.security.title              "Privacidade &amp; Segurança">
+<!ENTITY pref.security.title              "Privacidade e segurança">
 
 <!ENTITY tracking.label                   "Monitorização do utilizador">
 <!ENTITY trackingIntro.label              "Os sítios web podem monitorizá-lo quando os utilizar, afetando assim a sua privacidade.">

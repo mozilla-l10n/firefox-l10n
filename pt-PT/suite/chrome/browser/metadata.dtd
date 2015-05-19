@@ -16,14 +16,14 @@
 <!ENTITY insdel-sec.label      "Propriedades de inserir/eliminar">
 <!ENTITY insdel-cite.label     "Info:">
 <!ENTITY insdel-date.label     "Data:">
-<!ENTITY link-sec.label        "Ligação das propriedades">
+<!ENTITY link-sec.label        "Propriedades da ligação">
 <!ENTITY link-url.label        "Endereço:">
 <!ENTITY link-target.label     "Vai abrir em:">
 <!ENTITY link-type.label       "Tipo de destino:">
 <!ENTITY link-lang.label       "Idioma de destino:">
 <!ENTITY link-rel.label        "Relação:">
 <!ENTITY link-rev.label        "Relação invertida:">
-<!ENTITY misc-sec.label        "Propriedades dos diversos">
+<!ENTITY misc-sec.label        "Outras propriedades">
 <!ENTITY misc-lang.label       "Idioma do texto:">
 <!ENTITY misc-title.label      "Título:">
 <!ENTITY misc-tblsummary.label "Tabela de resumo:">

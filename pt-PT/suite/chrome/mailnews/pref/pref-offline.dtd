@@ -6,7 +6,7 @@
 
 
 <!ENTITY pref.network.title               "Rede e armazenamento">
-<!ENTITY pref.offline.caption             "Desligado">
+<!ENTITY pref.offline.caption             "Offline">
 <!ENTITY textStartUp                      "Ao iniciar:">
 <!ENTITY textStartUp.accesskey            "o">
 <!ENTITY menuitemRememberPrevState        "Memorizar estado anterior">

@@ -9,7 +9,7 @@
 <!ENTITY emailCollectiontext.label             "Os endereços de correio de mensagens enviadas podem ser adicionados automaticamente ao livro de endereços local.">
 <!-- Autocompletion -->
 
-<!ENTITY addressingTitle.label                 "Auto-completar endereços">
+<!ENTITY addressingTitle.label                 "Conclusão automática de endereços">
 <!ENTITY highlightNonMatches.label             "Realçar endereços que não se auto-completam">
 <!ENTITY highlightNonMatches.accesskey         "a">
 <!ENTITY addressingEnable.label                "Livro de endereços local">

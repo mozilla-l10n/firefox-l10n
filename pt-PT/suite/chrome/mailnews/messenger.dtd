@@ -95,8 +95,8 @@
 <!ENTITY selectFlaggedCmd.label "Mensagens marcadas">
 <!ENTITY selectFlaggedCmd.accesskey "a">
 <!ENTITY folderPropsCmd.label "Propriedades...">
-<!ENTITY folderPropsFolderCmd.label "Propriedades da pasta...">
-<!ENTITY folderPropsNewsgroupCmd.label "Propriedades do grupo de notícias...">
+<!ENTITY folderPropsFolderCmd.label "Propriedades da pasta…">
+<!ENTITY folderPropsNewsgroupCmd.label "Propriedades do grupo de notícias…">
 <!ENTITY folderPropsCmd.accesskey "o">
 <!ENTITY accountManagerCmd.label "Definições da conta de correio e grupos de notícias...">
 <!ENTITY accountManagerCmd.accesskey "c">

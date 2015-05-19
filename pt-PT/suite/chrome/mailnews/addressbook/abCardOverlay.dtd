@@ -139,6 +139,6 @@ mensagens HTML deste contacto.">
 <!ENTITY BrowsePhoto.accesskey          "N">
 <!ENTITY PhotoURL.label                 "Na Web">
 <!ENTITY PhotoURL.accesskey             "b">
-<!ENTITY PhotoURL.placeholder           "Escrever ou colar o endereço web de uma fotografia">
+<!ENTITY PhotoURL.placeholder           "Introduza ou cole o endereço web de uma fotografia">
 <!ENTITY UpdatePhoto.label              "Atualizar">
 <!ENTITY UpdatePhoto.accesskey          "u">
