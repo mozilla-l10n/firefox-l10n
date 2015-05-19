@@ -10,7 +10,7 @@
 <!ENTITY  systemTypeRadio.label         "Uporabi sistemske nastavitve za posrednika">
 <!ENTITY  systemTypeRadio.accesskey     "U">
 <!ENTITY  WPADTypeRadio.label           "Samodejno zaznaj nastavitve posrednika za to omrežje">
-<!ENTITY  WPADTypeRadio.accesskey       "S">
+<!ENTITY  WPADTypeRadio.accesskey       "m">
 <!ENTITY  manualTypeRadio.label         "Ročna nastavitev posrednika:">
 <!ENTITY  manualTypeRadio.accesskey     "R">
 <!ENTITY  autoTypeRadio.label           "URL za samodejno nastavitev posrednika:">
