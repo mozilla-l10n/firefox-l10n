@@ -6,8 +6,8 @@
 <!ENTITY  no_space_to_start_error "Akukho ndawo yaneleyo ifumanekayo ye&brandShortName; ukuqalisa.">
 <!ENTITY  error_loading_file "Impazamo yenzekile xa bekuzanywa ukulayishwa iifayile ezifunekayo ukuhambisa i-&brandShortName;">
 
-<!ENTITY  onboard_start_message2 "Wamkelekile &brandShortName;">
-<!ENTITY  onboard_start_subtext2 "Iimpawu ezininzi zabucala neendlela zokuzenzela kunakuqala.">
+<!ENTITY  onboard_start_message3 "Bhrawuza nge-&brandShortName;">
+<!ENTITY  onboard_start_subtext3 "Yenza amava okubhrawuza iWebhu yefowni yakho ephathwayo abe ngawakho ngokwenene">
 <!ENTITY  onboard_start_button_account "Sayina ungene kwi-&brandShortName;">
 <!ENTITY  onboard_start_button_browser "Qala ukubhrawuza">
 <!-- Localization note: These are used as the titles of different pages on the home screen.
@@ -114,7 +114,6 @@
 
 <!ENTITY overlay_share_send_tab_btn_label "Thumela nakwenye idivayisi">
 <!ENTITY overlay_share_no_url "Ayikho ilinki efumanekayo kolulwabelwano">
-<!ENTITY overlay_share_retry "Zama kwakhona">
 <!ENTITY overlay_share_select_device "Khetha idivayisi">
 <!-- Localization note (overlay_no_synced_devices) : Used when the menu option
      to send a tab to a synced device is pressed and no other synced devices
@@ -150,8 +149,6 @@
      it is applicable. -->
 <!ENTITY pref_search_hint "ICEBISO: Yongeza nayiphi na iwebhusayithi kuludwe lwakho lwezikhangeli ngokucinezela ixesha elide kwifildi yokukhangela uze uchwethe uphawu lwe&formatI;.">
 <!ENTITY pref_category_devtools "Izixhobo zabaphuhlisi">
-<!ENTITY pref_category_devtools_summary "Ukususa ibhai ukude, ukuflesha ipeyinti">
-<!ENTITY pref_developer_paint_flashing "Ukukhanya kwepeyinti">
 <!ENTITY pref_developer_remotedebugging "Ukukhupha ibagi kude">
 <!ENTITY pref_category_logins "Izinto zokuNgena ekhompyutheni">
 <!ENTITY pref_remember_signons "Khumbula iipasiwedi">
@@ -190,24 +187,24 @@
 <!ENTITY pref_tracking_protection_title "Ukhuseleko lokukhangela">
 <!ENTITY pref_tracking_protection_summary "&brandShortName; iyakuthintela iisayithi ekukhangeleni wena">
 <!ENTITY pref_donottrack_title "Musa ukulanda umkhondo">
-<!ENTITY pref_donottrack_summary "&brandShortName; izakuxelela isayithi ukub akufundi ukulandwa">
+<!ENTITY pref_donottrack_summary "&brandShortName; iza kuxelela isayithi ukuba kufuni ukulandelwa">
 
-<!ENTITY tab_queue_toast_message "Vula ngelinye ixesha">
+<!ENTITY tab_queue_toast_message2 "I-Tab ikrozelwe kwi-&brandShortName;">
 <!ENTITY tab_queue_toast_action "Vula ngoku">
-<!-- Localization note (tab_queue_notification_text_plural) : The
+<!ENTITY tab_queue_prompt_title "Vula izinxulumanisi ezininzi?">
+<!ENTITY tab_queue_prompt_text2 "Zivule ngaphandle kokutshintshela kwi-&brandShortName; ngexesha ngalinye.">
+<!ENTITY tab_queue_prompt_tip_text "ungakutshintsha oku ngelinye ixesha kwiiSetingi ">
+<!ENTITY tab_queue_prompt_positive_action_button "Yenza isebenze">
+<!ENTITY tab_queue_prompt_negative_action_button "Hayi ngoku">
+<!ENTITY tab_queue_notification_title "&brandShortName;">
+<!-- Localization note (tab_queue_notification_text_plural2) : The
      formatD is replaced with the number of tabs queued.  The
      number of tabs queued is always more than one.  We can't use
      Android plural forms, sadly. See Bug #753859. -->
-<!ENTITY tab_queue_notification_text_plural "&formatD; i-tabs ezikrozisiweyo">
-<!-- Localization note (tab_queue_notification_title_plural) : This is the
-     title of a notification; we expect more than one tab queued. -->
-<!ENTITY tab_queue_notification_title_plural "I-tabs Ezikrozisiweyo">
-<!-- Localization note (tab_queue_notification_title_singular) : This is the
-     title of a notification; we expect only one tab queued. -->
-<!ENTITY tab_queue_notification_title_singular "I-tab Ekrozisiweyo ">
-<!-- Localization note (tab_queue_notification_text_singular) : This is the
+<!ENTITY tab_queue_notification_text_plural2 "&formatD; ii-tab zilindile">
+<!-- Localization note (tab_queue_notification_text_singular2) : This is the
      text of a notification; we expect only one tab queued. -->
-<!ENTITY tab_queue_notification_text_singular "1 tab ekrozisiweyo">
+<!ENTITY tab_queue_notification_text_singular2 "1 i-tab ilindile">
 
 <!ENTITY pref_char_encoding "Ukufakwa kwekhowudi kwikharekhtha">
 <!ENTITY pref_char_encoding_on "Bonisa imenyu">
@@ -255,7 +252,8 @@ size. -->
 <!ENTITY pref_import_android "Ngenisa uthatha kwi-Android">
 <!ENTITY pref_import_android_summary "Ngenisa iibhukmakhi nembali evela kwibhrawza yendalo">
 <!ENTITY pref_private_data_history2 "Imbali yokubhrawuza">
-<!ENTITY pref_private_data_formdata "Ifom nembali yokukhangela">
+<!ENTITY pref_private_data_searchHistory "Khangela imbali">
+<!ENTITY pref_private_data_formdata2 "Yenza imbali">
 <!ENTITY pref_private_data_cookies2 "Iikhukhi nokungena okusebenzayo">
 <!ENTITY pref_private_data_passwords "Iipasiwedi ezigciniweyo">
 <!ENTITY pref_private_data_cache "Ikhatshe">
@@ -380,6 +378,7 @@ size. -->
 <!ENTITY doorhanger_login_edit_username_hint "Igama lomsebenzisi">
 <!ENTITY doorhanger_login_edit_password_hint "I-Password">
 <!ENTITY doorhanger_login_edit_toggle "Bonisa i-password">
+<!ENTITY doorhanger_login_edit_toast_error "Ayiphumelelanga ukugcina ukungena ekhompyutheni">
 
 <!ENTITY pref_titlebar_mode "Ibha yesihloko">
 <!ENTITY pref_titlebar_mode_title "Bonisa umxholo wephepha">
@@ -390,8 +389,8 @@ size. -->
 <!ENTITY pref_scroll_title_bar2 "Ukubhrawuza iskrini esipheleleyo">
 <!ENTITY pref_scroll_title_bar_summary "Fihla i-&brandShortName; umgca wesihloko xa usihlisa iphepha">
 
-<!ENTITY pref_tab_queue_title "Vula ngelinye ixesha">
-<!ENTITY pref_tab_queue_summary "Thintela ii-tabs ekubeni zivule ngokukhawuleza, kodwa vula zonke ii-tabs ezikrozisiweyo kwixesha elizayo&brandShortName; imithwalo.">
+<!ENTITY pref_tab_queue_title2 "Vula izinxulumanisi ezininzi">
+<!ENTITY pref_tab_queue_summary2 "Krozisa izinxulumanisi ukulungiselela elinye ixesha lokutshintshela kwi-&brandShortName; ngexesha ngalinye">
 <!-- Localization note (page_removed): This string appears in a toast message when
      any page is removed frome about:home. This includes pages that are in history,
      bookmarks, or reading list. -->
@@ -440,6 +439,8 @@ size. -->
 <!ENTITY button_set "Iseti">
 <!ENTITY button_clear "Susa">
 <!ENTITY button_remember "Khumbula">
+
+<!ENTITY firstrun_panel_title_welcome "Wamkelekile">
 
 <!ENTITY home_top_sites_title "Iisayithi eziphezulu">
 <!-- Localization note (home_top_sites_add): This string is used as placeholder
@@ -612,6 +613,14 @@ esuka kwi-Android">
 <!ENTITY ellipsis "...">
 
 <!ENTITY colon ":">
+<!-- LOCALIZATION NOTE (percent): The percent sign is appended after a number to
+     display a percentage value. formatS is the number, #37 is the code to display a percent sign.
+     This format string is typically used by getString method, in such method the percent sign
+     is a reserved caracter. In order to display one percent sign in the result of getString,
+     double percent signs must be inserted in the format string.
+     This entity is used in the zoomed view to display the zoom factor-->
+
+<!ENTITY percent "&formatS;&#037;&#037;">
 <!-- These are only used for accessibility for the done and overflow-menu buttons in the actionbar.
      They are never shown to users -->
 
@@ -623,7 +632,7 @@ esuka kwi-Android">
 <!ENTITY voicesearch_failed_title "I-&brandShortName; Ilizwi lokuKhangela">
 <!ENTITY voicesearch_failed_message "Kukho ingxaki ngokukhangela ilizwi ngoku. Nceda uzame ngelinye ixesha.">
 <!ENTITY voicesearch_failed_message_recoverable "Uxolo! Asikhange sikwazi ukunakana amazwi akho. Nceda uzame ngelinye ixesha.">
-<!ENTITY voicesearch_failed_retry "Zama kwakhona">
+
 <!-- Localization note (remote_tabs_last_synced): the variable is replaced by a
      "relative time span string" produced by Android.  This string describes the
      time the tabs were last synced relative to the current time; examples
