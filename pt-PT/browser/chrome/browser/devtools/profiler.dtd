@@ -65,7 +65,7 @@
 <!-- LOCALIZATION NOTE (profilerUI.toolbar.*): These strings are displayed
   -  in the toolbar on buttons that select which view is currently shown. -->
 
-<!ENTITY profilerUI.toolbar.waterfall "Linha de tempo">
+<!ENTITY profilerUI.toolbar.waterfall "Cronologia">
 <!ENTITY profilerUI.toolbar.js-calltree "JavaScript">
 <!ENTITY profilerUI.toolbar.memory-calltree1 "Alocações">
 <!ENTITY profilerUI.toolbar.js-flamegraph "Gráfico em chama de JS">

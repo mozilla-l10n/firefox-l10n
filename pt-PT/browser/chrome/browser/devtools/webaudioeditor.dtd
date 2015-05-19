@@ -41,7 +41,7 @@
 <!-- LOCALIZATION NOTE (webAudioEditorUI.propertiesEmpty): This is the title for the
   -  AudioNode inspector view properties tab empty message. -->
 
-<!ENTITY webAudioEditorUI.propertiesEmpty "O nó não tem nenhumas propriedades.">
+<!ENTITY webAudioEditorUI.propertiesEmpty "O nó não tem quaisquer propriedades.">
 <!-- LOCALIZATION NOTE (webAudioEditorUI.automationEmpty): This is the title for the
   -  AudioNode inspector view automation tab empty message. -->
 
