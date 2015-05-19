@@ -9,12 +9,12 @@
 <!ENTITY titleStartUp "Estado ao iniciar:">
 <!ENTITY radioRememberPrevState.label "Memorizar o último estado">
 <!ENTITY radioRememberPrevState.accesskey "r">
-<!ENTITY radioAskState.label "Perguntar o estado">
+<!ENTITY radioAskState.label "Perguntar estado">
 <!ENTITY radioAskState.accesskey "u">
-<!ENTITY radioAlwaysOnlineState.label "Ligado">
-<!ENTITY radioAlwaysOnlineState.accesskey "L">
-<!ENTITY radioAlwaysOffline.label "Desligado">
-<!ENTITY radioAlwaysOffline.accesskey "g">
+<!ENTITY radioAlwaysOnlineState.label "Online">
+<!ENTITY radioAlwaysOnlineState.accesskey "l">
+<!ENTITY radioAlwaysOffline.label "Offline">
+<!ENTITY radioAlwaysOffline.accesskey "f">
 
 <!ENTITY textGoingOnline "Enviar mensagens não enviadas ao ficar online?">
 <!ENTITY radioAutoSend.label "Sim">

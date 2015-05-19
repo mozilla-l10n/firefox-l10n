@@ -4,7 +4,7 @@
 <!-- Window title -->
 
 
-<!ENTITY windowTitle.label "Listar Propriedades">
+<!ENTITY windowTitle.label "Propriedades da lista">
 
 <!ENTITY ListType.label "Listar Tipo">
 <!ENTITY bulletStyle.label "Estilo do Bullet:">

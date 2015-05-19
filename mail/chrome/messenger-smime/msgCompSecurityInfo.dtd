@@ -5,7 +5,7 @@
 
 
 <!ENTITY title.label "Segurança da mensagem">
-<!ENTITY subject.plaintextWarning "Tenha em atenção que as linhas de assunto das mensagens eletrónicas nunca são cifradas.">
+<!ENTITY subject.plaintextWarning "NOTA: as linhas de assunto das mensagens eletrónicas nunca são cifradas.">
 <!ENTITY status.heading "O conteúdo da sua mensagem será enviado da seguinte forma:">
 <!ENTITY status.signed "Assinada digitalmente:">
 <!ENTITY status.encrypted "Cifrada:">

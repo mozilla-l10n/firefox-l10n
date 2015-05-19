@@ -35,7 +35,7 @@ sentence. -->
 <!ENTITY  play.accesskey                      "r">
 <!ENTITY  systemSound.label                   "Som pré-definido para novo correio">
 <!ENTITY  systemSound.accesskey               "d">
-<!ENTITY  customsound.label                   "Usar o seguinte som">
+<!ENTITY  customsound.label                   "Utilizar este ficheiro áudio">
 <!ENTITY  customsound.accesskey               "U">
 <!ENTITY  browse.label                        "Navegar…">
 <!ENTITY  browse.accesskey                    "N">

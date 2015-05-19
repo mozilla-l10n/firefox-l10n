@@ -4,7 +4,7 @@
 <!-- Window title -->
 
 
-<!ENTITY windowTitle.label "Propriedades Horizontais da Linha">
+<!ENTITY windowTitle.label "Propriedades da linha horizontal">
 
 <!ENTITY dimensionsBox.label "Dimensões">
 <!ENTITY heightEditField.label "Altura:">

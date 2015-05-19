@@ -60,13 +60,13 @@
 
 <!ENTITY autoMarkAsRead.label          "Marcar mensagens como lidas automaticamente">
 <!ENTITY autoMarkAsRead.accesskey      "a">
-<!ENTITY markAsReadNoDelay.label       "Logo após a exibição">
-<!ENTITY markAsReadNoDelay.accesskey   "g">
+<!ENTITY markAsReadNoDelay.label       "Ao exibir">
+<!ENTITY markAsReadNoDelay.accesskey   "o">
 <!-- LOCALIZATION NOTE (markAsReadDelay.label): This will concatenate to
      "After displaying for [___] seconds",
      using (markAsReadDelay.label) and a number (secondsLabel.label). -->
-<!ENTITY markAsReadDelay.label         "Logo após a exibição durante">
-<!ENTITY markAsReadDelay.accesskey     "e">
+<!ENTITY markAsReadDelay.label         "Ao exibir durante">
+<!ENTITY markAsReadDelay.accesskey     "d">
 <!ENTITY secondsLabel.label            "segundos">
 <!ENTITY openMsgIn.label               "Abrir mensagens em:">
 <!ENTITY openMsgInNewTab.label         "Novo separador">
