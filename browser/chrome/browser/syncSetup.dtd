@@ -72,7 +72,7 @@
 <!-- Existing Account Page 2: Manual Login -->
 
 <!ENTITY setup.signInPage.title.label "Iniciar sessão">
-<!ENTITY existingRecoveryKey.description "Pode obter uma cópia da sua chave de recuperação nas opções do &syncBrand.shortName.label; no seu outro dispositivo e, selecionar  &quot;A minha chave de recuperação&quot; em &quot;Gerir conta&quot;.">
+<!ENTITY existingRecoveryKey.description "Pode obter uma cópia da sua chave de recuperação nas opções do &syncBrand.shortName.label; no seu outro dispositivo e, selecionar &quot;A minha chave de recuperação&quot; em &quot;Gerir conta&quot;.">
 <!ENTITY verifying.label              "A verificar…">
 <!ENTITY resetPassword.label          "Repor palavra-passe">
 <!ENTITY resetSyncKey.label           "Perdi o meu outro dispositivo.">

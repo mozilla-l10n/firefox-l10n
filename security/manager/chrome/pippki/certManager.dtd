@@ -48,7 +48,7 @@
 <!ENTITY certmgr.tokenname                    "Dispositivo de segurança">
 <!ENTITY certmgr.begins                       "Inicia a">
 <!ENTITY certmgr.expires                      "Expira a">
-<!ENTITY certmgr.email                        "Endereço eletrónico">
+<!ENTITY certmgr.email                        "Endereço de correio eletrónico">
 <!ENTITY certmgr.serial                       "Número de série">
 
 <!ENTITY certmgr.close.label                  "Fechar">
