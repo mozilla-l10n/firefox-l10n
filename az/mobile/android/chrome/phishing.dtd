@@ -15,3 +15,8 @@
 <!ENTITY safeb.blocked.phishingPage.title2 "Saxtakarlıq şübhəsi!">
 <!ENTITY safeb.blocked.phishingPage.shortDesc2 "Bu səhifəyə şəxsi məlumatlarınızı daxil etməniz, şəxsiyyət oğurluğu və ya başqa fırıldaqçılıqla nəticələnə bilər.">
 <!ENTITY safeb.blocked.phishingPage.longDesc2 "<p>Bu cür saxtakarlıqlarda inandığınız qaynaqların adından istifadə edərək, şəxsi məlumatlarınızı oğurlamağa cəhd edirlər.</p>">
+
+<!ENTITY safeb.blocked.unwantedPage.title "İstənməyən Proqram Saytı Bildirilib!">
+<!-- Localization note (safeb.blocked.unwanted.shortDesc) - Please don't translate the contents of the <span id="unwanted_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
+<!ENTITY safeb.blocked.unwantedPage.shortDesc "<span id='unwanted_sitename'/> ünvanındakı saytın istənməyən proqram məzmunu daşıdığı bildirilib və təhlükəsizlik nizamlarınıza əsasən bloklanıb.">
+<!ENTITY safeb.blocked.unwantedPage.longDesc "İstənməyən proqram səhifələri aldadıcı və ya sisteminizə gözlənməyən yollarla zərər verici proqramlar qurmağa çalışırlar.">
