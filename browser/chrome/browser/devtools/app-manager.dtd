@@ -73,7 +73,7 @@
 <!ENTITY projects.addHostedTooltip "Adicionar um novo aplicativo hospedado (link para o arquivo manifest.webapp) em um site">
 <!ENTITY projects.title "Aplicativos locais">
 <!ENTITY projects.appDetails "Detalhes do aplicativo">
-<!ENTITY projects.removeAppFromList "Excluir este aplicativo da lista que você está trabalhando. Não o excluirá do dispositivo ou simulador.">
+<!ENTITY projects.removeAppFromList "Remover este aplicativo da lista que está trabalhando. Não o removerá do dispositivo ou simulador.">
 <!ENTITY projects.updateApp "Atualizar">
 <!ENTITY projects.updateAppTooltip "Executar verificações de validação e atualizar o aplicativo do dispositivo conectado">
 <!ENTITY projects.debugApp "Depurar">

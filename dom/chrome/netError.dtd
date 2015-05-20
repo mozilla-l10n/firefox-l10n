@@ -17,7 +17,7 @@
 <!ENTITY dnsNotFound.longDesc "<p>Não foi possível localizar o servidor do endereço fornecido.</p><ul><li>Houve um engano na digitação do domínio? (exemplo: <q><strong>ww</strong>.mozilla.org</q> em vez de <q><strong>www</strong>.mozilla.org</q>)</li><li>Tem certeza que o domínio do endereço existe? A validade do registro pode ter vencido.</li><li>Não consegue abrir outros sites? Verifique a sua conexão de rede e as configurações de DNS.</li><li>O seu computador ou rede é protegido por um firewall ou proxy? Configurações incorretas podem interferir na navegação.</li></ul>">
 
 <!ENTITY fileNotFound.title "Arquivo não encontrado">
-<!ENTITY fileNotFound.longDesc "<ul><li>Este item poderia ter sido renomeado, excluído ou movido?</li><li>Há algum erro de digitação no endereço, como uma letra maiúscula em vez de minúscula?</li><li>Você possui permissões para acessar o item solicitado?</li></ul>">
+<!ENTITY fileNotFound.longDesc "<ul><li>Este item poderia ter sido renomeado, removido ou movido?</li><li>Há algum erro de digitação no endereço, como uma letra maiúscula em vez de minúscula?</li><li>Você possui permissões para acessar o item solicitado?</li></ul>">
 
 <!ENTITY generic.title "Não foi possível concluir o pedido">
 <!ENTITY generic.longDesc "<p>Informações adicionais sobre este problema ou erro não estão disponíveis neste momento.</p>">

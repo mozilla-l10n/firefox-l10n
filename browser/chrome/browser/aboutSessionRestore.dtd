@@ -9,7 +9,7 @@
 <!ENTITY restorepage.errorTitle     "Bem, isto é constrangedor…">
 <!ENTITY restorepage.problemDesc    "O &brandShortName; está com dificuldades para restaurar suas janelas e abas. Normalmente isto é causado por uma página aberta recentemente.">
 <!ENTITY restorepage.tryThis        "Você pode tentar:">
-<!ENTITY restorepage.restoreSome    "Desmarcar páginas que você suspeite estarem causando o problema">
+<!ENTITY restorepage.restoreSome    "Removendo uma ou mais abas que suspeite estarem causando o problema">
 <!ENTITY restorepage.startNew       "Iniciar uma sessão totalmente nova">
 
 <!ENTITY restorepage.tryagainButton "Restaurar abas selecionadas">
