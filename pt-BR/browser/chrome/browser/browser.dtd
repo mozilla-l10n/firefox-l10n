@@ -834,7 +834,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY panicButton.view.undoWarning             "Esta ação não poderá ser desfeita.">
 <!ENTITY panicButton.view.forgetButton            "Esquecer!">
 
-<!ENTITY panicButton.thankyou.msg1                "Seus dados pessoais recentes estão limpos.">
+<!ENTITY panicButton.thankyou.msg1                "O seu histórico recente foi limpo.">
 <!ENTITY panicButton.thankyou.msg2                "Boa navegação!">
 <!ENTITY panicButton.thankyou.buttonlabel         "Obrigado!">
 

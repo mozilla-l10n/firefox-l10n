@@ -58,7 +58,7 @@
 <!ENTITY  permissionsFor        "Permissões para">
 <!ENTITY  permPlugins           "Ativar plugins">
 
-<!ENTITY  permClearStorage           "Clear Storage">
+<!ENTITY  permClearStorage           "Limpar armazenamento">
 <!ENTITY  permClearStorage.accesskey "C">
 
 <!ENTITY  securityTab           "Segurança">
