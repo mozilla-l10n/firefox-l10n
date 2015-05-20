@@ -5,16 +5,16 @@
 # your locale code, and link to your translated pages as soon as they're live.
 
 
-#define bookmarks_title Bookmarks
+#define bookmarks_title Marcadores
 
 
-#define bookmarks_heading Bookmarks
+#define bookmarks_heading Marcadores
 
 
-#define personal_toolbarfolder Personal Toolbar Folder
+#define personal_toolbarfolder Pasta da barra de ferramentas pessoal
 
 
-#define seamonkey_and_mozilla SeaMonkey and Mozilla
+#define seamonkey_and_mozilla SeaMonkey e Mozilla
 
 
 # LOCALIZATION NOTE (seamonkey):
@@ -32,7 +32,7 @@
 # link title for http://www.seamonkey-project.org/ (in normal bookmarks)
 
 
-#define seamonkey_long The SeaMonkey Project
+#define seamonkey_long O projeto SeaMonkey
 
 
 # LOCALIZATION NOTE (mozilla_org):
@@ -50,7 +50,7 @@
 # link title for http://www.mozilla.org/ (in normal bookmarks)
 
 
-#define mozilla_org_long The Mozilla Organization
+#define mozilla_org_long A Organização Mozilla
 
 
 # LOCALIZATION NOTE (mozilla_projects):
@@ -59,7 +59,7 @@
 # link title for http://www.mozilla.org/projects/
 
 
-#define mozilla_projects Mozilla Projects
+#define mozilla_projects Projetos Mozilla
 
 
 # LOCALIZATION NOTE (mozilla_about):
@@ -68,10 +68,10 @@
 # link title for http://www.mozilla.org/about/
 
 
-#define mozilla_about About Mozilla
+#define mozilla_about Sobre a Mozilla
 
 
-#define extend_seamonkey Extending SeaMonkey
+#define extend_seamonkey Expandir o SeaMonkey
 
 
 # LOCALIZATION NOTE (seamonkey_addons):
@@ -80,7 +80,7 @@
 # link title for https://addons.mozilla.org/en-US/seamonkey/
 
 
-#define seamonkey_addons SeaMonkey Add-ons
+#define seamonkey_addons Extras do SeaMonkey
 
 
 # LOCALIZATION NOTE (seamonkey_themes):
@@ -98,7 +98,7 @@
 # link title for https://addons.mozilla.org/en-US/seamonkey/dictionaries
 
 
-#define seamonkey_dictionaries Spell Checking Dictionaries
+#define seamonkey_dictionaries Dicionários de verificação ortográfica
 
 
 # LOCALIZATION NOTE (seamonkey_plugins):
@@ -107,7 +107,7 @@
 # link title for https://addons.mozilla.org/en-US/seamonkey/plugins
 
 
-#define seamonkey_plugins Plugins for SeaMonkey
+#define seamonkey_plugins Plugins para o SeaMonkey
 
 
 # LOCALIZATION NOTE (mozdev):
@@ -125,10 +125,10 @@
 # link title for http://www.mozdev.org/projects/applications/SeaMonkey.html
 
 
-#define mozdev_seamonkey SeaMonkey Extensions from mozdev.org
+#define mozdev_seamonkey Extensões para o SeaMonkey em mozdev.org
 
 
-#define community_support Community &amp; Support
+#define community_support Comunidade e suporte
 
 
 # LOCALIZATION NOTE (seamonkey_community):
@@ -137,7 +137,7 @@
 # link title for http://www.seamonkey-project.org/community
 
 
-#define seamonkey_community SeaMonkey Community
+#define seamonkey_community Comunidade SeaMonkey
 
 
 # LOCALIZATION NOTE (mozillazine):
@@ -155,7 +155,7 @@
 # link title for the mozillaZine SeaMonkey Support forum
 
 
-#define seamonkey_support SeaMonkey Support Forum (mozillaZine)
+#define seamonkey_support Fórum de suporte do SeaMonkey (mozillaZine)
 
 
 # LOCALIZATION NOTE (seamonkey_l10n):

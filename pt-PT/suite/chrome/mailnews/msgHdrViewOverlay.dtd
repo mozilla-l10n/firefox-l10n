@@ -15,9 +15,9 @@
 <!ENTITY newsgroupsField.label "Grupos de notícias: ">
 <!ENTITY followupToField.label "Reencaminhar para: ">
 
-<!ENTITY tagsHdr.label "Tags: ">
+<!ENTITY tagsHdr.label "Etiquetas: ">
 <!ENTITY dateField.label "Data: ">
-<!ENTITY userAgentField.label "User-Agent: ">
+<!ENTITY userAgentField.label "Agente de utilizador: ">
 <!ENTITY referencesField.label "Referências: ">
 <!ENTITY messageIdField.label "ID da Mensagem: ">
 <!ENTITY inReplyToField.label "Em-Resposta-Para: ">
