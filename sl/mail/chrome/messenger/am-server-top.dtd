@@ -51,7 +51,7 @@
 <!ENTITY modelDeleteImmediately.label "ga odstrani takoj">
 <!ENTITY modelDeleteImmediately.accesskey "o">
 <!-- LOCALIZATION NOTE (expungeOnExit.label) : do not translate two of "&quot;" in below line -->
-<!ENTITY expungeOnExit.label "Počisti (&quot;izbriši&quot;) mapo Prejeto ob izhodu">
+<!ENTITY expungeOnExit.label "Počisti (&quot;Izbriši&quot;) mapo Prejeto ob izhodu">
 <!ENTITY expungeOnExit.accesskey "č">
 <!ENTITY emptyTrashOnExit.label "Ob izhodu izprazni Koš">
 <!ENTITY emptyTrashOnExit.accesskey "h">
