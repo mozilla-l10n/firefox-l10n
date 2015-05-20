@@ -23,6 +23,9 @@
 <!ENTITY cmd.back.tooltip "Přejde jednu stránku zpět">
 <!ENTITY cmd.forward.tooltip "Přejde jednu stránku vpřed">
 
+<!ENTITY showUnsignedExtensions.button.label  "Některá rozšíření nemohla být ověřena">
+<!ENTITY showAllExtensions.button.label       "Zobrazit všechny rozšíření">
+
 <!-- global warnings -->
 <!ENTITY warning.safemode.label "V nouzovém režimu jsou všechny doplňky zakázány.">
 <!ENTITY warning.checkcompatibility.label "Kontrola kompatibility doplňků je zakázána. Aplikace může obsahovat nekompatibilní doplňky.">
