@@ -14,8 +14,8 @@
 <!ENTITY  up.accesskey              "c">
 <!ENTITY  dn.label                  "Para baixo">
 <!ENTITY  dn.accesskey              "b">
-<!ENTITY  remove.label              "Excluir">
-<!ENTITY  remove.accesskey          "x">
+<!ENTITY  remove.label              "Remover">
+<!ENTITY  remove.accesskey          "R">
 <!ENTITY  edit.label                "Palavra-chave…">
 <!ENTITY  edit.accesskey            "P">
 

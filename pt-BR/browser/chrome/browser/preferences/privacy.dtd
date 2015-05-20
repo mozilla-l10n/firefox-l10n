@@ -60,7 +60,7 @@
 <!ENTITY  rememberActions.pre.label           "Você pode desejar ">
 <!ENTITY  rememberActions.clearHistory.label  "limpar os dados de navegação mais recentes">
 <!ENTITY  rememberActions.middle.label        " ou ">
-<!ENTITY  rememberActions.removeCookies.label "excluir cookies em particular">
+<!ENTITY  rememberActions.removeCookies.label "remover cookies individualmente">
 <!ENTITY  rememberActions.post.label          ".">
 
 <!ENTITY  dontrememberDescription.label  "O &brandShortName; usará as mesmas configurações da navegação privativa. Nenhum dado pessoal será armazenado durante a sua navegação.">

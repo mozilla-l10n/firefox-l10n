@@ -101,9 +101,9 @@
 
 <!ENTITY offlineAppsList2.label          "Estes sites estão autorizados a armazenar dados para uso offline:">
 <!ENTITY offlineAppsList.height          "7em">
-<!ENTITY offlineAppsListRemove.label     "Excluir…">
-<!ENTITY offlineAppsListRemove.accesskey "x">
-<!ENTITY offlineAppRemove.confirm        "Excluir dados offline">
+<!ENTITY offlineAppsListRemove.label     "Remover...">
+<!ENTITY offlineAppsListRemove.accesskey "R">
+<!ENTITY offlineAppRemove.confirm        "Remover dados offline">
 
 <!ENTITY certificateTab.label            "Certificados">
 <!ENTITY certSelection.label             "Requisições">

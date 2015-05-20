@@ -382,10 +382,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      keys.  -->
 <!ENTITY customizeMenu.moveToPanel.label "Mover para o menu">
 <!ENTITY customizeMenu.moveToPanel.accesskey "o">
-<!ENTITY customizeMenu.removeFromToolbar.label "Excluir da barra de ferramentas">
-<!ENTITY customizeMenu.removeFromToolbar.accesskey "x">
-<!ENTITY customizeMenu.removeFromMenu.label "Excluir do menu">
-<!ENTITY customizeMenu.removeFromMenu.accesskey "x">
+<!ENTITY customizeMenu.removeFromToolbar.label "Remover da barra de ferramentas">
+<!ENTITY customizeMenu.removeFromToolbar.accesskey "R">
+<!ENTITY customizeMenu.removeFromMenu.label "Remover do menu">
+<!ENTITY customizeMenu.removeFromMenu.accesskey "R">
 <!ENTITY customizeMenu.addMoreItems.label "Adicionar mais items…">
 <!ENTITY customizeMenu.addMoreItems.accesskey "A">
 

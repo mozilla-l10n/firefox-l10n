@@ -14,7 +14,7 @@
 <!ENTITY newtab.customize.blank2 "Mostrar página em branco">
 <!ENTITY newtab.customize.what "O que é esta página?">
 <!ENTITY newtab.intro.header "O que é esta página?">
-<!ENTITY newtab.undo.removedLabel "Miniatura excluída.">
+<!ENTITY newtab.undo.removedLabel "Miniatura removida.">
 <!ENTITY newtab.undo.undoButton "Desfazer.">
 <!ENTITY newtab.undo.restoreButton "Restaurar tudo.">
 <!ENTITY newtab.undo.closeTooltip "Ocultar">

@@ -20,7 +20,7 @@
 <!ENTITY projectMenu_stop_accesskey "P">
 <!ENTITY projectMenu_debug_label "Depurar aplicativo">
 <!ENTITY projectMenu_debug_accesskey "D">
-<!ENTITY projectMenu_remove_label "Excluir projeto">
+<!ENTITY projectMenu_remove_label "Remover projeto">
 <!ENTITY projectMenu_remove_accesskey "x">
 <!ENTITY projectMenu_showPrefs_label "Preferências">
 <!ENTITY projectMenu_showPrefs_accesskey "e">
@@ -93,7 +93,7 @@
 <!ENTITY details_description "Descrição">
 <!ENTITY details_location "Localização">
 <!ENTITY details_manifestURL "ID do aplicativo">
-<!ENTITY details_removeProject_button "Excluir projeto">
+<!ENTITY details_removeProject_button "Remover projeto">
 <!ENTITY details_showPrepackageLog_button "Mostrar registro do pré-pacote">
 <!-- New App -->
 
