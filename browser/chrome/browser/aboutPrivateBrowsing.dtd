@@ -13,7 +13,7 @@
 <!ENTITY aboutPrivateBrowsing.notPrivate       "Você não está em uma janela privativa no momento.">
 
 <!ENTITY aboutPrivateBrowsing.moreInfo         "Embora este computador não possua registros do seu histórico, seu empregador ou provedor de internet podem saber as páginas que você visita.">
-<!ENTITY aboutPrivateBrowsing.learnMore        "Saiba mais…">
+<!ENTITY aboutPrivateBrowsing.learnMore        "Saiba mais.">
 
 <!ENTITY privatebrowsingpage.openPrivateWindow.label "Abrir uma janela privativa">
 <!ENTITY privatebrowsingpage.openPrivateWindow.accesskey "b">
