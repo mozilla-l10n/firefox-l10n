@@ -12,7 +12,7 @@
 <!ENTITY aboutPage.checkForUpdates.available2   "Receber atualização">
 <!ENTITY aboutPage.checkForUpdates.downloading  "Recebendo atualização…">
 <!ENTITY aboutPage.checkForUpdates.downloaded2  "Instalar atualização">
-<!ENTITY aboutPage.faq.label                    "Dúvidas frequentes">
+<!ENTITY aboutPage.faq.label                    "FAQ">
 <!ENTITY aboutPage.support.label                "Suporte">
 <!ENTITY aboutPage.privacyPolicy.label          "Política de privacidade">
 <!ENTITY aboutPage.rights.label                 "Conheça seus direitos">

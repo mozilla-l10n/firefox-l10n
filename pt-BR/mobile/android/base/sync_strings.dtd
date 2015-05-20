@@ -33,7 +33,7 @@
 <!ENTITY sync.input.password.label "Senha">
 <!ENTITY sync.input.key.label "Chave de recuperação">
 <!ENTITY sync.checkbox.server.label "Usar um outro servidor">
-<!ENTITY sync.input.server.label "Endereço do servidor">
+<!ENTITY sync.input.server.label "URL do servidor">
 <!-- Setup Fail -->
 
 <!ENTITY sync.title.fail.label "Não foi possível configurar o &syncBrand.shortName.label;">
@@ -99,7 +99,7 @@
 <!-- Incorrect settings and changing credentials. -->
 
 <!ENTITY sync.invalidcreds.label "Nome da conta ou senha incorreta.">
-<!ENTITY sync.invalidserver.label "Por favor, forneça um endereço de servidor válido">
+<!ENTITY sync.invalidserver.label "Por favor insira um URL de servidor válido">
 <!ENTITY sync.verifying.label "Verificando…">
 <!ENTITY sync.new.recoverykey.status.incorrect "Chave de recuperação incorreta. Por favor, tente de novo.">
 <!-- Send tab to device. -->
