@@ -25,7 +25,7 @@
 <!-- LOCALIZATION NOTE (happy.message): "share the love" — This feels purposely exaggerated in English,
      but essentially it means that we want you to let others know how much you love Firefox. -->
 
-<!ENTITY happy.message             "Deseja compartilhar? Nos dê uma classificação 5 estrelas no Google Play.">
+<!ENTITY happy.message             "Deseja mostrar a sua preferência dando-nos 5 estrelas no Google Play?">
 <!-- LOCALIZATION NOTE (happy.finePrint): "feels great" — Another exaggeration where we're trying to
      get people to rate us by playfully telling them there's a benefit in it for them as well. -->
 
@@ -51,7 +51,7 @@
      on Firefox if they don't resolve the user's problem, like "or if they don't fix it, we'll fire them." If this doesn't
      work in your language, you can change it to something like "no matter what" or just remove it entirely. -->
 
-<!ENTITY sad.thanksMessageBottom   "Ou cabeças vão rolar!">
+<!ENTITY sad.thanksMessageBottom   "Ou então.">
 
 <!ENTITY feedback.privacy2         "Para sua privacidade, por favor, não inclua qualquer informação pessoal na sua opinião.">
 <!ENTITY feedback.send             "Dê a sua opinião">

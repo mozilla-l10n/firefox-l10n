@@ -14,12 +14,12 @@
 <!ENTITY sync.setup.title           "Conectar-se ao Sync">
 <!ENTITY sync.setup.pair            "Para ativar, selecione “Parear dispositivo” no seu outro dispositivo.">
 <!ENTITY sync.fallback              "Não estou perto do meu computador…">
-<!ENTITY sync.setup.manual          "Forneça as informações da sua conta do Sync.">
+<!ENTITY sync.setup.manual          "Forneça as informações da sua conta do Sync">
 <!ENTITY sync.account               "Nome da conta">
 <!ENTITY sync.password              "Senha">
 <!ENTITY sync.recoveryKey           "Chave de recuperação">
 <!ENTITY sync.customServer          "Usar um outro servidor">
-<!ENTITY sync.serverURL             "Endereço do servidor">
+<!ENTITY sync.serverURL             "URL do servidor">
 <!ENTITY sync.setup.connect         "Conectar">
 <!ENTITY sync.setup.cancel          "Cancelar">
 <!ENTITY sync.setup.tutorial        "Mostrar como">

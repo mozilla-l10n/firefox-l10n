@@ -19,7 +19,7 @@ was trying to connect. -->
 de forma segura a <b>#1</b>, mas não podemos confirmar se sua conexão é segura.">
 
 <!ENTITY certerror.whatShouldIDo.heading "O que devo fazer?">
-<!ENTITY certerror.whatShouldIDo.content "se costuma conecta-se a este site 
+<!ENTITY certerror.whatShouldIDo.content "Se costuma conecta-se a este site 
 sem problemas, este erro pode significar que alguém está tentando 
 se passar pelo site e você não deve continuar.">
 <!ENTITY certerror.getMeOutOfHere.label "Me tire daqui!">
