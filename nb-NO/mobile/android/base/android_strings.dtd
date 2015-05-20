@@ -28,7 +28,7 @@
 <!ENTITY  crash_comment "Legg til en kommentar (kommentarer er offentlig synlige)">
 <!ENTITY  crash_allow_contact2 "Tillat &vendorShortName; å kontakte meg om denne rapporten">
 <!ENTITY  crash_email "Din e-postadresse">
-<!ENTITY  crash_closing_alert "Avslutt uten å sende krasjrapport?">
+<!ENTITY  crash_closing_alert "Avslutte uten å sende krasjrapport?">
 <!ENTITY  sending_crash_report "Send krasjrapport \u2026">
 <!ENTITY  crash_close_label "Lukk">
 <!ENTITY  crash_restart_label "Start &brandShortName; på nytt">
@@ -343,7 +343,7 @@ size. -->
 <!ENTITY pref_titlebar_mode_title "Vis sidetittel">
 <!ENTITY pref_titlebar_mode_url "Vis sideadresse">
 
-<!-- Localization note (pref_scroll_title_bar): Label for setting that controls
+<!-- Localization note (pref_scroll_title_bar2): Label for setting that controls
      whether or not the dynamic toolbar is enabled. -->
 <!ENTITY pref_scroll_title_bar2 "Nettlesing i fullskjerm">
 <!ENTITY pref_scroll_title_bar_summary "Skjul tittellinjen i &brandShortName; ved rulling nedover på en side">
@@ -527,7 +527,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY searchable_description "Bokmerker og historikk">
 
-<!-- Updater notifications -->
+ <!-- Updater notifications -->
 <!ENTITY updater_start_title2 "Oppdateringer er tilgjengelige for &brandShortName;">
 <!ENTITY updater_start_select2 "Trykk for å laste ned">
 
@@ -560,7 +560,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY colon ":">
 
-<!-- These are only used for accessiblity for the done and overflow-menu buttons in the actionbar.
+<!-- These are only used for accessibility for the done and overflow-menu buttons in the actionbar.
      They are never shown to users -->
 <!ENTITY actionbar_menu "Meny">
 <!ENTITY actionbar_done "Ferdig">
