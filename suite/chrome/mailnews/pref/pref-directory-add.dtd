@@ -7,8 +7,8 @@
 <!ENTITY directoryName.accesskey           "N">
 <!ENTITY directoryHostname.label           "Nome do servidor: ">
 <!ENTITY directoryHostname.accesskey       "o">
-<!ENTITY directoryBaseDN.label             "Base DN: ">
-<!ENTITY directoryBaseDN.accesskey         "B">
+<!ENTITY directoryBaseDN.label             "DN base: ">
+<!ENTITY directoryBaseDN.accesskey         "b">
 <!ENTITY findButton.label                  "Localizar">
 <!ENTITY findButton.accesskey              "L">
 <!ENTITY directorySecure.label             "Usar ligação segura (SSL)">

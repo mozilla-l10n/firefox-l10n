@@ -29,7 +29,7 @@
 <!ENTITY whenQuittingApp.label          "Ao sair do &brandShortName;">
 <!ENTITY neverRemove.label              "Nunca">
 
-<!ENTITY finishedBehavior.label         "When a download completes">
+<!ENTITY finishedBehavior.label         "Ao terminar a transferência">
 <!ENTITY playSound.label                "Tocar um som">
 <!ENTITY playSound.accesskey            "s">
 <!ENTITY showAlert.label                "Mostrar um alerta">
