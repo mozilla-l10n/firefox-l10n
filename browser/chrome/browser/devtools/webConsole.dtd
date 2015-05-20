@@ -89,7 +89,7 @@
 <!ENTITY filterOutput.placeholder "Filtrar saída">
 <!ENTITY btnClear.label        "Limpar">
 <!ENTITY btnClear.tooltip      "Limpar console da web">
-<!ENTITY btnClear.accesskey    "L">
+<!ENTITY btnClear.accesskey    "r">
 
 <!ENTITY fullZoomEnlargeCmd.commandkey  "+">
 <!-- + is above this key on many keyboards -->

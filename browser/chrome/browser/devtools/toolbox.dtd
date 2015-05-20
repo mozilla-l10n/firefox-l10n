@@ -177,7 +177,7 @@
   -  about:config, in the options panel. -->
 
 <!ENTITY options.enablePersistentLogs.label    "Ativar logs persistentes">
-<!ENTITY options.enablePersistentLogs.tooltip  "Esta opção fará o console da web e monitoramento da rede não limparem a saída quando você abrir outra página">
+<!ENTITY options.enablePersistentLogs.tooltip  "Se ativar está opção fará o console da web e monitoramento da rede não limparem a saída quando você abrir outra página">
 <!-- LOCALIZATION NOTE (options.showPlatformData.label): This is the
   -  label for the checkbox that toggles the display of the platform data in the,
   -  Profiler i.e. devtools.profiler.ui.show-platform-data a boolean preference
