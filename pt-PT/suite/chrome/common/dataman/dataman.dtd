@@ -103,11 +103,11 @@
 <!ENTITY pwd.ctx.selectAll.label "Selecionar tudo">
 <!ENTITY pwd.ctx.selectAll.accesskey "a">
 
-<!ENTITY pwd.button.remove.label "Remove">
+<!ENTITY pwd.button.remove.label "Remover">
 <!ENTITY pwd.button.remove.accesskey "R">
 <!-- storage -->
 
-<!ENTITY storage.description "This domain uses the following web storages on your computer:">
+<!ENTITY storage.description "Este domínio utiliza os seguintes armazenamentos web no seu computador:">
 
 <!ENTITY storage.tree.host.label "Sítio web">
 <!ENTITY storage.tree.type.label "Tipo">

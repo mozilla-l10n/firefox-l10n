@@ -23,5 +23,5 @@
 <!ENTITY restoreSearch.label          "Restaurar mecanismo de pesquisa pré-definidos">
 <!ENTITY restoreSearch.accesskey      "s">
 
-<!ENTITY changeAndRestartButton.label "Make Changes and Restart">
+<!ENTITY changeAndRestartButton.label "Aplicar alterações e reiniciar">
 <!ENTITY continueButton.label         "Continuar em modo de segurança">

@@ -6,11 +6,11 @@
 <!ENTITY  pref.proxies.advanced.title "Preferências avançadas de Proxy">
 <!ENTITY  protocols.caption           "Protocolo específico dos Proxies">
 <!ENTITY  protocols.description       "Normalmente o mesmo proxy pode negociar com todos os protocolos listados aqui.">
-<!ENTITY  http.label                  "HTTP Proxy:">
+<!ENTITY  http.label                  "Proxy HTTP:">
 <!ENTITY  http.accesskey              "x">
-<!ENTITY  ssl.label                   "SSL Proxy:">
+<!ENTITY  ssl.label                   "Proxy SSL:">
 <!ENTITY  ssl.accesskey               "L">
-<!ENTITY  ftp.label                   "FTP Proxy:">
+<!ENTITY  ftp.label                   "Proxy FTP:">
 <!ENTITY  ftp.accesskey               "F">
 <!ENTITY  reuseProxy.label            "Usar definições de proxy HTTP para todos os protocolos">
 <!ENTITY  reuseProxy.accesskey        "U">
@@ -21,7 +21,7 @@
 
 <!ENTITY  socks.caption               "Proxy geral">
 <!ENTITY  socks.description           "Um SOCKS proxy é um proxy genérico que às vezes é usado em ambientes corporativos ou similares.">
-<!ENTITY  socks.label                 "SOCKS Proxy:">
+<!ENTITY  socks.label                 "Proxy SOCKS:">
 <!ENTITY  socks.accesskey             "S">
 <!ENTITY  socks4.label                "SOCKS v4">
 <!ENTITY  socks4.accesskey            "C">
