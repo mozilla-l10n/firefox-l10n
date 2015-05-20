@@ -83,7 +83,7 @@
 <!ENTITY projects.hostedManifestPlaceHolder2 "http://example.com/app/manifest.webapp">
 <!ENTITY projects.noProjects "Nenhum projeto. Adicione um novo aplicativo empacotado abaixo (diretório local) ou um aplicativo hospedado (link para um arquivo manifest).">
 <!ENTITY projects.manifestEditor "Editor de manifesto">
-<!ENTITY projects.manifestEditorTooltip "Edite o manifesto do seu aplicativo no painel abaixo. o botão Atualizar salvará suas alterações e atualizará o aplicativo">
+<!ENTITY projects.manifestEditorTooltip "Edite o manifesto do seu aplicativo no painel abaixo. o botão Atualizar salvará suas alterações e atualizará o aplicativo.">
 <!ENTITY projects.manifestViewer "Visualizador de manifesto">
 <!ENTITY projects.manifestViewerTooltip "Verifique o manifesto do seu aplicativo no painel abaixo">
 <!ENTITY projects.valid "Válido">

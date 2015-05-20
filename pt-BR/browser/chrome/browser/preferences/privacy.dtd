@@ -37,7 +37,7 @@
 
 <!ENTITY  expire.label                  "Perderem a validade">
 <!ENTITY  close.label                   "Sair do &brandShortName;">
-<!ENTITY  askEachTime.label             "Perguntar">
+<!ENTITY  askEachTime.label             "perguntar sempre que necessário">
 
 <!ENTITY  cookieExceptions.label        "Exceções…">
 <!ENTITY  cookieExceptions.accesskey    "E">
@@ -45,8 +45,8 @@
 <!ENTITY  showCookies.label             "Exibir cookies">
 <!ENTITY  showCookies.accesskey         "x">
 
-<!ENTITY  historyHeader.pre.label          "O &brandShortName; deve:">
-<!ENTITY  historyHeader.pre.accesskey      "O">
+<!ENTITY  historyHeader.pre.label          "O &brandShortName; irá:">
+<!ENTITY  historyHeader.pre.accesskey      "i">
 <!ENTITY  historyHeader.remember.label     "Memorizar tudo">
 <!ENTITY  historyHeader.dontremember.label "Nunca memorizar">
 <!ENTITY  historyHeader.custom.label       "Usar minhas configurações">
