@@ -219,7 +219,7 @@
 <!ENTITY expandAllThreadsCmd.key "*">
 <!ENTITY collapseAllThreadsCmd.label "Strni vse niti">
 <!ENTITY collapseAllThreadsCmd.accesskey "S">
-<!ENTITY collapseAllThreadsCmd.key "\/">
+<!ENTITY collapseAllThreadsCmd.key "/">
 <!ENTITY unreadMsgsCmd.label "Neprebrane">
 <!ENTITY unreadMsgsCmd.accesskey "e">
 <!ENTITY threadsWithUnreadCmd.label "Niti z neprebranimi">
