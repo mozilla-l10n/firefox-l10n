@@ -223,13 +223,13 @@
 <!ENTITY fxaccount_status_linkprivacy "Aviso de privacidade">
 <!ENTITY fxaccount_status_more "Mais&ellipsis;">
 
-<!ENTITY fxaccount_remove_account_dialog_title "Excluir conta Firefox?">
+<!ENTITY fxaccount_remove_account_dialog_title "Remover conta Firefox?">
 <!ENTITY fxaccount_remove_account_dialog_message "O &brandShortName; interromperá a sincronização com a sua conta, mas não excluirá nenhum de seus dados pessoais neste dispositivo.">
 <!-- Localization note: format string below will be replaced
      with the Firefox Account's email address. -->
-<!ENTITY fxaccount_remove_account_toast "Conta Firefox &formatS; excluída.">
+<!ENTITY fxaccount_remove_account_toast "Conta Firefox &formatS; removida.">
 
-<!ENTITY fxaccount_remove_account_menu_item "Excluir conta">
+<!ENTITY fxaccount_remove_account_menu_item "Remover conta">
 <!-- Localization note: this is the name shown by the Android system
      itself for a Firefox Account. Don't localize this. -->
 

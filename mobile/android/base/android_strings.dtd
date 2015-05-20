@@ -7,7 +7,7 @@
 <!ENTITY  error_loading_file "Ocorreu um erro ao tentar carregar os arquivos necessários para executar o &brandShortName;">
 
 <!ENTITY  onboard_start_message3 "Navegar com o &brandShortName;">
-<!ENTITY  onboard_start_subtext3 "Faça a sua experiência de navegação na web móvel verdadeiramente sua.">
+<!ENTITY  onboard_start_subtext3 "Faça a sua experiência na web móvel verdadeiramente sua.">
 <!ENTITY  onboard_start_button_account "Entrar no &brandShortName;">
 <!ENTITY  onboard_start_button_browser "Iniciar a navegação">
 <!-- Localization note: These are used as the titles of different pages on the home screen.
@@ -18,7 +18,7 @@
 <!ENTITY  reading_list_title "Lista de leitura">
 <!ENTITY  recent_tabs_title "Abas recentes">
 
-<!ENTITY  switch_to_tab "Selecionar esta aba">
+<!ENTITY  switch_to_tab "Alternar para a aba">
 
 <!ENTITY  crash_reporter_title "&brandShortName; Crash Reporter">
 <!ENTITY  crash_message2 "O &brandShortName; encontrou um problema e travou. Suas abas serão listadas na página inicial do &brandShortName; quando você reiniciar.">
@@ -44,7 +44,7 @@
 <!ENTITY bookmark "Favoritar">
 <!ENTITY bookmark_remove "Remover favorito">
 <!ENTITY bookmark_added "Favorito adicionado">
-<!ENTITY bookmark_removed "Favorito excluído">
+<!ENTITY bookmark_removed "Favorito removido">
 <!ENTITY bookmark_updated "Favoritos atualizados">
 <!ENTITY bookmark_options "Opções">
 
@@ -268,9 +268,9 @@ size. -->
 
 <!ENTITY pref_dialog_set_default "Definir como padrão">
 <!ENTITY pref_dialog_default "Padrão">
-<!ENTITY pref_dialog_remove "Excluir">
+<!ENTITY pref_dialog_remove "Remover">
 
-<!ENTITY pref_search_last_toast "Não é possível excluir ou desativar o único mecanismo de pesquisa que restou.">
+<!ENTITY pref_search_last_toast "Não é possível remover ou desativar o único mecanismo de pesquisa que restou.">
 
 <!ENTITY pref_panels_show "Exibir">
 <!ENTITY pref_panels_hide "Ocultar">
@@ -356,7 +356,7 @@ size. -->
 
 <!ENTITY contextmenu_open_new_tab "Abrir em nova aba">
 <!ENTITY contextmenu_open_private_tab "Abrir em aba privativa">
-<!ENTITY contextmenu_remove "Excluir">
+<!ENTITY contextmenu_remove "Remover">
 <!ENTITY contextmenu_add_to_launcher "Adicionar à tela inicial">
 <!ENTITY contextmenu_share "Compartilhar">
 <!ENTITY contextmenu_pasteandgo "Colar e ir">
@@ -395,7 +395,7 @@ size. -->
      any page is removed frome about:home. This includes pages that are in history,
      bookmarks, or reading list. -->
 
-<!ENTITY page_removed "Página excluída">
+<!ENTITY page_removed "Página removida">
 
 <!ENTITY bookmark_edit_title "Editar favorito">
 <!ENTITY bookmark_edit_name "Nome">
@@ -427,7 +427,7 @@ size. -->
 <!ENTITY page_action_dropmarker_description "Ações adicionais">
 
 <!ENTITY masterpassword_create_title "Criar senha mestra">
-<!ENTITY masterpassword_remove_title "Excluir a senha mestra">
+<!ENTITY masterpassword_remove_title "Remover senha mestra">
 <!ENTITY masterpassword_password "Senha">
 <!ENTITY masterpassword_confirm "Confirmar senha">
 
