@@ -12,7 +12,7 @@
 <!ENTITY addTagButton.accesskey     "A">
 <!ENTITY deleteTagButton.label      "Apagar">
 <!ENTITY deleteTagButton.accesskey  "p">
-<!ENTITY raiseTagButton.label       "Aumentar Importância">
+<!ENTITY raiseTagButton.label       "Aumentar importância">
 <!ENTITY raiseTagButton.accesskey   "u">
 <!ENTITY lowerTagButton.label       "Baixar Importância">
 <!ENTITY lowerTagButton.accesskey   "B">
