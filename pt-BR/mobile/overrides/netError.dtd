@@ -60,11 +60,7 @@
 <!ENTITY netInterrupt.longDesc2 "&sharedLongDesc3;">
 
 <!ENTITY notCached.title "Documento fora de validade">
-<!ENTITY notCached.longDesc "<p>O documento solicitado não está mais no cache do &brandShortName;.</p> 
-<ul> 
-<li>Como precaução de segurança, o &brandShortName; não solicita automaticamente documentos contendo informações confidenciais.</li> 
-<li>Clique em Tentar de novo para solicitar mais uma vez o documento do site.</li> 
-</ul>">
+<!ENTITY notCached.longDesc "<p>O documento solicitado não está mais no cache do &brandShortName;.</p><ul><li>Como precaução de segurança, o &brandShortName; não solicita automaticamente documentos contendo informações confidenciais.</li><li>Clique em Tentar de novo para solicitar mais uma vez o documento do site.</li></ul>">
 
 <!ENTITY netOffline.title "Modo offline">
 <!-- LOCALIZATION NOTE (netOffline.longDesc3) This string contains markup including widgets enabling wifi connections.
@@ -98,8 +94,9 @@
 
 <!ENTITY proxyConnectFailure.title "Conexão recusada pelo servidor proxy">
 <!ENTITY proxyConnectFailure.longDesc "<ul> 
-<li>Verifique as configurações de proxy para certificar-se de que estejam corretas.</li> 
-<li>Contate seu administrador de rede para certificar-se de que o servidor proxy esteja funcionando.</li> 
+<li>Verifique as configurações de proxy para confirmar que estão corretas.</li> 
+<li>Contate seu administrador de rede para confirmar se o servidor proxy está 
+funcionando.</li> 
 </ul>">
 
 <!ENTITY proxyResolveFailure.title "Servidor proxy não encontrado">
@@ -114,12 +111,14 @@
 
 <!ENTITY redirectLoop.title "Redirecionamento incorreto">
 <!ENTITY redirectLoop.longDesc "<ul> 
-<li>Este problema algumas vezes pode ser causado pela desativação ou bloqueio de cookies.</li> 
+<li>Este problema às vezes pode ser causado pela desativação ou bloqueio de 
+cookies.</li> 
 </ul>">
 
 <!ENTITY unknownSocketType.title "Resposta não prevista do servidor">
 <!ENTITY unknownSocketType.longDesc "<ul> 
-<li>Certifique-se de que o seu sistema possui o Personal Security Manager instalado.</li> 
+<li>Verifique se o seu sistema possui o Personal Security Manager 
+ instalado.</li> 
 <li>Isto pode ser devido a uma configuração não padrão do servidor.</li> 
 </ul>">
 
