@@ -2,11 +2,15 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY aboutPrivateBrowsing.title            "Bạn đang duyệt web ở chế độ riêng tư">
+<!ENTITY aboutPrivateBrowsing.title.normal     "Mở một cửa sổ riêng tư?">
 
 <!ENTITY aboutPrivateBrowsing.subtitle         "&brandShortName; sẽ không ghi nhớ lịch sử của cửa sổ này.">
+<!ENTITY aboutPrivateBrowsing.subtitle.normal  "&brandShortName; sẽ không ghi nhớ lịch sử của cửa sổ này.">
 
+<!ENTITY aboutPrivateBrowsing.description      "Bao gồm lịch sử duyệt web, lịch sử tìm kiếm, lịch sử tải xuống, lịch sử biểu mẫu, cookie, và các tập tin internet tạm thời. Tuy Nhiên, các tập tin mà bạn tải xuống và các trang đánh dấu của bạn sẽ được giữ lại.">
 
-
+<!ENTITY aboutPrivateBrowsing.notPrivate       "Bạn đang ở cửa sổ không phải riêng tư.">
 
 
 
