@@ -89,9 +89,10 @@
 <!ENTITY profilerUI.table.function        "Funkce">
 <!ENTITY profilerUI.table.function.tooltip         "Jméno a adresa zdroje vzorkové funkce.">
 <!ENTITY profilerUI.table.totalAlloc1       "Celkový počet vzorků alokací">
-<!ENTITY profilerUI.table.totalAllocTooltip "Celkový počet objektů vzorků alokací v tomto umístění a v callees.">
+<!ENTITY profilerUI.table.totalAlloc.tooltip       "Celkový počet objektů vzorků alokací v tomto umístění a v callees.">
 <!ENTITY profilerUI.table.selfAlloc1        "Vlastních vzorků alokací">
-<!ENTITY profilerUI.table.selfAllocTooltip  "Počet objektů vzorků alokací v tomto umístění.">
+<!ENTITY profilerUI.table.selfAlloc.tooltip        "Počet objektů vzorků alokací v tomto umístění.">
+
 
 <!-- LOCALIZATION NOTE (profilerUI.newtab.tooltiptext): The tooltiptext shown
   -  on the "+" (new tab) button for a profile when a selection is available. -->
