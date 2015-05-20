@@ -183,7 +183,7 @@
 <!ENTITY fxaccount_sign_in_unknown_error "Não foi possível ligar">
 
 <!ENTITY fxaccount_account_verified_sub_header "Conta verificada">
-<!ENTITY fxaccount_account_verified_description2 "Os seus dados serão sincronizados momentaneamente.">
+<!ENTITY fxaccount_account_verified_description2 "Os seus dados serão sincronizados brevemente.">
 
 <!ENTITY fxaccount_migration_finished_header "Atualização concluída">
 
