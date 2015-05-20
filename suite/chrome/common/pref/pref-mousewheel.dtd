@@ -4,7 +4,7 @@
 <!-- LOCALIZATION NOTE : FILE Mouse-wheel management prefs, for those lucky OSes that support mouse wheels -->
 
 
-<!ENTITY pref.mouseWheel.title           "Mouse Wheel">
+<!ENTITY pref.mouseWheel.title           "Roda do rato">
 <!ENTITY mouseWheelPanel.label           "Especifica o comportamento da roda do rato quando usa esta chave de modificação: ">
 <!ENTITY usingJustTheWheel.label         "Nenhuma chave de modificação">
 <!ENTITY usingWheelAndAlt.label          "&altKey.label;">

@@ -42,9 +42,9 @@
 <!ENTITY sendLaterCmd.accesskey "d">
 <!-- Edit menu items -->
 
-<!ENTITY editRewrapCmd.label "Rewrap">
+<!ENTITY editRewrapCmd.label "Translinear novamente">
 <!ENTITY editRewrapCmd.key "R">
-<!ENTITY editRewrapCmd.accesskey  "w">
+<!ENTITY editRewrapCmd.accesskey  "n">
 <!ENTITY accountManagerCmd.label "Definições da conta de correio e grupos de notícias...">
 <!ENTITY accountManagerCmd.accesskey "n">
 <!-- View menu items -->
