@@ -68,6 +68,11 @@
 <!ENTITY inspectorHTMLPasteLastChild.label       "Ako posledný potomok">
 <!ENTITY inspectorHTMLPasteLastChild.accesskey   "l">
 
+<!-- LOCALIZATION NOTE (inspectorScrollNodeIntoView.label): This is the label
+     shown in the inspector contextual-menu for the item that lets users scroll
+     the current node into view -->
+<!ENTITY inspectorScrollNodeIntoView.label       "Prejsť do zobrazenia">
+<!ENTITY inspectorScrollNodeIntoView.accesskey   "P">
 
 <!-- LOCALIZATION NOTE (inspectorHTMLDelete.label): This is the label shown in
      the inspector contextual-menu for the item that lets users delete the
