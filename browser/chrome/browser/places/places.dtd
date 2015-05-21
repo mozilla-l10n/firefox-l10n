@@ -52,8 +52,8 @@
 <!ENTITY cmd.open.accesskey              "M">
 <!ENTITY cmd.open_window.label           "Mở trong Cửa Sổ Mới">
 <!ENTITY cmd.open_window.accesskey       "S">
-
-
+<!ENTITY cmd.open_private_window.label     "Mở liên kết trong cửa sổ riêng tư mới">
+<!ENTITY cmd.open_private_window.accesskey "r">
 <!ENTITY cmd.open_tab.label              "Mở trong Thẻ Mới">
 <!ENTITY cmd.open_tab.accesskey          "o">
 <!ENTITY cmd.open_all_in_tabs.label      "Mở Toàn Bộ trong Thẻ">
@@ -83,7 +83,7 @@
 <!ENTITY col.name.label          "Tên">
 <!ENTITY col.tags.label          "Nhãn">
 <!ENTITY col.url.label           "Địa chỉ">
-
+<!ENTITY col.mostrecentvisit.label "Lần vào gần nhất">
 <!ENTITY col.visitcount.label    "Số lần Xem">
 <!ENTITY col.description.label   "Mô tả">
 <!ENTITY col.dateadded.label     "Ngày Thêm">
