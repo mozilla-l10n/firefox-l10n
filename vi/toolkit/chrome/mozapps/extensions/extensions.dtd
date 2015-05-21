@@ -4,7 +4,7 @@
 <!ENTITY addons.windowTitle                   "Quản lí tiện ích">
 
 <!ENTITY search.placeholder                   "Tìm tất cả các tiện ích">
-
+<!ENTITY search.buttonlabel                   "Tìm kiếm">
 <!-- LOCALIZATION NOTE (search.commandKey):
      The search command key should match findOnCmd.commandkey from browser.dtd -->
 <!ENTITY search.commandkey                    "f">
@@ -227,10 +227,12 @@ một số tiện ích tốt nhất và thông dụng nhất để bạn thử."
      This tab won't be displayed unless an Experiment add-on is installed.
      Install https://people.mozilla.org/~gszorc/dummy-experiment-addon.xpi
      to cause this tab to appear. -->
+
+<!ENTITY experiment.info.label "Đây là gì? Thỉnh thoảng, Telemetry có thể sẽ cài đặt và chạy một số thử nghiệm.">
 <!ENTITY experiment.info.learnmore "Tìm hiểu thêm">
-
-
-
+<!ENTITY experiment.info.learnmore.accesskey "T">
+<!ENTITY experiment.info.changetelemetry "Thiết lập Telemetry">
+<!ENTITY experiment.info.changetelemetry.accesskey "L">
 
 <!ENTITY setting.learnmore "Tìm hiểu thêm…">
 
@@ -247,4 +249,4 @@ một số tiện ích tốt nhất và thông dụng nhất để bạn thử."
      being a link to an external site. -->
 <!ENTITY disabledUnsigned.devInfo.start "Nếu bạn là lập trình viên và muốn tiện ích của mình được kiểm tra thì có thể đọc ">
 <!ENTITY disabledUnsigned.devInfo.linkToManual "tài liệu hướng dẫn">
-
+<!ENTITY disabledUnsigned.devInfo.end "của chúng tôi.">
