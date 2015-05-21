@@ -130,7 +130,7 @@
 <!ENTITY pref_category_search3 "Іздеу">
 <!ENTITY pref_category_search_summary "Іздеу қызметтерін баптаңыз">
 <!ENTITY pref_category_display "Көрініс">
-<!ENTITY pref_category_display_summary "Мәтін, атау жолығы, толық экранды шолу">
+<!ENTITY pref_category_display_summary "Мәтін, атау жолағы, толық экранды шолу">
 <!ENTITY pref_category_privacy_short "Жекелік">
 <!ENTITY pref_category_privacy_summary "Парольдер, cookies, бақылау, деректерді басқару">
 <!ENTITY pref_category_vendor "&vendorShortName;">
@@ -450,7 +450,7 @@ size. -->
      with the page title defined in aboutHome.dtd -->
 
 <!ENTITY home_title "&brandShortName; үй парағы">
-<!ENTITY home_history_title "Тарих">
+<!ENTITY home_history_title "Тарихы">
 <!ENTITY home_clear_history_button "Шолу тарихын тазарту">
 <!ENTITY home_clear_history_confirm "Тарихты өшіруді шынымен қалайсыз ба?">
 <!ENTITY home_bookmarks_empty "Сіз сақтаған бетбелгілер осында көрсетіледі.">
