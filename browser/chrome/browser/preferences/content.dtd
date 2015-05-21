@@ -2,11 +2,14 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY  popups.label                "Cửa sổ Pop-up">
+
 <!ENTITY  blockPopups.label           "Chặn các cửa sổ pop-up (B)">
 <!ENTITY  blockPopups.accesskey       "B">
-<!ENTITY  popupExceptions.label       "&amp;Ngoại trừ… (E)">
-<!ENTITY  popupExceptions.accesskey   "E">
+<!ENTITY  popupExceptions.label       "Ngoại lệ…">
+<!ENTITY  popupExceptions.accesskey   "N">
 
+<!ENTITY  fontsAndColors.label        "Phông &amp; Màu sắc">
 
 <!ENTITY  defaultFont.label           "Phông mặc định:">
 <!ENTITY  defaultFont.accesskey       "P">
@@ -25,7 +28,8 @@
 <!ENTITY chooseButton.label           "Chọn…">
 <!ENTITY chooseButton.accesskey       "C">
 
-
+<!ENTITY translateWebPages.label      "Dịch nội dung web">
+<!ENTITY translateWebPages.accesskey  "D">
 <!ENTITY translateExceptions.label    "Ngoại lệ... (x)">
 <!ENTITY translateExceptions.accesskey "x">
 <!-- LOCALIZATION NOTE (translation.options.attribution.beforeLogo,
@@ -39,6 +43,8 @@
 <!ENTITY translation.options.attribution.beforeLogo "Dịch bởi">
 <!ENTITY translation.options.attribution.afterLogo "">
 
+<!ENTITY  drmContent.label             "Nội dung có bảo vệ DRM">
 
-
+<!ENTITY  playDRMContent.label         "Phát nội dung có bảo vệ DRM">
+<!ENTITY  playDRMContent.accesskey     "P">
 <!ENTITY  playDRMContent.learnMore.label "Tìm hiểu thêm">

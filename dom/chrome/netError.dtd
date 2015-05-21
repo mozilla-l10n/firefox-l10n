@@ -38,7 +38,9 @@
 <!ENTITY contentEncodingError.longDesc "<p>Không thể hiển thị trang bạn đang muốn xem vì nó dùng một kiểu nén không được hỗ trợ hoặc không hợp lệ.</p><ul><li>Vui lòng liên hệ với chủ trang web để báo họ vấn đề này.</li></ul>">
 
 <!ENTITY unsafeContentType.title "Kiểu tập tin không an toàn">
-
+<!ENTITY unsafeContentType.longDesc "<ul> 
+<li>Vui lòng liên hệ với chủ trang web để báo với họ về vấn đề này.</li> 
+</ul>">
 
 <!ENTITY netReset.title "Kết nối bị ngắt giữa chừng">
 <!ENTITY netReset.longDesc "<p>Liên kết mạng bị ngắt trong khi đang tiến hành kết nối. Vui lòng thử lại.</p>">
@@ -74,7 +76,8 @@
 <!ENTITY malwareBlocked.longDesc "<p>Trang ác ý là các trang cố gắng cài đặt các chương trình ăn cắp thông tin cá nhân, dùng máy của bạn để tấn công máy khác, hoặc làm hư hệ thống của bạn.</p> 
 <p>Các chủ trang web tin rằng trang của mình bị cảnh báo nhầm có thể <a href='http://www.stopbadware.org/home/reviewinfo' >đề nghị đánh giá lại</a>.</p>">
 
-
+<!ENTITY unwantedBlocked.title "Nghi ngờ trang có cài đặt phần mềm không mong muốn!">
+<!ENTITY unwantedBlocked.longDesc "<p>Các trang này cố gắng cài những phần mềm lừa đảo và ảnh hưởng đến hệ thống của bạn theo nhiều cách không thể ngờ được.</p>">
 
 <!ENTITY phishingBlocked.title "Nghi ngờ trang web giả mạo!">
 <!ENTITY phishingBlocked.longDesc "<p>Nếu bạn nhập bất kì thông tin nào vào trang này thì có thể dẫn đến việc bị trộm danh tính hoặc gặp các hình thức lừa đảo khác.</p>

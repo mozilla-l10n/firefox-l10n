@@ -121,7 +121,8 @@
 <!ENTITY malwareBlocked.longDesc "<p>Trang ác ý là các trang cố gắng cài đặt các chương trình ăn cắp thông tin cá nhân, dùng máy của bạn để tấn công máy khác, hoặc làm hư hệ thống của bạn.</p> 
 <p>Các chủ trang web tin rằng trang của mình bị cảnh báo nhầm có thể <a href='http://www.stopbadware.org/home/reviewinfo' >đề nghị đánh giá lại</a>.</p>">
 
-
+<!ENTITY unwantedBlocked.title "Nghi ngờ trang cài đặt phần mềm không mong muốn!">
+<!ENTITY unwantedBlocked.longDesc "<p>Các trang này cố cài đặt các phần mềm lừa đảo và có thể ảnh hưởng đến hệ thống của bạn theo nhiều cách khó lường.</p>">
 
 <!ENTITY phishingBlocked.title "Nghi ngờ trang web giả mạo!">
 <!ENTITY phishingBlocked.longDesc "<p>Nếu bạn nhập bất kì thông tin nào vào trang này thì có thể dẫn đến việc bị trộm danh tính hoặc gặp các hình thức lừa đảo khác.</p>
