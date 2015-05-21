@@ -247,5 +247,6 @@ bestu og vinsælustu viðbætur fyrir þig að prófa.">
 <!-- LOCALIZATION NOTE (disabledUnsigned.devInfo.start, disabledUnsigned.devInfo.linkToManual, disabledUnsigned.devInfo.end):
      These entities form a sentence, with disabledUnsigned.devInfo.linkToManual
      being a link to an external site. -->
-
-
+<!ENTITY disabledUnsigned.devInfo.start "Þeir forritarar sem eru áhugasamir um að staðfesta viðbæturnar sínar geta prófað að lesa ">
+<!ENTITY disabledUnsigned.devInfo.linkToManual "handbókina">
+<!ENTITY disabledUnsigned.devInfo.end " okkar.">
