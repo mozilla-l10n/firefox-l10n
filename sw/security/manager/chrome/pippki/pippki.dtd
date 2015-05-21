@@ -14,11 +14,6 @@
 <!ENTITY resetPasswordButtonLabel "Weka upya">
 <!ENTITY resetPassword.title  "Weka Upya Nywila Kuu">
 
-<!-- Values for getpassword.xul -->
-
-<!ENTITY getPassword.title  "Ingiza Nywila Kuu">
-<!ENTITY getPassword.tokenName2.label "Kifaa cha Usalama:">
-<!ENTITY getPassword.password.label "Nywila:">
 <!-- Downloading a cert -->
 
 
@@ -41,12 +36,6 @@
 
 
 
-
-
-
-
-<!ENTITY examineCert.label "Angalia Cheti">
-<!ENTITY examineCert.accesskey "A">
 <!-- Strings for the CreateCertInfo dialog  -->
 
 <!ENTITY createCertInfo.msg2 "Tafadhali subiri…">

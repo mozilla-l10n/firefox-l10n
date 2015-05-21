@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY window.title                 "Mambo ya pekee">
-<!ENTITY window.width                 "36em">
+
 
 <!ENTITY treehead.sitename.label      "Tovuti">
 <!ENTITY treehead.status.label        "Hadhi">
@@ -21,6 +21,7 @@
 <!ENTITY allow.accesskey              "R">
 <!ENTITY windowClose.key              "w">
 
-<!ENTITY button.close.label           "Funga">
-<!ENTITY button.close.accesskey       "F">
+
+
+
 

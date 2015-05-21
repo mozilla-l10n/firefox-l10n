@@ -22,7 +22,7 @@
 <!ENTITY  generalReferrer       "Kurejelea URL:">
 <!ENTITY  generalSource         "Chanzo cha Kache:">
 <!ENTITY  generalModified       "Ilirekebishwa:">
-<!ENTITY  generalEncoding       "Usimbaji:">
+
 <!ENTITY  generalMetaName       "Jina">
 <!ENTITY  generalMetaContent    "Maudhui">
 
@@ -82,3 +82,5 @@
 <!ENTITY  securityView.privacy.viewPasswords.accessKey  "w">
 
 <!ENTITY  securityView.technical.header                 "Maelezo ya Ufundi">
+
+<!ENTITY  helpButton.label                              "Msaada">

@@ -13,10 +13,11 @@
 <!ENTITY restorepage.startNew       "Kuanza kikao kipya kabisa cha kuvinjari">
 
 <!ENTITY restorepage.tryagainButton "Rejesha">
-
+<!ENTITY restorepage.restore.access "R">
 <!ENTITY restorepage.closeButton    "Funga">
+<!ENTITY restorepage.close.access   "C">
 
-
+<!ENTITY restorepage.restoreHeader  "Rejesha">
 <!ENTITY restorepage.listHeader     "Dirisha na Vichupo">
 <!-- LOCALIZATION NOTE: &#37;S will be replaced with a number. -->
 <!ENTITY restorepage.windowLabel    "Dirisha &#037;S">

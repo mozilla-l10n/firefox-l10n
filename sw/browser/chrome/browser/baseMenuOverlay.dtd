@@ -1,6 +1,8 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY minimizeWindow.key       "m">
 <!ENTITY minimizeWindow.label     "Punguza">
 <!ENTITY bringAllToFront.label    "Leta Yote Mbele">
 <!ENTITY zoomWindow.label         "Kuza">
@@ -10,18 +12,21 @@
 <!ENTITY helpMenu.accesskey       "M"> 
 <!-- LOCALIZATION NOTE some localizations of Windows (ex:french, german) use "?"
                        for the help button in the menubar but Gnome does not.   -->
+<!ENTITY helpMenuWin.label        "Msaada"> 
+<!ENTITY helpMenuWin.accesskey    "M">
 
 
 
 
-
-
+<!ENTITY helpMac.commandkey       "?">
 
 <!ENTITY helpKeyboardShortcuts.label     "Njiamkato za Kibodi">
 <!ENTITY helpKeyboardShortcuts.accesskey "N">
 
 <!ENTITY helpSafeMode.label       "Anzisha tena na Vifaa vya Nyongeza Vilivyolemazwa…">
 <!ENTITY helpSafeMode.accesskey   "A">
+
+
 
 
 
@@ -34,13 +39,13 @@
 
 
 <!ENTITY preferencesCmdMac.label        "Mapendeleo…">
-
+<!ENTITY preferencesCmdMac.commandkey   ",">
 
 <!ENTITY servicesMenuMac.label          "Huduma">
 
-
+<!ENTITY hideThisAppCmdMac2.commandkey  "H">
 
 <!ENTITY hideOtherAppsCmdMac.label      "Ficha Mengine">
-
+<!ENTITY hideOtherAppsCmdMac.commandkey "H">
 
 <!ENTITY showAllAppsCmdMac.label        "Onyesha Yote">

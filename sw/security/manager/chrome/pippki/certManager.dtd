@@ -36,10 +36,6 @@
 
 
 
-
-
-
-
 <!ENTITY certmgr.tokenname                    "Kifaa cha Usalama">
 
 
@@ -50,8 +46,6 @@
 <!ENTITY certmgr.close.accesskey              "F">
 <!ENTITY certmgr.view2.label                  "Mionekano…">
 <!ENTITY certmgr.view2.accesskey              "M">
-
-
 
 
 <!ENTITY certmgr.export.label                 "Leta…">

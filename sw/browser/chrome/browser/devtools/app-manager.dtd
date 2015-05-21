@@ -69,12 +69,12 @@
 
 <!ENTITY projects.addHosted "Ongeza Programu Iliyopangishwa">
 
-
+<!ENTITY projects.title "Programu za Ndani">
 <!ENTITY projects.appDetails "Ongeza Maelezo">
 
 <!ENTITY projects.updateApp "Sasaisha">
 
-
+<!ENTITY projects.debugApp "Tatua   ">
 <!ENTITY projects.debugAppTooltip "Fungua Zana za Msanidi programu zilizounganishwa kwenye programu hii">
 
 
