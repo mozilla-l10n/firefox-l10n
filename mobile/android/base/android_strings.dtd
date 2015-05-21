@@ -179,6 +179,7 @@
 <!ENTITY pref_private_data_offlineApps "Dati non in linea dei siti web">
 <!ENTITY pref_private_data_siteSettings2 "Impostazioni siti">
 <!ENTITY pref_private_data_downloadFiles2 "Download">
+<!ENTITY pref_private_data_syncedTabs "Schede sincronizzate">
 <!ENTITY pref_about_firefox "Informazioni su &brandShortName;">
 <!ENTITY pref_vendor_faqs "FAQ">
 <!ENTITY pref_vendor_feedback "Invia feedback">
