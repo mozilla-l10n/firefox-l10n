@@ -45,8 +45,8 @@
 <!ENTITY emailCollectionPicker.accesskey       "S">
 <!ENTITY addressingTitle.label                 "Samodokončanje naslova">
 <!ENTITY autocompleteText.label                "Pri naslavljanju sporočil išči ustrezne vnose v:">
-<!ENTITY addressingEnable.label                "lokalnih imenikih">
-<!ENTITY addressingEnable.accesskey            "o">
+<!ENTITY addressingEnable.label                "krajevnih imenikih">
+<!ENTITY addressingEnable.accesskey            "k">
 <!ENTITY directories.label                     "imeniškem strežniku:">
 <!ENTITY directories.accesskey                 "m">
 <!ENTITY directoriesNone.label                 "Brez">
