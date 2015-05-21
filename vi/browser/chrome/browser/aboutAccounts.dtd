@@ -5,5 +5,5 @@
 <!ENTITY aboutAccounts.welcome "Chào mừng đến với &syncBrand.shortName.label;">
 
 
-
+<!ENTITY aboutAccountsConfig.useOldSync.label "Bạn đang dùng bản Sync cũ?">
 <!ENTITY aboutAccountsConfig.manage.label "Quản lý">

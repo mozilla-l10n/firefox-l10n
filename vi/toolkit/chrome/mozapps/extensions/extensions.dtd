@@ -186,7 +186,7 @@ một số tiện ích tốt nhất và thông dụng nhất để bạn thử."
 <!ENTITY search.filter2.available.tooltip     "Hiển thị các tiện ích hiện có để cài đặt">
 
 <!ENTITY addon.homepage                       "Trang chủ">
-<!ENTITY addon.details.label                  "Thêm">
+<!ENTITY addon.details.label                  "Chi tiết thêm">
 <!ENTITY addon.details.tooltip                "Hiện thêm chi tiết về tiện ích này">
 <!ENTITY addon.unknownDate                    "Không rõ">
 <!-- LOCALIZATION NOTE (addon.disabled.postfix): This is used in a normal list
