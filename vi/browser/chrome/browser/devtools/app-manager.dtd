@@ -39,7 +39,7 @@
 
 
 
-
+<!ENTITY connection.disconnect "Ngắt kết nối">
 
 <!ENTITY connection.notConnected2 "Chưa kết nối.">
 <!ENTITY connection.connectTo "Kết nối tới:">

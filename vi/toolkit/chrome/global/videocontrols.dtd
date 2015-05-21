@@ -8,7 +8,7 @@
 <!ENTITY muteButton.unmuteLabel "Bật tiếng">
 <!ENTITY fullscreenButton.enterfullscreenlabel "Toàn màn hình">
 <!ENTITY fullscreenButton.exitfullscreenlabel "Thoát chế độ Toàn màn hình">
-
+<!ENTITY castingButton.castingLabel "Chiếu ra màn hình">
 
 <!ENTITY stats.media "Đa phương tiện">
 <!ENTITY stats.size "Dung lượng">

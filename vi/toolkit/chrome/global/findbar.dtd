@@ -5,7 +5,7 @@
 <!-- LOCALIZATION NOTE : FILE use the Find Bar. --> 
 
 
-<!ENTITY next.tooltip "sau Tìm cụm từ ở phần">
+<!ENTITY next.tooltip "Tìm cụm từ ở phần sau">
 <!ENTITY previous.tooltip "Tìm cụm từ ở phần trước">
 <!ENTITY findCloseButton.tooltip "Đóng thanh Tìm kiếm">
 <!ENTITY highlightAll.label "Tô sáng tất cả">

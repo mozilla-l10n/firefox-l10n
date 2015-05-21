@@ -12,7 +12,8 @@
 
 <!ENTITY aboutPrivateBrowsing.notPrivate       "Bạn đang ở cửa sổ không phải riêng tư.">
 
-
+<!ENTITY aboutPrivateBrowsing.moreInfo         "Mặc dù máy tính này sẽ không ghi lại nhật ký duyệt web của bạn, nhà cung cấp Internet hoặc công ty của bạn vẫn có thể biết những trang mà bạn vào.">
+<!ENTITY aboutPrivateBrowsing.learnMore        "Tìm hiểu thêm.">
 
 <!ENTITY privatebrowsingpage.openPrivateWindow.label "Mở một cửa sổ riêng tư">
 <!ENTITY privatebrowsingpage.openPrivateWindow.accesskey "P">
