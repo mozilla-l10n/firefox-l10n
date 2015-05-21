@@ -103,8 +103,8 @@
 <!-- LOCALIZATION NOTE (options.enableServiceWorkersHTTP.label,
   -  options.enableServiceWorkersHTTP.tooltip): This is the options panel label and
   -  tooltip for the checkbox that toggles the service workers testing features on or off. This option enables service workers over HTTP. -->
-<!ENTITY options.enableServiceWorkersHTTP.label     "Enable Service Workers over HTTP (when toolbox is open)">
-<!ENTITY options.enableServiceWorkersHTTP.tooltip   "Turning this option on will enable the service workers over HTTP for all tabs that have the toolbox open.">
+<!ENTITY options.enableServiceWorkersHTTP.label     "Увімкнути Service Workers поверх HTTP (коли відкрита панель інструментів)">
+<!ENTITY options.enableServiceWorkersHTTP.tooltip   "Увімкнення цього параметра активує Service Workers поверх HTTP для всіх вкладок, які мають відкриту панель інструментів.">
 
 <!-- LOCALIZATION NOTE (options.selectDefaultTools.label): This is the label for
   -  the heading of group of checkboxes corresponding to the default developer

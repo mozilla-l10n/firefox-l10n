@@ -84,7 +84,7 @@
 <!ENTITY btnConsoleServiceWorkers "Service Workers">
 <!-- LOCALIZATION NODE (btnConsoleWindowlessWorkers) the term "Workers"
   -  should not be translated. -->
-<!ENTITY btnConsoleWindowlessWorkers "Add-on or Chrome Workers">
+<!ENTITY btnConsoleWindowlessWorkers "Workers додатку чи Chrome">
 
 <!ENTITY filterOutput.placeholder "Відсіяти вивід">
 <!ENTITY btnClear.label        "Очистити">
