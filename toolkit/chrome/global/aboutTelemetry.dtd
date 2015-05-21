@@ -13,8 +13,8 @@
 <!ENTITY aboutTelemetry.showArchivedPingData "Ping dati archiviati">
 <!ENTITY aboutTelemetry.showSubsessionData "Visualizza dati sottosessione">
 <!ENTITY aboutTelemetry.choosePing "Scegli ping:">
-<!ENTITY aboutTelemetry.showPreviousPing "&lt;&lt; Ping precedente">
-<!ENTITY aboutTelemetry.showNextPing "Ping successivo &gt;&gt;">
+<!ENTITY aboutTelemetry.showNewerPing "&lt;&lt; Ping più recente">
+<!ENTITY aboutTelemetry.showOlderPing "Ping più vecchio &gt;&gt;">
 <!ENTITY aboutTelemetry.generalDataSection "Dati generali">
 <!ENTITY aboutTelemetry.environmentDataSection "Dati ambiente">
 <!ENTITY aboutTelemetry.telemetryLogSection "Registro telemetria">
