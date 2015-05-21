@@ -12,9 +12,10 @@
 <!ENTITY aboutTelemetry.pingDataSource "Źródło danych ping:">
 <!ENTITY aboutTelemetry.showCurrentPingData "Bieżące">
 <!ENTITY aboutTelemetry.showArchivedPingData "Archiwum">
-<!ENTITY aboutTelemetry.choosePing "Ping:">
-<!ENTITY aboutTelemetry.showPreviousPing "&lt;&lt; Poprzedni">
-<!ENTITY aboutTelemetry.showNextPing "Następny &gt;&gt;">
+<!ENTITY aboutTelemetry.showSubsessionData "Dane subsesji">
+<!ENTITY aboutTelemetry.choosePing "Pingi:">
+<!ENTITY aboutTelemetry.showNewerPing "&lt;&lt; Nowsze">
+<!ENTITY aboutTelemetry.showOlderPing "Starsze &gt;&gt;">
 
 <!ENTITY aboutTelemetry.generalDataSection "Ogólne">
 <!ENTITY aboutTelemetry.environmentDataSection "Dane środowiska">
