@@ -12,7 +12,9 @@
 <!ENTITY safeb.blocked.malwarePage.shortDesc "Trang web tại <span id='malware_sitename'/> được báo cáo là trang web ác ý và đã bị chặn dựa trên tùy chỉnh bảo mật của bạn.">
 <!ENTITY safeb.blocked.malwarePage.longDesc "<p>Trang ác ý cố gắng cài đặt các chương trình để ăn cắp thông tin cá nhân, dùng máy của bạn để tấn công máy khác, hoặc làm hư hệ thống của bạn.</p><p>Một số trang ác ý cố tình phân phối phần mềm độc hại, nhưng đa số đã bị sửa đổi mà không được phép hoặc người sở hữu không được biết.</p>">
 
+<!ENTITY safeb.blocked.unwantedPage.title "Trang này có thể cài đặt phần mềm không mong muốn!">
 <!-- Localization note (safeb.blocked.malware.shortDesc) - Please don't translate the contents of the <span id="unwanted_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
+<!ENTITY safeb.blocked.unwantedPage.shortDesc "Trang web tại <span id='unwanted_sitename'/> được báo cáo là có chứa phần mềm không mong muốn và đã bị chặn dựa trên tùy chỉnh bảo mật của bạn.">
 
 
 <!ENTITY safeb.blocked.phishingPage.title "Trang web Giả mạo Đã biết!">
