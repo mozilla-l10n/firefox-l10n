@@ -18,5 +18,5 @@
 
 <!ENTITY safeb.blocked.unwantedPage.title "Gerapporteerde website met ongewenste software!">
 <!-- Localization note (safeb.blocked.unwanted.shortDesc) - Please don't translate the contents of the <span id="unwanted_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
-<!ENTITY safeb.blocked.unwantedPage.shortDesc "Deze webpagina op <span id='unwanted_sitename'/> is gerapporteerd als een website die ongewenste software bevat en is geblokkeerd op basis van uw beveiligingsinstellingen.">
+<!ENTITY safeb.blocked.unwantedPage.shortDesc "Deze webpagina op <span id='unwanted_sitename'/> is gerapporteerd als een webpagina die ongewenste software bevat en is geblokkeerd op basis van uw beveiligingsinstellingen.">
 <!ENTITY safeb.blocked.unwantedPage.longDesc "Pagina’s met ongewenste software proberen software te installeren die misleidend kan zijn en uw systeem op onverwachte manieren kan beïnvloeden.">
