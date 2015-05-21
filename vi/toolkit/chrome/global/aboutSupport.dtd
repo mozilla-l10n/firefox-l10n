@@ -9,23 +9,25 @@
 đang cố giải quyết một vấn đề. Nếu bạn đang tìm câu trả lời cho các câu hỏi thông thường 
 về &brandShortName;, hãy xem <a id='supportLink'>trang web hỗ trợ</a> của chúng tôi.">
 
+<!ENTITY aboutSupport.crashes.title "Trình báo lỗi">
 <!-- LOCALIZATION NOTE (aboutSupport.crashes.id):
 This is likely the same like id.heading in crashes.dtd. -->
 <!ENTITY aboutSupport.crashes.id "Định danh Báo cáo">
-
-
-
+<!ENTITY aboutSupport.crashes.sendDate "Đã gửi">
+<!ENTITY aboutSupport.crashes.allReports "Tất cả các báo cáo lỗi">
+<!ENTITY aboutSupport.crashes.noConfig "Ứng dụng này chưa được thiết lập để hiển thị các báo cáo lỗi.">
 
 <!ENTITY aboutSupport.extensionsTitle "Phần mở rộng">
 <!ENTITY aboutSupport.extensionName "Tên">
 <!ENTITY aboutSupport.extensionEnabled "Kích hoạt">
 <!ENTITY aboutSupport.extensionVersion "Phiên bản">
+<!ENTITY aboutSupport.extensionId "ID">
 
-
-
-
+<!ENTITY aboutSupport.experimentsTitle "Các tính năng thử nghiệm">
+<!ENTITY aboutSupport.experimentName "Tên">
+<!ENTITY aboutSupport.experimentId "ID">
 <!ENTITY aboutSupport.experimentDescription "Mô tả">
-
+<!ENTITY aboutSupport.experimentActive "Đã bật">
 <!ENTITY aboutSupport.experimentEndDate "Ngày kết thúc">
 <!ENTITY aboutSupport.experimentHomepage "Trang chủ">
 
@@ -95,5 +97,7 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.copyTextToClipboard.label "Sao chép đoạn chữ vào clipboard">
 <!ENTITY aboutSupport.copyRawDataToClipboard.label "Sao chép dữ liệu thô vào clipboard">
 
+<!ENTITY aboutSupport.sandboxTitle "Sandbox">
 
-
+<!ENTITY aboutSupport.safeModeTitle "Thử dùng Chế độ an toàn">
+<!ENTITY aboutSupport.restartInSafeMode.label "Khởi động lại, tắt hết các tiện ích…">

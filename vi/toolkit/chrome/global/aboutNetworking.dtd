@@ -11,15 +11,15 @@
 <!ENTITY aboutNetworking.dns                   "DNS">
 <!ENTITY aboutNetworking.websockets            "WebSockets">
 <!ENTITY aboutNetworking.refresh               "Cập nhật">
-
-
-
-
-
-
-
-
-
+<!ENTITY aboutNetworking.autoRefresh           "Tự tải lại sau 3 giây">
+<!ENTITY aboutNetworking.hostname              "Tên máy">
+<!ENTITY aboutNetworking.port                  "Cổng">
+<!ENTITY aboutNetworking.spdy                  "SPDY">
+<!ENTITY aboutNetworking.ssl                   "SSL">
+<!ENTITY aboutNetworking.active                "Đang hoạt động">
+<!ENTITY aboutNetworking.idle                  "Đang nghỉ">
+<!ENTITY aboutNetworking.host                  "Máy chủ">
+<!ENTITY aboutNetworking.tcp                   "TCP">
 <!ENTITY aboutNetworking.sent                  "Đã gửi">
 <!ENTITY aboutNetworking.received              "Đã nhận">
 <!ENTITY aboutNetworking.family                "Nhóm">
