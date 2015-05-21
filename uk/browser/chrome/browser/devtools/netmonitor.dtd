@@ -126,8 +126,8 @@
 
 <!-- LOCALIZATION NOTE (netmonitorUI.footer.filterFreetext): This is the label displayed
   -  in the network details footer for the url filtering textbox. -->
-<!ENTITY netmonitorUI.footer.filterFreetext.label  "Filter URLs">
-<!ENTITY netmonitorUI.footer.filterFreetext.key  "F">
+<!ENTITY netmonitorUI.footer.filterFreetext.label  "Фільтр URL">
+<!ENTITY netmonitorUI.footer.filterFreetext.key  "Ф">
 
 <!-- LOCALIZATION NOTE (netmonitorUI.footer.clear): This is the label displayed
   -  in the network details footer for the "Clear" button. -->
@@ -254,15 +254,15 @@
 
 <!-- LOCALIZATION NOTE (netmonitorUI.context.copyUrl.accesskey): This is the access key
   -  for the Copy URL menu item displayed in the context menu for a request -->
-<!ENTITY netmonitorUI.context.copyUrl.accesskey "К">
+<!ENTITY netmonitorUI.context.copyUrl.accesskey "к">
 
 <!-- LOCALIZATION NOTE (netmonitorUI.context.copyUrlParams): This is the label displayed
   -  on the context menu that copies the selected request's url parameters -->
-<!ENTITY netmonitorUI.context.copyUrlParams     "Copy URL Parameters">
+<!ENTITY netmonitorUI.context.copyUrlParams     "Копіювати параметри URL">
 
 <!-- LOCALIZATION NOTE (netmonitorUI.context.copyUrlParams.accesskey): This is the access key
   -  for the Copy URL Parameters menu item displayed in the context menu for a request -->
-<!ENTITY netmonitorUI.context.copyUrlParams.accesskey "P">
+<!ENTITY netmonitorUI.context.copyUrlParams.accesskey "п">
 
 <!-- LOCALIZATION NOTE (netmonitorUI.context.copyAsCurl): This is the label displayed
   -  on the context menu that copies the selected request as a cURL command.
@@ -272,35 +272,35 @@
 
 <!-- LOCALIZATION NOTE (netmonitorUI.context.copyAsCUrl.accesskey): This is the access key
   -  for the Copy as cURL menu item displayed in the context menu for a request -->
-<!ENTITY netmonitorUI.context.copyAsCurl.accesskey "C">
+<!ENTITY netmonitorUI.context.copyAsCurl.accesskey "о">
 
 <!-- LOCALIZATION NOTE (netmonitorUI.context.copyRequestHeaders): This is the label displayed
   -  on the context menu that copies the selected item's request headers -->
-<!ENTITY netmonitorUI.context.copyRequestHeaders     "Copy Request Headers">
+<!ENTITY netmonitorUI.context.copyRequestHeaders     "Копіювати заголовки запиту">
 
 <!-- LOCALIZATION NOTE (netmonitorUI.context.copyRequestHeaders.accesskey): This is the access key
   -  for the Copy Request Headers menu item displayed in the context menu for a request -->
-<!ENTITY netmonitorUI.context.copyRequestHeaders.accesskey  "Q">
+<!ENTITY netmonitorUI.context.copyRequestHeaders.accesskey  "з">
 
 <!-- LOCALIZATION NOTE (netmonitorUI.context.copyResponseHeaders): This is the label displayed
   -  on the context menu that copies the selected item's response headers -->
-<!ENTITY netmonitorUI.context.copyResponseHeaders     "Copy Response Headers">
+<!ENTITY netmonitorUI.context.copyResponseHeaders     "Копіювати заголовки відповіді">
 
 <!-- LOCALIZATION NOTE (netmonitorUI.context.copyResponseHeaders.accesskey): This is the access key
   -  for the Copy Response Headers menu item displayed in the context menu for a response -->
-<!ENTITY netmonitorUI.context.copyResponseHeaders.accesskey  "S">
+<!ENTITY netmonitorUI.context.copyResponseHeaders.accesskey  "в">
 
 <!-- LOCALIZATION NOTE (netmonitorUI.context.copyResponse): This is the label displayed
   -  on the context menu that copies the selected response as a string -->
-<!ENTITY netmonitorUI.context.copyResponse "Copy Response">
+<!ENTITY netmonitorUI.context.copyResponse "Копіювати відповідь">
 
 <!-- LOCALIZATION NOTE (netmonitorUI.context.copyRespose.accesskey): This is the access key
   -  for the Copy Response menu item displayed in the context menu for a request -->
-<!ENTITY netmonitorUI.context.copyResponse.accesskey  "R">
+<!ENTITY netmonitorUI.context.copyResponse.accesskey  "і">
 
 <!-- LOCALIZATION NOTE (netmonitorUI.context.copyImageAsDataUri): This is the label displayed
   -  on the context menu that copies the selected image as data uri -->
-<!ENTITY netmonitorUI.context.copyImageAsDataUri "Копіювати малюнок як Data URI">
+<!ENTITY netmonitorUI.context.copyImageAsDataUri "Копіювати зображення як URL даних">
 
 <!-- LOCALIZATION NOTE (netmonitorUI.context.copyImageAsDataUri.accesskey): This is the access key
   -  for the Copy Image As Data URI menu item displayed in the context menu for a request -->
