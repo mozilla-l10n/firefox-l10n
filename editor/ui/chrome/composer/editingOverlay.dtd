@@ -33,6 +33,6 @@
 <!ENTITY newToolbarCmd.label "Novo">
 <!ENTITY newToolbarCmd.tooltip "Ustvari novo stran Sestavljalnika">
 <!ENTITY openToolbarCmd.label "Odpri">
-<!ENTITY openToolbarCmd.tooltip "Odpri lokalno datoteko">
-<!ENTITY saveToolbarCmd.tooltip "Shrani datoteko na lokalno mesto">
+<!ENTITY openToolbarCmd.tooltip "Odpri krajevno datoteko">
+<!ENTITY saveToolbarCmd.tooltip "Shrani datoteko na krajevno mesto">
 <!ENTITY publishToolbarCmd.tooltip "Prenesi datoteko na oddaljeno mesto">
