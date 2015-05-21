@@ -6,8 +6,8 @@
 <!ENTITY  no_space_to_start_error "Na spustenie prehliadača &brandShortName; nie je dostatok miesta.">
 <!ENTITY  error_loading_file "Pri načítavaní súborov potrebných na spustenie prehliadača &brandShortName; sa vyskytla chyba.">
 
-<!ENTITY  onboard_start_message2 "Víta Vás &brandShortName;">
-<!ENTITY  onboard_start_subtext2 "Ešte viac ochrany súkromia a spôsobov prispôsobenia">
+<!ENTITY  onboard_start_message3 "Prehliadate pomocou prehladača &brandShortName;">
+<!ENTITY  onboard_start_subtext3 "Zážitok z mobilného prehliadania webu presne taký, ako ho chcete.">
 <!ENTITY  onboard_start_button_account "Prihlásiť sa k &brandShortName;u">
 <!ENTITY  onboard_start_button_browser "Začať prehliadať">
 
@@ -114,7 +114,6 @@
      to. -->
 <!ENTITY overlay_share_send_tab_btn_label "Odoslať do ďalšieho zariadenia">
 <!ENTITY overlay_share_no_url "Nebol nájdený žiadny odkaz na zdieľanie">
-<!ENTITY overlay_share_retry "Skúsiť znova">
 <!ENTITY overlay_share_select_device "Zvoľte zariadenie">
 <!-- Localization note (overlay_no_synced_devices) : Used when the menu option
      to send a tab to a synced device is pressed and no other synced devices
@@ -150,8 +149,6 @@
      it is applicable. -->
 <!ENTITY pref_search_hint "Tip: akúkoľvek stránku pridáte dlhým podržaním jej vyhľadávacieho poľa a následne ťuknutím na ikonu &formatI;.">
 <!ENTITY pref_category_devtools "Vývojárske nástroje">
-<!ENTITY pref_category_devtools_summary "Vzdialené ladenie, zvýrazňovanie prekresľovania">
-<!ENTITY pref_developer_paint_flashing "Zvýrazniť prekresľovanie">
 <!ENTITY pref_developer_remotedebugging "Vzdialené ladenie">
 <!ENTITY pref_category_logins "Heslá">
 <!ENTITY pref_remember_signons "Pamätať si heslá">
@@ -192,22 +189,22 @@
 <!ENTITY pref_donottrack_title "Funkcia Do not track">
 <!ENTITY pref_donottrack_summary "&brandShortName; požiada webové stránky, aby nesledovali vašu aktivitu">
 
-<!ENTITY tab_queue_toast_message "Otvoriť neskôr">
+<!ENTITY tab_queue_toast_message2 "Fronta kariet v &brandShortName;">
 <!ENTITY tab_queue_toast_action "Otvoriť teraz">
-<!-- Localization note (tab_queue_notification_text_plural) : The
+<!ENTITY tab_queue_prompt_title "Otvoriť viaceré odkazy?">
+<!ENTITY tab_queue_prompt_text2 "Otvoriť bez prepínania na &brandShortName; po každom odkaze.">
+<!ENTITY tab_queue_prompt_tip_text "Toto nastavenie môžete neskôr zmeniť v Nastaveniach">
+<!ENTITY tab_queue_prompt_positive_action_button "Povoliť">
+<!ENTITY tab_queue_prompt_negative_action_button "Teraz nie">
+<!ENTITY tab_queue_notification_title "&brandShortName;">
+<!-- Localization note (tab_queue_notification_text_plural2) : The
      formatD is replaced with the number of tabs queued.  The
      number of tabs queued is always more than one.  We can't use
      Android plural forms, sadly. See Bug #753859. -->
-<!ENTITY tab_queue_notification_text_plural "Pridané do fronty: &formatD;">
-<!-- Localization note (tab_queue_notification_title_plural) : This is the
-     title of a notification; we expect more than one tab queued. -->
-<!ENTITY tab_queue_notification_title_plural "Karty pridané do fronty">
-<!-- Localization note (tab_queue_notification_title_singular) : This is the
-     title of a notification; we expect only one tab queued. -->
-<!ENTITY tab_queue_notification_title_singular "Karta pridaná do fronty">
-<!-- Localization note (tab_queue_notification_text_singular) : This is the
+<!ENTITY tab_queue_notification_text_plural2 "Čakajúce karty: &formatD;">
+<!-- Localization note (tab_queue_notification_text_singular2) : This is the
      text of a notification; we expect only one tab queued. -->
-<!ENTITY tab_queue_notification_text_singular "Pridané do fronty: 1">
+<!ENTITY tab_queue_notification_text_singular2 "Čakajúce karty: 1">
 
 <!ENTITY pref_char_encoding "Kódovanie znakov">
 <!ENTITY pref_char_encoding_on "Zobrazovať ponuku">
@@ -256,7 +253,8 @@ size. -->
 <!ENTITY pref_import_android "Import z Androidu">
 <!ENTITY pref_import_android_summary "Import záložiek a histórie z natívneho prehliadača">
 <!ENTITY pref_private_data_history2 "História prehliadania">
-<!ENTITY pref_private_data_formdata "História vyhľadávania a formulárov">
+<!ENTITY pref_private_data_searchHistory "História vyhľadávania">
+<!ENTITY pref_private_data_formdata2 "Údaje zadané do formulárov">
 <!ENTITY pref_private_data_cookies2 "Cookies a aktívne prihlásenia">
 <!ENTITY pref_private_data_passwords "Uložené heslá">
 <!ENTITY pref_private_data_cache "Vyrovnávacia pamäť">
@@ -381,6 +379,7 @@ size. -->
 <!ENTITY doorhanger_login_edit_username_hint "Používateľské meno">
 <!ENTITY doorhanger_login_edit_password_hint "Heslo">
 <!ENTITY doorhanger_login_edit_toggle "Zobraziť heslo">
+<!ENTITY doorhanger_login_edit_toast_error "Prihlasovacie údaje sa nepodarilo uložiť">
 
 <!ENTITY pref_titlebar_mode "Panel s titulkom okna">
 <!ENTITY pref_titlebar_mode_title "Zobrazovať titulok stránky">
@@ -391,8 +390,8 @@ size. -->
 <!ENTITY pref_scroll_title_bar2 "Prehliadanie na celú obrazovku">
 <!ENTITY pref_scroll_title_bar_summary "Skrýva titulok okna &brandShortName;u počas posúvania stránky">
 
-<!ENTITY pref_tab_queue_title "Oneskorené otvorenie">
-<!ENTITY pref_tab_queue_summary "Zabráni okamžitému otvoreniu kariet. Všetky karty budú uložené do fronty a otvorené pri najbližšom spustení prehliadača &brandShortName;.">
+<!ENTITY pref_tab_queue_title2 "Otvorenie viacerých odkazov naraz">
+<!ENTITY pref_tab_queue_summary2 "Odkazy ukladá do fronty namiesto prepnutia do prehliadača &brandShortName; po každom odkaze.">
 
 <!-- Localization note (page_removed): This string appears in a toast message when
      any page is removed frome about:home. This includes pages that are in history,
@@ -441,6 +440,8 @@ size. -->
 <!ENTITY button_set "Nastaviť">
 <!ENTITY button_clear "Vymazať">
 <!ENTITY button_remember "Zapamätať">
+
+<!ENTITY firstrun_panel_title_welcome "Vitajte">
 
 <!ENTITY home_top_sites_title "Top stránky">
 <!-- Localization note (home_top_sites_add): This string is used as placeholder
@@ -610,6 +611,14 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY ellipsis "…">
 
 <!ENTITY colon ":">
+
+<!-- LOCALIZATION NOTE (percent): The percent sign is appended after a number to
+     display a percentage value. formatS is the number, #37 is the code to display a percent sign.
+     This format string is typically used by getString method, in such method the percent sign
+     is a reserved caracter. In order to display one percent sign in the result of getString,
+     double percent signs must be inserted in the format string.
+     This entity is used in the zoomed view to display the zoom factor-->
+<!ENTITY percent "&formatS;&#37;&#37;">
 
 <!-- These are only used for accessibility for the done and overflow-menu buttons in the actionbar.
      They are never shown to users -->

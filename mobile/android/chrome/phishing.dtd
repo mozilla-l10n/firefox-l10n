@@ -15,3 +15,8 @@
 <!ENTITY safeb.blocked.phishingPage.title2 "Podozrivá webová stránka!">
 <!ENTITY safeb.blocked.phishingPage.shortDesc2 "Ak na tejto stránke zadáte nejaké údaje, tieto môžu byť použité na ukradnutie identity alebo inak zneužité.">
 <!ENTITY safeb.blocked.phishingPage.longDesc2 "<p>Tieto typy stránok sú využívané pri podvodných útokoch, ktoré sa snažia napodobňovať webové stránky a e-mailové správy, ktorým bežne veríte.</p>">
+
+<!ENTITY safeb.blocked.unwantedPage.title "Nahlásená ako stránka s nevyžiadaným softvérom!">
+<!-- Localization note (safeb.blocked.unwanted.shortDesc) - Please don't translate the contents of the <span id="unwanted_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
+<!ENTITY safeb.blocked.unwantedPage.shortDesc "Webová stránka <span id='unwanted_sitename'/> bola označená ako stránka s nevyžiadaným softvérom a na základe nastavení zabezpečenia bola zablokovaná.">
+<!ENTITY safeb.blocked.unwantedPage.longDesc "Stránky s nevyžiadaným softvérom sa pokúšajú inštalovať softér, ktorý môže byť klamlivý a môže ovplyvňovať rôznymi spôsobmi celý systém.">

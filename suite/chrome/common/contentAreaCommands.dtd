@@ -72,6 +72,8 @@
 <!ENTITY saveFrameAsCmd.label         "Uložiť rámec ako…">
 <!ENTITY saveFrameCmd.label           "Uložiť rámec">
 <!ENTITY saveFrameCmd.accesskey       "m">
+<!ENTITY printFrameCmd.label          "Tlačiť rámec…">
+<!ENTITY printFrameCmd.accesskey      "T">
 <!ENTITY saveLinkAsCmd.label          "Uložiť cieľ odkazu ako…">
 <!ENTITY saveLinkCmd.label            "Uložiť cieľ odkazu">
 <!ENTITY saveLinkCmd.accesskey        "d">
