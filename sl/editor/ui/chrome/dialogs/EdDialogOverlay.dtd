@@ -14,5 +14,5 @@
 <!ENTITY makeUrlRelative.tooltip "Spremeni med relativnem v absolutnim URL in obratno. Stran morate najprej shraniti, potem šele lahko to spremenite.">
 <!-- Shared by Link and Image dialogs -->
 
-<!ENTITY LinkURLEditField.label "Vnesite mesto spletne strani, lokalno datoteko ali pa izberite sidro z imenom oziroma naslov iz pojavnega seznama:">
+<!ENTITY LinkURLEditField.label "Vnesite mesto spletne strani, krajevno datoteko ali pa izberite sidro z imenom oziroma naslov iz pojavnega seznama:">
 <!ENTITY LinkURLEditField.accessKey "V">
