@@ -31,7 +31,7 @@
 <!ENTITY return.label                      "Ne vračaj več kot">
 <!ENTITY return.accesskey                  "v">
 <!ENTITY results.label                     "rezultatov">
-<!ENTITY offlineText.label                 "Lahko si prenesete lokalno kopijo tega imenika, da vam bo na voljo tudi takrat, kadar boste delali brez povezave.">
+<!ENTITY offlineText.label                 "Lahko si prenesete krajevno kopijo tega imenika, da vam bo na voljo tudi takrat, kadar boste delali brez povezave.">
 <!ENTITY saslMechanism.label               "Način prijave: ">
 <!ENTITY saslMechanism.accesskey           "N">
 <!ENTITY saslOff.label                     "Enostavna">
