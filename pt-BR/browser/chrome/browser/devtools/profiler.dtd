@@ -45,7 +45,7 @@
   -  on a button that starts a new profile. -->
 <!-- TODO remove -->
 
-<!ENTITY profilerUI.recordButton.tooltip "Gravar chamadas de funções JavaScript">
+<!ENTITY profilerUI.recordButton.tooltip "Gravar chamadas de funções JavaScript.">
 <!-- LOCALIZATION NOTE (profilerUI.recordButton2): This string is displayed
   -  on a button that starts a new profile. -->
 
