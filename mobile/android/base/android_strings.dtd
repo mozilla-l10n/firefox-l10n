@@ -6,8 +6,8 @@
 <!ENTITY  no_space_to_start_error "&brandShortName; ಆರಂಭಿಸಲು ಸಾಕಷ್ಟು ಸ್ಥಳಾವಕಾಶ ಇಲ್ಲ.">
 <!ENTITY  error_loading_file "&brandShortName; ನ ಚಾಲನೆಗೆ ಅಗತ್ಯವಿರುವ ಕಡತಗಳನ್ನು ತುಂಬುವ ಪ್ರಯತ್ನದಲ್ಲಿ ದೋಷ ಉಂಟಾಗಿದೆ;">
 
-<!ENTITY  onboard_start_message2 "&brandShortName; ಗೆ ಸ್ವಾಗತ">
-<!ENTITY  onboard_start_subtext2 "ಹಿಂದಿಗಿಂತಲೂ ಹೆಚ್ಚಾಗಿ ಅಗತ್ಯಾನುಗುಣಗೊಳಿಸುವ ಮತ್ತು ಮತ್ತಷ್ಟು ಗೌಪ್ಯತೆ ಸೌಲಭ್ಯಗಳು.">
+<!ENTITY  onboard_start_message3 "&brandShortName; ನೊಂದಿಗೆ ವೀಕ್ಷಿಸಿ">
+<!ENTITY  onboard_start_subtext3 "ನಿಮ್ಮ ಮೊಬೈಲ್ ಜಾಲ ವೀಕ್ಷಣೆಯ ಅನುಭವವನ್ನು ನೈಜವಾಗಿ ನಿಮ್ಮ ಸ್ವಂತದ್ದಾಗಿಸಿಕೊಳ್ಳಿ.">
 <!ENTITY  onboard_start_button_account "&brandShortName; ಗೆ ಲಾಗಿನ್ ಮಾಡಿ">
 <!ENTITY  onboard_start_button_browser "ಅಂತರ್ಜಾಲದ ವೀಕ್ಷಣೆಯನ್ನು ಪ್ರಾರಂಭಿಸಿ">
 <!-- Localization note: These are used as the titles of different pages on the home screen.
@@ -114,7 +114,6 @@
 
 <!ENTITY overlay_share_send_tab_btn_label "ಮತ್ತೊಂದು ಸಾಧನಕ್ಕೆ ಕಳುಹಿಸು">
 <!ENTITY overlay_share_no_url "ಈ ಹಂಚಿಕೆಯಲ್ಲಿ ಯಾವುದೇ ಸಂಪರ್ಕ ಕೊಂಡಿ ಸಿಗಲಿಲ್ಲ">
-<!ENTITY overlay_share_retry "ಇನ್ನೊಮ್ಮೆ ಪ್ರಯತ್ನಿಸಿ">
 <!ENTITY overlay_share_select_device "ಸಾಧನವನ್ನು ಆಯ್ಕೆಮಾಡು">
 <!-- Localization note (overlay_no_synced_devices) : Used when the menu option
      to send a tab to a synced device is pressed and no other synced devices
@@ -150,8 +149,6 @@
      it is applicable. -->
 <!ENTITY pref_search_hint "TIP: ಯಾವುದೇ ಜಾಲತಾಣವನ್ನು ನಿಮ್ಮ ಹುಡುಕು ಪೂರೈಕೆದಾರರ ಪಟ್ಟಿಗೆ ಸೇರಿಸಲು ಅದರ ಹುಡುಕು ವಲಯದಲ್ಲಿ ದೀರ್ಘವಾಗಿ ಒತ್ತಿ ಮತ್ತು &formatI; ಲಾಂಛನದ ಮೇಲೆ ತಟ್ಟಿ.">
 <!ENTITY pref_category_devtools "ವಿಕಸನಾ ಉಪಕರಣಗಳು">
-<!ENTITY pref_category_devtools_summary "ದೂರ ದೋಷನಿದಾನ, ಪೇಂಟ್ ಪ್ಲಾಷಿಂಗ್">
-<!ENTITY pref_developer_paint_flashing "ಪೇಂಟ್ ಪ್ಲಾಷಿಂಗ್">
 <!ENTITY pref_developer_remotedebugging "ರಿಮೋಟ್ ಡೀಬಗ್ಗಿಂಗ್">
 <!ENTITY pref_category_logins "ಲಾಗಿನ್‌ಗಳು">
 <!ENTITY pref_remember_signons "ಗುಪ್ತಪದವನ್ನು ನೆನಪಿಟ್ಟುಕೊ">
@@ -192,22 +189,22 @@
 <!ENTITY pref_donottrack_title "ಜಾಡು ಇರಿಸಬೇಡ">
 <!ENTITY pref_donottrack_summary "&brandShortName; ನಿಮ್ಮ ಜಾಡನ್ನು ಇರಿಸದಂತೆ ಜಾಲಗಳಿಗೆ ತಿಳಿಸುತ್ತದೆ">
 
-<!ENTITY tab_queue_toast_message "ನಂತರ ತೆಗೆ">
+<!ENTITY tab_queue_toast_message2 "&brandShortName; ನಲ್ಲಿ ಹಾಳೆಗಳನ್ನು ಸಾಲುಗಟ್ಟಲಾಗಿದೆ">
 <!ENTITY tab_queue_toast_action "ಈಗ ತೆಗೆ">
-<!-- Localization note (tab_queue_notification_text_plural) : The
+<!ENTITY tab_queue_prompt_title "ಒಂದಕ್ಕಿಂತ ಹೆಚ್ಚು ಕೊಂಡಿಗಳನ್ನು ತೆರೆಯುತ್ತಿದ್ದೀರಾ?">
+<!ENTITY tab_queue_prompt_text2 "ಪ್ರತಿ ಬಾರಿಯೂ &brandShortName; ಗೆ ಬದಲಾಯಿಸದೆ ಅವನ್ನು ತೆರೆಯಿರಿ.">
+<!ENTITY tab_queue_prompt_tip_text "ನೀವು ಇದನ್ನು ನಂತರ ಸಿದ್ದತೆಗಳಲ್ಲಿ ಬದಲಾಯಿಸಬಹುದು">
+<!ENTITY tab_queue_prompt_positive_action_button "ಸಕ್ರಿಯಗೊಳಿಸು">
+<!ENTITY tab_queue_prompt_negative_action_button "ಈಗ ಬೇಡ">
+<!ENTITY tab_queue_notification_title "&brandShortName;">
+<!-- Localization note (tab_queue_notification_text_plural2) : The
      formatD is replaced with the number of tabs queued.  The
      number of tabs queued is always more than one.  We can't use
      Android plural forms, sadly. See Bug #753859. -->
-<!ENTITY tab_queue_notification_text_plural "&formatD; ಟ್ಯಾಬ್‌ಗಳನ್ನು ಸಾಲುಮಾಡಲಾಗಿದೆ">
-<!-- Localization note (tab_queue_notification_title_plural) : This is the
-     title of a notification; we expect more than one tab queued. -->
-<!ENTITY tab_queue_notification_title_plural "ಹಾಳೆಗಳನ್ನು ಸಾಲುಮಾಡಲಾಗಿದೆ">
-<!-- Localization note (tab_queue_notification_title_singular) : This is the
-     title of a notification; we expect only one tab queued. -->
-<!ENTITY tab_queue_notification_title_singular "ಹಾಳೆಗಳನ್ನು ಸಾಲುಮಾಡಲಾಗಿದೆ">
-<!-- Localization note (tab_queue_notification_text_singular) : This is the
+<!ENTITY tab_queue_notification_text_plural2 "&formatD; ಹಾಳೆಗಳು ಕಾಯುತ್ತಿವೆ">
+<!-- Localization note (tab_queue_notification_text_singular2) : This is the
      text of a notification; we expect only one tab queued. -->
-<!ENTITY tab_queue_notification_text_singular "1 ಹಾಳೆ ಸಾಲುಮಾಡಲಾಗಿದೆ">
+<!ENTITY tab_queue_notification_text_singular2 "1 ಹಾಳೆ ಕಾಯುತ್ತಿದೆ">
 
 <!ENTITY pref_char_encoding "ಅಕ್ಷರದ ಎನ್ಕೋಡಿಂಗ್">
 <!ENTITY pref_char_encoding_on "ಪರಿವಿಡಿ ತೋರಿಸು">
@@ -255,7 +252,8 @@ size. -->
 <!ENTITY pref_import_android "ಆಂಡ್ರಾಯ್ಡ್‌ನಿಂದ ಆಮದುಮಾಡು">
 <!ENTITY pref_import_android_summary "ಸ್ಥಳೀಯ ಬ್ರೌಸರ್‌ನಿಂದ ಪುಟಗುರುತುಗಳು ಮತ್ತು ಇತಿಹಾಸವನ್ನು ಆಮದುಮಾಡು">
 <!ENTITY pref_private_data_history2 "ವೀಕ್ಷಣೆಯ ಇತಿಹಾಸ">
-<!ENTITY pref_private_data_formdata "ನಮೂನೆ ದಾಖಲೆ ಹಾಗು ಹುಡುಕು ಇತಿಹಾಸ">
+<!ENTITY pref_private_data_searchHistory "ಇತಿಹಾಸವನ್ನು ಹುಡುಕು">
+<!ENTITY pref_private_data_formdata2 "ಇತಿಹಾಸದಿಂದ">
 <!ENTITY pref_private_data_cookies2 "ಕುಕೀಗಳು &amp; ಸಕ್ರಿಯ ಖಾತೆಗೆಳು">
 <!ENTITY pref_private_data_passwords "ಉಳಿಸಲಾದ ಗುಪ್ತಪದಗಳು">
 <!ENTITY pref_private_data_cache "ಶೀಘ್ರ ಸ್ಮೃತಿಕೋಶ">
@@ -380,6 +378,7 @@ size. -->
 <!ENTITY doorhanger_login_edit_username_hint "ಬಳಕೆದಾರನ ಹೆಸರು">
 <!ENTITY doorhanger_login_edit_password_hint "ಪ್ರವೇಶ ಪದ">
 <!ENTITY doorhanger_login_edit_toggle "ಪ್ರವೇಶ ಪದಗಳನ್ನು ತೋರಿಸು">
+<!ENTITY doorhanger_login_edit_toast_error "ಒಳಗೆ ಪ್ರವೇಶಿಸಲು ವಿಫಲವಾಗಿದೆ">
 
 <!ENTITY pref_titlebar_mode "ಶೀರ್ಷಿಕೆ ಪಟ್ಟಿ">
 <!ENTITY pref_titlebar_mode_title "ಪುಟದ ಶೀರ್ಷಿಕೆ ತೋರಿಸು">
@@ -390,8 +389,8 @@ size. -->
 <!ENTITY pref_scroll_title_bar2 "ಪೂರ್ಣ-ತೆರೆಯಲ್ಲಿ ಜಾಲಾಡುವಿಕೆ">
 <!ENTITY pref_scroll_title_bar_summary "&brandShortName; ನ ಟೈಟಲ್ ಬಾರನ್ನು ಪುಟವೊಂದರಲ್ಲಿ ಸ್ಕ್ರಾಲ್ ಮಾಡುವಾಗ ಅಡಗಿಸು">
 
-<!ENTITY pref_tab_queue_title "ನಂತರ ತೆಗೆ">
-<!ENTITY pref_tab_queue_summary "ಹಾಳೆಗಳು ತಕ್ಷಣ ತೆರೆದುಕೊಳ್ಳುವುದನ್ನು ತಡೆಹಿಡಿ, ಆದರೆ ಮುಂದಿನ ಸಲ &brandShortName; ಲೋಡ್ ಆಗುವಾಗ ಎಲ್ಲ ಹಾಳೆಗಳನ್ನು ಸಾಲಾಗಿ ತೆರೆ.">
+<!ENTITY pref_tab_queue_title2 "ಒಂದಕ್ಕಿಂತ ಹೆಚ್ಚು ಕೊಂಡಿಗಳನ್ನು ತೆರೆ">
+<!ENTITY pref_tab_queue_summary2 "ಪ್ರತಿಸಲ &brandShortName;ಗೆ ಬದಲಾಯಿಸುವುದರ ಬದಲು ಆಮೇಲೆ ಬಳಸಲು ಕೊಂಡಿಗಳನ್ನು ಸಾಲುಗಟ್ಟಿ ">
 <!-- Localization note (page_removed): This string appears in a toast message when
      any page is removed frome about:home. This includes pages that are in history,
      bookmarks, or reading list. -->
@@ -440,6 +439,8 @@ size. -->
 <!ENTITY button_set "ನಿಶ್ಚಯಿಸು">
 <!ENTITY button_clear "ಅಳಿಸು">
 <!ENTITY button_remember "ನೆನಪಿನಲ್ಲಿಡು">
+
+<!ENTITY firstrun_panel_title_welcome "ಸ್ವಾಗತ">
 
 <!ENTITY home_top_sites_title "ಪ್ರಮುಖ ತಾಣಗಳು">
 <!-- Localization note (home_top_sites_add): This string is used as placeholder
@@ -612,6 +613,14 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY ellipsis "…">
 
 <!ENTITY colon ":">
+<!-- LOCALIZATION NOTE (percent): The percent sign is appended after a number to
+     display a percentage value. formatS is the number, #37 is the code to display a percent sign.
+     This format string is typically used by getString method, in such method the percent sign
+     is a reserved caracter. In order to display one percent sign in the result of getString,
+     double percent signs must be inserted in the format string.
+     This entity is used in the zoomed view to display the zoom factor-->
+
+<!ENTITY percent "&formatS;&#037;&#037;">
 <!-- These are only used for accessibility for the done and overflow-menu buttons in the actionbar.
      They are never shown to users -->
 
