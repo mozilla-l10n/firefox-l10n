@@ -8,10 +8,10 @@
 <!ENTITY aboutPrivateBrowsing.subtitle         "&brandShortName; ga e  gakologele ditso dipe tsa letlhabaphefo le.">
 
 
-<!ENTITY aboutPrivateBrowsing.description      "Se se akaretsa patlo ya tse di fitileng, pheneno ya tse di fitileng, kopololo ya tse di fitileng foromo ya webo ya tse di fitileng, khukhi le difale tsa nakwana tsa inthanete. Le fa go ntse jalo, difaele tse o dikopololang le matshwaotsebe a o a dirang a tla beiwa.">
+<!ENTITY aboutPrivateBrowsing.description      "Se se akaretsa patlo ya tse di fitileng, pheneno ya tse di fitileng, taisololo ya tse di fitileng foromo ya webo ya tse di fitileng, khukhi le difale tsa nakwana tsa inthanete. Le fa go ntse jalo, difaele tse o di laisilolang le matshwaotsebe a o a dirang a tla beiwa.">
 
 
 
 
-<!ENTITY privatebrowsingpage.openPrivateWindow.label "Bula Fensetere ya Poraefete">
-<!ENTITY privatebrowsingpage.openPrivateWindow.accesskey "F">
+<!ENTITY privatebrowsingpage.openPrivateWindow.label "Bula Letlbaphefo la sephiri ">
+<!ENTITY privatebrowsingpage.openPrivateWindow.accesskey "L">
