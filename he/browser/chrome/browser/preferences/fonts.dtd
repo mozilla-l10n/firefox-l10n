@@ -63,10 +63,10 @@
 <!ENTITY  allowPagesToUse.label                   "אפשר לדפים לבחור את הגופנים שלהם במקום בחירתי למעלה">
 <!ENTITY  allowPagesToUse.accesskey               "ל">
 
-<!ENTITY languages.customize.Fallback.grouplabel  "קידוד תווים עבור תוכן ישן">
-<!ENTITY languages.customize.Fallback.label       "קידוד תווים חלופי:">
-<!ENTITY languages.customize.Fallback.accesskey   "ח">
-<!ENTITY languages.customize.Fallback.desc        "קידוד תווים זה נמצא בשימוש עבור תוכן ישן שכשל בהצהרה על הקידוד שלו.">
+<!ENTITY languages.customize.Fallback2.grouplabel "קידוד טקסט לתוכן ישן">
+<!ENTITY languages.customize.Fallback2.label      "קידוד טקסט חלופי:">
+<!ENTITY languages.customize.Fallback2.accesskey  "ט">
+<!ENTITY languages.customize.Fallback2.desc       "קידוד טקסט זה מיועד עבור תוכן ישן שלא הוגדר עבורו קידוד.">
 
 <!ENTITY languages.customize.Fallback.auto        "בררת מחדל לשפה הנוכחית">
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.arabic):
