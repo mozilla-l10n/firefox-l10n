@@ -25,19 +25,20 @@ kwa le felong le le siameng. Le fa go ntse jalo, boitshupo jwa saete e ga bo ka 
 <!ENTITY certerror.whatShouldIDo.content "Fa o tlwaetse go golagana le 
 sestha se go sena mathata, phoso e, e ka raya gore mongwe o 
 leka go itira saete e, ka jalo ga wa tshwanela go tshwelela.">
-<!ENTITY certerror.whatShouldIDo.badStsCertExplanation "saete e dirisa HTTP 
-Mokgwa o nonofileng wa thomelo e sireletsegileng (HSTS) go nankola gore &brandShortName; go golagana fela 
- mo go yone ka tshireletsego. Ka ntlha e, ga go kgonagale go tsenya kemisetso ya 
-setifikeiti.">
-<!ENTITY certerror.getMeOutOfHere.label "Nkentshe fa!">
+<!ENTITY certerror.whatShouldIDo.badStsCertExplanation "Setsha se se dirisa HTTP~
+Go Romela mo Sireletsegileng (HSTS) go tshwaela gore &brandShortName; go ka golagana~
+ mo go yone ka tshireletsego. Ditlamoragoke gore ga go kgonagale go ka tsenya sepe 
+se se sakgonagaleng fa~
+Setlankana.">
+<!ENTITY certerror.getMeOutOfHere.label "Ntllosa fano!">
 
-<!ENTITY certerror.expert.heading "Ke Tlhaloganya Ditlamorago">
+<!ENTITY certerror.expert.heading "Ke Tlhaloganya Diphatsa">
 <!ENTITY certerror.expert.content "Fa o tlhaloganya se se diragalang, o 
-ka bolelela &brandShortName; go simolola go tshepha boitshupo jwa saete e. 
-<b> Le fa o tshepha saete, phoso e e ka raya gore mongwe o 
-o itshunya nko mo go borai mo kgolaganong ya gago.</b>">
-<!ENTITY certerror.expert.contentPara2 "Se tsenye tse di ntshitsweng 
-o ka tsenya fela fa o na le mabaka a utlwalang a gore ke eng saete e sa dirise boitshupo jo bo tshephegang.">
+ka bolelela &brandShortName; go simolola go tshepha boitshupo jwa setsha se. 
+<b> Le fa o tshepha setsha se, phoso e e ka raya gore mongwe o 
+o gwetlhagwetlhana le kgolaganyo ya gago.</b>">
+<!ENTITY certerror.expert.contentPara2 "Se tsenye tse di ntshitsweng nteng fela 
+ fa o na le lebaka le le utlwalang a gore ke eng setsha se se sa dirise boitshupo jo bo tshephegang.">
 <!ENTITY certerror.addException.label "Tsenya tse di ntshiwang...">
 
 <!ENTITY certerror.technical.heading "Ditshetlana tsa Botegeniki">

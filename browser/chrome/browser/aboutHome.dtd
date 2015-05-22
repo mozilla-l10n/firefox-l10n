@@ -9,23 +9,23 @@
 <!-- These strings are used in the about:home page -->
 
 
-<!ENTITY abouthome.pageTitle "&brandShortName; Tsebe ya Tshimologo">
+<!ENTITY abouthome.pageTitle "&brandShortName; Tsebegae">
 
 <!ENTITY abouthome.searchEngineButton.label "Batla">
 <!-- LOCALIZATION NOTE (abouthome.defaultSnippet1.v1):
      text in <a/> will be linked to the Firefox features page on mozilla.com
 -->
 
-<!ENTITY abouthome.defaultSnippet1.v1 "Re a leboga go bo o kgethile Firefox! Go itemogela go le gontsi mo sebatling sa gago, ithute thata ka <a> dikarolo tse di ntsha<a>.">
+<!ENTITY abouthome.defaultSnippet1.v1 "Re a leboga go bo o tlhophile Firefox! Go itemogela go le gontsi mo sebatling sa gago, ithute gole gontsi ka <a> dikarolo tse dishwa<a>.">
 <!-- LOCALIZATION NOTE (abouthome.defaultSnippet2.v1):
      text in <a/> will be linked to the featured add-ons on addons.mozilla.org
 -->
-<!ENTITY abouthome.defaultSnippet2.v1 "Go motlhofo go tshwanedisa Firefox ya gago ka fa o e batlang ka teng. <a> Tlhopha go tsweng mo diketeng tsa dioketswa</a>.">
+<!ENTITY abouthome.defaultSnippet2.v1 "Go motlhofo go tshwanedisa Firefox ya gago ka fa o batlang ka teng. <a> Tlhopha go tsweng mo diketeng tsa dioketswa</a>.">
 <!-- LOCALIZATION NOTE (abouthome.rightsSnippet): text in <a/> will be linked to about:rights -->
-<!ENTITY abouthome.rightsSnippet "&brandFullName; e dirisiwa ntleng le theko e buletswe go ka dirisiwa ke botlhe go tswa mo lekalaneng le le sa direng letseno la Mozilla Foundation...</a>">
+<!ENTITY abouthome.rightsSnippet "&brandFullName; ke mahala gape e buletswe go ka dirisiwa ke botlhe go tswa mo lekalaneng le le sa direng letseno la Mozilla Foundation...</a>">
 
 <!ENTITY abouthome.bookmarksButton.label "Matshwaotsebe">
-<!ENTITY abouthome.historyButton.label   "Ditiragalo tse di fitileng">
+<!ENTITY abouthome.historyButton.label   "Ditso">
 <!-- LOCALIZATION NOTE (abouthome.preferencesButtonWin.label): The label for the
      preferences/options item on about:home on Windows -->
 <!ENTITY abouthome.preferencesButtonWin.label  "Diitlhophelwa">
@@ -34,5 +34,5 @@
 <!ENTITY abouthome.preferencesButtonUnix.label  "Diratwabogolo">
 <!ENTITY abouthome.addonsButton.label    "Dioketswa">
 <!ENTITY abouthome.appsButton.label      "Lefelo la thekiso">
-<!ENTITY abouthome.downloadsButton.label "Dikopololo">
+<!ENTITY abouthome.downloadsButton.label "Ditaisololo">
 <!ENTITY abouthome.syncButton.label      "&syncBrand.shortName.label;">
