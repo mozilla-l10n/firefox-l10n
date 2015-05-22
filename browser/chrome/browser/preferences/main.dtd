@@ -22,7 +22,7 @@
 
 <!ENTITY downloads.label     "Downloads">
 
-<!ENTITY saveTo.label "Salvar arquivos em:">
+<!ENTITY saveTo.label "Salvar arquivos em">
 <!ENTITY saveTo.accesskey "S">
 <!ENTITY chooseFolderWin.label        "Procurar…">
 <!ENTITY chooseFolderWin.accesskey    "P">
