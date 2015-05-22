@@ -9,22 +9,22 @@ a replacement for the standard security certificate errors produced
 by NSS/PSM via netError.xhtml. -->
 
 
-<!ENTITY certerror.pagetitle  "Kgolagano e sa tshephegeng">
-<!ENTITY certerror.longpagetitle "Kgolagano e ga e tshephiwe">
+<!ENTITY certerror.pagetitle  "Kgolagano e e sa tshephagaleng">
+<!ENTITY certerror.longpagetitle "Kgolagano e ga e tshephege">
 <!-- Localization note (certerror.introPara1) - The string "#1" will
 be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
 
-<!ENTITY certerror.introPara1 "O kopile &brandShortName; go golagana 
-mo go sireletsegileng <b>#1</b>, mme gare ka ke ra tlhomamisa gore kgolagano ya gago e sireletsegile.">
+<!ENTITY certerror.introPara1 "A o kopile &brandShortName; go golaganya 
+mo go sireletsegileng <b>#1</b>, mme re sa kgone go tlhomamisa gore kgolagano ya gago ke e e sireletsegileng.">
 <!ENTITY certerror.introPara2 "Ka tlwaelo, fa o leka go golagana mo go sireletsegileng, 
-disaete di tsisa boitshupo jo bo tshephiwang go supa fa o ya 
+ditsha di tsisa boitshupo jo bo tshephiwang go supa fa o ya 
 kwa le felong le le siameng. Le fa go ntse jalo, boitshupo jwa saete e ga bo ka ke jwa netefadiwa.">
 
-<!ENTITY certerror.whatShouldIDo.heading "Ke direng?">
+<!ENTITY certerror.whatShouldIDo.heading "Ke dire jang?">
 <!ENTITY certerror.whatShouldIDo.content "Fa o tlwaetse go golagana le 
-saete e go sena mathata, phoso e, e ka ra gore mongwe o 
-leka go tsietsa saete, ka jalo ga wa tshwanela go tshwelela.">
+sestha se go sena mathata, phoso e, e ka raya gore mongwe o 
+leka go itira saete e, ka jalo ga wa tshwanela go tshwelela.">
 <!ENTITY certerror.whatShouldIDo.badStsCertExplanation "saete e dirisa HTTP 
 Mokgwa o nonofileng wa thomelo e sireletsegileng (HSTS) go nankola gore &brandShortName; go golagana fela 
  mo go yone ka tshireletsego. Ka ntlha e, ga go kgonagale go tsenya kemisetso ya 
