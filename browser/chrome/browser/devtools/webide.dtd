@@ -102,7 +102,7 @@
 <!ENTITY prefs_title "Preferéncias">
 
 <!ENTITY prefs_general_title "General">
-<!ENTITY prefs_restore "Restablir l'òrdre inicial">
+
 
 
 
@@ -124,7 +124,7 @@
 
 <!ENTITY prefs_options_keybindings_default "Per defaut">
 <!-- Permissions Table -->
-<!ENTITY permissionstable_name_header "Nom">
+
 <!-- Runtime Details -->
 
 
@@ -166,3 +166,14 @@
 <!-- LOCALIZATION NOTE (wifi_auth_token_request): Instructions requesting the
      user to transfer authentication info by transferring a token. -->
 <!-- Logs panel -->
+<!-- Simulator Options -->
+
+
+
+
+<!ENTITY simulator_version "Version">
+
+
+<!ENTITY simulator_device "Periferic">
+
+

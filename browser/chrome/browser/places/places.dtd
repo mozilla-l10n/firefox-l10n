@@ -85,7 +85,6 @@
 <!ENTITY col.url.label           "Adreça">
 <!ENTITY col.mostrecentvisit.label "Darrièra visita">
 <!ENTITY col.visitcount.label    "Nombre de visitas">
-<!ENTITY col.keyword.label       "Mot clau">
 <!ENTITY col.description.label   "Descripcion">
 <!ENTITY col.dateadded.label     "Data d'apondon">
 <!ENTITY col.lastmodified.label  "Darrièra modificacion">

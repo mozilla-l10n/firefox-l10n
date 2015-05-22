@@ -22,6 +22,8 @@
 
 <!ENTITY cmd.back.tooltip                     "Recuolar d'una pagina">
 <!ENTITY cmd.forward.tooltip                  "Avançar d'una pagina">
+
+
 <!-- global warnings -->
 
 <!ENTITY warning.safemode.label                    "Totes los moduls complementaris son estats desactivats pel mòde sens fracàs.">
@@ -102,7 +104,8 @@
 <!ENTITY cmd.installAddon.accesskey           "I">
 <!ENTITY cmd.uninstallAddon.label             "Suprimir">
 <!ENTITY cmd.uninstallAddon.accesskey         "S">
-<!ENTITY cmd.debugAddon.label                 "Desbugatge">
+
+
 <!ENTITY cmd.showPreferencesWin.label         "Opcions">
 <!ENTITY cmd.showPreferencesWin.tooltip       "Modificar las opcions d'aqueste modul complementari">
 <!ENTITY cmd.showPreferencesUnix.label        "Preferéncias">
@@ -231,3 +234,15 @@ certans dels melhors moduls complementaris e tanben los mai populars.">
 <!ENTITY experiment.info.changetelemetry.accesskey "T">
 
 <!ENTITY setting.learnmore "Ne saber mai…">
+
+<!-- LOCALIZATION NOTE (disabledUnsigned.description.start, disabledUnsigned.description.findAddonsLink, disabledUnsigned.description.end):
+     These entities form a sentence, with
+     disabledUnsigned.description.findAddonsLink being a link to an external site. -->
+
+
+
+<!-- LOCALIZATION NOTE (disabledUnsigned.devInfo.start, disabledUnsigned.devInfo.linkToManual, disabledUnsigned.devInfo.end):
+     These entities form a sentence, with disabledUnsigned.devInfo.linkToManual
+     being a link to an external site. -->
+
+
