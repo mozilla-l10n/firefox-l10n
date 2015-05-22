@@ -25,5 +25,5 @@
 <!ENTITY  enableSuggest.label       "Mostrar resultados da pesquisa">
 <!ENTITY  enableSuggest.accesskey   "s">
 
-<!ENTITY  restoreDefaults.label     "Restaurar pré-definições">
+<!ENTITY  restoreDefaults.label     "Restaurar predefinições">
 <!ENTITY  restoreDefaults.accesskey "e">
