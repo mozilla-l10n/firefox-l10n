@@ -30,7 +30,7 @@
 <!ENTITY pref.defalarmlen4events.label "Tempo pré-definido em que o alarme se ativa do evento:">
 <!ENTITY pref.defalarmlen4events.accesskey "T">
 <!ENTITY pref.defalarmlen4todos.label "Tempo pré-definido em que o alarme se ativa antes da tarefa:">
-<!ENTITY pref.defalarmlen4todos.accesskey "e">
+<!ENTITY pref.defalarmlen4todos.accesskey "o">
 
 <!ENTITY pref.defaultsnoozelength.label "Duração pré-definida entre toques do alarme:" >
 <!ENTITY pref.defaultsnoozelength.accesskey "u">

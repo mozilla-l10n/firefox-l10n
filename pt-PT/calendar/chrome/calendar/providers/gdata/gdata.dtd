@@ -4,7 +4,7 @@
 
 <!ENTITY gdata-provider.label "Calendário Google">
 
-<!ENTITY gdata.privacy.default.label "Pré-definição Google ">
+<!ENTITY gdata.privacy.default.label "Pré-definição Google">
 <!ENTITY gdata.privacy.default.accesskey "d">
 
 <!ENTITY gdata.migration.title "Migrar calendários de leitura">
