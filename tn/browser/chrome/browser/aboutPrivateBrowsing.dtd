@@ -2,10 +2,10 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY aboutPrivateBrowsing.title            "O batla mo go sephiri">
+<!ENTITY aboutPrivateBrowsing.title            "O batlela mo sephiring">
 
 
-<!ENTITY aboutPrivateBrowsing.subtitle         "&brandShortName; ga e na go gakologelwa tsotlhe tse di fetileng mo fensetereng.">
+<!ENTITY aboutPrivateBrowsing.subtitle         "&brandShortName; ga e  gakologele ditso dipe tsa letlhabaphefo le.">
 
 
 <!ENTITY aboutPrivateBrowsing.description      "Se se akaretsa patlo ya tse di fitileng, pheneno ya tse di fitileng, kopololo ya tse di fitileng foromo ya webo ya tse di fitileng, khukhi le difale tsa nakwana tsa inthanete. Le fa go ntse jalo, difaele tse o dikopololang le matshwaotsebe a o a dirang a tla beiwa.">
