@@ -115,7 +115,7 @@
 <!ENTITY prefs_title "Iestatījumi">
 <!ENTITY prefs_editor_title "Redaltprs">
 <!ENTITY prefs_general_title "Vispārējie">
-
+<!ENTITY prefs_restore "Atjaunot sākotnējos">
 <!ENTITY prefs_manage_components "Pārvaldīt papildu komponentus">
 <!ENTITY prefs_options_autoconnectruntime "Pieslēgties iepriekšējam izpildlaikam">
 <!ENTITY prefs_options_autoconnectruntime_tooltip "Palaižot WebIDE pieslēgties iepriekšējam izpildlaikam">
@@ -139,7 +139,7 @@
 <!-- Permissions Table -->
 
 <!ENTITY permissionstable_title "Atļauju tabula">
-
+<!ENTITY permissionstable_name_header "Nosaukums">
 <!-- Runtime Details -->
 
 <!ENTITY runtimedetails_title "Izpldlaika informācija">
@@ -197,7 +197,9 @@
 <!ENTITY logs_title "Pakošanas komandu žurnāls">
 <!-- Simulator Options -->
 
-
+<!ENTITY simulator_title "Simulatora iestatījumi">
+<!ENTITY simulator_remove "Dzēst simulatoru">
+<!ENTITY simulator_reset "Atjaunot sākotnējos">
 
 
 <!ENTITY simulator_version "Versija">
@@ -205,4 +207,4 @@
 
 
 
-
+<!ENTITY simulator_pixelRatio "Pikseļu attiecība">

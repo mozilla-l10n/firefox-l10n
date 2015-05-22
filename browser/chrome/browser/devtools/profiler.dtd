@@ -27,10 +27,16 @@
 <!-- LOCALIZATION NOTE (profilerUI.startRecording/profilerUI.stopRecording): These are
   -  the labels shown on the main recording buttons to start/stop recording. -->
 
+<!ENTITY profilerUI.startRecording "Sākt veiktspējas ierakstīšanu">
+<!ENTITY profilerUI.stopRecording  "Pārtraukt veiktspējas ierakstīšanu">
 <!-- LOCALIZATION NOTE (profilerUI.bufferStatusTooltip): This string
   -  is displayed as the tooltip for the buffer capacity during a recording. -->
+
+<!ENTITY profilerUI.bufferStatusTooltip "Profilators glabā paraugus cikliskā buferī. Sasniedzot limitu jaunie ieraksti tiek rakstīti pa virsu vecajiem.">
 <!-- LOCALIZATION NOTE (profilerUI.bufferStatusFull): This string
   -  is displayed when the profiler's circular buffer has started to overlap. -->
+
+<!ENTITY profilerUI.bufferStatusFull "Buferis ir pilns. Vecie paraugi tiek pārrakstīti.">
 <!-- LOCALIZATION NOTE (profilerUI.loadingNotice): This is the label shown
   -  in the call list view while loading a profile. -->
 
@@ -76,9 +82,9 @@
 <!ENTITY profilerUI.table.selfPercentage           "Paša patēriņš">
 <!ENTITY profilerUI.table.selfPercentage.tooltip   "Laiks procentuiāli, kas tika patērēts tikai šīs funkcijas izsaukumam. ">
 <!ENTITY profilerUI.table.samples                  "Paraugi">
-
+<!ENTITY profilerUI.table.samples.tooltip          "Reižu skaits, kuras šī funkcija bija stekā, kamēr profilators apkopoja paraugus.">
 <!ENTITY profilerUI.table.function                 "Funkcija">
-
+<!ENTITY profilerUI.table.function.tooltip         "Apskatītās funkcijas nosaukums un atrašanās vieta.">
 <!ENTITY profilerUI.table.totalAlloc1              "Kopā apskatītās piešķiršanas">
 <!ENTITY profilerUI.table.totalAlloc.tooltip       "Kopējais apskatīto objekta piešķīrumu skaits šajā vietā un izsaucējos">
 <!ENTITY profilerUI.table.selfAlloc1               "Paša apskatītie piešķīrumi">
@@ -133,11 +139,17 @@
   -  is displayed next to a checkbox determining whether or not JIT optimization data
   -  should be shown. -->
 
+<!ENTITY profilerUI.showJITOptimizations             "Rādīt JIT optimizācijas">
+<!ENTITY profilerUI.showJITOptimizations.tooltiptext "Rādīt apkopotos JIT optimizāciju datus katrā JS izsaukumu koka ietvarā.">
 <!-- LOCALIZATION NOTE (profilerUI.JITOptimizationsTitle): This string
   -  is displayed as the title of the JIT Optimizations panel. -->
+
+<!ENTITY profilerUI.JITOptimizationsTitle "JIT optimizācijas">
 <!-- LOCALIZATION NOTE (profilerUI.console.recordingNoticeStart/recordingNoticeEnd):
   -  This string is displayed when a recording is selected that started via console.profile.
   -  Wraps the command used to start, like "Currently recording via console.profile("label")" -->
+
+<!ENTITY profilerUI.console.recordingNoticeStart "Šobrīd ieraksta izmantojot">
 <!ENTITY profilerUI.console.recordingNoticeEnd   "">
 <!-- LOCALIZATION NOTE (profilerUI.console.stopCommandStart/stopCommandEnd):
   -  This string is displayed when a recording is selected that started via console.profile.
