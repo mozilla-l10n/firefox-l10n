@@ -36,7 +36,7 @@
 <!ENTITY filename.accesskey           "f">
 <!ENTITY filename.tooltip             "Introduza um nome para este ficheiro, incluindo'.html' para páginas web">
 <!ENTITY filenameExample.label        "ex.:: &quot;minhapagina.html&quot;">
-<!ENTITY setDefaultButton.label       "Aplicar como pré-definição">
+<!ENTITY setDefaultButton.label       "Utilizar como pré-definição">
 <!ENTITY setDefaultButton.accesskey   "d">
 <!ENTITY removeButton.label           "Remover sítio">
 <!ENTITY removeButton.accesskey       "R">

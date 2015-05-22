@@ -22,6 +22,6 @@
 
 <!ENTITY threeDShading.label "Sombra 3-D">
 <!ENTITY threeDShading.accessKey "S">
-<!ENTITY saveSettings.label "Usar como pré-definição">
-<!ENTITY saveSettings.accessKey "U">
+<!ENTITY saveSettings.label "Utilizar como pré-definição">
+<!ENTITY saveSettings.accessKey "d">
 <!ENTITY saveSettings.tooltip "Guardar as definições para usar quando inserir novas linhas horizontais">
