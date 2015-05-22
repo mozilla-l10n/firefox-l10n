@@ -43,6 +43,6 @@
 
 <!ENTITY fullscreen.label                "Повний екран">
 
-<!ENTITY push.label                      "Receive Push Notifications">
+<!ENTITY push.label                      "Отримувати сповіщення">
 <!ENTITY camera.label                    "Використовувати камеру">
 <!ENTITY microphone.label                "Використовувати мікрофон">
