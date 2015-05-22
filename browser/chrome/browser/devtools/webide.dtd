@@ -115,7 +115,7 @@
 <!ENTITY prefs_title "ಆದ್ಯತೆಗಳು">
 <!ENTITY prefs_editor_title "ಸಂಪಾದಕ">
 <!ENTITY prefs_general_title "ಸಾಮಾನ್ಯ">
-<!ENTITY prefs_restore "ಪೂರ್ವನಿಯೋಜಿತಗಳನ್ನು ಮರುಸ್ಥಾಪಿಸು">
+
 <!ENTITY prefs_manage_components "ಅಧಿಕ ಘಟಕಗಳನ್ನು ನಿರ್ವಹಿಸಿ">
 <!ENTITY prefs_options_autoconnectruntime "ಹಿಂದಿನ ನಿರ್ವಹಣಾ ಸಮಯಕ್ಕೆ ಮರು ಸಂಪರ್ಕಗೊಳ್ಳು">
 <!ENTITY prefs_options_autoconnectruntime_tooltip "WebIDE ಆರಂಭಗೊಂಡಾಗ ಹಿಂದಿನ ರನ್‌ಟೈಮ್‌ನೊಂದಿಗೆ ಮರಳಿ ಸಂಪರ್ಕಸಾಧಿಸಿ">
@@ -139,7 +139,7 @@
 <!-- Permissions Table -->
 
 <!ENTITY permissionstable_title "ಅನುಮತಿಗಳ ಕೋಷ್ಟಕ">
-<!ENTITY permissionstable_name_header "ಹೆಸರು">
+
 <!-- Runtime Details -->
 
 <!ENTITY runtimedetails_title "ಚಾಲನಾಸಮಯದ ಮಾಹಿತಿ">
@@ -195,3 +195,14 @@
 <!-- Logs panel -->
 
 <!ENTITY logs_title "ಪ್ರಿ-ಪ್ಯಾಕೇಜಿಂಗ್ ಆದೇಶ ದಿನಚರಿಗಳು">
+<!-- Simulator Options -->
+
+
+
+
+<!ENTITY simulator_version "ಆವೃತ್ತಿ">
+
+
+<!ENTITY simulator_device "ಸಾಧನ">
+
+
