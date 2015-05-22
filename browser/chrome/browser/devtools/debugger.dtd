@@ -150,7 +150,7 @@
 <!-- LOCALIZATION NOTE (debuggerUI.condBreakPanelTitle): This is the text that
   -  appears in the conditional breakpoint panel popup as a description. -->
 
-<!ENTITY debuggerUI.condBreakPanelTitle "Este ponto de interrupção interromperá a execução se esta expressão for verdadeira:">
+<!ENTITY debuggerUI.condBreakPanelTitle "Este ponto de interrupção interromperá a execução se esta expressão for verdadeira">
 <!-- LOCALIZATION NOTE (debuggerUI.seMenuBreak): This is the text that
   -  appears in the source editor context menu for adding a breakpoint. -->
 

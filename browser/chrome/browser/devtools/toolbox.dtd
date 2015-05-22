@@ -43,7 +43,7 @@
   -  panel. -->
 
 <!ENTITY options.showUserAgentStyles.label "Exibir estilos do navegador">
-<!ENTITY options.showUserAgentStyles.tooltip "A ativação exibirá os estilos padrão que são carregados pelo navegador">
+<!ENTITY options.showUserAgentStyles.tooltip "A ativação exibirá os estilos padrão que são carregados pelo navegador.">
 <!-- LOCALIZATION NOTE (options.defaultColorUnit.label): This is the label for a
   -  dropdown list that controls the default color unit used in the inspector.
   -  This label is visible in the options panel. -->
@@ -99,7 +99,7 @@
   -  tooltip for the checkbox that toggles the cache on or off. -->
 
 <!ENTITY options.disableCache.label2     "Desativar cache (quando as ferramentas estiverem abertas)">
-<!ENTITY options.disableCache.tooltip2   "Esta opção desativará o cache para todas as abas com as ferramentas abertas">
+<!ENTITY options.disableCache.tooltip2   "A ativação desta opção irá desabilitar o cache para todas as abas que têm a caixa de ferramentas aberta.">
 <!-- LOCALIZATION NOTE (options.enableServiceWorkersHTTP.label,
   -  options.enableServiceWorkersHTTP.tooltip): This is the options panel label and
   -  tooltip for the checkbox that toggles the service workers testing features on or off. This option enables service workers over HTTP. -->
@@ -197,9 +197,9 @@ símbolos da plataforma Gecko">
 <!ENTITY options.sourceeditor.autoclosebrackets.tooltip "Inserir automaticamente símbolos de fechamento de blocos">
 <!ENTITY options.sourceeditor.expandtab.label           "Indentar usando espaços">
 <!ENTITY options.sourceeditor.expandtab.tooltip         "Usar espaços em vez de tabs">
-<!ENTITY options.sourceeditor.tabsize.label             "Tamanho do tab:">
-<!ENTITY options.sourceeditor.tabsize.accesskey         "t">
-<!ENTITY options.sourceeditor.keybinding.label          "Combinação de teclas:">
+<!ENTITY options.sourceeditor.tabsize.label             "Tamanho da tabulação">
+<!ENTITY options.sourceeditor.tabsize.accesskey         "T">
+<!ENTITY options.sourceeditor.keybinding.label          "Combinação de teclas">
 <!ENTITY options.sourceeditor.keybinding.accesskey      "C">
 <!ENTITY options.sourceeditor.keybinding.default.label  "Padrão">
 

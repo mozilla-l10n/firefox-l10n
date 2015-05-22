@@ -13,7 +13,7 @@
 
 <!ENTITY  defaultFont.label           "Fonte padrão:">
 <!ENTITY  defaultFont.accesskey       "F">
-<!ENTITY  defaultSize.label           "Tam.:">
+<!ENTITY  defaultSize.label           "Tamanho:">
 <!ENTITY  defaultSize.accesskey       "T">
 
 <!ENTITY  advancedFonts.label         "Avançado…">

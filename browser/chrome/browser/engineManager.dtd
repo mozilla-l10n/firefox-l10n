@@ -19,8 +19,8 @@
 <!ENTITY  edit.label                "Palavra-chave…">
 <!ENTITY  edit.accesskey            "P">
 
-<!ENTITY  addEngine.label           "Adicionar pesquisas">
-<!ENTITY  addEngine.accesskey       "A">
+<!ENTITY  addEngine.label           "Obter mais mecanismos de pesquisa…">
+<!ENTITY  addEngine.accesskey       "a">
 
 <!ENTITY  enableSuggest.label       "Exibir sugestões">
 <!ENTITY  enableSuggest.accesskey   "E">
