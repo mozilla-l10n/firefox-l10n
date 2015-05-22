@@ -22,6 +22,8 @@
 
 <!ENTITY cmd.back.tooltip                     "ಒಂದು ಪುಟ ಹಿಂದಕ್ಕೆ ಹೋಗು">
 <!ENTITY cmd.forward.tooltip                  "ಒಂದು ಪುಟ ಮುಂದಕ್ಕೆ ಹೋಗು">
+
+
 <!-- global warnings -->
 
 <!ENTITY warning.safemode.label                    "ಎಲ್ಲಾ ಆಡ್-ಆನ್‌ಗಳನ್ನು ಸುರಕ್ಷತಾ ಕ್ರಮದಿಂದ ಅಶಕ್ತಗೊಳಿಸಲಾಗಿದೆ.">
@@ -102,7 +104,8 @@
 <!ENTITY cmd.installAddon.accesskey           "I">
 <!ENTITY cmd.uninstallAddon.label             "ತೆಗೆದುಹಾಕು">
 <!ENTITY cmd.uninstallAddon.accesskey         "R">
-<!ENTITY cmd.debugAddon.label                 "ದೋಷನಿವಾರಣೆ">
+
+
 <!ENTITY cmd.showPreferencesWin.label         "ಆಯ್ಕೆಗಳು">
 <!ENTITY cmd.showPreferencesWin.tooltip       "ಈ ಆಡ್‌-ಆನ್‌ನ ಆಯ್ಕೆಗಳನ್ನು ಬದಲಾಯಿಸಿ">
 <!ENTITY cmd.showPreferencesUnix.label        "ಆದ್ಯತೆಗಳು">
@@ -231,3 +234,15 @@
 <!ENTITY experiment.info.changetelemetry.accesskey "T">
 
 <!ENTITY setting.learnmore "ಇನ್ನಷ್ಟು ತಿಳಿಯಿರಿ…">
+
+<!-- LOCALIZATION NOTE (disabledUnsigned.description.start, disabledUnsigned.description.findAddonsLink, disabledUnsigned.description.end):
+     These entities form a sentence, with
+     disabledUnsigned.description.findAddonsLink being a link to an external site. -->
+
+
+
+<!-- LOCALIZATION NOTE (disabledUnsigned.devInfo.start, disabledUnsigned.devInfo.linkToManual, disabledUnsigned.devInfo.end):
+     These entities form a sentence, with disabledUnsigned.devInfo.linkToManual
+     being a link to an external site. -->
+
+
