@@ -46,9 +46,9 @@
 <!-- Setup Success -->
 
 <!ENTITY sync.title.success.label "Configuração concluída">
-<!ENTITY sync.subtitle.success.label1 "Seus dados estão sendo recebidos em segundo plano. Entre em “Configurações” para gerenciar sua conta ou comece a navegar com o &brandShortName;.">
+<!ENTITY sync.subtitle.success.label1 "Seus dados estão sendo recebidos em segundo plano. Entre em Configurações para gerenciar sua conta ou comece a navegar com o &brandShortName;.">
 <!ENTITY sync.settings.label "Configurações">
-<!ENTITY sync.subtitle.manage.label1 "Sua conta &syncBrand.fullName.label; já está configurada. Entre em “Configurações” para gerenciá-la ou inicie o &brandShortName;.">
+<!ENTITY sync.subtitle.manage.label1 "Sua conta &syncBrand.fullName.label; já está configurada. Entre em Configurações para gerenciá-la ou inicie o &brandShortName;.">
 <!-- Pair Device -->
 
 <!ENTITY sync.pair.tryagain.label "Por favor, tente de novo.">
