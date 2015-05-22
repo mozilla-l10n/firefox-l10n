@@ -104,7 +104,7 @@
 <!ENTITY calendar.orientation.label "Girar visualização" >
 <!ENTITY calendar.orientation.accesskey "G" >
 
-<!ENTITY calendar.search.options.searchfor " Localizar">
+<!ENTITY calendar.search.options.searchfor " contém">
 
 <!ENTITY calendar.list.header.label                 "Calendário">
 

@@ -324,7 +324,7 @@
 <!ENTITY event.recurrence.range.label                   "Período de recorrência">
 <!ENTITY event.recurrence.forever.label                 "Indefinidamente" >
 <!ENTITY event.recurrence.repeat.for.label              "Criar" >
-<!ENTITY event.recurrence.appointments.label            "Reunião(ões)" >
+<!ENTITY event.recurrence.appointments.label            "Compromissos(s)" >
 <!ENTITY event.repeat.until.label                       "Repetir até" >
 <!ENTITY event.recurrence.preview.label                 "Visualizar">
 <!-- Attendees dialog -->
