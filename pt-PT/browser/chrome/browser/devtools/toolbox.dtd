@@ -43,7 +43,7 @@
   -  panel. -->
 
 <!ENTITY options.showUserAgentStyles.label "Mostrar estilos do navegador">
-<!ENTITY options.showUserAgentStyles.tooltip "Ligar isto vai mostrar os estilos pré-definidos que são carregados pelo navegador.">
+<!ENTITY options.showUserAgentStyles.tooltip "A ativação mostrará os estilos pré-definidos carregados pelo navegador.">
 <!-- LOCALIZATION NOTE (options.defaultColorUnit.label): This is the label for a
   -  dropdown list that controls the default color unit used in the inspector.
   -  This label is visible in the options panel. -->

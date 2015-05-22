@@ -17,7 +17,7 @@
 <!ENTITY useMultiple.label         "Utilizar as páginas atuais">
 <!ENTITY chooseBookmark.label      "Utilizar marcador">
 <!ENTITY chooseBookmark.accesskey  "m">
-<!ENTITY restoreDefault.label      "Repor valor de origem">
+<!ENTITY restoreDefault.label      "Restaurar predefinições">
 <!ENTITY restoreDefault.accesskey  "R">
 
 <!ENTITY downloads.label     "Transferências">
