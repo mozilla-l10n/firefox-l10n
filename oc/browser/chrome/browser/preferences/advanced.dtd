@@ -74,13 +74,8 @@
 <!ENTITY updateTab.label                 "Metre a jorn">
 
 <!ENTITY updateApp.label                 "Mesas a jorn de &brandShortName;">
-<!-- Note either updateAuto1 is used or (updateAutoMetro and updateAutoDesktop),
-     so re-using accesss key in updateAuto1 is OK. updateAutoDesktop can be found
-     in preferences.properties -->
 <!ENTITY updateAuto1.label               "Installar automaticament las mesas a jorn (recomandat per vòstra seguretat)">
 <!ENTITY updateAuto1.accesskey           "a">
-<!ENTITY updateAutoMetro.label           "Mesa a jorn automatica per &brandShortName; dins los estils Burèu e Windows 8">
-<!ENTITY updateAutoMetro.accesskey       "s">
 <!ENTITY updateCheck.label               "Verificar l'existéncia de mesas a jorn mas me daissar decidir de lor installacion">
 <!ENTITY updateCheck.accesskey           "c">
 <!ENTITY updateManual.label              "Verificar pas jamai las mesas a jorn (desconselhat, aquò representa un risc de seguretat)">
@@ -88,8 +83,6 @@
 
 <!ENTITY updateAutoAddonWarn.label       "M'alertar s'aquò desactiva de moduls">
 <!ENTITY updateAutoAddonWarn.accesskey   "a">
-
-<!ENTITY updateAutoMetroWarn.label       "(&brandShortName; dins l'estil Windows 8 verifica pas la compatibilitat dels moduls)">
 
 <!ENTITY updateHistory.label             "Afichar l'istoric de las mesas a jorn">
 <!ENTITY updateHistory.accesskey         "h">
