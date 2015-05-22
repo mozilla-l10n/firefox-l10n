@@ -154,6 +154,11 @@
 <p>Ejere af websteder som tror deres websted fejlagtigt er blevet registereret som værende et der spreder skadelige programmer kan <a href='http://www.stopbadware.org/home/reviewinfo'>forespørge om et review</a>.</p>
 ">
 
+<!ENTITY unwantedBlocked.title "Websted mistænkt for uønskede programmer!">
+<!ENTITY unwantedBlocked.longDesc "
+<p>Websteder med uønskede programmer prøver at lokke dig til at installere programmer, som kan påvirke dit system på uventede måder.</p>
+">
+
 <!ENTITY phishingBlocked.title "Mistænkt netsvindel!">
 <!ENTITY phishingBlocked.longDesc "
 <p>Indtastning af personlige informationer på denne side kan resultere i identitetstyveri eller anden forfalskning.</p>

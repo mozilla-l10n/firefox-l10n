@@ -158,6 +158,8 @@
 <!ENTITY bothFormatCmd.accesskey "B">
 <!ENTITY priorityMenu.label "Prioritet">
 <!ENTITY priorityMenu.accesskey "p">
+<!ENTITY priorityButton.title "Prioritet">
+<!ENTITY priorityButton.tooltiptext "Skift meddelelsens prioritet">
 <!ENTITY priorityButton.label "Prioritet:">
 <!ENTITY lowestPriorityCmd.label "Laveste">
 <!ENTITY lowestPriorityCmd.accesskey "a">
