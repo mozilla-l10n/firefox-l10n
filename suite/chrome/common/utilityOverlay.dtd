@@ -144,7 +144,7 @@
 <!ENTITY customizeToolbar.useSmallIcons.accesskey "s">
 <!ENTITY customizeToolbar.labelAlignEnd.label     "Mostrar texto debaixo do ícone">
 <!ENTITY customizeToolbar.labelAlignEnd.accesskey "b">
-<!ENTITY customizeToolbar.useDefault.label        "Utilizar pré-definições">
+<!ENTITY customizeToolbar.useDefault.label        "Utilizar predefinições">
 <!ENTITY customizeToolbar.useDefault.accesskey    "U">
 <!-- Popup Blocked notification menu -->
 

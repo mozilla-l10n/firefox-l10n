@@ -30,7 +30,7 @@
 <!ENTITY enableStartPage.accesskey        "Q">
 <!ENTITY location.label                   "Localização:">
 <!ENTITY location.accesskey               "L">
-<!ENTITY useDefault.label                 "Restaurar Pré-Definições">
-<!ENTITY useDefault.accesskey             "D">
+<!ENTITY useDefault.label                 "Restaurar pré-definições">
+<!ENTITY useDefault.accesskey             "d">
 <!ENTITY rememberLastMsg.label            "Memorizar a última mensagem selecionada">
 <!ENTITY rememberLastMsg.accesskey        "M">
