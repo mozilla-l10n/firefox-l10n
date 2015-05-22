@@ -50,7 +50,7 @@
 
 <!ENTITY  permTab               "Permissões">
 <!ENTITY  permTab.accesskey     "P">
-<!ENTITY  permUseDefault        "Usar Pré-definição">
+<!ENTITY  permUseDefault        "Utilizar predefinições">
 <!ENTITY  permAskAlways         "Perguntar sempre">
 <!ENTITY  permAllow             "Permitir">
 <!ENTITY  permAllowSession      "Permitir para a sessão">
