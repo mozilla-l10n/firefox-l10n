@@ -115,7 +115,7 @@
 <!ENTITY prefs_title "Баптаулар">
 <!ENTITY prefs_editor_title "Түзеткіш">
 <!ENTITY prefs_general_title "Жалпы">
-
+<!ENTITY prefs_restore "Бастапқы мәндерін қайтару">
 <!ENTITY prefs_manage_components "Қосымша компоненттерді басқару">
 <!ENTITY prefs_options_autoconnectruntime "Алдындағы орындалу ортасына қайта байланысу">
 <!ENTITY prefs_options_autoconnectruntime_tooltip "WebIDE іске қосылған кезде, алдындағы орындалу ортасына қайта байланысу">
@@ -139,7 +139,7 @@
 <!-- Permissions Table -->
 
 <!ENTITY permissionstable_title "Рұқсаттар кестесі">
-
+<!ENTITY permissionstable_name_header "Аты">
 <!-- Runtime Details -->
 
 <!ENTITY runtimedetails_title "Орындалу ортасы ақпараты">
@@ -191,11 +191,11 @@
 <!-- Logs panel -->
 <!-- Simulator Options -->
 
-
-
+<!ENTITY simulator_reset "Бастапқы мәндерін қайтару">
+<!ENTITY simulator_name "Аты">
 
 <!ENTITY simulator_version "Нұсқасы">
-
+<!ENTITY simulator_profile "Профиль">
 
 <!ENTITY simulator_device "Құрылғы">
 

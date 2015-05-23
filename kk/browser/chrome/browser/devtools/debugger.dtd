@@ -70,7 +70,7 @@
   -  checkbox that toggles ignoring caught exceptions. -->
 
 <!ENTITY debuggerUI.ignoreCaughtExceptions           "Ұсталған төтенше жағдайларды елемеу">
-
+<!ENTITY debuggerUI.ignoreCaughtExceptions.accesskey "е">
 <!-- LOCALIZATION NOTE (debuggerUI.showPanesOnInit): This is the label for the
   -  checkbox that toggles visibility of panes when opening the debugger. -->
 
