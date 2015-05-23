@@ -66,6 +66,8 @@
 <!ENTITY netmonitorUI.context.copyUrl.accesskey "а">
 <!ENTITY netmonitorUI.context.copyUrlParams "Копировать параметры URL">
 <!ENTITY netmonitorUI.context.copyUrlParams.accesskey "ы">
+<!ENTITY netmonitorUI.context.copyPostData "Копировать данные POST">
+<!ENTITY netmonitorUI.context.copyPostData.accesskey "ь">
 <!ENTITY netmonitorUI.context.copyAsCurl "Копировать как cURL">
 <!ENTITY netmonitorUI.context.copyAsCurl.accesskey "в">
 <!ENTITY netmonitorUI.context.copyRequestHeaders "Копировать заголовки запроса">
