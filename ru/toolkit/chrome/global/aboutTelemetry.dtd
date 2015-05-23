@@ -23,10 +23,10 @@
 Отображать данные подсессии ">
 <!ENTITY aboutTelemetry.choosePing "
 Выберите пинг: ">
-<!ENTITY aboutTelemetry.showPreviousPing "
-&lt;&lt; Предыдущий пинг ">
-<!ENTITY aboutTelemetry.showNextPing "
-Следующий пинг &gt;&gt; ">
+<!ENTITY aboutTelemetry.showNewerPing "
+&lt;&lt; Более новый пинг ">
+<!ENTITY aboutTelemetry.showOlderPing "
+Более старый пинг &gt;&gt; ">
 <!ENTITY aboutTelemetry.generalDataSection "
    Общие данные">
 <!ENTITY aboutTelemetry.environmentDataSection "

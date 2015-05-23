@@ -4,6 +4,7 @@
 
 <!ENTITY browserStylesLabel "Стили браузера">
 <!ENTITY filterStylesPlaceholder "Фильтр стилей">
+<!ENTITY addRuleButtonTooltip "Добавить новое правило">
 <!ENTITY selectedElementLabel "Выбранный элемент:">
 <!ENTITY noPropertiesFound "CSS-свойства не найдены.">
 <!ENTITY computedViewTitle "Вычислено">

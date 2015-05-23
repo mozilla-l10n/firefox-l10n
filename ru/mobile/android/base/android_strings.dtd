@@ -178,6 +178,7 @@
 <!ENTITY pref_private_data_offlineApps "Данные автономных веб-сайтов">
 <!ENTITY pref_private_data_siteSettings2 "Настройки сайтов">
 <!ENTITY pref_private_data_downloadFiles2 "Загрузки">
+<!ENTITY pref_private_data_syncedTabs "Синхронизированные вкладки">
 <!ENTITY pref_about_firefox "О &brandShortName;">
 <!ENTITY pref_vendor_faqs "FAQ">
 <!ENTITY pref_vendor_feedback "Отправить отзыв">
