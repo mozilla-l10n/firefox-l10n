@@ -2,11 +2,11 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY newtab.pageTitle "Nueva pestaña">
+<!ENTITY newtab.pageTitle "Pestaña nueva">
 <!ENTITY newtab.customize.classic "Mostrar sus sitios preferidos">
 <!ENTITY newtab.customize.cog.enhanced "Incluir sitios sugeridos">
-<!ENTITY newtab.customize.cog.title "Controles de pestañas nuevas">
-<!ENTITY newtab.customize.cog.learn "Saber más sobre las pestañas nuevas">
+<!ENTITY newtab.customize.cog.title "Controles de Nueva pestaña">
+<!ENTITY newtab.customize.cog.learn "Saber más sobre Nueva pestaña">
 <!ENTITY newtab.customize.title "Personalizar su página Nueva pestaña">
 <!ENTITY newtab.customize.suggested "Mostrar sitios sugeridos y sus sitios preferidos">
 <!ENTITY newtab.customize.topsites "Mostrar sus sitios preferidos">
