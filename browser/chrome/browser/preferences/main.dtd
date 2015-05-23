@@ -42,3 +42,4 @@
 <!ENTITY useFirefoxSync.label             "Кеңес: Бұл бөлек профильдерді қолданады. Олар арасында деректермен бөлісу үшін Синхрондауды қолданыңыз.">
 <!ENTITY getStarted.label                 "Sync қолдануды бастау…">
 
+<!ENTITY e10sEnabled.label                "Мультипроцессті &brandShortName; іске қосу">
