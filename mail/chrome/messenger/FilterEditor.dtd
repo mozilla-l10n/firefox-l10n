@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY window.title "Propriedades do filtro">
-<!ENTITY filterEditorDialog.dimensions "width:100ch;">
+<!ENTITY filterEditorDialog.dimensions "width: 100ch;">
 <!ENTITY filterName.label "Nome do filtro:">
 <!ENTITY filterName.accesskey "N">
 

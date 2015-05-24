@@ -5,7 +5,7 @@
 
 
 <!ENTITY windowTitle.label "Assistente de contas">
-<!ENTITY accountWizard.size "width:40em; height:38em;">
+<!ENTITY accountWizard.size "width: 40em; height: 38em;">
 <!-- Entities for Account Type page -->
 
 
