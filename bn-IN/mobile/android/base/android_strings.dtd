@@ -6,8 +6,8 @@
 <!ENTITY  no_space_to_start_error "&brandShortName; চালু করার জন্য প্রয়োজনীয় জায়গা নেই।">
 <!ENTITY  error_loading_file "যখন &brandShortName; চালানোর জন্য ফাইল লোড করার চেষ্টা করা হচ্ছিল তখন একটি বিঘ্ন ঘটেছে">
 
-<!ENTITY  onboard_start_message2 "&brandShortName; এ স্বাগতম!">
-<!ENTITY  onboard_start_subtext2 "আরও গোপনীয়তা বৈশিষ্ট্য এবং কাস্টমাইজ করার পদ্ধতি।">
+<!ENTITY  onboard_start_message3 "&brandShortName;-এর সাথে ব্রাউজ করুন">
+
 <!ENTITY  onboard_start_button_account "&brandShortName; এ সাইন ইন করুন">
 <!ENTITY  onboard_start_button_browser "ব্রাউজিং শুরু করুন">
 <!-- Localization note: These are used as the titles of different pages on the home screen.
@@ -114,7 +114,6 @@
 
 <!ENTITY overlay_share_send_tab_btn_label "অন্য ডিভাইসে প্রেরণ করুন">
 <!ENTITY overlay_share_no_url "এই শেয়ারে কোনো লিংক পাওয়া যায়নি">
-<!ENTITY overlay_share_retry "পুনরায় চেষ্টা করুন">
 <!ENTITY overlay_share_select_device "ডিভাইস নির্বাচন করুন">
 <!-- Localization note (overlay_no_synced_devices) : Used when the menu option
      to send a tab to a synced device is pressed and no other synced devices
@@ -150,8 +149,6 @@
      it is applicable. -->
 <!ENTITY pref_search_hint "পরামর্শ: যেকোনো ওয়েবসাইটকে আপনার নুসন্ধান প্রদানকারীদের তালিকায় যুক্ত করতে সেই ওয়েবসাইটের অনুসন্ধানক্ষেত্রে কিছুক্ষন চেপে রেখে &formatI; আইকনে ক্লিক করুন।">
 <!ENTITY pref_category_devtools "ডেভলপার টুলসমূহ">
-<!ENTITY pref_category_devtools_summary "দূরবর্তী ডিবাগিং, পেইন্ট ফ্ল্যাশিং">
-<!ENTITY pref_developer_paint_flashing "পেইন্ট ফ্ল্যাশিং">
 <!ENTITY pref_developer_remotedebugging "দূরবর্তী ডিবাগিং">
 <!ENTITY pref_category_logins "লগ-ইন">
 <!ENTITY pref_remember_signons "পাসওয়ার্ড মনে রাখুন">
@@ -192,22 +189,19 @@
 <!ENTITY pref_donottrack_title "ট্র্যাক করবেন না">
 <!ENTITY pref_donottrack_summary "&brandShortName; সাইট দের বলে যে আপনি ট্র্যাক হতে চান না">
 
-<!ENTITY tab_queue_toast_message "পরে খুলুন">
 <!ENTITY tab_queue_toast_action "এখন খুলুন">
-<!-- Localization note (tab_queue_notification_text_plural) : The
+
+
+
+
+
+
+<!-- Localization note (tab_queue_notification_text_plural2) : The
      formatD is replaced with the number of tabs queued.  The
      number of tabs queued is always more than one.  We can't use
      Android plural forms, sadly. See Bug #753859. -->
-<!ENTITY tab_queue_notification_text_plural "&formatD; ট্যাব সারিবদ্ধ">
-<!-- Localization note (tab_queue_notification_title_plural) : This is the
-     title of a notification; we expect more than one tab queued. -->
-<!ENTITY tab_queue_notification_title_plural "ট্যাব লাইন করা হয়েছে">
-<!-- Localization note (tab_queue_notification_title_singular) : This is the
-     title of a notification; we expect only one tab queued. -->
-<!ENTITY tab_queue_notification_title_singular "ট্যাব লাইন করা হয়েছে">
-<!-- Localization note (tab_queue_notification_text_singular) : This is the
+<!-- Localization note (tab_queue_notification_text_singular2) : This is the
      text of a notification; we expect only one tab queued. -->
-<!ENTITY tab_queue_notification_text_singular "1 ট্যাব সারিবদ্ধ করা হয়েছে">
 
 <!ENTITY pref_char_encoding "ক্যারেক্টার এনকোডিং">
 <!ENTITY pref_char_encoding_on "মেনু দেখাও">
@@ -255,7 +249,8 @@ size. -->
 <!ENTITY pref_import_android "অ্যান্ড্রয়েড থেকে ইম্পোর্ট করা হোক">
 <!ENTITY pref_import_android_summary "নেটিভ ব্রাউজার থেকে বুকমার্ক সংকলন এবং ব্রাউজিং ইতিহাস ইম্পোর্ট করুন">
 <!ENTITY pref_private_data_history2 "পূর্ববর্তী ব্রাউজ সংক্রান্ত তথ্য">
-<!ENTITY pref_private_data_formdata "ফর্ম এবং অনুসন্ধানের ইতিহাস">
+
+
 <!ENTITY pref_private_data_cookies2 "কুকিসমূহ এবং সক্রিয় লগইন গুলি">
 <!ENTITY pref_private_data_passwords "সংরক্ষিত পাসওয়ার্ডসমূহ">
 <!ENTITY pref_private_data_cache "ক্যাশে">
@@ -381,6 +376,7 @@ size. -->
 <!ENTITY doorhanger_login_edit_password_hint "পাসওয়ার্ড">
 <!ENTITY doorhanger_login_edit_toggle "পাসওয়ার্ড প্রদর্শন করা হবে">
 
+
 <!ENTITY pref_titlebar_mode "শিরোনাম বার">
 <!ENTITY pref_titlebar_mode_title "পৃষ্ঠার শিরোনাম প্রদর্শন">
 <!ENTITY pref_titlebar_mode_url "পৃষ্ঠার ঠিকানা প্রদর্শন">
@@ -390,8 +386,7 @@ size. -->
 <!ENTITY pref_scroll_title_bar2 "সম্পূর্ণ স্ক্রিন জুড়ে ব্রাউজিং">
 <!ENTITY pref_scroll_title_bar_summary "&brandShortName; শিরোনাম বার কে লুকান যখন একটি পাতায় স্ক্রল করছেন">
 
-<!ENTITY pref_tab_queue_title "পরে খুলুন">
-<!ENTITY pref_tab_queue_summary "ট্যাবগুলোকে তৎক্ষণাৎ খোলা থেকে বঞ্চিত করুন, কিন্তু পরবর্তী বারে যখন &brandShortName; লোড হবে তখন সব ট্যাব সারিবদ্ধ ট্যাব খুলে দিন।">
+
 <!-- Localization note (page_removed): This string appears in a toast message when
      any page is removed frome about:home. This includes pages that are in history,
      bookmarks, or reading list. -->
@@ -440,6 +435,7 @@ size. -->
 <!ENTITY button_set "নির্ধারণ করুন">
 <!ENTITY button_clear "মুছে ফেলুন">
 <!ENTITY button_remember "Remember">
+
 
 <!ENTITY home_top_sites_title "শীর্ষ সাইটগুলো">
 <!-- Localization note (home_top_sites_add): This string is used as placeholder
@@ -612,6 +608,12 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY ellipsis "...">
 
 <!ENTITY colon ":">
+<!-- LOCALIZATION NOTE (percent): The percent sign is appended after a number to
+     display a percentage value. formatS is the number, #37 is the code to display a percent sign.
+     This format string is typically used by getString method, in such method the percent sign
+     is a reserved caracter. In order to display one percent sign in the result of getString,
+     double percent signs must be inserted in the format string.
+     This entity is used in the zoomed view to display the zoom factor-->
 <!-- These are only used for accessibility for the done and overflow-menu buttons in the actionbar.
      They are never shown to users -->
 
@@ -623,7 +625,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY voicesearch_failed_title "&brandShortName; ভয়েস অনুসন্ধান">
 <!ENTITY voicesearch_failed_message "ভয়েস অনুসন্ধানে এখন একটি সমস্যা হয়েছে। অনুগ্রহ করে পরে চেষ্টা করুন।">
 <!ENTITY voicesearch_failed_message_recoverable "দুঃখিত! আমরা আপনার শব্দ বুঝতে পারিনি। অনুগ্রহ করে আবার চেষ্টা করুন।">
-<!ENTITY voicesearch_failed_retry "পুনরায় চেষ্টা করুন">
+
 <!-- Localization note (remote_tabs_last_synced): the variable is replaced by a
      "relative time span string" produced by Android.  This string describes the
      time the tabs were last synced relative to the current time; examples
