@@ -241,7 +241,7 @@
 <!-- LOCALIZATION NOTE (disabledUnsigned.description.start, disabledUnsigned.description.findAddonsLink, disabledUnsigned.description.end):
      These entities form a sentence, with
      disabledUnsigned.description.findAddonsLink being a link to an external site. -->
-<!ENTITY disabledUnsigned.description.start "Nasledujúce doplnky neboli overené pre používanie v prehliadači &brandShortName;. Môžete si skúsiť ">
+<!ENTITY disabledUnsigned.description.start "Nasledujúce doplnky neboli overené pre používanie v aplikácii &brandShortName;. Môžete si skúsiť ">
 <!ENTITY disabledUnsigned.description.findAddonsLink "vyhľadať náhradu">
 <!ENTITY disabledUnsigned.description.end " alebo požiadať vývojára o overenie doplnku.">
 <!ENTITY disabledUnsigned.learnMore "Ďalšie informácie o našej snahe udržať vás v bezpečí online.">
