@@ -190,7 +190,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY tabGroupsButton.label        "Беттер топтары">
 
 <!ENTITY bookmarksButton.label          "Бетбелгілер">
-
+<!ENTITY bookmarksCmd.commandkey "b">
 
 <!ENTITY bookmarksMenuButton.label          "Бетбелгілер">
 <!ENTITY bookmarksMenuButton.unsorted.label "Сұрыпталмаған бетбелгілер">
@@ -269,7 +269,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY browserToolboxMenu.label     "Браузер құралдары">
 <!ENTITY browserToolboxMenu.accesskey "е">
-
+<!ENTITY browserToolboxCmd.commandkey "i">
 <!-- LOCALIZATION NOTE (browserContentToolboxMenu.label): This is the label for the
   -  application menu item that opens the browser content toolbox UI in the Tools menu.
   -  This toolbox allows to debug the chrome of the content process in multiprocess builds.  -->
