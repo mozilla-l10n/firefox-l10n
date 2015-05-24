@@ -22,6 +22,8 @@
 
 <!ENTITY cmd.back.tooltip                     "ย้อนกลับไปหนึ่งหน้า">
 <!ENTITY cmd.forward.tooltip                  "ไปข้างหน้าหนึ่งหน้า">
+
+
 <!-- global warnings -->
 
 <!ENTITY warning.safemode.label                    "ส่วนเสริมทั้งหมดถูกปิดใช้งานเมื่ออยู่ในโหมดปลอดภัย">
@@ -100,7 +102,8 @@
 <!ENTITY cmd.installAddon.accesskey           "ต">
 <!ENTITY cmd.uninstallAddon.label             "เอาออก">
 <!ENTITY cmd.uninstallAddon.accesskey         "อ">
-<!ENTITY cmd.debugAddon.label                 "ดีบัก">
+
+
 <!ENTITY cmd.showPreferencesWin.label         "ตัวเลือก">
 <!ENTITY cmd.showPreferencesWin.tooltip       "แก้ไขตัวเลือกของส่วนเสริมนี้">
 <!ENTITY cmd.showPreferencesUnix.label        "ปรับแต่ง">
@@ -227,4 +230,16 @@
 <!ENTITY experiment.info.learnmore.accesskey "L">
 <!ENTITY experiment.info.changetelemetry "ตั้งค่าการวัดและส่งข้อมูลทางไกล">
 <!ENTITY experiment.info.changetelemetry.accesskey "T">
+
+
+<!-- LOCALIZATION NOTE (disabledUnsigned.description.start, disabledUnsigned.description.findAddonsLink, disabledUnsigned.description.end):
+     These entities form a sentence, with
+     disabledUnsigned.description.findAddonsLink being a link to an external site. -->
+
+
+
+<!-- LOCALIZATION NOTE (disabledUnsigned.devInfo.start, disabledUnsigned.devInfo.linkToManual, disabledUnsigned.devInfo.end):
+     These entities form a sentence, with disabledUnsigned.devInfo.linkToManual
+     being a link to an external site. -->
+
 

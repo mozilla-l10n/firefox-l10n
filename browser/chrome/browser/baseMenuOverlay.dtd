@@ -26,6 +26,8 @@
 <!ENTITY helpSafeMode.label       "เริ่มใหม่และปิดใช้งานส่วนเสริม…">
 <!ENTITY helpSafeMode.accesskey   "ร">
 
+
+
 <!ENTITY healthReport2.label      "รายงานข้อมูลสุขภาพ &brandShorterName;">
 <!ENTITY healthReport2.accesskey  "า">
 
