@@ -24,9 +24,9 @@
 
 <!ENTITY aboutTelemetry.choosePing "Zvoľte ping:">
 
-<!ENTITY aboutTelemetry.showPreviousPing "&lt;&lt; Predchádzajúci ping">
+<!ENTITY aboutTelemetry.showNewerPing "&lt;&lt; Novší ping">
 
-<!ENTITY aboutTelemetry.showNextPing "Ďalší ping &gt;&gt;">
+<!ENTITY aboutTelemetry.showOlderPing "Starší ping &gt;&gt;">
 
 <!ENTITY aboutTelemetry.generalDataSection "Všeobecné údaje">
 
