@@ -315,6 +315,10 @@
   -  on the context menu that copies the selected item's response headers -->
 <!ENTITY netmonitorUI.context.copyResponseHeaders     "Copiar encabezados de respuesta">
 
+<!-- LOCALIZATION NOTE (netmonitorUI.context.copyResponseHeaders.accesskey): This is the access key
+  -  for the Copy Response Headers menu item displayed in the context menu for a response -->
+<!ENTITY netmonitorUI.context.copyResponseHeaders.accesskey  "S">
+
 <!-- LOCALIZATION NOTE (debuggerUI.summary.editAndResend): This is the label displayed
   -  on the button in the headers tab that opens a form to edit and resend the currently
      displayed request -->

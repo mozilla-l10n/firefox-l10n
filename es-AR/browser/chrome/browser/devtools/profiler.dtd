@@ -45,6 +45,10 @@
 <!-- TODO remove -->
 <!ENTITY profilerUI.recordButton.tooltip "Registrar llamadas a funciones de JavaScript.">
 
+<!-- LOCALIZATION NOTE (profilerUI.recordButton2): This string is displayed
+  -  on a button that starts a new profile. -->
+<!ENTITY profilerUI.recordButton2.tooltip "Intercambiar el estado de la grabación de rendimiento.">
+
 <!-- LOCALIZATION NOTE (profilerUI.importButton): This string is displayed
   -  on a button that opens a dialog to import a saved profile data file. -->
 <!ENTITY profilerUI.importButton "Importar…">
