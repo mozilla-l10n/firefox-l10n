@@ -23,8 +23,8 @@
 <!ENTITY cmd.back.tooltip                     "На одну сторінку назад">
 <!ENTITY cmd.forward.tooltip                  "На сторінку вперед">
 
-<!ENTITY showUnsignedExtensions.button.label  "Some extensions could not be verified">
-<!ENTITY showAllExtensions.button.label       "Show all extensions">
+<!ENTITY showUnsignedExtensions.button.label  "Деякі розширення не можуть бути перевірені">
+<!ENTITY showAllExtensions.button.label       "Показати всі розширення">
 
 <!-- global warnings -->
 <!ENTITY warning.safemode.label                    "В безпечному режимі всі додатки вимкнено.">
@@ -105,8 +105,8 @@
 <!ENTITY cmd.installAddon.accesskey           "В">
 <!ENTITY cmd.uninstallAddon.label             "Вилучити">
 <!ENTITY cmd.uninstallAddon.accesskey         "л">
-<!ENTITY cmd.debugAddon.label                 "Debug">
-<!ENTITY cmd.debugAddon.accesskey             "B">
+<!ENTITY cmd.debugAddon.label                 "Зневадження">
+<!ENTITY cmd.debugAddon.accesskey             "н">
 <!ENTITY cmd.showPreferencesWin.label         "Налаштування">
 <!ENTITY cmd.showPreferencesWin.tooltip       "Змінити налаштування цього додатку">
 <!ENTITY cmd.showPreferencesUnix.label        "Налаштування">
@@ -236,17 +236,17 @@
 
 <!ENTITY setting.learnmore "Докладніше…">
 
-<!ENTITY disabledUnsigned.heading "Some add-ons have been disabled">
+<!ENTITY disabledUnsigned.heading "Деякі додатки були вимкнені">
 <!-- LOCALIZATION NOTE (disabledUnsigned.description.start, disabledUnsigned.description.findAddonsLink, disabledUnsigned.description.end):
      These entities form a sentence, with
      disabledUnsigned.description.findAddonsLink being a link to an external site. -->
-<!ENTITY disabledUnsigned.description.start "The following add-ons have not been verified for use in &brandShortName;. You can ">
-<!ENTITY disabledUnsigned.description.findAddonsLink "find replacements">
-<!ENTITY disabledUnsigned.description.end " or ask the developer to get them verified.">
-<!ENTITY disabledUnsigned.learnMore "Learn more about our efforts to help keep you safe online.">
+<!ENTITY disabledUnsigned.description.start "Наступні додатки не були перевірені для використання в &brandShortName;. Ви можете ">
+<!ENTITY disabledUnsigned.description.findAddonsLink "знайти їм заміну">
+<!ENTITY disabledUnsigned.description.end " або запитати розрабника провести їх перевірку.">
+<!ENTITY disabledUnsigned.learnMore "Дізнайтесь більше про наші зусилля в забезпеченні збереження вашої безпеки в Інтернеті.">
 <!-- LOCALIZATION NOTE (disabledUnsigned.devInfo.start, disabledUnsigned.devInfo.linkToManual, disabledUnsigned.devInfo.end):
      These entities form a sentence, with disabledUnsigned.devInfo.linkToManual
      being a link to an external site. -->
-<!ENTITY disabledUnsigned.devInfo.start "Developers interested in getting their add-ons verified can continue by reading our ">
-<!ENTITY disabledUnsigned.devInfo.linkToManual "manual">
+<!ENTITY disabledUnsigned.devInfo.start "Розробники, зацікавлені в перевірці своїх додатків, можуть продовжити, прочитавши нашу ">
+<!ENTITY disabledUnsigned.devInfo.linkToManual "інструкцію">
 <!ENTITY disabledUnsigned.devInfo.end ".">
