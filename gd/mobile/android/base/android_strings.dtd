@@ -44,7 +44,7 @@
 <!ENTITY bookmark "Comharra-lìn">
 <!ENTITY bookmark_remove "Thoir an comharra-lìn air falbh">
 <!ENTITY bookmark_added "Comharra-lìn air a chur ris">
-<!ENTITY bookmark_removed "Comharra-lìn air a thoirt air falbh">
+<!ENTITY bookmark_removed "Air a thoirt air falbh">
 <!ENTITY bookmark_updated "Comharra-lìn air ùrachadh">
 <!ENTITY bookmark_options "Roghainnean">
 
@@ -246,7 +246,7 @@ size. -->
 <!ENTITY pref_zoom_force_enabled_summary "Tar-àithn e airson ’s gun urrainn dhut duilleag sam bith a shùmadh">
 
 <!ENTITY pref_use_master_password "Cleachd facal-faire maighstir">
-<!ENTITY pref_sync "Co-shioncronachadh">
+<!ENTITY pref_sync "Sioncronachadh">
 <!ENTITY pref_sync_summary "Sioncronaich na tabaichean, comharran-lìn, faclan-faire \u0027s an eachdraidh agad">
 <!ENTITY pref_search_suggestions "Seall molaidhean-luirg">
 <!ENTITY pref_import_android "Ion-phortaich o Android">
@@ -395,7 +395,7 @@ size. -->
      any page is removed frome about:home. This includes pages that are in history,
      bookmarks, or reading list. -->
 
-<!ENTITY page_removed "Duilleag air a thoirt air falbh">
+<!ENTITY page_removed "Air a thoirt air falbh">
 
 <!ENTITY bookmark_edit_title "Deasaich an comharra-lìn">
 <!ENTITY bookmark_edit_name "Ainm">
@@ -410,7 +410,7 @@ size. -->
 <!ENTITY site_settings_no_settings  "Chan eil roghainnean ann a ghabhas an glanadh.">
 
 <!ENTITY reading_list_added "Chaidh an duilleag a chur ris an liosta-leughaidh agad">
-<!ENTITY reading_list_removed "Chaidh an duilleag a thoirt air falbh on liosta leughaidh agad">
+<!ENTITY reading_list_removed "Air a thoirt air falbh on liosta leughaidh agad">
 <!-- Localization note (reading_list_remove) : Used to remove the currently open page from
      the user's reading list. The opposite of overlay_share_reading_list_btn_label. -->
 <!ENTITY reading_list_remove "Thoir air falbh on liosta-leughaidh">
