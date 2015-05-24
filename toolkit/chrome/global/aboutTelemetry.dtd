@@ -28,6 +28,10 @@
 
 <!ENTITY aboutTelemetry.showOlderPing "Starší ping &gt;&gt;">
 
+<!ENTITY aboutTelemetry.archiveWeekHeader "Týždeň">
+
+<!ENTITY aboutTelemetry.archivePingHeader "Ping">
+
 <!ENTITY aboutTelemetry.generalDataSection "Všeobecné údaje">
 
 <!ENTITY aboutTelemetry.environmentDataSection "Údaje prostredia">
