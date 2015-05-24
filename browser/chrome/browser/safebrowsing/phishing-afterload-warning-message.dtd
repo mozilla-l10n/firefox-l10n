@@ -4,7 +4,7 @@
 
 <!ENTITY safeb.palm.accept.label "Tirem-me daqui!">
 <!ENTITY safeb.palm.decline.label "Ignorar este aviso">
-<!ENTITY safeb.palm.notforgery.label2 "Não é uma tentativa de falsificação...">
+<!ENTITY safeb.palm.notforgery.label2 "Não é uma tentativa de falsificação…">
 <!ENTITY safeb.palm.reportPage.label "Porque é que este sítio foi bloqueado?">
 
 <!ENTITY safeb.blocked.malwarePage.title "Suspeita de Sítio Maligno!">

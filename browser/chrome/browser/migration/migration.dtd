@@ -26,8 +26,8 @@
 <!ENTITY importItems.title              "Itens a importar">
 <!ENTITY importItems.label              "Selecione os itens a importar:">
 
-<!ENTITY migrating.title                "A importar...">
-<!ENTITY migrating.label                "Os itens seguintes estão a ser importados...">
+<!ENTITY migrating.title                "A importar…">
+<!ENTITY migrating.label                "Estes itens estão a ser importados…">
 
 <!ENTITY selectProfile.title            "Selecione o perfil">
 <!ENTITY selectProfile.label            "Os perfis seguintes estão disponíveis para a importação do:">
