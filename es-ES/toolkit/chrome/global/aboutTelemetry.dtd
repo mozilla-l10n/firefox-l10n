@@ -33,11 +33,17 @@ Mostrar datos de subsesión
 <!ENTITY aboutTelemetry.choosePing "
 Elija ping:
 ">
-<!ENTITY aboutTelemetry.showPreviousPing "
-&lt;&lt; Ping anterior
+<!ENTITY aboutTelemetry.showNewerPing "
+&lt;&lt; Ping más reciente
 ">
-<!ENTITY aboutTelemetry.showNextPing "
-Siguiente ping &gt;&gt;
+<!ENTITY aboutTelemetry.showOlderPing "
+Ping más antiguo &gt;&gt;
+">
+<!ENTITY aboutTelemetry.archiveWeekHeader "
+Semana
+">
+<!ENTITY aboutTelemetry.archivePingHeader "
+Ping
 ">
 <!ENTITY aboutTelemetry.generalDataSection "
   Datos generales">
