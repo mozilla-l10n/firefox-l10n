@@ -4,6 +4,8 @@
 
 <!ENTITY aboutTelemetry.pageTitle "Údaje telemetrie">
 
+<!ENTITY aboutTelemetry.changeDataChoices "Zmeniť">
+
 <!ENTITY aboutTelemetry.telemetryEnabled "Telemetria je <span>zapnutá</span>.">
 
 <!ENTITY aboutTelemetry.telemetryDisabled "Telemetria je <span>vypnutá</span>.">
