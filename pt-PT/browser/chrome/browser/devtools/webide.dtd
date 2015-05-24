@@ -6,13 +6,13 @@
 
 <!ENTITY projectMenu_label "Projeto">
 <!ENTITY projectMenu_accesskey "P">
-<!ENTITY projectMenu_newApp_label "Nova aplicação...">
+<!ENTITY projectMenu_newApp_label "Nova aplicação…">
 <!ENTITY projectMenu_newApp_accesskey "N">
-<!ENTITY projectMenu_importPackagedApp_label "Abrir aplicação empacotada...">
+<!ENTITY projectMenu_importPackagedApp_label "Abrir aplicação empacotada…">
 <!ENTITY projectMenu_importPackagedApp_accesskey "e">
-<!ENTITY projectMenu_importHostedApp_label "Abrir aplicação alojada...">
+<!ENTITY projectMenu_importHostedApp_label "Abrir aplicação alojada…">
 <!ENTITY projectMenu_importHostedApp_accesskey "j">
-<!ENTITY projectMenu_selectApp_label "Abrir aplicação...">
+<!ENTITY projectMenu_selectApp_label "Abrir aplicação…">
 <!ENTITY projectMenu_selectApp_accesskey "A">
 <!ENTITY projectMenu_play_label "Instalar executar">
 <!ENTITY projectMenu_play_accesskey "I">
@@ -99,7 +99,7 @@
 
 <!ENTITY newAppWindowTitle "Nova aplicação">
 <!ENTITY newAppHeader "Selecionar modelo">
-<!ENTITY newAppLoadingTemplate "A carregar modelos...">
+<!ENTITY newAppLoadingTemplate "A carregar modelos…">
 <!ENTITY newAppProjectName "Nome do projeto:">
 <!-- Decks -->
 

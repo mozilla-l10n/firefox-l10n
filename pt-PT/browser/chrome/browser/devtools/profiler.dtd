@@ -140,7 +140,7 @@
   -  should be shown. -->
 
 <!ENTITY profilerUI.showJITOptimizations             "Mostrar otimizações JIT">
-<!ENTITY profilerUI.showJITOptimizations.tooltiptext "Mostrar dados de otimização JIT amostrados em cada frame na árvore de invocação de JS">
+<!ENTITY profilerUI.showJITOptimizations.tooltiptext "Mostrar dados de otimização JIT amostrados em cada frame na árvore de invocação de JS.">
 <!-- LOCALIZATION NOTE (profilerUI.JITOptimizationsTitle): This string
   -  is displayed as the title of the JIT Optimizations panel. -->
 
