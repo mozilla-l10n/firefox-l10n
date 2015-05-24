@@ -20,6 +20,8 @@
 
 <!ENTITY aboutTelemetry.showArchivedPingData "Archivované údaje pingu">
 
+<!ENTITY aboutTelemetry.showSubsessionData "Zobraziť údaje sub-relácie">
+
 <!ENTITY aboutTelemetry.choosePing "Zvoľte ping:">
 
 <!ENTITY aboutTelemetry.showPreviousPing "&lt;&lt; Predchádzajúci ping">
