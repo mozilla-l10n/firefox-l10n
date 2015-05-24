@@ -445,6 +445,7 @@ size. -->
 <!ENTITY button_set "Nastaviť">
 <!ENTITY button_clear "Vymazať">
 <!ENTITY button_remember "Zapamätať">
+<!ENTITY button_copy "Kopírovať">
 
 <!ENTITY firstrun_panel_title_welcome "Vitajte">
 
