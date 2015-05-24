@@ -42,7 +42,7 @@
 <!ENTITY  formAction            "Acción">
 <!ENTITY  formMethod            "Método">
 <!ENTITY  formName              "Nombre">
-<!ENTITY  formEncoding2         "Codificación de texto:">
+<!ENTITY  formEncoding          "Codificación:">
 <!ENTITY  formTarget            "Destino:">
 <!ENTITY  formFields            "Campos:">
 <!ENTITY  formLabel             "Etiqueta">
