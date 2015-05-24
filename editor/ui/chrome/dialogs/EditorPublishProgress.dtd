@@ -3,8 +3,8 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!-- Window title -->
 
-<!ENTITY siteUrl.label         "Site URL:">
-<!ENTITY docSubdir.label       "Page subdirectory:">
+<!ENTITY siteUrl.label         "URL do site:">
+<!ENTITY docSubdir.label       "Subdiretório da página:">
 <!ENTITY otherSubdir.label     "Image subdirectory:">
 
 <!ENTITY status.label          "Publishing…">

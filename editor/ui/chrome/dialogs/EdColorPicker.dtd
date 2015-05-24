@@ -12,7 +12,7 @@
 <!ENTITY default.label "Padrão">
 <!ENTITY default.accessKey "d">
 <!ENTITY palette.label "Palete:">
-<!ENTITY standardPalette.label "Standard">
+<!ENTITY standardPalette.label "Padrão">
 <!ENTITY webPalette.label "Todas as cores web">
 <!ENTITY background.label "Plano de fundo para:">
 <!ENTITY background.accessKey "u">
