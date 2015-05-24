@@ -15,3 +15,6 @@
 <!ENTITY safeb.blocked.phishingPage.title2 "সম্ভাব্য ওয়েব প্রতারণার ইঙ্গিত!">
 <!ENTITY safeb.blocked.phishingPage.shortDesc2 "এই পেজে কোনো ব্যক্তিগত তথ্য ও পরিচয় দিলে প্রতারণা বা অন্য জালিয়াতি হতে পারে।">
 <!ENTITY safeb.blocked.phishingPage.longDesc2 "<p>এই ধরনের ওয়েব জালিয়াতি যেসব কেলেঙ্কারীতে ব্যবহার করা হয় তাদের ফিশিং আক্রমণ বলে, যে ক্ষেত্রে আপনার বিশ্বাস কে কাজে লাগিয়ে প্রতারক ওয়েব পেজ এবং ইমেল গুলিকে ব্যবহার করে</p>">
+
+<!-- Localization note (safeb.blocked.unwanted.shortDesc) - Please don't translate the contents of the <span id="unwanted_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
+
