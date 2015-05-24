@@ -132,7 +132,7 @@
 <!-- LOCALIZATION NOTE (debuggerUI.searchLine): This is the text that appears
   -  in the source editor's context menu for the line search operation. -->
 
-<!ENTITY debuggerUI.searchGoToLine           "Ir para a linha...">
+<!ENTITY debuggerUI.searchGoToLine           "Ir para a linha…">
 <!ENTITY debuggerUI.searchGoToLine.key       "h">
 <!ENTITY debuggerUI.searchGoToLine.accesskey "h">
 <!-- LOCALIZATION NOTE (debuggerUI.searchVariable): This is the text that appears

@@ -78,7 +78,7 @@
 <!-- LOCALIZATION NODE (btnConsoleSharedWorkers) the term "Shared Workers"
   -  should not be translated. -->
 
-<!ENTITY btnConsoleSharedWorkers "Shared Workers">
+<!ENTITY btnConsoleSharedWorkers "Workers partilhados">
 <!-- LOCALIZATION NODE (btnConsoleServiceWorkers) the term "Service Workers"
   -  should not be translated. -->
 <!ENTITY btnConsoleServiceWorkers "Service Workers">

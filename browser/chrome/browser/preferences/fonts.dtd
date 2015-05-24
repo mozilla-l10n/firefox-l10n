@@ -39,7 +39,7 @@
 <!ENTITY  font.langGroup.tamil                    "Tamil">
 <!ENTITY  font.langGroup.armenian                 "Arménio">
 <!ENTITY  font.langGroup.bengali                  "Bengali">
-<!ENTITY  font.langGroup.canadian                 "Unified Canadian Syllabary">
+<!ENTITY  font.langGroup.canadian                 "Silabário unificado canadiano">
 <!ENTITY  font.langGroup.ethiopic                 "Etíope">
 <!ENTITY  font.langGroup.georgian                 "Georgiano">
 <!ENTITY  font.langGroup.gujarati                 "Gujarati">
@@ -49,7 +49,7 @@
 <!ENTITY  font.langGroup.oriya                    "Oriya">
 <!ENTITY  font.langGroup.telugu                   "Telugu">
 <!ENTITY  font.langGroup.kannada                  "Kannada">
-<!ENTITY  font.langGroup.sinhala                  "Sinhala">
+<!ENTITY  font.langGroup.sinhala                  "Cingalês">
 <!ENTITY  font.langGroup.tibetan                  "Tibetano">
 <!-- Minimum font size -->
 <!ENTITY minSize.label                            "Tamanho mínimo:">

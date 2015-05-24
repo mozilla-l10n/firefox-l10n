@@ -52,7 +52,7 @@
 <!ENTITY connection.startSimulatorTooltip "Inicia e estabelece uma ligação a uma instância do simulador.">
 <!ENTITY connection.saveConnectionInfo "Guardar">
 <!ENTITY connection.saveConnectionInfoTooltip "Guarda o servidor e a porta.">
-<!ENTITY connection.connecting "A ligar...">
+<!ENTITY connection.connecting "A estabelecer ligação…">
 <!ENTITY connection.disconnecting "A desligar...">
 <!ENTITY connection.cancel "Cancelar">
 <!ENTITY connection.cancelConnectTooltip "Cancela a ligação atual.">
@@ -60,9 +60,9 @@
 <!ENTITY connection.or "ou">
 <!ENTITY connection.noSimulatorInstalled "Nenhum simulador instalado.">
 <!ENTITY connection.installOneSimulator "Instalar simulador">
-<!ENTITY connection.installOneSimulatorTooltip "Instala a versão do simulador transferindo o extra apropriado.">
+<!ENTITY connection.installOneSimulatorTooltip "Instala a versão do simulador, transferindo o extra apropriado.">
 <!ENTITY connection.installAnotherSimulator "Adicionar">
-<!ENTITY connection.installAnotherSimulatorTooltip "Instala uma versão adicional do simulador transferindo o extra apropriado.">
+<!ENTITY connection.installAnotherSimulatorTooltip "Instala uma versão adicional do simulador, transferindo o extra apropriado.">
 <!ENTITY connection.startRegisteredSimulator "Inicia:">
 
 <!ENTITY projects.localApps "Aplicações locais">

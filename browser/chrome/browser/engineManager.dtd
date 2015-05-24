@@ -16,11 +16,11 @@
 <!ENTITY  dn.accesskey              "b">
 <!ENTITY  remove.label              "Remover">
 <!ENTITY  remove.accesskey          "R">
-<!ENTITY  edit.label                "Editar Palavra-Chave...">
+<!ENTITY  edit.label                "Editar palavra-chave…">
 <!ENTITY  edit.accesskey            "t">
 
-<!ENTITY  addEngine.label           "Mais motores de pesquisa...">
-<!ENTITY  addEngine.accesskey       "M">
+<!ENTITY  addEngine.label           "Mais motores de pesquisa…">
+<!ENTITY  addEngine.accesskey       "a">
 
 <!ENTITY  enableSuggest.label       "Mostrar sugestões de pesquisa">
 <!ENTITY  enableSuggest.accesskey   "s">
