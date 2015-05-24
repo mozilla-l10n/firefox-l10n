@@ -261,7 +261,7 @@ size. -->
 <!ENTITY pref_private_data_offlineApps "Údaje stránok v režime offline">
 <!ENTITY pref_private_data_siteSettings2 "Nastavenia stránok">
 <!ENTITY pref_private_data_downloadFiles2 "Prevzaté súbory">
-
+<!ENTITY pref_private_data_syncedTabs "Synchronizované karty">
 
 <!ENTITY pref_about_firefox "Čo je &brandShortName;">
 <!ENTITY pref_vendor_faqs "Často kladené otázky">
