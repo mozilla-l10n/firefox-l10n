@@ -127,7 +127,7 @@
 <!ENTITY cookieManagePopups.label "Gerir popups">
 <!ENTITY cookieManagePopups.accesskey "G">
 
-<!ENTITY cookieCookieManager.label "Gestor de cookie">
+<!ENTITY cookieCookieManager.label "Gestor de cookies">
 <!ENTITY cookieCookieManager.accesskey "c">
 <!ENTITY cookieImageManager.label "Gestor de imagens">
 <!ENTITY cookieImageManager.accesskey "i">
