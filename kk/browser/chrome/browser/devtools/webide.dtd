@@ -191,12 +191,14 @@
 <!-- Logs panel -->
 <!-- Simulator Options -->
 
+<!ENTITY simulator_title "Симулятор опциялары">
+<!ENTITY simulator_remove "Симуляторды өшіру">
 <!ENTITY simulator_reset "Бастапқы мәндерін қайтару">
 <!ENTITY simulator_name "Аты">
-
+<!ENTITY simulator_software "Бағд. қамтама">
 <!ENTITY simulator_version "Нұсқасы">
 <!ENTITY simulator_profile "Профиль">
-
+<!ENTITY simulator_hardware "Құрылғылар">
 <!ENTITY simulator_device "Құрылғы">
-
-
+<!ENTITY simulator_screenSize "Экран">
+<!ENTITY simulator_pixelRatio "Пиксельдік арақатынасы">
