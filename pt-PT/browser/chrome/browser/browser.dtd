@@ -826,7 +826,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      The translation should do the same. -->
 
 <!ENTITY panicButton.view.mainActionDesc          "Ao continuar vai:">
-<!ENTITY panicButton.view.deleteCookies           "Eliminar os <html:strong>Cookies</html:strong> recentes">
+<!ENTITY panicButton.view.deleteCookies           "Eliminar <html:strong>cookies</html:strong> recentes">
 <!ENTITY panicButton.view.deleteHistory           "Eliminar o <html:strong>Histórico</html:strong> recente">
 <!ENTITY panicButton.view.deleteTabsAndWindows    "Fechar todos os <html:strong>Separadores</html:strong> e <html:strong>Janelas</html:strong>">
 <!ENTITY panicButton.view.openNewWindow           "Abrir uma nova janela">

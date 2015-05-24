@@ -20,7 +20,7 @@
 <!ENTITY  blockWebForgeries.label     "Bloquear sítios reportados como falsificações">
 <!ENTITY  blockWebForgeries.accesskey "B">
 
-<!ENTITY  addonExceptions.label         "Exceções...">
+<!ENTITY  addonExceptions.label         "Exceções…">
 <!ENTITY  addonExceptions.accesskey     "E">
 
 
@@ -28,13 +28,13 @@
 
 <!ENTITY  rememberPasswords.label       "Memorizar palavras-passe dos sítios web">
 <!ENTITY  rememberPasswords.accesskey   "r">
-<!ENTITY  passwordExceptions.label      "Exceções...">
-<!ENTITY  passwordExceptions.accesskey  "c">
+<!ENTITY  passwordExceptions.label      "Exceções…">
+<!ENTITY  passwordExceptions.accesskey  "x">
 
 <!ENTITY  useMasterPassword.label        "Utilizar uma palavra-passe mestra">
 <!ENTITY  useMasterPassword.accesskey    "U">
-<!ENTITY  changeMasterPassword.label     "Alterar a palavra-passe mestra...">
+<!ENTITY  changeMasterPassword.label     "Alterar palavra-passe mestra…">
 <!ENTITY  changeMasterPassword.accesskey "m">
 
-<!ENTITY  savedPasswords.label            "Palavras-passe guardadas...">
+<!ENTITY  savedPasswords.label            "Palavras-passe guardadas">
 <!ENTITY  savedPasswords.accesskey        "P">

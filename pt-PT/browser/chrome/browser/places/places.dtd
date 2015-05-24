@@ -27,11 +27,11 @@
 <!ENTITY view.sortDescending.label      "Ordem Z - A">
 <!ENTITY view.sortDescending.accesskey  "Z">
 
-<!ENTITY importBookmarksFromHTML.label     "Importar marcadores de HTML">
+<!ENTITY importBookmarksFromHTML.label     "Importar marcadores de HTML…">
 <!ENTITY importBookmarksFromHTML.accesskey "I">
-<!ENTITY exportBookmarksToHTML.label       "Exportar marcadores para HTML">
+<!ENTITY exportBookmarksToHTML.label       "Exportar marcadores para HTML…">
 <!ENTITY exportBookmarksToHTML.accesskey   "E">
-<!ENTITY importOtherBrowser.label          "Importar dados de outro navegador">
+<!ENTITY importOtherBrowser.label          "Importar dados de outro navegador…">
 <!ENTITY importOtherBrowser.accesskey      "a">
 
 <!ENTITY cmd.backup.label               "Cópia de segurança...">

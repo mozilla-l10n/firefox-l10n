@@ -24,7 +24,7 @@
 <!ENTITY  locbar.openpage.accesskey     "o">
 
 <!ENTITY  acceptCookies.label           "Aceitar cookies de sítios">
-<!ENTITY  acceptCookies.accesskey       "c">
+<!ENTITY  acceptCookies.accesskey       "A">
 
 <!ENTITY  acceptThirdParty.pre.label      "Aceitar cookies de terceiros:">
 <!ENTITY  acceptThirdParty.pre.accesskey  "c">
@@ -39,10 +39,10 @@
 <!ENTITY  close.label                   "Fechar o &brandShortName;">
 <!ENTITY  askEachTime.label             "perguntar sempre que necessário">
 
-<!ENTITY  cookieExceptions.label        "Exceções...">
+<!ENTITY  cookieExceptions.label        "Exceções…">
 <!ENTITY  cookieExceptions.accesskey    "E">
 
-<!ENTITY  showCookies.label             "Mostrar as cookies...">
+<!ENTITY  showCookies.label             "Mostrar cookies…">
 <!ENTITY  showCookies.accesskey         "s">
 
 <!ENTITY  historyHeader.pre.label          "O &brandShortName; irá:">
