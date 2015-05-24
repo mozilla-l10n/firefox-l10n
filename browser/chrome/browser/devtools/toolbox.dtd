@@ -81,7 +81,7 @@
   -  boolean preference in about:config, in the options panel. -->
 
 <!ENTITY options.enableChrome.label5    "Браузердің chrome және қосымшаларды жөндеу саймандар панельдерін іске қосу">
-
+<!ENTITY options.enableChrome.tooltip3  "Бұл опцияны іске қосу (Саймандар > Веб өндіруші > Браузердің саймандар панелі) нәтижесінде сіз браузер контекстінде түрлі өндіруші саймандарын қолдана алатын боласыз, және қосымшаларды Қосымшалар Басқарушысынан жөндей алатын боласыз.">
 <!-- LOCALIZATION NOTE (options.enableRemote.label3): This is the label for the
   -  checkbox that toggles remote debugging, i.e. devtools.debugger.remote-enabled
   -  boolean preference in about:config, in the options panel. -->

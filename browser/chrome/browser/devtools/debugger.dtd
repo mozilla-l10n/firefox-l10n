@@ -204,11 +204,11 @@
   -  netmonitorUI.context.newTab  -->
 
 <!ENTITY debuggerUI.context.newTab           "Жаңа бетте ашу">
-
+<!ENTITY debuggerUI.context.newTab.accesskey "а">
 <!-- LOCALIZATION NOTE (debuggerUI.context.copyUrl): This is the label displayed
   -  on the context menu that copies the selected request's url. This should be
   -  the same as netmonitorUI.context.copyUrl -->
 
 <!ENTITY debuggerUI.context.copyUrl           "Сілтемесін көшіріп алу">
-
-
+<!ENTITY debuggerUI.context.copyUrl.accesskey "к">
+<!ENTITY debuggerUI.context.copyUrl.key "к">
