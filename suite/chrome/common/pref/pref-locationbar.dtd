@@ -4,16 +4,16 @@
 
 <!ENTITY pref.locationBar.title "Barra de direcciones">
 <!ENTITY autoComplete.label "Autocompletado">
-<!ENTITY enableAutoComplete.label "Autocompletar desde su historial de navegación según escribe">
-<!ENTITY enableAutoComplete.accesskey "A">
+<!ENTITY autoCompleteMatchHistory.label "Sugerir automáticamente sitios web del historial">
+<!ENTITY autoCompleteMatchHistory.accesskey "S">
+<!ENTITY autoCompleteMatchBookmarks.label "Sugerir automáticamente sitios web de marcadores">
+<!ENTITY autoCompleteMatchBookmarks.accesskey "a">
 <!ENTITY autoCompleteAutoFill.label "Precumplimentar automáticamente la mejor coincidencia">
 <!ENTITY autoCompleteAutoFill.accesskey "u">
 <!ENTITY autoCompleteShowPopup.label "Mostrar una lista de resultados coincidentes">
 <!ENTITY autoCompleteShowPopup.accesskey "M">
 <!ENTITY autoCompleteMatchOnlyTyped.label "Hacer coincidir sólo sitios web que haya escrito previamente">
 <!ENTITY autoCompleteMatchOnlyTyped.accesskey "H">
-<!ENTITY autoCompleteMatchOnlyURLs.label "Hacer coincidir sólo en las direcciones, no en los títulos de sitios web">
-<!ENTITY autoCompleteMatchOnlyURLs.accesskey "n">
 <!ENTITY autoCompleteMatch.label "Buscar coincidencias">
 <!ENTITY autoCompleteMatch.accesskey "B">
 <!ENTITY autoCompleteMatchAnywhere "en cualquier parte de la dirección y el título">
