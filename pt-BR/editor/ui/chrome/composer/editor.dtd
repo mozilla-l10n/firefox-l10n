@@ -47,7 +47,7 @@
 <!ENTITY NormalMode.label "Normal">
 <!ENTITY NormalMode.accesskey "N">
 <!ENTITY NormalMode.tooltip "Exibir bordas nas tabelas e âncoras nomeadas">
-<!ENTITY AllTagsModeTab.label "HTML Tags">
+<!ENTITY AllTagsModeTab.label "Etiquetas HTML">
 <!ENTITY AllTagsMode.label "Exibir tags">
 <!ENTITY AllTagsMode.accesskey "x">
 <!ENTITY AllTagsMode.tooltip "Exibir ícones para todas as tags HTML">
@@ -57,7 +57,7 @@
      or use latin "rtl" if you want this image to the right of text. You do
      not need to include HTML in the label 'HTMLSourceModeTab.label' -->
 <!ENTITY HTMLSourceModeTab.dir "ltr">
-<!ENTITY HTMLSourceModeTab.label "Source">
+<!ENTITY HTMLSourceModeTab.label "Fonte">
 <!ENTITY HTMLSourceMode.label "Código-fonte HTML">
 <!ENTITY HTMLSourceMode.accesskey "f">
 <!ENTITY HTMLSourceMode.tooltip "Editar código-fonte HTML">
