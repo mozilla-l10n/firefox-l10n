@@ -14,6 +14,18 @@
 
 <!ENTITY aboutTelemetry.extendedRecordingDisabled "Záznam rozšírenej telemetrie je <span>vypnutý</span>.">
 
+<!ENTITY aboutTelemetry.pingDataSource "Zdroj údajov pre ping:">
+
+<!ENTITY aboutTelemetry.showCurrentPingData "Aktuálne údaje pingu">
+
+<!ENTITY aboutTelemetry.showArchivedPingData "Archivované údaje pingu">
+
+<!ENTITY aboutTelemetry.choosePing "Zvoľte ping:">
+
+<!ENTITY aboutTelemetry.showPreviousPing "&lt;&lt; Predchádzajúci ping">
+
+<!ENTITY aboutTelemetry.showNextPing "Ďalší ping &gt;&gt;">
+
 <!ENTITY aboutTelemetry.generalDataSection "Všeobecné údaje">
 
 <!ENTITY aboutTelemetry.environmentDataSection "Údaje prostredia">
