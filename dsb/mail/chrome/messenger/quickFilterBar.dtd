@@ -139,7 +139,7 @@
      box faster.
      -->
 
-<!ENTITY quickFilterBar.textbox.emptyText.base "Toś te powsći filtrowaś… #1">
+<!ENTITY quickFilterBar.textbox.emptyText.base "Toś te powěsći filtrowaś… #1">
 <!-- LOCALIZATION NOTE (quickFilterBar.show.key2):
      This is the key used to show the quick filter bar. -->
 
