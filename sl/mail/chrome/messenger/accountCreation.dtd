@@ -49,8 +49,8 @@
      displayed on the button in manual edit mode which will re-guess
      the account configuration, taking into account the settings that
      the user has manually changed. -->
-<!ENTITY half-manual-test.label          "Ponovno preveri">
-<!ENTITY half-manual-test.accesskey      "o">
+<!ENTITY half-manual-test.label          "Preverite, da so spodnji podatki pravilni.">
+<!ENTITY half-manual-test.accesskey      "t">
 <!ENTITY manual-edit.label               "Ročna nastavitev">
 <!ENTITY manual-edit.accesskey           "R">
 <!ENTITY switch-to-provisioner.label     "Odpri nov račun">
