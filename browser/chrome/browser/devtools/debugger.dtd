@@ -79,7 +79,7 @@
 
 <!-- LOCALIZATION NOTE (debuggerUI.showVarsFilter): This is the label for the
   -  checkbox that toggles visibility of a designated variables filter box. -->
-<!ENTITY debuggerUI.showVarsFilter           "Показувати коробку фільтру змінних">
+<!ENTITY debuggerUI.showVarsFilter           "Показувати блок фільтру змінних">
 <!ENTITY debuggerUI.showVarsFilter.accesskey "к">
 
 <!-- LOCALIZATION NOTE (debuggerUI.showOnlyEnum): This is the label for the
@@ -107,7 +107,7 @@
 
 <!-- LOCALIZATION NOTE (debuggerUI.searchFile): This is the text that appears
   -  in the source editor's context menu for the scripts search operation. -->
-<!ENTITY debuggerUI.searchFile           "Скрипти відсіювання">
+<!ENTITY debuggerUI.searchFile           "Фільтр сценаріїв">
 <!ENTITY debuggerUI.searchFile.key       "С">
 <!ENTITY debuggerUI.searchFile.altkey    "O">
 <!ENTITY debuggerUI.searchFile.accesskey "P">

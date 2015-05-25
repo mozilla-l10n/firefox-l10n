@@ -139,12 +139,12 @@
 
 <!-- LOCALIZATION NOTE (options.webconsole.label): This is the label for the
   -  heading of the group of Web Console preferences in the options panel. -->
-<!ENTITY options.webconsole.label            "Інтернетна консоль">
+<!ENTITY options.webconsole.label            "Веб-консоль">
 
 <!-- LOCALIZATION NOTE (options.timestampMessages.label): This is the
    - label for the checkbox that toggles timestamps in the Web Console -->
 <!ENTITY options.timestampMessages.label      "Увімкнути часові штампи">
-<!ENTITY options.timestampMessages.tooltip    "Якщо ввімкнено цей параметр, команди і вивід показуватиме час у інтернетній консолі">
+<!ENTITY options.timestampMessages.tooltip    "Якщо ввімкнено цей параметр, команди і вивід показуватиме час у веб-консолі">
 
 <!-- LOCALIZATION NOTE (options.styleeditor.label): This is the label for the
   -  heading of the group of Style Editor preferences in the options

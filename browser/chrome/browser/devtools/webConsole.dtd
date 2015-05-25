@@ -8,7 +8,7 @@
   - A good criteria is the language in which you'd find the best
   - documentation on web development on the web. -->
 
-<!ENTITY window.title "Інтернетна консоль">
+<!ENTITY window.title "Веб-консоль">
 <!ENTITY browserConsole.title "Консоль браузера">
 
 <!ENTITY networkPanel.requestURLColon             "URL запиту:">
@@ -88,7 +88,7 @@
 
 <!ENTITY filterOutput.placeholder "Відсіяти вивід">
 <!ENTITY btnClear.label        "Очистити">
-<!ENTITY btnClear.tooltip      "Очистити вивід інтернетної консолі">
+<!ENTITY btnClear.tooltip      "Очистити вивід веб-консолі">
 <!ENTITY btnClear.accesskey    "О">
 
 <!ENTITY fullZoomEnlargeCmd.commandkey  "+">
