@@ -17,6 +17,11 @@
   -  the search box when no search term has been entered. -->
 <!ENTITY filterStylesPlaceholder      "Estilos de filtro">
 
+<!-- LOCALIZATION NOTE (addRuleButtonTooltip): This is the tooltip shown when
+  -  hovering the `Add new rule` button in the rules view toolbar. This should
+  -  match ruleView.contextmenu.addNewRule in styleinspector.properties -->
+<!ENTITY addRuleButtonTooltip  "Agregar nueva regla">
+
 <!-- LOCALIZATION NOTE (selectedElementLabel): This is the label for the path of
   -  the highlighted element in the web page. This path is based on the document
   -  tree. -->
