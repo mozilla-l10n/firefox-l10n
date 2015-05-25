@@ -261,6 +261,7 @@ size. -->
 <!ENTITY pref_private_data_offlineApps "Datos de sitios sin conexión">
 <!ENTITY pref_private_data_siteSettings2 "Opciones del sitio">
 <!ENTITY pref_private_data_downloadFiles2 "Descargas">
+<!ENTITY pref_private_data_syncedTabs "Pestañas sincronizadas">
 
 
 <!ENTITY pref_about_firefox "Acerca de &brandShortName;">
@@ -380,6 +381,11 @@ size. -->
 <!ENTITY doorhanger_login_edit_password_hint "Contraseña">
 <!ENTITY doorhanger_login_edit_toggle "Mostrar contraseña">
 <!ENTITY doorhanger_login_edit_toast_error "No se pudo guardar el ingreso">
+<!ENTITY doorhanger_login_select_message "Copiar contraseña de &formatS;?">
+<!ENTITY doorhanger_login_select_toast_copy "Contraseñá copiada al portapapeles">
+<!ENTITY doorhanger_login_select_toast_copy_error "No se pudo copiar la contraseña">
+<!ENTITY doorhanger_login_select_action_text "Seleccionar otro usuario">
+<!ENTITY doorhanger_login_select_title "Copiar contraseña desde">
 
 <!ENTITY pref_titlebar_mode "Barra de título">
 <!ENTITY pref_titlebar_mode_title "Mostrar título de la página">
@@ -440,6 +446,7 @@ size. -->
 <!ENTITY button_set "Establecer">
 <!ENTITY button_clear "Limpiar">
 <!ENTITY button_remember "Recordar">
+<!ENTITY button_copy "Copiar">
 
 <!ENTITY firstrun_panel_title_welcome "Bienvenido">
 
