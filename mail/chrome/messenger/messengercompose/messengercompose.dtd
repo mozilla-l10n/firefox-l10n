@@ -296,7 +296,7 @@
 <!ENTITY convertRegularAttachment.label "Običajna priponka">
 <!ENTITY convertRegularAttachment.accesskey "a">
 <!ENTITY attachPage.label "Pripni spletno stran …">
-<!ENTITY attachPage.accesskey "W">
+<!ENTITY attachPage.accesskey "s">
 <!-- Spell checker context menu items -->
 
 <!ENTITY spellAddDictionaries.label "Dodaj slovarje …">

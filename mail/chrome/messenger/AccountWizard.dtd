@@ -110,7 +110,7 @@
 
 
 <!ENTITY completionTitle.label "Čestitke!">
-<!ENTITY completionText.label "Preverite, da so spodnji podatki pravilni.">
+<!ENTITY completionText.label "Preverite, ali so spodnji podatki pravilni.">
 <!ENTITY serverTypePrefix.label "Vrsta dohodnega strežnika:">
 <!ENTITY serverNamePrefix.label "Ime dohodnega strežnika:">
 <!ENTITY smtpServerNamePrefix.label "Ime odhodnega strežnika (SMTP):">
