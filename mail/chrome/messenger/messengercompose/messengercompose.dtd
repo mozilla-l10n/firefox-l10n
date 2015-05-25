@@ -158,6 +158,8 @@
 <!ENTITY bothFormatCmd.accesskey "l">
 <!ENTITY priorityMenu.label "Prioritate">
 <!ENTITY priorityMenu.accesskey "P">
+<!ENTITY priorityButton.title "Prioritate">
+<!ENTITY priorityButton.tooltiptext "Schimbă prioritatea mesajului">
 <!ENTITY priorityButton.label "Prioritate:">
 <!ENTITY lowestPriorityCmd.label "Cea mai mică">
 <!ENTITY lowestPriorityCmd.accesskey "C">
