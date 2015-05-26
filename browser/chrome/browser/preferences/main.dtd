@@ -16,9 +16,9 @@
 <!ENTITY useCurrentPage.accesskey "a">
 <!ENTITY useMultiple.label "Použít aktuální stránky">
 <!ENTITY chooseBookmark.label "Použít záložku…">
-<!ENTITY chooseBookmark.accesskey "P">
+<!ENTITY chooseBookmark.accesskey "z">
 <!ENTITY restoreDefault.label "Obnovit výchozí">
-<!ENTITY restoreDefault.accesskey "O">
+<!ENTITY restoreDefault.accesskey "b">
 
 <!ENTITY downloads.label "Správce stahování">
 
