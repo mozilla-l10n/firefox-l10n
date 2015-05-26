@@ -131,6 +131,9 @@ ima li &brandShortName; omogućen pristup Webu.</li>
 <!ENTITY malwareBlocked.longDesc "<p>Zloćudne stranice pokušavaju instalirati program koji kradu privatne informacije, koriste vaše računalo za napade na druga računala ili oštećuju vaš sustav.</p> 
 <p>Vlasnici web stranica koji vjeruju da se radi o grešci mogu ponovno <a href='http://www.stopbadware.org/home/reviewinfo'>zatražiti pregled</a>.</p>">
 
+<!ENTITY unwantedBlocked.title "Sumnjiva nesigurna stranica!">
+<!ENTITY unwantedBlocked.longDesc "<p>Nesigurne stranice pokušavaju instalirati programe koju su zavaravajući i mogu utjecati na vaš sustav na neočekivane načine.</p>">
+
 <!ENTITY phishingBlocked.title "Sumnja na web krivotvorinu!">
 <!ENTITY phishingBlocked.longDesc "<p>Unošenje bilo kakvih osobnih podataka na ovoj web stranici može rezultirati krađom identiteta ili nekom drugom prijevarom.</p> 
 <p>Ovakve vrste web krivotvorina se koriste u prijevarama poznatijima kao napad lažnim predstavljanjem, u kojima se koriste varljive web stranice ili e-poštu koje imitiraju izvore kojima možda vjerujete.</p>">
