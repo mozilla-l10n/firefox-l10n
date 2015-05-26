@@ -151,6 +151,8 @@
 <!ENTITY bothFormatCmd.accesskey "l">
 <!ENTITY priorityMenu.label "Forgangur">
 <!ENTITY priorityMenu.accesskey "F">
+<!ENTITY priorityButton.title "Forgangur">
+<!ENTITY priorityButton.tooltiptext "Breyta forgangi pósts">
 <!ENTITY priorityButton.label "Mikilvægi:">
 <!ENTITY lowestPriorityCmd.label "Lægstur">
 <!ENTITY lowestPriorityCmd.accesskey "L">
