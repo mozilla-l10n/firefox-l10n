@@ -15,3 +15,8 @@
 <!ENTITY safeb.blocked.phishingPage.title2 "Potencijalna web krivotvorina!">
 <!ENTITY safeb.blocked.phishingPage.shortDesc2 "Upisivanje bilo kakvih osobnih informacija na ovoj stranici može rezultirati krađom indentiteta ili drugom prijevarom.">
 <!ENTITY safeb.blocked.phishingPage.longDesc2 "<p>Ovakve vrste web krivotvorina se koriste u prijevarama poznatijima kao napad lažnim predstavljanjem, u kojima se koriste varljive web stranice ili e-pošta koje imitiraju izvore kojima možda vjerujete.</p>">
+
+<!ENTITY safeb.blocked.unwantedPage.title "Prijavljena nesigurna stranica!">
+<!-- Localization note (safeb.blocked.unwanted.shortDesc) - Please don't translate the contents of the <span id="unwanted_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
+<!ENTITY safeb.blocked.unwantedPage.shortDesc "Web stranica <span id='unwanted_sitename'/> je prijavljena kao nesigurna stranica i blokirana je na temelju vaših sigurnosnih postavki.">
+<!ENTITY safeb.blocked.unwantedPage.longDesc "Nesigurne stranice pokušavaju instalirati programe koju su zavaravajući i mogu utjecati na vaš sustav na neočekivane načine.">
