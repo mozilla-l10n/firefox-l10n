@@ -131,6 +131,10 @@
 <!ENTITY malwareBlocked.longDesc "
 <p>Árásarsvæði eru svæði sem reyna að setja inn forrit til að stela persónulegum upplýsingum, nota tölvuna þína til að gera árás á aðra, eða valda skemmdum.</p>
 <p>Vefstjóra sem grunar að þeirra svæði hafi rangt verið tilkynnt sem árásarsvæði geta <a href='http://www.stopbadware.org/home/reviewinfo' >beðið um endurskoðun</a>.</p>">
+<!ENTITY unwantedBlocked.title "Grunur um að vefsvæði sé með óæskilegan hugbúnað!">
+<!ENTITY unwantedBlocked.longDesc "
+<p>Vefsvæði með óæskilegan hugbúnað reyna að setja inn hugbúnað sem getur verið villandi og hefur ýmis óvænt áhrif á tölvuna þína.</p>
+">
 <!ENTITY phishingBlocked.title "Grunað falsað vefsvæði!">
 <!ENTITY phishingBlocked.longDesc "
 <p>Ef þú slærð inn einhverjar persónuupplýsingar á þessari síðu gætirðu hugsanlega lent í kennisstuldi eða svikum.</p>
