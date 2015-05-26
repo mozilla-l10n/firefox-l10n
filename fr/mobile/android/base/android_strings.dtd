@@ -262,6 +262,7 @@ size. -->
 <!ENTITY pref_private_data_offlineApps "Données de site web hors connexion">
 <!ENTITY pref_private_data_siteSettings2 "Paramètres de site">
 <!ENTITY pref_private_data_downloadFiles2 "Téléchargements">
+<!ENTITY pref_private_data_syncedTabs "Onglets synchronisés">
 
 
 <!ENTITY pref_about_firefox "À propos de &brandShortName;">

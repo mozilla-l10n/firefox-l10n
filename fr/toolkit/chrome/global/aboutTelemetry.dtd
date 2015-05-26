@@ -44,12 +44,20 @@ Afficher les données de sous-session
 Sélectionner le ping :
 ">
 
-<!ENTITY aboutTelemetry.showPreviousPing "
-&lt;&lt; Ping précédent
+<!ENTITY aboutTelemetry.showNewerPing "
+&lt;&lt; Ping plus récent
 ">
 
-<!ENTITY aboutTelemetry.showNextPing "
-Ping suivant &gt;&gt;
+<!ENTITY aboutTelemetry.showOlderPing "
+Ping plus ancien &gt;&gt;
+">
+
+<!ENTITY aboutTelemetry.archiveWeekHeader "
+Semaine
+">
+
+<!ENTITY aboutTelemetry.archivePingHeader "
+Ping
 ">
 
 <!ENTITY aboutTelemetry.generalDataSection "
