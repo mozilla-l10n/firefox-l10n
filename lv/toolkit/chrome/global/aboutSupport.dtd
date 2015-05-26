@@ -55,6 +55,8 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 <!ENTITY aboutSupport.appBasicsMemoryUse "Atmiņas izmantojums">
 <!-- LOCALIZATION NOTE the term "Service Workers" should not be translated. -->
 
+<!ENTITY aboutSupport.appBasicsServiceWorkers "Reģistrētie pakalpojumu darbinieki">
+
 <!ENTITY aboutSupport.appBasicsMultiProcessSupport "Vairāku procesu logs">
 
 <!ENTITY aboutSupport.showDir.label "Atvērt mapi">
