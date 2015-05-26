@@ -48,7 +48,8 @@
 <!ENTITY netmonitorUI.toolbar.transferred "Přeneseno">
 
 <!-- LOCALIZATION NOTE (netmonitorUI.toolbar.size): This is the label displayed
-  -  in the network table toolbar, above the "size" column. -->
+  -  in the network table toolbar, above the "size" column, which is the
+  -  uncompressed / decoded size. -->
 <!ENTITY netmonitorUI.toolbar.size        "Velikost">
 
 <!-- LOCALIZATION NOTE (netmonitorUI.toolbar.waterfall): This is the label displayed
@@ -270,6 +271,14 @@
 <!-- LOCALIZATION NOTE (netmonitorUI.context.copyUrlParams.accesskey): This is the access key
   -  for the Copy URL Parameters menu item displayed in the context menu for a request -->
 <!ENTITY netmonitorUI.context.copyUrlParams.accesskey "P">
+
+<!-- LOCALIZATION NOTE (netmonitorUI.context.copyPostData): This is the label displayed
+  -  on the context menu that copies the selected request's post data -->
+<!ENTITY netmonitorUI.context.copyPostData     "Kopírovat POST data">
+
+<!-- LOCALIZATION NOTE (netmonitorUI.context.copyPostData.accesskey): This is the access key
+  -  for the Copy POST Data menu item displayed in the context menu for a request -->
+<!ENTITY netmonitorUI.context.copyPostData.accesskey "d">
 
 <!-- LOCALIZATION NOTE (netmonitorUI.context.copyAsCurl): This is the label displayed
   -  on the context menu that copies the selected request as a cURL command.
