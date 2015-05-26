@@ -466,7 +466,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewPartialSourceForMathMLCmd.label    "Sýna MathML frumkóða">
 <!-- LOCALIZATION NOTE (viewPartialSourceCmd.accesskey): This accesskey is used for both 
          viewPartialSourceForSelectionCmd.label and viewPartialSourceForMathMLCmd.label -->
-<!ENTITY viewPartialSourceCmd.accesskey "e">
+<!ENTITY viewPartialSourceCmd.accesskey "n">
 <!ENTITY viewPageSourceCmd.label      "Sýna frumkóða síðu">
 <!ENTITY viewPageSourceCmd.accesskey  "k">
 <!ENTITY viewFrameSourceCmd.label     "Sýna frumkóða ramma">
