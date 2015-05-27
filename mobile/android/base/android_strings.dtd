@@ -136,7 +136,7 @@
 <!ENTITY pref_category_vendor "&vendorShortName;">
 <!ENTITY pref_category_vendor_summary "О &brandShortName;, ЧПП, избори података">
 <!ENTITY pref_category_datareporting "Избори података">
-<!ENTITY pref_learn_more "Сазнај више">
+<!ENTITY pref_learn_more "Сазнајте више">
 <!ENTITY pref_category_installed_search_engines "Инсталирани претраживачи">
 <!ENTITY pref_category_add_search_providers "Додај још претраживача">
 <!ENTITY pref_category_search_restore_defaults "Обнови претраживаче">
@@ -158,7 +158,7 @@
 <!ENTITY pref_category_home_summary "Прилагоди почетну страницу">
 <!ENTITY pref_category_home_panels "Панели">
 <!ENTITY home_add_panel_title "Додај нови панел">
-<!ENTITY home_add_panel_empty "Жао на је, нисмо могли да пронађемо било који панел за додавање.">
+<!ENTITY home_add_panel_empty "Жао нам је, нисмо могли да пронађемо било који панел за додавање.">
 <!-- Localization note (home_add_panel_installed):
      The &formatS; will be replaced with the name of the new panel the user just
      selected to be added to the home page. -->
@@ -222,7 +222,7 @@
 <!ENTITY pref_reflow_on_zoom4 "Форматирање текста">
 <!ENTITY pref_restore "Језичци">
 <!ENTITY pref_restore_always "Увек обнови">
-<!ENTITY pref_restore_quit "Немој обновити наком затварања &brandShortName;">
+<!ENTITY pref_restore_quit "Немој обновити након затварања &brandShortName;">
 <!ENTITY pref_font_size_tiny "Ситне">
 <!ENTITY pref_font_size_small "Мале">
 <!ENTITY pref_font_size_medium "Средње">
@@ -270,7 +270,7 @@ size. -->
 <!ENTITY pref_dialog_default "Подразумевано">
 <!ENTITY pref_dialog_remove "Уклони">
 
-<!ENTITY pref_search_last_toast "Ви не можете да уклоните или онемогућите последњег претраживача.">
+<!ENTITY pref_search_last_toast "Не можете уклонити или онемогућити Ваш последњи претраживач.">
 
 <!ENTITY pref_panels_show "Прикажи">
 <!ENTITY pref_panels_hide "Сакриј">
@@ -282,7 +282,7 @@ size. -->
 <!ENTITY datareporting_notification_action_long "Изаберите које информације да делите">
 <!ENTITY datareporting_notification_action "Изаберите шта делити">
 <!ENTITY datareporting_notification_summary "Да би смо побољшали Ваше искуство, &brandShortName; аутоматски шаље неке информације &vendorShortName;.">
-<!ENTITY datareporting_notification_summary_short "Да би смо побољшали Ваше искуство, &brandShortName;…">
+<!ENTITY datareporting_notification_summary_short "Да бисмо побољшали Ваше искуство, &brandShortName;…">
 <!ENTITY datareporting_notification_ticker_text "&datareporting_notification_title;: &datareporting_notification_action_long;">
 
 <!-- Localization note (datareporting_fhr_title, datareporting_fhr_summary2,
@@ -292,7 +292,7 @@ size. -->
      healthReportDesc.label, telemetrySection.label, telemetryDesc.label,
      crashReporterDesc.label). -->
 <!ENTITY datareporting_fhr_title "&brandShortName; извештај здравља">
-<!ENTITY datareporting_fhr_summary2 "Дели податке са &vendorShortName; о здрављу Вашег прегледача и помаже Вам да разумете перфомансе прегледача">
+<!ENTITY datareporting_fhr_summary2 "Дели податке са &vendorShortName; о здрављу Вашег прегледача и помаже Вам да разумете перформансе прегледача">
 <!ENTITY datareporting_abouthr_title "Прикажи мој извештај здравља">
 <!ENTITY datareporting_telemetry_title "Телеметрија">
 <!ENTITY datareporting_telemetry_summary "Делите податке о перформансама, коришћењу, хардверу и подешавањима који се тичу Вашег прегледача са &vendorShortName;-ом да бисте нам помогли да учинимо &brandShortName; бољим">
@@ -357,7 +357,7 @@ size. -->
 <!ENTITY contextmenu_open_new_tab "Отвори у новом језичку">
 <!ENTITY contextmenu_open_private_tab "Отвори у новом приватном језичку">
 <!ENTITY contextmenu_remove "Уклони">
-<!ENTITY contextmenu_add_to_launcher "Дадај на почетни екран">
+<!ENTITY contextmenu_add_to_launcher "Додај на почетни екран">
 <!ENTITY contextmenu_share "Подели">
 <!ENTITY contextmenu_pasteandgo "Налепи и посети">
 <!ENTITY contextmenu_paste "Налепи">
@@ -367,7 +367,7 @@ size. -->
 <!ENTITY contextmenu_site_settings "Уреди поставке сајта">
 <!ENTITY contextmenu_top_sites_edit "Уреди">
 <!ENTITY contextmenu_top_sites_pin "Закачи сајт">
-<!ENTITY contextmenu_top_sites_unpin "Одкачи сајт">
+<!ENTITY contextmenu_top_sites_unpin "Откачи сајт">
 <!ENTITY contextmenu_add_search_engine "Додај претраживач">
 
 <!-- Localization note (doorhanger_login_no_username): This string is used in the save-login doorhanger
@@ -487,7 +487,7 @@ size. -->
 <!ENTITY home_remote_tabs_need_to_finish_migrating "Ваш нови Firefox налог је спреман!">
 
 <!ENTITY home_remote_tabs_trouble_verifying "Проблеми при верификацији налога?">
-<!ENTITY home_remote_tabs_need_to_verify "Молимо верификујте Ваш Firefox налог да бисте започели синхронизацију.">
+<!ENTITY home_remote_tabs_need_to_verify "Молимо Вас верификујте Ваш Firefox налог да бисте започели синхронизацију.">
 
 <!ENTITY home_remote_tabs_one_hidden_device "1 device hidden">
 <!-- Localization note (home_remote_tabs_many_hidden_devices) : The

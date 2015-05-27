@@ -22,7 +22,7 @@
 <!ENTITY sync.pin.oneline.label '...'>
 <!ENTITY sync.link.show.label 'Покажи ми како.'>
 <!ENTITY sync.link.advancedsetup.label 'Напредна подешавања…'>
-<!ENTITY sync.link.nodevice.label 'Ја немам уређај самном…'>
+<!ENTITY sync.link.nodevice.label 'Немам уређај са мном…'>
 
 <!-- J-PAKE Waiting Screen -->
 <!ENTITY sync.jpake.subtitle.waiting.label 'Чекам на други уређај…'>
@@ -51,8 +51,8 @@
 <!ENTITY sync.subtitle.manage.label1 'Ваш &syncBrand.fullName.label; налог је већ подешен. Можете да одете на Поставке да управљате налогом или да покренете &brandShortName;.'>
 
 <!-- Pair Device -->
-<!ENTITY sync.pair.tryagain.label 'Молимо покушајте поново.'>
-<!ENTITY sync.pair.connectlocation.label 'Да активирате Ваш нови уређај, изаберите “Подеси &syncBrand.shortName.label;” на уређају, и затим изаберите “Ја имам налог.”'>
+<!ENTITY sync.pair.tryagain.label 'Молимо Вас покушајте поново.'>
+<!ENTITY sync.pair.connectlocation.label 'Да активирате Ваш нови уређај, изаберите “Подеси &syncBrand.shortName.label;” на уређају, и затим изаберите “Имам налог.”'>
 
 <!-- Firefox SyncAdapter Settings Screen -->
 <!ENTITY sync.settings.options.label 'Опције'>
@@ -99,7 +99,7 @@
 
 <!-- Incorrect settings and changing credentials. -->
 <!ENTITY sync.invalidcreds.label 'Нетачно име налога или лозинка.'>
-<!ENTITY sync.invalidserver.label 'Молимо унесите валидан URL сервера'>
+<!ENTITY sync.invalidserver.label 'Молимо Вас унесите валидан URL сервера'>
 <!ENTITY sync.verifying.label 'Верификујем…'>
 <!ENTITY sync.new.recoverykey.status.incorrect 'Кључ за опоравак је неисправан. Покушајте поново касније.'>
 
@@ -162,17 +162,17 @@
 <!ENTITY fxaccount_create_account_unknown_error 'Нисам могао да направим налог'>
 
 <!ENTITY fxaccount_account_create_not_allowed 'Не могу направити налог'>
-<!ENTITY fxaccount_account_create_not_allowed_you_must_meet_certain_age_requirements 'Ви морате да будете одређене старости да отворите налог.'>
+<!ENTITY fxaccount_account_create_not_allowed_you_must_meet_certain_age_requirements 'Морате бити одређене старости да бисте отворили налог.'>
 <!ENTITY fxaccount_account_create_not_allowed_learn_more 'Сазнајте више'>
 
-<!ENTITY fxaccount_confirm_account_header 'Потвриди налог'>
+<!ENTITY fxaccount_confirm_account_header 'Потврдите налог'>
 <!-- Localization note: &formatS; is the Firefox Account's email address. -->
 <!ENTITY fxaccount_confirm_account_verification_link 'Верификациона веза је послата на &formatS;'>
 <!ENTITY fxaccount_confirm_account_resend_email 'Поново пошаљи'>
 <!ENTITY fxaccount_confirm_account_change_email 'Заборавити ову адресу е-поште?'>
 <!ENTITY fxaccount_confirm_account_verification_link_sent2 'Верификациона е-пошта је послата'>
-<!ENTITY fxaccount_confirm_account_verification_link_not_sent2 'Нисам могао послат верификациону е-пошту'>
-<!ENTITY fxaccount_resend_unlock_code_button_label 'Поново пошаљу е-пошту за откључавање'>
+<!ENTITY fxaccount_confirm_account_verification_link_not_sent2 'Нисам могао послати верификациону е-пошту'>
+<!ENTITY fxaccount_resend_unlock_code_button_label 'Поново пошаљи е-пошту за откључавање'>
 <!ENTITY fxaccount_unlock_code_sent 'Е-пошта за откључавање налога је послата'>
 <!ENTITY fxaccount_unlock_code_not_sent 'Нисам успео послати е-потшу за откључавање'>
 
@@ -206,7 +206,7 @@
 <!ENTITY fxaccount_status_sync_enabled '&syncBrand.shortName.label;: омогућен'>
 <!ENTITY fxaccount_status_needs_verification2 'Ваш налог мора бити верификован. Притисните да поново пошаљете е-пошту.'>
 <!ENTITY fxaccount_status_needs_credentials 'Не могу се повезати. Притисните да се пријавите.'>
-<!ENTITY fxaccount_status_needs_upgrade 'Морате да надоградите &brandShortName; да би се пријавили.'>
+<!ENTITY fxaccount_status_needs_upgrade 'Морате да надоградите &brandShortName; да бисте се пријавили.'>
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled '&syncBrand.shortName.label; је подешен, али не синхронизује аутоматски. Активирајте “Auto-sync data” у Android поставкама &gt; Data Usage.'>
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled_v21 '&syncBrand.shortName.label; је подешен, али не синхронизује аутоматски. Активирајте “Auto-sync data” у Android поставкама &gt; Accounts.'>
 <!ENTITY fxaccount_status_needs_finish_migrating 'Притисните да се пријавите на Ваш нови Firefox налог.'>
