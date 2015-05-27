@@ -240,7 +240,7 @@
 <!-- LOCALIZATION NOTE (disabledUnsigned.description.start, disabledUnsigned.description.findAddonsLink, disabledUnsigned.description.end):
      These entities form a sentence, with
      disabledUnsigned.description.findAddonsLink being a link to an external site. -->
-<!ENTITY disabledUnsigned.description.start "Следећи додаси нису могли бити потврђени за коришћење у &brandShortName;-у. Можете ">
+<!ENTITY disabledUnsigned.description.start "Следећи додаци нису могли бити потврђени за коришћење у &brandShortName;-у. Можете ">
 <!ENTITY disabledUnsigned.description.findAddonsLink "наћи замене">
 <!ENTITY disabledUnsigned.description.end " или питати програмере да их потврде.">
 <!ENTITY disabledUnsigned.learnMore "Сазнајте више како да помогнете да Вас одржимо сигурним на мрежи.">
