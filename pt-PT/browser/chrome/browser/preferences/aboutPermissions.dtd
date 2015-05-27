@@ -39,7 +39,7 @@
 
 <!ENTITY indexedDB.label                 "Manter armazenamento offline">
 
-<!ENTITY popup.label                     "Abrir janelas de Pop-up">
+<!ENTITY popup.label                     "Abrir janelas emergentes">
 
 <!ENTITY fullscreen.label                "Ecrã inteiro">
 
