@@ -11,8 +11,6 @@
 <!ENTITY newtab.customize.suggested "Siti consigliati e siti principali">
 <!ENTITY newtab.customize.topsites "Siti principali">
 <!ENTITY newtab.customize.blank2 "Pagina bianca">
-<!ENTITY newtab.customize.what "Che cos’è questa pagina?">
-<!ENTITY newtab.intro.header "Che cos’è questa pagina?">
 <!ENTITY newtab.undo.removedLabel "Miniatura rimossa.">
 <!ENTITY newtab.undo.undoButton "Annulla.">
 <!ENTITY newtab.undo.restoreButton "Ripristina tutto.">
