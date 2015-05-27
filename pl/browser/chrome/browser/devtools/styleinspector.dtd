@@ -13,6 +13,7 @@
   -  should be displayed or not. -->
 <!ENTITY browserStylesLabel    "Style przeglądarki">
 <!ENTITY filterStylesPlaceholder "Filtruj style">
+<!ENTITY addRuleButtonTooltip "Dodaj nową regułę">
 
 <!-- LOCALIZATION NOTE (selectedElementLabel): This is the label for the path of
   -  the highlighted element in the web page. This path is based on the document
