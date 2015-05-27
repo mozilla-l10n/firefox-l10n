@@ -2,17 +2,17 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY pref.popups.title              "Janelas Popup">
+<!ENTITY pref.popups.title              "Janelas emergentes">
 
-<!ENTITY pref.popups.caption            "Janelas Popup">
+<!ENTITY pref.popups.caption            "Janelas emergentes">
 
-<!ENTITY popupBlock.label               "Bloquear janelas de popup não pedidas">
+<!ENTITY popupBlock.label               "Bloquear janelas emergentes">
 <!ENTITY popupBlock.accesskey           "B">
 
 <!ENTITY viewPermissions.label          "Gerir permissões">
 <!ENTITY viewPermissions.accesskey      "p">
 
-<!ENTITY whenBlock.description          "Quando uma janela de popup for bloqueada:">
+<!ENTITY whenBlock.description          "Ao bloquear uma janela emergente:">
 <!ENTITY playSound.label                "Tocar um som:">
 <!ENTITY playSound.accesskey            "s">
 <!ENTITY systemSound.label              "Beep do sistema">
@@ -31,5 +31,5 @@
 <!ENTITY displayNotification.label      "Mostrar uma barra de notificação no topo da área de conteúdo">
 <!ENTITY displayNotification.accesskey  "n">
 
-<!ENTITY popupNote.description          "Nota: Bloquear todos os popups pode impedir que funcionalidades importantes dos sítios web funcionem, tais como janelas de início de sessão de banco e de sítios de compras. Para detalhes de como autorizar popup para alguns sítios clique em Ajuda. Mesmo bloqueados os sítios podem usar outros métodos para apresentar popups.">
+<!ENTITY popupNote.description          "Nota: bloquear as janelas emergentes pode impedir que funcionalidades importantes dos sítios web funcionem, tais como janelas de início de sessão de banco e de sítios de compras. Para mais informações, clique em Ajuda. Mesmo bloqueados, os sítios podem usar outros métodos para mostrar essas janelas.">
 

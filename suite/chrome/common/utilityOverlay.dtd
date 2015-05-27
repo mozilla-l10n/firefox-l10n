@@ -149,9 +149,9 @@
 <!-- Popup Blocked notification menu -->
 
 <!ENTITY allowPopups.accesskey        "p">
-<!ENTITY showPopupManager.label       "Gerir popups">
+<!ENTITY showPopupManager.label       "Gerir janelas emergentes">
 <!ENTITY showPopupManager.accesskey   "G">
-<!ENTITY dontShowMessage.label        "Não mostrar esta mensagem quando os popups são bloqueados">
-<!ENTITY dontShowMessage.accesskey    "m">
+<!ENTITY dontShowMessage.label        "Não mostrar esta mensagem ao bloquear janelas emergentes">
+<!ENTITY dontShowMessage.accesskey    "N">
 
 <!ENTITY syncToolbarButton.label "Sync">

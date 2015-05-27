@@ -72,7 +72,7 @@
 
 <!ENTITY  statusText.label            "Feito">
 
-<!ENTITY popupIcon.tooltiptext      "Desbloquear os popups do sítio">
+<!ENTITY popupIcon.tooltiptext      "Desbloquear janelas emergentes deste sítio web">
 
 <!ENTITY viewSecurityInfo.label      "Ver informação de segurança">
 <!ENTITY viewSecurityInfo.accesskey  "s">
