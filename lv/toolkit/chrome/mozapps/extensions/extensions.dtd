@@ -247,4 +247,4 @@ ar papildus funkcionalitāti vai stilu. Izmēģiniet laiku ietaupošo sānu josl
      being a link to an external site. -->
 <!ENTITY disabledUnsigned.devInfo.start "Izstrādātāji, kas vēlas apstiprināt savus papildinājumus var turpināt izlasot mūsu ">
 <!ENTITY disabledUnsigned.devInfo.linkToManual "pamācību">
-
+<!ENTITY disabledUnsigned.devInfo.end ".">
