@@ -7,7 +7,7 @@
 <!ENTITY search.buttonlabel                   "Пошук">
 <!-- LOCALIZATION NOTE (search.commandKey):
      The search command key should match findOnCmd.commandkey from browser.dtd -->
-<!ENTITY search.commandkey                    "Ш">
+<!ENTITY search.commandkey                    "f">
 
 <!ENTITY loading.label                        "Завантаження…">
 <!ENTITY listEmpty.installed.label            "У вас не встановлено жодного додатку цього типу">

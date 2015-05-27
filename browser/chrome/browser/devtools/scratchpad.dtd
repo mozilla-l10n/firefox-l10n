@@ -47,7 +47,7 @@
 <!ENTITY saveFileAsCmd.accesskey      "я">
 
 <!ENTITY closeCmd.label               "Закрити">
-<!ENTITY closeCmd.key                 "к">
+<!ENTITY closeCmd.key                 "W">
 <!ENTITY closeCmd.accesskey           "к">
 
 <!ENTITY viewMenu.label               "Вигляд">
