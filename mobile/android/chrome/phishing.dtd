@@ -19,4 +19,4 @@
 <!ENTITY safeb.blocked.unwantedPage.title "Пријављени нежељени сајт софтвера!">
 <!-- Localization note (safeb.blocked.unwanted.shortDesc) - Please don't translate the contents of the <span id="unwanted_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
 <!ENTITY safeb.blocked.unwantedPage.shortDesc "Веб страница <span id='unwanted_sitename'/> је пријављена да садржи нежељени софтвер и блокирана је на основу сигурносних подешавања.">
-<!ENTITY safeb.blocked.unwantedPage.longDesc "Нежељене странице софтвера покушају да инсталирају софтвер који може да Вас превари и да утиче на Ваш систем на неочекиване начине.">
+<!ENTITY safeb.blocked.unwantedPage.longDesc "Нежељене странице софтвера покушавају да инсталирају софтвер који може да Вас превари и да утиче на Ваш систем на неочекиване начине.">
