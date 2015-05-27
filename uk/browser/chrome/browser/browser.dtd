@@ -785,10 +785,10 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY trackingContentBlocked.moreinfo "Частини сторінки, які стежать за вашою активністю в Інтернеті заблоковано.">
 <!ENTITY trackingContentBlocked.learnMore "Дізнатися більше">
 <!ENTITY trackingContentBlocked.options "Налаштування">
-<!ENTITY trackingContentBlocked.unblock2.label "Відключити захист для цього сайту">
+<!ENTITY trackingContentBlocked.unblock2.label "Вимкнути захист для цього сайту">
 <!ENTITY trackingContentBlocked.unblock2.accesskey "з">
 <!ENTITY trackingContentBlocked.block.label "Увімкнути захист">
-<!ENTITY trackingContentBlocked.block.accesskey "E">
+<!ENTITY trackingContentBlocked.block.accesskey "У">
 <!ENTITY trackingContentBlocked.disabled.message "Захист від стеження вимкнено">
 
 <!ENTITY pointerLock.notification.message "Натисніть ESC будь-коли, щоб показати його знову.">
