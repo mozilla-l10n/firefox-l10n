@@ -95,7 +95,7 @@
 <!-- Prefs -->
 
 <!ENTITY prefs_general_title "عمومی">
-<!ENTITY prefs_restore "طےشدہ بحال کریں">
+
 
 
 
@@ -117,7 +117,7 @@
 
 <!ENTITY prefs_options_keybindings_default "طے شدہ">
 <!-- Permissions Table -->
-<!ENTITY permissionstable_name_header "نام">
+
 <!-- Runtime Details -->
 
 
@@ -155,3 +155,14 @@
 <!-- LOCALIZATION NOTE (wifi_auth_token_request): Instructions requesting the
      user to transfer authentication info by transferring a token. -->
 <!-- Logs panel -->
+<!-- Simulator Options -->
+
+
+
+
+<!ENTITY simulator_version "ورژن">
+
+
+<!ENTITY simulator_device "آلہ">
+
+

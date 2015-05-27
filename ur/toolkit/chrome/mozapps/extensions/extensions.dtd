@@ -22,6 +22,8 @@
 
 <!ENTITY cmd.back.tooltip                     "ایک صفحہ واپس جائیں">
 <!ENTITY cmd.forward.tooltip                  "ایک صفحہ آگے جائیں">
+
+
 <!-- global warnings -->
 
 <!ENTITY warning.safemode.label                    "محفوظ موڈ کے تحت تمام ایڈ اون نا اہل ہیں۔">
@@ -100,7 +102,8 @@
 <!ENTITY cmd.installAddon.accesskey           "ت">
 <!ENTITY cmd.uninstallAddon.label             "ہٹائیں">
 <!ENTITY cmd.uninstallAddon.accesskey         "ہ">
-<!ENTITY cmd.debugAddon.label                 "ٹھیک کریں">
+
+
 <!ENTITY cmd.showPreferencesWin.label         "اختیارات">
 <!ENTITY cmd.showPreferencesWin.tooltip       "اس ایڈ اون کے اختیارات تبدیل کریں">
 <!ENTITY cmd.showPreferencesUnix.label        "ترجیحات">
@@ -221,5 +224,17 @@
 <!ENTITY experiment.info.learnmore "اور سیکھیں">
 
 
+
+
+
+<!-- LOCALIZATION NOTE (disabledUnsigned.description.start, disabledUnsigned.description.findAddonsLink, disabledUnsigned.description.end):
+     These entities form a sentence, with
+     disabledUnsigned.description.findAddonsLink being a link to an external site. -->
+
+
+
+<!-- LOCALIZATION NOTE (disabledUnsigned.devInfo.start, disabledUnsigned.devInfo.linkToManual, disabledUnsigned.devInfo.end):
+     These entities form a sentence, with disabledUnsigned.devInfo.linkToManual
+     being a link to an external site. -->
 
 

@@ -74,13 +74,8 @@
 <!ENTITY updateTab.label                 "تازہ کاری کریں">
 
 <!ENTITY updateApp.label                 "&brandShortName; تازہ کاریاں:">
-<!-- Note either updateAuto1 is used or (updateAutoMetro and updateAutoDesktop),
-     so re-using accesss key in updateAuto1 is OK. updateAutoDesktop can be found
-     in preferences.properties -->
 <!ENTITY updateAuto1.label               "تازہ کاریاں خود بخود تنصیب کریں (تجویز کردہ: بہتر سلامتی )">
 <!ENTITY updateAuto1.accesskey           "خ">
-<!ENTITY updateAutoMetro.label           "ڈیسکٹاپ اور Windows 8 طرز &brandShortName; سے خود بخود تازہ کاری کریں ">
-<!ENTITY updateAutoMetro.accesskey       "ڈ">
 <!ENTITY updateCheck.label               "تازہ کاریوں کے لیے چیک کریں، لیکن مجھے انہیں تنصیب کرنے کا انتخاب کرنے دیں">
 <!ENTITY updateCheck.accesskey           "چ">
 <!ENTITY updateManual.label              "تازہ کاریوں کے لیے کبھی بھی یہ چیک کریں (تجویز کردہ نہیں: سلامتی خطرہ)">
@@ -88,8 +83,6 @@
 
 <!ENTITY updateAutoAddonWarn.label       "اگر یہ میرے کوئی بھی ایڈ اون نا اہل بنائے گا تو مجھے متنبہ کریں">
 <!ENTITY updateAutoAddonWarn.accesskey   "م">
-
-<!ENTITY updateAutoMetroWarn.label       "(Windows 8 طرز &brandShortName; ایڈ اون موازنت چیک نہیں کرتا)">
 
 <!ENTITY updateHistory.label             "تازہ کاری تاریخ دکھائیں">
 <!ENTITY updateHistory.accesskey         "ت">
