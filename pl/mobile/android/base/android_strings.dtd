@@ -328,6 +328,8 @@ size. -->
 <!ENTITY doorhanger_login_edit_toggle "Widoczne hasło">
 <!ENTITY doorhanger_login_edit_toast_error "Nie udało się zapisać danych logowania">
 <!ENTITY doorhanger_login_select_message "Czy skopiować hasło dla &formatS;?">
+<!ENTITY doorhanger_login_select_toast_copy "Hasło zostało skopiowane do schowka">
+<!ENTITY doorhanger_login_select_toast_copy_error "Nie można było skopiować hasła">
 
 <!ENTITY pref_titlebar_mode "Pasek tytułu">
 <!ENTITY pref_titlebar_mode_title "Pokazywanie tytułu strony">
@@ -375,6 +377,7 @@ size. -->
 <!ENTITY button_set "Ustaw">
 <!ENTITY button_clear "Usuń">
 <!ENTITY button_remember "Zachowaj">
+<!ENTITY button_copy "Kopiuj">
 
 <!ENTITY firstrun_panel_title_welcome "Witamy">
 
