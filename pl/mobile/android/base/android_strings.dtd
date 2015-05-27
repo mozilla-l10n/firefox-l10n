@@ -330,6 +330,8 @@ size. -->
 <!ENTITY doorhanger_login_select_message "Czy skopiować hasło dla &formatS;?">
 <!ENTITY doorhanger_login_select_toast_copy "Hasło zostało skopiowane do schowka">
 <!ENTITY doorhanger_login_select_toast_copy_error "Nie można było skopiować hasła">
+<!ENTITY doorhanger_login_select_action_text "Wybierz inne">
+<!ENTITY doorhanger_login_select_title "Kopiuj hasło dla">
 
 <!ENTITY pref_titlebar_mode "Pasek tytułu">
 <!ENTITY pref_titlebar_mode_title "Pokazywanie tytułu strony">
