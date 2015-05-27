@@ -147,7 +147,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
   -  or use "..." if \u2026 doesn't suit traditions in your locale. -->
 <!ENTITY findShareServices.label "Знайти інші служби поширення…">
 <!ENTITY sharePageCmd.label "Поділитися сторінкою">
-<!ENTITY sharePageCmd.commandkey "l">
+<!ENTITY sharePageCmd.commandkey "S">
 <!ENTITY sharePageCmd.accesskey "д">
 <!-- LOCALIZATION NOTE (shareLink.accesskey): must be different than the following share access keys -->
 <!ENTITY shareLink.label "Поділитися цим посиланням">
