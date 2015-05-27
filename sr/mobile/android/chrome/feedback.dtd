@@ -10,6 +10,6 @@
 <!ENTITY feedback.feedback.bad          "Лош">
 
 <!ENTITY feedback.tools.title           "Алати">
-<!ENTITY feedback.allowTelemetry.title  "Пошаљи информације о перфомансама">
+<!ENTITY feedback.allowTelemetry.title  "Пошаљи информације о перформансама">
 <!ENTITY feedback.forceCompat.title     "Принудна компатабилност додатака">
 <!ENTITY feedback.errorConsole.title    "Омогући конзолу за грешке">
