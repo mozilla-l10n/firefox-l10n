@@ -5,7 +5,7 @@
 
 <!ENTITY popupWindowRejectCmd.label     "Rejeitar janelas de popup deste sítio">
 <!ENTITY popupWindowRejectCmd.accesskey "o">
-<!ENTITY popupWindowAllowCmd.label      "Permitir janelas de popup deste sítio">
+<!ENTITY popupWindowAllowCmd.label      "Permitir janelas emergentes deste sítio">
 <!ENTITY popupWindowAllowCmd.accesskey  "o">
 <!ENTITY openLinkCmdInTab.label       "Abrir ligação em novo separador">
 <!ENTITY openLinkCmdInTab.accesskey   "s">

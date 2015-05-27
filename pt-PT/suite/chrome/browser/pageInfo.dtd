@@ -91,7 +91,7 @@
 <!ENTITY  permBlock             "Bloquear">
 <!ENTITY  permissionsFor        "Permissões ara:">
 <!ENTITY  permImage             "Carregar imagens">
-<!ENTITY  permPopup             "Abrir janelas de popup">
+<!ENTITY  permPopup             "Abrir janelas emergentes">
 <!ENTITY  permCookie            "Definir cookies">
 <!ENTITY  permNotifications     "Mostrar notificações">
 <!ENTITY  permInstall           "Instalar extensões ou temas">
