@@ -327,6 +327,7 @@ size. -->
 <!ENTITY doorhanger_login_edit_password_hint "Hasło">
 <!ENTITY doorhanger_login_edit_toggle "Widoczne hasło">
 <!ENTITY doorhanger_login_edit_toast_error "Nie udało się zapisać danych logowania">
+<!ENTITY doorhanger_login_select_message "Czy skopiować hasło dla &formatS;?">
 
 <!ENTITY pref_titlebar_mode "Pasek tytułu">
 <!ENTITY pref_titlebar_mode_title "Pokazywanie tytułu strony">
