@@ -42,3 +42,4 @@
 <!ENTITY useFirefoxSync.label             "Հուշում. Օգտագործում են առանձին պրոֆիլներ: Սինքի միջոցով կարող եք համաօգտագործել տվյալները:">
 <!ENTITY getStarted.label                 "Սինքի մեկնարկ...">
 
+<!ENTITY e10sEnabled.label                "Միացնել բազմընթաց &brandShortName;">

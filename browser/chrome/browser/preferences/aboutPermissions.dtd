@@ -43,5 +43,6 @@
 
 <!ENTITY fullscreen.label                "Լիաէկրան">
 
+<!ENTITY push.label                      "Ստանալ Push ծանուցումներ">
 <!ENTITY camera.label                    "Օգտ. տեսախցիկը">
 <!ENTITY microphone.label                "Օգտ. խոսափողը">

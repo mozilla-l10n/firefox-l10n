@@ -10,6 +10,7 @@
 
 <!ENTITY aboutTelemetry.generalDataSection "  Գլխավոր տվյալներ">
 
+<!ENTITY aboutTelemetry.telemetryLogSection "  Telemetry-ի մատյանը">
 
 <!ENTITY aboutTelemetry.slowSqlSection "  Ցուցադրել SQL-ի առաջարկությունը">
 
