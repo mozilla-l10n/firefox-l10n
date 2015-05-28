@@ -3,6 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!-- Window title -->
 
+<!ENTITY sourceEditField.label "Մուտքագրել LaTeX բնագիրը.">
 
 <!ENTITY options.label "Կարգավորումներ">
 <!ENTITY optionInline.label "Անցանց">

@@ -158,6 +158,8 @@
 <!ENTITY bothFormatCmd.accesskey "ա">
 <!ENTITY priorityMenu.label "Առաջնահերթ-ը">
 <!ENTITY priorityMenu.accesskey "Ա">
+<!ENTITY priorityButton.title "Առաջնահերթություն">
+<!ENTITY priorityButton.tooltiptext "Փոխել հաղորդագրության առաջնահերությունը">
 <!ENTITY priorityButton.label "Առաջն-ը.">
 <!ENTITY lowestPriorityCmd.label "Ամենացածր">
 <!ENTITY lowestPriorityCmd.accesskey "L">
