@@ -201,8 +201,8 @@
 
 
 <!ENTITY simulator_version "Versiune">
-
-
+<!ENTITY simulator_profile "Profil">
+<!ENTITY simulator_hardware "Hardware">
 <!ENTITY simulator_device "Dispozitiv">
-
-
+<!ENTITY simulator_screenSize "Ecran">
+<!ENTITY simulator_pixelRatio "Rată de pixeli">

@@ -132,6 +132,7 @@ dumneavoastră.</li>
 <!ENTITY malwareBlocked.longDesc "<p>Saiturile de atac încearcă să instaleze programe sau să fure informații private, folosind calculatorul dumneavoastră pentru a ataca altele sau provocând pagube calculatorului dumneavoastră.</p> 
 <p>Proprietarii saiturilor web care cred că saitul lor a fost raportat ca unul de atac dintr-o greșeală pot <a href='http://www.stopbadware.org/home/reviewinfo' >cere o recenzie</a>.</p>">
 
+<!ENTITY unwantedBlocked.title "Sait cu programe nedorite suspectat!">
 
 
 <!ENTITY phishingBlocked.title "Sait suspectat de fals!">
