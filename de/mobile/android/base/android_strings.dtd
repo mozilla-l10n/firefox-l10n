@@ -6,8 +6,8 @@
 <!ENTITY  no_space_to_start_error "Es ist nicht genügend Platz verfügbar, um &brandShortName; zu starten.">
 <!ENTITY  error_loading_file "Beim Versuch, Dateien zu laden, die &brandShortName; benötigt, ist ein Fehler aufgetreten">
 
-<!ENTITY  onboard_start_message "Willkommen bei &brandShortName;!">
-<!ENTITY  onboard_start_subtext "Ihnen, Ihrer Privatsphäre und einem offenen Web verpflichtet">
+<!ENTITY  onboard_start_message2 "Willkommen bei &brandShortName;">
+<!ENTITY  onboard_start_subtext2 "Mehr Datenschutzfunktionen und Möglichkeiten zur Anpassung als je zuvor!">
 <!ENTITY  onboard_start_button_account "Bei &brandShortName; anmelden">
 <!ENTITY  onboard_start_button_browser "Mit dem Surfen beginnen">
 
@@ -213,6 +213,8 @@ size. -->
 
 <!ENTITY pref_media_autoplay_enabled "Automatische Wiedergabe">
 <!ENTITY pref_media_autoplay_enabled_summary "Webseiten die automatische Wiedergabe von Videos und anderen Medieninhalten erlauben">
+<!ENTITY pref_zoom_force_enabled "Zoom immer aktivieren">
+<!ENTITY pref_zoom_force_enabled_summary "Vorgabe der Seite überschreiben, sodass die Zoomfunktion immer verwendet werden kann">
 
 <!ENTITY pref_use_master_password "Master-Passwort benutzen">
 <!ENTITY pref_sync "Sync">
@@ -269,7 +271,7 @@ size. -->
      (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
 <!ENTITY datareporting_crashreporter_title_short "Absturzmelder">
 <!ENTITY datareporting_wifi_title2 "&vendorShortName;-Standortdienst">
-<!ENTITY datareporting_wifi_geolocation_summary2 "Teilt ungefähre Standorte von WLANs und Mobilfunkinformationen Ihres Gerätes an &vendorShortName; mit, um unseren Standortdienst zu verbessern.">
+<!ENTITY datareporting_wifi_geolocation_summary3 "Helfen Sie &vendorShortName; beim Kartografieren der Welt! Teilen Sie uns ungefähre Standorte von WLANs und Mobilfunkzellen mit Ihrem Gerät mit, um unseren Standortdienst zu verbessern.">
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
      actual notification that an update is available. -->
@@ -364,6 +366,10 @@ size. -->
 <!ENTITY site_settings_no_settings  "Keine Einstellungen zum Löschen verfügbar">
 
 <!ENTITY reading_list_added "Seite zu Leseliste hinzugefügt">
+<!ENTITY reading_list_removed "Seite aus Leseliste entfernt">
+<!-- Localization note (reading_list_remove) : Used to remove the currently open page from
+     the user's reading list. The opposite of overlay_share_reading_list_btn_label. -->
+<!ENTITY reading_list_remove "Aus Leseliste entfernen">
 <!ENTITY reading_list_duplicate "Seite bereits in Leseliste">
 
 <!-- Localization note (reading_list_time_minutes2) : This string is used in the "Reading List"
@@ -556,6 +562,13 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY actionbar_menu "Menü">
 <!ENTITY actionbar_done "Fertig">
 
+<!-- Voice search in the awesome bar -->
+<!ENTITY voicesearch_prompt "Jetzt sprechen">
+<!ENTITY voicesearch_failed_title "&brandShortName;-Sprachsuche">
+<!ENTITY voicesearch_failed_message "Es besteht derzeit ein Problem mit der Sprachsuche. Bitte versuchen Sie es später erneut.">
+<!ENTITY voicesearch_failed_message_recoverable "Leider konnte das Gesagte nicht erkannt werden. Bitte versuchen Sie es erneut.">
+<!ENTITY voicesearch_failed_retry "Nochmals versuchen">
+
 <!-- Localization note (remote_tabs_last_synced): the variable is replaced by a
      "relative time span string" produced by Android.  This string describes the
      time the tabs were last synced relative to the current time; examples
@@ -563,6 +576,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      "Last synced" is one of the user's other Sync clients, typically Firefox on
      their desktop or laptop.-->
 <!ENTITY remote_tabs_last_synced "Letzte Synchronisierung: &formatS;">
+<!-- Localization note: Used when the sync has not happend yet, showed in place of a date -->
+<!ENTITY remote_tabs_never_synced "Letzte Synchronisierung: nie">
 
 <!-- Find-In-Page strings -->
 <!-- LOCALIZATION NOTE (find_matchcase): This is meant to appear as an icon that changes color

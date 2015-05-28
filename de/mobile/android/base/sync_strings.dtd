@@ -150,6 +150,8 @@
      etc).  The account remains a "Firefox Account". -->
 <!ENTITY fxaccount_create_account_header2 'Ein Firefox-Konto erstellen'>
 <!ENTITY fxaccount_create_account_password_length_restriction 'Mindestens 8 Zeichen'>
+<!ENTITY fxaccount_create_account_day_of_birth 'Tag'>
+<!ENTITY fxaccount_create_account_month_of_birth 'Monat'>
 <!ENTITY fxaccount_create_account_year_of_birth 'Geburtsjahr'>
 <!-- Localization note: &formatS1; is fxaccount_policy_linktos, &formatS2; is fxaccount_policy_linkprivacy, both hyperlinked. -->
 <!ENTITY fxaccount_create_account_policy_text2 'Mit dem Fortfahren erklären Sie sich mit den &formatS1; und dem &formatS2; der Firefox-Online-Dienste einverstanden.'>
@@ -207,7 +209,6 @@
 <!ENTITY fxaccount_status_needs_upgrade 'Aktualisieren Sie &brandShortName;, um sich anmelden zu können.'>
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled '&syncBrand.shortName.label; wurde eingerichtet, aber synchronisiert nicht automatisch. Schalten Sie “Daten automatisch synchronisieren” in Androids Systemeinstellungen &gt; Datenverbauch um.'>
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled_v21 '&syncBrand.shortName.label; wurde eingerichtet, aber synchronisiert nicht automatisch. Schalten Sie “Daten automatisch synchronisieren” in Androids Systemeinstellungen &gt; Konten um.'>
-<!ENTITY fxaccount_status_needs_account_enabled '&syncBrand.shortName.label; wurde eingerichtet, aber synchronisiert nicht automatisch. Tippen Sie zum Starten der Synchronisierung hier.'>
 <!ENTITY fxaccount_status_needs_finish_migrating 'Tippen Sie hier, um sich mit Ihrem neuen Firefox-Konto anzumelden.'>
 <!ENTITY fxaccount_status_bookmarks 'Lesezeichen'>
 <!ENTITY fxaccount_status_history 'Chronik'>
