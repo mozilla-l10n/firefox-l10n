@@ -4,7 +4,6 @@
 
 <!ENTITY itemGeneral.label              "Všeobecné">
 <!ENTITY dataChoicesTab.label           "Odosielanie údajov">
-<!ENTITY itemDisplay.label              "Čítanie a zobrazenie">
 <!ENTITY itemUpdate.label               "Aktualizácie">
 <!ENTITY itemNetworking.label           "Sieť a miesto na disku">
 <!ENTITY itemCertificates.label         "Certifikáty">
@@ -52,32 +51,6 @@
 <!ENTITY enableCrashReporter.label       "Povoliť správy o zlyhaní">
 <!ENTITY enableCrashReporter.accesskey   "z">
 <!ENTITY crashReporterLearnMore.label    "Ďalšie informácie">
-
-<!-- Display and Reading Settings -->
-<!ENTITY reading.caption                "Čítanie">
-<!ENTITY display.caption                "Zobrazenie">
-<!ENTITY showCondensedAddresses.label   "Zobrazovať mená len pre adresy uložené v osobných adresároch">
-<!ENTITY showCondensedAddresses.accesskey "Z">
-
-<!ENTITY autoMarkAsRead.label           "Automaticky označovať správy ako prečítané">
-<!ENTITY autoMarkAsRead.accesskey       "A">
-<!ENTITY markAsReadNoDelay.label        "Okamžite po zobrazení">
-<!ENTITY markAsReadNoDelay.accesskey    "O">
-<!-- LOCALIZATION NOTE (markAsReadDelay.label): This will concatenate to
-     "After displaying for [___] seconds",
-     using (markAsReadDelay.label) and a number (secondsLabel.label). -->
-<!ENTITY markAsReadDelay.label          "Po">
-<!ENTITY markAsReadDelay.accesskey      "P">
-<!ENTITY secondsLabel.label             "sekundách od zobrazenia">
-<!ENTITY openMsgIn.label                "Správy otvárať:">
-<!ENTITY openMsgInNewTab.label          "Na novej karte">
-<!ENTITY openMsgInNewTab.accesskey      "k">
-<!ENTITY reuseExpRadio0.label           "V novom okne správy">
-<!ENTITY reuseExpRadio0.accesskey       "n">
-<!ENTITY reuseExpRadio1.label           "V existujúcom okne so správou">
-<!ENTITY reuseExpRadio1.accesskey       "x">
-<!ENTITY closeMsgOnMoveOrDelete.label  "Pri odstraňovaní alebo presunutí správy zatvoriť jej okno/kartu">
-<!ENTITY closeMsgOnMoveOrDelete.accesskey "d">
 
 <!-- Update -->
 <!ENTITY updateApp.label                 "Aktualizácie programu &brandShortName;:">
