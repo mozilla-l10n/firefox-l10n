@@ -98,6 +98,8 @@
 <!ENTITY pref_developer_remotedebugging "Debug remoto">
 <!ENTITY pref_category_logins "Accessi">
 <!ENTITY pref_remember_signons "Ricorda password">
+<!ENTITY pref_open_external_urls_privately_title "Apertura link in Navigazione anonima">
+<!ENTITY pref_open_external_urls_privately_summary "Per tutti i link esterni aperti in &brandShortName;">
 <!ENTITY pref_manage_logins "Gestione accessi">
 <!ENTITY pref_category_home "Home">
 <!ENTITY pref_category_home_summary "Personalizza la pagina iniziale">
