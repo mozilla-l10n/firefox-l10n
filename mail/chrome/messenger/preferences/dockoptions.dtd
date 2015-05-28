@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY dockOptionsDialog.title               "Ծրագրի պատկերակի ընտրանքներ">
-<!ENTITY window.macWidth                       "37em">
+<!ENTITY window.macWidth                       "35em">
 
 <!ENTITY bounceSystemDockIcon.label            "Նոր նամակի դեպքում շարժունացնել ծրագրի պատկերակը">
 <!ENTITY bounceSystemDockIcon.accesskey        "ր">

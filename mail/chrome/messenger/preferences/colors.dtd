@@ -6,10 +6,11 @@
 <!ENTITY  window.width                    "38em">
 <!ENTITY  window.macWidth                 "41em">
 
-
+<!ENTITY  overridePageColors.label        "Փոխարինել գույները ըստ բովանդակության նշվածներով՝">
+<!ENTITY  overridePageColors.accesskey    "Փ">
 
 <!ENTITY  overridePageColors.always.label "Միշտ">
-
+<!ENTITY  overridePageColors.auto.label   "Միայն բարձր ցայտնության ձևավորումներ">
 <!ENTITY  overridePageColors.never.label  "Երբեք">
 
 <!ENTITY  color                           "Տեքստ և խորապատկեր">

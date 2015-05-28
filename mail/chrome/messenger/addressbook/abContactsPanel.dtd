@@ -2,8 +2,8 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY addressbookPicker.label            "Հասցեագիրքը.">
-<!ENTITY addressbookPicker.accesskey        "k">
+<!ENTITY addressbookPicker.label            "Հասցեագիրք.">
+<!ENTITY addressbookPicker.accesskey        "ք">
 <!ENTITY searchInput.label                  "Որոնել հետևյալը՝">
 <!ENTITY searchInput.accesskey              "և">
 <!ENTITY SearchNameOrEmail.label            "Անունը կամ էլ. հասցեն">
