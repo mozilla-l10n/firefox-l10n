@@ -156,6 +156,8 @@
 <!ENTITY pref_developer_remotedebugging "Vzdialené ladenie">
 <!ENTITY pref_category_logins "Heslá">
 <!ENTITY pref_remember_signons "Pamätať si heslá">
+<!ENTITY pref_open_external_urls_privately_title "Otvárať odkazy v režime Súkromné prehliadanie">
+<!ENTITY pref_open_external_urls_privately_summary "Pre všetky externé odkazy otvorené v prehliadači &brandShortName;">
 <!ENTITY pref_manage_logins "Správa hesiel">
 
 <!ENTITY pref_category_home "Domov">
