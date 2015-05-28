@@ -48,8 +48,8 @@
 <!ENTITY modelMoveToTrash.accesskey "x">
 <!ENTITY modelMarkDeleted.label "Marcar como excluída">
 <!ENTITY modelMarkDeleted.accesskey "M">
-<!ENTITY modelDeleteImmediately.label "Excluir imediatamente">
-<!ENTITY modelDeleteImmediately.accesskey "E">
+<!ENTITY modelDeleteImmediately.label "Remover imediatamente">
+<!ENTITY modelDeleteImmediately.accesskey "d">
 <!-- LOCALIZATION NOTE (expungeOnExit.label) : do not translate two of "&quot;" in below line -->
 <!ENTITY expungeOnExit.label "Esvaziar a pasta &quot;Entrada&quot; ao sair">
 <!ENTITY expungeOnExit.accesskey "z">
