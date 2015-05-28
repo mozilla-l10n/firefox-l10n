@@ -10,8 +10,8 @@
 <!ENTITY languages.customize.prefAddLangDescript        "Selecione o(s) idioma(s) que deseja adicionar.">
 <!ENTITY languages.customize.addButton.label            "Adicionar...">
 <!ENTITY languages.customize.addButton.accesskey        "A">
-<!ENTITY languages.customize.deleteButton.label         "Excluir">
-<!ENTITY languages.customize.deleteButton.accesskey     "x">
+<!ENTITY languages.customize.deleteButton.label         "Remover">
+<!ENTITY languages.customize.deleteButton.accesskey     "R">
 <!ENTITY languages.customize.add.title.label            "Adicionar idiomas">
 <!ENTITY languages.customize.available.label            "Idiomas:">
 <!ENTITY languages.customize.active.label               "Idiomas (na ordem de preferência):">
