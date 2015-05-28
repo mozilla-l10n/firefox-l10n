@@ -6,8 +6,8 @@
 <!ENTITY  no_space_to_start_error "&brandShortName; uygulamasının başlaması için yeterli boş alan yok.">
 <!ENTITY  error_loading_file "&brandShortName; uygulamasını başlatmak için gereken dosyalar yüklenmeye çalışılırken bir sorun meydana geldi.">
 
-<!ENTITY  onboard_start_message2 "&brandShortName; tarayıcısına hoş geldiniz">
-<!ENTITY  onboard_start_subtext2 "Daha fazla gizlilik özelliği ve eskisinden çok daha fazla özelleştirme olanağı.">
+<!ENTITY  onboard_start_message3 "&brandShortName; ile gezin">
+<!ENTITY  onboard_start_subtext3 "Mobil web\u0027de gezinti deneyiminiz tamamen size ait olsun.">
 <!ENTITY  onboard_start_button_account "&brandShortName; oturumu aç">
 <!ENTITY  onboard_start_button_browser "Gezinmeye başla">
 <!-- Localization note: These are used as the titles of different pages on the home screen.
@@ -114,7 +114,6 @@
 
 <!ENTITY overlay_share_send_tab_btn_label "Başka bir aygıta gönder">
 <!ENTITY overlay_share_no_url "Bu paylaşımda bağlantı bulunamadı">
-<!ENTITY overlay_share_retry "Yeniden dene">
 <!ENTITY overlay_share_select_device "Cihaz seçin">
 <!-- Localization note (overlay_no_synced_devices) : Used when the menu option
      to send a tab to a synced device is pressed and no other synced devices
@@ -150,8 +149,6 @@
      it is applicable. -->
 <!ENTITY pref_search_hint "İPUCU: Herhangi bir web sitesinin arama alanına uzun dokunduktan sonra &formatI; simgesine dokunarak onu arama sağlayıcı listenize ekleyebilirsiniz.">
 <!ENTITY pref_category_devtools "Geliştirici araçları">
-<!ENTITY pref_category_devtools_summary "Uzaktan hata ayıklama, paint flashing">
-<!ENTITY pref_developer_paint_flashing "Paint flashing">
 <!ENTITY pref_developer_remotedebugging "Uzaktan hata ayıklama">
 <!ENTITY pref_category_logins "Hesaplar">
 <!ENTITY pref_remember_signons "Parolaları hatırla">
@@ -192,22 +189,21 @@
 <!ENTITY pref_donottrack_title "Beni izleme">
 <!ENTITY pref_donottrack_summary "&brandShortName;sitelere izlenmek istemediğinizi söyleyecek">
 
-<!ENTITY tab_queue_toast_message "Daha sonra aç">
 <!ENTITY tab_queue_toast_action "Şimdi aç">
-<!-- Localization note (tab_queue_notification_text_plural) : The
+
+
+
+<!ENTITY tab_queue_prompt_positive_action_button "Etkinleştir">
+<!ENTITY tab_queue_prompt_negative_action_button "Şimdi değil">
+<!ENTITY tab_queue_notification_title "&brandShortName;">
+<!-- Localization note (tab_queue_notification_text_plural2) : The
      formatD is replaced with the number of tabs queued.  The
      number of tabs queued is always more than one.  We can't use
      Android plural forms, sadly. See Bug #753859. -->
-<!ENTITY tab_queue_notification_text_plural "&formatD; sekme sıraya alındı">
-<!-- Localization note (tab_queue_notification_title_plural) : This is the
-     title of a notification; we expect more than one tab queued. -->
-<!ENTITY tab_queue_notification_title_plural "Sıradaki sekmeler">
-<!-- Localization note (tab_queue_notification_title_singular) : This is the
-     title of a notification; we expect only one tab queued. -->
-<!ENTITY tab_queue_notification_title_singular "Sıradaki sekme">
-<!-- Localization note (tab_queue_notification_text_singular) : This is the
+<!ENTITY tab_queue_notification_text_plural2 "&formatD; sekme bekliyor">
+<!-- Localization note (tab_queue_notification_text_singular2) : This is the
      text of a notification; we expect only one tab queued. -->
-<!ENTITY tab_queue_notification_text_singular "1 sekme sıraya alındı">
+<!ENTITY tab_queue_notification_text_singular2 "1 sekme bekliyor">
 
 <!ENTITY pref_char_encoding "Karakter kodlamasını göster">
 <!ENTITY pref_char_encoding_on "Menüyü göster">
@@ -255,7 +251,8 @@ size. -->
 <!ENTITY pref_import_android "Android\u0027den al">
 <!ENTITY pref_import_android_summary "Yer imlerini ve geçmişi yerel tarayıcıdan içe aktar">
 <!ENTITY pref_private_data_history2 "Tarama geçmişi">
-<!ENTITY pref_private_data_formdata "Form ve arama geçmişi">
+<!ENTITY pref_private_data_searchHistory "Arama geçmişi">
+<!ENTITY pref_private_data_formdata2 "Form geçmişi">
 <!ENTITY pref_private_data_cookies2 "Çerezler ve aktif oturumlar">
 <!ENTITY pref_private_data_passwords "Kayıtlı parolalar">
 <!ENTITY pref_private_data_cache "Önbellek">
@@ -381,6 +378,7 @@ size. -->
 <!ENTITY doorhanger_login_edit_password_hint "Parola">
 <!ENTITY doorhanger_login_edit_toggle "Parolayı göster">
 
+
 <!ENTITY pref_titlebar_mode "Başlık çubuğu">
 <!ENTITY pref_titlebar_mode_title "Sayfa başlığını göster">
 <!ENTITY pref_titlebar_mode_url "Sayfa adresini göster">
@@ -390,8 +388,7 @@ size. -->
 <!ENTITY pref_scroll_title_bar2 "Tam ekran gezinti">
 <!ENTITY pref_scroll_title_bar_summary "Sayfada aşağı kaydırırken &brandShortName; başlık çubuğunu gizle">
 
-<!ENTITY pref_tab_queue_title "Daha sonra aç">
-<!ENTITY pref_tab_queue_summary "Sekmelerin hemen açılmasını önle, ama &brandShortName; bir daha açıldığında sıradaki tüm sekmeleri aç.">
+
 <!-- Localization note (page_removed): This string appears in a toast message when
      any page is removed frome about:home. This includes pages that are in history,
      bookmarks, or reading list. -->
@@ -440,6 +437,8 @@ size. -->
 <!ENTITY button_set "Ayarla">
 <!ENTITY button_clear "Temizle">
 <!ENTITY button_remember "Hatırla">
+
+<!ENTITY firstrun_panel_title_welcome "Hoş geldiniz">
 
 <!ENTITY home_top_sites_title "Önemli siteler">
 <!-- Localization note (home_top_sites_add): This string is used as placeholder
@@ -609,6 +608,14 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY ellipsis "…">
 
 <!ENTITY colon ":">
+<!-- LOCALIZATION NOTE (percent): The percent sign is appended after a number to
+     display a percentage value. formatS is the number, #37 is the code to display a percent sign.
+     This format string is typically used by getString method, in such method the percent sign
+     is a reserved caracter. In order to display one percent sign in the result of getString,
+     double percent signs must be inserted in the format string.
+     This entity is used in the zoomed view to display the zoom factor-->
+
+<!ENTITY percent "&#037;&formatS;&#037;">
 <!-- These are only used for accessibility for the done and overflow-menu buttons in the actionbar.
      They are never shown to users -->
 
