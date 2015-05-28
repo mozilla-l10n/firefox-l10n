@@ -31,7 +31,7 @@
 <!ENTITY  font.langGroup.korean                   "Կորեական">
 <!ENTITY  font.langGroup.cyrillic                 "Կիրիլյան">
 <!ENTITY  font.langGroup.el                       "Հունարեն">
-
+<!ENTITY  font.langGroup.other                    "Այլ գրահամակարգեր">
 <!ENTITY  font.langGroup.thai                     "Թաի">
 <!ENTITY  font.langGroup.hebrew                   "Եբրայերեն">
 <!ENTITY  font.langGroup.arabic                   "Արաբերեն">
@@ -46,11 +46,11 @@
 <!ENTITY  font.langGroup.gurmukhi                 "Գուրմուխի">
 <!ENTITY  font.langGroup.khmer                    "Խմեր">
 <!ENTITY  font.langGroup.malayalam                "Մալայալամ">
-
-
-
-
-
+<!ENTITY  font.langGroup.oriya                    "Օրիյա">
+<!ENTITY  font.langGroup.telugu                   "Թելուգու">
+<!ENTITY  font.langGroup.kannada                  "Կաննադա">
+<!ENTITY  font.langGroup.sinhala                  "Սինհալերեն">
+<!ENTITY  font.langGroup.tibetan                  "Տիբեթերեն">
 <!-- Minimum font size -->
 <!ENTITY minSize.label                            "Առնվազն տառաչափը.">
 <!ENTITY minSize.accesskey                        "z">
@@ -70,10 +70,10 @@
 
 <!ENTITY sendDefaultCharset.label         "Ելքային նամակ.">
 <!ENTITY sendDefaultCharset.accesskey     "u">
-
-
+<!ENTITY languagesTitle2.label            "Տեքստի կոդավորումը">
+<!ENTITY composingDescription2.label      "Գրանշանների ծրագրային կոդավորումը՝ նամակի ուղարկելիս կամ ստանալիս">
 
 <!ENTITY viewDefaultCharsetList.label     "Մուտքային նամակ.">
 <!ENTITY viewDefaultCharsetList.accesskey  "I">
-
-
+<!ENTITY replyInDefaultCharset3.label     "Հնարավորության դեպքում պատասխանելիս օգտ. ծրագրային կոդավորումը.">
+<!ENTITY replyInDefaultCharset3.accesskey "ր">

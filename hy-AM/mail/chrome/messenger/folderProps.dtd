@@ -5,10 +5,10 @@
 <!ENTITY folderProps.windowtitle.label           "Հատկություններ">
 
 <!ENTITY generalInfo.label                       "Գլխավոր տեղեկությունը">
-
-
-
-
+<!ENTITY folderCharsetFallback2.label            "Վերադարձման տեքստի կոդավորում.">
+<!ENTITY folderCharsetFallback2.accesskey        "կ">
+<!ENTITY folderCharsetEnforce2.label             "Կիրառել կոդավորումը թղթապանակի բոլոր նամակներին (գրանշանների անհատական կոդավորման կարգավորումները և ինքնորոշումը կանտեսվեն)">
+<!ENTITY folderCharsetEnforce2.accesskey         "Կ">
 <!ENTITY folderRebuildSummaryFileTip2.label      "Վերակառուցել ֆայլի ինդեքսի արդյունքը">
 <!ENTITY folderRebuildSummaryFile2.label         "Վերականգնել">
 <!ENTITY folderRebuildSummaryFile2.accesskey     "R">

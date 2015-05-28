@@ -74,7 +74,7 @@
 <!ENTITY abbreviateOff.label "Կրճատ անունները (օրինակ՝  'n.p.m.mail-news')">
 <!ENTITY advancedButton.label "Ընդլայնված...">
 <!ENTITY advancedButton.accesskey "v">
-
+<!ENTITY serverDefaultCharset2.label "Հիմնական Կոդավորում.">
 <!ENTITY localPath.label "Լոկալ թղթապանակը.">
 <!ENTITY localFolderPicker.label "Ընտրեք լոկալ թղթապանակը">
 <!ENTITY browseFolder.label "Browse…">
@@ -86,5 +86,5 @@
 <!ENTITY accountSettingsDesc.label "Սա հատուկ փոստարկղ է։ Չկան որոշակի ասոցիացումներ։">
 <!ENTITY storeType.label "Հաղորդագրությունների կրիչի տեսակը">
 <!ENTITY storeType.accesskey "տ">
-
+<!ENTITY mboxStore2.label "Ֆայլ թղթապանակում (mbox)">
 <!ENTITY maildirStore.label "Ֆայլ ամեն նամակի համար (maildir)">
