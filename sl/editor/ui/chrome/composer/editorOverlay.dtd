@@ -194,7 +194,7 @@
 <!-- Align menu items -->
 
 <!ENTITY alignMenu.label "Poravnaj">
-<!ENTITY alignMenu.accesskey "a">
+<!ENTITY alignMenu.accesskey "n">
 <!ENTITY alignLeft.label "Levo">
 <!ENTITY alignLeft.accesskey "L">
 <!ENTITY alignLeft.tooltip "Poravnaj levo">
