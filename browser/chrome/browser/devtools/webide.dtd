@@ -168,3 +168,14 @@
 <!-- LOCALIZATION NOTE (wifi_auth_token_request): Instructions requesting the
      user to transfer authentication info by transferring a token. -->
 <!-- Logs panel -->
+<!-- Simulator Options -->
+
+<!ENTITY simulator_reset "Վերականգնել ծրագրայինը">
+<!ENTITY simulator_name "Անուն">
+
+<!ENTITY simulator_version "Տարբերակ">
+<!ENTITY simulator_profile "Պրոֆիլ">
+
+
+
+
