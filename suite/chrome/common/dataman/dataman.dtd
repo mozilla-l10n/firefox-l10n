@@ -50,13 +50,13 @@
 <!ENTITY cookies.info.sendtype.label "Enviar:">
 <!ENTITY cookies.info.expires.label "Válido até:">
 
-<!ENTITY cookies.ctx.remove.label "Excluir">
-<!ENTITY cookies.ctx.remove.accesskey "r">
+<!ENTITY cookies.ctx.remove.label "Remover">
+<!ENTITY cookies.ctx.remove.accesskey "R">
 <!ENTITY cookies.ctx.selectAll.label "Selecionar tudo">
 <!ENTITY cookies.ctx.selectAll.accesskey "a">
 
-<!ENTITY cookies.button.remove.label "Excluir">
-<!ENTITY cookies.button.remove.accesskey "r">
+<!ENTITY cookies.button.remove.label "Remover">
+<!ENTITY cookies.button.remove.accesskey "R">
 
 <!ENTITY cookies.blockOnRemove.label "Ao remover, bloquear os sites listados de definir cookies futuramente">
 <!ENTITY cookies.blockOnRemove.accesskey "A">
@@ -81,13 +81,13 @@
 <!ENTITY prefs.tree.name.label "Nome da preferência">
 <!ENTITY prefs.tree.value.label "Valor">
 
-<!ENTITY prefs.ctx.remove.label "Excluir">
-<!ENTITY prefs.ctx.remove.accesskey "r">
+<!ENTITY prefs.ctx.remove.label "Remover">
+<!ENTITY prefs.ctx.remove.accesskey "R">
 <!ENTITY prefs.ctx.selectAll.label "Selecionar tudo">
 <!ENTITY prefs.ctx.selectAll.accesskey "a">
 
-<!ENTITY prefs.button.remove.label "Excluir">
-<!ENTITY prefs.button.remove.accesskey "r">
+<!ENTITY prefs.button.remove.label "Remover">
+<!ENTITY prefs.button.remove.accesskey "R">
 <!-- passwords -->
 
 <!ENTITY pwd.description "Você tem as seguintes senhas armazenadas para este domínio:">
@@ -96,15 +96,15 @@
 <!ENTITY pwd.tree.username.label "Nome de usuário">
 <!ENTITY pwd.tree.password.label "Senha">
 
-<!ENTITY pwd.ctx.remove.label "Excluir">
-<!ENTITY pwd.ctx.remove.accesskey "r">
+<!ENTITY pwd.ctx.remove.label "Remover">
+<!ENTITY pwd.ctx.remove.accesskey "R">
 <!ENTITY pwd.ctx.copyPasswordCmd.label "Copiar senha">
 <!ENTITY pwd.ctx.copyPasswordCmd.accesskey "C">
 <!ENTITY pwd.ctx.selectAll.label "Selecionar tudo">
 <!ENTITY pwd.ctx.selectAll.accesskey "a">
 
-<!ENTITY pwd.button.remove.label "Excluir">
-<!ENTITY pwd.button.remove.accesskey "r">
+<!ENTITY pwd.button.remove.label "Remover">
+<!ENTITY pwd.button.remove.accesskey "R">
 <!-- storage -->
 
 <!ENTITY storage.description "Esse domínio utiliza os seguintes armazenamentos remotos em seu computador:">
@@ -113,13 +113,13 @@
 <!ENTITY storage.tree.type.label "Tipo">
 <!ENTITY storage.tree.size.label "Tamanho">
 
-<!ENTITY storage.ctx.remove.label "Excluir">
-<!ENTITY storage.ctx.remove.accesskey "r">
+<!ENTITY storage.ctx.remove.label "Remover">
+<!ENTITY storage.ctx.remove.accesskey "R">
 <!ENTITY storage.ctx.selectAll.label "Selecionar tudo">
 <!ENTITY storage.ctx.selectAll.accesskey "a">
 
-<!ENTITY storage.button.remove.label "Excluir">
-<!ENTITY storage.button.remove.accesskey "r">
+<!ENTITY storage.button.remove.label "Remover">
+<!ENTITY storage.button.remove.accesskey "R">
 <!-- form data -->
 
 <!ENTITY fdata.search.placeholder "Dados do campo de pesquisa">
@@ -130,13 +130,13 @@
 <!ENTITY fdata.tree.firstused.label "Primeira utilização">
 <!ENTITY fdata.tree.lastused.label "Última utilização">
 
-<!ENTITY fdata.ctx.remove.label "Excluir">
-<!ENTITY fdata.ctx.remove.accesskey "r">
+<!ENTITY fdata.ctx.remove.label "Remover">
+<!ENTITY fdata.ctx.remove.accesskey "R">
 <!ENTITY fdata.ctx.selectAll.label "Selecionar tudo">
 <!ENTITY fdata.ctx.selectAll.accesskey "a">
 
-<!ENTITY fdata.button.remove.label "Excluir">
-<!ENTITY fdata.button.remove.accesskey "r">
+<!ENTITY fdata.button.remove.label "Remover">
+<!ENTITY fdata.button.remove.accesskey "R">
 <!-- forget -->
 
 <!ENTITY forget.cookies.label "Cookies">

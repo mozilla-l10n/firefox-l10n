@@ -11,8 +11,8 @@
 <!ENTITY sidebar.customize.current.accesskey    "v">
 <!ENTITY sidebar.customize.customize.label      "Personalizar aba...">
 <!ENTITY sidebar.customize.customize.accesskey  "P">
-<!ENTITY sidebar.customize.remove.label         "Excluir">
-<!ENTITY sidebar.customize.remove.accesskey     "r">
+<!ENTITY sidebar.customize.remove.label         "Remover">
+<!ENTITY sidebar.customize.remove.accesskey     "R">
 <!ENTITY sidebar.customize.additional.label     "Abas disponíveis:">
 <!ENTITY sidebar.customize.additional.accesskey "v">
 <!ENTITY sidebar.customize.add.label            "Adicionar">

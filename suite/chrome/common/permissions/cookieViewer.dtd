@@ -5,13 +5,13 @@
 <!ENTITY     tab.cookiesonsystem.label      "Cookies armazenados">
 <!ENTITY     tab.bannedservers.label        "Permissões">
 <!ENTITY     div.bannedservers.label        "Sites que podem e não podem armazenar cookies em seu computador.">
-<!ENTITY     div.cookiesonsystem.label      "Verifique ou exclua cookies que estão armazenados em seu computador.">
+<!ENTITY     div.cookiesonsystem.label      "Veja e remova os cookies armazenados no seu computador.">
 <!ENTITY     treehead.cookiename.label      "Cookie">
 <!ENTITY     treehead.cookiedomain.label    "Site">
 <!ENTITY     treehead.cookieexpires.label   "Expira">
 <!ENTITY     treehead.infoselected.label    "Detalhes do cookie selecionado">
-<!ENTITY     button.removecookie.label      "Excluir cookie">
-<!ENTITY     button.removecookie.accesskey  "E">
+<!ENTITY     button.removecookie.label      "Remover cookie">
+<!ENTITY     button.removecookie.accesskey  "R">
 <!ENTITY     button.removeallcookies.label  "Excluir todos">
 <!ENTITY     button.removeallcookies.accesskey "t">
 
@@ -39,8 +39,8 @@
 <!ENTITY     allowSite.accesskey            "P">
 <!ENTITY     allowSiteSession.label         "Sessão">
 <!ENTITY     allowSiteSession.accesskey     "S">
-<!ENTITY     removepermission.label         "Excluir site">
-<!ENTITY     removepermission.accesskey     "E">
+<!ENTITY     removepermission.label         "Remover site">
+<!ENTITY     removepermission.accesskey     "R">
 <!ENTITY     removeallpermissions.label     "Excluir todos">
 <!ENTITY     removeallpermissions.accesskey "t">
 

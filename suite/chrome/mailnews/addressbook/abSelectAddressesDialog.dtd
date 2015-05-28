@@ -16,8 +16,8 @@
 <!ENTITY newButton.accesskey                 "N"> 
 <!ENTITY editButton.label                    "Editar..."> 
 <!ENTITY editButton.accesskey                "E">
-<!ENTITY removeButton.label                  "Excluir"> 
-<!ENTITY removeButton.accesskey              "u"> 
+<!ENTITY removeButton.label                  "Remover"> 
+<!ENTITY removeButton.accesskey              "R"> 
 <!ENTITY lookIn.label                        "Exibir:"> 
 <!ENTITY lookIn.accesskey                    "x"> 
 <!ENTITY for.label                           "Localizar nome ou email:"> 
