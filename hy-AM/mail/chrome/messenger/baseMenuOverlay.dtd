@@ -19,7 +19,7 @@
 <!ENTITY whatsNewCmd.accesskey "W">
 <!ENTITY openHelp.label "Օգնության բովանդակությունը">
 <!ENTITY openHelp.accesskey "H">
-<!ENTITY openHelp.commandkey "Օ">
+<!ENTITY openHelp.commandkey "VK_F1">
 <!ENTITY openHelpMac.label "&brandShortName; Օգնություն">
 <!ENTITY openHelpMac2.commandkey   "?">
 <!ENTITY openHelpMac2.modifiers    "accel">

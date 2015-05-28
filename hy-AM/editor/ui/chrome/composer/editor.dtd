@@ -16,7 +16,7 @@
 <!-- File menu items -->
 
 <!ENTITY exportToTextCmd.label "Արտածել տեքստով...">
-<!ENTITY exportToTextCmd.accesskey "x">
+<!ENTITY exportToTextCmd.accesskey "ր">
 <!ENTITY previewCmd.label "Ընտրել էջը">
 <!ENTITY previewCmd.accesskey "w">
 <!ENTITY sendPageCmd.label "Ուղարկել էջը">

@@ -127,8 +127,8 @@
 <!ENTITY certs.auto.accesskey            "S">
 <!ENTITY certs.ask                       "Ամեն անգամ հարցնել">
 <!ENTITY certs.ask.accesskey             "A">
-
-
+<!ENTITY enableOCSP.label                "OCSP հարցման պատասխանիչ սպասարկիչը՝ հաստատելու ընթացիկ վավերության վկայագիրը">
+<!ENTITY enableOCSP.accesskey            "O">
 
 <!ENTITY viewCertificates.label         "Նայել հավաստագրերը">
 <!ENTITY viewCertificates.accesskey     "հ">

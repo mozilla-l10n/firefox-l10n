@@ -61,7 +61,7 @@
 <!ENTITY deleteFolder.accesskey "e">
 <!ENTITY renameFolder.label "Անվանափոխել…">
 <!ENTITY renameFolder.accesskey "R">
-<!ENTITY renameFolder.key "Ա">
+<!ENTITY renameFolder.key "VK_F2">
 <!ENTITY compactFolders.label "Սեղմել թղթապանակները">
 <!ENTITY compactFolders.accesskey    "F">
 <!ENTITY emptyTrashCmd.label "Դատարկել Աղբարկղը">
@@ -216,7 +216,7 @@
 <!ENTITY allMsgsCmd.accesskey "A">
 <!ENTITY expandAllThreadsCmd.label "Բացազատել բոլորը">
 <!ENTITY expandAllThreadsCmd.accesskey "E">
-<!ENTITY expandAllThreadsCmd.key "Բ">
+<!ENTITY expandAllThreadsCmd.key "*">
 <!ENTITY collapseAllThreadsCmd.label "Հավաքել բոլորը">
 <!ENTITY collapseAllThreadsCmd.accesskey "C">
 <!ENTITY collapseAllThreadsCmd.key "\">
@@ -308,10 +308,10 @@
 <!ENTITY prevUnreadMsgCmd.key "Չ">
 <!ENTITY goForwardCmd.label "Փոխանցել">
 <!ENTITY goForwardCmd.accesskey "F">
-<!ENTITY goForwardCmd.commandKey "Փ">
+<!ENTITY goForwardCmd.commandKey "]">
 <!ENTITY goBackCmd.label "Նախորդը">
 <!ENTITY goBackCmd.accesskey "B">
-<!ENTITY goBackCmd.commandKey "Հ">
+<!ENTITY goBackCmd.commandKey "[">
 <!ENTITY goChatCmd.label "Զրույց">
 <!ENTITY goChatCmd.accesskey "Զ">
 <!ENTITY goChatCmd.key "Զ">
@@ -898,7 +898,7 @@
 <!-- Mac OS X Application Menu (Cocoa widgets) -->
 
 <!ENTITY preferencesCmdMac2.label       "Կարգավորումներ">
-<!ENTITY preferencesCmdMac.commandkey   "Կ">
+<!ENTITY preferencesCmdMac.commandkey   ",">
 <!ENTITY preferencesCmdMac.modifiers    "accel">
 <!ENTITY servicesMenuMac.label          "Ծառայություններ">
 <!ENTITY hideThisAppCmdMac.label        "Թաքցնել &brandShortName;-ը">

@@ -36,4 +36,4 @@ that require it.  -->
 
 <!ENTITY sanitizeEverythingUndoWarning     "Այս գործողությունը փոփոխման ենթակա չէ:">
 
-<!ENTITY dialog.width                 "32em">
+<!ENTITY dialog.width                 "28em">

@@ -8,8 +8,8 @@
 
 <!ENTITY FormName.label "Բլանկի անունը">
 <!ENTITY FormName.accesskey "N">
-<!ENTITY FormAction.label "Քայլի հղումը.">
-<!ENTITY FormAction.accesskey "A">
+<!ENTITY FormAction.label "Քայլի URL.">
+<!ENTITY FormAction.accesskey "Ք">
 <!ENTITY FormMethod.label "Եղանակը.">
 <!ENTITY FormMethod.accesskey "M">
 <!ENTITY FormEncType.label "Կոդավորումը.">

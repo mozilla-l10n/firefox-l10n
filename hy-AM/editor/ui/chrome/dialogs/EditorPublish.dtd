@@ -50,7 +50,7 @@
 <!ENTITY siteName.tooltip             "Հրապարակված այս կայքի անունը (օր.՝ 'MySite')">
 <!ENTITY siteUrl.label                "Հրապարակման հասցեն (օր.՝ 'ftp://ftp.myisp.com/myusername'):">
 <!ENTITY siteUrl.accesskey            "a">
-<!ENTITY siteUrl.tooltip              "FTP:// կամ HTTP:// հասցեներ՝ տրամադրված Ձեր Ինտերնետ կամ հոսթինգ մատակարարի կողմից">
+<!ENTITY siteUrl.tooltip              "FTP:// կամ HTTP:// հասցեներ՝ տրամադրված ISP-ի կամ հոսթինգ մատակարարի կողմից">
 <!ENTITY browseUrl.label              "Ձեր կայքի HTTP հասցեները (օր.՝ 'http://www.myisp.com/myusername')">
 <!ENTITY browseUrl.accesskey          "T">
 <!ENTITY browseUrl.tooltip            "Ձեր համակարգչի ճանապարհի HTTP:// հասցեն (առանց ֆայլի անվան)">

@@ -14,5 +14,5 @@
 <!ENTITY widthEditField.accessKey "Լ">
 <!ENTITY borderEditField.label "Եզրագիծը.">
 <!ENTITY borderEditField.accessKey "Ե">
-<!ENTITY borderEditField.tooltip "Նշեք աղյուսակի եզրագծի չափը կամ նշեք զրո՝ առանց եզրագծի համար">
+<!ENTITY borderEditField.tooltip "Նշեք աղյուսակի եզրագծի չափը կամ նշեք զրո (0)՝ առանց եզրագծի համար">
 <!ENTITY pixels.label "փիքսել">
