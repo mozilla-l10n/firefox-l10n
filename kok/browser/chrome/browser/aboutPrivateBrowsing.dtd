@@ -1,0 +1,19 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY aboutPrivateBrowsing.title            "तुमी खाजगीपणान ब्रावज करता">
+<!ENTITY aboutPrivateBrowsing.title.normal     "खाजगी विंडो उगडपाचो?">
+
+<!ENTITY aboutPrivateBrowsing.subtitle         "&brandShortName; क ह्या विंडोखातीर कसलोच इतिहास याद उरचो ना.">
+<!ENTITY aboutPrivateBrowsing.subtitle.normal  "&brandShortName; क खाजगी विंडोखातीर कसलोच इतिहास याद उरचो ना.">
+
+<!ENTITY aboutPrivateBrowsing.description      "तातून इतिहास ब्रावज करप, इतिहास सोदप, इतिहास डावनलोड करप, वेब प्रपत्र इतिहास, कुकीज आनी तात्पिरत्यो इंटरनेट फायलींचो आसपाव आसा. पूण, तुमी डावनलोड करता त्यो फायलीं आनी तुमी करता ते बूकमार्क्स दवरले वतले.">
+
+<!ENTITY aboutPrivateBrowsing.notPrivate       "तुमी सद्या खाजगी विंडोन ना.">
+
+<!ENTITY aboutPrivateBrowsing.moreInfo         "जंय ह्या संगणकाकडेन तुमच्या ब्रावजींग इतिहासाचो रेकॉर्ड आसचो ना, थंय तुमचो मालक वो इंटरनेट सेवा पुरोवपी तुमी भेट दिता ती पानां ट्रॅक करपाक शकता.">
+<!ENTITY aboutPrivateBrowsing.learnMore        "अदिक शिकात.">
+
+<!ENTITY privatebrowsingpage.openPrivateWindow.label "खाजगी विंडो उगडात">
+<!ENTITY privatebrowsingpage.openPrivateWindow.accesskey "ख">

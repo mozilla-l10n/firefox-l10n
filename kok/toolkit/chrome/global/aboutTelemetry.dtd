@@ -1,0 +1,44 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY aboutTelemetry.pageTitle "टेलिमेट्री डेटा">
+
+<!ENTITY aboutTelemetry.telemetryEnabled "  टेलिमेट्री <span>सक्षम</span> केल्या.">
+
+<!ENTITY aboutTelemetry.telemetryDisabled "  टेलिमेट्री <span>अक्षम</span> केल्या.">
+
+<!ENTITY aboutTelemetry.generalDataSection "  सर्वसादारण डेटा">
+
+
+<!ENTITY aboutTelemetry.slowSqlSection "  ल्हव SQL स्टेटमेंट्स">
+
+<!ENTITY aboutTelemetry.chromeHangsSection " ब्रावजर हँग्ज">
+
+<!ENTITY aboutTelemetry.threadHangStatsSection " थ्रेड हँग्ज">
+
+<!ENTITY aboutTelemetry.histogramsSection " हिस्टोग्रॅम्स">
+
+<!ENTITY aboutTelemetry.keyedHistogramsSection " कीड हिस्टोग्रॅम्स">
+
+<!ENTITY aboutTelemetry.simpleMeasurementsSection " सादे मेजप">
+
+<!ENTITY aboutTelemetry.addonDetailsSection "  अॅड-ऑन तपशील">
+
+<!ENTITY aboutTelemetry.lateWritesSection " लेट बरोवप">
+
+<!ENTITY aboutTelemetry.systemInfoSection " व्यवस्था माहिती">
+
+<!ENTITY aboutTelemetry.addonHistogramsSection " अॅड-ऑन्सान एकठाय केल्ले हिस्टोग्रॅम्स">
+
+<!ENTITY aboutTelemetry.toggle " अदलाबदल विभागान क्लीक करात">
+
+<!ENTITY aboutTelemetry.emptySection "  (डेटा एकठाय करू ना)">
+
+<!ENTITY aboutTelemetry.fullSqlWarning "  NOTE: ल्हव SQL डिबगींग सक्षम केला. पुराय SQL स्ट्रींग्ज सकयल दाखयल्यो वचत पूण त्यो टेलिमेट्रीक सादर केल्यो वचच्यो ना.">
+
+<!ENTITY aboutTelemetry.fetchSymbols " हँग स्टॅकांखातीर कामांची नावां मेळयता">
+
+<!ENTITY aboutTelemetry.hideSymbols " हँग्जातल्यान रॉ डेटा दाखयाच">
+
+<!ENTITY aboutTelemetry.filterText "  फिल्टर (स्ट्रींग्ज वो /regexp/)">

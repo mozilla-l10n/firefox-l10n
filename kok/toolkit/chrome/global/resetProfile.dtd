@@ -1,0 +1,15 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this file,
+   - You can obtain one at http://mozilla.org/MPL/2.0/.  -->
+
+<!ENTITY refreshProfile.dialog.title         " &brandShortName; परत चालू करात">
+<!ENTITY refreshProfile.dialog.description1  "समस्या सारक्यो करपाक आणि कार्यक्षमताय परतून हाडपाक परत सुरवात करात">
+<!ENTITY refreshProfile.dialog.description2  "हाका लागून:">
+<!ENTITY refreshProfile.dialog.items.label1  "तुमचे अॅड-ऑन्स आणि कस्टमायझेशन काडात">
+<!ENTITY refreshProfile.dialog.items.label2  "तुमची ब्रावजर स्थापितां तांच्या मुळांत परत व्हरात">
+<!ENTITY refreshProfile.dialog.button.label  "&brandShortName; परत चालू करात">
+
+<!ENTITY refreshProfile.title                "&brandShortName; न रूपांतर घडयात">
+<!ENTITY refreshProfile.button.label         " &brandShortName;परतून चालू करात...">
+
+<!ENTITY refreshProfile.cleaning.description "जायत आयले…">

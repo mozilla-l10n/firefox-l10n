@@ -1,0 +1,17 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY safeModeDialog.title         "&brandShortName; सुरक्षित स्थिती">
+<!ENTITY window.maxWidth              "400">
+
+<!ENTITY startSafeMode.label          " सेफ मोडान सुरू करात">
+<!ENTITY refreshProfile.label         "&brandShortName; रिफ्रेश करात">
+
+<!ENTITY safeModeDescription3.label   "सुरक्षित स्थिती ही &brandShortName; ची खाशेली स्थिती जी प्रस्न सोडोवपाक वापरू येता. ">
+<!ENTITY safeModeDescription4.label   "तुमचे अॅड-ऑन्स आनी थारायिल्ली स्थापितां तात्पुरती निश्क्रीय जातली.">
+
+<!ENTITY refreshProfileInstead.label  "तुमच्यान प्रस्न सोडोवप सोडून दिव येता आणि &brandShortName; रिफ्रेश करू येता.">
+<!-- LOCALIZATION NOTE (autoSafeModeDescription3.label): Shown on the safe mode dialog after multiple startup crashes. See also chrome/global/resetProfile.dtd -->
+
+<!ENTITY autoSafeModeDescription3.label "&brandShortName; सुरू जातना अनपेक्षितपणान बंद जाले. एड ऑनांक लागून हे जाल्ले आसू येता वो हेर कारणान. सुरक्षित स्थितीन प्रस्न सोडोवपाचो यत्न करून तुमच्यान ही समस्या सोडोव येता.">

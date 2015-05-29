@@ -1,0 +1,66 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+<!-- extracted from printjoboptions.xul -->
+
+
+<!ENTITY printSetup.title    "पान प्रस्थापना">
+
+<!ENTITY basic.tab           "स्वरूप &amp; विकल्प">
+
+<!ENTITY formatGroup.label   "रचणूक">
+
+<!ENTITY orientation.label   "अनुस्थापन:">
+<!ENTITY portrait.label      "आनी तसबीर">
+<!ENTITY portrait.accesskey  "P">
+<!ENTITY landscape.label     "आनी भुयेंचीं तासां">
+<!ENTITY landscape.accesskey "L">
+
+<!ENTITY scale.label         "प्रमाण:">
+<!ENTITY scale.accesskey     "S">
+<!ENTITY scalePercent        "&#037;">
+
+<!ENTITY shrinkToFit.label   "पानाच्या रूंदायेन बसपाक आटयात">
+<!ENTITY shrinkToFit.accesskey "W">
+
+<!ENTITY optionsGroup.label  "पर्याय">
+
+<!ENTITY printBG.label       "फाटभूय छापात (रंग &amp; प्रतिमा)">
+<!ENTITY printBG.accesskey   "फ">
+
+<!ENTITY advanced.tab        "समास &amp; माथाळे/तळटीप">
+
+<!ENTITY marginGroup.label   "समास (#1)">
+<!ENTITY marginUnits.inches  "इंच">
+<!ENTITY marginUnits.metric  "मिलीमिटर">
+<!ENTITY marginTop.label     "वयर:">
+<!ENTITY marginTop.accesskey "T">
+<!ENTITY marginBottom.label  "सकयल:">
+<!ENTITY marginBottom.accesskey "B">
+<!ENTITY marginLeft.label    "दावे:">
+<!ENTITY marginLeft.accesskey "L">
+<!ENTITY marginRight.label   "उजवे:">
+<!ENTITY marginRight.accesskey "R">
+
+<!ENTITY headerFooter.label  "माथाळे &amp; तळटीपो">
+
+<!ENTITY hfLeft.label        "दावे :">
+<!ENTITY hfCenter.label      "केंद्र:">
+<!ENTITY hfRight.label       "उजवे:">
+<!ENTITY headerLeft.tip      "दावो मस्तकलेख">
+<!ENTITY headerCenter.tip    "केंद्रिय मस्तकलेख">
+<!ENTITY headerRight.tip     "उजवो मस्तकलेख">
+<!ENTITY footerLeft.tip      "दावो चरणलेख ">
+<!ENTITY footerCenter.tip    "केंद्रिय चरणलेख ">
+<!ENTITY footerRight.tip     "चरणलेख उजवो">
+
+<!ENTITY hfTitle             "माथाळो">
+<!ENTITY hfURL               "URL">
+<!ENTITY hfDateAndTime       "तारीख/वेळ">
+<!ENTITY hfPage              "#पान">
+<!ENTITY hfPageAndTotal      "#चें #पान ">
+<!ENTITY hfBlank             "--रिकामें--">
+<!ENTITY hfCustom            "थारायल्ले ...">
+
+<!ENTITY customPrompt.title  "थारायल्ले ...">
+<!ENTITY customPrompt.prompt "तुमचो थारायिल्लो माथळो/चरणलेख मजकूर दियात">

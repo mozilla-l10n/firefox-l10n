@@ -1,0 +1,100 @@
+<!-- LOCALIZATION NOTE (inspectorHTMLEdit.label): This is the label shown
+     in the inspector contextual-menu for the item that lets users edit the
+     (outer) HTML of the current node -->
+<!ENTITY inspectorHTMLEdit.label       "HTML म्हण संपादित करात">
+<!ENTITY inspectorHTMLEdit.accesskey   "स">
+<!-- LOCALIZATION NOTE (inspectorHTMLCopyInner.label): This is the label shown
+     in the inspector contextual-menu for the item that lets users copy the
+     inner HTML of the current node -->
+
+<!ENTITY inspectorHTMLCopyInner.label       "भितल्ले एचटीएमएल प्रत करात">
+<!ENTITY inspectorHTMLCopyInner.accesskey   "I">
+<!-- LOCALIZATION NOTE (inspectorHTMLCopyOuter.label): This is the label shown
+     in the inspector contextual-menu for the item that lets users copy the
+     outer HTML of the current node -->
+
+<!ENTITY inspectorHTMLCopyOuter.label       "भायले एचटीएमएल प्रत करात">
+<!ENTITY inspectorHTMLCopyOuter.accesskey   "O">
+<!-- LOCALIZATION NOTE (inspectorCopyUniqueSelector.label): This is the label
+     shown in the inspector contextual-menu for the item that lets users copy
+     the CSS Selector of the current node -->
+
+<!ENTITY inspectorCopyUniqueSelector.label       "यूनिक निवडपी प्रत करात">
+<!ENTITY inspectorCopyUniqueSelector.accesskey   "य">
+<!-- LOCALIZATION NOTE (inspectorHTMLPasteOuter.label): This is the label shown
+     in the inspector contextual-menu for the item that lets users paste outer
+     HTML in the current node -->
+
+<!ENTITY inspectorHTMLPasteOuter.label      "भायले HTML दसयात">
+<!ENTITY inspectorHTMLPasteOuter.accesskey  "द">
+<!-- LOCALIZATION NOTE (inspectorHTMLPasteInner.label): This is the label shown
+     in the inspector contextual-menu for the item that lets users paste inner
+     HTML in the current node -->
+
+<!ENTITY inspectorHTMLPasteInner.label      "भीतल्ले HTML दसयात">
+<!ENTITY inspectorHTMLPasteInner.accesskey  "n">
+<!-- LOCALIZATION NOTE (inspectorHTMLPasteExtraSubmenu.label): This is the label
+     shown in the inspector contextual-menu for the sub-menu of the other Paste
+     items, which allow to paste HTML:
+     - before the current node
+     - after the current node
+     - as the first child of the current node
+     - as the last child of the current node -->
+
+<!ENTITY inspectorHTMLPasteExtraSubmenu.label      "दसयात...">
+<!ENTITY inspectorHTMLPasteExtraSubmenu.accesskey  "t">
+<!-- LOCALIZATION NOTE (inspectorHTMLPasteBefore.label): This is the label shown
+     in the inspector contextual-menu for the item that lets users paste
+     the HTML before the current node -->
+
+<!ENTITY inspectorHTMLPasteBefore.label      "पयली">
+<!ENTITY inspectorHTMLPasteBefore.accesskey  "प">
+<!-- LOCALIZATION NOTE (inspectorHTMLPasteAfter.label): This is the label shown
+     in the inspector contextual-menu for the item that lets users paste
+     the HTML after the current node -->
+
+<!ENTITY inspectorHTMLPasteAfter.label       "मागीर">
+<!ENTITY inspectorHTMLPasteAfter.accesskey   "म">
+<!-- LOCALIZATION NOTE (inspectorHTMLPasteFirstChild.label): This is the label
+     shown in the inspector contextual-menu for the item that lets users paste
+     the HTML as the first child the current node -->
+
+<!ENTITY inspectorHTMLPasteFirstChild.label      " पयले भुरगे म्हण">
+<!ENTITY inspectorHTMLPasteFirstChild.accesskey  "प">
+<!-- LOCALIZATION NOTE (inspectorHTMLPasteLastChild.label): This is the label
+     shown in the inspector contextual-menu for the item that lets users paste
+     the HTML as the last child the current node -->
+
+<!ENTITY inspectorHTMLPasteLastChild.label       " निमणे भुरगे म्हण">
+<!ENTITY inspectorHTMLPasteLastChild.accesskey   "न">
+<!-- LOCALIZATION NOTE (inspectorScrollNodeIntoView.label): This is the label
+     shown in the inspector contextual-menu for the item that lets users scroll
+     the current node into view -->
+
+<!-- LOCALIZATION NOTE (inspectorHTMLDelete.label): This is the label shown in
+     the inspector contextual-menu for the item that lets users delete the
+     current node -->
+
+<!ENTITY inspectorHTMLDelete.label          "नोड काडून उडयात">
+<!ENTITY inspectorHTMLDelete.accesskey      "D">
+
+<!ENTITY inspector.selectButton.tooltip     "मावसान घटक निवडात">
+<!-- LOCALIZATION NOTE (inspectorSearchHTML.label2): This is the label shown as
+     the placeholder in inspector search box -->
+<!ENTITY inspectorSearchHTML.key            "F">
+<!-- LOCALIZATION NOTE (inspectorSearchHTML.label3): This is the label that will
+     be shown as the placeholder in the future, once the inspector search box
+     supports the full text HTML search in Bug 835896. -->
+<!-- LOCALIZATION NOTE (inspectorCopyImageDataUri.label): This is the label
+     shown in the inspector contextual-menu for the item that lets users copy
+     the URL embedding the image data encoded in Base 64 (what we name
+     here Image Data URL). For more information:
+     https://developer.mozilla.org/en-US/docs/Web/HTTP/data_URIs -->
+
+<!ENTITY inspectorCopyImageDataUri.label       "प्रतिमा डेटा-URL ची प्रत करात">
+<!-- LOCALIZATION NOTE (inspectorShowDOMProperties.label): This is the label
+     shown in the inspector contextual-menu for the item that lets users see
+     the DOM properties of the current node. When triggered, this item
+     opens the split Console and displays the properties in its side panel. -->
+
+<!ENTITY inspectorShowDOMProperties.label       "DOM वैशिष्ट्या दाखयात">

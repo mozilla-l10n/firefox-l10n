@@ -1,0 +1,24 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY  intro2.label                "तुमी उदडप निवडला:">
+<!ENTITY  from.label                  "सावन्:">
+<!ENTITY  actionQuestion.label        "&brandShortName;  न ह्या धारिकेचे किदे करपाचे?">
+
+
+<!ENTITY  other.label                 "हेर...">
+
+<!ENTITY  saveFile.label              "संरक्षित करात">
+<!ENTITY  saveFile.accesskey          "S">
+
+<!ENTITY  rememberChoice.label        "आतासावन अशा तरेच्या धारिकांखातीर हे करात automatically">
+<!ENTITY  rememberChoice.accesskey    "a">
+
+
+<!ENTITY  chooseHandlerMac.label      "निवडाडात...">
+<!ENTITY  chooseHandlerMac.accesskey  "न">
+<!ENTITY  chooseHandler.label         "ब्रावज...">
+<!ENTITY  chooseHandler.accesskey     "B">
+
+<!ENTITY  unknownPromptText.label     "तुमी ही धारिका जतन करपाक सोदता?">

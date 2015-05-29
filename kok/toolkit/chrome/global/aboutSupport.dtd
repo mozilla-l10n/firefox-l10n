@@ -1,0 +1,98 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY aboutSupport.pageTitle "ट्रबलशूट करपाक माहिती">
+<!-- LOCALIZATION NOTE (aboutSupport.pageSubtitle): don't change the 'supportLink' id. -->
+
+<!ENTITY aboutSupport.pageSubtitle "  ह्या पानान तांत्रिक माहिती आसा जाचो तुमका आडमेळ सोडोवपाक 
+उपेग जाव येता. तुमी &brandShortName; विशीं सामान्य प्रस्नांक जाप 
+सोदतात जाल्यार, आमची <a id='फाटबळजोडणी'>फाटबळ सायट पळयात</a>.">
+
+<!ENTITY aboutSupport.crashes.title "क्रॅश अहवाल">
+<!-- LOCALIZATION NOTE (aboutSupport.crashes.id):
+This is likely the same like id.heading in crashes.dtd. -->
+<!ENTITY aboutSupport.crashes.id "अहवाल ID">
+<!ENTITY aboutSupport.crashes.sendDate "सादर केला">
+<!ENTITY aboutSupport.crashes.allReports "सगळे क्रॅश अहवाल">
+<!ENTITY aboutSupport.crashes.noConfig "क्रॅश अहवाल दाखोवपाक ह्या अनुप्रयोगाची संरचनाय जाव ना.">
+
+<!ENTITY aboutSupport.extensionsTitle " विस्तार">
+<!ENTITY aboutSupport.extensionName "नाव">
+<!ENTITY aboutSupport.extensionEnabled "सक्षम">
+<!ENTITY aboutSupport.extensionVersion "आवृत्ती">
+<!ENTITY aboutSupport.extensionId "ID">
+
+<!ENTITY aboutSupport.experimentsTitle "प्रयोगशील वैशिष्ट्यां">
+<!ENTITY aboutSupport.experimentName "नाव">
+<!ENTITY aboutSupport.experimentId "ID">
+<!ENTITY aboutSupport.experimentDescription "विवरण">
+<!ENTITY aboutSupport.experimentActive "सक्रिय">
+<!ENTITY aboutSupport.experimentEndDate "निमणी तारीक">
+<!ENTITY aboutSupport.experimentHomepage "होमपेज">
+
+
+<!ENTITY aboutSupport.appBasicsTitle "अनुप्रयोगाचे मुळावें">
+<!ENTITY aboutSupport.appBasicsName "नाव">
+<!ENTITY aboutSupport.appBasicsVersion "आवृत्ती">
+
+<!-- LOCALIZATION NOTE (aboutSupport.appBasicsUpdateChannel, aboutSupport.appBasicsUpdateHistory, aboutSupport.appBasicsShowUpdateHistory):
+"Update" is a noun here, not a verb. -->
+<!ENTITY aboutSupport.appBasicsUpdateHistory "इतिहास सुदारात">
+<!ENTITY aboutSupport.appBasicsShowUpdateHistory "सुदार इतिहास दाखयात">
+
+<!ENTITY aboutSupport.appBasicsProfileDir "प्रोफायल निदेशिका">
+<!-- LOCALIZATION NOTE (aboutSupport.appBasicsProfileDirWinMac):
+This is the Windows- and Mac-specific variant of aboutSupport.appBasicsProfileDir.
+Windows/Mac use the term "Folder" instead of "Directory" -->
+<!ENTITY aboutSupport.appBasicsProfileDirWinMac "प्रोफायल फोल्डर">
+
+<!ENTITY aboutSupport.appBasicsEnabledPlugins "सक्षम प्लगईन्स">
+<!ENTITY aboutSupport.appBasicsBuildConfig "संरचनाय बांधात">
+<!ENTITY aboutSupport.appBasicsUserAgent "वापरप्यालो एजंट">
+<!ENTITY aboutSupport.appBasicsMemoryUse "मेमरीटो वापर">
+<!-- LOCALIZATION NOTE the term "Service Workers" should not be translated. -->
+
+<!ENTITY aboutSupport.appBasicsMultiProcessSupport "भौप्रक्रिया विंडोज">
+
+<!ENTITY aboutSupport.showDir.label "निदेशिका उगडात">
+<!-- LOCALIZATION NOTE (aboutSupport.showMac.label): This is the Mac-specific
+variant of aboutSupport.showDir.label.  This allows us to use the preferred
+"Finder" terminology on Mac. -->
+<!ENTITY aboutSupport.showMac.label "फांयडरान दाखयात">
+<!-- LOCALIZATION NOTE (aboutSupport.showWin.label): This is the Windows-specific
+variant of aboutSupport.showDir.label. -->
+<!ENTITY aboutSupport.showWin.label "फोल्डर दाखयात">
+
+<!ENTITY aboutSupport.modifiedKeyPrefsTitle "गरजेची बदलिल्ली प्राधान्यां">
+<!ENTITY aboutSupport.modifiedPrefsName "नाव">
+<!ENTITY aboutSupport.modifiedPrefsValue "मोल">
+<!-- LOCALIZATION NOTE (aboutSupport.userJSTitle, aboutSupport.userJSDescription): user.js is the name of the preference override file being checked. -->
+
+<!ENTITY aboutSupport.userJSTitle "user.js प्राधान्यां">
+<!ENTITY aboutSupport.userJSDescription "तुमच्या प्रोफायल फोल्डरान <a id='prefs-user-js-link'>user.js फायल</a> आसा, जातून &brandShortName; न तयार करू नाशिल्ल्या प्राधान्यांचो आसपाव आसा.">
+
+<!ENTITY aboutSupport.lockedKeyPrefsTitle "खाशेली कुलुप केल्ली प्राधान्यां  ">
+<!ENTITY aboutSupport.lockedPrefsName "नाव">
+<!ENTITY aboutSupport.lockedPrefsValue "मोल">
+
+<!ENTITY aboutSupport.graphicsTitle "ग्राफिक्स">
+
+<!ENTITY aboutSupport.jsTitle "जावास्क्रिप्ट">
+<!ENTITY aboutSupport.jsIncrementalGC "इन्क्रिमेंटल जीसी">
+
+<!ENTITY aboutSupport.a11yTitle "प्रवेश">
+<!ENTITY aboutSupport.a11yActivated "सक्रिय">
+<!ENTITY aboutSupport.a11yForceDisabled "प्रवेश आडयला">
+
+<!ENTITY aboutSupport.libraryVersionsTitle "लायब्ररी आवृत्त्यो">
+
+<!ENTITY aboutSupport.installationHistoryTitle "प्रतिष्ठापन इतिहास">
+<!ENTITY aboutSupport.updateHistoryTitle "इतिहास सुदारात">
+
+<!ENTITY aboutSupport.copyTextToClipboard.label "मजकूराची क्लिपबोर्डार प्रत करात">
+<!ENTITY aboutSupport.copyRawDataToClipboard.label "रॉ डेटाची क्लिपबोर्डार प्रत करात">
+
+<!ENTITY aboutSupport.sandboxTitle "सँडबॉक्स">
+
+

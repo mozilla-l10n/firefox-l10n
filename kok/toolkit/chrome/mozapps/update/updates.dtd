@@ -1,0 +1,101 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+<!ENTITY  updateWizard.title              "सुदार करपापयली">
+
+<!ENTITY  checking.title                  " सुदार तपासता">
+<!ENTITY  updateCheck.label               "आनी ब्रॅन्ड शॉर्ट नेमाचें नवें वर्जन पळयता;...">
+
+<!ENTITY  pluginupdatesfound.title        "प्लग इनाखातीर अपडेट मेळ्ळे">
+<!ENTITY  pluginupdatesfound.label        "तुमच्या एक वा चड प्लग इनाचीं नवीं वर्जना मेळ्ळीं.">
+<!ENTITY  pluginupdateslink.label         "तुमचे प्लग इन कशे अपग्रेड करपाचे तें पळयात.">
+
+<!ENTITY  noupdatesfound.title            "सुदार मेळूना.">
+<!ENTITY  noupdatesautoenabled.intro      "सुदार उपलब्ध ना. &brandShortName; ठराविक काळाउपरांत
+सुदार तपासतले.">
+<!ENTITY  noupdatesautodisabled.intro     "सुदार उपलब्ध ना. मात्शे थोड्या वेळान तपासात वो &brandShortName; चे आपसूक सुदार तपासप
+सक्रिय करात.">
+
+<!ENTITY  manualUpdate.title              "अपडेट करपाक असमर्थ">
+<!ENTITY  manualUpdate.desc               "शिफारस केल्लो सुरक्षा आणि स्थिरता सुदार उपलब्ध आसा, पूण 
+तो प्रतिष्ठापित करपाक जाय त्यो व्यवस्था परवानग्यो तुमचेकडे ना. मात्शे तुमच्या 
+व्यवस्था प्रशासकाक संपर्क करात, वो ह्या संगणकार सॉफ्टवेर प्रतिष्ठापित करपाची परवानगी आशिल्ल्या
+खात्यातल्यान परत यत्न करात.">
+<!ENTITY  manualUpdate.space.desc         "शिफारस केल्लो सुरक्षा आणि स्थिरता सुदार उपलब्ध आसा, पूण 
+तो प्रतिष्ठापित करपाक तुमचेकडे जाय तीतलो जागो ना.">
+<!ENTITY  manualUpdateGetMsg.label        "तुमी सदांच हांगा आनी ब्रॅन्ड शॉर्ट नेमाचें; हालींचे वर्जन मेळोवंक शकतात: ">
+
+<!ENTITY  unsupported.title               "व्यवस्थेक फाटबळ ना">
+<!ENTITY  unsupported.label               "तुमच्या &brandShortName; ची तारीक सोपल्या, पूण सद्याच्या आवृत्तेक तुमच्या 
+संगणकार फाटबळ ना. मात्शे तुमची व्यवस्था सुदारात, मागीर परत यत्न करात. 
+तुमका ही नोटिस परत दिसची ना, पूण तुमी ">
+<!ENTITY  unsupportedLink.label           "अदिक शिकात">
+
+<!ENTITY  incompatibleCheck.title         "तपासता अँड-ऑन अनुरूपताय">
+<!ENTITY  incompatibleCheck.label         "तुमच्या अँड-ऑनाची नवीं वर्जनां पळयता...">
+
+<!ENTITY  clickHere.label                 "ह्या सुदाराविशी अदिक म्हायती पळयात">
+
+<!ENTITY  evangelism.desc                 "हो सुदार जाता तितल्या बेगीन 
+&brandShortName; क लागू करपाची शिफारस केल्या.">
+
+<!ENTITY  license.instructions            "तुमका जर ह्या कराराच्यो शर्ती मान्य आसात, हो सुदार प्रतिष्ठापित करप चालू दवरुपाखातीर
+म्हाका मान्य आसा क्लीक करात.">
+
+<!ENTITY  license.titleText               "सॉफ्टवेयर परवानो करार">
+<!ENTITY  license.introText               "हे सॉफ्टवेयर वापरपाक अटी.">
+<!ENTITY  license.instructionText         "मुखावयलो परवानो करार मात्सो वाचात. उरिल्लो करार पळोवपाक स्क्रोल बार वापरात.">
+<!ENTITY  license.accept                  "परवानो कराराच्या अटी म्हाका मान्य आसात">
+<!ENTITY  license.accept.accesskey        "c">
+<!ENTITY  license.decline                 "परवानो कराराच्या अटी म्हाका मान्य ना">
+<!ENTITY  license.decline.accesskey       "T">
+
+<!ENTITY  incompatibleList.title          "विसंगत अँड-ऑन मेळ्ळे">
+
+<!ENTITY  downloadPage.title              "आनी ब्रॅन्ड शॉर्ट नेम; डाऊनलोड करता">
+<!ENTITY  downloading.intro               "सुदार डावनलोड करता...">
+<!ENTITY  connecting.label                "सुदार सर्वराक जोडता...">
+<!ENTITY  verificationFailedText.label    "&brandShortName; ताणे डावनलोड केल्ल्या इंक्रिमेंटल सुदाराची एकात्मताय 
+तपासपाक शकले ना, ताकालागून ते आता पुराय सुदार पॅकेज
+डावनलोड करता.">
+
+<!ENTITY  viewDetails.tooltip             "ह्या अपडेटाखातीर तपशील पळयात">
+
+<!ENTITY  details.link                    "विवरण">
+
+<!ENTITY  error.title                     "सुदार असफळ">
+
+<!ENTITY  error.label                     "ह्या सुदाराचो डावनलोड तपासपाक वो तो प्रतिष्ठापित करपाक आडमेळ आसा. 
+&brandShortName; सुदारपाक शकना कारण:">
+                                           
+<!ENTITY  errorManual.label               "तुमी &brandShortName; म्यॅन्यूअली सुदारपाक शकता 
+ह्या जोडणेक भेट दिंवन आणि सद्याची आवृत्ती डावनलोड करून:">
+                                           
+<!ENTITY  errorpatching.intro             "थोडो सुदार लागू करपाक शकना. 
+&brandShortName; पुराय सुदार डानवलोड करून परत यत्न करतले.">
+
+<!ENTITY  genericBackgroundError.label    "&brandShortName; सुदार आसा काय ना हे थारावपाक शकना. मात्शी 
+खात्री करात की तुमचेकडेन &brandShortName; ची ताजी आवृत्ती आसा. हांचेकडल्यान:">
+<!ENTITY  errorCertAttrNoUpdate2.label    "किदेतरी &brandShortName; सुरक्षितरीतीन सुदार करपाक आडायता. 
+तुमचेकडेन &brandShortName; ची ताजी आवृत्ती आसा हाची खात्री करात. हांचे कडल्यान:">
+<!ENTITY  errorCertAttrHasUpdate.label    "असुरक्षित सुदार स्विकारपाक किदे तरी &brandShortName; क ट्रीक करता 
+मात्शे तुमच्या नेटवर्क पुरोवप्याक संपर्क करात आणि मदत घेयात.">
+
+<!ENTITY  finishedPage.title              "सुदार प्रतिष्ठापित जावपाक तयार">
+<!ENTITY  finishedPage.text               "फुडले खेप &brandShortName; सुरू जातकेर सुदार प्रतिष्ठापित जातलो. तुमी 
+आता &brandShortName; परत चालू करपाक शकता, वो काम चालू दवरून मागीर परत चालू करपाक शकता.">
+
+<!ENTITY  finishedBackgroundPage.text     "&brandShortName; खातीर सुरक्षा आणि स्थिरता सुदार डावनलोड केला 
+आणि तो प्रतिष्ठापनाखातीर तयार आसा.">
+<!ENTITY  finishedBackground.name         "सुदार:">
+<!-- LOCALIZATION NOTE (finishedBackground.more): This string describes the button labels defined by restartNowButton and restartLaterButton in updates.properties. -->
+<!ENTITY  finishedBackground.more         "फुडले खेप &brandShortName; सुरू जातकेर सुदार प्रतिष्ठापित जातलो. तुमी 
+&brandShortName; आता परत चालू करपाक शकचा, वो काम चालू दवरून मागीर परत चालू करपाक शकता.">
+
+<!ENTITY  installed.title                 "सुदार प्रतिष्ठापित">
+<!ENTITY  installed.intro                 "सुदार सफळ रीतीन प्रतिष्ठापित.">
+<!ENTITY  whatsnew.label                  "नवे किदे आसा हाचेविशी आनिक वाचात...">
+
+<!ENTITY  update.details.label            "विवरण">
+<!ENTITY  update.installedOn.label        "वेर प्रतिष्ठापन केला:">
+<!ENTITY  update.status.label             "स्थिती :">
