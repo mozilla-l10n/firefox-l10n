@@ -5,7 +5,7 @@
 
 <!ENTITY setupButton.label          "Configurar &syncBrand.fullName.label;">
 <!ENTITY setupButton.accesskey      "C">
-<!ENTITY weaveDesc.label            "O &syncBrand.fullName.label; permite que você acesse seu histórico, favoritos, senhas e abas abertas em qualquer computador ou dispositivo móvel.">
+<!ENTITY weaveDesc.label            "O &syncBrand.fullName.label; permite que acesse seu histórico, favoritos, senhas e abas abertas em todos os seus dispositivos.">
 <!-- The page shown when logged in... -->
 <!-- Login error feedback -->
 
