@@ -4,6 +4,10 @@
 <!-- These strings are used in the about:newtab page -->
 
 <!ENTITY newtab.pageTitle "కొత్త టాబ్">
+
+
+
+
 <!ENTITY newtab.customize.title "మీ కొత్త టాబ్ పేజీను మలచుకోండి">
 
 

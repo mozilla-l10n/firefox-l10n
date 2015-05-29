@@ -85,7 +85,6 @@
 <!ENTITY col.url.label           "స్థానము">
 <!ENTITY col.mostrecentvisit.label "ఇటీవల దర్శించిన">
 <!ENTITY col.visitcount.label    "కౌంట్ దర్శించు">
-<!ENTITY col.keyword.label       "కీపదము">
 <!ENTITY col.description.label   "వివరణ">
 <!ENTITY col.dateadded.label     "జతచేయబడింది">
 <!ENTITY col.lastmodified.label  "చివరిగా సవరించిన">
