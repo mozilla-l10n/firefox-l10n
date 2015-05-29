@@ -16,10 +16,10 @@
 #define bookmarks_heading Favoritos
 
 
-#define bookmarks_toolbarfolder Barra dos favoritos
+#define bookmarks_toolbarfolder Pasta da barra de favoritos
 
 
-#define bookmarks_toolbarfolder_description Coloque aqui as páginas que você quer ter na barra dos favoritos.
+#define bookmarks_toolbarfolder_description Adicione favoritos nesta pasta para vê-los na barra de favoritos
 
 
 # LOCALIZATION NOTE (getting_started):
