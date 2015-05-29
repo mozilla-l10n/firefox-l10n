@@ -445,7 +445,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY tabView.commandkey           "e">
 
-<!ENTITY openLinkCmdInTab.label       "Abrir em nova aba">
+<!ENTITY openLinkCmdInTab.label       "Abrir link em uma nova aba">
 <!ENTITY openLinkCmdInTab.accesskey   "b">
 <!ENTITY openLinkCmd.label            "Abrir em nova janela">
 <!ENTITY openLinkCmd.accesskey        "A">
@@ -453,7 +453,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openLinkInPrivateWindowCmd.accesskey "r">
 <!ENTITY openLinkCmdInCurrent.label     "Abrir endereço">
 <!ENTITY openLinkCmdInCurrent.accesskey "e">
-<!ENTITY openFrameCmdInTab.label      "Abrir em nova aba">
+<!ENTITY openFrameCmdInTab.label      "Abrir frame em uma nova aba">
 <!ENTITY openFrameCmdInTab.accesskey  "b">
 <!ENTITY openFrameCmd.label           "Abrir em nova janela">
 <!ENTITY openFrameCmd.accesskey       "A">
