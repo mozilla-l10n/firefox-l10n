@@ -170,8 +170,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY backButton.tooltip           "Página anterior">
 <!ENTITY forwardCmd.label             "Avançar">
 <!ENTITY forwardButton.tooltip        "Próxima página">
-<!ENTITY backForwardButtonMenu.tooltip "Para exibir o histórico clique com o direito ou clique e segure o botão esquerdo">
-<!ENTITY backForwardButtonMenuMac.tooltip "Para exibir o histórico clique e segure o botão esquerdo">
+<!ENTITY backForwardButtonMenu.tooltip "Botão direito do mouse ou clique movendo o mouse para baixo para ver o histórico">
+<!ENTITY backForwardButtonMenuMac.tooltip "Clique movendo o mouse para baixo para ver o histórico">
 <!ENTITY reloadCmd.label              "Recarregar">
 <!ENTITY reloadButton.tooltip         "Atualizar a página">
 <!ENTITY stopCmd.label                "Parar">
@@ -355,7 +355,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY historyUndoWindowMenu.label "Reabrir janela">
 <!ENTITY historyRestoreLastSession.label "Restaurar sessão anterior">
 
-<!ENTITY showAllHistoryCmd2.label "Exibir todo o histórico">
+<!ENTITY showAllHistoryCmd2.label "Mostrar histórico">
 <!ENTITY showAllHistoryCmd.commandkey "H">
 
 <!ENTITY appMenuCustomize.label "Personalizar">
@@ -363,7 +363,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuCustomizeExit.label "Concluir personalização">
 <!ENTITY appMenuCustomizeExit.tooltip "Concluir a personalização">
 <!ENTITY appMenuHistory.label "Histórico">
-<!ENTITY appMenuHistory.showAll.label "Exibir todo o histórico">
+<!ENTITY appMenuHistory.showAll.label "Mostrar histórico">
 <!ENTITY appMenuHistory.clearRecent.label "Limpar dados de navegação…">
 <!ENTITY appMenuHistory.restoreSession.label "Restaurar sessão anterior">
 <!ENTITY appMenuHistory.viewSidebar.label "Exibir painel do histórico">

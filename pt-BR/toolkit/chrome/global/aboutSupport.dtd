@@ -41,7 +41,7 @@ This is likely the same like id.heading in crashes.dtd. -->
 
 <!ENTITY aboutSupport.appBasicsUpdateChannel "Canal de atualização">
 <!ENTITY aboutSupport.appBasicsUpdateHistory "Histórico de atualizações">
-<!ENTITY aboutSupport.appBasicsShowUpdateHistory "Exibir histórico de atualizações">
+<!ENTITY aboutSupport.appBasicsShowUpdateHistory "Mostrar histórico de atualizações">
 
 <!ENTITY aboutSupport.appBasicsProfileDir "Diretório do perfil">
 <!-- LOCALIZATION NOTE (aboutSupport.appBasicsProfileDirWinMac):
