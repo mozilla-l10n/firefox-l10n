@@ -36,7 +36,7 @@
 <!-- LOCALIZATION NOTE (openURL.label): You can see this string in the Web
    - Console context menu. -->
 
-<!ENTITY openURL.label     "Abrir em uma nova aba">
+<!ENTITY openURL.label     "Abrir URL em uma nova aba">
 <!ENTITY openURL.accesskey "b">
 <!-- LOCALIZATION NOTE (btnPageNet.label): This string is used for the menu
   -  button that allows users to toggle the network logging output.
