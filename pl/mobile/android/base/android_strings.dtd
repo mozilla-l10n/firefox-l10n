@@ -43,6 +43,7 @@
 <!ENTITY bookmark "Zakładka">
 <!ENTITY bookmark_remove "Usuń zakładkę">
 <!ENTITY bookmark_added "Zakładka dodana">
+<!ENTITY bookmark_already_added "Zakładka już istnieje">
 <!ENTITY bookmark_removed "Zakładka usunięta">
 <!ENTITY bookmark_updated "Zakładka uaktualniona">
 <!ENTITY bookmark_options "Opcje">
