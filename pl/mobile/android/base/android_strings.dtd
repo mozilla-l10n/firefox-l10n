@@ -132,6 +132,8 @@ The locale includes both language and region concepts. -->
 <!ENTITY pref_developer_remotedebugging "Zdalne debugowanie">
 <!ENTITY pref_category_logins "Dane logowania">
 <!ENTITY pref_remember_signons "Pamiętaj hasła">
+<!ENTITY pref_open_external_urls_privately_title "Otwieraj odnośniki w trybie prywatnym">
+<!ENTITY pref_open_external_urls_privately_summary "Dla wszystkich zewnętrznych odnośników otwieranych w programie &brandShortName;">
 <!ENTITY pref_manage_logins "Zarządzanie danymi logowania">
 
 <!ENTITY pref_category_home "Strona domowa">
