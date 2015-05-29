@@ -1,0 +1,49 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+
+<!ENTITY  connectionsDialog.title       "رٲبطئ سیٹینگس">
+<!ENTITY  window.width                  "۳۷ ایم">
+<!ENTITY  window.macWidth               "۳۹ ایم">
+
+<!ENTITY  proxyTitle.label              "پراكسیز كریو كنفیوگر اِنٹرنیٹ وَچھنئ خٲطرئ">
+<!ENTITY  noProxyTypeRadio.label        "كہین پراكزی چھَ نئ">
+<!ENTITY  noProxyTypeRadio.accesskey    "y">
+<!ENTITY  systemTypeRadio.label         "سسٹم پراكزی سیٹینگس كریو استیمال">
+<!ENTITY  systemTypeRadio.accesskey     "U">
+<!ENTITY  WPADTypeRadio.label           "آٹو ڈیٹیكٹ پراكزی سیٹینگس یم۪ی نیٹورك خٲطرئ">
+<!ENTITY  WPADTypeRadio.accesskey       "w">
+<!ENTITY  manualTypeRadio.label         "پانٲی پراكزی كنفیوگریشن:">
+<!ENTITY  manualTypeRadio.accesskey     "M">
+<!ENTITY  autoTypeRadio.label           "پانٲی پراكزی كنفیوگریشن URL:">
+<!ENTITY  autoTypeRadio.accesskey       "A">
+<!ENTITY  reload.label                  "ری لوڈ">
+<!ENTITY  reload.accesskey              "e">
+<!ENTITY  ftp.label                     "FTP پراكزی:">
+<!ENTITY  ftp.accesskey                 "F">
+<!ENTITY  http.label                    "HTTP پراكزی:">
+<!ENTITY  http.accesskey                "x">
+<!ENTITY  ssl.label                     "SSL پراكزی:">
+<!ENTITY  ssl.accesskey                 "L">
+<!ENTITY  socks.label                   "SOCKS ہوسٹ:">
+<!ENTITY  socks.accesskey               "C">
+<!ENTITY  socks4.label                  "SOCKS v4">
+<!ENTITY  socks4.accesskey              "K">
+<!ENTITY  socks5.label                  "SOCKS v5">
+<!ENTITY  socks5.accesskey              "v">
+<!ENTITY  socksRemoteDNS.label          "ریموٹ DNS ">
+<!ENTITY  socksRemoteDNS.accesskey      "D">
+<!ENTITY  port.label                    "پورٹ">
+<!ENTITY  HTTPport.accesskey            "P">
+<!ENTITY  SSLport.accesskey             "o">
+<!ENTITY  FTPport.accesskey             "r">
+<!ENTITY  SOCKSport.accesskey           "t">
+<!ENTITY  noproxy.label                 "خٲطرئ چھَ نئ كہین پراكزی">
+<!ENTITY  noproxy.accesskey             "N">
+<!ENTITY  noproxyExplain.label          "مثلن: mozilla.org, .net.nz, 192.168.1.0/24">
+<!ENTITY  shareproxy.label              "یئ پراكزی سرور كریو استیمال سارزی پروٹوكالزن خٲطرئ">
+<!ENTITY  shareproxy.accesskey          "s">
+<!ENTITY  autologinproxy.label          "پرامپٹْہ مْہ کْریو تصدیق باپت اگر پاس وأرڈ محفوظ کرنْہ یِیہ">
+<!ENTITY  autologinproxy.accesskey      "پ">
+<!ENTITY  autologinproxy.tooltip        "یہ اوپشن چُھ خاموشی سان تصدیق کران توہیہ پراکزی ین کُن ییلہ توہیہ محفوظ کران چھیو کریڈینشل تِمن باپت۔ توہیہ یِیہ پرامپٹْہ دِنْہ اگر تصدیق ناکام گژھِ۔">

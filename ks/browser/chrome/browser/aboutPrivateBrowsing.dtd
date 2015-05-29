@@ -1,0 +1,19 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY aboutPrivateBrowsing.title            "توہیہ چھیو براوز کران پرایوٹ پأٹھ">
+<!ENTITY aboutPrivateBrowsing.title.normal     "اکھ پرایوٹ وینڈو کھولواہ؟">
+
+<!ENTITY aboutPrivateBrowsing.subtitle         "&amp; برانڈ شاٹ ناو؛ روزِ نْہ یاد کانہہ ہسٹری یتھ وینڈو باپت۔">
+<!ENTITY aboutPrivateBrowsing.subtitle.normal  "&amp; برانڈ شاٹ ناو؛ روزِ نْہ یاد کانہہ ہسٹری پرایوٹ وینڈوہن باپت۔">
+
+<!ENTITY aboutPrivateBrowsing.description      "تتھ منز چھ شأمل براوزینگ ہسٹری، تلاش ہسٹری، ڈاون لوڈ ہسٹری، ویب فارم ہسٹری، کوکی، تْہ سرسری انٹرنیٹ فایلہ۔ اماپوز،  یم فایلہ توہیہ ڈاون لوڈ کْریو تْہ یم بوک مارْک توہیہ بنأیو، تِم یِین موجود تھاونْہ۔">
+
+<!ENTITY aboutPrivateBrowsing.notPrivate       "توہیہ چھیو نْہ وْنکینس أکس پرایوٹ وینڈو منز۔">
+
+<!ENTITY aboutPrivateBrowsing.moreInfo         "اگر ذن نْہ یتھ کمپیوٹرس منز ریکارڈ روزِ تُہنزِ براوزینگ ہسٹری ہُند، تُہند ایمپلایر یا اِنٹرنیت سْروس پرووایڈر ہیکْہ توتِہ ٹریک کْرتھ تِم پیج یم توہیہ ویزیٹ کْرمِت چھ۔">
+<!ENTITY aboutPrivateBrowsing.learnMore        "مزید ہیچھیو">
+
+<!ENTITY privatebrowsingpage.openPrivateWindow.label "اوپْن کْریو اکھ &amp; پرایوٹ وینڈو">
+<!ENTITY privatebrowsingpage.openPrivateWindow.accesskey "P">

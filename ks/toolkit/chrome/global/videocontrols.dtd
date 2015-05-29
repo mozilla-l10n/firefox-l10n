@@ -1,0 +1,38 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY playButton.playLabel "چلٲویو">
+<!ENTITY playButton.pauseLabel "رکاوٹ">
+<!ENTITY muteButton.muteLabel "ژھوٛٛپ كرنٲویو">
+<!ENTITY muteButton.unmuteLabel "آواز تھٲویو">
+<!ENTITY fullscreenButton.enterfullscreenlabel "پورئ سكرین">
+<!ENTITY fullscreenButton.exitfullscreenlabel "پورئ سكرین مكلٲویو">
+
+
+<!ENTITY stats.media "میڈیا">
+<!ENTITY stats.size "سایز">
+<!ENTITY stats.activity "كٲم">
+<!ENTITY stats.activityPaused "روٛكیمُت">
+<!ENTITY stats.activityPlaying "چلاوان">
+<!ENTITY stats.activityEnded "مكلیمُت">
+<!ENTITY stats.activitySeeking "(ژھانڈان)">
+<!ENTITY stats.volume "آواز">
+<!ENTITY stats.framesParsed "فریم پارسڈ">
+<!ENTITY stats.framesDecoded "فریم ڈی كوڈ كرمِت">
+<!ENTITY stats.framesPresented "فریم موجود">
+<!ENTITY stats.framesPainted "فریم پینٹ كرمِت">
+
+<!ENTITY error.aborted "ویڈیو لوڈ كروٛن رۄكٲومُت">
+<!ENTITY error.network "ویڈیو پلے بیك مكلیمُت نیٹورك دِقت كئ وجئ سٲت">
+<!ENTITY error.decode "ویڈیو ہیكٲو نئ چلٲوِتھ كیازئ كئ فایل چھَ كورپٹ">
+<!ENTITY error.srcNotSupported "ویڈیو فارنیٹ یا MIME  قئسمس چھُ نئ تعاوُن">
+<!ENTITY error.noSource2 "كہین ویڈیو آو نئ اتھ۪ی یَتھ فارمیٹ تئ MIME قئسمَس تعاوُن آس۪ی">
+<!ENTITY error.generic "ویڈیو پلے بیك مكلٲو نا مولوم دقت كئ وجئ سٲت">
+<!-- LOCALIZATION NOTE (scrubberScale.nameFormat): the #1 string is the current
+media position, and the #2 string is the total duration. For example, when at
+the 5 minute mark in a 6 hour long video, #1 would be "5:00" and #2 would be
+"6:00:00", result string would be "5:00 of 6:00:00 elapsed".
+-->
+
+<!ENTITY scrubberScale.nameFormat "#1 of #2 مكلیو">

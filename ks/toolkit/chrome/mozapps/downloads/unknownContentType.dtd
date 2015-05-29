@@ -1,0 +1,26 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY  intro2.label                "تہئ چھُوئ ژٲرمُت كھولُن">
+<!ENTITY  from.label                  "پیٹھئ:">
+<!ENTITY  actionQuestion.label        "&amp;brandشارٹ ناو؛یئ كریو یتھ فایلئ سئتھ؟">
+
+<!ENTITY  openWith.label              "&amp; سعتھ کھولیو">
+<!ENTITY  openWith.accesskey          "O">
+<!ENTITY  other.label                 "باقی...">
+
+<!ENTITY  saveFile.label              "&amp; فایل كریو محفوظ">
+<!ENTITY  saveFile.accesskey          "S">
+
+<!ENTITY  rememberChoice.label        "یئ كریو &amp; پانئی یئژھئ فایلز خٲطرئ  برونٹھ كُن">
+<!ENTITY  rememberChoice.accesskey    "a">
+
+<!ENTITY  whichIs.label              "یوس ذن چُھ:">
+
+<!ENTITY  chooseHandlerMac.label      "&amp; ژٲریو...">
+<!ENTITY  chooseHandlerMac.accesskey  "C">
+<!ENTITY  chooseHandler.label         "&amp; براوز...">
+<!ENTITY  chooseHandler.accesskey     "B">
+
+<!ENTITY  unknownPromptText.label     "تہئ چھئوئ یژھان یئ فایل محفوظ كریتھ؟">

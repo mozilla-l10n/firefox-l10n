@@ -1,0 +1,17 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY safeModeDialog.title         "&amp; برینڈ لكُٹ ناو; محفوظ موڈ">
+<!ENTITY window.maxWidth              "400">
+
+<!ENTITY startSafeMode.label          "محفوظ موڈس منز كریو شروع">
+<!ENTITY refreshProfile.label         "ریفریس &amp;برانڈ شاٹ ناو؛">
+
+<!ENTITY safeModeDescription3.label   "سیف موڈ چُھ اکھ خاص موڈ &amp;برانڈ شاٹ ناوک؛ یوس ذن ایشو ٹربُل شوٹ کرنْہ باپت استعمال کْرتھ ہیکو۔">
+<!ENTITY safeModeDescription4.label   "تُہِند ایڈ آنس تئ كسٹم سیٹینگس یِن عٲرزی تور پٲٹھ بند كرنئ">
+
+<!ENTITY refreshProfileInstead.label  "توہیہ ہیکیو ترأوتھ ٹربُل شوٹینگ تْہ ہیکیو کوشش کْرتھ ریفریش کرنْچ &amp;برانڈ شاٹ ناو؛۔">
+<!-- LOCALIZATION NOTE (autoSafeModeDescription3.label): Shown on the safe mode dialog after multiple startup crashes. See also chrome/global/resetProfile.dtd -->
+
+<!ENTITY autoSafeModeDescription3.label "&amp;برانڈ شاٹ ناو؛ گو غیر متوقہ طریقس منز بند شروع گژھنس دوران۔ یہ ہیکِہ گْژھیتھ ایڈ۔آنو یا بدل پرابلیم سْیت۔ توہیہ ہیکیو کوشش کْرتھ پرابلیم حل کرنْچ سیف موڈس منز ٹربُل شوٹ کْرتھ۔">

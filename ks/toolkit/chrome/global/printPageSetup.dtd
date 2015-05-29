@@ -1,0 +1,66 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+<!-- extracted from printjoboptions.xul -->
+
+
+<!ENTITY printSetup.title    "پیج سیٹ اپ">
+
+<!ENTITY basic.tab           "فارمیٹ&amp; اوپشن ">
+
+<!ENTITY formatGroup.label   "فارمیٹ">
+
+<!ENTITY orientation.label   "رخ بندی:">
+<!ENTITY portrait.label      "پورٹریٹ">
+<!ENTITY portrait.accesskey  "P">
+<!ENTITY landscape.label     "لینڈ سکیپ">
+<!ENTITY landscape.accesskey "L">
+
+<!ENTITY scale.label         "سکیل:">
+<!ENTITY scale.accesskey     "S">
+<!ENTITY scalePercent        "&#037;">
+
+<!ENTITY shrinkToFit.label   "۔پرنٹ رینجس سعتھ كریو   صفحہ موزوں ">
+<!ENTITY shrinkToFit.accesskey "W">
+
+<!ENTITY optionsGroup.label  "آپشنس  ">
+
+<!ENTITY printBG.label       "پرینٹ &amp; بیک گراوپنڈ ( رنگ &amp; اِمیج)">
+<!ENTITY printBG.accesskey   "B">
+
+<!ENTITY advanced.tab        "مارجن &amp; ہیڈر یا فوٹر">
+
+<!ENTITY marginGroup.label   "خاش (#1)">
+<!ENTITY marginUnits.inches  "انچس">
+<!ENTITY marginUnits.metric  "میلی میٹرس">
+<!ENTITY marginTop.label     "ہ۪یور:">
+<!ENTITY marginTop.accesskey "T">
+<!ENTITY marginBottom.label  "تلئكنئ:">
+<!ENTITY marginBottom.accesskey "B">
+<!ENTITY marginLeft.label    "كھوفُر:">
+<!ENTITY marginLeft.accesskey "L">
+<!ENTITY marginRight.label   "دَچھُن:">
+<!ENTITY marginRight.accesskey "R">
+
+<!ENTITY headerFooter.label  "ہیڈر  &amp;فوٹر">
+
+<!ENTITY hfLeft.label        "كھوفُر:">
+<!ENTITY hfCenter.label      "مرکز:">
+<!ENTITY hfRight.label       "دَچھُن:">
+<!ENTITY headerLeft.tip      "صفحہك  پ۪یٹھم حصئ كھوفر">
+<!ENTITY headerCenter.tip    "صفحہك  پ۪یٹھم حصئ  منزس">
+<!ENTITY headerRight.tip     "صفحہك پ۪یٹھم حصئ دَچُھن">
+<!ENTITY footerLeft.tip      "صفحُك دامن كھوفر">
+<!ENTITY footerCenter.tip    "صفحُك دامن منزس">
+<!ENTITY footerRight.tip     "صفحُك دامن  دَچھُن">
+
+<!ENTITY hfTitle             "عنوان ">
+<!ENTITY hfURL               "URL">
+<!ENTITY hfDateAndTime       " تئریخ/ وقتھ">
+<!ENTITY hfPage              "صفحہ #">
+<!ENTITY hfPageAndTotal      "صفحہ  # اُك #">
+<!ENTITY hfBlank             "--خئلی--">
+<!ENTITY hfCustom            "كسٹم...">
+
+<!ENTITY customPrompt.title  "كسٹم...">
+<!ENTITY customPrompt.prompt "پنن كسٹم ہیریوم / بنیوم مواد كریو دئخل">

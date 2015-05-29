@@ -1,0 +1,44 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY aboutTelemetry.pageTitle "ٹیلی میٹری ڈاٹا">
+
+<!ENTITY aboutTelemetry.telemetryEnabled "ٹیلی میٹری چھ <span>اینیبلْڈ</span>۔">
+
+<!ENTITY aboutTelemetry.telemetryDisabled "ٹیلی میٹری چھ <span>ڈیسیبلْڈ</span>۔">
+
+<!ENTITY aboutTelemetry.generalDataSection "جنرل ڈاٹا">
+
+
+<!ENTITY aboutTelemetry.slowSqlSection "آہستْہ ایس کیو ایل سیٹیٹمینٹ">
+
+<!ENTITY aboutTelemetry.chromeHangsSection "براوزر چُھ ہینگ گژھان">
+
+<!ENTITY aboutTelemetry.threadHangStatsSection "تھرڈ چُھ ہینگ گژھان">
+
+<!ENTITY aboutTelemetry.histogramsSection "ہسٹو گرام">
+
+<!ENTITY aboutTelemetry.keyedHistogramsSection "کی وأل ہِسٹوگرام">
+
+<!ENTITY aboutTelemetry.simpleMeasurementsSection "سادْ میجرمینٹ">
+
+<!ENTITY aboutTelemetry.addonDetailsSection "ایڈ۔آن تفصیل">
+
+<!ENTITY aboutTelemetry.lateWritesSection "لیٹ رایِٹ">
+
+<!ENTITY aboutTelemetry.systemInfoSection "سِسٹم انفارمیشن">
+
+<!ENTITY aboutTelemetry.addonHistogramsSection "ہِسٹوگرام آیہ جمع کرنْہ ایڈ۔آنو ذریعہ">
+
+<!ENTITY aboutTelemetry.toggle "کْلک کْریو سیکشن ٹاگل کرنْہ باپت">
+
+<!ENTITY aboutTelemetry.emptySection "(کانہہ ڈاٹا آو نْہ جمع کرنْہ)">
+
+<!ENTITY aboutTelemetry.fullSqlWarning "نوٹ: وار وار ایس کیو ایل ڈی بگینگ چھ اینیبلْڈ۔ فُل ایس کیو ایل سِٹرینگ ہیکو ڈیسپْلے کْرتھ بونْہ کْنئ مگر تِم یِین نْہ سبمِٹ کرنْہ ٹیلی میٹری کُن۔">
+
+<!ENTITY aboutTelemetry.fetchSymbols "فیچ کْریو فنکشن ناو ہینگ سیٹیکن باپت">
+
+<!ENTITY aboutTelemetry.hideSymbols "را ڈاٹا ہأیو ہینگو پیٹھ">
+
+<!ENTITY aboutTelemetry.filterText "فلٹر(سیٹرینگ یا /regexp/) ">

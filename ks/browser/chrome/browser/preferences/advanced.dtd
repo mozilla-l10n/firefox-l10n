@@ -1,0 +1,120 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+<!-- Note: each tab panel must contain unique accesskeys -->
+
+
+<!ENTITY generalTab.label                "عام">
+
+<!ENTITY accessibility.label             "ایكسیسبلٹی">
+
+<!ENTITY useCursorNavigation.label       "كرسر كیز كریو ہمیشیئ استیمال صفحئ وَچھنئ خٲطرئ">
+<!ENTITY useCursorNavigation.accesskey   "c">
+<!ENTITY searchStartTyping.label         "مواد ژھٲنڈیو یل۪ی بئ ٹایپِنگ كرئ شروع">
+<!ENTITY searchStartTyping.accesskey     "x">
+<!ENTITY blockAutoRefresh.label          "می۪ی كریو آگاہ یل۪ی ویب سایٹس صفحئ  ری ڈایریكٹ یا ری لوڈ كرنچ كوشش كرَن">
+<!ENTITY blockAutoRefresh.accesskey      "b">
+
+<!ENTITY browsing.label                  "براوزِنگ">
+
+<!ENTITY useAutoScroll.label             "آٹو سكرالینگ كریو استیمال">
+<!ENTITY useAutoScroll.accesskey         "a">
+<!ENTITY useSmoothScrolling.label        "سموتھ سكرالِنگ كریو استیمال">
+<!ENTITY useSmoothScrolling.accesskey    "m">
+<!ENTITY allowHWAccel.label              "ہارڈ ویر اكسیلریشن كریو استیمال یل۪ی دستیاب آس۪ی">
+<!ENTITY allowHWAccel.accesskey          "r">
+<!ENTITY checkSpelling.label             "مین حجئ وچھیو یل۪ی بئ ٹایپ كَرئ">
+<!ENTITY checkSpelling.accesskey         "t">
+
+<!ENTITY dataChoicesTab.label            "ڈاٹا چویسْہ">
+
+<!ENTITY healthReportDesc.label          "چُھ توہیہ مدد کران پننِہ براوزرْچ کارکردگی سمجھنس منز تْہ چُھ ڈاٹا شییر کران &amp;وینڈر شاٹ ناو؛ اس سْیت تُہندس براوزر کِس صحتس مُتلق">
+<!ENTITY enableHealthReport.label        "اینیبْل کْریو برانڈ شاٹ ناو؛&amp; ہیلتھ رِپورٹ">
+<!ENTITY enableHealthReport.accesskey    "ب">
+<!ENTITY healthReportLearnMore.label     "مزید ہیچھِو">
+
+<!ENTITY telemetryDesc.label             "چُھ شییر کران کارکردگی، استعمال، ہارڈ وِیر تْہ کسٹامایزیشن ڈاٹا تُہندس براوزرس مُتلق &amp;وینڈر شاڑ ناو؛ اس سْیت یوس اسِہ مدد کران چُھ &amp;برانڈ شاٹ ناو؛ بہتر بناونس منز۔">
+<!ENTITY enableTelemetryData.label       "أضأفی ڈاٹا کْریو شییر ( یعنے،&amp; ٹیلی میٹری)">
+<!ENTITY enableTelemetryData.accesskey   "T">
+<!ENTITY telemetryLearnMore.label        "مزید ہیچھِو">
+
+<!ENTITY crashReporterDesc.label         "برانڈ شاٹ ناو؛ چُھ سبمِٹ کران کریش رپورٹ مدد کرنْہ باپت &amp;وینڈر شاٹ ناو؛ اس تُہند براوزر مزید دور تْہ محفوظ بناونْہ باپت&amp;">
+<!ENTITY enableCrashReporter.label       "کریش رپورٹر کْریو اینیبْل&amp;  ">
+<!ENTITY enableCrashReporter.accesskey   "C">
+<!ENTITY crashReporterLearnMore.label    "مزید ہیچھِو">
+
+<!ENTITY networkTab.label                "نیٹ ورك">
+
+<!ENTITY connection.label                "رٲبطئ">
+
+<!ENTITY connectionDesc.label            "برینڈ لكُٹ ناو كریو كنفیوگر; اِنٹرنیٹس سٲتھ كریو رٲبطئ">
+<!ENTITY connectionSettings.label        "سیٹینگس">
+<!ENTITY connectionSettings.accesskey    "e">
+
+<!ENTITY httpCache.label                 "ویب مواد كریو كیش">
+
+<!ENTITY offlineStorage2.label           "اوفیس ویب مواد تئ استیمال كرئن وٲل سُند ڈاٹا">
+<!-- LOCALIZATION NOTE:
+  The entities limitCacheSizeBefore.label and limitCacheSizeAfter.label appear on a single
+  line in preferences as follows:
+
+  &limitCacheSizeBefore.label [textbox for cache size in MB] &limitCacheSizeAfter.label;
+-->
+
+<!ENTITY limitCacheSizeBefore.label      "كیش كریو حد س منز">
+<!ENTITY limitCacheSizeBefore.accesskey  "L">
+<!ENTITY limitCacheSizeAfter.label       "MB جاے">
+<!ENTITY clearCacheNow.label             "وئن كریو صاف">
+<!ENTITY clearCacheNow.accesskey         "C">
+<!ENTITY clearOfflineAppCacheNow.label   "وئن كریو صاف">
+<!ENTITY clearOfflineAppCacheNow.accesskey "N">
+<!ENTITY overrideSmartCacheSize.label    "پانٲی كیش سںبالُن كریو نظر انداز">
+<!ENTITY overrideSmartCacheSize.accesskey "O">
+
+<!ENTITY updateTab.label                 "اپ ڈیٹ ">
+
+<!ENTITY updateApp.label                 "برینڈ لكُٹ ناو;  ااپڈیٹس">
+<!ENTITY updateAuto1.label               "پانٲی كریواپڈیٹس اِنسٹال(مشورئ بہتر حفاظت كر۪یتھ)">
+<!ENTITY updateAuto1.accesskey           "A">
+<!ENTITY updateCheck.label               "اپڈيٹس وچھیو، مگر م۪ی۪ی دیو وَچھنئ تِم چھا اِنسٹال كر۪ین كِنئ نئ">
+<!ENTITY updateCheck.accesskey           "C">
+<!ENTITY updateManual.label              "زہِن مئ وچھیو اپڈیٹس (چھُ نئ مشوَرئ یوان دِنئ، حفٲظتی خطراتاو كِن)">
+<!ENTITY updateManual.accesskey          "N">
+
+<!ENTITY updateAutoAddonWarn.label       "می۪ی كریو آگاہ اگر یئ میٖن ایڈ آنس بند كر۪ی">
+<!ENTITY updateAutoAddonWarn.accesskey   "W">
+
+<!ENTITY updateHistory.label             "اپڈیٹ تٲریخ ہٲویو">
+<!ENTITY updateHistory.accesskey         "p">
+
+<!ENTITY useService.label                "پس۪ی منظر خدمت كریو استیمال اپڈیٹس اِنسٹال كرنئ خٲطرئ">
+<!ENTITY useService.accesskey            "b">
+
+<!ENTITY updateOthers.label              "پانٲی كریو اپڈیٹ">
+<!ENTITY enableSearchUpdate.label        "ژھانڈ اِ نجن">
+<!ENTITY enableSearchUpdate.accesskey    "E">
+
+<!ENTITY offlineNotify.label             "می۪ی ونیو یل۪ی ویب سایٹ آفلاین استیمال خٲطرئ ڈاٹا كر۪ی جمع">
+<!ENTITY offlineNotify.accesskey         "T">
+<!ENTITY offlineNotifyExceptions.label   "غٲر مومول">
+<!ENTITY offlineNotifyExceptions.accesskey "x">
+
+<!ENTITY offlineAppsList2.label          "یمن ویب سایٹن چھُ اجازت ڈاٹا جمع تھاونُك آفلاین استیمال خٲطرئ">
+<!ENTITY offlineAppsList.height          "۷ایم">
+<!ENTITY offlineAppsListRemove.label     "ہٹٲویو">
+<!ENTITY offlineAppsListRemove.accesskey "R">
+<!ENTITY offlineAppRemove.confirm        "آفلاین ڈاٹا ہٹٲویو">
+
+<!ENTITY certificateTab.label            "سرٹیفیکٹس ">
+
+<!ENTITY certSelection.description       "یل۪ی سرور مین زٲتی سرٹیفیكیٹ خٲطرئ درخواست كر۪ی">
+<!ENTITY certs.auto                      "اكھ ژٲریو پٲنیی">
+<!ENTITY certs.auto.accesskey            "S">
+<!ENTITY certs.ask                       "می۪ی پریژھیو پر۪یتھ لٹ۪ی">
+<!ENTITY certs.ask.accesskey             "A">
+<!ENTITY enableOCSP.label                "کیوری او سی ایس پی ریسپانڈر سْرور تصدیق کرنْہ باپت موجود ویلیڈیٹی سرٹیفیکٹن ہْنز">
+<!ENTITY enableOCSP.accesskey            "ک">
+<!ENTITY viewCerts.label                 "سرٹیفیٹ  وچھیو">
+<!ENTITY viewCerts.accesskey             "س">
+<!ENTITY viewSecurityDevices.label       "حفئظتی  عالئ&amp;">
+<!ENTITY viewSecurityDevices.accesskey   "D">

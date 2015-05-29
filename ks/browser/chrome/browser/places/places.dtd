@@ -1,0 +1,124 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+<!-- LOCALIZATION NOTE (places.library.title): use "Library", "Archive" or "Repository" -->
+
+<!ENTITY places.library.title  "مكتب">
+<!ENTITY places.library.width  "700">
+<!ENTITY places.library.height "500">
+<!ENTITY organize.label        "ترتیب ">
+<!ENTITY organize.accesskey    "O">
+<!ENTITY organize.tooltip      "پن۪ین نشان زد تھٲویو ترتیب منز">
+
+<!ENTITY file.close.label               "بند  ">
+<!ENTITY file.close.accesskey           "C">
+<!ENTITY cmd.close.key                  "w">
+<!ENTITY views.label                    "منظر">
+<!ENTITY views.accesskey                "V">
+<!ENTITY views.tooltip                  "پنُن منظر بدلٲویو">
+<!ENTITY view.columns.label             "كالمں  ہٲویو">
+<!ENTITY view.columns.accesskey         "C">
+<!ENTITY view.sort.label                "ژٲریو">
+<!ENTITY view.sort.accesskey            "S">
+<!ENTITY view.unsorted.label            "ژارنٲی">
+<!ENTITY view.unsorted.accesskey        "U">
+<!ENTITY view.sortAscending.label       "A > Z ژارنچ ترتیب">
+<!ENTITY view.sortAscending.accesskey   "A">
+<!ENTITY view.sortDescending.label      "Z > A ژارنچ ترتیب">
+<!ENTITY view.sortDescending.accesskey  "Z">
+
+<!ENTITY importBookmarksFromHTML.label     "HTML پ۪یٹھئ كریو نشان ذد برامد...">
+<!ENTITY importBookmarksFromHTML.accesskey "I">
+<!ENTITY exportBookmarksToHTML.label       "HTML  ئس پ۪یٹھ كریو نشان ذد درامد...">
+<!ENTITY exportBookmarksToHTML.accesskey   "E">
+<!ENTITY importOtherBrowser.label          "بی۪ی براوزر پ۪یٹھئ كریو ڈاٹا برامد...">
+<!ENTITY importOtherBrowser.accesskey      "A">
+
+<!ENTITY cmd.backup.label               "بیک اپ ...">
+<!ENTITY cmd.backup.accesskey           "B">
+<!ENTITY cmd.restore2.label             "ري سٹور">
+<!ENTITY cmd.restore2.accesskey         "R">
+<!ENTITY cmd.restoreFromFile.label      "فایل ژٲریو...">
+<!ENTITY cmd.restoreFromFile.accesskey  "C">
+
+<!ENTITY cmd.bookmarkLink.label         "یَتھ صفہس تھٲویو نشان ...">
+<!ENTITY cmd.bookmarkLink.accesskey     "B">
+<!ENTITY cmd.delete.label               "یئ صفحئ كریو منسوخ">
+<!ENTITY cmd.delete.accesskey           "D">
+<!ENTITY cmd.deleteDomainData.label     "یَتھ سایٹئ متعلق مشرٲویو">
+<!ENTITY cmd.deleteDomainData.accesskey "F">
+
+<!ENTITY cmd.open.label                  "کھولیو">
+<!ENTITY cmd.open.accesskey              "ک">
+<!ENTITY cmd.open_window.label           "نئو۪ی وِنڈو منز كھولیو">
+<!ENTITY cmd.open_window.accesskey       "N">
+<!ENTITY cmd.open_private_window.label     "اوپْن کْریو أکس نْو پرایوٹ وینڈو منز &amp;">
+<!ENTITY cmd.open_private_window.accesskey "P">
+<!ENTITY cmd.open_tab.label              "نئوس ٹیبس منز كھولیو">
+<!ENTITY cmd.open_tab.accesskey          "w">
+<!ENTITY cmd.open_all_in_tabs.label      "سٲری كھولیو ٹیبزن منز">
+<!ENTITY cmd.open_all_in_tabs.accesskey  "O">
+
+<!ENTITY cmd.properties.label      "خصوصیات">
+<!ENTITY cmd.properties.accesskey  "i">
+
+<!ENTITY cmd.sortby_name.label              "ناوئ حسابئ ژٲریو">
+<!ENTITY cmd.sortby_name.accesskey          "S">
+<!ENTITY cmd.context_sortby_name.accesskey  "r">
+
+<!ENTITY cmd.new_bookmark.label            "نئو نشان زَد...">
+<!ENTITY cmd.new_bookmark.accesskey        "B">
+<!ENTITY cmd.new_folder.label              "نئو فولڈر...">
+<!ENTITY cmd.new_folder.accesskey          "o">
+<!ENTITY cmd.context_new_folder.accesskey  "F">
+<!ENTITY cmd.new_separator.label           "نئو تئ الگ كرئن وۄل">
+<!ENTITY cmd.new_separator.accesskey       "S">
+
+<!ENTITY cmd.reloadLivebookmark.label      "لاویو ن;ان زَد كریو دوبارئ لوڈ">
+<!ENTITY cmd.reloadLivebookmark.accesskey  "R">
+
+<!ENTITY cmd.moveBookmarks.label                  "پكنٲویو...">
+<!ENTITY cmd.moveBookmarks.accesskey              "M">
+
+<!ENTITY col.name.label          "ناو">
+<!ENTITY col.tags.label          "ٹیگس">
+<!ENTITY col.url.label           "جاے">
+<!ENTITY col.mostrecentvisit.label "تازْ ترین سیر">
+<!ENTITY col.visitcount.label    "گریند وچھیو">
+<!ENTITY col.description.label   "وضاحت ">
+<!ENTITY col.dateadded.label     "رلٲومُت">
+<!ENTITY col.lastmodified.label  "ٲخری تبدیل كرموْت">
+
+<!ENTITY search.label                              "ژھانڈ:">
+<!ENTITY search.accesskey                          "S">
+
+<!ENTITY cmd.find.key  "F">
+
+<!ENTITY maintenance.label      "برامد كرمُت بیك اپ">
+<!ENTITY maintenance.accesskey  "I">
+<!ENTITY maintenance.tooltip    "پن۪ین نشان زَد  كریو برامد تئ بیك اپ">
+
+<!ENTITY backButton.tooltip  "واپس گژھیو">
+
+<!ENTITY forwardButton.tooltip  "برونٹھ گژھیو">
+
+<!ENTITY detailsPane.more.label "مزید">
+<!ENTITY detailsPane.more.accesskey "e">
+<!ENTITY detailsPane.less.label "كم">
+<!ENTITY detailsPane.less.accesskey "e">
+<!ENTITY detailsPane.selectAnItemText.description "آیٹم ژٲریو امچئ خصوصیات وچھنئ تئ بدلاونئ خٲطرئ">
+
+<!ENTITY find.label               "ژھانڈ:">
+<!ENTITY find.accesskey           "S">
+<!ENTITY view.label               "وچھیو">
+<!ENTITY view.accesskey           "w">
+<!ENTITY byDate.label             "تٲریخ ہسابئ">
+<!ENTITY byDate.accesskey         "D">
+<!ENTITY bySite.label             "سایٹئ ہسابئ">
+<!ENTITY bySite.accesskey         "S">
+<!ENTITY byMostVisited.label      "زیادئ وچھمئت  ہسابئ">
+<!ENTITY byMostVisited.accesskey  "V">
+<!ENTITY byLastVisited.label      "ٲخری وچھمت ہسابئ">
+<!ENTITY byLastVisited.accesskey  "L">
+<!ENTITY byDayAndSite.label       "تٲریخ تئ سایٹئ ہسابئ">
+<!ENTITY byDayAndSite.accesskey   "t">

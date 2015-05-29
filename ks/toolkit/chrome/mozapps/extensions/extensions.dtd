@@ -1,0 +1,248 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+<!ENTITY addons.windowTitle                   "ایڈ آن انتظامیئ">
+
+<!ENTITY search.placeholder                   "سٲری ایڈ انس ژھٲنڈیو">
+<!ENTITY search.buttonlabel                   "ژھآنڈیو ">
+<!-- LOCALIZATION NOTE (search.commandKey):
+     The search command key should match findOnCmd.commandkey from browser.dtd -->
+<!ENTITY search.commandkey                    "f">
+
+<!ENTITY loading.label                        "لوڈ كران">
+<!ENTITY listEmpty.installed.label            "تُہ۪ی چھُ نئ ام۪ی قئسمُك كاںہ تئ ایڈ آن اِنسٹال كر۪یتھ">
+<!ENTITY listEmpty.availableUpdates.label     "كہین اپڈیٹ آی نئ اتھی">
+<!ENTITY listEmpty.recentUpdates.label        "تُہ۪ی چھُ حال۪ی اپڈیٹ كرمُت ایڈ آنس">
+<!ENTITY listEmpty.findUpdates.label          "اپڈیٹس خٲطرئ وچھیو">
+<!ENTITY listEmpty.search.label               "كہین تئ رلیمِت ای آنس ہیك نئ لبِتھ">
+<!ENTITY listEmpty.button.label               "ایڈ آنسن متعلق زٲنیو مزید">
+<!ENTITY installAddonFromFile.label           "فایلئ پ۪یٹھئ كریو ايڈ آن اِنسٹال">
+<!ENTITY installAddonFromFile.accesskey       "I">
+<!ENTITY toolsMenu.tooltip                    "سارنی ایڈ آنسن خٲطرئ ٹولز">
+
+<!ENTITY cmd.back.tooltip                     "اكھ صفحئ  گژھیو پتھ">
+<!ENTITY cmd.forward.tooltip                  "اكھ صفحئ  گژھیوبرونٹھ">
+
+
+<!-- global warnings -->
+
+<!ENTITY warning.safemode.label                    "سٲری ایڈ آنس چھَ ناممكن بناونئ آمِت سیف موڈ كئ زریع">
+<!ENTITY warning.checkcompatibility.label          "ایڈ۔آن کمپیٹیبیلٹی چکینگ چھ ڈیسیبلْڈ۔ توہیہ ما آسن اِن کمپیٹیبْل ایڈ۔آن۔">
+<!ENTITY warning.checkcompatibility.enable.label   "مجاز">
+<!ENTITY warning.checkcompatibility.enable.tooltip "ایڈ آں رلُن جانچ بنٲویو ممكن">
+<!ENTITY warning.updatesecurity.label              "ایڈ۔آن اپڈیٹ حفاظت چکینگ چھ ڈیسیبْل کرنْہ آمْژ۔ توہیہ ما أسیو کمپرومایز کورمُت اپڈیٹو ذریعہ۔">
+<!ENTITY warning.updatesecurity.enable.label       "مجاز">
+<!ENTITY warning.updatesecurity.enable.tooltip     "ایڈ آن اپ ڈیٹ حفٲظتی جانچ بنٲویو ممكن">
+<!-- global informations -->
+
+<!ENTITY info.plugincheck.label                 "وچھیو تُہِند پلگ اِنس چھا تازئ">
+<!ENTITY info.plugincheck.tooltip               "وچھیو تُہِند پلگ اِنس چھا تازئ">
+<!-- categories / views -->
+
+<!ENTITY view.search.label                    "ژھآنڈیو ">
+<!ENTITY view.discover.label                  "یڈ آنس انیو">
+<!ENTITY view.recentUpdates.label             "حالئك اپڈیٹس">
+<!ENTITY view.availableUpdates.label          "دستیاب اپڈیٹس">
+<!-- addon updates -->
+
+<!ENTITY updates.checkForUpdates.label        "اپڈیٹس خٲطرئ ركیو جانچ">
+<!ENTITY updates.checkForUpdates.accesskey    "C">
+<!ENTITY updates.viewUpdates.label            "حالئك اپڈیٹس وچھیو">
+<!ENTITY updates.viewUpdates.accesskey        "V">
+<!-- LOCALIZATION NOTE (updates.updateAddonsAutomatically.label): This menu item
+     is a checkbox that toggles the default global behavior for add-on update
+     checking. -->
+<!ENTITY updates.updateAddonsAutomatically.label     "ایڈ آنس كریو اپ ڈیٹ پانٲی">
+<!ENTITY updates.updateAddonsAutomatically.accesskey "A">
+<!-- LOCALIZATION NOTE (updates.resetUpdatesToAutomatic.label, updates.resetUpdatesToManual.label):
+     Specific addons can have custom update checking behaviors ("Manually",
+     "Automatically", "Use default global behavior"). These menu items reset the
+     update checking behavior for all add-ons to the default global behavior
+     (which itself is either "Automatically" or "Manually", controlled by the
+     updates.updateAddonsAutomatically.label menu item). -->
+<!ENTITY updates.resetUpdatesToAutomatic.label       "ری سیٹ كریو سٲری اپڈیٹس پانٲی اپڈیٹ كرنئ خٲطر">
+<!ENTITY updates.resetUpdatesToAutomatic.accesskey   "R">
+<!ENTITY updates.resetUpdatesToManual.label          "ری سیٹ كریو سٲری اپڈیٹس ٳَتھ سٲتھ اپڈیٹ كرنئ خٲطر">
+<!ENTITY updates.resetUpdatesToManual.accesskey      "R">
+<!ENTITY updates.updating.label               "ایڈ آنس اپڈيٹ كران">
+<!ENTITY updates.installed.label              "تُہِند ایڈ آنس چھَ اپ ڈیٹ آمِت كرنئ">
+<!ENTITY updates.downloaded.label             "تُہِند ایڈ آنس چھَ ڈاونلون  آمِت كرنئ">
+<!ENTITY updates.restart.label                "اِنسٹالیشن مكمل كرنئ خٲطرئ كریو دوبارئ شروع">
+<!ENTITY updates.noneFound.label              "كہین اپڈیٹ آی نئ اتھی">
+<!ENTITY updates.manualUpdatesFound.label     "دستیاب اپ ڈيٹس وچھیو">
+<!ENTITY updates.updateSelected.label         "اپڈیٹس كریو اِنسٹال">
+<!ENTITY updates.updateSelected.tooltip       "یَتھ فہرستس منز دستیاب  اپڈیٹس كریو  اِنسٹال">
+<!-- addon actions -->
+
+<!ENTITY cmd.showDetails.label                "مزید مولومات ہٲویو">
+<!ENTITY cmd.showDetails.accesskey            "S">
+<!ENTITY cmd.findUpdates.label                "اپڈیٹث ژھٲنڈيو">
+<!ENTITY cmd.findUpdates.accesskey            "F">
+<!ENTITY cmd.preferencesWin.label             "آپشنس  ">
+<!ENTITY cmd.preferencesWin.accesskey         "O">
+<!ENTITY cmd.preferencesUnix.label            "ترجیح ">
+<!ENTITY cmd.preferencesUnix.accesskey        "P">
+<!ENTITY cmd.about.label                      "متعلق">
+<!ENTITY cmd.about.accesskey                  "A">
+
+<!ENTITY cmd.enableAddon.label                "مجاز">
+<!ENTITY cmd.enableAddon.accesskey            "E">
+<!ENTITY cmd.disableAddon.label               "نا ممكن">
+<!ENTITY cmd.disableAddon.accesskey           "D">
+<!ENTITY cmd.enableTheme.label                "تھیم تھٲویو">
+<!ENTITY cmd.enableTheme.accesskey            "W">
+<!ENTITY cmd.disableTheme.label               "تھیم تھاوَن روٛكٲویو">
+<!ENTITY cmd.disableTheme.accesskey           "W">
+<!ENTITY cmd.askToActivate.label              "پریژھیو ایکٹیویٹ کرنْہ باپت">
+<!ENTITY cmd.askToActivate.tooltip            "پریژھیو استعمال کرنْہ باپت یہ ایڈ۔آن پریتھ سات">
+<!ENTITY cmd.alwaysActivate.label             "ہمیشہ کْریو ایکٹیویٹ">
+<!ENTITY cmd.alwaysActivate.tooltip           "ہمیشہ کْریو یہ ایڈ آن استعمال">
+<!ENTITY cmd.neverActivate.label              "زانہہ مْہ کْریو ایکٹیویٹ">
+<!ENTITY cmd.neverActivate.tooltip            "یہ ایڈ۔آن مْہ کْریو زانہہ استعمال">
+<!ENTITY cmd.stateMenu.tooltip                "تبدیل کْریو ییلہ یہ ایڈ آن رن کرِ">
+<!ENTITY cmd.installAddon.label               "اِنسٹال">
+<!ENTITY cmd.installAddon.accesskey           "I">
+<!ENTITY cmd.uninstallAddon.label             "تئ ہٹئویو">
+<!ENTITY cmd.uninstallAddon.accesskey         "R">
+
+
+<!ENTITY cmd.showPreferencesWin.label         "آپشنس  ">
+<!ENTITY cmd.showPreferencesWin.tooltip       "یئ ایڈ آن صورت بدلٲویو">
+<!ENTITY cmd.showPreferencesUnix.label        "ترجیح ">
+<!ENTITY cmd.showPreferencesUnix.tooltip      "یئ ایڈ آن ترجیح بدلٲویو">
+<!ENTITY cmd.contribute.label                 "شركت كریو">
+<!ENTITY cmd.contribute.accesskey             "C">
+<!ENTITY cmd.contribute.tooltip               "یم۪ی ایڈ آنچئ  بہبودی منز  كریو  شركت">
+
+<!ENTITY cmd.showReleaseNotes.label           "ریلیز نوٹس ہٲویو">
+<!ENTITY cmd.showReleaseNotes.tooltip         "یَتھ اپڈیٹس خٲطرئ ہٲویو ریلیز نوٹس">
+<!ENTITY cmd.hideReleaseNotes.label           "ریلیز نوٹس تھَویو ژۄر۪ی">
+<!ENTITY cmd.hideReleaseNotes.tooltip         "یَتھ اپڈیٹس خٲطرئ تھَویو  ریلیز نوٹس ژۄر۪ی">
+<!-- discovery view -->
+<!-- LOCALIZATION NOTE (discover.title,discover.description,discover.footer):
+     Displayed in the center of the Get Add-ons view, see bug 601143 for mockups. -->
+
+<!ENTITY discover.title                       "ایڈ آںس كیاہ چھَ؟">
+<!ENTITY discover.description2                "ایڈ۔آن چھ ایپلیکیشنْہ یم توہیہ اجازت چھ دِوان پْرسانالایز کرنس &amp;برانڈ شاٹ ناو؛
+اضأفی فنکشینیلٹی یا سیٹایلس سان۔ کوشش کْریو أکس وقت بچاونْچ سایڈ بار ہْنز، اکھ موسمی نوٹیفایرْچ، یا اکھ تھیمْڈ لوک یُتھ ذن &amp;برانڈ شاٹ ناو؛
+تُہند پنُن باسِہ۔">
+<!ENTITY discover.footer                      "ییلہ توہیہ اِنٹرنیٹس سْیت کنیکٹْہ أسیو، یہ پین کرِ فیچر
+کینہہ ساروْی کھوتْہ بہترین تْہ ساروْی کھوتْہ مشہور ایڈ۔آن توہیہ باپت یمن پیٹھ توہیہ کوشش کْریو۔">
+<!-- detail view -->
+
+<!ENTITY detail.version.label                 "ترجمہ">
+<!ENTITY detail.lastupdated.label             "ٱخری اپڈیٹ ">
+<!ENTITY detail.creator.label                 "بناوَن وۄل">
+<!ENTITY detail.homepage.label                "ہوم صفحئ">
+<!ENTITY detail.numberOfDownloads.label       "ڈاونلوڈس">
+
+<!ENTITY detail.contributions.description     "ییمہ ایڈ۔آنُک ڈیولپر  چُھ توہیہ منگان امدأدی تعاون امہ کِس لگاتار بڑھنس باپت اکھ لوکُٹ کنٹریبیوشن کرنْہ سْیت۔">
+
+<!ENTITY detail.updateType                    "پانٲی اپڈیٹس">
+<!ENTITY detail.updateDefault.label           "ڈیفالٹ">
+<!ENTITY detail.updateDefault.tooltip         "پانٲی كریو اپڈیٹ اِنسٹال اگر سُئ ڈیفالٹ چھُ">
+<!ENTITY detail.updateAutomatic.label         "یلئ">
+<!ENTITY detail.updateAutomatic.tooltip       "پانٲی كریو اپڈیٹس اِنسٹال">
+<!ENTITY detail.updateManual.label            "بند">
+<!ENTITY detail.updateManual.tooltip          "پانٲی مئ كریو اپڈیٹس اِنسٹال">
+<!ENTITY detail.home                          "ہوم صفحئ">
+<!ENTITY detail.repository                    "ایڈ آن پروفایل">
+<!ENTITY detail.size                          "سایز">
+
+<!ENTITY detail.checkForUpdates.label         "اپڈیٹس كریو جانچ">
+<!ENTITY detail.checkForUpdates.accesskey     "f">
+<!ENTITY detail.checkForUpdates.tooltip       "یَتھ آیڈ آنسس خٲطرئ وچھیو اپ ڈیٹس">
+<!ENTITY detail.showPreferencesWin.label      "آپشنس  ">
+<!ENTITY detail.showPreferencesWin.accesskey  "O">
+<!ENTITY detail.showPreferencesWin.tooltip    "یئ ایڈ آن صورت بدلٲویو">
+<!ENTITY detail.showPreferencesUnix.label     "ترجیح ">
+<!ENTITY detail.showPreferencesUnix.accesskey "P">
+<!ENTITY detail.showPreferencesUnix.tooltip   "یئ ایڈ آن ترجیح بدلٲویو">
+<!-- ratings -->
+
+
+<!ENTITY rating2.label                        "ریٹینگ">
+<!-- download/install progress -->
+
+<!ENTITY progress.pause.tooltip               "رکاوٹ">
+<!ENTITY progress.cancel.tooltip              "منسوخ">
+<!-- list sorting -->
+
+
+<!ENTITY sort.name.label                      "ناو">
+<!ENTITY sort.name.tooltip                    "ناوئ ہسابئ ژٲریو">
+<!ENTITY sort.dateUpdated.label               "ٱخری اپڈیٹ ">
+<!ENTITY sort.dateUpdated.tooltip             "تٲريخ ہسابئ ژٲریو">
+<!ENTITY sort.relevance.label                 "بہترین رلَن وۄل">
+<!ENTITY sort.relevance.tooltip               " احمیت ہسابئ ہسابئ ژٲریو">
+<!ENTITY sort.price.label                     "قٲمت">
+<!ENTITY sort.price.tooltip                   "قٲمت  ہسابئ ژٲریو">
+
+<!ENTITY search.filter2.label                 "ژھانڈ">
+<!ENTITY search.filter2.installed.label       "میٖن ایڈ آنس">
+<!ENTITY search.filter2.installed.tooltip     "اِنسٹال كرمئت ایڈ آنس ہٲویو">
+<!ENTITY search.filter2.available.label       "دستیاب ایڈ آنس">
+<!ENTITY search.filter2.available.tooltip     "دستیاب ایڈ آنس ہٲویو اِنسٹال كرنئ خٲطرئ">
+
+<!ENTITY addon.homepage                       "ہوم صفحئ">
+<!ENTITY addon.details.label                  "مزید">
+<!ENTITY addon.details.tooltip                "یَتھ ايد ایڈ آنس متعلق ہٲویو مزید تفصیلات">
+<!ENTITY addon.unknownDate                    "نامولوم">
+<!-- LOCALIZATION NOTE (addon.disabled.postfix): This is used in a normal list
+     to signify that an add-on is disabled, in the form
+     "<Addon name> <1.0> (disabled)" -->
+<!ENTITY addon.disabled.postfix               "(نا ممكن بنٲومُت)">
+<!-- LOCALIZATION NOTE (addon.update.postfix): This is used in the available
+     updates list to signify that an item is an update, in the form
+     "<Addon name> <1.1> Update". It is fine to use constructs like brackets if
+     necessary -->
+<!ENTITY addon.update.postfix                 "اپ ڈیٹ ">
+<!ENTITY addon.undoAction.label               "انڈو">
+<!ENTITY addon.undoAction.tooltip             "یئ حركت كریو اَن ڈو">
+<!ENTITY addon.undoRemove.label               "انڈو">
+<!ENTITY addon.undoRemove.tooltip             "یئ ایڈ آن تھٲویو انسٹال كر۪یتھ">
+<!ENTITY addon.restartNow.label               "وئن كریو دوبارئ شروع">
+<!ENTITY addon.install.label                  "اِنسٹال">
+<!ENTITY addon.install.tooltip                "یئ ایڈ آن كریو اِنسٹال">
+<!ENTITY addon.updateNow.label                "وئن كریو اپڈیٹ">
+<!ENTITY addon.updateNow.tooltip              "یَتھ ایڈ آنس خٲطرئ كریو اپڈیٹ اِنسٹال">
+<!ENTITY addon.includeUpdate.label            "اپ ڈیٹس منز كریو شٲمل">
+<!ENTITY addon.updateAvailable.label          "اپ ڈیٹ چھُ دستیاب">
+<!ENTITY addon.checkingForUpdates.label       "اپڈیٹس خٲطرئ وچھان">
+<!ENTITY addon.releaseNotes.label             "ریلیز نوٹس">
+<!ENTITY addon.loadingReleaseNotes.label      "لوڈ كران">
+<!ENTITY addon.errorLoadingReleaseNotes.label "مٲفی گژھ۪ی دِن، مگر ریلیز نوٹس لوڈ كرَن ویز۪ی گیی غلطی">
+
+<!ENTITY addon.createdBy.label                "سنز زریع">
+
+<!ENTITY eula.title                           "ٲخری استیمال كرئن وۄل لایسنس مہایدئ">
+<!ENTITY eula.width                           "560px">
+<!ENTITY eula.height                          "400px">
+<!ENTITY eula.accept                          "منظور كریو تئ انسٹال كریو">
+
+<!ENTITY settings.path.button.label           "ژھانڈ">
+<!-- LOCALIZATION NOTE (experiment.info.label): The strings related to
+     experiments are present on the "Experiments" tab of the add-ons manager.
+     This tab won't be displayed unless an Experiment add-on is installed.
+     Install https://people.mozilla.org/~gszorc/dummy-experiment-addon.xpi
+     to cause this tab to appear. -->
+
+<!ENTITY experiment.info.label "یہ کیاہ چُھ؟ ٹیلی میٹری ما کرِ انسٹال تْہ رن تجرُب وقتن فوقتن۔">
+<!ENTITY experiment.info.learnmore "مزید ہیچھِو">
+<!ENTITY experiment.info.learnmore.accesskey "L">
+<!ENTITY experiment.info.changetelemetry "ٹیلی میٹری سیٹینگ">
+<!ENTITY experiment.info.changetelemetry.accesskey "T">
+
+<!ENTITY setting.learnmore "مزید ہیچھِو ۔ ۔ ۔">
+
+<!-- LOCALIZATION NOTE (disabledUnsigned.description.start, disabledUnsigned.description.findAddonsLink, disabledUnsigned.description.end):
+     These entities form a sentence, with
+     disabledUnsigned.description.findAddonsLink being a link to an external site. -->
+
+
+
+<!-- LOCALIZATION NOTE (disabledUnsigned.devInfo.start, disabledUnsigned.devInfo.linkToManual, disabledUnsigned.devInfo.end):
+     These entities form a sentence, with disabledUnsigned.devInfo.linkToManual
+     being a link to an external site. -->
+
+

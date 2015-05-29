@@ -1,0 +1,83 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+<!ENTITY  pageInfoWindow.height "500">
+
+<!ENTITY  copy.label            "نقل">
+<!ENTITY  copy.accesskey        "C">
+
+<!ENTITY  selectall.label       "سئری ژئریو">
+<!ENTITY  selectall.accesskey   "A">
+
+
+<!ENTITY  generalTab            "عام">
+
+<!ENTITY  generalURL            "پتئ :">
+<!ENTITY  generalType           "ٹآیپ :">
+<!ENTITY  generalMode           "موڈ انیو:">
+<!ENTITY  generalSize           "سایز:">
+<!ENTITY  generalReferrer       "ریفرینگ URL :">
+<!ENTITY  generalSource         "كیش زریع:">
+<!ENTITY  generalModified       "بدلٲمُت:">
+
+<!ENTITY  generalMetaName       "ناو">
+<!ENTITY  generalMetaContent    "مشمولئ">
+
+<!ENTITY  mediaTab              "میڈیا">
+
+<!ENTITY  mediaLocation         "جاے:">
+<!ENTITY  mediaText             "سٲتھ مواد:">
+<!ENTITY  mediaAltHeader        "بدل مواد">
+<!ENTITY  mediaAddress          "پتئ">
+<!ENTITY  mediaType             "ٹائپ">
+<!ENTITY  mediaSize             "سایز">
+<!ENTITY  mediaCount            "گنزرٲویو">
+<!ENTITY  mediaDimension        "حد:">
+<!ENTITY  mediaLongdesc         "زیٹھ تفصٖیل:">
+
+<!ENTITY  mediaSaveAs           "محفوظ تھٲویو اِتھكئن...">
+
+
+<!ENTITY  mediaPreview          "میڈیا پیش منظر:">
+
+<!ENTITY  feedTab               "فیڈس">
+
+<!ENTITY  feedSubscribe         "منظور كریو">
+
+
+<!ENTITY  permTab               "اجازت">
+
+<!ENTITY  permUseDefault        "ڈیفالٹ كریو استیمال">
+<!ENTITY  permAskAlways         "ہمیشئ پریژھیو">
+<!ENTITY  permAllow             "اجازتھ">
+<!ENTITY  permAllowSession      "یتؤ سی;نس خٲطرئ دیو اجازت">
+<!ENTITY  permBlock             "بلاك">
+<!ENTITY  permissionsFor        "خٲطرئ اجازت:">
+<!ENTITY  permPlugins           "پلگ اِنس كریو چالو">
+
+<!ENTITY  permClearStorage           "سٹوریچ كریو صاف">
+
+
+<!ENTITY  securityTab           "حفٲظتی ">
+
+<!ENTITY  securityView.certView "سرٹیفیٹ وچھیو">
+
+<!ENTITY  securityView.unknown   "نامولوم">
+
+
+<!ENTITY  securityView.identity.header   "ویب سایٹ شناخت">
+<!ENTITY  securityView.identity.owner    "مٲلِك :">
+<!ENTITY  securityView.identity.domain   "ویب سايٹ :">
+<!ENTITY  securityView.identity.verifier "مولوم كرنئ آمُت :">
+
+<!ENTITY  securityView.privacy.history                  "م۪ی چھا وچھمَژ یئ ویب سایٹ  اَز برونٹھ تئ ؟">
+<!ENTITY  securityView.privacy.cookies                  "یئ ویب سایٹ چھا تھاوان جمع مولومات (كوكیز) مینِن كمپیوٹرس پ۪یٹھ؟">
+<!ENTITY  securityView.privacy.viewCookies              "كوكیز وچھیو">
+
+<!ENTITY  securityView.privacy.passwords                "م۪ی چھا كاںہ خُفیئ لفظ محفوظ تھٲومُت یَتھ ویبسایٹ خٲطرئ؟">
+<!ENTITY  securityView.privacy.viewPasswords            "محفوظ كرمَت خُفیئ لفظ وچھیو">
+
+
+<!ENTITY  securityView.technical.header                 "تكنیكی تفصیل">
+
+<!ENTITY  helpButton.label                              "مدد">

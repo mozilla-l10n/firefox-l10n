@@ -1,0 +1,101 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY aboutSupport.pageTitle " مولومات ہیوند مثلئ ہل كران">
+<!-- LOCALIZATION NOTE (aboutSupport.pageSubtitle): don't change the 'supportLink' id. -->
+
+<!ENTITY aboutSupport.pageSubtitle "یتھ پیجس منز چھ تکنیکی انفارمیشن یوس ذن فأیدْ مند ہیکہ أسِتھ ییلہ توہیہ 
+کوشش کْریو پرابلیم حل کرنْچ۔ اگر توہیہ جواب ژھانڈان چھیو عام سوالن 
+&amp;برانڈ شاٹ ناوس؛ مُتلق، چک آوٹ کْریو <a id='supportLink'>امدأدی ویب سایِٹ</a>۔ ">
+
+<!ENTITY aboutSupport.crashes.title "كریش بیان">
+<!-- LOCALIZATION NOTE (aboutSupport.crashes.id):
+This is likely the same like id.heading in crashes.dtd. -->
+<!ENTITY aboutSupport.crashes.id "بیان ID">
+<!ENTITY aboutSupport.crashes.sendDate "سبمِٹ کرنْہ آمُت">
+<!ENTITY aboutSupport.crashes.allReports "تمام كریش بیان">
+<!ENTITY aboutSupport.crashes.noConfig "یہ ایپلیکیشن چھ نْہ کنفیگر کرنْہ آمْژ کریش رپورٹ ڈیسپْلے کرنْہ باپت۔">
+
+<!ENTITY aboutSupport.extensionsTitle "وسعت">
+<!ENTITY aboutSupport.extensionName "ناو">
+<!ENTITY aboutSupport.extensionEnabled "قابل مجازكرمت">
+<!ENTITY aboutSupport.extensionVersion "ترجمہ">
+<!ENTITY aboutSupport.extensionId "ID">
+
+<!ENTITY aboutSupport.experimentsTitle "تجرُبأتی فیچر">
+<!ENTITY aboutSupport.experimentName "ناو">
+<!ENTITY aboutSupport.experimentId "ID">
+<!ENTITY aboutSupport.experimentDescription "وضاحت ">
+<!ENTITY aboutSupport.experimentActive "ایکٹیو ">
+<!ENTITY aboutSupport.experimentEndDate "اند تأریخ">
+<!ENTITY aboutSupport.experimentHomepage "ہوم صفحئ">
+
+
+<!ENTITY aboutSupport.appBasicsTitle "اپلی كیشن بنیاد">
+<!ENTITY aboutSupport.appBasicsName "ناو">
+<!ENTITY aboutSupport.appBasicsVersion "ترجمہ">
+<!ENTITY aboutSupport.appBasicsBuildID "بِلڈْ آی ڈی">
+<!-- LOCALIZATION NOTE (aboutSupport.appBasicsUpdateChannel, aboutSupport.appBasicsUpdateHistory, aboutSupport.appBasicsShowUpdateHistory):
+"Update" is a noun here, not a verb. -->
+
+<!ENTITY aboutSupport.appBasicsUpdateChannel "چنل کْریو اپڈیٹ">
+<!ENTITY aboutSupport.appBasicsUpdateHistory "اپڈیٹ ہیسٹری">
+<!ENTITY aboutSupport.appBasicsShowUpdateHistory "اپڈیٹ تٲریخ  ہٲویو">
+
+<!ENTITY aboutSupport.appBasicsProfileDir "پروفایل ڈایریكٹری ">
+<!-- LOCALIZATION NOTE (aboutSupport.appBasicsProfileDirWinMac):
+This is the Windows- and Mac-specific variant of aboutSupport.appBasicsProfileDir.
+Windows/Mac use the term "Folder" instead of "Directory" -->
+<!ENTITY aboutSupport.appBasicsProfileDirWinMac "پروفایل فولڈر">
+
+<!ENTITY aboutSupport.appBasicsEnabledPlugins "مجازكرمت  پلگ-انس">
+<!ENTITY aboutSupport.appBasicsBuildConfig "كنفیوگریشن بنٲویو">
+<!ENTITY aboutSupport.appBasicsUserAgent "استیمال كرن وۄل ایجینٹ">
+<!ENTITY aboutSupport.appBasicsMemoryUse "میمری ہیوند  استیمال">
+<!-- LOCALIZATION NOTE the term "Service Workers" should not be translated. -->
+
+<!ENTITY aboutSupport.appBasicsMultiProcessSupport "ملٹی پراسیس وینڈوز ">
+
+<!ENTITY aboutSupport.showDir.label "یلئ ڈایریكٹری ">
+<!-- LOCALIZATION NOTE (aboutSupport.showMac.label): This is the Mac-specific
+variant of aboutSupport.showDir.label.  This allows us to use the preferred
+"Finder" terminology on Mac. -->
+<!ENTITY aboutSupport.showMac.label "ژھئنڈ منز ہٲویو">
+<!-- LOCALIZATION NOTE (aboutSupport.showWin.label): This is the Windows-specific
+variant of aboutSupport.showDir.label. -->
+<!ENTITY aboutSupport.showWin.label "فولڈر ہٲویو">
+
+<!ENTITY aboutSupport.modifiedKeyPrefsTitle "ضروری بدلیمِت ترجیحات">
+<!ENTITY aboutSupport.modifiedPrefsName "ناو">
+<!ENTITY aboutSupport.modifiedPrefsValue "قئمتھ">
+<!-- LOCALIZATION NOTE (aboutSupport.userJSTitle, aboutSupport.userJSDescription): user.js is the name of the preference override file being checked. -->
+
+<!ENTITY aboutSupport.userJSTitle "یوزر ڈاٹ جے ایس ترجیحات">
+<!ENTITY aboutSupport.userJSDescription "تُہندس پروفایل فولڈرس منز چُھ اکھ  <a id='prefs-user-js-link'>user.js file</a>  ، یتھ منز شأمل چھ ترجیحات یم ذن نْہ بناونْہ آمْت أسئ برانڈ شاٹ ناو؛ ذریعہ۔">
+
+<!ENTITY aboutSupport.lockedKeyPrefsTitle "ضروری لاک کرنْہ آمْت  ترجیحات">
+<!ENTITY aboutSupport.lockedPrefsName "ناو">
+<!ENTITY aboutSupport.lockedPrefsValue "قئمتھ">
+
+<!ENTITY aboutSupport.graphicsTitle "گریفیكس">
+
+<!ENTITY aboutSupport.jsTitle "جاوا سكریپٹ">
+<!ENTITY aboutSupport.jsIncrementalGC "انكریمینٹل جی سی">
+
+<!ENTITY aboutSupport.a11yTitle "ایكسیسبلٹی">
+<!ENTITY aboutSupport.a11yActivated "چالو كرمُت">
+<!ENTITY aboutSupport.a11yForceDisabled "ایكسیسبلٹی بچٲویو">
+
+<!ENTITY aboutSupport.libraryVersionsTitle "لایبرَری ترجم">
+
+<!ENTITY aboutSupport.installationHistoryTitle "اِنسٹالیشن تٲریخ">
+<!ENTITY aboutSupport.updateHistoryTitle "اپڈیٹ ہیسٹری">
+
+<!ENTITY aboutSupport.copyTextToClipboard.label "متن کْریو کاپی کْلپ بورڈس کُن">
+<!ENTITY aboutSupport.copyRawDataToClipboard.label "را ڈاٹا کْریو کاپی کْلپ بورڈس کُن">
+
+<!ENTITY aboutSupport.sandboxTitle "سینڈ بوکْس">
+
+<!ENTITY aboutSupport.safeModeTitle "سیف موڈس کْریو کوشش">
+<!ENTITY aboutSupport.restartInSafeMode.label "&amp; تئ دوبارئ كریو شروع  ایڈ آن ڈیسیبْل کْرتھ ...">

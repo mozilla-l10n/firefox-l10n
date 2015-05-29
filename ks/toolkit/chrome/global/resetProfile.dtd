@@ -1,0 +1,15 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this file,
+   - You can obtain one at http://mozilla.org/MPL/2.0/.  -->
+
+<!ENTITY refreshProfile.dialog.title         "&amp;برانڈ شاٹ ناو؛ کْریو ریفریش">
+<!ENTITY refreshProfile.dialog.description1  "شروع کْریو فریش پرابلیم ٹھیک کرنْہ باپت تْہ ریسٹور کْریو کارکردگی۔">
+<!ENTITY refreshProfile.dialog.description2  "یہ کرِ:">
+<!ENTITY refreshProfile.dialog.items.label1  "ہٹأیو پنْنی ایڈ۔آن تْہ کسٹامایزیشن">
+<!ENTITY refreshProfile.dialog.items.label2  "ریسٹور کْریو پننِہ براوزر سیٹینگ تْہندین ڈیفالٹن کُن">
+<!ENTITY refreshProfile.dialog.button.label  "&amp;برانڈ شاٹ ناو؛ کْریو ریفریش">
+
+<!ENTITY refreshProfile.title                "برانڈ شاٹ ناو؛ اس دِیو اکھ ٹیون اپ">
+<!ENTITY refreshProfile.button.label         "&amp;برانڈ شاٹ ناو؛ کْریو ریفریش۔ ۔ ۔ ">
+
+<!ENTITY refreshProfile.cleaning.description "تقریبن کور مُکمل ۔ ۔ ۔">
