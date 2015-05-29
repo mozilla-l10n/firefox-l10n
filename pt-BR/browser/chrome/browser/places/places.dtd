@@ -8,7 +8,7 @@
 <!ENTITY places.library.height "500">
 <!ENTITY organize.label        "Organizar">
 <!ENTITY organize.accesskey    "O">
-<!ENTITY organize.tooltip      "Organizar os favoritos">
+<!ENTITY organize.tooltip      "Organizar seus favoritos">
 
 <!ENTITY file.close.label               "Fechar">
 <!ENTITY file.close.accesskey           "F">
@@ -50,7 +50,7 @@
 
 <!ENTITY cmd.open.label                  "Abrir">
 <!ENTITY cmd.open.accesskey              "r">
-<!ENTITY cmd.open_window.label           "Abrir em nova janela">
+<!ENTITY cmd.open_window.label           "Abrir em uma nova janela">
 <!ENTITY cmd.open_window.accesskey       "A">
 <!ENTITY cmd.open_private_window.label     "Abrir em uma nova janela privativa">
 <!ENTITY cmd.open_private_window.accesskey "p">
