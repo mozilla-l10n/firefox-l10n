@@ -16,6 +16,8 @@
 <!ENTITY aboutTelemetry.choosePing "Pingi:">
 <!ENTITY aboutTelemetry.showNewerPing "&lt;&lt; Nowsze">
 <!ENTITY aboutTelemetry.showOlderPing "Starsze &gt;&gt;">
+<!ENTITY aboutTelemetry.archiveWeekHeader "Tydzień">
+<!ENTITY aboutTelemetry.archivePingHeader "Ping">
 
 <!ENTITY aboutTelemetry.generalDataSection "Ogólne">
 <!ENTITY aboutTelemetry.environmentDataSection "Dane środowiska">
