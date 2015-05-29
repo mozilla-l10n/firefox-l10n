@@ -7,6 +7,9 @@
 
 <!ENTITY closeCmd.key  "W">
 
+<!ENTITY toggleToolboxF12.keycode          "VK_F12">
+<!ENTITY toggleToolboxF12.keytext          "F12">
+
 <!ENTITY toolboxCloseButton.tooltip    "అభివృద్దికారి సాధనాలను మూయి">
 <!ENTITY toolboxOptionsButton.key      "O">
 <!ENTITY toolboxNextTool.key           "]">
@@ -93,9 +96,9 @@
 
 <!ENTITY options.disableCache.label2     "క్యాచీ అచేతనం చేయి (సాధనపెట్టె తెరువబడినప్పుడు)">
 <!ENTITY options.disableCache.tooltip2   "ఈ ఐచ్చికం ఆన్ చేయడం వలన సాధనపెట్టె తెరిచిన అన్ని టాబ్‌లకు క్యాచీ అచేతనం చేయబడును.">
-<!-- LOCALIZATION NOTE (options.enableServiceWorkersTesting.label,
-  -  options.enableServiceWorkersTesting.tooltip): This is the options panel label and
-  -  tooltip for the checkbox that toggles the service workers testing features on or off. -->
+<!-- LOCALIZATION NOTE (options.enableServiceWorkersHTTP.label,
+  -  options.enableServiceWorkersHTTP.tooltip): This is the options panel label and
+  -  tooltip for the checkbox that toggles the service workers testing features on or off. This option enables service workers over HTTP. -->
 
 <!-- LOCALIZATION NOTE (options.selectDefaultTools.label): This is the label for
   -  the heading of group of checkboxes corresponding to the default developer

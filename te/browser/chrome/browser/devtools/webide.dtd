@@ -114,7 +114,7 @@
 <!ENTITY prefs_title "అభిరుచులు">
 <!ENTITY prefs_editor_title "ఎడిటర్">
 <!ENTITY prefs_general_title "సాధారణ">
-<!ENTITY prefs_restore "అప్రమేయాలను తిరిగివుంచు">
+
 
 
 
@@ -138,7 +138,7 @@
 <!-- Permissions Table -->
 
 <!ENTITY permissionstable_title "అనుమతుల పట్టిక">
-<!ENTITY permissionstable_name_header "పేరు">
+
 <!-- Runtime Details -->
 
 <!ENTITY runtimedetails_title "రన్‌టైమ్ సమాచారం">
@@ -182,3 +182,14 @@
 <!-- LOCALIZATION NOTE (wifi_auth_token_request): Instructions requesting the
      user to transfer authentication info by transferring a token. -->
 <!-- Logs panel -->
+<!-- Simulator Options -->
+
+
+
+
+<!ENTITY simulator_version "వర్షన్">
+
+
+<!ENTITY simulator_device "పరికరం">
+
+
