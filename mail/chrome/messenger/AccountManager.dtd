@@ -18,8 +18,8 @@
 <!ENTITY addOtherAccountButton.accesskey "o">
 <!ENTITY setDefaultButton.label "Definir como conta padrão">
 <!ENTITY setDefaultButton.accesskey "D">
-<!ENTITY removeButton.label "Excluir conta…">
-<!ENTITY removeButton.accesskey "x">
+<!ENTITY removeButton.label "Remover conta">
+<!ENTITY removeButton.accesskey "R">
 <!-- AccountManager.xul -->
 <!-- LOCALIZATION NOTE : this is part of an inline-style attribute on the account
      setting dialog, which specifies the width and height in em units of the dialog.

@@ -12,7 +12,7 @@
 <!ENTITY newsgroups.label "Newsgroups">
 <!ENTITY feeds.label "RSS">
 
-<!ENTITY unsetDefault.tooltip "Não é possível remover o &brandShortName; como o cliente padrão dentro do &brandShortName;. Para tornar outra aplicação o cliente padrão você deve usar a configuração 'Tornar padrão' da própria aplicação.">
+<!ENTITY unsetDefault.tooltip "Não é possível remover o &brandShortName; como o cliente padrão dentro do &brandShortName;. Para tornar outro aplicativo o cliente padrão você deve usar a configuração 'Tornar padrão' do próprio aplicativo.">
 
 <!ENTITY checkOnStartup.label "Sempre verificar ao iniciar o &brandShortName;">
 <!ENTITY checkOnStartup.accesskey "S">

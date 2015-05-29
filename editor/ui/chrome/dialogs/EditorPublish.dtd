@@ -38,8 +38,8 @@
 <!ENTITY filenameExample.label        "exemplo: &quot;meusite.html&quot;">
 <!ENTITY setDefaultButton.label       "Definir como padrão">
 <!ENTITY setDefaultButton.accesskey   "c">
-<!ENTITY removeButton.label           "Excluir site">
-<!ENTITY removeButton.accesskey       "x">
+<!ENTITY removeButton.label           "Remover site">
+<!ENTITY removeButton.accesskey       "R">
 <!-- Settings Tab Panel -->
 
 <!ENTITY publishSites.label           "Sites para publicação">

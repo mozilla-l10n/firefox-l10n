@@ -15,4 +15,4 @@
 <!ENTITY tabJSE.label                   "Eventos de JavaScript">
 
 <!ENTITY editAttribute.label    "Clique em um item acima para editar seu valor.">
-<!ENTITY removeAttribute.label  "Excluir">
+<!ENTITY removeAttribute.label  "Remover">

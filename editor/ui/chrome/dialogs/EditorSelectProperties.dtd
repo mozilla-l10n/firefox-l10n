@@ -40,8 +40,8 @@
 <!ENTITY AddOption.accesskey "o">
 <!ENTITY AddOptGroup.label "Adicionar grupo">
 <!ENTITY AddOptGroup.accesskey "A">
-<!ENTITY RemoveElement.label "Excluir">
-<!ENTITY RemoveElement.accesskey "x">
+<!ENTITY RemoveElement.label "Remover">
+<!ENTITY RemoveElement.accesskey "R">
 <!ENTITY MoveElementUp.label "Para cima">
 <!ENTITY MoveElementUp.accesskey "c">
 <!ENTITY MoveElementDown.label "Para baixo">
