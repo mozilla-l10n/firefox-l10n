@@ -19,7 +19,7 @@
 
 <!ENTITY accountAdvancedTitle.label   "Dewisiadau Uwch">
 <!ENTITY accountAdvancedInfo.label    "Teimlwch yn rhydd i hepgor y cam yma.">
-<!ENTITY accountAdvanced.newMailNotification.label   "Hysbysu ar E-bost newydd">
+<!ENTITY accountAdvanced.newMailNotification.label   "Hysbysu am E-bost newydd">
 <!ENTITY accountAliasGroupbox.caption "Ffugenw Lleol">
 <!ENTITY accountAliasField.label      "Ffugenw:">
 <!ENTITY accountAliasInfo.label       "Dim ond pan fyddwch yn siarad yn ystod eich trafodaethau fydd hwn yn cael ei ddangos, ni fydd y cysylltiadau pell yn ei weld.">

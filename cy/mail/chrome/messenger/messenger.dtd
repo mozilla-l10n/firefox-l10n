@@ -420,7 +420,7 @@
 <!ENTITY markAsNotJunkCmd.label "Fel Nid Sbam">
 <!ENTITY markAsNotJunkCmd.accesskey "N">
 <!ENTITY markAsNotJunkCmd.key "j">
-<!ENTITY recalculateJunkScoreCmd.label "Rhedeg Rheolydd E-bost Sothach">
+<!ENTITY recalculateJunkScoreCmd.label "Rhedeg Rheolydd E-bost Sbam">
 <!ENTITY recalculateJunkScoreCmd.accesskey "R">
 <!ENTITY openMessageWindowCmd.label "Agor Neges">
 <!ENTITY openMessageWindowCmd.accesskey "A">
