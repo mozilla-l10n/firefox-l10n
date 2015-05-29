@@ -4,7 +4,6 @@
 
 <!ENTITY itemGeneral.label      "Ogólne">
 <!ENTITY dataChoicesTab.label "Udostępnianie danych">
-<!ENTITY itemDisplay.label      "Treść">
 <!ENTITY itemUpdate.label       "Aktualizacja">
 <!ENTITY itemNetworking.label   "Sieć i miejsce na dysku">
 <!ENTITY itemCertificates.label "Certyfikaty">
@@ -47,27 +46,6 @@
 <!ENTITY enableCrashReporter.label "Zgłaszanie awarii">
 <!ENTITY enableCrashReporter.accesskey "Z">
 <!ENTITY crashReporterLearnMore.label "Więcej informacji">
-
-<!ENTITY reading.caption                    "Czytanie">
-<!ENTITY display.caption                    "Wyświetlanie">
-<!ENTITY showCondensedAddresses.label       "Pokazuj tylko nazwy kontaktów dla nadawców z mojej książki adresowej">
-<!ENTITY showCondensedAddresses.accesskey   "P">
-<!ENTITY autoMarkAsRead.label               "Automatycznie oznaczaj wiadomości jako przeczytane:">
-<!ENTITY autoMarkAsRead.accesskey           "A">
-<!ENTITY markAsReadNoDelay.label            "natychmiast po wyświetleniu">
-<!ENTITY markAsReadNoDelay.accesskey        "n">
-<!ENTITY markAsReadDelay.label              "po wyświetlaniu przez">
-<!ENTITY markAsReadDelay.accesskey          "w">
-<!ENTITY secondsLabel.label                 "sekund">
-<!ENTITY openMsgIn.label                    "Otwieraj wiadomości w:">
-<!ENTITY openMsgInNewTab.label              "nowych kartach">
-<!ENTITY openMsgInNewTab.accesskey          "k">
-<!ENTITY reuseExpRadio0.label               "nowych oknach wiadomości">
-<!ENTITY reuseExpRadio0.accesskey           "h">
-<!ENTITY reuseExpRadio1.label               "istniejącym oknie wiadomości">
-<!ENTITY reuseExpRadio1.accesskey           "m">
-<!ENTITY closeMsgOnMoveOrDelete.label       "Zamykaj okno/kartę wiadomości przy przenoszeniu lub usuwaniu">
-<!ENTITY closeMsgOnMoveOrDelete.accesskey   "Z">
 
 <!ENTITY updateApp.label "Aktualizacje programu &brandShortName;">
 <!ENTITY updateAuto.label "Instaluj aktualizacje automatycznie (zalecane: większe bezpieczeństwo)">
