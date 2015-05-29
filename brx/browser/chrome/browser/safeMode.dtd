@@ -1,0 +1,17 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY safeModeDialog.title         "&brandShortName; रैखाथि म'ड">
+<!ENTITY window.maxWidth              "400">
+
+<!ENTITY startSafeMode.label          "रैखाथि म'डआव जागाय">
+<!ENTITY refreshProfile.label         "&brandShortName; खौ थाजा खालाम">
+
+<!ENTITY safeModeDescription3.label   "रैखाथि म'डआ &brandShortName; नि मोनसे जुनिया म'ड जायखौ ट्राबल्‌शुट जेंनायाव बाहायनो हायो।">
+<!ENTITY safeModeDescription4.label   "नोंथांनि add-ons आरो कास्टम सेटिंखौ दसेनि थाखाय लोरबां खालामगोन।">
+
+<!ENTITY refreshProfileInstead.label  "नोंथाङा ट्राबल्‌शुटिंखौ बाद होनो हायो आरो &brandShortName; खौ थाजा खालामनो हायो।">
+<!-- LOCALIZATION NOTE (autoSafeModeDescription3.label): Shown on the safe mode dialog after multiple startup crashes. See also chrome/global/resetProfile.dtd -->
+
+<!ENTITY autoSafeModeDescription3.label "जागायनाय समाव &brandShortName; आ मिजिंथियै महरै बन्द जाबाय। बेयो add-ons एबा गुबुन जेंनानि थाखाय जानो हागौ। नोंथाङा जेंनाखौ रैखाथि म'डआव ट्राबल्‌शुटिंजों सुस्रांनो हायो।">

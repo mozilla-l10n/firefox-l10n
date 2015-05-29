@@ -1,0 +1,37 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY errorConsole.title "गोरोनथि कनस'ल">
+
+<!ENTITY errFile.label   "फुंखा फाइल:">
+<!ENTITY errLine.label   "सारि:">
+<!ENTITY errColumn.label "खाम्फा:">
+
+<!ENTITY all.label          "गासै(A)">
+<!ENTITY all.accesskey      "A">
+<!ENTITY errors.label       "गोरोन्थि(E)">
+<!ENTITY errors.accesskey   "E">
+<!ENTITY warnings.label     "सांग्रांथि(W)">
+<!ENTITY warnings.accesskey "W">
+<!ENTITY messages.label     "खौरांफोर(M)">
+<!ENTITY messages.accesskey "M">
+<!ENTITY clear.label        "खोमोर(C)">
+<!ENTITY clear.accesskey    "C">
+<!ENTITY codeEval.label     "क'ड:(o)">
+<!ENTITY codeEval.accesskey "o">
+<!ENTITY evaluate.label     "बेसेन बिजिर(v)">
+<!ENTITY evaluate.accesskey "v">
+<!ENTITY filter2.label      "फिल्टार:">
+<!ENTITY filter2.accesskey  "F">
+
+<!ENTITY copyCmd.label       "कपि खालाम(C)">  
+<!ENTITY copyCmd.accesskey   "C"> 
+<!ENTITY copyCmd.commandkey  "C"> 
+<!ENTITY sortFirst.label     "गिबि > जोबथा थाखो फारि(F)">
+<!ENTITY sortFirst.accesskey "F">
+<!ENTITY sortLast.label      "जोबथा > गिबि जोबथा थाखो फारि(L)">
+<!ENTITY sortLast.accesskey  "L">
+<!ENTITY closeCmd.commandkey "w">  
+<!ENTITY focus1.commandkey   "आं">  
+<!ENTITY focus2.commandkey   "d">  

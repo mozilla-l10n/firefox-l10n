@@ -1,0 +1,88 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+<!-- rights.locale-direction instead of the usual local.dir entity, so RTL can skip translating page. -->
+<!ENTITY rights.locale-direction "ltr">
+<!ENTITY rights.pagetitle       "सोमोन्दै:मोनथाय">
+<!ENTITY rights.intro-header    "नोंथांनि मोनथायनि सोमोन्दै">
+<!ENTITY rights.intro "&brandFullName; आ गासै मुलुगाव रोजा-रोजा सुबुं माहारिजों बानायजानाय मोनसे बेसेन-नाङै आरो अपेन सर्च सफ्टवेयार। नोंथाङा मोनथिनांगौ माखासे बेसाद दं:">
+<!-- Note on pointa / pointb / pointc form:
+     These points each have an embedded link in the HTML, so each point is
+     split into chunks for text before the link, the link text, and the text
+     after the link. If a localized grammar doesn't need the before or after
+     chunk, it can be left blank.
+
+     Also note the leading/trailing whitespace in strings here, which is
+     deliberate for formatting around the embedded links. -->
+
+<!ENTITY rights.intro-point1a "..नि रादाय मथे &brandShortName; खौ नोंथांनो मोननो हाथाव खालामना होनाय जादों">
+<!ENTITY rights.intro-point1b "मजिला पाब्लिक लाइसेन्स">
+<!ENTITY rights.intro-point1c ". बेनि ओंथिया जाबाय नोंथाङा &brandShortName;खौ गुबुननो बाहायनो, कपि खालामनो आरो रानना होनो लुबैनो हागौ। नोंथांमोनखौबो &brandShortName; नि फुंखा क'डखौ फोसाबनो बरायनाय जायो मानोना नोंथाङा नोंथांनि गोनांथि सुफुंनो लुबैयो। मजिला पाब्लिक लाइसेन्सआ नोंथांनोबो नोंथांनि फोसाबनाय बिसानखौ रानना होनो मोनथाय होयो।">
+
+<!ENTITY rights.intro-point2-a "फायारफक्स मुं एबा ल'ग'नि सिमा गैयाबालानो, मजिला फाउन्डेसन एबा जायखि जाया हानजानि ट्रेडमार्कआव जायखि जाया ट्रेडमार्क मोनथाय एबा लाइसेन्सखौ नोंथांनो गनायथि होनाय जाया। ट्रेडमार्कआव बांद्राय फोरमायथिहोग्रा मोननो हागौ।">
+<!ENTITY rights.intro-point2-b "बेयाव">
+<!ENTITY rights.intro-point2-c ".">
+<!-- point 2.5 text for official branded builds -->
+
+<!ENTITY rights.intro-point2.5 "&brandShortName; नि माखासे आखुथाय, जेरै- क्रेस रिपर्टारआ &vendorShortName; आव फिनथाय होनो नोंथांनो उफ्रा होयो। फिनथाय गथायनो-खौ बासिखनानै, नोंथाङा दिहुनथायखौ जौगाहोनो फिथायखौ बाहायनो, बेनि वेबसाइटआव फिनथायखौ फोसावनो आरो फिनथायखौ रानना होनो नोंथाङा &vendorShortName; गनायथि होयो। ">
+<!-- point 3 text for official branded builds -->
+
+<!ENTITY rights2.intro-point3a "नोंथांनि निजि फोरमायथिहोग्रा आरो &brandShortName; नि गेजेरजों &vendorShortName; आव गथायनाय फिडबेकखौ माबोरै बाहायनांगौ बेयाव बेखेवनाय जायो">
+<!ENTITY rights2.intro-point3b "&brandShortName; गुमुरगोनां फलिसि">
+<!ENTITY rights.intro-point3c ".">
+<!-- point 3 text for unbranded builds -->
+
+<!ENTITY rights.intro-point3-unbranded "बेयाव बे दिहुन्थाइनि थाखाय जेखिजाया बाहायथाव गुमुरगोनां पलिसिफोरखौ लिस्ट खालामनांगौ।">
+<!-- point 4 text for official branded builds -->
+
+<!ENTITY rights2.intro-point4a "माखासे &brandShortName; आखुथाया वेब सोनारनाय-फोमायथिहोग्रा सिबिथायखौ बाहायो, अदेबानि, बिफोरो 100&#037; गेबें एबा गोरोन्थि-गैयै होननानै जों बुंनो हाया। बेफोर सिबिथायखौ बाहायनाय आखुथायखौ माबोरै लोरबां खालामनो हायो बेनि गुवारै फोरमायथिहोग्राखौ गाहायाव मोननो हायो।">
+<!ENTITY rights.intro-point4b "सिबिथायनि रादाय">
+<!ENTITY rights.intro-point4c ".">
+<!-- point 4 text for unbranded builds -->
+
+<!ENTITY rights.intro-point4a-unbranded "बे दिहुनथाया वेब सिबिथायजों थाफायोब्ला सिबिथायनि थाखाय जायखि जाया बाहायथाव सिबिथायखौ लिंक खालाम नांगोन">
+<!ENTITY rights.intro-point4b-unbranded "वेबसाइट सिबिथाय">
+<!ENTITY rights.intro-point4c-unbranded " खोन्दो.">
+
+<!ENTITY rights2.webservices-header "&brandFullName; वेब-सोनारनाय फोरमायथिहोग्रा सिबिथाय">
+<!-- Note that this paragraph references a couple of entities from
+     preferences/security.dtd, so that we can refer to text the user sees in
+     the UI, without this page being forgotten every time those strings are
+     updated.  -->
+<!-- intro paragraph for branded builds -->
+
+<!ENTITY rights2.webservices-a "गाहायाव बेखेवनाय रादायनि सिङाव थानाय &brandShortName; नि बाइनारि बिसानजों नोंथांनि बाहायनायनि थाखाय होखानाय माखासे आखुथाय होनो &brandFullName; आ वेब-सोनारनाय फोरमायथिहोग्रा सिबिथाय (&quot;सिबिथाय&quot;)खौ बाहायो। नोंथाङा मोनसे एबा गोबां सिबिथाय एबा सोदोबखौ बाहायनो लुबैयाब्ला, नोंथाङा आखुथाय एबा सिबिथायखौ लोरबां खालामनो लुबैनो हागौ। थि आखुथाय एबा सिबिथायखौ माबोरै बाहायनांगौ बेनि फोरोंथायखौ मोननो हागौ।">
+<!ENTITY rights2.webservices-b "बेयाव">
+<!ENTITY rights3.webservices-c ". गुबुन आखुथाय आरो सिबिथायखौ एप्लिकेसन पसन्दआव लोरबां खालामनो हायो।">
+<!-- safe browsing points for branded builds -->
+
+<!ENTITY rights.safebrowsing-a "रैखाथि ब्राउजिं: ">
+<!ENTITY rights.safebrowsing-b "रैखाथि ब्राउजिं आखुथायखौ लोरबां खालामनो थिननाय जाया मानोना बेयो नोंथांखौ रैखाथि-नङै साइटआव थांहोनो हागौ। नोंथाङा बे आखुथायखौ फुरायै लोरबां खालामनो लुबैयोब्ला गाहायनि नेमखौ फालि:">
+<!ENTITY rights.safebrowsing-term1 "एप्लिकेसन पसन्दखौ खेव">
+<!ENTITY rights.safebrowsing-term2 "रैखाथि सायखनायखौ सायख">
+<!ENTITY rights.safebrowsing-term3 "&quot;&blockAttackSites.label;&quot; आरो &quot;&blockWebForgeries.label;&quot; नि उफ्राखौ सायखयै खालाम">
+<!ENTITY rights.safebrowsing-term4 "रैखाथि ब्राउजिंआ दा लोरबां खालामजानाय।">
+<!-- location aware browsing points for branded builds -->
+
+<!ENTITY rights.locationawarebrowsing-a "जायगा सांग्रां ब्राउजिं:">
+<!ENTITY rights.locationawarebrowsing-b "आ अरायबो अप्ट-इन। जेबो जायगा फोरमायथिहोग्राखौ माब्लाबाबो नोंथांनि गनायथि गैयाबालानो दैथाय हरनाय जायाखै। नोंथाङा आखुथायखौ फुरायै लोरबां खालामनो लुबैयोब्ला, गाहायनि खलबखौ फालि:">
+<!ENTITY rights.locationawarebrowsing-term1a "URL बार, टाइप खालाम">
+<!ENTITY rights.locationawarebrowsing-term1b "सोमोन्दै:config">
+<!ENTITY rights.locationawarebrowsing-term2 "geo.enabled टाइप खालाम">
+<!ENTITY rights.locationawarebrowsing-term3 "geo.enabled पसन्दआव खेबनै क्लिक खालाम">
+<!ENTITY rights.locationawarebrowsing-term4 "जायगा-सांग्रां ब्राउजिंआ दा लोरबां खालामजानाय">
+<!-- intro paragraph for unbranded builds -->
+
+<!ENTITY rights.webservices-unbranded "वेबसाइट सिबिथायनि सुंद' जारिमिन, माबोरै लोरबां खालामनांगौ बेनि फोरोंथायजों लोगोसे थाफानाय दिहुनथायखौ बेयाव होफादेरनांगौ।">
+<!-- point 1 text for unbranded builds -->
+
+<!ENTITY rights.webservices-term1-unbranded "बे दिहुनथायनि थाखाय जेखिजाया बाहायजाथाव सिबिथाइखौ बेयाव लिस्ट खालामथारनांगौ जायो।">
+<!-- points 1-7 text for branded builds -->
+
+<!ENTITY rights2.webservices-term1 "&vendorShortName; आरो बेनि बिहोमा होग्रा, लाइसेन्सर आरो बाहागोगिरिआ जोबोद गेबें आरो गोदानथार सिबिथाय होनो खामानि मावयो। अदेबानि, बे फोरमायथिहोग्राया आबुं आरो गोरोन्थिगैयै होननानै जों गेरान्टि होनो हाया। बिदिन्थि महरै, रैखाथि ब्राउजिं सिबिथाया माखासे खैफोदगोनां साइटखौ सिनायथिया जानो हागौ आरो माखासे रैखाथि साइटआ गोरोन्थियै सिनायथिनो हागौ आरो जायगानि सांग्रां सिबिथाय, जोंनि सिबिथाय होग्राजों फैफिनहोजानाय गासै जायगाया हिसाब खालामजायो आरो जों एबा जोंनि सिबिथाय होग्राया जायगानि गेबेंथिखौ गेरान्टि होनो हाया।">
+<!ENTITY rights.webservices-term2 "&vendorShortName; आ गावनि गोसोबादि सिबिथायखौ दोनथ'नो एबा सोलायनो हागौ।">
+<!ENTITY rights2.webservices-term3 "नोंथांखौ &brandShortName; नि बिसान थाफानाय बेफोर सिबिथायखौ बाहायनो बरायबाय, आरो &vendorShortName; आ नोंथांखौ बेफोर मोनथायखौ बाहायनो गनायथि होयो। &vendorShortName; आरो बेनि लाइसेन्सरआ सिबिथायाव गुबुन गासै मोनथायखौ थिना दोनो। बेफोर रादाया जायखि जाया मोनथायखौ &brandShortName; आव बाहायजाथाव अपेन सर्स लाइसेन्सनि सिङाव आरो &brandShortName; नि रोखोमसे फुंखा क'ड बिसाननि सिङाव सिमा खालामनो लुबैयो।">
+<!ENTITY rights.webservices-term4 "सिबिथाया &quot;as-is&quot; महरै जगायना होबाय। &vendorShortName;, बेनि बिहोमा होग्रा, लाइसेन्सर आरो रानना होग्राया गासै वारेन्टिखौ सिमान जायाखै, फोरमायनाय एबा इंगित होनाय, सिमा गैयाबालानो, सिबिथाया फालांगि खालामजाथाव आरो नोंथांनि थि थांखिनि थाखाय गोरोबहोनो सिमान जाया। नोंथाङा नोंथाङा फुरा खैफोदखौ सहाय नाङो, जेरै- नोंथांनि थांखिनि थाखाय सिबिथाय सायखनाय आरो सिबिथायनि गुन आरो मावफुंनाय बाइदि बाइदि। माखासे एलेखाया ओंथिगोनां वारेन्टिनि बाद होनाय एबा सिमाखौ गनायथि होआ, बेखायनो बे मोनथाय हगारग्राया नोंथांनाव सोलिया जानो हागौ">
+<!ENTITY rights.webservices-term5 "आयेनजों गोनांथि जानायखौ बाद होनानै, &vendorShortName;, बेनि बिहोमा होग्रा, लाइसेन्सर आरो रानना होग्राया जायखि जाया खेंसालिया, जुनिया, हरखाब, जाउनगोनां, साजागोनांनि थाखाय दायगोनां जानाय नङा एबा ओंखारनाय बिदिन्थिगोनां खहा एबा &brandShortName; आरो सिबिथायनि बाहायथिजों सोमोन्दो थानायाव दायगोनां जानाय नङा। बेफोर रादायनि सिङाव थानाय ज'यै दायगोनांआ $500 (बाजौ डलार)नि बारा जानाय नङा। माखासे एलेखाया थि खहानि बाद होनाय एबा सिमाखौ गनायथि होआ, बेखायनो बे बाद होनाय एबा सिमाखौ नोंथांनाव बाहाय जाया जानो हागौ।">
+<!ENTITY rights.webservices-term6 "&vendorShortName; आ बेफोर रादायखौ गेजेर गेजेर आपडेट खालामनो लुबैनो हागौ।बेफोर रादायखौ &vendorShortName;नि लिरनाय गोरोबथा गैयाबालानो फोसाबनाय एबा बातिल खालामनाय नङा जानो हागौ।">
+<!ENTITY rights.webservices-term7 "आयेन रादायनि जेंनाखौ बाद होनानै, बेफोर रादाया U.S.A. नि केलिफर्नियानि राइजोनि आयेनजों सालायजायो। बेफोर रादायनि बबेबा बाहागोआ बाहायजायै एबा खामानिआव नाङै जायोब्ला, थाबावनाय बाहागोआ सोलिगोन आरो गोहोम गोग्लैगोन। बेफोर रादायनि रावसोलायनाय बिसान आरो इंराजि बिसारनि गेजेराव माबा मोगा-मोगि जायोब्ला, इंराजि रावनि बिसानआ गोहोम गोग्लैगोन।">

@@ -1,0 +1,29 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY  colorsDialog.title              "गाब">
+<!ENTITY  window.width                    "38em">
+<!ENTITY  window.macWidth                 "41em">
+
+
+
+<!ENTITY  overridePageColors.always.label "अरायबो">
+
+<!ENTITY  overridePageColors.never.label  "माब्लाबाबो नङा">
+
+<!ENTITY  color                           "फराय बिजाब आरो सावगारिनि उनथिं थानाय">
+<!ENTITY  textColor.label                 "फराय बिजाब: (T)">
+<!ENTITY  textColor.accesskey             "T">
+<!ENTITY  backgroundColor.label           "सावगारिनि उनथिं थानाय: (B)">
+<!ENTITY  backgroundColor.accesskey       "B">
+<!ENTITY  useSystemColors.label           "सिस्टेमनि गाबफोरखौ बाहाय (s)">
+<!ENTITY  useSystemColors.accesskey       "s">
+
+<!ENTITY  underlineLinks.label            "लिंकफोरखौ आन्डारलाइन खालाम (U)">
+<!ENTITY  underlineLinks.accesskey        "U">
+<!ENTITY  links                           "लिंक गाबफोर">
+<!ENTITY  linkColor.label                 "थांफेरै लिंकफोर: (L)">
+<!ENTITY  linkColor.accesskey             "L">
+<!ENTITY  visitedLinkColor.label          "थांखांनाय लिंकफोर: (V)">
+<!ENTITY  visitedLinkColor.accesskey      "V">

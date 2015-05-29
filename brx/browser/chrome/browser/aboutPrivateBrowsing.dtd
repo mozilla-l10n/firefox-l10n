@@ -1,0 +1,19 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY aboutPrivateBrowsing.title            "नोंथाङा सिरि सिरियै ब्राउज खालामगासिनो दं">
+<!ENTITY aboutPrivateBrowsing.title.normal     "मोनसे प्राइभेट उइन्ड'खौ खेव??">
+
+<!ENTITY aboutPrivateBrowsing.subtitle         "&brandShortName; आ बे उइन्ड'नि थाखाय जायखि जाया जारिमिनखौ गोसोखांनाय नङा।">
+<!ENTITY aboutPrivateBrowsing.subtitle.normal  "&brandShortName; आ प्राइभे उइन्ड'नि थाखाय जायखि जाया जारिमिनखौ गोसोखांनाय नङा।">
+
+<!ENTITY aboutPrivateBrowsing.description      "बैयाव ब्राउजिं जारिमिन, नागिरनाय जारिमिन, डाउनल'ड जारिमिन, वेब फर्म जारिमिन, कुकि आरो जुगामि-नङै इन्टारनेट फाइल दं। अदेबानि, नोंथाङा डाउनल'ड खालामनाय फाइल आरो नोंथाङा खालामनाय बुकमार्कखौ दोनगोन।">
+
+<!ENTITY aboutPrivateBrowsing.notPrivate       "नोंथाङा दासान्दि मोनसे प्राइभेट उइन्ड'आव गैया।">
+
+<!ENTITY aboutPrivateBrowsing.moreInfo         "बे कम्पुटारहा नोंथांनि ब्राउजिं जारिमिननि मोनसे रेकर्ड थानाय नङाब्लाबो नोंथांनि खामानि होग्रा एबा इन्टारनेट होग्राआ नोंथाङा थांनाय बिलाइखौ ट्रेक खालामनो हायो।">
+<!ENTITY aboutPrivateBrowsing.learnMore        "गोबां सोलों">
+
+<!ENTITY privatebrowsingpage.openPrivateWindow.label "मोनसे प्राइभेट उइन्ड'खौ खेव">
+<!ENTITY privatebrowsingpage.openPrivateWindow.accesskey "P">

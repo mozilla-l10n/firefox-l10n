@@ -1,0 +1,39 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY print.label          "साफाय...( P)">
+<!ENTITY print.accesskey      "P">
+<!ENTITY pageSetup.label      "बिलाइनि सेटआप...( u)">
+<!ENTITY pageSetup.accesskey  "u">
+<!ENTITY page.label           "बिलाइ:(a)">
+<!ENTITY page.accesskey       "a">
+<!ENTITY of.label             "नि">
+<!ENTITY scale.label          "स्केल:(S)">
+<!ENTITY scale.accesskey      "S">
+<!ENTITY portrait.label       "प'र्ट्रेट(o)">
+<!ENTITY portrait.accesskey   "o">
+<!ENTITY landscape.label      "लेण्डस्केप(L)">
+<!ENTITY landscape.accesskey  "L">
+<!ENTITY close.label          "बन्द खालाम(C)">
+<!ENTITY close.accesskey      "C">
+<!ENTITY p30.label            "30&#037;">
+<!ENTITY p40.label            "40&#037;">
+<!ENTITY p50.label            "50&#037;">
+<!ENTITY p60.label            "60&#037;">
+<!ENTITY p70.label            "70&#037;">
+<!ENTITY p80.label            "80&#037;">
+<!ENTITY p90.label            "90&#037;">
+<!ENTITY p100.label           "100&#037;">
+<!ENTITY p125.label           "125&#037;">
+<!ENTITY p150.label           "150&#037;">
+<!ENTITY p175.label           "175&#037;">
+<!ENTITY p200.label           "200&#037;">
+<!ENTITY Custom.label         "कास्टम...">
+<!ENTITY ShrinkToFit.label    "गोरोब होनो थनथ्र हो">
+<!ENTITY customPrompt.title   "कासटम स्केल...">
+
+<!ENTITY homearrow.tooltip    "गिबि बिलाइ">
+<!ENTITY endarrow.tooltip     "जोबथा बिलाइ">
+<!ENTITY nextarrow.tooltip    "उननि बिलाइ">
+<!ENTITY previousarrow.tooltip "सिगांनि बिलाइ">

@@ -1,0 +1,44 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY aboutTelemetry.pageTitle "Telemetry डाटा">
+
+<!ENTITY aboutTelemetry.telemetryEnabled "Telemetry खौ<span>हाहोनाय खालामनाय</span>जायो।">
+
+<!ENTITY aboutTelemetry.telemetryDisabled "Telemetry खौ<span>लोरबां खालामनाय</span>जायो।">
+
+<!ENTITY aboutTelemetry.generalDataSection "सरासनस्रा डाटा">
+
+
+<!ENTITY aboutTelemetry.slowSqlSection "लासै SQL बिबुंसार">
+
+<!ENTITY aboutTelemetry.chromeHangsSection "ब्राउजार हेंस">
+
+<!ENTITY aboutTelemetry.threadHangStatsSection "थ्रेड हेंस">
+
+<!ENTITY aboutTelemetry.histogramsSection "हिस्ट'ग्राम">
+
+<!ENTITY aboutTelemetry.keyedHistogramsSection "Keyed हिस्ट'ग्राम">
+
+<!ENTITY aboutTelemetry.simpleMeasurementsSection "गोरलै जखा">
+
+<!ENTITY aboutTelemetry.addonDetailsSection "Add-on गुवारै">
+
+<!ENTITY aboutTelemetry.lateWritesSection "गोबाव लिरनाय">
+
+<!ENTITY aboutTelemetry.systemInfoSection "सिस्टेम फोरमायथिहोग्रा">
+
+<!ENTITY aboutTelemetry.addonHistogramsSection "Add-ons जों बुथुमजानाय हिस्ट'ग्राम">
+
+<!ENTITY aboutTelemetry.toggle "खोन्दोखौ टग्गल खालामनो क्लिक खालाम">
+
+<!ENTITY aboutTelemetry.emptySection "(जेबो डाटा बुथुमाखै)">
+
+<!ENTITY aboutTelemetry.fullSqlWarning "नायनो गोनां: लासै SQL डेबागिंखौ हाहोनाय खालामनाय जायो। आबुं SQL स्ट्रिंखौ गाहायाव दिन्थिफुंनाय जानो हागौ नाथाय बिफोरखौ Telemetry आव गथायनाय जानाय नङा।">
+
+<!ENTITY aboutTelemetry.fetchSymbols "हें स्टेकनि थाखाय लाबोनाय खामानि मुं">
+
+<!ENTITY aboutTelemetry.hideSymbols "हेंस निफ्राय निफ्राय गोथां डाटाखौ दिन्थि">
+
+<!ENTITY aboutTelemetry.filterText "फिल्टार (स्ट्रिं एबा /regexp/)">

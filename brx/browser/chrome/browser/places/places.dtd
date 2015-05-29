@@ -1,0 +1,124 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+<!-- LOCALIZATION NOTE (places.library.title): use "Library", "Archive" or "Repository" -->
+
+<!ENTITY places.library.title  "बिजाब बाख्रि">
+<!ENTITY places.library.width  "700">
+<!ENTITY places.library.height "500">
+<!ENTITY organize.label        "अर्गानाइज खालाम (O)">
+<!ENTITY organize.accesskey    "O">
+<!ENTITY organize.tooltip      "नोंथांनि बुकमार्कखौ अर्गानाइज खालाम">
+
+<!ENTITY file.close.label               "बन्द खालाम(C)">
+<!ENTITY file.close.accesskey           "C">
+<!ENTITY cmd.close.key                  "w">
+<!ENTITY views.label                    "नुथायफोर (V)">
+<!ENTITY views.accesskey                "V">
+<!ENTITY views.tooltip                  "नोंथांनि नुथाइखौ सोलाय">
+<!ENTITY view.columns.label             "खाम्फाफोर दिनथि (C)">
+<!ENTITY view.columns.accesskey         "C">
+<!ENTITY view.sort.label                "थख' साजाय (S)">
+<!ENTITY view.sort.accesskey            "S">
+<!ENTITY view.unsorted.label            "थख' साजायै (U)">
+<!ENTITY view.unsorted.accesskey        "U">
+<!ENTITY view.sortAscending.label       "A > Z थख' फारियै (A)">
+<!ENTITY view.sortAscending.accesskey   "A">
+<!ENTITY view.sortDescending.label      "Z > A थख' फारियै (Z)">
+<!ENTITY view.sortDescending.accesskey  "Z">
+
+<!ENTITY importBookmarksFromHTML.label     "बुकमार्कफोरखौ HTML निफ्राय लाबो...(I)">
+<!ENTITY importBookmarksFromHTML.accesskey "I">
+<!ENTITY exportBookmarksToHTML.label       "बुकमार्कफोरखौ HTML आव दैथाय हर... (E) ">
+<!ENTITY exportBookmarksToHTML.accesskey   "E">
+<!ENTITY importOtherBrowser.label          "डाटाखौ गुबुन मोनसे ब्राउजार निफ्राय लाबो... (A)">
+<!ENTITY importOtherBrowser.accesskey      "A">
+
+<!ENTITY cmd.backup.label               "बेकआप ला...(B)">
+<!ENTITY cmd.backup.accesskey           "B">
+<!ENTITY cmd.restore2.label             "लाबोफिन (R)">
+<!ENTITY cmd.restore2.accesskey         "R">
+<!ENTITY cmd.restoreFromFile.label      "फाइलखौ बासिख (C)...">
+<!ENTITY cmd.restoreFromFile.accesskey  "C">
+
+<!ENTITY cmd.bookmarkLink.label         "बे बिलाइखौ बुकमार्क हो (B)...">
+<!ENTITY cmd.bookmarkLink.accesskey     "B">
+<!ENTITY cmd.delete.label               "बे बिलाइखौ खोमोर (D)">
+<!ENTITY cmd.delete.accesskey           "D">
+<!ENTITY cmd.deleteDomainData.label     "बे साइटखौ बाव लां (F)">
+<!ENTITY cmd.deleteDomainData.accesskey "F">
+
+<!ENTITY cmd.open.label                  "खेव (O)">
+<!ENTITY cmd.open.accesskey              "O">
+<!ENTITY cmd.open_window.label           "मोनसे गोदान उइन्ड'आव खेव (N)">
+<!ENTITY cmd.open_window.accesskey       "N">
+
+
+<!ENTITY cmd.open_tab.label              "मोनसे गोदान टेबआव खेव (w)">
+<!ENTITY cmd.open_tab.accesskey          "w">
+<!ENTITY cmd.open_all_in_tabs.label      "गासैखौबो टेबाव खेव (O)">
+<!ENTITY cmd.open_all_in_tabs.accesskey  "O">
+
+<!ENTITY cmd.properties.label      "आखुथायफोर (i)">
+<!ENTITY cmd.properties.accesskey  "i">
+
+<!ENTITY cmd.sortby_name.label              "मुं मथे थख' साजाय (S)">
+<!ENTITY cmd.sortby_name.accesskey          "S">
+<!ENTITY cmd.context_sortby_name.accesskey  "r">
+
+<!ENTITY cmd.new_bookmark.label            "गोदान बुकमार्क...">
+<!ENTITY cmd.new_bookmark.accesskey        "B">
+<!ENTITY cmd.new_folder.label              "गोदान फल्डार (o)...">
+<!ENTITY cmd.new_folder.accesskey          "o">
+<!ENTITY cmd.context_new_folder.accesskey  "F">
+<!ENTITY cmd.new_separator.label           "गोदान बोखावग्रा (S)">
+<!ENTITY cmd.new_separator.accesskey       "S">
+
+<!ENTITY cmd.reloadLivebookmark.label      "लाइभ बुकमार्कखौ फिन ल'ड खालाम (R)...">
+<!ENTITY cmd.reloadLivebookmark.accesskey  "R">
+
+<!ENTITY cmd.moveBookmarks.label                  "लोरिहो (M)...">
+<!ENTITY cmd.moveBookmarks.accesskey              "M">
+
+<!ENTITY col.name.label          "मुं">
+<!ENTITY col.tags.label          "टेगफोर">
+<!ENTITY col.url.label           "जायगा">
+<!ENTITY col.mostrecentvisit.label "दासो थांनाय">
+<!ENTITY col.visitcount.label    "नायनो थांनाय काउन्ट">
+<!ENTITY col.description.label   "बेखेवनाय">
+<!ENTITY col.dateadded.label     "दाजाबदेरबाय">
+<!ENTITY col.lastmodified.label  "जोबथा महर सोलायबाय">
+
+<!ENTITY search.label                              "नागिर: (S)">
+<!ENTITY search.accesskey                          "S">
+
+<!ENTITY cmd.find.key  "f">
+
+<!ENTITY maintenance.label      "लाबो आरो बेकआप ला (I)">
+<!ENTITY maintenance.accesskey  "I">
+<!ENTITY maintenance.tooltip    "नोंथांनि बुकमार्कखौ लाबो आरो बेकआप ला">
+
+<!ENTITY backButton.tooltip  "थांफिन">
+
+<!ENTITY forwardButton.tooltip  "सिगांथि थां">
+
+<!ENTITY detailsPane.more.label "गोबां (e)">
+<!ENTITY detailsPane.more.accesskey "e">
+<!ENTITY detailsPane.less.label "खम (e)">
+<!ENTITY detailsPane.less.accesskey "e">
+<!ENTITY detailsPane.selectAnItemText.description "नायनो थाखाय मोनसे आइटेम सायख आरो बेनि आखुथायफोरखौ सुजु">
+
+<!ENTITY find.label               "नागिर: (S)">
+<!ENTITY find.accesskey           "S">
+<!ENTITY view.label               "नुथाय (w)">
+<!ENTITY view.accesskey           "w">
+<!ENTITY byDate.label             "अक्‍त' मथे (D)">
+<!ENTITY byDate.accesskey         "D">
+<!ENTITY bySite.label             "साइट मथे (S)">
+<!ENTITY bySite.accesskey         "S">
+<!ENTITY byMostVisited.label      "बांसिन थांजानाय मथे (V)">
+<!ENTITY byMostVisited.accesskey  "V">
+<!ENTITY byLastVisited.label      "जोबथा थांजानाय मथे (L)">
+<!ENTITY byLastVisited.accesskey  "L">
+<!ENTITY byDayAndSite.label       "अक्‍त' आरो साइट मथे (t)">
+<!ENTITY byDayAndSite.accesskey   "t">

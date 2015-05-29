@@ -1,0 +1,16 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+
+<!ENTITY  history.title             "आपडेट जारिमिन">
+<!ENTITY  history.intro             "गाहायनि आपडेटफोरखौ इनष्टल खालामनाय जाबाय:">
+<!ENTITY  closebutton.label         "बन्द खालाम">
+                                     
+<!ENTITY  noupdates.label           "जेबो आपडेटखौ दासिमबो इनष्टल खालामनाय जायाखै">
+
+<!ENTITY  name.header               "आपडेटनि मुं">
+<!ENTITY  date.header               "इनष्टल खालार">
+<!ENTITY  type.header               "रोखोम">
+<!ENTITY  state.header              "रायजो">
+

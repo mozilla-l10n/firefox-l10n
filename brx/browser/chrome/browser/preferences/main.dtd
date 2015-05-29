@@ -1,0 +1,44 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY startup.label             "जागायजेन्नाइ">
+
+<!ENTITY startupPage.label         "जेब्ला &brandShortName; starts:">
+<!ENTITY startupPage.accesskey     "s">
+<!ENTITY startupHomePage.label     "आंनि नमा फेजखौ दिन्थि">
+<!ENTITY startupBlankPage.label    "लांदां फेजखौ दिन्थि">
+<!ENTITY startupLastSession.label  "आंनि उइनद'स आरो थेब फोरखौ सिगां समनिफ्राय दिन्थिफिन">
+
+<!ENTITY homepage.label            "न' पेज">
+<!ENTITY homepage.accesskey        "प">
+<!ENTITY useCurrentPage.label      "दानि पेजखौ बाहाय">
+<!ENTITY useCurrentPage.accesskey  "द">
+<!ENTITY useMultiple.label         "दानि पेजफोरखौ बाहाय">
+<!ENTITY chooseBookmark.label      "बुकमाकॅखौ... बाहाय">
+<!ENTITY chooseBookmark.accesskey  "ब">
+<!ENTITY restoreDefault.label      "असेयाव दोनफिन">
+<!ENTITY restoreDefault.accesskey  "द">
+
+<!ENTITY downloads.label     "दावनल'दफोर">
+
+<!ENTITY saveTo.label "फाइलफोरखौ सेब खालाम बेयाव">
+<!ENTITY saveTo.accesskey "ब">
+<!ENTITY chooseFolderWin.label        "ब्रावस...">
+<!ENTITY chooseFolderWin.accesskey    "व">
+<!ENTITY chooseFolderMac.label        "सायख'…">
+<!ENTITY chooseFolderMac.accesskey    "ख">
+<!ENTITY alwaysAsk.label "बबेयाव सेब खालामनांगौ बेखौ जेब्लाबो आंनाव सों">
+<!ENTITY alwaysAsk.accesskey "A">
+
+<!ENTITY alwaysCheckDefault2.label        "&brandShortName; आ नोंथांनि डिफल्ट ब्राउजार नामा अरायबो आनजाद खालाम">
+<!ENTITY alwaysCheckDefault2.accesskey    "w">
+<!ENTITY setAsMyDefaultBrowser2.label     "डिफल्ट बानाय">
+<!ENTITY setAsMyDefaultBrowser2.accesskey "D">
+<!ENTITY isDefault.label                  "&brandShortName; आ दासान्दि नोंथांनि डिफल्ट ब्राउजार">
+<!ENTITY isNotDefault.label               "&brandShortName; आ नोंथांनि डिफल्ट ब्राउजार नङा">
+
+<!ENTITY separateProfileMode.label        "एखे समावनो सालायनो &brandShortName; आरो फायारफक्सखौ गनायथि हो">
+<!ENTITY useFirefoxSync.label             "इंगित: बेयो आलादा प्रफाइलखौ बाहायो। बेफोरनि गेजेराव डाटाखौ शेयार खालामनो सिन्कखौ बाहाय">
+
+

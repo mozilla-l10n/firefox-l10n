@@ -1,0 +1,38 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY playButton.playLabel "दाम">
+<!ENTITY playButton.pauseLabel "थाद' हो">
+<!ENTITY muteButton.muteLabel "सोदोबगैयै खालाम">
+<!ENTITY muteButton.unmuteLabel "सोदोबगोनां खालाम">
+<!ENTITY fullscreenButton.enterfullscreenlabel "आबुं स्क्रिन">
+<!ENTITY fullscreenButton.exitfullscreenlabel "आबुं स्क्रिन निफ्राय ओंखार लां">
+<!ENTITY castingButton.castingLabel "स्क्रिनआव कास्ट">
+
+<!ENTITY stats.media "मेडिया">
+<!ENTITY stats.size "महर">
+<!ENTITY stats.activity "खामानि">
+<!ENTITY stats.activityPaused "थाद'होबाय">
+<!ENTITY stats.activityPlaying "दाम गासिनो दं">
+<!ENTITY stats.activityEnded "फोजोबबाय">
+<!ENTITY stats.activitySeeking "(नागिर गासिनो दं)">
+<!ENTITY stats.volume "भलिउम">
+<!ENTITY stats.framesParsed "फ्रेमफोरखौ पार्स खालामबाय">
+<!ENTITY stats.framesDecoded "फ्रेमफोरखौ डिक'ड खालामबाय">
+<!ENTITY stats.framesPresented "फ्रेमफोरखौ दिन्थिबाय">
+<!ENTITY stats.framesPainted "फ्रेमफोरखौ पेन्ट खालामबाय">
+
+<!ENTITY error.aborted "भिडिअ ल'ड खालामनायखौ बन्द खालामबाय।">
+<!ENTITY error.network "मोनथिमोनै जाहोननि थाखाय भिडिअ प्लेबेकखौ गारबाय।">
+<!ENTITY error.decode "डिभिअखौ दामनो हाया मानोना फाइला गाज्रि जाबाय।">
+<!ENTITY error.srcNotSupported "भिडिअ फरमेट एबा MIME रोखोमा हेफाजाब होजाया।">
+<!ENTITY error.noSource2 "हेफाजाब होजानाय फटमेटजों जेबो भिडिअ आरो MIME रोखोम मोनाखै।">
+<!ENTITY error.generic "मोनथिमोनै जाहोननि थाखाय भिडिअ प्लेबेकखौ गारबाय।">
+<!-- LOCALIZATION NOTE (scrubberScale.nameFormat): the #1 string is the current
+media position, and the #2 string is the total duration. For example, when at
+the 5 minute mark in a 6 hour long video, #1 would be "5:00" and #2 would be
+"6:00:00", result string would be "5:00 of 6:00:00 elapsed".
+-->
+
+<!ENTITY scrubberScale.nameFormat "#2 नि #1 आ सम बारलांबाय">

@@ -1,0 +1,15 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this file,
+   - You can obtain one at http://mozilla.org/MPL/2.0/.  -->
+
+<!ENTITY refreshProfile.dialog.title         "&brandShortName;खौ थाजा खालाम">
+<!ENTITY refreshProfile.dialog.description1  "जेंनाखौ सुस्रांनो थाजा खालामनायखौ जागाय आरो मावफुंनायखौ मोनफिन">
+<!ENTITY refreshProfile.dialog.description2  "बेयो जागोन:">
+<!ENTITY refreshProfile.dialog.items.label1  "नोंथांनि add-ons आरो गावनि गोसोबादि खालामनायखौ बोखार">
+<!ENTITY refreshProfile.dialog.items.label2  "नोंथांनि ब्राउजार सेटिंखौ बिसारनि डिफल्टआव मोनफिन">
+<!ENTITY refreshProfile.dialog.button.label  "&brandShortName;खौ थाजा खालाम">
+
+<!ENTITY refreshProfile.title                "&brandShortName; मोनसे टिउन आप हो">
+<!ENTITY refreshProfile.button.label         "&brandShortName;खौ थाजा खालाम">
+
+<!ENTITY refreshProfile.cleaning.description "प्राइ मावबाय..">

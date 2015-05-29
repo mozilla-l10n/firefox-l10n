@@ -1,0 +1,47 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+<!-- LOCALIZATION NOTE : FILE This file contains the CSS Coverage Report
+   - strings. See the 'csscoverage' command for more information, and
+   - browser/devtools/styleeditor/styleeditor.xul for context -->
+<!-- LOCALIZATION NOTE : FILE The correct localization of this file might be to
+   - keep it in English, or another language commonly spoken among web developers.
+   - You want to make that choice consistent across the developer tools.
+   - A good criteria is the language in which you'd find the best
+   - documentation on web development on the web. -->
+<!-- LOCALIZATION NOTE (csscoverage.backButton):
+  -  Text on the button to go back to the main style editor -->
+
+
+
+<!ENTITY csscoverage.backButton "उनथिं">
+<!-- LOCALIZATION NOTE (csscoverage.unused, csscoverage.noMatches):
+  -  This is the heading and body text for the CSS usage part of the report -->
+
+<!ENTITY csscoverage.unused "बाहायै नियम">
+<!ENTITY csscoverage.noMatches "गाहायनि नियमनि थाखाय जेबो गोरोबनाय मोनाखै:">
+<!-- LOCALIZATION NOTE (csscoverage.optimize.header):
+  -  This is the heading for the CSS optimization part of the report -->
+
+<!ENTITY csscoverage.optimize.header "गोरोबथाव बिलाइ">
+<!-- LOCALIZATION NOTE (csscoverage.preload1, csscoverage.preload2,
+  -  csscoverage.preload3): These 3 are part of a paragraph with 1 and 2
+  -  separated by a styled <link> tag and 2 and 3 separated by a styled
+  -  <style> tag -->
+
+<!ENTITY csscoverage.optimize.body1 "लोरिहोनानै नोंथाङा ल'ड खालामनायखौ एखनब्ला गोख्रै खालामनो हायो">
+<!ENTITY csscoverage.optimize.body2 "बिलाइनि थालोआव टेग खालामो आरो गोदान इनलाइन सोरजियो">
+<!ENTITY csscoverage.optimize.body3 "बिजौआव 'ल'ड' जाथायनि सिगां गोनांथि जानाय आदबजों गुदिमुवा। नोंथांनो गोनांथि जानाय आदब ब्लकफोरखौ बेयाव होनाय जाबाय:">
+<!-- LOCALIZATION NOTE (csscoverage.optimize.bodyX):
+  -  This is what we say when we have no optimization suggestions -->
+
+<!ENTITY csscoverage.optimize.bodyX "गासै नियमखौ इनलाइन खालामबाय।">
+<!-- LOCALIZATION NOTE (csscoverage.footer1, csscoverage.footer2a,
+  -  csscoverage.footer3, csscoverage.footer4): The text displayed at the
+  -  bottom of the page, with 2a being the URL opened when the link text in 3
+  -  is clicked -->
+
+<!ENTITY csscoverage.footer1 "नाय">
+<!ENTITY csscoverage.footer2a "https://developer.mozilla.org/docs/Tools/CSS_Coverage">
+<!ENTITY csscoverage.footer3 "CSS कभारेज टुलआव MDN लिरबिदां">
+<!ENTITY csscoverage.footer4 "बे रिपर्टनि जेनेरेसनआव मिथिसारलाइनि थाखाय।">

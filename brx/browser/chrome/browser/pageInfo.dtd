@@ -1,0 +1,87 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY  pageInfoWindow.width  "600">
+<!ENTITY  pageInfoWindow.height "500">
+
+<!ENTITY  copy.key              "C">
+<!ENTITY  copy.label            "कपि खालाम(C)">
+<!ENTITY  copy.accesskey        "C">
+<!ENTITY  selectall.key         "A">
+<!ENTITY  selectall.label       "गासैबो सायख(A)">
+<!ENTITY  selectall.accesskey   "A">
+<!ENTITY  closeWindow.key       "w">
+
+<!ENTITY  generalTab            "सरासनस्रा">
+<!ENTITY  generalTab.accesskey  "G">
+<!ENTITY  generalURL            "थं:">
+<!ENTITY  generalType           "रोखोम:">
+<!ENTITY  generalMode           "रेन्डार म'ड:">
+<!ENTITY  generalSize           "महर:">
+<!ENTITY  generalReferrer       "URL खौ मखनानै:">
+<!ENTITY  generalSource         "केछ फुंखा:">
+<!ENTITY  generalModified       "महर सोलायबाय:">
+
+<!ENTITY  generalMetaName       "मुं">
+<!ENTITY  generalMetaContent    "थानाय आयदा">
+
+<!ENTITY  mediaTab              "मेडिया">
+<!ENTITY  mediaTab.accesskey    "M">
+<!ENTITY  mediaLocation         "जायगा:">
+<!ENTITY  mediaText             "थाफानाय फराय बिजाब:">
+<!ENTITY  mediaAltHeader        "सोलायथाव फराय बिजाब">
+<!ENTITY  mediaAddress          "थं">
+<!ENTITY  mediaType             "रोखोम">
+<!ENTITY  mediaSize             "महर">
+<!ENTITY  mediaCount            "काउन्ट">
+<!ENTITY  mediaDimension        "ज'खाफोर:">
+<!ENTITY  mediaLongdesc         "गोलाव बेखेवनाय:">
+<!ENTITY  mediaBlockImage.accesskey "B">
+<!ENTITY  mediaSaveAs           "..बादि थिना दोन...">
+<!ENTITY  mediaSaveAs.accesskey "A">
+<!ENTITY  mediaSaveAs2.accesskey "e">
+<!ENTITY  mediaPreview          "मेडिया गिबि नुथाय:">
+
+<!ENTITY  feedTab               "फिडफोर">
+<!ENTITY  feedTab.accesskey     "F">
+<!ENTITY  feedSubscribe         "बायग्रा जा">
+<!ENTITY  feedSubscribe.accesskey "u">
+
+<!ENTITY  permTab               "गनायथि">
+<!ENTITY  permTab.accesskey     "P">
+<!ENTITY  permUseDefault        "डिफल्ट बाहाय">
+<!ENTITY  permAskAlways         "अरायबो सों">
+<!ENTITY  permAllow             "हगार">
+<!ENTITY  permAllowSession      "जथुमानि थाखाय गनायथि हो">
+<!ENTITY  permBlock             "ब्लक खालाम">
+<!ENTITY  permissionsFor        "..नि थाखाय गनायथि:">
+<!ENTITY  permPlugins           "मावथि प्लागिनफोर">
+
+<!ENTITY  permClearStorage           "भान्दारखौ खोमोर">
+<!ENTITY  permClearStorage.accesskey "C">
+
+<!ENTITY  securityTab           "रैखाथि">
+<!ENTITY  securityTab.accesskey "S">
+<!ENTITY  securityView.certView "चार्टिफिकेटखौ नाय">
+<!ENTITY  securityView.accesskey "V">
+<!ENTITY  securityView.unknown   "(मोनथिमोनै)">
+
+
+<!ENTITY  securityView.identity.header   "वेबसाइट सिनायथि">
+<!ENTITY  securityView.identity.owner    "बिगोमा: ">
+<!ENTITY  securityView.identity.domain   "वेबसाइट:">
+<!ENTITY  securityView.identity.verifier "..जों नायबिजिरबाय : ">
+
+<!ENTITY  securityView.privacy.header                   "गुमुरथि आरो जारिमिन">
+<!ENTITY  securityView.privacy.history                  "आं दिनैनि सिगाङाव बे वेबसाइटाव फैनाय नामा?">
+<!ENTITY  securityView.privacy.cookies                  "बे वेबसाइटहा नोंथांनि कम्पुटाराव दोनथुमनाय फोरमायथिहोग्रा (कुकिफोर) दं नामा?">
+<!ENTITY  securityView.privacy.viewCookies              "कुकिफोरखौ नाय">
+<!ENTITY  securityView.privacy.viewCookies.accessKey    "k">
+<!ENTITY  securityView.privacy.passwords                "आं बे वेबसाइटनि थाखाय माबा पासवार्ड थिना दोनबाय नामा?">
+<!ENTITY  securityView.privacy.viewPasswords            "थिखानाय पासवर्डखौ नाय">
+<!ENTITY  securityView.privacy.viewPasswords.accessKey  "w">
+
+<!ENTITY  securityView.technical.header                 "बिरोंदामिनारि गुवारै">
+
+<!ENTITY  helpButton.label                              "मदद">

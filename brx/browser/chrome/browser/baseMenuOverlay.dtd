@@ -1,0 +1,51 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY minimizeWindow.key       "m">
+<!ENTITY minimizeWindow.label     "मिनिमाइज खालाम">
+<!ENTITY bringAllToFront.label    "गासैखौबो सिगाङाव लाबो">
+<!ENTITY zoomWindow.label         "जुम खालाम">
+<!ENTITY windowMenu.label         "उइन्ड'">
+
+<!ENTITY helpMenu.label           "मदद (H)"> 
+<!ENTITY helpMenu.accesskey       "H"> 
+<!-- LOCALIZATION NOTE some localizations of Windows (ex:french, german) use "?"
+                       for the help button in the menubar but Gnome does not.   -->
+<!ENTITY helpMenuWin.label        "मदद (H)"> 
+<!ENTITY helpMenuWin.accesskey    "H">
+
+
+
+
+<!ENTITY helpMac.commandkey       "?">
+
+<!ENTITY helpKeyboardShortcuts.label     "गाहाय सोदोब शर्टकाट">
+<!ENTITY helpKeyboardShortcuts.accesskey "K">
+
+<!ENTITY helpSafeMode.label       "लोरबां खालामनाय Add-ons जों जागाय (R)">
+<!ENTITY helpSafeMode.accesskey   "R">
+
+
+
+
+
+<!ENTITY helpTroubleshootingInfo.label      "जेंना बोस्रांनाय फोरमायथिहोग्रा (T)">
+<!ENTITY helpTroubleshootingInfo.accesskey  "T">
+
+<!ENTITY helpFeedbackPage.label      "फिनथाइखौ गथाय (S)...">
+<!ENTITY helpFeedbackPage.accesskey  "S">
+
+
+
+<!ENTITY preferencesCmdMac.label        "पसन्दफोर...">
+<!ENTITY preferencesCmdMac.commandkey   ",">
+
+<!ENTITY servicesMenuMac.label          "खामानिफोर">
+
+<!ENTITY hideThisAppCmdMac2.commandkey  "H">
+
+<!ENTITY hideOtherAppsCmdMac.label      "गुबुनखौ दोनखोमा">
+<!ENTITY hideOtherAppsCmdMac.commandkey "H">
+
+<!ENTITY showAllAppsCmdMac.label        "गासैबो दिनथि">

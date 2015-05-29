@@ -1,0 +1,98 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY aboutSupport.pageTitle "ट्राबलशुटिं फोरमायथिहोग्रा">
+<!-- LOCALIZATION NOTE (aboutSupport.pageSubtitle): don't change the 'supportLink' id. -->
+
+<!ENTITY aboutSupport.pageSubtitle "बे बिलाइआव बिरोंदामिन फोरमायथिहोग्रा दं, नोंथाङा जेंनाखौ सुस्रांनाय समाव बेयो खामानिआव नांथाव जानो हागौ।
+नोंथाङा &brandShortName; नि सरासनस्रा सोंथिनि फिननायखौ नागिरोब्ला,
+जोंनि <a id='supportLink'>हेफाजाब वेबसाइट</a> आव थां।">
+
+<!ENTITY aboutSupport.crashes.title "क्रेस रिपर्ट">
+<!-- LOCALIZATION NOTE (aboutSupport.crashes.id):
+This is likely the same like id.heading in crashes.dtd. -->
+<!ENTITY aboutSupport.crashes.id "रिपर्ट ID">
+<!ENTITY aboutSupport.crashes.sendDate "गथायबाय">
+<!ENTITY aboutSupport.crashes.allReports "गासै क्रेस रिपर्ट">
+<!ENTITY aboutSupport.crashes.noConfig "क्रेस रिपर्टखौ दिन्थिफुंनो थाखाय बे एप्लिकेसनखौ बाइजोमहर दायाखै।">
+
+<!ENTITY aboutSupport.extensionsTitle "बारायनायफोर">
+<!ENTITY aboutSupport.extensionName "मुं">
+<!ENTITY aboutSupport.extensionEnabled "मावथि खालामबाय">
+<!ENTITY aboutSupport.extensionVersion "लिरस्लायनाय">
+<!ENTITY aboutSupport.extensionId "ID">
+
+<!ENTITY aboutSupport.experimentsTitle "आनजाद नायग्रा आखुथाय">
+<!ENTITY aboutSupport.experimentName "मुं">
+<!ENTITY aboutSupport.experimentId "ID">
+<!ENTITY aboutSupport.experimentDescription "बेखेवनाय">
+<!ENTITY aboutSupport.experimentActive "मावथि">
+<!ENTITY aboutSupport.experimentEndDate "जोबनाय अक्ट'">
+<!ENTITY aboutSupport.experimentHomepage "ह'मबिलाइ">
+
+
+<!ENTITY aboutSupport.appBasicsTitle "एप्लिकेसन गुदि">
+<!ENTITY aboutSupport.appBasicsName "मुं">
+<!ENTITY aboutSupport.appBasicsVersion "लिरस्लायनाय">
+
+<!-- LOCALIZATION NOTE (aboutSupport.appBasicsUpdateChannel, aboutSupport.appBasicsUpdateHistory, aboutSupport.appBasicsShowUpdateHistory):
+"Update" is a noun here, not a verb. -->
+<!ENTITY aboutSupport.appBasicsUpdateHistory "आपडेट जारिमिन">
+<!ENTITY aboutSupport.appBasicsShowUpdateHistory "आपडेट जारिमिनखौ दिन्थि">
+
+<!ENTITY aboutSupport.appBasicsProfileDir "प्रफाइल डिरेक्टरि">
+<!-- LOCALIZATION NOTE (aboutSupport.appBasicsProfileDirWinMac):
+This is the Windows- and Mac-specific variant of aboutSupport.appBasicsProfileDir.
+Windows/Mac use the term "Folder" instead of "Directory" -->
+<!ENTITY aboutSupport.appBasicsProfileDirWinMac "प्रफाइल फल्डार">
+
+<!ENTITY aboutSupport.appBasicsEnabledPlugins "हाहोनाय प्लागिनफोर">
+<!ENTITY aboutSupport.appBasicsBuildConfig "बिल्ड बाइजोमहर">
+<!ENTITY aboutSupport.appBasicsUserAgent "बाहायग्रा थान्दै">
+<!ENTITY aboutSupport.appBasicsMemoryUse "मेमरि बाहायनाय">
+<!-- LOCALIZATION NOTE the term "Service Workers" should not be translated. -->
+
+<!ENTITY aboutSupport.appBasicsMultiProcessSupport "माल्टिप्रसेस उइन्ड'स">
+
+<!ENTITY aboutSupport.showDir.label "डिरेक्टरिखौ खेव">
+<!-- LOCALIZATION NOTE (aboutSupport.showMac.label): This is the Mac-specific
+variant of aboutSupport.showDir.label.  This allows us to use the preferred
+"Finder" terminology on Mac. -->
+<!ENTITY aboutSupport.showMac.label "नागिरना दिहुनग्रायाव दिन्थि">
+<!-- LOCALIZATION NOTE (aboutSupport.showWin.label): This is the Windows-specific
+variant of aboutSupport.showDir.label. -->
+<!ENTITY aboutSupport.showWin.label "फल्डारखौ दिन्थि">
+
+<!ENTITY aboutSupport.modifiedKeyPrefsTitle "गोनांथार फोसाबनाय पसन्दफोर">
+<!ENTITY aboutSupport.modifiedPrefsName "मुं">
+<!ENTITY aboutSupport.modifiedPrefsValue "बेसेन">
+<!-- LOCALIZATION NOTE (aboutSupport.userJSTitle, aboutSupport.userJSDescription): user.js is the name of the preference override file being checked. -->
+
+<!ENTITY aboutSupport.userJSTitle "user.js पसन्द">
+<!ENTITY aboutSupport.userJSDescription "नोंथांनि प्रफाइल फल्डारआव मोनसे <a id='prefs-user-js-link'>user.js file</a> दं, जाय पसन्दखौ सोफादेरो, बेफोरो &brandShortName; जों सोरजिजायाखैमोन।">
+
+<!ENTITY aboutSupport.lockedKeyPrefsTitle "गोनांथार लक खालामखानाय पसन्द">
+<!ENTITY aboutSupport.lockedPrefsName "मुं">
+<!ENTITY aboutSupport.lockedPrefsValue "बेसेन">
+
+<!ENTITY aboutSupport.graphicsTitle "ग्राफिक्स">
+
+<!ENTITY aboutSupport.jsTitle "जाभास्क्रिप्ट">
+<!ENTITY aboutSupport.jsIncrementalGC "बारायलांनाय GC">
+
+<!ENTITY aboutSupport.a11yTitle "हाबनो हाथाव">
+<!ENTITY aboutSupport.a11yActivated "मावथि खालामखाबाय">
+<!ENTITY aboutSupport.a11yForceDisabled "हाबनायखौ हेंथा हो">
+
+<!ENTITY aboutSupport.libraryVersionsTitle "बिजाब बाख्रि बिसानफोर">
+
+<!ENTITY aboutSupport.installationHistoryTitle "इनष्टलेसन जारिमिन">
+<!ENTITY aboutSupport.updateHistoryTitle "आपडेट जारिमिन">
+
+<!ENTITY aboutSupport.copyTextToClipboard.label "फराखौ क्लिपबर्डआव कपि खालाम">
+<!ENTITY aboutSupport.copyRawDataToClipboard.label "गोथां डाटाखौ क्लिपबर्डआव कपि खालाम">
+
+<!ENTITY aboutSupport.sandboxTitle "सेन्डबक्स">
+
+

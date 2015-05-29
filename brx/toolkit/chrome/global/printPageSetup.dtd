@@ -1,0 +1,66 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+<!-- extracted from printjoboptions.xul -->
+
+
+<!ENTITY printSetup.title    "बिलाइनि सेटआप">
+
+<!ENTITY basic.tab           "फरमेट आरो उफ्रा">
+
+<!ENTITY formatGroup.label   "फरमेट">
+
+<!ENTITY orientation.label   "अरियेन्टेसन:">
+<!ENTITY portrait.label      "प'र्ट्रेट(P)">
+<!ENTITY portrait.accesskey  "P">
+<!ENTITY landscape.label     "लेण्डस्केप(L)">
+<!ENTITY landscape.accesskey "L">
+
+<!ENTITY scale.label         "स्केल:(S)">
+<!ENTITY scale.accesskey     "S">
+<!ENTITY scalePercent        "&#037;">
+
+<!ENTITY shrinkToFit.label   "बिलाइनि गुवारखौ गोरोब होनो थन्थ्र हो(W)">
+<!ENTITY shrinkToFit.accesskey "W">
+
+<!ENTITY optionsGroup.label  "उफ्राफोर">
+
+<!ENTITY printBG.label       "सावगारिनि उनथिं थानाय (गाब आरो मुसुखा)खौ साफाय">
+<!ENTITY printBG.accesskey   "B">
+
+<!ENTITY advanced.tab        "रुगुं आरो हेडार/फुटार">
+
+<!ENTITY marginGroup.label   "रुगुंफोर (#1)">
+<!ENTITY marginUnits.inches  "इनसि">
+<!ENTITY marginUnits.metric  "मिलिमिटार">
+<!ENTITY marginTop.label     "गोजौ:(T)">
+<!ENTITY marginTop.accesskey "T">
+<!ENTITY marginBottom.label  "गाहाय:(B)">
+<!ENTITY marginBottom.accesskey "B">
+<!ENTITY marginLeft.label    "आगसि:(L)">
+<!ENTITY marginLeft.accesskey "L">
+<!ENTITY marginRight.label   "आगदा:(R)">
+<!ENTITY marginRight.accesskey "R">
+
+<!ENTITY headerFooter.label  "हेडार आरो फुटार">
+
+<!ENTITY hfLeft.label        "आगसि:">
+<!ENTITY hfCenter.label      "मिरु:">
+<!ENTITY hfRight.label       "आगदा:">
+<!ENTITY headerLeft.tip      "आगसि हेडार">
+<!ENTITY headerCenter.tip    "मिरु हेडार">
+<!ENTITY headerRight.tip     "आगदा हेडार">
+<!ENTITY footerLeft.tip      "आगसि फुटार">
+<!ENTITY footerCenter.tip    "मिरु फुटार">
+<!ENTITY footerRight.tip     "आगदा फुटार">
+
+<!ENTITY hfTitle             "बिमुं">
+<!ENTITY hfURL               "URL">
+<!ENTITY hfDateAndTime       "अक्‍त'/सम">
+<!ENTITY hfPage              "बिलाइ #">
+<!ENTITY hfPageAndTotal      "# नि # बिलाइ ">
+<!ENTITY hfBlank             "--लांदां--">
+<!ENTITY hfCustom            "कास्टम...">
+
+<!ENTITY customPrompt.title  "कास्टम...">
+<!ENTITY customPrompt.prompt "नोंथांनि कासटम हेडार/फुटार फराय बिजाबखौ हाबहो">

@@ -1,0 +1,28 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY cutCmd.label "दानस'(t)">
+<!ENTITY cutCmd.accesskey "t">
+<!ENTITY copyCmd.label "कपि खालाम(C)">
+<!ENTITY copyCmd.accesskey "C">
+<!ENTITY pasteCmd.label "फोनांजाब हो(P)">
+<!ENTITY pasteCmd.accesskey "P">
+<!ENTITY undoCmd.label "सिगांनि महराव लाबोफिन(U)">
+<!ENTITY undoCmd.accesskey "U">
+<!ENTITY selectAllCmd.label "गासैबो सायख(A)">
+<!ENTITY selectAllCmd.accesskey "A">
+<!ENTITY deleteCmd.label "खोमोर (D)">
+<!ENTITY deleteCmd.accesskey "D">
+
+<!ENTITY spellAddToDictionary.label "सोदोब बिहुंआव दाजाबदेर(o)">
+<!ENTITY spellAddToDictionary.accesskey "o">
+<!ENTITY spellUndoAddToDictionary.label "सोदोब बिहुंआव दाजाबदेरनो आनडु खालाम(n)">
+<!ENTITY spellUndoAddToDictionary.accesskey "n">
+<!ENTITY spellCheckToggle.label "बानान आनजाद">
+<!ENTITY spellCheckToggle.accesskey "g">
+<!ENTITY spellNoSuggestions.label "(जेबो बानान बोसोन होयाखै)">
+<!ENTITY spellDictionaries.label "राव">
+<!ENTITY spellDictionaries.accesskey "L">
+
+<!ENTITY searchTextBox.clear.label "खोमोर">
