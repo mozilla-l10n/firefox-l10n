@@ -92,7 +92,7 @@
 <!-- LOCALIZATION NOTE (profilerUI.newtab.tooltiptext): The tooltiptext shown
   -  on the "+" (new tab) button for a profile when a selection is available. -->
 
-<!ENTITY profilerUI.newtab.tooltiptext "Adicionar nova aba da seleção">
+<!ENTITY profilerUI.newtab.tooltiptext "Adicionar uma nova aba da seleção">
 <!-- LOCALIZATION NOTE (profilerUI.toolbar.filter.tooltiptext): This string
   -  is displayed next to the filter button-->
 

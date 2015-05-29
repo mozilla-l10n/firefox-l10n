@@ -54,7 +54,7 @@
 <!ENTITY cmd.open_window.accesskey       "A">
 <!ENTITY cmd.open_private_window.label     "Abrir em uma nova janela privativa">
 <!ENTITY cmd.open_private_window.accesskey "p">
-<!ENTITY cmd.open_tab.label              "Abrir em nova aba">
+<!ENTITY cmd.open_tab.label              "Abrir em uma nova aba">
 <!ENTITY cmd.open_tab.accesskey          "b">
 <!ENTITY cmd.open_all_in_tabs.label      "Abrir tudo em abas">
 <!ENTITY cmd.open_all_in_tabs.accesskey  "A">

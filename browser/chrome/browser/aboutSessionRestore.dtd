@@ -12,7 +12,7 @@
 <!ENTITY restorepage.restoreSome    "Removendo uma ou mais abas que suspeite estarem causando o problema">
 <!ENTITY restorepage.startNew       "Iniciar uma sessão totalmente nova">
 
-<!ENTITY restorepage.tryagainButton "Restaurar abas selecionadas">
+<!ENTITY restorepage.tryagainButton "Restaurar">
 <!ENTITY restorepage.restore.access "R">
 <!ENTITY restorepage.closeButton    "Fechar">
 <!ENTITY restorepage.close.access   "C">
