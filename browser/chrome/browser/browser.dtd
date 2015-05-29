@@ -80,7 +80,7 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY navbarCmd.label "Barra de navegação">
 <!ENTITY personalbarCmd.label "Barra de favoritos">
 <!ENTITY personalbarCmd.accesskey "r">
-
+<!ENTITY bookmarksToolbarItem.label "Itens da barra de favoritos">
 
 <!ENTITY toolbarContextMenu.reloadAllTabs.label "Recarregar todas as abas">
 <!ENTITY toolbarContextMenu.reloadAllTabs.accesskey "t">
