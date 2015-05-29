@@ -4,9 +4,9 @@
 
 <!ENTITY addons.windowTitle "Administrador de complementos">
 <!ENTITY search.placeholder "Buscar todos los complementos">
-<!ENTITY search.buttonlabel					"Buscar">
-<!ENTITY search.commandkey					"f">
-<!ENTITY loading.label "Cargando…">
+<!ENTITY search.buttonlabel	"Buscar">
+<!ENTITY search.commandkey	"f">
+<!ENTITY loading.label		"Cargando…">
 <!ENTITY listEmpty.installed.label "No tiene instalado ningún complemento de este tipo">
 <!ENTITY listEmpty.availableUpdates.label "No se encontraron actualizaciones">
 <!ENTITY listEmpty.recentUpdates.label "No ha habido actualizaciones recientes de ningún complemento">
@@ -18,6 +18,8 @@
 <!ENTITY toolsMenu.tooltip "Herramientas para todos los complementos">
 <!ENTITY cmd.back.tooltip "Retroceder una página">
 <!ENTITY cmd.forward.tooltip "Avanzar una página">
+<!ENTITY showUnsignedExtensions.button.label  "Algunas extensiones no pudieron ser verificadas">
+<!ENTITY showAllExtensions.button.label       "Mostrar todas las extensiones">
 <!ENTITY warning.safemode.label "Todos los complementos fueron deshabilitados por el modo seguro.">
 <!ENTITY warning.checkcompatibility.label "La verificación de compatibilidad de complementos está deshabilitada. Puede tener complementos incompatibles.">
 <!ENTITY warning.checkcompatibility.enable.label "Habilitar">
@@ -162,15 +164,12 @@
 <!ENTITY eula.height "400px">
 <!ENTITY eula.accept "Aceptar e Instalar…">
 <!ENTITY settings.path.button.label "Examinar…">
-
 <!ENTITY experiment.info.label "¿Qué es? Telemetría instalará y ejecutará experimentos de vez en cuando.">
 <!ENTITY experiment.info.learnmore "Aprender más">
 <!ENTITY experiment.info.learnmore.accesskey "n">
 <!ENTITY experiment.info.changetelemetry "Ajustes de Telemetría">
 <!ENTITY experiment.info.changetelemetry.accesskey "T">
-
 <!ENTITY setting.learnmore "Aprender más…">
-
 <!ENTITY disabledUnsigned.heading "Algunos complementos han sido desactivados">
 <!ENTITY disabledUnsigned.description.start "Los siguientes complementos no han sido verificados para ser usados en &brandShortName;. Puede ">
 <!ENTITY disabledUnsigned.description.findAddonsLink "buscar reemplazos">

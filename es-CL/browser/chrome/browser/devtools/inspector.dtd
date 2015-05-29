@@ -42,6 +42,8 @@
 <!ENTITY inspectorSearchHTML.label2         "Buscar con selectores CSS">
 <!ENTITY inspectorSearchHTML.key            "F">
 
+<!ENTITY inspectorSearchHTML.label3 "Buscar HTML">
+
 <!ENTITY inspectorCopyImageDataUri.label       "Copiar URL de datos de la imagen">
 
 <!ENTITY inspectorShowDOMProperties.label       "Mostrar propiedades DOM">
