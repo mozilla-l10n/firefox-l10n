@@ -31,8 +31,8 @@
 <!ENTITY button.addFeed.accesskey    "N">
 <!ENTITY button.editFeed.label       "Atualizar">
 <!ENTITY button.editFeed.accesskey   "A">
-<!ENTITY button.removeFeed.label     "Excluir">
-<!ENTITY button.removeFeed.accesskey "x">
+<!ENTITY button.removeFeed.label     "Remover">
+<!ENTITY button.removeFeed.accesskey "R">
 <!ENTITY button.importOPML.label     "Importar">
 <!ENTITY button.importOPML.accesskey "I">
 <!ENTITY button.exportOPML.label     "Exportar">

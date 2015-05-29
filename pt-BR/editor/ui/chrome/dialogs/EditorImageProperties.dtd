@@ -43,8 +43,8 @@
 <!-- These controls are in the Image Map box of the expanded area -->
 
 <!ENTITY imagemapBox.label "Mapa de imagem">
-<!ENTITY removeImageMapButton.label "Excluir">
-<!ENTITY removeImageMapButton.accessKey "x">
+<!ENTITY removeImageMapButton.label "Remover">
+<!ENTITY removeImageMapButton.accessKey "R">
 <!-- These are the options for image alignment -->
 
 <!ENTITY alignment.label "Alinhamento do texto">

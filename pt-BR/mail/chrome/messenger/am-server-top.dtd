@@ -48,7 +48,7 @@
 <!ENTITY modelMoveToTrash.accesskey "o">
 <!ENTITY modelMarkDeleted.label "Somente marcar como excluída">
 <!ENTITY modelMarkDeleted.accesskey "S">
-<!ENTITY modelDeleteImmediately.label "Excluir imediatamente">
+<!ENTITY modelDeleteImmediately.label "Remover imediatamente">
 <!ENTITY modelDeleteImmediately.accesskey "d">
 <!-- LOCALIZATION NOTE (expungeOnExit.label) : do not translate two of "&quot;" in below line -->
 <!ENTITY expungeOnExit.label "Limpar a pasta “Entrada” ao sair">
