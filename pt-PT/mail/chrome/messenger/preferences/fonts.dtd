@@ -49,7 +49,7 @@
 <!ENTITY  font.langGroup.oriya                    "Oriya">
 <!ENTITY  font.langGroup.telugu                   "Telugu">
 <!ENTITY  font.langGroup.kannada                  "Kannada">
-<!ENTITY  font.langGroup.sinhala                  "Sinhala">
+<!ENTITY  font.langGroup.sinhala                  "Cingalês">
 <!ENTITY  font.langGroup.tibetan                  "Tibetano">
 <!-- Minimum font size -->
 <!ENTITY minSize.label                            "Tamanho mínimo da letra:">
