@@ -75,7 +75,7 @@
 
 <!ENTITY  securityView.privacy.header                   "Privacidade e histórico">
 <!ENTITY  securityView.privacy.history                  "Visitei este sítio antes de hoje?">
-<!ENTITY  securityView.privacy.cookies                  "Este sítio web está a guardar cookies no meu computador?">
+<!ENTITY  securityView.privacy.cookies                  "Este sítio web está a guardar informação (cookies) no meu computador?">
 <!ENTITY  securityView.privacy.viewCookies              "Ver cookies">
 <!ENTITY  securityView.privacy.viewCookies.accessKey    "k">
 <!ENTITY  securityView.privacy.passwords                "Guardei alguma palavra-passe para este sítio web?">
