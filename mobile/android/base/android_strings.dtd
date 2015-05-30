@@ -5,8 +5,8 @@
 <!ENTITY  no_space_to_start_error "&brandShortName; ਸ਼ੁਰੂ ਕਰਨ ਲਈ ਲੋੜੀਦੀ ਥਾਂ ਉਪਲੱਬਧ ਨਹੀਂ ਹੈ">
 <!ENTITY  error_loading_file "&brandShortName; ਨੂੰ ਚਲਾਉਣ ਲਈ ਲੋੜੀਦੀਆਂ ਫਾਈਲਾਂ ਲੋਡ ਕਰਨ ਦੀ ਕੋਸ਼ਿਸ਼ ਦੇ ਦੌਰਾਨ ਗਲਤੀ ਆਈ ਹੈ।">
 
-<!ENTITY  onboard_start_message2 "&brandShortName; ਉੱਤੇ ਜੀ ਆਇਆਂ ਨੂੰ">
-<!ENTITY  onboard_start_subtext2 "ਪਰਦੇਦਾਰੀ ਅਤੇ ਪਹਿਲਾਂ ਨਾਲੋਂ ਕਿਤੇ ਵੱਧ ਮਨਪਸੰਦ ਬਣਾਉਣ ਦੇ ਢੰਗਾਂ ਨਾਲ।">
+<!ENTITY  onboard_start_message3 "&brandShortName; ਨਾਲ ਬਰਾਊਜ਼ ਕਰੋ">
+<!ENTITY  onboard_start_subtext3 "Make your mobile Web browsing experience truly your own.">
 <!ENTITY  onboard_start_button_account "&brandShortName; ਵਿੱਚ ਸਾਇਨ ਇਨ ਕਰੋ">
 <!ENTITY  onboard_start_button_browser "ਬਰਾਊਜ਼ ਕਰਨਾ ਸ਼ੁਰੂ ਕਰੋ">
 
@@ -40,6 +40,7 @@
 <!ENTITY url_bar_default_text2 "ਲੱਭੋ ਜਾਂ ਸਿਰਨਾਵਾਂ ਦਿਓ">
 
 <!ENTITY bookmark "ਬੁੱਕਮਾਰਕ">
+<!ENTITY bookmark_remove "Remove bookmark">
 <!ENTITY bookmark_added "ਬੁੱਕਮਾਰਕ ਜੋੜਿਆ">
 <!ENTITY bookmark_removed "ਬੁੱਕਮਾਰਕ ਹਟਾਇਆ">
 <!ENTITY bookmark_updated "ਬੁੱਕਮਾਰਕ ਅੱਪਡੇਟ ਕੀਤਾ">
@@ -78,6 +79,7 @@
 <!ENTITY pref_category_advanced "ਤਕਨੀਕੀ">
 <!ENTITY pref_category_customize "ਪਸੰਦ">
 <!ENTITY pref_category_customize_summary "ਘਰ, ਖੋਜ, ਟੈਬਾਂ, ਦਰਾਮਦ">
+<!ENTITY pref_category_customize_alt_summary "Home, search, tabs, open later, import">
 
 <!-- Localization note (pref_category_language) : This is the preferences
      section in which the user picks the locale in which to display Firefox
@@ -111,8 +113,18 @@
      to. -->
 <!ENTITY overlay_share_send_tab_btn_label "ਹੋਰ ਯੰਤਰ ਨੂੰ ਭੇਜੋ">
 <!ENTITY overlay_share_no_url "ਇਹ ਸਾਂਝ ਵਿੱਚ ਕੋਈ ਲਿੰਕ ਨਹੀਂ ਮਿਲਿਆ">
-<!ENTITY overlay_share_retry "ਮੁੜ ਕੋਸ਼ਿਸ਼ ਕਰੋ">
 <!ENTITY overlay_share_select_device "ਯੰਤਰ ਚੁਣੋ">
+<!-- Localization note (overlay_no_synced_devices) : Used when the menu option
+     to send a tab to a synced device is pressed and no other synced devices
+     are found. -->
+<!ENTITY overlay_no_synced_devices "No Firefox Account connected devices found">
+<!-- Localization note (overlay_share_tab_not_sent) : Used when the menu option
+     to send a tab to a synced device is pressed and there is an error
+     connecting to the server so the tab could not be sent. The text should be
+     divided into two lines (use the newline escape character, "\n", between
+     them): the first notifying the user about the failure and the second
+     telling the user what to do about it. -->
+<!ENTITY overlay_share_tab_not_sent "Your tab could not be sent.\nPlease try again later.">
 
 <!ENTITY pref_category_search3 "ਖੋਜ">
 <!ENTITY pref_category_search_summary "ਤੁਹਾਡੇ ਖੋਜ ਉਪਲੱਬਧ ਕਰਵਾਉਣ ਵਾਲਿਆਂ ਦੀ ਪਸੰਦ">
@@ -133,9 +145,10 @@
      it is applicable. -->
 <!ENTITY pref_search_hint "ਟੋਟਕਾ: ਕਿਸੇ ਵੀ ਵੈੱਬਸਾਈਟ ਨੂੰ ਖੋਜ ਉਪਲੱਬਧ ਕਰਵਾਉਣ ਵਾਲਿਆਂ ਦੀ ਆਪਣੀ ਸੂਚੀ ਵਿੱਚ ਇਸ ਦੇ ਖੋਜ ਖੇਤਰ ਨੂੰ ਲੰਮਾ ਸਮਾਂ ਦਬਾ ਕੇ ਰੱਖ ਕੇ ਅਤੇ ਫੇਰ &formatI; ਆਈਕਾਨ ਛੂਹ ਕੇ ਜੋੜੋ">
 <!ENTITY pref_category_devtools "ਡਿਵੈਲਪਰ ਟੂਲ">
-<!ENTITY pref_developer_paint_flashing "ਪੇਂਟ ਫਲੈਸ਼ਿੰਗ">
 <!ENTITY pref_developer_remotedebugging "ਰਿਮੋਟ ਡੀਬੱਗ ਕਰਨਾ">
+<!ENTITY pref_category_logins "Logins">
 <!ENTITY pref_remember_signons "ਪਾਸਵਰਡ ਯਾਦ ਰੱਖੋ">
+<!ENTITY pref_manage_logins "Manage logins">
 
 <!ENTITY pref_category_home "ਮੁੱਖ-ਸਫ਼ਾ">
 <!ENTITY pref_category_home_summary "ਆਪਣਾ ਮੁੱਖ-ਸਫ਼ਾ ਪਸੰਦੀਦਾ ਬਣਾਓ">
@@ -179,8 +192,6 @@
      it is applicable. -->
 <!ENTITY pref_search_hint "ਗੁਰ: ਕਿਸੇ ਵੀ ਵੈੱਬਸਾਈਟ ਨੂੰ ਆਪਣੇ ਖੋਜ ਉਪਲੱਬਧ ਕਰਵਾਉਣ ਵਾਲੀਆਂ ਦੀ ਸੂਚੀ ਵਿੱਚ ਇਸ ਦੇ ਖੋਜ ਖੇਤਰ ਵਿੱਚ ਲੰਮਾ ਸਮਾਂ ਦਬਾਈ ਰੱਖਣ ਦੇ ਬਾਅਦ &formatI; ਆਈਕਾਨ ਨੂੰ ਕਲਿੱਕ ਕਰਕੇ ਜੋੜੋ">
 <!ENTITY pref_category_devtools "ਡਿਵੈਲਪਰ ਟੂਲ">
-<!ENTITY pref_category_devtools_summary "ਰਿਮੋਟ ਡੀਬੱਗ ਕਰਨਾ, ਪੇਂਟ ਫਲੈਸ਼ ਕਰਨਾ">
-<!ENTITY pref_developer_paint_flashing "ਪੇਂਟ ਫੈਲਸ਼ਨ ਕਰਨਾ">
 <!ENTITY pref_developer_remotedebugging "ਰਿਮੋਟ ਡੀਬੱਗ ਕਰਨਾ">
 
 <!ENTITY pref_remember_signons "ਪਾਸਵਰਡ ਯਾਦ ਰੱਖੋ">
@@ -205,6 +216,23 @@
 
 <!ENTITY pref_donottrack_title "ਟਰੈਕ ਨਾ ਕਰੋ">
 <!ENTITY pref_donottrack_summary "&brandShortName; ਸਾਈਟਾਂ ਨੂੰ ਦੱਸੇਗਾ ਕਿ ਤੁਸੀਂ ਟਰੈਕ ਨਹੀਂ ਕੀਤੇ ਜਾਣਾ ਚਾਹੁੰਦੇ ਹੋ">
+
+<!ENTITY tab_queue_toast_message2 "Tab queued in &brandShortName;">
+<!ENTITY tab_queue_toast_action "ਹੁਣ ਖੋਲ੍ਹੋ">
+<!ENTITY tab_queue_prompt_title "Opening multiple links?">
+<!ENTITY tab_queue_prompt_text2 "Open them without switching to &brandShortName; each time.">
+<!ENTITY tab_queue_prompt_tip_text "you can change this later in Settings">
+<!ENTITY tab_queue_prompt_positive_action_button "Enable">
+<!ENTITY tab_queue_prompt_negative_action_button "Not now">
+<!ENTITY tab_queue_notification_title "&brandShortName;">
+<!-- Localization note (tab_queue_notification_text_plural2) : The
+     formatD is replaced with the number of tabs queued.  The
+     number of tabs queued is always more than one.  We can't use
+     Android plural forms, sadly. See Bug #753859. -->
+<!ENTITY tab_queue_notification_text_plural2 "&formatD; ਟੈਬਾਂ ਉਡੀਕ ਵਿੱਚ">
+<!-- Localization note (tab_queue_notification_text_singular2) : This is the
+     text of a notification; we expect only one tab queued. -->
+<!ENTITY tab_queue_notification_text_singular2 "1 ਟੈਬ ਉਡੀਕ ਵਿੱਚ">
 
 <!ENTITY pref_char_encoding "ਅੱਖਰ ਇੰਕੋਡਿੰਗ">
 <!ENTITY pref_char_encoding_on "ਮੇਨੂ ਵੇਖਾਓ">
@@ -253,7 +281,8 @@ size. -->
 <!ENTITY pref_import_android "ਐਂਡਰਾਇਡ ਤੋਂ ਦਰਾਮਦ ਕਰੋ">
 <!ENTITY pref_import_android_summary "ਮੂਲ ਬਰਾਊਜ਼ਰ ਤੋਂ ਬੁੱਕਮਾਰਕ ਤੇ ਅਤੀਤ ਦਰਾਮਦ ਕਰੋ">
 <!ENTITY pref_private_data_history2 "ਬਰਾਊਜ਼ਿੰਗ ਅਤੀਤ">
-<!ENTITY pref_private_data_formdata "ਫਾਰਮ ਤੇ ਖੋਜ ਅਤੀਤ">
+<!ENTITY pref_private_data_searchHistory "ਖੋਜ ਅਤੀਤ">
+<!ENTITY pref_private_data_formdata2 "ਫਾਰਮ ਅਤੀਤ">
 <!ENTITY pref_private_data_cookies2 "ਕੂਕੀਜ਼ ਤੇ ਸਰਗਰਮ ਲਾਗਇਨ">
 <!ENTITY pref_private_data_passwords "ਸੰਭਾਲੇ ਪਾਸਵਰਡ">
 <!ENTITY pref_private_data_cache "ਕੈਸ਼">
@@ -302,7 +331,7 @@ size. -->
      (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
 <!ENTITY datareporting_crashreporter_title_short "ਕਰੈਸ਼ ਰਿਪੋਰਟਰ">
 <!ENTITY datareporting_wifi_title2 "&vendorShortName; ਟਿਕਾਣਾ ਸੇਵਾ">
-<!ENTITY datareporting_wifi_geolocation_summary3 "Help &vendorShortName; map the world! Share approximate Wi-Fi and cellular location of your device to improve our geolocation service">
+<!ENTITY datareporting_wifi_geolocation_summary4 "Help &vendorShortName; map the world! Share the approximate Wi-Fi and cellular location of your device to improve our geolocation service.">
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
      actual notification that an update is available. -->
@@ -317,6 +346,7 @@ size. -->
 <!ENTITY quit "ਬੰਦ ਕਰੋ">
 
 <!ENTITY addons "ਐਡ-ਆਨ">
+<!ENTITY logins "ਲਾਗਇਨ">
 <!ENTITY downloads "ਡਾਊਨਲੋਡ">
 <!ENTITY apps "ਐਪਸ">
 <!ENTITY char_encoding "ਅੱਖਰ ਇੰਕੋਡਿੰਗ">
@@ -371,6 +401,17 @@ size. -->
 <!ENTITY contextmenu_top_sites_unpin "ਸਾਈਟ ਪਿੰਨ ਹਟਾਓ">
 <!ENTITY contextmenu_add_search_engine "ਖੋਜ ਇੰਜਣ ਜੋੜੋ">
 
+<!-- Localization note (doorhanger_login_no_username): This string is used in the save-login doorhanger
+     where normally a username would be displayed. In this case, no username was found, and this placeholder
+     contains brackets to indicate this is not actually a username, but rather a placeholder -->
+<!ENTITY doorhanger_login_no_username "[ਕੋਈ ਵਰਤੋਂਕਾਰ-ਨਾਂ ਨਹੀਂ]">
+<!ENTITY doorhanger_login_edit_title "ਲਾਗਇਨ ਸੋਧੋ">
+<!ENTITY doorhanger_login_edit_username_hint "ਵਰਤੋਂਕਾਰ-ਨਾਂ">
+<!ENTITY doorhanger_login_edit_password_hint "ਪਾਸਵਰਡ">
+<!ENTITY doorhanger_login_edit_toggle "Show password">
+<!ENTITY doorhanger_login_edit_toast_error "Failed to save login">
+
+
 <!ENTITY pref_titlebar_mode "ਟਾਈਟਲ ਪੱਟੀ">
 <!ENTITY pref_titlebar_mode_title "ਸਫ਼ਾ ਟਾਈਟਲ ਵੇਖਾਓ">
 <!ENTITY pref_titlebar_mode_url "ਸਫ਼ਾ ਸਿਰਨਾਵਾਂ ਵੇਖਾਓ">
@@ -380,6 +421,9 @@ size. -->
 <!ENTITY pref_scroll_title_bar2 "ਪੂਰੀ ਸਕਰੀਨ ਉੱਤੇ ਬਰਾਊਜ਼ਿੰਗ">
 <!ENTITY pref_scroll_title_bar_summary "ਸਫ਼ੇ ਨੂੰ ਹੇਠਾਂ ਸਕਰਾਉਣ ਦੇ ਦੌਰਾਨ &brandShortName; ਟਾਈਟਲ ਪੱਟੀ ਓਹਲੇ ਕਰੋ">
   
+<!ENTITY pref_tab_queue_title2 "ਕਈ ਲਿੰਕ ਖੋਲ੍ਹੋ">
+<!ENTITY pref_tab_queue_summary2 "Queue links for later instead of switching to &brandShortName; each time">
+
 <!-- Localization note (page_removed): This string appears in a toast message when
      any page is removed frome about:home. This includes pages that are in history,
      bookmarks, or reading list. -->
@@ -427,6 +471,10 @@ size. -->
 <!ENTITY button_clear_data "ਡਾਟਾ ਸਾਫ਼ ਕਰੋ">
 <!ENTITY button_set "ਸੈੱਟ">
 <!ENTITY button_clear "ਸਾਫ਼">
+<!ENTITY button_remember "ਯਾਦ ਰੱਖੋ">
+
+<!ENTITY firstrun_panel_title_welcome "ਜੀ ਆਇਆਂ ਨੂੰ">
+
 
 <!ENTITY home_top_sites_title "ਚੋਟੀ ਦੀਆਂ ਸਾਈਟਾਂ">
 <!-- Localization note (home_top_sites_add): This string is used as placeholder
@@ -545,7 +593,15 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY bookmarkhistory_import_history "ਐਂਡਰਾਇਡ ਤੋਂ ਅਤੀਤ ਲਿਆ ਜਾ ਰਿਹਾ ਹੈ">
 <!ENTITY bookmarkhistory_import_wait "...ਉਡੀਕੋ ਜੀ">
 
+
 <!ENTITY suggestions_prompt3 "ਕੀ ਤੁਸੀਂ ਖੋਜ ਸੁਝਾਅ ਪ੍ਰਾਪਤ ਕਰਨੇ ਚਾਲੂ ਕਰਨਾ ਚਾਹੁੰਦੇ ਹੋ?">
+<!--  Localization note (search_bar_item_desc): When the user clicks the url bar
+      and starts typing, a list of icons of search engines appears at the bottom
+      of the screen. When a user clicks an icon, the entered text will be searched
+      via the search engine that uses the icon they clicked. This text is used
+      for screen reader users when they hover each icon - &formatS; will be
+      replaced with the name of the currently highlighted icon. -->
+<!ENTITY search_bar_item_desc "&formatS; ਨਾਲ ਖੋਜ ਕਰੋ">
 
 <!-- Localization note (suggestion_for_engine): The placeholder &formatS1; will be
      replaced with the name of the search engine. The placeholder &formatS2; will be
@@ -568,8 +624,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY updater_apply_title2 "&brandShortName; ਲਈ ਅੱਪਡੇਟ ਉਪਲੱਬਧ ਹੈ">
 <!ENTITY updater_apply_select2 "ਅੱਪਡੇਟ ਕਰਨ ਲਈ ਛੂਹੋ">
 
-
-
 <!-- Guest mode -->
 <!ENTITY new_guest_session "ਨਵਾਂ ਮਹਿਮਾਨ ਸ਼ੈਸ਼ਨ">
 <!ENTITY exit_guest_session "ਮਹਿਮਾਨ ਸ਼ੈਸ਼ਨ ਬੰਦ ਕਰੋ">
@@ -589,6 +643,14 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      traditions in your locale. -->
 <!ENTITY ellipsis "…">
 <!ENTITY colon ":">
+
+<!-- LOCALIZATION NOTE (percent): The percent sign is appended after a number to
+     display a percentage value. formatS is the number, #37 is the code to display a percent sign.
+     This format string is typically used by getString method, in such method the percent sign
+     is a reserved caracter. In order to display one percent sign in the result of getString,
+     double percent signs must be inserted in the format string.
+     This entity is used in the zoomed view to display the zoom factor-->
+<!ENTITY percent "&formatS;&#37;&#37;">
 
 <!-- These are only used for accessiblity for the done and overflow-menu buttons in the actionbar.
      They are never shown to users -->
