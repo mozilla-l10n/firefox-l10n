@@ -4,6 +4,7 @@
 
 <!ENTITY itemFormatting.label "Форматирование">
 <!ENTITY itemTags.label "Метки">
+<!ENTITY itemAdvanced.label "Дополнительно">
 <!ENTITY style.label "Стиль:">
 <!ENTITY style.accesskey "л">
 <!ENTITY regularStyle.label "Обычный">
@@ -37,3 +38,23 @@
 <!ENTITY fontOptions.label "Дополнительно…">
 <!ENTITY colorButton.label "Цвета…">
 <!ENTITY colorButton.accesskey "а">
+<!ENTITY reading.caption "Чтение">
+<!ENTITY display.caption "Отображение">
+<!ENTITY showCondensedAddresses.label "Показывать только имя для людей, находящихся в моей адресной книге">
+<!ENTITY showCondensedAddresses.accesskey "к">
+<!ENTITY autoMarkAsRead.label "Автоматически отмечать сообщения как прочитанные">
+<!ENTITY autoMarkAsRead.accesskey "в">
+<!ENTITY markAsReadNoDelay.label "Немедленно при просмотре">
+<!ENTITY markAsReadNoDelay.accesskey "м">
+<!ENTITY markAsReadDelay.label "После просмотра в течение">
+<!ENTITY markAsReadDelay.accesskey "т">
+<!ENTITY secondsLabel.label "сек.">
+<!ENTITY openMsgIn.label "Открывать сообщения в:">
+<!ENTITY openMsgInNewTab.label "новой вкладке">
+<!ENTITY openMsgInNewTab.accesskey "к">
+<!ENTITY reuseExpRadio0.label "новом окне">
+<!ENTITY reuseExpRadio0.accesskey "о">
+<!ENTITY reuseExpRadio1.label "уже существующем окне">
+<!ENTITY reuseExpRadio1.accesskey "ж">
+<!ENTITY closeMsgOnMoveOrDelete.label "Закрывать окно/вкладку сообщения при его перемещении или удалении">
+<!ENTITY closeMsgOnMoveOrDelete.accesskey "к">

@@ -33,6 +33,7 @@
 <!ENTITY bookmark "Закладка">
 <!ENTITY bookmark_remove "Удалить закладку">
 <!ENTITY bookmark_added "Закладка добавлена">
+<!ENTITY bookmark_already_added "Уже в закладках">
 <!ENTITY bookmark_removed "Закладка удалена">
 <!ENTITY bookmark_updated "Закладка обновлена">
 <!ENTITY bookmark_options "Настройки">
@@ -96,9 +97,11 @@
 <!ENTITY pref_developer_remotedebugging "Удалённый отладчик">
 <!ENTITY pref_category_logins "Пароли">
 <!ENTITY pref_remember_signons "Запоминать пароли">
+<!ENTITY pref_open_external_urls_privately_title "Открывать ссылки в приватном просмотре">
+<!ENTITY pref_open_external_urls_privately_summary "Для всех внешних ссылок, открытых в &brandShortName;">
 <!ENTITY pref_manage_logins "Управление паролями">
 <!ENTITY pref_category_home "Дом">
-<!ENTITY pref_category_home_summary "Настройка вашей домашней страницы">
+<!ENTITY pref_category_home_summary "Настройка домашней страницы">
 <!ENTITY pref_category_home_panels "Панели">
 <!ENTITY home_add_panel_title "Добавить новую панель">
 <!ENTITY home_add_panel_empty "К сожалению, мы не смогли найти ни одной панели для добавления.">
