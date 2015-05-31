@@ -133,9 +133,9 @@
 
 <!ENTITY event.invite.attendees.label                     "Ftoni Pjesëmarrës…">
 <!ENTITY event.invite.attendees.accesskey                 "F">
-<!ENTITY event.email.attendees.label                      "Hartoni E-Mail për Tërë Pjesëmarrësit…">
+<!ENTITY event.email.attendees.label                      "Hartoni Email për Tërë Pjesëmarrësit…">
 <!ENTITY event.email.attendees.accesskey                  "T">
-<!ENTITY event.email.tentative.attendees.label            "Hartoni E-Mail për Pjesëmarrësit e Pavendosur…">
+<!ENTITY event.email.tentative.attendees.label            "Hartoni Email për Pjesëmarrësit e Pavendosur…">
 <!ENTITY event.email.tentative.attendees.accesskey        "v">
 
 <!-- Toolbar -->
