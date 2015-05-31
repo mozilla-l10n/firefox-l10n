@@ -15,16 +15,16 @@
      Also note the leading/trailing whitespace in strings here, which is
      deliberate for formatting around the embedded links. -->
 
-<!ENTITY rights.intro-point1a "O &brandShortName; está disponível para você de acordo com os termos da ">
+<!ENTITY rights.intro-point1a "O &brandShortName; é disponibilizado de acordo com os termos da ">
 <!ENTITY rights.intro-point1b "Licença Pública Mozilla">
-<!ENTITY rights.intro-point1c ". Isso significa que você pode usar, copiar e distribuir o &brandShortName; para outras pessoas. Você também é bem-vindo para modificar como quiser o código-fonte do &brandShortName; para atender às suas necessidades. A Licença Pública Mozilla também lhe dá o direito de distribuir as suas versões modificadas.">
+<!ENTITY rights.intro-point1c ". Isso significa que pode usar, copiar e distribuir o &brandShortName; para outras pessoas.  Também é bem-vindo para modificar o código-fonte do &brandShortName; para atender suas necessidades. A Licença Pública Mozilla também lhe dá o direito de distribuir as suas versões modificadas.">
 
 <!ENTITY rights.intro-point2a "A Mozilla não lhe concede quaisquer direitos sobre as marcas comerciais ou logotipos Mozilla e Thunderbird. Informações adicionais sobre as marcas comerciais podem ser encontradas ">
 <!ENTITY rights.intro-point2b "aqui">
 <!ENTITY rights.intro-point2c ".">
 <!-- point 3 text for official branded builds -->
 
-<!ENTITY rights.intro-point3a "As políticas de privacidade dos produtos &vendorShortName; podem ser encontradas ">
+<!ENTITY rights.intro-point3a "A política de privacidade dos produtos da &vendorShortName; pode ser encontrada ">
 <!ENTITY rights.intro-point3b "aqui">
 <!ENTITY rights.intro-point3c ".">
 <!-- point 3 text for unbranded builds -->
