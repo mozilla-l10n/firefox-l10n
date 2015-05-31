@@ -192,6 +192,8 @@
 <!ENTITY sortByFromCmd.accesskey "V">
 <!ENTITY sortByRecipientCmd.label "Empfänger">
 <!ENTITY sortByRecipientCmd.accesskey "E">
+<!ENTITY sortByCorrespondentCmd.label "Gegenseite">
+<!ENTITY sortByCorrespondentCmd.accesskey "G">
 <!ENTITY sortByUnreadCmd.label "Gelesen / Ungelesen">
 <!ENTITY sortByUnreadCmd.accesskey "l">
 <!ENTITY sortByOrderReceivedCmd.label "Eingangsreihenfolge">
@@ -658,6 +660,7 @@
 <!ENTITY threadColumn.label "Thema">
 <!ENTITY fromColumn.label "Von">
 <!ENTITY recipientColumn.label "Empfänger">
+<!ENTITY correspondentColumn.label "Gegenseite">
 <!ENTITY subjectColumn.label "Betreff">
 <!ENTITY dateColumn.label "Datum">
 <!ENTITY priorityColumn.label "Priorität">
@@ -680,6 +683,7 @@
 <!ENTITY threadColumn2.tooltip "Themenbäume anzeigen">
 <!ENTITY fromColumn2.tooltip "Nach Von sortieren">
 <!ENTITY recipientColumn2.tooltip "Nach Empfänger sortieren">
+<!ENTITY correspondentColumn2.tooltip "Nach Gegenseite sortieren">
 <!ENTITY subjectColumn2.tooltip "Nach Betreff sortieren">
 <!ENTITY dateColumn2.tooltip "Nach Datum sortieren">
 <!ENTITY priorityColumn2.tooltip "Nach Priorität sortieren">

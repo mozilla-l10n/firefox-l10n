@@ -74,7 +74,7 @@
 <!ENTITY abbreviateOff.label "Abgekürzten Namen (zum Beispiel &quot;n.p.m.mail-news&quot;)">
 <!ENTITY advancedButton.label "Erweitert…">
 <!ENTITY advancedButton.accesskey "w">
-<!ENTITY serverDefaultCharset.label "Standard-Zeichenkodierung:">
+<!ENTITY serverDefaultCharset2.label "Standard-Textkodierung:">
 <!ENTITY localPath.label "Lokaler Ordner:">
 <!ENTITY localFolderPicker.label "Lokalen Ordner wählen:">
 <!ENTITY browseFolder.label "Ordner wählen…">
@@ -86,5 +86,5 @@
 <!ENTITY accountSettingsDesc.label "Dies ist ein besonderes Konto, da keine Identitäten mit ihm verknüpft sind.">
 <!ENTITY storeType.label "Speichermethode:">
 <!ENTITY storeType.accesskey "S">
-<!ENTITY mboxStore.label "Eine Datei pro Ordner (mbox)">
+<!ENTITY mboxStore2.label "Eine Datei pro Ordner (mbox)">
 <!ENTITY maildirStore.label "Eine Datei pro Nachricht (maildir)">
