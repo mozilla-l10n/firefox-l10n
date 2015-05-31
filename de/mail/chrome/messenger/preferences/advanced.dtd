@@ -16,7 +16,7 @@
 <!ENTITY allowHWAccel.accesskey        "H">
 <!ENTITY storeType.label               "Speichermethode für neue Konten:">
 <!ENTITY storeType.accesskey           "m">
-<!ENTITY mboxStore.label               "Eine Datei pro Ordner (mbox)">
+<!ENTITY mboxStore2.label              "Eine Datei pro Ordner (mbox)">
 <!ENTITY maildirStore.label            "Eine Datei pro Nachricht (maildir)">
 
 <!ENTITY scrolling.label               "Bildlauf">
