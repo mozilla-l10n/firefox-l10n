@@ -32,6 +32,8 @@
   Ping">
 <!ENTITY aboutTelemetry.generalDataSection "
   Datos generales">
+<!ENTITY aboutTelemetry.environmentDataSection "
+  Datos de entorno">
 <!ENTITY aboutTelemetry.telemetryLogSection "
   Registro de telemetría">
 <!ENTITY aboutTelemetry.slowSqlSection "
