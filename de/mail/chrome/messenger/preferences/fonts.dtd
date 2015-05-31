@@ -70,10 +70,10 @@
 <!-- Language settings -->
 <!ENTITY sendDefaultCharset.label         "Ausgehende Nachrichten:">
 <!ENTITY sendDefaultCharset.accesskey     "h">
-<!ENTITY languagesTitle1.label            "Zeichenkodierungen">
-<!ENTITY composingDescription.label       "Standard-Zeichenkodierungen für ein- und ausgehende Nachrichten">
+<!ENTITY languagesTitle2.label            "Textkodierungen">
+<!ENTITY composingDescription2.label      "Standard-Textkodierungen für ein- und ausgehende Nachrichten">
 
 <!ENTITY viewDefaultCharsetList.label     "Eingehende Nachrichten:">
 <!ENTITY viewDefaultCharsetList.accesskey "I">
-<!ENTITY replyInDefaultCharset2.label     "Wenn möglich, Standard-Zeichenkodierung für Antworten verwenden">
-<!ENTITY replyInDefaultCharset2.accesskey "W">
+<!ENTITY replyInDefaultCharset3.label     "Wenn möglich, Standard-Textkodierung für Antworten verwenden">
+<!ENTITY replyInDefaultCharset3.accesskey "W">
