@@ -32,7 +32,7 @@
 
 
 
-<!ENTITY emailCollectionPicker.label           "Shto vetvetiu adresë dërgimi e-mail te:">
+<!ENTITY emailCollectionPicker.label           "Shto vetvetiu adresë dërgimi email-i te:">
 <!ENTITY emailCollectionPicker.accesskey       "v">
 <!ENTITY addressingTitle.label                 "Vetëplotësim Adrese">
 <!ENTITY autocompleteText.label                "Kur adresohen mesazhe, shih për zëra përputhjesh te:">

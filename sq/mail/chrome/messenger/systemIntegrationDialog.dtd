@@ -8,7 +8,7 @@
 <!ENTITY cancelIntegration2.label  "Anuloje">
 <!ENTITY defaultClient.intro  "Përdor &brandShortName;-in si klient parazgjedhje për:">
 
-<!ENTITY email.label "E-Mail">
+<!ENTITY email.label "Email">
 <!ENTITY newsgroups.label "Grupe Lajmesh">
 <!ENTITY feeds.label "Prurje">
 
