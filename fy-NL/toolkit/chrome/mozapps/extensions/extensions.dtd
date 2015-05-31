@@ -24,6 +24,9 @@
 <!ENTITY cmd.back.tooltip                     "Gean ien side tebek">
 <!ENTITY cmd.forward.tooltip                  "Gean ien side foarút">
 
+<!ENTITY showUnsignedExtensions.button.label  "Guon útwreidingen koenen net ferifiearre wurde">
+<!ENTITY showAllExtensions.button.label       "Alle útwreidingen toane">
+
 <!-- global warnings -->
 <!ENTITY warning.safemode.label                    "Alle tafoegingen binne útskeakele troch feilige moadus.">
 <!ENTITY warning.checkcompatibility.label          "Kontrole op kompatibileit foar tafoegingen is útskeakele. Jo kinne ynkompatibele tafoegingen hawwe.">
@@ -223,3 +226,18 @@
 <!ENTITY experiment.info.changetelemetry.accesskey "T">
 
 <!ENTITY setting.learnmore "Mear ynfo…">
+
+<!ENTITY disabledUnsigned.heading "Guon add-ons binne útskeakele">
+<!-- LOCALIZATION NOTE (disabledUnsigned.description.start, disabledUnsigned.description.findAddonsLink, disabledUnsigned.description.end):
+     These entities form a sentence, with
+     disabledUnsigned.description.findAddonsLink being a link to an external site. -->
+<!ENTITY disabledUnsigned.description.start "De folgjende add-ons binne net ferifiearre foar gebrûk yn &brandShortName;. Jo kinne ">
+<!ENTITY disabledUnsigned.description.findAddonsLink "nei ferfangingen sykje">
+<!ENTITY disabledUnsigned.description.end " of de ûntwikkeler freegje dizze ferifiearje te litten.">
+<!ENTITY disabledUnsigned.learnMore "Lês mear oer ús besykjen om jo online feilich te hâlden.">
+<!-- LOCALIZATION NOTE (disabledUnsigned.devInfo.start, disabledUnsigned.devInfo.linkToManual, disabledUnsigned.devInfo.end):
+     These entities form a sentence, with disabledUnsigned.devInfo.linkToManual
+     being a link to an external site. -->
+<!ENTITY disabledUnsigned.devInfo.start "Untwikkelers dy't ynteresse hawwe yn it ferifiearjen litten fan harren add-ons kinne fierdergean troch ús ">
+<!ENTITY disabledUnsigned.devInfo.linkToManual "hantlieding">
+<!ENTITY disabledUnsigned.devInfo.end " te lêzen.">
