@@ -4,7 +4,6 @@
 
 <!ENTITY itemGeneral.label       "General">
 <!ENTITY dataChoicesTab.label    "Selección de datos">
-<!ENTITY itemDisplay.label       "Lectura y apariencia">
 <!ENTITY itemUpdate.label        "Actualización">
 <!ENTITY itemNetworking.label    "Red y espacio en disco">
 <!ENTITY itemCertificates.label  "Certificados">
@@ -51,32 +50,6 @@
 <!ENTITY enableCrashReporter.label       "Habilitar informe de fallos">
 <!ENTITY enableCrashReporter.accesskey   "H">
 <!ENTITY crashReporterLearnMore.label    "Conocer más">
-
-<!-- Display and Reading Settings -->
-<!ENTITY reading.caption                "Lectura">
-<!ENTITY display.caption                "Apariencia">
-<!ENTITY showCondensedAddresses.label  "Mostrar solamente el nombre para las personas de mi libreta de direcciones">
-<!ENTITY showCondensedAddresses.accesskey "p">
-
-<!ENTITY autoMarkAsRead.label          "Marcar automáticamente como leído">
-<!ENTITY autoMarkAsRead.accesskey      "A">
-<!ENTITY markAsReadNoDelay.label       "Inmediatamente al mostrarlo">
-<!ENTITY markAsReadNoDelay.accesskey   "d">
-<!-- LOCALIZATION NOTE (markAsReadDelay.label): This will concatenate to
-     "After displaying for [___] seconds",
-     using (markAsReadDelay.label) and a number (secondsLabel.label). -->
-<!ENTITY markAsReadDelay.label         "Después de mostrarlo por ">
-<!ENTITY markAsReadDelay.accesskey     "e">
-<!ENTITY secondsLabel.label            "segundos">
-<!ENTITY openMsgIn.label               "Abrir los menajes en:">
-<!ENTITY openMsgInNewTab.label         "Una nueva pestaña">
-<!ENTITY openMsgInNewTab.accesskey     "t">
-<!ENTITY reuseExpRadio0.label          "Una nueva ventana de mensaje">
-<!ENTITY reuseExpRadio0.accesskey      "U">
-<!ENTITY reuseExpRadio1.label          "Una ventana de mensaje existente">
-<!ENTITY reuseExpRadio1.accesskey      "x">
-<!ENTITY closeMsgOnMoveOrDelete.label  "Cerrar ventana/pestaña del mensaje al mover o borrar">
-<!ENTITY closeMsgOnMoveOrDelete.accesskey "C">
 
 <!-- Update -->
 <!ENTITY updateApp.label                 "Actualizaciones de &brandShortName;:">
