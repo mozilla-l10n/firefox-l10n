@@ -391,7 +391,7 @@ size. -->
 <!ENTITY pref_scroll_title_bar_summary "Titelleiste von &brandShortName; beim Bildlauf der Seite ausblenden">
 
 <!ENTITY pref_tab_queue_title "Später öffnen">
-<!ENTITY pref_tab_queue_summary "Tabs am sofortigen Öffnen hindern. Alle abgelegte Tabs werden beim nächsten Öffnen von &brandShortName; geladen.">
+<!ENTITY pref_tab_queue_summary "Tabs am sofortigen Öffnen hindern. Alle abgelegten Tabs werden beim nächsten Öffnen von &brandShortName; geladen.">
 
 <!-- Localization note (page_removed): This string appears in a toast message when
      any page is removed frome about:home. This includes pages that are in history,
