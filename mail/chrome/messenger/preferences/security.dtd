@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY itemJunk.label          "E pavlerë">
-<!ENTITY itemPhishing.label      "Mashtrime E-mail">
+<!ENTITY itemPhishing.label      "Mashtrime Email">
 <!ENTITY itemPasswords.label     "Fjalëkalime">
 <!ENTITY itemAntiVirus.label     "Anti-Virus">
 

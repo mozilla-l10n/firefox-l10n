@@ -12,7 +12,7 @@
 <!ENTITY reminder.action.label                             "Zgjidhni Veprim Kujtuesi">
 
 <!ENTITY reminder.action.alert.label                       "Shfaq një Sinjalizim">
-<!ENTITY reminder.action.email.label                       "Dërgo një E-mail">
+<!ENTITY reminder.action.email.label                       "Dërgo një Email">
 
 <!ENTITY alarm.units.minutes                               "minuta" >
 <!ENTITY alarm.units.hours                                 "orë" >

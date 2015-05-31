@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY attachmentReminderDialog.title   "Fjalëkyçe Kujtuesi Bashkëngjitjesh">
-<!ENTITY attachKeywordText.label          "&brandShortName;-i do t&apos;ju sinjalizojë rreth bashkëngjitjesh që mungojnë, po qe se jeni duke dërguar një e-mail që përmban ndonjë nga këta fjalëkyçe.">
+<!ENTITY attachKeywordText.label          "&brandShortName;-i do t&apos;ju sinjalizojë rreth bashkëngjitjesh që mungojnë, po qe se jeni duke dërguar një email që përmban ndonjë nga këta fjalëkyçe.">
 <!ENTITY addKeywordButton.label           "Shtoni">
 <!ENTITY addKeywordButton.accesskey       "S">
 <!ENTITY editKeywordButton.label          "Përpunoni">

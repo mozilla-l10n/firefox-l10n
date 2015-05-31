@@ -488,7 +488,7 @@ with that structure, consider a translation which ignores the preceding domain a
 just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_run_by "që i përket">
 <!ENTITY identity_no_info "Ky sajt nuk jep të dhëna identiteti.">
-<!ENTITY identity_not_encrypted "Lidhja juaj me këtë sajt nuk është e koduar.">
+<!ENTITY identity_not_encrypted "Lidhja juaj me këtë sajt nuk është e fshehtëzuar.">
 
 
 <!-- Mixed content notifications in site identity popup -->
