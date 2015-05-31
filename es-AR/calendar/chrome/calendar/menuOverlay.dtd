@@ -35,6 +35,7 @@
 
 <!ENTITY showUnifinderCmd.label                 "Buscar eventos">
 <!ENTITY showUnifinderCmd.accesskey             "v">
+<!ENTITY showUnifinderCmd.tooltip               "Intercambiar vista de búsqueda de eventos">
 
 <!ENTITY calendar.displaytodos.checkbox.label "Mostrar tareas en calendario">
 <!ENTITY calendar.displaytodos.checkbox.accesskey "T">

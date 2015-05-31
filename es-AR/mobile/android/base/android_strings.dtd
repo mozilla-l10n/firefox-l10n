@@ -44,6 +44,10 @@
 <!ENTITY bookmark "Marcador">
 <!ENTITY bookmark_remove "Eliminar marcador">
 <!ENTITY bookmark_added "Marcador agregado">
+<!-- Localization note (bookmark_already_added) : This string is
+     used as a label in a toast. It is the verb "to bookmark", not
+     the noun "a bookmark". -->
+<!ENTITY bookmark_already_added "Ya está marcado">
 <!ENTITY bookmark_removed "Marcador eliminado">
 <!ENTITY bookmark_updated "Marcador actualizado">
 <!ENTITY bookmark_options "Opciones">
@@ -152,6 +156,8 @@
 <!ENTITY pref_developer_remotedebugging "Depuración remota">
 <!ENTITY pref_category_logins "Ingresos">
 <!ENTITY pref_remember_signons "Recordar contraseñas">
+<!ENTITY pref_open_external_urls_privately_title "Abrir enlaces en ventana privada">
+<!ENTITY pref_open_external_urls_privately_summary "Para todos los enlaces externos abiertos en &brandShortName;">
 <!ENTITY pref_manage_logins "Administrar ingresos">
 
 <!ENTITY pref_category_home "Inicio">
