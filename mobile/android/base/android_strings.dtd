@@ -189,10 +189,11 @@
 <!ENTITY pref_donottrack_title "Beni izleme">
 <!ENTITY pref_donottrack_summary "&brandShortName;sitelere izlenmek istemediğinizi söyleyecek">
 
+<!ENTITY tab_queue_toast_message2 "Sekme &brandShortName; kuyruğuna alındı">
 <!ENTITY tab_queue_toast_action "Şimdi aç">
-
-
-
+<!ENTITY tab_queue_prompt_title "Çoklu bağlantı mı açıyorsunuz?">
+<!ENTITY tab_queue_prompt_text2 "Onları her seferinde &brandShortName; tarayıcısına geçmeden açın.">
+<!ENTITY tab_queue_prompt_tip_text "bunu daha sonra Ayarlar\u0027dan değiştirebilisiniz">
 <!ENTITY tab_queue_prompt_positive_action_button "Etkinleştir">
 <!ENTITY tab_queue_prompt_negative_action_button "Şimdi değil">
 <!ENTITY tab_queue_notification_title "&brandShortName;">
@@ -377,7 +378,7 @@ size. -->
 <!ENTITY doorhanger_login_edit_username_hint "Kullanıcı adı">
 <!ENTITY doorhanger_login_edit_password_hint "Parola">
 <!ENTITY doorhanger_login_edit_toggle "Parolayı göster">
-
+<!ENTITY doorhanger_login_edit_toast_error "Hesap kaydedilemedi">
 
 <!ENTITY pref_titlebar_mode "Başlık çubuğu">
 <!ENTITY pref_titlebar_mode_title "Sayfa başlığını göster">
@@ -388,7 +389,8 @@ size. -->
 <!ENTITY pref_scroll_title_bar2 "Tam ekran gezinti">
 <!ENTITY pref_scroll_title_bar_summary "Sayfada aşağı kaydırırken &brandShortName; başlık çubuğunu gizle">
 
-
+<!ENTITY pref_tab_queue_title2 "Çoklu bağlantı aç">
+<!ENTITY pref_tab_queue_summary2 "Her seferinde &brandShortName; tarayıcısına geçmek yerin bağlantıları kuyruğa al">
 <!-- Localization note (page_removed): This string appears in a toast message when
      any page is removed frome about:home. This includes pages that are in history,
      bookmarks, or reading list. -->
