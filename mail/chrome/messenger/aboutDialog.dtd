@@ -36,12 +36,12 @@
 <!ENTITY community.creditsLink      "գլոբալ համայնք, ">
 <!ENTITY community.end3             " որը աշխատում է մեկ նպատակով՝ ապահովել համացանցի հասանելիությունը բոլորի համար:">
 
-<!ENTITY helpus.start               "Օգնության կարի՞ք ունեք: ">
+<!ENTITY helpus.start               "Ցանկանու՞մ եք օգնել: ">
 <!-- LOCALIZATION NOTE (helpus.donateLink): This is a link title that links to the thunderbird donation page -->
 <!ENTITY helpus.donateLink          "Կատարել նվիրատվություն">
 <!ENTITY helpus.middle              " կամ ">
 <!-- LOCALIZATION NOTE (helpus.getInvolvedLink): This is a link title that links to http://www.mozilla.org/contribute/. -->
-<!ENTITY helpus.getInvolvedLink     "Ընդգրկվի՛ր">
+<!ENTITY helpus.getInvolvedLink     "միացեք մեր համայնքին:">
 <!ENTITY helpus.end                 "">
 <!-- LOCALIZATION NOTE (bottomLinks.license): This is a link title that links to about:license. -->
 
