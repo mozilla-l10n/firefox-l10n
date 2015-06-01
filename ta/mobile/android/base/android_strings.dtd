@@ -6,8 +6,8 @@
 <!ENTITY  no_space_to_start_error "&brandShortName; ஐத் தொடங்க போதிய இடம் இல்லை.">
 <!ENTITY  error_loading_file "&brandShortName; ஐ இயக்க தேவையான கோப்புகளை ஏற்றும் பொழுது ஒரு பிழை ஏற்பட்டுள்ளது">
 
-<!ENTITY  onboard_start_message2 "&brandShortName; நல்வரவு">
-<!ENTITY  onboard_start_subtext2 "முன்பைவிட இப்போது கூடுதலான தனியுரிமை அம்சங்களையும் பல்வேறு வழிகளில் தனிப்பயனாக்கலாம்.">
+<!ENTITY  onboard_start_message3 "&brandShortName; மூலம் உலாவுங்கள்">
+<!ENTITY  onboard_start_subtext3 "உங்கள் கைப்பேசி வலைத்தள உலாவல் அனுபவத்தை உங்களுடையதாக்குங்கள்.">
 <!ENTITY  onboard_start_button_account "&brandShortName; உள்நுழை">
 <!ENTITY  onboard_start_button_browser "உலாவ தொடங்கவும்">
 <!-- Localization note: These are used as the titles of different pages on the home screen.
@@ -80,7 +80,7 @@
 <!ENTITY pref_category_advanced "மேம்பட்டது">
 <!ENTITY pref_category_customize "தனிபயனாக்கு">
 <!ENTITY pref_category_customize_summary "முகப்பு, தேடு, கீற்றுகள், இறக்கு">
-
+<!ENTITY pref_category_customize_alt_summary "முகப்பு, தேடு, கீற்றுகள், பின்னர் திற, இறக்கு">
 <!-- Localization note (pref_category_language) : This is the preferences
      section in which the user picks the locale in which to display Firefox
      UI. The locale includes both language and region concepts. -->
@@ -114,7 +114,6 @@
 
 <!ENTITY overlay_share_send_tab_btn_label "மற்றொரு கருவிக்கு அனுப்பு">
 <!ENTITY overlay_share_no_url "இப்பகிர்வில் எவ்வித தொடுப்பும் இல்லை">
-<!ENTITY overlay_share_retry "மீண்டும் முயற்சி">
 <!ENTITY overlay_share_select_device "சாதனத்தை தேர்">
 <!-- Localization note (overlay_no_synced_devices) : Used when the menu option
      to send a tab to a synced device is pressed and no other synced devices
@@ -126,6 +125,7 @@
      divided into two lines (use the newline escape character, "\n", between
      them): the first notifying the user about the failure and the second
      telling the user what to do about it. -->
+<!ENTITY overlay_share_tab_not_sent "உங்கள் கீற்று அனுப்பப்படவில்லை.\nமீண்டும் முயற்சிச்செய்க.">
 
 <!ENTITY pref_category_search3 "தேடு">
 <!ENTITY pref_category_search_summary "தேடு பொறி வழங்குநர்களை தனிப்பயனாக்கு">
@@ -149,8 +149,6 @@
      it is applicable. -->
 <!ENTITY pref_search_hint "குறிப்பு: தெடல் புலத்தில் தொடர்ந்து அழுத்திய பிறகு &formatI; சின்னத்தை தட்டி எந்த இணையத்தளத்தையும் தேடு பொறி வழங்குநர்களின் பட்டியலுடன் சேர்க்கவும்.">
 <!ENTITY pref_category_devtools "உருவாக்குனர் கருவிகள்">
-<!ENTITY pref_category_devtools_summary "தொலைநிலை வழுநீக்கம், வண்ணப்பூச்சு அடித்தல்">
-<!ENTITY pref_developer_paint_flashing "பளிச்சிடும் வண்ணப்பூச்சு">
 <!ENTITY pref_developer_remotedebugging "தொலைநிலை பிழைதிருத்தம்">
 <!ENTITY pref_category_logins "உள்நுழைவுகள்">
 <!ENTITY pref_remember_signons "கடவுச்சொற்களை நினை">
@@ -191,16 +189,19 @@
 <!ENTITY pref_donottrack_title "தடமறிய வேண்டாம்">
 <!ENTITY pref_donottrack_summary "&brandShortName; தளங்களிடம் உங்களை தடமறிய வேண்டாம் என சொல்லவும்">
 
+<!ENTITY tab_queue_toast_message2 "கீற்று &brandShortName; இல் வரிசைப்படுத்தப்பட்டது">
+<!ENTITY tab_queue_toast_action "இப்போதே திற">
 
-<!-- Localization note (tab_queue_notification_text_plural) : The
+
+
+
+
+<!ENTITY tab_queue_notification_title "&brandShortName;">
+<!-- Localization note (tab_queue_notification_text_plural2) : The
      formatD is replaced with the number of tabs queued.  The
      number of tabs queued is always more than one.  We can't use
      Android plural forms, sadly. See Bug #753859. -->
-<!-- Localization note (tab_queue_notification_title_plural) : This is the
-     title of a notification; we expect more than one tab queued. -->
-<!-- Localization note (tab_queue_notification_title_singular) : This is the
-     title of a notification; we expect only one tab queued. -->
-<!-- Localization note (tab_queue_notification_text_singular) : This is the
+<!-- Localization note (tab_queue_notification_text_singular2) : This is the
      text of a notification; we expect only one tab queued. -->
 
 <!ENTITY pref_char_encoding "எழுத்து குறிமுறை">
@@ -249,7 +250,8 @@ size. -->
 <!ENTITY pref_import_android "ஆன்ட்ராய்டிலிருந்து இறக்கு">
 <!ENTITY pref_import_android_summary "சொந்த உலாவியிலிருந்து புத்தகக்குறிகளையும் வரலாறையும் இறக்கு">
 <!ENTITY pref_private_data_history2 "உலாவலின் வரலாறு">
-<!ENTITY pref_private_data_formdata "படிவம் &amp; தேடல் வரலாறு">
+<!ENTITY pref_private_data_searchHistory "தேடல் வரலாறு">
+<!ENTITY pref_private_data_formdata2 "படிவம் வரலாறு">
 <!ENTITY pref_private_data_cookies2 "நினைவிகள் &amp; செயற்பாட்டிலுள்ள உள்நுழைவுகள்">
 <!ENTITY pref_private_data_passwords "சேமிக்கப்பட்ட கடவுச்சொற்கள்">
 <!ENTITY pref_private_data_cache "இடையகம்">
@@ -373,6 +375,7 @@ size. -->
 
 
 
+
 <!ENTITY pref_titlebar_mode "தலைப்பு பட்டி">
 <!ENTITY pref_titlebar_mode_title "பக்க தலைப்பை காண்பி">
 <!ENTITY pref_titlebar_mode_url "பக்க முகவரியை காண்பி">
@@ -431,6 +434,7 @@ size. -->
 <!ENTITY button_set "அமை">
 <!ENTITY button_clear "துடை">
 <!ENTITY button_remember "நினைவுகொள்">
+
 
 <!ENTITY home_top_sites_title "அடிக்கடி பார்த்த இணையத்தளங்கள்">
 <!-- Localization note (home_top_sites_add): This string is used as placeholder
@@ -603,6 +607,12 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY ellipsis "...">
 
 <!ENTITY colon ":">
+<!-- LOCALIZATION NOTE (percent): The percent sign is appended after a number to
+     display a percentage value. formatS is the number, #37 is the code to display a percent sign.
+     This format string is typically used by getString method, in such method the percent sign
+     is a reserved caracter. In order to display one percent sign in the result of getString,
+     double percent signs must be inserted in the format string.
+     This entity is used in the zoomed view to display the zoom factor-->
 <!-- These are only used for accessibility for the done and overflow-menu buttons in the actionbar.
      They are never shown to users -->
 
@@ -614,7 +624,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY voicesearch_failed_title "&brandShortName; குரல் தேடல்">
 <!ENTITY voicesearch_failed_message "தற்போது குரல் தேடலில் சிக்கல் ஏற்பட்டது. பிறகு முயற்சிக்கவும்.">
 <!ENTITY voicesearch_failed_message_recoverable "மன்னிக்கவும்! உங்கள் வார்த்தைகளை புரிந்துக்கொள்ள முடியவில்லை. பிறகு முயற்சிக்கவும்.">
-<!ENTITY voicesearch_failed_retry "மீண்டும் முயற்சிக்கவும்">
+
 <!-- Localization note (remote_tabs_last_synced): the variable is replaced by a
      "relative time span string" produced by Android.  This string describes the
      time the tabs were last synced relative to the current time; examples
