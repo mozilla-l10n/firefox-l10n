@@ -6,8 +6,8 @@
 <!ENTITY aboutTelemetry.changeDataChoices "Zmień">
 <!ENTITY aboutTelemetry.uploadEnabled "Wysyłanie danych o zdrowiu Firefoksa jest <span>włączone</span>.">
 <!ENTITY aboutTelemetry.uploadDisabled "Wysyłanie danych o zdrowiu Firefoksa jest <span>wyłączone</span>.">
-<!ENTITY aboutTelemetry.extendedRecordingEnabled "Rejestrowanie rozszerzonych danych telemertrii jest <span>włączone</span>.">
-<!ENTITY aboutTelemetry.extendedRecordingDisabled "Rejestrowanie rozszerzonych danych telemertrii jest <span>wyłączone</span>.">
+<!ENTITY aboutTelemetry.extendedRecordingEnabled "Rejestrowanie rozszerzonych danych telemetrii jest <span>włączone</span>.">
+<!ENTITY aboutTelemetry.extendedRecordingDisabled "Rejestrowanie rozszerzonych danych telemetrii jest <span>wyłączone</span>.">
 
 <!ENTITY aboutTelemetry.pingDataSource "Źródło danych ping:">
 <!ENTITY aboutTelemetry.showCurrentPingData "Bieżące">
