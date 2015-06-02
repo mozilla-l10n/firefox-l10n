@@ -128,10 +128,10 @@
 <!ENTITY pref_tracking_protection_summary "Impedisci ai siti di tracciare gli utenti">
 <!ENTITY pref_donottrack_title "Antitracciamento">
 <!ENTITY pref_donottrack_summary "Richiedi ai siti di non effettuare alcun tracciamento">
-<!ENTITY tab_queue_toast_message2 "&brandShortName; – Schede in coda">
+<!ENTITY tab_queue_toast_message3 "Schede salvate in &brandShortName;">
 <!ENTITY tab_queue_toast_action "Apri adesso">
 <!ENTITY tab_queue_prompt_title "Apertura di più link">
-<!ENTITY tab_queue_prompt_text2 "Apri i link senza passare ogni volta a &brandShortName;.">
+<!ENTITY tab_queue_prompt_text3 "Salvali fino alla successiva apertura di &brandShortName;.">
 <!ENTITY tab_queue_prompt_tip_text "È possibile modificare questa scelta in Impostazioni">
 <!ENTITY tab_queue_prompt_positive_action_button "Attiva">
 <!ENTITY tab_queue_prompt_negative_action_button "Non adesso">
@@ -279,7 +279,7 @@
 <!ENTITY pref_scroll_title_bar2 "Navigazione a schermo intero">
 <!ENTITY pref_scroll_title_bar_summary "Nascondi la barra del titolo di &brandShortName; quando si scorre una pagina verso il basso">
 <!ENTITY pref_tab_queue_title2 "Apertura di più link">
-<!ENTITY pref_tab_queue_summary2 "Metti in coda i link aprendoli più tardi invece di passare ogni volta a &brandShortName;.">
+<!ENTITY pref_tab_queue_summary3 "Salvali fino alla successiva apertura di &brandShortName;.">
 <!ENTITY page_removed "Pagina rimossa">
 <!ENTITY bookmark_edit_title "Modifica segnalibro">
 <!ENTITY bookmark_edit_name "Nome">
