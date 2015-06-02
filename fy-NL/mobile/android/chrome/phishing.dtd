@@ -5,7 +5,7 @@
 <!ENTITY safeb.palm.accept.label "Helje my hjir út!">
 <!ENTITY safeb.palm.decline.label "Dizze warskôging negearje">
 <!ENTITY safeb.palm.notforgery.label2 "Dit is gjin webferfalsking…">
-<!ENTITY safeb.palm.reportPage.label "Wêrom wurd dizze side blokkearre?">
+<!ENTITY safeb.palm.reportPage.label "Wêrom wurdt dizze side blokkearre?">
 
 <!ENTITY safeb.blocked.malwarePage.title "Rapportearre oanfalside!">
 <!-- Localization note (safeb.blocked.malware.shortDesc) - Please don't translate the contents of the <span id="malware_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
@@ -16,3 +16,8 @@
 <!-- Localization note (safeb.blocked.phishing.shortDesc) - Please don't translate the contents of the <span id="phishing_sitename"/> tag. It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
 <!ENTITY safeb.blocked.phishingPage.shortDesc2 "It ynfieren fan persoanlike gegevens op dizze side kin liede ta dieverij fan identiteitsgegevens of oare fraude.">
 <!ENTITY safeb.blocked.phishingPage.longDesc2 "<p>Dit soarte fan webferfalskingen wurdt brûkt yn e-mailscams dy't bekend steane as phishingoanfallen, wêrby frauduleuze websiden en e-mails brûkt wurde om boarnen, dy't jo miskien fertrouwe, nei te meitsjen.</p>">
+
+<!ENTITY safeb.blocked.unwantedPage.title "Rapportearre website mei net-winske software!">
+<!-- Localization note (safeb.blocked.unwanted.shortDesc) - Please don't translate the contents of the <span id="unwanted_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
+<!ENTITY safeb.blocked.unwantedPage.shortDesc "Dizze webside op <span id='unwanted_sitename'/> is rapportearre as in webside dy't net-winske software befettet en is blokkearre op basis fan jo befeiligingsynstellingen.">
+<!ENTITY safeb.blocked.unwantedPage.longDesc "Siden mei net-winske software probearje software te ynstallearjen dy't misliedend wêze kin en jo systeem op ûnferwachte manieren beÿnfloedzje kin.">
