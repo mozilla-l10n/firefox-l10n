@@ -150,3 +150,5 @@
   -  Indicates how to stop the recording, wrapping the command, like
   -  "Stop recording by entering console.profilEnd("label") into the console." -->
 
+<!ENTITY profilerUI.console.stopCommandStart "ನಮೂದಿಸುವುದರೊಂದಿಗೆ ರೆಕಾರ್ಡಿಂಗ್ ನಿಲ್ಲಿಸು">
+<!ENTITY profilerUI.console.stopCommandEnd   "ಕನ್ಸೋಲ್‌ನ ಒಳಕ್ಕೆ.">
