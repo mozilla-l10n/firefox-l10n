@@ -137,28 +137,28 @@
 <!ENTITY detail.homepage.label                "Домівка">
 <!ENTITY detail.numberOfDownloads.label       "Завантажень">
 
-<!ENTITY detail.contributions.description     "Розробник цього додатку просить вас посприяти його подальшому розвитку зробивши невеликий внесок.">
+<!ENTITY detail.contributions.description     "Розробник цього додатку просить вас посприяти його подальшому розвитку, зробивши невеликий внесок.">
 
 <!ENTITY detail.updateType                    "Автоматичні оновлення">
 <!ENTITY detail.updateDefault.label           "Типово">
-<!ENTITY detail.updateDefault.tooltip         "Автоматично встановлювати оновлення, якщо це типово">
-<!ENTITY detail.updateAutomatic.label         "Вкл.">
+<!ENTITY detail.updateDefault.tooltip         "Автоматично встановлювати оновлення лише якщо це типове налаштування">
+<!ENTITY detail.updateAutomatic.label         "Увімкнено">
 <!ENTITY detail.updateAutomatic.tooltip       "Встановлювати оновлення автоматично">
-<!ENTITY detail.updateManual.label            "Викл.">
+<!ENTITY detail.updateManual.label            "Вимкнено">
 <!ENTITY detail.updateManual.tooltip          "Не встановлювати оновлення автоматично">
 <!ENTITY detail.home                          "Домашня сторінка">
-<!ENTITY detail.repository                    "Профіль додатка">
+<!ENTITY detail.repository                    "Профіль додатку">
 <!ENTITY detail.size                          "Розмір">
 
-<!ENTITY detail.checkForUpdates.label         "Перевірити на оновлення">
-<!ENTITY detail.checkForUpdates.accesskey     "п">
+<!ENTITY detail.checkForUpdates.label         "Перевірити наявність оновлень">
+<!ENTITY detail.checkForUpdates.accesskey     "П">
 <!ENTITY detail.checkForUpdates.tooltip       "Перевірити наявність оновлень для цього додатку">
 <!ENTITY detail.showPreferencesWin.label      "Налаштування">
-<!ENTITY detail.showPreferencesWin.accesskey  "л">
-<!ENTITY detail.showPreferencesWin.tooltip    "Змінити налаштування цього додатка">
+<!ENTITY detail.showPreferencesWin.accesskey  "Н">
+<!ENTITY detail.showPreferencesWin.tooltip    "Змінити налаштування цього додатку">
 <!ENTITY detail.showPreferencesUnix.label     "Налаштування">
-<!ENTITY detail.showPreferencesUnix.accesskey "л">
-<!ENTITY detail.showPreferencesUnix.tooltip   "Змінити налаштування цього додатка">
+<!ENTITY detail.showPreferencesUnix.accesskey "Н">
+<!ENTITY detail.showPreferencesUnix.tooltip   "Змінити налаштування цього додатку">
 
 
 <!-- ratings -->
@@ -187,7 +187,7 @@
 
 <!ENTITY addon.homepage                       "Домівка">
 <!ENTITY addon.details.label                  "Детальніше">
-<!ENTITY addon.details.tooltip                "Показати більше подробиць щодо цього додатка">
+<!ENTITY addon.details.tooltip                "Показати більше подробиць щодо цього додатку">
 <!ENTITY addon.unknownDate                    "Невідомо">
 <!-- LOCALIZATION NOTE (addon.disabled.postfix): This is used in a normal list
      to signify that an add-on is disabled, in the form
