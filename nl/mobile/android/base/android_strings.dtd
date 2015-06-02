@@ -193,7 +193,7 @@
 <!ENTITY tab_queue_toast_action "Nu openen">
 <!ENTITY tab_queue_prompt_title "Meerdere koppelingen openen?">
 <!ENTITY tab_queue_prompt_text2 "Open ze zonder telkens naar &brandShortName; om te schakelen.">
-<!ENTITY tab_queue_prompt_tip_text "u kunt dit later wijzigingen in Instellingen">
+<!ENTITY tab_queue_prompt_tip_text "u kunt dit later wijzigen in Instellingen">
 <!ENTITY tab_queue_prompt_positive_action_button "Inschakelen">
 <!ENTITY tab_queue_prompt_negative_action_button "Niet nu">
 <!ENTITY tab_queue_notification_title "&brandShortName;">
