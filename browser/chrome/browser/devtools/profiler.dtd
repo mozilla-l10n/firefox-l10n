@@ -27,6 +27,8 @@
 <!-- LOCALIZATION NOTE (profilerUI.startRecording/profilerUI.stopRecording): These are
   -  the labels shown on the main recording buttons to start/stop recording. -->
 
+<!ENTITY profilerUI.startRecording "ಕಾರ್ಯಾಚರಣೆ ಮುದ್ರಣ ಪ್ರಾರಂಭಿಸು">
+
 <!-- LOCALIZATION NOTE (profilerUI.bufferStatusTooltip): This string
   -  is displayed as the tooltip for the buffer capacity during a recording. -->
 <!-- LOCALIZATION NOTE (profilerUI.bufferStatusFull): This string
@@ -76,7 +78,7 @@
 <!ENTITY profilerUI.table.samples                  "ಮಾದರಿಗಳು">
 
 <!ENTITY profilerUI.table.function                 "ಕಾರ್ಯಭಾರ">
-
+<!ENTITY profilerUI.table.function.tooltip         "ಮಾದರಿ ಕಾರ್ಯಭಾರದ ಹೆಸರು ಮತ್ತು ಮೂಲದ ಸ್ಥಳ">
 <!ENTITY profilerUI.table.totalAlloc1              "ಒಟ್ಟಾರೆ ಮಾದರಿ ಹೊಂದಾಣಿಕೆಗಳು">
 
 <!ENTITY profilerUI.table.selfAlloc1               "ಸ್ವಮಾದರಿಯ ಹೊಂದಾಣಿಕೆಗಳು">
@@ -131,11 +133,17 @@
   -  is displayed next to a checkbox determining whether or not JIT optimization data
   -  should be shown. -->
 
+<!ENTITY profilerUI.showJITOptimizations             "JIT ಆಪ್ಟಿಮೈಸೇಷನ್ ಅನ್ನು ತೋರಿ">
+
 <!-- LOCALIZATION NOTE (profilerUI.JITOptimizationsTitle): This string
   -  is displayed as the title of the JIT Optimizations panel. -->
+
+<!ENTITY profilerUI.JITOptimizationsTitle "JIT ಆಪ್ಟಿಮೈಸೇಷನ್‌ಗಳು">
 <!-- LOCALIZATION NOTE (profilerUI.console.recordingNoticeStart/recordingNoticeEnd):
   -  This string is displayed when a recording is selected that started via console.profile.
   -  Wraps the command used to start, like "Currently recording via console.profile("label")" -->
+
+<!ENTITY profilerUI.console.recordingNoticeStart "ಪ್ರಸ್ತುತ ಮುದ್ರಣ ಇದರ ಮೂಲಕ">
 <!ENTITY profilerUI.console.recordingNoticeEnd   "">
 <!-- LOCALIZATION NOTE (profilerUI.console.stopCommandStart/stopCommandEnd):
   -  This string is displayed when a recording is selected that started via console.profile.
