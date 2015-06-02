@@ -23,7 +23,8 @@
 <!ENTITY cmd.back.tooltip                     "ಒಂದು ಪುಟ ಹಿಂದಕ್ಕೆ ಹೋಗು">
 <!ENTITY cmd.forward.tooltip                  "ಒಂದು ಪುಟ ಮುಂದಕ್ಕೆ ಹೋಗು">
 
-
+<!ENTITY showUnsignedExtensions.button.label  "ಕೆಲವು ವಿಸ್ತರಣಿಕೆಗಳನ್ನು ದೃಢಪಡಿಸಲಾಗಿಲ್ಲ">
+<!ENTITY showAllExtensions.button.label       "ಎಲ್ಲ ವಿಸ್ತರಣಗಳನ್ನು ತೋರಿಸು">
 <!-- global warnings -->
 
 <!ENTITY warning.safemode.label                    "ಎಲ್ಲಾ ಆಡ್-ಆನ್‌ಗಳನ್ನು ಸುರಕ್ಷತಾ ಕ್ರಮದಿಂದ ಅಶಕ್ತಗೊಳಿಸಲಾಗಿದೆ.">
@@ -235,14 +236,17 @@
 
 <!ENTITY setting.learnmore "ಇನ್ನಷ್ಟು ತಿಳಿಯಿರಿ…">
 
+<!ENTITY disabledUnsigned.heading "ಕೆಲವು ಆಡ್-ಆನ್‌ಗಳನ್ನು ನಿಷ್ಕ್ರಿಯಗೊಳಿಸಲಾಗಿದೆ">
 <!-- LOCALIZATION NOTE (disabledUnsigned.description.start, disabledUnsigned.description.findAddonsLink, disabledUnsigned.description.end):
      These entities form a sentence, with
      disabledUnsigned.description.findAddonsLink being a link to an external site. -->
-
-
-
+<!ENTITY disabledUnsigned.description.start "ಈ ಕೆಳಗಿನ ಆಡ್-‌ಆನ್‌ಗಳನ್ನು &brandShortName; ನಲ್ಲಿನ ಬಳಕೆಗೆ ದೃಢಪಡಿಸಲಾಗಿಲ್ಲ. ನೀವು ಬೇಕಿದ್ದಲ್ಲಿ  ">
+<!ENTITY disabledUnsigned.description.findAddonsLink "ಬದಲಾವಣೆಗಳನ್ನು ಹುಡುಕು">
+<!ENTITY disabledUnsigned.description.end " ಅಥವಾ ಅವುಗಳನ್ನು ದೃಢಪಡಿಸಲು ಡೆವೆಲಪರ್ ಅನ್ನು ಕೇಳಿಕೊಳ್ಳಬಹುದು.">
+<!ENTITY disabledUnsigned.learnMore "ನಿಮ್ಮನ್ನು ಆನ್‌ಲೈನ್ ಸುರಕ್ಷಿತವಾಗಿರುವಲ್ಲಿ ಸಹಾಯ ಮಾಡುವ ನಮ್ಮ ಶ್ರಮದ ಬಗ್ಗೆ ಹೆಚ್ಚು ತಿಳಿಯಿರಿ.">
 <!-- LOCALIZATION NOTE (disabledUnsigned.devInfo.start, disabledUnsigned.devInfo.linkToManual, disabledUnsigned.devInfo.end):
      These entities form a sentence, with disabledUnsigned.devInfo.linkToManual
      being a link to an external site. -->
-
+<!ENTITY disabledUnsigned.devInfo.start "ತಮ್ಮ ಆಡ್-ಅನ್‌ಗಳನ್ನು ದೃಢಪಡಿಸಿಕೊಳ್ಳ ಬಯಸಲು ಇಚ್ಛಿಸುವ ಡೆವೆಲಪರ್‌ಗಳು ಮುದುವರೆಯಲು ಓದಿ ನಮ್ಮ  ">
+<!ENTITY disabledUnsigned.devInfo.linkToManual "ಕೈಪಿಡಿ">
 
