@@ -24,15 +24,21 @@
 <!ENTITY profilerUI.toolbar.memory-flamegraph1 "Tabla de llamas de asignaciones">
 
 <!ENTITY profilerUI.table.totalDuration2  "Tiempo total">
+<!ENTITY profilerUI.table.totalDuration.tooltip    "La cantidad de tiempo usado por esta función y las funciones a las que llama.">
 <!ENTITY profilerUI.table.selfDuration2   "Tiempo individual">
+<!ENTITY profilerUI.table.selfDuration.tooltip     "La cantidad de tiempo usado solo dentro de esta función.">
 <!ENTITY profilerUI.table.totalPercentage "Costo total">
+<!ENTITY profilerUI.table.totalPercentage.tooltip  "El porcentaje de tiempo usado en esta función y las funciones a las que llama.">
 <!ENTITY profilerUI.table.selfPercentage  "Costo individual">
+<!ENTITY profilerUI.table.selfPercentage.tooltip   "El porcentaje de tiempo usado solo dentro de esta función.">
 <!ENTITY profilerUI.table.samples     "Muestras">
+<!ENTITY profilerUI.table.samples.tooltip          "El número de veces que esta función estuvo en la pila cuando el perfilador tomó una muestra.">
 <!ENTITY profilerUI.table.function    "Función">
+<!ENTITY profilerUI.table.function.tooltip         "El nombre y la ubicación de la fuente de la función muestreada.">
 <!ENTITY profilerUI.table.totalAlloc1       "Asignaciones muestreadas totales">
-<!ENTITY profilerUI.table.totalAllocTooltip "El número total de asignaciones de objeto muestreadas en esta ubicación y en llamadas.">
+<!ENTITY profilerUI.table.totalAlloc.tooltip	"El número total de asignaciones de objeto muestreadas en esta ubicación y en llamadas.">
 <!ENTITY profilerUI.table.selfAlloc1        "Asignaciones auto muestreadas">
-<!ENTITY profilerUI.table.selfAllocTooltip  "El número de asignaciones de objeto muestreadas en esta ubicación.">
+<!ENTITY profilerUI.table.selfAlloc.tooltip		"El número de asignaciones de objeto muestreadas en esta ubicación.">
 
 <!ENTITY profilerUI.newtab.tooltiptext "Añadir nueva pestaña desde la selección">
 <!ENTITY profilerUI.options.filter.tooltiptext "Seleccione que datos mostrar en la línea de tiempo">
