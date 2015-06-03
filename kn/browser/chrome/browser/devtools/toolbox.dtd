@@ -81,7 +81,7 @@
   -  boolean preference in about:config, in the options panel. -->
 
 <!ENTITY options.enableChrome.label5    "ಕ್ರೋಮ್ ಬ್ರೌಸರ್ ಮತ್ತು ಡೀಬಗ್ಗಿಂಗ್ ಉಪಕರಣ ಚೌಕ ಆಡ್‌-ಅನ್‌ಗಳನ್ನು ಸಕ್ರಿಯಗೊಳಿಸು">
-
+<!ENTITY options.enableChrome.tooltip3  "ಈ ಆಯ್ಕೆಯನ್ನು ಆನ್ ಮಾಡುವುದರಿಂದನೀವು ಅನೇಕ ಡೆವೆಲಪರ್ ಉಪಕರಣಗಳನ್ನು ಬ್ರೌಸರ್ ಬಳಸುವ ಸಂದರ್ಭದಲ್ಲಿ (ಉಪಕರಣಗಳು > ವೆಬ್ ಡೆವೆಲಪರ್ > ಬ್ರೌಸರ್ ಉಪಕರಣಪೆಟ್ಟಿಗೆ) ಮತ್ತು ಆಡ್-ಆನ್‌ ವ್ಯವಸ್ಥಾಪಕದ ಮೂಲಕ ಆಡ್-ಆನ್‌ಗಳನ್ನು ದೋಷನಿದಾನಕ್ಕೆ ಅಣಿಮಾಡಲು ಅನುಮತಿ ಪಡೆಯುತ್ತೀರಿ">
 <!-- LOCALIZATION NOTE (options.enableRemote.label3): This is the label for the
   -  checkbox that toggles remote debugging, i.e. devtools.debugger.remote-enabled
   -  boolean preference in about:config, in the options panel. -->
