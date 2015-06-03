@@ -4,7 +4,6 @@
 
 <!ENTITY itemGeneral.label       "Geral">
 <!ENTITY dataChoicesTab.label    "Escolhas de dados">
-<!ENTITY itemDisplay.label       "Leitura e exibição">
 <!ENTITY itemUpdate.label        "Atualizações">
 <!ENTITY itemNetworking.label    "Rede e espaço em disco">
 <!ENTITY itemCertificates.label  "Certificados">
@@ -51,32 +50,6 @@
 <!ENTITY enableCrashReporter.label       "Ativar o Crash Reporter">
 <!ENTITY enableCrashReporter.accesskey   "C">
 <!ENTITY crashReporterLearnMore.label    "Saiba mais">
-<!-- Display and Reading Settings -->
-
-<!ENTITY reading.caption               "Leitura">
-<!ENTITY display.caption               "Exibição">
-<!ENTITY showCondensedAddresses.label  "Para pessoas em meus contatos, exibir somente o nome">
-<!ENTITY showCondensedAddresses.accesskey "P">
-
-<!ENTITY autoMarkAsRead.label          "Marcar automaticamente mensagens como lidas">
-<!ENTITY autoMarkAsRead.accesskey      "M">
-<!ENTITY markAsReadNoDelay.label       "Ao exibir">
-<!ENTITY markAsReadNoDelay.accesskey   "A">
-<!-- LOCALIZATION NOTE (markAsReadDelay.label): This will concatenate to
-     "After displaying for [___] seconds",
-     using (markAsReadDelay.label) and a number (secondsLabel.label). -->
-<!ENTITY markAsReadDelay.label         "Ao exibir por">
-<!ENTITY markAsReadDelay.accesskey     "e">
-<!ENTITY secondsLabel.label            "segundos">
-<!ENTITY openMsgIn.label               "Abrir mensagens em:">
-<!ENTITY openMsgInNewTab.label         "Nova aba">
-<!ENTITY openMsgInNewTab.accesskey     "N">
-<!ENTITY reuseExpRadio0.label          "Nova janela">
-<!ENTITY reuseExpRadio0.accesskey      "o">
-<!ENTITY reuseExpRadio1.label          "Janela existente">
-<!ENTITY reuseExpRadio1.accesskey      "J">
-<!ENTITY closeMsgOnMoveOrDelete.label  "Ao mover ou excluir, fechar aba/janela da mensagem">
-<!ENTITY closeMsgOnMoveOrDelete.accesskey "v">
 <!-- Update -->
 
 <!ENTITY updateApp.label                 "Atualizações do &brandShortName;:">
