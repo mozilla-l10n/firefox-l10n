@@ -4,6 +4,7 @@
 
 <!ENTITY itemFormatting.label             "Mentrezhañ">
 <!ENTITY itemTags.label                   "Merkoù">
+<!ENTITY itemAdvanced.label               "Kempleshoc'h">
 
 <!ENTITY style.label                      "Stil :">
 <!ENTITY style.accesskey                  "S">
@@ -44,3 +45,29 @@
 <!ENTITY fontOptions.label       "Kempleshoc'h…">
 <!ENTITY colorButton.label       "Livioù…">
 <!ENTITY colorButton.accesskey   "i">
+<!-- Advanced -->
+
+<!ENTITY reading.caption                  "Lenn">
+<!ENTITY display.caption                  "Skrammañ">
+<!ENTITY showCondensedAddresses.label     "Diskouez an anv evit an den eus ma c'harned chomlec'hioù nemetken">
+<!ENTITY showCondensedAddresses.accesskey "D">
+
+<!ENTITY autoMarkAsRead.label             "Merkañ ar c'hemennadennoù evel lennet ent emgefreek">
+<!ENTITY autoMarkAsRead.accesskey         "a">
+<!ENTITY markAsReadNoDelay.label          "Adalek ar skrammañ">
+<!ENTITY markAsReadNoDelay.accesskey      "s">
+<!-- LOCALIZATION NOTE (markAsReadDelay.label): This will concatenate to
+     "After displaying for [___] seconds",
+     using (markAsReadDelay.label) and a number (secondsLabel.label). -->
+<!ENTITY markAsReadDelay.label            "Goude">
+<!ENTITY markAsReadDelay.accesskey        "d">
+<!ENTITY secondsLabel.label               "a eilennoù">
+<!ENTITY openMsgIn.label                  "Digeriñ ar c'hemennadennoù e-barzh:">
+<!ENTITY openMsgInNewTab.label            "Un ivinell nevez">
+<!ENTITY openMsgInNewTab.accesskey        "i">
+<!ENTITY reuseExpRadio0.label             "Ur prenestr kemennadenn nevez">
+<!ENTITY reuseExpRadio0.accesskey         "p">
+<!ENTITY reuseExpRadio1.label             "Ur prenestr kemennadenn digor">
+<!ENTITY reuseExpRadio1.accesskey         "d">
+<!ENTITY closeMsgOnMoveOrDelete.label     "Serrin prenestr / ivinell ar gemennadenn goude an dilec'hiañ pe an dilemel">
+<!ENTITY closeMsgOnMoveOrDelete.accesskey "S">
