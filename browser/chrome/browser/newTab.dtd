@@ -4,9 +4,9 @@
 <!-- These strings are used in the about:newtab page -->
 
 <!ENTITY newtab.pageTitle "Nuwe oortjie">
-
-
-
+<!ENTITY newtab.customize.classic "Wys topwerwe">
+<!ENTITY newtab.customize.cog.enhanced "Sluit voorgestelde werwe in">
+<!ENTITY newtab.customize.cog.title "Nuwe oortjiekontroles">
 
 <!ENTITY newtab.customize.title "Pasmaak die &quot;Nuwe oortjie&quot;-bladsy">
 
