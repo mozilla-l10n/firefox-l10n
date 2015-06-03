@@ -19,7 +19,7 @@
 <!ENTITY results.label               "Resultater">
 <!ENTITY moveButton.label            "Flytt til">
 <!ENTITY moveButton.accesskey        "t">
-<!ENTITY closeCmd.key                "W">
+<!ENTITY closeCmd.key                "W"> 
 <!ENTITY openInFolder.label          "Åpne i mappen">
 <!ENTITY openInFolder.accesskey      "m">
 <!ENTITY saveAsVFButton.label        "Lagre som søkemappe">
@@ -40,6 +40,7 @@
 <!ENTITY threadColumn.label "Tråd">
 <!ENTITY fromColumn.label "Fra">
 <!ENTITY recipientColumn.label "Mottaker">
+<!ENTITY correspondentColumn.label "Korrespondenter">
 <!ENTITY subjectColumn.label "Emne">
 <!ENTITY dateColumn.label "Dato">
 <!ENTITY priorityColumn.label "Prioritet">
@@ -61,6 +62,7 @@
 <!ENTITY threadColumn2.tooltip "Vis meldingstråder">
 <!ENTITY fromColumn2.tooltip "Sorter etter fra">
 <!ENTITY recipientColumn2.tooltip "Sorter etter mottaker">
+<!ENTITY correspondentColumn2.tooltip "Sorter etter korrespondenter">
 <!ENTITY subjectColumn2.tooltip "Sorter etter emne">
 <!ENTITY dateColumn2.tooltip "Sorter etter dato">
 <!ENTITY priorityColumn2.tooltip "Sorter etter prioritet">
