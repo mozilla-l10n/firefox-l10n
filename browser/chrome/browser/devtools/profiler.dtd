@@ -82,13 +82,13 @@
 <!ENTITY profilerUI.table.selfPercentage           "ಸ್ವಂತ ವೆಚ್ಚ">
 <!ENTITY profilerUI.table.selfPercentage.tooltip   "ಈ ಕಾರ್ಯಭಾರ ಮೇಲೆ ಮಾತ್ರ ವ್ಯಯಿಸಿದ ಸಮಯದ ಶೇಕಡಾವಾರು.">
 <!ENTITY profilerUI.table.samples                  "ಮಾದರಿಗಳು">
-
+<!ENTITY profilerUI.table.samples.tooltip          "ಪ್ರೊಫೈಲರ್ ನಮೂನೆ ಪಡೆದುಕೊಂಡಾಗ ಈ ಕಾರ್ಯಭಾರ ಎಷ್ಟು ಬಾರಿ ಸ್ಟ್ಯಾಕ್‌ನಲ್ಲಿತ್ತು.">
 <!ENTITY profilerUI.table.function                 "ಕಾರ್ಯಭಾರ">
 <!ENTITY profilerUI.table.function.tooltip         "ಮಾದರಿ ಕಾರ್ಯಭಾರದ ಹೆಸರು ಮತ್ತು ಮೂಲದ ಸ್ಥಳ">
 <!ENTITY profilerUI.table.totalAlloc1              "ಒಟ್ಟಾರೆ ಮಾದರಿ ಹೊಂದಾಣಿಕೆಗಳು">
-
+<!ENTITY profilerUI.table.totalAlloc.tooltip       "ಈ ಸ್ಥಳದಲ್ಲಿ ಮತ್ತು ಕಾಲೀಸ್‌ನಲ್ಲಿ ನಮೂನೆ ಪಡೆದ ವಸ್ತುಗಳ ಹಂಚಿಕೆಯ ಒಟ್ಟು ಸಂಖ್ಯೆ.">
 <!ENTITY profilerUI.table.selfAlloc1               "ಸ್ವಮಾದರಿಯ ಹೊಂದಾಣಿಕೆಗಳು">
-
+<!ENTITY profilerUI.table.selfAlloc.tooltip        "ಈ ಸ್ಥಳದಲ್ಲಿ ನಮೂನೆ ಪಡೆದ ವಸ್ತುಗಳ ಹಂಚಿಕೆಗಳ ಸಂಖ್ಯೆ.">
 <!-- LOCALIZATION NOTE (profilerUI.newtab.tooltiptext): The tooltiptext shown
   -  on the "+" (new tab) button for a profile when a selection is available. -->
 
@@ -140,7 +140,7 @@
   -  should be shown. -->
 
 <!ENTITY profilerUI.showJITOptimizations             "JIT ಆಪ್ಟಿಮೈಸೇಷನ್ ಅನ್ನು ತೋರಿ">
-
+<!ENTITY profilerUI.showJITOptimizations.tooltiptext "JS ಕರೆಯ ಮರದ ಪ್ರತಿ ಫ್ರೇಮ್‌ನಿಂದ JIT ಉತ್ತಮಗೊಳಿಸುವಿಕೆಯ ಡೇಟಾ ಮಾದರಿಯನ್ನು ತೋರಿಸು.">
 <!-- LOCALIZATION NOTE (profilerUI.JITOptimizationsTitle): This string
   -  is displayed as the title of the JIT Optimizations panel. -->
 
