@@ -390,7 +390,7 @@ size. -->
 <!ENTITY pref_scroll_title_bar_summary "&brandShortName; ನ ಟೈಟಲ್ ಬಾರನ್ನು ಪುಟವೊಂದರಲ್ಲಿ ಸ್ಕ್ರಾಲ್ ಮಾಡುವಾಗ ಅಡಗಿಸು">
 
 <!ENTITY pref_tab_queue_title2 "ಒಂದಕ್ಕಿಂತ ಹೆಚ್ಚು ಕೊಂಡಿಗಳನ್ನು ತೆರೆ">
-<!ENTITY pref_tab_queue_summary2 "ಪ್ರತಿಸಲ &brandShortName;ಗೆ ಬದಲಾಯಿಸುವುದರ ಬದಲು ಆಮೇಲೆ ಬಳಸಲು ಕೊಂಡಿಗಳನ್ನು ಸಾಲುಗಟ್ಟಿ ">
+<!ENTITY pref_tab_queue_summary2 "ಪ್ರತಿಸಲ &brandShortName;ಗೆ ಬದಲಾಯಿಸುವುದರ ಬದಲು ಆಮೇಲೆ ಬಳಸಲು ಕೊಂಡಿಗಳನ್ನು ಸಾಲುಗಟ್ಟಿ">
 <!-- Localization note (page_removed): This string appears in a toast message when
      any page is removed frome about:home. This includes pages that are in history,
      bookmarks, or reading list. -->
@@ -452,7 +452,7 @@ size. -->
 <!ENTITY home_title "&brandShortName; ಮುಖಪುಟ">
 <!ENTITY home_history_title "ಇತಿಹಾಸ">
 <!ENTITY home_clear_history_button "ವೀಕ್ಷಣೆಯ ಇತಿಹಾಸವನ್ನು ಅಳಿಸಿ">
-<!ENTITY home_clear_history_confirm "ನೀವು ಇತಿಹಾಸವನ್ನು ಶಾಶ್ವತವಾಗಿ ಅಳಿಸಲು ಬಯಸಿದ್ದು ಖಚಿತವೆ ?">
+<!ENTITY home_clear_history_confirm "ನೀವು ಇತಿಹಾಸವನ್ನು ಶಾಶ್ವತವಾಗಿ ಅಳಿಸಲು ಬಯಸಿದ್ದು ಖಚಿತವೆ?">
 <!ENTITY home_bookmarks_empty "ನೀವು ಉಳಿಸುವ ಬುಕ್‌ಮಾರ್ಕ್‌ಗಳು ಇಲ್ಲಿ ಕಾಣಿಸಿಕೊಳ್ಳುತ್ತವೆ.">
 <!ENTITY home_closed_tabs_title "ಇತ್ತೀಚೆಗೆ ಮುಚ್ಚಲಾದ ಟ್ಯಾಬ್‌ಗಳು">
 <!ENTITY home_last_tabs_title "ಕಡೆಯ ಸಾರ್ತಿಯ ಪುಟಗಳು">
@@ -461,7 +461,7 @@ size. -->
 <!ENTITY home_most_recent_empty "ನೀವು ತೀರ ಇತ್ತೀಚೆಗೆ ಭೇಟಿಕೊಟ್ಟ ಅಂತರ್ಜಾಲ ಪುಟಗಳನ್ನು ಇಲ್ಲಿ ಪ್ರದರ್ಶಿಸಿ.">
 <!-- Localization note (home_most_recent_emptyhint2): "Psst" is a sound that might be used to attract someone's attention unobtrusively, and intended to hint at Private Browsing to the user.
      The placeholders &formatS1; and &formatS2; are used to mark the location of text underlining. -->
-<!ENTITY home_most_recent_emptyhint2 "Psst: &amp;formatS1 ಅನ್ನು ಬಳಸಲಾಗುತ್ತಿದೆ;ಹೊಸ ಖಾಸಗಿ ಟ್ಯಾಬ್&formatS2; ನಿಮ್ಮ ಇತಿಹಾಸವನ್ನು ಉಳಿಸುವುದಿಲ್ಲ.">
+<!ENTITY home_most_recent_emptyhint2 "Psst: &formatS1; ಅನ್ನು ಬಳಸಲಾಗುತ್ತಿದೆ;ಹೊಸ ಖಾಸಗಿ ಟ್ಯಾಬ್&formatS2; ನಿಮ್ಮ ಇತಿಹಾಸವನ್ನು ಉಳಿಸುವುದಿಲ್ಲ.">
 <!ENTITY home_reading_list_empty "ನಂತರ ಓದಲು ಉಳಿಸಿದ ಲೇಖನಗಳನ್ನು ಇಲ್ಲಿ ತೋರಿಸಲಾಗುತ್ತದೆ.">
 <!-- Localization note (home_reading_list_hint): The "TIP" string is synonymous to "hint", "clue", etc. This string is displayed
      as an advisory message on how to add content to the reading list when the reading list empty.

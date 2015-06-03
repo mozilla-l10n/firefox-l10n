@@ -19,7 +19,7 @@
 <!ENTITY dnsNotFound.title "ಪರಿಚಾರಕವು ಕಂಡುಬಂದಿಲ್ಲ">
 <!-- LOCALIZATION NOTE (dnsNotFound.longDesc4) This string contains markup including widgets for searching
      or enabling wifi connections. The text inside tags should be localized.  Do not change the ids. -->
-<!ENTITY dnsNotFound.longDesc4 "<ul> 
+<!ENTITY dnsNotFound.longDesc4 "<ul> 
 <li>ವಿಳಾಸಗಳಲ್ಲಿ ಟೈಪ್ ಮಾಡುವಾಗ ಸಂಭವಿಸಿರಬಹುದಾದ ಇಂತಹ ತಪ್ಪುಗಳನ್ನು  
 <strong>ww</strong>.example.com ಅನ್ನು ಇದರ ಬದಲಿಗೆ 
 <strong>www</strong>.example.com</li> 
@@ -27,7 +27,7 @@
 <input id='searchtext' type='search'></input> 
 <button id='searchbutton'>ಹುಡುಕು</button> 
 </div> 
-<li>ನೀವು ಯಾವುದೇ ಪುಟಗಳನ್ನು ನೋಡಲಾಗದಿದ್ದಲ್ಲಿ,  ನಿಮ್ಮ ಸಾಧನದ ಡೇಟಾ ಅಥವಾ ವೈ-ಫೈ ಸಂಪರ್ಕವನ್ನು ಪರೀಕ್ಷಿಸಿ. 
+<li>ನೀವು ಯಾವುದೇ ಪುಟಗಳನ್ನು ನೋಡಲಾಗದಿದ್ದಲ್ಲಿ, ನಿಮ್ಮ ಸಾಧನದ ಡೇಟಾ ಅಥವಾ ವೈ-ಫೈ ಸಂಪರ್ಕವನ್ನು ಪರೀಕ್ಷಿಸಿ. 
 <button id='wifi'>ವೈ-ಫೈ ಸಕ್ರಿಯಗೊಳಿಸು</button> 
 </li> 
 </ul>">
