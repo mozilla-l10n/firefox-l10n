@@ -49,7 +49,7 @@
 
 
 
-#define bookmarks_addons Firefox: personalize com extensões
+#define bookmarks_addons Firefox: personalize com complementos
 
 
 

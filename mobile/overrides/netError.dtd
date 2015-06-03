@@ -27,7 +27,7 @@
 <input id='searchtext' type='search'></input> 
 <button id='searchbutton'>Pesquisa</button> 
 </div> 
-<li>Se você não consegue carregar nenhuma página, verifique a conexão Wi-Fi. 
+<li>Se não conseguir carregar nenhuma página, verifique a conexão Wi-Fi. 
 <button id='wifi'>Ativar Wi-Fi</button> 
 </li> 
 </ul>">
@@ -124,7 +124,7 @@ cookies.</li>
 
 <!ENTITY nssFailure2.title "Falha na conexão segura">
 <!ENTITY nssFailure2.longDesc2 "<ul> 
-<li>A página que você está tentando abrir não pode ser exibida porque a autenticidade dos dados recebidos não pôde ser comprovada.</li> 
+<li>A página que está tentando abrir não pode ser exibida porque a autenticidade dos dados recebidos não pôde ser comprovada.</li> 
 <li>Por favor, contate os responsáveis pelo site para informá-los sobre este problema.</li> 
 </ul>">
 
@@ -140,7 +140,7 @@ e pode tentar de novo mais tarde.</li>
 
 <!ENTITY sharedLongDesc3 "<ul> 
 <li>Este site pode estar temporariamente fora do ar ou sobrecarregado. Tente de novo em alguns instantes.</li> 
-<li>Se você não consegue carregar nenhuma página, verifique a conexão de dados ou Wi-Fi do seu dispositivo. 
+<li>Se não conseguir carregar nenhuma página, verifique a conexão de dados ou Wi-Fi do seu dispositivo. 
 <button id='wifi'>Ativar Wi-Fi</button> 
 </li> 
 </ul>">
@@ -149,9 +149,9 @@ e pode tentar de novo mais tarde.</li>
 <!ENTITY cspBlocked.longDesc "<p>O &brandShortName; impediu esta página de carregar desta forma porque a política de segurança de conteúdo da página não permite.</p>">
 
 <!ENTITY corruptedContentError.title "Conteúdo corrompido">
-<!ENTITY corruptedContentError.longDesc "<p>A página que você está tentando abrir não pôde ser exibida porque foi detectado um erro na transmissão.</p><ul><li>Por favor, contate os responsáveis pelo site para informá-los deste problema.</li></ul>">
+<!ENTITY corruptedContentError.longDesc "<p>A página que está tentando abrir não pôde ser exibida porque foi detectado um erro na transmissão.</p><ul><li>Por favor, contate os responsáveis pelo site para informá-los deste problema.</li></ul>">
 
-<!ENTITY securityOverride.linkText "Ou você pode adicionar uma exceção…">
+<!ENTITY securityOverride.linkText "Ou pode adicionar uma exceção…">
 <!ENTITY securityOverride.getMeOutOfHereButton "Me tire daqui!">
 <!ENTITY securityOverride.exceptionButtonLabel "Adicionar exceção…">
 <!-- LOCALIZATION NOTE (securityOverride.warningContent) - Do not translate the
@@ -160,7 +160,7 @@ which uses strings already defined above. The button is included here (instead o
 netError.xhtml) because it exposes functionality specific to firefox. -->
 
 
-<!ENTITY securityOverride.warningContent "<p>Você não deve adicionar uma exceção se estiver usando uma conexão com a internet que não confie totalmente ou se você não costumava ver um alerta para este servidor.</p> 
+<!ENTITY securityOverride.warningContent "<p>Não deve adicionar uma exceção se estiver usando uma conexão com a internet que não confie totalmente ou se não costumava ver um alerta para este servidor.</p> 
  
 <button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button> 
 <button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>">
