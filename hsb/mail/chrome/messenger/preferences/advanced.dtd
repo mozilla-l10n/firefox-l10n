@@ -4,7 +4,6 @@
 
 <!ENTITY itemGeneral.label       "Powšitkowny">
 <!ENTITY dataChoicesTab.label    "Datowy wuběr">
-<!ENTITY itemDisplay.label       "Čitanje a zwobraznjenje">
 <!ENTITY itemUpdate.label        "Aktualizacija">
 <!ENTITY itemNetworking.label    "Syć a tačelowy rum">
 <!ENTITY itemCertificates.label  "Certifikaty">
@@ -51,32 +50,6 @@
 <!ENTITY enableCrashReporter.label       "Rozprawjak wo spadach zmóžnić">
 <!ENTITY enableCrashReporter.accesskey   "R">
 <!ENTITY crashReporterLearnMore.label    "Dalše informacije">
-<!-- Display and Reading Settings -->
-
-<!ENTITY reading.caption               "Čitanje">
-<!ENTITY display.caption               "Zwobraznjenje">
-<!ENTITY showCondensedAddresses.label  "Jenož zwobraznjenske mjeno za ludźi w adresniku pokazać">
-<!ENTITY showCondensedAddresses.accesskey "J">
-
-<!ENTITY autoMarkAsRead.label          "Powěsće awtomatisce jako přečitane markěrować">
-<!ENTITY autoMarkAsRead.accesskey      "P">
-<!ENTITY markAsReadNoDelay.label       "Hnydom pži zwobraznjenju">
-<!ENTITY markAsReadNoDelay.accesskey   "H">
-<!-- LOCALIZATION NOTE (markAsReadDelay.label): This will concatenate to
-     "After displaying for [___] seconds",
-     using (markAsReadDelay.label) and a number (secondsLabel.label). -->
-<!ENTITY markAsReadDelay.label         "Po zwobraznjenju za">
-<!ENTITY markAsReadDelay.accesskey     "z">
-<!ENTITY secondsLabel.label            "sekundy">
-<!ENTITY openMsgIn.label               "Powěsće wočinić w:">
-<!ENTITY openMsgInNewTab.label         "nowym rajtarku">
-<!ENTITY openMsgInNewTab.accesskey     "r">
-<!ENTITY reuseExpRadio0.label          "nowym powěsćowym woknje">
-<!ENTITY reuseExpRadio0.accesskey      "n">
-<!ENTITY reuseExpRadio1.label          "eksistowacym powěsćowym woknje">
-<!ENTITY reuseExpRadio1.accesskey      "e">
-<!ENTITY closeMsgOnMoveOrDelete.label  "Powěsćowe wokno/Powěsćowy rajtark při přesuwanju abo hašenju začinić">
-<!ENTITY closeMsgOnMoveOrDelete.accesskey "P">
 <!-- Update -->
 
 <!ENTITY updateApp.label                 "Aktualizacije &brandShortName;:">

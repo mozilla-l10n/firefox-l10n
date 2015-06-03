@@ -4,6 +4,7 @@
 
 <!ENTITY itemFormatting.label             "Formatowanje">
 <!ENTITY itemTags.label                   "Znački">
+<!ENTITY itemAdvanced.label               "Rozšěrjeny">
 
 <!ENTITY style.label                      "Stil:">
 <!ENTITY style.accesskey                  "i">
@@ -44,3 +45,29 @@
 <!ENTITY fontOptions.label       "Rozšěrjeny…">
 <!ENTITY colorButton.label       "Barby…">
 <!ENTITY colorButton.accesskey   "B">
+<!-- Advanced -->
+
+<!ENTITY reading.caption                  "Čitanje">
+<!ENTITY display.caption                  "Zwobraznjenje">
+<!ENTITY showCondensedAddresses.label     "Jenož zwobraznjenske mjeno za ludźi w adresniku pokazać">
+<!ENTITY showCondensedAddresses.accesskey "J">
+
+<!ENTITY autoMarkAsRead.label             "Powěsće awtomatisce jako přečitane markěrować">
+<!ENTITY autoMarkAsRead.accesskey         "P">
+<!ENTITY markAsReadNoDelay.label          "Hnydom pži zwobraznjenju">
+<!ENTITY markAsReadNoDelay.accesskey      "H">
+<!-- LOCALIZATION NOTE (markAsReadDelay.label): This will concatenate to
+     "After displaying for [___] seconds",
+     using (markAsReadDelay.label) and a number (secondsLabel.label). -->
+<!ENTITY markAsReadDelay.label            "Po zwobraznjenju za">
+<!ENTITY markAsReadDelay.accesskey        "z">
+<!ENTITY secondsLabel.label               "sekundow">
+<!ENTITY openMsgIn.label                  "Powěsće wočinić w:">
+<!ENTITY openMsgInNewTab.label            "nowym rajtarku">
+<!ENTITY openMsgInNewTab.accesskey        "r">
+<!ENTITY reuseExpRadio0.label             "nowym powěsćowym woknje">
+<!ENTITY reuseExpRadio0.accesskey         "n">
+<!ENTITY reuseExpRadio1.label             "eksistowacym powěsćowym woknje">
+<!ENTITY reuseExpRadio1.accesskey         "e">
+<!ENTITY closeMsgOnMoveOrDelete.label     "Powěsćowe wokno/Powěsćowy rajtark při přesuwanju abo hašenju začinić">
+<!ENTITY closeMsgOnMoveOrDelete.accesskey "P">
