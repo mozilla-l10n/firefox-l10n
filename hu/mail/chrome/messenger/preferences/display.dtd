@@ -4,7 +4,7 @@
 
 <!ENTITY itemFormatting.label             "Formázás">
 <!ENTITY itemTags.label                   "Címkék">
-
+<!ENTITY itemAdvanced.label               "Speciális">
 
 <!ENTITY style.label                      "Stílus:">
 <!ENTITY style.accesskey                  "t">
@@ -61,7 +61,7 @@
      using (markAsReadDelay.label) and a number (secondsLabel.label). -->
 <!ENTITY markAsReadDelay.label            "Megjelenítés után">
 <!ENTITY markAsReadDelay.accesskey        "e">
-
+<!ENTITY secondsLabel.label               "másodperc">
 <!ENTITY openMsgIn.label                  "Üzenetek megnyitása:">
 <!ENTITY openMsgInNewTab.label            "Új üzenetlapon">
 <!ENTITY openMsgInNewTab.accesskey        "l">

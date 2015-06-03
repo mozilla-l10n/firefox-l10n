@@ -158,8 +158,8 @@
 <!ENTITY bothFormatCmd.accesskey "H">
 <!ENTITY priorityMenu.label "Sürgősség">
 <!ENTITY priorityMenu.accesskey "S">
-
-
+<!ENTITY priorityButton.title "Prioritás">
+<!ENTITY priorityButton.tooltiptext "Üzenet prioritásának módosítása">
 <!ENTITY priorityButton.label "Sürgősség:">
 <!ENTITY lowestPriorityCmd.label "Nem sürgős">
 <!ENTITY lowestPriorityCmd.accesskey "e">
