@@ -4,7 +4,6 @@
 
 <!ENTITY itemGeneral.label       "Загальні">
 <!ENTITY dataChoicesTab.label    "Data Choices">
-<!ENTITY itemDisplay.label       "Читання та відображення">
 <!ENTITY itemUpdate.label        "Оновлення">
 <!ENTITY itemNetworking.label    "Мережа та диск">
 <!ENTITY itemCertificates.label  "Сертифікати">
@@ -51,32 +50,6 @@
 <!ENTITY enableCrashReporter.label       "Enable Crash Reporter">
 <!ENTITY enableCrashReporter.accesskey   "C">
 <!ENTITY crashReporterLearnMore.label    "Learn More">
-
-<!-- Display and Reading Settings -->
-<!ENTITY reading.caption               "Читання">
-<!ENTITY display.caption               "Відображення">
-<!ENTITY showCondensedAddresses.label  "Показувати тільки ім’я людей, що знаходяться в моїй адресній книзі">
-<!ENTITY showCondensedAddresses.accesskey "м">
-
-<!ENTITY autoMarkAsRead.label          "Автоматично позначати листи як прочитані">
-<!ENTITY autoMarkAsRead.accesskey      "А">
-<!ENTITY markAsReadNoDelay.label       "Зразу після відображення">
-<!ENTITY markAsReadNoDelay.accesskey   "З">
-<!-- LOCALIZATION NOTE (markAsReadDelay.label): This will concatenate to
-     "After displaying for [___] seconds",
-     using (markAsReadDelay.label) and a number (secondsLabel.label). -->
-<!ENTITY markAsReadDelay.label         "Як мине">
-<!ENTITY markAsReadDelay.accesskey     "Я">
-<!ENTITY secondsLabel.label            "секунд">
-<!ENTITY openMsgIn.label               "Відкривати листи у:">
-<!ENTITY openMsgInNewTab.label         "Новій вкладці">
-<!ENTITY openMsgInNewTab.accesskey     "в">
-<!ENTITY reuseExpRadio0.label          "новому вікні">
-<!ENTITY reuseExpRadio0.accesskey      "н">
-<!ENTITY reuseExpRadio1.label          "вже існуючому вікні">
-<!ENTITY reuseExpRadio1.accesskey      "у">
-<!ENTITY closeMsgOnMoveOrDelete.label  "Закривати вікно листа після видалення/переміщення">
-<!ENTITY closeMsgOnMoveOrDelete.accesskey "З">
 
 <!-- Update -->
 <!ENTITY updateApp.label                 "&brandShortName; updates:">
