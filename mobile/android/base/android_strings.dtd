@@ -26,7 +26,7 @@
 <!ENTITY  crash_include_url2 "Incluir o endereço da página onde estava">
 <!ENTITY  crash_sorry "Pedimos desculpa">
 <!ENTITY  crash_comment "Adicionar um comentário (os comentários são visíveis por todos)">
-<!ENTITY  crash_allow_contact2 "Autorizar a &vendorShortName; a contactar-me sobre este erro">
+<!ENTITY  crash_allow_contact2 "Autorizar que a &vendorShortName; me contacte sobre este erro">
 <!ENTITY  crash_email "O seu endereço de correio">
 <!ENTITY  crash_closing_alert "Sair sem enviar um relatório de erro?">
 <!ENTITY  sending_crash_report "A enviar relatório de erro\u2026">
