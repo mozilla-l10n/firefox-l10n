@@ -16,4 +16,7 @@
 <!ENTITY safeb.blocked.phishingPage.shortDesc2 "Vnašanje osebnih podatkov na tej strani lahko pripelje do kraje identitete ali druge zlorabe.">
 <!ENTITY safeb.blocked.phishingPage.longDesc2 "<p>Tovrstne spletne prevare se uporabljajo v zlorabah, znanih kot ribarjenje, kjer zlonamerne spletne strani ali elektronska pošta oponašajo vire, ki jim zaupate.</p>">
 
+<!ENTITY safeb.blocked.unwantedPage.title "Morebitna stran z neželeno programsko opremo!">
 <!-- Localization note (safeb.blocked.unwanted.shortDesc) - Please don't translate the contents of the <span id="unwanted_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
+<!ENTITY safeb.blocked.unwantedPage.shortDesc "Spletna stran na naslovu <span id='unwanted_sitename'/> je bila prijavljena, da vsebuje neželeno programsko opremo, zato je bila zavrnjena na podlagi vaših varnostnih nastavitev.">
+<!ENTITY safeb.blocked.unwantedPage.longDesc "Strani z neželeno programsko opremo poskušajo namestiti programsko opremo, ki je lahko zavajajoča in lahko neželeno vpliva na vaš sistem.">

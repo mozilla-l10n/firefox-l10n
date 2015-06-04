@@ -6,6 +6,8 @@
 <!ENTITY  no_space_to_start_error "Za zagon &brandShortName;a ni na voljo dovolj pomnilnika.">
 <!ENTITY  error_loading_file "Med poskusom nalaganja datotek, ki so potrebne za zagon &brandShortName;a, je prišlo do napake">
 
+<!ENTITY  onboard_start_message3 "Brskajte s &brandShortName;om">
+<!ENTITY  onboard_start_subtext3 "Naredite mobilno brskanje po spletu resnično vaše.">
 <!ENTITY  onboard_start_button_account "Prijava v &brandShortName;">
 <!ENTITY  onboard_start_button_browser "Začnite z brskanjem">
 
@@ -187,13 +189,22 @@
 <!ENTITY pref_donottrack_title "Sledenje">
 <!ENTITY pref_donottrack_summary "&brandShortName; bo stranem sporočal, naj vam ne sledijo">
 
+<!ENTITY tab_queue_toast_message2 "Zavihek v čakalni vrsti &brandShortName;a">
 <!ENTITY tab_queue_toast_action "Odpri zdaj">
+<!ENTITY tab_queue_prompt_title "Odpirate več povezav?">
+<!ENTITY tab_queue_prompt_text2 "Odprite jih brez vsakokratnega preklapljanja na &brandShortName;.">
+<!ENTITY tab_queue_prompt_tip_text "odločitev lahko pozneje spremenite v nastavitvah">
+<!ENTITY tab_queue_prompt_positive_action_button "Omogoči">
+<!ENTITY tab_queue_prompt_negative_action_button "Ne zdaj">
+<!ENTITY tab_queue_notification_title "&brandShortName;">
 <!-- Localization note (tab_queue_notification_text_plural2) : The
      formatD is replaced with the number of tabs queued.  The
      number of tabs queued is always more than one.  We can't use
      Android plural forms, sadly. See Bug #753859. -->
+<!ENTITY tab_queue_notification_text_plural2 "Zavihki na čakanju (&formatD;)">
 <!-- Localization note (tab_queue_notification_text_singular2) : This is the
      text of a notification; we expect only one tab queued. -->
+<!ENTITY tab_queue_notification_text_singular2 "1 zavihek na čakanju">
 
 <!ENTITY pref_char_encoding "Pokaži nabor znakov">
 <!ENTITY pref_char_encoding_on "Pokaži meni">
@@ -241,6 +252,8 @@ size. -->
 <!ENTITY pref_import_android "Uvozi iz Androida">
 <!ENTITY pref_import_android_summary "Uvozite zaznamke in zgodovino iz privzeto nameščenega brskalnika">
 <!ENTITY pref_private_data_history2 "Zgodovino brskanja">
+<!ENTITY pref_private_data_searchHistory "Zgodovina iskanja">
+<!ENTITY pref_private_data_formdata2 "Zgodovina obrazcev">
 <!ENTITY pref_private_data_cookies2 "Piškotke in aktivne prijave">
 <!ENTITY pref_private_data_passwords "Shranjena gesla">
 <!ENTITY pref_private_data_cache "Predpomnilnik">
@@ -365,6 +378,7 @@ size. -->
 <!ENTITY doorhanger_login_edit_username_hint "Uporabniško ime">
 <!ENTITY doorhanger_login_edit_password_hint "Geslo">
 <!ENTITY doorhanger_login_edit_toggle "Prikaži geslo">
+<!ENTITY doorhanger_login_edit_toast_error "Shranjevanje prijave ni uspelo">
 
 <!ENTITY pref_titlebar_mode "Naslovna vrstica">
 <!ENTITY pref_titlebar_mode_title "Prikaži ime strani">
@@ -375,6 +389,8 @@ size. -->
 <!ENTITY pref_scroll_title_bar2 "Celozaslonsko brskanje">
 <!ENTITY pref_scroll_title_bar_summary "Skrij naslovno vrstico &brandShortName;a med drsenjem navzdol po strani">
 
+<!ENTITY pref_tab_queue_title2 "Odpiranje več povezav">
+<!ENTITY pref_tab_queue_summary2 "Dodajte jih v čakalno vrsto namesto vsakokratnega preklapljanja na &amp;brandShortName;">
 
 <!-- Localization note (page_removed): This string appears in a toast message when
      any page is removed frome about:home. This includes pages that are in history,
@@ -424,6 +440,7 @@ size. -->
 <!ENTITY button_clear "Počisti">
 <!ENTITY button_remember "Zapomni si">
 
+<!ENTITY firstrun_panel_title_welcome "Dobrodošli">
 
 <!ENTITY home_top_sites_title "Glavne strani">
 <!-- Localization note (home_top_sites_add): This string is used as placeholder
@@ -603,6 +620,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      is a reserved caracter. In order to display one percent sign in the result of getString,
      double percent signs must be inserted in the format string.
      This entity is used in the zoomed view to display the zoom factor-->
+<!ENTITY percent "&formatS; &#37;&#37;">
 
 <!-- These are only used for accessibility for the done and overflow-menu buttons in the actionbar.
      They are never shown to users -->
