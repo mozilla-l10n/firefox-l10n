@@ -4,6 +4,7 @@
 
 <!ENTITY itemFormatting.label             "Fformatio">
 <!ENTITY itemTags.label                   "Tagiau">
+<!ENTITY itemAdvanced.label               "Uwch">
 
 <!ENTITY style.label                      "Arddull:">
 <!ENTITY style.accesskey                  "A">
@@ -44,3 +45,29 @@
 <!ENTITY fontOptions.label       "Uwch…">
 <!ENTITY colorButton.label       "Lliwiau…">
 <!ENTITY colorButton.accesskey   "L">
+<!-- Advanced -->
+
+<!ENTITY reading.caption                  "Darllen">
+<!ENTITY display.caption                  "Dangos">
+<!ENTITY showCondensedAddresses.label     "Dangos dim ond enw dangos unigolion yn fy llyfr cyfeiriadau">
+<!ENTITY showCondensedAddresses.accesskey "D">
+
+<!ENTITY autoMarkAsRead.label             "Marcio'n awtomatig negeseuon wedi'u darllen">
+<!ENTITY autoMarkAsRead.accesskey         "a">
+<!ENTITY markAsReadNoDelay.label          "Dangos yn syth">
+<!ENTITY markAsReadNoDelay.accesskey      "s">
+<!-- LOCALIZATION NOTE (markAsReadDelay.label): This will concatenate to
+     "After displaying for [___] seconds",
+     using (markAsReadDelay.label) and a number (secondsLabel.label). -->
+<!ENTITY markAsReadDelay.label            "Ar ôl dangos am">
+<!ENTITY markAsReadDelay.accesskey        "d">
+<!ENTITY secondsLabel.label               "eiliad">
+<!ENTITY openMsgIn.label                  "Agor neges yn:">
+<!ENTITY openMsgInNewTab.label            "Tab newydd">
+<!ENTITY openMsgInNewTab.accesskey        "T">
+<!ENTITY reuseExpRadio0.label             "Ffenestr neges newydd">
+<!ENTITY reuseExpRadio0.accesskey         "n">
+<!ENTITY reuseExpRadio1.label             "Ffenestr neges gyfredol">
+<!ENTITY reuseExpRadio1.accesskey         "g">
+<!ENTITY closeMsgOnMoveOrDelete.label     "Cau ffenestr/tab neges wrth symud neu ddileu">
+<!ENTITY closeMsgOnMoveOrDelete.accesskey "C">
