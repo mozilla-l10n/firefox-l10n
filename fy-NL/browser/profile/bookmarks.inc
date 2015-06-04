@@ -7,8 +7,8 @@
 #define bookmarks_title Blêdwizers
 #define bookmarks_heading Blêdwizers
 
-#define bookmarks_toolbarfolder Blêdwizersarkbalkemap
-#define bookmarks_toolbarfolder_description Foech blêdwizers ta oan dizze map om se te sjen op de blêdwizersarkbalke
+#define bookmarks_toolbarfolder Map Blêdwizerarkbalke
+#define bookmarks_toolbarfolder_description Foegje blêdwizers ta oan dizze map om se op de blêdwizerarkbalke wer te jaan
 
 # LOCALIZATION NOTE (getting_started):
 # link title for http://www.mozilla.com/en-US/firefox/central/
