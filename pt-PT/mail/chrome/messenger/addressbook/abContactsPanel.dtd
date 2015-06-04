@@ -16,7 +16,7 @@
 <!ENTITY addtoToFieldMenu.accesskey         "A">
 <!ENTITY addtoCcFieldMenu.label             "Adicionar ao campo Cc ">
 <!ENTITY addtoCcFieldMenu.accesskey         "C">
-<!ENTITY addtoBccFieldMenu.label            "Adicionar ao campo Bcc ">
+<!ENTITY addtoBccFieldMenu.label            "Adicionar ao campo Bcc">
 <!ENTITY addtoBccFieldMenu.accesskey        "B">
 
 <!ENTITY toButton.label                     "Adicionar a Para:">

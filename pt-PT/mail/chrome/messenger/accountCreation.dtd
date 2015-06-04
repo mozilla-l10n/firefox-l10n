@@ -78,11 +78,11 @@
 <!ENTITY changeSettings.label            "Alterar definições">
 <!ENTITY changeSettings.accesskey        "l">
 
-<!ENTITY contactYourProvider.description "O &brandShortName; pode permitir que receba o seu correio com as configurações fornecidas. No entanto, deve contactar o administrador ou fornecedor de correio eletrónico sobre estas ligações incorrectas. Para mais informações, consulte as FAQ do Thunderbird FAQ.">
+<!ENTITY contactYourProvider.description "O &brandShortName; pode permitir que receba o seu correio com as configurações indicadas. No entanto, deve contactar o administrador ou fornecedor de correio eletrónico sobre estas ligações incorretas. Para mais informações, consulte as FAQ do Thunderbird.">
 
 <!ENTITY insecureServer.tooltip.title    "Aviso! Este servidor não é seguro.">
 <!ENTITY insecureServer.tooltip.details  "Clique no círculo para mais detalhes.">
 
-<!ENTITY insecureUnencrypted.description "O seu correio eletrónico e autenticação são enviados sem cifra. A sua palavra-passe (e a mensagem) podem ser facilmente intercetadas por terceiros. O &brandShortName; permite-lhe obter o correio, mas deve contactar o seu fornecedor de correio para configurar o servidor com uma ligação segura.">
+<!ENTITY insecureUnencrypted.description "O seu endereço de correio eletrónico e autenticação são enviados sem cifra. A sua palavra-passe (e a mensagem) podem ser facilmente intercetadas por terceiros. O &brandShortName; permite-lhe obter o correio, mas deve contactar o seu fornecedor de correio para configurar o servidor com uma ligação segura.">
 <!ENTITY insecureSelfSigned.description  "O servidor utiliza um certificado que não é de confiança. Por isso não podemos garantir que não hajam terceiros a intercetar o tráfego entre o &brandShortName; e o seu servidor. O &brandShortName; deixa-o obter o correio, mas deve contactar o seu fornecedor de correio para configurar o servidor com um certificado de confiança.">
 <!ENTITY secureServer.description        "Parabéns! Este servidor está protegido.">
