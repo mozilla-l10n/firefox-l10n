@@ -5,7 +5,7 @@
      Used by screen readers to describe the Downloads Panel.
      -->
 
-<!ENTITY downloads.title                  "Transferências">
+<!ENTITY downloads.title                  "Descargas">
 <!-- LOCALIZATION NOTE (downloadDetails.width):
      Width of details for a Downloads Panel item (which directly influences the
      width of the Downloads Panel) expressed using a CSS unit. The longest
@@ -55,8 +55,8 @@
 <!ENTITY cmd.show.accesskey               "p">
 <!ENTITY cmd.showMac.label                "Mostrar no Finder">
 <!ENTITY cmd.showMac.accesskey            "F">
-<!ENTITY cmd.retry.label                  "Tentar novamente">
-<!ENTITY cmd.goToDownloadPage.label       "Ir para a página de transferências">
+<!ENTITY cmd.retry.label                  "Voltar a tentar">
+<!ENTITY cmd.goToDownloadPage.label       "Ir para a página de descargas">
 <!ENTITY cmd.goToDownloadPage.accesskey   "I">
 <!ENTITY cmd.copyDownloadLink.label       "Copiar ligação da transferência">
 <!ENTITY cmd.copyDownloadLink.accesskey   "l">
@@ -64,7 +64,7 @@
 <!ENTITY cmd.removeFromHistory.accesskey  "e">
 <!ENTITY cmd.clearList.label              "Limpar lista">
 <!ENTITY cmd.clearList.accesskey          "a">
-<!ENTITY cmd.clearDownloads.label         "Limpar transferências">
+<!ENTITY cmd.clearDownloads.label         "Limpar descargas">
 <!ENTITY cmd.clearDownloads.accesskey     "m">
 <!-- LOCALIZATION NOTE (cmd.unblock.label):
      This command may be shown in the context menu, as a menu button item, or as
@@ -97,17 +97,17 @@
      the panel at all.
      -->
 
-<!ENTITY downloadsHistory.label           "Mostrar todas as transferências">
+<!ENTITY downloadsHistory.label           "Mostrar todas as descargas">
 <!ENTITY downloadsHistory.accesskey       "s">
 
-<!ENTITY clearDownloadsButton.label       "Limpar transferências">
-<!ENTITY clearDownloadsButton.tooltip     "Limpa as transferências terminadas, canceladas e falhadas">
+<!ENTITY clearDownloadsButton.label       "Limpar descargas">
+<!ENTITY clearDownloadsButton.tooltip     "Limpa as descargas terminadas, canceladas e falhadas">
 <!-- LOCALIZATION NOTE (downloadsListEmpty.label):
      This string is shown when there are no items in the Downloads view, when it
      is displayed inside a browser tab.
      -->
 
-<!ENTITY downloadsListEmpty.label         "Não existem transferências.">
+<!ENTITY downloadsListEmpty.label         "Não existem descargas.">
 <!-- LOCALIZATION NOTE (downloadsPanelEmpty.label):
      This string is shown when there are no items in the Downloads Panel.
      -->
@@ -118,4 +118,4 @@
      results in the Downloads view.
      -->
 
-<!ENTITY downloadsListNoMatch.label       "Não foram localizadaas transferências coincidentes.">
+<!ENTITY downloadsListNoMatch.label       "Não foram encontradas descargas correspondentes.">
