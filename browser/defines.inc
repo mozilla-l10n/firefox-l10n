@@ -3,7 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 #filter emptyLines
 
-#define MOZ_LANGPACK_CREATOR Projecto de localização do Mozilla para Português
+#define MOZ_LANGPACK_CREATOR Projeto de tradução do Mozilla para Português
 
 # If non-English locales wish to credit multiple contributors, uncomment this
 
