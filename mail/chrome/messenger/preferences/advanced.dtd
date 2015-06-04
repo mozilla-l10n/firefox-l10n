@@ -4,7 +4,6 @@
 
 <!ENTITY itemGeneral.label       			"Algemien">
 <!ENTITY dataChoicesTab.label    			"Gegevenskar">
-<!ENTITY itemDisplay.label       			"Lêze &amp; werjefte">
 <!ENTITY itemUpdate.label        			"Fernijing">
 <!ENTITY itemNetworking.label    			"Netwurk &amp; skiifromte">
 <!ENTITY itemCertificates.label  			"Sertifikaten">
@@ -51,32 +50,6 @@
 <!ENTITY enableCrashReporter.label       "Crashreporter ynskeakelje">
 <!ENTITY enableCrashReporter.accesskey   "C">
 <!ENTITY crashReporterLearnMore.label    "Mear ynfo">
-
-<!-- Display and Reading Settings -->
-<!ENTITY reading.caption                	"Lêze">
-<!ENTITY display.caption                	"Toane">
-<!ENTITY showCondensedAddresses.label  		"Fan minsken yn myn adresboek allinnich werjeftenamme toane">
-<!ENTITY showCondensedAddresses.accesskey 	"m">
-
-<!ENTITY autoMarkAsRead.label             	"Berjochten automatysk as lêzen markearje">
-<!ENTITY autoMarkAsRead.accesskey         	"A">
-<!ENTITY markAsReadNoDelay.label          	"Direkt op it skerm">
-<!ENTITY markAsReadNoDelay.accesskey      	"O">
-<!-- LOCALIZATION NOTE (markAsReadDelay.label): This will concatenate to
-     "After displaying for [___] seconds",
-     using (markAsReadDelay.label) and a number (secondsLabel.label). -->
-<!ENTITY markAsReadDelay.label            	"Nei it toanen foar">
-<!ENTITY markAsReadDelay.accesskey        	"N">
-<!ENTITY secondsLabel.label               	"sekonden">
-<!ENTITY openMsgIn.label               		"Nije berjochten iepenje yn:">
-<!ENTITY openMsgInNewTab.label         		"in nij ljepblêd">
-<!ENTITY openMsgInNewTab.accesskey     		"l">
-<!ENTITY reuseExpRadio0.label          		"In nij berjochtefinster">
-<!ENTITY reuseExpRadio0.accesskey      		"i">
-<!ENTITY reuseExpRadio1.label          		"In besteand berjochtefinster">
-<!ENTITY reuseExpRadio1.accesskey      		"a">
-<!ENTITY closeMsgOnMoveOrDelete.label		"Slút berjochtskerm/ljepblêd nei ferpleatsen of fuortsmiten">
-<!ENTITY closeMsgOnMoveOrDelete.accesskey 	"S">
 
 <!-- Update -->
 <!ENTITY updateApp.label                 "&brandShortName;-fernijingen:">
