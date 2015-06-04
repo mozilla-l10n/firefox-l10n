@@ -6,7 +6,7 @@
 <!ENTITY minimizeWindow.label     "Ngotla">
 <!ENTITY bringAllToFront.label    "Tlisa Tsotlhe fa Pele">
 <!ENTITY zoomWindow.label         "Laola bogolo">
-<!ENTITY windowMenu.label         "Fensetere">
+<!ENTITY windowMenu.label         "Window">
 
 <!ENTITY helpMenu.label           "Thuso"> 
 <!ENTITY helpMenu.accesskey       "T"> 
