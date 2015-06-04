@@ -26,6 +26,8 @@
 <!ENTITY helpSafeMode.label       "Újraindítás letiltott kiegészítőkkel…">
 <!ENTITY helpSafeMode.accesskey   "r">
 
+
+
 <!ENTITY healthReport2.label      "&brandShorterName; állapotjelentés">
 <!ENTITY healthReport2.accesskey  "e">
 
