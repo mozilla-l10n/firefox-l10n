@@ -21,8 +21,8 @@
 <!ENTITY fileMenu.label               "Faele">
 <!ENTITY fileMenu.accesskey           "F">
 
-<!ENTITY newWindowCmd.label           "Fensetere e Ntšhwa">
-<!ENTITY newWindowCmd.accesskey       "F">
+<!ENTITY newWindowCmd.label           "Window e Ntšhwa">
+<!ENTITY newWindowCmd.accesskey       "W">
 
 
 <!ENTITY openFileCmd.label            "Bula Faele…">
