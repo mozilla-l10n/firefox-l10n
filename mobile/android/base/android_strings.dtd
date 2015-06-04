@@ -6,8 +6,6 @@
 <!ENTITY  no_space_to_start_error "Za zagon &brandShortName;a ni na voljo dovolj pomnilnika.">
 <!ENTITY  error_loading_file "Med poskusom nalaganja datotek, ki so potrebne za zagon &brandShortName;a, je prišlo do napake">
 
-<!ENTITY  onboard_start_message2 "Pozdravljeni v &brandShortName;u">
-<!ENTITY  onboard_start_subtext2 "Največ zasebnosti in možnosti prilagajanja doslej.">
 <!ENTITY  onboard_start_button_account "Prijava v &brandShortName;">
 <!ENTITY  onboard_start_button_browser "Začnite z brskanjem">
 
@@ -114,7 +112,6 @@
      to. -->
 <!ENTITY overlay_share_send_tab_btn_label "Pošlji na drugo napravo">
 <!ENTITY overlay_share_no_url "Ni povezave za deljenje">
-<!ENTITY overlay_share_retry "Poskusi znova">
 <!ENTITY overlay_share_select_device "Izberi napravo">
 <!-- Localization note (overlay_no_synced_devices) : Used when the menu option
      to send a tab to a synced device is pressed and no other synced devices
@@ -150,8 +147,6 @@
      it is applicable. -->
 <!ENTITY pref_search_hint "Nasvet: poljubno spletno stran lahko dodate na seznam iskalnikov, tako da dolgo pritisnete na njeno polje za iskanje in tapnete ikono &formatI;.">
 <!ENTITY pref_category_devtools "Razvojna orodja">
-<!ENTITY pref_category_devtools_summary "Oddaljeno razhroščevanje, utripanje izrisovanja">
-<!ENTITY pref_developer_paint_flashing "Utripanje izrisovanja">
 <!ENTITY pref_developer_remotedebugging "Oddaljeno razhroščevanje">
 <!ENTITY pref_category_logins "Prijave">
 <!ENTITY pref_remember_signons "Zapomni si gesla">
@@ -189,26 +184,16 @@
 
 <!ENTITY pref_tracking_protection_title "Zaščita pred sledenjem">
 <!ENTITY pref_tracking_protection_summary "&brandShortName; bo stranem preprečil, da bi vam sledile">
-
 <!ENTITY pref_donottrack_title "Sledenje">
 <!ENTITY pref_donottrack_summary "&brandShortName; bo stranem sporočal, naj vam ne sledijo">
 
-<!ENTITY tab_queue_toast_message "Odpri pozneje">
 <!ENTITY tab_queue_toast_action "Odpri zdaj">
-<!-- Localization note (tab_queue_notification_text_plural) : The
+<!-- Localization note (tab_queue_notification_text_plural2) : The
      formatD is replaced with the number of tabs queued.  The
      number of tabs queued is always more than one.  We can't use
      Android plural forms, sadly. See Bug #753859. -->
-<!ENTITY tab_queue_notification_text_plural "Št. zavihkov v čakalnici: &formatD;">
-<!-- Localization note (tab_queue_notification_title_plural) : This is the
-     title of a notification; we expect more than one tab queued. -->
-<!ENTITY tab_queue_notification_title_plural "Zavihki v čakalnici">
-<!-- Localization note (tab_queue_notification_title_singular) : This is the
-     title of a notification; we expect only one tab queued. -->
-<!ENTITY tab_queue_notification_title_singular "Zavihek v čakalnici">
-<!-- Localization note (tab_queue_notification_text_singular) : This is the
+<!-- Localization note (tab_queue_notification_text_singular2) : This is the
      text of a notification; we expect only one tab queued. -->
-<!ENTITY tab_queue_notification_text_singular "1 zavihek v čakalnici">
 
 <!ENTITY pref_char_encoding "Pokaži nabor znakov">
 <!ENTITY pref_char_encoding_on "Pokaži meni">
@@ -256,7 +241,6 @@ size. -->
 <!ENTITY pref_import_android "Uvozi iz Androida">
 <!ENTITY pref_import_android_summary "Uvozite zaznamke in zgodovino iz privzeto nameščenega brskalnika">
 <!ENTITY pref_private_data_history2 "Zgodovino brskanja">
-<!ENTITY pref_private_data_formdata "Zgodovino obrazcev in iskanja">
 <!ENTITY pref_private_data_cookies2 "Piškotke in aktivne prijave">
 <!ENTITY pref_private_data_passwords "Shranjena gesla">
 <!ENTITY pref_private_data_cache "Predpomnilnik">
@@ -304,7 +288,6 @@ size. -->
      (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
 <!ENTITY datareporting_crashreporter_title_short "Poročila o sesutju">
 <!ENTITY datareporting_wifi_title2 "Lokacijske storitve &vendorShortName;">
-<!ENTITY datareporting_wifi_geolocation_summary4 "Help &vendorShortName; map the world! Share the approximate Wi-Fi and cellular location of your device to improve our geolocation service.">
 <!ENTITY datareporting_wifi_geolocation_summary4 "Pomagajte organizaciji &vendorShortName; narisati zemljevid sveta. Objavljajte približne podatke o mobilnih in brezžičnih lokacijah vaše naprave za izboljšanje naše gelokacijske storitve">
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
@@ -392,8 +375,6 @@ size. -->
 <!ENTITY pref_scroll_title_bar2 "Celozaslonsko brskanje">
 <!ENTITY pref_scroll_title_bar_summary "Skrij naslovno vrstico &brandShortName;a med drsenjem navzdol po strani">
 
-<!ENTITY pref_tab_queue_title "Odpri pozneje">
-<!ENTITY pref_tab_queue_summary "Namesto takojšnjega odpiranja zavihkov odpri vse zavihke v čakalni vrsti ob naslednjem nalaganju &brandShortName;a.">
 
 <!-- Localization note (page_removed): This string appears in a toast message when
      any page is removed frome about:home. This includes pages that are in history,
@@ -443,6 +424,7 @@ size. -->
 <!ENTITY button_clear "Počisti">
 <!ENTITY button_remember "Zapomni si">
 
+
 <!ENTITY home_top_sites_title "Glavne strani">
 <!-- Localization note (home_top_sites_add): This string is used as placeholder
      text underneath empty thumbnails in the Top Sites page on about:home. -->
@@ -464,10 +446,10 @@ size. -->
      The placeholders &formatS1; and &formatS2; are used to mark the location of text underlining. -->
 <!ENTITY home_most_recent_emptyhint2 "Psst: uporaba &formatS1;Novega zasebnega zavihka&formatS2; ne shranjuje vaše zgodovine.">
 <!ENTITY home_reading_list_empty "Tukaj se prikažejo članki, ki ste jih shranili za kasneje.">
-<!-- Localization note (home_reading_list_hint2): The "TIP" string is synonymous to "hint", "clue", etc. This string is displayed
+<!-- Localization note (home_reading_list_hint): The "TIP" string is synonymous to "hint", "clue", etc. This string is displayed
      as an advisory message on how to add content to the reading list when the reading list empty.
-     The "&#37;I" in the string will be replaced by a small image of the icon described, and can be moved to wherever
-     it is applicable. Please keep the spacing around the "&#37;I" string. -->
+     The placeholder &formatI; will be replaced by a small image of the icon described, and can be moved to wherever
+     it is applicable. -->
 <!ENTITY home_reading_list_hint2 "Nasvet: Shranite članke na svoj bralni seznam z dolgim pritiskom na ikono &formatI;, ki se pojavi v naslovni vrstici.">
 <!-- Localization note (home_reading_list_hint_accessible): This string is used
      as alternate text for accessibility. It is not visible in the UI. -->
@@ -594,8 +576,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY updater_apply_title2 "Na voljo je posodobitev za &brandShortName;">
 <!ENTITY updater_apply_select2 "Tapnite za posodobitev">
 
-<!-- New tablet UI -->
-
 <!-- Guest mode -->
 <!ENTITY new_guest_session "Nova gostujoča seja">
 <!ENTITY exit_guest_session "Izhod iz gostujoče seje">
@@ -617,7 +597,14 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY colon ":">
 
-<!-- These are only used for accessiblity for the done and overflow-menu buttons in the actionbar.
+<!-- LOCALIZATION NOTE (percent): The percent sign is appended after a number to
+     display a percentage value. formatS is the number, #37 is the code to display a percent sign.
+     This format string is typically used by getString method, in such method the percent sign
+     is a reserved caracter. In order to display one percent sign in the result of getString,
+     double percent signs must be inserted in the format string.
+     This entity is used in the zoomed view to display the zoom factor-->
+
+<!-- These are only used for accessibility for the done and overflow-menu buttons in the actionbar.
      They are never shown to users -->
 <!ENTITY actionbar_menu "Meni">
 <!ENTITY actionbar_done "Končaj">

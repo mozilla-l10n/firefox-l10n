@@ -10,7 +10,7 @@
 -->
 <!ENTITY update.checkForUpdatesButton.label       "Preveri posodobitve">
 <!ENTITY update.checkForUpdatesButton.accesskey   "P">
-<!ENTITY update.updateButton.label2               "Ponovno zaženi &brandShortName; za posodobitev">
+<!ENTITY update.updateButton.label2                "Ponovno zaženi &brandShortName; za posodobitev">
 <!ENTITY update.updateButton.accesskey            "Z">
 <!ENTITY update.applyButtonBillboard.label        "Uveljavi posodobitev …">
 <!ENTITY update.applyButtonBillboard.accesskey    "A">
@@ -52,7 +52,7 @@
 <!-- LOCALIZATION NOTE (bottomLinks.rights): This is a link title that links to about:rights. -->
 <!ENTITY bottomLinks.rights         "Vaše pravice">
 
-<!-- LOCALIZATION NOTE (bottomLinks.privacy): This is a link title that links to http://www.mozilla.com/legal/privacy/. -->
+<!-- LOCALIZATION NOTE (bottomLinks.privacy): This is a link title that links to https://www.mozilla.org/legal/privacy/. -->
 <!ENTITY bottomLinks.privacy        "Politika zasebnosti">
 
 <!-- LOCALIZATION NOTE (update.checkingForUpdates): try to make the localized text short (see bug 596813 for screenshots). -->
