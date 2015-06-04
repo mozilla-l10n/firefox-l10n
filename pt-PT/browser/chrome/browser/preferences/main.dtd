@@ -20,7 +20,7 @@
 <!ENTITY restoreDefault.label      "Restaurar predefinições">
 <!ENTITY restoreDefault.accesskey  "R">
 
-<!ENTITY downloads.label     "Transferências">
+<!ENTITY downloads.label     "Descargas">
 
 <!ENTITY saveTo.label "Gravar ficheiros em">
 <!ENTITY saveTo.accesskey "v">
