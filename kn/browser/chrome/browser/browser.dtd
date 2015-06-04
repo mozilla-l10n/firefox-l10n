@@ -36,11 +36,11 @@ left edge of the tabstrip. Really we just want the string to express the idea
 that this is a lightweight and reversible action that keeps your tab where you
 can reach it easily. -->
 
-<!ENTITY  pinTab.label                       "ಟ್ಯಾಬನ್ನು ಅಂಟಿಸು">
+<!ENTITY  pinTab.label                       "Pin ಹಾಳೆ">
 <!ENTITY  pinTab.accesskey                   "P">
 <!ENTITY  unpinTab.label                     "Tab ಅನ್ನು ಮುಕ್ತಗೊಳಿಸು">
 <!ENTITY  unpinTab.accesskey                 "b">
-<!ENTITY  moveToGroup.label                  "ಗುಂಪಿಗೆ ಜರುಗಿಸು">
+<!ENTITY  moveToGroup.label                  "Move ಗುಂಪಿಗೆ">
 <!ENTITY  moveToGroup.accesskey              "M">
 <!ENTITY  moveToNewGroup.label               "ಹೊಸ ಗುಂಪು">
 <!ENTITY  moveToNewWindow.label              "ಹೊಸ Window ಗೆ ಜರುಗಿಸು">
