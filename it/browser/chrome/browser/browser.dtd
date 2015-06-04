@@ -485,7 +485,7 @@
 <!ENTITY identity.unverifiedsite2 "Questo sito web non fornisce informazioni relative all’identità.">
 <!ENTITY identity.connectedTo "Si è connessi con">
 <!ENTITY identity.runBy "Questo sito è gestito da">
-<!ENTITY identity.moreInfoLinkText "Altre informazioni su questo sito…">
+<!ENTITY identity.moreInfoLinkText2 "Ulteriori informazioni">
 <!ENTITY identity.permissions "Permessi">
 <!ENTITY tabsToolbar.label "Schede del browser">
 <!ENTITY syncTabsMenu2.label "Schede da altri dispositivi">
