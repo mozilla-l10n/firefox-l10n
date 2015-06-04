@@ -487,7 +487,6 @@
 <!ENTITY identity.runBy "Questo sito è gestito da">
 <!ENTITY identity.moreInfoLinkText "Altre informazioni su questo sito…">
 <!ENTITY identity.permissions "Permessi">
-<!ENTITY identity.help.tooltip "Come verificare se la connessione ad un sito web è sicura">
 <!ENTITY tabsToolbar.label "Schede del browser">
 <!ENTITY syncTabsMenu2.label "Schede da altri dispositivi">
 <!ENTITY syncBrand.shortName.label "Sync">
