@@ -249,4 +249,4 @@
      being a link to an external site. -->
 <!ENTITY disabledUnsigned.devInfo.start "ತಮ್ಮ ಆಡ್-ಅನ್‌ಗಳನ್ನು ದೃಢಪಡಿಸಿಕೊಳ್ಳ ಬಯಸಲು ಇಚ್ಛಿಸುವ ಡೆವೆಲಪರ್‌ಗಳು ಮುದುವರೆಯಲು ಓದಿ ನಮ್ಮ ">
 <!ENTITY disabledUnsigned.devInfo.linkToManual "ಕೈಪಿಡಿ">
-
+<!ENTITY disabledUnsigned.devInfo.end ".">
