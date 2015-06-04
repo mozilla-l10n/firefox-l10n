@@ -6,8 +6,7 @@
 <!ENTITY  no_space_to_start_error "Nincs elég hely a &brandShortName; elindításához.">
 <!ENTITY  error_loading_file "Hiba történt a &brandShortName; futtatásához szükséges fájlok betöltésekor.">
 
-<!ENTITY  onboard_start_message2 "Üdvözli a &brandShortName;!">
-<!ENTITY  onboard_start_subtext2 "Több adatvédelmi funkció és testreszabható beállítás, mint bármikor.">
+
 <!ENTITY  onboard_start_button_account "Bejelentkezés &brandShortName;ba">
 <!ENTITY  onboard_start_button_browser "Böngészés megkezdése">
 <!-- Localization note: These are used as the titles of different pages on the home screen.
@@ -114,7 +113,6 @@
 
 <!ENTITY overlay_share_send_tab_btn_label "Küldés másik eszközre">
 <!ENTITY overlay_share_no_url "Nincs hivatkozás a megosztásban">
-<!ENTITY overlay_share_retry "Próbálja újra">
 <!ENTITY overlay_share_select_device "Válasszon eszközt">
 <!-- Localization note (overlay_no_synced_devices) : Used when the menu option
      to send a tab to a synced device is pressed and no other synced devices
@@ -150,8 +148,6 @@
      it is applicable. -->
 <!ENTITY pref_search_hint "TIPP: bármely weboldalt hozzáadhatja a keresőkhöz a keresőmezőjének hosszú megérintésével, majd a &formatI; ikonra koppintással.">
 <!ENTITY pref_category_devtools "Fejlesztői eszközök">
-<!ENTITY pref_category_devtools_summary "Távoli hibakeresés, kirajzolás jelzése">
-<!ENTITY pref_developer_paint_flashing "Rajzolás villogása">
 <!ENTITY pref_developer_remotedebugging "Távoli hibakeresés">
 <!ENTITY pref_category_logins "Bejelentkezések">
 <!ENTITY pref_remember_signons "Jelszavak megjegyzése">
@@ -192,22 +188,19 @@
 <!ENTITY pref_donottrack_title "Ne kövessenek">
 <!ENTITY pref_donottrack_summary "A &brandShortName; közli a webhelyekkel, hogy Ön nem szeretné, ha követnék">
 
-<!ENTITY tab_queue_toast_message "Megnyitás később">
 <!ENTITY tab_queue_toast_action "Megnyitás most">
-<!-- Localization note (tab_queue_notification_text_plural) : The
+
+
+
+
+
+
+<!-- Localization note (tab_queue_notification_text_plural2) : The
      formatD is replaced with the number of tabs queued.  The
      number of tabs queued is always more than one.  We can't use
      Android plural forms, sadly. See Bug #753859. -->
-<!ENTITY tab_queue_notification_text_plural "&formatD; lap sorba állítva">
-<!-- Localization note (tab_queue_notification_title_plural) : This is the
-     title of a notification; we expect more than one tab queued. -->
-<!ENTITY tab_queue_notification_title_plural "Lapok sorbaállítva">
-<!-- Localization note (tab_queue_notification_title_singular) : This is the
-     title of a notification; we expect only one tab queued. -->
-<!ENTITY tab_queue_notification_title_singular "Lap sorbaállítva">
-<!-- Localization note (tab_queue_notification_text_singular) : This is the
+<!-- Localization note (tab_queue_notification_text_singular2) : This is the
      text of a notification; we expect only one tab queued. -->
-<!ENTITY tab_queue_notification_text_singular "1 lap sorbaállítva">
 
 <!ENTITY pref_char_encoding "Karakterkódolás">
 <!ENTITY pref_char_encoding_on "Menü megjelenítése">
@@ -255,7 +248,8 @@ size. -->
 <!ENTITY pref_import_android "Importálás Androidról">
 <!ENTITY pref_import_android_summary "Könyvjelzők és előzmények importálása a natív böngészőből">
 <!ENTITY pref_private_data_history2 "Böngészés előzményei">
-<!ENTITY pref_private_data_formdata "Űrlap- és keresési előzmények">
+
+
 <!ENTITY pref_private_data_cookies2 "Sütik és aktív bejelentkezések">
 <!ENTITY pref_private_data_passwords "Mentett jelszavak">
 <!ENTITY pref_private_data_cache "Gyorsítótár">
@@ -381,6 +375,7 @@ size. -->
 <!ENTITY doorhanger_login_edit_password_hint "Jelszó">
 <!ENTITY doorhanger_login_edit_toggle "Jelszó megjelenítése">
 
+
 <!ENTITY pref_titlebar_mode "Címsor">
 <!ENTITY pref_titlebar_mode_title "Oldalcím megjelenítése">
 <!ENTITY pref_titlebar_mode_url "Oldal webcímének megjelenítése ">
@@ -390,8 +385,7 @@ size. -->
 <!ENTITY pref_scroll_title_bar2 "Teljes képernyős böngészés">
 <!ENTITY pref_scroll_title_bar_summary "A &brandShortName; címsorának elrejtése oldal legörgetésekor">
 
-<!ENTITY pref_tab_queue_title "Megnyitás később">
-<!ENTITY pref_tab_queue_summary "Lapok azonnali megnyílásának megakadályozása, de minden sorbaállított lap megnyitása a &brandShortName; következő betöltésekor.">
+
 <!-- Localization note (page_removed): This string appears in a toast message when
      any page is removed frome about:home. This includes pages that are in history,
      bookmarks, or reading list. -->
@@ -440,6 +434,7 @@ size. -->
 <!ENTITY button_set "Beállítás">
 <!ENTITY button_clear "Törlés">
 <!ENTITY button_remember "Megjegyzés">
+
 
 <!ENTITY home_top_sites_title "Népszerű">
 <!-- Localization note (home_top_sites_add): This string is used as placeholder
@@ -612,6 +607,12 @@ Androidról">
 <!ENTITY ellipsis "…">
 
 <!ENTITY colon ":">
+<!-- LOCALIZATION NOTE (percent): The percent sign is appended after a number to
+     display a percentage value. formatS is the number, #37 is the code to display a percent sign.
+     This format string is typically used by getString method, in such method the percent sign
+     is a reserved caracter. In order to display one percent sign in the result of getString,
+     double percent signs must be inserted in the format string.
+     This entity is used in the zoomed view to display the zoom factor-->
 <!-- These are only used for accessibility for the done and overflow-menu buttons in the actionbar.
      They are never shown to users -->
 
@@ -623,7 +624,7 @@ Androidról">
 <!ENTITY voicesearch_failed_title "&brandShortName; hangos keresés">
 <!ENTITY voicesearch_failed_message "Hiba történt a hangos kereséssel. Próbálja meg később.">
 <!ENTITY voicesearch_failed_message_recoverable "Elnézést! Nem sikerült felismerni a szavait. Próbálja újra.">
-<!ENTITY voicesearch_failed_retry "Újra">
+
 <!-- Localization note (remote_tabs_last_synced): the variable is replaced by a
      "relative time span string" produced by Android.  This string describes the
      time the tabs were last synced relative to the current time; examples
