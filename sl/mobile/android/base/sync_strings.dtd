@@ -34,7 +34,7 @@
 <!ENTITY sync.input.key.label 'Obnovitveni ključ'>
 <!ENTITY sync.checkbox.server.label 'Uporabi zasebni strežnik'>
 <!ENTITY sync.input.server.label 'URL strežnika'>
-  
+
 <!-- Setup Fail -->
 <!ENTITY sync.title.fail.label '&syncBrand.shortName.label;: nastavitev ni uspela'>
 <!ENTITY sync.subtitle.fail.label '&syncBrand.fullName.label; ne uspe vzpostaviti povezave s strežnikom. Želite poskusiti znova?'>
@@ -43,7 +43,7 @@
 <!ENTITY sync.subtitle.nointernet.label 'Povezava z internetom ni na voljo.'>
 <!ENTITY sync.subtitle.failaccount.label 'Ustvarjanje računa na napravi je spodletelo.'>
 <!ENTITY sync.subtitle.failmultiple.label 'Ali imate nameščen več kot en Firefox? &syncBrand.fullName.label; trenutno podpira samo eno sočasno namestitev Firefoxa. Za uporabo &syncBrand.shortName.label; odstranite ostale namestitve.'>
-  
+
 <!-- Setup Success -->
 <!ENTITY sync.title.success.label 'Nastavitev končana'>
 <!ENTITY sync.subtitle.success.label1 'Podatki se prenašajo v ozadju. Za upravljanje računa lahko uporabite nastavitve ali začnete brskati s &brandShortName;om.'>
@@ -70,7 +70,7 @@
 <!ENTITY sync.button.cancel.label 'Prekliči'>
 <!ENTITY sync.button.connect.label 'Poveži'>
 <!ENTITY sync.button.ok.label 'V redu'>
-  
+
 <!-- Account strings -->
 <!ENTITY sync.account.label '&syncBrand.fullName.label;'>
 
@@ -147,7 +147,7 @@
 
 <!-- Localization note: the Firefox below should not change with the
      particular version of Firefox installed (Release, Beta, Aurora,
-     etc).  The account remains a "Firefox" account. -->
+     etc).  The account remains a "Firefox Account". -->
 <!ENTITY fxaccount_create_account_header2 'Ustvari Firefox Račun'>
 <!ENTITY fxaccount_create_account_password_length_restriction 'Mora vsebovati vsaj 8 znakov'>
 <!ENTITY fxaccount_create_account_day_of_birth 'Dan'>
@@ -166,7 +166,7 @@
 <!ENTITY fxaccount_account_create_not_allowed_learn_more 'Več o tem'>
 
 <!ENTITY fxaccount_confirm_account_header 'Potrdite račun'>
-<!-- Localization note: &formatS; is the Firefox account's email address. -->
+<!-- Localization note: &formatS; is the Firefox Account's email address. -->
 <!ENTITY fxaccount_confirm_account_verification_link 'Potrditvena povezava je bila poslana na &formatS;'>
 <!ENTITY fxaccount_confirm_account_resend_email 'Pošlji ponovno'>
 <!ENTITY fxaccount_confirm_account_change_email 'Pozabim ta e-poštni naslov?'>
@@ -232,14 +232,14 @@
 <!ENTITY fxaccount_remove_account_menu_item 'Odstrani račun'>
 
 <!-- Localization note: this is the name shown by the Android system
-     itself for a Firefox account. Don't localize this. -->
+     itself for a Firefox Account. Don't localize this. -->
 <!ENTITY fxaccount_account_type_label 'Firefox'>
 
 <!-- Localization note: these are shown by the Android system itself,
-     when the user navigates to the Android > Accounts > [Firefox
-     Account] Screen. The link takes the user to the Firefox account
+     when the user navigates to the Android > Accounts > {Firefox
+     Account} Screen. The link takes the user to the Firefox Account
      status activity, which lets them manage their Firefox
-     account. -->
+     Account. -->
 <!ENTITY fxaccount_options_title 'Možnosti &syncBrand.shortName.label;'>
 <!ENTITY fxaccount_options_configure_title 'Nastavi &syncBrand.shortName.label;'>
 
@@ -260,8 +260,8 @@
 <!ENTITY fxaccount_remote_error_ACCOUNT_LOCKED 'Račun je zaklenjen. &formatS1;'>
 
 <!ENTITY fxaccount_sync_sign_in_error_notification_title2 '&syncBrand.shortName.label; ni povezan'>
-<!-- Note to translators: the format string below will be replaced
-     with the Firefox account's email address. -->
+<!-- Localization note: the format string below will be replaced
+     with the Firefox Account's email address. -->
 <!ENTITY fxaccount_sync_sign_in_error_notification_text2 'Tapnite za prijavo kot &formatS;'>
 
 <!ENTITY fxaccount_sync_finish_migrating_notification_title 'Končaj nadgradnjo &syncBrand.shortName.label;?'>

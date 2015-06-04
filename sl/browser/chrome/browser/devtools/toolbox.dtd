@@ -97,11 +97,9 @@
 <!ENTITY options.disableCache.label2     "Onemogoči predpomnilnik (ko so razvojna orodja odprta)">
 <!ENTITY options.disableCache.tooltip2   "Če vključite to možnost, boste onemogočili predpomnilnik v vseh zavihkih, ki imajo odprta razvojna orodja.">
 
-<!-- LOCALIZATION NOTE (options.enableServiceWorkersTesting.label,
-  -  options.enableServiceWorkersTesting.tooltip): This is the options panel label and
-  -  tooltip for the checkbox that toggles the service workers testing features on or off. -->
-<!ENTITY options.enableServiceWorkersTesting.label     "Omogoči preizkušanje delavcev storitev (ko so razvojna orodja odprta)">
-<!ENTITY options.enableServiceWorkersTesting.tooltip   "Če vključite to možnost, boste omogočili možnosti preizkušanja delavcev storitev v vseh zavihkih, ki imajo odprta razvojna orodja.">
+<!-- LOCALIZATION NOTE (options.enableServiceWorkersHTTP.label,
+  -  options.enableServiceWorkersHTTP.tooltip): This is the options panel label and
+  -  tooltip for the checkbox that toggles the service workers testing features on or off. This option enables service workers over HTTP. -->
 
 <!-- LOCALIZATION NOTE (options.selectDefaultTools.label): This is the label for
   -  the heading of group of checkboxes corresponding to the default developer
@@ -163,7 +161,7 @@
   -  panel. -->
 <!ENTITY options.profiler.label            "Spremljanje delovanja JavaScripta">
 
-<!-- LOCALICATION NOTE (options.commonprefs): This is the label for the heading
+<!-- LOCALIZATION NOTE (options.commonprefs): This is the label for the heading
       of all preferences that affect both the Web Console and the Network
       Monitor -->
 <!ENTITY options.commonPrefs.label           "Splošne nastavitve">
@@ -198,3 +196,4 @@ simbole platforme Gecko">
 <!ENTITY options.sourceeditor.keybinding.label          "Bližnjice tipk">
 <!ENTITY options.sourceeditor.keybinding.accesskey      "K">
 <!ENTITY options.sourceeditor.keybinding.default.label  "Privzeto">
+

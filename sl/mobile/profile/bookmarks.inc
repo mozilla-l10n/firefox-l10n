@@ -23,7 +23,7 @@
 #define bookmarks_addons Firefox: prilagoditev z dodatki
 
 # LOCALIZATION NOTE (bookmarks_support):
-# link title for https://support.mozilla.com/mobile
+# link title for https://support.mozilla.org/
 #define bookmarks_support Firefox: podpora
 
 # LOCALIZATION NOTE (bookmarks_marketplace):
