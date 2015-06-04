@@ -10,7 +10,7 @@
 
 <!ENTITY subjectField4.label "Assunto ">
 <!ENTITY ccField4.label "Cc ">
-<!ENTITY bccField4.label "Bcc ">
+<!ENTITY bccField4.label "Bcc">
 <!ENTITY newsgroupsField4.label "Grupos de notícias ">
 <!ENTITY followupToField4.label "Reenviar para ">
 <!ENTITY tagsHdr4.label "Etiquetas ">

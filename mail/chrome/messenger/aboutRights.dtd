@@ -37,8 +37,8 @@
 <!ENTITY rights.intro-point4c ".">
 <!-- point 4 text for unbranded builds -->
 
-<!ENTITY rights.intro-point4a-unbranded "Se este producto incorporar serviços web, quaisquer termos do serviço aplicáveis devem ser descritos na ">
-<!ENTITY rights.intro-point4b-unbranded "a secção de">
+<!ENTITY rights.intro-point4a-unbranded "Se este produto incorporar serviços web, quaisquer termos do serviço(s) aplicáveis devem ser descritos na ">
+<!ENTITY rights.intro-point4b-unbranded "Serviços web">
 <!ENTITY rights.intro-point4c-unbranded " serviços web.">
 
 <!ENTITY rights.webservices-header "&brandFullName; Sítio web de serviços">
@@ -49,7 +49,7 @@
 <!-- intro paragraph for branded builds -->
 
 <!ENTITY rights.webservices-a "O &brandFullName; também disponibiliza serviços opcionais (&quot;Serviços&quot;), tais como o serviço de atualizações. que está disponível para a sua utilização desta versão binária do &brandShortName; como descrito abaixo. Se não quiser usar os serviços ou se os termos abaixo não forem aceitáveis, pode desativar o serviço de atualizações nas preferências, selecionando ">
-<!ENTITY rights.webservices-b "a secção">
+<!ENTITY rights.webservices-b "Avançado">
 <!ENTITY rights.webservices-c " Avançado, seguido do ">
 <!ENTITY rights.webservices-d "separador">
 <!ENTITY rights.webservices-e " Atualização, e desmarque a opçção &quot;Procurar atualizações automaticamente&quot;.">
