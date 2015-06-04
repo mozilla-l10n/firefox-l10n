@@ -5,7 +5,7 @@
 <!ENTITY safeModeDialog.title         "Modo de segurança do &brandShortName;">
 <!ENTITY window.width                 "40em">
 
-<!ENTITY safeModeDescription.label    "O &brandShortName; está a executar em modo de segurança, o que desactivou temporáriamente as suas definições personalizadas, temas e extensões.">
+<!ENTITY safeModeDescription.label    "O &brandShortName; está a executar em modo de segurança, o que desativou temporariamente as suas definições personalizadas, temas e extensões.">
 <!ENTITY safeModeDescription2.label   "Pode alterar algumas ou todas as alterações permanentes:">
 
 <!ENTITY disableAddons.label          "Desativar todos os extras">

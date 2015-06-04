@@ -10,7 +10,7 @@
 <!ENTITY cmd.cancel.tooltip              "Cancelar">
 <!ENTITY cmd.open.label                  "Abrir">
 <!ENTITY cmd.open.accesskey              "A">
-<!ENTITY cmd.show.label                  "Abrir a pasta respectiva">
+<!ENTITY cmd.show.label                  "Abrir a pasta respetiva">
 <!ENTITY cmd.show.accesskey              "b">
 <!ENTITY cmd.goToDownloadPage.label      "Ir para a página de transferências">
 <!ENTITY cmd.goToDownloadPage.accesskey  "r">
