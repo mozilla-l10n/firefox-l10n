@@ -19,14 +19,14 @@
 <!ENTITY navbarOverflow.label                "ಹೆಚ್ಚಿನ ಉಪಕರಣಗಳು…">
 <!-- Tab context menu -->
 
-<!ENTITY  reloadTab.label                    "ಟ್ಯಾಬ್ ಅನ್ನು ಮರಳಿ ಲೋಡ್ ಮಾಡು">
+<!ENTITY  reloadTab.label                    "Reload ಹಾಳೆ">
 <!ENTITY  reloadTab.accesskey                "R">
 <!ENTITY  reloadAllTabs.label                "All ಹಾಳೆಗಳನ್ನು ರೀಲೋಡ್ ಮಾಡು">
 <!ENTITY  reloadAllTabs.accesskey            "A">
 <!-- LOCALIZATION NOTE (closeTabsToTheEnd.label): This should indicate the
 direction in which tabs are closed, i.e. locales that use RTL mode should say
 left instead of right. -->
-<!ENTITY  closeTabsToTheEnd.label            "ಬಲಕ್ಕಿರುವ ಟ್ಯಾಬ್‌ಗಳನ್ನು ಮುಚ್ಚುತ್ತದೆ">
+<!ENTITY  closeTabsToTheEnd.label            "Right ಇರುವ ಟ್ಯಾಬ್‌ಗಳನ್ನು ಮುಚ್ಚುತ್ತದೆ">
 <!ENTITY  closeTabsToTheEnd.accesskey        "i">
 <!ENTITY  closeOtherTabs.label               "ಇತರೆ ಟ್ಯಾಬ್‌ಗಳನ್ನು Close">
 <!ENTITY  closeOtherTabs.accesskey           "o">
@@ -38,12 +38,12 @@ can reach it easily. -->
 
 <!ENTITY  pinTab.label                       "ಟ್ಯಾಬನ್ನು ಅಂಟಿಸು">
 <!ENTITY  pinTab.accesskey                   "P">
-<!ENTITY  unpinTab.label                     "ಟ್ಯಾಬ್ ಅನ್ನು ಮುಕ್ತಗೊಳಿಸು">
+<!ENTITY  unpinTab.label                     "Tab ಅನ್ನು ಮುಕ್ತಗೊಳಿಸು">
 <!ENTITY  unpinTab.accesskey                 "b">
 <!ENTITY  moveToGroup.label                  "ಗುಂಪಿಗೆ ಜರುಗಿಸು">
 <!ENTITY  moveToGroup.accesskey              "M">
 <!ENTITY  moveToNewGroup.label               "ಹೊಸ ಗುಂಪು">
-<!ENTITY  moveToNewWindow.label              "ಹೊಸ ಕಿಟಕಿಗೆ ಜರುಗಿಸು">
+<!ENTITY  moveToNewWindow.label              "ಹೊಸ Window ಗೆ ಜರುಗಿಸು">
 <!ENTITY  moveToNewWindow.accesskey          "W">
 <!ENTITY  bookmarkAllTabs.label              "ಎಲ್ಲಾ ಹಾಳೆಗಳನ್ನು ಪುಟಗುರುತು ಮಾಡು…">
 <!ENTITY  bookmarkAllTabs.accesskey          "T">
