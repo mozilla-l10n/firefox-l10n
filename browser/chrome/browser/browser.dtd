@@ -43,7 +43,7 @@ can reach it easily. -->
 <!ENTITY  moveToGroup.label                  "Sutisetsa ko Setlhopheng">
 <!ENTITY  moveToGroup.accesskey              "S">
 <!ENTITY  moveToNewGroup.label               "Setlhopa se sesha">
-<!ENTITY  moveToNewWindow.label              "Sutisetsa ko Fensetereng e ntsha">
+<!ENTITY  moveToNewWindow.label              "Sutisetsa ko Window e ntšhwa">
 <!ENTITY  moveToNewWindow.accesskey          "W">
 
 
@@ -293,11 +293,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY fileMenu.label         "Faele"> 
 <!ENTITY fileMenu.accesskey       "F">
-<!ENTITY newNavigatorCmd.label        "Fensetere e Ntšha">
+<!ENTITY newNavigatorCmd.label        "Window e ntšhwa">
 <!ENTITY newNavigatorCmd.key        "N">
-<!ENTITY newNavigatorCmd.accesskey      "F">
-<!ENTITY newPrivateWindow.label     "Poraefete e Ntšha Fensetere">
-<!ENTITY newPrivateWindow.accesskey "F">
+<!ENTITY newNavigatorCmd.accesskey      "N">
+<!ENTITY newPrivateWindow.label     "Window e ntšhwa ya poraefete">
+<!ENTITY newPrivateWindow.accesskey "W">
 
 <!ENTITY editMenu.label         "Tseleganya"> 
 <!ENTITY editMenu.accesskey       "T"> 
@@ -346,7 +346,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY historyMenu.accesskey "T">
 <!ENTITY historyUndoMenu.label "Dithebe tse di tswetsweng Bosheng">
 <!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
-<!ENTITY historyUndoWindowMenu.label "Difensetere tse di tswetsweng Bosheng">
+<!ENTITY historyUndoWindowMenu.label "Di Window tse di tswetsweng Bosheng">
 <!ENTITY historyRestoreLastSession.label "Busetsa Botlameladikopanelwa jo bo fetileng">
 
 <!ENTITY showAllHistoryCmd2.label "Supa Ditiragalo tsotlhe tse di fetileng">
@@ -434,16 +434,16 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY openLinkCmdInTab.label       "Bula Kgokagano mo Thebeng e Ntšha">
 <!ENTITY openLinkCmdInTab.accesskey   "T">
-<!ENTITY openLinkCmd.label            "Bula Kgokagano mo Fensetereng e Ntšha">
-<!ENTITY openLinkCmd.accesskey        "F">
-<!ENTITY openLinkInPrivateWindowCmd.label "Bula Kgokagano mo Fensetereng e Ntšha ya Poraefete">
+<!ENTITY openLinkCmd.label            "Bula Kgokagano mo Window e ntšhwa">
+<!ENTITY openLinkCmd.accesskey        "W">
+<!ENTITY openLinkInPrivateWindowCmd.label "Bula Kgokagano mo Window e Ntšha ya Poraefete">
 <!ENTITY openLinkInPrivateWindowCmd.accesskey "P">
 <!ENTITY openLinkCmdInCurrent.label     "Bula Kgokagano">
 <!ENTITY openLinkCmdInCurrent.accesskey "B">
 <!ENTITY openFrameCmdInTab.label      "Bula Foreime mo Thebeng e Ntšha">
 <!ENTITY openFrameCmdInTab.accesskey  "T">
-<!ENTITY openFrameCmd.label           "Bula Foreime mo Fensetereng e Ntšhwa">
-<!ENTITY openFrameCmd.accesskey       "F">
+<!ENTITY openFrameCmd.label           "Bula Foreime mo Window e Ntšhwa">
+<!ENTITY openFrameCmd.accesskey       "W">
 <!ENTITY showOnlyThisFrameCmd.label     "Bula Foreime mo Fensetereng e Ntšha">
 <!ENTITY showOnlyThisFrameCmd.accesskey "F">
 <!ENTITY reloadCmd.commandkey         "r">
@@ -753,7 +753,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY getUserMedia.selectCamera.accesskey "S">
 <!ENTITY getUserMedia.selectMicrophone.label "Segoagoe se se ka abelanwang:">
 <!ENTITY getUserMedia.selectMicrophone.accesskey "S">
-
+<!ENTITY getUserMedia.allWindowsShared.message "Di window tse di bonagalang tsotlhe mo sekerini di tla abelanwa.">
 <!-- Bad Content Blocker Doorhanger Notification -->
 
 
@@ -806,8 +806,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      The translation should do the same. -->
 
 
-
-
+<!ENTITY panicButton.view.deleteTabsAndWindows    "Tswala Dithebe le di Window tsotlhe">
+<!ENTITY panicButton.view.openNewWindow           "Bula Window e ntšhwa">
 
 
 

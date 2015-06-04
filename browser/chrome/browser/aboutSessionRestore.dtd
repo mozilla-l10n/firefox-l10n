@@ -7,7 +7,7 @@
      and regret that we are unable to restore the session for the user -->
 
 <!ENTITY restorepage.errorTitle     "le fa gontse jalo, se se a swabisa.">
-<!ENTITY restorepage.problemDesc    "&brandShorName; go na le mathata mo pusetsomaemong a  difensetere le dithebe. Se gantsi se bakiwa ke tsebe ya webo e butsweng bosheng.">
+<!ENTITY restorepage.problemDesc    "&brandShorName; go na le bothata mo pusetsomaemong ya windows le dithebe. Se gantsi se bakiwa ke tsebe ya webo e butsweng bosheng.">
 <!ENTITY restorepage.tryThis        "O ka leka:">
 <!ENTITY restorepage.restoreSome    "Tlosa nngwe kgotsa dithebe tse dintsi tse o akanyang di baka bothata">
 <!ENTITY restorepage.startNew       "Tshimolodiso ya patlo yotlhe ya botlameladikopanelwa">
@@ -18,9 +18,9 @@
 <!ENTITY restorepage.close.access   "C">
 
 <!ENTITY restorepage.restoreHeader  "Busetsa">
-<!ENTITY restorepage.listHeader     "Fensetere le dithebe">
+<!ENTITY restorepage.listHeader     "Windows le dithebe">
 <!-- LOCALIZATION NOTE: &#37;S will be replaced with a number. -->
-<!ENTITY restorepage.windowLabel    "Fensetere &#037;S">
+<!ENTITY restorepage.windowLabel    "Window &#037;S">
 <!-- LOCALIZATION NOTE: The following 'welcomeback2' strings are for about:welcomeback,
      not for about:sessionstore -->
 
@@ -32,6 +32,7 @@
 
 
 
+<!ENTITY welcomeback2.label.restoreAll  "Busetsa di Window le Dithebe tsotlhe">
 
 <!-- LOCALIZATION NOTE (welcomeback2.beforelink.pageInfo2,
 welcomeback2.afterlink.pageInfo2): these two string are used respectively
