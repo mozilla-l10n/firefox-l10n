@@ -22,6 +22,8 @@
 
 <!ENTITY cmd.back.tooltip                     "Ugrás az előző oldalra">
 <!ENTITY cmd.forward.tooltip                  "Ugrás a következő oldalra">
+
+
 <!-- global warnings -->
 
 <!ENTITY warning.safemode.label                    "Minden kiegészítő tiltva van a csökkentett mód miatt.">
@@ -102,7 +104,8 @@
 <!ENTITY cmd.installAddon.accesskey           "T">
 <!ENTITY cmd.uninstallAddon.label             "Eltávolítás">
 <!ENTITY cmd.uninstallAddon.accesskey         "l">
-<!ENTITY cmd.debugAddon.label                 "Hibakeresés">
+
+
 <!ENTITY cmd.showPreferencesWin.label         "Beállítások">
 <!ENTITY cmd.showPreferencesWin.tooltip       "A kiegészítő beállításainak módosítása">
 <!ENTITY cmd.showPreferencesUnix.label        "Beállítások">
@@ -228,3 +231,15 @@
 <!ENTITY experiment.info.changetelemetry.accesskey "b">
 
 <!ENTITY setting.learnmore "További tudnivalók…">
+
+<!-- LOCALIZATION NOTE (disabledUnsigned.description.start, disabledUnsigned.description.findAddonsLink, disabledUnsigned.description.end):
+     These entities form a sentence, with
+     disabledUnsigned.description.findAddonsLink being a link to an external site. -->
+
+
+
+<!-- LOCALIZATION NOTE (disabledUnsigned.devInfo.start, disabledUnsigned.devInfo.linkToManual, disabledUnsigned.devInfo.end):
+     These entities form a sentence, with disabledUnsigned.devInfo.linkToManual
+     being a link to an external site. -->
+
+
