@@ -390,7 +390,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY customizeMenu.addMoreItems.accesskey "A">
 
 <!ENTITY openCmd.commandkey           "l">
-<!ENTITY urlbar.placeholder2          "Pesquisar ou introduzir endereço">
+<!ENTITY urlbar.placeholder2          "Pesquise ou digite um endereço">
 <!ENTITY urlbar.accesskey             "a">
 <!ENTITY urlbar.switchToTab.label     "Mudar para o separador:">
 <!-- 
