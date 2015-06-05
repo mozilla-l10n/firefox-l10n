@@ -51,6 +51,7 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 <!ENTITY aboutSupport.appBasicsBuildConfig "உருவாக்க கட்டமைப்பு">
 <!ENTITY aboutSupport.appBasicsUserAgent "பயனர் முகவர்">
 <!ENTITY aboutSupport.appBasicsMemoryUse "நினைவகப் பயன்பாடு">
+<!-- LOCALIZATION NOTE the term "Service Workers" should not be translated. -->
 
 <!ENTITY aboutSupport.appBasicsMultiProcessSupport "பலசெயல்முறை சாளரம்">
 
