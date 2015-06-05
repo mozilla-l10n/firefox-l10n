@@ -94,7 +94,7 @@
 <!ENTITY  event.menu.view.accesskey                       "V">
 <!ENTITY  event.menu.view.toolbars.label                  "Barras de ferramentas">
 <!ENTITY  event.menu.view.toolbars.accesskey              "f">
-<!ENTITY  event.menu.view.toolbars.event.label            "Barra de ferramentas de eventos">
+<!ENTITY  event.menu.view.toolbars.event.label            "Barra de eventos">
 <!ENTITY  event.menu.view.toolbars.event.accesskey        "e">
 <!ENTITY  event.menu.view.toolbars.customize.label        "Personalizar">
 <!ENTITY  event.menu.view.toolbars.customize.accesskey    "P">
