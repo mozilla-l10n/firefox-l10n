@@ -101,6 +101,12 @@
 <!ENTITY proxyResolveFailure.title "ไม่สามารถค้นหาเซิร์ฟเวอร์พร็อกซี">
 <!-- LOCALIZATION NOTE (proxyResolveFailure.longDesc3) This string contains markup including widgets for enabling wifi connections.
      The text inside the tags should be localized. Do not touch the ids. -->
+<!ENTITY proxyResolveFailure.longDesc3 "<ul> 
+<li>ตรวจสอบการตั้งค่าพร็อกซีให้แน่ใจว่าใช้งานได้</li> 
+<li>ตรวจสอบให้แน่ใจว่าอุปกรณ์ของคุณเชื่อมต่อกับเครือข่ายข้อมูลหรือ Wi-Fi แล้ว</li> 
+<button id='wifi'>เปิด Wi-Fi</button> 
+</li> 
+</ul>">
 
 <!ENTITY redirectLoop.title "หน้าเว็บไม่ได้เปลี่ยนเส้นทางอย่างถูกต้อง">
 <!ENTITY redirectLoop.longDesc "<ul> 
