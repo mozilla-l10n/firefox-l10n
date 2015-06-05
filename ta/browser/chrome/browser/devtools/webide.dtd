@@ -115,7 +115,7 @@
 <!ENTITY prefs_title "முன்னுரிமைகள்">
 <!ENTITY prefs_editor_title "தொகுப்பி">
 <!ENTITY prefs_general_title "பொது">
-<!ENTITY prefs_restore "முன்னிருப்பை மீட்டமைக்கவும்">
+
 <!ENTITY prefs_manage_components "கூடுதல் கூறுகளை நிர்வகி">
 <!ENTITY prefs_options_autoconnectruntime "முந்தைய இயக்க நேரத்திற்கு மீட்டு இணை">
 <!ENTITY prefs_options_autoconnectruntime_tooltip "WebIDE துவங்கும் போது முந்தைய இயக்க நேரத்திற்கு மீட்டு இணை">
@@ -139,7 +139,7 @@
 <!-- Permissions Table -->
 
 <!ENTITY permissionstable_title "அனுமதி அட்டவணை">
-<!ENTITY permissionstable_name_header "பெயர்">
+
 <!-- Runtime Details -->
 
 <!ENTITY runtimedetails_title "இயக்க நேர தகவல்">
@@ -183,3 +183,14 @@
 <!-- LOCALIZATION NOTE (wifi_auth_token_request): Instructions requesting the
      user to transfer authentication info by transferring a token. -->
 <!-- Logs panel -->
+<!-- Simulator Options -->
+
+
+
+
+<!ENTITY simulator_version "பதிப்பு">
+
+
+
+
+

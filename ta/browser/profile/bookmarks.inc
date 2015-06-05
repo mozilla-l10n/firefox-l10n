@@ -76,16 +76,4 @@
 #define firefox_about எங்களை பற்றி
 
 
-# LOCALIZATION NOTE (firefox_feedback):
-
-
-# link title for browser feedback page
-
-
-# currently used by Metro only: https://input.mozilla.org/feedback/metrofirefox
-
-
-#define firefox_feedback கருத்து தெரிவிக்கவும்
-
-
 #unfilter emptyLines
