@@ -33,7 +33,7 @@
 <!ENTITY enableHealthReport.accesskey    "Z">
 <!ENTITY healthReportLearnMore.label     "Več o tem">
 
-<!ENTITY telemetryDesc.label             "Pošilja podatke o zmogljivosti, uporabi, strojni opremi in prilagoditvah organizaciji &vendorShortName;, da lahko naredi &brandShortName; boljši">
+<!ENTITY telemetryDesc.label             "Pošilja podatke o učinkovitosti, uporabi, strojni opremi in prilagoditvah organizaciji &vendorShortName;, da lahko naredi &brandShortName; boljši">
 <!ENTITY enableTelemetryData.label       "Pošiljaj dodatne podatke (npr. telemetrijo)">
 <!ENTITY enableTelemetryData.accesskey   "T">
 <!ENTITY telemetryLearnMore.label        "Več o tem">

@@ -295,7 +295,7 @@ size. -->
 <!ENTITY datareporting_fhr_summary2 "Pomaga vam razumeti delovanje vašega brskalnika in pošilja podatke o zdravstvenem stanju vašega brskalnika organizaciji &vendorShortName;">
 <!ENTITY datareporting_abouthr_title "Prikaži moje zdravniško spričevalo">
 <!ENTITY datareporting_telemetry_title "Telemetrija">
-<!ENTITY datareporting_telemetry_summary "Pošilja podatke o zmogljivosti, uporabi, strojni opremi in prilagoditvah organizaciji &vendorShortName;, da lahko naredi &brandShortName; boljši">
+<!ENTITY datareporting_telemetry_summary "Pošilja podatke o učinkovitosti, uporabi, strojni opremi in prilagoditvah organizaciji &vendorShortName;, da lahko naredi &brandShortName; boljši">
 <!ENTITY datareporting_crashreporter_summary "&brandShortName; pošilja poročila o sesutju organizaciji &vendorShortName;, da lahko naredi brskalnik bolj varen in zanesljiv">
 <!-- Localization note (datareporting_crashreporter_title_short) : This string matches
      (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->

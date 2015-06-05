@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!ENTITY aboutPage.title                        "O &brandShortName;u">
 <!ENTITY aboutPage.warningVersion               "Izdaja &brandShortName;a je poskusna, in lahko deluje nezanesljivo.">
-<!ENTITY aboutPage.telemetryStart               " Samodejno pošilja podatke o zmogljivosti, strojni opremi, načinu uporabe in prilagoditvah organizaciji ">
+<!ENTITY aboutPage.telemetryStart               " Samodejno pošilja podatke o učinkovitosti, strojni opremi, načinu uporabe in prilagoditvah organizaciji ">
 <!ENTITY aboutPage.telemetryMozillaLink         "&vendorShortName;,">
 <!ENTITY aboutPage.telemetryEnd                 " da bi bil &brandShortName; še boljši.">
 <!ENTITY aboutPage.checkForUpdates.link         "Poišči posodobitve">

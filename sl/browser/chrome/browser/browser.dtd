@@ -267,14 +267,14 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!-- LOCALIZATION NOTE (browserToolboxMenu.label): This is the label for the
   -  application menu item that opens the browser toolbox UI in the Tools menu. -->
-<!ENTITY browserToolboxMenu.label     "Orodjarna brskalnika">
+<!ENTITY browserToolboxMenu.label     "Razvojna orodja brskalnika">
 <!ENTITY browserToolboxMenu.accesskey "O">
 <!ENTITY browserToolboxCmd.commandkey "i">
 
 <!-- LOCALIZATION NOTE (browserContentToolboxMenu.label): This is the label for the
   -  application menu item that opens the browser content toolbox UI in the Tools menu.
   -  This toolbox allows to debug the chrome of the content process in multiprocess builds.  -->
-<!ENTITY browserContentToolboxMenu.label     "Orodjarna vsebine brskalnika">
+<!ENTITY browserContentToolboxMenu.label     "Razvojna orodja vsebine brskalnika">
 
 <!ENTITY devToolbarCloseButton.tooltiptext "Zapri orodno vrstico za razvoj">
 <!ENTITY devToolbarMenu.label              "Orodna vrstica za razvoj">
