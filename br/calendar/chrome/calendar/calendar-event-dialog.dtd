@@ -5,7 +5,7 @@
 <!ENTITY event.title.label                  "Embann an elfenn" >
 
 <!ENTITY event.dialog.keepDurationButton.tooltip   "Mirout ar padelezh pa vez kemmet an deiziad dibenn">
-
+<!ENTITY event.dialog.keepDurationButton.accesskey "M">
 
 <!ENTITY newevent.from.label                "A-berzh" >
 <!ENTITY newevent.to.label                  "Da" >
@@ -14,9 +14,9 @@
 <!ENTITY newevent.status.accesskey                "S" >
 <!ENTITY newevent.eventStatus.none.label          "Anspisaet" >
 <!ENTITY newevent.eventStatus.none.accesskey      "o" >
-
-
-
+<!ENTITY newevent.todoStatus.none.label           "Anspisaet" >
+<!ENTITY newevent.eventStatus.cancelled.label     "Nullet" >
+<!ENTITY newevent.eventStatus.cancelled.accesskey "l" >
 <!ENTITY newevent.todoStatus.cancelled.label      "Nullet" >
 <!ENTITY newevent.status.tentative.label          "Argeziad" >
 <!ENTITY newevent.status.tentative.accesskey      "A" >
@@ -46,14 +46,16 @@
 <!ENTITY event.dialog.print.key                   "P">
 <!ENTITY event.dialog.undo.key                    "Z">
 <!ENTITY event.dialog.redo.key                    "Y">
-
-
-
-
+<!ENTITY event.dialog.cut.key                     "X">
+<!ENTITY event.dialog.copy.key                    "C">
+<!ENTITY event.dialog.paste.key                   "V">
+<!ENTITY event.dialog.select.all.key              "A">
 <!-- Menubar -->
 
-
-
+<!ENTITY  event.menu.item.new.label                       "Nevez">
+<!ENTITY  event.menu.item.new.accesskey                   "N">
+<!ENTITY  event.menu.item.new.event.label                 "Degouezh">
+<!ENTITY  event.menu.item.new.event.accesskey             "D">
 <!ENTITY  event.menu.item.new.task.label                  "Trevell">
 <!ENTITY  event.menu.item.new.task.accesskey              "T">
 <!ENTITY  event.menu.item.new.message.label               "Kemennadenn">
@@ -75,23 +77,24 @@
 
 <!ENTITY  event.menu.edit.label                           "Embann">
 <!ENTITY  event.menu.edit.accesskey                       "b">
-
-
-
-
+<!ENTITY  event.menu.edit.undo.label                      "Dizober">
+<!ENTITY  event.menu.edit.undo.accesskey                  "i">
+<!ENTITY  event.menu.edit.redo.label                      "Adober">
+<!ENTITY  event.menu.edit.redo.accesskey                  "A">
 <!ENTITY  event.menu.edit.cut.label                       "Troc'hañ">
 <!ENTITY  event.menu.edit.cut.accesskey                   "T">
 <!ENTITY  event.menu.edit.copy.label                      "Eilañ">
 <!ENTITY  event.menu.edit.copy.accesskey                  "E">
 <!ENTITY  event.menu.edit.paste.label                     "Pegañ">
-<!ENTITY  event.menu.edit.paste.accesskey                 "e">
+<!ENTITY  event.menu.edit.paste.accesskey                 "P">
+<!ENTITY  event.menu.edit.select.all.label                "Diuzañ an holl">
+<!ENTITY  event.menu.edit.select.all.accesskey            "D">
 
-
-
-
-
-
-<!ENTITY  event.menu.view.toolbars.event.label            "Barrenn Degouezhadennoù">
+<!ENTITY  event.menu.view.label                           "Gwelet">
+<!ENTITY  event.menu.view.accesskey                       "G">
+<!ENTITY  event.menu.view.toolbars.label                  "Barennoù ostilhoù">
+<!ENTITY  event.menu.view.toolbars.accesskey              "B">
+<!ENTITY  event.menu.view.toolbars.event.label            "Barrenn Degouezhioù">
 <!ENTITY  event.menu.view.toolbars.event.accesskey        "B">
 <!ENTITY  event.menu.view.toolbars.customize.label        "Personelaat...">
 <!ENTITY  event.menu.view.toolbars.customize.accesskey    "P">
@@ -116,11 +119,11 @@
 <!ENTITY  event.menu.options.priority.high.accesskey          "U">
 <!ENTITY  event.menu.options.privacy.label                    "Buhez prevez">
 <!ENTITY  event.menu.options.privacy.accesskey                "B">
-<!ENTITY  event.menu.options.privacy.public.label             "Darvoud Foran">
+<!ENTITY  event.menu.options.privacy.public.label             "Degouezh Foran">
 <!ENTITY  event.menu.options.privacy.public.accesskey         "D">
 <!ENTITY  event.menu.options.privacy.confidential.label       "Diskouez an eur hag an deiziad hepken">
 <!ENTITY  event.menu.options.privacy.confidential.accesskey   "i">
-<!ENTITY  event.menu.options.privacy.private.label            "Degouezhadenn prevez">
+<!ENTITY  event.menu.options.privacy.private.label            "Degouezh prevez">
 <!ENTITY  event.menu.options.privacy.private.accesskey        "r">
 <!ENTITY  event.menu.options.show.time.label                  "Skrammañ &amp; Eur evel">
 <!ENTITY  event.menu.options.show.time.accesskey              "T">
@@ -155,24 +158,24 @@
 
 
 
-
-
-
-
-
-
-
-
+<!ENTITY event.calendar.label                             "Deiziataeroù :" >
+<!ENTITY event.calendar.accesskey                         "e">
+<!ENTITY event.attendees.label                            "Perzhidi :" >
+<!ENTITY event.attendees.accesskey                        "P" >
+<!ENTITY event.alldayevent.label                          "Degouezh war an devezh a-bezh" >
+<!ENTITY event.alldayevent.accesskey                      "w">
+<!ENTITY event.from.label                                 "Deraouiñ :" >
+<!ENTITY event.from.accesskey                             "D">
 <!ENTITY task.from.label                                  "Penn-kentañ :" >
-
+<!ENTITY task.from.accesskey                              "D">
 <!ENTITY event.to.label                                   "Dibenn :" >
 <!ENTITY event.to.accesskey                               "D">
 <!ENTITY task.to.label                                    "Devezh dleet :" >
 <!ENTITY task.to.accesskey                                "e">
 <!ENTITY task.status.label                                "Stad :" >
 <!ENTITY task.status.accesskey                            "a">
-
-
+<!ENTITY event.repeat.label                               "Adkregiñ :" >
+<!ENTITY event.repeat.accesskey                           "A">
 <!ENTITY event.until.label                                "Betek :">
 <!ENTITY event.until.accesskey                            "k">
 <!ENTITY event.reminder.label                             "Adglav :" >
@@ -207,9 +210,11 @@
 <!ENTITY event.reminder.1day.before.label                 "1 devezh kent" >
 <!ENTITY event.reminder.2days.before.label                "2 zevezh kent" >
 <!ENTITY event.reminder.1week.before.label                "1 sizhun kent" >
+<!ENTITY event.reminder.custom.label                      "Personelaet..." >
 
+<!ENTITY event.reminder.multiple.label                    "Meur a Kounadurioù... " >
 
-
+<!ENTITY event.statusbarpanel.freebusy.label              "Amzer :">
 <!ENTITY event.statusbarpanel.privacy.label               "Prevezded :">
 <!-- Recurrence dialog -->
 
@@ -331,7 +336,7 @@
 <!ENTITY event.attendee.role.nonparticipant     "Nann Berzhiad">
 <!ENTITY event.attendee.usertype.individual     "Hiniennel">
 <!ENTITY event.attendee.usertype.group          "Strollad">
-
+<!ENTITY event.attendee.usertype.resource       "Loaz">
 <!ENTITY event.attendee.usertype.room           "Sal">
 <!-- Timezone dialog -->
 

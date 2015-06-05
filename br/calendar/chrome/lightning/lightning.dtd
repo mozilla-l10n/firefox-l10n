@@ -11,7 +11,7 @@
 <!ENTITY lightning.preferencesLabel "Deiziataer">
 <!-- New menu popup in File menu -->
 
-<!ENTITY lightning.menupopup.new.event.label    "Darvoud...">
+<!ENTITY lightning.menupopup.new.event.label    "Degouezh...">
 <!ENTITY lightning.menupopup.new.event.accesskey "D">
 <!ENTITY lightning.menupopup.new.task.label     "Trevell...">
 <!ENTITY lightning.menupopup.new.task.accesskey "T">
@@ -41,32 +41,32 @@
 <!-- iMIP Bar (meeting support) -->
 
 <!ENTITY lightning.imipbar.btnAccept.label                                  "Asantiñ">
-<!ENTITY lightning.imipbar.btnAccept2.tooltiptext                           "Asantiñ ar bedadenn darvoud">
+<!ENTITY lightning.imipbar.btnAccept2.tooltiptext                           "Asantiñ ar bedadenn degouezh">
 <!ENTITY lightning.imipbar.btnAcceptRecurrences.label                       "Asantiñ an holl">
-<!ENTITY lightning.imipbar.btnAcceptRecurrences2.tooltiptext                "Asantiñ ar bedadenn darvoud evit an holl degouezhioù eus an darvoud">
+<!ENTITY lightning.imipbar.btnAcceptRecurrences2.tooltiptext                "Asantiñ ar bedadenn degouezh evit an holl reveziadennoù eus an degouezh">
 <!ENTITY lightning.imipbar.btnAdd.label                                     "Ouzhpennañ">
-<!ENTITY lightning.imipbar.btnAdd.tooltiptext                               "Ouzhpennañ un darvoud d'an deiziataer">
+<!ENTITY lightning.imipbar.btnAdd.tooltiptext                               "Ouzhpennañ un degouezh d'an deiziataer">
 <!ENTITY lightning.imipbar.btnDecline.label                                 "Nac'hañ">
+<!ENTITY lightning.imipbar.btnDecline2.tooltiptext                          "Nac'h ar bedadenn degouezh">
 
-
-
+<!ENTITY lightning.imipbar.btnDeclineRecurrences2.tooltiptext               "Nac'h ar bedadenn degouezh evit an holl reveziadennoù eus an degouezh">
 <!ENTITY lightning.imipbar.btnDelete.label                                  "Dilemel">
 
 <!ENTITY lightning.imipbar.btnDetails.label                                 "Munudoù...">
+<!ENTITY lightning.imipbar.btnDetails.tooltiptext                           "Diskouez munudoù an degouezh">
 
 
 
 
 
+<!ENTITY lightning.imipbar.btnSaveCopy.tooltiptext                          "Enrollañ un eilad eus an degouezh war an deiziataer, distag eus ur respont d'an aozer. Roll ar berzhidi a vo goullonderet.">
 
+<!ENTITY lightning.imipbar.btnTentative2.tooltiptext                        "Asantiñ ar bedadenn degouezh evit ar mare">
 
-
-
-
-
+<!ENTITY lightning.imipbar.btnTentativeRecurrences2.tooltiptext             "Asantiñ ar bedadenn darvoud evit holl reveziadennoù an degouezh evit ar mare">
 <!ENTITY lightning.imipbar.btnUpdate.label                                  "Hizivaat">
-<!ENTITY lightning.imipbar.btnUpdate.tooltiptext                            "Hizivaat an darvoud en deiziataer">
-<!ENTITY lightning.imipbar.description                                      "Ur bedadenn d'un darvoud a zo endalc'het gant ar gemennadenn-mañ.">
+<!ENTITY lightning.imipbar.btnUpdate.tooltiptext                            "Hizivaat an degouezh en deiziataer">
+<!ENTITY lightning.imipbar.description                                      "Ur bedadenn d'un darvoud a zo endalc'het er gemennadenn-mañ.">
 <!-- Lightning specific keybindings -->
 
 

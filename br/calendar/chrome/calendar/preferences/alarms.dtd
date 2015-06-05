@@ -18,14 +18,14 @@
 
 
 
+<!ENTITY pref.defalarm4events.label "Arventennoù kounadur dre ziouer evit an degouezhioù :">
+<!ENTITY pref.defalarm4events.accesskey "e">
 
 
 
 
-
-
-
-
+<!ENTITY pref.defalarmlen4events.label "Amzer dre ziouer lakaet evit kounadur un degouezh : ">
+<!ENTITY pref.defalarmlen4events.accesskey "A">
 
 
 

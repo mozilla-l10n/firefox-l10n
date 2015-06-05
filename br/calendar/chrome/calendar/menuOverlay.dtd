@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!-- Event Menu -->
 
-<!ENTITY event.new.event                        "Darvoud nevez...">
+<!ENTITY event.new.event                        "Degouezhioù nevez...">
 <!ENTITY event.new.event.accesskey              "N">
 
 
@@ -32,7 +32,7 @@
 <!ENTITY calendar.menu.customize.label          "Personelaat...">
 <!ENTITY calendar.menu.customize.accesskey      "P">
 
-<!ENTITY showUnifinderCmd.label                 "Kavout darvoudoù">
+<!ENTITY showUnifinderCmd.label                 "Kavout degouezhioù">
 <!ENTITY showUnifinderCmd.accesskey             "K">
 
 

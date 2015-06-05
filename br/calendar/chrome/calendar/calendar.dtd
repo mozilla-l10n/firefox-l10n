@@ -6,7 +6,7 @@
 <!ENTITY calendar.calendar.label     "Deiziataer">
 <!ENTITY calendar.calendar.accesskey "D">
 
-<!ENTITY calendar.newevent.button.tooltip         "Krouiñ un darvoud nevez" >
+<!ENTITY calendar.newevent.button.tooltip         "Krouiñ un degouezh nevez" >
 <!ENTITY calendar.newtask.button.tooltip          "Krouiñ un drevell nevez" >
 
 <!ENTITY calendar.unifinder.todoitems.label       "Trevelloù" >
@@ -16,15 +16,15 @@
 <!ENTITY calendar.tomorrow.button.label       "Warc'hoazh">
 <!ENTITY calendar.upcoming.button.label       "O tont">
 
-<!ENTITY calendar.events.filter.all.label "An holl darvoudoù">
-<!ENTITY calendar.events.filter.today.label "Darvoudoù hiziv">
-<!ENTITY calendar.events.filter.future.label "An holl darvoudoù da zont">
+<!ENTITY calendar.events.filter.all.label "An holl degouezhioù">
+<!ENTITY calendar.events.filter.today.label "Degouezhioù hiziv">
+<!ENTITY calendar.events.filter.future.label "An holl degouezhioù da zont">
 <!ENTITY calendar.events.filter.current.label "Devezh diuzet er mare-mañ">
-
-<!ENTITY calendar.events.filter.next7Days.label "Darvoudoù er 7 devezh o tont">
-<!ENTITY calendar.events.filter.next14Days.label "Darvoudoù er 14 devezh o tont">
-<!ENTITY calendar.events.filter.next31Days.label "Darvoudoù er 31 devezh o tont">
-
+<!ENTITY calendar.events.filter.currentview.label "Degouezhioù er gwel bremanel">
+<!ENTITY calendar.events.filter.next7Days.label "Degouezhioù er 7 devezh o tont">
+<!ENTITY calendar.events.filter.next14Days.label "Degouezhioù er 14 devezh o tont">
+<!ENTITY calendar.events.filter.next31Days.label "Degouezhioù en 31 devezh o tont">
+<!ENTITY calendar.events.filter.thisCalendarMonth.label "Degouezhioù er miz deiziataer-mañ">
 <!-- LOCALIZATION NOTE(calendar.unifinder.tree.done.tooltip)
    - This label and tooltip is used for the column with the checkbox in the
    - task tree view. -->
@@ -55,7 +55,7 @@
 <!ENTITY calendar.unifinder.tree.calendarname.tooltip2     "Urzhian dre anv an deiziataer">
 <!ENTITY calendar.unifinder.tree.duration.label            "Dleet a-benn">
 <!ENTITY calendar.unifinder.tree.duration.tooltip2         "Urzhiañ dre an amzer a-raok ma vefe dleet">
-
+<!ENTITY calendar.unifinder.close.tooltip                  "Serriñ an enklask degouezhioù ha listenn degouezhioù">
 
 <!ENTITY calendar.today.button.tooltip          "Mont da Hiziv" >
 
@@ -82,7 +82,7 @@
 
 
 
-<!ENTITY calendar.newevent.button.label         "Darvoud nevez" >
+<!ENTITY calendar.newevent.button.label         "Degouezh nevez" >
 <!ENTITY calendar.newtask.button.label          "Trevell nevez" >
 <!ENTITY calendar.print.button.label            "Moullañ" >
 <!ENTITY calendar.print.button.accesskey        "M">
@@ -150,13 +150,13 @@
 <!ENTITY calendar.context.modifyorviewitem.accesskey  "D">
 <!ENTITY calendar.context.modifyorviewtask.label      "Digeriñ an drevell...">
 <!ENTITY calendar.context.modifyorviewtask.accesskey  "D">
-<!ENTITY calendar.context.newevent.label              "Trevell nevez...">
-<!ENTITY calendar.context.newevent.accesskey          "T">
+<!ENTITY calendar.context.newevent.label              "Degouezh nevez...">
+<!ENTITY calendar.context.newevent.accesskey          "D">
 <!ENTITY calendar.context.newtodo.label               "Trevell nevez...">
 <!ENTITY calendar.context.newtodo.accesskey           "n">
 <!ENTITY calendar.context.deletetask.label            "Dilemel an drevell">
 <!ENTITY calendar.context.deletetask.accesskey        "D">
-<!ENTITY calendar.context.deleteevent.label           "Dilemel an  darvoud">
+<!ENTITY calendar.context.deleteevent.label           "Dilemel an degouezh">
 <!ENTITY calendar.context.deleteevent.accesskey       "D">
 <!ENTITY calendar.context.cutevent.label              "Troc'hañ">
 <!ENTITY calendar.context.cutevent.accesskey          "T">
@@ -253,7 +253,7 @@
 <!ENTITY calendar.context.convertmenu.label              "Amdreiñ da">
 
 
-<!ENTITY calendar.context.convertmenu.event.label        "Darvoud...">
+<!ENTITY calendar.context.convertmenu.event.label        "Degouezh...">
 <!ENTITY calendar.context.convertmenu.event.accesskey    "D">
 <!ENTITY calendar.context.convertmenu.message.label      "Kemennadenn...">
 <!ENTITY calendar.context.convertmenu.message.accesskey  "K">
@@ -328,9 +328,9 @@
 <!ENTITY calendar.print.layout.label "Pajennaozañ :">
 <!ENTITY calendar.print.range.label "Petra moullañ">
 <!ENTITY calendar.print.currentView2.label "Gwel bremanel">
-<!ENTITY calendar.print.selectedEventsAndTasks.label "Diuzañ darvoudoù/trevelloù">
+<!ENTITY calendar.print.selectedEventsAndTasks.label "Diuzañ degouezhioù/trevelloù">
 <!ENTITY calendar.print.tasks.label "Trevelloù">
-<!ENTITY calendar.print.events.label "Darvoudoù">
+<!ENTITY calendar.print.events.label "Degouezhioù">
 
 <!ENTITY calendar.print.from.label "A-berzh :">
 <!ENTITY calendar.print.to.label "Da :">
@@ -346,7 +346,7 @@
 <!ENTITY calendar.error.title "C'hoarvezet ez eus bet ur fazi.">
 <!-- Extract buttons in message header -->
 
-<!ENTITY calendar.extract.event.button         "Ouzhpennañ e-giz un darvoud">
+<!ENTITY calendar.extract.event.button         "Ouzhpennañ e-giz un degouezh">
 <!ENTITY calendar.extract.task.button          "Ouzhpennañ e-giz un trevell">
-
+<!ENTITY calendar.extract.event.button.tooltip "Eztennañ titouroù deiziataer adalek ar gemennadenn-mañ hag ouzhpennañ anezho d'ho teiziataer evel un degouezh">
 

@@ -11,8 +11,8 @@
 
 <!ENTITY calendar.invitations.list.accept.button.label                  "Asañtiñ">
 <!ENTITY calendar.invitations.list.decline.button.label                 "Nac'hañ">
-
-<!ENTITY calendar.invitations.list.alldayevent.text                     "Darvoud war an devezh-pad">
+<!ENTITY calendar.invitations.list.recurrentevent.text                  "Degouezh oc'h adkregiñ">
+<!ENTITY calendar.invitations.list.alldayevent.text                     "Degouezh war an devezh a-bezh">
 <!ENTITY calendar.invitations.list.location.text                        "Lec'hiadur :  ">
 <!ENTITY calendar.invitations.list.organizer.text                       "Aozer :  ">
 <!ENTITY calendar.invitations.list.attendee.text                        "Perzhiad :  ">
