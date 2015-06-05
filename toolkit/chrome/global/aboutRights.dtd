@@ -73,7 +73,7 @@
 <!ENTITY rights.locationawarebrowsing-term4 "Դիտարկման տեղադրության հայտնաբերումը անջատված է">
 <!-- intro paragraph for unbranded builds -->
 
-<!ENTITY rights.webservices-unbranded "Այս ծրագրում ընդգրկված վեբ կայքի ծառայությունների ընդհանուն նկարագիրը, եթե առկա է, անջատելու կանոների հետ պետք է բերված լինի այստեղ:">
+<!ENTITY rights.webservices-unbranded "Այս ծրագրում ընդգրկված վեբ կայքի ծառայությունների ընդհանուր նկարագիրը, եթե առկա է, անջատելու կանոների հետ պետք է բերված լինի այստեղ:">
 <!-- point 1 text for unbranded builds -->
 
 <!ENTITY rights.webservices-term1-unbranded "Այս ապրանքում կիրառելի ցանկացած ծառայության դրույթ պետք է ընդգրկված լինեն այստեղ:">
