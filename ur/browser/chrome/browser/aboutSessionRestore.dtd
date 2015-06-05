@@ -26,6 +26,12 @@
 
 
 
+<!ENTITY welcomeback2.restoreButton  "چلو!">
+<!ENTITY welcomeback2.restoreButton.access "L">
+
+<!ENTITY welcomeback2.tabtitle      "کامیابی!">
+
+<!ENTITY welcomeback2.pageTitle     "کامیابی!">
 <!ENTITY welcomeback2.pageInfo1     "&brandShortName; چلنے کے لیے تیار ہے۔">
 
 <!ENTITY welcomeback2.label.restoreAll  "تمام دریچے اور ٹیب بحال کریں">
