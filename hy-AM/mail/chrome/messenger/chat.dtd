@@ -13,7 +13,7 @@
 <!ENTITY chat.noAccount.description       "Թույլատրեք &brandShortName;-ին ուղեկցել Ձեզ՝ չաթի կարգավորումների ընթացքում:">
 <!ENTITY chat.accountWizard.button       "Սկսել">
 <!ENTITY chat.noConnectedAccount.title             "Զրույցի հաշիվները միացված չեն:">
-<!ENTITY chat.noConnectedAccount.description       "Կարող եք միանալ 'Զրույցի վիճակը' պատուհանից:">
+<!ENTITY chat.noConnectedAccount.description       "Կարող եք կապակցել 'Զրույցի վիճակը' պատուհանից:">
 <!ENTITY chat.showAccountManager.button       "Ցուցադրել զրույցի վիճակը">
 
 <!ENTITY chat.participants             "Մասնակիցներ.">
