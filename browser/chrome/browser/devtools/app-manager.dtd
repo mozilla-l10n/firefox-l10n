@@ -8,7 +8,7 @@
 <!ENTITY index.help "Ajuda">
 
 <!ENTITY device.debugMainProcess "Depurar processo principal">
-<!ENTITY device.debugMainProcessTooltip "Abrir as ferramentas do desenvolvedor ligado ao processo principal no dispositivo">
+<!ENTITY device.debugMainProcessTooltip "Abrir ferramentas de programação associadas ao processo do dispositivo">
 <!ENTITY device.screenshot "Captura de ecrã">
 <!ENTITY device.screenshotTooltip "Mostra a captura de ecrã do atual estado do dispositivo num novo separador">
 <!ENTITY device.title "Centro de controlo do dispositivo">
@@ -37,7 +37,7 @@
 <!ENTITY device.browserTabs "Separadores do navegador">
 <!ENTITY device.browserTabsTooltip "Ver uma lista de separadores no navegador dos dispositivo ligado">
 <!ENTITY device.debugBrowserTab "Depurar">
-<!ENTITY device.debugBrowserTabTooltip "Abrir as ferramentas do desenvolvedor ligado a este navegador no dispositivo">
+<!ENTITY device.debugBrowserTabTooltip "Abrir ferramentas de programação associadas ao separador do navegador do dispositivo">
 <!ENTITY device.help "Ajuda">
 
 <!ENTITY connection.connectTooltip "Ligar ao dispositivo.">
