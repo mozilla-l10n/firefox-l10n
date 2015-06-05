@@ -4,6 +4,7 @@
 
 <!ENTITY itemFormatting.label "Snið">
 <!ENTITY itemTags.label "Flokkar">
+<!ENTITY itemAdvanced.label "Ítarlegt">
 <!ENTITY style.label "Stíll:">
 <!ENTITY style.accesskey "t">
 <!ENTITY regularStyle.label "Venjulegt">
@@ -40,3 +41,27 @@
 <!ENTITY fontOptions.label "Leturgerðir…">
 <!ENTITY colorButton.label "Litir…">
 <!ENTITY colorButton.accesskey "L">
+<!-- Advanced -->
+<!ENTITY reading.caption "Lesa">
+<!ENTITY display.caption "Sýna">
+<!ENTITY showCondensedAddresses.label "Sýna aðeins birtingarnafn fyrir tengiliði í nafnaskránni">
+<!ENTITY showCondensedAddresses.accesskey "S">
+<!ENTITY autoMarkAsRead.label "Merkja sjálfkrafa póst sem lesinn">
+<!ENTITY autoMarkAsRead.accesskey "a">
+<!ENTITY markAsReadNoDelay.label "Strax við birtingu">
+<!ENTITY markAsReadNoDelay.accesskey "x">
+<!-- LOCALIZATION NOTE (markAsReadDelay.label): This will concatenate to
+     "After displaying for [___] seconds",
+     using (markAsReadDelay.label) and a number (secondsLabel.label). -->
+<!ENTITY markAsReadDelay.label "Eftir birtingu í">
+<!ENTITY markAsReadDelay.accesskey "b">
+<!ENTITY secondsLabel.label "sekúndur">
+<!ENTITY openMsgIn.label "Opna póst í:">
+<!ENTITY openMsgInNewTab.label "Nýjum flipa">
+<!ENTITY openMsgInNewTab.accesskey "f">
+<!ENTITY reuseExpRadio0.label "Í nýjum glugga">
+<!ENTITY reuseExpRadio0.accesskey "n">
+<!ENTITY reuseExpRadio1.label "Í glugga sem er til fyrir">
+<!ENTITY reuseExpRadio1.accesskey "e">
+<!ENTITY closeMsgOnMoveOrDelete.label "Loka póstglugga/flipa þegar verið er að færa eða eyða">
+<!ENTITY closeMsgOnMoveOrDelete.accesskey "L">
