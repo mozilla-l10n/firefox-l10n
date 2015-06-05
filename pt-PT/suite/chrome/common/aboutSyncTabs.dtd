@@ -14,9 +14,9 @@
 <!ENTITY tabs.context.openTab.accesskey               "A">
 <!ENTITY tabs.context.openMultipleTabs.label          "Abrir separadores selecionados">
 <!ENTITY tabs.context.openMultipleTabs.accesskey      "A">
-<!ENTITY tabs.context.bookmarkSingleTab.label         "Tornar separador em marcador...">
-<!ENTITY tabs.context.bookmarkSingleTab.accesskey     "m">
-<!ENTITY tabs.context.bookmarkMultipleTabs.label      "Tornar separadores selecionados em marcadores...">
-<!ENTITY tabs.context.bookmarkMultipleTabs.accesskey  "m">
+<!ENTITY tabs.context.bookmarkSingleTab.label         "Criar marcador para este separador…">
+<!ENTITY tabs.context.bookmarkSingleTab.accesskey     "C">
+<!ENTITY tabs.context.bookmarkMultipleTabs.label      "Criar marcadores para os separadores selecionados…">
+<!ENTITY tabs.context.bookmarkMultipleTabs.accesskey  "C">
 <!ENTITY tabs.context.refreshList.label               "Atualizar lista">
 <!ENTITY tabs.context.refreshList.accesskey           "l">

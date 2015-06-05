@@ -11,7 +11,7 @@
 <!ENTITY onStartLegend.label                    "Quando o &brandShortName; inicia, abrir">
 <!ENTITY navCheck.label                         "Navegador">
 <!ENTITY navCheck.accesskey                     "N">
-<!ENTITY showToolsLegend.label                  "Mostrar barras de ferramentas com">
+<!ENTITY showToolsLegend.label                  "Mostrar barras de ferramentas como">
 <!ENTITY picsNtextRadio.label                   "Imagens e texto">
 <!ENTITY picsNtextRadio.accesskey               "I">
 <!ENTITY picsOnlyRadio.label                    "Apenas imagens">
