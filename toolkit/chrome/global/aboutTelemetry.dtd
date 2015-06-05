@@ -10,6 +10,7 @@
 
 <!ENTITY aboutTelemetry.generalDataSection "  Donadas generalas">
 
+<!ENTITY aboutTelemetry.telemetryLogSection "  Jornal de la telemetria">
 
 <!ENTITY aboutTelemetry.slowSqlSection "  Requèstas SQL lentas">
 
