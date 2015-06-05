@@ -150,8 +150,8 @@
 
 <!ENTITY fxaccount_create_account_header2 "สร้างบัญชี Firefox">
 <!ENTITY fxaccount_create_account_password_length_restriction "ต้องมีความยาวอย่างน้อย 8 ตัวอักษร">
-
-
+<!ENTITY fxaccount_create_account_day_of_birth "วันที่">
+<!ENTITY fxaccount_create_account_month_of_birth "เดือน">
 <!ENTITY fxaccount_create_account_year_of_birth "ปีเกิด">
 <!-- Localization note: &formatS1; is fxaccount_policy_linktos, &formatS2; is fxaccount_policy_linkprivacy, both hyperlinked. -->
 <!ENTITY fxaccount_create_account_policy_text2 "เพื่อดำเนินการต่อ ฉันยอมรับ &formatS1; และ &formatS2; ของบริการกลุ่มเมฆ Firefox">
@@ -193,7 +193,7 @@
 
 <!ENTITY fxaccount_finish_migrating_header "ลงชื่อเข้าใช้เพื่อทำการอัพเกรดให้เสร็จ">
 <!ENTITY fxaccount_finish_migrating_button_label "เสร็จสิ้นการปรับรุ่น">
-
+<!ENTITY fxaccount_finish_migrating_description "การปรับรุ่นจะมีการถ่ายโอนข้อมูลจำนวนมาก จะเป็นการดีที่สุดถ้าทำบนเครือข่าย WiFi">
 
 <!ENTITY fxaccount_status_header2 "บัญชี Firefox">
 <!ENTITY fxaccount_status_signed_in_as "ลงชื่อเข้าใช้เป็น">
@@ -207,8 +207,8 @@
 <!ENTITY fxaccount_status_needs_verification2 "จำเป็นต้องยืนยันบัญชีของคุณ แตะเพื่อส่งอีเมลยืนยันอีกครั้ง">
 <!ENTITY fxaccount_status_needs_credentials "ไม่สามารถเชื่อมต่อได้ แตะเพื่อเข้าสู่ระบบ">
 <!ENTITY fxaccount_status_needs_upgrade "คุณจำเป็นต้องปรับรุ่นของ &brandShortName; เพื่อเข้าสู่ระบบ">
-
-
+<!ENTITY fxaccount_status_needs_master_sync_automatically_enabled "ตั้งค่า &syncBrand.shortName.label; แล้ว แต่ยังไม่ผสานข้อมูลโดยอัติโนมัติ ให้เลือกเปิดที่ “Auto-sync data” ใน Android Settings &gt; Data Usage">
+<!ENTITY fxaccount_status_needs_master_sync_automatically_enabled_v21 "ตั้งค่า &syncBrand.shortName.label; แล้ว แต่ยังไม่ผสานข้อมูลอัตโนมัติ ให้เลือกเปิดที่ “Auto-sync data” ในเมนูของ Android Settings &gt; Accounts">
 <!ENTITY fxaccount_status_needs_finish_migrating "แตะเพื่อลงชื่อเข้าใช้บัญชี Firefox ใหม่ของคุณ">
 <!ENTITY fxaccount_status_bookmarks "ที่คั่นหน้า">
 <!ENTITY fxaccount_status_history "ประวัติการท่องเว็บ">
