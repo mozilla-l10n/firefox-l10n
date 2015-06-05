@@ -84,8 +84,8 @@ when there are no windows but Firefox is still running. -->
 
 <!ENTITY toolbarContextMenu.reloadAllTabs.label "Recarregar todos os separadores">
 <!ENTITY toolbarContextMenu.reloadAllTabs.accesskey "a">
-<!ENTITY toolbarContextMenu.bookmarkAllTabs.label "Marcadores em todos os separadores…">
-<!ENTITY toolbarContextMenu.bookmarkAllTabs.accesskey "d">
+<!ENTITY toolbarContextMenu.bookmarkAllTabs.label "Criar marcadores para todos os separadores…">
+<!ENTITY toolbarContextMenu.bookmarkAllTabs.accesskey "t">
 <!ENTITY toolbarContextMenu.undoCloseTab.label "Anular fechar separador">
 <!ENTITY toolbarContextMenu.undoCloseTab.accesskey "u">
 
@@ -195,7 +195,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksMenuButton.label          "Marcadores">
 <!ENTITY bookmarksMenuButton.unsorted.label "Marcadores desorganizados">
 <!ENTITY viewBookmarksSidebar2.label        "Ver barra lateral dos marcadores">
-<!ENTITY viewBookmarksToolbar.label         "Ver barra de ferramentas dos marcadores">
+<!ENTITY viewBookmarksToolbar.label         "Ver barra de marcadores">
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
   -  key should not contain the letters A-F, since these are reserved
   -  shortcut keys on Linux. -->
@@ -276,7 +276,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY browserContentToolboxMenu.label     "Caixa de ferramentas de conteúdo do navegador">
 
-<!ENTITY devToolbarCloseButton.tooltiptext "Fechar barra de ferramentas do programador">
+<!ENTITY devToolbarCloseButton.tooltiptext "Fechar ferramentas de desenvolvimento">
 <!ENTITY devToolbarMenu.label              "Barra de ferramentas do programador">
 <!ENTITY devToolbarMenu.accesskey          "g">
 <!ENTITY devAppMgrMenu.label               "Gestor de aplicações">
@@ -291,7 +291,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY devToolboxMenuItem.accesskey      "T">
 <!ENTITY devToolboxMenuItem.keytext        "I">
 
-<!ENTITY devToolbarToolsButton.tooltip     "Trocar ferramentas do programador">
+<!ENTITY devToolbarToolsButton.tooltip     "Alternar ferramentas de desenvolvimento">
 <!ENTITY devToolbarOtherToolsButton.label  "Mais ferramentas">
 
 <!ENTITY getMoreDevtoolsCmd.label        "Obter mais ferramentas">
@@ -489,7 +489,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewBGImageCmd.accesskey     "m">
 <!ENTITY setDesktopBackgroundCmd.label      "Definir como fundo do ambiente de trabalho…">
 <!ENTITY setDesktopBackgroundCmd.accesskey  "e">
-<!ENTITY bookmarkPageCmd2.label       "Criar marcador desta página">
+<!ENTITY bookmarkPageCmd2.label       "Criar marcador para esta página">
 <!ENTITY bookmarkThisLinkCmd.label      "Criar marcador para esta ligação">
 <!ENTITY bookmarkThisLinkCmd.accesskey  "l">
 <!ENTITY bookmarkThisFrameCmd.label      "Criar marcador para esta moldura">
