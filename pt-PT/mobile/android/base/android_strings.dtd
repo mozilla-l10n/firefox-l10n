@@ -44,7 +44,7 @@
 <!ENTITY bookmark "Marcador">
 <!ENTITY bookmark_remove "Remover marcador">
 <!ENTITY bookmark_added "Marcador adicionado">
-<!ENTITY bookmark_removed "Marcador  removido">
+<!ENTITY bookmark_removed "Marcador removido">
 <!ENTITY bookmark_updated "Marcador atualizado">
 <!ENTITY bookmark_options "Opções">
 
@@ -148,7 +148,7 @@
      The &formatI; in the string will be replaced by a small image of the icon described, and can be moved to wherever
      it is applicable. -->
 <!ENTITY pref_search_hint "Dica: adicione qualquer sítio web à sua lista de fornecedores de pesquisa com um toque longo no no ícone &formatI;.">
-<!ENTITY pref_category_devtools "Ferramentas do desenvolvedor">
+<!ENTITY pref_category_devtools "Ferramentas de desenvolvimento">
 <!ENTITY pref_developer_remotedebugging "Depuração remota">
 <!ENTITY pref_category_logins "Credenciais">
 <!ENTITY pref_remember_signons "Memorizar palavras-passe">
@@ -177,7 +177,7 @@
 <!ENTITY pref_header_help "Ajuda">
 <!ENTITY pref_header_language "Idioma">
 <!ENTITY pref_header_vendor "&vendorShortName;">
-<!ENTITY pref_header_devtools "Ferramentas do programador">
+<!ENTITY pref_header_devtools "Ferramentas de desenvolvimento">
 
 <!ENTITY pref_cookies_menu "Cookies">
 <!ENTITY pref_cookies_accept_all "Ativado">
@@ -467,7 +467,7 @@ size. -->
      as an advisory message on how to add content to the reading list when the reading list empty.
      The placeholder &formatI; will be replaced by a small image of the icon described, and can be moved to wherever
      it is applicable. -->
-<!ENTITY home_reading_list_hint2 "DICA: guarde artigos para a sua lista de leitura com um toque longo no ícone &formatI; quando ele aparecer na barra de título.">
+<!ENTITY home_reading_list_hint2 "Dica: guarde artigos para a sua lista de leitura com um toque longo no ícone &formatI; quando ele aparecer na barra de título.">
 <!-- Localization note (home_reading_list_hint_accessible): This string is used
      as alternate text for accessibility. It is not visible in the UI. -->
 <!ENTITY home_reading_list_hint_accessible "Dica: guarde os artigos na lista de leitura carregando, quando aparecer na barra de título, no botão do modo de leitura.">
