@@ -78,10 +78,13 @@
 
 <!-- LOCALIZATION NODE (btnConsoleSharedWorkers) the term "Shared Workers"
   -  should not be translated. -->
+<!ENTITY btnConsoleSharedWorkers "Deljeni Workerji">
 <!-- LOCALIZATION NODE (btnConsoleServiceWorkers) the term "Service Workers"
   -  should not be translated. -->
+<!ENTITY btnConsoleServiceWorkers "Service Workerji">
 <!-- LOCALIZATION NODE (btnConsoleWindowlessWorkers) the term "Workers"
   -  should not be translated. -->
+<!ENTITY btnConsoleWindowlessWorkers "Workerji dodatkov ali Chroma">
 
 <!ENTITY filterOutput.placeholder "Išči po izpisu">
 <!ENTITY btnClear.label        "Počisti">
