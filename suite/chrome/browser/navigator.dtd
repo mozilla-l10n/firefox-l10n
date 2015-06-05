@@ -20,9 +20,9 @@
 <!ENTITY editPageCmd.accesskey "E">
 <!ENTITY editPageCmd.commandkey "e">
 
-<!ENTITY navbarCmd.label "Barra de ferramentas de navegação">
+<!ENTITY navbarCmd.label "Barra de navegação">
 <!ENTITY navbarCmd.accesskey "n">
-<!ENTITY bookmarksToolbarCmd.label     "Barra de ferramentas de marcadores">
+<!ENTITY bookmarksToolbarCmd.label     "Barra de marcadores">
 <!ENTITY bookmarksToolbarCmd.accesskey "m">
 
 <!ENTITY closeWindow.label "Fechar janela">
@@ -35,8 +35,8 @@
 <!ENTITY feedsMenu.accesskey "S">
 
 <!ENTITY menuBar.tooltip                  "Barra de menus">
-<!ENTITY bookmarksToolbar.tooltip         "Barra de ferramentas dos marcadores">
-<!ENTITY navigationToolbar.tooltip        "Barra de ferramentas de navegação">
+<!ENTITY bookmarksToolbar.tooltip         "Barra de marcadores">
+<!ENTITY navigationToolbar.tooltip        "Barra de navegação">
 <!-- Toolbar items --> 
 
 <!ENTITY backButton.label             "Retroceder">
@@ -66,7 +66,7 @@
 <!ENTITY bookmarksButton.label        "Marcadores">
 <!ENTITY bookmarksButton.tooltip      "Lista de marcadores">
 <!ENTITY homeButton.label             "Página inicial">
-<!ENTITY bookmarksToolbarItem.label   "Itens da barra de ferramentas dos marcadores">
+<!ENTITY bookmarksToolbarItem.label   "Itens da barra de marcadores">
 <!ENTITY bookmarksToolbarChevron.tooltip "Mostrar mais marcadores">
 <!-- Statusbar -->
 
