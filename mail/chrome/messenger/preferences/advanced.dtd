@@ -4,7 +4,6 @@
 
 <!ENTITY itemGeneral.label       "Općenito">
 <!ENTITY dataChoicesTab.label    "Izbori podataka">
-<!ENTITY itemDisplay.label       "Čitanje i prikaz">
 <!ENTITY itemUpdate.label        "Ažuriranje">
 <!ENTITY itemNetworking.label    "Mreža i diskovni prostor">
 <!ENTITY itemCertificates.label  "Certifikati">
@@ -51,32 +50,6 @@
 <!ENTITY enableCrashReporter.label       "Omogući izvjestitelja rušenja">
 <!ENTITY enableCrashReporter.accesskey   "z">
 <!ENTITY crashReporterLearnMore.label    "Saznajte više">
-<!-- Display and Reading Settings -->
-
-<!ENTITY reading.caption               "Čitanje">
-<!ENTITY display.caption               "Prikaz">
-<!ENTITY showCondensedAddresses.label  "Prikaži samo ime za prikaz osoba iz mojeg adresara">
-<!ENTITY showCondensedAddresses.accesskey "P">
-
-<!ENTITY autoMarkAsRead.label          "Automatski označi poruku kao pročitanu">
-<!ENTITY autoMarkAsRead.accesskey      "A">
-<!ENTITY markAsReadNoDelay.label       "Odmah pri prikazu">
-<!ENTITY markAsReadNoDelay.accesskey   "O">
-<!-- LOCALIZATION NOTE (markAsReadDelay.label): This will concatenate to
-     "After displaying for [___] seconds",
-     using (markAsReadDelay.label) and a number (secondsLabel.label). -->
-<!ENTITY markAsReadDelay.label         "Nakon prikazivanja u trajanju od">
-<!ENTITY markAsReadDelay.accesskey     "d">
-<!ENTITY secondsLabel.label            "sekundi">
-<!ENTITY openMsgIn.label               "Otvori poruke u:">
-<!ENTITY openMsgInNewTab.label         "Novoj kartici">
-<!ENTITY openMsgInNewTab.accesskey     "t">
-<!ENTITY reuseExpRadio0.label          "Novom prozoru poruke">
-<!ENTITY reuseExpRadio0.accesskey      "N">
-<!ENTITY reuseExpRadio1.label          "Postojećem prozoru poruke">
-<!ENTITY reuseExpRadio1.accesskey      "e">
-<!ENTITY closeMsgOnMoveOrDelete.label  "Zatvori prozor/karticu poruke prilikom premještanja ili brisanja">
-<!ENTITY closeMsgOnMoveOrDelete.accesskey "Z">
 <!-- Update -->
 
 <!ENTITY updateApp.label                 "&brandShortName; dopune:">
