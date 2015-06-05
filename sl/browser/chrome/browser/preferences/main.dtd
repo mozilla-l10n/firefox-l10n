@@ -42,3 +42,4 @@
 <!ENTITY useFirefoxSync.label             "Nasvet: uporabljena bosta različna profila, ki ju lahko uskladite z uporabo Sync.">
 <!ENTITY getStarted.label                 "Začni uporabljati Sync …">
 
+<!ENTITY e10sEnabled.label                "Omogoči večprocesni &brandShortName;">

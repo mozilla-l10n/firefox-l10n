@@ -25,6 +25,8 @@
 
 <!ENTITY helpSafeMode.label       "Ponovno zaženi z onemogočenimi dodatki …">
 <!ENTITY helpSafeMode.accesskey   "z">
+<!ENTITY helpSafeMode.stop.label       "Ponovno zaženi z omogočenimi dodatki">
+<!ENTITY helpSafeMode.stop.accesskey   "z">
 
 <!ENTITY healthReport2.label      "Zdravniško spričevalo za &brandShorterName;">
 <!ENTITY healthReport2.accesskey  "d">
