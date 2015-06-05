@@ -217,6 +217,7 @@
 <!ENTITY newNavigatorCmd.accesskey "f">
 <!ENTITY newPrivateWindow.label "Nuova finestra anonima">
 <!ENTITY newPrivateWindow.accesskey "u">
+<!ENTITY newNonRemoteWindow.label "Nuova finestra non e10s">
 <!ENTITY editMenu.label "Modifica">
 <!ENTITY editMenu.accesskey "M">
 <!ENTITY undoCmd.label "Annulla">
