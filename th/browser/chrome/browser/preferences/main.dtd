@@ -42,3 +42,4 @@
 <!ENTITY useFirefoxSync.label             "เคล็ดลับ: นี้ใช้โพรไฟล์แยกต่างหาก ใช้ Sync เพื่อแบ่งปันข้อมูลระหว่างกัน">
 <!ENTITY getStarted.label                 "เริ่มใช้งาน Sync…">
 
+<!ENTITY e10sEnabled.label                "เปิดใช้การทำงานแบบหลายโพรเซสของ &brandShortName;">
