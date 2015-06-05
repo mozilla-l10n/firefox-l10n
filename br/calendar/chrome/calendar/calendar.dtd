@@ -30,7 +30,7 @@
    - task tree view. -->
 
 <!ENTITY calendar.unifinder.tree.done.label                "Graet">
-
+<!ENTITY calendar.unifinder.tree.done.tooltip2             "Urzhiañ dre klokadur">
 <!ENTITY calendar.unifinder.tree.priority.label            "Tevet">
 <!ENTITY calendar.unifinder.tree.priority.tooltip2         "Urzhiañ dre tevet">
 <!ENTITY calendar.unifinder.tree.title.label               "Titl">
@@ -43,7 +43,7 @@
 <!ENTITY calendar.unifinder.tree.enddate.tooltip2          "Urzhiañ dre deiziad dibenn">
 <!ENTITY calendar.unifinder.tree.duedate.label             "Dleet">
 <!ENTITY calendar.unifinder.tree.duedate.tooltip2          "Urzhiañ dre deiziad dleet">
-
+<!ENTITY calendar.unifinder.tree.completeddate.label       "Klokaet">
 <!ENTITY calendar.unifinder.tree.completeddate.tooltip2    "Urzhian dre deiziad klokaet">
 <!ENTITY calendar.unifinder.tree.categories.label          "Rummad">
 <!ENTITY calendar.unifinder.tree.categories.tooltip2       "Urzhiañ dre rummad">
@@ -58,6 +58,17 @@
 <!ENTITY calendar.unifinder.close.tooltip                  "Serriñ an enklask degouezhioù ha listenn degouezhioù">
 
 <!ENTITY calendar.today.button.tooltip          "Mont da Hiziv" >
+<!ENTITY calendar.todaypane.button.tooltip      "Diskouez Panell Hiziv" >
+
+<!ENTITY calendar.day.button.tooltip            "Tremen d'ar gwel devezj" >
+<!ENTITY calendar.week.button.tooltip           "Tremen d'ar gwel sizhun" >
+<!ENTITY calendar.month.button.tooltip          "Tremen d'ar gwel miz" >
+<!ENTITY calendar.multiweek.button.tooltip      "Tremen d'ar gwel lies-sizhun" >
+
+<!ENTITY calendar.nextday.label                 "Devezh o-tont" >
+<!ENTITY calendar.prevday.label                 "Devezh a-raok" >
+<!ENTITY calendar.nextday.accesskey             "D" >
+<!ENTITY calendar.prevday.accesskey             "a" >
 
 
 
@@ -68,19 +79,10 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY calendar.navigation.nextweek.tooltip   "Ur sizhun war-raok" >
+<!ENTITY calendar.navigation.prevweek.tooltip   "Ur sizhun kent" >
+<!ENTITY calendar.navigation.nextmonth.tooltip  "Ur miz war-raok" >
+<!ENTITY calendar.navigation.prevmonth.tooltip  "Ur miz kent" >
 
 <!ENTITY calendar.newevent.button.label         "Degouezh nevez" >
 <!ENTITY calendar.newtask.button.label          "Trevell nevez" >
@@ -93,19 +95,21 @@
 <!ENTITY calendar.multiweek.button.label        "Lies-sizhun" >
 <!ENTITY calendar.onlyworkday.checkbox.label    "Devezhioù labour nemetken" >
 <!ENTITY calendar.onlyworkday.checkbox.accesskey  "l" >
+<!ENTITY calendar.displaytodos.checkbox.label   "Trevelloù er gwel" >
+<!ENTITY calendar.displaytodos.checkbox.accesskey "T" >
+<!ENTITY calendar.completedtasks.checkbox.label     "Diskouez an trevelloù klokaet" >
+<!ENTITY calendar.completedtasks.checkbox.accesskey "t" >
 
+<!ENTITY calendar.orientation.label "Treiñ ar gwel" >
+<!ENTITY calendar.orientation.accesskey "T" >
 
-
-
-
-
-
+<!ENTITY calendar.search.options.searchfor "  a endalc'h">
 
 <!ENTITY calendar.list.header.label                 "Deiziataer">
 
 <!ENTITY calendar.task.filter.title.label           "Skrammañ">
-
-
+<!ENTITY calendar.task.filter.all.label             "Pep tra">
+<!ENTITY calendar.task.filter.all.accesskey         "P">
 
 
 
@@ -139,9 +143,10 @@
 <!ENTITY calendar.task-details.due.label             "deiziad dibenn">
 
 <!ENTITY calendar.task.category.button.tooltip  "Rummañ an trevelloù">
+<!ENTITY calendar.task.complete.button.tooltip  "Merkañ an trevelloù diuzet evel klokaet">
+<!ENTITY calendar.task.priority.button.tooltip  "Kemmañ an tevet">
 
-
-
+<!ENTITY calendar.task.text-filter.textbox.emptytext.base            "Silañ an trevelloù... #1">
 <!ENTITY calendar.task.text-filter.textbox.emptytext.keylabel.nonmac "&lt;Ctrl+Shift+K&gt;">
 <!ENTITY calendar.task.text-filter.textbox.emptytext.keylabel.mac    "&lt;&#x21E7;&#x2318;K&gt;">
 <!-- Context Menu -->
@@ -164,16 +169,18 @@
 <!ENTITY calendar.context.copyevent.accesskey         "E">
 <!ENTITY calendar.context.pasteevent.label            "Pegañ">
 <!ENTITY calendar.context.pasteevent.accesskey        "e">
-
-
-
-
-
-
+<!ENTITY calendar.context.button.label                "Pannell hiziv" >
+<!ENTITY calendar.context.button.accesskey            "h" >
+<!ENTITY calendar.context.attendance.menu.label       "Perzhiadur" >
+<!ENTITY calendar.context.attendance.menu.accesskey   "a" >
+<!ENTITY calendar.context.attendance.occurrence.label "Ar reveziadenn-mañ" >
+<!ENTITY calendar.context.attendance.all.label        "An holl reveziadennoù" >
 <!-- Task Context Menu -->
 
-
-
+<!ENTITY calendar.context.progress.label              "Araokadur">
+<!ENTITY calendar.context.progress.accesskey          "A">
+<!ENTITY calendar.context.priority.label              "Tevet">
+<!ENTITY calendar.context.priority.accesskey          "T">
 
 
 <!--=percent sign-->
@@ -274,9 +281,9 @@
 <!ENTITY calendar.alarm.details.label               "Munudoù..." >
 
 
-
-
-
+<!ENTITY calendar.alarm.title.label                 "Kounadurioù deiziataer" >
+<!ENTITY calendar.alarm.dismiss.label               "Argas" >
+<!ENTITY calendar.alarm.dismissall.label            "Argas an holl" >
 
 <!ENTITY calendar.alarm.snooze.5minutes.label       "5 munut" >
 <!ENTITY calendar.alarm.snooze.10minutes.label      "10 munut" >
@@ -290,6 +297,8 @@
      This string is not seen in the UI, it is read by screen readers when the
      user focuses the "Cancel" button in the "Snooze for..." popup of the alarm
      dialog. -->
+
+<!ENTITY calendar.alarm.snooze.cancel               "Nullañ an adc'halv">
 <!-- Calendar Server Dialog -->
 
 <!ENTITY calendar.server.dialog.title.edit          "Embann an deiziataer">
@@ -314,7 +323,9 @@
 <!ENTITY calendarproperties.unsubscribe.accesskey          "D">
 <!-- Calendar Publish Dialog -->
 
-
+<!ENTITY calendar.publish.dialog.title              "Brudañ an deiziataer">
+<!ENTITY calendar.publish.url.label                 "O brudañ an URL">
+<!ENTITY calendar.publish.publish.button      "Brudañ">
 <!ENTITY calendar.publish.close.button      "Serriñ">
 
 <!ENTITY calendar.publish.example.url.description   "Un dra-bennak evel http://www.vadafariad.com/webdav/test.ics">
@@ -331,7 +342,7 @@
 <!ENTITY calendar.print.selectedEventsAndTasks.label "Diuzañ degouezhioù/trevelloù">
 <!ENTITY calendar.print.tasks.label "Trevelloù">
 <!ENTITY calendar.print.events.label "Degouezhioù">
-
+<!ENTITY calendar.print.custom.label "Ledad deiziadoù personelaet">
 <!ENTITY calendar.print.from.label "A-berzh :">
 <!ENTITY calendar.print.to.label "Da :">
 <!ENTITY calendar.print.settingsGroup.label "Arventennoù moullañ">
@@ -349,4 +360,4 @@
 <!ENTITY calendar.extract.event.button         "Ouzhpennañ e-giz un degouezh">
 <!ENTITY calendar.extract.task.button          "Ouzhpennañ e-giz un trevell">
 <!ENTITY calendar.extract.event.button.tooltip "Eztennañ titouroù deiziataer adalek ar gemennadenn-mañ hag ouzhpennañ anezho d'ho teiziataer evel un degouezh">
-
+<!ENTITY calendar.extract.task.button.tooltip  "Eztennañ titouroù deiziataer adalek ar gemennadenn-mañ hag ouzhpennañ anezho d'ho teiziataer evel un trevell">

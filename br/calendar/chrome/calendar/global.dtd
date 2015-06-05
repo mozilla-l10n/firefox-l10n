@@ -44,7 +44,8 @@
 <!ENTITY month.11.name "Du" >
 <!ENTITY month.12.name "Kerzu" >
 
-
+<!ENTITY onemonthbackward.tooltip "Ur miz kent" >
+<!ENTITY onemonthforward.tooltip "Ur miz war-raok" >
 
 
 
