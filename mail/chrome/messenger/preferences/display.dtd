@@ -4,6 +4,7 @@
 
 <!ENTITY itemFormatting.label             "Ձևավորում">
 <!ENTITY itemTags.label                   "Պիտակներ">
+<!ENTITY itemAdvanced.label               "Ընդլայնված">
 
 <!ENTITY style.label                      "Ոճը.">
 <!ENTITY style.accesskey                  "y">
@@ -44,3 +45,29 @@
 <!ENTITY fontOptions.label       "A">
 <!ENTITY colorButton.label       "Գույներ…">
 <!ENTITY colorButton.accesskey   "C">
+<!-- Advanced -->
+
+<!ENTITY reading.caption                  "Ընթերցում">
+<!ENTITY display.caption                  "Ցուցադրել">
+<!ENTITY showCondensedAddresses.label     "Հասցեագրքում ցուցադրել միայն մարդկանց ցուցադրվող անունը ">
+<!ENTITY showCondensedAddresses.accesskey "S">
+
+<!ENTITY autoMarkAsRead.label             "Նշել նամակները ընթերցված՝">
+<!ENTITY autoMarkAsRead.accesskey         "A">
+<!ENTITY markAsReadNoDelay.label          "Միանգամից, երբ նայում ես">
+<!ENTITY markAsReadNoDelay.accesskey      "o">
+<!-- LOCALIZATION NOTE (markAsReadDelay.label): This will concatenate to
+     "After displaying for [___] seconds",
+     using (markAsReadDelay.label) and a number (secondsLabel.label). -->
+<!ENTITY markAsReadDelay.label            "Ժամանակ անց՝">
+<!ENTITY markAsReadDelay.accesskey        "d">
+<!ENTITY secondsLabel.label               "վայրկյան">
+<!ENTITY openMsgIn.label                  "Բացել նամակը՝">
+<!ENTITY openMsgInNewTab.label            "Նոր էջ">
+<!ENTITY openMsgInNewTab.accesskey        "t">
+<!ENTITY reuseExpRadio0.label             "Նոր պատուհանում">
+<!ENTITY reuseExpRadio0.accesskey         "n">
+<!ENTITY reuseExpRadio1.label             "Տվյալ պատուհանում">
+<!ENTITY reuseExpRadio1.accesskey         "e">
+<!ENTITY closeMsgOnMoveOrDelete.label     "Փակել նամակի էջը/պատուհանը ջնջելուց հետո">
+<!ENTITY closeMsgOnMoveOrDelete.accesskey "C">
