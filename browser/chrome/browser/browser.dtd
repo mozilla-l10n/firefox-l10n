@@ -636,17 +636,17 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageStyleMenu.accesskey "s">
 <!ENTITY pageStyleNoStyle.label "Sem estilo">
 <!ENTITY pageStyleNoStyle.accesskey "m">
-<!ENTITY pageStylePersistentOnly.label "Estilos base">
-<!ENTITY pageStylePersistentOnly.accesskey "E">
+<!ENTITY pageStylePersistentOnly.label "Estilo básico da página">
+<!ENTITY pageStylePersistentOnly.accesskey "b">
 
-<!ENTITY pageReportIcon.tooltip            "Configurar o bloqueio de janelas popup para este site">
+<!ENTITY pageReportIcon.tooltip            "alterar as configurações de popups para este site">
 
 <!ENTITY allowPopups.accesskey "p">
 <!-- On Windows we use the term "Options" to describe settings, but
      on Linux and Mac OS X we use "Preferences" - carry that distinction
      over into this string, which is used in the "popup blocked" info bar . -->
-<!ENTITY editPopupSettingsUnix.label "Editar preferências de bloqueio de janelas popup…">
-<!ENTITY editPopupSettings.label "Editar opções de bloqueio de janelas popup…">
+<!ENTITY editPopupSettingsUnix.label "Editar preferências de bloqueio de popups…">
+<!ENTITY editPopupSettings.label "Editar opções de bloqueio de popups…">
 <!ENTITY editPopupSettings.accesskey "E">
 <!ENTITY dontShowMessage.accesskey "D">
 
@@ -656,8 +656,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY bidiSwitchTextDirectionItem.accesskey    "A">
 <!ENTITY bidiSwitchTextDirectionItem.commandkey   "X">
 
-<!ENTITY findOnCmd.label     "Localizar…">
-<!ENTITY findOnCmd.accesskey "z">
+<!ENTITY findOnCmd.label     "Localizar nesta página…">
+<!ENTITY findOnCmd.accesskey "n">
 <!ENTITY findOnCmd.commandkey "f">
 <!ENTITY findAgainCmd.label  "Localizar próxima">
 <!ENTITY findAgainCmd.accesskey "L">
@@ -726,7 +726,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY social.toggleNotifications.label "Exibir notificações no desktop">
 <!ENTITY social.toggleNotifications.accesskey "E">
 
-<!ENTITY social.activated.description "Os serviços do <label/> foram ativados. Você pode modificar suas configurações para eles pelo <label class='text-link'>gerenciador de complementos</label>.">
+<!ENTITY social.activated.description "Os serviços do <label/> foram ativados. Você pode alterar as configurações dos serviços no <label class='text-link'>gerenciador de complementos</label>.">
 <!ENTITY social.activated.undo.label "Epa, desfazer isso!">
 <!ENTITY social.activated.undo.accesskey "E">
 <!ENTITY social.learnMore.label "Saiba mais…">
@@ -737,7 +737,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY social.directory.text "Você pode ativar serviços de compartilhamento a partir do diretório.">
 <!ENTITY social.directory.button "Leve-me lá!">
 <!ENTITY social.directory.introText "Clique em um serviço para adicioná-lo ao &brandShortName;.">
-<!ENTITY social.directory.viewmore.text "Exibir mais">
+<!ENTITY social.directory.viewmore.text "Ver mais">
 
 <!ENTITY customizeMode.tabTitle "Personalizar o &brandShortName;">
 <!ENTITY customizeMode.menuAndToolbars.header2 "Adicionar ferramentas e recursos">
@@ -835,11 +835,11 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY panicButton.view.forgetButton            "Esquecer!">
 
 <!ENTITY panicButton.thankyou.msg1                "O seu histórico recente foi limpo.">
-<!ENTITY panicButton.thankyou.msg2                "Boa navegação!">
+<!ENTITY panicButton.thankyou.msg2                "Navegação segura!">
 <!ENTITY panicButton.thankyou.buttonlabel         "Obrigado!">
 
-<!ENTITY processHang.terminateScript.label        "Interromper script">
-<!ENTITY processHang.terminateScript.accessKey    "I">
+<!ENTITY processHang.terminateScript.label        "Parar script">
+<!ENTITY processHang.terminateScript.accessKey    "s">
 <!ENTITY processHang.debugScript.label            "Depurar script">
 <!ENTITY processHang.debugScript.accessKey        "D">
 <!ENTITY processHang.terminatePlugin.label        "Interromper plugin">
@@ -856,7 +856,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY readingList.label                        "Lista de leitura">
 <!ENTITY readingList.sidebar.commandKey           "R">
-<!ENTITY readingList.showSidebar.label            "Exibir painel da lista de leitura">
+<!ENTITY readingList.showSidebar.label            "Mostrar painel da lista de leitura">
 <!-- Pre-landed string for bug 1124153 -->
 <!ENTITY readingList.sidebar.showMore.label       "Mostrar mais…">
 <!-- Pre-landed string for bug 1133662 -->
