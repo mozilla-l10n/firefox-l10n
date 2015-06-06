@@ -10,7 +10,7 @@
 <!ENTITY startupBlankPage.label    "Mostrar uma página em branco">
 <!ENTITY startupLastSession.label  "Mostrar as minhas janelas e separadores abertos da última vez">
 
-<!ENTITY homepage.label            "Página Inicial:">
+<!ENTITY homepage.label            "Página inicial:">
 <!ENTITY homepage.accesskey        "P">
 <!ENTITY useCurrentPage.label      "Utilizar a página atual">
 <!ENTITY useCurrentPage.accesskey  "u">
@@ -31,12 +31,12 @@
 <!ENTITY alwaysAsk.label "Perguntar sempre onde guardar os ficheiros">
 <!ENTITY alwaysAsk.accesskey "s">
 
-<!ENTITY alwaysCheckDefault2.label        "Ao arrancar, verificar se o &brandShortName; é o navegador pré-definido">
-<!ENTITY alwaysCheckDefault2.accesskey    "A">
-<!ENTITY setAsMyDefaultBrowser2.label     "Tornar pré-definido">
+<!ENTITY alwaysCheckDefault2.label        "Verificar sempre se o &brandShortName; é o navegador predefinido">
+<!ENTITY alwaysCheckDefault2.accesskey    "V">
+<!ENTITY setAsMyDefaultBrowser2.label     "Tornar predefinido">
 <!ENTITY setAsMyDefaultBrowser2.accesskey "T">
-<!ENTITY isDefault.label                  "Atualmente, o &brandShortName; é o navegador pré-definido">
-<!ENTITY isNotDefault.label               "Atualmente, o &brandShortName; não é o navegador pré-definido">
+<!ENTITY isDefault.label                  "O &brandShortName; é o seu navegador predefinido">
+<!ENTITY isNotDefault.label               "O &brandShortName; não é o seu navegador predefinido">
 
 <!ENTITY separateProfileMode.label        "Permitir ao &brandShortName; e Firefox executarem ao mesmo tempo">
 <!ENTITY useFirefoxSync.label             "Dica: este utiliza perfis separados. Utilize o Sync para partilhar dados entre eles.">

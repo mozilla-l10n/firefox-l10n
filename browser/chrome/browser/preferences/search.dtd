@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY defaultSearchEngine.label             "Motor de pesquisa pré-definido">
+<!ENTITY defaultSearchEngine.label             "Motor de pesquisa predefinido">
 
 <!ENTITY chooseYourDefaultSearchEngine.label   "Escolha o seu motor de pesquisa predefinido. O &brandShortName; utiliza o mesmo na barra de localização, barra de pesquisa e página inicial.">
 
@@ -17,7 +17,7 @@
 <!ENTITY engineNameColumn.label                "Motor de pesquisa">
 <!ENTITY engineKeywordColumn.label             "Palavra chave">
 
-<!ENTITY restoreDefaultSearchEngines.label     "Restaurar motores de pesquisa pré-definidos">
+<!ENTITY restoreDefaultSearchEngines.label     "Restaurar motores de pesquisa predefinidos">
 <!ENTITY restoreDefaultSearchEngines.accesskey "d">
 
 <!ENTITY removeEngine.label                    "Remover">

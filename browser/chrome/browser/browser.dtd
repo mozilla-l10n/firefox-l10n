@@ -182,7 +182,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY printButton.tooltip          "Imprimir esta página">
 
 <!ENTITY locationItem.title           "Localização">
-<!ENTITY searchItem.title             "Pesquisar">
+<!ENTITY searchItem.title             "Pesquisa">
 <!-- Toolbar items --> 
 
 <!ENTITY homeButton.label             "Página inicial">

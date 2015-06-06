@@ -11,7 +11,7 @@
 
 <!ENTITY  fontsAndColors.label        "Tipo de letra e cores">
 
-<!ENTITY  defaultFont.label           "Tipo de letra pré-definido:">
+<!ENTITY  defaultFont.label           "Tipo de letra predefinido:">
 <!ENTITY  defaultFont.accesskey       "d">
 <!ENTITY  defaultSize.label           "Tamanho:">
 <!ENTITY  defaultSize.accesskey       "n">
