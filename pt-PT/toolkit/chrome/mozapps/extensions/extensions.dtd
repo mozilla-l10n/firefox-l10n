@@ -40,7 +40,7 @@
 <!ENTITY info.plugincheck.tooltip               "Verificar se os plugins estão atualizados">
 <!-- categories / views -->
 
-<!ENTITY view.search.label                    "Pesquisar">
+<!ENTITY view.search.label                    "Pesquisa">
 <!ENTITY view.discover.label                  "Obter extras">
 <!ENTITY view.recentUpdates.label             "Atualizações recentes">
 <!ENTITY view.availableUpdates.label          "Atualizações disponíveis">

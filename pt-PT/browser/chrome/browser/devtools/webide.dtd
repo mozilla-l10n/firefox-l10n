@@ -124,7 +124,7 @@
 <!ENTITY prefs_options_templatesurl "Modelos URL">
 <!ENTITY prefs_options_templatesurl_tooltip "Índice dos modelos disponíveis">
 <!ENTITY prefs_options_showeditor "Mostrar editor">
-<!ENTITY prefs_options_showeditor_tooltip "Mostra o editor interno">
+<!ENTITY prefs_options_showeditor_tooltip "Mostrar o editor interno">
 <!ENTITY prefs_options_tabsize "Tamanho dos separadores">
 <!ENTITY prefs_options_expandtab "Separadores suaves">
 <!ENTITY prefs_options_expandtab_tooltip "Utilizar espaços em vez do caracteres do separador">

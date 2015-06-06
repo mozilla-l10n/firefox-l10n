@@ -11,7 +11,7 @@ file names and tall enough to hint that there are more downloads in the list -->
 <!ENTITY starting.label                   "A iniciar...">
 <!ENTITY scanning.label                   "À procura de vírus...">
 
-<!ENTITY downloads.title                  "Transferências">
+<!ENTITY downloads.title                  "Descargas">
 
 <!ENTITY cmd.pause.label                  "Pausa">
 <!ENTITY cmd.pause.accesskey              "P">
@@ -27,9 +27,9 @@ file names and tall enough to hint that there are more downloads in the list -->
 <!ENTITY cmd.open.accesskey               "A">
 <!ENTITY cmd.openWith.label               "Abrir com...">
 <!ENTITY cmd.openWith.accesskey           "m">
-<!ENTITY cmd.retry.label                  "Tentar novamente">
-<!ENTITY cmd.retry.accesskey              "n">
-<!ENTITY cmd.goToDownloadPage.label       "Ir para a página de transferências">
+<!ENTITY cmd.retry.label                  "Voltar a tentar">
+<!ENTITY cmd.retry.accesskey              "a">
+<!ENTITY cmd.goToDownloadPage.label       "Ir para a página de descarga">
 <!ENTITY cmd.goToDownloadPage.accesskey   "I">
 <!ENTITY cmd.copyDownloadLink.label       "Copiar ligação da transferência">
 <!ENTITY cmd.copyDownloadLink.accesskey   "l">
@@ -49,4 +49,4 @@ file names and tall enough to hint that there are more downloads in the list -->
 <!ENTITY closeWhenDone.tooltip            "Fecha a janela de transferências quando todas as transferências tiverem terminado">
 
 <!ENTITY showFolder.label                 "Mostrar esta pasta">
-<!ENTITY searchBox.label                  "Pesquisar…">
+<!ENTITY searchBox.label                  "Pesquisa">
