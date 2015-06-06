@@ -67,7 +67,7 @@
 <!ENTITY netmonitorUI.context.copyUrlParams "Copiar parámetros de la URL">
 <!ENTITY netmonitorUI.context.copyUrlParams.accesskey "R">
 <!ENTITY netmonitorUI.context.copyPostData "Copiar datos POST">
-<!ENTITY netmonitorUI.context.copyPostData.accesskey "D">
+<!ENTITY netmonitorUI.context.copyPostData.accesskey "P">
 <!ENTITY netmonitorUI.context.copyAsCurl "Copiar como cURL">
 <!ENTITY netmonitorUI.context.copyAsCurl.accesskey "C">
 <!ENTITY netmonitorUI.context.copyRequestHeaders "Copiar cabeceras de solicitud">
