@@ -22,6 +22,7 @@
 <!ENTITY calendar.menu.customize.accesskey "P">
 <!ENTITY showUnifinderCmd.label "Buscar eventos">
 <!ENTITY showUnifinderCmd.accesskey "B">
+<!ENTITY showUnifinderCmd.tooltip "Alternar el panel de búsqueda de eventos">
 <!ENTITY calendar.displaytodos.checkbox.label "Mostrar tareas en el calendario">
 <!ENTITY calendar.displaytodos.checkbox.accesskey "T">
 <!ENTITY goTodayCmd.label "Ir a hoy">
