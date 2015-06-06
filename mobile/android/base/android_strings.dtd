@@ -6,8 +6,8 @@
 <!ENTITY  no_space_to_start_error "Neužtenka laisvos vietos programai „&brandShortName;“ paleisti.">
 <!ENTITY  error_loading_file "Bandant įkelti „&brandShortName;“ darbui būtinus failus, įvyko klaida">
 
-<!ENTITY  onboard_start_message2 "Sveiki! Čia „&brandShortName;“">
-<!ENTITY  onboard_start_subtext2 "Daugiau nei bet kada privatumo funkcijų bei tinkinimo būdų.">
+<!ENTITY  onboard_start_message3 "Naršyti su „&brandShortName;“">
+<!ENTITY  onboard_start_subtext3 "Padarykite savo mobilųjį naršymą labiau asmenišku.">
 <!ENTITY  onboard_start_button_account "Jungtis prie „&brandShortName;“">
 <!ENTITY  onboard_start_button_browser "Pradėti naršymą">
 <!-- Localization note: These are used as the titles of different pages on the home screen.
@@ -114,7 +114,6 @@
 
 <!ENTITY overlay_share_send_tab_btn_label "Siųsti į kitą įrenginį">
 <!ENTITY overlay_share_no_url "Gautame objekte neaptiktas joks saitas">
-<!ENTITY overlay_share_retry "Bandyti dar kartą">
 <!ENTITY overlay_share_select_device "Pasirinkite įrenginį">
 <!-- Localization note (overlay_no_synced_devices) : Used when the menu option
      to send a tab to a synced device is pressed and no other synced devices
@@ -150,8 +149,6 @@
      it is applicable. -->
 <!ENTITY pref_search_hint "Patarimas: bet kurią svetainę galite pridėti kaip ieškyklę, palaikydami nuspaustą jos paieškos lauką, o tada bakstelėdami &formatI; piktogramą.">
 <!ENTITY pref_category_devtools "Programuotojų priemonės">
-<!ENTITY pref_category_devtools_summary "Nuotolinis derinimas, piešimo paryškinimas">
-<!ENTITY pref_developer_paint_flashing "Piešiamos srities akcentavimas">
 <!ENTITY pref_developer_remotedebugging "Nuotolinis derinimas">
 <!ENTITY pref_category_logins "Prisijungimai">
 <!ENTITY pref_remember_signons "Įsiminti slaptažodžius">
@@ -192,22 +189,22 @@
 <!ENTITY pref_donottrack_title "Nestebėti">
 <!ENTITY pref_donottrack_summary "&brandShortName; praneš svetainėms, kad jūs nenorite būti stebimi">
 
-<!ENTITY tab_queue_toast_message "Atverti vėliau">
+<!ENTITY tab_queue_toast_message2 "Kortelė laukia „&brandShortName;“ eilėje">
 <!ENTITY tab_queue_toast_action "Atverti dabar">
-<!-- Localization note (tab_queue_notification_text_plural) : The
+<!ENTITY tab_queue_prompt_title "Atveriate kelias nuorodas?">
+<!ENTITY tab_queue_prompt_text2 "Atverkite jas nepereidami į „&brandShortName;“ kiekvieną kartą.">
+<!ENTITY tab_queue_prompt_tip_text "vėliau tai galėsite pakeisti „Nuostatose“">
+<!ENTITY tab_queue_prompt_positive_action_button "Įjungti">
+<!ENTITY tab_queue_prompt_negative_action_button "Ne dabar">
+<!ENTITY tab_queue_notification_title "&brandShortName;">
+<!-- Localization note (tab_queue_notification_text_plural2) : The
      formatD is replaced with the number of tabs queued.  The
      number of tabs queued is always more than one.  We can't use
      Android plural forms, sadly. See Bug #753859. -->
-<!ENTITY tab_queue_notification_text_plural "Laukiančių kortelių: &formatD;">
-<!-- Localization note (tab_queue_notification_title_plural) : This is the
-     title of a notification; we expect more than one tab queued. -->
-<!ENTITY tab_queue_notification_title_plural "Laukiančios kortelės">
-<!-- Localization note (tab_queue_notification_title_singular) : This is the
-     title of a notification; we expect only one tab queued. -->
-<!ENTITY tab_queue_notification_title_singular "Laukianti kortelė">
-<!-- Localization note (tab_queue_notification_text_singular) : This is the
+<!ENTITY tab_queue_notification_text_plural2 "Laukiančių kortelių: &formatD;">
+<!-- Localization note (tab_queue_notification_text_singular2) : This is the
      text of a notification; we expect only one tab queued. -->
-<!ENTITY tab_queue_notification_text_singular "Laukia 1 kortelė">
+<!ENTITY tab_queue_notification_text_singular2 "1 laukianti kortelė">
 
 <!ENTITY pref_char_encoding "Simbolių koduotė">
 <!ENTITY pref_char_encoding_on "Rodyti meniu">
@@ -255,7 +252,8 @@ size. -->
 <!ENTITY pref_import_android "Importuoti iš „Android“">
 <!ENTITY pref_import_android_summary "Importuoti adresyną ir istoriją iš standartinės naršyklės">
 <!ENTITY pref_private_data_history2 "Naršymo žurnalas">
-<!ENTITY pref_private_data_formdata "Formų ir paieškos laukų reikšmės">
+<!ENTITY pref_private_data_searchHistory "Paieškos istorija">
+<!ENTITY pref_private_data_formdata2 "Formų istorija">
 <!ENTITY pref_private_data_cookies2 "Slapukai ir esami prisijungimai">
 <!ENTITY pref_private_data_passwords "Įrašyti slaptažodžiai">
 <!ENTITY pref_private_data_cache "Podėlis">
@@ -380,6 +378,7 @@ size. -->
 <!ENTITY doorhanger_login_edit_username_hint "Naudotojo vardas">
 <!ENTITY doorhanger_login_edit_password_hint "Slaptažodis">
 <!ENTITY doorhanger_login_edit_toggle "Rodyti slaptažodį">
+<!ENTITY doorhanger_login_edit_toast_error "Nepavyko išsaugoti prisijungimo">
 
 <!ENTITY pref_titlebar_mode "Antraštės juosta">
 <!ENTITY pref_titlebar_mode_title "Rodyti tinklalapio antraštę">
@@ -390,8 +389,8 @@ size. -->
 <!ENTITY pref_scroll_title_bar2 "Visaekranis naršymas">
 <!ENTITY pref_scroll_title_bar_summary "Nerodyti „&brandShortName;“ antraštės juostos, slenkant tinklalapį žemyn">
 
-<!ENTITY pref_tab_queue_title "Atverti vėliau">
-<!ENTITY pref_tab_queue_summary "Neleisti kortelėms užsikrauti iškart, o atverti visas pasirinktas kitą kartą paleidus „&brandShortName;“.">
+<!ENTITY pref_tab_queue_title2 "Atverti kelias nuorodas">
+<!ENTITY pref_tab_queue_summary2 "Pridėti saitus į laukimo eilę vietoj perėjimo į „&brandShortName;“ kiekvieną kartą">
 <!-- Localization note (page_removed): This string appears in a toast message when
      any page is removed frome about:home. This includes pages that are in history,
      bookmarks, or reading list. -->
@@ -437,9 +436,11 @@ size. -->
 <!ENTITY button_yes "Taip">
 <!ENTITY button_no "Ne">
 <!ENTITY button_clear_data "Valyti duomenis">
-
+<!ENTITY button_set "Nustatyti">
 <!ENTITY button_clear "Išvalyti">
 <!ENTITY button_remember "Prisiminti">
+
+<!ENTITY firstrun_panel_title_welcome "Sveiki">
 
 <!ENTITY home_top_sites_title "Lankomiausios">
 <!-- Localization note (home_top_sites_add): This string is used as placeholder
@@ -612,6 +613,14 @@ iš „Android“">
 <!ENTITY ellipsis "…">
 
 <!ENTITY colon ":">
+<!-- LOCALIZATION NOTE (percent): The percent sign is appended after a number to
+     display a percentage value. formatS is the number, #37 is the code to display a percent sign.
+     This format string is typically used by getString method, in such method the percent sign
+     is a reserved caracter. In order to display one percent sign in the result of getString,
+     double percent signs must be inserted in the format string.
+     This entity is used in the zoomed view to display the zoom factor-->
+
+<!ENTITY percent "&formatS;&#037;&#037;">
 <!-- These are only used for accessibility for the done and overflow-menu buttons in the actionbar.
      They are never shown to users -->
 
@@ -623,7 +632,7 @@ iš „Android“">
 <!ENTITY voicesearch_failed_title "„&brandShortName;“ paieška balsu">
 <!ENTITY voicesearch_failed_message "Šiuo metu yra problemų su paieška balsu. Prašome pabandyti vėliau.">
 <!ENTITY voicesearch_failed_message_recoverable "Atsiprašome! Mums nepavyko suprasti jūsų žodžių. Pabandykite dar kartą.">
-<!ENTITY voicesearch_failed_retry "Bandyti vėl">
+<!ENTITY voicesearch_failed_retry "Bandyti dar kartą">
 <!-- Localization note (remote_tabs_last_synced): the variable is replaced by a
      "relative time span string" produced by Android.  This string describes the
      time the tabs were last synced relative to the current time; examples
