@@ -22,6 +22,8 @@
 
 <!ENTITY cmd.back.tooltip                     "Vienu tinklalapiu atgal">
 <!ENTITY cmd.forward.tooltip                  "Vienu tinklalapiu pirmyn">
+
+
 <!-- global warnings -->
 
 <!ENTITY warning.safemode.label                    "Ribotojoje veiksenoje visi priedai išjungti.">
@@ -102,7 +104,8 @@
 <!ENTITY cmd.installAddon.accesskey           "d">
 <!ENTITY cmd.uninstallAddon.label             "Pašalinti">
 <!ENTITY cmd.uninstallAddon.accesskey         "š">
-<!ENTITY cmd.debugAddon.label                 "Derinti">
+
+
 <!ENTITY cmd.showPreferencesWin.label         "Parinktys">
 <!ENTITY cmd.showPreferencesWin.tooltip       "Keisti šio priedo parinktis">
 <!ENTITY cmd.showPreferencesUnix.label        "Nuostatos">
@@ -228,3 +231,15 @@
 <!ENTITY experiment.info.changetelemetry.accesskey "T">
 
 <!ENTITY setting.learnmore "Sužinoti daugiau…">
+
+<!-- LOCALIZATION NOTE (disabledUnsigned.description.start, disabledUnsigned.description.findAddonsLink, disabledUnsigned.description.end):
+     These entities form a sentence, with
+     disabledUnsigned.description.findAddonsLink being a link to an external site. -->
+
+
+
+<!-- LOCALIZATION NOTE (disabledUnsigned.devInfo.start, disabledUnsigned.devInfo.linkToManual, disabledUnsigned.devInfo.end):
+     These entities form a sentence, with disabledUnsigned.devInfo.linkToManual
+     being a link to an external site. -->
+
+
