@@ -13,7 +13,7 @@
 <!ENTITY safeb.blocked.malwarePage.longDesc "<p>Kenkėjiškais tinklalapiais siekiama įdiegti programas, vagiančias asmeninius duomenis, naudojančias kompiuterį kitų atakoms ir kenkiančias pačiai sistemai.</p><p>Kai kuriuose tinklalapiuose tai daroma tyčia, tačiau dažniausiai tai – nesankcionuoto įsikišimo į tinklalapį be jo savininkų žinios pasėkmė.</p>">
 
 <!-- Localization note (safeb.blocked.malware.shortDesc) - Please don't translate the contents of the <span id="unwanted_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
-
+<!ENTITY safeb.blocked.unwantedPage.longDesc "<p>Kenkėjiškos programinės įrangos tinklalapiai siekia įdiegti apgaulingas programas, kurios gali pakenkti jūsų kompiuteriui.</p>">
 
 <!ENTITY safeb.blocked.phishingPage.title "Tinklalapis laikomas apgaulingu!">
 <!-- Localization note (safeb.blocked.phishing.shortDesc) - Please don't translate the contents of the <span id="phishing_sitename"/> tag. It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
