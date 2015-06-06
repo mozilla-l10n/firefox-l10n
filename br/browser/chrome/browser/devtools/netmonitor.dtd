@@ -265,6 +265,8 @@
 <!ENTITY netmonitorUI.context.copyUrlParams.accesskey "P">
 <!-- LOCALIZATION NOTE (netmonitorUI.context.copyPostData): This is the label displayed
   -  on the context menu that copies the selected request's post data -->
+
+<!ENTITY netmonitorUI.context.copyPostData     "Copy POST Data">
 <!-- LOCALIZATION NOTE (netmonitorUI.context.copyPostData.accesskey): This is the access key
   -  for the Copy POST Data menu item displayed in the context menu for a request -->
 
