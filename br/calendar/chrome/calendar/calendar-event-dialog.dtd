@@ -105,12 +105,12 @@
 <!ENTITY  event.menu.options.accesskey                        "D">
 <!ENTITY  event.menu.options.attendees.label                  "Pediñ Perzhidi...">
 <!ENTITY  event.menu.options.attendees.accesskey              "P">
-
-
+<!ENTITY  event.menu.options.timezone2.label                  "Skrammañ ar gwerzhidi-eur">
+<!ENTITY  event.menu.options.timezone2.accesskey              "g">
 <!ENTITY  event.menu.options.priority2.label                  "Tevet">
 <!ENTITY  event.menu.options.priority2.accesskey              "v">
-
-
+<!ENTITY  event.menu.options.priority.notspecified.label      "Anspisaet">
+<!ENTITY  event.menu.options.priority.notspecified.accesskey  "A">
 <!ENTITY  event.menu.options.priority.low.label               "Izel">
 <!ENTITY  event.menu.options.priority.low.accesskey           "I">
 <!ENTITY  event.menu.options.priority.normal.label            "Reizh">
@@ -127,10 +127,10 @@
 <!ENTITY  event.menu.options.privacy.private.accesskey        "r">
 <!ENTITY  event.menu.options.show.time.label                  "Skrammañ &amp; Eur evel">
 <!ENTITY  event.menu.options.show.time.accesskey              "T">
-
-
-
-
+<!ENTITY  event.menu.options.show.time.busy.label             "Ac'hubet">
+<!ENTITY  event.menu.options.show.time.busy.accesskey         "A">
+<!ENTITY  event.menu.options.show.time.free.label             "Dieub">
+<!ENTITY  event.menu.options.show.time.free.accesskey         "D">
 
 <!ENTITY event.invite.attendees.label                     "Kouviañ Perzhidi">
 <!ENTITY event.invite.attendees.accesskey                 "K">
@@ -140,6 +140,8 @@
 <!ENTITY event.email.tentative.attendees.accesskey        "P">
 <!-- Toolbar -->
 
+<!ENTITY  event.toolbar.save.label                        "Enrollañ ha serriñ">
+<!ENTITY  event.toolbar.delete.label                      "Dilemel">
 <!ENTITY  event.toolbar.attendees.label                   "Kouviañ Perzhidi">
 <!ENTITY  event.toolbar.privacy.label                     "Prevezded">
 
@@ -153,11 +155,13 @@
 <!ENTITY  event.toolbar.freebusy.tooltip                  "Kemmañ an amzer dieub/ac'hubet">
 <!-- Main page -->
 
-
-
-
-
-
+<!ENTITY event.title.textbox.label                        "Titl :" >
+<!ENTITY event.title.textbox.accesskey                    "i">
+<!ENTITY event.location.label                             "Lec'hiadur :" >
+<!ENTITY event.location.accesskey                         "L">
+<!ENTITY event.categories.label                           "Rummad">
+<!ENTITY event.categories.accesskey                       "a">
+<!ENTITY event.categories.textbox.label                   "Ouzhpennañ ur rummad nevez" >
 <!ENTITY event.calendar.label                             "Deiziataeroù :" >
 <!ENTITY event.calendar.accesskey                         "e">
 <!ENTITY event.attendees.label                            "Perzhidi :" >
@@ -218,16 +222,19 @@
 <!ENTITY event.statusbarpanel.privacy.label               "Prevezded :">
 <!-- Recurrence dialog -->
 
+<!ENTITY recurrence.title.label                         "Embann an adkrogadenn">
+
 <!ENTITY event.repeat.does.not.repeat.label             "Ne adkrog ket">
 <!ENTITY event.repeat.daily.label                       "Deizek">
 <!ENTITY event.repeat.weekly.label                      "Sizhuniek">
-
+<!ENTITY event.repeat.every.weekday.label               "Kement devezh er sizhun">
 <!ENTITY event.repeat.bi.weekly.label                   "Bep div sizhun">
 <!ENTITY event.repeat.monthly.label                     "Miziek">
 <!ENTITY event.repeat.yearly.label                      "Bloaziek">
 <!ENTITY event.repeat.custom.label                      "Personelaat...">
 
-
+<!ENTITY event.recurrence.pattern.label                 "Goustur adkrogadenn">
+<!ENTITY event.recurrence.occurs.label                  "Adkregiñ" >
 <!ENTITY event.recurrence.day.label                     "deizek" >
 <!ENTITY event.recurrence.week.label                    "sizhuniek" >
 <!ENTITY event.recurrence.month.label                   "miziek" >
@@ -235,7 +242,7 @@
 
 <!ENTITY event.recurrence.pattern.every.label           "Pep" >
 <!ENTITY repeat.units.days.both                         "Deiz(ioù)" >
-
+<!ENTITY event.recurrence.pattern.every.weekday.label   "Kement devezh er sizhun" >
 
 <!ENTITY event.recurrence.pattern.weekly.every.label    "Bep" >
 <!ENTITY repeat.units.weeks.both                        "Sizhun(ioù)" >
@@ -248,9 +255,9 @@
 <!ENTITY event.recurrence.monthly.second.label          "An Eil">
 <!ENTITY event.recurrence.monthly.third.label           "An Trede">
 <!ENTITY event.recurrence.monthly.fourth.label          "Ar Pevare">
-
-
-
+<!ENTITY event.recurrence.monthly.fifth.label           "Ar pempvet">
+<!ENTITY event.recurrence.monthly.last.label            "An hini diwezhañ">
+<!ENTITY event.recurrence.pattern.monthly.week.1.label  "Sul" >
 <!ENTITY event.recurrence.pattern.monthly.week.2.label  "Lun" >
 <!ENTITY event.recurrence.pattern.monthly.week.3.label  "Meurzh" >
 <!ENTITY event.recurrence.pattern.monthly.week.4.label  "Merc'her" >
@@ -258,7 +265,7 @@
 <!ENTITY event.recurrence.pattern.monthly.week.6.label  "Gwener" >
 <!ENTITY event.recurrence.pattern.monthly.week.7.label  "Sadorn" >
 <!ENTITY event.recurrence.repeat.dayofmonth.label       "Devezh ar miz">
-
+<!ENTITY event.recurrence.repeat.recur.label            "Adkregiñ en devezh(ioù)">
 
 <!ENTITY event.recurrence.every.label                        "Bep :" >
 <!ENTITY repeat.units.years.both                             "Bloaz(ioù)" >
@@ -321,6 +328,8 @@
 <!ENTITY event.repeat.until.label                       "Adkregiñ betek" >
 <!ENTITY event.recurrence.preview.label                 "Rakwelet">
 <!-- Attendees dialog -->
+
+<!ENTITY invite.title.label                     "Pediñ perzhidi">
 <!ENTITY event.organizer.label                  "Aozer">
 <!ENTITY event.freebusy.suggest.slot            "Kinnig ur gavael amzer :">
 <!ENTITY event.freebusy.button.next.slot        "Gavael goude">
@@ -329,12 +338,12 @@
 <!ENTITY event.freebusy.legend.free             "Dieub" >
 <!ENTITY event.freebusy.legend.busy             "Ac'hubet" >
 
-
-
+<!ENTITY event.freebusy.legend.busy_unavailable "Maez ar vurev" >
+<!ENTITY event.freebusy.legend.unknown          "Titour ebet" >
 <!ENTITY event.attendee.role.required           "Perzhiad azgoulennet">
 <!ENTITY event.attendee.role.optional           "Perzhiad diret">
 <!ENTITY event.attendee.role.chair              "Kador">
-<!ENTITY event.attendee.role.nonparticipant     "Nann Berzhiad">
+<!ENTITY event.attendee.role.nonparticipant     "Nann perzhiad-ez">
 <!ENTITY event.attendee.usertype.individual     "Hiniennel">
 <!ENTITY event.attendee.usertype.group          "Strollad">
 <!ENTITY event.attendee.usertype.resource       "Loaz">
@@ -342,7 +351,7 @@
 <!-- Timezone dialog -->
 
 <!ENTITY timezone.title.label            "Erspizait ar Maez Eureier Mar-plij">
-
+<!ENTITY event.timezone.custom.label     "Muioc'h a gwerzhidi-eur...">
 <!-- Read-Only dialog -->
 
 <!ENTITY read.only.general.label         "Hollek">

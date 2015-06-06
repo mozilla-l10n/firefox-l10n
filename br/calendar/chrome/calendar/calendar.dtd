@@ -69,16 +69,17 @@
 <!ENTITY calendar.prevday.label                 "Devezh a-raok" >
 <!ENTITY calendar.nextday.accesskey             "D" >
 <!ENTITY calendar.prevday.accesskey             "a" >
+<!ENTITY calendar.nextweek.label                "Ar sizhun a-zeu" >
+<!ENTITY calendar.prevweek.label                "Ar sizhun a-raok" >
+<!ENTITY calendar.nextweek.accesskey            "s" >
+<!ENTITY calendar.prevweek.accesskey            "r" >
+<!ENTITY calendar.nextmonth.label               "Ar miz a-zeu" >
+<!ENTITY calendar.prevmonth.label               "Ar miz a-raok" >
+<!ENTITY calendar.nextmonth.accesskey           "a" >
+<!ENTITY calendar.prevmonth.accesskey           "r" >
 
-
-
-
-
-
-
-
-
-
+<!ENTITY calendar.navigation.nextday.tooltip    "Un devezh war-raok" >
+<!ENTITY calendar.navigation.prevday.tooltip    "Un devezh kent" >
 <!ENTITY calendar.navigation.nextweek.tooltip   "Ur sizhun war-raok" >
 <!ENTITY calendar.navigation.prevweek.tooltip   "Ur sizhun kent" >
 <!ENTITY calendar.navigation.nextmonth.tooltip  "Ur miz war-raok" >
@@ -110,14 +111,14 @@
 <!ENTITY calendar.task.filter.title.label           "Skrammañ">
 <!ENTITY calendar.task.filter.all.label             "Pep tra">
 <!ENTITY calendar.task.filter.all.accesskey         "P">
-
-
-
-
-
-
-
-
+<!ENTITY calendar.task.filter.today.label           "Hiziv">
+<!ENTITY calendar.task.filter.today.accesskey       "H">
+<!ENTITY calendar.task.filter.next7days.label       "Ar seizh devezh o tont">
+<!ENTITY calendar.task.filter.next7days.accesskey   "d">
+<!ENTITY calendar.task.filter.notstarted.label      "Trevelloù n'int ket bet kroget">
+<!ENTITY calendar.task.filter.notstarted.accesskey  "k">
+<!ENTITY calendar.task.filter.overdue.label         "Trevelloù tremenet o deiziad dle">
+<!ENTITY calendar.task.filter.overdue.accesskey     "O">
 
 
 
@@ -185,7 +186,8 @@
 
 <!--=percent sign-->
 
-
+<!ENTITY calendar.context.markcompleted.label     "Merkañ klokaet">
+<!ENTITY calendar.context.markcompleted.accesskey "k">
 
 <!ENTITY progress.level.0             "0&percnt; klokaet">
 <!ENTITY progress.level.0.accesskey   "0">
