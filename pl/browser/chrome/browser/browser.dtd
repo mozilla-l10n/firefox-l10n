@@ -630,7 +630,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity.moreInfoLinkText "Więcej informacji…">
 
 <!ENTITY identity.permissions "Uprawnienia">
-<!ENTITY identity.help.tooltip "Jak określić, czy połączenie ze stroną jest bezpieczne?">
 
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
