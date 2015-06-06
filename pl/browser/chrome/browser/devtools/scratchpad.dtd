@@ -55,6 +55,7 @@
 <!ENTITY largerFont.label "Większa czcionka">
 <!ENTITY largerFont.accesskey "a">
 <!ENTITY largerFont.commandkey "+">
+<!ENTITY largerFont.commandkey2 "=">
 <!ENTITY smallerFont.label "Mniejsza czcionka">
 <!ENTITY smallerFont.accesskey "M">
 <!ENTITY smallerFont.commandkey "-">
