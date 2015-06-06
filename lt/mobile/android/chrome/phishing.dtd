@@ -15,3 +15,8 @@
 <!ENTITY safeb.blocked.phishingPage.title2 "Tinklalapis įtariamas apgaule!">
 <!ENTITY safeb.blocked.phishingPage.shortDesc2 "Bet kokių asmeninių duomenų įvedimas šiame tinklalapyje gali tapti tapatybės duomenų vagystės ar kitos apgaulės priežastimi.">
 <!ENTITY safeb.blocked.phishingPage.longDesc2 "<p>Tokio tipo apgavystės dažniausiai pasitaiko atakose, kuriose, siekiant sudaryti patikimo šaltinio įvaizdį, pasitelkiami apgaulingi tinklalapiai ir elektroniniai laiškai.</p>">
+
+<!ENTITY safeb.blocked.unwantedPage.title "Apie nepageidaujamos programinės įrangos svetainę pranešta!">
+<!-- Localization note (safeb.blocked.unwanted.shortDesc) - Please don't translate the contents of the <span id="unwanted_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
+<!ENTITY safeb.blocked.unwantedPage.shortDesc "Yra pranešta, jog tinklalapis <span id='unwanted_sitename'/> yra kenkėjiškas, tad jis buvo užblokuotas remiantis naršyklės saugumo nuostatomis.">
+<!ENTITY safeb.blocked.unwantedPage.longDesc "Kenkėjiški tinklalapiai siekia įdiegti programinę įrangą, kuri gali būti apgaulinga ir pakenkti jūsų kompiuteriui.">
