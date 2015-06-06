@@ -4,7 +4,6 @@
 
 <!ENTITY itemGeneral.label "General">
 <!ENTITY dataChoicesTab.label "Elección de datos">
-<!ENTITY itemDisplay.label "Lectura y visualización">
 <!ENTITY itemUpdate.label "Actualización">
 <!ENTITY itemNetworking.label "Red y espacio en disco">
 <!ENTITY itemCertificates.label "Certificados">
@@ -44,26 +43,6 @@
 <!ENTITY enableCrashReporter.label "Activar agente de informe de fallos">
 <!ENTITY enableCrashReporter.accesskey "c">
 <!ENTITY crashReporterLearnMore.label "Saber más">
-<!ENTITY reading.caption "Lectura">
-<!ENTITY display.caption "Visualización">
-<!ENTITY showCondensedAddresses.label "Mostrar sólo el atributo 'nombre mostrado' para las personas de mi libreta de direcciones">
-<!ENTITY showCondensedAddresses.accesskey "a">
-<!ENTITY autoMarkAsRead.label "Marcar mensaje automáticamente como leído">
-<!ENTITY autoMarkAsRead.accesskey "M">
-<!ENTITY markAsReadNoDelay.label "Inmediatamente tras mostrarlo">
-<!ENTITY markAsReadNoDelay.accesskey "n">
-<!ENTITY markAsReadDelay.label "Tras mostrarlo durante">
-<!ENTITY markAsReadDelay.accesskey "d">
-<!ENTITY secondsLabel.label "segundos">
-<!ENTITY openMsgIn.label "Abrir mensajes en:">
-<!ENTITY openMsgInNewTab.label "Una pestaña nueva">
-<!ENTITY openMsgInNewTab.accesskey "t">
-<!ENTITY reuseExpRadio0.label "Una ventana de mensajes nueva">
-<!ENTITY reuseExpRadio0.accesskey "U">
-<!ENTITY reuseExpRadio1.label "Una ventana de mensajes existente">
-<!ENTITY reuseExpRadio1.accesskey "v">
-<!ENTITY closeMsgOnMoveOrDelete.label "Cerrar pestaña/ventana del mensaje al mover o eliminar">
-<!ENTITY closeMsgOnMoveOrDelete.accesskey "C">
 <!ENTITY updateApp.label "Actualizaciones de &brandShortName;:">
 <!ENTITY updateAuto.label "Instalar actualizaciones automáticamente (recomendado: mejora la seguridad)">
 <!ENTITY updateAuto.accesskey "I">
