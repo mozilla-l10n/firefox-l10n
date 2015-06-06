@@ -26,6 +26,8 @@
 <!ENTITY helpSafeMode.label       "Perleisti programą, išjungus priedus…">
 <!ENTITY helpSafeMode.accesskey   "r">
 
+
+
 <!ENTITY healthReport2.label      "„&brandShorterName;“ techninės būklės ataskaita">
 <!ENTITY healthReport2.accesskey  "b">
 
