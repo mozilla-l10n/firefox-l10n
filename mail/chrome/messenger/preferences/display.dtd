@@ -4,6 +4,7 @@
 
 <!ENTITY itemFormatting.label             "格式">
 <!ENTITY itemTags.label                   "標籤">
+<!ENTITY itemAdvanced.label               "進階">
 
 <!ENTITY style.label                      "樣式:">
 <!ENTITY style.accesskey                  "y">
@@ -44,4 +45,30 @@
 <!ENTITY fontOptions.label       "進階…">
 <!ENTITY colorButton.label       "色彩…">
 <!ENTITY colorButton.accesskey   "C">
+
+<!-- Advanced -->
+<!ENTITY reading.caption                  "閱讀">
+<!ENTITY display.caption                  "顯示">
+<!ENTITY showCondensedAddresses.label     "顯示通訊錄裡設定的名字">
+<!ENTITY showCondensedAddresses.accesskey "S">
+
+<!ENTITY autoMarkAsRead.label             "自動將郵件標示為已讀">
+<!ENTITY autoMarkAsRead.accesskey         "A">
+<!ENTITY markAsReadNoDelay.label          "顯示時立刻標示">
+<!ENTITY markAsReadNoDelay.accesskey      "o">
+<!-- LOCALIZATION NOTE (markAsReadDelay.label): This will concatenate to
+     "After displaying for [___] seconds",
+     using (markAsReadDelay.label) and a number (secondsLabel.label). -->
+<!ENTITY markAsReadDelay.label            "在顯示">
+<!ENTITY markAsReadDelay.accesskey        "d">
+<!ENTITY secondsLabel.label               "秒之後">
+<!ENTITY openMsgIn.label                  "開啟郵件於: ">
+<!ENTITY openMsgInNewTab.label            "新分頁">
+<!ENTITY openMsgInNewTab.accesskey        "t">
+<!ENTITY reuseExpRadio0.label             "新視窗">
+<!ENTITY reuseExpRadio0.accesskey         "n">
+<!ENTITY reuseExpRadio1.label             "重複使用已存在的視窗">
+<!ENTITY reuseExpRadio1.accesskey         "e">
+<!ENTITY closeMsgOnMoveOrDelete.label     "在移動或刪除郵件時關閉訊息視窗/分頁">
+<!ENTITY closeMsgOnMoveOrDelete.accesskey "C">
 
