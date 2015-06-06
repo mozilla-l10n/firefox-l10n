@@ -627,7 +627,7 @@ with that structure, consider a translation which ignores the preceding domain a
 just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity.runBy "prowadzoną przez">
 
-<!ENTITY identity.moreInfoLinkText "Więcej informacji…">
+<!ENTITY identity.moreInfoLinkText2 "Więcej informacji…">
 
 <!ENTITY identity.permissions "Uprawnienia">
 
