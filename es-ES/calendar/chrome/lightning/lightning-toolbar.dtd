@@ -7,10 +7,15 @@
 <!ENTITY lightning.toolbar.task.name "Barra de herramientas de tareas">
 <!ENTITY lightning.toolbar.task.name.accesskey "a">
 <!ENTITY lightning.toolbar.sync.label "Sincronizar">
+<!ENTITY lightning.toolbar.sync.tooltip "Recargar calendarios y sincronizar cambios">
 <!ENTITY lightning.toolbar.delete.label "Eliminar">
+<!ENTITY lightning.toolbar.delete.tooltip "Eliminar eventos o tareas seleccionados">
 <!ENTITY lightning.toolbar.edit.label "Editar">
+<!ENTITY lightning.toolbar.edit.tooltip "Editar tarea o evento seleccionado">
 <!ENTITY lightning.toolbar.gototoday.label "Ir a hoy">
+<!ENTITY lightning.toolbar.gototoday.tooltip "Ir a hoy">
 <!ENTITY lightning.toolbar.print.label "Imprimir">
+<!ENTITY lightning.toolbar.print.tooltip "Imprimir eventos o tareas">
 <!ENTITY lightning.toolbar.calendar.label "Calendario">
 <!ENTITY lightning.toolbar.calendar.tooltip "Pasar a la pestaña del calendario">
 <!ENTITY lightning.toolbar.calendar.accesskey "C">
@@ -18,7 +23,9 @@
 <!ENTITY lightning.toolbar.task.tooltip "Pasar a la barra de herramientas de tareas">
 <!ENTITY lightning.toolbar.task.accesskey "T">
 <!ENTITY lightning.toolbar.newevent.label "Evento">
+<!ENTITY lightning.toolbar.newevent.tooltip "Crear un nuevo evento">
 <!ENTITY lightning.toolbar.newtask.label "Tarea">
+<!ENTITY lightning.toolbar.newtask.tooltip "Crear una tarea nueva">
 <!ENTITY lightning.toolbar.day.label "Día">
 <!ENTITY lightning.toolbar.day.accesskey "D">
 <!ENTITY lightning.toolbar.week.label "Semana">
