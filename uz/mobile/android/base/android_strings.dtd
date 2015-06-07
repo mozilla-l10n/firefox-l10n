@@ -189,9 +189,10 @@
 <!ENTITY pref_donottrack_title "Kuzatmang">
 <!ENTITY pref_donottrack_summary "&brandShortName; saytlarga sizni kuzatishlarini xohlamsaligingiz aytiladi.">
 
+<!ENTITY tab_queue_toast_message2 "Ichki oyna &brandShortName;ga navbatga qo‘yildi">
 <!ENTITY tab_queue_toast_action "Hozir ochish">
 <!ENTITY tab_queue_prompt_title "Bir nechta vazifalar ochilsinmi">
-
+<!ENTITY tab_queue_prompt_text2 "Ular har safar &brandShortName;ga almashtirmasdan ochilsin.">
 <!ENTITY tab_queue_prompt_tip_text "siz uni keyinroq \&quot;Sozlamalar\&quot;dan o‘zgartirishingiz mumkin">
 <!ENTITY tab_queue_prompt_positive_action_button "Yoqib qo‘yilgan">
 <!ENTITY tab_queue_prompt_negative_action_button "Hozir emas">
@@ -251,8 +252,8 @@ size. -->
 <!ENTITY pref_import_android "Androiddan emport qilish">
 <!ENTITY pref_import_android_summary "Asosiy brauzerdan xatcho‘plar va tarixni import qilish">
 <!ENTITY pref_private_data_history2 "Ko‘rish tarixi">
-
-
+<!ENTITY pref_private_data_searchHistory "Izlash tarixi">
+<!ENTITY pref_private_data_formdata2 "Tarixdan">
 <!ENTITY pref_private_data_cookies2 "Kukilar va faol kirishlar">
 <!ENTITY pref_private_data_passwords "Saqlangan parollar">
 <!ENTITY pref_private_data_cache "Kesh">
@@ -377,7 +378,7 @@ size. -->
 <!ENTITY doorhanger_login_edit_username_hint "Foydalanuvchi nomi">
 <!ENTITY doorhanger_login_edit_password_hint "Parol">
 <!ENTITY doorhanger_login_edit_toggle "Parolni ko‘rsatish">
-
+<!ENTITY doorhanger_login_edit_toast_error "Kirishga saqlab bo‘lmadi">
 
 <!ENTITY pref_titlebar_mode "Sahifa nomi paneli">
 <!ENTITY pref_titlebar_mode_title "Sahifa nomini ko‘rsatish">
@@ -388,7 +389,8 @@ size. -->
 <!ENTITY pref_scroll_title_bar2 "Butun ekranda ko‘rish">
 <!ENTITY pref_scroll_title_bar_summary "Sahifa pastga o‘tayotganda &brandShortName;ning sarlavha paneli yashirilsin">
 
-
+<!ENTITY pref_tab_queue_title2 "Bir nechta havolalarni ochish">
+<!ENTITY pref_tab_queue_summary2 "Har safar &brandShortName;ga almashtirish o‘rnitga havolalar keyinroq navbatga qo‘yildi">
 <!-- Localization note (page_removed): This string appears in a toast message when
      any page is removed frome about:home. This includes pages that are in history,
      bookmarks, or reading list. -->
@@ -438,6 +440,7 @@ size. -->
 <!ENTITY button_clear "Tozalash">
 <!ENTITY button_remember "Eslab qolish">
 
+<!ENTITY firstrun_panel_title_welcome "Marhamat">
 
 <!ENTITY home_top_sites_title "Yuqori reytingli saytlar">
 <!-- Localization note (home_top_sites_add): This string is used as placeholder
@@ -616,6 +619,8 @@ import qilinmoqda">
      is a reserved caracter. In order to display one percent sign in the result of getString,
      double percent signs must be inserted in the format string.
      This entity is used in the zoomed view to display the zoom factor-->
+
+<!ENTITY percent "&formatS;&#037;&#037;">
 <!-- These are only used for accessibility for the done and overflow-menu buttons in the actionbar.
      They are never shown to users -->
 
@@ -627,7 +632,7 @@ import qilinmoqda">
 <!ENTITY voicesearch_failed_title "&brandShortName; ovoz yordamida izlash">
 <!ENTITY voicesearch_failed_message "Hozirda ovoz yordamida izlashda mammo bor. Uzr, keyinroq urinib ko‘ring.">
 <!ENTITY voicesearch_failed_message_recoverable "Kechirasiz! Biz ovozingizni ajrata olmadik. Uzr, yana urinib ko‘ring.">
-
+<!ENTITY voicesearch_failed_retry "Yana urinib ko‘rish">
 <!-- Localization note (remote_tabs_last_synced): the variable is replaced by a
      "relative time span string" produced by Android.  This string describes the
      time the tabs were last synced relative to the current time; examples

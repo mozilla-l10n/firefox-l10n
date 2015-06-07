@@ -16,5 +16,7 @@
 <!ENTITY safeb.blocked.phishingPage.shortDesc2 "Ushbu sahifaga birorta shaxsiy ma’lumot kiritsangiz, ma’lumotlaringiz o‘girlanishi yoki boshqa tovlamachiliklarga sabab bo‘lishi mumkin.">
 <!ENTITY safeb.blocked.phishingPage.longDesc2 "<p>Ushbu turdagi veb qallobliklar fishing hujumlar uchun foydalaniladi. Ushbu hujumlar veb sahifalar va e-pochtalar orqali siz ishongan manbalarni ishdan chiqarish uchun foydalaniladi.</p>">
 
+<!ENTITY safeb.blocked.unwantedPage.title "Keraksiz deb hisoblangan dasturiy ta’minot sayti haqida xabar berildi!">
 <!-- Localization note (safeb.blocked.unwanted.shortDesc) - Please don't translate the contents of the <span id="unwanted_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
-
+<!ENTITY safeb.blocked.unwantedPage.shortDesc "Ushbu <span id='malware_sitename'/> veb sahifasi  keraksiz dasturiy ta’minot mavjud sayt sifatida xabar berilgan, shu sababli sizning xavfsizligingizni o‘ylab, ushbu sahifa bloklandi.">
+<!ENTITY safeb.blocked.unwantedPage.longDesc "Keraksiz dasturiy ta’minot sahifalari turli dasturlarni o‘rnatishga harakat qiladi. Ushbu dasturlar aldovchi bo‘lishi va tizimingizga kutilmagan yo‘llar bilan ta’sir qilishi mumkin. ">
