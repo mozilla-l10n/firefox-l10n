@@ -5,6 +5,7 @@
 <!ENTITY itemFormatting.label             "Formatavimas">
 <!ENTITY itemTags.label                   "Gairės">
 
+
 <!ENTITY style.label                      "Stilius:">
 <!ENTITY style.accesskey                  "t">
 <!ENTITY regularStyle.label               "Normalusis">
@@ -44,3 +45,29 @@
 <!ENTITY fontOptions.label       "Kitkas…">
 <!ENTITY colorButton.label       "Spalvos…">
 <!ENTITY colorButton.accesskey   "S">
+<!-- Advanced -->
+
+<!ENTITY reading.caption                  "Skaitymas">
+
+<!ENTITY showCondensedAddresses.label     "Jei asmens duomenys įrašyti į adresų knygą, tai rodyti tik jo asmenvardį (be adreso)">
+<!ENTITY showCondensedAddresses.accesskey "a">
+
+<!ENTITY autoMarkAsRead.label             "Atvertą laišką pažymėti kaip skaitytą">
+<!ENTITY autoMarkAsRead.accesskey         "ž">
+<!ENTITY markAsReadNoDelay.label          "iškart">
+<!ENTITY markAsReadNoDelay.accesskey      "i">
+<!-- LOCALIZATION NOTE (markAsReadDelay.label): This will concatenate to
+     "After displaying for [___] seconds",
+     using (markAsReadDelay.label) and a number (secondsLabel.label). -->
+<!ENTITY markAsReadDelay.label            "praėjus">
+<!ENTITY markAsReadDelay.accesskey        "p">
+<!ENTITY secondsLabel.label               "sek.">
+<!ENTITY openMsgIn.label                  "Atveriamą laišką rodyti:">
+<!ENTITY openMsgInNewTab.label            "naujoje kortelėje">
+<!ENTITY openMsgInNewTab.accesskey        "k">
+<!ENTITY reuseExpRadio0.label             "naujame lange">
+<!ENTITY reuseExpRadio0.accesskey         "n">
+<!ENTITY reuseExpRadio1.label             "tame pačiame (atvertame) lange">
+<!ENTITY reuseExpRadio1.accesskey         "t">
+<!ENTITY closeMsgOnMoveOrDelete.label     "Perkėlus ar pašalinus laišką, užverti langą ar kortelę su juo">
+<!ENTITY closeMsgOnMoveOrDelete.accesskey "v">
