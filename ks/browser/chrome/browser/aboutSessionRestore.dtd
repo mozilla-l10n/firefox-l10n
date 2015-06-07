@@ -2,12 +2,12 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY restorepage.tabtitle       "سیشن كریو جٲری">
+<!ENTITY restorepage.tabtitle       "سیشن كریو ري سٹور">
 <!-- LOCALIZATION NOTE: The title is intended to be apologetic and disarming, expressing dismay
      and regret that we are unable to restore the session for the user -->
 
 <!ENTITY restorepage.errorTitle     "آہ، یئ چھُ شرم ناكھ">
-<!ENTITY restorepage.problemDesc    "&amp;برانڈ شاٹ ناو؛ اس چھ مُشکل یوان ریکور کرنس منز تُہند وینڈو تْہ ٹیب۔ یہ چُھ اکثر گژھان اکِہ تازْ اوپْن کرنْہ آمتِہ ویب پیج سْیت۔">
+<!ENTITY restorepage.problemDesc    ";brandShortName&amp; اس چھ مُشکل یوان ریکور کرنس منز تُہند وینڈو تْہ ٹیب۔ یہ چُھ اکثر گژھان اکِہ تازْ اوپْن کرنْہ آمتِہ ویب پیج سْیت.">
 <!ENTITY restorepage.tryThis        "تُہ۪ی ہیكیو كوشش كرِتھ">
 <!ENTITY restorepage.restoreSome    "اَكھ یا زیادئ ٹیب ہٹاوْن آس۪ی كران دِقَت پٲدئ">
 <!ENTITY restorepage.startNew       "نئو۪ی كھولیو براوزینگ سیشن">
