@@ -303,6 +303,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY newNavigatorCmd.accesskey "N">
 <!ENTITY newPrivateWindow.label     "Nueva ventana privada">
 <!ENTITY newPrivateWindow.accesskey "v">
+<!ENTITY newNonRemoteWindow.label   "Nueva ventana Non-e10s">
 
 <!ENTITY editMenu.label "Editar">
 <!ENTITY editMenu.accesskey "E">
@@ -689,14 +690,9 @@ with that structure, consider a translation which ignores the preceding domain a
 just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity.runBy "que es provisto por">
 
-<!ENTITY identity.moreInfoLinkText "Más información…">
+<!ENTITY identity.moreInfoLinkText2 "Más información">
 
 <!ENTITY identity.permissions "Permisos">
-
-<!-- LOCALIZATION NOTE (identity.help.tooltip) : This string should be the
-     localized title of this SUMO article
-     https://support.mozilla.org/kb/how-do-i-tell-if-my-connection-is-secure -->
-<!ENTITY identity.help.tooltip "How do I tell if my connection to a website is secure?">
 
 <!-- Name for the tabs toolbar as spoken by screen readers.
 The word "toolbar" is appended automatically and should not be contained below! -->
