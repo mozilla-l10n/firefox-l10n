@@ -2,11 +2,11 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY tracking.label                 "Rastreio">
+<!ENTITY tracking.label                 "Seguimento">
 
-<!ENTITY dntTrackingNotOkay.label2      "Indicar aos sítios web que não quero ser rastreado (DNT)">
+<!ENTITY dntTrackingNotOkay.label2      "Pedir que os sites não possam seguir a minha navegação">
 <!ENTITY dntTrackingNotOkay.accesskey   "N">
-<!ENTITY trackingProtection.label       "Impedir rastreio por parte dos sítios web">
+<!ENTITY trackingProtection.label       "Pedir que os sites não possam seguir a minha navegação">
 <!ENTITY trackingProtection.accesskey   "m">
 <!ENTITY trackingProtectionLearnMore.label "Saber mais">
 <!ENTITY doNotTrackInfo.label           "Saber mais">
@@ -23,7 +23,7 @@
 <!ENTITY  locbar.openpage.label         "Abrir separadores">
 <!ENTITY  locbar.openpage.accesskey     "o">
 
-<!ENTITY  acceptCookies.label           "Aceitar cookies de sítios">
+<!ENTITY  acceptCookies.label           "Aceitar cookies de sites">
 <!ENTITY  acceptCookies.accesskey       "A">
 
 <!ENTITY  acceptThirdParty.pre.label      "Aceitar cookies de terceiros:">

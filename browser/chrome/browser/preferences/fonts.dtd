@@ -68,7 +68,7 @@
 <!ENTITY languages.customize.Fallback2.accesskey  "C">
 <!ENTITY languages.customize.Fallback2.desc       "Esta codificação de texto é utilizada para conteúdo legado que falha ao declarar a sua codificação.">
 
-<!ENTITY languages.customize.Fallback.auto        "Pré-definido para o idioma atual">
+<!ENTITY languages.customize.Fallback.auto        "Predefinido para o idioma atual">
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.arabic):
      Translate "Arabic" as an adjective for an encoding, not as the name of the language. -->
 <!ENTITY languages.customize.Fallback.arabic      "Árabe">

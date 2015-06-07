@@ -10,17 +10,17 @@
 <!ENTITY provideSearchSuggestions.accesskey    "s">
 
 
-<!ENTITY oneClickSearchEngines.label           "Motores de pesquisa - Um clique">
+<!ENTITY oneClickSearchEngines.label           "Motores de pesquisa (clique único)">
 
-<!ENTITY chooseWhichOneToDisplay.label         "A barra de pesquisa deixa-o pesquisar com motores de pesquisa alternativos. Escolha quais usar.">
+<!ENTITY chooseWhichOneToDisplay.label         "A barra de pesquisa permite-lhe pesquisar com motores de pesquisa alternativos. Escolha quais pretende usar.">
 
 <!ENTITY engineNameColumn.label                "Motor de pesquisa">
-<!ENTITY engineKeywordColumn.label             "Palavra chave">
+<!ENTITY engineKeywordColumn.label             "Palavra-chave">
 
 <!ENTITY restoreDefaultSearchEngines.label     "Restaurar motores de pesquisa predefinidos">
-<!ENTITY restoreDefaultSearchEngines.accesskey "d">
+<!ENTITY restoreDefaultSearchEngines.accesskey "p">
 
 <!ENTITY removeEngine.label                    "Remover">
-<!ENTITY removeEngine.accesskey                "r">
+<!ENTITY removeEngine.accesskey                "R">
 
 <!ENTITY addMoreSearchEngines.label            "Adicionar mais motores de pesquisa…">

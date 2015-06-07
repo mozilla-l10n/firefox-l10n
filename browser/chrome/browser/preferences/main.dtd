@@ -12,20 +12,20 @@
 
 <!ENTITY homepage.label            "Página inicial:">
 <!ENTITY homepage.accesskey        "P">
-<!ENTITY useCurrentPage.label      "Utilizar a página atual">
+<!ENTITY useCurrentPage.label      "Usar a página atual">
 <!ENTITY useCurrentPage.accesskey  "u">
-<!ENTITY useMultiple.label         "Utilizar as páginas atuais">
-<!ENTITY chooseBookmark.label      "Utilizar marcador…">
+<!ENTITY useMultiple.label         "Usar as páginas atuais">
+<!ENTITY chooseBookmark.label      "Usar um marcador…">
 <!ENTITY chooseBookmark.accesskey  "m">
-<!ENTITY restoreDefault.label      "Restaurar predefinições">
+<!ENTITY restoreDefault.label      "Repor predefinição">
 <!ENTITY restoreDefault.accesskey  "R">
 
 <!ENTITY downloads.label     "Descargas">
 
-<!ENTITY saveTo.label "Gravar ficheiros em">
-<!ENTITY saveTo.accesskey "v">
-<!ENTITY chooseFolderWin.label        "Navegar…">
-<!ENTITY chooseFolderWin.accesskey    "N">
+<!ENTITY saveTo.label "Guardar ficheiros em">
+<!ENTITY saveTo.accesskey "f">
+<!ENTITY chooseFolderWin.label        "Procurar…">
+<!ENTITY chooseFolderWin.accesskey    "P">
 <!ENTITY chooseFolderMac.label        "Escolher…">
 <!ENTITY chooseFolderMac.accesskey    "E">
 <!ENTITY alwaysAsk.label "Perguntar sempre onde guardar os ficheiros">
@@ -38,8 +38,8 @@
 <!ENTITY isDefault.label                  "O &brandShortName; é o seu navegador predefinido">
 <!ENTITY isNotDefault.label               "O &brandShortName; não é o seu navegador predefinido">
 
-<!ENTITY separateProfileMode.label        "Permitir ao &brandShortName; e Firefox executarem ao mesmo tempo">
-<!ENTITY useFirefoxSync.label             "Dica: este utiliza perfis separados. Utilize o Sync para partilhar dados entre eles.">
+<!ENTITY separateProfileMode.label        "Permitir que o &brandShortName; e o Firefox sejam usados ao mesmo tempo">
+<!ENTITY useFirefoxSync.label             "Sugestão: Este utiliza perfis separados. Use o Sync para partilhar dados entre eles.">
 <!ENTITY getStarted.label                 "Começar a usar o Sync…">
 
-<!ENTITY e10sEnabled.label                "Ativar o multi-processo do &brandShortName;">
+<!ENTITY e10sEnabled.label                "Ativar a multi-tarefa do &brandShortName;">
