@@ -4,20 +4,20 @@
 
 <!ENTITY defaultSearchEngine.label             "Motor de pesquisa predefinido">
 
-<!ENTITY chooseYourDefaultSearchEngine.label   "Escolha o seu motor de pesquisa predefinido. O &brandShortName; utiliza o mesmo na barra de localização, barra de pesquisa e página inicial.">
+<!ENTITY chooseYourDefaultSearchEngine.label   "Escolha o motor de pesquisa que o &brandShortName; deverá usar na barra de endereços, na barra de pesquisa e na página inicial.">
 
-<!ENTITY provideSearchSuggestions.label        "Disponibilizar sugestões de pesquisa">
+<!ENTITY provideSearchSuggestions.label        "Mostrar sugestões de pesquisa">
 <!ENTITY provideSearchSuggestions.accesskey    "s">
 
 
-<!ENTITY oneClickSearchEngines.label           "Motores de pesquisa (clique único)">
+<!ENTITY oneClickSearchEngines.label           "Motores de pesquisa na barra de pesquisa">
 
 <!ENTITY chooseWhichOneToDisplay.label         "A barra de pesquisa permite-lhe pesquisar com motores de pesquisa alternativos. Escolha quais pretende usar.">
 
 <!ENTITY engineNameColumn.label                "Motor de pesquisa">
 <!ENTITY engineKeywordColumn.label             "Palavra-chave">
 
-<!ENTITY restoreDefaultSearchEngines.label     "Restaurar motores de pesquisa predefinidos">
+<!ENTITY restoreDefaultSearchEngines.label     "Repor motores de pesquisa predefinidos">
 <!ENTITY restoreDefaultSearchEngines.accesskey "p">
 
 <!ENTITY removeEngine.label                    "Remover">

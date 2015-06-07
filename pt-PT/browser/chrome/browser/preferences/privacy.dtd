@@ -13,15 +13,15 @@
 
 <!ENTITY  history.label                 "Histórico">
 
-<!ENTITY  locationBar.label             "Barra de localização">
+<!ENTITY  locationBar.label             "Barra de endereços">
 
-<!ENTITY  locbar.suggest.label          "Ao usar a barra de localização, sugerir:">
+<!ENTITY  locbar.suggest.label          "Ao usar na barra de endereços, sugerir páginas:">
 <!ENTITY  locbar.history.label          "Histórico">
 <!ENTITY  locbar.history.accesskey      "H">
 <!ENTITY  locbar.bookmarks.label        "Marcadores">
 <!ENTITY  locbar.bookmarks.accesskey    "M">
-<!ENTITY  locbar.openpage.label         "Abrir separadores">
-<!ENTITY  locbar.openpage.accesskey     "o">
+<!ENTITY  locbar.openpage.label         "Separadores abertos">
+<!ENTITY  locbar.openpage.accesskey     "S">
 
 <!ENTITY  acceptCookies.label           "Aceitar cookies de sites">
 <!ENTITY  acceptCookies.accesskey       "A">
@@ -35,9 +35,9 @@
 <!ENTITY  keepUntil.label               "Guardar até:">
 <!ENTITY  keepUntil.accesskey           "G">
 
-<!ENTITY  expire.label                  "estas expirarem">
-<!ENTITY  close.label                   "Fechar o &brandShortName;">
-<!ENTITY  askEachTime.label             "perguntar sempre que necessário">
+<!ENTITY  expire.label                  "expirarem">
+<!ENTITY  close.label                   "o &brandShortName; ser fechado">
+<!ENTITY  askEachTime.label             "perguntar sempre">
 
 <!ENTITY  cookieExceptions.label        "Exceções…">
 <!ENTITY  cookieExceptions.accesskey    "E">
@@ -47,9 +47,9 @@
 
 <!ENTITY  historyHeader.pre.label          "O &brandShortName; irá:">
 <!ENTITY  historyHeader.pre.accesskey      "i">
-<!ENTITY  historyHeader.remember.label     "Memorizar histórico">
-<!ENTITY  historyHeader.dontremember.label "Não memorizar histórico">
-<!ENTITY  historyHeader.custom.label       "Usar definições personalizadas para o histórico">
+<!ENTITY  historyHeader.remember.label     "guardar o seu histórico">
+<!ENTITY  historyHeader.dontremember.label "não guardar o seu histórico">
+<!ENTITY  historyHeader.custom.label       "usar definições personalizadas para o seu histórico">
 <!ENTITY  historyHeader.post.label         "">
 
 <!ENTITY  rememberDescription.label      "O &brandShortName; irá guardar os seus históricos de navegação, descargas, formulários e pesquisa, e irá manter os cookies dos sites que visitar.">
@@ -57,9 +57,9 @@
 <!-- LOCALIZATION NOTE (rememberActions.middle.label): include a starting and trailing space as needed -->
 <!-- LOCALIZATION NOTE (rememberActions.post.label): include a starting space as needed -->
 
-<!ENTITY  rememberActions.pre.label           "Poderá querer ">
-<!ENTITY  rememberActions.clearHistory.label  "limpar os seu histórico recente">
-<!ENTITY  rememberActions.middle.label        ", ou ">
+<!ENTITY  rememberActions.pre.label           "Pode ">
+<!ENTITY  rememberActions.clearHistory.label  "limpar o seu histórico">
+<!ENTITY  rememberActions.middle.label        " ou ">
 <!ENTITY  rememberActions.removeCookies.label "remover cookies individualmente">
 <!ENTITY  rememberActions.post.label          ".">
 
@@ -67,12 +67,12 @@
 <!-- LOCALIZATION NOTE (dontrememberActions.pre.label): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (dontrememberActions.post.label): include a starting space as needed -->
 
-<!ENTITY  dontrememberActions.pre.label          "Poderá também querer ">
+<!ENTITY  dontrememberActions.pre.label          "Também pode ">
 <!ENTITY  dontrememberActions.clearHistory.label "limpar todo o histórico">
 <!ENTITY  dontrememberActions.post.label         ".">
 
-<!ENTITY  privateBrowsingPermanent2.label "Modo permanente de navegação privada">
-<!ENTITY  privateBrowsingPermanent2.accesskey "M">
+<!ENTITY  privateBrowsingPermanent2.label "Usar sempre o modo de navegação privada ">
+<!ENTITY  privateBrowsingPermanent2.accesskey "U">
 
 <!ENTITY  rememberHistory2.label      "Memorizar histórico de navegação e de descargas">
 <!ENTITY  rememberHistory2.accesskey  "h">
@@ -80,7 +80,7 @@
 <!ENTITY  rememberSearchForm.label       "Memorizar pesquisas e histórico de formulários">
 <!ENTITY  rememberSearchForm.accesskey   "f">
 
-<!ENTITY  clearOnClose.label             "Limpar histórico quando o &brandShortName; encerrar">
+<!ENTITY  clearOnClose.label             "Limpar o histórico quando o &brandShortName; for fechado">
 <!ENTITY  clearOnClose.accesskey         "i">
 
 <!ENTITY  clearOnCloseSettings.label     "Definições…">
