@@ -30,7 +30,8 @@
 
 
 
+<!ENTITY status.available          "Pieejams">
 
-
+<!ENTITY status.offline            "Nesaistē">
 
 

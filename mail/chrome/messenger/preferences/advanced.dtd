@@ -5,7 +5,6 @@
 
 
 
-
 <!-- General Settings -->
 
 
@@ -42,28 +41,6 @@
 
 
 
-<!-- Display and Reading Settings -->
-
-
-
-
-
-
-
-<!-- LOCALIZATION NOTE (markAsReadDelay.label): This will concatenate to
-     "After displaying for [___] seconds",
-     using (markAsReadDelay.label) and a number (secondsLabel.label). -->
-
-
-
-
-
-
-
-
-
-
-
 <!-- Update -->
 
 
@@ -81,7 +58,7 @@
 
 
 
-
+<!ENTITY offlineInfo.caption           "Nesaistē">
 
 
 
