@@ -16,7 +16,7 @@
 <!ENTITY  defaultSize.label           "Tamanho:">
 <!ENTITY  defaultSize.accesskey       "n">
 
-<!ENTITY  advancedFonts.label         "Avançado…">
+<!ENTITY  advancedFonts.label         "Avançadas…">
 <!ENTITY  advancedFonts.accesskey     "A">
 
 <!ENTITY  colors.label                "Cores…">

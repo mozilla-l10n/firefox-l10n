@@ -8,7 +8,7 @@
 <!ENTITY aboutPrivateBrowsing.subtitle         "O &brandShortName; não memorizará o histórico desta janela.">
 <!ENTITY aboutPrivateBrowsing.subtitle.normal  "O &brandShortName; não memoriza o histórico de janelas privadas.">
 
-<!ENTITY aboutPrivateBrowsing.description      "Inclui o histórico de navegação, de pesquisa, de transferências, de formulários, cookies e ficheiros temporários. No entanto, os ficheiros que transferir e os marcadores que criar serão guardados.">
+<!ENTITY aboutPrivateBrowsing.description      "Inclui o histórico de navegação, de pesquisas, de descargas, de formulários, cookies e ficheiros temporários. No entanto, os ficheiros que descarregar e os marcadores que criar serão guardados.">
 
 <!ENTITY aboutPrivateBrowsing.notPrivate       "Não está a navegar no modo privado.">
 
