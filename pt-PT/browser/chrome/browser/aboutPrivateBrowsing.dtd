@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY aboutPrivateBrowsing.title            "Está a navegar no modo privado">
+<!ENTITY aboutPrivateBrowsing.title            "Modo de navegação privada">
 <!ENTITY aboutPrivateBrowsing.title.normal     "Abrir janela privada?">
 
 <!ENTITY aboutPrivateBrowsing.subtitle         "O &brandShortName; não memorizará o histórico desta janela.">
