@@ -30,8 +30,8 @@
 <!ENTITY attachmentsTree.accesskey         "x">
 <!ENTITY openAttachmentCmd.label           "Abrir">
 <!ENTITY openAttachmentCmd.accesskey       "A">
-<!ENTITY viewAttachmentCmd.label           "Exibir código-fonte">
-<!ENTITY viewAttachmentCmd.accesskey       "b">
+<!ENTITY viewAttachmentCmd.label           "Ver fonte">
+<!ENTITY viewAttachmentCmd.accesskey       "V">
 <!ENTITY saveAsAttachmentCmd.label         "Salvar como...">
 <!ENTITY saveAsAttachmentCmd.accesskey     "c">
 <!ENTITY detachAttachmentCmd.label         "Desanexar ...">
