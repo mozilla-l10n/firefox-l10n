@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY aboutAccounts.welcome "Bem-vindo ao &syncBrand.shortName.label;">
+<!ENTITY aboutAccounts.welcome "O &syncBrand.shortName.label; dá-lhe as boas-vindas">
 
 <!ENTITY aboutAccountsConfig.description "Inicie sessão para sincronizar separadores, marcadores, palavras-passe e muito mais.">
 <!ENTITY aboutAccountsConfig.startButton.label "Começar a usar">
