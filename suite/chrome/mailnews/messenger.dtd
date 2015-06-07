@@ -445,6 +445,12 @@
 <!ENTITY junkButton.tooltip "Marcar los mensajes seleccionados como correo basura">
 <!ENTITY notJunkButton.tooltip "Marcar los mensajes seleccionados como correo normal">
 
+<!-- Remote Content Button Popup -->
+<!ENTITY remoteContentOptionsAllowForMsg.label "Mostrar contenido remoto en este mensaje">
+<!ENTITY remoteContentOptionsAllowForMsg.accesskey "S">
+<!ENTITY editRemoteContentSettings.label "Editar permisos para contenido remoto…">
+<!ENTITY editRemoteContentSettings.accesskey "E">
+
 <!-- Statusbar -->
 <!ENTITY  statusText.label "Terminado">
 
