@@ -42,3 +42,4 @@
 <!ENTITY useFirefoxSync.label             "Patarimas: tai naudoja atskirus profilius. Bendrinti duomenis tarp jų galite naudodami „Sync“.">
 <!ENTITY getStarted.label                 "Pradėti naudotis „Sync“…">
 
+<!ENTITY e10sEnabled.label                "Įjungti daugiaprocesę „&brandShortName;“">
