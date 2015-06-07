@@ -20,7 +20,7 @@ sentence. -->
 <!ENTITY  andSetStatusToAway.label      "and set my status to Away with this status message:">
 <!ENTITY  andSetStatusToAway.accesskey  "A">
 
-<!ENTITY  sendTyping.label              "Send typing notifications in conversations">
+<!ENTITY  sendTyping.label              "Enviar notificaciones de tipeo en las notificaciones">
 <!ENTITY  sendTyping.accesskey          "t">
 
 <!ENTITY  chatNotifications.label             "Cuando lleguen mensajes dirigidos a usted:">
