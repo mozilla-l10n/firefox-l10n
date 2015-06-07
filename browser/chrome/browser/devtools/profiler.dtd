@@ -13,16 +13,21 @@
 
 <!-- LOCALIZATION NOTE (profilerUI.emptyNotice1/2): This is the label shown
   -  in the call list view when empty. -->
+<!-- TODO remove -->
 <!ENTITY profilerUI.emptyNotice1    "Klik på knappen">
+<!-- TODO remove -->
 <!ENTITY profilerUI.emptyNotice2    "for at starte optagelse af JavaScript-funktionskald.">
 
 <!-- LOCALIZATION NOTE (profilerUI.stopNotice1/2): This is the label shown
   -  in the call list view while recording a profile. -->
+<!-- TODO remove -->
 <!ENTITY profilerUI.stopNotice1    "Klik på knappen">
+<!-- TODO remove -->
 <!ENTITY profilerUI.stopNotice2    "igen for at stoppe ydelsesmåling.">
 
 <!-- LOCALIZATION NOTE (profilerUI.startRecording/profilerUI.stopRecording): These are
   -  the labels shown on the main recording buttons to start/stop recording. -->
+
 <!ENTITY profilerUI.startRecording "Start optagelse af ydelse">
 <!ENTITY profilerUI.stopRecording  "Stop optagelse af ydelse">
 
@@ -134,12 +139,12 @@
 <!-- LOCALIZATION NOTE (profilerUI.showJITOptimizations): This string
   -  is displayed next to a checkbox determining whether or not JIT optimization data
   -  should be shown. -->
-<!ENTITY profilerUI.showJITOptimizations             "Vis JIT-optimiseringer">
+<!ENTITY profilerUI.showJITOptimizations             "Vis JIT-optimeringer">
 <!ENTITY profilerUI.showJITOptimizations.tooltiptext "Show JIT optimization data sampled in each frame of the JS call tree.">
 
 <!-- LOCALIZATION NOTE (profilerUI.JITOptimizationsTitle): This string
   -  is displayed as the title of the JIT Optimizations panel. -->
-<!ENTITY profilerUI.JITOptimizationsTitle "JIT-optimiseringer"
+<!ENTITY profilerUI.JITOptimizationsTitle "JIT-optimeringer">
 
 <!-- LOCALIZATION NOTE (profilerUI.console.recordingNoticeStart/recordingNoticeEnd):
   -  This string is displayed when a recording is selected that started via console.profile.

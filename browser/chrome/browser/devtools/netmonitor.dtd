@@ -126,7 +126,7 @@
 
 <!-- LOCALIZATION NOTE (netmonitorUI.footer.filterFreetext): This is the label displayed
   -  in the network details footer for the url filtering textbox. -->
-<!ENTITY netmonitorUI.footer.filterFreetext.label  "Filtrer URLer">
+<!ENTITY netmonitorUI.footer.filterFreetext.label  "Filtrer URL'er">
 <!ENTITY netmonitorUI.footer.filterFreetext.key  "F">
 
 <!-- LOCALIZATION NOTE (netmonitorUI.footer.clear): This is the label displayed
@@ -284,7 +284,7 @@
 
 <!-- LOCALIZATION NOTE (netmonitorUI.context.copyRequestHeaders): This is the label displayed
   -  on the context menu that copies the selected item's request headers -->
-<!ENTITY netmonitorUI.context.copyRequestHeaders     "Kopier forespørgsels-headers">
+<!ENTITY netmonitorUI.context.copyRequestHeaders     "Kopier request-headers">
 
 <!-- LOCALIZATION NOTE (netmonitorUI.context.copyRequestHeaders.accesskey): This is the access key
   -  for the Copy Request Headers menu item displayed in the context menu for a request -->
@@ -304,7 +304,7 @@
 
 <!-- LOCALIZATION NOTE (netmonitorUI.context.copyRespose.accesskey): This is the access key
   -  for the Copy Response menu item displayed in the context menu for a request -->
-<!ENTITY netmonitorUI.context.copyResponse.accesskey  "h">
+<!ENTITY netmonitorUI.context.copyResponse.accesskey  "r">
 
 <!-- LOCALIZATION NOTE (netmonitorUI.context.copyImageAsDataUri): This is the label displayed
   -  on the context menu that copies the selected image as data uri -->
@@ -312,7 +312,7 @@
 
 <!-- LOCALIZATION NOTE (netmonitorUI.context.copyImageAsDataUri.accesskey): This is the access key
   -  for the Copy Image As Data URI menu item displayed in the context menu for a request -->
-<!ENTITY netmonitorUI.context.copyImageAsDataUri.accesskey  "o">
+<!ENTITY netmonitorUI.context.copyImageAsDataUri.accesskey  "b">
 
 <!-- LOCALIZATION NOTE (netmonitorUI.summary.editAndResend): This is the label displayed
   -  on the button in the headers tab that opens a form to edit and resend the currently
@@ -321,7 +321,7 @@
 
 <!-- LOCALIZATION NOTE (netmonitorUI.summary.editAndResend.accesskey): This is the access key
   -  for the "Edit and Resend" menu item displayed in the context menu for a request -->
-<!ENTITY netmonitorUI.summary.editAndResend.accesskey  "R">
+<!ENTITY netmonitorUI.summary.editAndResend.accesskey  "s">
 
 <!-- LOCALIZATION NOTE (netmonitorUI.summary.rawHeaders): This is the label displayed
   -  on the button in the headers tab that toggle view for raw request/response headers
