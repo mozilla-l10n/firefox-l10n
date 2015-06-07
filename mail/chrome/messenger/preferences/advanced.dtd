@@ -52,32 +52,6 @@
 <!ENTITY enableCrashReporter.accesskey   "h">
 <!ENTITY crashReporterLearnMore.label    "Zjistit více">
 
-<!-- Display and Reading Settings -->
-<!ENTITY reading.caption "Čtení">
-<!ENTITY display.caption "Zobrazení">
-<!ENTITY showCondensedAddresses.label "Zobrazit pouze jméno odesílatele, pokud je v mém adresáři">
-<!ENTITY showCondensedAddresses.accesskey "b">
-
-<!ENTITY autoMarkAsRead.label "Automaticky označit zprávu jako přečtenou">
-<!ENTITY autoMarkAsRead.accesskey "A">
-<!ENTITY markAsReadNoDelay.label "Okamžitě po zobrazení">
-<!ENTITY markAsReadNoDelay.accesskey "O">
-<!-- LOCALIZATION NOTE (markAsReadDelay.label): This will concatenate to
-     "After displaying for [___] seconds",
-     using (markAsReadDelay.label) and a number (secondsLabel.label). -->
-<!ENTITY markAsReadDelay.label "Po zobrazení po">
-<!ENTITY markAsReadDelay.accesskey "z">
-<!ENTITY secondsLabel.label "sekundách">
-<!ENTITY openMsgIn.label "Otevírat zprávy v:">
-<!ENTITY openMsgInNewTab.label "Novém panelu">
-<!ENTITY openMsgInNewTab.accesskey "p">
-<!ENTITY reuseExpRadio0.label "Novém okně">
-<!ENTITY reuseExpRadio0.accesskey "N">
-<!ENTITY reuseExpRadio1.label "Aktuálním okně se zprávou">
-<!ENTITY reuseExpRadio1.accesskey "u">
-<!ENTITY closeMsgOnMoveOrDelete.label "Při přesunutí nebo smazání zprávy zavřít panel/okno">
-<!ENTITY closeMsgOnMoveOrDelete.accesskey "s">
-
 <!-- Update -->
 <!ENTITY updateApp.label                 "Aktualizace aplikace &brandShortName;:">
 <!ENTITY updateAuto.label                "Instalovat aktualizace automaticky (doporučováno z důvodu vyšší bezpečnosti)">
