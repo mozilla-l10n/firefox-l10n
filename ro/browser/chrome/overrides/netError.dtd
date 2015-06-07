@@ -23,8 +23,8 @@
 <strong>www</strong>.exemplu.ro</li> 
 <li>Dacă nu puteți încărca nicio pagină, verificați conexiunea la rețea a calculatorului 
 dumneavoastră.</li> 
-<li>Dacă sistemul dumneavoastră este protejat de un paravan (firewall) sau proxy, asigurați-vă că 
-&brandShortName; are permisiunea de a accesa internetul.</li> 
+<li>Dacă sistemul sau rețeaua dumneavoastră este protejat de un paravan (firewall) sau proxy, 
+asigurați-vă că &brandShortName; are permisiunea de a accesa Web-ul.</li> 
 </ul>">
 
 <!ENTITY fileNotFound.title "Fișier negăsit">
@@ -124,8 +124,8 @@ temporară și puteți încerca din nou mai târziu.</li>
 momente.</li> 
 <li>Dacă nu puteți încărca nicio pagină, verificați legătura la rețea a calculatorului 
 dumneavoastră.</li> 
-<li>Dacă calculatorul dumneavoastră este protejat de un paravan de protecție sau un proxy, asigurați-vă că 
-&brandShortName; are permisiunea de a accesa internetul.</li> 
+<li>Dacă sistemul sau rețeaua dumneavoastră este protejat de un paravan (firewall) sau proxy, 
+asigurați-vă că &brandShortName; are permisiunea de a accesa Web-ul.</li> 
 </ul>">
 
 <!ENTITY malwareBlocked.title "Sait suspect de atacuri!">
