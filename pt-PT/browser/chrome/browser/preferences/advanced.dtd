@@ -10,20 +10,20 @@
 
 <!ENTITY useCursorNavigation.label       "Utilizar sempre as teclas do cursor para navegar nas páginas">
 <!ENTITY useCursorNavigation.accesskey   "c">
-<!ENTITY searchStartTyping.label         "Localizar texto ao escrever">
-<!ENTITY searchStartTyping.accesskey     "e">
-<!ENTITY blockAutoRefresh.label          "Avisar se os sítios web que visito tentam redirecionar ou recarregar a página">
+<!ENTITY searchStartTyping.label         "Pesquisar texto ao começar a escrever">
+<!ENTITY searchStartTyping.accesskey     "x">
+<!ENTITY blockAutoRefresh.label          "Avisar se os sites que visito tentam redirecionar ou recarregar a página">
 <!ENTITY blockAutoRefresh.accesskey      "r">
 
 <!ENTITY browsing.label                  "Navegação">
 
-<!ENTITY useAutoScroll.label             "Utilizar deslocação automática">
-<!ENTITY useAutoScroll.accesskey         "U">
+<!ENTITY useAutoScroll.label             "Usar deslocação automática">
+<!ENTITY useAutoScroll.accesskey         "d">
 <!ENTITY useSmoothScrolling.label        "Suavizar deslocação">
 <!ENTITY useSmoothScrolling.accesskey    "z">
-<!ENTITY allowHWAccel.label              "Utilizar aceleração de hardware se disponível">
+<!ENTITY allowHWAccel.label              "Usar aceleração de hardware se disponível">
 <!ENTITY allowHWAccel.accesskey          "h">
-<!ENTITY checkSpelling.label             "Verificar ortografia ao escrever">
+<!ENTITY checkSpelling.label             "Corrigir ortografia ao escrever">
 <!ENTITY checkSpelling.accesskey         "t">
 
 <!ENTITY dataChoicesTab.label            "Escolha de dados">
@@ -76,8 +76,8 @@
 <!ENTITY updateApp.label                 "Atualizações do &brandShortName;:">
 <!ENTITY updateAuto1.label               "Instalar atualizações automaticamente (recomendado: melhoria da segurança)">
 <!ENTITY updateAuto1.accesskey           "m">
-<!ENTITY updateCheck.label               "Procurar atualizações, mas eu escolho as que quero instalar">
-<!ENTITY updateCheck.accesskey           "c">
+<!ENTITY updateCheck.label               "Procurar atualizações e pedir-me para selecionar as que pretendo instalar">
+<!ENTITY updateCheck.accesskey           "o">
 <!ENTITY updateManual.label              "Não procurar atualizações (não recomendado: riscos de segurança)">
 <!ENTITY updateManual.accesskey          "N">
 
@@ -94,8 +94,8 @@
 <!ENTITY enableSearchUpdate.label        "Motores de pesquisa">
 <!ENTITY enableSearchUpdate.accesskey    "e">
 
-<!ENTITY offlineNotify.label             "Avisar quando um sítio web pedir para guardar dados para o modo offline">
-<!ENTITY offlineNotify.accesskey         "t">
+<!ENTITY offlineNotify.label             "Avisar quando um sie pedir para guardar dados para o modo offline">
+<!ENTITY offlineNotify.accesskey         "e">
 <!ENTITY offlineNotifyExceptions.label   "Exceções...">
 <!ENTITY offlineNotifyExceptions.accesskey "x">
 
@@ -107,7 +107,7 @@
 
 <!ENTITY certificateTab.label            "Certificados">
 <!ENTITY certSelection.label             "Pedidos">
-<!ENTITY certSelection.description       "Se um sítio pedir um certificado pessoal:">
+<!ENTITY certSelection.description       "Se um site pedir um certificado pessoal:">
 <!ENTITY certs.auto                      "Selecionar um automaticamente">
 <!ENTITY certs.auto.accesskey            "u">
 <!ENTITY certs.ask                       "Perguntar sempre">
