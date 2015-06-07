@@ -30,12 +30,12 @@
 <!ENTITY device.deny "Negar">
 <!ENTITY device.denyTooltip "Esta permissão não pode ser concedida para aplicativos deste tipo">
 <!ENTITY device.installedApps "Aplicativos instalados">
-<!ENTITY device.installedAppsTooltip "Exibir uma lista dos aplicativos instalados no dispositivo. Alguns, como aplicativos certificados, podem ser omitados da lista ">
+<!ENTITY device.installedAppsTooltip "Ver lista de aplicativos instalados no dispositivo. Alguns, como aplicativos certificados, podem ser omitados da lista.">
 <!ENTITY device.permissions "Permissões">
-<!ENTITY device.permissionsTooltip "Exibir uma tabela das permissões acessíveis a diferentes tipos de aplicativos">
+<!ENTITY device.permissionsTooltip "Ver tabela de permissões acessíveis para os diferentes tipos de aplicativos">
 <!ENTITY device.permissionsHelpLink "https://developer.mozilla.org/docs/Web/Apps/App_permissions">
 <!ENTITY device.browserTabs "Abas do navegador">
-<!ENTITY device.browserTabsTooltip "Exibir a lista de abas do navegador no dispositivo conectado">
+<!ENTITY device.browserTabsTooltip "Ver lista de abas no navegador do dispositivo conectado">
 <!ENTITY device.debugBrowserTab "Depurar">
 <!ENTITY device.debugBrowserTabTooltip "Abrir as ferramentas do desenvolvedor conectadas a esta aba do navegador no dispositivo">
 <!ENTITY device.help "Ajuda">

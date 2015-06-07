@@ -94,7 +94,7 @@
 <!ENTITY details_location "Localização">
 <!ENTITY details_manifestURL "ID do aplicativo">
 <!ENTITY details_removeProject_button "Remover projeto">
-<!ENTITY details_showPrepackageLog_button "Mostrar registro do pré-pacote">
+<!ENTITY details_showPrepackageLog_button "Exibir registro do pré-pacote">
 <!-- New App -->
 
 <!ENTITY newAppWindowTitle "Novo aplicativo">

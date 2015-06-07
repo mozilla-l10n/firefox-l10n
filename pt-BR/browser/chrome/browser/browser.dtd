@@ -124,7 +124,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fullScreenClose.tooltip "Fechar">
 <!ENTITY fullScreenAutohide.label "Ocultar barras de ferramentas">
 <!ENTITY fullScreenAutohide.accesskey "O">
-<!ENTITY fullScreenExit.label "Sair do modo tela inteira">
+<!ENTITY fullScreenExit.label "Sair do modo de tela inteira">
 <!ENTITY fullScreenExit.accesskey "S">
 <!ENTITY fullscreenAllowButton.label "Permitir">
 <!ENTITY fullscreenExitButton.label "Negar">
@@ -162,7 +162,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY subscribeToPageMenupopup.label "Inscrever RSS">
 <!ENTITY subscribeToPageMenuitem.label "Inscrever RSS…">
 <!ENTITY addCurPagesCmd.label "Adicionar todas as abas…">
-<!ENTITY showAllBookmarks2.label "Mostrar favoritos">
+<!ENTITY showAllBookmarks2.label "Exibir todos os favoritos">
 <!ENTITY unsortedBookmarksCmd.label "Favoritos não organizados">
 <!ENTITY bookmarksToolbarChevron.tooltip "Exibir mais favoritos">
 
@@ -194,8 +194,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY bookmarksMenuButton.label          "Favoritos">
 <!ENTITY bookmarksMenuButton.unsorted.label "Favoritos não organizados">
-<!ENTITY viewBookmarksSidebar2.label        "Exibir o painel de favoritos">
-<!ENTITY viewBookmarksToolbar.label         "Exibir a barra de favoritos">
+<!ENTITY viewBookmarksSidebar2.label        "Ver painel de favoritos">
+<!ENTITY viewBookmarksToolbar.label         "Ver barra de favoritos">
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
   -  key should not contain the letters A-F, since these are reserved
   -  shortcut keys on Linux. -->
@@ -355,7 +355,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY historyUndoWindowMenu.label "Janelas fechadas recentemente">
 <!ENTITY historyRestoreLastSession.label "Restaurar sessão anterior">
 
-<!ENTITY showAllHistoryCmd2.label "Mostrar histórico">
+<!ENTITY showAllHistoryCmd2.label "Exibir todo o histórico">
 <!ENTITY showAllHistoryCmd.commandkey "H">
 
 <!ENTITY appMenuCustomize.label "Personalizar">
@@ -363,10 +363,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuCustomizeExit.label "Concluir personalização">
 <!ENTITY appMenuCustomizeExit.tooltip "Concluir a personalização">
 <!ENTITY appMenuHistory.label "Histórico">
-<!ENTITY appMenuHistory.showAll.label "Mostrar histórico">
+<!ENTITY appMenuHistory.showAll.label "Exibir todo o histórico">
 <!ENTITY appMenuHistory.clearRecent.label "Limpar dados de navegação…">
 <!ENTITY appMenuHistory.restoreSession.label "Restaurar sessão anterior">
-<!ENTITY appMenuHistory.viewSidebar.label "Exibir painel do histórico">
+<!ENTITY appMenuHistory.viewSidebar.label "Ver painel do histórico">
 <!ENTITY appMenuHelp.tooltip "Abrir menu Ajuda">
 
 <!ENTITY customizeMenu.addToToolbar.label "Adicionar à barra de ferramentas">
@@ -462,7 +462,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY reloadCmd.commandkey         "r">
 <!ENTITY reloadFrameCmd.label         "Recarregar frame">
 <!ENTITY reloadFrameCmd.accesskey     "R">
-<!ENTITY viewPartialSourceForSelectionCmd.label "Ver código fonte da seleção">
+<!ENTITY viewPartialSourceForSelectionCmd.label "Ver código fonte selecionado">
 <!ENTITY viewPartialSourceForMathMLCmd.label    "Ver código fonte MathML">
 <!-- LOCALIZATION NOTE (viewPartialSourceCmd.accesskey): This accesskey is used for both 
          viewPartialSourceForSelectionCmd.label and viewPartialSourceForMathMLCmd.label -->
@@ -856,9 +856,9 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY readingList.label                        "Lista de leitura">
 <!ENTITY readingList.sidebar.commandKey           "R">
-<!ENTITY readingList.showSidebar.label            "Mostrar painel da lista de leitura">
+<!ENTITY readingList.showSidebar.label            "Exibir painel da lista de leitura">
 <!-- Pre-landed string for bug 1124153 -->
-<!ENTITY readingList.sidebar.showMore.label       "Mostrar mais…">
+<!ENTITY readingList.sidebar.showMore.label       "Exibir mais...">
 <!-- Pre-landed string for bug 1133662 -->
 <!ENTITY readingList.sidebar.emptyText            "Adicione artigos à sua Lista de Leitura para salvá-los e encontrá-los facilmente quando precisar deles mais tarde.">
 <!ENTITY readingList.sidebar.delete.tooltip       "Remover da sua Lista de Leitura">

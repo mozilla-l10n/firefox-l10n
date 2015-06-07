@@ -114,7 +114,7 @@
 <!ENTITY certs.ask.accesskey             "P">
 <!ENTITY enableOCSP.label                "Consultar servidores OCSP para confirmar a validade atual dos certificados">
 <!ENTITY enableOCSP.accesskey            "o">
-<!ENTITY viewCerts.label                 "Certificados">
-<!ENTITY viewCerts.accesskey             "C">
+<!ENTITY viewCerts.label                 "Ver certificados">
+<!ENTITY viewCerts.accesskey             "c">
 <!ENTITY viewSecurityDevices.label       "Dispositivos de segurança">
 <!ENTITY viewSecurityDevices.accesskey   "D">

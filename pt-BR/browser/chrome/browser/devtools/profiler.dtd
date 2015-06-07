@@ -115,8 +115,8 @@
   -  label for the checkbox that toggles whether or not Gecko platform data
   -  is displayed in the profiler. -->
 
-<!ENTITY profilerUI.showPlatformData             "Mostrar dados da plataforma Gecko">
-<!ENTITY profilerUI.showPlatformData.tooltiptext "Mostrando os dados da plataforma ativa, o relatório de perfil JavaScript incluindo os símbolos da plataforma Gecko.">
+<!ENTITY profilerUI.showPlatformData             "Exibir dados da plataforma Gecko">
+<!ENTITY profilerUI.showPlatformData.tooltiptext "Exibindo os dados da plataforma ativa, o relatório de perfil JavaScript incluindo os símbolos da plataforma Gecko.">
 <!-- LOCALIZATION NOTE (profilerUI.flattenTreeRecursion): This is the
   -  label for the checkbox that toggles the flattening of tree recursion in inspected
   -  functions in the profiler. -->
@@ -139,8 +139,8 @@
   -  is displayed next to a checkbox determining whether or not JIT optimization data
   -  should be shown. -->
 
-<!ENTITY profilerUI.showJITOptimizations             "Mostrar otimizações JIT">
-<!ENTITY profilerUI.showJITOptimizations.tooltiptext "Mostrar dados de otimização JIT amostrados em cada frame na árvore de invocação de JS.">
+<!ENTITY profilerUI.showJITOptimizations             "Exibir otimizações JIT">
+<!ENTITY profilerUI.showJITOptimizations.tooltiptext "Exibir dados de otimização JIT amostrados em cada frame na árvore de invocação de JS.">
 <!-- LOCALIZATION NOTE (profilerUI.JITOptimizationsTitle): This string
   -  is displayed as the title of the JIT Optimizations panel. -->
 
