@@ -23,8 +23,8 @@
 <strong>www</strong>.exemplu.ro</li> 
 <li>Dacă nu puteți încărca nicio pagină, verificați conexiunea la rețea 
 a calculatorului dumneavoastră.</li> 
-<li>Dacă calculatorul sau rețeaua dumneavoastră sunt protejate de un paravan (firewall) sau proxy, asigurați-vă că 
-&brandShortName; are permisiunea de a accesa internetul.</li> 
+<li>Dacă sistemul sau rețeaua dumneavoastră este protejat de un paravan (firewall) sau proxy, 
+asigurați-vă că &brandShortName; are permisiunea de a accesa Web-ul.</li> 
 </ul>">
 
 <!ENTITY fileNotFound.title "Fișier negăsit">
@@ -87,8 +87,8 @@ funcționează.</li> 
 <!ENTITY proxyResolveFailure.longDesc "<ul> 
 <li>Asigurați-vă că parametrii proxy-ului sunt corecți.</li> 
 <li>Asigurați-vă că sistemul dumneavoastră are o conexiune funcțională la rețea.</li> 
-<li>Dacă sistemul dumneavoastră este protejat de un paravan (firewall) sau proxy, asigurați-vă 
-că &brandShortName; are permisiunea de a accesa internetul.</li> 
+<li>Dacă sistemul sau rețeaua dumneavoastră este protejat de un paravan (firewall) sau proxy, 
+asigurați-vă că &brandShortName; are permisiunea de a accesa Web-ul.</li> 
 </ul>">
 
 <!ENTITY redirectLoop.title "Pagina nu redirecționează corect">
@@ -123,8 +123,8 @@ temporară și puteți încerca din nou mai târziu.</li>
 momente.</li> 
 <li>Dacă nu puteți încărca nicio pagină, verificați legătura la rețea a calculatorului 
 dumneavoastră.</li> 
-<li>Dacă calculatorul dumneavoastră este protejat de un paravan de protecție sau un proxy, asigurați-vă că 
-&brandShortName; are permisiunea de a accesa internetul.</li> 
+<li>Dacă sistemul sau rețeaua dumneavoastră este protejat de un paravan (firewall) sau proxy, 
+asigurați-vă că &brandShortName; are permisiunea de a accesa Web-ul.</li> 
 </ul>">
 
 <!ENTITY malwareBlocked.title "Sait suspect de atac!">
