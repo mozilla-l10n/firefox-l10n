@@ -48,6 +48,8 @@
 <!ENTITY profilerUI.recordButton.tooltip "Įrašyti „JavaScript“ funkcijų kreipinius.">
 <!-- LOCALIZATION NOTE (profilerUI.recordButton2): This string is displayed
   -  on a button that starts a new profile. -->
+
+<!ENTITY profilerUI.recordButton2.tooltip "Perjungti įrašinėjimo būseną našumo įrašinėjime.">
 <!-- LOCALIZATION NOTE (profilerUI.importButton): This string is displayed
   -  on a button that opens a dialog to import a saved profile data file. -->
 
@@ -72,15 +74,15 @@
   -  in the call tree headers for a recording. -->
 
 <!ENTITY profilerUI.table.totalDuration2           "Visas laikas">
-
+<!ENTITY profilerUI.table.totalDuration.tooltip    "Laiko kiekis, praleistas šioje funkcijoje ir iš jos kviestose funkcijose.">
 <!ENTITY profilerUI.table.selfDuration2            "Vidinis laikas">
-
+<!ENTITY profilerUI.table.selfDuration.tooltip     "Laiko kiekis, praleistas tik šioje funkcijoje.">
 <!ENTITY profilerUI.table.totalPercentage          "Bendri kaštai">
-
+<!ENTITY profilerUI.table.totalPercentage.tooltip  "Laiko kiekis procentais, praleistas šioje funkcijoje ir iš jos kviestose funkcijose.">
 <!ENTITY profilerUI.table.selfPercentage           "Vidiniai kaštai">
-
+<!ENTITY profilerUI.table.selfPercentage.tooltip   "Laiko kiekis procentais, praleistas šioje funkcijoje.">
 <!ENTITY profilerUI.table.samples                  "Ėminiai">
-
+<!ENTITY profilerUI.table.samples.tooltip          "Skaičius kartų, kiek ši funkcija buvo dėkle profiliuoklei imant ėminį.">
 <!ENTITY profilerUI.table.function                 "Funkcija">
 
 <!ENTITY profilerUI.table.totalAlloc1              "Viso atrinktų išskyrimų">

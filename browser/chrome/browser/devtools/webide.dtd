@@ -115,7 +115,7 @@
 <!ENTITY prefs_title "Nuostatos">
 <!ENTITY prefs_editor_title "Rengyklė">
 <!ENTITY prefs_general_title "Bendrosios">
-
+<!ENTITY prefs_restore "Grąžinti numatytąsias nuostatas">
 <!ENTITY prefs_manage_components "Tvarkyti papildomus komponentus">
 <!ENTITY prefs_options_autoconnectruntime "Prisijungti prie ankstesnio įrenginio">
 <!ENTITY prefs_options_autoconnectruntime_tooltip "Prisijungti prie ankstesnio įrenginio startavus „WebIDE“">
@@ -139,7 +139,7 @@
 <!-- Permissions Table -->
 
 <!ENTITY permissionstable_title "Leidimų lentelė">
-
+<!ENTITY permissionstable_name_header "Pavadinimas">
 <!-- Runtime Details -->
 
 <!ENTITY runtimedetails_title "Įrenginio duomenys">
@@ -197,12 +197,14 @@
 <!ENTITY logs_title "Paruošimo komandų žurnalas">
 <!-- Simulator Options -->
 
-
-
-
+<!ENTITY simulator_title "Simuliatoriaus parinktys">
+<!ENTITY simulator_remove "Pašalinti simuliatorių">
+<!ENTITY simulator_reset "Grąžinti numatytąsias nuostatas">
+<!ENTITY simulator_name "Pavadinimas">
+<!ENTITY simulator_software "Programinė įranga">
 <!ENTITY simulator_version "Laida">
-
-
+<!ENTITY simulator_profile "Profilis">
+<!ENTITY simulator_hardware "Aparatinė įranga">
 <!ENTITY simulator_device "Įrenginys">
-
-
+<!ENTITY simulator_screenSize "Ekranas">
+<!ENTITY simulator_pixelRatio "Taškų santykis">
