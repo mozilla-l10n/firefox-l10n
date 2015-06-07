@@ -682,14 +682,9 @@ substitution variables.  If it is difficult to translate the sense of the string
 with that structure, consider a translation which ignores the preceding domain and
 just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity.runBy "dont le détenteur est">
-<!ENTITY identity.moreInfoLinkText "Plus d'informations…">
+<!ENTITY identity.moreInfoLinkText2 "Plus d'informations">
 
 <!ENTITY identity.permissions "Permissions">
-
-<!-- LOCALIZATION NOTE (identity.help.tooltip) : This string should be the
-     localized title of this SUMO article
-     https://support.mozilla.org/kb/how-do-i-tell-if-my-connection-is-secure -->
-<!ENTITY identity.help.tooltip "Comment puis-je savoir si ma connexion vers un site web est sécurisée ?">
 
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
