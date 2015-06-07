@@ -60,10 +60,10 @@
 <!ENTITY calendar.today.button.tooltip          "Vai para hoje" >
 <!ENTITY calendar.todaypane.button.tooltip      "Exibe painel hoje" >
 
-<!ENTITY calendar.day.button.tooltip            "Altera para exibição do dia" >
-<!ENTITY calendar.week.button.tooltip           "Altera para exibição da semana" >
-<!ENTITY calendar.month.button.tooltip          "Altera para exibição do mês" >
-<!ENTITY calendar.multiweek.button.tooltip      "Altera para exibição multissemana" >
+<!ENTITY calendar.day.button.tooltip            "Altera para visualização diária" >
+<!ENTITY calendar.week.button.tooltip           "Altera para visualização semanal" >
+<!ENTITY calendar.month.button.tooltip          "Altera para visualização mensal" >
+<!ENTITY calendar.multiweek.button.tooltip      "Altera para visualização multissemanal" >
 
 <!ENTITY calendar.nextday.label                 "Próximo dia" >
 <!ENTITY calendar.prevday.label                 "Dia anterior" >
@@ -96,8 +96,8 @@
 <!ENTITY calendar.multiweek.button.label        "Multissemana" >
 <!ENTITY calendar.onlyworkday.checkbox.label    "Somente dias úteis" >
 <!ENTITY calendar.onlyworkday.checkbox.accesskey  "o" >
-<!ENTITY calendar.displaytodos.checkbox.label   "Exibir tarefas" >
-<!ENTITY calendar.displaytodos.checkbox.accesskey "E" >
+<!ENTITY calendar.displaytodos.checkbox.label   "Ver tarefas" >
+<!ENTITY calendar.displaytodos.checkbox.accesskey "t" >
 <!ENTITY calendar.completedtasks.checkbox.label     "Exibir tarefas completadas" >
 <!ENTITY calendar.completedtasks.checkbox.accesskey "c" >
 
