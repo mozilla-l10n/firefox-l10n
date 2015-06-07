@@ -20,8 +20,8 @@
 
 <!ENTITY manageAccount.label          "Gerenciar conta">
 <!ENTITY manageAccount.accesskey      "G">
-<!ENTITY viewQuota.label              "Exibir cota">
-<!ENTITY viewQuota.accesskey          "E">
+<!ENTITY viewQuota.label              "Ver cota">
+<!ENTITY viewQuota.accesskey          "V">
 <!ENTITY changePassword.label         "Mudar a senha">
 <!ENTITY changePassword.accesskey     "M">
 <!ENTITY myRecoveryKey.label          "Minha chave de recuperação">

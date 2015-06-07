@@ -14,7 +14,7 @@
 <!ENTITY menu_securityStatus.accesskey "o">
 
 <!ENTITY securityButton.label "Segurança">
-<!ENTITY securityButton.tooltip "Exibir ou alterar as opções de segurança">
+<!ENTITY securityButton.tooltip "Ver ou alterar as opções de segurança">
 
 <!ENTITY menu_viewSecurityStatus.label "Propriedades de segurança">
 <!ENTITY menu_viewSecurityStatus.accesskey "o">

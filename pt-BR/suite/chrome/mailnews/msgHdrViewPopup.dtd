@@ -7,8 +7,8 @@
 <!ENTITY AddToAddressBook.accesskey        "A">
 <!ENTITY EditContact.label                 "Editar contato...">
 <!ENTITY EditContact.accesskey             "E">
-<!ENTITY ViewContact.label                 "Visualizar contato">
-<!ENTITY ViewContact.accesskey             "c">
+<!ENTITY ViewContact.label                 "Ver contacto">
+<!ENTITY ViewContact.accesskey             "V">
 <!ENTITY SendMailTo.label                  "Escrever mensagem...">
 <!ENTITY SendMailTo.accesskey              "m">
 <!ENTITY CopyEmailAddress.label            "Copiar endereço de email">
