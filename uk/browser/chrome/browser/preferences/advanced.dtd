@@ -13,7 +13,7 @@
 <!ENTITY searchStartTyping.label         "Шукати текст на сторінці під час його введення">
 <!ENTITY searchStartTyping.accesskey     "у">
 <!ENTITY blockAutoRefresh.label          "Попереджати при спробі сайтів переадресувати чи перезавантажити сторінку">
-<!ENTITY blockAutoRefresh.accesskey      "ю">
+<!ENTITY blockAutoRefresh.accesskey      "П">
 
 <!ENTITY browsing.label                  "Перегляд сайтів">
 
