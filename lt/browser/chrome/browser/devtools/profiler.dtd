@@ -84,7 +84,7 @@
 <!ENTITY profilerUI.table.samples                  "Ėminiai">
 <!ENTITY profilerUI.table.samples.tooltip          "Skaičius kartų, kiek ši funkcija buvo dėkle profiliuoklei imant ėminį.">
 <!ENTITY profilerUI.table.function                 "Funkcija">
-
+<!ENTITY profilerUI.table.function.tooltip         "Pavadinimas ir šaltinio vieta ėminio funkcijoje.">
 <!ENTITY profilerUI.table.totalAlloc1              "Viso atrinktų išskyrimų">
 <!ENTITY profilerUI.table.totalAlloc.tooltip       "Bendras atrinktų objekto išskyrimų skaičius šioje vietoje ir kreipiniuose.">
 <!ENTITY profilerUI.table.selfAlloc1               "Vidiniai atrinkti išskyrimai">
