@@ -516,7 +516,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY emailImageCmd.label          "Nosūtīt attēlu…">
 <!ENTITY emailImageCmd.accesskey      "a">
 <!ENTITY emailVideoCmd.label          "Nosūtīt video…">
-<!ENTITY emailVideoCmd.accesskey      "a">
+<!ENTITY emailVideoCmd.accesskey      "v">
 <!ENTITY castVideoCmd.label           "Nosūtīt video uz ierīci">
 <!ENTITY castVideoCmd.accesskey       "e">
 <!ENTITY emailAudioCmd.label          "Nosūtīt audio…">
