@@ -47,8 +47,8 @@ can reach it easily. -->
 <!ENTITY  moveToNewWindow.accesskey          "j">
 <!ENTITY  bookmarkAllTabs.label              "Criar marcadores para todos os separadores…">
 <!ENTITY  bookmarkAllTabs.accesskey          "t">
-<!ENTITY  undoCloseTab.label                 "Anular fecho de separador">
-<!ENTITY  undoCloseTab.accesskey             "a">
+<!ENTITY  undoCloseTab.label                 "Desfazer Fechar separador">
+<!ENTITY  undoCloseTab.accesskey             "D">
 <!ENTITY  closeTab.label                     "Fechar separador">
 <!ENTITY  closeTab.accesskey                 "c">
 
@@ -80,7 +80,7 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY navbarCmd.label "Barra de navegação">
 <!ENTITY personalbarCmd.label "Barra de marcadores">
 <!ENTITY personalbarCmd.accesskey "B">
-<!ENTITY bookmarksToolbarItem.label "Itens da barra de marcadores">
+<!ENTITY bookmarksToolbarItem.label "Elementos da barra de marcadores">
 
 <!ENTITY toolbarContextMenu.reloadAllTabs.label "Recarregar todos os separadores">
 <!ENTITY toolbarContextMenu.reloadAllTabs.accesskey "a">
@@ -89,7 +89,7 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY toolbarContextMenu.undoCloseTab.label "Anular fechar separador">
 <!ENTITY toolbarContextMenu.undoCloseTab.accesskey "u">
 
-<!ENTITY pageSourceCmd.label "Código fonte da página">
+<!ENTITY pageSourceCmd.label "Código-fonte da página">
 <!ENTITY pageSourceCmd.accesskey "o">
 <!ENTITY pageSourceCmd.commandkey "u">
 <!ENTITY pageInfoCmd.label "Informações da página">
@@ -99,10 +99,10 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY mirrorTabCmd.accesskey "h">
 <!-- LOCALIZATION NOTE (enterFullScreenCmd.label, exitFullScreenCmd.label):
 These should match what Safari and other Apple applications use on OS X Lion. -->
-<!ENTITY enterFullScreenCmd.label "Ativar ecrã completo">
-<!ENTITY enterFullScreenCmd.accesskey "e">
-<!ENTITY exitFullScreenCmd.label "Sair de ecrã completo">
-<!ENTITY exitFullScreenCmd.accesskey "e">
+<!ENTITY enterFullScreenCmd.label "Ecrã completo">
+<!ENTITY enterFullScreenCmd.accesskey "E">
+<!ENTITY exitFullScreenCmd.label "Sair do ecrã completo">
+<!ENTITY exitFullScreenCmd.accesskey "o">
 <!ENTITY fullScreenCmd.label "Ecrã completo">
 <!ENTITY fullScreenCmd.accesskey "E">
 <!ENTITY fullScreenCmd.macCommandKey "f">
@@ -110,8 +110,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllTabsCmd.accesskey "t">
 
 <!ENTITY fxaSignIn.label "Iniciar sessão no &syncBrand.shortName.label;">
-<!ENTITY fxaSignInError.label "Ligar novamente ao &syncBrand.shortName.label;">
-<!ENTITY syncStartPanel2.heading "&syncBrand.shortName.label; ativo">
+<!ENTITY fxaSignInError.label "Voltar a ligar ao &syncBrand.shortName.label;">
+<!ENTITY syncStartPanel2.heading "&syncBrand.shortName.label; ativado">
 <!ENTITY syncStartPanel2.subTitle "O &brandShortName; iniciará a sincronização brevemente.">
 <!ENTITY syncErrorPanel.heading "Não é possível ligar ao &syncBrand.shortName.label;">
 <!ENTITY syncErrorPanel.subTitle "Inicie sessão para continuar a sincronização.">
@@ -124,13 +124,13 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fullScreenClose.tooltip "Fechar">
 <!ENTITY fullScreenAutohide.label "Ocultar barras de ferramentas">
 <!ENTITY fullScreenAutohide.accesskey "e">
-<!ENTITY fullScreenExit.label "Sair do modo de ecrã completo">
+<!ENTITY fullScreenExit.label "Sair do ecrã completo">
 <!ENTITY fullScreenExit.accesskey "i">
 <!ENTITY fullscreenAllowButton.label "Permitir">
 <!ENTITY fullscreenExitButton.label "Recusar">
 
-<!ENTITY fullscreenExitHint2.value "Prima ESC, a qualquer momento, para sair.">
-<!ENTITY leaveDOMFullScreen.label "Sair de ecrã completo">
+<!ENTITY fullscreenExitHint2.value "Prima ESC a qualquer momento para sair.">
+<!ENTITY leaveDOMFullScreen.label "Sair do ecrã completo">
 <!ENTITY leaveDOMFullScreen.accesskey "a">
 
 <!ENTITY closeWindow.label "Fechar janela">
@@ -166,12 +166,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY unsortedBookmarksCmd.label "Marcadores desorganizados">
 <!ENTITY bookmarksToolbarChevron.tooltip "Mostrar mais marcadores">
 
-<!ENTITY backCmd.label                "Recuar">
-<!ENTITY backButton.tooltip           "Recuar uma página">
-<!ENTITY forwardCmd.label             "Avançar">
-<!ENTITY forwardButton.tooltip        "Avançar uma página">
-<!ENTITY backForwardButtonMenu.tooltip "Clique direito ou desloque para mostrar o histórico">
-<!ENTITY backForwardButtonMenuMac.tooltip "Desloque para mostrar o histórico">
+<!ENTITY backCmd.label                "Anterior">
+<!ENTITY backButton.tooltip           "Ir para a página anterior">
+<!ENTITY forwardCmd.label             "Seguinte">
+<!ENTITY forwardButton.tooltip        "Ir para a página seguinte">
+<!ENTITY backForwardButtonMenu.tooltip "Clique com o botão direito ou desloque para baixo para mostrar o histórico">
+<!ENTITY backForwardButtonMenuMac.tooltip "Desloque para baixo para mostrar o histórico">
 <!ENTITY reloadCmd.label              "Recarregar">
 <!ENTITY reloadButton.tooltip         "Recarrega a página atual">
 <!ENTITY stopCmd.label                "Parar">
@@ -212,8 +212,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY keywordfield.label           "Adicionar palavra-chave para esta pesquisa…">
 <!ENTITY keywordfield.accesskey       "A">
 
-<!ENTITY downloads.label              "Transferências">
-<!ENTITY downloads.accesskey          "r">
+<!ENTITY downloads.label              "Descargas">
+<!ENTITY downloads.accesskey          "D">
 <!ENTITY downloads.commandkey         "j">
 <!ENTITY downloadsUnix.commandkey     "y">
 <!ENTITY addons.label                 "Extras">
@@ -222,7 +222,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY webapps.label                "Aplicações">
 <!ENTITY webapps.accesskey            "p">
 
-<!ENTITY webDeveloperMenu.label       "Programador web">
+<!ENTITY webDeveloperMenu.label       "Programador">
 <!ENTITY webDeveloperMenu.accesskey   "g">
 
 <!ENTITY devToolsCmd.keycode          "VK_F12">
@@ -260,8 +260,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
   -  approximation to it or choose a word (or words) that means
   -  "simple discardable text editor". -->
 
-<!ENTITY scratchpad.label             "Scratchpad">
-<!ENTITY scratchpad.accesskey         "S">
+<!ENTITY scratchpad.label             "Rascunho">
+<!ENTITY scratchpad.accesskey         "R">
 <!ENTITY scratchpad.keycode           "VK_F4">
 <!ENTITY scratchpad.keytext           "F4">
 <!-- LOCALIZATION NOTE (browserToolboxMenu.label): This is the label for the
@@ -305,11 +305,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY newPrivateWindow.label     "Nova janela privada">
 <!ENTITY newPrivateWindow.accesskey "j">
 
-<!ENTITY editMenu.label         "Editar"> 
+<!ENTITY editMenu.label         "Edição"> 
 <!ENTITY editMenu.accesskey       "E"> 
-<!ENTITY undoCmd.label            "Anular">  
+<!ENTITY undoCmd.label            "Desfazer">  
 <!ENTITY undoCmd.key            "Z">  
-<!ENTITY undoCmd.accesskey          "u"> 
+<!ENTITY undoCmd.accesskey          "D"> 
 <!ENTITY redoCmd.label            "Refazer">  
 <!ENTITY redoCmd.key            "Y">  
 <!ENTITY redoCmd.accesskey          "R"> 
@@ -322,9 +322,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY pasteCmd.label           "Colar">  
 <!ENTITY pasteCmd.key           "V">  
 <!ENTITY pasteCmd.accesskey         "o"> 
-<!ENTITY deleteCmd.label          "Eliminar">  
+<!ENTITY deleteCmd.label          "Apagar">  
 <!ENTITY deleteCmd.key            "D">  
-<!ENTITY deleteCmd.accesskey        "l"> 
+<!ENTITY deleteCmd.accesskey        "A"> 
 <!ENTITY selectAllCmd.label         "Selecionar tudo">  
 <!ENTITY selectAllCmd.key         "A">  
 <!ENTITY selectAllCmd.accesskey       "S"> 
@@ -333,11 +333,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY preferencesCmdUnix.label       "Preferências">
 <!ENTITY preferencesCmdUnix.accesskey     "f"> 
 
-<!ENTITY clearRecentHistory.label               "Limpar histórico recente…">
+<!ENTITY clearRecentHistory.label               "Limpar histórico e dados dos sites…">
 
 <!ENTITY privateBrowsingCmd.commandkey          "P">
 
-<!ENTITY viewMenu.label         "Ver"> 
+<!ENTITY viewMenu.label         "Visualização"> 
 <!ENTITY viewMenu.accesskey       "V"> 
 <!ENTITY viewTabGroups.label            "Grupos de separadores">
 <!ENTITY viewTabGroups.accesskey        "G">
@@ -350,10 +350,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY historyMenu.label "Histórico">
 <!ENTITY historyMenu.accesskey "i">
-<!ENTITY historyUndoMenu.label "Separadores recentemente fechados">
+<!ENTITY historyUndoMenu.label "Separadores fechados recentemente">
 <!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
-<!ENTITY historyUndoWindowMenu.label "Janelas recentemente fechadas">
-<!ENTITY historyRestoreLastSession.label "Restaurar sessão anterior">
+<!ENTITY historyUndoWindowMenu.label "Janelas fechadas recentemente">
+<!ENTITY historyRestoreLastSession.label "Reabrir todas as janelas da última sessão">
 
 <!ENTITY showAllHistoryCmd2.label "Mostrar todo o histórico">
 <!ENTITY showAllHistoryCmd.commandkey "H">
@@ -364,8 +364,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuCustomizeExit.tooltip "Terminar personalização">
 <!ENTITY appMenuHistory.label "Histórico">
 <!ENTITY appMenuHistory.showAll.label "Mostrar todo o histórico">
-<!ENTITY appMenuHistory.clearRecent.label "Limpar histórico recente…">
-<!ENTITY appMenuHistory.restoreSession.label "Restaurar sessão anterior">
+<!ENTITY appMenuHistory.clearRecent.label "Limpar histórico e dados dos sites…">
+<!ENTITY appMenuHistory.restoreSession.label "Reabrir todas as janelas da última sessão">
 <!ENTITY appMenuHistory.viewSidebar.label "Ver barra lateral do histórico">
 <!ENTITY appMenuHelp.tooltip "Abrir menu de ajuda">
 
@@ -494,7 +494,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisLinkCmd.accesskey  "l">
 <!ENTITY bookmarkThisFrameCmd.label      "Criar marcador para esta moldura">
 <!ENTITY bookmarkThisFrameCmd.accesskey  "m">
-<!ENTITY emailPageCmd.label           "Enviar ligação…">
+<!ENTITY emailPageCmd.label           "Enviar ligação por e-mail…">
 <!ENTITY emailPageCmd.accesskey       "E">
 <!ENTITY savePageCmd.label            "Guardar página como…">
 <!ENTITY savePageCmd.accesskey        "a">
@@ -546,7 +546,7 @@ items are mutually exclusive. -->
 
 <!ENTITY mediaPlay.label             "Reproduzir">
 <!ENTITY mediaPlay.accesskey         "p">
-<!ENTITY mediaPause.label            "Pausa">
+<!ENTITY mediaPause.label            "Pausar">
 <!ENTITY mediaPause.accesskey        "P">
 <!-- LOCALIZATION NOTE: The access keys for "Mute" and
 "Unmute" are the same because the two context-menu
@@ -605,14 +605,14 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fullZoomReduceCmd.commandkey   "-">
 <!ENTITY fullZoomReduceCmd.commandkey2  "">
 
-<!ENTITY fullZoomResetCmd.label         "Repor">
+<!ENTITY fullZoomResetCmd.label         "Repor ampliação">
 <!ENTITY fullZoomResetCmd.accesskey     "R">
 <!ENTITY fullZoomResetCmd.commandkey    "0">
 <!ENTITY fullZoomResetCmd.commandkey2   "">
 
-<!ENTITY fullZoomToggleCmd.label        "Ampliar apenas o texto">
+<!ENTITY fullZoomToggleCmd.label        "Ampliar só o texto">
 <!ENTITY fullZoomToggleCmd.accesskey    "t">
-<!ENTITY fullZoom.label                 "Ampliação">
+<!ENTITY fullZoom.label                 "Aumentar/reduzir janela">
 <!ENTITY fullZoom.accesskey             "A">
 
 <!ENTITY sidebarCloseButton.tooltip     "Fechar barra lateral">
@@ -636,7 +636,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageStyleMenu.accesskey "s">
 <!ENTITY pageStyleNoStyle.label "Sem estilo">
 <!ENTITY pageStyleNoStyle.accesskey "m">
-<!ENTITY pageStylePersistentOnly.label "Estilo básico da página">
+<!ENTITY pageStylePersistentOnly.label "Estilo de página básico">
 <!ENTITY pageStylePersistentOnly.accesskey "b">
 
 <!ENTITY pageReportIcon.tooltip            "Mudar definições de janelas emergentes para este sítio">
@@ -656,11 +656,11 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY bidiSwitchTextDirectionItem.accesskey    "x">
 <!ENTITY bidiSwitchTextDirectionItem.commandkey   "X">
 
-<!ENTITY findOnCmd.label     "Localizar nesta página…">
+<!ENTITY findOnCmd.label     "Procurar nesta página…">
 <!ENTITY findOnCmd.accesskey "n">
 <!ENTITY findOnCmd.commandkey "f">
-<!ENTITY findAgainCmd.label  "Localizar novamente">
-<!ENTITY findAgainCmd.accesskey "v">
+<!ENTITY findAgainCmd.label  "Voltar a procurar">
+<!ENTITY findAgainCmd.accesskey "r">
 <!ENTITY findAgainCmd.commandkey "g">
 <!ENTITY findAgainCmd.commandkey2 "VK_F3">
 <!ENTITY findSelectionCmd.commandkey "e">
@@ -668,7 +668,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY spellAddDictionaries.label "Adicionar dicionários…">
 <!ENTITY spellAddDictionaries.accesskey "A">
 
-<!ENTITY editBookmark.done.label                     "Concluir">
+<!ENTITY editBookmark.done.label                     "Terminado">
 <!ENTITY editBookmark.cancel.label                   "Cancelar">
 <!ENTITY editBookmark.removeBookmark.accessKey       "r">
 
@@ -782,7 +782,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY mixedContentBlocked2.block.accesskey "v">
 <!ENTITY mixedContentBlocked2.disabled.message "Proteção desativada">
 
-<!ENTITY trackingContentBlocked.message "Rastreio">
+<!ENTITY trackingContentBlocked.message "Seguimento">
 <!ENTITY trackingContentBlocked.moreinfo "Partes da página que rastreiam a sua atividade foram bloqueadas.">
 <!ENTITY trackingContentBlocked.learnMore "Saber mais">
 <!ENTITY trackingContentBlocked.options "Opções">
@@ -826,15 +826,15 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      The translation should do the same. -->
 
 <!ENTITY panicButton.view.mainActionDesc          "Ao continuar vai:">
-<!ENTITY panicButton.view.deleteCookies           "Eliminar <html:strong>cookies</html:strong> recentes">
-<!ENTITY panicButton.view.deleteHistory           "Eliminar o <html:strong>Histórico</html:strong> recente">
+<!ENTITY panicButton.view.deleteCookies           "Apagar os <html:strong>cookies</html:strong> recentes">
+<!ENTITY panicButton.view.deleteHistory           "Apagar o <html:strong>histórico</html:strong>">
 <!ENTITY panicButton.view.deleteTabsAndWindows    "Fechar todos os <html:strong>Separadores</html:strong> e <html:strong>Janelas</html:strong>">
 <!ENTITY panicButton.view.openNewWindow           "Abrir uma nova janela">
 
 <!ENTITY panicButton.view.undoWarning             "Esta ação não pode ser anulada.">
 <!ENTITY panicButton.view.forgetButton            "Esquecer!">
 
-<!ENTITY panicButton.thankyou.msg1                "O seu histórico recente foi limpo.">
+<!ENTITY panicButton.thankyou.msg1                "O seu histórico foi limpo.">
 <!ENTITY panicButton.thankyou.msg2                "Navegação segura!">
 <!ENTITY panicButton.thankyou.buttonlabel         "Obrigado!">
 
