@@ -428,9 +428,9 @@
 
 
 
+<!ENTITY imStatus.available          "Pieejams">
 
-
-
+<!ENTITY imStatus.offline            "Nesaistē">
 
 
 
