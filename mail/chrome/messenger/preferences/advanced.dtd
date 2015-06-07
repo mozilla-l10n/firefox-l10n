@@ -4,7 +4,6 @@
 
 <!ENTITY itemGeneral.label "Obecné">
 <!ENTITY dataChoicesTab.label    "Možnosti hlášení">
-<!ENTITY itemDisplay.label "Čtení a zobrazení">
 <!ENTITY itemUpdate.label "Aktualizace">
 <!ENTITY itemNetworking.label "Síť a místo na disku">
 <!ENTITY itemCertificates.label "Certifikáty">

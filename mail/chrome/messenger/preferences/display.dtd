@@ -4,6 +4,7 @@
 
 <!ENTITY itemFormatting.label "Formátování">
 <!ENTITY itemTags.label "Štítky">
+<!ENTITY itemAdvanced.label               "Rozšířené">
 
 <!ENTITY style.label "Styl:">
 <!ENTITY style.accesskey "S">
