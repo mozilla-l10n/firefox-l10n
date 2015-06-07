@@ -27,10 +27,16 @@
 <!-- LOCALIZATION NOTE (profilerUI.startRecording/profilerUI.stopRecording): These are
   -  the labels shown on the main recording buttons to start/stop recording. -->
 
+<!ENTITY profilerUI.startRecording "Pradėti našumo įrašinėjimą">
+<!ENTITY profilerUI.stopRecording  "Baigti našumo įrašinėjimą">
 <!-- LOCALIZATION NOTE (profilerUI.bufferStatusTooltip): This string
   -  is displayed as the tooltip for the buffer capacity during a recording. -->
+
+<!ENTITY profilerUI.bufferStatusTooltip "Profiliuoklė saugo ėminius cikliniame buferyje, tad kai pasiekiamas buferio limitas tam įrašinėjimui, naujesni ėminiai pradeda pakeisti esančius įrašinėjimo pradžioje.">
 <!-- LOCALIZATION NOTE (profilerUI.bufferStatusFull): This string
   -  is displayed when the profiler's circular buffer has started to overlap. -->
+
+<!ENTITY profilerUI.bufferStatusFull "Buferis pilnas. Senesni ėminiai dabar pakeičiami.">
 <!-- LOCALIZATION NOTE (profilerUI.loadingNotice): This is the label shown
   -  in the call list view while loading a profile. -->
 
@@ -73,7 +79,7 @@
 
 <!ENTITY profilerUI.table.selfPercentage           "Vidiniai kaštai">
 
-<!ENTITY profilerUI.table.samples                  "Pavyzdžiai">
+<!ENTITY profilerUI.table.samples                  "Ėminiai">
 
 <!ENTITY profilerUI.table.function                 "Funkcija">
 
@@ -132,7 +138,7 @@
   -  should be shown. -->
 
 <!ENTITY profilerUI.showJITOptimizations             "Rodyti JIT optimizacijas">
-<!ENTITY profilerUI.showJITOptimizations.tooltiptext "Rodyti JIT optimizacijos duomenis pateiktus kiekviename JS kreipimųsi medžio kadre.">
+<!ENTITY profilerUI.showJITOptimizations.tooltiptext "Rodyti JIT optimizacijos duomenis pateiktus kiekviename JS kreipimųsi medžio ėminyje.">
 <!-- LOCALIZATION NOTE (profilerUI.JITOptimizationsTitle): This string
   -  is displayed as the title of the JIT Optimizations panel. -->
 
