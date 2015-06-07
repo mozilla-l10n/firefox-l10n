@@ -241,7 +241,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY browserConsoleCmd.accesskey  "u">
 
 <!ENTITY inspectContextMenu.label     "Tirti elementą">
-<!ENTITY inspectContextMenu.accesskey "Q">
+<!ENTITY inspectContextMenu.accesskey "T">
 
 <!ENTITY responsiveDesignTool.label   "Keičiamo dydžio rodinys">
 <!ENTITY responsiveDesignTool.accesskey "K">

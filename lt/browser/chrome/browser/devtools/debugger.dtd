@@ -70,7 +70,7 @@
   -  checkbox that toggles ignoring caught exceptions. -->
 
 <!ENTITY debuggerUI.ignoreCaughtExceptions           "Nepaisyti „sugautų“ išimtinių situacijų">
-
+<!ENTITY debuggerUI.ignoreCaughtExceptions.accesskey "N">
 <!-- LOCALIZATION NOTE (debuggerUI.showPanesOnInit): This is the label for the
   -  checkbox that toggles visibility of panes when opening the debugger. -->
 
@@ -204,11 +204,11 @@
   -  netmonitorUI.context.newTab  -->
 
 <!ENTITY debuggerUI.context.newTab           "Atverti naujoje kortelėje">
-
+<!ENTITY debuggerUI.context.newTab.accesskey "A">
 <!-- LOCALIZATION NOTE (debuggerUI.context.copyUrl): This is the label displayed
   -  on the context menu that copies the selected request's url. This should be
   -  the same as netmonitorUI.context.copyUrl -->
 
 <!ENTITY debuggerUI.context.copyUrl           "Kopijuoti URL adresą">
-
-
+<!ENTITY debuggerUI.context.copyUrl.accesskey "K">
+<!ENTITY debuggerUI.context.copyUrl.key "K">
