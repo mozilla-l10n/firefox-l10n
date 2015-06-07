@@ -75,7 +75,7 @@
 <!-- LOCALIZATION NOTE (inspectorScrollNodeIntoView.label): This is the label
      shown in the inspector contextual-menu for the item that lets users scroll
      the current node into view -->
-<!ENTITY inspectorScrollNodeIntoView.label       "Faire défiler dans la vue">
+<!ENTITY inspectorScrollNodeIntoView.label       "Faire défiler la vue jusqu'au nœud">
 <!ENTITY inspectorScrollNodeIntoView.accesskey   "D">
 
 <!-- LOCALIZATION NOTE (inspectorHTMLDelete.label): This is the label shown in
@@ -101,7 +101,7 @@
      the URL embedding the image data encoded in Base 64 (what we name
      here Image Data URL). For more information:
      https://developer.mozilla.org/en-US/docs/Web/HTTP/data_URIs -->
-<!ENTITY inspectorCopyImageDataUri.label       "Copier le data-URL de l'image">
+<!ENTITY inspectorCopyImageDataUri.label       "Copier l'image en tant que Data-URL">
 
 <!-- LOCALIZATION NOTE (inspectorShowDOMProperties.label): This is the label
      shown in the inspector contextual-menu for the item that lets users see
