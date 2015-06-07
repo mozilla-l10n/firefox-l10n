@@ -5,8 +5,8 @@
 
 
 <!ENTITY status.label "Segurança da mensagem">
-<!ENTITY signatureCert.label "Exibir certificado da assinatura">
-<!ENTITY encryptionCert.label "Exibir certificado de criptografia">
+<!ENTITY signatureCert.label "Ver certificado da assinatura">
+<!ENTITY encryptionCert.label "Ver certificado de criptografia">
 
 <!ENTITY signer.name "Assinado por:">
 <!ENTITY recipient.name "Criptografado por:">
