@@ -19,7 +19,7 @@
 
 <!ENTITY warningDesc.version        "&amp; برینڈ پورئ ناوَس ;  چھُ تجرُبئ تئ ما آس۪ی نئ مستَقِل">
 <!-- LOCALIZATION NOTE (warningDesc.telemetryDesc): This is a notification that Nightly/Aurora builds automatically send Telemetry data back to Mozilla. It is only shown in those versions. "It" refers to brandShortName. -->
-<!ENTITY warningDesc.telemetryDesc  "یہ چُھ آٹومیٹیکلی سوزان کارکردگی، ہاڈ وِِیر، استعمال تْہ کسٹامایزیشنس مُتلق جانکأری واپس &amp;وینڈر شاٹ ناو؛ اس کُن مدد کرنس منز &amp;برانڈ شاٹ ناو؛ بہتر بناونہ باپت۔">
+<!ENTITY warningDesc.telemetryDesc  "یہ چُھ آٹومیٹیکلی سوزان کارکردگی، ہاڈ وِِیر، استعمال تْہ کسٹامایزیشنس مُتلق جانکأری واپس &vendorShortName;؛ اس کُن مدد کرنس منز &brandShortName; بہتر بناونہ باپت۔">
 <!-- LOCALIZATION NOTE (community.exp.*) This paragraph is shown in "experimental" builds, i.e. Nightly and Aurora builds, instead of the other "community.*" strings below. -->
 
 <!ENTITY community.exp.start        "">
