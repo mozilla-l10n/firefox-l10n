@@ -35,6 +35,7 @@
 
 <!ENTITY showUnifinderCmd.label                 "Recherche d'évènements">
 <!ENTITY showUnifinderCmd.accesskey             "c">
+<!ENTITY showUnifinderCmd.tooltip               "Afficher/Masquer le panneau de recherche d'évènements">
 
 <!ENTITY calendar.displaytodos.checkbox.label       "Afficher les tâches dans l'agenda">
 <!ENTITY calendar.displaytodos.checkbox.accesskey   "i">
