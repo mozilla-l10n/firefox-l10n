@@ -7,5 +7,5 @@
 <!ENTITY mailViewSetupTitle.label "Propriedades do modo de visualização">
 <!ENTITY mailViewHeading.label "Nome:">
 <!ENTITY mailViewHeading.accesskey "N">
-<!ENTITY searchTermCaption.label "Exibir somente mensagens que possuam:">
+<!ENTITY searchTermCaption.label "Ao escolher esta visualização, mostrar apenas as mensagens que:">
 

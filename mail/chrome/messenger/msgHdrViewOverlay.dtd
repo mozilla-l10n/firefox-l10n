@@ -63,8 +63,8 @@
 <!ENTITY markAsUnreadMenuItem1.accesskey "M">
 <!ENTITY saveAsMenuItem1.label "Salvar como…">
 <!ENTITY saveAsMenuItem1.accesskey "S">
-<!ENTITY viewSourceMenuItem1.label "Exibir código-fonte">
-<!ENTITY viewSourceMenuItem1.accesskey "x">
+<!ENTITY viewSourceMenuItem1.label "Ver fonte">
+<!ENTITY viewSourceMenuItem1.accesskey "V">
 <!ENTITY otherActionsPrint1.label "Imprimir…">
 <!ENTITY otherActionsPrint1.accesskey "I">
 <!-- Attachment bar context menu items -->

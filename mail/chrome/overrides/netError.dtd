@@ -102,8 +102,8 @@
 
 <!ENTITY nssFailure2.title "Falha na conexão segura">
 <!ENTITY nssFailure2.longDesc2 "<ul> 
-<li> A página que você está tentando abrir não pode ser exibida porque a autenticidade dos dados recebidos não pôde ser verificada. </li> 
-<li> Entre em contato com os responsáveis pelo site para informá-los deste problema. </li> 
+<li>A página que você está tentando abrir não pode ser exibida porque a autenticidade dos dados recebidos não pôde ser verificada.</li> 
+<li>Entre em contato com os responsáveis pelo site para informá-los deste problema.</li> 
 </ul>">
 
 <!ENTITY nssBadCert.title "Falha na conexão segura">

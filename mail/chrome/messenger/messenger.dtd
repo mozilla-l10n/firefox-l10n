@@ -846,8 +846,8 @@
 <!ENTITY AddDirectlyToAddressBook.accesskey "A">
 <!ENTITY EditContact1.label "Editar contato">
 <!ENTITY EditContact1.accesskey "E">
-<!ENTITY ViewContact.label "Exibir contato">
-<!ENTITY ViewContact.accesskey "x">
+<!ENTITY ViewContact.label "Ver contato">
+<!ENTITY ViewContact.accesskey "V">
 <!ENTITY SubscribeToNewsgroup.label "Inscrever o newsgroup">
 <!ENTITY SubscribeToNewsgroup.accesskey "I">
 <!ENTITY SendMessageTo.label "Nova mensagem para">
