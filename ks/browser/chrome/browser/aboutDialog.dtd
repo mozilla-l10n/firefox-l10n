@@ -8,40 +8,40 @@
 # the about dialog (see bug 596813 for screenshots).
 -->
 
-<!ENTITY update.checkForUpdatesButton.label       "اپڈیٹن باپت کْریو چک &amp;">
+<!ENTITY update.checkForUpdatesButton.label       "اپڈیٹن باپت کْریو چک&amp;">
 <!ENTITY update.checkForUpdatesButton.accesskey   "C">
-<!ENTITY update.updateButton.label2                "اپڈیٹ کرنْہ باپت کْریو دوبار شروع &amp;برانڈ شاٹ ناو؛">
+<!ENTITY update.updateButton.label2                "اپڈیٹ کرنْہ باپت کْریو &brandShortName; دوبار شروع.">
 <!ENTITY update.updateButton.accesskey            "R">
 <!ENTITY update.applyButtonBillboard.label        "&amp; لاگو کْریو اپڈیٹ">
 <!ENTITY update.applyButtonBillboard.accesskey    "A">
 <!-- LOCALIZATION NOTE (warningDesc.version): This is a warning about the experimental nature of Nightly and Aurora builds. It is only shown in those versions. -->
 
 
-<!ENTITY warningDesc.version        "&amp; برینڈ پورئ ناوَس ;  چھُ تجرُبئ تئ ما آس۪ی نئ مستَقِل">
+<!ENTITY warningDesc.version        "&brandShortName; چھُ تجرُبئ تئ ما آس۪ی نئ مستَقِل.">
 <!-- LOCALIZATION NOTE (warningDesc.telemetryDesc): This is a notification that Nightly/Aurora builds automatically send Telemetry data back to Mozilla. It is only shown in those versions. "It" refers to brandShortName. -->
 <!ENTITY warningDesc.telemetryDesc  "یہ چُھ آٹومیٹیکلی سوزان کارکردگی، ہاڈ وِِیر، استعمال تْہ کسٹامایزیشنس مُتلق جانکأری واپس &vendorShortName;؛ اس کُن مدد کرنس منز &brandShortName; بہتر بناونہ باپت۔">
 <!-- LOCALIZATION NOTE (community.exp.*) This paragraph is shown in "experimental" builds, i.e. Nightly and Aurora builds, instead of the other "community.*" strings below. -->
 
 <!ENTITY community.exp.start        "">
 <!-- LOCALIZATION NOTE (community.exp.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
-<!ENTITY community.exp.mozillaLink  "تئ وینڈر لكُٹ ناو;">
+<!ENTITY community.exp.mozillaLink  "&vendorShortName;">
 <!ENTITY community.exp.middle       "چھُ">
 <!-- LOCALIZATION NOTE (community.exp.creditslink): This is a link title that links to about:credits. -->
 <!ENTITY community.exp.creditsLink  "گلوبل كمیونیٹی">
 <!ENTITY community.exp.end          "اكوۄٹئ كٲم كر۪ین ویب یلئ تھاونئ خٲطرئ، لوُكَن ہِند۪ی خٲطرئ تئ سارنی استیمال كرنئ خٲطرئ">
 
-<!ENTITY community.start2           "&amp; برینڈ لكُٹ ناو چھُ آمُت بناونئ ">
+<!ENTITY community.start2           "&brandShortName; چھُ آمُت بناونئ">
 <!-- LOCALIZATION NOTE (community.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
-<!ENTITY community.mozillaLink      "تئ وینڈر لكُٹ ناو;">
-<!ENTITY community.middle2          ", a ">
+<!ENTITY community.mozillaLink      "&vendorShortName;">
+<!ENTITY community.middle2          ", a  ">
 <!-- LOCALIZATION NOTE (community.creditsLink): This is a link title that links to about:credits. -->
 <!ENTITY community.creditsLink      "گلوبل كمیونیٹی">
-<!ENTITY community.end3             "اكوۄٹئ كٲم كر۪ین ویب یلئ تھاونئ خٲطرئ، لوُكَن ہِند۪ی خٲطرئ تئ سارنی استیمال كرنئ خٲطرئ">
+<!ENTITY community.end3             "اكوۄٹئ كٲم كر۪ین ویب یلئ تھاونئ خٲطرئ، لوُكَن ہِند۪ی خٲطرئ تئ سارنی استیمال كرنئ خٲطرئ.">
 
 <!ENTITY helpus.start               "توہیہ چھیو مدد یژھان کرُن؟">
 <!-- LOCALIZATION NOTE (helpus.donateLink): This is a link title that links to https://sendto.mozilla.org/page/contribute/Give-Now?source=mozillaorg_default_footer&ref=firefox_about&utm_campaign=firefox_about&utm_source=firefox&utm_medium=referral&utm_content=20140929_FireFoxAbout. -->
-<!ENTITY helpus.donateLink          "اکھ ڈونیشن کْریو">
-<!ENTITY helpus.middle              "یا">
+<!ENTITY helpus.donateLink          "ڈونیشن کْریو">
+<!ENTITY helpus.middle              "  یا  ">
 <!-- LOCALIZATION NOTE (helpus.getInvolvedLink): This is a link title that links to http://www.mozilla.org/contribute/. -->
 <!ENTITY helpus.getInvolvedLink     "شأمل گْژھیو!">
 <!ENTITY helpus.end                 "">
@@ -56,20 +56,20 @@
 <!ENTITY bottomLinks.privacy        "زٲتی پالسی">
 <!-- LOCALIZATION NOTE (update.checkingForUpdates): try to make the localized text short (see bug 596813 for screenshots). -->
 
-<!ENTITY update.checkingForUpdates  "اپڈیٹس خٲطرئ وچھان">
+<!ENTITY update.checkingForUpdates  "اپڈیٹس خٲطرئ وچھان...">
 <!-- LOCALIZATION NOTE (update.noUpdatesFound): try to make the localized text short (see bug 596813 for screenshots). -->
-<!ENTITY update.noUpdatesFound      "&amp; برینڈ لكُٹ ناو چھُ تازئ ترین">
+<!ENTITY update.noUpdatesFound      "&brandShortName; چھُ تازئ ترین">
 <!-- LOCALIZATION NOTE (update.adminDisabled): try to make the localized text short (see bug 596813 for screenshots). -->
 <!ENTITY update.adminDisabled       "اپڈیٹ چھُ تُہِند سسٹم انتظامین بند كرمُت">
 <!-- LOCALIZATION NOTE (update.otherInstanceHandlingUpdates): try to make the localized text short -->
-<!ENTITY update.otherInstanceHandlingUpdates "دویمِہ مثألِہ ذریعہ چُھ  اپڈیٹ کرنْہ یوان &amp;برانڈ شاٹ ناو؛">
+<!ENTITY update.otherInstanceHandlingUpdates "دویمِہ مثألِہ ذریعہ چُھ  اپڈیٹ کرنْہ یوان &brandShortName;">
 <!-- LOCALIZATION NOTE (update.failed.start,update.failed.linkText,update.failed.end):
      update.failed.start, update.failed.linkText, and update.failed.end all go into
      one line with linkText being wrapped in an anchor that links to a site to download
      the latest version of Firefox (e.g. http://www.firefox.com). As this is all in
      one line, try to make the localized text short (see bug 596813 for screenshots). -->
 
-<!ENTITY update.failed.start        "اپڈيت ناكام">
+<!ENTITY update.failed.start        "اپڈيت گو ناكام">
 <!ENTITY update.failed.linkText     "تازئ ترین ورجن كریو ڈاونلوڈ">
 <!ENTITY update.failed.end          "">
 <!-- LOCALIZATION NOTE (update.manual.start,update.manual.end): update.manual.start and update.manual.end
@@ -103,5 +103,5 @@
      channel.description.end create one sentence, with the current channel label inserted in between.
      example: You are currently on the _Stable_ update channel. -->
 
-<!ENTITY channel.description.start  "تُہئ چھَو حالس  پ۪یٹھ">
-<!ENTITY channel.description.end    "چینل كریو اپڈیٹ.">
+<!ENTITY channel.description.start  "تُہئ چھَو حالس  پ۪یٹھ ">
+<!ENTITY channel.description.end    "  چینل كریو اپڈیٹ.  ">
