@@ -4,7 +4,6 @@
 
 <!ENTITY itemGeneral.label       "General">
 <!ENTITY dataChoicesTab.label    "Împărtășirea de date">
-<!ENTITY itemDisplay.label       "Citire și afișare">
 <!ENTITY itemUpdate.label        "Actualizare">
 <!ENTITY itemNetworking.label    "Rețea și spațiu pe disc">
 <!ENTITY itemCertificates.label  "Certificate">
@@ -51,32 +50,6 @@
 <!ENTITY enableCrashReporter.label       "Activează raportorul de probleme">
 <!ENTITY enableCrashReporter.accesskey   "c">
 <!ENTITY crashReporterLearnMore.label    "Află mai multe">
-<!-- Display and Reading Settings -->
-
-<!ENTITY reading.caption               "Citire">
-<!ENTITY display.caption               "Afișare">
-<!ENTITY showCondensedAddresses.label  "Arată numai numele pentru cei din agenda mea de contacte">
-<!ENTITY showCondensedAddresses.accesskey "d">
-
-<!ENTITY autoMarkAsRead.label          "Marchează automat mesajele ca citite">
-<!ENTITY autoMarkAsRead.accesskey      "a">
-<!ENTITY markAsReadNoDelay.label       "Imediat la afișare">
-<!ENTITY markAsReadNoDelay.accesskey   "d">
-<!-- LOCALIZATION NOTE (markAsReadDelay.label): This will concatenate to
-     "After displaying for [___] seconds",
-     using (markAsReadDelay.label) and a number (secondsLabel.label). -->
-<!ENTITY markAsReadDelay.label         "După ce sunt afișate">
-<!ENTITY markAsReadDelay.accesskey     "e">
-<!ENTITY secondsLabel.label            "secunde">
-<!ENTITY openMsgIn.label               "Deschide mesajele în:">
-<!ENTITY openMsgInNewTab.label         "O filă nouă">
-<!ENTITY openMsgInNewTab.accesskey     "O">
-<!ENTITY reuseExpRadio0.label          "O fereastră de mesaj nouă">
-<!ENTITY reuseExpRadio0.accesskey      "O">
-<!ENTITY reuseExpRadio1.label          "O fereastră de mesaj existentă">
-<!ENTITY reuseExpRadio1.accesskey      "x">
-<!ENTITY closeMsgOnMoveOrDelete.label  "Închide fereastra sau fila cu mesajul la mutare sau ștergere">
-<!ENTITY closeMsgOnMoveOrDelete.accesskey "c">
 <!-- Update -->
 
 <!ENTITY updateApp.label                 "actualizări &brandShortName;:">

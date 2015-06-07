@@ -5,6 +5,7 @@
 <!ENTITY itemFormatting.label             "Formatare">
 <!ENTITY itemTags.label                   "Etichete">
 
+
 <!ENTITY style.label                      "Stil">
 <!ENTITY style.accesskey                  "S">
 <!ENTITY regularStyle.label               "Normal">
@@ -44,3 +45,29 @@
 <!ENTITY fontOptions.label       "Fonturi…">
 <!ENTITY colorButton.label       "Culori...">
 <!ENTITY colorButton.accesskey   "l">
+<!-- Advanced -->
+
+<!ENTITY reading.caption                  "Citire">
+<!ENTITY display.caption                  "Afișare">
+<!ENTITY showCondensedAddresses.label     "Arată numai numele pentru cei din agenda mea de contacte">
+<!ENTITY showCondensedAddresses.accesskey "d">
+
+<!ENTITY autoMarkAsRead.label             "Marchează automat mesajele ca citite">
+<!ENTITY autoMarkAsRead.accesskey         "a">
+<!ENTITY markAsReadNoDelay.label          "Imediat la afișare">
+<!ENTITY markAsReadNoDelay.accesskey      "d">
+<!-- LOCALIZATION NOTE (markAsReadDelay.label): This will concatenate to
+     "After displaying for [___] seconds",
+     using (markAsReadDelay.label) and a number (secondsLabel.label). -->
+<!ENTITY markAsReadDelay.label            "După ce sunt afișate">
+<!ENTITY markAsReadDelay.accesskey        "e">
+<!ENTITY secondsLabel.label               "secunde">
+<!ENTITY openMsgIn.label                  "Deschide mesajele în:">
+<!ENTITY openMsgInNewTab.label            "O filă nouă">
+<!ENTITY openMsgInNewTab.accesskey        "O">
+<!ENTITY reuseExpRadio0.label             "O fereastră de mesaj nouă">
+<!ENTITY reuseExpRadio0.accesskey         "O">
+<!ENTITY reuseExpRadio1.label             "O fereastră de mesaj existentă">
+<!ENTITY reuseExpRadio1.accesskey         "x">
+<!ENTITY closeMsgOnMoveOrDelete.label     "Închide fereastra sau fila cu mesajul la mutare sau ștergere">
+<!ENTITY closeMsgOnMoveOrDelete.accesskey "c">
