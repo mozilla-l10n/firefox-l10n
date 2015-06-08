@@ -34,7 +34,7 @@
 
 
 
-
+<!ENTITY bookmark_options "آپشن">
 
 
 
@@ -155,7 +155,7 @@
 
 
 
-
+<!ENTITY tab_queue_prompt_positive_action_button "یلہ کریو">
 
 
 <!-- Localization note (tab_queue_notification_text_plural2) : The
@@ -255,9 +255,10 @@ size. -->
 <!-- Localization note (help_menu) : This string is used in the main menu-->
 
 
+<!ENTITY addons "ایڑ-آن">
 
 
-
+<!ENTITY apps "ایپس">
 
 
 
@@ -398,6 +399,7 @@ size. -->
 <!-- Localization note (home_remote_tabs_unhide_selected_devices) : This is
      the text of a button; we expect more than one device. -->
 
+<!ENTITY private_browsing_title "ذاتی بروذنگ ">
 
 
 

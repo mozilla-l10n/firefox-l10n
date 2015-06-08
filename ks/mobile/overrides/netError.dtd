@@ -56,7 +56,7 @@
 
 
 
-
+<!ENTITY securityOverride.getMeOutOfHereButton "یم منز کڑیو میہ واپس!">
 
 <!-- LOCALIZATION NOTE (securityOverride.warningContent) - Do not translate the
 contents of the <xul:button> tags.  The only language content is the label= field,

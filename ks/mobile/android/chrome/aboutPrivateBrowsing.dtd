@@ -2,7 +2,11 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY privatebrowsingpage.title                  "ذاتی بروذنگ ">
 
+<!ENTITY privatebrowsingpage.issueDesc.normal       "تہو چحو نہ ذاتی ٹیبء منز">
 
+<!ENTITY privatebrowsingpage.description            " ذاتی ٹیبن منز  &amp;brandShortName ،چہنہ آسن بروزرک ماذی ،ژہاندک مازی۔ڈاون لوڈ ماذی ،فارمن ہند مازی،کوکیز یامھمولی انٹرنیٹ فاعلہ۔مگر فاعلہ یم تہو ڈاون لوڈ کریو تہ بوک مارکذ یم تہو بنایو روذن اتح منذ۔">
+<!ENTITY privatebrowsingpage.description.private    "&privatebrowsingpage.issueDesc.private; &privatebrowsingpage.description;">
 
-
+<!ENTITY privatebrowsingpage.moreInfo               "تکیاذء یت ڈوایس  چحنہ تہند بروذنگ ماذی رکاڈ،تہند انٹرنٹ سروس ژاڈء تمن پیجن یوت تہو گاژیو۔">

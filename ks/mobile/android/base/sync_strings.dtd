@@ -39,6 +39,8 @@
 
 <!-- Firefox SyncAdapter Settings Screen -->
 
+<!ENTITY sync.settings.options.label "آپشن">
+
 <!-- Configure Engines -->
 
 
