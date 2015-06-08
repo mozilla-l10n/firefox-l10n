@@ -1,8 +1,6 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-
-<!ENTITY safeb.palm.accept.label "یم منز کڑیو میہ واپس!">
 <!ENTITY safeb.palm.decline.label "یِھ تنبیا کریو نزرانداز!">
 <!ENTITY safeb.palm.notforgery.label2 "یھ چنًھ ویب جال سازی…">
 <!ENTITY safeb.palm.reportPage.label "یِھ پیج کیازح رکووخھ?">

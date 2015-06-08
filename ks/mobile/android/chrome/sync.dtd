@@ -15,7 +15,7 @@
 
 
 <!ENTITY sync.account               "اکاونٹ ناو">
-<!ENTITY sync.password              "پاسوءڈ">
+<!ENTITY sync.password              "پاسوڈ">
 <!ENTITY sync.recoveryKey           "رکوری کی">
 <!ENTITY sync.customServer          "استمال کرِو کسٹم سرور">
 <!ENTITY sync.serverURL             "سرور URL">

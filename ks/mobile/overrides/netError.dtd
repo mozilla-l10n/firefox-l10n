@@ -5,40 +5,70 @@
 <!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd">
 %brandDTD;
 
+<!ENTITY loadError.label "پیج لوڈ کرنس منز آی دکّت">
+<!ENTITY retry.label "بیِّ کریو کوشش">
 <!-- Specific error messages -->
 
 
+<!ENTITY connectionFailure.title "جودڈت چھن ھکےنی">
+<!ENTITY connectionFailure.longDesc2 "&sharedLongDesc3;">
+
+<!ENTITY deniedPortAccess.title "اتھَ اڈرس چھئ پابندی">
 <!ENTITY deniedPortAccess.longDesc "">
 
+<!ENTITY dnsNotFound.title "سعرور چھنہ موجود">
 <!-- LOCALIZATION NOTE (dnsNotFound.longDesc4) This string contains markup including widgets for searching
      or enabling wifi connections. The text inside tags should be localized.  Do not change the ids. -->
+<!ENTITY dnsNotFound.longDesc4 "<ul> <li> ">
+
+<!ENTITY fileNotFound.title "فایل چھنہ موجود">
+<!ENTITY fileNotFound.longDesc "<ul>
+<li>فایل ہُند ناو کاریو چک کپٹلایزیشن یا بیی کنہ لیکھنہ چہ غلطی کھیترء  </li>
+<li>چک کریو فایل اگر سوء بیِس جاے ائسک نیمیچ یا ناو اوسک بدلومت یا میٹاونہ اءس  امیچہ  </li>
+</ul>">
 
 
+<!ENTITY generic.title "افسوس">
+<!ENTITY generic.longDesc "<p>&brandShortName; چھونہ حیکان یِ پیج لوڈ کرتھ کیھن وجوحاتن موجو۔</p>">
 
-
-
+<!ENTITY malformedURI.title "یِ پتہ چھونِ سحی کہء">
 <!-- LOCALIZATION NOTE (malformedURI.longDesc2) This string contains markup including widgets for searching
      or enabling wifi connections. The text inside the tags should be localized. Do not touch the ids. -->
+<!ENTITY malformedURI.longDesc2 "<ul> 
+<li> ویب اڈٰرس چُھ آم طور پر یتھ پئٹھ لیکھنہ <strong>http://www.example.com/</strong></li> 
+<div id='searchbox'> 
+<input id='searchtext' type='search'></input> 
+<button id='searchbutton'>ژھاءنڈیو</button> 
+</div> 
+<li >یمہ کتھہ ھیوند تھایو خیال  زء توہ چھو فاروڈ سلیشس یستمال کران (مطلب <strong>/</strong>).</li> 
+</ul>">
+
+<!ENTITY netInterrupt.title "کنکشن آو رکاونہ">
+<!ENTITY netInterrupt.longDesc2 "&sharedLongDesc3;">
+
+<!ENTITY notCached.title "دستاویزن مکلیو وقت">
 
 
-
-
-
+<!ENTITY netOffline.title "افلین موڈ">
 <!-- LOCALIZATION NOTE (netOffline.longDesc3) This string contains markup including widgets enabling wifi connections.
      The text inside the tags should be localized. Do not touch the ids. -->
 
+<!ENTITY contentEncodingError.title "کنٹینٹ عنکودینگ نکس">
 
 
 
 
 
 
+<!ENTITY netTimeout.title "کنکشنک وقت مکلو">
+<!ENTITY netTimeout.longDesc2 "&sharedLongDesc3;">
+
+<!ENTITY unknownProtocolFound.title "پتا حکنہ سمجھت">
 
 
 
 
-
-
+<!ENTITY proxyResolveFailure.title "پروکسی سرور چھنہ حکان چھےنڈت  ">
 <!-- LOCALIZATION NOTE (proxyResolveFailure.longDesc3) This string contains markup including widgets for enabling wifi connections.
      The text inside the tags should be localized. Do not touch the ids. -->
 
@@ -48,6 +78,7 @@
 
 
 
+<!ENTITY nssBadCert.title "سکیر کنکشن ناکام">
 
 <!-- LOCALIZATION NOTE (sharedLongDesc3) This string contains markup including widgets for enabling wifi connections.
      The text inside the tags should be localized. Do not touch the ids. -->
@@ -56,12 +87,12 @@
 
 
 
-<!ENTITY securityOverride.getMeOutOfHereButton "یم منز کڑیو میہ واپس!">
+<!ENTITY securityOverride.getMeOutOfHereButton "میہ کڈء یتہ نیبر">
 
 <!-- LOCALIZATION NOTE (securityOverride.warningContent) - Do not translate the
 contents of the <xul:button> tags.  The only language content is the label= field,
 which uses strings already defined above. The button is included here (instead of
 netError.xhtml) because it exposes functionality specific to firefox. -->
 
-
+<!ENTITY remoteXUL.longDesc " مہربانی کرتہء کریو وبساہیٹکس معلکس سیتہ ربہتہ یم مشکلات کہترء ">
 

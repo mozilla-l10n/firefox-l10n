@@ -25,9 +25,11 @@
 
 
 
+#define bookmarks_title موبیل
+
+
 
 # LOCALIZATION NOTE (bookmarks_aboutBrowser):
-
 
 
 
@@ -35,11 +37,11 @@
 
 
 
+#define bookmarks_aboutBrowser فیرفکس: بروسر متابک جانکری
+
 
 
 # LOCALIZATION NOTE (bookmarks_addons):
-
-
 
 
 
@@ -47,6 +49,7 @@
 
 
 
+#define bookmarks_addons فیرفکس: کستمیذ کریوء ادآون سیتھ
 
 
 
@@ -54,14 +57,11 @@
 
 
 
-
-
-
 # link title for https://support.mozilla.org/
 
 
 
-
+#define bookmarks_support فیرفکس: مدتھ
 
 
 
@@ -69,16 +69,11 @@
 
 
 
-
-
-
-
 # link title for https://marketplace.firefox.com
 
 
 
-
-
+#define bookmarks_marketplace فیرفکس مارکت پلیس
 
 
 
