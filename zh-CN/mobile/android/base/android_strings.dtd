@@ -3,11 +3,11 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 
-<!ENTITY  no_space_to_start_error "无足够的空间以启动 &brandShortName;。">
+<!ENTITY  no_space_to_start_error "空间不足，无法启动 &brandShortName;。">
 <!ENTITY  error_loading_file "载入运行 &brandShortName; 所必须的文件时发生错误">
 
-<!ENTITY  onboard_start_message2 "欢迎使用 &brandShortName;">
-<!ENTITY  onboard_start_subtext2 "比以往更多的隐私保护功能和方式，并且都可以自定义。">
+<!ENTITY  onboard_start_message3 "使用 &brandShortName; 浏览">
+<!ENTITY  onboard_start_subtext3 "独具风格的移动网络浏览体验。">
 <!ENTITY  onboard_start_button_account "登录到 &brandShortName;">
 <!ENTITY  onboard_start_button_browser "开始浏览">
 <!-- Localization note: These are used as the titles of different pages on the home screen.
@@ -114,7 +114,6 @@
 
 <!ENTITY overlay_share_send_tab_btn_label "发送到另一台设备">
 <!ENTITY overlay_share_no_url "此分享中没有找到链接">
-<!ENTITY overlay_share_retry "重试">
 <!ENTITY overlay_share_select_device "选择设备">
 <!-- Localization note (overlay_no_synced_devices) : Used when the menu option
      to send a tab to a synced device is pressed and no other synced devices
@@ -151,8 +150,6 @@
      it is applicable. -->
 <!ENTITY pref_search_hint "提示：长按搜索框后点击 &formatI; 图标添加任意网站到您的搜索服务提供者列表。">
 <!ENTITY pref_category_devtools "开发者工具">
-<!ENTITY pref_category_devtools_summary "远程调试、将重绘高亮">
-<!ENTITY pref_developer_paint_flashing "绘制处闪烁">
 <!ENTITY pref_developer_remotedebugging "远程调试">
 <!ENTITY pref_category_logins "登录项">
 <!ENTITY pref_remember_signons "记住密码">
@@ -193,22 +190,22 @@
 <!ENTITY pref_donottrack_title "请勿跟踪">
 <!ENTITY pref_donottrack_summary "&brandShortName; 将会告诉网站您不想被追踪">
 
-<!ENTITY tab_queue_toast_message "稍后打开">
+<!ENTITY tab_queue_toast_message2 "&brandShortName; 中等待的标签页">
 <!ENTITY tab_queue_toast_action "立即打开">
-<!-- Localization note (tab_queue_notification_text_plural) : The
+<!ENTITY tab_queue_prompt_title "打开多个链接？">
+<!ENTITY tab_queue_prompt_text2 "不用每次切换到 &brandShortName; 来打开它们。">
+<!ENTITY tab_queue_prompt_tip_text "您以后可以在“设置”中更改此行为">
+<!ENTITY tab_queue_prompt_positive_action_button "启用">
+<!ENTITY tab_queue_prompt_negative_action_button "暂时不要">
+<!ENTITY tab_queue_notification_title "&brandShortName;">
+<!-- Localization note (tab_queue_notification_text_plural2) : The
      formatD is replaced with the number of tabs queued.  The
      number of tabs queued is always more than one.  We can't use
      Android plural forms, sadly. See Bug #753859. -->
-<!ENTITY tab_queue_notification_text_plural "&formatD; 个标签页在排队">
-<!-- Localization note (tab_queue_notification_title_plural) : This is the
-     title of a notification; we expect more than one tab queued. -->
-<!ENTITY tab_queue_notification_title_plural "标签页在排队">
-<!-- Localization note (tab_queue_notification_title_singular) : This is the
-     title of a notification; we expect only one tab queued. -->
-<!ENTITY tab_queue_notification_title_singular "标签页在排队">
-<!-- Localization note (tab_queue_notification_text_singular) : This is the
+<!ENTITY tab_queue_notification_text_plural2 "&formatD; 个标签页等待打开">
+<!-- Localization note (tab_queue_notification_text_singular2) : This is the
      text of a notification; we expect only one tab queued. -->
-<!ENTITY tab_queue_notification_text_singular "一个标签页在排队">
+<!ENTITY tab_queue_notification_text_singular2 "1 个标签页等待打开">
 
 <!ENTITY pref_char_encoding "显示字符编码">
 <!ENTITY pref_char_encoding_on "显示菜单">
@@ -256,7 +253,8 @@ size. -->
 <!ENTITY pref_import_android "从 Android 导入">
 <!ENTITY pref_import_android_summary "从原生浏览器导入书签和历史记录">
 <!ENTITY pref_private_data_history2 "浏览历史">
-<!ENTITY pref_private_data_formdata "表单和搜索历史">
+<!ENTITY pref_private_data_searchHistory "搜索历史记录">
+<!ENTITY pref_private_data_formdata2 "表单历史记录">
 <!ENTITY pref_private_data_cookies2 "Cookie 及当前的登录状态">
 <!ENTITY pref_private_data_passwords "已保存的密码">
 <!ENTITY pref_private_data_cache "高速缓存">
@@ -299,7 +297,7 @@ size. -->
 <!ENTITY datareporting_abouthr_title "查看我的健康报告">
 <!ENTITY datareporting_telemetry_title "遥测技术">
 <!ENTITY datareporting_telemetry_summary "与 &vendorShortName; 分享您浏览器的工作性能、使用方式、硬件设备和有关定制的数据，帮助我们改进 &brandShortName; 让它变得更好。">
-<!ENTITY datareporting_crashreporter_summary "&brandShortName; 提交崩溃报告可以帮助 &vendorShortName; 改进浏览器，让他变得更稳定和安全">
+<!ENTITY datareporting_crashreporter_summary "&brandShortName; 将会提交崩溃报告，帮助 &vendorShortName; 让您的浏览器更加稳定和安全">
 <!-- Localization note (datareporting_crashreporter_title_short) : This string matches
      (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
 <!ENTITY datareporting_crashreporter_title_short "崩溃报告器">
@@ -381,6 +379,7 @@ size. -->
 <!ENTITY doorhanger_login_edit_username_hint "用户名">
 <!ENTITY doorhanger_login_edit_password_hint "密码">
 <!ENTITY doorhanger_login_edit_toggle "显示密码">
+<!ENTITY doorhanger_login_edit_toast_error "保存登录信息失败">
 
 <!ENTITY pref_titlebar_mode "标题栏">
 <!ENTITY pref_titlebar_mode_title "显示页面标题">
@@ -391,8 +390,8 @@ size. -->
 <!ENTITY pref_scroll_title_bar2 "全屏浏览">
 <!ENTITY pref_scroll_title_bar_summary "向下滚动页面时隐藏 &brandShortName; 的标题栏">
 
-<!ENTITY pref_tab_queue_title "稍后打开">
-<!ENTITY pref_tab_queue_summary "避免标签页立即打开，但在下次 &brandShortName; 载入时打开所有在排队的标签页">
+<!ENTITY pref_tab_queue_title2 "打开多个链接">
+<!ENTITY pref_tab_queue_summary2 "将链接列队，不用每次切换到 &brandShortName; 来打开它们">
 <!-- Localization note (page_removed): This string appears in a toast message when
      any page is removed frome about:home. This includes pages that are in history,
      bookmarks, or reading list. -->
@@ -442,6 +441,8 @@ size. -->
 <!ENTITY button_clear "清空">
 <!ENTITY button_remember "记住">
 
+<!ENTITY firstrun_panel_title_welcome "欢迎使用">
+
 <!ENTITY home_top_sites_title "常用网站">
 <!-- Localization note (home_top_sites_add): This string is used as placeholder
      text underneath empty thumbnails in the Top Sites page on about:home. -->
@@ -478,7 +479,7 @@ size. -->
 <!-- Localization note (home_move_up_to_filter): The variable is replaced by the name of the
      previous location in the navigation, such as the previous folder -->
 
-<!ENTITY home_move_up_to_filter "返回到“&formatS;”">
+<!ENTITY home_move_up_to_filter "返回到 &formatS;">
 
 <!ENTITY home_remote_tabs_title "已同步的标签页">
 <!ENTITY home_remote_tabs_empty "来自您的其他设备的标签页将出现在这里。">
@@ -610,6 +611,14 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY ellipsis "…">
 
 <!ENTITY colon ":">
+<!-- LOCALIZATION NOTE (percent): The percent sign is appended after a number to
+     display a percentage value. formatS is the number, #37 is the code to display a percent sign.
+     This format string is typically used by getString method, in such method the percent sign
+     is a reserved caracter. In order to display one percent sign in the result of getString,
+     double percent signs must be inserted in the format string.
+     This entity is used in the zoomed view to display the zoom factor-->
+
+<!ENTITY percent "&formatS;&#037;&#037;">
 <!-- These are only used for accessibility for the done and overflow-menu buttons in the actionbar.
      They are never shown to users -->
 

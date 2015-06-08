@@ -19,19 +19,19 @@
 
 <!ENTITY support.pre3              "访问我们的">
 <!ENTITY support.link2             "用户支持网站">
-<!ENTITY support.post3             "获得常见问题的回答。">
+<!ENTITY support.post3             "获取常见问题的解决方案。">
 
 <!ENTITY happy.header              "太棒了！">
 <!-- LOCALIZATION NOTE (happy.message): "share the love" — This feels purposely exaggerated in English,
      but essentially it means that we want you to let others know how much you love Firefox. -->
 
-<!ENTITY happy.message             "想在 Goolge Play 上给我们以五星评价以分享你的喜爱？">
+<!ENTITY happy.message             "何不在应用商店里给我们五星评价，分享您的喜爱？">
 <!-- LOCALIZATION NOTE (happy.finePrint): "feels great" — Another exaggeration where we're trying to
      get people to rate us by playfully telling them there's a benefit in it for them as well. -->
 
 <!ENTITY happy.finePrint           "这不会占用您超过一分钟的时间而且感觉超赞。">
 
-<!ENTITY happy.ratingLink          "是，访问 Google Play">
+<!ENTITY happy.ratingLink          "好，带我到应用商店">
 <!ENTITY happy.maybeLater2         "可能稍后">
 <!ENTITY happy.noThanks            "不了，谢谢">
 
@@ -42,16 +42,16 @@
 <!-- LOCALIZATION NOTE (sad.urlPlaceholder): Placeholder text that appears in "Last visited site" input box when there is no text. -->
 
 <!ENTITY sad.urlPlaceholder        "http://">
-<!ENTITY sad.thanksHeader2         "谢谢。">
+<!ENTITY sad.thanksHeader2         "谢谢">
 <!-- LOCALIZATION NOTE (sad.thanksMessageTop): "real people" — We're stating that an actual human will look at the feedback
      and that it doesn't just go to some automated system that looks for keywords, or something like that. -->
 
-<!ENTITY sad.thanksMessageTop      "我们始终致力于让 &brandShortName; 变得更好。请放心，会有人认真阅读您的反馈并尽己所能解决问题。">
+<!ENTITY sad.thanksMessageTop      "我们始终致力于让 &brandShortName; 变得更好。请放心，我们将认真阅读您的反馈并竭尽所能解决您的问题。">
 <!-- LOCALIZATION NOTE (sad.thanksMessageBottom): We're suggesting that there will be consequences for the people working
      on Firefox if they don't resolve the user's problem, like "or if they don't fix it, we'll fire them." If this doesn't
      work in your language, you can change it to something like "no matter what" or just remove it entirely. -->
 
-<!ENTITY sad.thanksMessageBottom   "或者其他。">
+<!ENTITY sad.thanksMessageBottom   "再次感谢。">
 
 <!ENTITY feedback.privacy2         "为了您的隐私，请不要在您的反馈中包含任何个人信息。">
 <!ENTITY feedback.send             "提交反馈">
