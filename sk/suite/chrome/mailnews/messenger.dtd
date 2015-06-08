@@ -445,6 +445,12 @@
 <!ENTITY junkButton.tooltip "Označiť vybrané správy ako nevyžiadané (SPAM)">
 <!ENTITY notJunkButton.tooltip "Označiť vybrané správy ako Nie Spam">
 
+<!-- Remote Content Button Popup -->
+<!ENTITY remoteContentOptionsAllowForMsg.label "Zobraziť vzdialený obsah v tejto správe">
+<!ENTITY remoteContentOptionsAllowForMsg.accesskey "Z">
+<!ENTITY editRemoteContentSettings.label "Upraviť nastavenia pre vzdialený obsah…">
+<!ENTITY editRemoteContentSettings.accesskey "U">
+
 <!-- Statusbar -->
 <!ENTITY  statusText.label "Hotovo">
 
