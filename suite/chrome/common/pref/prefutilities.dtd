@@ -18,7 +18,7 @@
 <!ENTITY FallbackCharset.cyrillic     "Cyrillique">
 <!-- LOCALIZATION NOTE (FallbackCharset.greek):
      Translate "Greek" as an adjective for an encoding, not as the name of the language. -->
-<!ENTITY FallbackCharset.greek        "Greque">
+<!ENTITY FallbackCharset.greek        "Grecque">
 <!-- LOCALIZATION NOTE (FallbackCharset.hebrew):
      Translate "Hebrew" as an adjective for an encoding, not as the name of the language. -->
 <!ENTITY FallbackCharset.hebrew       "Hébreu">
