@@ -4,7 +4,6 @@
 
 <!ENTITY itemGeneral.label       "Algemeen">
 <!ENTITY dataChoicesTab.label    "Gegevenskeuzes">
-<!ENTITY itemDisplay.label       "Lezen &amp; weergave">
 <!ENTITY itemUpdate.label        "Update">
 <!ENTITY itemNetworking.label    "Netwerk &amp; schijfruimte">
 <!ENTITY itemCertificates.label  "Certificaten">
@@ -51,32 +50,6 @@
 <!ENTITY enableCrashReporter.label       "Crashreporter inschakelen">
 <!ENTITY enableCrashReporter.accesskey   "C">
 <!ENTITY crashReporterLearnMore.label    "Meer info">
-
-<!-- Display and Reading Settings -->
-<!ENTITY reading.caption               "Lezen">
-<!ENTITY display.caption               "Weergave">
-<!ENTITY showCondensedAddresses.label  "Van personen in mijn adresboek alleen weergavenaam tonen">
-<!ENTITY showCondensedAddresses.accesskey "V">
-
-<!ENTITY autoMarkAsRead.label             "Berichten automatisch als gelezen markeren">
-<!ENTITY autoMarkAsRead.accesskey         "B">
-<!ENTITY markAsReadNoDelay.label          "Direct zichtbaar">
-<!ENTITY markAsReadNoDelay.accesskey      "D">
-<!-- LOCALIZATION NOTE (markAsReadDelay.label): This will concatenate to
-     "After displaying for [___] seconds",
-     using (markAsReadDelay.label) and a number (secondsLabel.label). -->
-<!ENTITY markAsReadDelay.label            "Na">
-<!ENTITY markAsReadDelay.accesskey        "N">
-<!ENTITY secondsLabel.label               "seconden weergeven">
-<!ENTITY openMsgIn.label               "Nieuwe berichten openen in:">
-<!ENTITY openMsgInNewTab.label         "Een nieuw tabblad">
-<!ENTITY openMsgInNewTab.accesskey     "t">
-<!ENTITY reuseExpRadio0.label          "Een nieuw berichtvenster">
-<!ENTITY reuseExpRadio0.accesskey      "i">
-<!ENTITY reuseExpRadio1.label          "Een bestaand berichtvenster">
-<!ENTITY reuseExpRadio1.accesskey      "e">
-<!ENTITY closeMsgOnMoveOrDelete.label  "Berichtvenster/-tabblad sluiten bij verplaatsen of verwijderen">
-<!ENTITY closeMsgOnMoveOrDelete.accesskey "s">
 
 <!-- Update -->
 <!ENTITY updateApp.label                 "&brandShortName;-updates:">
