@@ -158,6 +158,8 @@
 <!ENTITY bothFormatCmd.accesskey "L">
 <!ENTITY priorityMenu.label "优先级">
 <!ENTITY priorityMenu.accesskey "P">
+<!ENTITY priorityButton.title "优先级">
+<!ENTITY priorityButton.tooltiptext "更改消息优先级">
 <!ENTITY priorityButton.label "优先级：">
 <!ENTITY lowestPriorityCmd.label "最低">
 <!ENTITY lowestPriorityCmd.accesskey "L">
