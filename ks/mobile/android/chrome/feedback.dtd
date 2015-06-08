@@ -2,10 +2,14 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY feedbackHeader2.label          "پترایئ ہند آلات">
 
+<!ENTITY feedback.communicate.title     "رابتہ کریو اسسی">
+<!ENTITY feedback.feedback.title        "دیو پنعن رای">
+<!ENTITY feedback.feedback.good         "اصل">
+<!ENTITY feedback.feedback.bad          "خراب">
 
+<!ENTITY feedback.tools.title           "آلات">
+<!ENTITY feedback.allowTelemetry.title  "سوزیو کارکردگی ھنذ رپورٹ">
 
-
-
-
-
+<!ENTITY feedback.errorConsole.title    "نوکس کنسول کریِو یلہ">

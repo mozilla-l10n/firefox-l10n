@@ -2,6 +2,11 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY sync.title                 "سِنک">
+<!ENTITY sync.notconnected          "کنکشن چھہ نہ جوڈتھ">
+
+
+<!ENTITY sync.details               "تفصیل">
 
 
 
@@ -9,19 +14,17 @@
 
 
 
+<!ENTITY sync.account               "اکاونٹ ناو">
+<!ENTITY sync.password              "پاسوءڈ">
+<!ENTITY sync.recoveryKey           "رکوری کی">
+<!ENTITY sync.customServer          "استمال کرِو کسٹم سرور">
+<!ENTITY sync.serverURL             "سرور URL">
 
+<!ENTITY sync.setup.cancel          "منسوخ کرِو">
 
+<!ENTITY sync.setup.waiting2        "پیاران بیکس ڈوایسس…">
 
+<!ENTITY sync.pair.title            "جوڈِو ڈوایس">
 
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY sync.setup.close           "بند کرو">
 

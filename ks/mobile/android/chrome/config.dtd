@@ -3,11 +3,19 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 
+<!ENTITY toolbar.searchPlaceholder     "ژانڈیو">
 
+<!ENTITY newPref.namePlaceholder       "ناو">
 
+<!ENTITY newPref.valueBoolean          "بہہلین">
+<!ENTITY newPref.valueString           "سٹرنگ">
+<!ENTITY newPref.valueInteger          "انٹیجر">
 
+<!ENTITY newPref.stringPlaceholder     "لیخیو اکھ اسٹرنگ">
+<!ENTITY newPref.numberPlaceholder     "لیخیو اکھ نمبر">
 
+<!ENTITY newPref.toggleButton          "ٹوگل">
+<!ENTITY newPref.cancelButton          "منسوکھ">
 
-
-
-
+<!ENTITY contextMenu.copyPrefName      "ناو کریو کاپی">
+<!ENTITY contextMenu.copyPrefValue     "ویلیو کریو کاپی">
