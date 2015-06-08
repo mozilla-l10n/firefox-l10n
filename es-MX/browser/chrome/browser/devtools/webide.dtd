@@ -146,7 +146,7 @@
 <!ENTITY runtimedetails_adbIsRoot "ADB es raíz: ">
 <!ENTITY runtimedetails_summonADBRoot "dispositivo raíz">
 <!ENTITY runtimedetails_ADBRootWarning "(requiere un cargador desbloqueado)">
-
+<!ENTITY runtimedetails_unrestrictedPrivileges "Privilegios no restringidos de DevTools: ">
 <!ENTITY runtimedetails_requestPrivileges "solicitar privilegios más altos">
 <!ENTITY runtimedetails_privilegesWarning "(Se reiniciará el dispositivo. Requiere acceso root.)">
 <!-- Device Preferences and Settings -->
@@ -157,13 +157,17 @@
 <!ENTITY device_typeobject "Objeto">
 <!ENTITY device_typenone "Selecciona un tipo">
 <!-- Device Preferences -->
+
+<!ENTITY devicepreference_title "Preferencias de dispositivo">
 <!ENTITY devicepreference_search "Preferencias de búsqueda">
 <!ENTITY devicepreference_newname "Nombre nuevo de preferencia">
 <!ENTITY devicepreference_newtext "Valor de preferencia">
 <!ENTITY devicepreference_addnew "Agregar una nueva preferencia">
 <!-- Device Settings -->
 
-
+<!ENTITY devicesetting_title "Configuración de dispositivo">
+<!ENTITY devicesetting_search "Configuración de búsquedas">
+<!ENTITY devicesetting_newname "Nombre de nueva configuración">
 <!ENTITY devicesetting_newtext "Configurar valor">
 <!ENTITY devicesetting_addnew "Agregar nueva configuración">
 <!-- Monitor -->
@@ -193,7 +197,9 @@
 <!ENTITY logs_title "Registros de órdenes previos al empaquetado">
 <!-- Simulator Options -->
 
-
+<!ENTITY simulator_title "Opciones del simulador">
+<!ENTITY simulator_remove "Eliminar simulador">
+<!ENTITY simulator_reset "Restaurar valores predeterminados">
 
 
 <!ENTITY simulator_version "Versión">
