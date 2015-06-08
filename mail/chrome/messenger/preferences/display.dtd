@@ -4,6 +4,7 @@
 
 <!ENTITY itemFormatting.label             "Formátovanie">
 <!ENTITY itemTags.label                   "Popisy">
+<!ENTITY itemAdvanced.label               "Rozšírené">
 
 <!ENTITY style.label                      "Štýl:">
 <!ENTITY style.accesskey                  "t">
@@ -44,3 +45,29 @@
 <!ENTITY fontOptions.label       "Pokročilé…">
 <!ENTITY colorButton.label       "Farby…">
 <!ENTITY colorButton.accesskey   "F">
+
+<!-- Display and Reading Settings -->
+<!ENTITY reading.caption                "Čítanie">
+<!ENTITY display.caption                "Zobrazenie">
+<!ENTITY showCondensedAddresses.label   "Zobrazovať mená len pre adresy uložené v osobných adresároch">
+<!ENTITY showCondensedAddresses.accesskey "Z">
+
+<!ENTITY autoMarkAsRead.label           "Automaticky označovať správy ako prečítané">
+<!ENTITY autoMarkAsRead.accesskey       "A">
+<!ENTITY markAsReadNoDelay.label        "Okamžite po zobrazení">
+<!ENTITY markAsReadNoDelay.accesskey    "O">
+<!-- LOCALIZATION NOTE (markAsReadDelay.label): This will concatenate to
+     "After displaying for [___] seconds",
+     using (markAsReadDelay.label) and a number (secondsLabel.label). -->
+<!ENTITY markAsReadDelay.label          "Po">
+<!ENTITY markAsReadDelay.accesskey      "P">
+<!ENTITY secondsLabel.label             "sekundách od zobrazenia">
+<!ENTITY openMsgIn.label                "Správy otvárať:">
+<!ENTITY openMsgInNewTab.label          "Na novej karte">
+<!ENTITY openMsgInNewTab.accesskey      "k">
+<!ENTITY reuseExpRadio0.label           "V novom okne správy">
+<!ENTITY reuseExpRadio0.accesskey       "n">
+<!ENTITY reuseExpRadio1.label           "V existujúcom okne so správou">
+<!ENTITY reuseExpRadio1.accesskey       "x">
+<!ENTITY closeMsgOnMoveOrDelete.label  "Pri odstraňovaní alebo presunutí správy zatvoriť jej okno/kartu">
+<!ENTITY closeMsgOnMoveOrDelete.accesskey "d">
