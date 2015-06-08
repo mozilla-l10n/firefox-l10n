@@ -4,10 +4,10 @@
 
 <!ENTITY privatebrowsingpage.title                  "隐私浏览">
 
-<!ENTITY privatebrowsingpage.issueDesc.private      "你已经打开一个新的隐私浏览标签页。">
-<!ENTITY privatebrowsingpage.issueDesc.normal       "目前不在隐私浏览标签页。">
+<!ENTITY privatebrowsingpage.issueDesc.private      "您打开了一个新的隐私浏览标签页。">
+<!ENTITY privatebrowsingpage.issueDesc.normal       "目前不在隐私浏览标签页中。">
 
-<!ENTITY privatebrowsingpage.description            "在隐私浏览标签页，&brandShortName; 不会保存任何浏览历史、搜索历史、下载历史、表单历史、cookie 或者挽留过临时文件。但是，下载的文件和添加的书签将会保存下来。">
+<!ENTITY privatebrowsingpage.description            "在隐私浏览标签页中，&brandShortName; 不会保留任何浏览历史、搜索历史、下载历史、表单历史、Cookie 以及临时性互联网文件。不过，您下载的文件与添加的书签将会保留。">
 <!ENTITY privatebrowsingpage.description.private    "&privatebrowsingpage.issueDesc.private; &privatebrowsingpage.description;">
 
 <!ENTITY privatebrowsingpage.moreInfo               "尽管本设备不会记录您的浏览历史，但您的互联网服务提供商仍然可以跟踪到您访问过的页面。">
