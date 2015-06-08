@@ -35,9 +35,11 @@ This is likely the same like id.heading in crashes.dtd. -->
 <!ENTITY aboutSupport.appBasicsTitle "Application Basics">
 <!ENTITY aboutSupport.appBasicsName "Nome">
 <!ENTITY aboutSupport.appBasicsVersion "Version">
-
+<!ENTITY aboutSupport.appBasicsBuildID "Identificant de compilacion">
 <!-- LOCALIZATION NOTE (aboutSupport.appBasicsUpdateChannel, aboutSupport.appBasicsUpdateHistory, aboutSupport.appBasicsShowUpdateHistory):
 "Update" is a noun here, not a verb. -->
+
+<!ENTITY aboutSupport.appBasicsUpdateChannel "Canal de mesa a jorn">
 <!ENTITY aboutSupport.appBasicsUpdateHistory "Istoric de las mesas a jorn">
 <!ENTITY aboutSupport.appBasicsShowUpdateHistory "Afichar l'istoric de las mesas a jorn">
 
@@ -52,6 +54,8 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 <!ENTITY aboutSupport.appBasicsUserAgent "Agent utilizaire">
 <!ENTITY aboutSupport.appBasicsMemoryUse "Utilizacion memòria">
 <!-- LOCALIZATION NOTE the term "Service Workers" should not be translated. -->
+
+<!ENTITY aboutSupport.appBasicsServiceWorkers "Servici Workers enregistrats">
 
 <!ENTITY aboutSupport.appBasicsMultiProcessSupport "Fenèstras multiprocessus">
 
