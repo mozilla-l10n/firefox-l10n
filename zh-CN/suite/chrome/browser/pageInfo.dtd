@@ -31,7 +31,7 @@
 <!ENTITY  generalReferrer       "引用URL：">
 <!ENTITY  generalSource         "来源：">
 <!ENTITY  generalModified       "修改时间：">
-<!ENTITY  generalEncoding       "编码:">
+<!ENTITY  generalEncoding2      "文字编码：">
 <!ENTITY  generalMetaName       "类别">
 <!ENTITY  generalMetaContent    "内容">
 <!ENTITY  generalSecurityDetails           "细节">
