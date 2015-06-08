@@ -3,7 +3,7 @@
 # LOCALIZATION NOTE: The 'en-US' strings in some URLs will be replaced with
 # your locale code, and link to your translated pages as soon as they're live.
 
-#define bookmarks_title Bookmarks
+#define bookmarks_title Marque-pages
 #define bookmarks_heading Marque-pages
 
 #define personal_toolbarfolder Barre personnelle
