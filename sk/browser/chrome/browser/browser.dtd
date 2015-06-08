@@ -304,6 +304,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY newNavigatorCmd.accesskey "o">
 <!ENTITY newPrivateWindow.label     "Nové okno v režime Súkromné prehliadanie">
 <!ENTITY newPrivateWindow.accesskey "k">
+<!ENTITY newNonRemoteWindow.label   "Nové okno v režime Non-e10s">
 
 <!ENTITY editMenu.label "Upraviť">
 <!ENTITY editMenu.accesskey "U">
