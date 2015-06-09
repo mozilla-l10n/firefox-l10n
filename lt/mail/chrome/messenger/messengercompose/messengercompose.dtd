@@ -158,7 +158,7 @@
 <!ENTITY bothFormatCmd.accesskey "A">
 <!ENTITY priorityMenu.label "Prioritetas">
 <!ENTITY priorityMenu.accesskey "P">
-
+<!ENTITY priorityButton.title "Prioritetas">
 <!ENTITY priorityButton.tooltiptext "Pakeisti pranešimo prioritetą">
 <!ENTITY priorityButton.label "Prioritetas:">
 <!ENTITY lowestPriorityCmd.label "Žemiausias">
