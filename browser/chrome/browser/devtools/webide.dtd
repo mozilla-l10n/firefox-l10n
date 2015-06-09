@@ -115,7 +115,7 @@
 <!ENTITY prefs_title "Tercihler">
 <!ENTITY prefs_editor_title "Editör">
 <!ENTITY prefs_general_title "Genel">
-
+<!ENTITY prefs_restore "Varsayılanları geri yükle">
 <!ENTITY prefs_manage_components "Ek bileşenleri yönet">
 <!ENTITY prefs_options_autoconnectruntime "Önceki çalışma zamanına yeniden bağlan">
 <!ENTITY prefs_options_autoconnectruntime_tooltip "WebIDE başladığında önceki çalışma zamanına yeniden bağlan">
@@ -139,7 +139,7 @@
 <!-- Permissions Table -->
 
 <!ENTITY permissionstable_title "İzin tablosu">
-
+<!ENTITY permissionstable_name_header "Adı">
 <!-- Runtime Details -->
 
 <!ENTITY runtimedetails_title "Çalışma zamanı bilgileri">
@@ -197,12 +197,14 @@
 <!ENTITY logs_title "Ön paketleme komut günlükleri">
 <!-- Simulator Options -->
 
-
-
-
+<!ENTITY simulator_title "Simülatör seçenekleri">
+<!ENTITY simulator_remove "Simülatörü sil">
+<!ENTITY simulator_reset "Varsayılanları geri yükle">
+<!ENTITY simulator_name "Adı">
+<!ENTITY simulator_software "Yazılım">
 <!ENTITY simulator_version "Sürüm">
-
-
+<!ENTITY simulator_profile "Profil">
+<!ENTITY simulator_hardware "Donanım">
 <!ENTITY simulator_device "Aygıt">
-
-
+<!ENTITY simulator_screenSize "Ekran">
+<!ENTITY simulator_pixelRatio "Piksel oranı">
