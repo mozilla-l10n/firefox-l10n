@@ -27,6 +27,8 @@
 <!-- LOCALIZATION NOTE (profilerUI.startRecording/profilerUI.stopRecording): These are
   -  the labels shown on the main recording buttons to start/stop recording. -->
 
+<!ENTITY profilerUI.startRecording "Performansı kaydetmeye başla">
+<!ENTITY profilerUI.stopRecording  "Performansı kaydetmeyi durdur">
 <!-- LOCALIZATION NOTE (profilerUI.bufferStatusTooltip): This string
   -  is displayed as the tooltip for the buffer capacity during a recording. -->
 <!-- LOCALIZATION NOTE (profilerUI.bufferStatusFull): This string
