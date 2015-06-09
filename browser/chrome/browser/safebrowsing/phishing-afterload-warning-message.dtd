@@ -14,6 +14,7 @@
 
 <!ENTITY safeb.blocked.unwantedPage.title "Bejelentett, nem kívánatos szoftvereket terjesztő oldal!">
 <!-- Localization note (safeb.blocked.malware.shortDesc) - Please don't translate the contents of the <span id="unwanted_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
+<!ENTITY safeb.blocked.unwantedPage.shortDesc "A(z) <span id='unwanted_sitename'/> címen működő weboldalról bejelentés érkezett, hogy nem kívánatos szoftvereket tartalmaz, ezért a biztonsági beállítások alapján a böngésző a hozzáférést nem engedélyezi.">
 <!ENTITY safeb.blocked.unwantedPage.longDesc "<p>A nem kívánatos szoftvereket terjesztő oldalak olyan szoftvereket terjesztenek, amelyek megtévesztőek és váratlan módokon befolyásolhatják rendszerét.</p>">
 
 <!ENTITY safeb.blocked.phishingPage.title "Bejelentett hamisított webhely!">
