@@ -4,13 +4,13 @@
 <!-- These strings are used in the about:newtab page -->
 
 <!ENTITY newtab.pageTitle "Új lap">
-
-
-
-
+<!ENTITY newtab.customize.classic "Kedvelt oldalak megjelenítése">
+<!ENTITY newtab.customize.cog.enhanced "Javasolt oldalak felvétele">
+<!ENTITY newtab.customize.cog.title "Új lap vezérlői">
+<!ENTITY newtab.customize.cog.learn "Ismerje meg az Új lapot">
 <!ENTITY newtab.customize.title "Az Új lap oldal személyre szabása">
 <!ENTITY newtab.customize.suggested "Javasolt és kedvelt oldalak megjelenítése">
-
+<!ENTITY newtab.customize.topsites "Kedvelt oldalak megjelenítése">
 <!ENTITY newtab.customize.blank2 "Üres oldal megjelenítése">
 <!ENTITY newtab.customize.what "Mi ez az oldal?">
 <!ENTITY newtab.intro.header "Mi ez az oldal?">
