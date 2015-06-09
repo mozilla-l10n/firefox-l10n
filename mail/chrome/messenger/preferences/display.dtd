@@ -4,7 +4,7 @@
 
 <!ENTITY itemFormatting.label             "Formatavimas">
 <!ENTITY itemTags.label                   "Gairės">
-
+<!ENTITY itemAdvanced.label               "Kitkas">
 
 <!ENTITY style.label                      "Stilius:">
 <!ENTITY style.accesskey                  "t">
@@ -48,7 +48,7 @@
 <!-- Advanced -->
 
 <!ENTITY reading.caption                  "Skaitymas">
-
+<!ENTITY display.caption                  "Rodymas">
 <!ENTITY showCondensedAddresses.label     "Jei asmens duomenys įrašyti į adresų knygą, tai rodyti tik jo asmenvardį (be adreso)">
 <!ENTITY showCondensedAddresses.accesskey "a">
 
