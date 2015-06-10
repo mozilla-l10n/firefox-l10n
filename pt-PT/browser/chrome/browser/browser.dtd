@@ -333,7 +333,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY preferencesCmdUnix.label       "Preferências">
 <!ENTITY preferencesCmdUnix.accesskey     "f"> 
 
-<!ENTITY clearRecentHistory.label               "Limpar histórico e dados dos sites…">
+<!ENTITY clearRecentHistory.label               "Limpar histórico recente…">
 
 <!ENTITY privateBrowsingCmd.commandkey          "P">
 
@@ -364,7 +364,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuCustomizeExit.tooltip "Terminar personalização">
 <!ENTITY appMenuHistory.label "Histórico">
 <!ENTITY appMenuHistory.showAll.label "Mostrar todo o histórico">
-<!ENTITY appMenuHistory.clearRecent.label "Limpar histórico e dados dos sites…">
+<!ENTITY appMenuHistory.clearRecent.label "Limpar histórico recente…">
 <!ENTITY appMenuHistory.restoreSession.label "Reabrir todas as janelas da última sessão">
 <!ENTITY appMenuHistory.viewSidebar.label "Ver barra lateral do histórico">
 <!ENTITY appMenuHelp.tooltip "Abrir menu de ajuda">
@@ -826,7 +826,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      The translation should do the same. -->
 
 <!ENTITY panicButton.view.mainActionDesc          "Ao continuar vai:">
-<!ENTITY panicButton.view.deleteCookies           "Apagar os <html:strong>cookies</html:strong> recentes">
+<!ENTITY panicButton.view.deleteCookies           "Eliminar os <html:strong>cookies</html:strong> recentes">
 <!ENTITY panicButton.view.deleteHistory           "Apagar o <html:strong>histórico</html:strong>">
 <!ENTITY panicButton.view.deleteTabsAndWindows    "Fechar todos os <html:strong>Separadores</html:strong> e <html:strong>Janelas</html:strong>">
 <!ENTITY panicButton.view.openNewWindow           "Abrir uma nova janela">
