@@ -158,6 +158,8 @@
 <!ENTITY bothFormatCmd.accesskey "ن">
 <!ENTITY priorityMenu.label "الأولويّة">
 <!ENTITY priorityMenu.accesskey "و">
+
+
 <!ENTITY priorityButton.label "الأولويّة:">
 <!ENTITY lowestPriorityCmd.label "الدنيا">
 <!ENTITY lowestPriorityCmd.accesskey "د">

@@ -856,7 +856,7 @@
 <!ENTITY CopyEmailAddress.accesskey "ع">
 <!ENTITY CopyNewsgroupName.label "انسخ اسم مجموعة الأخبار">
 <!ENTITY CopyNewsgroupName.accesskey "ن">
-<!ENTITY CopyNewsgroupURL.label "انسخ وصلة مجموعة الأخبار">
+<!ENTITY CopyNewsgroupURL.label "انسخ رابط مجموعة الأخبار">
 <!ENTITY CopyNewsgroupURL.accesskey "م">
 <!ENTITY CreateFilterFrom.label "أنشئ مُرَشِحًا من…">
 <!ENTITY CreateFilterFrom.accesskey "ش">
