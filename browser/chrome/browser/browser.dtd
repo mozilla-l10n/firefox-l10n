@@ -489,13 +489,13 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY savePageCmd.label            "احفظ الصفحة ك‍…">
 <!ENTITY savePageCmd.accesskey        "ك">
 <!-- alternate for content area context menu -->
-<!ENTITY savePageCmd.accesskey2       "P">
+<!ENTITY savePageCmd.accesskey2       "ك">
 <!ENTITY savePageCmd.commandkey       "s">
 <!ENTITY saveFrameCmd.label           "احفظ الإطار ك‍…">
 <!ENTITY saveFrameCmd.accesskey       "ط">
 <!ENTITY printFrameCmd.label          "اطبع الإطار…">
 <!ENTITY printFrameCmd.accesskey      "ط">
-<!ENTITY saveLinkCmd.label            "احفظ الوصلة ك‍…">
+<!ENTITY saveLinkCmd.label            "احفظ الرابط ك‍…">
 <!ENTITY saveLinkCmd.accesskey        "و">
 <!ENTITY saveImageCmd.label           "احفظ الصورة ك‍…">
 <!ENTITY saveImageCmd.accesskey       "ر">
