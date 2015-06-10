@@ -59,11 +59,11 @@
 <!ENTITY lightning.imipbar.btnReconfirm2.label                              "Re-confermar">
 <!ENTITY lightning.imipbar.btnReconfirm.tooltiptext                         "Trametta ina re-conferma a l'organisatur">
 <!ENTITY lightning.imipbar.btnSaveCopy.label                                "Memorisar ina copia">
-
+<!ENTITY lightning.imipbar.btnSaveCopy.tooltiptext                          "Memorisar ina copia dal eveniment en il chalender, independentamain dad ina resposta a l'organisatur. La glista dals participants vegn stizzada.">
 <!ENTITY lightning.imipbar.btnTentative.label                               "Provisoric">
 <!ENTITY lightning.imipbar.btnTentative2.tooltiptext                        "Acceptar provisoricamain l'invitaziun a l'occurrenza">
-
-
+<!ENTITY lightning.imipbar.btnTentativeRecurrences.label                    "Tuts provisoric">
+<!ENTITY lightning.imipbar.btnTentativeRecurrences2.tooltiptext             "Acceptar l'invitaziun a l'eveniment provisoricamain per mintga occurrenza da quest eveniment">
 <!ENTITY lightning.imipbar.btnUpdate.label                                  "Actualisar">
 <!ENTITY lightning.imipbar.btnUpdate.tooltiptext                            "Actualisar l'occurrenza en il chalender">
 <!ENTITY lightning.imipbar.description                                      "Quest messadi cuntegna ina invitiaziun ad in'occurrenza.">
@@ -78,10 +78,12 @@
 <!ENTITY lightning.acctCentral.newCalendar.label "Crear in nov chalender">
 <!-- today-pane-specific -->
 
-
-
-
-
+<!ENTITY todaypane.showMinimonth.label "Mussar Mini-mais">
+<!ENTITY todaypane.showMinimonth.accesskey "M">
+<!ENTITY todaypane.showMiniday.label "Mussar Mini-di">
+<!ENTITY todaypane.showMiniday.accesskey  "d">
+<!ENTITY todaypane.showNone.label "Mussar Nagut">
+<!ENTITY todaypane.showNone.accesskey "N">
 
 
 <!ENTITY todaypane.statusButton.label "Lastra dal di">
