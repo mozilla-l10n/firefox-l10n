@@ -4,7 +4,7 @@
 
 <!ENTITY itemFormatting.label             "التنسيق">
 <!ENTITY itemTags.label                   "الوسوم">
-
+<!ENTITY itemAdvanced.label               "متقدم">
 
 <!ENTITY style.label                      "الأسلوب:">
 <!ENTITY style.accesskey                  "س">
@@ -61,7 +61,7 @@
      using (markAsReadDelay.label) and a number (secondsLabel.label). -->
 <!ENTITY markAsReadDelay.label            "بعد العرض لمدة">
 <!ENTITY markAsReadDelay.accesskey        "ض">
-
+<!ENTITY secondsLabel.label               "ثانية">
 <!ENTITY openMsgIn.label                  "افتح الرسائل في:">
 <!ENTITY openMsgInNewTab.label            "لسان جديد">
 <!ENTITY openMsgInNewTab.accesskey        "ن">
