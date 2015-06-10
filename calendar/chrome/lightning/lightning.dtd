@@ -84,6 +84,6 @@
 <!ENTITY todaypane.showMiniday.accesskey  "d">
 <!ENTITY todaypane.showNone.label "Mussar Nagut">
 <!ENTITY todaypane.showNone.accesskey "N">
-
-
-<!ENTITY todaypane.statusButton.label "Lastra dal di">
+<!ENTITY todaypane.showTodayPane.label "Mussar la trav Oz">
+<!ENTITY todaypane.showTodayPane.accesskey "o">
+<!ENTITY todaypane.statusButton.label "Trav Oz">
