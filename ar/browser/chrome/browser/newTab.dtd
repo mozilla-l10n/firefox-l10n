@@ -4,13 +4,13 @@
 <!-- These strings are used in the about:newtab page -->
 
 <!ENTITY newtab.pageTitle "لسان جديد">
-
-
-
-
+<!ENTITY newtab.customize.classic "اعرض المواقع الأكثر زيارة">
+<!ENTITY newtab.customize.cog.enhanced "أضف المواقع المقترحة">
+<!ENTITY newtab.customize.cog.title "أزرار صفحة اللسان الجديد">
+<!ENTITY newtab.customize.cog.learn "اطّلع أكثر على صفحة اللسان الجديد">
 <!ENTITY newtab.customize.title "خصص صفحة اللسان الجديد">
 <!ENTITY newtab.customize.suggested "اعرض المواقع المقترحة و الأكثر زيارة">
-
+<!ENTITY newtab.customize.topsites "اعرض المواقع الأكثر زيارة">
 <!ENTITY newtab.customize.blank2 "اعرض صفحة فارغة">
 <!ENTITY newtab.customize.what "ما هذه الصفحة؟">
 <!ENTITY newtab.intro.header "ما هذه الصفحة؟">
