@@ -25,7 +25,7 @@
 <!ENTITY saveTo.label "Guardar ficheiros em">
 <!ENTITY saveTo.accesskey "f">
 <!ENTITY chooseFolderWin.label        "Procurar…">
-<!ENTITY chooseFolderWin.accesskey    "P">
+<!ENTITY chooseFolderWin.accesskey    "o">
 <!ENTITY chooseFolderMac.label        "Escolher…">
 <!ENTITY chooseFolderMac.accesskey    "E">
 <!ENTITY alwaysAsk.label "Perguntar sempre onde guardar os ficheiros">
@@ -39,7 +39,7 @@
 <!ENTITY isNotDefault.label               "O &brandShortName; não é o seu navegador predefinido">
 
 <!ENTITY separateProfileMode.label        "Permitir que o &brandShortName; e o Firefox sejam usados ao mesmo tempo">
-<!ENTITY useFirefoxSync.label             "Sugestão: Este utiliza perfis separados. Use o Sync para partilhar dados entre eles.">
+<!ENTITY useFirefoxSync.label             "Sugestão: este utiliza perfis separados. Use o Sync para partilhar dados entre eles.">
 <!ENTITY getStarted.label                 "Começar a usar o Sync…">
 
 <!ENTITY e10sEnabled.label                "Ativar a multi-tarefa do &brandShortName;">

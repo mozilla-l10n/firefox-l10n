@@ -94,8 +94,8 @@
 <!ENTITY enableSearchUpdate.label        "Motores de pesquisa">
 <!ENTITY enableSearchUpdate.accesskey    "e">
 
-<!ENTITY offlineNotify.label             "Avisar quando um sie pedir para guardar dados para o modo offline">
-<!ENTITY offlineNotify.accesskey         "e">
+<!ENTITY offlineNotify.label             "Avisar quando um sítio pedir para guardar dados para o modo offline">
+<!ENTITY offlineNotify.accesskey         "t">
 <!ENTITY offlineNotifyExceptions.label   "Exceções...">
 <!ENTITY offlineNotifyExceptions.accesskey "x">
 
