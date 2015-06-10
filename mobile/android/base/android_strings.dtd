@@ -6,8 +6,8 @@
 <!ENTITY  no_space_to_start_error "Es ist nicht genügend Platz verfügbar, um &brandShortName; zu starten.">
 <!ENTITY  error_loading_file "Beim Versuch, Dateien zu laden, die &brandShortName; benötigt, ist ein Fehler aufgetreten">
 
-<!ENTITY  onboard_start_message2 "Willkommen bei &brandShortName;">
-<!ENTITY  onboard_start_subtext2 "Mehr Datenschutzfunktionen und Möglichkeiten zur Anpassung als je zuvor!">
+<!ENTITY  onboard_start_message3 "Surfen Sie mit &brandShortName;">
+<!ENTITY  onboard_start_subtext3 "Passen Sie Ihr mobiles Surf-Erlebnis Ihren Wünschen an.">
 <!ENTITY  onboard_start_button_account "Bei &brandShortName; anmelden">
 <!ENTITY  onboard_start_button_browser "Mit dem Surfen beginnen">
 
@@ -114,7 +114,6 @@
      to. -->
 <!ENTITY overlay_share_send_tab_btn_label "An anderes Gerät senden">
 <!ENTITY overlay_share_no_url "Kein Link in Weitergabe gefunden">
-<!ENTITY overlay_share_retry "Erneut versuchen">
 <!ENTITY overlay_share_select_device "Gerät auswählen">
 <!-- Localization note (overlay_no_synced_devices) : Used when the menu option
      to send a tab to a synced device is pressed and no other synced devices
@@ -150,8 +149,6 @@
      it is applicable. -->
 <!ENTITY pref_search_hint "TIPP: Sie können die Suche jeder beliebigen Seite zu Ihren Suchmaschinen hinzufügen, indem Sie lang auf das Suchfeld drücken und anschließend das &formatI;-Symbol antippen.">
 <!ENTITY pref_category_devtools "Entwicklerwerkzeuge">
-<!ENTITY pref_category_devtools_summary "Externes Debugging, Hervorhebung neu gezeichneter Flächen">
-<!ENTITY pref_developer_paint_flashing "Hervorhebung neu gezeichneter Flächen">
 <!ENTITY pref_developer_remotedebugging "Externes Debugging">
 <!ENTITY pref_category_logins "Zugangsdaten">
 <!ENTITY pref_remember_signons "Passwörter speichern">
@@ -192,22 +189,22 @@
 <!ENTITY pref_donottrack_title "Aktivitäten nicht verfolgen">
 <!ENTITY pref_donottrack_summary "&brandShortName; wird Websites mitteilen, dass Ihre Aktivitäten nicht verfolgt werden sollen.">
 
-<!ENTITY tab_queue_toast_message "Später öffnen">
+<!ENTITY tab_queue_toast_message2 "Tab in &brandShortName; abgelegt">
 <!ENTITY tab_queue_toast_action "Jetzt öffnen">
-<!-- Localization note (tab_queue_notification_text_plural) : The
+<!ENTITY tab_queue_prompt_title "Mehrere Links öffnen?">
+<!ENTITY tab_queue_prompt_text2 "Öffnen ohne jedesmal zu &brandShortName; zu wechseln">
+<!ENTITY tab_queue_prompt_tip_text "Sie können dies später in den Einstellungen ändern.">
+<!ENTITY tab_queue_prompt_positive_action_button "Aktivieren">
+<!ENTITY tab_queue_prompt_negative_action_button "Nicht jetzt">
+<!ENTITY tab_queue_notification_title "&brandShortName;">
+<!-- Localization note (tab_queue_notification_text_plural2) : The
      formatD is replaced with the number of tabs queued.  The
      number of tabs queued is always more than one.  We can't use
      Android plural forms, sadly. See Bug #753859. -->
-<!ENTITY tab_queue_notification_text_plural "&formatD; Tabs abgelegt">
-<!-- Localization note (tab_queue_notification_title_plural) : This is the
-     title of a notification; we expect more than one tab queued. -->
-<!ENTITY tab_queue_notification_title_plural "Tabs abgelegt">
-<!-- Localization note (tab_queue_notification_title_singular) : This is the
-     title of a notification; we expect only one tab queued. -->
-<!ENTITY tab_queue_notification_title_singular "Tab abgelegt">
-<!-- Localization note (tab_queue_notification_text_singular) : This is the
+<!ENTITY tab_queue_notification_text_plural2 "&formatD; Tabs abgelegt">
+<!-- Localization note (tab_queue_notification_text_singular2) : This is the
      text of a notification; we expect only one tab queued. -->
-<!ENTITY tab_queue_notification_text_singular "1 Tab abgelegt">
+<!ENTITY tab_queue_notification_text_singular2 "1 Tab abgelegt">
 
 <!ENTITY pref_char_encoding "Zeichenkodierung">
 <!ENTITY pref_char_encoding_on "Im Menü anzeigen">
@@ -255,7 +252,8 @@ size. -->
 <!ENTITY pref_import_android "Import aus Android">
 <!ENTITY pref_import_android_summary "Lesezeichen und Chronik aus dem Standardbrowser importieren">
 <!ENTITY pref_private_data_history2 "Chronik">
-<!ENTITY pref_private_data_formdata "Eingegebene Suchbegriffe &amp; Formulardaten">
+<!ENTITY pref_private_data_searchHistory "Eingegebene Suchbegriffe">
+<!ENTITY pref_private_data_formdata2 "Gespeicherte Formulardaten">
 <!ENTITY pref_private_data_cookies2 "Cookies &amp; Aktive Logins">
 <!ENTITY pref_private_data_passwords "Gespeicherte Passwörter">
 <!ENTITY pref_private_data_cache "Cache">
@@ -380,6 +378,7 @@ size. -->
 <!ENTITY doorhanger_login_edit_username_hint "Benutzername">
 <!ENTITY doorhanger_login_edit_password_hint "Passwort">
 <!ENTITY doorhanger_login_edit_toggle "Passwort anzeigen">
+<!ENTITY doorhanger_login_edit_toast_error "Zugangsdaten konnten nicht gespeichert werden">
 
 <!ENTITY pref_titlebar_mode "Titelleiste">
 <!ENTITY pref_titlebar_mode_title "Seitentitel anzeigen">
@@ -390,8 +389,8 @@ size. -->
 <!ENTITY pref_scroll_title_bar2 "Vollbildmodus">
 <!ENTITY pref_scroll_title_bar_summary "Titelleiste von &brandShortName; beim Bildlauf der Seite ausblenden">
 
-<!ENTITY pref_tab_queue_title "Später öffnen">
-<!ENTITY pref_tab_queue_summary "Tabs am sofortigen Öffnen hindern. Alle abgelegten Tabs werden beim nächsten Öffnen von &brandShortName; geladen.">
+<!ENTITY pref_tab_queue_title2 "Mehrere Links öffnen">
+<!ENTITY pref_tab_queue_summary2 "Links für später in der Warteschlange ablegen, anstatt jedesmal zu &brandShortName; zu wechseln">
 
 <!-- Localization note (page_removed): This string appears in a toast message when
      any page is removed frome about:home. This includes pages that are in history,
@@ -440,6 +439,8 @@ size. -->
 <!ENTITY button_set "Übernehmen">
 <!ENTITY button_clear "Leeren">
 <!ENTITY button_remember "Speichern">
+
+<!ENTITY firstrun_panel_title_welcome "Willkommen">
 
 <!ENTITY home_top_sites_title "Meistbesuchte Seiten">
 <!-- Localization note (home_top_sites_add): This string is used as placeholder
@@ -610,7 +611,15 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY colon ":">
 
-<!-- These are only used for accessiblity for the done and overflow-menu buttons in the actionbar.
+<!-- LOCALIZATION NOTE (percent): The percent sign is appended after a number to
+     display a percentage value. formatS is the number, #37 is the code to display a percent sign.
+     This format string is typically used by getString method, in such method the percent sign
+     is a reserved caracter. In order to display one percent sign in the result of getString,
+     double percent signs must be inserted in the format string.
+     This entity is used in the zoomed view to display the zoom factor-->
+<!ENTITY percent "&formatS;&#37;&#37;">
+
+<!-- These are only used for accessibility for the done and overflow-menu buttons in the actionbar.
      They are never shown to users -->
 <!ENTITY actionbar_menu "Menü">
 <!ENTITY actionbar_done "Fertig">
