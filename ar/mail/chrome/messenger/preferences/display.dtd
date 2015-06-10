@@ -5,6 +5,7 @@
 <!ENTITY itemFormatting.label             "التنسيق">
 <!ENTITY itemTags.label                   "الوسوم">
 
+
 <!ENTITY style.label                      "الأسلوب:">
 <!ENTITY style.accesskey                  "س">
 <!ENTITY regularStyle.label               "عادي">
@@ -44,3 +45,29 @@
 <!ENTITY fontOptions.label       "الخطوط…">
 <!ENTITY colorButton.label       "الألوان…">
 <!ENTITY colorButton.accesskey   "ن">
+<!-- Advanced -->
+
+<!ENTITY reading.caption                  "القراءة">
+<!ENTITY display.caption                  "العرض">
+<!ENTITY showCondensedAddresses.label     "اعرض فقط اسم العرض للأشخاص الذين في دفتر عناويني">
+<!ENTITY showCondensedAddresses.accesskey "ع">
+
+<!ENTITY autoMarkAsRead.label             "أشّر على الرسائل تلقائيًا بانها مقروءة">
+<!ENTITY autoMarkAsRead.accesskey         "ئ">
+<!ENTITY markAsReadNoDelay.label          "فورًا عند العرض">
+<!ENTITY markAsReadNoDelay.accesskey      "ف">
+<!-- LOCALIZATION NOTE (markAsReadDelay.label): This will concatenate to
+     "After displaying for [___] seconds",
+     using (markAsReadDelay.label) and a number (secondsLabel.label). -->
+<!ENTITY markAsReadDelay.label            "بعد العرض لمدة">
+<!ENTITY markAsReadDelay.accesskey        "ض">
+
+<!ENTITY openMsgIn.label                  "افتح الرسائل في:">
+<!ENTITY openMsgInNewTab.label            "لسان جديد">
+<!ENTITY openMsgInNewTab.accesskey        "ن">
+<!ENTITY reuseExpRadio0.label             "نافذة رسالة جديدة ">
+<!ENTITY reuseExpRadio0.accesskey         "ن">
+<!ENTITY reuseExpRadio1.label             "نافذة رسالة موجودة">
+<!ENTITY reuseExpRadio1.accesskey         "م">
+<!ENTITY closeMsgOnMoveOrDelete.label     "أغلِق نافذة/لسان الرسالة عند النقل أو الحذف">
+<!ENTITY closeMsgOnMoveOrDelete.accesskey "ن">

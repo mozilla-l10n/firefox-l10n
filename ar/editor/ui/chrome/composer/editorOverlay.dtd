@@ -48,7 +48,7 @@
 <!ENTITY insertBreakAllCmd.accesskey "ف">
 <!-- Used just in context popup. -->
 
-<!ENTITY createLinkCmd.label "أنشئ وصلة…">
+<!ENTITY createLinkCmd.label "أنشئ رابطًا…">
 <!ENTITY createLinkCmd.accesskey "ش">
 <!ENTITY editLinkCmd.label "حرّر الرابط في محرر جديد">
 <!ENTITY editLinkCmd.accesskey "ف">
