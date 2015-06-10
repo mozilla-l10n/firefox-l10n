@@ -151,6 +151,6 @@
 <!ENTITY BrowsePhoto.accesskey          "ر">
 <!ENTITY PhotoURL.label                 "في الوب">
 <!ENTITY PhotoURL.accesskey             "و">
-<!ENTITY PhotoURL.placeholder           "ألصِق أو اكتب وصلة الصورة">
+<!ENTITY PhotoURL.placeholder           "ألصِق أو اكتب رابط الصورة">
 <!ENTITY UpdatePhoto.label              "حدّث">
 <!ENTITY UpdatePhoto.accesskey          "ث">
