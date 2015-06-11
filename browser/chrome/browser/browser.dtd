@@ -192,6 +192,7 @@
 <!ENTITY browserContentToolboxMenu.label "Cassetta degli attrezzi contenuti browser">
 <!ENTITY browserToolboxMenu.accesskey "e">
 <!ENTITY browserToolboxCmd.commandkey "i">
+<!ENTITY browserContentToolboxMenu.accesskey "w">
 <!ENTITY devToolbarCloseButton.tooltiptext "Chiudi la Barra sviluppatori">
 <!ENTITY devToolbarMenu.label "Barra sviluppatori">
 <!ENTITY devToolbarMenu.accesskey "v">
