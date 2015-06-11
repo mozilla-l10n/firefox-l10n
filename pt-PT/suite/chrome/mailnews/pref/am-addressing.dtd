@@ -42,8 +42,8 @@
 <!ENTITY includeSigOnForward.label            "Incluir assinatura nos reencaminhamentos">
 <!ENTITY includeSigOnForward.accesskey        "i">
 
-<!ENTITY globalComposingPrefs.label           "Preferências de composição globais…">
+<!ENTITY globalComposingPrefs.label           "Preferências globais de composição…">
 <!ENTITY globalComposingPrefs.accesskey       "g">
 
-<!ENTITY globalAddressingPrefs.label          "Preferências de endereçamento globais…">
+<!ENTITY globalAddressingPrefs.label          "Preferências globais de endereçamento…">
 <!ENTITY globalAddressingPrefs.accesskey      "P">

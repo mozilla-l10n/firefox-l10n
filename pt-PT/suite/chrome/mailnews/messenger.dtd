@@ -55,7 +55,7 @@
 <!ENTITY sendUnsentCmd.accesskey "d">
 <!ENTITY subscribeCmd.label "Subscrever...">
 <!ENTITY subscribeCmd.accesskey "b">
-<!ENTITY renameFolder.label "Mdar nome da pasta...">
+<!ENTITY renameFolder.label "Mudar nome da pasta…">
 <!ENTITY renameFolder.accesskey "M">
 <!ENTITY compactFolders.label "Compactar pastas">
 <!ENTITY compactFolders.accesskey  "p">
