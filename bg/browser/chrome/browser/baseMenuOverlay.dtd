@@ -26,6 +26,8 @@
 <!ENTITY helpSafeMode.label       "Рестартиране с изключени добавки…">
 <!ENTITY helpSafeMode.accesskey   "д">
 
+
+
 <!ENTITY healthReport2.label      "Доклад за изправност на &brandShorterName;">
 <!ENTITY healthReport2.accesskey  "Д">
 

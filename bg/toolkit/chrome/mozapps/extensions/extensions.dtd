@@ -22,6 +22,8 @@
 
 <!ENTITY cmd.back.tooltip                     "Връщане назад с една страница">
 <!ENTITY cmd.forward.tooltip                  "Отиване напред с една страница">
+
+
 <!-- global warnings -->
 
 <!ENTITY warning.safemode.label                    "Всички добавки са изключени от Надеждния режим.">
@@ -102,7 +104,8 @@
 <!ENTITY cmd.installAddon.accesskey           "И">
 <!ENTITY cmd.uninstallAddon.label             "Премахване">
 <!ENTITY cmd.uninstallAddon.accesskey         "П">
-<!ENTITY cmd.debugAddon.label                 "Дебъгване">
+
+
 <!ENTITY cmd.showPreferencesWin.label         "Настройки">
 <!ENTITY cmd.showPreferencesWin.tooltip       "Промяна на настройките на тази добавка">
 <!ENTITY cmd.showPreferencesUnix.label        "Настройки">
@@ -231,3 +234,15 @@
 <!ENTITY experiment.info.changetelemetry.accesskey "Н">
 
 <!ENTITY setting.learnmore "Научете повече…">
+
+<!-- LOCALIZATION NOTE (disabledUnsigned.description.start, disabledUnsigned.description.findAddonsLink, disabledUnsigned.description.end):
+     These entities form a sentence, with
+     disabledUnsigned.description.findAddonsLink being a link to an external site. -->
+
+
+
+<!-- LOCALIZATION NOTE (disabledUnsigned.devInfo.start, disabledUnsigned.devInfo.linkToManual, disabledUnsigned.devInfo.end):
+     These entities form a sentence, with disabledUnsigned.devInfo.linkToManual
+     being a link to an external site. -->
+
+
