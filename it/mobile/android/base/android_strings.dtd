@@ -289,7 +289,7 @@
 <!ENTITY site_settings_cancel "Annulla">
 <!ENTITY site_settings_clear "Elimina">
 <!ENTITY site_settings_no_settings "Non ci sono impostazioni da eliminare.">
-<!ENTITY reading_list_added "Pagina aggiunta a Elenco lettura">
+<!ENTITY reading_list_added2 "Aggiunta all’elenco">
 <!ENTITY reading_list_removed "Pagina rimossa da Elenco lettura">
 <!ENTITY reading_list_remove "Rimuovi da Elenco lettura">
 <!ENTITY reading_list_duplicate "Pagina già presente in Elenco lettura">
