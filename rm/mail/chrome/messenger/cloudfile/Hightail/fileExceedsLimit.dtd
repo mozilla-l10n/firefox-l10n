@@ -2,5 +2,5 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this file,
    - You can obtain one at http://mozilla.org/MPL/2.0/.  -->
 <!ENTITY fileExceedsLimit.title   "Hightail">
-<!ENTITY fileExceedsLimit.thatsBigFile3 "Trametter datotecas pli grondas che 50 MB na vegn betg sustegnì per contos na-premium.">
+<!ENTITY fileExceedsLimit.thatsBigFile3 "Datotecas pli grondas che 50 MB pon ins mo trametter cun in conto 'premium'.">
 <!ENTITY fileExceedsLimit.style "width: 40em; min-height: 20em;">

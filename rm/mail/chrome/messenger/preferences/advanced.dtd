@@ -42,13 +42,13 @@
 
 <!-- Data Choices -->
 <!ENTITY telemetrySection.label          "Telemetria">
-<!ENTITY telemetryDesc.label             "Cundivida infurmaziuns davart la prestaziun, l'utilisaziun, la hardware e la persunalisaziun dal program dad e-mails cun &vendorShortName; per gidar da meglierar &brandShortName; ">
+<!ENTITY telemetryDesc.label             "Cundivida infurmaziuns davart la prestaziun, l'utilisaziun, la hardware e la persunalisaziun dal program dad e-mails cun &vendorShortName; per gidar a meglierar &brandShortName;">
 <!ENTITY enableTelemetry.label           "Activar la telemetria">
 <!ENTITY enableTelemetry.accesskey       "T">
 <!ENTITY telemetryLearnMore.label        "Ulteriuras infurmaziuns">
 
 <!ENTITY crashReporterSection.label      "Rapportader da collaps">
-<!ENTITY crashReporterDesc.label         "&brandShortName; trametta rapports davart collaps per gidar &vendorShortName; da render pli stabel e segir tes program dad e-mails">
+<!ENTITY crashReporterDesc.label         "&brandShortName; trametta rapports davart collaps per gidar &vendorShortName; da meglierar la stabilitad e segirezza da tes program dad e-mails">
 <!ENTITY enableCrashReporter.label       "Activar il rapportader da collaps">
 <!ENTITY enableCrashReporter.accesskey   "c">
 <!ENTITY crashReporterLearnMore.label    "Ulteriuras infurmaziuns">
