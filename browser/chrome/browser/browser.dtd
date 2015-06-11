@@ -607,3 +607,8 @@
 <!ENTITY readingList.sidebar.delete.tooltip "Rimuovi questo elemento da Elenco lettura">
 <!ENTITY readingList.sidebar.add.label "Aggiungi a Elenco lettura">
 <!ENTITY readingList.sidebar.add.tooltip "Aggiungi questa pagina a Elenco lettura">
+<!ENTITY saveToPocketCmd.label "Salva pagina in Pocket">
+<!ENTITY saveToPocketCmd.accesskey "k">
+<!ENTITY saveLinkToPocketCmd.label "Salva link in Pocket">
+<!ENTITY saveLinkToPocketCmd.accesskey "P">
+<!ENTITY pocketMenuitem.label "Visualizza elenco Pocket">
