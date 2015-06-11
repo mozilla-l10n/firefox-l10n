@@ -50,6 +50,8 @@
 <!ENTITY profilerUI.flattenTreeRecursion.tooltiptext "Appiattisci le ricorsioni durante l’analisi delle funzioni.">
 <!ENTITY profilerUI.enableMemory "Registra memoria">
 <!ENTITY profilerUI.enableMemory.tooltiptext "Registra l’utilizzo della memoria durante la profilazione.">
+<!ENTITY profilerUI.enableAllocations "Registra allocazioni">
+<!ENTITY profilerUI.enableAllocations.tooltiptext "Registra le allocazioni di oggetti durante la profilazione.">
 <!ENTITY profilerUI.enableFramerate "Frequenza registrazione">
 <!ENTITY profilerUI.enableFramerate.tooltiptext "Frequenza con cui viene registrata la profilazione.">
 <!ENTITY profilerUI.showJITOptimizations "Visualizza ottimizzazioni JIT">
