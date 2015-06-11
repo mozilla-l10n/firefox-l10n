@@ -145,7 +145,7 @@
 <!ENTITY messagePaneVertical.accesskey "3">
 <!ENTITY showFolderPaneCmd.label "Trav dad ordinaturs">
 <!ENTITY showFolderPaneCmd.accesskey "T">
-<!ENTITY showFolderPaneColsCmd.label "Colonnas da la trav dad ordinaturs">
+<!ENTITY showFolderPaneColsCmd.label "Colonnas en la trav dad ordinaturs">
 <!ENTITY showFolderPaneColsCmd.accesskey "v">
 <!ENTITY showMessageCmd.label "Zona da prevista dals messadis">
 <!ENTITY showMessageCmd.accesskey "p">
