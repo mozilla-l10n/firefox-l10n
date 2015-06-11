@@ -26,3 +26,19 @@
 <!ENTITY chooseLanguage.label         "পৃষ্ঠা প্রদর্শনের জন্য পছন্দসই ভাষা নির্বাচন">
 <!ENTITY chooseButton.label           "নির্বাচন… o">
 <!ENTITY chooseButton.accesskey       "o">
+
+
+<!ENTITY translateExceptions.label    "ব্যতিক্রম... x">
+<!ENTITY translateExceptions.accesskey "x">
+<!-- LOCALIZATION NOTE (translation.options.attribution.beforeLogo,
+  -                     translation.options.attribution.afterLogo):
+  -  These 2 strings are displayed before and after a 'Microsoft Translator'
+  -  logo.
+  -  The translations for these strings should match the translations in
+  -  browser/translation.dtd
+  -->
+<!ENTITY translation.options.attribution.afterLogo "">
+
+
+
+<!ENTITY  playDRMContent.learnMore.label "আরও জানুন">

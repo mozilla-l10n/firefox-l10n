@@ -7,6 +7,9 @@
 
 <!ENTITY closeCmd.key  "W">
 
+<!ENTITY toggleToolboxF12.keycode          "VK_F12">
+<!ENTITY toggleToolboxF12.keytext          "F12">
+
 <!ENTITY toolboxCloseButton.tooltip    "ডেভলপার টুলবার বন্ধ করুন">
 <!ENTITY toolboxOptionsButton.key      "O">
 <!ENTITY toolboxNextTool.key           "]">
@@ -17,6 +20,12 @@
 <!ENTITY toolboxZoomIn.key2            "="> 
 <!ENTITY toolboxZoomOut.key            "-">
 <!ENTITY toolboxZoomReset.key          "0">
+
+<!-- LOCALIZATION NOTE (toolboxFramesButton): This is the label for
+  -  the iframes menu list that appears only when the document has some.
+  -  It allows you to switch the context of the whole toolbox. -->
+<!-- LOCALIZATION NOTE (browserToolboxErrorMessage): This is the label
+  -  shown next to error details when the Browser Toolbox is unable to open. -->
 <!-- LOCALIZATION NOTE (options.context.advancedSettings): This is the label for
   -  the heading of the advanced settings group in the options panel. -->
 
@@ -25,6 +34,10 @@
   -  the heading of the Inspector group in the options panel. -->
 
 <!ENTITY options.context.inspector "পরিদর্শক">
+<!-- LOCALIZATION NOTE (options.showUserAgentStyles.label): This is the label
+  -  for the checkbox option to show user agent styles in the Inspector
+  -  panel. -->
+
 <!-- LOCALIZATION NOTE (options.defaultColorUnit.label): This is the label for a
   -  dropdown list that controls the default color unit used in the inspector.
   -  This label is visible in the options panel. -->
@@ -69,9 +82,13 @@
   -  options.disableJavaScript.tooltip): This is the options panel label and
   -  tooltip for the checkbox that toggles JavaScript on or off. -->
 <!ENTITY options.disableJavaScript.tooltip   "এই অপশন চালুর ফলে বর্তমান ট্যাবে জাভাস্ক্রিপ্ট নিস্ক্রিয় হবে। যদি ট্যাব অথবা টুলবক্স বন্ধ করা হয় তবে এই সেটিং ভুলে যাবে।">
-<!-- LOCALIZATION NOTE (options.disableCache.label,
-  -  options.disableCache.tooltip): This is the options panel label and
+<!-- LOCALIZATION NOTE (options.disableCache.label2,
+  -  options.disableCache.tooltip2): This is the options panel label and
   -  tooltip for the checkbox that toggles the cache on or off. -->
+
+<!-- LOCALIZATION NOTE (options.enableServiceWorkersHTTP.label,
+  -  options.enableServiceWorkersHTTP.tooltip): This is the options panel label and
+  -  tooltip for the checkbox that toggles the service workers testing features on or off. This option enables service workers over HTTP. -->
 
 <!-- LOCALIZATION NOTE (options.selectDefaultTools.label): This is the label for
   -  the heading of group of checkboxes corresponding to the default developer
@@ -92,13 +109,12 @@
   -  for the target of the toolbox. -->
 
 <!ENTITY options.toolNotSupported.label  "* বর্তমান টুলবক্স টার্গেট এর জন্য সমর্থিত নয়">
-<!-- LOCALIZATION NOTE (options.selectDevToolsTheme.label): This is the label for
+<!-- LOCALIZATION NOTE (options.selectDevToolsTheme.label2): This is the label for
   -  the heading of the radiobox corresponding to the theme of the developer
   -  tools. -->
+<!-- LOCALIZATION NOTE (options.usedeveditiontheme.*) Options under the
+  -  toolbox for enabling and disabling the Developer Edition browser theme. -->
 
-<!ENTITY options.selectDevToolsTheme.label   "ডেভটুল এর থীম পছন্দ করুন:">
-<!ENTITY options.darkTheme.label             "গাঢ় থীম">
-<!ENTITY options.lightTheme.label            "হালকা থীম">
 <!-- LOCALIZATION NOTE (options.webconsole.label): This is the label for the
   -  heading of the group of Web Console preferences in the options panel. -->
 
@@ -126,15 +142,15 @@
   -  panel. -->
 
 <!ENTITY options.profiler.label            "জাভাস্ক্রিপ্ট প্রোফাইলার">
-<!-- LOCALICATION NOTE (options.commonprefs): This is the label for the heading
+<!-- LOCALIZATION NOTE (options.commonprefs): This is the label for the heading
       of all preferences that affect both the Web Console and the Network
       Monitor -->
-<!-- LOCALIZATION NOTE (options.enablePersistentLogging.label): This is the
+<!-- LOCALIZATION NOTE (options.enablePersistentLogs.label): This is the
   -  label for the checkbox that toggles persistent logs in the Web Console and
   -  network monitor,  i.e. devtools.webconsole.persistlog a boolean preference in
   -  about:config, in the options panel. -->
 
-<!ENTITY options.enablePersistentLogging.label    "নিয়মিত লগ সক্রিয় করুন">
+<!ENTITY options.enablePersistentLogs.label    "নিয়মিত লগ সক্রিয় করুন">
 
 <!-- LOCALIZATION NOTE (options.showPlatformData.label): This is the
   -  label for the checkbox that toggles the display of the platform data in the,
@@ -144,3 +160,17 @@
 <!ENTITY options.showPlatformData.label    "গেকো প্ল্যাটফর্ম ডাটা দেখান">
 <!ENTITY options.showPlatformData.tooltip  "যদি আপনি এই অপশন সক্রিয় করেন তবে জাভাস্ক্রিপ্ট প্রোফাইলার গেকো প্লাটফর্ম চিহ্নে 
 অর্ন্তভূক্ত রাখবে">
+<!-- LOCALIZATION NOTE (options.sourceeditor.*): Options under the editor
+  -  section. -->
+
+
+
+
+
+
+
+
+
+
+<!ENTITY options.sourceeditor.keybinding.default.label  "পূর্বনির্ধারিত">
+

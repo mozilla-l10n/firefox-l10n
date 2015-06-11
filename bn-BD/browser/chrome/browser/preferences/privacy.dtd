@@ -4,25 +4,22 @@
 
 <!ENTITY tracking.label                 "অনুসরণ">
 
-<!ENTITY dntTrackingNopref.label2       "আমার ট্র্যাকিং বৈশিষ্ট্যাবলী সম্পর্কে সাইটকে কিছু বলা হবে না">
-<!ENTITY dntTrackingNopref.accesskey    "o">
 <!ENTITY dntTrackingNotOkay.label2      "ওয়েব সাইটগুলোকে বলা হোক, আমাকে যেনো অনুসরণ করা না হয়">
 <!ENTITY dntTrackingNotOkay.accesskey   "n">
-<!ENTITY dntTrackingOkay.label2         "ওয়েব সাইটগুলোকে বলা হোক, আমাকে যেনো অনুসরণ করা হয়">
-<!ENTITY dntTrackingOkay.accesskey      "t">
+
+
+
 <!ENTITY doNotTrackInfo.label           "আরও জানুন">
 
-<!ENTITY  history.label                 "ইতিহাস">
 
 <!ENTITY  locationBar.label             "অবস্থান সূচক বার">
 
-<!ENTITY  locbar.pre.label              "অবস্থান বার ব্যবহার করার সময় পরামর্শ দিন: u">
-<!ENTITY  locbar.pre.accessKey          "u">
-<!ENTITY  locbar.post.label             "অবস্থান সমূহ">
-<!ENTITY  locbar.both.label             "ইতিহাস ও বুকমার্ক">
-<!ENTITY  locbar.history.label          "ইতিহাস">
-<!ENTITY  locbar.bookmarks.label        "বুকমার্কসমূহ">
-<!ENTITY  locbar.nothing.label          "কিছুই না">
+
+
+
+
+
+
 
 <!ENTITY  acceptCookies.label           "সাইট হতে কুকি গ্রহণ করুন A">
 <!ENTITY  acceptCookies.accesskey       "A">
@@ -33,8 +30,7 @@
 <!ENTITY  acceptThirdParty.never.label    "কখনো নয়">
 <!ENTITY  acceptThirdParty.visited.label  "প্রদর্শিত হতে">
 
-<!ENTITY  keepUntil.label               "সংরক্ষণের সময়কাল: K">
-<!ENTITY  keepUntil.accesskey           "K">
+
 
 <!ENTITY  expire.label                  "তাদের মেয়াদ উত্তীর্ণ হয়েছে">
 <!ENTITY  close.label                   "আমি &brandShortName; বন্ধ করি">

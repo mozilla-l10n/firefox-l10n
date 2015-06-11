@@ -12,6 +12,9 @@
 <!ENTITY safeb.blocked.malwarePage.shortDesc "<span id='malware_sitename'/> এ ওয়েবসাইটটি আক্রমণকারী হিসেবে রিপোর্ট করা হয়েছে এবং আপনার নিরাপত্তা পছন্দ অনুযায়ী ব্লক করা হয়েছে।">
 <!ENTITY safeb.blocked.malwarePage.longDesc "<p>আক্রমণকারী পৃষ্ঠা তথ্য চুরি করতে প্রোগ্রাম ইন্সটল করার চেষ্টা করে, অন্য কম্পিউটারকে আক্রমন করতে আপনার কম্পিটার ব্যবহার করে, বা আপনার সিস্টেম ধ্বংস করে।</p><p>কিছু আক্রমণকারী পৃষ্ঠা ইচ্ছাকৃত ভাবে ক্ষতিকর সফটওয়্যার বিতরণ করে, কিন্তু অনেকে না বুঝেই এগুলোকে কাজ করতে অনুমোদন দেয়।</p>">
 
+<!-- Localization note (safeb.blocked.malware.shortDesc) - Please don't translate the contents of the <span id="unwanted_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
+
+
 <!ENTITY safeb.blocked.phishingPage.title "ওয়েব জালিয়াতি রিপোর্ট করা হয়েছে!">
 <!-- Localization note (safeb.blocked.phishing.shortDesc) - Please don't translate the contents of the <span id="phishing_sitename"/> tag. It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
 <!ENTITY safeb.blocked.phishingPage.shortDesc "<span id='phishing_sitename'/> এ ওয়েব পৃষ্ঠা জালিয়াতি করার কারণে রিপোর্ট করা হয়েছে এবং আপনার নিরাপত্তা পছন্দ অনুযায়ী ব্লক করা হয়েছে।">

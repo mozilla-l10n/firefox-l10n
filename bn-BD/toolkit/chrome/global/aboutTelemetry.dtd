@@ -8,12 +8,15 @@
 
 <!ENTITY aboutTelemetry.telemetryDisabled "  টেলিমেট্রি হল <span>অকেজো</span>।">
 
+
+
 <!ENTITY aboutTelemetry.slowSqlSection "  ধীর গতির এসকিউএল বিবৃতি">
 
 <!ENTITY aboutTelemetry.chromeHangsSection "  ব্রাউজার হ্যাং করেছে">
 
 
 <!ENTITY aboutTelemetry.histogramsSection "  বারলেখ">
+
 
 <!ENTITY aboutTelemetry.simpleMeasurementsSection "  সহজ পরিমাপ">
 
