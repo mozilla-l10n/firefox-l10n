@@ -356,7 +356,7 @@
 
 <!-- LOCALIZATION NOTE (netmonitorUI.custom.newRequest): This is the label displayed
   -  as the title of the new custom request form -->
-<!ENTITY netmonitorUI.context.newTab.newRequest "Nije oanfraach">
+<!ENTITY netmonitorUI.context.newRequest "Nije oanfraach">
 
 <!-- LOCALIZATION NOTE (netmonitorUI.custom.query): This is the label displayed
   -  above the query string entry in the custom request form -->
