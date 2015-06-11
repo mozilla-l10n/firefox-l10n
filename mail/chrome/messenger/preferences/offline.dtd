@@ -6,10 +6,10 @@
 
 <!ENTITY checkAutoDetect.label "Utilisar automaticamain il status identifitgà">
 <!ENTITY checkAutoDetect.accesskey "d">
-<!ENTITY titleStartUp "Configuraziun manuala cun aviar:">
+<!ENTITY titleStartUp "Inditgar manualmain durant l'aviar:">
 <!ENTITY radioRememberPrevState.label "Sa regurdar dal davos status (online/offline)">
 <!ENTITY radioRememberPrevState.accesskey "R">
-<!ENTITY radioAskState.label "Dumandar suenter il status">
+<!ENTITY radioAskState.label "Dumandar mai per il status">
 <!ENTITY radioAskState.accesskey "d">
 <!ENTITY radioAlwaysOnlineState.label "Online">
 <!ENTITY radioAlwaysOnlineState.accesskey "l">
