@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY systemIntegration.title  "Integração de sistemas">
-<!ENTITY acceptIntegration.label  "Definir como pré-definido">
+<!ENTITY acceptIntegration.label  "Utilizar como pré-definido">
 <!ENTITY cancelIntegration.label  "Ignorar integração">
 <!ENTITY cancelIntegration2.label  "Cancelar">
 <!ENTITY defaultClient.intro  "Utilizar o &brandShortName; como aplicação pré-definida para:">

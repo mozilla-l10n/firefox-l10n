@@ -4,7 +4,7 @@
 <!-- extracted from AccountManager.xul -->
 
 
-<!ENTITY accountManagerTitle.label "Definições da Conta">
+<!ENTITY accountManagerTitle.label "Definições da conta">
 
 <!ENTITY accountActionsButton.label "Ações da conta">
 <!ENTITY accountActionsButton.accesskey "A">
