@@ -603,12 +603,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fullZoomReduceCmd.label        "Súmáil Amach">
 <!ENTITY fullZoomReduceCmd.accesskey    "A">
 <!ENTITY fullZoomReduceCmd.commandkey   "-">
-<!ENTITY fullZoomReduceCmd.commandkey2  "Taispeáin an Liosta Léitheoireachta i mBarra Taoibh">
+<!ENTITY fullZoomReduceCmd.commandkey2  "">
 
 <!ENTITY fullZoomResetCmd.label         "Athshocraigh">
 <!ENTITY fullZoomResetCmd.accesskey     "r">
 <!ENTITY fullZoomResetCmd.commandkey    "0">
-<!ENTITY fullZoomResetCmd.commandkey2   "Cuir altanna le do Liosta Léitheoireachta chun iad a shábháil agus chun teacht orthu ar ball gan stró.">
+<!ENTITY fullZoomResetCmd.commandkey2   "">
 
 <!ENTITY fullZoomToggleCmd.label        "Súmáil Téacs Amháin">
 <!ENTITY fullZoomToggleCmd.accesskey    "T">
