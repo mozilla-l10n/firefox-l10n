@@ -456,7 +456,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewPartialSourceForMathMLCmd.label    "اعرض مصدر MathML">
 <!-- LOCALIZATION NOTE (viewPartialSourceCmd.accesskey): This accesskey is used for both 
          viewPartialSourceForSelectionCmd.label and viewPartialSourceForMathMLCmd.label -->
-<!ENTITY viewPartialSourceCmd.accesskey "e">
+<!ENTITY viewPartialSourceCmd.accesskey "ص">
 <!ENTITY viewPageSourceCmd.label      "اعرض مصدر هذه الصفحة">
 <!ENTITY viewPageSourceCmd.accesskey  "ص">
 <!ENTITY viewFrameSourceCmd.label     "اعرض مصدر الإطار">
