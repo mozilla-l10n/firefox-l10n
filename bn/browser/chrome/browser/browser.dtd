@@ -21,8 +21,8 @@
 
 <!ENTITY  reloadTab.label                    "ট্যাব পুনরায় লোড R">
 <!ENTITY  reloadTab.accesskey                "R">
-<!ENTITY  reloadAllTabs.label                "সব ট্যাব পুনরায় লোড A">
-<!ENTITY  reloadAllTabs.accesskey            "A">
+
+
 <!-- LOCALIZATION NOTE (closeTabsToTheEnd.label): This should indicate the
 direction in which tabs are closed, i.e. locales that use RTL mode should say
 left instead of right. -->
@@ -45,10 +45,10 @@ can reach it easily. -->
 <!ENTITY  moveToNewGroup.label               "নতুন গ্রুপ">
 <!ENTITY  moveToNewWindow.label              "নতুন উইন্ডোতে স্থানান্তর W">
 <!ENTITY  moveToNewWindow.accesskey          "W">
-<!ENTITY  bookmarkAllTabs.label              "সব ট্যাব বুকমার্ক করা… (T)">
-<!ENTITY  bookmarkAllTabs.accesskey          "T">
-<!ENTITY  undoCloseTab.label                 "ট্যাব বন্ধ করা থেকে পূর্বাবস্থায় ফিরে যাওয়া U">
-<!ENTITY  undoCloseTab.accesskey             "U">
+
+
+
+
 <!ENTITY  closeTab.label                     "ট্যাব বন্ধ (C)">
 <!ENTITY  closeTab.accesskey                 "C">
 
@@ -57,6 +57,9 @@ can reach it easily. -->
 <!ENTITY tabCmd.label "নতুন ট্যাব (T)">
 <!ENTITY tabCmd.accesskey "T">
 <!ENTITY tabCmd.commandkey "t">
+<!-- LOCALIZATION NOTE (openLocationCmd.label): "Open Location" is only
+displayed on OS X, and only on windows that aren't main browser windows, or
+when there are no windows but Firefox is still running. -->
 <!ENTITY openFileCmd.label "ফাইল খুলুন… (O)">
 <!ENTITY openFileCmd.accesskey "O">
 <!ENTITY openFileCmd.commandkey "o">
@@ -78,12 +81,20 @@ can reach it easily. -->
 <!ENTITY personalbarCmd.accesskey "B">
 <!ENTITY bookmarksToolbarItem.label "বুকমার্ক টুলবারের আইটেম">
 
+
+
+
+
+
+
 <!ENTITY pageSourceCmd.label "পৃষ্ঠার সোর্স (o)">
 <!ENTITY pageSourceCmd.accesskey "o">
 <!ENTITY pageSourceCmd.commandkey "u">
 <!ENTITY pageInfoCmd.label "পৃষ্ঠা সংক্রান্ত তথ্য (I)">
 <!ENTITY pageInfoCmd.accesskey "I">
 <!ENTITY pageInfoCmd.commandkey "i">
+
+
 <!-- LOCALIZATION NOTE (enterFullScreenCmd.label, exitFullScreenCmd.label):
 These should match what Safari and other Apple applications use on OS X Lion. -->
 <!ENTITY enterFullScreenCmd.label "পূর্ণ পর্দাজুড়ে প্রদর্শন F">
@@ -125,21 +136,24 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY bookmarksMenu.label "বুকমার্ক B">
 <!ENTITY bookmarksMenu.accesskey "B">
-<!ENTITY bookmarkThisPageCmd.label "এই পৃষ্ঠা বুকমার্ক করা হবে">
+
 <!ENTITY editThisBookmarkCmd.label "বুকমার্ক সম্পাদনা">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
 <!ENTITY markPageCmd.commandkey "l">
+<!-- LOCALIZATION NOTE (findShareServices.label):
+  -  Use the unicode ellipsis char, \u2026,
+  -  or use "..." if \u2026 doesn't suit traditions in your locale. -->
 <!ENTITY sharePageCmd.label "এই পৃষ্ঠা শেয়ার করুন s">
 <!ENTITY sharePageCmd.commandkey "S">
 <!ENTITY sharePageCmd.accesskey "s">
-<!ENTITY shareLinkCmd.label "এই লিংক শেয়ার করুন s">
-<!ENTITY shareLinkCmd.accesskey "s">
-<!ENTITY shareImageCmd.label "এই ছবি শেয়ার করুন s">
-<!ENTITY shareImageCmd.accesskey "s">
-<!ENTITY shareSelectCmd.label "নির্বাচিত অংশ শেয়ার করুন S">
-<!ENTITY shareSelectCmd.accesskey "S">
-<!ENTITY shareVideoCmd.label "এই ভিডিওটি শেয়ার করুন s">
-<!ENTITY shareVideoCmd.accesskey "s">
+<!-- LOCALIZATION NOTE (shareLink.accesskey): must be different than the following share access keys -->
+
+
+
+
+
+
+
 
 <!ENTITY subscribeToPageMenupopup.label "এই পৃষ্ঠায় সাবস্ক্রাইব করা হবে">
 <!ENTITY subscribeToPageMenuitem.label "এই পৃষ্ঠায় সাবস্ক্রাইব করা হবে…">
@@ -148,19 +162,14 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY unsortedBookmarksCmd.label "অবিন্যস্ত বুকমার্ক">
 <!ENTITY bookmarksToolbarChevron.tooltip "আরও বুকমার্ক প্রদর্শন">
 
-<!ENTITY backCmd.label                "পূর্ববর্তী (B)">
-<!ENTITY backCmd.accesskey            "B">
 <!ENTITY backButton.tooltip           "পূর্ববর্তী পৃষ্ঠায় ফিরে যান">
-<!ENTITY forwardCmd.label             "পরবর্তী (F)">
-<!ENTITY forwardCmd.accesskey         "F">
+
 <!ENTITY forwardButton.tooltip        "পরবর্তী পৃষ্ঠায় এগিয়ে যান">
 <!ENTITY backForwardButtonMenu.tooltip "ইতিহাস প্রদর্শনের জন্য ডান বাটন ক্লিক করুন অথবা নীচে টেনে আনুন">
 <!ENTITY backForwardButtonMenuMac.tooltip "ইতিহাস দেখতে নীচে টেনে আনুন">
-<!ENTITY reloadCmd.label              "পুনরায় লোড (R)">
-<!ENTITY reloadCmd.accesskey          "R">
+
 <!ENTITY reloadButton.tooltip         "বর্তমান পৃষ্ঠা পুনরায় লোড">
-<!ENTITY stopCmd.label                "স্থগিত (S)">
-<!ENTITY stopCmd.accesskey            "S">
+
 <!ENTITY stopCmd.macCommandKey        ".">
 <!ENTITY stopButton.tooltip           "পৃষ্ঠা লোড করা স্থগিত করা হবে">
 <!ENTITY goEndCap.tooltip             "ঠিকানার বারে উল্লেখিত পৃষ্ঠা প্রদর্শন করা হবে">
@@ -199,13 +208,14 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY keywordfield.accesskey       "K">
 
 <!ENTITY downloads.label              "ডাউনলোড (D)">
-<!ENTITY downloads.tooltip            "ডাউনলোডের অগ্রগতি প্রদর্শন">
 <!ENTITY downloads.accesskey          "D">
 <!ENTITY downloads.commandkey         "j">
 <!ENTITY downloadsUnix.commandkey     "y">
 <!ENTITY addons.label                 "অ্যাড-অন (A)">
 <!ENTITY addons.accesskey             "A">
 <!ENTITY addons.commandkey            "A">
+
+
 
 <!ENTITY webDeveloperMenu.label       "ওয়েব ডেভেলপার W">
 <!ENTITY webDeveloperMenu.accesskey   "W">
@@ -230,7 +240,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY responsiveDesignTool.label   "রেসপনসিভ ডিজাইন প্রদর্শন R">
 <!ENTITY responsiveDesignTool.accesskey "R">
-<!ENTITY responsiveDesignTool.commandkey "M">
+
 
 
 <!-- LOCALIZATION NOTE (scratchpad.label): This menu item label appears
@@ -254,11 +264,19 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY browserToolboxMenu.label     "ব্রাউজার টুলবক্স e">
 <!ENTITY browserToolboxMenu.accesskey "e">
 
+<!-- LOCALIZATION NOTE (browserContentToolboxMenu.label): This is the label for the
+  -  application menu item that opens the browser content toolbox UI in the Tools menu.
+  -  This toolbox allows to debug the chrome of the content process in multiprocess builds.  -->
+
 <!ENTITY devToolbarCloseButton.tooltiptext "ডেভেলপার টুলবার বন্ধ করুন">
 <!ENTITY devToolbarMenu.label              "ডেভেলপার টুলবার v">
 <!ENTITY devToolbarMenu.accesskey          "v">
 
 
+
+
+
+<!ENTITY webide.keytext                    "F8">
 <!ENTITY devToolbar.keycode                "VK_F2">
 <!ENTITY devToolbar.keytext                "F2">
 <!ENTITY devToolboxMenuItem.label          "ট্যোগল টুল T">
@@ -391,6 +409,24 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY searchFocus.commandkey       "k">
 <!ENTITY searchFocus.commandkey2      "e">
 <!ENTITY searchFocusUnix.commandkey   "j">
+<!-- LOCALIZATION NOTE (searchFor.label, searchWith.label):
+     These two strings are used to build the header above the list of one-click
+     search providers:  "Search for <used typed keywords> with:" -->
+
+<!-- LOCALIZATION NOTE (search.label, searchAfter.label):
+     This string is used to build the header above the list of one-click search
+     providers when a one off engine has been selected.  The searchAfter text is
+     intentionally left empty for en-US and can be used by other localizations to
+     display a string after the search engine name.  This string will be displayed
+     as:  "Search <selected engine name><searchAfter.label text>" -->
+<!ENTITY searchAfter.label            "">
+<!-- LOCALIZATION NOTE (searchWithHeader.label):
+     The wording of this string should be as close as possible to
+     searchFor.label and searchWith.label. This string will be used instead of
+     them when the user has not typed any keyword. -->
+<!-- LOCALIZATION NOTE (changeSearchSettings.button):
+     This string won't wrap, so if the translated string is longer,
+     consider translating it as if it said only "Search Settings". -->
 
 <!ENTITY tabView.commandkey           "e">
 
@@ -438,8 +474,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewBGImageCmd.accesskey     "w">
 <!ENTITY setDesktopBackgroundCmd.label      "ডেস্কটপের পটভূমি হিসেবে নির্ধারণ… (S)">
 <!ENTITY setDesktopBackgroundCmd.accesskey  "S">
-<!ENTITY bookmarkPageCmd2.label       "এই পৃষ্ঠা বুকমার্ক করা হবে (m)">
-<!ENTITY bookmarkPageCmd2.accesskey   "m">
+
 <!ENTITY bookmarkThisLinkCmd.label      "এই লিংক বুকমার্ক করা হবে (L)">
 <!ENTITY bookmarkThisLinkCmd.accesskey  "L">
 <!ENTITY bookmarkThisFrameCmd.label      "এই ফ্রেম বুকমার্ক করা হবে (m)">
@@ -467,6 +502,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY emailImageCmd.accesskey      "g">
 <!ENTITY emailVideoCmd.label          "ভিডিও ইমেইল করুন... a">
 <!ENTITY emailVideoCmd.accesskey      "a">
+
+
 
 
 <!ENTITY playPluginCmd.label          "এই প্লাগইনটি সচল করুন c">
@@ -563,20 +600,16 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fullZoom.label                 "বড় আকারে প্রদর্শন (Z)">
 <!ENTITY fullZoom.accesskey             "Z">
 
-<!ENTITY newTabButton.tooltip           "নতুন ট্যাব খোলা হবে">
-<!ENTITY newWindowButton.tooltip        "নতুন উইন্ডো খোলা হবে">
 <!ENTITY sidebarCloseButton.tooltip     "সাইডবার বন্ধ করুন">
 
-<!ENTITY fullScreenButton.tooltip       "পূর্ণ পর্দায় উইন্ডো প্রদর্শন">
+<!ENTITY quitApplicationCmdWin2.label       "প্রস্থান (x)">
+<!ENTITY quitApplicationCmdWin2.accesskey   "x">
 
-<!ENTITY quitApplicationCmdWin.label       "প্রস্থান (x)"> 
-<!ENTITY quitApplicationCmdWin.accesskey   "x">
-<!ENTITY quitApplicationCmdWin.tooltip     "&brandShortName; থেকে প্রস্থান">
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY goForwardCmd.commandKey "]">
 <!ENTITY quitApplicationCmd.label       "প্রস্থান (Q)"> 
 <!ENTITY quitApplicationCmd.accesskey   "Q">
-<!ENTITY quitApplicationCmdMac.label    "&brandShortName; থেকে প্রস্থান">
+
 <!-- LOCALIZATION NOTE(quitApplicationCmdUnix.key): This keyboard shortcut is used by both Linux and OSX builds. -->
 <!ENTITY quitApplicationCmdUnix.key     "Q">
 
@@ -687,12 +720,22 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 
 
+
+
+
 <!ENTITY customizeMode.tabTitle "&brandShortName; স্বনির্ধারণ করুন">
 <!ENTITY customizeMode.menuAndToolbars.header2 "অতিরিক্ত টুল এবং ফিচার">
 <!ENTITY customizeMode.menuAndToolbars.empty "আরো টুলস চান?">
 <!ENTITY customizeMode.menuAndToolbars.emptyLink "হাজারেরও বেশি অ্যাড-অন থেকে পছন্দ করুন">
 
 <!ENTITY customizeMode.toolbars "টুলবার প্রদর্শন / লুকান">
+
+
+
+
+<!ENTITY customizeMode.lwthemes.menuManage "ব্যবস্থাপনা">
+
+
 
 
 <!ENTITY social.chatBar.commandkey "c">
@@ -709,10 +752,26 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY getUserMedia.selectMicrophone.label "যেসকল মাইক্রোফোন শেয়ার করা হবে: M">
 <!ENTITY getUserMedia.selectMicrophone.accesskey "M">
 
-<!ENTITY webrtcIndicatorButton.label "ক্যামেরা / মাইক্রোফোনে প্রবেশাধিকার">
-<!ENTITY webrtcIndicatorButton.tooltip "ক্যামেরা অথবা মাইক্রোফোন বর্তমানে যে সাইটগুলোর সাথে শেয়ার করছেন সেগুলো প্রদর্শন করুন">
+<!-- Bad Content Blocker Doorhanger Notification -->
 
-<!ENTITY mixedContentBlocked.moreinfo "এই বিষয়বস্তু ব্লককৃত থাকা সত্বেও অধিকাংশ ওয়েবসাইট সঠিকভাবে কাজ করবে।">
+
+
+
+
+
+
+
+
+
+<!ENTITY trackingContentBlocked.message "অনুসরণ">
+
+
+
+
+
+
+
+
 
 <!ENTITY pointerLock.notification.message "যেকোনো সময়ে এটিকে আবার দেখতে ESC চাপুন।">
 
@@ -731,14 +790,48 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY pluginNotification.width "36em">
 
-<!ENTITY tabCrashed.header "ট্যাব ক্র্যাশ করেছে">
-<!ENTITY tabCrashed.message "ঘটনাটি দুর্ভাগ্যজনক। আমরা ওয়েব পৃষ্ঠাটি দেখানোর চেষ্টা করেছি, কিন্তু এটি সাড়া দিচ্ছেনা।">
-<!ENTITY tabCrashed.checkSendReport "&vendorShortName; কে এই ক্রাশ সম্পর্কে জানান যেন তারা এটি ঠিক করতে পারে।">
-<!ENTITY tabCrashed.tryAgain "পুনরায় চেষ্টা করুন">
-
 <!ENTITY uiTour.infoPanel.close "বন্ধ">
 
 <!ENTITY appMenuSidebars.label         "সাইডবার">
+<!-- LOCALIZATION NOTE: (panicButton.view.mainTimeframeDesc, panicButton.view.5min, panicButton.view.2hr, panicButton.view.day):
+     The .mainTimeframeDesc string combined with any of the 3 others is meant to form a complete sentence, e.g. "Forget the last: Five minutes".
+     Please ensure that this remains the case in the translation. -->
 
-<!ENTITY switchToMetroCmd2.label       "উইন্ডোজ ৮ টাচ এর জন্য &brandShortName; পুনরায় চালু করুন">
+
+
+<!-- LOCALIZATION NOTE: (panicButton.view.mainLabel, panicButton.view.deleteCookies, panicButton.view.deleteHistory, panicButton.view.deleteTabsAndWindows, panicButton.view.openNewWindow):
+     The .mainActionDesc string combined with any of the 4 others is meant to form a complete sentence, e.g. "Proceeding will: Delete Recent Cookies".
+     Note also that the deleteCookies, deleteHistory and deleteTabsAndWindows strings include <html:strong> tags for emphasis on the words "Cookies", "History", "Tabs" and "Windows".
+     The translation should do the same. -->
+
+
+
+
+
+<!ENTITY panicButton.view.undoWarning             "এই পরিবর্তনটি অপরিবর্তনীয়!">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- Pre-landed string for bug 1124153 -->
+<!-- Pre-landed string for bug 1133662 -->
+
+<!-- Pre-landed strings for bug 1123519 -->
 

@@ -10,8 +10,8 @@
 
 <!ENTITY update.checkForUpdatesButton.label       "হালনাগাদ যাচাই C">
 <!ENTITY update.checkForUpdatesButton.accesskey   "C">
-<!ENTITY update.updateButton.label                "হালনাগাদ করার জন্য পুনরায় চালু করা হবে R">
-<!ENTITY update.updateButton.accesskey            "R">
+
+
 <!ENTITY update.applyButtonBillboard.label        "হালানাগাদ প্রয়োগ… A">
 <!ENTITY update.applyButtonBillboard.accesskey    "A">
 <!-- LOCALIZATION NOTE (warningDesc.version): This is a warning about the experimental nature of Nightly and Aurora builds. It is only shown in those versions. -->
@@ -36,12 +36,13 @@
 <!ENTITY community.middle2          ", a ">
 <!-- LOCALIZATION NOTE (community.creditsLink): This is a link title that links to about:credits. -->
 <!ENTITY community.creditsLink      "আন্তর্জাতিক সম্প্রদায়">
-<!ENTITY community.end3             "ওয়েব উন্মুক্ত রাখা এবং সকলের প্রবেশ যোগ্যতার জন্য একসাথে কাজ করছি।">
+<!ENTITY community.end3             " যারা ওয়েব কে মুক্ত, সার্বজনীন ও প্রবেশযোগ্য রাখতে, একসাথে কাজ করে যাচ্ছে।">
 
-<!ENTITY contribute.start           "আকর্ষণীয় মনে হচ্ছে? ">
-<!-- LOCALIZATION NOTE (contribute.getInvolvedLink): This is a link title that links to http://www.mozilla.org/contribute/. -->
-<!ENTITY contribute.getInvolvedLink "এখনই যোগ দিন!">
-<!ENTITY contribute.end             "">
+<!-- LOCALIZATION NOTE (helpus.donateLink): This is a link title that links to https://sendto.mozilla.org/page/contribute/Give-Now?source=mozillaorg_default_footer&ref=firefox_about&utm_campaign=firefox_about&utm_source=firefox&utm_medium=referral&utm_content=20140929_FireFoxAbout. -->
+<!ENTITY helpus.middle              ", বা ">
+<!-- LOCALIZATION NOTE (helpus.getInvolvedLink): This is a link title that links to http://www.mozilla.org/contribute/. -->
+<!ENTITY helpus.getInvolvedLink     "এখনই যোগ দিন!">
+<!ENTITY helpus.end                 "">
 <!-- LOCALIZATION NOTE (bottomLinks.license): This is a link title that links to about:license. -->
 
 <!ENTITY bottomLinks.license        "লাইসেন্স এর তথ্য">
