@@ -30,3 +30,13 @@
 <!ENTITY chooseFolderMac.accesskey    "e">
 <!ENTITY alwaysAsk.label "ফাইল সংরক্ষণের স্থান সবসময় জিজ্ঞেস করা হবে A">
 <!ENTITY alwaysAsk.accesskey "A">
+
+
+
+
+<!ENTITY isDefault.label                  "&brandShortName; আপনার বর্তমান পূর্বনির্ধারিত ব্রাউজার">
+
+
+
+
+

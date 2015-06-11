@@ -22,11 +22,9 @@
 <!ENTITY  generalReferrer       "নির্দেশকারী URL:">
 <!ENTITY  generalSource         "ক্যাশের উৎস:">
 <!ENTITY  generalModified       "পরিবর্তিত:">
-<!ENTITY  generalEncoding       "এনকোডিং:">
+
 <!ENTITY  generalMetaName       "নাম">
 <!ENTITY  generalMetaContent    "বিষয়বস্তু">
-<!ENTITY  generalSecurityDetails   "বিবরণ (D)">
-<!ENTITY  generalSecurityDetails.accesskey "D">
 
 <!ENTITY  mediaTab              "মিডিয়া (M)">
 <!ENTITY  mediaTab.accesskey    "M">
@@ -65,7 +63,6 @@
 
 <!ENTITY  securityTab           "নিরাপত্তা (S)">
 <!ENTITY  securityTab.accesskey "S">
-<!ENTITY  securityHeader        "এই পৃষ্ঠার নিরাপত্তা সংক্রান্ত তথ্য">
 <!ENTITY  securityView.certView "সার্টিফিকেট প্রদর্শন ">
 <!ENTITY  securityView.accesskey "V">
 <!ENTITY  securityView.unknown   "অজানা">
@@ -85,3 +82,5 @@
 <!ENTITY  securityView.privacy.viewPasswords.accessKey  "w">
 
 <!ENTITY  securityView.technical.header                 "প্রযুক্তিগত বিবরণ">
+
+<!ENTITY  helpButton.label                              "সাহায্য">

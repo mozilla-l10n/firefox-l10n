@@ -2,25 +2,13 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY privatebrowsingpage.title                 "একান্ত ব্রাউজিং">
-<!ENTITY privatebrowsingpage.title.normal          "আপনি কি একান্ত ব্রাউজিং শুরু করতে চান?">
 
-<!ENTITY privatebrowsingpage.perwindow.issueDesc        "&brandShortName; এই উইন্ডোর কোনো ইতিহাস মনে রাখবে না।">
-<!ENTITY privatebrowsingpage.perwindow.issueDesc.normal "আপনি বর্তমানে কোনো ব্যক্তিগত উইন্ডোতে নেই।">
+<!ENTITY aboutPrivateBrowsing.subtitle         "&brandShortName; এই উইন্ডোর কোনো ইতিহাস মনে রাখবে না।">
 
-<!ENTITY privatebrowsingpage.perwindow.description     "একান্ত ব্রাউজিং উইন্ডোতে, &brandShortName; কোন ব্রাউজ ইতিহাস, অনুসন্ধান ইতিহাস, ডাউনলোড ইতিহাস, ওয়েব ফরম ইতিহাস, কুকি, বা অস্থায়ী ইন্টারনেট ফাইল সংরক্ষণ করবে না।  তবে, আপনি যে সমস্ত ফাইল ডাউনলোড করবেন বা যে বুকমার্কগুলো তৈরী করবেন তা সংরক্ষণ করবে।">
+
+
+
+
 
 <!ENTITY privatebrowsingpage.openPrivateWindow.label "একটি ব্যক্তিগত উইন্ডো খুলুন P">
 <!ENTITY privatebrowsingpage.openPrivateWindow.accesskey "P">
-<!-- LOCALIZATION NOTE (privatebrowsingpage.howToStart4): please leave &newPrivateWindow.label; intact in the translation -->
-
-<!ENTITY privatebrowsingpage.howToStart4               "একান্ত ব্রাউজিং শুরু করতে, আপনি মেনু থেকে &newPrivateWindow.label; নির্বাচন করতে পারেন।">
-<!ENTITY privatebrowsingpage.howToStop3                "প্রাইভেট ব্রাউজিং বন্ধ করতে আপনি এই উইন্ডোটি বন্ধ করতে পারেন।">
-
-<!ENTITY privatebrowsingpage.moreInfo                  "যদিও এই কম্পিউটারে আপনার ব্রাউজিং ইতিহাসের কোন রেকর্ড থাকবে না,  আপনার ইন্টারনেট সেবা প্রদানকারী বা আপনার কর্মকর্তাগন আপনার পরিদর্শিত পাতাগুলো অবলোকন করতে পারে।">
-<!ENTITY privatebrowsingpage.learnMore                 "আরও জানুন">
-<!-- TO BE REMOVED POST-AUSTRALIS --> 
-<!-- LOCALIZATION NOTE (privatebrowsingpage.howToStart3): please leave &basePBMenu.label; intact in the translation -->
-
-
-<!ENTITY privatebrowsingpage.howToStart3               "একান্ত ব্রাউজিং আরম্ভ করতে, &basePBMenu.label; &gt; &newPrivateWindow.label; নির্বাচন করতে পারেন।">

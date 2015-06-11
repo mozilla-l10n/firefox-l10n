@@ -73,7 +73,14 @@
 <!ENTITY btnConsoleInfo         "তথ্য">
 <!ENTITY btnConsoleWarnings     "সতর্কবার্তা">
 <!ENTITY btnConsoleLog          "লগ">
+<!ENTITY btnConsoleXhr          "XHR">
 
+<!-- LOCALIZATION NODE (btnConsoleSharedWorkers) the term "Shared Workers"
+  -  should not be translated. -->
+<!-- LOCALIZATION NODE (btnConsoleServiceWorkers) the term "Service Workers"
+  -  should not be translated. -->
+<!-- LOCALIZATION NODE (btnConsoleWindowlessWorkers) the term "Workers"
+  -  should not be translated. -->
 
 <!ENTITY filterOutput.placeholder "ফিল্টার আউটপুট">
 <!ENTITY btnClear.label        "মুছে ফেলুন r">

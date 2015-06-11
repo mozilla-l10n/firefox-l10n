@@ -34,9 +34,9 @@ This is likely the same like id.heading in crashes.dtd. -->
 <!ENTITY aboutSupport.appBasicsTitle "অ্যাপ্লিকেশনের প্রাথমিক তথ্য">
 <!ENTITY aboutSupport.appBasicsName "নাম">
 <!ENTITY aboutSupport.appBasicsVersion "সংস্করণ">
-<!-- LOCALIZATION NOTE (aboutSupport.appBasicsUpdateHistory, aboutSupport.appBasicsShowUpdateHistory):
-"Update" is a noun here, not a verb. -->
 
+<!-- LOCALIZATION NOTE (aboutSupport.appBasicsUpdateChannel, aboutSupport.appBasicsUpdateHistory, aboutSupport.appBasicsShowUpdateHistory):
+"Update" is a noun here, not a verb. -->
 <!ENTITY aboutSupport.appBasicsUpdateHistory "হালনাগাদের ইতিহাস">
 <!ENTITY aboutSupport.appBasicsShowUpdateHistory "হালনাগাদের ইতিহাস প্রদর্শন">
 
@@ -50,6 +50,8 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 <!ENTITY aboutSupport.appBasicsBuildConfig "বিল্ড কনফিগারেশন">
 <!ENTITY aboutSupport.appBasicsUserAgent "ব্যবহারকারী এজেন্ট">
 <!ENTITY aboutSupport.appBasicsMemoryUse "মেমোরির ব্যবহার">
+<!-- LOCALIZATION NOTE the term "Service Workers" should not be translated. -->
+
 
 <!ENTITY aboutSupport.showDir.label "ডিরেক্টরি খুলুন">
 <!-- LOCALIZATION NOTE (aboutSupport.showMac.label): This is the Mac-specific
@@ -62,11 +64,14 @@ variant of aboutSupport.showDir.label. -->
 
 <!ENTITY aboutSupport.modifiedKeyPrefsTitle "গুরুত্বপূর্ণ পরিমিত পছন্দ সমূহ">
 <!ENTITY aboutSupport.modifiedPrefsName "নাম">
-<!ENTITY aboutSupport.modifiedPrefsValue "মান">
+
 <!-- LOCALIZATION NOTE (aboutSupport.userJSTitle, aboutSupport.userJSDescription): user.js is the name of the preference override file being checked. -->
 
 <!ENTITY aboutSupport.userJSTitle "user.js পছন্দসমূহ">
 <!ENTITY aboutSupport.userJSDescription "আপনার প্রোফাইল ফোল্ডারে একটি <a id='prefs-user-js-link'> user.js ফাইল রয়েছে</a>, যাতে &brandShortName; কর্তৃক তৈরিকৃত নয় এমন পছন্দসমূহ অর্ন্তভূক্ত।">
+
+
+
 
 <!ENTITY aboutSupport.graphicsTitle "গ্রাফিক্স">
 
@@ -84,3 +89,6 @@ variant of aboutSupport.showDir.label. -->
 
 <!ENTITY aboutSupport.copyTextToClipboard.label "ক্লিপবোর্ডে সব অনুলিপি করুন">
 <!ENTITY aboutSupport.copyRawDataToClipboard.label "ক্লিপবোর্ডে অবিন্যস্ত ডাটা অনুলিপি করুন">
+
+
+

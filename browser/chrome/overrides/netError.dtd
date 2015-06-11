@@ -100,10 +100,7 @@
 </ul>">
 
 <!ENTITY nssFailure2.title "নিরাপদ সংযোগ স্থাপন করতে ব্যর্থ">
-<!ENTITY nssFailure2.longDesc "<ul> 
-<li>প্রাপ্ত তথ্যের সত্যতা যাচাই করতে না পারায় পৃষ্ঠাটি দেখানো সম্ভব হয়নি।</li> 
-<li>অনুগ্রহ করে এই সমস্যা সম্পর্কে ওয়েবসাইট নির্মাতাদের অবগত করুন। অথবা, সহায়তা মেনু থেকে এই সাইট সম্পর্কে রিপোর্ট করুন।</li> 
-</ul>">
+
 
 <!ENTITY nssBadCert.title "নিরাপদ সংযোগ স্থাপন করতে ব্যর্থ">
 <!ENTITY nssBadCert.longDesc2 "<ul> 
@@ -123,12 +120,14 @@
 <!ENTITY malwareBlocked.longDesc "<p>আক্রমণকারী সাইটগুলো আপনার সিস্টেমে এমন প্রোগ্রাম ইনস্টল করার চেষ্টা করে যা ব্যক্তিগত তথ্য চুরি করে, বা এই কম্পিউটার থেকে অন্যদের উপর আক্রমণ চালায় বা সিস্টেমের অন্যান্য ক্ষতি সাধন করে।</p> 
 <p>কোনো ওয়েবসাইট যদি ভুলবশত আক্রমণকারী সাইট হিসাবে চিহ্নিত হয়ে থাকে, তাহলে সংশ্লিষ্ট সাইটের কতৃপক্ষগণ <a href='http://www.stopbadware.org/home/reviewinfo' > এ গিয়ে তা পুনরায় যাচাইয়ের অনুরোধ জানাতে পারেন</a>।</p>">
 
+
+
 <!ENTITY phishingBlocked.title "সম্ভাব্য ওয়েব জালিয়াতি!">
 <!ENTITY phishingBlocked.longDesc "<p>এই পৃষ্ঠায় ব্যক্তিগত তথ্য দিয়ে থাকলে আপনি পরিচয় প্রতারণা বা অন্যান্য প্রতারণার শিকার হতে পারেন।</p> 
 <p>এসব ওয়েব জালিয়াতি ফিশিং নামে পরিচিত। জাল ওয়েবসাইটগুলো, পরিচিত ও বিশ্বাসযোগ্য সাইট ও ইমেইল নকল করে আপনার কাছ থেকে  ব্যক্তিগত ও অর্থ সংক্রান্ত তথ্য বের করে নেয়।</p>">
 
-<!ENTITY cspFrameAncestorBlocked.title "বিষয়বস্তুর নিরাপত্তা নীতিমালা দ্বারা ব্লক">
-<!ENTITY cspFrameAncestorBlocked.longDesc "<p>এভাবে পৃষ্ঠা লোড করতে &brandShortName; বাধা দেয় কারণ এ পৃষ্ঠার বিষয়বস্তুর নিরাপত্তা নীতিমালা এটা করতে অনুমোদন দেয় না।</p>">
+<!ENTITY cspBlocked.title "বিষয়বস্তুর নিরাপত্তা নীতিমালা দ্বারা ব্লক">
+<!ENTITY cspBlocked.longDesc "<p>এভাবে পৃষ্ঠা লোড করতে &brandShortName; বাধা দেয় কারণ এ পৃষ্ঠার বিষয়বস্তুর নিরাপত্তা নীতিমালা এটা করতে অনুমোদন দেয় না।</p>">
 
 <!ENTITY corruptedContentError.title "ক্ষতিগ্রস্ত বিষয়বস্তুর ত্রুটি">
 <!ENTITY corruptedContentError.longDesc "<p>প্রাপ্ত তথ্যের যথার্থতা পরীক্ষা করা সম্ভব না হওয়ার ফলে পৃষ্ঠাটি প্রদর্শন করা সম্ভব হয়নি।</p><ul><li>অনুগ্রহ করে এই সমস্যা সম্পর্কে ওয়েব-সাইট নির্মাতাদের অবগত করুন।</li></ul>">
@@ -148,5 +147,17 @@ functionality specific to firefox. -->
 <button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button> 
 <button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>">
 
+
+
+<!ENTITY errorReporting.learnMore "আরও জানুন…">
+
+
+
+
+
 <!ENTITY remoteXUL.title "রিমোট XUL">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>এই সমস্যাটি সম্পর্কে অনুগ্রহ করে ওয়েবসাইটের মালিককে জানান।</li></ul></p>">
+
+<!-- LOCALIZATION NOTE (sslv3Used.longDesc) - Do not translate
+     "ssl_error_unsupported_version". -->
+
