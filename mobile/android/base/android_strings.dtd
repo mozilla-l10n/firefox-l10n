@@ -16,7 +16,7 @@
 <!ENTITY  bookmarks_title "Закладки">
 <!ENTITY  history_title "Історія">
 <!ENTITY  reading_list_title "Список читання">
-<!ENTITY  recent_tabs_title "Нещодавні вкладки">
+<!ENTITY  recent_tabs_title "Недавні вкладки">
 
 <!ENTITY  switch_to_tab "Перейти у вкладку">
 
@@ -209,7 +209,7 @@
 <!ENTITY pref_char_encoding "Кодування символів">
 <!ENTITY pref_char_encoding_on "Показувати меню">
 <!ENTITY pref_char_encoding_off "Не показувати меню">
-<!ENTITY pref_clear_private_data2 "Очистити зараз">
+<!ENTITY pref_clear_private_data2 "Стерти зараз">
 <!ENTITY pref_clear_private_data_category "Стерти приватні дані">
 <!ENTITY pref_clear_on_exit_title2 "Стирати при виході">
 <!ENTITY pref_clear_on_exit_summary2 "&brandShortName; буде завжди автоматично стирати ваші дані при виборі \u0022Вихід\u0022 у головному меню">
@@ -406,7 +406,7 @@ size. -->
      dialog that appears after selecting the "Edit Site Settings" context menu item. -->
 <!ENTITY site_settings_title3       "Налаштування сайта">
 <!ENTITY site_settings_cancel       "Скасувати">
-<!ENTITY site_settings_clear        "Очистити">
+<!ENTITY site_settings_clear        "Стерти">
 <!ENTITY site_settings_no_settings  "Нічого очищати.">
 
 <!ENTITY reading_list_added "Сторінку додано до списку читання">
@@ -435,9 +435,9 @@ size. -->
 <!ENTITY button_cancel "Скасувати">
 <!ENTITY button_yes "Так">
 <!ENTITY button_no "Ні">
-<!ENTITY button_clear_data "Очистити дані">
+<!ENTITY button_clear_data "Стерти дані">
 <!ENTITY button_set "Встановити">
-<!ENTITY button_clear "Очистити">
+<!ENTITY button_clear "Стерти">
 <!ENTITY button_remember "Запам’ятати">
 
 <!ENTITY firstrun_panel_title_welcome "Вітаємо">
@@ -451,14 +451,14 @@ size. -->
      with the page title defined in aboutHome.dtd -->
 <!ENTITY home_title "Початкова &brandShortName;">
 <!ENTITY home_history_title "Історія">
-<!ENTITY home_clear_history_button "Очистити історію перегляду">
-<!ENTITY home_clear_history_confirm "Ви впевнені, що хочете очистити свою історію?">
+<!ENTITY home_clear_history_button "Стерти історію перегляду">
+<!ENTITY home_clear_history_confirm "Ви впевнені, що хочете стерти свою історію?">
 <!ENTITY home_bookmarks_empty "Ваші закладки будуть тут.">
-<!ENTITY home_closed_tabs_title "Нещодавно закриті вкладки">
+<!ENTITY home_closed_tabs_title "Недавно закриті вкладки">
 <!ENTITY home_last_tabs_title "Вкладки з минулого разу">
-<!ENTITY home_last_tabs_empty "Ваші нещодавні вкладки будуть тут.">
+<!ENTITY home_last_tabs_empty "Ваші недавні вкладки будуть тут.">
 <!ENTITY home_open_all "Відкрити всі">
-<!ENTITY home_most_recent_empty "Ваші нещодавно відвідані сайти будуть тут.">
+<!ENTITY home_most_recent_empty "Ваші недавно відвідані сайти будуть тут.">
 <!-- Localization note (home_most_recent_emptyhint2): "Psst" is a sound that might be used to attract someone's attention unobtrusively, and intended to hint at Private Browsing to the user.
      The placeholders &formatS1; and &formatS2; are used to mark the location of text underlining. -->
 <!ENTITY home_most_recent_emptyhint2 "Зверніть увагу: історія з &formatS1;Нової приватної вкладки&formatS2; не буде зберігатися.">
