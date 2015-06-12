@@ -26,9 +26,9 @@
 <!ENTITY newVirtualFolderCmd.accesskey "s">
 <!ENTITY newOtherAccountsCmd.label "Outras contas...">
 <!ENTITY newOtherAccountsCmd.accesskey "t">
-<!ENTITY newCreateEmailAccountCmd.label "Obter nova conta de correio...">
+<!ENTITY newCreateEmailAccountCmd.label "Obter nova conta de e-mail…">
 <!ENTITY newCreateEmailAccountCmd.accesskey "O">
-<!ENTITY newExistingEmailAccountCmd.label "Conta de correio existente...">
+<!ENTITY newExistingEmailAccountCmd.label "Conta de e-mail existente…">
 <!ENTITY newExistingEmailAccountCmd.accesskey "e">
 <!ENTITY newIMAccountCmd.label "Conta de conversação...">
 <!ENTITY newIMAccountCmd.accesskey "C">
@@ -130,8 +130,8 @@
 
 <!ENTITY menubarCmd.label "Barra de menu">
 <!ENTITY menubarCmd.accesskey "m">
-<!ENTITY showMessengerToolbarCmd.label "Barra de ferramentas do correio">
-<!ENTITY showMessengerToolbarCmd.accesskey "o">
+<!ENTITY showMessengerToolbarCmd.label "Barra de correio">
+<!ENTITY showMessengerToolbarCmd.accesskey "c">
 <!ENTITY customizeToolbar.label "Personalizar...">
 <!ENTITY customizeToolbar.accesskey "P">
 
@@ -641,7 +641,7 @@
 <!ENTITY folderContextSettings2.accesskey "e">
 <!-- Search Bar -->
 
-<!ENTITY SearchNameOrEmail.label "O nome ou correio eletrónico contém:">
+<!ENTITY SearchNameOrEmail.label "O nome ou e-mail contém:">
 <!ENTITY SearchNameOrEmail.accesskey "n">
 <!-- Gloda Search Bar -->
 
@@ -852,8 +852,8 @@
 <!ENTITY SubscribeToNewsgroup.accesskey "n">
 <!ENTITY SendMessageTo.label "Escrever mensagem para">
 <!ENTITY SendMessageTo.accesskey "s">
-<!ENTITY CopyEmailAddress.label "Copiar endereço de correio">
-<!ENTITY CopyEmailAddress.accesskey "a">
+<!ENTITY CopyEmailAddress.label "Copiar endereço de e-mail">
+<!ENTITY CopyEmailAddress.accesskey "C">
 <!ENTITY CopyNewsgroupName.label "Copiar nome do grupo de notícias">
 <!ENTITY CopyNewsgroupName.accesskey "C">
 <!ENTITY CopyNewsgroupURL.label "Copiar URL do grupo de notícias">
@@ -876,7 +876,7 @@
 <!ENTITY copyLinkCmd.accesskey "l">
 <!ENTITY copyImageAllCmd.label "Copiar imagem">
 <!ENTITY copyImageAllCmd.accesskey "i">
-<!ENTITY copyEmailCmd.label "Copiar endereço eletrónico">
+<!ENTITY copyEmailCmd.label "Copiar endereço de e-mail">
 <!ENTITY copyEmailCmd.accesskey "e">
 <!ENTITY stopCmd.label "Parar">
 <!ENTITY stopCmd.accesskey "P">

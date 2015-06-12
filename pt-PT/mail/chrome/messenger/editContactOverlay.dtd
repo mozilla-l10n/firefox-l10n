@@ -8,8 +8,8 @@
 <!ENTITY editContactName.label "Nome:">
 <!ENTITY editContactName.accesskey "N">
 
-<!ENTITY editContactEmail.label "Correio eletrónico:">
-<!ENTITY editContactEmail.accesskey "e">
+<!ENTITY editContactEmail.label "E-mail:">
+<!ENTITY editContactEmail.accesskey "E">
 
 <!ENTITY editContactAddressBook.label "Livro de endereços:">
 <!ENTITY editContactAddressBook.accesskey "L">

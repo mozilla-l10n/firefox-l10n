@@ -8,7 +8,7 @@
 <!ENTITY cancelIntegration2.label  "Cancelar">
 <!ENTITY defaultClient.intro  "Utilizar o &brandShortName; como aplicação pré-definida para:">
 
-<!ENTITY email.label "Correio eletrónico">
+<!ENTITY email.label "E-mail">
 <!ENTITY newsgroups.label "Grupos de notícias">
 <!ENTITY feeds.label "Fontes">
 

@@ -29,7 +29,7 @@
 <!ENTITY hdrReplyAllButton1.label "Responder a todos">
 <!ENTITY hdrReplyAllButton1.tooltip "Responde ao remetente e a todos os destinatários">
 <!ENTITY hdrReplyListButton1.label "Responder à lista">
-<!ENTITY hdrReplyListButton1.tooltip "Responder a lista de correio">
+<!ENTITY hdrReplyListButton1.tooltip "Responder à lista de correio">
 <!ENTITY hdrFollowupButton1.label "Responder">
 <!ENTITY hdrFollowupButton1.tooltip "Responder a este grupo de notícias">
 <!ENTITY hdrMenuForwardButton.label "Reencaminhar como">
