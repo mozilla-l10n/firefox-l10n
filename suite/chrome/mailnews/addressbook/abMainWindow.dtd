@@ -11,7 +11,7 @@
 <!ENTITY newContact.label                               "Contacto...">
 <!-- LOCALIZATION NOTE (newContact.accesskey) : DONT_TRANSLATE -->
 <!ENTITY newContact.accesskey                           "C">
-<!ENTITY newListCmd.label                               "Lista de correio...">
+<!ENTITY newListCmd.label                               "Lista de correio…">
 <!-- LOCALIZATION NOTE (newListCmd.accesskey) : DONT_TRANSLATE -->  
 <!ENTITY newListCmd.accesskey                           "L">  
 <!ENTITY newAddressBookCmd.label                        "Livro de endereços…"> 
@@ -89,7 +89,7 @@
 <!ENTITY newContactButton.tooltip                       "Criar um novo contacto no livro de endereços">
 <!ENTITY newlistButton.tooltip                          "Criar uma nova lista"> 
 <!ENTITY editItemButton.tooltip                         "Editar item selecionado">
-<!ENTITY newmsgButton.tooltip                           "Enviar uma mensagem de correio"> 
+<!ENTITY newmsgButton.tooltip                           "Enviar um e-mail"> 
 <!ENTITY newIM.tooltip                                  "Enviar uma mensagem instantânea ou de chat"> 
 <!ENTITY deleteItemButton.tooltip                       "Eliminar item selecionado">
 <!ENTITY throbber.tooltip                               "Ir para a página inicial do &vendorShortName;">

@@ -13,8 +13,8 @@
 <!ENTITY accountTypeTitle.label "Configurar nova conta">
 <!ENTITY accountTypeDesc2.label "Este assistente vai reunir as informações necessárias para configurar uma conta de correio ou de um grupo de discussão. Se não souber a informação necessária, contacte o seu administrador de sistema ou fornecedor de serviço Internet.">
 <!ENTITY accountTypeDirections.label "Selecione o tipo de conta que você deseja configurar:">
-<!ENTITY accountTypeMail.label "Conta de correio eletrónico">
-<!ENTITY accountTypeMail.accesskey "c">
+<!ENTITY accountTypeMail.label "Conta de e-mail">
+<!ENTITY accountTypeMail.accesskey "m">
 <!ENTITY accountTypeNews.label "Conta de grupo de discussão">
 <!ENTITY accountTypeNews.accesskey "n">
 <!-- Entities for Identity page -->
@@ -33,7 +33,7 @@
 <!ENTITY fullnameLabel.label "O seu Nome:">
 <!ENTITY fullnameLabel.accesskey "N">
 
-<!ENTITY emailLabel.label "Endereço de correio eletrónico:">
+<!ENTITY emailLabel.label "Endereço de e-mail:">
 <!ENTITY emailLabel.accesskey "E">
 <!-- Entities for Incoming Server page -->
 
@@ -118,7 +118,7 @@
 <!ENTITY downloadOnLogin.label "Transferir as mensagem agora">
 <!ENTITY downloadOnLogin.accesskey "T">
 <!ENTITY deferStorageDesc.label "Desmarque a caixa de confirmação para guardar o correio desta conta na sua própria pasta. Isto vai tornar a sua conta como uma conta principal. De outra maneira, fará parte da pasta geral do correio a receber.">
-<!ENTITY deferStorage.label "Usar a caixa de correio a receber geral (guardar o correio em pastas locais)">
+<!ENTITY deferStorage.label "Utilizar caixa de correio global (guardar correio em pastas locais)">
 <!ENTITY deferStorage.accesskey "g">
 <!ENTITY clickFinish.label "Clique em Terminar para guardar estas definições e sair do assistente.">
 <!ENTITY clickFinish.labelMac "Clique em Terminar para guardar estas definições e sair do assistente.">

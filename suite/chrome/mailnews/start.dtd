@@ -2,9 +2,9 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY startpage.title "Bem-vindo ao correio e listas de discussão do &brandShortName;">
+<!ENTITY startpage.title "Bem-vindo ao correio e listas de notícias do &brandShortName;">
 <!--# LOCALIZATION NOTE (headline.label): the URL for <a id="vendorURL"> is fetched from brand.properties -->
-<!ENTITY headline.label 'Bem-vindo ao correio e listas de discussão do <a id="vendorURL" href="">&brandShortName;</a>!'>
+<!ENTITY headline.label 'Bem-vindo ao correio e listas de notícias do <a id="vendorURL" href="">&brandShortName;</a>!'>
 <!ENTITY description.label "O &brandShortName; é uma aplicação open-source de correio e de grupos de notícias,
 com suporte a deteção avançada de lixo eletrónico e outras funcionalidade úteis.">
 <!ENTITY features.title "Funcionalidades">

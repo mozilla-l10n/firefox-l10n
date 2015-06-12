@@ -29,5 +29,5 @@
 <!ENTITY accountDirectory.accesskey "S">
 <!ENTITY deferToServer.label "Caixa de Entrada para uma conta diferente do servidor">
 <!ENTITY deferToServer.accesskey "d">
-<!ENTITY deferGetNewMail.label "Incluir este servidor na recepção de correio">
+<!ENTITY deferGetNewMail.label "Incluir este servidor na receção de correio">
 <!ENTITY deferGetNewMail.accesskey "I">
