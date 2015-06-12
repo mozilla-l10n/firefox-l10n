@@ -26,7 +26,7 @@
 <!-- Phishing Detector -->
 
 <!ENTITY phishingDetector1.intro  "O &brandShortName; pode analisar se as mensagens são possíveis engodos (também conhecidas como phishing), detetando as técnicas de falsificação mais comuns.">
-<!ENTITY enablePhishingDetector1.label    "Avisar se a mensagem que estou a ler  pode ser um engodo">
+<!ENTITY enablePhishingDetector1.label    "Avisar se a mensagem que estou a ler pode ser um engodo">
 <!ENTITY enablePhishingDetector1.accesskey  "a">
 <!ENTITY useDownloadedList.label "Utilizar uma lista de possíveis fraudes de correio">
 <!ENTITY useDownloadedList.accesskey "U">

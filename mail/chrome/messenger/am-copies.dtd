@@ -11,7 +11,7 @@
 <!ENTITY fccReplyFollowsParent.label "Guardar respostas na pasta da mensagem que é respondida">
 <!ENTITY fccReplyFollowsParent.accesskey "d">
 <!-- LOCALIZATION NOTE (ccAddress.label): do not translate "Cc" in below line -->
-<!ENTITY ccAddress.label "Cc estes endereços de correio:">
+<!ENTITY ccAddress.label "Cc para estes endereços de correio:">
 <!ENTITY ccAddress.accesskey "C">
 <!ENTITY ccAddressList.placeholder "Separar endereços com vírgulas">
 <!-- LOCALIZATION NOTE (bccAddress.label): do not translate "Bcc" in below line -->
