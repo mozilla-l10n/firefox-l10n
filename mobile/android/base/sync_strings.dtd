@@ -122,7 +122,7 @@
      user for an email address and password. Hide and show are button
      labels. -->
 
-<!ENTITY fxaccount_email_hint "Endereço de correio">
+<!ENTITY fxaccount_email_hint "E-mail">
 <!ENTITY fxaccount_password_hint "Palavra-passe">
 <!ENTITY fxaccount_password_hide "Ocultar">
 <!ENTITY fxaccount_password_show "Mostrar">
@@ -168,7 +168,7 @@
 <!ENTITY fxaccount_confirm_account_header "Confirme a sua conta">
 <!-- Localization note: &formatS; is the Firefox Account's email address. -->
 <!ENTITY fxaccount_confirm_account_verification_link "Foi enviada uma ligação de verificação para &formatS;">
-<!ENTITY fxaccount_confirm_account_resend_email "Reenviar mensagem de correio">
+<!ENTITY fxaccount_confirm_account_resend_email "Reenviar mensagem">
 <!ENTITY fxaccount_confirm_account_change_email "Esquecer este endereço de email?">
 <!ENTITY fxaccount_confirm_account_verification_link_sent2 "Mensagem de verificação enviada">
 <!ENTITY fxaccount_confirm_account_verification_link_not_sent2 "Não foi possível enviar a mensagem de verificação">
@@ -250,8 +250,8 @@
 <!-- Localization note: the format string will be fxaccount_sign_in_button_label, linkified. -->
 
 <!ENTITY fxaccount_remote_error_ATTEMPT_TO_CREATE_AN_ACCOUNT_THAT_ALREADY_EXISTS_2 "A conta já existe. &formatS1;">
-<!ENTITY fxaccount_remote_error_ATTEMPT_TO_ACCESS_AN_ACCOUNT_THAT_DOES_NOT_EXIST "Endereço de correio ou palavra-passe inválida">
-<!ENTITY fxaccount_remote_error_INCORRECT_PASSWORD "Endereço de correio ou palavra-passe inválida">
+<!ENTITY fxaccount_remote_error_ATTEMPT_TO_ACCESS_AN_ACCOUNT_THAT_DOES_NOT_EXIST "Endereço de e-mail ou palavra-passe inválida">
+<!ENTITY fxaccount_remote_error_INCORRECT_PASSWORD "Endereço de e-mail ou palavra-passe inválida">
 <!ENTITY fxaccount_remote_error_ATTEMPT_TO_OPERATE_ON_AN_UNVERIFIED_ACCOUNT "Conta não verificada">
 <!ENTITY fxaccount_remote_error_CLIENT_HAS_SENT_TOO_MANY_REQUESTS "Servidor ocupado, tente mais tarde">
 <!ENTITY fxaccount_remote_error_SERVICE_TEMPORARILY_UNAVAILABLE_TO_DUE_HIGH_LOAD "Servidor ocupado, tente mais tarde">
