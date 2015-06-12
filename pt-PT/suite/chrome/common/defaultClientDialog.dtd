@@ -6,7 +6,7 @@
 <!ENTITY defaultClient.intro  "Utilizar o &brandShortName; como o cliente pré-definido para:">
 
 <!ENTITY browser.label "Navegador">
-<!ENTITY email.label "Correio">
+<!ENTITY email.label "E-mail">
 <!ENTITY newsgroups.label "Grupos de notícias">
 <!ENTITY feeds.label "Fontes">
 

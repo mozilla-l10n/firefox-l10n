@@ -19,7 +19,7 @@
 <!ENTITY setDefaultFeed.label             "Fontes">
 <!ENTITY setDefaultFeed.accesskey         "e">
 
-<!ENTITY useInternalSettings.description  "Utilizar &brandShortName; Correio e Grupos de Discussão para abrir ligação de navegador para:">
+<!ENTITY useInternalSettings.description  "Utilizar o &brandShortName; para abrir a ligação de navegador para:">
 <!ENTITY useInternalMail.label            "Correio (mailto:)">
 <!ENTITY useInternalMail.accesskey        "C">
 <!ENTITY useInternalNews.label            "Grupos de discussão (news:, snews:, nntp:)">

@@ -4,7 +4,7 @@
 
 <!ENTITY pref.formatting.title        "Formato de envio">
 <!ENTITY sendMaildesc.label           "Ao enviar mensagens formatadas (HTML) e um ou mais destinatários não estão indicados como habilitados a receber HTML:">
-<!ENTITY askMe.label                  "Perguntar-me o que fazer (O correio pede para escolher o formato)">
+<!ENTITY askMe.label                  "Perguntar-me o que fazer (o correio pede para escolher o formato)">
 <!ENTITY askMe.accesskey              "g">
 <!ENTITY convertPlain.label           "Converter a mensagem para texto simples (poderá perder-se alguma formatação)">
 <!ENTITY convertPlain.accesskey       "C">
