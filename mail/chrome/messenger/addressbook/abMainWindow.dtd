@@ -146,7 +146,7 @@ because displayed names don't have the comma in between. -->
 <!ENTITY newContactButton.tooltip                       "Criar novo contacto no livro de endereços">
 <!ENTITY newlistButton.tooltip                          "Criar nova lista">
 <!ENTITY editButton2.tooltip                            "Editar item selecionado">
-<!ENTITY newmsgButton.tooltip                           "Enviar mensagem de correio">
+<!ENTITY newmsgButton.tooltip                           "Enviar um e-mail">
 <!ENTITY newIM.tooltip                                  "Enviar mensagem instantânea ou de conversação">
 <!ENTITY deleteButton2.tooltip                           "Eliminar item selecionado">
 <!-- Dir Tree header -->
@@ -154,7 +154,7 @@ because displayed names don't have the comma in between. -->
 <!ENTITY dirTreeHeader.label                            "Livros de endereços">
 <!-- Search Bar -->
 
-<!ENTITY SearchNameOrEmail.label                        "Nome ou correio eletrónico">
+<!ENTITY SearchNameOrEmail.label                        "Nome ou e-mail">
 <!ENTITY SearchNameOrEmail.accesskey                    "N">
 <!ENTITY advancedButton.tooltip                         "Pesquisa avançada de endereços">
 <!ENTITY quickSearchCmd.key                             "q">
@@ -165,16 +165,16 @@ because displayed names don't have the comma in between. -->
 <!ENTITY Addrbook.accesskey                             "i">
 <!ENTITY GeneratedName.label                            "Nome">
 <!ENTITY GeneratedName.accesskey                        "N">
-<!ENTITY PrimaryEmail.label                             "Correio eletrónico">
-<!ENTITY PrimaryEmail.accesskey                         "e">
+<!ENTITY PrimaryEmail.label                             "E-mail">
+<!ENTITY PrimaryEmail.accesskey                         "E">
 <!ENTITY ChatName.label                                 "Nome na sala de conversação">
 <!ENTITY ChatName.accesskey                             "c">
 <!ENTITY Company.label                                  "Organização">
 <!ENTITY Company.accesskey                              "z">
 <!ENTITY NickName.label                                 "Alcunha">
 <!ENTITY NickName.accesskey                             "h">
-<!ENTITY SecondEmail.label                              "Correio eletrónico alternativo">
-<!ENTITY SecondEmail.accesskey                          "r">
+<!ENTITY SecondEmail.label                              "E-mail alternativo">
+<!ENTITY SecondEmail.accesskey                          "l">
 <!ENTITY Department.label                               "Departamento">
 <!ENTITY Department.accesskey                           "m">
 <!ENTITY JobTitle.label                                 "Título">

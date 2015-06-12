@@ -11,7 +11,7 @@
 <!ENTITY identityDesc.label "Cada conta tem uma identidade, que é a informação enviada a terceiros leem as suas mensagens.">
 <!ENTITY name.label "O seu nome:">
 <!ENTITY name.accesskey "O">
-<!ENTITY email.label "Endereço de correio:">
+<!ENTITY email.label "Endereço de e-mail:">
 <!ENTITY email.accesskey "E">
 <!ENTITY replyTo.label "Endereço de resposta:">
 <!ENTITY replyTo.accesskey "r">

@@ -11,7 +11,7 @@
 <!ENTITY ListNickName.label             "Listar alcunhas: ">
 <!ENTITY ListDescription.label          "Descrição: ">
 <!-- See bug 58485, when we implement drag and drop, add 'or drag addresses' back in -->
-<!ENTITY AddressTitle.label             "Escreva os endereços eletrónicos para os adicionar à lista de correio:">
+<!ENTITY AddressTitle.label             "Escreva os endereços de e-mail para os adicionar à lista de correio:">
 <!ENTITY UpButton.label                 "Mover para cima">
 <!ENTITY DownButton.label               "Mover para baixo">
 <!-- Access Keys -->

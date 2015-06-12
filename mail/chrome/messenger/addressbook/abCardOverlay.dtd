@@ -36,10 +36,10 @@
 <!ENTITY NickName.label                 "Alcunha:">
 <!ENTITY NickName.accesskey             "u">
 
-<!ENTITY PrimaryEmail.label             "Correio eletrónico:">
-<!ENTITY PrimaryEmail.accesskey         "e">
-<!ENTITY SecondEmail.label              "Correio eletrónico alternativo:">
-<!ENTITY SecondEmail.accesskey          "n">
+<!ENTITY PrimaryEmail.label             "E-mail:">
+<!ENTITY PrimaryEmail.accesskey         "E">
+<!ENTITY SecondEmail.label              "E-mail alternativo:">
+<!ENTITY SecondEmail.accesskey          "i">
 <!ENTITY PreferMailFormat.label         "Prefere mensagens com o formato:">
 <!ENTITY PreferMailFormat.accesskey     "a">
 <!ENTITY PlainText.label                "Texto simples">

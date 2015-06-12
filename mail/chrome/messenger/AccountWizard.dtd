@@ -13,8 +13,8 @@
 <!ENTITY accountTypeTitle.label "Configuração de conta">
 <!ENTITY accountTypeDesc2.label "Este assistente vai reunir as informações necessárias para configurar uma conta. Se não souber as informações necessárias, contacte o administrador de sistemas ou fornecedor de serviço da Internet.">
 <!ENTITY accountTypeDirections.label "Selecione o tipo de conta que quer configurar:">
-<!ENTITY accountTypeMail.label "Conta de correio eletrónico">
-<!ENTITY accountTypeMail.accesskey "C">
+<!ENTITY accountTypeMail.label "Conta de e-mail">
+<!ENTITY accountTypeMail.accesskey "m">
 <!ENTITY accountTypeNews.label "Conta de grupo de notícias">
 <!ENTITY accountTypeNews.accesskey "n">
 <!-- Entities for Identity page -->
@@ -33,7 +33,7 @@
 <!ENTITY fullnameLabel.label "O seu nome:">
 <!ENTITY fullnameLabel.accesskey "n">
 
-<!ENTITY emailLabel.label "Endereço de correio:">
+<!ENTITY emailLabel.label "Endereço de e-mail:">
 <!ENTITY emailLabel.accesskey "E">
 <!-- Entities for Incoming Server page -->
 
@@ -119,6 +119,6 @@
 <!ENTITY downloadOnLogin.accesskey "T">
 <!ENTITY deferStorageDesc.label "Desmarque a caixa de confirmação para guardar o correio desta conta na sua própria pasta. Isto vai tornar a sua conta como uma conta principal. De outra maneira, fará parte da caixa de entrada nas pastas locais.">
 <!ENTITY deferStorage.label "Utilizar caixa de entrada global (guardar correio nas pastas locais)">
-<!ENTITY deferStorage.accesskey "U">
+<!ENTITY deferStorage.accesskey "g">
 <!ENTITY clickFinish.label "Clique em Terminar para guardar estas definições e sair do assistente.">
 <!ENTITY clickFinish.labelMac "Clique em Terminar para guardar estas definições e sair do assistente.">

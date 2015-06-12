@@ -6,16 +6,16 @@
 <!ENTITY Addrbook.accesskey                    "i">
 <!ENTITY GeneratedName.label                   "Nome">
 <!ENTITY GeneratedName.accesskey               "N">
-<!ENTITY PrimaryEmail.label                    "Correio eletrónico">
-<!ENTITY PrimaryEmail.accesskey                "e">
+<!ENTITY PrimaryEmail.label                    "E-mail">
+<!ENTITY PrimaryEmail.accesskey                "E">
 <!ENTITY Company.label                         "Organização">
 <!ENTITY Company.accesskey                     "z">
 <!ENTITY _PhoneticName.label                   "Nome fonético">
 <!ENTITY _PhoneticName.accesskey               "o">
 <!ENTITY NickName.label                        "Alcunha">
 <!ENTITY NickName.accesskey                    "h">
-<!ENTITY SecondEmail.label                     "Correio eletrónico alternativo">
-<!ENTITY SecondEmail.accesskey                 "r">
+<!ENTITY SecondEmail.label                     "E-mail alternativo">
+<!ENTITY SecondEmail.accesskey                 "l">
 <!ENTITY Department.label                      "Departamento">
 <!ENTITY Department.accesskey                  "m">
 <!ENTITY JobTitle.label                        "Título">
