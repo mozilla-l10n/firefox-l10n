@@ -24,7 +24,7 @@
 <!ENTITY helpKeyboardShortcuts.accesskey "S">
 
 <!ENTITY helpSafeMode.label       "Riniseni me Shtesat të Çaktivizuara…">
-<!ENTITY helpSafeMode.accesskey   "R">
+<!ENTITY helpSafeMode.accesskey   "Ç">
 
 <!ENTITY healthReport2.label      "Raport Mbi Shëndetin e &brandShorterName;-it">
 <!ENTITY healthReport2.accesskey  "R">
