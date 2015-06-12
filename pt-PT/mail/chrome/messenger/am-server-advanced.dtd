@@ -15,7 +15,7 @@
 <!ENTITY maximumConnectionsNumber.label "Número máximo de ligações ao servidor para colocar em cache">
 <!ENTITY maximumConnectionsNumber.accesskey "x">
 <!-- LOCALIZATION NOTE (namespaceDesc.label): Do not translate "IMAP" -->
-<!ENTITY namespaceDesc.label "These preferences specify the namespaces on your IMAP server">
+<!ENTITY namespaceDesc.label "As preferências que especificam os namespaces do seu servidor IMAP">
 <!ENTITY personalNamespace.label "Diretório pessoal:">
 <!ENTITY personalNamespace.accesskey "p">
 <!ENTITY publicNamespace.label "Público (partilhado):">

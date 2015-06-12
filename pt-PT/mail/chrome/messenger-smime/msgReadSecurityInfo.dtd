@@ -10,5 +10,5 @@
 
 <!ENTITY signer.name "Assinado por:">
 <!ENTITY recipient.name "Cifrado por:">
-<!ENTITY email.address "Endereço eletrónico:">
+<!ENTITY email.address "Endereço de correio:">
 <!ENTITY issuer.name "Emitido por:">

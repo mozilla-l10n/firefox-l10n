@@ -33,7 +33,7 @@
 <!ENTITY fullnameLabel.label "O seu nome:">
 <!ENTITY fullnameLabel.accesskey "n">
 
-<!ENTITY emailLabel.label "Endereço eletrónico:">
+<!ENTITY emailLabel.label "Endereço de correio:">
 <!ENTITY emailLabel.accesskey "E">
 <!-- Entities for Incoming Server page -->
 

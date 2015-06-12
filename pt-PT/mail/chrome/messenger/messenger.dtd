@@ -641,7 +641,7 @@
 <!ENTITY folderContextSettings2.accesskey "e">
 <!-- Search Bar -->
 
-<!ENTITY SearchNameOrEmail.label "O nome ou endereço eletrónico contém:">
+<!ENTITY SearchNameOrEmail.label "O nome ou correio eletrónico contém:">
 <!ENTITY SearchNameOrEmail.accesskey "n">
 <!-- Gloda Search Bar -->
 
@@ -852,7 +852,7 @@
 <!ENTITY SubscribeToNewsgroup.accesskey "n">
 <!ENTITY SendMessageTo.label "Escrever mensagem para">
 <!ENTITY SendMessageTo.accesskey "s">
-<!ENTITY CopyEmailAddress.label "Copiar endereço eletrónico">
+<!ENTITY CopyEmailAddress.label "Copiar endereço de correio">
 <!ENTITY CopyEmailAddress.accesskey "a">
 <!ENTITY CopyNewsgroupName.label "Copiar nome do grupo de notícias">
 <!ENTITY CopyNewsgroupName.accesskey "C">
