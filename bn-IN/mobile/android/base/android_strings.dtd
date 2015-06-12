@@ -7,7 +7,7 @@
 <!ENTITY  error_loading_file "যখন &brandShortName; চালানোর জন্য ফাইল লোড করার চেষ্টা করা হচ্ছিল তখন একটি বিঘ্ন ঘটেছে">
 
 <!ENTITY  onboard_start_message3 "&brandShortName;-এর সাথে ব্রাউজ করুন">
-
+<!ENTITY  onboard_start_subtext3 "বানান আপনার ওয়েব ব্রাউজিং করার অভিজ্ঞতা যথাযথ ভাবে আপনার নিজের।">
 <!ENTITY  onboard_start_button_account "&brandShortName; এ সাইন ইন করুন">
 <!ENTITY  onboard_start_button_browser "ব্রাউজিং শুরু করুন">
 <!-- Localization note: These are used as the titles of different pages on the home screen.
@@ -189,6 +189,7 @@
 <!ENTITY pref_donottrack_title "ট্র্যাক করবেন না">
 <!ENTITY pref_donottrack_summary "&brandShortName; সাইট দের বলে যে আপনি ট্র্যাক হতে চান না">
 
+<!ENTITY tab_queue_toast_message2 "সারিটিতে ট্যাব করুন &brandShortName; নাম">
 <!ENTITY tab_queue_toast_action "এখন খুলুন">
 
 
