@@ -81,7 +81,7 @@
 <!ENTITY deleteItemButton.accesskey                     "a">
 <!ENTITY newimButton.label                              "Mensagem instantânea">  
 <!ENTITY newimButton.accesskey                          "i">  
-<!ENTITY searchNameAndEmail.placeholder                 "Pesquisar nome e correio">
+<!ENTITY searchNameAndEmail.placeholder                 "Pesquisar nome e e-mail">
 <!ENTITY searchBox.title                                "Pesquisar">
 <!-- Tooltips -->
 

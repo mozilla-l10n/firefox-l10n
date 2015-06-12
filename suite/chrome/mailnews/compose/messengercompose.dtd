@@ -49,8 +49,8 @@
 <!ENTITY accountManagerCmd.accesskey "n">
 <!-- View menu items -->
 
-<!ENTITY showComposeToolbarCmd.label "Barra de ferramentas de correio">
-<!ENTITY showComposeToolbarCmd.accesskey "c">
+<!ENTITY showComposeToolbarCmd.label "Barra de correio">
+<!ENTITY showComposeToolbarCmd.accesskey "o">
 <!ENTITY showFormatToolbarCmd.label "Barra de ferramentas de formatação">
 <!ENTITY showFormatToolbarCmd.accesskey "f">
 <!-- Format menu items -->

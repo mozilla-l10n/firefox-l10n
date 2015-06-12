@@ -12,7 +12,7 @@
 <!ENTITY _PhoneticName.accesskey               "F">
 <!ENTITY NickName.label                        "Alcunha">
 <!ENTITY NickName.accesskey                    "A">
-<!ENTITY SecondEmail.label                     "Correio eletrónico alternativo">
+<!ENTITY SecondEmail.label                     "E-mail alternativo">
 <!ENTITY SecondEmail.accesskey                 "l">
 <!ENTITY Department.label                      "Departamento">
 <!ENTITY Department.accesskey                  "r">
@@ -38,7 +38,7 @@
 
 <!ENTITY composeEmail.label                    "Criar nova mensagem para">
 <!ENTITY composeEmail.accesskey                "C">
-<!ENTITY copyAddress.label                     "Copiar endereço de correio">
+<!ENTITY copyAddress.label                     "Copiar endereço de e-mail">
 <!ENTITY copyAddress.accesskey                 "o">
 <!ENTITY deleteAddrBookCard.label              "Eliminar">
 <!ENTITY deleteAddrBookCard.accesskey          "E">

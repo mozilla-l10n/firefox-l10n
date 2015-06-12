@@ -94,7 +94,7 @@
 <!ENTITY copyAudioURLCmd.accesskey    "o">
 <!ENTITY metadataCmd.label            "Propriedades">
 <!ENTITY metadataCmd.accesskey        "P">
-<!ENTITY copyEmailCmd.label           "Copiar endereço de correio">
+<!ENTITY copyEmailCmd.label           "Copiar endereço de e-mail">
 <!ENTITY copyEmailCmd.accesskey       "e">
 <!ENTITY thisFrameMenu.label          "Esta moldura">
 <!ENTITY thisFrameMenu.accesskey      "o">
