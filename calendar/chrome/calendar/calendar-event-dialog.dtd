@@ -134,9 +134,9 @@
 
 <!ENTITY event.invite.attendees.label                     "Convidar participantes...">
 <!ENTITY event.invite.attendees.accesskey                 "i">
-<!ENTITY event.email.attendees.label                      "Criar mensagem para todos participantes...">
+<!ENTITY event.email.attendees.label                      "Criar mensagem para todos participantes…">
 <!ENTITY event.email.attendees.accesskey                  "a">
-<!ENTITY event.email.tentative.attendees.label            "Criar mensagem para os participantes indecisos...">
+<!ENTITY event.email.tentative.attendees.label            "Criar mensagem para os participantes indecisos…">
 <!ENTITY event.email.tentative.attendees.accesskey        "m">
 <!-- Toolbar -->
 

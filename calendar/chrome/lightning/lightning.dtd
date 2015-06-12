@@ -37,7 +37,7 @@
 <!ENTITY lightning.menu.eventtask.accesskey            "n">
 <!-- properties dialog, calendar creation wizard -->
 
-<!ENTITY lightning.calendarproperties.email.label               "Conta de correio:">
+<!ENTITY lightning.calendarproperties.email.label               "E-mail:">
 <!-- iMIP Bar (meeting support) -->
 
 <!ENTITY lightning.imipbar.btnAccept.label                                  "Aceitar">
