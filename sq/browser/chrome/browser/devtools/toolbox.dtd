@@ -200,3 +200,7 @@
   -  tooltip for the checkbox that toggles the service workers testing features on or off. This option enables service workers over HTTP. -->
 <!ENTITY options.enableServiceWorkersHTTP.label     "Aktivizoni Service Workers përmes HTTP-je (kur grupi i mjeteve është hapur)">
 <!ENTITY options.enableServiceWorkersHTTP.tooltip   "Aktivizimi i kësaj mundësie do të aktivizojëservice workers përmes HTTP-je për krejt skedat që e kanë të hapur grupin e mjeteve.">
+
+<!-- LOCALIZATION NOTE (browserToolboxErrorMessage): This is the label
+  -  shown next to error details when the Browser Toolbox is unable to open. -->
+<!ENTITY browserToolboxErrorMessage          "Gabim në hapjen e Grupit të Mjeteve të Shfletuesit:">

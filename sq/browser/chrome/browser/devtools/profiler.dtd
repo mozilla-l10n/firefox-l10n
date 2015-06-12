@@ -68,7 +68,7 @@
 <!ENTITY profilerUI.toolbar.waterfall "Rrjedhë kohore">
 <!ENTITY profilerUI.toolbar.js-calltree "JavaScript">
 <!ENTITY profilerUI.toolbar.js-calltree "JavaScript">
-<!ENTITY profilerUI.toolbar.memory-calltree "Shpërndarje Kujtese">
+<!ENTITY profilerUI.toolbar.memory-calltree1 "Shpërndarje Kujtese">
 <!ENTITY profilerUI.toolbar.js-flamegraph "Grafik Flame mbi JS-in">
 <!ENTITY profilerUI.toolbar.memory-flamegraph1 "Grafik Flame mbi Shpërndarje Kujtese">
 
