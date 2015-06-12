@@ -23,7 +23,7 @@
 <!ENTITY certmgr.editcert.trustemail "Kjo dëshmi mund të identifikojë përdorues poste.">
 <!ENTITY certmgr.editcert.trustobjsign "Kjo dëshmi mund të identifikojë prodhues programesh.">
 <!ENTITY certmgr.editcert.trustssl "Kjo dëshmi mund të identifikojë sajte.">
-<!ENTITY certmgr.email "Adresë E-mail">
+<!ENTITY certmgr.email "Adresë Email">
 <!ENTITY certmgr.expires "Skadon Më">
 <!ENTITY certmgr.fields.label "Vlerë Fushe">
 <!ENTITY certmgr.fingerprints.label "Shenja gishtash">

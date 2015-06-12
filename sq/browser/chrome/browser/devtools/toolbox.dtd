@@ -72,7 +72,7 @@
 <!-- LOCALIZATION NOTE (options.enableChrome.label4): This is the label for the
   -  checkbox that toggles chrome debugging, i.e. devtools.chrome.enabled
   -  boolean preference in about:config, in the options panel. -->
-<!ENTITY options.enableChrome.label5    "Aktivizoni grupe mjetesh diagnostikim chrome shfletuesi dhe shtesash">
+<!ENTITY options.enableChrome.label5    "Aktivizoni grupe mjetesh diagnostikimi chrome-sh dhe shtesash shfletuesi">
 <!ENTITY options.enableChrome.tooltip3  "Aktivizimi i kësaj mundësie do t&apos;ju lejojë të përdorni mjete të ndryshme zhvilluesi brenda kontekstit të një shfletuesi (përmes Mjete > Zhvillues Web > Grup Mjetesh Shfletuesi) dhe të diagnostikoni shtesa që prej Përgjegjësit të Shtesave">
 
 <!-- LOCALIZATION NOTE (options.enableRemote.label3): This is the label for the

@@ -26,7 +26,7 @@
 
 <!-- LOCALIZATION NOTE (canvasDebuggerUI.waitingNotice): This is the label shown
   -  in the call list view while recording a snapshot. -->
-<!ENTITY canvasDebuggerUI.waitingNotice   "Po regjistrohet një cikël animacioni…">
+<!ENTITY canvasDebuggerUI.waitingNotice   "Po regjistrohet një cikël animacionesh…">
 
 <!-- LOCALIZATION NOTE (canvasDebuggerUI.recordSnapshot): This string is displayed
   -  on a button that starts a new snapshot. -->
