@@ -38,8 +38,8 @@
 
 <!ENTITY PrimaryEmail.label             "E-mail:">
 <!ENTITY PrimaryEmail.accesskey         "E">
-<!ENTITY SecondEmail.label              "Correio eletrónico alternativo:">
-<!ENTITY SecondEmail.accesskey          "n">
+<!ENTITY SecondEmail.label              "E-mail alternativo:">
+<!ENTITY SecondEmail.accesskey          "i">
 <!ENTITY PreferMailFormat.label         "Prefere receber mensagens formatadas como:">
 <!ENTITY PreferMailFormat.accesskey     "a">
 <!ENTITY PlainText.label                "Texto Simples">
