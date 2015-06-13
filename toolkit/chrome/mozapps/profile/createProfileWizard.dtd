@@ -16,7 +16,7 @@
 
 <!ENTITY profileCreationIntro.text      "Se já criou vários perfis poderá diferenciá-los pelos nomes. Poderá utilizar o nome automático ou utilizar um à sua escolha.">
 <!ENTITY profilePrompt.label            "Introduza o nome do novo perfil:">
-<!ENTITY profilePrompt.accesskey        "I">
+<!ENTITY profilePrompt.accesskey        "e">
 <!ENTITY profileDirectoryExplanation.text   "As suas definições de utilizador, preferências e outros dados de utilizador serão guardados em:">
 <!ENTITY profileDefaultName             "Utilizador predefinido">
 <!ENTITY button.choosefolder.label      "Escolher pasta...">
