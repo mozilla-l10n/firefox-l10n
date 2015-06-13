@@ -20,7 +20,7 @@
 <!ENTITY warningDesc.telemetryDesc  "Ele envia automaticamente informações sobre desempenho, hardware, uso e personalizações para &vendorShortName; para tornar o &brandShortName; melhor.">
 <!-- LOCALIZATION NOTE (community.exp.*) This paragraph is shown in "experimental" builds, i.e. Nightly and Aurora builds, instead of the other "community.*" strings below. -->
 
-<!ENTITY community.exp.start        "">
+<!ENTITY community.exp.start        "Envie automaticamente informações sobre desempenho, hardware, uso e personalizações de &vendorShortName; para tornar o &brandShortName; melhor.">
 <!-- LOCALIZATION NOTE (community.exp.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
 <!ENTITY community.exp.mozillaLink  "&vendorShortName;">
 <!ENTITY community.exp.middle       " é um ">
@@ -42,7 +42,7 @@
 <!ENTITY helpus.middle              " ou ">
 <!-- LOCALIZATION NOTE (helpus.getInvolvedLink): This is a link title that links to http://www.mozilla.org/contribute/. -->
 <!ENTITY helpus.getInvolvedLink     "Participe!">
-<!ENTITY helpus.end                 "">
+<!ENTITY helpus.end                 "Participe!">
 <!-- LOCALIZATION NOTE (bottomLinks.license): This is a link title that links to about:license. -->
 
 <!ENTITY bottomLinks.license        "Informações de licenciamento">
@@ -75,7 +75,7 @@
      to download the latest version of Firefox (e.g. http://www.firefox.com). As this is all in one line,
      try to make the localized text short (see bug 596813 for screenshots). -->
 
-<!ENTITY update.manual.start        "Baixe a  ">
+<!ENTITY update.manual.start        "Baixe a ">
 <!ENTITY update.manual.linkText     "última versão">
 <!ENTITY update.manual.end          "">
 <!-- LOCALIZATION NOTE (update.unsupported.start,update.unsupported.linkText,update.unsupported.end):
@@ -85,7 +85,7 @@
      why the system is no longer supported. As this is all in one line, try to
      make the localized text short (see bug 843497 for screenshots). -->
 
-<!ENTITY update.unsupported.start    "Você não pode efetuar mais atualizações neste sistema. ">
+<!ENTITY update.unsupported.start    "Não é possível efetuar novas atualizações neste sistema. ">
 <!ENTITY update.unsupported.linkText "Saiba mais">
 <!ENTITY update.unsupported.end      "">
 <!-- LOCALIZATION NOTE (update.downloading.start,update.downloading.end): update.downloading.start and 
@@ -102,7 +102,7 @@
      channel.description.end create one sentence, with the current channel label inserted in between.
      example: You are currently on the _Stable_ update channel. -->
 
-<!ENTITY channel.description.start  "Você está atualmente no ">
+<!ENTITY channel.description.start  "Usando o canal de atualização ">
 <!ENTITY channel.description.end    ". ">
 
 <!ENTITY cmdCloseMac.commandKey "w">
