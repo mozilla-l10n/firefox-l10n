@@ -4,9 +4,13 @@
 <!-- These strings are used in the about:newtab page -->
 
 <!ENTITY newtab.pageTitle "Nova kartica">
+
+
+
+
 <!ENTITY newtab.customize.title "Prilagodite stranicu nove kartice">
 <!ENTITY newtab.customize.suggested "Prikaži predložene i vaše najpopularnije stranice">
-<!ENTITY newtab.customize.topsites "Prikaži vaše najpopularnije stranice">
+
 <!ENTITY newtab.customize.blank2 "Prikaži praznu stranicu">
 <!ENTITY newtab.customize.what "Što je ova stranica?">
 <!ENTITY newtab.intro.header "Što je ova stranica?">

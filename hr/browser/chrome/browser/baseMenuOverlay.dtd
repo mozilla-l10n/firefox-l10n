@@ -26,6 +26,8 @@
 <!ENTITY helpSafeMode.label       "Ponovno pokreni s isključenim dodacima…">
 <!ENTITY helpSafeMode.accesskey   "v">
 
+
+
 <!ENTITY healthReport2.label      "&brandShorterName; izvještaj zdravlja">
 <!ENTITY healthReport2.accesskey  "e">
 

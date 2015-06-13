@@ -76,16 +76,4 @@
 #define firefox_about O nama
 
 
-# LOCALIZATION NOTE (firefox_feedback):
-
-
-# link title for browser feedback page
-
-
-# currently used by Metro only: https://input.mozilla.org/feedback/metrofirefox
-
-
-#define firefox_feedback Pošalji povratnu informaciju
-
-
 #unfilter emptyLines
