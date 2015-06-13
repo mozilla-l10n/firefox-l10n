@@ -73,7 +73,7 @@
 <!ENTITY  mediaLongdesc         "Descrição longa:">
 <!ENTITY  mediaBlockImage.accesskey "B">
 <!ENTITY  mediaSaveAs           "Salvar como...">
-<!ENTITY  mediaSaveAs.accesskey "a">
+<!ENTITY  mediaSaveAs.accesskey "A">
 <!ENTITY  mediaSaveAs2.accesskey "c">
 <!ENTITY  mediaPreview          "Visualizar mídia:">
 

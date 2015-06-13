@@ -20,7 +20,7 @@
 <!ENTITY contextSendImage.accesskey      "v">
 <!ENTITY contextSendVideo.label          "Enviar video…">
 <!ENTITY contextSendVideo.accesskey      "o">
-<!ENTITY contextSendAudio.label          "Enviar audio…">
+<!ENTITY contextSendAudio.label          "Enviar áudio…">
 <!ENTITY contextSendAudio.accesskey      "a">
 <!ENTITY contextSendFrame.label          "Enviar quadro">
 <!ENTITY contextSendFrame.accesskey      "E">
