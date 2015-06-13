@@ -25,5 +25,5 @@
 <!ENTITY  maintainStructure.accesskey   "r">
 <!ENTITY  useCSS.label                  "Utilizar estilos CSS em vez de elementos e atributos HTML">
 <!ENTITY  useCSS.accesskey              "U">
-<!ENTITY  crInPCreatesNewP.label        "Retornar um parágrafo ao criar um novo parágrafo">
+<!ENTITY  crInPCreatesNewP.label        "Se utilizar a tecla Return num parágrafo, cria um novo parágrafoparágrafo">
 <!ENTITY  crInPCreatesNewP.accesskey    "R">
