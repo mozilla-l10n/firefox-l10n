@@ -92,7 +92,7 @@
 <!ENTITY projects.hosted "Hospedado">
 <!ENTITY projects.packaged "Empacotado">
 
-<!ENTITY help.title "App Manager">
+<!ENTITY help.title "Gerenciador de aplicativos">
 <!ENTITY help.close "Fechar">
 <!ENTITY help.intro "Esta ferramenta o auxiliará a desenvolver e instalar aplicativos web em dispositivos compatíveis (como o Firefox OS). A aba <strong>Aplicativos</strong> lhe ajudará no processo de validação e instalação do seu aplicativo. A aba <strong>Dispositivo</strong> lhe dará informações sobre o dispositivo conectado. Use a barra de ferramentas abaixo para conectar seu dispositivo ou iniciar o simulador.">
 <!ENTITY help.usefullLinks "Links úteis:">
