@@ -68,15 +68,15 @@
      one line, try to make the localized text short (see bug 596813 for screenshots). -->
 
 <!ENTITY update.failed.start        "Falha na atualização. ">
-<!ENTITY update.failed.linkText     "Faça o download da nova versão">
+<!ENTITY update.failed.linkText     "Baixe a última versão">
 <!ENTITY update.failed.end          "">
 <!-- LOCALIZATION NOTE (update.manual.start,update.manual.end): update.manual.start and update.manual.end
      all go into one line and have an anchor in between with text that is the same as the link to a site
      to download the latest version of Firefox (e.g. http://www.firefox.com). As this is all in one line,
      try to make the localized text short (see bug 596813 for screenshots). -->
 
-<!ENTITY update.manual.start        "Faça o download ">
-<!ENTITY update.manual.linkText     "da nova versão">
+<!ENTITY update.manual.start        "Baixe a  ">
+<!ENTITY update.manual.linkText     "última versão">
 <!ENTITY update.manual.end          "">
 <!-- LOCALIZATION NOTE (update.unsupported.start,update.unsupported.linkText,update.unsupported.end):
      update.unsupported.start, update.unsupported.linkText, and
@@ -85,7 +85,7 @@
      why the system is no longer supported. As this is all in one line, try to
      make the localized text short (see bug 843497 for screenshots). -->
 
-<!ENTITY update.unsupported.start    "Você não pode executar mais atualizações neste sistema. ">
+<!ENTITY update.unsupported.start    "Você não pode efetuar mais atualizações neste sistema. ">
 <!ENTITY update.unsupported.linkText "Saiba mais">
 <!ENTITY update.unsupported.end      "">
 <!-- LOCALIZATION NOTE (update.downloading.start,update.downloading.end): update.downloading.start and 
@@ -94,7 +94,7 @@
      the "em dash" (long dash).
      example: Downloading update — 111 KB of 13 MB -->
 
-<!ENTITY update.downloading.start   "Baixando atualização — ">
+<!ENTITY update.downloading.start   "Baixando atualização —  ">
 <!ENTITY update.downloading.end     "">
 
 <!ENTITY update.applying            "Aplicando atualização…">
@@ -102,7 +102,7 @@
      channel.description.end create one sentence, with the current channel label inserted in between.
      example: You are currently on the _Stable_ update channel. -->
 
-<!ENTITY channel.description.start  "Usando o canal de atualização ">
-<!ENTITY channel.description.end    " atualizar canal. ">
+<!ENTITY channel.description.start  "Você está atualmente no ">
+<!ENTITY channel.description.end    ". ">
 
 <!ENTITY cmdCloseMac.commandKey "w">
