@@ -115,7 +115,7 @@
 <!ENTITY prefs_title "Beállítások">
 <!ENTITY prefs_editor_title "Szerkesztő">
 <!ENTITY prefs_general_title "Általános">
-
+<!ENTITY prefs_restore "Alapértelmezések visszaállítása">
 <!ENTITY prefs_manage_components "Extra összetevők kezelése">
 <!ENTITY prefs_options_autoconnectruntime "Újracsatlakozás a korábbi futtatókörnyezethez">
 <!ENTITY prefs_options_autoconnectruntime_tooltip "Újracsatlakozás a korábbi futtatókörnyezethez a WebIDE indulásakor">
@@ -139,7 +139,7 @@
 <!-- Permissions Table -->
 
 <!ENTITY permissionstable_title "Jogosultsági tábla">
-
+<!ENTITY permissionstable_name_header "Név">
 <!-- Runtime Details -->
 
 <!ENTITY runtimedetails_title "Futtatókörnyezet infó">
@@ -196,6 +196,8 @@
 
 <!ENTITY logs_title "Előzetes csomagolási parancsnaplók">
 <!-- Simulator Options -->
+
+<!ENTITY simulator_title "Szimulátor beállításai">
 
 
 
