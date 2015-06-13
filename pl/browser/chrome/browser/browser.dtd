@@ -288,6 +288,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY newNavigatorCmd.accesskey "N" >
 <!ENTITY newPrivateWindow.label     "Nowe okno prywatne">
 <!ENTITY newPrivateWindow.accesskey "p">
+<!ENTITY newNonRemoteWindow.label "Nowe okno z pojedynczym procesem">
 
 <!ENTITY editMenu.label "Edycja" >
 <!ENTITY editMenu.accesskey "E" >
