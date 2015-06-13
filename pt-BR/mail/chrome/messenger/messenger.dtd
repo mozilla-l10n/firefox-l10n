@@ -691,7 +691,7 @@
 <!ENTITY accountColumn2.tooltip "Ordenar por conta">
 <!ENTITY statusColumn2.tooltip "Ordenar por status">
 <!ENTITY sizeColumn2.tooltip "Ordenar por tamanho">
-<!ENTITY junkStatusColumn2.tooltip "Ordenar por status de lixo">
+<!ENTITY junkStatusColumn2.tooltip "Ordenar por status de spam">
 <!ENTITY unreadColumn2.tooltip "Número de mensagens não lidas na discussão">
 <!ENTITY totalColumn2.tooltip "Número total de mensagens na discussão">
 <!ENTITY readColumn2.tooltip "Ordenar por lidas">
