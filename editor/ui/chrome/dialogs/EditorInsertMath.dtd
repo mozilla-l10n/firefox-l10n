@@ -5,7 +5,7 @@
 
 <!ENTITY windowTitle.label "Inserir Math">
 
-<!ENTITY sourceEditField.label "Escreva o código fonte LaTeX:">
+<!ENTITY sourceEditField.label "Introduza o código fonte LaTeX:">
 
 <!ENTITY options.label "Opções">
 <!ENTITY optionInline.label "Modo em linha">

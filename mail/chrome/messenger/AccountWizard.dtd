@@ -9,7 +9,7 @@
 <!-- Entities for Account Type page -->
 
 
-<!ENTITY accountSetupInfo2.label "Para poder receber mensagens, tem que configurar uma conta de correio.">
+<!ENTITY accountSetupInfo2.label "Para poder receber mensagens, tem que configurar uma conta.">
 <!ENTITY accountTypeTitle.label "Configuração de conta">
 <!ENTITY accountTypeDesc2.label "Este assistente vai reunir as informações necessárias para configurar uma conta. Se não souber as informações necessárias, contacte o administrador de sistemas ou fornecedor de serviço da Internet.">
 <!ENTITY accountTypeDirections.label "Selecione o tipo de conta que quer configurar:">

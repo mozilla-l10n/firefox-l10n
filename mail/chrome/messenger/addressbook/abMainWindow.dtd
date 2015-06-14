@@ -70,7 +70,7 @@
 <!ENTITY selectAllCmd.key                               "a">
 <!ENTITY searchAddressesCmd.key                         "f">
 <!ENTITY selectAllCmd.accesskey                         "S">
-<!ENTITY swapFirstNameLastNameCmd.label                 "Trocar primeiro e último nome">
+<!ENTITY swapFirstNameLastNameCmd.label                 "Trocar nome e apelido">
 <!ENTITY swapFirstNameLastNameCmd.accesskey             "T">
 <!-- LOCALIZATION NOTE (hideSwapFnLnUI) : DONT_TRANSLATE -->
 <!-- Swap FN/LN UI  Set to "false" to show swap fn/ln UI -->
@@ -102,9 +102,9 @@
 <!ENTITY menu_ShowNameAs.accesskey                      "n"> 
 <!-- LOCALIZATION NOTE (firstLastCmd2.label): We're not including a comma here
 because displayed names don't have the comma in between. -->
-<!ENTITY firstLastCmd2.label                            "Primeiro Último">
+<!ENTITY firstLastCmd2.label                            "Primeiro último">
 <!ENTITY firstLastCmd2.accesskey                        "P"> 
-<!ENTITY lastFirstCmd.label                             "Último, Primeiro">
+<!ENTITY lastFirstCmd.label                             "Último, primeiro">
 <!ENTITY lastFirstCmd.accesskey                         "r">
 <!ENTITY displayNameCmd.label                           "Nome exibido">
 <!ENTITY displayNameCmd.accesskey                       "m">
@@ -194,7 +194,7 @@ because displayed names don't have the comma in between. -->
 <!ENTITY sortDescending.label                           "Descendente">
 <!ENTITY sortDescending.accesskey                       "D">
 <!ENTITY _PhoneticName.label                            "Nome fonético">
-<!ENTITY _PhoneticName.accesskey                        "f">
+<!ENTITY _PhoneticName.accesskey                        "o">
 <!-- Card Summary Pane -->
 <!-- Box Headings -->
 
