@@ -7,7 +7,7 @@
 <!-- Labels -->
 <!ENTITY addToAddressBook.label         "Adicionar a: ">
 
-<!ENTITY ListName.label                 "Listar nomes: ">
+<!ENTITY ListName.label                 "Nome da lista:">
 <!ENTITY ListNickName.label             "Listar alcunhas: ">
 <!ENTITY ListDescription.label          "Descrição: ">
 <!-- See bug 58485, when we implement drag and drop, add 'or drag addresses' back in -->
@@ -17,7 +17,7 @@
 <!-- Access Keys -->
 
 <!ENTITY addToAddressBook.accesskey     "A">
-<!ENTITY ListName.accesskey             "n">
+<!ENTITY ListName.accesskey             "l">
 <!ENTITY ListNickName.accesskey         "L">
 <!ENTITY ListDescription.accesskey      "e">
 

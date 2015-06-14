@@ -25,7 +25,7 @@
 <!ENTITY autotagEnable.accesskey     "c">
 <!ENTITY autotagUsePrefix.label      "Prefixo da etiqueta com:">
 <!ENTITY autotagUsePrefix.accesskey  "P">
-<!ENTITY autoTagPrefix.placeholder   "Escrever o prefixo da etiqueta">
+<!ENTITY autoTagPrefix.placeholder   "Introduza um prefixo de etiqueta">
 
 <!ENTITY button.addFeed.label        "Adicionar">
 <!ENTITY button.addFeed.accesskey    "A">

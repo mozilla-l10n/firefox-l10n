@@ -15,14 +15,14 @@
 <!ENTITY maximumConnectionsNumber.label "Número máximo de ligações ao servidor para colocar em cache">
 <!ENTITY maximumConnectionsNumber.accesskey "x">
 <!-- LOCALIZATION NOTE (namespaceDesc.label): Do not translate "IMAP" -->
-<!ENTITY namespaceDesc.label "As preferências que especificam os namespaces do seu servidor IMAP">
-<!ENTITY personalNamespace.label "Diretório pessoal:">
+<!ENTITY namespaceDesc.label "As preferências que especificam os 'namespaces' do seu servidor IMAP">
+<!ENTITY personalNamespace.label "'Namespace' pessoal:">
 <!ENTITY personalNamespace.accesskey "p">
 <!ENTITY publicNamespace.label "Público (partilhado):">
 <!ENTITY publicNamespace.accesskey "h">
 <!ENTITY otherUsersNamespace.label "Outros utilizadores:">
 <!ENTITY otherUsersNamespace.accesskey "t">
-<!ENTITY overrideNamespaces.label "Permitir que o servidor substitua estes diretórios">
+<!ENTITY overrideNamespaces.label "Permitir que o servidor substitua estes 'namespaces'">
 <!ENTITY overrideNamespaces.accesskey "a">
 <!ENTITY pop3Desc.label "Ao transferir correio POP deste servidor, utilizar esta pasta para as novas mensagens:" >
 <!ENTITY accountDirectory.label "Caixa de entrada desta conta de servidor">
