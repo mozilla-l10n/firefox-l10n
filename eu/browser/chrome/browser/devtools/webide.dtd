@@ -115,7 +115,7 @@
 <!ENTITY prefs_title "Hobespenak">
 <!ENTITY prefs_editor_title "Editorea">
 <!ENTITY prefs_general_title "Orokorra">
-<!ENTITY prefs_restore "Berrezarri lehenetsiak">
+
 <!ENTITY prefs_manage_components "Kudeatu bestelako osagaiak">
 <!ENTITY prefs_options_autoconnectruntime "Birkonektatu aurreko exekuzio-ingurunera">
 <!ENTITY prefs_options_autoconnectruntime_tooltip "Birkonektatu aurreko exekuzio-ingurunera WebIDE abiatzen denean">
@@ -139,7 +139,7 @@
 <!-- Permissions Table -->
 
 <!ENTITY permissionstable_title "Baimenen taula">
-<!ENTITY permissionstable_name_header "Izena">
+
 <!-- Runtime Details -->
 
 <!ENTITY runtimedetails_title "Exekuzio-ingurunearen informazioa">
@@ -195,3 +195,14 @@
 <!-- Logs panel -->
 
 <!ENTITY logs_title "Aurre-paketatze komandoen erregistroa">
+<!-- Simulator Options -->
+
+
+
+
+<!ENTITY simulator_version "Bertsioa">
+
+
+<!ENTITY simulator_device "Gailua">
+
+

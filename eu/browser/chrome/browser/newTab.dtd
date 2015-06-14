@@ -4,9 +4,13 @@
 <!-- These strings are used in the about:newtab page -->
 
 <!ENTITY newtab.pageTitle "Fitxa berria">
+
+
+
+
 <!ENTITY newtab.customize.title "Pertsonalizatu fitxa berriaren orria">
 <!ENTITY newtab.customize.suggested "Erakutsi gomendatutako guneak eta zure gune erabilienak">
-<!ENTITY newtab.customize.topsites "Erakutsi zure gune erabilienak">
+
 <!ENTITY newtab.customize.blank2 "Erakutsi orri hutsa">
 <!ENTITY newtab.customize.what "Zer da orri hau?">
 <!ENTITY newtab.intro.header "Zer da orri hau?">
