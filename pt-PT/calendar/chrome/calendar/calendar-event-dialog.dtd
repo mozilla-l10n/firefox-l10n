@@ -166,7 +166,7 @@
 <!ENTITY event.calendar.accesskey                         "C">
 <!ENTITY event.attendees.label                            "Participantes:" >
 <!ENTITY event.attendees.accesskey                        "i" >
-<!ENTITY event.alldayevent.label                          "Evento dia completo" >
+<!ENTITY event.alldayevent.label                          "Evento de dia completo" >
 <!ENTITY event.alldayevent.accesskey                      "d">
 <!ENTITY event.from.label                                 "Início:" >
 <!ENTITY event.from.accesskey                             "I">
