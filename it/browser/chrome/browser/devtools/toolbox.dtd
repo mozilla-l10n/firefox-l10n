@@ -14,6 +14,7 @@
 <!ENTITY toolboxZoomIn.key2 "=">
 <!ENTITY toolboxZoomOut.key "-">
 <!ENTITY toolboxZoomReset.key "0">
+<!ENTITY toolboxToggleMinimize.key "U">
 <!ENTITY toolboxReload.key "r">
 <!ENTITY toolboxFramesTooltip "Seleziona un iframe come documento da analizzare">
 <!ENTITY browserToolboxErrorMessage "Errore in apertura Cassetta degli attrezzi browser:">
