@@ -353,6 +353,7 @@
 <!ENTITY identity_run_by "Questo sito è gestito da">
 <!ENTITY identity_no_info "Questo sito web non fornisce informazioni relative all’identità.">
 <!ENTITY identity_not_encrypted "La connessione con questo sito web non è cifrata.">
+<!ENTITY identity_encrypted "Cifrata">
 <!ENTITY loaded_mixed_content_message "Questa pagina presenta contenuti non sicuri.">
 <!ENTITY blocked_mixed_content_message_top "Alcuni contenuti non sicuri sono stati bloccati da &brandShortName;.">
 <!ENTITY blocked_mixed_content_message_bottom "La maggior parte dei siti web funzionerà correttamente anche se questo contenuto viene bloccato.">
