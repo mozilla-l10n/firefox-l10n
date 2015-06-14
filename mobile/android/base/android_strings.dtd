@@ -510,7 +510,7 @@ size. -->
 <!ENTITY remote_tabs_panel_moved_desc "Movemos os seus separadores de outros dispositivos para um painel na sua página inicial que pode ser facilmente acedido sempre que abre um novo separador.">
 <!ENTITY remote_tabs_panel_moved_link "Mostrar o meu novo painel.">
 
-<!ENTITY pin_site_dialog_hint "Escreva palavra chave a pesquisar">
+<!ENTITY pin_site_dialog_hint "Introduza a palavra chave a pesquisar">
 
 <!ENTITY filepicker_title "Escolha um ficheiro">
 <!ENTITY filepicker_audio_title "Escolher ou gravar um som">

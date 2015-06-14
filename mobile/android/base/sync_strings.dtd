@@ -15,7 +15,7 @@
 <!-- J-PAKE Key Screen -->
 
 <!ENTITY sync.subtitle.connect.label "Para ativar o seu novo dispositivo, selecione “Configurar o &syncBrand.shortName.label;”.">
-<!ENTITY sync.subtitle.header2.label "Escreva este código no seu dispositivo">
+<!ENTITY sync.subtitle.header2.label "Introduza este código no seu dispositivo">
 <!ENTITY sync.subtitle.connectlocation2.label "Selecione “&sync.title.pair.label;” na secção &syncBrand.shortName.label; na opções do Firefox no computador.">
 <!ENTITY sync.subtitle.pair.label "Para ativar selecione, “Emparelhar um dispositivo” no seu outro dispositivo.">
 <!ENTITY sync.pin.default.label "...\n...\n...\n">
@@ -28,7 +28,7 @@
 <!ENTITY sync.jpake.subtitle.waiting.label "A aguardar outro dispositivo…">
 <!-- Account Login Screen -->
 
-<!ENTITY sync.subtitle.account.label "Escreva a informação da sua conta do &syncBrand.fullName.label;">
+<!ENTITY sync.subtitle.account.label "Introduza a informação da sua conta do &syncBrand.fullName.label;">
 <!ENTITY sync.input.username.label "Nome da conta">
 <!ENTITY sync.input.password.label "Palavra-passe">
 <!ENTITY sync.input.key.label "Chave de recuperação">
@@ -99,7 +99,7 @@
 <!-- Incorrect settings and changing credentials. -->
 
 <!ENTITY sync.invalidcreds.label "Nome da conta ou palavra-passe incorreta.">
-<!ENTITY sync.invalidserver.label "Por favor escreva um URL de servidor válido">
+<!ENTITY sync.invalidserver.label "Por favor introduza um URL de servidor válido">
 <!ENTITY sync.verifying.label "A verificar…">
 <!ENTITY sync.new.recoverykey.status.incorrect "Chave de recuperação incorreta. Tente novamente.">
 <!-- Send tab to device. -->
@@ -169,12 +169,12 @@
 <!-- Localization note: &formatS; is the Firefox Account's email address. -->
 <!ENTITY fxaccount_confirm_account_verification_link "Foi enviada uma ligação de verificação para &formatS;">
 <!ENTITY fxaccount_confirm_account_resend_email "Reenviar mensagem">
-<!ENTITY fxaccount_confirm_account_change_email "Esquecer este endereço de email?">
+<!ENTITY fxaccount_confirm_account_change_email "Esquecer este endereço de e-mail?">
 <!ENTITY fxaccount_confirm_account_verification_link_sent2 "Mensagem de verificação enviada">
 <!ENTITY fxaccount_confirm_account_verification_link_not_sent2 "Não foi possível enviar a mensagem de verificação">
-<!ENTITY fxaccount_resend_unlock_code_button_label "Reenviar email de desbloqueio">
-<!ENTITY fxaccount_unlock_code_sent "Email para desbloqueio da conta enviado">
-<!ENTITY fxaccount_unlock_code_not_sent "Não foi possível enviar o email para o desbloqueio da conta">
+<!ENTITY fxaccount_resend_unlock_code_button_label "Reenviar e-mail de desbloqueio">
+<!ENTITY fxaccount_unlock_code_sent "E-mail para desbloqueio da conta enviado">
+<!ENTITY fxaccount_unlock_code_not_sent "Não foi possível enviar o e-mail para o desbloqueio da conta">
 
 <!ENTITY fxaccount_sign_in_sub_header "Iniciar sessão">
 <!ENTITY fxaccount_sign_in_button_label "Iniciar sessão">
