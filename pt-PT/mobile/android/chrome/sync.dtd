@@ -14,7 +14,7 @@
 <!ENTITY sync.setup.title           "Ligar ao Sync">
 <!ENTITY sync.setup.pair            "Para ativar selecione &quot;Emparelhar um dispositivo&quot; no seu outro dispositivo.">
 <!ENTITY sync.fallback              "Não estou perto do meu computador…">
-<!ENTITY sync.setup.manual          "Escreva a informação da sua conta Sync">
+<!ENTITY sync.setup.manual          "Introduza a informação da sua conta Sync">
 <!ENTITY sync.account               "Nome da conta">
 <!ENTITY sync.password              "Palavra-passe">
 <!ENTITY sync.recoveryKey           "Chave de recuperação">
