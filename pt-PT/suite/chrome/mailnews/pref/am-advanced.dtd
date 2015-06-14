@@ -17,8 +17,8 @@
 <!ENTITY smtpListSetDefault.accesskey "t">
 
 <!ENTITY serverDescription.label "Descrição: ">
-<!ENTITY serverName.label "Nome do Servidor: ">
+<!ENTITY serverName.label "Nome do servidor: ">
 <!ENTITY serverPort.label "Porta: ">
-<!ENTITY userName.label   "Nome do Utilizador: ">
+<!ENTITY userName.label   "Nome do utilizador: ">
 <!ENTITY connectionSecurity.label "Segurança da ligação: ">
 <!ENTITY authMethod.label   "Método de autenticação: ">

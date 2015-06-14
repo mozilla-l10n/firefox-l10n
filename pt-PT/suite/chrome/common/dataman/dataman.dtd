@@ -70,7 +70,7 @@
 <!ENTITY perm.AllowSession "Permitir para a sessão">
 <!ENTITY perm.Block "Bloquear">
 
-<!ENTITY perm.host.placeholder "Escreva o nome do servidor">
+<!ENTITY perm.host.placeholder "Introduza o nome do servidor">
 <!ENTITY perm.button.add.label "Adicionar">
 <!ENTITY perm.button.add.accesskey "A">
 <!-- preferences -->
@@ -127,8 +127,8 @@
 <!ENTITY fdata.tree.fieldname.label "Nome do campo">
 <!ENTITY fdata.tree.value.label "Valor introduzido">
 <!ENTITY fdata.tree.usecount.label "Usar contador">
-<!ENTITY fdata.tree.firstused.label "Primeiro usado">
-<!ENTITY fdata.tree.lastused.label "Último usado">
+<!ENTITY fdata.tree.firstused.label "Primeira utilização">
+<!ENTITY fdata.tree.lastused.label "Última utilização">
 
 <!ENTITY fdata.ctx.remove.label "Remover">
 <!ENTITY fdata.ctx.remove.accesskey "R">
