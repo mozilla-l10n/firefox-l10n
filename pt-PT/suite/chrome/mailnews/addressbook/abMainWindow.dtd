@@ -37,7 +37,7 @@
 <!ENTITY deleteListCmd.label                            "Eliminar lista">
 <!ENTITY deleteListsCmd.label                           "Eliminar listas selecionadas">
 <!ENTITY deleteItemsCmd.label                           "Eliminar itens selecionados">
-<!ENTITY swapFirstNameLastNameCmd.label                 "Trocar primeiro e último nome">
+<!ENTITY swapFirstNameLastNameCmd.label                 "Trocar nome e apelido">
 <!ENTITY swapFirstNameLastNameCmd.accesskey             "T">  
 <!ENTITY propertiesCmd.label                            "Propriedades…">
 <!-- LOCALIZATION NOTE (propertiesCmd.accesskey) : DONT_TRANSLATE -->  
