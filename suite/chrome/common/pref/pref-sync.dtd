@@ -34,7 +34,7 @@
 <!ENTITY addDevice.accesskey          "A">
 <!-- Sync Settings -->
 
-<!ENTITY syncComputerName.label       "Nome do Computador:">
+<!ENTITY syncComputerName.label       "Nome do computador:">
 <!ENTITY syncComputerName.accesskey   "N">
 
 <!ENTITY syncMy2.label              "Sincronizar:">
