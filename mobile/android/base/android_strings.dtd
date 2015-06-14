@@ -422,7 +422,9 @@ size. -->
 <!ENTITY site_settings_clear        "Borrar">
 <!ENTITY site_settings_no_settings  "No hay configuración que borrar.">
 
-<!ENTITY reading_list_added "Página agregada a la lista de lectura">
+<!-- Localization note (reading_list_added2) : Used in a toast, please keep as short
+     as possible. -->
+<!ENTITY reading_list_added2 "Agregada a lista">
 <!ENTITY reading_list_removed "Página eliminada de la lista de lectura">
 <!-- Localization note (reading_list_remove) : Used to remove the currently open page from
      the user's reading list. The opposite of overlay_share_reading_list_btn_label. -->
@@ -451,7 +453,6 @@ size. -->
 <!ENTITY button_clear_data "Limpiar datos">
 <!ENTITY button_set "Establecer">
 <!ENTITY button_clear "Limpiar">
-<!ENTITY button_remember "Recordar">
 <!ENTITY button_copy "Copiar">
 
 <!ENTITY firstrun_panel_title_welcome "Bienvenido">
@@ -547,6 +548,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_run_by "ejecutado por">
 <!ENTITY identity_no_info "Este sitio web no soporta información de identidad.">
 <!ENTITY identity_not_encrypted "Tu conexión a este sitio web no está cifrada.">
+<!ENTITY identity_encrypted "Cifrada">
 
 <!-- Mixed content notifications in site identity popup -->
 <!ENTITY loaded_mixed_content_message "Esta pagina está mostrando contenido que no es seguro.">
