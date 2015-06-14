@@ -16,7 +16,7 @@
 <!ENTITY gdata.reminder.default "Lembrete pré-definido">
 <!ENTITY gdata.reminder.action.sms.label "Enviar mensagem de texto">
 
-<!ENTITY gdata.wizard.session.description "Por favor escolha uma sessão existente ou escreva o seu endereço eletrónico para criar uma. Apenas precisa de uma sessão por conta.">
+<!ENTITY gdata.wizard.session.description "Por favor escolha uma sessão existente ou escreva o seu endereço de e-mail para criar uma. Apenas precisa de uma sessão por conta.">
 <!ENTITY gdata.wizard.calendars.description "Por favor selecione os calendários ou listas de tarefas que pretende subscrever.">
 
 <!ENTITY gdata.wizard.nextstep.description "Por favor avançe para o próximo passo de modo a configurar os calendários.">
