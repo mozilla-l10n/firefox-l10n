@@ -9,7 +9,7 @@
 <!-- Entities for Account Type page -->
 
 
-<!ENTITY accountSetupInfo2.label "Para poder receber mensagens,tem que configurar primeiro uma conta de correio ou de um grupo de discussão.">
+<!ENTITY accountSetupInfo2.label "Para poder receber mensagens, tem que configurar uma conta.">
 <!ENTITY accountTypeTitle.label "Configurar nova conta">
 <!ENTITY accountTypeDesc2.label "Este assistente vai reunir as informações necessárias para configurar uma conta de correio ou de um grupo de discussão. Se não souber a informação necessária, contacte o seu administrador de sistema ou fornecedor de serviço Internet.">
 <!ENTITY accountTypeDirections.label "Selecione o tipo de conta que você deseja configurar:">
@@ -30,8 +30,8 @@
   2, Use localized full name instead of "John Smith"
 -->
 <!ENTITY fullnameExample.label "(exemplo: &quot;Seu Nome&quot;).">
-<!ENTITY fullnameLabel.label "O seu Nome:">
-<!ENTITY fullnameLabel.accesskey "N">
+<!ENTITY fullnameLabel.label "O seu nome:">
+<!ENTITY fullnameLabel.accesskey "n">
 
 <!ENTITY emailLabel.label "Endereço de e-mail:">
 <!ENTITY emailLabel.accesskey "E">
@@ -51,17 +51,17 @@
 <!ENTITY defaultPortLabel.label "Pré-definido:">
 <!ENTITY defaultPortValue.label "">
 <!-- LOCALIZATION NOTE (incomingServerNameDesc.label) : Do not translate "&quot;pop.example.net&quot;" in below line -->
-<!ENTITY incomingServer.description "Escreva o nome do seu servidor de receção (por exemplo, &quot;mail.exemplo.pt&quot;).">
+<!ENTITY incomingServer.description "Introduza o nome do seu servidor de receção (por exemplo, &quot;mail.exemplo.pt&quot;).">
 <!ENTITY incomingServer.label "Servidor de receção:">
 <!ENTITY incomingServer.accesskey "S">
 <!ENTITY leaveMsgsOnSrvr.label "Manter mensagens no servidor">
 <!ENTITY leaveMsgsOnSrvr.accesskey "M">
 <!-- LOCALIZATION NOTE (incomingUsername.description) : do not translate "&quot;jsmith&quot;" in below line -->
-<!ENTITY incomingUsername.description "Escreva o nome de utilizador de receção que lhe foi dado pelo seu fornecedor de correio (por exemplo, &quot;jsmith&quot;).">
+<!ENTITY incomingUsername.description "Introduza o nome de utilizador de receção que lhe foi dado pelo seu fornecedor de correio (por exemplo, &quot;jsmith&quot;).">
 <!ENTITY incomingUsername.label "Nome de utilizador:">
 <!ENTITY incomingUsername.accesskey "u">
 <!-- LOCALIZATION NOTE (newsServerNameDesc.label) : Do not translate "NNTP" or the "&quot;" entities in below line -->
-<!ENTITY newsServerNameDesc.label "Escreva o nome do seu servidor de notícias (NNTP) (por exemplo, &quot;news.example.net&quot;).">
+<!ENTITY newsServerNameDesc.label "Introduza o nome do seu servidor de notícias (NNTP) (por exemplo, &quot;news.example.net&quot;).">
 <!ENTITY newsServerLabel.label "Servidor de grupos de discussão:">
 <!ENTITY newsServerLabel.accesskey "S">
 <!-- Entities for Outgoing Server page -->
@@ -72,7 +72,7 @@
 <!ENTITY outgoingServer.description "Introduza o nome do servidor de envio (SMTP) (por exemplo, &quot;smtp.exemplo.pt&quot;).">
 <!ENTITY outgoingServer.label "Servidor de envio:">
 <!ENTITY outgoingServer.accesskey "S">
-<!ENTITY outgoingUsername.description "Escreva o nome de utilizador de envio que lhe foi dado pelo seu fornecedor de correio eletrónico (normalmente, é igual ao nome de receção).">
+<!ENTITY outgoingUsername.description "Introduza o nome de utilizador de envio que lhe foi dado pelo seu fornecedor de correio eletrónico (normalmente, é igual ao nome de receção).">
 <!ENTITY outgoingUsername.label "Nome de utilizador do servidor de envio:">
 <!ENTITY outgoingUsername.accesskey "u">
 <!-- LOCALIZATION NOTE (modifyOutgoing.suffix) : This string will be appended after each of

@@ -3,6 +3,6 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY search.button.label      "Pesquisar">
-<!ENTITY search.placeholder       "Escreva o texto a pesquisar">
+<!ENTITY search.placeholder       "Introduza o texto a pesquisar">
 
 <!ENTITY search.engineManager.label "Gerir motores de pesquisa...">

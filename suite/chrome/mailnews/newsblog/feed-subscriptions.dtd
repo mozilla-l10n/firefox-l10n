@@ -37,7 +37,7 @@
 <!ENTITY button.importOPML.accesskey "I">
 <!ENTITY button.exportOPML.label     "Exportar">
 <!ENTITY button.exportOPML.accesskey "t">
-<!ENTITY button.exportOPML.tooltip   "Exporta fontes com a estrutura da pasta; ctrl clique ou ctrl enter para exportar fontes como uma lista">
+<!ENTITY button.exportOPML.tooltip   "Exporta fontes com a estrutura da pasta; ctrl+clique ou ctrl+enter para exportar fontes como uma lista">
 
 <!ENTITY cmd.close.commandKey        "W">
 <!ENTITY button.close.label          "Fechar">

@@ -5,7 +5,7 @@
 
 
 <!ENTITY mailViewSetupTitle.label "Configuração da vista de mensagens">
-<!ENTITY mailViewHeading.label "Nome da visualização da Mensagem :">
+<!ENTITY mailViewHeading.label "Nome da visualização de mensagem :">
 <!ENTITY mailViewHeading.accesskey "N">
 <!ENTITY searchTermCaption.label "Ao selecionar esta vista, mostrar apenas mensagens que:">
 

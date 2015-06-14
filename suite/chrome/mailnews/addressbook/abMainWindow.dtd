@@ -55,11 +55,11 @@
 <!ENTITY showContactPane2.accesskey                     "c">
 <!ENTITY menu_ShowNameAs.label                          "Mostrar nome como"> 
 <!ENTITY menu_ShowNameAs.accesskey                      "n"> 
-<!ENTITY firstLastCmd.label                             "Primeiro, Último">  
+<!ENTITY firstLastCmd.label                             "Primeiro, último">  
 <!ENTITY firstLastCmd.accesskey                         "P"> 
-<!ENTITY lastFirstCmd.label                             "Último, Primeiro">  
+<!ENTITY lastFirstCmd.label                             "Último, primeiro">  
 <!ENTITY lastFirstCmd.accesskey                         "r"> 
-<!ENTITY displayNameCmd.label                           "Nome exibido">  
+<!ENTITY displayNameCmd.label                           "Nome mostrado">  
 <!ENTITY displayNameCmd.accesskey                       "d"> 
 <!-- Tasks Menu -->
 
