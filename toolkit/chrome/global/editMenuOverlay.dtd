@@ -24,12 +24,12 @@
 <!ENTITY selectAllCmd.label        "Selecionar tudo">
 <!ENTITY selectAllCmd.key          "A">
 <!ENTITY selectAllCmd.accesskey    "a">
-<!ENTITY findCmd.label             "Localizar">
+<!ENTITY findCmd.label             "Procurar">
 <!ENTITY findCmd.key               "F">
-<!ENTITY findCmd.accesskey         "L">
-<!ENTITY findAgainCmd.label        "Localizar novamente">
+<!ENTITY findCmd.accesskey         "P">
+<!ENTITY findAgainCmd.label        "Voltar a procurar">
 <!ENTITY findAgainCmd.key          "G">
 <!ENTITY findAgainCmd.key2         "VK_F3">
-<!ENTITY findAgainCmd.accesskey    "n">
+<!ENTITY findAgainCmd.accesskey    "a">
 <!ENTITY findPreviousCmd.label     "Localizar anterior">
 <!ENTITY findPreviousCmd.accesskey "z">

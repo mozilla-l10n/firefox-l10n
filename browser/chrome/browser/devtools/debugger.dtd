@@ -126,7 +126,7 @@
 <!-- LOCALIZATION NOTE (debuggerUI.searchToken): This is the text that appears
   -  in the source editor's context menu for the token search operation. -->
 
-<!ENTITY debuggerUI.searchToken           "Localizar">
+<!ENTITY debuggerUI.searchToken           "Procurar">
 <!ENTITY debuggerUI.searchToken.key       "L">
 <!ENTITY debuggerUI.searchToken.accesskey "F">
 <!-- LOCALIZATION NOTE (debuggerUI.searchLine): This is the text that appears

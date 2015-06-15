@@ -8,7 +8,7 @@
   - documentation on web development on the web. -->
 
 
-<!ENTITY window.title "Consola web">
+<!ENTITY window.title "Consola Web">
 <!ENTITY browserConsole.title "Consola do navegador">
 
 <!ENTITY networkPanel.requestURLColon             "URL pedido:">
