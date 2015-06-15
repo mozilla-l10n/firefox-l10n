@@ -4,6 +4,7 @@
 <!ENTITY addons.windowTitle                   "Xestor de complementos">
 
 <!ENTITY search.placeholder                   "Buscar en todos os complementos">
+<!ENTITY search.buttonlabel                   "Buscar">
 <!-- LOCALIZATION NOTE (search.commandKey):
      The search command key should match findOnCmd.commandkey from browser.dtd -->
 <!ENTITY search.commandkey                    "f">
@@ -21,6 +22,9 @@
 
 <!ENTITY cmd.back.tooltip                     "Retroceder unha páxina">
 <!ENTITY cmd.forward.tooltip                  "Avanzar unha páxina">
+
+
+
 
 <!-- global warnings -->
 <!ENTITY warning.safemode.label                    "O modo seguro desactivou todos os complementos.">
@@ -102,6 +106,7 @@
 <!ENTITY cmd.uninstallAddon.label             "Eliminar">
 <!ENTITY cmd.uninstallAddon.accesskey         "r">
 <!ENTITY cmd.debugAddon.label                 "Depurar">
+
 <!ENTITY cmd.showPreferencesWin.label         "Opcións">
 <!ENTITY cmd.showPreferencesWin.tooltip       "Cambiar as opcións deste complemento">
 <!ENTITY cmd.showPreferencesUnix.label        "Preferencias">
@@ -225,3 +230,20 @@
 <!ENTITY experiment.info.learnmore.accesskey "b">
 <!ENTITY experiment.info.changetelemetry "Configuración de Telemetría">
 <!ENTITY experiment.info.changetelemetry.accesskey "t">
+
+<!ENTITY setting.learnmore "Máis información…">
+
+
+<!-- LOCALIZATION NOTE (disabledUnsigned.description.start, disabledUnsigned.description.findAddonsLink, disabledUnsigned.description.end):
+     These entities form a sentence, with
+     disabledUnsigned.description.findAddonsLink being a link to an external site. -->
+
+
+
+
+<!-- LOCALIZATION NOTE (disabledUnsigned.devInfo.start, disabledUnsigned.devInfo.linkToManual, disabledUnsigned.devInfo.end):
+     These entities form a sentence, with disabledUnsigned.devInfo.linkToManual
+     being a link to an external site. -->
+
+
+

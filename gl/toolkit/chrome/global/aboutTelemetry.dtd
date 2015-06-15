@@ -4,16 +4,42 @@
 
 <!ENTITY aboutTelemetry.pageTitle "Datos telemétricos">
 
-<!ENTITY aboutTelemetry.telemetryEnabled "
-  A telemetría está <span>activada</span>.
-">
 
-<!ENTITY aboutTelemetry.telemetryDisabled "
-  A telemetría está <span>desactivada</span>.
-">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 <!ENTITY aboutTelemetry.generalDataSection "
   Datos xerais
+">
+
+
+
+<!ENTITY aboutTelemetry.telemetryLogSection "
+  Rexistro de telemetría
 ">
 
 <!ENTITY aboutTelemetry.slowSqlSection "

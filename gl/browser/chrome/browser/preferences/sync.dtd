@@ -26,6 +26,8 @@
 <!ENTITY syncMy.label               "Sincronizar">
 <!ENTITY engine.bookmarks.label     "Marcadores">
 <!ENTITY engine.bookmarks.accesskey "M">
+<!ENTITY engine.readinglist.label   "Lista de lectura">
+<!ENTITY engine.readinglist.accesskey "t">
 <!ENTITY engine.tabs.label          "Lapelas">
 <!ENTITY engine.tabs.accesskey      "L">
 <!ENTITY engine.history.label       "Historial">
@@ -78,6 +80,3 @@ both, to better adapt this sentence to their language.
 <!ENTITY welcome.createAccount.label "Crear unha conta">
 
 <!ENTITY welcome.useOldSync.label "Usa unha versión antiga de Sync?">
-
-<!-- Sync Migration -->
-<!ENTITY migrate.upgradeNeeded      "O sistema de conta Sync está en proceso de peche. Requírese unha conta Firefox para sincronizar.">
