@@ -97,5 +97,5 @@ reiniciar agora o &brandShortName; ou continuar a trabalhar e reiniciar mais tar
 <!ENTITY  whatsnew.label                  "Saber mais sobre as novidades…">
 
 <!ENTITY  update.details.label            "Detalhes">
-<!ENTITY  update.installedOn.label        "Instalado em:">
+<!ENTITY  update.installedOn.label        "Instalada em:">
 <!ENTITY  update.status.label             "Estado:">
