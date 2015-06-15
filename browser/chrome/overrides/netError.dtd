@@ -175,5 +175,5 @@ functionality specific to firefox. -->
 <!ENTITY sslv3Used.title "Não é possível ligar com segurança">
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc) - Do not translate
      "ssl_error_unsupported_version". -->
-<!ENTITY sslv3Used.longDesc "Info avançada: ssl_error_unsupported_version">
+<!ENTITY sslv3Used.longDesc "Informação avançada: ssl_error_unsupported_version">
 <!ENTITY sslv3Used.learnMore "Saber mais…">
