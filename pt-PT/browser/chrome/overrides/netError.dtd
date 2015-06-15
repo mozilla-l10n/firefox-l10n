@@ -6,7 +6,7 @@
 %brandDTD;
 
 <!ENTITY loadError.label "Ocorreu um problema ao carregar a página">
-<!ENTITY retry.label "Tentar novamente">
+<!ENTITY retry.label "Voltar a tentar">
 <!-- Specific error messages -->
 
 
@@ -120,15 +120,15 @@ tentar mais tarde.</li>
 </ul>">
 
 <!ENTITY sharedLongDesc "<ul> 
-<li>O sítio pode estar temporariamente indisponível ou ocupado. Tente novamente 
+<li>O site pode estar temporariamente indisponível ou ocupado. Volte a tentar 
 dentro de alguns momentos.</li> 
-<li>Se não conseguir carregar qualquer página, verifique a ligação de rede 
-do seu computador.</li> 
-<li>Se o seu computador ou rede está protegido por uma firewall ou proxy, verifique 
-se o &brandShortName; tem permissão para aceder à Web.</li> 
+<li>Se não conseguir carregar qualquer página, certifique-se de que o seu 
+computador está ligado à Internet.</li> 
+<li>Se o seu computador e a sua rede estiverem protegidos por uma firewall ou 
+proxy, certifique-se de que o &brandShortName; tem permissão para aceder à Web.</li> 
 </ul>">
 
-<!ENTITY malwareBlocked.title "Suspeita de sítio de ataque!">
+<!ENTITY malwareBlocked.title "Suspeita de site perigoso!">
 <!ENTITY malwareBlocked.longDesc "<p>Os sítios de ataque tentam instalar programas que roubam informações pessoais, usam o seu computador para atacar outros ou causam danos ao seu sistema.</p> 
 <p>Os detentores de sítios web que acreditam que os seus sítios foram reportados erradamente podem <a href='http://www.stopbadware.org/home/reviewinfo' >pedir uma revisão da situação</a>.</p>">
 
@@ -167,7 +167,7 @@ functionality specific to firefox. -->
 <!ENTITY errorReporting.sending "A enviar relatório">
 <!ENTITY errorReporting.sent "Relatório enviado">
 <!ENTITY errorReporting.report "Reportar">
-<!ENTITY errorReporting.tryAgain "Tentar novamente">
+<!ENTITY errorReporting.tryAgain "Voltar a tentar">
 
 <!ENTITY remoteXUL.title "XUL remoto">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Por favor contacte os responsáveis do sítio web para os informar sobre este problema.</li></ul></p>">

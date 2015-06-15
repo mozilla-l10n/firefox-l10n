@@ -75,7 +75,7 @@
 <!ENTITY key_zoomout "-">
 <!ENTITY key_resetzoom "0">
 
-<!ENTITY projectPanel_myProjects "Meus projetos">
+<!ENTITY projectPanel_myProjects "Os meus projetos">
 <!ENTITY projectPanel_runtimeApps "Aplicações Runtime">
 <!ENTITY projectPanel_tabs "Separadores">
 <!ENTITY runtimePanel_usb "Dispositivos USB">
