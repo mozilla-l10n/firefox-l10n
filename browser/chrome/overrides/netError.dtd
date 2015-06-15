@@ -132,7 +132,7 @@ proxy, certifique-se de que o &brandShortName; tem permissão para aceder à Web
 <!ENTITY malwareBlocked.longDesc "<p>Os sítios de ataque tentam instalar programas que roubam informações pessoais, usam o seu computador para atacar outros ou causam danos ao seu sistema.</p> 
 <p>Os detentores de sítios web que acreditam que os seus sítios foram reportados erradamente podem <a href='http://www.stopbadware.org/home/reviewinfo' >pedir uma revisão da situação</a>.</p>">
 
-<!ENTITY unwantedBlocked.title "Sítio suspeito de software não solicitado!">
+<!ENTITY unwantedBlocked.title "Site suspeito de software não solicitado!">
 <!ENTITY unwantedBlocked.longDesc "<p>As páginas de software não solicitado tentam instalar software que pode ser decetivo e afetar o seu sistema de formas inesperadas. </p>">
 
 <!ENTITY phishingBlocked.title "Suspeita de wngodo!">
