@@ -15,6 +15,6 @@
 <!ENTITY newtab.customize.what "O que é esta página?">
 <!ENTITY newtab.intro.header "O que é esta página?">
 <!ENTITY newtab.undo.removedLabel "Miniatura removida.">
-<!ENTITY newtab.undo.undoButton "Anular.">
+<!ENTITY newtab.undo.undoButton "Desfazer.">
 <!ENTITY newtab.undo.restoreButton "Repor tudo.">
 <!ENTITY newtab.undo.closeTooltip "Ocultar">
