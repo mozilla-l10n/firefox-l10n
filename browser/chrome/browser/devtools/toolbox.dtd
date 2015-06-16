@@ -25,7 +25,7 @@
 
 <!-- LOCALIZATION NOTE (browserToolboxErrorMessage): This is the label
   -  shown next to error details when the Browser Toolbox is unable to open. -->
-<!ENTITY browserToolboxErrorMessage          "Eraro dum malfermo de la ilujo de retesplorilo:">
+<!ENTITY browserToolboxErrorMessage          "Eraro dum malfermo de la ilujo de retumilo:">
 
 <!-- LOCALIZATION NOTE (options.context.advancedSettings): This is the label for
   -  the heading of the advanced settings group in the options panel. -->
@@ -38,8 +38,8 @@
 <!-- LOCALIZATION NOTE (options.showUserAgentStyles.label): This is the label
   -  for the checkbox option to show user agent styles in the Inspector
   -  panel. -->
-<!ENTITY options.showUserAgentStyles.label "Montri stilojn de retesplorilo">
-<!ENTITY options.showUserAgentStyles.tooltip "Se tio ĉi estas ŝaltita, la normaj stiloj ŝargitaj de la retesplorilo estos montritaj.">
+<!ENTITY options.showUserAgentStyles.label "Montri stilojn de retumilo">
+<!ENTITY options.showUserAgentStyles.tooltip "Se tio ĉi estas ŝaltita, la normaj stiloj ŝargitaj de la retumilo estos montritaj.">
 
 <!-- LOCALIZATION NOTE (options.defaultColorUnit.label): This is the label for a
   -  dropdown list that controls the default color unit used in the inspector.
@@ -76,8 +76,8 @@
 <!-- LOCALIZATION NOTE (options.enableChrome.label4): This is the label for the
   -  checkbox that toggles chrome debugging, i.e. devtools.chrome.enabled
   -  boolean preference in about:config, in the options panel. -->
-<!ENTITY options.enableChrome.label5    "Aktivigi la sencimigan ilujon por la retesplorila chrome kaj por la aldonaĵoj">
-<!ENTITY options.enableChrome.tooltip3  "Ŝalto de tiu ĉi elekteblo permesos al vi uzi plurajn ilojn por disvolvantoj en la kunteksto de la retesplorilo (Iloj > Teksaĵa disvolvanto > Retesplorila ilujo) kaj uzi sencimigajn aldonaĵojn el la administro de aldonaĵoj">
+<!ENTITY options.enableChrome.label5    "Aktivigi la sencimigan ilujon por la retumila chrome kaj por la aldonaĵoj">
+<!ENTITY options.enableChrome.tooltip3  "Ŝalto de tiu ĉi elekteblo permesos al vi uzi plurajn ilojn por disvolvantoj en la kunteksto de la retumilo (Iloj > Teksaĵa disvolvanto > Retumila ilujo) kaj uzi sencimigajn aldonaĵojn el la administro de aldonaĵoj">
 
 <!-- LOCALIZATION NOTE (options.enableRemote.label3): This is the label for the
   -  checkbox that toggles remote debugging, i.e. devtools.debugger.remote-enabled
@@ -131,8 +131,8 @@
 
 <!-- LOCALIZATION NOTE (options.usedeveditiontheme.*) Options under the
   -  toolbox for enabling and disabling the Developer Edition browser theme. -->
-<!ENTITY options.usedeveditiontheme.label   "Uzi la etoson de la retesplorilo Developer Edition">
-<!ENTITY options.usedeveditiontheme.tooltip "Ŝalti/malŝalti la etoson de la retesplorilo Developer Edition.">
+<!ENTITY options.usedeveditiontheme.label   "Uzi la etoson de la retumilo Developer Edition">
+<!ENTITY options.usedeveditiontheme.tooltip "Ŝalti/malŝalti la etoson de la retumilo Developer Edition.">
 
 <!-- LOCALIZATION NOTE (options.webconsole.label): This is the label for the
   -  heading of the group of Web Console preferences in the options panel. -->
