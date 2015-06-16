@@ -4,6 +4,7 @@
 
 <!ENTITY itemFormatting.label              "Vormindus">
 <!ENTITY itemTags.label                    "Sildid">
+<!ENTITY itemAdvanced.label               "Muud">
 
 <!ENTITY style.label                       "Stiil:">
 <!ENTITY style.accesskey                   "t">
@@ -44,3 +45,29 @@
 <!ENTITY fontOptions.label                 "Fondid...">
 <!ENTITY colorButton.label                 "Värvid…">
 <!ENTITY colorButton.accesskey             "r">
+
+<!-- Advanced -->
+<!ENTITY reading.caption                   "Lugemine">
+<!ENTITY display.caption                   "Kuvamine">
+<!ENTITY showCondensedAddresses.label      "Aadressiraamatus olevate kontaktide puhul näidatakse ainult kuvatavat nime">
+<!ENTITY showCondensedAddresses.accesskey  "k">
+
+<!ENTITY autoMarkAsRead.label              "Kirjad märgitakse automaatselt loetuks">
+<!ENTITY autoMarkAsRead.accesskey          "K">
+<!ENTITY markAsReadNoDelay.label           "kohe peale kuvamist">
+<!ENTITY markAsReadNoDelay.accesskey      "o">
+<!-- LOCALIZATION NOTE (markAsReadDelay.label): This will concatenate to
+     "After displaying for [___] seconds",
+     using (markAsReadDelay.label) and a number (secondsLabel.label). -->
+<!ENTITY markAsReadDelay.label             "märgitakse loetuks pärast">
+<!ENTITY markAsReadDelay.accesskey         "m">
+<!ENTITY secondsLabel.label                "sekundit">
+<!ENTITY openMsgIn.label                   "Kirjad avatakse:">
+<!ENTITY openMsgInNewTab.label             "uuel kaardil">
+<!ENTITY openMsgInNewTab.accesskey         "u">
+<!ENTITY reuseExpRadio0.label              "uues aknas">
+<!ENTITY reuseExpRadio0.accesskey          "a">
+<!ENTITY reuseExpRadio1.label              "samas aknas">
+<!ENTITY reuseExpRadio1.accesskey          "s">
+<!ENTITY closeMsgOnMoveOrDelete.label      "Kustutamisel või liigutamisel kirja aken/kaart suletakse">
+<!ENTITY closeMsgOnMoveOrDelete.accesskey  "K">

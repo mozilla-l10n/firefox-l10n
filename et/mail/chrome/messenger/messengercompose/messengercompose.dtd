@@ -158,6 +158,8 @@
 <!ENTITY bothFormatCmd.accesskey             "v">
 <!ENTITY priorityMenu.label                  "Prioriteet">
 <!ENTITY priorityMenu.accesskey              "P">
+<!ENTITY priorityButton.title                "Prioriteet">
+<!ENTITY priorityButton.tooltiptext          "Muuda kirja prioriteeti">
 <!ENTITY priorityButton.label                "Prioriteet:">
 <!ENTITY lowestPriorityCmd.label             "Madalaim">
 <!ENTITY lowestPriorityCmd.accesskey         "M">
