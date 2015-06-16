@@ -6,8 +6,8 @@
 <!ENTITY  no_space_to_start_error        "&brandShortName;i käivitamiseks pole piisavalt vaba ruumi.">
 <!ENTITY  error_loading_file             "Esines viga &brandShortName;i kasutamiseks vajalike failide laadimisel">
 
-<!ENTITY  onboard_start_message2         "Tere tulemast &brandShortName;i!">
-<!ENTITY  onboard_start_subtext2         "Rohkem privaatsust ja kohandamise võimalusi kui kunagi varem.">
+<!ENTITY  onboard_start_message3         "Sirvi veebi &brandShortName;iga">
+<!ENTITY  onboard_start_subtext3         "Tee mobiilse veebilehtisemise kogemus tõeliselt enda omaks.">
 <!ENTITY  onboard_start_button_account   "Logi &brandShortName;i sisse">
 <!ENTITY  onboard_start_button_browser   "Alusta lehitsemist">
 
@@ -114,7 +114,6 @@
      to. -->
 <!ENTITY overlay_share_send_tab_btn_label "Saada teise seadmesse">
 <!ENTITY overlay_share_no_url            "Sellest jagamisest ei leitud linki">
-<!ENTITY overlay_share_retry             "Proovi uuesti">
 <!ENTITY overlay_share_select_device     "Vali seade">
 <!-- Localization note (overlay_no_synced_devices) : Used when the menu option
      to send a tab to a synced device is pressed and no other synced devices
@@ -150,8 +149,6 @@
      it is applicable. -->
 <!ENTITY pref_search_hint                "Vihje: otsingumootoriks võib lisada iga veebisaidi. Lihtsalt puuduta ja hoia näppu selle otsinguväljal ning puuduta siis ikooni &formatI;.">
 <!ENTITY pref_category_devtools          "Arendajale">
-<!ENTITY pref_category_devtools_summary  "Remote debugging, paint flashing">
-<!ENTITY pref_developer_paint_flashing   "Paint flashing">
 <!ENTITY pref_developer_remotedebugging  "Remote debugging">
 <!ENTITY pref_category_logins            "Kasutajakontode paroolid">
 <!ENTITY pref_remember_signons           "Paroolid peetakse meeles">
@@ -192,22 +189,22 @@
 <!ENTITY pref_donottrack_title           "Jälitamine">
 <!ENTITY pref_donottrack_summary         "&brandShortName; annab saitidele teada, et jälitamist ei soovita">
 
-<!ENTITY tab_queue_toast_message         "Ava hiljem">
+<!ENTITY tab_queue_toast_message2        "Kaart pandi &brandShortName;i järjekorda">
 <!ENTITY tab_queue_toast_action          "Ava kohe">
+<!ENTITY tab_queue_prompt_title          "Kas avad mitut linki järjest?">
+<!ENTITY tab_queue_prompt_text2          "Ava need vahepeal &brandShortName;ile lülitumiseta.">
+<!ENTITY tab_queue_prompt_tip_text       "seda käitumist on võimalik sätete alt muuta">
+<!ENTITY tab_queue_prompt_positive_action_button "Luba">
+<!ENTITY tab_queue_prompt_negative_action_button "Mitte praegu">
+<!ENTITY tab_queue_notification_title    "&brandShortName;">
 <!-- Localization note (tab_queue_notification_text_plural) : The
      formatD is replaced with the number of tabs queued.  The
      number of tabs queued is always more than one.  We can't use
      Android plural forms, sadly. See Bug #753859. -->
-<!ENTITY tab_queue_notification_text_plural "Järjekorras on &formatD; kaarti">
-<!-- Localization note (tab_queue_notification_title_plural) : This is the
-     title of a notification; we expect more than one tab queued. -->
-<!ENTITY tab_queue_notification_title_plural "Järjekorras olevad kaardid">
-<!-- Localization note (tab_queue_notification_title_singular) : This is the
-     title of a notification; we expect only one tab queued. -->
-<!ENTITY tab_queue_notification_title_singular "Kaart pandi järjekorda">
-<!-- Localization note (tab_queue_notification_text_singular) : This is the
+<!ENTITY tab_queue_notification_text_plural2 "Järjekorras on &formatD; kaarti">
+<!-- Localization note (tab_queue_notification_text_singular2) : This is the
      text of a notification; we expect only one tab queued. -->
-<!ENTITY tab_queue_notification_text_singular "Kaart pandi järjekorda">
+<!ENTITY tab_queue_notification_text_singular2 "Järjekorras on üks kaart">
 
 <!ENTITY pref_char_encoding              "Kodeeringu valik">
 <!ENTITY pref_char_encoding_on           "kuvatakse menüüs">
@@ -255,7 +252,8 @@ size. -->
 <!ENTITY pref_import_android             "Androidist importimine">
 <!ENTITY pref_import_android_summary     "järjehoidjate ja ajaloo importimine Androidi brauserist">
 <!ENTITY pref_private_data_history2      "Veebilehitsemise ajalugu">
-<!ENTITY pref_private_data_formdata      "Vormide ja otsingu ajalugu">
+<!ENTITY pref_private_data_searchHistory "Otsingu ajalugu">
+<!ENTITY pref_private_data_formdata2     "Vormide ajalugu">
 <!ENTITY pref_private_data_cookies2      "Küpsised ja aktiivsed sisselogimised">
 <!ENTITY pref_private_data_passwords     "Salvestatud paroolid">
 <!ENTITY pref_private_data_cache         "Vahemälu">
@@ -380,6 +378,7 @@ size. -->
 <!ENTITY doorhanger_login_edit_username_hint "Kasutajanimi">
 <!ENTITY doorhanger_login_edit_password_hint "Parool">
 <!ENTITY doorhanger_login_edit_toggle    "Kuva parooli">
+<!ENTITY doorhanger_login_edit_toast_error "Parooli salvestamine ebaõnnestus">
 
 <!ENTITY pref_titlebar_mode              "Tiitliriba">
 <!ENTITY pref_titlebar_mode_title        "kuvatakse lehe pealkirja">
@@ -390,8 +389,8 @@ size. -->
 <!ENTITY pref_scroll_title_bar2          "Üleekraaniline lehitsemine">
 <!ENTITY pref_scroll_title_bar_summary   "kerimisel &brandShortName;i tiitliriba peidetakse">
 
-<!ENTITY pref_tab_queue_title            "Lubatakse hiljem avamine">
-<!ENTITY pref_tab_queue_summary          "kaarte ei avata kohe, vaid need avatakse järgmisel &brandShortName;i käivitumisel.">
+<!ENTITY pref_tab_queue_title2           "Mitme lingi järjestikune avamine">
+<!ENTITY pref_tab_queue_summary2         "lingid pannakse hiljem kasutamiseks järjekorda, ilma iga kord &brandShortName;ile lülitumiseta">
 
 <!-- Localization note (page_removed): This string appears in a toast message when
      any page is removed frome about:home. This includes pages that are in history,
@@ -440,6 +439,8 @@ size. -->
 <!ENTITY button_set                      "Määra">
 <!ENTITY button_clear                    "Tühjenda">
 <!ENTITY button_remember                 "Pea meeles">
+
+<!ENTITY firstrun_panel_title_welcome    "Tere tulemast!">
 
 <!ENTITY home_top_sites_title            "Top saidid">
 <!-- Localization note (home_top_sites_add): This string is used as placeholder
@@ -613,7 +614,15 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY colon                           ":">
 
-<!-- These are only used for accessiblity for the done and overflow-menu buttons in the actionbar.
+<!-- LOCALIZATION NOTE (percent): The percent sign is appended after a number to
+     display a percentage value. formatS is the number, #37 is the code to display a percent sign.
+     This format string is typically used by getString method, in such method the percent sign
+     is a reserved caracter. In order to display one percent sign in the result of getString,
+     double percent signs must be inserted in the format string.
+     This entity is used in the zoomed view to display the zoom factor-->
+<!ENTITY percent "&formatS;&#37;&#37;">
+
+<!-- These are only used for accessibility for the done and overflow-menu buttons in the actionbar.
      They are never shown to users -->
 <!ENTITY actionbar_menu                  "Menüü">
 <!ENTITY actionbar_done                  "Valmis">
