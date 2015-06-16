@@ -203,7 +203,7 @@
   -  debugger sources side menu. This should be the same as
   -  netmonitorUI.context.newTab  -->
 
-<!ENTITY debuggerUI.context.newTab           "Abrir em novo separador">
+<!ENTITY debuggerUI.context.newTab           "Abrir num novo separador">
 <!ENTITY debuggerUI.context.newTab.accesskey "o">
 <!-- LOCALIZATION NOTE (debuggerUI.context.copyUrl): This is the label displayed
   -  on the context menu that copies the selected request's url. This should be

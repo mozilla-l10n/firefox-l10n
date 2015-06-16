@@ -52,11 +52,11 @@ prosseguir com a instalação desta atualização.">
 
 <!ENTITY  incompatibleList.title          "Encontrados extras incompatíveis">
 
-<!ENTITY  downloadPage.title              "A transferir o &brandShortName;">
-<!ENTITY  downloading.intro               "A transferir atualização...">
+<!ENTITY  downloadPage.title              "A descarregar o &brandShortName;">
+<!ENTITY  downloading.intro               "A descarregar atualização…">
 <!ENTITY  connecting.label                "A ligar ao servidor de atualizações...">
 <!ENTITY  verificationFailedText.label    "O &brandShortName; não conseguiu verificar a integridade da 
-atualização parcial transferida, pelo que está a transferir 
+atualização parcial descarregada, pelo que está a descarregar 
 agora o pacote completo da atualização.">
 
 <!ENTITY  viewDetails.tooltip             "Ver detalhes desta atualização">
@@ -65,8 +65,8 @@ agora o pacote completo da atualização.">
 
 <!ENTITY  error.title                     "Falha ao atualizar">
 
-<!ENTITY  error.label                     "Ocorreram problemas na verificação, transferência ou na instalação da atualização. O 
-&brandShortName; não pode ser atualizado porque:">
+<!ENTITY  error.label                     "Ocorreram erros ao verificar, a descarregar ou a instalar esta 
+atualização. O &brandShortName; não pôde ser atualizado porque:">
                                            
 <!ENTITY  errorManual.label               "Pode atualizar manualmente o &brandShortName; visitando esta ligação 
 e transferindo a versão mais recente da aplicação:">

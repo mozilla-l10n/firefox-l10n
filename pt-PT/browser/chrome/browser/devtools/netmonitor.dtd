@@ -339,7 +339,7 @@
   -  for the Open in New Tab menu item displayed in the context menu of the
   -  network container  -->
 
-<!ENTITY netmonitorUI.context.newTab      "Abrir em novo separador">
+<!ENTITY netmonitorUI.context.newTab      "Abrir num novo separador">
 <!-- LOCALIZATION NOTE (netmonitorUI.context.newTab.accesskey): This is the access key
   -  for the Open in New Tab menu item displayed in the context menu of the
   -  network container -->

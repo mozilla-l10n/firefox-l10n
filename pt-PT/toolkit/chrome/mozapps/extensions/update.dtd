@@ -29,7 +29,7 @@ de aplicações está inativa. Pode mudar esta definição abaixo.">
 <!ENTITY  found.enableXPInstall.accesskey "P">
 
 <!ENTITY  installing.wizard.title         "A instalar extras compatíveis">
-<!ENTITY  installing.top.label            "A transferir e instalar atualizações para os seus extras...">
+<!ENTITY  installing.top.label            "A descarregar e instalar atualizações para os seus extras…">
 
 <!ENTITY  noupdates.wizard.title          "Não foram encontrados extras compatíveis">
 <!ENTITY  noupdates.intro.desc            "O &brandShortName; não encontrou atualizações para
