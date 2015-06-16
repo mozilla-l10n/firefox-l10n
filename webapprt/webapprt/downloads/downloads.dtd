@@ -11,11 +11,11 @@ file names and tall enough to hint that there are more downloads in the list -->
 <!ENTITY starting.label                   "A iniciar…">
 <!ENTITY scanning.label                   "A procurar vírus…">
 
-<!ENTITY downloads.title                  "Transferências">
+<!ENTITY downloads.title                  "Descargas">
 
-<!ENTITY cmd.pause.label                  "Pausa">
+<!ENTITY cmd.pause.label                  "Pausar">
 <!ENTITY cmd.pause.accesskey              "P">
-<!ENTITY cmd.resume.label                 "Resumir">
+<!ENTITY cmd.resume.label                 "Retomar">
 <!ENTITY cmd.resume.accesskey             "R">
 <!ENTITY cmd.cancel.label                 "Cancelar">
 <!ENTITY cmd.cancel.accesskey             "C">
@@ -29,9 +29,9 @@ file names and tall enough to hint that there are more downloads in the list -->
 <!ENTITY cmd.openWith.accesskey           "c">
 <!ENTITY cmd.retry.label                  "Voltar a tentar">
 <!ENTITY cmd.retry.accesskey              "r">
-<!ENTITY cmd.goToDownloadPage.label       "Ir para a página de transferências">
+<!ENTITY cmd.goToDownloadPage.label       "Ir para a página de descargas">
 <!ENTITY cmd.goToDownloadPage.accesskey   "g">
-<!ENTITY cmd.copyDownloadLink.label       "Copiar ligação da transferência">
+<!ENTITY cmd.copyDownloadLink.label       "Copiar ligação da descarga">
 <!ENTITY cmd.copyDownloadLink.accesskey   "l">
 <!ENTITY cmd.removeFromList.label         "Remover da lista">
 <!ENTITY cmd.removeFromList.accesskey     "e">
@@ -40,13 +40,13 @@ file names and tall enough to hint that there are more downloads in the list -->
 <!ENTITY cmd.close2.commandKey            "j">
 <!ENTITY cmd.close2Unix.commandKey        "y">
 <!ENTITY cmd.clearList.label              "Limpar lista">
-<!ENTITY cmd.clearList.tooltip            "Remove da lista, transferências terminadas, canceladas e falhadas">
+<!ENTITY cmd.clearList.tooltip            "Remove as descargas terminadas, canceladas e falhadas da lista">
 <!ENTITY cmd.clearList.accesskey          "L">
 <!ENTITY cmd.find.commandKey              "f">
 <!ENTITY cmd.search.commandKey            "k">
 
-<!ENTITY closeWhenDone.label              "Fechar ao terminar a transferência">
-<!ENTITY closeWhenDone.tooltip            "Fechar janela de transferências ao terminar de transferir todos os ficheiros">
+<!ENTITY closeWhenDone.label              "Fechar ao terminar a descarga">
+<!ENTITY closeWhenDone.tooltip            "Fechar janela de descargas quando terminar de descarregar todos os ficheiros">
 
 <!ENTITY showFolder.label                 "Mostrar esta pasta">
 <!ENTITY searchBox.label                  "Pesquisa…">

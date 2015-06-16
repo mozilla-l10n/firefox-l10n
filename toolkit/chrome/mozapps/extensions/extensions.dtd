@@ -135,7 +135,7 @@ melhores e mais populares extras para que os possa experimentar.">
 <!ENTITY detail.lastupdated.label             "Última atualização">
 <!ENTITY detail.creator.label                 "Programador">
 <!ENTITY detail.homepage.label                "Página inicial">
-<!ENTITY detail.numberOfDownloads.label       "Transferências">
+<!ENTITY detail.numberOfDownloads.label       "Descargas">
 
 <!ENTITY detail.contributions.description     "O programador deste extra pede para o ajudar no desenvolvimento com uma pequena contribuição.">
 
