@@ -24,7 +24,7 @@
 <!ENTITY checkOncePerSession.label       "Uma vez por sessão">
 <!ENTITY checkEveryTime.label            "Sempre que vejo esta página">
 <!ENTITY checkNever.label                "Nunca">
-<!ENTITY checkAutomatically.label        "Quando a página estiver desatualizada">
+<!ENTITY checkAutomatically.label        "Se a página estiver desatualizada">
 
 <!ENTITY prefetchTitle.label             "Ligação de pré-carregamento">
 <!ENTITY enablePrefetch.label            "Pré-carregar páginas web quando estiver em espera, para que ligações em páginas web passíveis de pré-carregamento possam ser carregadas mais rapidamente">

@@ -16,7 +16,7 @@
 <!ENTITY askBeforeClear.label             "Perguntar de limpar os dados privados">
 <!ENTITY askBeforeClear.accesskey         "u">
 
-<!ENTITY clearDataSettings.label          "Quando pedir ao &brandShortName; para limpar os meus dados privados, dem ser eliminados:">
+<!ENTITY clearDataSettings.label          "Quando eu pedir ao &brandShortName; para limpar os meus dados privados, eliminar:">
 <!--LOCALIZATION NOTE (clearDataDialog.label, clearDataSilent.label, clearDataDialog.accesskey):
   The only difference bettween the two labels is that one calls a dialog, the other doesn't.
   The same accesskey is used for both labels.

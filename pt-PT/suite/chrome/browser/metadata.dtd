@@ -18,7 +18,7 @@
 <!ENTITY insdel-date.label     "Data:">
 <!ENTITY link-sec.label        "Propriedades da ligação">
 <!ENTITY link-url.label        "Endereço:">
-<!ENTITY link-target.label     "Vai abrir em:">
+<!ENTITY link-target.label     "Abre em:">
 <!ENTITY link-type.label       "Tipo de destino:">
 <!ENTITY link-lang.label       "Idioma de destino:">
 <!ENTITY link-rel.label        "Relação:">
