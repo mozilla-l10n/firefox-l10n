@@ -13,7 +13,7 @@
 <!ENTITY mainWindow.titlemodifiermenuseparator " - ">
 <!-- LOCALIZATION NOTE (mainWindow.titlePrivateBrowsingSuffix): This will be appended to the window's title
                                                                 inside the private browsing mode -->
-<!ENTITY mainWindow.titlePrivateBrowsingSuffix "(Privata retesplorado)">
+<!ENTITY mainWindow.titlePrivateBrowsingSuffix "(Privata retumado)">
 
 <!ENTITY appmenu.tooltip                     "Malfermi menuon">
 <!ENTITY navbarOverflow.label                "Pli da iloj…">
@@ -236,7 +236,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY remoteWebConsoleCmd.label    "Fora teksaĵa konzolo">
 
-<!ENTITY browserConsoleCmd.label      "Retesplorila konzolo">
+<!ENTITY browserConsoleCmd.label      "Retumila konzolo">
 <!ENTITY browserConsoleCmd.commandkey "j">
 <!ENTITY browserConsoleCmd.accesskey  "R">
 
@@ -267,7 +267,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!-- LOCALIZATION NOTE (browserToolboxMenu.label): This is the label for the
   -  application menu item that opens the browser toolbox UI in the Tools menu. -->
-<!ENTITY browserToolboxMenu.label     "Ilarujo de retesplorilo">
+<!ENTITY browserToolboxMenu.label     "Ilarujo de retumilo">
 <!ENTITY browserToolboxMenu.accesskey "u">
 <!ENTITY browserToolboxCmd.commandkey "i">
 
@@ -687,7 +687,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
-<!ENTITY tabsToolbar.label "Langetoj de retesplorilo">
+<!ENTITY tabsToolbar.label "Langetoj de retumilo">
 
 <!-- LOCALIZATION NOTE (syncTabsMenu2.label): This appears in the history menu -->
 <!ENTITY syncTabsMenu2.label     "Langetoj el aliaj aparatoj">
@@ -773,7 +773,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY mixedContentBlocked2.disabled.message "La protekto ne estas aktiva">
 
 <!ENTITY trackingContentBlocked.message "Spurado">
-<!ENTITY trackingContentBlocked.moreinfo "Partoj de la paĝo, kiuj spuras vian retesploran aktivecon, estis blokitaj.">
+<!ENTITY trackingContentBlocked.moreinfo "Partoj de la paĝo, kiuj spuras vian retuman aktivecon, estis blokitaj.">
 <!ENTITY trackingContentBlocked.learnMore "Pli da informo">
 <!ENTITY trackingContentBlocked.options "Elektebloj">
 <!ENTITY trackingContentBlocked.unblock2.label "Malaktivigi protekton por tiu ĉi retejo">
@@ -827,7 +827,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY panicButton.view.forgetButton            "Forgesi!">
 
 <!ENTITY panicButton.thankyou.msg1                "Via ĵusa historio estis viŝita.">
-<!ENTITY panicButton.thankyou.msg2                "Sekura retesploro!">
+<!ENTITY panicButton.thankyou.msg2                "Sekura retumo!">
 <!ENTITY panicButton.thankyou.buttonlabel         "Dankon!">
 
 <!ENTITY processHang.terminateScript.label        "Haltigi skripton">

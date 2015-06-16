@@ -9,7 +9,7 @@
   - documentation on web development on the web. -->
 
 <!ENTITY window.title "Teksaĵa konzolo">
-<!ENTITY browserConsole.title "Retesplorila konzolo">
+<!ENTITY browserConsole.title "Retumila konzolo">
 
 <!ENTITY networkPanel.requestURLColon             "Peta URL:">
 <!ENTITY networkPanel.requestMethodColon          "Peta metodo:">
