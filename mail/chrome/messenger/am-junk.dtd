@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY junkSettings.label     "Rämpsposti sätted">
-<!ENTITY trainingDescription.label "Kui see säte on lubatud, siis pead sa kõigepealt &brandShortName;i õpetama rämpsposti ära tundma. Seda saad teha, kasutades tööriistaribal olevat nuppu Rämpspost. Sa pead tuvastama nii rämpsposti kui ka need kirjad, mis tegelikult pole rämpspost. Alles pärast seda suudab &brandShortName; tuvastada rämpsposti automaatselt.">
+<!ENTITY trainingDescription.label "Kui see säte on lubatud, siis tuleb kõigepealt õpetada &brandShortName; rämpsposti ära tundma. Seda saab teha tööriistaribal oleva nupu Rämpspost abil. Sa pead märkima nii rämpsposti kui ka need kirjad, mis pole rämpspost. Alles pärast seda suudab &brandShortName; rämpsposti automaatselt tuvastada.">
 <!ENTITY level.label            "Selle konto jaoks lubatakse õppiv rämpspostifilter">
 <!ENTITY level.accesskey        "S">
 
