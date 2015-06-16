@@ -196,7 +196,7 @@
 <!ENTITY tab_queue_prompt_tip_text "pode alterar esta opção nas definições">
 <!ENTITY tab_queue_prompt_positive_action_button "Ativar">
 <!ENTITY tab_queue_prompt_negative_action_button "Agora não">
-<!ENTITY tab_queue_notification_title "&brandShortName;Página inicial do &brandShortName;">
+<!ENTITY tab_queue_notification_title "&brandShortName;">
 <!-- Localization note (tab_queue_notification_text_plural2) : The
      formatD is replaced with the number of tabs queued.  The
      number of tabs queued is always more than one.  We can't use
@@ -357,7 +357,7 @@ size. -->
 <!ENTITY contextmenu_open_new_tab "Abrir em novo separador">
 <!ENTITY contextmenu_open_private_tab "Abrir em separador privado">
 <!ENTITY contextmenu_remove "Remover">
-<!ENTITY contextmenu_add_to_launcher "Adicionar ecrã inicial">
+<!ENTITY contextmenu_add_to_launcher "Adicionar ao ecrã inicial">
 <!ENTITY contextmenu_share "Partilhar">
 <!ENTITY contextmenu_pasteandgo "Colar e ir">
 <!ENTITY contextmenu_paste "Colar">
@@ -387,7 +387,7 @@ size. -->
      whether or not the dynamic toolbar is enabled. -->
 
 <!ENTITY pref_scroll_title_bar2 "Navegação com o ecrã inteiro">
-<!ENTITY pref_scroll_title_bar_summary "Ocultar a barra de título de &brandShortName; quando deslocar a página para baixo">
+<!ENTITY pref_scroll_title_bar_summary "Ocultar barra de título do &brandShortName; ao deslocar a página para baixo">
 
 <!ENTITY pref_tab_queue_title2 "Abrir várias ligações">
 <!ENTITY pref_tab_queue_summary2 "Colocar ligações em fila em vez de trocar para o &brandShortName; sempre">
