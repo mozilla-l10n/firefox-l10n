@@ -86,8 +86,8 @@
      section in which the user picks the locale in which to display Firefox
      UI. The locale includes both language and region concepts. -->
 <!ENTITY pref_category_language "Lingvo">
-<!ENTITY pref_category_language_summary "Ŝanĝi la lingvon de via retesplorilo">
-<!ENTITY pref_browser_locale "Lingvo de la retesplorilo">
+<!ENTITY pref_category_language_summary "Ŝanĝi la lingvon de via retumilo">
+<!ENTITY pref_browser_locale "Lingvo de la retumilo">
 
 <!-- Localization note (locale_system_default) : This string indicates that
      Firefox will use the locale currently selected in Android's settings
@@ -131,7 +131,7 @@
 <!ENTITY pref_category_search3 "Serĉi">
 <!ENTITY pref_category_search_summary "Personecigi viajn serĉilojn">
 <!ENTITY pref_category_display "Ekrano">
-<!ENTITY pref_category_display_summary "Teksto, titolstrio, plenekrana retesploro">
+<!ENTITY pref_category_display_summary "Teksto, titolstrio, plenekrana retumo">
 <!ENTITY pref_category_privacy_short "Privateco">
 <!ENTITY pref_category_privacy_summary "Regi pasvortojn, kuketojn, spuradon, datumojn">
 <!ENTITY pref_category_vendor "&vendorShortName;">
@@ -253,8 +253,8 @@ size. -->
 <!ENTITY pref_sync_summary "Speguli viajn langetojn, legosignojn, pasvortojn, historion">
 <!ENTITY pref_search_suggestions "Montri serĉajn sugestojn">
 <!ENTITY pref_import_android "Importi el Android">
-<!ENTITY pref_import_android_summary "Importi legosignojn kaj historion el la nativa retesplorilo">
-<!ENTITY pref_private_data_history2 "Historio de retesplorado">
+<!ENTITY pref_import_android_summary "Importi legosignojn kaj historion el la nativa retumilo">
+<!ENTITY pref_private_data_history2 "Historio de retumado">
 <!ENTITY pref_private_data_formdata "Formulara kaj serĉa historio">
 <!ENTITY pref_private_data_cookies2 "Kuketoj kaj aktivaj seancoj">
 <!ENTITY pref_private_data_passwords "Konservitaj pasvortoj">
@@ -294,11 +294,11 @@ size. -->
      healthReportDesc.label, telemetrySection.label, telemetryDesc.label,
      crashReporterDesc.label). -->
 <!ENTITY datareporting_fhr_title "Sanraporto de &brandShortName;">
-<!ENTITY datareporting_fhr_summary2 "Tiu ĉi raporto dividas kun &vendorShortName; datumojn pri la sano de via retesplorilo kaj helpas vin kompreni ĝian efikecon">
+<!ENTITY datareporting_fhr_summary2 "Tiu ĉi raporto dividas kun &vendorShortName; datumojn pri la sano de via retumilo kaj helpas vin kompreni ĝian efikecon">
 <!ENTITY datareporting_abouthr_title "Vidi mian sanraporton">
 <!ENTITY datareporting_telemetry_title "Telemezuro">
 <!ENTITY datareporting_telemetry_summary "Tio dividas kun &vendorShortName; datumojn pri efikeco, uzado, aparataro kaj personaj agordoj de via restesplorilo, por helpi nin plibonigi &brandShortName;.">
-<!ENTITY datareporting_crashreporter_summary "&brandShortName; sendas raportojn pri paneoj por helpi &vendorShortName; igi vian retesplorilon pli stabila kaj sekura">
+<!ENTITY datareporting_crashreporter_summary "&brandShortName; sendas raportojn pri paneoj por helpi &vendorShortName; igi vian retumilon pli stabila kaj sekura">
 <!-- Localization note (datareporting_crashreporter_title_short) : This string matches
      (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
 <!ENTITY datareporting_crashreporter_title_short "Raportado de paneoj">
@@ -388,7 +388,7 @@ size. -->
 
 <!-- Localization note (pref_scroll_title_bar2): Label for setting that controls
      whether or not the dynamic toolbar is enabled. -->
-<!ENTITY pref_scroll_title_bar2 "Plenekrana retesploro">
+<!ENTITY pref_scroll_title_bar2 "Plenekrana retumo">
 <!ENTITY pref_scroll_title_bar_summary "Kaŝi la titolstrion de &brandShortName; dum paĝo estas malsupren ŝovata">
 
 <!ENTITY pref_tab_queue_title "Malfermi poste">
@@ -451,7 +451,7 @@ size. -->
      with the page title defined in aboutHome.dtd -->
 <!ENTITY home_title "Eka paĝo de &brandShortName;">
 <!ENTITY home_history_title "Historio">
-<!ENTITY home_clear_history_button "Viŝi retesploran historion">
+<!ENTITY home_clear_history_button "Viŝi retuman historion">
 <!ENTITY home_clear_history_confirm "Ĉu vi certe volas viŝi vian historion?">
 <!ENTITY home_bookmarks_empty "Konservitaj legosignoj videblos ĉi tie.">
 <!ENTITY home_closed_tabs_title "Antaŭ nelonge fermitaj langetoj">
@@ -502,8 +502,8 @@ size. -->
      the text of a button; we expect more than one device. -->
 <!ENTITY home_remote_tabs_unhide_selected_devices "Malkaŝi elektitajn aparatojn">
 
-<!ENTITY private_browsing_title "Privata retesploro">
-<!ENTITY private_tabs_panel_empty_desc "Viaj privataj langetoj aperos ĉi tie. Kvankam ni ne gardas vian retesploran historion aŭ kuketojn, legosignoj kaj elŝutitaj dosieroj estos konservitaj en via aparato.">
+<!ENTITY private_browsing_title "Privata retumo">
+<!ENTITY private_tabs_panel_empty_desc "Viaj privataj langetoj aperos ĉi tie. Kvankam ni ne gardas vian retuman historion aŭ kuketojn, legosignoj kaj elŝutitaj dosieroj estos konservitaj en via aparato.">
 <!ENTITY private_tabs_panel_learn_more "Ĉu vi volas pli da informo?">
 
 <!ENTITY remote_tabs_panel_moved_title "Kien iris miaj langetoj?">
@@ -596,12 +596,12 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY guest_session_dialog_continue "Daŭrigi">
 <!ENTITY guest_session_dialog_cancel "Nuligi">
 <!ENTITY new_guest_session_title "&brandShortName; restartos nun">
-<!ENTITY new_guest_session_text "La persono kiu uzos ĝin ne povos vidi ion ajn el viaj personaj retesploraj datumoj (ekzemple: konservitaj pasvortoj, historio aŭ legosignoj).\n\nKiam via gasto finos la seancon, ŝiaj aŭ liaj retesploraj datumoj estos forigitaj kaj via seanco estos restarigita.">
-<!ENTITY guest_browsing_notification_title "Gasta retesploro estas aktiva">
+<!ENTITY new_guest_session_text "La persono kiu uzos ĝin ne povos vidi ion ajn el viaj personaj retumaj datumoj (ekzemple: konservitaj pasvortoj, historio aŭ legosignoj).\n\nKiam via gasto finos la seancon, ŝiaj aŭ liaj retumaj datumoj estos forigitaj kaj via seanco estos restarigita.">
+<!ENTITY guest_browsing_notification_title "Gasta retumo estas aktiva">
 <!ENTITY guest_browsing_notification_text "Tuŝetu por eliri">
 
 <!ENTITY exit_guest_session_title "&brandShortName; restartos nun">
-<!ENTITY exit_guest_session_text "La retesploraj datumoj de tiu ĉi sesio estos forigitaj.">
+<!ENTITY exit_guest_session_text "La retumaj datumoj de tiu ĉi sesio estos forigitaj.">
 
 <!-- Miscellaneous -->
 <!-- LOCALIZATION NOTE (ellipsis): This text is appended to a piece of text that does not fit in the
