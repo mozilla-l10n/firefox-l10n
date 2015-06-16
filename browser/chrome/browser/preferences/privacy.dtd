@@ -77,7 +77,7 @@
 <!ENTITY  rememberHistory2.label      "Memorizar histórico de navegação e de descargas">
 <!ENTITY  rememberHistory2.accesskey  "h">
 
-<!ENTITY  rememberSearchForm.label       "Memorizar pesquisas e histórico de formulários">
+<!ENTITY  rememberSearchForm.label       "Memorizar histórico de pesquisas e formulários">
 <!ENTITY  rememberSearchForm.accesskey   "f">
 
 <!ENTITY  clearOnClose.label             "Limpar o histórico quando o &brandShortName; for fechado">
