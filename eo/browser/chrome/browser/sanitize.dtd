@@ -48,7 +48,7 @@ that require it.  -->
 <!ENTITY historySection.label         "Historio">
 <!ENTITY dataSection.label            "Datumoj">
 
-<!ENTITY itemHistoryAndDownloads.label     "Retesplora kaj elŝuta historio">
+<!ENTITY itemHistoryAndDownloads.label     "Retuma kaj elŝuta historio">
 <!ENTITY itemHistoryAndDownloads.accesskey "e">
 <!ENTITY itemFormSearchHistory.label       "Formulara kaj serĉa historio">
 <!ENTITY itemFormSearchHistory.accesskey   "F">

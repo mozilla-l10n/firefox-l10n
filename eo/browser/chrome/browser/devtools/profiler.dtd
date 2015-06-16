@@ -27,7 +27,7 @@
 
 <!-- LOCALIZATION NOTE (profilerUI.recordButton): This string is displayed
   -  on a button that starts a new profile. -->
-<!ENTITY profilerUI.recordButton.tooltip "Record JavaScript function calls.">
+<!ENTITY profilerUI.recordButton.tooltip "Registri vokojn al funkcioj de JavaScript.">
 
 <!-- LOCALIZATION NOTE (profilerUI.importButton): This string is displayed
   -  on a button that opens a dialog to import a saved profile data file. -->
