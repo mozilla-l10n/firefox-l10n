@@ -133,7 +133,7 @@
   -  is displayed next to a checkbox determining whether or not framerate
   -  is recorded. -->
 
-<!ENTITY profilerUI.enableFramerate             "Gravar Framerate">
+<!ENTITY profilerUI.enableFramerate             "Gravar framerate">
 <!ENTITY profilerUI.enableFramerate.tooltiptext "Gravar framerate durante o perfil.">
 <!-- LOCALIZATION NOTE (profilerUI.showJITOptimizations): This string
   -  is displayed next to a checkbox determining whether or not JIT optimization data
