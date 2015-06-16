@@ -6,8 +6,8 @@
 <!ENTITY  no_space_to_start_error "&brandShortName;를 시작하기에 용량이 너무 작습니다.">
 <!ENTITY  error_loading_file "&brandShortName; 시작하는 중에 오류가 생겼습니다.">
 
-<!ENTITY  onboard_start_message2 "&brandShortName;에 오신 것을 환영합니다">
-<!ENTITY  onboard_start_subtext2 "더 많은 개인 정보 보호 및 커스터마이징 기능을 만나보세요.">
+<!ENTITY  onboard_start_message3 "&brandShortName;와 함께 하는 브라우징">
+<!ENTITY  onboard_start_subtext3 "나만의 모바일 웹 브라우징 경험을 만들어보세요.">
 <!ENTITY  onboard_start_button_account "&brandShortName; 가입">
 <!ENTITY  onboard_start_button_browser "브라우징 시작">
 
@@ -114,7 +114,6 @@
      to. -->
 <!ENTITY overlay_share_send_tab_btn_label "다른 기기로 보내기">
 <!ENTITY overlay_share_no_url "공유 할 링크가 없음">
-<!ENTITY overlay_share_retry "다시 시도">
 <!ENTITY overlay_share_select_device "기기 선택">
 <!-- Localization note (overlay_no_synced_devices) : Used when the menu option
      to send a tab to a synced device is pressed and no other synced devices
@@ -150,8 +149,6 @@
      it is applicable. -->
 <!ENTITY pref_search_hint "팁: 검색창을 길게 누른 후 &formatI; 아이콘을 탭하여 검색 엔진 목록에 웹사이트를 추가하세요.">
 <!ENTITY pref_category_devtools "개발자 도구">
-<!ENTITY pref_category_devtools_summary "원격 디버깅, 그려진 자리 보이기">
-<!ENTITY pref_developer_paint_flashing "그려진 자리 보이기">
 <!ENTITY pref_developer_remotedebugging "원격 디버깅">
 <!ENTITY pref_category_logins "로그인">
 <!ENTITY pref_remember_signons "암호 저장">
@@ -187,29 +184,27 @@
 <!ENTITY pref_cookies_not_accept_foreign "사용하기 (제3자 쿠키 제외)">
 <!ENTITY pref_cookies_disabled "사용 안 함">
 
-
-
 <!ENTITY pref_tracking_protection_title "추적 보호 기능">
 <!ENTITY pref_tracking_protection_summary "&brandShortName;가 사이트의 추적을 차단합니다">
 <!ENTITY pref_donottrack_title "추적 중지">
 <!ENTITY pref_donottrack_summary "&brandShortName;가 사이트들에 방문자 추적 중지 요청을 합니다.">
 
-<!ENTITY tab_queue_toast_message "나중에 열기">
+<!ENTITY tab_queue_toast_message2 "&brandShortName;에 탭 대기 중">
 <!ENTITY tab_queue_toast_action "지금 열기">
-<!-- Localization note (tab_queue_notification_text_plural) : The
+<!ENTITY tab_queue_prompt_title "여러 개의 링크를 열까요?">
+<!ENTITY tab_queue_prompt_text2 "매번 &brandShortName;로 전환하지 않고 모두 한번에 엽니다.">
+<!ENTITY tab_queue_prompt_tip_text "나중에 설정에서 변경할 수 있습니다">
+<!ENTITY tab_queue_prompt_positive_action_button "활성화">
+<!ENTITY tab_queue_prompt_negative_action_button "나중에 하기">
+<!ENTITY tab_queue_notification_title "&brandShortName;">
+<!-- Localization note (tab_queue_notification_text_plural2) : The
      formatD is replaced with the number of tabs queued.  The
      number of tabs queued is always more than one.  We can't use
      Android plural forms, sadly. See Bug #753859. -->
-<!ENTITY tab_queue_notification_text_plural "&formatD;개 탭 예약">
-<!-- Localization note (tab_queue_notification_title_plural) : This is the
-     title of a notification; we expect more than one tab queued. -->
-<!ENTITY tab_queue_notification_title_plural "예약된 탭">
-<!-- Localization note (tab_queue_notification_title_singular) : This is the
-     title of a notification; we expect only one tab queued. -->
-<!ENTITY tab_queue_notification_title_singular "예약된 탭">
-<!-- Localization note (tab_queue_notification_text_singular) : This is the
+<!ENTITY tab_queue_notification_text_plural2 "&formatD;개 탭 대기 중">
+<!-- Localization note (tab_queue_notification_text_singular2) : This is the
      text of a notification; we expect only one tab queued. -->
-<!ENTITY tab_queue_notification_text_singular "1개 탭 예약">
+<!ENTITY tab_queue_notification_text_singular2 "1개 탭 대기 중">
 
 <!ENTITY pref_char_encoding "문자 인코딩 표시">
 <!ENTITY pref_char_encoding_on "메뉴 보기">
@@ -257,7 +252,8 @@ demonstrate the font size setting.  It is meant to be whimsical and fun. -->
 <!ENTITY pref_import_android "안드로이드에서 가져오기">
 <!ENTITY pref_import_android_summary "기본 브라우저에서 북마크 및 방문 이력 가져오기">
 <!ENTITY pref_private_data_history2 "방문 기록">
-<!ENTITY pref_private_data_formdata "폼 저장 및 검색 기록">
+<!ENTITY pref_private_data_searchHistory "검색 기록">
+<!ENTITY pref_private_data_formdata2 "양식 데이터 기록">
 <!ENTITY pref_private_data_cookies2 "쿠키 및 로그인">
 <!ENTITY pref_private_data_passwords "저장한 암호">
 <!ENTITY pref_private_data_cache "캐시">
@@ -383,6 +379,7 @@ demonstrate the font size setting.  It is meant to be whimsical and fun. -->
 <!ENTITY doorhanger_login_edit_username_hint "사용자명">
 <!ENTITY doorhanger_login_edit_password_hint "암호">
 <!ENTITY doorhanger_login_edit_toggle "암호 보이기">
+<!ENTITY doorhanger_login_edit_toast_error "로그인 저장하기 실패">
 
 <!ENTITY pref_titlebar_mode "제목창">
 <!ENTITY pref_titlebar_mode_title "페이지 제목 표시">
@@ -393,8 +390,8 @@ demonstrate the font size setting.  It is meant to be whimsical and fun. -->
 <!ENTITY pref_scroll_title_bar2 "전체 화면 브라우징">
 <!ENTITY pref_scroll_title_bar_summary "페이지를 스크롤 할 때 &brandShortName; 제목창을 숨깁니다">
 
-<!ENTITY pref_tab_queue_title "나중에 열기">
-<!ENTITY pref_tab_queue_summary "탭을 지금 열지 않고, 예약된 탭들을 다음번 &brandShortName;가 실행 될 때 한번에 엽니다.">
+<!ENTITY pref_tab_queue_title2 "여러 개의 링크 열기">
+<!ENTITY pref_tab_queue_summary2 "매번 &brandShortName;를 여는 대신 나중에 열도록 링크를 쌓아두세요">
 
 <!-- Localization note (page_removed): This string appears in a toast message when
      any page is removed frome about:home. This includes pages that are in history,
@@ -443,6 +440,8 @@ demonstrate the font size setting.  It is meant to be whimsical and fun. -->
 <!ENTITY button_set "설정">
 <!ENTITY button_clear "지우기">
 <!ENTITY button_remember "기억하기">
+
+<!ENTITY firstrun_panel_title_welcome "환영합니다">
 
 <!ENTITY home_top_sites_title "상위 사이트">
 <!-- Localization note (home_top_sites_add): This string is used as placeholder
@@ -610,6 +609,15 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY ellipsis "…">
 
 <!ENTITY colon ":">
+
+<!-- LOCALIZATION NOTE (percent): The percent sign is appended after a number to
+     display a percentage value. formatS is the number, #37 is the code to display a percent sign.
+     This format string is typically used by getString method, in such method the percent sign
+     is a reserved caracter. In order to display one percent sign in the result of getString,
+     double percent signs must be inserted in the format string.
+     This entity is used in the zoomed view to display the zoom factor-->
+<!ENTITY percent "&formatS;&#37;&#37;">
+
 
 
 <!-- These are only used for accessiblity for the done and overflow-menu buttons in the actionbar.
