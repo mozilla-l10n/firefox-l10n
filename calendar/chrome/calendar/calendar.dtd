@@ -339,7 +339,7 @@
 <!-- Error reporting -->
 
 <!ENTITY calendar.error.description "Descripziun:">
-
+<!ENTITY calendar.error.title "Ina errur è succedida">
 <!-- Extract buttons in message header -->
 
 
