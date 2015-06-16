@@ -51,7 +51,7 @@
 
 <!ENTITY otherActionsButton2.label "Mais">
 <!ENTITY otherActionsButton.tooltip "Mais ações">
-<!ENTITY otherActionsOpenConversation1.label "Abrir uma conversa">
+<!ENTITY otherActionsOpenConversation1.label "Abrir na conversa">
 <!ENTITY otherActionsOpenConversation1.accesskey "c">
 <!ENTITY otherActionsOpenInNewWindow1.label "Abrir em nova janela">
 <!ENTITY otherActionsOpenInNewWindow1.accesskey "j">

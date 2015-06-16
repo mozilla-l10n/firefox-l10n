@@ -78,7 +78,7 @@
 <!ENTITY showOffline.accesskey         "O">
 
 <!ENTITY Diskspace                       "Espaço em disco">
-<!ENTITY offlineCompactFolders.label     "Compactar todas as pastas quando se puder libertar pelo menos">
+<!ENTITY offlineCompactFolders.label     "Compactar todas as pastas se puder libertar pelo menos">
 <!ENTITY offlineCompactFolders.accesskey "a">
 <!ENTITY offlineCompactFoldersMB.label   "MB no total">
 <!-- LOCALIZATION NOTE:
