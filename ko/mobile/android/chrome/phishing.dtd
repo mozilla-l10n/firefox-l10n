@@ -15,3 +15,7 @@
 <!-- Localization note (safeb.blocked.phishing.shortDesc) - Please don't translate the contents of the <span id="phishing_sitename"/> tag. It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
 <!ENTITY safeb.blocked.phishingPage.shortDesc2 "사이트는 보안 설정에 기반하여 차단되어진 위조 의심 사이트 입니다.">
 <!ENTITY safeb.blocked.phishingPage.longDesc2 "<p>웹 위조는 당신이 의심을 하지 못하도록 하기 위하여 당신이 자주 이용하는 사이트의 개인 또는 금융 정보를 입력하는 것처럼 설계를 합니다.</p>">
+<!ENTITY safeb.blocked.unwantedPage.title "Reported Unwanted Software Site!">
+<!-- Localization note (safeb.blocked.unwanted.shortDesc) - Please don't translate the contents of the <span id="unwanted_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
+<!ENTITY safeb.blocked.unwantedPage.shortDesc "<span id='unwanted_sitename'/> 서버의 웹페이지는 원치 않는 소프트웨어를 포함하고 있는 것으로 보고되어 사용자의 보안 설정에 맞춰 차단되었습니다.">
+<!ENTITY safeb.blocked.unwantedPage.longDesc "원치 않는 소프트웨어 페이지들은 예상치 못한 방식으로 사용자의 시스템에 피해를 줄 수 있는 소프트웨어를 설치하려 합니다.">
