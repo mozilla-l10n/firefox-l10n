@@ -16,5 +16,5 @@
 <!ENTITY cmd.goToDownloadPage.accesskey  "r">
 <!ENTITY cmd.copyDownloadLink.label      "Copiar ligação da transferência">
 <!ENTITY cmd.copyDownloadLink.accesskey  "l">
-<!ENTITY closeWhenDone.label             "Fechar esta janela quando a transferência terminar.">
+<!ENTITY closeWhenDone.label             "Fechar esta janela ao terminar a transferência.">
 <!ENTITY closeWhenDone.accesskey         "F">

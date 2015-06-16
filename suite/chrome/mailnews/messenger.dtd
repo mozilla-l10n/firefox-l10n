@@ -20,8 +20,8 @@
 <!ENTITY newMessage.accesskey "N">
 <!ENTITY newFolderCmd.label "Pasta...">
 <!ENTITY newFolderCmd.accesskey "P">
-<!ENTITY newVirtualFolderCmd.label "Pesquisa gravada…">
-<!ENTITY newVirtualFolderCmd.accesskey "g">
+<!ENTITY newVirtualFolderCmd.label "Pesquisa guardada…">
+<!ENTITY newVirtualFolderCmd.accesskey "s">
 <!ENTITY newTabCmd.label "Duplicar separador">
 <!ENTITY newTabCmd.accesskey "s">
 <!ENTITY newTabCmd.key "s">

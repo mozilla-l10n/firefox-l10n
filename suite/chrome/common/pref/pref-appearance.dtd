@@ -8,7 +8,7 @@
 <!--LOCALIZATION NOTE (onStartLegend.label): Don't translate "&brandShortName;".
     Place &brandShortName; in the phrase where the name of the application should appear
 -->
-<!ENTITY onStartLegend.label                    "Quando o &brandShortName; inicia, abrir">
+<!ENTITY onStartLegend.label                    "Ao iniciar o &brandShortName;, abrir">
 <!ENTITY navCheck.label                         "Navegador">
 <!ENTITY navCheck.accesskey                     "N">
 <!ENTITY showToolsLegend.label                  "Mostrar barras de ferramentas como">

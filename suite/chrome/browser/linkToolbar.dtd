@@ -10,8 +10,8 @@
 
 <!ENTITY linkToolbarAlways.label "Mostrar sempre">
 <!ENTITY linkToolbarAlways.accesskey "s">
-<!ENTITY linkToolbarAsNeeded.label "Mostrar apenas quando necessário">
-<!ENTITY linkToolbarAsNeeded.accesskey "M">
+<!ENTITY linkToolbarAsNeeded.label "Mostrar apenas se necessário">
+<!ENTITY linkToolbarAsNeeded.accesskey "o">
 <!ENTITY linkToolbarNever.label "Ocultar sempre">
 <!ENTITY linkToolbarNever.accesskey "O">
 <!-- Toolbar buttons, menus, and menuitems -->

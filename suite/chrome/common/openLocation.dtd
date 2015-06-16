@@ -17,6 +17,6 @@
 <!ENTITY currentTab.label "Separador da navegação atual">
 <!ENTITY editNewWindow.label "Nova janela de mensagem">
 <!ENTITY open.label "Abrir">
-<!ENTITY caption.label "Abrir endereço Web">
+<!ENTITY caption.label "Abrir localização web">
 <!ENTITY openWhere.label "Abrir em:">
 <!ENTITY openWhere.accesskey "m">
