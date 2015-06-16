@@ -6,7 +6,7 @@
 <!ENTITY aboutPrivateBrowsing.title.normal     "Abrir janela privada?">
 
 <!ENTITY aboutPrivateBrowsing.subtitle         "O &brandShortName; não memorizará o histórico desta janela.">
-<!ENTITY aboutPrivateBrowsing.subtitle.normal  "O &brandShortName; não memoriza o histórico de janelas privadas.">
+<!ENTITY aboutPrivateBrowsing.subtitle.normal  "O &brandShortName; não memorizará o histórico de janelas privadas.">
 
 <!ENTITY aboutPrivateBrowsing.description      "Inclui o histórico de navegação, de pesquisas, de descargas, de formulários, cookies e ficheiros temporários. No entanto, os ficheiros que descarregar e os marcadores que criar serão guardados.">
 
