@@ -187,13 +187,13 @@
 <!ENTITY pref_tracking_protection_title "தடமறியல் பாதுகாப்பு">
 <!ENTITY pref_tracking_protection_summary "உங்களை தடமறியும் தளங்களை &brandShortName; இது தடுக்கிறது">
 <!ENTITY pref_donottrack_title "தடமறிய வேண்டாம்">
-<!ENTITY pref_donottrack_summary "&brandShortName; தளங்களிடம் உங்களை தடமறிய வேண்டாம் என சொல்லவும்">
+<!ENTITY pref_donottrack_summary "&brandShortName; தளங்களிடம் உங்களை தடமறிய வேண்டாம் என தெரிவிக்கும்">
 
 <!ENTITY tab_queue_toast_message2 "கீற்று &brandShortName; இல் வரிசைப்படுத்தப்பட்டது">
 <!ENTITY tab_queue_toast_action "இப்போதே திற">
-
-
-
+<!ENTITY tab_queue_prompt_title "பல இணைப்புகளைத் திறக்கிறதா?">
+<!ENTITY tab_queue_prompt_text2 "ஒவ்வொரு முறையும் &brandShortName;ற்கு தாவாமல் இவற்றை திற.">
+<!ENTITY tab_queue_prompt_tip_text "இதை நீங்கள் அமைப்புகளில் பின்னர் மாற்றலாம்">
 
 
 <!ENTITY tab_queue_notification_title "&brandShortName;">
@@ -201,8 +201,10 @@
      formatD is replaced with the number of tabs queued.  The
      number of tabs queued is always more than one.  We can't use
      Android plural forms, sadly. See Bug #753859. -->
+<!ENTITY tab_queue_notification_text_plural2 "&formatD; கீற்றுகள் காத்திருக்கின்றன">
 <!-- Localization note (tab_queue_notification_text_singular2) : This is the
      text of a notification; we expect only one tab queued. -->
+<!ENTITY tab_queue_notification_text_singular2 "1 தத்தல் காத்திருக்கிறது">
 
 <!ENTITY pref_char_encoding "எழுத்து குறிமுறை">
 <!ENTITY pref_char_encoding_on "பட்டியலை காட்டு">
@@ -243,7 +245,7 @@ size. -->
 <!ENTITY pref_zoom_force_enabled "அளவுமாற்றதை எப்பொழுதும் செயல்படுத்து">
 <!ENTITY pref_zoom_force_enabled_summary "கட்டாய புறக்கணித்தல் மூலம் எந்தப் பக்கத்தையும் பெரிதாக்க முடியும்">
 
-<!ENTITY pref_use_master_password "முதன்மை கடவுச்சொல்">
+<!ENTITY pref_use_master_password "முதன்மை கடவுச்சொல்லை பயன்படுத்து">
 <!ENTITY pref_sync "ஒத்திசை">
 <!ENTITY pref_sync_summary "உங்கள் கீற்றுகளை, புத்தகக்குறிகளை, கடவுச்சொற்களை, வரலாற்றை ஒத்திசைவுச் செய்">
 <!ENTITY pref_search_suggestions "தேடுல் பரிந்துரைகளை காட்டு">
@@ -314,7 +316,7 @@ size. -->
 <!ENTITY quit "வெளியேறு">
 
 <!ENTITY addons "கூடுதல் இணைப்புகள்">
-
+<!ENTITY logins "உள்நுழைவுகள்">
 <!ENTITY downloads "பதிவிறக்கங்கள்">
 <!ENTITY apps "பயன்பாடுகள்">
 <!ENTITY char_encoding "எழுத்து குறிமுறை">
@@ -370,11 +372,11 @@ size. -->
 <!-- Localization note (doorhanger_login_no_username): This string is used in the save-login doorhanger
      where normally a username would be displayed. In this case, no username was found, and this placeholder
      contains brackets to indicate this is not actually a username, but rather a placeholder -->
-
+<!ENTITY doorhanger_login_edit_title "உள்நுழைவை திருத்து">
 <!ENTITY doorhanger_login_edit_username_hint "பயனர் பெயர்">
 
-
-
+<!ENTITY doorhanger_login_edit_toggle "கடவுச்சொல்லை காட்டு">
+<!ENTITY doorhanger_login_edit_toast_error "உள்நுழைவை சேமித்தல் தோல்வி">
 
 <!ENTITY pref_titlebar_mode "தலைப்பு பட்டி">
 <!ENTITY pref_titlebar_mode_title "பக்க தலைப்பை காண்பி">
@@ -385,6 +387,7 @@ size. -->
 <!ENTITY pref_scroll_title_bar2 "முழுத்திரை உலாவல்">
 <!ENTITY pref_scroll_title_bar_summary "ஒரு பக்கத்தை கீழே உருட்டும் போது &brandShortName; தலைப்பு பட்டையை மறை">
 
+<!ENTITY pref_tab_queue_title2 "பல இணைப்புகளைத் திற">
 
 <!-- Localization note (page_removed): This string appears in a toast message when
      any page is removed frome about:home. This includes pages that are in history,
@@ -435,6 +438,7 @@ size. -->
 <!ENTITY button_clear "துடை">
 <!ENTITY button_remember "நினைவுகொள்">
 
+<!ENTITY firstrun_panel_title_welcome "வருக">
 
 <!ENTITY home_top_sites_title "அடிக்கடி பார்த்த இணையத்தளங்கள்">
 <!-- Localization note (home_top_sites_add): This string is used as placeholder
@@ -613,6 +617,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      is a reserved caracter. In order to display one percent sign in the result of getString,
      double percent signs must be inserted in the format string.
      This entity is used in the zoomed view to display the zoom factor-->
+
+<!ENTITY percent "&formatS;&#037;&#037;">
 <!-- These are only used for accessibility for the done and overflow-menu buttons in the actionbar.
      They are never shown to users -->
 

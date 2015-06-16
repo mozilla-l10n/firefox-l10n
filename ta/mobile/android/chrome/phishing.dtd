@@ -16,5 +16,6 @@
 <!ENTITY safeb.blocked.phishingPage.shortDesc2 "இந்த பக்கத்தில் உங்களுடைய சொந்த தகவல்களை உள்ளிடுதல் உங்களின் அடையாளத்தை திருடுவதில் அல்லது மற்ற ஏமாற்றங்களில் முடியும்.">
 <!ENTITY safeb.blocked.phishingPage.longDesc2 "<p>இந்த வகை இணைய மோசடிகள் ஃபிஷிங் தாக்குதல் எனப்படுகிறது, அதாவது நம்பகமான இணைய பக்கம் அல்லது மின்னஞ்சல்கள் போலவே ஜோடிக்கப்படும்.</p>">
 
+<!ENTITY safeb.blocked.unwantedPage.title "விரும்பத்தகா மென்பொருள் தளத்தை புகார் செய்!">
 <!-- Localization note (safeb.blocked.unwanted.shortDesc) - Please don't translate the contents of the <span id="unwanted_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
 
