@@ -11,7 +11,7 @@
 <!ENTITY tabNavigationTextboxes.label "Nota: caixas de texto e regiões deslocáveis fazem sempre parte da ordem dos separadores.">
 <!ENTITY tabNavigationDesc.label "Quando Tab ou Shift+Tab é carregado, mover entre:">
 <!ENTITY accessibilityBrowseWithCaret.label "Navegar com Caret">
-<!ENTITY browseWithCaretDesc.label "Navegação por caret permite-lhe navegar e selecionar entre páginas usando as teclas do cursor para mover um caret visível.">
+<!ENTITY browseWithCaretDesc.label "A navegação por cursor permite-lhe navegar e selecionar as páginas através das teclas do cursor.">
 <!ENTITY browseWithCaretUse.label "Usar navegação caret">
 <!ENTITY browseWithCaretUse.accesskey "U">
 <!ENTITY browseWithCaretShortCut.label "Usar o atalho F7 para trocar a navegação por caret">
