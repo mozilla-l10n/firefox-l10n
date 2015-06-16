@@ -89,5 +89,5 @@
 <!ENTITY exceptionMgr.certstatus.caption      "Estado do certificado">
 <!ENTITY exceptionMgr.certstatus.viewCert     "Ver...">
 <!ENTITY exceptionMgr.certstatus.accesskey    "V">
-<!ENTITY exceptionMgr.permanent.label         "Gravar exceção permanentemente">
+<!ENTITY exceptionMgr.permanent.label         "Guardar exceção permanentemente">
 <!ENTITY exceptionMgr.permanent.accesskey     "p">

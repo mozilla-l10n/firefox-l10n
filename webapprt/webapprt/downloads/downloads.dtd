@@ -46,7 +46,7 @@ file names and tall enough to hint that there are more downloads in the list -->
 <!ENTITY cmd.search.commandKey            "k">
 
 <!ENTITY closeWhenDone.label              "Fechar ao terminar a transferência">
-<!ENTITY closeWhenDone.tooltip            "Fechar a janela de transferências quando todos os ficheiros terminarem">
+<!ENTITY closeWhenDone.tooltip            "Fechar janela de transferências ao terminar de transferir todos os ficheiros">
 
 <!ENTITY showFolder.label                 "Mostrar esta pasta">
 <!ENTITY searchBox.label                  "Pesquisa…">
