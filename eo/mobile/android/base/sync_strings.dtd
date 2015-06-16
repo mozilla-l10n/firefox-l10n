@@ -46,7 +46,7 @@
 
 <!-- Setup Success -->
 <!ENTITY sync.title.success.label 'Agordo kompletigita'>
-<!ENTITY sync.subtitle.success.label1 'Viaj datumoj estas nun fone elŝutataj. Vi povas iri al “Agordoj“ por administri vian konton aŭ komenci retesplori per &brandShortName;.'>
+<!ENTITY sync.subtitle.success.label1 'Viaj datumoj estas nun fone elŝutataj. Vi povas iri al “Agordoj“ por administri vian konton aŭ komenci retumi per &brandShortName;.'>
 <!ENTITY sync.settings.label 'Agordoj'>
 <!ENTITY sync.subtitle.manage.label1 'Via konto de &syncBrand.fullName.label; estas jam agordita. Vi povas iri al “Agordoj“ por administri vian konton, aŭ startigi &brandShortName;.'>
 
@@ -130,7 +130,7 @@
 <!-- Localization note: these are shown in screens after the user has
      created or signed in to an account, and take the user back to
      Firefox. -->
-<!ENTITY fxaccount_back_to_browsing 'Reen al retesploro'>
+<!ENTITY fxaccount_back_to_browsing 'Reen al retumo'>
 
 <!-- Localization note: the following two strings are interpolated
      into fxaccount_create_account_policy_text2; see note for that
@@ -224,7 +224,7 @@
 <!ENTITY fxaccount_status_more 'Pli&ellipsis;'>
 
 <!ENTITY fxaccount_remove_account_dialog_title 'Ĉu forigi konton de Firefox?'>
-<!ENTITY fxaccount_remove_account_dialog_message '&brandShortName; ne plu spegulos kun via konto, sed ĝi ne forigos iun ajn retesploran datumon el tiu ĉi aparato.'>
+<!ENTITY fxaccount_remove_account_dialog_message '&brandShortName; ne plu spegulos kun via konto, sed ĝi ne forigos iun ajn retuman datumon el tiu ĉi aparato.'>
 <!-- Localization note: format string below will be replaced
      with the Firefox Account's email address. -->
 <!ENTITY fxaccount_remove_account_toast 'Forigita konto de Firefox &formatS;.'>
