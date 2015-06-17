@@ -10,8 +10,8 @@
 <!ENTITY asAttachment.label                   "Como anexo">
 <!ENTITY asAttachment.accesskey               "a">
 
-<!ENTITY replyQuoteInline.label               "Citar anexos visualizados em linha nas respostas">
-<!ENTITY replyQuoteInline.accesskey           "C">
+<!ENTITY replyQuoteInline.label               "Ao responder, incluir os anexos exibidos na mensagem">
+<!ENTITY replyQuoteInline.accesskey           "A">
 <!ENTITY warnOnSendAccelKey.label             "Confirmar quando usar atalhos do teclado para enviar mensagem">
 <!ENTITY warnOnSendAccelKey.accesskey         "t">
 <!-- LOCALIZATION NOTE (autoSave.label): This will concatenate with
