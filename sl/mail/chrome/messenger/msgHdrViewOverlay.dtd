@@ -6,13 +6,13 @@
 <!ENTITY fromField4.label "Od">
 <!ENTITY senderField4.label "Pošiljatelj">
 <!ENTITY organizationField4.label "Organizacija">
-<!ENTITY replyToField4.label "Odgovor za">
+<!ENTITY replyToField4.label "Odgovori za">
 
 <!ENTITY subjectField4.label "Zadeva">
 <!ENTITY ccField4.label "Kp">
 <!ENTITY bccField4.label "Skp">
 <!ENTITY newsgroupsField4.label "Novičarske skupine">
-<!ENTITY followupToField4.label "Nadaljnji odgovor za">
+<!ENTITY followupToField4.label "Nadalje odgovori za">
 <!ENTITY tagsHdr4.label "Oznake">
 <!ENTITY dateField4.label "Datum">
 <!ENTITY userAgentField4.label "Uporabniški posrednik">

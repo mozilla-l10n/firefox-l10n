@@ -6,13 +6,13 @@
 <!ENTITY AdvancedEditButton.accessKey "a">
 <!ENTITY AdvancedEditButton.tooltip "Dodaj ali spremeni atribute HTML, slogovne atribute in JavaScript">
 <!ENTITY chooseFileButton.label "Izberi datoteko …">
-<!ENTITY chooseFileButton.accessKey "I">
+<!ENTITY chooseFileButton.accessKey "z">
 <!ENTITY chooseFileLinkButton.label "Izberi datoteko …">
-<!ENTITY chooseFileLinkButton.accessKey "I">
+<!ENTITY chooseFileLinkButton.accessKey "z">
 <!ENTITY makeUrlRelative.label "URL se spreminja glede na mesto strani">
 <!ENTITY makeUrlRelative.accessKey "R">
 <!ENTITY makeUrlRelative.tooltip "Spremeni med relativnem v absolutnim URL in obratno. Stran morate najprej shraniti, potem šele lahko to spremenite.">
 <!-- Shared by Link and Image dialogs -->
 
-<!ENTITY LinkURLEditField.label "Vnesi mesto spletne strani, krajevno datoteko ali pa izberi sidro z imenom oziroma naslov iz pojavnega seznama:">
+<!ENTITY LinkURLEditField.label "Vnesite mesto spletne strani, krajevno datoteko ali pa izberite sidro z imenom oziroma naslov iz pojavnega seznama:">
 <!ENTITY LinkURLEditField.accessKey "V">

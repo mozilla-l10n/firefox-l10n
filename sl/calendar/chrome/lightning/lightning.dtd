@@ -29,7 +29,7 @@
 
 <!ENTITY lightning.menu.view.calendar.label            "Koledar">
 <!ENTITY lightning.menu.view.calendar.accesskey        "K">
-<!ENTITY lightning.menu.view.tasks.label               "Opravki">
+<!ENTITY lightning.menu.view.tasks.label               "Opravila">
 <!ENTITY lightning.menu.view.tasks.accesskey           "O">
 <!-- Events and Tasks menu -->
 

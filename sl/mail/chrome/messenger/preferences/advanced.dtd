@@ -4,8 +4,7 @@
 
 <!ENTITY itemGeneral.label       "Splošno">
 <!ENTITY dataChoicesTab.label    "Izbire podatkov">
-<!ENTITY itemDisplay.label       "Branje in prikaz">
-<!ENTITY itemUpdate.label        "Posodobitev">
+<!ENTITY itemUpdate.label        "Posodobitve">
 <!ENTITY itemNetworking.label    "Omrežje in prostor na disku">
 <!ENTITY itemCertificates.label  "Potrdila">
 <!-- General Settings -->
@@ -16,7 +15,7 @@
 <!ENTITY allowHWAccel.accesskey        "n">
 <!ENTITY storeType.label               "Vrsta shrambe sporočil za nove račune:">
 <!ENTITY storeType.accesskey           "V">
-<!ENTITY mboxStore.label               "Ena velika datoteka (mbox)">
+<!ENTITY mboxStore2.label              "Ena datoteka na mapo (mbox)">
 <!ENTITY maildirStore.label            "Ena datoteka na sporočilo (maildir)">
 
 <!ENTITY scrolling.label               "Drsenje">
@@ -41,42 +40,16 @@
 <!-- Data Choices -->
 
 <!ENTITY telemetrySection.label          "Telemetrija">
-<!ENTITY telemetryDesc.label             "Deli zmogljivost, uporabo, strojno opremo in podatke o prilagoditvi vašega e-poštnega odjemalca s/z &vendorShortName;om, da nam pomaga narediti &brandShortName; boljšega">
+<!ENTITY telemetryDesc.label             "Deli zmogljivost, uporabo, strojno opremo in podatke o prilagoditvi vašega e-poštnega odjemalca s/z &vendorShortName;, da nam pomaga narediti &brandShortName; boljšega">
 <!ENTITY enableTelemetry.label           "Omogoči telemetrijo">
 <!ENTITY enableTelemetry.accesskey       "e">
 <!ENTITY telemetryLearnMore.label        "Več o tem">
 
 <!ENTITY crashReporterSection.label      "Poročevalec o sesutju">
-<!ENTITY crashReporterDesc.label         "&brandShortName; pošlje poročila o sesutju, da pomaga &vendorShortName;u vašega e-poštnega odjemalca narediti bolj stabilnega in varnega.">
+<!ENTITY crashReporterDesc.label         "&brandShortName; pošlje poročila o sesutju, da pomaga &vendorShortName; vašega e-poštnega odjemalca narediti bolj stabilnega in varnega">
 <!ENTITY enableCrashReporter.label       "Omogoči Poročevalca o sesutju">
 <!ENTITY enableCrashReporter.accesskey   "P">
 <!ENTITY crashReporterLearnMore.label    "Več o tem">
-<!-- Display and Reading Settings -->
-
-<!ENTITY reading.caption               "Branje">
-<!ENTITY display.caption               "Prikaz">
-<!ENTITY showCondensedAddresses.label  "Za osebe v mojem imeniku prikaži le prikazano ime">
-<!ENTITY showCondensedAddresses.accesskey "a">
-
-<!ENTITY autoMarkAsRead.label          "Samodejno označi sporočila kot prebrana">
-<!ENTITY autoMarkAsRead.accesskey      "S">
-<!ENTITY markAsReadNoDelay.label       "takoj na zaslonu">
-<!ENTITY markAsReadNoDelay.accesskey   "a">
-<!-- LOCALIZATION NOTE (markAsReadDelay.label): This will concatenate to
-     "After displaying for [___] seconds",
-     using (markAsReadDelay.label) and a number (secondsLabel.label). -->
-<!ENTITY markAsReadDelay.label         "potem, ko so prikazana za">
-<!ENTITY markAsReadDelay.accesskey     "o">
-<!ENTITY secondsLabel.label            "sekund">
-<!ENTITY openMsgIn.label               "Odpri sporočila v:">
-<!ENTITY openMsgInNewTab.label         "novem zavihku">
-<!ENTITY openMsgInNewTab.accesskey     "h">
-<!ENTITY reuseExpRadio0.label          "novem oknu">
-<!ENTITY reuseExpRadio0.accesskey      "k">
-<!ENTITY reuseExpRadio1.label          "obstoječem oknu za sporočila">
-<!ENTITY reuseExpRadio1.accesskey      "o">
-<!ENTITY closeMsgOnMoveOrDelete.label  "Zapri okno/zavihek s sporočilom ob premikanju ali brisanju">
-<!ENTITY closeMsgOnMoveOrDelete.accesskey "Z">
 <!-- Update -->
 
 <!ENTITY updateApp.label                 "Posodobitve za &brandShortName;:">

@@ -53,11 +53,11 @@
 <!ENTITY defaultPortLabel.label "Privzeto:">
 <!ENTITY defaultPortValue.label "">
 <!-- LOCALIZATION NOTE (incomingServerNameDesc.label) : Do not translate "&quot;pop.example.net&quot;" in below line -->
-<!ENTITY incomingServer.description "Vnesite ime svojega dohodnega strežnika (na primer &quot;posta.primer.net&quot;).">
+<!ENTITY incomingServer.description "Vnesite ime svojega dohodnega strežnika (na primer &quot;mail.primer.net&quot;).">
 <!ENTITY incomingServer.label "Dohodni strežnik:">
 <!ENTITY incomingServer.accesskey "s">
 <!-- LOCALIZATION NOTE (incomingUsername.description) : do not translate "&quot;jsmith&quot;" in below line -->
-<!ENTITY incomingUsername.description "Vnesite svoje ime za dohodni strežnik, ki ste ga dobili od ponudnika poštnih storitev (na primer &quot;Janez.Kralj&quot;).">
+<!ENTITY incomingUsername.description "Vnesite uporabniško ime za dohodni strežnik, ki ste ga dobili od ponudnika poštnih storitev (na primer &quot;Janez.Kralj&quot;).">
 <!ENTITY incomingUsername.label "Uporabniško ime:">
 <!ENTITY incomingUsername.accesskey "U">
 <!-- LOCALIZATION NOTE (newsServerNameDesc.label) : Do not translate "NNTP" or the "&quot;" entities in below line -->
@@ -103,21 +103,21 @@
 
 <!ENTITY accnameTitle.label "Ime računa">
 <!-- LOCALIZATION NOTE (accnameDesc.label) : do not translate any "&quot;" in below line -->
-<!ENTITY accnameDesc.label "Vnesite ime za ta račun (na primer, &quot;račun v službi&quot;, &quot;račun doma&quot; ali &quot;račun za novice&quot;).">
+<!ENTITY accnameDesc.label "Vnesite ime za ta račun (na primer, &quot;Račun v službi&quot;, &quot;Domači račun&quot; ali &quot;Račun za novice&quot;).">
 <!ENTITY accnameLabel.label "Ime računa:">
 <!ENTITY accnameLabel.accesskey "m">
 <!-- Entities for Done (Congratulations) page -->
 
 
 <!ENTITY completionTitle.label "Čestitke!">
-<!ENTITY completionText.label "Preverite, da so spodnji podatki pravilni.">
+<!ENTITY completionText.label "Preverite, ali so spodnji podatki pravilni.">
 <!ENTITY serverTypePrefix.label "Vrsta dohodnega strežnika:">
 <!ENTITY serverNamePrefix.label "Ime dohodnega strežnika:">
 <!ENTITY smtpServerNamePrefix.label "Ime odhodnega strežnika (SMTP):">
 <!ENTITY newsServerNamePrefix.label "Ime strežnika za novice (NNTP):">
 <!ENTITY downloadOnLogin.label "Prenesi sporočila zdaj …">
 <!ENTITY downloadOnLogin.accesskey "P">
-<!ENTITY deferStorageDesc.label "Odznačite to polje, če želite pošto za ta račun shranjevati v svoji mapi. Tako bo ta račun prikazan kot račun na najvišji ravni. Drugače bo del splošne mape Prejeto računa 'Krajevne mape'.">
+<!ENTITY deferStorageDesc.label "Odznačite to polje, če želite pošto za ta račun shranjevati v svoji mapi. Tako bo ta račun prikazan kot račun na najvišji ravni. Drugače bo del splošne mape Prejeto računa Krajevne mape.">
 <!ENTITY deferStorage.label "Uporabi splošno mapo Prejeto (pošto shranjuj v Krajevne mape)">
 <!ENTITY deferStorage.accesskey "s">
 <!ENTITY clickFinish.label "S klikom na Končaj shranite nastavitve in zaprite čarovnika za račun.">
