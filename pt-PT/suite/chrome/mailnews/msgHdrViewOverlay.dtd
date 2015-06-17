@@ -30,7 +30,7 @@
 <!ENTITY attachmentsTree.accesskey         "x">
 <!ENTITY openAttachmentCmd.label           "Abrir">
 <!ENTITY openAttachmentCmd.accesskey       "A">
-<!ENTITY viewAttachmentCmd.label           "Ver Origem">
+<!ENTITY viewAttachmentCmd.label           "Ver origem">
 <!ENTITY viewAttachmentCmd.accesskey       "V">
 <!ENTITY saveAsAttachmentCmd.label         "Guardar como...">
 <!ENTITY saveAsAttachmentCmd.accesskey     "G">
