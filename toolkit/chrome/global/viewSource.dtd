@@ -42,7 +42,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY textReset.commandkey "0">
 <!ENTITY textReset.commandkey2 "">
 
-<!ENTITY goToLineCmd.label "Ir para a linha...">
+<!ENTITY goToLineCmd.label "Ir para a linha…">
 <!ENTITY goToLineCmd.accesskey "l">
 <!ENTITY goToLineCmd.commandkey "l">
 
