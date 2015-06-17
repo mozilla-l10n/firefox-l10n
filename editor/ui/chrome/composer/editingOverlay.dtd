@@ -15,8 +15,8 @@
 <!ENTITY saveCmd.accesskey "S">
 <!ENTITY saveAsCmd.label "Shrani kot …">
 <!ENTITY saveAsCmd.accesskey "h">
-<!ENTITY saveAsChangeEncodingCmd.label "Shrani in spremeni kodiranje znakov">
-<!ENTITY saveAsChangeEncodingCmd.accesskey "e">
+<!ENTITY saveAsChangeEncodingCmd2.label "Shrani in spremeni kodiranje besedila">
+<!ENTITY saveAsChangeEncodingCmd2.accesskey "e">
 <!ENTITY publishCmd.label "Objavi">
 <!ENTITY publishCmd.accesskey "b">
 <!ENTITY publishCmd.key "S">

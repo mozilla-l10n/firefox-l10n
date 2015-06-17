@@ -11,7 +11,7 @@
 <!ENTITY ListNickName.label             "Vzdevek seznama: ">
 <!ENTITY ListDescription.label          "Opis: ">
 <!-- See bug 58485, when we implement drag and drop, add 'or drag addresses' back in -->
-<!ENTITY AddressTitle.label             "Vnesite e-poštne naslove za dodajanje na dopisni seznam:">
+<!ENTITY AddressTitle.label             "Vnesite e-poštne naslove, ki bi jih radi dodali na dopisni seznam:">
 <!ENTITY UpButton.label                 "Premakni gor">
 <!ENTITY DownButton.label               "Premakni dol">
 <!-- Access Keys -->

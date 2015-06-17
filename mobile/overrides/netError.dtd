@@ -71,6 +71,8 @@
 <!ENTITY notCached.longDesc "<p>Zahtevan dokument ni dosegljiv v predpomnilniku &brandShortName;a.</p><ul><li>Kot varnostni ukrep, &brandShortName; ne zahteva samodejne ponovne zahteve za občutljive dokumente.</li><li>Pritisnite Poskusi znova za ponovno zahtevo dokumenta s spletne strani.</li></ul>">
 
 <!ENTITY netOffline.title "Nepovezan način">
+<!-- LOCALIZATION NOTE (netOffline.longDesc3) This string contains markup including widgets enabling wifi connections.
+     The text inside the tags should be localized. Do not touch the ids. -->
 <!ENTITY netOffline.longDesc3 "
 <ul>
   <li>Poskusite znova. &brandShortName; bo poskušal vzpostaviti povezavo in ponovno naložiti stran.
@@ -115,6 +117,8 @@
 ">
 
 <!ENTITY proxyResolveFailure.title "Proky strežnika ni mogoče najti">
+<!-- LOCALIZATION NOTE (proxyResolveFailure.longDesc3) This string contains markup including widgets for enabling wifi connections.
+     The text inside the tags should be localized. Do not touch the ids. -->
 <!ENTITY proxyResolveFailure.longDesc3 "
 <ul>
   <li>Preverite nastavitve posrednika in se prepričajte, da so pravilne.</li>
@@ -155,6 +159,8 @@
 </ul>
 ">
 
+<!-- LOCALIZATION NOTE (sharedLongDesc3) This string contains markup including widgets for enabling wifi connections.
+     The text inside the tags should be localized. Do not touch the ids. -->
 <!ENTITY sharedLongDesc3 "
 <ul>
   <li>Stran je morda začasno nedosegljiva ali preobremenjena. Poskusite znova nekoliko pozneje.</li>

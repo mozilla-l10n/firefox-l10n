@@ -6,7 +6,7 @@
 
 <!-- LOCALIZATION NOTE (aboutSupport.pageSubtitle): don't change the 'supportLink' id. -->
 <!ENTITY aboutSupport.pageSubtitle "
-  Ta stran vsebuje tehnične podatke, ki jih boste morda potrebovali pri odpravljanu
+  Ta stran vsebuje tehnične podatke, ki jih boste morda potrebovali pri odpravljanju
   težav. Če iščete odgovore na splošna vprašanja o programu
   &brandShortName;, obiščite <a id='supportLink'>strani za podporo uporabnikom</a>.
 ">
@@ -55,6 +55,9 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 <!ENTITY aboutSupport.appBasicsBuildConfig "Nastavitev graditve">
 <!ENTITY aboutSupport.appBasicsUserAgent "Uporabniški agent">
 <!ENTITY aboutSupport.appBasicsMemoryUse "Poraba pomnilnika">
+
+<!-- LOCALIZATION NOTE the term "Service Workers" should not be translated. -->
+<!ENTITY aboutSupport.appBasicsServiceWorkers "Registrirani Service Workerji">
 
 <!ENTITY aboutSupport.appBasicsMultiProcessSupport "Večprocesna okna">
 

@@ -11,7 +11,7 @@
 <!ENTITY disableAddons.label              "Onemogoči vse dodatke">
 <!ENTITY disableAddons.accesskey          "O">
 
-<!ENTITY resetToolbars.label              "Ponastavi orodne vrstice in gradnike">
+<!ENTITY resetToolbars.label              "Ponastavi orodne vrstice in nadzorne gumbe">
 <!ENTITY resetToolbars.accesskey          "P">
 
 <!ENTITY changeAndRestartButton.label     "Izvedi spremembe in ponovno poženi">

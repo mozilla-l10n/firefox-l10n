@@ -4,7 +4,7 @@
 <!-- extracted from MsgSynchronize.xul and msgSelectOffline.xul-->
 
 
-<!ENTITY MsgSynchronize.label "Prenesi in uskladi sporočila">
+<!ENTITY MsgSynchronize.label "Prenesi in Uskladi sporočila">
 <!ENTITY MsgSelect.label "Predmeti za rabo v načinu brez povezave">
 <!ENTITY MsgSyncDesc.label "Če ste že izbrali poštne mape in novičarske skupine za rabo v nepovezanem načinu, jih lahko zdaj prenesete in/ali uskladite. V nasprotnem primeru uporabite gumb &quot;Izberi&quot; in izberite poštne mape in novičarske skupine za rabo v nepovezanem načinu.">
 <!ENTITY MsgSyncDirections.label "Prenesi in/ali uskladi naslednje:">

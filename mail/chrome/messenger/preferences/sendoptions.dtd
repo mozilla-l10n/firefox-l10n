@@ -13,7 +13,7 @@
 <!ENTITY sendHTML.accesskey           "v">
 <!ENTITY sendBoth.label               "pošlji sporočilo v obeh oblikah, kot golo besedilo in HTML">
 <!ENTITY sendBoth.accesskey           "o">
-<!ENTITY override.label               "Opomba: za določanje želene oblike sporočil za posameznega naslovnika uporabite imenik.">
+<!ENTITY override.label               "Opomba: Za določanje želene oblike sporočil za posameznega naslovnika uporabite imenik.">
 
 <!ENTITY domaindesc.label             "Ko pošljete sporočilo na naslov ene od spodnjih domen, bo &brandShortName; samodejno izbral pravilno obliko sporočila.">
 <!ENTITY HTMLTab.label                "Domene za pošto HTML">

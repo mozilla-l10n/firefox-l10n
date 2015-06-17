@@ -4,6 +4,7 @@
 
 <!ENTITY itemFormatting.label             "Oblikovanje">
 <!ENTITY itemTags.label                   "Oznake">
+<!ENTITY itemAdvanced.label               "Napredno">
 
 <!ENTITY style.label                      "Slog:">
 <!ENTITY style.accesskey                  "S">
@@ -44,3 +45,29 @@
 <!ENTITY fontOptions.label       "Napredno …">
 <!ENTITY colorButton.label       "Barve …">
 <!ENTITY colorButton.accesskey   "B">
+<!-- Advanced -->
+
+<!ENTITY reading.caption                  "Branje">
+<!ENTITY display.caption                  "Prikaz">
+<!ENTITY showCondensedAddresses.label     "Za osebe v mojem imeniku prikaži le prikazano ime">
+<!ENTITY showCondensedAddresses.accesskey "a">
+
+<!ENTITY autoMarkAsRead.label             "Samodejno označi sporočila kot prebrana">
+<!ENTITY autoMarkAsRead.accesskey         "S">
+<!ENTITY markAsReadNoDelay.label          "takoj na zaslonu">
+<!ENTITY markAsReadNoDelay.accesskey      "a">
+<!-- LOCALIZATION NOTE (markAsReadDelay.label): This will concatenate to
+     "After displaying for [___] seconds",
+     using (markAsReadDelay.label) and a number (secondsLabel.label). -->
+<!ENTITY markAsReadDelay.label            "potem, ko so prikazana za">
+<!ENTITY markAsReadDelay.accesskey        "o">
+<!ENTITY secondsLabel.label               "sekund">
+<!ENTITY openMsgIn.label                  "Odpri sporočila v:">
+<!ENTITY openMsgInNewTab.label            "novem zavihku">
+<!ENTITY openMsgInNewTab.accesskey        "h">
+<!ENTITY reuseExpRadio0.label             "novem oknu">
+<!ENTITY reuseExpRadio0.accesskey         "k">
+<!ENTITY reuseExpRadio1.label             "obstoječem oknu za sporočila">
+<!ENTITY reuseExpRadio1.accesskey         "o">
+<!ENTITY closeMsgOnMoveOrDelete.label     "Zapri okno/zavihek s sporočilom ob premikanju ali brisanju">
+<!ENTITY closeMsgOnMoveOrDelete.accesskey "Z">

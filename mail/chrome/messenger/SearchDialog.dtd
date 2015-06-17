@@ -40,6 +40,7 @@
 <!ENTITY threadColumn.label "Nit">
 <!ENTITY fromColumn.label "Od">
 <!ENTITY recipientColumn.label "Prejemnik">
+<!ENTITY correspondentColumn.label "Dopisniki">
 <!ENTITY subjectColumn.label "Zadeva">
 <!ENTITY dateColumn.label "Datum">
 <!ENTITY priorityColumn.label "Prednost">
@@ -61,6 +62,7 @@
 <!ENTITY threadColumn2.tooltip "Prikaži niti sporočila">
 <!ENTITY fromColumn2.tooltip "Razvrsti po Od">
 <!ENTITY recipientColumn2.tooltip "Razvrsti po prejemniku">
+<!ENTITY correspondentColumn2.tooltip "Razvrsti po dopisnikih">
 <!ENTITY subjectColumn2.tooltip "Razvrsti po zadevi">
 <!ENTITY dateColumn2.tooltip "Razvrsti po datumu">
 <!ENTITY priorityColumn2.tooltip "Razvrsti po prednosti">

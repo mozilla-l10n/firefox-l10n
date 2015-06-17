@@ -28,5 +28,5 @@
 <!ENTITY backgroundImage.label      "Slika za ozadje:">
 <!ENTITY backgroundImage.accesskey  "z">
 <!ENTITY chooseFile.label           "Izberi datoteko …">
-<!ENTITY chooseFile.accesskey       "I">
+<!ENTITY chooseFile.accesskey       "z">
 

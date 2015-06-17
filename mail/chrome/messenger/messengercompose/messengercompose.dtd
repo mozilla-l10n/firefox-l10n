@@ -119,7 +119,7 @@
 <!ENTITY customizeToolbar.label "Prilagodi …">
 <!ENTITY customizeToolbar.accesskey "P">
 
-<!ENTITY addressSidebar.label "Stransko okno s stiki">
+<!ENTITY addressSidebar.label "Stranska vrstica stikov">
 <!ENTITY addressSidebar.accesskey "S">
 <!-- Format Menu -->
 
@@ -158,6 +158,8 @@
 <!ENTITY bothFormatCmd.accesskey "G">
 <!ENTITY priorityMenu.label "Prednost">
 <!ENTITY priorityMenu.accesskey "r">
+<!ENTITY priorityButton.title "Prednost">
+<!ENTITY priorityButton.tooltiptext "Spremeni prednost sporočila">
 <!ENTITY priorityButton.label "Prednost:">
 <!ENTITY lowestPriorityCmd.label "Najnižja">
 <!ENTITY lowestPriorityCmd.accesskey "ž">
@@ -228,9 +230,9 @@
 <!ENTITY toAddr.label "Za:">
 <!ENTITY ccAddr.label "Kp:">
 <!ENTITY bccAddr.label "Skp:">
-<!ENTITY replyAddr.label "Odgovor za:">
+<!ENTITY replyAddr.label "Odgovori za:">
 <!ENTITY newsgroupsAddr.label "Novičarska skupina:">
-<!ENTITY followupAddr.label "Nadaljnji odgovor za:">
+<!ENTITY followupAddr.label "Nadalje odgovori za:">
 <!ENTITY subject.label "Zadeva:">
 <!ENTITY subject.accesskey "Z">
 <!-- LOCALIZATION NOTE attachments.accesskey This access key should correspond
@@ -294,7 +296,7 @@
 <!ENTITY convertRegularAttachment.label "Običajna priponka">
 <!ENTITY convertRegularAttachment.accesskey "a">
 <!ENTITY attachPage.label "Pripni spletno stran …">
-<!ENTITY attachPage.accesskey "W">
+<!ENTITY attachPage.accesskey "s">
 <!-- Spell checker context menu items -->
 
 <!ENTITY spellAddDictionaries.label "Dodaj slovarje …">
