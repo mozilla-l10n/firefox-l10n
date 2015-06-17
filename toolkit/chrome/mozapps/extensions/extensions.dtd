@@ -198,9 +198,9 @@ melhores e mais populares extras para que os possa experimentar.">
      "<Addon name> <1.1> Update". It is fine to use constructs like brackets if
      necessary -->
 <!ENTITY addon.update.postfix                 "Atualizar">
-<!ENTITY addon.undoAction.label               "Anular">
-<!ENTITY addon.undoAction.tooltip             "Anula esta ação">
-<!ENTITY addon.undoRemove.label               "Anular">
+<!ENTITY addon.undoAction.label               "Desfazer">
+<!ENTITY addon.undoAction.tooltip             "Desfaz a última ação">
+<!ENTITY addon.undoRemove.label               "Desfazer">
 <!ENTITY addon.undoRemove.tooltip             "Manter este extra instalado">
 <!ENTITY addon.restartNow.label               "Reiniciar agora">
 <!ENTITY addon.install.label                  "Instalar">
@@ -212,7 +212,7 @@ melhores e mais populares extras para que os possa experimentar.">
 <!ENTITY addon.checkingForUpdates.label       "A procurar atualizações...">
 <!ENTITY addon.releaseNotes.label             "Notas da versão:">
 <!ENTITY addon.loadingReleaseNotes.label      "A carregar...">
-<!ENTITY addon.errorLoadingReleaseNotes.label "Desculpe mas ocorreu um erro ao carregar as notas da versão.">
+<!ENTITY addon.errorLoadingReleaseNotes.label "Ocorreu um erro ao carregar as notas da versão.">
 
 <!ENTITY addon.createdBy.label                "De ">
 
