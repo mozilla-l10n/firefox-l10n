@@ -6,6 +6,10 @@
 <!ENTITY newtab.pageTitle "Nauja kortelė">
 <!ENTITY newtab.customize.classic "Rodyti jūsų lankomiausias svetaines">
 <!ENTITY newtab.customize.cog.enhanced "Įtraukti siūlomas svetaines">
+<!--
+  LOCALIZATION NOTE(newtab.customize.cog.title): This string is for the new
+  tab cog menu title. It will be transformed to uppercase.
+-->
 <!ENTITY newtab.customize.cog.title "Naujos kortelės parinktys">
 <!ENTITY newtab.customize.cog.learn "Sužinokite daugiau apie naują kortelę">
 <!ENTITY newtab.customize.title "Tinkinti naujos kortelės tinklalapį">
