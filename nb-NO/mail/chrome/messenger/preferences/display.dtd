@@ -4,6 +4,7 @@
 
 <!ENTITY itemFormatting.label             "Formatering">
 <!ENTITY itemTags.label                   "Etiketter">
+<!ENTITY itemAdvanced.label               "Avansert">
 
 <!ENTITY style.label                      "Stil:">
 <!ENTITY style.accesskey                  "S">
@@ -44,3 +45,29 @@
 <!ENTITY fontOptions.label       "Skrifttyper …">
 <!ENTITY colorButton.label       "Farger …">
 <!ENTITY colorButton.accesskey   "F">
+
+<!-- Advanced -->
+<!ENTITY reading.caption                  "Leser">
+<!ENTITY display.caption                  "Visning">
+<!ENTITY showCondensedAddresses.label     "Vis bare visningsnavnet for personer i adresseboken">
+<!ENTITY showCondensedAddresses.accesskey "V">
+
+<!ENTITY autoMarkAsRead.label             "Automatisk merk meldinger som lest">
+<!ENTITY autoMarkAsRead.accesskey         "A">
+<!ENTITY markAsReadNoDelay.label          "Umiddelbart etter de er vist">
+<!ENTITY markAsReadNoDelay.accesskey      "o">
+<!-- LOCALIZATION NOTE (markAsReadDelay.label): This will concatenate to
+     "After displaying for [___] seconds",
+     using (markAsReadDelay.label) and a number (secondsLabel.label). -->
+<!ENTITY markAsReadDelay.label            "Etter de er vist i">
+<!ENTITY markAsReadDelay.accesskey        "E">
+<!ENTITY secondsLabel.label               "sekunder">
+<!ENTITY openMsgIn.label                  "Åpne meldinger i:">
+<!ENTITY openMsgInNewTab.label            "En ny fane">
+<!ENTITY openMsgInNewTab.accesskey        "n">
+<!ENTITY reuseExpRadio0.label             "Et nytt meldingsvindu">
+<!ENTITY reuseExpRadio0.accesskey         "E">
+<!ENTITY reuseExpRadio1.label             "Et eksisterende meldingsvindu">
+<!ENTITY reuseExpRadio1.accesskey         "t">
+<!ENTITY closeMsgOnMoveOrDelete.label     "Lukk meldingsvindu/fane ved flytting eller sletting">
+<!ENTITY closeMsgOnMoveOrDelete.accesskey "L">

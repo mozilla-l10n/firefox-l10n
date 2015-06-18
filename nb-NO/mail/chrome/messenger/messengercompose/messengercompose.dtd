@@ -6,7 +6,7 @@
 <!ENTITY msgComposeWindow.title "Ny melding: (uten emne)">
 
 <!-- File Menu -->
-<!ENTITY fileMenu.label "Fil"> 
+<!ENTITY fileMenu.label "Fil">
 <!ENTITY fileMenu.accesskey "F">
 <!ENTITY newMenu.label "Ny">
 <!ENTITY newMenu.accesskey "N">
@@ -59,20 +59,20 @@
 <!ENTITY printCmd.accesskey "u">
 
 <!-- Edit Menu -->
-<!ENTITY editMenu.label "Rediger"> 
+<!ENTITY editMenu.label "Rediger">
 <!ENTITY editMenu.accesskey "R">
 <!ENTITY undoCmd.label "Angre">
 <!ENTITY undoCmd.key "Z">
-<!ENTITY undoCmd.accesskey "A"> 
+<!ENTITY undoCmd.accesskey "A">
 <!ENTITY redoCmd.label "Gjenta">
 <!ENTITY redoCmd.key "Y">
-<!ENTITY redoCmd.accesskey "G"> 
+<!ENTITY redoCmd.accesskey "G">
 <!ENTITY cutCmd.label "Klipp ut">
 <!ENTITY cutCmd.key "X">
-<!ENTITY cutCmd.accesskey "u"> 
+<!ENTITY cutCmd.accesskey "u">
 <!ENTITY copyCmd.label "Kopier">
 <!ENTITY copyCmd.key "C">
-<!ENTITY copyCmd.accesskey "K"> 
+<!ENTITY copyCmd.accesskey "K">
 <!ENTITY pasteCmd.label "Lim inn">
 <!ENTITY pasteCmd.key "V">
 <!ENTITY pasteCmd.accesskey "L">
@@ -87,7 +87,7 @@
 <!ENTITY renameAttachmentCmd.accesskey "E">
 <!ENTITY selectAllCmd.label "Merk alt">
 <!ENTITY selectAllCmd.key "A">
-<!ENTITY selectAllCmd.accesskey "M"> 
+<!ENTITY selectAllCmd.accesskey "M">
 <!ENTITY findBarCmd.label "Finn …">
 <!ENTITY findBarCmd.accesskey "F">
 <!ENTITY findBarCmd.key "F">
@@ -104,10 +104,10 @@
 <!ENTITY findPrevCmd.key2 "VK_F3">
 
 <!-- View Menu -->
-<!ENTITY viewMenu.label "Vis"> 
+<!ENTITY viewMenu.label "Vis">
 <!ENTITY viewMenu.accesskey "V">
-<!ENTITY viewToolbarsMenuNew.label "Verktøylinjer"> 
-<!ENTITY viewToolbarsMenuNew.accesskey "V"> 
+<!ENTITY viewToolbarsMenuNew.label "Verktøylinjer">
+<!ENTITY viewToolbarsMenuNew.accesskey "V">
 <!ENTITY menubarCmd.label "Menylinje">
 <!ENTITY menubarCmd.accesskey "M">
 <!ENTITY showCompositionToolbarCmd.label "Forfatterlinje">
@@ -119,8 +119,8 @@
 <!ENTITY customizeToolbar.label "Tilpass …">
 <!ENTITY customizeToolbar.accesskey "T">
 
-<!ENTITY addressSidebar.label "Adressebok i sidestolpe"> 
-<!ENTITY addressSidebar.accesskey "A"> 
+<!ENTITY addressSidebar.label "Adressebok i sidestolpe">
+<!ENTITY addressSidebar.accesskey "A">
 
 <!-- Format Menu -->
 <!ENTITY formatMenu.label "Formater">
@@ -158,6 +158,8 @@
 <!ENTITY bothFormatCmd.accesskey "R">
 <!ENTITY priorityMenu.label "Prioritet">
 <!ENTITY priorityMenu.accesskey "P">
+<!ENTITY priorityButton.title "Prioritet">
+<!ENTITY priorityButton.tooltiptext "Endre meldingsprioriteten">
 <!ENTITY priorityButton.label "Prioritet:">
 <!ENTITY lowestPriorityCmd.label "Lavest">
 <!ENTITY lowestPriorityCmd.accesskey "L">
@@ -194,7 +196,7 @@
 <!ENTITY minimizeWindow.key "m">
 <!ENTITY minimizeWindow.label "Minimer">
 <!ENTITY bringAllToFront.label "Send alle til forgrunnen">
-<!ENTITY zoomWindow.label "Forstørr"> 
+<!ENTITY zoomWindow.label "Forstørr">
 <!ENTITY windowMenu.label "Vindu">
 
 <!-- Mail Toolbar -->
@@ -209,7 +211,7 @@
 <!-- Mail Toolbar Tooltips -->
 <!ENTITY sendButton.tooltip "Send meldingen nå">
 <!ENTITY sendlaterButton.tooltip "Send meldingen senere">
-<!ENTITY quoteButton.tooltip "Siter forrige melding"> 
+<!ENTITY quoteButton.tooltip "Siter forrige melding">
 <!ENTITY addressButton.tooltip "Velg mottaker fra en adressebok">
 <!ENTITY attachButton.tooltip "Ta med vedlegg">
 <!ENTITY spellingButton.tooltip "Kontroller staving av merket tekst eller hele meldingen">
