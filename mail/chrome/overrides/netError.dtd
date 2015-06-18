@@ -163,6 +163,11 @@ midlertidig, og du kan prøve igjen senere.</li>
 <p>Nettstedseiere som tror at deres nettsted er feilaktig rapportert som et angrepsnettsted kan <a href='http://www.stopbadware.org/home/reviewinfo' >be om å bli vurdert på nytt</a>.</p>
 ">
 
+<!ENTITY unwantedBlocked.title "Mistenkt nettsted med uønsket programvare!">
+<!ENTITY unwantedBlocked.longDesc "
+<p>Nettsted med uønsket programvare forsøker å installere programmer som kan være villedende, og påvirke systemet ditt på uventede måter.</p>
+">
+
 <!ENTITY phishingBlocked.title "Mistenkt nettsvindel!">
 <!ENTITY phishingBlocked.longDesc "
 <p>Dersom du skriver inn personlig informasjon på denne nettsiden kan føre til identitetstyveri eller annen svindel.</p>

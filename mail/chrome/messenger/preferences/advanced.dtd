@@ -4,7 +4,6 @@
 
 <!ENTITY itemGeneral.label       "Generelt">
 <!ENTITY dataChoicesTab.label    "Datavalg">
-<!ENTITY itemDisplay.label       "Lesing og visning">
 <!ENTITY itemUpdate.label        "Oppdatering">
 <!ENTITY itemNetworking.label    "Nettverk og diskplass">
 <!ENTITY itemCertificates.label  "Sertifikater">
@@ -51,32 +50,6 @@
 <!ENTITY enableCrashReporter.label       "Slå på krasjrapportering">
 <!ENTITY enableCrashReporter.accesskey   "l">
 <!ENTITY crashReporterLearnMore.label    "Les mer">
-
-<!-- Display and Reading Settings -->
-<!ENTITY reading.caption               "Lesing">
-<!ENTITY display.caption               "Utseende">
-<!ENTITY showCondensedAddresses.label  "Vis bare visningsnavn for personer som er i adresseboken">
-<!ENTITY showCondensedAddresses.accesskey "V">
-
-<!ENTITY autoMarkAsRead.label          "Automatisk merk meldinger som lest">
-<!ENTITY autoMarkAsRead.accesskey      "A">
-<!ENTITY markAsReadNoDelay.label       "Umiddelbart etter de er vist">
-<!ENTITY markAsReadNoDelay.accesskey   "U">
-<!-- LOCALIZATION NOTE (markAsReadDelay.label): This will concatenate to
-     "After displaying for [___] seconds",
-     using (markAsReadDelay.label) and a number (secondsLabel.label). -->
-<!ENTITY markAsReadDelay.label         "Etter at de er vist i">
-<!ENTITY markAsReadDelay.accesskey     "E">
-<!ENTITY secondsLabel.label            "sekunder">
-<!ENTITY openMsgIn.label               "Åpne meldinger i:">
-<!ENTITY openMsgInNewTab.label         "En ny fane">
-<!ENTITY openMsgInNewTab.accesskey     "n">
-<!ENTITY reuseExpRadio0.label          "Et nytt vindu">
-<!ENTITY reuseExpRadio0.accesskey      "d">
-<!ENTITY reuseExpRadio1.label          "Et eksisterende meldingsvindu">
-<!ENTITY reuseExpRadio1.accesskey      "e">
-<!ENTITY closeMsgOnMoveOrDelete.label  "Lukk meldingsvindu/fane ved flytting eller sletting av melding">
-<!ENTITY closeMsgOnMoveOrDelete.accesskey "L">
 
 <!-- Update -->
 <!ENTITY updateApp.label                 "&brandShortName;-oppdateringer:">
