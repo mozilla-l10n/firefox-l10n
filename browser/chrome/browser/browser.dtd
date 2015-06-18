@@ -430,7 +430,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      display a string after the search engine name.  This string will be displayed
      as:  "Search <selected engine name><searchAfter.label text>" -->
 
-<!ENTITY search.label                 "Pesquisa ">
+<!ENTITY search.label                 "Pesquisa ">
 <!ENTITY searchAfter.label            "">
 <!-- LOCALIZATION NOTE (searchWithHeader.label):
      The wording of this string should be as close as possible to
@@ -743,7 +743,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY customizeMode.menuAndToolbars.header2 "Mais ferramentas para adicionar ao menu e às barras de ferramentas">
 <!ENTITY customizeMode.menuAndToolbars.empty "Quer mais ferramentas?">
 <!ENTITY customizeMode.menuAndToolbars.emptyLink "Escolha-as nos extras">
-<!ENTITY customizeMode.restoreDefaults "Restaurar pré-definições">
+<!ENTITY customizeMode.restoreDefaults "Restaurar predefinições">
 <!ENTITY customizeMode.toolbars "Mostrar/ocultar barra de ferramentas">
 <!ENTITY customizeMode.titlebar "Barra de título">
 <!ENTITY customizeMode.lwthemes "Temas">
