@@ -300,8 +300,8 @@
 <!-- Calendar Server Dialog -->
 
 <!-- Calendar Properties -->
-
-
+<!ENTITY calendarproperties.webdav.label                   "iCalendar (ICS)">
+<!ENTITY calendarproperties.caldav.label                   "CalDAV">
 
 
 
@@ -334,7 +334,7 @@
 
 
 
-
+<!ENTITY calendar.print.taskswithnoduedate.label "Incumbensas senza data da scadenza">
 
 <!-- Error reporting -->
 
