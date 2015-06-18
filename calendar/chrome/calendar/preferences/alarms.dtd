@@ -25,8 +25,8 @@
 <!ENTITY pref.defalarm4events.accesskey "d">
 <!ENTITY pref.defalarm4todos.label "Privzeta nastavitev opomnika za opravila:">
 <!ENTITY pref.defalarm4todos.accesskey "a">
-<!ENTITY pref.alarm.on "vklopljen">
-<!ENTITY pref.alarm.off "izklopljen">
+<!ENTITY pref.alarm.on "Vklopljen">
+<!ENTITY pref.alarm.off "Izklopljen">
 <!ENTITY pref.defalarmlen4events.label "Privzeti čas prikaza opomnika pred dogodkom:">
 <!ENTITY pref.defalarmlen4events.accesskey "k">
 <!ENTITY pref.defalarmlen4todos.label "Privzeti čas prikaza opomnika pred opravilom:">
