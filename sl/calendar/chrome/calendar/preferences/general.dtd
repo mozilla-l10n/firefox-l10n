@@ -10,8 +10,8 @@
 <!ENTITY pref.mainbox.label "Splošne nastavitve" >
 <!ENTITY pref.dateformat.label "Oblika zapisa datuma:" >
 <!ENTITY pref.dateformat.accesskey "O">
-<!ENTITY pref.dateformat.long "dolga" >
-<!ENTITY pref.dateformat.short "kratka"  >
+<!ENTITY pref.dateformat.long "Dolga" >
+<!ENTITY pref.dateformat.short "Kratka"  >
 
 <!ENTITY pref.timezones.caption "Časovni pas">
 <!ENTITY pref.timezones.label "Izberite najbližje mesto v svojem časovnem pasu:">
