@@ -54,8 +54,8 @@
 <!ENTITY profilerUI.enableAllocations.tooltiptext "Registra le allocazioni di oggetti durante la profilazione.">
 <!ENTITY profilerUI.enableFramerate "Frequenza registrazione">
 <!ENTITY profilerUI.enableFramerate.tooltiptext "Frequenza con cui viene registrata la profilazione.">
-<!ENTITY profilerUI.showJITOptimizations "Visualizza ottimizzazioni JIT">
-<!ENTITY profilerUI.showJITOptimizations.tooltiptext "Visualizza i dati relativi alle ottimizzazioni JIT rilevate in ogni frame dell’albero di chiamate JS.">
+<!ENTITY profilerUI.enableJITOptimizations "Registra ottimizzazioni JIT">
+<!ENTITY profilerUI.enableJITOptimizations.tooltiptext "Registra ottimizzazioni JIT rilevate in ogni frame JavaScript.">
 <!ENTITY profilerUI.JITOptimizationsTitle "Ottimizzazioni JIT">
 <!ENTITY profilerUI.console.recordingNoticeStart "Registrazione attuale via">
 <!ENTITY profilerUI.console.recordingNoticeEnd "">
