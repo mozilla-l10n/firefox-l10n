@@ -9,8 +9,6 @@
 <!ENTITY plexInput.accesskey "P">
 <!ENTITY resolutionInput.label "Risoluzione/Qualità:">
 <!ENTITY resolutionInput.accesskey "Q">
-<!ENTITY cmdInput.label "Comando di stampa:">
-<!ENTITY cmdInput.accesskey "o">
 <!ENTITY jobTitleInput.label "Nome del job:">
 <!ENTITY jobTitleInput.accesskey "N">
 <!ENTITY colorGroup.label "Colore:">
