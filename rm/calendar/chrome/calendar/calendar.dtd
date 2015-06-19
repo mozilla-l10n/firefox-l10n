@@ -322,36 +322,45 @@
 <!ENTITY calendarproperties.readonly.label                 "Mo per lectura">
 <!ENTITY calendarproperties.firealarms.label               "Mussar las promemorias">
 
-
-
-
-
+<!ENTITY calendarproperties.enabled.label                  "Activar quest chalender">
+<!ENTITY calendarproperties.forceDisabled.label            "Impussibel da chattar il provider da quest chalender. Quai po capitar sche ti has deactivà u deinstallà tscherts supplements.">
+<!ENTITY calendarproperties.unsubscribe.label              "Deabunar">
+<!ENTITY calendarproperties.unsubscribe.accesskey          "u">
 <!-- Calendar Publish Dialog -->
 
+<!ENTITY calendar.publish.dialog.title              "Publitgar il chalender">
 
+<!ENTITY calendar.publish.publish.button      "Publitgar">
+<!ENTITY calendar.publish.close.button      "Serrar">
 
-
+<!ENTITY calendar.publish.example.url.description   "Per exempel http://www.messerver.com/webdav/test.ics">
 <!-- Select Calendar Dialog -->
 <!-- Calendar Printing -->
 
+<!ENTITY calendar.print.window.title "Stampar in chalender">
+<!ENTITY calendar.print.title.label "Titel:">
 
 
-
-
-
-<!ENTITY calendar.print.events.label "Occurrenzas">
-
-
-
-
-
+<!ENTITY calendar.print.currentView2.label "Vista actuala">
+<!ENTITY calendar.print.selectedEventsAndTasks.label "Incumbensas/eveniments tschernids">
+<!ENTITY calendar.print.tasks.label "Incumbensas">
+<!ENTITY calendar.print.events.label "Eveniments">
+<!ENTITY calendar.print.custom.label "Perioda persunalisada:">
+<!ENTITY calendar.print.from.label "Da:">
+<!ENTITY calendar.print.to.label "A:">
+<!ENTITY calendar.print.settingsGroup.label "Configuraziun da stampa">
+<!ENTITY calendar.print.optionsGroup.label "Opziuns">
 <!ENTITY calendar.print.taskswithnoduedate.label "Incumbensas senza data da scadenza">
 
 <!-- Error reporting -->
 
+<!ENTITY calendar.error.detail "Detagls…">
+<!ENTITY calendar.error.code "Code d'errur:">
 <!ENTITY calendar.error.description "Descripziun:">
 <!ENTITY calendar.error.title "Ina errur è succedida">
 <!-- Extract buttons in message header -->
 
-
-
+<!ENTITY calendar.extract.event.button         "Agiuntar sco eveniment">
+<!ENTITY calendar.extract.task.button          "Agiuntar sco incumbensa">
+<!ENTITY calendar.extract.event.button.tooltip "Extrair infurmaziuns da chalender ord il messadi e las agiuntar a tes chalender sco eveniment">
+<!ENTITY calendar.extract.task.button.tooltip  "Extrair infurmaziuns da chalender ord il messadi e las agiuntar a tes chalender sco incumbensa ">
