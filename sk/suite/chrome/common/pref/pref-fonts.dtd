@@ -55,6 +55,7 @@
 <!ENTITY font.langGroup.gurmukhi                  "Gurmukhi">
 <!ENTITY font.langGroup.khmer                     "Khmérske">
 <!ENTITY font.langGroup.malayalam                 "Malajské">
+<!ENTITY  font.langGroup.math                     "Matematické znaky">
 <!-- Minimum font size -->
 <!ENTITY minSize.label                            "Minimálna veľkosť písma:">
 <!ENTITY minSize.accesskey                        "o">
