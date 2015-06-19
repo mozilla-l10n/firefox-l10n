@@ -4,7 +4,7 @@
 
 <!-- Note: each tab panel must contain unique accesskeys -->
 
-<!ENTITY generalTab.label                "Загальне">
+<!ENTITY generalTab.label                "Загальні">
 
 <!ENTITY accessibility.label             "Функції доступності">
 

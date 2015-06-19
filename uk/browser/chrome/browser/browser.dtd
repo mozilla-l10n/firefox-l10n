@@ -76,7 +76,7 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY goOfflineCmd.accesskey "ю">
 
 <!ENTITY menubarCmd.label "Панель меню">
-<!ENTITY menubarCmd.accesskey "м">
+<!ENTITY menubarCmd.accesskey "н">
 <!ENTITY navbarCmd.label "Панель навігації">
 <!ENTITY personalbarCmd.label "Панель закладок">
 <!ENTITY personalbarCmd.accesskey "к">
@@ -345,8 +345,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewToolbarsMenu.accesskey     "П"> 
 <!ENTITY viewSidebarMenu.label "Бічна панель">
 <!ENTITY viewSidebarMenu.accesskey "ч">
-<!ENTITY viewCustomizeToolbar.label       "Налаштувати…"> 
-<!ENTITY viewCustomizeToolbar.accesskey     "л">
+<!ENTITY viewCustomizeToolbar.label       "Пристосування…"> 
+<!ENTITY viewCustomizeToolbar.accesskey     "П">
 
 <!ENTITY historyMenu.label "Історія">
 <!ENTITY historyMenu.accesskey "І">
@@ -360,7 +360,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY appMenuCustomize.label "Пристосування">
 <!ENTITY appMenuCustomize.tooltip "Пристосувати меню та панелі">
-<!ENTITY appMenuCustomizeExit.label "Облишити пристосування">
+<!ENTITY appMenuCustomizeExit.label "Вийти з пристосування">
 <!ENTITY appMenuCustomizeExit.tooltip "Завершити пристосування">
 <!ENTITY appMenuHistory.label "Історія">
 <!ENTITY appMenuHistory.showAll.label "Показати всю історію">
