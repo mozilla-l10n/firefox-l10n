@@ -543,6 +543,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_run_by "Spravuje ju">
 <!ENTITY identity_no_info "Táto stránka neposkytuje informácie o svojej identite.">
 <!ENTITY identity_not_encrypted "Pripojenie k tejto stránke nie je zabezpečené.">
+<!ENTITY identity_encrypted "Zašifrované">
 
 <!-- Mixed content notifications in site identity popup -->
 <!ENTITY loaded_mixed_content_message "Táto stránka zobrazuje obsah, ktorý nie je bezpečný.">
