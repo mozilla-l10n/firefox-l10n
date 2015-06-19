@@ -47,8 +47,8 @@
 <!ENTITY contextAfterCls.label "Filtrer efter spam-klassificering">
 <!ENTITY contextOutgoing.label "Efter afsendelse">
 <!ENTITY contextOutgoing.accesskey "f">
-<!ENTITY contextArchive.label "Arkiverer">
-<!ENTITY contextArchive.accesskey "A">
+<!ENTITY contextArchive.label "Arkivering">
+<!ENTITY contextArchive.accesskey "r">
 
 <!ENTITY addAction.tooltip "Tilføj en ny handling">
 <!ENTITY removeAction.tooltip "Fjern denne handling">
