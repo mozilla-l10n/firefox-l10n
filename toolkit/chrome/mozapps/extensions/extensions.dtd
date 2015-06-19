@@ -242,7 +242,7 @@
 <!ENTITY disabledUnsigned.description.start   "Järgnevad lisad pole &brandShortName;is kasutamiseks verifitseeritud. Sa võid ">
 <!ENTITY disabledUnsigned.description.findAddonsLink "otsida asendusi">
 <!ENTITY disabledUnsigned.description.end     " või paluda arendajatel lasta need ära verifitseerida.">
-<!ENTITY disabledUnsigned.learnMore           "Rohkem teavet meie püüdlustest aidata sinu võrgusoleks ohutumaks teha.">
+<!ENTITY disabledUnsigned.learnMore           "Rohkem teavet meie püüdluste kohta muuta sinu võrgusolek ohutumaks.">
 <!-- LOCALIZATION NOTE (disabledUnsigned.devInfo.start, disabledUnsigned.devInfo.linkToManual, disabledUnsigned.devInfo.end):
      These entities form a sentence, with disabledUnsigned.devInfo.linkToManual
      being a link to an external site. -->

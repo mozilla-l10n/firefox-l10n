@@ -7,7 +7,7 @@
 <!ENTITY  error_loading_file             "Esines viga &brandShortName;i kasutamiseks vajalike failide laadimisel">
 
 <!ENTITY  onboard_start_message3         "Sirvi veebi &brandShortName;iga">
-<!ENTITY  onboard_start_subtext3         "Tee mobiilse veebilehtisemise kogemus tõeliselt enda omaks.">
+<!ENTITY  onboard_start_subtext3         "Muuda mobiilne veebilehitsemine tõeliselt isikupäraseks.">
 <!ENTITY  onboard_start_button_account   "Logi &brandShortName;i sisse">
 <!ENTITY  onboard_start_button_browser   "Alusta lehitsemist">
 
@@ -390,7 +390,7 @@ size. -->
 <!ENTITY pref_scroll_title_bar_summary   "kerimisel &brandShortName;i tiitliriba peidetakse">
 
 <!ENTITY pref_tab_queue_title2           "Mitme lingi järjestikune avamine">
-<!ENTITY pref_tab_queue_summary2         "lingid pannakse hiljem kasutamiseks järjekorda, ilma iga kord &brandShortName;ile lülitumiseta">
+<!ENTITY pref_tab_queue_summary2         "lingid pannakse hiljem kasutamiseks järjekorda, ilma iga kord &brandShortName;i lülitumiseta">
 
 <!-- Localization note (page_removed): This string appears in a toast message when
      any page is removed frome about:home. This includes pages that are in history,
