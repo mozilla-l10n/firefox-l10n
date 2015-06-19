@@ -7,12 +7,16 @@
 <!ENTITY gdata.privacy.default.label "Standard da Google">
 <!ENTITY gdata.privacy.default.accesskey "S">
 
+<!ENTITY gdata.migration.title "Migrar ils chalenders mo per lectura">
+<!ENTITY gdata.migration.description "Il purschider da Google Calendar ha constatà che ti has chalenders che pon sulettamain acceder Google Calendar en il modus mo per lectura. Sche ti vuls actualisar in da quests chalenders, al tscherna per plaschair sutvart">
+<!ENTITY gdata.migration.upgrade.label "Actualisar">
+<!ENTITY gdata.migration.upgrade.accesskey "u">
+<!ENTITY gdata.migration.showagain.label "Adina controllar ">
 
+<!ENTITY gdata.reminder.default "Promemoria da standard">
+<!ENTITY gdata.reminder.action.sms.label "Trametter in SMS">
 
+<!ENTITY gdata.wizard.session.description "Tscherna per plaschair ina sessiun existenta u endatescha tia adressa dad e-mail per crear ina nova sessiun. Ti dovras mo ina sessiun per conto.">
+<!ENTITY gdata.wizard.calendars.description "Tscherna per plaschair ils chalenders e las glistas d'incumbensas che ti vuls abunar.">
 
-
-
-
-
-
-
+<!ENTITY gdata.wizard.nextstep.description "Avanza per plaschair al proxim pass per configurar tes chalenders.">
