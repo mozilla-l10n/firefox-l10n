@@ -125,7 +125,7 @@ programai „&brandShortName;“ leidžiama pasiekti saityną.</li>
 <p>Svetainių, klaidingai palaikytų kenkėjiškomis, savininkai gali <a href='http://www.stopbadware.org/home/reviewinfo'>paprašyti peržiūros</a>.</p>">
 
 <!ENTITY unwantedBlocked.title "Įtartina nepageidaujamos programinės įrangos svetainė!">
-<!ENTITY unwantedBlocked.longDesc "<p>Nepageidaujamos programinės įrangos svetainės bando įdiegti programinę įrangą, kuri gali būti žalinga jūsų kompiuteriui.<p>">
+<!ENTITY unwantedBlocked.longDesc "<p>Nepageidaujamos programinės įrangos svetainės bando įdiegti programinę įrangą, kuri gali būti žalinga jūsų kompiuteriui.</p>">
 
 <!ENTITY phishingBlocked.title "Svetainė įtariama apgaule!">
 <!ENTITY phishingBlocked.longDesc "<p>Bet kokių asmeninių duomenų įvedimas šiame tinklalapyje gali tapti tapatybės duomenų vagystės ar kitos apgaulės priežastimi.</p> 
