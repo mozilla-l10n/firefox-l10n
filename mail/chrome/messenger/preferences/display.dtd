@@ -4,6 +4,7 @@
 
 <!ENTITY itemFormatting.label              "Muotoilu">
 <!ENTITY itemTags.label                    "Tunnukset">
+<!ENTITY itemAdvanced.label               "Lisäasetukset">
 
 <!ENTITY style.label                       "Tyyli:">
 <!ENTITY style.accesskey                   "T">
@@ -44,3 +45,29 @@
 <!ENTITY fontOptions.label       "Lisäasetukset…">
 <!ENTITY colorButton.label       "Värit…">
 <!ENTITY colorButton.accesskey   "V">
+
+<!-- Advanced -->
+<!ENTITY reading.caption                  "Lukeminen">
+<!ENTITY display.caption                  "Näyttäminen">
+<!ENTITY showCondensedAddresses.label     "Näytä osoitekirjassa olevien nimet ilman sähköpostiosoitetta">
+<!ENTITY showCondensedAddresses.accesskey "N">
+
+<!ENTITY autoMarkAsRead.label             "Merkitse viestit automaattisesti luetuksi">
+<!ENTITY autoMarkAsRead.accesskey         "M">
+<!ENTITY markAsReadNoDelay.label          "Kun ne avataan">
+<!ENTITY markAsReadNoDelay.accesskey      "K">
+<!-- LOCALIZATION NOTE (markAsReadDelay.label): This will concatenate to
+     "After displaying for [___] seconds",
+     using (markAsReadDelay.label) and a number (secondsLabel.label). -->
+<!ENTITY markAsReadDelay.label            "Kun ne ovat olleet avattuna">
+<!ENTITY markAsReadDelay.accesskey        "u">
+<!ENTITY secondsLabel.label               "sekuntia">
+<!ENTITY openMsgIn.label                  "Avaa viestit:">
+<!ENTITY openMsgInNewTab.label            "Uuteen välilehteen">
+<!ENTITY openMsgInNewTab.accesskey        "v">
+<!ENTITY reuseExpRadio0.label             "Uuteen viesti-ikkunaan">
+<!ENTITY reuseExpRadio0.accesskey         "Y">
+<!ENTITY reuseExpRadio1.label             "Auki olevaan viesti-ikkunaan">
+<!ENTITY reuseExpRadio1.accesskey         "A">
+<!ENTITY closeMsgOnMoveOrDelete.label     "Sulje viesti-ikkuna kun viesti siirretään tai poistetaan">
+<!ENTITY closeMsgOnMoveOrDelete.accesskey "v">
