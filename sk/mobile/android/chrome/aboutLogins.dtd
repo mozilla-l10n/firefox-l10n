@@ -3,6 +3,3 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY aboutLogins.title                       "Prihlásenia">
-
-<!ENTITY aboutLogins.copyUsername                "Kopírovať používateľské meno">
-<!ENTITY aboutLogins.copyPassword                "Kopírovať heslo">
