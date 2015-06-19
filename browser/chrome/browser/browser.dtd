@@ -669,20 +669,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY editBookmark.cancel.label                   "Zrušiť">
 <!ENTITY editBookmark.removeBookmark.accessKey       "O">
 
-<!ENTITY identity.unverifiedsite2 "Táto webová stránka neposkytuje informácie o svojej identite.">
-<!ENTITY identity.connectedTo "Pripojené k stránke">
-<!-- Localization note (identity.runBy) : This string appears between a
-domain name (above) and an organization name (below). E.g.
-
-example.com
-which is run by
-Example Enterprises, Inc.
-
-The layout of the identity dialog prevents combining this into a single string with
-substitution variables.  If it is difficult to translate the sense of the string
-with that structure, consider a translation which ignores the preceding domain and
-just addresses the organization to follow, e.g. "This site is run by " -->
-<!ENTITY identity.runBy "Spravuje ju">
+<!ENTITY identity.connectionSecure "Zabezpečené pripojenie">
+<!ENTITY identity.connectionNotSecure "Pripojenie nie je zabezpečené">
 
 <!ENTITY identity.moreInfoLinkText2 "Ďalšie informácie">
 
