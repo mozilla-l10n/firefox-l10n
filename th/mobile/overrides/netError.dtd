@@ -103,7 +103,7 @@
      The text inside the tags should be localized. Do not touch the ids. -->
 <!ENTITY proxyResolveFailure.longDesc3 "<ul> 
 <li>ตรวจสอบการตั้งค่าพร็อกซีให้แน่ใจว่าใช้งานได้</li> 
-<li>ตรวจสอบให้แน่ใจว่าอุปกรณ์ของคุณเชื่อมต่อกับเครือข่ายข้อมูลหรือ Wi-Fi แล้ว</li> 
+<li>ตรวจสอบให้แน่ใจว่าอุปกรณ์ของคุณเชื่อมต่อกับเครือข่ายข้อมูลหรือ Wi-Fi แล้ว 
 <button id='wifi'>เปิด Wi-Fi</button> 
 </li> 
 </ul>">
