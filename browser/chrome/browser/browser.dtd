@@ -846,3 +846,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- Pre-landed strings for bug 1123519 -->
 <!ENTITY readingList.sidebar.add.label            "Pridať do Zoznamu na prečítanie">
 <!ENTITY readingList.sidebar.add.tooltip          "Pridá túto stránku do Zoznamu na prečítanie">
+
+<!-- LOCALIZATION NOTE (saveToPocketCmd.label, saveLinkToPocketCmd.label, pocketMenuitem.label): Pocket is a brand name -->
+<!ENTITY saveToPocketCmd.label     "Uložiť stránku do služby Pocket">
+<!ENTITY saveToPocketCmd.accesskey "P">
+<!ENTITY saveLinkToPocketCmd.label     "Uložiť odkaz do služby Pocket">
+<!ENTITY saveLinkToPocketCmd.accesskey "c">
+<!ENTITY pocketMenuitem.label      "Zobraziť zoznam služby Pocket">
