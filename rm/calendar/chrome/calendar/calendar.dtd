@@ -273,14 +273,20 @@
 <!ENTITY calendar.context.convertmenu.task.label         "Pensum…">
 <!ENTITY calendar.context.convertmenu.task.accesskey     "P">
 
+<!ENTITY calendar.tasks.view.minimonth.label           "Mini-mais">
+<!ENTITY calendar.tasks.view.minimonth.accesskey       "M">
 
 
 
-
-
+<!ENTITY calendar.tasks.view.filtertasks.label           "Filtrar incumbensas">
+<!ENTITY calendar.tasks.view.filtertasks.accesskey       "F">
 <!-- Calendar Alarm Dialog -->
 
 
+<!ENTITY calendar.alarm.location.label              "Lieu:" >
+<!ENTITY calendar.alarm.details.label               "Detagls…" >
+
+<!ENTITY calendar.alarm.snoozefor.label             "Puspè regurdar en" >
 
 
 
