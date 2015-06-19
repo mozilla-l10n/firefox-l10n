@@ -258,7 +258,7 @@
 <!ENTITY event.recurrence.monthly.fifth.label           "Il tschintgavel">
 <!ENTITY event.recurrence.monthly.last.label            "L'ultim">
 <!ENTITY event.recurrence.pattern.monthly.week.1.label  "Dumengia" >
-<!ENTITY event.recurrence.pattern.monthly.week.2.label  "Gliendisdi" >
+<!ENTITY event.recurrence.pattern.monthly.week.2.label  "Glindesdi" >
 <!ENTITY event.recurrence.pattern.monthly.week.3.label  "Mardi" >
 <!ENTITY event.recurrence.pattern.monthly.week.4.label  "Mesemna" >
 <!ENTITY event.recurrence.pattern.monthly.week.5.label  "Gievgia" >
@@ -300,7 +300,7 @@
 <!ENTITY event.recurrence.yearly.fifth.label                 "Il tschintgavel">
 <!ENTITY event.recurrence.yearly.last.label                  "L'ultim">
 <!ENTITY event.recurrence.pattern.yearly.week.1.label        "Dumengia" >
-<!ENTITY event.recurrence.pattern.yearly.week.2.label        "Gliendisdi" >
+<!ENTITY event.recurrence.pattern.yearly.week.2.label        "Glindesdi" >
 <!ENTITY event.recurrence.pattern.yearly.week.3.label        "Mardi" >
 <!ENTITY event.recurrence.pattern.yearly.week.4.label        "Mesemna" >
 <!ENTITY event.recurrence.pattern.yearly.week.5.label        "Gievgia" >
