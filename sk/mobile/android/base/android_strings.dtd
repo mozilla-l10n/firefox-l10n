@@ -421,7 +421,9 @@ size. -->
 <!ENTITY site_settings_clear        "Vymazať">
 <!ENTITY site_settings_no_settings  "Nie sú uložené žiadne údaje.">
 
-<!ENTITY reading_list_added "Stránka pridaná do Zoznamu na prečítanie">
+<!-- Localization note (reading_list_added2) : Used in a toast, please keep as short
+     as possible. -->
+<!ENTITY reading_list_added2 "Pridaná do zoznamu">
 <!ENTITY reading_list_removed "Stránka odstránená zo Zoznamu na prečítanie">
 <!-- Localization note (reading_list_remove) : Used to remove the currently open page from
      the user's reading list. The opposite of overlay_share_reading_list_btn_label. -->
