@@ -854,7 +854,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY emeNotificationsDontAskAgain.accesskey   "S">
 
 <!ENTITY readingList.label                        "Læseliste">
-<!ENTITY readingList.sidebar.commandKey           "L">
+<!ENTITY readingList.sidebar.commandKey           "R">
 <!ENTITY readingList.showSidebar.label            "Vis læseliste i sidepanel">
 <!-- Pre-landed string for bug 1124153 -->
 <!ENTITY readingList.sidebar.showMore.label       "Vis mere…">
