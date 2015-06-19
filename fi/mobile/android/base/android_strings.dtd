@@ -6,8 +6,8 @@
 <!ENTITY  no_space_to_start_error "Laitteella oleva tila ei riitä &brandShortName;in käynnistymiseen.">
 <!ENTITY  error_loading_file "Tapahtui virhe ladattaessa &brandShortName;in käynnistämiseen tarvittavia tiedostoja">
 
-<!ENTITY  onboard_start_message2 "Tervetuloa &brandShortName;in pariin">
-<!ENTITY  onboard_start_subtext2 "Entistä enemmän yksityisyysominaisuuksia ja muokkaustapoja.">
+<!ENTITY  onboard_start_message3 "Selaa &brandShortName;in kanssa">
+<!ENTITY  onboard_start_subtext3 "Selaa verkkoa omalla tavallasi, missä vain.">
 <!ENTITY  onboard_start_button_account "Kirjaudu sisään &brandShortName;">
 <!ENTITY  onboard_start_button_browser "Aloita selaaminen">
 
@@ -114,7 +114,6 @@
      to. -->
 <!ENTITY overlay_share_send_tab_btn_label "Lähetä toiseen laitteeseen">
 <!ENTITY overlay_share_no_url "Jaetusta ei löytynyt linkkiä">
-<!ENTITY overlay_share_retry "Yritä uudestaan">
 <!ENTITY overlay_share_select_device "Valitse laite">
 <!-- Localization note (overlay_no_synced_devices) : Used when the menu option
      to send a tab to a synced device is pressed and no other synced devices
@@ -150,8 +149,6 @@
      it is applicable. -->
 <!ENTITY pref_search_hint "Vinkki: Lisää minkä tahansa verkkosivun haku hakukonelistaasi painamalla pitkään sivun hakukenttää ja painamalla &formatI;-kuvaketta.">
 <!ENTITY pref_category_devtools "Web-työkalut (englanninkielisiä)">
-<!ENTITY pref_category_devtools_summary "Remote debugging, paint flashing">
-<!ENTITY pref_developer_paint_flashing "Paint flashing">
 <!ENTITY pref_developer_remotedebugging "Remote debugging">
 <!ENTITY pref_category_logins "Kirjautumiset">
 <!ENTITY pref_remember_signons "Tallenna salasanat">
@@ -192,22 +189,22 @@
 <!ENTITY pref_donottrack_title "Älä seuraa">
 <!ENTITY pref_donottrack_summary "&brandShortName; ilmoittaa sivustoille, ettet halua niiden seuraavan sinua">
 
-<!ENTITY tab_queue_toast_message "Avaa myöhemmin">
+<!ENTITY tab_queue_toast_message2 "Välilehti asetettu &brandShortName;issa jonoon">
 <!ENTITY tab_queue_toast_action "Avaa nyt">
-<!-- Localization note (tab_queue_notification_text_plural) : The
+<!ENTITY tab_queue_prompt_title "Avataanko useita sivuja?">
+<!ENTITY tab_queue_prompt_text2 "Avaa sivut siirtymättä jokaisen jälkeen &brandShortName;iin.">
+<!ENTITY tab_queue_prompt_tip_text "voit muuttaa tätä myöhemmin asetuksista">
+<!ENTITY tab_queue_prompt_positive_action_button "Ota käyttöön">
+<!ENTITY tab_queue_prompt_negative_action_button "Ei nyt">
+<!ENTITY tab_queue_notification_title "&brandShortName;">
+<!-- Localization note (tab_queue_notification_text_plural2) : The
      formatD is replaced with the number of tabs queued.  The
      number of tabs queued is always more than one.  We can't use
      Android plural forms, sadly. See Bug #753859. -->
-<!ENTITY tab_queue_notification_text_plural "&formatD; välilehteä jonossa">
-<!-- Localization note (tab_queue_notification_title_plural) : This is the
-     title of a notification; we expect more than one tab queued. -->
-<!ENTITY tab_queue_notification_title_plural "Välilehtiä jonossa">
-<!-- Localization note (tab_queue_notification_title_singular) : This is the
-     title of a notification; we expect only one tab queued. -->
-<!ENTITY tab_queue_notification_title_singular "Välilehti jonossa">
-<!-- Localization note (tab_queue_notification_text_singular) : This is the
+<!ENTITY tab_queue_notification_text_plural2 "&formatD; välilehteä jonossa">
+<!-- Localization note (tab_queue_notification_text_singular2) : This is the
      text of a notification; we expect only one tab queued. -->
-<!ENTITY tab_queue_notification_text_singular "1 välilehti jonossa">
+<!ENTITY tab_queue_notification_text_singular2 "1 välilehti jonossa">
 
 <!ENTITY pref_char_encoding "Merkistökoodaus">
 <!ENTITY pref_char_encoding_on "Näytä valikko">
@@ -255,7 +252,8 @@ size. -->
 <!ENTITY pref_import_android "Tuo Androidista">
 <!ENTITY pref_import_android_summary "Tuo kirjanmerkit ja sivuhistoria järjestelmäselaimesta">
 <!ENTITY pref_private_data_history2 "Selaushistoria">
-<!ENTITY pref_private_data_formdata "Lomake- ja hakuhistoria">
+<!ENTITY pref_private_data_searchHistory "Hakuhistoria">
+<!ENTITY pref_private_data_formdata2 "Lomakehistoria">
 <!ENTITY pref_private_data_cookies2 "Evästeet ja aktiiviset kirjautumiset">
 <!ENTITY pref_private_data_passwords "Tallennetut salasanat">
 <!ENTITY pref_private_data_cache "Väliaikaistiedostot">
@@ -380,6 +378,7 @@ size. -->
 <!ENTITY doorhanger_login_edit_username_hint "Käyttäjätunnus">
 <!ENTITY doorhanger_login_edit_password_hint "Salasana">
 <!ENTITY doorhanger_login_edit_toggle "Näytä salasana">
+<!ENTITY doorhanger_login_edit_toast_error "Kirjautumistietojen tallennus epäonnistui">
 
 <!ENTITY pref_titlebar_mode "Otsikkopalkki">
 <!ENTITY pref_titlebar_mode_title "Näytä sivun otsikko">
@@ -390,8 +389,8 @@ size. -->
 <!ENTITY pref_scroll_title_bar2 "Kokoruudunselaus">
 <!ENTITY pref_scroll_title_bar_summary "Piilota &brandShortName;in otsikkopalkki kun sivua vieritetään">
 
-<!ENTITY pref_tab_queue_title "Avaa myöhemmin">
-<!ENTITY pref_tab_queue_summary "Älä anna jonossa olevien välilehtien avautua heti, mutta avaa ne kun &brandShortName; käynnistetään seuraavan kerran.">
+<!ENTITY pref_tab_queue_title2 "Avaa useita sivuja">
+<!ENTITY pref_tab_queue_summary2 "Aseta sivut avattavien jonoon siirtymättä jokaisen kohdalla &brandShortName;iin">
 
 <!-- Localization note (page_removed): This string appears in a toast message when
      any page is removed frome about:home. This includes pages that are in history,
@@ -440,6 +439,8 @@ size. -->
 <!ENTITY button_set "Aseta">
 <!ENTITY button_clear "Tyhjennä">
 <!ENTITY button_remember "Tallenna">
+
+<!ENTITY firstrun_panel_title_welcome "Tervetuloa">
 
 <!ENTITY home_top_sites_title "Ykkössivustot">
 <!-- Localization note (home_top_sites_add): This string is used as placeholder
@@ -612,6 +613,14 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY ellipsis "…">
 
 <!ENTITY colon ":">
+
+<!-- LOCALIZATION NOTE (percent): The percent sign is appended after a number to
+     display a percentage value. formatS is the number, #37 is the code to display a percent sign.
+     This format string is typically used by getString method, in such method the percent sign
+     is a reserved caracter. In order to display one percent sign in the result of getString,
+     double percent signs must be inserted in the format string.
+     This entity is used in the zoomed view to display the zoom factor-->
+<!ENTITY percent "&formatS;&#37;&#37;">
 
 <!-- These are only used for accessiblity for the done and overflow-menu buttons in the actionbar.
      They are never shown to users -->
