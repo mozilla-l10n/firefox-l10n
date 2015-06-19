@@ -136,11 +136,11 @@
 <!ENTITY profilerUI.enableFramerate             "Zaznamenávať frekvenciu snímkov">
 <!ENTITY profilerUI.enableFramerate.tooltiptext "Zaznamenávať frekvenciu snímkov počas profilovania">
 
-<!-- LOCALIZATION NOTE (profilerUI.showJITOptimizations): This string
+<!-- LOCALIZATION NOTE (profilerUI.enableJITOptimizations): This string
   -  is displayed next to a checkbox determining whether or not JIT optimization data
-  -  should be shown. -->
-<!ENTITY profilerUI.showJITOptimizations             "Zobraziť optimalizácie JIT">
-<!ENTITY profilerUI.showJITOptimizations.tooltiptext "Zobraziť údaje optimalizácie JIT zozbierané v každom snímku stromu volaní JS">
+  -  should be recorded. -->
+<!ENTITY profilerUI.enableJITOptimizations             "Zaznamenávať optimalizácie JIT">
+<!ENTITY profilerUI.enableJITOptimizations.tooltiptext "Zaznamenávať údaje optimalizácie JIT zozbierané v každom snímku JavaScriptu">
 
 <!-- LOCALIZATION NOTE (profilerUI.JITOptimizationsTitle): This string
   -  is displayed as the title of the JIT Optimizations panel. -->
