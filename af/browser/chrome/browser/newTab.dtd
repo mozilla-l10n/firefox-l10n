@@ -6,6 +6,10 @@
 <!ENTITY newtab.pageTitle "Nuwe oortjie">
 <!ENTITY newtab.customize.classic "Wys topwerwe">
 <!ENTITY newtab.customize.cog.enhanced "Sluit voorgestelde werwe in">
+<!--
+  LOCALIZATION NOTE(newtab.customize.cog.title): This string is for the new
+  tab cog menu title. It will be transformed to uppercase.
+-->
 <!ENTITY newtab.customize.cog.title "Nuwe oortjiekontroles">
 
 <!ENTITY newtab.customize.title "Pasmaak die &quot;Nuwe oortjie&quot;-bladsy">
