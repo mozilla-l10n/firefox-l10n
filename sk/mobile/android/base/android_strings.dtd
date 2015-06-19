@@ -517,10 +517,6 @@ size. -->
      the text of a button; we expect more than one device. -->
 <!ENTITY home_remote_tabs_unhide_selected_devices "Odkryť zvolené zariadenia">
 
-<!ENTITY private_browsing_title "Súkromné prehliadanie">
-<!ENTITY private_tabs_panel_empty_desc "Tu sa zobrazujú otvorené karty režimu Súkromné prehliadanie. Aj keď neuchovávame vašu históriu prehliadania alebo súbory cookies, záložky a prevzaté súbory budú uložené na disku vášho zariadenia.">
-<!ENTITY private_tabs_panel_learn_more "Chcete vedieť viac?">
-
 <!ENTITY remote_tabs_panel_moved_title "Kam zmizli moje karty?">
 <!ENTITY remote_tabs_panel_moved_desc "Karty z vašich ďalších zariadení sme presunuli do panela na vašej domovskej stránke, ktorá sa zobrazí zakaždým, keď otvoríte novú kartu.">
 <!ENTITY remote_tabs_panel_moved_link "Prejsť na môj nový panel">
