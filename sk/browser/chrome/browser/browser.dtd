@@ -275,6 +275,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
   -  application menu item that opens the browser content toolbox UI in the Tools menu.
   -  This toolbox allows to debug the chrome of the content process in multiprocess builds.  -->
 <!ENTITY browserContentToolboxMenu.label     "Nástroje pre obsah prehliadača">
+<!ENTITY browserContentToolboxMenu.accesskey "a">
 
 <!ENTITY devToolbarCloseButton.tooltiptext "Zavrieť panel nástrojov Vývojár">
 <!ENTITY devToolbarMenu.label "Panel nástrojov Vývojár">
