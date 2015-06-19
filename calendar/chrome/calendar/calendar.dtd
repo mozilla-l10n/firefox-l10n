@@ -290,14 +290,15 @@
 
 
 
+<!ENTITY calendar.alarm.dismissall.label            "Serrar tut" >
 
+<!ENTITY calendar.alarm.snooze.5minutes.label       "5 minutas" >
+<!ENTITY calendar.alarm.snooze.10minutes.label      "10 minutas" >
+<!ENTITY calendar.alarm.snooze.15minutes.label      "15 minutas" >
+<!ENTITY calendar.alarm.snooze.30minutes.label      "30 minutas" >
+<!ENTITY calendar.alarm.snooze.45minutes.label      "45 minutas" >
 
-
-
-
-
-
-
+<!ENTITY calendar.alarm.snooze.2hours.label         "2 uras" >
 
 <!-- LOCALIZATION NOTE (calendar.alarm.snooze.cancel)
      This string is not seen in the UI, it is read by screen readers when the
@@ -305,17 +306,21 @@
      dialog. -->
 <!-- Calendar Server Dialog -->
 
+<!ENTITY calendar.server.dialog.title.edit          "Modifitgar il chalender">
+<!ENTITY calendar.server.dialog.name.label          "Num dal chalender:">
 <!-- Calendar Properties -->
+
+<!ENTITY calendarproperties.color.label                    "Colur:">
 <!ENTITY calendarproperties.webdav.label                   "iCalendar (ICS)">
 <!ENTITY calendarproperties.caldav.label                   "CalDAV">
+<!ENTITY calendarproperties.wcap.label                     "Sun Java System Calendar Server (WCAP)">
+<!ENTITY calendarproperties.format.label                   "Format:">
+<!ENTITY calendarproperties.location.label                 "Lieu:">
 
-
-
-
-
-
-
-
+<!ENTITY calendarproperties.refreshInterval.manual.label   "Manualmain">
+<!ENTITY calendarproperties.name.label                     "Num:">
+<!ENTITY calendarproperties.readonly.label                 "Mo per lectura">
+<!ENTITY calendarproperties.firealarms.label               "Mussar las promemorias">
 
 
 
