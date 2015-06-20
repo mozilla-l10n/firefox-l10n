@@ -18,4 +18,4 @@
 <!ENTITY dict_intro.label "I dizionari vengono utilizzati per controllare l'ortografia dei messaggi.">
 <!ENTITY dict_info.label 'Dizionari per molte lingue possono essere installati dalla sezione <a href="https://it.add-ons.mozilla.org/it/seamonkey/1.1/dictionaries/">dizionari</a> su <a href="http://addons.mozilla.org/">Mozilla Add-ons</a>.'>
 <!ENTITY info.title "Ulteriori informazioni">
-<!ENTITY info_bugs.label '<a href="http://www.mozilla.org/mailnews/">Gli sviluppatori</a> gradiscono segnalazioni di errori e richieste per nuove funzionalità, ma vi pregano di leggere le <a id="releaseNotesURL" href="">note di versione</a> e di controllare su <a href="https://bugzilla.mozilla.org/query.cgi">Bugzilla</a> prima di aprire una nuova segnalazione.'>
+<!ENTITY info_bugs.label '<a href="https://developer.mozilla.org/docs/Mozilla/Projects/MailNews">Gli sviluppatori</a> gradiscono segnalazioni di errori e richieste per nuove funzionalità, ma vi pregano di leggere le <a id="releaseNotesURL" href="">note di versione</a> e di controllare su <a href="https://bugzilla.mozilla.org/query.cgi">Bugzilla</a> prima di aprire una nuova segnalazione.'>
