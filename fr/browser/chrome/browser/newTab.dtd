@@ -14,7 +14,7 @@
 <!ENTITY newtab.customize.blank2 "Afficher une page vide">
 <!ENTITY newtab.customize.what "Qu'est-ce que cette page ?">
 <!ENTITY newtab.intro.header "Qu'est-ce que cette page ?">
-<!ENTITY newtab.undo.removedLabel "Vignette supprimée.">
+<!ENTITY newtab.undo.removedLabel "Vignette retirée.">
 <!ENTITY newtab.undo.undoButton "Annuler.">
 <!ENTITY newtab.undo.restoreButton "Tout restaurer.">
 <!ENTITY newtab.undo.closeTooltip "Masquer">
