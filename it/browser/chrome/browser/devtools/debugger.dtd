@@ -57,6 +57,7 @@
 <!ENTITY debuggerUI.seMenuBreak.key "B">
 <!ENTITY debuggerUI.seMenuCondBreak "Aggiungi punto di interruzione condizionale">
 <!ENTITY debuggerUI.seMenuCondBreak.key "B">
+<!ENTITY debuggerUI.tabs.workers "Worker">
 <!ENTITY debuggerUI.tabs.sources "Sorgenti">
 <!ENTITY debuggerUI.tabs.traces "Tracce">
 <!ENTITY debuggerUI.tabs.callstack "Stack chiamata">
