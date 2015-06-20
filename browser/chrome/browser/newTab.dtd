@@ -12,7 +12,7 @@
 <!ENTITY newtab.customize.suggested "Afficher les sites les plus visités et ceux suggérés">
 <!ENTITY newtab.customize.topsites "Afficher les sites les plus visités">
 <!ENTITY newtab.customize.blank2 "Afficher une page vide">
-<!ENTITY newtab.undo.removedLabel "Vignette supprimée.">
+<!ENTITY newtab.undo.removedLabel "Vignette retirée.">
 <!ENTITY newtab.undo.undoButton "Annuler.">
 <!ENTITY newtab.undo.restoreButton "Tout restaurer.">
 <!ENTITY newtab.undo.closeTooltip "Masquer">
