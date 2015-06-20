@@ -22,6 +22,7 @@
 <!ENTITY calendar.menu.customize.accesskey "P">
 <!ENTITY showUnifinderCmd.label "Trova eventi">
 <!ENTITY showUnifinderCmd.accesskey "T">
+<!ENTITY showUnifinderCmd.tooltip "Attiva/disattiva il pannello Trova eventi">
 <!ENTITY calendar.displaytodos.checkbox.label "Mostra attività nel calendario">
 <!ENTITY calendar.displaytodos.checkbox.accesskey "T">
 <!ENTITY goTodayCmd.label "Vai a oggi">
