@@ -3,8 +3,11 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY privatebrowsingpage.title "Navigazione anonima">
-<!ENTITY privatebrowsingpage.issueDesc.private "È stata aperta una nuova scheda anonima.">
-<!ENTITY privatebrowsingpage.issueDesc.normal "Questa non è una scheda anonima.">
-<!ENTITY privatebrowsingpage.description "In una scheda anonima non verrà conservata in &brandShortName; alcuna cronologia relativa a navigazione, ricerche, download, compilazione di moduli, cookie e file temporanei. Tuttavia verranno mantenuti eventuali file scaricati o segnalibri aggiunti.">
-<!ENTITY privatebrowsingpage.description.private "&privatebrowsingpage.issueDesc.private; &privatebrowsingpage.description;">
-<!ENTITY privatebrowsingpage.moreInfo "Anche se questo dispositivo non conserverà alcuna informazione relativa alla cronologia di navigazione, il fornitore di servizi internet in uso sarà comunque in grado di mantenere un registro delle pagine visitate.">
+<!ENTITY privatebrowsingpage.title.normal "Navigazione anonima non attiva">
+<!ENTITY privatebrowsingpage.issueDesc.normal2 "In modalità Navigazione anonima non vengono salvati cronologia di navigazione o cookie.">
+<!ENTITY privatebrowsingpage.issueDesc.private2 "Non verranno salvati cronologia di navigazione o cookie.">
+<!ENTITY privatebrowsingpage.description2 "I segnalibri aggiunti e i file scaricati verranno comunque conservati sul dispositivo.">
+<!ENTITY privatebrowsingpage.description.normal "&privatebrowsingpage.issueDesc.normal2; &privatebrowsingpage.description2;">
+<!ENTITY privatebrowsingpage.description.private "&privatebrowsingpage.issueDesc.private2; &privatebrowsingpage.description2;">
+<!ENTITY privatebrowsingpage.link.private "Ulteriori informazioni">
+<!ENTITY privatebrowsingpage.link.normal "Apri una nuova scheda anonima">
