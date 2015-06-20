@@ -71,6 +71,8 @@
 <!ENTITY saveFrameAsCmd.label "Salva riquadro con nome…">
 <!ENTITY saveFrameCmd.label "Salva riquadro">
 <!ENTITY saveFrameCmd.accesskey "S">
+<!ENTITY printFrameCmd.label "Stampa riquadro…">
+<!ENTITY printFrameCmd.accesskey "t">
 <!ENTITY saveLinkAsCmd.label "Salva destinazione con nome…">
 <!ENTITY saveLinkCmd.label "Salva destinazione">
 <!ENTITY saveLinkCmd.accesskey "z">
