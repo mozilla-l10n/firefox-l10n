@@ -52,32 +52,6 @@
 <!ENTITY enableCrashReporter.accesskey   "p">
 <!ENTITY crashReporterLearnMore.label    "Läs mer">
 
-<!-- Display and Reading Settings -->
-<!ENTITY reading.caption               "Läsning">
-<!ENTITY display.caption               "Visning">
-<!ENTITY showCondensedAddresses.label  "Visa endast kortnamnen för personer som finns i adressboken">
-<!ENTITY showCondensedAddresses.accesskey "V">
-
-<!ENTITY autoMarkAsRead.label          "Märk automatiskt meddelanden som lästa">
-<!ENTITY autoMarkAsRead.accesskey      "M">
-<!ENTITY markAsReadNoDelay.label       "Omedelbart vid visning">
-<!ENTITY markAsReadNoDelay.accesskey   "O">
-<!-- LOCALIZATION NOTE (markAsReadDelay.label): This will concatenate to
-     "After displaying for [___] seconds",
-     using (markAsReadDelay.label) and a number (secondsLabel.label). -->
-<!ENTITY markAsReadDelay.label         "Efter att ha visats i">
-<!ENTITY markAsReadDelay.accesskey     "E">
-<!ENTITY secondsLabel.label            "sekunder">
-<!ENTITY openMsgIn.label               "Öppna meddelanden i:">
-<!ENTITY openMsgInNewTab.label         "en ny flik">
-<!ENTITY openMsgInNewTab.accesskey     "n">
-<!ENTITY reuseExpRadio0.label          "ett nytt fönster">
-<!ENTITY reuseExpRadio0.accesskey      "e">
-<!ENTITY reuseExpRadio1.label          "befintligt fönster">
-<!ENTITY reuseExpRadio1.accesskey      "b">
-<!ENTITY closeMsgOnMoveOrDelete.label  "Stäng meddelandefönstret/fliken vid flyttning eller borttagning">
-<!ENTITY closeMsgOnMoveOrDelete.accesskey "S">
-
 <!-- Update -->
 <!ENTITY updateApp.label                 "&brandShortName; uppdateringar:">
 <!ENTITY updateAuto.label                "Installera uppdateringar automatiskt (rekommenderas: förbättrad säkerhet)">
