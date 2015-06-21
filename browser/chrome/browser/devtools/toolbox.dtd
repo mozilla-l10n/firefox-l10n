@@ -15,6 +15,8 @@
 <!ENTITY toolboxZoomOut.key "-">
 <!ENTITY toolboxZoomReset.key "0">
 <!ENTITY toolboxReload.key "r">
+<!ENTITY toolboxToggleMinimize.key "U">
+<!ENTITY toolboxToggle.key "d">
 <!ENTITY toolboxFramesTooltip "Seleccione un iframe como documento de destino actual">
 <!ENTITY browserToolboxErrorMessage "Error al abrir la caja de herramientas del navegador:">
 <!ENTITY options.context.advancedSettings "Ajustes avanzados">
@@ -32,6 +34,8 @@
 <!ENTITY options.enableChrome.tooltip3 "Activar esta opción le permitirá usar varias herramientas de desarrollador en el contexto del navegador (a través de Herramientas > Desarrollador web > Caja de herramientas del navegador) y depurar complementos desde el administrador de complementos">
 <!ENTITY options.enableRemote.label3 "Activar depuración remota">
 <!ENTITY options.enableRemote.tooltip "Activar esta opción permitirá a las herramientas de desarrollador depurar instancias remotas de Firefox, como Firefox OS">
+<!ENTITY options.enableWorkers.label "Activar depuración del worker (en desarrollo)">
+<!ENTITY options.enableWorkers.tooltip "Activar esta opción permitirá a las herramientas de desarrollo depurar los workers">
 <!ENTITY options.disableJavaScript.label "Desactivar JavaScript *">
 <!ENTITY options.disableJavaScript.tooltip "Activar esta opción desactivará JavaScript en la pestaña actual. Si la pestaña o la caja de herramientas se cierra entonces este ajuste será descartado.">
 <!ENTITY options.disableCache.label2 "Desactivar caché (cuando la caja de herramientas está abierta)">
