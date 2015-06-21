@@ -78,6 +78,10 @@
 <!ENTITY netmonitorUI.context.copyResponse.accesskey "s">
 <!ENTITY netmonitorUI.context.copyImageAsDataUri "Copiar imagen como URI de datos">
 <!ENTITY netmonitorUI.context.copyImageAsDataUri.accesskey "o">
+<!ENTITY netmonitorUI.context.copyAllAsHar "Copiar todo como HAR">
+<!ENTITY netmonitorUI.context.copyAllAsHar.accesskey "H">
+<!ENTITY netmonitorUI.context.saveAllAsHar "Guardar todo como HAR">
+<!ENTITY netmonitorUI.context.saveAllAsHar.accesskey "G">
 <!ENTITY netmonitorUI.summary.editAndResend "Editar y volver a enviar">
 <!ENTITY netmonitorUI.summary.editAndResend.accesskey "E">
 <!ENTITY netmonitorUI.summary.rawHeaders "Cabeceras sin procesar">

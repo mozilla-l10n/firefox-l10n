@@ -50,10 +50,12 @@
 <!ENTITY profilerUI.flattenTreeRecursion.tooltiptext "Allanar recursión al inspeccionar funciones.">
 <!ENTITY profilerUI.enableMemory "Grabar uso de memoria">
 <!ENTITY profilerUI.enableMemory.tooltiptext "Grabar el consumo de memoria durante el análisis.">
+<!ENTITY profilerUI.enableAllocations "Registrar asignaciones de memoria">
+<!ENTITY profilerUI.enableAllocations.tooltiptext "Registrar asignaciones de objetos durante el análisis.">
 <!ENTITY profilerUI.enableFramerate "Grabar tasa de refresco">
 <!ENTITY profilerUI.enableFramerate.tooltiptext "Grabar tasa de refresco durante el análisis.">
-<!ENTITY profilerUI.showJITOptimizations "Mostrar optimizaciones JIT">
-<!ENTITY profilerUI.showJITOptimizations.tooltiptext "Mostrar datos de optimización JIT tomados en cada imagen del árbol de llamadas de JS.">
+<!ENTITY profilerUI.enableJITOptimizations "Registrar optimizaciones JIT">
+<!ENTITY profilerUI.enableJITOptimizations.tooltiptext "Registrar datos de optimización JIT tomados en cada marco JavaScript.">
 <!ENTITY profilerUI.JITOptimizationsTitle "Optimizaciones JIT">
 <!ENTITY profilerUI.console.recordingNoticeStart "Registrando ahora mediante">
 <!ENTITY profilerUI.console.recordingNoticeEnd "">
