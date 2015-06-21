@@ -3,8 +3,11 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY privatebrowsingpage.title "Navegación privada">
-<!ENTITY privatebrowsingpage.issueDesc.private "Ha abierto una nueva pestaña privada.">
-<!ENTITY privatebrowsingpage.issueDesc.normal "No está en una pestaña privada.">
-<!ENTITY privatebrowsingpage.description "En una ventana de navegación privada, &brandShortName; no guardará nada relacionado con el historial de navegación, las búsquedas, el historial de descargas, cookies o archivos temporales de Internet. Sin embargo, los archivos que guarde o los marcadores que haya creado sí se conservarán.">
-<!ENTITY privatebrowsingpage.description.private "&privatebrowsingpage.issueDesc.private; &privatebrowsingpage.description;">
-<!ENTITY privatebrowsingpage.moreInfo "Aunque este equipo no vaya a conservar un registro de su historial de navegación, su proveedor de servicios de Internet o su empresa aún pueden rastrear las páginas que haya visitado.">
+<!ENTITY privatebrowsingpage.title.normal "No está en navegación privada">
+<!ENTITY privatebrowsingpage.issueDesc.normal2 "En la navegación privada, no conservaremos su historial de navegación ni sus cookies.">
+<!ENTITY privatebrowsingpage.issueDesc.private2 "No conservaremos ni su historial de navegación ni sus cookies.">
+<!ENTITY privatebrowsingpage.description2 "Los marcadores que añada y los archivos que descargue seguirán guardados en su dispositivo.">
+<!ENTITY privatebrowsingpage.description.normal "&privatebrowsingpage.issueDesc.normal2; &privatebrowsingpage.description2;">
+<!ENTITY privatebrowsingpage.description.private "&privatebrowsingpage.issueDesc.private2; &privatebrowsingpage.description2;">
+<!ENTITY privatebrowsingpage.link.private "¿Desea más información?">
+<!ENTITY privatebrowsingpage.link.normal "Abrir una pestaña privada nueva">

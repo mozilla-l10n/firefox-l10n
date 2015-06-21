@@ -288,7 +288,7 @@
 <!ENTITY site_settings_cancel "Cancelar">
 <!ENTITY site_settings_clear "Limpiar">
 <!ENTITY site_settings_no_settings "No hay configuraciones para limpiar.">
-<!ENTITY reading_list_added "Página añadida a su lista de lectura">
+<!ENTITY reading_list_added2 "Añadida a la lista">
 <!ENTITY reading_list_removed "Página eliminada de su lista de lectura">
 <!ENTITY reading_list_remove "Eliminar de la lista de lectura">
 <!ENTITY reading_list_duplicate "Página ya está en su lista de lectura">
@@ -306,7 +306,6 @@
 <!ENTITY button_clear_data "Limpiar datos">
 <!ENTITY button_set "Configurar">
 <!ENTITY button_clear "Limpiar">
-<!ENTITY button_remember "Recordar">
 <!ENTITY button_copy "Copiar">
 <!ENTITY firstrun_panel_title_welcome "Bienvenido">
 <!ENTITY home_top_sites_title "Frecuentes">
@@ -338,9 +337,6 @@
 <!ENTITY home_remote_tabs_many_hidden_devices "&formatD; dispositivos ocultos">
 <!ENTITY home_remote_tabs_hidden_devices_title "Dispositivos ocultos">
 <!ENTITY home_remote_tabs_unhide_selected_devices "Desocultar dispositivos seleccionados">
-<!ENTITY private_browsing_title "Navegación privada">
-<!ENTITY private_tabs_panel_empty_desc "Sus pestañas privadas se mostrarán aquí. Aunque no conservamos su historial de navegación ni sus cookies, los marcadores y archivos que descargue seguirán siendo guardados en su dispositivo.">
-<!ENTITY private_tabs_panel_learn_more "¿Desea saber más?">
 <!ENTITY remote_tabs_panel_moved_title "¿Dónde han ido mis pestañas?">
 <!ENTITY remote_tabs_panel_moved_desc "Hemos movido sus pestañas de otros dispositivos a un panel en su página de inicio al que se puede acceder fácilmente cada vez que abra una pestaña nueva.">
 <!ENTITY remote_tabs_panel_moved_link "Llevarme a mi nuevo panel.">
@@ -353,6 +349,7 @@
 <!ENTITY identity_run_by "que pertenece a">
 <!ENTITY identity_no_info "Este sitio web no proporciona información de identidad.">
 <!ENTITY identity_not_encrypted "La conexión a este sitio web no está cifrada.">
+<!ENTITY identity_encrypted "Cifrado">
 <!ENTITY loaded_mixed_content_message "Esta página está mostrando contenido que no es seguro.">
 <!ENTITY blocked_mixed_content_message_top "&brandShortName; ha bloqueado contenido que no es seguro.">
 <!ENTITY blocked_mixed_content_message_bottom "La mayoría de los sitios web funcionan correctamente incluso con este contenido bloqueado.">
@@ -410,3 +407,4 @@
 <!ENTITY remote_tabs_last_synced "Última sincr.: &formatS;">
 <!ENTITY remote_tabs_never_synced "Última sincronización: nunca">
 <!ENTITY find_matchcase "Aa">
+<!ENTITY intent_uri_cannot_open "No se puede abrir el enlace">
