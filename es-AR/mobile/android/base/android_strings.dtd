@@ -517,10 +517,6 @@ size. -->
      the text of a button; we expect more than one device. -->
 <!ENTITY home_remote_tabs_unhide_selected_devices "Hacer visible los dispositivos seleccionados">
 
-<!ENTITY private_browsing_title "Navegación privada">
-<!ENTITY private_tabs_panel_empty_desc "Tus pestañas privadas aparecen acá. Aunque no guardamos tu historial de navegación o cookies, los marcadores y los archivos que se hayan descargados se guardarán en tu dispositivo.">
-<!ENTITY private_tabs_panel_learn_more "¿Querés saber más?">
-
 <!ENTITY remote_tabs_panel_moved_title "¿A donde fueron mis pestañas?">
 <!ENTITY remote_tabs_panel_moved_desc "Movimos las pestañas de tus otros dispositivos a un panel en tu página de inicio que puede accederse fácilmente cada vez que abrás una nueva pestaña.">
 <!ENTITY remote_tabs_panel_moved_link "Ir a mi nuevo panel.">
@@ -667,3 +663,5 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- LOCALIZATION NOTE (find_matchcase): This is meant to appear as an icon that changes color
      if match-case is activated. i.e. No more than two letters, one uppercase, one lowercase. -->
 <!ENTITY find_matchcase "Aa">
+
+<!ENTITY intent_uri_cannot_open "No se puede abrir enlace">
