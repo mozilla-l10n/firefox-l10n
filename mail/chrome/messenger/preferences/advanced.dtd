@@ -4,7 +4,6 @@
 
 <!ENTITY itemGeneral.label       "Allmänt">
 <!ENTITY dataChoicesTab.label    "Dataval">
-<!ENTITY itemDisplay.label       "Läsning &amp; visning">
 <!ENTITY itemUpdate.label        "Uppdateringar">
 <!ENTITY itemNetworking.label    "Nätverk &amp; diskutrymme">
 <!ENTITY itemCertificates.label  "Certifikat">
