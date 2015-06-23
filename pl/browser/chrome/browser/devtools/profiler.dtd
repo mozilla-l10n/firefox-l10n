@@ -53,6 +53,8 @@
 <!ENTITY profilerUI.flattenTreeRecursion.tooltiptext "Spłaszczanie rekurencji podczas badania funkcji">
 <!ENTITY profilerUI.enableMemory "Rejestrowanie pamięci">
 <!ENTITY profilerUI.enableMemory.tooltiptext "Rejestrowanie zużycia pamięci podczas profilowania">
+<!ENTITY profilerUI.enableAllocations "Rejestrowanie alokacji">
+<!ENTITY profilerUI.enableAllocations.tooltiptext "Rejestrowanie alokacji obiektów podczas profilowania">
 <!ENTITY profilerUI.enableFramerate "Rejestrowanie liczby ramek">
 <!ENTITY profilerUI.enableFramerate.tooltiptext "Rejestrowanie liczby ramek podczas profilowania">
 <!ENTITY profilerUI.showJITOptimizations "Optymalizacje JIT">
