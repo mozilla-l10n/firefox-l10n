@@ -64,3 +64,5 @@
 <!ENTITY closeCmd.key "W">
 <!ENTITY findCmd.key "F">
 <!ENTITY clearOutputCtrl.key "L">
+<!ENTITY openInVarViewCmd.label "Abrir en la vista de variables">
+<!ENTITY openInVarViewCmd.accesskey "V">
