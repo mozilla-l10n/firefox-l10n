@@ -101,6 +101,10 @@
 <!ENTITY netmonitorUI.context.copyResponse.accesskey "u">
 <!ENTITY netmonitorUI.context.copyImageAsDataUri "Kopiuj obrazek jako Data URI">
 <!ENTITY netmonitorUI.context.copyImageAsDataUri.accesskey "D">
+<!ENTITY netmonitorUI.context.copyAllAsHar "Kopiuj wszystko jako HTTP Archive">
+<!ENTITY netmonitorUI.context.copyAllAsHar.accesskey "T">
+<!ENTITY netmonitorUI.context.saveAllAsHar "Zapisz wszystko jako HTTP Archive">
+<!ENTITY netmonitorUI.context.saveAllAsHar.accesskey "H">
 <!ENTITY netmonitorUI.summary.editAndResend "Edytuj i wyślij ponownie">
 <!ENTITY netmonitorUI.summary.editAndResend.accesskey "E">
 <!ENTITY netmonitorUI.summary.rawHeaders "Nieprzetworzone nagłówki">
