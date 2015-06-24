@@ -37,3 +37,5 @@
 <!ENTITY inspectorSearchHTML.key "F">
 <!ENTITY inspectorSearchHTML.label3 "Szukaj w kodzie HTML">
 <!ENTITY inspectorShowDOMProperties.label "Wyświetl własności DOM">
+
+<!ENTITY inspectorScreenshotNode.label "Zrzut ekranu węzła">
