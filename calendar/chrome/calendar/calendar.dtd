@@ -32,7 +32,7 @@
 <!ENTITY calendar.unifinder.tree.done.label                "完成">
 <!ENTITY calendar.unifinder.tree.done.tooltip2             "依照是否完成排序">
 <!ENTITY calendar.unifinder.tree.priority.label            "重要性">
-<!ENTITY calendar.unifinder.tree.priority.tooltip2         "依照優先權排序">
+<!ENTITY calendar.unifinder.tree.priority.tooltip2         "依照重要性排序">
 <!ENTITY calendar.unifinder.tree.title.label               "標題">
 <!ENTITY calendar.unifinder.tree.title.tooltip2            "依照標題排序">
 <!ENTITY calendar.unifinder.tree.percentcomplete.label     "&#37; 完成">
@@ -289,7 +289,7 @@
 <!ENTITY calendar.alarm.snoozefor.label             "稍後提醒" >
 <!ENTITY calendar.alarm.snoozeallfor.label          "全部稍後提醒:" >
 <!ENTITY calendar.alarm.title.label                 "行事曆鬧鈴" >
-<!ENTITY calendar.alarm.dismiss.label               "解除" >
+<!ENTITY calendar.alarm.dismiss.label               "知道了！" >
 <!ENTITY calendar.alarm.dismissall.label            "全部解除" >
 
 <!ENTITY calendar.alarm.snooze.5minutes.label       "5 分鐘" >
