@@ -260,6 +260,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY browserToolboxMenu.accesskey "d">
 <!ENTITY browserToolboxCmd.commandkey "i">
 <!ENTITY browserContentToolboxMenu.label "Narzędzia treści przeglądarki">
+<!ENTITY browserContentToolboxMenu.accesskey "t">
 <!ENTITY devToolbarCloseButton.tooltiptext "Zamknij pasek programisty">
 <!ENTITY devToolbarMenu.label              "Pasek programisty">
 <!ENTITY devToolbarMenu.accesskey          "P">
