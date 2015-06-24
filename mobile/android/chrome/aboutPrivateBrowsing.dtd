@@ -8,6 +8,6 @@
 <!ENTITY privatebrowsingpage.issueDesc.private2 "Non verranno salvati cronologia di navigazione o cookie.">
 <!ENTITY privatebrowsingpage.description2 "I segnalibri aggiunti e i file scaricati verranno comunque conservati sul dispositivo.">
 <!ENTITY privatebrowsingpage.description.normal "&privatebrowsingpage.issueDesc.normal2; &privatebrowsingpage.description2;">
-<!ENTITY privatebrowsingpage.description.private "&privatebrowsingpage.issueDesc.private2; &privatebrowsingpage.description2;">
+<!ENTITY privatebrowsingpage.description.private2 "&privatebrowsingpage.issueDesc.private2; &privatebrowsingpage.description2;">
 <!ENTITY privatebrowsingpage.link.private "Ulteriori informazioni">
 <!ENTITY privatebrowsingpage.link.normal "Apri una nuova scheda anonima">
