@@ -158,6 +158,8 @@
 <!ENTITY bothFormatCmd.accesskey "l">
 <!ENTITY priorityMenu.label "중요도">
 <!ENTITY priorityMenu.accesskey "p">
+<!ENTITY priorityButton.title "중요도">
+<!ENTITY priorityButton.tooltiptext "메시지 중요도 변경">
 <!ENTITY priorityButton.label "중요도:">
 <!ENTITY lowestPriorityCmd.label "아주 낮음">
 <!ENTITY lowestPriorityCmd.accesskey "l">

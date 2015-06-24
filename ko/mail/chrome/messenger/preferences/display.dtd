@@ -4,6 +4,7 @@
 
 <!ENTITY itemFormatting.label "서식">
 <!ENTITY itemTags.label "태그">
+<!ENTITY itemAdvanced.label  "고급">
 
 <!ENTITY style.label "스타일:">
 <!ENTITY style.accesskey "y">
@@ -44,3 +45,29 @@
 <!ENTITY fontOptions.label       "고급 설정…">
 <!ENTITY colorButton.label       "색상…">
 <!ENTITY colorButton.accesskey   "C">
+
+<!-- Advanced -->
+<!ENTITY reading.caption               "읽기">
+<!ENTITY display.caption               "표시">
+<!ENTITY showCondensedAddresses.label  "주소록에서 사람에 대한 표시명만 보이기">
+<!ENTITY showCondensedAddresses.accesskey "S">
+
+<!ENTITY autoMarkAsRead.label          "읽은 메시지로 자동 표시">
+<!ENTITY autoMarkAsRead.accesskey      "A">
+<!ENTITY markAsReadNoDelay.label       "출력 후 즉시">
+<!ENTITY markAsReadNoDelay.accesskey   "o">
+<!-- LOCALIZATION NOTE (markAsReadDelay.label): This will concatenate to
+     "After displaying for [___] seconds",
+     using (markAsReadDelay.label) and a number (secondsLabel.label). -->
+<!ENTITY markAsReadDelay.label         "다음 시간이 경과되었을 시 읽은 것으로 표시: ">
+<!ENTITY markAsReadDelay.accesskey     "d">
+<!ENTITY secondsLabel.label            "초">
+<!ENTITY openMsgIn.label               "메시지 열기:">
+<!ENTITY openMsgInNewTab.label         "새 탭">
+<!ENTITY openMsgInNewTab.accesskey     "t">
+<!ENTITY reuseExpRadio0.label          "새 메시지 창">
+<!ENTITY reuseExpRadio0.accesskey      "n">
+<!ENTITY reuseExpRadio1.label          "기존 메시지 창">
+<!ENTITY reuseExpRadio1.accesskey      "e">
+<!ENTITY closeMsgOnMoveOrDelete.label   "이동시 또는 삭제시 메시지 창 또는 탭 닫기">
+<!ENTITY closeMsgOnMoveOrDelete.accesskey "C">

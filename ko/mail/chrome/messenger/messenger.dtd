@@ -192,6 +192,8 @@
 <!ENTITY sortByFromCmd.accesskey "F">
 <!ENTITY sortByRecipientCmd.label "받는 사람">
 <!ENTITY sortByRecipientCmd.accesskey "c">
+<!ENTITY sortByCorrespondentCmd.label "글 쓴 사람">
+<!ENTITY sortByCorrespondentCmd.accesskey "e">
 <!ENTITY sortByUnreadCmd.label "읽음">
 <!ENTITY sortByUnreadCmd.accesskey "R">
 <!ENTITY sortByOrderReceivedCmd.label "받은 순서">
@@ -658,6 +660,7 @@
 <!ENTITY threadColumn.label "글타래">
 <!ENTITY fromColumn.label "보낸 사람">
 <!ENTITY recipientColumn.label "받는 사람">
+<!ENTITY correspondentColumn.label "글 쓴 사람">
 <!ENTITY subjectColumn.label "제목">
 <!ENTITY dateColumn.label "날짜">
 <!ENTITY priorityColumn.label "중요도">
@@ -680,6 +683,7 @@
 <!ENTITY threadColumn2.tooltip "글타래 메시지 표시">
 <!ENTITY fromColumn2.tooltip "보낸 사람 순으로 정렬">
 <!ENTITY recipientColumn2.tooltip "받는 사람으로 정렬">
+<!ENTITY correspondentColumn2.tooltip "글 쓴 사람으로 정렬">
 <!ENTITY subjectColumn2.tooltip "제목으로 정렬">
 <!ENTITY dateColumn2.tooltip "날짜로 정렬">
 <!ENTITY priorityColumn2.tooltip "중요도로 정렬">
