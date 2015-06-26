@@ -57,8 +57,8 @@
 <!ENTITY profilerUI.enableAllocations.tooltiptext "Rejestrowanie alokacji obiektów podczas profilowania">
 <!ENTITY profilerUI.enableFramerate "Rejestrowanie liczby ramek">
 <!ENTITY profilerUI.enableFramerate.tooltiptext "Rejestrowanie liczby ramek podczas profilowania">
-<!ENTITY profilerUI.showJITOptimizations "Optymalizacje JIT">
-<!ENTITY profilerUI.showJITOptimizations.tooltiptext "Wyświetlanie danych optymalizacji JIT próbkowanych dla każdej ramki drzewa wywołań JS">
+<!ENTITY profilerUI.enableJITOptimizations "Rejestrowanie optymalizacji JIT">
+<!ENTITY profilerUI.enableJITOptimizations.tooltiptext "Rejestrowanie danych optymalizacji JIT próbkowanych dla każdej ramki JavaScript">
 <!ENTITY profilerUI.JITOptimizationsTitle "Optymalizacje JIT">
 
 <!ENTITY profilerUI.console.recordingNoticeStart "Rejestrowanie poprzez">
