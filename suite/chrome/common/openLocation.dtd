@@ -12,8 +12,8 @@
 <!ENTITY chooseFile.label "Escolher o ficheiro…">
 <!ENTITY chooseFile.accesskey "c">
 <!ENTITY newPrivate.label "Nova janela privada">
-<!ENTITY newWindow.label "Nova janela do navegador">
-<!ENTITY newTab.label "Novo separador do navegador">
+<!ENTITY newWindow.label "Nova janela">
+<!ENTITY newTab.label "Novo separador">
 <!ENTITY currentTab.label "Separador da navegação atual">
 <!ENTITY editNewWindow.label "Nova janela de mensagem">
 <!ENTITY open.label "Abrir">

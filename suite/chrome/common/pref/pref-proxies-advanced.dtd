@@ -12,7 +12,7 @@
 <!ENTITY  ssl.accesskey               "L">
 <!ENTITY  ftp.label                   "Proxy FTP:">
 <!ENTITY  ftp.accesskey               "F">
-<!ENTITY  reuseProxy.label            "Usar definições de proxy HTTP para todos os protocolos">
+<!ENTITY  reuseProxy.label            "Utilizar definições de proxy HTTP para todos os protocolos">
 <!ENTITY  reuseProxy.accesskey        "U">
 <!ENTITY  port.label                  "Porta:">
 <!ENTITY  HTTPPort.accesskey          "P">
@@ -27,6 +27,6 @@
 <!ENTITY  socks4.accesskey            "C">
 <!ENTITY  socks5.label                "SOCKS v5">
 <!ENTITY  socks5.accesskey            "K">
-<!ENTITY  socksRemoteDNS.label        "Usar para negociar com servidores (recomendado para SOCKS v5)">
+<!ENTITY  socksRemoteDNS.label        "Utilizar para negociar com servidores (recomendado para SOCKS v5)">
 <!ENTITY  socksRemoteDNS.accesskey    "e">
 <!ENTITY  SOCKSport.accesskey         "t">

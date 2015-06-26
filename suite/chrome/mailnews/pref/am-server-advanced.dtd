@@ -10,7 +10,7 @@
 <!ENTITY usingSubscription.accesskey "r">
 <!ENTITY dualUseFolders.label "O servidor suporta pastas que contenham Sub-pastas e mensagens">
 <!ENTITY dualUseFolders.accesskey "p">
-<!ENTITY useIdle.label "Usar comando IDLE se o servidor o suportar">
+<!ENTITY useIdle.label "Utilizar comando IDLE se o servidor o suportar">
 <!ENTITY useIdle.accesskey "I">
 <!ENTITY maximumConnectionsNumber.label "Número máximo de ligações para a cache">
 <!ENTITY maximumConnectionsNumber.accesskey "m">

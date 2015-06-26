@@ -62,7 +62,7 @@
 <!ENTITY cookies.blockOnRemove.accesskey "o">
 <!-- permissions -->
 
-<!ENTITY perm.UseDefault "Usar pré-definição">
+<!ENTITY perm.UseDefault "Utilizar predefinições">
 <!ENTITY perm.AskAlways "Perguntar sempre">
 <!ENTITY perm.NeverSave "Nunca guardar">
 <!ENTITY perm.Allow "Permitir">
@@ -126,7 +126,7 @@
 
 <!ENTITY fdata.tree.fieldname.label "Nome do campo">
 <!ENTITY fdata.tree.value.label "Valor introduzido">
-<!ENTITY fdata.tree.usecount.label "Usar contador">
+<!ENTITY fdata.tree.usecount.label "Contagem">
 <!ENTITY fdata.tree.firstused.label "Primeira utilização">
 <!ENTITY fdata.tree.lastused.label "Última utilização">
 

@@ -13,9 +13,9 @@
 <!ENTITY useFavIcons.accesskey                  "a">
 <!ENTITY enableAutomaticImageResizing.label     "Redimensionar imagens grandes para caberem na janela do navegador">
 <!ENTITY enableAutomaticImageResizing.accesskey "R">
-<!ENTITY useSmoothScroll.label                  "Usar deslocamento suave">
+<!ENTITY useSmoothScroll.label                  "Utilizar deslocação suave">
 <!ENTITY useSmoothScroll.accesskey              "U">
-<!ENTITY allowHWAccel.label                     "Usar aceleração por hardware quando disponível">
+<!ENTITY allowHWAccel.label                     "Se disponível, utilizar aceleração por hardware">
 <!ENTITY allowHWAccel.accesskey                 "e">
 <!ENTITY textZoomOnly.label                     "Ampliar apenas o texto em vez de toda a página">
 <!ENTITY textZoomOnly.accesskey                 "A">

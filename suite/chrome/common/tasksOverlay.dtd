@@ -39,7 +39,7 @@
 <!ENTITY passwordExpireCmd.label "Sair">
 <!ENTITY passwordExpireCmd.accesskey "S">
 
-<!ENTITY downloadManagerCmd.label "Gestor de transferências">
+<!ENTITY downloadManagerCmd.label "Gestor de descargas">
 <!ENTITY downloadManagerCmd.accesskey "t">
 <!ENTITY downloadManagerCmd.commandkey "j">
 

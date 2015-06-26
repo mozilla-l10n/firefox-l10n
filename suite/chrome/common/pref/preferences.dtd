@@ -28,7 +28,7 @@
 <!ENTITY certs.label "Certificados">
 <!ENTITY sync.label "Sync">
 <!ENTITY advance.label "Avançado">
-<!ENTITY down.label "Transferir">
+<!ENTITY down.label "Descarregar">
 <!ENTITY cache.label "Cache">
 <!ENTITY offlineApps.label "Aplicações offline">
 <!ENTITY proxies.label "Proxies">

@@ -14,7 +14,7 @@
 
 <!ENTITY loadAllImagesRadio.label       "Carregar todas as imagens">
 <!ENTITY loadAllImagesRadio.accesskey   "a">
-<!ENTITY loadOrgImagesRadio.label       "Apenas carregar imagens que vieram do servidor de origem">
+<!ENTITY loadOrgImagesRadio.label       "Apenas carregar imagens que vierem do servidor de origem">
 <!ENTITY loadOrgImagesRadio.accesskey   "n">
 <!ENTITY loadNoImagesRadio.label        "Não carregar nenhuma imagem">
 <!ENTITY loadNoImagesRadio.accesskey    "g">

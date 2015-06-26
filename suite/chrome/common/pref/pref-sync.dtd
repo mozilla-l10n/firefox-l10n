@@ -46,8 +46,8 @@
 <!ENTITY engine.tabs.accesskey      "S">
 <!ENTITY engine.history.label       "Histórico">
 <!ENTITY engine.history.accesskey   "H">
-<!ENTITY engine.passwords.label     "Senhas">
-<!ENTITY engine.passwords.accesskey "S">
+<!ENTITY engine.passwords.label     "Palavras-passe">
+<!ENTITY engine.passwords.accesskey "P">
 <!ENTITY engine.prefs.label         "Preferências">
 <!ENTITY engine.prefs.accesskey     "P">
 <!-- Footer stuff -->

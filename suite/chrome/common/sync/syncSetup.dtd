@@ -13,13 +13,13 @@
 
 <!ENTITY setup.choicePage.title.label     "Já usou o &syncBrand.fullName.label; antes?">
 <!ENTITY setup.choicePage.new.label       "Nunca usei o &syncBrand.shortName.label;">
-<!ENTITY setup.choicePage.existing.label  "Já estou a usar o &syncBrand.shortName.label; noutro computador">
+<!ENTITY setup.choicePage.existing.label  "Já estou a utilizar o &syncBrand.shortName.label; noutro computador">
 <!-- New Account AND Existing Account -->
 
 <!ENTITY server.label               "Servidor">
 <!ENTITY server.accesskey           "S">
 <!ENTITY serverType.main.label      "Servidor do &syncBrand.fullName.label;">
-<!ENTITY serverType.custom2.label   "Usar um servidor específico">
+<!ENTITY serverType.custom2.label   "Utilizar um servidor personalizado…">
 <!ENTITY signIn.account2.label      "Conta">
 <!ENTITY signIn.account2.accesskey  "a">
 <!ENTITY signIn.password.label      "Palavra-passe">
