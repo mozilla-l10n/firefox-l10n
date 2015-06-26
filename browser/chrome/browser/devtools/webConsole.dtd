@@ -9,7 +9,7 @@
 
 
 <!ENTITY window.title "เว็บคอนโซล">
-<!ENTITY browserConsole.title "คอนโซลเบราเซอร์">
+<!ENTITY browserConsole.title "คอนโซลเบราว์เซอร์">
 
 <!ENTITY networkPanel.requestURLColon             "URL ที่ร้องขอ:">
 <!ENTITY networkPanel.requestMethodColon          "วิธีการร้องขอ:">
