@@ -18,7 +18,7 @@
 <!ENTITY sync.account               "Nome da conta">
 <!ENTITY sync.password              "Palavra-passe">
 <!ENTITY sync.recoveryKey           "Chave de recuperação">
-<!ENTITY sync.customServer          "Usar servidor personalizado">
+<!ENTITY sync.customServer          "Utilizar servidor personalizado">
 <!ENTITY sync.serverURL             "URL do servidor">
 <!ENTITY sync.setup.connect         "Ligar">
 <!ENTITY sync.setup.cancel          "Cancelar">

@@ -32,12 +32,12 @@
 <!ENTITY sync.input.username.label "Nome da conta">
 <!ENTITY sync.input.password.label "Palavra-passe">
 <!ENTITY sync.input.key.label "Chave de recuperação">
-<!ENTITY sync.checkbox.server.label "Usar servidor personalizado">
+<!ENTITY sync.checkbox.server.label "Utilizar servidor personalizado">
 <!ENTITY sync.input.server.label "URL do servidor">
 <!-- Setup Fail -->
 
 <!ENTITY sync.title.fail.label "Não foi possível configurar &syncBrand.shortName.label;">
-<!ENTITY sync.subtitle.fail.label "O &syncBrand.fullName.label; não conseguiu ligar-se ao servidor. Deseja tentar novamente?">
+<!ENTITY sync.subtitle.fail.label "O &syncBrand.fullName.label; não se conseguiu ligar ao servidor. Deseja tentar novamente?">
 <!ENTITY sync.button.tryagain.label "Tentar novamente">
 <!ENTITY sync.button.manual.label "Configuração manual">
 <!ENTITY sync.subtitle.nointernet.label "Nenhuma ligação de Internet disponível.">
@@ -143,7 +143,7 @@
 <!ENTITY fxaccount_getting_started_welcome_to_sync "Bem-vindo ao &syncBrand.shortName.label;">
 <!ENTITY fxaccount_getting_started_description "Inicie sessão para sincronizar separadores, marcadores, palavras-passe e mais.">
 <!ENTITY fxaccount_getting_started_get_started "Começar">
-<!ENTITY fxaccount_getting_started_old_firefox "A usar uma versão antiga do &syncBrand.shortName.label;?">
+<!ENTITY fxaccount_getting_started_old_firefox "Está a utilizar uma versão antiga do &syncBrand.shortName.label;?">
 <!-- Localization note: the Firefox below should not change with the
      particular version of Firefox installed (Release, Beta, Aurora,
      etc).  The account remains a "Firefox Account". -->
@@ -224,7 +224,7 @@
 <!ENTITY fxaccount_status_more "Mais&ellipsis;">
 
 <!ENTITY fxaccount_remove_account_dialog_title "Remover Conta do Firefox?">
-<!ENTITY fxaccount_remove_account_dialog_message "O &brandShortName; irá parar de sincronizar com a sua conta, mas não irá eliminar os seus dados de navegação deste dispositivo.">
+<!ENTITY fxaccount_remove_account_dialog_message "O &brandShortName; irá parar de sincronizar a sua conta, mas não irá eliminar os dados de navegação neste dispositivo.">
 <!-- Localization note: format string below will be replaced
      with the Firefox Account's email address. -->
 <!ENTITY fxaccount_remove_account_toast "Conta do Firefox &formatS; removida.">

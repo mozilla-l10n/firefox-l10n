@@ -25,10 +25,10 @@ fazer-se passar pelo sítio, e não deve continuar.">
 <!ENTITY certerror.getMeOutOfHere.label "Tirem-me daqui!">
 
 <!ENTITY certerror.expert.heading "Eu compreendo os riscos">
-<!ENTITY certerror.expert.content "se compreender o que está a acontecer, pode 
-dizer ao &brandShortName; para começar a confiar nesta identificação do sítio. 
-<b>mesmo que confie no sítio, este erro pode significar que alguém está 
-a usar a sua ligação.</b>">
+<!ENTITY certerror.expert.content "Se compreende o que está a acontecer, pode 
+dizer ao &brandShortName; para confiar na identificação deste sítio. 
+<b>Mesmo que confie no sítio, este erro pode significar que alguém está 
+a tentar utilizar a sua ligação.</b>">
 <!ENTITY certerror.expert.contentPara2 "Não adicione uma exceção a menos que 
 saiba de uma boa razão para o sítio não ter uma identificação segura.">
 <!ENTITY certerror.addTemporaryException.label "Visitar sítio">
