@@ -10,8 +10,8 @@
 <!ENTITY aboutPage.checkForUpdates.checking     "হালনাগাদ অনুসন্ধান করা হচ্ছে...">
 <!ENTITY aboutPage.checkForUpdates.none         "কোন হালনাগাদ উপস্থিত নেই">
 
-
-
+<!ENTITY aboutPage.checkForUpdates.downloading  "হালনাগাদ ডাউনলোড করা হচ্ছে... ">
+<!ENTITY aboutPage.checkForUpdates.downloaded2  "হালনাগাদ ইনস্টল করুন">
 <!ENTITY aboutPage.faq.label                    "FAQ">
 <!ENTITY aboutPage.support.label                "সমর্থন">
 <!ENTITY aboutPage.privacyPolicy.label          "গোপনীয়তা নীতিমালা">
@@ -19,3 +19,6 @@
 <!ENTITY aboutPage.relNotes.label               "প্রকাশের বিবরণ">
 <!ENTITY aboutPage.credits.label                "স্বীকৃতি">
 <!ENTITY aboutPage.license.label                "লাইসেন্সিং তথ্য">
+<!-- LOCALIZATION NOTE (aboutPage.logoTrademark): The message is explicitly about the word "Firefox" being trademarked, that's why we use it, instead of brandShortName. -->
+
+<!ENTITY aboutPage.logoTrademark                "Firefox এবং Firefox এর লোগো সমূহ Mozilla Foundation এর নিবন্ধনকৃত ট্রেডমার্ক।">

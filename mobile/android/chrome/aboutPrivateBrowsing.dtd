@@ -4,8 +4,10 @@
 
 <!ENTITY privatebrowsingpage.title                  "একান্ত ব্রাউজিং">
 
-<!ENTITY privatebrowsingpage.issueDesc.private      "আপনার একটি নতুন ব্যাক্তিগত ট্যাব খোলা আছে">
+<!ENTITY privatebrowsingpage.issueDesc.private      "আপনি একটি নতুন ব্যক্তিগত ট্যাব খুলেছেন।">
 <!ENTITY privatebrowsingpage.issueDesc.normal       "আপনি ব্যাক্তিগত ট্যাবে উপস্থিত নন">
 
+<!ENTITY privatebrowsingpage.description            "একান্ত ব্রাউজিং সেশনে, &brandShortName; কোন ব্রাউজ ইতিহাস, অনুসন্ধান ইতিহাস, ডাউনলোড ইতিহাস, ওয়েব ফরম ইতিহাস, কুকি, বা অস্থায়ী ইন্টারনেট ফাইল সংরক্ষণ করবে না। তবে, আপনি যে সমস্ত ফাইল ডাউনলোড করবেন বা যে বুকমার্কগুলো তৈরী করবেন তা সংরক্ষণ করবে।">
+<!ENTITY privatebrowsingpage.description.private    "&privatebrowsingpage.issueDesc.private; &privatebrowsingpage.description;">
 
-
+<!ENTITY privatebrowsingpage.moreInfo               "যদিও এই যন্ত্রে আপনার ব্রাউজিং ইতিহাসের কোন রেকর্ড থাকবে না,  আপনার ইন্টারনেট সেবা প্রদানকারী বা আপনার কর্মকর্তাগন আপনার পরিদর্শিত পাতাগুলো অবলোকন করতে পারে।">

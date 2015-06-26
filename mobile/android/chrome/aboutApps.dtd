@@ -5,5 +5,6 @@
 <!ENTITY aboutApps.title2                          "অ্যাপস">
 <!ENTITY aboutApps.header                          "আপনার অ্যাপস">
 
+<!ENTITY aboutApps.browseMarketplace "ফায়ারফক্স এর মার্কেটপ্লেস এ ঘুরুন ">
 <!ENTITY aboutApps.uninstall "আনইনস্টল">
-<!ENTITY aboutApps.addToHomescreen "হোম স্ক্রীনে যোগ করা হবে">
+<!ENTITY aboutApps.checkForUpdates "হালনাগাদ করতে পরীক্ষা করুন">

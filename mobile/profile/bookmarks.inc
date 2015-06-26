@@ -57,11 +57,23 @@
 
 
 
-# link title for https://support.mozilla.org/mobile
+# link title for https://support.mozilla.org/
 
 
 
 #define bookmarks_support ফায়ারফক্স: সমর্থন করে
+
+
+
+# LOCALIZATION NOTE (bookmarks_marketplace):
+
+
+
+# link title for https://marketplace.firefox.com
+
+
+
+#define bookmarks_marketplace ফায়ারফক্স মার্কেটপ্লেস
 
 
 
