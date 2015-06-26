@@ -705,12 +705,12 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY syncBrand.shortName.label    "Sinhronizēt">
 
-<!ENTITY syncSetup.label              "Iestatīt sinhronizēšanu…">
+<!ENTITY syncSetup.label              "&syncBrand.shortName.label; iestatīšana…">
 <!ENTITY syncSetup.accesskey          "I">
 <!ENTITY syncSyncNowItem.label        "Sinhronizēt">
 <!ENTITY syncSyncNowItem.accesskey    "S">
 <!ENTITY syncReAuthItem.label         "Savienoties un &syncBrand.shortName.label;…">
-<!ENTITY syncReAuthItem.accesskey     "R">
+<!ENTITY syncReAuthItem.accesskey     "S">
 <!ENTITY syncToolbarButton.label      "Sinhronizēt">
 
 <!ENTITY socialToolbar.title        "Sociālo rīku joslas poga">
