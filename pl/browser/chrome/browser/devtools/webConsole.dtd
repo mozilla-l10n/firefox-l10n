@@ -91,3 +91,6 @@
 <!ENTITY closeCmd.key  "W">
 <!ENTITY findCmd.key          "F">
 <!ENTITY clearOutputCtrl.key "L">
+
+<!ENTITY openInVarViewCmd.label "Otwórz w panelu własności">
+<!ENTITY openInVarViewCmd.accesskey "O">
