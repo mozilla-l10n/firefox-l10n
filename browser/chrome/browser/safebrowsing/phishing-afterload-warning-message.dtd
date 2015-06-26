@@ -13,6 +13,7 @@
 <!ENTITY safeb.blocked.malwarePage.longDesc "<p>Атакуващите страници се опитват да инсталират програми, които крадат лична информация, повреждат компютъра ви или го използват за атака на други компютри.</p><p>Някои от тези страници го правят съзнателно, но много са просто жертва и собствениците им не знаят нищо за това.</p>">
 
 <!-- Localization note (safeb.blocked.malware.shortDesc) - Please don't translate the contents of the <span id="unwanted_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
+<!ENTITY safeb.blocked.unwantedPage.shortDesc "Страницата <span id='unwanted_sitename'/> е докладвана като съдържаща нежелан софтуер и беше блокирана.">
 
 
 <!ENTITY safeb.blocked.phishingPage.title "Страницата е докладвана като „измамническа“!">
