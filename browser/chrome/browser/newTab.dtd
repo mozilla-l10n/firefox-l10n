@@ -6,6 +6,10 @@
 <!ENTITY newtab.pageTitle "Ny flik">
 <!ENTITY newtab.customize.classic "Visa dina mest besökta webbplatser">
 <!ENTITY newtab.customize.cog.enhanced "Inkludera förslag på webbplatser">
+<!--
+  LOCALIZATION NOTE(newtab.customize.cog.title): This string is for the new
+  tab cog menu title. It will be transformed to uppercase.
+-->
 <!ENTITY newtab.customize.cog.title "Nya flik kontroller">
 <!ENTITY newtab.customize.cog.learn "Lär dig mer om Ny flik">
 <!ENTITY newtab.customize.title "Anpassa din Ny flik-sida">
