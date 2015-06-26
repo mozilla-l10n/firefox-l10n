@@ -5,6 +5,10 @@
 
 <!ENTITY  no_space_to_start_error "শুরু করার জন্য &brandShortName; এ পর্যাপ্ত পরিমান জায়গা নেই।">
 <!ENTITY  error_loading_file "&brandShortName; চালাতে প্রয়োজনীয় ফাইল লোড করার সময় ত্রুটি ঘটেছে">
+
+
+
+
 <!-- Localization note: These are used as the titles of different pages on the home screen.
      They are automatically converted to all caps by the Android platform. -->
 
@@ -12,48 +16,49 @@
 <!ENTITY  history_title "ইতিহাস">
 <!ENTITY  reading_list_title "পড়ার তালিকা">
 
+
 <!ENTITY  switch_to_tab " ট্যাবে সুইচ করুন   ">
 
 <!ENTITY  crash_reporter_title "&brandShortName; ক্র্যাশ প্রতিবেদক">
-
+<!ENTITY  crash_message2 "&brandShortName; তে একটি ত্রুটি হয়েছে এবং ক্র্যাশ করেছে। যখন আপনি পুনরায় চালু করবেন, আপনার ট্যাব সমূহ &brandShortName; এর প্রারম্ভিক পৃষ্ঠায় তালিকাবদ্ধ থাকবে।">
 <!ENTITY  crash_send_report_message3 "এই নষ্ট হয়ে যাওয়া সম্পর্কে &vendorShortName; বলুন যাতে তারা এটা ঠিক করতে পারে">
-<!ENTITY  crash_include_url2 "আমি যে পৃষ্ঠায় ছিলাম সেই পৃষ্ঠাটির ঠিকানা অন্তর্ভুক্ত করুন                ">
-<!ENTITY  crash_sorry " আমরা দুঃখিত                ">
+<!ENTITY  crash_include_url2 "আমি যে পৃষ্ঠায় ছিলাম সেই পৃষ্ঠাটির ঠিকানা অন্তর্ভুক্ত করুন">
+<!ENTITY  crash_sorry "আমরা দুঃখিত">
 <!ENTITY  crash_comment "মন্তব্য যোগ করুন (মন্তব্যগুলো সবাই দেখতে পাবে)">
 <!ENTITY  crash_allow_contact2 "এই প্রতিবেদন সম্পর্কে যোগাযোগ করতে &vendorShortName; কে অনুমোদন দেয়া হবে">
 <!ENTITY  crash_email "আপনার ইমেইল">
 <!ENTITY  crash_closing_alert "ক্র্যাশ প্রতিবেদন না পাঠিয়ে প্রস্থান করবেন?">
-<!ENTITY  sending_crash_report "ক্র্যাশ প্রতিবেদন পাঠানো হবে\u2026">
-<!ENTITY  crash_close_label "বন্ধ">
-<!ENTITY  crash_restart_label "&brandShortName; পুনরায় চালু করা হবে">
+<!ENTITY  sending_crash_report "ক্র্যাশ প্রতিবেদন পাঠানো হচ্ছে\u2026">
+<!ENTITY  crash_close_label "বন্ধ করুন">
+<!ENTITY  crash_restart_label " &brandShortName; পুনরায় চালু করুন">
 <!ENTITY  exit_label "প্রস্থান">
 
 <!ENTITY  launcher_shortcuts_title "&brandShortName; ওয়েব অ্যাপস">
 <!ENTITY  launcher_shortcuts_empty "কোন ওয়েব অ্যাপস পাওয়া যায়নি">
 
-<!ENTITY choose_file "ফাইল পছন্দ করুন">
+<!ENTITY choose_file "ফাইল নির্বাচন করুন">
 
-<!ENTITY url_bar_default_text "ঠিকানার জন্য অনুসন্ধান করুন">
 
-<!ENTITY bookmark "বুকমার্ক">
+
 <!ENTITY bookmark_added "বুকমার্ক সংযুক্ত করা হয়েছে">
 <!ENTITY bookmark_removed "বুকমার্ক অপসারণ করা হয়েছে">
-<!ENTITY bookmark_updated "বুকমার্ক হালনাগাদ করা হয়েছে">
+<!ENTITY bookmark_updated "বুকমার্ক আপডেট করা হয়েছে">
 <!ENTITY bookmark_options "অপশন">
 
 <!ENTITY history_today_section "আজ">
 <!ENTITY history_yesterday_section "গতকাল">
-<!ENTITY history_week_section "৭ দিন পূর্বে">
-<!ENTITY history_older_section "৭ দিনের বেশী পুরনো">
+
+
 
 <!ENTITY go "যান">
-<!ENTITY search "অনুসন্ধান">
+<!ENTITY search "খুজুন">
 <!ENTITY reload "পুনরায় লোড">
 <!ENTITY forward "পরবর্তী">
-
+<!ENTITY menu "মেনু">
 <!ENTITY back "পূর্ববর্তী">
-<!ENTITY stop "থামুন">
+
 <!ENTITY site_security "সাইটের নিরাপত্তা">
+<!ENTITY edit_mode_cancel "বাতিল করুন">
 
 <!ENTITY close_tab "ট্যাব বন্ধ করুন">
 <!ENTITY one_tab "১ ট্যাব">
@@ -61,8 +66,52 @@
      We can't use android plural forms, sadly. See bug #753859. -->
 <!ENTITY new_tab_opened "নতুন ট্যাব খোলা হয়েছে">
 
-<!ENTITY settings "সেটিং">
-<!ENTITY settings_title "সেটিং">
+<!-- Localization note (switch_button_message): This string should be as short
+     as possible because it's shown as a label in a toast.  Ideally, this string
+     is upper-case, to match Google and Android's convention. -->
+<!ENTITY switch_button_message "SWITCH">
+
+<!ENTITY settings "সেটিংসমূহ">
+<!ENTITY settings_title "সেটিংসমূহ">
+
+
+
+
+<!-- Localization note (pref_category_language) : This is the preferences
+     section in which the user picks the locale in which to display Firefox
+     UI. The locale includes both language and region concepts. -->
+
+
+<!-- Localization note (locale_system_default) : This string indicates that
+     Firefox will use the locale currently selected in Android's settings
+     to display browser chrome. -->
+<!-- Localization note (overlay_share_label) : This is the label that appears
+     in Android's intent chooser when sending a link to Firefox to bookmark,
+     send to another device, or add to Reading List. -->
+<!-- Localization note (overlay_share_bookmark_btn_label) : This string is
+     used in the share overlay menu to select an action. It is the verb
+     "to bookmark", not the noun "a bookmark". -->
+<!ENTITY overlay_share_reading_list_btn_label "পঠন তালিকায় যোগ করুন">
+
+
+
+<!-- Localization note (overlay_share_send_tab_btn_label) : Used on the
+     share overlay menu to represent the "Send Tab" action when the user
+     either has not set up Sync, or has no other devices to send a tab
+     to. -->
+
+
+<!-- Localization note (overlay_no_synced_devices) : Used when the menu option
+     to send a tab to a synced device is pressed and no other synced devices
+     are found. -->
+<!-- Localization note (overlay_share_tab_not_sent) : Used when the menu option
+     to send a tab to a synced device is pressed and there is an error
+     connecting to the server so the tab could not be sent. The text should be
+     divided into two lines (use the newline escape character, "\n", between
+     them): the first notifying the user about the failure and the second
+     telling the user what to do about it. -->
+
+<!ENTITY pref_category_search3 "অনুসন্ধান করুন">
 
 
 
@@ -71,14 +120,36 @@
 
 
 
+<!ENTITY pref_learn_more "আরও জানুন">
 
-<!-- Localization note (pref_search_tip) : "TIP" as in "hint", "clue" etc. Displayed as an
+
+
+
+
+<!-- Localization note (pref_search_hint) : "TIP" as in "hint", "clue" etc. Displayed as an
      advisory message on the customise search providers settings page explaining how to add new
-     search providers.-->
+     search providers.
+     The &formatI; in the string will be replaced by a small image of the icon described, and can be moved to wherever
+     it is applicable. -->
 
 
 
-<!ENTITY pref_remember_signons "পাসওয়ার্ড মনে রাখা হবে">
+<!ENTITY pref_remember_signons "পাসওয়ার্ড মনে রাখুন">
+
+
+
+
+
+
+<!-- Localization note (home_add_panel_installed):
+     The &formatS; will be replaced with the name of the new panel the user just
+     selected to be added to the home page. -->
+
+<!ENTITY pref_home_updates "স্বয়ংক্রিয় হালনাগাদ">
+
+
+<!ENTITY pref_home_suggested_sites "সাইট পরামর্শ দেখাও">
+
 <!-- Localization note: These are shown in the left sidebar on tablets -->
 
 
@@ -86,8 +157,9 @@
 
 
 
+
 <!ENTITY pref_cookies_menu "কুকি">
-<!ENTITY pref_cookies_accept_all "সক্রিয়">
+<!ENTITY pref_cookies_accept_all "সক্রিয়">
 <!ENTITY pref_cookies_not_accept_foreign "সক্রিয়, তৃতীয় পক্ষ ব্যতীত">
 <!ENTITY pref_cookies_disabled "নিষ্ক্রিয়">
 
@@ -95,17 +167,35 @@
 
 
 
-<!ENTITY pref_char_encoding "অক্ষর এনকোডিং">
+
+
+
+
+
+
+
+<!-- Localization note (tab_queue_notification_text_plural2) : The
+     formatD is replaced with the number of tabs queued.  The
+     number of tabs queued is always more than one.  We can't use
+     Android plural forms, sadly. See Bug #753859. -->
+<!-- Localization note (tab_queue_notification_text_singular2) : This is the
+     text of a notification; we expect only one tab queued. -->
+
+<!ENTITY pref_char_encoding "ক্যারেক্টার এনকোডিং">
 <!ENTITY pref_char_encoding_on "মেনু প্রদর্শিত হবে">
 
-<!ENTITY pref_clear_private_data "ব্যাক্তিগত ডাটা মুছে ফেলা হবে">
+
+<!ENTITY pref_clear_private_data_category "ব্যাক্তিগত ডাটা মুছুন">
+
+
+
 <!ENTITY pref_plugins "প্লাগইন">
-<!ENTITY pref_plugins_enabled "সক্রিয়">
-<!ENTITY pref_plugins_tap_to_play "খেলতে হলে ট্যাপ করুন">
-<!ENTITY pref_plugins_disabled "নিষ্ক্রিয়">
+
+<!ENTITY pref_plugins_tap_to_play "প্লে করতে ট্যাপ করুন">
+
 <!ENTITY pref_text_size "টেক্সটের আকার">
 
-
+<!ENTITY pref_restore "ট্যাব">
 
 
 <!ENTITY pref_font_size_tiny "অতিক্ষুদ্র">
@@ -123,24 +213,38 @@ size. -->
 <!-- Localization note (pref_font_size_preview_text): This paragraph is used as an example to
     demonstrate the font size setting.  It is meant to be whimsical and fun. -->
 
+<!ENTITY pref_font_size_preview_text "আপনার প্রত্যাশার চাইতে আরো দ্রুত গতিতে কমলা রংয়ের শিয়ালটি আরো অনেক উঁচুতে লাফাতে পারে, আরো নমনীয় ভাবে এবং আরো নিরাপদে। অলাভজনক হিসেবে, আপনার তরফ থেকে কোনো ধরনের আপোষ করার চাপ ছাড়াই আমরা বিনামূল্যে পরিবর্তন করে দিচ্ছি। এটি হবে আপনার জন্য একটি ভাল অভিজ্ঞতা এবং ওয়েবের জন্যে এক উজ্জ্বল ভবিষ্যত।">
+
+
+
+
+
 <!ENTITY pref_use_master_password "মাস্টার পাসওয়ার্ড ব্যবহার করুন">
-<!ENTITY pref_show_product_announcements "পণ্যের ঘোষণা প্রদর্শন করুন">
 <!ENTITY pref_sync "সিঙ্ক">
+
 <!ENTITY pref_search_suggestions "অনুসন্ধানের সাজেশন প্রদর্শন">
 <!ENTITY pref_import_android "অ্যান্ড্রয়েড থেকে ‌ইমপোর্ট">
-<!ENTITY pref_private_data_history "ব্রাউজিং ও ডাউনলোড ইতিহাস &amp; ব্রাউজ করা">
-<!ENTITY pref_private_data_formdata "ফর্ম ও অনুসন্ধানের ইতিহাস a">
-<!ENTITY pref_private_data_cookies2 "কুকি &amp; সক্রিয় লগইন">
+
+
+
+
+<!ENTITY pref_private_data_cookies2 "কুকি এবং সক্রিয় লগইন">
 <!ENTITY pref_private_data_passwords "সংরক্ষিত পাসওয়ার্ড">
 <!ENTITY pref_private_data_cache "ক্যাশ">
 <!ENTITY pref_private_data_offlineApps "অফলাইন ওয়েবসাইটের তথ্য">
-
+<!ENTITY pref_private_data_siteSettings2 "সাইটের সেটিং">
 
 
 
 <!ENTITY pref_about_firefox "&brandShortName; সম্পর্কে">
-
+<!ENTITY pref_vendor_faqs "FAQ">
 <!ENTITY pref_vendor_feedback "ফীডব্যাক প্রদান করুন">
+
+
+
+
+
+<!ENTITY pref_panels_show "প্রদর্শন করুন">
 
 
 
@@ -169,14 +273,16 @@ size. -->
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
      actual notification that an update is available. -->
-<!ENTITY pref_update_autodownload_wifi "শুধু ওয়াইফাই নির্ভর">
+
 <!ENTITY pref_update_autodownload_never "কখনো নয়">
 
+<!-- Localization note (help_menu) : This string is used in the main menu-->
 
 <!ENTITY quit "প্রস্থান">
 
 <!ENTITY addons "অ্যাড-অন">
-<!ENTITY downloads "ডাউনলোড">
+
+
 <!ENTITY apps "অ্যাপস">
 <!ENTITY char_encoding "ক্যারেক্টার এনকোডিং">
 
@@ -186,30 +292,35 @@ size. -->
 <!ENTITY save_as_pdf "পিডিএফ হিসেবে সংরক্ষণ করুন">
 <!ENTITY find_in_page "পৃষ্ঠায় খুঁজুন">
 <!ENTITY desktop_mode "ডেস্কটপ সাইটের অনুরোধ">
+
 <!ENTITY tools "টুল">
 <!ENTITY new_tab "নতুন ট্যাব">
 <!ENTITY new_private_tab "নতুন ব্যাক্তিগত ট্যাব">
 <!ENTITY close_all_tabs "সবগুলি ট্যাব বন্ধ করুন">
 
+
 <!ENTITY tabs_private "ব্যক্তিগত">
 
 
 
+<!ENTITY set_image_chooser_title "ছবিটি যেভাবে সেট হবে">
 <!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
-
-<!ENTITY find_text "পৃষ্ঠায় খুঁজুন">
 <!ENTITY find_prev "পূর্ববর্তী">
 <!ENTITY find_next "পরবর্তী">
-<!ENTITY find_close "বন্ধ">
+
+<!-- Localization note (media_sending_to, media_play, media_pause, media_stop) : These strings are used
+     as alternate text for accessibility. They are not visible in the UI. -->
+<!ENTITY media_play "চালানো">
+
+
 
 <!ENTITY contextmenu_open_new_tab "নতুন ট্যাবে খোলা হবে">
 <!ENTITY contextmenu_open_private_tab "ব্যাক্তিগত ট্যাবে খুলুন">
-<!ENTITY contextmenu_open_in_reader "একটি রিডার খুলুন">
 
 <!ENTITY contextmenu_add_to_launcher "হোম স্ক্রীনে যোগ করা হবে">
-<!ENTITY contextmenu_share "শেয়ার">
-<!ENTITY contextmenu_pasteandgo "প্রতিলেপন &amp; অগ্রসর">
+
+
 <!ENTITY contextmenu_paste "প্রতিলেপন">
 <!ENTITY contextmenu_copyurl "ঠিকানা অনুলিপি করা হবে">
 
@@ -219,12 +330,27 @@ size. -->
 
 
 
+<!-- Localization note (doorhanger_login_no_username): This string is used in the save-login doorhanger
+     where normally a username would be displayed. In this case, no username was found, and this placeholder
+     contains brackets to indicate this is not actually a username, but rather a placeholder -->
+
+<!ENTITY doorhanger_login_edit_username_hint "ব্যবহারকারীর নাম">
 
 
 
 
 
-<!ENTITY history_removed "পৃষ্ঠা অপসারণ করা হয়েছে">
+
+<!-- Localization note (pref_scroll_title_bar2): Label for setting that controls
+     whether or not the dynamic toolbar is enabled. -->
+
+
+
+<!-- Localization note (page_removed): This string appears in a toast message when
+     any page is removed frome about:home. This includes pages that are in history,
+     bookmarks, or reading list. -->
+
+<!ENTITY page_removed "পৃষ্ঠা অপসারণ করা হয়েছে">
 
 <!ENTITY bookmark_edit_title "বুকমার্ক সম্পাদনা">
 <!ENTITY bookmark_edit_name "নাম">
@@ -232,50 +358,90 @@ size. -->
 <!ENTITY bookmark_edit_keyword "কীওয়ার্ড">
 <!-- Localization note (site_settings_*) : These strings are used in the "Site Settings"
      dialog that appears after selecting the "Edit Site Settings" context menu item. -->
-<!ENTITY site_settings_cancel       "বাতিল">
+
 <!ENTITY site_settings_clear        "মুছে ফেলা হবে">
 <!ENTITY site_settings_no_settings  "পরিস্কার করার জন্য কোন সেটিংস নেই।">
 
 <!ENTITY reading_list_added "আপনার পঠন তালিকায় পৃষ্ঠা যোগ করা হয়েছে">
 <!ENTITY reading_list_removed "আপনার পঠন তালিকায় পৃষ্ঠা অপসারণ করা হয়েছে">
-<!ENTITY reading_list_failed "আপনার পঠন তালিকায় পৃষ্ঠা সংযুক্তকরণ ব্যর্থ হয়েছে">
+<!-- Localization note (reading_list_remove) : Used to remove the currently open page from
+     the user's reading list. The opposite of overlay_share_reading_list_btn_label. -->
+
+<!-- Localization note (reading_list_time_minutes2) : This string is used in the "Reading List"
+     panel on the home page to give the user an estimate of how many minutes it will take to
+     read an article. The word "minute" should be abbreviated if possible. -->
 
 <!-- Localization note : These strings are used as alternate text for accessibility.
      They are not visible in the UI. -->
 
 <!ENTITY masterpassword_create_title "মাস্টার পাসওয়ার্ড তৈরি করুন">
 <!ENTITY masterpassword_remove_title "মাস্টার পাসওয়ার্ড অপসারণ">
-<!ENTITY masterpassword_password "পাসওয়ার্ড">
+
 <!ENTITY masterpassword_confirm "পাসওয়ার্ড নিশ্চিতকরণ">
 
 <!ENTITY button_ok "ঠিক আছে">
-<!ENTITY button_cancel "বাতিল করুন">
+
 <!ENTITY button_yes "হ্যাঁ">
 <!ENTITY button_no "না">
 <!ENTITY button_clear_data "তথ্য পরিষ্কার করুন">
-<!ENTITY button_set "নির্ধারণ করুন">
-<!ENTITY button_clear "মুছে ফেলুন">
+
+
+<!ENTITY button_remember "স্মরণে রাখা হবে">
+
 
 <!ENTITY home_top_sites_title "শীর্ষ সাইট">
 <!-- Localization note (home_top_sites_add): This string is used as placeholder
      text underneath empty thumbnails in the Top Sites page on about:home. -->
+<!-- Localization note (home_title): This string should be kept in sync
+     with the page title defined in aboutHome.dtd -->
 
 
 
-<!ENTITY home_last_tabs_open "শেষবারের মত সকল ট্যাব খুলুন">
 
 
 
+
+
+
+<!-- Localization note (home_most_recent_emptyhint2): "Psst" is a sound that might be used to attract someone's attention unobtrusively, and intended to hint at Private Browsing to the user.
+     The placeholders &formatS1; and &formatS2; are used to mark the location of text underlining. -->
 
 <!-- Localization note (home_reading_list_hint): The "TIP" string is synonymous to "hint", "clue", etc. This string is displayed
      as an advisory message on how to add content to the reading list when the reading list empty.
-     The "&#37;I" in the string will be replaced by a small image of the icon described, and can be moved to wherever
-     it is applicable. Please keep the spacing around the "&#37;I" string. -->
+     The placeholder &formatI; will be replaced by a small image of the icon described, and can be moved to wherever
+     it is applicable. -->
 <!-- Localization note (home_reading_list_hint_accessible): This string is used
      as alternate text for accessibility. It is not visible in the UI. -->
+<!-- Localization note (home_default_empty): This string is used as the default text when there
+     is no data to show in an about:home panel that was created by an add-on. -->
+<!-- Localization note (home_move_up_to_filter): The variable is replaced by the name of the
+     previous location in the navigation, such as the previous folder -->
+
+<!ENTITY home_remote_tabs_title "সিঙ্ককৃত ট্যাব">
+
+<!ENTITY home_remote_tabs_unable_to_connect "সংযোগ করতে ব্যর্থ">
 
 
-<!ENTITY filepicker_title "ফাইল বেছে নিন">
+
+
+
+<!-- Localization note (home_remote_tabs_many_hidden_devices) : The
+     formatD is replaced with the number of hidden devices.  The
+     number of hidden devices is always more than one.  We can't use
+     Android plural forms, sadly. See Bug #753859. -->
+<!-- Localization note (home_remote_tabs_hidden_devices_title) : This is the
+     title of a dialog; we expect more than one device. -->
+<!-- Localization note (home_remote_tabs_unhide_selected_devices) : This is
+     the text of a button; we expect more than one device. -->
+
+<!ENTITY private_browsing_title "একান্ত ব্রাউজিং">
+
+
+
+
+
+
+
 <!ENTITY filepicker_audio_title "বেছে নিন বা একটি শব্দ রেকর্ড করুন">
 <!ENTITY filepicker_image_title "বেছে নিন বা একটি ছবি তুলুন">
 <!ENTITY filepicker_video_title "বেছে নিন বা একটি ভিডিও রেকর্ড করুন">
@@ -294,10 +460,16 @@ substitution variables.  If it is difficult to translate the sense of the string
 with that structure, consider a translation which ignores the preceding domain and
 just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_run_by "উপরোক্ত সাইটটির পরিচালক">
+
+
 <!-- Mixed content notifications in site identity popup -->
 
 
+<!-- Tracking content notifications in site identity popup -->
 
+
+
+<!-- Common mixed and tracking content strings in site identity popup -->
 
 
 
@@ -313,8 +485,14 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY bookmarkhistory_import_history "এন্ড্রয়েড থেকে ইতিহাস
 ইম্পোর্ট করুন">
 <!ENTITY bookmarkhistory_import_wait "অনুগ্রহ করে অপেক্ষা করুন">
-<!-- Localization note (suggestions_prompt2): The placeholder &formatS; will be
-     replaced with the name of the search engine. -->
+
+<!ENTITY suggestions_prompt3 "আপনি কি পরামর্শ অনুসন্ধান আরম্ভ করতে চান?">
+<!--  Localization note (search_bar_item_desc): When the user clicks the url bar
+      and starts typing, a list of icons of search engines appears at the bottom
+      of the screen. When a user clicks an icon, the entered text will be searched
+      via the search engine that uses the icon they clicked. This text is used
+      for screen reader users when they hover each icon - &formatS; will be
+      replaced with the name of the currently highlighted icon. -->
 <!-- Localization note (suggestion_for_engine): The placeholder &formatS1; will be
      replaced with the name of the search engine. The placeholder &formatS2; will be
      replaced with the search query. -->
@@ -322,10 +500,9 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY webapp_generic_name "অ্যাপ">
 
 <!ENTITY searchable_description "বুকমার্ক এবং ইতিহাস">
-
 <!-- Updater notifications --> 
 
-<!ENTITY updater_start_title2 "brandShortName এর জন্য হালনাগাদ বিদ্যমান;">
+<!ENTITY updater_start_title2 "&brandShortName; এর জন্য হালনাগাদ বিদ্যমান">
 <!ENTITY updater_start_select2 "ডাউনলোডের জন্য স্পর্শ করুন">
 
 <!ENTITY updater_downloading_title2 "&brandShortName; ডাউনলোড করা হচ্ছে">
@@ -333,7 +510,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY updater_downloading_select2 "একবার ডাউনলোড হওয়ার পর হালনাগাদ প্রয়োগের জন্য স্পর্শ করুন">
 <!ENTITY updater_downloading_retry2 "পুনরার চেষ্টা করার জন্য স্পর্শ করুন">
 
-<!ENTITY updater_apply_title2 "brandShortName এর জন্য হালনাগাদ বিদ্যমান;">
+<!ENTITY updater_apply_title2 "&brandShortName; এর জন্য হালনাগাদ বিদ্যমান">
 <!ENTITY updater_apply_select2 "হালনাগাদের জন্য স্পর্শ করুন">
 <!-- Guest mode -->
 
@@ -343,6 +520,34 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 
 
-<!-- These are only used for accessiblity for the done and overflow-menu buttons in the actionbar.
+
+
+<!-- Miscellaneous -->
+<!-- LOCALIZATION NOTE (ellipsis): This text is appended to a piece of text that does not fit in the
+     designated space. Use the unicode ellipsis char, \u2026, or use "..." if \u2026 doesn't suit
+     traditions in your locale. -->
+
+<!-- LOCALIZATION NOTE (percent): The percent sign is appended after a number to
+     display a percentage value. formatS is the number, #37 is the code to display a percent sign.
+     This format string is typically used by getString method, in such method the percent sign
+     is a reserved caracter. In order to display one percent sign in the result of getString,
+     double percent signs must be inserted in the format string.
+     This entity is used in the zoomed view to display the zoom factor-->
+<!-- These are only used for accessibility for the done and overflow-menu buttons in the actionbar.
      They are never shown to users -->
 <!ENTITY actionbar_done "সম্পন্ন">
+<!-- Voice search in the awesome bar -->
+
+
+
+
+<!-- Localization note (remote_tabs_last_synced): the variable is replaced by a
+     "relative time span string" produced by Android.  This string describes the
+     time the tabs were last synced relative to the current time; examples
+     include "42 minutes ago", "4 days ago", "last week", etc. The subject of
+     "Last synced" is one of the user's other Sync clients, typically Firefox on
+     their desktop or laptop.-->
+<!-- Localization note: Used when the sync has not happend yet, showed in place of a date -->
+<!-- Find-In-Page strings -->
+<!-- LOCALIZATION NOTE (find_matchcase): This is meant to appear as an icon that changes color
+     if match-case is activated. i.e. No more than two letters, one uppercase, one lowercase. -->
