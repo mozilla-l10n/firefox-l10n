@@ -4,7 +4,6 @@
 
 <!ENTITY itemGeneral.label       "Orokorra">
 <!ENTITY dataChoicesTab.label    "Datu aukerak">
-<!ENTITY itemDisplay.label       "Irakurtzea eta bistaratzea">
 <!ENTITY itemUpdate.label        "Eguneraketak">
 <!ENTITY itemNetworking.label    "Sarea eta diskoko lekua">
 <!ENTITY itemCertificates.label  "Ziurtagiriak">
@@ -51,32 +50,6 @@
 <!ENTITY enableCrashReporter.label       "Gaitu hutsegiteen berriemailea">
 <!ENTITY enableCrashReporter.accesskey   "h">
 <!ENTITY crashReporterLearnMore.label    "Ikasi gehiago">
-<!-- Display and Reading Settings -->
-
-<!ENTITY reading.caption               "Irakurketa">
-<!ENTITY display.caption               "Bistaratzea">
-<!ENTITY showCondensedAddresses.label  "Erakutsi nire helbide-liburuko pertsonen bistarazte-izena bakarrik">
-<!ENTITY showCondensedAddresses.accesskey "p">
-
-<!ENTITY autoMarkAsRead.label          "Markatu automatikoki mezuak irakurrita gisa">
-<!ENTITY autoMarkAsRead.accesskey      "a">
-<!ENTITY markAsReadNoDelay.label       "Bistaratu bezain laster">
-<!ENTITY markAsReadNoDelay.accesskey   "B">
-<!-- LOCALIZATION NOTE (markAsReadDelay.label): This will concatenate to
-     "After displaying for [___] seconds",
-     using (markAsReadDelay.label) and a number (secondsLabel.label). -->
-<!ENTITY markAsReadDelay.label         "Denbora batez bistaratu eta gero:">
-<!ENTITY markAsReadDelay.accesskey     "e">
-<!ENTITY secondsLabel.label            "segundoz">
-<!ENTITY openMsgIn.label               "Ireki mezuak:">
-<!ENTITY openMsgInNewTab.label         "Fitxa berrian">
-<!ENTITY openMsgInNewTab.accesskey     "t">
-<!ENTITY reuseExpRadio0.label          "Mezu-leiho berrian">
-<!ENTITY reuseExpRadio0.accesskey      "h">
-<!ENTITY reuseExpRadio1.label          "Dagoen mezu-leihoan">
-<!ENTITY reuseExpRadio1.accesskey      "D">
-<!ENTITY closeMsgOnMoveOrDelete.label  "Itxi mezu-leihoa/fitxa lekuz aldatzean edo ezabatzean">
-<!ENTITY closeMsgOnMoveOrDelete.accesskey "I">
 <!-- Update -->
 
 <!ENTITY updateApp.label                 "&brandShortName;(r)en eguneraketak:">
