@@ -8,7 +8,7 @@
 
 <!-- Menu items:  the . means that the menu item isn't implemented yet -->
 <!-- Toolbar-only items -->
-
+<!ENTITY previewToolbarCmd.label "Pārlūkot">
 
 <!-- File menu items -->
 
