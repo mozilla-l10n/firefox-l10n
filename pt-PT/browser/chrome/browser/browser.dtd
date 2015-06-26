@@ -22,7 +22,7 @@
 <!ENTITY  reloadTab.label                    "Recarregar separador">
 <!ENTITY  reloadTab.accesskey                "R">
 <!ENTITY  reloadAllTabs.label                "Recarregar todos os separadores">
-<!ENTITY  reloadAllTabs.accesskey            "t">
+<!ENTITY  reloadAllTabs.accesskey            "a">
 <!-- LOCALIZATION NOTE (closeTabsToTheEnd.label): This should indicate the
 direction in which tabs are closed, i.e. locales that use RTL mode should say
 left instead of right. -->
@@ -86,8 +86,8 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY toolbarContextMenu.reloadAllTabs.accesskey "a">
 <!ENTITY toolbarContextMenu.bookmarkAllTabs.label "Criar marcadores para todos os separadores…">
 <!ENTITY toolbarContextMenu.bookmarkAllTabs.accesskey "t">
-<!ENTITY toolbarContextMenu.undoCloseTab.label "Anular fechar separador">
-<!ENTITY toolbarContextMenu.undoCloseTab.accesskey "u">
+<!ENTITY toolbarContextMenu.undoCloseTab.label "Desfazer Fechar separador">
+<!ENTITY toolbarContextMenu.undoCloseTab.accesskey "D">
 
 <!ENTITY pageSourceCmd.label "Código-fonte da página">
 <!ENTITY pageSourceCmd.accesskey "o">
@@ -461,7 +461,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showOnlyThisFrameCmd.accesskey "a">
 <!ENTITY reloadCmd.commandkey         "r">
 <!ENTITY reloadFrameCmd.label         "Recarregar moldura">
-<!ENTITY reloadFrameCmd.accesskey     "c">
+<!ENTITY reloadFrameCmd.accesskey     "R">
 <!ENTITY viewPartialSourceForSelectionCmd.label "Ver código fonte da seleção">
 <!ENTITY viewPartialSourceForMathMLCmd.label    "Ver código fonte MathML">
 <!-- LOCALIZATION NOTE (viewPartialSourceCmd.accesskey): This accesskey is used for both 
@@ -546,7 +546,7 @@ items are mutually exclusive. -->
 
 <!ENTITY mediaPlay.label             "Reproduzir">
 <!ENTITY mediaPlay.accesskey         "p">
-<!ENTITY mediaPause.label            "Pausar">
+<!ENTITY mediaPause.label            "Pausa">
 <!ENTITY mediaPause.accesskey        "P">
 <!-- LOCALIZATION NOTE: The access keys for "Mute" and
 "Unmute" are the same because the two context-menu

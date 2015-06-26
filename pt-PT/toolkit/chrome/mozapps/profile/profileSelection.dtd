@@ -14,11 +14,11 @@
 
 <!ENTITY            availprofiles.label    "Perfis disponíveis">
 
-<!ENTITY            newButton.label        "Criar um perfil...">
+<!ENTITY            newButton.label        "Criar um perfil…">
 <!ENTITY            newButton.accesskey    "C">
-<!ENTITY            renameButton.label     "Mudar nome do perfil...">
+<!ENTITY            renameButton.label     "Mudar nome do perfil…">
 <!ENTITY            renameButton.accesskey "M">
-<!ENTITY            deleteButton.label     "Eliminar perfil...">
+<!ENTITY            deleteButton.label     "Eliminar perfil…">
 <!ENTITY            deleteButton.accesskey "E">
 <!-- manager entities -->
 

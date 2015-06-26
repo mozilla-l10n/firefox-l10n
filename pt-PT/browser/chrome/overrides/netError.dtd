@@ -146,9 +146,9 @@ proxy, certifique-se de que o &brandShortName; tem permissão para aceder à Web
 <!ENTITY corruptedContentError.longDesc "<p>A página que está a tentar visualizar não pode ser exibida porque foi detetado um erro na transmissão de dados.</p><ul><li>Por favor reporte o problema aos detentores do sítio.</li></ul>">
 
 
-<!ENTITY securityOverride.linkText "Ou pode adicionar uma exceção...">
+<!ENTITY securityOverride.linkText "Ou pode adicionar uma exceção…">
 <!ENTITY securityOverride.getMeOutOfHereButton "Sair daqui!">
-<!ENTITY securityOverride.exceptionButtonLabel "Adicionar exceção...">
+<!ENTITY securityOverride.exceptionButtonLabel "Adicionar exceção…">
 <!-- LOCALIZATION NOTE (securityOverride.warningContent) - Do not translate the
 contents of the <button> tags. It uses strings already defined above. The
 button is included here (instead of netError.xhtml) because it exposes
@@ -163,7 +163,7 @@ functionality specific to firefox. -->
 <!ENTITY errorReporting.title "Reportar este erro">
 <!ENTITY errorReporting.longDesc "Ao reportar o endereço e a informação do certificado para <span id='hostname'></span> ajuda-nos a identificar e bloquear sítios maliciosos. Obrigado por ajudar a criar uma web mais segura!">
 <!ENTITY errorReporting.automatic "No futuro reportar erros automaticamente">
-<!ENTITY errorReporting.learnMore "Saber mais...">
+<!ENTITY errorReporting.learnMore "Saber mais…">
 <!ENTITY errorReporting.sending "A enviar relatório">
 <!ENTITY errorReporting.sent "Relatório enviado">
 <!ENTITY errorReporting.report "Reportar">

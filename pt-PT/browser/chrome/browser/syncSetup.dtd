@@ -17,7 +17,7 @@
 
 <!ENTITY server.label               "Servidor">
 <!ENTITY serverType.default.label      "Predefinição: Servidor do Mozilla &syncBrand.fullName.label;">
-<!ENTITY serverType.custom2.label   "Usar um servidor personalizado…">
+<!ENTITY serverType.custom2.label   "Utilizar um servidor personalizado…">
 <!ENTITY signIn.account2.label      "Conta">
 <!ENTITY signIn.account2.accesskey  "a">
 <!ENTITY signIn.password.label      "Palavra-passe">
@@ -64,7 +64,7 @@
 <!ENTITY pairDevice.setup.description.label  "Para ativar, selecione &quot;Emparelhar um dispositivo&quot; no seu outro dispositivo.">
 <!ENTITY addDevice.setup.enterCode.label    "Depois, introduza este código:">
 <!ENTITY pairDevice.dialog.description.label "Para ativar o seu novo dispositivo, selecione &quot;Configurar Sync&quot; no dispositivo.">
-<!ENTITY addDevice.dialog.enterCode.label   "Introduza o código dado pelo dispositivo:">
+<!ENTITY addDevice.dialog.enterCode.label   "Digite o código fornecido pelo dispositivo:">
 <!ENTITY addDevice.dialog.tryAgain.label    "Por favor tente novamente.">
 <!ENTITY addDevice.dialog.successful.label  "O dispositivo foi adicionado com sucesso. A sincronização inicial pode demorar alguns minutos e irá terminar em segundo plano.">
 <!ENTITY addDevice.dialog.recoveryKey.label     "Para ativar o seu dispositivo tem de introduzir a sua chave de recuperação. Por favor, imprima ou guarde esta chave e leve-a consigo.">
@@ -111,4 +111,4 @@
 
 <!ENTITY setup.successPage.title "Configuração terminada">
 <!ENTITY changeOptions.label "Pode alterar esta preferência selecionando opções do Sync em baixo.">
-<!ENTITY continueUsing.label "Pode agora continuar a usar o &brandShortName;.">
+<!ENTITY continueUsing.label "Pode agora continuar a utilizar o &brandShortName;.">

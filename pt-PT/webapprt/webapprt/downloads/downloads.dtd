@@ -13,7 +13,7 @@ file names and tall enough to hint that there are more downloads in the list -->
 
 <!ENTITY downloads.title                  "Descargas">
 
-<!ENTITY cmd.pause.label                  "Pausar">
+<!ENTITY cmd.pause.label                  "Pausa">
 <!ENTITY cmd.pause.accesskey              "P">
 <!ENTITY cmd.resume.label                 "Retomar">
 <!ENTITY cmd.resume.accesskey             "R">
@@ -29,7 +29,7 @@ file names and tall enough to hint that there are more downloads in the list -->
 <!ENTITY cmd.openWith.accesskey           "c">
 <!ENTITY cmd.retry.label                  "Voltar a tentar">
 <!ENTITY cmd.retry.accesskey              "r">
-<!ENTITY cmd.goToDownloadPage.label       "Ir para a página de descargas">
+<!ENTITY cmd.goToDownloadPage.label       "Ir para a página da descarga">
 <!ENTITY cmd.goToDownloadPage.accesskey   "g">
 <!ENTITY cmd.copyDownloadLink.label       "Copiar ligação da descarga">
 <!ENTITY cmd.copyDownloadLink.accesskey   "l">
@@ -40,13 +40,13 @@ file names and tall enough to hint that there are more downloads in the list -->
 <!ENTITY cmd.close2.commandKey            "j">
 <!ENTITY cmd.close2Unix.commandKey        "y">
 <!ENTITY cmd.clearList.label              "Limpar lista">
-<!ENTITY cmd.clearList.tooltip            "Remove as descargas terminadas, canceladas e falhadas da lista">
+<!ENTITY cmd.clearList.tooltip            "Remove as descargas concluídas, canceladas e falhadas da lista">
 <!ENTITY cmd.clearList.accesskey          "L">
 <!ENTITY cmd.find.commandKey              "f">
 <!ENTITY cmd.search.commandKey            "k">
 
-<!ENTITY closeWhenDone.label              "Fechar ao terminar a descarga">
-<!ENTITY closeWhenDone.tooltip            "Fechar janela de descargas quando terminar de descarregar todos os ficheiros">
+<!ENTITY closeWhenDone.label              "Fechar ao terminar as descargas">
+<!ENTITY closeWhenDone.tooltip            "Fechar janela de descargas quando todos os ficheiros forem descarregados">
 
 <!ENTITY showFolder.label                 "Mostrar esta pasta">
 <!ENTITY searchBox.label                  "Pesquisa…">

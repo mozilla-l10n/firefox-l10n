@@ -145,7 +145,7 @@
 <!ENTITY runtimedetails_title "Informação de Runtime">
 <!ENTITY runtimedetails_adbIsRoot "ADB é root: ">
 <!ENTITY runtimedetails_summonADBRoot "root do dispositivo">
-<!ENTITY runtimedetails_ADBRootWarning "(necessita de bootloader desbloqueado)">
+<!ENTITY runtimedetails_ADBRootWarning "(requer um bootloader desbloqueado)">
 <!ENTITY runtimedetails_unrestrictedPrivileges "Previlégios não restritos DevTools: ">
 <!ENTITY runtimedetails_requestPrivileges "pedir elevação de previlégios">
 <!ENTITY runtimedetails_privilegesWarning "(Irá reiniciar o dispositivo. Necessita de acesso root.)">
@@ -188,7 +188,7 @@
 <!ENTITY wifi_auth_no_scanner "Nenhum digitalizador de QR pronto?">
 <!-- LOCALIZATION NOTE (wifi_auth_yes_scanner): Link text to assist users with
      devices that can scan a QR code. -->
-<!ENTITY wifi_auth_yes_scanner "Tem um digitalizador de pronto?">
+<!ENTITY wifi_auth_yes_scanner "Tem um digitalizador QR?">
 <!-- LOCALIZATION NOTE (wifi_auth_token_request): Instructions requesting the
      user to transfer authentication info by transferring a token. -->
 <!ENTITY wifi_auth_token_request "Se o seu outro dispositivo pede por um token em vez de um código QR, copie o valor abaixo para o seu outro dispositivo:">

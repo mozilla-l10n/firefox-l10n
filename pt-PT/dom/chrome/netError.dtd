@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY loadError.label "Erro no carregamento da página">
+<!ENTITY loadError.label "Erro ao carregar a página">
 <!ENTITY retry.label "Voltar a tentar">
 <!-- Specific error messages -->
 
@@ -32,7 +32,7 @@
 <!ENTITY notCached.longDesc "<p>O documento pedido não está disponível na cache do navegador.</p><ul><li>Como precaução de segurança, o navegador não pede de novo de forma automática documentos sensíveis.</li><li>Clique voltar a tentar para voltar a pedir o documento do sítio web.</li></ul>">
 
 <!ENTITY netOffline.title "Modo offline">
-<!ENTITY netOffline.longDesc2 "<p>O navegador está no modo offline e não se pode ligar ao item solicitado.</p><ul><li>O computador tem uma rede ativa?</li><li>Coloque o navegador no modo online e tente novamente.</li></ul>">
+<!ENTITY netOffline.longDesc2 "<p>O navegador está no modo offline e não consegue estabelecer ligação ao objeto solicitado.</p><ul><li>O computador tem uma rede ativa?</li><li>Coloque o navegador no modo online e tente novamente.</li></ul>">
 
 <!ENTITY contentEncodingError.title "Erro de Codificação de Conteúdo">
 <!ENTITY contentEncodingError.longDesc "<p>A página que está a tentar ver não pode ser mostrado porque utiliza uma forma de compressão inválida ou não suportada.</p><ul><li>Por favor contacte os donos do sítio web para os informar deste problemas.</li></ul>">
@@ -73,7 +73,7 @@
 </ul>">
 
 <!ENTITY malwareBlocked.title "Suspeita de sítio maligno!">
-<!ENTITY malwareBlocked.longDesc "<p>Sítios de ataque tentam instalar programas que roubam a sua informação pessoal, usam o seu computador para atacar outros ou causam danos ao seus sistema.</p> 
+<!ENTITY malwareBlocked.longDesc "<p>Os sítios de ataque tentam instalar programas que roubam a sua informação pessoal, usam o seu computador para atacar outros ou causam danos ao seus sistema.</p> 
 <p>Os donos de sítios web que acreditam que os seus sítios foram reportados erroneamente como um sítio de ataque pode <a href='http://www.stopbadware.org/home/reviewinfo' >pedir uma revisão da situação</a>.</p>">
 
 <!ENTITY unwantedBlocked.title "Sítio suspeito de software não solicitado!">

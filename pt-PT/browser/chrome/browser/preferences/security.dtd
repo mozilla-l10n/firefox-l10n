@@ -31,10 +31,10 @@
 <!ENTITY  passwordExceptions.label      "Exceções…">
 <!ENTITY  passwordExceptions.accesskey  "x">
 
-<!ENTITY  useMasterPassword.label        "Usar uma palavra-passe mestra">
+<!ENTITY  useMasterPassword.label        "Utilizar uma palavra-passe mestra">
 <!ENTITY  useMasterPassword.accesskey    "U">
 <!ENTITY  changeMasterPassword.label     "Alterar palavra-passe mestra…">
 <!ENTITY  changeMasterPassword.accesskey "m">
 
-<!ENTITY  savedPasswords.label            "Palavras-passe guardadas">
+<!ENTITY  savedPasswords.label            "Palavras-passe guardadas…">
 <!ENTITY  savedPasswords.accesskey        "P">

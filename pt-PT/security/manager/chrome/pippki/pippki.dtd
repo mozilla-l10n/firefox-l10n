@@ -47,8 +47,8 @@
 <!-- Strings for the CreateCertInfo dialog  -->
 
 <!ENTITY createCertInfo.title "A gerar uma chave privada">
-<!ENTITY createCertInfo.msg1 "Geração da chave em curso... Isto pode demorar alguns minutos...">
-<!ENTITY createCertInfo.msg2 "Por favor aguarde...">
+<!ENTITY createCertInfo.msg1 "A gerar chave… Pode demorar alguns minutos….">
+<!ENTITY createCertInfo.msg2 "Por favor aguarde…">
 <!-- Strings for protectedAuth dialog -->
 
 <!ENTITY protectedAuth.title "Autenticação por token protegido">
