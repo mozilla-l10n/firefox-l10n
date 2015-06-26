@@ -11,7 +11,7 @@
 
 <!ENTITY sync.syncNow               "Landanisha Sasa">
 
-<!ENTITY sync.setup.pair            "Kuamilisha, chagua &#x0022;Oanisha Kifaa&#x0022; kwenye kifaa chako kingine.">
+
 
 
 
@@ -24,6 +24,7 @@
 
 
 
-<!ENTITY sync.pair.description      "Kuamilisha kifaa chako, chagua &#x0022; Sanidi Ulandanishi&#x0022; kwenye kifaa.">
+<!ENTITY sync.pair.title            "Oanisha Kifaa">
+
 <!ENTITY sync.setup.close           "Funga">
 

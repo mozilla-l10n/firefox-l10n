@@ -3,6 +3,5 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 
-<!ENTITY aboutApps.browseMarketplace "Browse the Firefox Marketplace">
 
-<!ENTITY aboutApps.checkForUpdates "Check for Updates">
+<!ENTITY aboutApps.checkForUpdates "Kagua kwa Visasaisho">

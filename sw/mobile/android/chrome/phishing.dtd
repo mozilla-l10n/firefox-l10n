@@ -4,7 +4,7 @@
 
 <!ENTITY safeb.palm.accept.label "Niondoe hapa!">
 <!ENTITY safeb.palm.decline.label "Puuza onyo hili">
-
+<!ENTITY safeb.palm.notforgery.label2 "Huu si ughushi wa wavuti...">
 <!ENTITY safeb.palm.reportPage.label "Kwa nini ukurasa huu umezuiliwa?">
 
 <!ENTITY safeb.blocked.malwarePage.title "Ukurasa umeripotiwa kuwa Shambulizi!">
@@ -13,4 +13,7 @@
 <!ENTITY safeb.blocked.malwarePage.longDesc "<p>Kurasa shambulizi hujaribu kusakinisha programu zinazoiba maelezo ya kibinafsi, kutumia tarakilishi yako kushambulia zingine, au kudhuru mfumo wako.</p><p>Kurasa zingine za ushambulizi husambaza maksudi programu mbaya, lakini nyingi zinaafikiana bila ujuzi au ruhusa ya mmiliki.</p>">
 
 
+
+
+<!-- Localization note (safeb.blocked.unwanted.shortDesc) - Please don't translate the contents of the <span id="unwanted_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
 
