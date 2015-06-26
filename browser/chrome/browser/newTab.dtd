@@ -6,7 +6,10 @@
 <!ENTITY newtab.pageTitle "Pestanya nova">
 
 
-
+<!--
+  LOCALIZATION NOTE(newtab.customize.cog.title): This string is for the new
+  tab cog menu title. It will be transformed to uppercase.
+-->
 
 <!ENTITY newtab.customize.title "Personalitzeu la pàgina de pestanya nova">
 <!ENTITY newtab.customize.suggested "Mostra els llocs recomanats i destacats">
