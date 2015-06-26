@@ -68,14 +68,14 @@
      one line, try to make the localized text short (see bug 596813 for screenshots). -->
 
 <!ENTITY update.failed.start        "Falha ao atualizar. ">
-<!ENTITY update.failed.linkText     "Transfira a última versão">
+<!ENTITY update.failed.linkText     "Descarregue a última versão">
 <!ENTITY update.failed.end          "">
 <!-- LOCALIZATION NOTE (update.manual.start,update.manual.end): update.manual.start and update.manual.end
      all go into one line and have an anchor in between with text that is the same as the link to a site
      to download the latest version of Firefox (e.g. http://www.firefox.com). As this is all in one line,
      try to make the localized text short (see bug 596813 for screenshots). -->
 
-<!ENTITY update.manual.start        "Transfira a ">
+<!ENTITY update.manual.start        "Descarregue a ">
 <!ENTITY update.manual.linkText     "última versão">
 <!ENTITY update.manual.end          "">
 <!-- LOCALIZATION NOTE (update.unsupported.start,update.unsupported.linkText,update.unsupported.end):
@@ -94,7 +94,7 @@
      the "em dash" (long dash).
      example: Downloading update — 111 KB of 13 MB -->
 
-<!ENTITY update.downloading.start   "A transferir atualização — ">
+<!ENTITY update.downloading.start   "A descarregar atualização — ">
 <!ENTITY update.downloading.end     "">
 
 <!ENTITY update.applying            "A aplicar atualização…">
