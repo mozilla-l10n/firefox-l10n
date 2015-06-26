@@ -12,12 +12,14 @@
 <!ENTITY intro.message             "অ্যান্ড্রয়েডের জন্য &brandShortName; সম্পর্কে আপনার মন্তব্য দিন।">
 <!ENTITY intro.happyLink           "আমি এটি ভালবাসি">
 <!ENTITY intro.sadLink             "আমি কিছু সমস্যার ভিতর দিয়ে যাচ্ছি">
-
+<!ENTITY intro.maybeLater          "সম্ভবত পরে">
 <!-- LOCALIZATION NOTE (support.pre): Include a trailing space as needed. -->
 <!-- LOCALIZATION NOTE (support.link): Avoid leading/trailing spaces, this text is a link. -->
 <!-- LOCALIZATION NOTE (support.post): Include a starting space as needed. -->
-<!ENTITY support.link              "&brandShortName; সমর্থন">
 
+<!ENTITY support.pre3              "দেখে আসুন">
+<!ENTITY support.link2             "সাপোর্ট সাইট">
+<!ENTITY support.post3             "...সাধারণ সমস্যার সমাধান পেতে।">
 
 <!ENTITY happy.header              "এটা শুনতে দারুণ!">
 <!-- LOCALIZATION NOTE (happy.message): "share the love" — This feels purposely exaggerated in English,
@@ -30,16 +32,17 @@
 <!ENTITY happy.finePrint           "এটি একটি মিনিটেরও কম সময় নেয় এবং দারুন অনুভুত হয়।">
 
 <!ENTITY happy.ratingLink          "হ্যাঁ, গুগল খেলায় যান">
-
+<!ENTITY happy.maybeLater2         "সম্ভবত পরে">
 <!ENTITY happy.noThanks            "ধন্যবাদ প্রয়োজন নেই">
 
+<!ENTITY sad.header                "যাহ!">
 <!ENTITY sad.message               "&brandShortName; এর সাথে আপনার কিছু সমস্যা সৃষ্টি হওয়ায় আমরা দুঃখিত। অনুগ্রহ করে আমাদের বলুন কি ঘটেছে যাতে আমরা তা ঠিক করতে পারি।">
 <!ENTITY sad.placeholder           "আপনার প্রতিক্রিয়া এখানে লিখুন">
-<!ENTITY sad.lastSite              "সর্বশেষ পরিদর্শন সাইট (ঐচ্ছিক)">
+<!ENTITY sad.lastSite2             "সর্বশেষ প্রদর্শিত সাইট অন্তর্ভুক্ত করো">
 <!-- LOCALIZATION NOTE (sad.urlPlaceholder): Placeholder text that appears in "Last visited site" input box when there is no text. -->
 
 <!ENTITY sad.urlPlaceholder        "http://">
-<!ENTITY sad.thanksHeader          "আমাদের জানতে দেয়ার জন্য ধন্যবাদ।">
+<!ENTITY sad.thanksHeader2         "ধন্যবাদ">
 <!-- LOCALIZATION NOTE (sad.thanksMessageTop): "real people" — We're stating that an actual human will look at the feedback
      and that it doesn't just go to some automated system that looks for keywords, or something like that. -->
 
@@ -50,5 +53,5 @@
 
 <!ENTITY sad.thanksMessageBottom   "অন্যথায়।">
 
-<!ENTITY feedback.privacy          "আপনার গোপনীয়তা রক্ষার জন্য, অনুগ্রহ করে আপনার কোনো ফিডব্যাকের মধ্যে ব্যক্তিগতভাবে সনাক্তকরণযোগ্য তথ্য অন্তর্ভুক্ত করবেন না।">
+<!ENTITY feedback.privacy2         "আপনার গোপনীয়তা রক্ষার জন্য, অনুগ্রহ করে আপনার কোনো ফিডব্যাকের মধ্যে ব্যক্তিগতভাবে সনাক্তকরণযোগ্য তথ্য অন্তর্ভুক্ত করবেন না।">
 <!ENTITY feedback.send             "ফিডব্যাক পাঠান">

@@ -6,7 +6,6 @@
 <!ENTITY aboutAddons.header2                    "আপনার অ্যাড-অন">
 <!ENTITY aboutAddons.options                    "অপশন">
 
-
 <!ENTITY addonAction.enable                     "সক্রিয়">
 <!ENTITY addonAction.disable                    "নিষ্ক্রিয়">
 <!ENTITY addonAction.uninstall                  "আনইনস্টল">
