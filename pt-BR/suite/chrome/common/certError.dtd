@@ -30,8 +30,7 @@ exceções a este certificado.">
 
 <!ENTITY certerror.expert.heading "Eu entendo os riscos">
 <!ENTITY certerror.expert.content "Se você entende o que está acontecendo, 
-você pode indicar para o &brandShortName; confiar na identificação deste 
-site. 
+você pode indicar para o &brandShortName; confiar na identificação deste site. 
 <b>Mesmo que você confie no site, este erro pode significar que alguém está 
 hackeando tua conexão.</b>">
 <!ENTITY certerror.expert.contentPara2 "Não adicionar uma exceção exceto que você saiba 
