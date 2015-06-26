@@ -6,7 +6,10 @@
 <!ENTITY newtab.pageTitle "नविन टॅब">
 
 
-
+<!--
+  LOCALIZATION NOTE(newtab.customize.cog.title): This string is for the new
+  tab cog menu title. It will be transformed to uppercase.
+-->
 
 
 

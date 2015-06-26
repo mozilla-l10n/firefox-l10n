@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY aboutPrivateBrowsing.title            "आपण खाजगी ब्राउझिंग करत आहात">
-<!ENTITY aboutPrivateBrowsing.title.normal     "खाजगी पटल उघडावे?">
+<!ENTITY aboutPrivateBrowsing.title.normal     "खाजगी विंडो उघडावी?">
 
 <!ENTITY aboutPrivateBrowsing.subtitle         "&brandShortName; ह्या पटलकरिता कोणतेही इतिहास लक्षात ठेवत नाही.">
 <!ENTITY aboutPrivateBrowsing.subtitle.normal  "&brandShortName; हे खाजगी पटलासाठी कोणताही इतिहास जतन करत नाही.">
