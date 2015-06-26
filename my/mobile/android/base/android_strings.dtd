@@ -41,6 +41,7 @@
 <!ENTITY url_bar_default_text2 "ရှာဖွေ (သို့) လိပ်စာ ထည့်သွင်းပါ">
 
 <!ENTITY bookmark "စာညှပ်">
+
 <!ENTITY bookmark_added "စာညှပ် ထည့်ပြီး">
 <!ENTITY bookmark_removed "စာညှပ်အား ပယ်ဖျက်ပြီး။">
 <!ENTITY bookmark_updated "စာညှပ်အား ပြင်ဆင်သတ်မှတ်ပြီး">
@@ -78,6 +79,7 @@
 <!ENTITY pref_category_advanced "အဆင့်မြင့်">
 <!ENTITY pref_category_customize "ပြုပြင်မည်">
 <!ENTITY pref_category_customize_summary "ပင်မ, ရှာဖွေရေး, တပ်ဗ်များ, သွင်းယူ">
+
 <!-- Localization note (pref_category_language) : This is the preferences
      section in which the user picks the locale in which to display Firefox
      UI. The locale includes both language and region concepts. -->
@@ -109,8 +111,16 @@
 
 <!ENTITY overlay_share_send_tab_btn_label "အခြားဖုန်းသို့ ပို့ပါ">
 <!ENTITY overlay_share_no_url "မျှဝေရာတွင် မည်သင့်လင့်ခ်မျှမပါ">
-
 <!ENTITY overlay_share_select_device "စက် ရွေးပါ">
+<!-- Localization note (overlay_no_synced_devices) : Used when the menu option
+     to send a tab to a synced device is pressed and no other synced devices
+     are found. -->
+<!-- Localization note (overlay_share_tab_not_sent) : Used when the menu option
+     to send a tab to a synced device is pressed and there is an error
+     connecting to the server so the tab could not be sent. The text should be
+     divided into two lines (use the newline escape character, "\n", between
+     them): the first notifying the user about the failure and the second
+     telling the user what to do about it. -->
 
 <!ENTITY pref_category_search_summary "သင်၏ ရှာဖွေမှု ဝန်ဆောင်သူများအား ပြုပြင်မည်">
 <!ENTITY pref_category_display "မြင်ကွင်း">
@@ -133,10 +143,10 @@
      it is applicable. -->
 <!ENTITY pref_search_hint "TIP: မည်သည့် ဝတ်ဆိုဒ်ကို မဆိုသင်၏ ရှာဖွေမှုဝန်ဆောင်သူအဖြစ် သုံးရန် ရှာဖွေဖောင်အား လက်ဖြင့်ကြာကြာဖိကာ &formatI; အိုင်ကွန်ကို နှိပ်ပါ။">
 <!ENTITY pref_category_devtools "ကျွမ်းကျင်သူသုံး ကိရိယာ">
-<!ENTITY pref_category_devtools_summary "အဝေးထိန်း စစ်ဆေးခြင်း ၊ အရောင်ဖြင့်ပြပေးခြင်း">
-<!ENTITY pref_developer_paint_flashing "အရောင်ဖြင့် ပြပေးခြင်း">
 <!ENTITY pref_developer_remotedebugging "အဝေးထိန်း စစ်ဆေးခြင်း">
+
 <!ENTITY pref_remember_signons "စကားဝှက်ကိုမှတ်ထားမည်။">
+
 
 <!ENTITY pref_category_home "ပင်မ">
 <!ENTITY pref_category_home_summary "သင်၏ပင်မမျက်နှာစာကို ပြင်ပါ">
@@ -170,6 +180,20 @@
 <!ENTITY pref_tracking_protection_summary "&brandShortName; သှ် ယခုဆိုဒ်မှ သင့်အားခြေရာခံခြင်းအား ကာကွယ်ပေးထားသှ်">
 <!ENTITY pref_donottrack_title "ခြေရာမခံပါနှင့်">
 <!ENTITY pref_donottrack_summary "&brandShortName; သှ် ဝတ်ဆိုဒ်များအား သင့်ကို ခြေရာမခံရန် ပြောပေးထားမည်ဖြစ်သှ်">
+
+
+
+
+
+
+
+
+<!-- Localization note (tab_queue_notification_text_plural2) : The
+     formatD is replaced with the number of tabs queued.  The
+     number of tabs queued is always more than one.  We can't use
+     Android plural forms, sadly. See Bug #753859. -->
+<!-- Localization note (tab_queue_notification_text_singular2) : This is the
+     text of a notification; we expect only one tab queued. -->
 
 <!ENTITY pref_char_encoding "အက္ခရာ စာဝှက်ရေးသားခြင်း">
 <!ENTITY pref_char_encoding_on "မီနူး စာရင်းပြပါ">
@@ -216,7 +240,8 @@ size. -->
 <!ENTITY pref_import_android "အန်းဒရိုက်မှ သွင်းယူပါ">
 <!ENTITY pref_import_android_summary "စာအမှတ်များနှင့် မှတ်တမ်းအား စံဘယောက်ဆာမှ ဆွဲယူပါ">
 <!ENTITY pref_private_data_history2 "ဘယောက်ဆာမှတ်တမ်း">
-<!ENTITY pref_private_data_formdata " ဖောင် နှင့် ရှာဖွေရေး မှတ်တမ်း">
+
+
 <!ENTITY pref_private_data_cookies2 "ကွတ်ကီးများ နှင့် လတ်တလော​ သုံးဆွဲမှု">
 <!ENTITY pref_private_data_passwords "သိမ်းဆည်းထားတဲ့ စကားဝှက်များ">
 <!ENTITY pref_private_data_cache "Cache">
@@ -278,6 +303,7 @@ size. -->
 
 <!ENTITY addons "ပေါင်းထည့်ဆော့ဝဲများ">
 
+
 <!ENTITY apps "အက်ပ်များ">
 <!ENTITY char_encoding "အက္ခရာ စာဝှက်ရေးသားခြင်း">
 
@@ -327,6 +353,14 @@ size. -->
 <!ENTITY contextmenu_top_sites_pin "ဆိုဒ်အား တွဲပါ">
 <!ENTITY contextmenu_top_sites_unpin "ဆိုဒ်အားတွဲဖြုတ်ပါ">
 <!ENTITY contextmenu_add_search_engine "ရှာဖွေရေး ဝန်ဆောင်မှု ထည့်သွင်းပါ">
+<!-- Localization note (doorhanger_login_no_username): This string is used in the save-login doorhanger
+     where normally a username would be displayed. In this case, no username was found, and this placeholder
+     contains brackets to indicate this is not actually a username, but rather a placeholder -->
+
+<!ENTITY doorhanger_login_edit_username_hint "သုံးစွဲသူ အမည်">
+
+
+
 
 <!ENTITY pref_titlebar_mode "ခေါင်းစီးဘား">
 <!ENTITY pref_titlebar_mode_title "စာမျက်နှာခေါင်းစီးပြပါ">
@@ -336,6 +370,8 @@ size. -->
 
 <!ENTITY pref_scroll_title_bar2 "စကရင်အပြည့် သုံးခြင်း">
 <!ENTITY pref_scroll_title_bar_summary "&brandShortName; ခေါင်းစီးဘားအား စာမျက်နှာ ကြည့်နေစဉ် ဖျောက်ထားမည်">
+
+
 <!-- Localization note (page_removed): This string appears in a toast message when
      any page is removed frome about:home. This includes pages that are in history,
      bookmarks, or reading list. -->
@@ -372,7 +408,7 @@ size. -->
 
 <!ENTITY masterpassword_create_title "ပင်မ စကားဝှက်ကို ပြောင်းလဲပါ">
 <!ENTITY masterpassword_remove_title "ပင်ရင်း စကားဝှက်ကို ဖယ်ရှားပါ">
-<!ENTITY masterpassword_password "စကားဝှက်">
+
 <!ENTITY masterpassword_confirm "ပတ်စ်ဝတ်အားအတည်ပြုပါ">
 
 <!ENTITY button_ok "OK">
@@ -380,6 +416,8 @@ size. -->
 <!ENTITY button_yes "ကောင်းပြီ">
 <!ENTITY button_no "မလုပ်ဘူး">
 <!ENTITY button_clear_data "အချက်အလက်အားရှင်းပါ">
+
+
 
 
 
@@ -504,6 +542,13 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY bookmarkhistory_import_wait "စောင့်နေပါ...">
 
 <!ENTITY suggestions_prompt3 "ရှာဖွေရေး အကြံပေးချက်များအား ဖွင့်ထားမည်လား?">
+<!--  Localization note (search_bar_item_desc): When the user clicks the url bar
+      and starts typing, a list of icons of search engines appears at the bottom
+      of the screen. When a user clicks an icon, the entered text will be searched
+      via the search engine that uses the icon they clicked. This text is used
+      for screen reader users when they hover each icon - &formatS; will be
+      replaced with the name of the currently highlighted icon. -->
+<!ENTITY search_bar_item_desc "&formatS; ဖြင့်ရှာပါ">
 <!-- Localization note (suggestion_for_engine): The placeholder &formatS1; will be
      replaced with the name of the search engine. The placeholder &formatS2; will be
      replaced with the search query. -->
@@ -541,6 +586,12 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      designated space. Use the unicode ellipsis char, \u2026, or use "..." if \u2026 doesn't suit
      traditions in your locale. -->
 
+<!-- LOCALIZATION NOTE (percent): The percent sign is appended after a number to
+     display a percentage value. formatS is the number, #37 is the code to display a percent sign.
+     This format string is typically used by getString method, in such method the percent sign
+     is a reserved caracter. In order to display one percent sign in the result of getString,
+     double percent signs must be inserted in the format string.
+     This entity is used in the zoomed view to display the zoom factor-->
 <!-- These are only used for accessibility for the done and overflow-menu buttons in the actionbar.
      They are never shown to users -->
 <!ENTITY actionbar_done "ပြီးသွားပြီ">
