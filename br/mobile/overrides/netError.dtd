@@ -117,7 +117,8 @@ toupinoù.</li>
 
 <!ENTITY unknownSocketType.title "Respont dic'hortoz a-berzh an dafariad">
 <!ENTITY unknownSocketType.longDesc "<ul> 
-<li>Bezit sur eo bet staliet an ardoer diogelroez personel (Personal Security Manage).</li> 
+<li>Bezit sur eo bet staliet an ardoer diogelroez personel 
+(Personal Security Manage).</li> 
 <li>Marteze e c'hoarvez an dra-se abalamour d'ur c'hefluniadur anskoueriek war an dafariad.</li> 
 </ul>">
 
@@ -131,7 +132,8 @@ toupinoù.</li>
 <!ENTITY nssBadCert.longDesc2 "<ul> 
 <li>Marteze e vefe ur gudenn gant kefluniadur an dafariad, pe unan bennak o klask 
 dreveziñ an dafariad.</li> 
-<li>Mard oc'h bet kennasket ouzh an dafariad gant berzh a-raok ez eus ur fazi padennek moarvat, klaskit diwezhatoc'h.</li> 
+<li>Mard oc'h bet kennasket ouzh an dafariad gant berzh a-raok ez eus ur fazi 
+padennek moarvat, klaskit diwezhatoc'h.</li> 
 </ul>">
 <!-- LOCALIZATION NOTE (sharedLongDesc3) This string contains markup including widgets for enabling wifi connections.
      The text inside the tags should be localized. Do not touch the ids. -->
