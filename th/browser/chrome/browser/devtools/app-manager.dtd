@@ -34,7 +34,7 @@
 
 
 
-<!ENTITY device.browserTabs "แท็บเบราเซอร์">
+<!ENTITY device.browserTabs "แท็บเบราว์เซอร์">
 
 <!ENTITY device.debugBrowserTab "ดีบั๊ก">
 <!ENTITY device.debugBrowserTabTooltip "เปิดแถบเครื่องมือนักพัฒนาที่เชื่อมต่อกับแอปนี้บนอุปกรณ์">

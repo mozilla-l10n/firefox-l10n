@@ -11,7 +11,7 @@
   -  should be displayed or not. -->
 
 
-<!ENTITY browserStylesLabel    "เบราเซอร์สไตล์">
+<!ENTITY browserStylesLabel    "สไตล์เบราว์เซอร์">
 <!-- LOCALIZATION NOTE (filterStylesPlaceholder): This is the placeholder that goes in
   -  the search box when no search term has been entered. -->
 <!-- LOCALIZATION NOTE (selectedElementLabel): This is the label for the path of

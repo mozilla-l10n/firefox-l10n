@@ -6,6 +6,10 @@
 <!ENTITY newtab.pageTitle "แท็บใหม่">
 <!ENTITY newtab.customize.classic "แสดงเว็บเด่นของคุณ">
 <!ENTITY newtab.customize.cog.enhanced "รวมเว็บแนะนำด้วย">
+<!--
+  LOCALIZATION NOTE(newtab.customize.cog.title): This string is for the new
+  tab cog menu title. It will be transformed to uppercase.
+-->
 <!ENTITY newtab.customize.cog.title "ตัวควบคุมแท็บใหม่">
 <!ENTITY newtab.customize.cog.learn "เรียนรู้เกี่ยวกับหน้าแท็บใหม่">
 <!ENTITY newtab.customize.title "ปรับแต่งหน้าแท็บใหม่ของคุณ">
