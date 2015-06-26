@@ -17,7 +17,7 @@
 <!ENTITY pref.categories.removeButton.accesskey "R">
 <!ENTITY pref.categories.name.label "Nome">
 <!ENTITY pref.categories.color.label "Cor">
-<!ENTITY pref.categories.usecolor.label "Usar Cor">
+<!ENTITY pref.categories.usecolor.label "Usar cor">
 <!ENTITY pref.categories.none.label "(nenhum)">
 <!ENTITY pref.categories.overwrite "Já existe uma categoria com este nome. \n Deseja substituir?">
 <!ENTITY pref.categories.overwrite.title "Atenção: nome duplicado">
