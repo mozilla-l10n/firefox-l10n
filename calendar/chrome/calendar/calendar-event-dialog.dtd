@@ -8,7 +8,7 @@
 <!ENTITY event.dialog.keepDurationButton.accesskey "M">
 
 <!ENTITY newevent.from.label                "De" >
-<!ENTITY newevent.to.label                  "A" >
+<!ENTITY newevent.to.label                  "Para" >
 
 <!ENTITY newevent.status.label                    "Posição" >
 <!ENTITY newevent.status.accesskey                "P" >
