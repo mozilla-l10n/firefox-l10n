@@ -837,7 +837,7 @@
      systems.  We use the key defined in the quickSearchCmd.key entity defined
      above, the letter should match it.
      -->
-<!ENTITY search.keyLabel.mac "&lt;⌘K&gt;">
+<!ENTITY search.keyLabel.mac "&lt;&#x2318;K&gt;">
 <!-- Message Header Context Menu -->
 
 <!ENTITY AddToAddressBook.label "Adicionar ao catálogo de endereços…">

@@ -21,8 +21,10 @@
 <li>Verifique se há erro de digitação no endereço. Como 
 <strong>ww</strong>.example.com em vez de 
 <strong>www</strong>.example.com</li> 
-<li>Se você não consegue abrir nenhuma página, verifique a conexão de rede do seu computador.</li> 
-<li>Se o seu computador ou rede forem protegidos por um firewall ou proxy, certifique-se de que o &brandShortName; esteja autorizado a acessar a web.</li> 
+<li>Se você não consegue abrir nenhuma página, verifique a conexão de rede 
+do seu computador.</li> 
+<li>Se o seu computador ou rede forem protegidos por um firewall ou proxy, certifique-se 
+que o &brandShortName; esteja autorizado a acessar a web.</li> 
 </ul>">
 
 <!ENTITY fileNotFound.title "Arquivo não encontrado">
@@ -36,19 +38,17 @@
 
 <!ENTITY malformedURI.title "Endereço inválido">
 <!ENTITY malformedURI.longDesc "<ul> 
-<li>Endereços web são geralmente escritos na forma <strong>http://www.example.com/</strong></li> 
-<li>Certifique-se de que não esteja usando barras invertidas (ou seja, de que esteja usando <strong>/</strong>).</li> 
+<li>Normalmente, os endereços web são escritos como 
+<strong>http://www.exemplo.com/</strong></li> 
+<li>Verifique se está a utilizar as barras corretamente (exemplo 
+<strong>/</strong>).</li> 
 </ul>">
 
 <!ENTITY netInterrupt.title "Conexão interrompida">
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
 <!ENTITY notCached.title "Documento fora de validade">
-<!ENTITY notCached.longDesc "<p>O documento solicitado não está mais no cache de navegação.</p> 
-<ul> 
-<li>Como precaução de segurança, o &brandShortName; não solicita automaticamente documentos contendo informações confidenciais.</li> 
-<li>Clique em “Tentar de novo” para solicitar mais uma vez o documento do site.</li> 
-</ul>">
+<!ENTITY notCached.longDesc "<p>O documento solicitado não está mais no cache de navegação.</p><ul><li>Como precaução de segurança, o &brandShortName; não solicita automaticamente documentos contendo informações confidenciais.</li><li>Clique em “Tentar de novo” para solicitar mais uma vez o documento do site.</li></ul>">
 
 <!ENTITY netOffline.title "Modo off-line">
 <!ENTITY netOffline.longDesc2 "<ul> 
@@ -79,24 +79,28 @@
 <!ENTITY proxyConnectFailure.title "Conexão recusada pelo servidor proxy">
 <!ENTITY proxyConnectFailure.longDesc "<ul> 
 <li>Verifique as configurações de proxy para certificar-se de que estejam corretas.</li> 
-<li>Contate seu administrador de rede para certificar-se de que o servidor proxy esteja funcionando.</li> 
+<li>Contate seu administrador de rede para certificar-se de que o servidor proxy esteja 
+funcionando.</li> 
 </ul>">
 
 <!ENTITY proxyResolveFailure.title "Servidor proxy não encontrado">
 <!ENTITY proxyResolveFailure.longDesc "<ul> 
 <li>Verifique as configurações de proxy para certificar-se de que estejam corretas.</li> 
 <li>Certifique-se de que a conexão de rede do seu computador esteja funcionando.</li> 
-<li>Se o seu computador ou rede forem protegidos por um firewall ou proxy, certifique-se de que o &brandShortName; esteja autorizado a acessar a web.</li> 
+<li>Se o seu computador ou rede forem protegidos por um firewall ou proxy, certifique-se 
+de que o &brandShortName; esteja autorizado a acessar a web.</li> 
 </ul>">
 
 <!ENTITY redirectLoop.title "Redirecionamento incorreto">
 <!ENTITY redirectLoop.longDesc "<ul> 
-<li>Este problema algumas vezes pode ser causado pela desativação ou bloqueio de cookies.</li> 
+<li>Este problema algumas vezes pode ser causado pela desativação ou o bloqueio 
+de cookies.</li> 
 </ul>">
 
 <!ENTITY unknownSocketType.title "Resposta não prevista do servidor">
 <!ENTITY unknownSocketType.longDesc "<ul> 
-<li>Certifique-se de que o seu sistema possui o Personal Security Manager instalado.</li> 
+<li>Certifique-se de que o seu sistema possui o Personal Security Manager 
+instalado.</li> 
 <li>Isto pode ser devido a uma configuração não padrão do servidor.</li> 
 </ul>">
 
@@ -108,14 +112,19 @@
 
 <!ENTITY nssBadCert.title "Falha na conexão segura">
 <!ENTITY nssBadCert.longDesc2 "<ul> 
-<li>Pode ser um problema com a configuração do servidor ou pode ser alguém tentando se passar por ele.</li> 
-<li>Se você já conectou-se com êxito a este servidor, o erro pode ser temporário e você pode tentar de novo mais tarde.</li> 
+<li>Pode ser um problema com a configuração do servidor 
+ou pode ser alguém tentando se passar por ele.</li> 
+<li>Se você já conectou-se com êxito a este servidor, o erro pode ser 
+temporário e você pode tentar mais tarde.</li> 
 </ul>">
 
 <!ENTITY sharedLongDesc "<ul> 
-<li>Este site pode estar temporariamente fora do ar ou sobrecarregado. Tente de novo em alguns instantes.</li> 
-<li>Se você não consegue carregar nenhuma página, verifique a conexão de rede do computador.</li> 
-<li>Se o seu computador ou rede forem protegidos por um firewall ou proxy, certifique-se de que o &brandShortName; esteja autorizado a acessar a web.</li> 
+<li>Este site pode estar temporariamente fora do ar ou sobrecarregado. Tente de novo 
+em alguns instantes.</li> 
+<li>Se você não consegue carregar nenhuma página, verifique a conexão de rede 
+do computador.</li> 
+<li>Se o seu computador ou rede forem protegidos por um firewall ou proxy, certifique-se 
+de que o &brandShortName; esteja autorizado a acessar a web.</li> 
 </ul>">
 
 <!ENTITY malwareBlocked.title "Site suspeito de ser um foco de ataques!">
