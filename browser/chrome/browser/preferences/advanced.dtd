@@ -74,13 +74,8 @@
 <!ENTITY updateTab.label                 "යාවත්කාලීන">
 
 <!ENTITY updateApp.label                 "&brandShortName; යාවත්කාලීන:">
-<!-- Note either updateAuto1 is used or (updateAutoMetro and updateAutoDesktop),
-     so re-using accesss key in updateAuto1 is OK. updateAutoDesktop can be found
-     in preferences.properties -->
 <!ENTITY updateAuto1.label               "යාවත්කාලීන යාවත්කාලීන ස්වයංක්‍රීයව ස්ථාපනය කරන්න (ආරක්ෂීතබව වැඩිකරයි)">
 <!ENTITY updateAuto1.accesskey           "A">
-<!ENTITY updateAutoMetro.label           "වැඩතලය හා Windows 8 රටා &brandShortName; ස්වයංක්‍රීයව යාවත් කරන්න (s)">
-<!ENTITY updateAutoMetro.accesskey       "s">
 <!ENTITY updateCheck.label               "යාවත්කාලීන සඳහා පරීක්ෂා කරන්න, නමුත් ස්ථාපනය සඳහා මට කේරීමට ඉඩහරින්න">
 <!ENTITY updateCheck.accesskey           "C">
 <!ENTITY updateManual.label              "යාවත්කාලීන සඳහා ස්වයංක්‍රීයව පරීක්ෂා නොකරන්න (අනතුරුදායනවබ බව වැඩිකරයන නිසා නිර්දේශ නොකරයි)">
@@ -88,8 +83,6 @@
 
 <!ENTITY updateAutoAddonWarn.label       "මෙය මගේ ඇඩෝන කිසිවක් හෝ අබල කරයි නම් මට අනතුරු අඟවන්න">
 <!ENTITY updateAutoAddonWarn.accesskey   "W">
-
-<!ENTITY updateAutoMetroWarn.label       "(Windows 8 රටා &brandShortName; ඇඩෝන ගැලපීම නොපිරික්සයි)">
 
 <!ENTITY updateHistory.label             "යාවත්කාලීන අතීතය පෙන්වන්න">
 <!ENTITY updateHistory.accesskey         "p">
@@ -113,6 +106,7 @@
 <!ENTITY offlineAppRemove.confirm        "නොබැඳි දත්ත ඉවත් කරන්න">
 
 <!ENTITY certificateTab.label            "සහතික">
+
 <!ENTITY certSelection.description       "සේවාදායකයක් මාගේ පෞද්ගලික සහතික ඉල්ලා සිටින විට:">
 <!ENTITY certs.auto                      "එකක් ස්වයංක්‍රීයව තෝරන්න">
 <!ENTITY certs.auto.accesskey            "S">

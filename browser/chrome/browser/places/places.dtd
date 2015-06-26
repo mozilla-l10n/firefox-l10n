@@ -85,7 +85,6 @@
 <!ENTITY col.url.label           "පිහිටුම">
 <!ENTITY col.mostrecentvisit.label "වඩා මෑත පිවිසුම">
 <!ENTITY col.visitcount.label    "පිවිසුම් එකතුව">
-<!ENTITY col.keyword.label       "මූල පදය">
 <!ENTITY col.description.label   "විස්තරය">
 <!ENTITY col.dateadded.label     "එක් කළා">
 <!ENTITY col.lastmodified.label  "අවසන් වෙනස්කම">

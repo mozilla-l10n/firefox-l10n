@@ -4,10 +4,17 @@
 <!-- These strings are used in the about:newtab page -->
 
 <!ENTITY newtab.pageTitle "නව ටැබය">
+
+
+<!--
+  LOCALIZATION NOTE(newtab.customize.cog.title): This string is for the new
+  tab cog menu title. It will be transformed to uppercase.
+-->
+
 <!ENTITY newtab.customize.title "ඔබේ නව ටැබ පිටුව රුචිකරණය කරමින්">
-<!ENTITY newtab.customize.enhanced "දියුණුකළ">
-<!ENTITY newtab.customize.classic "සම්මත">
-<!ENTITY newtab.customize.blank "හිස්">
+
+
+
 <!ENTITY newtab.customize.what "මෙම පිටුව කුමක්ද?">
 <!ENTITY newtab.intro.header "මෙම පිටුව කුමක්ද?">
 <!ENTITY newtab.undo.removedLabel "කුඩාරුව ඉවත් විය.">
