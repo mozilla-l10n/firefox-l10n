@@ -18,4 +18,5 @@
 
 <!ENTITY safeb.blocked.unwantedPage.title "অবাঞ্ছিত সফটওয়্যার সাইট পাওয়া গেছে!">
 <!-- Localization note (safeb.blocked.unwanted.shortDesc) - Please don't translate the contents of the <span id="unwanted_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
+<!ENTITY safeb.blocked.unwantedPage.shortDesc "<span id='unwanted_sitename'/> -এ উপস্থিত পেজটি একটি বিপজ্জনক পেজ রূপে চিহ্নিত হয়েছে এবং আপনার নির্ধারিত সুরক্ষামূলক বৈশিষ্ট্য অনুযায়ী এটির প্রদর্শন প্রতিরোধ করা হয়েছে।">
 

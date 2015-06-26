@@ -252,7 +252,7 @@ size. -->
 <!ENTITY pref_import_android "অ্যান্ড্রয়েড থেকে ইম্পোর্ট করা হোক">
 <!ENTITY pref_import_android_summary "নেটিভ ব্রাউজার থেকে বুকমার্ক সংকলন এবং ব্রাউজিং ইতিহাস ইম্পোর্ট করুন">
 <!ENTITY pref_private_data_history2 "পূর্ববর্তী ব্রাউজ সংক্রান্ত তথ্য">
-
+<!ENTITY pref_private_data_searchHistory "অনুসন্ধানের ইতিহাস">
 <!ENTITY pref_private_data_formdata2 "পূর্ববর্তী তথ্য বানান">
 <!ENTITY pref_private_data_cookies2 "কুকিসমূহ এবং সক্রিয় লগইন গুলি">
 <!ENTITY pref_private_data_passwords "সংরক্ষিত পাসওয়ার্ডসমূহ">
