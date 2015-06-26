@@ -4,6 +4,13 @@
 <!-- These strings are used in the about:newtab page -->
 
 <!ENTITY newtab.pageTitle "Dirica matidi manyen">
+
+
+<!--
+  LOCALIZATION NOTE(newtab.customize.cog.title): This string is for the new
+  tab cog menu title. It will be transformed to uppercase.
+-->
+
 <!ENTITY newtab.customize.title "Yik pot bukki manyen me dirica matidi">
 
 

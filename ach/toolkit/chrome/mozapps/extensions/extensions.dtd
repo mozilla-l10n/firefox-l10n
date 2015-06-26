@@ -22,6 +22,8 @@
 
 <!ENTITY cmd.back.tooltip                     "Dok cen pot buk acel">
 <!ENTITY cmd.forward.tooltip                  "Wot anyim ki pot buk acel">
+
+
 <!-- global warnings -->
 
 <!ENTITY warning.safemode.label                    "Kit maber ojuko woko med-ikome weng.">
@@ -100,7 +102,8 @@
 <!ENTITY cmd.installAddon.accesskey           "K">
 <!ENTITY cmd.uninstallAddon.label             "Kwany woko">
 <!ENTITY cmd.uninstallAddon.accesskey         "K">
-<!ENTITY cmd.debugAddon.label                 "Nong bal">
+
+
 <!ENTITY cmd.showPreferencesWin.label         "Gin ayera">
 <!ENTITY cmd.showPreferencesWin.tooltip       "Lok gin ayera me med-ikome man">
 <!ENTITY cmd.showPreferencesUnix.label        "Gin ma imito">
@@ -227,4 +230,16 @@ med-ikome mogo ma beco loyo dok ngen tutwal pi yin me temo gi.">
 <!ENTITY experiment.info.learnmore.accesskey "L">
 <!ENTITY experiment.info.changetelemetry "Ter me Pimo tic">
 <!ENTITY experiment.info.changetelemetry.accesskey "T">
+
+
+<!-- LOCALIZATION NOTE (disabledUnsigned.description.start, disabledUnsigned.description.findAddonsLink, disabledUnsigned.description.end):
+     These entities form a sentence, with
+     disabledUnsigned.description.findAddonsLink being a link to an external site. -->
+
+
+
+<!-- LOCALIZATION NOTE (disabledUnsigned.devInfo.start, disabledUnsigned.devInfo.linkToManual, disabledUnsigned.devInfo.end):
+     These entities form a sentence, with disabledUnsigned.devInfo.linkToManual
+     being a link to an external site. -->
+
 
