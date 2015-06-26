@@ -85,7 +85,6 @@
 <!ENTITY col.url.label           "တည်နေရာ">
 <!ENTITY col.mostrecentvisit.label "နောက်ဆုံးအသုံးပြုခဲ့သော ဝတ်ဆိုဒ်များ">
 <!ENTITY col.visitcount.label    "လည်ပတ်မူ အရေအတွက်">
-<!ENTITY col.keyword.label       "သော့ချက် စာလုံး">
 <!ENTITY col.description.label   "ဖေါ်ပြချက်">
 <!ENTITY col.dateadded.label     "ထည့်သွင်းထားပြီ">
 <!ENTITY col.lastmodified.label  "နောက်ဆုံး မွမ်းမံချိန်">

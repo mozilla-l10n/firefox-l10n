@@ -44,7 +44,7 @@
 <!ENTITY helpus.middle              "  (သို့)  ">
 <!-- LOCALIZATION NOTE (helpus.getInvolvedLink): This is a link title that links to http://www.mozilla.org/contribute/. -->
 <!ENTITY helpus.getInvolvedLink     "ပါဝင်ဆောင်ရွက်ပါ။">
-<!ENTITY helpus.end                 "">
+<!ENTITY helpus.end                 "အခုဗားရှင်း သည် အားလုံးဝိုင်းဝန်စုပေါင်း လုပ်ဆောင်ထားသော ရလဒ်ဖြစ်သည်">
 <!-- LOCALIZATION NOTE (bottomLinks.license): This is a link title that links to about:license. -->
 
 <!ENTITY bottomLinks.license        "လိုင်စင်အကြောင်းသိကောင်းစရာ">
@@ -96,7 +96,7 @@
      example: Downloading update — 111 KB of 13 MB -->
 
 <!ENTITY update.downloading.start   "အဆင့်မြှင့်တင် ခြင်းအားရယူနေသည် ----  ">
-<!ENTITY update.downloading.end     "">
+<!ENTITY update.downloading.end     "အဆင့်မမြှင်နိုင်">
 
 <!ENTITY update.applying            "အပ်ဒိတ် လုပ်နေပါတယ်...">
 <!-- LOCALIZATION NOTE (channel.description.start,channel.description.end): channel.description.start and

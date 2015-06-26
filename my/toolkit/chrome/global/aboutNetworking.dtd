@@ -1,0 +1,31 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY aboutNetworking.title                 "ချိတ်ဆက်မှူအကြောင်း">
+<!ENTITY aboutNetworking.warning               "ဒါဟာ စမ်းသပ်ဆဲ အရာတစ်ခုဖြစ်တယ် ။ ကျွမ်းကျင်သူတစ်ယောက်ရဲ့ ကူညီမှူမပါပဲ မသုံးပါနဲ့">
+<!ENTITY aboutNetworking.showNextTime          "ဒီသတိပေးချက်ကို နောက်တခါ ဖေါ်ပြပါ">
+<!ENTITY aboutNetworking.ok                    "OK">
+<!ENTITY aboutNetworking.http                  "Http">
+<!ENTITY aboutNetworking.sockets               "ဆော့ကတ်">
+<!ENTITY aboutNetworking.dns                   "DNS">
+<!ENTITY aboutNetworking.websockets            "WebSockets">
+<!ENTITY aboutNetworking.refresh               "ပြန်ရယူရန်">
+<!ENTITY aboutNetworking.autoRefresh           "သုံး စက္ကန့်တိုင်း အလိုအလျောက် Refresh လုပ်ပါ">
+<!ENTITY aboutNetworking.hostname              "စက်အမည်">
+<!ENTITY aboutNetworking.port                  "ဆက်သွယ်ပေါက်">
+<!ENTITY aboutNetworking.spdy                  "SPDY">
+<!ENTITY aboutNetworking.ssl                   "SSL">
+<!ENTITY aboutNetworking.active                "ဖွင့်ထားပါ">
+<!ENTITY aboutNetworking.idle                  "Idle">
+<!ENTITY aboutNetworking.host                  "စက်အမည်">
+<!ENTITY aboutNetworking.tcp                   "TCP">
+<!ENTITY aboutNetworking.sent                  "ပို့ပြီး">
+<!ENTITY aboutNetworking.received              "လက်ခံရရှိသည်">
+<!ENTITY aboutNetworking.family                "အုပ်စု">
+<!ENTITY aboutNetworking.addresses             "လိပ်စာများ">
+<!ENTITY aboutNetworking.expires               "သက်တမ်းကုန်(စက္ကန့်အားဖြင့်)">
+<!ENTITY aboutNetworking.messagesSent          "စာတိုများပို့ပြီး">
+<!ENTITY aboutNetworking.messagesReceived      "စာတိုများလက်ခံရပြီး">
+<!ENTITY aboutNetworking.bytesSent             "Bytes Sent">
+<!ENTITY aboutNetworking.bytesReceived         "Bytes Received">

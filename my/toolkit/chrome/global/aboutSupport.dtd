@@ -53,6 +53,7 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 <!ENTITY aboutSupport.appBasicsBuildConfig "Configuration တည်ဆောက်ပါ">
 <!ENTITY aboutSupport.appBasicsUserAgent "အသုံးပြုသူ အေးဂျင့်">
 <!ENTITY aboutSupport.appBasicsMemoryUse "မှတ်ဉာဏ်သုံးဆွဲမှူ">
+<!-- LOCALIZATION NOTE the term "Service Workers" should not be translated. -->
 
 <!ENTITY aboutSupport.appBasicsMultiProcessSupport "တစ်ပြိုင်နက်လုပ်ဆောင်ချက် ဝင်းဒိုးများ">
 

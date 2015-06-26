@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY window.title                 "ခြွင်းချက်များ">
-<!ENTITY window.width                 "36em">
+
 
 <!ENTITY treehead.sitename.label      "ကွန်ရက်">
 <!ENTITY treehead.status.label        "လက်ရှိအခြေအနေ">
@@ -21,6 +21,7 @@
 <!ENTITY allow.accesskey              "A">
 <!ENTITY windowClose.key              "w ">
 
-<!ENTITY button.close.label           "Cပိတ်ပါ ">
-<!ENTITY button.close.accesskey       "C">
+
+
+
 

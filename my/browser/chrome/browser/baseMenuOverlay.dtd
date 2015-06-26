@@ -18,13 +18,15 @@
 <!ENTITY aboutProduct2.accesskey  "A">
 <!ENTITY productHelp2.label       "&brandShorterName; Hအကူအညီ">
 <!ENTITY productHelp2.accesskey   "H">
-
+<!ENTITY helpMac.commandkey       "?">
 
 <!ENTITY helpKeyboardShortcuts.label     "Keyboard Shortcuts">
 <!ENTITY helpKeyboardShortcuts.accesskey "K">
 
 <!ENTITY helpSafeMode.label       "Add-on များမပါပဲပြန်လည်အသုံးပြုမည်။">
 <!ENTITY helpSafeMode.accesskey   "A">
+
+
 
 
 
@@ -37,13 +39,13 @@
 
 
 <!ENTITY preferencesCmdMac.label        "ဦးစားပေးချက်များ...">
-
+<!ENTITY preferencesCmdMac.commandkey   ",">
 
 <!ENTITY servicesMenuMac.label          "၀န်ဆောင်မှုများ">
 
-
+<!ENTITY hideThisAppCmdMac2.commandkey  "H">
 
 <!ENTITY hideOtherAppsCmdMac.label      "အခြားများကို ဖျောက်ထားပါ">
-
+<!ENTITY hideOtherAppsCmdMac.commandkey "H">
 
 <!ENTITY showAllAppsCmdMac.label        "အားလုံး ဖေါ်ပြပါ">

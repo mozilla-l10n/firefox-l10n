@@ -22,6 +22,8 @@
 
 <!ENTITY cmd.back.tooltip                     "နောက် တမျက်နှာ သွားပါ">
 <!ENTITY cmd.forward.tooltip                  "ရှေ့ တမျက်နှာ သွားပါ">
+
+
 <!-- global warnings -->
 
 <!ENTITY warning.safemode.label                    "လုံခြုံရေးအပြင်အဆင်အရအတ်အွန်အားလုံးအားပိတ်သိမ်းထားသည်။">
@@ -100,7 +102,8 @@
 <!ENTITY cmd.installAddon.accesskey           "I">
 <!ENTITY cmd.uninstallAddon.label             "ဖယ်ရှားပါ ">
 <!ENTITY cmd.uninstallAddon.accesskey         "R">
-<!ENTITY cmd.debugAddon.label                 "အမှားစစ်">
+
+
 <!ENTITY cmd.showPreferencesWin.label         "ရွေးစရာများ">
 <!ENTITY cmd.showPreferencesWin.tooltip       "ယခုအက်အွန်၏ ရွေးချယ်ပိုင်ခွင့်အား ပြုပြင်ပါ">
 <!ENTITY cmd.showPreferencesUnix.label        "ဦးစားပေး အချက်များ">
@@ -227,4 +230,16 @@
 <!ENTITY experiment.info.learnmore.accesskey "L">
 <!ENTITY experiment.info.changetelemetry "Telemetry အပြင်အဆင်များ">
 <!ENTITY experiment.info.changetelemetry.accesskey "T">
+
+
+<!-- LOCALIZATION NOTE (disabledUnsigned.description.start, disabledUnsigned.description.findAddonsLink, disabledUnsigned.description.end):
+     These entities form a sentence, with
+     disabledUnsigned.description.findAddonsLink being a link to an external site. -->
+
+
+
+<!-- LOCALIZATION NOTE (disabledUnsigned.devInfo.start, disabledUnsigned.devInfo.linkToManual, disabledUnsigned.devInfo.end):
+     These entities form a sentence, with disabledUnsigned.devInfo.linkToManual
+     being a link to an external site. -->
+
 
