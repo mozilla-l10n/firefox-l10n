@@ -36,4 +36,4 @@
 
 <!ENTITY absolutePosition.label "Posicionamento absoluto">
 <!ENTITY decreaseZIndex.label   "Enviar para trás">
-<!ENTITY increaseZIndex.label   "Enviar para frente">
+<!ENTITY increaseZIndex.label   "Trazer para a frente">

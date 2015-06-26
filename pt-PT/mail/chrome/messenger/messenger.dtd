@@ -70,11 +70,11 @@
 <!ENTITY offlineMenu.accesskey "l">
 <!ENTITY offlineGoOfflineCmd.label "Trabalhar offline">
 <!ENTITY offlineGoOfflineCmd.accesskey "T">
-<!ENTITY synchronizeOfflineCmd.label "Transferir/sincronizar agora...">
+<!ENTITY synchronizeOfflineCmd.label "Descarregar ou sincronizar agora…">
 <!ENTITY synchronizeOfflineCmd.accesskey "s">
 <!ENTITY settingsOfflineCmd2.label "Definições do modo offline">
 <!ENTITY settingsOfflineCmd2.accesskey "d">
-<!ENTITY downloadSelectedCmd.label "Transferir mensagens selecionadas">
+<!ENTITY downloadSelectedCmd.label "Obter mensagens selecionadas">
 <!ENTITY downloadSelectedCmd.accesskey "m">
 <!ENTITY downloadStarredCmd.label "Transferir mensagens com estrela">
 <!ENTITY downloadStarredCmd.accesskey "a">

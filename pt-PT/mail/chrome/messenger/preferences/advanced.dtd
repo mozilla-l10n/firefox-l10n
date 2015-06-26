@@ -11,7 +11,7 @@
 
 <!ENTITY enableGlodaSearch.label       "Ativar pesquisa global e indexação">
 <!ENTITY enableGlodaSearch.accesskey   "i">
-<!ENTITY allowHWAccel.label            "Usar aceleração por hardware se possível">
+<!ENTITY allowHWAccel.label            "Se disponível, utilizar aceleração por hardware">
 <!ENTITY allowHWAccel.accesskey        "h">
 <!ENTITY storeType.label               "Tipo de armazenamento de mensagem para novas constas:">
 <!ENTITY storeType.accesskey           "T">

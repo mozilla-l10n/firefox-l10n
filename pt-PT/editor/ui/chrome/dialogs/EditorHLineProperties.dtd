@@ -11,7 +11,7 @@
 <!ENTITY heightEditField.accessKey "t">
 <!ENTITY widthEditField.label "Largura:">
 <!ENTITY widthEditField.accessKey "L">
-<!ENTITY pixelsPopup.value "pixéis">
+<!ENTITY pixelsPopup.value "pixeis">
 <!ENTITY alignmentBox.label "Alinhamento">
 <!ENTITY leftRadio.label "Esquerda">
 <!ENTITY leftRadio.accessKey "E">
@@ -24,4 +24,4 @@
 <!ENTITY threeDShading.accessKey "S">
 <!ENTITY saveSettings.label "Utilizar como pré-definição">
 <!ENTITY saveSettings.accessKey "d">
-<!ENTITY saveSettings.tooltip "Guardar as definições para usar quando inserir novas linhas horizontais">
+<!ENTITY saveSettings.tooltip "Guardar definições para as utilizar ao inserir novas linhas horizontais">
