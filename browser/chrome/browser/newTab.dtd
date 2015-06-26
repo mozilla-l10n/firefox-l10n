@@ -6,6 +6,10 @@
 <!ENTITY newtab.pageTitle "Taba ùr">
 <!ENTITY newtab.customize.classic "Seall gràinnean-mullaich nan làrach agad">
 <!ENTITY newtab.customize.cog.enhanced "Gabh a-staigh làraichean a mholamaid">
+<!--
+  LOCALIZATION NOTE(newtab.customize.cog.title): This string is for the new
+  tab cog menu title. It will be transformed to uppercase.
+-->
 <!ENTITY newtab.customize.cog.title "Uidheaman-smachd airson tabaichean ùra">
 <!ENTITY newtab.customize.cog.learn "Fiosrachadh mu na tabaichean ùra">
 <!ENTITY newtab.customize.title "Gnàthaich coltas nan tabaichean ùra">
