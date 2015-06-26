@@ -13,6 +13,7 @@
 <!ENTITY safeb.blocked.malwarePage.longDesc "<p>Hücum saytı olaraq göstərilən saytlar şəxsi məlumatlarınızı oğurlayan, kompüterinizi başqalarına hücum etməkçün istifadə etmək məqsədi ilə istifadə edən ya da sisteminizə zərər verəcək proqramları quraşdırmağa çalışan saytlardır.</p><p>Bəzi hücum saytları zərərli proqramları bilərək yayarkən, əksər saytlar, sahibinin məlumatı və icazəsi olmadan bu məqsədlə istifadə edilir.</p>">
 
 <!-- Localization note (safeb.blocked.malware.shortDesc) - Please don't translate the contents of the <span id="unwanted_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
+<!ENTITY safeb.blocked.unwantedPage.shortDesc "<span id='unwanted_sitename'/> ünvanındakı saytda istənməyən proqram məzmunu olduğundan xəbər verilib və təhlükəsizlik nizamlarınıza əsasən bloklandı.">
 
 
 <!ENTITY safeb.blocked.phishingPage.title "Saxtakarlıq saytı olaraq bildirilmişdir!">
