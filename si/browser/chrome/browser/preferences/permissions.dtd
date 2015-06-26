@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY window.title                 "හැරදැමීම්">
-<!ENTITY window.width                 "36em">
+
 
 <!ENTITY treehead.sitename.label      "අඩවිය">
 <!ENTITY treehead.status.label        "තත්ත්වය">
@@ -21,6 +21,7 @@
 <!ENTITY allow.accesskey              "A">
 <!ENTITY windowClose.key              "w">
 
-<!ENTITY button.close.label           "වසන්න">
-<!ENTITY button.close.accesskey       "C">
+
+
+
 

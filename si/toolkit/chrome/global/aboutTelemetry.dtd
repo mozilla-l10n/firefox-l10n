@@ -10,6 +10,7 @@
 
 <!ENTITY aboutTelemetry.generalDataSection "    සාමාන්‍ය දත්ත">
 
+
 <!ENTITY aboutTelemetry.slowSqlSection "    SQL ප්‍රකාශ පෙන්වන්න">
 
 <!ENTITY aboutTelemetry.chromeHangsSection "    ගවේශකය විසන්ධි විය">
