@@ -486,6 +486,8 @@
 <!ENTITY editBookmark.removeBookmark.accessKey "s">
 <!ENTITY identity.connectionSecure "Connessione sicura">
 <!ENTITY identity.connectionNotSecure "Connessione non sicura">
+<!ENTITY identity.connectionVerified "La sicurezza della connessione è stata verificata da &brandShortName;. Il sito è gestito da:">
+<!ENTITY identity.connectionInternal "Questa è una pagina sicura di &brandShortName;.">
 <!ENTITY identity.moreInfoLinkText2 "Ulteriori informazioni">
 <!ENTITY identity.permissions "Permessi">
 <!ENTITY tabsToolbar.label "Schede del browser">
