@@ -16,7 +16,7 @@
 
 <!ENTITY sync.subtitle.connect.label "Ka war jinay taagaa dirandi, “&syncBrand.shortName.label; kayandiyan” suuba jinaa ga.">
 <!ENTITY sync.subtitle.header2.label "Ašariyaa woo dam war jinay faa ga">
-<!ENTITY sync.subtitle.connectlocation2.label "Zaa “sync.title.pair.label;” syncBrand.shortName.label; dunboo ra war jinay faa Firefox suubarey ra.">
+<!ENTITY sync.subtitle.connectlocation2.label "Zaa “&sync.title.pair.label;” &syncBrand.shortName.label; dunboo ra war jinay faa se Firefox suubarey game.">
 <!ENTITY sync.subtitle.pair.label "Ka dirandi, wa “Jinay foo margandi” suuba war jinay faa ga.">
 <!ENTITY sync.pin.default.label "...\n...\n...\n">
 <!ENTITY sync.pin.oneline.label "...">
