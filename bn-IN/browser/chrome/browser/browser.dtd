@@ -19,7 +19,7 @@
 <!ENTITY navbarOverflow.label                "অতিরিক্ত সরঞ্জাম…">
 <!-- Tab context menu -->
 
-<!ENTITY  reloadTab.label                    "ট্যাব পুনরায় লোড করুন">
+<!ENTITY  reloadTab.label                    "ট্যাব পুনরায় লোড(R) করুন">
 <!ENTITY  reloadTab.accesskey                "R">
 <!ENTITY  reloadAllTabs.label                "সকল ট্যাব পুনরায় লোড করুন (A)">
 <!ENTITY  reloadAllTabs.accesskey            "A">
@@ -43,28 +43,28 @@ can reach it easily. -->
 <!ENTITY  moveToGroup.label                  "গ্রুপে স্থানান্তর করুন">
 <!ENTITY  moveToGroup.accesskey              "M">
 <!ENTITY  moveToNewGroup.label               "নতুন শ্রেণী">
-<!ENTITY  moveToNewWindow.label              "নতুন উইন্ডোর মধ্যে স্থানান্তর করুন">
+<!ENTITY  moveToNewWindow.label              "নতুন উইন্ডোর(W) মধ্যে স্থানান্তর করুন">
 <!ENTITY  moveToNewWindow.accesskey          "W">
 <!ENTITY  bookmarkAllTabs.label              "সকল ট্যাব বুকমার্ক করুন (T)…">
 <!ENTITY  bookmarkAllTabs.accesskey          "T">
 <!ENTITY  undoCloseTab.label                 "বন্ধ করা ট্যাব পুনরায় খুলুন (U)">
 <!ENTITY  undoCloseTab.accesskey             "U">
-<!ENTITY  closeTab.label                     "ট্যাব বন্ধ করুন">
+<!ENTITY  closeTab.label                     "ট্যাব বন্ধ করুন(C)">
 <!ENTITY  closeTab.accesskey                 "C">
 
 <!ENTITY  listAllTabs.label      "সকল ট্যাবের তালিকা প্রদর্শন করা হবে">
 
-<!ENTITY tabCmd.label "নতুন ট্যাব">
+<!ENTITY tabCmd.label "নতুন ট্যাব(T)">
 <!ENTITY tabCmd.accesskey "T">
 <!ENTITY tabCmd.commandkey "t">
 <!-- LOCALIZATION NOTE (openLocationCmd.label): "Open Location" is only
 displayed on OS X, and only on windows that aren't main browser windows, or
 when there are no windows but Firefox is still running. -->
 <!ENTITY openLocationCmd.label "অবস্থান খুলুন…">
-<!ENTITY openFileCmd.label "ফাইল খুলুন...">
+<!ENTITY openFileCmd.label "ফাইল খুলুন(O)...">
 <!ENTITY openFileCmd.accesskey "O">
 <!ENTITY openFileCmd.commandkey "o">
-<!ENTITY printSetupCmd.label "পৃষ্টা'র বৈশিষ্ট্য...">
+<!ENTITY printSetupCmd.label "পৃষ্টা'র বৈশিষ্ট্য(u)...">
 <!ENTITY printSetupCmd.accesskey "u">
 <!ENTITY printPreviewCmd.label "প্রিন্টের পূর্বরূপ">
 <!ENTITY printPreviewCmd.accesskey "v">
