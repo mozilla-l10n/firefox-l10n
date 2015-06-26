@@ -16,6 +16,7 @@
 <!ENTITY toolboxZoomReset.key "0">
 <!ENTITY toolboxReload.key "r">
 <!ENTITY toolboxToggleMinimize.key "U">
+<!ENTITY toolboxToggle.key "d">
 
 <!ENTITY toolboxFramesTooltip "Wskaż element iframe jako cel narzędzi">
 
