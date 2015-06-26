@@ -42,8 +42,8 @@
 
 <!ENTITY cmd.pause.label                  "Pausa">
 <!ENTITY cmd.pause.accesskey              "P">
-<!ENTITY cmd.resume.label                 "Continuar">
-<!ENTITY cmd.resume.accesskey             "r">
+<!ENTITY cmd.resume.label                 "Retomar">
+<!ENTITY cmd.resume.accesskey             "R">
 <!ENTITY cmd.cancel.label                 "Cancelar">
 <!ENTITY cmd.cancel.accesskey             "C">
 <!-- LOCALIZATION NOTE (cmd.show.label, cmd.show.accesskey, cmd.showMac.label,
@@ -107,12 +107,12 @@
      is displayed inside a browser tab.
      -->
 
-<!ENTITY downloadsListEmpty.label         "Não existem descargas.">
+<!ENTITY downloadsListEmpty.label         "Nenhuma descarga.">
 <!-- LOCALIZATION NOTE (downloadsPanelEmpty.label):
      This string is shown when there are no items in the Downloads Panel.
      -->
 
-<!ENTITY downloadsPanelEmpty.label        "Nenhuma descarga.">
+<!ENTITY downloadsPanelEmpty.label        "Nenhuma descarga para esta sessão.">
 <!-- LOCALIZATION NOTE (downloadsListNoMatch.label):
      This string is shown when some search terms are specified, but there are no
      results in the Downloads view.

@@ -9,7 +9,7 @@
 <!ENTITY aboutWarningTitle.label "Isto pode violar a sua garantia!">
 <!ENTITY aboutWarningText.label "A alteração destas definições avançadas pode ter resultados indesejados na estabilidade, segurança e desempenho desta aplicação. Só deve continuar se souber o que está a fazer.">
 <!ENTITY aboutWarningButton.label "Prometo que serei cuidadoso!">
-<!ENTITY aboutWarningCheckbox.label "Voltar a avisar-me da próxima vez.">
+<!ENTITY aboutWarningCheckbox.label "Mostrar sempre este aviso">
 
 <!ENTITY searchPrefs.label "Pesquisar:">
 <!ENTITY searchPrefs.accesskey "r">

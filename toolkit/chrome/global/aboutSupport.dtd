@@ -5,7 +5,7 @@
 <!ENTITY aboutSupport.pageTitle "Informações sobre resolução de problemas">
 <!-- LOCALIZATION NOTE (aboutSupport.pageSubtitle): don't change the 'supportLink' id. -->
 
-<!ENTITY aboutSupport.pageSubtitle "  Esta página contém as informações técnicas para o ajudar a tentar  
+<!ENTITY aboutSupport.pageSubtitle " Esta página contém as informações técnicas para o ajudar a tentar  
 resolver um problema. Se estiver à procura de respostas a questões comuns  
 do &brandShortName;, aceda ao nosso <a id='supportLink'>sítio web de apoio</a>.">
 
@@ -100,4 +100,4 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.sandboxTitle "Sandbox">
 
 <!ENTITY aboutSupport.safeModeTitle "Tentar o modo de segurança">
-<!ENTITY aboutSupport.restartInSafeMode.label "Reiniciar com os extras desativados...">
+<!ENTITY aboutSupport.restartInSafeMode.label "Reiniciar com os extras desativados…">

@@ -4,9 +4,9 @@
 
 <!ENTITY tracking.label                 "Seguimento">
 
-<!ENTITY dntTrackingNotOkay.label2      "Pedir que os sites não possam seguir a minha navegação">
+<!ENTITY dntTrackingNotOkay.label2      "Indicar aos sítios web que não quero ser rastreado">
 <!ENTITY dntTrackingNotOkay.accesskey   "N">
-<!ENTITY trackingProtection.label       "Pedir que os sites não possam seguir a minha navegação">
+<!ENTITY trackingProtection.label       "Impedir rastreio por parte dos sítios web">
 <!ENTITY trackingProtection.accesskey   "m">
 <!ENTITY trackingProtectionLearnMore.label "Saber mais">
 <!ENTITY doNotTrackInfo.label           "Saber mais">
@@ -15,7 +15,7 @@
 
 <!ENTITY  locationBar.label             "Barra de endereços">
 
-<!ENTITY  locbar.suggest.label          "Ao usar na barra de endereços, sugerir páginas:">
+<!ENTITY  locbar.suggest.label          "Ao utilizar a barra de endereços, sugerir:">
 <!ENTITY  locbar.history.label          "Histórico">
 <!ENTITY  locbar.history.accesskey      "H">
 <!ENTITY  locbar.bookmarks.label        "Marcadores">
@@ -49,10 +49,10 @@
 <!ENTITY  historyHeader.pre.accesskey      "i">
 <!ENTITY  historyHeader.remember.label     "guardar o seu histórico">
 <!ENTITY  historyHeader.dontremember.label "não guardar o seu histórico">
-<!ENTITY  historyHeader.custom.label       "usar definições personalizadas para o seu histórico">
+<!ENTITY  historyHeader.custom.label       "Utilizar definições personalizadas para o histórico">
 <!ENTITY  historyHeader.post.label         "">
 
-<!ENTITY  rememberDescription.label      "O &brandShortName; irá guardar os seus históricos de navegação, descargas, formulários e pesquisa, e irá manter os cookies dos sites que visitar.">
+<!ENTITY  rememberDescription.label      "O &brandShortName; irá guardar o seu histórico de navegação, descargas, formulários e pesquisas, e irá manter os cookies dos sites que visitar.">
 <!-- LOCALIZATION NOTE (rememberActions.pre.label): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (rememberActions.middle.label): include a starting and trailing space as needed -->
 <!-- LOCALIZATION NOTE (rememberActions.post.label): include a starting space as needed -->
@@ -63,7 +63,7 @@
 <!ENTITY  rememberActions.removeCookies.label "remover cookies individualmente">
 <!ENTITY  rememberActions.post.label          ".">
 
-<!ENTITY  dontrememberDescription.label  "O &brandShortName; irá usar as mesmas definições para a navegação privada e não irá memorizar o histórico da navegação web.">
+<!ENTITY  dontrememberDescription.label  "O &brandShortName; irá utilizar as mesmas definições da navegação privada e não irá memorizar o histórico da navegação.">
 <!-- LOCALIZATION NOTE (dontrememberActions.pre.label): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (dontrememberActions.post.label): include a starting space as needed -->
 
@@ -71,8 +71,8 @@
 <!ENTITY  dontrememberActions.clearHistory.label "limpar todo o histórico">
 <!ENTITY  dontrememberActions.post.label         ".">
 
-<!ENTITY  privateBrowsingPermanent2.label "Usar sempre o modo de navegação privada ">
-<!ENTITY  privateBrowsingPermanent2.accesskey "U">
+<!ENTITY  privateBrowsingPermanent2.label "Utilizar sempre o modo de navegação privada">
+<!ENTITY  privateBrowsingPermanent2.accesskey "p">
 
 <!ENTITY  rememberHistory2.label      "Memorizar histórico de navegação e de descargas">
 <!ENTITY  rememberHistory2.accesskey  "h">

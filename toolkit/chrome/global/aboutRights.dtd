@@ -17,7 +17,7 @@
 
 <!ENTITY rights.intro-point1a "O &brandShortName; é-lhe disponibilizado sobre os termos da ">
 <!ENTITY rights.intro-point1b "Mozilla Public License">
-<!ENTITY rights.intro-point1c ". Isto significa que pode usar, copiar e distribuir o &brandShortName; para outras pessoas.  Também pode modificar o código fonte do &brandShortName; conforme as suas necessidades. A Mozilla Public License (Licença Pública da Mozilla) também lhe dá o direito de distribuir as suas versões modificadas.">
+<!ENTITY rights.intro-point1c ". Isto significa que pode usar, copiar e distribuir o &brandShortName; para outras pessoas.  Também pode modificar o código fonte do &brandShortName; conforme as suas necessidades. A Mozilla Public License também lhe dá o direito de distribuir as suas versões modificadas.">
 
 <!ENTITY rights.intro-point2-a "Não tem nenhum direito às marcas registadas ou licenças às marcas registadas da Fundação Mozilla ou qualquer outra, incluindo sem limitações o nome ou logo do Firefox. Pode encontrar informação adicional sobre marcas registadas ">
 <!ENTITY rights.intro-point2-b "aqui">
@@ -40,9 +40,9 @@
 <!ENTITY rights.intro-point4c ".">
 <!-- point 4 text for unbranded builds -->
 
-<!ENTITY rights.intro-point4a-unbranded "Se este produto incorporar serviços web, quaisquer termos do serviço aplicáveis devem ser direcionados para ">
+<!ENTITY rights.intro-point4a-unbranded "Se este produto incorporar serviços web, quaisquer termos aplicáveis ao serviço devem ser direcionados para ">
 <!ENTITY rights.intro-point4b-unbranded "a secção de">
-<!ENTITY rights.intro-point4c-unbranded "  secção.">
+<!ENTITY rights.intro-point4c-unbranded " secção.">
 
 <!ENTITY rights2.webservices-header "Serviços de informação baseados na web do &brandFullName;">
 <!-- Note that this paragraph references a couple of entities from

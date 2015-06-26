@@ -45,7 +45,7 @@
 <!-- LOCALIZATION NOTE (webAudioEditorUI.automationEmpty): This is the title for the
   -  AudioNode inspector view automation tab empty message. -->
 
-<!ENTITY webAudioEditorUI.automationEmpty "O nó não tem nenhum AudioParams.">
+<!ENTITY webAudioEditorUI.automationEmpty "O nó não tem quaisquer AudioParams.">
 <!-- LOCALIZATION NOTE (webAudioEditorUI.automationNoEvents): This is the title for the
   -  AudioNode inspector view automation tab message when there are no automation
   -  events. -->
