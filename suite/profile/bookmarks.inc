@@ -167,7 +167,7 @@
 # e.g. #define seamonkey_l10n <DT><A HREF="http://www.seamonkey.tlh/">SeaMonkey tlhIngan</a>
 
 
-#define seamonkey_l10n #define seamonkey_l10n <DT><A HREF="https://l10n.mozilla-community.org/pt-BR/smbr/">SeaMonkey pt-BR</a>
+#define seamonkey_l10n 
 
 
 # LOCALIZATION NOTE (seamonkey_l10n_long):
@@ -179,7 +179,7 @@
 # e.g. #define seamonkey_l10n_long <DT><A HREF="http://www.seamonkey.tld/">tlhIngan Hol SeaMonkey</a>
 
 
-#define seamonkey_l10n_long #define seamonkey_l10n_long <DT><A HREF="https://l10n.mozilla-community.org/pt-BR/smbr/">SeaMonkey em Português do Brasil</a>
+#define seamonkey_l10n_long 
 
 
 #unfilter emptyLines
