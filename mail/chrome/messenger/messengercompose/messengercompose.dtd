@@ -30,9 +30,9 @@
 <!ENTITY closeCmd.label "Aizvērt">
 
 <!ENTITY closeCmd.accesskey "A">
+<!ENTITY saveCmd.label "Saglabāt">
 
-
-
+<!ENTITY saveCmd.accesskey "S">
 
 
 
