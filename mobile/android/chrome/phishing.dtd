@@ -18,4 +18,5 @@
 
 <!ENTITY safeb.blocked.unwantedPage.title "விரும்பத்தகா மென்பொருள் தளத்தை புகார் செய்!">
 <!-- Localization note (safeb.blocked.unwanted.shortDesc) - Please don't translate the contents of the <span id="unwanted_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
+<!ENTITY safeb.blocked.unwantedPage.shortDesc "இந்த இணைய தளம் <span id='unwanted_sitename'/> தாக்கப்பட்டுள்ள தளம் என அறிக்கையிடப்பட்டுள்ளது மற்றும் உங்கள் பாதுகாப்பு முன்னுரிமையைக் கொண்டு தடுக்கப்பட்டுள்ளது.">
 
