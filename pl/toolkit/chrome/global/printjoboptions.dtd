@@ -15,9 +15,6 @@
 <!ENTITY resolutionInput.label "Rozdzielczość/Jakość:">
 <!ENTITY resolutionInput.accesskey "z">
 
-<!ENTITY cmdInput.label "Polecenie drukowania:" >
-<!ENTITY cmdInput.accesskey "c">
-
 <!ENTITY jobTitleInput.label "Nazwa zadania:">
 <!ENTITY jobTitleInput.accesskey "N">
 
