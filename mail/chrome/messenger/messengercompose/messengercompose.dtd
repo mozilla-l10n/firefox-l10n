@@ -158,6 +158,8 @@
 <!ENTITY bothFormatCmd.accesskey "L">
 <!ENTITY priorityMenu.label "Приоритет">
 <!ENTITY priorityMenu.accesskey "т">
+
+
 <!ENTITY priorityButton.label "Приоритет:">
 <!ENTITY lowestPriorityCmd.label "По-нисък">
 <!ENTITY lowestPriorityCmd.accesskey "с">
