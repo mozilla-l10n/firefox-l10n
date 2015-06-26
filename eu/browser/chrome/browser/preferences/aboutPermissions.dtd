@@ -43,5 +43,6 @@
 
 <!ENTITY fullscreen.label                "Pantaila osoa">
 
+<!ENTITY push.label                      "Jaso push jakinarazpenak">
 <!ENTITY camera.label                    "Erabili kamera">
 <!ENTITY microphone.label                "Erabili mikrofonoa">
