@@ -20,7 +20,7 @@
 <!ENTITY warningDesc.telemetryDesc  "Ele envia automaticamente informações sobre desempenho, hardware, uso e personalizações para &vendorShortName; para tornar o &brandShortName; melhor.">
 <!-- LOCALIZATION NOTE (community.exp.*) This paragraph is shown in "experimental" builds, i.e. Nightly and Aurora builds, instead of the other "community.*" strings below. -->
 
-<!ENTITY community.exp.start        "Envie automaticamente informações sobre desempenho, hardware, uso e personalizações de &vendorShortName; para tornar o &brandShortName; melhor.">
+<!ENTITY community.exp.start        "">
 <!-- LOCALIZATION NOTE (community.exp.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
 <!ENTITY community.exp.mozillaLink  "&vendorShortName;">
 <!ENTITY community.exp.middle       " é um ">
