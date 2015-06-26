@@ -14,10 +14,10 @@
                        for the help button in the menubar but Gnome does not.   -->
 <!ENTITY helpMenuWin.label        "Msaada"> 
 <!ENTITY helpMenuWin.accesskey    "M">
-
-
-
-
+<!ENTITY aboutProduct2.label      "About &brandShortName;">
+<!ENTITY aboutProduct2.accesskey  "A">
+<!ENTITY productHelp2.label       "&brandShortName; Help">
+<!ENTITY productHelp2.accesskey   "H">
 <!ENTITY helpMac.commandkey       "?">
 
 <!ENTITY helpKeyboardShortcuts.label     "Njiamkato za Kibodi">
