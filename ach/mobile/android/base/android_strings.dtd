@@ -104,7 +104,6 @@
 
 <!ENTITY overlay_share_send_tab_btn_label "Cwal bot nyonyo mukene">
 <!ENTITY overlay_share_no_url "Pe kinongo kakube i nwyak man">
-<!ENTITY overlay_share_retry "Tem doki">
 <!ENTITY overlay_share_select_device "Yer nyonyo">
 <!-- Localization note (overlay_no_synced_devices) : Used when the menu option
      to send a tab to a synced device is pressed and no other synced devices
@@ -136,8 +135,6 @@
      search providers.
      The &formatI; in the string will be replaced by a small image of the icon described, and can be moved to wherever
      it is applicable. -->
-
-
 
 
 
@@ -175,20 +172,22 @@
 
 
 
-<!-- Localization note (tab_queue_notification_text_plural) : The
+
+
+
+
+
+
+<!-- Localization note (tab_queue_notification_text_plural2) : The
      formatD is replaced with the number of tabs queued.  The
      number of tabs queued is always more than one.  We can't use
      Android plural forms, sadly. See Bug #753859. -->
-<!-- Localization note (tab_queue_notification_title_plural) : This is the
-     title of a notification; we expect more than one tab queued. -->
-<!-- Localization note (tab_queue_notification_title_singular) : This is the
-     title of a notification; we expect only one tab queued. -->
-<!-- Localization note (tab_queue_notification_text_singular) : This is the
+<!-- Localization note (tab_queue_notification_text_singular2) : This is the
      text of a notification; we expect only one tab queued. -->
 
 <!ENTITY pref_char_encoding "Kit ma Kicoyo Kwede">
 <!ENTITY pref_char_encoding_on "Nyut acaki">
-
+<!ENTITY pref_char_encoding_off "Pe i nyut menu">
 
 <!ENTITY pref_clear_private_data_category "Ywe tic pa dano">
 
@@ -217,6 +216,8 @@ size. -->
 <!-- Localization note (pref_font_size_preview_text): This paragraph is used as an example to
     demonstrate the font size setting.  It is meant to be whimsical and fun. -->
 
+<!ENTITY pref_font_size_preview_text "Orange fox madwir ni pye iwi gen mamegi ki dwiro mapol, ma gome oyot ki ber bedo mapol. Macalo labongo magoba, watye agonya me yubo jami manyen me kakari labongo dic mo keken me winye. Man te lokke ni ber me tic kwede piri ki anyim maleng pi Kakube.">
+
 
 
 
@@ -230,6 +231,7 @@ size. -->
 
 
 
+<!ENTITY pref_private_data_cookies2 "Cokies &amp; donyo iyie ma tiyo">
 
 <!ENTITY pref_private_data_cache "Kagwoko">
 <!ENTITY pref_private_data_offlineApps "Coc kakube me web ma pe iwi yamo">
@@ -341,6 +343,7 @@ size. -->
 
 
 
+
 <!-- Localization note (pref_scroll_title_bar2): Label for setting that controls
      whether or not the dynamic toolbar is enabled. -->
 
@@ -387,6 +390,7 @@ size. -->
 
 
 <!ENTITY button_remember "Poyo">
+
 
 <!ENTITY home_top_sites_title "Kakube maloyo">
 <!-- Localization note (home_top_sites_add): This string is used as placeholder
@@ -524,6 +528,12 @@ ki Android">
      designated space. Use the unicode ellipsis char, \u2026, or use "..." if \u2026 doesn't suit
      traditions in your locale. -->
 
+<!-- LOCALIZATION NOTE (percent): The percent sign is appended after a number to
+     display a percentage value. formatS is the number, #37 is the code to display a percent sign.
+     This format string is typically used by getString method, in such method the percent sign
+     is a reserved caracter. In order to display one percent sign in the result of getString,
+     double percent signs must be inserted in the format string.
+     This entity is used in the zoomed view to display the zoom factor-->
 <!-- These are only used for accessibility for the done and overflow-menu buttons in the actionbar.
      They are never shown to users -->
 <!ENTITY actionbar_done "Otum">

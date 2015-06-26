@@ -11,7 +11,7 @@
 
 
 <!ENTITY connectionFailure.title "Pe romo kubo">
-
+<!ENTITY connectionFailure.longDesc2 "&sharedLongDesc3;">
 
 <!ENTITY deniedPortAccess.title "Kanonge man kigengo woko">
 <!ENTITY deniedPortAccess.longDesc "">
@@ -35,7 +35,7 @@
      or enabling wifi connections. The text inside the tags should be localized. Do not touch the ids. -->
 
 <!ENTITY netInterrupt.title "Onongo kibalo kube woko">
-
+<!ENTITY netInterrupt.longDesc2 "&sharedLongDesc3;">
 
 <!ENTITY notCached.title "Kare me Coc acoya okato woko">
 <!ENTITY notCached.longDesc "<p>Coc acoya ma kikwayo pire pe nonge i &brandShortName;'s cache.</p><ul><li>Macalo bal, &brandShortName; pe romo dok mede kwayo coc acoya ma poo pire kene.</li><li>Dii tem doki wek i kwa coc acoya ki kakube me Web nitit.</li></ul>">
@@ -55,10 +55,10 @@
 </ul>">
 
 <!ENTITY netReset.title "Onongo kitero kube woko nitit">
-
+<!ENTITY netReset.longDesc2 "&sharedLongDesc3;">
 
 <!ENTITY netTimeout.title "Cawa me kube otum woko">
-
+<!ENTITY netTimeout.longDesc2 "&sharedLongDesc3;">
 
 <!ENTITY unknownProtocolFound.title "Kanonge man pe ki niang te">
 <!ENTITY unknownProtocolFound.longDesc "<ul> 
@@ -75,10 +75,17 @@ katic maber.</li>
 <!ENTITY proxyResolveFailure.title "Pe romo nongo lapok tic me proxi">
 <!-- LOCALIZATION NOTE (proxyResolveFailure.longDesc3) This string contains markup including widgets for enabling wifi connections.
      The text inside the tags should be localized. Do not touch the ids. -->
+<!ENTITY proxyResolveFailure.longDesc3 "<ul> 
+<li>Rot ter me proxy me neno ni gi tye kakare.</li> 
+<li>Rot me neno ni nyonyo mamgei tye ki data matiyo onyo kube me Wi-Fi. 
+<button id='wifi'>Cak Wi-Fi</button> 
+</li> 
+</ul>">
 
 <!ENTITY redirectLoop.title "Pot buk pe tye kanyutu kakare">
 <!ENTITY redirectLoop.longDesc "<ul> 
-<li>Peko man gin makelo obedo ki juko onyo kwero yee kube.</li> 
+<li>Peko man kare mukene twero bino pi juko onyo kwero ye 
+cookies.</li> 
 </ul>">
 
 <!ENTITY unknownSocketType.title "Lagam mape okuro ki lapok tic">
@@ -89,7 +96,10 @@ katic maber.</li>
 </ul>">
 
 <!ENTITY nssFailure2.title "Gwoko kubo pe olare">
-
+<!ENTITY nssFailure2.longDesc2 "<ul> 
+<li>Pot buk ma itye katemo neno ne ni pe kitwero nyuto pien pe kitwero moko ada pa data ma kigamo ni.</li> 
+<li>Tim ber i kube ki wegi kakube ne me mini gi ngec pi peko man.</li> 
+</ul>">
 
 <!ENTITY nssBadCert.title "Gwoko Kubo Pe olare">
 <!ENTITY nssBadCert.longDesc2 "<ul> 
@@ -100,6 +110,13 @@ bedo pi tutunu, ki iromo temo doki lacen.</li>
 </ul>">
 <!-- LOCALIZATION NOTE (sharedLongDesc3) This string contains markup including widgets for enabling wifi connections.
      The text inside the tags should be localized. Do not touch the ids. -->
+
+<!ENTITY sharedLongDesc3 "<ul> 
+<li>Twero bedo ni kakube ne pe tye pi tutunu onyo tye ki tic madwong. Tem doki i kare manok.</li> 
+<li>Ka pe itwero cano pot buk mo keken, rot data onyo kube me Wi-Fi me nyonyo mamegi. 
+<button id='wifi'>Cak Wi-Fi</button> 
+</li> 
+</ul>">
 
 <!ENTITY cspBlocked.title "Kigengo ne ki Cik me Gwoko kuc pa jami matye iye">
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; otyeko gengo pot buk man ki pango iyore man pien pot buk tye ki cik me jami matye iye mape yee en.</p>">
