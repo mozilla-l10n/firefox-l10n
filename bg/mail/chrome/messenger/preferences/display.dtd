@@ -5,6 +5,7 @@
 <!ENTITY itemFormatting.label             "Форматиране">
 <!ENTITY itemTags.label                   "Етикети">
 
+
 <!ENTITY style.label                      "Стил:">
 <!ENTITY style.accesskey                  "С">
 <!ENTITY regularStyle.label               "Стандартен">
@@ -44,3 +45,29 @@
 <!ENTITY fontOptions.label       "Допълнителни…">
 <!ENTITY colorButton.label       "Цветове...">
 <!ENTITY colorButton.accesskey   "Ц">
+<!-- Advanced -->
+
+<!ENTITY reading.caption                  "Четене">
+<!ENTITY display.caption                  "Показване">
+<!ENTITY showCondensedAddresses.label     "Aко хората са в моя адресник, се показват само имената им">
+<!ENTITY showCondensedAddresses.accesskey "х">
+
+<!ENTITY autoMarkAsRead.label             "Автоматично маркира писмата като прочетени">
+<!ENTITY autoMarkAsRead.accesskey         "А">
+<!ENTITY markAsReadNoDelay.label          "Незабавно показване">
+<!ENTITY markAsReadNoDelay.accesskey      "з">
+<!-- LOCALIZATION NOTE (markAsReadDelay.label): This will concatenate to
+     "After displaying for [___] seconds",
+     using (markAsReadDelay.label) and a number (secondsLabel.label). -->
+<!ENTITY markAsReadDelay.label            "След показване за">
+<!ENTITY markAsReadDelay.accesskey        "д">
+<!ENTITY secondsLabel.label               "секунди">
+<!ENTITY openMsgIn.label                  "Отваряне съобщенията в:">
+<!ENTITY openMsgInNewTab.label            "Нов подпрозорец">
+<!ENTITY openMsgInNewTab.accesskey        "д">
+<!ENTITY reuseExpRadio0.label             "нов прозорец">
+<!ENTITY reuseExpRadio0.accesskey         "н">
+<!ENTITY reuseExpRadio1.label             "съществуващия прозорец">
+<!ENTITY reuseExpRadio1.accesskey         "с">
+<!ENTITY closeMsgOnMoveOrDelete.label     "Затваряне прозореца/подпрозореца на съобщението при преместване или изтриване">
+<!ENTITY closeMsgOnMoveOrDelete.accesskey "З">
