@@ -14,7 +14,7 @@
 
 <!ENTITY safeb.blocked.unwantedPage.title "Posible pachina de software no deseyau!">
 <!-- Localization note (safeb.blocked.malware.shortDesc) - Please don't translate the contents of the <span id="unwanted_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
-<!ENTITY safeb.blocked.unwantedPage.shortDesc "S'ha informau que o puesto web en <span id='malware_sitename'/> puede estar una web con software no deseyau y s'ha blocau seguntes as suyas preferencias de seguranza.">
+<!ENTITY safeb.blocked.unwantedPage.shortDesc "S'ha informau que o puesto web en <span id='unwanted_sitename'/> puede estar una web con software no deseyau y s'ha blocau seguntes as suyas preferencias de seguranza.">
 <!ENTITY safeb.blocked.unwantedPage.longDesc "<p>As pachinas de software no deseyau mirar d'instalar software que puede estar enganyoso y afectar a o suyo sistema de trazas no asperadas.</p>">
 
 <!ENTITY safeb.blocked.phishingPage.title "S'ha informau que iste puesto web ye una falsificación!">
