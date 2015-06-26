@@ -158,6 +158,8 @@
 <!ENTITY bothFormatCmd.accesskey "a">
 <!ENTITY priorityMenu.label "Lehentasuna">
 <!ENTITY priorityMenu.accesskey "L">
+
+
 <!ENTITY priorityButton.label "Lehentasuna:">
 <!ENTITY lowestPriorityCmd.label "Baxuena">
 <!ENTITY lowestPriorityCmd.accesskey "B">

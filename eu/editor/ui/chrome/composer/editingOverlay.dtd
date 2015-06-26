@@ -15,8 +15,8 @@
 <!ENTITY saveCmd.accesskey "G">
 <!ENTITY saveAsCmd.label "Gorde honela…">
 <!ENTITY saveAsCmd.accesskey "h">
-
-
+<!ENTITY saveAsChangeEncodingCmd2.label "Gorde eta aldatu kodeketa">
+<!ENTITY saveAsChangeEncodingCmd2.accesskey "k">
 <!ENTITY publishCmd.label "Argitaratu">
 <!ENTITY publishCmd.accesskey "A">
 <!ENTITY publishCmd.key "S">

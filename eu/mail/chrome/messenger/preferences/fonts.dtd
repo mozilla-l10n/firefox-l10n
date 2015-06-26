@@ -70,7 +70,7 @@
 
 <!ENTITY sendDefaultCharset.label         "Irteerako posta:">
 <!ENTITY sendDefaultCharset.accesskey     "r">
-
+<!ENTITY languagesTitle2.label            "Testuaren kodeketa">
 
 
 <!ENTITY viewDefaultCharsetList.label     "Sarrerakoa posta:">
