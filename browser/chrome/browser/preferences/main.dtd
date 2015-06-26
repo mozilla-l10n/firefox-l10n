@@ -42,3 +42,4 @@
 <!ENTITY useFirefoxSync.label             "Leid: Úsáideann sé seo dhá phróifíl ar leith. Úsáid Sync le sonraí a chomhroinnt eatarthu.">
 <!ENTITY getStarted.label                 "Tosaigh le Sync…">
 
+<!ENTITY e10sEnabled.label                "Cumasaigh &brandShortName; ilphróisis">
