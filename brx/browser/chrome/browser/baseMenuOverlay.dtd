@@ -14,10 +14,10 @@
                        for the help button in the menubar but Gnome does not.   -->
 <!ENTITY helpMenuWin.label        "मदद (H)"> 
 <!ENTITY helpMenuWin.accesskey    "H">
-
-
-
-
+<!ENTITY aboutProduct2.label      "About &brandShorterName;">
+<!ENTITY aboutProduct2.accesskey  "A">
+<!ENTITY productHelp2.label       "&brandShorterName; Help">
+<!ENTITY productHelp2.accesskey   "H">
 <!ENTITY helpMac.commandkey       "?">
 
 <!ENTITY helpKeyboardShortcuts.label     "गाहाय सोदोब शर्टकाट">
@@ -28,7 +28,8 @@
 
 
 
-
+<!ENTITY healthReport2.label      "&brandShorterName; Health Report">
+<!ENTITY healthReport2.accesskey  "e">
 
 <!ENTITY helpTroubleshootingInfo.label      "जेंना बोस्रांनाय फोरमायथिहोग्रा (T)">
 <!ENTITY helpTroubleshootingInfo.accesskey  "T">
