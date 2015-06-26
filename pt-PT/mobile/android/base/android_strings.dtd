@@ -39,7 +39,7 @@
 
 <!ENTITY choose_file "Escolher ficheiro">
 
-<!ENTITY url_bar_default_text2 "Pesquise ou introduza o endereço">
+<!ENTITY url_bar_default_text2 "Pesquise ou digite um endereço">
 
 <!ENTITY bookmark "Marcador">
 <!ENTITY bookmark_remove "Remover marcador">
@@ -86,7 +86,7 @@
      UI. The locale includes both language and region concepts. -->
 
 <!ENTITY pref_category_language "Idioma">
-<!ENTITY pref_category_language_summary "Mudar o idioma do seu navegador">
+<!ENTITY pref_category_language_summary "Mudar idioma do navegador">
 <!ENTITY pref_browser_locale "Idioma do navegador">
 <!-- Localization note (locale_system_default) : This string indicates that
      Firefox will use the locale currently selected in Android's settings
@@ -212,7 +212,7 @@
 <!ENTITY pref_clear_private_data2 "Limpar agora">
 <!ENTITY pref_clear_private_data_category "Limpar dados privados">
 <!ENTITY pref_clear_on_exit_title2 "Limpar ao sair">
-<!ENTITY pref_clear_on_exit_summary2 "&brandShortName; irá limpar automaticamente os seus dados sempre que selecionar \u0022Sair\u0022 no menu principal">
+<!ENTITY pref_clear_on_exit_summary2 "O &brandShortName; irá limpar automaticamente os seus dados, sempre que no menu principal, selecionar \u0022Sair\u0022">
 <!ENTITY pref_clear_on_exit_dialog_title "Selecionar os dados a limpar">
 <!ENTITY pref_plugins "Plugins">
 <!ENTITY pref_plugins_enabled "Ativado">
@@ -259,7 +259,7 @@ size. -->
 <!ENTITY pref_private_data_cache "Cache">
 <!ENTITY pref_private_data_offlineApps "Dados offline do sítio web">
 <!ENTITY pref_private_data_siteSettings2 "Preferências do sítio">
-<!ENTITY pref_private_data_downloadFiles2 "Transferências">
+<!ENTITY pref_private_data_downloadFiles2 "Descargas">
 
 
 <!ENTITY pref_about_firefox "Sobre o &brandShortName;">
@@ -292,7 +292,7 @@ size. -->
      crashReporterDesc.label). -->
 
 <!ENTITY datareporting_fhr_title "Relatório de estado do &brandShortName;">
-<!ENTITY datareporting_fhr_summary2 "Partilha dados com a  &vendorShortName; sobre o estado do seu navegador e ajuda a compreender o desempenho do navegador">
+<!ENTITY datareporting_fhr_summary2 "Partilha dados com a &vendorShortName; sobre o estado do seu navegador e ajuda a compreender o desempenho do navegador">
 <!ENTITY datareporting_abouthr_title "Ver o relatório do estado">
 <!ENTITY datareporting_telemetry_title "Telemetria">
 <!ENTITY datareporting_telemetry_summary "Partilha dados de desempenho, utilização, hardware e personalização do seu navegador com a &vendorShortName; para nos ajudar a melhorar o &brandShortName;">
@@ -305,7 +305,7 @@ size. -->
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
      actual notification that an update is available. -->
-<!ENTITY pref_update_autodownload2 "Transferir atualizações automaticamente">
+<!ENTITY pref_update_autodownload2 "Descarregar atualizações automaticamente">
 <!ENTITY pref_update_autodownload_wifi "Apenas com Wi-Fi">
 <!ENTITY pref_update_autodownload_never "Nunca">
 <!ENTITY pref_update_autodownload_always "Sempre">
@@ -317,7 +317,7 @@ size. -->
 
 <!ENTITY addons "Extras">
 <!ENTITY logins "Credenciais">
-<!ENTITY downloads "Transferências">
+<!ENTITY downloads "Descargas">
 <!ENTITY apps "Aplicações">
 <!ENTITY char_encoding "Codificação de caracteres">
 
@@ -351,7 +351,7 @@ size. -->
 
 <!ENTITY media_sending_to "A enviar para o dispositivo">
 <!ENTITY media_play "Reproduzir">
-<!ENTITY media_pause "Pausar">
+<!ENTITY media_pause "Pausa">
 <!ENTITY media_stop "Parar">
 
 <!ENTITY contextmenu_open_new_tab "Abrir em novo separador">
@@ -386,7 +386,7 @@ size. -->
 <!-- Localization note (pref_scroll_title_bar2): Label for setting that controls
      whether or not the dynamic toolbar is enabled. -->
 
-<!ENTITY pref_scroll_title_bar2 "Navegação com o ecrã inteiro">
+<!ENTITY pref_scroll_title_bar2 "Navegação em ecrã completo">
 <!ENTITY pref_scroll_title_bar_summary "Ocultar barra de título do &brandShortName; ao deslocar a página para baixo">
 
 <!ENTITY pref_tab_queue_title2 "Abrir várias ligações">
@@ -400,7 +400,7 @@ size. -->
 <!ENTITY bookmark_edit_title "Editar marcador">
 <!ENTITY bookmark_edit_name "Nome">
 <!ENTITY bookmark_edit_location "Localização">
-<!ENTITY bookmark_edit_keyword "Palavra chave">
+<!ENTITY bookmark_edit_keyword "Palavra-chave">
 <!-- Localization note (site_settings_*) : These strings are used in the "Site Settings"
      dialog that appears after selecting the "Edit Site Settings" context menu item. -->
 
@@ -451,7 +451,7 @@ size. -->
 
 <!ENTITY home_title "Página inicial do &brandShortName;">
 <!ENTITY home_history_title "Histórico">
-<!ENTITY home_clear_history_button "Limpar o histórico de navegação">
+<!ENTITY home_clear_history_button "Limpar histórico de navegação">
 <!ENTITY home_clear_history_confirm "Tem a certeza que pretende limpar o seu histórico de navegação?">
 <!ENTITY home_bookmarks_empty "Os marcadores serão mostrados aqui.">
 <!ENTITY home_closed_tabs_title "Separadores fechados recentemente">
@@ -585,9 +585,9 @@ do Android">
 <!ENTITY updater_start_title2 "Atualização disponível para o &brandShortName;">
 <!ENTITY updater_start_select2 "Toque para transferir.">
 
-<!ENTITY updater_downloading_title2 "A transferir &brandShortName;">
-<!ENTITY updater_downloading_title_failed2 "A transferência falhou">
-<!ENTITY updater_downloading_select2 "Toque para aplicar a atualização após transferência">
+<!ENTITY updater_downloading_title2 "A descarregar &brandShortName;">
+<!ENTITY updater_downloading_title_failed2 "Erro ao descarregar">
+<!ENTITY updater_downloading_select2 "Toque para aplicar a atualização ser descarregada">
 <!ENTITY updater_downloading_retry2 "Toque para voltar a tentar">
 
 <!ENTITY updater_apply_title2 "Atualização disponível para o &brandShortName;">
