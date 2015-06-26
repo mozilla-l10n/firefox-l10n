@@ -4,7 +4,6 @@
 
 <!ENTITY itemGeneral.label       "Ginearálta">
 <!ENTITY dataChoicesTab.label    "Roghanna Sonraí">
-<!ENTITY itemDisplay.label       "Léamh agus Taispeáint">
 <!ENTITY itemUpdate.label        "Nuashonrú">
 <!ENTITY itemNetworking.label    "Líonra agus Spás Diosca">
 <!ENTITY itemCertificates.label  "Teastais">
@@ -51,32 +50,6 @@
 <!ENTITY enableCrashReporter.label       "Cumasaigh an Tuairisceoir Tuairteála">
 <!ENTITY enableCrashReporter.accesskey   "C">
 <!ENTITY crashReporterLearnMore.label    "Tuilleadh Eolais">
-<!-- Display and Reading Settings -->
-
-<!ENTITY reading.caption               "Léamh">
-<!ENTITY display.caption               "Taispeáint">
-<!ENTITY showCondensedAddresses.label  "Ná taispeáin ach an t-ainm taispeána le haghaidh daoine atá i mo leabhar seoltaí">
-<!ENTITY showCondensedAddresses.accesskey "s">
-
-<!ENTITY autoMarkAsRead.label          "Marcáil teachtaireachtaí mar léite go huathoibríoch">
-<!ENTITY autoMarkAsRead.accesskey      "u">
-<!ENTITY markAsReadNoDelay.label       "Chomh luath agus a thaispeántar iad">
-<!ENTITY markAsReadNoDelay.accesskey   "o">
-<!-- LOCALIZATION NOTE (markAsReadDelay.label): This will concatenate to
-     "After displaying for [___] seconds",
-     using (markAsReadDelay.label) and a number (secondsLabel.label). -->
-<!ENTITY markAsReadDelay.label         "Tar éis iad a thaispeáint ar feadh">
-<!ENTITY markAsReadDelay.accesskey     "t">
-<!ENTITY secondsLabel.label            "soicind">
-<!ENTITY openMsgIn.label               "Oscail teachtaireachtaí:">
-<!ENTITY openMsgInNewTab.label         "i gcluaisín nua">
-<!ENTITY openMsgInNewTab.accesskey     "n">
-<!ENTITY reuseExpRadio0.label          "i bhfuinneog nua theachtaireachta">
-<!ENTITY reuseExpRadio0.accesskey      "n">
-<!ENTITY reuseExpRadio1.label          "i bhfuinneog theachtaireachta atá ann cheana">
-<!ENTITY reuseExpRadio1.accesskey      "e">
-<!ENTITY closeMsgOnMoveOrDelete.label  "Dún fuinneog/cluaisín na teachtaireachta tar éis a bhogtha nó scriosta">
-<!ENTITY closeMsgOnMoveOrDelete.accesskey "c">
 <!-- Update -->
 
 <!ENTITY updateApp.label                 "Nuashonruithe &brandShortName;:">
