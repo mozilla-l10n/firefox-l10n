@@ -38,7 +38,7 @@
 <!ENTITY fullScreenCmd.label "Ecrã inteiro">
 <!ENTITY fullScreenCmd.accesskey "E">
 
-<!ENTITY useStyleSheetMenu.label "Usar estilo">
+<!ENTITY useStyleSheetMenu.label "Utilizar estilo">
 <!ENTITY useStyleSheetMenu.accesskey "U">
 <!ENTITY useStyleSheetNone.label "Nenhum">
 <!ENTITY useStyleSheetNone.accesskey "N">
@@ -102,7 +102,7 @@
 <!ENTITY cookieAllowSessionCookiesCmd.label "Permitir cookies de sessão deste sítio web">
 <!ENTITY cookieAllowSessionCookiesCmd.accesskey "s">
 <!ENTITY cookieAllowSessionCookiesMsg.label "Este sítio web apenas pode definir cookies para a sessão atual.">
-<!ENTITY cookieCookiesDefaultCmd.label "Usar as permissões de cookies pré-definidas">
+<!ENTITY cookieCookiesDefaultCmd.label "Utilizar permissões pré-definidas de cookies">
 <!ENTITY cookieCookiesDefaultCmd.accesskey "U">
 <!ENTITY cookieCookiesDefaultMsg.label "Os cookies deste sítio web serão aceites ou rejeitados baseado nas pré-definições.">
 <!ENTITY cookieBlockCookiesCmd.label "Bloquear cookies deste sítio web">
@@ -115,7 +115,7 @@
 <!ENTITY cookieAllowImagesCmd.label "Permitir imagens deste sítio web">
 <!ENTITY cookieAllowImagesCmd.accesskey "a">
 <!ENTITY cookieAllowImagesMsg.label "As imagens deste sítio web serão sempre transferidas.">
-<!ENTITY cookieImagesDefaultCmd.label "Usar as permissões de imagem pré-definidas">
+<!ENTITY cookieImagesDefaultCmd.label "Utilizar permissões pré-definidas de imagem">
 <!ENTITY cookieImagesDefaultCmd.accesskey "U">
 <!ENTITY cookieImagesDefaultMsg.label "As imagens deste sítio web serão transferidas com base nas pré-definições.">
 <!ENTITY cookieBlockImagesCmd.label "Bloquear imagens deste sítio web">

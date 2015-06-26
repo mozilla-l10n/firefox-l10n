@@ -7,7 +7,7 @@
 
 <!ENTITY prefDirect.label                    "Opções de ligação direta">
 <!ENTITY prefProxy.label                     "Opções de ligação proxy">
-<!ENTITY prefEnableHTTP10.label              "Usar HTTP 1.0">
+<!ENTITY prefEnableHTTP10.label              "Utilizar HTTP 1.0">
 <!ENTITY prefEnableHTTP10.accesskey          "U">
 <!ENTITY prefEnableHTTP10Proxy.accesskey     "S">
 <!ENTITY prefEnableHTTP11.label              "Usar HTTP 1.1">
@@ -16,7 +16,7 @@
 <!ENTITY prefEnablePipelining.label          "Ativar pipelining">
 <!ENTITY prefEnablePipelining.accesskey      "p">
 <!ENTITY prefEnablePipeliningProxy.accesskey "N">
-<!ENTITY prefPara                            "As ligações HTTP podem ser afinadas usando estas opções para melhorar a performance ou a compatibilidade. Alguns servidores proxy, por exemplo, são conhecidos por necessitar de HTTP/1.0 (veja as notas de lançamento para mais detalhes).">
+<!ENTITY prefPara                            "As ligações HTTP podem ser ajustadas utilizando estas opções para melhorar o desempenho ou  compatibilidade. Alguns servidores proxy são conhecidos por necessitar de HTTP/1.0 (veja as notas de lançamento para mais detalhes).">
 <!ENTITY prefPipeWarning                     "Nota: pipelining é uma funcionalidade experimental, desenhada para melhorar o desempenho do carregamento de páginas que, infelizmente, não é bem suportada por alguns servidores e proxies.">
 <!ENTITY prefUseragent.label                 "String do agente de utilizador">
 <!ENTITY prefFirefoxCompat.label             "Anunciar compatibilidade do Firefox">

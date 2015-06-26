@@ -11,7 +11,7 @@
 <!ENTITY directoryBaseDN.accesskey         "b">
 <!ENTITY findButton.label                  "Localizar">
 <!ENTITY findButton.accesskey              "L">
-<!ENTITY directorySecure.label             "Usar ligação segura (SSL)">
+<!ENTITY directorySecure.label             "Utilizar ligação segura (SSL)">
 <!ENTITY directorySecure.accesskey         "U">
 <!ENTITY directoryLogin.label              "Bind DN: ">
 <!ENTITY directoryLogin.accesskey          "i">

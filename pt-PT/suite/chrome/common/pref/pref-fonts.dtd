@@ -11,7 +11,7 @@
 <!ENTITY  language.accesskey                      "t">
 
 <!ENTITY  typefaces.label                         "Tipo de fonte">
-<!ENTITY  sizes.label                             "Tamanho (pixéis)">
+<!ENTITY  sizes.label                             "Tamanho (pixeis)">
 
 <!ENTITY  proportional.label                      "Proporcional:">
 <!ENTITY  proportional.accesskey                  "P">
@@ -70,5 +70,5 @@
 
 
 <!ENTITY  header2                                 "Quando uma página web escolhe o seu próprio tipo de letra">
-<!ENTITY  useDefaultFont.label                    "Usar os meus tipos de letra pré-definidos, ignorando os tipos de letra que a página escolheu">
+<!ENTITY  useDefaultFont.label                    "Utilizar os tipos de letra pré-definidos, ignorando os tipos de letra da página">
 <!ENTITY  useDefaultFont.accesskey                "U">

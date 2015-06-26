@@ -26,10 +26,10 @@
 <!-- LOCALIZATION NOTE (someProvColors): This is the start of a sentence and will be followed by the following radio buttons. -->
 <!ENTITY someProvColors                    "Quando uma página web fornece as suas próprias cores e fundo">
 <!-- LOCALIZATION NOTE (alwaysUseDocColors.label): This is option one, and it appends to 'someProvColors' above. -->
-<!ENTITY alwaysUseDocumentColors.label     "Usar sempre as cores e fundo especificados pela página web">
-<!ENTITY alwaysUseDocumentColors.accesskey "U">
+<!ENTITY alwaysUseDocumentColors.label     "Utilizar sempre as cores e o fundo especificado pela página web">
+<!ENTITY alwaysUseDocumentColors.accesskey "a">
 <!-- LOCALIZATION NOTE (ignoreDocColors.label): This is option two, and it appends to 'someProvColors' above.  -->
-<!ENTITY useMyColors.label                 "Usar as minhas cores escolhidas, ignorando as cores e fundo especificados">
+<!ENTITY useMyColors.label                 "Utilizar as minhas cores, ignorando as cores e fundo especificados">
 <!ENTITY useMyColors.accesskey             "m">
 <!ENTITY automaticColors.label             "Apenas ignorar as cores da página quando estiver a utilizar um tema de elevado contraste">
 <!ENTITY automaticColors.accesskey         "A">

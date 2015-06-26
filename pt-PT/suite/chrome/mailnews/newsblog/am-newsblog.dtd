@@ -9,7 +9,7 @@
 <!ENTITY loginAtStartup.label "Procurar novos artigos ao iniciar"> 
 <!ENTITY loginAtStartup.accesskey "c">
 
-<!ENTITY useQuickMode.label "Por pré-definição, mostrar o conteúdo do item em vez de carregar a página web"> 
+<!ENTITY useQuickMode.label "Por definição, mostrar o conteúdo do item em vez de carregar a página web"> 
 <!ENTITY useQuickMode.accesskey "P">
 
 <!ENTITY manageSubscriptions.label "Gerir subscrições…"> 

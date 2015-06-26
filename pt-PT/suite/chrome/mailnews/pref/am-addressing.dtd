@@ -15,8 +15,8 @@
 <!ENTITY editDirectories.label     "A editar pastas...">
 <!ENTITY editDirectories.accesskey "d">
 <!-- LOCALIZATION NOTE (directories.label) : do not translate "LDAP" in below line -->
-<!ENTITY directories.label         "Usar um servidor LDAP diferente:">
-<!ENTITY directories.accesskey     "r">
+<!ENTITY directories.label         "Utilizar um servidor LDAP diferente:">
+<!ENTITY directories.accesskey     "D">
 <!ENTITY directoriesNone.label     "Nenhum">
 <!-- am-addressing.xul -->
 

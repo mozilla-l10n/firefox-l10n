@@ -100,7 +100,7 @@
 <!ENTITY thisFrameMenu.accesskey      "o">
 <!ENTITY mediaPlay.label              "Reproduzir">
 <!ENTITY mediaPlay.accesskey          "p">
-<!ENTITY mediaPause.label             "Pausar">
+<!ENTITY mediaPause.label             "Pausa">
 <!ENTITY mediaPause.accesskey         "P">
 <!ENTITY mediaMute.label              "Sem som">
 <!ENTITY mediaMute.accesskey          "m">
@@ -147,5 +147,5 @@ items are mutually exclusive. -->
 <!ENTITY spellNoSuggestions.label       "(nenhuma sugestão)">
 <!ENTITY spellDictionaries.label        "Idiomas">
 <!ENTITY spellDictionaries.accesskey    "I">
-<!ENTITY spellAddDictionaries.label     "Transferir mais dicionários…">
+<!ENTITY spellAddDictionaries.label     "Descarregar mais dicionários…">
 <!ENTITY spellAddDictionaries.accesskey "d">

@@ -2,14 +2,14 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY pref.download.title            "Transferências">
+<!ENTITY pref.download.title            "Descargas">
 
-<!ENTITY downloadBehavior.label         "Ao iniciar uma transferência">
+<!ENTITY downloadBehavior.label         "Ao iniciar uma descarga">
 <!ENTITY doNothing.label                "Não abrir nada">
 <!ENTITY doNothing.accesskey            "d">
 <!ENTITY openProgressDialog.label       "Abrir um diálogo de progresso">
 <!ENTITY openProgressDialog.accesskey   "o">
-<!ENTITY openDM.label                   "Abrir o gestor de transferências">
+<!ENTITY openDM.label                   "Abrir o gestor de descargas">
 <!ENTITY openDM.accesskey               "g">
 <!ENTITY flashWhenOpen.label            "Piscar apenas o gestor de transferências se já estiver aberto">
 <!ENTITY flashWhenOpen.accesskey        "f">
@@ -22,14 +22,14 @@
 <!ENTITY alwaysAsk.label                "Perguntar-me sempre onde guardar os ficheiros">
 <!ENTITY alwaysAsk.accesskey            "P">
 
-<!ENTITY downloadHistory.label          "Histórico de transferências">
-<!ENTITY removeEntries.label            "Remover entradas de transferências">
+<!ENTITY downloadHistory.label          "Histórico de descargas">
+<!ENTITY removeEntries.label            "Remover entradas de descargas">
 <!ENTITY removeEntries.accesskey        "R">
-<!ENTITY whenCompleted.label            "Quando forem terminadas">
+<!ENTITY whenCompleted.label            "Ao terminar">
 <!ENTITY whenQuittingApp.label          "Ao sair do &brandShortName;">
 <!ENTITY neverRemove.label              "Nunca">
 
-<!ENTITY finishedBehavior.label         "Ao terminar a transferência">
+<!ENTITY finishedBehavior.label         "Ao terminar a descarga">
 <!ENTITY playSound.label                "Tocar um som">
 <!ENTITY playSound.accesskey            "s">
 <!ENTITY showAlert.label                "Mostrar um alerta">

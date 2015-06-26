@@ -10,7 +10,7 @@
 <!ENTITY cachePara                       "A cache mantém cópias das páginas web visitadas frequentemente no seu disco rígido. (Clicar em Recarregar mostra sempre a última versão da página.)">
 <!ENTITY cacheCheck.label                "Deixar o &brandShortName; gerir o tamanho da cache.">
 <!ENTITY cacheCheck.accesskey            "D">
-<!ENTITY diskCacheUpTo.label             "Usar até">
+<!ENTITY diskCacheUpTo.label             "Utilizar até">
 <!ENTITY diskCacheUpTo.accesskey         "U">
 <!ENTITY spaceMbytes                     "MB de espaço em disco para a cache.">
 <!ENTITY diskCacheFolder.label           "Localização da pasta da cache:">
