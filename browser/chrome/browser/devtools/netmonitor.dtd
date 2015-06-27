@@ -78,6 +78,10 @@
 <!ENTITY netmonitorUI.context.copyResponse.accesskey "и">
 <!ENTITY netmonitorUI.context.copyImageAsDataUri "Копировать изображение как URL данных">
 <!ENTITY netmonitorUI.context.copyImageAsDataUri.accesskey "ж">
+<!ENTITY netmonitorUI.context.copyAllAsHar "Копировать всё как HAR">
+<!ENTITY netmonitorUI.context.copyAllAsHar.accesskey "п">
+<!ENTITY netmonitorUI.context.saveAllAsHar "Сохранить всё как HAR">
+<!ENTITY netmonitorUI.context.saveAllAsHar.accesskey "х">
 <!ENTITY netmonitorUI.summary.editAndResend "Изменить и снова отправить">
 <!ENTITY netmonitorUI.summary.editAndResend.accesskey "м">
 <!ENTITY netmonitorUI.summary.rawHeaders "Необработанные заголовки">

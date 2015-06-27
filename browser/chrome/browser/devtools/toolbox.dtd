@@ -15,6 +15,8 @@
 <!ENTITY toolboxZoomOut.key "-">
 <!ENTITY toolboxZoomReset.key "0">
 <!ENTITY toolboxReload.key "r">
+<!ENTITY toolboxToggleMinimize.key "U">
+<!ENTITY toolboxToggle.key "d">
 <!ENTITY toolboxFramesTooltip "Выберите iframe в качестве текущего целевого документа">
 <!ENTITY browserToolboxErrorMessage "Ошибка открытия Инструментов браузера:">
 <!ENTITY options.context.advancedSettings "Дополнительные параметры">
@@ -32,6 +34,8 @@
 <!ENTITY options.enableChrome.tooltip3 "Включение этой опции позволит вам использовать различные инструменты разработчика в контексте браузера (через Инструменты > Веб-разработка > Инструменты браузера) и отлаживать дополнения из окна Управления дополнениями">
 <!ENTITY options.enableRemote.label3 "Включить удалённую отладку">
 <!ENTITY options.enableRemote.tooltip "Включение этой опции позволит использовать инструменты разработчика для отладки удаленного экземпляра Firefox, такого как Firefox OS">
+<!ENTITY options.enableWorkers.label "Включить отладку worker (в разработке)">
+<!ENTITY options.enableWorkers.tooltip "Включение этой опции позволит использовать инструменты разработчика для отладки workers">
 <!ENTITY options.disableJavaScript.label "Отключить JavaScript *">
 <!ENTITY options.disableJavaScript.tooltip "Включение этой опции приведёт к отключению JavaScript для текущей вкладки. Если вкладка или панель инструментов будут закрыты, то этот параметр будет забыт.">
 <!ENTITY options.disableCache.label2 "Отключить кэш (когда открыта панель инструментов)">

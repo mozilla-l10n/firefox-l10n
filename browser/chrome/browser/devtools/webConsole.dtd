@@ -64,3 +64,5 @@
 <!ENTITY closeCmd.key "W">
 <!ENTITY findCmd.key "F">
 <!ENTITY clearOutputCtrl.key "L">
+<!ENTITY openInVarViewCmd.label "Открыть в Виде Переменных">
+<!ENTITY openInVarViewCmd.accesskey "ы">

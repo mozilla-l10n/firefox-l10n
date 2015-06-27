@@ -34,6 +34,7 @@
 <!ENTITY largerFont.label "Увеличить шрифт">
 <!ENTITY largerFont.accesskey "л">
 <!ENTITY largerFont.commandkey "+">
+<!ENTITY largerFont.commandkey2 "=">
 <!ENTITY smallerFont.label "Уменьшить шрифт">
 <!ENTITY smallerFont.accesskey "м">
 <!ENTITY smallerFont.commandkey "-">
