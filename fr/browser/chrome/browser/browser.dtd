@@ -112,6 +112,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllTabsCmd.accesskey "A">
 
 <!ENTITY fxaSignIn.label "Se connecter à &syncBrand.shortName.label;">
+<!ENTITY fxaSignedIn.tooltip "Ouvrir les préférences de &syncBrand.shortName.label;">
 <!ENTITY fxaSignInError.label "Se reconnecter à &syncBrand.shortName.label;">
 <!ENTITY syncStartPanel2.heading "&syncBrand.shortName.label; activé">
 <!ENTITY syncStartPanel2.subTitle "&brandShortName; débutera la synchronisation dans un instant.">
@@ -672,6 +673,9 @@ you can use these alternative items. Otherwise, their values should be empty.
 
 <!ENTITY identity.connectionSecure "Connexion sécurisée">
 <!ENTITY identity.connectionNotSecure "Connexion non sécurisée">
+<!ENTITY identity.connectionVerified "&brandShortName; a vérifié que vous êtes connecté de façon sécurisée à ce site, dont le détenteur est :">
+<!ENTITY identity.connectionInternal "Ceci est une page sécurisée de &brandShortName;.">
+
 <!ENTITY identity.moreInfoLinkText2 "Plus d'informations">
 
 <!ENTITY identity.permissions "Permissions">
