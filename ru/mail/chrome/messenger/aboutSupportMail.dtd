@@ -14,4 +14,5 @@
 <!ENTITY aboutSupport.accountsConnSecurity "Защита соединения">
 <!ENTITY aboutSupport.accountsAuthMethod "Метод аутентификации">
 <!ENTITY aboutSupport.accountsDefault "По умолчанию?">
+<!ENTITY aboutSupport.identityName "Идентификатор">
 <!ENTITY aboutSupport.sendViaEmail.label "Послать по почте">

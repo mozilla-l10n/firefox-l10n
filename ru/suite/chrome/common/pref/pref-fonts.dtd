@@ -46,6 +46,7 @@
 <!ENTITY font.langGroup.gurmukhi "Гурмуки">
 <!ENTITY font.langGroup.khmer "Кхмерский">
 <!ENTITY font.langGroup.malayalam "Малайялам">
+<!ENTITY font.langGroup.math "Математика">
 <!ENTITY minSize.label "Наименьший размер шрифта:">
 <!ENTITY minSize.accesskey "Н">
 <!ENTITY minSize.none "Нет">

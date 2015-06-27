@@ -410,6 +410,10 @@
 <!ENTITY throbber.tooltip "Перейти на домашнюю страницу &vendorShortName;">
 <!ENTITY junkButton.tooltip "Отметить выбранные сообщения как спам">
 <!ENTITY notJunkButton.tooltip "Отметить выбранные сообщение как не спам">
+<!ENTITY remoteContentOptionsAllowForMsg.label "Показать содержимое из Интернета в этом сообщении">
+<!ENTITY remoteContentOptionsAllowForMsg.accesskey "о">
+<!ENTITY editRemoteContentSettings.label "Изменить разрешения для содержимого из Интернета…">
+<!ENTITY editRemoteContentSettings.accesskey "м">
 <!ENTITY statusText.label "Готово">
 <!ENTITY contextOpenNewWindow.label "Открыть в новом окне">
 <!ENTITY contextOpenNewWindow.accesskey "н">
