@@ -79,6 +79,8 @@
 <!ENTITY options.enableChrome.tooltip3 "Włączenie tej opcji pozwoli na używanie wielu narzędzi dla programistów w kontekście przeglądarki (poprzez Narzędzia > Dla twórców witryn > Narzędzia przeglądarki) i debugowanie dodatków z menedżera dodatków">
 <!ENTITY options.enableRemote.label3 "Debugowanie zdalne">
 <!ENTITY options.enableRemote.tooltip "Włączenie tej opcji pozwoli na debugowanie zdalnych instancji Firefoksa takich jak Firefox OS z poziomu narzędzi dla programistów">
+<!ENTITY options.enableWorkers.label "Debugowanie wątków (eksperymentalne)">
+<!ENTITY options.enableWorkers.tooltip "Włączenie tej opcji pozwoli narzędziom przeglądarki na debugowanie wątków">
 <!ENTITY options.disableJavaScript.label "Wyłącz JavaScript *">
 <!ENTITY options.disableJavaScript.tooltip "Wyłącza JavaScript w aktualnej karcie. Jeśli karta lub narzędzia zostaną zamknięte, ustawienie zostanie zapomniane.">
 <!ENTITY options.disableCache.label2 "Wyłącz pamięć podręczną (gdy otworzone są narzędzia)">

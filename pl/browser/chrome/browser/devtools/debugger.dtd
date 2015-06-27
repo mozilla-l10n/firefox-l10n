@@ -66,6 +66,7 @@
 <!ENTITY debuggerUI.seMenuAddWatch "Utwórz obserwowane wyrażenie z zaznaczenia">
 <!ENTITY debuggerUI.seMenuAddWatch.key "E">
 
+<!ENTITY debuggerUI.tabs.workers "Wątki">
 <!ENTITY debuggerUI.tabs.sources "Źródła">
 <!ENTITY debuggerUI.tabs.callstack "Stos wywołań">
 <!ENTITY debuggerUI.tabs.traces "Ślady stosu">
