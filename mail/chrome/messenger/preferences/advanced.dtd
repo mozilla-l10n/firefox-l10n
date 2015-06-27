@@ -4,7 +4,6 @@
 
 <!ENTITY itemGeneral.label "Основные">
 <!ENTITY dataChoicesTab.label "Выбор данных">
-<!ENTITY itemDisplay.label "Чтение и отображение">
 <!ENTITY itemUpdate.label "Обновления">
 <!ENTITY itemNetworking.label "Сеть и дисковое пространство">
 <!ENTITY itemCertificates.label "Сертификаты">
@@ -44,26 +43,6 @@
 <!ENTITY enableCrashReporter.label "Включить отправку сообщений о падении">
 <!ENTITY enableCrashReporter.accesskey "л">
 <!ENTITY crashReporterLearnMore.label "Подробнее">
-<!ENTITY reading.caption "Чтение">
-<!ENTITY display.caption "Отображение">
-<!ENTITY showCondensedAddresses.label "Показывать только имя для людей, находящихся в моей адресной книге">
-<!ENTITY showCondensedAddresses.accesskey "к">
-<!ENTITY autoMarkAsRead.label "Автоматически отмечать сообщения как прочитанные">
-<!ENTITY autoMarkAsRead.accesskey "в">
-<!ENTITY markAsReadNoDelay.label "Немедленно при просмотре">
-<!ENTITY markAsReadNoDelay.accesskey "м">
-<!ENTITY markAsReadDelay.label "После просмотра в течение">
-<!ENTITY markAsReadDelay.accesskey "т">
-<!ENTITY secondsLabel.label "сек.">
-<!ENTITY openMsgIn.label "Открывать сообщения в:">
-<!ENTITY openMsgInNewTab.label "новой вкладке">
-<!ENTITY openMsgInNewTab.accesskey "к">
-<!ENTITY reuseExpRadio0.label "новом окне">
-<!ENTITY reuseExpRadio0.accesskey "о">
-<!ENTITY reuseExpRadio1.label "уже существующем окне">
-<!ENTITY reuseExpRadio1.accesskey "ж">
-<!ENTITY closeMsgOnMoveOrDelete.label "Закрывать окно/вкладку сообщения при его перемещении или удалении">
-<!ENTITY closeMsgOnMoveOrDelete.accesskey "к">
 <!ENTITY updateApp.label "Обновления &brandShortName;:">
 <!ENTITY updateAuto.label "Автоматически устанавливать обновления (рекомендовано: повышает безопасность)">
 <!ENTITY updateAuto.accesskey "м">
