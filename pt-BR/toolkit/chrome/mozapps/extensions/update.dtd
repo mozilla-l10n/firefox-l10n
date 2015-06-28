@@ -13,7 +13,7 @@ temas compatíveis com esta versão.">
 
 <!ENTITY  mismatch.win.title              "Complementos incompatíveis">
 <!ENTITY  mismatch.top.label              "Alguns complementos não são compatíveis com esta versão do 
-&brandShortName; e foram desativadas:">
+&brandShortName; e foram desativados:">
 <!ENTITY  mismatch.bottom.label           "O &brandShortName; pode verificar se há versões compatíveis 
 destes complementos.">
 

@@ -75,7 +75,7 @@ both, to better adapt this sentence to their language.
 <!ENTITY verify.label                "Confirmar email">
 <!ENTITY forget.label                "Esquecer este email">
 
-<!ENTITY welcome.description "Accesse suas abas, favoritos, senhas e mais sempre que usar o &brandShortName;.">
+<!ENTITY welcome.description "Acesse suas abas, favoritos, senhas e muito mais sempre que usar o &brandShortName;.">
 <!ENTITY welcome.signIn.label "Identificar-se">
 <!ENTITY welcome.createAccount.label "Criar conta">
 

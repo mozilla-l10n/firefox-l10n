@@ -8,7 +8,7 @@
   - documentation on web development on the web. -->
 
 
-<!ENTITY window.title "Console da web">
+<!ENTITY window.title "Console web">
 <!ENTITY browserConsole.title "Console do navegador">
 
 <!ENTITY networkPanel.requestURLColon             "URL do pedido:">
@@ -66,7 +66,7 @@
   -  the page for debugging purposes, using calls such console.log() and
   -  console.error(). -->
 
-<!ENTITY btnPageLogging.label   "Console">
+<!ENTITY btnPageLogging.label   "Registo">
 <!ENTITY btnPageLogging.tooltip "Registrar chamadas ao objeto window.console">
 <!ENTITY btnPageLogging.accesskey3 "o">
 <!ENTITY btnConsoleErrors       "Erros">

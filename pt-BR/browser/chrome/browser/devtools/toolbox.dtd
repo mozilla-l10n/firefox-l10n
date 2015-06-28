@@ -140,12 +140,12 @@
 <!-- LOCALIZATION NOTE (options.webconsole.label): This is the label for the
   -  heading of the group of Web Console preferences in the options panel. -->
 
-<!ENTITY options.webconsole.label            "Console da web">
+<!ENTITY options.webconsole.label            "Console web">
 <!-- LOCALIZATION NOTE (options.timestampMessages.label): This is the
    - label for the checkbox that toggles timestamps in the Web Console -->
 
 <!ENTITY options.timestampMessages.label      "Exibir hora">
-<!ENTITY options.timestampMessages.tooltip    "Esta opção fará o console da web exibir a hora de um comando ou saída">
+<!ENTITY options.timestampMessages.tooltip    "Se ativar esta opção os comandos e o resultado do console web serão mostrados com a hora">
 <!-- LOCALIZATION NOTE (options.styleeditor.label): This is the label for the
   -  heading of the group of Style Editor preferences in the options
   -  panel. -->
@@ -177,7 +177,7 @@
   -  about:config, in the options panel. -->
 
 <!ENTITY options.enablePersistentLogs.label    "Ativar logs persistentes">
-<!ENTITY options.enablePersistentLogs.tooltip  "Se ativar está opção fará o console da web e monitoramento da rede não limparem a saída quando você abrir outra página">
+<!ENTITY options.enablePersistentLogs.tooltip  "Se ativar está opção fará o console web e monitoramento da rede não limparem a saída quando você abrir outra página">
 <!-- LOCALIZATION NOTE (options.showPlatformData.label): This is the
   -  label for the checkbox that toggles the display of the platform data in the,
   -  Profiler i.e. devtools.profiler.ui.show-platform-data a boolean preference
