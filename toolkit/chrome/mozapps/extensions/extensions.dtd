@@ -12,9 +12,9 @@
 <!ENTITY loading.label                        "Carregando…">
 <!ENTITY listEmpty.installed.label            "Não há nenhum complemento deste tipo instalado">
 <!ENTITY listEmpty.availableUpdates.label     "Nenhuma atualização encontrada.">
-<!ENTITY listEmpty.recentUpdates.label        "Não há atualização recente de nenhum complemento.">
+<!ENTITY listEmpty.recentUpdates.label        "Não há atualização recente de nenhum complemento">
 <!ENTITY listEmpty.findUpdates.label          "Verificar atualizações">
-<!ENTITY listEmpty.search.label               "Nenhum complemento encontrado.">
+<!ENTITY listEmpty.search.label               "Nenhum complemento encontrado correspondente">
 <!ENTITY listEmpty.button.label               "Saiba mais sobre complementos">
 <!ENTITY installAddonFromFile.label           "Instalar de um arquivo…">
 <!ENTITY installAddonFromFile.accesskey       "I">
@@ -67,7 +67,7 @@
 <!ENTITY updates.resetUpdatesToManual.accesskey      "D">
 <!ENTITY updates.updating.label               "Atualizando complementos…">
 <!ENTITY updates.installed.label              "Seus complementos foram atualizados.">
-<!ENTITY updates.downloaded.label             "As atualizações de seus complementos foram recebidas.">
+<!ENTITY updates.downloaded.label             "As atualizações de seus complementos foram baixadas.">
 <!ENTITY updates.restart.label                "Reinicie agora para concluir a instalação">
 <!ENTITY updates.noneFound.label              "Nenhuma atualização encontrada">
 <!ENTITY updates.manualUpdatesFound.label     "Exibir atualizações disponíveis">

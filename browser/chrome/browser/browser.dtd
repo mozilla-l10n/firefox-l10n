@@ -726,7 +726,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY social.toggleNotifications.label "Exibir notificações no desktop">
 <!ENTITY social.toggleNotifications.accesskey "E">
 
-<!ENTITY social.activated.description "Os serviços do <label/> foram ativados. Você pode alterar as configurações dos serviços no <label class='text-link'>gerenciador de complementos</label>.">
+<!ENTITY social.activated.description "Os serviços do <label/> foram ativados. Você pode alterar as configurações dos serviços no <label class='text-link'>Gerenciador de complementos</label>.">
 <!ENTITY social.activated.undo.label "Epa, desfazer isso!">
 <!ENTITY social.activated.undo.accesskey "E">
 <!ENTITY social.learnMore.label "Saiba mais…">
