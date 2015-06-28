@@ -2,12 +2,15 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY privatebrowsingpage.title                  "Navigation privée">
+<!ENTITY privatebrowsingpage.title "Navigation privée">
+<!ENTITY privatebrowsingpage.title.normal "Vous n'êtes pas en mode de navigation privée">
 
-<!ENTITY privatebrowsingpage.issueDesc.private      "Vous avez ouvert un nouvel onglet de navigation privée.">
-<!ENTITY privatebrowsingpage.issueDesc.normal       "Ceci n'est pas un onglet de navigation privée.">
+<!ENTITY privatebrowsingpage.issueDesc.normal2 "En mode de navigation privée, nous ne conserverons aucun historique de navigation ni cookie.">
+<!ENTITY privatebrowsingpage.issueDesc.private2 "Nous ne conserverons aucun historique de navigation ni cookie.">
 
-<!ENTITY privatebrowsingpage.description            "Dans les onglets de navigation privée, &brandShortName; ne conservera aucun historique de navigation, de recherche, de téléchargement, de formulaire web, de cookies ou de fichiers temporaires Internet. Cependant, les fichiers téléchargés ou les marque-pages ajoutés seront conservés.">
-<!ENTITY privatebrowsingpage.description.private    "&privatebrowsingpage.issueDesc.private; &privatebrowsingpage.description;">
+<!ENTITY privatebrowsingpage.description2 "Les fichiers téléchargés ou les marque-pages ajoutés seront toujours conservés sur votre appareil.">
+<!ENTITY privatebrowsingpage.description.normal "&privatebrowsingpage.issueDesc.normal2; &privatebrowsingpage.description2;">
+<!ENTITY privatebrowsingpage.description.private2 "&privatebrowsingpage.issueDesc.private2; &privatebrowsingpage.description2;">
 
-<!ENTITY privatebrowsingpage.moreInfo               "Bien que cet appareil ne conserve aucun enregistrement de votre historique de navigation, votre fournisseur d'accès à Internet peut toujours connaître les pages que vous visitez.">
+<!ENTITY privatebrowsingpage.link.private "En savoir plus">
+<!ENTITY privatebrowsingpage.link.normal "Ouvrir un nouvel onglet privé">
