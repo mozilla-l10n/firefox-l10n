@@ -2,13 +2,18 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY aboutPrivateBrowsing.title            "আপনি ব্যাক্তিগত ব্রাউজিং করছেন">
+<!ENTITY aboutPrivateBrowsing.title.normal     "একটি ব্যক্তিগত উইন্ডো খুলবেন?">
 
 <!ENTITY aboutPrivateBrowsing.subtitle         "&brandShortName; এই উইন্ডোর কোনো ইতিহাস মনে রাখবে না।">
+<!ENTITY aboutPrivateBrowsing.subtitle.normal  "&brandShortName; এই উইন্ডোর কোনো ইতিহাস মনে রাখবে না।">
 
+<!ENTITY aboutPrivateBrowsing.description      "এটা ব্রাউজিং ইতিহাস, অনুসন্ধান ইতিহাস, ডাউনলোডসমূহ, ওয়েব ফর্ম ইতিহাস, কুকিস অার অস্থায়ী ইন্টারনেট ফাইলসমূহ অন্তর্ভুক্ত করে। যাই হোক, আপনার ডাউনলোড করা ফাইল এবং বুকমার্ক সংকলন রাখা হবে।">
 
+<!ENTITY aboutPrivateBrowsing.notPrivate       "আপনি বর্তমানে কোনো ব্যক্তিগত উইন্ডোতে নেই।">
 
-
-
+<!ENTITY aboutPrivateBrowsing.moreInfo         "যদিও এই কম্পিউটারে আপনার ব্রাউজিং ইতিহাসের কোন রেকর্ড থাকবে না, আপনার ইন্টারনেট সেবা প্রদানকারী বা আপনার কর্মকর্তাগন আপনার পরিদর্শিত পাতাগুলো অবলোকন করতে পারে।">
+<!ENTITY aboutPrivateBrowsing.learnMore        "আরও জানুন।">
 
 <!ENTITY privatebrowsingpage.openPrivateWindow.label "একটি ব্যক্তিগত উইন্ডো খুলুন P">
 <!ENTITY privatebrowsingpage.openPrivateWindow.accesskey "P">

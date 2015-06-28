@@ -4,7 +4,7 @@
 
 <!ENTITY aboutAccounts.welcome "&syncBrand.shortName.label; এ স্বাগতম">
 
-<!ENTITY aboutAccountsConfig.description "আপনার ট্যাব, বুকমার্ক, পাসওয়ার্ডসহ &amp; আরও অনেক কিছু সিঙ্ক করতে সাইন ইন করুন।">
+<!ENTITY aboutAccountsConfig.description "আপনার ট্যাব, বুকমার্ক, পাসওয়ার্ডসহ আরও অনেক কিছু সিঙ্ক করতে সাইন ইন করুন।">
 <!ENTITY aboutAccountsConfig.startButton.label "আসুন শুরু করি">
 <!ENTITY aboutAccountsConfig.useOldSync.label "পুরনো সিঙ্ক ব্যবহার করছেন?">
 <!ENTITY aboutAccountsConfig.manage.label "ব্যবস্থাপনা">
