@@ -678,6 +678,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY identity.connectionSecure "Conexión segura">
 <!ENTITY identity.connectionNotSecure "Conexión insegura">
+<!ENTITY identity.connectionVerified "&brandShortName; verificó que está en una conexión segura a este sitio, provisto por:">
+<!ENTITY identity.connectionInternal "Esta es una página de &brandShortName; segura.">
 
 <!ENTITY identity.moreInfoLinkText2 "Más información">
 
