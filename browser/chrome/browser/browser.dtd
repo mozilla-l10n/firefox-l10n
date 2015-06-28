@@ -154,7 +154,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 
 
-
+<!ENTITY feedsMenu.label "সাবস্ক্রাইব">
 <!ENTITY subscribeToPageMenupopup.label "এই পৃষ্ঠায় সাবস্ক্রাইব করা হবে">
 <!ENTITY subscribeToPageMenuitem.label "এই পৃষ্ঠায় সাবস্ক্রাইব করা হবে…">
 <!ENTITY addCurPagesCmd.label "সব ট্যাব বুকমার্ক করা হবে…">
@@ -162,12 +162,13 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY unsortedBookmarksCmd.label "অবিন্যস্ত বুকমার্ক">
 <!ENTITY bookmarksToolbarChevron.tooltip "আরও বুকমার্ক প্রদর্শন">
 
+<!ENTITY backCmd.label                "পূর্ববর্তী">
 <!ENTITY backButton.tooltip           "পূর্ববর্তী পৃষ্ঠায় ফিরে যান">
-
+<!ENTITY forwardCmd.label             "পরবর্তী">
 <!ENTITY forwardButton.tooltip        "পরবর্তী পৃষ্ঠায় এগিয়ে যান">
 <!ENTITY backForwardButtonMenu.tooltip "ইতিহাস প্রদর্শনের জন্য ডান বাটন ক্লিক করুন অথবা নীচে টেনে আনুন">
 <!ENTITY backForwardButtonMenuMac.tooltip "ইতিহাস দেখতে নীচে টেনে আনুন">
-
+<!ENTITY reloadCmd.label              "পুনরায় লোড">
 <!ENTITY reloadButton.tooltip         "বর্তমান পৃষ্ঠা পুনরায় লোড">
 
 <!ENTITY stopCmd.macCommandKey        ".">
@@ -240,7 +241,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY responsiveDesignTool.label   "রেসপনসিভ ডিজাইন প্রদর্শন R">
 <!ENTITY responsiveDesignTool.accesskey "R">
-
+<!ENTITY responsiveDesignTool.commandkey "M">
 
 
 <!-- LOCALIZATION NOTE (scratchpad.label): This menu item label appears
@@ -263,19 +264,21 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY browserToolboxMenu.label     "ব্রাউজার টুলবক্স e">
 <!ENTITY browserToolboxMenu.accesskey "e">
-
+<!ENTITY browserToolboxCmd.commandkey "i">
 <!-- LOCALIZATION NOTE (browserContentToolboxMenu.label): This is the label for the
   -  application menu item that opens the browser content toolbox UI in the Tools menu.
   -  This toolbox allows to debug the chrome of the content process in multiprocess builds.  -->
 
+<!ENTITY browserContentToolboxMenu.label     "ব্রাউজার কন্টেট টুলবক্স">
+
 <!ENTITY devToolbarCloseButton.tooltiptext "ডেভেলপার টুলবার বন্ধ করুন">
 <!ENTITY devToolbarMenu.label              "ডেভেলপার টুলবার v">
 <!ENTITY devToolbarMenu.accesskey          "v">
+<!ENTITY devAppMgrMenu.label               "অ্যাপ ম্যানেজার(A)">
+<!ENTITY devAppMgrMenu.accesskey           "A">
 
 
-
-
-
+<!ENTITY webide.keycode                    "VK_F8">
 <!ENTITY webide.keytext                    "F8">
 <!ENTITY devToolbar.keycode                "VK_F2">
 <!ENTITY devToolbar.keytext                "F2">
@@ -718,10 +721,10 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY social.learnMore.accesskey "L">
 <!ENTITY social.closeNotificationItem.label "এখন নয়">
 
-
-
-
-
+<!ENTITY social.directory.text "এই ডাইরেক্টরি থেকে আপনি শেয়ার পরিষেবা সক্রিয় করতে পারবেন।">
+<!ENTITY social.directory.button "আমাকে সেখানে নিয়ে যান!">
+<!ENTITY social.directory.introText "কোন পরিষেবা তে ক্লিক করে তাকে &brandShortName; এর সাথে যুক্ত করতে পারবেন।">
+<!ENTITY social.directory.viewmore.text "আরো দেখুন">
 
 <!ENTITY customizeMode.tabTitle "&brandShortName; স্বনির্ধারণ করুন">
 <!ENTITY customizeMode.menuAndToolbars.header2 "অতিরিক্ত টুল এবং ফিচার">
@@ -729,7 +732,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY customizeMode.menuAndToolbars.emptyLink "হাজারেরও বেশি অ্যাড-অন থেকে পছন্দ করুন">
 
 <!ENTITY customizeMode.toolbars "টুলবার প্রদর্শন / লুকান">
-
+<!ENTITY customizeMode.titlebar "শিরোনাম বার">
 
 
 
@@ -751,10 +754,10 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY getUserMedia.selectCamera.accesskey "C">
 <!ENTITY getUserMedia.selectMicrophone.label "যেসকল মাইক্রোফোন শেয়ার করা হবে: M">
 <!ENTITY getUserMedia.selectMicrophone.accesskey "M">
-
+<!ENTITY getUserMedia.allWindowsShared.message "আপনার স্ক্রিনের সব দৃশ্যমান উইন্ডো শেয়ার করা হবে।">
 <!-- Bad Content Blocker Doorhanger Notification -->
 
-
+<!ENTITY mixedContentBlocked2.moreinfo "এই ওয়েবসাইটের কিছু এনক্রিপ্ট না করা উপাদান প্রতিরোধ করা হয়েছে।">
 
 
 
@@ -764,7 +767,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 
 <!ENTITY trackingContentBlocked.message "অনুসরণ">
-
+<!ENTITY trackingContentBlocked.moreinfo "পৃষ্ঠার যে অংশগুলি অাপনার অন-লাইন কার্যকলাপ ট্র্যাক করে সেগুলি প্রতিরোধ করা হয়েছে।">
 
 
 
@@ -803,10 +806,10 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      The .mainActionDesc string combined with any of the 4 others is meant to form a complete sentence, e.g. "Proceeding will: Delete Recent Cookies".
      Note also that the deleteCookies, deleteHistory and deleteTabsAndWindows strings include <html:strong> tags for emphasis on the words "Cookies", "History", "Tabs" and "Windows".
      The translation should do the same. -->
-
-
-
-
+<!ENTITY panicButton.view.deleteCookies           "সাম্প্রতিক<html:strong>কুকিগুলি</html:strong> মুছে ফেলুন">
+<!ENTITY panicButton.view.deleteHistory           "সাম্প্রতিক <html:strong> ইতিহাস </html:strong> মুছে ফেলুন">
+<!ENTITY panicButton.view.deleteTabsAndWindows    "সব <html:strong>ট্যাবগুলি</html:strong> এবং <html:strong>উইন্ডো</html:strong> বন্ধ করুন">
+<!ENTITY panicButton.view.openNewWindow           "একটি নতুন পরিষ্কার উইন্ডো খুলুন">
 
 <!ENTITY panicButton.view.undoWarning             "এই পরিবর্তনটি অপরিবর্তনীয়!">
 
@@ -832,6 +835,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!-- Pre-landed string for bug 1124153 -->
 <!-- Pre-landed string for bug 1133662 -->
-
+<!ENTITY readingList.sidebar.emptyText            "আপনার পড়ার তালিকায় প্রবন্ধ যোগ করুন সেগুলোকে পরবর্তীকালের জন্য সংরক্ষণ করে রাখতে এবং সেগুলোকে সহজে খুঁজে পেতে যখন আপনি সেগুলোকে চাইছেন।">
+<!ENTITY readingList.sidebar.delete.tooltip       "এটিকে আপনার পড়ার তালিকা থেকে মুছে ফেলুন">
 <!-- Pre-landed strings for bug 1123519 -->
-
+<!ENTITY readingList.sidebar.add.label            "পড়ার তালিকায় যোগ করুন">
+<!ENTITY readingList.sidebar.add.tooltip          "এই পাতাটি আপনার পড়ার তালিকায় যোগ করুন">
