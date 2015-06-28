@@ -15,7 +15,7 @@
 <!ENTITY cmd.showMac.accesskey                     "F">
 <!ENTITY cmd.open.label                            "Hape">
 <!ENTITY cmd.open.accesskey                        "H">
-<!ENTITY cmd.removeFromHistory.label               "Remove From History">
-<!ENTITY cmd.removeFromHistory.accesskey           "Hiqe Prej Historikut">
+<!ENTITY cmd.removeFromHistory.label               "Hiqe Prej Historikut">
+<!ENTITY cmd.removeFromHistory.accesskey           "Q">
 <!ENTITY cmd.clearDownloads.label                  "Pastroji Shkarkimet">
 <!ENTITY cmd.clearDownloads.accesskey              "S">
