@@ -4,6 +4,6 @@
 
 
 <!ENTITY tabCrashed.reportSent "Qəza məlumatınız artıq göndərilib; &brandShortName; səyyahını daha yaxşı etməkdə köməyiniz üçün təşəkkürlər!">
-
-
-
+<!ENTITY tabCrashed.closeTab "Bu vərəqi qapat">
+<!ENTITY tabCrashed.restoreTab "Bu vərəqi bərpa et">
+<!ENTITY tabCrashed.restoreAll "Bütün çökmüş vərəqləri bərpa et">
