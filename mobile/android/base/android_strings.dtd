@@ -426,7 +426,7 @@ size. -->
 
 <!-- Localization note (reading_list_added2) : Used in a toast, please keep as short
      as possible. -->
-<!ENTITY reading_list_added2 "Ajoutée à la liste">
+<!ENTITY reading_list_added2 "Page ajoutée">
 <!ENTITY reading_list_removed "Page retirée de votre liste de lecture">
 <!-- Localization note (reading_list_remove) : Used to remove the currently open page from
      the user's reading list. The opposite of overlay_share_reading_list_btn_label. -->
