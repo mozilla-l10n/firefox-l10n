@@ -82,7 +82,7 @@
 <!ENTITY pref_category_search_summary "Personalizza i motori di ricerca">
 <!ENTITY pref_category_display "Visualizzazione">
 <!ENTITY pref_category_display_summary "Testo, barra del titolo, navigazione a schermo intero">
-<!ENTITY pref_category_privacy_summary "Gestisci password, cookie, tracciamento, dati">
+<!ENTITY pref_category_privacy_summary2 "Gestisci accessi, cookie, tracciamento, dati">
 <!ENTITY pref_category_privacy_short "Privacy">
 <!ENTITY pref_category_vendor "&vendorShortName;">
 <!ENTITY pref_category_vendor_summary "Informazioni su &brandShortName;, FAQ, condivisione dati">
@@ -97,7 +97,7 @@
 <!ENTITY pref_category_devtools "Strumenti di sviluppo">
 <!ENTITY pref_developer_remotedebugging "Debug remoto">
 <!ENTITY pref_category_logins "Accessi">
-<!ENTITY pref_remember_signons "Ricorda password">
+<!ENTITY pref_remember_signons2 "Ricorda accessi">
 <!ENTITY pref_open_external_urls_privately_title "Apertura link in Navigazione anonima">
 <!ENTITY pref_open_external_urls_privately_summary "Per tutti i link esterni aperti in &brandShortName;">
 <!ENTITY pref_manage_logins "Gestione accessi">
@@ -169,7 +169,7 @@
 <!ENTITY pref_font_size_preview_text "La volpe arancio oltrepassa ogni ostacolo con sempre maggiore velocità, flessibilità e sicurezza. In quanto organizzazione non profit siamo in grado di creare innovazione per il bene degli utenti senza cedere a pressioni o compromessi. Questo significa una migliore esperienza per tutti e un futuro migliore per il Web.">
 <!ENTITY pref_use_master_password "Usa password principale">
 <!ENTITY pref_sync "Sync">
-<!ENTITY pref_sync_summary "Sincronizza schede, segnalibri, password, cronologia">
+<!ENTITY pref_sync_summary2 "Sincronizza schede, segnalibri, accessi, cronologia">
 <!ENTITY pref_search_suggestions "Mostra suggerimenti di ricerca">
 <!ENTITY pref_import_android "Importa da Android">
 <!ENTITY pref_import_android_summary "Importa segnalibri e cronologia dal browser di sistema">
@@ -177,7 +177,7 @@
 <!ENTITY pref_private_data_searchHistory "Cronologia ricerche">
 <!ENTITY pref_private_data_formdata2 "Cronologia moduli">
 <!ENTITY pref_private_data_cookies2 "Cookie e accessi attivi">
-<!ENTITY pref_private_data_passwords "Password salvate">
+<!ENTITY pref_private_data_passwords2 "Accessi salvati">
 <!ENTITY pref_private_data_cache "Cache">
 <!ENTITY pref_private_data_offlineApps "Dati non in linea dei siti web">
 <!ENTITY pref_private_data_siteSettings2 "Impostazioni siti">
@@ -386,7 +386,7 @@
 <!ENTITY guest_session_dialog_continue "Continua">
 <!ENTITY guest_session_dialog_cancel "Annulla">
 <!ENTITY new_guest_session_title "&brandShortName; verrà riavviato">
-<!ENTITY new_guest_session_text "La persona che utilizza il browser non potrà visualizzare alcun dato personale già presente, come ad esempio password salvate, cronologia o segnalibri.\n\nAl termine i dati relativi a questa sessione di navigazione verranno eliminati e la sessione precedente verrà ripristinata.">
+<!ENTITY new_guest_session_text2 "La persona che utilizza il browser non potrà visualizzare alcun dato personale già presente, come ad esempio accessi salvati, cronologia o segnalibri.\n\nAl termine i dati relativi a questa sessione di navigazione verranno eliminati e verrà ripristinata la sessione precedente.">
 <!ENTITY guest_browsing_notification_title "Navigazione in mod. ospite attiva">
 <!ENTITY guest_browsing_notification_text "Tocca per uscire">
 <!ENTITY exit_guest_session_title "&brandShortName; verrà riavviato">
