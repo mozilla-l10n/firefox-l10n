@@ -167,6 +167,8 @@
 <!ENTITY pref_zoom_force_enabled "Consenti sempre zoom">
 <!ENTITY pref_zoom_force_enabled_summary "Ignora le impostazioni della pagina e consenti sempre lo zoom">
 <!ENTITY pref_font_size_preview_text "La volpe arancio oltrepassa ogni ostacolo con sempre maggiore velocità, flessibilità e sicurezza. In quanto organizzazione non profit siamo in grado di creare innovazione per il bene degli utenti senza cedere a pressioni o compromessi. Questo significa una migliore esperienza per tutti e un futuro migliore per il Web.">
+<!ENTITY pref_voice_input "Input vocale">
+<!ENTITY pref_voice_input_summary "Attiva input vocale nella barra degli indirizzi">
 <!ENTITY pref_use_master_password "Usa password principale">
 <!ENTITY pref_sync "Sync">
 <!ENTITY pref_sync_summary2 "Sincronizza schede, segnalibri, accessi, cronologia">
