@@ -42,7 +42,7 @@
 <!ENTITY sync.configure.engines.title.label "Che cosa sincronizzare">
 <!ENTITY sync.configure.engines.sync.my.title.label "Sincronizza…">
 <!ENTITY sync.configure.engines.title.bookmarks "Segnalibri">
-<!ENTITY sync.configure.engines.title.passwords "Password">
+<!ENTITY sync.configure.engines.title.passwords2 "Accessi">
 <!ENTITY sync.configure.engines.title.history "Cronologia">
 <!ENTITY sync.configure.engines.title.tabs "Schede">
 <!ENTITY sync.button.cancel.label "Annulla">
@@ -83,7 +83,7 @@
 <!ENTITY fxaccount_policy_linktos "condizioni di utilizzo del servizio">
 <!ENTITY fxaccount_policy_linkprivacy "informativa sulla privacy">
 <!ENTITY fxaccount_getting_started_welcome_to_sync "Benvenuto in &syncBrand.shortName.label;">
-<!ENTITY fxaccount_getting_started_description "Accedi per sincronizzare schede, segnalibri, password e altri elementi.">
+<!ENTITY fxaccount_getting_started_description2 "Accedi per sincronizzare schede, segnalibri, accessi e altri elementi.">
 <!ENTITY fxaccount_getting_started_get_started "Inizia">
 <!ENTITY fxaccount_getting_started_old_firefox "Stai utilizzando una vecchia versione di &syncBrand.shortName.label;?">
 <!ENTITY fxaccount_create_account_header2 "Crea un Firefox Account">
@@ -140,7 +140,7 @@
 <!ENTITY fxaccount_status_needs_finish_migrating "Tocca per accedere al nuovo Firefox Account.">
 <!ENTITY fxaccount_status_bookmarks "Segnalibri">
 <!ENTITY fxaccount_status_history "Cronologia">
-<!ENTITY fxaccount_status_passwords "Password">
+<!ENTITY fxaccount_status_passwords2 "Accessi">
 <!ENTITY fxaccount_status_tabs "Schede aperte">
 <!ENTITY fxaccount_status_legal "Note legali">
 <!ENTITY fxaccount_status_linktos "Condizioni di utilizzo del servizio">
