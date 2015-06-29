@@ -9,3 +9,5 @@
 <!ENTITY addonAction.disable "Disattiva">
 <!ENTITY addonAction.uninstall "Disinstalla">
 <!ENTITY addonAction.undo "Annulla">
+<!ENTITY addonUnsigned.message "Non è stato possibile verificare questo componente aggiuntivo.">
+<!ENTITY addonUnsigned.learnMore "Ulteriori informazioni">
