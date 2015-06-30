@@ -44,6 +44,9 @@
 <!ENTITY bookmark "புத்தகக்குறி">
 <!ENTITY bookmark_remove "புத்தகக்குறியை நீக்கு">
 <!ENTITY bookmark_added "புத்தகக்குறி சேர்க்கப்பட்டது">
+<!-- Localization note (bookmark_already_added) : This string is
+     used as a label in a toast. It is the verb "to bookmark", not
+     the noun "a bookmark". -->
 <!ENTITY bookmark_removed "புத்தகக்குறி நீக்கப்பட்டது">
 <!ENTITY bookmark_updated "புத்தகக்குறி புதுப்பிக்கப்பட்டது">
 <!ENTITY bookmark_options "விருப்பங்கள்">
@@ -77,6 +80,7 @@
 
 <!ENTITY settings "அமைப்புகள்">
 <!ENTITY settings_title "அமைப்புகள்">
+
 <!ENTITY pref_category_advanced "மேம்பட்டது">
 <!ENTITY pref_category_customize "தனிபயனாக்கு">
 <!ENTITY pref_category_customize_summary "முகப்பு, தேடு, கீற்றுகள், இறக்கு">
@@ -104,7 +108,7 @@
 
 <!ENTITY overlay_share_bookmark_btn_label "புத்தகக்குறி">
 <!ENTITY overlay_share_reading_list_btn_label "வாசிப்புப் பட்டியலில் சேர்">
-<!ENTITY overlay_share_bookmark_btn_label_already "புத்தகக்குறி உள்ளது">
+
 <!ENTITY overlay_share_reading_list_btn_label_already "படிக்கும் பட்டியலில் உள்ளது">
 <!ENTITY overlay_share_send_other "பிற கருவிகளுக்கு அனுப்பு">
 <!-- Localization note (overlay_share_send_tab_btn_label) : Used on the
@@ -132,7 +136,7 @@
 <!ENTITY pref_category_display "காண்பி">
 <!ENTITY pref_category_display_summary "உரை, தலைப்பு பட்டை, முழுத்திரை உலாவல்">
 <!ENTITY pref_category_privacy_short "தனியுரிமை">
-<!ENTITY pref_category_privacy_summary "கடவுச்சொற்கள், நினைவிகள், தடமறிதல், தரவு போன்றவற்றை கட்டுப்படுத்து">
+
 <!ENTITY pref_category_vendor "&vendorShortName;">
 <!ENTITY pref_category_vendor_summary "&brandShortName;, அகேகே, தரவு வாய்ப்புகள் பற்றி">
 <!ENTITY pref_category_datareporting "தரவுத் தேர்வுகள்">
@@ -151,7 +155,9 @@
 <!ENTITY pref_category_devtools "உருவாக்குனர் கருவிகள்">
 <!ENTITY pref_developer_remotedebugging "தொலைநிலை பிழைதிருத்தம்">
 <!ENTITY pref_category_logins "உள்நுழைவுகள்">
-<!ENTITY pref_remember_signons "கடவுச்சொற்களை நினை">
+
+
+
 <!ENTITY pref_manage_logins "உள்நுழைவுகளை நிர்வகி">
 
 <!ENTITY pref_category_home "முகப்பு">
@@ -189,10 +195,9 @@
 <!ENTITY pref_donottrack_title "தடமறிய வேண்டாம்">
 <!ENTITY pref_donottrack_summary "&brandShortName; தளங்களிடம் உங்களை தடமறிய வேண்டாம் என தெரிவிக்கும்">
 
-<!ENTITY tab_queue_toast_message2 "கீற்று &brandShortName; இல் வரிசைப்படுத்தப்பட்டது">
 <!ENTITY tab_queue_toast_action "இப்போதே திற">
 <!ENTITY tab_queue_prompt_title "பல இணைப்புகளைத் திறக்கிறதா?">
-<!ENTITY tab_queue_prompt_text2 "ஒவ்வொரு முறையும் &brandShortName;ற்கு தாவாமல் இவற்றை திற.">
+
 <!ENTITY tab_queue_prompt_tip_text "இதை நீங்கள் அமைப்புகளில் பின்னர் மாற்றலாம்">
 
 
@@ -245,9 +250,13 @@ size. -->
 <!ENTITY pref_zoom_force_enabled "அளவுமாற்றதை எப்பொழுதும் செயல்படுத்து">
 <!ENTITY pref_zoom_force_enabled_summary "கட்டாய புறக்கணித்தல் மூலம் எந்தப் பக்கத்தையும் பெரிதாக்க முடியும்">
 
+
+
+
+
 <!ENTITY pref_use_master_password "முதன்மை கடவுச்சொல்லை பயன்படுத்து">
 <!ENTITY pref_sync "ஒத்திசை">
-<!ENTITY pref_sync_summary "உங்கள் கீற்றுகளை, புத்தகக்குறிகளை, கடவுச்சொற்களை, வரலாற்றை ஒத்திசைவுச் செய்">
+
 <!ENTITY pref_search_suggestions "தேடுல் பரிந்துரைகளை காட்டு">
 <!ENTITY pref_import_android "ஆன்ட்ராய்டிலிருந்து இறக்கு">
 <!ENTITY pref_import_android_summary "சொந்த உலாவியிலிருந்து புத்தகக்குறிகளையும் வரலாறையும் இறக்கு">
@@ -255,11 +264,12 @@ size. -->
 <!ENTITY pref_private_data_searchHistory "தேடல் வரலாறு">
 <!ENTITY pref_private_data_formdata2 "படிவம் வரலாறு">
 <!ENTITY pref_private_data_cookies2 "நினைவிகள் &amp; செயற்பாட்டிலுள்ள உள்நுழைவுகள்">
-<!ENTITY pref_private_data_passwords "சேமிக்கப்பட்ட கடவுச்சொற்கள்">
+
 <!ENTITY pref_private_data_cache "இடையகம்">
 <!ENTITY pref_private_data_offlineApps "இணைப்பில்லாத இணையதள தரவு">
 <!ENTITY pref_private_data_siteSettings2 "தள அமைப்புகள்">
 <!ENTITY pref_private_data_downloadFiles2 "பதிவிறக்கங்கள்">
+
 
 
 <!ENTITY pref_about_firefox "&brandShortName;வைப் பற்றி">
@@ -378,6 +388,11 @@ size. -->
 <!ENTITY doorhanger_login_edit_toggle "கடவுச்சொல்லை காட்டு">
 <!ENTITY doorhanger_login_edit_toast_error "உள்நுழைவை சேமித்தல் தோல்வி">
 
+
+
+
+
+
 <!ENTITY pref_titlebar_mode "தலைப்பு பட்டி">
 <!ENTITY pref_titlebar_mode_title "பக்க தலைப்பை காண்பி">
 <!ENTITY pref_titlebar_mode_url "பக்க முகவரியை காண்பி">
@@ -406,8 +421,8 @@ size. -->
 <!ENTITY site_settings_cancel       "ரத்து">
 <!ENTITY site_settings_clear        "துடை">
 <!ENTITY site_settings_no_settings  "நீக்க எந்த அமைப்புகளும் இல்லை.">
-
-<!ENTITY reading_list_added "இப்பக்கம் உங்கள் வாசிப்பு பட்டியலில் சேர்க்கப்பட்டுள்ளது">
+<!-- Localization note (reading_list_added2) : Used in a toast, please keep as short
+     as possible. -->
 <!ENTITY reading_list_removed "உங்கள் வாசிப்பு பட்டியலிருந்து பக்கம் நீக்கப்பட்டுள்ளது">
 <!-- Localization note (reading_list_remove) : Used to remove the currently open page from
      the user's reading list. The opposite of overlay_share_reading_list_btn_label. -->
@@ -436,7 +451,7 @@ size. -->
 <!ENTITY button_clear_data "தரவினை அகற்று">
 <!ENTITY button_set "அமை">
 <!ENTITY button_clear "துடை">
-<!ENTITY button_remember "நினைவுகொள்">
+<!ENTITY button_copy "நகலெடு">
 
 <!ENTITY firstrun_panel_title_welcome "வருக">
 
@@ -500,10 +515,6 @@ size. -->
      the text of a button; we expect more than one device. -->
 <!ENTITY home_remote_tabs_unhide_selected_devices "தேர்ந்த சாதனங்கள் மறைக்காதே">
 
-<!ENTITY private_browsing_title "தனிப்பட்ட உலாவல்">
-<!ENTITY private_tabs_panel_empty_desc "உங்கள் தனிப்பட்ட கீற்று இங்கே காண்பிக்கப்படும். நாங்கள் உங்களுடைய உலாவல் வரலாறு அல்லது நினைவிகள், புத்தகக்குறிகள் பதிவிறக்கிய கோப்புகள் போன்றவற்றை வைத்திருக்காத நிலையில் உங்கள் கருவியில் சேமிக்கப்பட்டுவிடும்.">
-<!ENTITY private_tabs_panel_learn_more "மேலும் அறிய ஆவளா?">
-
 <!ENTITY remote_tabs_panel_moved_title "என் கீற்றுகள் எங்கே பொனது?">
 <!ENTITY remote_tabs_panel_moved_desc "உங்கள் கீற்றுகள்மற்ற சாதனங்களில் இருந்து முகப்பு பக்கத்திற்கு நகர்த்திவிட்டன நீங்கள் அதை புதிய கீற்றைத் திறக்கும் சமயங்களில் எளிதாக அணுக முடியும்.">
 <!ENTITY remote_tabs_panel_moved_link "என்னை புதிய பலகத்திற்கு எடுத்துச் செல்லவும்.">
@@ -531,6 +542,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_run_by "இதுவால் இயக்கப்படுகிறது">
 <!ENTITY identity_no_info "இந்த இணைய தளம் அடையாள விவரங்களை கொடுக்கவில்லை.">
 <!ENTITY identity_not_encrypted "இந்த இணைய தளத்தில் உங்கள் இணைப்பு மறைகுறியாக்கப்படவில்லை.">
+<!ENTITY identity_encrypted "குறிமுறையாக்கப்பட்டது">
 <!-- Mixed content notifications in site identity popup -->
 
 <!ENTITY loaded_mixed_content_message "இந்த பக்கத்தில் தோன்றும் உள்ளடக்கங்கள் பாதுகாப்பானது அல்ல.">
@@ -597,7 +609,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY guest_session_dialog_continue "தொடரவும்">
 <!ENTITY guest_session_dialog_cancel "ரத்து">
 <!ENTITY new_guest_session_title "&brandShortName; இப்போது மீள்துவக்கம் செய்கிறது">
-<!ENTITY new_guest_session_text "இதை பயன்படுத்த நபர் உங்களுடைய தனிப்பட்ட உலாவின் தரவுகளை(அதாவது சேமித்த கடவுச்சொல், வரலாறு அல்லது புத்தகக்குறிகள்).\n\nஉங்களின் விருந்தினர் அமர்விற்கு பிறகு, அவர்களுடைய தரவுகள் நீக்கப்பட்டு உங்களுடைய அமர்வு மீட்டமைக்கப்படும்.">
+
 <!ENTITY guest_browsing_notification_title "விருந்தினர் உலாவல் செயலிலுள்ளது">
 <!ENTITY guest_browsing_notification_text "வெளியேற தொடு">
 
@@ -646,3 +658,4 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      if match-case is activated. i.e. No more than two letters, one uppercase, one lowercase. -->
 
 <!ENTITY find_matchcase "அஆ">
+

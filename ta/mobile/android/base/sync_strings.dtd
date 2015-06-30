@@ -62,7 +62,7 @@
 <!ENTITY sync.configure.engines.title.label "எதை ஒத்திசைக்க">
 <!ENTITY sync.configure.engines.sync.my.title.label "உங்களுடைய ஒத்திசைவு...">
 <!ENTITY sync.configure.engines.title.bookmarks "புத்தகக்குறிகள்">
-<!ENTITY sync.configure.engines.title.passwords "கடவுச்சொற்கள்">
+
 <!ENTITY sync.configure.engines.title.history "வரலாறு">
 <!ENTITY sync.configure.engines.title.tabs "கீற்றுகள்">
 <!-- Common text -->
@@ -141,7 +141,7 @@
 <!ENTITY fxaccount_policy_linkprivacy "தனியுரிமை அறிவுப்பு">
 
 <!ENTITY fxaccount_getting_started_welcome_to_sync "&syncBrand.shortName.label;விற்கு வரவேற்கிறோம்">
-<!ENTITY fxaccount_getting_started_description "உங்கள் கீற்றுகள், புத்தகக்குறிகள், கடவுசொற்கள் &amp; பிறவற்றையும் ஒத்திசைக்க உள்நுழையவும்.">
+
 <!ENTITY fxaccount_getting_started_get_started "தொடங்கவும்">
 <!ENTITY fxaccount_getting_started_old_firefox "பழைய &syncBrand.shortName.label; பதிப்பை பயன்படுத்துகிறீர்களா?">
 <!-- Localization note: the Firefox below should not change with the
@@ -212,7 +212,7 @@
 <!ENTITY fxaccount_status_needs_finish_migrating "உங்கள் புதிய பயர்பாக்ஸ் கணக்கில் உள்நுழைய தட்டவும்.">
 <!ENTITY fxaccount_status_bookmarks "புத்தகக்குறிகள்">
 <!ENTITY fxaccount_status_history "வரலாறு">
-<!ENTITY fxaccount_status_passwords "கடவுச்சொற்கள்">
+
 <!ENTITY fxaccount_status_tabs "திறந்த கீற்றுகள்">
 <!ENTITY fxaccount_status_legal "சட்டபூர்வ" >
 <!-- Localization note: when tapped, the following two strings link to
