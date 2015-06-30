@@ -444,6 +444,10 @@
 <!ENTITY throbber.tooltip "Ir para a página inicial do &vendorShortName;">
 <!ENTITY junkButton.tooltip "Marcar mensagens selecionadas como lixo">
 <!ENTITY notJunkButton.tooltip "Marcar mensagens selecionadas como não sendo lixo">
+<!-- Remote Content Button Popup -->
+
+
+
 <!-- Statusbar -->
 
 <!ENTITY  statusText.label "Terminado">

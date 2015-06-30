@@ -34,7 +34,7 @@
 <!ENTITY proxies.label "Proxies">
 <!ENTITY httpnetworking.label "Rde HTTP">
 <!ENTITY smart.label "Instalação de Software">
-<!ENTITY download.label "Transferências">
+<!ENTITY download.label "Descargas">
 <!ENTITY keynav.label "Navegação pelo teclado">
 <!ENTITY findAsYouType.label "Localizar ao escrever">
 <!ENTITY search.label "Pesquisa na Internet">

@@ -6,16 +6,16 @@
 <!ENTITY pref.locationBar.title                "Barra de localização">
 
 <!ENTITY autoComplete.label                    "Conclusão automática">
-<!ENTITY enableAutoComplete.label              "Conclusão do endereço a partir do histórico de navegação">
-<!ENTITY enableAutoComplete.accesskey          "a">
+
+
+
+
 <!ENTITY autoCompleteAutoFill.label            "Conclusão automática com a melhor opção">
 <!ENTITY autoCompleteAutoFill.accesskey        "u">
 <!ENTITY autoCompleteShowPopup.label           "Mostrar lista com os resultados">
 <!ENTITY autoCompleteShowPopup.accesskey       "s">
 <!ENTITY autoCompleteMatchOnlyTyped.label      "Mostrar apenas os sítios web escritos anteriormente">
 <!ENTITY autoCompleteMatchOnlyTyped.accesskey  "M">
-<!ENTITY autoCompleteMatchOnlyURLs.label       "Correspondência de localizações e não de títulos de sítios web">
-<!ENTITY autoCompleteMatchOnlyURLs.accesskey   "n">
 <!--LOCALIZATION NOTE (autoCompleteMatch.label): This is the common leading
   part of the menulist items listed below, mainly to make the control available
   via the accesskey
