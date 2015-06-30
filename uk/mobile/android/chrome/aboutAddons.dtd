@@ -10,3 +10,6 @@
 <!ENTITY addonAction.disable                    "Вимкнути">
 <!ENTITY addonAction.uninstall                  "Вилучити">
 <!ENTITY addonAction.undo                       "Повернути">
+
+<!ENTITY addonUnsigned.message                  "&brandShortName; не вдалося перевірити цей додаток.">
+<!ENTITY addonUnsigned.learnMore                "Докладніше">
