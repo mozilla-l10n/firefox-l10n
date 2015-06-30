@@ -274,7 +274,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
   -  application menu item that opens the browser content toolbox UI in the Tools menu.
   -  This toolbox allows to debug the chrome of the content process in multiprocess builds.  -->
 
-<!ENTITY browserContentToolboxMenu.label     "உலாவியின் உள்ளடக்க கருவிப் பெட்டி">
 
 <!ENTITY devToolbarCloseButton.tooltiptext "உருவாக்குனர் கருவிப்பட்டையை மூடவும்">
 <!ENTITY devToolbarMenu.label              "டெவலப்பர் கருவிப்பட்டை">
@@ -304,6 +303,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY newNavigatorCmd.accesskey      "N">
 <!ENTITY newPrivateWindow.label     "புதிய தனிப்பட்ட சாளரம்">
 <!ENTITY newPrivateWindow.accesskey "W">
+
 
 <!ENTITY editMenu.label         "திருத்து"> 
 <!ENTITY editMenu.accesskey       "E"> 
@@ -670,29 +670,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY editBookmark.cancel.label                   "ரத்து">
 <!ENTITY editBookmark.removeBookmark.accessKey       "R">
 
-<!ENTITY identity.unverifiedsite2 "இந்த இணையதளம் அடையாள தகவலைக் கொடுக்கவில்லை.">
-<!ENTITY identity.connectedTo "நீங்கள் இதனுடன் இணைக்கப்பட்டுள்ளீர்கள்">
-<!-- Localization note (identity.runBy) : This string appears between a
-domain name (above) and an organization name (below). E.g.
 
-example.com
-which is run by
-Example Enterprises, Inc.
 
-The layout of the identity dialog prevents combining this into a single string with
-substitution variables.  If it is difficult to translate the sense of the string
-with that structure, consider a translation which ignores the preceding domain and
-just addresses the organization to follow, e.g. "This site is run by " -->
-<!ENTITY identity.runBy "-ஆல் இயங்கப்படுகிறது">
 
-<!ENTITY identity.moreInfoLinkText "இன்னும் தகவல்…">
+
 
 <!ENTITY identity.permissions "அனுமதிகள்">
-<!-- LOCALIZATION NOTE (identity.help.tooltip) : This string should be the
-     localized title of this SUMO article
-     https://support.mozilla.org/kb/how-do-i-tell-if-my-connection-is-secure -->
-
-<!ENTITY identity.help.tooltip "வலைத்தளத்துடன் என்னுடைய இணைப்பு பாதுகாப்பானது என்று எப்படி தெரிவிப்பது?">
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
 
@@ -856,4 +839,9 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- Pre-landed string for bug 1133662 -->
 
 <!-- Pre-landed strings for bug 1123519 -->
+
+<!-- LOCALIZATION NOTE (saveToPocketCmd.label, saveLinkToPocketCmd.label, pocketMenuitem.label): Pocket is a brand name -->
+
+
+
 

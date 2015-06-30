@@ -4,11 +4,22 @@
 
 <!ENTITY aboutTelemetry.pageTitle "டெலிமெட்ரி தரவு">
 
-<!ENTITY aboutTelemetry.telemetryEnabled "  டெலிமெட்ரி <span>செயல்படுத்தப்பட்டுள்ளது</span>.">
 
-<!ENTITY aboutTelemetry.telemetryDisabled "  டெலிமெட்ரி <span>முடக்கப்பட்டுள்ளது</span>.">
+
+
+
+
+
+
+
+
+
+
+
+
 
 <!ENTITY aboutTelemetry.generalDataSection "  பொது தரவு">
+
 
 
 <!ENTITY aboutTelemetry.slowSqlSection "  மெதுவான SQL கூற்றுகள்">
