@@ -140,6 +140,7 @@
   -  appears in the debugger's side pane tabs. -->
 
 
+
 <!ENTITY debuggerUI.tabs.variables      "Dəyişənlər">
 <!ENTITY debuggerUI.tabs.events         "Hadisələr">
 <!-- LOCALIZATION NOTE (debuggerUI.seMenuAddWatch): This is the text that

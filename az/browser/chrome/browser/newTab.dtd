@@ -6,18 +6,12 @@
 <!ENTITY newtab.pageTitle "Yeni Vərəq">
 
 
-<!--
-  LOCALIZATION NOTE(newtab.customize.cog.title): This string is for the new
-  tab cog menu title. It will be transformed to uppercase.
--->
-<!ENTITY newtab.customize.cog.title "Yeni Vərəq İdarələri">
+
 
 <!ENTITY newtab.customize.title "Yeni Vərəq səhifənizi Özəlləşdirin">
 <!ENTITY newtab.customize.suggested "Məsləhət görülənləri və tez-tez ziyahət edilən saytları göstər">
 
 <!ENTITY newtab.customize.blank2 "Boş səhifə göstər">
-<!ENTITY newtab.customize.what "Bu səhifə nədir?">
-<!ENTITY newtab.intro.header "Bu səhifə nədir?">
 <!ENTITY newtab.undo.removedLabel "Eskiz silindi.">
 <!ENTITY newtab.undo.undoButton "Qaytar.">
 <!ENTITY newtab.undo.restoreButton "Hamısını bərpa et.">

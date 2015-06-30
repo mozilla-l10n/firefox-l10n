@@ -4,11 +4,22 @@
 
 <!ENTITY aboutTelemetry.pageTitle "Telemetriya Məlumatları">
 
-<!ENTITY aboutTelemetry.telemetryEnabled "  Telemetriya <span>açıqdır</span>.">
 
-<!ENTITY aboutTelemetry.telemetryDisabled "  Telemetriya <span>bağlıdır</span>.">
+
+
+
+
+
+
+
+
+
+
+
+
 
 <!ENTITY aboutTelemetry.generalDataSection "  Ümumi Məlumat">
+
 
 <!ENTITY aboutTelemetry.telemetryLogSection "  Telemetry Qeydi">
 

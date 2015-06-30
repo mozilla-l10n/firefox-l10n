@@ -20,6 +20,8 @@
 <!ENTITY importFromFirefox.label        "Firefox">
 <!ENTITY importFromFirefox.accesskey    "x">
 
+
+
 <!ENTITY noMigrationSources.label       "Əlfəcinlərin, tarixçənin və ya şifrə məlumatlarının qeyd edildiyi heç bir proqram tapılmadı.">
 
 <!ENTITY importSource.title             "Nizamlamaları və məlumatları idxal etmə">
