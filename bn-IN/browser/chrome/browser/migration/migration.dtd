@@ -20,6 +20,8 @@
 <!ENTITY importFromFirefox.label        "Firefox">
 <!ENTITY importFromFirefox.accesskey    "x">
 
+
+
 <!ENTITY noMigrationSources.label       "বুকমার্ক, পূর্ববর্তী তথ্য অথবা পাসওয়ার্ড ধারণকারী কোনো প্রোগ্রাম সনাক্ত করা যায়নি।">
 
 <!ENTITY importSource.title             "উল্লিখিত স্থান থেকে বৈশিষ্ট্যাবলী ও তথ্য ইম্পোর্ট করুন">

@@ -27,6 +27,8 @@
 <!-- LOCALIZATION NOTE (profilerUI.startRecording/profilerUI.stopRecording): These are
   -  the labels shown on the main recording buttons to start/stop recording. -->
 
+<!ENTITY profilerUI.startRecording "রেকর্ডিং পার্ফরম্যান্স শুরু করুন">
+<!ENTITY profilerUI.stopRecording  "রেকর্ডিং পার্ফরম্যান্স বন্ধ করুন">
 <!-- LOCALIZATION NOTE (profilerUI.bufferStatusTooltip): This string
   -  is displayed as the tooltip for the buffer capacity during a recording. -->
 <!-- LOCALIZATION NOTE (profilerUI.bufferStatusFull): This string
@@ -121,15 +123,19 @@
 
 <!ENTITY profilerUI.enableMemory             "মেমোরি রেকর্ড করুন">
 <!ENTITY profilerUI.enableMemory.tooltiptext "মেমোরির খরচ প্রোফাইলিং করবার সময় রেকর্ড করুন।">
+<!-- LOCALIZATION NOTE (profilerUI.enableAllocations): This string
+  -  is displayed next to a checkbox determining whether or not allocation
+  -  measurements are enabled. -->
+
 <!-- LOCALIZATION NOTE (profilerUI.enableFramerate): This string
   -  is displayed next to a checkbox determining whether or not framerate
   -  is recorded. -->
 
 <!ENTITY profilerUI.enableFramerate             "ফ্রেমরেট রেকর্ড করুন">
 <!ENTITY profilerUI.enableFramerate.tooltiptext "প্রোফাইল করবার সময় ফ্রেমরেট রেকর্ড করুন।">
-<!-- LOCALIZATION NOTE (profilerUI.showJITOptimizations): This string
+<!-- LOCALIZATION NOTE (profilerUI.enableJITOptimizations): This string
   -  is displayed next to a checkbox determining whether or not JIT optimization data
-  -  should be shown. -->
+  -  should be recorded. -->
 
 <!-- LOCALIZATION NOTE (profilerUI.JITOptimizationsTitle): This string
   -  is displayed as the title of the JIT Optimizations panel. -->
