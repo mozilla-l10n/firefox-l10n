@@ -62,7 +62,7 @@
 <!ENTITY sync.configure.engines.title.label "O que sincronizar">
 <!ENTITY sync.configure.engines.sync.my.title.label "Sincronizar seus…">
 <!ENTITY sync.configure.engines.title.bookmarks "Favoritos">
-<!ENTITY sync.configure.engines.title.passwords "Senhas">
+
 <!ENTITY sync.configure.engines.title.history "Histórico">
 <!ENTITY sync.configure.engines.title.tabs "Abas">
 <!-- Common text -->
@@ -141,7 +141,7 @@
 <!ENTITY fxaccount_policy_linkprivacy "Aviso de privacidade">
 
 <!ENTITY fxaccount_getting_started_welcome_to_sync "Bem-vindo ao &syncBrand.shortName.label;">
-<!ENTITY fxaccount_getting_started_description "Identifique-se para sincronizar suas abas, favoritos, senhas e mais.">
+
 <!ENTITY fxaccount_getting_started_get_started "Começar">
 <!ENTITY fxaccount_getting_started_old_firefox "Usando uma versão anterior do &syncBrand.shortName.label;?">
 <!-- Localization note: the Firefox below should not change with the
@@ -183,7 +183,7 @@
 <!ENTITY fxaccount_sign_in_unknown_error "Não foi possível identificar-se">
 
 <!ENTITY fxaccount_account_verified_sub_header "Conta verificada">
-<!ENTITY fxaccount_account_verified_description2 "Sua dados começarão a sincronizar em instantes.">
+<!ENTITY fxaccount_account_verified_description2 "Seus dados serão sincronizados em instantes.">
 
 <!ENTITY fxaccount_migration_finished_header "Atualização concluída">
 
@@ -212,7 +212,7 @@
 <!ENTITY fxaccount_status_needs_finish_migrating "Toque para entrar na sua nova conta Firefox.">
 <!ENTITY fxaccount_status_bookmarks "Favoritos">
 <!ENTITY fxaccount_status_history "Histórico">
-<!ENTITY fxaccount_status_passwords "Senhas">
+
 <!ENTITY fxaccount_status_tabs "Abas">
 <!ENTITY fxaccount_status_legal "Legal" >
 <!-- Localization note: when tapped, the following two strings link to
