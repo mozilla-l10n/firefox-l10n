@@ -6,8 +6,8 @@
 <!ENTITY  no_space_to_start_error "No hi ha prou espai lliure per poder iniciar el &brandShortName;.">
 <!ENTITY  error_loading_file "S\u0027ha produït un error en intentar carregar els fitxers necessaris per executar el &brandShortName;">
 
-<!ENTITY  onboard_start_message2 "Benvingut al &brandShortName;">
-<!ENTITY  onboard_start_subtext2 "Més característiques de privadesa i possibilitats de personalització que mai.">
+<!ENTITY  onboard_start_message3 "Navegeu amb el &brandShortName;">
+<!ENTITY  onboard_start_subtext3 "Feu que l\u0027experiència de navegació web mòbil sigui realment vostra.">
 <!ENTITY  onboard_start_button_account "Inicia la sessió al &brandShortName;">
 <!ENTITY  onboard_start_button_browser "Comença a navegar">
 <!-- Localization note: These are used as the titles of different pages on the home screen.
@@ -44,6 +44,9 @@
 <!ENTITY bookmark "Adreça d\u0027interès">
 <!ENTITY bookmark_remove "Elimina l\u0027adreça d\u0027interès">
 <!ENTITY bookmark_added "S\u0027ha afegit l\u0027adreça d\u0027interès">
+<!-- Localization note (bookmark_already_added) : This string is
+     used as a label in a toast. It is the verb "to bookmark", not
+     the noun "a bookmark". -->
 <!ENTITY bookmark_removed "S\u0027ha eliminat l\u0027adreça d\u0027interès">
 <!ENTITY bookmark_updated "S\u0027ha actualitzat l\u0027adreça d\u0027interès">
 <!ENTITY bookmark_options "Opcions">
@@ -77,6 +80,7 @@
 
 <!ENTITY settings "Paràmetres">
 <!ENTITY settings_title "Paràmetres">
+
 <!ENTITY pref_category_advanced "Avançat">
 <!ENTITY pref_category_customize "Personalitza">
 <!ENTITY pref_category_customize_summary "Inici, cerca, pestanyes, importa">
@@ -104,7 +108,7 @@
 
 <!ENTITY overlay_share_bookmark_btn_label "Afegeix a les adreces d\u0027interès">
 <!ENTITY overlay_share_reading_list_btn_label "Afegeix a la llista de lectura">
-<!ENTITY overlay_share_bookmark_btn_label_already "Ja és a les adreces d\u0027interès">
+
 <!ENTITY overlay_share_reading_list_btn_label_already "Ja és a la llista de lectura">
 <!ENTITY overlay_share_send_other "Envia a altres dispositius">
 <!-- Localization note (overlay_share_send_tab_btn_label) : Used on the
@@ -114,7 +118,6 @@
 
 <!ENTITY overlay_share_send_tab_btn_label "Envia a un altre dispositiu">
 <!ENTITY overlay_share_no_url "No s\u0027ha trobat cap enllaç per compartir">
-<!ENTITY overlay_share_retry "Torna-ho a provar">
 <!ENTITY overlay_share_select_device "Seleccioneu el dispositiu">
 <!-- Localization note (overlay_no_synced_devices) : Used when the menu option
      to send a tab to a synced device is pressed and no other synced devices
@@ -133,7 +136,7 @@
 <!ENTITY pref_category_display "Visualització">
 <!ENTITY pref_category_display_summary "Text, barra de títol, navegació a pantalla completa">
 <!ENTITY pref_category_privacy_short "Privadesa">
-<!ENTITY pref_category_privacy_summary "Controla contrasenyes, galetes, seguiment, dades">
+
 <!ENTITY pref_category_vendor "&vendorShortName;">
 <!ENTITY pref_category_vendor_summary "Quant al &brandShortName;, PMF, elecció de dades">
 <!ENTITY pref_category_datareporting "Elecció de dades">
@@ -150,11 +153,11 @@
      it is applicable. -->
 <!ENTITY pref_search_hint "CONSELL: Per afegir qualsevol lloc web a la llista de proveïdors de cerca, manteniu premut el camp de cerca i toqueu la icona &formatI;.">
 <!ENTITY pref_category_devtools "Eines per a desenvolupadors">
-<!ENTITY pref_category_devtools_summary "Depuració remota, ressaltat de l\u0027àrea actualitzada">
-<!ENTITY pref_developer_paint_flashing "Ressalta l\u0027àrea actualitzada">
 <!ENTITY pref_developer_remotedebugging "Depuració remota">
 <!ENTITY pref_category_logins "Inicis de sessió">
-<!ENTITY pref_remember_signons "Recorda les contrasenyes">
+
+
+
 <!ENTITY pref_manage_logins "Gestiona els inicis de sessió">
 
 <!ENTITY pref_category_home "Inici">
@@ -192,22 +195,21 @@
 <!ENTITY pref_donottrack_title "No vull ser seguit">
 <!ENTITY pref_donottrack_summary "El &brandShortName; farà saber als llocs web que no voleu que us segueixin">
 
-<!ENTITY tab_queue_toast_message "Obre més tard">
 <!ENTITY tab_queue_toast_action "Obre ara">
-<!-- Localization note (tab_queue_notification_text_plural) : The
+<!ENTITY tab_queue_prompt_title "Esteu obrint diversos enllaços?">
+
+<!ENTITY tab_queue_prompt_tip_text "podeu canviar-ho més tard als Paràmetres.">
+<!ENTITY tab_queue_prompt_positive_action_button "Activa">
+<!ENTITY tab_queue_prompt_negative_action_button "Ara no">
+<!ENTITY tab_queue_notification_title "&brandShortName;">
+<!-- Localization note (tab_queue_notification_text_plural2) : The
      formatD is replaced with the number of tabs queued.  The
      number of tabs queued is always more than one.  We can't use
      Android plural forms, sadly. See Bug #753859. -->
-<!ENTITY tab_queue_notification_text_plural "&formatD; pestanyes a la cua">
-<!-- Localization note (tab_queue_notification_title_plural) : This is the
-     title of a notification; we expect more than one tab queued. -->
-<!ENTITY tab_queue_notification_title_plural "Pestanyes a la cua">
-<!-- Localization note (tab_queue_notification_title_singular) : This is the
-     title of a notification; we expect only one tab queued. -->
-<!ENTITY tab_queue_notification_title_singular "Pestanya a la cua">
-<!-- Localization note (tab_queue_notification_text_singular) : This is the
+<!ENTITY tab_queue_notification_text_plural2 "&formatD; pestanyes a la cua">
+<!-- Localization note (tab_queue_notification_text_singular2) : This is the
      text of a notification; we expect only one tab queued. -->
-<!ENTITY tab_queue_notification_text_singular "1 pestanya a la cua">
+<!ENTITY tab_queue_notification_text_singular2 "1 pestanya a la cua">
 
 <!ENTITY pref_char_encoding "Codificació de caràcters">
 <!ENTITY pref_char_encoding_on "Mostra el menú">
@@ -248,20 +250,26 @@ size. -->
 <!ENTITY pref_zoom_force_enabled "Habilita sempre el zoom">
 <!ENTITY pref_zoom_force_enabled_summary "Fes que es pugui aplicar el zoom en qualsevol pàgina">
 
+
+
+
+
 <!ENTITY pref_use_master_password "Contrasenya mestra">
 <!ENTITY pref_sync "Sync">
-<!ENTITY pref_sync_summary "Sincronitza pestanyes, adreces d\u0027interès, contrasenyes, historial">
+
 <!ENTITY pref_search_suggestions "Mostra suggeriments de cerca">
 <!ENTITY pref_import_android "Importa de l\u0027Android">
 <!ENTITY pref_import_android_summary "Importa les adreces d\u0027interès i l\u0027historial del navegador natiu">
 <!ENTITY pref_private_data_history2 "Historial de navegació">
-<!ENTITY pref_private_data_formdata "Formularis i historial de cerca">
+<!ENTITY pref_private_data_searchHistory "Historial de cerca">
+<!ENTITY pref_private_data_formdata2 "Historial de formularis">
 <!ENTITY pref_private_data_cookies2 "Galetes i sessions actives">
-<!ENTITY pref_private_data_passwords "Contrasenyes desades">
+
 <!ENTITY pref_private_data_cache "Memòria cau">
 <!ENTITY pref_private_data_offlineApps "Dades de llocs web fora de línia">
 <!ENTITY pref_private_data_siteSettings2 "Paràmetres del lloc">
 <!ENTITY pref_private_data_downloadFiles2 "Baixades">
+
 
 
 <!ENTITY pref_about_firefox "Quant al &brandShortName;">
@@ -380,6 +388,12 @@ size. -->
 <!ENTITY doorhanger_login_edit_username_hint "Nom d\u0027usuari">
 <!ENTITY doorhanger_login_edit_password_hint "Contrasenya">
 <!ENTITY doorhanger_login_edit_toggle "Mostra la contrasenya">
+<!ENTITY doorhanger_login_edit_toast_error "No s\u0027ha pogut desar l\u0027inici de sessió">
+
+
+
+
+
 
 <!ENTITY pref_titlebar_mode "Barra de títol">
 <!ENTITY pref_titlebar_mode_title "Mostra el títol de la pàgina">
@@ -390,8 +404,8 @@ size. -->
 <!ENTITY pref_scroll_title_bar2 "Navegació a pantalla completa">
 <!ENTITY pref_scroll_title_bar_summary "Amaga la barra de títol del &brandShortName; en desplaçar la pàgina cap avall">
 
-<!ENTITY pref_tab_queue_title "Obre més tard">
-<!ENTITY pref_tab_queue_summary "Evita que les pestanyes s\u0027obrin immediatament, però obre totes les pestanyes en cua la propera vegada que es carregui el &brandShortName;.">
+<!ENTITY pref_tab_queue_title2 "Obre diversos enllaços">
+
 <!-- Localization note (page_removed): This string appears in a toast message when
      any page is removed frome about:home. This includes pages that are in history,
      bookmarks, or reading list. -->
@@ -409,8 +423,8 @@ size. -->
 <!ENTITY site_settings_cancel       "Cancel·la">
 <!ENTITY site_settings_clear        "Neteja">
 <!ENTITY site_settings_no_settings  "No hi ha cap paràmetre per netejar.">
-
-<!ENTITY reading_list_added "S\u0027ha afegit la pàgina a la llista de lectura">
+<!-- Localization note (reading_list_added2) : Used in a toast, please keep as short
+     as possible. -->
 <!ENTITY reading_list_removed "S\u0027ha eliminat la pàgina de la llista de lectura">
 <!-- Localization note (reading_list_remove) : Used to remove the currently open page from
      the user's reading list. The opposite of overlay_share_reading_list_btn_label. -->
@@ -439,7 +453,9 @@ size. -->
 <!ENTITY button_clear_data "Neteja les dades">
 <!ENTITY button_set "Defineix">
 <!ENTITY button_clear "Neteja">
-<!ENTITY button_remember "Recorda-la">
+<!ENTITY button_copy "Copia">
+
+<!ENTITY firstrun_panel_title_welcome "Us donem la benvinguda">
 
 <!ENTITY home_top_sites_title "Destacats">
 <!-- Localization note (home_top_sites_add): This string is used as placeholder
@@ -501,10 +517,6 @@ size. -->
      the text of a button; we expect more than one device. -->
 <!ENTITY home_remote_tabs_unhide_selected_devices "Mostra els dispositius seleccionats">
 
-<!ENTITY private_browsing_title "Navegació privada">
-<!ENTITY private_tabs_panel_empty_desc "Aquí es mostren les pestanyes privades. Tot i que no es conservaran ni l\u0027historial de navegació ni les galetes, sí que es desaran al dispositiu les adreces d\u0027interès i els fitxers que baixeu.">
-<!ENTITY private_tabs_panel_learn_more "Voleu més informació?">
-
 <!ENTITY remote_tabs_panel_moved_title "On són les meves pestanyes?">
 <!ENTITY remote_tabs_panel_moved_desc "Hem mogut les vostres pestanyes dels altres dispositius a una subfinestra de la pàgina d\u0027inici, a la qual podeu accedir fàcilment sempre que obriu una pestanya nova.">
 <!ENTITY remote_tabs_panel_moved_link "Vés a la subfinestra nova.">
@@ -532,6 +544,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_run_by "que pertany a">
 <!ENTITY identity_no_info "El lloc web no proporciona cap informació d\u0027identitat.">
 <!ENTITY identity_not_encrypted "La vostra connexió a aquest lloc web no està xifrada.">
+<!ENTITY identity_encrypted "Xifrat">
 <!-- Mixed content notifications in site identity popup -->
 
 <!ENTITY loaded_mixed_content_message "Aquesta pàgina mostra contingut no segur.">
@@ -598,7 +611,7 @@ de l\u0027Android">
 <!ENTITY guest_session_dialog_continue "Continua">
 <!ENTITY guest_session_dialog_cancel "Cancel·la">
 <!ENTITY new_guest_session_title "El &brandShortName; es reiniciarà ara">
-<!ENTITY new_guest_session_text "La persona que l\u0027utilitzi no podrà veure cap de les dades de navegació personals (com les contrasenyes desades, l\u0027historial o les adreces d\u0027interès).\n\nQuan el convidat hagi acabat, se suprimiran les seves dades de navegació i es restaurarà la vostra sessió.">
+
 <!ENTITY guest_browsing_notification_title "S\u0027ha activat la navegació en mode de convidat">
 <!ENTITY guest_browsing_notification_text "Toqueu per sortir">
 
@@ -612,6 +625,14 @@ de l\u0027Android">
 <!ENTITY ellipsis "…">
 
 <!ENTITY colon ":">
+<!-- LOCALIZATION NOTE (percent): The percent sign is appended after a number to
+     display a percentage value. formatS is the number, #37 is the code to display a percent sign.
+     This format string is typically used by getString method, in such method the percent sign
+     is a reserved caracter. In order to display one percent sign in the result of getString,
+     double percent signs must be inserted in the format string.
+     This entity is used in the zoomed view to display the zoom factor-->
+
+<!ENTITY percent "&formatS;&#037;&#037;">
 <!-- These are only used for accessibility for the done and overflow-menu buttons in the actionbar.
      They are never shown to users -->
 
@@ -639,3 +660,4 @@ de l\u0027Android">
      if match-case is activated. i.e. No more than two letters, one uppercase, one lowercase. -->
 
 <!ENTITY find_matchcase "Àà·Çç">
+
