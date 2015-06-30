@@ -160,7 +160,6 @@
 <!ENTITY debuggerUI.seMenuCondBreak.key "B">
 <!-- LOCALIZATION NOTE (debuggerUI.tabs.*): This is the text that
   -  appears in the debugger's side pane tabs. -->
-
 <!ENTITY debuggerUI.tabs.sources        "Сорсове">
 <!ENTITY debuggerUI.tabs.traces         "Проследявания">
 <!ENTITY debuggerUI.tabs.callstack      "Стек на извиквания">

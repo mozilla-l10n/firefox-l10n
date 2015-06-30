@@ -26,7 +26,7 @@
 <!ENTITY device.allow "Разрешаване">
 <!ENTITY device.allowTooltip "За този вид приложения, това право е разрешено">
 <!ENTITY device.prompt "Питане">
-<!ENTITY device.promptTooltip "За този вид приложения, това право изисква питане на потребителя ">
+<!ENTITY device.promptTooltip "За този вид приложения, това право изисква питане на потребителя">
 <!ENTITY device.deny "Забранено">
 <!ENTITY device.denyTooltip "За този вид приложения, това право е забранено">
 <!ENTITY device.installedApps "Инсталирани приложения">

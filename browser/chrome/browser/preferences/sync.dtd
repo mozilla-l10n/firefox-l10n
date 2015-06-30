@@ -42,6 +42,10 @@
 
 <!ENTITY syncDeviceName.label       "Име на устройството:">
 <!ENTITY syncDeviceName.accesskey   "И">
+
+
+<!ENTITY cancelChangeSyncDeviceName.label "Прекъсване">
+<!ENTITY saveChangeSyncDeviceName.label "Запис">
 <!ENTITY unlinkDevice.label           "Разкачване на устройството">
 <!-- Footer stuff -->
 
