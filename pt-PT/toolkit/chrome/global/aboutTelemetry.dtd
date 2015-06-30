@@ -4,11 +4,22 @@
 
 <!ENTITY aboutTelemetry.pageTitle "Dados de telemetria">
 
-<!ENTITY aboutTelemetry.telemetryEnabled "  A telemetria está <span>ativada</span>.">
 
-<!ENTITY aboutTelemetry.telemetryDisabled "  A telemetria está <span>desativada</span>.">
+
+
+
+
+
+
+
+
+
+
+
+
 
 <!ENTITY aboutTelemetry.generalDataSection "  Dados gerais">
+
 
 <!ENTITY aboutTelemetry.telemetryLogSection "  Registo de telemetria">
 
