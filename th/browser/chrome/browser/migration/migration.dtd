@@ -20,6 +20,8 @@
 <!ENTITY importFromFirefox.label        "Firefox">
 <!ENTITY importFromFirefox.accesskey    "x">
 
+
+
 <!ENTITY noMigrationSources.label       "ไม่พบโปรแกรมใดที่มีข้อมูลที่คั่นหน้า, ประวัติ หรือรหัสผ่าน">
 
 <!ENTITY importSource.title             "นำเข้าค่าตั้งและข้อมูล">
