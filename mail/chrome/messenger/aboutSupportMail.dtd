@@ -15,5 +15,6 @@
 <!ENTITY aboutSupport.accountsConnSecurity "Segurança da conexão">
 <!ENTITY aboutSupport.accountsAuthMethod "Modo de autenticação">
 <!ENTITY aboutSupport.accountsDefault "Padrão?">
+<!ENTITY aboutSupport.identityName "Identidade">
 
 <!ENTITY aboutSupport.sendViaEmail.label "Enviar por e-mail">
