@@ -34,6 +34,7 @@
 
 <!ENTITY showUnifinderCmd.label "Find begivenheder">
 <!ENTITY showUnifinderCmd.accesskey "F">
+<!ENTITY showUnifinderCmd.tooltip  "Slå søg i begivenheder til eller fra">
 
 <!ENTITY calendar.displaytodos.checkbox.label "Vis opgaver i Kalender">
 <!ENTITY calendar.displaytodos.checkbox.accesskey "V">

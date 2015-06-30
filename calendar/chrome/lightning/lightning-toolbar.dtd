@@ -9,10 +9,15 @@
 
 
 <!ENTITY lightning.toolbar.sync.label "Synkroniser">
+<!ENTITY lightning.toolbar.sync.tooltip "Genindlæs kalendere og synkroniser ændringer">
 <!ENTITY lightning.toolbar.delete.label "Slet">
+<!ENTITY lightning.toolbar.delete.tooltip "Slet de valgte begivenheder eller opgaver">
 <!ENTITY lightning.toolbar.edit.label "Rediger">
+<!ENTITY lightning.toolbar.edit.tooltip "Rediger den valgte begivenhed eller opgaver">
 <!ENTITY lightning.toolbar.gototoday.label "Gå til i dag">
+<!ENTITY lightning.toolbar.gototoday.tooltip "Gå til i dag">
 <!ENTITY lightning.toolbar.print.label "Udskriv">
+<!ENTITY lightning.toolbar.print.tooltip "Udskriv begivenheder eller opgaver">
 
 <!-- Mode Toolbar -->
 <!ENTITY lightning.toolbar.calendar.label     "Kalender">
@@ -24,7 +29,9 @@
 
 <!-- Toolbar write button -->
 <!ENTITY lightning.toolbar.newevent.label "Begivenhed">
+<!ENTITY lightning.toolbar.newevent.tooltip   "Opret en ny begivenhed">
 <!ENTITY lightning.toolbar.newtask.label "Opgave">
+<!ENTITY lightning.toolbar.newtask.tooltip    "Opret en ny opgave">
 
 <!-- Calendar and Task Mode Toolbar -->
 <!ENTITY lightning.toolbar.day.label                 "Dag">
