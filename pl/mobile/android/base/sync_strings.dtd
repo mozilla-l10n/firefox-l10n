@@ -107,10 +107,7 @@
 <!ENTITY sync.text.tab.sent.label 'Karta wysłana!'>
 <!ENTITY sync.text.tab.not.sent.label 'Wystąpił błąd przy wysyłaniu karty.'>
 
-<!-- Firefox account strings -->
-
-<!ENTITY fxaccount_full_label 'Konta Firefox'>
-
+<!ENTITY fxaccount_full_label "Konta Firefoksa">
 <!ENTITY fxaccount_custom_server_account_title 'Korzystanie z konta na serwerze'>
 <!ENTITY fxaccount_custom_server_sync_title 'Zachowywanie danych synchronizacji na serwerze'>
 
@@ -136,9 +133,9 @@ the two uses differently. -->
 <!ENTITY fxaccount_policy_linkprivacy 'Polityka prywatności'>
 <!ENTITY fxaccount_status_more 'Więcej&ellipsis;'>
 
-<!ENTITY fxaccount_remove_account_dialog_title 'Usunąć konto Firefox?'>
+<!ENTITY fxaccount_remove_account_dialog_title "Usunąć konto Firefoksa?">
 <!ENTITY fxaccount_remove_account_dialog_message '&brandShortName; przestanie synchronizować dane przeglądarki z twoim kontem, ale nie usunie ich z tego urządzenia.'>
-<!ENTITY fxaccount_remove_account_toast 'Usunięto konto Firefox użytkownika &formatS;.'>
+<!ENTITY fxaccount_remove_account_toast "Usunięto konto Firefoksa użytkownika &formatS;.">
 
 <!ENTITY fxaccount_remove_account_menu_item 'Usuń konto'>
 
@@ -147,7 +144,7 @@ the two uses differently. -->
 <!ENTITY fxaccount_getting_started_get_started 'Pierwsze kroki'>
 <!ENTITY fxaccount_getting_started_old_firefox 'Korzystasz ze starej wersji usługi &syncBrand.shortName.label;?'>
 
-<!ENTITY fxaccount_create_account_header2 'Utwórz konto Firefox'>
+<!ENTITY fxaccount_create_account_header2 "Utwórz konto Firefoksa">
 <!ENTITY fxaccount_create_account_password_length_restriction 'Hasło musi mieć przynajmniej 8 znaków'>
 <!ENTITY fxaccount_create_account_day_of_birth "Dzień">
 <!ENTITY fxaccount_create_account_month_of_birth "Miesiąc">
@@ -193,7 +190,7 @@ the two uses differently. -->
 <!ENTITY fxaccount_finish_migrating_button_label "Dokończ aktualizację">
 <!ENTITY fxaccount_finish_migrating_description "Aktualizacja może spowodować przesłanie dużej ilości danych. Najlepiej zrobić to poprzez sieć Wi-Fi.">
 
-<!ENTITY fxaccount_status_header2 'Konto Firefox'>
+<!ENTITY fxaccount_status_header2 "Konto Firefoksa">
 <!ENTITY fxaccount_status_signed_in_as 'Zalogowano jako'>
 <!ENTITY fxaccount_status_auth_server 'Serwer konta'>
 <!ENTITY fxaccount_status_sync_now "Synchronizuj">

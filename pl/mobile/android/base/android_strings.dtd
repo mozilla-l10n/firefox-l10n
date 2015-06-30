@@ -428,10 +428,10 @@ it is applicable. -->
 <!ENTITY home_remote_tabs_title "Zsynchronizowane">
 <!ENTITY home_remote_tabs_empty "Tutaj pojawią się twoje karty zsynchronizowane z innymi urządzeniami.">
 <!ENTITY home_remote_tabs_unable_to_connect "Nie udało się nawiązać połączenia">
-<!ENTITY home_remote_tabs_need_to_sign_in "Zaloguj się na konto Firefox, aby kontynuować synchronizację.">
+<!ENTITY home_remote_tabs_need_to_sign_in "Zaloguj się na konto Firefoksa, aby kontynuować synchronizację.">
 <!ENTITY home_remote_tabs_need_to_finish_migrating "Twoje nowe konto Firefoksa jest gotowe!">
 <!ENTITY home_remote_tabs_trouble_verifying "Masz problem z weryfikacją konta?">
-<!ENTITY home_remote_tabs_need_to_verify "Przed synchronizacją musisz zweryfikować konto Firefox.">
+<!ENTITY home_remote_tabs_need_to_verify "Przed synchronizacją musisz zweryfikować konto Firefoksa.">
 
 <!ENTITY private_browsing_title "Tryb prywatny">
 <!ENTITY private_tabs_panel_empty_desc "Tu wyświetlą się twoje prywatne karty. Nie zachowamy historii przeglądania ani ciasteczek z tej sesji, ale zachowane zakładki i pobrane pliki zostaną na twoim urządzeniu.">
