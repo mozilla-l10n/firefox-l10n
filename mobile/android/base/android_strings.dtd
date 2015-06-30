@@ -6,16 +6,17 @@
 <!ENTITY  no_space_to_start_error "শুরু করার জন্য &brandShortName; এ পর্যাপ্ত পরিমান জায়গা নেই।">
 <!ENTITY  error_loading_file "&brandShortName; চালাতে প্রয়োজনীয় ফাইল লোড করার সময় ত্রুটি ঘটেছে">
 
+<!ENTITY  onboard_start_message3 "&brandShortName;-এর সাথে ব্রাউজ করুন">
 
 
-
+<!ENTITY  onboard_start_button_browser "ব্রাউজিং শুরু করুন">
 <!-- Localization note: These are used as the titles of different pages on the home screen.
      They are automatically converted to all caps by the Android platform. -->
 
 <!ENTITY  bookmarks_title "বুকমার্কসমুহ">
 <!ENTITY  history_title "ইতিহাস">
 <!ENTITY  reading_list_title "পড়ার তালিকা">
-
+<!ENTITY  recent_tabs_title "সাম্প্রতিক ট্যাব">
 
 <!ENTITY  switch_to_tab " ট্যাবে সুইচ করুন   ">
 
@@ -38,17 +39,22 @@
 
 <!ENTITY choose_file "ফাইল নির্বাচন করুন">
 
+<!ENTITY url_bar_default_text2 "অনুসন্ধান করুন অথবা ঠিকানা দিন">
 
-
+<!ENTITY bookmark "বুকমার্ক">
+<!ENTITY bookmark_remove "বুকমার্ক মুছে ফেলুন">
 <!ENTITY bookmark_added "বুকমার্ক সংযুক্ত করা হয়েছে">
+<!-- Localization note (bookmark_already_added) : This string is
+     used as a label in a toast. It is the verb "to bookmark", not
+     the noun "a bookmark". -->
 <!ENTITY bookmark_removed "বুকমার্ক অপসারণ করা হয়েছে">
 <!ENTITY bookmark_updated "বুকমার্ক আপডেট করা হয়েছে">
 <!ENTITY bookmark_options "অপশন">
 
 <!ENTITY history_today_section "আজ">
 <!ENTITY history_yesterday_section "গতকাল">
-
-
+<!ENTITY history_week_section2 "গত সপ্তাহে">
+<!ENTITY history_older_section2 "গত মাসে">
 
 <!ENTITY go "যান">
 <!ENTITY search "খুজুন">
@@ -56,7 +62,7 @@
 <!ENTITY forward "পরবর্তী">
 <!ENTITY menu "মেনু">
 <!ENTITY back "পূর্ববর্তী">
-
+<!ENTITY stop "থামুন">
 <!ENTITY site_security "সাইটের নিরাপত্তা">
 <!ENTITY edit_mode_cancel "বাতিল করুন">
 
@@ -64,8 +70,9 @@
 <!ENTITY one_tab "১ ট্যাব">
 <!-- Localization note (num_tabs2) : Number of tabs is always more than one.
      We can't use android plural forms, sadly. See bug #753859. -->
+<!ENTITY num_tabs2 "&formatD; ট্যাব">
 <!ENTITY new_tab_opened "নতুন ট্যাব খোলা হয়েছে">
-
+<!ENTITY new_private_tab_opened "নতুন প্রাইভেট ট্যাব খোলা হয়েছে">
 <!-- Localization note (switch_button_message): This string should be as short
      as possible because it's shown as a label in a toast.  Ideally, this string
      is upper-case, to match Google and Android's convention. -->
@@ -74,14 +81,17 @@
 <!ENTITY settings "সেটিংসমূহ">
 <!ENTITY settings_title "সেটিংসমূহ">
 
-
-
+<!ENTITY pref_category_advanced "উন্নত">
+<!ENTITY pref_category_customize "কাস্টমাইজ করুন">
+<!ENTITY pref_category_customize_summary "হোম, অনুসন্ধান, ট্যাব, ইম্পোর্ট">
 
 <!-- Localization note (pref_category_language) : This is the preferences
      section in which the user picks the locale in which to display Firefox
      UI. The locale includes both language and region concepts. -->
 
-
+<!ENTITY pref_category_language "ভাষা">
+<!ENTITY pref_category_language_summary "আপনার ব্রাউজারের ভাষা পরিবর্তন করুন">
+<!ENTITY pref_browser_locale "ব্রাউজারের ভাষা">
 <!-- Localization note (locale_system_default) : This string indicates that
      Firefox will use the locale currently selected in Android's settings
      to display browser chrome. -->
@@ -91,16 +101,20 @@
 <!-- Localization note (overlay_share_bookmark_btn_label) : This string is
      used in the share overlay menu to select an action. It is the verb
      "to bookmark", not the noun "a bookmark". -->
+
+<!ENTITY overlay_share_bookmark_btn_label "বুকমার্ক">
 <!ENTITY overlay_share_reading_list_btn_label "পঠন তালিকায় যোগ করুন">
 
-
-
+<!ENTITY overlay_share_reading_list_btn_label_already "ইতমধ্যেই পঠন তালিকায় রয়েছে">
+<!ENTITY overlay_share_send_other "অন্য ডিভাইসে প্রেরণ করুন">
 <!-- Localization note (overlay_share_send_tab_btn_label) : Used on the
      share overlay menu to represent the "Send Tab" action when the user
      either has not set up Sync, or has no other devices to send a tab
      to. -->
 
+<!ENTITY overlay_share_send_tab_btn_label "অন্য ডিভাইসে প্রেরণ করুন">
 
+<!ENTITY overlay_share_select_device "ডিভাইস নির্বাচন করুন">
 <!-- Localization note (overlay_no_synced_devices) : Used when the menu option
      to send a tab to a synced device is pressed and no other synced devices
      are found. -->
@@ -113,9 +127,9 @@
 
 <!ENTITY pref_category_search3 "অনুসন্ধান করুন">
 
+<!ENTITY pref_category_display "প্রদর্শন">
 
-
-
+<!ENTITY pref_category_privacy_short "গোপনীয়তা">
 
 
 
@@ -131,14 +145,18 @@
      search providers.
      The &formatI; in the string will be replaced by a small image of the icon described, and can be moved to wherever
      it is applicable. -->
+<!ENTITY pref_search_hint "পরামর্শ: যেকোনো ওয়েবসাইটকে আপনার অনুসন্ধান প্রদানকারীদের তালিকায় যুক্ত করতে সেই ওয়েবসাইটের অনুসন্ধানক্ষেত্রে কিছুক্ষন চেপে রেখে &formatI; আইকনে ক্লিক করুন।">
+<!ENTITY pref_category_devtools "ডেভলপার টুলসমূহ">
+
+<!ENTITY pref_category_logins "লগইন">
 
 
 
-<!ENTITY pref_remember_signons "পাসওয়ার্ড মনে রাখুন">
 
 
-
-
+<!ENTITY pref_category_home "হোম">
+<!ENTITY pref_category_home_summary "আপনার হোমপেজ কাস্টমাইজ করুন">
+<!ENTITY pref_category_home_panels "প্যানেল">
 
 
 <!-- Localization note (home_add_panel_installed):
@@ -146,17 +164,19 @@
      selected to be added to the home page. -->
 
 <!ENTITY pref_home_updates "স্বয়ংক্রিয় হালনাগাদ">
-
-
+<!ENTITY pref_home_updates_enabled "সক্রিয়">
+<!ENTITY pref_home_updates_wifi "শুধু ওয়াইফাই নির্ভর">
 <!ENTITY pref_home_suggested_sites "সাইট পরামর্শ দেখাও">
-
+<!ENTITY pref_home_suggested_sites_summary "আপনার হোমপেজে কিছু সাইটের শর্টকাট যুক্ত করে দেওয়া হল যেগুলো আপনার পছন্দ হতে পারে।">
 <!-- Localization note: These are shown in the left sidebar on tablets -->
 
-
-
-
-
-
+<!ENTITY pref_header_customize "কাস্টমাইজ">
+<!ENTITY pref_header_display "প্রদর্শন">
+<!ENTITY pref_header_privacy_short "গোপনীয়তা">
+<!ENTITY pref_header_help "সহায়তা">
+<!ENTITY pref_header_language "ভাষা">
+<!ENTITY pref_header_vendor "&vendorShortName;">
+<!ENTITY pref_header_devtools "ডেভলপার টুলসমূহ">
 
 <!ENTITY pref_cookies_menu "কুকি">
 <!ENTITY pref_cookies_accept_all "সক্রিয়">
@@ -165,7 +185,7 @@
 
 
 
-
+<!ENTITY pref_donottrack_summary "&brandShortName; সাইট দের বলে যে আপনি ট্র্যাক হতে চান না">
 
 
 
@@ -197,7 +217,7 @@
 
 <!ENTITY pref_restore "ট্যাব">
 
-
+<!ENTITY pref_restore_quit "প্রস্থান করার পর রিস্টোর করা হবে না &brandShortName;">
 <!ENTITY pref_font_size_tiny "অতিক্ষুদ্র">
 <!ENTITY pref_font_size_small "ছোট">
 <!ENTITY pref_font_size_medium "মাঝারি">
@@ -219,6 +239,10 @@ size. -->
 
 
 
+
+
+
+
 <!ENTITY pref_use_master_password "মাস্টার পাসওয়ার্ড ব্যবহার করুন">
 <!ENTITY pref_sync "সিঙ্ক">
 
@@ -229,10 +253,11 @@ size. -->
 
 
 <!ENTITY pref_private_data_cookies2 "কুকি এবং সক্রিয় লগইন">
-<!ENTITY pref_private_data_passwords "সংরক্ষিত পাসওয়ার্ড">
+
 <!ENTITY pref_private_data_cache "ক্যাশ">
 <!ENTITY pref_private_data_offlineApps "অফলাইন ওয়েবসাইটের তথ্য">
 <!ENTITY pref_private_data_siteSettings2 "সাইটের সেটিং">
+
 
 
 
@@ -252,7 +277,7 @@ size. -->
 
 
 
-
+<!ENTITY datareporting_notification_summary "আপনার অভিজ্ঞতা উন্নত করার জন্য &brandShortName; &vendorShortName; -কে স্বয়ংক্রিয়ভাবে কিছু তথ্য প্রেরণ করবে।">
 
 
 <!-- Localization note (datareporting_fhr_title, datareporting_fhr_summary2,
@@ -261,15 +286,15 @@ size. -->
      en-US/chrome/browser/preferences/advanced.dtd (healthReportSection.label,
      healthReportDesc.label, telemetrySection.label, telemetryDesc.label,
      crashReporterDesc.label). -->
+<!ENTITY datareporting_fhr_summary2 "আপনার ব্রাউসারের স্বাস্থ্য সম্বন্ধে &vendorShortName; এর সাথে ডেটা শেয়ার করে  এবং আপনাকে সাহায্য করে আপনার ব্রাউসারের কার্যকারিতা অনুধাবন করতে">
 
 
-
-
-
+<!ENTITY datareporting_telemetry_summary "&brandShortName; কে আরও ভাল করে তুলতে আমাদের সাহায্য করার জন্য আপনার ব্রাউজারের কর্মক্ষমতা, ব্যবহার, হার্ডওয়্যার এবং স্বনির্ধারণ সম্পর্কিত তথ্য &vendorShortName; কে জানায়">
+<!ENTITY datareporting_crashreporter_summary "আপনার ব্রাউজারকে আরও স্থিতিশীল এবং নিরাপদ করতে সাহায্য করার জন্য &brandShortName; &vendorShortName; কে ক্র্যাশ রিপোর্ট পাঠাচ্ছে">
 <!-- Localization note (datareporting_crashreporter_title_short) : This string matches
      (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
 
-
+<!ENTITY datareporting_wifi_geolocation_summary4 "সাহায্য করুন &vendorShortName; পৃথিবীকে ম্যাপ করুন! আপনার ডিভাইসের Wi-Fi এবং সেলুলার অবস্থান শেয়ার করুন আমাদের ভৈগোলিক অবস্থানের সার্ভিসকে সাহায্য করার জন্য।">
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
      actual notification that an update is available. -->
@@ -341,6 +366,11 @@ size. -->
 
 
 
+
+
+
+
+
 <!-- Localization note (pref_scroll_title_bar2): Label for setting that controls
      whether or not the dynamic toolbar is enabled. -->
 
@@ -361,8 +391,8 @@ size. -->
 
 <!ENTITY site_settings_clear        "মুছে ফেলা হবে">
 <!ENTITY site_settings_no_settings  "পরিস্কার করার জন্য কোন সেটিংস নেই।">
-
-<!ENTITY reading_list_added "আপনার পঠন তালিকায় পৃষ্ঠা যোগ করা হয়েছে">
+<!-- Localization note (reading_list_added2) : Used in a toast, please keep as short
+     as possible. -->
 <!ENTITY reading_list_removed "আপনার পঠন তালিকায় পৃষ্ঠা অপসারণ করা হয়েছে">
 <!-- Localization note (reading_list_remove) : Used to remove the currently open page from
      the user's reading list. The opposite of overlay_share_reading_list_btn_label. -->
@@ -386,7 +416,7 @@ size. -->
 <!ENTITY button_clear_data "তথ্য পরিষ্কার করুন">
 
 
-<!ENTITY button_remember "স্মরণে রাখা হবে">
+<!ENTITY button_copy "অনুলিপি">
 
 
 <!ENTITY home_top_sites_title "শীর্ষ সাইট">
@@ -434,10 +464,6 @@ size. -->
 <!-- Localization note (home_remote_tabs_unhide_selected_devices) : This is
      the text of a button; we expect more than one device. -->
 
-<!ENTITY private_browsing_title "একান্ত ব্রাউজিং">
-
-
-
 
 
 
@@ -462,6 +488,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_run_by "উপরোক্ত সাইটটির পরিচালক">
 
 
+<!ENTITY identity_encrypted "এনক্রিপ্ট করা হয়েছে">
 <!-- Mixed content notifications in site identity popup -->
 
 
@@ -551,3 +578,4 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- Find-In-Page strings -->
 <!-- LOCALIZATION NOTE (find_matchcase): This is meant to appear as an icon that changes color
      if match-case is activated. i.e. No more than two letters, one uppercase, one lowercase. -->
+
