@@ -21,7 +21,7 @@
 <!ENTITY  switch_to_tab "Alternar para a aba">
 
 <!ENTITY  crash_reporter_title "&brandShortName; Crash Reporter">
-<!ENTITY  crash_message2 "O &brandShortName; encontrou um problema e travou. Suas abas serão listadas na página inicial do &brandShortName; quando você reiniciar.">
+<!ENTITY  crash_message2 "O &brandShortName; encontrou um problema e travou. Suas abas serão listadas na página inicial do &brandShortName; quando reiniciar.">
 <!ENTITY  crash_send_report_message3 "Notificar a &vendorShortName; para que eles possam corrigi-lo">
 <!ENTITY  crash_include_url2 "Incluir o endereço da página em que eu estava">
 <!ENTITY  crash_sorry "Nos desculpe">
@@ -41,17 +41,20 @@
 
 <!ENTITY url_bar_default_text2 "Pesquisar ou abrir endereço">
 
-<!ENTITY bookmark "Favoritar">
+<!ENTITY bookmark "Favorito">
 <!ENTITY bookmark_remove "Remover favorito">
 <!ENTITY bookmark_added "Favorito adicionado">
+<!-- Localization note (bookmark_already_added) : This string is
+     used as a label in a toast. It is the verb "to bookmark", not
+     the noun "a bookmark". -->
 <!ENTITY bookmark_removed "Favorito removido">
-<!ENTITY bookmark_updated "Favoritos atualizados">
+<!ENTITY bookmark_updated "Favorito atualizado">
 <!ENTITY bookmark_options "Opções">
 
 <!ENTITY history_today_section "Hoje">
 <!ENTITY history_yesterday_section "Ontem">
-<!ENTITY history_week_section2 "Última semana">
-<!ENTITY history_older_section2 "Último mês">
+<!ENTITY history_week_section2 "Semana passada">
+<!ENTITY history_older_section2 "Mês passado">
 
 <!ENTITY go "Ir">
 <!ENTITY search "Pesquisar">
@@ -77,6 +80,7 @@
 
 <!ENTITY settings "Configurações">
 <!ENTITY settings_title "Configurações">
+
 <!ENTITY pref_category_advanced "Avançado">
 <!ENTITY pref_category_customize "Personalizar">
 <!ENTITY pref_category_customize_summary "Página inicial, pesquisar, abas, importar">
@@ -104,7 +108,7 @@
 
 <!ENTITY overlay_share_bookmark_btn_label "Favoritar">
 <!ENTITY overlay_share_reading_list_btn_label "Adicionar à lista de leitura">
-<!ENTITY overlay_share_bookmark_btn_label_already "Já está nos favoritos">
+
 <!ENTITY overlay_share_reading_list_btn_label_already "Já na lista de leitura">
 <!ENTITY overlay_share_send_other "Enviar para outros dispositivos">
 <!-- Localization note (overlay_share_send_tab_btn_label) : Used on the
@@ -132,7 +136,7 @@
 <!ENTITY pref_category_display "Aparência">
 <!ENTITY pref_category_display_summary "Texto, barra de título, navegação em tela inteira">
 <!ENTITY pref_category_privacy_short "Privacidade">
-<!ENTITY pref_category_privacy_summary "Controle senhas, cookies, rastreamento, dados">
+
 <!ENTITY pref_category_vendor "&vendorShortName;">
 <!ENTITY pref_category_vendor_summary "Sobre o &brandShortName;, FAQs, escolhas de dados">
 <!ENTITY pref_category_datareporting "Escolha de dados">
@@ -151,7 +155,9 @@
 <!ENTITY pref_category_devtools "Ferramentas do desenvolvedor">
 <!ENTITY pref_developer_remotedebugging "Depuração remota">
 <!ENTITY pref_category_logins "Logins">
-<!ENTITY pref_remember_signons "Memorizar senhas">
+
+
+
 <!ENTITY pref_manage_logins "Gerenciar logins">
 
 <!ENTITY pref_category_home "Página inicial">
@@ -165,7 +171,7 @@
 <!ENTITY home_add_panel_installed "\u0027&formatS;\u0027 adicionado à página inicial">
 <!ENTITY pref_category_home_content_settings "Conteúdo">
 <!ENTITY pref_home_updates "Atualização automática">
-<!ENTITY pref_home_updates_enabled "Ativa">
+<!ENTITY pref_home_updates_enabled "Ativada">
 <!ENTITY pref_home_updates_wifi "Somente com Wi-Fi">
 <!ENTITY pref_home_suggested_sites "Exibir sugestões de sites">
 <!ENTITY pref_home_suggested_sites_summary "Exibir na sua página inicial atalhos de sites que pensamos que você ache interessantes">
@@ -189,10 +195,9 @@
 <!ENTITY pref_donottrack_title "Não rastrear">
 <!ENTITY pref_donottrack_summary "O &brandShortName; informará aos sites que você não quer ser rastreado">
 
-<!ENTITY tab_queue_toast_message2 "Aba na fila de espera do &brandShortName;">
 <!ENTITY tab_queue_toast_action "Abrir agora">
 <!ENTITY tab_queue_prompt_title "Abrindo múltiplos links?">
-<!ENTITY tab_queue_prompt_text2 "Abra-os sem trocar para o &brandShortName; a cada vez.">
+
 <!ENTITY tab_queue_prompt_tip_text "você pode alterar isso mais tarde em Configurações">
 <!ENTITY tab_queue_prompt_positive_action_button "Ativar">
 <!ENTITY tab_queue_prompt_negative_action_button "Agora não">
@@ -245,9 +250,13 @@ size. -->
 <!ENTITY pref_zoom_force_enabled "Sempre ativar o zoom">
 <!ENTITY pref_zoom_force_enabled_summary "Forçar a ativação do zoom em qualquer página">
 
+
+
+
+
 <!ENTITY pref_use_master_password "Usar senha mestra">
 <!ENTITY pref_sync "Sync">
-<!ENTITY pref_sync_summary "Sincronize suas abas, favoritos, senhas, histórico">
+
 <!ENTITY pref_search_suggestions "Sugerir pesquisas">
 <!ENTITY pref_import_android "Importar do Android">
 <!ENTITY pref_import_android_summary "Importar favoritos e histórico do navegador nativo">
@@ -255,11 +264,12 @@ size. -->
 <!ENTITY pref_private_data_searchHistory "Histórico de pesquisas">
 <!ENTITY pref_private_data_formdata2 "Histórico de formulários">
 <!ENTITY pref_private_data_cookies2 "Cookies e logins ativos">
-<!ENTITY pref_private_data_passwords "Senhas memorizadas">
+
 <!ENTITY pref_private_data_cache "Cache">
 <!ENTITY pref_private_data_offlineApps "Dados offline de sites">
 <!ENTITY pref_private_data_siteSettings2 "Configurações de sites">
 <!ENTITY pref_private_data_downloadFiles2 "Downloads">
+
 
 
 <!ENTITY pref_about_firefox "Sobre o &brandShortName;">
@@ -380,6 +390,11 @@ size. -->
 <!ENTITY doorhanger_login_edit_toggle "Mostrar senha">
 <!ENTITY doorhanger_login_edit_toast_error "Falha ao salvar o login">
 
+
+
+
+
+
 <!ENTITY pref_titlebar_mode "Barra de título">
 <!ENTITY pref_titlebar_mode_title "Exibir título da página">
 <!ENTITY pref_titlebar_mode_url "Exibir endereço da página">
@@ -390,7 +405,7 @@ size. -->
 <!ENTITY pref_scroll_title_bar_summary "Ocultar a barra de título do &brandShortName; ao rolar a tela para baixo">
 
 <!ENTITY pref_tab_queue_title2 "Abir múltiplos links">
-<!ENTITY pref_tab_queue_summary2 "Colocar links em fila em vez de trocar para o &brandShortName; sempre">
+
 <!-- Localization note (page_removed): This string appears in a toast message when
      any page is removed frome about:home. This includes pages that are in history,
      bookmarks, or reading list. -->
@@ -408,8 +423,8 @@ size. -->
 <!ENTITY site_settings_cancel       "Cancelar">
 <!ENTITY site_settings_clear        "Limpar">
 <!ENTITY site_settings_no_settings  "Não há configurações para limpar.">
-
-<!ENTITY reading_list_added "Página adicionada à lista de leitura">
+<!-- Localization note (reading_list_added2) : Used in a toast, please keep as short
+     as possible. -->
 <!ENTITY reading_list_removed "Página removida da sua lista de leitura">
 <!-- Localization note (reading_list_remove) : Used to remove the currently open page from
      the user's reading list. The opposite of overlay_share_reading_list_btn_label. -->
@@ -438,7 +453,7 @@ size. -->
 <!ENTITY button_clear_data "Limpar dados">
 <!ENTITY button_set "Definir">
 <!ENTITY button_clear "Limpar">
-<!ENTITY button_remember "Memorizar">
+<!ENTITY button_copy "Copiar">
 
 <!ENTITY firstrun_panel_title_welcome "Bem vindo">
 
@@ -502,10 +517,6 @@ size. -->
      the text of a button; we expect more than one device. -->
 <!ENTITY home_remote_tabs_unhide_selected_devices "Reexibir dispositivos selecionados">
 
-<!ENTITY private_browsing_title "Navegação privativa">
-<!ENTITY private_tabs_panel_empty_desc "Suas abas privativas serão mostradas aqui. Apesar de não mantermos nenhum de seus dados de navegação ou cookies, os favoritos e downloads serão salvos em seu dispositivo.">
-<!ENTITY private_tabs_panel_learn_more "Deseja saber mais?">
-
 <!ENTITY remote_tabs_panel_moved_title "Onde estão as minhas abas?">
 <!ENTITY remote_tabs_panel_moved_desc "Movemos as suas abas de outros dispositivos para um painel na sua página inicial que podem ser facilmente acessados ​​toda vez que você abrir uma nova aba.">
 <!ENTITY remote_tabs_panel_moved_link "Leve-me para o meu novo painel.">
@@ -533,6 +544,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_run_by "que é administrado por">
 <!ENTITY identity_no_info "Este site não fornece informações de identidade.">
 <!ENTITY identity_not_encrypted "A conexão com este site não é criptografada.">
+<!ENTITY identity_encrypted "Criptografado">
 <!-- Mixed content notifications in site identity popup -->
 
 <!ENTITY loaded_mixed_content_message "Esta página está exibindo conteúdo não seguro.">
@@ -599,7 +611,7 @@ do Android">
 <!ENTITY guest_session_dialog_continue "Continuar">
 <!ENTITY guest_session_dialog_cancel "Cancelar">
 <!ENTITY new_guest_session_title "O &brandShortName; irá reiniciar agora">
-<!ENTITY new_guest_session_text "A pessoa que usar a sessão não poderá ver seus dados pessoais de navegação (como senhas memorizadas, histórico ou favoritos).\n\nAssim que o seu convidado tiver concluído, os dados de navegação dele serão excluídos e a sua sessão será restaurada.">
+
 <!ENTITY guest_browsing_notification_title "Navegação do convidado está ativa">
 <!ENTITY guest_browsing_notification_text "Toque para sair">
 
@@ -631,7 +643,7 @@ do Android">
 <!ENTITY voicesearch_prompt "Fale agora">
 <!ENTITY voicesearch_failed_title "Pesquisa de voz do &brandShortName;">
 <!ENTITY voicesearch_failed_message "Há um problema com a pesquisa de voz agora. Por favor, tente mais tarde.">
-<!ENTITY voicesearch_failed_message_recoverable "Desculpa! Não conseguimos reconhecer as suas palavras. Por favor tente novamente.">
+<!ENTITY voicesearch_failed_message_recoverable "Desculpa! Não conseguimos reconhecer suas palavras. Tente novamente.">
 <!ENTITY voicesearch_failed_retry "Tentar novamente">
 <!-- Localization note (remote_tabs_last_synced): the variable is replaced by a
      "relative time span string" produced by Android.  This string describes the
@@ -648,3 +660,4 @@ do Android">
      if match-case is activated. i.e. No more than two letters, one uppercase, one lowercase. -->
 
 <!ENTITY find_matchcase "Aa">
+
