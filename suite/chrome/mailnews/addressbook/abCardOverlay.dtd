@@ -48,14 +48,6 @@
 <!ENTITY ScreenName.label               "Nome de tela:">
 <!ENTITY ScreenName.accesskey           "N">
 
-<!ENTITY allowRemoteContent1.label      "Permitir conteúdo remoto.">
-<!ENTITY allowRemoteContent1.accesskey  "r">
-<!ENTITY allowRemoteContent1.tooltip    "Em mensagens HTML é possível incluir 
-imagens de origens remotas. Abrir uma mensagem dessas irá abrir uma 
-ligação a uma fonte externa. Isto pode permitir rastreamento da 
-mensagem ao ser lida. Ao selecionar esta caixa, permitirá imagens remotas 
-em mensagens HTML deste contato.">
-
 <!ENTITY WorkPhone.label                "Comercial:">
 <!ENTITY WorkPhone.accesskey            "o">
 <!ENTITY HomePhone.label                "Residencial:">

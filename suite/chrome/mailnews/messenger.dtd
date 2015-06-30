@@ -444,6 +444,10 @@
 <!ENTITY throbber.tooltip "Abrir o site do &vendorShortName; ">
 <!ENTITY junkButton.tooltip "Marcar como spam as mensagens selecionadas">
 <!ENTITY notJunkButton.tooltip "Marcar como não spam as mensagens selecionadas">
+<!-- Remote Content Button Popup -->
+
+
+
 <!-- Statusbar -->
 
 <!ENTITY  statusText.label "Concluído">
