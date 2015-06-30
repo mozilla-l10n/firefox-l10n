@@ -62,7 +62,7 @@
 <!ENTITY sync.configure.engines.title.label "Què cal sincronitzar">
 <!ENTITY sync.configure.engines.sync.my.title.label "Sincronitza…">
 <!ENTITY sync.configure.engines.title.bookmarks "Adreces d\u0027interès">
-<!ENTITY sync.configure.engines.title.passwords "Contrasenyes">
+
 <!ENTITY sync.configure.engines.title.history "Historial">
 <!ENTITY sync.configure.engines.title.tabs "Pestanyes">
 <!-- Common text -->
@@ -141,7 +141,7 @@
 <!ENTITY fxaccount_policy_linkprivacy "Avís de privadesa">
 
 <!ENTITY fxaccount_getting_started_welcome_to_sync "Us donem la benvinguda al &syncBrand.shortName.label;">
-<!ENTITY fxaccount_getting_started_description "Inicieu la sessió per sincronitzar les pestanyes, adreces d\u0027interès, contrasenyes i més.">
+
 <!ENTITY fxaccount_getting_started_get_started "Inici">
 <!ENTITY fxaccount_getting_started_old_firefox "Utilitzeu una versió antiga del &syncBrand.shortName.label;?">
 <!-- Localization note: the Firefox below should not change with the
@@ -212,7 +212,7 @@
 <!ENTITY fxaccount_status_needs_finish_migrating "Toqueu per iniciar la sessió al vostre nou compte del Firefox.">
 <!ENTITY fxaccount_status_bookmarks "Adreces d\u0027interès">
 <!ENTITY fxaccount_status_history "Historial">
-<!ENTITY fxaccount_status_passwords "Contrasenyes">
+
 <!ENTITY fxaccount_status_tabs "Pestanyes obertes">
 <!ENTITY fxaccount_status_legal "Avisos legals" >
 <!-- Localization note: when tapped, the following two strings link to

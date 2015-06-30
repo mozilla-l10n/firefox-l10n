@@ -10,3 +10,5 @@
 <!ENTITY addonAction.disable                    "Inhabilita">
 <!ENTITY addonAction.uninstall                  "Desinstal·la">
 <!ENTITY addonAction.undo                       "Desfés">
+
+<!ENTITY addonUnsigned.learnMore                "Més informació">
