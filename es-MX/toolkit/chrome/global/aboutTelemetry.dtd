@@ -4,11 +4,22 @@
 
 <!ENTITY aboutTelemetry.pageTitle "Datos de Telemetry">
 
-<!ENTITY aboutTelemetry.telemetryEnabled "  Telemetry está <span>activado</span>.">
 
-<!ENTITY aboutTelemetry.telemetryDisabled "  Telemetry está <span>desactivado</span>.">
+
+
+
+
+
+
+
+
+
+
+
+
 
 <!ENTITY aboutTelemetry.generalDataSection "  Datos generales">
+
 
 
 <!ENTITY aboutTelemetry.slowSqlSection "  Sentencias SQL lentas">

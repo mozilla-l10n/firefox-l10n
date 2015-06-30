@@ -42,6 +42,10 @@
 
 <!ENTITY syncDeviceName.label       "Nombre del dispositivo:">
 <!ENTITY syncDeviceName.accesskey   "b">
+
+
+<!ENTITY cancelChangeSyncDeviceName.label "Cancelar">
+<!ENTITY saveChangeSyncDeviceName.label "Guardar">
 <!ENTITY unlinkDevice.label           "Desvincular este dispositivo">
 <!-- Footer stuff -->
 

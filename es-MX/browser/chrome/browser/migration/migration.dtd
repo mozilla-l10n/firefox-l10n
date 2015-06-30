@@ -20,6 +20,8 @@
 <!ENTITY importFromFirefox.label        "Firefox">
 <!ENTITY importFromFirefox.accesskey    "x">
 
+
+
 <!ENTITY noMigrationSources.label       "No se encontraron programas que contengan marcadores, historial o contraseñas.">
 
 <!ENTITY importSource.title             "Importar configuraciones y datos">
