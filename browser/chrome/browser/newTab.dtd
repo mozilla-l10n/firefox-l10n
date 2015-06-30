@@ -12,8 +12,6 @@
 
 
 
-<!ENTITY newtab.customize.what "இது என்ன பக்கம்?">
-<!ENTITY newtab.intro.header "இது என்ன பக்கம்?">
 <!ENTITY newtab.undo.removedLabel "சிறுபடம் நீக்கப்பட்டது.">
 <!ENTITY newtab.undo.undoButton "செயல்தவிர்.">
 <!ENTITY newtab.undo.restoreButton "அனைத்தும் மீட்டமை.">

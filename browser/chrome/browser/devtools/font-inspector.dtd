@@ -10,3 +10,5 @@
 <!ENTITY usedAs "இவ்வாறாகப் பயன்படுத்தியது: ">
 <!ENTITY system "கணினி">
 <!ENTITY remote "தொலைநிலை">
+<!-- LOCALIZATION NOTE (previewHint): This is the label shown as the
+     placeholder in font inspector preview text box. -->
