@@ -8,10 +8,15 @@
 <!ENTITY lightning.toolbar.task.name.accesskey "T">
 
 <!ENTITY lightning.toolbar.sync.label "Sincronizar">
+
 <!ENTITY lightning.toolbar.delete.label "Excluir">
+
 <!ENTITY lightning.toolbar.edit.label "Editar">
-<!ENTITY lightning.toolbar.gototoday.label "Ir para hoje">
+
+
+
 <!ENTITY lightning.toolbar.print.label "Imprimir">
+
 <!-- Mode Toolbar -->
 
 <!ENTITY lightning.toolbar.calendar.label     "Calendário">
@@ -23,7 +28,9 @@
 <!-- Toolbar write button -->
 
 <!ENTITY lightning.toolbar.newevent.label     "Evento">
+<!ENTITY lightning.toolbar.newevent.tooltip   "Cria um novo evento">
 <!ENTITY lightning.toolbar.newtask.label      "Tarefa">
+<!ENTITY lightning.toolbar.newtask.tooltip    "Cria uma nova tarefa">
 <!-- Calendar and Task Mode Toolbar -->
 
 <!ENTITY lightning.toolbar.day.label                 "Dia">

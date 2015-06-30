@@ -36,6 +36,7 @@
 <!ENTITY showUnifinderCmd.label                 "Localizar eventos">
 <!ENTITY showUnifinderCmd.accesskey             "L">
 
+
 <!ENTITY calendar.displaytodos.checkbox.label       "Tarefas na visualização">
 <!ENTITY calendar.displaytodos.checkbox.accesskey   "T">
 
