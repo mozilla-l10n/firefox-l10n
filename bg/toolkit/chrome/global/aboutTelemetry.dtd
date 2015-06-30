@@ -4,11 +4,22 @@
 
 <!ENTITY aboutTelemetry.pageTitle "Данни за Телеметрията">
 
-<!ENTITY aboutTelemetry.telemetryEnabled "Телеметрията е <span>включена</span>.">
 
-<!ENTITY aboutTelemetry.telemetryDisabled "Телеметрията е <span>изключена</span>.">
+
+
+
+
+
+
+
+
+
+
+
+
 
 <!ENTITY aboutTelemetry.generalDataSection "Основни данни">
+
 
 <!ENTITY aboutTelemetry.telemetryLogSection "Журнал на Телеметрията">
 

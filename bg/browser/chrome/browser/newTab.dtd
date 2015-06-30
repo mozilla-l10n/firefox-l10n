@@ -6,17 +6,12 @@
 <!ENTITY newtab.pageTitle "Нов подпрозорец">
 
 
-<!--
-  LOCALIZATION NOTE(newtab.customize.cog.title): This string is for the new
-  tab cog menu title. It will be transformed to uppercase.
--->
+
 
 <!ENTITY newtab.customize.title "Настройки страницата за Нов подпрозорец">
 <!ENTITY newtab.customize.suggested "Предложени и най-посещавани">
 
 <!ENTITY newtab.customize.blank2 "Празна страница">
-<!ENTITY newtab.customize.what "Каква е тази страница?">
-<!ENTITY newtab.intro.header "Каква е тази страница?">
 <!ENTITY newtab.undo.removedLabel "Миниатюрата беше премахната.">
 <!ENTITY newtab.undo.undoButton "Отмяна.">
 <!ENTITY newtab.undo.restoreButton "Възстановяване на всички.">
