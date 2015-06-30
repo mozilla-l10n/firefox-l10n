@@ -4,11 +4,22 @@
 
 <!ENTITY aboutTelemetry.pageTitle "Sonraí Telemetry">
 
-<!ENTITY aboutTelemetry.telemetryEnabled "  Tá Telemetry <span>cumasaithe</span>.">
 
-<!ENTITY aboutTelemetry.telemetryDisabled "  Tá Telemetry <span>díchumasaithe</span>.">
+
+
+
+
+
+
+
+
+
+
+
+
 
 <!ENTITY aboutTelemetry.generalDataSection "  Sonraí Ginearálta">
+
 
 <!ENTITY aboutTelemetry.telemetryLogSection " Logchomhad Telemetry">
 

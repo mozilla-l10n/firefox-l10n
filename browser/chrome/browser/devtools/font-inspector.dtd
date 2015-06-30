@@ -10,3 +10,5 @@
 <!ENTITY usedAs "Úsáidte mar: ">
 <!ENTITY system "córas">
 <!ENTITY remote "i gcéin">
+<!-- LOCALIZATION NOTE (previewHint): This is the label shown as the
+     placeholder in font inspector preview text box. -->

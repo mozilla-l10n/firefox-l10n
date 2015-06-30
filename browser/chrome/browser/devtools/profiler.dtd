@@ -129,18 +129,20 @@
 
 <!ENTITY profilerUI.enableMemory             "Déan Taifead ar Chuimhne">
 <!ENTITY profilerUI.enableMemory.tooltiptext "Déan taifead ar úsáid chuimhne le linn próifílithe.">
+<!-- LOCALIZATION NOTE (profilerUI.enableAllocations): This string
+  -  is displayed next to a checkbox determining whether or not allocation
+  -  measurements are enabled. -->
+
 <!-- LOCALIZATION NOTE (profilerUI.enableFramerate): This string
   -  is displayed next to a checkbox determining whether or not framerate
   -  is recorded. -->
 
 <!ENTITY profilerUI.enableFramerate             "Déan Taifead ar an Ráta Frámaí">
 <!ENTITY profilerUI.enableFramerate.tooltiptext "Déan taifead ar an ráta frámaí le linn próifílithe.">
-<!-- LOCALIZATION NOTE (profilerUI.showJITOptimizations): This string
+<!-- LOCALIZATION NOTE (profilerUI.enableJITOptimizations): This string
   -  is displayed next to a checkbox determining whether or not JIT optimization data
-  -  should be shown. -->
+  -  should be recorded. -->
 
-<!ENTITY profilerUI.showJITOptimizations             "Taispeáin Optamuithe JIT">
-<!ENTITY profilerUI.showJITOptimizations.tooltiptext "Taispeáin sonraí optamaithe JIT, sampláilte i ngach fráma den chrann glaonna JS.">
 <!-- LOCALIZATION NOTE (profilerUI.JITOptimizationsTitle): This string
   -  is displayed as the title of the JIT Optimizations panel. -->
 
