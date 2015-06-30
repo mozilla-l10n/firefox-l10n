@@ -15,5 +15,6 @@
 <!ENTITY aboutSupport.accountsConnSecurity "Seguretat de la connexió">
 <!ENTITY aboutSupport.accountsAuthMethod "Mètode d'autenticació">
 <!ENTITY aboutSupport.accountsDefault "Per defecte?">
+<!ENTITY aboutSupport.identityName "Identitat">
 
 <!ENTITY aboutSupport.sendViaEmail.label "Envia per correu electrònic">

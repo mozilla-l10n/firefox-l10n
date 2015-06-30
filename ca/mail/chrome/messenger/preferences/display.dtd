@@ -5,6 +5,7 @@
 <!ENTITY itemFormatting.label             "Format">
 <!ENTITY itemTags.label                   "Etiquetes">
 
+
 <!ENTITY style.label                      "Estil:">
 <!ENTITY style.accesskey                  "i">
 <!ENTITY regularStyle.label               "Normal">
@@ -44,3 +45,29 @@
 <!ENTITY fontOptions.label       "Avançades…">
 <!ENTITY colorButton.label       "Colors…">
 <!ENTITY colorButton.accesskey   "C">
+<!-- Advanced -->
+
+<!ENTITY reading.caption                  "Lectura">
+<!ENTITY display.caption                  "Visualització">
+<!ENTITY showCondensedAddresses.label     "Ensenya només el nom a mostrar de la gent que estigui a la meva llibreta d'adreces">
+<!ENTITY showCondensedAddresses.accesskey "n">
+
+<!ENTITY autoMarkAsRead.label             "Marca els missatges com a llegits automàticament">
+<!ENTITY autoMarkAsRead.accesskey         "a">
+<!ENTITY markAsReadNoDelay.label          "Immediatament en mostrar-los">
+<!ENTITY markAsReadNoDelay.accesskey      "d">
+<!-- LOCALIZATION NOTE (markAsReadDelay.label): This will concatenate to
+     "After displaying for [___] seconds",
+     using (markAsReadDelay.label) and a number (secondsLabel.label). -->
+<!ENTITY markAsReadDelay.label            "Després de mostrar-los durant">
+<!ENTITY markAsReadDelay.accesskey        "e">
+<!ENTITY secondsLabel.label               "segons">
+<!ENTITY openMsgIn.label                  "Obre els missatges en:">
+<!ENTITY openMsgInNewTab.label            "Una pestanya nova">
+<!ENTITY openMsgInNewTab.accesskey        "p">
+<!ENTITY reuseExpRadio0.label             "Una finestra nova">
+<!ENTITY reuseExpRadio0.accesskey         "f">
+<!ENTITY reuseExpRadio1.label             "Una finestra ja oberta">
+<!ENTITY reuseExpRadio1.accesskey         "j">
+<!ENTITY closeMsgOnMoveOrDelete.label     "Tanca la finestra o la pestanya de missatges quan es suprimeixi o es mogui">
+<!ENTITY closeMsgOnMoveOrDelete.accesskey "T">
