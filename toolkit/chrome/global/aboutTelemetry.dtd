@@ -4,11 +4,22 @@
 
 <!ENTITY aboutTelemetry.pageTitle "Dades de telemesura">
 
-<!ENTITY aboutTelemetry.telemetryEnabled "  La telemesura està <span>habilitada</span>.">
 
-<!ENTITY aboutTelemetry.telemetryDisabled "  La telemesura està <span>inhabilitada</span>.">
+
+
+
+
+
+
+
+
+
+
+
+
 
 <!ENTITY aboutTelemetry.generalDataSection "  Dades generals">
+
 
 <!ENTITY aboutTelemetry.telemetryLogSection "  Registre de telemesura">
 
