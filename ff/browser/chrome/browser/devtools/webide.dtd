@@ -95,7 +95,7 @@
 <!-- Prefs -->
 
 <!ENTITY prefs_general_title "Kuuɓal">
-<!ENTITY prefs_restore "Artir Goowaaɗe">
+
 
 
 
@@ -117,7 +117,7 @@
 
 <!ENTITY prefs_options_keybindings_default "Goowaaɗo">
 <!-- Permissions Table -->
-<!ENTITY permissionstable_name_header "Innde">
+
 <!-- Runtime Details -->
 
 
@@ -155,3 +155,14 @@
 <!-- LOCALIZATION NOTE (wifi_auth_token_request): Instructions requesting the
      user to transfer authentication info by transferring a token. -->
 <!-- Logs panel -->
+<!-- Simulator Options -->
+
+
+
+
+<!ENTITY simulator_version "Yamre">
+
+
+<!ENTITY simulator_device "masiŋel">
+
+

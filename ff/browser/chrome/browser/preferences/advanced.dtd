@@ -74,13 +74,8 @@
 <!ENTITY updateTab.label                 "Hesɗitin">
 
 <!ENTITY updateApp.label                 "Kesɗitine &brandShortName;:">
-<!-- Note either updateAuto1 is used or (updateAutoMetro and updateAutoDesktop),
-     so re-using accesss key in updateAuto1 is OK. updateAutoDesktop can be found
-     in preferences.properties -->
 <!ENTITY updateAuto1.label               "Aaf kesɗitine e jaajol (ena wasiyaa: kisal ƴellitaama)">
 <!ENTITY updateAuto1.accesskey           "s">
-<!ENTITY updateAutoMetro.label           "Hesɗitin e jaajol ummooraade e &brandShortName; mo biro e mo mbaadi Windows 8">
-<!ENTITY updateAutoMetro.accesskey       "i">
 <!ENTITY updateCheck.label               "Yuurnito kesɗitine, kono woppu am mi suɓoo so mi aafat-ɗe">
 <!ENTITY updateCheck.accesskey           "Y">
 <!ENTITY updateManual.label              "Hoto yuurnito kesɗitine (wasiyaaka: ena ŋakki hisde)">
@@ -88,8 +83,6 @@
 
 <!ENTITY updateAutoAddonWarn.label       "Reentin-am so ɗum maa daaƴ gooral e ɓeyditte am">
 <!ENTITY updateAutoAddonWarn.accesskey   "R">
-
-<!ENTITY updateAutoMetroWarn.label       "(&brandShortName; mo mbaadi Windows 8 ƴeewtotaako jaaɓdugol ɓeydite)">
 
 <!ENTITY updateHistory.label             "Hollu Aslol Kesɗitine">
 <!ENTITY updateHistory.accesskey         "A">

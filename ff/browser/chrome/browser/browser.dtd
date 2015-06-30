@@ -274,7 +274,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
   -  application menu item that opens the browser content toolbox UI in the Tools menu.
   -  This toolbox allows to debug the chrome of the content process in multiprocess builds.  -->
 
-<!ENTITY browserContentToolboxMenu.label     "Kuutorɗe Loowdi Wanngorde">
 
 <!ENTITY devToolbarCloseButton.tooltiptext "Uddu Palal Topayɓe">
 <!ENTITY devToolbarMenu.label              "Palal Topotooɓe">
@@ -304,6 +303,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY newNavigatorCmd.accesskey      "H">
 <!ENTITY newPrivateWindow.label     "Henorde Suturo Hesere">
 <!ENTITY newPrivateWindow.accesskey "H">
+
 
 <!ENTITY editMenu.label         "Taƴto"> 
 <!ENTITY editMenu.accesskey       "T"> 
@@ -423,10 +423,18 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY searchFor.label              "Yiylo ">
 <!ENTITY searchWith.label             " e:">
+<!-- LOCALIZATION NOTE (search.label, searchAfter.label):
+     This string is used to build the header above the list of one-click search
+     providers when a one off engine has been selected.  The searchAfter text is
+     intentionally left empty for en-US and can be used by other localizations to
+     display a string after the search engine name.  This string will be displayed
+     as:  "Search <selected engine name><searchAfter.label text>" -->
+<!ENTITY searchAfter.label            "">
 <!-- LOCALIZATION NOTE (searchWithHeader.label):
      The wording of this string should be as close as possible to
      searchFor.label and searchWith.label. This string will be used instead of
      them when the user has not typed any keyword. -->
+
 <!ENTITY searchWithHeader.label       "Yiylo e:">
 <!-- LOCALIZATION NOTE (changeSearchSettings.button):
      This string won't wrap, so if the translated string is longer,
@@ -609,12 +617,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY quitApplicationCmdWin2.label       "Yaltu">
 <!ENTITY quitApplicationCmdWin2.accesskey   "Y">
-
+<!ENTITY quitApplicationCmdWin2.tooltip     "Yaltu &brandShorterName;">
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY goForwardCmd.commandKey "]">
 <!ENTITY quitApplicationCmd.label       "Yaltu"> 
 <!ENTITY quitApplicationCmd.accesskey   "Y">
-
+<!ENTITY quitApplicationCmdMac2.label   "Yaltu &brandShorterName;">
 <!-- LOCALIZATION NOTE(quitApplicationCmdUnix.key): This keyboard shortcut is used by both Linux and OSX builds. -->
 <!ENTITY quitApplicationCmdUnix.key     "Y">
 
@@ -662,29 +670,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY editBookmark.cancel.label                   "Haaytu">
 <!ENTITY editBookmark.removeBookmark.accessKey       "R">
 
-<!ENTITY identity.unverifiedsite2 "Ndee lowre geese hokkataa humpito innitol.">
-<!ENTITY identity.connectedTo "Ceŋi-ɗaa ko e">
-<!-- Localization note (identity.runBy) : This string appears between a
-domain name (above) and an organization name (below). E.g.
 
-example.com
-which is run by
-Example Enterprises, Inc.
 
-The layout of the identity dialog prevents combining this into a single string with
-substitution variables.  If it is difficult to translate the sense of the string
-with that structure, consider a translation which ignores the preceding domain and
-just addresses the organization to follow, e.g. "This site is run by " -->
-<!ENTITY identity.runBy "yuɓɓini ɗum ko">
 
-<!ENTITY identity.moreInfoLinkText "Ɓeydu Humpito…">
+
 
 <!ENTITY identity.permissions "Jamirooje">
-<!-- LOCALIZATION NOTE (identity.help.tooltip) : This string should be the
-     localized title of this SUMO article
-     https://support.mozilla.org/kb/how-do-i-tell-if-my-connection-is-secure -->
-
-<!ENTITY identity.help.tooltip "Hol no mbi'rat-mi so tawii ceŋagol am ena hisa?">
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
 
@@ -743,7 +734,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY customizeMode.lwthemes.menuManage.accessKey "M">
 <!ENTITY customizeMode.lwthemes.menuGetMore "Heɓ Ciŋkooje Goɗɗe">
 <!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "G">
-<!ENTITY customizeMode.deveditionTheme.label2 "Huutoro Ciŋkooje Developer Edition">
 
 <!ENTITY social.chatBar.commandkey "c">
 <!ENTITY social.chatBar.label "Toɓɓu jeewte">
@@ -803,8 +793,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY uiTour.infoPanel.close "Uddu">
 
 <!ENTITY appMenuSidebars.label         "Pale sawndo">
-
-<!ENTITY switchToMetroCmd2.label       "Fuɗɗitoo e &brandShortName; wonande Windows 8">
 <!-- LOCALIZATION NOTE: (panicButton.view.mainTimeframeDesc, panicButton.view.5min, panicButton.view.2hr, panicButton.view.day):
      The .mainTimeframeDesc string combined with any of the 3 others is meant to form a complete sentence, e.g. "Forget the last: Five minutes".
      Please ensure that this remains the case in the translation. -->
@@ -851,4 +839,9 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- Pre-landed string for bug 1133662 -->
 
 <!-- Pre-landed strings for bug 1123519 -->
+
+<!-- LOCALIZATION NOTE (saveToPocketCmd.label, saveLinkToPocketCmd.label, pocketMenuitem.label): Pocket is a brand name -->
+
+
+
 
