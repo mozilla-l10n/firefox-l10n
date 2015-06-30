@@ -65,6 +65,7 @@
 <!ENTITY largerFont.label             "Aumentar texto">
 <!ENTITY largerFont.accesskey         "A">
 <!ENTITY largerFont.commandkey        "+">
+<!-- + is above this key on many keyboards -->
 
 <!ENTITY smallerFont.label            "Diminuir texto">
 <!ENTITY smallerFont.accesskey        "D">
