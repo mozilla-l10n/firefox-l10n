@@ -23,9 +23,9 @@
 <!ENTITY sync.setup.connect         "সংযোগ">
 <!ENTITY sync.setup.cancel          "বাতিল">
 <!ENTITY sync.setup.tutorial        "কিভাবে করা হবে তা আমাকে দেখিয়ে দিন">
-<!ENTITY sync.setup.waiting2        "অন্য ডিভাইসের জন্য অপেক্ষা করা হচ্ছে...">
+<!ENTITY sync.setup.waiting2        "অন্য ডিভাইসের জন্য অপেক্ষা করা হচ্ছে…">
 
-<!ENTITY sync.pair.title            "ডিভাইস পেয়ার করুন">
+<!ENTITY sync.pair.title            "ডিভাইস জুটিবদ্ধ করুন">
 <!ENTITY sync.pair.description      "সক্রিয় করতে, আপনার অন্য যন্ত্রটির &quot;সিঙ্ক সেটাপ&quot; নির্বাচন করুন।">
 <!ENTITY sync.setup.close           "বন্ধ">
 <!ENTITY sync.setup.waitingdownload "আপনার ডাটা পটভূমিতে ডাউনলোড হচ্ছে। আপনি যেকোনো সময় উইন্ডো বন্ধ করতে পারেন।">
