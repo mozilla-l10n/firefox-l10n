@@ -62,7 +62,7 @@
 <!ENTITY sync.configure.engines.title.label "ข้อมูลที่จะผสาน">
 <!ENTITY sync.configure.engines.sync.my.title.label "ผสานข้อมูล…">
 <!ENTITY sync.configure.engines.title.bookmarks "ที่คั่นหน้า">
-<!ENTITY sync.configure.engines.title.passwords "รหัสผ่าน">
+
 <!ENTITY sync.configure.engines.title.history "ประวัติ">
 <!ENTITY sync.configure.engines.title.tabs "ป้าย">
 <!-- Common text -->
@@ -141,7 +141,7 @@
 <!ENTITY fxaccount_policy_linkprivacy "ประกาศความเป็นส่วนตัว">
 
 <!ENTITY fxaccount_getting_started_welcome_to_sync "ยินดีต้อนรับสู่ &syncBrand.shortName.label;">
-<!ENTITY fxaccount_getting_started_description "เข้าสู่ระบบเพื่อซิงค์แท็บ ที่คั่นหน้า รหัสผ่าน และอื่นๆ ของคุณ">
+
 <!ENTITY fxaccount_getting_started_get_started "เริ่มต้น">
 <!ENTITY fxaccount_getting_started_old_firefox "ใช้งาน &syncBrand.shortName.label; รุ่นเก่าอยู่?">
 <!-- Localization note: the Firefox below should not change with the
@@ -212,7 +212,7 @@
 <!ENTITY fxaccount_status_needs_finish_migrating "แตะเพื่อลงชื่อเข้าใช้บัญชี Firefox ใหม่ของคุณ">
 <!ENTITY fxaccount_status_bookmarks "ที่คั่นหน้า">
 <!ENTITY fxaccount_status_history "ประวัติการท่องเว็บ">
-<!ENTITY fxaccount_status_passwords "รหัสผ่าน">
+
 <!ENTITY fxaccount_status_tabs "แท็บที่เปิด">
 <!ENTITY fxaccount_status_legal "ข้อกฎหมาย" >
 <!-- Localization note: when tapped, the following two strings link to
