@@ -62,7 +62,7 @@
 <!ENTITY sync.configure.engines.title.label "Ko Syncetee">
 <!ENTITY sync.configure.engines.sync.my.title.label "Sync…">
 <!ENTITY sync.configure.engines.title.bookmarks "Maantore">
-<!ENTITY sync.configure.engines.title.passwords "Finndeeji">
+
 <!ENTITY sync.configure.engines.title.history "Aslol">
 <!ENTITY sync.configure.engines.title.tabs "Tabbe">
 <!-- Common text -->
@@ -141,7 +141,7 @@
 <!ENTITY fxaccount_policy_linkprivacy "Dawirgol Suturo">
 
 <!ENTITY fxaccount_getting_started_welcome_to_sync "A jaɓɓaama e &syncBrand.shortName.label;">
-<!ENTITY fxaccount_getting_started_description "Seŋo ngam syncude tabbe maa, maantore e finndeeji &amp; geɗe goɗɗe.">
+
 <!ENTITY fxaccount_getting_started_get_started "Fuɗɗo ɗoo">
 <!ENTITY fxaccount_getting_started_old_firefox "Njogi-ɗaa ko yamre hiiɗnde &syncBrand.shortName.label;?">
 <!-- Localization note: the Firefox below should not change with the
@@ -212,7 +212,7 @@
 <!ENTITY fxaccount_status_needs_finish_migrating "Tappu ngam seŋaade e Konte Firefox maa kese">
 <!ENTITY fxaccount_status_bookmarks "Maantore">
 <!ENTITY fxaccount_status_history "Aslol">
-<!ENTITY fxaccount_status_passwords "Finndeeji">
+
 <!ENTITY fxaccount_status_tabs "Uddit tabbe">
 <!ENTITY fxaccount_status_legal "Laawol" >
 <!-- Localization note: when tapped, the following two strings link to
