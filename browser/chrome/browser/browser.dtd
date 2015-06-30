@@ -274,7 +274,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
   -  application menu item that opens the browser content toolbox UI in the Tools menu.
   -  This toolbox allows to debug the chrome of the content process in multiprocess builds.  -->
 
-<!ENTITY browserContentToolboxMenu.label     "ব্রাউজার কন্টেট টুলবক্স">
 
 <!ENTITY devToolbarCloseButton.tooltiptext "ডিভেলপার টুল-বার বন্ধ করুন">
 <!ENTITY devToolbarMenu.label              "ডিভেলপার টুল-বার">
@@ -304,6 +303,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY newNavigatorCmd.accesskey      "N">
 <!ENTITY newPrivateWindow.label     "নতুন ব্যক্তিগত উইন্ডো (W)">
 <!ENTITY newPrivateWindow.accesskey "W">
+
 
 <!ENTITY editMenu.label         "সম্পাদনা"> 
 <!ENTITY editMenu.accesskey       "E"> 
@@ -672,29 +672,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY editBookmark.cancel.label                   "বাতিল">
 <!ENTITY editBookmark.removeBookmark.accessKey       "R">
 
-<!ENTITY identity.unverifiedsite2 "এই ওয়েব-সাইট দ্বারা নিজের পরিচিতি সম্পর্কে কোনো তথ্য উপলব্ধ করা হয় না।">
-<!ENTITY identity.connectedTo "চিহ্নিত সাইটের সাথে সংযোগ স্থাপিত হয়েছে">
-<!-- Localization note (identity.runBy) : This string appears between a
-domain name (above) and an organization name (below). E.g.
 
-example.com
-which is run by
-Example Enterprises, Inc.
 
-The layout of the identity dialog prevents combining this into a single string with
-substitution variables.  If it is difficult to translate the sense of the string
-with that structure, consider a translation which ignores the preceding domain and
-just addresses the organization to follow, e.g. "This site is run by " -->
-<!ENTITY identity.runBy "এটি সঞ্চালনকারী">
 
-<!ENTITY identity.moreInfoLinkText "অধিক বিবরণ…">
+
 
 <!ENTITY identity.permissions "অনুমতি">
-<!-- LOCALIZATION NOTE (identity.help.tooltip) : This string should be the
-     localized title of this SUMO article
-     https://support.mozilla.org/kb/how-do-i-tell-if-my-connection-is-secure -->
-
-<!ENTITY identity.help.tooltip "একটি ওয়েবসাইটে আমার সংযোগ সুরক্ষিত য়ে আমি কিভাবে বলতে পারি?">
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
 
@@ -865,3 +848,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- Pre-landed strings for bug 1123519 -->
 <!ENTITY readingList.sidebar.add.label            "পড়ার তালিকায় যোগ করুন">
 <!ENTITY readingList.sidebar.add.tooltip          "এই পাতাটি আপনার পড়ার তালিকায় যোগ করুন">
+<!-- LOCALIZATION NOTE (saveToPocketCmd.label, saveLinkToPocketCmd.label, pocketMenuitem.label): Pocket is a brand name -->
+
+
+
+

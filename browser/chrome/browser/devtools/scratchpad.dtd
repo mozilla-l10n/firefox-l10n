@@ -65,6 +65,7 @@
 <!ENTITY largerFont.label             "অপেক্ষাকৃত বড় হরফ(a)">
 <!ENTITY largerFont.accesskey         "a">
 <!ENTITY largerFont.commandkey        "+">
+<!-- + is above this key on many keyboards -->
 
 <!ENTITY smallerFont.label            "অপেক্ষাকৃত ছোট হরফ(m)">
 <!ENTITY smallerFont.accesskey        "m">

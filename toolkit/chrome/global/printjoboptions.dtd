@@ -9,15 +9,6 @@
 <!ENTITY paperInput.label "কাগজের মাপ:">
 <!ENTITY paperInput.accesskey "P">
 
-<!ENTITY plexInput.label "Plex মোড:">
-<!ENTITY plexInput.accesskey "m">
-
-<!ENTITY resolutionInput.label "রিসোলিউশন/গুণমান:">
-<!ENTITY resolutionInput.accesskey "e">
-
-<!ENTITY cmdInput.label "প্রিন্ট কর্মের সাথে যুক্ত কমান্ড:">
-<!ENTITY cmdInput.accesskey "o">
-
 <!ENTITY jobTitleInput.label "কর্মের নাম:">
 <!ENTITY jobTitleInput.accesskey "J">
 
@@ -26,13 +17,6 @@
 <!ENTITY grayRadio.accesskey "G">
 <!ENTITY colorRadio.label "রঙিন">
 <!ENTITY colorRadio.accesskey "C">
-
-<!ENTITY colorspaceInput.label "Colorspace:">
-<!ENTITY colorspaceInput.accesskey "s">
-
-<!ENTITY fontsGroup.label "ফন্ট:">
-<!ENTITY downloadFonts.label "প্রিন্টারের মধ্যে ফাইল ডাউনলোড করা হবে কি?">
-<!ENTITY downloadFonts.accesskey "D">
 
 <!ENTITY edgeMarginInput.label "কাগজের প্রান্ত ও মার্জিনের মধ্যবর্তী ব্যবধান">
 <!ENTITY topInput.label "উর্ধ্বে:">
