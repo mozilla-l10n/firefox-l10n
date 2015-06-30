@@ -41,7 +41,11 @@
 <!ENTITY url_bar_default_text2 "Yiylo walla naatnu ñiiɓirde">
 
 <!ENTITY bookmark "Maantorol">
+
 <!ENTITY bookmark_added "Maantorol ɓeydaama">
+<!-- Localization note (bookmark_already_added) : This string is
+     used as a label in a toast. It is the verb "to bookmark", not
+     the noun "a bookmark". -->
 <!ENTITY bookmark_removed "Maantorol omtaama">
 <!ENTITY bookmark_updated "Maantorol hesɗitinaama">
 <!ENTITY bookmark_options "Cuɓe">
@@ -75,9 +79,11 @@
 
 <!ENTITY settings "Teelte">
 
+
 <!ENTITY pref_category_advanced "Ceeɓore">
 <!ENTITY pref_category_customize "Heertin">
 <!ENTITY pref_category_customize_summary "Jaɓɓorgo, yiylo, tabbe, jiggo">
+
 <!-- Localization note (pref_category_language) : This is the preferences
      section in which the user picks the locale in which to display Firefox
      UI. The locale includes both language and region concepts. -->
@@ -99,7 +105,7 @@
      used in the share overlay menu to select an action. It is the verb
      "to bookmark", not the noun "a bookmark". -->
 <!ENTITY overlay_share_reading_list_btn_label "Ɓeydu e Doggol Taro">
-<!ENTITY overlay_share_bookmark_btn_label_already "Koko maantoranoo">
+
 <!ENTITY overlay_share_reading_list_btn_label_already "Ena e doggol tarol kisa">
 <!ENTITY overlay_share_send_other "Neldu to kaɓirɗi goɗɗi">
 <!-- Localization note (overlay_share_send_tab_btn_label) : Used on the
@@ -109,14 +115,22 @@
 
 <!ENTITY overlay_share_send_tab_btn_label "Deldu to kaɓirgol goɗngol">
 <!ENTITY overlay_share_no_url "Alaa jokkol tawaa e ngol lollinol">
-
 <!ENTITY overlay_share_select_device "Labo kaɓitgol">
+<!-- Localization note (overlay_no_synced_devices) : Used when the menu option
+     to send a tab to a synced device is pressed and no other synced devices
+     are found. -->
+<!-- Localization note (overlay_share_tab_not_sent) : Used when the menu option
+     to send a tab to a synced device is pressed and there is an error
+     connecting to the server so the tab could not be sent. The text should be
+     divided into two lines (use the newline escape character, "\n", between
+     them): the first notifying the user about the failure and the second
+     telling the user what to do about it. -->
 
 <!ENTITY pref_category_search_summary "Heertin carwinooɓe njiilaw maa">
 <!ENTITY pref_category_display "Jaytino">
 <!ENTITY pref_category_display_summary "Binndol, balal tiitoonde, bangagol njaajeendi-yaynirde">
 <!ENTITY pref_category_privacy_short "Suturo">
-<!ENTITY pref_category_privacy_summary "Yuurnito finndeeji, kukiije, rewindo, keɓe">
+
 <!ENTITY pref_category_vendor "&vendorShortName;">
 <!ENTITY pref_category_vendor_summary "Baɗte &brandShortName;, FAQs, cuɓe keɓe">
 <!ENTITY pref_category_datareporting "Cuɓe keɓe">
@@ -133,10 +147,12 @@
      it is applicable. -->
 <!ENTITY pref_search_hint "TIP: Ɓeydi lowre njiɗ-ɗaa fof e doggol sarwooɓe njiilaw maa so ñoƴƴude juutngol e gallow njiilaw mum kisa tappaa e maanndel &formatI; ngel.">
 <!ENTITY pref_category_devtools "Kuutorɗe topaajo">
-<!ENTITY pref_category_devtools_summary "Buggitagol goɗɗungol, paint fliashing">
-<!ENTITY pref_developer_paint_flashing "Paint flashing">
 <!ENTITY pref_developer_remotedebugging "Buggitagol goɗɗungol">
-<!ENTITY pref_remember_signons "Siiftor finndeeji">
+
+
+
+
+
 
 <!ENTITY pref_category_home "Damal">
 <!ENTITY pref_category_home_summary "Heertin Jaɓɓorgo maa">
@@ -170,6 +186,20 @@
 <!ENTITY pref_tracking_protection_summary "&brandShortName; maa haɗ lowe rewindaade-ma">
 <!ENTITY pref_donottrack_title "Hoto rewindo">
 <!ENTITY pref_donottrack_summary "&brandShortName; maa wiy lowe wonde a yiɗaa rewindeede">
+
+
+
+
+
+
+
+
+<!-- Localization note (tab_queue_notification_text_plural2) : The
+     formatD is replaced with the number of tabs queued.  The
+     number of tabs queued is always more than one.  We can't use
+     Android plural forms, sadly. See Bug #753859. -->
+<!-- Localization note (tab_queue_notification_text_singular2) : This is the
+     text of a notification; we expect only one tab queued. -->
 
 <!ENTITY pref_char_encoding "Dokkitannde alkule">
 <!ENTITY pref_char_encoding_on "Hollu dosol">
@@ -209,20 +239,26 @@ size. -->
 
 
 
+
+
+
+
 <!ENTITY pref_use_master_password "Huutoro finnde baabaare">
 <!ENTITY pref_sync "Sanngoɗin">
-<!ENTITY pref_sync_summary "Sync tabbe maa, maantore, finndeeji e aslol">
+
 <!ENTITY pref_search_suggestions "Hollu wasiyaaji jiirlorɗe">
 <!ENTITY pref_import_android "Jiggo iwde e Android">
 <!ENTITY pref_import_android_summary "Jiggo maantore e aslol iwde e wanngorde cinndel ngel">
 <!ENTITY pref_private_data_history2 "Aslol peeragol">
-<!ENTITY pref_private_data_formdata "Formere &amp; aslol njiilaw">
+
+
 <!ENTITY pref_private_data_cookies2 "Kukiije &amp; ceŋanɗe caasɗe">
-<!ENTITY pref_private_data_passwords "Finndeeji danndaaɗi">
+
 <!ENTITY pref_private_data_cache "Kaasol">
 <!ENTITY pref_private_data_offlineApps "Keɓe lowe ceŋtol">
 <!ENTITY pref_private_data_siteSettings2 "Teelte lowre">
 <!ENTITY pref_private_data_downloadFiles2 "Gaawte">
+
 
 
 <!ENTITY pref_about_firefox "Baɗte &brandShortName;">
@@ -278,6 +314,7 @@ size. -->
 
 <!ENTITY addons "Ɓeyditte">
 
+
 <!ENTITY apps "Jaaɓɗe">
 <!ENTITY char_encoding "Dokkitannde Alkule">
 
@@ -327,6 +364,19 @@ size. -->
 <!ENTITY contextmenu_top_sites_pin "Ñippu Lowre">
 <!ENTITY contextmenu_top_sites_unpin "Ñippit Lowre">
 <!ENTITY contextmenu_add_search_engine "Ɓeydu Yiilorde">
+<!-- Localization note (doorhanger_login_no_username): This string is used in the save-login doorhanger
+     where normally a username would be displayed. In this case, no username was found, and this placeholder
+     contains brackets to indicate this is not actually a username, but rather a placeholder -->
+
+<!ENTITY doorhanger_login_edit_username_hint "Innde kuutoro">
+
+
+
+
+
+
+
+
 
 <!ENTITY pref_titlebar_mode "Palal tiitoonde">
 <!ENTITY pref_titlebar_mode_title "Hollu tiitoonde hello">
@@ -336,6 +386,8 @@ size. -->
 
 <!ENTITY pref_scroll_title_bar2 "Banngagol njaajeendi yaynirde">
 <!ENTITY pref_scroll_title_bar_summary "Suuɗ palal tiitoonde &brandShortName; so aɗa woroo les hello">
+
+
 <!-- Localization note (page_removed): This string appears in a toast message when
      any page is removed frome about:home. This includes pages that are in history,
      bookmarks, or reading list. -->
@@ -353,8 +405,8 @@ size. -->
 
 <!ENTITY site_settings_clear        "Momtu">
 <!ENTITY site_settings_no_settings  "Teelte ngalaa saka momtee.">
-
-<!ENTITY reading_list_added "Hello ɓeydaama e Doggol Taro maa">
+<!-- Localization note (reading_list_added2) : Used in a toast, please keep as short
+     as possible. -->
 <!ENTITY reading_list_removed "Hello momtaama e Doggol Taro maa">
 <!-- Localization note (reading_list_remove) : Used to remove the currently open page from
      the user's reading list. The opposite of overlay_share_reading_list_btn_label. -->
@@ -372,7 +424,7 @@ size. -->
 
 <!ENTITY masterpassword_create_title "Sos Finnde Baabaare">
 <!ENTITY masterpassword_remove_title "Momtu Finnde Baabaare">
-<!ENTITY masterpassword_password "Finnde">
+
 <!ENTITY masterpassword_confirm "Teeŋtin finnde">
 
 <!ENTITY button_ok "OK">
@@ -381,6 +433,8 @@ size. -->
 <!ENTITY button_no "Alaa">
 <!ENTITY button_clear_data "Momtu keɓe">
 
+
+<!ENTITY button_copy "Natto">
 
 
 <!ENTITY home_top_sites_title "Lowe Dowrowe">
@@ -443,10 +497,6 @@ size. -->
      the text of a button; we expect more than one device. -->
 <!ENTITY home_remote_tabs_unhide_selected_devices "Suuɗtu kaɓirɗi labaaɗi ɗii">
 
-<!ENTITY private_browsing_title "Banngagol Suturo">
-<!ENTITY private_tabs_panel_empty_desc "Tabbe maa cuuriiɗe maa njaltu ɗoo. Ko goonga min mooftaaa kuukiije e aslol banngagol maa, kono manntore e piille ɗe ngaawti-ɗaa maa ndannde e kaɓirgol maa.">
-<!ENTITY private_tabs_panel_learn_more "Aɗa yiɗi ɓeydude humpito?">
-
 <!ENTITY remote_tabs_panel_moved_title "Hoto tabbe am ngoni?">
 <!ENTITY remote_tabs_panel_moved_desc "Min ndirtinii tabbe maa iwɗe e kaɓirɗi goɗɗi fayde e alluwal e hello jaɓɓorgo maa baawbgal heɓaade tuma kala nde uddit-ɗaa tabbere hesere.">
 <!ENTITY remote_tabs_panel_moved_link "Naw am to alluwal am kesal.">
@@ -473,6 +523,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_run_by "yuɓɓini ɗum ko">
 <!ENTITY identity_no_info "Ndee lowre geese hokkataa humpito innitol.">
 <!ENTITY identity_not_encrypted "Ceŋagol maa e ndee lowre gannaaka.">
+<!ENTITY identity_encrypted "Gannangol">
 <!-- Mixed content notifications in site identity popup -->
 
 <!ENTITY loaded_mixed_content_message "Ngoo hello ena jaytina loowdi ndi hisaani.">
@@ -504,6 +555,13 @@ iwde e Android">
 <!ENTITY bookmarkhistory_import_wait "Tiiɗno sabbo...">
 
 <!ENTITY suggestions_prompt3 "Aɗa yiɗi hurminde basiye njiilaw?">
+<!--  Localization note (search_bar_item_desc): When the user clicks the url bar
+      and starts typing, a list of icons of search engines appears at the bottom
+      of the screen. When a user clicks an icon, the entered text will be searched
+      via the search engine that uses the icon they clicked. This text is used
+      for screen reader users when they hover each icon - &formatS; will be
+      replaced with the name of the currently highlighted icon. -->
+<!ENTITY search_bar_item_desc "Yiyloto &formatS;">
 <!-- Localization note (suggestion_for_engine): The placeholder &formatS1; will be
      replaced with the name of the search engine. The placeholder &formatS2; will be
      replaced with the search query. -->
@@ -531,7 +589,7 @@ iwde e Android">
 <!ENTITY guest_session_dialog_continue "Jokku">
 
 <!ENTITY new_guest_session_title "&brandShortName; maa hurmu jooni">
-<!ENTITY new_guest_session_text "Neɗɗo kuutortooɗo ɗum oo waawataa yiyde hay baɗte e keɓe maa keeriiɗe (wano finndeeji danndaaɗi, aslol walla maantore).\n\n So koɗo haljitii, keɓe banngagol mum maa momte kisa naatannde maa artiree.">
+
 <!ENTITY guest_browsing_notification_title "Banngagol bismo hurmii">
 <!ENTITY guest_browsing_notification_text "Tappu ngam yaltude">
 
@@ -541,6 +599,12 @@ iwde e Android">
      designated space. Use the unicode ellipsis char, \u2026, or use "..." if \u2026 doesn't suit
      traditions in your locale. -->
 
+<!-- LOCALIZATION NOTE (percent): The percent sign is appended after a number to
+     display a percentage value. formatS is the number, #37 is the code to display a percent sign.
+     This format string is typically used by getString method, in such method the percent sign
+     is a reserved caracter. In order to display one percent sign in the result of getString,
+     double percent signs must be inserted in the format string.
+     This entity is used in the zoomed view to display the zoom factor-->
 <!-- These are only used for accessibility for the done and overflow-menu buttons in the actionbar.
      They are never shown to users -->
 <!ENTITY actionbar_done "Gasii">
@@ -563,3 +627,4 @@ iwde e Android">
      if match-case is activated. i.e. No more than two letters, one uppercase, one lowercase. -->
 
 <!ENTITY find_matchcase "Aa">
+
