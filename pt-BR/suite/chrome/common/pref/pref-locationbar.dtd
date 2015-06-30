@@ -6,16 +6,16 @@
 <!ENTITY pref.locationBar.title                "Barra de endereços">
 
 <!ENTITY autoComplete.label                    "Completar automaticamente">
-<!ENTITY enableAutoComplete.label              "Completar automaticamente texto digitado na barra de endereços">
-<!ENTITY enableAutoComplete.accesskey          "a">
+
+
+
+
 <!ENTITY autoCompleteAutoFill.label            "Preencher automaticamente com o endereço mais provável">
 <!ENTITY autoCompleteAutoFill.accesskey        "P">
 <!ENTITY autoCompleteShowPopup.label           "Listar os endereços mais prováveis">
 <!ENTITY autoCompleteShowPopup.accesskey       "L">
 <!ENTITY autoCompleteMatchOnlyTyped.label      "Considerar apenas os endereços digitados anteriormente">
 <!ENTITY autoCompleteMatchOnlyTyped.accesskey  "C">
-<!ENTITY autoCompleteMatchOnlyURLs.label       "Somente coincidir com endereços, não com títulos">
-<!ENTITY autoCompleteMatchOnlyURLs.accesskey   "e">
 <!--LOCALIZATION NOTE (autoCompleteMatch.label): This is the common leading
   part of the menulist items listed below, mainly to make the control available
   via the accesskey
