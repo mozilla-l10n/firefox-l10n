@@ -274,7 +274,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
   -  application menu item that opens the browser content toolbox UI in the Tools menu.
   -  This toolbox allows to debug the chrome of the content process in multiprocess builds.  -->
 
-<!ENTITY browserContentToolboxMenu.label     "กล่องเครื่องมือเนื้อหาเบราว์เซอร์">
 
 <!ENTITY devToolbarCloseButton.tooltiptext "ปิดแถบเครื่องมือนักพัฒนา">
 <!ENTITY devToolbarMenu.label              "แถบเครื่องมือนักพัฒนา">
@@ -304,6 +303,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY newNavigatorCmd.accesskey      "ม">
 <!ENTITY newPrivateWindow.label     "หน้าต่างท่องเว็บแบบส่วนตัวใหม่">
 <!ENTITY newPrivateWindow.accesskey "น">
+
 
 <!ENTITY editMenu.label         "แก้ไข"> 
 <!ENTITY editMenu.accesskey       "ก"> 
@@ -429,6 +429,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      intentionally left empty for en-US and can be used by other localizations to
      display a string after the search engine name.  This string will be displayed
      as:  "Search <selected engine name><searchAfter.label text>" -->
+
+<!ENTITY search.label                 "ค้นหา ">
 <!ENTITY searchAfter.label            "">
 <!-- LOCALIZATION NOTE (searchWithHeader.label):
      The wording of this string should be as close as possible to
@@ -670,29 +672,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY editBookmark.cancel.label                   "ยกเลิก">
 <!ENTITY editBookmark.removeBookmark.accessKey       "ล">
 
-<!ENTITY identity.unverifiedsite2 "เว็บไซต์นี้ไม่ระบุข้อมูลอัตลักษณ์">
-<!ENTITY identity.connectedTo "กำลังเชื่อมต่อไปยัง">
-<!-- Localization note (identity.runBy) : This string appears between a
-domain name (above) and an organization name (below). E.g.
 
-example.com
-which is run by
-Example Enterprises, Inc.
 
-The layout of the identity dialog prevents combining this into a single string with
-substitution variables.  If it is difficult to translate the sense of the string
-with that structure, consider a translation which ignores the preceding domain and
-just addresses the organization to follow, e.g. "This site is run by " -->
-<!ENTITY identity.runBy "ให้บริการโดย">
 
-<!ENTITY identity.moreInfoLinkText "ข้อมูลเพิ่มเติม…">
+
 
 <!ENTITY identity.permissions "การอนุญาต">
-<!-- LOCALIZATION NOTE (identity.help.tooltip) : This string should be the
-     localized title of this SUMO article
-     https://support.mozilla.org/kb/how-do-i-tell-if-my-connection-is-secure -->
-
-<!ENTITY identity.help.tooltip "ฉันจะรู้ได้อย่างไรว่าการเชื่อมต่อของฉันไปที่เว็บไซต์จะมั่นคงปลอดภัย">
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
 
@@ -863,3 +848,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- Pre-landed strings for bug 1123519 -->
 <!ENTITY readingList.sidebar.add.label            "เพิ่มเข้ารายการอ่าน">
 <!ENTITY readingList.sidebar.add.tooltip          "เพิ่มหน้านี้เข้ารายการอ่านของคุณ">
+<!-- LOCALIZATION NOTE (saveToPocketCmd.label, saveLinkToPocketCmd.label, pocketMenuitem.label): Pocket is a brand name -->
+
+
+
+

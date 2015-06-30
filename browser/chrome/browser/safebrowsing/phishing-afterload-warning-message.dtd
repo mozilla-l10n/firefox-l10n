@@ -13,6 +13,7 @@
 <!ENTITY safeb.blocked.malwarePage.longDesc "<p>เว็บไซต์อันตรายจะพยายามติดตั้งโปรแกรมเพื่อขโมยข้อมูลส่วนตัว ใช้คอมพิวเตอร์ของคุณเพื่อโจมตีคอมพิวเตอร์ของคนอื่น หรือสร้างความเสียหายให้กับระบบของคุณ</p><p>เว็บไซต์เหล่านี้บางแห่งจงใจแจกจ่ายซอฟต์แวร์ที่เป็นอันตราย แต่บางแห่งอาจทำไปโดยที่เจ้าของเว็บไซต์ไม่รู้ตัวหรือไม่ได้อนุญาตก็เป็นได้</p>">
 
 <!-- Localization note (safeb.blocked.malware.shortDesc) - Please don't translate the contents of the <span id="unwanted_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
+<!ENTITY safeb.blocked.unwantedPage.shortDesc "เว็บไซต์ <span id='unwanted_sitename'/> ถูกรายงานว่ามีซอฟต์แวร์ที่ไม่เป็นที่ต้องการอยู่และถูกปิดกั้นตามค่าปรับแต่งด้านความปลอดภัยของคุณ">
 
 
 <!ENTITY safeb.blocked.phishingPage.title "รายงานเว็บปลอมแปลง!">

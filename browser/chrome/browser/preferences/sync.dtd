@@ -42,6 +42,10 @@
 
 <!ENTITY syncDeviceName.label       "ชื่ออุปกรณ์:">
 <!ENTITY syncDeviceName.accesskey   "อ">
+
+
+<!ENTITY cancelChangeSyncDeviceName.label "ยกเลิก">
+<!ENTITY saveChangeSyncDeviceName.label "บันทึก">
 <!ENTITY unlinkDevice.label           "ยกเลิกการเชื่อมโยงอุปกรณ์นี้">
 <!-- Footer stuff -->
 
