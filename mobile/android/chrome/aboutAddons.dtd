@@ -9,3 +9,5 @@
 <!ENTITY addonAction.disable "Отключить">
 <!ENTITY addonAction.uninstall "Удалить">
 <!ENTITY addonAction.undo "Отменить">
+<!ENTITY addonUnsigned.message "&brandShortName; не смог проверить это дополнение.">
+<!ENTITY addonUnsigned.learnMore "Подробнее">
