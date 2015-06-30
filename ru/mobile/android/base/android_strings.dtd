@@ -58,6 +58,7 @@
 <!ENTITY switch_button_message "ПЕРЕЙТИ">
 <!ENTITY settings "Параметры">
 <!ENTITY settings_title "Параметры">
+<!ENTITY pref_category_input_options "Настройки ввода">
 <!ENTITY pref_category_advanced "Дополнительно">
 <!ENTITY pref_category_customize "Настройка">
 <!ENTITY pref_category_customize_summary "Домашняя, поиск, вкладки, импорт">
@@ -82,7 +83,7 @@
 <!ENTITY pref_category_display "Отображение">
 <!ENTITY pref_category_display_summary "Текст, заголовок окна, полноэкранный просмотр">
 <!ENTITY pref_category_privacy_short "Приватность">
-<!ENTITY pref_category_privacy_summary "Контроль паролей, кук, отслеживания, данных">
+<!ENTITY pref_category_privacy_summary2 "Контроль логинов, кук, отслеживания, данных">
 <!ENTITY pref_category_vendor "&vendorShortName;">
 <!ENTITY pref_category_vendor_summary "О &brandShortName;, FAQ, выбор данных">
 <!ENTITY pref_category_datareporting "Выбор данных">
@@ -95,11 +96,11 @@
 <!ENTITY pref_search_hint "СОВЕТ: Добавьте любой веб-сайт в ваш список поисковых систем, произведя долгое нажатие на его поле поиска и затем нажав на значок &formatI;.">
 <!ENTITY pref_category_devtools "Инструменты разработки">
 <!ENTITY pref_developer_remotedebugging "Удалённый отладчик">
-<!ENTITY pref_category_logins "Пароли">
-<!ENTITY pref_remember_signons "Запоминать пароли">
+<!ENTITY pref_category_logins "Логины">
+<!ENTITY pref_remember_signons2 "Запоминать логины">
 <!ENTITY pref_open_external_urls_privately_title "Открывать ссылки в приватном просмотре">
 <!ENTITY pref_open_external_urls_privately_summary "Для всех внешних ссылок, открытых в &brandShortName;">
-<!ENTITY pref_manage_logins "Управление паролями">
+<!ENTITY pref_manage_logins "Управление логинами">
 <!ENTITY pref_category_home "Дом">
 <!ENTITY pref_category_home_summary "Настройка домашней страницы">
 <!ENTITY pref_category_home_panels "Панели">
@@ -166,9 +167,13 @@
 <!ENTITY pref_media_autoplay_enabled_summary "Контролирует, могут ли веб-сайты автоматически запускать видео и другой медиаконтент">
 <!ENTITY pref_zoom_force_enabled "Всегда разрешать менять масштаб">
 <!ENTITY pref_zoom_force_enabled_summary "Игнорировать настройки сайтов, чтобы вы могли менять масштаб любой страницы">
+<!ENTITY pref_voice_input "Голосовой ввод">
+<!ENTITY pref_voice_input_summary "Добавить в панель заголовка значок голосового ввода">
+<!ENTITY pref_qrcode_enabled "Чтение QR-кодов">
+<!ENTITY pref_qrcode_enabled_summary "Добавить в панель заголовка значок QR-сканера">
 <!ENTITY pref_use_master_password "Задать мастер-пароль">
 <!ENTITY pref_sync "Синхронизация">
-<!ENTITY pref_sync_summary "Синхронизация вкладок, закладок, паролей, истории">
+<!ENTITY pref_sync_summary2 "Синхронизация вкладок, закладок, логинов, истории">
 <!ENTITY pref_search_suggestions "Поисковые предложения">
 <!ENTITY pref_import_android "Импорт из Android">
 <!ENTITY pref_import_android_summary "Импорт закладок и истории из системного браузера">
@@ -176,7 +181,7 @@
 <!ENTITY pref_private_data_searchHistory "Журнал поиска">
 <!ENTITY pref_private_data_formdata2 "Журнал форм">
 <!ENTITY pref_private_data_cookies2 "Куки и активные сеансы">
-<!ENTITY pref_private_data_passwords "Сохранённые пароли">
+<!ENTITY pref_private_data_passwords2 "Сохранённые логины">
 <!ENTITY pref_private_data_cache "Кэш">
 <!ENTITY pref_private_data_offlineApps "Данные автономных веб-сайтов">
 <!ENTITY pref_private_data_siteSettings2 "Настройки сайтов">
@@ -216,7 +221,7 @@
 <!ENTITY help_menu "Справка">
 <!ENTITY quit "Выход">
 <!ENTITY addons "Дополнения">
-<!ENTITY logins "Пароли">
+<!ENTITY logins "Логины">
 <!ENTITY downloads "Загрузки">
 <!ENTITY apps "Приложения">
 <!ENTITY char_encoding "Кодировка">
@@ -386,7 +391,7 @@
 <!ENTITY guest_session_dialog_continue "Продолжить">
 <!ENTITY guest_session_dialog_cancel "Отмена">
 <!ENTITY new_guest_session_title "&brandShortName; сейчас будет перезапущен">
-<!ENTITY new_guest_session_text "Человек, использующий гостевую сессию, не увидит ничего из ваших личных данных веб-сёрфинга (таких как сохранённые пароли, история или закладки).\n\nКогда ваш гость закончит, его данные веб-сёрфинга будут удалены, а ваша сессия будет восстановлена.">
+<!ENTITY new_guest_session_text2 "Человек, использующий гостевую сессию, не увидит ничего из ваших личных данных веб-сёрфинга (таких как сохранённые логины, история или закладки).\n\nКогда ваш гость закончит, его данные веб-сёрфинга будут удалены, а ваша сессия будет восстановлена.">
 <!ENTITY guest_browsing_notification_title "Включён гостевой веб-серфинг">
 <!ENTITY guest_browsing_notification_text "Нажмите для выхода">
 <!ENTITY exit_guest_session_title "&brandShortName; сейчас будет перезапущен">

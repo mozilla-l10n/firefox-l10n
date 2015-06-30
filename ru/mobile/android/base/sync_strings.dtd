@@ -42,7 +42,7 @@
 <!ENTITY sync.configure.engines.title.label "Что синхронизировать">
 <!ENTITY sync.configure.engines.sync.my.title.label "Синхронизировать ваши…">
 <!ENTITY sync.configure.engines.title.bookmarks "Закладки">
-<!ENTITY sync.configure.engines.title.passwords "Пароли">
+<!ENTITY sync.configure.engines.title.passwords2 "Логины">
 <!ENTITY sync.configure.engines.title.history "Историю">
 <!ENTITY sync.configure.engines.title.tabs "Вкладки">
 <!ENTITY sync.button.cancel.label "Отмена">
@@ -83,7 +83,7 @@
 <!ENTITY fxaccount_policy_linktos "Условия службы">
 <!ENTITY fxaccount_policy_linkprivacy "Уведомление о приватности">
 <!ENTITY fxaccount_getting_started_welcome_to_sync "Добро пожаловать в Синхронизацию">
-<!ENTITY fxaccount_getting_started_description "Войдите для синхронизации ваших вкладок, закладок, паролей и многого другого.">
+<!ENTITY fxaccount_getting_started_description2 "Войдите для синхронизации ваших вкладок, закладок, логинов и многого другого.">
 <!ENTITY fxaccount_getting_started_get_started "Начать">
 <!ENTITY fxaccount_getting_started_old_firefox "Используете старую версию Синхронизации?">
 <!ENTITY fxaccount_create_account_header2 "Создать Учётную запись Firefox">
@@ -140,7 +140,7 @@
 <!ENTITY fxaccount_status_needs_finish_migrating "Нажмите, чтобы войти в новую Учётную запись Firefox.">
 <!ENTITY fxaccount_status_bookmarks "Закладки">
 <!ENTITY fxaccount_status_history "История">
-<!ENTITY fxaccount_status_passwords "Пароли">
+<!ENTITY fxaccount_status_passwords2 "Логины">
 <!ENTITY fxaccount_status_tabs "Открытые вкладки">
 <!ENTITY fxaccount_status_legal "Юридическая информация">
 <!ENTITY fxaccount_status_linktos "Условия службы">
