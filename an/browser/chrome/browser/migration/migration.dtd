@@ -20,6 +20,8 @@
 <!ENTITY importFromFirefox.label        "Firefox">
 <!ENTITY importFromFirefox.accesskey    "x">
 
+
+
 <!ENTITY noMigrationSources.label       "No s'ha trobau garra programa que contenese marcapachinas, historial u datos de claus.">
 
 <!ENTITY importSource.title             "Importar a configuración y os datos">

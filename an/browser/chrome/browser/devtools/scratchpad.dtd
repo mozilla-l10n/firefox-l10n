@@ -65,6 +65,7 @@
 <!ENTITY largerFont.label             "Tipo de letra mas gran">
 <!ENTITY largerFont.accesskey         "a">
 <!ENTITY largerFont.commandkey        "+">
+<!-- + is above this key on many keyboards -->
 
 <!ENTITY smallerFont.label            "Tipo de letra mas chicot">
 <!ENTITY smallerFont.accesskey        "m">
