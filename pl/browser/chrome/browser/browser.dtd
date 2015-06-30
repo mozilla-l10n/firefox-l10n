@@ -770,3 +770,9 @@ you can use these alternative items. Otherwise, their values should be empty. --
 <!ENTITY readingList.sidebar.delete.tooltip "Usuń z czytelni">
 <!ENTITY readingList.sidebar.add.label "Dodaj do czytelni">
 <!ENTITY readingList.sidebar.add.tooltip "Dodaj tę stronę do czytelni">
+
+<!ENTITY saveToPocketCmd.label "Wyślij stronę do Pocket">
+<!ENTITY saveToPocketCmd.accesskey "s">
+<!ENTITY saveLinkToPocketCmd.label "Wyślij odnośnik do Pocket">
+<!ENTITY saveLinkToPocketCmd.accesskey "o">
+<!ENTITY pocketMenuitem.label "Wysłane do Pocket">
