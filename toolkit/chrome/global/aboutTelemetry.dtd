@@ -4,11 +4,22 @@
 
 <!ENTITY aboutTelemetry.pageTitle "Keɓe Telemeetiri">
 
-<!ENTITY aboutTelemetry.telemetryEnabled " Telemeetiri koko <span>hurminaa</span>.">
 
-<!ENTITY aboutTelemetry.telemetryDisabled "  Telemeetiri koko <span>daaƴaa</span>.">
+
+
+
+
+
+
+
+
+
+
+
+
 
 <!ENTITY aboutTelemetry.generalDataSection "  Keɓe Kuuɓal">
+
 
 
 <!ENTITY aboutTelemetry.slowSqlSection "  Gowlaali SQL Leelɗi">

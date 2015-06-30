@@ -42,6 +42,10 @@
 
 <!ENTITY syncDeviceName.label       "Innde Kaɓirgol:">
 <!ENTITY syncDeviceName.accesskey   "d">
+
+
+<!ENTITY cancelChangeSyncDeviceName.label "Haaytu">
+<!ENTITY saveChangeSyncDeviceName.label "Danndu">
 <!ENTITY unlinkDevice.label           "Seŋtu ngol kaɓirgol">
 <!-- Footer stuff -->
 

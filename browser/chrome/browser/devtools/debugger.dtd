@@ -48,7 +48,7 @@
 
 <!-- LOCALIZATION NOTE (debuggerUI.ignoreCaughtExceptions): This is the label for the
   -  checkbox that toggles ignoring caught exceptions. -->
-<!ENTITY debuggerUI.ignoreCaughtExceptions.accesskey "C">
+
 <!-- LOCALIZATION NOTE (debuggerUI.showPanesOnInit): This is the label for the
   -  checkbox that toggles visibility of panes when opening the debugger. -->
 
@@ -126,7 +126,6 @@
 
 <!-- LOCALIZATION NOTE (debuggerUI.tabs.*): This is the text that
   -  appears in the debugger's side pane tabs. -->
-
 <!ENTITY debuggerUI.tabs.sources        "Iwdeele">
 
 
@@ -153,4 +152,16 @@
 
 
 <!ENTITY debuggerUI.stepping.stepOut1   "VK_F11">
+
+<!-- LOCALIZATION NOTE (debuggerUI.context.newTab):  This is the label
+  -  for the Open in New Tab menu item displayed in the context menu of the
+  -  debugger sources side menu. This should be the same as
+  -  netmonitorUI.context.newTab  -->
+
+<!ENTITY debuggerUI.context.newTab           "Uddit e Tabbere Hesere">
+
+<!-- LOCALIZATION NOTE (debuggerUI.context.copyUrl): This is the label displayed
+  -  on the context menu that copies the selected request's url. This should be
+  -  the same as netmonitorUI.context.copyUrl -->
+
 
