@@ -14,10 +14,10 @@
                        for the help button in the menubar but Gnome does not.   -->
 <!ENTITY helpMenuWin.label        "Thuso"> 
 <!ENTITY helpMenuWin.accesskey    "T">
-
-
-
-
+<!ENTITY aboutProduct2.label      "Ka ga &brandShorterName;">
+<!ENTITY aboutProduct2.accesskey  "K">
+<!ENTITY productHelp2.label       "&brandShorterName; Thuso">
+<!ENTITY productHelp2.accesskey   "T">
 <!ENTITY helpMac.commandkey       "?">
 
 <!ENTITY helpKeyboardShortcuts.label     "Keyboard Ditlhabanyetso  ">
@@ -28,7 +28,8 @@
 
 
 
-
+<!ENTITY healthReport2.label      "&brandShorterName; Pegelo ya Kemopholo">
+<!ENTITY healthReport2.accesskey  "e">
 
 <!ENTITY helpTroubleshootingInfo.label      "Tharabololobothata ya Tshedimosetso">
 <!ENTITY helpTroubleshootingInfo.accesskey  "T">
@@ -36,13 +37,15 @@
 <!ENTITY helpFeedbackPage.label      "Romela karabo ka maitemogelo...">
 <!ENTITY helpFeedbackPage.accesskey  "R">
 
-
+<!ENTITY helpShowTour2.label            "&brandShorterName; Tsaya Loeto">
+<!ENTITY helpShowTour2.accesskey        "o">
 
 <!ENTITY preferencesCmdMac.label        "Tse di kgethegileng...">
 
 
 <!ENTITY servicesMenuMac.label          "Ditirelo">
 
+<!ENTITY hideThisAppCmdMac2.label       "Fitlha &brandShorterName;">
 <!ENTITY hideThisAppCmdMac2.commandkey  "H">
 
 <!ENTITY hideOtherAppsCmdMac.label      "Fitlha tse Dingwe">

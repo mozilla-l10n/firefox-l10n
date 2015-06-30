@@ -6,6 +6,7 @@
 
 <!ENTITY printSetup.title    "Boalo jwa Tsebe">
 
+<!ENTITY basic.tab           "Fomete le Diitlhophelwa">
 
 <!ENTITY formatGroup.label   "Fomete">
 
@@ -22,8 +23,10 @@
 
 <!ENTITY optionsGroup.label  "Diitlhophelwa">
 
+<!ENTITY printBG.label       "Kgatiso le Lemorago (mebala le ditshwantsho)">
+<!ENTITY printBG.accesskey   "B">
 
-
+<!ENTITY advanced.tab        "Sekgalagare le Ntlhagodimo/Ntlhatlase">
 
 <!ENTITY marginGroup.label   "Meolwane (#1)">
 <!ENTITY marginUnits.inches  "diintšhe">
@@ -37,6 +40,7 @@
 
 
 
+<!ENTITY headerFooter.label  "Dintlhagodimo le Dintlhatlase">
 
 <!ENTITY hfCenter.label      "Bogare:">
 

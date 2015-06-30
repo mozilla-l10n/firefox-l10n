@@ -4,16 +4,16 @@
 
 <!ENTITY index.title "Mookamedi">
 
+<!ENTITY index.device2 "Sediriswa">
 
 
+<!ENTITY device.debugMainProcessTooltip "Bula Didiriswa tsa Badiri tse di golaganyeng le thulaganyo e kgolo mo sedirisweng">
 
+<!ENTITY device.screenshotTooltip "Bula tsepamo sekerini ya maemo a ga jaana a sediriswa mo thebeng e ntsha">
+<!ENTITY device.title "Selaola Sediriswa Taolo">
+<!ENTITY device.notConnected "Ga go na kgolaganyo. Tswêê-tswêê golaganya sediriswa fa tlase.">
 
-
-
-
-
-
-
+<!ENTITY device.startAppTooltip "Simolodisa tiriso e mo sedirisweng">
 <!ENTITY device.stopApp "Emisa">
 
 

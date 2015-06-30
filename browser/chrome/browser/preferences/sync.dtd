@@ -3,6 +3,8 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!-- The page shown when not logged in... -->
 
+<!ENTITY setupButton.label          "Rulaganya &syncBrand.fullName.label;">
+<!ENTITY setupButton.accesskey      "R">
 
 <!-- The page shown when logged in... -->
 <!-- Login error feedback -->
@@ -34,6 +36,10 @@
 <!ENTITY engine.addons.accesskey    "D">
 <!-- Device Settings -->
 
+
+
+<!ENTITY cancelChangeSyncDeviceName.label "Khansela">
+<!ENTITY saveChangeSyncDeviceName.label "Boloka">
 
 <!-- Footer stuff -->
 <!ENTITY prefs.ppLink.label         "Pholesi ya Bosephiri">

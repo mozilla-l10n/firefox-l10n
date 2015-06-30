@@ -73,7 +73,7 @@
 # link title for https://www.mozilla.org/en-US/about/
 
 
-#define firefox_about About Us
+#define firefox_about Ka ga Rona
 
 
 #unfilter emptyLines

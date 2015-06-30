@@ -9,20 +9,20 @@
 <!-- These strings are used in the about:home page -->
 
 
-<!ENTITY abouthome.pageTitle "&brandShortName; Tsebegae">
+<!ENTITY abouthome.pageTitle "&brandFullName; Tsebe ya Tshimologo">
 
 <!ENTITY abouthome.searchEngineButton.label "Batla">
 <!-- LOCALIZATION NOTE (abouthome.defaultSnippet1.v1):
      text in <a/> will be linked to the Firefox features page on mozilla.com
 -->
 
-<!ENTITY abouthome.defaultSnippet1.v1 "Re a leboga go bo o tlhophile Firefox! Go itemogela go le gontsi mo sebatling sa gago, ithute gole gontsi ka <a> dikarolo tse dishwa<a>.">
+<!ENTITY abouthome.defaultSnippet1.v1 "Re a leboga go bo o tlhophile Firefox! Go itemogela go le gontsi mo sebatling sa gago, ithute gole gontsi ka <a>dikarolo tsa bosheng</a>.">
 <!-- LOCALIZATION NOTE (abouthome.defaultSnippet2.v1):
      text in <a/> will be linked to the featured add-ons on addons.mozilla.org
 -->
 <!ENTITY abouthome.defaultSnippet2.v1 "Go motlhofo go tshwanedisa Firefox ya gago ka fa o batlang ka teng. <a> Tlhopha go tsweng mo diketeng tsa dioketswa</a>.">
 <!-- LOCALIZATION NOTE (abouthome.rightsSnippet): text in <a/> will be linked to about:rights -->
-<!ENTITY abouthome.rightsSnippet "&brandFullName; ke mahala gape e buletswe go ka dirisiwa ke botlhe go tswa mo lekalaneng le le sa direng letseno la Mozilla Foundation...</a>">
+<!ENTITY abouthome.rightsSnippet "&brandFullName; ke serweboleta se se nang le tetlesego ya go dirisiwa ke mongwe le mongwe go se na dituelo go tswa mo Setlamong sa Mozilla se se sa direng letseno. <a>Itse ditshwanelo tsa gago...</a>">
 
 <!ENTITY abouthome.bookmarksButton.label "Matshwaotsebe">
 <!ENTITY abouthome.historyButton.label   "Ditso">
@@ -33,6 +33,8 @@
      preferences/options item on about:home on Linux and OS X -->
 <!ENTITY abouthome.preferencesButtonUnix.label  "Diratwabogolo">
 <!ENTITY abouthome.addonsButton.label    "Dioketswa">
-<!ENTITY abouthome.appsButton.label      "Lefelo la thekiso">
+<!-- LOCALIZATION NOTE (abouthome.appsButton2.label): This string should be consistent with
+     the Apps menu item in the Tools menu (webapps.label in browser.dtd) and the Apps toolbar button in
+     Firefox's customization palette (web-apps-button.label in customizableWidgets.properties) -->
 <!ENTITY abouthome.downloadsButton.label "Ditaisololo">
 <!ENTITY abouthome.syncButton.label      "&syncBrand.shortName.label;">
