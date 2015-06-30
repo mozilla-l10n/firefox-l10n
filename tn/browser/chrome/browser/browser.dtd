@@ -93,8 +93,8 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY pageInfoCmd.label "Tshedimosetso ya Tsebe">
 <!ENTITY pageInfoCmd.accesskey "T">
 <!ENTITY pageInfoCmd.commandkey "i">
-
-
+<!ENTITY mirrorTabCmd.label "Thebe ya Seipone">
+<!ENTITY mirrorTabCmd.accesskey "T">
 <!-- LOCALIZATION NOTE (enterFullScreenCmd.label, exitFullScreenCmd.label):
 These should match what Safari and other Apple applications use on OS X Lion. -->
 <!ENTITY enterFullScreenCmd.label "Tsena Sekerini se se tletseng">
@@ -111,8 +111,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxaSignInError.label "Golaganya-gape le &syncBrand.shortName.label;">
 <!ENTITY syncStartPanel2.heading "&syncBrand.shortName.label; kgontshitswe">
 <!ENTITY syncStartPanel2.subTitle "&brandShortName; go tla simolola thulaganyo ka tsamaisano mo motsotsong.">
-<!ENTITY syncErrorPanel.heading "Ga go kgone go golagana le &syncBrand.shorName.label;">
-<!ENTITY syncErrorPanel.subTitle "Re kopa o tsene tirong go simolodisa gape thulaganyo ka tsamaisano.">
+<!ENTITY syncErrorPanel.heading "Ga go kgonege go golagana le &syncBrand.shortName.label;">
+<!ENTITY syncErrorPanel.subTitle "Tswêê-tswêê tsena tirong go simolodisa gape thulaganyo ka tsamaisano.">
 <!ENTITY syncErrorPanel.signInButton.label "Tsena tirong">
 <!ENTITY syncErrorPanel.signInButton.accesskey "T">
 
@@ -215,8 +215,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY addons.label                 "Dioketswa">
 <!ENTITY addons.accesskey             "D">
 <!ENTITY addons.commandkey            "A">
-
-
+<!ENTITY webapps.label                "Ditiriso">
+<!ENTITY webapps.accesskey            "p">
 
 <!ENTITY webDeveloperMenu.label       "Mmopi wa Webo">
 <!ENTITY webDeveloperMenu.accesskey   "M">
@@ -265,18 +265,19 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY browserToolboxMenu.label     "Bokoso ya Didirisiwa ya Sebatli">
 <!ENTITY browserToolboxMenu.accesskey "e">
-
+<!ENTITY browserToolboxCmd.commandkey "i">
 <!-- LOCALIZATION NOTE (browserContentToolboxMenu.label): This is the label for the
   -  application menu item that opens the browser content toolbox UI in the Tools menu.
   -  This toolbox allows to debug the chrome of the content process in multiprocess builds.  -->
 
+
 <!ENTITY devToolbarCloseButton.tooltiptext "Tswala Bara ya didiriswa ya Mmopi">
 <!ENTITY devToolbarMenu.label              "Bara ya Didirisiwa ya Mmopi">
 <!ENTITY devToolbarMenu.accesskey          "v">
-<!ENTITY devAppMgrMenu.label               "Motsamaisi wa Tiriso">
-<!ENTITY devAppMgrMenu.accesskey           "M">
-
-
+<!ENTITY devAppMgrMenu.label               "Molaola Tiriso">
+<!ENTITY devAppMgrMenu.accesskey           "A">
+<!ENTITY webide.label                      "Webo ya IDE">
+<!ENTITY webide.accesskey                  "W">
 
 <!ENTITY webide.keytext                    "F8">
 <!ENTITY devToolbar.keycode                "VK_F2">
@@ -298,6 +299,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY newNavigatorCmd.accesskey      "N">
 <!ENTITY newPrivateWindow.label     "Window e ntšhwa ya poraefete">
 <!ENTITY newPrivateWindow.accesskey "W">
+
 
 <!ENTITY editMenu.label         "Tseleganya"> 
 <!ENTITY editMenu.accesskey       "T"> 
@@ -415,6 +417,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      These two strings are used to build the header above the list of one-click
      search providers:  "Search for <used typed keywords> with:" -->
 
+<!ENTITY searchFor.label              "Batla gonne">
+
 <!-- LOCALIZATION NOTE (search.label, searchAfter.label):
      This string is used to build the header above the list of one-click search
      providers when a one off engine has been selected.  The searchAfter text is
@@ -504,14 +508,14 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY emailImageCmd.accesskey      "n">
 <!ENTITY emailVideoCmd.label          "Imeile Bidio...">
 <!ENTITY emailVideoCmd.accesskey      "e">
-
-
+<!ENTITY castVideoCmd.label           "Romela bidio ko Sedirisweng">
+<!ENTITY castVideoCmd.accesskey       "e">
 <!ENTITY emailAudioCmd.label          "Imeile Modumo...">
 <!ENTITY emailAudioCmd.accesskey      "e">
-<!ENTITY playPluginCmd.label          "Dirisa seoketswa se">
-<!ENTITY playPluginCmd.accesskey      "i">
-<!ENTITY hidePluginCmd.label          "Fitlha seoketswa se">
-<!ENTITY hidePluginCmd.accesskey      "F">
+<!ENTITY playPluginCmd.label          "Dirisa kgokelo e">
+<!ENTITY playPluginCmd.accesskey      "c">
+<!ENTITY hidePluginCmd.label          "Fitlha kgokelo e">
+<!ENTITY hidePluginCmd.accesskey      "H">
 <!ENTITY copyLinkCmd.label            "Kopolola Kgokagano ya Lefelo">
 <!ENTITY copyLinkCmd.accesskey        "e">
 <!ENTITY copyImageCmd.label           "Kopolola Lefelo la Setshwantsho">
@@ -606,12 +610,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY quitApplicationCmdWin2.label       "Tswaya">
 <!ENTITY quitApplicationCmdWin2.accesskey   "s">
-
+<!ENTITY quitApplicationCmdWin2.tooltip     "Tswaya &brandShorterName;">
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY goForwardCmd.commandKey "]">
 <!ENTITY quitApplicationCmd.label       "Tlogela"> 
 <!ENTITY quitApplicationCmd.accesskey   "T">
-
+<!ENTITY quitApplicationCmdMac2.label   "Tlogela &brandShorterName;">
 <!-- LOCALIZATION NOTE(quitApplicationCmdUnix.key): This keyboard shortcut is used by both Linux and OSX builds. -->
 <!ENTITY quitApplicationCmdUnix.key     "Q">
 
@@ -659,29 +663,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY editBookmark.cancel.label                   "Khansela">
 <!ENTITY editBookmark.removeBookmark.accessKey       "R">
 
-<!ENTITY identity.unverifiedsite2 "Webosaete e ga e neele tshedimosetso boitshupo.">
-<!ENTITY identity.connectedTo "O golagantswe le">
-<!-- Localization note (identity.runBy) : This string appears between a
-domain name (above) and an organization name (below). E.g.
 
-example.com
-which is run by
-Example Enterprises, Inc.
 
-The layout of the identity dialog prevents combining this into a single string with
-substitution variables.  If it is difficult to translate the sense of the string
-with that structure, consider a translation which ignores the preceding domain and
-just addresses the organization to follow, e.g. "This site is run by " -->
-<!ENTITY identity.runBy "e laolwa ke">
 
-<!ENTITY identity.moreInfoLinkText "Tshedimosetso tse dintsi...">
+
 
 <!ENTITY identity.permissions "Ditetla">
-<!-- LOCALIZATION NOTE (identity.help.tooltip) : This string should be the
-     localized title of this SUMO article
-     https://support.mozilla.org/kb/how-do-i-tell-if-my-connection-is-secure -->
-
-<!ENTITY identity.help.tooltip "Ke ka bona jang gore kgolagano yame ko webosaeteng e sireletsegile?">
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
 
@@ -782,7 +769,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY pluginActivateNow.label "Letlelela gone jaana">
 <!ENTITY pluginActivateAlways.label "Letlelela gape o gakologelwe">
-<!ENTITY pluginBlockNow.label "Kganela Kgokelo">
+<!ENTITY pluginBlockNow.label "Thibela Kgokelo">
 <!-- LOCALIZATION NOTE: (pluginNotification.width): This is used to determine the
      width of the plugin popup notification that can appear if a plugin has been
      blocked on a page. Should be wide enough to fit the pluginActivateNow.label
@@ -806,7 +793,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      The translation should do the same. -->
 
 
-<!ENTITY panicButton.view.deleteTabsAndWindows    "Tswala Dithebe le di Window tsotlhe">
+<!ENTITY panicButton.view.deleteTabsAndWindows    "Tswala tsotlhe <html:strong>Dithebe</html:strong> le <html:strong>di Window </html:strong>">
 <!ENTITY panicButton.view.openNewWindow           "Bula Window e ntšhwa">
 
 
@@ -834,4 +821,9 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- Pre-landed string for bug 1133662 -->
 
 <!-- Pre-landed strings for bug 1123519 -->
+
+<!-- LOCALIZATION NOTE (saveToPocketCmd.label, saveLinkToPocketCmd.label, pocketMenuitem.label): Pocket is a brand name -->
+
+
+
 
