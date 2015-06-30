@@ -124,7 +124,6 @@
 <!ENTITY debuggerUI.seMenuCondBreak.key "B">
 <!-- LOCALIZATION NOTE (debuggerUI.tabs.*): This is the text that
   -  appears in the debugger's side pane tabs. -->
-
 <!ENTITY debuggerUI.tabs.sources        "সোর্স">
 
 <!ENTITY debuggerUI.tabs.callstack      "কল ষ্ট্যাক">

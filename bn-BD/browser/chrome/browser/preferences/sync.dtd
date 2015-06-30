@@ -42,6 +42,10 @@
 
 <!ENTITY syncDeviceName.label       "ডিভাইসের নাম: c">
 <!ENTITY syncDeviceName.accesskey   "c">
+
+
+<!ENTITY cancelChangeSyncDeviceName.label "বাতিল">
+<!ENTITY saveChangeSyncDeviceName.label "সংরক্ষণ">
 <!ENTITY unlinkDevice.label           "এই যন্ত্রটি বিচ্ছিন্ন করুন">
 <!-- Footer stuff -->
 
