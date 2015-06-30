@@ -10,14 +10,14 @@
 <!ENTITY fileMenu.accesskey                             "F">
 <!ENTITY newMenu.label                                  "Jauns">
 <!ENTITY newMenu.accesskey                              "n">
-<!ENTITY newContact.label                               "Adrešu grāmatas kontakts...">
+<!ENTITY newContact.label                               "Adrešu grāmatas kontakts…">
 <!ENTITY newContact.accesskey                           "k">
 <!ENTITY newContact.key                                 "N">
-<!ENTITY newListCmd.label                               "Vēstkopa...">
+<!ENTITY newListCmd.label                               "Vēstkopa…">
 <!ENTITY newListCmd.accesskey                           "t">
-<!ENTITY newAddressBookCmd.label                        "Adrešu grāmata...">
+<!ENTITY newAddressBookCmd.label                        "Adrešu grāmata…">
 <!ENTITY newAddressBookCmd.accesskey                    "g">
-<!ENTITY newLDAPDirectoryCmd.label                      "LDAP direktorijs...">
+<!ENTITY newLDAPDirectoryCmd.label                      "LDAP direktorija…">
 <!ENTITY newLDAPDirectoryCmd.accesskey                  "D">
 <!ENTITY newMessageCmd.label                            "Vēstule">
 <!ENTITY newMessageCmd.key                              "M">
@@ -34,10 +34,10 @@
 <!ENTITY printPreviewContactCmd.accesskey               "s">
 <!ENTITY printPreviewAddressBook.label                  "Adrešu grāmatas drukas priekšskatījums">
 <!ENTITY printPreviewAddressBook.accesskey              "p">
-<!ENTITY printContactCmd.label                          "Drukāt kontaktu...">
+<!ENTITY printContactCmd.label                          "Drukāt kontaktu…">
 <!ENTITY printContactCmd.accesskey                      "D">
 <!ENTITY printContactCmd.key                            "P">
-<!ENTITY printAddressBook.label                         "Drukāt adrešu grāmatu...">
+<!ENTITY printAddressBook.label                         "Drukāt adrešu grāmatu…">
 <!ENTITY printAddressBook.accesskey                     "r">
 <!-- Edit Menu -->
 
@@ -153,6 +153,8 @@ because displayed names don't have the comma in between. -->
 
 <!-- Results Pane -->
 
+<!ENTITY Addrbook.label                                 "Adrešu grāmata">
+<!ENTITY Addrbook.accesskey                             "g">
 
 
 
