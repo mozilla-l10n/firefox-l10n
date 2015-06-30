@@ -3,45 +3,58 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY aboutSupport.pageTitle "Informacije za rješavanje problema">
-
 <!-- LOCALIZATION NOTE (aboutSupport.pageSubtitle): don't change the 'supportLink' id. -->
-<!ENTITY aboutSupport.pageSubtitle "
-  Ova stranica sadrži tehničke informacije koje vam mogu biti korisne kada
-  pokušavate riješiti problem. Ukoliko tražite odgovore na često postavljena
-  pitanja o &brandShortName;u, posjetite našu <a id='supportLink'>web stranicu za podršku</a>.
-">
+
+<!ENTITY aboutSupport.pageSubtitle "  Ova stranica sadrži tehničke informacije koje vam mogu biti korisne kada 
+pokušavate riješiti problem. Ukoliko tražite odgovore na često postavljena 
+pitanja o &brandShortName;u, posjetite našu <a id='supportLink'>web stranicu za podršku</a>.">
+
+<!-- LOCALIZATION NOTE (aboutSupport.crashes.id):
+This is likely the same like id.heading in crashes.dtd. -->
+<!ENTITY aboutSupport.crashes.id "Izvještaj broj">
+
+
+
 
 <!ENTITY aboutSupport.extensionsTitle "Ekstenzije">
-<!ENTITY aboutSupport.extensionName "Naziv">
+
 <!ENTITY aboutSupport.extensionEnabled "Omogućen">
 <!ENTITY aboutSupport.extensionVersion "Verzija">
 <!ENTITY aboutSupport.extensionId "ID">
+
+
+
+<!ENTITY aboutSupport.experimentDescription "Opis">
+
+
+<!ENTITY aboutSupport.experimentHomepage "Web stranica">
+
 
 <!ENTITY aboutSupport.appBasicsTitle "Osnove aplikacije">
 <!ENTITY aboutSupport.appBasicsName "Naziv">
 <!ENTITY aboutSupport.appBasicsVersion "Verzija">
 
-<!-- LOCALIZATION NOTE (aboutSupport.appBasicsUpdateHistory, aboutSupport.appBasicsShowUpdateHistory):
+<!-- LOCALIZATION NOTE (aboutSupport.appBasicsUpdateChannel, aboutSupport.appBasicsUpdateHistory, aboutSupport.appBasicsShowUpdateHistory):
 "Update" is a noun here, not a verb. -->
 <!ENTITY aboutSupport.appBasicsUpdateHistory "Historija nadogradnji">
 <!ENTITY aboutSupport.appBasicsShowUpdateHistory "Prikaži historiju nadogradnji">
 
 <!ENTITY aboutSupport.appBasicsProfileDir "Direktorij profila">
-
-<!ENTITY aboutSupport.appBasicsEnabledPlugins "Omogućeni plugini">
-<!ENTITY aboutSupport.appBasicsBuildConfig "Konfiguracija verzije">
-<!ENTITY aboutSupport.appBasicsUserAgent "Korisnički agent">
-<!ENTITY aboutSupport.appBasicsCrashIDs "Izvještaji o rušenju">
-<!ENTITY aboutSupport.appBasicsMemoryUse "Upotreba memorije">
 <!-- LOCALIZATION NOTE (aboutSupport.appBasicsProfileDirWinMac):
 This is the Windows- and Mac-specific variant of aboutSupport.appBasicsProfileDir.
 Windows/Mac use the term "Folder" instead of "Directory" -->
 <!ENTITY aboutSupport.appBasicsProfileDirWinMac "Direktorij profila">
 
-<!ENTITY aboutSupport.showDir.label "Otvori direktorij">
+<!ENTITY aboutSupport.appBasicsEnabledPlugins "Omogućeni plugini">
+<!ENTITY aboutSupport.appBasicsBuildConfig "Konfiguracija verzije">
+<!ENTITY aboutSupport.appBasicsUserAgent "Korisnički agent">
+<!ENTITY aboutSupport.appBasicsMemoryUse "Upotreba memorije">
+<!-- LOCALIZATION NOTE the term "Service Workers" should not be translated. -->
 
+
+<!ENTITY aboutSupport.showDir.label "Otvori direktorij">
 <!-- LOCALIZATION NOTE (aboutSupport.showMac.label): This is the Mac-specific
-variant of aboutSupport.show.label.  This allows us to use the preferred
+variant of aboutSupport.showDir.label.  This allows us to use the preferred
 "Finder" terminology on Mac. -->
 <!ENTITY aboutSupport.showMac.label "Prikaži u Finderu">
 <!-- LOCALIZATION NOTE (aboutSupport.showWin.label): This is the Windows-specific
@@ -51,10 +64,13 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.modifiedKeyPrefsTitle "Važne promijenjene postavke">
 <!ENTITY aboutSupport.modifiedPrefsName "Naziv">
 <!ENTITY aboutSupport.modifiedPrefsValue "Vrijednost">
-
 <!-- LOCALIZATION NOTE (aboutSupport.userJSTitle, aboutSupport.userJSDescription): user.js is the name of the preference override file being checked. -->
+
 <!ENTITY aboutSupport.userJSTitle "user.js postavke">
 <!ENTITY aboutSupport.userJSDescription "Direktorij vašeg profila sadrži <a id='prefs-user-js-link'>user.js fajl</a>, koji uključuje postavke koje nije kreirao &brandShortName;.">
+
+
+
 
 <!ENTITY aboutSupport.graphicsTitle "Grafika">
 
@@ -72,3 +88,6 @@ variant of aboutSupport.showDir.label. -->
 
 <!ENTITY aboutSupport.copyTextToClipboard.label "Kopiraj tekst na clipboard">
 <!ENTITY aboutSupport.copyRawDataToClipboard.label "Kopiraj sirove podatke na clipboard">
+
+
+

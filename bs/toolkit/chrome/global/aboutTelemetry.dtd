@@ -4,62 +4,46 @@
 
 <!ENTITY aboutTelemetry.pageTitle "Telemetrijski podaci">
 
-<!ENTITY aboutTelemetry.telemetryEnabled "
-  Telemetry je <span>omogućen</span>.
-">
 
-<!ENTITY aboutTelemetry.telemetryDisabled "
-  Telemetry je <span>onemogućen</span>.
-">
 
-<!ENTITY aboutTelemetry.slowSqlSection "
-  Spori SQL iskazi
-">
 
-<!ENTITY aboutTelemetry.chromeHangsSection "
-  Padovi browsera
-">
 
-<!ENTITY aboutTelemetry.histogramsSection "
-  Histogrami
-">
 
-<!ENTITY aboutTelemetry.simpleMeasurementsSection "
-  Jednostavna mjerenja
-">
 
-<!ENTITY aboutTelemetry.lateWritesSection "
-  Kasni zapisi
-">
 
-<!ENTITY aboutTelemetry.systemInfoSection "
-  Sistemske informacije
-">
 
-<!ENTITY aboutTelemetry.addonHistogramsSection "
-  Histogrami prikpljeni od strane add-ona
-">
 
-<!ENTITY aboutTelemetry.toggleOn "
-  Kliknite da raširite sekciju
-">
 
-<!ENTITY aboutTelemetry.toggleOff "
-  Kliknite da skupite sekciju
-">
 
-<!ENTITY aboutTelemetry.emptySection "
-  (Nema prikupljenih podataka)
-">
 
-<!ENTITY aboutTelemetry.fullSqlWarning "
-  NAPOMENA: Debuggiranje sporog SQL-a je omogućeno. Puni SQL stringovi mogu biti prikazani ispod ali neće biti poslani Telemetry-u.
-">
 
-<!ENTITY aboutTelemetry.fetchSymbols "
-  Dobavi nazive funkcija za hang stack-ove
-">
 
-<!ENTITY aboutTelemetry.hideSymbols "
-  Prikaži sirove podatke od padova
-">
+
+
+
+<!ENTITY aboutTelemetry.slowSqlSection "  Spori SQL iskazi">
+
+<!ENTITY aboutTelemetry.chromeHangsSection "  Padovi browsera">
+
+
+<!ENTITY aboutTelemetry.histogramsSection "  Histogrami">
+
+
+<!ENTITY aboutTelemetry.simpleMeasurementsSection "  Jednostavna mjerenja">
+
+
+<!ENTITY aboutTelemetry.lateWritesSection "  Kasni zapisi">
+
+<!ENTITY aboutTelemetry.systemInfoSection "  Sistemske informacije">
+
+<!ENTITY aboutTelemetry.addonHistogramsSection "  Histogrami prikpljeni od strane add-ona">
+
+
+<!ENTITY aboutTelemetry.emptySection "  (Nema prikupljenih podataka)">
+
+<!ENTITY aboutTelemetry.fullSqlWarning "  NAPOMENA: Debuggiranje sporog SQL-a je omogućeno. Puni SQL stringovi mogu biti prikazani ispod ali neće biti poslani Telemetry-u.">
+
+<!ENTITY aboutTelemetry.fetchSymbols "  Dobavi nazive funkcija za hang stack-ove">
+
+<!ENTITY aboutTelemetry.hideSymbols "  Prikaži sirove podatke od padova">
+

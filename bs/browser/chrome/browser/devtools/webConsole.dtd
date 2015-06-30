@@ -1,12 +1,12 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-
 <!-- LOCALIZATION NOTE : FILE The correct localization of this file might be to
   - keep it in English, or another language commonly spoken among web developers.
   - You want to make that choice consistent across the developer tools.
   - A good criteria is the language in which you'd find the best
   - documentation on web development on the web. -->
+
 
 <!ENTITY window.title "Web konzola">
 <!ENTITY browserConsole.title "Konzola browsera">
@@ -28,21 +28,21 @@
 <!ENTITY networkPanel.responseNoBody              "Nema tijela odgovora">
 <!ENTITY networkPanel.responseImage               "Primljena slika">
 <!ENTITY networkPanel.responseImageCached         "Keširana slika">
-
 <!-- LOCALIZATION NOTE (saveBodies.label): You can see this string in the Web
    - Console context menu. -->
+
 <!ENTITY saveBodies.label     "Zapisuj Request i Response tijela">
 <!ENTITY saveBodies.accesskey "Z">
-
 <!-- LOCALIZATION NOTE (openURL.label): You can see this string in the Web
    - Console context menu. -->
+
 <!ENTITY openURL.label     "Otvori URL u novom tabu">
 <!ENTITY openURL.accesskey "t">
-
 <!-- LOCALIZATION NOTE (btnPageNet.label): This string is used for the menu
   -  button that allows users to toggle the network logging output.
   -  This string and the following strings toggle various kinds of output
   -  filters. -->
+
 <!ENTITY btnPageNet.label   "Mreža">
 <!ENTITY btnPageNet.tooltip "Zapisuj pristup mreži">
 <!ENTITY btnPageNet.accesskey "M">
@@ -53,7 +53,7 @@
   -  for editing commands in text inputs. -->
 <!ENTITY btnPageNet.accesskeyMacOSX "t">
 <!ENTITY btnPageCSS.label   "CSS">
-<!ENTITY btnPageCSS.tooltip "Zapisuje greške u parsiranju CSS-a">
+
 <!ENTITY btnPageCSS.accesskey "C">
 <!ENTITY btnPageJS.label    "JS">
 <!ENTITY btnPageJS.tooltip  "Zapisuje JavaScript izuzetke">
@@ -61,18 +61,26 @@
 <!ENTITY btnPageSecurity.label "Sigurnost">
 <!ENTITY btnPageSecurity.tooltip "Zapisuj sigurnosne greške i upozorenja">
 <!ENTITY btnPageSecurity.accesskey "S">
-
 <!-- LOCALIZATION NOTE (btnPageLogging): This is used as the text of the
   -  the toolbar. It shows or hides messages that the web developer inserted on
   -  the page for debugging purposes, using calls such console.log() and
   -  console.error(). -->
+
 <!ENTITY btnPageLogging.label   "Zapisujem">
 <!ENTITY btnPageLogging.tooltip "Zapisuj poruke poslate ka window.console objektu">
-<!ENTITY btnPageLogging.accesskey "Z">
+
 <!ENTITY btnConsoleErrors       "Greške">
 <!ENTITY btnConsoleInfo         "Info">
 <!ENTITY btnConsoleWarnings     "Upozorenja">
 <!ENTITY btnConsoleLog          "Zapis">
+<!ENTITY btnConsoleXhr          "XHR">
+
+<!-- LOCALIZATION NODE (btnConsoleSharedWorkers) the term "Shared Workers"
+  -  should not be translated. -->
+<!-- LOCALIZATION NODE (btnConsoleServiceWorkers) the term "Service Workers"
+  -  should not be translated. -->
+<!-- LOCALIZATION NODE (btnConsoleWindowlessWorkers) the term "Workers"
+  -  should not be translated. -->
 
 <!ENTITY filterOutput.placeholder "Izlaz filtera">
 <!ENTITY btnClear.label        "Očisti">
@@ -80,7 +88,8 @@
 <!ENTITY btnClear.accesskey    "s">
 
 <!ENTITY fullZoomEnlargeCmd.commandkey  "+">
-<!ENTITY fullZoomEnlargeCmd.commandkey2 "="> <!-- + is above this key on many keyboards -->
+<!-- + is above this key on many keyboards -->
+<!ENTITY fullZoomEnlargeCmd.commandkey2 "="> 
 <!ENTITY fullZoomEnlargeCmd.commandkey3 "">
 
 <!ENTITY fullZoomReduceCmd.commandkey   "-">
@@ -94,4 +103,6 @@
 
 <!ENTITY closeCmd.key         "W">
 <!ENTITY findCmd.key          "F">
-<!ENTITY clearOutputCmd.key   "K">
+
+
+

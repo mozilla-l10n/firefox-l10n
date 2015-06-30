@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY startup.label             "Pokretanje">
 
 <!ENTITY startupPage.label         "Kada se &brandShortName; pokrene:">
@@ -12,16 +16,12 @@
 <!ENTITY useCurrentPage.accesskey  "c">
 <!ENTITY useMultiple.label         "Koristi trenutne stranice">
 <!ENTITY chooseBookmark.label      "Koristi zabilješku…">
-<!ENTITY chooseBookmark.accesskey  "B">
+<!ENTITY chooseBookmark.accesskey  "b">
 <!ENTITY restoreDefault.label      "Vrati na izvorne vrijednosti">
 <!ENTITY restoreDefault.accesskey  "r">
 
 <!ENTITY downloads.label     "Preuzimanja">
 
-<!ENTITY showWhenDownloading.label     "Prikaži prozor Preuzimanja kada se preuzima fajl">
-<!ENTITY showWhenDownloading.accesskey "d">
-<!ENTITY closeWhenDone.label "Zatvori kada se sva preuzimanja završe">
-<!ENTITY closeWhenDone.accesskey "Z">
 <!ENTITY saveTo.label "Spasi fajlove u">
 <!ENTITY saveTo.accesskey "v">
 <!ENTITY chooseFolderWin.label        "Pregled…">
@@ -30,3 +30,13 @@
 <!ENTITY chooseFolderMac.accesskey    "e">
 <!ENTITY alwaysAsk.label "Uvijek me pitaj gdje želim spasiti fajl">
 <!ENTITY alwaysAsk.accesskey "a">
+
+
+
+
+
+
+
+
+
+

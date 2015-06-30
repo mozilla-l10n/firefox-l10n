@@ -12,6 +12,9 @@
 <!ENTITY safeb.blocked.malwarePage.shortDesc "Ova web stranica na <span id='malware_sitename'/> je prijavila stranicu koja ju je nastojala ugroziti i koja je blokirana na osnovu vaših sigurnosnih preferenci.">
 <!ENTITY safeb.blocked.malwarePage.longDesc "<p>Napadačke stranice pokušavaju instalirati programe koji kradu privatne informacije, koriste vaš računar da napadnu druge, ili da oštete vaš sistem.</p><p>Neke napadačke stranice namjerno distribuiraju štetan softver, ali mnoge su kompromitovane bez znanja njihovih vlasnika.</p>">
 
+<!-- Localization note (safeb.blocked.malware.shortDesc) - Please don't translate the contents of the <span id="unwanted_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
+
+
 <!ENTITY safeb.blocked.phishingPage.title "Prijavljena Web krivotvorina!">
 <!-- Localization note (safeb.blocked.phishing.shortDesc) - Please don't translate the contents of the <span id="phishing_sitename"/> tag. It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
 <!ENTITY safeb.blocked.phishingPage.shortDesc "Ova web stranica na <span id='phishing_sitename'/> je prijavljena kao web krivotvorina i blokirana je na osnovu vaših sigurnosnih postavki.">
