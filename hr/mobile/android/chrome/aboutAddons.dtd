@@ -10,3 +10,5 @@
 <!ENTITY addonAction.disable                    "Onemogući">
 <!ENTITY addonAction.uninstall                  "Ukloni">
 <!ENTITY addonAction.undo                       "Vrati">
+
+<!ENTITY addonUnsigned.learnMore                "Saznajte više">
