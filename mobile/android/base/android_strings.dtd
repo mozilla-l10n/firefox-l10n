@@ -44,6 +44,9 @@
 <!ENTITY bookmark "ที่คั่นหน้า">
 <!ENTITY bookmark_remove "เอาที่คั่นหน้าออก">
 <!ENTITY bookmark_added "เพิ่มที่คั่นหน้าแล้ว">
+<!-- Localization note (bookmark_already_added) : This string is
+     used as a label in a toast. It is the verb "to bookmark", not
+     the noun "a bookmark". -->
 <!ENTITY bookmark_removed "ลบที่คั่นหน้าแล้ว">
 <!ENTITY bookmark_updated "ปรับปรุงที่คั่นหน้าแล้ว">
 <!ENTITY bookmark_options "ตัวเลือก">
@@ -77,6 +80,7 @@
 
 <!ENTITY settings "การตั้งค่า">
 <!ENTITY settings_title "การตั้งค่า">
+
 <!ENTITY pref_category_advanced "ขั้นสูง">
 <!ENTITY pref_category_customize "กำหนดเอง">
 <!ENTITY pref_category_customize_summary "หน้าแรก ค้นหา แท็บ นำเข้า">
@@ -104,7 +108,7 @@
 
 <!ENTITY overlay_share_bookmark_btn_label "ที่คั่นหน้า">
 <!ENTITY overlay_share_reading_list_btn_label "เพิ่มเข้ารายการอ่าน">
-<!ENTITY overlay_share_bookmark_btn_label_already "คั่นหน้าอยู่ก่อนแล้ว">
+
 <!ENTITY overlay_share_reading_list_btn_label_already "อยู่ใน Reading List แล้ว">
 <!ENTITY overlay_share_send_other "ส่งไปยังอุปกรณ์อื่น">
 <!-- Localization note (overlay_share_send_tab_btn_label) : Used on the
@@ -132,7 +136,7 @@
 <!ENTITY pref_category_display "การแสดงผล">
 <!ENTITY pref_category_display_summary "ข้อความ แถบชื่อเรื่อง การท่องเว็บแบบเต็มจอ">
 <!ENTITY pref_category_privacy_short "ความเป็นส่วนตัว">
-<!ENTITY pref_category_privacy_summary "ควบคุมรหัสผ่าน คุกกี้ การติดตาม ข้อมูล">
+
 <!ENTITY pref_category_vendor "&vendorShortName;">
 <!ENTITY pref_category_vendor_summary "เกี่ยวกับ &brandShortName; FAQs ตัวเลือกข้อมูล">
 <!ENTITY pref_category_datareporting "ตัวเลือกข้อมูล">
@@ -151,7 +155,9 @@
 <!ENTITY pref_category_devtools "เครื่องมือนักพัฒนา">
 <!ENTITY pref_developer_remotedebugging "การดีบักผ่านเครือข่าย">
 <!ENTITY pref_category_logins "เข้าระบบ">
-<!ENTITY pref_remember_signons "จำรหัสผ่าน">
+
+
+
 <!ENTITY pref_manage_logins "จัดการการเข้าระบบ">
 
 <!ENTITY pref_category_home "หน้าหลัก">
@@ -189,10 +195,9 @@
 <!ENTITY pref_donottrack_title "ไม่ต้องติดตามการเชื่อมต่อ">
 <!ENTITY pref_donottrack_summary "&brandShortName; จะบอกไซต์ที่คุณไม่ต้องการถูกติดตาม">
 
-<!ENTITY tab_queue_toast_message2 "แท็บอยู่ในคิวของ &brandShortName; แล้ว">
 <!ENTITY tab_queue_toast_action "เปิดทันที">
 <!ENTITY tab_queue_prompt_title "เปิดหลายลิงก์?">
-<!ENTITY tab_queue_prompt_text2 "เปิดหลายแท็บโดยไม่ต้องสลับมา &brandShortName; ในแต่ละครั้ง">
+
 <!ENTITY tab_queue_prompt_tip_text "คุณสามารถเปลี่ยนค่าได้ทีหลังจากหน้าการตั้งค่า">
 <!ENTITY tab_queue_prompt_positive_action_button "เปิดใช้งาน">
 <!ENTITY tab_queue_prompt_negative_action_button "ไม่ใช่ตอนนี้">
@@ -245,9 +250,13 @@ size. -->
 <!ENTITY pref_zoom_force_enabled "เปิดใช้งานการย่อ-ขยายตลอดเวลา">
 <!ENTITY pref_zoom_force_enabled_summary "บังคับใช้เพื่อให้สามารถย่อขยายดูได้ทุกหน้า">
 
+
+
+
+
 <!ENTITY pref_use_master_password "ใช้รหัสผ่านหลัก">
 <!ENTITY pref_sync "Sync">
-<!ENTITY pref_sync_summary "ผสานแท็บ ที่คั่นหน้า รหัสผ่าน ประวัติของคุณ">
+
 <!ENTITY pref_search_suggestions "แสดงคำค้นหาแนะนำ">
 <!ENTITY pref_import_android "นำเข้าจากแอนดรอยด์">
 <!ENTITY pref_import_android_summary "นำเข้าที่คั่นหน้าและประวัติจากเว็บเบราว์เซอร์ในเครื่อง">
@@ -255,11 +264,12 @@ size. -->
 <!ENTITY pref_private_data_searchHistory "ประวัติการค้นหา">
 <!ENTITY pref_private_data_formdata2 "ประวัติการกรอกฟอร์ม">
 <!ENTITY pref_private_data_cookies2 "คุกกี้และล็อกอินที่เข้าใช้อยู่">
-<!ENTITY pref_private_data_passwords "รหัสผ่านที่บันทึกไว้">
+
 <!ENTITY pref_private_data_cache "แคช">
 <!ENTITY pref_private_data_offlineApps "ข้อมูลเว็บไซต์ออฟไลน์">
 <!ENTITY pref_private_data_siteSettings2 "การตั้งค่ารายเว็บ">
 <!ENTITY pref_private_data_downloadFiles2 "ดาวน์โหลด">
+
 
 
 <!ENTITY pref_about_firefox "เกี่ยวกับ &brandShortName;">
@@ -380,6 +390,11 @@ size. -->
 <!ENTITY doorhanger_login_edit_toggle "แสดงรหัสผ่าน">
 <!ENTITY doorhanger_login_edit_toast_error "บันทึกการเข้าระบบไม่ได้">
 
+
+
+
+
+
 <!ENTITY pref_titlebar_mode "แถบหัวเรื่อง">
 <!ENTITY pref_titlebar_mode_title "แสดงหัวเรื่องเว็บ">
 <!ENTITY pref_titlebar_mode_url "แสดงที่อยู่เว็บ">
@@ -390,7 +405,7 @@ size. -->
 <!ENTITY pref_scroll_title_bar_summary "ซ่อนแถบชื่อเรื่อง &brandShortName; เมื่อเลื่อนหน้าลงมา">
 
 <!ENTITY pref_tab_queue_title2 "เปิดหลายลิงก์">
-<!ENTITY pref_tab_queue_summary2 "เก็บลิงก์ไว้สำหรับภายหลังแทนการสลับมา &brandShortName; ในแต่ละครั้ง">
+
 <!-- Localization note (page_removed): This string appears in a toast message when
      any page is removed frome about:home. This includes pages that are in history,
      bookmarks, or reading list. -->
@@ -408,8 +423,8 @@ size. -->
 <!ENTITY site_settings_cancel       "ยกเลิก">
 <!ENTITY site_settings_clear        "ล้าง">
 <!ENTITY site_settings_no_settings  "ไม่มีการตั้งค่าให้ล้าง">
-
-<!ENTITY reading_list_added "เพิ่มหน้าเว็บเข้ารายการอ่านของคุณแล้ว">
+<!-- Localization note (reading_list_added2) : Used in a toast, please keep as short
+     as possible. -->
 <!ENTITY reading_list_removed "ลบหน้าเว็บออกจากรายการอ่านของคุณแล้ว">
 <!-- Localization note (reading_list_remove) : Used to remove the currently open page from
      the user's reading list. The opposite of overlay_share_reading_list_btn_label. -->
@@ -438,7 +453,7 @@ size. -->
 <!ENTITY button_clear_data "ล้างข้อมูล">
 <!ENTITY button_set "ตั้ง">
 <!ENTITY button_clear "ล้าง">
-<!ENTITY button_remember "จำ">
+<!ENTITY button_copy "คัดลอก">
 
 <!ENTITY firstrun_panel_title_welcome "ยินดีต้อนรับ">
 
@@ -502,10 +517,6 @@ size. -->
      the text of a button; we expect more than one device. -->
 <!ENTITY home_remote_tabs_unhide_selected_devices "เลิกซ่อนอุปกรณ์ที่เลือก">
 
-<!ENTITY private_browsing_title "การดูเว็บแบบส่วนตัว">
-<!ENTITY private_tabs_panel_empty_desc "แท็บแบบส่วนตัวจะแสดงที่นี่ แม้ว่าเราจะไม่เก็บประวัติการเข้าชมหรือคุกกี้ แต่ตัวคั่นหน้าและไฟล์ที่คุณดาวน์โหลดจะยังถูกบันทึกไว้บนอุปกรณ์นี้">
-<!ENTITY private_tabs_panel_learn_more "ต้องการเรียนรู้เพิ่มเติมไหม?">
-
 <!ENTITY remote_tabs_panel_moved_title "แท็บของฉันไปอยู่ที่ไหน?">
 <!ENTITY remote_tabs_panel_moved_desc "เราได้ย้ายแท็บของคุณจากอุปกรณ์อื่นไปไว้ที่แผงบนหน้าแรกของคุณ ซึ่งสามารถเข้าถึงได้อย่างง่ายดายในทุกครั้งที่คุณเปิดแท็บใหม่">
 <!ENTITY remote_tabs_panel_moved_link "นำฉันไปที่แผงใหม่ของฉัน">
@@ -533,6 +544,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_run_by "ให้บริการโดย">
 <!ENTITY identity_no_info "เว็บไซต์นี้ไม่ระบุข้อมูลอัตลักษณ์">
 <!ENTITY identity_not_encrypted "การเชื่อมต่อไปยังเว็บไซต์นี้ไม่มีการเข้ารหัส">
+<!ENTITY identity_encrypted "ถูกเข้ารหัสลับ">
 <!-- Mixed content notifications in site identity popup -->
 
 <!ENTITY loaded_mixed_content_message "หน้าเว็บนี้กำลังแสดงเนื้อหาที่ไม่ปลอดภัย">
@@ -599,7 +611,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY guest_session_dialog_continue "ทำต่อ">
 <!ENTITY guest_session_dialog_cancel "ยกเลิก">
 <!ENTITY new_guest_session_title "&brandShortName; จะเริ่มทำงานใหม่">
-<!ENTITY new_guest_session_text "ผู้ที่ใช้จะไม่เห็นข้อมูลการท่องเว็บส่วนตัวของคุณ (เช่น รหัสผ่านที่บันทึกไว้, ประวัติการท่องเว็บ หรือที่คั่นหน้า)\n\nเมื่อผู้มาเยือนของคุณใช้งานเสร็จแล้ว ข้อมูลการท่องเว็บของเขาจะถูกลบ และวาระของคุณจะถูกเรียกคืนมา">
+
 <!ENTITY guest_browsing_notification_title "เปิดการเข้าเว็บโหมดแขก">
 <!ENTITY guest_browsing_notification_text "แตะเพื่อออก">
 
@@ -648,3 +660,4 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      if match-case is activated. i.e. No more than two letters, one uppercase, one lowercase. -->
 
 <!ENTITY find_matchcase "Aa">
+
