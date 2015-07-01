@@ -81,6 +81,7 @@
 
 <!ENTITY settings "Nastavenia">
 <!ENTITY settings_title "Nastavenia">
+<!ENTITY pref_category_input_options "Možnosti vstupu">
 <!ENTITY pref_category_advanced "Rozšírené">
 <!ENTITY pref_category_customize "Prispôsobenie">
 <!ENTITY pref_category_customize_summary "Úvodná stránka, vyhľadávanie, karty, import">
@@ -251,6 +252,8 @@ size. -->
 <!ENTITY pref_media_autoplay_enabled_summary "Určuje, či webové stránky môžu automaticky prehrávať videá a iné médiá">
 <!ENTITY pref_zoom_force_enabled "Vždy povoliť lupu">
 <!ENTITY pref_zoom_force_enabled_summary "Lupu bude možné používať pre akúkoľvek stránku">
+<!ENTITY pref_qrcode_enabled "Čítačka kódov QR">
+<!ENTITY pref_qrcode_enabled_summary "Povolí čítačku kódov QR v titulku okna">
 
 <!ENTITY pref_use_master_password "Používať hlavné heslo">
 <!ENTITY pref_sync "Synchronizácia">
