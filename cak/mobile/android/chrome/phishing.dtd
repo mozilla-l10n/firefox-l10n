@@ -1,0 +1,22 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY safeb.palm.accept.label "¡Kinawelesaj el wawe'!">
+<!ENTITY safeb.palm.decline.label "Tiq'olo' richin re jun ruchilab'exik tzij">
+<!ENTITY safeb.palm.notforgery.label2 "Man q'olonel ta chi  ruxaq k'amaya'l…">
+<!ENTITY safeb.palm.reportPage.label "¿Atux ruma toq xq'eleb'ëx re jun ruxaq k'amaya'l re'?">
+
+<!ENTITY safeb.blocked.malwarePage.title "¡Eleq'om re jun ruxaq k'amaya'l re'!">
+<!-- Localization note (safeb.blocked.malware.shortDesc) - Please don't translate the contents of the <span id="malware_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
+<!ENTITY safeb.blocked.malwarePage.shortDesc "Pa <span id='malware_sitename'/> re jun ruxaq k'amaya'l re', ya'on rutzijol chi jun eleq'om chi k'amaya'l, ruma ri' toq xq'eleb'ëx ruma ri k'atzinel achajik.">
+<!ENTITY safeb.blocked.malwarePage.longDesc "<p>Ri eleq'oma' taq ruxaq k'amaya'l nikitojtob'ej nikiyäk jun kema', ri nitikïr nreleq'aj awetamab'al, nrokisaj re asamajib'al richin nritzelaj ri aq'inoj. </p><p>Jujun taq ruxaq k'amaya'l jutaqil nikitaluj itzel taq kema', xa xe chi e k'ïy ri nikiq'ab'aj tzij ruma man awetaman ta chi chuqa' ya'on q'ij chi ke kuma ri kajaw pan ewäl.</p>">
+
+<!ENTITY safeb.blocked.phishingPage.title2 "¡Rik'in jub'a' q'olonel chi ruxaq k'amaya'l!">
+<!ENTITY safeb.blocked.phishingPage.shortDesc2 "We natz'ib'aj etamab'äl chawij rat pa re jun ruxaq k'amaya'l re', rik'in jub'a' nupo' pe richin jun eläq' kib'i' winaqi' o jun chik ruwäch chi eläq'.">
+<!ENTITY safeb.blocked.phishingPage.longDesc2 "<p>Re ruwäch chi q'olonel chi ruxaq k'amaya'l ye'okisäx pa q'oloj achi'el toq yesamäj ri pixin, chupam re' ri taq q'olonel taq ruxaq k'amaya'l chuqa' taq taqoya'l ye'okisäx richin  nikoxk'ob'ej taq ruxe' ri ütz yerutz'ët.</p>">
+
+<!ENTITY safeb.blocked.unwantedPage.title "¡Ruxaq k'amaya'l ri k'o itzel kema' chupam!">
+<!-- Localization note (safeb.blocked.unwanted.shortDesc) - Please don't translate the contents of the <span id="unwanted_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
+<!ENTITY safeb.blocked.unwantedPage.shortDesc "Pa ri ruxaq k'amaya'l <span id='unwanted_sitename'/> ya'on rutzijol chi k'o itzel taq kema' chupam ruma ri' toq xq'eleb'ëx rij richin rirajowaxik taq achajinik.">
+<!ENTITY safeb.blocked.unwantedPage.longDesc "Itzel taq ruxaq kema', ri nrajo' nuyäk q'olonel taq kema' chuqa' chanin nritzelaj ri aq'inoj.">

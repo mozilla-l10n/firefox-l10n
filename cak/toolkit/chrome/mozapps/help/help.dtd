@@ -1,0 +1,48 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+
+
+
+<!ENTITY backButton.label               "Chi rij">
+<!ENTITY backButton.accesskey           "C">
+<!ENTITY backButton.tooltip             "Rutzolixik jun ruxaq">
+<!ENTITY forwardButton.label            "Jun chik">
+<!ENTITY forwardButton.accesskey        "J">
+<!ENTITY forwardButton.tooltip          "Jun chik ruxaq">
+<!ENTITY copyCmd.label                  "Wachib'exïk">
+<!ENTITY copyCmd.accesskey              "c">
+<!ENTITY selectAllCmd.label             "Rucha'ik ronojel">
+<!ENTITY selectAllCmd.accesskey         "r">
+
+
+<!ENTITY homeButton.label               "Tikirib'äl">
+
+<!ENTITY printButton.label              "Tz'ajixïk">
+<!ENTITY printButton.tooltip            "Rutz'ajb'axik re ruxaq re'">
+
+
+<!ENTITY search.emptytext               "Rukanoxik">
+
+
+
+<!-- LOCALIZATION NOTE :
+fullZoomEnlargeCmd.commandkey3, fullZoomReduceCmd.commandkey2 and
+fullZoomResetCmd.commandkey2 are alternative acceleration keys for zoom.
+If shift key is needed with your locale popular keyboard for them,
+you can use these alternative items. Otherwise, their values should be empty.  -->
+<!ENTITY fullZoomReduceCmd.commandkey2  "">
+
+<!-- + is above this key on many keyboards -->
+<!ENTITY fullZoomEnlargeCmd.commandkey3 "">
+
+<!ENTITY fullZoomResetCmd.commandkey2   "">
+
+
+
+
+<!ENTITY fullZoomReduceBtn.label        "Ch'utirisaxïk">
+<!ENTITY fullZoomReduceBtn.accesskey    "C">
+<!ENTITY fullZoomEnlargeBtn.label       "Nimirisaxïk">
+<!ENTITY fullZoomEnlargeBtn.accesskey   "N">

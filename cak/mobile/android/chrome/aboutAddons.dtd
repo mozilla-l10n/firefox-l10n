@@ -1,0 +1,15 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY aboutAddons.title2                     "Taq tz'aqat">
+<!ENTITY aboutAddons.header2                    "Taq rutz'aqat">
+<!ENTITY aboutAddons.options                    "Taq cha'oj">
+
+<!ENTITY addonAction.enable                     "Rutzijik">
+<!ENTITY addonAction.disable                    "Ruchupik">
+<!ENTITY addonAction.uninstall                  "Telesäx el">
+<!ENTITY addonAction.undo                       "Titzolin chi rij">
+
+<!ENTITY addonUnsigned.message                  "This add-on could not be verified by &brandShortName;.">
+<!ENTITY addonUnsigned.learnMore                "Learn more">

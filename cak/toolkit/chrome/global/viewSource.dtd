@@ -1,0 +1,81 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+<!-- extracted from content/viewSource.xul -->
+<!-- LOCALIZATION NOTE (mainWindow.title) : DONT_TRANSLATE --> 
+
+
+<!ENTITY mainWindow.title "&brandFullName;">
+<!-- LOCALIZATION NOTE (mainWindow.titlemodifier) : DONT_TRANSLATE --> 
+<!ENTITY mainWindow.titlemodifier "&brandFullName;">
+<!-- LOCALIZATION NOTE (mainWindow.titlemodifierseparator) : DONT_TRANSLATE -->
+<!ENTITY mainWindow.titlemodifierseparator " - ">
+
+
+<!ENTITY fileMenu.label "Yakb'äl">
+<!ENTITY fileMenu.accesskey "Y">
+<!ENTITY savePageCmd.label "Rub'eyal yakïk…">
+<!ENTITY savePageCmd.accesskey "A">
+
+<!ENTITY pageSetupCmd.label "Runuk'ik ruxaq…">
+<!ENTITY pageSetupCmd.accesskey "u">
+<!ENTITY printPreviewCmd.label "Nab'ey tz'etoj">
+<!ENTITY printPreviewCmd.accesskey "v">
+<!ENTITY printCmd.label "Tz'ajixïk…">
+<!ENTITY printCmd.accesskey "P">
+
+<!ENTITY closeCmd.label "Elem">
+<!ENTITY closeCmd.accesskey "C">
+
+<!-- LOCALIZATION NOTE :
+textEnlarge.commandkey3, textReduce.commandkey2 and
+textReset.commandkey2 are alternative acceleration keys for zoom.
+If shift key is needed with your locale popular keyboard for them,
+you can use these alternative items. Otherwise, their values should be empty.  -->
+
+<!ENTITY textEnlarge.commandkey3 "">
+
+<!ENTITY textReduce.commandkey2 "">
+
+<!ENTITY textReset.commandkey2 "">
+
+
+
+
+<!ENTITY viewMenu.label           "Tz'etoj">
+<!ENTITY viewMenu.accesskey       "T">
+<!ENTITY reloadCmd.label "Kamulokem">
+<!ENTITY reloadCmd.accesskey "K">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!ENTITY findOnCmd.label     "Rukanoxik pa re ruxaq…">
+<!ENTITY findOnCmd.accesskey "R">
+
+<!ENTITY findAgainCmd.label  "Rukamuluxik ri rukanoxik">
+<!ENTITY findAgainCmd.accesskey "k">
+
+
+
+
+<!ENTITY backCmd.label "Chi rij">
+<!ENTITY backCmd.accesskey "C">
+<!ENTITY forwardCmd.label "Jun chik">
+<!ENTITY forwardCmd.accesskey "J">
+
+
+
+
+<!ENTITY copyEmailCmd.label "Ruwachib'exik rub'ey taqoya'l">
+<!ENTITY copyEmailCmd.accesskey "b">

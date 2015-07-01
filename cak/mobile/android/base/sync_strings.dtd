@@ -1,0 +1,270 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+<!-- Don't localize these. They're here until they have
+     a better place to live. -->
+
+<!ENTITY syncBrand.fullName.label "Firefox Ximïl">
+<!ENTITY syncBrand.shortName.label "Ximïl">
+<!-- Main titles. -->
+
+<!ENTITY sync.app.name.label "&syncBrand.fullName.label;">
+<!ENTITY sync.title.connect.label "Tokisäx pa &syncBrand.shortName.label;">
+<!ENTITY sync.title.adddevice.label "Titz\u0027aqatisäx jun retal rutaqoya\u0027l &syncBrand.fullName.label;">
+<!ENTITY sync.title.pair.label "Tixim jun okisaxel">
+<!-- J-PAKE Key Screen -->
+
+<!ENTITY sync.subtitle.connect.label "Richin natzïj ri k\u0027ak\u0027a\u0027 awokisaxel, tacha\u0027 \&quot;Rub\u0027anik runuk\u0027ulem &syncBrand.shortName.label;\&quot; pa ri okisaxel.">
+<!ENTITY sync.subtitle.header2.label "Tatz\u0027ib\u0027aj re jun cholajil re\u0027 pa ri awokisaxel">
+<!ENTITY sync.subtitle.connectlocation2.label "Tacha\u0027 \&quot;&sync.title.pair.label;\&quot; pa ri peraj &syncBrand.shortName.label; k\u0027o chupam ri jun chik awokisaxel pa ri cha\u0027öy richin Firefox.">
+<!ENTITY sync.subtitle.pair.label "Richin natzïj. tacha\u0027 \\&quot;Tixim jun okisaxel\\&quot; pan ri jun chik awokisaxel.">
+<!ENTITY sync.pin.default.label "...\n...\n...\n">
+<!ENTITY sync.pin.oneline.label "...">
+<!ENTITY sync.link.show.label "Kinak\u0027utu\u0027 achi\u0027el.">
+<!ENTITY sync.link.advancedsetup.label "Q\u0027axinäq runuk\u0027ulem…">
+<!ENTITY sync.link.nodevice.label "Man k\u0027o ta ri woyonib\u0027äl wik\u0027in…">
+<!-- J-PAKE Waiting Screen -->
+
+<!ENTITY sync.jpake.subtitle.waiting.label "Royob\u0027exik ri jun chik okisaxel…">
+<!-- Account Login Screen -->
+
+<!ENTITY sync.subtitle.account.label "Tatz\u0027ib\u0027aj ri taq etamab\u0027äl chi rij ri retal ataqoya\u0027l richin &syncBrand.fullName.label;">
+<!ENTITY sync.input.username.label "Rub\u0027i\u0027 retal ataqoya\u0027l">
+<!ENTITY sync.input.password.label "Ewan tzij">
+<!ENTITY sync.input.key.label "Kolonel ruxe\u0027el tzij ">
+<!ENTITY sync.checkbox.server.label "Tokisäx jun ichinan ruk\u0027u\u0027x samaj ">
+<!ENTITY sync.input.server.label "Ruk\u0027u\u0027x samaj URL">
+<!-- Setup Fail -->
+
+<!ENTITY sync.title.fail.label "Man tikirel ta nib\u0027an runuk\u0027ulem &syncBrand.shortName.label;">
+<!ENTITY sync.subtitle.fail.label "&syncBrand.fullName.label; man nitikïr nok pa ri ruk\u0027u\u0027x samaj. ¿La nawajo\u0027 natojtob\u0027ej jub\u0027ey chik?">
+<!ENTITY sync.button.tryagain.label "Titojtob\u0027ëx chik">
+<!ENTITY sync.button.manual.label "Runuk\u0027ulem chi q\u0027ab\u0027aj">
+<!ENTITY sync.subtitle.nointernet.label "Man niwachin ta jun okem pa k\u0027amaya\u0027l">
+<!ENTITY sync.subtitle.failaccount.label "Ri rujaqik ri retal ataqoya\u0027l pa ri awokisaxel man ütz ta xub\u0027än.">
+<!ENTITY sync.subtitle.failmultiple.label "¿Ayakon mas ka\u0027i\u0027 chi Firefox? Wakami &syncBrand.fullName.label; tikirel nuk\u0027ül nuyäk xa xe jun Firefox pa jub\u0027ey. Tab\u0027ana\u0027 utzil, ke\u0027awelesaj el ri ch\u0027aqa\u0027 chik richin yatikïr nayäk &syncBrand.shortName.label;.">
+<!-- Setup Success -->
+
+<!ENTITY sync.title.success.label "Xb\u0027an runuk\u0027ulem chijun">
+<!ENTITY sync.subtitle.success.label1 "Tajin yeqasäx ri taq atzij pa ruka\u0027n b\u0027ey. Tikirel yab\u0027e pa Tz\u0027ajonïk richin nanuk\u0027samajij ri retal ataqoya\u0027l o richin natikirisaj ri okik\u0027amaya\u0027l rik\u0027in ri &brandShortName;.">
+<!ENTITY sync.settings.label "Runuk\u0027ulem">
+<!ENTITY sync.subtitle.manage.label1 "Ri retal ataqoya\u0027l richin &syncBrand.fullName.label; xb\u0027an yan runuk\u0027ulem. Ütz yab\u0027e pa Tz\u0027ajonïk richin nanuk\u0027samajij ri retal ataqoya\u0027l o najäq ri &brandShortName;.">
+<!-- Pair Device -->
+
+<!ENTITY sync.pair.tryagain.label "Tab\u0027ana\u0027 utzil, tatojtob\u0027ej jub\u0027ey chik.">
+<!ENTITY sync.pair.connectlocation.label "Richin natzïj ri k\u0027ak\u0027a\u0027 awokisaxel, tacha\u0027 “Runuk\u0027ulem &syncBrand.shortName.label;“ pa ri okisaxel, k\u0027a ri\u0027 tacha\u0027 “K\u0027o jun retal nutaqoya\u0027l“.">
+<!-- Firefox SyncAdapter Settings Screen -->
+
+<!ENTITY sync.settings.options.label "Taq cha\u0027oj">
+<!ENTITY sync.summary.pair.label "Taxima\u0027 jun chik okisaxel rik\u0027in ri retal ataqoya\u0027l richin &syncBrand.shortName.label;">
+<!-- Configure Engines -->
+
+<!ENTITY sync.configure.engines.title.label "Atux nixim">
+<!ENTITY sync.configure.engines.sync.my.title.label "Tixim ri taq a…">
+<!ENTITY sync.configure.engines.title.bookmarks "Yakäl taq etal">
+<!ENTITY sync.configure.engines.title.passwords2 'Logins'>
+<!ENTITY sync.configure.engines.title.history "K\u0027ulwachinel">
+<!ENTITY sync.configure.engines.title.tabs "Taq ruwi\u0027">
+<!-- Common text -->
+
+<!ENTITY sync.button.cancel.label "Jumul tiq\u0027at">
+<!ENTITY sync.button.connect.label "Tokisäx">
+<!ENTITY sync.button.ok.label "Ütz">
+<!-- Account strings -->
+
+<!ENTITY sync.account.label "&syncBrand.fullName.label; (man ütz ta nitz\u0027et)">
+<!-- Localization note (sync.default.client.name): Default string of the "Device
+     name" menu item upon setting up Firefox Sync.  The placeholder &formatS1
+     will be replaced by the name of the Firefox release channel and &formatS2
+     by the model name of the Android device. Examples look like "Aurora on
+     GT-I1950" and "Fennec on MI 2S". -->
+
+<!ENTITY sync.default.client.name "&formatS1; pa ruwi\u0027 &formatS2;">
+<!-- Bookmark folder strings -->
+
+<!ENTITY bookmarks.folder.menu.label "K\u0027utüy rusamaj yakäl etal">
+<!ENTITY bookmarks.folder.places.label "K\u0027utüy kisamaj yakäl taq etal">
+<!ENTITY bookmarks.folder.tags.label "Ruwachib\u0027al b\u0027i\u0027aj">
+<!ENTITY bookmarks.folder.toolbar.label "Rumolsamajib\u0027al yakäl taq etal">
+<!ENTITY bookmarks.folder.unfiled.label "Taq samajib\u0027äl majun ketal">
+<!ENTITY bookmarks.folder.desktop.label "Yakäl retal tzub\u0027al">
+<!ENTITY bookmarks.folder.mobile.label "Yakäl retal oyonib\u0027äl">
+<!ENTITY bookmarks.folder.readinglist.label "Rucholajem sik\u0027inem">
+<!-- Pinned sites on about:home. This folder should never be shown to the user, but we have to give it a string name -->
+<!ENTITY bookmarks.folder.pinned.label "Jikïl">
+<!-- Notification strings -->
+
+<!ENTITY sync.notification.oneaccount.label "Xa xe niya\u0027 q\u0027ij richin jun retal rutaqoya\u0027l &syncBrand.fullName.label;.">
+<!ENTITY sync.notification.configure.saved "Ri taq acha\u0027oj xeyak yan qa.">
+<!-- Incorrect settings and changing credentials. -->
+
+<!ENTITY sync.invalidcreds.label "Man eruk\u0027amon ta ri retal ataqoya\u0027l o ri ewan tzij.">
+<!ENTITY sync.invalidserver.label "Tab\u0027ana\u0027 utzil tatz\u0027ib\u0027aj jun ruk\u0027amon K\u0027AL.">
+<!ENTITY sync.verifying.label "Tajin nijikib\u0027äx…">
+<!ENTITY sync.new.recoverykey.status.incorrect "Man ruk\u0027amon ta re rukolik ruxe\u0027el tzij. Tatojtob\u0027ej jub\u0027ey chik. ">
+<!-- Send tab to device. -->
+
+<!ENTITY sync.title.send.tab.label "Ketaq ri taq ruwi\u0027 pa ri okisaxela\u0027">
+<!ENTITY sync.button.send.label "Titaq">
+<!ENTITY sync.button.set.up.sync.label "Tib\u0027an runuk\u0027ulem ri &syncBrand.shortName.label;">
+<!ENTITY sync.title.redirect.to.set.up.sync.label "Tib\u0027an runuk\u0027ulem ri &syncBrand.shortName.label; richin yetaq taq ruwi\u0027">
+<!ENTITY sync.text.redirect.to.set.up.sync.label "Tib\u0027an runuk\u0027ulem ri &syncBrand.fullName.label; pa ri awokisaxel richin nitaq taq ruwi\u0027 pa ch\u0027aqa\u0027 chik taq samajib\u0027äl.">
+<!ENTITY sync.text.tab.sent.label "¡Xtaq ri awi\u0027 !">
+<!ENTITY sync.text.tab.not.sent.label "Xk\u0027oje\u0027 jun k\u0027ayewal toq xtaq ri awi\u0027.">
+<!-- Firefox Account strings. -->
+
+
+<!ENTITY fxaccount_full_label "Retal rutaqoyal ri Firefox">
+
+<!ENTITY fxaccount_custom_server_account_title "Rokisaxik ri retal taqoya\u0027l pa ruk\u0027u\u0027x samaj">
+<!ENTITY fxaccount_custom_server_sync_title "Ruyakik tzij richin ximïl pa ri ruk\u0027u\u0027x samaj">
+<!-- Localization note: these are shown in all screens that query the
+     user for an email address and password. Hide and show are button
+     labels. -->
+
+<!ENTITY fxaccount_email_hint "Taqoya\u0027l">
+<!ENTITY fxaccount_password_hint "Ewan tzij">
+<!ENTITY fxaccount_password_hide "Tewäx">
+<!ENTITY fxaccount_password_show "Tiq\u0027alajin pe">
+<!-- Localization note: these are shown in screens after the user has
+     created or signed in to an account, and take the user back to
+     Firefox. -->
+
+<!ENTITY fxaccount_back_to_browsing "Tok chik pa k\u0027amaya\u0027l">
+<!-- Localization note: the following two strings are interpolated
+     into fxaccount_create_account_policy_text2; see note for that
+     string as well.  Compare fxaccount_status_{linktos,linkprivacy}:
+     these strings are separated to accommodate languages that decline
+     the two uses differently. -->
+
+<!ENTITY fxaccount_policy_linktos "Retal rutzijol re samaj">
+<!ENTITY fxaccount_policy_linkprivacy "Ichinan rutzijol">
+
+<!ENTITY fxaccount_getting_started_welcome_to_sync "Matyox chawe yatok pa &syncBrand.shortName.label;">
+<!ENTITY fxaccount_getting_started_description2 'Sign in to sync your tabs, bookmarks, logins &amp; more.'>
+<!ENTITY fxaccount_getting_started_get_started "Nab\u0027ey taq xak">
+<!ENTITY fxaccount_getting_started_old_firefox "¿La nawokisaj jun ojer ruwäch chi &syncBrand.shortName.label;?">
+<!-- Localization note: the Firefox below should not change with the
+     particular version of Firefox installed (Release, Beta, Aurora,
+     etc).  The account remains a "Firefox Account". -->
+
+<!ENTITY fxaccount_create_account_header2 "Titz\u0027uk jun retal taqoya\u0027l pa Firefox">
+<!ENTITY fxaccount_create_account_password_length_restriction "K\u0027o chi nutikirisaj rik\u0027in 8 taq tz\u0027ib\u0027">
+<!ENTITY fxaccount_create_account_day_of_birth "Q\u0027ij">
+<!ENTITY fxaccount_create_account_month_of_birth "Ik\u0027">
+<!ENTITY fxaccount_create_account_year_of_birth "Juna\u0027 xataläx">
+<!-- Localization note: &formatS1; is fxaccount_policy_linktos, &formatS2; is fxaccount_policy_linkprivacy, both hyperlinked. -->
+<!ENTITY fxaccount_create_account_policy_text2 "Toq xtintikirisaj, ninjikib\u0027a\u0027 nutzij rik\u0027in ri taq &formatS1; chuqa\u0027 rik\u0027in ri &formatS2; richinan ri rusamaj pa rub\u0027ey ri Firefox.">
+<!ENTITY fxaccount_create_account_button "Jun chik">
+<!ENTITY fxaccount_create_account_choose_what_to_sync "Tacha\u0027 ri nawajo\u0027 nakomonij">
+<!ENTITY fxaccount_create_account_sign_in_instead "¿La k\u0027o chik jun retal ataqoya\u0027l? Tatikirisaj moloj">
+<!ENTITY fxaccount_create_account_1990_or_earlier "1990 o chuwäch">
+<!ENTITY fxaccount_create_account_unknown_error "Man xtikïr ta xunük\u0027 ri retal taqoya\u0027l">
+
+<!ENTITY fxaccount_account_create_not_allowed "Man tikirel ta ninuk\u0027 ri retal taqoya\u0027l">
+<!ENTITY fxaccount_account_create_not_allowed_you_must_meet_certain_age_requirements "K\u0027o chi k\u0027o chi ajuna\u0027 richin yatikïr natz\u0027ük\u0027 jun retal taqoya\u0027l.">
+<!ENTITY fxaccount_account_create_not_allowed_learn_more "Tetamäx ch\u0027aqa\u0027 chik">
+
+<!ENTITY fxaccount_confirm_account_header "Tajikib\u0027a\u0027 ri retal ataqoya\u0027l">
+<!-- Localization note: &formatS; is the Firefox Account's email address. -->
+<!ENTITY fxaccount_confirm_account_verification_link "Jun ximöy richin jikib\u0027axïk, xtaq pa &formatS;">
+<!ENTITY fxaccount_confirm_account_resend_email "Titaq chik ri taqoya\u0027l">
+<!ENTITY fxaccount_confirm_account_change_email "¿La nimestäx re rochochib\u0027al taqoya\u0027l re?">
+<!ENTITY fxaccount_confirm_account_verification_link_sent2 "Xtaq ri jikib\u0027an taqoya\u0027l ">
+<!ENTITY fxaccount_confirm_account_verification_link_not_sent2 "Man tikirel ta xtaq ri jikib\u0027an taqoya\u0027l">
+<!ENTITY fxaccount_resend_unlock_code_button_label "Titaq chik rutzijol taqoj richin meq\u0027eleb\u0027enïk">
+<!ENTITY fxaccount_unlock_code_sent "Rutzijol taqoj richin meq\u0027eleb\u0027enïk richin ri taqon retal taqoya\u0027l">
+<!ENTITY fxaccount_unlock_code_not_sent "Man xojtikïr ta xqatäq jun rutzijol taqoj richin nimeq\u0027eleb\u0027ëx ri retal taqoya\u0027l">
+
+<!ENTITY fxaccount_sign_in_sub_header "Titikirisäx moloj">
+<!ENTITY fxaccount_sign_in_button_label "Titikirisäx moloj">
+<!ENTITY fxaccount_sign_in_forgot_password "¿La xamestaj ri ewan atzij?">
+<!ENTITY fxaccount_sign_in_create_account_instead "Tanuk\u0027u\u0027 jun retal taqoya\u0027l">
+<!ENTITY fxaccount_sign_in_unknown_error "Man xtikïr ta xutikirisaj ri moloj">
+
+<!ENTITY fxaccount_account_verified_sub_header "Xjikib\u0027äx ri retal taqoya\u0027l">
+<!ENTITY fxaccount_account_verified_description2 "Ri taq atzij xtikichäp kiximik ki\u0027 pa jun ti mej.">
+
+<!ENTITY fxaccount_migration_finished_header "Xk\u0027is ri k\u0027exoj ruwäch">
+
+<!ENTITY fxaccount_update_credentials_header "Titikirisäx moloj">
+<!ENTITY fxaccount_update_credentials_button_label "Titikirisäx moloj">
+<!ENTITY fxaccount_update_credentials_unknown_error "Man xtikïr ta xutikirisaj ri moloj">
+
+<!ENTITY fxaccount_finish_migrating_header "Katok richin nak\u0027ïs ri k\u0027exoj ruwäch">
+<!ENTITY fxaccount_finish_migrating_button_label "Tik\u0027isib\u0027ëx ri k\u0027exoj ruwäch">
+<!ENTITY fxaccount_finish_migrating_description "Rik\u0027in jub\u0027a\u0027 k\u0027ïy taq tzij nuk\u0027ïs ri k\u0027exoj ruwäch. Janila ütz we yatok pa jun Wi-Fi b\u0027ey.">
+
+<!ENTITY fxaccount_status_header2 "Retal rutaqoya\u0027l Firefox">
+<!ENTITY fxaccount_status_signed_in_as "Okisan achi\u0027el">
+<!ENTITY fxaccount_status_auth_server "Ruk\u0027u\u0027x samaj ri retal taqoya\u0027l">
+<!ENTITY fxaccount_status_sync_now "Tixim wakami">
+<!ENTITY fxaccount_status_syncing2 "Tajin nixim…">
+<!ENTITY fxaccount_status_device_name "Rub\u0027i\u0027 ri okisaxel">
+<!ENTITY fxaccount_status_sync_server "Ruk\u0027u\u0027x samaj richin Ximïl">
+<!ENTITY fxaccount_status_sync "&syncBrand.shortName.label;">
+<!ENTITY fxaccount_status_sync_enabled "&syncBrand.shortName.label; tzijon">
+<!ENTITY fxaccount_status_needs_verification2 "Rajowaxik nijikib\u0027äx ri retal ataqoya\u0027l. Tanaqa\u0027 qa richin nitaq chik ri rutzijol jikib\u0027axïk.">
+<!ENTITY fxaccount_status_needs_credentials "Man tikirel ta nok. Tanaqa\u0027 qa richin natikirisaj qa samaj.">
+<!ENTITY fxaccount_status_needs_upgrade "Rajowaxik nik\u0027ex ruwäch &brandShortName; richin nitikirisäx qa samaj.">
+<!ENTITY fxaccount_status_needs_master_sync_automatically_enabled "&syncBrand.shortName.label; b\u0027anon runuk\u0027ulem, xa xe chi man nuxïm ta ri\u0027 pa ruyonil. Tacha\u0027 \&quot;kexim taq tzij pa ruyonil\&quot; pa ri runuk\u0027ulem Android &gt; Kokisaxik taq tzij.">
+<!ENTITY fxaccount_status_needs_master_sync_automatically_enabled_v21 "&syncBrand.shortName.label; b\u0027anon runuk\u0027ulem, xa xe chi man nuxïm ta ri\u0027 pa ruyonil. Tacha\u0027 \&quot;Kexim taq tzij pa ruyonil\&quot; pa ri runuk\u0027ulem Android &gt; Kokisaxik taq tzij.">
+<!ENTITY fxaccount_status_needs_finish_migrating "Tapitz\u0027a\u0027 richin yatok chupam ri k\u0027ak\u0027a\u0027 rub\u0027i\u0027 ataqoya\u0027l richin Firefox.">
+<!ENTITY fxaccount_status_bookmarks "Yakäl taq etal">
+<!ENTITY fxaccount_status_history "K\u0027ulwachinel">
+<!ENTITY fxaccount_status_passwords2 'Logins'>
+<!ENTITY fxaccount_status_tabs "Jaqon taq ruwi\u0027">
+<!ENTITY fxaccount_status_legal "Taqanel tzijol" >
+<!-- Localization note: when tapped, the following two strings link to
+     external web pages.  Compare fxaccount_policy_{linktos,linkprivacy}:
+     these strings are separated to accommodate languages that decline
+     the two uses differently. -->
+<!ENTITY fxaccount_status_linktos "Retal rutzijol re Samaj re\u0027">
+<!ENTITY fxaccount_status_linkprivacy "Ichinan rutzijol">
+<!ENTITY fxaccount_status_more "Ch\u0027aqa\u0027 chik&ellipsis;">
+
+<!ENTITY fxaccount_remove_account_dialog_title "¿Tiyuj el ri rub\u0027i\u0027 taqoya\u0027l richin Firefox?">
+<!ENTITY fxaccount_remove_account_dialog_message "&brandShortName;&brandShortName; xtuya\u0027 kan chi ruximik ri rub\u0027i\u0027 ataqoya\u0027l, ri majun tzij richin kanoxïk xtuyüj el chupam ri okisaxel. ">
+<!-- Localization note: format string below will be replaced
+     with the Firefox Account's email address. -->
+<!ENTITY fxaccount_remove_account_toast "Yujun rub\u0027i\u0027 taqoya\u0027l richin Firefox &formatS;.">
+
+<!ENTITY fxaccount_remove_account_menu_item "Tiyuj el ri rub\u0027i\u0027 taqoya\u0027l">
+<!-- Localization note: this is the name shown by the Android system
+     itself for a Firefox Account. Don't localize this. -->
+
+<!ENTITY fxaccount_account_type_label "Firefox">
+<!-- Localization note: these are shown by the Android system itself,
+     when the user navigates to the Android > Accounts > {Firefox
+     Account} Screen. The link takes the user to the Firefox Account
+     status activity, which lets them manage their Firefox
+     Account. -->
+
+<!ENTITY fxaccount_options_title "&syncBrand.shortName.label; taq cha\u0027öy">
+<!ENTITY fxaccount_options_configure_title "Tab\u0027ana\u0027 runuk\u0027ulem &syncBrand.shortName.label;">
+<!-- Localization note: these error messages are shown after a request
+     has been made to the remote server, and an error of some type has
+     been returned. -->
+
+<!ENTITY fxaccount_remote_error_UPGRADE_REQUIRED "Rajowaxik nak\u0027ëx ruwäch Firefox">
+<!-- Localization note: the format string will be fxaccount_sign_in_button_label, linkified. -->
+
+<!ENTITY fxaccount_remote_error_ATTEMPT_TO_CREATE_AN_ACCOUNT_THAT_ALREADY_EXISTS_2 "K\u0027o chik ri retal taqoya\u0027l. &formatS1;">
+<!ENTITY fxaccount_remote_error_ATTEMPT_TO_ACCESS_AN_ACCOUNT_THAT_DOES_NOT_EXIST "Man ja ta ri taqoya\u0027l o ri ewan tzij">
+<!ENTITY fxaccount_remote_error_INCORRECT_PASSWORD "Man ja ta ri taqoya\u0027l o ri ewan tzij">
+<!ENTITY fxaccount_remote_error_ATTEMPT_TO_OPERATE_ON_AN_UNVERIFIED_ACCOUNT "Ri retal taqoya\u0027l man jikib\u0027an ta">
+<!ENTITY fxaccount_remote_error_CLIENT_HAS_SENT_TOO_MANY_REQUESTS "Tajin nisamäj ri ruk\u0027u\u0027x samaj, tatojtob\u0027ej na chik">
+<!ENTITY fxaccount_remote_error_SERVICE_TEMPORARILY_UNAVAILABLE_TO_DUE_HIGH_LOAD "Tajin nisamäj ri ruk\u0027u\u0027x samaj, tatojtob\u0027ej na chik">
+<!ENTITY fxaccount_remote_error_UNKNOWN_ERROR "K\u0027o jun k\u0027ayewal">
+<!ENTITY fxaccount_remote_error_COULD_NOT_CONNECT "Man tikirel ta nok pa ri rub\u0027ey">
+<!ENTITY fxaccount_remote_error_ACCOUNT_LOCKED "Q\u0027eleb\u0027en ri rub\u0027i\u0027 taqoya\u0027l. &formatS1;">
+
+<!ENTITY fxaccount_sync_sign_in_error_notification_title2 "&syncBrand.shortName.label; man okinäq ta">
+<!-- Localization note: the format string below will be replaced
+     with the Firefox Account's email address. -->
+<!ENTITY fxaccount_sync_sign_in_error_notification_text2 "Tapitz\u0027a\u0027 richin yatok achi\u0027el &formatS;">
+
+<!ENTITY fxaccount_sync_finish_migrating_notification_title "¿Tik\u0027isib\u0027ëx ri k\u0027exoj ruwäch&syncBrand.shortName.label;?">
+<!-- Localization note: the format string below will be replaced
+     with the Firefox Account's email address. -->
+<!ENTITY fxaccount_sync_finish_migrating_notification_text "Tapitz\u0027a\u0027 qa richin nok achi\u0027el &formatS;">

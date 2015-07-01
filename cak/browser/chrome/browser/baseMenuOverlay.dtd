@@ -1,0 +1,54 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY minimizeWindow.key       "m">
+<!ENTITY minimizeWindow.label     "ch'utinarisaxïk">
+<!ENTITY bringAllToFront.label    "Ruk'amik chuwäch ronojel">
+<!ENTITY zoomWindow.label         "Sum">
+<!ENTITY windowMenu.label         "winow">
+
+<!ENTITY helpMenu.label           "To'ïk"> 
+<!ENTITY helpMenu.accesskey       "H"> 
+<!-- LOCALIZATION NOTE some localizations of Windows (ex:french, german) use "?"
+                       for the help button in the menubar but Gnome does not.   -->
+<!ENTITY helpMenuWin.label        "To'ïk"> 
+<!ENTITY helpMenuWin.accesskey    "H">
+<!ENTITY aboutProduct2.label      "Chi rij ri &brandShortName;">
+<!ENTITY aboutProduct2.accesskey  "C">
+<!ENTITY productHelp2.label       "&amp;Ruto'ik ri brandShortName">
+<!ENTITY productHelp2.accesskey   "b">
+<!ENTITY helpMac.commandkey       "?">
+
+<!ENTITY helpKeyboardShortcuts.label     "Ruq'a' rub'ey Keyboard">
+<!ENTITY helpKeyboardShortcuts.accesskey "K">
+
+<!ENTITY helpSafeMode.label       "Rutzijik jub'ey chik rik'in chupül taq rutz'aqat…">
+<!ENTITY helpSafeMode.accesskey   "R">
+<!ENTITY helpSafeMode.stop.label       "Titikirisäx chik rik'in tzijon taq rutz'aqat">
+<!ENTITY helpSafeMode.stop.accesskey   "T">
+
+<!ENTITY healthReport2.label      "Rutzijol raxnaqil richin &brandShorterName;">
+<!ENTITY healthReport2.accesskey  "i">
+
+<!ENTITY helpTroubleshootingInfo.label      "Na'oj richin ye'asöl taq k'ayewal">
+<!ENTITY helpTroubleshootingInfo.accesskey  "N">
+
+<!ENTITY helpFeedbackPage.label      "Rutaqik ana'oj.">
+<!ENTITY helpFeedbackPage.accesskey  "S">
+
+<!ENTITY helpShowTour2.label            "B'eyajem pa &brandShortName;">
+<!ENTITY helpShowTour2.accesskey        "o">
+
+<!ENTITY preferencesCmdMac.label        "Taq cha'oj…">
+<!ENTITY preferencesCmdMac.commandkey   ",">
+
+<!ENTITY servicesMenuMac.label          "Taq samaj">
+
+<!ENTITY hideThisAppCmdMac2.label       "Tewäx &brandShortName;">
+<!ENTITY hideThisAppCmdMac2.commandkey  "H">
+
+<!ENTITY hideOtherAppsCmdMac.label      "Kewaxik ch'aqa' chikKe">
+<!ENTITY hideOtherAppsCmdMac.commandkey "H">
+
+<!ENTITY showAllAppsCmdMac.label        "Ruk'utik ronojel">

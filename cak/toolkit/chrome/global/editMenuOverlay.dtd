@@ -1,0 +1,35 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY editMenu.label            "K'exonïk">
+<!ENTITY editMenu.accesskey        "e">
+<!ENTITY undoCmd.label             "Yujïk">
+
+<!ENTITY undoCmd.accesskey         "U">
+<!ENTITY redoCmd.label             "Rukamuluxik">
+
+<!ENTITY redoCmd.accesskey         "m">
+<!ENTITY cutCmd.label              "Qupixik">
+
+<!ENTITY cutCmd.accesskey          "t">
+<!ENTITY copyCmd.label             "Wachib'exïk">
+
+<!ENTITY copyCmd.accesskey         "c">
+<!ENTITY pasteCmd.label            "Tz'ajb'axïk">
+
+<!ENTITY pasteCmd.accesskey        "P">
+<!ENTITY deleteCmd.label           "Yujïk">
+<!ENTITY deleteCmd.accesskey       "ï">
+<!ENTITY selectAllCmd.label        "Rucha'ik ronojel">
+
+<!ENTITY selectAllCmd.accesskey    "r">
+
+
+
+<!ENTITY findAgainCmd.label        "Rukamuluxik ri rukanoxik">
+
+
+<!ENTITY findAgainCmd.accesskey    "k">
+
+

@@ -1,0 +1,79 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+<!ENTITY  pageInfoWindow.height "500">
+
+<!ENTITY  copy.label            "Wachib'exïk">
+<!ENTITY  copy.accesskey        "c">
+
+<!ENTITY  selectall.label       "Rucha'ik ronojel">
+<!ENTITY  selectall.accesskey   "r">
+
+
+<!ENTITY  generalTab            "Chijun">
+
+
+
+
+
+
+
+
+
+<!ENTITY  generalMetaName       "B'i'aj">
+
+
+<!ENTITY  mediaTab              "K'ïy k'oxom">
+
+
+
+
+
+<!ENTITY  mediaType             "Ruwäch">
+
+
+<!ENTITY  mediaDimension        "Runimilem:">
+
+
+<!ENTITY  mediaSaveAs           "Tiyak achi'el…">
+
+
+
+
+
+<!ENTITY  feedSubscribe         "Tz'ib'anïk b'i'aj">
+
+
+<!ENTITY  permTab               "Taq ya'oj q'ij">
+
+
+
+<!ENTITY  permAllow             "Ruya'ik q'ij">
+
+<!ENTITY  permBlock             "Tiq'eleb'ëx">
+
+
+
+
+
+<!ENTITY  securityTab           "Chajinïk">
+
+
+
+<!ENTITY  securityView.unknown   "Man etaman ta ruwäch">
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!ENTITY  securityView.technical.header                 "Retal ajsamajel">
+
+<!ENTITY  helpButton.label                              "To'ïk">

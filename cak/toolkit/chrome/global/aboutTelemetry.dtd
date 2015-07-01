@@ -1,0 +1,56 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY aboutTelemetry.pageTitle "Taq rutzij Telemetry">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!ENTITY aboutTelemetry.generalDataSection "Chijun taq Tzij">
+
+
+<!ENTITY aboutTelemetry.telemetryLogSection "  Etataqonel tokisäx">
+
+<!ENTITY aboutTelemetry.slowSqlSection "  Taq b'ab' SQL ajeqal">
+
+<!ENTITY aboutTelemetry.chromeHangsSection "  Ri okem pa k'amaya'l nutzeqeb'a' ri'">
+
+<!ENTITY aboutTelemetry.threadHangStatsSection "  Kitzeqeb'axik b'ätz'">
+
+<!ENTITY aboutTelemetry.histogramsSection "  Tem K'ulwäch">
+
+<!ENTITY aboutTelemetry.keyedHistogramsSection "  Taq ruk'u'x Tem K'ulwäch">
+
+<!ENTITY aboutTelemetry.simpleMeasurementsSection "  Relik taq etab'äl">
+
+<!ENTITY aboutTelemetry.addonDetailsSection "  Taq rub'anikil tz'aqat">
+
+<!ENTITY aboutTelemetry.lateWritesSection "  Yaloj taq tz'ib'anïk">
+
+<!ENTITY aboutTelemetry.systemInfoSection "  Retamab'al q'inoj">
+
+<!ENTITY aboutTelemetry.addonHistogramsSection "  Molon taq tem k'ulwäch  ruma taq tz'aqat">
+
+<!ENTITY aboutTelemetry.toggle "  Tapitz'a' richin najalwachij ri peraj">
+
+<!ENTITY aboutTelemetry.emptySection "  (Man emolon ta taq tzij)">
+
+<!ENTITY aboutTelemetry.fullSqlWarning "  NOTA: Ri eqal chojmirisanem SQL chupül. Tikirel yek'ut pe tz'aqät taq rucholaj SQL xa xe chi man xketaq ta pa Telemetry">
+
+<!ENTITY aboutTelemetry.fetchSymbols "  Ke'ilitäj taq ajsamaj b'i'aj pa ri taq pila richin tzeqeb'anïk">
+
+<!ENTITY aboutTelemetry.hideSymbols "  Kek'ut taq tzij man esamajin ta pa tzeqeb'anïk">
+
+<!ENTITY aboutTelemetry.filterText "  Tichayüx (taq cholaj o /regexp/)">

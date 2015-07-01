@@ -1,0 +1,15 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY feedbackHeader2.label          "Rusamajib'al na'oj">
+
+<!ENTITY feedback.communicate.title     "¡Kach'o pe qik'in!">
+<!ENTITY feedback.feedback.title        "Titaq na'oj">
+<!ENTITY feedback.feedback.good         "Ütz">
+<!ENTITY feedback.feedback.bad          "Itzel">
+
+<!ENTITY feedback.tools.title           "Taq samajib'äl">
+<!ENTITY feedback.allowTelemetry.title  "Titaq etamab'äl chi rij rusamaj">
+<!ENTITY feedback.forceCompat.title     "Tib'an chi re chi tisamäj ri rutz'aqat.">
+<!ENTITY feedback.errorConsole.title    "Titzij ri rutemeb'al sachoj">
