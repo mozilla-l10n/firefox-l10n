@@ -671,6 +671,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY identity.connectionSecure "Zabezpečené pripojenie">
 <!ENTITY identity.connectionNotSecure "Pripojenie nie je zabezpečené">
+<!ENTITY identity.connectionVerified "&brandShortName; overil, že pripojenie k tejto stránke je zabezpečené. Spravuje ju:">
+<!ENTITY identity.connectionInternal "Toto je bezpečná stránka prehliadača &brandShortName;">
 
 <!ENTITY identity.moreInfoLinkText2 "Ďalšie informácie">
 
