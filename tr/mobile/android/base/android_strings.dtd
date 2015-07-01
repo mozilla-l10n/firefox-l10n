@@ -617,7 +617,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      double percent signs must be inserted in the format string.
      This entity is used in the zoomed view to display the zoom factor-->
 
-<!ENTITY percent "&#037;&formatS;&#037;">
+<!ENTITY percent "&#37;&#37;&formatS;">
 <!-- These are only used for accessibility for the done and overflow-menu buttons in the actionbar.
      They are never shown to users -->
 
