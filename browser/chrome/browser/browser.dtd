@@ -555,6 +555,14 @@
 <!ENTITY mixedContentBlocked2.block.label "Attiva protezione">
 <!ENTITY mixedContentBlocked2.block.accesskey "A">
 <!ENTITY mixedContentBlocked2.disabled.message "La protezione è disattivata">
+<!ENTITY trackingProtection.title "Protezione dal tracciamento">
+<!ENTITY trackingProtection.detectedBlocked "Sono stati bloccati dei tentativi di tracciare la navigazione.">
+<!ENTITY trackingProtection.detectedNotBlocked "Rilevati degli elementi traccianti. La protezione è stata disattivata per questo sito.">
+<!ENTITY trackingProtection.notDetected "Nessun elemento tracciante individuato in questo sito web.">
+<!ENTITY trackingProtection.unblock.label "Disattiva protezione per questo sito">
+<!ENTITY trackingProtection.unblock.accesskey "D">
+<!ENTITY trackingProtection.block.label "Attiva protezione per questo sito">
+<!ENTITY trackingProtection.block.accesskey "A">
 <!ENTITY trackingContentBlocked.message "Tracciamento">
 <!ENTITY trackingContentBlocked.moreinfo "Sono stati bloccati alcuni elementi in questa pagina in grado di tracciare la navigazione.">
 <!ENTITY trackingContentBlocked.learnMore "Ulteriori informazioni">
