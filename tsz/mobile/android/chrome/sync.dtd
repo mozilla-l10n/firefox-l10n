@@ -1,0 +1,31 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY sync.title                 "Sync">
+<!ENTITY sync.notconnected          "Nótki nani kúparatakorhexati">
+<!ENTITY sync.connect               "kúparatani">
+<!ENTITY sync.connected             "kuparatixati">
+<!ENTITY sync.details               "JASÏKWEECHA ">
+<!ENTITY sync.deviceName            "Y úrhatarakwa">
+<!ENTITY sync.disconnect            "píkunaritantani kupanaritakua">
+<!ENTITY sync.syncNow               "mak´u  jak´uant´ani">
+
+<!ENTITY sync.setup.title           "Sync kupanaritani">
+<!ENTITY sync.setup.pair            "pari anchitarani pekuntsï jima enka mak`u jak`unt`aka cheeti uratarakua">
+<!ENTITY sync.fallback              "no piritini jarhaska juchiiti ánchikurherikuani ">
+<!ENTITY sync.setup.manual          "karaa  mitperakweecha chiiti Sync ">
+<!ENTITY sync.account               "patsakata arhikata">
+<!ENTITY sync.password              "mitátarhakwa">
+<!ENTITY sync.recoveryKey           "mititaratskuani jirinantani">
+<!ENTITY sync.customServer          "úrha ma ánchitarakwa mintakata">
+<!ENTITY sync.serverURL             " URL jatakua">
+<!ENTITY sync.setup.connect         "kuparatani">
+<!ENTITY sync.setup.cancel          "atarukuni">
+<!ENTITY sync.setup.tutorial        "xerarini nena">
+<!ENTITY sync.setup.waiting2        "materu úratarakwa erokani">
+
+<!ENTITY sync.pair.title            "urakua materu ukuntani">
+<!ENTITY sync.pair.description      "ánchitarani chi marhuatakweecha, juntsik´u &quot;mak´u jasï unta´ani&quot; marhuatakwarhu">
+<!ENTITY sync.setup.close           "mikani">
+<!ENTITY sync.setup.waitingdownload "chi mitperakweecha késkunant´axati  materu nani, úakari mikani ini naninka yásï jaka ánchikurhini na énka tu wékaaka,">

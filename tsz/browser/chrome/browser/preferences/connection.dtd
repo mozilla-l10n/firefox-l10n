@@ -1,0 +1,49 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+
+<!ENTITY  connectionsDialog.title       "Sesi jatsintani anchitarakua">
+<!ENTITY  window.width                  "37em">
+<!ENTITY  window.macWidth               "39em">
+
+<!ENTITY  proxyTitle.label              "Sesi jatsintani proxies pari uni urhani anchitarakua internet">
+<!ENTITY  noProxyTypeRadio.label        "No proxy">
+<!ENTITY  noProxyTypeRadio.accesskey    "y">
+<!ENTITY  systemTypeRadio.label         "Urani enka sesi jatsintantanakia proxy anchikuarikueri">
+<!ENTITY  systemTypeRadio.accesskey     "U">
+<!ENTITY  WPADTypeRadio.label           "Jantiojku exeni enka sesi jatsintanaka proxy pari i anchikuarikua">
+<!ENTITY  WPADTypeRadio.accesskey       "w">
+<!ENTITY  manualTypeRadio.label         "Sesi untani urhakua proxy:">
+<!ENTITY  manualTypeRadio.accesskey     "S">
+<!ENTITY  autoTypeRadio.label           "URLpari jantiojku urhakuariaka proxy:">
+<!ENTITY  autoTypeRadio.accesskey       "p">
+<!ENTITY  reload.label                  "Uinirantani">
+<!ENTITY  reload.accesskey              "U">
+<!ENTITY  ftp.label                     "Proxy FTP:">
+<!ENTITY  ftp.accesskey                 "F">
+<!ENTITY  http.label                    "Proxy HTTP:">
+<!ENTITY  http.accesskey                "H">
+<!ENTITY  ssl.label                     "Proxy SSL:">
+<!ENTITY  ssl.accesskey                 "S">
+<!ENTITY  socks.label                   "SOCKS Host:">
+<!ENTITY  socks.accesskey               "C">
+<!ENTITY  socks4.label                  "SOCKS v4">
+<!ENTITY  socks4.accesskey              "K">
+<!ENTITY  socks5.label                  "SOCKS v5">
+<!ENTITY  socks5.accesskey              "v">
+
+
+<!ENTITY  port.label                    "Inchakuecha:">
+<!ENTITY  HTTPport.accesskey            "P">
+<!ENTITY  SSLport.accesskey             "o">
+<!ENTITY  FTPport.accesskey             "r">
+<!ENTITY  SOCKSport.accesskey           "t">
+<!ENTITY  noproxy.label                 "No urhani proxy:">
+<!ENTITY  noproxy.accesskey             "N">
+<!ENTITY  noproxyExplain.label          "Ma urhakua: .mozilla.org, .net.nz, 192.168.1.0/24">
+<!ENTITY  shareproxy.label              "Menku urhani proxy pari iamitu ampe">
+<!ENTITY  shareproxy.accesskey          "x">
+
+
+

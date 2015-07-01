@@ -1,0 +1,29 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY  colorsDialog.title              "Atantskuecha">
+<!ENTITY  window.width                    "38em">
+<!ENTITY  window.macWidth                 "41em">
+
+
+
+<!ENTITY  overridePageColors.always.label "Enka jamperi">
+
+<!ENTITY  overridePageColors.never.label  "Nóteru uétarhiakia">
+
+<!ENTITY  color                           "Karakua ka k´uanatsekua anapu">
+<!ENTITY  textColor.label                 "Karakua:">
+<!ENTITY  textColor.accesskey             "K">
+<!ENTITY  backgroundColor.label           "K´uanatsekua anapu:">
+<!ENTITY  backgroundColor.accesskey       "K">
+<!ENTITY  useSystemColors.label           "Urauani atantskuechani k´eri jurhamukueri">
+<!ENTITY  useSystemColors.accesskey       "r">
+
+<!ENTITY  underlineLinks.label            "K´uirunaritani kuntakuechani">
+<!ENTITY  underlineLinks.accesskey        "K">
+<!ENTITY  links                           "Atantskua kunkuarhikuecharu">
+<!ENTITY  linkColor.label                 "Kunkuarikua p´orempeparini:">
+<!ENTITY  linkColor.accesskey             "p">
+<!ENTITY  visitedLinkColor.label          "Kunkuarikua urhakatecha:">
+<!ENTITY  visitedLinkColor.accesskey      "u">

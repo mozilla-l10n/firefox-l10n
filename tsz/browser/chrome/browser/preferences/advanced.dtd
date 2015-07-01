@@ -1,0 +1,102 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+<!-- Note: each tab panel must contain unique accesskeys -->
+
+
+<!ENTITY generalTab.label                "Iamintu ampe">
+
+<!ENTITY accessibility.label             "Marhuatakua">
+
+<!ENTITY useCursorNavigation.label       "Ménkisï urani mananharhitakuachani ka isï uni miiunharhitakuarhu inchani">
+<!ENTITY useCursorNavigation.accesskey   "m">
+<!ENTITY searchStartTyping.label         "Karapaani jirinhantani karakataachani">
+<!ENTITY searchStartTyping.accesskey     "h">
+<!ENTITY blockAutoRefresh.label          "Eianpeni enka miiunharhitakua uekani jauaka monharhitani eranharhitakua">
+<!ENTITY blockAutoRefresh.accesskey      "b">
+
+<!ENTITY browsing.label                  "Miiunskakua">
+
+<!ENTITY useAutoScroll.label             "Jintiojku itsakukua">
+<!ENTITY useAutoScroll.accesskey         "i">
+
+
+
+
+
+
+
+
+
+
+<!ENTITY healthReportLearnMore.label     "Sánteru mítini">
+
+
+
+<!ENTITY telemetryLearnMore.label        "Sánteru mítini">
+
+
+
+<!ENTITY crashReporterLearnMore.label    "Sánteru mítini">
+
+<!ENTITY networkTab.label                "Ch'ieremakua">
+
+
+
+
+
+
+<!-- LOCALIZATION NOTE:
+  The entities limitCacheSizeBefore.label and limitCacheSizeAfter.label appear on a single
+  line in preferences as follows:
+
+  &limitCacheSizeBefore.label [textbox for cache size in MB] &limitCacheSizeAfter.label;
+-->
+
+
+
+
+
+
+
+
+
+<!ENTITY updateTab.label                 "Jimpanherantani">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!ENTITY offlineNotifyExceptions.label   "Licha no ampe…">
+<!ENTITY offlineNotifyExceptions.accesskey "L">
+
+<!ENTITY offlineAppsList.height          "7em">
+<!ENTITY offlineAppsListRemove.label     "Kéntitani…">
+<!ENTITY offlineAppsListRemove.accesskey "K">
+
+
+
+
+
+
+
+
+
+
+
+
+
+

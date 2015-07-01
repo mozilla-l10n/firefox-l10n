@@ -1,0 +1,20 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY safeb.palm.accept.label "Petan'tarhini ixu!">
+
+<!ENTITY safeb.palm.notforgery.label2 "No jintesti no sésï úrhakua…">
+<!ENTITY safeb.palm.reportPage.label "Antiksï no kajtanajki i erenharitarhakuarhu?">
+
+<!ENTITY safeb.blocked.malwarePage.title "I eranharhitarakua xerejpekueesti!">
+<!-- Localization note (safeb.blocked.malware.shortDesc) - Please don't translate the contents of the <span id="malware_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
+<!ENTITY safeb.blocked.malwarePage.shortDesc "I eranharitarakua <span id='malware_sitename'/> xaratanhasïnti eska xererpiti ma ka míkanhasti pári chanksïni kuajchakuni.">
+<!ENTITY safeb.blocked.malwarePage.longDesc "<p>xererpekua eranharhitarakuecha jankuarhint'asïntiksï incharani mítekuechani enkaksï úaka sïpani ampe enka ma jatsïkuarhika, úrhachinsïni chari anchitarakua pari xererpeni o xereni chiti anchitakuani.</p><p>mamaru xererpekua eranharitarakueecha etsakusnhasïntiksï pari xererpeni, ka wanekua inchajpekuarhinhasïnti no míteparini o no sésï jimpo ameeri jatsïkuarhericheeri.</p>">
+
+<!-- Localization note (safeb.blocked.malware.shortDesc) - Please don't translate the contents of the <span id="unwanted_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
+
+
+<!-- Localization note (safeb.blocked.phishing.shortDesc) - Please don't translate the contents of the <span id="phishing_sitename"/> tag. It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
+<!ENTITY safeb.blocked.phishingPage.shortDesc "I eranharitarakua <span id='malware_sitename'/> xaratanhasïnti eska xererpiti ma ka míkanhasti pári chanksïni kuajchakuni.">
+

@@ -1,0 +1,78 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY  pageInfoWindow.width  "600">
+<!ENTITY  pageInfoWindow.height "500">
+
+<!ENTITY  copy.key              "C">
+
+
+<!ENTITY  selectall.key         "A">
+<!ENTITY  selectall.label       "Erakuni iámendu">
+<!ENTITY  selectall.accesskey   "i">
+<!ENTITY  closeWindow.key       "w">
+
+<!ENTITY  generalTab.accesskey  "G">
+
+<!ENTITY  generalType           "Kararatarakuecha:">
+
+
+
+
+
+
+<!ENTITY  generalMetaName       "Arikua">
+<!ENTITY  generalMetaContent    "Jatakata">
+
+<!ENTITY  mediaTab.accesskey    "M">
+
+
+
+
+
+
+
+
+
+<!ENTITY  mediaBlockImage.accesskey "B">
+
+<!ENTITY  mediaSaveAs.accesskey "A">
+<!ENTITY  mediaSaveAs2.accesskey "e">
+
+
+<!ENTITY  feedTab.accesskey     "F">
+<!ENTITY  feedSubscribe         "Inchakuarin">
+<!ENTITY  feedSubscribe.accesskey "u">
+
+<!ENTITY  permTab.accesskey     "P">
+
+<!ENTITY  permAskAlways         "k'urhamarhini">
+<!ENTITY  permAllow             "Jierata">
+
+<!ENTITY  permBlock             "Míkani">
+
+
+
+<!ENTITY  permClearStorage.accesskey "C">
+
+<!ENTITY  securityTab.accesskey "S">
+
+<!ENTITY  securityView.accesskey "V">
+
+
+
+
+
+
+
+
+
+<!ENTITY  securityView.privacy.viewCookies.accessKey    "k">
+
+
+<!ENTITY  securityView.privacy.viewPasswords.accessKey  "w">
+
+<!ENTITY  securityView.technical.header                 "Naninaksï kantsaski">
+
+<!ENTITY  helpButton.label                              "Jarhuajpikua">

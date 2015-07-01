@@ -1,0 +1,108 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+<!-- LOCALIZATION NOTE (places.library.title): use "Library", "Archive" or "Repository" -->
+<!ENTITY places.library.width  "700">
+<!ENTITY places.library.height "500">
+
+
+
+
+<!ENTITY file.close.label               "Mikani">
+<!ENTITY file.close.accesskey           "M">
+<!ENTITY cmd.close.key                  "w">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!ENTITY cmd.context_sortby_name.accesskey  "r">
+
+
+<!ENTITY cmd.new_folder.label              "Jimpani patsaratarakua…">
+<!ENTITY cmd.new_folder.accesskey          "J">
+<!ENTITY cmd.context_new_folder.accesskey  "F">
+
+
+
+
+
+<!ENTITY cmd.moveBookmarks.label                  "Manatakata…">
+<!ENTITY cmd.moveBookmarks.accesskey              "M">
+
+<!ENTITY col.name.label          "Arikua">
+
+<!ENTITY col.url.label           "Nani exentani">
+
+
+<!ENTITY col.description.label   "Description">
+
+
+
+
+
+<!ENTITY cmd.find.key  "f">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

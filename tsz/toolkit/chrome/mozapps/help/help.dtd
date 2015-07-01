@@ -1,0 +1,46 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+
+
+
+
+<!ENTITY backButton.tooltip             "Junguani ma eranharikua">
+<!ENTITY forwardButton.label            "Orhepatini">
+<!ENTITY forwardButton.accesskey        "O">
+<!ENTITY forwardButton.tooltip          "Uanajchakuni ma eranharhikua">
+
+
+<!ENTITY selectAllCmd.label             "Erakuni iámendu">
+<!ENTITY selectAllCmd.accesskey         "i">
+
+
+<!ENTITY homeButton.label               "Uénakua">
+
+<!ENTITY printButton.label              "Uéchantaa">
+<!ENTITY printButton.tooltip            "Ini karakatani uechatantsï">
+
+
+<!ENTITY search.emptytext               "Exentani">
+
+
+
+<!-- LOCALIZATION NOTE :
+fullZoomEnlargeCmd.commandkey3, fullZoomReduceCmd.commandkey2 and
+fullZoomResetCmd.commandkey2 are alternative acceleration keys for zoom.
+If shift key is needed with your locale popular keyboard for them,
+you can use these alternative items. Otherwise, their values should be empty.  -->
+<!ENTITY fullZoomReduceCmd.commandkey2  "">
+
+<!-- + is above this key on many keyboards -->
+<!ENTITY fullZoomEnlargeCmd.commandkey3 "">
+
+<!ENTITY fullZoomResetCmd.commandkey2   "">
+
+
+
+
+
+
+
