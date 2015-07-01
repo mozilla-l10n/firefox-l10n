@@ -252,6 +252,8 @@ size. -->
 <!ENTITY pref_media_autoplay_enabled_summary "Určuje, či webové stránky môžu automaticky prehrávať videá a iné médiá">
 <!ENTITY pref_zoom_force_enabled "Vždy povoliť lupu">
 <!ENTITY pref_zoom_force_enabled_summary "Lupu bude možné používať pre akúkoľvek stránku">
+<!ENTITY pref_voice_input "Hlasový vstup">
+<!ENTITY pref_voice_input_summary "Povolí hlasové diktovanie v titulku okna">
 <!ENTITY pref_qrcode_enabled "Čítačka kódov QR">
 <!ENTITY pref_qrcode_enabled_summary "Povolí čítačku kódov QR v titulku okna">
 
