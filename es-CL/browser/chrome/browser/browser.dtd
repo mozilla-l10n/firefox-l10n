@@ -559,6 +559,14 @@
 <!ENTITY mixedContentBlocked2.block.label "Activar protección">
 <!ENTITY mixedContentBlocked2.block.accesskey "B">
 <!ENTITY mixedContentBlocked2.disabled.message "La protección está desactivada">
+<!ENTITY trackingProtection.title "Protección de seguimiento">
+<!ENTITY trackingProtection.detectedBlocked "Intentos de seguir tu comportamiento en línea han sido bloqueados.">
+<!ENTITY trackingProtection.detectedNotBlocked "Elementos de seguimiento detectados. Ha desactivado la protección en este sitio.">
+<!ENTITY trackingProtection.notDetected "No se detectaron elementos de seguimiento en este sitio web.">
+<!ENTITY trackingProtection.unblock.label "Desactivar la protección para este sitio">
+<!ENTITY trackingProtection.unblock.accesskey "D">
+<!ENTITY trackingProtection.block.label "Activar la protección para este sitio">
+<!ENTITY trackingProtection.block.accesskey "E">
 <!ENTITY trackingContentBlocked.message "Seguimiento">
 <!ENTITY trackingContentBlocked.moreinfo "Partes de esta página que siguen su actividad en línea han sido bloqueadas.">
 <!ENTITY trackingContentBlocked.learnMore "Aprender más">
