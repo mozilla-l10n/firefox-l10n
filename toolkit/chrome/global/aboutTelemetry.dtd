@@ -4,11 +4,22 @@
 
 <!ENTITY aboutTelemetry.pageTitle "Telemetry Verileri">
 
-<!ENTITY aboutTelemetry.telemetryEnabled "   Telemetry <span>etkin</span> durumda. ">
 
-<!ENTITY aboutTelemetry.telemetryDisabled "   Telemetry <span>devre dışı</span>. ">
+
+
+
+
+
+
+
+
+
+
+
+
 
 <!ENTITY aboutTelemetry.generalDataSection "  Genel Veriler">
+
 
 <!ENTITY aboutTelemetry.telemetryLogSection "  Temeletry günlüğü">
 
