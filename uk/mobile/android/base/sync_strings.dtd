@@ -62,7 +62,7 @@
 <!ENTITY sync.configure.engines.title.label 'Що синхронізувати'>
 <!ENTITY sync.configure.engines.sync.my.title.label 'Синхронізувати ваші…'>
 <!ENTITY sync.configure.engines.title.bookmarks 'Закладки'>
-<!ENTITY sync.configure.engines.title.passwords 'Паролі'>
+<!ENTITY sync.configure.engines.title.passwords2 'Логіни'>
 <!ENTITY sync.configure.engines.title.history 'Історію'>
 <!ENTITY sync.configure.engines.title.tabs 'Вкладки'>
 
@@ -141,7 +141,7 @@
 <!ENTITY fxaccount_policy_linkprivacy 'Повідомлення про приватність'>
 
 <!ENTITY fxaccount_getting_started_welcome_to_sync 'Ласкаво просимо до &syncBrand.shortName.label;'>
-<!ENTITY fxaccount_getting_started_description 'Увійдіть, щоб синхронізувати ваші вкладки, закладки, паролі та інше.'>
+<!ENTITY fxaccount_getting_started_description2 'Увійдіть, щоб синхронізувати свої вкладки, закладки, логіни та інше.'>
 <!ENTITY fxaccount_getting_started_get_started 'Почати'>
 <!ENTITY fxaccount_getting_started_old_firefox 'Користуєтесь старою версією &syncBrand.shortName.label;?'>
 
@@ -212,7 +212,7 @@
 <!ENTITY fxaccount_status_needs_finish_migrating 'Торкніться, щоб увійти в свій обліковий запис Firefox.'>
 <!ENTITY fxaccount_status_bookmarks 'Закладки'>
 <!ENTITY fxaccount_status_history 'Історія'>
-<!ENTITY fxaccount_status_passwords 'Паролі'>
+<!ENTITY fxaccount_status_passwords2 'Логіни'>
 <!ENTITY fxaccount_status_tabs 'Відкриті вкладки'>
 <!ENTITY fxaccount_status_legal 'Юридична інформація'>
 <!-- Localization note: when tapped, the following two strings link to
