@@ -35,6 +35,7 @@
 
 <!ENTITY showUnifinderCmd.label                 "Sök händelser">
 <!ENTITY showUnifinderCmd.accesskey             "h">
+<!ENTITY showUnifinderCmd.tooltip               "Växla panelen sök händelser">
 
 <!ENTITY calendar.displaytodos.checkbox.label       "Visa Uppgifter i kalender">
 <!ENTITY calendar.displaytodos.checkbox.accesskey   "V">

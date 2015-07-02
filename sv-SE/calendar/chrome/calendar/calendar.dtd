@@ -58,7 +58,7 @@
 <!ENTITY calendar.unifinder.close.tooltip            "Stäng händelsesökning och händelselista ">
 
 <!ENTITY calendar.today.button.tooltip          "Gå till idag" >
-<!ENTITY calendar.todaypane.button.tooltip      "Visa idag panelen" >
+<!ENTITY calendar.todaypane.button.tooltip      "Visa panel för idag" >
 
 <!ENTITY calendar.day.button.tooltip            "Växla till dagsvy" >
 <!ENTITY calendar.week.button.tooltip           "Växla till veckovy" >
@@ -354,7 +354,7 @@
 <!ENTITY calendar.print.settingsGroup.label "Utskriftsformat">
 <!ENTITY calendar.print.completedtasks.label "Slutförda aktiviteter">
 <!ENTITY calendar.print.currentView2.label "Aktuell vy">
-<!ENTITY calendar.print.events.label "Evenemang">
+<!ENTITY calendar.print.events.label "Händelser">
 <!ENTITY calendar.print.optionsGroup.label "Alternativ">
 <!ENTITY calendar.print.selectedEventsAndTasks.label "Valda händelser/uppgifter">
 <!ENTITY calendar.print.tasks.label "Uppgifter">
