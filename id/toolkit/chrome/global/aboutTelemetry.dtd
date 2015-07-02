@@ -4,11 +4,22 @@
 
 <!ENTITY aboutTelemetry.pageTitle "Data Telemetri">
 
-<!ENTITY aboutTelemetry.telemetryEnabled "  Telemetri <span>diaktifkan</span>.">
 
-<!ENTITY aboutTelemetry.telemetryDisabled "  Telemetri <span>dinonaktifkan</span>.">
+
+
+
+
+
+
+
+
+
+
+
+
 
 <!ENTITY aboutTelemetry.generalDataSection "   Data Umum">
+
 
 <!ENTITY aboutTelemetry.telemetryLogSection "   Log Telemetri">
 
