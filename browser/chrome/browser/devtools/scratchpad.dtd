@@ -34,6 +34,7 @@
 <!ENTITY largerFont.label             "Letras más grandes">
 <!ENTITY largerFont.accesskey         "g">
 <!ENTITY largerFont.commandkey        "+">
+<!ENTITY largerFont.commandkey2       "="> <!-- + is above this key on many keyboards -->
 <!ENTITY smallerFont.label            "Letras más chicas">
 <!ENTITY smallerFont.accesskey        "c">
 <!ENTITY smallerFont.commandkey       "-">
