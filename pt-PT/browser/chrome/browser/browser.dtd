@@ -274,6 +274,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
   -  application menu item that opens the browser content toolbox UI in the Tools menu.
   -  This toolbox allows to debug the chrome of the content process in multiprocess builds.  -->
 
+<!ENTITY browserContentToolboxMenu.label     "Caixa de ferramentas de conteúdo do navegador">
+<!ENTITY browserContentToolboxMenu.accesskey "C">
 
 <!ENTITY devToolbarCloseButton.tooltiptext "Fechar ferramentas de desenvolvimento">
 <!ENTITY devToolbarMenu.label              "Barra de ferramentas do programador">
@@ -303,7 +305,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY newNavigatorCmd.accesskey      "N">
 <!ENTITY newPrivateWindow.label     "Nova janela privada">
 <!ENTITY newPrivateWindow.accesskey "j">
-
+<!ENTITY newNonRemoteWindow.label   "Nova janela Non-e10s">
 
 <!ENTITY editMenu.label         "Edição"> 
 <!ENTITY editMenu.accesskey       "E"> 
@@ -672,10 +674,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY editBookmark.cancel.label                   "Cancelar">
 <!ENTITY editBookmark.removeBookmark.accessKey       "r">
 
+<!ENTITY identity.connectionSecure "Ligação segura">
+<!ENTITY identity.connectionNotSecure "Ligação não segura">
+<!ENTITY identity.connectionVerified "O &brandShortName; verificou que estabeleceu uma ligação segura a este sítio, desenvolvido por:">
+<!ENTITY identity.connectionInternal "Esta é uma página segura do &brandShortName;.">
 
-
-
-
+<!ENTITY identity.moreInfoLinkText2 "Mais informação">
 
 <!ENTITY identity.permissions "Permissões">
 <!-- Name for the tabs toolbar as spoken by screen readers.
@@ -850,6 +854,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY readingList.sidebar.add.tooltip          "Adicionar esta página à sua lista de leitura">
 <!-- LOCALIZATION NOTE (saveToPocketCmd.label, saveLinkToPocketCmd.label, pocketMenuitem.label): Pocket is a brand name -->
 
-
-
-
+<!ENTITY saveToPocketCmd.label     "Guardar página no Pocket">
+<!ENTITY saveToPocketCmd.accesskey "k">
+<!ENTITY saveLinkToPocketCmd.label     "Guardar ligação no Pocket">
+<!ENTITY saveLinkToPocketCmd.accesskey "o">
+<!ENTITY pocketMenuitem.label      "Ver lista do Pocket">
