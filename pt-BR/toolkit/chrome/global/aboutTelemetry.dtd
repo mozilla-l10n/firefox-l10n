@@ -4,6 +4,7 @@
 
 <!ENTITY aboutTelemetry.pageTitle "Dados da telemetria">
 
+<!ENTITY aboutTelemetry.changeDataChoices "  Alterar">
 
 
 
@@ -17,9 +18,11 @@
 
 
 
+<!ENTITY aboutTelemetry.archivePingHeader "Ping">
 
 <!ENTITY aboutTelemetry.generalDataSection "  Dados gerais">
 
+<!ENTITY aboutTelemetry.environmentDataSection "  Dados do ambiente">
 
 <!ENTITY aboutTelemetry.telemetryLogSection "  Registro de telemetria">
 
