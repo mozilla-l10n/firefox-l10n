@@ -42,6 +42,7 @@
 <!ENTITY url_bar_default_text2 "Suchen oder Adresse eingeben">
 
 <!ENTITY bookmark "Lesezeichen">
+<!ENTITY bookmark_remove "Lesezeichen entfernen">
 <!ENTITY bookmark_added "Lesezeichen hinzugefügt">
 <!ENTITY bookmark_removed "Lesezeichen gelöscht">
 <!ENTITY bookmark_updated "Lesezeichen aktualisiert">
@@ -79,6 +80,7 @@
 <!ENTITY pref_category_advanced "Erweitert">
 <!ENTITY pref_category_customize "Anpassung">
 <!ENTITY pref_category_customize_summary "Startseite, Suche, Tabs, Import">
+<!ENTITY pref_category_customize_alt_summary "Startseite, Suche, Tabs, Später öffnen, Import">
 
 <!-- Localization note (pref_category_language) : This is the preferences
      section in which the user picks the locale in which to display Firefox
@@ -114,6 +116,17 @@
 <!ENTITY overlay_share_no_url "Kein Link in Weitergabe gefunden">
 <!ENTITY overlay_share_retry "Erneut versuchen">
 <!ENTITY overlay_share_select_device "Gerät auswählen">
+<!-- Localization note (overlay_no_synced_devices) : Used when the menu option
+     to send a tab to a synced device is pressed and no other synced devices
+     are found. -->
+<!ENTITY overlay_no_synced_devices "Keine anderen per Firefox-Konto verbundenen Geräte gefunden">
+<!-- Localization note (overlay_share_tab_not_sent) : Used when the menu option
+     to send a tab to a synced device is pressed and there is an error
+     connecting to the server so the tab could not be sent. The text should be
+     divided into two lines (use the newline escape character, "\n", between
+     them): the first notifying the user about the failure and the second
+     telling the user what to do about it. -->
+<!ENTITY overlay_share_tab_not_sent "Tab konnte nicht gesendet werden.\nBitte versuchen Sie es später erneut.">
 
 <!ENTITY pref_category_search3 "Suche">
 <!ENTITY pref_category_search_summary "Suchmaschinen auswählen">
@@ -140,7 +153,9 @@
 <!ENTITY pref_category_devtools_summary "Externes Debugging, Hervorhebung neu gezeichneter Flächen">
 <!ENTITY pref_developer_paint_flashing "Hervorhebung neu gezeichneter Flächen">
 <!ENTITY pref_developer_remotedebugging "Externes Debugging">
+<!ENTITY pref_category_logins "Zugangsdaten">
 <!ENTITY pref_remember_signons "Passwörter speichern">
+<!ENTITY pref_manage_logins "Zugangsdaten verwalten">
 
 <!ENTITY pref_category_home "Startbildschirm">
 <!ENTITY pref_category_home_summary "Passen Sie den Startbildschirm an">
@@ -176,6 +191,23 @@
 <!ENTITY pref_tracking_protection_summary "&brandShortName; wird Websites an der Verfolgung Ihrer Aktivitäten hindern.">
 <!ENTITY pref_donottrack_title "Aktivitäten nicht verfolgen">
 <!ENTITY pref_donottrack_summary "&brandShortName; wird Websites mitteilen, dass Ihre Aktivitäten nicht verfolgt werden sollen.">
+
+<!ENTITY tab_queue_toast_message "Später öffnen">
+<!ENTITY tab_queue_toast_action "Jetzt öffnen">
+<!-- Localization note (tab_queue_notification_text_plural) : The
+     formatD is replaced with the number of tabs queued.  The
+     number of tabs queued is always more than one.  We can't use
+     Android plural forms, sadly. See Bug #753859. -->
+<!ENTITY tab_queue_notification_text_plural "&formatD; Tabs abgelegt">
+<!-- Localization note (tab_queue_notification_title_plural) : This is the
+     title of a notification; we expect more than one tab queued. -->
+<!ENTITY tab_queue_notification_title_plural "Tabs abgelegt">
+<!-- Localization note (tab_queue_notification_title_singular) : This is the
+     title of a notification; we expect only one tab queued. -->
+<!ENTITY tab_queue_notification_title_singular "Tab abgelegt">
+<!-- Localization note (tab_queue_notification_text_singular) : This is the
+     text of a notification; we expect only one tab queued. -->
+<!ENTITY tab_queue_notification_text_singular "1 Tab abgelegt">
 
 <!ENTITY pref_char_encoding "Zeichenkodierung">
 <!ENTITY pref_char_encoding_on "Im Menü anzeigen">
@@ -271,7 +303,7 @@ size. -->
      (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
 <!ENTITY datareporting_crashreporter_title_short "Absturzmelder">
 <!ENTITY datareporting_wifi_title2 "&vendorShortName;-Standortdienst">
-<!ENTITY datareporting_wifi_geolocation_summary3 "Helfen Sie &vendorShortName; beim Kartografieren der Welt! Teilen Sie uns ungefähre Standorte von WLANs und Mobilfunkzellen mit Ihrem Gerät mit, um unseren Standortdienst zu verbessern.">
+<!ENTITY datareporting_wifi_geolocation_summary4 "Helfen Sie &vendorShortName; beim Kartografieren der Welt! Teilen Sie uns ungefähre Standorte von WLANs und Mobilfunkzellen mit Ihrem Gerät mit, um unseren Standortdienst zu verbessern.">
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
      actual notification that an update is available. -->
@@ -286,6 +318,7 @@ size. -->
 <!ENTITY quit "Beenden">
 
 <!ENTITY addons "Add-ons">
+<!ENTITY logins "Zugangsdaten">
 <!ENTITY downloads "Downloads">
 <!ENTITY apps "Apps">
 <!ENTITY char_encoding "Zeichenkodierung">
@@ -339,6 +372,15 @@ size. -->
 <!ENTITY contextmenu_top_sites_unpin "Seite ablösen">
 <!ENTITY contextmenu_add_search_engine "Suchmaschine hinzufügen">
 
+<!-- Localization note (doorhanger_login_no_username): This string is used in the save-login doorhanger
+     where normally a username would be displayed. In this case, no username was found, and this placeholder
+     contains brackets to indicate this is not actually a username, but rather a placeholder -->
+<!ENTITY doorhanger_login_no_username "[Kein Benutzername]">
+<!ENTITY doorhanger_login_edit_title "Zugangsdaten bearbeiten">
+<!ENTITY doorhanger_login_edit_username_hint "Benutzername">
+<!ENTITY doorhanger_login_edit_password_hint "Passwort">
+<!ENTITY doorhanger_login_edit_toggle "Passwort anzeigen">
+
 <!ENTITY pref_titlebar_mode "Titelleiste">
 <!ENTITY pref_titlebar_mode_title "Seitentitel anzeigen">
 <!ENTITY pref_titlebar_mode_url "Seitenadresse anzeigen">
@@ -347,6 +389,9 @@ size. -->
      whether or not the dynamic toolbar is enabled. -->
 <!ENTITY pref_scroll_title_bar2 "Vollbildmodus">
 <!ENTITY pref_scroll_title_bar_summary "Titelleiste von &brandShortName; beim Bildlauf der Seite ausblenden">
+
+<!ENTITY pref_tab_queue_title "Später öffnen">
+<!ENTITY pref_tab_queue_summary "Tabs am sofortigen Öffnen hindern. Alle abgelegten Tabs werden beim nächsten Öffnen von &brandShortName; geladen.">
 
 <!-- Localization note (page_removed): This string appears in a toast message when
      any page is removed frome about:home. This includes pages that are in history,
@@ -394,6 +439,7 @@ size. -->
 <!ENTITY button_clear_data "Daten löschen">
 <!ENTITY button_set "Übernehmen">
 <!ENTITY button_clear "Leeren">
+<!ENTITY button_remember "Speichern">
 
 <!ENTITY home_top_sites_title "Meistbesuchte Seiten">
 <!-- Localization note (home_top_sites_add): This string is used as placeholder
@@ -514,6 +560,13 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY bookmarkhistory_import_wait "Bitte warten...">
 
 <!ENTITY suggestions_prompt3 "Sollen Suchvorschläge angezeigt werden?">
+<!--  Localization note (search_bar_item_desc): When the user clicks the url bar
+      and starts typing, a list of icons of search engines appears at the bottom
+      of the screen. When a user clicks an icon, the entered text will be searched
+      via the search engine that uses the icon they clicked. This text is used
+      for screen reader users when they hover each icon - &formatS; will be
+      replaced with the name of the currently highlighted icon. -->
+<!ENTITY search_bar_item_desc "Mit &formatS; suchen">
 
 <!-- Localization note (suggestion_for_engine): The placeholder &formatS1; will be
      replaced with the name of the search engine. The placeholder &formatS2; will be
