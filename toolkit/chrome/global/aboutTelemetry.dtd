@@ -4,11 +4,22 @@
 
 <!ENTITY aboutTelemetry.pageTitle "Telemetrijas dati">
 
-<!ENTITY aboutTelemetry.telemetryEnabled "  Telemetrija <span>ir aktivizēta</span>.">
 
-<!ENTITY aboutTelemetry.telemetryDisabled "  Telemetrija <span>nav aktivizēta</span>.">
+
+
+
+
+
+
+
+
+
+
+
+
 
 <!ENTITY aboutTelemetry.generalDataSection "  Vispārējie dati">
+
 
 <!ENTITY aboutTelemetry.telemetryLogSection "  Telemetrijas žurnāls">
 
