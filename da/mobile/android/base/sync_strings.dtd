@@ -137,8 +137,8 @@
      string as well.  Compare fxaccount_status_{linktos,linkprivacy}:
      these strings are separated to accommodate languages that decline
      the two uses differently. -->
-<!ENTITY fxaccount_policy_linktos 'Tjenestevilkår'>
-<!ENTITY fxaccount_policy_linkprivacy 'Privatlivspolitik'>
+<!ENTITY fxaccount_policy_linktos 'tjenestevilkår'>
+<!ENTITY fxaccount_policy_linkprivacy 'privatlivspolitik'>
 
 <!ENTITY fxaccount_getting_started_welcome_to_sync 'Velkommen til &syncBrand.shortName.label;'>
 <!ENTITY fxaccount_getting_started_description2 'Log ind for at synkronisere dine faneblade, bogmærker, logins med mere.'>

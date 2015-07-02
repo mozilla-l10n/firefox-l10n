@@ -11,5 +11,5 @@
 <!ENTITY addonAction.uninstall                  "Afinstaller">
 <!ENTITY addonAction.undo                       "Fortryd">
 
-<!ENTITY addonUnsigned.message                  "Denne  tilføjelse kunne ikke bekræftes af &brandShortName;.">
+<!ENTITY addonUnsigned.message                  "Denne tilføjelse kunne ikke bekræftes af &brandShortName;.">
 <!ENTITY addonUnsigned.learnMore                "Læs mere">
