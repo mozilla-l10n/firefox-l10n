@@ -62,7 +62,7 @@
 <!ENTITY sync.configure.engines.title.label 'Skal synkroniseres'>
 <!ENTITY sync.configure.engines.sync.my.title.label 'Synkroniser dine…'>
 <!ENTITY sync.configure.engines.title.bookmarks 'Bogmærker'>
-<!ENTITY sync.configure.engines.title.passwords 'Adgangskoder'>
+<!ENTITY sync.configure.engines.title.passwords2 'Logins'>
 <!ENTITY sync.configure.engines.title.history 'Historik'>
 <!ENTITY sync.configure.engines.title.tabs 'Faneblade'>
 
@@ -132,11 +132,16 @@
      Firefox. -->
 <!ENTITY fxaccount_back_to_browsing 'Tilbage til browsing'>
 
+<!-- Localization note: the following two strings are interpolated
+     into fxaccount_create_account_policy_text2; see note for that
+     string as well.  Compare fxaccount_status_{linktos,linkprivacy}:
+     these strings are separated to accommodate languages that decline
+     the two uses differently. -->
 <!ENTITY fxaccount_policy_linktos 'Tjenestevilkår'>
 <!ENTITY fxaccount_policy_linkprivacy 'Privatlivspolitik'>
 
 <!ENTITY fxaccount_getting_started_welcome_to_sync 'Velkommen til &syncBrand.shortName.label;'>
-<!ENTITY fxaccount_getting_started_description 'Log ind for at synkronisere dine faneblade, bogmærker, adgangskoder med mere.'>
+<!ENTITY fxaccount_getting_started_description2 'Log ind for at synkronisere dine faneblade, bogmærker, logins med mere.'>
 <!ENTITY fxaccount_getting_started_get_started 'Start'>
 <!ENTITY fxaccount_getting_started_old_firefox 'Bruger du en ældre version af &syncBrand.shortName.label;?'>
 
@@ -207,7 +212,7 @@
 <!ENTITY fxaccount_status_needs_finish_migrating 'Tryk for at logge ind på din nye Firefox-konto.'>
 <!ENTITY fxaccount_status_bookmarks 'Bogmærker'>
 <!ENTITY fxaccount_status_history 'Historik'>
-<!ENTITY fxaccount_status_passwords 'Adgangskoder'>
+<!ENTITY fxaccount_status_passwords2 'Logins'>
 <!ENTITY fxaccount_status_tabs 'Åbne faneblade'>
 <!ENTITY fxaccount_status_legal 'Juridisk' >
 <!-- Localization note: when tapped, the following two strings link to
