@@ -66,6 +66,7 @@
 <!ENTITY largerFont.accesskey         "C">
 <!ENTITY largerFont.commandkey        "+">
 <!-- + is above this key on many keyboards -->
+<!ENTITY largerFont.commandkey2       "="> 
 
 <!ENTITY smallerFont.label            "Cló Níos Lú">
 <!ENTITY smallerFont.accesskey        "s">
