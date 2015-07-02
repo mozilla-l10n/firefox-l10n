@@ -20,6 +20,8 @@
 <!ENTITY importFromFirefox.label        "Firefox">
 <!ENTITY importFromFirefox.accesskey    "x">
 
+
+
 <!ENTITY noMigrationSources.label       "Nu s-a putut găsi niciun program care să conțină date cu semne de carte, istoric sau parole.">
 
 <!ENTITY importSource.title             "Importă configurații și date din">
