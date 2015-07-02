@@ -23,6 +23,8 @@
 <!ENTITY  locbar.openpage.label         "Deschide filele">
 <!ENTITY  locbar.openpage.accesskey     "D">
 
+
+
 <!ENTITY  acceptCookies.label           "Acceptă cookie-uri de la saituri">
 <!ENTITY  acceptCookies.accesskey       "A">
 

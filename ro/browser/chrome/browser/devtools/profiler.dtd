@@ -121,17 +121,19 @@
 
 <!ENTITY profilerUI.enableMemory             "Record Memory">
 <!ENTITY profilerUI.enableMemory.tooltiptext "Înregistrează consumul de memorie în timpul profilării.">
+<!-- LOCALIZATION NOTE (profilerUI.enableAllocations): This string
+  -  is displayed next to a checkbox determining whether or not allocation
+  -  measurements are enabled. -->
+
 <!-- LOCALIZATION NOTE (profilerUI.enableFramerate): This string
   -  is displayed next to a checkbox determining whether or not framerate
   -  is recorded. -->
 
 <!ENTITY profilerUI.enableFramerate             "Record Framerate">
 <!ENTITY profilerUI.enableFramerate.tooltiptext "Înregistrează frecvența de cadre în timpul profilării.">
-<!-- LOCALIZATION NOTE (profilerUI.showJITOptimizations): This string
+<!-- LOCALIZATION NOTE (profilerUI.enableJITOptimizations): This string
   -  is displayed next to a checkbox determining whether or not JIT optimization data
-  -  should be shown. -->
-
-<!ENTITY profilerUI.showJITOptimizations             "Arată optimizările JIT">
+  -  should be recorded. -->
 
 <!-- LOCALIZATION NOTE (profilerUI.JITOptimizationsTitle): This string
   -  is displayed as the title of the JIT Optimizations panel. -->

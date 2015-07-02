@@ -4,11 +4,22 @@
 
 <!ENTITY aboutTelemetry.pageTitle "Date telemetrice">
 
-<!ENTITY aboutTelemetry.telemetryEnabled "  Telemetria este <span>activată</span>.">
 
-<!ENTITY aboutTelemetry.telemetryDisabled "  Telemetria este <span>dezactivată</span>.">
+
+
+
+
+
+
+
+
+
+
+
+
 
 <!ENTITY aboutTelemetry.generalDataSection "  Date generale">
+
 
 <!ENTITY aboutTelemetry.telemetryLogSection "  Jurnalul telemetriei">
 

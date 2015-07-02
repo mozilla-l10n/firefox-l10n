@@ -65,6 +65,7 @@
 <!ENTITY largerFont.label             "Font mai mare">
 <!ENTITY largerFont.accesskey         "a">
 <!ENTITY largerFont.commandkey        "+">
+<!-- + is above this key on many keyboards -->
 
 <!ENTITY smallerFont.label            "Font mai mic">
 <!ENTITY smallerFont.accesskey        "m">
