@@ -44,7 +44,7 @@
   -  checkbox that toggles auto pretty print. -->
 
 <!ENTITY debuggerUI.autoPrettyPrint     "Pomjeńšene žórła awtomatisce porjeńšić">
-<!ENTITY debuggerUI.autoPrettyPrint.accesskey "i">
+<!ENTITY debuggerUI.autoPrettyPrint.accesskey "P">
 <!-- LOCALIZATION NOTE (debuggerUI.sources.toggleBreakpoints): This is the tooltip for the
   -  button that toggles all breakpoints for all sources. -->
 
@@ -98,7 +98,7 @@
   -  the checkbox that toggles whether sources that we suspect are minified are
   -  automatically black boxed or not. -->
 
-<!ENTITY debuggerUI.autoBlackBox           "Pomjeńšene žórłowe dataje, kotrež su so awtomisce do čorneho kašćika přesunyli.">
+<!ENTITY debuggerUI.autoBlackBox           "Pomjeńšene žórłowe dataje, kotrež su so awtomatisce do čorneho kašćika přesunyli">
 <!ENTITY debuggerUI.autoBlackBox.accesskey "P">
 <!-- LOCALIZATION NOTE (debuggerUI.searchPanelOperators): This is the text that
   -  appears in the filter panel popup as a header for the operators part. -->
@@ -165,6 +165,7 @@
 <!-- LOCALIZATION NOTE (debuggerUI.tabs.*): This is the text that
   -  appears in the debugger's side pane tabs. -->
 
+<!ENTITY debuggerUI.tabs.workers        "Workery">
 <!ENTITY debuggerUI.tabs.sources        "Žórła">
 <!ENTITY debuggerUI.tabs.traces         "Slědy">
 <!ENTITY debuggerUI.tabs.callstack      "Stapl wołać">
