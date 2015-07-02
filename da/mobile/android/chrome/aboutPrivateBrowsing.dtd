@@ -3,11 +3,14 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY privatebrowsingpage.title                  "Privat browsing">
+<!ENTITY privatebrowsingpage.title.normal "Du er ikke på et privat faneblad">
 
-<!ENTITY privatebrowsingpage.issueDesc.private      "Du har åbnet et nyt privat faneblad.">
-<!ENTITY privatebrowsingpage.issueDesc.normal       "Du er ikke på et privat faneblad.">
+<!ENTITY privatebrowsingpage.issueDesc.normal2 "Når du bruger et privat faneblad, gemmer vi ikke din historik for besøgte websteder og cookies.">
+<!ENTITY privatebrowsingpage.issueDesc.private2 "Vi gemmer ikke din historik for besøgte websteder og cookies.">
 
-<!ENTITY privatebrowsingpage.description            "Når du bruger et privat faneblad, vil &brandShortName; ikke gemme historik for besøgte websteder, søgninger, filhentninger og formularer, ligesom cookies og midlertidige internetfiler heller ikke gemmes. Hentede filer og bogmærker vil blive gemt.">
-<!ENTITY privatebrowsingpage.description.private    "&privatebrowsingpage.issueDesc.private; &privatebrowsingpage.description;">
-<!ENTITY privatebrowsingpage.moreInfo               "Selvom denne enhed ikke gemmer historikoplysninger, så kan din internetudbyder stadig spore hvilke websteder, du besøger.">
+<!ENTITY privatebrowsingpage.description2 "Hentede filer og bogmærker vil blive gemt.>
+<!ENTITY privatebrowsingpage.description.normal "&privatebrowsingpage.issueDesc.normal2; &privatebrowsingpage.description2;">
+<!ENTITY privatebrowsingpage.description.private2 "&privatebrowsingpage.issueDesc.private2; &privatebrowsingpage.description2;">
 
+<!ENTITY privatebrowsingpage.link.private "Vil du læse mere?">
+<!ENTITY privatebrowsingpage.link.normal "Åbn et nyt privat faneblad">
