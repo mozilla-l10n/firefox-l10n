@@ -8,7 +8,7 @@
 <!ENTITY privatebrowsingpage.issueDesc.normal2 "Når du bruger et privat faneblad, gemmer vi ikke din historik for besøgte websteder og cookies.">
 <!ENTITY privatebrowsingpage.issueDesc.private2 "Vi gemmer ikke din historik for besøgte websteder og cookies.">
 
-<!ENTITY privatebrowsingpage.description2 "Hentede filer og bogmærker vil blive gemt.>
+<!ENTITY privatebrowsingpage.description2 "Hentede filer og bogmærker vil blive gemt.">
 <!ENTITY privatebrowsingpage.description.normal "&privatebrowsingpage.issueDesc.normal2; &privatebrowsingpage.description2;">
 <!ENTITY privatebrowsingpage.description.private2 "&privatebrowsingpage.issueDesc.private2; &privatebrowsingpage.description2;">
 
