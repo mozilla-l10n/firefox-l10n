@@ -20,6 +20,8 @@
 <!ENTITY importFromFirefox.label        "Firefox">
 <!ENTITY importFromFirefox.accesskey    "x">
 
+
+
 <!ENTITY noMigrationSources.label       "Cha deach prògram a lorg sa bheil comharran-lìn, eachdraidh no faclan-faire.">
 
 <!ENTITY importSource.title             "Ion-phortaich roghainnean is dàta">

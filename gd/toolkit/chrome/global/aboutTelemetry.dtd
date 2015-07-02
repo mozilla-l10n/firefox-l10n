@@ -4,11 +4,22 @@
 
 <!ENTITY aboutTelemetry.pageTitle "Dàta telemeatraidh">
 
-<!ENTITY aboutTelemetry.telemetryEnabled "  Tha an telemeatraidh <span>an comas</span>.">
 
-<!ENTITY aboutTelemetry.telemetryDisabled "  Tha an telemeatraidh <span>à comas</span>.">
+
+
+
+
+
+
+
+
+
+
+
+
 
 <!ENTITY aboutTelemetry.generalDataSection "  Dàta coitcheann">
+
 
 <!ENTITY aboutTelemetry.telemetryLogSection " Loga telemeatraidh">
 

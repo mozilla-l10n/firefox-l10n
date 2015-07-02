@@ -42,6 +42,10 @@
 
 <!ENTITY syncDeviceName.label       "Ainm an uidheim:">
 <!ENTITY syncDeviceName.accesskey   "u">
+
+
+<!ENTITY cancelChangeSyncDeviceName.label "Sguir dheth">
+<!ENTITY saveChangeSyncDeviceName.label "Sàbhail">
 <!ENTITY unlinkDevice.label           "Dì-cheangail an t-uidheam seo">
 <!-- Footer stuff -->
 
