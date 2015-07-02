@@ -23,6 +23,8 @@
 <!ENTITY  locbar.openpage.label         "Açık sekmeler">
 <!ENTITY  locbar.openpage.accesskey     "s">
 
+
+
 <!ENTITY  acceptCookies.label           "Sitelerden çerezleri kabul et">
 <!ENTITY  acceptCookies.accesskey       "k">
 

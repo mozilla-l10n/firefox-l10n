@@ -129,18 +129,20 @@
 
 <!ENTITY profilerUI.enableMemory             "Belleği kaydet">
 <!ENTITY profilerUI.enableMemory.tooltiptext "Profilleme yaparken bellek tüketimini kaydet.">
+<!-- LOCALIZATION NOTE (profilerUI.enableAllocations): This string
+  -  is displayed next to a checkbox determining whether or not allocation
+  -  measurements are enabled. -->
+
 <!-- LOCALIZATION NOTE (profilerUI.enableFramerate): This string
   -  is displayed next to a checkbox determining whether or not framerate
   -  is recorded. -->
 
 <!ENTITY profilerUI.enableFramerate             "Kare hızını kaydet">
 <!ENTITY profilerUI.enableFramerate.tooltiptext "Profilleme yaparken kare hızını (framerate) kaydet.">
-<!-- LOCALIZATION NOTE (profilerUI.showJITOptimizations): This string
+<!-- LOCALIZATION NOTE (profilerUI.enableJITOptimizations): This string
   -  is displayed next to a checkbox determining whether or not JIT optimization data
-  -  should be shown. -->
+  -  should be recorded. -->
 
-<!ENTITY profilerUI.showJITOptimizations             "JIT iyileştirmelerini göster">
-<!ENTITY profilerUI.showJITOptimizations.tooltiptext "JS çağrı ağacının her karesinde örneklenen JIT iyileştirme verilerini gösterir.">
 <!-- LOCALIZATION NOTE (profilerUI.JITOptimizationsTitle): This string
   -  is displayed as the title of the JIT Optimizations panel. -->
 
