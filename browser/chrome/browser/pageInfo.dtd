@@ -22,7 +22,7 @@
 <!ENTITY  generalReferrer       "Verwyser-URL:">
 <!ENTITY  generalSource         "Kasbron:">
 <!ENTITY  generalModified       "Gewysig:">
-
+<!ENTITY  generalEncoding2      "Teksenkodering:">
 <!ENTITY  generalMetaName       "Naam">
 <!ENTITY  generalMetaContent    "Inhoud">
 
