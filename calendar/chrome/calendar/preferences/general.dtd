@@ -33,7 +33,7 @@
 <!ENTITY pref.default_task_offset_start.label "Relativt till start">
 <!ENTITY pref.default_task_offset_next_hour.label "Relativt till nästa timme">
 
-<!ENTITY pref.calendar.todaypane.agenda.caption "Dagens panel">
+<!ENTITY pref.calendar.todaypane.agenda.caption "Panel för idag">
 <!ENTITY pref.soondays.label "Det kommande avsnittet visar:">
 <!ENTITY pref.soondays.accesskey "k">
 

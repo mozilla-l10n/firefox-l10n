@@ -8,10 +8,15 @@
 <!ENTITY lightning.toolbar.task.name.accesskey "U">
 
 <!ENTITY lightning.toolbar.sync.label "Synkronisera">
+<!ENTITY lightning.toolbar.sync.tooltip "Ladda om kalendrar och synkronisera ändringar">
 <!ENTITY lightning.toolbar.delete.label "Radera">
+<!ENTITY lightning.toolbar.delete.tooltip "Radera markerade händelser eller uppgifter">
 <!ENTITY lightning.toolbar.edit.label "Redigera">
+<!ENTITY lightning.toolbar.edit.tooltip "Redigera markerad händelse eller uppgift">
 <!ENTITY lightning.toolbar.gototoday.label "Gå till Idag">
+<!ENTITY lightning.toolbar.gototoday.tooltip "Gå till idag">
 <!ENTITY lightning.toolbar.print.label "Skriv ut">
+<!ENTITY lightning.toolbar.print.tooltip "Skriv ut händelser eller uppgifter">
 
 <!-- Mode Toolbar -->
 
@@ -24,7 +29,9 @@
 
 <!-- Toolbar write button -->
 <!ENTITY lightning.toolbar.newevent.label     "Händelse">
+<!ENTITY lightning.toolbar.newevent.tooltip   "Skapa en ny händelse">
 <!ENTITY lightning.toolbar.newtask.label      "Uppgift">
+<!ENTITY lightning.toolbar.newtask.tooltip    "Skapa en ny uppgift">
 
 <!-- Calendar and Task Mode Toolbar -->
 <!ENTITY lightning.toolbar.day.label                 "Dag">
