@@ -4,11 +4,22 @@
 
 <!ENTITY aboutTelemetry.pageTitle "Roadennoù Telemetry">
 
-<!ENTITY aboutTelemetry.telemetryEnabled "  <span>Gweredekaet</span> eo Telemetry.">
 
-<!ENTITY aboutTelemetry.telemetryDisabled "  <span>Diweredekaet</span> eo Telemetry.">
+
+
+
+
+
+
+
+
+
+
+
+
 
 <!ENTITY aboutTelemetry.generalDataSection "  Roadennoù hollek">
+
 
 <!ENTITY aboutTelemetry.telemetryLogSection "  Kerzhlevr Telemetry">
 
