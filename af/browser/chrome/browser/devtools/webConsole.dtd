@@ -9,7 +9,7 @@
 
 
 <!ENTITY window.title "Webkonsole">
-
+<!ENTITY browserConsole.title "Blaaierkonsole">
 
 
 
@@ -85,6 +85,8 @@
 
 <!ENTITY copyURLCmd.label     "Kopieer skakelligging">
 <!ENTITY copyURLCmd.accesskey "K">
+
+
 
 
 
