@@ -129,18 +129,20 @@
 
 <!ENTITY profilerUI.enableMemory             "Ierakstīt atmiņu">
 <!ENTITY profilerUI.enableMemory.tooltiptext "Veicot profilēšanu ierakstīt atmiņas patēriņu.">
+<!-- LOCALIZATION NOTE (profilerUI.enableAllocations): This string
+  -  is displayed next to a checkbox determining whether or not allocation
+  -  measurements are enabled. -->
+
 <!-- LOCALIZATION NOTE (profilerUI.enableFramerate): This string
   -  is displayed next to a checkbox determining whether or not framerate
   -  is recorded. -->
 
 <!ENTITY profilerUI.enableFramerate             "Ierakstīt kadru ātrumu">
 <!ENTITY profilerUI.enableFramerate.tooltiptext "Profilējot ierakstīt kadru ātrumu.">
-<!-- LOCALIZATION NOTE (profilerUI.showJITOptimizations): This string
+<!-- LOCALIZATION NOTE (profilerUI.enableJITOptimizations): This string
   -  is displayed next to a checkbox determining whether or not JIT optimization data
-  -  should be shown. -->
+  -  should be recorded. -->
 
-<!ENTITY profilerUI.showJITOptimizations             "Rādīt JIT optimizācijas">
-<!ENTITY profilerUI.showJITOptimizations.tooltiptext "Rādīt apkopotos JIT optimizāciju datus katrā JS izsaukumu koka ietvarā.">
 <!-- LOCALIZATION NOTE (profilerUI.JITOptimizationsTitle): This string
   -  is displayed as the title of the JIT Optimizations panel. -->
 
