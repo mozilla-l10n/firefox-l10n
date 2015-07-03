@@ -11,5 +11,4 @@
 <!ENTITY addonAction.uninstall                  "Telesäx el">
 <!ENTITY addonAction.undo                       "Titzolin chi rij">
 
-<!ENTITY addonUnsigned.message                  "This add-on could not be verified by &brandShortName;.">
-<!ENTITY addonUnsigned.learnMore                "Learn more">
+<!ENTITY addonUnsigned.learnMore                "Tetamäx ch'aqa' chik">
