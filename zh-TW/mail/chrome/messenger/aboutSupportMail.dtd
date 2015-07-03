@@ -15,6 +15,7 @@
 <!ENTITY aboutSupport.accountsConnSecurity "連線安全性">
 <!ENTITY aboutSupport.accountsAuthMethod "認證方式">
 <!ENTITY aboutSupport.accountsDefault "預設值？">
+<!ENTITY aboutSupport.identityName "身份識別">
 
 <!ENTITY aboutSupport.sendViaEmail.label "透過電子郵件寄出">
 

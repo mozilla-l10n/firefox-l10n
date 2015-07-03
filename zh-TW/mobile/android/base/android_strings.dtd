@@ -44,6 +44,10 @@
 <!ENTITY bookmark "書籤">
 <!ENTITY bookmark_remove "移除書籤">
 <!ENTITY bookmark_added "已加入書籤">
+<!-- Localization note (bookmark_already_added) : This string is
+     used as a label in a toast. It is the verb "to bookmark", not
+     the noun "a bookmark". -->
+<!ENTITY bookmark_already_added "已經加入書籤">
 <!ENTITY bookmark_removed "已移除書籤">
 <!ENTITY bookmark_updated "已更新書籤">
 <!ENTITY bookmark_options "選項">
@@ -77,6 +81,7 @@
 
 <!ENTITY settings "設定">
 <!ENTITY settings_title "設定">
+<!ENTITY pref_category_input_options "輸入選項">
 <!ENTITY pref_category_advanced "進階">
 <!ENTITY pref_category_customize "自訂">
 <!ENTITY pref_category_customize_summary "首頁、搜尋、分頁、匯入">
@@ -102,7 +107,7 @@
 <!-- Localization note (overlay_share_bookmark_btn_label) : This string is
      used in the share overlay menu to select an action. It is the verb
      "to bookmark", not the noun "a bookmark". -->
-<!ENTITY overlay_share_bookmark_btn_label "書籤">
+<!ENTITY overlay_share_bookmark_btn_label "加入書籤">
 <!ENTITY overlay_share_reading_list_btn_label "新增至閱讀清單">
 <!ENTITY overlay_share_bookmark_btn_label_already "已經加入書籤">
 <!ENTITY overlay_share_reading_list_btn_label_already "已在閱讀清單當中">
@@ -132,7 +137,7 @@
 <!ENTITY pref_category_display "顯示">
 <!ENTITY pref_category_display_summary "字體大小、標題列、全螢幕瀏覽">
 <!ENTITY pref_category_privacy_short "個人隱私">
-<!ENTITY pref_category_privacy_summary "主控密碼、Cookies、追蹤、數據回傳">
+<!ENTITY pref_category_privacy_summary2 "控制登入帳號、Cookies、追蹤、數據回傳設定">
 <!ENTITY pref_category_vendor "&vendorShortName;">
 <!ENTITY pref_category_vendor_summary "關於 &brandShortName;、常見問題、資料選擇">
 <!ENTITY pref_category_datareporting "資料選擇">
@@ -150,8 +155,10 @@
 <!ENTITY pref_search_hint "秘訣: 長按網頁中的搜尋欄位，然後點擊 &formatI; 圖示來將任何網站新增至您的搜尋服務提供者清單。">
 <!ENTITY pref_category_devtools "開發者工具">
 <!ENTITY pref_developer_remotedebugging "遠端除錯">
-<!ENTITY pref_category_logins "登入">
-<!ENTITY pref_remember_signons "記住密碼">
+<!ENTITY pref_category_logins "帳號密碼">
+<!ENTITY pref_remember_signons2 "記住登入用的帳密">
+<!ENTITY pref_open_external_urls_privately_title "使用隱私瀏覽模式開啟鏈結">
+<!ENTITY pref_open_external_urls_privately_summary "對所有在 &brandShortName; 開啟的外部鏈結">
 <!ENTITY pref_manage_logins "管理登入密碼">
 
 <!ENTITY pref_category_home "首頁">
@@ -189,11 +196,11 @@
 <!ENTITY pref_donottrack_title "Do not track">
 <!ENTITY pref_donottrack_summary "&brandShortName; 將會告訴網站您不想被追蹤">
 
-<!ENTITY tab_queue_toast_message2 "在 &brandShortName; 等待開啟中的分頁">
+<!ENTITY tab_queue_toast_message3 "儲存於 &brandShortName; 的分頁">
 <!ENTITY tab_queue_toast_action "立刻開啟">
 <!ENTITY tab_queue_prompt_title "開啟多個鏈結？">
-<!ENTITY tab_queue_prompt_text2 "不用一直切換到 &brandShortName;，之後再一次開啟。">
-<!ENTITY tab_queue_prompt_tip_text "您之後也可以在設定中修改此行為">
+<!ENTITY tab_queue_prompt_text4 "先存下來，下次開啟 &brandShortName; 時再一起打開">
+<!ENTITY tab_queue_prompt_tip_text2 "您之後也可以在設定中修改此行為">
 <!ENTITY tab_queue_prompt_positive_action_button "啟用">
 <!ENTITY tab_queue_prompt_negative_action_button "現在不要">
 <!ENTITY tab_queue_notification_title "&brandShortName;">
@@ -244,10 +251,14 @@ size. -->
 <!ENTITY pref_media_autoplay_enabled_summary "控制網站是否能夠自動播放影片或其他媒體內容">
 <!ENTITY pref_zoom_force_enabled "總是啟用縮放">
 <!ENTITY pref_zoom_force_enabled_summary "強制讓所有網頁都能縮放大小">
+<!ENTITY pref_voice_input "語音輸入">
+<!ENTITY pref_voice_input_summary "允許在標題列使用語音聽寫">
+<!ENTITY pref_qrcode_enabled "QR 碼閱讀器">
+<!ENTITY pref_qrcode_enabled_summary "允許在標題列中使用 QR 碼掃描器">
 
 <!ENTITY pref_use_master_password "使用主控密碼">
 <!ENTITY pref_sync "同步">
-<!ENTITY pref_sync_summary "同步您的分頁、書籤、密碼、瀏覽紀錄">
+<!ENTITY pref_sync_summary2 "同步您的分頁、書籤、登入帳號密碼、瀏覽紀錄">
 <!ENTITY pref_search_suggestions "顯示搜尋建議">
 <!ENTITY pref_import_android "自 Android 匯入">
 <!ENTITY pref_import_android_summary "自內建瀏覽器匯入書籤與瀏覽紀錄">
@@ -255,11 +266,12 @@ size. -->
 <!ENTITY pref_private_data_searchHistory "搜尋紀錄">
 <!ENTITY pref_private_data_formdata2 "表單填寫紀錄">
 <!ENTITY pref_private_data_cookies2 "Cookie 與目前的登入狀況">
-<!ENTITY pref_private_data_passwords "已存密碼">
+<!ENTITY pref_private_data_passwords2 "已存密碼">
 <!ENTITY pref_private_data_cache "快取">
 <!ENTITY pref_private_data_offlineApps "網站離線資料">
 <!ENTITY pref_private_data_siteSettings2 "網站設定">
 <!ENTITY pref_private_data_downloadFiles2 "下載項目">
+<!ENTITY pref_private_data_syncedTabs "已同步的分頁">
 
 
 <!ENTITY pref_about_firefox "關於 &brandShortName;">
@@ -316,7 +328,7 @@ size. -->
 <!ENTITY quit "離開">
 
 <!ENTITY addons "附加元件">
-<!ENTITY logins "登入">
+<!ENTITY logins "帳號密碼">
 <!ENTITY downloads "下載項目">
 <!ENTITY apps "應用程式">
 <!ENTITY char_encoding "語言及字元編碼">
@@ -379,6 +391,11 @@ size. -->
 <!ENTITY doorhanger_login_edit_password_hint "密碼">
 <!ENTITY doorhanger_login_edit_toggle "顯示密碼">
 <!ENTITY doorhanger_login_edit_toast_error "登入資訊儲存失敗">
+<!ENTITY doorhanger_login_select_message "複製 &formatS; 的密碼？">
+<!ENTITY doorhanger_login_select_toast_copy "已將密碼複製至剪貼簿">
+<!ENTITY doorhanger_login_select_toast_copy_error "無法複製密碼">
+<!ENTITY doorhanger_login_select_action_text "選擇另一組帳號">
+<!ENTITY doorhanger_login_select_title "複製密碼">
 
 <!ENTITY pref_titlebar_mode "標題列">
 <!ENTITY pref_titlebar_mode_title "顯示頁面標題">
@@ -390,7 +407,7 @@ size. -->
 <!ENTITY pref_scroll_title_bar_summary "向下滑動頁面時隱藏 &brandShortName; 的標題列">
 
 <!ENTITY pref_tab_queue_title2 "開啟多個鏈結">
-<!ENTITY pref_tab_queue_summary2 "不用一直切換到 &brandShortName;，之後再一次開啟。">
+<!ENTITY pref_tab_queue_summary3 "先存下來，下次開啟 &brandShortName; 時再一起打開">
 
 <!-- Localization note (page_removed): This string appears in a toast message when
      any page is removed frome about:home. This includes pages that are in history,
@@ -409,7 +426,9 @@ size. -->
 <!ENTITY site_settings_clear        "清除">
 <!ENTITY site_settings_no_settings  "沒有可清除的設定。">
 
-<!ENTITY reading_list_added "已將頁面加入至閱讀清單">
+<!-- Localization note (reading_list_added3) : Used in a toast, please keep as short
+     as possible. -->
+<!ENTITY reading_list_added3 "已新增至閱讀清單">
 <!ENTITY reading_list_removed "已將頁面自閱讀清單移除">
 <!-- Localization note (reading_list_remove) : Used to remove the currently open page from
      the user's reading list. The opposite of overlay_share_reading_list_btn_label. -->
@@ -438,7 +457,7 @@ size. -->
 <!ENTITY button_clear_data "清除資料">
 <!ENTITY button_set "設定">
 <!ENTITY button_clear "清除">
-<!ENTITY button_remember "記住">
+<!ENTITY button_copy "複製">
 
 <!ENTITY firstrun_panel_title_welcome "歡迎">
 
@@ -502,10 +521,6 @@ size. -->
      the text of a button; we expect more than one device. -->
 <!ENTITY home_remote_tabs_unhide_selected_devices "取消隱藏選擇的裝置">
 
-<!ENTITY private_browsing_title "隱私瀏覽模式">
-<!ENTITY private_tabs_panel_empty_desc "您的隱私分頁將在此顯示，雖然我們不會保留您的瀏覽紀錄或 Cookie，但您建立的書籤與下載的檔案仍然會留在裝置中。">
-<!ENTITY private_tabs_panel_learn_more "想了解更多資訊？">
-
 <!ENTITY remote_tabs_panel_moved_title "我的分頁跑去哪了？">
 <!ENTITY remote_tabs_panel_moved_desc "我們將您其他裝置中開啟的分頁移到首頁中的面板，這樣您可以在開啟新分頁後快速開啟那些分頁。">
 <!ENTITY remote_tabs_panel_moved_link "帶我到我的新面板那兒去。">
@@ -533,6 +548,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_run_by "此網站擁有者：">
 <!ENTITY identity_no_info "此網站沒有提供身分識別資訊。">
 <!ENTITY identity_not_encrypted "您與此網站的連線並未加密。">
+<!ENTITY identity_encrypted "已加密">
 
 <!-- Mixed content notifications in site identity popup -->
 <!ENTITY loaded_mixed_content_message "此頁面包含不安全的內容。">
@@ -596,7 +612,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY guest_session_dialog_continue "繼續">
 <!ENTITY guest_session_dialog_cancel "取消">
 <!ENTITY new_guest_session_title "&brandShortName; 現在將會重新啟動">
-<!ENTITY new_guest_session_text "進入訪客模式後使用者將無法看到您任何的私人瀏覽資料（諸如已存的密碼、歷史紀錄或書籤）。\n\n當您的訪客用完之後，他們的瀏覽資料也會被清除，然後您的瀏覽階段將會被還原。">
+<!ENTITY new_guest_session_text2 "訪客將不會見到您的個人瀏覽資料（例如儲存的帳號密碼、瀏覽紀錄或書籤）。\n\n當您的訪客用好之後，瀏覽資料將被清除，並還原您的瀏覽階段。">
 <!ENTITY guest_browsing_notification_title "已進入訪客瀏覽階段">
 <!ENTITY guest_browsing_notification_text "點擊此處結束">
 
@@ -645,4 +661,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- LOCALIZATION NOTE (find_matchcase): This is meant to appear as an icon that changes color
      if match-case is activated. i.e. No more than two letters, one uppercase, one lowercase. -->
 <!ENTITY find_matchcase "Aa 字">
+
+<!ENTITY intent_uri_cannot_open "無法開啟鏈結">
 

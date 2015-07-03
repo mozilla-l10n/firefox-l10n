@@ -62,7 +62,7 @@
 <!ENTITY sync.configure.engines.title.label '要同步什麼'>
 <!ENTITY sync.configure.engines.sync.my.title.label '同步您的…'>
 <!ENTITY sync.configure.engines.title.bookmarks '書籤'>
-<!ENTITY sync.configure.engines.title.passwords '密碼'>
+<!ENTITY sync.configure.engines.title.passwords2 '帳號密碼'>
 <!ENTITY sync.configure.engines.title.history '歷史'>
 <!ENTITY sync.configure.engines.title.tabs '分頁'>
 
@@ -141,7 +141,7 @@
 <!ENTITY fxaccount_policy_linkprivacy '隱私權保護政策'>
 
 <!ENTITY fxaccount_getting_started_welcome_to_sync '歡迎使用 &syncBrand.shortName.label;'>
-<!ENTITY fxaccount_getting_started_description '登入以同步您的分頁、書籤、密碼與其他資料。'>
+<!ENTITY fxaccount_getting_started_description2 '登入以同步您的分頁、書籤、登入帳密與其他資料。'>
 <!ENTITY fxaccount_getting_started_get_started '開始設定'>
 <!ENTITY fxaccount_getting_started_old_firefox '正在使用舊版的 &syncBrand.shortName.label;？'>
 
@@ -212,7 +212,7 @@
 <!ENTITY fxaccount_status_needs_finish_migrating '點擊此處以登入至您全新的 Firefox 帳號。'>
 <!ENTITY fxaccount_status_bookmarks '書籤'>
 <!ENTITY fxaccount_status_history '歷史記錄'>
-<!ENTITY fxaccount_status_passwords '密碼'>
+<!ENTITY fxaccount_status_passwords2 '帳號密碼'>
 <!ENTITY fxaccount_status_tabs '開啟分頁'>
 <!ENTITY fxaccount_status_legal '使用條款' >
 <!-- Localization note: when tapped, the following two strings link to

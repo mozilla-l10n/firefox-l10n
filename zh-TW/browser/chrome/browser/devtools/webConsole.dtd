@@ -107,4 +107,6 @@
 <!ENTITY closeCmd.key         "W">
 <!ENTITY findCmd.key          "F">
 <!ENTITY clearOutputCtrl.key  "L">
+<!ENTITY openInVarViewCmd.label "在變數畫面中開啟">
+<!ENTITY openInVarViewCmd.accesskey "V">
 
