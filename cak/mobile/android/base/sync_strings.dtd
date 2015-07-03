@@ -17,7 +17,7 @@
 <!ENTITY sync.subtitle.connect.label "Richin natzïj ri k\u0027ak\u0027a\u0027 awokisaxel, tacha\u0027 \&quot;Rub\u0027anik runuk\u0027ulem &syncBrand.shortName.label;\&quot; pa ri okisaxel.">
 <!ENTITY sync.subtitle.header2.label "Tatz\u0027ib\u0027aj re jun cholajil re\u0027 pa ri awokisaxel">
 <!ENTITY sync.subtitle.connectlocation2.label "Tacha\u0027 \&quot;&sync.title.pair.label;\&quot; pa ri peraj &syncBrand.shortName.label; k\u0027o chupam ri jun chik awokisaxel pa ri cha\u0027öy richin Firefox.">
-<!ENTITY sync.subtitle.pair.label "Richin natzïj. tacha\u0027 \\&quot;Tixim jun okisaxel\\&quot; pan ri jun chik awokisaxel.">
+<!ENTITY sync.subtitle.pair.label "Richin natzïj. tacha\u0027 \&quot;Tixim jun okisaxel\&quot; pan ri jun chik awokisaxel.">
 <!ENTITY sync.pin.default.label "...\n...\n...\n">
 <!ENTITY sync.pin.oneline.label "...">
 <!ENTITY sync.link.show.label "Kinak\u0027utu\u0027 achi\u0027el.">
