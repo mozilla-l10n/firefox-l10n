@@ -2,8 +2,5 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY aboutPasswords.title                    "密碼">
-
-<!ENTITY aboutPasswords.copyUsername             "複製使用者名稱">
-<!ENTITY aboutPasswords.copyPassword             "複製密碼">
+<!ENTITY aboutLogins.title                       "帳號密碼">
 

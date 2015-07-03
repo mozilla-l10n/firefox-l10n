@@ -55,6 +55,7 @@
 <!ENTITY  font.langGroup.gurmukhi                 "古魯穆奇字">
 <!ENTITY  font.langGroup.khmer                    "高棉文">
 <!ENTITY  font.langGroup.malayalam                "馬拉亞拉姆文">
+<!ENTITY  font.langGroup.math                     "數學方程式">
 <!-- Minimum font size -->
 <!ENTITY minSize.label                            "最小字型大小:">
 <!ENTITY minSize.accesskey                        "z">

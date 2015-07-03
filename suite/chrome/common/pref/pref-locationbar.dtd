@@ -6,16 +6,16 @@
 <!ENTITY pref.locationBar.title                "網址列">
 
 <!ENTITY autoComplete.label                    "自動完成">
-<!ENTITY enableAutoComplete.label              "在您輸入時，自動完成您的瀏覽歷史">
-<!ENTITY enableAutoComplete.accesskey          "A">
+<!ENTITY autoCompleteMatchHistory.label        "自動依照瀏覽紀錄建議網站">
+<!ENTITY autoCompleteMatchHistory.accesskey    "A">
+<!ENTITY autoCompleteMatchBookmarks.label      "自動依照書籤建議網站">
+<!ENTITY autoCompleteMatchBookmarks.accesskey  "B">
 <!ENTITY autoCompleteAutoFill.label            "自動把最適合的結果輸入進去">
 <!ENTITY autoCompleteAutoFill.accesskey        "u">
 <!ENTITY autoCompleteShowPopup.label           "顯示結果列表">
 <!ENTITY autoCompleteShowPopup.accesskey       "S">
 <!ENTITY autoCompleteMatchOnlyTyped.label      "只列出您先前輸入過的網站">
 <!ENTITY autoCompleteMatchOnlyTyped.accesskey  "o">
-<!ENTITY autoCompleteMatchOnlyURLs.label       "只列出網址，不列出標題">
-<!ENTITY autoCompleteMatchOnlyURLs.accesskey   "n">
 <!--LOCALIZATION NOTE (autoCompleteMatch.label): This is the common leading
   part of the menulist items listed below, mainly to make the control available
   via the accesskey

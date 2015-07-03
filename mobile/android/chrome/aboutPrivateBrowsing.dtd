@@ -2,13 +2,16 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY privatebrowsingpage.title                  "隱私瀏覽模式">
+<!ENTITY privatebrowsingpage.title "隱私瀏覽模式">
+<!ENTITY privatebrowsingpage.title.normal "您不在隱私瀏覽模式中">
 
-<!ENTITY privatebrowsingpage.issueDesc.private      "您開啟了一個新的隱私分頁。">
-<!ENTITY privatebrowsingpage.issueDesc.normal       "您不在隱私分頁之中。">
+<!ENTITY privatebrowsingpage.issueDesc.normal2 "在隱私瀏覽模式中，我們不會記錄下您任何的瀏覽紀錄與 Cookie。">
+<!ENTITY privatebrowsingpage.issueDesc.private2 "我們不會記錄下您任何的瀏覽紀錄與 Cookie。">
 
-<!ENTITY privatebrowsingpage.description            "&brandShortName; 不會在隱私分頁中留下任何瀏覽記錄、搜尋記錄、下載記錄、網頁表單輸入內容、Cookie、暫存檔案。然而您下載的檔案與新增的書籤將會被保留。">
-<!ENTITY privatebrowsingpage.description.private    "&privatebrowsingpage.issueDesc.private; &privatebrowsingpage.description;">
+<!ENTITY privatebrowsingpage.description2 "您新增的書籤與下載的檔案還是會儲存在裝置中。">
+<!ENTITY privatebrowsingpage.description.normal "&privatebrowsingpage.issueDesc.normal2; &privatebrowsingpage.description2;">
+<!ENTITY privatebrowsingpage.description.private2 "&privatebrowsingpage.issueDesc.private2; &privatebrowsingpage.description2;">
 
-<!ENTITY privatebrowsingpage.moreInfo               "雖然此裝置不會留下任何歷史記錄，您的網路服務提供商還是能追蹤您瀏覽的頁面。">
+<!ENTITY privatebrowsingpage.link.private "想了解更多資訊？">
+<!ENTITY privatebrowsingpage.link.normal "用新隱私瀏覽分頁開啟">
 

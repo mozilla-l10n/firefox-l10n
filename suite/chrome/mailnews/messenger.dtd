@@ -445,6 +445,12 @@
 <!ENTITY junkButton.tooltip "標示所選訊息為垃圾信">
 <!ENTITY notJunkButton.tooltip "標示所選訊息為非垃圾信">
 
+<!-- Remote Content Button Popup -->
+<!ENTITY remoteContentOptionsAllowForMsg.label "顯示此訊息中的遠端內容">
+<!ENTITY remoteContentOptionsAllowForMsg.accesskey "S">
+<!ENTITY editRemoteContentSettings.label "編輯遠端內容的權限…">
+<!ENTITY editRemoteContentSettings.accesskey "E">
+
 <!-- Statusbar -->
 <!ENTITY  statusText.label "完成">
 
