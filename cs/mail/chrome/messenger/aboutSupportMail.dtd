@@ -15,5 +15,6 @@
 <!ENTITY aboutSupport.accountsConnSecurity "Zabezpečení spojení">
 <!ENTITY aboutSupport.accountsAuthMethod "Způsob autentizace">
 <!ENTITY aboutSupport.accountsDefault "Výchozí?">
+<!ENTITY aboutSupport.identityName "Identita">
 
 <!ENTITY aboutSupport.sendViaEmail.label "Odeslat e-mailem">
