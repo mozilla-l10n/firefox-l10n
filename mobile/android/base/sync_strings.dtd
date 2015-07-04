@@ -62,7 +62,7 @@
 <!ENTITY sync.configure.engines.title.label 'Шта да синхронизујем'>
 <!ENTITY sync.configure.engines.sync.my.title.label 'Синхронизуј моје…'>
 <!ENTITY sync.configure.engines.title.bookmarks 'Забелешке'>
-<!ENTITY sync.configure.engines.title.passwords 'Лозинке'>
+<!ENTITY sync.configure.engines.title.passwords2 'Пријаве'>
 <!ENTITY sync.configure.engines.title.history 'Историју'>
 <!ENTITY sync.configure.engines.title.tabs 'Језичке'>
 
@@ -141,7 +141,7 @@
 <!ENTITY fxaccount_policy_linkprivacy 'Обавештење о приватности'>
 
 <!ENTITY fxaccount_getting_started_welcome_to_sync 'Добродошли на &syncBrand.shortName.label;'>
-<!ENTITY fxaccount_getting_started_description 'Пријавите се да бисте синхронизовали језичке, забелешке, лозинке и више.'>
+<!ENTITY fxaccount_getting_started_description2 'Пријавите се да бисте синхронизовали језичке, забелешке, пријаве и више.'>
 <!ENTITY fxaccount_getting_started_get_started 'Започните'>
 <!ENTITY fxaccount_getting_started_old_firefox 'Користите старију &syncBrand.shortName.label; верзију?'>
 
@@ -212,7 +212,7 @@
 <!ENTITY fxaccount_status_needs_finish_migrating 'Притисните да се пријавите на Ваш нови Firefox налог.'>
 <!ENTITY fxaccount_status_bookmarks 'Забелешке'>
 <!ENTITY fxaccount_status_history 'Историја'>
-<!ENTITY fxaccount_status_passwords 'Лозинке'>
+<!ENTITY fxaccount_status_passwords2 'Пријаве'>
 <!ENTITY fxaccount_status_tabs 'Отвори језичке'>
 <!ENTITY fxaccount_status_legal 'Права' >
 <!-- Localization note: when tapped, the following two strings link to
