@@ -42,6 +42,10 @@
 <!-- Device Settings -->
 <!ENTITY syncDeviceName.label       "Назив уређаја">
 <!ENTITY syncDeviceName.accesskey   "ђ">
+<!ENTITY fxaSyncDeviceName.label       "Име уређаја">
+<!ENTITY changeSyncDeviceName.label "Промени име уређаја…">
+<!ENTITY cancelChangeSyncDeviceName.label "Откажи">
+<!ENTITY saveChangeSyncDeviceName.label "Сачувај">
 <!ENTITY unlinkDevice.label           "Уклони овај уређај">
 
 <!-- Footer stuff -->
