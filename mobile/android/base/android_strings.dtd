@@ -126,7 +126,7 @@
 <!ENTITY pref_cookies_not_accept_foreign "Attivi, esclusi di terze parti">
 <!ENTITY pref_cookies_disabled "Disattivati">
 <!ENTITY pref_tracking_protection_title "Protezione antitracciamento">
-<!ENTITY pref_tracking_protection_summary "Impedisci ai siti di tracciare gli utenti">
+<!ENTITY pref_tracking_protection_summary2 "Blocca gli elementi traccianti in modalità Navigazione anonima">
 <!ENTITY pref_donottrack_title "Antitracciamento">
 <!ENTITY pref_donottrack_summary "Richiedi ai siti di non effettuare alcun tracciamento">
 <!ENTITY tab_queue_toast_message3 "Schede salvate in &brandShortName;">
