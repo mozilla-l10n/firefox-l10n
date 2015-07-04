@@ -48,10 +48,6 @@
 <!ENTITY ScreenName.label "Účet pro IM">
 <!ENTITY ScreenName.accesskey "E">
 
-<!ENTITY allowRemoteContent1.label "Povolit vzdálený obsah.">
-<!ENTITY allowRemoteContent1.accesskey "P">
-<!ENTITY allowRemoteContent1.tooltip "Do HTML zprávy lze vložit obsah ze vzdálených zdrojů. Při otevření takovéto zprávy dojde k navázaní spojení ke vzdálenému serveru. Toto chování lze použít k určení zda zpráva byla přečtena. Povolením vzdáleného obsahu umožníte načítání takovéhoto obsahu v HTML zprávách od tohoto kontaktu.">
-
 
 
 

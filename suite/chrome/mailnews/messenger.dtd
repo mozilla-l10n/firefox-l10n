@@ -445,6 +445,12 @@
 <!ENTITY junkButton.tooltip "Označí vybrané zprávy jako nevyžádané">
 <!ENTITY notJunkButton.tooltip "Označí vybrané zprávy jako běžné">
 
+<!-- Remote Content Button Popup -->
+<!ENTITY remoteContentOptionsAllowForMsg.label "Zobrazit vzdálený obsah v této zprávě">
+<!ENTITY remoteContentOptionsAllowForMsg.accesskey "Z">
+<!ENTITY editRemoteContentSettings.label "Upravit nastavení pro vzdálený obsah…">
+<!ENTITY editRemoteContentSettings.accesskey "U">
+
 <!-- Statusbar -->
 <!ENTITY statusText.label "Hotovo">
 

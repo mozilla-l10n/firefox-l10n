@@ -6,16 +6,16 @@
 <!ENTITY pref.locationBar.title "Adresní řádek">
 
 <!ENTITY autoComplete.label "Automatické doplňování">
-<!ENTITY enableAutoComplete.label "Automaticky při psaní doplňovat adresy z historie">
-<!ENTITY enableAutoComplete.accesskey "A">
+<!ENTITY autoCompleteMatchHistory.label        "Automaticky navrhovat stránky z historie">
+<!ENTITY autoCompleteMatchHistory.accesskey    "A">
+<!ENTITY autoCompleteMatchBookmarks.label      "Automaticky navrhovat stránky ze záložek">
+<!ENTITY autoCompleteMatchBookmarks.accesskey  "u">
 <!ENTITY autoCompleteAutoFill.label "Automaticky při psaní doplňovat nejlepší odhad">
 <!ENTITY autoCompleteAutoFill.accesskey "t">
 <!ENTITY autoCompleteShowPopup.label "Zobrazovat seznam vyhovujících výsledků">
 <!ENTITY autoCompleteShowPopup.accesskey "Z">
 <!ENTITY autoCompleteMatchOnlyTyped.label "Nabízet pouze dříve napsané webové adresy">
 <!ENTITY autoCompleteMatchOnlyTyped.accesskey "b">
-<!ENTITY autoCompleteMatchOnlyURLs.label "Nedoplňovat titulky webových serverů, pouze adresy">
-<!ENTITY autoCompleteMatchOnlyURLs.accesskey "d">
 <!--LOCALIZATION NOTE (autoCompleteMatch.label): This is the common leading
   part of the menulist items listed below, mainly to make the control available
   via the accesskey
