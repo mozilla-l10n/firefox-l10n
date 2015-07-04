@@ -2,12 +2,15 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY privatebrowsingpage.title                  "Приватно прегледање">
+<!ENTITY privatebrowsingpage.title "Приватно прегледање">
+<!ENTITY privatebrowsingpage.title.normal "Ви нисте у приватном прегледању.">
 
-<!ENTITY privatebrowsingpage.issueDesc.private      "Отворили сте нови приватан језичак.">
-<!ENTITY privatebrowsingpage.issueDesc.normal       "Ви нисте у приватном језичку.">
+<!ENTITY privatebrowsingpage.issueDesc.normal2 "У приватном прегледању, ми нећемо памтити Вашу историју прегледања или колачиће.">
+<!ENTITY privatebrowsingpage.issueDesc.private2 "Ми нећемо памтити Вашу историју прегледања или колачиће.">
 
-<!ENTITY privatebrowsingpage.description            "У приватним језичцима, &brandShortName; неће памтити историју прегледања, претраге, преузимања, веб форме, колачиће или привремене интернет датотеке. Али, датотеке које преузмете или забележите ће бити сачуване.">
-<!ENTITY privatebrowsingpage.description.private    "&privatebrowsingpage.issueDesc.private; &privatebrowsingpage.description;">
+<!ENTITY privatebrowsingpage.description2 "Забелешке које додате и датотеке које преузмете ће бити сачуване на Вашем уређају.">
+<!ENTITY privatebrowsingpage.description.normal "&privatebrowsingpage.issueDesc.normal2; &privatebrowsingpage.description2;">
+<!ENTITY privatebrowsingpage.description.private2 "&privatebrowsingpage.issueDesc.private2; &privatebrowsingpage.description2;">
 
-<!ENTITY privatebrowsingpage.moreInfo               "Док овај уређај не бележи Вашу историју прегедања, Ваш интернет провајдер и даље може да прати странице које посетите.">
+<!ENTITY privatebrowsingpage.link.private "Желите да сазнате више?">
+<!ENTITY privatebrowsingpage.link.normal "Отворите нови приватан језичак">

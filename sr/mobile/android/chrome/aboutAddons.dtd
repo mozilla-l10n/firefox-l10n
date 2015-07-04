@@ -10,3 +10,6 @@
 <!ENTITY addonAction.disable                    "Искључи">
 <!ENTITY addonAction.uninstall                  "Деинсталирај">
 <!ENTITY addonAction.undo                       "Опозови">
+
+<!ENTITY addonUnsigned.message                  "Овај додатак није верификован од стране &brandShortName;.">
+<!ENTITY addonUnsigned.learnMore                "Сазнајте више">
