@@ -36,6 +36,10 @@ Současná data pingování
 Archivovaná data pingování
 ">
 
+<!ENTITY aboutTelemetry.showSubsessionData "
+Show subsession data
+">
+
 <!ENTITY aboutTelemetry.choosePing "
 Vybrat ping:
 ">
