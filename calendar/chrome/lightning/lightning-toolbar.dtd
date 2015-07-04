@@ -8,10 +8,15 @@
 <!ENTITY lightning.toolbar.task.name.accesskey "o">
 
 <!ENTITY lightning.toolbar.sync.label "Synchronizovat">
+<!ENTITY lightning.toolbar.sync.tooltip "Obnoví kalendáře a synchronizuje změny">
 <!ENTITY lightning.toolbar.delete.label "Smazat">
+<!ENTITY lightning.toolbar.delete.tooltip "Smaže vybrané události nebo úkoly">
 <!ENTITY lightning.toolbar.edit.label "Upravit">
+<!ENTITY lightning.toolbar.edit.tooltip "Upraví vybranou událost nebo úkol">
 <!ENTITY lightning.toolbar.gototoday.label "Jít na dnešní den">
+<!ENTITY lightning.toolbar.gototoday.tooltip "Přejde na dnešní den">
 <!ENTITY lightning.toolbar.print.label "Tisk">
+<!ENTITY lightning.toolbar.print.tooltip "Vytiskne události nebo úkoly">
 
 <!-- Mode Toolbar -->
 <!ENTITY lightning.toolbar.calendar.label "Kalendář">
@@ -23,7 +28,9 @@
 
 <!-- Toolbar write button -->
 <!ENTITY lightning.toolbar.newevent.label "Událost">
+<!ENTITY lightning.toolbar.newevent.tooltip   "Vytvoří novou událost">
 <!ENTITY lightning.toolbar.newtask.label "Úkol">
+<!ENTITY lightning.toolbar.newtask.tooltip    "Vytvoří nový úkol">
 
 <!-- Calendar and Task Mode Toolbar -->
 <!ENTITY lightning.toolbar.day.label "Den">
