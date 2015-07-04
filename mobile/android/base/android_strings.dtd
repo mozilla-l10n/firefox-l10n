@@ -81,6 +81,7 @@
 
 <!ENTITY settings "Paramètres">
 <!ENTITY settings_title "Paramètres">
+<!ENTITY pref_category_input_options "Options de saisie">
 <!ENTITY pref_category_advanced "Avancé">
 <!ENTITY pref_category_customize "Personnalisation">
 <!ENTITY pref_category_customize_summary "Accueil, recherche, onglets, importation">
@@ -137,7 +138,7 @@
 <!ENTITY pref_category_display "Affichage">
 <!ENTITY pref_category_display_summary "Texte, barre de titre, navigation plein écran">
 <!ENTITY pref_category_privacy_short "Vie privée">
-<!ENTITY pref_category_privacy_summary "Contrôler mots de passe, cookies, pistage, données">
+<!ENTITY pref_category_privacy_summary2 "Contrôler identifiants, cookies, pistage, données">
 <!ENTITY pref_category_vendor "&vendorShortName;">
 <!ENTITY pref_category_vendor_summary "À propos de &brandShortName;, FAQ, données collectées">
 <!ENTITY pref_category_datareporting "Données collectées">
@@ -156,7 +157,7 @@
 <!ENTITY pref_category_devtools "Outils de développement">
 <!ENTITY pref_developer_remotedebugging "Débogage distant">
 <!ENTITY pref_category_logins "Identifiants">
-<!ENTITY pref_remember_signons "Enreg. les mots de passe">
+<!ENTITY pref_remember_signons2 "Enreg. les identifiants">
 <!ENTITY pref_open_external_urls_privately_title "Ouvrir les liens en navigation privée">
 <!ENTITY pref_open_external_urls_privately_summary "Pour tous les liens externes ouverts avec &brandShortName;">
 <!ENTITY pref_manage_logins "Gérer les identifiants">
@@ -252,10 +253,14 @@ size. -->
 <!ENTITY pref_media_autoplay_enabled_summary "Décider si les sites peuvent lancer automatiquement la lecture des vidéos et d\u0027autres contenus multimédia">
 <!ENTITY pref_zoom_force_enabled "Toujours activer le zoom">
 <!ENTITY pref_zoom_force_enabled_summary "Forcer les pages à toujours vous permettre de zoomer">
+<!ENTITY pref_voice_input "Saisie vocale">
+<!ENTITY pref_voice_input_summary "Permettre la saisie vocale dans la barre de titre">
+<!ENTITY pref_qrcode_enabled "Lecteur de QR codes">
+<!ENTITY pref_qrcode_enabled_summary "Permettre la lecture des QR codes depuis la barre de titre">
 
 <!ENTITY pref_use_master_password "Mot de passe principal">
 <!ENTITY pref_sync "Sync">
-<!ENTITY pref_sync_summary "Synchroniser onglets, marque-pages, mots de passe, historique">
+<!ENTITY pref_sync_summary2 "Synchroniser onglets, marque-pages, identifiants, historique">
 <!ENTITY pref_search_suggestions "Suggestions de recherche">
 <!ENTITY pref_import_android "Importer depuis Android">
 <!ENTITY pref_import_android_summary "Importer les marque-pages et l\u0027historique du navigateur d\u0027origine">
@@ -263,7 +268,7 @@ size. -->
 <!ENTITY pref_private_data_searchHistory "Historique des recherches">
 <!ENTITY pref_private_data_formdata2 "Historique des formulaires">
 <!ENTITY pref_private_data_cookies2 "Cookies et connexions actives">
-<!ENTITY pref_private_data_passwords "Mots de passe enregistrés">
+<!ENTITY pref_private_data_passwords "Identifiants enregistrés">
 <!ENTITY pref_private_data_cache "Cache">
 <!ENTITY pref_private_data_offlineApps "Données de site web hors connexion">
 <!ENTITY pref_private_data_siteSettings2 "Paramètres de site">
@@ -611,7 +616,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY guest_session_dialog_continue "Continuer">
 <!ENTITY guest_session_dialog_cancel "Annuler">
 <!ENTITY new_guest_session_title "&brandShortName; va redémarrer">
-<!ENTITY new_guest_session_text "L\u0027utilisateur invité ne pourra pas accéder à vos données personnelles de navigation (comme par exemple les mots de passe enregistrés, l\u0027historique ou les marque-pages).\n\nLorsque votre invité aura terminé, ses données de navigation seront supprimées et votre session sera restaurée.">
+<!ENTITY new_guest_session_text2 "L\u0027utilisateur invité ne pourra pas accéder à vos données personnelles de navigation (comme par exemple les identifiants enregistrés, l\u0027historique ou les marque-pages).\n\nLorsque votre invité aura terminé, ses données de navigation seront supprimées et votre session sera restaurée.">
 <!ENTITY guest_browsing_notification_title "Navigation invité activée">
 <!ENTITY guest_browsing_notification_text "Appuyez pour quitter">
 
