@@ -766,6 +766,15 @@ you can use these alternative items. Otherwise, their values should be empty.
 <!ENTITY mixedContentBlocked2.block.accesskey "A">
 <!ENTITY mixedContentBlocked2.disabled.message "La protection est désactivée">
 
+<!ENTITY trackingProtection.title "Protection contre le pistage">
+<!ENTITY trackingProtection.detectedBlocked "Des tentatives de pistage de votre comportement en ligne ont été bloquées.">
+<!ENTITY trackingProtection.detectedNotBlocked "Éléments de pistage détectés. Vous avez désactivé la protection sur ce site.">
+<!ENTITY trackingProtection.notDetected "Aucun élément de pistage détecté sur ce site web.">
+<!ENTITY trackingProtection.unblock.label "Désactiver la protection pour ce site">
+<!ENTITY trackingProtection.unblock.accesskey "D">
+<!ENTITY trackingProtection.block.label "Activer la protection pour ce site">
+<!ENTITY trackingProtection.block.accesskey "A">
+
 <!ENTITY trackingContentBlocked.message "Pistage">
 <!ENTITY trackingContentBlocked.moreinfo "Les parties de la page qui pistent votre activité en ligne ont été bloquées.">
 <!ENTITY trackingContentBlocked.learnMore "En savoir plus">
