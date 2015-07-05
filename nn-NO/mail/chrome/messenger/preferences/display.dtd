@@ -4,6 +4,7 @@
 
 <!ENTITY itemFormatting.label             "Formatering">
 <!ENTITY itemTags.label                   "Merkelappar">
+<!ENTITY itemAdvanced.label               "Avansert">
 
 <!ENTITY style.label                      "Stil:">
 <!ENTITY style.accesskey                  "S">
@@ -44,3 +45,29 @@
 <!ENTITY fontOptions.label       "Skrifttypar …">
 <!ENTITY colorButton.label       "Fargar …">
 <!ENTITY colorButton.accesskey   "F">
+
+<!-- Advanced -->
+<!ENTITY reading.caption                  "Lesar">
+<!ENTITY display.caption                  "Vising">
+<!ENTITY showCondensedAddresses.label     "Vis berre visings-namnet for personar i adresseboka">
+<!ENTITY showCondensedAddresses.accesskey "V">
+
+<!ENTITY autoMarkAsRead.label             "Automatisk merk meldingar som lesne">
+<!ENTITY autoMarkAsRead.accesskey         "A">
+<!ENTITY markAsReadNoDelay.label          "Med ein gong dei er viste">
+<!ENTITY markAsReadNoDelay.accesskey      "M">
+<!-- LOCALIZATION NOTE (markAsReadDelay.label): This will concatenate to
+     "After displaying for [___] seconds",
+     using (markAsReadDelay.label) and a number (secondsLabel.label). -->
+<!ENTITY markAsReadDelay.label            "Etter dei er viste i">
+<!ENTITY markAsReadDelay.accesskey        "E">
+<!ENTITY secondsLabel.label               "sekund">
+<!ENTITY openMsgIn.label                  "Opna meldingar i:">
+<!ENTITY openMsgInNewTab.label            "Ei ny fane">
+<!ENTITY openMsgInNewTab.accesskey        "E">
+<!ENTITY reuseExpRadio0.label             "Eit nytt meldingsvindauge">
+<!ENTITY reuseExpRadio0.accesskey         "i">
+<!ENTITY reuseExpRadio1.label             "Eit eksisterande meldingsvindauge">
+<!ENTITY reuseExpRadio1.accesskey         "t">
+<!ENTITY closeMsgOnMoveOrDelete.label     "Lat att meldingsvindauge/fane ved flytting eller sletting">
+<!ENTITY closeMsgOnMoveOrDelete.accesskey "L">

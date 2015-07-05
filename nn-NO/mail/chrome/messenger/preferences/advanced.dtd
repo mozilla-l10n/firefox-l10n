@@ -4,7 +4,6 @@
 
 <!ENTITY itemGeneral.label       "Generelt">
 <!ENTITY dataChoicesTab.label    "Dataval">
-<!ENTITY itemDisplay.label       "Lesing og vising">
 <!ENTITY itemUpdate.label        "Oppdatering">
 <!ENTITY itemNetworking.label    "Nettverk og diskplass">
 <!ENTITY itemCertificates.label  "Sertifikat">
@@ -51,32 +50,6 @@
 <!ENTITY enableCrashReporter.label       "Slå på krasjraooprtering">
 <!ENTITY enableCrashReporter.accesskey   "l">
 <!ENTITY crashReporterLearnMore.label    "Les meir">
-
-<!-- Display and Reading Settings -->
-<!ENTITY reading.caption               "Lese">
-<!ENTITY display.caption               "Utsjånad">
-<!ENTITY showCondensedAddresses.label  "Vis berre synleg namn for personar som er i adresseboka">
-<!ENTITY showCondensedAddresses.accesskey "V">
-
-<!ENTITY autoMarkAsRead.label          "Automatisk merk meldingar som lesne">
-<!ENTITY autoMarkAsRead.accesskey      "A">
-<!ENTITY markAsReadNoDelay.label       "Med ein gong etter dei er viste">
-<!ENTITY markAsReadNoDelay.accesskey   "o">
-<!-- LOCALIZATION NOTE (markAsReadDelay.label): This will concatenate to
-     "After displaying for [___] seconds",
-     using (markAsReadDelay.label) and a number (secondsLabel.label). -->
-<!ENTITY markAsReadDelay.label         "Etter at dei er viste i">
-<!ENTITY markAsReadDelay.accesskey     "E">
-<!ENTITY secondsLabel.label            "sekund">
-<!ENTITY openMsgIn.label               "Opna meldingar i:">
-<!ENTITY openMsgInNewTab.label         "Ei ny fane">
-<!ENTITY openMsgInNewTab.accesskey     "f">
-<!ENTITY reuseExpRadio0.label          "Eit nytt vindauge">
-<!ENTITY reuseExpRadio0.accesskey      "d">
-<!ENTITY reuseExpRadio1.label          "Eit eksisterande meldingsvindauge">
-<!ENTITY reuseExpRadio1.accesskey      "e">
-<!ENTITY closeMsgOnMoveOrDelete.label  "Lukk meldingsvindauge/fane ved flytting eller sletting">
-<!ENTITY closeMsgOnMoveOrDelete.accesskey "L">
 
 <!-- Update -->
 <!ENTITY updateApp.label                 "&brandShortName;-oppdateringar:">
@@ -127,7 +100,7 @@
 <!ENTITY certs.auto.accesskey            "e">
 <!ENTITY certs.ask                       "Spør meg kvar gong">
 <!ENTITY certs.ask.accesskey             "S">
-<!ENTITY enableOCSP.label                "Spør OCSPtenaren om å stadfesta at sertifikat gjeld">
+<!ENTITY enableOCSP.label                "Spør OCSP-tenaren om å stadfesta at sertifikat gjeld">
 <!ENTITY enableOCSP.accesskey            "S">
 
 <!ENTITY viewCertificates.label         "Vis sertifikat">
