@@ -81,6 +81,7 @@
 
 <!ENTITY settings "Configuración">
 <!ENTITY settings_title "Configuración">
+<!ENTITY pref_category_input_options "Opciones de ingreso">
 <!ENTITY pref_category_advanced "Avanzada">
 <!ENTITY pref_category_customize "Personalizar">
 <!ENTITY pref_category_customize_summary "Inicio, búsqueda, pestañas, importar">
@@ -136,7 +137,7 @@
 <!ENTITY pref_category_display "Pantalla">
 <!ENTITY pref_category_display_summary "Texto, barra de títulos, navegación a pantalla completa">
 <!ENTITY pref_category_privacy_short "Privacidad">
-<!ENTITY pref_category_privacy_summary "Control de contraseñas, cookies, rastreo, datos">
+<!ENTITY pref_category_privacy_summary2 "Control de ingreso, cookies, rastreo, datos">
 <!ENTITY pref_category_vendor "&vendorShortName;">
 <!ENTITY pref_category_vendor_summary "Acerca de &brandShortName;, preguntas frecuentes, opciones de datos">
 <!ENTITY pref_category_datareporting "Opciones de datos">
@@ -155,7 +156,7 @@
 <!ENTITY pref_category_devtools "Herramientas de desarrollador">
 <!ENTITY pref_developer_remotedebugging "Depuración remota">
 <!ENTITY pref_category_logins "Ingresos">
-<!ENTITY pref_remember_signons "Recordar contraseñas">
+<!ENTITY pref_remember_signons2 "Recordar ingresos">
 <!ENTITY pref_open_external_urls_privately_title "Abrir enlaces en ventana privada">
 <!ENTITY pref_open_external_urls_privately_summary "Para todos los enlaces externos abiertos en &brandShortName;">
 <!ENTITY pref_manage_logins "Administrar ingresos">
@@ -251,10 +252,14 @@ size. -->
 
 <!ENTITY pref_zoom_force_enabled "Siempre habilitar zoom">
 <!ENTITY pref_zoom_force_enabled_summary "Forzar que se pueda hacer zoom en cualquier página">
+<!ENTITY pref_voice_input "Ingfeso por voz">
+<!ENTITY pref_voice_input_summary "Permitir dictado por voz en la barra de títulos">
+<!ENTITY pref_qrcode_enabled "Lector de códigos QR">
+<!ENTITY pref_qrcode_enabled_summary "Permitir scanner QR en la barra de títulos">
 
 <!ENTITY pref_use_master_password "Usar contraseña maestra">
 <!ENTITY pref_sync "Sync">
-<!ENTITY pref_sync_summary "Sincronizar pestañas, marcadores, contraseñas, historial">
+<!ENTITY pref_sync_summary2 "Sincronizar pestañas, marcadores, ingresos, historial">
 <!ENTITY pref_search_suggestions "Mostrar sugerencias de búsqueda">
 <!ENTITY pref_import_android "Importar desde Android">
 <!ENTITY pref_import_android_summary "Importar marcadores e historial desde el navegador nativo">
@@ -262,7 +267,7 @@ size. -->
 <!ENTITY pref_private_data_searchHistory "Historial de búsqueda">
 <!ENTITY pref_private_data_formdata2 "Historial de formularios">
 <!ENTITY pref_private_data_cookies2 "Cookies e ingresos activos">
-<!ENTITY pref_private_data_passwords "Contraseñas guardadas">
+<!ENTITY pref_private_data_passwords2 "Ingresos guardados">
 <!ENTITY pref_private_data_cache "Caché">
 <!ENTITY pref_private_data_offlineApps "Datos de sitios sin conexión">
 <!ENTITY pref_private_data_siteSettings2 "Opciones del sitio">
@@ -614,7 +619,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY guest_session_dialog_continue "Continuar">
 <!ENTITY guest_session_dialog_cancel "Cancelar">
 <!ENTITY new_guest_session_title "&brandShortName; se reiniciará">
-<!ENTITY new_guest_session_text "La persona que lo use no podrá ver nada de tus datos personales de navegación (como contraseñas guardadas, historial o marcadores).\n\nCuando el invitado termine, sus datos de navegación se borrarán y tu sesión se restaurará.">
+<!ENTITY new_guest_session_text2 "La persona que lo use no podrá ver nada de tus datos personales de navegación (como contraseñas guardadas, historial o marcadores).\n\nCuando el invitado termine, sus datos de navegación se borrarán y tu sesión se restaurará.">
 <!ENTITY guest_browsing_notification_title "Navegación de invitado habilitada">
 <!ENTITY guest_browsing_notification_text "Tocá para salir">
 

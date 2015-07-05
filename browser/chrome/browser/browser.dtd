@@ -110,6 +110,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllTabsCmd.accesskey "a">
 
 <!ENTITY fxaSignIn.label "Ingresar a &syncBrand.shortName.label;">
+<!ENTITY fxaSignedIn.tooltip "Abrir preferencias de &syncBrand.shortName.label;">
 <!ENTITY fxaSignInError.label "Reconectar a &syncBrand.shortName.label;">
 <!ENTITY syncStartPanel2.heading "&syncBrand.shortName.label; habilitado">
 <!ENTITY syncStartPanel2.subTitle "&brandShortName; comenzará a sincronizar momentáneamente.">
@@ -770,6 +771,15 @@ The word "toolbar" is appended automatically and should not be contained below! 
 <!ENTITY mixedContentBlocked2.block.label "Habilitar protección">
 <!ENTITY mixedContentBlocked2.block.accesskey "e">
 <!ENTITY mixedContentBlocked2.disabled.message "La protección está deshabilitada">
+
+<!ENTITY trackingProtection.title "Protección de rastreo">
+<!ENTITY trackingProtection.detectedBlocked "Se bloqueó un intento de rastrear su comportamiento en línea.">
+<!ENTITY trackingProtection.detectedNotBlocked "Se detectaron elementos de rastreo. Ha seshabilitado la protección en este sitio.">
+<!ENTITY trackingProtection.notDetected "No se detectaron elementos de rastreo en este sitio.">
+<!ENTITY trackingProtection.unblock.label "Deshabilitar protección para este sitio">
+<!ENTITY trackingProtection.unblock.accesskey "D">
+<!ENTITY trackingProtection.block.label "Habilitar protección para este sitio">
+<!ENTITY trackingProtection.block.accesskey "E">
 
 <!ENTITY trackingContentBlocked.message "Rastreo">
 <!ENTITY trackingContentBlocked.moreinfo "Partes de la página que rastrean su actividad en línea han sido bloqueadas.">
