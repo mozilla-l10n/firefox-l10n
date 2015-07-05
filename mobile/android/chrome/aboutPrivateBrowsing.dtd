@@ -3,11 +3,14 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY privatebrowsingpage.title                  "Navegación privada">
+<!ENTITY privatebrowsingpage.title.normal "No estás en navegación privada">
 
-<!ENTITY privatebrowsingpage.issueDesc.private      "Abriste una nueva pestaña privada.">
-<!ENTITY privatebrowsingpage.issueDesc.normal       "No estás en una pestaña privada.">
+<!ENTITY privatebrowsingpage.issueDesc.normal2 "En navegación privada, no guardaremos historial de navegación ni cookies.">
+<!ENTITY privatebrowsingpage.issueDesc.private2 "No guardaremos historial de navegación o cookies.">
 
-<!ENTITY privatebrowsingpage.description            "En pestañas privadas, &brandShortName; no guardará el historial de navegación, búsqueda, historial de descargas, formularios, cookies o archivos temporales de internet.  Sin embargo, los archivos descargados o los marcadores creados serán preservados.">
-<!ENTITY privatebrowsingpage.description.private    "&privatebrowsingpage.issueDesc.private; &privatebrowsingpage.description;">
+<!ENTITY privatebrowsingpage.description2 "Los marcadores que agregués y los archivos descargados se guardaran lo mismo en tu dispositivo.">
+<!ENTITY privatebrowsingpage.description.normal "&privatebrowsingpage.issueDesc.normal2; &privatebrowsingpage.description2;">
+<!ENTITY privatebrowsingpage.description.private2 "&privatebrowsingpage.issueDesc.private2; &privatebrowsingpage.description2;">
 
-<!ENTITY privatebrowsingpage.moreInfo               "Aunque este dispositivo no lleve un registro del historial de navegación, tu proveedor de internet aún puede rastrear las páginas visitadas.">
+<!ENTITY privatebrowsingpage.link.private "¿Querés saber más?">
+<!ENTITY privatebrowsingpage.link.normal "Abrir una nueva ventana privada">
