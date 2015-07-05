@@ -46,6 +46,7 @@
 <!ENTITY  font.langGroup.gurmukhi                 "Gurmukhi">
 <!ENTITY  font.langGroup.khmer                    "Khmer">
 <!ENTITY  font.langGroup.malayalam                "Malayo">
+<!ENTITY  font.langGroup.math                     "Matemáticas">
 <!ENTITY  font.langGroup.oriya                    "Oriya">
 <!ENTITY  font.langGroup.telugu                   "Telugu">
 <!ENTITY  font.langGroup.kannada                  "Kannada">
@@ -71,10 +72,9 @@
 <!ENTITY sendDefaultCharset.label         "Correo saliente:">
 <!ENTITY sendDefaultCharset.accesskey     "C">
 <!ENTITY languagesTitle2.label            "Codificación de texto">
-<!ENTITY composingDescription2.label      "Elija la codificación de texto predeterminada para enviar y recibir correo">
+<!ENTITY composingDescription2.label      "Establecer la codificación de caracteres predeterminada para enviar y recibir correo">
 
 <!ENTITY viewDefaultCharsetList.label     "Correo entrante:">
 <!ENTITY viewDefaultCharsetList.accesskey  "r">
-<!ENTITY replyInDefaultCharset3.label     "Cuando sea posible, usar en las respuestas la codificación de texto predeterminada">
-<!ENTITY replyInDefaultCharset3.accesskey "u">
-
+<!ENTITY replyInDefaultCharset3.label     "Usar en las respuestas la codificación de texto predeterminada cuando sea posible">
+<!ENTITY replyInDefaultCharset3.accesskey "U">

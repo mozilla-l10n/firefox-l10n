@@ -6,16 +6,16 @@
 <!ENTITY pref.locationBar.title                "Barra de navegación">
 
 <!ENTITY autoComplete.label                    "Autocompletar">
-<!ENTITY enableAutoComplete.label              "Autocompletar  desde su historia de navegación mientras escribe">
-<!ENTITY enableAutoComplete.accesskey          "A">
+<!ENTITY autoCompleteMatchHistory.label        "Sugerir sitios desde el historial automáticamente">
+<!ENTITY autoCompleteMatchHistory.accesskey    "A">
+<!ENTITY autoCompleteMatchBookmarks.label      "Sugerir sitios desde marcadores automáticamente">
+<!ENTITY autoCompleteMatchBookmarks.accesskey  "m">
 <!ENTITY autoCompleteAutoFill.label            "Llenar con la mejor coincidencia automáticamente">
 <!ENTITY autoCompleteAutoFill.accesskey        "u">
 <!ENTITY autoCompleteShowPopup.label           "Mostrar la lista de resultados coincidentes">
 <!ENTITY autoCompleteShowPopup.accesskey       "s">
 <!ENTITY autoCompleteMatchOnlyTyped.label      "Coincidir solamente con sitios que haya escrito previamente">
 <!ENTITY autoCompleteMatchOnlyTyped.accesskey  "o">
-<!ENTITY autoCompleteMatchOnlyURLs.label       "Coincidencia sólo con URL, no títulos de sitios">
-<!ENTITY autoCompleteMatchOnlyURLs.accesskey   "n">
 <!--LOCALIZATION NOTE (autoCompleteMatch.label): This is the common leading
   part of the menulist items listed below, mainly to make the control available
   via the accesskey
@@ -32,7 +32,7 @@
 <!ENTITY formatting.label                      "Formato">
 <!ENTITY domainFormatting.label                "Resaltar el dominio efectivo para sitios web y servidores FTP">
 <!ENTITY domainFormatting.accesskey            "d">
-<!ENTITY highlightSecure.label                 "Resaltar páginas web con un nive alto de seguridad de conexión">
+<!ENTITY highlightSecure.label                 "Resaltar páginas web con un nivel de seguridad de conexión alto">
 <!ENTITY highlightSecure.accesskey             "c">
 
 <!ENTITY unknownLocations.label                "Ubicaciones desconocidas">
