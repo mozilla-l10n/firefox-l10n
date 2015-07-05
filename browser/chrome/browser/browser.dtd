@@ -78,6 +78,7 @@
 <!ENTITY showAllTabsCmd.label "Показать все вкладки">
 <!ENTITY showAllTabsCmd.accesskey "в">
 <!ENTITY fxaSignIn.label "Войти в Синхронизацию">
+<!ENTITY fxaSignedIn.tooltip "Открыть настройки Синхронизации">
 <!ENTITY fxaSignInError.label "Снова подсоединиться к Синхронизации">
 <!ENTITY syncStartPanel2.heading "Синхронизация включена">
 <!ENTITY syncStartPanel2.subTitle "&brandShortName; сейчас начнёт синхронизироваться.">
@@ -555,6 +556,14 @@
 <!ENTITY mixedContentBlocked2.block.label "Включить защиту">
 <!ENTITY mixedContentBlocked2.block.accesskey "к">
 <!ENTITY mixedContentBlocked2.disabled.message "Защита отключена">
+<!ENTITY trackingProtection.title "Защита от отслеживания">
+<!ENTITY trackingProtection.detectedBlocked "Попытки отследить ваше поведение в Интернете были заблокированы.">
+<!ENTITY trackingProtection.detectedNotBlocked "Обнаружены элементы отслеживания. Вы отключили защиту на этом сайте.">
+<!ENTITY trackingProtection.notDetected "Элементы отслеживания на этом веб-сайте не обнаружены.">
+<!ENTITY trackingProtection.unblock.label "Отключить защиту для этого сайта">
+<!ENTITY trackingProtection.unblock.accesskey "к">
+<!ENTITY trackingProtection.block.label "Включить защиту для этого сайта">
+<!ENTITY trackingProtection.block.accesskey "ю">
 <!ENTITY trackingContentBlocked.message "Отслеживание">
 <!ENTITY trackingContentBlocked.moreinfo "Части страницы, которые отслеживали ваши действия в Интернете, были заблокированы.">
 <!ENTITY trackingContentBlocked.learnMore "Подробнее">

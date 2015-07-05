@@ -150,6 +150,7 @@
 <!ENTITY fxaccount_remove_account_dialog_message "&brandShortName; остановит синхронизацию с вашей учётной записью, но не будет удалять ничего из ваших данных веб-сёрфинга на этом устройстве.">
 <!ENTITY fxaccount_remove_account_toast "Учётная запись Firefox &formatS; удалена.">
 <!ENTITY fxaccount_remove_account_menu_item "Удалить учётную запись">
+<!ENTITY fxaccount_enable_debug_mode "Включить режим отладки">
 <!ENTITY fxaccount_account_type_label "Firefox">
 <!ENTITY fxaccount_options_title "Настройки Синхронизации">
 <!ENTITY fxaccount_options_configure_title "Настройка Синхронизации">
