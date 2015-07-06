@@ -5,7 +5,7 @@
 
 # LOCALIZATION NOTE: The 'en-US' strings in the URLs will be replaced with
 
-# your locale code, and link to your translated pages as soon as they're 
+# your locale code, and link to your translated pages as soon as they're
 
 # live.
 
@@ -25,7 +25,7 @@
 
 
 
-#define bookmarks_title Oyonib'äl
+#define bookmarks_title Oyonib\u0027äl
 
 
 
@@ -37,7 +37,7 @@
 
 
 
-#define bookmarks_aboutBrowser Firefox: Rutzijol richin yatok pa k'amaya'l
+#define bookmarks_aboutBrowser Firefox: Rutzijol richin yatok pa k\u0027amaya\u0027l
 
 
 
@@ -49,7 +49,7 @@
 
 
 
-#define bookmarks_addons Firefox: Tawichinaj rik'in taq tz'aqat
+#define bookmarks_addons Firefox: Tawichinaj rik\u0027in taq tz\u0027aqat
 
 
 
@@ -61,7 +61,7 @@
 
 
 
-#define bookmarks_support Firefox: To'ïk
+#define bookmarks_support Firefox: To\u0027ïk
 
 
 
