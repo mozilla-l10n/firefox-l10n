@@ -91,6 +91,12 @@
 <!ENTITY options.enableRemote.label3    "Povoliť vzdialené ladenie">
 <!ENTITY options.enableRemote.tooltip   "Zapnutie tejto voľby vám umožní používať vývojárske nástroje na ladenie vzdialených inštancií Firefoxu či napr. Firefox OS">
 
+<!-- LOCALIZATION NOTE (options.enableWorkers.label): This is the label for the
+  -  checkbox that toggles worker debugging, i.e. devtools.debugger.workers
+  -  boolean preference in about:config, in the options panel. -->
+<!ENTITY options.enableWorkers.label    "Povoliť ladenie workerov (vo vývoji)">
+<!ENTITY options.enableWorkers.tooltip  "Zapnutie tejto voľby vám umožní používať vývojárske nástroje na ladenie workerov">
+
 <!-- LOCALIZATION NOTE (options.disableJavaScript.label,
   -  options.disableJavaScript.tooltip): This is the options panel label and
   -  tooltip for the checkbox that toggles JavaScript on or off. -->
