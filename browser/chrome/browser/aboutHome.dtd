@@ -16,18 +16,26 @@
 <!-- LOCALIZATION NOTE (abouthome.defaultSnippet1.v1):
      text in <a/> will be linked to the Firefox features page on mozilla.com
 -->
-<!ENTITY abouthome.defaultSnippet1.v1 "Дякуємо, що обрали Firefox! Щоб використати його сповна, дізнайтесь більше про <a>нові можливості</a>.">
+<!ENTITY abouthome.defaultSnippet1.v1 "Дякуємо, що обрали Firefox! Щоб використовувати його сповна, дізнайтесь більше про <a>нові можливості</a>.">
 <!-- LOCALIZATION NOTE (abouthome.defaultSnippet2.v1):
      text in <a/> will be linked to the featured add-ons on addons.mozilla.org
 -->
-<!ENTITY abouthome.defaultSnippet2.v1 "Легко налаштувати Firefox саме під ваші потреби. <a>Вибирайте з тисяч додатків</a>.">
+<!ENTITY abouthome.defaultSnippet2.v1 "Ви можете легко пристосувати Firefox саме для своїх потреб. <a>Вибирайте серед тисяч додатків</a>.">
 <!-- LOCALIZATION NOTE (abouthome.rightsSnippet): text in <a/> will be linked to about:rights -->
 <!ENTITY abouthome.rightsSnippet "&brandFullName; є безплатною програмою з відкритим кодом від некомерційної Фундації Mozilla. <a>Знайте свої права…</a>">
 
 <!ENTITY abouthome.bookmarksButton.label "Закладки">
 <!ENTITY abouthome.historyButton.label   "Історія">
-<!ENTITY abouthome.settingsButton.label  "Налаштування">
+<!-- LOCALIZATION NOTE (abouthome.preferencesButtonWin.label): The label for the
+     preferences/options item on about:home on Windows -->
+<!ENTITY abouthome.preferencesButtonWin.label  "Налаштування">
+<!-- LOCALIZATION NOTE (abouthome.preferencesButtonUnix.label): The label for the
+     preferences/options item on about:home on Linux and OS X -->
+<!ENTITY abouthome.preferencesButtonUnix.label  "Налаштування">
 <!ENTITY abouthome.addonsButton.label    "Додатки">
-<!ENTITY abouthome.appsButton.label      "Магазин">
+<!-- LOCALIZATION NOTE (abouthome.appsButton2.label): This string should be consistent with
+     the Apps menu item in the Tools menu (webapps.label in browser.dtd) and the Apps toolbar button in
+     Firefox's customization palette (web-apps-button.label in customizableWidgets.properties) -->
+<!ENTITY abouthome.appsButton2.label      "Програми">
 <!ENTITY abouthome.downloadsButton.label "Завантаження">
 <!ENTITY abouthome.syncButton.label      "&syncBrand.shortName.label;">

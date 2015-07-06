@@ -14,8 +14,8 @@
 <!ENTITY pref.calendar.alarms.sound.useDefault.accessKey "т">
 <!ENTITY pref.calendar.alarms.sound.browse.label "Вибрати…">
 <!ENTITY pref.calendar.alarms.sound.browse.accessKey "В">
-<!ENTITY pref.calendar.alarms.sound.preview.label "Прослухати">
-<!ENTITY pref.calendar.alarms.sound.preview.accessKey "л">
+<!ENTITY pref.calendar.alarms.sound.play.label "Прослухати">
+<!ENTITY pref.calendar.alarms.sound.play.accessKey "л">
 <!ENTITY pref.showalarmbox "Показати вікно сповіщення">
 <!ENTITY pref.calendar.alarms.showAlarmBox.accessKey "к">
 <!ENTITY pref.missedalarms "Показувати пропущені сповіщення">
@@ -31,5 +31,6 @@
 <!ENTITY pref.defalarmlen4events.accesskey "с">
 <!ENTITY pref.defalarmlen4todos.label "Типовий час сповіщення перед завданням:">
 <!ENTITY pref.defalarmlen4todos.accesskey "в">
-<!ENTITY pref.defaultemail.label "Типова адреса для надсилання сповіщень:">
-<!ENTITY pref.defaulttext.label "Типовий текст для сповіщень:">
+
+<!ENTITY pref.defaultsnoozelength.label "Default Snooze Length:" >
+<!ENTITY pref.defaultsnoozelength.accesskey "S">

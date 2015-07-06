@@ -44,4 +44,23 @@
 <!ENTITY translation.errorTranslating.label     "Сталась помилка перекладу цієї сторінки.">
 <!ENTITY translation.tryAgain.button            "Спробувати знову">
 
+<!ENTITY translation.serviceUnavailable.label   "В даний момент переклад недоступний. Спробуйте знову пізніше.">
+
 <!ENTITY translation.options.menu               "Параметри">
+<!-- LOCALIZATION NOTE (translation.options.neverForSite.accesskey,
+  -                     translation.options.preferences.accesskey):
+  -  The accesskey values used here should not clash with the value used for
+  -  translation.options.neverForLanguage.accesskey in translation.properties
+  -->
+<!ENTITY translation.options.neverForSite.label "Ніколи не перекладати цей сайт">
+<!ENTITY translation.options.neverForSite.accesskey "с">
+<!ENTITY translation.options.preferences.label  "Налаштування перекладу">
+<!ENTITY translation.options.preferences.accesskey "п">
+
+<!-- LOCALIZATION NOTE (translation.options.attribution.beforeLogo,
+  -                     translation.options.attribution.afterLogo):
+  -  These 2 strings are displayed before and after a 'Microsoft Translator'
+  -  logo.
+  -->
+<!ENTITY translation.options.attribution.beforeLogo "Translations by">
+<!ENTITY translation.options.attribution.afterLogo "">

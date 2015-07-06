@@ -32,8 +32,6 @@
 <!ENTITY stopFilters.accesskey "С">
 <!ENTITY folderPickerPrefix.label "Запустити вибрані фільтр(и) в теці:">
 <!ENTITY folderPickerPrefix.accesskey "а">
-<!ENTITY choosethis.label "вибрати цю теку">
-<!ENTITY choosethisnewsserver.label "вибрати цей сервер новин">
 <!ENTITY helpButton.label "Довідка">
 <!ENTITY helpButton.accesskey "Д">
 <!ENTITY closeCmd.key "W"> 

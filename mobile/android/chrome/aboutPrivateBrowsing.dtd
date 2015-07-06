@@ -2,12 +2,15 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY privatebrowsingpage.title                  "Потайливий режим">
+<!ENTITY privatebrowsingpage.title                  "Приватний перегляд">
+<!ENTITY privatebrowsingpage.title.normal "Ви не в приватному перегляді">
 
-<!ENTITY privatebrowsingpage.issueDesc.private      "Ви відкрили нову потайливу вкладку.">
-<!ENTITY privatebrowsingpage.issueDesc.normal       "Наразі ви не в потайливій вкладці.">
+<!ENTITY privatebrowsingpage.issueDesc.normal2 "В приватному перегляді ми не будемо зберігати будь-яку історію перегляду чи куки.">
+<!ENTITY privatebrowsingpage.issueDesc.private2 "Ми не будемо зберігати будь-яку історію перегляду чи куки.">
 
-<!ENTITY privatebrowsingpage.description            "В приватних вкладках &brandShortName; не буде писати історію перегляду, пошуків, завантажень та форм. Також не писатимуться куки та тимчасові мережеві файли.  Однак завантажені вами файли та поставлені вами закладки лишаться.">
-<!ENTITY privatebrowsingpage.description.private    "&privatebrowsingpage.issueDesc.private; &privatebrowsingpage.description;">
+<!ENTITY privatebrowsingpage.description2 "Додані вами закладки та завантажені файли все одно будуть збережені на вашому пристрої.">
+<!ENTITY privatebrowsingpage.description.normal "&privatebrowsingpage.issueDesc.normal2; &privatebrowsingpage.description2;">
+<!ENTITY privatebrowsingpage.description.private2 "&privatebrowsingpage.issueDesc.private2; &privatebrowsingpage.description2;">
 
-<!ENTITY privatebrowsingpage.moreInfo               "Хоча цей пристрій і не буде мати історії ваших переглядів, ваш інтернет-провайдер все одно може відстежити які сторінки ви відвідуєте.">
+<!ENTITY privatebrowsingpage.link.private "Хочете дізнатися більше?">
+<!ENTITY privatebrowsingpage.link.normal "Відкрити нову приватну вкладку">

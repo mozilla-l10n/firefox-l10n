@@ -37,9 +37,11 @@ This is likely the same like id.heading in crashes.dtd. -->
 <!ENTITY aboutSupport.appBasicsTitle "Інформація про програму">
 <!ENTITY aboutSupport.appBasicsName "Назва">
 <!ENTITY aboutSupport.appBasicsVersion "Версія">
+<!ENTITY aboutSupport.appBasicsBuildID "ID збірки">
 
 <!-- LOCALIZATION NOTE (aboutSupport.appBasicsUpdateHistory, aboutSupport.appBasicsShowUpdateHistory):
 "Update" is a noun here, not a verb. -->
+<!ENTITY aboutSupport.appBasicsUpdateChannel "Канал оновлення">
 <!ENTITY aboutSupport.appBasicsUpdateHistory "Історія оновлень">
 <!ENTITY aboutSupport.appBasicsShowUpdateHistory "Показати історію оновлень">
 
@@ -54,6 +56,11 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 <!ENTITY aboutSupport.appBasicsUserAgent "User Agent">
 <!ENTITY aboutSupport.appBasicsMemoryUse "Використання пам’яті">
 
+<!-- LOCALIZATION NOTE the term "Service Workers" should not be translated. -->
+<!ENTITY aboutSupport.appBasicsServiceWorkers "Зареєстровані Service Workers">
+
+<!ENTITY aboutSupport.appBasicsMultiProcessSupport "Багатопроцесові вікна">
+
 <!ENTITY aboutSupport.showDir.label "Відкрити каталог">
 <!-- LOCALIZATION NOTE (aboutSupport.showMac.label): This is the Mac-specific
 variant of aboutSupport.showDir.label.  This allows us to use the preferred
@@ -61,7 +68,7 @@ variant of aboutSupport.showDir.label.  This allows us to use the preferred
 <!ENTITY aboutSupport.showMac.label "Відкрити відповідну теку">
 <!-- LOCALIZATION NOTE (aboutSupport.showWin.label): This is the Windows-specific
 variant of aboutSupport.showDir.label. -->
-<!ENTITY aboutSupport.showWin.label "Відкрити папку">
+<!ENTITY aboutSupport.showWin.label "Відкрити теку">
 
 <!ENTITY aboutSupport.modifiedKeyPrefsTitle "Важливі змінені налаштування">
 <!ENTITY aboutSupport.modifiedPrefsName "Назва">
@@ -70,6 +77,10 @@ variant of aboutSupport.showDir.label. -->
 <!-- LOCALIZATION NOTE (aboutSupport.userJSTitle, aboutSupport.userJSDescription): user.js is the name of the preference override file being checked. -->
 <!ENTITY aboutSupport.userJSTitle "Вподобання user.js">
 <!ENTITY aboutSupport.userJSDescription "Ваша папка профілю містить <a id='prefs-user-js-link'>файл user.js file</a> з вподобаннями, котрі не були створені програмою &brandShortName;.">
+
+<!ENTITY aboutSupport.lockedKeyPrefsTitle "Важливі заблоковані налаштування">
+<!ENTITY aboutSupport.lockedPrefsName "Назва">
+<!ENTITY aboutSupport.lockedPrefsValue "Значення">
 
 <!ENTITY aboutSupport.graphicsTitle "Графіка">
 
@@ -87,3 +98,8 @@ variant of aboutSupport.showDir.label. -->
 
 <!ENTITY aboutSupport.copyTextToClipboard.label "Копіювати текст у буфер">
 <!ENTITY aboutSupport.copyRawDataToClipboard.label "Копіювати необроблені дані в буфер">
+
+<!ENTITY aboutSupport.sandboxTitle "Пісочниця">
+
+<!ENTITY aboutSupport.safeModeTitle "Спробувати безпечний режим">
+<!ENTITY aboutSupport.restartInSafeMode.label "Перезапустити з вимкненими додатками…">

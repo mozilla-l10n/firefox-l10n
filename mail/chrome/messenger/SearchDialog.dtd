@@ -17,10 +17,8 @@
 <!ENTITY deleteButton.accesskey      "ч">
 <!ENTITY searchDialogTitle.label     "Пошук листів…">
 <!ENTITY results.label               "Результати">
-<!ENTITY fileHereMenu.label          "Помістити сюди">
-<!ENTITY fileHereMenu.accesskey      "ю">
-<!ENTITY fileButton.label            "Помістити">
-<!ENTITY fileButton.accesskey        "м">
+<!ENTITY moveButton.label            "Move To">
+<!ENTITY moveButton.accesskey        "T">
 <!ENTITY closeCmd.key                "W"> 
 <!ENTITY openInFolder.label          "Відкрити у теці">
 <!ENTITY openInFolder.accesskey      "т">
@@ -34,12 +32,15 @@
 <!ENTITY propertiesButton.accesskey  "л">
 <!ENTITY composeButton.label         "Написати">
 <!ENTITY composeButton.accesskey     "Н">
+<!ENTITY deleteCardButton.label      "Delete">
+<!ENTITY deleteCardButton.accesskey  "D">
 <!ENTITY abSearchDialogTitle.label   "Розширений режим пошуку в адресній книзі">
 
 <!-- Thread Pane -->
 <!ENTITY threadColumn.label "Гілка">
 <!ENTITY fromColumn.label "Відправник">
 <!ENTITY recipientColumn.label "Адресат">
+<!ENTITY correspondentColumn.label "Correspondents">
 <!ENTITY subjectColumn.label "Тема">
 <!ENTITY dateColumn.label "Дата">
 <!ENTITY priorityColumn.label "Важливість">
@@ -57,22 +58,23 @@
 <!ENTITY idColumn.label "Порядок отримання">
 
 <!-- Thread Pane Tooltips -->
-<!ENTITY columnChooser.tooltip "Натисніть, щоб вибрати видимі стовпчики">
-<!ENTITY threadColumn.tooltip "Натисніть тут, щоб переглянути гілку"> 
-<!ENTITY fromColumn.tooltip "Натисніть тут, щоб відсортувати листи за відправником">
-<!ENTITY recipientColumn.tooltip "Натисніть тут, щоб відсортувати листи за адресатом">
-<!ENTITY subjectColumn.tooltip "Натисніть тут, щоб відсортувати листи за темою">
-<!ENTITY dateColumn.tooltip "Натисніть тут, щоб відсортувати листи за датою">
-<!ENTITY priorityColumn.tooltip "Натисніть тут, щоб відсортувати листи по важливості">
-<!ENTITY tagsColumn.tooltip "Натисніть тут, щоб відсортувати листи за мітками">
-<!ENTITY accountColumn.tooltip "Натисніть тут, щоб відсортувати листи за обліковим записом">
-<!ENTITY statusColumn.tooltip "Натисніть тут, щоб відсортувати листи за станом">
-<!ENTITY sizeColumn.tooltip "Натисніть тут, щоб відсортувати листи за розміром">
-<!ENTITY junkStatusColumn.tooltip "Натисніть тут, щоб відсортувати листи за міткою спаму">
-<!ENTITY unreadColumn.tooltip "Число непрочитаних листів у гілці">
-<!ENTITY totalColumn.tooltip "Загальне число листів у гілці">
-<!ENTITY readColumn.tooltip "Натисніть тут, щоб відсортувати листи за прочитаностю">
-<!ENTITY receivedColumn.tooltip "Натисніть тут щоб відсортувати листи за датою отримання">
-<!ENTITY starredColumn.tooltip "Натисніть тут, щоб відсортувати листи за зірочкою">
-<!ENTITY locationColumn.tooltip "Натисніть тут, щоб відсортувати листи за їх розташуванням">
-<!ENTITY idColumn.tooltip "Натисніть тут, щоб відсортувати листи за порядком отримання">
+<!ENTITY columnChooser2.tooltip "Select columns to display">
+<!ENTITY threadColumn2.tooltip "Display message threads">
+<!ENTITY fromColumn2.tooltip "Sort by from">
+<!ENTITY recipientColumn2.tooltip "Sort by recipient">
+<!ENTITY correspondentColumn2.tooltip "Sort by correspondents">
+<!ENTITY subjectColumn2.tooltip "Sort by subject">
+<!ENTITY dateColumn2.tooltip "Sort by date">
+<!ENTITY priorityColumn2.tooltip "Sort by priority">
+<!ENTITY tagsColumn2.tooltip "Sort by tags">
+<!ENTITY accountColumn2.tooltip "Sort by account">
+<!ENTITY statusColumn2.tooltip "Sort by status">
+<!ENTITY sizeColumn2.tooltip "Sort by size">
+<!ENTITY junkStatusColumn2.tooltip "Sort by junk status">
+<!ENTITY unreadColumn2.tooltip "Number of unread messages in thread">
+<!ENTITY totalColumn2.tooltip "Total number of messages in thread">
+<!ENTITY readColumn2.tooltip "Sort by read">
+<!ENTITY receivedColumn2.tooltip "Sort by date received">
+<!ENTITY starredColumn2.tooltip "Sort by star">
+<!ENTITY locationColumn2.tooltip "Sort by location">
+<!ENTITY idColumn2.tooltip "Sort by order received">
