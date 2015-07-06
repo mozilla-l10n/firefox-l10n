@@ -4,13 +4,12 @@
 
 <!ENTITY itemGeneral.label "Generale">
 <!ENTITY dataChoicesTab.label "Scelta dei dati">
-<!ENTITY itemDisplay.label "Lettura e schermo">
 <!ENTITY itemUpdate.label "Aggiornamenti">
 <!ENTITY itemNetworking.label "Rete e spazio su disco">
 <!ENTITY itemCertificates.label "Certificati">
 <!ENTITY enableGlodaSearch.label "Attiva la ricerca globale e l'indicizzazione">
 <!ENTITY enableGlodaSearch.accesskey "E">
-<!ENTITY allowHWAccel.label "Utilizza l'accelerazione hardware quando disponibile">
+<!ENTITY allowHWAccel.label "Usa l'accelerazione hardware quando disponibile">
 <!ENTITY allowHWAccel.accesskey "h">
 <!ENTITY storeType.label "Modalità di salvataggio dei messaggi per i nuovi account:">
 <!ENTITY storeType.accesskey "T">
@@ -44,26 +43,6 @@
 <!ENTITY enableCrashReporter.label "Abilitare il Crash Reporter">
 <!ENTITY enableCrashReporter.accesskey "C">
 <!ENTITY crashReporterLearnMore.label "Ulteriori informazioni">
-<!ENTITY reading.caption "Lettura">
-<!ENTITY display.caption "Visualizzazione">
-<!ENTITY showCondensedAddresses.label 'Mostra solo il "nome visualizzato" per i contatti presenti nella rubrica'>
-<!ENTITY showCondensedAddresses.accesskey "o">
-<!ENTITY autoMarkAsRead.label "Segna automaticamente i messaggi come già letti">
-<!ENTITY autoMarkAsRead.accesskey "S">
-<!ENTITY markAsReadNoDelay.label "Appena visualizzati">
-<!ENTITY markAsReadNoDelay.accesskey "A">
-<!ENTITY markAsReadDelay.label "Dopo averli visualizzati per">
-<!ENTITY markAsReadDelay.accesskey "D">
-<!ENTITY secondsLabel.label "secondi">
-<!ENTITY openMsgIn.label "Apri i messaggi in:">
-<!ENTITY openMsgInNewTab.label "una nuova scheda">
-<!ENTITY openMsgInNewTab.accesskey "h">
-<!ENTITY reuseExpRadio0.label "una nuova finestra">
-<!ENTITY reuseExpRadio0.accesskey "u">
-<!ENTITY reuseExpRadio1.label "nella stessa finestra">
-<!ENTITY reuseExpRadio1.accesskey "n">
-<!ENTITY closeMsgOnMoveOrDelete.label "Chiudere la finestra (linguetta) del messaggio quando si sposta o si elimina">
-<!ENTITY closeMsgOnMoveOrDelete.accesskey "C">
 <!ENTITY updateApp.label "Aggiornamenti di &brandShortName;:">
 <!ENTITY updateAuto.label "Installa automaticamente aggiornamenti (consigliato: maggiore sicurezza)">
 <!ENTITY updateAuto.accesskey "n">
