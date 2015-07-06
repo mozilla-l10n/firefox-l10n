@@ -1,3 +1,6 @@
+# This Source Code Form is subject to the terms of the Mozilla Public
+# License, v. 2.0. If a copy of the MPL was not distributed with this
+# file, You can obtain one at http://mozilla.org/MPL/2.0/.
 #filter emptyLines
 
 # LOCALIZATION NOTE: The 'en-US' strings in the URLs will be replaced with
@@ -11,32 +14,27 @@
 #define bookmarks_toolbarfolder_description Додайте закладки у цю теку щоб побачити їх на панелі закладок
 
 # LOCALIZATION NOTE (getting_started):
-# link title for http://en-US.www.mozilla.com/en-US/firefox/central/
-#define getting_started Початкова сторінка
+# link title for https://www.mozilla.org/en-US/firefox/central/
+#define getting_started Початок роботи
 
 # LOCALIZATION NOTE (firefox_heading):
 # Firefox links folder name
 #define firefox_heading Mozilla Firefox
 
 # LOCALIZATION NOTE (firefox_help):
-# link title for http://en-US.www.mozilla.com/en-US/firefox/help/
-#define firefox_help Довідка та Поради
+# link title for https://support.mozilla.org/uk/products/firefox
+#define firefox_help Допомога та інструкції
 
 # LOCALIZATION NOTE (firefox_customize):
-# link title for http://en-US.www.mozilla.com/en-US/firefox/customize/
-#define firefox_customize Настройка Firefox
+# link title for https://www.mozilla.org/uk/firefox/desktop/customize/
+#define firefox_customize Пристосувати Firefox
 
 # LOCALIZATION NOTE (firefox_community):
-# link title for http://en-US.www.mozilla.com/en-US/firefox/community/
-#define firefox_community Приєднуйтесь до спільноти
+# link title for https://www.mozilla.org/uk/contribute/
+#define firefox_community Долучайтеся
 
 # LOCALIZATION NOTE (firefox_about):
-# link title for http://en-US.www.mozilla.com/en-US/firefox/about/
+# link title for https://www.mozilla.org/uk/about/
 #define firefox_about Про нас
-
-# LOCALIZATION NOTE (firefox_feedback):
-# link title for browser feedback page
-# currently used by Metro only: https://input.mozilla.org/feedback/metrofirefox
-#define firefox_feedback Дати відгук
 
 #unfilter emptyLines

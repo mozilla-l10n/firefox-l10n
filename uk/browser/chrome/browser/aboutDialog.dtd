@@ -10,8 +10,8 @@
 -->
 <!ENTITY update.checkForUpdatesButton.label       "Перевірити оновлення">
 <!ENTITY update.checkForUpdatesButton.accesskey   "П">
-<!ENTITY update.updateButton.label                "Перезапусти щоб оновитись">
-<!ENTITY update.updateButton.accesskey            "О">
+<!ENTITY update.updateButton.label2                "Перезапустити &brandShortName; для оновлення">
+<!ENTITY update.updateButton.accesskey            "о">
 <!ENTITY update.applyButtonBillboard.label        "Застосувати оновлення…">
 <!ENTITY update.applyButtonBillboard.accesskey    "З">
 
@@ -19,7 +19,7 @@
 <!-- LOCALIZATION NOTE (warningDesc.version): This is a warning about the experimental nature of Nightly and Aurora builds. It is only shown in those versions. -->
 <!ENTITY warningDesc.version        "&brandShortName; є експериментальним та може бути нестабільним.">
 <!-- LOCALIZATION NOTE (warningDesc.telemetryDesc): This is a notification that Nightly/Aurora builds automatically send Telemetry data back to Mozilla. It is only shown in those versions. "It" refers to brandShortName. -->
-<!ENTITY warningDesc.telemetryDesc  "Він автоматично надсилає у &vendorShortName; інформацію про швидкодію, апаратне забезпечення, використання та налаштування вашого переглядача, щоб допомогти зробити &brandShortName; кращим.">
+<!ENTITY warningDesc.telemetryDesc  "Він автоматично надсилає у &vendorShortName; інформацію про швидкодію, апаратне забезпечення, використання та налаштування вашого браузера, щоб допомогти зробити &brandShortName; кращим.">
 
 <!-- LOCALIZATION NOTE (community.exp.*) This paragraph is shown in "experimental" builds, i.e. Nightly and Aurora builds, instead of the other "community.*" strings below. -->
 <!ENTITY community.exp.start        "">
@@ -28,7 +28,7 @@
 <!ENTITY community.exp.middle       " є ">
 <!-- LOCALIZATION NOTE (community.exp.creditslink): This is a link title that links to about:credits. -->
 <!ENTITY community.exp.creditsLink  "глобальною спільнотою">
-<!ENTITY community.exp.end          ", яка працює над тим, щоб інтернет лишався відкритим, громадським та доступним для всіх.">
+<!ENTITY community.exp.end          ", яка працює над тим, щоб інтернет залишався відкритим, громадським та доступним для всіх.">
 
 <!ENTITY community.start2           "&brandShortName; був розроблений в ">
 <!-- LOCALIZATION NOTE (community.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
@@ -36,12 +36,15 @@
 <!ENTITY community.middle2          " — ">
 <!-- LOCALIZATION NOTE (community.creditsLink): This is a link title that links to about:credits. -->
 <!ENTITY community.creditsLink      "глобальній спільноті">
-<!ENTITY community.end3             ", яка працює над тим, щоб інтернет лишався відкритим, громадським та доступним для всіх.">
+<!ENTITY community.end3             ", яка працює над тим, щоб інтернет залишався відкритим, громадським та доступним для всіх.">
 
-<!ENTITY contribute.start           "Цікаво? ">
-<!-- LOCALIZATION NOTE (contribute.getInvolvedLink): This is a link title that links to http://www.mozilla.org/contribute/. -->
-<!ENTITY contribute.getInvolvedLink "Долучайтесь!">
-<!ENTITY contribute.end             "">
+<!ENTITY helpus.start               "Хочете допомогти? ">
+<!-- LOCALIZATION NOTE (helpus.donateLink): This is a link title that links to https://sendto.mozilla.org/page/contribute/Give-Now?source=mozillaorg_default_footer&ref=firefox_about&utm_campaign=firefox_about&utm_source=firefox&utm_medium=referral&utm_content=20140929_FireFoxAbout. -->
+<!ENTITY helpus.donateLink          "Зробіть внесок">
+<!ENTITY helpus.middle              " або ">
+<!-- LOCALIZATION NOTE (helpus.getInvolvedLink): This is a link title that links to http://www.mozilla.org/contribute/. -->
+<!ENTITY helpus.getInvolvedLink     "долучайтесь!">
+<!ENTITY helpus.end                 "">
 
 <!-- LOCALIZATION NOTE (bottomLinks.license): This is a link title that links to about:license. -->
 <!ENTITY bottomLinks.license        "Ліцензійна інформація">

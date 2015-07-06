@@ -40,7 +40,33 @@
 <!ENTITY lightning.calendarproperties.email.label               "E-Mail:">
 
 <!-- iMIP Bar (meeting support) -->
-<!ENTITY lightning.imipbar.description "Цей лист містить запрошення на подію.">
+<!ENTITY lightning.imipbar.btnAccept.label                                  "Прийняти">
+<!ENTITY lightning.imipbar.btnAccept2.tooltiptext                           "Прийняти запрошення на подію">
+<!ENTITY lightning.imipbar.btnAcceptRecurrences.label                       "Прийняти все">
+<!ENTITY lightning.imipbar.btnAcceptRecurrences2.tooltiptext                "Прийняти запрошення на подію для всіх випадків події">
+<!ENTITY lightning.imipbar.btnAdd.label                                     "Додати">
+<!ENTITY lightning.imipbar.btnAdd.tooltiptext                               "Додати подію в календар">
+<!ENTITY lightning.imipbar.btnDecline.label                                 "Відхилити">
+<!ENTITY lightning.imipbar.btnDecline2.tooltiptext                          "Відхилити запрошення на подію">
+<!ENTITY lightning.imipbar.btnDeclineRecurrences.label                      "Відхилити все">
+<!ENTITY lightning.imipbar.btnDeclineRecurrences2.tooltiptext               "Відхилити запрошення на подію для всіх випадків події">
+<!ENTITY lightning.imipbar.btnDelete.label                                  "Вилучити">
+<!ENTITY lightning.imipbar.btnDelete.tooltiptext                            "Вилучити з календаря">
+<!ENTITY lightning.imipbar.btnDetails.label                                 "Подробиці…">
+<!ENTITY lightning.imipbar.btnDetails.tooltiptext                           "Показати подробиці події">
+<!ENTITY lightning.imipbar.btnMore.label                                    "Більше">
+<!ENTITY lightning.imipbar.btnMore.tooltiptext                              "Натисніть для показу додаткових можливостей">
+<!ENTITY lightning.imipbar.btnReconfirm2.label                              "Підтвердити заново">
+<!ENTITY lightning.imipbar.btnReconfirm.tooltiptext                         "Надсилає повторне підтвердження організатору">
+<!ENTITY lightning.imipbar.btnSaveCopy.label                                "Зберегти копію">
+<!ENTITY lightning.imipbar.btnSaveCopy.tooltiptext                          "Зберегти копію події в календар незалежно від відповіді організатору. Список присутніх буде очищений.">
+<!ENTITY lightning.imipbar.btnTentative.label                               "Попередньо">
+<!ENTITY lightning.imipbar.btnTentative2.tooltiptext                        "Попередньо прийняти запрошення на подію">
+<!ENTITY lightning.imipbar.btnTentativeRecurrences.label                    "Попередньо все">
+<!ENTITY lightning.imipbar.btnTentativeRecurrences2.tooltiptext             "Попередньо прийняти запрошення на подію для всіх випадків події">
+<!ENTITY lightning.imipbar.btnUpdate.label                                  "Оновити">
+<!ENTITY lightning.imipbar.btnUpdate.tooltiptext                            "Оновити подію в календарі">
+<!ENTITY lightning.imipbar.description                                      "Це повідомлення містить запрошення на подію.">
 
 <!-- Lightning specific keybindings -->
 <!ENTITY lightning.keys.event.showCalendar.key "C">

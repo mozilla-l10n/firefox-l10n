@@ -24,6 +24,28 @@
 <!ENTITY saveButton.tooltip         "Зберегти цю таблицю стилів у файл">
 <!ENTITY saveButton.accesskey       "З">
 
+<!ENTITY optionsButton.tooltip      "Налаштування редактора стилів">
+
+<!-- LOCALIZATION NOTE  (showOriginalSources.label): This is the label on the context
+     menu item to toggle showing original sources in the editor. -->
+<!ENTITY showOriginalSources.label     "Показати оригінальні джерела">
+
+<!-- LOCALIZATION NOTE  (showOriginalSources.accesskey): This is the access key for
+     the menu item to toggle showing original sources in the editor. -->
+<!ENTITY showOriginalSources.accesskey  "о">
+
+<!-- LOCALIZATION NOTE  (showMediaSidebar.label): This is the label on the context
+     menu item to toggle showing @media rule shortcuts in a sidebar. -->
+<!ENTITY showMediaSidebar.label     "Показати бічну панель @media">
+
+<!-- LOCALIZATION NOTE  (showMediaSidebar.accesskey): This is the access key for
+     the menu item to toggle showing the @media sidebar. -->
+<!ENTITY showMediaSidebar.accesskey     "б">
+
+<!-- LOCALICATION NOTE  (mediaRules.label): This is shown above the list of @media rules
+     in each stylesheet editor sidebar. -->
+<!ENTITY mediaRules.label           "Правила @media">
+
 <!ENTITY editorTextbox.placeholder  "Введіть код CSS тут.">
 
 <!-- LOCALICATION NOTE  (noStyleSheet.label): This is shown when a page has no
@@ -39,3 +61,7 @@
 <!ENTITY noStyleSheet-tip-action.label "додати нову таблицю стилів">
 <!-- LOCALICATION NOTE  (noStyleSheet-tip-end.label): End of the tip sentence -->
 <!ENTITY noStyleSheet-tip-end.label    "?">
+
+<!-- LOCALIZATION NOTE (openLinkNewTab.label): This is the text for the
+     context menu item that opens a stylesheet in a new tab -->
+<!ENTITY openLinkNewTab.label     "Відкрити посилання в новій вкладці">

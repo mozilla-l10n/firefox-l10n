@@ -16,7 +16,8 @@
 <!ENTITY pasteAsQuotationCmd.label "Вставити як цитату">
 <!ENTITY pasteAsQuotationCmd.accesskey "ц">
 <!ENTITY pasteAsQuotationCmd.key "o">
-<!ENTITY findCmd.label "Знайти і замінити…">
+<!ENTITY findBarCmd.label "Find…">
+<!ENTITY findReplaceCmd.label "Find and Replace…">
 <!ENTITY enableInlineSpellChecker.label "Перевірка орфографії під час набору">
 <!ENTITY enableInlineSpellChecker.accesskey "ч">
 <!ENTITY checkSpellingCmd2.label "Перевірити правопис">
@@ -39,6 +40,8 @@
 <!ENTITY insertTableCmd.accesskey "Т">
 <!ENTITY insertHTMLCmd.label "HTML…">
 <!ENTITY insertHTMLCmd.accesskey "H">
+<!ENTITY insertMathCmd.label "Math…">
+<!ENTITY insertMathCmd.accesskey "M">
 <!ENTITY insertCharsCmd.label "Літери і символи…">
 <!ENTITY insertCharsCmd.accesskey "Л">
 <!ENTITY insertBreakAllCmd.label "Розрив під зображеннями">
@@ -70,12 +73,12 @@
 <!ENTITY FontSizeSelect.tooltip "Вибір розміру шрифту">
 <!ENTITY decreaseFontSize.label "Менше">
 <!ENTITY decreaseFontSize.accesskey "М">
-<!ENTITY decreaseFontSize.key "-">
-<!ENTITY decreaseFontSize.key2 ","> <!-- < is above this key on many keyboards -->
+<!ENTITY decrementFontSize.key "&lt;">
+<!ENTITY decrementFontSize.key2 ","> <!-- < is above this key on many keyboards -->
 <!ENTITY increaseFontSize.label "Більше">
 <!ENTITY increaseFontSize.accesskey "Б">
-<!ENTITY increaseFontSize.key "+">
-<!ENTITY increaseFontSize.key2 "="> <!-- > is above this key on many keyboards -->
+<!ENTITY incrementFontSize.key "&gt;">
+<!ENTITY incrementFontSize.key2 "."> <!-- > is above this key on many keyboards -->
 
 <!ENTITY fontSizeMenu.label "Розмір">
 <!ENTITY fontSizeMenu.accesskey "Р">
@@ -323,7 +326,7 @@
 <!ENTITY alignLeftButton.tooltip "Вирівнювання тексту уздовж лівого краю">
 <!ENTITY alignCenterButton.tooltip "Вирівнювання тексту по центру">
 <!ENTITY alignRightButton.tooltip "Вирівнювання тексту уздовж правого краю">
-<!ENTITY alignJustifyButton.tooltip "Align text along left and right margins">
+<!ENTITY alignJustifyButton.tooltip "Вирівнювання тексту по лівому та правому краю">
 
 <!-- Structure Toolbar Context Menu items -->
 <!ENTITY structSelect.label         "Вибрати">

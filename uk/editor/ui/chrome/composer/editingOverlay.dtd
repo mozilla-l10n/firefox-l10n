@@ -15,8 +15,8 @@
 <!ENTITY saveCmd.accesskey "З">
 <!ENTITY saveAsCmd.label "Зберегти як…">
 <!ENTITY saveAsCmd.accesskey "я">
-<!ENTITY saveAsChangeEncodingCmd.label "Зберегти та змінити кодування символів">
-<!ENTITY saveAsChangeEncodingCmd.accesskey "к">
+<!ENTITY saveAsChangeEncodingCmd2.label "Зберегти та змінити кодування символів">
+<!ENTITY saveAsChangeEncodingCmd2.accesskey "к">
 <!ENTITY publishCmd.label "Опублікувати">
 <!ENTITY publishCmd.accesskey "п">
 <!ENTITY publishCmd.key "S">
@@ -30,8 +30,8 @@
 <!ENTITY publishSettings.accesskey "Н">
 
 <!-- Toolbar buttons/items -->
-<!ENTITY newToolbarCmd.label "New">
-<!ENTITY newToolbarCmd.tooltip "Create a new Composer page">
+<!ENTITY newToolbarCmd.label "Новий">
+<!ENTITY newToolbarCmd.tooltip "Створити нову сторінку">
 <!ENTITY openToolbarCmd.label "Відкрити">
 <!ENTITY openToolbarCmd.tooltip "Відкрити локальний файл">
 <!ENTITY saveToolbarCmd.tooltip "Зберегти файл до локального розташування">

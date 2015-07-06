@@ -5,10 +5,10 @@
 <!ENTITY folderProps.windowtitle.label           "Властивості">
 
 <!ENTITY generalInfo.label                       "Основна інформація">
-<!ENTITY folderCharsetTab.label                  "Кодування за умовчанням:">
-<!ENTITY folderCharsetTab.accesskey              "К">
-<!ENTITY folderCharsetOverride.label             "Використовувати як кодування за умовчанням для всіх повідомлень в теці (ігнорувати кодування, визначені для окремих повідомлень, і автовизначення).">
-<!ENTITY folderCharsetOverride.accesskey         "м">
+<!ENTITY folderCharsetFallback2.label            "Fallback Text Encoding:">
+<!ENTITY folderCharsetFallback2.accesskey        "E">
+<!ENTITY folderCharsetEnforce2.label             "Apply encoding to all messages in the folder (individual message text encoding settings and auto-detection will be ignored)">
+<!ENTITY folderCharsetEnforce2.accesskey         "A">
 <!ENTITY folderRebuildSummaryFileTip2.label      "Перебудувати файл індекса">
 <!ENTITY folderRebuildSummaryFile2.label         "Відремонтувати теку">
 <!ENTITY folderRebuildSummaryFile2.accesskey     "ч">

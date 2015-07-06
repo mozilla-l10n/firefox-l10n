@@ -13,8 +13,8 @@
 <!ENTITY  selectall.accesskey   "и">
 <!ENTITY  closeWindow.key       "w">
 
-<!ENTITY  generalTab            "Загальне">
-<!ENTITY  generalTab.accesskey  "З">
+<!ENTITY  generalTab            "Основна">
+<!ENTITY  generalTab.accesskey  "с">
 <!ENTITY  generalURL            "Адреса:">
 <!ENTITY  generalType           "Тип:">
 <!ENTITY  generalMode           "Режим відображення:">
@@ -22,11 +22,9 @@
 <!ENTITY  generalReferrer       "URL, що посилається:">
 <!ENTITY  generalSource         "Джерело кешування:">
 <!ENTITY  generalModified       "Остання зміна:">
-<!ENTITY  generalEncoding       "Кодування:">
+<!ENTITY  generalEncoding2       "Кодування:">
 <!ENTITY  generalMetaName       "Назва">
 <!ENTITY  generalMetaContent    "Зміст">
-<!ENTITY  generalSecurityDetails   "Докладніше">
-<!ENTITY  generalSecurityDetails.accesskey "е">
 
 <!ENTITY  mediaTab              "Мультимедіа">
 <!ENTITY  mediaTab.accesskey    "М">
@@ -65,7 +63,6 @@
 
 <!ENTITY  securityTab           "Безпека">
 <!ENTITY  securityTab.accesskey "з">
-<!ENTITY  securityHeader        "Інформація щодо безпеки цієї сторінки">
 <!ENTITY  securityView.certView "Переглянути сертифікат">
 <!ENTITY  securityView.accesskey "ф">
 <!ENTITY  securityView.unknown   "Невідомий">
@@ -86,3 +83,5 @@
 <!ENTITY  securityView.privacy.viewPasswords.accessKey  "п">
 
 <!ENTITY  securityView.technical.header                 "Технічні подробиці">
+
+<!ENTITY  helpButton.label                              "Допомога">

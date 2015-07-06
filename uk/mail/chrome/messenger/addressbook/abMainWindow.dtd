@@ -3,7 +3,8 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY addressbookWindow.title                        "Адресна книга">
-
+<!ENTITY blankResultsPaneMessage.label                  "This address book shows contacts only after a search">
+<!ENTITY localResultsOnlyMessage.label                  "Contacts from remote address books are not shown until you search">
 <!-- File Menu -->
 <!ENTITY fileMenu.label                                 "Файл">
 <!ENTITY fileMenu.accesskey                             "Ф">
@@ -74,8 +75,8 @@
 <!-- LOCALIZATION NOTE (hideSwapFnLnUI) : DONT_TRANSLATE -->
 <!-- Swap FN/LN UI  Set to "false" to show swap fn/ln UI -->
 <!ENTITY hideSwapFnLnUI "true">
-<!ENTITY propertiesCmd.label                            "Властивості…">
-<!ENTITY propertiesCmd.accesskey                        "т">
+<!ENTITY propertiesCmd2.label                            "Властивості">
+<!ENTITY propertiesCmd2.accesskey                        "т">
 <!ENTITY propertiesCmd.key                              "i">
 
 <!-- View Menu -->
@@ -122,8 +123,8 @@ because displayed names don't have the comma in between. -->
 <!ENTITY importCmd.accesskey                            "І">
 <!ENTITY exportCmd.label                                "Експорт…">
 <!ENTITY exportCmd.accesskey                            "Е">
-<!ENTITY preferencesCmd.label                           "Налаштування…">
-<!ENTITY preferencesCmd.accesskey                       "Н">
+<!ENTITY preferencesCmd2.label                           "Налаштування…">
+<!ENTITY preferencesCmd2.accesskey                       "Н">
 <!ENTITY preferencesCmdUnix.label                       "Налаштування">
 <!ENTITY preferencesCmdUnix.accesskey                   "Н">
 
@@ -160,6 +161,8 @@ because displayed names don't have the comma in between. -->
 <!ENTITY searchItem.title "Quick Search">
 
 <!-- Results Pane -->
+<!ENTITY Addrbook.label                                 "Address Book">
+<!ENTITY Addrbook.accesskey                             "B">
 <!ENTITY GeneratedName.label                            "Ім’я">
 <!ENTITY GeneratedName.accesskey                        "І">
 <!ENTITY PrimaryEmail.label                             "Електронна пошта">
