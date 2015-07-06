@@ -4,7 +4,6 @@
 
 <!ENTITY itemGeneral.label "Generale">
 <!ENTITY dataChoicesTab.label "Scelta dei dati">
-<!ENTITY itemDisplay.label "Lettura e schermo">
 <!ENTITY itemUpdate.label "Aggiornamenti">
 <!ENTITY itemNetworking.label "Rete e spazio su disco">
 <!ENTITY itemCertificates.label "Certificati">
@@ -36,34 +35,14 @@
 <!ENTITY showReturnReceipts.accesskey "R">
 <!ENTITY telemetrySection.label "Telemetria">
 <!ENTITY telemetryDesc.label "Condivide dati sulle prestazioni, sull'uso, sull'hardware e sulle personalizzazioni del programma di email con &vendorShortName; per aiutarci a migliorare &brandShortName; ">
-<!ENTITY enableTelemetry.label "Abilitare la telemetria">
+<!ENTITY enableTelemetry.label "Attivare la telemetria">
 <!ENTITY enableTelemetry.accesskey "T">
 <!ENTITY telemetryLearnMore.label "Ulteriori informazioni">
 <!ENTITY crashReporterSection.label "Crash Reporter">
 <!ENTITY crashReporterDesc.label "&brandShortName; invia rapporti di crash per aiutare &vendorShortName; a farlo diventare più stabile e sicuro">
-<!ENTITY enableCrashReporter.label "Abilitare il Crash Reporter">
+<!ENTITY enableCrashReporter.label "Attivare il Crash Reporter">
 <!ENTITY enableCrashReporter.accesskey "C">
 <!ENTITY crashReporterLearnMore.label "Ulteriori informazioni">
-<!ENTITY reading.caption "Lettura">
-<!ENTITY display.caption "Visualizzazione">
-<!ENTITY showCondensedAddresses.label 'Mostra solo il "nome visualizzato" per i contatti presenti nella rubrica'>
-<!ENTITY showCondensedAddresses.accesskey "o">
-<!ENTITY autoMarkAsRead.label "Segna automaticamente i messaggi come già letti">
-<!ENTITY autoMarkAsRead.accesskey "S">
-<!ENTITY markAsReadNoDelay.label "Appena visualizzati">
-<!ENTITY markAsReadNoDelay.accesskey "A">
-<!ENTITY markAsReadDelay.label "Dopo averli visualizzati per">
-<!ENTITY markAsReadDelay.accesskey "D">
-<!ENTITY secondsLabel.label "secondi">
-<!ENTITY openMsgIn.label "Apri i messaggi in:">
-<!ENTITY openMsgInNewTab.label "una nuova scheda">
-<!ENTITY openMsgInNewTab.accesskey "h">
-<!ENTITY reuseExpRadio0.label "una nuova finestra">
-<!ENTITY reuseExpRadio0.accesskey "u">
-<!ENTITY reuseExpRadio1.label "nella stessa finestra">
-<!ENTITY reuseExpRadio1.accesskey "n">
-<!ENTITY closeMsgOnMoveOrDelete.label "Chiudere la finestra (linguetta) del messaggio quando si sposta o si elimina">
-<!ENTITY closeMsgOnMoveOrDelete.accesskey "C">
 <!ENTITY updateApp.label "Aggiornamenti di &brandShortName;:">
 <!ENTITY updateAuto.label "Installa automaticamente aggiornamenti (consigliato: maggiore sicurezza)">
 <!ENTITY updateAuto.accesskey "n">

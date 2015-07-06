@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY dockOptionsDialog.title "Opzioni icona applicazione">
-<!ENTITY window.macWidth "44em">
+<!ENTITY window.macWidth "48em">
 <!ENTITY bounceSystemDockIcon.label "Anima l'icona dell'app quando arriva un nuovo messaggio">
 <!ENTITY bounceSystemDockIcon.accesskey "i">
 <!ENTITY newMessagesCountDock.label "Contatore nuovi messaggi">
