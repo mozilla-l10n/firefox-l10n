@@ -3,17 +3,17 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY window.title "Benvenuti in &brandShortName;">
-<!ENTITY header2.label "Si desidera un nuovo indirizzo di posta?">
-<!ENTITY other.languages "Vengono mostrati solamente i fornitori che forniscono indirizzi nella tua area. Click qua per mostrare tutti i fornitori.">
-<!ENTITY error.line1 "Siamo spiacenti, non abbiamo trovato alcuna email suggerita.">
-<!ENTITY error.line2 "È possibile cercare fra i soprannomi o altri termini per trovare altre email">
+<!ENTITY header2.label "Si desidera creare un nuovo indirizzo di posta?">
+<!ENTITY other.languages "Mostreremo solamente i fornitori che forniscono indirizzi nella propria zona geografica. Fare click per mostrare l'elenco dei fornitori.">
+<!ENTITY error.line1 "Siamo spiacenti, non riusciamo a suggerire alcun indirizzo di posta elettronica.">
+<!ENTITY error.line2 "È possibile cercare soprannomi o altri termini per trovare indirizzi di posta diversi">
 <!ENTITY error.suggest.before "È anche possibile trovare una delle ">
-<!ENTITY error.suggest.middle "email gratuite alternative">
+<!ENTITY error.suggest.middle "email gratuite diverse">
 <!ENTITY error.suggest.after ".">
 <!ENTITY success.title.before "Ciao ">
-<!ENTITY success.title.after ", sono disponibili le seguenti email:">
+<!ENTITY success.title.after ", sono disponibili i seguenti indirizzi di posta:">
 <!ENTITY success.tip "(È anche possibile cercare per soprannome o altri termini per trovare più email)">
-<!ENTITY partnership.description "&brandShortName; è grado di offrire un nuovo account di posta elettronica in collaborazione con diversi provider. Per cominciare è sufficiente inserire nome e cognome, o qualsiasi altra parola che si desideri.">
+<!ENTITY partnership.description "&brandShortName; è grado di offrire un nuovo account di posta elettronica in collaborazione con diversi provider. Per cominciare è sufficiente inserire nome e cognome, o qualsiasi altra parola si desideri.">
 <!ENTITY existing.header "Si dispone già di un indirizzo che si desidera utilizzare?">
 <!ENTITY tinyheader.title "Si dispone di un indirizzo?">
 <!ENTITY tinyheader.existing "Saltare questo passaggio e utilizzare un indirizzo esistente">

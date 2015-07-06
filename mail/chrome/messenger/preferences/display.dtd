@@ -4,6 +4,7 @@
 
 <!ENTITY itemFormatting.label "Formato">
 <!ENTITY itemTags.label "Etichette">
+<!ENTITY itemAdvanced.label "Avanzate">
 <!ENTITY style.label "Stile:">
 <!ENTITY style.accesskey "e">
 <!ENTITY regularStyle.label "Regolare">
@@ -37,3 +38,23 @@
 <!ENTITY fontOptions.label "Avanzate…">
 <!ENTITY colorButton.label "Colori…">
 <!ENTITY colorButton.accesskey "l">
+<!ENTITY reading.caption "in lettura">
+<!ENTITY display.caption "Visualizzazione">
+<!ENTITY showCondensedAddresses.label "mostra solo il nome visualizzato per le persone nella rubrica">
+<!ENTITY showCondensedAddresses.accesskey "m">
+<!ENTITY autoMarkAsRead.label "Contrassegnare automaticamente i messaggi come letti">
+<!ENTITY autoMarkAsRead.accesskey "C">
+<!ENTITY markAsReadNoDelay.label "immediatamente dopo averlo mostrato">
+<!ENTITY markAsReadNoDelay.accesskey "o">
+<!ENTITY markAsReadDelay.label "dopo averlo mostrato per">
+<!ENTITY markAsReadDelay.accesskey "d">
+<!ENTITY secondsLabel.label "secondi">
+<!ENTITY openMsgIn.label "Aprire i messaggi in:">
+<!ENTITY openMsgInNewTab.label "una nuova linguetta">
+<!ENTITY openMsgInNewTab.accesskey "t">
+<!ENTITY reuseExpRadio0.label "una nuova finestra">
+<!ENTITY reuseExpRadio0.accesskey "n">
+<!ENTITY reuseExpRadio1.label "una finestra esistente">
+<!ENTITY reuseExpRadio1.accesskey "e">
+<!ENTITY closeMsgOnMoveOrDelete.label "Chiudere la finestra/linguetta del messaggio in caso sia spostato o cancellato">
+<!ENTITY closeMsgOnMoveOrDelete.accesskey "C">
