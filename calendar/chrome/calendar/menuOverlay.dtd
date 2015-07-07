@@ -9,41 +9,42 @@
 <!ENTITY event.new.task                         "Нове завдання…">
 <!ENTITY event.new.task.accesskey               "з">
 
-<!ENTITY calendar.import.label                  "Import…">
-<!ENTITY calendar.import.accesskey              "I">
+<!ENTITY calendar.import.label                  "Імпорт…">
+<!ENTITY calendar.import.accesskey              "І">
 
-<!ENTITY calendar.export.label                  "Export…">
-<!ENTITY calendar.export.accesskey              "E">
+<!ENTITY calendar.export.label                  "Експорт…">
+<!ENTITY calendar.export.accesskey              "Е">
 
-<!ENTITY calendar.publish.label                 "Publish…">
-<!ENTITY calendar.publish.accesskey             "b">
+<!ENTITY calendar.publish.label                 "Публікація…">
+<!ENTITY calendar.publish.accesskey             "б">
 
-<!ENTITY calendar.deletecalendar.label          "Delete Selected Calendar…">
-<!ENTITY calendar.deletecalendar.accesskey      "D">
-<!ENTITY calendar.unsubscribecalendar.label     "Unsubscribe Selected Calendar…">
-<!ENTITY calendar.unsubscribecalendar.accesskey "U">
+<!ENTITY calendar.deletecalendar.label          "Вилучити вибраний календар…">
+<!ENTITY calendar.deletecalendar.accesskey      "В">
+<!ENTITY calendar.unsubscribecalendar.label     "Відписатися від вибраного календаря…">
+<!ENTITY calendar.unsubscribecalendar.accesskey "д">
 
 <!-- LOCALIZATION NOTE (calendar.removecalendar.label): Removing the calendar
       is the general action of removing it, while deleting means to clear the
       data and unsubscribing means just taking it out of the calendar list. -->
-<!ENTITY calendar.removecalendar.label          "Remove Selected Calendar…">
-<!ENTITY calendar.removecalendar.accesskey      "R">
+<!ENTITY calendar.removecalendar.label          "Прибрати вибраний календар…">
+<!ENTITY calendar.removecalendar.accesskey      "и">
 
 
-<!ENTITY calendar.menu.customize.label          "Customize…">
-<!ENTITY calendar.menu.customize.accesskey      "C">
+<!ENTITY calendar.menu.customize.label          "Пристосувати…">
+<!ENTITY calendar.menu.customize.accesskey      "с">
 
-<!ENTITY showUnifinderCmd.label                 "Find Events">
-<!ENTITY showUnifinderCmd.accesskey             "F">
+<!ENTITY showUnifinderCmd.label                 "Знайти події">
+<!ENTITY showUnifinderCmd.accesskey             "н">
+<!ENTITY showUnifinderCmd.tooltip               "Перемкнути панель знаходження подій">
 
-<!ENTITY calendar.displaytodos.checkbox.label       "Show Tasks in Calendar">
-<!ENTITY calendar.displaytodos.checkbox.accesskey   "T">
+<!ENTITY calendar.displaytodos.checkbox.label       "Показувати завдання в календарі">
+<!ENTITY calendar.displaytodos.checkbox.accesskey   "о">
 
-<!ENTITY goTodayCmd.label                       "Today">
-<!ENTITY goTodayCmd.accesskey                   "T">
+<!ENTITY goTodayCmd.label                       "Сьогодні">
+<!ENTITY goTodayCmd.accesskey                   "г">
 
-<!ENTITY showCurrentView.label                  "Current View">
-<!ENTITY showCurrentView.accesskey              "V">
+<!ENTITY showCurrentView.label                  "Поточний вигляд">
+<!ENTITY showCurrentView.accesskey              "ч">
 
-<!ENTITY calendar.properties.label              "Calendar Properties…">
-<!ENTITY calendar.properties.accesskey          "C">
+<!ENTITY calendar.properties.label              "Властивості календаря…">
+<!ENTITY calendar.properties.accesskey          "л">
