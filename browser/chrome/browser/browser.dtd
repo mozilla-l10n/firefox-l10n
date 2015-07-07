@@ -276,6 +276,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
   -  application menu item that opens the browser content toolbox UI in the Tools menu.
   -  This toolbox allows to debug the chrome of the content process in multiprocess builds.  -->
 <!ENTITY browserContentToolboxMenu.label     "Nástroje pro ladění prohlížeče">
+<!ENTITY browserContentToolboxMenu.accesskey "l">
 
 <!ENTITY devToolbarCloseButton.tooltiptext "Zavře lištu vývoje">
 <!ENTITY devToolbarMenu.label "Lišta vývoje">
@@ -305,6 +306,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY newNavigatorCmd.accesskey      "N">
 <!ENTITY newPrivateWindow.label     "Anonymní okno">
 <!ENTITY newPrivateWindow.accesskey "a">
+<!ENTITY newNonRemoteWindow.label   "Nové non-e10s okno">
 
 <!ENTITY editMenu.label         "Úpravy"> 
 <!ENTITY editMenu.accesskey       "a"> 
@@ -671,29 +673,14 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY editBookmark.cancel.label "Zrušit">
 <!ENTITY editBookmark.removeBookmark.accessKey "S">
 
-<!ENTITY identity.unverifiedsite2 "Tato stránka neposkytuje informace o své identitě.">
-<!ENTITY identity.connectedTo "Jste připojeni k serveru">
-<!-- Localization note (identity.runBy) : This string appears between a
-domain name (above) and an organization name (below). E.g.
+<!ENTITY identity.connectionSecure "Zabezpečené přípojení">
+<!ENTITY identity.connectionNotSecure "Připojení není zabezpečeno">
+<!ENTITY identity.connectionVerified "Aplikace &brandShortName; ověřila, že jste zabezpečeně připojeni na tuto stránku, provozovanou:">
+<!ENTITY identity.connectionInternal "Toto je zabezpečená stránka aplikace &brandShortName;.">
 
-example.com
-which is run by
-Example Enterprises, Inc.
-
-The layout of the identity dialog prevents combining this into a single string with
-substitution variables. If it is difficult to translate the sense of the string
-with that structure, consider a translation which ignores the preceding domain and
-just addresses the organization to follow, e.g. "This site is run by " -->
-<!ENTITY identity.runBy "který je provozován">
-
-<!ENTITY identity.moreInfoLinkText "Více informací…">
+<!ENTITY identity.moreInfoLinkText2 "Další informace">
 
 <!ENTITY identity.permissions "Oprávnění">
-
-<!-- LOCALIZATION NOTE (identity.help.tooltip) : This string should be the
-     localized title of this SUMO article
-     https://support.mozilla.org/kb/how-do-i-tell-if-my-connection-is-secure -->
-<!ENTITY identity.help.tooltip "Jak zjistím, že je mé připojení k webové stránce zabezpečené?">
 
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
@@ -865,3 +852,10 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- Pre-landed strings for bug 1123519 -->
 <!ENTITY readingList.sidebar.add.label            "Přidat do Seznamu ke čtení">
 <!ENTITY readingList.sidebar.add.tooltip          "Přidat tuto stránku do Seznamu ke čtení">
+
+<!-- LOCALIZATION NOTE (saveToPocketCmd.label, saveLinkToPocketCmd.label, pocketMenuitem.label): Pocket is a brand name -->
+<!ENTITY saveToPocketCmd.label     "Uložit stránku do služby Pocket">
+<!ENTITY saveToPocketCmd.accesskey "k">
+<!ENTITY saveLinkToPocketCmd.label     "Uložit odkaz do služby Pocket">
+<!ENTITY saveLinkToPocketCmd.accesskey "o">
+<!ENTITY pocketMenuitem.label      "Zobrazit seznam služby Pocket">
