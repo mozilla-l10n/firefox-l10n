@@ -4,7 +4,6 @@
 
 <!ENTITY itemGeneral.label       "常规">
 <!ENTITY dataChoicesTab.label    "反馈">
-<!ENTITY itemDisplay.label       "阅读 &amp; 显示">
 <!ENTITY itemUpdate.label        "更新">
 <!ENTITY itemNetworking.label    "网络 &amp; 磁盘空间">
 <!ENTITY itemCertificates.label  "证书">
@@ -51,32 +50,6 @@
 <!ENTITY enableCrashReporter.label       "启用崩溃报告器">
 <!ENTITY enableCrashReporter.accesskey   "C">
 <!ENTITY crashReporterLearnMore.label    "详细了解">
-<!-- Display and Reading Settings -->
-
-<!ENTITY reading.caption               "阅读">
-<!ENTITY display.caption               "显示">
-<!ENTITY showCondensedAddresses.label  "仅显示我通讯录中联系人的显示名。">
-<!ENTITY showCondensedAddresses.accesskey "S">
-
-<!ENTITY autoMarkAsRead.label          "自动将消息标记为已读">
-<!ENTITY autoMarkAsRead.accesskey      "A">
-<!ENTITY markAsReadNoDelay.label       "显示的同时">
-<!ENTITY markAsReadNoDelay.accesskey   "o">
-<!-- LOCALIZATION NOTE (markAsReadDelay.label): This will concatenate to
-     "After displaying for [___] seconds",
-     using (markAsReadDelay.label) and a number (secondsLabel.label). -->
-<!ENTITY markAsReadDelay.label         "显示超过">
-<!ENTITY markAsReadDelay.accesskey     "d">
-<!ENTITY secondsLabel.label            "秒">
-<!ENTITY openMsgIn.label               "打开消息，使用：">
-<!ENTITY openMsgInNewTab.label         "新标签页">
-<!ENTITY openMsgInNewTab.accesskey     "t">
-<!ENTITY reuseExpRadio0.label          "新的消息窗口">
-<!ENTITY reuseExpRadio0.accesskey      "n">
-<!ENTITY reuseExpRadio1.label          "已打开的消息窗口">
-<!ENTITY reuseExpRadio1.accesskey      "e">
-<!ENTITY closeMsgOnMoveOrDelete.label  "移动或删除后关闭消息窗口/标签">
-<!ENTITY closeMsgOnMoveOrDelete.accesskey "C">
 <!-- Update -->
 
 <!ENTITY updateApp.label                 "&brandShortName; 更新：">

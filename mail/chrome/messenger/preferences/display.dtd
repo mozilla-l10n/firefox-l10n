@@ -4,6 +4,7 @@
 
 <!ENTITY itemFormatting.label             "格式化">
 <!ENTITY itemTags.label                   "标签">
+<!ENTITY itemAdvanced.label               "高级">
 
 <!ENTITY style.label                      "样式：">
 <!ENTITY style.accesskey                  "y">
@@ -44,3 +45,29 @@
 <!ENTITY fontOptions.label       "高级">
 <!ENTITY colorButton.label       "颜色…">
 <!ENTITY colorButton.accesskey   "C">
+<!-- Advanced -->
+
+<!ENTITY reading.caption                  "阅读">
+<!ENTITY display.caption                  "显示">
+<!ENTITY showCondensedAddresses.label     "只显示我的通讯录中的显示名称">
+<!ENTITY showCondensedAddresses.accesskey "S">
+
+<!ENTITY autoMarkAsRead.label             "自动将消息标为已读">
+<!ENTITY autoMarkAsRead.accesskey         "A">
+<!ENTITY markAsReadNoDelay.label          "显示时立即">
+<!ENTITY markAsReadNoDelay.accesskey      "o">
+<!-- LOCALIZATION NOTE (markAsReadDelay.label): This will concatenate to
+     "After displaying for [___] seconds",
+     using (markAsReadDelay.label) and a number (secondsLabel.label). -->
+<!ENTITY markAsReadDelay.label            "显示">
+<!ENTITY markAsReadDelay.accesskey        "d">
+<!ENTITY secondsLabel.label               "秒之后">
+<!ENTITY openMsgIn.label                  "打开消息：">
+<!ENTITY openMsgInNewTab.label            "在新标签页">
+<!ENTITY openMsgInNewTab.accesskey        "t">
+<!ENTITY reuseExpRadio0.label             "在新的消息窗口">
+<!ENTITY reuseExpRadio0.accesskey         "n">
+<!ENTITY reuseExpRadio1.label             "在现有的消息窗口">
+<!ENTITY reuseExpRadio1.accesskey         "e">
+<!ENTITY closeMsgOnMoveOrDelete.label     "移动或删除后关闭消息窗口/标签页">
+<!ENTITY closeMsgOnMoveOrDelete.accesskey "C">

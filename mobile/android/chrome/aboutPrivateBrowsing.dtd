@@ -2,12 +2,15 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY privatebrowsingpage.title                  "隐私浏览">
+<!ENTITY privatebrowsingpage.title "隐私浏览">
+<!ENTITY privatebrowsingpage.title.normal "您目前未处于隐私浏览模式">
 
-<!ENTITY privatebrowsingpage.issueDesc.private      "你已经打开一个新的隐私浏览标签页。">
-<!ENTITY privatebrowsingpage.issueDesc.normal       "目前不在隐私浏览标签页。">
+<!ENTITY privatebrowsingpage.issueDesc.normal2 "在隐私浏览模式中，我们不会保留您的任何浏览记录或者 Cookie。">
+<!ENTITY privatebrowsingpage.issueDesc.private2 "我们不会保留您的任何浏览记录或者 Cookie。">
 
-<!ENTITY privatebrowsingpage.description            "在隐私浏览标签页，&brandShortName; 不会保存任何浏览历史、搜索历史、下载历史、表单历史、cookie 或者挽留过临时文件。但是，下载的文件和添加的书签将会保存下来。">
-<!ENTITY privatebrowsingpage.description.private    "&privatebrowsingpage.issueDesc.private; &privatebrowsingpage.description;">
+<!ENTITY privatebrowsingpage.description2 "您添加的书签和您下载的文件仍将保存在您的设备上。">
+<!ENTITY privatebrowsingpage.description.normal "&privatebrowsingpage.issueDesc.normal2; &privatebrowsingpage.description2;">
+<!ENTITY privatebrowsingpage.description.private2 "&privatebrowsingpage.issueDesc.private2; &privatebrowsingpage.description2;">
 
-<!ENTITY privatebrowsingpage.moreInfo               "尽管本设备不会记录您的浏览历史，但您的互联网服务提供商仍然可以跟踪到您访问过的页面。">
+<!ENTITY privatebrowsingpage.link.private "想了解更多？">
+<!ENTITY privatebrowsingpage.link.normal "打开一个新的隐私浏览标签页">
