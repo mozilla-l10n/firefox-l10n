@@ -45,7 +45,7 @@
 <!ENTITY modelDeleteImmediately.accesskey "b">
 <!ENTITY expungeOnExit.label "All'uscita pulisci (&quot;Expunge&quot;) la Posta in arrivo">
 <!ENTITY expungeOnExit.accesskey "o">
-<!ENTITY emptyTrashOnExit.label "Svuota cestino all'uscita">
+<!ENTITY emptyTrashOnExit.label "Svuota Cestino all'uscita">
 <!ENTITY emptyTrashOnExit.accesskey "c">
 <!ENTITY loginAtStartup.label "Controlla nuovi messaggi all'avvio">
 <!ENTITY loginAtStartup.accesskey "m">
