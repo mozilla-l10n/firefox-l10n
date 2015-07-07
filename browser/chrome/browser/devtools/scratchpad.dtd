@@ -65,6 +65,7 @@
 <!ENTITY largerFont.label             "Більший шрифт">
 <!ENTITY largerFont.accesskey         "Б">
 <!ENTITY largerFont.commandkey        "+">
+<!ENTITY largerFont.commandkey2       "="> <!-- + is above this key on many keyboards -->
 
 <!ENTITY smallerFont.label            "Менший шрифт">
 <!ENTITY smallerFont.accesskey        "М">
