@@ -48,10 +48,6 @@
 <!ENTITY ScreenName.label               "屏幕名：">
 <!ENTITY ScreenName.accesskey           "S">
 
-<!ENTITY allowRemoteContent1.label      "允许远程内容。">
-<!ENTITY allowRemoteContent1.accesskey  "r">
-<!ENTITY allowRemoteContent1.tooltip    "在 HTML 邮件中，可以嵌入远端资源。打开这种邮件的同时也会打开这个外部资源。这种方式可用于追踪被读取的消息。勾选此检查框将会允许来自该联系人的 HTML 邮件嵌入此类外部内容。">
-
 <!ENTITY WorkPhone.label                "工作：">
 <!ENTITY WorkPhone.accesskey            "k">
 <!ENTITY HomePhone.label                "家庭：">
