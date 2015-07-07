@@ -62,7 +62,7 @@
 <!ENTITY sync.configure.engines.title.label "同步范围">
 <!ENTITY sync.configure.engines.sync.my.title.label "同步你的…">
 <!ENTITY sync.configure.engines.title.bookmarks "书签">
-<!ENTITY sync.configure.engines.title.passwords "密码">
+<!ENTITY sync.configure.engines.title.passwords2 "登录项">
 <!ENTITY sync.configure.engines.title.history "历史记录">
 <!ENTITY sync.configure.engines.title.tabs "标签页">
 <!-- Common text -->
@@ -141,7 +141,7 @@
 <!ENTITY fxaccount_policy_linkprivacy "隐私声明">
 
 <!ENTITY fxaccount_getting_started_welcome_to_sync "欢迎使用 &syncBrand.shortName.label;">
-<!ENTITY fxaccount_getting_started_description "登录以同步您的标签页、书签等信息。">
+<!ENTITY fxaccount_getting_started_description2 "登录以同步您的标签页、书签、登录项等信息。">
 <!ENTITY fxaccount_getting_started_get_started "开始使用">
 <!ENTITY fxaccount_getting_started_old_firefox "使用旧版本的 &syncBrand.shortName.label;？">
 <!-- Localization note: the Firefox below should not change with the
@@ -212,7 +212,7 @@
 <!ENTITY fxaccount_status_needs_finish_migrating "点按以登录到您全新的 Firefox 账户。">
 <!ENTITY fxaccount_status_bookmarks "书签">
 <!ENTITY fxaccount_status_history "历史记录">
-<!ENTITY fxaccount_status_passwords "密码">
+<!ENTITY fxaccount_status_passwords2 "登录项">
 <!ENTITY fxaccount_status_tabs "打开的标签页">
 <!ENTITY fxaccount_status_legal "法律" >
 <!-- Localization note: when tapped, the following two strings link to
