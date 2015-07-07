@@ -72,6 +72,8 @@
 <!ENTITY saveFrameAsCmd.label         "将框架另存为…">
 <!ENTITY saveFrameCmd.label           "保存帧">
 <!ENTITY saveFrameCmd.accesskey       "a">
+<!ENTITY printFrameCmd.label          "打印框架…">
+<!ENTITY printFrameCmd.accesskey      "P">
 <!ENTITY saveLinkAsCmd.label          "将链接目标另存为…">
 <!ENTITY saveLinkCmd.label            "保存链接目标">
 <!ENTITY saveLinkCmd.accesskey        "S">

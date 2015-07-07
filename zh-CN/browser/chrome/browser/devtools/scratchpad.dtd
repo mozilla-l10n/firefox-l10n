@@ -65,6 +65,8 @@
 <!ENTITY largerFont.label             "大字体">
 <!ENTITY largerFont.accesskey         "a">
 <!ENTITY largerFont.commandkey        "+">
+<!-- + is above this key on many keyboards -->
+<!ENTITY largerFont.commandkey2       "="> 
 
 <!ENTITY smallerFont.label            "小字体">
 <!ENTITY smallerFont.accesskey        "m">
