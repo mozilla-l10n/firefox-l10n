@@ -42,7 +42,7 @@
 <!ENTITY display.caption "Visualizzazione">
 <!ENTITY showCondensedAddresses.label "mostra solo il nome visualizzato per le persone nella rubrica">
 <!ENTITY showCondensedAddresses.accesskey "m">
-<!ENTITY autoMarkAsRead.label "Contrassegnare automaticamente i messaggi come letti">
+<!ENTITY autoMarkAsRead.label "Contrassegna automaticamente un messaggio come letto">
 <!ENTITY autoMarkAsRead.accesskey "C">
 <!ENTITY markAsReadNoDelay.label "immediatamente dopo averlo mostrato">
 <!ENTITY markAsReadNoDelay.accesskey "o">
@@ -50,11 +50,11 @@
 <!ENTITY markAsReadDelay.accesskey "d">
 <!ENTITY secondsLabel.label "secondi">
 <!ENTITY openMsgIn.label "Aprire i messaggi in:">
-<!ENTITY openMsgInNewTab.label "una nuova linguetta">
+<!ENTITY openMsgInNewTab.label "una scheda">
 <!ENTITY openMsgInNewTab.accesskey "t">
-<!ENTITY reuseExpRadio0.label "una nuova finestra">
+<!ENTITY reuseExpRadio0.label "una finestra">
 <!ENTITY reuseExpRadio0.accesskey "n">
-<!ENTITY reuseExpRadio1.label "una finestra esistente">
+<!ENTITY reuseExpRadio1.label "nella finestra esistente">
 <!ENTITY reuseExpRadio1.accesskey "e">
-<!ENTITY closeMsgOnMoveOrDelete.label "Chiudere la finestra/linguetta del messaggio in caso sia spostato o cancellato">
+<!ENTITY closeMsgOnMoveOrDelete.label "Chiudere la finestra/scheda del messaggio in caso sia spostato o cancellato">
 <!ENTITY closeMsgOnMoveOrDelete.accesskey "C">
