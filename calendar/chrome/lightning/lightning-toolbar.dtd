@@ -8,10 +8,15 @@
 <!ENTITY lightning.toolbar.task.name.accesskey "T">
 
 <!ENTITY lightning.toolbar.sync.label "同步">
+<!ENTITY lightning.toolbar.sync.tooltip "重新载入日历并同步变更">
 <!ENTITY lightning.toolbar.delete.label "删除">
+<!ENTITY lightning.toolbar.delete.tooltip "删除选中的事件或任务">
 <!ENTITY lightning.toolbar.edit.label "编辑">
-<!ENTITY lightning.toolbar.gototoday.label "转至今天">
+<!ENTITY lightning.toolbar.edit.tooltip "编辑选中的事件或任务">
+<!ENTITY lightning.toolbar.gototoday.label "转至今日">
+<!ENTITY lightning.toolbar.gototoday.tooltip "转至今天">
 <!ENTITY lightning.toolbar.print.label "打印">
+<!ENTITY lightning.toolbar.print.tooltip "打印事件或任务">
 <!-- Mode Toolbar -->
 
 <!ENTITY lightning.toolbar.calendar.label     "日历">
@@ -23,7 +28,9 @@
 <!-- Toolbar write button -->
 
 <!ENTITY lightning.toolbar.newevent.label     "事件">
+<!ENTITY lightning.toolbar.newevent.tooltip   "创建新事件">
 <!ENTITY lightning.toolbar.newtask.label      "任务">
+<!ENTITY lightning.toolbar.newtask.tooltip    "创建新任务">
 <!-- Calendar and Task Mode Toolbar -->
 
 <!ENTITY lightning.toolbar.day.label                 "日">
