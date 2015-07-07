@@ -35,6 +35,7 @@
 
 <!ENTITY showUnifinderCmd.label                 "查找事件">
 <!ENTITY showUnifinderCmd.accesskey             "F">
+<!ENTITY showUnifinderCmd.tooltip               "切换查找事件面板">
 
 <!ENTITY calendar.displaytodos.checkbox.label       "在日历上显示任务">
 <!ENTITY calendar.displaytodos.checkbox.accesskey   "T">

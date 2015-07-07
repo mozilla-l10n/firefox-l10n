@@ -444,6 +444,12 @@
 <!ENTITY throbber.tooltip "转到 &vendorShortName; 主页">
 <!ENTITY junkButton.tooltip "将选中的消息标记为垃圾(或者非垃圾)">
 <!ENTITY notJunkButton.tooltip "将所选消息标记为非垃圾邮件">
+<!-- Remote Content Button Popup -->
+
+<!ENTITY remoteContentOptionsAllowForMsg.label "显示此消息中的远程内容">
+<!ENTITY remoteContentOptionsAllowForMsg.accesskey "S">
+<!ENTITY editRemoteContentSettings.label "编辑远程内容的权限…">
+<!ENTITY editRemoteContentSettings.accesskey "E">
 <!-- Statusbar -->
 
 <!ENTITY  statusText.label "完成">

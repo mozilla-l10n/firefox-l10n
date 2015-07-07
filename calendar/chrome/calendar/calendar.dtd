@@ -57,8 +57,8 @@
 <!ENTITY calendar.unifinder.tree.duration.tooltip2         "按剩余时限排序">
 <!ENTITY calendar.unifinder.close.tooltip                  "关闭事件搜索和事件列表">
 
-<!ENTITY calendar.today.button.tooltip          "转至今天" >
-<!ENTITY calendar.todaypane.button.tooltip      "显示当日面板" >
+<!ENTITY calendar.today.button.tooltip          "转至今日" >
+<!ENTITY calendar.todaypane.button.tooltip      "显示今日面板" >
 
 <!ENTITY calendar.day.button.tooltip            "切换到日视图" >
 <!ENTITY calendar.week.button.tooltip           "切换到周视图" >
@@ -172,7 +172,7 @@
 <!ENTITY calendar.context.copyevent.accesskey         "C">
 <!ENTITY calendar.context.pasteevent.label            "粘贴">
 <!ENTITY calendar.context.pasteevent.accesskey        "P">
-<!ENTITY calendar.context.button.label                "当日面板" >
+<!ENTITY calendar.context.button.label                "今日面板" >
 <!ENTITY calendar.context.button.accesskey            "T" >
 <!ENTITY calendar.context.attendance.menu.label       "出席者" >
 <!ENTITY calendar.context.attendance.menu.accesskey   "d" >
