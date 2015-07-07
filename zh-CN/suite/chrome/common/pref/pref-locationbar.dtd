@@ -6,16 +6,16 @@
 <!ENTITY pref.locationBar.title                "地址栏">
 
 <!ENTITY autoComplete.label                    "自动完成">
-<!ENTITY enableAutoComplete.label              "输入时根据浏览历史自动完成">
-<!ENTITY enableAutoComplete.accesskey          "A">
+<!ENTITY autoCompleteMatchHistory.label        "根据历史记录自动建议网站">
+<!ENTITY autoCompleteMatchHistory.accesskey    "A">
+<!ENTITY autoCompleteMatchBookmarks.label      "根据书签自动建议网站">
+<!ENTITY autoCompleteMatchBookmarks.accesskey  "B">
 <!ENTITY autoCompleteAutoFill.label            "自动预填充最匹配的内容">
 <!ENTITY autoCompleteAutoFill.accesskey        "u">
 <!ENTITY autoCompleteShowPopup.label           "显示相匹配结果的列表">
 <!ENTITY autoCompleteShowPopup.accesskey       "S">
 <!ENTITY autoCompleteMatchOnlyTyped.label      "只匹配之前键入过的站点">
 <!ENTITY autoCompleteMatchOnlyTyped.accesskey  "o">
-<!ENTITY autoCompleteMatchOnlyURLs.label       "仅仅匹配地址，而不是网站标题">
-<!ENTITY autoCompleteMatchOnlyURLs.accesskey   "n">
 <!--LOCALIZATION NOTE (autoCompleteMatch.label): This is the common leading
   part of the menulist items listed below, mainly to make the control available
   via the accesskey

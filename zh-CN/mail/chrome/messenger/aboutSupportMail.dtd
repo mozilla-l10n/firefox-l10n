@@ -15,5 +15,6 @@
 <!ENTITY aboutSupport.accountsConnSecurity "连接安全性">
 <!ENTITY aboutSupport.accountsAuthMethod "验证方法">
 <!ENTITY aboutSupport.accountsDefault "默认？">
+<!ENTITY aboutSupport.identityName "身份">
 
 <!ENTITY aboutSupport.sendViaEmail.label "通过电子邮件发送">
