@@ -6,4 +6,4 @@
 <!ENTITY aboutAccountsConfig.description "Accedi per sincronizzare schede, segnalibri, password e altri elementi.">
 <!ENTITY aboutAccountsConfig.startButton.label "Inizia">
 <!ENTITY aboutAccountsConfig.useOldSync.label "Stai utilizzando una vecchia versione di Sync?">
-<!ENTITY aboutAccountsConfig.manage.label "Gestione account">
+<!ENTITY aboutAccountsConfig.syncPreferences.label "Preferenze Sync">
