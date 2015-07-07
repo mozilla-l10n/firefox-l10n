@@ -26,6 +26,7 @@
 <!ENTITY calendar.menu.customize.accesskey "r">
 <!ENTITY showUnifinderCmd.label "Finna atburði">
 <!ENTITY showUnifinderCmd.accesskey "F">
+<!ENTITY showUnifinderCmd.tooltip "Víxla flipa fyrir leita að atburðum">
 <!ENTITY calendar.displaytodos.checkbox.label "Sýna verkefni í dagatali">
 <!ENTITY calendar.displaytodos.checkbox.accesskey "S">
 <!ENTITY goTodayCmd.label "Í dag">
