@@ -108,3 +108,5 @@
 <!ENTITY closeCmd.key         "W">
 <!ENTITY findCmd.key          "F">
 <!ENTITY clearOutputCtrl.key  "L">
+<!ENTITY openInVarViewCmd.label "在变量视图中打开">
+<!ENTITY openInVarViewCmd.accesskey "V">

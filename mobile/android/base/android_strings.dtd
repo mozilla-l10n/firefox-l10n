@@ -44,6 +44,10 @@
 <!ENTITY bookmark "书签">
 <!ENTITY bookmark_remove "移除书签">
 <!ENTITY bookmark_added "书签已添加">
+<!-- Localization note (bookmark_already_added) : This string is
+     used as a label in a toast. It is the verb "to bookmark", not
+     the noun "a bookmark". -->
+<!ENTITY bookmark_already_added "已有书签">
 <!ENTITY bookmark_removed "书签已移除">
 <!ENTITY bookmark_updated "书签已更新">
 <!ENTITY bookmark_options "选项">
@@ -77,6 +81,7 @@
 
 <!ENTITY settings "设置">
 <!ENTITY settings_title "设置">
+<!ENTITY pref_category_input_options "输入选项">
 <!ENTITY pref_category_advanced "高级">
 <!ENTITY pref_category_customize "自定义">
 <!ENTITY pref_category_customize_summary "首页、搜索、标签页、导入">
@@ -104,7 +109,7 @@
 
 <!ENTITY overlay_share_bookmark_btn_label "添加书签">
 <!ENTITY overlay_share_reading_list_btn_label "添加到阅读列表">
-<!ENTITY overlay_share_bookmark_btn_label_already "已有书签">
+<!ENTITY overlay_share_bookmark_btn_label_already "已经加入书签">
 <!ENTITY overlay_share_reading_list_btn_label_already "已在阅读列表中">
 <!ENTITY overlay_share_send_other "发送到其他设备">
 <!-- Localization note (overlay_share_send_tab_btn_label) : Used on the
@@ -133,7 +138,7 @@
 <!ENTITY pref_category_display "显示">
 <!ENTITY pref_category_display_summary "文字、标题栏、全屏浏览">
 <!ENTITY pref_category_privacy_short "隐私">
-<!ENTITY pref_category_privacy_summary "控制密码、Cookie、跟踪、数据">
+<!ENTITY pref_category_privacy_summary2 "控制登录项、Cookie、跟踪、数据">
 <!ENTITY pref_category_vendor "&vendorShortName;">
 <!ENTITY pref_category_vendor_summary "有关 &brandShortName;、常见问题、数据选择权">
 <!ENTITY pref_category_datareporting "反馈">
@@ -152,7 +157,9 @@
 <!ENTITY pref_category_devtools "开发者工具">
 <!ENTITY pref_developer_remotedebugging "远程调试">
 <!ENTITY pref_category_logins "登录项">
-<!ENTITY pref_remember_signons "记住密码">
+<!ENTITY pref_remember_signons2 "记住登录项">
+<!ENTITY pref_open_external_urls_privately_title "在隐私浏览模式中打开链接">
+<!ENTITY pref_open_external_urls_privately_summary "所有外部链接都在 &brandShortName; 中打开">
 <!ENTITY pref_manage_logins "管理登录项">
 
 <!ENTITY pref_category_home "主页">
@@ -190,10 +197,10 @@
 <!ENTITY pref_donottrack_title "请勿跟踪">
 <!ENTITY pref_donottrack_summary "&brandShortName; 将会告诉网站您不想被追踪">
 
-<!ENTITY tab_queue_toast_message2 "&brandShortName; 中等待的标签页">
+<!ENTITY tab_queue_toast_message3 "&brandShortName; 中已保存的标签页">
 <!ENTITY tab_queue_toast_action "立即打开">
 <!ENTITY tab_queue_prompt_title "打开多个链接？">
-<!ENTITY tab_queue_prompt_text2 "不用每次切换到 &brandShortName; 来打开它们。">
+<!ENTITY tab_queue_prompt_text3 "保存它们，供您下次打开 &brandShortName; 时使用">
 <!ENTITY tab_queue_prompt_tip_text "您以后可以在“设置”中更改此行为">
 <!ENTITY tab_queue_prompt_positive_action_button "启用">
 <!ENTITY tab_queue_prompt_negative_action_button "暂时不要">
@@ -245,10 +252,14 @@ size. -->
 <!ENTITY pref_media_autoplay_enabled_summary "控制网站是否能够自动播放影片或其他媒体内容">
 <!ENTITY pref_zoom_force_enabled "总是启用缩放">
 <!ENTITY pref_zoom_force_enabled_summary "强制覆盖，以便您可以缩放任何页面">
+<!ENTITY pref_voice_input "语音输入">
+<!ENTITY pref_voice_input_summary "允许语音口述在标题栏中">
+<!ENTITY pref_qrcode_enabled "QR 码读取器">
+<!ENTITY pref_qrcode_enabled_summary "允许 QR 码读取器在标题栏中">
 
 <!ENTITY pref_use_master_password "使用主密码">
 <!ENTITY pref_sync "同步">
-<!ENTITY pref_sync_summary "同步您的标签页、书签、密码、历史记录">
+<!ENTITY pref_sync_summary2 "同步您的标签页、书签、登录项、历史记录">
 <!ENTITY pref_search_suggestions "显示搜索建议">
 <!ENTITY pref_import_android "从 Android 导入">
 <!ENTITY pref_import_android_summary "从原生浏览器导入书签和历史记录">
@@ -256,11 +267,12 @@ size. -->
 <!ENTITY pref_private_data_searchHistory "搜索历史记录">
 <!ENTITY pref_private_data_formdata2 "表单历史记录">
 <!ENTITY pref_private_data_cookies2 "Cookie 及当前的登录状态">
-<!ENTITY pref_private_data_passwords "已保存的密码">
+<!ENTITY pref_private_data_passwords2 "已保存的登录项">
 <!ENTITY pref_private_data_cache "高速缓存">
 <!ENTITY pref_private_data_offlineApps "离线站点数据">
 <!ENTITY pref_private_data_siteSettings2 "站点设置">
 <!ENTITY pref_private_data_downloadFiles2 "下载历史">
+<!ENTITY pref_private_data_syncedTabs "已同步的标签页">
 
 
 <!ENTITY pref_about_firefox "关于 &brandShortName;">
@@ -380,6 +392,11 @@ size. -->
 <!ENTITY doorhanger_login_edit_password_hint "密码">
 <!ENTITY doorhanger_login_edit_toggle "显示密码">
 <!ENTITY doorhanger_login_edit_toast_error "保存登录信息失败">
+<!ENTITY doorhanger_login_select_message "复制 &formatS; 的密码？">
+<!ENTITY doorhanger_login_select_toast_copy "密码已复制到剪贴板">
+<!ENTITY doorhanger_login_select_toast_copy_error "未能复制密码">
+<!ENTITY doorhanger_login_select_action_text "选择其他登录项">
+<!ENTITY doorhanger_login_select_title "复制密码从">
 
 <!ENTITY pref_titlebar_mode "标题栏">
 <!ENTITY pref_titlebar_mode_title "显示页面标题">
@@ -391,7 +408,7 @@ size. -->
 <!ENTITY pref_scroll_title_bar_summary "向下滚动页面时隐藏 &brandShortName; 的标题栏">
 
 <!ENTITY pref_tab_queue_title2 "打开多个链接">
-<!ENTITY pref_tab_queue_summary2 "将链接列队，不用每次切换到 &brandShortName; 来打开它们">
+<!ENTITY pref_tab_queue_summary3 "保存它们，供您下次打开 &brandShortName; 时使用">
 <!-- Localization note (page_removed): This string appears in a toast message when
      any page is removed frome about:home. This includes pages that are in history,
      bookmarks, or reading list. -->
@@ -409,8 +426,10 @@ size. -->
 <!ENTITY site_settings_cancel       "取消">
 <!ENTITY site_settings_clear        "清除">
 <!ENTITY site_settings_no_settings  "没有要清除的设置。">
+<!-- Localization note (reading_list_added2) : Used in a toast, please keep as short
+     as possible. -->
 
-<!ENTITY reading_list_added "页面已添加到您的阅读列表">
+<!ENTITY reading_list_added2 "已添加到列表">
 <!ENTITY reading_list_removed "页面已从您的阅读列表移除">
 <!-- Localization note (reading_list_remove) : Used to remove the currently open page from
      the user's reading list. The opposite of overlay_share_reading_list_btn_label. -->
@@ -439,7 +458,7 @@ size. -->
 <!ENTITY button_clear_data "清除数据">
 <!ENTITY button_set "设置">
 <!ENTITY button_clear "清空">
-<!ENTITY button_remember "记住">
+<!ENTITY button_copy "复制">
 
 <!ENTITY firstrun_panel_title_welcome "欢迎使用">
 
@@ -503,10 +522,6 @@ size. -->
      the text of a button; we expect more than one device. -->
 <!ENTITY home_remote_tabs_unhide_selected_devices "取消隐藏选中设备">
 
-<!ENTITY private_browsing_title "隐私浏览">
-<!ENTITY private_tabs_panel_empty_desc "您的隐私浏览标签页将在此处显示。我们将不会保存您在隐私浏览模式中的任何浏览历史或者 Cookie，不过您添加的书签和下载的文件依然会在您的设备上保存。">
-<!ENTITY private_tabs_panel_learn_more "想进一步了解？">
-
 <!ENTITY remote_tabs_panel_moved_title "我的标签页去哪了？">
 <!ENTITY remote_tabs_panel_moved_desc "我们已经从其他设备转移了您的标签页到您的首页上的一个面板，这让您可以轻松地在每次打开新标签页时访问它们。">
 <!ENTITY remote_tabs_panel_moved_link "带我去我的新面板。">
@@ -534,6 +549,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_run_by "它的经营者为">
 <!ENTITY identity_no_info "此网站没有提供身份信息。">
 <!ENTITY identity_not_encrypted "您与此网站的连接未加密。">
+<!ENTITY identity_encrypted "已加密">
 <!-- Mixed content notifications in site identity popup -->
 
 <!ENTITY loaded_mixed_content_message "此页面显示的内容无法保证安全性。">
@@ -597,7 +613,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY guest_session_dialog_continue "继续">
 <!ENTITY guest_session_dialog_cancel "取消">
 <!ENTITY new_guest_session_title "&brandShortName; 将重新启动">
-<!ENTITY new_guest_session_text "使用此模式的人将不会看到您的任何个人数据（如保存的密码、历史记录和书签）。\n\n当您的访客退出后，他们的浏览数据也将被删除，您的会话也将被恢复。">
+<!ENTITY new_guest_session_text2 "使用此模式的人将不会看到您的任何个人数据（如保存的登录项、历史记录和书签）。\n\n当您的访客退出后，他们的浏览数据也将被删除，您的会话也将被恢复。">
 <!ENTITY guest_browsing_notification_title "访客浏览已启用">
 <!ENTITY guest_browsing_notification_text "点按退出">
 
@@ -646,3 +662,5 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      if match-case is activated. i.e. No more than two letters, one uppercase, one lowercase. -->
 
 <!ENTITY find_matchcase "Aa">
+
+<!ENTITY intent_uri_cannot_open "无法打开链接">
