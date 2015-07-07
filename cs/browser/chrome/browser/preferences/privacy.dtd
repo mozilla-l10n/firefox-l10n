@@ -22,6 +22,8 @@
 <!ENTITY  locbar.bookmarks.accesskey    "Z">
 <!ENTITY  locbar.openpage.label         "Otevřené panely">
 <!ENTITY  locbar.openpage.accesskey     "e">
+<!ENTITY  locbar.searches.label         "Související vyhledávání od výchozího vyhledávacího modulu">
+<!ENTITY  locbar.searches.accesskey     "v">
 
 <!ENTITY acceptCookies.label "Povolit serverům nastavovat cookies">
 <!ENTITY acceptCookies.accesskey "c">
