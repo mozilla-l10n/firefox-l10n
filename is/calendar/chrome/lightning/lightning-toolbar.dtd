@@ -7,10 +7,15 @@
 <!ENTITY lightning.toolbar.task.name "Verkefna verkfærarein">
 <!ENTITY lightning.toolbar.task.name.accesskey "V">
 <!ENTITY lightning.toolbar.sync.label "Samstilla">
+<!ENTITY lightning.toolbar.sync.tooltip "Endurnýja dagatöl og samstilla breytingar">
 <!ENTITY lightning.toolbar.delete.label "Eyða">
+<!ENTITY lightning.toolbar.delete.tooltip "Eyða völdum atburðum eða verkefnum">
 <!ENTITY lightning.toolbar.edit.label "Breyta">
+<!ENTITY lightning.toolbar.edit.tooltip "Breyta völdum atburðum eða verkefnum">
 <!ENTITY lightning.toolbar.gototoday.label "Hoppa á daginn í dag">
+<!ENTITY lightning.toolbar.gototoday.tooltip "Hoppa á daginn í dag">
 <!ENTITY lightning.toolbar.print.label "Prenta">
+<!ENTITY lightning.toolbar.print.tooltip "Prenta atburði eða verkefni">
 <!-- Mode Toolbar -->
 <!ENTITY lightning.toolbar.calendar.label "Dagatal">
 <!ENTITY lightning.toolbar.calendar.tooltip "Skipta yfir í dagatalsflipa">
@@ -20,7 +25,9 @@
 <!ENTITY lightning.toolbar.task.accesskey "V">
 <!-- Toolbar write button -->
 <!ENTITY lightning.toolbar.newevent.label "Atburður">
+<!ENTITY lightning.toolbar.newevent.tooltip "Búa til nýjan atburð">
 <!ENTITY lightning.toolbar.newtask.label "Verkefni">
+<!ENTITY lightning.toolbar.newtask.tooltip "Búa til nýtt verkefni">
 <!-- Calendar and Task Mode Toolbar -->
 <!ENTITY lightning.toolbar.day.label "Dagur">
 <!ENTITY lightning.toolbar.day.accesskey "D">
