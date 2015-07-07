@@ -57,7 +57,7 @@
 <!ENTITY renameFolder.key "VK_F2">
 <!ENTITY compactFolders.label "Compatta cartelle">
 <!ENTITY compactFolders.accesskey "o">
-<!ENTITY emptyTrashCmd.label "Svuota cestino">
+<!ENTITY emptyTrashCmd.label "Svuota Cestino">
 <!ENTITY emptyTrashCmd.accesskey "c">
 <!ENTITY offlineMenu.label "Non in linea">
 <!ENTITY offlineMenu.accesskey "l">
@@ -568,7 +568,7 @@
 <!ENTITY folderContextRemove.accesskey "E">
 <!ENTITY folderContextCompact.label "Compatta">
 <!ENTITY folderContextCompact.accesskey "o">
-<!ENTITY folderContextEmptyTrash.label "Svuota cestino">
+<!ENTITY folderContextEmptyTrash.label "Svuota Cestino">
 <!ENTITY folderContextEmptyTrash.accesskey "S">
 <!ENTITY folderContextEmptyJunk.label "Svuota posta indesiderata">
 <!ENTITY folderContextEmptyJunk.accesskey "v">
