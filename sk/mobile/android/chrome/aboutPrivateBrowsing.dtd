@@ -10,7 +10,7 @@
 
 <!ENTITY privatebrowsingpage.description2 "Vytvorené záložky a prevzaté súbory však budú uložené.">
 <!ENTITY privatebrowsingpage.description.normal "&privatebrowsingpage.issueDesc.normal2; &privatebrowsingpage.description2;">
-<!ENTITY privatebrowsingpage.description.private "&privatebrowsingpage.issueDesc.private2; &privatebrowsingpage.description2;">
+<!ENTITY privatebrowsingpage.description.private2 "&privatebrowsingpage.issueDesc.private2; &privatebrowsingpage.description2;">
 
 <!ENTITY privatebrowsingpage.link.private "Chcete sa dozvedieť viac?">
 <!ENTITY privatebrowsingpage.link.normal "Otvoriť novú súkromnú kartu">
