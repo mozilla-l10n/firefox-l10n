@@ -46,6 +46,7 @@
 <!ENTITY signedInLoginFailure.aftername.label "">
 <!ENTITY notSignedIn.label "Accesso non effettuato.">
 <!ENTITY signIn.label "Accedi">
+<!ENTITY profilePicture.tooltip "Cambia l’immagine del profilo">
 <!ENTITY manage.label "Gestione account">
 <!ENTITY disconnect.label "Disconnetti…">
 <!ENTITY verify.label "Verifica email">
