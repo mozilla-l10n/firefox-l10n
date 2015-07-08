@@ -8,6 +8,8 @@
 <!ENTITY importFromBookmarks.label "Importa segnalibri da:">
 <!ENTITY importFromIE.label "Microsoft Internet Explorer">
 <!ENTITY importFromIE.accesskey "M">
+<!ENTITY importFromEdge.label "Microsoft Edge">
+<!ENTITY importFromEdge.accesskey "E">
 <!ENTITY importFromNothing.label "Non importare nulla">
 <!ENTITY importFromNothing.accesskey "N">
 <!ENTITY importFromSafari.label "Safari">
