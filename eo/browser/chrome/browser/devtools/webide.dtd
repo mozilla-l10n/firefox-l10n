@@ -94,7 +94,7 @@
 <!ENTITY details_location "Adreso">
 <!ENTITY details_manifestURL "Programa ID">
 <!ENTITY details_removeProject_button "Forigi projekton">
-<!ENTITY details_showPrepackageLog_button "Show Pre-package Log">
+<!ENTITY details_showPrepackageLog_button "Montri la antaŭpakan registron">
 
 <!-- New App -->
 <!ENTITY newAppWindowTitle "Nova programo">
@@ -194,4 +194,17 @@
 <!ENTITY wifi_auth_token_request "Se via alia aparato petas ĵetonon anstataŭ ol skani kodon QR, bonvolu kopii la valoron, kiu troviĝas malsupre, al la alia aparato:">
 
 <!-- Logs panel -->
-<!ENTITY logs_title "Pre-packaging Command Logs">
+<!ENTITY logs_title "Registrado de antaŭpakaj ordonoj">
+
+<!-- Simulator Options -->
+<!ENTITY simulator_title "Elektebloj de imitilo">
+<!ENTITY simulator_remove "Forigi imitilon">
+<!ENTITY simulator_reset "Remeti normajn valorojn">
+<!ENTITY simulator_name "Nomo">
+<!ENTITY simulator_software "Programaro">
+<!ENTITY simulator_version "Versio">
+<!ENTITY simulator_profile "Profilo">
+<!ENTITY simulator_hardware "Aparataro">
+<!ENTITY simulator_device "Aparato">
+<!ENTITY simulator_screenSize "Ekrano">
+<!ENTITY simulator_pixelRatio "Bildera proporcio">
