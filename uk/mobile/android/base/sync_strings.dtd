@@ -140,10 +140,10 @@
 <!ENTITY fxaccount_policy_linktos 'Умови надання послуг'>
 <!ENTITY fxaccount_policy_linkprivacy 'Повідомлення про приватність'>
 
-<!ENTITY fxaccount_getting_started_welcome_to_sync 'Ласкаво просимо до &syncBrand.shortName.label;'>
+<!ENTITY fxaccount_getting_started_welcome_to_sync 'Вітаємо в Синхронізації'>
 <!ENTITY fxaccount_getting_started_description2 'Увійдіть, щоб синхронізувати свої вкладки, закладки, логіни та інше.'>
 <!ENTITY fxaccount_getting_started_get_started 'Почати'>
-<!ENTITY fxaccount_getting_started_old_firefox 'Користуєтесь старою версією &syncBrand.shortName.label;?'>
+<!ENTITY fxaccount_getting_started_old_firefox 'Використовуєте стару версію Синхронізації?'>
 
 <!-- Localization note: the Firefox below should not change with the
      particular version of Firefox installed (Release, Beta, Aurora,
