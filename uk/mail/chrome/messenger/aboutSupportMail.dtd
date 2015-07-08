@@ -2,19 +2,19 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY aboutSupport.appBasicsAppBuildID "ID ñêëàäàííÿ ïðîãðàìè">
+<!ENTITY aboutSupport.appBasicsAppBuildID "ID ÑÐºÐ»Ð°Ð´Ð°Ð½Ð½Ñ Ð¿Ñ€Ð¾Ð³Ñ€Ð°Ð¼Ð¸">
 
-<!ENTITY aboutSupport.accountsTitle "Îáë³êîâ³ çàïèñè åëåêòðîííî¿ ïîøòè òà íîâèí">
-<!ENTITY aboutSupport.showPrivateData.mainText "Âêëþ÷èòè ³ìåíà îáë³êîâèõ çàïèñ³â">
-<!ENTITY aboutSupport.showPrivateData.explanationText "(ìîæëèâî ³äåíòèô³êóþ÷à ³íôîðìàö³ÿ)">
+<!ENTITY aboutSupport.accountsTitle "ÐžÐ±Ð»Ñ–ÐºÐ¾Ð²Ñ– Ð·Ð°Ð¿Ð¸ÑÐ¸ ÐµÐ»ÐµÐºÑ‚Ñ€Ð¾Ð½Ð½Ð¾Ñ— Ð¿Ð¾ÑˆÑ‚Ð¸ Ñ‚Ð° Ð½Ð¾Ð²Ð¸Ð½">
+<!ENTITY aboutSupport.showPrivateData.mainText "Ð’ÐºÐ»ÑŽÑ‡Ð¸Ñ‚Ð¸ Ñ–Ð¼ÐµÐ½Ð° Ð¾Ð±Ð»Ñ–ÐºÐ¾Ð²Ð¸Ñ… Ð·Ð°Ð¿Ð¸ÑÑ–Ð²">
+<!ENTITY aboutSupport.showPrivateData.explanationText "(Ð¼Ð¾Ð¶Ð»Ð¸Ð²Ð¾ Ñ–Ð´ÐµÐ½Ñ‚Ð¸Ñ„Ñ–ÐºÑƒÑŽÑ‡Ð° Ñ–Ð½Ñ„Ð¾Ñ€Ð¼Ð°Ñ†Ñ–Ñ)">
 <!ENTITY aboutSupport.accountsID "ID">
-<!ENTITY aboutSupport.accountsName "²ì'ÿ">
-<!ENTITY aboutSupport.accountsIncomingServer "Ñåðâåð âõ³äíî¿ ïîøòè">
-<!ENTITY aboutSupport.accountsOutgoingServers "Ñåðâåð âèõ³äíî¿ ïîøòè">
-<!ENTITY aboutSupport.accountsServerName "²ì'ÿ">
-<!ENTITY aboutSupport.accountsConnSecurity "Çàõèñò ç'ºäíàííÿ">
-<!ENTITY aboutSupport.accountsAuthMethod "Ìåòîä àâòåíòèô³êàö³¿">
-<!ENTITY aboutSupport.accountsDefault "Òèïîâî?">
-<!ENTITY aboutSupport.identityName "²äåíòèô³êàòîð">
+<!ENTITY aboutSupport.accountsName "Ð†Ð¼'Ñ">
+<!ENTITY aboutSupport.accountsIncomingServer "Ð¡ÐµÑ€Ð²ÐµÑ€ Ð²Ñ…Ñ–Ð´Ð½Ð¾Ñ— Ð¿Ð¾ÑˆÑ‚Ð¸">
+<!ENTITY aboutSupport.accountsOutgoingServers "Ð¡ÐµÑ€Ð²ÐµÑ€ Ð²Ð¸Ñ…Ñ–Ð´Ð½Ð¾Ñ— Ð¿Ð¾ÑˆÑ‚Ð¸">
+<!ENTITY aboutSupport.accountsServerName "Ð†Ð¼'Ñ">
+<!ENTITY aboutSupport.accountsConnSecurity "Ð—Ð°Ñ…Ð¸ÑÑ‚ Ð·'Ñ”Ð´Ð½Ð°Ð½Ð½Ñ">
+<!ENTITY aboutSupport.accountsAuthMethod "ÐœÐµÑ‚Ð¾Ð´ Ð°Ð²Ñ‚ÐµÐ½Ñ‚Ð¸Ñ„Ñ–ÐºÐ°Ñ†Ñ–Ñ—">
+<!ENTITY aboutSupport.accountsDefault "Ð¢Ð¸Ð¿Ð¾Ð²Ð¾?">
+<!ENTITY aboutSupport.identityName "Ð†Ð´ÐµÐ½Ñ‚Ð¸Ñ„Ñ–ÐºÐ°Ñ‚Ð¾Ñ€">
 
-<!ENTITY aboutSupport.sendViaEmail.label "Íàä³ñëàòè åëåêòðîííîþ ïîøòîþ">
+<!ENTITY aboutSupport.sendViaEmail.label "ÐÐ°Ð´Ñ–ÑÐ»Ð°Ñ‚Ð¸ ÐµÐ»ÐµÐºÑ‚Ñ€Ð¾Ð½Ð½Ð¾ÑŽ Ð¿Ð¾ÑˆÑ‚Ð¾ÑŽ">
