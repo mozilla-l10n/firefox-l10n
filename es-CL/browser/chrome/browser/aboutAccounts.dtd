@@ -7,4 +7,4 @@
 <!ENTITY aboutAccountsConfig.startButton.label "Empezar">
 <!ENTITY aboutAccountsConfig.useOldSync.label "¿Usando una versión anterior de Sync?">
 
-<!ENTITY aboutAccountsConfig.manage.label "Gestionar">
+<!ENTITY aboutAccountsConfig.syncPreferences.label "Preferencias de Sync">
