@@ -471,16 +471,16 @@ size. -->
 <!ENTITY home_history_title "Історія">
 <!ENTITY home_clear_history_button "Стерти історію перегляду">
 <!ENTITY home_clear_history_confirm "Ви впевнені, що хочете стерти свою історію?">
-<!ENTITY home_bookmarks_empty "Ваші збережені закладки з'являються тут.">
+<!ENTITY home_bookmarks_empty "Ваші збережені закладки з’являються тут.">
 <!ENTITY home_closed_tabs_title "Недавно закриті вкладки">
 <!ENTITY home_last_tabs_title "Вкладки з минулого разу">
-<!ENTITY home_last_tabs_empty "Ваші недавні вкладки з'являються тут.">
+<!ENTITY home_last_tabs_empty "Ваші недавні вкладки з’являються тут.">
 <!ENTITY home_open_all "Відкрити всі">
 <!ENTITY home_most_recent_empty "Ваші недавно відвідані сайти будуть тут.">
 <!-- Localization note (home_most_recent_emptyhint2): "Psst" is a sound that might be used to attract someone's attention unobtrusively, and intended to hint at Private Browsing to the user.
      The placeholders &formatS1; and &formatS2; are used to mark the location of text underlining. -->
 <!ENTITY home_most_recent_emptyhint2 "Зверніть увагу: історія з &formatS1;Нової приватної вкладки&formatS2; не буде зберігатися.">
-<!ENTITY home_reading_list_empty "Збережені вами на потім статті з'являються тут.">
+<!ENTITY home_reading_list_empty "Збережені вами на потім статті з’являються тут.">
 <!-- Localization note (home_reading_list_hint): The "TIP" string is synonymous to "hint", "clue", etc. This string is displayed
      as an advisory message on how to add content to the reading list when the reading list empty.
      The placeholder &formatI; will be replaced by a small image of the icon described, and can be moved to wherever
