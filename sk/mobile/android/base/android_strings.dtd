@@ -137,7 +137,7 @@
 <!ENTITY pref_category_display "Zobrazovanie">
 <!ENTITY pref_category_display_summary "Text, titulok okna, prehliadanie v režime Na celú obrazovku">
 <!ENTITY pref_category_privacy_short "Súkromie">
-<!ENTITY pref_category_privacy_summary "Správa hesiel, cookies, sledovanie, údaje">
+<!ENTITY pref_category_privacy_summary2 "Správa prihlasovacích údajov, cookies, sledovanie, údaje">
 <!ENTITY pref_category_vendor "&vendorShortName;">
 <!ENTITY pref_category_vendor_summary "O prehliadači &brandShortName;, často kladené otázky, údaje o používaní">
 <!ENTITY pref_category_datareporting "Odosielanie údajov">
@@ -156,7 +156,7 @@
 <!ENTITY pref_category_devtools "Vývojárske nástroje">
 <!ENTITY pref_developer_remotedebugging "Vzdialené ladenie">
 <!ENTITY pref_category_logins "Heslá">
-<!ENTITY pref_remember_signons "Pamätať si heslá">
+<!ENTITY pref_remember_signons2 "Pamätať si prihlasovacie údaje">
 <!ENTITY pref_open_external_urls_privately_title "Otvárať odkazy v režime Súkromné prehliadanie">
 <!ENTITY pref_open_external_urls_privately_summary "Pre všetky externé odkazy otvorené v prehliadači &brandShortName;">
 <!ENTITY pref_manage_logins "Správa hesiel">
@@ -259,7 +259,7 @@ size. -->
 
 <!ENTITY pref_use_master_password "Používať hlavné heslo">
 <!ENTITY pref_sync "Synchronizácia">
-<!ENTITY pref_sync_summary "Synchronizácia kariet, záložiek, hesiel, histórie">
+<!ENTITY pref_sync_summary2 "Synchronizácia kariet, záložiek, prihlasovacích údajov, histórie">
 <!ENTITY pref_search_suggestions "Zobrazovať návrhy vyhľadávania">
 <!ENTITY pref_import_android "Import z Androidu">
 <!ENTITY pref_import_android_summary "Import záložiek a histórie z natívneho prehliadača">
@@ -267,7 +267,7 @@ size. -->
 <!ENTITY pref_private_data_searchHistory "História vyhľadávania">
 <!ENTITY pref_private_data_formdata2 "Údaje zadané do formulárov">
 <!ENTITY pref_private_data_cookies2 "Cookies a aktívne prihlásenia">
-<!ENTITY pref_private_data_passwords "Uložené heslá">
+<!ENTITY pref_private_data_passwords2 "Uložené prihlasovacie údaje">
 <!ENTITY pref_private_data_cache "Vyrovnávacia pamäť">
 <!ENTITY pref_private_data_offlineApps "Údaje stránok v režime offline">
 <!ENTITY pref_private_data_siteSettings2 "Nastavenia stránok">
@@ -612,7 +612,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY guest_session_dialog_continue "Pokračovať">
 <!ENTITY guest_session_dialog_cancel "Zrušiť">
 <!ENTITY new_guest_session_title "&brandShortName; bude teraz reštartovaný">
-<!ENTITY new_guest_session_text "Počas prehliadania v tomto režime nebude mať osoba používajúca zariadenie prístup k akýmkoľvek osobným údajom (ako uložené heslá, história alebo záložky).\n\nPo opustení režimu Hosť budú údaje získané v tomto režime odstránené a bude obnovená vaša posledná relácia.">
+<!ENTITY new_guest_session_text2 "Počas prehliadania v tomto režime nebude mať osoba používajúca zariadenie prístup k akýmkoľvek osobným údajom (ako uložené prihlasovacie údaje, história alebo záložky).\n\nPo opustení režimu Hosť budú údaje získané v tomto režime odstránené a bude obnovená vaša posledná relácia.">
 <!ENTITY guest_browsing_notification_title "Je zapnutý režim Hosť">
 <!ENTITY guest_browsing_notification_text "Ťuknutím ho opustíte">
 
