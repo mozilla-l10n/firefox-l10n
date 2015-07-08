@@ -8,6 +8,7 @@
 <!ENTITY lightning.toolbar.task.name.accesskey "T">
 
 <!ENTITY lightning.toolbar.sync.label "Synchroniseren">
+<!ENTITY lightning.toolbar.sync.tooltip "Agenda’s opnieuw laden en wijzigingen synchroniseren">
 <!ENTITY lightning.toolbar.delete.label "Verwijderen">
 <!ENTITY lightning.toolbar.delete.tooltip "Geselecteerde gebeurtenissen of taken verwijderen">
 <!ENTITY lightning.toolbar.edit.label "Bewerken">
