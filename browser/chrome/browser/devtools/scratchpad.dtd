@@ -66,6 +66,7 @@
 <!ENTITY largerFont.accesskey         "l">
 <!ENTITY largerFont.commandkey        "+">
 <!-- + is above this key on many keyboards -->
+<!ENTITY largerFont.commandkey2       "="> 
 
 <!ENTITY smallerFont.label            "Mazāki fonti">
 <!ENTITY smallerFont.accesskey        "M">
