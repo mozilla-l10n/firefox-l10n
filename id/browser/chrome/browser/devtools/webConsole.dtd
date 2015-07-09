@@ -108,5 +108,5 @@
 <!ENTITY closeCmd.key         "W">
 <!ENTITY findCmd.key          "F">
 <!ENTITY clearOutputCtrl.key  "L">
-
-
+<!ENTITY openInVarViewCmd.label "Buka di Tampilan Variabel">
+<!ENTITY openInVarViewCmd.accesskey "V">
