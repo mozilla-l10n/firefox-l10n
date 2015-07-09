@@ -25,8 +25,8 @@
 
 <!ENTITY helpSafeMode.label       "Simolodisa gape ka di oketswa di Thibetswe go dira">
 <!ENTITY helpSafeMode.accesskey   "S">
-
-
+<!ENTITY helpSafeMode.stop.label       "Simolola sešwa ka dioketswa di kgontshitswe">
+<!ENTITY helpSafeMode.stop.accesskey   "S">
 
 <!ENTITY healthReport2.label      "&brandShorterName; Pegelo ya Kemopholo">
 <!ENTITY healthReport2.accesskey  "e">
