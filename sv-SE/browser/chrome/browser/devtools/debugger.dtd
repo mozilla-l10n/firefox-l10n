@@ -165,6 +165,7 @@
 <!-- LOCALIZATION NOTE (debuggerUI.tabs.*): This is the text that
   -  appears in the debugger's side pane tabs. -->
 
+<!ENTITY debuggerUI.tabs.workers        "Arbetare">
 <!ENTITY debuggerUI.tabs.sources        "Källor">
 <!ENTITY debuggerUI.tabs.traces         "Spårningar">
 <!ENTITY debuggerUI.tabs.callstack      "Anropsstack">
