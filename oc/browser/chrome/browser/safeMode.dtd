@@ -13,4 +13,4 @@
 
 <!-- LOCALIZATION NOTE (autoSafeModeDescription3.label): Shown on the safe mode dialog after multiple startup crashes. See also chrome/global/resetProfile.dtd -->
 
-<!ENTITY autoSafeModeDescription3.label "&brandShortName; s'es tampat inopinadament al moment de son aviada. Aquò pòt èsser causat per de moduls o per d'autres problèmas. Podètz ensajar de resòlvre lo problèma en reïnicializant &brandShortName; a son estat original o de lo reglar via lo mòde sens fracàs.">
+<!ENTITY autoSafeModeDescription3.label "&brandShortName; s'es tampat inopinadament al moment de son aviada. Aquò pòt èsser causat per de moduls o per d'autres problèmas. Podètz ensajar de resòlvre lo problèma via lo mòde sens fracàs.">

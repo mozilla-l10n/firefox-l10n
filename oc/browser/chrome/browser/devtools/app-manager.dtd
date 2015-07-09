@@ -94,7 +94,7 @@
 
 <!ENTITY help.title "Gestionari d'aplicacions">
 <!ENTITY help.close "Tampar">
-<!ENTITY help.intro "Aquesta aisina vos ajudarà a crear e installar d'aplicacions web sus d'aparelhs compatibles (per exemple Firefox OS). L'onglet Aplicacions vos guidarà pendent lo processus d'installacion e la validacion de vòstra aplicacion. L'onglet Aparelh vos provesirà d'informacions sus l'aparelh connectat. Utilizatz la barra d'aisinas situada en bas de l'ecran per connectar un aparelh o aviar lo simulator.">
+<!ENTITY help.intro "Aquesta aisina vos ajudarà a crear e installar d'aplicacions web sus d'aparelhs compatibles (per exemple Firefox OS). L'onglet <strong>Aplicacions</strong> vos guidarà pendent lo processus d'installacion e la validacion de vòstra aplicacion. L'onglet <strong></strong>Aparelh vos provesirà d'informacions sus l'aparelh connectat. Utilizatz la barra d'aisinas situada en bas de l'ecran per connectar un aparelh o aviar lo simulator.">
 <!ENTITY help.usefullLinks "Ligams utiles :">
 <!ENTITY help.appMgrDoc "Documentacion : utilizar lo gestionari d'aplicacions.">
 <!ENTITY help.configuringDevice "Cossí configurar vòstre aparelh Firefox OS">

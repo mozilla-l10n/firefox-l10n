@@ -13,6 +13,7 @@
 <!ENTITY safeb.blocked.malwarePage.longDesc "<p>Los sites d'atac ensajan d'installar de programas que vos raubar d'entresenhas personalas, utilizan vòstre ordenador per n'atacar d'autres o damatjan vòstre sistèma.</p><p>D'unes sites d'atac distribuisson amb intencion de programas dangieroses mas fòrça son implicats sens o que sos proprietaris lo sàpian o l'ajan permés.</p>">
 
 <!-- Localization note (safeb.blocked.malware.shortDesc) - Please don't translate the contents of the <span id="unwanted_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
+<!ENTITY safeb.blocked.unwantedPage.shortDesc "La pagina web sus <span id='unwanted_sitename'/> es estat raportada coma un site d'atac e l'avèm blocat en nos basant sus vòstras preferéncias de seguretat.">
 
 
 <!ENTITY safeb.blocked.phishingPage.title "Sit contrafach raportat !">

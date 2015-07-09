@@ -12,8 +12,6 @@
 
 
 <!ENTITY newtab.customize.blank2 "Afichar una pagina voida">
-<!ENTITY newtab.customize.what "De  qué es aquesta pagina ?">
-
 <!ENTITY newtab.undo.removedLabel "Vinheta suprimida.">
 <!ENTITY newtab.undo.undoButton "Anullar">
 <!ENTITY newtab.undo.restoreButton "Restablir tot.">

@@ -42,6 +42,10 @@
 
 <!ENTITY syncDeviceName.label       "Nom de l'aparelh :">
 <!ENTITY syncDeviceName.accesskey   "d">
+
+
+<!ENTITY cancelChangeSyncDeviceName.label "Anullar">
+<!ENTITY saveChangeSyncDeviceName.label "Enregistrar">
 <!ENTITY unlinkDevice.label           "Levar aqueste aparelh">
 <!-- Footer stuff -->
 

@@ -4,11 +4,22 @@
 
 <!ENTITY aboutTelemetry.pageTitle "Donadas telemetricas">
 
-<!ENTITY aboutTelemetry.telemetryEnabled "  La telemetria es <span>activada</span>.">
 
-<!ENTITY aboutTelemetry.telemetryDisabled "  La telemetria es <span>desactivada</span>.">
+
+
+
+
+
+
+
+
+
+
+
+
 
 <!ENTITY aboutTelemetry.generalDataSection "  Donadas generalas">
+
 
 <!ENTITY aboutTelemetry.telemetryLogSection "  Jornal de la telemetria">
 
