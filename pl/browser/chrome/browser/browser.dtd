@@ -706,6 +706,15 @@ you can use these alternative items. Otherwise, their values should be empty. --
 <!ENTITY mixedContentBlocked2.block.accesskey "W">
 <!ENTITY mixedContentBlocked2.disabled.message "Ochrona została wyłączona">
 
+<!ENTITY trackingProtection.title "Ochrona przed śledzeniem">
+<!ENTITY trackingProtection.detectedBlocked "Próby śledzenia Twojej aktywności zostały zablokowane.">
+<!ENTITY trackingProtection.detectedNotBlocked "Wykryto elementy śledzące aktywność jednak ochrona dla tej strony została wyłączona.">
+<!ENTITY trackingProtection.notDetected "Nie wykryto elementów śledzących aktywność na tej stronie.">
+<!ENTITY trackingProtection.unblock.label "Wyłącz ochronę dla tej strony">
+<!ENTITY trackingProtection.unblock.accesskey "W">
+<!ENTITY trackingProtection.block.label "Włącz ochronę dla tej strony">
+<!ENTITY trackingProtection.block.accesskey "W">
+
 <!ENTITY trackingContentBlocked.message "Śledzenie">
 <!ENTITY trackingContentBlocked.moreinfo "Części strony odpowiedzialne za śledzenie aktywności użytkowników zostały zablokowane.">
 <!ENTITY trackingContentBlocked.learnMore "Więcej informacji">
