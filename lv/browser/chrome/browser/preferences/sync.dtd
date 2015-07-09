@@ -42,8 +42,8 @@
 
 <!ENTITY syncDeviceName.label       "Ierīces nosaukums:">
 <!ENTITY syncDeviceName.accesskey   "I">
-
-
+<!ENTITY fxaSyncDeviceName.label       "Ierīces nosaukums">
+<!ENTITY changeSyncDeviceName.label "Mainīt ierīces nosaukumu…">
 <!ENTITY cancelChangeSyncDeviceName.label "Atcelt">
 <!ENTITY saveChangeSyncDeviceName.label "Saglabāt">
 <!ENTITY unlinkDevice.label           "Atvienot šo ierīci">
