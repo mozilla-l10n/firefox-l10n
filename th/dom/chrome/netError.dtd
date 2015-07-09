@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY loadError.label "การโหลดหน้าเว็บเกิดข้อผิดพลาด">
-<!ENTITY retry.label "โปรดลองอีกครั้ง">
+<!ENTITY retry.label "ลองอีกครั้ง">
 <!-- Specific error messages -->
 
 

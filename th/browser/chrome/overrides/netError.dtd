@@ -166,7 +166,7 @@ functionality specific to firefox. -->
 <!ENTITY errorReporting.sending "กำลังส่งรายงาน">
 <!ENTITY errorReporting.sent "รายงานถูกส่งแล้ว">
 <!ENTITY errorReporting.report "รายงาน">
-<!ENTITY errorReporting.tryAgain "ลองใหม่อีกครั้ง">
+<!ENTITY errorReporting.tryAgain "ลองอีกครั้ง">
 
 <!ENTITY remoteXUL.title "Remote XUL">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>กรุณาติดต่อเจ้าของเว็บไซต์เพื่อแจ้งปัญหานี้</li></ul></p>">
