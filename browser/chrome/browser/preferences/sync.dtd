@@ -42,6 +42,10 @@
 <!-- Device Settings -->
 <!ENTITY syncDeviceName.label       "Nomo de aparato:">
 <!ENTITY syncDeviceName.accesskey   "a">
+<!ENTITY fxaSyncDeviceName.label       "Nomo de aparato">
+<!ENTITY changeSyncDeviceName.label "Ŝanĝi nomon de aparato…">
+<!ENTITY cancelChangeSyncDeviceName.label "Nuligi">
+<!ENTITY saveChangeSyncDeviceName.label "Konservi">
 <!ENTITY unlinkDevice.label           "Malligi tiun ĉi aparaton">
 
 <!-- Footer stuff -->

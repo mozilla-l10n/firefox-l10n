@@ -62,14 +62,14 @@
 <!ENTITY sync.configure.engines.title.label 'Kion speguli'>
 <!ENTITY sync.configure.engines.sync.my.title.label 'Speguli via(j)n…'>
 <!ENTITY sync.configure.engines.title.bookmarks 'legosignojn'>
-<!ENTITY sync.configure.engines.title.passwords 'pasvortojn'>
+<!ENTITY sync.configure.engines.title.passwords2 'akreditilojn'>
 <!ENTITY sync.configure.engines.title.history 'historion'>
 <!ENTITY sync.configure.engines.title.tabs 'langetojn'>
 
 <!-- Common text -->
-<!ENTITY sync.button.cancel.label 'Cancel'>
-<!ENTITY sync.button.connect.label 'Connect'>
-<!ENTITY sync.button.ok.label 'OK'>
+<!ENTITY sync.button.cancel.label 'Nuligi'>
+<!ENTITY sync.button.connect.label 'Konekti'>
+<!ENTITY sync.button.ok.label 'Akcepti'>
 
 <!-- Account strings -->
 <!ENTITY sync.account.label '&syncBrand.fullName.label; (deprecated)'>
@@ -141,7 +141,7 @@
 <!ENTITY fxaccount_policy_linkprivacy 'Rimarko pri privateco'>
 
 <!ENTITY fxaccount_getting_started_welcome_to_sync 'Bonvenon al &syncBrand.shortName.label;'>
-<!ENTITY fxaccount_getting_started_description 'Komenci seancon por speguli viajn langetojn, legosignojn, pasvortojn kaj pli.'>
+<!ENTITY fxaccount_getting_started_description2 'Komencu seancon por speguli viajn langetojn, legosignojn, akreditilojn kaj pli.'>
 <!ENTITY fxaccount_getting_started_get_started 'Unuaj paŝoj'>
 <!ENTITY fxaccount_getting_started_old_firefox 'Ĉu vi nun uzas malnovan version de &syncBrand.shortName.label;?'>
 
@@ -212,7 +212,7 @@
 <!ENTITY fxaccount_status_needs_finish_migrating 'Tuŝetu por komenci seancon en via nova konto de Firefox.'>
 <!ENTITY fxaccount_status_bookmarks 'Legosignoj'>
 <!ENTITY fxaccount_status_history 'Historio'>
-<!ENTITY fxaccount_status_passwords 'Pasvortoj'>
+<!ENTITY fxaccount_status_passwords2 'Akreditiloj'>
 <!ENTITY fxaccount_status_tabs 'Malfermitaj langetoj'>
 <!ENTITY fxaccount_status_legal 'Leĝaj informoj' >
 <!-- Localization note: when tapped, the following two strings link to
