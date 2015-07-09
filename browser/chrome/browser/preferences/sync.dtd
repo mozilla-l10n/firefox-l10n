@@ -42,6 +42,10 @@
 
 <!ENTITY syncDeviceName.label       "نام دستگاه:">
 <!ENTITY syncDeviceName.accesskey   "c">
+
+
+<!ENTITY cancelChangeSyncDeviceName.label "انصراف">
+<!ENTITY saveChangeSyncDeviceName.label "ذخیره">
 <!ENTITY unlinkDevice.label           "جدا کردن دستگاه">
 <!-- Footer stuff -->
 

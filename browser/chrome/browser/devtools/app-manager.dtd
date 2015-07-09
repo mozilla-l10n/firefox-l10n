@@ -36,7 +36,7 @@
 <!ENTITY device.permissionsHelpLink "https://developer.mozilla.org/docs/Web/Apps/App_permissions">
 
 <!ENTITY device.browserTabsTooltip "مشاهده فهرستی از تبهای مرورگر دستگاه متصل">
-
+<!ENTITY device.debugBrowserTab "اشکال‌زدایی">
 
 
 

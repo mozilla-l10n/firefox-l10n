@@ -20,6 +20,8 @@
 <!ENTITY importFromFirefox.label        "فایرفاکس">
 <!ENTITY importFromFirefox.accesskey    "x">
 
+
+
 <!ENTITY noMigrationSources.label       "برنامه‌ای که شامل اطلاعات نشانک‌ها، تاریخچه یا گذرواژه‌ها باشد یافت نشد.">
 
 <!ENTITY importSource.title             "وارد کردن تنظیمات و داده‌ها">

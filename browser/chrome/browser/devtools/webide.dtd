@@ -133,7 +133,7 @@
 <!-- Permissions Table -->
 
 <!ENTITY permissionstable_title "جدول مجوزها">
-<!ENTITY permissionstable_name_header "نام">
+
 <!-- Runtime Details -->
 
 
@@ -171,3 +171,14 @@
 <!-- LOCALIZATION NOTE (wifi_auth_token_request): Instructions requesting the
      user to transfer authentication info by transferring a token. -->
 <!-- Logs panel -->
+<!-- Simulator Options -->
+
+
+
+
+<!ENTITY simulator_version "نسخه">
+
+
+<!ENTITY simulator_device "دستگاه">
+
+
