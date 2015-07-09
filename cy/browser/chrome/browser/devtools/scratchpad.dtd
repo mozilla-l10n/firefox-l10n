@@ -65,6 +65,8 @@
 <!ENTITY largerFont.label             "Ffont Mwy">
 <!ENTITY largerFont.accesskey         "M">
 <!ENTITY largerFont.commandkey        "+">
+<!-- + is above this key on many keyboards -->
+<!ENTITY largerFont.commandkey2       "="> 
 
 <!ENTITY smallerFont.label            "Ffont Llai">
 <!ENTITY smallerFont.accesskey        "L">
