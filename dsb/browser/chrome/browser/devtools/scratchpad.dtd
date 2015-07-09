@@ -65,6 +65,8 @@
 <!ENTITY largerFont.label             "Wětše pismo">
 <!ENTITY largerFont.accesskey         "W">
 <!ENTITY largerFont.commandkey        "+">
+<!-- + is above this key on many keyboards -->
+<!ENTITY largerFont.commandkey2       "="> 
 
 <!ENTITY smallerFont.label            "Mjeńše pismo">
 <!ENTITY smallerFont.accesskey        "M">
