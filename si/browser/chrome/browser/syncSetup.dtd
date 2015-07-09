@@ -16,7 +16,7 @@
 <!-- New Account AND Existing Account -->
 
 <!ENTITY server.label               "සේවාදායකය">
-<!ENTITY serverType.default.label      "පෙරනිමි: මොසිල්ලා &syncBrand.fullName.label; සේවාදායකය">
+<!ENTITY serverType.default.label      "පෙරනිමි: Moziila &syncBrand.fullName.label; සේවාදායකය">
 <!ENTITY serverType.custom2.label   "රිසිකරණ සේවාදායකයක් භාවිතා කරන්න">
 <!ENTITY signIn.account2.label      "ගිණුම">
 <!ENTITY signIn.account2.accesskey  "A">

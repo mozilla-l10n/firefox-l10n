@@ -10,3 +10,5 @@
 <!ENTITY usedAs "භාවිත කලේ:   ">
 <!ENTITY system "පද්ධතිය">
 <!ENTITY remote "දුරස්ථ">
+<!-- LOCALIZATION NOTE (previewHint): This is the label shown as the
+     placeholder in font inspector preview text box. -->
