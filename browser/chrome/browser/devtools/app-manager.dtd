@@ -60,9 +60,9 @@
 <!ENTITY connection.or "ou">
 <!ENTITY connection.noSimulatorInstalled "Nenhum simulador instalado.">
 <!ENTITY connection.installOneSimulator "Instalar simulador">
-<!ENTITY connection.installOneSimulatorTooltip "Instala a versão do simulador, transferindo o extra apropriado">
+<!ENTITY connection.installOneSimulatorTooltip "Instala a versão do simulador, descarregando o extra apropriado">
 <!ENTITY connection.installAnotherSimulator "Adicionar">
-<!ENTITY connection.installAnotherSimulatorTooltip "Instala uma versão adicional do simulador, transferindo o extra apropriado">
+<!ENTITY connection.installAnotherSimulatorTooltip "Instala uma versão adicional do simulador, descarregando o extra apropriado">
 <!ENTITY connection.startRegisteredSimulator "Inicia:">
 
 <!ENTITY projects.localApps "Aplicações locais">

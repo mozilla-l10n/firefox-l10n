@@ -6,13 +6,21 @@
 
 <!ENTITY aboutTelemetry.changeDataChoices "Alterar">
 
+<!ENTITY aboutTelemetry.uploadEnabled "  O envio de dados FHR está <span>ativado</span>.">
 
+<!ENTITY aboutTelemetry.uploadDisabled "  O envio de dados FHR está <span>desativado</span>.">
 
+<!ENTITY aboutTelemetry.extendedRecordingEnabled "  A gravação estendida de telemetria está <span>ativada</span>.">
 
+<!ENTITY aboutTelemetry.extendedRecordingDisabled "  A gravação estendida de telemetria está <span>desativada</span>.">
 
+<!ENTITY aboutTelemetry.pingDataSource "Fonte dos dados do ping:">
 
+<!ENTITY aboutTelemetry.showCurrentPingData "Dados ping atuais">
 
+<!ENTITY aboutTelemetry.showArchivedPingData "Dados ping arquivados">
 
+<!ENTITY aboutTelemetry.showSubsessionData "Mostrar dados de sub-sessão">
 
 <!ENTITY aboutTelemetry.choosePing "Escolha o ping:">
 
@@ -54,7 +62,7 @@
 
 <!ENTITY aboutTelemetry.emptySection "  (Nenhuns dados obtidos)">
 
-<!ENTITY aboutTelemetry.fullSqlWarning "  NOTA: a depuração de SQL lento está ativa. As linhas SQL completas poderão ser mostradas abaixo mas não serão submetidas à telemetria.">
+<!ENTITY aboutTelemetry.fullSqlWarning " NOTA: a depuração de SQL lento está ativa. As linhas SQL completas poderão ser mostradas abaixo mas não serão submetidas à telemetria.">
 
 <!ENTITY aboutTelemetry.fetchSymbols "  Obter nome das funções para conjuntos de bloqueios">
 

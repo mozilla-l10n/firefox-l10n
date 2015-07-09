@@ -8,10 +8,10 @@
 <!ENTITY newtab.customize.cog.enhanced "Incluir sites sugeridos">
 <!ENTITY newtab.customize.cog.title2 "Novos controlos de separadores">
 <!ENTITY newtab.customize.cog.learn "Saiba mais acerca do novo separador">
-<!ENTITY newtab.customize.title "Personalizar a página do novo separador">
+<!ENTITY newtab.customize.title "Personalizar a página Novo separador">
 <!ENTITY newtab.customize.suggested "Mostrar sugestões e os seus sites mais visitados">
 <!ENTITY newtab.customize.topsites "Mostrar os seus sites mais visitados">
-<!ENTITY newtab.customize.blank2 "Mostrar página em branco">
+<!ENTITY newtab.customize.blank2 "Mostrar página vazia">
 <!ENTITY newtab.undo.removedLabel "Miniatura removida.">
 <!ENTITY newtab.undo.undoButton "Desfazer.">
 <!ENTITY newtab.undo.restoreButton "Repor tudo.">

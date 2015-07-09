@@ -52,7 +52,7 @@
 <!-- LOCALIZATION NOTE (debuggerUI.startTracing): This is the text displayed in
   - the button to start execution tracing. -->
 
-<!ENTITY debuggerUI.startTracing "Iniciar Tracing">
+<!ENTITY debuggerUI.startTracing "Iniciar tracing">
 <!-- LOCALIZATION NOTE (debuggerUI.clearButton): This is the label for
   -  the button that clears the collected tracing data in the tracing tab. -->
 
@@ -98,8 +98,8 @@
   -  the checkbox that toggles whether sources that we suspect are minified are
   -  automatically black boxed or not. -->
 
-<!ENTITY debuggerUI.autoBlackBox           "Marcar automaticamente como Caixas Negras as fontes minificadas">
-<!ENTITY debuggerUI.autoBlackBox.accesskey "ç">
+<!ENTITY debuggerUI.autoBlackBox           "Marcar automaticamente como caixa negra as fontes minificadas">
+<!ENTITY debuggerUI.autoBlackBox.accesskey "c">
 <!-- LOCALIZATION NOTE (debuggerUI.searchPanelOperators): This is the text that
   -  appears in the filter panel popup as a header for the operators part. -->
 
@@ -126,7 +126,7 @@
 <!-- LOCALIZATION NOTE (debuggerUI.searchToken): This is the text that appears
   -  in the source editor's context menu for the token search operation. -->
 
-<!ENTITY debuggerUI.searchToken           "Procurar">
+<!ENTITY debuggerUI.searchToken           "Localizar">
 <!ENTITY debuggerUI.searchToken.key       "L">
 <!ENTITY debuggerUI.searchToken.accesskey "F">
 <!-- LOCALIZATION NOTE (debuggerUI.searchLine): This is the text that appears
@@ -164,6 +164,8 @@
 <!ENTITY debuggerUI.seMenuCondBreak.key "b">
 <!-- LOCALIZATION NOTE (debuggerUI.tabs.*): This is the text that
   -  appears in the debugger's side pane tabs. -->
+
+<!ENTITY debuggerUI.tabs.workers        "Workers">
 <!ENTITY debuggerUI.tabs.sources        "Origens">
 <!ENTITY debuggerUI.tabs.traces         "Traces">
 <!ENTITY debuggerUI.tabs.callstack      "Call Stack">
@@ -202,7 +204,7 @@
   -  debugger sources side menu. This should be the same as
   -  netmonitorUI.context.newTab  -->
 
-<!ENTITY debuggerUI.context.newTab           "Abrir num novo separador">
+<!ENTITY debuggerUI.context.newTab           "Abrir em novo separador">
 <!ENTITY debuggerUI.context.newTab.accesskey "o">
 <!-- LOCALIZATION NOTE (debuggerUI.context.copyUrl): This is the label displayed
   -  on the context menu that copies the selected request's url. This should be

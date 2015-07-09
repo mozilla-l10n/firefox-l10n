@@ -145,7 +145,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (findShareServices.label):
   -  Use the unicode ellipsis char, \u2026,
   -  or use "..." if \u2026 doesn't suit traditions in your locale. -->
-<!ENTITY findShareServices.label "Procurar mais serviços de partilha…">
+<!ENTITY findShareServices.label "Localizar mais serviços de partilha…">
 <!ENTITY sharePageCmd.label "Partilhar esta página">
 <!ENTITY sharePageCmd.commandkey "s">
 <!ENTITY sharePageCmd.accesskey "s">
@@ -173,7 +173,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY backForwardButtonMenu.tooltip "Clique com o botão direito ou desloque para baixo para mostrar o histórico">
 <!ENTITY backForwardButtonMenuMac.tooltip "Desloque para baixo para mostrar o histórico">
 <!ENTITY reloadCmd.label              "Recarregar">
-<!ENTITY reloadButton.tooltip         "Recarrega a página atual">
+<!ENTITY reloadButton.tooltip         "Recarregar página atual">
 <!ENTITY stopCmd.label                "Parar">
 <!ENTITY stopCmd.macCommandKey        ".">
 <!ENTITY stopButton.tooltip           "Parar de carregar esta página">
@@ -234,7 +234,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY errorConsoleCmd.label        "Consola de erros">
 <!ENTITY errorConsoleCmd.accesskey    "C">
 
-<!ENTITY remoteWebConsoleCmd.label    "Consola Web remota">
+<!ENTITY remoteWebConsoleCmd.label    "Consola web remota">
 
 <!ENTITY browserConsoleCmd.label      "Consola do navegador">
 <!ENTITY browserConsoleCmd.commandkey "j">
@@ -559,11 +559,11 @@ items are mutually exclusive. -->
 <!ENTITY mediaUnmute.accesskey       "s">
 <!ENTITY mediaPlaybackRate.label     "Velocidade de reprodução">
 <!ENTITY mediaPlaybackRate.accesskey "l">
-<!ENTITY mediaPlaybackRate050x.label "Lenta (0.5×)">
+<!ENTITY mediaPlaybackRate050x.label "Lenta (0,5×)">
 <!ENTITY mediaPlaybackRate050x.accesskey "L">
 <!ENTITY mediaPlaybackRate100x.label "Normal">
 <!ENTITY mediaPlaybackRate100x.accesskey "N">
-<!ENTITY mediaPlaybackRate150x.label "Rápida (1.5×)">
+<!ENTITY mediaPlaybackRate150x.label "Rápida (1,5×)">
 <!ENTITY mediaPlaybackRate150x.accesskey "R">
 <!-- LOCALIZATION NOTE: "Ludicrous Speed" is a reference to the
 movie "Space Balls" and is meant to say that this speed is very
@@ -658,11 +658,11 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY bidiSwitchTextDirectionItem.accesskey    "x">
 <!ENTITY bidiSwitchTextDirectionItem.commandkey   "X">
 
-<!ENTITY findOnCmd.label     "Procurar nesta página…">
+<!ENTITY findOnCmd.label     "Localizar nesta página…">
 <!ENTITY findOnCmd.accesskey "n">
 <!ENTITY findOnCmd.commandkey "f">
-<!ENTITY findAgainCmd.label  "Voltar a procurar">
-<!ENTITY findAgainCmd.accesskey "r">
+<!ENTITY findAgainCmd.label  "Localizar novamente">
+<!ENTITY findAgainCmd.accesskey "m">
 <!ENTITY findAgainCmd.commandkey "g">
 <!ENTITY findAgainCmd.commandkey2 "VK_F3">
 <!ENTITY findSelectionCmd.commandkey "e">
@@ -769,7 +769,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY mixedContentBlocked2.block.accesskey "v">
 <!ENTITY mixedContentBlocked2.disabled.message "Proteção desativada">
 
-<!ENTITY trackingContentBlocked.message "Seguimento">
+<!ENTITY trackingContentBlocked.message "Rastreio">
 <!ENTITY trackingContentBlocked.moreinfo "Partes da página que rastreiam a sua atividade foram bloqueadas.">
 <!ENTITY trackingContentBlocked.learnMore "Saber mais">
 <!ENTITY trackingContentBlocked.options "Opções">
@@ -787,7 +787,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY pluginActivateNow.label "Permitir agora">
 <!ENTITY pluginActivateAlways.label "Permitir e memorizar">
-<!ENTITY pluginBlockNow.label "Bloquear Plugin">
+<!ENTITY pluginBlockNow.label "Bloquear plugin">
 <!-- LOCALIZATION NOTE: (pluginNotification.width): This is used to determine the
      width of the plugin popup notification that can appear if a plugin has been
      blocked on a page. Should be wide enough to fit the pluginActivateNow.label
