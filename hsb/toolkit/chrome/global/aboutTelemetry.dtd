@@ -6,9 +6,9 @@
 
 <!ENTITY aboutTelemetry.changeDataChoices "  Změnić">
 
-<!ENTITY aboutTelemetry.uploadEnabled "  Nahraće FHR-datow je <span>zmóžnjeny</span>.">
+<!ENTITY aboutTelemetry.uploadEnabled "  Nahraće FHR-datow je <span>zmóžnjene</span>.">
 
-<!ENTITY aboutTelemetry.uploadDisabled "  Nahraće FHR-datow je <span>znjemóžnjeny</span>.">
+<!ENTITY aboutTelemetry.uploadDisabled "  Nahraće FHR-datow je <span>znjemóžnjene</span>.">
 
 <!ENTITY aboutTelemetry.extendedRecordingEnabled "  Rozšerjene telemetrijowe natočenje je <span>zmóžnjene</span>.">
 
@@ -20,6 +20,7 @@
 
 <!ENTITY aboutTelemetry.showArchivedPingData "Archiwowane pingdaty">
 
+<!ENTITY aboutTelemetry.showSubsessionData "Daty podposedźenja pokazać">
 
 <!ENTITY aboutTelemetry.choosePing "Ping wubrać:">
 
@@ -31,11 +32,11 @@
 
 <!ENTITY aboutTelemetry.archivePingHeader "Ping">
 
-<!ENTITY aboutTelemetry.generalDataSection "Powšitkowne daty">
+<!ENTITY aboutTelemetry.generalDataSection "  Powšitkowne daty">
 
 <!ENTITY aboutTelemetry.environmentDataSection "  Wokolinowe daty">
 
-<!ENTITY aboutTelemetry.telemetryLogSection "Telemetrijowy protokol">
+<!ENTITY aboutTelemetry.telemetryLogSection "  Telemetrijowy protokol">
 
 <!ENTITY aboutTelemetry.slowSqlSection "  Pomałe SQL-přikazy">
 
@@ -45,7 +46,7 @@
 
 <!ENTITY aboutTelemetry.histogramsSection "  Histogramy">
 
-<!ENTITY aboutTelemetry.keyedHistogramsSection "Kodowane histogramy">
+<!ENTITY aboutTelemetry.keyedHistogramsSection "  Kodowane histogramy">
 
 <!ENTITY aboutTelemetry.simpleMeasurementsSection "  Jednore měrjenja">
 
