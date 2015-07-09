@@ -274,7 +274,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
   -  application menu item that opens the browser content toolbox UI in the Tools menu.
   -  This toolbox allows to debug the chrome of the content process in multiprocess builds.  -->
 
-<!ENTITY browserContentToolboxMenu.label     "جعبه‌ابزار محتوایی مرورگر">
 
 <!ENTITY devToolbarCloseButton.tooltiptext "بستن نوار توسعه دهنده">
 <!ENTITY devToolbarMenu.label              "نوار توسعه دهنده">
@@ -304,6 +303,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY newNavigatorCmd.accesskey      "پ">
 <!ENTITY newPrivateWindow.label     "پنجره‌ی ناشناس جدید">
 <!ENTITY newPrivateWindow.accesskey "پ">
+
 
 <!ENTITY editMenu.label         "ویرایش"> 
 <!ENTITY editMenu.accesskey       "و"> 
@@ -423,10 +423,18 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY searchFor.label              "جستجو برای ">
 <!ENTITY searchWith.label             " با:">
+<!-- LOCALIZATION NOTE (search.label, searchAfter.label):
+     This string is used to build the header above the list of one-click search
+     providers when a one off engine has been selected.  The searchAfter text is
+     intentionally left empty for en-US and can be used by other localizations to
+     display a string after the search engine name.  This string will be displayed
+     as:  "Search <selected engine name><searchAfter.label text>" -->
+<!ENTITY searchAfter.label            "">
 <!-- LOCALIZATION NOTE (searchWithHeader.label):
      The wording of this string should be as close as possible to
      searchFor.label and searchWith.label. This string will be used instead of
      them when the user has not typed any keyword. -->
+
 <!ENTITY searchWithHeader.label       "جست‌وجو در:">
 <!-- LOCALIZATION NOTE (changeSearchSettings.button):
      This string won't wrap, so if the translated string is longer,
@@ -662,29 +670,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY editBookmark.cancel.label                   "انصراف">
 <!ENTITY editBookmark.removeBookmark.accessKey       "R">
 
-<!ENTITY identity.unverifiedsite2 "این وب‌گاه از هویت خود اطلاعاتی فراهم نمی‌کند.">
-<!ENTITY identity.connectedTo "پایگاهی که به آن متصل هستید:">
-<!-- Localization note (identity.runBy) : This string appears between a
-domain name (above) and an organization name (below). E.g.
 
-example.com
-which is run by
-Example Enterprises, Inc.
 
-The layout of the identity dialog prevents combining this into a single string with
-substitution variables.  If it is difficult to translate the sense of the string
-with that structure, consider a translation which ignores the preceding domain and
-just addresses the organization to follow, e.g. "This site is run by " -->
-<!ENTITY identity.runBy "اداره کننده:">
 
-<!ENTITY identity.moreInfoLinkText "اطلاعات بیشتر…">
+
 
 <!ENTITY identity.permissions "مجوزها">
-<!-- LOCALIZATION NOTE (identity.help.tooltip) : This string should be the
-     localized title of this SUMO article
-     https://support.mozilla.org/kb/how-do-i-tell-if-my-connection-is-secure -->
-
-<!ENTITY identity.help.tooltip "چطور می‌تونم بگم که اتصالم به یک پایگاه‌وب امن است؟">
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
 
@@ -743,7 +734,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY customizeMode.lwthemes.menuManage.accessKey "M">
 <!ENTITY customizeMode.lwthemes.menuGetMore "دریافت زمینه های بیشتر">
 <!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "G">
-<!ENTITY customizeMode.deveditionTheme.label2 "استفاده از تم و زمینه توسعه‌دهندگان">
 
 <!ENTITY social.chatBar.commandkey "c">
 <!ENTITY social.chatBar.label "تمرکز بر روی گپ‌ها">
@@ -803,8 +793,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY uiTour.infoPanel.close "بستن">
 
 <!ENTITY appMenuSidebars.label         "نوارهای جانبی">
-
-<!ENTITY switchToMetroCmd2.label       "راه‌اندازی مجدد در &brandShortName; برای ویندوز ۸ لمسی">
 <!-- LOCALIZATION NOTE: (panicButton.view.mainTimeframeDesc, panicButton.view.5min, panicButton.view.2hr, panicButton.view.day):
      The .mainTimeframeDesc string combined with any of the 3 others is meant to form a complete sentence, e.g. "Forget the last: Five minutes".
      Please ensure that this remains the case in the translation. -->
@@ -858,3 +846,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- Pre-landed strings for bug 1123519 -->
 <!ENTITY readingList.sidebar.add.label            "اضافه کردن به فهرست مطالعه">
 <!ENTITY readingList.sidebar.add.tooltip          "این صفحه را به فهرست مطالعه خود اضافه کنید">
+<!-- LOCALIZATION NOTE (saveToPocketCmd.label, saveLinkToPocketCmd.label, pocketMenuitem.label): Pocket is a brand name -->
+
+
+
+

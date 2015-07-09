@@ -62,6 +62,12 @@
 
 
 
+<!-- LOCALIZATION NODE (btnConsoleSharedWorkers) the term "Shared Workers"
+  -  should not be translated. -->
+<!-- LOCALIZATION NODE (btnConsoleServiceWorkers) the term "Service Workers"
+  -  should not be translated. -->
+<!-- LOCALIZATION NODE (btnConsoleWindowlessWorkers) the term "Workers"
+  -  should not be translated. -->
 
 
 
@@ -76,6 +82,8 @@
 
 <!ENTITY copyURLCmd.label     "رونوشت برداشتن از مکان پیوند">
 <!ENTITY copyURLCmd.accesskey "ن">
+
+
 
 
 

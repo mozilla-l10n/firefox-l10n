@@ -4,11 +4,22 @@
 
 <!ENTITY aboutTelemetry.pageTitle "اطلاعات مسافت‌سنجی">
 
-<!ENTITY aboutTelemetry.telemetryEnabled "مسافت سنج <span>فعال شد.</span>">
 
-<!ENTITY aboutTelemetry.telemetryDisabled "  مسافت سنج <span>غیرفعال شد</span>.">
+
+
+
+
+
+
+
+
+
+
+
+
 
 <!ENTITY aboutTelemetry.generalDataSection "  اطلاعات عمومی">
+
 
 <!ENTITY aboutTelemetry.telemetryLogSection "  وقایع مسافت‌سنجی">
 
