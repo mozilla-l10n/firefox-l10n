@@ -108,5 +108,5 @@
 <!ENTITY closeCmd.key         "w">
 <!ENTITY findCmd.key          "f">
 <!ENTITY clearOutputCtrl.key  "l">
-
-
+<!ENTITY openInVarViewCmd.label "Abrir em modo de visualização de variáveis">
+<!ENTITY openInVarViewCmd.accesskey "v">
