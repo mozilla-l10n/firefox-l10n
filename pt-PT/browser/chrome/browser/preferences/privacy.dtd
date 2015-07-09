@@ -22,8 +22,8 @@
 <!ENTITY  locbar.bookmarks.accesskey    "M">
 <!ENTITY  locbar.openpage.label         "Separadores abertos">
 <!ENTITY  locbar.openpage.accesskey     "S">
-
-
+<!ENTITY  locbar.searches.label         "Pesquisar relacionadas do motor de pesquisa por omissão">
+<!ENTITY  locbar.searches.accesskey     "d">
 
 <!ENTITY  acceptCookies.label           "Aceitar cookies de sites">
 <!ENTITY  acceptCookies.accesskey       "A">

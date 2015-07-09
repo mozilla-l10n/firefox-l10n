@@ -126,7 +126,7 @@
 <!ENTITY prefs_options_showeditor "Mostrar editor">
 <!ENTITY prefs_options_showeditor_tooltip "Mostrar o editor interno">
 <!ENTITY prefs_options_tabsize "Tamanho dos separadores">
-<!ENTITY prefs_options_expandtab "Separadores suaves">
+<!ENTITY prefs_options_expandtab "Separadores incondicionais">
 <!ENTITY prefs_options_expandtab_tooltip "Utilizar espaços em vez do caracteres do separador">
 <!ENTITY prefs_options_detectindentation "Avanço automático">
 <!ENTITY prefs_options_detectindentation_tooltip "Adivinha o recuo baseado no conteúdo de origem">

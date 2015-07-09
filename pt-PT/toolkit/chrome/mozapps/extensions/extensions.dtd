@@ -67,7 +67,7 @@
 <!ENTITY updates.resetUpdatesToManual.accesskey      "R">
 <!ENTITY updates.updating.label               "A atualizar extras">
 <!ENTITY updates.installed.label              "Os seus extras foram atualizados.">
-<!ENTITY updates.downloaded.label             "As atualizações para os seus extras foram transferidas.">
+<!ENTITY updates.downloaded.label             "As atualizações para os seus extras foram descarregadas.">
 <!ENTITY updates.restart.label                "Reinicie para completar a instalação">
 <!ENTITY updates.noneFound.label              "Nenhuma atualização encontrada">
 <!ENTITY updates.manualUpdatesFound.label     "Ver atualizações disponíveis">
@@ -78,7 +78,7 @@
 <!ENTITY cmd.showDetails.label                "Mostrar mais informações">
 <!ENTITY cmd.showDetails.accesskey            "s">
 <!ENTITY cmd.findUpdates.label                "Procurar atualizações">
-<!ENTITY cmd.findUpdates.accesskey            "r">
+<!ENTITY cmd.findUpdates.accesskey            "P">
 <!ENTITY cmd.preferencesWin.label             "Opções">
 <!ENTITY cmd.preferencesWin.accesskey         "O">
 <!ENTITY cmd.preferencesUnix.label            "Preferências">

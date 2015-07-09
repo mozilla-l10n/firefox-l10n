@@ -12,7 +12,7 @@
 <!ENTITY useCursorNavigation.accesskey   "c">
 <!ENTITY searchStartTyping.label         "Pesquisar texto ao começar a escrever">
 <!ENTITY searchStartTyping.accesskey     "x">
-<!ENTITY blockAutoRefresh.label          "Avisar se os sites que visito tentam redirecionar ou recarregar a página">
+<!ENTITY blockAutoRefresh.label          "Avisar se os sítios que visito tentam redirecionar ou recarregar a página">
 <!ENTITY blockAutoRefresh.accesskey      "r">
 
 <!ENTITY browsing.label                  "Navegação">

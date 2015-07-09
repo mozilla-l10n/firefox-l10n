@@ -11,7 +11,7 @@
 
 <!ENTITY importFromIE.label             "Microsoft Internet Explorer">
 <!ENTITY importFromIE.accesskey         "M">
-<!ENTITY importFromNothing.label        "Não importar nada">
+<!ENTITY importFromNothing.label        "Não importar">
 <!ENTITY importFromNothing.accesskey    "N">
 <!ENTITY importFromSafari.label         "Safari">
 <!ENTITY importFromSafari.accesskey     "S">

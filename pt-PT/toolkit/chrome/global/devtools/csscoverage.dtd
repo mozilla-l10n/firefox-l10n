@@ -30,7 +30,7 @@
   -  <style> tag -->
 
 <!ENTITY csscoverage.optimize.body1 "Às vezes pode acelerar o carregamento movendo">
-<!ENTITY csscoverage.optimize.body2 "etiquetas para o fim da página e ao criar um novo elemento">
+<!ENTITY csscoverage.optimize.body2 "etiquetas no fim da página e ao criar um novo elemento">
 <!ENTITY csscoverage.optimize.body3 "com os estilos necessários antes do evento de 'carregamento' no topo. Aqui estão os estilos de blocos que necessita:">
 <!-- LOCALIZATION NOTE (csscoverage.optimize.bodyX):
   -  This is what we say when we have no optimization suggestions -->
