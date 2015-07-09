@@ -20,6 +20,8 @@
 <!ENTITY importFromFirefox.label        "Firefox">
 <!ENTITY importFromFirefox.accesskey    "x">
 
+
+
 <!ENTITY noMigrationSources.label       "Չգտնվեց ծրագիր, որը պարունակում է էջանիշեր, պատմություն կամ գաղտնաբառ:">
 
 <!ENTITY importSource.title             "Ներմուծել Կարգավորումները ու Տվյալները">

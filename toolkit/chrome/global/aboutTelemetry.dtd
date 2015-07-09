@@ -4,11 +4,22 @@
 
 <!ENTITY aboutTelemetry.pageTitle "Telemetry-ի տվյալ">
 
-<!ENTITY aboutTelemetry.telemetryEnabled "  Telemetry-ին <span>միացված է</span>։">
 
-<!ENTITY aboutTelemetry.telemetryDisabled "  Telemetry-ին <span>անջատված է</span>։">
+
+
+
+
+
+
+
+
+
+
+
+
 
 <!ENTITY aboutTelemetry.generalDataSection "  Գլխավոր տվյալներ">
+
 
 <!ENTITY aboutTelemetry.telemetryLogSection "  Telemetry-ի մատյանը">
 
