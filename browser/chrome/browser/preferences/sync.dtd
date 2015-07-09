@@ -42,6 +42,10 @@
 
 <!ENTITY syncDeviceName.label       "උපාංග නාමය (c):">
 <!ENTITY syncDeviceName.accesskey   "c">
+
+
+<!ENTITY cancelChangeSyncDeviceName.label "එපා">
+<!ENTITY saveChangeSyncDeviceName.label "සුරකින්න">
 <!ENTITY unlinkDevice.label           "මෙම උපාංගය අසබැඳි කරන්න">
 <!-- Footer stuff -->
 

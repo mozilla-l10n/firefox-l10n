@@ -17,8 +17,10 @@
 <!ENTITY importFromSafari.accesskey     "S">
 <!ENTITY importFromChrome.label         "ක්‍රෝම් (Chrome)">
 <!ENTITY importFromChrome.accesskey     "C">
-<!ENTITY importFromFirefox.label        "ෆයර්ෆොක්ස්">
+<!ENTITY importFromFirefox.label        "Firefox">
 <!ENTITY importFromFirefox.accesskey    "x">
+
+
 
 <!ENTITY noMigrationSources.label       "පිටු සලකුණු, අතීතය හෝ රහස්පද දත්ත අඩංගු වන කිසිදු වැඩසටහනක් සොයාගත නොහැකි විය.">
 

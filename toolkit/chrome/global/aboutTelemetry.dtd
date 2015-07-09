@@ -4,11 +4,22 @@
 
 <!ENTITY aboutTelemetry.pageTitle "දූරමිතික දත්ත">
 
-<!ENTITY aboutTelemetry.telemetryEnabled "  දූරමිතිය <span>සක්‍රීයයි</span>.">
 
-<!ENTITY aboutTelemetry.telemetryDisabled "    දූරමිතිය <span>අක්‍රීයයි</span>.">
+
+
+
+
+
+
+
+
+
+
+
+
 
 <!ENTITY aboutTelemetry.generalDataSection "    සාමාන්‍ය දත්ත">
+
 
 
 <!ENTITY aboutTelemetry.slowSqlSection "    SQL ප්‍රකාශ පෙන්වන්න">

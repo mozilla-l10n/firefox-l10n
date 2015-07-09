@@ -6,17 +6,12 @@
 <!ENTITY newtab.pageTitle "නව ටැබය">
 
 
-<!--
-  LOCALIZATION NOTE(newtab.customize.cog.title): This string is for the new
-  tab cog menu title. It will be transformed to uppercase.
--->
+
 
 <!ENTITY newtab.customize.title "ඔබේ නව ටැබ පිටුව රුචිකරණය කරමින්">
 
 
 
-<!ENTITY newtab.customize.what "මෙම පිටුව කුමක්ද?">
-<!ENTITY newtab.intro.header "මෙම පිටුව කුමක්ද?">
 <!ENTITY newtab.undo.removedLabel "කුඩාරුව ඉවත් විය.">
 <!ENTITY newtab.undo.undoButton "අහොසි.">
 <!ENTITY newtab.undo.restoreButton "සියල්ල යළි පිහිටුවන්න.">
