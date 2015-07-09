@@ -48,8 +48,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY viewMenu.label           "Leba">
 <!ENTITY viewMenu.accesskey       "L">
-<!ENTITY reloadCmd.label "Laisa sešwa">
-<!ENTITY reloadCmd.accesskey "L">
+<!ENTITY reloadCmd.label "Tsenya sešwa">
+<!ENTITY reloadCmd.accesskey "T">
 <!ENTITY reloadCmd.commandkey "r">
 
 

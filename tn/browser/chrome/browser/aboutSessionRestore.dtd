@@ -29,7 +29,9 @@
 <!ENTITY welcomeback2.restoreButton  "A re tsamaye!">
 <!ENTITY welcomeback2.restoreButton.access "L">
 
+<!ENTITY welcomeback2.tabtitle      "Katlego!">
 
+<!ENTITY welcomeback2.pageTitle     "Katlego!">
 <!ENTITY welcomeback2.pageInfo1     "&brandShortName; e siametse go simolola.">
 
 <!ENTITY welcomeback2.label.restoreAll  "Busetsa di Window le Dithebe tsotlhe">

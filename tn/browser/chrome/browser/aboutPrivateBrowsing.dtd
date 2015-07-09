@@ -3,16 +3,17 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY aboutPrivateBrowsing.title            "O batlela mo sephiring">
-
+<!ENTITY aboutPrivateBrowsing.title.normal     "Bula window ya poraefete?">
 
 <!ENTITY aboutPrivateBrowsing.subtitle         "&brandShortName; ga e ka ke ya gakologelwa motlhala ope mo window e.">
-<!ENTITY aboutPrivateBrowsing.subtitle.normal  "&brandShortName; ga e ka ke ya gakologelwa tse di fetileng tsa dithebe tse di poraefete.">
+<!ENTITY aboutPrivateBrowsing.subtitle.normal  "&brandShortName; ga e ka ke ya gakologelwa motlhala ope ka ga windows tse di poraefete.">
 
 <!ENTITY aboutPrivateBrowsing.description      "Se se akaretsa patlo ya tse di fitileng, pheneno ya tse di fitileng, taisololo ya tse di fitileng foromo ya webo ya tse di fitileng, khukhi le difale tsa nakwana tsa inthanete. Le fa go ntse jalo, difaele tse o di laisilolang le matshwaotsebe a o a dirang a tla beiwa.">
 
-<!ENTITY aboutPrivateBrowsing.notPrivate       "Ga o mo thebeng ya poraefete.">
+<!ENTITY aboutPrivateBrowsing.notPrivate       "Ga o mo window e poraefete.">
 
+<!ENTITY aboutPrivateBrowsing.moreInfo         "Le fa khomputara e ka se nne le rekota ya motlhala wa patlo ya gago, mohiri wa gago kgotsa motlamedi wa tirelo ya inthanete o santse a ka latedia ditsebe tse o di etelang.">
+<!ENTITY aboutPrivateBrowsing.learnMore        "Ithute mo Gontsi.">
 
-
-<!ENTITY privatebrowsingpage.openPrivateWindow.label "Bula thebe ya poraefete">
-<!ENTITY privatebrowsingpage.openPrivateWindow.accesskey "t">
+<!ENTITY privatebrowsingpage.openPrivateWindow.label "Bula Window e Poraefete">
+<!ENTITY privatebrowsingpage.openPrivateWindow.accesskey "W">

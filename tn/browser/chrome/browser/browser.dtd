@@ -19,10 +19,10 @@
 <!ENTITY navbarOverflow.label                "Didirisiwa tse dintsi...">
 <!-- Tab context menu -->
 
-<!ENTITY  reloadTab.label                    "Tsenya Thebe gape">
+<!ENTITY  reloadTab.label                    "Tsenya sešwa Thebe">
 <!ENTITY  reloadTab.accesskey                "T">
-
-
+<!ENTITY  reloadAllTabs.label                "Tsenya sešwa Dithebe Tsotlhe">
+<!ENTITY  reloadAllTabs.accesskey            "D">
 <!-- LOCALIZATION NOTE (closeTabsToTheEnd.label): This should indicate the
 direction in which tabs are closed, i.e. locales that use RTL mode should say
 left instead of right. -->
@@ -43,12 +43,12 @@ can reach it easily. -->
 <!ENTITY  moveToGroup.label                  "Sutisetsa ko Setlhopheng">
 <!ENTITY  moveToGroup.accesskey              "S">
 <!ENTITY  moveToNewGroup.label               "Setlhopa se sesha">
-<!ENTITY  moveToNewWindow.label              "Sutisetsa ko Window e ntšhwa">
+<!ENTITY  moveToNewWindow.label              "Sutisetsa ko Window e Ntšha">
 <!ENTITY  moveToNewWindow.accesskey          "W">
-
-
-
-
+<!ENTITY  bookmarkAllTabs.label              "Tshwaatsebe Tsotlhe Dithebe...">
+<!ENTITY  bookmarkAllTabs.accesskey          "D">
+<!ENTITY  undoCloseTab.label                 "Dirolola Tswalo ya Thebe">
+<!ENTITY  undoCloseTab.accesskey             "D">
 <!ENTITY  closeTab.label                     "Tswala Thebe">
 <!ENTITY  closeTab.accesskey                 "T">
 
@@ -60,6 +60,7 @@ can reach it easily. -->
 <!-- LOCALIZATION NOTE (openLocationCmd.label): "Open Location" is only
 displayed on OS X, and only on windows that aren't main browser windows, or
 when there are no windows but Firefox is still running. -->
+<!ENTITY openLocationCmd.label "Bula Lefelo...">
 <!ENTITY openFileCmd.label "Bula Faele…">
 <!ENTITY openFileCmd.accesskey "B">
 <!ENTITY openFileCmd.commandkey "o">
@@ -81,11 +82,12 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY personalbarCmd.accesskey "B">
 <!ENTITY bookmarksToolbarItem.label "Bara ya Didirisiwa Matshwaotsebe le Dilwana">
 
-
-
-
-
-
+<!ENTITY toolbarContextMenu.reloadAllTabs.label "Tsenya sešwa Dithebe Tsotlhe">
+<!ENTITY toolbarContextMenu.reloadAllTabs.accesskey "D">
+<!ENTITY toolbarContextMenu.bookmarkAllTabs.label "Tshwaatsebe Tsotlhe Dithebe...">
+<!ENTITY toolbarContextMenu.bookmarkAllTabs.accesskey "D">
+<!ENTITY toolbarContextMenu.undoCloseTab.label "Dirolola Tswalo ya Thebe">
+<!ENTITY toolbarContextMenu.undoCloseTab.accesskey "D">
 
 <!ENTITY pageSourceCmd.label "Motswedi wa Tsebe">
 <!ENTITY pageSourceCmd.accesskey "o">
@@ -110,7 +112,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxaSignIn.label "Tsena tirong mo &syncBrand.shortName.label;">
 <!ENTITY fxaSignInError.label "Golaganya-gape le &syncBrand.shortName.label;">
 <!ENTITY syncStartPanel2.heading "&syncBrand.shortName.label; kgontshitswe">
-<!ENTITY syncStartPanel2.subTitle "&brandShortName; go tla simolola thulaganyo ka tsamaisano mo motsotsong.">
+<!ENTITY syncStartPanel2.subTitle "&brandShortName; go tla simolodisiwa thulaganyo ka tsamaisano mo motsotsong.">
 <!ENTITY syncErrorPanel.heading "Ga go kgonege go golagana le &syncBrand.shortName.label;">
 <!ENTITY syncErrorPanel.subTitle "Tswêê-tswêê tsena tirong go simolodisa gape thulaganyo ka tsamaisano.">
 <!ENTITY syncErrorPanel.signInButton.label "Tsena tirong">
@@ -136,7 +138,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY bookmarksMenu.label "Matshwaotsebe">
 <!ENTITY bookmarksMenu.accesskey "M">
-
+<!ENTITY bookmarkThisPageCmd.label "Tshwaya Tsebe e">
 <!ENTITY editThisBookmarkCmd.label "Tseleganya letshwaotsebe le">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
 <!ENTITY markPageCmd.commandkey "l">
@@ -148,29 +150,31 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY sharePageCmd.commandkey "S">
 <!ENTITY sharePageCmd.accesskey "s">
 <!-- LOCALIZATION NOTE (shareLink.accesskey): must be different than the following share access keys -->
-
-
-
-
-
-
-
+<!ENTITY shareLink.label "Aba Kgokagano e">
+<!ENTITY shareLink.accesskey "h">
+<!ENTITY shareImage.label "Aba Setshwantsho se">
+<!ENTITY shareImage.accesskey "r">
+<!ENTITY shareSelect.label "Aba Tlhopho">
+<!ENTITY shareSelect.accesskey "r">
+<!ENTITY shareVideo.label "Aba Bidio e">
+<!ENTITY shareVideo.accesskey "r">
 <!ENTITY feedsMenu.label "Ikwadise">
 <!ENTITY subscribeToPageMenupopup.label "Ikwadise mo Tsebeng e">
-
+<!ENTITY subscribeToPageMenuitem.label "Ikwadise mo tsebeng e">
 <!ENTITY addCurPagesCmd.label "Ikwadise mo Tsebeng e...">
 <!ENTITY showAllBookmarks2.label "Supa Matshwaotsebe Otlhe">
 <!ENTITY unsortedBookmarksCmd.label "Matshwaotsebe a sa Tlhaolwang">
 <!ENTITY bookmarksToolbarChevron.tooltip "Supa matshwaotsebe a le mantsi">
 
+<!ENTITY backCmd.label                "Morago">
 <!ENTITY backButton.tooltip           "Boela morago tsebe e le nngwe">
-
+<!ENTITY forwardCmd.label             "Fetisa">
 <!ENTITY forwardButton.tooltip        "fetisetsa fa pele ka tsebe e le nngwe">
 <!ENTITY backForwardButtonMenu.tooltip "Tobeletsa ka fa mojeng kgotsa gogela fa tlase go supa tiragalo tsedi fetileng">
 <!ENTITY backForwardButtonMenuMac.tooltip "Gogela fa tlase go supa tiragalo tsedi fetileng">
-
-<!ENTITY reloadButton.tooltip         "Tsenya gape tsebe ya ga jaana">
-
+<!ENTITY reloadCmd.label              "Tsenya sešwa">
+<!ENTITY reloadButton.tooltip         "Tsenya sešwa tsebe ya ga jaana">
+<!ENTITY stopCmd.label                "Emisa">
 <!ENTITY stopCmd.macCommandKey        ".">
 <!ENTITY stopButton.tooltip           "Emisa go tsenya tsebe e">
 <!ENTITY goEndCap.tooltip             "Ya ko atereseng e mo Bara ya lefelo">
@@ -241,7 +245,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY responsiveDesignTool.label   "Tsibogo ya Tebego ya thadiso">
 <!ENTITY responsiveDesignTool.accesskey "T">
-
+<!ENTITY responsiveDesignTool.commandkey "M">
 
 <!ENTITY eyedropper.label   "Setsholetsammala">
 <!ENTITY eyedropper.accesskey "S">
@@ -270,6 +274,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
   -  application menu item that opens the browser content toolbox UI in the Tools menu.
   -  This toolbox allows to debug the chrome of the content process in multiprocess builds.  -->
 
+<!ENTITY browserContentToolboxMenu.label     "Sebatlii sa Sediriswa Diteng">
+<!ENTITY browserContentToolboxMenu.accesskey "x">
 
 <!ENTITY devToolbarCloseButton.tooltiptext "Tswala Bara ya didiriswa ya Mmopi">
 <!ENTITY devToolbarMenu.label              "Bara ya Didirisiwa ya Mmopi">
@@ -278,7 +284,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY devAppMgrMenu.accesskey           "A">
 <!ENTITY webide.label                      "Webo ya IDE">
 <!ENTITY webide.accesskey                  "W">
-
+<!ENTITY webide.keycode                    "VK_F8">
 <!ENTITY webide.keytext                    "F8">
 <!ENTITY devToolbar.keycode                "VK_F2">
 <!ENTITY devToolbar.keytext                "F2">
@@ -294,12 +300,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY fileMenu.label         "Faele"> 
 <!ENTITY fileMenu.accesskey       "F">
-<!ENTITY newNavigatorCmd.label        "Window e ntšhwa">
+<!ENTITY newNavigatorCmd.label        "Window e Ntšha">
 <!ENTITY newNavigatorCmd.key        "N">
-<!ENTITY newNavigatorCmd.accesskey      "N">
-<!ENTITY newPrivateWindow.label     "Window e ntšhwa ya poraefete">
+<!ENTITY newNavigatorCmd.accesskey      "W">
+<!ENTITY newPrivateWindow.label     "Window e Ntšha ya Poraefete">
 <!ENTITY newPrivateWindow.accesskey "W">
-
+<!ENTITY newNonRemoteWindow.label   "Window e Ntšha e e seng ya-e10s">
 
 <!ENTITY editMenu.label         "Tseleganya"> 
 <!ENTITY editMenu.accesskey       "T"> 
@@ -348,7 +354,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY historyMenu.accesskey "T">
 <!ENTITY historyUndoMenu.label "Dithebe tse di tswetsweng Bosheng">
 <!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
-<!ENTITY historyUndoWindowMenu.label "Di Window tse di tswetsweng Bosheng">
+<!ENTITY historyUndoWindowMenu.label "Windows tse di Tswetsweng Bosheng">
 <!ENTITY historyRestoreLastSession.label "Busetsa Botlameladikopanelwa jo bo fetileng">
 
 <!ENTITY showAllHistoryCmd2.label "Supa Ditiragalo tsotlhe tse di fetileng">
@@ -418,27 +424,32 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      search providers:  "Search for <used typed keywords> with:" -->
 
 <!ENTITY searchFor.label              "Batla gonne">
-
+<!ENTITY searchWith.label             " le:">
 <!-- LOCALIZATION NOTE (search.label, searchAfter.label):
      This string is used to build the header above the list of one-click search
      providers when a one off engine has been selected.  The searchAfter text is
      intentionally left empty for en-US and can be used by other localizations to
      display a string after the search engine name.  This string will be displayed
      as:  "Search <selected engine name><searchAfter.label text>" -->
+
+<!ENTITY search.label                 "Batla ">
 <!ENTITY searchAfter.label            "">
 <!-- LOCALIZATION NOTE (searchWithHeader.label):
      The wording of this string should be as close as possible to
      searchFor.label and searchWith.label. This string will be used instead of
      them when the user has not typed any keyword. -->
+
+<!ENTITY searchWithHeader.label       "Batla ka:">
 <!-- LOCALIZATION NOTE (changeSearchSettings.button):
      This string won't wrap, so if the translated string is longer,
      consider translating it as if it said only "Search Settings". -->
+<!ENTITY changeSearchSettings.button  "Fetola Dithulaganyo tsa Patlo">
 
 <!ENTITY tabView.commandkey           "e">
 
 <!ENTITY openLinkCmdInTab.label       "Bula Kgokagano mo Thebeng e Ntšha">
 <!ENTITY openLinkCmdInTab.accesskey   "T">
-<!ENTITY openLinkCmd.label            "Bula Kgokagano mo Window e ntšhwa">
+<!ENTITY openLinkCmd.label            "Bula Kgokagano mo Window e Ntšha">
 <!ENTITY openLinkCmd.accesskey        "W">
 <!ENTITY openLinkInPrivateWindowCmd.label "Bula Kgokagano mo Window e Ntšha ya Poraefete">
 <!ENTITY openLinkInPrivateWindowCmd.accesskey "P">
@@ -446,12 +457,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openLinkCmdInCurrent.accesskey "B">
 <!ENTITY openFrameCmdInTab.label      "Bula Foreime mo Thebeng e Ntšha">
 <!ENTITY openFrameCmdInTab.accesskey  "T">
-<!ENTITY openFrameCmd.label           "Bula Foreime mo Window e Ntšhwa">
+<!ENTITY openFrameCmd.label           "Bula Foreime mo Window e Ntšha">
 <!ENTITY openFrameCmd.accesskey       "W">
 <!ENTITY showOnlyThisFrameCmd.label     "Bula Foreime mo Fensetereng e Ntšha">
 <!ENTITY showOnlyThisFrameCmd.accesskey "F">
 <!ENTITY reloadCmd.commandkey         "r">
-<!ENTITY reloadFrameCmd.label         "Tsenya gape Foreime">
+<!ENTITY reloadFrameCmd.label         "Tsenya sešwa Foreimi">
 <!ENTITY reloadFrameCmd.accesskey     "T">
 <!ENTITY viewPartialSourceForSelectionCmd.label "Leba Motswedi wa Tlhopho">
 <!ENTITY viewPartialSourceForMathMLCmd.label    "Leba Motswedi wa MathML">
@@ -466,7 +477,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewPageInfoCmd.accesskey    "T">
 <!ENTITY viewFrameInfoCmd.label       "Leba Tshedimosetso ya Foreime">
 <!ENTITY viewFrameInfoCmd.accesskey   "T">
-<!ENTITY reloadImageCmd.label         "Tsenya gape Setshwantsho">
+<!ENTITY reloadImageCmd.label         "Tsenya sešwa Setshwantsho">
 <!ENTITY reloadImageCmd.accesskey     "T">
 <!ENTITY viewImageCmd.label           "Leba Setshwantsho">
 <!ENTITY viewImageCmd.accesskey       "S">
@@ -480,7 +491,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewBGImageCmd.accesskey     "L">
 <!ENTITY setDesktopBackgroundCmd.label      "Tlhoma Jaaka Lemorago la Teseketopo…">
 <!ENTITY setDesktopBackgroundCmd.accesskey  "T">
-
+<!ENTITY bookmarkPageCmd2.label       "Tshwaya Tsebe e">
 <!ENTITY bookmarkThisLinkCmd.label      "Tshwayatsebe Kgokagano e">
 <!ENTITY bookmarkThisLinkCmd.accesskey  "K">
 <!ENTITY bookmarkThisFrameCmd.label      "Tshwayatsebe Foreime e">
@@ -593,7 +604,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY fullZoomReduceCmd.label        "Gogela Ntle">
 <!ENTITY fullZoomReduceCmd.accesskey    "N">
-
+<!ENTITY fullZoomReduceCmd.commandkey   "-">
 <!ENTITY fullZoomReduceCmd.commandkey2  "">
 
 <!ENTITY fullZoomResetCmd.label         "Rulaganyasešwa">
@@ -663,10 +674,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY editBookmark.cancel.label                   "Khansela">
 <!ENTITY editBookmark.removeBookmark.accessKey       "R">
 
+<!ENTITY identity.connectionSecure "Kgolagano e Sireletsegileng">
+<!ENTITY identity.connectionNotSecure "Kgolagano e ga e a Sireletsega">
+<!ENTITY identity.connectionVerified "&brandShortName; go tlhomamisitswe gore golaganye mo go sireletsegileng mo saeteng e, e laolwa ke:">
+<!ENTITY identity.connectionInternal "Ke e sireletsegileng &brandShortName; tsebe.">
 
-
-
-
+<!ENTITY identity.moreInfoLinkText2 "Tshedimosetso e Tletseng">
 
 <!ENTITY identity.permissions "Ditetla">
 <!-- Name for the tabs toolbar as spoken by screen readers.
@@ -677,15 +690,15 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY syncTabsMenu2.label     "Dithebe go tswa mo Didirisweng">
 
-<!ENTITY syncBrand.shortName.label    "Sync">
+<!ENTITY syncBrand.shortName.label    "Rulaganya ka tsamaisano">
 
 <!ENTITY syncSetup.label              "Rulaganya &syncBrand.shortName.label;...">
 <!ENTITY syncSetup.accesskey          "Y">
-<!ENTITY syncSyncNowItem.label        "Sync jaanong">
-<!ENTITY syncSyncNowItem.accesskey    "S">
+<!ENTITY syncSyncNowItem.label        "rulaganya ka tsamaisano gone Jaana">
+<!ENTITY syncSyncNowItem.accesskey    "r">
 <!ENTITY syncReAuthItem.label         "Golaganya ko &syncBrand.shortName.label;...">
 <!ENTITY syncReAuthItem.accesskey     "G">
-<!ENTITY syncToolbarButton.label      "Sync">
+<!ENTITY syncToolbarButton.label      "Rulaganya ka tsamaisano">
 
 <!ENTITY socialToolbar.title        "Konopo ya Bara ya Didiriswa ya kitsano">
 
@@ -707,10 +720,11 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY social.learnMore.accesskey "I">
 <!ENTITY social.closeNotificationItem.label "Eseng jaanong">
 
-
-
-
-
+<!ENTITY social.directory.label "Lenaneofaele la Ditiriso">
+<!ENTITY social.directory.text "O ka dirisa Kabo ya ditirelo go tswa mo lenaneofaele.">
+<!ENTITY social.directory.button "Nkise teng!">
+<!ENTITY social.directory.introText "Tobetsa mo tirelong go e tsenya mo &brandShortName;.">
+<!ENTITY social.directory.viewmore.text "Leba go le Gontsi">
 
 <!ENTITY customizeMode.tabTitle "tshwanedisa &brandShortName;">
 <!ENTITY customizeMode.menuAndToolbars.header2 "Tlaleletso Didiriswa le Dikokoanyo tsa dirweboleta">
@@ -719,8 +733,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.restoreDefaults "Busetsa Thulaganyetsoruri">
 <!ENTITY customizeMode.toolbars "Supa/ Fitlha Bara ya didiriswa">
 <!ENTITY customizeMode.titlebar "Bara ya Setlhogo">
-
-
+<!ENTITY customizeMode.lwthemes "Dimorago">
+<!ENTITY customizeMode.lwthemes.myThemes "Dimorago Tsame">
 
 <!ENTITY customizeMode.lwthemes.menuManage "Laola">
 
@@ -736,11 +750,11 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY social.marklinkMenu.accesskey "K">
 <!ENTITY social.marklinkMenu.label "Boloka Kgokagano ko...">
 
-<!ENTITY getUserMedia.selectCamera.label "Se tsaya Ditshwantsho se se ka abelanwang:">
+<!ENTITY getUserMedia.selectCamera.label "Sekapa-ditshwantsho se se ka abiwang:">
 <!ENTITY getUserMedia.selectCamera.accesskey "S">
 <!ENTITY getUserMedia.selectMicrophone.label "Segoagoe se se ka abelanwang:">
 <!ENTITY getUserMedia.selectMicrophone.accesskey "S">
-<!ENTITY getUserMedia.allWindowsShared.message "Di window tse di bonagalang tsotlhe mo sekerini di tla abelanwa.">
+<!ENTITY getUserMedia.allWindowsShared.message "Windows tse di bonagalang tsotlhe mo sekerini sa gago di tla abelanwa.">
 <!-- Bad Content Blocker Doorhanger Notification -->
 
 
@@ -793,8 +807,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      The translation should do the same. -->
 
 
-<!ENTITY panicButton.view.deleteTabsAndWindows    "Tswala tsotlhe <html:strong>Dithebe</html:strong> le <html:strong>di Window </html:strong>">
-<!ENTITY panicButton.view.openNewWindow           "Bula Window e ntšhwa">
+<!ENTITY panicButton.view.deleteTabsAndWindows    "Tswala tsotlhe <html:strong>Dithebe</html:strong> le <html:strong>Windows</html:strong>">
+<!ENTITY panicButton.view.openNewWindow           "Bula Window e ntšha e ntlafetse">
 
 
 

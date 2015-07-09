@@ -5,7 +5,7 @@
 
 <!ENTITY setupButton.label          "Rulaganya &syncBrand.fullName.label;">
 <!ENTITY setupButton.accesskey      "R">
-
+<!ENTITY weaveDesc.label            "&syncBrand.fullName.label; e go fa tetlelesego ya motlhala, matshwaotsebe, khunololamoraba tsa gago le dithebe tsotlhe tse di butsweng mo didirisweng tsa gago tsotlhe.">
 <!-- The page shown when logged in... -->
 <!-- Login error feedback -->
 
@@ -17,9 +17,10 @@
 
 <!ENTITY changePassword2.label        "Fetola Khunololamoraba…">
 
+<!ENTITY resetSync2.label             "Rulaganyasešwa Thulaganyo ka tsamaiso...">
 
 
-
+<!ENTITY syncMy.label               "Rulaganya ka tsamaiso di">
 
 
 
@@ -52,7 +53,7 @@ both, to better adapt this sentence to their language.
 -->
 
 <!ENTITY signedInUnverified.beforename.label "">
-
+<!ENTITY signedInUnverified.aftername.label "ga e a netefadiwa.">
 <!-- LOCALIZATION NOTE (signedInLoginFailure.beforename.label,
 signedInLoginFailure.aftername.label): these two string are used respectively
 before and after the account email address. Localizers can use one of them, or
@@ -69,4 +70,4 @@ both, to better adapt this sentence to their language.
 
 
 
-<!ENTITY welcome.useOldSync.label "A o dirisa mofuta o mogologolo wa Sync?">
+<!ENTITY welcome.useOldSync.label "A o dirisa mofuta o mogologolo wa Thulaganyo ka tsamaiso?">
