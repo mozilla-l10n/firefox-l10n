@@ -4,11 +4,22 @@
 
 <!ENTITY aboutTelemetry.pageTitle "Телеметрия мәліметтері">
 
-<!ENTITY aboutTelemetry.telemetryEnabled "  Телеметрия <span>іске қосылған</span>.">
 
-<!ENTITY aboutTelemetry.telemetryDisabled "  Телеметрия <span>сөндірілген</span>.">
+
+
+
+
+
+
+
+
+
+
+
+
 
 <!ENTITY aboutTelemetry.generalDataSection "  Жалпы деректер">
+
 
 <!ENTITY aboutTelemetry.telemetryLogSection "  Телеметрия логы">
 
