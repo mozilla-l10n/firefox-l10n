@@ -23,6 +23,8 @@
 <!ENTITY  locbar.openpage.label         "Dobrir los onglets">
 <!ENTITY  locbar.openpage.accesskey     "D">
 
+
+
 <!ENTITY  acceptCookies.label           "Acceptar de cookies de sites">
 <!ENTITY  acceptCookies.accesskey       "c">
 
@@ -45,8 +47,8 @@
 <!ENTITY  showCookies.label             "Afichar los cookies…">
 <!ENTITY  showCookies.accesskey         "k">
 
-<!ENTITY  historyHeader.pre.label          "Règlas de conservacion :">
-<!ENTITY  historyHeader.pre.accesskey      "R">
+<!ENTITY  historyHeader.pre.label          "&brandShortName; poirá :">
+<!ENTITY  historyHeader.pre.accesskey      "p">
 <!ENTITY  historyHeader.remember.label     "Conservar l'istoric">
 <!ENTITY  historyHeader.dontremember.label "Conservar pas jamai l'istoric">
 <!ENTITY  historyHeader.custom.label       "Utilizar los paramètres personalizats per l'istoric">

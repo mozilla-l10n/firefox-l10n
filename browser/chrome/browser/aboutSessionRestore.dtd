@@ -32,7 +32,7 @@
 <!ENTITY welcomeback2.tabtitle      "Succès !">
 
 <!ENTITY welcomeback2.pageTitle     "Succès !">
-
+<!ENTITY welcomeback2.pageInfo1     "&brandShortName; es prèst.">
 
 
 <!-- LOCALIZATION NOTE (welcomeback2.beforelink.pageInfo2,
