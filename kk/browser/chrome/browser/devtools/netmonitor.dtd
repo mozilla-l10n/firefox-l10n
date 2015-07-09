@@ -263,6 +263,10 @@
   -  for the Copy URL Parameters menu item displayed in the context menu for a request -->
 
 <!ENTITY netmonitorUI.context.copyUrlParams.accesskey "п">
+<!-- LOCALIZATION NOTE (netmonitorUI.context.copyPostData): This is the label displayed
+  -  on the context menu that copies the selected request's post data -->
+<!-- LOCALIZATION NOTE (netmonitorUI.context.copyPostData.accesskey): This is the access key
+  -  for the Copy POST Data menu item displayed in the context menu for a request -->
 <!-- LOCALIZATION NOTE (netmonitorUI.context.copyAsCurl): This is the label displayed
   -  on the context menu that copies the selected request as a cURL command.
   -  The capitalization is part of the official name and should be used throughout all languages.
@@ -305,6 +309,14 @@
   -  for the Copy Image As Data URI menu item displayed in the context menu for a request -->
 
 <!ENTITY netmonitorUI.context.copyImageAsDataUri.accesskey  "е">
+<!-- LOCALIZATION NOTE (netmonitorUI.context.copyAllAsHar): This is the label displayed
+  -  on the context menu that copies all as HAR format -->
+<!-- LOCALIZATION NOTE (netmonitorUI.context.copyAllAsHar.accesskey): This is the access key
+  -  for the Copy All As HAR menu item displayed in the context menu for a network panel -->
+<!-- LOCALIZATION NOTE (netmonitorUI.context.saveAllAsHar): This is the label displayed
+  -  on the context menu that saves all as HAR format -->
+<!-- LOCALIZATION NOTE (netmonitorUI.context.saveAllAsHar.accesskey): This is the access key
+  -  for the Save All As HAR menu item displayed in the context menu for a network panel -->
 <!-- LOCALIZATION NOTE (netmonitorUI.summary.editAndResend): This is the label displayed
   -  on the button in the headers tab that opens a form to edit and resend the currently
      displayed request -->

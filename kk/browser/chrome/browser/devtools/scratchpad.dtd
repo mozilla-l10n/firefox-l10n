@@ -65,6 +65,7 @@
 <!ENTITY largerFont.label             "Үлкенірек қаріп">
 <!ENTITY largerFont.accesskey         "л">
 <!ENTITY largerFont.commandkey        "+">
+<!-- + is above this key on many keyboards -->
 
 <!ENTITY smallerFont.label            "Кішірек қаріп">
 <!ENTITY smallerFont.accesskey        "ш">
