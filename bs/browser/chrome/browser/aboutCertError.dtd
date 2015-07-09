@@ -22,7 +22,10 @@ was trying to connect. -->
 <!ENTITY certerror.whatShouldIDo.content "Ukoliko se inače povezujete 
 na ovu stranicu bez problema, ova greška bi mogla značiti da se neko 
 pokušava predstaviti kao data stranica, te ne biste trebali nastaviti dalje.">
-
+<!ENTITY certerror.whatShouldIDo.badStsCertExplanation "Ova stranica koristi HTTP 
+Strict Transport Security (HSTS) kako bi navela da se &brandShortName; povezuje 
+na nju samo sigurno. Kao rezultat, nije moguće dodati izuzetak za ovaj 
+certifikat.">
 <!ENTITY certerror.getMeOutOfHere.label "Vodi me odavde!">
 
 <!ENTITY certerror.expert.heading "Svjestan sam rizika">

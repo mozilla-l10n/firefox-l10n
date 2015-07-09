@@ -16,8 +16,8 @@
 <!ENTITY helpMenuWin.accesskey    "P">
 <!ENTITY aboutProduct2.label      "O &brandShorterName;u">
 <!ENTITY aboutProduct2.accesskey  "O">
-
-
+<!ENTITY productHelp2.label       "&brandShorterName; pomoć">
+<!ENTITY productHelp2.accesskey   "H">
 <!ENTITY helpMac.commandkey       "?">
 
 <!ENTITY helpKeyboardShortcuts.label     "Kratice na tastaturi">
@@ -25,10 +25,11 @@
 
 <!ENTITY helpSafeMode.label       "Restartuj sa onemogućenim add-onima…">
 <!ENTITY helpSafeMode.accesskey   "R">
+<!ENTITY helpSafeMode.stop.label       "Restartuj sa omogućenim add-onima">
+<!ENTITY helpSafeMode.stop.accesskey   "R">
 
-
-
-
+<!ENTITY healthReport2.label      "&brandShorterName; izvještaj o zdravlju">
+<!ENTITY healthReport2.accesskey  "e">
 
 <!ENTITY helpTroubleshootingInfo.label      "Informacije za rješavanje problema">
 <!ENTITY helpTroubleshootingInfo.accesskey  "I">
@@ -36,14 +37,16 @@
 <!ENTITY helpFeedbackPage.label      "Pošalji povratnu informaciju…">
 <!ENTITY helpFeedbackPage.accesskey  "P">
 
-
+<!ENTITY helpShowTour2.label            "&brandShorterName; vodič">
+<!ENTITY helpShowTour2.accesskey        "o">
 
 <!ENTITY preferencesCmdMac.label        "Postavke…">
 <!ENTITY preferencesCmdMac.commandkey   ",">
 
 <!ENTITY servicesMenuMac.label          "Servisi">
 
-
+<!ENTITY hideThisAppCmdMac2.label       "Sakrij &brandShorterName;">
+<!ENTITY hideThisAppCmdMac2.commandkey  "H">
 
 <!ENTITY hideOtherAppsCmdMac.label      "Sakrij ostale">
 <!ENTITY hideOtherAppsCmdMac.commandkey "H">

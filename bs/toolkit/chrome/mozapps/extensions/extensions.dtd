@@ -4,7 +4,7 @@
 <!ENTITY addons.windowTitle                   "Upravnik add-onima">
 
 <!ENTITY search.placeholder                   "Pretraži sve add-one">
-
+<!ENTITY search.buttonlabel                   "Traži">
 <!-- LOCALIZATION NOTE (search.commandKey):
      The search command key should match findOnCmd.commandkey from browser.dtd -->
 <!ENTITY search.commandkey                    "f">
@@ -23,7 +23,8 @@
 <!ENTITY cmd.back.tooltip                     "Idi nazad jednu stranicu">
 <!ENTITY cmd.forward.tooltip                  "Idi naprijed jednu stranicu">
 
-
+<!ENTITY showUnsignedExtensions.button.label  "Neke ekstenzije nisu mogle biti verifikovane">
+<!ENTITY showAllExtensions.button.label       "Prikaži sve ekstenzije">
 <!-- global warnings -->
 
 <!ENTITY warning.safemode.label                    "Svi add-oni su onemogućeni od strane sigurnog režima.">
@@ -104,8 +105,8 @@
 <!ENTITY cmd.installAddon.accesskey           "I">
 <!ENTITY cmd.uninstallAddon.label             "Ukloni">
 <!ENTITY cmd.uninstallAddon.accesskey         "U">
-
-
+<!ENTITY cmd.debugAddon.label                 "Debag">
+<!ENTITY cmd.debugAddon.accesskey             "b">
 <!ENTITY cmd.showPreferencesWin.label         "Opcije">
 <!ENTITY cmd.showPreferencesWin.tooltip       "Promijeni opcije ovog add-ona">
 <!ENTITY cmd.showPreferencesUnix.label        "Postavke">
@@ -226,21 +227,26 @@ neke od najboljih i najpopularnijih add-ona koje možete isprobati.">
      This tab won't be displayed unless an Experiment add-on is installed.
      Install https://people.mozilla.org/~gszorc/dummy-experiment-addon.xpi
      to cause this tab to appear. -->
+
+<!ENTITY experiment.info.label "Šta je ovo? Telemetrija može instalirati i pokretati eksperimente s vremena na vrijeme.">
 <!ENTITY experiment.info.learnmore "Saznajte više">
-
-
-
+<!ENTITY experiment.info.learnmore.accesskey "z">
+<!ENTITY experiment.info.changetelemetry "Postavke telemetrije">
+<!ENTITY experiment.info.changetelemetry.accesskey "t">
 
 <!ENTITY setting.learnmore "Saznajte više…">
 
+<!ENTITY disabledUnsigned.heading "Neki add-oni su onemogućeni">
 <!-- LOCALIZATION NOTE (disabledUnsigned.description.start, disabledUnsigned.description.findAddonsLink, disabledUnsigned.description.end):
      These entities form a sentence, with
      disabledUnsigned.description.findAddonsLink being a link to an external site. -->
-
-
-
+<!ENTITY disabledUnsigned.description.start "Sljedeći add-oni nisu verifikovani za upotrebu u &brandShortName;. Možete ">
+<!ENTITY disabledUnsigned.description.findAddonsLink "pronaći zamjene">
+<!ENTITY disabledUnsigned.description.end " ili tražiti od developera da ih verifikuje.">
+<!ENTITY disabledUnsigned.learnMore "Saznajte više o našim naporima da vas zaštitimo na internetu.">
 <!-- LOCALIZATION NOTE (disabledUnsigned.devInfo.start, disabledUnsigned.devInfo.linkToManual, disabledUnsigned.devInfo.end):
      These entities form a sentence, with disabledUnsigned.devInfo.linkToManual
      being a link to an external site. -->
-
-
+<!ENTITY disabledUnsigned.devInfo.start "Developeri koji su zainteresovani za verifikaciju njihovih add-ona mogu nastaviti s čitanjem našeg ">
+<!ENTITY disabledUnsigned.devInfo.linkToManual "vodiča">
+<!ENTITY disabledUnsigned.devInfo.end ".">

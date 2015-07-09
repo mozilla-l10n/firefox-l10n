@@ -11,11 +11,12 @@
 
 <!ENTITY doNotTrackInfo.label           "Saznajte više">
 
+<!ENTITY  history.label                 "Historija">
 
 <!ENTITY  locationBar.label             "Adresna traka">
 
-
-
+<!ENTITY  locbar.history.label          "Historija">
+<!ENTITY  locbar.history.accesskey      "H">
 
 
 
@@ -58,7 +59,7 @@
 <!-- LOCALIZATION NOTE (rememberActions.post.label): include a starting space as needed -->
 
 <!ENTITY  rememberActions.pre.label           "Možda biste željeli ">
-<!ENTITY  rememberActions.clearHistory.label  "očistiti svoju skorašnju historiju">
+<!ENTITY  rememberActions.clearHistory.label  "očistiti skorašnju historiju">
 <!ENTITY  rememberActions.middle.label        ", ili ">
 <!ENTITY  rememberActions.removeCookies.label "ukloni pojedine kolačiće">
 <!ENTITY  rememberActions.post.label          ".">

@@ -13,7 +13,7 @@
 <!ENTITY port       "Port:">
 <!ENTITY connect    "Poveži se">
 <!ENTITY connecting "Povezujem se…">
-
+<!ENTITY availableAddons "Dostupni udaljeni add-oni:">
 <!ENTITY availableTabs "Dostupni udaljeni tabovi:">
 <!ENTITY availableProcesses "Dostupni udaljeni procesi:">
 <!ENTITY connectionError "Greška:">
@@ -24,5 +24,7 @@
 these strings will be concatenated in a single label, remoteDocumentation will
 be used as text for a link to MDN. -->
 
-
+<!ENTITY remoteHelp "Firefox razvojni alati mogu debagirati udaljene uređaje (Firefox za Android i Firefox OS, naprimjer). Provjerite da li ste na udaljenom uređaju uključili opciju 'Udaljeno debagiranje'.">
+<!ENTITY remoteDocumentation "dokumentaciju">
+<!ENTITY remoteHelpSuffix ".">
 

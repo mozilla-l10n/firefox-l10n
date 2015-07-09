@@ -39,4 +39,4 @@
 
 <!ENTITY plugin.file                                         "Fajl">
 <!ENTITY plugin.mimeTypes                                    "MIME tipovi">
-
+<!ENTITY plugin.flashProtectedMode.label                     "Omogući Adobe Flash zaštićeni režim">

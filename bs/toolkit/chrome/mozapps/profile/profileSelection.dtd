@@ -27,4 +27,5 @@
 <!ENTITY            offlineState.label    "Radi offline">
 <!ENTITY            offlineState.accesskey "o">
 
-
+<!ENTITY            useSelected.label       "Koristi izabrani profil bez pitanja pri pokretanju">
+<!ENTITY            useSelected.accesskey   "s">

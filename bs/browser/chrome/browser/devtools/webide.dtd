@@ -25,11 +25,11 @@
 
 
 
+<!ENTITY runtimeMenu_disconnect_label "Prekini vezu">
 
 
 
-
-
+<!ENTITY runtimeMenu_takeScreenshot_label "Screenshot">
 
 
 
@@ -70,7 +70,7 @@
 
 
 
-
+<!ENTITY runtimePanel_installsimulator "Instaliraj simulator">
 
 
 <!-- Lense -->
@@ -163,6 +163,6 @@
 <!ENTITY simulator_version "Verzija">
 
 
-
+<!ENTITY simulator_device "Uređaj">
 
 

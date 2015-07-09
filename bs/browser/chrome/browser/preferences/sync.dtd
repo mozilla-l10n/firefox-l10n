@@ -69,7 +69,7 @@ both, to better adapt this sentence to their language.
 <!ENTITY signedInLoginFailure.aftername.label "">
 
 
-
+<!ENTITY manage.label                "Upravljanje">
 
 
 
@@ -77,3 +77,4 @@ both, to better adapt this sentence to their language.
 <!ENTITY welcome.signIn.label "Prijava">
 
 
+<!ENTITY welcome.useOldSync.label "Koristite stariju verziju Synca?">

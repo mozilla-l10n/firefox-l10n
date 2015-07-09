@@ -84,7 +84,7 @@
 <!ENTITY updateAutoAddonWarn.label       "Upozori me ukoliko će ovo onemogućiti bilo koji od mojih add-ona">
 <!ENTITY updateAutoAddonWarn.accesskey   "W">
 
-<!ENTITY updateHistory.label             "Prikaži update historijat">
+<!ENTITY updateHistory.label             "Prikaži historijat nadogradnji">
 <!ENTITY updateHistory.accesskey         "P">
 
 <!ENTITY useService.label                "Koristi pozadinski servis za instalaciju update-a">

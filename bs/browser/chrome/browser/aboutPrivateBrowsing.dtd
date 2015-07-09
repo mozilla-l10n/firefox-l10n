@@ -2,12 +2,18 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY aboutPrivateBrowsing.title            "Surfate privatno">
+<!ENTITY aboutPrivateBrowsing.title.normal     "Otvoriti privatni prozor?">
 
+<!ENTITY aboutPrivateBrowsing.subtitle         "&brandShortName; neće pamtiti nikakvu historiju za ovaj prozor.">
+<!ENTITY aboutPrivateBrowsing.subtitle.normal  "&brandShortName; neće pamtiti nikakvu historiju za privatne prozore.">
 
+<!ENTITY aboutPrivateBrowsing.description      "To uključuje historiju surfanja, pretraga, preuzimanja, web formulara, kolačiće, i privremene internet fajlove. Međutim, fajlovi koje preuzmete te zabilješke će biti zadržani.">
 
+<!ENTITY aboutPrivateBrowsing.notPrivate       "Trenutno niste u privatnom prozoru.">
 
-
-
+<!ENTITY aboutPrivateBrowsing.moreInfo         "Dok ovaj računar neće pamtiti vašu historiju surfanja, vaš poslodavac ili internet provajder i dalje mogu pratiti stranice koje posjećujete.">
+<!ENTITY aboutPrivateBrowsing.learnMore        "Saznajte više.">
 
 <!ENTITY privatebrowsingpage.openPrivateWindow.label "Otvori Privatni prozor">
 <!ENTITY privatebrowsingpage.openPrivateWindow.accesskey "r">

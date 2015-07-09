@@ -2,8 +2,10 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-
-
-
-
-
+<!ENTITY tabCrashed.header "Najprije loše vijesti: ovaj tab se srušio">
+<!ENTITY tabCrashed.message "A sada dobre vijesti: možete zatvoriti samo ovaj tab, vratiti ga ili vratiti sve vaše srušene tabove.">
+<!ENTITY tabCrashed.sendReport "Pošaljite izvještaj o rušenju kako biste pomogli da spriječimo više loših vijesti.">
+<!ENTITY tabCrashed.reportSent "Izvještaj o rušenju je već poslan; hvala vam što pomažete da unaprijedimo &brandShortName;!">
+<!ENTITY tabCrashed.closeTab "Zatvori ovaj tab">
+<!ENTITY tabCrashed.restoreTab "Vrati ovaj tab">
+<!ENTITY tabCrashed.restoreAll "Vrati sve srušene tabove">
