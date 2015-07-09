@@ -4,11 +4,22 @@
 
 <!ENTITY aboutTelemetry.pageTitle "Telemetry datuak">
 
-<!ENTITY aboutTelemetry.telemetryEnabled "  Telemetry <span>gaituta</span> dago.">
 
-<!ENTITY aboutTelemetry.telemetryDisabled "  Telemetry <span>desgaituta</span> dago.">
+
+
+
+
+
+
+
+
+
+
+
+
 
 <!ENTITY aboutTelemetry.generalDataSection "  Datu orokorrak">
+
 
 <!ENTITY aboutTelemetry.telemetryLogSection "  Telemetry erregistroa">
 

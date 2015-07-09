@@ -129,18 +129,20 @@
 
 <!ENTITY profilerUI.enableMemory             "Grabatu memoria">
 <!ENTITY profilerUI.enableMemory.tooltiptext "Grabatu memoriaren erabilpena analisia egiterakoan.">
+<!-- LOCALIZATION NOTE (profilerUI.enableAllocations): This string
+  -  is displayed next to a checkbox determining whether or not allocation
+  -  measurements are enabled. -->
+
 <!-- LOCALIZATION NOTE (profilerUI.enableFramerate): This string
   -  is displayed next to a checkbox determining whether or not framerate
   -  is recorded. -->
 
 <!ENTITY profilerUI.enableFramerate             "Grabatu marko-abiadura">
 <!ENTITY profilerUI.enableFramerate.tooltiptext "Grabatu marko-abiadura analisia egiterakoan.">
-<!-- LOCALIZATION NOTE (profilerUI.showJITOptimizations): This string
+<!-- LOCALIZATION NOTE (profilerUI.enableJITOptimizations): This string
   -  is displayed next to a checkbox determining whether or not JIT optimization data
-  -  should be shown. -->
+  -  should be recorded. -->
 
-<!ENTITY profilerUI.showJITOptimizations             "Erakutsi JIT optimizazioak">
-<!ENTITY profilerUI.showJITOptimizations.tooltiptext "Erakutsi JS dei-zuhaitzaren marko bakoitzean lagindutako JIT optimizazio-datuak.">
 <!-- LOCALIZATION NOTE (profilerUI.JITOptimizationsTitle): This string
   -  is displayed as the title of the JIT Optimizations panel. -->
 
