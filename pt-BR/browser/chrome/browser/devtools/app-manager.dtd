@@ -83,7 +83,7 @@
 <!ENTITY projects.hostedManifestPlaceHolder2 "http://example.com/app/manifest.webapp">
 <!ENTITY projects.noProjects "Nenhum projeto. Adicione um novo aplicativo empacotado abaixo (diretório local) ou um aplicativo hospedado (link para um arquivo manifest).">
 <!ENTITY projects.manifestEditor "Editor de manifesto">
-<!ENTITY projects.manifestEditorTooltip "Edite o manifesto do seu aplicativo no painel abaixo. o botão Atualizar salvará suas alterações e atualizará o aplicativo.">
+<!ENTITY projects.manifestEditorTooltip "Edite o manifesto do aplicativo no painel abaixo. O botão Atualizar salvará suas alterações e atualizará o aplicativo.">
 <!ENTITY projects.manifestViewer "Visualizador de manifesto">
 <!ENTITY projects.manifestViewerTooltip "Verifique o manifesto do seu aplicativo no painel abaixo">
 <!ENTITY projects.valid "Válido">
@@ -94,7 +94,7 @@
 
 <!ENTITY help.title "Gerenciador de aplicativos">
 <!ENTITY help.close "Fechar">
-<!ENTITY help.intro "Esta ferramenta o auxiliará a desenvolver e instalar aplicativos web em dispositivos compatíveis (como o Firefox OS). A aba <strong>Aplicativos</strong> lhe ajudará no processo de validação e instalação do seu aplicativo. A aba <strong>Dispositivo</strong> lhe dará informações sobre o dispositivo conectado. Use a barra de ferramentas abaixo para conectar seu dispositivo ou iniciar o simulador.">
+<!ENTITY help.intro "Esta ferramenta o auxiliará a criar e instalar aplicativos web em dispositivos compatíveis (ex: Firefox OS). A aba <strong>Aplicativos</strong> lhe ajudará no processo de validação e instalação do seu aplicativo. A aba <strong>Dispositivo</strong> lhe dará informações sobre o dispositivo conectado. Use a barra de ferramentas abaixo para conectar seu dispositivo ou iniciar o simulador.">
 <!ENTITY help.usefullLinks "Links úteis:">
 <!ENTITY help.appMgrDoc "Documentação: usando o App Manager">
 <!ENTITY help.configuringDevice "Como configurar seu dispositivo Firefox OS">

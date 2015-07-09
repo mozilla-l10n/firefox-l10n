@@ -731,7 +731,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.menuAndToolbars.empty "Deseja mais ferramentas?">
 <!ENTITY customizeMode.menuAndToolbars.emptyLink "Escolha entre milhares de complementos">
 <!ENTITY customizeMode.restoreDefaults "Restaurar padrões">
-<!ENTITY customizeMode.toolbars "Exibir/ocultar barras">
+<!ENTITY customizeMode.toolbars "Exibir / Ocultar barra de ferramentas">
 <!ENTITY customizeMode.titlebar "Barra de título">
 <!ENTITY customizeMode.lwthemes "Temas">
 <!ENTITY customizeMode.lwthemes.myThemes "Meus temas">

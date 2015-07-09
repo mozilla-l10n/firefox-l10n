@@ -6,17 +6,29 @@
 
 <!ENTITY aboutTelemetry.changeDataChoices "  Alterar">
 
+<!ENTITY aboutTelemetry.uploadEnabled "  O envio de dados FHR está <span>ativo</span>.">
 
+<!ENTITY aboutTelemetry.uploadDisabled "  O envio de dados FHR está <span>desativado</span>.">
 
+<!ENTITY aboutTelemetry.extendedRecordingEnabled "  Registro estendido da telemetria está <span>ativo</span>.">
 
+<!ENTITY aboutTelemetry.extendedRecordingDisabled "Registro estendido da telemetria está <span>desativado</span>.">
 
+<!ENTITY aboutTelemetry.pingDataSource "Fonte de dados do ping:">
 
+<!ENTITY aboutTelemetry.showCurrentPingData "Dados do ping atual">
 
+<!ENTITY aboutTelemetry.showArchivedPingData "Dados de ping arquivados">
 
+<!ENTITY aboutTelemetry.showSubsessionData "Mostrar dados da subseção">
 
+<!ENTITY aboutTelemetry.choosePing "Escolha o ping:">
 
+<!ENTITY aboutTelemetry.showNewerPing "&lt;&lt; Ping recente">
 
+<!ENTITY aboutTelemetry.showOlderPing "Ping antigo &gt;&gt;">
 
+<!ENTITY aboutTelemetry.archiveWeekHeader "Semana">
 
 <!ENTITY aboutTelemetry.archivePingHeader "Ping">
 
