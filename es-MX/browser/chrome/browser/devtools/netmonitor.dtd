@@ -257,12 +257,20 @@
 <!ENTITY netmonitorUI.context.copyUrl.accesskey "U">
 <!-- LOCALIZATION NOTE (netmonitorUI.context.copyUrlParams): This is the label displayed
   -  on the context menu that copies the selected request's url parameters -->
+
+<!ENTITY netmonitorUI.context.copyUrlParams     "Copiar parámetros de la URL">
 <!-- LOCALIZATION NOTE (netmonitorUI.context.copyUrlParams.accesskey): This is the access key
   -  for the Copy URL Parameters menu item displayed in the context menu for a request -->
+
+<!ENTITY netmonitorUI.context.copyUrlParams.accesskey "P">
 <!-- LOCALIZATION NOTE (netmonitorUI.context.copyPostData): This is the label displayed
   -  on the context menu that copies the selected request's post data -->
+
+<!ENTITY netmonitorUI.context.copyPostData     "Copiar datos POST">
 <!-- LOCALIZATION NOTE (netmonitorUI.context.copyPostData.accesskey): This is the access key
   -  for the Copy POST Data menu item displayed in the context menu for a request -->
+
+<!ENTITY netmonitorUI.context.copyPostData.accesskey "D">
 <!-- LOCALIZATION NOTE (netmonitorUI.context.copyAsCurl): This is the label displayed
   -  on the context menu that copies the selected request as a cURL command.
   -  The capitalization is part of the official name and should be used throughout all languages.
@@ -271,18 +279,32 @@
 <!ENTITY netmonitorUI.context.copyAsCurl    "Copiar como cURL">
 <!-- LOCALIZATION NOTE (netmonitorUI.context.copyAsCUrl.accesskey): This is the access key
   -  for the Copy as cURL menu item displayed in the context menu for a request -->
+
+<!ENTITY netmonitorUI.context.copyAsCurl.accesskey "C">
 <!-- LOCALIZATION NOTE (netmonitorUI.context.copyRequestHeaders): This is the label displayed
   -  on the context menu that copies the selected item's request headers -->
+
+<!ENTITY netmonitorUI.context.copyRequestHeaders     "Copiar encabezados solicitados">
 <!-- LOCALIZATION NOTE (netmonitorUI.context.copyRequestHeaders.accesskey): This is the access key
   -  for the Copy Request Headers menu item displayed in the context menu for a request -->
+
+<!ENTITY netmonitorUI.context.copyRequestHeaders.accesskey  "Q">
 <!-- LOCALIZATION NOTE (netmonitorUI.context.copyResponseHeaders): This is the label displayed
   -  on the context menu that copies the selected item's response headers -->
+
+<!ENTITY netmonitorUI.context.copyResponseHeaders     "Copiar encabezados de respuesta">
 <!-- LOCALIZATION NOTE (netmonitorUI.context.copyResponseHeaders.accesskey): This is the access key
   -  for the Copy Response Headers menu item displayed in the context menu for a response -->
+
+<!ENTITY netmonitorUI.context.copyResponseHeaders.accesskey  "S">
 <!-- LOCALIZATION NOTE (netmonitorUI.context.copyResponse): This is the label displayed
   -  on the context menu that copies the selected response as a string -->
+
+<!ENTITY netmonitorUI.context.copyResponse "Copiar respuesta">
 <!-- LOCALIZATION NOTE (netmonitorUI.context.copyRespose.accesskey): This is the access key
   -  for the Copy Response menu item displayed in the context menu for a request -->
+
+<!ENTITY netmonitorUI.context.copyResponse.accesskey  "R">
 <!-- LOCALIZATION NOTE (netmonitorUI.context.copyImageAsDataUri): This is the label displayed
   -  on the context menu that copies the selected image as data uri -->
 
@@ -293,12 +315,20 @@
 <!ENTITY netmonitorUI.context.copyImageAsDataUri.accesskey  "I">
 <!-- LOCALIZATION NOTE (netmonitorUI.context.copyAllAsHar): This is the label displayed
   -  on the context menu that copies all as HAR format -->
+
+<!ENTITY netmonitorUI.context.copyAllAsHar "Copiar todo como HAR">
 <!-- LOCALIZATION NOTE (netmonitorUI.context.copyAllAsHar.accesskey): This is the access key
   -  for the Copy All As HAR menu item displayed in the context menu for a network panel -->
+
+<!ENTITY netmonitorUI.context.copyAllAsHar.accesskey "O">
 <!-- LOCALIZATION NOTE (netmonitorUI.context.saveAllAsHar): This is the label displayed
   -  on the context menu that saves all as HAR format -->
+
+<!ENTITY netmonitorUI.context.saveAllAsHar "Guardar todo como HAR">
 <!-- LOCALIZATION NOTE (netmonitorUI.context.saveAllAsHar.accesskey): This is the access key
   -  for the Save All As HAR menu item displayed in the context menu for a network panel -->
+
+<!ENTITY netmonitorUI.context.saveAllAsHar.accesskey "H">
 <!-- LOCALIZATION NOTE (netmonitorUI.summary.editAndResend): This is the label displayed
   -  on the button in the headers tab that opens a form to edit and resend the currently
      displayed request -->
