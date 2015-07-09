@@ -62,7 +62,7 @@
 <!ENTITY sync.configure.engines.title.label 'Položky na synchronizáciu'>
 <!ENTITY sync.configure.engines.sync.my.title.label 'Synchronizovať…'>
 <!ENTITY sync.configure.engines.title.bookmarks 'Záložky'>
-<!ENTITY sync.configure.engines.title.passwords 'Heslá'>
+<!ENTITY sync.configure.engines.title.passwords2 'Prihlasovacie údaje'>
 <!ENTITY sync.configure.engines.title.history 'Históriu'>
 <!ENTITY sync.configure.engines.title.tabs 'Karty'>
 
@@ -140,7 +140,7 @@
 <!ENTITY fxaccount_policy_linkprivacy 'Zásadami ochrany súkromia'>
 
 <!ENTITY fxaccount_getting_started_welcome_to_sync 'Víta Vás &syncBrand.shortName.label;'>
-<!ENTITY fxaccount_getting_started_description 'Prihláste sa a môžete synchronizovať svoje karty, záložky, heslá a ďalšie.'>
+<!ENTITY fxaccount_getting_started_description2 'Prihláste sa a môžete synchronizovať svoje karty, záložky, prihlasovacie údaje a ďalšie.'>
 <!ENTITY fxaccount_getting_started_get_started 'Poďme na to'>
 <!ENTITY fxaccount_getting_started_old_firefox 'Používate staršiu verziu služby &syncBrand.shortName.label;?'>
 
@@ -211,7 +211,7 @@
 <!ENTITY fxaccount_status_needs_finish_migrating 'Ťuknutím sa prihlásite k svojmu novému účtu Firefox Account.'>
 <!ENTITY fxaccount_status_bookmarks 'Záložky'>
 <!ENTITY fxaccount_status_history 'História'>
-<!ENTITY fxaccount_status_passwords 'Heslá'>
+<!ENTITY fxaccount_status_passwords2 'Prihlasovacie údaje'>
 <!ENTITY fxaccount_status_tabs 'Otvorené karty'>
 <!ENTITY fxaccount_status_legal 'Právne informácie' >
 <!-- Localization note: when tapped, the following two strings link to

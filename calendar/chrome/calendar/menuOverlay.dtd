@@ -34,6 +34,7 @@
 
 <!ENTITY showUnifinderCmd.label                 "Hľadať udalosti">
 <!ENTITY showUnifinderCmd.accesskey             "a">
+<!ENTITY showUnifinderCmd.tooltip               "Prepnúť panel Hľadať udalosti">
 
 <!ENTITY calendar.displaytodos.checkbox.label       "Zobraziť úlohy v kalendári">
 <!ENTITY calendar.displaytodos.checkbox.accesskey   "k">

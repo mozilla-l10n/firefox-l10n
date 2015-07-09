@@ -10,3 +10,7 @@
 <!ENTITY usedAs "Použité ako: ">
 <!ENTITY system "systémové">
 <!ENTITY remote "vzdialené">
+
+<!-- LOCALIZATION NOTE (previewHint): This is the label shown as the
+     placeholder in font inspector preview text box. -->
+<!ENTITY previewHint "Ukážka textu">

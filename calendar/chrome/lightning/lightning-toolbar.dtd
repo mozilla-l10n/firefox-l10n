@@ -8,10 +8,15 @@
 <!ENTITY lightning.toolbar.task.name.accesskey "h">
 
 <!ENTITY lightning.toolbar.sync.label "Synchronizovať">
+<!ENTITY lightning.toolbar.sync.tooltip "Znova načítať obsah kalendárov a synchronizovať zmeny">
 <!ENTITY lightning.toolbar.delete.label "Odstrániť">
+<!ENTITY lightning.toolbar.delete.tooltip "Odstrániť zvolené udalosti alebo úlohy">
 <!ENTITY lightning.toolbar.edit.label "Upraviť">
+<!ENTITY lightning.toolbar.edit.tooltip "Upraviť zvolenú udalosť alebo úlohu">
 <!ENTITY lightning.toolbar.gototoday.label "Prejsť na panel Dnes">
+<!ENTITY lightning.toolbar.gototoday.tooltip "Prejsť na panel Dnes">
 <!ENTITY lightning.toolbar.print.label "Tlačiť">
+<!ENTITY lightning.toolbar.print.tooltip "Vytlačiť udalosti alebo úlohy">
 
 <!-- Mode Toolbar -->
 <!ENTITY lightning.toolbar.calendar.label     "Kalendár">
@@ -23,7 +28,9 @@
 
 <!-- Toolbar write button -->
 <!ENTITY lightning.toolbar.newevent.label     "Udalosť">
+<!ENTITY lightning.toolbar.newevent.tooltip   "Vytvoriť novú udalosť">
 <!ENTITY lightning.toolbar.newtask.label      "Úloha">
+<!ENTITY lightning.toolbar.newtask.tooltip    "Vytvoriť novú úlohu">
 
 <!-- Calendar and Task Mode Toolbar -->
 <!ENTITY lightning.toolbar.day.label                 "Deň">
