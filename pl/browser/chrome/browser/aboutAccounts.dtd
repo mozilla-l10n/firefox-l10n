@@ -6,4 +6,4 @@
 <!ENTITY aboutAccountsConfig.description "Zaloguj się, by synchronizować karty, zakładki i inne rzeczy.">
 <!ENTITY aboutAccountsConfig.startButton.label "Konfiguruj">
 <!ENTITY aboutAccountsConfig.useOldSync.label "Używasz starszej wersji synchronizacji?">
-<!ENTITY aboutAccountsConfig.manage.label "Zarządzaj">
+<!ENTITY aboutAccountsConfig.syncPreferences.label "Ustawienia">
