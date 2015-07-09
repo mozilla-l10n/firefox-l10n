@@ -66,19 +66,19 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY openFileCmd.commandkey "o">
 <!ENTITY printSetupCmd.label "পৃষ্টা'র বৈশিষ্ট্য(u)...">
 <!ENTITY printSetupCmd.accesskey "u">
-<!ENTITY printPreviewCmd.label "প্রিন্টের পূর্বরূপ">
+<!ENTITY printPreviewCmd.label "প্রিন্টের পূর্বরূপ(v)">
 <!ENTITY printPreviewCmd.accesskey "v">
-<!ENTITY printCmd.label "প্রিন্ট করুন...">
+<!ENTITY printCmd.label "প্রিন্ট করুন...(P)">
 <!ENTITY printCmd.accesskey "P">
 <!ENTITY printCmd.commandkey "p">
 
-<!ENTITY goOfflineCmd.label "অফলাইন অবস্থায় কর্ম">
+<!ENTITY goOfflineCmd.label "অফলাইন অবস্থায় কর্ম(k)">
 <!ENTITY goOfflineCmd.accesskey "k">
 
-<!ENTITY menubarCmd.label "মেনু-বার">
+<!ENTITY menubarCmd.label "মেনু-বার(M)">
 <!ENTITY menubarCmd.accesskey "M">
 <!ENTITY navbarCmd.label "মূলপরিচালনার টুল-বার">
-<!ENTITY personalbarCmd.label "বুকমার্কের টুলবার">
+<!ENTITY personalbarCmd.label "বুকমার্কের টুলবার(B)">
 <!ENTITY personalbarCmd.accesskey "B">
 <!ENTITY bookmarksToolbarItem.label "বুকমার্ক টুলবারের বিষয়-বস্তু">
 
@@ -89,10 +89,10 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY toolbarContextMenu.undoCloseTab.label "বন্ধ করা ট্যাব পুনরায় খুলুন (U)">
 <!ENTITY toolbarContextMenu.undoCloseTab.accesskey "U">
 
-<!ENTITY pageSourceCmd.label "পৃষ্ঠার উৎস">
+<!ENTITY pageSourceCmd.label "পৃষ্ঠার উৎস(o)">
 <!ENTITY pageSourceCmd.accesskey "o">
 <!ENTITY pageSourceCmd.commandkey "u">
-<!ENTITY pageInfoCmd.label "পৃষ্ঠা সংক্রান্ত তথ্য">
+<!ENTITY pageInfoCmd.label "পৃষ্ঠা সংক্রান্ত তথ্য(I)">
 <!ENTITY pageInfoCmd.accesskey "I">
 <!ENTITY pageInfoCmd.commandkey "i">
 <!ENTITY mirrorTabCmd.label "মিরর(M) ট্যাব">
@@ -274,6 +274,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
   -  application menu item that opens the browser content toolbox UI in the Tools menu.
   -  This toolbox allows to debug the chrome of the content process in multiprocess builds.  -->
 
+<!ENTITY browserContentToolboxMenu.label     "ব্রাউজার কন্টেট &amp; টুলবক্স">
+<!ENTITY browserContentToolboxMenu.accesskey "x">
 
 <!ENTITY devToolbarCloseButton.tooltiptext "ডিভেলপার টুল-বার বন্ধ করুন">
 <!ENTITY devToolbarMenu.label              "ডিভেলপার টুল-বার">
@@ -303,7 +305,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY newNavigatorCmd.accesskey      "N">
 <!ENTITY newPrivateWindow.label     "নতুন ব্যক্তিগত উইন্ডো (W)">
 <!ENTITY newPrivateWindow.accesskey "W">
-
+<!ENTITY newNonRemoteWindow.label   "নতুন Non-e10s window">
 
 <!ENTITY editMenu.label         "সম্পাদনা"> 
 <!ENTITY editMenu.accesskey       "E"> 
@@ -672,10 +674,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY editBookmark.cancel.label                   "বাতিল">
 <!ENTITY editBookmark.removeBookmark.accessKey       "R">
 
+<!ENTITY identity.connectionSecure "সুরক্ষিত সংযোগ">
+<!ENTITY identity.connectionNotSecure "সংযোগ সুরক্ষিত নয়">
+<!ENTITY identity.connectionVerified "&brandShortName; যাঁচাই করে যে আপনি নিরাপদভাবে, এই সাইটের সাথে সংযুক্ত হয়েছেন যা চালনা করে:">
+<!ENTITY identity.connectionInternal "এটি একটি সুরক্ষিত &brandShortName; পৃষ্ঠা।">
 
-
-
-
+<!ENTITY identity.moreInfoLinkText2 "অধিক বিবরণ">
 
 <!ENTITY identity.permissions "অনুমতি">
 <!-- Name for the tabs toolbar as spoken by screen readers.
@@ -850,6 +854,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY readingList.sidebar.add.tooltip          "এই পাতাটি আপনার পড়ার তালিকায় যোগ করুন">
 <!-- LOCALIZATION NOTE (saveToPocketCmd.label, saveLinkToPocketCmd.label, pocketMenuitem.label): Pocket is a brand name -->
 
-
-
-
+<!ENTITY saveToPocketCmd.label     "Pocket এ পৃষ্ঠা সংরক্ষণ করা হোক">
+<!ENTITY saveToPocketCmd.accesskey "k">
+<!ENTITY saveLinkToPocketCmd.label     "লিংক to Pocket এ সংরক্ষণ করা হোক">
+<!ENTITY saveLinkToPocketCmd.accesskey "o">
+<!ENTITY pocketMenuitem.label      "Pocket তালিকা প্রদর্শন">
