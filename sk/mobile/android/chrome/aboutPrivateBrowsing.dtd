@@ -2,12 +2,15 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY privatebrowsingpage.title                  "Súkromné prehliadanie">
+<!ENTITY privatebrowsingpage.title "Súkromné prehliadanie">
+<!ENTITY privatebrowsingpage.title.normal "Nenachádzate sa v režime Súkromné prehliadanie">
 
-<!ENTITY privatebrowsingpage.issueDesc.private      "Otvorili ste novú súkromnú kartu.">
-<!ENTITY privatebrowsingpage.issueDesc.normal       "Nenachádzate sa na súkromnej karte.">
+<!ENTITY privatebrowsingpage.issueDesc.normal2 "V režime Súkromné prehliadanie sa nebude ukladať história prehliadania ani súbory cookies.">
+<!ENTITY privatebrowsingpage.issueDesc.private2 "Nebude sa ukladať história prehliadania ani súbory cookies.">
 
-<!ENTITY privatebrowsingpage.description            "Na súkromných kartách nebude prehliadač &brandShortName; zaznamenávať históriu navštívených stránok a vyhľadávania, záznamy o prevzatých súboroch, údaje zadané do formulárov, cookies a dočasné internetové súbory. Prevzaté súbory a vytvorené záložky však ostanú zachované.">
-<!ENTITY privatebrowsingpage.description.private    "&privatebrowsingpage.issueDesc.private; &privatebrowsingpage.description;">
+<!ENTITY privatebrowsingpage.description2 "Vytvorené záložky a prevzaté súbory však budú uložené.">
+<!ENTITY privatebrowsingpage.description.normal "&privatebrowsingpage.issueDesc.normal2; &privatebrowsingpage.description2;">
+<!ENTITY privatebrowsingpage.description.private2 "&privatebrowsingpage.issueDesc.private2; &privatebrowsingpage.description2;">
 
-<!ENTITY privatebrowsingpage.moreInfo               "Aj keď sa v tomto zariadení nebudú ukladať žiadne údaje o prehliadaných stránkach, váš poskytovateľ internetového pripojenia či zamestnávateľ môžu napriek tomu sledovať, ktoré stránky navštevujete.">
+<!ENTITY privatebrowsingpage.link.private "Chcete sa dozvedieť viac?">
+<!ENTITY privatebrowsingpage.link.normal "Otvoriť novú súkromnú kartu">

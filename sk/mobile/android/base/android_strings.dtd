@@ -44,6 +44,10 @@
 <!ENTITY bookmark "Záložka">
 <!ENTITY bookmark_remove "Odstrániť záložku">
 <!ENTITY bookmark_added "Záložka pridaná">
+<!-- Localization note (bookmark_already_added) : This string is
+     used as a label in a toast. It is the verb "to bookmark", not
+     the noun "a bookmark". -->
+<!ENTITY bookmark_already_added "Už sa nachádza medzi záložkami">
 <!ENTITY bookmark_removed "Záložka odstránená">
 <!ENTITY bookmark_updated "Záložka aktualizovaná">
 <!ENTITY bookmark_options "Možnosti">
@@ -77,6 +81,7 @@
 
 <!ENTITY settings "Nastavenia">
 <!ENTITY settings_title "Nastavenia">
+<!ENTITY pref_category_input_options "Možnosti vstupu">
 <!ENTITY pref_category_advanced "Rozšírené">
 <!ENTITY pref_category_customize "Prispôsobenie">
 <!ENTITY pref_category_customize_summary "Úvodná stránka, vyhľadávanie, karty, import">
@@ -132,7 +137,7 @@
 <!ENTITY pref_category_display "Zobrazovanie">
 <!ENTITY pref_category_display_summary "Text, titulok okna, prehliadanie v režime Na celú obrazovku">
 <!ENTITY pref_category_privacy_short "Súkromie">
-<!ENTITY pref_category_privacy_summary "Správa hesiel, cookies, sledovanie, údaje">
+<!ENTITY pref_category_privacy_summary2 "Správa prihlasovacích údajov, cookies, sledovanie, údaje">
 <!ENTITY pref_category_vendor "&vendorShortName;">
 <!ENTITY pref_category_vendor_summary "O prehliadači &brandShortName;, často kladené otázky, údaje o používaní">
 <!ENTITY pref_category_datareporting "Odosielanie údajov">
@@ -151,7 +156,9 @@
 <!ENTITY pref_category_devtools "Vývojárske nástroje">
 <!ENTITY pref_developer_remotedebugging "Vzdialené ladenie">
 <!ENTITY pref_category_logins "Heslá">
-<!ENTITY pref_remember_signons "Pamätať si heslá">
+<!ENTITY pref_remember_signons2 "Pamätať si prihlasovacie údaje">
+<!ENTITY pref_open_external_urls_privately_title "Otvárať odkazy v režime Súkromné prehliadanie">
+<!ENTITY pref_open_external_urls_privately_summary "Pre všetky externé odkazy otvorené v prehliadači &brandShortName;">
 <!ENTITY pref_manage_logins "Správa hesiel">
 
 <!ENTITY pref_category_home "Domov">
@@ -189,10 +196,10 @@
 <!ENTITY pref_donottrack_title "Funkcia Do not track">
 <!ENTITY pref_donottrack_summary "&brandShortName; požiada webové stránky, aby nesledovali vašu aktivitu">
 
-<!ENTITY tab_queue_toast_message2 "Fronta kariet v &brandShortName;">
+<!ENTITY tab_queue_toast_message3 "Karta bola uložená do prehliadača &brandShortName;">
 <!ENTITY tab_queue_toast_action "Otvoriť teraz">
 <!ENTITY tab_queue_prompt_title "Otvoriť viaceré odkazy?">
-<!ENTITY tab_queue_prompt_text2 "Otvoriť bez prepínania na &brandShortName; po každom odkaze.">
+<!ENTITY tab_queue_prompt_text3 "Uložené budú až pokiaľ znova nespustíte &brandShortName;.">
 <!ENTITY tab_queue_prompt_tip_text "Toto nastavenie môžete neskôr zmeniť v Nastaveniach">
 <!ENTITY tab_queue_prompt_positive_action_button "Povoliť">
 <!ENTITY tab_queue_prompt_negative_action_button "Teraz nie">
@@ -245,10 +252,14 @@ size. -->
 <!ENTITY pref_media_autoplay_enabled_summary "Určuje, či webové stránky môžu automaticky prehrávať videá a iné médiá">
 <!ENTITY pref_zoom_force_enabled "Vždy povoliť lupu">
 <!ENTITY pref_zoom_force_enabled_summary "Lupu bude možné používať pre akúkoľvek stránku">
+<!ENTITY pref_voice_input "Hlasový vstup">
+<!ENTITY pref_voice_input_summary "Povolí hlasové diktovanie v titulku okna">
+<!ENTITY pref_qrcode_enabled "Čítačka kódov QR">
+<!ENTITY pref_qrcode_enabled_summary "Povolí čítačku kódov QR v titulku okna">
 
 <!ENTITY pref_use_master_password "Používať hlavné heslo">
 <!ENTITY pref_sync "Synchronizácia">
-<!ENTITY pref_sync_summary "Synchronizácia kariet, záložiek, hesiel, histórie">
+<!ENTITY pref_sync_summary2 "Synchronizácia kariet, záložiek, prihlasovacích údajov, histórie">
 <!ENTITY pref_search_suggestions "Zobrazovať návrhy vyhľadávania">
 <!ENTITY pref_import_android "Import z Androidu">
 <!ENTITY pref_import_android_summary "Import záložiek a histórie z natívneho prehliadača">
@@ -256,12 +267,12 @@ size. -->
 <!ENTITY pref_private_data_searchHistory "História vyhľadávania">
 <!ENTITY pref_private_data_formdata2 "Údaje zadané do formulárov">
 <!ENTITY pref_private_data_cookies2 "Cookies a aktívne prihlásenia">
-<!ENTITY pref_private_data_passwords "Uložené heslá">
+<!ENTITY pref_private_data_passwords2 "Uložené prihlasovacie údaje">
 <!ENTITY pref_private_data_cache "Vyrovnávacia pamäť">
 <!ENTITY pref_private_data_offlineApps "Údaje stránok v režime offline">
 <!ENTITY pref_private_data_siteSettings2 "Nastavenia stránok">
 <!ENTITY pref_private_data_downloadFiles2 "Prevzaté súbory">
-
+<!ENTITY pref_private_data_syncedTabs "Synchronizované karty">
 
 <!ENTITY pref_about_firefox "Čo je &brandShortName;">
 <!ENTITY pref_vendor_faqs "Často kladené otázky">
@@ -380,6 +391,11 @@ size. -->
 <!ENTITY doorhanger_login_edit_password_hint "Heslo">
 <!ENTITY doorhanger_login_edit_toggle "Zobraziť heslo">
 <!ENTITY doorhanger_login_edit_toast_error "Prihlasovacie údaje sa nepodarilo uložiť">
+<!ENTITY doorhanger_login_select_message "Kopírovať heslo z &formatS;?">
+<!ENTITY doorhanger_login_select_toast_copy "Heslo bolo skopírované do schránky">
+<!ENTITY doorhanger_login_select_toast_copy_error "Heslo nebolo možné skopírovať">
+<!ENTITY doorhanger_login_select_action_text "Zvoliť iné prihlasovacie údaje">
+<!ENTITY doorhanger_login_select_title "Skopírovať heslo z">
 
 <!ENTITY pref_titlebar_mode "Panel s titulkom okna">
 <!ENTITY pref_titlebar_mode_title "Zobrazovať titulok stránky">
@@ -391,7 +407,7 @@ size. -->
 <!ENTITY pref_scroll_title_bar_summary "Skrýva titulok okna &brandShortName;u počas posúvania stránky">
 
 <!ENTITY pref_tab_queue_title2 "Otvorenie viacerých odkazov naraz">
-<!ENTITY pref_tab_queue_summary2 "Odkazy ukladá do fronty namiesto prepnutia do prehliadača &brandShortName; po každom odkaze.">
+<!ENTITY pref_tab_queue_summary3 "Pripravené budú až pokiaľ znova nespustíte &brandShortName;.">
 
 <!-- Localization note (page_removed): This string appears in a toast message when
      any page is removed frome about:home. This includes pages that are in history,
@@ -410,7 +426,9 @@ size. -->
 <!ENTITY site_settings_clear        "Vymazať">
 <!ENTITY site_settings_no_settings  "Nie sú uložené žiadne údaje.">
 
-<!ENTITY reading_list_added "Stránka pridaná do Zoznamu na prečítanie">
+<!-- Localization note (reading_list_added2) : Used in a toast, please keep as short
+     as possible. -->
+<!ENTITY reading_list_added2 "Pridaná do zoznamu">
 <!ENTITY reading_list_removed "Stránka odstránená zo Zoznamu na prečítanie">
 <!-- Localization note (reading_list_remove) : Used to remove the currently open page from
      the user's reading list. The opposite of overlay_share_reading_list_btn_label. -->
@@ -439,7 +457,7 @@ size. -->
 <!ENTITY button_clear_data "Vymazať údaje">
 <!ENTITY button_set "Nastaviť">
 <!ENTITY button_clear "Vymazať">
-<!ENTITY button_remember "Zapamätať">
+<!ENTITY button_copy "Kopírovať">
 
 <!ENTITY firstrun_panel_title_welcome "Vitajte">
 
@@ -503,10 +521,6 @@ size. -->
      the text of a button; we expect more than one device. -->
 <!ENTITY home_remote_tabs_unhide_selected_devices "Odkryť zvolené zariadenia">
 
-<!ENTITY private_browsing_title "Súkromné prehliadanie">
-<!ENTITY private_tabs_panel_empty_desc "Tu sa zobrazujú otvorené karty režimu Súkromné prehliadanie. Aj keď neuchovávame vašu históriu prehliadania alebo súbory cookies, záložky a prevzaté súbory budú uložené na disku vášho zariadenia.">
-<!ENTITY private_tabs_panel_learn_more "Chcete vedieť viac?">
-
 <!ENTITY remote_tabs_panel_moved_title "Kam zmizli moje karty?">
 <!ENTITY remote_tabs_panel_moved_desc "Karty z vašich ďalších zariadení sme presunuli do panela na vašej domovskej stránke, ktorá sa zobrazí zakaždým, keď otvoríte novú kartu.">
 <!ENTITY remote_tabs_panel_moved_link "Prejsť na môj nový panel">
@@ -534,6 +548,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_run_by "Spravuje ju">
 <!ENTITY identity_no_info "Táto stránka neposkytuje informácie o svojej identite.">
 <!ENTITY identity_not_encrypted "Pripojenie k tejto stránke nie je zabezpečené.">
+<!ENTITY identity_encrypted "Zašifrované">
 
 <!-- Mixed content notifications in site identity popup -->
 <!ENTITY loaded_mixed_content_message "Táto stránka zobrazuje obsah, ktorý nie je bezpečný.">
@@ -597,7 +612,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY guest_session_dialog_continue "Pokračovať">
 <!ENTITY guest_session_dialog_cancel "Zrušiť">
 <!ENTITY new_guest_session_title "&brandShortName; bude teraz reštartovaný">
-<!ENTITY new_guest_session_text "Počas prehliadania v tomto režime nebude mať osoba používajúca zariadenie prístup k akýmkoľvek osobným údajom (ako uložené heslá, história alebo záložky).\n\nPo opustení režimu Hosť budú údaje získané v tomto režime odstránené a bude obnovená vaša posledná relácia.">
+<!ENTITY new_guest_session_text2 "Počas prehliadania v tomto režime nebude mať osoba používajúca zariadenie prístup k akýmkoľvek osobným údajom (ako uložené prihlasovacie údaje, história alebo záložky).\n\nPo opustení režimu Hosť budú údaje získané v tomto režime odstránené a bude obnovená vaša posledná relácia.">
 <!ENTITY guest_browsing_notification_title "Je zapnutý režim Hosť">
 <!ENTITY guest_browsing_notification_text "Ťuknutím ho opustíte">
 
@@ -646,3 +661,5 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- LOCALIZATION NOTE (find_matchcase): This is meant to appear as an icon that changes color
      if match-case is activated. i.e. No more than two letters, one uppercase, one lowercase. -->
 <!ENTITY find_matchcase "Aa">
+
+<!ENTITY intent_uri_cannot_open "Odkaz nie je možné otvoriť">

@@ -15,5 +15,6 @@
 <!ENTITY aboutSupport.accountsConnSecurity "Zabezpečenie spojenia">
 <!ENTITY aboutSupport.accountsAuthMethod "Metóda overenia">
 <!ENTITY aboutSupport.accountsDefault "Predvolený?">
+<!ENTITY aboutSupport.identityName "Identita">
 
 <!ENTITY aboutSupport.sendViaEmail.label "Odoslať ako e-mailovú správu">

@@ -48,14 +48,6 @@
 <!ENTITY ScreenName.label               "Meno na IM:">
 <!ENTITY ScreenName.accesskey           "I">
 
-<!ENTITY allowRemoteContent1.label      "Povoliť vzdialený obsah">
-<!ENTITY allowRemoteContent1.accesskey  "h">
-<!ENTITY allowRemoteContent1.tooltip    "Do správ vo formáte HTML je možné
-vložiť obsah zo vzdialených serverov. Pri otvorení takejto správy sa
-vytvorí pripojenie k danému serveru. Týmto je možné sledovať,
-či bola správa prečítaná. Označením tejto voľby umožníte v správach od tohto kontaktu
-načítavanie externého obsahu, ak sú vo formáte HTML.">
-
 <!ENTITY WorkPhone.label                "Zamestnanie:">
 <!ENTITY WorkPhone.accesskey            "t">
 <!ENTITY HomePhone.label                "Domov:">
