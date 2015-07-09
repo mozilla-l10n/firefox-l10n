@@ -42,8 +42,8 @@
 
 <!ENTITY syncDeviceName.label       "Anv an trevnad :">
 <!ENTITY syncDeviceName.accesskey   "A">
-
-
+<!ENTITY fxaSyncDeviceName.label       "Anv an trevnad">
+<!ENTITY changeSyncDeviceName.label "Kemmañ anv an trevnad…">
 <!ENTITY cancelChangeSyncDeviceName.label "Nullañ">
 <!ENTITY saveChangeSyncDeviceName.label "Save">
 <!ENTITY unlinkDevice.label           "Lemel an trevnad-mañ">
