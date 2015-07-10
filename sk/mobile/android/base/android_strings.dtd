@@ -191,7 +191,7 @@
 <!ENTITY pref_cookies_not_accept_foreign "Povolené, okrem cookies tretích strán">
 <!ENTITY pref_cookies_disabled "Zakázané">
 
-<!ENTITY pref_tracking_protection_title "Ochrana pre sledovaním">
+<!ENTITY pref_tracking_protection_title "Ochrana pred sledovaním">
 <!ENTITY pref_tracking_protection_summary "&brandShortName; zabráni webovým stránkam sledovať vašu aktivitu">
 <!ENTITY pref_donottrack_title "Funkcia Do not track">
 <!ENTITY pref_donottrack_summary "&brandShortName; požiada webové stránky, aby nesledovali vašu aktivitu">
