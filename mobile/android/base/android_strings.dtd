@@ -97,6 +97,9 @@
 <!ENTITY pref_search_hint "Suggerimento: è possibile aggiungere qualunque sito tenendo premuto a lungo sul campo di ricerca e poi toccando l’icona &formatI;.">
 <!ENTITY pref_category_devtools "Strumenti di sviluppo">
 <!ENTITY pref_developer_remotedebugging "Debug remoto">
+<!ENTITY pref_developer_remotedebugging_usb "Debug remoto tramite USB">
+<!ENTITY pref_developer_remotedebugging_wifi "Debug remoto tramite Wi-Fi">
+<!ENTITY pref_developer_remotedebugging_wifi_disabled_summary "Il debug tramite Wi-Fi richiede la presenza sul dispositivo di un’app per la scansione di codici QR.">
 <!ENTITY pref_category_logins "Accessi">
 <!ENTITY pref_remember_signons2 "Ricorda accessi">
 <!ENTITY pref_open_external_urls_privately_title "Apertura link in Navigazione anonima">
@@ -170,7 +173,7 @@
 <!ENTITY pref_font_size_preview_text "La volpe arancio oltrepassa ogni ostacolo con sempre maggiore velocità, flessibilità e sicurezza. In quanto organizzazione non profit siamo in grado di creare innovazione per il bene degli utenti senza cedere a pressioni o compromessi. Questo significa una migliore esperienza per tutti e un futuro migliore per il Web.">
 <!ENTITY pref_voice_input "Input vocale">
 <!ENTITY pref_voice_input_summary "Attiva input vocale nella barra degli indirizzi">
-<!ENTITY pref_qrcode_enabled "Lettura codici QR">
+<!ENTITY pref_qrcode_enabled "Scansione codici QR">
 <!ENTITY pref_qrcode_enabled_summary "Consenti la scansione di codici QR nella barra degli indirizzi">
 <!ENTITY pref_use_master_password "Usa password principale">
 <!ENTITY pref_sync "Sync">
@@ -409,3 +412,4 @@
 <!ENTITY remote_tabs_never_synced "Ultima sinc.: mai">
 <!ENTITY find_matchcase "Aa">
 <!ENTITY intent_uri_cannot_open "Impossibile aprire il link">
+<!ENTITY devtools_auth_scan_header "Scansione del codice QR visualizzato sull’altro dispositivo">
