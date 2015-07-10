@@ -9,6 +9,9 @@
 <!ENTITY trackingProtection.label       "Zabrániť stránkam ma sledovať">
 <!ENTITY trackingProtection.accesskey   "Z">
 <!ENTITY trackingProtectionLearnMore.label "Ďalšie informácie">
+<!ENTITY trackingProtectionPBM.label          "Zabrániť stránkam sledovať moju aktivitu v režime Súkromné prehliadanie">
+<!ENTITY trackingProtectionPBM.accesskey      "b">
+<!ENTITY trackingProtectionPBMLearnMore.label "Ďalšie informácie">
 <!ENTITY doNotTrackInfo.label           "Ďalšie informácie">
 
 <!ENTITY  history.label                 "História">
