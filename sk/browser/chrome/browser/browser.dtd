@@ -764,6 +764,15 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY mixedContentBlocked2.block.accesskey "c">
 <!ENTITY mixedContentBlocked2.disabled.message "Ochrana je vypnutá">
 
+<!ENTITY trackingProtection.title "Ochrana pred sledovaním">
+<!ENTITY trackingProtection.detectedBlocked "Pokusy o sledovanie vášho správania online boli zablokované.">
+<!ENTITY trackingProtection.detectedNotBlocked "Na tejto stránke boli nájdené prvky sledovania. Ochrana pred sledovaním je pre túto stránku vypnutá.">
+<!ENTITY trackingProtection.notDetected "Na tejto stránke neboli zistené žiadne prvky sledovania.">
+<!ENTITY trackingProtection.unblock.label "Vypnúť ochranu pre túto stránku">
+<!ENTITY trackingProtection.unblock.accesskey "V">
+<!ENTITY trackingProtection.block.label "Zapnúť ochranu pre túto stránku">
+<!ENTITY trackingProtection.block.accesskey "Z">
+
 <!ENTITY trackingContentBlocked.message "Sledovanie">
 <!ENTITY trackingContentBlocked.moreinfo "Časti stránky, ktoré sledujú vašu aktivitu na webe, boli zablokované.">
 <!ENTITY trackingContentBlocked.learnMore "Ďalšie informácie">
