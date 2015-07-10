@@ -447,6 +447,12 @@
 <!ENTITY junkButton.tooltip "Märk de markerade meddelandena som skräppost">
 <!ENTITY notJunkButton.tooltip "Märk de markerade meddelandena som Ej skräppost">
 
+<!-- Remote Content Button Popup -->
+<!ENTITY remoteContentOptionsAllowForMsg.label "Visa externt innehåll i detta meddelande">
+<!ENTITY remoteContentOptionsAllowForMsg.accesskey "V">
+<!ENTITY editRemoteContentSettings.label "Redigera rättigheter för externt innehåll…">
+<!ENTITY editRemoteContentSettings.accesskey "R">
+
 <!-- Statusbar -->
 <!ENTITY  statusText.label "Dokument: Klart">
 
