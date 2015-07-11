@@ -95,7 +95,10 @@
 <!ENTITY pref_search_restore_defaults_summary "Восстановить по умолчанию">
 <!ENTITY pref_search_hint "СОВЕТ: Добавьте любой веб-сайт в ваш список поисковых систем, произведя долгое нажатие на его поле поиска и затем нажав на значок &formatI;.">
 <!ENTITY pref_category_devtools "Инструменты разработки">
-<!ENTITY pref_developer_remotedebugging "Удалённый отладчик">
+<!ENTITY pref_developer_remotedebugging "Удалённая отладка">
+<!ENTITY pref_developer_remotedebugging_usb "Удалённая отладка через USB">
+<!ENTITY pref_developer_remotedebugging_wifi "Удалённая отладка через Wi-Fi">
+<!ENTITY pref_developer_remotedebugging_wifi_disabled_summary "Для удалённой отладки через Wi-Fi необходимо, чтобы на вашем устройстве было установлено приложение для чтения QR-кодов.">
 <!ENTITY pref_category_logins "Логины">
 <!ENTITY pref_remember_signons2 "Запоминать логины">
 <!ENTITY pref_open_external_urls_privately_title "Открывать ссылки в приватном просмотре">
@@ -223,7 +226,6 @@
 <!ENTITY addons "Дополнения">
 <!ENTITY logins "Логины">
 <!ENTITY downloads "Загрузки">
-<!ENTITY apps "Приложения">
 <!ENTITY char_encoding "Кодировка">
 <!ENTITY share "Поделиться">
 <!ENTITY share_title "Поделиться через">
@@ -410,3 +412,4 @@
 <!ENTITY remote_tabs_never_synced "Последняя синхронизация: никогда">
 <!ENTITY find_matchcase "Аа">
 <!ENTITY intent_uri_cannot_open "Не могу открыть ссылку">
+<!ENTITY devtools_auth_scan_header "Сканирование QR-кода, отображенного на другом вашем устройстве">

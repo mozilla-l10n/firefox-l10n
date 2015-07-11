@@ -1,9 +1,0 @@
-<!-- This Source Code Form is subject to the terms of the Mozilla Public
-   - License, v. 2.0. If a copy of the MPL was not distributed with this
-   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-
-<!ENTITY aboutApps.title2 "Приложения">
-<!ENTITY aboutApps.header "Мои приложения">
-<!ENTITY aboutApps.browseMarketplace "Обзор магазина Firefox">
-<!ENTITY aboutApps.uninstall "Удалить">
-<!ENTITY aboutApps.checkForUpdates "Проверить на обновления">
