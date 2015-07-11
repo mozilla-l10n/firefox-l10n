@@ -46,6 +46,7 @@
 <!ENTITY signedInLoginFailure.aftername.label "">
 <!ENTITY notSignedIn.label "Вы не вошли.">
 <!ENTITY signIn.label "Войти">
+<!ENTITY profilePicture.tooltip "Изменить фотографию в профиле">
 <!ENTITY manage.label "Управление">
 <!ENTITY disconnect.label "Отсоединить…">
 <!ENTITY verify.label "Подтвердить эл. почту">
