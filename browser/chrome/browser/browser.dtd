@@ -110,6 +110,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllTabsCmd.accesskey "m">
 
 <!ENTITY fxaSignIn.label "Komenci seancon en &syncBrand.shortName.label;">
+<!ENTITY fxaSignedIn.tooltip "Malfermi preferojn de Open &syncBrand.shortName.label;">
 <!ENTITY fxaSignInError.label "Reconnect to &syncBrand.shortName.label;">
 <!ENTITY syncStartPanel2.heading "&syncBrand.shortName.label; aktiva">
 <!ENTITY syncStartPanel2.subTitle "&brandShortName; komencos tre baldaŭ speguli.">
@@ -675,6 +676,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY identity.connectionSecure "Sekura konekto">
 <!ENTITY identity.connectionNotSecure "Nesekura konekto">
+<!ENTITY identity.connectionVerified "&brandShortName; kontrolis ke vi estas sekure konektita al tiu ĉi retejo, funkciigita de:">
+<!ENTITY identity.connectionInternal "Tiu ĉi estas sekura paĝo de &brandShortName;.">
 
 <!ENTITY identity.moreInfoLinkText2 "Pli da informo">
 
@@ -765,6 +768,15 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY mixedContentBlocked2.block.label "Aktivigi protekton">
 <!ENTITY mixedContentBlocked2.block.accesskey "A">
 <!ENTITY mixedContentBlocked2.disabled.message "La protekto ne estas aktiva">
+
+<!ENTITY trackingProtection.title "Kontraŭspura protekto">
+<!ENTITY trackingProtection.detectedBlocked "Klopodoj spuri vian retuman konduton estis blokitaj.">
+<!ENTITY trackingProtection.detectedNotBlocked "Spuraj elementoj trovitaj. Vi malaktivigis protekton en tiu ĉi retejo.">
+<!ENTITY trackingProtection.notDetected "Neniu spura elemento trovita en tiu ĉi retejo.">
+<!ENTITY trackingProtection.unblock.label "Malaktivigi protekton por tiu ĉi retejo">
+<!ENTITY trackingProtection.unblock.accesskey "M">
+<!ENTITY trackingProtection.block.label "Aktivigi protekton por tiu ĉi retejo">
+<!ENTITY trackingProtection.block.accesskey "A">
 
 <!ENTITY trackingContentBlocked.message "Spurado">
 <!ENTITY trackingContentBlocked.moreinfo "Partoj de la paĝo, kiuj spuras vian retuman aktivecon, estis blokitaj.">
