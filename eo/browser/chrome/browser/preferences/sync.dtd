@@ -42,6 +42,10 @@
 <!-- Device Settings -->
 <!ENTITY syncDeviceName.label       "Nomo de aparato:">
 <!ENTITY syncDeviceName.accesskey   "a">
+<!ENTITY fxaSyncDeviceName.label       "Nomo de aparato">
+<!ENTITY changeSyncDeviceName.label "Ŝanĝi nomon de aparato…">
+<!ENTITY cancelChangeSyncDeviceName.label "Nuligi">
+<!ENTITY saveChangeSyncDeviceName.label "Konservi">
 <!ENTITY unlinkDevice.label           "Malligi tiun ĉi aparaton">
 
 <!-- Footer stuff -->
@@ -70,6 +74,7 @@ both, to better adapt this sentence to their language.
 
 <!ENTITY notSignedIn.label           "Vi ne komencis seancon.">
 <!ENTITY signIn.label                "Komenci seancon">
+<!ENTITY profilePicture.tooltip      "Ŝanĝi bildon de profilo">
 <!ENTITY manage.label                "Administri">
 <!ENTITY disconnect.label            "Malkonekti…">
 <!ENTITY verify.label                "Konfirmi retpoŝton">

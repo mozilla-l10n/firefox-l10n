@@ -7,4 +7,4 @@
 <!ENTITY aboutAccountsConfig.description "Komenci seancon por speguli viajn langetojn, legosignojn kaj aliajn aferojn.">
 <!ENTITY aboutAccountsConfig.startButton.label "Unuaj paŝoj">
 <!ENTITY aboutAccountsConfig.useOldSync.label "Ĉu vi uzas malnovan version de Speguli?">
-<!ENTITY aboutAccountsConfig.manage.label "Administri">
+<!ENTITY aboutAccountsConfig.syncPreferences.label "Preferoj de Speguli">
