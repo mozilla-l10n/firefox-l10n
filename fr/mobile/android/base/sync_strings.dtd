@@ -62,7 +62,7 @@
 <!ENTITY sync.configure.engines.title.label 'Que synchroniser'>
 <!ENTITY sync.configure.engines.sync.my.title.label 'Synchroniser…'>
 <!ENTITY sync.configure.engines.title.bookmarks 'Les marque-pages'>
-<!ENTITY sync.configure.engines.title.passwords 'Les mots de passe'>
+<!ENTITY sync.configure.engines.title.passwords2 'Les identifiants'>
 <!ENTITY sync.configure.engines.title.history 'L\u0027historique'>
 <!ENTITY sync.configure.engines.title.tabs 'Les onglets'>
 
@@ -150,7 +150,7 @@
 <!ENTITY fxaccount_remove_account_menu_item 'Supprimer le compte'>
 
 <!ENTITY fxaccount_getting_started_welcome_to_sync 'Bienvenue dans &syncBrand.shortName.label;'>
-<!ENTITY fxaccount_getting_started_description 'Connectez-vous pour synchroniser vos onglets, marque-pages, mots de passe et bien plus.'>
+<!ENTITY fxaccount_getting_started_description2 'Connectez-vous pour synchroniser vos onglets, marque-pages, identifiants et bien plus.'>
 <!ENTITY fxaccount_getting_started_get_started 'Démarrer'>
 <!ENTITY fxaccount_getting_started_old_firefox 'Vous utilisez une ancienne version de &syncBrand.shortName.label; ?'>
 
@@ -221,7 +221,7 @@
 <!ENTITY fxaccount_status_needs_finish_migrating 'Appuyez pour vous connecter à votre nouveau compte Firefox.'>
 <!ENTITY fxaccount_status_bookmarks 'Marque-pages'>
 <!ENTITY fxaccount_status_history 'Historique'>
-<!ENTITY fxaccount_status_passwords 'Mots de passe'>
+<!ENTITY fxaccount_status_passwords2 'Identifiants'>
 <!ENTITY fxaccount_status_tabs 'Onglets ouverts'>
 <!ENTITY fxaccount_status_legal 'Mentions légales'>
 <!-- Localization note: when tapped, the following two strings link to
