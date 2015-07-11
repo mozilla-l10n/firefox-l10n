@@ -56,11 +56,7 @@
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
 <!ENTITY notCached.title "Document Expired">
-<!ENTITY notCached.longDesc "<p>The requested document is not available in the cache.</p>
-<ul>
- <li>As a security precaution, &brandShortName; does not automatically re-request sensitive documents.</li>
- <li>Click Try Again to re-request the document from the website.</li>
-</ul>">
+<!ENTITY notCached.longDesc "<p>The requested document is not available in the cache.</p><ul><li>As a security precaution, &brandShortName; does not automatically re-request sensitive documents.</li><li>Click Try Again to re-request the document from the website.</li></ul>">
 
 <!ENTITY netOffline.title "Offline mode">
 <!ENTITY netOffline.longDesc2 "
@@ -165,6 +161,11 @@ be temporary, and you can try again later.</li>
 <!ENTITY malwareBlocked.longDesc "
 <p>Attack sites try to install programs that steal private information, use your computer to attack others, or damage your system.</p>
 <p>Website owners who believe their site has been reported as an attack site in error may <a href='http://www.stopbadware.org/home/reviewinfo'>request a review</a>.</p>
+">
+
+<!ENTITY unwantedBlocked.title "Suspected Unwanted Software Site!">
+<!ENTITY unwantedBlocked.longDesc "
+<p>Unwanted software pages try to install software that can be deceptive and affect your system in unexpected ways.</p>
 ">
 
 <!ENTITY phishingBlocked.title "Suspected web forgery!">
