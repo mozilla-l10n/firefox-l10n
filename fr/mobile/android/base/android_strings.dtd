@@ -268,7 +268,7 @@ size. -->
 <!ENTITY pref_private_data_searchHistory "Historique des recherches">
 <!ENTITY pref_private_data_formdata2 "Historique des formulaires">
 <!ENTITY pref_private_data_cookies2 "Cookies et connexions actives">
-<!ENTITY pref_private_data_passwords "Identifiants enregistrés">
+<!ENTITY pref_private_data_passwords2 "Identifiants enregistrés">
 <!ENTITY pref_private_data_cache "Cache">
 <!ENTITY pref_private_data_offlineApps "Données de site web hors connexion">
 <!ENTITY pref_private_data_siteSettings2 "Paramètres de site">
@@ -460,7 +460,6 @@ size. -->
 <!ENTITY button_clear_data "Effacer mes traces">
 <!ENTITY button_set "Valider">
 <!ENTITY button_clear "Effacer">
-<!ENTITY button_remember "Retenir">
 <!ENTITY button_copy "Copier">
 
 <!ENTITY firstrun_panel_title_welcome "Bienvenue">
