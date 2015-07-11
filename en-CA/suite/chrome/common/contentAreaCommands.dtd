@@ -67,11 +67,13 @@
 <!ENTITY bookmarkFrameCmd.accesskey   "m">
 <!ENTITY savePageAsCmd.label          "Save Page As…">
 <!ENTITY savePageCmd.label            "Save Page">
-<!ENTITY savePageCmd.accesskey        "a">
+<!ENTITY savePageCmd.accesskey        "e">
 <!ENTITY savePageCmd.commandkey       "s">
 <!ENTITY saveFrameAsCmd.label         "Save Frame As…">
 <!ENTITY saveFrameCmd.label           "Save Frame">
-<!ENTITY saveFrameCmd.accesskey       "m">
+<!ENTITY saveFrameCmd.accesskey       "a">
+<!ENTITY printFrameCmd.label          "Print Frame…">
+<!ENTITY printFrameCmd.accesskey      "P">
 <!ENTITY saveLinkAsCmd.label          "Save Link Target As…">
 <!ENTITY saveLinkCmd.label            "Save Link Target">
 <!ENTITY saveLinkCmd.accesskey        "S">
