@@ -112,6 +112,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllTabsCmd.accesskey "A">
 
 <!ENTITY fxaSignIn.label "Se connecter à &syncBrand.shortName.label;">
+<!ENTITY fxaSignedIn.tooltip "Ouvrir les préférences de &syncBrand.shortName.label;">
 <!ENTITY fxaSignInError.label "Se reconnecter à &syncBrand.shortName.label;">
 <!ENTITY syncStartPanel2.heading "&syncBrand.shortName.label; activé">
 <!ENTITY syncStartPanel2.subTitle "&brandShortName; débutera la synchronisation dans un instant.">
@@ -768,7 +769,7 @@ you can use these alternative items. Otherwise, their values should be empty.
 <!ENTITY trackingProtection.title "Protection contre le pistage">
 <!ENTITY trackingProtection.detectedBlocked "Des tentatives de pistage de votre comportement en ligne ont été bloquées.">
 <!ENTITY trackingProtection.detectedNotBlocked "Éléments de pistage détectés. Vous avez désactivé la protection sur ce site.">
-<!ENTITY trackingProtection.notDetected "Aucun élément de pistage détecté sur ce site web.">
+<!ENTITY trackingProtection.notDetected "Aucun élément de pistage détecté sur ce site.">
 <!ENTITY trackingProtection.unblock.label "Désactiver la protection pour ce site">
 <!ENTITY trackingProtection.unblock.accesskey "D">
 <!ENTITY trackingProtection.block.label "Activer la protection pour ce site">
