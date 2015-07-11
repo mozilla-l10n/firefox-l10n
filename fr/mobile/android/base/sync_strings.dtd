@@ -231,6 +231,8 @@
 <!ENTITY fxaccount_status_linktos 'Conditions d\u0027utilisation'>
 <!ENTITY fxaccount_status_linkprivacy 'Politique de confidentialité'>
 
+<!ENTITY fxaccount_enable_debug_mode 'Activer le mode débogage'>
+
 <!-- Localization note: this is the name shown by the Android system
      itself for a Firefox Account. Don't localize this. -->
 <!ENTITY fxaccount_account_type_label 'Firefox'>
