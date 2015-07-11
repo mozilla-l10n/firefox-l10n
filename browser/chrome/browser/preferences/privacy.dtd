@@ -8,7 +8,7 @@
 <!ENTITY trackingProtection.label "Не давать сайтам меня отслеживать">
 <!ENTITY trackingProtection.accesskey "а">
 <!ENTITY trackingProtectionLearnMore.label "Подробнее">
-<!ENTITY trackingProtectionPBM.label "Не давать сайтам отслеживать мои действия в Интернете из Приватных окон.">
+<!ENTITY trackingProtectionPBM.label "Не давать сайтам отслеживать мои действия в Интернете из Приватных окон">
 <!ENTITY trackingProtectionPBM.accesskey "и">
 <!ENTITY trackingProtectionPBMLearnMore.label "Подробнее">
 <!ENTITY doNotTrackInfo.label "Подробнее">
