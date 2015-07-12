@@ -78,6 +78,7 @@
 <!ENTITY showAllTabsCmd.label "Mostrar todas las pestañas">
 <!ENTITY showAllTabsCmd.accesskey "A">
 <!ENTITY fxaSignIn.label "Conectarse a &syncBrand.shortName.label;">
+<!ENTITY fxaSignedIn.tooltip "Abrir preferencias de &syncBrand.shortName.label;">
 <!ENTITY fxaSignInError.label "Reconectar a &syncBrand.shortName.label;">
 <!ENTITY syncStartPanel2.heading "&syncBrand.shortName.label; activado">
 <!ENTITY syncStartPanel2.subTitle "&brandShortName; comenzará a sincronizar en breves momentos.">
@@ -555,6 +556,14 @@
 <!ENTITY mixedContentBlocked2.block.label "Activar protección">
 <!ENTITY mixedContentBlocked2.block.accesskey "v">
 <!ENTITY mixedContentBlocked2.disabled.message "La protección está desactivada">
+<!ENTITY trackingProtection.title "Protección contra rastreo">
+<!ENTITY trackingProtection.detectedBlocked "Los intentos de rastrear su comportamiento en línea han sido bloqueados.">
+<!ENTITY trackingProtection.detectedNotBlocked "Elementos de rastreo detectados. Tiene la protección desactivada en este sitio.">
+<!ENTITY trackingProtection.notDetected "Se han detectado elementos de rastreo en este sitio web.">
+<!ENTITY trackingProtection.unblock.label "Desactivar protección en este sitio">
+<!ENTITY trackingProtection.unblock.accesskey "e">
+<!ENTITY trackingProtection.block.label "Activar protección en este sitio">
+<!ENTITY trackingProtection.block.accesskey "c">
 <!ENTITY trackingContentBlocked.message "Rastreo">
 <!ENTITY trackingContentBlocked.moreinfo "Las partes de esta página que rastrean su actividad en línea han sido bloqueadas.">
 <!ENTITY trackingContentBlocked.learnMore "Saber más">
