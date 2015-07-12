@@ -150,6 +150,7 @@
 <!ENTITY fxaccount_remove_account_dialog_message "&brandShortName; dejará de sincronizar con su cuenta, pero no eliminará ninguno de sus datos de navegación en este dispositivo.">
 <!ENTITY fxaccount_remove_account_toast "Cuenta de Firefox &formatS; eliminada.">
 <!ENTITY fxaccount_remove_account_menu_item "Eliminar cuenta">
+<!ENTITY fxaccount_enable_debug_mode "Activar modo de depuración">
 <!ENTITY fxaccount_account_type_label "Firefox">
 <!ENTITY fxaccount_options_title "Opciones de &syncBrand.shortName.label;">
 <!ENTITY fxaccount_options_configure_title "Configurar &syncBrand.shortName.label;">
