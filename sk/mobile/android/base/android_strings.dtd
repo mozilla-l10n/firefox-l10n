@@ -155,6 +155,9 @@
 <!ENTITY pref_search_hint "Tip: akúkoľvek stránku pridáte dlhým podržaním jej vyhľadávacieho poľa a následne ťuknutím na ikonu &formatI;.">
 <!ENTITY pref_category_devtools "Vývojárske nástroje">
 <!ENTITY pref_developer_remotedebugging "Vzdialené ladenie">
+<!ENTITY pref_developer_remotedebugging_usb "Vzdialené ladenie cez USB">
+<!ENTITY pref_developer_remotedebugging_wifi "Vzdialené ladenie cez Wi-Fi">
+<!ENTITY pref_developer_remotedebugging_wifi_disabled_summary "Ladenie cez sieť Wi-Fi vyžaduje, aby vaše zariadenie malo nainštalovanú aplikáciu čítačky kódov QR.">
 <!ENTITY pref_category_logins "Heslá">
 <!ENTITY pref_remember_signons2 "Pamätať si prihlasovacie údaje">
 <!ENTITY pref_open_external_urls_privately_title "Otvárať odkazy v režime Súkromné prehliadanie">
@@ -663,3 +666,11 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY find_matchcase "Aa">
 
 <!ENTITY intent_uri_cannot_open "Odkaz nie je možné otvoriť">
+
+<!-- DevTools Authentication -->
+<!-- LOCALIZATION NOTE (devtools_auth_scan_header): This header text appears
+     above a QR reader that is actively scanning for QR codes.  The expected QR
+     code has already been displayed by the client trying to connect (such as
+     desktop Firefox via WebIDE), so you just need to aim this device at the QR
+     code. -->
+<!ENTITY devtools_auth_scan_header "Skenuje sa kód QR zobrazený na vašom ďalšom zariadení">
