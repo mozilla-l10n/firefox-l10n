@@ -10,3 +10,6 @@
 <!ENTITY addonAction.disable "Zakázat">
 <!ENTITY addonAction.uninstall "Odinstalovat">
 <!ENTITY addonAction.undo "Zpět">
+
+<!ENTITY addonUnsigned.message                  "Tento doplněk nemohl být v aplikaci &brandShortName; ověřen.">
+<!ENTITY addonUnsigned.learnMore                "Zjistit více">
