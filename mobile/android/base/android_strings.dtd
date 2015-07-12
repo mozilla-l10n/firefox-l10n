@@ -44,6 +44,10 @@
 <!ENTITY bookmark "Záložky">
 <!ENTITY bookmark_remove "Odebrat záložku">
 <!ENTITY bookmark_added "Záložka přidána">
+<!-- Localization note (bookmark_already_added) : This string is
+     used as a label in a toast. It is the verb "to bookmark", not
+     the noun "a bookmark". -->
+<!ENTITY bookmark_already_added "Záložky již byla přidána">
 <!ENTITY bookmark_removed "Záložka odebrána">
 <!ENTITY bookmark_updated "Záložka aktualizována">
 <!ENTITY bookmark_options "Možnosti">
@@ -77,6 +81,7 @@
 
 <!ENTITY settings "Nastavení">
 <!ENTITY settings_title "Nastavení">
+<!ENTITY pref_category_input_options "Nastavení vstupu">
 <!ENTITY pref_category_advanced "Rozšířené">
 <!ENTITY pref_category_customize "Přizpůsobení">
 <!ENTITY pref_category_customize_summary "Úvodní stránka, vyhledávání, panely, import">
@@ -132,7 +137,7 @@
 <!ENTITY pref_category_display "Zobrazení">
 <!ENTITY pref_category_display_summary "Text, titulek okna, prohlížení v režimu celé obrazovky">
 <!ENTITY pref_category_privacy_short "Soukromí">
-<!ENTITY pref_category_privacy_summary "Správa hesel, cookies, sledování a dat">
+<!ENTITY pref_category_privacy_summary2 "Správa přihlášení, cookies, sledování a dat">
 <!ENTITY pref_category_vendor "&vendorShortName;">
 <!ENTITY pref_category_vendor_summary "O aplikaci &brandShortName;, FAQ, FAQs, možnosti hlášení">
 <!ENTITY pref_category_datareporting "Možnosti hlášení">
@@ -151,7 +156,9 @@
 <!ENTITY pref_category_devtools "Nástroje vývojáře">
 <!ENTITY pref_developer_remotedebugging "Vzdálené ladění">
 <!ENTITY pref_category_logins "Přihlášení">
-<!ENTITY pref_remember_signons "Pamatovat si hesla">
+<!ENTITY pref_remember_signons2 "Pamatovat si přihlášení">
+<!ENTITY pref_open_external_urls_privately_title "Otevřít odkazy v anonymním režimu">
+<!ENTITY pref_open_external_urls_privately_summary "Pro všechny externí odkazy otevírané v aplikaci &brandShortName;">
 <!ENTITY pref_manage_logins "Správa přihlášení">
 
 <!ENTITY pref_category_home "Domů">
@@ -159,7 +166,6 @@
 <!ENTITY pref_category_home_panels "Panely">
 <!ENTITY home_add_panel_title "Přidat nový panel">
 <!ENTITY home_add_panel_empty "Omlouváme se, ale nemůžeme nalézt žádný panel, který byste mohli přidat.">
-
 <!-- Localization note (home_add_panel_installed):
      The &formatS; will be replaced with the name of the new panel the user just
      selected to be added to the home page. -->
@@ -190,10 +196,10 @@
 <!ENTITY pref_donottrack_title "Funkce Do not track">
 <!ENTITY pref_donottrack_summary "&brandShortName; požádá webové stránky, aby nesledovaly vaši aktivitu">
 
-<!ENTITY tab_queue_toast_message2 "Panely ve frontě aplikace &brandShortName;">
+<!ENTITY tab_queue_toast_message3 "Panel uložen do aplikace &brandShortName;">
 <!ENTITY tab_queue_toast_action "Otevřít nyní">
-<!ENTITY tab_queue_prompt_title "Otevření více odkazů?">
-<!ENTITY tab_queue_prompt_text2 "Otevřete je bez přepnutí do aplikace &brandShortName;">
+<!ENTITY tab_queue_prompt_title "Otevíráte více odkazů?">
+<!ENTITY tab_queue_prompt_text3 "Uložte je na později do příštího otevření aplikace &brandShortName;">
 <!ENTITY tab_queue_prompt_tip_text "lze změnit kdykoliv později v Nastavení">
 <!ENTITY tab_queue_prompt_positive_action_button "Povolit">
 <!ENTITY tab_queue_prompt_negative_action_button "Nyní ne">
@@ -245,10 +251,14 @@ size. -->
 <!ENTITY pref_media_autoplay_enabled_summary "Určuje, zda webová stránka může automaticky přehrávat videa či jiný multimediální obsah">
 <!ENTITY pref_zoom_force_enabled "Vždy povolit lupu">
 <!ENTITY pref_zoom_force_enabled_summary "Lupu bude možné používat pro libovolnou stránku">
+<!ENTITY pref_voice_input "Hlasový vstup">
+<!ENTITY pref_voice_input_summary "Povolit hlasový vstup v hlavičce">
+<!ENTITY pref_qrcode_enabled "Čtečka QR kódů">
+<!ENTITY pref_qrcode_enabled_summary "Povolit skener QR v hlavičce">
 
 <!ENTITY pref_use_master_password "Použít hlavní heslo">
 <!ENTITY pref_sync "Sync">
-<!ENTITY pref_sync_summary "Synchronizace vašich panelů, záložek, hesel a historie">
+<!ENTITY pref_sync_summary2 "Synchronizace vašich panelů, záložek, přihlášení a historie">
 <!ENTITY pref_search_suggestions "Zobrazit našeptávač">
 <!ENTITY pref_import_android "Import z Androidu">
 <!ENTITY pref_import_android_summary "Import záložek a historie z prohlížeče v systému">
@@ -256,11 +266,13 @@ size. -->
 <!ENTITY pref_private_data_searchHistory "Historie vyhledávání">
 <!ENTITY pref_private_data_formdata2 "Historie formulářů">
 <!ENTITY pref_private_data_cookies2 "Cookies a přihlášení">
-<!ENTITY pref_private_data_passwords "Uložená hesla">
+<!ENTITY pref_private_data_passwords2 "Uložená přihlášení">
 <!ENTITY pref_private_data_cache "Mezipaměť">
 <!ENTITY pref_private_data_offlineApps "Offline data">
 <!ENTITY pref_private_data_siteSettings2 "Nastavení serveru">
 <!ENTITY pref_private_data_downloadFiles2 "Stahování">
+<!ENTITY pref_private_data_syncedTabs "Synchronizované panely">
+
 
 <!ENTITY pref_about_firefox "O aplikaci &brandShortName;">
 <!ENTITY pref_vendor_faqs "FAQ">
@@ -302,8 +314,6 @@ size. -->
 <!ENTITY datareporting_crashreporter_title_short "Hlášení pádů">
 <!ENTITY datareporting_wifi_title2 "Geolokační služba od organizace &vendorShortName;">
 <!ENTITY datareporting_wifi_geolocation_summary4 "Pomozte organizaci &vendorShortName; mapovat svět! Sdílejte přibližná umístění mobilních a wi-fi sítí v okolí vašeho zařízení a pomozte tak vylepšit naše geolokační služby.">
-
-
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
      actual notification that an update is available. -->
@@ -381,6 +391,11 @@ size. -->
 <!ENTITY doorhanger_login_edit_password_hint "Heslo">
 <!ENTITY doorhanger_login_edit_toggle "Zobrazit heslo">
 <!ENTITY doorhanger_login_edit_toast_error "Chyba při ukládání přihlášení">
+<!ENTITY doorhanger_login_select_message "Zkopírovat heslo z &formatS;?">
+<!ENTITY doorhanger_login_select_toast_copy "Heslo zkopírováno do schránky">
+<!ENTITY doorhanger_login_select_toast_copy_error "Heslo nelze zkopírovat">
+<!ENTITY doorhanger_login_select_action_text "Zvolte jiné přihlášení">
+<!ENTITY doorhanger_login_select_title "Zkopírovat heslo z">
 
 <!ENTITY pref_titlebar_mode "Hlavička okna">
 <!ENTITY pref_titlebar_mode_title "Zobrazit nadpis stránky">
@@ -392,7 +407,7 @@ size. -->
 <!ENTITY pref_scroll_title_bar_summary "Při skrolování dolů na stránce skrýt hlavičku okna prohlížeče &brandShortName;">
 
 <!ENTITY pref_tab_queue_title2 "Otevření více odkazů">
-<!ENTITY pref_tab_queue_summary2 "Přidání odkazů do fronty na později bez přepnutí do aplikace &brandShortName;">
+<!ENTITY pref_tab_queue_summary3 "Uložte ke na později do dalšího příštího aplikace &brandShortName;">
 
 <!-- Localization note (page_removed): This string appears in a toast message when
      any page is removed frome about:home. This includes pages that are in history,
@@ -411,7 +426,9 @@ size. -->
 <!ENTITY site_settings_clear "Vymazat">
 <!ENTITY site_settings_no_settings "Žádné nastavení neexistuje.">
 
-<!ENTITY reading_list_added "Stránka přidána do Seznamu ke čtení">
+<!-- Localization note (reading_list_added2) : Used in a toast, please keep as short
+     as possible. -->
+<!ENTITY reading_list_added2 "Přidáno do seznamu">
 <!ENTITY reading_list_removed "Stránka odebrána ze Seznamu ke čtení">
 <!-- Localization note (reading_list_remove) : Used to remove the currently open page from
      the user's reading list. The opposite of overlay_share_reading_list_btn_label. -->
@@ -440,7 +457,7 @@ size. -->
 <!ENTITY button_clear_data "Vymazat data">
 <!ENTITY button_set "Nastavit">
 <!ENTITY button_clear "Vymazat">
-<!ENTITY button_remember "Zapamatovat">
+<!ENTITY button_copy "Kopírovat">
 
 <!ENTITY firstrun_panel_title_welcome "Vítejte">
 
@@ -503,11 +520,6 @@ size. -->
      the text of a button; we expect more than one device. -->
 <!ENTITY home_remote_tabs_unhide_selected_devices "Odkrýt zvolená zařízení">
 
-
-<!ENTITY private_browsing_title "Anonymní prohlížení">
-<!ENTITY private_tabs_panel_empty_desc "Zde se zobrazují otevřené anonymní panely. Ačkoliv neuchováváme vaši historii prohlížení nebo cookies, záložky a stažené soubory budou na vaše zařízení ukládány.">
-<!ENTITY private_tabs_panel_learn_more "Chcete se dozvědět více?">
-
 <!ENTITY remote_tabs_panel_moved_title "Kam zmizely moje panely?">
 <!ENTITY remote_tabs_panel_moved_desc "Panely z vašich dalších zařízení jsme přesunuli do panelu na vaší domovské stránce, která se zobrazí při každém otevření nového panelu.">
 <!ENTITY remote_tabs_panel_moved_link "Přejít na můj nový panel.">
@@ -535,7 +547,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_run_by "která je provozována">
 <!ENTITY identity_no_info "Tato stránka neposkytuje informace o své identitě.">
 <!ENTITY identity_not_encrypted "Připojení k této stránce není zabezpečené.">
-
+<!ENTITY identity_encrypted "Zašifrováno">
 
 <!-- Mixed content notifications in site identity popup -->
 <!ENTITY loaded_mixed_content_message "Tato stránka zobrazuje obsah, který není zabezpečený.">      
@@ -599,8 +611,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY guest_session_dialog_continue "Pokračovat">
 <!ENTITY guest_session_dialog_cancel "Zrušit">
 <!ENTITY new_guest_session_title "Aplikace &brandShortName; bude nyní restartována">
-<!ENTITY new_guest_session_text "Osoba používající tento režim nebude moci vidět vaše osobní data o prohlížení (jako jsou uložená hesla, historie či záložky).\n\nJakmile ukončí režim pro hosty, budou jeho data smazána a vaše relace bude obnovena.">
-
+<!ENTITY new_guest_session_text2 "Osoba používající tento režim nebude moci vidět vaše osobní data o prohlížení (jako jsou uložená přihlášení, historie či záložky).\n\nJakmile ukončí režim pro hosty, budou jeho data smazána a vaše relace bude obnovena.">
 <!ENTITY guest_browsing_notification_title "Prohlížení pro hosty je povoleno">
 <!ENTITY guest_browsing_notification_text "Klepněte pro ukončení">
 
@@ -650,3 +661,5 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- LOCALIZATION NOTE (find_matchcase): This is meant to appear as an icon that changes color
      if match-case is activated. i.e. No more than two letters, one uppercase, one lowercase. -->
 <!ENTITY find_matchcase "Aa">
+
+<!ENTITY intent_uri_cannot_open "Odkaz nelze otevřít">

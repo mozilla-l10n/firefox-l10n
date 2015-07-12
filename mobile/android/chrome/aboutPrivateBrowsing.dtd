@@ -3,12 +3,15 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY privatebrowsingpage.title "Anonymní prohlížení">
+<!ENTITY privatebrowsingpage.title.normal "Nejste v režimu anonymního prohlížení">
 
-<!ENTITY privatebrowsingpage.issueDesc.private "Otevřeli jste nový anonymní panel.">
-<!ENTITY privatebrowsingpage.issueDesc.normal "Nejste v anonymním panelu.">
+<!ENTITY privatebrowsingpage.issueDesc.normal2 "V anonymním prohlížení neuchováváme vaši historii prohlížení ani cookies.">
+<!ENTITY privatebrowsingpage.issueDesc.private2 "Neuchováváme vaši historii prohlížení ani cookies.">
 
-<!ENTITY privatebrowsingpage.description "V anonymních panelech si nebude &brandShortName; zaznamenávat žádnou historii, a to včetně historie stránek, formulářů, historie hledání, cookies a souborů v mezipaměti. Nicméně vámi stažené soubory a vytvořené záložky budou zachovány. ">
-<!ENTITY privatebrowsingpage.description.private "&privatebrowsingpage.issueDesc.private; &privatebrowsingpage.description;">
+<!ENTITY privatebrowsingpage.description2 "Záložky, které přidáte, a stažené soubory zůstanou ve vašem zařízení zachovány.">
+<!ENTITY privatebrowsingpage.description.normal "&privatebrowsingpage.issueDesc.normal2; &privatebrowsingpage.description2;">
+<!ENTITY privatebrowsingpage.description.private2 "&privatebrowsingpage.issueDesc.private2; &privatebrowsingpage.description2;">
 
-<!ENTITY privatebrowsingpage.moreInfo "Ačkoliv toto zařízení nebude obsahovat záznamy historie vašeho prohlížení, váš poskytovatel Internetu může i nadále sledovat, jaké stránky navštěvujete.">
+<!ENTITY privatebrowsingpage.link.private "Chcete se dozvědět více?">
+<!ENTITY privatebrowsingpage.link.normal "Otevřít nový anonymní panel">
 
