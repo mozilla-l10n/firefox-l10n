@@ -26,6 +26,10 @@ was trying to connect. -->
 <!ENTITY certerror.whatShouldIDo.content "Αν συνήθως συνδέεστε σε αυτή την σελίδα
 χωρίς προβλήματα, αυτό το σφάλμα σημάινει ότι κάποιος προσπαθεί να πλαστογραφήσει 
 την ταυτότητα της σελίδας και δεν πρέπει να συνεχίσετε.">
+<!ENTITY certerror.whatShouldIDo.badStsCertExplanation "This site uses HTTP
+Strict Transport Security (HSTS) to specify that &brandShortName; only connect
+to it securely. As a result, it is not possible to add an exception for this
+certificate.">
 <!ENTITY certerror.getMeOutOfHere.label "Να φύγω από εδώ!">
 
 <!ENTITY certerror.expert.heading "Καταλαβαίνω τους κινδύνους">
@@ -38,4 +42,3 @@ was trying to connect. -->
 <!ENTITY certerror.addException.label "Προσθήκη εξαίρεσης…">
 
 <!ENTITY certerror.technical.heading "Τεχνικές λεπτομέρειες">
-
