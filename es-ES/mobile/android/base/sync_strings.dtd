@@ -42,7 +42,7 @@
 <!ENTITY sync.configure.engines.title.label "Qué sincronizar">
 <!ENTITY sync.configure.engines.sync.my.title.label "Sincronizar sus…">
 <!ENTITY sync.configure.engines.title.bookmarks "Marcadores">
-<!ENTITY sync.configure.engines.title.passwords "Contraseñas">
+<!ENTITY sync.configure.engines.title.passwords2 "Inicios de sesión">
 <!ENTITY sync.configure.engines.title.history "Historial">
 <!ENTITY sync.configure.engines.title.tabs "Pestañas">
 <!ENTITY sync.button.cancel.label "Cancelar">
@@ -83,7 +83,7 @@
 <!ENTITY fxaccount_policy_linktos "Términos del Servicio">
 <!ENTITY fxaccount_policy_linkprivacy "Aviso sobre privacidad">
 <!ENTITY fxaccount_getting_started_welcome_to_sync "Bienvenido a &syncBrand.shortName.label;">
-<!ENTITY fxaccount_getting_started_description "Inicie sesión para sincronizar sus pestañas, marcadores, contraseñas y más.">
+<!ENTITY fxaccount_getting_started_description2 "Inicie sesión para sincronizar sus pestañas, marcadores, credenciales y más.">
 <!ENTITY fxaccount_getting_started_get_started "Comenzar">
 <!ENTITY fxaccount_getting_started_old_firefox "¿Usa una versión antigua de &syncBrand.shortName.label;?">
 <!ENTITY fxaccount_create_account_header2 "Crear una cuenta de Firefox">
@@ -140,7 +140,7 @@
 <!ENTITY fxaccount_status_needs_finish_migrating "Toque para iniciar sesión con su nueva cuenta de Firefox.">
 <!ENTITY fxaccount_status_bookmarks "Marcadores">
 <!ENTITY fxaccount_status_history "Historial">
-<!ENTITY fxaccount_status_passwords "Contraseñas">
+<!ENTITY fxaccount_status_passwords2 "Inicios de sesión">
 <!ENTITY fxaccount_status_tabs "Abrir pestañas">
 <!ENTITY fxaccount_status_legal "Legal">
 <!ENTITY fxaccount_status_linktos "Términos del Servicio">
