@@ -8,6 +8,9 @@
 <!ENTITY trackingProtection.label "Impedir que los sitios me rastreen">
 <!ENTITY trackingProtection.accesskey "o">
 <!ENTITY trackingProtectionLearnMore.label "Saber más">
+<!ENTITY trackingProtectionPBM.label "Evitar que los sitios rastreen mi actividad en línea en ventanas privadas">
+<!ENTITY trackingProtectionPBM.accesskey "d">
+<!ENTITY trackingProtectionPBMLearnMore.label "Saber más">
 <!ENTITY doNotTrackInfo.label "Saber más">
 <!ENTITY history.label "Historial">
 <!ENTITY locationBar.label "Barra de direcciones">

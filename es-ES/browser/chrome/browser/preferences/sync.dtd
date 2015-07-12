@@ -46,6 +46,7 @@
 <!ENTITY signedInLoginFailure.aftername.label "">
 <!ENTITY notSignedIn.label "No ha iniciado sesión.">
 <!ENTITY signIn.label "Conectarse">
+<!ENTITY profilePicture.tooltip "Cambiar imagen del perfil">
 <!ENTITY manage.label "Administrar">
 <!ENTITY disconnect.label "Desconectar…">
 <!ENTITY verify.label "Verificar mensaje">

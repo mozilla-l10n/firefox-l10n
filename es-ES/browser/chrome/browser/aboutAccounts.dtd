@@ -6,4 +6,4 @@
 <!ENTITY aboutAccountsConfig.description "Inicie sesión para sincronizar sus pestañas, marcadores, contraseñas y más.">
 <!ENTITY aboutAccountsConfig.startButton.label "Comenzar">
 <!ENTITY aboutAccountsConfig.useOldSync.label "¿Usa una versión antigua de Sync?">
-<!ENTITY aboutAccountsConfig.manage.label "Administrar">
+<!ENTITY aboutAccountsConfig.syncPreferences.label "Preferencias de Sync">
