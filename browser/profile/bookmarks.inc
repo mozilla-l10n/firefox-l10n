@@ -37,9 +37,4 @@
 # link title for http://www.mozilla.com/en-US/firefox/about/
 #define firefox_about 만든 사람들 소개
 
-# LOCALIZATION NOTE (firefox_feedback):
-# link title for browser feedback page
-# currently used by Metro only: https://input.mozilla.org/feedback/metrofirefox
-#define firefox_feedback 의견 보내기
-
 #unfilter emptyLines
