@@ -7,12 +7,13 @@
 <!ENTITY     cookiesonsystem.label          "Τα ακόλουθα cookies είναι αποθηκευμένα στον υπολογιστή σας:">
 <!ENTITY     cookiename.label               "Όνομα cookie">
 <!ENTITY     cookiedomain.label             "Ιστοσελίδα"> 
-<!ENTITY     button.removecookie.label      "Απομάκρυνση cookie">
-<!ENTITY     button.removecookie.accesskey  "π">
-<!ENTITY     button.removecookies.label     "Απομάκρυνση cookies">
-
-<!ENTITY     button.removeallcookies.label  "Απομάκρυνση όλων των cookies">
-<!ENTITY     button.removeallcookies.accesskey "μ">
+<!-- LOCALIZATION NOTE (button.removeSelectedCookies.accesskey):
+  The label associated with this accesskey can be found in 
+  preferences.properties as removeSelectedCookies.
+-->
+<!ENTITY     button.removeSelectedCookies.accesskey "R">
+<!ENTITY     button.removeAllCookies.label "Remove All">
+<!ENTITY     button.removeAllCookies.accesskey "A">
 
 <!ENTITY     props.name.label               "Όνομα:">
 <!ENTITY     props.value.label              "Περιεχόμενο:">
@@ -31,4 +32,3 @@
 
 <!ENTITY     button.close.label             "Κλείσιμο">
 <!ENTITY     button.close.accesskey         "Κ">
-

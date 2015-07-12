@@ -4,32 +4,48 @@
 
 <!ENTITY tracking.label                 "Καταγραφή συμπεριφοράς περιήγησης">
 
-
-
-<!ENTITY dntTrackingNopref.label2       "Να μην γνωστοποιούνται στις σελίδες οι προτιμήσεις καταγραφής της συμπεριφοράς περιήγησης μου">
-<!ENTITY dntTrackingNopref.accesskey    "ω">
-
 <!ENTITY dntTrackingNotOkay.label2      "Γνωστοποίηση στις ιστοσελίδες ότι δεν επιθυμώ να καταγράφεται η συμπεριφορά περιήγησης μου">
 <!ENTITY dntTrackingNotOkay.accesskey   "ν">
-<!ENTITY dntTrackingOkay.label2         "Γνωστοποίηση στις ιστοσελίδες ότι επιθυμώ να καταγράφεται η συμπεριφορά περιήγησης μου">
-<!ENTITY dntTrackingOkay.accesskey      "τ">
-<!ENTITY doNotTrackInfo.label           "Μάθετε περισσότερα">
+<!ENTITY trackingProtection.label       "Prevent sites from tracking me">
+<!ENTITY trackingProtection.accesskey   "m">
+<!ENTITY trackingProtectionLearnMore.label "Learn more">
+<!ENTITY doNotTrackInfo.label           "Learn More">
 
-
-
-<!ENTITY  history.label "Ιστορικό">
+<!ENTITY  history.label                 "Ιστορικό">
 
 <!ENTITY  locationBar.label             "Γραμμή διευθύνσεων">
 
-
-<!ENTITY  locbar.pre.label              "Στη γραμμή διευθύνσεων να γίνεται υπόδειξη:">
-<!ENTITY  locbar.pre.accessKey          "γ">
-<!ENTITY  locbar.post.label             "">
-<!ENTITY  locbar.both.label             "Ιστορικού και σελιδοδεικτών">
+<!ENTITY  locbar.suggest.label          "When using the location bar, suggest:">
 <!ENTITY  locbar.history.label          "Ιστορικού">
+<!ENTITY  locbar.history.accesskey      "H">
 <!ENTITY  locbar.bookmarks.label        "Σελιδοδεικτών">
-<!ENTITY  locbar.nothing.label          "Τίποτα">
+<!ENTITY  locbar.bookmarks.accesskey    "k">
+<!ENTITY  locbar.openpage.label         "Open tabs">
+<!ENTITY  locbar.openpage.accesskey     "O">
+<!ENTITY  locbar.searches.label         "Related searches from the default search engine">
+<!ENTITY  locbar.searches.accesskey     "d">
 
+<!ENTITY  acceptCookies.label           "Αποδοχή cookies από σελίδες">
+<!ENTITY  acceptCookies.accesskey       "c">
+
+<!ENTITY  acceptThirdParty.pre.label      "Αποδοχή cookies τρίτων:">
+<!ENTITY  acceptThirdParty.pre.accesskey  "ρ">
+<!ENTITY  acceptThirdParty.always.label   "Πάντα">
+<!ENTITY  acceptThirdParty.never.label    "Ποτέ">
+<!ENTITY  acceptThirdParty.visited.label  "Από ήδη αναγνωσμένες">
+
+<!ENTITY  keepUntil.label               "Διατήρηση μέχρι:">
+<!ENTITY  keepUntil.accesskey           "Δ">
+
+<!ENTITY  expire.label                  "να λήξουν">
+<!ENTITY  close.label                   "να κλείσει ο &brandShortName;">
+<!ENTITY  askEachTime.label             "ερώτηση κάθε φορά">
+
+<!ENTITY  cookieExceptions.label        "Εξαιρέσεις...">
+<!ENTITY  cookieExceptions.accesskey    "ξ">
+
+<!ENTITY  showCookies.label             "Προβολή Cookies...">
+<!ENTITY  showCookies.accesskey         "λ">
 
 <!ENTITY  historyHeader.pre.label          "Ο &brandShortName; θα:">
 <!ENTITY  historyHeader.pre.accesskey      "θ">
@@ -37,15 +53,6 @@
 <!ENTITY  historyHeader.dontremember.label "Δεν θα διατηρεί ιστορικό">
 <!ENTITY  historyHeader.custom.label       "Χρησιμοποιεί προσαρμοσμένες ρυθμίσεις για το ιστορικό">
 <!ENTITY  historyHeader.post.label         "">
-
-
-
-
-
-
-
-
-<!ENTITY  dontrememberDescription.label  "Ο &brandShortName; θα χρησιμοποιεί τις ίδιες ρυθμίσεις με την ιδιωτική περιήγηση και δεν θα απομνημονεύει το ιστορικό περιήγησης σας.">
 
 <!ENTITY  rememberDescription.label      "Ο &brandShortName; θα απομνημονεύει το ιστορικό περιήγησης, λήψεων, φορμών και αναζήτησης, και θα διατηρεί τα cookies από τις ιστοσελίδες που επισκεφθήκατε.">
 
@@ -58,7 +65,7 @@
 <!ENTITY  rememberActions.removeCookies.label "να απομακρύνετε συγκεκριμένα cookies">
 <!ENTITY  rememberActions.post.label          ".">
 
-
+<!ENTITY  dontrememberDescription.label  "Ο &brandShortName; θα χρησιμοποιεί τις ίδιες ρυθμίσεις με την ιδιωτική περιήγηση και δεν θα απομνημονεύει το ιστορικό περιήγησης σας.">
 
 <!-- LOCALIZATION NOTE (dontrememberActions.pre.label): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (dontrememberActions.post.label): include a starting space as needed -->
@@ -66,54 +73,17 @@
 <!ENTITY  dontrememberActions.clearHistory.label "εκκαθαρίσετε όλο το τρέχον ιστορικό σας">
 <!ENTITY  dontrememberActions.post.label         ".">
 
-
-
-
-<!ENTITY  acceptCookies.label           "Αποδοχή cookies από σελίδες">
-<!ENTITY  acceptCookies.accesskey       "c">
-
-
-
-
-<!ENTITY  acceptThirdParty.pre.label      "Αποδοχή cookies τρίτων:">
-<!ENTITY  acceptThirdParty.pre.accesskey  "ρ">
-<!ENTITY  acceptThirdParty.always.label   "Πάντα">
-<!ENTITY  acceptThirdParty.never.label    "Ποτέ">
-<!ENTITY  acceptThirdParty.visited.label  "Από ήδη αναγνωσμένες">
-
-<!ENTITY  cookieExceptions.label        "Εξαιρέσεις...">
-<!ENTITY  cookieExceptions.accesskey    "ξ">
-
-
-<!ENTITY  showCookies.label             "Προβολή Cookies...">
-<!ENTITY  showCookies.accesskey         "λ">
-
-
-
-<!ENTITY  keepUntil.label               "Διατήρηση μέχρι:">
-<!ENTITY  keepUntil.accesskey           "Δ">
-
-<!ENTITY  expire.label                  "να λήξουν">
-<!ENTITY  close.label                   "να κλείσει ο &brandShortName;">
-<!ENTITY  askEachTime.label             "ερώτηση κάθε φορά">
-
+<!ENTITY  privateBrowsingPermanent2.label "Μόνιμη λειτουργία ιδιωτικής περιήγησης">
+<!ENTITY  privateBrowsingPermanent2.accesskey "Μ">
 
 <!ENTITY  rememberHistory2.label      "Διατήρηση του ιστορικού περιήγησης και λήψεων">
 <!ENTITY  rememberHistory2.accesskey  "ι">
+
+<!ENTITY  rememberSearchForm.label       "Διατήρηση ιστορικού αναζήτησης και συμπλήρωσης φορμών">
+<!ENTITY  rememberSearchForm.accesskey   "φ">
 
 <!ENTITY  clearOnClose.label             "Εκκαθάριση ιστορικού όταν κλείνει ο &brandShortName;">
 <!ENTITY  clearOnClose.accesskey         "ι">
 
 <!ENTITY  clearOnCloseSettings.label     "Ρυθμίσεις…">
 <!ENTITY  clearOnCloseSettings.accesskey "μ">
-
-
-
-<!ENTITY  rememberSearchForm.label       "Διατήρηση ιστορικού αναζήτησης και συμπλήρωσης φορμών">
-<!ENTITY  rememberSearchForm.accesskey   "φ">
-
-<!ENTITY  privateBrowsingPermanent2.label "Μόνιμη λειτουργία ιδιωτικής περιήγησης">
-<!ENTITY  privateBrowsingPermanent2.accesskey "Μ">
-
-
-

@@ -14,59 +14,41 @@
                        for the help button in the menubar but Gnome does not.   -->
 <!ENTITY helpMenuWin.label        "Βοήθεια"> 
 <!ENTITY helpMenuWin.accesskey    "Β">
-
-<!ENTITY productHelp.label        "Βοήθεια &brandShortName;">
-<!ENTITY productHelp.accesskey    "Β">
-
-<!ENTITY aboutProduct.label       "Περί &brandShortName;">
-<!ENTITY aboutProduct.accesskey   "ρ">
-
+<!ENTITY aboutProduct2.label      "Περί &brandShortName;">
+<!ENTITY aboutProduct2.accesskey  "ρ">
+<!ENTITY productHelp2.label       "Βοήθεια &brandShortName;">
+<!ENTITY productHelp2.accesskey   "Β">
 <!ENTITY helpMac.commandkey       "?">
 
+<!ENTITY helpKeyboardShortcuts.label     "Συντομεύσεις πληκτρολογίου">
+<!ENTITY helpKeyboardShortcuts.accesskey "υ">
 
-<!ENTITY helpFeedbackPage.label      "Υποβολή σχολίων…">
-<!ENTITY helpFeedbackPage.accesskey  "χ">
+<!ENTITY helpSafeMode.label       "Επανεκκίνηση σε ασφαλή λειτουργία…">
+<!ENTITY helpSafeMode.accesskey   "φ">
+<!ENTITY helpSafeMode.stop.label       "Restart with Add-ons Enabled">
+<!ENTITY helpSafeMode.stop.accesskey   "R">
 
-<!ENTITY healthReport.label       "Αναφορά υγείας &brandShortName;">
-
-<!ENTITY healthReport.accesskey   "γ">
-
-
-
-<!ENTITY preferencesCmdMac.label        "Προτιμήσεις...">
-<!ENTITY preferencesCmdMac.commandkey   ",">
-
-
-<!ENTITY servicesMenuMac.label          "Υπηρεσίες">
- 
-<!ENTITY hideThisAppCmdMac.label        "Απόκρυψη &brandShortName;">
-<!ENTITY hideThisAppCmdMac.commandkey   "H">
-
- 
-<!ENTITY hideOtherAppsCmdMac.label      "Απόκρυψη άλλων">
-<!ENTITY hideOtherAppsCmdMac.commandkey "H">
-
-<!ENTITY showAllAppsCmdMac.label        "Εμφάνιση όλων">
-
-<!ENTITY helpMac.commandkey       "?">
-
+<!ENTITY healthReport2.label      "Αναφορά υγείας &brandShortName;">
+<!ENTITY healthReport2.accesskey  "γ">
 
 <!ENTITY helpTroubleshootingInfo.label      "Πληροφορίες αντιμετώπισης προβλημάτων">
 <!ENTITY helpTroubleshootingInfo.accesskey  "μ">
 
-<!ENTITY productHelp.label        "Βοήθεια &brandShortName;">
-<!ENTITY productHelp.accesskey    "Β">
+<!ENTITY helpFeedbackPage.label      "Υποβολή σχολίων…">
+<!ENTITY helpFeedbackPage.accesskey  "χ">
 
+<!ENTITY helpShowTour2.label            "Ξενάγηση στον &brandShortName;">
+<!ENTITY helpShowTour2.accesskey        "Ξ">
 
-<!ENTITY helpSafeMode.label       "Επανεκκίνηση σε ασφαλή λειτουργία…">
-<!ENTITY helpSafeMode.accesskey   "φ">
+<!ENTITY preferencesCmdMac.label        "Προτιμήσεις...">
+<!ENTITY preferencesCmdMac.commandkey   ",">
 
-<!ENTITY helpKeyboardShortcuts.label     "Συντομεύσεις πληκτρολογίου">
+<!ENTITY servicesMenuMac.label          "Υπηρεσίες">
 
-<!ENTITY helpKeyboardShortcuts.accesskey "υ">
+<!ENTITY hideThisAppCmdMac2.label       "Απόκρυψη &brandShortName;">
+<!ENTITY hideThisAppCmdMac2.commandkey  "H">
+<F5>
+<!ENTITY hideOtherAppsCmdMac.label      "Απόκρυψη άλλων">
+<!ENTITY hideOtherAppsCmdMac.commandkey "H">
 
-<!ENTITY helpShowTour.label             "Ξενάγηση στον &brandShortName;">
-<!ENTITY helpShowTour.accesskey         "Ξ">
-
-
-
+<!ENTITY showAllAppsCmdMac.label        "Εμφάνιση όλων">
