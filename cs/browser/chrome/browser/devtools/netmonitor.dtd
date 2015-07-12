@@ -314,6 +314,22 @@
   -  for the Copy Response menu item displayed in the context menu for a request -->
 <!ENTITY netmonitorUI.context.copyResponse.accesskey  "R">
 
+<!-- LOCALIZATION NOTE (netmonitorUI.context.copyAllAsHar): This is the label displayed
+  -  on the context menu that copies all as HAR format -->
+<!ENTITY netmonitorUI.context.copyAllAsHar "Kopírovat vše jako HAR">
+
+<!-- LOCALIZATION NOTE (netmonitorUI.context.copyAllAsHar.accesskey): This is the access key
+  -  for the Copy All As HAR menu item displayed in the context menu for a network panel -->
+<!ENTITY netmonitorUI.context.copyAllAsHar.accesskey "H">
+
+<!-- LOCALIZATION NOTE (netmonitorUI.context.saveAllAsHar): This is the label displayed
+  -  on the context menu that saves all as HAR format -->
+<!ENTITY netmonitorUI.context.saveAllAsHar "Uložit vše jako HAR">
+
+<!-- LOCALIZATION NOTE (netmonitorUI.context.saveAllAsHar.accesskey): This is the access key
+  -  for the Save All As HAR menu item displayed in the context menu for a network panel -->
+<!ENTITY netmonitorUI.context.saveAllAsHar.accesskey "U">
+
 <!-- LOCALIZATION NOTE (netmonitorUI.context.copyImageAsDataUri): This is the label displayed
   -  on the context menu that copies the selected image as data uri -->
 <!ENTITY netmonitorUI.context.copyImageAsDataUri "Kopírovat data obrázku jako URI">

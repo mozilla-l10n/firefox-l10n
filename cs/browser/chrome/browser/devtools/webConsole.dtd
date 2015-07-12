@@ -107,3 +107,5 @@
 <!ENTITY closeCmd.key         "W">
 <!ENTITY findCmd.key          "F">
 <!ENTITY clearOutputCtrl.key  "L">
+<!ENTITY openInVarViewCmd.label "Otevřít v proměnném zobrazení">
+<!ENTITY openInVarViewCmd.accesskey "t">
