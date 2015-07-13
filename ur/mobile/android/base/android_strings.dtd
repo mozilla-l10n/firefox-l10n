@@ -6,8 +6,7 @@
 <!ENTITY  no_space_to_start_error "&brandShortName; شروع کرنے کے لئے کافی جگہ دستیاب نہیں ہے۔">
 <!ENTITY  error_loading_file "&brandShortName; چلانے کے لئے ضروری مسلیں کو لوڈ کرنے کی کوشش کرتے وقت ایک خامی پیش آگئی">
 
-<!ENTITY  onboard_start_message2 "&brandShortName; میں خوش آمدید">
-<!ENTITY  onboard_start_subtext2 "مزید رازداری کی خصوصیات اور پہلے سے زیادہ اپنی مرضی کے مطابق کرنے کے طریقیں۔">
+
 <!ENTITY  onboard_start_button_account "&brandShortName; میں سائن ان کریں">
 <!ENTITY  onboard_start_button_browser "براؤزنگ شروع کریں">
 <!-- Localization note: These are used as the titles of different pages on the home screen.
@@ -44,6 +43,9 @@
 <!ENTITY bookmark "نشانی">
 <!ENTITY bookmark_remove "نشانی ہٹائیں">
 <!ENTITY bookmark_added "نشانی جمع کردی گئی">
+<!-- Localization note (bookmark_already_added) : This string is
+     used as a label in a toast. It is the verb "to bookmark", not
+     the noun "a bookmark". -->
 <!ENTITY bookmark_removed "نشانی ہٹا دی گئی">
 <!ENTITY bookmark_updated "نشانی تازہ ہوگئی">
 <!ENTITY bookmark_options "اختیارات">
@@ -77,6 +79,7 @@
 
 <!ENTITY settings "سیٹنگیں">
 <!ENTITY settings_title "سیٹنگیں">
+
 <!ENTITY pref_category_advanced "اعلٰی">
 <!ENTITY pref_category_customize "تخصیص کریں">
 <!ENTITY pref_category_customize_summary "گھر، تلاش، ٹیبیں، درآمد">
@@ -104,7 +107,7 @@
 
 <!ENTITY overlay_share_bookmark_btn_label "نشانی">
 <!ENTITY overlay_share_reading_list_btn_label "پڑھنے کی چیزوں کی فہرست میں ڈالیں">
-<!ENTITY overlay_share_bookmark_btn_label_already "پہلے سے نشان زد">
+
 <!ENTITY overlay_share_reading_list_btn_label_already "پہلے سے پڑھنے کی فہرست میں شامل ہے">
 <!ENTITY overlay_share_send_other "دیگر آلات کو بھیجیں">
 <!-- Localization note (overlay_share_send_tab_btn_label) : Used on the
@@ -114,7 +117,6 @@
 
 <!ENTITY overlay_share_send_tab_btn_label "دیگر آلہ کو بھیجیں">
 <!ENTITY overlay_share_no_url "اس شیئر میں کوئی ربط نہیں ملا">
-<!ENTITY overlay_share_retry "دوبارہ کوشش کریں">
 <!ENTITY overlay_share_select_device "آلہ منتخب کریں">
 <!-- Localization note (overlay_no_synced_devices) : Used when the menu option
      to send a tab to a synced device is pressed and no other synced devices
@@ -133,7 +135,7 @@
 <!ENTITY pref_category_display "دکھائیں">
 <!ENTITY pref_category_display_summary "متن، عنوان بار، پوری سکرین براؤزنگ">
 <!ENTITY pref_category_privacy_short "رازداری">
-<!ENTITY pref_category_privacy_summary "پاس ورڈ، کوکیاں، سراغ کاری، کوائف کنٹرول کریں">
+
 <!ENTITY pref_category_vendor "&vendorShortName;">
 <!ENTITY pref_category_vendor_summary "&brandShortName;، عمومی سوالات، کوائف پسندوں کے بارے میں">
 <!ENTITY pref_category_datareporting "کوائف پسندیں">
@@ -150,11 +152,11 @@
      it is applicable. -->
 <!ENTITY pref_search_hint "ٹوٹکا: کسی بھی ویب سائٹ کو اپنے تلاش مہیا کنندہ کے فہرست میں ڈالنے کے لیے اس کی تلاش قطعہ پر لمبا دبائیں اور پھر &formatI; آئکن پر کلک کریں۔">
 <!ENTITY pref_category_devtools "ڈیولپر ٹول">
-<!ENTITY pref_category_devtools_summary "بعید ٹھیک کر رہا ہے، پینٹ چمک کاری">
-<!ENTITY pref_developer_paint_flashing "پینٹ چمک کاری">
 <!ENTITY pref_developer_remotedebugging "بعید ٹھیک کاری">
 <!ENTITY pref_category_logins "لاگ ان">
-<!ENTITY pref_remember_signons "پاس ورڈ یاد رکھیں">
+
+
+
 <!ENTITY pref_manage_logins "لاگ ان بندوبست کریں">
 
 <!ENTITY pref_category_home "گھر">
@@ -192,22 +194,19 @@
 <!ENTITY pref_donottrack_title "میرا سراغ نہ لگائیں">
 <!ENTITY pref_donottrack_summary "&brandShortName; سائٹوں کو بتائے گا کہ آپ اپنا سراغ نہیں لگوانا چاہتے">
 
-<!ENTITY tab_queue_toast_message "بعد میں کھولیں">
 <!ENTITY tab_queue_toast_action "ابھی کھولیں">
-<!-- Localization note (tab_queue_notification_text_plural) : The
+
+
+
+
+
+
+<!-- Localization note (tab_queue_notification_text_plural2) : The
      formatD is replaced with the number of tabs queued.  The
      number of tabs queued is always more than one.  We can't use
      Android plural forms, sadly. See Bug #753859. -->
-<!ENTITY tab_queue_notification_text_plural "&formatD; ٹیبیں قطار بند">
-<!-- Localization note (tab_queue_notification_title_plural) : This is the
-     title of a notification; we expect more than one tab queued. -->
-<!ENTITY tab_queue_notification_title_plural "ٹیبیں قطار بند">
-<!-- Localization note (tab_queue_notification_title_singular) : This is the
-     title of a notification; we expect only one tab queued. -->
-<!ENTITY tab_queue_notification_title_singular "قطار بند ٹیب">
-<!-- Localization note (tab_queue_notification_text_singular) : This is the
+<!-- Localization note (tab_queue_notification_text_singular2) : This is the
      text of a notification; we expect only one tab queued. -->
-<!ENTITY tab_queue_notification_text_singular "1 ٹیب قطار بند">
 
 <!ENTITY pref_char_encoding "کریکٹر ضابطہ بندی">
 <!ENTITY pref_char_encoding_on "مینیو دکھائیں">
@@ -248,20 +247,26 @@ size. -->
 <!ENTITY pref_zoom_force_enabled "زوم ہمیشہ اہل بنائیں">
 <!ENTITY pref_zoom_force_enabled_summary "زیر لازمی کریں تاکہ آپ کسی بھی صفحے پر زوم کر سکیں">
 
+
+
+
+
 <!ENTITY pref_use_master_password "ماسٹر پاس ورڈ استعمال کریں">
 <!ENTITY pref_sync "ہمہ وار کریں">
-<!ENTITY pref_sync_summary "اپنے ٹیب، نشانیاں، پاس ورڈ، سابقات ہمہ وقت ساز کریں">
+
 <!ENTITY pref_search_suggestions "تلاش تجاویز دکھائیں">
 <!ENTITY pref_import_android "اینڈرائڈ سے درآمد کریں">
 <!ENTITY pref_import_android_summary "مقامی براؤزر سے نشانیاں اور تاریخ درآمد کریں">
 <!ENTITY pref_private_data_history2 "براؤزنگ سابقات">
-<!ENTITY pref_private_data_formdata "فارم &amp; تلاش سابقات">
+
+
 <!ENTITY pref_private_data_cookies2 "کوکیاں &amp; متحرک لاگ ان">
-<!ENTITY pref_private_data_passwords "محفوظ شدہ پاس ورڈ">
+
 <!ENTITY pref_private_data_cache "کیسہ">
 <!ENTITY pref_private_data_offlineApps "کوکیاں &amp; متحرک لاگ ان">
 <!ENTITY pref_private_data_siteSettings2 "سائٹ سیٹکگیں">
 <!ENTITY pref_private_data_downloadFiles2 "ڈاؤن لوڈ">
+
 
 
 <!ENTITY pref_about_firefox "&brandShortName; کے بارے میں">
@@ -381,6 +386,12 @@ size. -->
 <!ENTITY doorhanger_login_edit_password_hint "پاس ورڈ">
 <!ENTITY doorhanger_login_edit_toggle "پاس ورڈدکھائیں">
 
+
+
+
+
+
+
 <!ENTITY pref_titlebar_mode "عنوان بار">
 <!ENTITY pref_titlebar_mode_title "صفحہ عنوان دکھائیں">
 <!ENTITY pref_titlebar_mode_url "صفحہ کا پتہ دکھائیں">
@@ -390,8 +401,7 @@ size. -->
 <!ENTITY pref_scroll_title_bar2 "پوری سکرین براؤزنگ">
 <!ENTITY pref_scroll_title_bar_summary "صفحے پر نیچے جاتے وقت &brandShortName; کا عنوان بار چھپائیں">
 
-<!ENTITY pref_tab_queue_title "بعد میں کھولیں">
-<!ENTITY pref_tab_queue_summary "ٹیبیں فوراً کھلنے سے بچائیں، لیکن اگلی بار &brandShortName; لوڈ ہو تو تمام قطار بند ٹیبیں کھولیں۔">
+
 <!-- Localization note (page_removed): This string appears in a toast message when
      any page is removed frome about:home. This includes pages that are in history,
      bookmarks, or reading list. -->
@@ -409,8 +419,8 @@ size. -->
 <!ENTITY site_settings_cancel       "منسوخ کریں">
 <!ENTITY site_settings_clear        "صاف کریں">
 <!ENTITY site_settings_no_settings  "صاف کرنے کے لیے کوئی سیٹنگیں نہیں۔">
-
-<!ENTITY reading_list_added "آپ کے پڑھنے والی فہرست میں صفحہ کا اضافہ کردیا گیا">
+<!-- Localization note (reading_list_added2) : Used in a toast, please keep as short
+     as possible. -->
 <!ENTITY reading_list_removed "آپ کے پڑھنے والی فہرست سے صفحہ ہٹا دیا گیا">
 <!-- Localization note (reading_list_remove) : Used to remove the currently open page from
      the user's reading list. The opposite of overlay_share_reading_list_btn_label. -->
@@ -439,7 +449,8 @@ size. -->
 <!ENTITY button_clear_data "کوائف خالی کریں">
 <!ENTITY button_set "سیٹ کریں">
 <!ENTITY button_clear "صاف کریں">
-<!ENTITY button_remember "یاد رکھیں">
+<!ENTITY button_copy "نقل کریں">
+
 
 <!ENTITY home_top_sites_title "بہترین سائٹیں">
 <!-- Localization note (home_top_sites_add): This string is used as placeholder
@@ -493,17 +504,13 @@ size. -->
      formatD is replaced with the number of hidden devices.  The
      number of hidden devices is always more than one.  We can't use
      Android plural forms, sadly. See Bug #753859. -->
-<!ENTITY home_remote_tabs_many_hidden_devices "1 پوشیدہ آلہ">
+<!ENTITY home_remote_tabs_many_hidden_devices "&formatD; آلات پوشیدہ ہیں">
 <!-- Localization note (home_remote_tabs_hidden_devices_title) : This is the
      title of a dialog; we expect more than one device. -->
 <!ENTITY home_remote_tabs_hidden_devices_title "پوشیدہ آلات">
 <!-- Localization note (home_remote_tabs_unhide_selected_devices) : This is
      the text of a button; we expect more than one device. -->
 <!ENTITY home_remote_tabs_unhide_selected_devices "منتخب آلات چھپانا ختم کریں">
-
-<!ENTITY private_browsing_title "نجی براوزنگ">
-<!ENTITY private_tabs_panel_empty_desc "آپ کی نجی ٹیبیں ادھر دکھائی دیں گی۔ حالانکہ ہم آپ کے کوئی بھی براؤزنگ سابقات اور کوکیاں نہیں رکھتے، نشانیاں اور مسلیں جو آپ ڈاؤن لوڈ کرتے ہیں وہ پھر بھی آپ کے آلہ پر محفوظ ہوںگی۔">
-<!ENTITY private_tabs_panel_learn_more "مزید سیکھیں گے؟">
 
 <!ENTITY remote_tabs_panel_moved_title "میرے ٹیب کہاں گئے؟">
 <!ENTITY remote_tabs_panel_moved_desc "ہم نے دیگر آلات سے آپ کی ٹیبیں آپ کے ابتدائی صفحہ کے ایک پینل میں منتقل کر دیے ہیں جو کہ آپ کے نئے ٹیب کھولنے پر آسانی سے رسائی پذیر ہے۔">
@@ -532,6 +539,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_run_by "جو جلائی جا رہی ہے بر">
 <!ENTITY identity_no_info "یہ ویب سائٹ شناخت کی معلومات نہیں دیتی۔">
 <!ENTITY identity_not_encrypted "آپ کی اس ویب سائٹ کے ساتھ کنکشن خفیہ کردہ نہیں ہے۔">
+<!ENTITY identity_encrypted "خفیہ کردہ">
 <!-- Mixed content notifications in site identity popup -->
 
 <!ENTITY loaded_mixed_content_message "یہ صفحہ مواد دکھا رہا ہے جو قابل بھروسا نہیں ہے۔">
@@ -598,7 +606,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY guest_session_dialog_continue "جاری رکھیں">
 <!ENTITY guest_session_dialog_cancel "منسوخ کریں">
 <!ENTITY new_guest_session_title "&brandShortName; اب پھر شروع ہو گا">
-<!ENTITY new_guest_session_text "جو اسے استعمال کر رہا ہو گا وہ آپ کے کوئی ذاتی براؤزنگ کوائف (جیسے کہ محفوظ پاس ورڈ، سابقات یا نشانیاں) نہیں دیکھ سکے گا۔ \n\n آپ کے مہمان کے فارغ ہو نے پر، ان کے براؤزنگ کوائف حذف کر دیئے جائیں گے اور آپ کی سیشن بحال ہو جائے گی۔">
+
 <!ENTITY guest_browsing_notification_title "مہمان براؤزنگ اہل ہے">
 <!ENTITY guest_browsing_notification_text "خروج کے لیے کلک کریں">
 
@@ -612,6 +620,12 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY ellipsis "…">
 
 <!ENTITY colon ":">
+<!-- LOCALIZATION NOTE (percent): The percent sign is appended after a number to
+     display a percentage value. formatS is the number, #37 is the code to display a percent sign.
+     This format string is typically used by getString method, in such method the percent sign
+     is a reserved caracter. In order to display one percent sign in the result of getString,
+     double percent signs must be inserted in the format string.
+     This entity is used in the zoomed view to display the zoom factor-->
 <!-- These are only used for accessibility for the done and overflow-menu buttons in the actionbar.
      They are never shown to users -->
 
@@ -623,7 +637,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY voicesearch_failed_title "&brandShortName; آواز تلاش">
 <!ENTITY voicesearch_failed_message "اس وقت آواز تلاش میں کچھ مسلہ ہے۔ بعد میں کوشش کریں۔">
 <!ENTITY voicesearch_failed_message_recoverable "ہم آپ کے الفاظ پہچان نہیں سکے۔ پھر کوشش کریں۔">
-<!ENTITY voicesearch_failed_retry "دوبارہ کوشش کریں">
+
 <!-- Localization note (remote_tabs_last_synced): the variable is replaced by a
      "relative time span string" produced by Android.  This string describes the
      time the tabs were last synced relative to the current time; examples
@@ -639,3 +653,4 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      if match-case is activated. i.e. No more than two letters, one uppercase, one lowercase. -->
 
 <!ENTITY find_matchcase "Aa">
+
