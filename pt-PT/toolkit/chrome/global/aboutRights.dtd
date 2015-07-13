@@ -61,7 +61,7 @@
 
 <!ENTITY rights.safebrowsing-a "Navegação segura: ">
 <!ENTITY rights.safebrowsing-b "Não é recomendado desativar a funcionalidade de navegação segura pois pode resultar em você ir para sítios não seguros.  Se desejar desativar completamente a funcionalidade, siga este passos:">
-<!ENTITY rights.safebrowsing-term1 "Abrir as preferências da aplicação">
+<!ENTITY rights.safebrowsing-term1 "Abrir preferências da aplicação">
 <!ENTITY rights.safebrowsing-term2 "Selecione a seleção de segurança">
 <!ENTITY rights.safebrowsing-term3 "Desmarque as opções &quot;&blockAttackSites.label;&quot; e &quot;&blockWebForgeries.label;&quot;">
 <!ENTITY rights.safebrowsing-term4 "A navegação segura está agora desativada">

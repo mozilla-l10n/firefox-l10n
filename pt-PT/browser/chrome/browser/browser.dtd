@@ -757,7 +757,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY getUserMedia.allWindowsShared.message "Serão partilhadas todas as janelas visíveis no seu ecrã.">
 <!-- Bad Content Blocker Doorhanger Notification -->
 
-<!ENTITY badContentBlocked.moreinfo "A maioria dos sítios web funcionam normalmente mesmo com conteúdo bloqueado.">
+<!ENTITY badContentBlocked.moreinfo "A maioria dos sites funcionam normalmente mesmo com conteúdo bloqueado.">
 
 <!ENTITY mixedContentBlocked2.message "Conteúdo inseguro">
 <!ENTITY mixedContentBlocked2.moreinfo "Alguns elementos não cifrados foram bloqueados.">
