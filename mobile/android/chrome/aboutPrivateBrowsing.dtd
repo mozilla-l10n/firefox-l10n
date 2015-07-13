@@ -2,12 +2,13 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY privatebrowsingpage.title                  "ಖಾಸಗಿ ವೀಕ್ಷಣೆ">
+<!ENTITY privatebrowsingpage.title "ಖಾಸಗಿ ವೀಕ್ಷಣೆ">
 
-<!ENTITY privatebrowsingpage.issueDesc.private      "ನೀವು ಖಾಸಗಿ ಟ್ಯಾಬ್ ಒಂದನ್ನು ತೆರೆದಿದ್ದೀರಿ.">
-<!ENTITY privatebrowsingpage.issueDesc.normal       "ನೀವು ಖಾಸಗಿ ಟ್ಯಾಬ್‌ನಲ್ಲಿ ಇಲ್ಲ.">
 
-<!ENTITY privatebrowsingpage.description            "ಖಾಸಗಿ ಟ್ಯಾಬ್‌ಗಳಲ್ಲಿ, &brandShortName;, ಯಾವುದೆ ಜಾಲವೀಕ್ಷಣಾ ಇತಿಹಾಸ, ಹುಡುಕು ಇತಿಹಾಸ, ಡೌನ್‌ಲೋಡ್ ಇತಿಹಾಸ, ಜಾಲ ಫಾರ್ಮಿನ ಇತಿಹಾಸ, ಕುಕಿಗಳು ಅಥವ ತಾತ್ಕಾಲಿಕ ಅಂತರಜಾಲ ಕಡತಗಳನ್ನು ನೆನಪಿನಲ್ಲಿಟ್ಟುಕೊಳ್ಳುವುದಿಲ್ಲ. ಆದರೆ, ನೀವು ಡೌನ್‌ಲೋಡ್ ಮಾಡಿದ ಕಡತಗಳನ್ನು ಹಾಗು ನೀವು ಗುರತುಮಾಡಿದ ಪುಟಗುರುತುಗಳನ್ನು ಇರಿಸಿಕೊಳ್ಳಲಾಗುತ್ತದೆ.">
-<!ENTITY privatebrowsingpage.description.private    "&privatebrowsingpage.issueDesc.private; &privatebrowsingpage.description;">
 
-<!ENTITY privatebrowsingpage.moreInfo               "ಈ ಸಾಧನವು ನಿಮ್ಮ ಜಾಲ ವೀಕ್ಷಣೆಯ ದಾಖಲೆಯನ್ನು ಹೊಂದಿರದೆ ಇದ್ದರೂ ಸಹ, ನಿಮಗೆ ಅಂತರಜಾಲವನ್ನು ಒದಗಿಸಿದವರು ನೀವು ಭೇಟಿ ನೀಡುವ ಪುಟವನ್ನು ಗಮನಿಸುವ ಸಾಧ್ಯತೆ ಇರುತ್ತದೆ.">
+
+<!ENTITY privatebrowsingpage.description.normal "&privatebrowsingpage.issueDesc.normal2; &privatebrowsingpage.description2;">
+<!ENTITY privatebrowsingpage.description.private2 "&privatebrowsingpage.issueDesc.private2; &privatebrowsingpage.description2;">
+
+<!ENTITY privatebrowsingpage.link.private "ಹೆಚ್ಚಿನದನ್ನು ಕಲಿಯಬೇಕೆ?">
+
