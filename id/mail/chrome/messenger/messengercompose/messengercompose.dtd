@@ -158,6 +158,8 @@
 <!ENTITY bothFormatCmd.accesskey "T">
 <!ENTITY priorityMenu.label "Prioritas">
 <!ENTITY priorityMenu.accesskey "P">
+
+
 <!ENTITY priorityButton.label "Prioritas:">
 <!ENTITY lowestPriorityCmd.label "Terendah">
 <!ENTITY lowestPriorityCmd.accesskey "r">
