@@ -32,10 +32,14 @@
      The label for the filter button that causes us to filter results to only
      include unread messages.
      -->
+
+<!ENTITY quickFilterBar.unread.label "Nelasīti">
 <!-- LOCALIZATION NOTE (quickFilterBar.unread.tooltip):
      The tooltip for the filter button that causes us to filter results to only
      include unread messages.
      -->
+
+<!ENTITY quickFilterBar.unread.tooltip "Radīt tikai nelasītus epastus">
 <!-- LOCALIZATION NOTE (quickFilterBar.starred.label):
      The label for the filter button that causes us to filter results to only
      include messages that have been starred/flagged.
@@ -66,6 +70,8 @@
      The label for the filter button that causes us to filter results to only
      include messages with attachments.
      -->
+
+<!ENTITY quickFilterBar.attachment.label "Ar pielikumiem">
 <!-- LOCALIZATION NOTE (quickFilterBar.attachment.tooltip):
      The tooltip for the filter button that causes us to filter results to only
      include messages with attachments.
