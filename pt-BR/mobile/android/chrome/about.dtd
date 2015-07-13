@@ -8,7 +8,7 @@
 <!ENTITY aboutPage.telemetryEnd                 " de forma a ajudar a melhorar o &brandShortName;.">
 <!ENTITY aboutPage.checkForUpdates.link         "Verificar atualização »">
 <!ENTITY aboutPage.checkForUpdates.checking     "Verificando atualização…">
-<!ENTITY aboutPage.checkForUpdates.none         "Nenhuma atualização disponível.">
+<!ENTITY aboutPage.checkForUpdates.none         "Nenhuma atualização disponível">
 <!ENTITY aboutPage.checkForUpdates.available2   "Receber atualização">
 <!ENTITY aboutPage.checkForUpdates.downloading  "Recebendo atualização…">
 <!ENTITY aboutPage.checkForUpdates.downloaded2  "Instalar atualização">

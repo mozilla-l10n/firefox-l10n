@@ -17,7 +17,7 @@
 <!-- LOCALIZATION NOTE (support.link): Avoid leading/trailing spaces, this text is a link. -->
 <!-- LOCALIZATION NOTE (support.post): Include a starting space as needed. -->
 
-<!ENTITY support.pre3              "Visite o nosso ">
+<!ENTITY support.pre3              "Visite o nosso ">
 <!ENTITY support.link2             "Site de suporte">
 <!ENTITY support.post3             " para obter respostas para problemas comuns.">
 
