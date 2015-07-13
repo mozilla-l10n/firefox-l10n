@@ -44,6 +44,10 @@
 <!ENTITY bookmark "Бетбелгі">
 <!ENTITY bookmark_remove "Бетбелгіні өшіру">
 <!ENTITY bookmark_added "Бетбелгі қосылды">
+<!-- Localization note (bookmark_already_added) : This string is
+     used as a label in a toast. It is the verb "to bookmark", not
+     the noun "a bookmark". -->
+<!ENTITY bookmark_already_added "Бетбелгілерде бар болып тұр">
 <!ENTITY bookmark_removed "Бетбелгі өшірілді">
 <!ENTITY bookmark_updated "Бетбелгі жаңартылды">
 <!ENTITY bookmark_options "Баптаулар">
@@ -77,6 +81,7 @@
 
 <!ENTITY settings "Баптаулар">
 <!ENTITY settings_title "Баптаулар">
+<!ENTITY pref_category_input_options "Енгізу опциялары">
 <!ENTITY pref_category_advanced "Кеңейтілген">
 <!ENTITY pref_category_customize "Баптау">
 <!ENTITY pref_category_customize_summary "Үй, іздеу, беттер, импорт">
@@ -132,7 +137,7 @@
 <!ENTITY pref_category_display "Көрініс">
 <!ENTITY pref_category_display_summary "Мәтін, атау жолағы, толық экранды шолу">
 <!ENTITY pref_category_privacy_short "Жекелік">
-<!ENTITY pref_category_privacy_summary "Парольдер, cookies, бақылау, деректерді басқару">
+<!ENTITY pref_category_privacy_summary2 "Парольдер, cookies, бақылау, деректер">
 <!ENTITY pref_category_vendor "&vendorShortName;">
 <!ENTITY pref_category_vendor_summary "&brandShortName; туралы, ЖҚС, деректер таңдауы">
 <!ENTITY pref_category_datareporting "Деректер таңдауы">
@@ -151,7 +156,9 @@
 <!ENTITY pref_category_devtools "Өндіруші саймандары">
 <!ENTITY pref_developer_remotedebugging "Қашықтан жөндеу">
 <!ENTITY pref_category_logins "Логиндер">
-<!ENTITY pref_remember_signons "Парольдерді еске сақтау">
+<!ENTITY pref_remember_signons2 "Логиндерді есте сақтау">
+<!ENTITY pref_open_external_urls_privately_title "Сілтемелерді жекелік шолу режимінде ашу">
+<!ENTITY pref_open_external_urls_privately_summary "&brandShortName; ішінде ашылған барлық сыртқы сілтемелер үшін">
 <!ENTITY pref_manage_logins "Логиндерді басқару">
 
 <!ENTITY pref_category_home "Үй">
@@ -189,10 +196,10 @@
 <!ENTITY pref_donottrack_title "Бақыламау">
 <!ENTITY pref_donottrack_summary "&brandShortName; сайттарға сіз өзіңізді бақыламауды қалайтыныңыз туралы айтады">
 
-<!ENTITY tab_queue_toast_message2 "&brandShortName; ішіндегі кезектегі беттер">
+<!ENTITY tab_queue_toast_message3 "&brandShortName; ішінде сақталған бет">
 <!ENTITY tab_queue_toast_action "Қазір ашу">
 <!ENTITY tab_queue_prompt_title "Бірнеше сілтемені ашу керек пе?">
-<!ENTITY tab_queue_prompt_text2 "Оларды әр рет &brandShortName; өніміне ауысусыз ашу.">
+
 <!ENTITY tab_queue_prompt_tip_text "бұны сіз кейін де Баптаулар ішінде өзгерте аласыз">
 <!ENTITY tab_queue_prompt_positive_action_button "Іске қосу">
 <!ENTITY tab_queue_prompt_negative_action_button "Қазір емес">
@@ -245,9 +252,13 @@ size. -->
 <!ENTITY pref_zoom_force_enabled "Масштабты әрқашан іске қосу">
 <!ENTITY pref_zoom_force_enabled_summary "Баптауды үстінен жазу, масштаб әр бетте жасайтын болады">
 
+
+
+
+
 <!ENTITY pref_use_master_password "Мастер парольді қолдану">
 <!ENTITY pref_sync "Синхрондау">
-<!ENTITY pref_sync_summary "Беттер, бетбелгілер, парольдер, тарихты синхрондау">
+
 <!ENTITY pref_search_suggestions "Іздеу ұсыныстарын көрсету">
 <!ENTITY pref_import_android "Android-тан импорттау">
 <!ENTITY pref_import_android_summary "Жүйелік браузерден бетбелгілер және шолу тарихын импорттау">
@@ -255,11 +266,12 @@ size. -->
 <!ENTITY pref_private_data_searchHistory "Іздеулер тарихы">
 <!ENTITY pref_private_data_formdata2 "Формалар тарихы">
 <!ENTITY pref_private_data_cookies2 "Cookies және белсенді сеанстар">
-<!ENTITY pref_private_data_passwords "Сақталған парольдер">
+
 <!ENTITY pref_private_data_cache "Кэш">
 <!ENTITY pref_private_data_offlineApps "Дербес веб-сайттар ақпараты">
 <!ENTITY pref_private_data_siteSettings2 "Сайт баптаулары">
 <!ENTITY pref_private_data_downloadFiles2 "Жүктемелер">
+
 
 
 <!ENTITY pref_about_firefox "&brandShortName; туралы">
@@ -380,6 +392,11 @@ size. -->
 <!ENTITY doorhanger_login_edit_toggle "Парольді көрсету">
 <!ENTITY doorhanger_login_edit_toast_error "Логинді сақтау сәтсіз аяқталды">
 
+
+
+
+
+
 <!ENTITY pref_titlebar_mode "Атау жолағы">
 <!ENTITY pref_titlebar_mode_title "Парақ атауын көрсету">
 <!ENTITY pref_titlebar_mode_url "Парақ адресін көрсету">
@@ -390,7 +407,7 @@ size. -->
 <!ENTITY pref_scroll_title_bar_summary "Парақ астына айналдыру кезінде &brandShortName; атау жолағын жасыру">
 
 <!ENTITY pref_tab_queue_title2 "Бірнеше сілтемені ашу">
-<!ENTITY pref_tab_queue_summary2 "Сілтемелерді әр рет &brandShortName; өніміне ауысу орнына кейінірек үшін кезекке қойыңыз">
+
 <!-- Localization note (page_removed): This string appears in a toast message when
      any page is removed frome about:home. This includes pages that are in history,
      bookmarks, or reading list. -->
@@ -408,8 +425,8 @@ size. -->
 <!ENTITY site_settings_cancel       "Бас тарту">
 <!ENTITY site_settings_clear        "Тазарту">
 <!ENTITY site_settings_no_settings  "Тазарту үшін баптаулар жоқ.">
-
-<!ENTITY reading_list_added "Парақ сіздің Оқу тізіміңізге қосылды">
+<!-- Localization note (reading_list_added2) : Used in a toast, please keep as short
+     as possible. -->
 <!ENTITY reading_list_removed "Парақ сіздің Оқу тізіміңізден өшірілді">
 <!-- Localization note (reading_list_remove) : Used to remove the currently open page from
      the user's reading list. The opposite of overlay_share_reading_list_btn_label. -->
@@ -438,7 +455,7 @@ size. -->
 <!ENTITY button_clear_data "Мәліметті өшіру">
 <!ENTITY button_set "Орнату">
 <!ENTITY button_clear "Тазарту">
-<!ENTITY button_remember "Есте сақтау">
+<!ENTITY button_copy "Көшіру">
 
 <!ENTITY firstrun_panel_title_welcome "Қош келдіңіз">
 
@@ -502,10 +519,6 @@ size. -->
      the text of a button; we expect more than one device. -->
 <!ENTITY home_remote_tabs_unhide_selected_devices "Таңдалған құрылғылар жасыруын алып тастау">
 
-<!ENTITY private_browsing_title "Жекелік шолу">
-<!ENTITY private_tabs_panel_empty_desc "Сіздің жекелік беттеріңіз осында көрсетіледі. Сіздің шолу тарихыңыз және cookies сақталмаса да, бетбелгілер және жүктеліп алынған файлдар құрылғыңызда сақталады.">
-<!ENTITY private_tabs_panel_learn_more "Көбірек білгіңіз келе ме?">
-
 <!ENTITY remote_tabs_panel_moved_title "Менің беттерім қайда кетті?">
 <!ENTITY remote_tabs_panel_moved_desc "Басқа құрылғыларыңыздан беттерді біз сіздің үй парағыңызға жылжыттық, жаңа бетті ашу кезінде оларға жеңіл түрде қатынауға болады.">
 <!ENTITY remote_tabs_panel_moved_link "Мені жаңа панельге апару.">
@@ -533,6 +546,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_run_by "келесімен басқарылады">
 <!ENTITY identity_no_info "Осы сайт шындығы туралы ақпаратты ұсынбайды.">
 <!ENTITY identity_not_encrypted "Сіз осы сайтқа шифрленбеген түрде қосылдыңыз.">
+<!ENTITY identity_encrypted "Шифрленген">
 <!-- Mixed content notifications in site identity popup -->
 
 <!ENTITY loaded_mixed_content_message "Бұл парақ қауіпсіз емес құраманы көрсетіп тұр.">
@@ -597,7 +611,7 @@ Android-тан импорттау">
 <!ENTITY guest_session_dialog_continue "Жалғастыру">
 <!ENTITY guest_session_dialog_cancel "Бас тарту">
 <!ENTITY new_guest_session_title "&brandShortName; қайта іске қосылатын болады">
-<!ENTITY new_guest_session_text "Оны қолданатын адам сіздің жеке деректеріңізді көре алмайтын болады (сақталған парольдер, тарих не бетбелгілер сияқты).\n\nҚоңағыңыз өз жұмысын аяқтаған кезде, оның шолу деректері өшіріледі және сіздің сессияңыз қалпына келтіріледі.">
+
 <!ENTITY guest_browsing_notification_title "Қоңақ шолу режимі іске қосылған">
 <!ENTITY guest_browsing_notification_text "Шығу үшін шертіңіз">
 
@@ -646,3 +660,4 @@ Android-тан импорттау">
      if match-case is activated. i.e. No more than two letters, one uppercase, one lowercase. -->
 
 <!ENTITY find_matchcase "Аа">
+

@@ -62,7 +62,7 @@
 <!ENTITY sync.configure.engines.title.label "Нені синхрондау керек">
 <!ENTITY sync.configure.engines.sync.my.title.label "Синхрондау…">
 <!ENTITY sync.configure.engines.title.bookmarks "Бетбелгілер">
-<!ENTITY sync.configure.engines.title.passwords "Парольдер">
+
 <!ENTITY sync.configure.engines.title.history "Тарихы">
 <!ENTITY sync.configure.engines.title.tabs "Беттер">
 <!-- Common text -->
@@ -141,7 +141,7 @@
 <!ENTITY fxaccount_policy_linkprivacy "Жекелік саясаты">
 
 <!ENTITY fxaccount_getting_started_welcome_to_sync "&syncBrand.shortName.label; ішіне қош келдіңіз">
-<!ENTITY fxaccount_getting_started_description "Беттер, бетбелгілер және парольдерді синхрондау үшін кіріңіз.">
+
 <!ENTITY fxaccount_getting_started_get_started "Бастау">
 <!ENTITY fxaccount_getting_started_old_firefox "&syncBrand.shortName.label; ескі нұсқасын қолданудасыз ба?">
 <!-- Localization note: the Firefox below should not change with the
@@ -212,7 +212,7 @@
 <!ENTITY fxaccount_status_needs_finish_migrating "Сіздің жаңа Firefox тіркелгісіне кіру үшін шертіңіз.">
 <!ENTITY fxaccount_status_bookmarks "Бетбелгілер">
 <!ENTITY fxaccount_status_history "Тарихы">
-<!ENTITY fxaccount_status_passwords "Парольдер">
+
 <!ENTITY fxaccount_status_tabs "Ашық беттер">
 <!ENTITY fxaccount_status_legal "Құқықтық ақпарат" >
 <!-- Localization note: when tapped, the following two strings link to
