@@ -35,6 +35,7 @@
 
 <!ENTITY showUnifinderCmd.label                 "Lorg tachartasan">
 <!ENTITY showUnifinderCmd.accesskey             "L">
+<!ENTITY showUnifinderCmd.tooltip               "Toglaich an leòsan a lorgas tachartasan">
 
 <!ENTITY calendar.displaytodos.checkbox.label       "Seall saothraichean sa mhìosachan">
 <!ENTITY calendar.displaytodos.checkbox.accesskey   "t">
