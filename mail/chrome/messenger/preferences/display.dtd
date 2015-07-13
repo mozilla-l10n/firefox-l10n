@@ -5,6 +5,7 @@
 <!ENTITY itemFormatting.label             "Format">
 <!ENTITY itemTags.label                   "Tag">
 
+
 <!ENTITY style.label                      "Gaya:">
 <!ENTITY style.accesskey                  "y">
 <!ENTITY regularStyle.label               "Reguler">
@@ -42,3 +43,29 @@
 <!ENTITY fontOptions.label       "Canggih…">
 
 
+<!-- Advanced -->
+
+<!ENTITY reading.caption                  "Baca">
+<!ENTITY display.caption                  "Tampilan">
+<!ENTITY showCondensedAddresses.label     "Hanya tampilkan nama tampilan untuk orang yang ada pada buku alamat saya.">
+<!ENTITY showCondensedAddresses.accesskey "p">
+
+<!ENTITY autoMarkAsRead.label             "Otomatis tandai pesan saya sudah dibaca">
+<!ENTITY autoMarkAsRead.accesskey         "a">
+<!ENTITY markAsReadNoDelay.label          "Langsung saat ditampilkan">
+<!ENTITY markAsReadNoDelay.accesskey      "d">
+<!-- LOCALIZATION NOTE (markAsReadDelay.label): This will concatenate to
+     "After displaying for [___] seconds",
+     using (markAsReadDelay.label) and a number (secondsLabel.label). -->
+<!ENTITY markAsReadDelay.label            "Setelah ditampilkan ">
+<!ENTITY markAsReadDelay.accesskey        "e">
+<!ENTITY secondsLabel.label               "detik">
+<!ENTITY openMsgIn.label                  "Buka pesan di:">
+<!ENTITY openMsgInNewTab.label            "Tab baru">
+<!ENTITY openMsgInNewTab.accesskey        "T">
+<!ENTITY reuseExpRadio0.label             "Jendela pesan baru">
+<!ENTITY reuseExpRadio0.accesskey         "J">
+<!ENTITY reuseExpRadio1.label             "Jendela pesan yang sudah tampil">
+<!ENTITY reuseExpRadio1.accesskey         "a">
+<!ENTITY closeMsgOnMoveOrDelete.label     "Tutup jendela/tab pesan saat memindahkan atau menghapus">
+<!ENTITY closeMsgOnMoveOrDelete.accesskey "T">

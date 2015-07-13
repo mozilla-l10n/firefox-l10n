@@ -15,5 +15,6 @@
 <!ENTITY aboutSupport.accountsConnSecurity "Keamanan sambungan">
 <!ENTITY aboutSupport.accountsAuthMethod "Metode autentikasi">
 <!ENTITY aboutSupport.accountsDefault "Bawaan?">
+<!ENTITY aboutSupport.identityName "Identitas">
 
 <!ENTITY aboutSupport.sendViaEmail.label "Kirim lewat email">
