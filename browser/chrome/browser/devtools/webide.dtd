@@ -41,8 +41,8 @@
 <!ENTITY runtimeMenu_showMonitor_accesskey "M">
 <!ENTITY runtimeMenu_showDevicePrefs_label "Preferencias de dispositivo">
 <!ENTITY runtimeMenu_showDevicePrefs_accesskey "D">
-
-
+<!ENTITY runtimeMenu_showSettings_label "Configuración del dispositivo">
+<!ENTITY runtimeMenu_showSettings_accesskey "s">
 
 <!ENTITY viewMenu_label "Ver">
 <!ENTITY viewMenu_accesskey "V">
@@ -94,7 +94,7 @@
 <!ENTITY details_location "Ubicación">
 <!ENTITY details_manifestURL "ID de la aplicación">
 <!ENTITY details_removeProject_button "Eliminar proyecto">
-
+<!ENTITY details_showPrepackageLog_button "Mostrar registro de pre-paquete">
 <!-- New App -->
 
 <!ENTITY newAppWindowTitle "Nueva aplicación">
@@ -115,7 +115,7 @@
 <!ENTITY prefs_title "Preferencias">
 <!ENTITY prefs_editor_title "Editor">
 <!ENTITY prefs_general_title "General">
-
+<!ENTITY prefs_restore "Restaurar valores predeterminados">
 <!ENTITY prefs_manage_components "Administrar los componentes extras">
 <!ENTITY prefs_options_autoconnectruntime "Reconectar al entorno de ejecución anterior">
 <!ENTITY prefs_options_autoconnectruntime_tooltip "Reconectar al entorno de ejecución anterior cuando se inicie WebIDE">
@@ -139,7 +139,7 @@
 <!-- Permissions Table -->
 
 <!ENTITY permissionstable_title "Tabla de permisos">
-
+<!ENTITY permissionstable_name_header "Nombre">
 <!-- Runtime Details -->
 
 <!ENTITY runtimedetails_title "Información de tiempo de ejecución">
@@ -200,11 +200,11 @@
 <!ENTITY simulator_title "Opciones del simulador">
 <!ENTITY simulator_remove "Eliminar simulador">
 <!ENTITY simulator_reset "Restaurar valores predeterminados">
-
-
+<!ENTITY simulator_name "Nombre">
+<!ENTITY simulator_software "Software">
 <!ENTITY simulator_version "Versión">
-
-
+<!ENTITY simulator_profile "Perfil">
+<!ENTITY simulator_hardware "Hardware">
 <!ENTITY simulator_device "Dispositivo">
-
-
+<!ENTITY simulator_screenSize "Pantalla">
+<!ENTITY simulator_pixelRatio "Ratio de píxeles">

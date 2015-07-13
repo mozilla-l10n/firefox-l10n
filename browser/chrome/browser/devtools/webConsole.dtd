@@ -84,6 +84,7 @@
 <!ENTITY btnConsoleServiceWorkers "Trabajadores al Servicio">
 <!-- LOCALIZATION NODE (btnConsoleWindowlessWorkers) the term "Workers"
   -  should not be translated. -->
+<!ENTITY btnConsoleWindowlessWorkers "Complemento o Chrome Workers">
 
 <!ENTITY filterOutput.placeholder "Filtrar salida">
 <!ENTITY btnClear.label        "Limpiar">
@@ -107,5 +108,5 @@
 <!ENTITY closeCmd.key         "W">
 <!ENTITY findCmd.key          "F">
 <!ENTITY clearOutputCtrl.key  "L">
-
-
+<!ENTITY openInVarViewCmd.label "Abrir en vista de Variables">
+<!ENTITY openInVarViewCmd.accesskey "V">
