@@ -62,7 +62,7 @@
 <!ENTITY sync.configure.engines.title.label "Սինքը՝">
 <!ENTITY sync.configure.engines.sync.my.title.label "Կատարել Սինք՝">
 <!ENTITY sync.configure.engines.title.bookmarks "Էջանիշեր">
-<!ENTITY sync.configure.engines.title.passwords "Գաղտնաբառեր">
+
 <!ENTITY sync.configure.engines.title.history "Պատմություն">
 <!ENTITY sync.configure.engines.title.tabs "Ներդիրներ">
 <!-- Common text -->
@@ -141,7 +141,7 @@
 <!ENTITY fxaccount_policy_linkprivacy "Գաղտնիության Դրույթները">
 
 <!ENTITY fxaccount_getting_started_welcome_to_sync "Բարի Գալուստ &syncBrand.shortName.label;">
-<!ENTITY fxaccount_getting_started_description "Մուտք գործեք՝ ներդիրները, էջանիշերը, գաղտնաբառերը համաժամեցնելու համար:">
+
 <!ENTITY fxaccount_getting_started_get_started "Սկսել">
 <!ENTITY fxaccount_getting_started_old_firefox "Օգտագործում եք &syncBrand.shortName.label;ի հին տարբերա՞կը:">
 <!-- Localization note: the Firefox below should not change with the
@@ -212,7 +212,7 @@
 <!ENTITY fxaccount_status_needs_finish_migrating "Հպվեք՝ Firefox-ի ձեր նոր հաշիվ մուտք գործելու համար:">
 <!ENTITY fxaccount_status_bookmarks "Էջանիշեր">
 <!ENTITY fxaccount_status_history "Պատմություն">
-<!ENTITY fxaccount_status_passwords "Գաղտնաբառեր">
+
 <!ENTITY fxaccount_status_tabs "Բացած ներդիրներ">
 <!ENTITY fxaccount_status_legal "Օրինական" >
 <!-- Localization note: when tapped, the following two strings link to

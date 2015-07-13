@@ -2,12 +2,15 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY privatebrowsingpage.title                  "Գաղտնի դիտարկում">
+<!ENTITY privatebrowsingpage.title "Գաղտնի դիտարկում">
+<!ENTITY privatebrowsingpage.title.normal "Դուք գաղտնի դիտարկումում չեք">
 
-<!ENTITY privatebrowsingpage.issueDesc.private      "Դուք բացել եք գաղտնի դիտարկման նոր ներդիր:">
-<!ENTITY privatebrowsingpage.issueDesc.normal       "Սա գաղտնի դիտարկում չէ:">
+<!ENTITY privatebrowsingpage.issueDesc.normal2 "Գաղտնի դիտարկման ժամանակ չի պահվում դիտարկման պատմությունը կամ cookie-ները:">
+<!ENTITY privatebrowsingpage.issueDesc.private2 "Չի պահվում դիտարկման պատմությունը կամ cookie-ները:">
 
-<!ENTITY privatebrowsingpage.description            "Այս եղանակում &brandShortName;-ը չի պահի դիտարկման, որոնման, բեռնումների պատմությունը, լրացված կայքի ձևերը, cookie-ները կամ ժամանակավոր ֆայլերը: Այնուհանդերձ բեռնված ֆայլերը և էջանշումները կմնան:">
-<!ENTITY privatebrowsingpage.description.private    "&privatebrowsingpage.issueDesc.private; &privatebrowsingpage.description;">
+<!ENTITY privatebrowsingpage.description2 "Էջանիշերը և ֆայլերը դեռ կպահվեն Ձեր սարքում:">
+<!ENTITY privatebrowsingpage.description.normal "&privatebrowsingpage.issueDesc.normal2; &privatebrowsingpage.description2;">
+<!ENTITY privatebrowsingpage.description.private2 "&privatebrowsingpage.issueDesc.private2; &privatebrowsingpage.description2;">
 
-<!ENTITY privatebrowsingpage.moreInfo               "Չնայած ձեր դիտարկումների և բեռնումների պատմությունը չի պահվի, այնուհանդերձ համացանցի ձեր մատակարարը կարող է տեսնել, թե ինչ կայքեր եք այցելել:">
+<!ENTITY privatebrowsingpage.link.private "Ցանկանու՞մ եք իմանալ ավելին">
+<!ENTITY privatebrowsingpage.link.normal "Բացել նոր գաղտնի դիտարկում">

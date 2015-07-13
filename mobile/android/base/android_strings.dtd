@@ -44,6 +44,10 @@
 <!ENTITY bookmark "Էջանիշ">
 <!ENTITY bookmark_remove "Հեռացնել էջանիշը">
 <!ENTITY bookmark_added "Էջանիշը ավելացվել է">
+<!-- Localization note (bookmark_already_added) : This string is
+     used as a label in a toast. It is the verb "to bookmark", not
+     the noun "a bookmark". -->
+<!ENTITY bookmark_already_added "Արդեն էջանշված է">
 <!ENTITY bookmark_removed "Էջանիշը հեռացվել է">
 <!ENTITY bookmark_updated "Էջանիշը թարմացվել է">
 <!ENTITY bookmark_options "Ընտրանքներ">
@@ -77,6 +81,7 @@
 
 <!ENTITY settings "Կարգավորումներ">
 <!ENTITY settings_title "Կարգավորումներ">
+<!ENTITY pref_category_input_options "Ներածման ընտրանքներ">
 <!ENTITY pref_category_advanced "Լրացուցիչ">
 <!ENTITY pref_category_customize "Կարգավորումներ">
 <!ENTITY pref_category_customize_summary "Տուն, որոնում, ներդիրներ, ներմուծում">
@@ -104,7 +109,7 @@
 
 <!ENTITY overlay_share_bookmark_btn_label "Էջանիշ">
 <!ENTITY overlay_share_reading_list_btn_label "Ավելացնել Ընթերցացուցակում">
-<!ENTITY overlay_share_bookmark_btn_label_already "Արդեն էջանշվել է">
+<!ENTITY overlay_share_bookmark_btn_label_already "Արդեն էջանշված է">
 <!ENTITY overlay_share_reading_list_btn_label_already "Արդեն Ընթերցացուցակում է">
 <!ENTITY overlay_share_send_other "Ուղարկել այլ սարքի">
 <!-- Localization note (overlay_share_send_tab_btn_label) : Used on the
@@ -132,7 +137,7 @@
 <!ENTITY pref_category_display "Ցուցադրիչ">
 <!ENTITY pref_category_display_summary "Տեքստ, գլխագիր, լիաէկրան դիտարկում">
 <!ENTITY pref_category_privacy_short "Գաղտնիություն">
-<!ENTITY pref_category_privacy_summary "Կառավարել գաղտնաբառերը, cookie-ները, տվյալները">
+<!ENTITY pref_category_privacy_summary2 "Կառավարել մուտքագրումները, cookie-ները, տվյալները">
 <!ENTITY pref_category_vendor "&vendorShortName;">
 <!ENTITY pref_category_vendor_summary "&brandShortName;-ի մասին, ՀՏՀ, տվյալների ընտրություն">
 <!ENTITY pref_category_datareporting "Ընտրել տվյալները">
@@ -151,7 +156,9 @@
 <!ENTITY pref_category_devtools "Ծրագրավորողի գործիքներ">
 <!ENTITY pref_developer_remotedebugging "Հեռակա վրիպազերծում">
 <!ENTITY pref_category_logins "Մուտքանուններ">
-<!ENTITY pref_remember_signons "Հիշել գաղտնաբառերը">
+<!ENTITY pref_remember_signons2 "Հիշել մուտքագրումները">
+<!ENTITY pref_open_external_urls_privately_title "Հղումները բացել Գաղտնի դիտարկումով">
+<!ENTITY pref_open_external_urls_privately_summary "&brandShortName;-ով բացված բոլոր արտաքին հղումների համար">
 <!ENTITY pref_manage_logins "Կառավարել մուտքանունները">
 
 <!ENTITY pref_category_home "Գլխավոր էջ">
@@ -189,10 +196,9 @@
 <!ENTITY pref_donottrack_title "Չհետևել">
 <!ENTITY pref_donottrack_summary "&brandShortName;-ը կհաղորդի կայքերին, որ դուք չեք ցանկանում, որ ձեզ հետևեն">
 
-<!ENTITY tab_queue_toast_message2 "Ներդիրների հերթը &brandShortName;-ում">
 <!ENTITY tab_queue_toast_action "Բացել հիմա">
 <!ENTITY tab_queue_prompt_title "Բացե՞լ բազմակի հղումները">
-<!ENTITY tab_queue_prompt_text2 "Բացել դրանք՝ առանց ամեն անգամ &brandShortName;-ին անցնելու:">
+<!ENTITY tab_queue_prompt_text3 "Պահպանել դրանք մինչև հաջորդ անգամ &brandShortName;-ը բացելը">
 <!ENTITY tab_queue_prompt_tip_text "կարող եք սա փոխել հետագայում՝ Կարգավորումներում">
 <!ENTITY tab_queue_prompt_positive_action_button "Միացնել">
 <!ENTITY tab_queue_prompt_negative_action_button "Ոչ հիմա">
@@ -245,9 +251,13 @@ size. -->
 <!ENTITY pref_zoom_force_enabled "Մշտապես միացնել դիտափոխումը">
 <!ENTITY pref_zoom_force_enabled_summary "Շրջանցել վրագրումը՝ ցանացած էջ դիտափոխելու համար">
 
+<!ENTITY pref_voice_input_summary "Թույլատրել ձայնային թելադրումը անվանագոտում">
+<!ENTITY pref_qrcode_enabled "QR կոդ ընթերցող">
+<!ENTITY pref_qrcode_enabled_summary "Թույլատրել QR սահազննիչը անվանագոտում">
+
 <!ENTITY pref_use_master_password "Օգտ. Հիմնական գաղտնաբառ">
 <!ENTITY pref_sync "Սինք">
-<!ENTITY pref_sync_summary "Համաժամեցնել ներդիրները, էջանիշերը, գաղտնաբառերը, պատմությունը">
+
 <!ENTITY pref_search_suggestions "Ցուցադրել որոնման հուշումներ">
 <!ENTITY pref_import_android "Ներմուծել Android-ից">
 <!ENTITY pref_import_android_summary "Ներմուծել էջանիշեր և պատմություն հիմնական դիտարկիչից">
@@ -255,11 +265,12 @@ size. -->
 <!ENTITY pref_private_data_searchHistory "Որոնման պատմություն">
 <!ENTITY pref_private_data_formdata2 "Ձևերի պատմություն">
 <!ENTITY pref_private_data_cookies2 "Cookie-ներ և ակտիվ մուտքեր">
-<!ENTITY pref_private_data_passwords "Պահպանված գաղտնաբառեր">
+<!ENTITY pref_private_data_passwords2 "Պահպանված մուտքագրումներ">
 <!ENTITY pref_private_data_cache "Պահոցը">
 <!ENTITY pref_private_data_offlineApps "Անցանց կայքերի տվյալները">
 <!ENTITY pref_private_data_siteSettings2 "Կայքի կարգավորումներ">
 <!ENTITY pref_private_data_downloadFiles2 "Բեռնումներ">
+
 
 
 <!ENTITY pref_about_firefox "&brandShortName;-ի մասին">
@@ -379,6 +390,11 @@ size. -->
 <!ENTITY doorhanger_login_edit_password_hint "Գաղտնաբառ">
 <!ENTITY doorhanger_login_edit_toggle "Ցուցադրել գաղտնաբառը">
 <!ENTITY doorhanger_login_edit_toast_error "Հնարավոր չեղավ պահպանել մուտքագրումը">
+<!ENTITY doorhanger_login_select_message "Պատճենե՞լ գաղտնաբառը &formatS;-ից:">
+<!ENTITY doorhanger_login_select_toast_copy "Գաղտնաբառը պատճենված է">
+<!ENTITY doorhanger_login_select_toast_copy_error "Հնարավոր չէ պատճենել գաղտնաբառը">
+<!ENTITY doorhanger_login_select_action_text "Ընտրել այլ մուտքագրում">
+<!ENTITY doorhanger_login_select_title "Պատճենել գաղտնաբառը այստեղից՝">
 
 <!ENTITY pref_titlebar_mode "Գլխագիրը">
 <!ENTITY pref_titlebar_mode_title "Ցուցադրել էջի վերնագիրը">
@@ -390,7 +406,7 @@ size. -->
 <!ENTITY pref_scroll_title_bar_summary "Էջը իջեցնելիս թաքցնել &brandShortName;-ի գլխագիր">
 
 <!ENTITY pref_tab_queue_title2 "Բացել բազմակի հղումները">
-<!ENTITY pref_tab_queue_summary2 "Հերթում պահել հղումները՝ ամեն անգամ &brandShortName;-ին անցնելու փոխարեն">
+<!ENTITY pref_tab_queue_summary3 "Պահել դրանք, մինչև հաջորդ անգամ &brandShortName;-ը բացելը">
 <!-- Localization note (page_removed): This string appears in a toast message when
      any page is removed frome about:home. This includes pages that are in history,
      bookmarks, or reading list. -->
@@ -408,8 +424,10 @@ size. -->
 <!ENTITY site_settings_cancel       "Չեղարկել">
 <!ENTITY site_settings_clear        "Մաքրել">
 <!ENTITY site_settings_no_settings  "Մաքրելու համար կարգավորում չկա:">
+<!-- Localization note (reading_list_added2) : Used in a toast, please keep as short
+     as possible. -->
 
-<!ENTITY reading_list_added "Էջը ավելացվել է Ընթերցացուցակում">
+<!ENTITY reading_list_added2 "Ավելացվել է">
 <!ENTITY reading_list_removed "Էջը հեռացվել է Ընթերցացուցակից">
 <!-- Localization note (reading_list_remove) : Used to remove the currently open page from
      the user's reading list. The opposite of overlay_share_reading_list_btn_label. -->
@@ -438,7 +456,7 @@ size. -->
 <!ENTITY button_clear_data "Մաքրել տվյալները">
 <!ENTITY button_set "Նշել">
 <!ENTITY button_clear "Մաքրել">
-<!ENTITY button_remember "Հիշել">
+<!ENTITY button_copy "Պատճենել">
 
 <!ENTITY firstrun_panel_title_welcome "Բարի գալուստ">
 
@@ -502,10 +520,6 @@ size. -->
      the text of a button; we expect more than one device. -->
 <!ENTITY home_remote_tabs_unhide_selected_devices "Ցուցադրել նշված սարքերը">
 
-<!ENTITY private_browsing_title "Գաղտնի դիտարկում">
-<!ENTITY private_tabs_panel_empty_desc "Գաղտնի ներդիրները կցուցադրվեն այստեղ: Չնայած չեն պահվում դիտարկման պատմությունը, cookie-ները, էջանիշերը և ֆայլերը, որոնք ներբեռնել եք, այնուհանդերձ դրանք կմնա ձեր սարքում:">
-<!ENTITY private_tabs_panel_learn_more "Ցանկանու՞մ եք իմանալ ավելին">
-
 <!ENTITY remote_tabs_panel_moved_title "Որտե՞ղ են իմ ներդիրները:">
 <!ENTITY remote_tabs_panel_moved_desc "Մենք տեղափոխել եք ձեր ներդիրները այլ սարքերից մեկնարկային էջի վահանակ՝ ամեն անգամնոր ներդիր բացելիս դրանց արագ մուտք ունենալու համար: ">
 <!ENTITY remote_tabs_panel_moved_link "Տա՛ր ինձ նոր վանահակ:">
@@ -533,6 +547,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_run_by "որի կառավարիչն է՝">
 <!ENTITY identity_no_info "Այս վեբ կայքը չի տրամադրում իր նույնացման տեղեկատվություն:">
 <!ENTITY identity_not_encrypted "Կապակցումը այս կայքի հետ գաղտնագրված չէ:">
+<!ENTITY identity_encrypted "Գաղտնագրված է">
 <!-- Mixed content notifications in site identity popup -->
 
 <!ENTITY loaded_mixed_content_message "Այս էջի պարունակությունը անվտանգ չէ:">
@@ -599,7 +614,7 @@ Android-ից">
 <!ENTITY guest_session_dialog_continue "Շարունակել">
 <!ENTITY guest_session_dialog_cancel "Չեղարկել">
 <!ENTITY new_guest_session_title "&brandShortName;-ը կվերամեկնարկի">
-<!ENTITY new_guest_session_text "Սա օգտագործող անձը չի կարողանա տեսնել ձեր դիտարկման որևէ տվյալ (օրինակ՝ պահված գաղտնաբառերը, պատմությունը կամ էջանիշերը)։\n\nՀյուրի աշխատանքից հետո դիտարկման բոլոր տվյալները կջնջվեն և ձեր աշխատաշրջանը կվերականգնվի։">
+
 <!ENTITY guest_browsing_notification_title "Միացված է Հյուրի աշխատաշրջանը">
 <!ENTITY guest_browsing_notification_text "Դիպչեք՝ դուրս գալու համար">
 
@@ -648,3 +663,5 @@ Android-ից">
      if match-case is activated. i.e. No more than two letters, one uppercase, one lowercase. -->
 
 <!ENTITY find_matchcase "Aa">
+
+<!ENTITY intent_uri_cannot_open "Հնարավոր չէ բացել հղումը">
