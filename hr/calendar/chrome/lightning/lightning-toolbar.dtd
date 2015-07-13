@@ -8,10 +8,15 @@
 <!ENTITY lightning.toolbar.task.name.accesskey "z">
 
 <!ENTITY lightning.toolbar.sync.label "Sinkroniziraj">
+<!ENTITY lightning.toolbar.sync.tooltip "Ponovno učitaj kalendare i sinkroniziraj promjene">
 <!ENTITY lightning.toolbar.delete.label "Obriši">
+<!ENTITY lightning.toolbar.delete.tooltip "Obriši odabrane događaje ili zadatke">
 <!ENTITY lightning.toolbar.edit.label "Uredi">
+<!ENTITY lightning.toolbar.edit.tooltip "Uredi odabrani događaj ili zadatak">
 <!ENTITY lightning.toolbar.gototoday.label "Idi na danas">
+<!ENTITY lightning.toolbar.gototoday.tooltip "Idi na danas">
 <!ENTITY lightning.toolbar.print.label "Ispis">
+<!ENTITY lightning.toolbar.print.tooltip "Ispiši događaje ili zadatke">
 <!-- Mode Toolbar -->
 
 <!ENTITY lightning.toolbar.calendar.label     "Kalendar">
@@ -23,7 +28,9 @@
 <!-- Toolbar write button -->
 
 <!ENTITY lightning.toolbar.newevent.label     "Događaj">
+<!ENTITY lightning.toolbar.newevent.tooltip   "Stvori novi događaj">
 <!ENTITY lightning.toolbar.newtask.label      "Zadatak">
+<!ENTITY lightning.toolbar.newtask.tooltip    "Stvori novi zadatak">
 <!-- Calendar and Task Mode Toolbar -->
 
 <!ENTITY lightning.toolbar.day.label                 "Dan">
