@@ -8,10 +8,15 @@
 <!ENTITY lightning.toolbar.task.name.accesskey "O">
 
 <!ENTITY lightning.toolbar.sync.label "Uskladi">
+<!ENTITY lightning.toolbar.sync.tooltip "Ponovno naloži koledarje in uskladi spremembe">
 <!ENTITY lightning.toolbar.delete.label "Izbriši">
+<!ENTITY lightning.toolbar.delete.tooltip "Izbriši izbrane dogodke in opravila">
 <!ENTITY lightning.toolbar.edit.label "Uredi">
+<!ENTITY lightning.toolbar.edit.tooltip "Uredi izbrani dogodek ali opravilo">
 <!ENTITY lightning.toolbar.gototoday.label "Pojdi na današnji dan">
+<!ENTITY lightning.toolbar.gototoday.tooltip "Pojdi na današnji dan">
 <!ENTITY lightning.toolbar.print.label "Natisni">
+<!ENTITY lightning.toolbar.print.tooltip "Natisni dogodke ali opravila">
 <!-- Mode Toolbar -->
 
 <!ENTITY lightning.toolbar.calendar.label     "Koledar">
@@ -23,7 +28,9 @@
 <!-- Toolbar write button -->
 
 <!ENTITY lightning.toolbar.newevent.label     "Dogodek">
+<!ENTITY lightning.toolbar.newevent.tooltip   "Ustvari nov dogodek">
 <!ENTITY lightning.toolbar.newtask.label      "Opravilo">
+<!ENTITY lightning.toolbar.newtask.tooltip    "Ustvari novo opravilo">
 <!-- Calendar and Task Mode Toolbar -->
 
 <!ENTITY lightning.toolbar.day.label                 "Dan">
