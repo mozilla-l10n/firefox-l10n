@@ -15,5 +15,6 @@
 <!ENTITY aboutSupport.accountsConnSecurity "Zwiskowa wěstota">
 <!ENTITY aboutSupport.accountsAuthMethod "Awtentificěrowańska metoda">
 <!ENTITY aboutSupport.accountsDefault "Standard?">
+<!ENTITY aboutSupport.identityName "Identita">
 
 <!ENTITY aboutSupport.sendViaEmail.label "Pśez e-mail pósłaś">
