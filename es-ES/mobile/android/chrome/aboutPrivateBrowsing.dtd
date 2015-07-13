@@ -3,11 +3,11 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY privatebrowsingpage.title "Navegación privada">
-<!ENTITY privatebrowsingpage.title.normal "No está en navegación privada">
-<!ENTITY privatebrowsingpage.issueDesc.normal2 "En la navegación privada, no conservaremos su historial de navegación ni sus cookies.">
-<!ENTITY privatebrowsingpage.issueDesc.private2 "No conservaremos ni su historial de navegación ni sus cookies.">
-<!ENTITY privatebrowsingpage.description2 "Los marcadores que añada y los archivos que descargue seguirán guardados en su dispositivo.">
-<!ENTITY privatebrowsingpage.description.normal "&privatebrowsingpage.issueDesc.normal2; &privatebrowsingpage.description2;">
-<!ENTITY privatebrowsingpage.description.private2 "&privatebrowsingpage.issueDesc.private2; &privatebrowsingpage.description2;">
-<!ENTITY privatebrowsingpage.link.private "¿Desea más información?">
-<!ENTITY privatebrowsingpage.link.normal "Abrir una pestaña privada nueva">
+
+
+
+
+
+
+
+
