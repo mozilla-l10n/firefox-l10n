@@ -8,10 +8,15 @@
 <!ENTITY lightning.toolbar.task.name.accesskey "T">
 
 <!ENTITY lightning.toolbar.sync.label "Cydweddu">
+<!ENTITY lightning.toolbar.sync.tooltip "Ail-lwytho calendrau a cydweddu newidiadau">
 <!ENTITY lightning.toolbar.delete.label "Dileu">
+<!ENTITY lightning.toolbar.delete.tooltip "Dileu digwyddiadau neu dasgau penodol">
 <!ENTITY lightning.toolbar.edit.label "Golygu">
+<!ENTITY lightning.toolbar.edit.tooltip "Golygu digwyddiadau neu dasgau penodol">
 <!ENTITY lightning.toolbar.gototoday.label "Mynd i Heddiw">
+<!ENTITY lightning.toolbar.gototoday.tooltip "Mynd i Heddiw">
 <!ENTITY lightning.toolbar.print.label "Argraffu">
+<!ENTITY lightning.toolbar.print.tooltip "Argraffu digwyddiadau neu dasgau">
 <!-- Mode Toolbar -->
 
 <!ENTITY lightning.toolbar.calendar.label     "Calendr">
@@ -23,7 +28,9 @@
 <!-- Toolbar write button -->
 
 <!ENTITY lightning.toolbar.newevent.label     "Digwyddiad">
+<!ENTITY lightning.toolbar.newevent.tooltip   "Creu digwyddiad newydd">
 <!ENTITY lightning.toolbar.newtask.label      "Tasg">
+<!ENTITY lightning.toolbar.newtask.tooltip    "Creu tasg newydd">
 <!-- Calendar and Task Mode Toolbar -->
 
 <!ENTITY lightning.toolbar.day.label                 "Diwrnod">
