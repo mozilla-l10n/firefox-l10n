@@ -62,7 +62,7 @@
 <!ENTITY sync.configure.engines.title.label "Vad ska synkas">
 <!ENTITY sync.configure.engines.sync.my.title.label "Synka dina …">
 <!ENTITY sync.configure.engines.title.bookmarks "Bokmärken">
-
+<!ENTITY sync.configure.engines.title.passwords2 "Inloggningar ">
 <!ENTITY sync.configure.engines.title.history "Historik">
 <!ENTITY sync.configure.engines.title.tabs "Flikar">
 <!-- Common text -->
@@ -141,7 +141,7 @@
 <!ENTITY fxaccount_policy_linkprivacy "Integritetspolicy">
 
 <!ENTITY fxaccount_getting_started_welcome_to_sync "Välkommen till &syncBrand.shortName.label;">
-
+<!ENTITY fxaccount_getting_started_description2 "Logga in för att synka dina flikar, bokmärken, inloggningar &amp; mer.">
 <!ENTITY fxaccount_getting_started_get_started "Kom igång">
 <!ENTITY fxaccount_getting_started_old_firefox "Använder du en äldre version av &syncBrand.shortName.label;?">
 <!-- Localization note: the Firefox below should not change with the
@@ -212,7 +212,7 @@
 <!ENTITY fxaccount_status_needs_finish_migrating "Tryck för att logga in till ditt nya Firefox Konto.">
 <!ENTITY fxaccount_status_bookmarks "Bokmärken">
 <!ENTITY fxaccount_status_history "Historik">
-
+<!ENTITY fxaccount_status_passwords2 "Inloggningar ">
 <!ENTITY fxaccount_status_tabs "Öppna flikar">
 <!ENTITY fxaccount_status_legal "Juridisk information" >
 <!-- Localization note: when tapped, the following two strings link to

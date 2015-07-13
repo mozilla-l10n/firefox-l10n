@@ -18,5 +18,5 @@
 
 <!ENTITY safeb.blocked.unwantedPage.title "Rapporterad oönskad mjukvaru sida! ">
 <!-- Localization note (safeb.blocked.unwanted.shortDesc) - Please don't translate the contents of the <span id="unwanted_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
-<!ENTITY safeb.blocked.unwantedPage.shortDesc "Webbsidan på <span id='malware_sitename'/> har rapporterats göra angrepp på datorer och har därför blockerats enligt dina säkerhetsinställningar.">
+<!ENTITY safeb.blocked.unwantedPage.shortDesc "Webbsidan på <span id='unwanted_sitename'/> har rapporterats göra angrepp på telefoner/datorer och har därför blockerats enligt dina säkerhetsinställningar.">
 <!ENTITY safeb.blocked.unwantedPage.longDesc "Oönskade programvarusidor kan försöka installera programvara som kan vara vilseledande och påverka ditt system på oväntade sätt.">

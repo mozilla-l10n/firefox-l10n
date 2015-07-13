@@ -47,6 +47,7 @@
 <!-- Localization note (bookmark_already_added) : This string is
      used as a label in a toast. It is the verb "to bookmark", not
      the noun "a bookmark". -->
+<!ENTITY bookmark_already_added "Redan bokmärkt">
 <!ENTITY bookmark_removed "Bokmärket borttaget">
 <!ENTITY bookmark_updated "Uppdaterat bokmärke">
 <!ENTITY bookmark_options "Alternativ">
@@ -80,7 +81,7 @@
 
 <!ENTITY settings "Inställningar">
 <!ENTITY settings_title "Inställningar">
-
+<!ENTITY pref_category_input_options "Inmatningsalternativ">
 <!ENTITY pref_category_advanced "Avancerat">
 <!ENTITY pref_category_customize "Anpassa">
 <!ENTITY pref_category_customize_summary "Hem, sök, flikar, importera">
@@ -108,7 +109,7 @@
 
 <!ENTITY overlay_share_bookmark_btn_label "Bokmärke">
 <!ENTITY overlay_share_reading_list_btn_label "Lägg till i läslistan">
-
+<!ENTITY overlay_share_bookmark_btn_label_already "Redan bokmärkt">
 <!ENTITY overlay_share_reading_list_btn_label_already "Redan i läslistan">
 <!ENTITY overlay_share_send_other "Skicka till andra enheter">
 <!-- Localization note (overlay_share_send_tab_btn_label) : Used on the
@@ -136,7 +137,7 @@
 <!ENTITY pref_category_display "Visa">
 <!ENTITY pref_category_display_summary "Text, namnlist, helskärm surfning">
 <!ENTITY pref_category_privacy_short "Integritet">
-
+<!ENTITY pref_category_privacy_summary2 "Kontrollera inloggningar, kakor, spårning, datatrafik">
 <!ENTITY pref_category_vendor "&vendorShortName;">
 <!ENTITY pref_category_vendor_summary "Om &brandShortName;, FAQs, val av datanätverk">
 <!ENTITY pref_category_datareporting "Dataalternativ">
@@ -155,9 +156,9 @@
 <!ENTITY pref_category_devtools "Utvecklarverktyg">
 <!ENTITY pref_developer_remotedebugging "Fjärrfelsökning">
 <!ENTITY pref_category_logins "Inloggningar ">
-
-
-
+<!ENTITY pref_remember_signons2 "Kom ihåg inloggningar ">
+<!ENTITY pref_open_external_urls_privately_title "Öppna länkar i Privat surfläge">
+<!ENTITY pref_open_external_urls_privately_summary "För alla externa länkar öppnade i &brandShortName;">
 <!ENTITY pref_manage_logins "Hantera inloggningar ">
 
 <!ENTITY pref_category_home "Startsida">
@@ -195,9 +196,10 @@
 <!ENTITY pref_donottrack_title "Spåra inte">
 <!ENTITY pref_donottrack_summary "&brandShortName; kommer att informera hemsidor att du inte vill bli spårad">
 
+<!ENTITY tab_queue_toast_message3 "Flik sparad i &brandShortName;">
 <!ENTITY tab_queue_toast_action "Öppna nu ">
 <!ENTITY tab_queue_prompt_title "Öppnar flera länkar?">
-
+<!ENTITY tab_queue_prompt_text3 "Spara dom tills nästa gång du öppnar &brandShortName;">
 <!ENTITY tab_queue_prompt_tip_text "du kan ändra detta senare i Inställningarna">
 <!ENTITY tab_queue_prompt_positive_action_button "Aktivera">
 <!ENTITY tab_queue_prompt_negative_action_button "Inte nu ">
@@ -217,7 +219,7 @@
 <!ENTITY pref_clear_private_data2 "Rensa nu ">
 <!ENTITY pref_clear_private_data_category "Rensa känslig data">
 <!ENTITY pref_clear_on_exit_title2 "Töm vid avstängning">
-<!ENTITY pref_clear_on_exit_summary2 "&brandShortName; kommer automatiskt rensa din data när du väljer \&quot;Avsluta\&quot; från huvudmenyn">
+<!ENTITY pref_clear_on_exit_summary2 "&brandShortName; kommer automatiskt rensa din data när du väljer  \Avsluta\ från huvudmenyn">
 <!ENTITY pref_clear_on_exit_dialog_title "Välj vilken data som ska rensas">
 <!ENTITY pref_plugins "Insticksmoduler">
 <!ENTITY pref_plugins_enabled "Aktiverad">
@@ -249,14 +251,14 @@ size. -->
 <!ENTITY pref_media_autoplay_enabled_summary "Kontrollera om webbplatser kan spela upp automatiskt videor och annat medieinnehåll">
 <!ENTITY pref_zoom_force_enabled "Aktivera alltid zoom">
 <!ENTITY pref_zoom_force_enabled_summary "åsidosätt så att du kan zooma på vilken sida som helst">
-
-
-
-
+<!ENTITY pref_voice_input "Röst inmatning">
+<!ENTITY pref_voice_input_summary "Tillåt röstdiktering i namnlisten">
+<!ENTITY pref_qrcode_enabled "QR-Kods läsare ">
+<!ENTITY pref_qrcode_enabled_summary "Tillåt QR skanner i namnlisten">
 
 <!ENTITY pref_use_master_password "Använd huvudlösenord">
 <!ENTITY pref_sync "Sync">
-
+<!ENTITY pref_sync_summary2 "Synka dina flikar, bokmärken, inloggningar, historik ">
 <!ENTITY pref_search_suggestions "Visa sökförslag">
 <!ENTITY pref_import_android "Importera från Android">
 <!ENTITY pref_import_android_summary "Importera bokmärken och historia från Androids standardwebläsare">
@@ -264,12 +266,12 @@ size. -->
 <!ENTITY pref_private_data_searchHistory "Sökhistorik">
 <!ENTITY pref_private_data_formdata2 "Formulär historia ">
 <!ENTITY pref_private_data_cookies2 "Kakor och aktiva inloggningar">
-
+<!ENTITY pref_private_data_passwords2 "Sparade Inloggningar ">
 <!ENTITY pref_private_data_cache "Cache">
 <!ENTITY pref_private_data_offlineApps "Nedkopplad webbplatsdata">
 <!ENTITY pref_private_data_siteSettings2 "Platsinställningar">
 <!ENTITY pref_private_data_downloadFiles2 "Hämtningar">
-
+<!ENTITY pref_private_data_syncedTabs "Synkade flikar ">
 
 
 <!ENTITY pref_about_firefox "Om &brandShortName;">
@@ -292,7 +294,7 @@ size. -->
 <!ENTITY datareporting_notification_action_long "Välj vilken information som ska delas">
 <!ENTITY datareporting_notification_action "Välj vad som ska delas">
 <!ENTITY datareporting_notification_summary "För att förbättra upplevelsen skickar &brandShortName; automatiskt viss information till &vendorShortName;.">
-<!ENTITY datareporting_notification_summary_short "För att förbättra upplevelsen …">
+<!ENTITY datareporting_notification_summary_short "För att förbättra upplevelsen,  &brandShortName;…">
 <!ENTITY datareporting_notification_ticker_text "&datareporting_notification_title;: &datareporting_notification_action_long;">
 <!-- Localization note (datareporting_fhr_title, datareporting_fhr_summary2,
      reporting_telemetry_title, datareporting_telemetry_summary,
@@ -389,11 +391,11 @@ size. -->
 <!ENTITY doorhanger_login_edit_password_hint "Lösenord">
 <!ENTITY doorhanger_login_edit_toggle "Visa lösenord">
 <!ENTITY doorhanger_login_edit_toast_error "Misslyckades med att spara login">
-
-
-
-
-
+<!ENTITY doorhanger_login_select_message "Kopiera lösenord från &formatS;?">
+<!ENTITY doorhanger_login_select_toast_copy "Lösenord kopierat till urklipp ">
+<!ENTITY doorhanger_login_select_toast_copy_error "Kunde inte kopiera lösenord ">
+<!ENTITY doorhanger_login_select_action_text "Välj en annan inloggning">
+<!ENTITY doorhanger_login_select_title "Kopiera lösenord från ">
 
 <!ENTITY pref_titlebar_mode "Namnfältet">
 <!ENTITY pref_titlebar_mode_title "Visa sidans namn">
@@ -405,7 +407,7 @@ size. -->
 <!ENTITY pref_scroll_title_bar_summary "Dölj &brandShortName;namnlistan när du bläddrar ner en sida">
 
 <!ENTITY pref_tab_queue_title2 "Öppna flera länkar ">
-
+<!ENTITY pref_tab_queue_summary3 "Spara dom tills nästa gång du öppnar &brandShortName;">
 <!-- Localization note (page_removed): This string appears in a toast message when
      any page is removed frome about:home. This includes pages that are in history,
      bookmarks, or reading list. -->
@@ -425,6 +427,8 @@ size. -->
 <!ENTITY site_settings_no_settings  "Det finns inga inställningar att rensa.">
 <!-- Localization note (reading_list_added2) : Used in a toast, please keep as short
      as possible. -->
+
+<!ENTITY reading_list_added2 "Tillagd till lista">
 <!ENTITY reading_list_removed "Sidan borttagen från din läslista">
 <!-- Localization note (reading_list_remove) : Used to remove the currently open page from
      the user's reading list. The opposite of overlay_share_reading_list_btn_label. -->
@@ -611,7 +615,7 @@ från Android">
 <!ENTITY guest_session_dialog_continue "Fortsätt">
 <!ENTITY guest_session_dialog_cancel "Avbryt">
 <!ENTITY new_guest_session_title "&brandShortName; startas om">
-
+<!ENTITY new_guest_session_text2 "Personen som använder den kommer inte att kunna se något av din personliga webbläsardata (såsom sparade lösenord, historik eller bokmärken).\n\nNär gästen är klar kommer dess webbläsardata att raderas och din session att återupptas.">
 <!ENTITY guest_browsing_notification_title "Gäst surfning är aktiverat">
 <!ENTITY guest_browsing_notification_text "Tryck för att avsluta">
 
@@ -661,3 +665,4 @@ från Android">
 
 <!ENTITY find_matchcase "Aa">
 
+<!ENTITY intent_uri_cannot_open "Kan inte öppna länk">
