@@ -42,7 +42,7 @@
 <!ENTITY sync.button.manual.label "Gosod gyda Llaw">
 <!ENTITY sync.subtitle.nointernet.label "Dim cysylltiad gwe ar gael.">
 <!ENTITY sync.subtitle.failaccount.label "Methodd creu cyfrif ar eich dyfais.">
-<!ENTITY sync.subtitle.failmultiple.label "A oes gennych fwy nag un Firefox wedi ei osod? Ar hyn o bryd mae &syncBrand.fullName.label; yn cynnal dim ond un Firefox ar y tro. Dadosodwch unrhyw engraifft er mwyn defnyddio&syncBrand.shortName.label;.">
+<!ENTITY sync.subtitle.failmultiple.label "A oes gennych fwy nag un Firefox wedi ei osod? Ar hyn o bryd mae &syncBrand.fullName.label; yn cynnal dim ond un Firefox ar y tro. Dadosodwch unrhyw enghraifft arall er mwyn defnyddio&syncBrand.shortName.label;.">
 <!-- Setup Success -->
 
 <!ENTITY sync.title.success.label "Wedi Cwblhau’r Gosod">
@@ -62,7 +62,7 @@
 <!ENTITY sync.configure.engines.title.label "Beth i\u0027w gydweddu">
 <!ENTITY sync.configure.engines.sync.my.title.label "Cydweddu eich…">
 <!ENTITY sync.configure.engines.title.bookmarks "Nodau Tudalen">
-<!ENTITY sync.configure.engines.title.passwords "Cyfrineiriau">
+<!ENTITY sync.configure.engines.title.passwords2 "Mewngofnodion">
 <!ENTITY sync.configure.engines.title.history "Hanes">
 <!ENTITY sync.configure.engines.title.tabs "Tabiau">
 <!-- Common text -->
@@ -141,7 +141,7 @@
 <!ENTITY fxaccount_policy_linkprivacy "Rhybudd Preifatrwydd">
 
 <!ENTITY fxaccount_getting_started_welcome_to_sync "Croeso i &syncBrand.shortName.label;">
-<!ENTITY fxaccount_getting_started_description "Mewngofnodwch i gydweddu eich tabiau, nodau tudalen, cyfrineiriau a rhagor.">
+<!ENTITY fxaccount_getting_started_description2 "Mewngofnodwch i gydweddu eich tabiau, nodau tudalen, mewngofnodion a rhagor.">
 <!ENTITY fxaccount_getting_started_get_started "Cychwyn arni">
 <!ENTITY fxaccount_getting_started_old_firefox "Defnyddio hen fersiwn o &syncBrand.shortName.label;?">
 <!-- Localization note: the Firefox below should not change with the
@@ -212,7 +212,7 @@
 <!ENTITY fxaccount_status_needs_finish_migrating "Tapiwch i fewngofnodi i\u0027ch Cyfrif Firefox newydd.">
 <!ENTITY fxaccount_status_bookmarks "Nodau Tudalen">
 <!ENTITY fxaccount_status_history "Hanes">
-<!ENTITY fxaccount_status_passwords "Cyfrineiriau">
+<!ENTITY fxaccount_status_passwords2 "Mewngofnodion">
 <!ENTITY fxaccount_status_tabs "Agor tabiau">
 <!ENTITY fxaccount_status_legal "Cyfreithiol" >
 <!-- Localization note: when tapped, the following two strings link to
