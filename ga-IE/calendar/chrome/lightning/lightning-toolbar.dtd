@@ -8,10 +8,15 @@
 <!ENTITY lightning.toolbar.task.name.accesskey "T">
 
 <!ENTITY lightning.toolbar.sync.label "Sioncrónaigh">
+<!ENTITY lightning.toolbar.sync.tooltip "Athluchtaigh féilirí agus sioncrónaigh athruithe">
 <!ENTITY lightning.toolbar.delete.label "Scrios">
+<!ENTITY lightning.toolbar.delete.tooltip "Scrios na himeachtaí nó tascanna roghnaithe">
 <!ENTITY lightning.toolbar.edit.label "Eagar">
+<!ENTITY lightning.toolbar.edit.tooltip "Cuir an t-imeacht nó tasc roghnaithe in eagar">
 <!ENTITY lightning.toolbar.gototoday.label "Taispeáin Inniu">
+<!ENTITY lightning.toolbar.gototoday.tooltip "Taispeáin Inniu">
 <!ENTITY lightning.toolbar.print.label "Priontáil">
+<!ENTITY lightning.toolbar.print.tooltip "Priontáil imeachtaí nó tascanna">
 <!-- Mode Toolbar -->
 
 <!ENTITY lightning.toolbar.calendar.label     "Féilire">
@@ -23,7 +28,9 @@
 <!-- Toolbar write button -->
 
 <!ENTITY lightning.toolbar.newevent.label     "Imeacht">
+<!ENTITY lightning.toolbar.newevent.tooltip   "Cruthaigh imeacht nua">
 <!ENTITY lightning.toolbar.newtask.label      "Tasc">
+<!ENTITY lightning.toolbar.newtask.tooltip    "Cruthaigh tasc nua">
 <!-- Calendar and Task Mode Toolbar -->
 
 <!ENTITY lightning.toolbar.day.label                 "Lá">
