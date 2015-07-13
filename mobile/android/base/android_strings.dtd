@@ -98,6 +98,8 @@
 <!-- Localization note (overlay_share_label) : This is the label that appears
      in Android's intent chooser when sending a link to Firefox to bookmark,
      send to another device, or add to Reading List. -->
+
+<!ENTITY overlay_share_label "&brandShortName; এ যোগ করুন">
 <!-- Localization note (overlay_share_bookmark_btn_label) : This string is
      used in the share overlay menu to select an action. It is the verb
      "to bookmark", not the noun "a bookmark". -->
@@ -113,25 +115,27 @@
      to. -->
 
 <!ENTITY overlay_share_send_tab_btn_label "অন্য ডিভাইসে প্রেরণ করুন">
-
+<!ENTITY overlay_share_no_url "এই শেয়ারে কোনো লিঙ্ক পাওয়া যায়নি">
 <!ENTITY overlay_share_select_device "ডিভাইস নির্বাচন করুন">
 <!-- Localization note (overlay_no_synced_devices) : Used when the menu option
      to send a tab to a synced device is pressed and no other synced devices
      are found. -->
+<!ENTITY overlay_no_synced_devices "কোন ফায়ারফক্স অ্যাকাউন্ট সংযুক্ত ডিভাইস পাওয়া যায়নি">
 <!-- Localization note (overlay_share_tab_not_sent) : Used when the menu option
      to send a tab to a synced device is pressed and there is an error
      connecting to the server so the tab could not be sent. The text should be
      divided into two lines (use the newline escape character, "\n", between
      them): the first notifying the user about the failure and the second
      telling the user what to do about it. -->
+<!ENTITY overlay_share_tab_not_sent "আপনার ট্যাব পাঠানো যায়নি।\nঅনুগ্রহ করে পুনরায় চেষ্টা করুন।">
 
 <!ENTITY pref_category_search3 "অনুসন্ধান করুন">
-
+<!ENTITY pref_category_search_summary "আপনার অনুসন্ধান সেবাপ্রদানকারী কাস্টমাইজ করুন">
 <!ENTITY pref_category_display "প্রদর্শন">
-
+<!ENTITY pref_category_display_summary "টেক্সট, টাইটেল বার, ফুল-স্ক্রিন ব্রাউজিং">
 <!ENTITY pref_category_privacy_short "গোপনীয়তা">
 
-
+<!ENTITY pref_category_vendor "&vendorShortName;">
 
 
 <!ENTITY pref_learn_more "আরও জানুন">
